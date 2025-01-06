@@ -8,7 +8,7 @@
 
 &emsp;(B) Preventive health service programs for the control of rodents and for community and school-based fluoridation programs.
 
-&emsp;(C) Feasibility studies and planning for emergency medical services systems and the establishment, expansion, and improvement of such systems. Amounts for such systems may not be used for the costs of the operation of the systems or the purchase of equipment for the systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems. Amounts may be expended for feasibility studies orplanning for the trauma-care components of such systems only if the studies or planning, respectively, is consistent with the requirements of section 300d–13(a) of this title.
+&emsp;(C) Feasibility studies and planning for emergency medical services systems and the establishment, expansion, and improvement of such systems. Amounts for such systems may not be used for the costs of the operation of the systems or the purchase of equipment for the systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems. Amounts may be expended for feasibility studies or planning for the trauma-care components of such systems only if the studies or planning, respectively, is consistent with the requirements of section 300d–13(a) of this title.
 
 &emsp;(D) Providing services to victims of sex offenses and for prevention of sex offenses.
 

@@ -6,7 +6,7 @@ Commencement.—A term of probation commences on the day that the sentence of pr
 
 (b)
 
-Concurrence With Other Sentences.—Multiple terms of probation, whether imposed atthe same time or at different times, run concurrently with each other. A term of probation runs concurrently with any Federal, State, or local term of probation, supervised release, or parole for another offense to which the defendant is subject or becomes subject during the term of probation. A term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than thirty consecutive days.
+Concurrence With Other Sentences.—Multiple terms of probation, whether imposed at the same time or at different times, run concurrently with each other. A term of probation runs concurrently with any Federal, State, or local term of probation, supervised release, or parole for another offense to which the defendant is subject or becomes subject during the term of probation. A term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or localcrime unless the imprisonment is for a period of less than thirty consecutive days.
 
 (c)
 

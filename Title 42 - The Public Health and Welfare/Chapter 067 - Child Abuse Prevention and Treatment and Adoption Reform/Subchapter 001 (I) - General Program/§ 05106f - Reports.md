@@ -6,7 +6,7 @@ Not later than 1 year after December 20, 2010, the Secretary shall submit to the
 
 #### (b) Effectiveness of State programs and technical assistance
 
-Not later than 2 years after December 20, 2010, and every 2 years thereafter, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report evaluating the effectiveness of programs receiving assistance under section 5106a of this title in achieving the objectives of section 5106a of this title.
+Not later than 2 years after December 20, 2010, and every 2 years thereafter, the Secretary shallsubmit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report evaluating the effectiveness of programs receiving assistance under section 5106a of this title in achieving the objectives of section 5106a of this title.
 
 #### (c) Study and report relating to citizen review panels
 

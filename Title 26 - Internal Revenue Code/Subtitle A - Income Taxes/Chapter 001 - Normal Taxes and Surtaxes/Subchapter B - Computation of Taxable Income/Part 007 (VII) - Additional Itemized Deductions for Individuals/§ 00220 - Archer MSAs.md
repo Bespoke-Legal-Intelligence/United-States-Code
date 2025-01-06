@@ -14,7 +14,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;The monthly limitation for any month is the amount equal to 1/12 of—
 
-&emsp;&emsp;(A) in the case of an individual who has self-only coverage under the high deductiblehealth plan as of the first day of such month, 65 percent of the annual deductible under such coverage, and
+&emsp;&emsp;(A) in the case of an individual who has self-only coverage under the high deductible health plan as of the first day of such month, 65 percent of the annual deductible under such coverage, and
 
 &emsp;&emsp;(B) in the case of an individual who has family coverage under the high deductible health plan as of the first day of such month, 75 percent of the annual deductible under such coverage.
 
@@ -54,7 +54,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (7) Medicare eligible individuals
 
-&emsp;The limitation under this subsection for any month with respect to an individual shall be zero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
+&emsp;The limitation under this subsection for any month with respect to an individual shall bezero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
 
 #### (c) Definitions
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term "high deductible health plan" means a health plan—
 
-&emsp;&emsp;&emsp;(i) in the case of self-only coverage, which has an annual deductible which isnot less than $1,500 and not more than $2,250,
+&emsp;&emsp;&emsp;(i) in the case of self-only coverage, which has an annual deductible which is not less than $1,500 and not more than $2,250,
 
 &emsp;&emsp;&emsp;(ii) in the case of family coverage, which has an annual deductible which is not less than $3,000 and not more than $4,500, and
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder,amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account has ceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
+&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account hasceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
 
 #### (2) Account terminations
 
@@ -288,7 +288,7 @@ For purposes of this section—
 
 #### (B) Exception for disability or death
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the payment or distribution is made after theaccount holder becomes disabled within the meaning of section 72(m)(7) or dies.
+&emsp;&emsp;Subparagraph (A) shall not apply if the payment or distribution is made after the account holder becomes disabled within the meaning of section 72(m)(7) or dies.
 
 #### (C) Exception for distributions after medicare eligibility
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the account holder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
+&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the accountholder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) such account shall cease to be an Archer MSA as of the date of death, and
 
@@ -448,7 +448,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;&emsp;(i) the number of MSA returns filed on or before April 15 of such calendar year for taxable years ending with or within the preceding calendar year, plus
 
-&emsp;&emsp;&emsp;(ii) the Secretary's estimate (determined on the basis of the returns described inclause (i)) of the number of MSA returns for such taxable years which will be filed after such date,
+&emsp;&emsp;&emsp;(ii) the Secretary's estimate (determined on the basis of the returns described in clause (i)) of the number of MSA returns for such taxable years which will be filed after such date,
 
 > &emsp;&emsp;exceeds 750,000 (600,000 in the case of 1998). For purposes of the preceding sentence, the term "MSA return" means any return on which any exclusion is claimed under section 106(b) or any deduction is claimed under this section.
 
@@ -526,7 +526,7 @@ A prior section 220 was renumbered 224 of this title.
 
 Another prior section 220, added Pub. L. 100–647, title VI, §6007(a), Nov. 10, 1988, 102 Stat. 3687, related to jury duty pay remitted to employer, prior to repeal by Pub. L. 101–508, title XI, §11802(e)(2), Nov. 5, 1990, 104 Stat. 1388–530.
 
-Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub.L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
+Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
 
 #### Amendments
 
@@ -670,7 +670,7 @@ Pub. L. 111–148, title IX, §9004(c), Mar. 23, 2010, 124 Stat. 854, provided t
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 207(19) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+Amendment by section 207(19) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, seesection 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 Pub. L. 108–311, title III, §322(c), Oct. 4, 2004, 118 Stat. 1183, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2004."
 

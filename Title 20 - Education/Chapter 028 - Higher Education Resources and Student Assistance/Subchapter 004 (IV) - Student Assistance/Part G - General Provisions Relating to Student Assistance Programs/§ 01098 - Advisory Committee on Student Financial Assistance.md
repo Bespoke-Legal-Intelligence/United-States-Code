@@ -30,9 +30,9 @@ In the exercise of its functions, powers, and duties, the Advisory Committee sha
 
 (1) The Advisory Committee shall consist of 11 members appointed as follows:
 
-&emsp;(A) Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of the Senate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.
+&emsp;(A) Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of theSenate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.
 
-&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, ofwhom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
+&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
 
 &emsp;(C) Three members shall be appointed by the Secretary, of whom at least one member shall be a student.
 
@@ -102,7 +102,7 @@ Members of the Advisory Committee may each receive reimbursement for travel expe
 
 #### (h) Personnel and resources
 
-(1) The Advisory Committee may appoint such personnel as may be determined necessary by the Chairman without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but no individual so appointed shall be paid in excess of the rate authorized for GS–18 of the General Schedule. The Advisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.
+(1) The Advisory Committee may appoint such personnel as may be determined necessary by the Chairman without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but no individual so appointed shall be paid in excess of the rate authorized for GS–18 of the General Schedule. The Advisory Committee may appointnot more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.
 
 (2) In carrying out its duties under this chapter, the Advisory Committee shall consult with other Federal agencies, representatives of State and local governments, and private organizations to the extent feasible.
 
@@ -172,7 +172,7 @@ Notwithstanding the sunset and charter provisions of chapter 10 of title 5 or an
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the review, analysis, and development of the website required underparagraph (2), the Advisory Committee shall consult with the Secretary, other Federal agencies, relevant representatives of institutions of higher education, individuals who have expertise and experience with Federal regulations, and the review panels described in subparagraph (B).
+&emsp;&emsp;In carrying out the review, analysis, and development of the website required under paragraph (2), the Advisory Committee shall consult with the Secretary, other Federal agencies, relevant representatives of institutions of higher education, individuals who have expertise and experience with Federal regulations, and the review panels described in subparagraph (B).
 
 #### (B) Review panels
 
@@ -238,7 +238,7 @@ Notwithstanding the sunset and charter provisions of chapter 10 of title 5 or an
 
 &emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 117–286, §4(a)(147), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 117–286, §4(a)(147), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
 

@@ -84,7 +84,7 @@ The grassland conservation plan developed for eligible land shall be limited toâ
 
 #### (h) Considered planted
 
-The Secretary shall consider land enrolled under a grassland conservation contract under this section during a crop year to be planted orconsidered planted to a covered commodity (as defined in section 9011 of title 7) during that crop year.
+The Secretary shall consider land enrolled under a grassland conservation contract under this section during a crop year to be planted or considered planted to a covered commodity (as defined in section 9011 of title 7) during that crop year.
 
 #### (i) Other contracts
 

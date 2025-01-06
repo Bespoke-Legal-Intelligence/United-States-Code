@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under section 6411(b) ofthis title, the Director of the Office to Monitor and Combat Trafficking, and the director of the George P. Shultz National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
+&emsp;The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this title, the Director of the Office to Monitor and Combat Trafficking, and the director of the George P. Shultz National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
 
 &emsp;&emsp;(A) instruction on international documents and United States policy in human rights, which shall be mandatory for all members of the Service having reporting responsibilities relating to human rights and for chiefs of mission;
 
@@ -54,7 +54,7 @@ The Secretary of State, with the assistance of other relevant officials, shall e
 
 #### (d) Economic and commercial diplomacy
 
-The Secretary of State, with the assistance of other relevant officials and the private sector, shall establish as part of the standard trainingprovided for economic and commercial officers of the Foreign Service, chiefs of mission, and deputy chiefs of mission, training on matters related to economic and commercial diplomacy, with particular attention to market access and other elements of an enabling framework for United States businesses, commercial advocacy, and United States foreign economic policy, in addition to awareness about the support of the United States Government available to United States businesses, including support provided by the Department of Agriculture, the Department of Commerce, the Export-Import Bank of the United States, the Millennium Challenge Corporation, the Trade and Development Agency, the Department of the Treasury, the United States Agency for International Development, and the United States International Development Finance Corporation.
+The Secretary of State, with the assistance of other relevant officials and the private sector, shall establish as part of the standard training provided for economic and commercial officers of the Foreign Service, chiefs of mission, and deputy chiefs of mission, training on matters related to economic and commercial diplomacy, with particular attention to market access and other elements of an enabling framework for United States businesses, commercial advocacy, and United States foreign economic policy, in addition to awareness about the support of the United States Government available to United States businesses, including support provided by the Department of Agriculture, the Department of Commerce, the Export-Import Bank of the United States, the Millennium Challenge Corporation, the Trade and Development Agency, the Department of the Treasury, the United States Agency for International Development, and the United States International Development Finance Corporation.
 
 #### (e) Training in multilateral diplomacy
 
@@ -105,6 +105,10 @@ Subsecs. (b), (c). Pub. L. 114–281, §103(a)(2), (3), inserted headings.
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set out as an Effective Date note under section 2370c of this title.
+
+#### Economic and Commercial Diplomacy Training
+
+Pub. L. 118–47, div. F, title VII, §7028(b), Mar. 23, 2024, 138 Stat. 778, provided that: "In carrying out section 705 of title VII of division J of Public Law 116–94 \[amending this section\], the Secretary of State shall annually assess training needs across the economic and commercial diplomacy issue areas and ensure, after a review of course offerings, course attendance records, and course evaluation results, that current offerings meet training needs."
 
 #### Training for Department Employees
 

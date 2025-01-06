@@ -60,7 +60,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 #### (2) Retransmission consent rights not affected
 
-&emsp;The eligibility of the signal of a station to be carried under this section does not affect any right of the licensee of such station to grant (or withhold) retransmission consent under section 325(b)(1) of this title.
+&emsp;The eligibility of the signal of a station to be carried under this section does not affectany right of the licensee of such station to grant (or withhold) retransmission consent under section 325(b)(1) of this title.
 
 #### (e) Network nonduplication and syndicated exclusivity
 
@@ -78,7 +78,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 &emsp;Upon complaint, the Commission shall issue a cease and desist order to any satellite carrier found to have violated this section in carrying any television broadcast station. Such order may, if a complaining station requests damagesâ€”
 
-&emsp;&emsp;(A) provide for the award of damages to a complaining station that establishes thatthe violation was committed in bad faith, in an amount up to $50 per subscriber, per station, per day of the violation; and
+&emsp;&emsp;(A) provide for the award of damages to a complaining station that establishes that the violation was committed in bad faith, in an amount up to $50 per subscriber, per station, per day of the violation; and
 
 &emsp;&emsp;(B) provide for the award of damages to a prevailing satellite carrier if the Commission determines that the complaint was frivolous, in an amount up to $50 per subscriber alleged to be in violation, per station alleged, per day of the alleged violation.
 
@@ -124,7 +124,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 &emsp;&emsp;A satellite carrier's retransmission of television broadcast stations pursuant to this section shall be subject to the following limitations:
 
-&emsp;&emsp;&emsp;(i) In any local market in which the satellite carrier provides service pursuant to section 338 of this title on December 8, 2004, the carrier may notify a television broadcast station in that market, at least 60 days prior to any date on which the station must thereafter make an election under section 76.66 of the Commission's regulations (47 CFR 76.66), ofâ€”
+&emsp;&emsp;&emsp;(i) In any local market in which the satellite carrier provides service pursuant tosection 338 of this title on December 8, 2004, the carrier may notify a television broadcast station in that market, at least 60 days prior to any date on which the station must thereafter make an election under section 76.66 of the Commission's regulations (47 CFR 76.66), ofâ€”
 
 &emsp;&emsp;&emsp;&emsp;(I) each affiliate of the same television network that the carrier reserves the right to retransmit into that station's local market pursuant to this section during the next election cycle under such section of such regulations; and
 

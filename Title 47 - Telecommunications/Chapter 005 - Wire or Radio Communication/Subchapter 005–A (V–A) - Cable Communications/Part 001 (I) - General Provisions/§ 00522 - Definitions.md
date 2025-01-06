@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 &emsp;(1) the term "activated channels" means those channels engineered at the headend of a cable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
 
-&emsp;(2) the term "affiliate", when used in relation to any person, means another person who owns or controls, is owned or controlled by, oris under common ownership or control with, such person;
+&emsp;(2) the term "affiliate", when used in relation to any person, means another person who owns or controls, is owned or controlled by, or is under common ownership or control with, such person;
 
 &emsp;(3) the term "basic cable service" means any service tier which includes the retransmission of local television broadcast signals;
 
@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 &emsp;(18) the term "State" means any State, or political subdivision, or agency thereof;
 
-&emsp;(19) the term "usable activated channels" means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term "usable activated channels" means activated channels of a cable system,except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
 &emsp;(20) the term "video programming" means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 

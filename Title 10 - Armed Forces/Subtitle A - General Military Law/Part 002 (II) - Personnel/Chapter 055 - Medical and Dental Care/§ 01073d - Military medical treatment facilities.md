@@ -6,7 +6,7 @@ In General.—To support the medical readiness of the armed forces and the readi
 
 (b)
 
-Medical Centers.—(1) The Secretary of Defense shall maintain medical centers in areaswith a large population of members of the armed forces and covered beneficiaries.
+Medical Centers.—(1) The Secretary of Defense shall maintain medical centers in areas with a large population of members of the armed forces and covered beneficiaries.
 
 (2) Medical centers shall serve as referral facilities for members and covered beneficiaries who require comprehensive health care services that support medical readiness.
 
@@ -78,7 +78,7 @@ Medical Centers.—(1) The Secretary of Defense shall maintain medical centers i
 
 &emsp;(i) shall ensure that the Secretaries of the military departments assign military personnel to core casualty receiving facilities designated under subparagraph (A) at not less than 90 percent of the staffing level required to maintain the operating bed capacity necessary to support operation planning requirements;
 
-&emsp;(ii) may augment the staffing of military personnel at core casualty receiving facilities under subparagraph (A) with civilian employees of the Department of Defense to fulfil <sup>1</sup> the staffing requirement under clause (i); and
+&emsp;(ii) may augment the staffing of military personnel at core casualty receiving facilities under subparagraph (A) with civilian employees of the Department of Defense to fulfill the staffing requirement under clause (i); and
 
 &emsp;(iii) shall ensure that each core casualty receiving facility under subparagraph (A) is staffed with a civilian Chief Financial Officer and a civilian Chief Operating Officer with experience in the management of civilian hospital systems, for the purpose of ensuring continuity in the management of the facility.
 
@@ -126,7 +126,7 @@ Maintenance of Inpatient Capabilities at Military Medical Treatment Facilities L
 
 &emsp;&emsp;(i) replace the inpatient capabilities the Secretary proposes to eliminate; and
 
-&emsp;&emsp;(ii) ensure members of the armed forces and covered beneficiaries who receive health care from such covered facility, have, within a distance the Secretary determines is reasonable, access to quality health care, including case management and translation services.
+&emsp;&emsp;(ii) ensure members of the armed forces and covered beneficiaries who receive health care from such covered facility, have, withina distance the Secretary determines is reasonable, access to quality health care, including case management and translation services.
 
 &emsp;(B) The Secretary has consulted with the commander of the geographic combatant command in which such covered facility is located to ensure that the proposed elimination would have no impact on the operational plan for such geographic combatant command.
 
@@ -150,7 +150,7 @@ Notification Required to Modify Scope of Services Provided at Military Medical T
 
 (2) Each notification under paragraph (1) shall contain information demonstrating, with respect to the military medical treatment facility for which the modification in scope has been proposed, the extent to which the commander of the military installation at which the facility is located has been consulted regarding such modification, to ensure that the proposed modification in scope would have no impact on the operational plan for such installation.
 
-(Added Pub. L. 114–328, div. A, title VII, §703(a)(1), Dec. 23, 2016, 130 Stat. 2197; amended Pub. L. 115–91, div. A, title VII, §711, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 117–263, div. A, title VII, §§712, 713(a), 714(a), 715, Dec. 23, 2022, 136 Stat. 2657, 2659, 2660.)
+(Added Pub. L. 114–328, div. A, title VII, §703(a)(1), Dec. 23, 2016, 130 Stat. 2197; amended Pub. L. 115–91, div. A, title VII, §711, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 117–263, div. A, title VII, §§712, 713(a), 714(a), 715, Dec. 23, 2022, 136 Stat. 2657, 2659, 2660; Pub. L. 118–159, div. A, title XVII, §1701(a)(19), Dec. 23, 2024, 138 Stat. 2204.)
 
 #### <b>Editorial Notes</b>
 
@@ -159,6 +159,8 @@ Notification Required to Modify Scope of Services Provided at Military Medical T
 Section 706 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2), is section 706 of Pub. L. 114–328, which is set out as a note under section 1096 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(5)(C)(ii). Pub. L. 118–159 substituted "fulfill" for "fulfil".
 
 <b>2022</b>—Subsec. (b)(3)(D). Pub. L. 117–263, §712, substituted ", level two, or level three" for "or level two".
 
@@ -174,7 +176,7 @@ Subsec. (f). Pub. L. 117–263, §715, added subsec. (f).
 
 #### Deadline
 
-Pub. L. 117–263, div. A, title VII, §713(b), Dec. 23, 2022, 136 Stat. 2658, provided that: "The Secretary of Defenseshall designate certain major medical centers as regional centers of excellence in accordance with section 1073d(b)(4)(A) of title 10, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\]."
+Pub. L. 117–263, div. A, title VII, §713(b), Dec. 23, 2022, 136 Stat. 2658, provided that: "The Secretary of Defense shall designate certain major medical centers as regional centers of excellence in accordance with section 1073d(b)(4)(A) of title 10, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\]."
 
 #### Timeline for Establishment
 
@@ -210,7 +212,7 @@ Policies for Referral of Beneficiaries.—Not later than October 1, 2023, the Di
 
 "(d)
 
-Identification of Medical Personnel Billets and Staffing.—The Secretary of each military department, in conjunction with the Joint Staff Surgeon and the Director of the Defense Health Agency, shall identify specific medical personnel billets essential for the evaluation and treatment of ocular sensory injuries and ensure that centers of excellence established under subsection (a) are staffed with such personnel at the level required for the enduring medical support of each such center.
+Identification of Medical Personnel Billets and Staffing.—The Secretary of each military department, in conjunction with the Joint Staff Surgeon and the Director of the Defense Health Agency, shall identify specific medical personnel billets essential for the evaluation and treatment of ocular sensory injuries and ensure that centers of excellence established under subsection (a) are staffed with such personnel at thelevel required for the enduring medical support of each such center.
 
 "(e)
 
@@ -249,6 +251,4 @@ Exception.—In carrying out section 1073d of title 10, United States Code, as a
 "(e)
 
 Definitions.—In this section \[enacting this section and provisions set out as notes under this section\], the terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "fulfill".</i>
 

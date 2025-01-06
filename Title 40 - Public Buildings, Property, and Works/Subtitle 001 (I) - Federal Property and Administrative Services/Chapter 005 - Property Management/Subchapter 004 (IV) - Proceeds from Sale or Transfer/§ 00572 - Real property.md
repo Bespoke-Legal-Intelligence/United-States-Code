@@ -18,7 +18,7 @@ Authority.—From the fund described in paragraph (1), the Administrator may obl
 
 &emsp;&emsp;&emsp;(i) Fees of appraisers, auctioneers, and realty brokers, in accordance with the scale customarily paid in similar commercial transactions.
 
-&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of propertystudies, deed compliance inspection, and the expenses incurred in a relocation.
+&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation.
 
 &emsp;&emsp;&emsp;(iii) Advertising and surveying.
 

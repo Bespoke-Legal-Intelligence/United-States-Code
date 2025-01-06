@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Mar. 3, 1879, ch. 183 (2d par. under "Miscellaneous"); restated Apr. 14, 1937, ch. 79, 50 Stat. 63.
 
-In subsection (a), the word "lend" is substituted for the word "issue", with respect to arms and accouterments, since the property must be returned when the necessity for its use has expired. The words "and not properly expended" are inserted for clarity. The words "United States" are substituted for the word "Government". The word "their" is substituted for the words "suitable \* \* \* for use therewith". The words "itis no longer needed" are substituted for the words "the necessity for their use has expired".
+In subsection (a), the word "lend" is substituted for the word "issue", with respect to arms and accouterments, since the property must be returned when the necessity for its use has expired. The words "and not properly expended" are inserted for clarity. The words "United States" are substituted for the word "Government". The word "their" is substituted for the words "suitable \* \* \* for use therewith". The words "it is no longer needed" are substituted for the words "the necessity for their use has expired".
 
 In subsection (b), the words "hereafter", "borrowed", and "under the authority of this section" are omitted as surplusage.
 

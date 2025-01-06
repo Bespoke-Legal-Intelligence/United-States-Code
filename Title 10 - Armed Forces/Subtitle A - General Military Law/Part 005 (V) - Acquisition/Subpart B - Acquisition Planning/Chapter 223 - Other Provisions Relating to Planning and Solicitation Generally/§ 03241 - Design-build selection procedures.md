@@ -58,7 +58,7 @@ Evaluation factors.—
 
 &emsp;&emsp;(A)
 
-Evaluation factors to be used.—The evaluation factors to be used in evaluatingphase-one proposals are stated in the solicitation and include—
+Evaluation factors to be used.—The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include—
 
 &emsp;&emsp;&emsp;(i) specialized experience and technical competence;
 
@@ -124,7 +124,7 @@ Special Authority for Military Construction Projects.—(1) The Secretary of a m
 
 (4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
 
-(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645, §2305a;amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 108–375, div. B, title XXVIII, §2807, Oct. 28, 2004, 118 Stat. 2123; Pub. L. 109–163, div. B, title XXVIII, §2807, Jan. 6, 2006, 119 Stat. 3508; Pub. L. 113–291, div. A, title VIII, §814, Dec. 19, 2014, 128 Stat. 3430; Pub. L. 115–91, div. A, title VIII, §823, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–92, div. A, title XVII, §1731(a)(38), Dec. 20, 2019, 133 Stat. 1814; renumbered §3241 and amended Pub. L. 116–283, div. A, title XVIII, §1813(b), Jan. 1, 2021, 134 Stat. 4177.)
+(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645, §2305a; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 108–375, div. B, title XXVIII, §2807, Oct. 28, 2004, 118 Stat. 2123; Pub. L. 109–163, div. B, title XXVIII, §2807, Jan. 6, 2006, 119 Stat. 3508; Pub. L. 113–291, div. A, title VIII, §814, Dec. 19, 2014, 128 Stat. 3430; Pub. L. 115–91, div. A, title VIII, §823, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–92, div. A, title XVII, §1731(a)(38), Dec. 20, 2019, 133 Stat. 1814; renumbered §3241 and amended Pub. L. 116–283, div. A, title XVIII, §1813(b), Jan. 1, 2021, 134 Stat. 4177.)
 
 #### <b>Editorial Notes</b>
 

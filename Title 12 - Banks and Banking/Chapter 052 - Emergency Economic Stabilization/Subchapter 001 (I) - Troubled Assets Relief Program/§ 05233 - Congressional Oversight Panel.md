@@ -18,7 +18,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 &emsp;&emsp;&emsp;(ii) The impact of purchases made under the <sup>1</sup> chapter on the financial markets and financial institutions.
 
-&emsp;&emsp;&emsp;(iii) The extent to which the information made available on transactions under the program has contributed to market transparency.
+&emsp;&emsp;&emsp;(iii) The extent to which the information made available on transactions under theprogram has contributed to market transparency.
 
 &emsp;&emsp;&emsp;(iv) The effectiveness of foreclosure mitigation efforts, and the effectiveness of the program from the standpoint of minimizing long-term costs to the taxpayers and maximizing the benefits for taxpayers.
 

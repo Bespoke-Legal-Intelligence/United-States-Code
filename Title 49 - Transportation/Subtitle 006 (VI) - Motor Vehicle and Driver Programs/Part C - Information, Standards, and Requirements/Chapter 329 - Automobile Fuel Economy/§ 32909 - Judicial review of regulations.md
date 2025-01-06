@@ -84,7 +84,7 @@ In subsection (c)(1), the words "on request of the petitioner" are substituted f
 
 In subsection (c)(2), the words "amend . . . the regulation" and "amended . . . regulation" are substituted for "modify . . . the rule" and "modified . . . rule", respectively, for consistency in the chapter and because "regulation" is synonymous with "rule".
 
-In subsection (d), the words "affirming or setting aside, in whole or in part" are omitted as surplus. The words "and not in lieu of" in 15:2004(d) are omitted as surplus.
+In subsection (d), the words "affirming or setting aside, in whole or in part" are omitted as surplus. Thewords "and not in lieu of" in 15:2004(d) are omitted as surplus.
 
 #### Pub. L. 103–429
 

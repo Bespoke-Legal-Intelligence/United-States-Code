@@ -60,7 +60,7 @@ Person.—The term 'person'—
 
 &emsp;&emsp;"(A) means any individual, partnership, corporation, or cooperative association that regularly engages in the commercial transportation of equine for slaughter; but
 
-&emsp;&emsp;"(B) does not include any individual or other entity referred to in subparagraph (A) that occasionally transports equine for slaughter incidental tothe principal activity of the individual or other entity in production agriculture.
+&emsp;&emsp;"(B) does not include any individual or other entity referred to in subparagraph (A) that occasionally transports equine for slaughter incidental to the principal activity of the individual or other entity in production agriculture.
 
 #### "SEC. 903. REGULATION OF COMMERCIAL TRANSPORTATION OF EQUINE FOR SLAUGHTER.
 

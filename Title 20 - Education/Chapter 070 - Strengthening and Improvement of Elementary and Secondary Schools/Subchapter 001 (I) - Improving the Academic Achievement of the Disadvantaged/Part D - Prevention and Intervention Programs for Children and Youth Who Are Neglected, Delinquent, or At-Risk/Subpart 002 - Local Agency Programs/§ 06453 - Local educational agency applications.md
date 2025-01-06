@@ -52,7 +52,7 @@ A prior section 6453, Pub. L. 89–10, title I, §1423, as added Pub. L. 103–3
 
 Par. (4). Pub. L. 114–95, §1401(10)(B), added par. (4) and struck out former par. (4) which read as follows: "a description of the program operated by participating schools for children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;".
 
-Par. (7). Pub. L. 114–95, §1401(10)(C), inserted "institutions of higher education or" before "local businesses" and substituted "facilitate postsecondary and workforce success for children and youth returning from correctional facilities, such as through participation in credit-bearing coursework while in secondary school,enrollment in postsecondary education, participation in career and technical education programming" for "develop training, curriculum-based youth entrepreneurship education".
+Par. (7). Pub. L. 114–95, §1401(10)(C), inserted "institutions of higher education or" before "local businesses" and substituted "facilitate postsecondary and workforce success for children and youth returning from correctional facilities, such as through participation in credit-bearing coursework while in secondary school, enrollment in postsecondary education, participation in career and technical education programming" for "develop training, curriculum-based youth entrepreneurship education".
 
 Par. (8). Pub. L. 114–95, §1401(10)(D), inserted "and family members" after "parents".
 

@@ -32,7 +32,7 @@ If funds appropriated to carry out this chapter are less than $150,000,000 for a
 
 &emsp;(3) the Secretary shall provide such technical assistance and monitoring as necessary to ensure that the use of the funds by Local Councils and the distribution of the funds to Local Councils are consistent with this chapter; and
 
-&emsp;(4) subject to paragraph (1), the Secretary shall assume the responsibilities of the Lead State Agency under this chapter, as appropriate.
+&emsp;(4) subject to paragraph (1), the Secretary shall assume the responsibilities of the LeadState Agency under this chapter, as appropriate.
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §807\], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
 

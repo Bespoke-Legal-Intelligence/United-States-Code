@@ -280,7 +280,7 @@ Public Law 87–788 or Act of October 10, 1962, referred to in pars. (5)(A)(i) a
 
 The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
-Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 etseq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -426,7 +426,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 "(2)
 
-Revocation.—An NLGCA Institution that the Secretary determines under subparagraph (A) to be notin compliance shall have the designation of such institution revoked."
+Revocation.—An NLGCA Institution that the Secretary determines under subparagraph (A) to be not in compliance shall have the designation of such institution revoked."
 
 #### <b>Executive Documents</b>
 

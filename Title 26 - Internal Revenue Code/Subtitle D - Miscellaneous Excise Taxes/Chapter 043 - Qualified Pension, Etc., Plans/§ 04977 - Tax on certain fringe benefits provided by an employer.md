@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 99–514, §1853(c)(2), added subsec. (f).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to reimbursements or other payments in respect of expensesincurred after Dec. 31, 1993, see section 13213(e) of Pub. L. 103–66, set out as a note under section 62 of this title.
+Amendment by Pub. L. 103–66 applicable to reimbursements or other payments in respect of expenses incurred after Dec. 31, 1993, see section 13213(e) of Pub. L. 103–66, set out as a note under section 62 of this title.
 
 #### Effective Date of 1986 Amendment
 

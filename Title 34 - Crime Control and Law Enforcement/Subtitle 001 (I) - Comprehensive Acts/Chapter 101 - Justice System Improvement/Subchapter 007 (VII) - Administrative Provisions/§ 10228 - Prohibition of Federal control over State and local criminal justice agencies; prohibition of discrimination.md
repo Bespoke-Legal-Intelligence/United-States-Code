@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 (2)(A) Whenever there has been—
 
-&emsp;(i) receipt of notice of a finding, after notice and opportunity for a hearing, by a Federal court (other than in an action brought by theAttorney General) or State court, or by a Federal or State administrative agency, to the effect that there has been a pattern or practice of discrimination in violation of paragraph (1); or
+&emsp;(i) receipt of notice of a finding, after notice and opportunity for a hearing, by a Federal court (other than in an action brought by the Attorney General) or State court, or by a Federal or State administrative agency, to the effect that there has been a pattern or practice of discrimination in violation of paragraph (1); or
 
 &emsp;(ii) a determination after an investigation by the Office of Justice Programs (prior to a hearing under subparagraph (F) but including an opportunity for the State government or unit of local government to make a documentary submission regarding the allegation of discrimination with respect to such program or activity, with funds made available under this chapter) that a State government or unit of local government is not in compliance with paragraph (1);
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 98–473, §609B(h)(3), substituted "Office of Justice Prog
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 609B(h) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 10101 of this title.
+Amendment by section 609B(h) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473,set out as an Effective Date note under section 10101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

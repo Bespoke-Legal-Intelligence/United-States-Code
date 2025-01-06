@@ -48,7 +48,7 @@ In subsection (a)(1), the word "may" is substituted for the words "is authorized
 
 In subsection (a)(2), the word "undertaking" is substituted for the words "to the effect that he or they undertake". The words "make a contract" are inserted for clarity. The words "in the premises" are omitted as surplusage. The words "for the performance of the contract" are substituted for the words "to furnish the supplies proposed or to perform the service required".
 
-In subsection (b), the word "duly" is omitted as surplusage. The words "with good and sufficient securityfor the proper fulfillment of its terms" are omitted as covered by subsection (a)(2). The words "the prescribed" are inserted before the word "bond".
+In subsection (b), the word "duly" is omitted as surplusage. The words "with good and sufficient security for the proper fulfillment of its terms" are omitted as covered by subsection (a)(2). The words "the prescribed" are inserted before the word "bond".
 
 Subsection (b)(1) is substituted for the words "proceed to contract with some other person to furnish the supplies or perform the services required".
 

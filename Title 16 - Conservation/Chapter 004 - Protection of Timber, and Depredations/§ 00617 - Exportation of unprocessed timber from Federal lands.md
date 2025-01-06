@@ -14,7 +14,7 @@ The Secretaries of the departments administering lands referred to in subsection
 
 #### (d) Limitations inapplicable to sales of prescribed minimum value
 
-In issuing rules and regulations pursuant to subsection (c), the appropriate Secretaries may include therein provisions authorizing the saidSecretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
+In issuing rules and regulations pursuant to subsection (c), the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
 
 (Apr. 12, 1926, ch. 117, §2, as added Pub. L. 90–554, pt. IV, §401, Oct. 8, 1968, 82 Stat. 966; amended Pub. L. 91–609, title IX, §921, Dec. 31, 1970, 84 Stat. 1817.)
 

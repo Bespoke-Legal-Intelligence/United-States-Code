@@ -170,7 +170,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 &emsp;&emsp;&emsp;(i) such sale shall be treated as described in subparagraph (C)(i),
 
-&emsp;&emsp;&emsp;(ii) such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II) and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer, and
+&emsp;&emsp;&emsp;(ii) such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II)and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer, and
 
 &emsp;&emsp;&emsp;(iii) except as provided in this subparagraph, such fuel (and any fuel derived from such fuel) shall not be taken into account under subparagraph (C) with respect to the taxpayer or any other person.
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (6) Special rule for second generation biofuel producer credit
 
-&emsp;No second generation biofuel producer credit shall be determined under subsection (a) with respect to any second generation biofuel unless such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term "United States" includes any possession of the United States.
+&emsp;No second generation biofuel producer credit shall be determined under subsection (a) with respect to any second generation biofuel unless such second generation biofuel is producedin the United States and used as a fuel in the United States. For purposes of this subsection, the term "United States" includes any possession of the United States.
 
 #### (7) Limitation to alcohol with connection to the United States
 
@@ -340,7 +340,7 @@ For purposes of this section—
 
 &emsp;The Secretary may prescribe such regulations as may be necessary—
 
-&emsp;&emsp;(A) to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than60,000,000 gallons of alcohol during the taxable year, or
+&emsp;&emsp;(A) to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of alcohol during the taxable year, or
 
 &emsp;&emsp;(B) to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year.
 
@@ -364,7 +364,7 @@ For purposes of this section—
 
 #### (ii) Patrons
 
-&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shallbe included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
 
 #### (iii) Special rules for decrease in credits for taxable year
 
@@ -411,7 +411,7 @@ For purposes of this section—
 
 &emsp;&emsp;A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.
 
-(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV,§§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–240, title IV, §404(a)(1), (2), (b)(1)–(3)(B), Jan. 2, 2013, 126 Stat. 2338, 2339; Pub. L. 113–295, div. A, title I, §152(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §184(a), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40406(a), Feb. 9, 2018, 132 Stat. 149; Pub. L. 115–141, div. U, title IV, §401(a)(9), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §122(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §140(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13202(a), Aug. 16, 2022, 136 Stat. 1932.)
+(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–240, title IV, §404(a)(1), (2), (b)(1)–(3)(B), Jan. 2, 2013, 126 Stat. 2338, 2339; Pub. L. 113–295, div. A, title I, §152(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §184(a), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40406(a), Feb. 9, 2018, 132 Stat. 149; Pub. L. 115–141, div. U, title IV, §401(a)(9), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §122(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §140(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13202(a), Aug. 16, 2022, 136 Stat. 1932.)
 
 #### <b>Editorial Notes</b>
 
@@ -705,7 +705,7 @@ Pub. L. 101–508, title XI, §11502(h), Nov. 5, 1990, 104 Stat. 1388–482, pro
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10502(e), Dec. 22, 1987, 101 Stat. 1330–445, provided that: "The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of thistitle, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988."
+Pub. L. 100–203, title X, §10502(e), Dec. 22, 1987, 101 Stat. 1330–445, provided that: "The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988."
 
 #### Effective Date of 1984 Amendment
 

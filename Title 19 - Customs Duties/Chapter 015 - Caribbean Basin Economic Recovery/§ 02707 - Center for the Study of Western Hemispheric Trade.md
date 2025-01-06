@@ -60,7 +60,7 @@ The Commissioner of Customs is directed to make grants to any institution or ins
 
 #### (h) Report
 
-The Commissioner of Customs shall, no later than July 1, 1994, and annually thereafter for years for which grants are made, submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The first report shall include—
+The Commissioner of Customs shall, no later than July 1, 1994, and annually thereafter foryears for which grants are made, submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The first report shall include—
 
 &emsp;(1) a statement identifying the institution or institutions selected as the Center;
 

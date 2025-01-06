@@ -28,7 +28,7 @@ Powers and Duties of the Secretary of Defense.—(1) To execute the policy set f
 
 &emsp;(F) authorize the disposition in accordance with existing law of any of such property when in the opinion of the Secretary such property is no longer needed by the Department of Defense; and
 
-&emsp;(G) notwithstanding chapter 5 of title 40 and any other provision of law, authorize the transfer to a nonprofit educational institution or training school, on a nonreimbursable basis, of any such property already in the possession of such institution or school whenever the program proposed by such institution or school for the use of such property is in the public interest.
+&emsp;(G) notwithstanding chapter 5 of title 40 and any other provision of law, authorize thetransfer to a nonprofit educational institution or training school, on a nonreimbursable basis, of any such property already in the possession of such institution or school whenever the program proposed by such institution or school for the use of such property is in the public interest.
 
 (2)(A) The Secretary of a military department to which equipment or other property is transferred from the Defense Industrial Reserve shall reimburse appropriations available for the purposes of the Defense Industrial Reserve for the full cost (including direct and indirect costs) of—
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 107–107, §1048(a)(23)(C), redesignated par. (2) as (1), 
 
 Subsec. (a). Pub. L. 102–484, §4235(a)(2), transferred the text of section 451 of Title 50, War and National Defense, to this section, designated it subsec. (a), inserted heading, and substituted "It" for "In enacting this chapter it" in introductory provisions. See Codification note above.
 
-Subsec. (b). Pub. L. 102–484, §4235(a)(3), transferred the text of section 453 of Title 50, War and National Defense, to the end of this section and designated it subsec. (b), inserted heading, redesignated former subsec. (a) of section 453 as par. (1), substituted "in this section" for "in this chapter" in introductory provisions, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, in subpar. (G) redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated former subsec. (b) of section 453 as par. (2), and in par. (2) redesignated former par. (1) as subpar. (A), former subpars. (A) to (C) as cls. (i) to (iii), and former par. (2) as subpar. (B). See Codification note above.
+Subsec. (b). Pub. L. 102–484, §4235(a)(3), transferred the text of section 453 of Title 50, War and National Defense, to the end of this section and designated it subsec. (b), inserted heading, redesignated former subsec. (a) of section 453 as par. (1), substituted "in this section" for "in this chapter" in introductory provisions, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, in subpar. (G) redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated former subsec. (b) of section 453 as par. (2),and in par. (2) redesignated former par. (1) as subpar. (A), former subpars. (A) to (C) as cls. (i) to (iii), and former par. (2) as subpar. (B). See Codification note above.
 
 Subsec. (c). Pub. L. 102–484, §4235(b), transferred the text of section 452 of Title 50, War and National Defense, to the end of this section, designated it subsec. (c), inserted heading, and substituted "In this section:" for "As used in this chapter—" in introductory provisions. See Codification note above.
 

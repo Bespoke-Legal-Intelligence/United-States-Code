@@ -2,9 +2,9 @@
 
 None of the funds authorized to be appropriated by this Act or any other Act may be used for the transportation of any lethal chemical or any biological warfare agent to or from any military installation in the United States, or the open air testing of any such agent within the United States, or the disposal of any such agent within the United States until the following procedures have been implemented:
 
-&emsp;(1) the Secretary of Defense (hereafter referred to in this chapter as the "Secretary") has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
+&emsp;(1) the Secretary of Defense (hereafter referred to in this section <sup>1</sup> \[50 U.S.C. 1512, 1513–1515, 1517\] as the "Secretary") has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
 
-&emsp;(2) the Secretary has brought the particulars of the proposed transportation, testing, or disposal to the attention of the Secretary of Health and Human Services, who in turn may direct the Surgeon General of the Public Health Service and other qualified persons to review such particulars with respect to any hazards to public health and safety which such transportation, testing, or disposal may pose and to recommend what precautionary measures are necessary to protect the public health and safety;
+&emsp;(2) the Secretary has brought the particulars of the proposed transportation, testing, or disposal to the attention of the Secretary of Health and Human Services, who in turn may direct the Surgeon General of the Public Health Service and other qualified persons to review such particulars with respect to any hazards to public health and safety which such transportation, testing, or disposal may poseand to recommend what precautionary measures are necessary to protect the public health and safety;
 
 &emsp;(3) the Secretary has implemented any precautionary measures recommended in accordance with paragraph (2) above (including, where practicable, the detoxification of any such agent, if such agent is to be transported to or from a military installation for disposal): <i>Provided, however</i>, That in the event the Secretary finds the recommendation submitted by the Surgeon General would have the effect of preventing the proposed transportation, testing, or disposal, the President may determine that overriding considerations of national security require such transportation, testing, or disposal be conducted. Any transportation, testing, or disposal conducted pursuant to such a Presidential determination shall be carried out in the safest practicable manner, and the President shall report his determination and an explanation thereof to the President of the Senate and the Speaker of the House of Representatives as far in advance as practicable; and
 
@@ -16,7 +16,9 @@ None of the funds authorized to be appropriated by this Act or any other Act may
 
 #### References in Text
 
-This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in introductory provisions, means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+This section, referred to in par. (1), means section 409 of Pub. L. 91–121. Subsecs. (b), (c) to (e), and (g) of section 409 of Pub. L. 91–121 are classified to sections 1512, 1513 to 1515, and 1517 of this title, respectively. Section 409(a) of Pub. L. 91–121 was classified to section 1511 of this title, prior to repeal by Pub. L. 104–106, div. A, title X, §1061(k), Feb. 10, 1996, 110 Stat. 443. Section 409(f) of Pub. L. 91–121 was classified to section 1516 of this title, prior to being eliminated upon the enactment of similar provisions by section 506(a) of Pub. L. 91–441.
 
 #### Amendments
 
@@ -80,6 +82,10 @@ Resolution of ratification of the chemical weapons convention.—The term 'resol
 
 Pub. L. 91–672, §13, Jan. 12, 1971, 84 Stat. 2055, directed that no authorized funds could be used to transport chemical munitions from Okinawa to the United States, but could be used for detoxification or destruction of these munitions only outside the United States.
 
+#### Definition of "United States"
+
+For definition of "United States" as used in this section, see section 1514 of this title.
+
 #### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11850. Renunciation of Certain Uses in War of Chemical Herbicides and Riot Control Agents
@@ -105,4 +111,6 @@ Section 1. The Secretary of Defense shall take all necessary measures to ensure 
 Sec. 2. The Secretary of Defense shall prescribe the rules and regulations he deems necessary to ensure that the national policy herein announced shall be observed by the Armed Forces of the United States.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

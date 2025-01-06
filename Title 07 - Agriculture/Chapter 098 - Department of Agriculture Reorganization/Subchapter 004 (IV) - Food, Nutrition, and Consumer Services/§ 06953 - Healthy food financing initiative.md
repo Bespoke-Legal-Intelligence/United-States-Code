@@ -82,7 +82,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In carrying out the Initiative, the Secretary shall provide funding to entitieswith eligible projects, as described in subparagraph (B), subject to the priorities described in subparagraph (C).
+&emsp;&emsp;&emsp;In carrying out the Initiative, the Secretary shall provide funding to entities with eligible projects, as described in subparagraph (B), subject to the priorities described in subparagraph (C).
 
 #### (ii) Use of funds
 

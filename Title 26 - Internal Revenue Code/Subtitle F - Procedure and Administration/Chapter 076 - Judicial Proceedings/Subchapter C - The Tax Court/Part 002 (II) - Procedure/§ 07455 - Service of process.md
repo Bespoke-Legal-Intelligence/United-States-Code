@@ -1,6 +1,6 @@
 ### §7455. Service of process
 
-The mailing by certified mail or registered mail of any pleading, decision, order, notice, orprocess in respect of proceedings before the Tax Court shall be held sufficient service of such pleading, decision, order, notice, or process.
+The mailing by certified mail or registered mail of any pleading, decision, order, notice, or process in respect of proceedings before the Tax Court shall be held sufficient service of such pleading, decision, order, notice, or process.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665.)
 

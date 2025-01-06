@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 101–239, §7811(g)(3), substituted "purposes of limitatio
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out "of capital gain provisions and" after "service for purposes" in heading and substituted "applying section 402(e)" for "applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)" in text.
 
-Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, andstruck out former par. (1) which read as follows: "Section 72(d) (relating to employees' annuities)."
+Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: "Section 72(d) (relating to employees' annuities)."
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1112(d)(3), struck out "(without regard to paragraph (1)(A) thereof)" after "section 410(b)" in introductory text.
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7811(g)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(g)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by section 7831(f) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
 

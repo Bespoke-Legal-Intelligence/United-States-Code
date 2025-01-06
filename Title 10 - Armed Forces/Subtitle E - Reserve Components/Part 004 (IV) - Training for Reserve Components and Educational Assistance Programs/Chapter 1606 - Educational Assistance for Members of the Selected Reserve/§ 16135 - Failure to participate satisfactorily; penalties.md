@@ -34,7 +34,7 @@ Subsec. (b)(1)(A). Pub. L. 103–337, §1663(b)(6)(B), which directed substituti
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–689, §111(b)(6)(A), inserted ", and during which the member has received such assistance," after "chapter".
 
-Subsec. (b)(1)(A). Pub. L. 100–689, §111(b)(6)(B), added subpar. (A) and struck out former subpar. (A) whichread as follows: "the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and".
+Subsec. (b)(1)(A). Pub. L. 100–689, §111(b)(6)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: "the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and".
 
 <b>1984</b>—Pub. L. 98–525 amended section generally, substituting provisions relating to the failure to participate satisfactorily and penalties for provisions which had designated Sept. 30, 1985, as the termination date for enlistments qualifying for educational assistance.
 

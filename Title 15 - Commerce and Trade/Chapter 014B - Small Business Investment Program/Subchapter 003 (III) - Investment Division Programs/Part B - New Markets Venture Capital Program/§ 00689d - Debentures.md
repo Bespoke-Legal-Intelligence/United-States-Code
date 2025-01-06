@@ -6,7 +6,7 @@ The Administrator may guarantee the timely payment of principal and interest, as
 
 #### (b) Terms and conditions
 
-The Administrator may make guarantees under this section on such terms and conditionsas it deems appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
+The Administrator may make guarantees under this section on such terms and conditions as it deems appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
 
 #### (c) Full faith and credit of the United States
 

@@ -28,7 +28,7 @@ Each application or amendment made and submitted for approval to the Director pu
 
 The Director shall not finally disapprove any application, or any amendment thereto, submitted to the Director under this section without first affording the applicant reasonable notice and opportunity for reconsideration.
 
-(Pub. L. 90–351, title I, §1404, as added Pub. L. 101–647, title II, §241(a)(2), Nov. 29, 1990, 104 Stat. 4811; amended Pub. L. 103–322, title IV, §40156(c)(4), Sept. 13, 1994, 108 Stat. 1923.)
+(Pub. L. 90–351, title I, §1404, as added Pub. L. 101–647, title II, §241(a)(2), Nov. 29, 1990, 104 Stat.4811; amended Pub. L. 103–322, title IV, §40156(c)(4), Sept. 13, 1994, 108 Stat. 1923.)
 
 #### <b>Editorial Notes</b>
 
@@ -38,7 +38,7 @@ Section was formerly classified to section 3796aa–3 of Title 42, The Public He
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §40156(c)(4)(A)(i), (vii), substituted "An applicant is eligible to receive a grant under this subchapter if—" for "The Bureau shall provide financial assistance to each State applicant under section 3796aa–1 of this title to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children incriminal proceedings for the violation of laws relating to the abuse of children, upon determining that" in introductory provisions and designated concluding provisions as subsec. (b). See below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §40156(c)(4)(A)(i), (vii), substituted "An applicant is eligible to receive a grant under this subchapter if—" for "The Bureau shall provide financial assistance to each State applicant under section 3796aa–1 of this title to provide equipment and personnel training for the closed-circuit televising and video taping of the testimony of children in criminal proceedings for the violation of laws relating to the abuse of children, upon determining that" in introductory provisions and designated concluding provisions as subsec. (b). See below.
 
 Subsec. (a)(1). Pub. L. 103–322, §40156(c)(4)(A)(ii), substituted "the applicant certifies and the Director determines that there is in effect in the State" for "there is in effect in such State".
 

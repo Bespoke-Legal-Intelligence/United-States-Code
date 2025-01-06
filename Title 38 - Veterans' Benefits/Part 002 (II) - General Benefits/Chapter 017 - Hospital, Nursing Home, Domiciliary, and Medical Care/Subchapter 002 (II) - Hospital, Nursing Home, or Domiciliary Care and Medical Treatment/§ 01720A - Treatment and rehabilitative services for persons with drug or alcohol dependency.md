@@ -8,7 +8,7 @@
 
 &emsp;(2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, air, or space service and the Department for review of such individual's discharge or release from such service.
 
-(c)(1) Any person serving in the active military, naval, air, or space service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
+(c)(1) Any person serving in the active military, naval, air, or space service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment andrehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
 
 (2) No person serving in the active military, naval, air, or space service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
@@ -232,7 +232,7 @@ Grant Application.—
 
 &emsp;"(1)
 
-In general.—An eligible entity seeking the award of a grant under this section shall submit tothe Secretary an application therefor in such form, in such manner, and containing such commitments and information as the Secretary considers necessary to carry out this section.
+In general.—An eligible entity seeking the award of a grant under this section shall submit to the Secretary an application therefor in such form, in such manner, and containing such commitments and information as the Secretary considers necessary to carry out this section.
 
 &emsp;"(2)
 
@@ -472,7 +472,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-In General.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program shall beavailable on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
+In General.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program shall be available on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
 
 "(c)
 

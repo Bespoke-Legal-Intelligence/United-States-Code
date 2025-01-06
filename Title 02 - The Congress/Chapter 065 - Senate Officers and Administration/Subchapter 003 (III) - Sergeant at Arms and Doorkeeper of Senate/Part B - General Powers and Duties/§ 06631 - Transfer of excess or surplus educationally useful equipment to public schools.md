@@ -36,7 +36,7 @@ Section is from the Congressional Operations Appropriations Act, 1997, which is 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 substituted "elementary school or secondary school, as such terms aredefined in section 7801" for "public elementary or secondary school as such terms are defined in section 7801".
+<b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 substituted "elementary school or secondary school, as such terms are defined in section 7801" for "public elementary or secondary school as such terms are defined in section 7801".
 
 <b>2002</b>—Subsec. (d)(1). Pub. L. 107–110 substituted "7801" for "8801".
 

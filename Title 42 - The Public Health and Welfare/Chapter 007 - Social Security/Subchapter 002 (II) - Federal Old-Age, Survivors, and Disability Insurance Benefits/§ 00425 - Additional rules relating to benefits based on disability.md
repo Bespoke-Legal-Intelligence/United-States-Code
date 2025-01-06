@@ -34,7 +34,7 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under subsection (c) shall not be subject to a penalty under section 1320a–8a of this title for any omission or error with respect to such individual's wages as reported by the payroll data provider.
 
-(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(o), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81 Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4),title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853; Pub. L. 106–170, title I, §101(b)(1)(D), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 114–74, title VIII, §824(b)(1), (c)(1), Nov. 2, 2015, 129 Stat. 608, 609.)
+(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(o), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81 Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853; Pub. L. 106–170, title I, §101(b)(1)(D), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 114–74, title VIII, §824(b)(1), (c)(1), Nov. 2, 2015, 129 Stat. 608, 609.)
 
 #### <b>Editorial Notes</b>
 
@@ -124,7 +124,7 @@ Pub. L. 101–508, title V, §5113(c), Nov. 5, 1990, 104 Stat. 1388–273, provi
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–21 applicable only with respect to monthly payments payable under this subchapter for months after April 1983, see section 310 ofPub. L. 98–21, set out as a note under section 402 of this title.
+Amendment by Pub. L. 98–21 applicable only with respect to monthly payments payable under this subchapter for months after April 1983, see section 310 of Pub. L. 98–21, set out as a note under section 402 of this title.
 
 #### Effective Date of 1980 Amendment
 

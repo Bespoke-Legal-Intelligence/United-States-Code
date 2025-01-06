@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;&emsp;(B) to distribute, sell, or dispose of the vehicle or part in interstate or foreign commerce.
 
-&emsp;(2) "covered major part" means a major part selected under section 33104 of this title forcoverage by the vehicle theft prevention standard prescribed under section 33102 or 33103 of this title.
+&emsp;(2) "covered major part" means a major part selected under section 33104 of this title for coverage by the vehicle theft prevention standard prescribed under section 33102 or 33103 of this title.
 
 &emsp;(3) "existing line" means a line introduced into commerce before January 1, 1990.
 

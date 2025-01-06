@@ -16,7 +16,7 @@ Penalty for Violation of Cost Principle.—
 
 &emsp;(2)
 
-Cost determined to be unallowable before proposal submitted.—If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
+Cost determined to be unallowable before proposal submitted.—If the head of theagency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
 
 (c)
 

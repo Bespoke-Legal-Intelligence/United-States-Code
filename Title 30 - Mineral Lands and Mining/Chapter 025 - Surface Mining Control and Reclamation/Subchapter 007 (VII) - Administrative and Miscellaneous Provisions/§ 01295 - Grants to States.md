@@ -10,7 +10,7 @@ The Secretary is authorized to cooperate with and provide assistance to any Stat
 
 &emsp;(1) technical assistance and training including provision of necessary curricular and instruction materials, in the development, administration, and enforcement of the State programs; and
 
-&emsp;(2) assistance in preparing and maintaining a continuing inventory of information on surface coal mining and reclamation operations for each State for the purposes of evaluating the effectiveness of the State programs. Such assistance shall include all Federal departments and agencies making available data relevant to surface coal mining and reclamationoperations and to the development, administration, and enforcement of State programs concerning such operations.
+&emsp;(2) assistance in preparing and maintaining a continuing inventory of information on surface coal mining and reclamation operations for each State for the purposes of evaluating the effectiveness of the State programs. Such assistance shall include all Federal departments and agencies making available data relevant to surface coal mining and reclamation operations and to the development, administration, and enforcement of State programs concerning such operations.
 
 #### (c) Increases in annual grants
 

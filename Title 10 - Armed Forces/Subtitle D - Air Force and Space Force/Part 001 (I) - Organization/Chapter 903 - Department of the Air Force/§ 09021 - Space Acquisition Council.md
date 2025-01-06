@@ -48,7 +48,7 @@ Meetings.—The Council shall meet not less frequently than monthly.
 
 (e)
 
-Reports.—Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.
+Reports.—Not later than 30 days after the end of each calendar year quarter through thefirst calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.
 
 (Added Pub. L. 116–92, div. A, title IX, §954(a)(2), Dec. 20, 2019, 133 Stat. 1564; amended Pub. L. 117–81, div. A, title XVI, §1602(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2075, 2076.)
 

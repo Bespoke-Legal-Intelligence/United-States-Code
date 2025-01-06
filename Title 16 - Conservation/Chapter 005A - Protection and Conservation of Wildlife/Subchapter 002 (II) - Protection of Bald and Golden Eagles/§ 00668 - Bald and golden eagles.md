@@ -10,7 +10,7 @@ Whoever, within the United States or any place subject to the jurisdiction there
 
 #### (c) Cancellation of grazing agreements
 
-The head of any Federal agency who has issued a lease, license, permit, or other agreement authorizing the grazing of domestic livestock on Federal lands to any person who is convicted of a violation of this subchapter or of anypermit or regulation issued hereunder may immediately cancel each such lease, license, permit, or other agreement. The United States shall not be liable for the payment of any compensation, reimbursement, or damages in connection with the cancellation of any lease, license, permit, or other agreement pursuant to this section.
+The head of any Federal agency who has issued a lease, license, permit, or other agreement authorizing the grazing of domestic livestock on Federal lands to any person who is convicted of a violation of this subchapter or of any permit or regulation issued hereunder may immediately cancel each such lease, license, permit, or other agreement. The United States shall not be liable for the payment of any compensation, reimbursement, or damages in connection with the cancellation of any lease, license, permit, or other agreement pursuant to this section.
 
 (June 8, 1940, ch. 278, §1, 54 Stat. 250; Pub. L. 86–70, §14, June 25, 1959, 73 Stat. 143; Pub. L. 87–884, Oct. 24, 1962, 76 Stat. 1246; Pub. L. 92–535, §1, Oct. 23, 1972, 86 Stat. 1064.)
 

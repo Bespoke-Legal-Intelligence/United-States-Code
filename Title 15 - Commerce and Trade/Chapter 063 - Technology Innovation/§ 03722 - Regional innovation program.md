@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Regional innovation initiative
 
-&emsp;The term "regional innovation initiative" means a geographically-bounded public ornonprofit activity or program to address issues in the local innovation systems in order to—
+&emsp;The term "regional innovation initiative" means a geographically-bounded public or nonprofit activity or program to address issues in the local innovation systems in order to—
 
 &emsp;&emsp;(A) increase the success of innovation-driven industry;
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (3) State
 
-&emsp;The term "State" means one of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+&emsp;The term "State" means one of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of theNorthern Mariana Islands, or any other territory or possession of the United States.
 
 #### (4) Venture development organization
 
@@ -200,7 +200,7 @@ Not later than 5 years after the first grant is awarded under subsection (c), an
 
 #### (h) Funding
 
-From amounts appropriated by Congress to the Secretary, the Secretary may use up to$50,000,000 in each of the fiscal years 2020 through 2024 to carry out this section.
+From amounts appropriated by Congress to the Secretary, the Secretary may use up to $50,000,000 in each of the fiscal years 2020 through 2024 to carry out this section.
 
 (Pub. L. 96–480, §27, as added Pub. L. 111–358, title VI, §603, Jan. 4, 2011, 124 Stat. 4030; amended Pub. L. 113–235, div. B, title VII, §705, Dec. 16, 2014, 128 Stat. 2230; Pub. L. 116–92, div. A, title XVII, §1742, Dec. 20, 2019, 133 Stat. 1837.)
 

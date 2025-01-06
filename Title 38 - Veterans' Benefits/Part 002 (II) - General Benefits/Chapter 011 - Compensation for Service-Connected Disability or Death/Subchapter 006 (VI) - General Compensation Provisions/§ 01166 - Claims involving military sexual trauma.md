@@ -168,7 +168,7 @@ Consultation.—The Secretary shall carry out paragraph (1) in consultation with
 
 "(c)
 
-Examinations.—The Secretary shall establish protocols for Department of Veterans Affairs medical providers and contract medical providers to ensure that the medical providers conduct examinations regarding covered claims using trauma-informed practices.
+Examinations.—The Secretary shall establish protocols for Department of Veterans Affairs medicalproviders and contract medical providers to ensure that the medical providers conduct examinations regarding covered claims using trauma-informed practices.
 
 "(d)
 

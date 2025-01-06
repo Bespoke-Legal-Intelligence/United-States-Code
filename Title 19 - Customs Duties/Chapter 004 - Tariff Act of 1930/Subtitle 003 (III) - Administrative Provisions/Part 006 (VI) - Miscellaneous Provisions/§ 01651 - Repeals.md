@@ -18,7 +18,7 @@ All Acts and parts of Acts inconsistent with the provisions of this chapter are 
 
 #### (c) Rights and liabilities under acts repealed or modified
 
-The repeal of existing laws or modifications or reenactments thereof embraced in this chapter shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal, modifications, or reenactments, but all liabilities under such laws shall continue and may be enforced in the same manner as if such repeal, modifications, or reenactments had not been made. All offenses committed and all penalties, under any statute embraced in, or changed, modified, or repealed by this chapter, may be prosecuted and punished in the same manner and with the same effect as if this chapter had not been passed. No Acts of limitation now in force, whether applicable to civil causes and proceedings, or to the prosecution of offenses or for the recovery of penalties or forfeitures embraced in, modified, changed, or repealed by this chapter shall be affected thereby so far as they affect any suits, proceedings, or prosecutions, whether civil or criminal, for causes arising or acts done or committed prior to June 18, 1930, which may be commenced and prosecuted within the same time and with the same effect as if this chapter had not been passed.
+The repeal of existing laws or modifications or reenactments thereof embraced in this chapter shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal, modifications, or reenactments, but all liabilities under such laws shall continue andmay be enforced in the same manner as if such repeal, modifications, or reenactments had not been made. All offenses committed and all penalties, under any statute embraced in, or changed, modified, or repealed by this chapter, may be prosecuted and punished in the same manner and with the same effect as if this chapter had not been passed. No Acts of limitation now in force, whether applicable to civil causes and proceedings, or to the prosecution of offenses or for the recovery of penalties or forfeitures embraced in, modified, changed, or repealed by this chapter shall be affected thereby so far as they affect any suits, proceedings, or prosecutions, whether civil or criminal, for causes arising or acts done or committed prior to June 18, 1930, which may be commenced and prosecuted within the same time and with the same effect as if this chapter had not been passed.
 
 #### (d) Certain acts not affected
 
@@ -52,7 +52,7 @@ Section 296 of title 5, referred to in subsec. (d)(3), was repealed in the gener
 
 Act of March 3, 1925, referred to in subsec. (d)(4), was repealed by act Aug. 27, 1935, ch. 740, §308, 49 Stat. 880.
 
-The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11,which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
 
 #### Codification
 

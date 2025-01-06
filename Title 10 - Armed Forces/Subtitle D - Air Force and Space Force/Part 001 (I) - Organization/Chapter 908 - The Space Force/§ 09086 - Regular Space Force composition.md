@@ -1,0 +1,36 @@
+### §9086. Regular Space Force: composition
+
+(a)
+
+In General.—The Regular Space Force is the component of the Space Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Space Force.
+
+(b)
+
+Composition.—The Regular Space Force includes—
+
+&emsp;(1) the officers and enlisted members of the Regular Space Force; and
+
+&emsp;(2) the retired officers and enlisted members of the Regular Space Force.
+
+(Added Pub. L. 116–283, div. A, title IX, §922(d), Jan. 1, 2021, 134 Stat. 3807, §9085; renumbered §9086, Pub. L. 118–159, div. A, title V, §509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+
+#### Repeal of Section
+
+<i>Pub. L. 118–31, div. A, title XVII, §1735(c), Dec. 22, 2023, 137 Stat. 677, provided that, effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, this section is repealed.</i>
+
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+A prior section 9086 was renumbered section 9087 of this title.
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–159 renumbered section 9085 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of Repeal
+
+Repeal effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, see section 1735(c)(2) of Pub. L. 118–31, set out in a Transitions Provisions note under section 20001 of this title.
+

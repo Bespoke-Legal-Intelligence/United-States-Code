@@ -16,7 +16,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 &emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
-> In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. Forpurposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
+> In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
 (B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
@@ -58,7 +58,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 (iii) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
 
-&emsp;(I) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent ofthe actuarial equivalent of in-service distribution of benefits, and
+&emsp;(I) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
 
 &emsp;(II) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title, then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
@@ -84,7 +84,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 (4)(A) For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 1052(b) of this title, determined without regard to section 1052(b)(5) of this title) as determined under regulations prescribed by the Secretary which provide for the calculation of such period on any reasonable and consistent basis.
 
-(B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
+(B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit towhich he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
 (C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
@@ -162,7 +162,7 @@ In general.—The term "applicable plan amendment" means an amendment to a defin
 
 &emsp;&emsp;&emsp;(II)
 
-Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained byan employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -248,7 +248,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 (3) For purposes of this section, in the case of any defined benefit plan, if an employee's accrued benefit is to be determined as an amount other than an annual benefit commencing at normal retirement age, or if the accrued benefit derived from contributions made by an employee is to be determined with respect to a benefit other than an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the employee's accrued benefit, or the accrued benefits derived from contributions made by an employee, as the case may be, shall be the actuarial equivalent of such benefit or amount determined under paragraph (1) or (2).
 
-(4) In the case of a defined benefit plan which permits voluntary employee contributions, theportion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
+(4) In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
 
 #### (d) Employee service which may be disregarded in determining employee's accrued benefits under plan
 
@@ -286,7 +286,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) eliminating an optional form of benefit,
 
-> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
+> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies\(either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
 
 (3) For purposes of this subsection, any—
 
@@ -426,7 +426,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (ii) Certain restrictions and conditions not allowed
 
-&emsp;&emsp;&emsp;Except as provided in regulations, a plan shall not meet the requirements of this paragraph if the plan imposes restrictions or conditions with respect to the investment of employer securities which are not imposed on the investment of other assets of the plan. This subparagraph shall not apply to any restrictions or conditions imposed by reason of the application of securities laws.
+&emsp;&emsp;&emsp;Except as provided in regulations, a plan shall not meet the requirements of this paragraph if the plan imposes restrictionsor conditions with respect to the investment of employer securities which are not imposed on the investment of other assets of the plan. This subparagraph shall not apply to any restrictions or conditions imposed by reason of the application of securities laws.
 
 #### (5) Applicable individual account plan
 
@@ -524,7 +524,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 | <b> Plan year to which paragraph (3)  applies:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
-| 1st | 33&nbsp;&nbsp; |
+| 1st | 33   |
 | 2d | 66&nbsp;&nbsp; |
 | 3d | 100\. |
 
@@ -596,7 +596,7 @@ Subsec. (i)(2)(B). Pub. L. 109–280, §108(a)(6), formerly §107(a)(6), as renu
 
 Subsec. (i)(3). Pub. L. 109–280, §108(a)(7), formerly §107(a)(7), as renumbered by Pub. L. 111–192, substituted "funding target attainment percentage (as defined in section 1083(d)(2) of this title)" for "funded current liability percentage (within the meaning of section 1082(d)(8) of this title)".
 
-Subsec. (i)(4). Pub. L. 109–280, §108(a)(8), formerly §107(a)(8), as renumbered by Pub. L. 111–192, substituted "section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title" for "section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title".
+Subsec. (i)(4). Pub. L. 109–280, §108(a)(8), formerly §107(a)(8), as renumbered by Pub. L. 111–192, substituted "section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title" for "section 1082(c)(11)(A) ofthis title, without regard to section 1082(c)(11)(B) of this title".
 
 Subsecs. (j), (k). Pub. L. 109–280, §901(b)(1), added subsec. (j) and redesignated former subsec. (j) as (k).
 
@@ -632,7 +632,7 @@ Subsec. (h). Pub. L. 107–16, §659(b), amended subsec. (h) generally. Prior to
 
 Subsec. (b)(1)(E). Pub. L. 101–239, §7894(c)(5), substituted "term 'year of service' " for "term 'years of service' ".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar.\(B) which read as follows: "Subparagraph (A) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26."
+Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Subparagraph (A) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26."
 
 Subsec. (b)(2)(C). Pub. L. 101–239, §7871(a)(3), substituted "subparagraphs (B) and (C)" for "subparagraphs (C) and (D)".
 
@@ -672,7 +672,7 @@ Subsec. (b)(1)(H). Pub. L. 99–509, §9202(a)(2), added subpar. (H).
 
 Subsec. (b)(2) to (4). Pub. L. 99–509, §9202(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal".
+Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan, the plan provision required under thissubsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal".
 
 Subsec. (g)(1). Pub. L. 99–514, §1898(f)(2), inserted reference to section 1441.
 

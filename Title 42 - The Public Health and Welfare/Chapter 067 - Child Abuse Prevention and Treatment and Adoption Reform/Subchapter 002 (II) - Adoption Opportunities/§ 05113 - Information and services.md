@@ -110,7 +110,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (A) Applications
 
-&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use fundsduring the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
+&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
 
 &emsp;&emsp;&emsp;(i) describes how the State plans to improve the placement rate of children in permanent homes;
 

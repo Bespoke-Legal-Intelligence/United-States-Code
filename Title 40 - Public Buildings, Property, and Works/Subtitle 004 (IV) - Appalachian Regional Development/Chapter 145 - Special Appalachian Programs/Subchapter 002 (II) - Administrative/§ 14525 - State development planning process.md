@@ -26,11 +26,11 @@ Areawide Action Programs.—The Commission shall encourage the preparation and e
 
 (c)
 
-Local Development Districts.—Local development districts certified by the State as described in section 14102(a)(2) of this title providethe linkage between state and substate planning and development. The districts shall assist the States in the coordination of areawide programs and projects and may prepare and adopt areawide plans or action programs. In carrying out the development planning process, including the selection of programs and projects for assistance, States shall consult with local development districts, local units of government, and citizen groups and shall consider the goals, objectives, priorities, and recommendations of those bodies.
+Local Development Districts.—Local development districts certified by the State as described in section 14102(a)(2) of this title provide the linkage between state and substate planning and development. The districts shall assist the States in the coordination of areawide programs and projects and may prepare and adopt areawide plans or action programs. In carrying out the development planning process, including the selection of programs and projects for assistance, States shall consult with local development districts, local units of government, and citizen groups and shall consider the goals, objectives, priorities, and recommendations of those bodies.
 
 (d)
 
-Federal Responsibilities.—To the maximum extent practicable, federal departments, agencies, and instrumentalities undertaking or providing financial assistance for programs or projects in the region shall—
+Federal Responsibilities.—To the maximum extent practicable, federal departments,agencies, and instrumentalities undertaking or providing financial assistance for programs or projects in the region shall—
 
 &emsp;(1) take into account the policies, goals, and objectives the Commission and its member States establish pursuant to this subtitle;
 

@@ -34,7 +34,7 @@ The concurrent resolution on the budget may—
 
 &emsp;(5) include a heading entitled "Debt Increase as Measure of Deficit" in which the concurrent resolution shall set forth the amounts by which the debt subject to limit (in section 3101 of title 31) has increased or would increase in each of the relevant fiscal years;
 
-&emsp;(6) include a heading entitled "Display of Federal Retirement Trust Fund Balances" in which the concurrent resolution shall set forth the balances of the Federal retirement trust funds;
+&emsp;(6) include a heading entitled "Display of Federal Retirement Trust Fund Balances" in which the concurrent resolution shall set forththe balances of the Federal retirement trust funds;
 
 &emsp;(7) set forth procedures in the Senate whereby committee allocations, aggregates, and other levels can be revised for legislation if that legislation would not increase the deficit, or would not increase the deficit when taken with other legislation enacted after the adoption of the resolution, for the first fiscal year or the total period of fiscal years covered by the resolution;
 
@@ -54,7 +54,7 @@ Within 6 weeks after the President submits a budget under section 1105(a) of tit
 
 #### (1) In general
 
-&emsp;In developing the concurrent resolution on the budget referred to in subsection (a) for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the generalpublic, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
+&emsp;In developing the concurrent resolution on the budget referred to in subsection (a) for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
 
 #### (2) Required contents of report
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XIII, §13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: "Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991."
+Pub. L. 101–508, title XIII, §13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: "Sections 13301, 13302, and13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991."
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -232,7 +232,7 @@ In General.—It shall not be in order in the House of Representatives to consid
 
 &emsp;"(3)(A) such legislation under consideration would provide for a net decrease in OASDI taxes of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act, and (B) such legislation under consideration does not provide at least a net decrease, for such 75-year period, in OASDI benefits of the amount by which the net decrease in such taxes exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period, or
 
-&emsp;"(4)(A) such legislation under consideration would provide for a net decrease in OASDI taxes (for the 5-year estimating period for such legislation under consideration), (B) such net decrease, together with thenet decreases in OASDI taxes resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net decrease, for the 5-year estimating period for such legislation under consideration, in OASDI benefits which, together with net decreases in OASDI benefits resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net decrease derived under subparagraph (B) exceeds $250,000,000.
+&emsp;"(4)(A) such legislation under consideration would provide for a net decrease in OASDI taxes (for the 5-year estimating period for such legislation under consideration), (B) such net decrease, together with the net decreases in OASDI taxes resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net decrease, for the 5-year estimating period for such legislation under consideration, in OASDI benefits which, together with net decreases in OASDI benefits resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net decrease derived under subparagraph (B) exceeds $250,000,000.
 
 "(b)
 
@@ -256,7 +256,7 @@ Definitions.—For purposes of this subsection:
 
 &emsp;"(5) The term '5-year estimating period' means, with respect to any legislation, the fiscal year in which such legislation becomes or would become effective and the next 4 fiscal years.
 
-&emsp;"(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unless such provision changes the income tax treatment of OASDI benefits."
+&emsp;"(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unlesssuch provision changes the income tax treatment of OASDI benefits."
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 

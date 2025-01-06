@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The responsible agency may not approve an application pursuant to paragraph (1) that would have the effect of permitting an out-of-State bank or out-of-State bank holding company to acquire a bank in a host State that has not been in existence for the minimum period of time, if any, specified in the statutory law of the host State.
+&emsp;&emsp;The responsible agency may not approve an application pursuant to paragraph (1) that would have the effect of permitting anout-of-State bank or out-of-State bank holding company to acquire a bank in a host State that has not been in existence for the minimum period of time, if any, specified in the statutory law of the host State.
 
 #### (B) Special rule for State age laws specifying a period of more than 5 years
 
@@ -240,7 +240,7 @@ If an application under subsection (a)(1) for approval of a merger transaction w
 
 #### (B) Applicability
 
-&emsp;&emsp;This subsection shall be construed to apply to any loan or discount made, or note, bill of exchange, financing transaction, or other evidence of debt, originated by an insureddepository institution, a governmental entity located in such State, or a person that is not a depository institution described in subparagraph (A) doing business in such State.
+&emsp;&emsp;This subsection shall be construed to apply to any loan or discount made, or note, bill of exchange, financing transaction, or other evidence of debt, originated by an insured depository institution, a governmental entity located in such State, or a person that is not a depository institution described in subparagraph (A) doing business in such State.
 
 #### (g) Definitions
 
@@ -344,7 +344,7 @@ Pub. L. 111–203, title VI, §607(c), July 21, 2010, 124 Stat. 1608, provided t
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–83, title V, §563(c), Oct. 28, 2009, 123 Stat. 2184, provided that: "The amendments made by thissection \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[Oct. 28, 2009\] and ending on December 31, 2010."
+Pub. L. 111–83, title V, §563(c), Oct. 28, 2009, 123 Stat. 2184, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[Oct. 28, 2009\] and ending on December 31, 2010."
 
 Pub. L. 111–32, title V, §504(b), June 24, 2009, 123 Stat. 1880, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts consummated during the period beginning on the date of enactment of this Act \[June 24, 2009\] and ending on December 31, 2010."
 

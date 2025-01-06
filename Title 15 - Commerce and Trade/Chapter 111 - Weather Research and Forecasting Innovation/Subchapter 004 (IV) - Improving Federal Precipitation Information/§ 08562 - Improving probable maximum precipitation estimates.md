@@ -4,7 +4,7 @@
 
 Not later than 90 days after the date on which the National Academies makes public the report under section 8561 of this title, the Administrator, in consideration of the report recommendations, shall consult with relevant partners, including users of the data, on the development of a plan to—
 
-&emsp;(1) not later than 6 years after the completion of such report and not less than every 10 years thereafter, update probable maximumprecipitation estimates for the United States, such that each update considers non-stationarity;
+&emsp;(1) not later than 6 years after the completion of such report and not less than every 10 years thereafter, update probable maximum precipitation estimates for the United States, such that each update considers non-stationarity;
 
 &emsp;(2) coordinate with partners to conduct research in the field of extreme precipitation estimation, in accordance with the research needs identified in such report;
 

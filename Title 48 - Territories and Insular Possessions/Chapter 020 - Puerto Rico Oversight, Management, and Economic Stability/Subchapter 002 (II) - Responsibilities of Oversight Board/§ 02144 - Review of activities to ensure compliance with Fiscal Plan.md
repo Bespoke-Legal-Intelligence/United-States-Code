@@ -42,7 +42,7 @@
 
 #### (5) Failure to comply
 
-&emsp;If the territorial government fails to comply with a direction given by the Oversight Board under paragraph (4) with respect to a law, the Oversight Board may take such actions as it considers necessary, consistent with this chapter, to ensure that the enactment or enforcement of the law will not adversely affect the territorial government's compliance with the Fiscal Plan, including preventing the enforcement or application of the law.
+&emsp;If the territorial government fails to comply with a direction given by the Oversight Boardunder paragraph (4) with respect to a law, the Oversight Board may take such actions as it considers necessary, consistent with this chapter, to ensure that the enactment or enforcement of the law will not adversely affect the territorial government's compliance with the Fiscal Plan, including preventing the enforcement or application of the law.
 
 #### (6) Preliminary review of proposed acts
 
@@ -78,7 +78,7 @@
 
 #### (2) No action permitted until analysis received
 
-&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee ofthe territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
+&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee of the territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
 
 #### (3) Prohibition on action until Oversight Board is appointed
 

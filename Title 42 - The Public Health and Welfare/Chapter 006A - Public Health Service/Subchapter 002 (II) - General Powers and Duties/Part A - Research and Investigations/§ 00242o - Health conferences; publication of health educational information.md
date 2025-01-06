@@ -18,5 +18,5 @@ A prior section 310 of act July 1, 1944, was renumbered section 329, and was cla
 
 Provisions similar to those comprising subsec. (a) of this section were contained in section 312 of act July 1, 1944, ch. 373, title III, 58 Stat. 693, as amended (formerly classified to section 244 of this title), prior to repeal by Pub. L. 93–353, §102(a).
 
-Provisions similar to those comprising subsec. (b) of this section were contained in section 315 of act July 1,1944, ch. 373, title III, 58 Stat. 695; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308 (formerly classified to section 247 of this title), prior to repeal by Pub. L. 93–353, §102(a).
+Provisions similar to those comprising subsec. (b) of this section were contained in section 315 of act July 1, 1944, ch. 373, title III, 58 Stat. 695; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308 (formerly classified to section 247 of this title), prior to repeal by Pub. L. 93–353, §102(a).
 

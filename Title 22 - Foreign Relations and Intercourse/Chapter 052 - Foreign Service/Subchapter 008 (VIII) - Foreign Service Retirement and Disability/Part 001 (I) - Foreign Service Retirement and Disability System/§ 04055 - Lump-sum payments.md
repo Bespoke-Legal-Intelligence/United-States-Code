@@ -70,13 +70,13 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 &emsp;(2) if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
 
-> The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term "creditable service" means service which is creditable under part I or II.
+> The lump-sum credit of the participant shall be reduced by the amount of the lump-sum creditpayable to the former spouse. For the purposes of this subsection, the term "creditable service" means service which is creditable under part I or II.
 
 (Pub. L. 96–465, title I, §815, Oct. 17, 1980, 94 Stat. 2116; Pub. L. 99–335, title IV, §§402(a)(2), 404(c), 413, June 6, 1986, 100 Stat. 609, 610, 614; Pub. L. 100–238, title II, §218, Jan. 8, 1988, 101 Stat. 1775.)
 
 #### Amendment of Section
 
-<i>Ex. Ord. No. 12446, §1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for</i><i>which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
+<i>Ex. Ord. No. 12446, §1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### <b>Editorial Notes</b>
 

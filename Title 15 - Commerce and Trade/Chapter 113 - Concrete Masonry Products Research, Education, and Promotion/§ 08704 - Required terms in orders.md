@@ -24,7 +24,7 @@ Any order issued under this chapter shall contain the terms and provisions speci
 
 #### (iii) Composition
 
-&emsp;&emsp;&emsp;The Board shall consist of manufacturers. No employee of an industry trade organization exempt from tax under paragraph (3) or (6) of section 501(c) of title 26 representing the concrete masonry industry or related industries shall serve as a member of the Board and no member of the Board may serve concurrently as an officer of the board of directors of a national concrete masonry products industry tradeassociation. Only 2 individuals from any single company or its affiliates may serve on the Board at any one time.
+&emsp;&emsp;&emsp;The Board shall consist of manufacturers. No employee of an industry trade organization exempt from tax under paragraph (3) or (6) of section 501(c) of title 26 representing the concrete masonry industry or related industries shall serve as a member of the Board and no member of the Board may serve concurrently as an officer of the board of directors of a national concrete masonry products industry trade association. Only 2 individuals from any single company or its affiliates may serve on the Board at any one time.
 
 #### (2) Distribution of appointments
 
@@ -64,7 +64,7 @@ Any order issued under this chapter shall contain the terms and provisions speci
 
 #### (D) Vacancies
 
-&emsp;&emsp;A vacancy arising before the expiration of a term of office of an incumbent member or alternate of the Board shall be filled in a manner provided for in the order.
+&emsp;&emsp;A vacancy arising before the expiration of a term of office of an incumbent member oralternate of the Board shall be filled in a manner provided for in the order.
 
 #### (7) Disqualification from Board service
 
@@ -104,7 +104,7 @@ The order shall specify the powers and duties of the Board, including the power 
 
 &emsp;(10) subject to subsection (e), to enter into contracts or agreements to develop and carry out programs or projects of research, education, and promotion relating to concrete masonry products;
 
-&emsp;(11) to keep minutes, books, and records that reflect the actions and transactions of theBoard, and promptly report minutes of each Board meeting to the Secretary;
+&emsp;(11) to keep minutes, books, and records that reflect the actions and transactions of the Board, and promptly report minutes of each Board meeting to the Secretary;
 
 &emsp;(12) to receive, investigate, and report to the Secretary complaints of violations of the order;
 
@@ -244,7 +244,7 @@ The Board shall establish annual research, education, and promotion objectives a
 
 #### (j) Biennial report
 
-Every 2 years the Board shall prepare and make publicly available a comprehensive and detailed report that includes an identification and description of all programs and projects undertaken by the Board during the previous 2 years as well as those planned for the subsequent 2 years and detail the allocation or planned allocation of Board resources for each such program or project. Such report shall also include—
+Every 2 years the Board shall prepare and make publicly available a comprehensive and detailed report that includes an identificationand description of all programs and projects undertaken by the Board during the previous 2 years as well as those planned for the subsequent 2 years and detail the allocation or planned allocation of Board resources for each such program or project. Such report shall also include—
 
 &emsp;(1) the overall financial condition of the Board;
 

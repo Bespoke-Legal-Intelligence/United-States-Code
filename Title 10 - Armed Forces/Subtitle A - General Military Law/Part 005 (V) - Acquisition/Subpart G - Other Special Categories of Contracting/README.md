@@ -192,7 +192,7 @@ Pub. L. 111–383, div. A, title VIII, §832(b), Jan. 7, 2011, 124 Stat. 4275, p
 
 "(1)
 
-Determination required for certain areas.—Not later than 150 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall make a written determination for each of the following areas regarding whether or not the area constitutes an area of combat operations or an area of other significant military operations for purposes of designation as such an area under section 862 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 2302 note \[now 10 U.S.C. 4501 note prec., set out below\]), as amended by this section:
+Determination required for certain areas.—Not later than 150 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall make a written determination for each of the following areas regarding whether or not the area constitutes an area of combat operations or an area of other significant military operations for purposes of designation assuch an area under section 862 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 2302 note \[now 10 U.S.C. 4501 note prec., set out below\]), as amended by this section:
 
 &emsp;"(A) The Horn of Africa region.
 
@@ -216,7 +216,7 @@ As condition of current and future contracts.—The requirements under the amend
 
 Pub. L. 110–417, \[div. A\], title VIII, §854(c), Oct. 14, 2008, 122 Stat. 4545, provided that: "Beginning not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall make publicly available a numerical accounting of alleged offenses described in section 861(b)(6) of Public Law 110–181 \[set out below\] that have been reported under that section that occurred after the date of the enactment of this Act. The information shall be updated no less frequently than semi-annually."
 
-Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253, as amended by Pub. L. 110–417, \[div. A\], title VIII, §§853, 854(a), (d), Oct. 14, 2008, 122 Stat. 4544, 4545; Pub. L. 111–84, div. A, title VIII, §813(a)–(c), Oct. 28, 2009, 123 Stat. 2406, 2407; Pub. L. 111–383, div. A, title VIII, §§831(a), 832(a), (c), 835, title X, §1075(d)(9), Jan. 7, 2011, 124 Stat. 4273, 4275, 4276, 4279, 4373; Pub. L. 112–81, div. A, title VIII, §844(c), Dec. 31, 2011, 125 Stat. 1515; Pub. L. 112–239, div. A, title VIII, §847, Jan. 2, 2013, 126 Stat. 1850; Pub. L. 113–291, div. A, title X, §1071(b)(2)(D), Dec. 19, 2014, 128 Stat. 3506, provided that:
+Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253, as amended by Pub. L. 110–417, \[div. A\], title VIII, §§853, 854(a), (d), Oct. 14, 2008, 122 Stat. 4544, 4545; Pub. L. 111–84, div. A, title VIII, §813(a)–(c), Oct. 28, 2009, 123 Stat. 2406, 2407; Pub. L. 111–383, div. A, title VIII, §§831(a), 832(a), (c), 835, title X, §1075(d)(9), Jan. 7, 2011, 124 Stat. 4273, 4275, 4276, 4279, 4373; Pub. L. 112–81, div. A, title VIII, §844, formerly §844(c), Dec. 31, 2011, 125 Stat. 1515, renumbered Pub. L. 118–159, div. A, title VIII, §811(a)(2)(B), Dec. 23, 2024, 138 Stat. 1979; Pub. L. 112–239, div. A, title VIII, §847, Jan. 2, 2013, 126 Stat. 1850; Pub. L. 113–291, div. A, title X, §1071(b)(2)(D), Dec. 19, 2014, 128 Stat. 3506, provided that:
 
 #### "SEC. 861. MEMORANDUM OF UNDERSTANDING ON MATTERS RELATING TO CONTRACTING.
 
@@ -334,7 +334,7 @@ Elements.—The regulations prescribed under subsection (a) shall, at a minimum,
 
 &emsp;&emsp;&emsp;"(i) orders, directives, and instructions to contractors performing private security functions relating to equipment, force protection, security, health, safety, or relations and interaction with locals;
 
-&emsp;&emsp;&emsp;"(ii) predeployment training requirements for personnel performing private security functions in an area of combat operations or other significant military operations, addressing the requirements of this section, resources and assistance available to contractor personnel, country information and cultural training, and guidance onworking with host country nationals and military; and
+&emsp;&emsp;&emsp;"(ii) predeployment training requirements for personnel performing private security functions in an area of combat operations or other significant military operations, addressing the requirements of this section, resources and assistance available to contractor personnel, country information and cultural training, and guidance on working with host country nationals and military; and
 
 &emsp;&emsp;&emsp;"(iii) rules on the use of force for personnel performing private security functions in an area of combat operations or other significant military operations;
 
@@ -572,7 +572,7 @@ Contractor.—The term 'contractor', with respect to a covered contract, means�
 
 &emsp;"(5)
 
-Contractor personnel.—The term 'contractor personnel' means any person performing work under contract for the Department of Defense, the Department of State, or the United States Agency for International Development, in Iraq or Afghanistan, including individuals and subcontractors at any tier.
+Contractor personnel.—The term 'contractor personnel' means any person performing work undercontract for the Department of Defense, the Department of State, or the United States Agency for International Development, in Iraq or Afghanistan, including individuals and subcontractors at any tier.
 
 &emsp;"(6)
 

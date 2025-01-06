@@ -50,7 +50,7 @@ A prior section 8634, act Aug. 10, 1956, ch. 1041, 70A Stat. 532; Pub. L. 101–
 
 #### Amendments
 
-<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1248(b), substituted "the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024" for "the Secretary of the Navy may conduct a program".
+<b>2023</b>—Subsec. (a). Pub. L. 118–31, §1248(b), substituted "the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year2024" for "the Secretary of the Navy may conduct a program".
 
 Subsec. (e). Pub. L. 118–31, §1248(a), struck out subsec. (e). Text read as follows: "The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008."
 

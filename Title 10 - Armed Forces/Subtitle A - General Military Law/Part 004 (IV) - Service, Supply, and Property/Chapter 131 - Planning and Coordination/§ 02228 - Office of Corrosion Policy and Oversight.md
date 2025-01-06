@@ -56,7 +56,7 @@ Long-Term Strategy.—(1) The Secretary of Defense shall develop and implement a
 
 &emsp;(A) Expansion of the emphasis on corrosion prevention and mitigation within the Department of Defense to include coverage of infrastructure.
 
-&emsp;(B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification of new corrosion-prevention technologies for equipment and infrastructure with similarcharacteristics, similar missions, or similar operating environments.
+&emsp;(B) Application uniformly throughout the Department of Defense of requirements and criteria for the testing and certification of new corrosion-prevention technologies for equipment and infrastructure with similar characteristics, similar missions, or similar operating environments.
 
 &emsp;(C) Implementation of programs, including supporting databases, to ensure that a focused and coordinated approach is taken throughout the Department of Defense to collect, review, validate, and distribute information on proven methods and products that are relevant to the prevention of corrosion of military equipment and infrastructure.
 
@@ -80,7 +80,7 @@ Report.—(1) For each budget for a fiscal year, beginning with the budget for f
 
 &emsp;(C) For the fiscal year covered by the report and the preceding fiscal year, the funds requested in the budget compared to the funding requirements.
 
-&emsp;(D) If the full amount of funding requirements is not requested in the budget, the reasons for not including the full amount and a description of the impact on readiness, logistics, and safety of not fully funding required corrosion prevention and mitigation activities.
+&emsp;(D) If the full amount of funding requirements is not requested in the budget, the reasons for not including the full amount and adescription of the impact on readiness, logistics, and safety of not fully funding required corrosion prevention and mitigation activities.
 
 &emsp;(E) For the fiscal year preceding the fiscal year covered by the report, the amount of funds requested in the budget for each project or activity described in subsection (d) compared to the funding requirements for the project or activity.
 
@@ -204,7 +204,7 @@ Pub. L. 112–81, div. A, title III, §324, Dec. 31, 2011, 125 Stat. 1362, provi
 
 "(a)
 
-Implementation; Congressional Briefing.—Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shallimplement the recommended actions described in subsection (b) and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
+Implementation; Congressional Briefing.—Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall implement the recommended actions described in subsection (b) and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
 
 "(b)
 

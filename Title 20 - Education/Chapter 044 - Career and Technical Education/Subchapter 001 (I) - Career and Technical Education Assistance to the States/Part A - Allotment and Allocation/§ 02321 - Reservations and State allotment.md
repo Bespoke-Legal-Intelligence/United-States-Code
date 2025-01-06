@@ -94,7 +94,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 #### (3) Definition of per capita income
 
-&emsp;For the purpose of this section, the term "per capita income" means, with respect to a fiscal year, the total personal income in thecalendar year ending in such year, divided by the population of the area concerned in such year.
+&emsp;For the purpose of this section, the term "per capita income" means, with respect to a fiscal year, the total personal income in the calendar year ending in such year, divided by the population of the area concerned in such year.
 
 #### (4) Population determination
 

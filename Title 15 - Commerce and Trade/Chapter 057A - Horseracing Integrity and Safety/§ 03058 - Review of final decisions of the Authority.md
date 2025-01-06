@@ -2,7 +2,7 @@
 
 #### (a) Notice of civil sanctions
 
-If the Authority imposes a final civil sanction for a violation committed by a covered person pursuant to the rules or standards of the Authority, the Authority shall promptly submit tothe Commission notice of the civil sanction in such form as the Commission may require.
+If the Authority imposes a final civil sanction for a violation committed by a covered person pursuant to the rules or standards of the Authority, the Authority shall promptly submit to the Commission notice of the civil sanction in such form as the Commission may require.
 
 #### (b) Review by administrative law judge
 

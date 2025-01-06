@@ -40,7 +40,7 @@ The appropriate agency described in subsection (a) may take any action authorize
 
 #### (2) Procedures
 
-&emsp;The due process requirements and other procedures under section 8(e) of the Federal Deposit Insurance Act (12 U.S.C. 1818(e)) shall apply to actions under this section as if the covered financial company were an insured depository institution and the senior executiveor director were an institution-affiliated party, as those terms are defined in that Act \[12 U.S.C. 1811 et seq.\].
+&emsp;The due process requirements and other procedures under section 8(e) of the Federal Deposit Insurance Act (12 U.S.C. 1818(e)) shall apply to actions under this section as if the covered financial company were an insured depository institution and the senior executive or director were an institution-affiliated party, as those terms are defined in that Act \[12 U.S.C. 1811 et seq.\].
 
 #### (d) Regulations
 

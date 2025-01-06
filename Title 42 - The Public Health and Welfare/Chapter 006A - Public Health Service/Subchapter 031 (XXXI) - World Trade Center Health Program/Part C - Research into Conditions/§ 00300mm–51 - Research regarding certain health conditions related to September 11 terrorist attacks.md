@@ -10,7 +10,7 @@ The WTC Program Administrator shall conduct or support—
 
 &emsp;(3) research on treating WTC-related health conditions, in the case of conditions for which there has been treatment uncertainty.
 
-> The Administrator may provide such support through continuation and expansion of research that was initiated before January 2, 2011, and through the World Trade Center Health Registry (referred to in section 300mm–52 of this title), through a Clinical Center of Excellence, or through a Data Center.
+> The Administrator may provide such support through continuation and expansion of research that was initiated before January 2, 2011, and through the World Trade Center Health Registry\(referred to in section 300mm–52 of this title), through a Clinical Center of Excellence, or through a Data Center.
 
 #### (b) Types of research
 
@@ -24,7 +24,7 @@ The research under subsection (a)(1) shall include epidemiologic and other resea
 
 #### (1) In general
 
-&emsp;The WTC Program Administrator, in consultation with the Secretary of Education,shall establish a research cohort of sufficient size to conduct future research studies on the health and educational impacts of exposure to airborne toxins, or any other hazard or adverse condition, resulting from the September 11, 2001, terrorist attacks, including on the population of individuals who were 21 years of age or younger at the time of exposure, including such individuals who are screening-eligible WTC survivors or certified-eligible WTC survivors.
+&emsp;The WTC Program Administrator, in consultation with the Secretary of Education, shall establish a research cohort of sufficient size to conduct future research studies on the health and educational impacts of exposure to airborne toxins, or any other hazard or adverse condition, resulting from the September 11, 2001, terrorist attacks, including on the population of individuals who were 21 years of age or younger at the time of exposure, including such individuals who are screening-eligible WTC survivors or certified-eligible WTC survivors.
 
 #### (2) Populations studied
 

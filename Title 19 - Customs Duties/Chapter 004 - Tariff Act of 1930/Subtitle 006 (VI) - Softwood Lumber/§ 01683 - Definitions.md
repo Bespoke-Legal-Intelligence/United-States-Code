@@ -52,7 +52,7 @@ In this subtitle:
 
 &emsp;&emsp;&emsp;(i) the person bears a relationship to such other person described in section 152(a) of title 26;
 
-&emsp;&emsp;&emsp;(ii) the person bears a relationship to such other person described in section267(b) of such title, except that "5 percent" shall be substituted for "50 percent" each place it appears;
+&emsp;&emsp;&emsp;(ii) the person bears a relationship to such other person described in section 267(b) of such title, except that "5 percent" shall be substituted for "50 percent" each place it appears;
 
 &emsp;&emsp;&emsp;(iii) the person and such other person are part of a controlled group of corporations, as that term is defined in section 1563(a) of such title, except that "5 percent" shall be substituted for "80 percent" each place it appears;
 

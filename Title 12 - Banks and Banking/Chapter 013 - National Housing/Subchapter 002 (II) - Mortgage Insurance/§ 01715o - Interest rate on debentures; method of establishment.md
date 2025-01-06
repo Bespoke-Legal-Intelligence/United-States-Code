@@ -8,7 +8,7 @@ Notwithstanding any other provisions of this chapter, debentures issued under an
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat.1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

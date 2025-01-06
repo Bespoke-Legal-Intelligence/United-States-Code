@@ -14,12 +14,15 @@
 | [57109\.](%C2%A7%2057109%20-%20Operation%20of%20vessels%20purchased%2C%20chartered%2C%20or%20leased%20from%20Secretary%20of%20Transportation.md) | Operation of vessels purchased, chartered, or leased from Secretary of Transportation. |
 | [57110\.](%C2%A7%2057110%20-%20Salvage%20recoveries%20for%20subrogated%20ownership%20of%20vessels%20and%20cargoes.md) | Salvage recoveries for subrogated ownership of vessels and cargoes. |
 | [57111\.](%C2%A7%2057111%20-%20Definition%20of%20obsolete%20vessel.md) | Definition of obsolete vessel. |
+| [57112\.](%C2%A7%2057112%20-%20Requirements%20for%20purchasing%20federally%20auctioned%20vessels.md) | Requirements for purchasing federally auctioned vessels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. C, title XXXV, §3532(b), Dec. 23, 2024, 138 Stat. 2313, added item 57112.
 
 <b>2023</b>—Pub. L. 118–31, div. C, title XXXV, §3514(j)(6), Dec. 22, 2023, 137 Stat. 812, added items 57102, 57103, and 57111, struck out former items 57102 "Disposition of vessels not worth preserving" and 57103 "Donation of nonretention vessels in the National Defense Reserve Fleet", and renumbered former item 57111 as 57110.
 
@@ -46,3 +49,4 @@
 - [&sect; 57109 - Operation of vessels purchased, chartered, or leased from Secretary of Transportation](%C2%A7%2057109%20-%20Operation%20of%20vessels%20purchased%2C%20chartered%2C%20or%20leased%20from%20Secretary%20of%20Transportation.md)
 - [&sect; 57110 - Salvage recoveries for subrogated ownership of vessels and cargoes](%C2%A7%2057110%20-%20Salvage%20recoveries%20for%20subrogated%20ownership%20of%20vessels%20and%20cargoes.md)
 - [&sect; 57111 - Definition of obsolete vessel](%C2%A7%2057111%20-%20Definition%20of%20obsolete%20vessel.md)
+- [&sect; 57112 - Requirements for purchasing federally auctioned vessels](%C2%A7%2057112%20-%20Requirements%20for%20purchasing%20federally%20auctioned%20vessels.md)

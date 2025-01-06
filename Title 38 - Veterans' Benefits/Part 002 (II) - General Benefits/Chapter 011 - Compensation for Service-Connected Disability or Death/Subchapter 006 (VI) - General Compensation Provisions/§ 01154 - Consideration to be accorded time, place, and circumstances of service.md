@@ -88,7 +88,7 @@ Duration of Review.—The periodic reviews under the contract under subsection (
 
 "(d)
 
-Report.—(1) Not later than 60 days after the conclusion of the period referred to in subsection (c), theNational Academy of Sciences shall submit to Congress a report on its activities under the contract under this section.
+Report.—(1) Not later than 60 days after the conclusion of the period referred to in subsection (c), the National Academy of Sciences shall submit to Congress a report on its activities under the contract under this section.
 
 "(2) The report shall include the following:
 
@@ -224,7 +224,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 "(C) The standards and criteria required to be established in regulations prescribed under this section shall include provisions governing the use in the adjudication of individual claims of the Administrator's \[now Secretary's\] evaluations made under subparagraph (B).
 
-"(2)(A)(i) In prescribing regulations under this section, the Administrator \[now Secretary\] (after receiving the advice of the Advisory Committee and of the Scientific Council of the Veterans' Advisory Committee on Environmental Hazards regarding the diseases described in subparagraph (B)) shall make determinations, based on sound medical and scientific evidence, with respect to each disease described in subparagraph (B) as to whether service connection shall, subject to division (ii) of this subparagraph, be granted in the adjudication of individual cases. In making determinations regarding such diseases, the Administrator shall give due regard to the need to maintain the policy of the United States with respect to the resolution of contested issues as set forth in section 2(13) \[set out above\]. The Administrator shall set forth in such regulations such determinations, with any specification (relating to exposure or other relevant matter) of limitations on the circumstances under which serviceconnection shall be granted, and shall implement such determinations in accordance with such regulations.
+"(2)(A)(i) In prescribing regulations under this section, the Administrator \[now Secretary\] (after receiving the advice of the Advisory Committee and of the Scientific Council of the Veterans' Advisory Committee on Environmental Hazards regarding the diseases described in subparagraph (B)) shall make determinations, based on sound medical and scientific evidence, with respect to each disease described in subparagraph (B) as to whether service connection shall, subject to division (ii) of this subparagraph, be granted in the adjudication of individual cases. In making determinations regarding such diseases, the Administrator shall give due regard to the need to maintain the policy of the United States with respect to the resolution of contested issues as set forth in section 2(13) \[set out above\]. The Administrator shall set forth in such regulations such determinations, with any specification (relating to exposure or other relevant matter) of limitations on the circumstances under which service connection shall be granted, and shall implement such determinations in accordance with such regulations.
 
 "(ii) If the Administrator \[now Secretary\] makes a determination, pursuant to this subparagraph, that service connection shall be granted in the case of a disease described in subparagraph (B), the Administrator shall specify in such regulations that, in the adjudication of individual cases, service connection shall not be granted where there is sufficient affirmative evidence to the contrary or evidence to establish that an intercurrent injury or disease which is a recognized cause of the described disease has been suffered between the date of separation from service and the onset of such disease or that the disability is due to the veteran's own willful misconduct.
 
@@ -278,7 +278,7 @@ Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of sec
 
 "
 
-Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear Agency, as Department of Defense Executive Agent for the Nuclear Test Personnel Review Program, relating to the preparation of radiation dose estimates with regard to claims for Veterans' Administration \[now Department of VeteransAffairs\] disability compensation and dependency and indemnity compensation under chapters 11 and 13, respectively, of title 38, United States Code—
+Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear Agency, as Department of Defense Executive Agent for the Nuclear Test Personnel Review Program, relating to the preparation of radiation dose estimates with regard to claims for Veterans' Administration \[now Department of Veterans Affairs\] disability compensation and dependency and indemnity compensation under chapters 11 and 13, respectively, of title 38, United States Code—
 
 &emsp;"(1) the Secretary of Defense shall prescribe guidelines (and any amendment to those guidelines) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code—
 
@@ -344,7 +344,7 @@ Investigation Plan and Report.—(1) Upon receipt of the report referred to in s
 
 #### Interim Benefits for Disability or Death in Certain Cases
 
-Pub. L. 98–542, §9, Oct. 24, 1984, 98 Stat. 2732, provided for payment of interim monthly disability benefits to veterans who had served in Vietnam during Vietnam era and who had diseases chloracne and porphyria cutanea tarda which manifested themselves within oneyear after date of veteran's most recent departure from Vietnam, but with no such interim benefits to be paid after Sept. 30, 1986.
+Pub. L. 98–542, §9, Oct. 24, 1984, 98 Stat. 2732, provided for payment of interim monthly disability benefits to veterans who had served in Vietnam during Vietnam era and who had diseases chloracne and porphyria cutanea tarda which manifested themselves within one year after date of veteran's most recent departure from Vietnam, but with no such interim benefits to be paid after Sept. 30, 1986.
 
 #### Radiation Exposure Study and Guide
 

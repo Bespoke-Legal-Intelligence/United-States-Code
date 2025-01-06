@@ -2,7 +2,7 @@
 
 (a) In time of war or when war is imminent, the Secretary of the Air Force may acquire by lease any building, or part of a building, in the District of Columbia that may be needed for military purposes.
 
-(b) At any time, the Secretary may, for the purposes of the Department of the Air Force,requisition the use and take possession of any building or space in any building, and its appurtenances, in the District of Columbia, other than—
+(b) At any time, the Secretary may, for the purposes of the Department of the Air Force, requisition the use and take possession of any building or space in any building, and its appurtenances, in the District of Columbia, other than—
 
 &emsp;(1) a dwelling house occupied as such;
 

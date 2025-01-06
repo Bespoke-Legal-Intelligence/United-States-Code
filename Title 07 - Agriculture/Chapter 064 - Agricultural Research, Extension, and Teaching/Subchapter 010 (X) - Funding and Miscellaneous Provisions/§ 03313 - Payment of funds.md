@@ -1,6 +1,6 @@
 ### §3313. Payment of funds
 
-Except as provided elsewhere in this Act or any other Act of Congress, funds available for allotment under this chapter shall be paid to each eligible institution or State at such time and in such amounts as shall be determined by the Secretary.
+Except as provided elsewhere in this Act or any other Act of Congress, funds available forallotment under this chapter shall be paid to each eligible institution or State at such time and in such amounts as shall be determined by the Secretary.
 
 (Pub. L. 95–113, title XIV, §1467, Sept. 29, 1977, 91 Stat. 1018.)
 

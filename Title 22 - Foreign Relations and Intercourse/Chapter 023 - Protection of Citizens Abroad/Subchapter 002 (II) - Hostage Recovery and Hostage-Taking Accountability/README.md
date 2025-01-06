@@ -42,7 +42,7 @@ Sec. 2. <i>Establishment and Responsibilities of the Hostage Recovery Fusion Cel
 
 (iv) provide a forum for intelligence sharing and, with the support of the Director of National Intelligence, coordinate the declassification of relevant information;
 
-(v) coordinate efforts by participating agencies to provide appropriate support and assistance to hostagesand their families in a coordinated and consistent manner and to provide families with timely information regarding significant events in their cases;
+(v) coordinate efforts by participating agencies to provide appropriate support and assistance to hostages and their families in a coordinated and consistent manner and to provide families with timely information regarding significant events in their cases;
 
 (vi) make recommendations to agencies in order to reduce the likelihood of U.S. nationals being taken hostage abroad and enhance United States Government preparation to maximize the probability of a favorable outcome following a hostage-taking; and
 
@@ -104,7 +104,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 I, JOSEPH R. BIDEN JR., President of the United States of America, find that hostage-taking and the wrongful detention of United States nationals are heinous acts that undermine the rule of law. Terrorist organizations, criminal groups, and other malicious actors who take hostages for financial, political, or other gain—as well as foreign states that engage in the practice of wrongful detention, including for political leverage or to seek concessions from the United States—threaten the integrity of the international political system and the safety of United States nationals and other persons abroad. I therefore determine that hostage-taking and the wrongful detention of United States nationals abroad constitute an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States. I hereby declare a national emergency to deal with this threat.
 
-The United States Government must redouble its efforts at home and with partners abroad to deter these practices and to secure the release of those held as hostages or wrongfully detained. Processes established under Executive Order 13698 of June 24, 2015 (Hostage Recovery Activities) \[set out above\] and Presidential Policy Directive 30 of June 24, 2015 (U.S. Nationals Taken Hostage Abroad and Personnel Recovery Efforts) (PPD–30) have facilitated close interagency coordination on efforts to secure the safe release of UnitedStates nationals taken hostage abroad, including engagement with the families of hostages and support of diplomatic engagement with partners abroad. This order reinforces the roles, responsibilities, and commitments contained in those directives and seeks to ensure that—as with hostage recovery activities—interagency coordination, family engagement, and diplomatic tools are enshrined in United States Government efforts to secure the safe release and return of United States nationals wrongfully detained by foreign state actors. This order also reinforces tools to deter and to impose tangible consequences on those responsible for, or complicit in, hostage-taking or the wrongful detention of a United States national abroad.
+The United States Government must redouble its efforts at home and with partners abroad to deter these practices and to secure the release of those held as hostages or wrongfully detained. Processes established under Executive Order 13698 of June 24, 2015 (HostageRecovery Activities) \[set out above\] and Presidential Policy Directive 30 of June 24, 2015 (U.S. Nationals Taken Hostage Abroad and Personnel Recovery Efforts) (PPD–30) have facilitated close interagency coordination on efforts to secure the safe release of United States nationals taken hostage abroad, including engagement with the families of hostages and support of diplomatic engagement with partners abroad. This order reinforces the roles, responsibilities, and commitments contained in those directives and seeks to ensure that—as with hostage recovery activities—interagency coordination, family engagement, and diplomatic tools are enshrined in United States Government efforts to secure the safe release and return of United States nationals wrongfully detained by foreign state actors. This order also reinforces tools to deter and to impose tangible consequences on those responsible for, or complicit in, hostage-taking or the wrongful detention of a United States national abroad.
 
 Accordingly, I hereby order:
 
@@ -158,7 +158,7 @@ Sec. 6. (a) All property and interests in property of the following persons that
 
 (i) any foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General:
 
-&emsp;(A) to be responsible for or complicit in, to have directly or indirectly engaged in, or to be responsiblefor ordering, controlling, or otherwise directing, the hostage-taking of a United States national or the wrongful detention of a United States national abroad;
+&emsp;(A) to be responsible for or complicit in, to have directly or indirectly engaged in, or to be responsible for ordering, controlling, or otherwise directing, the hostage-taking of a United States national or the wrongful detention of a United States national abroad;
 
 &emsp;(B) to have attempted to engage in any activity described in subsection (a)(i)(A) of this section; or
 
@@ -234,7 +234,9 @@ Sec. 15. (a) Nothing in this order shall be construed to impair or otherwise aff
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Continuation of national emergency declared by Ex. Ord. No. 14078 was contained in the following:
+Continuations of national emergency declared by Ex. Ord. No. 14078 were contained in the following:
+
+Notice of President of the United States, dated July 16, 2024, 89 F.R. 58613.
 
 Notice of President of the United States, dated July 12, 2023, 88 F.R. 45327.
 
@@ -247,6 +249,8 @@ Notice of President of the United States, dated July 12, 2023, 88 F.R. 45327.
 - [&sect; 01741a - Special Envoy for Hostage Affairs](%C2%A7%2001741a%20-%20Special%20Envoy%20for%20Hostage%20Affairs.md)
 - [&sect; 01741b - Hostage Recovery Fusion Cell](%C2%A7%2001741b%20-%20Hostage%20Recovery%20Fusion%20Cell.md)
 - [&sect; 01741c - Hostage Response Group](%C2%A7%2001741c%20-%20Hostage%20Response%20Group.md)
+- [&sect; 01741c&#8211;1 - Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage](%C2%A7%2001741c%E2%80%931%20-%20Report%20on%20strategies%20for%20reducing%20likelihood%20of%20United%20States%20nationals%20being%20unlawfully%20or%20wrongfully%20detained%20or%20taken%20hostage.md)
+- [&sect; 01741c&#8211;2 - Coordination with transportation authorities and industry on Department of State travel advisories](%C2%A7%2001741c%E2%80%932%20-%20Coordination%20with%20transportation%20authorities%20and%20industry%20on%20Department%20of%20State%20travel%20advisories.md)
 - [&sect; 01741d - Authorization of imposition of sanctions](%C2%A7%2001741d%20-%20Authorization%20of%20imposition%20of%20sanctions.md)
 - [&sect; 01741e - Definitions](%C2%A7%2001741e%20-%20Definitions.md)
 - [&sect; 01741f - Rule of construction](%C2%A7%2001741f%20-%20Rule%20of%20construction.md)

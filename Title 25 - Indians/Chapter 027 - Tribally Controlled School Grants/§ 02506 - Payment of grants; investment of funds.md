@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the Secretary shall make payments to grantees under this chapter in two payments, of which—
+&emsp;Except as otherwise provided in this subsection, the Secretary shall make payments tograntees under this chapter in two payments, of which—
 
 &emsp;&emsp;(A) the first payment shall be made not later than July 1 of each year in an amount equal to 80 percent of the amount which the grantee was entitled to receive during the preceding academic year; and
 
@@ -54,7 +54,7 @@ For the purposes of underrecovery and overrecovery determinations by any Federal
 
 #### Prior Provisions
 
-A prior section 2506, Pub. L. 100–297, title V, §5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, §12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2505 of this title.Q04
+A prior section 2506, Pub. L. 100–297, title V, §5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, §12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2505 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

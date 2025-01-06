@@ -4,7 +4,7 @@
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien spouse (as defined in subsection (h)(1)) and an alien son or daughter (asdefined in subsection (h)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;Notwithstanding any other provision of this chapter, an alien spouse (as defined in subsection (h)(1)) and an alien son or daughter (as defined in subsection (h)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
@@ -80,7 +80,7 @@
 
 #### (B) Removal of conditional basis if favorable determination
 
-&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information aretrue, the Secretary of Homeland Security shall so notify the parties involved and shall remove the conditional basis of the parties effective as of the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
+&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information are true, the Secretary of Homeland Security shall so notify the parties involved and shall remove the conditional basis of the parties effective as of the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
 
 #### (C) Termination if adverse determination
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) was not entered into for the purpose of procuring an alien's admission as an immigrant; and
 
-&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) <sup>2</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
+&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filingof a petition under section 1154(a) of this title or subsection (d) or (p) <sup>2</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
 
 #### (B) Statement of additional information
 
@@ -144,7 +144,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Secretary ofHomeland Security may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Secretary of Homeland Security may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
@@ -188,7 +188,7 @@ In this section:
 
 &emsp;(4) The term "petitioning spouse" means the spouse of a qualifying marriage, other than the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747; Pub. L. 113–4, title VIII, §806, Mar. 7, 2013, 127 Stat. 112.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145; Pub. L. 112–58, §1, Nov. 23, 2011, 125 Stat. 747; Pub. L. 113–4, title VIII, §806, Mar. 7, 2013, 127 Stat. 112.)
 
 #### <b>Editorial Notes</b>
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

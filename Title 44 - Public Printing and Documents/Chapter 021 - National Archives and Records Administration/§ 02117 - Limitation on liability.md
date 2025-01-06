@@ -14,6 +14,8 @@ Based on 44 U.S. Code, 1964 ed., §400 (June 30, 1949, ch. 288, title V, §510, 
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(7), substituted "Archivist" for "Administrator of General Services".
 
+Pub. L. 98–497, §102(a)(1), renumbered section 2113 of this title as this section.
+
 <b>1976</b>—Pub. L. 94–553 substituted "productions (exclusive of patented material, published works under copyright protection, and unpublished works for which copyright registration has been made) come into the custody or possession of the Administrator of General Services, the United States or its agents are not liable for infringement of copyright or analogous rights" for "productions, exclusive of material copyrighted or patented, come into the custody or possession of the Administrator of General Services, the United States or its agents are not liable for infringement of literary property rights or analogous rights".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>

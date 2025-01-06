@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) payments with respect to administrative expenses under this part in accordance with section 401(g) of this title; and
 
-&emsp;&emsp;(E) payments under section 1395w–114 of this title (relating to selected drug subsidy payments).
+&emsp;&emsp;(E) payments under section 1395w–114d of this title (relating to selected drug subsidy payments).
 
 #### (2) Transfers to Medicaid account for increased administrative costs
 

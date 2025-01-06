@@ -94,7 +94,7 @@ The Commission shall establish, within one year after the date on which the Comm
 
 (3) The Commission shall establish standards and criteria under paragraphs (1) and (2) of this subsection within one year after the date on which the Commission conducts its first meeting. Such standards and criteria may be revised in the same manner in which they were originally established.
 
-(4) The Secretary shall publish the standards and criteria established under paragraphs (1) and (2) of this subsection, and any revisions thereof, in the Federal Register.
+(4) The Secretary shall publish the standards and criteria established under paragraphs (1)and (2) of this subsection, and any revisions thereof, in the Federal Register.
 
 (Pub. L. 95–290, title III, §302, June 5, 1978, 92 Stat. 297.)
 

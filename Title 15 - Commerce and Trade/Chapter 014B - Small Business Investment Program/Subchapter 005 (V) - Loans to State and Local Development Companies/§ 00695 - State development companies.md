@@ -14,7 +14,7 @@ The total amount of obligations purchased and outstanding at any one time by the
 
 #### (d) Eligibility for assistance
 
-In order to qualify for assistance under this subchapter, the development company must demonstrate that the project to be funded is directed toward at least one of the following economic development objectives—
+In order to qualify for assistance under this subchapter, the development company mustdemonstrate that the project to be funded is directed toward at least one of the following economic development objectives—
 
 &emsp;(1) the creation of job opportunities within two years of the completion of the project or the preservation or retention of jobs attributable to the project;
 
@@ -56,7 +56,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 (2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company's portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
 
-(3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas,as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
+(3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
 
 (4) Loans for projects of small manufacturers shall be excluded from calculations under paragraph (2) or (3).
 

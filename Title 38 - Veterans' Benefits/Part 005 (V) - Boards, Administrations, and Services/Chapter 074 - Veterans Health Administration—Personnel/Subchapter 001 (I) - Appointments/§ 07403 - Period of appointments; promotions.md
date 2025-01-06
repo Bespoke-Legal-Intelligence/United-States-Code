@@ -36,7 +36,7 @@
 
 (f)(1) Upon the recommendation of the Under Secretary for Health, the Secretary may—
 
-&emsp;(A) use the authority in subsection (a) to establish the qualifications for and (subject toparagraph (2)) to appoint individuals to positions listed in section 7401(3) of this title; and
+&emsp;(A) use the authority in subsection (a) to establish the qualifications for and (subject to paragraph (2)) to appoint individuals to positions listed in section 7401(3) of this title; and
 
 &emsp;(B) use the authority provided in subsection (c) for the promotion and advancement of Department employees serving in such positions.
 
@@ -72,7 +72,7 @@
 
 &emsp;(D) if the Secretary determines that activities under subparagraph (B), (C), or both are unsuccessful at reaching such agreement and determines (in the sole and unreviewable discretion of the Secretary) that further meeting and conferral under subparagraph (B), mediation under subparagraph (C), or both are unlikely to reach such agreement—
 
-&emsp;&emsp;(i) notify the congressional veterans' affairs committees of such determinations, identify for such committees the portions of the recommendations that the Secretary has determined not to accept, and provide such committees an explanation and justification for determining to implement the part of the system subject to such portions of the recommendations without regard to such portions of the recommendations; and
+&emsp;&emsp;(i) notify the congressional veterans' affairs committees of such determinations,identify for such committees the portions of the recommendations that the Secretary has determined not to accept, and provide such committees an explanation and justification for determining to implement the part of the system subject to such portions of the recommendations without regard to such portions of the recommendations; and
 
 &emsp;&emsp;(ii) commencing not earlier than 30 days after notice under clause (i), implement the part of the system subject to the recommendations that the Secretary has determined not to accept without regard to those recommendations.
 

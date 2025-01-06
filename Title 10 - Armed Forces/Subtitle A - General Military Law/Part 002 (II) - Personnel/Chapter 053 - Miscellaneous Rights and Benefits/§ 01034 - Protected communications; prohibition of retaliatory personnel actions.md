@@ -54,7 +54,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 &emsp;(B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
-&emsp;(C) A threat by another member of the armed forces or employee of the Federal Government that indicates a determination or intent to kill or cause serious bodily injury tomembers of the armed forces or civilians or damage to military, Federal, or civilian property.
+&emsp;(C) A threat by another member of the armed forces or employee of the Federal Government that indicates a determination or intent to kill or cause serious bodily injury to members of the armed forces or civilians or damage to military, Federal, or civilian property.
 
 (3) A communication described in paragraph (2) shall not be excluded from the protections provided in this section because—
 
@@ -88,7 +88,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 &emsp;(A) Outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
 
-&emsp;(B) At least one organization higher in the chain of command than the organization of the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
+&emsp;(B) At least one organization higher in the chain of command than the organization ofthe member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
 
 (d)
 
@@ -134,7 +134,7 @@ Action in Case of Substantiated Violations.—(1) Not later than 30 days after r
 
 (g)
 
-Correction of Records When Prohibited Action Taken.—(1) A board for the correction of military records acting under section 1552 of this title, in resolving an application for the correction of records made by a member or former member of the armed forces who has alleged a personnel action prohibited by subsection (b), on the request of the member or former member or otherwise, may review the matter.
+Correction of Records When Prohibited Action Taken.—(1) A board for the correction of military records acting under section 1552 of this title, in resolving an application for thecorrection of records made by a member or former member of the armed forces who has alleged a personnel action prohibited by subsection (b), on the request of the member or former member or otherwise, may review the matter.
 
 (2) In resolving an application described in paragraph (1) for which there is a report of the Inspector General under subsection (e)(1), a correction board—
 
@@ -158,7 +158,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
-(4) The Secretary concerned shall issue a final decision with respect to an application describedin paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
+(4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
 (5) The Secretary concerned shall order such action, consistent with the limitations contained in sections 1552 and 1553 of this title, as is necessary to correct the record of a personnel action prohibited by subsection (b).
 
@@ -306,7 +306,7 @@ Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted "Gross mismanagement" for "Mismanagement".
 
-Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3)which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
+Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
 
 Subsec. (d). Pub. L. 105–261, §933(a)(2), inserted "receiving the allegation" after ", the Inspector General" and "In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned." at end.
 
@@ -340,7 +340,7 @@ Subsec. (c)(2). Pub. L. 103–337, §531(b)(2), added par. (2) and struck out fo
 
 &emsp;"(B) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety."
 
-Subsec. (c)(4). Pub. L. 103–337, §531(c)(2), struck out par. (4) which read as follows: "If the Inspector General has not already done so, the Inspector General shall commence a separate investigation of the information that the member believes evidences wrongdoing as described in subparagraph (A) or (B) of paragraph (2). The Inspector General is not required to make such an investigation if the information that the member believes evidences wrongdoing relates to actions which took place during combat."
+Subsec. (c)(4). Pub. L. 103–337, §531(c)(2), struck out par. (4) which read as follows: "If the Inspector General has not already done so, the Inspector General shall commence a separate investigation of the informationthat the member believes evidences wrongdoing as described in subparagraph (A) or (B) of paragraph (2). The Inspector General is not required to make such an investigation if the information that the member believes evidences wrongdoing relates to actions which took place during combat."
 
 Subsec. (c)(5). Pub. L. 103–337, §531(d)(1), redesignated subsec. (c)(5) as subsec. (e)(1).
 

@@ -52,7 +52,7 @@ Pub. L. 107–210, §111(b), substituted "October 1, 2001, and ending September 
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–272 inserted "for fiscal years 1986, 1987, 1988, 1989, 1990, and 1991" after "Secretary", struck out "from time to time" after "as may be necessary", and struck out "Direct loans and commitments to guarantee loans may be made under this part during any fiscal year only to such extent and in such amounts as are provided in advance in appropriations Acts." after "available until expended."
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–35 inserted provisions relating to payment of principal, interest, and reasonablecosts, incident to defaults on guaranteed loans and provisions relating to direct loans and commitments to guarantee loans.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 inserted provisions relating to payment of principal, interest, and reasonable costs, incident to defaults on guaranteed loans and provisions relating to direct loans and commitments to guarantee loans.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -78,7 +78,7 @@ Pub. L. 102–102, §2(e), Aug. 17, 1991, 105 Stat. 496, provided that: "The ame
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Abolition of House Committee on the District of Columbia
 

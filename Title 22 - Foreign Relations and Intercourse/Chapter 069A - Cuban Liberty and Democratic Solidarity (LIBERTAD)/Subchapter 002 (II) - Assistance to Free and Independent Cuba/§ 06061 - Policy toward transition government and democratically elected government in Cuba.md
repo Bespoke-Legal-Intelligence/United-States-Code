@@ -6,7 +6,7 @@ The policy of the United States is as follows:
 
 &emsp;(2) To recognize that the self-determination of the Cuban people is a sovereign and national right of the citizens of Cuba which must be exercised free of interference by the government of any other country.
 
-&emsp;(3) To encourage the Cuban people to empower themselves with a government which reflects the self-determination of the Cuban people.
+&emsp;(3) To encourage the Cuban people to empower themselves with a government whichreflects the self-determination of the Cuban people.
 
 &emsp;(4) To recognize the potential for a difficult transition from the current regime in Cuba that may result from the initiatives taken by the Cuban people for self-determination in response to the intransigence of the Castro regime in not allowing any substantive political or economic reforms, and to be prepared to provide the Cuban people with humanitarian, developmental, and other economic assistance.
 

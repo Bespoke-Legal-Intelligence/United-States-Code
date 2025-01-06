@@ -16,7 +16,7 @@
 
 &emsp;(iii) payment for the costs of onsite monitoring by an agency responsible for conducting surveys, and
 
-&emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratory would otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a).
+&emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratorywould otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a).
 
 > The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 

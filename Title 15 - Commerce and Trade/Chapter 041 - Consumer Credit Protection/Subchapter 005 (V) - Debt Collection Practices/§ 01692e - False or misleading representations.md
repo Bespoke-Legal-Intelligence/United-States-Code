@@ -30,7 +30,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(10) The use of any false representation or deceptive means to collect or attempt to collect any debt or to obtain information concerning a consumer.
 
-&emsp;(11) The failure to disclose in the initial written communication with the consumer and, in addition, if the initial communicationwith the consumer is oral, in that initial oral communication, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose, and the failure to disclose in subsequent communications that the communication is from a debt collector, except that this paragraph shall not apply to a formal pleading made in connection with a legal action.
+&emsp;(11) The failure to disclose in the initial written communication with the consumer and, in addition, if the initial communication with the consumer is oral, in that initial oral communication, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose, and the failure to disclose in subsequent communications that the communication is from a debt collector, except that this paragraph shall not apply to a formal pleading made in connection with a legal action.
 
 &emsp;(12) The false representation or implication that accounts have been turned over to innocent purchasers for value.
 

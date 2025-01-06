@@ -36,7 +36,7 @@ Any forms prescribed by the Commission under subsection (a)(1), and any informat
 
 #### (d) Rules, regulations, or forms; issuance, procedures applicable, etc.
 
-(1) Before prescribing any rule, regulation, or form under this section or any other provision ofthis Act, the Commission shall transmit a statement with respect to such rule, regulation, or form to the Senate and the House of Representatives, in accordance with this subsection. Such statement shall set forth the proposed rule, regulation, or form, and shall contain a detailed explanation and justification of it.
+(1) Before prescribing any rule, regulation, or form under this section or any other provision of this Act, the Commission shall transmit a statement with respect to such rule, regulation, or form to the Senate and the House of Representatives, in accordance with this subsection. Such statement shall set forth the proposed rule, regulation, or form, and shall contain a detailed explanation and justification of it.
 
 (2) If either House of the Congress does not disapprove by resolution any proposed rule or regulation submitted by the Commission under this section within 30 legislative days after the date of the receipt of such proposed rule or regulation or within 10 legislative days after the date of receipt of such proposed form, the Commission may prescribe such rule, regulation, or form.
 
@@ -84,7 +84,7 @@ Another prior section 311 of Pub. L. 92–225 was renumbered section 320, and wa
 
 <b>1995</b>—Subsec. (a)(4). Pub. L. 104–79 substituted "Secretary" for "Clerk, Secretary,".
 
-<b>1986</b>—Subsecs. (b), (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+<b>1986</b>—Subsecs. (b), (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal RevenueCode of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–187, §109, substituted in introductory clause "The Commission shall" for "It shall be the duty of the Commission".
 

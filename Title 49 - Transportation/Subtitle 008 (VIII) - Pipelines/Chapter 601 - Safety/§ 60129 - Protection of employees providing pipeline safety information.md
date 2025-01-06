@@ -54,7 +54,7 @@ Required showing by complainant.—The Secretary of Labor shall dismiss a compla
 
 &emsp;&emsp;&emsp;(ii)
 
-Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if theemployer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 &emsp;&emsp;&emsp;(iii)
 

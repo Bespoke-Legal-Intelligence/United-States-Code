@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Section 8401(30) of this title, referred to in subsecs. (a) and (b), was amended generally by Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597, and, as so amended, no longer contains a subpar. (B).
+Section 8401(30) of this title, referred to in subsecs. (a) and (b), was amended generally by Pub. L. 106–65, div.A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597, and, as so amended, no longer contains a subpar. (B).
 
 #### Codification
 

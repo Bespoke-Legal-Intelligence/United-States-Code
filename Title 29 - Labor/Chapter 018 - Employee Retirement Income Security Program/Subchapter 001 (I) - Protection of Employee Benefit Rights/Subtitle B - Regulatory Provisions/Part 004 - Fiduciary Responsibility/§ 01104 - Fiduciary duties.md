@@ -24,7 +24,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 #### (c) Control over assets by participant or beneficiary
 
-(1)(A) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control overthe assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
+(1)(A) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
 
 &emsp;(i) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
 
@@ -86,7 +86,7 @@ Notice requirements.—
 
 In general.—The requirements of this subparagraph are met if each participant or beneficiary—
 
-&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions andearnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
+&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
 
 &emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
 
@@ -154,7 +154,7 @@ Default investment arrangements for a pension-linked emergency savings account.�
 
 &emsp;&emsp;&emsp;&emsp;(I) operates under a certificate of authority from the insurance commissioner of its domiciliary State which has not been revoked or suspended;
 
-&emsp;&emsp;&emsp;&emsp;(II) has filed audited financial statements in accordance with the laws of its domiciliary State under applicable statutory accounting principles;
+&emsp;&emsp;&emsp;&emsp;(II) has filed audited financial statements in accordance with the laws of itsdomiciliary State under applicable statutory accounting principles;
 
 &emsp;&emsp;&emsp;&emsp;(III) maintains (and has maintained) reserves which satisfies all the statutory requirements of all States where the insurer does business; and
 
@@ -164,7 +164,7 @@ Default investment arrangements for a pension-linked emergency savings account.�
 
 &emsp;&emsp;&emsp;(iv) the insurer will notify the fiduciary of any change in circumstances occurring after the provision of the representations in clauses (i), (ii), and (iii) which would preclude the insurer from making such representations at the time of issuance of the guaranteed retirement income contract; and
 
-&emsp;&emsp;(B) after receiving such representations and as of the time of selection, the fiduciaryhas not received any notice described in subparagraph (A)(iv) and is in possession of no other information which would cause the fiduciary to question the representations provided.
+&emsp;&emsp;(B) after receiving such representations and as of the time of selection, the fiduciary has not received any notice described in subparagraph (A)(iv) and is in possession of no other information which would cause the fiduciary to question the representations provided.
 
 #### (3) No requirement to select lowest cost
 
@@ -218,7 +218,7 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 
 <b>2008</b>—Subsec. (c)(5). Pub. L. 110–458 substituted "participant or beneficiary" for "participant" wherever appearing.
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–280, §621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted ", except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary" before period at end, and added subpars. (B) and (C).
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–280, §621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted ", except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary todirect the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary" before period at end, and added subpars. (B) and (C).
 
 Subsec. (c)(4). Pub. L. 109–280, §621(a)(2), added par. (4).
 
@@ -322,7 +322,7 @@ Pub. L. 117–328, div. T, title III, §318(a), Dec. 29, 2022, 136 Stat. 5353, p
 
 &emsp;"(1) the blend is reasonably representative of the asset class holdings of the designated investment alternative;
 
-&emsp;"(2) for purposes of determining the blend's returns for 1-, 5-, and 10-calendar-year periods (or for the life of the alternative, if shorter), the blend is modified at least once per year if needed to reflect changes in the asset class holdings of the designated investment alternative;
+&emsp;"(2) for purposes of determining the blend's returns for 1-, 5-, and 10-calendar-year periods (or for the lifeof the alternative, if shorter), the blend is modified at least once per year if needed to reflect changes in the asset class holdings of the designated investment alternative;
 
 &emsp;"(3) the blend is furnished to participants and beneficiaries in a manner that is reasonably calculated to be understood by the average plan participant; and
 

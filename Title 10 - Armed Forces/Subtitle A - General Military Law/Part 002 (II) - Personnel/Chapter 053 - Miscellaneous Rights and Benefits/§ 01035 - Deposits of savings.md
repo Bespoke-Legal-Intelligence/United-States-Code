@@ -120,7 +120,7 @@ Pub. L. 101–510, div. A, title XI, §1114, Nov. 5, 1990, 104 Stat. 1636, as am
 
 #### Adjustment of Deposit Accounts of Certain Enlisted Men
 
-Pub. L. 89–738, Nov. 2, 1966, 80 Stat. 1165, provided: "That the Secretary of a military department or his designee, shall adjust the deposit account of any enlisted member or former enlisted member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who, after July 14, 1954, and before the effective date of this Act \[Nov. 2, 1966\], upon discharge and immediate reenlistment or retirement and immediate recall to active duty, continued, without withdrawal and redeposit, his account for deposits made under section 1035 of title 10, United States Code, or prior laws authorizing enlisted members' deposits, to show that his deposits and interest accrued thereon were withdrawn and redeposited on the date of such reenlistment or recall to active duty.
+Pub. L. 89–738, Nov. 2, 1966, 80 Stat. 1165, provided: "That the Secretary of a military department or his designee, shall adjust the deposit account of any enlisted member or former enlisted member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who, after July 14, 1954, and before the effective date of this Act \[Nov. 2, 1966\], upon discharge and immediate reenlistment or retirement and immediate recall to active duty, continued, without withdrawal and redeposit, his account for deposits made under section 1035 of title 10, United States Code, or prior laws authorizing enlisted members' deposits, to show that his deposits and interest accrued thereon were withdrawnand redeposited on the date of such reenlistment or recall to active duty.
 
 "
 

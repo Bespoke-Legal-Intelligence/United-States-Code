@@ -10,7 +10,7 @@ Prohibitions.—A person may not—
 
 &emsp;&emsp;(A) without an airman certificate authorizing the airman to serve in the capacity for which the certificate was issued; or
 
-&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issuedunder section 44701(a) or (b) or any of sections 44702–44716 of this title;
+&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
 
 &emsp;(3) employ for service related to civil aircraft used in air commerce an airman who does not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
 
@@ -24,9 +24,11 @@ Prohibitions.—A person may not—
 
 &emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate;
 
-&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title; or
+&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title;
 
-&emsp;(10) violate section 44732 or any regulation issued thereunder.
+&emsp;(10) work as an aircraft dispatcher outside of a physical location designated as a dispatching center or flight following center of an air carrier, except as provided under section 44747; or
+
+&emsp;(11) violate section 44732 or any regulation issued thereunder.
 
 (b)
 
@@ -56,7 +58,7 @@ Prohibition.—A person holding a certificate issued under part 21 or 119 of tit
 
 Written and oral communications.—For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as an individual covered under paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–95, title III, §§307(b), 342(a), Feb. 14, 2012, 126 Stat. 61, 79; Pub. L. 116–260, div. V, title I, §111(b), Dec. 27, 2020, 134 Stat. 2330.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–95, title III, §§307(b), 342(a), Feb. 14, 2012, 126 Stat. 61, 79; Pub. L. 116–260, div. V, title I, §111(b), Dec. 27, 2020, 134 Stat. 2330; Pub. L. 118–63, title IV, §420(a)(1), May 16, 2024, 138 Stat. 1164.)
 
 Historical and Revision Notes
 
@@ -154,6 +156,8 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(10), (11). Pub. L. 118–63 added par. (10) and redesignated former par. (10) as (11).
+
 <b>2020</b>—Subsec. (d). Pub. L. 116–260 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to postemployment restrictions for flight standards inspectors.
 
 <b>2012</b>—Subsec. (a)(10). Pub. L. 112–95, §307(b), added par. (10).
@@ -183,4 +187,8 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Regulations
+
+Pub. L. 118–63, title IV, §420(a)(2), May 16, 2024, 138 Stat. 1164, provided that: "Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall issue regulations requiring persons to comply with section 44711(a)(10) of title 49, United States Code (as added by paragraph (1))."
 

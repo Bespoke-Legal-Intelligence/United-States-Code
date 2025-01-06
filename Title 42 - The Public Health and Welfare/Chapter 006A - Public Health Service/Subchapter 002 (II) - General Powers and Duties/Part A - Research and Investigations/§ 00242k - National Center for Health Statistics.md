@@ -20,7 +20,7 @@ In carrying out subsection (a), the Secretary, acting through the Center,
 
 &emsp;&emsp;(E) health resources, including physicians, dentists, nurses, and other health professionals by specialty and type of practice and the supply of services by hospitals, extended care facilities, home health agencies, and other health institutions,
 
-&emsp;&emsp;(F) utilization of health care, including utilization of (i) ambulatory health servicesby specialties and types of practice of the health professionals providing such services, and (ii) services of hospitals, extended care facilities, home health agencies, and other institutions,
+&emsp;&emsp;(F) utilization of health care, including utilization of (i) ambulatory health services by specialties and types of practice of the health professionals providing such services, and (ii) services of hospitals, extended care facilities, home health agencies, and other institutions,
 
 &emsp;&emsp;(G) health care costs and financing, including the trends in health care prices and cost, the sources of payments for health care services, and Federal, State, and local governmental expenditures for health care services, and
 
@@ -68,7 +68,7 @@ To secure uniformity in the registration and collection of mortality, morbidity,
 
 (1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
 
-(2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status ofthe civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
+(2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
 
 #### (i) Technical assistance in effective use of statistics
 
@@ -84,7 +84,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(3) after consultation with the National Committee on Vital and Health Statistics, establishing standards to assure the quality of health statistical and epidemiological data collection, processing, and analysis;
 
-&emsp;(4) in the case of proposed health data collections of the Department which are required to be reviewed by the Director of the Office of Management and Budget under section 3509 <sup>2</sup> of title 44, reviewing such proposed collections to determine whether they conform with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3), and if any such proposed collection is found not to be in conformance, by taking such action as may be necessary to assure that it will conform to such sets of data and standards, and
+&emsp;(4) in the case of proposed health data collections of the Department which are required to be reviewed by the Director of the Office of Management and Budget under section 3509 <sup>2</sup> oftitle 44, reviewing such proposed collections to determine whether they conform with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3), and if any such proposed collection is found not to be in conformance, by taking such action as may be necessary to assure that it will conform to such sets of data and standards, and
 
 &emsp;(5) periodically reviewing ongoing health data collections of the Department, subject to review under such section 3509,<sup>2</sup> to determine if the collections are being conducted in accordance with the minimum sets of data and the standards promulgated pursuant to paragraphs (2) and (3) and, if any such collection is found not to be in conformance, by taking such action as may be necessary to assure that the collection will conform to such sets of data and standards not later than the ninetieth day after the date of the completion of the review of the collection.
 
@@ -116,7 +116,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;&emsp;(iv) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and Human Services, with respect to the Cooperative Health Statistics System established under subsection (e), and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1);
 
-&emsp;&emsp;(v) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation bylocal, State, national, or international agencies;
+&emsp;&emsp;(v) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation by local, State, national, or international agencies;
 
 &emsp;&emsp;(vi) to cooperate with national committees of other countries and with the World Health Organization and other national agencies in the studies of problems of mutual interest;
 
@@ -174,7 +174,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (3) For activities authorized in subsection (m)(4), there are authorized to be appropriated $1,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
-(July 1, 1944, ch. 373, title III, §306, as added Pub. L. 93–353, title I, §105, July 23, 1974, 88 Stat. 365; amended Pub. L. 95–623, §§5, 8(a), Nov. 9, 1978, 92 Stat. 3445, 3453; Pub. L. 97–35, title IX, §920, Aug. 13, 1981, 95 Stat. 566; Pub. L. 97–414, §8(b), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 100–177, title I, §§104, 105(a), Dec. 1, 1987, 101 Stat. 988; Pub. L. 101–239, title VI, §6103(e)(2), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(a), (b)(1), (c), Nov. 6, 1990, 104Stat. 2327, 2328; Pub. L. 102–54, §13(q)(1)(A)(i), June 13, 1991, 105 Stat. 278; Pub. L. 103–183, title V, §501(a), (d), Dec. 14, 1993, 107 Stat. 2237, 2238; Pub. L. 104–191, title II, §263, Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–340, title II, §201, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 105–392, title II, §201(b), Nov. 13, 1998, 112 Stat. 3585.)
+(July 1, 1944, ch. 373, title III, §306, as added Pub. L. 93–353, title I, §105, July 23, 1974, 88 Stat. 365; amended Pub. L. 95–623, §§5, 8(a), Nov. 9, 1978, 92 Stat. 3445, 3453; Pub. L. 97–35, title IX, §920, Aug. 13, 1981, 95 Stat. 566; Pub. L. 97–414, §8(b), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 100–177, title I, §§104, 105(a), Dec. 1, 1987, 101 Stat. 988; Pub. L. 101–239, title VI, §6103(e)(2), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(a), (b)(1), (c), Nov. 6, 1990, 104 Stat. 2327, 2328; Pub. L. 102–54, §13(q)(1)(A)(i), June 13, 1991, 105 Stat. 278; Pub. L. 103–183, title V, §501(a), (d), Dec. 14, 1993, 107 Stat. 2237, 2238; Pub. L. 104–191, title II, §263, Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–340, title II, §201, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 105–392, title II, §201(b), Nov. 13, 1998, 112 Stat. 3585.)
 
 #### <b>Editorial Notes</b>
 
@@ -276,7 +276,7 @@ Subsecs. (j), (k)(4)(C), (D). Pub. L. 97–35, §920(d)(1), substituted "Health 
 
 Subsec. (l)(2). Pub. L. 97–35, §920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted "Health and Human Services" for "Health, Education, and Welfare", and in subpar. (D) struck out provisions relating to assistance to executive departments.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–623, §5(a), struck out "may" after "through the Center,", substituted in pars. (1) and (2) "shall collect" and "shall undertake" for "collect" and "undertake", respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
+<b>1978</b>—Subsec. (b). Pub. L. 95–623, §5(a), struck out "may" after "through the Center,", substituted in pars. (1) and (2) "shall collect" and "shall undertake"for "collect" and "undertake", respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
 
 Subsec. (c). Pub. L. 95–623, §5(b), substituted "statistical and epidemiological compilations" for "statistical compilations" in two places and "Committee on Human Resources" for "Committee on Labor and Public Welfare" of the Senate.
 

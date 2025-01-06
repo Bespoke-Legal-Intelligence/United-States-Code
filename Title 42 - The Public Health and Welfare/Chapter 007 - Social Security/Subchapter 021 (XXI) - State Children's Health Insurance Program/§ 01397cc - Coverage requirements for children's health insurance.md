@@ -140,7 +140,7 @@ The benchmark benefit packages are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act \[42 U.S.C. 300gg–26(a)\] in the same manner as such requirements or limitations apply to a group health plan under such section. In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act \[42 U.S.C. 300gg–26(a)\], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.
+&emsp;&emsp;A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act \[42 U.S.C. 300gg–26(a)\] in the same manner as such requirements or limitations apply to a group health plan under such section. In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act \[42 U.S.C. 300gg–26(a)\], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliancewith section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.
 
 #### (B) Deemed compliance
 
@@ -148,7 +148,7 @@ The benchmark benefit packages are as follows:
 
 #### (8) Construction on prohibited coverage
 
-&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offeredunder the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
 
 #### (9) Availability of coverage for items and services furnished through school-based health centers
 
@@ -208,7 +208,7 @@ The benchmark benefit packages are as follows:
 
 #### (2) No cost sharing on benefits for preventive services, COVID–19 testing, a COVID–19 vaccine, COVID–19 treatment, or pregnancy-related assistance
 
-&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), vaccines described in subsection (c)(12) (and the administration of such vaccines), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
+&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharingwith respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), vaccines described in subsection (c)(12) (and the administration of such vaccines), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
 
 #### (3) Limitations on premiums and cost-sharing
 

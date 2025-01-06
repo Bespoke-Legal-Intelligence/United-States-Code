@@ -2,7 +2,7 @@
 
 #### (a) Preparation and distribution
 
-The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
+The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists,organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
 
 #### (b) Contents
 
@@ -42,7 +42,7 @@ Each booklet shall be in such form and detail as the Director shall prescribe an
 
 &emsp;(13) Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
 
-&emsp;(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or notthe real estate is located in an area having special flood hazards, and the following statement: "Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.".
+&emsp;(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards, and the following statement: "Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.".
 
 > The booklet prepared pursuant to this section shall take into consideration differences in real estate settlement procedures that may exist among the several States and territories of the United States and among separate political subdivisions within the same State and territory.
 
@@ -58,7 +58,7 @@ Each lender referred to in subsection (a) shall provide the booklet described in
 
 Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
-(Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, §13(b), Mar. 21, 2014, 128 Stat. 1026.)
+(Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub.L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, §13(b), Mar. 21, 2014, 128 Stat. 1026.)
 
 #### <b>Editorial Notes</b>
 
@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 111–203, §1450(4), inserted "The lender shall provide th
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1098(3) of Pub. L. 111–203 effective on the designated transfer date, see section 1100Hof Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1098(3) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by section 1450 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 

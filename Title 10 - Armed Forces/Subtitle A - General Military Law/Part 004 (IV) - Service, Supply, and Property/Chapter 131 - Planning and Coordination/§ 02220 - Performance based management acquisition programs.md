@@ -56,7 +56,7 @@ Solicitations, unsolicited proposals, and related contracts.—An amendment made
 
 &emsp;"(2)
 
-Other matters.—An amendment made by this division shall also apply, to the extent and in themanner prescribed in the final regulations promulgated pursuant to section 4402 to implement such amendment, with respect to any matter related to—
+Other matters.—An amendment made by this division shall also apply, to the extent and in the manner prescribed in the final regulations promulgated pursuant to section 4402 to implement such amendment, with respect to any matter related to—
 
 &emsp;&emsp;"(A) a contract that is in effect on the date described in paragraph (3);
 
@@ -66,7 +66,7 @@ Other matters.—An amendment made by this division shall also apply, to the ext
 
 &emsp;"(3)
 
-Demarcation date.—The date referred to in paragraphs (1) and (2) is the date specified in such final regulations. The date so specified shall be January 1, 1997, or any earlier date that is not within 30 days after the date on which such final regulations are published."
+Demarcation date.—The date referred to in paragraphs (1) and (2) is the date specified in such final regulations. The date so specified shall be January 1, 1997, or any earlier date that is not within 30days after the date on which such final regulations are published."
 
 #### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
 

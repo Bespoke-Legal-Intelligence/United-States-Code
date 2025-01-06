@@ -18,7 +18,7 @@ The President shall designate, within the Department of State, a coordinator who
 
 #### (b) Export promotion activities
 
-Consistent with subsection (a), coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shallcontinue to be primarily the responsibility of the Secretary of Commerce, in the Secretary's role as Chair of the Trade Promotion Coordination Committee.
+Consistent with subsection (a), coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary's role as Chair of the Trade Promotion Coordination Committee.
 
 #### (c) International economic activities
 
@@ -164,7 +164,7 @@ Availability of Funds.—Amounts appropriated under subsection (a) are authorize
 
 Pub. L. 107–115, title II \[(g)(2)–(6)\], Jan. 10, 2002, 115 Stat. 2129, provided that:
 
-"(2) The President may waive section 907 of the FREEDOM Support Act \[Pub. L. 102–511, set out below\] if he determines and certifies to the Committees on Appropriations that to do so—
+"(2) The President may waive section 907 of the FREEDOM Support Act \[Pub. L. 102–511, set out below\]if he determines and certifies to the Committees on Appropriations that to do so—
 
 &emsp;"(A) is necessary to support United States efforts to counter international terrorism; or
 

@@ -36,7 +36,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;(iii) social and economic benefits;
 
-&emsp;&emsp;(D) prohibit any person other than a United States citizen, a corporation, partnership, or other entity established under the laws of the United States or any State, or a permanent resident alien, that meets the eligibility and participation requirements established in the program from acquiring a privilege to harvest fish, including any person that acquires a limited access privilege solely for the purpose of perfecting or realizing on a security interest in such privilege;
+&emsp;&emsp;(D) prohibit any person other than a United States citizen, a corporation, partnership, or other entity established underthe laws of the United States or any State, or a permanent resident alien, that meets the eligibility and participation requirements established in the program from acquiring a privilege to harvest fish, including any person that acquires a limited access privilege solely for the purpose of perfecting or realizing on a security interest in such privilege;
 
 &emsp;&emsp;(E) require that all fish harvested under a limited access privilege program be processed on vessels of the United States or on United States soil (including any territory of the United States);
 
@@ -108,7 +108,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;(iii) be a voluntary association, among willing parties with established by-laws and operating procedures;
 
-&emsp;&emsp;&emsp;(iv) consist of participants in the fishery who hold quota share that are designated for use in the specific region or subregion covered by the regional fishery association, including commercial or recreational fishing, processing, fishery-dependent support businesses, or fishing communities;
+&emsp;&emsp;&emsp;(iv) consist of participants in the fishery who hold quota share that are designated for use in the specific region or subregion covered by the regional fishery association, including commercial or recreationalfishing, processing, fishery-dependent support businesses, or fishing communities;
 
 &emsp;&emsp;&emsp;(v) not be eligible to receive an initial allocation of a limited access privilege but may acquire such privileges after the initial allocation, and may hold the annual fishing privileges of any limited access privileges it holds or the annual fishing privileges that is <sup>1</sup> members contribute; and
 
@@ -150,7 +150,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(B) consider the basic cultural and social framework of the fishery, especially through—
 
-&emsp;&emsp;&emsp;(i) the development of policies to promote the sustained participation of small owner-operated fishing vessels and fishing communities that depend on the fisheries,including regional or port-specific landing or delivery requirements; and
+&emsp;&emsp;&emsp;(i) the development of policies to promote the sustained participation of small owner-operated fishing vessels and fishing communities that depend on the fisheries, including regional or port-specific landing or delivery requirements; and
 
 &emsp;&emsp;&emsp;(ii) procedures to address concerns over excessive geographic or other consolidation in the harvesting or processing sectors of the fishery;
 
@@ -176,7 +176,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (C) Certification by Secretary
 
-&emsp;&emsp;Upon the receipt of any such petition, the Secretary shall review all of the signatures on the petition and, if the Secretary determines that the signatures on the petition represent more than 50 percent of the permit holders, or holders of more than 50 percent of the allocation in the fishery, as described by subparagraph (B), the Secretary shall certify the petition to the appropriate Council or Councils.
+&emsp;&emsp;Upon the receipt of any such petition, the Secretary shall review all of the signatures on the petition and, if the Secretary determines that the signatures on the petitionrepresent more than 50 percent of the permit holders, or holders of more than 50 percent of the allocation in the fishery, as described by subparagraph (B), the Secretary shall certify the petition to the appropriate Council or Councils.
 
 #### (D) New England and Gulf referendum
 

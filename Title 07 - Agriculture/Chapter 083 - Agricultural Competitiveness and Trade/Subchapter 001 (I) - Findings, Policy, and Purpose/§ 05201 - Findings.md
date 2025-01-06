@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) United States agricultural exports have declined by more than 36 percent since 1981, from $43,800,000,000 in 1981 to $27,900,000,000 in 1987;
 
-&emsp;(2) the United States share of the world market for agricultural commodities and productshas dropped by 20 percent during the last 6 years;
+&emsp;(2) the United States share of the world market for agricultural commodities and products has dropped by 20 percent during the last 6 years;
 
 &emsp;(3) for the first time in 15 years, the United States incurred monthly agricultural trade deficits in 1986;
 

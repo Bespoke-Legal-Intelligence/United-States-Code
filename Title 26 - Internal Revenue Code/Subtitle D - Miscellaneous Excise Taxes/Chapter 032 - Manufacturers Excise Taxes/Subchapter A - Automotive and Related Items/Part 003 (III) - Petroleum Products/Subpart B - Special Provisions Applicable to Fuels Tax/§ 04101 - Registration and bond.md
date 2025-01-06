@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every person required by the Secretary to register under this section with respect to thetax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+&emsp;Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
 
 #### (2) Registration of persons within foreign trade zones, etc.
 
@@ -65,10 +65,6 @@ The Secretary may require—
 > Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, §15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, §4(a), title XV, §15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275; Pub. L. 112–240, title IV, §404(b)(3)(C), Jan. 2, 2013, 126 Stat. 2339; Pub. L. 117–169, title I, §§13203(d)(2)(C), 13704(b)(5), Aug. 16, 2022, 136 Stat. 1935, 2003.)
-
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 117–169, title I, §13704(b)(5), (c), Aug. 16, 2022, 136 Stat. 2003, provided that, applicable</i><i>to transportation fuel produced after Dec. 31, 2024, subsection (a)(1) of this section is amended by inserting "every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z)," after "section 6426(k)(3)),". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -154,7 +150,7 @@ Amendment by Pub. L. 112–240 applicable to fuels sold or used after Jan. 2, 20
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 15321(b)(3)(A) of Pub. L. 110–246 applicable to fuel produced after Dec. 31, 2008, see section 15321(g) of Pub. L. 110–246, set out as a note under section 40 of this title.
 

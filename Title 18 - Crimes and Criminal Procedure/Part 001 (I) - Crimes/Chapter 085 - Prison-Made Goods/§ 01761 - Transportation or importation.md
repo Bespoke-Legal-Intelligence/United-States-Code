@@ -24,7 +24,7 @@
 
 (d) This section shall not apply to goods, wares, or merchandise manufactured, produced, mined or assembled by convicts or prisoners who are participating in any pilot project approved by the FPI Board of Directors, which are currently, or would otherwise be, manufactured, produced, mined, or assembled outside the United States.
 
-(e) For the purposes of this section, the term "State" means a State of the United States and any commonwealth, territory, or possession of the United States.
+(e) For the purposes of this section, the term "State" means a State of the United States andany commonwealth, territory, or possession of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 90–351, title I, §819(a), formerly §827(a), as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1215, and renumbered Pub. L. 98–473, title II, §609B(f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 98–473, title II, §§223(c), 609K, Oct. 12, 1984, 98 Stat. 2028, 2102; Pub. L. 100–17, title I, §112(b)(3), Apr. 2, 1987, 101 Stat. 149; Pub. L. 101–647, title XXIX, §2906, Nov. 29, 1990, 104 Stat. 4914; Pub. L. 102–393, title V, §535(a), Oct. 6, 1992, 106 Stat. 1764; Pub. L. 103–322, title XXXIII, §§330010(11), 330016(1)(H), Sept. 13, 1994, 108 Stat. 2144, 2147; Pub. L. 104–134, title I, §101(b) \[title I, §136\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–93; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–294, title VI, §§601(a)(7), 607(h), Oct. 11, 1996, 110 Stat. 3498, 3512; Pub. L. 112–55, div. B, title II, §221, Nov. 18, 2011, 125 Stat. 621.)
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 103–322, §330010(11), struck out "and" at end of par. (1
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–393 substituted "$50,000" for "$1,000" and "two years" for "one year".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who" for "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designatedby the Director of the Bureau of Justice Assistance and who" in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2906(1), (2), substituted "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who" for "In addition to the exceptions set forth in subsection (b) of this section, this chapter shall also not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners participating in a program of not more than twenty pilot projects designated by the Director of the Bureau of Justice Assistance and who" in introductory provisions, added par. (1), and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "reasonable charges for room and board as determined by regulations which shall be issued by the Chief State correctional officer;".
 
@@ -96,5 +96,5 @@ Pub. L. 90–351, title I, §819(c), formerly §827(c), as added Pub. L. 96–15
 
 &emsp;"(1) representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section; and
 
-&emsp;"(2) such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services."
+&emsp;"(2) such paid inmate employment will not result in the displacement of employed workers, or be appliedin skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services."
 

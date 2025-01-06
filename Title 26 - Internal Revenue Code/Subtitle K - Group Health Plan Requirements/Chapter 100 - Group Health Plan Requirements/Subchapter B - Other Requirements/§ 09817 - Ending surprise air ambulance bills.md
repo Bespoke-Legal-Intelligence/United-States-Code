@@ -38,7 +38,7 @@ In the case of a participant or beneficiary in a group health plan who receives 
 
 #### (C) Clarification
 
-&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 2799B–2 of the Public Health Service Act with respect to such item or service pursuant to subsection (b) of such section.
+&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 2799B–2 of the Public Health ServiceAct with respect to such item or service pursuant to subsection (b) of such section.
 
 #### (3) Treatment of batching of services
 
@@ -104,7 +104,7 @@ In the case of a participant or beneficiary in a group health plan who receives 
 
 #### (iii) Prohibition on consideration of certain factors
 
-&emsp;&emsp;In determining which offer is the payment amount to be applied with respect to qualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of section 2799B–5 of the Public Health Service Act not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
+&emsp;&emsp;In determining which offer is the payment amount to be applied with respect to qualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of section 2799B–5 of the Public Health Service Act not applied, or thepayment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
 
 #### (D) Effects of determination
 
@@ -172,7 +172,7 @@ In the case of a participant or beneficiary in a group health plan who receives 
 
 #### (A) In general
 
-&emsp;&emsp;Each party to a determination under paragraph (5) to which an entity is selected under paragraph (4) in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+&emsp;&emsp;Each party to a determination under paragraph (5) to which an entity is selectedunder paragraph (4) in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
 #### (B) Amount of fee
 

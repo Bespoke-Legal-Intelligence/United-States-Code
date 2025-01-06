@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Subject to paragraph (2), the Administrator of the Drug Enforcement Administration, inconsultation with the Secretary of State, may transfer or lease each year nonlethal equipment to foreign law enforcement organizations for the purpose of establishing and carrying out cooperative illicit narcotics control activities.
+(1) Subject to paragraph (2), the Administrator of the Drug Enforcement Administration, in consultation with the Secretary of State, may transfer or lease each year nonlethal equipment to foreign law enforcement organizations for the purpose of establishing and carrying out cooperative illicit narcotics control activities.
 
 (2)(A) The Administrator may transfer or lease equipment under paragraph (1) only if the equipment is not designated as a munitions item or controlled on the United States Munitions List pursuant to section 2778 of this title.
 

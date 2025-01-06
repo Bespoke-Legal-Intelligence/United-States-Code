@@ -78,7 +78,7 @@ For purposes of this section, the terms "Native Corporation" and "Settlement Tru
 
 #### (2) Treatment
 
-&emsp;In the case of property described in paragraph (1), any income or gain realized on the sale or exchange of such property shall be treated as—
+&emsp;In the case of property described in paragraph (1), any income or gain realized on thesale or exchange of such property shall be treated as—
 
 &emsp;&emsp;(A) for such amount of the income or gain as is equal to or less than the amount of income which would be included in income at the time of contribution under subsection (f)(3) but for the taxpayer's election under this subsection, ordinary income, and
 

@@ -54,7 +54,7 @@ Circumstances described.—For purposes of subparagraph (A), the circumstances d
 
 &emsp;(3)
 
-Offenses occurring in the special maritime or territorial jurisdiction of the united states.—Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
+Offenses occurring in the special maritime or territorial jurisdiction of theunited states.—Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
 
 &emsp;(4)
 

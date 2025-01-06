@@ -30,7 +30,7 @@ The Secretary, or the Secretary's designee, in coordination with the Director of
 
 &emsp;&emsp;(B) assist National Counterterrorism Center intelligence analysts in integrating, analyzing, and otherwise preparing versions of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information that are unclassified or classified at the lowest possible level and suitable for dissemination to State, local, and tribal homeland security and law enforcement agencies in order to help deter and prevent terrorist attacks;
 
-&emsp;&emsp;(C) implement, in coordination with National Counterterrorism Center intelligence analysts, the policies, processes, procedures,standards, and guidelines developed by the ITACG Advisory Council;
+&emsp;&emsp;(C) implement, in coordination with National Counterterrorism Center intelligence analysts, the policies, processes, procedures, standards, and guidelines developed by the ITACG Advisory Council;
 
 &emsp;&emsp;(D) assist in the dissemination of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, to State, local, and tribal jurisdictions only through appropriate channels identified by the ITACG Advisory Council;
 
@@ -78,7 +78,7 @@ The Secretary, or the Secretary's designee, shall serve as the chair of the ITAC
 
 The Secretary, in consultation with the Director of National Intelligence, the Attorney General, and the program manager of the information sharing environment established under section 485 of this title, shall—
 
-&emsp;(1) establish procedures for selecting members of the ITACG Advisory Council and for the proper handling and safeguarding of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by those members; and
+&emsp;(1) establish procedures for selecting members of the ITACG Advisory Council and forthe proper handling and safeguarding of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by those members; and
 
 &emsp;(2) ensure that at least 50 percent of the members of the ITACG Advisory Council are from State, local, and tribal governments.
 

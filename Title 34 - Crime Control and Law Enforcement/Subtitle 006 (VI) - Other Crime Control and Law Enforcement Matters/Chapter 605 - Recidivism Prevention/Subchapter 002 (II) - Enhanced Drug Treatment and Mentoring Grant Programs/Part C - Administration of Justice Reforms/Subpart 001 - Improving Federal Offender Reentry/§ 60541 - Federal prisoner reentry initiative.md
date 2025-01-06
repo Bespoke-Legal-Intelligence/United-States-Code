@@ -104,7 +104,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (ii) Contents
 
-&emsp;&emsp;&emsp;The goals established under clause (i) shall use the relative reductions in recidivism measured for the fiscal year covered by the first report required by subparagraph (A) as a baseline rate, and shall include—
+&emsp;&emsp;&emsp;The goals established under clause (i) shall use the relative reductions in recidivism measured for the fiscal year coveredby the first report required by subparagraph (A) as a baseline rate, and shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) a 5-year goal to increase, at a minimum, the baseline relative reduction rate of recidivism by 2 percent; and
 
@@ -248,5 +248,5 @@ Subsecs. (h), (i). Pub. L. 115–391, §504(b)(2)–(4), redesignated subsec. (i
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

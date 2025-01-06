@@ -58,7 +58,7 @@ The Librarian may charge a fee for services under any of the programs and activi
 
 &emsp;In the case of any amount in the revolving fund consisting of a payment received for services of the United States Capitol Police in connection with a special event or program described in subsection (a)(4), the Librarian shall transfer such amount upon receipt to the Capitol Police for deposit into the applicable appropriations accounts of the Capitol Police.
 
-(Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, §151(1), Mar. 23, 2018, 132 Stat. 784.)
+(Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, titleI, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, §151(1), Mar. 23, 2018, 132 Stat. 784.)
 
 #### <b>Editorial Notes</b>
 

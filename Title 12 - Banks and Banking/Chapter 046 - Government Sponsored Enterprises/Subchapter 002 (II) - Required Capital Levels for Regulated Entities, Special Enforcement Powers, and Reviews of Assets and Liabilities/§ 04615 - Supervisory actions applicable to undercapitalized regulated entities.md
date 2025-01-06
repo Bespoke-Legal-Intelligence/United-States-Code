@@ -14,7 +14,7 @@
 
 #### (2) Capital restoration plan
 
-&emsp;A regulated entity that is classified as undercapitalized shall, within the time period provided in section 4622(b) and (d) of this title,submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
+&emsp;A regulated entity that is classified as undercapitalized shall, within the time period provided in section 4622(b) and (d) of this title, submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
 
 #### (3) Restriction on capital distributions
 

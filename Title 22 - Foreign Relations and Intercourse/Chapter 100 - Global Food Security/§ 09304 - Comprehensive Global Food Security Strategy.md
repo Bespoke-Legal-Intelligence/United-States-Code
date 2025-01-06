@@ -12,7 +12,7 @@ The President shall coordinate the development and implementation of a United St
 
 &emsp;(4) support and be aligned with partner country-led agriculture, nutrition, regulatory, food security, and water resources management policy and investment plans and governance systems developed with input from key stakeholders, as appropriate;
 
-&emsp;(5) support the locally-led and inclusive development of agriculture and food systems, including by enhancing the extent to which small-scale food producers, especially women, have access to and control over the inputs, skills, resource management capacity, networking, bargaining power, financing, market linkages, technology, and information needed to sustainably increase productivity and incomes, reduce poverty and malnutrition, and promote long-term economic prosperity;
+&emsp;(5) support the locally-led and inclusive development of agriculture and food systems, including by enhancing the extent to which small-scale food producers, especially women, have access to and control over the inputs,skills, resource management capacity, networking, bargaining power, financing, market linkages, technology, and information needed to sustainably increase productivity and incomes, reduce poverty and malnutrition, and promote long-term economic prosperity;
 
 &emsp;(6) support improvement of the nutritional status of women, adolescent girls, and children, particularly during the critical first 1,000-day window until a child reaches 2 years of age and with a focus on reducing child stunting and preventing incidence of wasting, through nutrition-specific and nutrition-sensitive programs, including related water, sanitation, and hygiene programs;
 
@@ -66,7 +66,7 @@ The President shall coordinate, through a whole-of-government approach, the effo
 
 #### (2) Agency-specific plans
 
-&emsp;The Global Food Security Strategy shall include specific implementation plans from each relevant Federal department and agency that describes—
+&emsp;The Global Food Security Strategy shall include specific implementation plans from eachrelevant Federal department and agency that describes—
 
 &emsp;&emsp;(A) the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
 

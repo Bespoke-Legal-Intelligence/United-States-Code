@@ -368,7 +368,7 @@ Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided th
 
 Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that: "Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall—
 
-&emsp;"(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system forcontainerized cargo shipped to and from the United States either directly or via a foreign port; and
+&emsp;"(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and
 
 &emsp;"(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks."
 

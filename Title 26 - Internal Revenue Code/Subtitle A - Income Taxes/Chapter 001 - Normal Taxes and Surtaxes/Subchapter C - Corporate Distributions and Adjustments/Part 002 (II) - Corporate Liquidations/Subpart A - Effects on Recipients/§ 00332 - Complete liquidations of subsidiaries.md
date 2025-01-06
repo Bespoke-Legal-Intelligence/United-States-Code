@@ -58,7 +58,7 @@ If a corporation receives a distribution from a regulated investment company or 
 
 &emsp;The Secretary shall provide such regulations as appropriate to prevent the abuse of this subsection, including regulations which provide, for the purposes of clause (iv) of paragraph (2)(A), that a corporation is not in existence for any period unless it is engaged in the active conduct of a trade or business or owns a significant ownership interest in another corporation so engaged.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 99–514, title VI, §631(e)(2), title XVIII, §1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, §3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, §412(v), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xvii)(III), Mar. 23, 2018, 132 Stat. 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §631(e)(2), title XVIII, §1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, §3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, §412(v), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xvii)(III), Mar. 23, 2018, 132 Stat. 1208.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +92,7 @@ Pub. L. 105–277, div. J, title III, §3001(c), Oct. 21, 1998, 112 Stat. 2681�
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(2) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(2) of Pub. L. 99–514 applicable to any distribution in complete liquidation,and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Pub. L. 99–514, title XVIII, §1804(e)(6)(B), Oct. 22, 1986, 100 Stat. 2803, provided that:
 

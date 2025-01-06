@@ -64,7 +64,7 @@
 
 #### (7) Funding
 
-&emsp;For purposes of carrying out pilot programs under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as theSecretary determines appropriate, of such sums as the Secretary determines necessary, to the Centers for Medicare \& Medicaid Services Program Management Account.
+&emsp;For purposes of carrying out pilot programs under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, of such sums as the Secretary determines necessary, to the Centers for Medicare \& Medicaid Services Program Management Account.
 
 #### (8) Waiver of budget neutrality
 

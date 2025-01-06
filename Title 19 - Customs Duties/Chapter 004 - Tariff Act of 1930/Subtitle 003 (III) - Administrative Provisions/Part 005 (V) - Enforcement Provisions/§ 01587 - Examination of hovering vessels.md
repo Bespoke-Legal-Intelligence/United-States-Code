@@ -22,7 +22,7 @@ The Anti-Smuggling Act, referred to in subsecs. (a) and (b), is act Aug. 5, 1935
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §588, 42 Stat. 981. That section was superseded by section 588 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §588, 42Stat. 981. That section was superseded by section 588 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions substantially the same as those in this section, except that they applied only to ports on the northern, northeastern and northwestern frontiers, were contained in R.S. §3110, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

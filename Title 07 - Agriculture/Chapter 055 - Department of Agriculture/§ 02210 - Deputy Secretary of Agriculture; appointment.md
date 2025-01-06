@@ -30,5 +30,5 @@ Pub. L. 94–561, §1(d), Oct. 19, 1976, 90 Stat. 2643, provided that: "The offi
 
 #### Transfer of Functions
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953, Reorg.Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953, Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

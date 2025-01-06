@@ -2,7 +2,7 @@
 
 (a) The President, with the concurrence of the Republic of the Philippines, may authorize the Secretary to enter into contracts with the Veterans Memorial Medical Center, with the approval of the appropriate department of the Government of the Republic of the Philippines, covering the period beginning on October 1, 1981, and ending on September 30, 1994, under which the United States—
 
-&emsp;(1) will provide for payments for hospital care and medical services (including nursinghome care) in the Veterans Memorial Medical Center, as authorized by section 1724 of this title and on the terms and conditions set forth in such section, to eligible United States veterans at a per diem rate to be jointly determined for each fiscal year by the two Governments to be fair and reasonable; and
+&emsp;(1) will provide for payments for hospital care and medical services (including nursing home care) in the Veterans Memorial Medical Center, as authorized by section 1724 of this title and on the terms and conditions set forth in such section, to eligible United States veterans at a per diem rate to be jointly determined for each fiscal year by the two Governments to be fair and reasonable; and
 
 &emsp;(2) may provide that payments for such hospital care and medical services provided to eligible United States veterans may consist in whole or in part of available medicines, medical supplies, and equipment furnished by the Secretary to the Veterans Memorial Medical Center at valuations therefor as determined by the Secretary, who may furnish such medicines, medical supplies, and equipment through the revolving supply fund pursuant to section 8121 of this title.
 
@@ -18,7 +18,7 @@
 
 (2) Appropriations made for the purpose of this section shall remain available until expended.
 
-(Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §632; amended Pub. L. 94–581, title II, §210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, §3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, §206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, §1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1732 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, §503, Nov. 4, 1992, 106 Stat. 4955.)
+(Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §632; amended Pub. L. 94–581, titleII, §210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, §3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, §206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, §1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1732 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, §503, Nov. 4, 1992, 106 Stat. 4955.)
 
 #### <b>Editorial Notes</b>
 

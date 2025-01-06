@@ -14,7 +14,7 @@ Eligible Members.—(1) Except as provided in paragraph (2), a member shall be e
 
 &emsp;(C) has a military occupational specialty, training, or experience related to health care, is likely to be able to obtain such training in a short period of time (as determined by the Secretary concerned), or satisfies such other criteria for selection as the Secretary concerned may prescribe.
 
-(2) For purposes of this section, a former member of the armed forces who did not meet the minimum educational qualification criterion set forth in paragraph (1)(B) for placement assistance before discharge or release from active duty shall be considered to be a member satisfying such educational qualification criterionupon satisfying that criterion within five years after discharge or release from active duty.
+(2) For purposes of this section, a former member of the armed forces who did not meet the minimum educational qualification criterion set forth in paragraph (1)(B) for placement assistance before discharge or release from active duty shall be considered to be a member satisfying such educational qualification criterion upon satisfying that criterion within five years after discharge or release from active duty.
 
 (3) A member who is discharged or released from service under other than honorable conditions shall not be eligible to participate in the program.
 
@@ -72,7 +72,7 @@ Definitions.—In this section, the term "State" includes the District of Columb
 
 Subsec. (b)(1). Pub. L. 103–337, §543(e)(2), struck out "by the Secretary of Defense" after "selection" in introductory provisions and inserted "concerned" after "Secretary" in two places in subpar. (C).
 
-Subsec. (c)(1). Pub. L. 103–337, §543(e)(3), inserted ", and the Secretary of Transportation with respect tothe Coast Guard," after "Secretary of Defense" and "concerned" after "to the Secretary" and substituted "Secretaries may" for "Secretary may".
+Subsec. (c)(1). Pub. L. 103–337, §543(e)(3), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "Secretary of Defense" and "concerned" after "to the Secretary" and substituted "Secretaries may" for "Secretary may".
 
 Subsec. (c)(2). Pub. L. 103–337, §543(e)(4), inserted "of Defense, and the Secretary of Transportation with respect to the Coast Guard," after "The Secretary" and "concerned" after "unless the Secretary".
 

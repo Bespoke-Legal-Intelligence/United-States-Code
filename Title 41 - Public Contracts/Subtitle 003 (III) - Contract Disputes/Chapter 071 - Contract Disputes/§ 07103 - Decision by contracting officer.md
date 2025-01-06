@@ -14,7 +14,7 @@ Contractor's claims in writing.—Each claim by a contractor against the Federal
 
 &emsp;(3)
 
-Contracting officer to decide federal government's claims.—Each claim by theFederal Government against a contractor relating to a contract shall be the subject of a written decision by the contracting officer.
+Contracting officer to decide federal government's claims.—Each claim by the Federal Government against a contractor relating to a contract shall be the subject of a written decision by the contracting officer.
 
 &emsp;(4)
 
@@ -114,7 +114,7 @@ Alternative Means of Dispute Resolution.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this chapter, a contractor and acontracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutually agreeable procedures, for resolving claims. All provisions of subchapter IV of chapter 5 of title 5 apply to alternative means of dispute resolution under this subsection.
+In general.—Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutually agreeable procedures, for resolving claims. All provisions of subchapter IV of chapter 5 of title 5 apply to alternative means of dispute resolution under this subsection.
 
 &emsp;(2)
 

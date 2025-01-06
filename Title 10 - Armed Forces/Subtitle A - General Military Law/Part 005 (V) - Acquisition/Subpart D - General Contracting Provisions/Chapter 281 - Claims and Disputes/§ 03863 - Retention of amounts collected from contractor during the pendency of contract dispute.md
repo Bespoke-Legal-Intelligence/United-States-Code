@@ -24,7 +24,7 @@ Period of Availability.—(1) The period of availability of an amount under subs
 
 &emsp;&emsp;(i) in the case of a settlement of the claim, 180 days after the date of the settlement; or
 
-&emsp;&emsp;(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7104(a) of title 41 or an action in a court ofthe United States, 180 days after the date on which the judgment becomes final and not appealable.
+&emsp;&emsp;(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7104(a) of title 41 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
 
 (2) While available under this section, an amount may be obligated or expended only for a purpose described in subsection (a).
 

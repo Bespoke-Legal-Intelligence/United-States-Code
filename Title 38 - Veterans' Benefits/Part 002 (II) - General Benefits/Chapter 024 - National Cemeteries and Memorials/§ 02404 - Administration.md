@@ -14,15 +14,17 @@
 
 &emsp;(C) in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers;
 
-&emsp;(D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers; and
+&emsp;(D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.<sup>1</sup>
 
-&emsp;(E) in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate.
+&emsp;(E) in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate; and
+
+&emsp;(F) in the case of Santa Fe National Cemetery, New Mexico, the Secretary may provide for flat grave markers in any section of such cemetery in which flat markers were in use on December 22, 2023.
 
 (d) There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 
 (e) In carrying out the Secretary's responsibilities under this chapter, the Secretary may contract with responsible persons, firms, or corporations for the care and maintenance of such cemeteries under the Secretary's jurisdiction as the Secretary shall choose, under such terms and conditions as the Secretary may prescribe.
 
-(f)(1) The Secretary is authorized to convey to any State, or political subdivision thereof, in which any national cemetery is located, all right, title, and interest of the United States in and to any Government owned or controlled approach road to such cemetery if, prior to the delivery of any instrument of conveyance, the State or political subdivision to which such conveyance is to be made notifies the Secretary in writing of its willingness to accept and maintain the road included in such conveyance. Upon the execution and delivery of such a conveyance, the jurisdiction of the United States over the road conveyed shall cease and thereafter vest in the State or political subdivision concerned.
+(f)(1) The Secretary is authorized to convey to any State, or political subdivision thereof, in which any national cemetery is located, all right, title, and interest of the United States in and to any Government owned or controlled approach road to such cemetery if, prior to the delivery of any instrument of conveyance, theState or political subdivision to which such conveyance is to be made notifies the Secretary in writing of its willingness to accept and maintain the road included in such conveyance. Upon the execution and delivery of such a conveyance, the jurisdiction of the United States over the road conveyed shall cease and thereafter vest in the State or political subdivision concerned.
 
 (2) The Secretary may, to the extent of appropriated funds available for such purpose, make a contribution to local authorities for the construction of road improvements or traffic controls or other devices on land adjacent to a national cemetery if the Secretary determines that such a contribution is essential to ensure safe ingress to or egress from the cemetery.
 
@@ -50,11 +52,13 @@
 
 &emsp;(B) have been interred in a natural manner or in completely biodegradable burial receptacles.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, §102(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 117–355, §3, Jan. 5, 2023, 136 Stat. 6278.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, §102(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 117–355, §3, Jan. 5, 2023, 136 Stat. 6278; Pub. L. 118–83, div. B, title III, §313, Sept. 26, 2024, 138 Stat. 1540.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(2)(F). Pub. L. 118–83 added subpar. (F).
 
 <b>2023</b>—Subsec. (c)(2)(E). Pub. L. 117–355, §3(1), added subpar. (E).
 
@@ -146,7 +150,7 @@ Matters Studied.—(1) The study conducted pursuant to the contract entered into
 
 "(c)
 
-Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
+Report.—(1) Not later than one year after the date on which a qualified organization enters into acontract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
 
 "(2) Not later than 120 days after the date on which a report is submitted under paragraph (1), the Secretary shall transmit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a copy of the report, together with any comments on the report that the Secretary considers appropriate."
 
@@ -165,4 +169,6 @@ Repeal of sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of T
 #### Studies; Recommendations to Congress
 
 Pub. L. 93–43, §3, June 18, 1973, 87 Stat. 78, authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriateness of maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

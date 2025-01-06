@@ -146,5 +146,5 @@ Definitions.—As used in this section, 'firearm' and 'destructive device' have 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: "The amendment made by this section \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: "The amendment made by this section\[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\]."
 

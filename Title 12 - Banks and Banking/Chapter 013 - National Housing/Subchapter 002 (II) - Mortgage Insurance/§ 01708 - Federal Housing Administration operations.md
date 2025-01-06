@@ -30,13 +30,13 @@
 
 &emsp;&emsp;(D) projected versus actual loss rates; and
 
-&emsp;&emsp;(E) updated projections of the annual subsidy rates to ensure that increases in risk tothe Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
+&emsp;&emsp;(E) updated projections of the annual subsidy rates to ensure that increases in risk to the Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
 
 > &emsp;The first quarterly report under this paragraph shall be submitted on the last day of the first quarter of fiscal year 2008, or on the last day of the first full calendar quarter following July 30, 2008, whichever is later.
 
 #### (6) Adjustment of premiums
 
-&emsp;If, pursuant to the independent actuarial study of the Fund required under paragraph (4), the Secretary determines that the Fund is not meeting the operational goals established under paragraph (7) or there is a substantial probability that the Fund will not maintain its established target subsidy rate, the Secretary may either make programmatic adjustments under this subchapter as necessary to reduce the risk to the Fund, or make appropriate premium adjustments.
+&emsp;If, pursuant to the independent actuarial study of the Fund required under paragraph (4), the Secretary determines that the Fund is not meeting the operational goals established under paragraph (7) or there is a substantialprobability that the Fund will not maintain its established target subsidy rate, the Secretary may either make programmatic adjustments under this subchapter as necessary to reduce the risk to the Fund, or make appropriate premium adjustments.
 
 #### (7) Operational goals
 
@@ -152,9 +152,9 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 #### (4) Notice and hearing
 
-&emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to takingany action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations which have been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
+&emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to taking any action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations which have been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
 
-&emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
+&emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shallhold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
 
 &emsp;(C) In any case in which the notification of the Board does not result in a hearing (including any settlement by the Board and a mortgagee), any information regarding the nature of the violation and the resolution of the action shall be available to the public.
 
@@ -276,7 +276,7 @@ Direct Endorsement Program.—
 
 &emsp;(B) Any appraisal conducted pursuant to subparagraph (A) shall be conducted by an individual who complies with the qualifications or standards for appraisers established by the Secretary pursuant to this subsection.
 
-&emsp;(C) In conducting an appraisal, such individual may utilize the assistance of others, who shall be under the direct supervision of the individual responsible for the appraisal. The individual responsible for the appraisal shall personally approve and sign any appraisal report.
+&emsp;(C) In conducting an appraisal, such individual may utilize the assistance of others, who shall be under the direct supervision ofthe individual responsible for the appraisal. The individual responsible for the appraisal shall personally approve and sign any appraisal report.
 
 (4)
 
@@ -330,7 +330,7 @@ The S.A.F.E. Mortgage Licensing Act of 2008, referred to in subsec. (d)(2)(F), i
 
 #### Codification
 
-Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub.L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
+Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
 
 #### Amendments
 

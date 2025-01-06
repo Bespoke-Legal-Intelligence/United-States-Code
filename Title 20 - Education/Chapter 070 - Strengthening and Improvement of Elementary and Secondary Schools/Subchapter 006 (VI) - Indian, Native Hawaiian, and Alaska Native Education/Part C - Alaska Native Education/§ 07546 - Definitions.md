@@ -22,7 +22,7 @@ In this part:
 
 #### Prior Provisions
 
-A prior section 7546, Pub. L. 89–10, title VII, §7306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3743, related to administrative provisions, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
+A prior section 7546, Pub. L. 89–10, title VII, §7306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3743, related to administrative provisions, prior to thegeneral amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
 Prior sections 7547 to 7602 were omitted in the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 

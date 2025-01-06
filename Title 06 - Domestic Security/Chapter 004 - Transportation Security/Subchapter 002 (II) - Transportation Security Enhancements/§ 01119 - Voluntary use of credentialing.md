@@ -26,7 +26,7 @@ In this section:
 
 &emsp;&emsp;(A) because of employment is regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard and is required to have a background records check to obtain a hazardous materials endorsement on a commercial driver's license issued by a State under section 5103a of title 49; or
 
-&emsp;&emsp;(B) is required to have a credential and background records check under section 622(d)(2) of this title at a facility with activities that are regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard.
+&emsp;&emsp;(B) is required to have a credential and background records check under section 622(d)(2) <sup>1</sup> of this title at a facility with activities that are regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard.
 
 #### (2) Valid transportation security card
 
@@ -36,13 +36,17 @@ In this section:
 
 &emsp;&emsp;(B) not expired;
 
-&emsp;&emsp;(C) shows <sup>1</sup> no signs of tampering; and
+&emsp;&emsp;(C) shows <sup>2</sup> no signs of tampering; and
 
-&emsp;&emsp;(D) bears <sup>1</sup> a photograph of the individual representing such card.
+&emsp;&emsp;(D) bears <sup>2</sup> a photograph of the individual representing such card.
 
 (Pub. L. 115–254, div. K, title I, §1977, Oct. 5, 2018, 132 Stat. 3617.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 622 of this title, referred to in subsec. (d)(1)(B), was omitted from the Code.
 
 #### Codification
 
@@ -54,5 +58,7 @@ Section was enacted as part of the TSA Modernization Act and also as part of the
 
 For definition of "Administrator" as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

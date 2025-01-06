@@ -1,6 +1,6 @@
 ### §836. Transportation of fireworks into State prohibiting sale or use
 
-Whoever, otherwise than in the course of continuous interstate transportation through anyState, transports fireworks into any State, or delivers them for transportation into any State, or attempts so to do, knowing that such fireworks are to be delivered, possessed, stored, transshipped, distributed, sold, or otherwise dealt with in a manner or for a use prohibited by the laws of such State specifically prohibiting or regulating the use of fireworks, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, otherwise than in the course of continuous interstate transportation through any State, transports fireworks into any State, or delivers them for transportation into any State, or attempts so to do, knowing that such fireworks are to be delivered, possessed, stored, transshipped, distributed, sold, or otherwise dealt with in a manner or for a use prohibited by the laws of such State specifically prohibiting or regulating the use of fireworks, shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not apply to a common or contract carrier or to international or domestic water carriers engaged in interstate commerce or to the transportation of fireworks into a State for the use of Federal agencies in the carrying out or the furtherance of their operations.
 

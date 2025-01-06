@@ -4,11 +4,11 @@
 
 &emsp;(1) a member of an armed force under his jurisdiction who dies while on active duty or while performing authorized travel to or from active duty;
 
-&emsp;(2) a Reserve of an armed force who dies while on inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution under the sponsorship of an armed force or the Public Health Service);
+&emsp;(2) a Reserve of an armed force who dies while on inactive duty training (other thanwork or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution under the sponsorship of an armed force or the Public Health Service);
 
 &emsp;(3) any Reserve of an armed force who, when authorized or required by an authority designated by the Secretary, assumed an obligation to perform active duty for training, or inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution, under the sponsorship of an armed force or the Public Health Service), and who dies while traveling directly to or from that active duty for training or inactive duty training or while staying at the Reserve's residence, when so authorized by proper authority, during the period of such inactive duty training or between successive days of inactive duty training;
 
-&emsp;(4) any member of a reserve officers' training corps who dies while performing annual training duty under orders for a period of more than 13 days, or while performing authorized travel to or from that annual training duty; or any applicant for membership in a reserve officers' training corps who dies while attending field training or a practice cruise under section 2104(b)(6)(B) of this title or while performing authorized travel to or from the place where the training or cruise is conducted; or a graduate of a reserve officers' training corps who has received a commission but has yet to receive a first duty assignment; or
+&emsp;(4) any member of a reserve officers' training corps who dies while performing annual training duty under orders, or while performing authorized travel to or from that annual training duty; or any applicant for membership in a reserve officers' training corps who dies while attending field training or a practice cruise under section 2104(b)(6)(B) of this title or while performing authorized travel to or from the place where the training or cruise is conducted; or a graduate of a reserve officers' training corps who has received a commission but has yet to receive a first duty assignment; or
 
 &emsp;(5) a person who dies while traveling to or from or while at a place for final acceptance, or for entry upon active duty (other than for training), in an armed force, who has been ordered or directed to go to that place, and who—
 
@@ -18,7 +18,7 @@
 
 (b) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, §301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, §511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, §604(e)(1), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 112–81, div. A, title VI, §651(a)(1), Dec. 31, 2011, 125 Stat. 1466; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(vi), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title VI, §623(a), Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title X, §1081(a)(27), Jan. 1, 2021, 134 Stat. 3872.)
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, §301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, §511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, §604(e)(1), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 112–81, div. A, title VI, §651(a)(1), Dec. 31, 2011, 125 Stat. 1466; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(vi), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title VI, §623(a), Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title X, §1081(a)(27), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title VI, §631(a), Dec. 23, 2024, 138 Stat. 1936.)
 
 Historical and Revision Notes
 
@@ -60,9 +60,11 @@ In subsection (a), the word "receiving" is inserted for clarity. Clause (1) is s
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense.For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(4). Pub. L. 118–159 struck out "for a period of more than 13 days" after "training duty under orders".
 
 <b>2021</b>—Subsec. (a)(4). Pub. L. 116–283 substituted "or a graduate" for "or; or a graduate".
 
@@ -79,6 +81,10 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I
 <b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 inserted provisions covering applicants for membership in a reserve officers' training corps while attending, or in travel to or from field training or a practice cruise.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. A, title VI, §631(d), Dec. 23, 2024, 138 Stat. 1937, provided that: "The amendments made by this section \[amending this section, section 1481 of this title and provisions set out as a note under this section\] shall apply to a death that occurs on or after the date of the enactment of this Act \[Dec. 23, 2024\]."
 
 #### Effective Date of 2019 Amendment
 
@@ -130,23 +136,25 @@ Pub. L. 116–93, div. D, title II, §231, Dec. 20, 2019, 133 Stat. 2517, provid
 
 #### Improved Assistance for Gold Star Spouses and Other Dependents
 
-Pub. L. 113–66, div. A, title VI, §633, Dec. 26, 2013, 127 Stat. 786, as amended by Pub. L. 116–92, div. A, title VI, §625, Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title VI, §624, Jan. 1, 2021, 134 Stat. 3677, provided that:
+Pub. L. 113–66, div. A, title VI, §633, Dec. 26, 2013, 127 Stat. 786, as amended by Pub. L. 116–92, div. A, title VI, §625, Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title VI, §624, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 118–159, div. A, title VI, §631(c), Dec. 23, 2024, 138 Stat. 1936, provided that:
 
 "(a)
 
 Advocates for Gold Star Spouses and Other Dependents.—(1) Each Secretary of a military department shall designate for each Armed Force under the jurisdiction of such Secretary a casualty assistance officer who is a member of such Armed Force or civilian employee of such military department to assist—
 
-&emsp;"(A) a spouse and any other dependent of a member of such Armed Force (including the reserve components thereof) who dies on active duty; and
+&emsp;"(A) a spouse and any other dependent of a member of such Armed Force (including the reserve components thereof) who dies on active duty;
 
-&emsp;"(B) a dependent described in subparagraph (A) if the spouse of the deceased member dies and the dependent (or the guardian of such dependent) requests such assistance.
+&emsp;"(B) a dependent described in subparagraph (A) if the spouse of the deceased member dies and the dependent (or the guardian of such dependent) requests such assistance; and
 
-"(2) Casualty assistance officers described in paragraph (1) shall provide to spouses and dependents described in that paragraph the following services:
+&emsp;"(C) an individual not described in subparagraph (A) or (B) who is entitled to a death gratuity under section 1475 of title 10, United States Code.
 
-&emsp;"(A) Addressing complaints by spouses and other dependents of deceased members regarding casualty assistance or receipt of benefits authorized by law for such spouses and dependents.
+"(2) Casualty assistance officers described in paragraph (1) shall provide to survivors described in that paragraph the following services:
 
-&emsp;"(B) Providing support to such spouses and dependents regarding such casualty assistance or receipt of such benefits.
+&emsp;"(A) Addressing complaints by such survivors regarding casualty assistance or receipt of benefits authorized by law for such survivors.
 
-&emsp;"(C) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of suchcomplaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate.
+&emsp;"(B) Providing support to such survivors regarding such casualty assistance or receipt of such benefits.
+
+&emsp;"(C) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of such complaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate.
 
 &emsp;"(D) Performing such other actions as the Secretary of the military department concerned considers appropriate.
 
@@ -166,7 +174,7 @@ Training program required.—The Secretary of Defense shall implement a standard
 
 &emsp;"(2)
 
-General elements.—The training program required by paragraph (1) shall include training designed to ensure that the personnel specified in that paragraph provide the spouse and other dependents of a deceased member of the Armed Forces with accurate information on the benefits to which they are entitled and other casualty assistance available to them when the member dies while serving on active duty in the Armed Forces.
+General elements.—The training program required by paragraph (1) shall include training designed to ensure that the personnel specified in that paragraph provide such a survivor with accurate information on the benefits to which they are entitled and other casualty assistance available to them when the member dies while serving on active duty in the Armed Forces.
 
 &emsp;"(3)
 

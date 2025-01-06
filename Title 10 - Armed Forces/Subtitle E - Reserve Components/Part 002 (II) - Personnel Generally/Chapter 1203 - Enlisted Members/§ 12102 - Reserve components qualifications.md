@@ -64,7 +64,7 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 Subsec. (a). Pub. L. 103–337, §1675(a), substituted "12107" for "3261 or 8261".
 
-Subsecs. (c), (d). Pub. L. 103–337, §1631(a), as amended by Pub. L. 104–106, redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training)."
+Subsecs. (c), (d). Pub. L. 103–337, §1631(a), as amended by Pub. L. 104–106, redesignated subsec. (d) as (c) andstruck out former subsec. (c) which read as follows: "Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training)."
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–513 substituted "the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)" for "chapter 12 of title 8".
 

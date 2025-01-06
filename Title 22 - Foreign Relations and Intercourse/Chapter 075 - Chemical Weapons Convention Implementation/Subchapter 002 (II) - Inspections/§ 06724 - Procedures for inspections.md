@@ -48,7 +48,7 @@ Consistent with the provisions of the Convention, each inspection shall be comme
 
 #### (1) In general
 
-&emsp;Except as provided in a warrant issued under section 6725 of this title or a facility agreement entered into under section 6722 of this title, an inspection conducted under this subchapter may extend to all things within the premises inspected (including records, files,papers, processes, controls, structures and vehicles) related to whether the requirements of the Convention applicable to such premises have been complied with.
+&emsp;Except as provided in a warrant issued under section 6725 of this title or a facility agreement entered into under section 6722 of this title, an inspection conducted under this subchapter may extend to all things within the premises inspected (including records, files, papers, processes, controls, structures and vehicles) related to whether the requirements of the Convention applicable to such premises have been complied with.
 
 #### (2) Exception
 

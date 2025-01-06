@@ -10,7 +10,7 @@ The President may by Executive order exclude any subdivision of the Department f
 
 &emsp;(1) the subdivision has as a primary function intelligence, counterintelligence, investigative, or national security work, and
 
-&emsp;(2) the provisions of this subchapter cannot be applied to that subdivision in a manner consistent with national security requirements and considerations.
+&emsp;(2) the provisions of this subchapter cannot be applied to that subdivision in a mannerconsistent with national security requirements and considerations.
 
 #### (c) Suspension of provisions
 

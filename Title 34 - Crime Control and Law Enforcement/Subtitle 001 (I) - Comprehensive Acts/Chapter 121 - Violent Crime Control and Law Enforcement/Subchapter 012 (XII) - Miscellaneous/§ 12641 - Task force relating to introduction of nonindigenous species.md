@@ -44,7 +44,7 @@ The task force shall—
 
 #### (4) Report
 
-The task force shall report to the Attorney General, the Secretary of Agriculture, the Secretary of the Interior, and to the Committee on the Judiciary and Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on the Judiciary, Committee on Agriculture, and Committee on Merchant Marine and Fisheries of the House of Representatives on—
+The task force shall report to the Attorney General, the Secretary of Agriculture, the Secretary of the Interior, and to the Committee onthe Judiciary and Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on the Judiciary, Committee on Agriculture, and Committee on Merchant Marine and Fisheries of the House of Representatives on—
 
 &emsp;(A) the progress of its enforcement efforts; and
 

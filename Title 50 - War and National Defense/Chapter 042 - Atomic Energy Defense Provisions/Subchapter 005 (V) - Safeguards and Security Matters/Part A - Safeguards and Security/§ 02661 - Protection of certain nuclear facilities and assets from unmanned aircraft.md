@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;(C) owned by the United States or contracted to the United States, to store or use special nuclear material.
 
-&emsp;(2) The terms "unmanned aircraft" and "unmanned aircraft system" have the meaningsgiven those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 <sup>1</sup> note).
+&emsp;(2) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 <sup>1</sup> note).
 
 (Pub. L. 107–314, div. D, title XLV, §4510, as added Pub. L. 114–328, div. C, title XXXI, §3112(a), Dec. 23, 2016, 130 Stat. 2756.)
 

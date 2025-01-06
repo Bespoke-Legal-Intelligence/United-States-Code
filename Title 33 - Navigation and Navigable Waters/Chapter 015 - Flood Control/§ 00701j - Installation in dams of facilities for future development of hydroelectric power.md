@@ -22,7 +22,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Similar Provisions
 
-Similar provisions with reference to dams authorized in such acts were contained in acts Aug. 18, 1941, ch. 377, §3, 55 Stat. 639; Dec. 22, 1944, ch. 665, §10, 58 Stat. 891; July 24, 1946, ch. 596, §10, 60 Stat. 643.
+Similar provisions with reference to dams authorized in such acts were contained in acts Aug. 18, 1941, ch.377, §3, 55 Stat. 639; Dec. 22, 1944, ch. 665, §10, 58 Stat. 891; July 24, 1946, ch. 596, §10, 60 Stat. 643.
 
 #### <b>Executive Documents</b>
 

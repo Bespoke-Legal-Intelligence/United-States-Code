@@ -6,7 +6,7 @@ Congressional Testimony.—An employee of the Department is performing official 
 
 (b)
 
-Travel Expenses.—The Secretary shall provide travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, to any employee of the Department of Veterans Affairs performing official duty described under subsection (a).
+Travel Expenses.—The Secretary shall provide travel expenses, including per diem inlieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, to any employee of the Department of Veterans Affairs performing official duty described under subsection (a).
 
 (Added Pub. L. 114–223, div. A, title II, §247(b)(1), Sept. 29, 2016, 130 Stat. 890.)
 

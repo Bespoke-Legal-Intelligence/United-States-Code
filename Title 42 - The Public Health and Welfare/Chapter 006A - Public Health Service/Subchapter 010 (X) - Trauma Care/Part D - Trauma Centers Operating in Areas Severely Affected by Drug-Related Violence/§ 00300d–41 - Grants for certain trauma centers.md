@@ -28,7 +28,7 @@ The Secretary shall establish 3 programs to award grants to qualified public, no
 
 &emsp;&emsp;The criteria for category A are as follows:
 
-&emsp;&emsp;&emsp;(i) At least 40 percent of the visits in the emergency department of the hospital inwhich the trauma center is located were charity or self-pay patients.
+&emsp;&emsp;&emsp;(i) At least 40 percent of the visits in the emergency department of the hospital in which the trauma center is located were charity or self-pay patients.
 
 &emsp;&emsp;&emsp;(ii) At least 50 percent of the visits in such emergency department were Medicaid (under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.)) and charity and self-pay patients combined.
 
@@ -74,7 +74,7 @@ The Social Security Act, referred to in subsec. (b)(3)(A)(ii), is act Aug. 14, 1
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to grants for trauma centers in geographic areas with a significant incidence of violence arising from illicit trafficking in drugs and set forth minimum qualifications of such centers.
+<b>2010</b>—Pub. L. 111–148 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related togrants for trauma centers in geographic areas with a significant incidence of violence arising from illicit trafficking in drugs and set forth minimum qualifications of such centers.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

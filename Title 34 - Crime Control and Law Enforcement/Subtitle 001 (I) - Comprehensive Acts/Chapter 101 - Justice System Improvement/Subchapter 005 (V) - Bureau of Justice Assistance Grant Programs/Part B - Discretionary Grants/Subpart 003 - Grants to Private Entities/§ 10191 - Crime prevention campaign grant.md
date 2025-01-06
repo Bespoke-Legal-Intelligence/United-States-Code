@@ -2,11 +2,11 @@
 
 #### (a) Grant authorization
 
-The Attorney General may provide a grant to a national private, nonprofit organization that has expertise in promoting crime prevention through public outreach and media campaigns in coordination with law enforcement agencies and other local government officials, and representatives of community public interest organizations, including schools and youth-serving organizations, faith-based, and victims' organizations and employers.
+The Attorney General may provide a grant to a national private, nonprofit organization thathas expertise in promoting crime prevention through public outreach and media campaigns in coordination with law enforcement agencies and other local government officials, and representatives of community public interest organizations, including schools and youth-serving organizations, faith-based, and victims' organizations and employers.
 
 #### (b) Application
 
-To request a grant under this section, an organization described in subsection (a) shall submit an application to the Attorney General in suchform and containing such information as the Attorney General may require.
+To request a grant under this section, an organization described in subsection (a) shall submit an application to the Attorney General in such form and containing such information as the Attorney General may require.
 
 #### (c) Use of funds
 

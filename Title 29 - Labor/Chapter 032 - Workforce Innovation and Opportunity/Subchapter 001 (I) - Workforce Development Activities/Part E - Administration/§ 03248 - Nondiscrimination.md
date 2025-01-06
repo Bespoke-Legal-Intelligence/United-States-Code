@@ -4,7 +4,7 @@
 
 #### (1) Federal financial assistance
 
-&emsp;For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), on the basis of disability under section 794 of this title, on the basis of sex under title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), programs and activities funded or otherwise financially assisted in whole or in part under this Act are considered to be programs and activities receiving Federal financial assistance.
+&emsp;For the purpose of applying the prohibitions against discrimination on the basis of ageunder the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), on the basis of disability under section 794 of this title, on the basis of sex under title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), programs and activities funded or otherwise financially assisted in whole or in part under this Act are considered to be programs and activities receiving Federal financial assistance.
 
 #### (2) Prohibition of discrimination regarding participation, benefits, and employment
 

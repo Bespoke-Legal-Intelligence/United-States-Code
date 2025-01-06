@@ -14,7 +14,7 @@ In this chapter:
 
 #### (2) Chemical Weapons Convention; Convention
 
-&emsp;The terms "Chemical Weapons Convention" and "Convention" mean the Convention on theProhibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
+&emsp;The terms "Chemical Weapons Convention" and "Convention" mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
 
 #### (3) Key component of a binary or multicomponent chemical system
 
@@ -256,7 +256,7 @@ In this chapter:
 
 This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
 
-Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A) and (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
+Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A), (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
 
 #### Codification
 

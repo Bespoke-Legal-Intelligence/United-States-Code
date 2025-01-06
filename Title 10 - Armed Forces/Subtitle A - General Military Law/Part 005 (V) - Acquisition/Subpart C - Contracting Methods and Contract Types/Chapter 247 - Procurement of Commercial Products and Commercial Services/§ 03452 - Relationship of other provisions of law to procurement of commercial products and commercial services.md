@@ -32,7 +32,7 @@ Applicability of Defense-unique Statutes to Contracts for Commercially Available
 
 (e)
 
-Covered Provision of Law or Contract Clause Requirement.—A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision of law or contract clause requirement that theUnder Secretary of Defense for Acquisition and Sustainment determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
+Covered Provision of Law or Contract Clause Requirement.—A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision of law or contract clause requirement that the Under Secretary of Defense for Acquisition and Sustainment determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
 
 &emsp;(1) provides for criminal or civil penalties;
 

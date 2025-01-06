@@ -80,7 +80,7 @@ Prior sections 4346 to 4349 were renumbered sections 7446 to 7449 of this title,
 
 <b>2021</b>—Pub. L. 116–283, §1848(e)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: "Sustainment factors in weapon system design".
 
-Pub. L. 116–283, §1848(e)(1), renumbered section 2443 of this title as this section. Section was inserted after section 4325 of this title to reflect the probable intent of Congress, notwithstanding directory language inserting it after section "4235".
+Pub. L. 116–283, §1848(e)(1), renumbered section 2443 of this title as this section. Section was inserted after section 4325 of this title to reflect the probable intent ofCongress, notwithstanding directory language inserting it after section "4235".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -162,7 +162,7 @@ The Commission may not complete more than one reverse auction under subsection (
 
 #### (3) Deadline
 
-&emsp;The Commission may not conduct the reverse auction under subsection (a)(1) or the forward auction under subsection (c)(1) after the end of fiscal year 2022.
+&emsp;The Commission may not conduct the reverse auction under subsection (a)(1) or theforward auction under subsection (c)(1) after the end of fiscal year 2022.
 
 #### (4) Limit on discretion regarding auction timing
 
@@ -300,7 +300,7 @@ Nothing in subsection (b) shall be construed to—
 
 #### (A) Low power television station
 
-&emsp;&emsp;The term "low power television station" means a low power TV station (as defined in section 74.701 of title 47, Code of Federal Regulations) that was licensed and transmitting for at least 9 of the 12 months prior to April 13, 2017. For purposes of the preceding sentence, the operation of analog and digital companion facilities may be combined.
+&emsp;&emsp;The term "low power television station" means a low power TV station (as defined in section 74.701 of title 47, Code of Federal Regulations) that was licensed and transmitting for at least 9 of the 12 months prior to April 13, 2017. For purposes of the preceding sentence, the operation of analog anddigital companion facilities may be combined.
 
 #### (B) Television translator station
 
@@ -320,7 +320,7 @@ Nothing in subsection (b) shall be construed to—
 
 #### (C) Duplicative payments prohibited
 
-&emsp;&emsp;If an FM broadcast station has received a payment for interim facilities from the licensee of a television broadcast station that was reimbursed for such payment under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such FM broadcaststation may not receive any reimbursements under subparagraph (A).
+&emsp;&emsp;If an FM broadcast station has received a payment for interim facilities from the licensee of a television broadcast station that was reimbursed for such payment under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such FM broadcast station may not receive any reimbursements under subparagraph (A).
 
 #### (2) FM broadcast station defined
 

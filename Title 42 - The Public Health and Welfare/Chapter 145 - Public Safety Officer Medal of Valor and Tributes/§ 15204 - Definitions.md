@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Public safety officer
 
-&emsp;The term "public safety officer" means a person serving a public agency, with or without compensation, as a firefighter, law enforcement officer, or emergency services officer, as determined by the Attorney General.For the purposes of this paragraph, the term "law enforcement officer" includes a person who is a corrections or court officer or a civil defense officer.
+&emsp;The term "public safety officer" means a person serving a public agency, with or without compensation, as a firefighter, law enforcement officer, or emergency services officer, as determined by the Attorney General. For the purposes of this paragraph, the term "law enforcement officer" includes a person who is a corrections or court officer or a civil defense officer.
 
 #### (2) State
 

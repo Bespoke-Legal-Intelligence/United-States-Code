@@ -184,7 +184,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (1) In general
 
-&emsp;Using funds made available under subsection (l), the Secretary, acting through the Directorof the National Institute of Food and Agriculture, shall, for the period of fiscal years 2019 through 2023, make competitive grants or enter into cooperative agreements to support new and established local and regional training, education, outreach, and technical assistance initiatives to increase opportunities for beginning farmers and ranchers.
+&emsp;Using funds made available under subsection (l), the Secretary, acting through the Director of the National Institute of Food and Agriculture, shall, for the period of fiscal years 2019 through 2023, make competitive grants or enter into cooperative agreements to support new and established local and regional training, education, outreach, and technical assistance initiatives to increase opportunities for beginning farmers and ranchers.
 
 #### (2) Included programs and services
 
@@ -296,7 +296,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (10) Coordination permitted
 
-&emsp;A recipient of a grant or participant in a cooperative agreement under this subsection may coordinate with a recipient of a grant or cooperative agreement under section 5933 ofthis title in addressing the needs of veteran farmers and ranchers with disabilities.
+&emsp;A recipient of a grant or participant in a cooperative agreement under this subsection may coordinate with a recipient of a grant or cooperative agreement under section 5933 of this title in addressing the needs of veteran farmers and ranchers with disabilities.
 
 #### (11) Consecutive awards
 
@@ -530,7 +530,7 @@ The Secretary shall ensure, to the maximum extent practicable, that the Census o
 
 &emsp;A recipient of a grant or a party to a contract or other agreement under subsection (c) or (d) may not use more than 10 percent of the funds received for the indirect costs of carrying out a grant, contract, or other agreement.
 
-(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207; Pub. L. 112–240, title VII, §701(h), Jan. 2, 2013, 126 Stat. 2367; Pub. L. 113–79, title XII, §§12201, 12203, Feb. 7, 2014, 128 Stat. 983, 984; Pub. L. 115–334, title XII, §§12301(b), 12306(a), Dec. 20, 2018, 132 Stat. 4951, 4968.)
+(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207; Pub. L. 112–240, title VII, §701(h), Jan. 2, 2013, 126 Stat. 2367; Pub. L. 113–79,title XII, §§12201, 12203, Feb. 7, 2014, 128 Stat. 983, 984; Pub. L. 115–334, title XII, §§12301(b), 12306(a), Dec. 20, 2018, 132 Stat. 4951, 4968.)
 
 #### <b>Editorial Notes</b>
 
@@ -726,7 +726,7 @@ Pub. L. 117–2, title I, §1006, Mar. 11, 2021, 135 Stat. 13, as amended by Pub
 
 "(a)
 
-Technical and other assistance.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $125,000,000 to provide outreach, mediation, financial training, capacity building training, cooperative development and agricultural credit training and support, and other technical assistance on issues concerning food, agriculture, agricultural credit, agricultural extension, rural development, or nutrition to underserved farmers, ranchers, or forest landowners, including veterans, limited resource producers, beginning farmers and ranchers, and farmers, ranchers, and forest landowners living in high poverty areas.
+Technical and other assistance.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, toremain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $125,000,000 to provide outreach, mediation, financial training, capacity building training, cooperative development and agricultural credit training and support, and other technical assistance on issues concerning food, agriculture, agricultural credit, agricultural extension, rural development, or nutrition to underserved farmers, ranchers, or forest landowners, including veterans, limited resource producers, beginning farmers and ranchers, and farmers, ranchers, and forest landowners living in high poverty areas.
 
 "(b)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Withhold From Disclosure.—The head of a Federal agency, or other public official receiving grant assistance pursuant to this division, after consultation with the Secretary, shall withhold from disclosure to the public information about the location, character, or ownership of a historic property if the Secretary and the agency determine that disclosure may—
+Authority To Withhold From Disclosure.—The head of a Federal agency, or otherpublic official receiving grant assistance pursuant to this division, after consultation with the Secretary, shall withhold from disclosure to the public information about the location, character, or ownership of a historic property if the Secretary and the agency determine that disclosure may—
 
 &emsp;(1) cause a significant invasion of privacy;
 

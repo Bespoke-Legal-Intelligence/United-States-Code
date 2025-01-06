@@ -8,7 +8,7 @@
 
 &emsp;(2) was previously administratively reduced in grade not as a result of the member's own misconduct, as determined by the Secretary of the Navy.
 
-(c) This section applies with respect to enlisted members of the Navy Reserve and Marine Corps Reserve who are transferred to the FleetReserve or the Fleet Marine Corps Reserve after September 30, 1996.
+(c) This section applies with respect to enlisted members of the Navy Reserve and Marine Corps Reserve who are transferred to the Fleet Reserve or the Fleet Marine Corps Reserve after September 30, 1996.
 
 (Added Pub. L. 104–201, div. A, title V, §532(b)(1), Sept. 23, 1996, 110 Stat. 2519, §6336; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(L), Jan. 6, 2006, 119 Stat. 3233; renumbered §8336 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(15), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 

@@ -70,7 +70,7 @@ If an individual who receives an offer of employment under subsection (b)(3) acc
 
 &emsp;&emsp;(B) Information on specific recruiting efforts conducted by the Secretary to increase participation in the Program.
 
-&emsp;&emsp;(C) The number of individuals participating in the Program, listed by the institution of higher education in which the individual is enrolled at the time of participation, and information on the nature of such participation, including on whether the duties of the individual under the Program relate primarily to intelligence or to cybersecurity.
+&emsp;&emsp;(C) The number of individuals participating in the Program, listed by the institution of higher education in which the individual is enrolled at the time of participation, and information on the nature of suchparticipation, including on whether the duties of the individual under the Program relate primarily to intelligence or to cybersecurity.
 
 &emsp;&emsp;(D) The number of individuals who accepted an offer of employment under the Program and an identification of the element within the Department to which each individual was appointed.
 

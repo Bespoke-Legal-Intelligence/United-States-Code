@@ -78,7 +78,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(3) for a routine use as defined in subsection (a)(7) of this section and described under subsection (e)(4)(D) of this section;
 
-&emsp;(4) to the Bureau of the Census for purposes of planning or carrying out a census or survey or related activity pursuant to the provisions of title 13;
+&emsp;(4) to the Bureau of the Census for purposes of planning or carrying out a census or surveyor related activity pursuant to the provisions of title 13;
 
 &emsp;(5) to a recipient who has provided the agency with advance adequate written assurance that the record will be used solely as a statistical research or reporting record, and the record is to be transferred in a form that is not individually identifiable;
 
@@ -92,9 +92,11 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(10) to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the Government Accountability Office;
 
-&emsp;(11) pursuant to the order of a court of competent jurisdiction; or
+&emsp;(11) to the Director of the Congressional Budget Office, or any authorized representative of the Director, in the course of performance of the duties of the Congressional Budget Office;
 
-&emsp;(12) to a consumer reporting agency in accordance with section 3711(e) of title 31.
+&emsp;(12) pursuant to the order of a court of competent jurisdiction; or
+
+&emsp;(13) to a consumer reporting agency in accordance with section 3711(e) of title 31.
 
 (c)
 
@@ -128,7 +130,7 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;&emsp;(ii) inform the individual of its refusal to amend the record in accordance with his request, the reason for the refusal, the procedures established by the agency for the individual to request a review of that refusal by the head of the agency or an officer designated by the head of the agency, and the name and business address of that official;
 
-&emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement withthe refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
+&emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
 &emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
 
@@ -190,7 +192,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 (f)
 
-Agency Rules.—In order to carry out the provisions of this section, each agency thatmaintains a system of records shall promulgate rules, in accordance with the requirements (including general notice) of section 553 of this title, which shall—
+Agency Rules.—In order to carry out the provisions of this section, each agency that maintains a system of records shall promulgate rules, in accordance with the requirements (including general notice) of section 553 of this title, which shall—
 
 &emsp;(1) establish procedures whereby an individual can be notified in response to his request if any system of records named by the individual contains a record pertaining to him;
 
@@ -280,9 +282,9 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 Archival Records.—Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
 
-(2) Each agency record pertaining to an identifiable individual which was transferred to the National Archives of the United States as a record which has sufficient historical or othervalue to warrant its continued preservation by the United States Government, prior to the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall not be subject to the provisions of this section, except that a statement generally describing such records (modeled after the requirements relating to records subject to subsections (e)(4)(A) through (G) of this section) shall be published in the Federal Register.
+(2) Each agency record pertaining to an identifiable individual which was transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, prior to the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall not be subject to the provisions of this section, except that a statement generally describing such records (modeled after the requirements relating to records subject to subsections (e)(4)(A) through (G) of this section) shall be published in the Federal Register.
 
-(3) Each agency record pertaining to an identifiable individual which is transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, on or after the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall be exempt from the requirements of this section except subsections (e)(4)(A) through (G) and (e)(9) of this section.
+(3) Each agency record pertaining to an identifiable individual which is transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, on or after the effective date of this section, shall, for the purposesof this section, be considered to be maintained by the National Archives and shall be exempt from the requirements of this section except subsections (e)(4)(A) through (G) and (e)(9) of this section.
 
 (m)(1)
 
@@ -344,7 +346,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 (p)
 
-Verification and Opportunity to Contest Findings.—(1) In order to protect any individualwhose records are used in a matching program, no recipient agency, non-Federal agency, or source agency may suspend, terminate, reduce, or make a final denial of any financial assistance or payment under a Federal benefit program to such individual, or take other adverse action against such individual, as a result of information produced by such matching program, until—
+Verification and Opportunity to Contest Findings.—(1) In order to protect any individual whose records are used in a matching program, no recipient agency, non-Federal agency, or source agency may suspend, terminate, reduce, or make a final denial of any financial assistance or payment under a Federal benefit program to such individual, or take other adverse action against such individual, as a result of information produced by such matching program, until—
 
 &emsp;(A)(i) the agency has independently verified the information; or
 
@@ -412,7 +414,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 &emsp;(A) shall review, approve, and maintain all written agreements for receipt or disclosure of agency records for matching programs to ensure compliance with subsection (o), and all relevant statutes, regulations, and guidelines;
 
-&emsp;(B) shall review all matching programs in which the agency has participated during the year, either as a source agency or recipient agency, determine compliance with applicablelaws, regulations, guidelines, and agency agreements, and assess the costs and benefits of such programs;
+&emsp;(B) shall review all matching programs in which the agency has participated during the year, either as a source agency or recipient agency, determine compliance with applicable laws, regulations, guidelines, and agency agreements, and assess the costs and benefits of such programs;
 
 &emsp;(C) shall review all recurring matching programs in which the agency has participated during the year, either as a source agency or recipient agency, for continued justification for such disclosures;
 
@@ -472,7 +474,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 Applicability to Bureau of Consumer Financial Protection.—Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct.2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080; Pub. L. 113–295, div. B, title I, §102(d), Dec. 19, 2014, 128 Stat. 4062.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080; Pub. L. 113–295, div. B, title I, §102(d), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 118–104, §2, Oct. 2, 2024, 138 Stat. 1586.)
 
 #### <b>Editorial Notes</b>
 
@@ -499,6 +501,8 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (w), is ti
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2244 of Title 7, Agriculture.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(11) to (13). Pub. L. 118–104 added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
 
 <b>2014</b>—Subsec. (a)(8)(B)(x). Pub. L. 113–295 added cl. (x).
 
@@ -562,7 +566,7 @@ Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted "upon establishment or r
 
 Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by thePresident to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 <b>1975</b>—Subsec. (g)(5). Pub. L. 94–183 substituted "to September 27, 1975" for "to the effective date of this section".
 
@@ -632,7 +636,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date
 
-Pub. L. 93–579, §8, Dec. 31, 1974, 88 Stat. 1910, provided that: "The provisions of this Act \[enacting this section and provisions set out as notes under this section\] shallbe effective on and after the date of enactment \[Dec. 31, 1974\], except that the amendments made by sections 3 and 4 \[enacting this section and amending analysis preceding section 500 of this title\] shall become effective 270 days following the day on which this Act is enacted."
+Pub. L. 93–579, §8, Dec. 31, 1974, 88 Stat. 1910, provided that: "The provisions of this Act \[enacting this section and provisions set out as notes under this section\] shall be effective on and after the date of enactment \[Dec. 31, 1974\], except that the amendments made by sections 3 and 4 \[enacting this section and amending analysis preceding section 500 of this title\] shall become effective 270 days following the day on which this Act is enacted."
 
 #### Short Title of 1990 Amendment
 
@@ -640,7 +644,7 @@ Pub. L. 101–508, title VII, §7201(a), Nov. 5, 1990, 104 Stat. 1388–334, pro
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–56, §1, July 19, 1989, 103 Stat. 149, provided that: "This Act \[amending section 10 of Pub. L. 100–503, set out as a note above\] may be cited as the 'Computer Matching and Privacy Protection Act Amendments of 1989'."
+Pub. L. 101–56, §1, July 19, 1989, 103 Stat. 149, provided that: "This Act \[amending section 10 of Pub. L. 100–503,set out as a note above\] may be cited as the 'Computer Matching and Privacy Protection Act Amendments of 1989'."
 
 #### Short Title of 1988 Amendment
 

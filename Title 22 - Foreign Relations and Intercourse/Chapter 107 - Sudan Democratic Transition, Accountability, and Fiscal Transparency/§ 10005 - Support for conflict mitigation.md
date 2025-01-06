@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law (other than the Trafficking Victims Protection Act of 2000 \[22 U.S.C. 7101 et seq.\] and the Child Soldiers Prevention Act of 2008), the President is authorized to provide assistance under part I and chapters 4, 5, and 6 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq., 2346 et seq., and 2348 et seq.)—
+Notwithstanding any other provision of law (other than the Trafficking Victims Protection Act of 2000 \[22 U.S.C. 7101 et seq.\] and the ChildSoldiers Prevention Act of 2008), the President is authorized to provide assistance under part I and chapters 4, 5, and 6 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq., 2346 et seq., and 2348 et seq.)—
 
 &emsp;(1) to support long-term peace and stability in Sudan by promoting national reconciliation and enabling a just, comprehensive, and sustainable peace, especially in regions that have been underdeveloped or affected by war, such as the states of Darfur, South Kordofan, Blue Nile, Red Sea, and Kassala;
 

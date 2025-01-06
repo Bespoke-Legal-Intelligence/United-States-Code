@@ -28,7 +28,7 @@ Congress finds that—
 
 &emsp;(B) children waiting for adoption have had parental rights of all living parents terminated or the children have a permanency goal of adoption;
 
-&emsp;(C)(i) the average age of children adopted with public child welfare agency involvement during fiscal year 2009 was a little more than 6 years; and
+&emsp;(C)(i) the average age of children adopted with public child welfare agency involvementduring fiscal year 2009 was a little more than 6 years; and
 
 &emsp;(ii) the average age of children waiting for adoption on the last day of that fiscal year was a little more than 8 years of age and more than 30,000 of those children were 12 years of age or older; and
 
@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 104–235, §211(2), substituted "conditions, by providing 
 
 > redesignated subpars. (A) to (C) of former par. (2) as pars. (1) to (3), respectively, and realigned margins.
 
-<b>1992</b>—Pub. L. 102–295 amended section generally, designating existing provisions as subsecs. (a) and (b), inserting findings relating to the number of children in substitute care, foster care children with complex problems which require intensive services, infants born without prenatal care, addicted to alcohol or other drugs, or exposed to infection with the etiologic agent for human immunodeficiency virus, and percentage of children awaiting adoption who are minorities, inserting as purposes of this subchapter to provide a mechanism to recruit prospective parents for children awaiting adoption and to demonstrate expeditious ways to free children for adoption, and striking out as a purpose to provide a mechanism to coordinate with Federal departments and agencies to provide nationaladoption and foster care information data-gathering and analysis system.
+<b>1992</b>—Pub. L. 102–295 amended section generally, designating existing provisions as subsecs. (a) and (b), inserting findings relating to the number of children in substitute care, foster care children with complex problems which require intensive services, infants born without prenatal care, addicted to alcohol or other drugs, or exposed to infection with the etiologic agent for human immunodeficiency virus, and percentage of children awaiting adoption who are minorities, inserting as purposes of this subchapter to provide a mechanism to recruit prospective parents for children awaiting adoption and to demonstrate expeditious ways to free children for adoption, and striking out as a purpose to provide a mechanism to coordinate with Federal departments and agencies to provide national adoption and foster care information data-gathering and analysis system.
 
 <b>1984</b>—Pub. L. 98–457, §201(a), (b)(1), in provisions before par. (1), inserted "the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and that some such children are in need of placement in permanent, adoptive homes, that" and substituted "should not have medically indicated treatment withheld from them, nor be maintained in foster care" for "should not be maintained in foster care" and "children with special needs, including disabled infants with life-threatening conditions, by" for "children with special needs by".
 

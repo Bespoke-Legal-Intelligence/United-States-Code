@@ -24,7 +24,7 @@ Subject to subsection (b), in the case of a participant, beneficiary, or enrolle
 
 #### (3) Exception
 
-&emsp;The Secretary may, through rulemaking, establish a list (and update such list periodically) of advanced diagnostic laboratory tests, which shall not be included as an ancillary service described in paragraph (2) and with respect to which subsection (a) would apply.
+&emsp;The Secretary may, through rulemaking, establish a list (and update such list periodically) of advanced diagnostic laboratory tests,which shall not be included as an ancillary service described in paragraph (2) and with respect to which subsection (a) would apply.
 
 #### (c) Clarification
 
@@ -40,7 +40,7 @@ In the case of a nonparticipating provider that satisfies the notice and consent
 
 &emsp;&emsp;&emsp;(i) contains the information required under paragraph (2);
 
-&emsp;&emsp;&emsp;(ii) clearly states that consent to receive such items and services from such nonparticipating provider or nonparticipating facility is optional and that the participant, beneficiary, or enrollee may instead seek care from a participating provider or at a participating facility, with respect to such plan or coverage, as applicable, in which case the cost-sharing responsibilityof the participant, beneficiary, or enrollee would not exceed such responsibility that would apply with respect to such an item or service that is furnished by a participating provider or participating facility, as applicable with respect to such plan; and
+&emsp;&emsp;&emsp;(ii) clearly states that consent to receive such items and services from such nonparticipating provider or nonparticipating facility is optional and that the participant, beneficiary, or enrollee may instead seek care from a participating provider or at a participating facility, with respect to such plan or coverage, as applicable, in which case the cost-sharing responsibility of the participant, beneficiary, or enrollee would not exceed such responsibility that would apply with respect to such an item or service that is furnished by a participating provider or participating facility, as applicable with respect to such plan; and
 
 &emsp;&emsp;&emsp;(iii) is available in the 15 most common languages in the geographic region of the applicable facility;
 
@@ -58,11 +58,11 @@ In the case of a nonparticipating provider that satisfies the notice and consent
 
 &emsp;&emsp;(C) In the case of a participating facility and a nonparticipating provider, a list of any participating providers at the facility who are able to furnish such items and services involved and notification that the participant, beneficiary, or enrollee may be referred, at their option, to such a participating provider.
 
-&emsp;&emsp;(D) Information about whether prior authorization or other care management limitations may be required in advance of receiving such items or services at the facility
+&emsp;&emsp;(D) Information about whether prior authorization or other care management limitations may be required in advance of receiving such items or services at the facility.
 
 #### (3) Consent described to be treated by a nonparticipating provider or nonparticipating facility
 
-&emsp;For purposes of paragraph (1)(B), the consent described in this paragraph, with respect to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer who is to be furnished items or services by a nonparticipating provider or nonparticipating facility, is a document specified by the Secretary, in consultation with the Secretary of Labor, through guidance that shall be signed by the participant, beneficiary, or enrollee before such items or services are furnished and that—
+&emsp;For purposes of paragraph (1)(B), the consent described in this paragraph, with respect to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer who is to be furnished items or services by a nonparticipating provider or nonparticipating facility, is a document specified by the Secretary, in consultation with the Secretaryof Labor, through guidance that shall be signed by the participant, beneficiary, or enrollee before such items or services are furnished and that—
 
 &emsp;&emsp;(A) acknowledges (in clear and understandable language) that the participant, beneficiary, or enrollee has been—
 

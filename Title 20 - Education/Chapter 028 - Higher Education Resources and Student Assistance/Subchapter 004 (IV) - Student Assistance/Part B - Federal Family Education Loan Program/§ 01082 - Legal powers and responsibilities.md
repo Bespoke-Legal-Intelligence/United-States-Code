@@ -4,7 +4,7 @@
 
 In the performance of, and with respect to, the functions, powers, and duties, vested in him by this part, the Secretary may—
 
-&emsp;(1) prescribe such regulations as may be necessary to carry out the purposes of this part, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damagesbe assessed against the United States for the actions or inactions of such servicers;
+&emsp;(1) prescribe such regulations as may be necessary to carry out the purposes of this part, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers;
 
 &emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
@@ -56,11 +56,11 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;The functions which may be delegated pursuant to this subsection are—
 
-&emsp;&emsp;(A) reviewing applications for loan insurance under section 1079 of this title andissuing contracts for Federal loan insurance, certificates of insurance, and certificates of comprehensive insurance coverage to eligible lenders which are financial or credit institutions subject to examination and supervision by an agency of the United States or of any State;
+&emsp;&emsp;(A) reviewing applications for loan insurance under section 1079 of this title and issuing contracts for Federal loan insurance, certificates of insurance, and certificates of comprehensive insurance coverage to eligible lenders which are financial or credit institutions subject to examination and supervision by an agency of the United States or of any State;
 
 &emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
 
-&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a)), and recommending litigation with respect to any such claim.
+&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against aborrower (pursuant to regulations of the Secretary issued under subsection (a)), and recommending litigation with respect to any such claim.
 
 #### (e) Use of information on borrowers
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (5) Assignees not liable for violations by others
 
-&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned toanother holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liable for any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
+&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liable for any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
 
 #### (6) Compromise
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(i) if such review is waived; or
 
-&emsp;&emsp;(ii) if such review is not waived, unless the Secretary determines that the limitation,suspension, or termination was not imposed in accordance with requirements of such section.
+&emsp;&emsp;(ii) if such review is not waived, unless the Secretary determines that the limitation, suspension, or termination was not imposed in accordance with requirements of such section.
 
 &emsp;(B) The Secretary's review under this paragraph of the limitation, suspension, or termination imposed by a guaranty agency pursuant to section 1078(b)(1)(T) of this title shall be limited to—
 
@@ -270,7 +270,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(C) authorization of the use of computer or similar electronic methods of maintaining records relating to the performance of servicing, collection, and other regulatory requirements under this chapter; and
 
-&emsp;&emsp;(D) authorization and implementation of electronic data linkages for the exchange of information to and from lenders, guarantors, institutions of higher education, third party servicers, and the Department of Education for student status confirmation reports, claim filing, interest and special allowance billing, deferment processing, and all other administrative steps relating to loans made pursuant to this part where using electronic data linkage is feasible.
+&emsp;&emsp;(D) authorization and implementation of electronic data linkages for the exchange of information to and from lenders, guarantors,institutions of higher education, third party servicers, and the Department of Education for student status confirmation reports, claim filing, interest and special allowance billing, deferment processing, and all other administrative steps relating to loans made pursuant to this part where using electronic data linkage is feasible.
 
 #### (4) Additional recommendations
 
@@ -318,7 +318,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (ii) Collateral description
 
-&emsp;&emsp;&emsp;In addition to any other method for describing collateral in a legally sufficient manner permitted under the laws of the State, the description of collateral in any financing statement filed pursuant to this subparagraph shall be deemed legally sufficient if it lists such loans, or refers to records (identifying such loans) retained by the secured party or any designee of the secured party identified in such financingstatement, including the debtor or any loan servicer.
+&emsp;&emsp;&emsp;In addition to any other method for describing collateral in a legally sufficient manner permitted under the laws of the State, the description of collateral in any financing statement filed pursuant to this subparagraph shall be deemed legally sufficient if it lists such loans, or refers to records (identifying such loans) retained by the secured party or any designee of the secured party identified in such financing statement, including the debtor or any loan servicer.
 
 #### (iii) Sales
 
@@ -326,7 +326,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Common deferment form
 
-&emsp;The Secretary, in cooperation with representatives of guaranty agencies, institutions of higher education, and lenders involved in loans made under this part, shall prescribe a common deferment reporting form to be used for the processing of deferments of loans made under this subchapter.
+&emsp;The Secretary, in cooperation with representatives of guaranty agencies, institutions of higher education, and lenders involved in loans made under this part, shall prescribe a common deferment reporting form to be usedfor the processing of deferments of loans made under this subchapter.
 
 #### (3) Common reporting formats
 
@@ -456,7 +456,7 @@ Subsec. (h)(2)(A). Pub. L. 102–325, §425(d)(1), as amended by Pub. L. 103–2
 
 Pub. L. 102–325, §425(b)(3), in first sentence struck out ", in accordance with sections 556 and 557 of title 5," after "The Secretary shall".
 
-Subsec. (h)(2)(B), (C). Pub. L. 102–325, §425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as (C), and substituted "sanction" for "disqualification" in two places.
+Subsec. (h)(2)(B), (C). Pub. L. 102–325, §425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as\(C), and substituted "sanction" for "disqualification" in two places.
 
 Subsec. (h)(3)(A). Pub. L. 102–325, §425(d)(4), as amended by Pub. L. 103–208, §2(k)(3), in second sentence substituted "The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanctions" for "The Secretary shall disqualify such institution from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification".
 

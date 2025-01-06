@@ -6,7 +6,7 @@
 
 (3) Notwithstanding the foregoing, the Secretary of the Interior, when he finds that there has been a proper showing of responsibility and continued protection of the public interest and health, shall permit the importation for zoological, educational, medical, and scientific purposes of any mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles, or the offspring or eggs thereof, where such importation would be prohibited otherwise by or pursuant to this Act, and this Act shall not restrict importations by Federal agencies for their own use.
 
-(4) Nothing in this subsection shall restrict the importation of dead natural-history specimens for museums or for scientific collections, or the importation of domesticated canaries, parrots (including all other species of psittacine birds), or such other cage birds as the Secretary of the Interior may designate.
+(4) Nothing in this subsection shall restrict the importation of dead natural-history specimens for museums or for scientific collections, or the importation of domesticated canaries,parrots (including all other species of psittacine birds), or such other cage birds as the Secretary of the Interior may designate.
 
 (5) The Secretary of the Treasury and the Secretary of the Interior shall enforce the provisions of this subsection, including any regulations issued hereunder, and, if requested by the Secretary of the Interior, the Secretary of the Treasury may require the furnishing of an appropriate bond when desirable to insure compliance with such provisions.
 

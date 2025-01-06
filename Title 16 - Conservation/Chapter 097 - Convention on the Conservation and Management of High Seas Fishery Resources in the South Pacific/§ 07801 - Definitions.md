@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iv) the use of any vessel, vehicle, aircraft, or hovercraft in relation to any activity described in this subparagraph; and
 
-&emsp;&emsp;(B) does not include any operation related to emergencies involving the health and safety of crew members or the safety of a fishing vessel.
+&emsp;&emsp;(B) does not include any operation related to emergencies involving the health andsafety of crew members or the safety of a fishing vessel.
 
 #### (8) Fishing vessel
 

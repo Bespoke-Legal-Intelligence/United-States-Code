@@ -10,7 +10,7 @@
 
 &emsp;(4) "financial assistance for acquisition or construction purposes" means any form of financial assistance which is intended in whole or in part for the acquisition, construction, reconstruction, repair, or improvement of any publicly or privately owned building or mobile home, and for any machinery, equipment, fixtures, and furnishings contained or to be contained therein, and shall include the purchase or subsidization of mortgages or mortgage loans but shall exclude assistance pursuant to the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] (other than assistance under such Act in connection with a flood);
 
-&emsp;(5) "Federal entity for lending regulation" means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
+&emsp;(5) "Federal entity for lending regulation" means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, andwith respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
 &emsp;(6) "Administrator" means the Administrator of the Federal Emergency Management Agency;
 
@@ -54,7 +54,7 @@ Subsec. (a)(7) to (11). Pub. L. 103–325, §511(a)(2), (3), added pars. (7) to 
 
 <b>1988</b>—Subsec. (a)(4). Pub. L. 100–707 substituted "Disaster Relief and Emergency Assistance Act" for "Disaster Relief Act of 1974".
 
-<b>1983</b>—Subsec. (a)(6). Pub. L. 98–181, §451(e)(2), substituted definition of "Director" meaning the Directorof the Federal Emergency Management Agency for definition of "Secretary" meaning the Secretary of Housing and Urban Development.
+<b>1983</b>—Subsec. (a)(6). Pub. L. 98–181, §451(e)(2), substituted definition of "Director" meaning the Director of the Federal Emergency Management Agency for definition of "Secretary" meaning the Secretary of Housing and Urban Development.
 
 Subsec. (b). Pub. L. 98–181, §451(e)(1), substituted "Director" for "Secretary".
 

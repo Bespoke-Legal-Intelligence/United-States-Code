@@ -6,7 +6,7 @@ For the purpose described in subsection (b), the Secretary shall for each of the
 
 #### (b) Purpose of grants
 
-The Secretary may not make payments under subsection (a) for a fiscal year unless the State involved agrees to expend the payments only for the purpose of carrying out, in accordance with section 300ee–12 of this title, public informationactivities with respect to acquired immune deficiency syndrome.
+The Secretary may not make payments under subsection (a) for a fiscal year unless the State involved agrees to expend the payments only for the purpose of carrying out, in accordance with section 300ee–12 of this title, public information activities with respect to acquired immune deficiency syndrome.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2501, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3093; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 

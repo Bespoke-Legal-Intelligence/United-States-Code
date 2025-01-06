@@ -72,7 +72,7 @@ By virtue of the authority vested in me by section 204 of the Agricultural Act o
 
 Section 1. The Secretary of the Treasury, with the concurrence of the Secretary of State and the Special Representative for Trade Negotiations \[now United States Trade Representative\], in order to implement an agreement concluded in December 1974 with the Commission of the European Communities designed to prevent the transshipment to the United States of certain cheeses on which restitution payments have been made, is authorized to issue regulations:
 
-(a) to prevent the importation into the Customs Territory of the United States, except for the Commonwealth of Puerto Rico, of certain cheeses, originating in member states of the European Communities, uponwhich restitution payments have been made for export to (1) Puerto Rico, the Virgin Islands, other United States possessions and territories or (2) any country other than the United States;
+(a) to prevent the importation into the Customs Territory of the United States, except for the Commonwealth of Puerto Rico, of certain cheeses, originating in member states of the European Communities, upon which restitution payments have been made for export to (1) Puerto Rico, the Virgin Islands, other United States possessions and territories or (2) any country other than the United States;
 
 (b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses are imported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
 

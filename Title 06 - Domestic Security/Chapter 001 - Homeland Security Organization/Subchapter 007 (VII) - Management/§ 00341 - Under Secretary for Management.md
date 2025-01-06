@@ -20,7 +20,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(8) Grants and other assistance management programs.
 
-&emsp;(9) The management integration and transformation within each functional managementdiscipline of the Department, including information technology, financial management, acquisition management, and human capital management, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
+&emsp;(9) The management integration and transformation within each functional management discipline of the Department, including information technology, financial management, acquisition management, and human capital management, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
 
 &emsp;&emsp;(A) the development of centralized data sources and connectivity of information systems to the greatest extent practicable to enhance program visibility, transparency, and operational effectiveness and coordination;
 
@@ -142,7 +142,7 @@ Not later than five days after the date on which the Chief Procurement Officer o
 
 #### (A) Prohibition on certain new vehicle leases and acquisitions
 
-&emsp;&emsp;The Under Secretary for Management and component heads may not approve in any fiscal year beginning with fiscal year 2019 avehicle lease, acquisition, or replacement request if such component heads did not comply in the prior fiscal year with paragraph (4).
+&emsp;&emsp;The Under Secretary for Management and component heads may not approve in any fiscal year beginning with fiscal year 2019 a vehicle lease, acquisition, or replacement request if such component heads did not comply in the prior fiscal year with paragraph (4).
 
 #### (B) Prohibition on certain performance compensation
 
@@ -232,7 +232,7 @@ In this section, the term "interoperable communications" has the meaning given t
 
 Subsecs. (c) to (e). Pub. L. 115–38, §2(2), (3), added subsec. (c), redesignated former subsec. (c) as (d), and redesignated former subsec. (d), relating to System for Award Management consultation, as (e).
 
-<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9)read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation of functions and personnel in the Department and transition, including—
+<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation of functions and personnel in the Department and transition, including—
 
 &emsp;"(A) the development of a management integration strategy for the Department, and
 

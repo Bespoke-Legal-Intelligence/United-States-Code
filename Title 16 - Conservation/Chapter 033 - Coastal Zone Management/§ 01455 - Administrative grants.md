@@ -112,7 +112,7 @@ A coastal state may amend or modify a management program which it has submitted 
 
 &emsp;(2) Within 30 days after the date the Secretary receives any proposed amendment, the Secretary shall notify the State whether the Secretary approves or disapproves the amendment, or whether the Secretary finds it is necessary to extend the review of the proposed amendment for a period not to exceed 120 days after the date the Secretary received the proposed amendment. The Secretary may extend this period only as necessary to meet the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). If the Secretary does not notify the coastal state that the Secretary approves or disapproves the amendment within that period, then the amendment shall be conclusively presumed as approved.
 
-&emsp;(3)(A) Except as provided in subparagraph (B), a coastal state may not implement any amendment, modification, or other change as part of its approved management program unless the amendment, modification, or other change is approved by the Secretary under this subsection.
+&emsp;(3)(A) Except as provided in subparagraph (B), a coastal state may not implement any amendment, modification, or other change as part of its approved management program unless the amendment, modification, or otherchange is approved by the Secretary under this subsection.
 
 &emsp;(B) The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title.
 
@@ -162,7 +162,7 @@ Pub. L. 101–508, title VI, §6206(b), Nov. 5, 1990, 104 Stat. 1388–306, prov
 
 &emsp;"(1) that the program complies with section 306(d)(14) and (15) of that Act, by not later than 3 years after the date of the enactment of this Act; and
 
-&emsp;"(2) that the program complies with section 306(d)(16) of that Act, by not later than 30 months after the date of publication of final guidance under section 6217(g) of this Act \[16 U.S.C. 1455b(g)\]."
+&emsp;"(2) that the program complies with section 306(d)(16) of that Act, by not later than 30 monthsafter the date of publication of final guidance under section 6217(g) of this Act \[16 U.S.C. 1455b(g)\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

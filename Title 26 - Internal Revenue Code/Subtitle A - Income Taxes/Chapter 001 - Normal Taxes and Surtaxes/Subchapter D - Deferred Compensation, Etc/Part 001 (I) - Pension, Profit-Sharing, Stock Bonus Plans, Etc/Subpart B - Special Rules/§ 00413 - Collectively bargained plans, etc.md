@@ -68,7 +68,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (3) Vesting
 
-&emsp;Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of anyrules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
+&emsp;Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of any rules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
 
 #### (4) Funding
 
@@ -158,7 +158,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 #### (B) Failures by pooled plan providers
 
-&emsp;&emsp;If the pooled plan provider of a plan described in paragraph (1)(B) does not perform substantially all of the administrative duties which are required of the provider under paragraph (3)(A)(i) for any plan year, the Secretary may provide that the determination as to whether the plan meets the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, shall be made in the same manner as would be made without regard to paragraph (1).
+&emsp;&emsp;If the pooled plan provider of a plan described in paragraph (1)(B) does not performsubstantially all of the administrative duties which are required of the provider under paragraph (3)(A)(i) for any plan year, the Secretary may provide that the determination as to whether the plan meets the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, shall be made in the same manner as would be made without regard to paragraph (1).
 
 #### (3) Pooled plan provider
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue such guidance as the Secretary determines appropriate tocarry out this subsection, including guidance—
+&emsp;&emsp;The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this subsection, including guidance—
 
 &emsp;&emsp;&emsp;(i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under this subsection,
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 #### (5) Model plan
 
-&emsp;The Secretary shall publish model plan language which meets the requirements of this subsection and of paragraphs (43) and (44) of section 3 of the Employee Retirement Income Security Act of 1974 and which may be adopted in order for a plan to be treated as a plan described in paragraph (1)(B).
+&emsp;The Secretary shall publish model plan language which meets the requirements of thissubsection and of paragraphs (43) and (44) of section 3 of the Employee Retirement Income Security Act of 1974 and which may be adopted in order for a plan to be treated as a plan described in paragraph (1)(B).
 
 (Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97, title II, §202(b), Apr. 7, 2014, 128 Stat. 1134; Pub. L. 115–141, div. U, title IV, §401(a)(86), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–94, div. O, title I, §101(a)(1), (2), Dec. 20, 2019, 133 Stat. 3138, 3141.)
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013,
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6058(d), Nov. 10, 1988, 102 Stat. 3699, provided that: "Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
@@ -282,7 +282,7 @@ Plan notifications.—The Secretary of the Treasury (or the Secretary's delegate
 
 "(2)
 
-Model plans for multiple employer 403(b) plans.—For plans to which section 403(b)(15)(A) of the Internal Revenue Code of 1986 applies (other than a plan maintained for its employees by a State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing), the Secretary of the Treasury (or the Secretary's delegate), in consultation with the Secretary of Labor, shall publish model plan language similar to model plan language published under section 413(e)(5) of such Code.
+Model plans for multiple employer 403(b) plans.—For plans to which section 403(b)(15)(A) of the Internal Revenue Code of 1986 applies (other than a plan maintained for its employees by a State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing), the Secretary of the Treasury (or the Secretary's delegate), in consultation with the Secretary of Labor, shall publishmodel plan language similar to model plan language published under section 413(e)(5) of such Code.
 
 "(3)
 

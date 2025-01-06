@@ -46,7 +46,7 @@ The issuance of regulations by the Secretary shall be governed by the provisions
 
 The Secretary shall appoint a Special Assistant to the Secretary who shall be responsible for—
 
-&emsp;(1) creating and fostering strategic communications with the private sector to enhancethe primary mission of the Department to protect the American homeland;
+&emsp;(1) creating and fostering strategic communications with the private sector to enhance the primary mission of the Department to protect the American homeland;
 
 &emsp;(2) advising the Secretary on the impact of the Department's policies, regulations, processes, and actions on the private sector;
 
@@ -84,7 +84,7 @@ All standards activities of the Department shall be conducted in accordance with
 
 #### (h) Planning requirements
 
-The Secretary shall ensure the head of each office and component of the Department takes into account the needs of children, including children within under-served communities, in mission planning and mission execution. In furtherance of this subsection, the Secretary shall require each such head to seek, to the extent practicable, advice and feedback from organizations representing the needs of children. The Federal Advisory Committee Act (5 U.S.C. App.) <sup>2</sup> shall not apply whenever such advice or feedback is sought in accordance with this subsection.
+The Secretary shall ensure the head of each office and component of the Department takes into account the needs of children, including children within under-served communities, in mission planning and mission execution. In furtherance of this subsection, the Secretary shall require each such head to seek, to the extent practicable, advice and feedback from organizations representing the needs of children. The Federal Advisory Committee Act (5 U.S.C. App.) <sup>2</sup> shall not apply whenever such advice orfeedback is sought in accordance with this subsection.
 
 (Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VII, §7402, Dec. 17, 2004, 118 Stat. 3850; Pub. L. 110–53, title IX, §902, Aug. 3, 2007, 121 Stat. 371; Pub. L. 114–125, title VIII, §802(g)(1)(A)(i), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–130, §2, June 6, 2022, 136 Stat. 1229.)
 

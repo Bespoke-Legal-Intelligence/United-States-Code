@@ -86,11 +86,11 @@ For purposes of this section—
 
 #### (5) Related persons
 
-&emsp;A person shall be treated as related to another person if the relationship between suchpersons would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).
+&emsp;A person shall be treated as related to another person if the relationship between such persons would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).
 
 #### (6) Exception for long-time residents of same principal residence
 
-&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
+&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as afirst-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
 
 #### (d) Exceptions
 
@@ -160,7 +160,7 @@ If the Secretary requires information reporting under section 6045 by a person d
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraph (2) and subsection (d)(2) shall not apply to such disposition (or cessation), and
 
-&emsp;&emsp;&emsp;&emsp;(II) if such residence was acquired before January 1, 2009, paragraph (1) shallnot apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) if such residence was acquired before January 1, 2009, paragraph (1) shall not apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year.
 
 #### (ii) Qualified official extended duty service
 
@@ -276,7 +276,7 @@ Subsec. (h)(3). Pub. L. 111–92, §11(f), added par. (3).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–198, §2(c), July 2, 2010, 124 Stat. 1356, provided that: "The amendments made by this section \[amending this section\] shall apply to residences purchased after June 30, 2010."
+Pub. L. 111–198, §2(c), July 2, 2010, 124 Stat. 1356, provided that: "The amendments made by this section\[amending this section\] shall apply to residences purchased after June 30, 2010."
 
 #### Effective Date of 2009 Amendment
 

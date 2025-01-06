@@ -160,7 +160,7 @@ In subsec. (h)(3), "section 6101 of title 41" substituted for "section 3709 of t
 
 Subsec. (b)(2) to (4). Pub. L. 110–289, §1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Directorto pay additional estimated costs of regulation of the enterprise."
+Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise."
 
 Subsec. (d). Pub. L. 110–289, §1106(4), substituted "Except with respect to amounts collected pursuant to subsection (a)(3), if" for "If".
 

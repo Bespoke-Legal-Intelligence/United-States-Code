@@ -6,7 +6,7 @@ On or after July 1, 1997, whenever the President determines that Hong Kong is no
 
 #### (b) Factor for consideration
 
-In making a determination under subsection (a) with respect to the application of a law of the United States, or any provision thereof, toHong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
+In making a determination under subsection (a) with respect to the application of a law of the United States, or any provision thereof, to Hong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
 
 #### (c) Publication in Federal Register
 

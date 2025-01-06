@@ -6,7 +6,7 @@
 
 A prior subchapter VII, consisting of parts A (§3241), B (§§3251, 3252), C (§§3261 to 3263), D (§3271), and E (§§3281, 3282), related to solar energy research and development, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
 
-Section 3241, Pub. L. 95–113, title XIV, §1449, Sept. 29, 1977, 91 Stat. 1012, related to farm and forest uses ofsolar energy and nonrenewable fuel and petrochemical substitutes.
+Section 3241, Pub. L. 95–113, title XIV, §1449, Sept. 29, 1977, 91 Stat. 1012, related to farm and forest uses of solar energy and nonrenewable fuel and petrochemical substitutes.
 
 Section 3251, Pub. L. 95–113, title XIV, §1450, Sept. 20, 1977, 91 Stat. 1012, provided for a solar energy research information system.
 

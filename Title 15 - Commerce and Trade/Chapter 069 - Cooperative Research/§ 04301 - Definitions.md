@@ -60,7 +60,7 @@
 
 &emsp;(4) entering into any agreement or engaging in any other conduct allocating a market with a competitor,
 
-&emsp;(5) exchanging information among competitors relating to production (other than production by such venture) of a product, process, or service if such information is not reasonably required to carry out the purpose of such venture,
+&emsp;(5) exchanging information among competitors relating to production (other than production by such venture) of a product, process, orservice if such information is not reasonably required to carry out the purpose of such venture,
 
 &emsp;(6) entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production (other than the production by such venture) of a product, process, or service,
 
@@ -110,7 +110,7 @@ Pub. L. 108–237, title I, §101, June 22, 2004, 118 Stat. 661, provided that: 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: "This Act \[enacting section 4306 of this title,amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the 'National Cooperative Production Amendments of 1993'."
+Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: "This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the 'National Cooperative Production Amendments of 1993'."
 
 #### Short Title
 
@@ -130,7 +130,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;"(1) In 1993, the Congress amended and renamed the National Cooperative Research Act of 1984 (now known as the National Cooperative Research and Production Act of 1993 (15 U.S.C. 4301 et seq.)) by enacting the National Cooperative Production Amendments of 1993 (Public Law 103–42 \[see Short Title of 1993 Amendment note set out above\]) to encourage the use of collaborative, procompetitive activity in the form of research and production joint ventures that provide adequate disclosure to the antitrust enforcement agencies about the nature and scope of the activity involved.
 
-&emsp;"(2) Subsequently, in 1995, the Congress in enacting the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note) \[Pub. L. 104–113; see Short Title of 1996 Amendment note set out under section 3701 of this title\] recognized the importance of technical standards developed by voluntary consensus standards bodies to our national economy by requiring the use of such standards to the extent practicable by Federal agencies and by encouraging Federal agency representatives to participate in ongoing standards development activities. The Office of Management and Budget on February 18, 1998, revised Circular A–119 to reflect these changes made in law.
+&emsp;"(2) Subsequently, in 1995, the Congress in enacting the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note) \[Pub. L. 104–113; see Short Title of 1996 Amendment note set out undersection 3701 of this title\] recognized the importance of technical standards developed by voluntary consensus standards bodies to our national economy by requiring the use of such standards to the extent practicable by Federal agencies and by encouraging Federal agency representatives to participate in ongoing standards development activities. The Office of Management and Budget on February 18, 1998, revised Circular A–119 to reflect these changes made in law.
 
 &emsp;"(3) Following enactment of the National Technology Transfer and Advancement Act of 1995, technical standards developed or adopted by voluntary consensus standards bodies have replaced thousands of unique Government standards and specifications allowing the national economy to operate in a more unified fashion.
 

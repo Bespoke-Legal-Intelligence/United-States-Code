@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) examine—
 
-&emsp;&emsp;&emsp;(i) compliance with requirements prohibiting the denial of assistance, tenancy, or occupancy rights on the basis of domesticviolence, dating violence, sexual assault, or stalking;
+&emsp;&emsp;&emsp;(i) compliance with requirements prohibiting the denial of assistance, tenancy, or occupancy rights on the basis of domestic violence, dating violence, sexual assault, or stalking;
 
 &emsp;&emsp;&emsp;(ii) compliance with confidentiality provisions set forth in section 12491(c)(4) of this title;
 
@@ -60,7 +60,7 @@ Each appropriate agency shall ensure that an agency-level assessment of the info
 
 #### Codification
 
-Pub. L. 117–103, div. W, title VI, §602, which directed the addition of this section to chapter 2 of subtitle N of title IV of the Violence Against Women Act of 1994 (34 U.S.C. 12491 et seq.), was executed by adding this section to chapter 2 of subtitle N of title IV of the Violent Crime Control and Law Enforcement Act of 1994 to reflect the probable intent of Congress.
+Pub. L. 117–103, div. W, title VI, §602, which directed the addition of this section to chapter 2 of subtitle Nof title IV of the Violence Against Women Act of 1994 (34 U.S.C. 12491 et seq.), was executed by adding this section to chapter 2 of subtitle N of title IV of the Violent Crime Control and Law Enforcement Act of 1994 to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

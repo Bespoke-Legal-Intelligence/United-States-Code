@@ -8,7 +8,7 @@
 
 (d) Payments by the Secretary under this section shall be terminated if the retired civilian member is found to be sufficiently recovered for useful and efficient service in his former position and is offered reemployment in that position by the Superintendent.
 
-(e) If a civilian member retired under this section is later reemployed by the United States, the payments by the Secretary shall be terminated.
+(e) If a civilian member retired under this section is later reemployed by the United States,the payments by the Secretary shall be terminated.
 
 (f) Each civilian member retired under this section who is reemployed as a civilian member of the teaching staff of the Naval Academy or the Naval Postgraduate School shall, upon his later retirement, be paid annually by the Secretary the difference between the total annual amount computed under section 8585 of this title and the immediate life annuity which the total premiums paid on his annuity contracts would buy.
 

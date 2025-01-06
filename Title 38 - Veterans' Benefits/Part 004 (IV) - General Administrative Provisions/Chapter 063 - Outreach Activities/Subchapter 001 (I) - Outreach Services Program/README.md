@@ -17,5 +17,6 @@
 - [&sect; 06304 - Veterans assistance offices](%C2%A7%2006304%20-%20Veterans%20assistance%20offices.md)
 - [&sect; 06305 - Outstationing of counseling and outreach personnel](%C2%A7%2006305%20-%20Outstationing%20of%20counseling%20and%20outreach%20personnel.md)
 - [&sect; 06306 - Use of other agencies](%C2%A7%2006306%20-%20Use%20of%20other%20agencies.md)
-- [&sect; 06307 - Outreach for eligible dependents](%C2%A7%2006307%20-%20Outreach%20for%20eligible%20dependents.md)
-- [&sect; 06308 - Biennial report to Congress](%C2%A7%2006308%20-%20Biennial%20report%20to%20Congress.md)
+- [&sect; 06307 - Grants to States and Indian Tribes to improve outreach to veterans](%C2%A7%2006307%20-%20Grants%20to%20States%20and%20Indian%20Tribes%20to%20improve%20outreach%20to%20veterans.md)
+- [&sect; 06308 - Outreach for eligible dependents](%C2%A7%2006308%20-%20Outreach%20for%20eligible%20dependents.md)
+- [&sect; 06309 - Biennial report to Congress](%C2%A7%2006309%20-%20Biennial%20report%20to%20Congress.md)

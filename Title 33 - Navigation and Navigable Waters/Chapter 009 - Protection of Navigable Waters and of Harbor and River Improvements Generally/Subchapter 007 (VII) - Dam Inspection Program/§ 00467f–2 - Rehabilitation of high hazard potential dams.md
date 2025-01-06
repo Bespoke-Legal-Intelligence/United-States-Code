@@ -38,7 +38,7 @@ A grant awarded under this section to a State may be used by the State to award 
 
 #### (C) Grant assurance
 
-&emsp;&emsp;As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.
+&emsp;&emsp;As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance from the dam owner, with respect to the dam to be rehabilitated, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.
 
 #### (D) Limitation
 
@@ -66,7 +66,7 @@ A grant awarded under this section to a State may be used by the State to award 
 
 &emsp;&emsp;&emsp;(ii) complies with the Disaster Mitigation Act of 2000 (Public Law 106–390; 114 Stat. 1552);
 
-&emsp;&emsp;(C) commit to provide operation and maintenance of the project for the expected life of the dam following completion of rehabilitation;
+&emsp;&emsp;(C) for a project not including removal, obtain a commitment from the dam owner to provide operation and maintenance of the project for the expected life of the dam following completion of rehabilitation;
 
 &emsp;&emsp;(D) comply with such minimum eligibility requirements as the Administrator may establish to ensure that each owner and operator of a dam under a participating State dam safety program and that receives assistance under this section—
 
@@ -84,27 +84,39 @@ A grant awarded under this section to a State may be used by the State to award 
 
 #### (1) In general
 
-&emsp;As a condition of receipt of assistance under this section, an eligible subrecipient shall demonstrate that a floodplain management plan to reduce the impacts of future flood events in the area protected by the project—
+&emsp;As a condition of receipt of assistance under this section, an eligible subrecipient shall demonstrate that a floodplain management plan to reduce the impacts of future flood events from a controlled or uncontrolled release from the dam or management of water levels in the area impacted by the dam—
 
-&emsp;&emsp;(A) is in place; or
+&emsp;&emsp;(A) for a removal—
 
-&emsp;&emsp;(B) will be—
+&emsp;&emsp;&emsp;(i) is in place; and
 
-&emsp;&emsp;&emsp;(i) developed not later than 2 years after the date of execution of a project agreement for assistance under this section; and
+&emsp;&emsp;&emsp;(ii) identifies areas that would be impacted by the removal of the dam and includes a communication and outreach plan for the project and the impact of the project on the affected communities; or
 
-&emsp;&emsp;&emsp;(ii) implemented not later than 2 years after the date of completion of construction of the project.
+&emsp;&emsp;(B) for a project not including removal—
 
-#### (2) Inclusions
+&emsp;&emsp;&emsp;(i) is in place; or
 
-&emsp;A plan under paragraph (1) shall address—
+&emsp;&emsp;&emsp;(ii) will be—
 
-&emsp;&emsp;(A) potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in the area protected by the project;
+&emsp;&emsp;&emsp;&emsp;(I) developed not later than 2 years after the date of execution of a project agreement for assistance under this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) implemented not later than 2 years after the date of completion of construction of the project.
+
+#### (2) Requirement
+
+&emsp;In the case of a plan for a removal, the Administrator may not impose any additional requirements or conditions other than the requirements in paragraph (1)(A).
+
+#### (3) Inclusions
+
+&emsp;A plan under paragraph (1)(B) shall address—
+
+&emsp;&emsp;(A) potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in the area protected or impacted by the dam;
 
 &emsp;&emsp;(B) plans for flood fighting and evacuation; and
 
 &emsp;&emsp;(C) public education and awareness of flood risks.
 
-#### (3) Plan criteria and technical support
+#### (4) Plan criteria and technical support
 
 &emsp;The Administrator, in consultation with the Board, shall provide criteria, and may provide technical support, for the development and implementation of floodplain management plans prepared under this subsection.
 
@@ -118,11 +130,15 @@ The Administrator, in consultation with the Board, shall develop a risk-based pr
 
 #### (A) In general
 
-&emsp;&emsp;Any assistance provided under this section for a project shall be subject to a non-Federal cost-sharing requirement of not less than 35 percent.
+&emsp;&emsp;Except as provided in subparagraph (C), any assistance provided under this section for a project shall be subject to a non-Federal cost-sharing requirement of not less than 35 percent.
 
 #### (B) In-kind contributions
 
 &emsp;&emsp;The non-Federal share under subparagraph (A) may be provided in the form of in-kind contributions.
+
+#### (C) Underserved communities
+
+&emsp;&emsp;Subparagraph (A) shall not apply to a project carried out by or for the benefit of an underserved community.
 
 #### (2) Allocation of funds
 
@@ -180,7 +196,7 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(4) $60,000,000 for each of fiscal years 2021 through 2026.
 
-(Pub. L. 92–367, §8A, as added Pub. L. 114–322, title IV, §5006(b), Dec. 16, 2016, 130 Stat. 1893; amended Pub. L. 116–260, div. AA, title I, §132(b), Dec. 27, 2020, 134 Stat. 2645.)
+(Pub. L. 92–367, §8A, as added Pub. L. 114–322, title IV, §5006(b), Dec. 16, 2016, 130 Stat. 1893; amended Pub. L. 116–260, div. AA, title I, §132(b), Dec. 27, 2020, 134 Stat. 2645; Pub. L. 118–272, div. A, title I, §1132(c), Jan. 4, 2025, 138 Stat. 3022.)
 
 #### <b>Editorial Notes</b>
 
@@ -189,6 +205,16 @@ There are authorized to be appropriated to carry out this section—
 The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(2)(C). Pub. L. 118–272, §1132(c)(1), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam."
+
+Subsec. (d)(2)(C). Pub. L. 118–272, §1132(c)(2), substituted "for a project not including removal, obtain a commitment from the dam owner" for "commit".
+
+Subsec. (e). Pub. L. 118–272, §1132(c)(3), added subsec. (e) and struck out former subsec. (e) which related to floodplain management plans to reduce impacts of future flood events in areas protected by projects.
+
+Subsec. (g)(1)(A). Pub. L. 118–272, §1132(c)(4)(A), substituted "Except as provided in subparagraph (C), any" for "Any".
+
+Subsec. (g)(1)(C). Pub. L. 118–272, §1132(c)(4)(B), added subpar. (C).
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §132(b)(1), substituted "to States with dam safety programs" for "to non-Federal sponsors".
 
@@ -240,7 +266,7 @@ Final rule.—Not later than 180 days after the date of enactment of this Act, t
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
 
-Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, §305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, §8370, Dec. 23, 2022, 136 Stat. 3806, provided that:
+Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, §305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, §8370, Dec. 23, 2022, 136 Stat. 3806; Pub. L. 118–272, div. A, title III, §1367, Jan. 4, 2025, 138 Stat. 3164, provided that:
 
 "(a)
 
@@ -260,7 +286,7 @@ Eligible Dams.—A dam eligible for assistance under this section is a dam—
 
 "(c)
 
-Cost Sharing.—Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all land, easements, rights-of-way, and necessary relocations.
+Cost Sharing.—The non-Federal share of the cost of a project for rehabilitation of a dam under this section, including the cost of any required study, shall be the same share assigned to the non-Federal interest for the cost of initial construction of that dam, including provision of all land, easements, rights-of-way, and necessary relocations.
 
 "(d)
 
@@ -272,13 +298,21 @@ Agreements.—Construction of a project under this section shall be initiated on
 
 "(e)
 
-Cost Limitation.—The Secretary shall not expend more than $60,000,000 for a project at any single dam under this section.
+Cost Limitation.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Secretary shall not expend more than $60,000,000 for a project at any single dam under this section.
+
+&emsp;"(2)
+
+Exception.—For a project under this section for which the Federal share of the costs is expected to exceed $60,000,000, the Secretary may expend more than such amount only if—
+
+&emsp;&emsp;"(A) the Secretary submits to Congress the determination made under subsection (a) with respect to the project; and
+
+&emsp;&emsp;"(B) construction of the project substantially in accordance with the plans, and subject to the conditions described in such determination, is specifically authorized by Congress.
 
 "(f)
 
-Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026.
-
-"(g)
-
-Special Rule.—Notwithstanding subsection (c), the non-Federal share of the cost of the project for rehabilitation of Waterbury Dam, Washington County, Vermont, under this section, including the cost of any required study, shall be the same share assigned to thenon-Federal interest for the cost of initial construction of the Waterbury Dam."
+Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2026 through 2030."
 

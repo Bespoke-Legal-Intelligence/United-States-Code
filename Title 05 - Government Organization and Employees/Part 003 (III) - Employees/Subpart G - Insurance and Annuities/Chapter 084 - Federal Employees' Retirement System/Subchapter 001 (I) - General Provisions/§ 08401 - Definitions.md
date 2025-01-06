@@ -124,7 +124,7 @@ For the purpose of this chapter—
 
 &emsp;(22) the term "net losses" means the excess of losses over earnings;
 
-&emsp;(23) the term "normal-cost percentage" means the entry-age normal cost of the provisions of the System which relate to the Fund, computed by the Office in accordance with generally accepted actuarial practice and standards (using dynamic assumptions) andexpressed as a level percentage of aggregate basic pay;
+&emsp;(23) the term "normal-cost percentage" means the entry-age normal cost of the provisions of the System which relate to the Fund, computed by the Office in accordance with generally accepted actuarial practice and standards (using dynamic assumptions) and expressed as a level percentage of aggregate basic pay;
 
 &emsp;(24) the term "Office" means the Office of Personnel Management;
 
@@ -362,7 +362,7 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238, set out as a note under section 3307 of this title.
 
-Pub. L. 100–238, title I, §113(b)(2), Jan. 8, 1988, 101 Stat. 1751, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto."
+Pub. L. 100–238, title I, §113(b)(2), Jan. 8, 1988, 101 Stat. 1751, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributionsto the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto."
 
 #### Effective Date
 
@@ -376,7 +376,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and theamendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
 "(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -436,7 +436,7 @@ Pub. L. 108–83, title I, §104(b), Sept. 30, 2003, 117 Stat. 1018, provided th
 
 #### Service as Law Enforcement Officer
 
-Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f)\[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
+Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "The amendment made by subsection (a) \[amending section 640 of Pub. L. 104–52, set out above\] shall take effect as if included in Public Law 104–52 on the date of its enactment \[Nov. 19, 1995\]."\]
 

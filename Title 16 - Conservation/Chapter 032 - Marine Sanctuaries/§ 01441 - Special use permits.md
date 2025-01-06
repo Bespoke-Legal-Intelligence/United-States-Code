@@ -64,7 +64,7 @@ Upon violation of a term or condition of a permit issued under this section, the
 
 #### (f) Reports
 
-Each person issued a permit under this section shall submit an annual report to the Secretarynot later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
+Each person issued a permit under this section shall submit an annual report to the Secretary not later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
 
 #### (g) Fishing
 

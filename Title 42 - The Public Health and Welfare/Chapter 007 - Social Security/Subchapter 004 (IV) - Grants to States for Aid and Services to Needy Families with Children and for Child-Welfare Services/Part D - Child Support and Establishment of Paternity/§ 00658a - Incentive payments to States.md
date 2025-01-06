@@ -188,7 +188,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 | 50% | 51% | 60 |
 | 0% | 50% | 0\. |
 
-&emsp;&emsp;&nbsp;Notwithstanding the preceding sentence, if the support order performance level of a State for a fiscal year is less than 50 percent but exceeds by at least 5 percentage points the support order performance level of the State for the immediately preceding fiscal year, then the applicable percentage with respect to the State's support order performance level is 50 percent.
+&emsp;&emsp;&nbsp;Notwithstanding the preceding sentence, if the support order performance level of aState for a fiscal year is less than 50 percent but exceeds by at least 5 percentage points the support order performance level of the State for the immediately preceding fiscal year, then the applicable percentage with respect to the State's support order performance level is 50 percent.
 
 #### (C) Collections on current child support due
 
@@ -408,5 +408,5 @@ In general.—The Secretary of Health and Human Services, in consultation with S
 
 &emsp;"(B)
 
-Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report thatdescribes the performance measure and contains the recommendations required by subparagraph (A)."
+Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A)."
 

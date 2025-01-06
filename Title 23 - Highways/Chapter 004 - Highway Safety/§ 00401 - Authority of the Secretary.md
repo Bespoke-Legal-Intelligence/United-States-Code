@@ -26,7 +26,7 @@ Pub. L. 102–240, title II, §2001, Dec. 18, 1991, 105 Stat. 2070, provided tha
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–690, title IX, §9001, Nov. 18, 1988, 102 Stat. 4521, provided that: "This subtitle \[subtitle A (§§9001 to 9005) of title IX of Pub. L. 100–690, enacting section 410 of this title and provisions set out as notes under sections 403 and 410 of this title\] may be cited as the 'Drunk Driving Prevention Act of 1988'."
+Pub. L. 100–690, title IX, §9001, Nov. 18, 1988, 102 Stat. 4521, provided that: "This subtitle \[subtitle A (§§9001 to9005) of title IX of Pub. L. 100–690, enacting section 410 of this title and provisions set out as notes under sections 403 and 410 of this title\] may be cited as the 'Drunk Driving Prevention Act of 1988'."
 
 #### Short Title of 1987 Amendment
 
@@ -268,7 +268,7 @@ Safety applications.—In conducting the study, the Secretary shall determine wh
 
 #### Work Zone Safety Program
 
-Pub. L. 117–58, div. A, title I, §11302, Nov. 15, 2021, 135 Stat. 530, provided that: "The Secretary \[of Transportation\] shall amend section 630.1008(e) of title 23, Code of Federal Regulations, to ensure that the work zone process review under that subsection is required not more frequently than once every 5 years."
+Pub. L. 117–58, div. A, title I, §11302, Nov. 15, 2021, 135 Stat. 530, provided that: "The Secretary \[of Transportation\] shall amend section 630.1008(e) of title 23, Codeof Federal Regulations, to ensure that the work zone process review under that subsection is required not more frequently than once every 5 years."
 
 Pub. L. 109–59, title I, §1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
 
@@ -330,7 +330,7 @@ Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, 
 
 #### Pilot Projects for Highway Safety Education and Information
 
-Pub. L. 95–599, title II, §209, Nov. 6, 1978, 92 Stat. 2732, as amended by Pub. L. 97–424, title II, §206, Jan. 6, 1983, 96 Stat. 2139; Pub. L. 100–17, title II, §207, Apr. 2, 1987, 101 Stat. 221, provided that:
+Pub. L. 95–599, title II, §209, Nov. 6, 1978, 92 Stat. 2732, as amended by Pub. L. 97–424, title II, §206, Jan. 6, 1983,96 Stat. 2139; Pub. L. 100–17, title II, §207, Apr. 2, 1987, 101 Stat. 221, provided that:
 
 "(a) The Secretary of Transportation shall carry out six pilot projects designed, through the use of television and radio, to develop and evaluate techniques, methods, and practices to achieve maximum measurable effectiveness in reducing traffic accidents, injuries, and deaths.
 
@@ -348,7 +348,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 "(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
-"(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to beappropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
+"(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
 
 "(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation."
 
@@ -394,7 +394,7 @@ Pub. L. 89–564, title II, §202, Sept. 9, 1966, 80 Stat. 736, as amended by Pu
 
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
-Pub. L. 89–564, title II, §207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governorsof appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Pub. L. 89–564, title II, §207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 #### Interstate Compacts for Highway Safety
 

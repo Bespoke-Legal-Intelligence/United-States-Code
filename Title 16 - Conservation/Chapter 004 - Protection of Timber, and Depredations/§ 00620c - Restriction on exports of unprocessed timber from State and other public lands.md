@@ -12,7 +12,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 #### (2) States with annual sales of greater than 400,000,000 board feet
 
-&emsp;With respect to any State with an annual sales volume greater than 400,000,000 board feet, the Secretary of Commerce shall issue an order referred to in subsection (a) to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective as of November 14, 1997.
+&emsp;With respect to any State with an annual sales volume greater than 400,000,000 board feet, the Secretary of Commerce shall issue an order referred to in subsection (a) to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originatingfrom public lands, effective as of November 14, 1997.
 
 #### (3) Prohibition on substitution
 
@@ -62,7 +62,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 #### (2) Cooperation with other agencies
 
-&emsp;The Secretary of Commerce is authorized to enter into agreements with Federal and Stateagencies with appropriate jurisdiction to assist the Secretary in carrying out sections 620 to 620j of this title.
+&emsp;The Secretary of Commerce is authorized to enter into agreements with Federal and State agencies with appropriate jurisdiction to assist the Secretary in carrying out sections 620 to 620j of this title.
 
 #### (d) Authorized State programs
 
@@ -86,7 +86,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 #### (C) Prior State programs
 
-&emsp;&emsp;Not later than 30 days after July 1, 1993, the Governor of any State that had, before May 4, 1993, issued regulations under this subsection as in effect before May 4, 1993, may provide the Secretary of Commerce with written notification that the State has a program that was in effect on May 3, 1993, and that meets the requirements of paragraph (1). Upon such notification, that State may administer and enforce that program in that State until the end of the 9-month period beginning on the date on which the Secretary of Commerce issues regulations under subsection (c), and that program shall, during the period in which it is so administered and enforced, apply in that State in lieu of the regulations issued under subsection (c). Such Governor may submit, with such notification, the program for approval by the Secretary under paragraph (1).
+&emsp;&emsp;Not later than 30 days after July 1, 1993, the Governor of any State that had, before May 4, 1993, issued regulations under this subsection as in effect before May 4, 1993, may provide the Secretary of Commerce with written notification that the State has a program that was in effect on May 3, 1993, and that meets the requirements of paragraph (1). Upon such notification, that Statemay administer and enforce that program in that State until the end of the 9-month period beginning on the date on which the Secretary of Commerce issues regulations under subsection (c), and that program shall, during the period in which it is so administered and enforced, apply in that State in lieu of the regulations issued under subsection (c). Such Governor may submit, with such notification, the program for approval by the Secretary under paragraph (1).
 
 #### (e) Prior contracts
 
@@ -146,7 +146,7 @@ Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L.
 
 Subsec. (b)(1). Pub. L. 103–45, §2(2)(A), inserted ", notwithstanding any other provision of law," after "prohibit" and substituted ", effective June 1, 1993" for "not later than 21 days after August 20, 1990".
 
-Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out former subpar. (A), redesignated subpar. (D) as (B) and substituted "annual sales volume in that State of unprocessed timber originating from public lands" for "total annual sales volume" at end, and struck out former subpars. (B) and (C). Prior to amendment, former subpars. (A) to (C) read as follows:
+Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out former subpar. (A), redesignated subpar. (D) as (B) and substituted "annual sales volume in that State of unprocessed timber originating from public lands" for "total annual sales volume" at end,and struck out former subpars. (B) and (C). Prior to amendment, former subpars. (A) to (C) read as follows:
 
 "(A) The Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than 21 days after August 20, 1990. Such order shall cover a period beginning 120 days after the issuance of such an order, or January 1, 1991, whichever is earlier, and shall extend to December 31, 1991. Such order shall prohibit the export of 75 percent of the annual sales volume in such State of unprocessed timber from public lands.
 

@@ -16,7 +16,7 @@
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 
-&emsp;(A) the Dispute Settlement Body (as defined in section 3531(5) of this title) has adopted areport, or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that—
+&emsp;(A) the Dispute Settlement Body (as defined in section 3531(5) of this title) has adopted a report, or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that—
 
 &emsp;&emsp;(i) the rights of the United States under a trade agreement are not being denied, or
 
@@ -54,7 +54,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 #### (c) Scope of authority
 
-(1) For purposes of carrying out the provisions of subsection (a) or (b) or section 2416(c) of this title, the Trade Representative is authorized to—
+(1) For purposes of carrying out the provisions of subsection (a) or (b) or section 2416(c) of thistitle, the Trade Representative is authorized to—
 
 &emsp;(A) suspend, withdraw, or prevent the application of, benefits of trade agreement concessions to carry out a trade agreement with the foreign country referred to in such subsection;
 
@@ -178,7 +178,7 @@ For purposes of this subchapter—
 
 &emsp;(8) The term "Trade Representative" means the United States Trade Representative.
 
-&emsp;(9) The term "interested persons", only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2),<sup>1</sup> and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
+&emsp;(9) The term "interested persons", only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2),<sup>1</sup> and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services thatmay be affected by actions taken under subsection (a) or (b).
 
 (Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 114–125, title VI, §§602(b)(1), 607, Feb. 24, 2016, 130 Stat. 184, 189.)
 

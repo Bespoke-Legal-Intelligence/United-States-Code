@@ -24,7 +24,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to allocations for States, gives preference to States whose populations have a prevalence of opioid misuse and use disorders or drug overdose deaths that is substantially higher relative to the populations of other States;
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to allocations for Tribes and Tribal organizations, gives preferences to Tribes and Tribal organizations (including those applying in partnership with an Urban Indian organization) serving populations with demonstrated need with respect to opioid misuse and use disorders or drug overdose deaths;
+&emsp;&emsp;&emsp;&emsp;(II) with respect to allocations for Tribes and Tribal organizations, givespreferences to Tribes and Tribal organizations (including those applying in partnership with an Urban Indian organization) serving populations with demonstrated need with respect to opioid misuse and use disorders or drug overdose deaths;
 
 &emsp;&emsp;&emsp;&emsp;(III) includes performance assessments for continuation awards; and
 
@@ -94,7 +94,7 @@ Any funds made available pursuant to subsection (i) shall not be used for any pu
 
 #### (e) Indian Tribes and Tribal organizations
 
-The Secretary, in consultation with Indian Tribes and Tribal organizations, shall identify and establish appropriate mechanisms for Indian Tribes and Tribal organizations to demonstrate or report the information as required under subsections (b), (c), and (d).
+The Secretary, in consultation with Indian Tribes and Tribal organizations, shall identify and establish appropriate mechanisms for IndianTribes and Tribal organizations to demonstrate or report the information as required under subsections (b), (c), and (d).
 
 #### (f) Report to Congress
 

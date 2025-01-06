@@ -18,7 +18,7 @@ The purpose of the HOPE for Homeowners Program is—
 
 &emsp;(5) to enhance the administrative capacity of the FHA to carry out its expanded role under the HOPE for Homeowners Program;
 
-&emsp;(6) to ensure the HOPE for Homeowners Program remains in effect only for as long as is necessary to provide stability to the housing market; and
+&emsp;(6) to ensure the HOPE for Homeowners Program remains in effect only for as long as isnecessary to provide stability to the housing market; and
 
 &emsp;(7) to provide servicers of delinquent mortgages with additional methods and approaches to avoid foreclosure.
 
@@ -78,7 +78,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (A) Required agreement
 
-&emsp;&emsp;All holders of outstanding mortgage liens on the property to which the eligible mortgage relates shall agree to accept the proceeds of the insured loan and any payments made under this paragraph, as payment in full of all indebtedness under the eligible mortgage, and all encumbrances related to such eligible mortgage shall be removed. The Secretary may take such actions as may be necessary and appropriate to facilitatecoordination and agreement between the holders of the existing senior mortgage and any existing subordinate mortgages, taking into consideration the subordinate lien status of such subordinate mortgages. Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B).
+&emsp;&emsp;All holders of outstanding mortgage liens on the property to which the eligible mortgage relates shall agree to accept the proceeds of the insured loan and any payments made under this paragraph, as payment in full of all indebtedness under the eligible mortgage, and all encumbrances related to such eligible mortgage shall be removed. The Secretary may take such actions as may be necessary and appropriate to facilitate coordination and agreement between the holders of the existing senior mortgage and any existing subordinate mortgages, taking into consideration the subordinate lien status of such subordinate mortgages. Such actions may include making payments, which shall be accepted as payment in full of all indebtedness under the eligible mortgage, to any holder of an existing subordinate mortgage, in lieu of any future appreciation payments authorized under subparagraph (B).
 
 #### (B) Shared appreciation
 
@@ -152,7 +152,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (12) Ban on millionaires
 
-&emsp;The mortgagor shall not have a net worth, as of the date the mortgagor first applies fora mortgage to be insured under the Program under this section, that exceeds $1,000,000.
+&emsp;The mortgagor shall not have a net worth, as of the date the mortgagor first applies for a mortgage to be insured under the Program under this section, that exceeds $1,000,000.
 
 #### (f) Study of auction or bulk refinance program
 
@@ -220,7 +220,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 &emsp;For each refinanced eligible mortgage insured under this section, the Secretary shall establish and collect—
 
-&emsp;&emsp;(A) at the time of insurance, a single premium payment in an amount not more than 3 percent of the amount of the original insured principal obligation of the refinancedeligible mortgage, which shall be paid from the proceeds of the mortgage being insured under this section, through the reduction of the amount of indebtedness that existed on the eligible mortgage prior to refinancing; and
+&emsp;&emsp;(A) at the time of insurance, a single premium payment in an amount not more than 3 percent of the amount of the original insured principal obligation of the refinanced eligible mortgage, which shall be paid from the proceeds of the mortgage being insured under this section, through the reduction of the amount of indebtedness that existed on the eligible mortgage prior to refinancing; and
 
 &emsp;&emsp;(B) in addition to the premium required under paragraph (1), an annual premium in an amount not more than 1.5 percent of the amount of the remaining insured principal balance of the mortgage.
 
@@ -294,7 +294,7 @@ The Secretary shall submit monthly reports to the Congress identifying the progr
 
 #### (o) Required outreach efforts
 
-The Secretary shall carry out outreach efforts to ensure that homeowners, lenders, and thegeneral public are aware of the opportunities for assistance available under this section.
+The Secretary shall carry out outreach efforts to ensure that homeowners, lenders, and the general public are aware of the opportunities for assistance available under this section.
 
 #### (p) Enhancement of FHA capacity
 
@@ -310,7 +310,7 @@ The Secretary shall take such actions as may be necessary to—
 
 #### (1) Guarantees
 
-&emsp;The Secretary shall take such actions as may be necessary to ensure that securities based on and backed by a trust or pool composed of mortgages insured under this section are available to be guaranteed by the Government National Mortgage Association as to the timely payment of principal and interest.
+&emsp;The Secretary shall take such actions as may be necessary to ensure that securitiesbased on and backed by a trust or pool composed of mortgages insured under this section are available to be guaranteed by the Government National Mortgage Association as to the timely payment of principal and interest.
 
 #### (2) Guarantee authority
 

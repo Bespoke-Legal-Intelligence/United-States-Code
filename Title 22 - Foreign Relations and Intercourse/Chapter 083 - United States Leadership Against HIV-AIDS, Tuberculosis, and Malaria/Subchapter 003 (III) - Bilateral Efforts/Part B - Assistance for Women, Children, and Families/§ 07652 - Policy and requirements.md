@@ -32,7 +32,7 @@ The 5-year United States Government strategy required by section 7611 of this ti
 
 #### (2) Membership
 
-&emsp;The Panel shall be convened and chaired by the Global AIDS Coordinator, who shall serve as a nonvoting member. The Panel shall consist of not more than 15 members (excluding the Global AIDS Coordinator), to be appointed by the Global AIDS Coordinator not later than 1 year after July 30, 2008, including—
+&emsp;The Panel shall be convened and chaired by the Global AIDS Coordinator, who shall serveas a nonvoting member. The Panel shall consist of not more than 15 members (excluding the Global AIDS Coordinator), to be appointed by the Global AIDS Coordinator not later than 1 year after July 30, 2008, including—
 
 &emsp;&emsp;(A) 2 members from the Department of Health and Human Services with expertise relating to the prevention of mother-to-child transmission activities;
 
@@ -58,7 +58,7 @@ The 5-year United States Government strategy required by section 7611 of this ti
 
 &emsp;&emsp;(D) identify barriers and challenges to increasing access to mother-to-child transmission prevention services and evaluate potential mechanisms to alleviate those barriers and challenges;
 
-&emsp;&emsp;(E) identify the extent to which stigma has hindered pregnant women from obtainingHIV counseling and testing or returning for results, and provide recommendations to address such stigma and its effects;
+&emsp;&emsp;(E) identify the extent to which stigma has hindered pregnant women from obtaining HIV counseling and testing or returning for results, and provide recommendations to address such stigma and its effects;
 
 &emsp;&emsp;(F) identify opportunities to improve linkages between mother-to-child transmission prevention services and care and treatment programs; and
 

@@ -6,7 +6,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 (b)
 
-Costs Treated as Fair and Reasonable, and Allowable, Expenses.—The regulations prescribed under subsection (a) shall provide that independent research and development costs shall be considered a fair and reasonable, and allowable, indirect expense on Department of Defense contracts.
+Costs Treated as Fair and Reasonable, and Allowable, Expenses.—The regulations prescribed under subsection (a) shall provide that independent research and development costs shall be considered a fair and reasonable,and allowable, indirect expense on Department of Defense contracts.
 
 (c)
 

@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 46:599
 
-Section 10505 prohibits any person from paying a seaman on a coastwise voyage advance wages, or to pay toanother person any form of a seaman's wages prior to the commencement of the seaman's employment. It also prohibits a person from seeking or receiving remuneration for providing a seaman with employment. This section also requires that a vessel comply with this section before clearing port. It provides penalties for offenses of its provisions. The section does not apply to fishing vessels, whaling vessels, or yachts, but does apply to vessels taking oysters.
+Section 10505 prohibits any person from paying a seaman on a coastwise voyage advance wages, or to pay to another person any form of a seaman's wages prior to the commencement of the seaman's employment. It also prohibits a person from seeking or receiving remuneration for providing a seaman with employment. This section also requires that a vessel comply with this section before clearing port. It provides penalties for offenses of its provisions. The section does not apply to fishing vessels, whaling vessels, or yachts, but does apply to vessels taking oysters.
 
 #### <b>Editorial Notes</b>
 

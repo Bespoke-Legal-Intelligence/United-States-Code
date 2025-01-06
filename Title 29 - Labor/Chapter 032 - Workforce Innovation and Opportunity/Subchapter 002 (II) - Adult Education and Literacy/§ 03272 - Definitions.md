@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (5) Eligible provider
 
-&emsp;The term "eligible provider" means an organization that has demonstrated effectiveness in providing adult education and literacy activities that may include—
+&emsp;The term "eligible provider" means an organization that has demonstrated effectivenessin providing adult education and literacy activities that may include—
 
 &emsp;&emsp;(A) a local educational agency;
 
@@ -100,7 +100,7 @@ In this subchapter:
 
 &emsp;The term "family literacy activities" means activities that are of sufficient intensity and quality, to make sustainable improvements in the economic prospects for a family and that better enable parents or family members to support their children's learning needs, and that integrate all of the following activities:
 
-&emsp;&emsp;(A) Parent or family adult education and literacy activities that lead to readiness forpostsecondary education or training, career advancement, and economic self-sufficiency.
+&emsp;&emsp;(A) Parent or family adult education and literacy activities that lead to readiness for postsecondary education or training, career advancement, and economic self-sufficiency.
 
 &emsp;&emsp;(B) Interactive literacy activities between parents or family members and their children.
 
@@ -140,7 +140,7 @@ In this subchapter:
 
 #### (16) Workplace adult education and literacy activities
 
-&emsp;The term "workplace adult education and literacy activities" means adult education and literacy activities offered by an eligible provider in collaboration with an employer or employee organization at a workplace or an off-site location that is designed to improve the productivity of the workforce.
+&emsp;The term "workplace adult education and literacy activities" means adult education andliteracy activities offered by an eligible provider in collaboration with an employer or employee organization at a workplace or an off-site location that is designed to improve the productivity of the workforce.
 
 #### (17) Workforce preparation activities
 

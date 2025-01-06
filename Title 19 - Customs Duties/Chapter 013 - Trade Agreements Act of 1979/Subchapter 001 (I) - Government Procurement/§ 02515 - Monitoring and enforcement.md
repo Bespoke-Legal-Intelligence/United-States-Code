@@ -8,7 +8,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Advisory rulings and final determinations
 
-&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for theprompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
+&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for the prompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
 
 #### (2) Penalties for fraudulent conduct
 
@@ -300,7 +300,7 @@ Legislative recommendations.—The general report may also include, if appropria
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995),see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Termination Date of 1988 Amendment
 

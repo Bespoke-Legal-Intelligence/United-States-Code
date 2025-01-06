@@ -158,7 +158,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 #### (3) Higher amount for certain unmarried individuals
 
-&emsp;In the case of an individual who is not married and is not a surviving spouse, paragraphs\(1) and (2) shall be applied by substituting "$750" for "$600".
+&emsp;In the case of an individual who is not married and is not a surviving spouse, paragraphs (1) and (2) shall be applied by substituting "$750" for "$600".
 
 #### (4) Blindness defined
 
@@ -440,7 +440,7 @@ Amendment by section 1272(d)(6) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, seesection 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
+Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, see section 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
 
 Amendment by section 111(b)(4) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
 

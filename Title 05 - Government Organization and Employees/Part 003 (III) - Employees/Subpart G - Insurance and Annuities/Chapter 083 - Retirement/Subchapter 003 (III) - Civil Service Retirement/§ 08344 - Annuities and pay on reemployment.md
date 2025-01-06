@@ -60,13 +60,13 @@
 
 &emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
-&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
+&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-casebasis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
 (2) The Office shall prescribe regulations for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for terminating a delegation of authority under paragraph (1)(B).
 
 (j)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), the Director of the Administrative Office of the United States Courts shall, with respect to an employee in the judicial branch, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
 
-(2) Authority under this subsection may not be exercised with respect to a justice or judge ofthe United States, as defined in section 451 of title 28.
+(2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
 
 (k)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
 

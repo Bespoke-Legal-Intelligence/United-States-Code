@@ -12,7 +12,7 @@ In exercising the authority under section 7152(b) <sup>1</sup> of this title to
 
 #### (d) Preparation of environmental impact statement
 
-The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any action with respect to the Federal leases taken underthe authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
+The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any action with respect to the Federal leases taken under the authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
 
 (Pub. L. 95–91, title III, §303, Aug. 4, 1977, 91 Stat. 579; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407.)
 

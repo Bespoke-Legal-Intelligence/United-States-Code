@@ -32,7 +32,7 @@ Section 2938, Pub. L. 105–220, title I, §188, Aug. 7, 1998, 112 Stat. 1049, r
 
 Provisions similar to those formerly contained in section 2938 were contained in section 1577 of this title prior to repeal by Pub. L. 105–220.
 
-Section 2939, Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181, contained administrative provisions. See section 3249 of this title.
+Section 2939, Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[title VIII,§401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181, contained administrative provisions. See section 3249 of this title.
 
 Provisions similar to those formerly contained in section 2939 were contained in sections 1504, 1571, and 1579 to 1581 of this title prior to repeal by Pub. L. 105–220.
 

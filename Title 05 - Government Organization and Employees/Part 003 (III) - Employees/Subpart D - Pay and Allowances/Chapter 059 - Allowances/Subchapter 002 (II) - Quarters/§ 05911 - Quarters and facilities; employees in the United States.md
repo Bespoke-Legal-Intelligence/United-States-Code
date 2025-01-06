@@ -108,7 +108,7 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L.
 
 #### Government Lodging Program
 
-Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, §642, Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, §642, Jan. 1, 2021, 134 Stat. 3684, provided that:
+Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, §642, Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, §642, Jan. 1, 2021, 134 Stat. 3684; Pub. L. 118–159, div. A, title VI, §652, Dec. 23, 2024, 138 Stat. 1939, provided that:
 
 "(a)
 
@@ -124,7 +124,27 @@ In general.—In carrying out a Government lodging program under subsection (a),
 
 &emsp;"(2)
 
-Termination.—This subsection shall terminate on September 30, 2023.
+Termination.—This subsection shall terminate on September 30, 2029.
+
+&emsp;"(3)
+
+Briefings required.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than February 1, 2025, and annually thereafter through February 1, 2030, the Secretary shall brief the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the exclusion under paragraph (1) from the requirements of a Government lodging program carried out under subsection (a).
+
+&emsp;&emsp;"(B)
+
+Elements.—Each briefing required by subparagraph (A) shall include, for the year preceding the briefing, the following:
+
+&emsp;&emsp;&emsp;"(i) A description of the instances in which the exclusion under paragraph (1) was used.
+
+&emsp;&emsp;&emsp;"(ii) A description of the lodging used under that exclusion.
+
+&emsp;&emsp;&emsp;"(iii) A statement of the difference in cost between lodging used under that exclusion and lodging provided under a Government lodging program carried out under subsection (a) in each location where lodging under the exclusion was used.
+
+&emsp;&emsp;&emsp;"(iv) Such other matters as the Secretary considers relevant.
 
 "(c)
 

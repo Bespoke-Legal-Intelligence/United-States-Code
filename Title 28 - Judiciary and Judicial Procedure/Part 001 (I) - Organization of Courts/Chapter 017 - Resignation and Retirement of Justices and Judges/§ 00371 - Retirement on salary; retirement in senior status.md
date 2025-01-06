@@ -2,7 +2,7 @@
 
 (a) Any justice or judge of the United States appointed to hold office during good behavior may retire from the office after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) and shall, during the remainder of his lifetime, receive an annuity equal to the salary he was receiving at the time he retired.
 
-(b)(1) Any justice or judge of the United States appointed to hold office during good behavior may retain the office but retire from regular active service after attaining the age and meetingthe service requirements, whether continuous or otherwise, of subsection (c) of this section and shall, during the remainder of his or her lifetime, continue to receive the salary of the office if he or she meets the requirements of subsection (e).
+(b)(1) Any justice or judge of the United States appointed to hold office during good behavior may retain the office but retire from regular active service after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) of this section and shall, during the remainder of his or her lifetime, continue to receive the salary of the office if he or she meets the requirements of subsection (e).
 
 (2) In a case in which a justice or judge who retires under paragraph (1) does not meet the requirements of subsection (e), the justice or judge shall continue to receive the salary that he or she was receiving when he or she was last in active service or, if a certification under subsection (e) was made for such justice or judge, when such a certification was last in effect. The salary of such justice or judge shall be adjusted under section 461 of this title.
 
@@ -39,7 +39,7 @@
 
 (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, §1 \[\[div. A\], titleVI, §654(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165; Pub. L. 106–518, title III, §303, Nov. 13, 2000, 114 Stat. 2417.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165; Pub. L. 106–518, title III, §303, Nov. 13, 2000, 114 Stat. 2417.)
 
 #### Historical and Revision Notes
 
@@ -67,7 +67,7 @@ Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)(B)\], re
 
 <b>1996</b>—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end "In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph."
 
-Subsec. (f)(3). Pub. L. 104–317, §301(a), substituted "may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year." for "is thereafter ineligible to receive such a certification."
+Subsec. (f)(3). Pub. L. 104–317, §301(a), substituted "may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the workperformed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year." for "is thereafter ineligible to receive such a certification."
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted "or her" after "his", substituted "of the office if he or she meets the requirements of subsection (f)" for "of the office", and added par. (2).
 
@@ -105,7 +105,7 @@ Pub. L. 101–194, title VII, §705(b), Nov. 30, 1989, 103 Stat. 1771, provided 
 
 "(1)
 
-In general.—The amendments made by subsection (a) \[amending this section\] shall first applywith respect to work performed on or after January 1, 1990, by a justice or judge of the United States who has retired under section 371(b) of title 28, United States Code.
+In general.—The amendments made by subsection (a) \[amending this section\] shall first apply with respect to work performed on or after January 1, 1990, by a justice or judge of the United States who has retired under section 371(b) of title 28, United States Code.
 
 "(2)
 

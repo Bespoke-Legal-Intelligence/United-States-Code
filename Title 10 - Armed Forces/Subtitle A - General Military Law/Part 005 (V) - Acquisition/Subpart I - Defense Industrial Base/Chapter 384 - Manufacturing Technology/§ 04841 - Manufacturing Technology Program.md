@@ -68,7 +68,7 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, §212, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, §902(76), Dec. 20, 2019, 133 Stat. 1552; renumbered §4841 and amended Pub. L. 116–283, div. A, title XVIII, §1869(b), (c)(1), Jan. 1, 2021, 134 Stat. 4283.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525;amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, §212, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, §902(76), Dec. 20, 2019, 133 Stat. 1552; renumbered §4841 and amended Pub. L. 116–283, div. A, title XVIII, §1869(b), (c)(1), Jan. 1, 2021, 134 Stat. 4283.)
 
 #### <b>Editorial Notes</b>
 
@@ -144,7 +144,7 @@ Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to
 
 Subsec. (c)(2) to (6). Pub. L. 106–65, §216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
 
-Subsec. (d). Pub. L. 106–65, §216(d), struck out "(A)" before "In accordance with" in par. (1), redesignated par. (1)(B) as par. (2), substituted "Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project." for "For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.", and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
+Subsec. (d). Pub. L. 106–65, §216(d), struck out "(A)" before "In accordance with" in par. (1), redesignated par. (1)(B) as par. (2), substituted "Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project." for "For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.", and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded orentered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
 
 Subsec. (e)(2)(A). Pub. L. 106–65, §216(e)(1), inserted ", including a description of all completed projects and status of implementation" before period at end.
 
@@ -188,9 +188,61 @@ Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Program for Advanced Manufacturing in the Indo-Pacific Region
+
+Pub. L. 118–159, div. A, title III, §356, Dec. 23, 2024, 138 Stat. 1860, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense, acting through the Secretary of the Navy and in consultation with the Commander of the United States Indo-Pacific Command, shall carry out a program under which the Secretary shall establish an advanced manufacturing facility on or near a military installation within the area of responsibility of the United States Indo-Pacific Command for the purpose of—
+
+&emsp;"(1) meeting flexible manufacturing requirements to support the submarine, shipbuilding, and other defense activity industrial bases;
+
+&emsp;"(2) fostering partnerships between industry, local universities, and workforce training programs to develop a local workforce in the vicinity of such facility capable of meeting advanced manufacturing demands;
+
+&emsp;"(3) coordinating responses to requirements of the Submarine Industrial Base Task Force, the United States Indo-Pacific Command, the Innovation Capability and Modernization Office of the Department of Defense, the Industrial Base Analysis and Sustainment program of the Department, and other relevant defense organizations;
+
+&emsp;"(4) providing for the manufacturing of unmanned vehicles, including surface and underwater vehicles, and develops ship maintenance capabilities; and
+
+&emsp;"(5) responding to needs across the uniformed services and the defense industrial base.
+
+"(b)
+
+Elements.—In carrying out subsection (a), the Secretary shall—
+
+&emsp;"(1) ensure that the advanced manufacturing facility under such subsection is capable of—
+
+&emsp;&emsp;"(A) applying advanced manufacturing to small and large metal and composite structures;
+
+&emsp;&emsp;"(B) manufacturing systems and components that—
+
+&emsp;&emsp;&emsp;"(i) use appropriate advanced manufacturing methods including hybrid and additive (for example, additive manufacturing, powder bed fusion manufacturing, cold spray manufacturing, or other similar manufacturing capabilities); and
+
+&emsp;&emsp;&emsp;"(ii) maintain a set of modern local machining systems with at least five-axis capability sufficient to support requirements;
+
+&emsp;&emsp;"(C) maintaining a production capability across critical materials of the Navy in order to respond to emerging repair and production requirements during conflict; and
+
+&emsp;"(2) ensure broad workforce participation by establishing the facility either outside of a military installation (but very close to a military installation) or onboard a military installation with readily available access to a civilian trainee workforce.
+
+"(c)
+
+Report.—Not later than December 1 of the year after the year during which a facility is established under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report summarizing the actions taken under the program established under suchsubsection, including information on how the program is supporting initiatives of the United States Indo-Pacific Command.
+
+"(d)
+
+Advanced Manufacturing Defined.—In this section, the term 'advanced manufacturing' means a manufacturing process using the following techniques:
+
+&emsp;"(1) Additive manufacturing.
+
+&emsp;"(2) Wire-arc additive manufacturing.
+
+&emsp;"(3) Powder bed fusion manufacturing.
+
+&emsp;"(4) Other similar manufacturing capabilities."
+
 #### Consortium on Use of Additive Manufacturing for Defense Capability Development
 
-Pub. L. 118–31, div. A, title II, §223, Dec. 22, 2023, 137 Stat. 191, provided that:
+Pub. L. 118–31, div. A, title II, §223, Dec. 22, 2023, 137 Stat. 191, as amended by Pub. L. 118–159, div. A, title II, §218, Dec. 23, 2024, 138 Stat. 1827, provided that:
 
 "(a)
 
@@ -270,9 +322,11 @@ Activities.—The Consortium shall—
 
 &emsp;"(4) as directed by an organization of the Department of Defense included in the Consortium, conduct reverse engineering (including testing and certification) for critical parts which may have limited sources of supply;
 
-&emsp;"(5) use data standards, common repositories, and information security to track, store, and secure technical data relating to additive manufacturing and ensure the interoperability of such data; and
+&emsp;"(5) use data standards, common repositories, and information security to track, store, and secure technical data relating to additive manufacturing and ensure the interoperability of such data;
 
-&emsp;"(6) conduct comparative cost analyses for new and emerging additive manufacturing approaches, including assessments of life-cycle costs for tooling, training, and intellectual property needed to sustain such approaches."
+&emsp;"(6) conduct comparative cost analyses for new and emerging additive manufacturing approaches, including assessments of life-cycle costs for tooling, training, and intellectual property needed to sustain such approaches; and
+
+&emsp;"(7) develop a process to certify new materials and processes for fabricating flight critical parts and initiate planning for a rapidly deployable additive manufacturing system that is capable of fabricating replacement safety-critical parts for military aircraft and unmanned aerial vehicles in environments where access to traditionally manufactured replacement parts is severely restricted."
 
 #### Support for Research and Development of Bioindustrial Manufacturing Processes
 
@@ -390,7 +444,7 @@ In General.—The Secretary of Defense shall make such changes to the administra
 
 &emsp;"(4) to encourage covered institutes to consider developing technologies that were previously funded by Federal Government investment for early-stage research and development and expand cross-government coordination and collaboration to achieve this goal;
 
-&emsp;"(5) to provide an opportunity for increased Department of Defense input and oversight from senior-levelmilitary and civilian personnel on future technology roadmaps produced by covered institutes;
+&emsp;"(5) to provide an opportunity for increased Department of Defense input and oversight from senior-level military and civilian personnel on future technology roadmaps produced by covered institutes;
 
 &emsp;"(6) to reduce the barriers to collaboration between and among multiple covered institutes;
 
@@ -504,7 +558,7 @@ Pub. L. 110–181, div. A, title II, §238(b), Jan. 28, 2008, 122 Stat. 48, prov
 
 "(1)
 
-Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) ofsection 2521 of title 10, United States Code \[now 10 U.S.C. 4841(e)\] (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
+Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) of section 2521 of title 10, United States Code \[now 10 U.S.C. 4841(e)\] (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
 
 "(2)
 

@@ -1,6 +1,6 @@
 ### §521. Civil penalties
 
-(a)(1) A person required under section 504 of this title to make, prepare, preserve, or submit to the Secretary of Transportation a record about rail carrier transportation, that does not make, prepare, preserve, or submit that record as required under that section, is liable to the United States Government for a civil penalty of $500 for each violation.
+(a)(1) A person required under section 504 of this title to make, prepare, preserve, or submit to the Secretary of Transportation a record about rail carrier transportation, that does not make, prepare, preserve, or submit that recordas required under that section, is liable to the United States Government for a civil penalty of $500 for each violation.
 
 (2) A rail carrier, and a lessor, receiver, or trustee of that carrier, violating section 504(c)(1) of this title, is liable to the Government for a civil penalty of $100 for each violation.
 
@@ -48,11 +48,11 @@ Violations pertaining to cdls.—Any person who is determined by the Secretary, 
 
 &emsp;(D)
 
-Determination of amount.—The amount of any civil penalty, and a reasonable time forabatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
+Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
 
 &emsp;(E)(i)
 
-Copying of records and access to equipment, lands, and buildings.—A person subject to chapter 51 or a motor carrier, broker, freight forwarder, or owner or operator of a commercial motor vehicle subject to part B of subtitle VI who fails to allow promptly, upon demand, the Secretary (or an employee designated by the Secretary) to inspect and copy any record or inspect and examine equipment, lands, buildings and other property in accordance with sections 504(c), 5121(c), and 14122(b) shall be liable to the United States for a civil penalty not to exceed $1,000 for each offense. Each day the Secretary is denied the right to inspect and copy any record or inspect and examine equipment, lands, buildings and other property shall constitute a separate offense, except that the total of all civil penalties against any violator for all offenses related to a single violation shall not exceed $10,000. In the case of a motor carrier, the Secretary may also place the violator's motor carrier operations out of service. It shall be a defense to a penalty that the records did not exist at the time of the Secretary's request or could not be timely produced without unreasonable expense or effort. Nothing in this subparagraph amends or supersedes any remedy available to the Secretary under section 502(d), section 507(c), or any other provision of this title.
+Copying of records and access to equipment, lands, and buildings.—A person subject to chapter 51 or a motor carrier, broker, freight forwarder, or owner or operator of a commercial motor vehicle subject to part B of subtitle VI who fails to allow promptly, upon demand, the Secretary (or an employee designated by the Secretary) to inspect andcopy any record or inspect and examine equipment, lands, buildings and other property in accordance with sections 504(c), 5121(c), and 14122(b) shall be liable to the United States for a civil penalty not to exceed $1,000 for each offense. Each day the Secretary is denied the right to inspect and copy any record or inspect and examine equipment, lands, buildings and other property shall constitute a separate offense, except that the total of all civil penalties against any violator for all offenses related to a single violation shall not exceed $10,000. In the case of a motor carrier, the Secretary may also place the violator's motor carrier operations out of service. It shall be a defense to a penalty that the records did not exist at the time of the Secretary's request or could not be timely produced without unreasonable expense or effort. Nothing in this subparagraph amends or supersedes any remedy available to the Secretary under section 502(d), section 507(c), or any other provision of this title.
 
 &emsp;(ii)
 
@@ -96,13 +96,13 @@ Prohibition on operation in interstate commerce after nonpayment of penalties.�
 
 &emsp;(A)
 
-In general.—An owner or operator of a commercial motor vehicle against whom a civil penalty is assessed under this chapter or chapter 51, 149, or 311 of this title and who does not pay such penalty or fails to arrange and abide by an acceptable payment plan for suchcivil penalty may not operate in interstate commerce beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty. This paragraph shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
+In general.—An owner or operator of a commercial motor vehicle against whom a civil penalty is assessed under this chapter or chapter 51, 149, or 311 of this title and who does not pay such penalty or fails to arrange and abide by an acceptable payment plan for such civil penalty may not operate in interstate commerce beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty. This paragraph shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
 
 &emsp;(B)
 
 Regulations.—Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and an opportunity for public comment, shall issue regulations setting forth procedures for ordering commercial motor vehicle owners and operators delinquent in paying civil penalties to cease operations until payment has been made.
 
-(9) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary's findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
+(9) Any aggrieved person who, after a hearing, is adversely affected by a final order issuedunder this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary's findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
 
 (10) All penalties and fines collected under this section shall be deposited into the Highway Trust Fund (other than the Mass Transit Account).
 
@@ -154,7 +154,7 @@ Historical and Revision Notes
 
 Oct. 15, 1966, Pub. L. 89–670, §6(f)(2), 80 Stat. 940.
 
-The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for anexplanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
+The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
 
 &nbsp;
 
@@ -167,7 +167,7 @@ See the revision notes for the revised section for an explanation of changes mad
 
 In subsection (a)(3), the words "against heat and cold" are inserted for consistency with sections 11105 and 11901 of the revised title.
 
-Subsection (b) does not apply to motor carriers of migrant workers and motor private carriers because 49:322(h) (1st sentence) only applies to motor carriers and 49:304(a)(3) and (3a) do not apply 49:322(h) (1st sentence) to motor carriers of migrant workers and motor private carriers. The reference to 49:303(c), 306(a)(1), and 309(a)(1) is omitted as not applicable to this chapter.
+Subsection (b) does not apply to motor carriers of migrant workers and motor private carriers because 49:322(h) (1st sentence) only applies to motor carriersand 49:304(a)(3) and (3a) do not apply 49:322(h) (1st sentence) to motor carriers of migrant workers and motor private carriers. The reference to 49:303(c), 306(a)(1), and 309(a)(1) is omitted as not applicable to this chapter.
 
 #### <b>Editorial Notes</b>
 
@@ -233,7 +233,7 @@ Subsec. (b)(6)(A). Pub. L. 103–272, §5(m)(11)(F), substituted "subchapter III
 
 Subsec. (b)(6)(B)(i). Pub. L. 103–272, §5(m)(11)(G), substituted "section 31302, 31303(b) or (c), 31304, 31305(b), or 31310(g)(1)(A) of this title" for "section 12002, 12003(b), 12003(c), 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986".
 
-Subsec. (b)(6)(B)(ii). Pub. L. 103–272, §5(m)(11)(H), substituted "section 31301 of this title" for "section 12019 of such Act", "section 31303(a) of this title" for "section 12003(a) of such Act", and "section 31303(a)" for "such section 12003(a)".
+Subsec. (b)(6)(B)(ii). Pub. L. 103–272, §5(m)(11)(H), substituted "section 31301 of this title" for "section 12019of such Act", "section 31303(a) of this title" for "section 12003(a) of such Act", and "section 31303(a)" for "such section 12003(a)".
 
 Subsec. (b)(12). Pub. L. 103–272, §5(m)(11)(I), substituted "chapter 51 of this title" for "any provision of the Hazardous Materials Transportation Act (49 U.S.C. App. 1801–1812)" and "chapter 51" for "such Act".
 

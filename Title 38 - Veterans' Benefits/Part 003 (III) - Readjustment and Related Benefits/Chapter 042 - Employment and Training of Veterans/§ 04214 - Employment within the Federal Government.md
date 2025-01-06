@@ -70,7 +70,7 @@ Such Act, referred to in subsec. (c), means Pub. L. 93–112, Sept. 26, 1973, 87
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted "life" for "life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers" in first sentence, "uniquely qualified" for "major" in second sentence, and "qualified covered veterans (as defined in paragraph (2)(B))" for "disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era" in third sentence.
 
-Subsec. (a)(2). Pub. L. 107–288, §2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For the purposes of this section, the term 'agency' means a department, agency, or instrumentality in the executive branch."
+Subsec. (a)(2). Pub. L. 107–288, §2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "For the purposes of this section, the term 'agency' means a department, agency, or instrumentality in the executive branch."
 
 Subsec. (b)(1). Pub. L. 107–288, §2(c)(2)(A), substituted "recruitment" for "readjustment" in introductory provisions.
 
@@ -98,7 +98,7 @@ Subsec. (b)(3)(B)(ii). Pub. L. 102–568, §505(b)(2), substituted "December 31"
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2014 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–16, §9(a), substituted "The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States" for "It is the policy of the UnitedStates" and "disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era" for "certain veterans of the Vietnam era and veterans of the post-Vietnam era".
+Subsec. (a)(1). Pub. L. 102–16, §9(a), substituted "The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States" for "It is the policy of the United States" and "disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era" for "certain veterans of the Vietnam era and veterans of the post-Vietnam era".
 
 Subsec. (b)(1)(A). Pub. L. 102–16, §9(b)(1)(A), substituted "up to and including the level GS–11 or its equivalent" for "up to and including the level GS–9 or its equivalent or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent".
 
@@ -230,7 +230,79 @@ Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note undersection 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+
+#### Warrior Training Advancement Course
+
+Pub. L. 118–210, title II, §223(a), (b), Jan. 2, 2025, 138 Stat. 2780, 2781, provided that:
+
+"(a)
+
+Reports Required.—
+
+&emsp;"(1)
+
+Initial report.—Not later than six months after the date of the enactment of this Act \[Jan. 2, 2025\], the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on WARTAC.
+
+&emsp;"(2)
+
+Annual report.—One year after the submission of the report required under paragraph (1) and annually thereafter, the Secretary shall submit to such Committees a report that contains the elements under paragraphs (1) and (3) of subsection (b) \[probably should be "subparagraphs (A) and (C) of paragraph (3)"\] with regards to the preceding year.
+
+&emsp;"(3)
+
+Elements.—Except as provided in subsection (a)(2), the reports under this subsection shall include the following elements:
+
+&emsp;&emsp;"(A)
+
+Best practices.—With regards to best practices of WARTAC—
+
+&emsp;&emsp;&emsp;"(i) how many covered members have applied to participate in WARTAC;
+
+&emsp;&emsp;&emsp;"(ii) how many covered members have participated in WARTAC;
+
+&emsp;&emsp;&emsp;"(iii) how the Secretary provides training to covered members during TAP;
+
+&emsp;&emsp;&emsp;"(iv) how many covered members have completed WARTAC; and
+
+&emsp;&emsp;&emsp;"(v) any other information the Secretary determines appropriate.
+
+&emsp;&emsp;"(B)
+
+Cost savings.—With regards to cost savings of WARTAC—
+
+&emsp;&emsp;&emsp;"(i) how much money the Secretary determines WARTAC saves the United States each fiscal year;
+
+&emsp;&emsp;&emsp;"(ii) how much money the Secretary determines WARTAC has saved the United States since its establishment; and
+
+&emsp;&emsp;&emsp;"(iii) the determination of the Secretary whether other Federal agencies may save money by establishing a program similar to WARTAC.
+
+&emsp;&emsp;"(C)
+
+Hiring.—With regards to hiring covered members who complete WARTAC—
+
+&emsp;&emsp;&emsp;"(i) how the Secretary identifies positions in the Department of Veterans Affairs for which such covered members may qualify;
+
+&emsp;&emsp;&emsp;"(ii) the grades of such positions on the General Schedule under section 5332 of title 5, United States Code; and
+
+&emsp;&emsp;&emsp;"(iii) how many such covered members the Secretary has hired to such positions.
+
+&emsp;"(4)
+
+Distribution.—Not later than 30 days after submitting the report under paragraph (1), the Secretary of Veterans Affairs shall transmit a copy of such report to the head of each Federal agency.
+
+&emsp;"(5)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A) The term 'covered member' means members of the Armed Forces participating in TAP.
+
+&emsp;&emsp;"(B) The term 'TAP' means the Transition Assistance Program under sections 1142 and 1144 of title 10, United States Code.
+
+&emsp;&emsp;"(C) The term 'WARTAC' means the Warrior Training Advancement Course of the Veterans Benefit Administration, in which the Secretary provides training to covered members so such covered members may qualify for certain employment in the Veterans Benefit Administration.
+
+"(b)
+
+Best Practices for Other Departments.—The Assistant Secretary of Labor for Veterans' Employment and Training shall, in consultation with the Secretary of Veterans Affairs, establish guidelines containing best practices for departments and agencies of the Federal Government that carry out programs to employ veterans who are transitioning from service in the Armed Forces. Such guidelines shall include the findings of the initial report required under subsection (a)(1)."
 
 #### Employment Assistance: Other Federal Agencies
 
@@ -268,5 +340,5 @@ Other office.—If an agency designated under paragraph (2)(A) does not have a V
 
 #### Contents of Reports on Veterans' Readjustment Appointments
 
-Pub. L. 95–454, title III, §307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amended by Pub. L. 102–83, §5(c)(2), Aug.6, 1991, 105 Stat. 406, provided that: "The Director of the Office of Personnel Management shall include in the reports required by section 4214(d) \[formerly 2014(d)\] of title 38, United States Code, the same type of information regarding the use of the authority provided in section 3112 of title 5, United States Code (as added by paragraph (1) of this subsection), as is required by such section 4214 with respect to the use of the authority to make veterans readjustment appointments."
+Pub. L. 95–454, title III, §307(b)(2), Oct. 13, 1978, 92 Stat. 1147, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "The Director of the Office of Personnel Management shall include in the reports required by section 4214(d) \[formerly 2014(d)\] of title 38, United States Code, the same type of information regarding the use of the authority provided in section 3112 of title 5, United States Code (as added by paragraph (1) of this subsection), as is required by such section 4214 with respect to the use of the authority to make veterans readjustment appointments."
 

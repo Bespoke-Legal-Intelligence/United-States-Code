@@ -74,7 +74,7 @@ For purposes of subsection (a), an amount received by a cooperative housing corp
 
 #### (1) In general
 
-&emsp;The Secretary may prescribe, by regulations, that any person who, in the course of atrade or business, receives from any individual premiums for mortgage insurance aggregating $600 or more for any calendar year, shall make a return with respect to each such individual. Such return shall be in such form, shall be made at such time, and shall contain such information as the Secretary may prescribe.
+&emsp;The Secretary may prescribe, by regulations, that any person who, in the course of a trade or business, receives from any individual premiums for mortgage insurance aggregating $600 or more for any calendar year, shall make a return with respect to each such individual. Such return shall be in such form, shall be made at such time, and shall contain such information as the Secretary may prescribe.
 
 #### (2) Statement to be furnished to individuals with respect to whom information is required
 

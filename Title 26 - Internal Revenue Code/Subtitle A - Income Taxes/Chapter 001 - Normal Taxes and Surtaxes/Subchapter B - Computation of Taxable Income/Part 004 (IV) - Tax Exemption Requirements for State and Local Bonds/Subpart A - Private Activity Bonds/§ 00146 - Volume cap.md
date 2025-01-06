@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-A private activity bond issued as part of an issue meets the requirements of this section if the aggregate face amount of the private activity bonds issued pursuant to such issue, when added to the aggregate face amount of tax-exempt private activity bonds previously issued by the issuing authority during the calendar year, does not exceed such authority's volume cap for such calendar year.
+A private activity bond issued as part of an issue meets the requirements of this section ifthe aggregate face amount of the private activity bonds issued pursuant to such issue, when added to the aggregate face amount of tax-exempt private activity bonds previously issued by the issuing authority during the calendar year, does not exceed such authority's volume cap for such calendar year.
 
 #### (b) Volume cap for State agencies
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of calendar year 2008, the State ceiling for each State shall be increased by an amount equal to $11,000,000,000 multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is the State ceiling applicable to the State for calendar year 2008, determined without regard to this paragraph, and
+&emsp;&emsp;&emsp;(i) the numerator of which is the State ceiling applicable to the State for calendaryear 2008, determined without regard to this paragraph, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is the sum of the State ceilings determined under clause (i) for all States.
 

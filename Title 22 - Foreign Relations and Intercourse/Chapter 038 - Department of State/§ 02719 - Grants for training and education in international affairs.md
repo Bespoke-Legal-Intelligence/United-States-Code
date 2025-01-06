@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of State may make grants to postsecondary educational institutions or students for the purpose of increasing the level of knowledge and awareness of and interest in employment with the Foreign Service or the Civil Service, consistent with section 3905 of this title. To the extent possible, the Secretary shall give special emphasis to promoting such knowledge and awareness of, and interest in employment with, the Foreign Service or the Civil Service among minority students. Any grants awarded shall be made pursuant to regulations to be established by the Secretary of State, which shall provide for a limit on the size of any specific grant and, regarding any grants to individuals, shall ensure that no grant recipient receives an amount of grants from one or more Federal programs which in the aggregate would exceed the cost of his or her education, and shall require satisfactory educational progress by grantees as a condition of eligibility for continued receipt of grant funds.
+The Secretary of State may make grants to postsecondary educational institutions or students for the purpose of increasing the level of knowledge and awareness of and interest in employment with the Foreign Service or the Civil Service, consistent with section 3905 of this title. To the extent possible, the Secretary shall give special emphasis to promoting such knowledge and awareness of, and interest in employment with, the Foreign Service or the Civil Service among minority students. Any grants awarded shall be made pursuant to regulationsto be established by the Secretary of State, which shall provide for a limit on the size of any specific grant and, regarding any grants to individuals, shall ensure that no grant recipient receives an amount of grants from one or more Federal programs which in the aggregate would exceed the cost of his or her education, and shall require satisfactory educational progress by grantees as a condition of eligibility for continued receipt of grant funds.
 
 #### (b) Diplomatic Security fellowship programs
 
@@ -34,7 +34,7 @@ A prior section 47 of act Aug. 1, 1956, was renumbered section 48 by section 150
 
 <b>2023</b>—Pub. L. 118–31 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>2022</b>—Pub. L. 117–263 inserted "or the Civil Service" after "with the Foreign Service" in first sentence and"or the Civil Service" after "Foreign Service" in second sentence. Technical amendment to reference in original act which appears in text as reference to section 3905 of this title could not be executed.
+<b>2022</b>—Pub. L. 117–263 inserted "or the Civil Service" after "with the Foreign Service" in first sentence and "or the Civil Service" after "Foreign Service" in second sentence. Technical amendment to reference in original act which appears in text as reference to section 3905 of this title could not be executed.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

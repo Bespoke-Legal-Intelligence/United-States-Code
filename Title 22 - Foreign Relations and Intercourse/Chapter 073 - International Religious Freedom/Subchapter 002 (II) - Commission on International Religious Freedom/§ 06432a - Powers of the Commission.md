@@ -10,7 +10,7 @@ The Commission may secure directly from any Federal department or agency such in
 
 #### (c) Postal services
 
-The Commission may use the United States mails in the same manner and under the sameconditions as other departments and agencies of the Federal Government.
+The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
 #### (d) Administrative procedures
 

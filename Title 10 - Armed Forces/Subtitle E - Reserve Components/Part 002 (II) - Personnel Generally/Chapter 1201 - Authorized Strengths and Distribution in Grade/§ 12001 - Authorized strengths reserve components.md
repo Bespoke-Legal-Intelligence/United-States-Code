@@ -22,6 +22,38 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Notice to Congress Regarding Reapportionment of National Guard Force Structure
+
+Pub. L. 118–159, div. A, title V, §515, Dec. 23, 2024, 138 Stat. 1879, provided that:
+
+"(a)
+
+In General.—Not later than 60 days before reapportioning the force structure of the National Guard of a State, including by converting a position into a military technician (dual status), the Chief of the National Guard Bureau, in consultation with the Secretary of the military department concerned, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a notice of such reapportionment.
+
+"(b)
+
+Form; Elements.—A notice under subsection (a)—
+
+&emsp;"(1) may be submitted in unclassified form with a classified annex; and
+
+&emsp;"(2) shall include the following elements:
+
+&emsp;&emsp;"(A) A description of such reapportionment, including the number of such conversions and any changes to the number of personnel.
+
+&emsp;&emsp;"(B) A description of the projected operational effect of such reapportionment on the mission of the National Guard of such State.
+
+&emsp;&emsp;"(C) A description of any end strength requirements that justify such reapportionment.
+
+&emsp;&emsp;"(D) Recommendations for any change to statutory end strengths that may be necessary to offset such requirements.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'military technician (dual status)' has the meaning given such term in section 10216 of title 10, United States Code.
+
+&emsp;"(2) The term 'State' has the meaning given such term in section 901 of title 32, United States Code."
+
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
 Pub. L. 109–163, div. A, title IV, §§411, 412, Jan. 6, 2006, 119 Stat. 3220, 3221, which authorized end strengths for Selected Reserve personnel of the reserve components and for Reserves on active duty in support of the Reserves as of the last day of a fiscal year was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
@@ -122,7 +154,7 @@ Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as ame
 
 #### Program for Active Component Support of Reserves
 
-Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 1883, 1884, prohibited the Secretary of the Army from reducing the number of active component Reserve support personnel below the number of such personnel as of Oct. 28, 2004, until the Secretary of the Army submitted to the Committees on Armed Services of the Senate and House of Representatives, not later than Mar. 31, 2005, a report on the support by active components of the Army for training and readiness of the Army National Guard and Army Reserve.
+Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 1883, 1884, prohibited the Secretary of the Army from reducing the number of active component Reserve support personnel below the number of such personnel as of Oct. 28, 2004, until the Secretary of the Army submitted to the Committees on Armed Services of the Senate and House of Representatives, not later than Mar. 31, 2005, a report on the support by activecomponents of the Army for training and readiness of the Army National Guard and Army Reserve.
 
 Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, provided that:
 
@@ -134,7 +166,7 @@ Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, pro
 
 &emsp;"(B) The promotion rate for officers considered for promotion from below the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared in the same manner as specified in subparagraph (A)."
 
-Pub. L. 102–190, div. A, title IV, §414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, §511(b), title XI, §1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, §517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, §413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div.A, title IV, §413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, §545(b), Sept. 23, 1996, 110 Stat. 2524; Pub. L. 106–65, div. A, title X, §1066(d)(2), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title V, §515(a), Oct. 28, 2004, 118 Stat. 1883, provided that:
+Pub. L. 102–190, div. A, title IV, §414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, §511(b), title XI, §1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, §517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, §413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div. A, title IV, §413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, §545(b), Sept. 23, 1996, 110 Stat. 2524; Pub. L. 106–65, div. A, title X, §1066(d)(2), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title V, §515(a), Oct. 28, 2004, 118 Stat. 1883, provided that:
 
 "(a)
 

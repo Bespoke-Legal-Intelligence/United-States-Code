@@ -28,7 +28,7 @@ In this chapter:
 
 #### (7) International voyage
 
-&emsp;The term "international voyage" means a voyage by a vessel entitled to fly the flag of one country to or from a port, shipyard, offshore terminal, or other place under the jurisdiction of another country.
+&emsp;The term "international voyage" means a voyage by a vessel entitled to fly the flag ofone country to or from a port, shipyard, offshore terminal, or other place under the jurisdiction of another country.
 
 #### (8) Organotin
 

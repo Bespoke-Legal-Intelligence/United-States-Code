@@ -20,11 +20,11 @@ Duties and Qualifications.—The Chief Information Officer of an agency listed i
 
 &emsp;(1) has information resources management duties as that official's primary duty;
 
-&emsp;(2) monitors the performance of information technology programs of the agency, evaluates the performance of those programs on the basis of the applicable performance measurements, and advises the head of the agency regarding whether to continue, modify, or terminate a program or project; and
+&emsp;(2) monitors the performance of information technology programs of the agency, evaluatesthe performance of those programs on the basis of the applicable performance measurements, and advises the head of the agency regarding whether to continue, modify, or terminate a program or project; and
 
 &emsp;(3) annually, as part of the strategic planning and performance evaluation process required (subject to section 1117 of title 31) under section 306 of title 5 and sections 1105(a)(28), 1115–1117, and 9703 (as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)) of title 31—
 
-&emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledgeand skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
+&emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
 
 &emsp;&emsp;(B) assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
 
@@ -122,7 +122,7 @@ Sec. 7. <i>Knowledge and Skill Standards for IT Personnel</i>. The head of each 
 
 Sec. 8. <i>Chief Information Officer Role on IT Governance Boards</i>. Wherever appropriate and consistent with applicable law, the head of each covered agency shall ensure that the CIO shall be a member of any investment or related board of the agency with purview over IT, or any board responsible for setting agency-wide IT standards. The head of each covered agency shall also, as appropriate and consistent with applicable law, direct the CIO to chair any such board. To the extent any such board operates through member votes, the head of each covered agency shall also, as appropriate and consistent with applicable law, direct the CIO to fulfill the role of voting member.
 
-Sec. 9. <i>Chief Information Officer Hiring Authorities</i>. The Director of OPM (Director) shall publish a proposed rule delegating to the head of each covered agency authority to determine whether there is a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates), or that a critical hiring need exists, for IT positions at the covered agency pursuant to 5 U.S.C. 3304(a)(3), under criteria established by OPM.
+Sec. 9. <i>Chief Information Officer Hiring Authorities</i>. The Director of OPM (Director) shall publish a proposed rule delegating to the head of each covered agency authority to determine whether there is a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates), or that a critical hiring need exists, for IT positions at the covered agency pursuant to 5 U.S.C. 3304(a)(3) \[now 3304(b)(3)\], under criteria established by OPM.
 
 (a) Such proposed rule shall provide that, upon an affirmative determination by the head of a covered agency that there is a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates), or that a critical hiring need exists for IT positions, under the criteria established by OPM, the Director shall, within 30 days, grant that agency direct hiring authority for IT positions.
 

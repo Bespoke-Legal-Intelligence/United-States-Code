@@ -10,7 +10,7 @@ Certificate.—The term "certificate" means a certificate of financial responsib
 
 &emsp;(2)
 
-Passenger vessel.—The term "passenger vessel" means a vessel of similar size,or offering similar service, as any other vessel transporting passengers under subsection (b).
+Passenger vessel.—The term "passenger vessel" means a vessel of similar size, or offering similar service, as any other vessel transporting passengers under subsection (b).
 
 (b)
 

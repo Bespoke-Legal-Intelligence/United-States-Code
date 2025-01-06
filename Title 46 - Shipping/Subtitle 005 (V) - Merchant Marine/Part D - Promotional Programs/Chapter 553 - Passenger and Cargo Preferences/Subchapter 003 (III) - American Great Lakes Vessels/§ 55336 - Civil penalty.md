@@ -1,6 +1,6 @@
 ### §55336. Civil penalty
 
-After notice and an opportunity for a hearing, the Secretary of Transportation may impose acivil penalty of not more than $1,000,000 on the owner of an American Great Lakes vessel for any act for which the designation may be revoked under section 55335 of this title.
+After notice and an opportunity for a hearing, the Secretary of Transportation may impose a civil penalty of not more than $1,000,000 on the owner of an American Great Lakes vessel for any act for which the designation may be revoked under section 55335 of this title.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1650.)
 

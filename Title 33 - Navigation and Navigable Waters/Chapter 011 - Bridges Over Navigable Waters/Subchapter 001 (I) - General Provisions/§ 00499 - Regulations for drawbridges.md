@@ -6,7 +6,7 @@ It shall be the duty of all persons owning, operating, and tending the drawbridg
 
 #### (b) Nonstructural vessel appurtenances; unreasonable delays
 
-No vessel owner or operator shall signal a drawbridge to open for any nonstructural vessel appurtenance which is not essential to navigation or which is easily lowered and no person shall unreasonably delay the opening of a draw after the signal required by rules or regulations under this section has been given. The Secretary of the department in which the Coast Guard is operating shall issue rules and regulations to implement this subsection.
+No vessel owner or operator shall signal a drawbridge to open for any nonstructural vessel appurtenance which is not essential to navigation or which is easily lowered and no person shall unreasonably delay the opening of a drawafter the signal required by rules or regulations under this section has been given. The Secretary of the department in which the Coast Guard is operating shall issue rules and regulations to implement this subsection.
 
 #### (c) Civil penalties for violation; notice and hearing; assessment, collection, and remission; civil actions
 

@@ -8,5 +8,5 @@ For the purpose of providing breeding places and for the protection and administ
 
 #### Presidential Designation
 
-Areas comprising the Ouachita National Wildlife Preserve, formerly known as the Muddy Creek Refuge, were designated by Proclamations of Mar. 8, 1935 (49 Stat. 3439), and Oct. 29, 1938 (53 Stat. 2495).
+Areas comprising the Ouachita National Wildlife Preserve, formerly known as the Muddy Creek Refuge,were designated by Proclamations of Mar. 8, 1935 (49 Stat. 3439), and Oct. 29, 1938 (53 Stat. 2495).
 

@@ -328,7 +328,7 @@ Subsec. (i). Pub. L. 112–141, §1313(g)(1), redesignated subsec. (h) as (i). F
 
 Subsec. (i)(1). Pub. L. 112–140 substituted "September 30, 2012" for "the date that is 7 years after the date of enactment of this section".
 
-Subsec. (j). Pub. L. 112–141, §1313(h), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to termination of the original pilot program on Sept. 30, 2012, and termination of State participation by the Secretary.
+Subsec. (j). Pub. L. 112–141, §1313(h), amended subsec. (j) generally. Prior to amendment, subsec. (j) related totermination of the original pilot program on Sept. 30, 2012, and termination of State participation by the Secretary.
 
 Pub. L. 112–141, §1313(g)(1), redesignated subsec. (i) as (j).
 

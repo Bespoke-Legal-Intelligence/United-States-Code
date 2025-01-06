@@ -4,7 +4,7 @@
 
 #### (1) Report required
 
-&emsp;The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
+&emsp;The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate,subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
 
 &emsp;&emsp;(A) the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861,<sup>1</sup> 1881a, 1881b, and 1881c of this title;
 
@@ -14,9 +14,11 @@
 
 &emsp;&emsp;(D) the number of applications or certifications denied under each of those sections;
 
-&emsp;&emsp;(E) the number of appointments of an individual to serve as amicus curiae under section 1803 of this title, including the name of each individual appointed to serve as amicus curiae; and
+&emsp;&emsp;(E) the number of appointments of an individual to serve as amicus curiae under section 1803 of this title, including the name of each individual appointed to serve as amicus curiae;
 
-&emsp;&emsp;(F) the number of findings issued under section 1803(i) of this title that such appointment is not appropriate and the text of any such findings.
+&emsp;&emsp;(F) the number of findings issued under section 1803(i) of this title that such appointment is not appropriate and the text of any such findings; and
+
+&emsp;&emsp;(G) the number of times the Foreign Intelligence Surveillance Court and the Foreign Intelligence Surveillance Court of Review exercised authority under chapter 21 of title 18 and a description of each use of such authority.
 
 #### (2) Publication
 
@@ -38,7 +40,7 @@ Except as provided in subsection (d), the Director of National Intelligence shal
 
 &emsp;&emsp;(A) the number of targets of such orders;
 
-&emsp;&emsp;(B) the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
+&emsp;&emsp;(B) the number of search terms concerning a known United States person used to retrieve the unminimized contents (or combined unminimized contents and noncontents information) of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
 
 &emsp;&emsp;(C) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; <sup>2</sup>
 
@@ -82,15 +84,9 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 &emsp;If a good faith estimate required to be reported under subparagraph (B) of any of paragraphs (3), (5), or (6) of subsection (b) is fewer than 500, it shall be expressed as a numerical range of "fewer than 500" and shall not be expressed as an individual number.
 
-#### (2) Nonapplicability to certain information
+#### (2) Nonapplicability to electronic mail address and telephone numbers
 
-#### (A) Federal Bureau of Investigation
-
-&emsp;&emsp;Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except with respect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title.
-
-#### (B) Electronic mail address and telephone numbers
-
-&emsp;&emsp;Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
+&emsp;Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
 
 #### (3) Certification
 
@@ -98,7 +94,7 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 &emsp;&emsp;If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(C) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
 
-&emsp;&emsp;&emsp;(i) certify that conclusion in writing to the Select Committee on Intelligence andthe Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
+&emsp;&emsp;&emsp;(i) certify that conclusion in writing to the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
 
 &emsp;&emsp;&emsp;(ii) report the good faith estimate for those relevant elements able to provide such good faith estimate;
 
@@ -114,7 +110,37 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 &emsp;&emsp;If the Director of National Intelligence continues to conclude that the good faith estimates described in this paragraph cannot be determined accurately, the Director shall annually submit a certification in accordance with this paragraph.
 
-#### (e) Definitions
+#### (e) Mandatory reporting by Director of Federal Bureau of Investigation
+
+The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, a report describing the accountability actions taken by the Federal Bureau of Investigation in the preceding 12-month period for noncompliant querying of information acquired under section 1881a of this title and any such actions taken pursuant to section 1803(m) of this title, to include the number of ongoing personnel investigations, the outcome of any completed personnel investigations and any related adverse personnel actions taken.
+
+#### (f) Mandatory reporting on section 1881a of this title by Director of Federal Bureau of Investigation
+
+#### (1) Annual report
+
+&emsp;The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate a report that includes—
+
+&emsp;&emsp;(A) the number of United States person queries by the Federal Bureau of Investigation of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title;
+
+&emsp;&emsp;(B) the number of approved queries using the Federal Bureau of Investigation's batch job technology, or successor tool;
+
+&emsp;&emsp;(C) the number of queries using the Federal Bureau of Investigation's batch job technology, or successor tool, conducted by the Federal Bureau of Investigation against information acquired pursuant to section 1881a(a) of this title for which pre-approval was not obtained due to emergency circumstances;
+
+&emsp;&emsp;(D) the number of United States person queries conducted by the Federal Bureau of Investigation of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title solely to retrieve evidence of a crime;
+
+&emsp;&emsp;(E) a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title primarily to protect the United States person who is the subject of the query; and
+
+&emsp;&emsp;(F) a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title where the United States person who is the subject of the query is a target or subject of an investigation by the Federal Bureau of Investigation.
+
+#### (2) Public availability
+
+&emsp;Subject to declassification review by the Attorney General and the Director of National Intelligence, each annual report submitted pursuant to paragraph (1) shall be available to the public during the first April following the calendar year covered by the report.
+
+#### (3) Quarterly report
+
+&emsp;Beginning on the date that is not later than 1 year after the effective date of this paragraph, the Director of the Federal Bureau of Investigation shall submit a quarterly report to the congressional intelligence committees and to the Committees on the Judiciary of the House of Representatives and of the Senate that includes the number of U.S. person queries conducted during that quarter.
+
+#### (g) Definitions
 
 In this section:
 
@@ -146,7 +172,7 @@ In this section:
 
 &emsp;The term "wire communication" has the meaning given that term under section 2510 of title 18.
 
-(Pub. L. 95–511, title VI, §603, as added Pub. L. 114–23, title VI, §602(a), June 2, 2015, 129 Stat. 292; amended Pub. L. 115–118, title I, §102(b), Jan. 19, 2018, 132 Stat. 9.)
+(Pub. L. 95–511, title VI, §603, as added Pub. L. 114–23, title VI, §602(a), June 2, 2015, 129 Stat. 292; amended Pub. L. 115–118, title I, §102(b), Jan. 19, 2018, 132 Stat. 9; Pub. L. 118–49, §§11(a)(1), 12(a), 14(b), Apr. 20, 2024, 138 Stat. 878, 879, 882.)
 
 #### <b>Editorial Notes</b>
 
@@ -154,9 +180,23 @@ In this section:
 
 Section 1861 of this title, referred to in subsecs. (a)(1)(A) and (b)(5), (6), means section 1861 of this title prior to the amendment of section 1861 by Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under section 1805 of this title, which amended section 1861 of this title, effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
 
-This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, known as the Foreign Intelligence Surveillance Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+For the effective date of this paragraph, referred to in subsec. (f)(3), see Effective Date of 2024 Amendment note below.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(G). Pub. L. 118–49, §14(b), added subpar. (G).
+
+Subsec. (b)(2)(B). Pub. L. 118–49, §11(a)(1)(A), inserted "(or combined unminimized contents and noncontents information)" after "unminimized contents".
+
+Subsec. (d)(2). Pub. L. 118–49, §11(a)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) related to nonapplicability to certain information, consisting of subpar. (A) relating to certain information held by or queries conducted by the Federal Bureau of Investigation and subpar. (B) relating to electronic mail address and telephone numbers.
+
+Subsec. (e). Pub. L. 118–49, §12(a)(2), added subsec. (e). Former subsec. (e) redesignated (g).
+
+Subsec. (f). Pub. L. 118–49, §11(a)(1)(C), added subsec. (f).
+
+Subsec. (g). Pub. L. 118–49, §12(a)(1), redesignated subsec. (e) as (g).
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–118, §102(b)(1)(A), substituted "good faith estimate of—" for "good faith estimate of the number of targets of such orders;" and added subpars. (A) to (C).
 
@@ -171,6 +211,12 @@ Subsec. (d)(1). Pub. L. 115–118, §102(b)(2)(A), substituted "(5), or (6)" for
 Subsec. (d)(2)(A). Pub. L. 115–118, §102(b)(2)(B), substituted "Paragraphs (2)(B), (2)(C), and (6)(C)" for "Paragraphs (2)(A), (2)(B), and (5)(C)" and inserted before period at end ", except with respect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title".
 
 Subsec. (d)(3)(A). Pub. L. 115–118, §102(b)(2)(C), substituted "subsection (b)(2)(C)" for "subsection (b)(2)(B)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–49, §11(a)(2), Apr. 20, 2024, 138 Stat. 879, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on January 1, 2025."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

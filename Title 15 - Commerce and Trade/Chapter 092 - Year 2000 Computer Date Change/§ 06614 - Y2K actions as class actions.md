@@ -66,7 +66,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 #### (d) Effect on rules of civil procedure
 
-Except as otherwise provided in this section, nothing in this section supersedes any rule of Federal or State civil procedure applicable to class actions.
+Except as otherwise provided in this section, nothing in this section supersedes any rule ofFederal or State civil procedure applicable to class actions.
 
 (Pub. L. 106–37, §15, July 20, 1999, 113 Stat. 201.)
 

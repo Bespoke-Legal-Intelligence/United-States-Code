@@ -22,13 +22,13 @@ To carry out the purposes of subsection (a), the following types of programs for
 
 Activities that may be supported by programs under subsection (b) include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
 
-(Pub. L. 87–195, pt. I, §499B, as added Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–124; amended Pub. L. 115–254, div. F, title VI, §1470(j)(2), Oct. 5, 2018, 132 Stat. 3517.)
+(Pub. L. 87–195, pt. I, §499B, as added Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(b)\], Nov.29, 1999, 113 Stat. 1535, 1501A–124; amended Pub. L. 115–254, div. F, title VI, §1470(j)(2), Oct. 5, 2018, 132 Stat. 3517.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Export-Import Bank Act of 1945, referred to in subsec. (b)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter I (§635 etseq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+The Export-Import Bank Act of 1945, referred to in subsec. (b)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ The Office of Management and Budget shall—
 
 #### (d) Delegation and assignment
 
-Except where otherwise expressly prohibited by law or otherwise provided by this section, theAdministrator of the Administration for Community Living may delegate any of the functions transferred to the Administrator of such Administration by subsection (b) and any function described in subsection (b) that was transferred or granted to such Administrator after the effective date of this section to such officers and employees of such Administration as the Administrator may designate, and may authorize successive redelegations of such functions described in subsection (b) as may be necessary or appropriate. No delegation of such functions by the Administrator of the Administration for Community Living under this subsection or under any other provision of this section shall relieve such Administrator of responsibility for the administration of such functions.
+Except where otherwise expressly prohibited by law or otherwise provided by this section, the Administrator of the Administration for Community Living may delegate any of the functions transferred to the Administrator of such Administration by subsection (b) and any function described in subsection (b) that was transferred or granted to such Administrator after the effective date of this section to such officers and employees of such Administration as the Administrator may designate, and may authorize successive redelegations of such functions described in subsection (b) as may be necessary or appropriate. No delegation of such functions by the Administrator of the Administration for Community Living under this subsection or under any other provision of this section shall relieve such Administrator of responsibility for the administration of such functions.
 
 #### (e) Reorganization
 
@@ -48,7 +48,7 @@ The Director of the Office of Management and Budget, at such time or times as th
 
 #### (1) Continuing effect of legal documents
 
-&emsp;All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+&emsp;All orders, determinations, rules, regulations, permits, agreements, grants, contracts,certificates, licenses, registrations, privileges, and other administrative actions—
 
 &emsp;&emsp;(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under subsection (b); and
 
@@ -66,7 +66,7 @@ The Director of the Office of Management and Budget, at such time or times as th
 
 #### (4) Nonabatement of actions
 
-&emsp;No suit, action, or other proceeding commenced by or against the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), or by or against any individual in the official capacityof such individual as an officer of the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), shall abate by reason of the enactment of this section.
+&emsp;No suit, action, or other proceeding commenced by or against the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), or by or against any individual in the official capacity of such individual as an officer of the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), shall abate by reason of the enactment of this section.
 
 #### (5) Administrative actions relating to promulgation of regulations
 

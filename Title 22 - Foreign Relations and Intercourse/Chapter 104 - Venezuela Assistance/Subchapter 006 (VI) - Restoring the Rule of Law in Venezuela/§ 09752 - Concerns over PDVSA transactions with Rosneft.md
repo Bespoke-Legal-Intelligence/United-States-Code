@@ -28,7 +28,7 @@ The President shall take all necessary steps to prevent Rosneft from gaining con
 
 #### (d) Security risk report
 
-Not later than 90 days after December 20, 2019, the President shall submit a report assessingthe national security risks posed by potential Russian acquisition and control of CITGO's United States energy infrastructure holdings to—
+Not later than 90 days after December 20, 2019, the President shall submit a report assessing the national security risks posed by potential Russian acquisition and control of CITGO's United States energy infrastructure holdings to—
 
 &emsp;(1) the Committee on Foreign Relations of the Senate;
 

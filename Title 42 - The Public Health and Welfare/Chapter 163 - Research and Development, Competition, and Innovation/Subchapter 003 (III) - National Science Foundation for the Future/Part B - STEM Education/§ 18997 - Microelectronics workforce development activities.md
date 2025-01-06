@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(B) To develop regional partnerships among associate-degree-granting colleges, bachelor-degree-granting institutions, workforce development programs, labor organizations, and industry to create a diverse national technical workforce trained in microelectronics and ensure education and training is meeting the evolving needs of industry.
 
-&emsp;&emsp;(C) To develop local workforce pipelines that align with capacity investments made by industry and the Federal government, including vocational and high school training programs, community college degrees and certificates, veteran post service opportunities, and mentoring.
+&emsp;&emsp;(C) To develop local workforce pipelines that align with capacity investments made by industry and the Federal government, including vocational and high school training programs, community college degrees andcertificates, veteran post service opportunities, and mentoring.
 
 &emsp;&emsp;(D) To facilitate partnerships with employers, employer consortia or other private sector organizations that offer apprenticeships, internships, or applied learning experiences in the field of microelectronics.
 

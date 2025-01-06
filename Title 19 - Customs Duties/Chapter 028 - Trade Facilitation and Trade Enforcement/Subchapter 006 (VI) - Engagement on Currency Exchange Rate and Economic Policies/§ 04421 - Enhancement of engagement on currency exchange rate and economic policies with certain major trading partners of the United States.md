@@ -154,7 +154,7 @@ In this section:
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### <b>Executive Documents</b>
 
@@ -180,7 +180,7 @@ Sec. 2. <i>Engagement on Currency Exchange Rate and Economic Policies</i>. (a) P
 
 Sec. 3. <i>General Provisions</i>. (a) In exercising authority delegated by or performing functions assigned in this order, the Secretaries of State, the Treasury, and Commerce and the U.S. Trade Representative and their delegees:
 
-(i) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive'sconstitutional duties; (C) recommend for congressional consideration such measures as the President may judge necessary or expedient; and (D) supervise the executive branch; and
+(i) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (C) recommend for congressional consideration such measures as the President may judge necessary or expedient; and (D) supervise the executive branch; and
 
 (ii) may redelegate authority delegated by this order and may further assign functions assigned by this order to officers of any other department or agency within the executive branch to the extent permitted by law, including section 301 of title 3, United States Code, and such redelegation or further assignment shall be published in the Federal Register.
 

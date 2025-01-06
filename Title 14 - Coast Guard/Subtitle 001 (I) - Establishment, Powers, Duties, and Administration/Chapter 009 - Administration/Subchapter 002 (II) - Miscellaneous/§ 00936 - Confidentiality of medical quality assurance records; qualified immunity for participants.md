@@ -22,11 +22,11 @@
 
 &emsp;(C) To a governmental board or agency or to a professional health care society or organization, if necessary to perform licensing, or privileging, or to monitor professional standards for a health care provider who is or was a member or an employee of the Coast Guard or the Public Health Service assigned to the Coast Guard.
 
-&emsp;(D) To a hospital, medical center, or other institution that provides health care services, if necessary to assess the professional qualifications of any health care provider who is or was a member or employee of the Coast Guard or the Public Health Service assigned to the Coast Guard and who has applied for or been granted authority or employment to provide health care services in or on behalf of the institution.
+&emsp;(D) To a hospital, medical center, or other institution that provides health care services,if necessary to assess the professional qualifications of any health care provider who is or was a member or employee of the Coast Guard or the Public Health Service assigned to the Coast Guard and who has applied for or been granted authority or employment to provide health care services in or on behalf of the institution.
 
 &emsp;(E) To an officer, member, employee, or contractor of the Coast Guard or the Public Health Service assigned to the Coast Guard if for official purposes.
 
-&emsp;(F) To a criminal or civil law enforcement agency or instrumentality charged under applicable law with the protection of the public health or safety, if a qualified representative of the agency or instrumentality makes awritten request that the record or testimony be provided for a purpose authorized by law.
+&emsp;(F) To a criminal or civil law enforcement agency or instrumentality charged under applicable law with the protection of the public health or safety, if a qualified representative of the agency or instrumentality makes a written request that the record or testimony be provided for a purpose authorized by law.
 
 &emsp;(G) In an administrative or judicial proceeding commenced by a criminal or civil law enforcement agency or instrumentality referred to in subparagraph (F), but only with respect to the subject of the proceeding.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense may provide civilian employees, and members of their families, abroad with benefits that are comparable to certain benefits that are provided by the Secretary of State to members of the Foreign Service and their families abroad as described in subsections (b) and (c). The Secretary may designate the employees and members of families who are eligible to receive the benefits.
+In General.—The Secretary of Defense may provide civilian employees, and members oftheir families, abroad with benefits that are comparable to certain benefits that are provided by the Secretary of State to members of the Foreign Service and their families abroad as described in subsections (b) and (c). The Secretary may designate the employees and members of families who are eligible to receive the benefits.
 
 (b)
 

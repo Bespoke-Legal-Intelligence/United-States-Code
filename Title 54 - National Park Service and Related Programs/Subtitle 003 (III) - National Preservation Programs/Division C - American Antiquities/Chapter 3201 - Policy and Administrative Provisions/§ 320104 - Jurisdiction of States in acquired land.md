@@ -1,6 +1,6 @@
 ### §320104. Jurisdiction of States in acquired land
 
-Nothing in this chapter shall be held to deprive any State, or political subdivision of a State, of its civil and criminal jurisdiction in and over land acquired by the United States under this chapter.
+Nothing in this chapter shall be held to deprive any State, or political subdivision of aState, of its civil and criminal jurisdiction in and over land acquired by the United States under this chapter.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3259.)
 

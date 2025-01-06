@@ -22,7 +22,7 @@ Notwithstanding any other provision of law (other than the Trafficking Victims P
 
 #### (b) Authorization of appropriations
 
-Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $80,000,000 is authorized to be appropriatedfor each such fiscal year to carry out this section.
+Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $80,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
 
 (Pub. L. 116–283, div. A, title XII, §1265, Jan. 1, 2021, 134 Stat. 3970.)
 

@@ -6,7 +6,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;(1)(A) Every individual having for the taxable year gross income which equals or exceeds the exemption amount, except that a return shall not be required of an individual—
 
-&emsp;&emsp;(i) who is not married (determined by applying section 7703), is not a survivingspouse (as defined in section 2(a)), is not a head of a household (as defined in section 2(b)), and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
+&emsp;&emsp;(i) who is not married (determined by applying section 7703), is not a surviving spouse (as defined in section 2(a)), is not a head of a household (as defined in section 2(b)), and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
 
 &emsp;&emsp;(ii) who is a head of a household (as so defined) and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
 
@@ -126,7 +126,7 @@ Subsec. (a)(8). Pub. L. 115–141, §401(a)(257), substituted "section 63(c)(2)(
 
 <b>1997</b>—Subsec. (b)(6). Pub. L. 105–34, §1225, added par. (6).
 
-Subsec. (c). Pub. L. 105–34, §312(d)(11), substituted "(relating to gain from sale of principal residence)" for"(relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55)".
+Subsec. (c). Pub. L. 105–34, §312(d)(11), substituted "(relating to gain from sale of principal residence)" for "(relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55)".
 
 <b>1988</b>—Subsec. (a)(1)(C)(i). Pub. L. 100–647 amended subcl. (I) generally, substituting "the sum of the amount in effect under section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled" for "the amount in effect under section 63(c)(5)(A) (relating to limitation on standard deduction in the case of certain dependents)".
 
@@ -168,7 +168,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1525(a), added subsec. (d) and redesignat
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 struck out "or section 6015(a)" after "subsection (a)".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §104(d)(1)(D), substituted "the exemption amount" for "$1,000", wherever appearing, substituted "the sum of the exemption amount plus the zero bracket amount applicable to such an individual" for "$3,300" in subpar. (A)(i) and for "$4,400" in subpar. (A)(ii), substituted "the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return" for "$5,400" in subpar. (A)(iii), and added subpar. (D).
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §104(d)(1)(D), substituted "the exemption amount" for "$1,000", wherever appearing, substituted "the sum of the exemption amount plus the zero bracket amount applicable to such an individual" for "$3,300" in subpar. (A)(i) and for "$4,400" in subpar. (A)(ii), substituted "the sum of twice the exemption amount plus the zero bracketamount applicable to a joint return" for "$5,400" in subpar. (A)(iii), and added subpar. (D).
 
 Subsec. (c). Pub. L. 97–34, §111(b)(3), substituted "relating to citizens or residents of the United States living abroad" for "relating to income earned by employees in certain camps".
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Pub. L. 99–514, title XV, §1525(b), Oct. 22, 1986, 100 Stat. 2749, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
@@ -292,7 +292,7 @@ Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years e
 
 Amendment by Pub. L. 94–164 applicable to taxable years ending after Dec. 31, 1975 and before Jan. 1, 1977, see section 2(g) of Pub. L. 94–164, set out as a note under section 32 of this title.
 
-Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to applyto taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to apply to taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
 
 #### Effective Date of 1974 Amendments
 

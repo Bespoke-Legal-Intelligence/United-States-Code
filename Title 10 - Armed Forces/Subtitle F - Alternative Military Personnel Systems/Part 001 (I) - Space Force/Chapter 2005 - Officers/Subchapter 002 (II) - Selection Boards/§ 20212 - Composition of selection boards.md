@@ -6,7 +6,7 @@ Appointment and Composition of Boards.—
 
 &emsp;(1)
 
-In general.—Members of a selection board shall be appointed by the Secretary of <sup>1</sup> Air Force in accordance with this section. A selection board shall consist of five or more officers of the Space Force. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major. The members of a selection board shall include at least one member serving on sustained duty and at least one member in a space force active status who is not serving on sustained duty. The ratio of the members of a selection board serving on sustained duty to members serving in a space force active status not on sustained duty shall, to the extent practicable, reflect the ratio of officers serving in each of those statuses who are being considered for promotion by the board. The members of a selection board shall represent the diverse population of the Space Force to the extent practicable.
+In general.—Members of a selection board shall be appointed by the Secretary of the Air Force in accordance with this section. A selection board shall consist of five or more officers of the Space Force. Each member of aselection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major. The members of a selection board shall include at least one member serving on sustained duty and at least one member in a space force active status who is not serving on sustained duty. The ratio of the members of a selection board serving on sustained duty to members serving in a space force active status not on sustained duty shall, to the extent practicable, reflect the ratio of officers serving in each of those statuses who are being considered for promotion by the board. The members of a selection board shall represent the diverse population of the Space Force to the extent practicable.
 
 &emsp;(2)
 
@@ -50,7 +50,11 @@ Joint Qualified Officers.—(1) Each selection board convened under section 2021
 
 (3) The Secretary of Defense may waive the requirement in paragraph (1) for any selection board of the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634; amended Pub. L. 118–159, div. A, title V, §521(o), Dec. 23, 2024, 138 Stat. 1882.)
 
-<i><sup>1</sup></i><i> So in original. The word "the" probably should appear.</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–159 substituted "Secretary of the Air Force" for "Secretary of Air Force".
 

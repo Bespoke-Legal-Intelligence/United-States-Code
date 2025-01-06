@@ -38,7 +38,7 @@ No proclamation pursuant to subsection (a) shall be made—
 
 #### (d) Review of developments with respect to industries concerned; annual report to President; advice of probable economic effect; considerations; investigations; hearings
 
-(1) So long as any increase in, or imposition of, any duty or other import restriction pursuant to this section or pursuant to section 7 ofthe Trade Agreements Extension Act of 1951 remains in effect, the United States International Trade Commission shall keep under review developments with respect to the industry concerned, and shall make annual reports to the President concerning such developments.
+(1) So long as any increase in, or imposition of, any duty or other import restriction pursuant to this section or pursuant to section 7 of the Trade Agreements Extension Act of 1951 remains in effect, the United States International Trade Commission shall keep under review developments with respect to the industry concerned, and shall make annual reports to the President concerning such developments.
 
 (2) Upon request of the President or upon its own motion, the United States International Trade Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of the reduction or termination of the increase in, or imposition of, any duty or other import restriction pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951.
 
@@ -70,7 +70,7 @@ Section 7 of the Trade Agreements Extension Act of 1951, referred to in subsecs.
 
 Subsec. (c)(1)(B). Pub. L. 93–618, §602(c), substituted "unless extended under section 2253 of this title." for "unless extended under paragraph (2),".
 
-Subsec. (c)(2). Pub. L. 93–618, §602(d), struck out par. (2) which provided for the extension of increases in, or imposition of, duties or other import restrictions. See section 2253 of this title.
+Subsec. (c)(2). Pub. L. 93–618, §602(d), struck out par. (2) which provided for the extension of increases in, orimposition of, duties or other import restrictions. See section 2253 of this title.
 
 Subsec. (d)(3). Pub. L. 93–618, §602(d), struck out par. (3) which provided for notification to the President by the Tariff Commission of the probable impact of the termination of duties or other import restrictions.
 

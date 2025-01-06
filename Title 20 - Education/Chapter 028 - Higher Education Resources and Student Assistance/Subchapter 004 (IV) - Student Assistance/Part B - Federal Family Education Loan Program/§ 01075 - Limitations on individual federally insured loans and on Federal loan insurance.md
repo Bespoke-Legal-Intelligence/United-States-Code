@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency, made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
 
-> &emsp;except that the Secretary may increase the limit applicable to students who are pursuingprograms which the Secretary determines are exceptionally expensive.
+> &emsp;except that the Secretary may increase the limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
 &emsp;(B) The Secretary may increase the aggregate insurable limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 

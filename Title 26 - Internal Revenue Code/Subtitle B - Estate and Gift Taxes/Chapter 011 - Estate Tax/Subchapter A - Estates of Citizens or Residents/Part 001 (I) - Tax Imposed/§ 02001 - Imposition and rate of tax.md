@@ -103,7 +103,7 @@ If—
 
 &emsp;&emsp;(B) the basic exclusion amount under such section applicable with respect to any gifts made by the decedent.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §11061(b), Dec. 22, 2017, 131 Stat. 2091.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV,§402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §11061(b), Dec. 22, 2017, 131 Stat. 2091.)
 
 #### <b>Editorial Notes</b>
 
@@ -169,7 +169,7 @@ Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
-<b>1976</b>—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid by spouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
+<b>1976</b>—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid byspouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -183,7 +183,7 @@ Pub. L. 112–240, title I, §101(c)(3), Jan. 2, 2013, 126 Stat. 2318, provided 
 
 "(A)
 
-In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection \[amending this section and section 2010 of thistitle\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012.
+In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012.
 
 "(B)
 

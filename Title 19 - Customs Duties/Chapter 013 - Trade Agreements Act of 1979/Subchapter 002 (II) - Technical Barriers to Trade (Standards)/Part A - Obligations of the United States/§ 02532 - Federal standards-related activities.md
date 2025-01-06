@@ -60,7 +60,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### References in Text
 
-Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended generally by Pub. L. 103–465, title III, §351(e)(4), Dec. 8, 1994, 108 Stat. 4956, and, as so amended, no longer contains clauses.
+Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended generally by Pub. L. 103–465,title III, §351(e)(4), Dec. 8, 1994, 108 Stat. 4956, and, as so amended, no longer contains clauses.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Report on Lease Consideration.—(1) Each year, as part of the annual budget sub
 
 &emsp;(B) The amount of consideration received by the Secretary under the lease.
 
-&emsp;(C) The amount of any revenues collected by the Secretary relating to the lease not covered by subparagraph (B), including a description of any in-kind assistance or services provided by the lessee to the Secretary or to veterans under an agreement entered into by the Secretary pursuant to any provision of law.
+&emsp;(C) The amount of any revenues collected by the Secretary relating to the lease not covered by subparagraph (B), including a description of any in-kind assistance or services provided by the lessee to the Secretary or to veteransunder an agreement entered into by the Secretary pursuant to any provision of law.
 
 &emsp;(D) The costs to the Secretary of carrying out the lease.
 

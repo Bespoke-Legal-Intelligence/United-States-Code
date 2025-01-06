@@ -80,7 +80,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Limitation
 
-&emsp;&emsp;The Secretary shall limit the transfer of funds under subparagraph (A) so that all guaranteed farm operating loans that have been approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
+&emsp;&emsp;The Secretary shall limit the transfer of funds under subparagraph (A) so that all guaranteed farm operating loans that havebeen approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
 
 #### (4) Transfer for credit sales of farm inventory property
 
@@ -100,7 +100,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that the amount needed for a fiscal year for direct operating loans (including microloans) under subchapter II is greater than the aggregate principal amount authorized for that fiscal year by this Act, an appropriations Act, orany other provision of law, the Secretary shall make additional microloans under subchapter II using amounts made available under subparagraph (C).
+&emsp;&emsp;If the Secretary determines that the amount needed for a fiscal year for direct operating loans (including microloans) under subchapter II is greater than the aggregate principal amount authorized for that fiscal year by this Act, an appropriations Act, or any other provision of law, the Secretary shall make additional microloans under subchapter II using amounts made available under subparagraph (C).
 
 #### (B) Notice
 

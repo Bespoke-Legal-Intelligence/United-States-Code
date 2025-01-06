@@ -28,7 +28,7 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 &emsp;(1) such vessel, while in the regular course of her voyage, was compelled, by stress of weather or other casualty, to put into such foreign port and purchase such equipments, or make such repairs, to secure the safety and seaworthiness of the vessel to enable her to reach her port of destination;
 
-&emsp;(2) such equipments or parts thereof or repair parts or materials, were manufactured orproduced in the United States, and the labor necessary to install such equipments or to make such repairs was performed by residents of the United States, or by members of the regular crew of such vessel; or
+&emsp;(2) such equipments or parts thereof or repair parts or materials, were manufactured or produced in the United States, and the labor necessary to install such equipments or to make such repairs was performed by residents of the United States, or by members of the regular crew of such vessel; or
 
 &emsp;(3) such equipments, or parts thereof, or materials, or labor, were used as dunnage for cargo, or for the packing or shoring thereof, or in the erection of temporary bulkheads or other similar devices for the control of bulk cargo, or in the preparation (without permanent repair or alteration) of tanks for the carriage of liquid cargo;
 

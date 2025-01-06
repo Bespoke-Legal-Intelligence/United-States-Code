@@ -108,7 +108,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (D) Purchaser treated as acquiring security interest
 
-&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treatedas having acquired a security interest in commercial financing security
+&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treated as having acquired a security interest in commercial financing security
 
 #### (3) Real property construction or improvement financing agreement
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such notice of lien is refiled in the office in which the prior notice of lien was filed, and
 
-&emsp;&emsp;&emsp;(ii) in the case of real property, the fact of refiling is entered and recorded in an index to the extent required by subsection (f)(4); and
+&emsp;&emsp;&emsp;(ii) in the case of real property, the fact of refiling is entered and recorded in anindex to the extent required by subsection (f)(4); and
 
 &emsp;&emsp;(B) in any case in which, 90 days or more prior to the date of a refiling of notice of lien under subparagraph (A), the Secretary received written information (in the manner prescribed in regulations issued by the Secretary) concerning a change in the taxpayer's residence, if a notice of such lien is also filed in accordance with subsection (f) in the State in which such residence is located.
 
@@ -276,7 +276,7 @@ For purposes of this section and section 6324—
 
 #### (1) Security interest
 
-&emsp;The term "security interest" means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against lossor liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
+&emsp;The term "security interest" means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
 
 #### (2) Mechanic's lienor
 
@@ -320,7 +320,7 @@ For purposes of this section and section 6324—
 
 #### (3) Forfeitures
 
-&emsp;For purposes of this subchapter, a forfeiture under local law of property seized by a law enforcement agency of a State, county, or other local governmental subdivision shall relate back to the time of seizure, except that this paragraph shall not apply to the extent that under local law the holder of an intervening claim or interest would have priority over the interest of the State, county, or other local governmental subdivision in the property.
+&emsp;For purposes of this subchapter, a forfeiture under local law of property seized by a law enforcement agency of a State, county, or other local governmental subdivision shall relate back to the time of seizure, except that this paragraph shall not apply to the extent that under local law the holder of an intervening claim or interest would have priority over theinterest of the State, county, or other local governmental subdivision in the property.
 
 #### (4) Cost-of-living adjustment
 
@@ -344,7 +344,7 @@ For purposes of this section and section 6324—
 
 &emsp;&emsp;(C) the withdrawal of such notice will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawalof such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
 
 > &emsp;Any such withdrawal shall be made by filing notice at the same office as the withdrawn notice. A copy of such notice of withdrawal shall be provided to the taxpayer.
 
@@ -500,7 +500,7 @@ General Rule.—Except as otherwise provided, the amendments made by this title 
 
 Exceptions.—The amendments made by this title shall not apply in any case—
 
-&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before the date of enactment of this Act; or
+&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has becomefinal by judgment, sale, or agreement before the date of enactment of this Act; or
 
 &emsp;"(2) in which such amendments would—
 

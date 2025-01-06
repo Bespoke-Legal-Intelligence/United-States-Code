@@ -1,6 +1,6 @@
 ### §1353c. Immigration officials; service in foreign contiguous territory
 
-Nothing in section 209 of title 18 relative to augmenting salaries of Government officialsfrom outside sources shall prevent receiving reimbursements for services of immigration officials incident to the inspection of aliens in foreign contiguous territory and such reimbursement shall be credited to the appropriation, "Immigration and Naturalization Service—Salaries and Expenses."
+Nothing in section 209 of title 18 relative to augmenting salaries of Government officials from outside sources shall prevent receiving reimbursements for services of immigration officials incident to the inspection of aliens in foreign contiguous territory and such reimbursement shall be credited to the appropriation, "Immigration and Naturalization Service—Salaries and Expenses."
 
 (Mar. 4, 1921, ch. 161, §1, 41 Stat. 1424; Sept. 3, 1954, ch. 1263, §6, 68 Stat. 1227.)
 

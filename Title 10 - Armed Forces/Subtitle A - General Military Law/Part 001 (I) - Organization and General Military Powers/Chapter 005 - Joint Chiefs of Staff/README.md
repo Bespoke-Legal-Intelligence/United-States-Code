@@ -26,7 +26,7 @@ Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(a)(2), Dec. 23, 2016, 130 Stat. 2102, struck out item 155a "Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters".
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(a)(2), Dec. 23, 2016, 130 Stat. 2102, struck out item 155a "Assistantsto the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §511(b), Jan. 2, 2013, 126 Stat. 1718, added item 155a.
 

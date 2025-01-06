@@ -42,7 +42,7 @@ The text of subsec. (c) of section 2307 of this title, which was transferred to 
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1834(c)(1)–(3), redesignated subsec. (b) of section 2307 of this title as subsec. (a) of this section, struck out par. (1) designation before "Whenever practicable", substituted "section 3801 of this title" for "subsection (a)" in introductory provisions, and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively. Amendment directing striking outpar. (1) designation before "Whenever possible" was executed by striking it out before "Whenever practicable" to reflect the probable intent of Congress. Former pars. (2) to (4) of subsec. (a) redesignated subsecs. (b), (e), and (c), respectively.
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1834(c)(1)–(3), redesignated subsec. (b) of section 2307 of this title as subsec. (a) of this section, struck out par. (1) designation before "Whenever practicable", substituted "section 3801 of this title" for "subsection (a)" in introductory provisions, and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively. Amendment directing striking out par. (1) designation before "Whenever possible" was executed by striking it out before "Whenever practicable" to reflect the probable intent of Congress. Former pars. (2) to (4) of subsec. (a) redesignated subsecs. (b), (e), and (c), respectively.
 
 Subsec. (b). Pub. L. 116–283, §1834(c)(2)(B), (4), after redesignation of section 2307(b) of this title as subsec. (a) of this section, redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, and substituted "subsection (a)" for "paragraph (1)".
 

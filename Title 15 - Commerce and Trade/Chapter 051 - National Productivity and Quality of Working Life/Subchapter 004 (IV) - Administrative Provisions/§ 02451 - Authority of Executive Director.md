@@ -8,7 +8,7 @@ The Executive Director is authorized to—
 
 &emsp;(3) receive (and use, sell, or otherwise dispose of, in accordance with clause (2)) money or other property donated, bequeathed, or devised to the Center, except for such money and other property which includes a condition that the Center use other funds of the Center for the purpose of the gift, in which case two-thirds of the members of the Board of the Center must approve such donations;
 
-&emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter in accordance with the provisions of title 5, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
+&emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter in accordance with the provisions of title 5, governing appointments in the competitive service, and theprovisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
 
 &emsp;(5) obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5, at rates for individuals not to exceed the maximum daily rate prescribed for GS–18 under section 5332 of title 5;
 

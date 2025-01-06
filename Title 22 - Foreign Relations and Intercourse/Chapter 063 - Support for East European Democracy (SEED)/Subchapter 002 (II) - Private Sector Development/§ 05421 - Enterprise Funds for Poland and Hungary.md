@@ -28,7 +28,7 @@ The funds appropriated under subsection (b) may be made available to the Polish-
 
 #### (1) Designation
 
-&emsp;The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a). For purposes of thischapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the "Enterprise Funds").
+&emsp;The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a). For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the "Enterprise Funds").
 
 #### (2) Consultation with Congress
 
@@ -158,7 +158,7 @@ The date of enactment of this subsection, referred to in subsec. (l)(3), probabl
 
 <b>2004</b>—Subsec. (n). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1997</b>—Subsec. (l). Pub. L. 105–118, which directed the general amendment of section 201(l) of the Support forEast European Democracy Act, was executed by amending heading and text of section 201(l) of the Support for East European Democracy (SEED) Act of 1989, subsec. (l) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services."
+<b>1997</b>—Subsec. (l). Pub. L. 105–118, which directed the general amendment of section 201(l) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(l) of the Support for East European Democracy (SEED) Act of 1989, subsec. (l) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services."
 
 <b>1996</b>—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end ": <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the 'Advisory Councils'), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause."
 

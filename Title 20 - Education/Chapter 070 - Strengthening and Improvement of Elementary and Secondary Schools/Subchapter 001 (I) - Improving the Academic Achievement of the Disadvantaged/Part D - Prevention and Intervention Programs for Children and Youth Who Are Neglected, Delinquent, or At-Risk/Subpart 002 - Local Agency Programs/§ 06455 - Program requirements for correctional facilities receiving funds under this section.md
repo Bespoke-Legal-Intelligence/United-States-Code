@@ -8,7 +8,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(3) where feasible, provide transition assistance to help the child or youth stay in school, including coordination of services for the family, counseling, assistance in accessing drug and alcohol abuse prevention programs, tutoring, and family counseling;
 
-&emsp;(4) provide support programs that encourage children and youth who have dropped out of school to reenter school and attain a regular high school diploma once their term at the correctional facility has been completed, or provide such children and youth with theskills necessary to gain employment or seek a regular high school diploma or its recognized equivalent;
+&emsp;(4) provide support programs that encourage children and youth who have dropped out of school to reenter school and attain a regular high school diploma once their term at the correctional facility has been completed, or provide such children and youth with the skills necessary to gain employment or seek a regular high school diploma or its recognized equivalent;
 
 &emsp;(5) work to ensure that the correctional facility is staffed with teachers and other qualified staff who are trained to work with children and youth with disabilities taking into consideration the unique needs of such children and youth;
 
@@ -42,7 +42,7 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par.
 
 #### Prior Provisions
 
-A prior section 6455, Pub. L. 89–10, title I, §1425, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3599; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(D), (f)(13)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to program requirements for correctional facilities receiving funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6455, Pub. L. 89–10, title I, §1425, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3599; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(D), (f)(13)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to program requirements for correctional facilities receiving funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
 

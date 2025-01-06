@@ -30,7 +30,7 @@ Definition.—As used in this section the term "war crime" means any conduct—
 
 &emsp;(3) which constitutes a grave breach of common Article 3 (as defined in subsection (d)) when committed in the context of and in association with an armed conflict not of an international character; or
 
-&emsp;(4) of a person who, in relation to an armed conflict and contrary to the provisions of the Protocol on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices as amended at Geneva on 3 May 1996 (Protocol II as amended on 3 May 1996), when the United States is a party to such Protocol, willfully kills or causes serious injury to civilians.
+&emsp;(4) of a person who, in relation to an armed conflict and contrary to the provisions of the Protocol on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices as amended at Geneva on 3 May 1996 (Protocol II as amended on 3 May 1996), when the United States is a party to such Protocol,willfully kills or causes serious injury to civilians.
 
 (d)
 
@@ -212,7 +212,7 @@ In general.—The acts enumerated in subsection (d) of section 2441 of title 18,
 
 "(2)
 
-Prohibition on grave breaches.—The provisions of section 2441 of title 18, United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in common Article 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decisionin the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
+Prohibition on grave breaches.—The provisions of section 2441 of title 18, United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in common Article 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decision in the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
 
 "(3)
 

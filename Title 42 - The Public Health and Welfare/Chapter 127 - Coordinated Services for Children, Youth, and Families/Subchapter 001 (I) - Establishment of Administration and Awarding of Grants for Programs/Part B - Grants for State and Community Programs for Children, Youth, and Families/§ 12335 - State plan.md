@@ -32,7 +32,7 @@ A State may apply for funds under one or more of the following categories:
 
 #### (2) Notice and opportunity to correct deficiencies
 
-&emsp;The Commissioner shall not make a final determination disapproving any State plan, modifying such plan, or declaring a State to be ineligible to receive funds under sections 12337 and 12338 of this title without previously affording such State reasonable notice and opportunity to correct deficiencies in its application.
+&emsp;The Commissioner shall not make a final determination disapproving any State plan,modifying such plan, or declaring a State to be ineligible to receive funds under sections 12337 and 12338 of this title without previously affording such State reasonable notice and opportunity to correct deficiencies in its application.
 
 (Pub. L. 101–501, title IX, §929, Nov. 3, 1990, 104 Stat. 1270.)
 

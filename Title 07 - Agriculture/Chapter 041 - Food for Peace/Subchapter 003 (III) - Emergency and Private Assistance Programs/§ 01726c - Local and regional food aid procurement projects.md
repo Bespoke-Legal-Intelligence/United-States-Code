@@ -62,7 +62,7 @@ In this section:
 
 #### (B) Transshipment
 
-&emsp;&emsp;The Secretary shall, in accordance with such terms and conditions as the Secretary considers to be appropriate, require from each eligible organization commitments designed to prevent or restrict—
+&emsp;&emsp;The Secretary shall, in accordance with such terms and conditions as the Secretaryconsiders to be appropriate, require from each eligible organization commitments designed to prevent or restrict—
 
 &emsp;&emsp;&emsp;(i) the resale or transshipment of any eligible commodity procured under this section to any country other than the recipient country; and
 
@@ -168,7 +168,7 @@ Subsec. (c)(1). Pub. L. 113–79, §3207(2), substituted "subsection (b)" for "s
 
 Subsec. (d). Pub. L. 113–79, §3207(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to regulations and guidelines.
 
-Subsec. (d)(2). Pub. L. 113–79, §3207(5)(A), struck out subpar. (A) designation and heading, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, substituted "subparagraph (A)" for "clause (i)" in subpar. (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall agree—
+Subsec. (d)(2). Pub. L. 113–79, §3207(5)(A), struck out subpar. (A) designation and heading, redesignated cls.\(i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, substituted "subparagraph (A)" for "clause (i)" in subpar. (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall agree—
 
 &emsp;"(i) to collect by September 30, 2011, data containing the information required under subsection (f)(1)(B) relating to the field-based project funded through the grant; and
 

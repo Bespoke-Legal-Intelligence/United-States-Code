@@ -6,7 +6,7 @@ The Secretary of Homeland Security shall prioritize the assignment of officers a
 
 #### (b) Intelligence products
 
-Officers and intelligence analysts assigned to locations with participating State, local, and regional fusion centers under this section shall participate in the generation and disseminationof transportation security intelligence products, with an emphasis on such products that relate to threats of terrorism and other threats, including targeted violence, to surface transportation assets that—
+Officers and intelligence analysts assigned to locations with participating State, local, and regional fusion centers under this section shall participate in the generation and dissemination of transportation security intelligence products, with an emphasis on such products that relate to threats of terrorism and other threats, including targeted violence, to surface transportation assets that—
 
 &emsp;(1) assist State, local, and Tribal law enforcement agencies in deploying their resources, including personnel, most efficiently to help detect, prevent, investigate, apprehend, and respond to such threats;
 

@@ -34,5 +34,5 @@ A prior section 1993, Pub. L. 87–128, title III, §345, as added Pub. L. 94–
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

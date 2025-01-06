@@ -102,7 +102,7 @@ Pub. L. 109–280, title V, §505(c), Aug. 17, 2006, 120 Stat. 946, provided tha
 
 #### Effective Date
 
-Pub. L. 103–465, title VII, §772(c), Dec. 8, 1994, 108 Stat. 5044, provided that: "The amendments made by this section \[enacting this section\] shall be effective on the date of enactment of this Act \[Dec. 8, 1994\]."
+Pub. L. 103–465, title VII, §772(c), Dec. 8, 1994, 108 Stat. 5044, provided that: "The amendments made by thissection \[enacting this section\] shall be effective on the date of enactment of this Act \[Dec. 8, 1994\]."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

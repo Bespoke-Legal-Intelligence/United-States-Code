@@ -30,7 +30,7 @@ The provision as to travel and subsistence which was contained in said section 4
 
 Pub. L. 104–134, §101\[(a)\] \[title III, §305(2)\], in second par. substituted "may" for "shall" before "attend" and struck out ", and unless excused by the chief judge, shall remain throughout the conference" before period at end.
 
-<b>1990</b>—Pub. L. 101–650 substituted "biennially, and may summon annually," for "annually", struck out "the United States District Court for the District of the Canal Zone," after "The judges of", and substituted "the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually," for "and the District Court of the Virgin Islands shall also be summoned annually".
+<b>1990</b>—Pub. L. 101–650 substituted "biennially, and may summon annually," for "annually", struck out "theUnited States District Court for the District of the Canal Zone," after "The judges of", and substituted "the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually," for "and the District Court of the Virgin Islands shall also be summoned annually".
 
 <b>1978</b>—Pub. L. 95–598 inserted reference to bankruptcy judges.
 

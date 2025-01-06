@@ -10,6 +10,8 @@ Only persons who are without and unable to obtain the means to pay for baths and
 
 <b>1936</b>—Act June 26, 1936, increased fine from not more than $25 to not less than $25 nor more than $300 and maximum prison term from not more than 30 days to not more than 60 days.
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name

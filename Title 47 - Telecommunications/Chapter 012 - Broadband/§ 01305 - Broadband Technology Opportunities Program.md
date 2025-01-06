@@ -48,7 +48,7 @@ The Assistant Secretary shall—
 
 To be eligible for a grant under the program, an applicant shall—
 
-&emsp;(1)(A) be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in section 5304 of title 25) or native Hawaiian organization;
+&emsp;(1)(A) be a State or political subdivision thereof, the District of Columbia, a territoryor possession of the United States, an Indian tribe (as defined in section 5304 of title 25) or native Hawaiian organization;
 
 &emsp;(B) a nonprofit—
 
@@ -128,7 +128,7 @@ The Assistant Secretary—
 
 &emsp;(4) may, in addition to other authority under applicable law, deobligate awards to grantees that demonstrate an insufficient level of performance, or wasteful or fraudulent spending, as defined in advance by the Assistant Secretary, and award these funds competitively to new or existing applicants consistent with this section; and
 
-&emsp;(5) shall create and maintain a fully searchable database, accessible on the Internet at no cost to the public, that contains at least a list of each entity that has applied for a grant under this section, a description of each application, the status of each such application, the name of each entity receiving funds made available pursuant to this section, the purpose for which such entity is receiving such funds, each quarterly report submitted by the entity pursuant to this section, and such other information sufficient to allow the public to understand and monitor grants awarded under the program.
+&emsp;(5) shall create and maintain a fully searchable database, accessible on the Internet at no cost to the public, that contains at least a list of each entity that has applied for a grant under this section, a description of each application, the status of each such application, the name of each entity receiving funds madeavailable pursuant to this section, the purpose for which such entity is receiving such funds, each quarterly report submitted by the entity pursuant to this section, and such other information sufficient to allow the public to understand and monitor grants awarded under the program.
 
 #### (j) Publication of contractual conditions
 

@@ -32,7 +32,7 @@ Review of Proposed Actions.—(1) Not later than 75 days after receiving from th
 
 (C) A notice of presumed risk issued under subparagraph (A) is a preliminary assessment only and does not represent a formal objection pursuant to subsection (e). Discussions of possible mitigation actions under such subparagraph could favorably resolve any concerns identified in the notice of presumed risk.
 
-(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance tothe application. The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
+(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
 
 (4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project or antenna structure project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
 
@@ -90,7 +90,7 @@ Department of Defense Finding of Unacceptable Risk.—(1)(A) The Secretary of De
 
 (B) The Secretary of Defense shall notify the appropriate State agency of a finding made under paragraph (1).
 
-(3) The Secretary of Defense may only delegate the responsibility for making a finding of unacceptable risk under paragraph (1) to the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense.
+(3) The Secretary of Defense may only delegate the responsibility for making a finding ofunacceptable risk under paragraph (1) to the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense.
 
 (4) The Clearinghouse shall develop procedures for making a finding of unacceptable risk, including with respect to how to implement cumulative effects analysis. Such procedures shall be subject to public comment prior to finalization.
 
@@ -114,7 +114,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(i) is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and
 
-&emsp;&emsp;&emsp;(ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and
+&emsp;&emsp;&emsp;(ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established by law; and
 
 &emsp;&emsp;(B) does not include—
 
@@ -146,7 +146,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
-(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§361, 362, Dec. 22, 2023, 137 Stat. 231.)
+(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§361, 362, Dec. 22, 2023, 137 Stat. 231; Pub. L. 118–159, div. A, title III, §311, Dec. 23, 2024, 138 Stat. 1851.)
 
 #### <b>Editorial Notes</b>
 
@@ -155,6 +155,8 @@ Definitions.—In this section:
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (e)(1)(B)(ii) and (h)(2)(B)(i), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (h)(2)(A)(ii). Pub. L. 118–159 substituted "by law" for "under this title".
 
 <b>2023</b>—Pub. L. 118–31, §362(b)(1), inserted "or antenna structure projects" after "energy projects" wherever appearing and inserted "or antenna structure project" after "energy project" wherever appearing except in subsecs. (e)(1) and (h)(2).
 
@@ -180,7 +182,7 @@ Subsec. (c)(8). Pub. L. 117–81, §371(b)(2), added par. (8).
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–92, §311, substituted "75 days" for "60 days" in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence, substituted "air route surveillance radar, airportsurveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
+Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence, substituted "air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
 
 Subsec. (d)(2)(E). Pub. L. 116–92, §371(2)(A), substituted "the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense" for "a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense".
 

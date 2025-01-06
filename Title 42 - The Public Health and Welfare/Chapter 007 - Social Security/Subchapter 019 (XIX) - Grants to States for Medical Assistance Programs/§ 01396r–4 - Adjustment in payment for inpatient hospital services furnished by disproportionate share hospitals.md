@@ -321,7 +321,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For the period beginning January 20, 2024, and ending September 30, 2024, and for each of fiscal years 2025 through 2027, the Secretary shall effect the following reductions:
+&emsp;&emsp;&emsp;For the period beginning April 1, 2025, and ending September 30, 2025, and for each of fiscal years 2026 through 2027, the Secretary shall effect the following reductions:
 
 #### (I) Reduction in DSH allotments
 
@@ -333,7 +333,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 #### (ii) Aggregate reductions
 
-&emsp;&emsp;&emsp;The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to $8,000,000,000 for the period beginning January 20, 2024, and ending September 30, 2024, and for each of fiscal years 2025 through 2027.
+&emsp;&emsp;&emsp;The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to $8,000,000,000 for the period beginning April 1, 2025, and ending September 30, 2025, and for each of fiscal years 2026 through 2027.
 
 #### (iii) Manner of payment reduction
 
@@ -505,7 +505,7 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 &emsp;&emsp;(E) The State has separately documented and retained a record of all of its costs under this subchapter, claimed expenditures under this subchapter, uninsured costs in determining payment adjustments under this section, and any payments made on behalf of the uninsured from payment adjustments under this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053; Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076; Pub. L. 114–10, title II, §219, title IV, §412, Apr. 16, 2015, 129 Stat. 153, 162; Pub. L. 115–123, div. E, title XII, §53101, Feb. 9, 2018, 132 Stat. 298; Pub. L. 116–59, div. B, title III, §1303, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, §1303, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §203, Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3813, Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2303, Oct. 1, 2020, 134 Stat. 732; Pub. L. 116–215, div. B, title I, §1106, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §§201, 203(a), Dec. 27, 2020, 134 Stat. 2977, 2978; Pub. L. 117–2, title IX, §9819(a), Mar. 11, 2021, 135 Stat. 218; Pub. L. 117–7, §2(b), Apr. 14, 2021, 135 Stat. 252; Pub. L. 118–15, div. B, title III, §2341, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §301, Nov. 17, 2023, 137 Stat. 121.)
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053; Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076; Pub. L. 114–10, title II, §219, title IV, §412, Apr. 16, 2015, 129 Stat. 153, 162; Pub. L. 115–123, div. E, title XII, §53101, Feb. 9, 2018, 132 Stat. 298; Pub. L. 116–59, div. B, title III, §1303, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, §1303, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §203, Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3813, Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2303, Oct. 1, 2020, 134 Stat. 732; Pub. L. 116–215, div. B, title I, §1106, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §§201, 203(a), Dec. 27, 2020, 134 Stat. 2977, 2978; Pub. L. 117–2, title IX, §9819(a), Mar. 11, 2021, 135 Stat. 218; Pub. L. 117–7, §2(b), Apr. 14, 2021, 135 Stat. 252; Pub. L. 118–15, div. B, title III, §2341, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §301, Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, §121, Jan. 19, 2024, 138 Stat. 6; Pub. L. 118–42, div. G, title I, §210, Mar. 9, 2024, 138 Stat. 414; Pub. L. 118–158, div. C, title IV, §3401, Dec. 21, 2024, 138 Stat. 1767.)
 
 #### <b>Editorial Notes</b>
 
@@ -525,7 +525,13 @@ A prior section 1923 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-<b>2023</b>—Subsec. (f)(7)(A)(i). Pub. L. 118–22, §301(1), substituted "January 20, 2024" for "November 18, 2023".
+<b>2024</b>—Subsec. (f)(7)(A). Pub. L. 118–158 substituted "April 1" for "January 1" in introductory provisions of cl. (i) and in cl. (ii).
+
+Pub. L. 118–42, in introductory provisions of cl. (i), substituted "For the period beginning January 1, 2025, and ending September 30, 2025, and for each of fiscal years 2026" for "For the period beginning March 9, 2024, and ending September 30, 2024, and for each of fiscal years 2025" and, in cl. (ii), substituted "January 1, 2025, and ending September 30, 2025, and for each of fiscal years 2026" for "March 9, 2024, and ending September 30, 2024, and for each of fiscal years 2025".
+
+Pub. L. 118–35 substituted "March 9, 2024" for "January 20, 2024" in introductory provisions of cl. (i) and in cl. (ii).
+
+<b>2023</b>—Subsec. (f)(7)(A)(i). Pub. L. 118–22, §301(1), substituted "January 20, 2024" for "November 18, 2023" in introductory provisions.
 
 Pub. L. 118–15, §2341(1), substituted "For the period beginning November 18, 2023, and ending September 30, 2024, and for each of fiscal years 2025 through 2027" for "For each of fiscal years 2024 through 2027" in introductory provisions and inserted "or period" after "the fiscal year" wherever appearing in subcls. (I) and (II).
 
@@ -655,7 +661,7 @@ Subsec. (f)(6)(A)(i). Pub. L. 111–3, §616(2)(A), in concluding provisions, su
 
 Subsec. (f)(6)(A)(ii). Pub. L. 111–3, §616(2)(B), substituted "2010, 2011, or for period in fiscal year 2012" for "or for a period in fiscal year 2010".
 
-Subsec. (f)(6)(A)(iv). Pub. L. 111–3, §616(2)(C)(i), substituted "2011 and the first calendar quarter of fiscal year 2012" for "2009 and the first calendar quarter of fiscal year 2010" in heading.
+Subsec. (f)(6)(A)(iv). Pub. L. 111–3, §616(2)(C)(i), substituted "2011 and the first calendar quarter of fiscalyear 2012" for "2009 and the first calendar quarter of fiscal year 2010" in heading.
 
 Subsec. (f)(6)(A)(iv)(I), (II). Pub. L. 111–3, §616(2)(C)(ii), substituted "2010, 2011, or for a period in fiscal year 2012" for "or for a period in fiscal year 2010".
 
@@ -827,7 +833,7 @@ Pub. L. 116–260, div. CC, title II, §203(b), Dec. 27, 2020, 134 Stat. 2979, p
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–67, div. B, title II, §1204(b), Dec. 26, 2013, 127 Stat. 1199, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as of October 1, 2013."
+Pub. L. 113–67, div. B, title II, §1204(b), Dec. 26, 2013, 127 Stat. 1199, provided that: "The amendments madeby subsection (a) \[amending this section\] shall be effective as of October 1, 2013."
 
 #### Effective Date of 2010 Amendment
 
@@ -839,7 +845,7 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VI, §6054(b), Feb. 8, 2006, 120 Stat. 96, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on October 1, 2005, and shall only apply todisproportionate share hospital adjustment expenditures applicable to fiscal year 2006 and subsequent fiscal years made on or after that date."
+Pub. L. 109–171, title VI, §6054(b), Feb. 8, 2006, 120 Stat. 96, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on October 1, 2005, and shall only apply to disproportionate share hospital adjustment expenditures applicable to fiscal year 2006 and subsequent fiscal years made on or after that date."
 
 #### Effective Date of 2000 Amendment
 
@@ -909,7 +915,7 @@ Pub. L. 106–554, §1(a)(6) \[title VII, §701(c)\], Dec. 21, 2000, 114 Stat. 2
 
 "(1)
 
-In general.—During the period described in paragraph (3), with respect to a State, section 4721(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 514) \[set out as a note below\], as amended by section 607 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title VI, §607(a)\]\] (113 Stat. 1501A–396), shall be applied as though—
+In general.—During the period described in paragraph (3), with respect to a State, section 4721(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111Stat. 514) \[set out as a note below\], as amended by section 607 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title VI, §607(a)\]\] (113 Stat. 1501A–396), shall be applied as though—
 
 &emsp;"(A) 'September 30, 2002' were substituted for 'July 1, 1997' each place it appears;
 
@@ -925,7 +931,7 @@ In general.—During the period described in paragraph (3), with respect to a St
 
 "(2)
 
-Special rule.—With respect to California, section 4721(e) of the Balanced Budget Act of 1997 (PublicLaw 105–33; 111 Stat. 514), as so amended, shall be applied without regard to paragraph (1).
+Special rule.—With respect to California, section 4721(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 514), as so amended, shall be applied without regard to paragraph (1).
 
 "(3)
 
@@ -1013,7 +1019,7 @@ Pub. L. 105–33, title IV, §4721(e), Aug. 5, 1997, 111 Stat. 514, as amended b
 
 #### Study of DSH Payment Adjustments
 
-Pub. L. 102–234, §3(d), Dec. 12, 1991, 105 Stat. 1803, directed Prospective Payment Assessment Commission to conduct a study concerning feasibility and desirability of establishing maximum and minimum payment adjustments under subsec. (c) of this section for hospitals deemed disproportionate share hospitals under State medicaid plans, and criteria (other than criteria described in clause (i) or (ii) of subsec. (f)(1)(D)) that are appropriate for the designation of disproportionate share hospitals under this section, specified items to be included in study, and directed that, not later than Jan. 1, 1994, Commission submit a report on the study to Committee on Finance of Senate and Committee on Energy and Commerce of House of Representatives, such report to include such recommendations respecting designation of disproportionate share hospitals and the establishment of maximum and minimum payment adjustments for such hospitals under this section as may be appropriate.
+Pub. L. 102–234, §3(d), Dec. 12, 1991, 105 Stat. 1803, directed Prospective Payment Assessment Commissionto conduct a study concerning feasibility and desirability of establishing maximum and minimum payment adjustments under subsec. (c) of this section for hospitals deemed disproportionate share hospitals under State medicaid plans, and criteria (other than criteria described in clause (i) or (ii) of subsec. (f)(1)(D)) that are appropriate for the designation of disproportionate share hospitals under this section, specified items to be included in study, and directed that, not later than Jan. 1, 1994, Commission submit a report on the study to Committee on Finance of Senate and Committee on Energy and Commerce of House of Representatives, such report to include such recommendations respecting designation of disproportionate share hospitals and the establishment of maximum and minimum payment adjustments for such hospitals under this section as may be appropriate.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

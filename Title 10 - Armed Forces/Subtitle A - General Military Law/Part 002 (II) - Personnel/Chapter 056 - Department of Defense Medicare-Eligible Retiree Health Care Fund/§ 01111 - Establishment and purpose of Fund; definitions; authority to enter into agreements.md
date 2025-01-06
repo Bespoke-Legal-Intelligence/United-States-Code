@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 107–107, §711(b)(1), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: "The amendments madeby this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008."
+Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: "The amendments made by this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008."
 
 #### Effective Date of 2004 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 108–375, div. A, title VII, §725(d), Oct. 28, 2004, 118 Stat. 1992, p
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title VII, §711(f), Dec. 28, 2001, 115 Stat. 1167, provided that: "The amendments made by this section \[amending this section and sections 1112, 1113, 1115, and 1116 of this title\] shall take effect as if included in the enactment of chapter 56 of title 10, United States Code, by section 713(a)(1) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–179)."
+Pub. L. 107–107, div. A, title VII, §711(f), Dec. 28, 2001, 115 Stat. 1167, provided that: "The amendments madeby this section \[amending this section and sections 1112, 1113, 1115, and 1116 of this title\] shall take effect as if included in the enactment of chapter 56 of title 10, United States Code, by section 713(a)(1) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–179)."
 
 #### Payment of Contributions for the Uniformed Service of the Public Health Service
 

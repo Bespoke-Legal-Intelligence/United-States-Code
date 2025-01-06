@@ -18,7 +18,7 @@
 
 #### (2) On the trustee
 
-&emsp;In any case in which an additional tax is imposed by paragraph (1), if a trustee refused to agree to a part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the taxable expenditure. The tax imposed by this paragraph shall be paid by any trustee who refused to agree to part or all of the correction.
+&emsp;In any case in which an additional tax is imposed by paragraph (1), if a trustee refused to agree to a part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the taxable expenditure. Thetax imposed by this paragraph shall be paid by any trustee who refused to agree to part or all of the correction.
 
 #### (c) Joint and several liability
 

@@ -42,7 +42,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 &emsp;&emsp;&emsp;(i) is in the form of a bond, letter of credit, or cash escrow,
 
-&emsp;&emsp;&emsp;(ii) is provided to the trustees of the 1992 UMWA Benefit Plan solely for the purpose of paying premiums for beneficiaries who would be described in section 9712(b)(2)(B)if the requirements of this section were not met by the last signatory operator, and
+&emsp;&emsp;&emsp;(ii) is provided to the trustees of the 1992 UMWA Benefit Plan solely for the purpose of paying premiums for beneficiaries who would be described in section 9712(b)(2)(B) if the requirements of this section were not met by the last signatory operator, and
 
 &emsp;&emsp;&emsp;(iii) is in an amount equal to 1 year of liability of the last signatory operator under this section, determined by using the average cost of such operator's liability during the prior 3 calendar years;
 
@@ -60,7 +60,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (d) Managed care and cost containment
 
-The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and cost containment rules and procedures described in section 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
+The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and cost containment rules and procedures described insection 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
 
 #### (e) Treatment of noncovered employees
 

@@ -164,7 +164,7 @@ In entering into agreements under this section, the Secretary shall take reasona
 
 &emsp;&emsp;&emsp;(i) factors that influenced the rate of return; and
 
-&emsp;&emsp;&emsp;(ii) with respect to the commodity, the costs of bagging or further processing, ocean transportation, inland transportation, storage costs, and any other information that the Secretary determines to be necessary; and
+&emsp;&emsp;&emsp;(ii) with respect to the commodity, the costs of bagging or further processing,ocean transportation, inland transportation, storage costs, and any other information that the Secretary determines to be necessary; and
 
 &emsp;&emsp;(C) for each instance in which a commodity was made available under this section at a rate of return less than 70 percent, an explanation for the rate of return realized.
 
@@ -178,7 +178,7 @@ This section shall be effective during the period beginning October 1, 1985, and
 
 (2) To carry out this subsection, the Secretary may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
 
-(3) The Secretary may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities underparagraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
+(3) The Secretary may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
 
 (4)
 
@@ -406,7 +406,7 @@ Subsec. (l)(1). Pub. L. 104–127, §227(7), substituted "1996 through 2002" for
 
 Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out "with respect to the independent states of the former Soviet Union" after "this section" and substituted "agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives" for "private voluntary organizations and cooperatives", and in par. (2), struck out "in the independent states" after "the use" and substituted "agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives" for "private voluntary organizations and cooperatives".
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted "(including the independent states of the former Soviet Union)" after "such countries", substituted "cooperatives, or other private entities" for "or cooperatives", and added par. (2).
+<b>1992</b>—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted "(including theindependent states of the former Soviet Union)" after "such countries", substituted "cooperatives, or other private entities" for "or cooperatives", and added par. (2).
 
 Subsec. (f)(1). Pub. L. 102–511, §701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Commodities made available under section 1431(b) of this title for use in carrying out this section shall be provided on a grant basis."
 

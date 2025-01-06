@@ -56,7 +56,7 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 #### (e) Sharing of payments
 
-The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, oraverage crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
+The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
 
 #### (f) Extension of 2008 signup
 

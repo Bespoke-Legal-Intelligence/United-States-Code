@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation, after consultation with the Secretary of Education, may annually designatenot more than 25 institutions of higher education as Campuses of Service, from among institutions nominated by State Commissions.
+The Corporation, after consultation with the Secretary of Education, may annually designate not more than 25 institutions of higher education as Campuses of Service, from among institutions nominated by State Commissions.
 
 #### (b) Applications for nomination
 
@@ -32,7 +32,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (A) In general
 
-&emsp;&emsp;A State Commission that receives applications from institutions of higher education under subsection (b) may nominate, for designation under subsection (a), not more than 3 such institutions of higher education, consisting of—
+&emsp;&emsp;A State Commission that receives applications from institutions of higher educationunder subsection (b) may nominate, for designation under subsection (a), not more than 3 such institutions of higher education, consisting of—
 
 &emsp;&emsp;&emsp;(i) not more than one 4-year public institution of higher education;
 
@@ -68,7 +68,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219.Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 441 of the Act was transferred from section 2751 of this title to section 1087–51 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), (C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 441 of the Act was transferred from section 2751 of this title to section 1087–51 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

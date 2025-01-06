@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
-Section 275 of BBEDCA, referred to in par. (1), is section 275 of the Balanced Budget and Emergency Deficit Control Act of 1985, Pub. L. 99–177, which is set out as a note under section 900 of this title.
+Section 275 of BBEDCA, referred to in par. (1), is section 275 of the Balanced Budget and Emergency DeficitControl Act of 1985, Pub. L. 99–177, which is set out as a note under section 900 of this title.
 
 As amended by this title, referred to in par. (1), means as amended by title I of Pub. L. 111–139.
 

@@ -74,7 +74,7 @@ In this section:
 
 #### (5) Treatment of certain revenues
 
-&emsp;Revenue from ancillary services provided by existing Federal power systems to users of transmission projects funded pursuant to this section shall be treated as revenue to the existing power system that provided the ancillary services.
+&emsp;Revenue from ancillary services provided by existing Federal power systems to users oftransmission projects funded pursuant to this section shall be treated as revenue to the existing power system that provided the ancillary services.
 
 #### (d) Certification
 

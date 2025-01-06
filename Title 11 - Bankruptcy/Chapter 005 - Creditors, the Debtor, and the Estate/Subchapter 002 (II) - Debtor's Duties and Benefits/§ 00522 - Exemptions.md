@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
-&emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual ofwhom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
+&emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
 &emsp;&emsp;(D) a payment, not to exceed $15,000,<sup>1</sup> on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
 
@@ -188,7 +188,7 @@
 
 &emsp;(iv) jewelry with a fair market value of more than $500 <sup>1</sup> in the aggregate (except wedding rings); and
 
-&emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including atractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
+&emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
 (g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, if—
 
@@ -234,7 +234,7 @@
 
 > shall be reduced to the extent that such value is attributable to any portion of any property that the debtor disposed of in the 10-year period ending on the date of the filing of the petition with the intent to hinder, delay, or defraud a creditor and that the debtor could not exempt, or that portion that the debtor could not exempt, under subsection (b), if on such date the debtor had held the property so disposed of.
 
-(p)(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 <sup>1</sup> in value in—
+(p)(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest thatwas acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 <sup>1</sup> in value in—
 
 &emsp;(A) real or personal property that the debtor or a dependent of the debtor uses as a residence;
 
@@ -490,7 +490,7 @@ Subsec. (f)(3). Pub. L. 103–394, §310(2), added par. (3).
 
 Subsec. (i)(2). Pub. L. 99–554, §283(i)(2), substituted "this" for "his" after "subsection (g) of".
 
-<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §453(a), inserted "or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate".
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–353, §453(a), inserted "or, with respect to property that becomes property ofan estate after such date, as of the date such property becomes property of the estate".
 
 Subsec. (b). Pub. L. 98–353, §306(a), inserted provision that in joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
 
@@ -546,7 +546,7 @@ By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d)(1), dollar amount "22,975" was adjusted to "23,675"; in subsec. (d)(2), dollar amount "3,675" was adjusted to "3,775"; in subsec. (d)(3), dollar amounts "575" and "12,250" were adjusted to "600" and "12,625", respectively; in subsec. (d)(4), dollar amount "1,550" was adjusted to "1,600"; in subsec. (d)(5), dollar amounts "1,225" and "11,500" were adjusted to "1,250" and "11,850", respectively; in subsec. (d)(6), dollar amount "2,300" was adjusted to "2,375"; in subsec. (d)(8), dollar amount "12,250" was adjusted to "12,625"; in subsec. (d)(11)(D), dollar amount "22,975" was adjusted to "23,675"; in subsec. (f)(3), dollar amount "6,225" was adjusted to "6,425"; in subsec. (f)(4), dollar amount "650" was adjusted to "675" each time it appeared; in subsec. (n), dollar amount "1,245,475" was adjusted to "1,283,025"; in subsec. (p), dollar amount "155,675" was adjusted to "160,375"; and, in subsec. (q), dollar amount "155,675" was adjusted to "160,375".
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount "21,625" was adjusted to "22,975"; in subsec. (d)(2), dollar amount "3,450" was adjusted to "3,675"; in subsec. (d)(3), dollar amounts "550" and "11,525" were adjusted to "575" and "12,250", respectively; in subsec. (d)(4), dollar amount "1,450" was adjusted to "1,550"; in subsec. (d)(5), dollar amounts "1,150" and "10,825" were adjusted to "1,225" and "11,500", respectively; in subsec. (d)(6), dollar amount "2,175" was adjusted to "2,300"; in subsec. (d)(8), dollar amount "11,525" was adjusted to "12,250"; in subsec. (d)(11)(D), dollar amount "21,625" was adjusted to "22,975"; in subsec. (f)(3), dollar amount "5,850" was adjusted to "6,225"; in subsec. (f)(4), dollar amount "600" was adjusted to "650" each time it appeared; in subsec. (n), dollar amount "1,171,650" was adjusted to "1,245,475"; in subsec. (p), dollar amount "146,450" was adjusted to "155,675"; and, in subsec. (q), dollar amount "146,450" was adjusted to "155,675".
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount "21,625" was adjusted to "22,975"; in subsec. (d)(2), dollar amount "3,450" was adjusted to "3,675"; in subsec. (d)(3), dollar amounts "550" and "11,525" were adjusted to "575" and "12,250", respectively; in subsec. (d)(4), dollar amount "1,450" was adjusted to "1,550"; in subsec. (d)(5), dollar amounts "1,150" and "10,825" were adjusted to "1,225" and "11,500", respectively; in subsec. (d)(6), dollar amount "2,175" was adjusted to "2,300"; in subsec. (d)(8), dollar amount "11,525" was adjusted to "12,250"; in subsec. (d)(11)(D), dollar amount "21,625" was adjusted to "22,975"; in subsec. (f)(3), dollar amount "5,850" was adjusted to "6,225"; in subsec. (f)(4), dollaramount "600" was adjusted to "650" each time it appeared; in subsec. (n), dollar amount "1,171,650" was adjusted to "1,245,475"; in subsec. (p), dollar amount "146,450" was adjusted to "155,675"; and, in subsec. (q), dollar amount "146,450" was adjusted to "155,675".
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount "20,200" was adjusted to "21,625"; in subsec. (d)(2), dollar amount "3,225" was adjusted to "3,450"; in subsec. (d)(3), dollar amounts "525" and "10,775" were adjusted to "550" and "11,525", respectively; in subsec. (d)(4), dollar amount "1,350" was adjusted to "1,450"; in subsec. (d)(5), dollar amounts "1,075" and "10,125" were adjusted to "1,150" and "10,825", respectively; in subsec. (d)(6), dollar amount "2,025" was adjusted to "2,175"; in subsec. (d)(8), dollar amount "10,775" was adjusted to "11,525"; in subsec. (d)(11)(D), dollar amount "20,200" was adjusted to "21,625"; in subsec. (f)(3)(B), dollar amount "5,475" was adjusted to "5,850"; in subsec. (f)(4)(B), dollar amount "550" was adjusted to "600" each time it appeared; in subsec. (n), dollar amount "1,095,000" was adjusted to "1,171,650"; in subsec. (p)(1), dollar amount "136,875" was adjusted to "146,450"; and, in subsec. (q)(1), dollar amount "136,875" was adjusted to "146,450".
 

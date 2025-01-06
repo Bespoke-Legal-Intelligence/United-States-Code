@@ -14,7 +14,7 @@ The Congress of the United States makes the following findings concerning the de
 
 (f) The necessity for protection against possible interstate damage occurring from the operation of facilities for the production or utilization of source or special nuclear material places the operation of those facilities in interstate commerce for the purposes of this chapter.
 
-(g) Funds of the United States may be provided for the development and use of atomic energy under conditions which will provide for the common defense and security and promote the general welfare.
+(g) Funds of the United States may be provided for the development and use of atomic energy under conditions which will provide for thecommon defense and security and promote the general welfare.
 
 (h) Repealed. Pub. L. 88–489, §2, Aug. 26, 1964, 78 Stat. 602.
 
@@ -44,5 +44,5 @@ Subsec. (h). Pub. L. 88–489, §2, struck out subsec. (h) which found it essent
 
 #### Control and Regulation Powers of United States and of Atomic Energy Commission Unaffected by Private Ownership of Special Nuclear Materials
 
-Pub. L. 88–489, §20, Aug. 26, 1964, 78 Stat. 607, provided that: "Nothing in this Act \[amending this section and sections 2013, 2073 to 2078, 2135, 2153, 2201, 2233 and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under this section and section 2072 of this title\] shall be deemed to diminish existing authority of the United States, or of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[this chapter\], to regulate source, byproduct, and special nuclear material and production and utilization facilities, or to control suchmaterials and facilities exported from the United States by imposition of governmental guarantees and security safeguards with respect thereto, in order to assure the common defense and security and to protect the health and safety of the public, or to reduce the responsibility of the Atomic Energy Commission to achieve such objectives."
+Pub. L. 88–489, §20, Aug. 26, 1964, 78 Stat. 607, provided that: "Nothing in this Act \[amending this section and sections 2013, 2073 to 2078, 2135, 2153, 2201, 2233 and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under this section and section 2072 of this title\] shall be deemed to diminish existing authority of the United States, or of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[this chapter\], to regulate source, byproduct, and special nuclear material and production and utilization facilities, or to control such materials and facilities exported from the United States by imposition of governmental guarantees and security safeguards with respect thereto, in order to assure the common defense and security and to protect the health and safety of the public, or to reduce the responsibility of the Atomic Energy Commission to achieve such objectives."
 

@@ -1,6 +1,6 @@
 ### §252. Medical examination of aliens
 
-The Surgeon General shall provide for making, at places within the United States or in other countries, such physical and mental examinations of aliens as are required by the immigration laws, subject to administrative regulations prescribed by the Attorney General and medical regulations prescribed by the Surgeon General with the approval of the Secretary.
+The Surgeon General shall provide for making, at places within the United States or in othercountries, such physical and mental examinations of aliens as are required by the immigration laws, subject to administrative regulations prescribed by the Attorney General and medical regulations prescribed by the Surgeon General with the approval of the Secretary.
 
 (July 1, 1944, ch. 373, title III, §325, 58 Stat. 697; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 

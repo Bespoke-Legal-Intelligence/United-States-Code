@@ -78,7 +78,7 @@ The requirements of subparts 1 and 2 <sup>1</sup> and part D shall not apply to
 
 &emsp;&emsp;(B) There is no coordination between the provision of such benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor.
 
-&emsp;&emsp;(C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor or, with respect to individual coverage, under any health insurance coverage maintained by the same health insurance issuer.
+&emsp;&emsp;(C) Such benefits are paid with respect to an event without regard to whether benefitsare provided with respect to such an event under any group health plan maintained by the same plan sponsor or, with respect to individual coverage, under any health insurance coverage maintained by the same health insurance issuer.
 
 #### (3) Supplemental excepted benefits
 
@@ -112,7 +112,7 @@ For purposes of this part and part D—
 
 #### References in Text
 
-Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148,title I, §§1001(5), 1201(1), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading "
+Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148, title I, §§1001(5), 1201(1), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading "
 
 portability, access, and renewability requirements" were struck out and a new subpart I designation and heading "
 
@@ -182,13 +182,13 @@ Subsec. (b)(2)(D). Pub. L. 110–233, §102(c)(2), added subpar. (D).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–204, §604(b)(1)(A), substituted "subparts 1 and 3" for "subparts 1 and 2".
 
-Subsec. (b) to (d). Pub. L. 104–204, §604(b)(1)(B), substituted "subparts 1 through 3" for "subparts 1 and 2" wherever appearing.
+Subsecs. (b) to (d). Pub. L. 104–204, §604(b)(1)(B), substituted "subparts 1 through 3" for "subparts 1 and 2" wherever appearing.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022,see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

@@ -42,7 +42,7 @@ Pub. L. 115–167, §1, Apr. 23, 2018, 132 Stat. 1276, provided that: "This Act 
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–27, title I, §101, June 29, 2015, 129 Stat. 363, provided that: "This title \[amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections2466a and 3705 of this title, and amending provisions set out as a note under this section\] may be cited as the 'AGOA Extension and Enhancement Act of 2015'."
+Pub. L. 114–27, title I, §101, June 29, 2015, 129 Stat. 363, provided that: "This title \[amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section\] may be cited as the 'AGOA Extension and Enhancement Act of 2015'."
 
 #### Short Title of 2006 Amendment
 
@@ -186,7 +186,7 @@ Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429
 
 &emsp;"(1) the preferential market access opportunities for eligible sub-Saharan African countries will be complemented and enhanced if those countries are implementing actively and fully, consistent with any remaining applicable phase-in periods, their obligations under the World Trade Organization, including obligations under the Agreement on Trade-Related Aspects of Intellectual Property, the Agreement on the Application of Sanitary and Phytosanitary Measures, and the Agreement on Trade-Related Investment Measures, as well as the other agreements described in section 101(d) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d));
 
-&emsp;"(2) eligible sub-Saharan African countries should participate in and support mutual trade liberalization in ongoing negotiations under the auspices of the World Trade Organization, including by making reciprocal commitments with respect to improving market access for industrial and agricultural goods,and for services, recognizing that such commitments may need to reflect special and differential treatment for developing countries;
+&emsp;"(2) eligible sub-Saharan African countries should participate in and support mutual trade liberalization in ongoing negotiations under the auspices of the World Trade Organization, including by making reciprocal commitments with respect to improving market access for industrial and agricultural goods, and for services, recognizing that such commitments may need to reflect special and differential treatment for developing countries;
 
 &emsp;"(3) some of the most pernicious trade barriers against exports by developing countries are the trade barriers maintained by other developing countries; therefore, eligible sub-Saharan African countries will benefit from the reduction of trade barriers in other developing countries, especially in developing countries that represent some of the greatest potential markets for African goods and services; and
 

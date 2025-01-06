@@ -152,11 +152,11 @@ Pub. L. 101–576, title II, §206, Nov. 15, 1990, 104 Stat. 2845, provided that
 
 "(a)
 
-Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activitiesfor the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
+Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
 
 "(b)
 
-Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions in particular officers and employees of the United States, the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
+Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions inparticular officers and employees of the United States, the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
 
 &emsp;"(1) a description of all functions, powers, duties, personnel, property, or records which the agency Chief Financial Officer is proposed to have authority over, including those relating to functions that are not related to financial management activities; and
 

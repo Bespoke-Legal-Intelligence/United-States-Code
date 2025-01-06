@@ -32,7 +32,7 @@ Pub. L. 116–283, div. C, title XXXI, §3123, Jan. 1, 2021, 134 Stat. 4381, pro
 
 "(a)
 
-In General.—The Assistant Secretary of Energy for Environmental Management, in consultation withother appropriate officials of the Department of Energy, shall establish requirements for the classification of defense environmental cleanup projects as capital asset projects or operations activities.
+In General.—The Assistant Secretary of Energy for Environmental Management, in consultation with other appropriate officials of the Department of Energy, shall establish requirements for the classification of defense environmental cleanup projects as capital asset projects or operations activities.
 
 "(b)
 

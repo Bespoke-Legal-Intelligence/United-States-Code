@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) The spouse or child of any member of the Armed Forces serving on active duty who, at the time of application for benefits under this chapter is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power.
 
-&emsp;&emsp;(D)(i) The spouse of any person who has a total disability permanent in nature resulting from a service-connected disability sustained during a period of qualifying service, or (ii) the surviving spouse of a veteran who died while a disability so evaluated was in existence.
+&emsp;&emsp;(D)(i) The spouse of any person who has a total disability permanent in nature resulting from a service-connected disability sustained during a period of qualifying service,or (ii) the surviving spouse of a veteran who died while a disability so evaluated was in existence.
 
 &emsp;&emsp;(E) The spouse or child of a person who—
 
@@ -92,7 +92,7 @@ Pub. L. 109–444, §3(a)(2), (3), which substituted "A child of a person who, a
 
 Subsec. (a)(1)(B). Pub. L. 109–461, §301(a)(2), (4), substituted "The surviving spouse of any person who died of a service-connected disability sustained during a period of qualifying service." for "the surviving spouse of any person who died of a service-connected disability,".
 
-Pub. L. 109–444, §3(a)(2), (4), which substituted "The surviving spouse of any person who died of a service-connected disability sustained during a period of qualifying service." for "the surviving spouse of any person who died of a service-connected disability,", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+Pub. L. 109–444, §3(a)(2), (4), which substituted "The surviving spouse of any person who died of a service-connected disability sustained during a period of qualifying service." for "the surviving spouse of any personwho died of a service-connected disability,", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Subsec. (a)(1)(C). Pub. L. 109–461, §301(a)(2), (5), substituted "The spouse or child" for "the spouse" and a period at end for ", or".
 
@@ -208,7 +208,7 @@ Pub. L. 117–328, div. U, title II, §215(b), Dec. 29, 2022, 136 Stat. 5455, pr
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–461, title III, §301(d), Dec. 22, 2006, 120 Stat. 3427, provided that: "The amendments made by this section \[amending this section and sections 3511, 3512, 3540, 3563, 3686, and 5113 of this title\] shall applywith respect to a payment of educational assistance for a course of education pursued after the date of the enactment of this Act \[Dec. 22, 2006\]."
+Pub. L. 109–461, title III, §301(d), Dec. 22, 2006, 120 Stat. 3427, provided that: "The amendments made by this section \[amending this section and sections 3511, 3512, 3540, 3563, 3686, and 5113 of this title\] shall apply with respect to a payment of educational assistance for a course of education pursued after the date of the enactment of this Act \[Dec. 22, 2006\]."
 
 Pub. L. 109–444, §3(d), Dec. 21, 2006, 120 Stat. 3307, which provided that amendments made by section 3 of Pub. L. 109–444 would apply with respect to a payment of educational assistance for a course of education pursued after Dec. 21, 2006, was repealed by Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 

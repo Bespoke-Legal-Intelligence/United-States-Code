@@ -54,7 +54,7 @@
 
 #### (B) Requests from banking and financial services committees
 
-&emsp;&emsp;The Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives may request the submission to the Committee of the matter described in clauses (ii) and (iii) of subparagraph (A) with respect to a report submitted under paragraph (1) that relates to an action that is not intended to significantly alter United States foreign policy with regard to the Russian Federation.
+&emsp;&emsp;The Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives may request the submission to the Committee of the matter described in clauses (ii) and (iii) of subparagraph (A) withrespect to a report submitted under paragraph (1) that relates to an action that is not intended to significantly alter United States foreign policy with regard to the Russian Federation.
 
 #### (5) Confidentiality of proprietary information
 
@@ -84,7 +84,7 @@
 
 #### (4) Limitation on actions during presidential consideration of a joint resolution of disapproval
 
-&emsp;Notwithstanding any other provision of law, if a joint resolution of disapproval relating toa report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), the President may not take that action for a period of 12 calendar days after the date of passage of the joint resolution of disapproval.
+&emsp;Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), the President may not take that action for a period of 12 calendar days after the date of passage of the joint resolution of disapproval.
 
 #### (5) Limitation on actions during congressional reconsideration of a joint resolution of disapproval
 
@@ -164,7 +164,7 @@ In this subsection:
 
 &emsp;&emsp;&emsp;(iii) Beginning on the third legislative day after each committee to which a joint resolution has been referred reports the joint resolution to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on the joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
-&emsp;&emsp;&emsp;(iv) The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except 2 hours of debate equally divided and controlled by the sponsor of the joint resolution (or a designee) and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+&emsp;&emsp;&emsp;(iv) The joint resolution shall be considered as read. All points of order againstthe joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except 2 hours of debate equally divided and controlled by the sponsor of the joint resolution (or a designee) and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 #### (B) Treatment of House joint resolution in Senate
 

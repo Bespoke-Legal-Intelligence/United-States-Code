@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop aplan for restructuring the workforce for the defense nuclear facility that takes into account—
+Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop a plan for restructuring the workforce for the defense nuclear facility that takes into account—
 
 &emsp;(1) the reconfiguration of the defense nuclear facility; and
 
@@ -126,7 +126,7 @@ Subsec. (g). Pub. L. 108–136, §3141(i)(5)(D)(ii), added subsec. (g).
 
 <b>1998</b>—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: "programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: "programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);"
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: "programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);".
 
 <b>1994</b>—Pub. L. 103–337, §1070(c)(2)(B), substituted "workforce" for "work force" in section catchline.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

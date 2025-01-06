@@ -98,7 +98,7 @@ Subsec. (e)(2)(B). Pub. L. 109–271 substituted "(U)" for "(V)".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–162, title VIII, §825(c)(2), Jan. 5, 2006, 119 Stat. 3065, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 5, 2006\] and shall apply to apprehensions occurring on or after such date."
+Pub. L. 109–162, title VIII, §825(c)(2), Jan. 5, 2006, 119 Stat. 3065, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 5, 2006\] and shall apply to apprehensions occurring on or after such date."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

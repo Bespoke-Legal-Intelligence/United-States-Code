@@ -56,7 +56,7 @@ Period Not Charged.—(1) The period for which, by reason of this subsection, ed
 
 (B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
 
-(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2025.
+(C) This paragraph, including clauses (ii) and (iii) of subparagraph (A), shall apply with respect to the closure or discontinuation of a course or program of education, as described in subsection (b)(1), that occurs during the period beginning on August 1, 2021, and ending on September 30, 2025.
 
 (d)
 
@@ -76,7 +76,7 @@ Notice of Closures.—Not later than 5 business days after the date on which the
 
 &emsp;(2) the effect of such closure on the individual's entitlement to educational assistance pursuant to this section.
 
-(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958; Pub. L. 117–297, §2, Dec. 27, 2022, 136 Stat. 4375; Pub. L. 117–333, §8(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–19, §2, Oct. 6, 2023, 137 Stat. 106.)
+(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958; Pub. L. 117–297, §2, Dec. 27, 2022, 136 Stat. 4375; Pub. L. 117–333, §8(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–19, §2, Oct. 6, 2023, 137 Stat. 106; Pub. L. 118–210, title II, §211, Jan. 2, 2025, 138 Stat. 2767.)
 
 #### <b>Editorial Notes</b>
 
@@ -85,6 +85,8 @@ Notice of Closures.—Not later than 5 business days after the date on which the
 A prior section 3699, added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974, 88 Stat. 1591, §1799; amended Pub. L. 94–502, title V, §513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, §423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3699 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to revolving fund available for making of loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, §306(e), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(2)(C). Pub. L. 118–210 added subpar. (C) and struck out former subpar. (C) which read as follows: "This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2025."
 
 <b>2023</b>—Subsec. (b)(1)(C). Pub. L. 117–333 added subpar. (C).
 
@@ -132,7 +134,7 @@ Individual described.—An individual described in this clause is an individual 
 
 #### Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation
 
-Pub. L. 116–315, title I, §1107(c), Jan. 5, 2021, 134 Stat. 4966, provided that: "The subparagraph (C) temporarily added to section 3699(b)(1) of title 38, United States Code, by \[former\] section 5 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140; 38 U.S.C. 3699 note) \[formerly set out below\] is amended by inserting 'or training establishment' after 'educational institution'."
+Pub. L. 116–315, title I, §1107(c), Jan. 5, 2021, 134 Stat. 4966, provided that: "The subparagraph (C) temporarilyadded to section 3699(b)(1) of title 38, United States Code, by \[former\] section 5 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140; 38 U.S.C. 3699 note) \[formerly set out below\] is amended by inserting 'or training establishment' after 'educational institution'."
 
 Pub. L. 116–140, §5, Apr. 28, 2020, 134 Stat. 632, which temporarily added closure of educational institution or training establishment due to emergency situation as reason for payment of educational assistance not to be charged against entitlement of students, was repealed by Pub. L. 117–333, §8(b), Jan. 5, 2023, 136 Stat. 6130. See subsec. (b)(1)(C) of this section.
 

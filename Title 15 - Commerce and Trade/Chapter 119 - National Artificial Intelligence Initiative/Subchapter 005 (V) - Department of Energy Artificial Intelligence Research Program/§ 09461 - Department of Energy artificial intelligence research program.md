@@ -50,7 +50,7 @@ Not later than 6 months after publication of the study described in section 9451
 
 #### (f) Risk management
 
-The Secretary shall review agency policies for risk management in artificial intelligence related projects and issue as necessary policies and principles that are consistent with theframework developed under section 278h–1(c) of this title (as added by section 5301 of this division).
+The Secretary shall review agency policies for risk management in artificial intelligence related projects and issue as necessary policies and principles that are consistent with the framework developed under section 278h–1(c) of this title (as added by section 5301 of this division).
 
 #### (g) Data privacy and sharing
 

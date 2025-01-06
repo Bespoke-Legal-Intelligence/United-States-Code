@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) has—
 
-&emsp;&emsp;&emsp;(i) developed and implemented the challenging State academic standards, andaligned assessments, described in paragraphs (1) and (2) of section 1111(b) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)\], and is producing the report cards required by section 1111(h) of such Act; or
+&emsp;&emsp;&emsp;(i) developed and implemented the challenging State academic standards, and aligned assessments, described in paragraphs (1) and (2) of section 1111(b) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)\], and is producing the report cards required by section 1111(h) of such Act; or
 
 &emsp;&emsp;&emsp;(ii) if the State has adopted new challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965, as a result of the amendments made to such Act \[20 U.S.C. 6301 et seq.\] by the Every Student Succeeds Act, made substantial progress (as determined by the Secretary) toward developing and implementing such standards and toward producing the report cards required under section 1111(h) of such Act;
 
@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each local educational agency, educational service agency, or school requestinga waiver of a Federal statutory or regulatory requirement as described in paragraph (1)(A) and any relevant State statutory or regulatory requirement from a State educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require. Each such application shall—
+&emsp;&emsp;Each local educational agency, educational service agency, or school requesting a waiver of a Federal statutory or regulatory requirement as described in paragraph (1)(A) and any relevant State statutory or regulatory requirement from a State educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require. Each such application shall—
 
 &emsp;&emsp;&emsp;(i) indicate each Federal program affected and each statutory or regulatory requirement that will be waived;
 
@@ -130,7 +130,7 @@
 
 #### (i) Annual reports
 
-&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report on the results of such oversight and the impact of the waivers on school and student performance.
+&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report onthe results of such oversight and the impact of the waivers on school and student performance.
 
 #### (ii) Performance data
 
@@ -198,7 +198,7 @@
 
 #### (ii) Timing for renewal
 
-&emsp;&emsp;&emsp;The Secretary shall either approve or deny the request for renewal by not later than 90 days after completing the performance review of the State described in subparagraph (B).
+&emsp;&emsp;&emsp;The Secretary shall either approve or deny the request for renewal by not laterthan 90 days after completing the performance review of the State described in subparagraph (B).
 
 #### (iii) Determination
 
@@ -212,7 +212,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall terminate or temporarily suspend the authority of a Stateeducational agency to grant waivers under this section if the Secretary determines that—
+&emsp;&emsp;&emsp;The Secretary shall terminate or temporarily suspend the authority of a State educational agency to grant waivers under this section if the Secretary determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is compelling evidence of systematic waste, fraud or abuse; or
 

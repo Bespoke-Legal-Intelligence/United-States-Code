@@ -138,7 +138,7 @@ In General.—Notwithstanding the amendments made by section 502(gg)(2) of the N
 
 "(b)
 
-Specified Positions.—Subsection (a) applies with respect to the Assistant Judge Advocates General of the Navy provided for by subsections (b) and (c) of section 5149 \[now 8089\] of title 10, United States Code."
+Specified Positions.—Subsection (a) applies with respect to the Assistant Judge Advocates Generalof the Navy provided for by subsections (b) and (c) of section 5149 \[now 8089\] of title 10, United States Code."
 
 #### Officer Serving as Deputy and Assistant Judge Advocate of the Navy on Dec. 7, 1967;
 

@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) pecans must be high quality, readily available, handled properly, and marketed efficiently to ensure that consumers have an adequate supply of pecans;
 
-&emsp;(4) the maintenance and expansion of existing markets and development of new markets for pecans are vital to the welfare of pecanproducers and those concerned with marketing, using, and producing pecans, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of pecans;
+&emsp;(4) the maintenance and expansion of existing markets and development of new markets for pecans are vital to the welfare of pecan producers and those concerned with marketing, using, and producing pecans, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of pecans;
 
 &emsp;(5) there exist established State organizations conducting pecan promotion, research, and industry and consumer education programs that are invaluable to the efforts of promoting the consumption of pecans;
 

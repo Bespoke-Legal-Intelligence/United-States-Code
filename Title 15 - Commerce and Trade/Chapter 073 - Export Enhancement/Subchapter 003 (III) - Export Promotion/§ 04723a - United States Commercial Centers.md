@@ -54,7 +54,7 @@ Each Center shall also promote United States export trade by—
 
 #### (f) Staffing of Centers
 
-Each Center shall be staffed by members of the United States and Foreign Commercial Service, participants in the Market Development Cooperator Program established under section 4723 of this title, other employees of the Department of Commerce, and employees of appropriate executive branch departments and agencies which are members of the Trade Promotion Coordinating Committee.
+Each Center shall be staffed by members of the United States and Foreign CommercialService, participants in the Market Development Cooperator Program established under section 4723 of this title, other employees of the Department of Commerce, and employees of appropriate executive branch departments and agencies which are members of the Trade Promotion Coordinating Committee.
 
 #### (g) Center facilities and their relationship to United States Department of Commerce operations in host countries
 

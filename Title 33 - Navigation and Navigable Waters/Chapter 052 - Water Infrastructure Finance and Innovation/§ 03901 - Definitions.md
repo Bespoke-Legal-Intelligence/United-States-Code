@@ -38,7 +38,7 @@ In this chapter:
 
 #### (7) Obligor
 
-&emsp;The term "obligor" means an eligible entity that is primarily liable for payment of theprincipal of, or interest on, a Federal credit instrument.
+&emsp;The term "obligor" means an eligible entity that is primarily liable for payment of the principal of, or interest on, a Federal credit instrument.
 
 #### (8) Project obligation
 
@@ -56,7 +56,7 @@ In this chapter:
 
 #### (10) Secured loan
 
-&emsp;The term "secured loan" means a direct loan or other debt obligation issued by an obligor and funded by the Secretary or Administrator, as applicable, in connection with the financing of a project under section 3908 of this title.
+&emsp;The term "secured loan" means a direct loan or other debt obligation issued by an obligor and funded by the Secretary or Administrator, as applicable, in connection with thefinancing of a project under section 3908 of this title.
 
 #### (11) State
 

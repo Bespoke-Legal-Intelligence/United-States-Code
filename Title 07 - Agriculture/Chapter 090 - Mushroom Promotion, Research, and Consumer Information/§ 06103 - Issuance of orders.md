@@ -12,7 +12,7 @@ To effectuate the declared policy of section 6101(b) of this title, the Secretar
 
 #### (2) Publication of order
 
-&emsp;Not later than 60 days after the receipt of a request and proposal by an interested person for an order, or when the Secretary determines to propose an order, the Secretary shall publish the proposed order and give due notice and opportunity for public comment on the proposed order.
+&emsp;Not later than 60 days after the receipt of a request and proposal by an interested person for an order, or when the Secretary determines to propose an order, the Secretary shall publish the proposed order and give due noticeand opportunity for public comment on the proposed order.
 
 #### (3) Issuance of order
 

@@ -2,7 +2,7 @@
 
 #### (a) Congress
 
-The Congress hereby declares that it is the policy of the United States in fulfillment of itsspecial responsibilities and legal obligations to the indigenous people of Hawaii resulting from the unique and historical relationship between the United States and the Government of the indigenous people of Hawaii—
+The Congress hereby declares that it is the policy of the United States in fulfillment of its special responsibilities and legal obligations to the indigenous people of Hawaii resulting from the unique and historical relationship between the United States and the Government of the indigenous people of Hawaii—
 
 &emsp;(1) to raise the health status of Native Hawaiians to the highest possible health level; and
 
@@ -122,7 +122,7 @@ It is the intent of the Congress that the Nation meet the following health objec
 
 The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 11710 of this title, a report on the progress made in each area toward meeting each of the objectives described in subsection (b).
 
-(Pub. L. 100–579, §3, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2303, Nov. 18, 1988, 102Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §3, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2303, Nov. 18, 1988, 102 Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
 #### <b>Editorial Notes</b>
 

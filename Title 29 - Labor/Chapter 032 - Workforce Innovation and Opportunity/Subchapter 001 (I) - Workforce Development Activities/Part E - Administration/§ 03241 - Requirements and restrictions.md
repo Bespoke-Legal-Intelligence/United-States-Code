@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(i) a decision relating to such violation has not been reached within 60 days after the date of the filing of the grievance or complaint and either party appeals to the Secretary; or
 
-&emsp;&emsp;&emsp;(ii) a decision relating to such violation has been reached within such 60 days andthe party to which such decision is adverse appeals such decision to the Secretary.
+&emsp;&emsp;&emsp;(ii) a decision relating to such violation has been reached within such 60 days and the party to which such decision is adverse appeals such decision to the Secretary.
 
 #### (B) Additional requirement
 

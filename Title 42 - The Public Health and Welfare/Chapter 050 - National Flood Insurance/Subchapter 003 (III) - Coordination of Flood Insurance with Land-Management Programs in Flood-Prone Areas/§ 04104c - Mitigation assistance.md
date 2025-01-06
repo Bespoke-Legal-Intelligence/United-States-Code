@@ -48,7 +48,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;&emsp;(E) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Administrator specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
 
-&emsp;&emsp;(F) the development or update of mitigation plans by a State or community which meet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
+&emsp;&emsp;(F) the development or update of mitigation plans by a State or community whichmeet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
 
 &emsp;&emsp;(G) the provision of technical assistance by States to communities and individuals to conduct eligible mitigation activities;
 
@@ -206,7 +206,7 @@ Subsecs. (g), (h). Pub. L. 112–141, §100225(a)(1), (9), added subsecs. (g) an
 
 Subsecs. (i), (j). Pub. L. 112–141, §100225(a)(2), redesignated subsecs. (i) and (j) as (e) and (f), respectively.
 
-Subsecs. (k), (m). Pub. L. 112–141, §100225(a)(1), struck out subsecs. (k) and (m) which defined "community" for purposes of this section and which related to encouraging and improving participation in the national flood insurance program, respectively.
+Subsecs. (k), (m). Pub. L. 112–141, §100225(a)(1), struck out subsecs. (k) and (m) which defined "community"for purposes of this section and which related to encouraging and improving participation in the national flood insurance program, respectively.
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–264, §103(f), substituted "7.5 percent of the available funds under this section" for "$1,500,000".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements and Nonapplication.—The Secretary of Transportation shall prescribe by regulation bumper standards for passenger motor vehicles and may prescribe by regulation bumper standards for passenger motor vehicle equipment manufactured in, orimported into, the United States. A standard does not apply to a passenger motor vehicle or passenger motor vehicle equipment—
+General Requirements and Nonapplication.—The Secretary of Transportation shall prescribe by regulation bumper standards for passenger motor vehicles and may prescribe by regulation bumper standards for passenger motor vehicle equipment manufactured in, or imported into, the United States. A standard does not apply to a passenger motor vehicle or passenger motor vehicle equipment—
 
 &emsp;(1) intended only for export;
 
@@ -132,7 +132,7 @@ Pub. L. 117–58, div. B, title IV, §24214, Nov. 15, 2021, 135 Stat. 829, provi
 
 "(a)
 
-Notice.—Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[ofTransportation\] shall issue a notice, for purposes of public review and comment, regarding potential updates to hood and bumper standards for motor vehicles (as defined in section 30102(a) of title 49, United States Code).
+Notice.—Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall issue a notice, for purposes of public review and comment, regarding potential updates to hood and bumper standards for motor vehicles (as defined in section 30102(a) of title 49, United States Code).
 
 "(b)
 

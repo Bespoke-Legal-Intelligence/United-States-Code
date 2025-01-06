@@ -122,7 +122,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (e) Plan must meet requirements without taking into account social security and similar contributions and benefits
 
-A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement withouttaking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
+A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
 
 #### (f) Coordination where employer has 2 or more plans
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (ii) Permissive aggregation
 
-&emsp;&emsp;&emsp;The employer may treat any plan not required to be included in an aggregation group under clause (i) as being part of such group if such group would continue to meet the requirements of sections 401(a)(4) and 410 with such plan being taken into account.
+&emsp;&emsp;&emsp;The employer may treat any plan not required to be included in an aggregationgroup under clause (i) as being part of such group if such group would continue to meet the requirements of sections 401(a)(4) and 410 with such plan being taken into account.
 
 #### (B) Top-heavy group
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
 
-(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47; Pub. L. 108–311, title IV, §408(a)(16), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title IX, §902(c), Aug. 17, 2006, 120 Stat. 1036; Pub. L. 117–328, div. T, title I, §§121(c), 125(e), title III, §310(a), Dec. 29, 2022, 136 Stat. 5311, 5315, 5346.)
+(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47; Pub. L. 108–311, title IV, §408(a)(16), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title IX, §902(c), Aug. 17, 2006, 120 Stat. 1036; Pub. L. 117–328, div. T, title I, §§121(c),125(e), title III, §310(a), Dec. 29, 2022, 136 Stat. 5311, 5315, 5346.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -462,7 +462,7 @@ Amendment by section 1452(c)(7) of Pub. L. 104–188 applicable to limitation ye
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1011(j)(3)(B), Nov. 10, 1988, 102 Stat. 3468, provided that: "The amendment made bythis paragraph \[amending this section\] shall apply to years beginning after December 31, 1988."
+Pub. L. 100–647, title I, §1011(j)(3)(B), Nov. 10, 1988, 102 Stat. 3468, provided that: "The amendment made by this paragraph \[amending this section\] shall apply to years beginning after December 31, 1988."
 
 Amendment by section 1011(d)(8), (i)(4)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -494,7 +494,7 @@ General Rule.—Except as provided in subsection (b), the amendments made by thi
 
 "(b)
 
-Allowance of Exclusion of Death Benefit for Self-Employed Individuals.—The amendment made by section 239 \[amending section 101 of this title\] shall apply with respect to decedents dying after December 31, 1983."
+Allowance of Exclusion of Death Benefit for Self-Employed Individuals.—The amendment madeby section 239 \[amending section 101 of this title\] shall apply with respect to decedents dying after December 31, 1983."
 
 #### Plan Amendments Not Required Until January 1, 1998
 

@@ -20,7 +20,33 @@ Planning assisted under this subchapter shall be a continuous process involving 
 
 Planning assistance under this subchapter shall be used in conjunction with any other available Federal planning assistance to ensure adequate and effective planning and economical use of funds.
 
-#### (d) State plans
+#### (d) Administrative expenses
+
+Administrative expenses that may be paid with a grant under this section include—
+
+&emsp;(1) expenses related to carrying out the planning process described in subsection (b);
+
+&emsp;(2) expenses related to project predevelopment;
+
+&emsp;(3) expenses related to updating economic development plans to align with other applicable State, regional, or local planning efforts; and
+
+&emsp;(4) expenses related to hiring professional staff to assist communities in—
+
+&emsp;&emsp;(A) project predevelopment and implementing projects and priorities included in—
+
+&emsp;&emsp;&emsp;(i) a comprehensive economic development strategy; or
+
+&emsp;&emsp;&emsp;(ii) an economic development planning grant;
+
+&emsp;&emsp;(B) identifying and using other Federal, State, and Tribal economic development programs;
+
+&emsp;&emsp;(C) leveraging private and philanthropic investment;
+
+&emsp;&emsp;(D) preparing economic recovery plans in response to disasters; and
+
+&emsp;&emsp;(E) carrying out economic development and predevelopment activities in accordance with professional economic development best practices.
+
+#### (e) State plans
 
 #### (1) Development
 
@@ -46,15 +72,17 @@ Planning assistance under this subchapter shall be used in conjunction with any 
 
 &emsp;&emsp;(D) assist in carrying out the workforce investment strategy of a State;
 
-&emsp;&emsp;(E) promote the use of technology in economic development, including access to high-speed telecommunications; and
+&emsp;&emsp;(E) promote the use of technology in economic development, including access to high-speed telecommunications (including broadband);
 
-&emsp;&emsp;(F) balance resources through the sound management of physical development.
+&emsp;&emsp;(F) address and mitigate economic impacts of extreme weather; and
+
+&emsp;&emsp;(G) balance resources through the sound management of physical development.
 
 #### (5) Report to Secretary
 
 &emsp;Each State that receives assistance for the development of a plan under this subsectionshall submit to the Secretary an annual report on the planning process assisted under this subsection.
 
-(Pub. L. 89–136, title II, §203, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3602; amended Pub. L. 108–373, title II, §201, Oct. 27, 2004, 118 Stat. 1759.)
+(Pub. L. 89–136, title II, §203, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3602; amended Pub. L. 108–373, title II, §201, Oct. 27, 2004, 118 Stat. 1759; Pub. L. 118–272, div. B, title II, §2214, Jan. 4, 2025, 138 Stat. 3180.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +91,12 @@ Planning assistance under this subchapter shall be used in conjunction with any 
 A prior section 3143, Pub. L. 89–136, title II, §203, Aug. 26, 1965, 79 Stat. 558; Pub. L. 94–273, §2(25), Apr. 21, 1976, 90 Stat. 376, directed deposit of funds into Economic Development Revolving Fund, prior to repeal by Pub. L. 105–393, §102(a).
 
 #### Amendments
+
+<b>2025</b>—Subsecs. (d), (e). Pub. L. 118–272, §2214(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+Subsec. (e)(4)(E). Pub. L. 118–272, §2214(3)(A), substituted "(including broadband);" for "; and".
+
+Subsec. (e)(4)(F), (G). Pub. L. 118–272, §2214(3)(B), (C), added subpar. (F) and redesignated former subpar. (F) as (G).
 
 <b>2004</b>—Subsec. (d)(1). Pub. L. 108–373, §201(1), inserted ", to the maximum extent practicable," after "shall be developed".
 

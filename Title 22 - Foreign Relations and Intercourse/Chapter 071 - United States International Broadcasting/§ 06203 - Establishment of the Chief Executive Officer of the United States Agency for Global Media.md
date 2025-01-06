@@ -38,7 +38,7 @@ December 23, 2016, and such date, referred to in subsec. (c), were in the origin
 
 #### Codification
 
-Pub. L. 116–283, div. A, title XII, §1299Q(e)(1), Jan. 1, 2021, 134 Stat. 4024, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment byPub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+Pub. L. 116–283, div. A, title XII, §1299Q(e)(1), Jan. 1, 2021, 134 Stat. 4024, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
 

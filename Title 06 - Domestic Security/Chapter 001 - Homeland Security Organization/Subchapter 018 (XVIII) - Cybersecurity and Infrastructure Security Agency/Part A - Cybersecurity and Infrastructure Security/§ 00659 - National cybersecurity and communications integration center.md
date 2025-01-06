@@ -216,7 +216,7 @@ The Secretary shall develop policies and procedures for direct reporting to the 
 
 #### (k) Reports on international cooperation
 
-Not later than 180 days after December 18, 2015, and periodically thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the range of efforts underway to bolster cybersecurity collaboration with relevant international partners in accordance with subsection (c)(8).
+Not later than 180 days after December 18, 2015, and periodically thereafter, the Secretaryof Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the range of efforts underway to bolster cybersecurity collaboration with relevant international partners in accordance with subsection (c)(8).
 
 #### (l) Outreach
 
@@ -310,7 +310,7 @@ The Director may, as appropriate, identify, develop, and disseminate actionable 
 
 &emsp;&emsp;(A) The protection of and restriction on dissemination of nonpublic information obtained through such a subpoena, including a requirement that the Agency not disseminate nonpublic information obtained through such a subpoena that identifies the party that is subject to such subpoena or the entity at risk identified by information obtained, except that the Agency may share the nonpublic information with the Department of Justice for the purpose of enforcing such subpoena in accordance with paragraph (4), and may share with a Federal agency the nonpublic information of the entity at risk if—
 
-&emsp;&emsp;&emsp;(i) the Agency identifies or is notified of a cybersecurity incident involving suchentity, which relates to the vulnerability which led to the issuance of such subpoena;
+&emsp;&emsp;&emsp;(i) the Agency identifies or is notified of a cybersecurity incident involving such entity, which relates to the vulnerability which led to the issuance of such subpoena;
 
 &emsp;&emsp;&emsp;(ii) the Director determines that sharing the nonpublic information with another Federal department or agency is necessary to allow such department or agency to take a law enforcement or national security action, consistent with the interagency procedures under paragraph (3)(A), or actions related to mitigating or otherwise resolving such incident;
 
@@ -460,7 +460,7 @@ The Director shall maintain capabilities to identify and address threats and vul
 
 &emsp;&emsp;&emsp;(vi) controls; and
 
-&emsp;&emsp;&emsp;(vii) other cybersecurity standards and best practices and procedures related to information security, including, as appropriate, information produced by other Federal agencies;
+&emsp;&emsp;&emsp;(vii) other cybersecurity standards and best practices and procedures related toinformation security, including, as appropriate, information produced by other Federal agencies;
 
 &emsp;&emsp;(F) work with senior SLTT entity officials, including chief information officers and senior election officials and through national associations, to coordinate the effective implementation by SLTT entities of tools, products, resources, policies, guidelines, controls, and procedures related to information security to secure the information systems, including election systems, of SLTT entities;
 
@@ -474,7 +474,7 @@ The Director shall maintain capabilities to identify and address threats and vul
 
 Not later than 1 year after June 21, 2022, and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.
 
-(Pub. L. 107–296, title XXII, §2209, formerly title II, §227, formerly §226, as added Pub. L. 113–282, §3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663; renumbered title XXII, §2209, and amended Pub. L. 115–278, §2(g)(2)(I),\(9)(A)(iii), Nov. 16, 2018, 132 Stat. 4178, 4180; Pub. L. 116–94, div. L, §102(a), Dec. 20, 2019, 133 Stat. 3089; Pub. L. 116–283, div. A, title XVII, §1716(a), Jan. 1, 2021, 134 Stat. 4094; Pub. L. 117–81, div. A, title XV, §§1541(a), 1542, 1548(c), Dec. 27, 2021, 135 Stat. 2054, 2056, 2063; Pub. L. 117–103, div. Y, §103(a)(1), Mar. 15, 2022, 136 Stat. 1038; Pub. L. 117–150, §2(2), June 21, 2022, 136 Stat. 1295; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(D), Dec. 23, 2022, 136 Stat. 3659.)
+(Pub. L. 107–296, title XXII, §2209, formerly title II, §227, formerly §226, as added Pub. L. 113–282, §3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663; renumbered title XXII, §2209, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(iii), Nov. 16, 2018, 132 Stat. 4178, 4180; Pub. L. 116–94, div. L, §102(a), Dec. 20, 2019, 133 Stat. 3089; Pub. L. 116–283, div. A, title XVII, §1716(a), Jan. 1, 2021, 134 Stat. 4094; Pub. L. 117–81, div. A, title XV, §§1541(a), 1542, 1548(c), Dec. 27, 2021, 135 Stat. 2054, 2056, 2063; Pub. L. 117–103, div. Y, §103(a)(1), Mar. 15, 2022, 136 Stat. 1038; Pub. L. 117–150, §2(2), June 21, 2022, 136 Stat. 1295; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(D), Dec. 23, 2022, 136 Stat. 3659.)
 
 #### <b>Editorial Notes</b>
 

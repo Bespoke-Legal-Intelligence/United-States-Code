@@ -50,7 +50,7 @@ Requirement.—The Secretary of Housing and Urban Development shall investigate 
 
 "(b)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete the investigation required under subsection (a) and submit a report to the Congress regarding the findings under the investigation. With respect to each such contract, the report shall (1) state whether the contract was made and is operating, or wasnot made or is not operating, in full compliance with applicable laws and regulations, and (2) for each contract that the Secretary determines is in such compliance issue a certification of such compliance by the Secretary of Housing and Urban Development.
+Report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete the investigation required under subsection (a) and submit a report to the Congress regarding the findings under the investigation. With respect to each such contract, the report shall (1) state whether the contract was made and is operating, or was not made or is not operating, in full compliance with applicable laws and regulations, and (2) for each contract that the Secretary determines is in such compliance issue a certification of such compliance by the Secretary of Housing and Urban Development.
 
 "(c)
 

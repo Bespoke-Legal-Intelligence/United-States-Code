@@ -14,7 +14,7 @@
 
 #### (2) Public input
 
-&emsp;During the comment period on the notice of proposed rulemaking under paragraph (1), the Secretary shall conduct not less than 3 public meetings in diverse geographical areas of the United States to provide persons in different regions an opportunity to comment.
+&emsp;During the comment period on the notice of proposed rulemaking under paragraph (1), theSecretary shall conduct not less than 3 public meetings in diverse geographical areas of the United States to provide persons in different regions an opportunity to comment.
 
 #### (3) Content
 
@@ -80,7 +80,7 @@
 
 #### (A) Requests for variances
 
-&emsp;&emsp;A State or foreign country from which food is imported into the United States mayin writing request a variance from the Secretary. Such request shall describe the variance requested and present information demonstrating that the variance does not increase the likelihood that the food for which the variance is requested will be adulterated under section 342 of this title, and that the variance provides the same level of public health protection as the requirements of the regulations adopted under subsection (b). The Secretary shall review such requests in a reasonable timeframe.
+&emsp;&emsp;A State or foreign country from which food is imported into the United States may in writing request a variance from the Secretary. Such request shall describe the variance requested and present information demonstrating that the variance does not increase the likelihood that the food for which the variance is requested will be adulterated under section 342 of this title, and that the variance provides the same level of public health protection as the requirements of the regulations adopted under subsection (b). The Secretary shall review such requests in a reasonable timeframe.
 
 #### (B) Approval of variances
 
@@ -134,7 +134,7 @@ The Secretary may coordinate with the Secretary of Agriculture and, as appropria
 
 &emsp;&emsp;&emsp;(i) with respect to a food for which a food packaging label is required by the Secretary under any other provision of this chapter, include prominently and conspicuously on such label the name and business address of the farm where the produce was grown; or
 
-&emsp;&emsp;&emsp;(ii) with respect to a food for which a food packaging label is not required by the Secretary under any other provision of this chapter, prominently and conspicuously display, at the point of purchase, the name and business address of the farm where the produce was grown, on a label, poster, sign, placard, or documents delivered contemporaneously with the food in the normal course of business, or, in the case of Internet sales, in an electronic notice.
+&emsp;&emsp;&emsp;(ii) with respect to a food for which a food packaging label is not required by the Secretary under any other provision ofthis chapter, prominently and conspicuously display, at the point of purchase, the name and business address of the farm where the produce was grown, on a label, poster, sign, placard, or documents delivered contemporaneously with the food in the normal course of business, or, in the case of Internet sales, in an electronic notice.
 
 #### (B) No additional label
 
@@ -144,7 +144,7 @@ The Secretary may coordinate with the Secretary of Agriculture and, as appropria
 
 #### (A) In general
 
-&emsp;&emsp;In the event of an active investigation of a foodborne illness outbreak that is directly linked to a farm subject to an exemption under this subsection, or if the Secretary determines that it is necessary to protect the public health and prevent or mitigate afoodborne illness outbreak based on conduct or conditions associated with a farm that are material to the safety of the food produced or harvested at such farm, the Secretary may withdraw the exemption provided to such farm under this subsection.
+&emsp;&emsp;In the event of an active investigation of a foodborne illness outbreak that is directly linked to a farm subject to an exemption under this subsection, or if the Secretary determines that it is necessary to protect the public health and prevent or mitigate a foodborne illness outbreak based on conduct or conditions associated with a farm that are material to the safety of the food produced or harvested at such farm, the Secretary may withdraw the exemption provided to such farm under this subsection.
 
 #### (B) Rule of construction
 
@@ -216,7 +216,7 @@ Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided t
 
 #### Small Entity Compliance Policy Guide
 
-Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350h\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
+Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350h\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policyguide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
 
 #### No Effect on HACCP Authorities
 

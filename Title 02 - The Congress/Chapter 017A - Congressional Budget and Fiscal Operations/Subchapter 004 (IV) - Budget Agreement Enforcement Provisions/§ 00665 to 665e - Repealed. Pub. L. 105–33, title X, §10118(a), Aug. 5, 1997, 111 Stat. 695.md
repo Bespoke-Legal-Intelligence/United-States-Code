@@ -2,7 +2,7 @@
 
 Section 665, Pub. L. 93–344, title VI, §601, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–602; amended Pub. L. 103–66, title XIV, §14002(a), (b), Aug. 10, 1993, 107 Stat. 683, defined terms and provided for points of order in cases where measures would exceed discretionary spending limits.
 
-A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, was classified to section 11 of former Title 31, prior to repeal and reenactment as sections 1105(a)(15), 1106(b), and 1108(d) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, was classified to section 11 of formerTitle 31, prior to repeal and reenactment as sections 1105(a)(15), 1106(b), and 1108(d) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 Section 665a, Pub. L. 93–344, title VI, §602, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–603; amended Pub. L. 103–322, title XXXI, §310001(f)(1), Sept. 13, 1994, 108 Stat. 2103, related to committee allocations and enforcement.
 

@@ -58,7 +58,7 @@ The Director shall ensure coordination of the policies and activities of the Ins
 
 &emsp;(3) activities under the Workforce Innovation and Opportunity Act \[29 U.S.C. 3101 et seq.\] (including activities under section 121(e) of such Act \[29 U.S.C. 3151(e)\])); <sup>2</sup> and
 
-&emsp;(4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in supporting economic and community development, providing education and research, improving digital literacy skills, strengthening financial literacy and other types of literacy skills, and enhancing public safety and health awareness.
+&emsp;(4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in supporting economic and community development, providing educationand research, improving digital literacy skills, strengthening financial literacy and other types of literacy skills, and enhancing public safety and health awareness.
 
 #### (g) Interagency collaboration
 
@@ -82,7 +82,7 @@ The Director may promulgate such rules and regulations as are necessary and appr
 
 #### (2) Review and evaluation
 
-&emsp;The Director shall establish procedures for reviewing and evaluating applications submitted under this chapter. Actions of the Institute and the Director in the establishment, modification, and revocation of such procedures under this chapter are vested in the discretion of the Institute and the Director. In establishing such procedures, the Director shall ensure that the criteria by which applications are evaluated are consistent with thepurposes of this chapter, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public.
+&emsp;The Director shall establish procedures for reviewing and evaluating applications submitted under this chapter. Actions of the Institute and the Director in the establishment, modification, and revocation of such procedures under this chapter are vested in the discretion of the Institute and the Director. In establishing such procedures, the Director shall ensure that the criteria by which applications are evaluated are consistent with the purposes of this chapter, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public.
 
 #### (3) Treatment of projects determined to be obscene
 
@@ -110,7 +110,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1
 
 The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Cl. (vii) of section 641(d)(2)(H) of that Act was redesignated cl. (vi) by Pub. L. 114–95, title IX, §9215(nn)(2)(A)(ii), Dec. 10, 2015, 129 Stat. 2176, and is now classified to section 9836(d)(2)(H)(vi) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of thistitle, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -140,7 +140,7 @@ Subsecs. (e) to (g). Pub. L. 111–340, §102(3), added subsecs. (e) to (g) and 
 
 Subsecs. (h), (i). Pub. L. 111–340, §102(2), redesignated subsecs. (f) and (g) as (h) and (i), respectively.
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–81, §103(1), inserted at end "Where appropriate, the Director shall ensure thatactivities under subchapter II of this chapter are coordinated with activities under section 6383 of this title."
+<b>2003</b>—Subsec. (e). Pub. L. 108–81, §103(1), inserted at end "Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title."
 
 Subsecs. (f), (g). Pub. L. 108–81, §103(2), added subsecs. (f) and (g).
 

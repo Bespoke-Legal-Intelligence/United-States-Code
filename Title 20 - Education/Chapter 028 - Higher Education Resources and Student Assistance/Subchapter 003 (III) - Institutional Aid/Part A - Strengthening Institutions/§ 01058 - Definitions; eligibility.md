@@ -66,7 +66,7 @@ For the purpose of this part, the term "junior or community college" means an in
 
 &emsp;&emsp;(A) provides an educational program of not less than 2 years that is acceptable for full credit toward such a degree, or
 
-&emsp;&emsp;(B) offers a 2-year program in engineering, mathematics, or the physical or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
+&emsp;&emsp;(B) offers a 2-year program in engineering, mathematics, or the physical or biologicalsciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
 #### (g) Low-income individual
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection,".</i>
 

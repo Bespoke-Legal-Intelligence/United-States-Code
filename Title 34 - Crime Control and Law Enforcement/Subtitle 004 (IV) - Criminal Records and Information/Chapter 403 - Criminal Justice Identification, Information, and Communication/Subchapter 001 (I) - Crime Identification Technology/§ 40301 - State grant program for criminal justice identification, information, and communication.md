@@ -40,7 +40,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(6) systems to facilitate full participation in the national instant criminal background check system established under section 40901(b) of this title for firearms eligibility determinations, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 40917 of this title;
 
-&emsp;(7) integrated criminal justice information systems to manage and communicate criminal justice information among law enforcementagencies, courts, prosecutors, and corrections agencies;
+&emsp;(7) integrated criminal justice information systems to manage and communicate criminal justice information among law enforcement agencies, courts, prosecutors, and corrections agencies;
 
 &emsp;(8) noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note); <sup>2</sup>
 
@@ -114,7 +114,7 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 #### (f) Grants to Indian tribes
 
-Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+Notwithstanding any other provision of this section, the Attorney General may use amountsmade available under this section to make grants to Indian tribes for use in accordance with this section.
 
 (Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, §1111(c)(1), Jan. 5, 2006, 119 Stat. 3101; Pub. L. 115–141, div. S, title VI, §604(a), Mar. 23, 2018, 132 Stat. 1136.)
 

@@ -44,7 +44,7 @@ The Council shall—
 
 &emsp;(1) provide coordination and leadership at the Federal level, and among all Federal departments and agencies, with respect to prevention, wellness and health promotion practices, the public health system, and integrative health care in the United States;
 
-&emsp;(2) after obtaining input from relevant stakeholders, develop a national prevention,health promotion, public health, and integrative health care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States;
+&emsp;(2) after obtaining input from relevant stakeholders, develop a national prevention, health promotion, public health, and integrative health care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States;
 
 &emsp;(3) provide recommendations to the President and Congress concerning the most pressing health issues confronting the United States and changes in Federal policy to achieve national wellness, health promotion, and public health goals, including the reduction of tobacco use, sedentary behavior, and poor nutrition;
 
@@ -92,7 +92,7 @@ The Council shall meet at the call of the Chairperson.
 
 #### (3) Purposes and duties
 
-&emsp;The Advisory Group shall develop policy and program recommendations and advise the Council on lifestyle-based chronic disease prevention and management, integrative health care practices, and health promotion.
+&emsp;The Advisory Group shall develop policy and program recommendations and advise theCouncil on lifestyle-based chronic disease prevention and management, integrative health care practices, and health promotion.
 
 #### (g) National prevention and health promotion strategy
 
@@ -184,7 +184,7 @@ Sec. 2. <i>Membership.</i>
 
 Sec. 3. <i>Purposes and Duties</i>. The Council shall:
 
-(a) provide coordination and leadership at the Federal level, and among all executive departments and agencies, with respect to prevention, wellness, and health promotion practices, the public health system, and integrative health care in the United States;
+(a) provide coordination and leadership at the Federal level, and among all executive departments andagencies, with respect to prevention, wellness, and health promotion practices, the public health system, and integrative health care in the United States;
 
 (b) develop, after obtaining input from relevant stakeholders, a national prevention, health promotion, public health, and integrative health-care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States, as further described in section 5 of this order;
 

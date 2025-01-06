@@ -26,7 +26,7 @@ The President shall establish a program under this subchapter (to be implemented
 
 Par. (7). Pub. L. 113–79, §3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: "promote economic and nutritional security by increasing educational, training, and other productive activities."
 
-<b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows:"address famine or other urgent or extraordinary relief requirements;".
+<b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows: "address famine or other urgent or extraordinary relief requirements;".
 
 Par. (5). Pub. L. 110–246, §3007(2)(A), inserted "food security and support" after "promote".
 
@@ -100,11 +100,11 @@ In General.—In providing nonemergency assistance under title II of the Food fo
 
 Other Requirements.—In providing assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], the Secretary of Agriculture and the Administrator of United States Agency for International Development shall ensure that commodities are provided in a manner that is consistent with sections 403(a) and (b) of such Act (7 U.S.C. 1733(a) and (b))."
 
-\[Section 3001(b)(1)(A), (2)(D) of Pub. L. 110–246, which directed amendment of section 201 of Pub. L. 105–385, set out above, by substituting "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954", was executed in subsec. (b) by making the substitution for "Agriculture Trade Development and Assistance Act of 1954", to reflect the probable intent of Congress.\]
+\[Section 3001(b)(1)(A), (2)(D) of Pub. L. 110–246, which directed amendment of section 201 of Pub. L. 105–385, set out above, by substituting "Food for Peace Act" for"Agricultural Trade Development and Assistance Act of 1954", was executed in subsec. (b) by making the substitution for "Agriculture Trade Development and Assistance Act of 1954", to reflect the probable intent of Congress.\]
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour and Cornmeal
 
-Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase anddonate flour and cornmeal when it has wheat or corn available for donation pursuant to this subchapter, see note set out under section 1431 of this title.
+Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase and donate flour and cornmeal when it has wheat or corn available for donation pursuant to this subchapter, see note set out under section 1431 of this title.
 
 #### <b>Executive Documents</b>
 

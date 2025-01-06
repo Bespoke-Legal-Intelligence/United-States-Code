@@ -152,7 +152,7 @@ Curriculum.—In carrying out subsection (a), the Secretary shall update any sim
 
 &emsp;"(3) Information about mental health and substance abuse disorders.
 
-&emsp;"(4) Information about local law enforcement crisis intervention teams and other resources for veteransexperiencing mental health crises available by the Department of Veterans Affairs, other elements of the Federal Government, and the community in which the police officers serve.
+&emsp;"(4) Information about local law enforcement crisis intervention teams and other resources for veterans experiencing mental health crises available by the Department of Veterans Affairs, other elements of the Federal Government, and the community in which the police officers serve.
 
 "(c)
 

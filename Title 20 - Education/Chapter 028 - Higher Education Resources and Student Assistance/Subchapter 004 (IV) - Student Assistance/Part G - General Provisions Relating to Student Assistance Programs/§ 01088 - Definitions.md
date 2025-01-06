@@ -10,7 +10,7 @@
 
 &emsp;(ii) require a minimum of 26 weeks of instructional time for a course of study that measures its program length in clock hours; and
 
-&emsp;(iii) require an undergraduate course of study to contain an amount of instructional time whereby a full-time student is expected to complete at least—
+&emsp;(iii) require an undergraduate course of study to contain an amount of instructionaltime whereby a full-time student is expected to complete at least—
 
 &emsp;&emsp;(I) 24 semester or trimester hours or 36 quarter credit hours in a course of study that measures its program length in credit hours; or
 
@@ -80,7 +80,7 @@ For purposes of parts B, D, and E of this subchapter:
 
 &emsp;The term "serving on active duty during a war or other military operation or national emergency" means service by an individual who is—
 
-&emsp;&emsp;(A) a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10 or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with a war or other military operation or national emergency, regardless of the location at which such active duty service is performed; and
+&emsp;&emsp;(A) a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10 or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with a war or other military operation or nationalemergency, regardless of the location at which such active duty service is performed; and
 
 &emsp;&emsp;(B) any other member of an Armed Force on active duty in connection with such emergency or subsequent actions or conditions who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
@@ -130,7 +130,7 @@ Subsec. (a)(4). Pub. L. 105–216, which directed the amendment of par. (4), eff
 
 Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted "do not have a high school diploma or its recognized equivalent" for "are admitted pursuant to section 1091(d) of this title" and inserted before period at end ", except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent".
 
-Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such institution has filed for bankruptcy; or".
+Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "such institution has filed for bankruptcy; or".
 
 Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For the purpose of any program under this subchapter, the term 'academic year' shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or at least 900 clock hours at an institution which measures program length in clock hours."
 
@@ -240,7 +240,7 @@ Pub. L. 102–26, §2(d)(2)(A), Apr. 9, 1991, 105 Stat. 124, provided that: "Sec
 
 #### Need-Based Aid
 
-Pub. L. 102–325, title XV, §1544, July 23, 1992, 106 Stat. 837, authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awardsto specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
+Pub. L. 102–325, title XV, §1544, July 23, 1992, 106 Stat. 837, authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

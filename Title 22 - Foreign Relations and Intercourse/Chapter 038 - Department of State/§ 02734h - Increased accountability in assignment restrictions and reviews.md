@@ -4,7 +4,7 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) the use of policies to restrict personnel from serving in certain assignments may undermine the Department's ability to deploy relevant cultural and linguistic skills at diplomatic posts abroad if not applied judiciously; and
+&emsp;(1) the use of policies to restrict personnel from serving in certain assignments may undermine the Department's ability to deployrelevant cultural and linguistic skills at diplomatic posts abroad if not applied judiciously; and
 
 &emsp;(2) the Department should continuously evaluate all processes relating to assignment restrictions, assignment reviews, and preclusions at the Department.
 

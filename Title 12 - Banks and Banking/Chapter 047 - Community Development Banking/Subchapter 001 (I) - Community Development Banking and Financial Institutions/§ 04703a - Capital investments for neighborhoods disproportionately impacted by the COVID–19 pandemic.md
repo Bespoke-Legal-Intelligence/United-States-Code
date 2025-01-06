@@ -48,7 +48,7 @@ In this section—
 
 #### (1) Fund established
 
-&emsp;There is established in the Treasury of the United States a fund to be known as the"Emergency Capital Investment Fund", which shall be administered by the Secretary.
+&emsp;There is established in the Treasury of the United States a fund to be known as the "Emergency Capital Investment Fund", which shall be administered by the Secretary.
 
 #### (2) Program authorized
 
@@ -112,7 +112,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
 
-&emsp;&emsp;&emsp;&emsp;(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, whichshall include a requirement that the stock shall carry the highest dividend or interest rate payable; and
+&emsp;&emsp;&emsp;&emsp;(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, which shall include a requirement that the stock shall carry the highest dividend or interest rate payable; and
 
 &emsp;&emsp;&emsp;(ii) provides that the term and condition described under clause (i) shall not apply if the application of that term and condition would adversely affect the capital treatment of the stock under current or successor applicable capital provisions compared to a capital instrument with identical terms other than the term and condition described under clause (i).
 
@@ -174,7 +174,7 @@ In this section—
 
 #### (2) Set-asides
 
-&emsp;Of the amounts made available under subsection (c)(2), not less than $4,000,000,000 shall be made available for eligible institutions with total assets of not more than$2,000,000,000 that timely apply to receive a capital investment under the Program, of which not less than $2,000,000,000 shall be made available for eligible institutions with total assets of less than $500,000,000 that timely apply to receive a capital investment under the Program.
+&emsp;Of the amounts made available under subsection (c)(2), not less than $4,000,000,000 shall be made available for eligible institutions with total assets of not more than $2,000,000,000 that timely apply to receive a capital investment under the Program, of which not less than $2,000,000,000 shall be made available for eligible institutions with total assets of less than $500,000,000 that timely apply to receive a capital investment under the Program.
 
 #### (3) Holding of instruments
 
@@ -206,7 +206,7 @@ The Secretary shall seek to establish the terms of preferred stock issued under 
 
 #### (g) Outreach to minority communities
 
-The Secretary shall require low- and moderate-income community financial institutions receiving capital investments under the Program to provide community outreach and communication, where appropriate, describing the availability and application process of receiving loans made possible by the Program through organizations, trade associations, and individuals that represent or work within or are members of minority communities.
+The Secretary shall require low- and moderate-income community financial institutions receiving capital investments under the Program to provide community outreach and communication, where appropriate, describing theavailability and application process of receiving loans made possible by the Program through organizations, trade associations, and individuals that represent or work within or are members of minority communities.
 
 #### (h) Restrictions
 

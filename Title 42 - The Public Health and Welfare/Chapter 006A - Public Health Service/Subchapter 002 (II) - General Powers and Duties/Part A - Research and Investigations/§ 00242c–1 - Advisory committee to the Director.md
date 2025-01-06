@@ -8,7 +8,7 @@ Not later than 60 days after December 29, 2022, the Secretary, acting through th
 
 The Advisory Committee may—
 
-&emsp;(1) make recommendations to the Director regarding ways to prioritize the activities of the agency in alignment with the CDC Strategic Plan required under section 242c(c) of this title;
+&emsp;(1) make recommendations to the Director regarding ways to prioritize the activities ofthe agency in alignment with the CDC Strategic Plan required under section 242c(c) of this title;
 
 &emsp;(2) advise on ways to achieve or improve performance metrics in relation to the CDC Strategic Plan, and other relevant metrics, as appropriate;
 
@@ -66,7 +66,7 @@ The Advisory Committee may—
 
 #### (d) Chair
 
-The Secretary shall select a member of the advisory committee to serve as the Chair of thecommittee. The Secretary may so select an individual from among the appointed members. The term of office of the chair shall be 2 years.
+The Secretary shall select a member of the advisory committee to serve as the Chair of the committee. The Secretary may so select an individual from among the appointed members. The term of office of the chair shall be 2 years.
 
 #### (e) Meetings
 

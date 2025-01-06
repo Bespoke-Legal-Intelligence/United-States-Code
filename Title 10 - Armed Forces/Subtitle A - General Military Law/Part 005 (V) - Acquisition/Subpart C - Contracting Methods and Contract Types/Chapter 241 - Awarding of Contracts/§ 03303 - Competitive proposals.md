@@ -14,7 +14,7 @@ Limit on Number of Proposals.—If the contracting officer determines that the n
 
 (c)
 
-Criteria for Awarding Contract.—Except as provided in section 3301(b) of this title, the head of the agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to theUnited States, considering only cost or price and the other factors included in the solicitation.
+Criteria for Awarding Contract.—Except as provided in section 3301(b) of this title, the head of the agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation.
 
 (d)
 

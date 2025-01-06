@@ -10,7 +10,7 @@ To be eligible to receive a grant under this subchapter, a State shall submit to
 
 &emsp;&emsp;(B) the criteria by which the State proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter, including the extent to which evidence-based approaches are utilized; and
 
-&emsp;(2) assurances that the State and any unit of local government to which the State providesfunding under section 10404(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d).
+&emsp;(2) assurances that the State and any unit of local government to which the State provides funding under section 10404(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for asystem of graduated sanctions described in subsection (d).
 
 #### (b) Local eligibility
 
@@ -96,7 +96,7 @@ Section was formerly classified to section 3796ee–2 of Title 42, The Public He
 
 #### Prior Provisions
 
-A prior section 1802 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–1 of Title 42, The Public Health and Welfare, related to State applications for grants, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1802 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–1of Title 42, The Public Health and Welfare, related to State applications for grants, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
 #### Amendments
 

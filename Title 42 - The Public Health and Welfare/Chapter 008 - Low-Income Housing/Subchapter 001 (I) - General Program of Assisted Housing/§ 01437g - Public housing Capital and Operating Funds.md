@@ -12,7 +12,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretaryshall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2)—
+&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2)—
 
 &emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2); and
 
@@ -96,7 +96,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;The Secretary shall establish an Operating Fund for the purpose of making assistance available to public housing agencies for the operation and management of public housing, including—
 
-&emsp;&emsp;(A) procedures and systems to maintain and ensure the efficient management and operation of public housing units (including amounts sufficient to pay for the reasonable costs of review by an independent auditor of the documentation or other information maintained pursuant to section 1437d(j)(6) of this title by a public housing agency or resident management corporation to substantiate the performance of that agency or corporation);
+&emsp;&emsp;(A) procedures and systems to maintain and ensure the efficient management and operation of public housing units (including amounts sufficient to pay for the reasonable costs of review by an independent auditor of the documentation or other information maintained pursuant to section 1437d(j)(6) ofthis title by a public housing agency or resident management corporation to substantiate the performance of that agency or corporation);
 
 &emsp;&emsp;(B) activities to ensure a program of routine preventative maintenance;
 
@@ -150,7 +150,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (ii) Third party contracts
 
-&emsp;&emsp;&emsp;Contracts described in clause (i) may include contracts for equipment conversionsto less costly utility sources, projects with resident-paid utilities, and adjustments to frozen base year consumption, including systems repaired to meet applicable building and safety codes and adjustments for occupancy rates increased by rehabilitation.
+&emsp;&emsp;&emsp;Contracts described in clause (i) may include contracts for equipment conversions to less costly utility sources, projects with resident-paid utilities, and adjustments to frozen base year consumption, including systems repaired to meet applicable building and safety codes and adjustments for occupancy rates increased by rehabilitation.
 
 #### (iii) Term of contract
 
@@ -218,7 +218,7 @@ The formulas under subsections (d)(2) and (e)(2) shall be developed according to
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a public housing agency may not useany of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999, including any public housing units demolished as part of any revitalization effort.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a public housing agency may not use any of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999, including any public housing units demolished as part of any revitalization effort.
 
 #### (B) Exception regarding use of assistance
 
@@ -364,7 +364,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources offunding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
@@ -422,7 +422,7 @@ Section 1437u(d)(2) of this title, referred to in subsec. (e)(2)(A)(vi), was red
 
 #### Prior Provisions
 
-A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housingand slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
+A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
 
@@ -488,7 +488,7 @@ Subsec. (d). Pub. L. 101–625, §572(2), substituted "low-income housing" for "
 
 Pub. L. 100–242, §118(d), inserted at end "If the Secretary determines that a public housing agency has failed to take the actions required to submit an acceptable audit on a timely basis in accordance with chapter 75 of title 31, the Secretary may arrange for, and pay the costs of, the audit. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this section, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, when appropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition."
 
-Subsec. (a)(2). Pub. L. 100–242, §112(b)(4), substituted "one developed pursuant to a contributions contractauthorized by section 1437c" for "being assisted by an annual contributions contract authorized by section 1437c(c)" and "any such" for "any such annual".
+Subsec. (a)(2). Pub. L. 100–242, §112(b)(4), substituted "one developed pursuant to a contributions contract authorized by section 1437c" for "being assisted by an annual contributions contract authorized by section 1437c(c)" and "any such" for "any such annual".
 
 Subsec. (a)(3). Pub. L. 100–242, §118(a)(2), added par. (3).
 
@@ -598,9 +598,11 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in par
 
 #### Capital Funds for Central Office Costs
 
-Pub. L. 117–328, div. L, title II, §214, Dec. 29, 2022, 136 Stat. 5174, provided that: "With respect to the use of amounts provided in this Act \[probably means title II of div. L. of Pub. L. 117–328, 136 Stat. 5139, see Tables for classification\] and in future Acts for the operation, capital improvement, and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d),(e)), the Secretary \[of Housing and Urban Development\] shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to paragraph (1) or (2) of section 9(g) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under paragraph (1) or (2) of section 9(g)."
+Pub. L. 118–42, div. F, title II, §214, Mar. 9, 2024, 138 Stat. 377, provided that: "With respect to the use of amounts provided in this Act \[meaning title II of div. F of Pub. L. 118–42, 138 Stat. 344, see Tables for classification\] and in future Acts for the operation, capital improvement, and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d), (e)), the Secretary \[of Housing and Urban Development\] shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to paragraph (1) or (2) of section 9(g) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under paragraph (1) or (2) of section 9(g)."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. L, title II, §214, Dec. 29, 2022, 136 Stat. 5174.
 
 Pub. L. 117–103, div. L, title II, §214, Mar. 15, 2022, 136 Stat. 758.
 
@@ -656,7 +658,7 @@ Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided
 
 Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: "That, hereafter, notwithstanding any other provision of law or any failure of the Secretary of Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \["
 
-public housingcapital fund (including transfer of funds)"\], shall apply to all assistance made available under this same heading on or after such date".
+public housing capital fund (including transfer of funds)"\], shall apply to all assistance made available under this same heading on or after such date".
 
 #### Cooling Degree Day Adjustment Under Performance Funding System
 
@@ -664,7 +666,7 @@ Pub. L. 101–625, title V, §508, Nov. 28, 1990, 104 Stat. 4187, provided that:
 
 #### Energy Efficiency Demonstration
 
-Pub. L. 101–625, title V, §523, Nov. 28, 1990, 104 Stat. 4215, which directed Secretary of Housing and Urban Development to carry out demonstration program to encourage use of private energy service companies and demonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
+Pub. L. 101–625, title V, §523, Nov. 28, 1990, 104 Stat. 4215, which directed Secretary of Housing and Urban Development to carry out demonstration program to encourage use of private energy service companies anddemonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 

@@ -24,7 +24,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 1684, as added by Pub.L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1683; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, §206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§8, 11, Dec. 24, 1970, 84 Stat. 1577; and former section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198; Pub. L. 91–219, title II, §206(b), Mar. 26, 1970, 84 Stat. 82; Pub. L. 91–584, §12, Dec. 24, 1970, 84 Stat. 1577, prior to the general revision by Pub. L. 92–540.
+Provisions similar to those comprising this section were contained in former section 1684, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1683; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, §206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§8, 11, Dec. 24, 1970, 84 Stat. 1577; and former section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198; Pub. L. 91–219, title II, §206(b), Mar. 26, 1970, 84 Stat. 82; Pub. L. 91–584, §12, Dec. 24, 1970, 84 Stat. 1577, prior to the general revision by Pub. L. 92–540.
 
 #### Amendments
 
@@ -88,9 +88,9 @@ Subsec. (a)(6). Pub. L. 96–466, §601(f), substituted "under section 1691(a)(2
 
 Subsecs. (c), (d). Pub. L. 96–466, §345(b), added subsecs. (c) and (d).
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–202, §304(a)(3)(A), (B), substituted "two and one-half hours of rest periods andnot more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 1775 of this title, then 22 hours per week of attendance" for "two and one-half hours of rest periods per week allowed, but if such course is approved pursuant to section 1775 of this title, then 27 hours per week of attendance".
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–202, §304(a)(3)(A), (B), substituted "two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 1775 of this title, then 22 hours per week of attendance" for "two and one-half hours of rest periods per week allowed, but if such course is approved pursuant to section 1775 of this title, then 27 hours per week of attendance".
 
-Subsec. (a)(2). Pub. L. 95–202, §304(a)(3)(C), (D), substituted "minimum of twenty-five hours per week net of instruction and not more than 5 hours of supervised study" for "minimum of twenty-five hours per week net of instruction" and "18 hours per week" for "22 hours per week".
+Subsec. (a)(2). Pub. L. 95–202, §304(a)(3)(C), (D), substituted "minimum of twenty-five hours per week netof instruction and not more than 5 hours of supervised study" for "minimum of twenty-five hours per week net of instruction" and "18 hours per week" for "22 hours per week".
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–502, §509(a)(1), provided that, if a course was approved pursuant to section 1775 of this title, then 27 hours of attendance per week with no more than 2½ hours of rest period per week would be considered full time.
 

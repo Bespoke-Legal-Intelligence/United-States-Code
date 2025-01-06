@@ -28,7 +28,7 @@ Section 1810, acts Aug. 1, 1946, ch. 724, §10, 60 Stat. 766; Oct. 30, 1951, ch.
 
 Section 1811, act Aug. 1, 1946, ch. 724, §11, 60 Stat. 768, related to patents and inventions. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2181 to 2190 of this title.
 
-Section 1812, acts Aug. 1, 1946, ch. 724, §12, 60 Stat. 770; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972, related to authority, powers and duties of Commission. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2201 to 2209 of this title.
+Section 1812, acts Aug. 1, 1946, ch. 724, §12, 60 Stat. 770; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972, related to authority, powers and duties of Commission.For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2201 to 2209 of this title.
 
 Section 1813, act Aug. 1, 1946, ch. 724, §13, 60 Stat. 772, related to compensation for acquisition of private property. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2221 to 2224 of this title.
 

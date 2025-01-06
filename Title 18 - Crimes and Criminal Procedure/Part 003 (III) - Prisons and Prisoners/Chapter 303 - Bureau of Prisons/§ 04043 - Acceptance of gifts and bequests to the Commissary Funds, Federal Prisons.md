@@ -1,6 +1,6 @@
 ### §4043. Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons
 
-The Attorney General may accept gifts or bequests of money for credit to the "Commissary Funds, Federal Prisons". A gift or bequest under this section is a gift or bequest to or for the useof the United States under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+The Attorney General may accept gifts or bequests of money for credit to the "Commissary Funds, Federal Prisons". A gift or bequest under this section is a gift or bequest to or for the use of the United States under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
 (Added Pub. L. 97–258, §2(d)(4)(B), Sept. 13, 1982, 96 Stat. 1059; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

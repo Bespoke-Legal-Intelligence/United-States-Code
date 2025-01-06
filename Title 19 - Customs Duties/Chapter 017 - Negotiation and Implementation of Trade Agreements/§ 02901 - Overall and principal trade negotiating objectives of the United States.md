@@ -54,7 +54,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;The principal negotiating objectives of the United States with respect to agriculture are to achieve, on an expedited basis to the maximum extent feasible, more open and fair conditions of trade in agricultural commodities by—
 
-&emsp;&emsp;(A) developing, strengthening, and clarifying rules for agricultural trade, includingdisciplines on restrictive or trade-distorting import and export practices;
+&emsp;&emsp;(A) developing, strengthening, and clarifying rules for agricultural trade, including disciplines on restrictive or trade-distorting import and export practices;
 
 &emsp;&emsp;(B) increasing United States agricultural exports by eliminating barriers to trade (including transparent and nontransparent barriers) and reducing or eliminating the subsidization of agricultural production consistent with the United States policy of agricultural stabilization in cyclical and unpredictable markets;
 
@@ -266,7 +266,7 @@ Purposes.—The purposes of this title \[see Tables for classification\] are to�
 
 Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, as amended by Ex. Ord. No. 12697, Dec. 22, 1989, 54 F.R. 53037; Ex. Ord. No. 12716, May 24, 1990, 55 F.R. 21831; Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) ("Omnibus Trade Act") \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended ("Tariff Act") \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) ("Defense Authorization Act") \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) ("Omnibus Trade Act") \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended ("Tariff Act") \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) ("Defense Authorization Act") \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensurethat the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
 
 #### PART I—TRADE, CUSTOMS, AND TARIFF LAWS
 

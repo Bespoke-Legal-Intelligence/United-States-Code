@@ -16,7 +16,7 @@
 
 #### Prior Provisions
 
-A prior section 3327, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424, which prescribed standards for determination of qualifications of postmasters, including experience in postal field service, seniority, length of service, level of difficulty and responsibility of work, attendance, awards and commendations, and performance rating, was repealed by Pub. L. 91–375, §6(c)(7)(A), Aug. 12, 1970, 84 Stat. 776. See section 1001 of Title 39, Postal Service.
+A prior section 3327, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424, which prescribed standards for determination of qualifications of postmasters, including experience in postal field service, seniority, length of service, levelof difficulty and responsibility of work, attendance, awards and commendations, and performance rating, was repealed by Pub. L. 91–375, §6(c)(7)(A), Aug. 12, 1970, 84 Stat. 776. See section 1001 of Title 39, Postal Service.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

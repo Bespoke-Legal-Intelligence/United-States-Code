@@ -10,7 +10,7 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 (2)(A) A bank for cooperatives may make or participate in loans and commitments to, and extend other technical and financial assistance to—
 
-&emsp;(i) any domestic or foreign party for the export, including (where applicable) the cost of freight, of agricultural commodities or products thereof, agricultural supplies, or aquaticproducts from the United States under policies and procedures established by the bank to ensure that the commodities, products, or supplies are originally sourced, where reasonably available, from one or more eligible cooperative associations described in section 2129(a) of this title on a priority basis, except that if the total amount of the balances outstanding on loans made by a bank under this clause that—
+&emsp;(i) any domestic or foreign party for the export, including (where applicable) the cost of freight, of agricultural commodities or products thereof, agricultural supplies, or aquatic products from the United States under policies and procedures established by the bank to ensure that the commodities, products, or supplies are originally sourced, where reasonably available, from one or more eligible cooperative associations described in section 2129(a) of this title on a priority basis, except that if the total amount of the balances outstanding on loans made by a bank under this clause that—
 
 &emsp;&emsp;(I) are made to finance the export of commodities, products, or supplies that are not originally sourced from a cooperative, and
 
@@ -91,4 +91,10 @@ Subsec. (f). Pub. L. 102–552, §505, in introductory provisions, substituted "
 <b>1990</b>—Subsec. (f). Pub. L. 101–624 added subsec. (f).
 
 <b>1980</b>—Pub. L. 96–592 designated existing provisions as subsec. (a), inserted provisions relating to currency exchanges and provisions relating to loans, etc., to domestic parties, and added subsecs. (b) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Funding To Be Consistent With Other Laws
+
+Pub. L. 118–42, div. B, title VII, §757, Mar. 9, 2024, 138 Stat. 114, provided that: "In this fiscal year and each fiscal year thereafter, and notwithstanding any other provision of law, none of the funds made available by this or any other Act may be used to implement section 3.7(f) of the Farm Credit Act of 1971 \[12 U.S.C.2128(f)\] in a manner inconsistent with section 343(a)(13) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1991(a)(13)\]."
 

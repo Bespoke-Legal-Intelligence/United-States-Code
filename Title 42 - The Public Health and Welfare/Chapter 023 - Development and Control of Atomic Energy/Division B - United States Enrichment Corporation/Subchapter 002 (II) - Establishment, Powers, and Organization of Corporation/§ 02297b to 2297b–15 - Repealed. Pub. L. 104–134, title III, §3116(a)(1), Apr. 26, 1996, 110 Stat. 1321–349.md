@@ -22,7 +22,7 @@ Section 2297b–9, act Aug. 1, 1946, ch. 724, title II, §1310, as added Pub. L.
 
 Section 2297b–10, act Aug. 1, 1946, ch. 724, title II, §1311, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2931, related to cooperation with other agencies.
 
-Section 2297b–11, act Aug. 1, 1946, ch. 724, title II, §1312, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2932, related to applicability of certain Federal laws.
+Section 2297b–11, act Aug. 1, 1946, ch. 724, title II, §1312, as added Pub. L. 102–486, title IX, §901, Oct. 24,1992, 106 Stat. 2932, related to applicability of certain Federal laws.
 
 Section 2297b–12, act Aug. 1, 1946, ch. 724, title II, §1313, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2933, related to security of Corporation facilities, equipment, etc.
 

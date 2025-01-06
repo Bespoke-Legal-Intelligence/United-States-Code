@@ -1,6 +1,6 @@
 ### §853<i>o</i>–1. Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay
 
-Active service in the National Oceanic and Atmospheric Administration as a deck officer or junior engineer and active service counted on June 30, 1922, for longevity pay, shall be credited to commissioned officers as active commissioned service for purposes of retirement and retirement pay.
+Active service in the National Oceanic and Atmospheric Administration as a deck officer orjunior engineer and active service counted on June 30, 1922, for longevity pay, shall be credited to commissioned officers as active commissioned service for purposes of retirement and retirement pay.
 
 (Pub. L. 87–649, §9(c), Sept. 7, 1962, 76 Stat. 496; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 

@@ -138,7 +138,7 @@ A plan sponsor of an individual account plan may—
 
 &emsp;&emsp;&emsp;(vii) the designated investment option under subsection (c)(1)(A)(iii) for amounts contributed to the pension-linked emergency savings account;
 
-&emsp;&emsp;&emsp;(viii) the options under subsection (e) for the account balance of the pension-linked emergency savings account after termination of the employment of the participant or termination by the plan sponsor of the pension-linked emergency savings account; and
+&emsp;&emsp;&emsp;(viii) the options under subsection (e) for the account balance of the pension-linkedemergency savings account after termination of the employment of the participant or termination by the plan sponsor of the pension-linked emergency savings account; and
 
 &emsp;&emsp;&emsp;(ix) the ability of a participant who becomes a highly compensated employee (as such term is defined in paragraph (3) of subsection (b)) to, as described in paragraph (2) of such subsection, withdraw any account balance from a pension-linked emergency savings account and the restriction on the ability of such a participant to make further contributions to the pension-linked emergency savings account.
 

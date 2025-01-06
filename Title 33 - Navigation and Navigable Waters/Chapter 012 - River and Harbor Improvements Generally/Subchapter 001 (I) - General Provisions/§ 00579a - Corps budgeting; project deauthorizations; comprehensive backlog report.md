@@ -26,7 +26,7 @@ In general.—The Secretary, once every 2 years, shall compile and publish—
 
 &emsp;(B)
 
-Required information.—The Secretary shall include on each list developed under clause (i), (ii), or (iii) of subparagraph (A) for each feasibility study, project, and separable element on that list—
+Required information.—The Secretary shall include on each list developed underclause (i), (ii), or (iii) of subparagraph (A) for each feasibility study, project, and separable element on that list—
 
 &emsp;&emsp;(i) the date of authorization of the feasibility study, project, or separable element, including any subsequent modifications to the original authorization;
 
@@ -108,7 +108,7 @@ Pub. L. 110–114, §2046(2), in last sentence, substituted "the last date of th
 
 Pub. L. 110–114, §2046(1), in first sentence, substituted "year" for "two years" and "5" for "7".
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted "Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every" for "Every".
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted "Notwithstanding section 3003 of PublicLaw 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every" for "Every".
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–303 substituted "7 full" for "10 full", "Upon submission" for "Before submission", and "for the planning, design, or construction" for "for construction".
 

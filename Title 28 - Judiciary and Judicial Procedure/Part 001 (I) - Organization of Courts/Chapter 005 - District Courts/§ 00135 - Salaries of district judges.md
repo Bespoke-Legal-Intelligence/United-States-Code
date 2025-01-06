@@ -14,7 +14,7 @@ Section consolidates section 5 of title 28, U.S.C., 1940 ed., and section 11–3
 
 Words "to be paid in monthly installments" were omitted, since the time of payment is a matter of administrative convenience. See 20 Comp. Gen. 834.
 
-The provision of section 5 of title 28, U.S.C., 1940 ed., for salaries of judges of the district court of Alaska was omitted as covered by section 101 of Title 48, U.S.C., 1940 ed., Territories and Insular Possessions, as amended by a separate section in the bill to enact this revised title. The provision of said section for salary of the Virgin Islands district judge was omitted as covered by section 5a of title 28, U.S.C., 1940 ed., as amended by a separate section in the bill to enact this revised title. Such section 5a is recommended for transfer to title 48, U.S.C., 1940 ed., because of the dual nature of the Virgin Islands district court.
+The provision of section 5 of title 28, U.S.C., 1940 ed., for salaries of judges of the district court of Alaska was omitted as covered by section 101 of Title 48, U.S.C., 1940 ed., Territories and Insular Possessions, as amended by a separate section in the bill to enact this revised title. The provision of said section for salary of the Virgin Islands district judge was omitted as covered by section 5a of title 28, U.S.C., 1940 ed., as amended by aseparate section in the bill to enact this revised title. Such section 5a is recommended for transfer to title 48, U.S.C., 1940 ed., because of the dual nature of the Virgin Islands district court.
 
 For salary of the district judge of Canal Zone district court, see section 1348 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions.
 

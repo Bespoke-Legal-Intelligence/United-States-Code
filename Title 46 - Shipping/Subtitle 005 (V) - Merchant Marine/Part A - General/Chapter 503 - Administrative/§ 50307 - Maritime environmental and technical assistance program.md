@@ -50,7 +50,7 @@ Uses.—The results of activities conducted under this section shall be used to 
 
 (c)
 
-Vessels.—Activities carried out under a grant or cooperative agreement made under this section may be conducted on public vessels under the control of the Maritime Administration, upon approval of the Maritime Administrator.
+Vessels.—Activities carried out under a grant or cooperative agreement made under thissection may be conducted on public vessels under the control of the Maritime Administration, upon approval of the Maritime Administrator.
 
 (d)
 
@@ -58,7 +58,7 @@ Eligible Entity Defined.—In this section, the term "eligible entity" means—
 
 &emsp;(1) a private entity, including a nonprofit organization;
 
-&emsp;(2) a State, regional, or local government or entity, including special districts;
+&emsp;(2) a public entity, including a Federal, State, regional, or local government entity, including a special district;
 
 &emsp;(3) an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) or a consortium of Indian Tribes;
 
@@ -110,13 +110,15 @@ Functions.—The Center shall—
 
 &emsp;&emsp;&emsp;(iv) documentation of best practices in the maritime industry, including training and informational webinars on solutions for the maritime industry; and
 
-&emsp;&emsp;(F) work with academic and private sector response training centers and Domestic Maritime Workforce Training and EducationCenters of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
+&emsp;&emsp;(F) work with academic and private sector response training centers and Domestic Maritime Workforce Training and Education Centers of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
 
-(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–81, div. C, title XXXV, §3514, Dec. 27, 2021, 135 Stat. 2243; Pub. L. 117–263, div. C, title XXXV, §3543(a), Dec. 23, 2022, 136 Stat. 3098.)
+(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–81, div. C, title XXXV, §3514, Dec. 27, 2021, 135 Stat. 2243; Pub. L. 117–263, div. C, title XXXV, §3543(a), Dec. 23, 2022, 136 Stat. 3098; Pub. L. 118–159, div. C, title XXXV, §3535(l), Dec. 23, 2024, 138 Stat. 2315.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(2). Pub. L. 118–159 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a State, regional, or local government or entity, including special districts;".
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §3543(a)(1), designated existing provisions as par. (1) and inserted subsec. heading.
 

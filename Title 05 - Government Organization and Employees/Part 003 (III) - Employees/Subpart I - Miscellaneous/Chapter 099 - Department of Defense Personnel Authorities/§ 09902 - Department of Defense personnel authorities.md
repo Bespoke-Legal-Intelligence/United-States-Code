@@ -234,7 +234,7 @@ Definition.—For purposes of this subsection, the term "appropriate committees 
 
 &emsp;&emsp;(C) the Committee on Oversight and Government Reform of the House of Representatives.
 
-(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], title XI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, §1075(a)(2), titleXI, §1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382; Pub. L. 112–81, div. A, title XI, §§1101(a)–(c), 1102(a), Dec. 31, 2011, 125 Stat. 1610, 1611; Pub. L. 118–31, div. A, title XI, §1120, Dec. 22, 2023, 137 Stat. 435.)
+(Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, §1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, \[div. A\], titleXI, §1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, §1075(a)(2), title XI, §1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382; Pub. L. 112–81, div. A, title XI, §§1101(a)–(c), 1102(a), Dec. 31, 2011, 125 Stat. 1610, 1611; Pub. L. 118–31, div. A, title XI, §1120, Dec. 22, 2023, 137 Stat. 435.)
 
 #### <b>Editorial Notes</b>
 
@@ -302,7 +302,7 @@ Pub. L. 114–328, div. A, title XI, §1107, Dec. 23, 2016, 130 Stat. 2448, as a
 
 #### Reports on Performance Management System and Appointment Procedures
 
-Pub. L. 112–81, div. A, title XI, §1102(b), Dec. 31, 2011, 125 Stat. 1611, which directed the Secretary of Defense to submit reports on performance management systemand appointment procedures, was repealed by Pub. L. 115–91, div. A, title X, §1051(q)(1), Dec. 12, 2017, 131 Stat. 1565.
+Pub. L. 112–81, div. A, title XI, §1102(b), Dec. 31, 2011, 125 Stat. 1611, which directed the Secretary of Defense to submit reports on performance management system and appointment procedures, was repealed by Pub. L. 115–91, div. A, title X, §1051(q)(1), Dec. 12, 2017, 131 Stat. 1565.
 
 #### Provisions Relating to the National Security Personnel System
 
@@ -412,7 +412,7 @@ Requirements.—The Secretary's proposal (whether as described in paragraph (1)(
 
 &emsp;"(4)
 
-Congressional approval required.—If Congress approves the Secretary's proposal in the National Defense Authorization Act for Fiscal Year 2011, the Secretary may implement the proposal (subject to any changes required by law) and begin the implementation of such proposal for personnel included inthe National Security Personnel System, in lieu of the transition that would otherwise be required by subsection (b), subject to paragraph (5).
+Congressional approval required.—If Congress approves the Secretary's proposal in the National Defense Authorization Act for Fiscal Year 2011, the Secretary may implement the proposal (subject to any changes required by law) and begin the implementation of such proposal for personnel included in the National Security Personnel System, in lieu of the transition that would otherwise be required by subsection (b), subject to paragraph (5).
 
 &emsp;"(5)
 

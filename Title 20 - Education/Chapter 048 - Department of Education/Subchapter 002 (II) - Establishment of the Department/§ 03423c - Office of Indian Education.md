@@ -58,5 +58,5 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Office of Educational Research and Improvement
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted byPub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
 

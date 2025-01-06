@@ -36,7 +36,7 @@ Monthly Rates.—The Secretary of the Navy shall prescribe the monthly rates of 
 
 Exceptions.—(1) An officer who fails of selection for assignment as an executive officer or commanding officer of a submarine or who declines to serve in either such position may not be paid submarine duty incentive pay except for periods during which the officer is serving on a submarine during underway operations.
 
-(2) An enlisted member may not be paid continuous submarine duty incentive pay whileserving ashore between submarine sea duty assignments unless the member has a sufficient period of enlistment (including any extension of an enlistment) remaining to be reassigned to submarine sea duty.
+(2) An enlisted member may not be paid continuous submarine duty incentive pay while serving ashore between submarine sea duty assignments unless the member has a sufficient period of enlistment (including any extension of an enlistment) remaining to be reassigned to submarine sea duty.
 
 (d)
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L.
 
 Pub. L. 100–180, div. A, title VI, §623(c), Dec. 4, 1987, 101 Stat. 1103, provided that:
 
-"(1) Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effecton the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply only with respect to duty performed on or after that date.
+"(1) Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply only with respect to duty performed on or after that date.
 
 "(2) The amendments made by this section shall take effect only if legislation as described in section 3(c) is enacted \[section 3(c) of Pub. L. 100–180, which is not classified to the Code\]."
 

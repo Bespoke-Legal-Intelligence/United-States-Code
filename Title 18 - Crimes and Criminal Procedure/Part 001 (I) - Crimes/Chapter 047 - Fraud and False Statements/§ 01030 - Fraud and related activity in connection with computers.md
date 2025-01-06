@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) information from any protected computer;
 
-&emsp;(3) intentionally, without authorization to access any nonpublic computer of a department or agency of the United States, accesses such a computer of that department or agency that is exclusively for the use of the Government of the United States or, in the case of a computer not exclusively for such use, is used by or for the Government of the United States and such conduct affects that use by or for the Government of the United States;
+&emsp;(3) intentionally, without authorization to access any nonpublic computer of a department or agency of the United States, accesses such a computer of that department or agencythat is exclusively for the use of the Government of the United States or, in the case of a computer not exclusively for such use, is used by or for the Government of the United States and such conduct affects that use by or for the Government of the United States;
 
 &emsp;(4) knowingly and with intent to defraud, accesses a protected computer without authorization, or exceeds authorized access, and by means of such conduct furthers the intended fraud and obtains anything of value, unless the object of the fraud and the thing obtained consists only of the use of the computer and the value of such use is not more than $5,000 in any 1-year period;
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(E) if the offender attempts to cause or knowingly or recklessly causes serious bodilyinjury from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for not more than 20 years, or both;
+&emsp;(E) if the offender attempts to cause or knowingly or recklessly causes serious bodily injury from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for not more than 20 years, or both;
 
 &emsp;(F) if the offender attempts to cause or knowingly or recklessly causes death from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for any term of years or for life, or both; or
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(G) the Securities Investor Protection Corporation;
 
-&emsp;&emsp;(H) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); and
+&emsp;&emsp;(H) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1)and (3) of section 1(b) of the International Banking Act of 1978); and
 
 &emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act;
 
@@ -170,7 +170,7 @@
 
 &emsp;(12) the term "person" means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity;
 
-&emsp;(13) the term "Federal election" means any election (as defined in section 301(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(1))) for Federal office (as definedin section 301(3) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(3))); and
+&emsp;(13) the term "Federal election" means any election (as defined in section 301(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(1))) for Federal office (as defined in section 301(3) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(3))); and
 
 &emsp;(14) the term "voting system" has the meaning given the term in section 301(b) of the Help America Vote Act of 2002 (52 U.S.C. 21081(b)).
 
@@ -194,7 +194,7 @@
 
 &emsp;(2) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section <sup>6</sup>
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, §2207(g), formerly title II, §225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(g), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563; Pub. L. 116–179, §2, Oct. 20, 2020, 134 Stat. 855.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, §2207(g), formerly title II, §225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(g), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§203,204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563; Pub. L. 116–179, §2, Oct. 20, 2020, 134 Stat. 855.)
 
 #### <b>Editorial Notes</b>
 
@@ -290,7 +290,7 @@ Subsec. (c)(3). Pub. L. 107–56, §814(c)(2), struck out ", (a)(5)(A), (a)(5)(
 
 Subsec. (c)(4). Pub. L. 107–56, §814(c)(3), added par. (4).
 
-Subsec. (d). Pub. L. 107–56, §506(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General."
+Subsec. (d). Pub. L. 107–56, §506(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read asfollows: "The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General."
 
 Subsec. (e)(2)(B). Pub. L. 107–56, §814(d)(1), inserted ", including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States" before semicolon.
 

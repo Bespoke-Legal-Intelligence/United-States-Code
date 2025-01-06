@@ -94,7 +94,7 @@ For purposes of this section:
 
 Nothing in this section shall be construed to authorize the Secretary to require an application, review, or licensing process for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b).
 
-(June 25, 1938, ch. 675, §415, as added Pub. L. 107–188, title III, §305(a), June 12, 2002, 116 Stat.667; amended Pub. L. 111–353, title I, §102(a)–(b)(1), (d)(2), Jan. 4, 2011, 124 Stat. 3887, 3889.)
+(June 25, 1938, ch. 675, §415, as added Pub. L. 107–188, title III, §305(a), June 12, 2002, 116 Stat. 667; amended Pub. L. 111–353, title I, §102(a)–(b)(1), (d)(2), Jan. 4, 2011, 124 Stat. 3887, 3889.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,7 +180,7 @@ Final regulations.—Not later than 9 months after the close of the comment peri
 
 &emsp;"(C) the requirements under sections 418 and 421 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g, 350j\], as added by this Act, from which the Secretary may issue exemptions or modifications of the requirements for certain types of facilities."
 
-Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided that: "Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350d\] (asadded by subsection (a) of this section). Such requirement of registration takes effect—
+Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided that: "Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350d\] (as added by subsection (a) of this section). Such requirement of registration takes effect—
 
 &emsp;"(1) upon the effective date of such final regulations; or
 

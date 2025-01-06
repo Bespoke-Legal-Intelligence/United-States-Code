@@ -56,7 +56,7 @@ Subject to the availability of funds and in consultation with other Federal offi
 
 &emsp;&emsp;(A) consult on the proposal with the government of each country and territory of the United States in which the project is to be conducted;
 
-&emsp;&emsp;(B) after taking into consideration any comments resulting from the consultation, approve or disapprove the project proposal; and
+&emsp;&emsp;(B) after taking into consideration any comments resulting from the consultation,approve or disapprove the project proposal; and
 
 &emsp;&emsp;(C) provide written notification of the approval or disapproval to the person that submitted the project proposal, other Federal officials, and each country and territory of the United States described in subparagraph (A).
 
@@ -82,11 +82,23 @@ In determining whether to approve project proposals under this section, the Secr
 
 &emsp;Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
 
-(Pub. L. 108–266, §4, July 2, 2004, 118 Stat. 793; Pub. L. 116–9, title VII, §7001(c)(3)(C), Mar. 12, 2019, 133 Stat. 787.)
+#### (h) Multiyear grants
+
+#### (1) Authorization
+
+&emsp;The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for marine turtles, freshwater turtles, or tortoises and the habitat of marine turtles, freshwater turtles, or tortoises.
+
+#### (2) Effect
+
+&emsp;Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+(Pub. L. 108–266, §4, July 2, 2004, 118 Stat. 793; Pub. L. 116–9, title VII, §7001(c)(3)(C), Mar. 12, 2019, 133 Stat. 787; Pub. L. 118–159, div. E, title LIII, §5307(a), Dec. 23, 2024, 138 Stat. 2446.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (h). Pub. L. 118–159 added subsec. (h).
 
 <b>2019</b>—Pub. L. 116–9, §7001(c)(3)(C)(i), struck out "Marine turtle" before "Conservation" in section catchline.
 

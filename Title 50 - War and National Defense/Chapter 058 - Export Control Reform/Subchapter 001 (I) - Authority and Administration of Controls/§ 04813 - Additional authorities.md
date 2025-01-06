@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out this subchapter on behalf of the President, the Secretary, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Energy, and the heads of other Federal agencies as appropriate, shall—
+In carrying out this subchapter on behalf of the President, the Secretary, in consultationwith the Secretary of State, the Secretary of Defense, the Secretary of Energy, and the heads of other Federal agencies as appropriate, shall—
 
 &emsp;(1) establish and maintain a list of items that are controlled under this subchapter;
 

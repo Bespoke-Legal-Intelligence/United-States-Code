@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 95–410, §211(c), added subsec. (e).
 
 #### Change of Name
 
-"Patent and Trademark Office" substituted for "Patent Office" in subsec. (a) pursuant to Pub. L. 93–596, §3,Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+"Patent and Trademark Office" substituted for "Patent Office" in subsec. (a) pursuant to Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
 
 #### Transfer of Functions
 

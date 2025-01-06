@@ -8,7 +8,7 @@ The Director shall make awards on a merit-reviewed, competitive basis to institu
 
 In carrying out research pursuant to subsection (a), the Director shall support research and development activities to—
 
-&emsp;(1) understand the current state of the cyber workforce, including factors that influence growth, retention, and development of that workforce;
+&emsp;(1) understand the current state of the cyber workforce, including factors that influencegrowth, retention, and development of that workforce;
 
 &emsp;(2) examine paths to entry and re-entry into the cyber workforce;
 

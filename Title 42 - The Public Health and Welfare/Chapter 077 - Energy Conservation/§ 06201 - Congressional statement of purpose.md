@@ -80,11 +80,11 @@ Pub. L. 101–383, §1, Sept. 15, 1990, 104 Stat. 727, provided that: "This Act 
 
 Pub. L. 101–360, §1, Aug. 10, 1990, 104 Stat. 421, provided: "That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under section 4511 of Title 50, War and National Defense\] may be referred to as the 'Energy Policy and Conservation Act Short-Term Extension Amendment of 1990'."
 
-Pub. L. 101–262, §1, Mar. 31, 1990, 104 Stat. 124, provided: "That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under section 4511 of Title 50, War and National Defense\] may be referred to as the 'Energy Policy and Conservation Act Extension Amendment of 1990'."
+Pub. L. 101–262, §1, Mar. 31, 1990, 104 Stat. 124, provided: "That this Act \[amending sections 6251 and 6285of this title and provisions set out as a note under section 4511 of Title 50, War and National Defense\] may be referred to as the 'Energy Policy and Conservation Act Extension Amendment of 1990'."
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: "This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the 'Alternative Motor Fuels Act of 1988'."
+Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: "This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section 6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the 'Alternative Motor Fuels Act of 1988'."
 
 Pub. L. 100–357, §1, June 28, 1988, 102 Stat. 671, provided that: "This Act \[amending sections 6291 to 6295 and 6297 of this title\] may be referred to as the 'National Appliance Energy Conservation Amendments of 1988'."
 
@@ -170,7 +170,7 @@ Alliance.—The term 'Alliance' means a national oilheat fuel research alliance 
 
 &emsp;"(2)
 
-Consumer education.—The term 'consumer education' means the provision of information to assist consumers and other persons in making evaluations and decisions regarding oilheat fuel and other nonindustrial commercial or residential space or hot water heating fuels.
+Consumer education.—The term 'consumer education' means the provision of information to assist consumers and other persons in making evaluations and decisions regarding oilheat fuel and othernonindustrial commercial or residential space or hot water heating fuels.
 
 &emsp;"(3)
 
@@ -328,11 +328,11 @@ Termination or Suspension.—
 
 &emsp;"(1)
 
-In general.—On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat fuel or weighted No. 1 distillate and No. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Alliance, to determine whether the oilheat fuel industry favors termination or suspension of the Alliance.
+In general.—On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat fuel or weighted No. 1 distillate andNo. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Alliance, to determine whether the oilheat fuel industry favors termination or suspension of the Alliance.
 
 &emsp;"(2)
 
-Volume percentages required to terminate or suspend.—Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half ofthe total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
+Volume percentages required to terminate or suspend.—Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half of the total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
 
 &emsp;"(3)
 
@@ -696,7 +696,7 @@ Prohibition on pass through.—None of the assessments collected under this titl
 
 "(c)
 
-Sale for Use Other Than as Oilheat Fuel.—No. 1 distillate and No. 2 dyed distillate sold for usesother than as oilheat fuel are excluded from the assessment.
+Sale for Use Other Than as Oilheat Fuel.—No. 1 distillate and No. 2 dyed distillate sold for uses other than as oilheat fuel are excluded from the assessment.
 
 "(d)
 
@@ -856,7 +856,7 @@ Heating oil efficiency and upgrade program.—
 
 In general.—The Alliance shall ensure that not less than 15 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to carry out programs to assist consumers—
 
-&emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existingheating system to improve the efficiency of the system;
+&emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existing heating system to improve the efficiency of the system;
 
 &emsp;&emsp;&emsp;"(ii) to improve energy efficiency or reduce energy consumption through cost-effective energy efficiency programs for consumers; or
 
@@ -1138,7 +1138,7 @@ By virtue of the authority vested in me by the Constitution and the statutes of 
 
 Section 1. (a) The Administrator of General Services is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by Section 510 of the Motor Vehicle Information and Cost Savings Act, as amended (89 Stat. 915, 15 U.S.C. 2010). The Administrator shall exercise that authority to ensure that passenger automobiles acquired by all Executive agencies in each fiscal year achieve a fleet average fuel economy standard that is not less than the average fuel economy standard for automobiles manufactured for the model year which includes January 1 of each fiscal year.
 
-(b) The Administrator of General Services shall also promulgate rules which will ensure that each class of nonpassenger automobiles acquired by all Executive agencies in each fiscal year achieves a fleet average fuel economy that is not less than the average fuel economy standard for uch class, established pursuant to Section 502(b) of the Motor Vehicle Information and Cost Savings Act, as amended (89 Stat. 903, 15 U.S.C. 2002(b)), for the model year which includes January 1 of such fiscal year. Such rules shall not apply to nonpassenger automobiles intended for use in combat-related missions for the Armed Forces or intended for use in law enforcement work or emergency rescue work. The Administrator may provide for granting exceptions for individual nonpassenger automobiles or categories of nonpassenger automobiles as he determines to be appropriate in terms of energy conservation, economy, efficiency, or service.
+(b) The Administrator of General Services shall also promulgate rules which will ensure that each class ofnonpassenger automobiles acquired by all Executive agencies in each fiscal year achieves a fleet average fuel economy that is not less than the average fuel economy standard for uch class, established pursuant to Section 502(b) of the Motor Vehicle Information and Cost Savings Act, as amended (89 Stat. 903, 15 U.S.C. 2002(b)), for the model year which includes January 1 of such fiscal year. Such rules shall not apply to nonpassenger automobiles intended for use in combat-related missions for the Armed Forces or intended for use in law enforcement work or emergency rescue work. The Administrator may provide for granting exceptions for individual nonpassenger automobiles or categories of nonpassenger automobiles as he determines to be appropriate in terms of energy conservation, economy, efficiency, or service.
 
 (c) In performing these functions, the Administrator of General Services shall consult with the Secretary of Transportation and the Secretary of Energy.
 

@@ -38,7 +38,7 @@ The definitions in section 40102(a) of title 49 shall apply with respect to term
 
 &emsp;&emsp;&emsp;&emsp;(I) any officer or employee of the air carrier whose total compensation exceeded $425,000 in calendar year 2019 (other than an employee whose compensation is determined through an existing collective bargaining agreement entered into prior to March 11, 2021)—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) total compensation that exceeds, during any 12 consecutivemonths of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2019; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) total compensation that exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2019; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) severance pay or other benefits upon termination of employment with the air carrier which exceeds twice the maximum total compensation received by the officer or employee from the air carrier in calendar year 2019; and
 

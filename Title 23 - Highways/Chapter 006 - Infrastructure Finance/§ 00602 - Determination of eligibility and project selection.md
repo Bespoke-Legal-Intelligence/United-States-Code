@@ -26,7 +26,7 @@ In general.—To be eligible for assistance under the TIFIA program, a project s
 
 &emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
 
-&emsp;&emsp;&emsp;(iv) an investment-grade rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $150,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
+&emsp;&emsp;&emsp;(iv) an investment-grade rating from at least 2 rating agencies on the Federal credit instrument, subject to the conditionthat, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $150,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
 &emsp;&emsp;(B)
 
@@ -126,7 +126,7 @@ Rural projects fund.—In the case of a project capitalizing a rural projects fu
 
 &emsp;(11)
 
-Public-private partnerships.—In the case of a project to be carried out through a public-private partnership, the public partner shall have—
+Public-private partnerships.—In the case of a project to be carried out through apublic-private partnership, the public partner shall have—
 
 &emsp;&emsp;(A) conducted a value for money analysis or similar comparative analysis; and
 
@@ -184,7 +184,7 @@ Payment and performance security.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall ensure that the design and construction of a project carried out with assistance under theTIFIA program shall have appropriate payment and performance security, regardless of whether the obligor is a State, local government, agency or instrumentality of a State or local government, public authority, or private party.
+In general.—The Secretary shall ensure that the design and construction of a project carried out with assistance under the TIFIA program shall have appropriate payment and performance security, regardless of whether the obligor is a State, local government, agency or instrumentality of a State or local government, public authority, or private party.
 
 &emsp;&emsp;(B)
 
@@ -224,7 +224,7 @@ Development Phase Activities.—Any credit instrument secured under the TIFIA pr
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241.Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), (2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

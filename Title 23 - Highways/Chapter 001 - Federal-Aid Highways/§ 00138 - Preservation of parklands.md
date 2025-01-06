@@ -74,7 +74,7 @@ Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—T
 
 &emsp;&emsp;(C)
 
-Criteria.—In making any determination under this subsection, the Secretary shall consider to be part of a transportation program or project any avoidance, minimization, mitigation, or enhancement measures that are required to be implemented as a condition of approval of the transportation program or project.
+Criteria.—In making any determination under this subsection, the Secretary shall consider to be part of a transportation program or project any avoidance, minimization, mitigation, or enhancement measures that are required to be implemented asa condition of approval of the transportation program or project.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ In general.—The Secretary shall—
 
 &emsp;&emsp;(A) align, to the maximum extent practicable, with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and section 306108 of title 54, including implementing regulations; and
 
-&emsp;&emsp;(B) not later than 90 days after the date of enactment of this subsection, coordinatewith the Secretary of the Interior and the Executive Director of the Advisory Council on Historic Preservation (referred to in this subsection as the "Council") to establish procedures to satisfy the requirements described in subparagraph (A) (including regulations).
+&emsp;&emsp;(B) not later than 90 days after the date of enactment of this subsection, coordinate with the Secretary of the Interior and the Executive Director of the Advisory Council on Historic Preservation (referred to in this subsection as the "Council") to establish procedures to satisfy the requirements described in subparagraph (A) (including regulations).
 
 &emsp;(2)
 
@@ -168,7 +168,7 @@ Section 106 requirements.—The requirements of section 306108 of title 54 are c
 
 (e)
 
-Bridge Exemption From Consideration.—A common post-1945 concrete or steel bridge or culvert (as described in 77 Fed. Reg. 68790) that is exempt from individual review under section 306108 of title 54 shall be exempt from consideration under this section.
+Bridge Exemption From Consideration.—A common post-1945 concrete or steel bridge or culvert (as described in 77 Fed. Reg. 68790) thatis exempt from individual review under section 306108 of title 54 shall be exempt from consideration under this section.
 
 (f)
 
@@ -210,7 +210,7 @@ Clarification with respect to certain bridges and tunnels.—The bridges and tun
 
 For the effective date of the Federal-Aid Highway Act of 1968, referred to in subsec. (a)(3), see section 37 of Pub. L. 90–495, set out as an Effective Date of 1968 Amendment note under section 101 of this title.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(A), (2)(A), is Pub. L. 91–190,Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(A), (2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (c)(1)(B), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
@@ -272,7 +272,7 @@ Pub. L. 109–59, title VI, §6009(b), Aug. 10, 2005, 119 Stat. 1876, provided t
 
 "(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall (in consultation with affected agencies and interested parties) promulgate regulations that clarify the factors to be considered and the standards to be applied in determining the prudence and feasibility of alternatives under section 138 of title 23 and section 303 of title 49, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall (in consultation with affectedagencies and interested parties) promulgate regulations that clarify the factors to be considered and the standards to be applied in determining the prudence and feasibility of alternatives under section 138 of title 23 and section 303 of title 49, United States Code.
 
 "(2)
 

@@ -30,7 +30,7 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 #### (3) Voting
 
-&emsp;A grower, grower-sheller, or importer who votes in any referendum conducted under this chapter shall vote in person at the appropriate local office of the Agricultural Stabilization and Conservation Service, as determined by the Secretary or by mail to the Secretary.
+&emsp;A grower, grower-sheller, or importer who votes in any referendum conducted under thischapter shall vote in person at the appropriate local office of the Agricultural Stabilization and Conservation Service, as determined by the Secretary or by mail to the Secretary.
 
 #### (4) Notice
 

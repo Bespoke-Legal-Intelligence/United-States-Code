@@ -38,7 +38,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date
 
-Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f)of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

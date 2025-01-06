@@ -26,7 +26,7 @@ Limitation on time in mobilization category.—A member of the Space Force in a 
 
 &emsp;(4)
 
-Designation of grades and military skills or specialties.—The Secretary of the Air Force shall designate the grades and military skills or specialties of members to be eligible for placement in such mobilization category.
+Designation of grades and military skills or specialties.—The Secretary of theAir Force shall designate the grades and military skills or specialties of members to be eligible for placement in such mobilization category.
 
 &emsp;(5)
 

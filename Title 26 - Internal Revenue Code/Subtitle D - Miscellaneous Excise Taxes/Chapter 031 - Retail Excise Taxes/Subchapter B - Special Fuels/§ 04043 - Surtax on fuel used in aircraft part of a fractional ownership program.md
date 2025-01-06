@@ -84,13 +84,17 @@ For purposes of this section—
 
 #### (d) Termination
 
-This section shall not apply to liquids used as a fuel in an aircraft after March 8, 2024.
+This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2028.
 
-(Added Pub. L. 112–95, title XI, §1103(a)(1), Feb. 14, 2012, 126 Stat. 149; amended Pub. L. 115–254, div. B, title VIII, §802(c)(1), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, §2212(c)(1), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, §202(c)(1), Dec. 26, 2023, 137 Stat. 1115.)
+(Added Pub. L. 112–95, title XI, §1103(a)(1), Feb. 14, 2012, 126 Stat. 149; amended Pub. L. 115–254, div. B, title VIII, §802(c)(1), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, §2212(c)(1), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, §202(c)(1), Dec. 26, 2023, 137 Stat. 1115; Pub. L. 118–41, title II, §202(c)(1), Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XIII, §1302(c)(1), May 16, 2024, 138 Stat. 1433.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d). Pub. L. 118–63 substituted "September 30, 2028" for "May 10, 2024".
+
+Pub. L. 118–41 substituted "May 10, 2024" for "March 8, 2024".
 
 <b>2023</b>—Subsec. (d). Pub. L. 118–34 substituted "March 8, 2024" for "December 31, 2023".
 

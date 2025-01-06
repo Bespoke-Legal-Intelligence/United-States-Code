@@ -10,7 +10,7 @@ At the end of each fiscal year, the Secretary of State shall notify the Secretar
 
 #### (b) Credit to Fund
 
-Before closing the accounts for each fiscal year, the Secretary of the Treasury shall creditsuch amounts to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated.
+Before closing the accounts for each fiscal year, the Secretary of the Treasury shall credit such amounts to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated.
 
 #### (c) Reports to Congress
 

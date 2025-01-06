@@ -10,7 +10,7 @@ In this section—
 
 #### (b) Establishment
 
-Not later than 180 days after October 4, 2006, the Administrator shall establish a National Emergency Family Registry and Locator System to help reunify families separated after an emergency or major disaster.
+Not later than 180 days after October 4, 2006, the Administrator shall establish a NationalEmergency Family Registry and Locator System to help reunify families separated after an emergency or major disaster.
 
 #### (c) Operation of System
 

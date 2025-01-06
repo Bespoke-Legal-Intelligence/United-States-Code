@@ -56,7 +56,7 @@ Leverage.—The term "leverage" means a financial structure used to increase fun
 
 &emsp;(10)
 
-Leveraged.—The term "leveraged", as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
+Leveraged.—The term "leveraged", as used with respect to a State infrastructurebank, means that the bank has total potential liabilities that exceed the capital of the bank.
 
 &emsp;(11)
 
@@ -104,7 +104,7 @@ Rail account.—Subject to subsection (j), the Secretary may permit a State ente
 
 &emsp;(4)
 
-Rural projects fund.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan madeto the bank in accordance with sections 602 and 603.
+Rural projects fund.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan made to the bank in accordance with sections 602 and 603.
 
 &emsp;(5)
 
@@ -192,7 +192,7 @@ Applicability of Federal Law.—
 
 &emsp;(1)
 
-In general.—The requirements of this title and title 49 that would otherwise apply tofunds made available under this title or such title and projects assisted with those funds shall apply to—
+In general.—The requirements of this title and title 49 that would otherwise apply to funds made available under this title or such title and projects assisted with those funds shall apply to—
 
 &emsp;&emsp;(A) funds made available under this title or such title and contributed to an infrastructure bank established under this section, including the non-Federal contribution required under subsection (g); and
 
@@ -228,7 +228,7 @@ Subsec. (k). Pub. L. 117–58, §12001(k)(2), substituted "fiscal years 2022 thr
 
 <b>2015</b>—Subsec. (a)(11), (12). Pub. L. 114–94, §2001(i)(1), added pars. (11) and (12).
 
-Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
+Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b);and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
 
 Subsec. (d)(1)(B). Pub. L. 114–94, §1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, §1519(c). See 2012 Amendment note below.
 

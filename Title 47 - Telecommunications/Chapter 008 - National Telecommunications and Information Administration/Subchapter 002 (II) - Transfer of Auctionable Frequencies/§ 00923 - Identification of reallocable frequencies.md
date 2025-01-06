@@ -10,7 +10,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;(3) that can feasibly be made available, as of the date of submission of the report or at any time during the next 15 years, for use under the 1934 Act \[47 U.S.C. 151 et seq.\] (other than for Federal Government stations under section 305 of the 1934 Act \[47 U.S.C. 305\]);
 
-&emsp;(4) the transfer of which (from Federal Government use) will not result in costs to theFederal Government, or losses of services or benefits to the public, that are excessive in relation to the benefits to the public that may be provided by non-Federal licensees; and
+&emsp;(4) the transfer of which (from Federal Government use) will not result in costs to the Federal Government, or losses of services or benefits to the public, that are excessive in relation to the benefits to the public that may be provided by non-Federal licensees; and
 
 &emsp;(5) that are most likely to have the greatest potential for productive uses and public benefits under the 1934 Act \[47 U.S.C. 151 et seq.\] if allocated for non-Federal use.
 
@@ -130,7 +130,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (1) Timetable required
 
-&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1), include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1), include a timetable that recommends effective datesby which the President shall withdraw or limit assignments of the frequencies specified in such reports.
 
 #### (2) Expedited reallocation
 
@@ -156,7 +156,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (f) Additional reallocation report
 
-If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shallprepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
+If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
 
 #### (g) Relocation of and spectrum sharing by Federal Government stations
 
@@ -466,7 +466,7 @@ Subsec. (g)(4)(B). Pub. L. 112–96, §6701(a)(1)(E)(ii), substituted "relocatio
 
 Subsec. (g)(5). Pub. L. 112–96, §6701(a)(1)(F), substituted "relocation or sharing costs" for "relocation costs" and inserted "or sharing" after "for relocation".
 
-Subsec. (g)(6). Pub. L. 112–96, §6701(a)(1)(G), amended par. (6) generally. Prior to amendment, text read as follows: "The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies defined in paragraph (2) to frequencies or facilities of comparable capability. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems by relocating to a new frequency assignment or by utilizing an alternative technology, the NTIA shall terminate the entity's authorization and notify the Commission that the entity's relocation has been completed. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation submitted by the Director of the Office of Management and Budget under section 928(d)(2)(B) of this title."
+Subsec. (g)(6). Pub. L. 112–96, §6701(a)(1)(G), amended par. (6) generally. Prior to amendment, text read as follows: "The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies defined in paragraph (2) to frequencies or facilities of comparable capability. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems by relocating to a new frequency assignment or by utilizing an alternative technology, the NTIA shall terminate the entity's authorization and notify the Commission that the entity's relocation has been completed. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timelinefor relocation submitted by the Director of the Office of Management and Budget under section 928(d)(2)(B) of this title."
 
 Subsecs. (h) to (l). Pub. L. 112–96, §6701(a)(2), (3), added subsecs. (h) to (j) and redesignated former subsecs. (h) and (i) as (k) and (l), respectively.
 

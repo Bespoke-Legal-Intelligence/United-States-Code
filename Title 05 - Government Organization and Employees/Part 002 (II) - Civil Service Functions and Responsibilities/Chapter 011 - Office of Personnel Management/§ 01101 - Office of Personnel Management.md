@@ -96,7 +96,7 @@ Pub. L. 108–136, div. A, title IX, §906, Nov. 24, 2003, 117 Stat. 1561, provi
 
 "(a)
 
-Transfer of Functions.—(1) Subject to subsection (b), the Secretary of Defense may transfer to the Office of Personnel Management the personnel security investigations functions that, as of the date ofthe enactment of this Act \[Nov. 24, 2003\], are performed by the Defense Security Service of the Department of Defense. Such a transfer may be made only with the concurrence of the Director of the Office of Personnel Management.
+Transfer of Functions.—(1) Subject to subsection (b), the Secretary of Defense may transfer to the Office of Personnel Management the personnel security investigations functions that, as of the date of the enactment of this Act \[Nov. 24, 2003\], are performed by the Defense Security Service of the Department of Defense. Such a transfer may be made only with the concurrence of the Director of the Office of Personnel Management.
 
 "(2) The Director of the Office of Personnel Management may accept a transfer of functions under paragraph (1).
 
@@ -172,7 +172,7 @@ Reports.—(1) The Office shall submit a report to the Committee on Government R
 
 #### Combined Federal Campaign Brochure List and General Designation Option for International Agencies
 
-Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: "Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter,no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: <i>Provided</i>, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign."
+Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: "Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: <i>Provided</i>, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign."
 
 #### Report on Productivity of Federal Workforce; Deadline
 
@@ -210,7 +210,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 > For purposes of this subparagraph, an agency or federated group shall be considered to have conducted program activities in the required number of States, countries, or parts of a country, over the period of years involved, if such agency or group conducted program activities in such number of States, countries, or parts either in any single year during such period or in the aggregate over the course of such period, provided that no State, country, or part of a country is counted more than once.
 
-"(B) Notwithstanding any other provisions, eligibility requirements relating to International Services Agencies shall remain at least as inclusive as existing requirements. Any voluntary agency or federated group which attains national eligibility under subparagraph (A), and any voluntary agency which is a member of the International Services Agencies, shall be considered to have satisfied any requirements relating to 'local presence'.
+"(B) Notwithstanding any other provisions, eligibility requirements relating to International Services Agencies shall remain at least as inclusive as existing requirements. Any voluntary agency or federated groupwhich attains national eligibility under subparagraph (A), and any voluntary agency which is a member of the International Services Agencies, shall be considered to have satisfied any requirements relating to 'local presence'.
 
 "(3)(A) If a federated group is eligible to receive donations in a Combined Federal Campaign, whether on a national level (pursuant to certification by the Office) or a local level (pursuant to certification by the local Federal coordinating committee), each voluntary agency which is a member of such group may, upon certification by the federated group, be considered eligible to participate on such national or local level, as the case may be.
 
@@ -306,7 +306,7 @@ Pub. L. 95–454, §3, Oct. 13, 1978, 92 Stat. 1112, provided that: "It is the p
 
 &emsp;"(7) in appropriate instances, pay increases should be based on quality of performance rather than length of service;
 
-&emsp;"(8) research programs and demonstration projects should be authorized to permit Federal agencies to experiment, subject to congressional oversight, with new and different personnel management concepts incontrolled situations to achieve more efficient management of the Government's human resources and greater productivity in the delivery of service to the public;
+&emsp;"(8) research programs and demonstration projects should be authorized to permit Federal agencies to experiment, subject to congressional oversight, with new and different personnel management concepts in controlled situations to achieve more efficient management of the Government's human resources and greater productivity in the delivery of service to the public;
 
 &emsp;"(9) the training program of the Government should include retraining of employees for positions in other agencies to avoid separations during reductions in force and the loss to the Government of the knowledge and experience that these employees possess; and
 
@@ -358,7 +358,7 @@ The functions of the Director shall include, but not be limited to, the followin
 
 (b) Advising the President, as the President may request, on any matters pertaining to civilian employment now within the jurisdiction of the United States Civil Service Commission;
 
-(c) Executing, administering and enforcing the Civil Service rules and regulations of the President and the Office and the statutes governing the same, and other activities of the Office including retirement and classification activities except to the extent such functions remain vested in the Merit Systems Protection Board pursuant to Section 202 of this Plan, or are transferred to the Special Counsel pursuant to Section 204 of this Plan. The Director shall provide the public, where appropriate, a reasonable opportunity to comment and submit written views on the implementation and interpretation of such rules and regulations;
+(c) Executing, administering and enforcing the Civil Service rules and regulations of the President and the Office and the statutes governing the same, and otheractivities of the Office including retirement and classification activities except to the extent such functions remain vested in the Merit Systems Protection Board pursuant to Section 202 of this Plan, or are transferred to the Special Counsel pursuant to Section 204 of this Plan. The Director shall provide the public, where appropriate, a reasonable opportunity to comment and submit written views on the implementation and interpretation of such rules and regulations;
 
 (d) Conducting or otherwise providing for studies and research for the purpose of assuring improvements in personnel management, and recommending to the President actions to promote an efficient Civil Service and a systematic application of the merit system principles, including measures relating to the selection, promotion, transfer, performance, pay, conditions of service, tenure, and separations of employees; and
 
@@ -378,7 +378,7 @@ The Director may delegate, from time to time, to the head of any agency employin
 
 #### Sec. 202. Functions of the Merit Systems Protection Board and Related Matters
 
-(a) There shall remain with the Board the hearing, adjudication, and appeals functions of the United States Civil Service Commission specified in 5 U.S.C.1104(b)(4) (except hearings, adjudications and appeals with respect to examination ratings), and also found in the following statutes:
+(a) There shall remain with the Board the hearing, adjudication, and appeals functions of the United States Civil Service Commission specified in 5 U.S.C. 1104(b)(4) (except hearings, adjudications and appeals with respect to examination ratings), and also found in the following statutes:
 
 (i) 5 U.S.C. 1504–1507, 7325, 5335, 7521, 7701 and 8347(d);
 
@@ -444,7 +444,7 @@ There shall be a General Counsel of the Authority, who shall be appointed by the
 
 #### Sec. 303. The Federal Service Impasses Panel
 
-The Federal Service Impasses Panel, established under Executive Order 11491, as amended \[set out under5 U.S.C. 7101\], (the "Panel") shall continue, and shall be a distinct organizational entity within the Authority.
+The Federal Service Impasses Panel, established under Executive Order 11491, as amended \[set out under 5 U.S.C. 7101\], (the "Panel") shall continue, and shall be a distinct organizational entity within the Authority.
 
 #### Sec. 304. Functions
 
@@ -496,7 +496,7 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 On March 2nd I sent to Congress a Civil Service Reform proposal to enable the Federal government to improve its service to the American people.
 
-Today I am submitting another part of my comprehensive proposal to reform the Federal personnel management system through Reorganization Plan No. 2 of 1978. The plan will reorganize the Civil Service Commission and thereby create new institutions to increase the effectiveness of management and strengthen the protection of employee rights.
+Today I am submitting another part of my comprehensive proposal to reform the Federal personnel management system through Reorganization Plan No. 2 of 1978. The plan will reorganize the Civil ServiceCommission and thereby create new institutions to increase the effectiveness of management and strengthen the protection of employee rights.
 
 The Civil Service Commission has acquired inherently conflicting responsibilities: to help manage the Federal Government and to protect the rights of Federal employees. It has done neither job well. The Plan would separate the two functions.
 
@@ -512,7 +512,7 @@ The Plan will create, within the Board, a Special Counsel to investigate and pro
 
 #### federal labor relations authority
 
-An Executive Order now vests existing labor-management relations in a part-time Federal Labor-Relations Council, comprised of three top government managers; other important functions are assigned to the Assistant Secretary of Labor for Labor-Management Relations. This arrangement is defective because the Council members are part-time, they come exclusively from theranks of management and their jurisdiction is fragmented.
+An Executive Order now vests existing labor-management relations in a part-time Federal Labor-Relations Council, comprised of three top government managers; other important functions are assigned to the Assistant Secretary of Labor for Labor-Management Relations. This arrangement is defective because the Council members are part-time, they come exclusively from the ranks of management and their jurisdiction is fragmented.
 
 The Plan I submit today would consolidate the central policymaking functions in labor-management relations now divided between the Council and the Assistant Secretary into one Federal Labor Relations Authority. The Authority would be composed of three full-time members appointed by the President with the advice and consent of the Senate. Its General Counsel, also appointed by the President and confirmed by the Senate, would present unfair labor practice complaints. The Plan also provides for the continuance of the Federal Service Impasses Panel within the Authority to resolve negotiating impasses between Federal employee unions and agencies.
 
@@ -568,7 +568,7 @@ Merit Systems Protection Board
 
 The Special Counsel
 
-1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel to the Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel to the Merit Systems Protection Board as provided inSection 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 1–302. <i>Functions of the Special Counsel</i>. The transfer of functions provided for in Section 204(b) and the performance of functions set forth in Section 204(c)–(g) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
@@ -596,7 +596,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words"Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words "Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -784,7 +784,7 @@ Labor Management Relations in the Federal Service
 
 General Provisions
 
-2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and theDirector of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
+2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
 
 2–402. <i>Continuing Effect of this Order.</i> Except as required by the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] as its provisions become effective, in accord with Section 7135 of Title 5, United States Code, as amended, and in accord with Section 902(a) of that Act \[set out as a Savings Provisions note above\], the provisions of this Order shall continue in effect, according to its terms, until modified, terminated or suspended.
 
@@ -820,7 +820,7 @@ Sec. 2. (a) The Director shall establish criteria for determining the eligibilit
 
 (1) The objectives of the Combined Federal Campaign are to lessen the burdens of government in meeting needs of human health and welfare; to provide a convenient channel through which Federal public servants may contribute to these efforts; to minimize or eliminate disruption of the Federal workplace and costs to Federal taxpayers that such fund-raising may entail; and to avoid the reality and appearance of the use of Federal resources in aid of fund-raising for political activity or advocacy of public policy, lobbying, or philanthropy of any kind that does not directly serve needs of human health and welfare.
 
-(2) To meet these objectives, eligibility for participation in the Combined Federal Campaign shall be limited to voluntary, charitable, health and welfare organizations that provide or support direct health and welfare services to individuals or their families. Such direct health and welfare services must be available to Federal employees in the local campaign solicitation area, unless they are rendered to needy persons overseas. Such services must directly benefit human beings, whether children, youth, adults, the aged, the ill and infirm, or the mentally or physically handicapped. Such services must consist of care, research or education in the fields of human health or social adjustment and rehabilitation; relief of victims of natural disasters and other emergencies; or assistance to those who are impoverished and therefore in need of food, shelter, clothing, education, and basic human welfare services.
+(2) To meet these objectives, eligibility for participation in the Combined Federal Campaign shall be limited to voluntary, charitable, health and welfare organizations that provide or support direct health and welfare services to individuals or their families. Such direct health and welfare services must be available to Federal employees in the local campaign solicitation area, unless they are rendered to needy persons overseas. Such services must directly benefit human beings, whether children, youth, adults, the aged, the ill and infirm, or the mentally or physically handicapped. Such services must consist of care, research or education in the fields of human health or social adjustment and rehabilitation; relief of victims of natural disasters and other emergencies; or assistance to those who are impoverished and therefore in need of food,shelter, clothing, education, and basic human welfare services.
 
 (3) Organizations that seek to influence the outcomes of elections or the determination of public policy through political activity or advocacy, lobbying, or litigation on behalf of parties other than themselves shall not be deemed charitable health and welfare organizations and shall not be eligible to participate in the Combined Federal Campaign.
 

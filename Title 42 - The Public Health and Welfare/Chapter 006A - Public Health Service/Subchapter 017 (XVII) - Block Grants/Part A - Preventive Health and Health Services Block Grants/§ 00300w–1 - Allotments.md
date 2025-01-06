@@ -64,7 +64,7 @@ The Secretary shall conduct a study for the purpose of devising a formula for th
 
 &emsp;(3) any other factor which the Secretary may consider appropriate.
 
-> Before June 30, 1982, the Secretary shall submit a report to the Congress respecting the development of a formula and make such recommendations as the Secretary may deem appropriate inorder to ensure the most equitable distribution of funds under allotments under this section.
+> Before June 30, 1982, the Secretary shall submit a report to the Congress respecting the development of a formula and make such recommendations as the Secretary may deem appropriate in order to ensure the most equitable distribution of funds under allotments under this section.
 
 (July 1, 1944, ch. 373, title XIX, §1902, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 535.)
 

@@ -22,7 +22,7 @@ In this part, the term "competitive procedures" means procedures under which the
 
 #### Codification
 
-The text of par. (2) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1806(b)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 98–369, div. B, title VII, §2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–577, title V, §504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, §1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 107–217, §3(b)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 115–91, div. A, title II, §221, Dec. 12, 2017, 131 Stat. 1333.
+The text of par. (2) of section 2302 of this title, which was transferred to this section and amended by Pub. L.116–283, §1806(b)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 98–369, div. B, title VII, §2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–577, title V, §504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, §1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 107–217, §3(b)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 115–91, div. A, title II, §221, Dec. 12, 2017, 131 Stat. 1333.
 
 #### Prior Provisions
 

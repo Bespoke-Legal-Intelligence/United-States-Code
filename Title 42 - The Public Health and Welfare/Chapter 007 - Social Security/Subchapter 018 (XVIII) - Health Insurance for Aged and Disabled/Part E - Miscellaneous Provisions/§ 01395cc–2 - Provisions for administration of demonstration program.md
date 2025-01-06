@@ -170,7 +170,7 @@ The following actions and determinations with respect to the demonstration progr
 
 &emsp;(3) Establishment of program administration contract performance standards under subsection (b)(6), the refusal to renew a program administration contract, or the noncompetitive award or renewal of a program administration contract under subsection (b)(4)(B).
 
-&emsp;(4) Establishment of payment rates, through negotiation or otherwise, under a programagreement or a program administration contract.
+&emsp;(4) Establishment of payment rates, through negotiation or otherwise, under a program agreement or a program administration contract.
 
 &emsp;(5) A determination with respect to the program (where specifically authorized by the program authority or by subsection (c)(2))—
 

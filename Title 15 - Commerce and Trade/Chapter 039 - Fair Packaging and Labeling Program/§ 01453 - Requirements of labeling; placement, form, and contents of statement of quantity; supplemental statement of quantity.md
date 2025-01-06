@@ -6,7 +6,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;(1) The commodity shall bear a label specifying the identity of the commodity and the name and place of business of the manufacturer, packer, or distributor;
 
-&emsp;(2) The net quantity of contents (in terms of weight or mass, measure, or numerical count) shall be separately and accurately stated in a uniform location upon the principal display panel of that label, using the most appropriateunits of both the customary inch/pound system of measure, as provided in paragraph (3) of this subsection, and, except as provided in paragraph (3)(A)(ii) or paragraph (6) of this subsection, the SI metric system;
+&emsp;(2) The net quantity of contents (in terms of weight or mass, measure, or numerical count) shall be separately and accurately stated in a uniform location upon the principal display panel of that label, using the most appropriate units of both the customary inch/pound system of measure, as provided in paragraph (3) of this subsection, and, except as provided in paragraph (3)(A)(ii) or paragraph (6) of this subsection, the SI metric system;
 
 &emsp;(3) The separate label statement of net quantity of contents appearing upon or affixed to any package—
 

@@ -22,7 +22,7 @@ Types of Support for Agencies of United States.—The purposes for which the Sec
 
 &emsp;&emsp;(B) upgrading such equipment to ensure compatibility of that equipment with other equipment used by the Department.
 
-&emsp;(2) The maintenance, repair, or upgrading of equipment (including computer software), other than equipment referred to in paragraph (1) for the purpose of—
+&emsp;(2) The maintenance, repair, or upgrading of equipment (including computer software),other than equipment referred to in paragraph (1) for the purpose of—
 
 &emsp;&emsp;(A) ensuring that the equipment being maintained or repaired is compatible with equipment used by the Department of Defense; and
 
@@ -86,7 +86,7 @@ Limited Waiver of Prohibition.—Notwithstanding section 276 of this title, the 
 
 (f)
 
-Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary may planand execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564)) for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564)) for the purpose of aiding civilian law enforcement agencies.
 
 (g)
 
@@ -106,7 +106,7 @@ Congressional Notification.—
 
 &emsp;(1)
 
-In general.—Not less than 15 days before providing support for an activity under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a written and electronic notice of the following:
+In general.—Not less than 15 days before providing support for an activity under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congressa written and electronic notice of the following:
 
 &emsp;&emsp;(A) In the case of support for a purpose described in subsection (c)—
 
@@ -182,7 +182,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "small scale construction" means construction at a cost not to exceed $1,000,000 for any project.
 
-&emsp;(4) The term "tribal government" means the governing body of an Indian tribe, the statusof whose land is "Indian country" as defined in section 1151 of title 18 or held in trust by the United States for the benefit of the Indian tribe.
+&emsp;(4) The term "tribal government" means the governing body of an Indian tribe, the status of whose land is "Indian country" as defined in section 1151 of title 18 or held in trust by the United States for the benefit of the Indian tribe.
 
 &emsp;(5) The term "tribal law enforcement agency" means the law enforcement agency of a tribal government.
 

@@ -132,6 +132,10 @@ Pars. (12), (13). Pub. L. 117–167, §103(a)(2), redesignated pars. (8) and (9)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–105, §1, Oct. 2, 2024, 138 Stat. 1587, provided that: "This Act \[amending sections 4652 and 4659 of this title\] may be cited as the 'Building Chips in America Act of 2023'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–167, div. A, §101, Aug. 9, 2022, 136 Stat. 1372, provided that: "This division \[enacting section 4659 of this title and section 48D of Title 26, Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, section 905 of Title 2, The Congress, sections 46, 49, 50, and 1371 of Title 26, and section 906 of Title 47, Telecommunications, and enacting provisions set out as notes under section 4652 of this title and section 905 of Title 2\] may be cited as the 'CHIPS Act of 2022'."
@@ -198,7 +202,7 @@ Sec. 3. <i>CHIPS Implementation Steering Council</i>. (a) There is established w
 
 (d) The Co-Chairs may create and coordinate subgroups consisting of Steering Council members or their designees, as appropriate.
 
-(e) The Co-Chairs may consult with leaders from industry, labor unions and other worker organizations, institutions of higher education, research institutions, and civil society, as appropriate and consistent with law, to provide individual perspectives and advice to the Steering Council on the effective implementation of the Act.
+(e) The Co-Chairs may consult with leaders from industry, labor unions and other worker organizations,institutions of higher education, research institutions, and civil society, as appropriate and consistent with law, to provide individual perspectives and advice to the Steering Council on the effective implementation of the Act.
 
 (f) The Co-Chairs may consult with the President's Council of Advisors on Science and Technology, as appropriate and consistent with law, to provide advice to the Steering Council.
 

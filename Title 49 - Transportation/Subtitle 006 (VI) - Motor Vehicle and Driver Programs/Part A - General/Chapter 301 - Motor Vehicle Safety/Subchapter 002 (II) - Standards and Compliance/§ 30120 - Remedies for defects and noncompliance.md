@@ -70,7 +70,7 @@ Definition of open recall.—In this subsection, the term "open recall" means a 
 
 (g)
 
-Nonapplication.—(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 15 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under section 30118(c) of this title or an order is issued under section 30118(b) of this title, whichever is earlier.
+Nonapplication.—(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser morethan 15 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under section 30118(c) of this title or an order is issued under section 30118(b) of this title, whichever is earlier.
 
 (2) This section does not apply during any period in which enforcement of an order under section 30118(b) of this title is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
 
@@ -104,7 +104,7 @@ In general.—Except as otherwise provided under this paragraph, a rental compan
 
 &emsp;&emsp;(B)
 
-Special rule for large vehicle fleets.—Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shallcomply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+Special rule for large vehicle fleets.—Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
 
 &emsp;&emsp;(C)
 
@@ -286,7 +286,7 @@ Subsec. (b)(2). Pub. L. 114–94, §24108(2), substituted "180-day" for "60-day"
 
 Subsec. (f). Pub. L. 114–94, §24107(1), which directed amendment of subsec. (f) by inserting "
 
-(1) in general. A manufacturer", without specifying the location of such insertion, and indenting appropriately, was executed by striking "A manufacturer" and inserting "(1)
+(1) in general.A manufacturer", without specifying the location of such insertion, and indenting appropriately, was executed by striking "A manufacturer" and inserting "(1)
 
 In general.—A manufacturer" after the subsec. heading, to reflect the probable intent of Congress.
 

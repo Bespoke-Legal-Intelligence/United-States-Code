@@ -1,6 +1,6 @@
 ### §2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
 
-(a) The Secretary concerned may lend or give items described in subsection (c) that are not needed by the military department concerned (or by the Coast Guard, in the case of the Secretary of Homeland Security), to any of the following:
+(a) The Secretary concerned may lend or give items described in subsection (c) that are notneeded by the military department concerned (or by the Coast Guard, in the case of the Secretary of Homeland Security), to any of the following:
 
 &emsp;(1) A municipal corporation, county, or other political subdivision of a State.
 
@@ -138,7 +138,7 @@ Subsec. (b)(2). Pub. L. 101–510, §325(2), inserted ", or services provided,"
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Acquisition of Historical Artifacts Through Exchange of Obsolete or Surplus Property
 
-Pub. L. 108–136, div. A, title X, §1052, Nov. 24, 2003, 117 Stat. 1614, provided that, during fiscal years 2004 and 2005, the Secretary of a military department could use the authority provided by this section to acquire an historical artifact that directly benefitted the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property was described in subsec. (c) of this section.
+Pub. L. 108–136, div. A, title X, §1052, Nov. 24, 2003, 117 Stat. 1614, provided that, during fiscal years 2004 and 2005, the Secretary of a military department could usethe authority provided by this section to acquire an historical artifact that directly benefitted the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property was described in subsec. (c) of this section.
 
 #### Moratorium on the Return of Veterans Memorial Objects to Foreign Nations Without Specific Authorization in Law
 

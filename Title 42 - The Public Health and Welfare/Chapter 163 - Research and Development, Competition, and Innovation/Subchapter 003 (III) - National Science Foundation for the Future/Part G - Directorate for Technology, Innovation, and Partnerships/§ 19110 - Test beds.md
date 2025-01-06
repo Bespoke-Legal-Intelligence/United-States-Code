@@ -8,7 +8,7 @@
 
 #### (2) Coordination
 
-&emsp;In establishing new test beds under this section, the Director shall ensure coordination with other test beds supported by the Foundation or other Federal agencies to avoid duplication and maximize the use of Federal resources.
+&emsp;In establishing new test beds under this section, the Director shall ensure coordinationwith other test beds supported by the Foundation or other Federal agencies to avoid duplication and maximize the use of Federal resources.
 
 #### (b) Proposals
 

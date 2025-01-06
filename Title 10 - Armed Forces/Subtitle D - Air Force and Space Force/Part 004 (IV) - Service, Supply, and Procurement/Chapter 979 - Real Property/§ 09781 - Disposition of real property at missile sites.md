@@ -26,13 +26,13 @@
 
 (C) Subject to subparagraph (D), the Administrator shall convey the interest of the United States in the tract of real property to the highest bidder.
 
-(D) If all of the bids received by the Administrator in the sealed bid competitive sale of the tract of real property are less than the fair market value of the real property, the Administrator shall dispose of the real property in accordance with the provisions of chapter 5 of title 40.
+(D) If all of the bids received by the Administrator in the sealed bid competitive sale of thetract of real property are less than the fair market value of the real property, the Administrator shall dispose of the real property in accordance with the provisions of chapter 5 of title 40.
 
 (c) The Administrator shall determine the fair market value of the interest of the United States to be conveyed under this section.
 
 (d) The requirement to determine whether any tract of land described in subsection (a)(2) is excess property or surplus property under chapter 5 of title 40 before disposing of such tract shall not be applicable to the disposition of such tract under this section.
 
-(e) The disposition of a tract of land under this section to any person shall be subject to (1) anyeasement retained by the Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator considers necessary or appropriate to protect the interests of the United States.
+(e) The disposition of a tract of land under this section to any person shall be subject to (1) any easement retained by the Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator considers necessary or appropriate to protect the interests of the United States.
 
 (f) The exact acreage and legal description of any tract of land to be conveyed under this section shall be determined in any manner that is satisfactory to the Administrator. The cost of any survey conducted for the purpose of this subsection in the case of any tract of land shall be borne by the person or persons to whom the conveyance of such tract of land is made.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iv) Is to the judge's knowledge likely to be a material witness in the proceeding.
 
-(c) A judge should inform himself about his personal and fiduciary financial interests, and make a reasonable effort to inform himself about the personal financial interests of his spouse and minor children residing in his household.
+(c) A judge should inform himself about his personal and fiduciary financial interests, and make a reasonable effort to inform himselfabout the personal financial interests of his spouse and minor children residing in his household.
 
 (d) For the purposes of this section the following words or phrases shall have the meaning indicated:
 

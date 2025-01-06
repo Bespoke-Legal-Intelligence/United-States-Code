@@ -10,7 +10,7 @@ Nothing in this part shall be construed to require a nonbank financial company s
 
 #### (A) Board authority
 
-&emsp;&emsp;If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined to be financial in nature or incidental thereto under section 1843(k) of this title, the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
+&emsp;&emsp;If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined tobe financial in nature or incidental thereto under section 1843(k) of this title, the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
 
 #### (B) Necessary actions
 
@@ -30,7 +30,7 @@ Nothing in this part shall be construed to require a nonbank financial company s
 
 #### (4) Parent company reports
 
-&emsp;The Board of Governors may, from time to time, require reports under oath from a company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposesof ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company pursuant to paragraph (3) and enforcing such compliance.
+&emsp;The Board of Governors may, from time to time, require reports under oath from a company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company pursuant to paragraph (3) and enforcing such compliance.
 
 #### (5) Limited parent company enforcement
 
@@ -62,7 +62,7 @@ The Board of Governors—
 
 This part, referred to in subsec. (a), was in the original "this subtitle", meaning subtitle C (§§161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b)(5)(B), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b)(5)(B), is act Sept. 21, 1950, ch. 967, §2, 64 Stat.873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
 

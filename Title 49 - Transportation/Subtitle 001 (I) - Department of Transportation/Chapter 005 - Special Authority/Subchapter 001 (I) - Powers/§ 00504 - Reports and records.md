@@ -36,7 +36,7 @@
 
 (d) The Secretary may prescribe the time period during which records must be preserved by a carrier, lessor, and person furnishing cars or protective service.
 
-(e)(1) An annual report shall contain an account, in as much detail as the Secretary may require, of the affairs of a carrier, lessor, or association for the 12-month period ending on the 31st day of December of each year. The annual report shall be filed with the Secretary by the end of the 3d month after the end of the year for which the report is made unless the Secretary extends the filing date or changes the period covered by the report.
+(e)(1) An annual report shall contain an account, in as much detail as the Secretary may require, of the affairs of a carrier, lessor, or association for the 12-month period ending on the 31st day of December of each year. The annual report shall be filed with the Secretary by the end of the 3d month after the end of the year forwhich the report is made unless the Secretary extends the filing date or changes the period covered by the report.
 
 (2) The annual report and, if the Secretary requires, any other report made under this section shall be made under oath.
 

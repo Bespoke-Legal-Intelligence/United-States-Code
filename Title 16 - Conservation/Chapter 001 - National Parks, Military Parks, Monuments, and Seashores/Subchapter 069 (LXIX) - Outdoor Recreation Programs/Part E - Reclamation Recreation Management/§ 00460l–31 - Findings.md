@@ -30,5 +30,5 @@ This part, referred to in par. (6), was in the original "this title", meaning ti
 
 #### Short Title
 
-Pub. L. 102–575, title XXVIII, §2801, Oct. 30, 1992, 106 Stat. 4690, provided that: "This title \[enacting this part and amending sections 460l–13 to 460l–15 and 460l–18 of this title\] may be cited as the 'Reclamation Recreation Management Act of 1992'."
+Pub. L. 102–575, title XXVIII, §2801, Oct. 30, 1992, 106 Stat. 4690, provided that: "This title \[enacting this partand amending sections 460l–13 to 460l–15 and 460l–18 of this title\] may be cited as the 'Reclamation Recreation Management Act of 1992'."
 

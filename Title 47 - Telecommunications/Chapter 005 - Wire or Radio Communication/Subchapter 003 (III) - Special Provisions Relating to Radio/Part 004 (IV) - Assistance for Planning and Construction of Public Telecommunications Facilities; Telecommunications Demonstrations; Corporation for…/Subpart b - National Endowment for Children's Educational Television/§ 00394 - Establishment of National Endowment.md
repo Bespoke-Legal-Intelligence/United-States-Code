@@ -20,7 +20,7 @@ It is the purpose of this section to enhance the education of children through t
 
 &emsp;(B) thereafter be made available to any commercial television licensee or permittee or cable television system operator, at a charge established by the Secretary that will assure the maximum practicable distribution of such programming, so long as such licensee, permittee, or operator does not interrupt the programming with commercial advertisements.
 
-> The Secretary may, consistent with the purpose and provisions of this section, permit the programming to be distributed to persons using other media, establish conditions relating tosuch distribution, and apply those conditions to any contract or grant made under this section. The Secretary may waive the requirements of subparagraph (A) if the Secretary finds that neither public television licensees and permittees nor noncommercial television licensees and permittees will have an opportunity to air such programming in the first two years after its production.
+> The Secretary may, consistent with the purpose and provisions of this section, permit the programming to be distributed to persons using other media, establish conditions relating to such distribution, and apply those conditions to any contract or grant made under this section. The Secretary may waive the requirements of subparagraph (A) if the Secretary finds that neither public television licensees and permittees nor noncommercial television licensees and permittees will have an opportunity to air such programming in the first two years after its production.
 
 #### (c) Criteria for contracts and grants; applications for contracts and grants
 
@@ -66,7 +66,7 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 #### (h) Authorization of appropriations; availability
 
-There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
+There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and$6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
 
 #### (i) Definitions
 

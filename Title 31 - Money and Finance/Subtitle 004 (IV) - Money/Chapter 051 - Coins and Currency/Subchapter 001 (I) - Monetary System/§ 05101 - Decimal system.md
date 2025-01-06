@@ -86,7 +86,7 @@ Pub. L. 104–329, title III, §301, Oct. 20, 1996, 110 Stat. 4012, provided tha
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–390, title II, §201, Oct. 6, 1992, 106 Stat. 1624, provided that: "This title \[enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and section 709 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under section 5112 of this title, and repealing provisions set out as a note under section 5112 of this title\] may be cited as the 'United States Mint Reauthorization and Reform Act of 1992'."
+Pub. L. 102–390, title II, §201, Oct. 6, 1992, 106 Stat. 1624, provided that: "This title \[enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and section 709 of Title 18, Crimes and Criminal Procedure, enacting provisionsset out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under section 5112 of this title, and repealing provisions set out as a note under section 5112 of this title\] may be cited as the 'United States Mint Reauthorization and Reform Act of 1992'."
 
 #### Short Title of 1990 Amendment
 

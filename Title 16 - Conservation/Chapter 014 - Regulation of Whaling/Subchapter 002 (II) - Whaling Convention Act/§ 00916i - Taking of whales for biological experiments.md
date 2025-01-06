@@ -1,6 +1,6 @@
 ### §916i. Taking of whales for biological experiments
 
-Nothing contained in this subchapter shall prevent the taking of whales and the conducting of biological experiments at any time for purposes of scientific investigation in accordance with scientific permits and regulations issued by the Secretary of Commerce or shall prevent the Commission from discharging its duties as prescribed by the convention.
+Nothing contained in this subchapter shall prevent the taking of whales and the conductingof biological experiments at any time for purposes of scientific investigation in accordance with scientific permits and regulations issued by the Secretary of Commerce or shall prevent the Commission from discharging its duties as prescribed by the convention.
 
 (Aug. 9, 1950, ch. 653, §11, 64 Stat. 424; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 

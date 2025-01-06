@@ -432,7 +432,7 @@ Subsecs. (g), (h). Pub. L. 91–172, §121(d)(3)(A), redesignated subsecs. (c) a
 
 <b>1960</b>—Subsec. (c)(8). Pub. L. 86–667 added par. (8).
 
-#### <b>Editorial Notes</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

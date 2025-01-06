@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a fellowship program pursuant to which the Secretary of Statewill provide fellowships to United States citizens while they serve, for a period of between one and two years, in positions which would otherwise be held by foreign national employees at United States diplomatic or consular missions abroad.
+There is hereby established a fellowship program pursuant to which the Secretary of State will provide fellowships to United States citizens while they serve, for a period of between one and two years, in positions which would otherwise be held by foreign national employees at United States diplomatic or consular missions abroad.
 
 #### (b) Designation of fellowships
 
@@ -14,7 +14,7 @@ Fellowships under this chapter shall be provided in order to allow the recipient
 
 #### (d) Individuals who may receive a fellowship
 
-To receive a fellowship under this chapter, an individual must be a United States citizen who is an undergraduate or graduate student, a teacher, scholar, or other academic, or an other individual, who has expertise in international affairs, foreign languages, or career and professional experience or interest in international affairs, and who has a working knowledge of the principal language of the country in which he or she would serve.
+To receive a fellowship under this chapter, an individual must be a United States citizen who is an undergraduate or graduate student, a teacher, scholar, or other academic, or an other individual, who has expertise in international affairs, foreign languages, or career and professional experience or interest in international affairs, and who has a working knowledge of theprincipal language of the country in which he or she would serve.
 
 #### (e) Women and members of minority groups
 

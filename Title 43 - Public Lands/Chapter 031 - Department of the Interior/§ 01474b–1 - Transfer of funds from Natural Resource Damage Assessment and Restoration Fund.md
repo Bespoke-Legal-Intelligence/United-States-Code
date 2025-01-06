@@ -20,7 +20,7 @@ Provisions of this section preceding the proviso are from title I of Pub. L. 103
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–287, which directed that this section be "omitted" by substituting "subchapter II of chapter 1007 of title 54" for "the Act of July 27, 1990 (Public Law 101–337)", was executed by amending this section by making the substitution, to reflect the probable intent of Congress.
+<b>2014</b>—Pub. L. 113–287, which directed that this section be "omitted" by substituting "subchapter II of chapter 1007 of title 54" for "the Act of July 27, 1990 (Public Law101–337)", was executed by amending this section by making the substitution, to reflect the probable intent of Congress.
 
 <b>1997</b>—Pub. L. 105–83 inserted ", including transfers to Federal trustees and payments to non-Federal trustees," after "account" and ", to remain available until expended," after "and such sums" and substituted "heretofore and hereafter" for "in fiscal year 1996 and thereafter".
 

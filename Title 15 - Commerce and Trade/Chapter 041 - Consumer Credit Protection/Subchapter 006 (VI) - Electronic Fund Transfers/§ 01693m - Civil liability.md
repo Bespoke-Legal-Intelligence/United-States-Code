@@ -2,7 +2,7 @@
 
 #### (a) Individual or class action for damages; amount of award
 
-Except as otherwise provided by this section and section 1693h of this title, any person who fails to comply with any provision of this subchapter with respect to any consumer, exceptfor an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
+Except as otherwise provided by this section and section 1693h of this title, any person who fails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such consumer as a result of such failure;
 

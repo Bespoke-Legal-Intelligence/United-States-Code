@@ -186,7 +186,7 @@ Pub. L. 97–291, §2, Oct. 12, 1982, 96 Stat. 1248, provided that:
 
 &emsp;"(2) All too often the victim of a serious crime is forced to suffer physical, psychological, or financial hardship first as a result of the criminal act and then as a result of contact with a criminal justice system unresponsive to the real needs of such victim.
 
-&emsp;"(3) Although the majority of serious crimes falls under the jurisdiction of State and local law enforcement agencies, the Federal Government, and in particular the Attorney General, has an important leadership role to assume in ensuring that victims of crime, whether at the Federal, State, or local level, are given proper treatment by agencies administering the criminal justice system.
+&emsp;"(3) Although the majority of serious crimes falls under the jurisdiction of State and local law enforcement agencies, the Federal Government, and in particular the Attorney General, has an important leadership role to assume in ensuring that victims of crime, whether at the Federal, State, or local level,are given proper treatment by agencies administering the criminal justice system.
 
 &emsp;"(4) Under current law, law enforcement agencies must have cooperation from a victim of crime and yet neither the agencies nor the legal system can offer adequate protection or assistance when the victim, as a result of such cooperation, is threatened or intimidated.
 
@@ -228,7 +228,7 @@ Notification of availability of protection.—A victim or witness should routine
 
 &emsp;"(3)
 
-Scheduling changes.—All victims and witnesses who have been scheduled to attend criminal justice proceedings should either be notified as soonas possible of any scheduling changes which will affect their appearances or have available a system for alerting witnesses promptly by telephone or otherwise.
+Scheduling changes.—All victims and witnesses who have been scheduled to attend criminal justice proceedings should either be notified as soon as possible of any scheduling changes which will affect their appearances or have available a system for alerting witnesses promptly by telephone or otherwise.
 
 &emsp;"(4)
 

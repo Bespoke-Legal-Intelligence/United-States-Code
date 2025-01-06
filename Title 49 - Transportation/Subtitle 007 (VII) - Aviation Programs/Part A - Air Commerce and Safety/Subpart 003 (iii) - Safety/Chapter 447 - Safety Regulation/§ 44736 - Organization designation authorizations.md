@@ -24,7 +24,7 @@ Duties of oda holders.—An ODA holder shall—
 
 &emsp;(3)
 
-Existing oda holders.—With regard to an ODA holder operating under a proceduresmanual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings.
+Existing oda holders.—With regard to an ODA holder operating under a procedures manual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings.
 
 (b)
 
@@ -32,7 +32,7 @@ ODA Office.—
 
 &emsp;(1)
 
-Establishment.—Not later than 120 days after the date of enactment of this section, the Administrator of the FAA shall identify, within the FAA Office of Aviation Safety, a centralized policy office to be known as the Organization Designation Authorization Office or the ODA Office.
+Establishment.—The Administrator of the FAA shall identify, within the FAA Office of Aviation Safety, a centralized policy office to be known as the Organization Designation Authorization Office or the ODA Office.
 
 &emsp;(2)
 
@@ -54,9 +54,17 @@ Functions.—The ODA Office shall—
 
 &emsp;&emsp;(D) ensure national consistency in the interpretation and application of the requirements of the ODA program, including any limitations, and in the performance of the ODA program;
 
-&emsp;&emsp;(E) at the request of an ODA holder, review and, when appropriate, approve new limitations to ODA functions; and
+&emsp;&emsp;(E) at the request of an ODA holder, review and, when appropriate, approve new limitations to ODA functions;
 
-&emsp;&emsp;(F) ensure the ODA holders procedures manual contains procedures and policies based on best practices established by the Administrator.
+&emsp;&emsp;(F) ensure the ODA holders procedures manual contains procedures and policiesbased on best practices established by the Administrator; and
+
+&emsp;&emsp;(G) convene a forum not less than every 2 years between ODA holders, unit members, and other organizational representatives and relevant experts, in order to—
+
+&emsp;&emsp;&emsp;(i) share best practices;
+
+&emsp;&emsp;&emsp;(ii) instill professionalism, ethics, and personal responsibilities in unit members; and
+
+&emsp;&emsp;&emsp;(iii) foster open and transparent communication between Administration safety specialists, ODA holders, and unit members.
 
 (c)
 
@@ -134,7 +142,49 @@ Communication With the FAA.—Neither the Administrator nor an ODA holder may pr
 
 &emsp;(2) the Administrator or FAA staff from communicating with an ODA unit member.
 
-(Added Pub. L. 115–254, div. B, title II, §212(a), Oct. 5, 2018, 132 Stat. 3247; amended Pub. L. 116–260, div. V, title I, §§107(b)(1), (c), 125(b), Dec. 27, 2020, 134 Stat. 2324, 2325, 2347.)
+(g)
+
+Ethics Training Requirement for ODA Holders.—
+
+&emsp;(1)
+
+In general.—Not later than 1 year after the date of enactment of this subsection, the Administrator of the Federal Aviation Administration shall review and ensure each ODA holder authorized by the Administrator under section 44702(d) has in effect a recurrent training program for all ODA unit members that covers—
+
+&emsp;&emsp;(A) unit member professional obligations and responsibilities;
+
+&emsp;&emsp;(B) the ODA holder's code of ethics as required to be established under section 102(f) of the Aircraft Certification, Safety, and Accountability Act (49 U.S.C. 44701 note);
+
+&emsp;&emsp;(C) procedures for reporting safety concerns, as described in the respective approved procedures manual for the delegation;
+
+&emsp;&emsp;(D) the prohibition against and reporting procedures for interference from a supervisor or other ODA member described in section 44742; and
+
+&emsp;&emsp;(E) any additional information the Administrator considers relevant to maintaining ethical and professional standards across all ODA holders and unit members.
+
+&emsp;(2)
+
+FAA review.—
+
+&emsp;&emsp;(A)
+
+Review of training program.—The Organization Designation Authorization Office of the Administration established under subsection (b) shall review each ODA holders' recurrent training program to ensure such program includes—
+
+&emsp;&emsp;&emsp;(i) all elements described in paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) training to instill professionalism and clear understanding among ODA unit members about the purpose of and procedures associated with safety management systems, including the provisions of the third edition of the Safety Management Manual issued by the International Civil Aviation Organization (Doc 9859) (or any successor edition).
+
+&emsp;&emsp;(B)
+
+Changes to program.—Such Office may require changes to the training program considered necessary to maintain ethical and professional standards across all ODA holders and unit members.
+
+&emsp;(3)
+
+Training.—As part of the recurrent training program required under paragraph (1), not later than 60 business days after being designated as an ODA unit member, and annually thereafter, each ODA unit member shall complete the ethics training required by the ODA holder of the respective ODA unit member in order to exercise the functions delegated under the ODA.
+
+&emsp;(4)
+
+Accountability.—The Administrator shall establish such processes or requirements as are necessary to ensure compliance with paragraph (3).
+
+(Added Pub. L. 115–254, div. B, title II, §212(a), Oct. 5, 2018, 132 Stat. 3247; amended Pub. L. 116–260, div. V, title I, §§107(b)(1), (c), 125(b), Dec. 27, 2020, 134 Stat. 2324, 2325, 2347; Pub. L. 118–63, title III, §§303, 304(a), May 16, 2024, 138 Stat. 1069, 1070.)
 
 #### <b>Editorial Notes</b>
 
@@ -142,7 +192,17 @@ Communication With the FAA.—Neither the Administrator nor an ODA holder may pr
 
 The date of enactment of the FAA Reauthorization Act of 2018 and the date of enactment of this section, referred to in subsecs. (a)(3) and (b)(1), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
 
+The date of enactment of this subsection, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
+
+Section 102(f) of the Aircraft Certification, Safety, and Accountability Act, referred to in subsec. (g)(1)(B), is section 102(f) of title I of div. V of Pub. L. 116–260, which is set out in a note under section 44701 of this title.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–63, §303(1), substituted "The" for "Not later than 120 days after the date of enactment of this section, the".
+
+Subsec. (b)(3)(G). Pub. L. 118–63, §303(2), added subpar. (G).
+
+Subsec. (g). Pub. L. 118–63, §304(a), added subsec. (g).
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §107(c)(1)(A), redesignated subpar. (C) as (B) and struck out former subpars. (B) and (D) which read as follows:
 
@@ -171,6 +231,10 @@ Pub. L. 116–260, §107(c)(2)(C), (D), inserted ", when appropriate," before "
 Subsecs. (d), (e). Pub. L. 116–260, §107(b)(1), added subsecs. (d) and (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### ODA Unit Member Annual Ethics Training Deadline
+
+Pub. L. 118–63, title III, §304(b), May 16, 2024, 138 Stat. 1071, provided that: "An ODA unit member authorized to perform delegated functions under an ODA prior to the date of completion of an ethics training required under section 44736(g) of title 49, United States Code, shall complete such training not later than 60 days after the training program is approved by the Administrator \[of the Federal Aviation Administration\] pursuant to such section."
 
 #### Expert Review of Organization Designation Authorizations for Transport Airplanes
 
@@ -230,7 +294,7 @@ Composition of review panel.—The review panel shall consist of—
 
 &emsp;&emsp;"(G) 4 air carrier employees whose job responsibilities include administration of a safety management system;
 
-&emsp;&emsp;"(H) 4 individuals representing 4 different holders of organization designation authorizations, with preference given to individuals representing holders of organization designation authorizations for thedesign or production of aircraft other than transport airplanes or for the design or production of aircraft engines, propellers, or appliances; and
+&emsp;&emsp;"(H) 4 individuals representing 4 different holders of organization designation authorizations, with preference given to individuals representing holders of organization designation authorizations for the design or production of aircraft other than transport airplanes or for the design or production of aircraft engines, propellers, or appliances; and
 
 &emsp;&emsp;"(I) 1 individual holding a law degree and who has expertise in the legal duties of a holder of an organization designation authorization and the interaction with the FAA, except that such individual may not, within the 10-year period preceding the individual's appointment, have been employed by, or provided legal services to, the holder of an organization designation authorization referenced in paragraph (2).
 
@@ -298,7 +362,7 @@ Non-federal government participants.—Prior to participating on the review pane
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-Federal employee participants.—Federal employees serving on the review panel as representatives of the Federal Government and who are required to protect proprietary information and trade secrets under section 1905 of title 18, United States Code, shall not be required to execute agreements under this subparagraph.
+Federal employee participants.—Federal employees serving on the review panel as representatives of the Federal Government and who are required to protect proprietary information and trade secrets under section 1905 oftitle 18, United States Code, shall not be required to execute agreements under this subparagraph.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -406,7 +470,7 @@ Survey.—The Panel shall conduct a survey of ODA holders and ODA program applic
 
 "(c)
 
-Best Practices Review.—In addition to conducting the survey required under subsection (b), the Panel shall conduct a review of a sampling of ODA holders to identify and develop best practices. At a minimum, the best practices shall address preventing and deterring instances of undue pressure on or by an ODA unit member, within an ODA, or by an ODA holder, or failures to maintain independence between the FAA and an ODA holder or an ODA unit member. In carrying out such review, the Panel shall—
+Best Practices Review.—In addition to conducting the survey required under subsection (b), the Panel shall conduct a review of a sampling of ODA holders to identify and develop best practices. At aminimum, the best practices shall address preventing and deterring instances of undue pressure on or by an ODA unit member, within an ODA, or by an ODA holder, or failures to maintain independence between the FAA and an ODA holder or an ODA unit member. In carrying out such review, the Panel shall—
 
 &emsp;"(1) examine other government regulated industries to gather lessons learned, procedures, or processes that address undue pressure of employees, perceived regulatory coziness, or other failures to maintain independence;
 
@@ -452,7 +516,7 @@ In general.—Not later than 180 days after the date on which the Administrator 
 
 &emsp;"(2)
 
-Notice and comment period.—The Administrator shall publish the established best practices forpublic notice and comment for not fewer than 60 days prior to requiring the practices, as appropriate, be incorporated into each ODA holder's approved procedures manual.
+Notice and comment period.—The Administrator shall publish the established best practices for public notice and comment for not fewer than 60 days prior to requiring the practices, as appropriate, be incorporated into each ODA holder's approved procedures manual.
 
 "(i)
 

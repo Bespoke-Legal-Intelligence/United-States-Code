@@ -1,6 +1,6 @@
 ### §2275. Benefit information to workers
 
-(a) The Secretary shall provide full information to workers about the benefit allowances, training, and other employment services available under this part and about the petition and application procedures, and the appropriate filing dates, for such allowances, training and services. The Secretary shall provide whatever assistance is necessary to enable groups of workers to prepare petitions or applications for program benefits. The Secretary shall make every effort to insure that cooperating State agencies fully comply with the agreements entered into under section 2311(a) of this title and shall periodically review such compliance. The Secretary shall inform the State Board for Vocational Education or equivalent agency and other public or private agencies, institutions, and employers, as appropriate, of each certification issued under section 2273 of this title and of projections, if available, of the needs for training under section 2296 of this title as a result of such certification.
+(a) The Secretary shall provide full information to workers about the benefit allowances, training, and other employment services available under this part and about the petition and application procedures, and the appropriate filing dates, for such allowances, training and services. The Secretary shall provide whatever assistance is necessary to enable groups of workers to prepare petitions or applications for program benefits. The Secretary shall makeevery effort to insure that cooperating State agencies fully comply with the agreements entered into under section 2311(a) of this title and shall periodically review such compliance. The Secretary shall inform the State Board for Vocational Education or equivalent agency and other public or private agencies, institutions, and employers, as appropriate, of each certification issued under section 2273 of this title and of projections, if available, of the needs for training under section 2296 of this title as a result of such certification.
 
 (b)(1) The Secretary shall provide written notice through the mail of the benefits available under this part to each worker whom the Secretary has reason to believe is covered by a certification made under this subpart—
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 107–210 applicable with respect to petitions filed under 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
 
 #### Effective Date of 1988 Amendment
 

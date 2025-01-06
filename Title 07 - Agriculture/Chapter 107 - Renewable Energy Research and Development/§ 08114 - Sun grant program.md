@@ -52,7 +52,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (E) Northeastern center
 
-&emsp;&emsp;A northeastern sun grant center for the region composed of the States of Connecticut, Delaware, Massachusetts, Maryland, Maine, Michigan, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, Vermont, and West Virginia.
+&emsp;&emsp;A northeastern sun grant center for the region composed of the States of Connecticut,Delaware, Massachusetts, Maryland, Maine, Michigan, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, Vermont, and West Virginia.
 
 #### (F) Western insular Pacific subcenter
 
@@ -136,7 +136,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (3) Research, extension and educational activities
 
-&emsp;The sun grant centers and subcenter shall use the remainder of the funds described in subsection (b) to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
+&emsp;The sun grant centers and subcenter shall use the remainder of the funds described insubsection (b) to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
 
 &emsp;&emsp;(A) research, extension, and educational programs on technology development; and
 
@@ -146,7 +146,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agricultureand other appropriate Federal agencies at the State and regional levels.
+&emsp;Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agriculture and other appropriate Federal agencies at the State and regional levels.
 
 #### (2) Funding
 
@@ -232,7 +232,7 @@ Subsec. (g). Pub. L. 113–79, §7516(a)(5), substituted "2018" for "2012".
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 7614(b)(4)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by section 7614(b)(4)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or otherawards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 
 #### Effective Date
 

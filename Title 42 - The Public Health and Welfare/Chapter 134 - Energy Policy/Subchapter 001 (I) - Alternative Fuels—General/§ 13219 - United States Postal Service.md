@@ -32,5 +32,5 @@ The Clean Air Act Amendments of 1990, referred to in subsec. (c)(4), probably me
 
 #### Codification
 
-Subsec. (a) of this section, which required the Postmaster General to biennially submit to Congress a report on the Postal Service's alternative fueled vehicleprogram, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 15th item on page 194 of House Document No. 103–7.
+Subsec. (a) of this section, which required the Postmaster General to biennially submit to Congress a report on the Postal Service's alternative fueled vehicle program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 15th item on page 194 of House Document No. 103–7.
 

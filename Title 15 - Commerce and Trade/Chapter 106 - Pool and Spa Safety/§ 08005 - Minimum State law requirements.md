@@ -68,7 +68,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 #### (A) Safety vacuum release system
 
-&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 orASTM standard F2387, or any successor standard.
+&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387, or any successor standard.
 
 #### (B) Suction-limiting vent system
 

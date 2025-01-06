@@ -22,7 +22,7 @@
 
 &emsp;(2) except as provided in clause (4) of this subsection and section 733(a)(3)(A) of this title, the highest basic pay rate under the pay schedule may not be more than the rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;
 
-&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjusted annually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
+&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjustedannually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
 
 &emsp;&emsp;(A) the principle that equal pay should be provided for work of equal value within each local pay area;
 
@@ -62,7 +62,7 @@
 
 &emsp;(2) that the Comptroller General has the same responsibility for performance appraisals under this subsection as the Director of the Office of Personnel Management has under section 4302 of title 5;
 
-&emsp;(3) for a reduction in grade or removal of an officer or employee because of unacceptableperformance consistent with section 4303 of title 5;
+&emsp;(3) for a reduction in grade or removal of an officer or employee because of unacceptable performance consistent with section 4303 of title 5;
 
 &emsp;(4) for other personnel actions consistent with chapter 75 of title 5; and
 
@@ -70,7 +70,7 @@
 
 (e) The personnel management system shall provide—
 
-&emsp;(1) a procedure that ensures that each officer and employee of the Government Accountability Office may form, join, or assist, or not form, join, or assist, an employee organization freely and without fear of penalty or reprisal; and
+&emsp;(1) a procedure that ensures that each officer and employee of the Government Accountability Office may form, join, or assist, or not form, join, or assist, an employee organizationfreely and without fear of penalty or reprisal; and
 
 &emsp;(2) for a labor-management relations program consistent with chapter 71 of title 5.
 
@@ -130,7 +130,7 @@
 
 (j)(1) For purposes of this subsection—
 
-&emsp;(A) the term "pay increase", as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect undersection 731(b) and subsection (c)(3) in such year;
+&emsp;(A) the term "pay increase", as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
 
 &emsp;(B) the term "required minimum percentage", as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
 
@@ -406,7 +406,7 @@ In General.—Not later than 6 months after the date of the enactment of this Ac
 
 Amount.—The amount payable to a qualified individual under this section shall be equal to—
 
-&emsp;"(1) the total amount of performance-based compensation such individual would have earned for 2006 (determined by applying the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in2006) if such individual had not had a salary equal to or greater than the maximum for such individual's band (as further described in subsection (c)(2)), less
+&emsp;"(1) the total amount of performance-based compensation such individual would have earned for 2006 (determined by applying the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in 2006) if such individual had not had a salary equal to or greater than the maximum for such individual's band (as further described in subsection (c)(2)), less
 
 &emsp;"(2) the total amount of performance-based compensation such individual was in fact granted, in January 2006, for that year.
 

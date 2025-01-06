@@ -26,7 +26,7 @@ Standard Application Process.—The Director shall establish a process through w
 
 (b)
 
-Consultation.—In establishing the process required under subsection (a), the Director shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
+Consultation.—In establishing the process required under subsection (a), the Director shallconsult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
 
 (c)
 

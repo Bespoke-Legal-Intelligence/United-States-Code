@@ -22,7 +22,7 @@ In awarding grants under this subpart, the Secretary shall ensure that, to the m
 
 #### (f) Eligible partnerships
 
-Notwithstanding the general eligibility provision in section 1067g of this title, eligibility toreceive grants under this subpart is limited to partnerships described in paragraph (5) of such section.
+Notwithstanding the general eligibility provision in section 1067g of this title, eligibility to receive grants under this subpart is limited to partnerships described in paragraph (5) of such section.
 
 (Pub. L. 89–329, title III, §355, as added Pub. L. 110–315, title III, §315(a)(2), Aug. 14, 2008, 122 Stat. 3182; amended Pub. L. 111–39, title III, §301(6), July 1, 2009, 123 Stat. 1937.)
 
@@ -40,5 +40,5 @@ A prior section 355 of Pub. L. 89–329 was classified to section 1069a of this 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

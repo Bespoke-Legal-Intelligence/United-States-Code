@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) if the net proceeds of a sale or the net indemnity for a loss is deposited in more thanone deposit, the amount consisting of the gain shall be deemed to be deposited first;
+&emsp;(1) if the net proceeds of a sale or the net indemnity for a loss is deposited in more than one deposit, the amount consisting of the gain shall be deemed to be deposited first;
 
 &emsp;(2) amounts expended, obligated, or otherwise withdrawn shall be applied against the amounts deposited in the fund in the order of deposit; and
 

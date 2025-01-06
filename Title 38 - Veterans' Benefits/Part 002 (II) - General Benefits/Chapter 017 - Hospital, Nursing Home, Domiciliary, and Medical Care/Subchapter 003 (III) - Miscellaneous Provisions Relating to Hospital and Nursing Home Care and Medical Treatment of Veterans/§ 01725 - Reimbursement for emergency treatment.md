@@ -60,7 +60,7 @@ Independent Right of Recovery.—(1) In accordance with regulations prescribed b
 
 (3) Any amount paid by the United States to the provider that furnished the veteran's emergency treatment shall constitute a lien against any subsequent amount the provider receives from a third party for the same emergency treatment for which the United States made payment.
 
-(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
+(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors)shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
 
 (e)
 
@@ -124,7 +124,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(E) A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, §1(a), (b), Feb. 1, 2010, 123 Stat. 3495; Pub. L. 117–328, div. U, title I, §142(a), (c)(2), Dec. 29, 2022, 136 Stat. 5423, 5424.)
+(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, §1(a), (b), Feb. 1, 2010, 123 Stat. 3495; Pub. L. 117–328, div. U, title I, §142(a)(1), (c)(2), Dec. 29, 2022, 136 Stat. 5423, 5424.)
 
 #### <b>Editorial Notes</b>
 

@@ -112,7 +112,7 @@ Guidance.—The Director shall, when developing the guidance required under sect
 
 Department Policies and Processes for Procurement and Use of Artificial Intelligence-enabled Systems.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\]—
 
-&emsp;"(1) the Secretary of Homeland Security, with the participation of the Chief Procurement Officer, the Chief Information Officer, the Chief Privacy Officer, and the Officer for Civil Rights and Civil Liberties of the Department and any other person determined to be relevant by the Secretary of Homeland Security, shall issue policies and procedures for the Department related to—
+&emsp;"(1) the Secretary of Homeland Security, with the participation of the Chief Procurement Officer, theChief Information Officer, the Chief Privacy Officer, and the Officer for Civil Rights and Civil Liberties of the Department and any other person determined to be relevant by the Secretary of Homeland Security, shall issue policies and procedures for the Department related to—
 
 &emsp;&emsp;"(A) the acquisition and use of artificial intelligence; and
 
@@ -126,7 +126,7 @@ Department Policies and Processes for Procurement and Use of Artificial Intellig
 
 "(c)
 
-Inspector General.—Not later than 180 days after the date of enactment of this Act, the InspectorGeneral of the Department shall identify any training and investments needed to enable employees of the Office of the Inspector General to continually advance their understanding of—
+Inspector General.—Not later than 180 days after the date of enactment of this Act, the Inspector General of the Department shall identify any training and investments needed to enable employees of the Office of the Inspector General to continually advance their understanding of—
 
 &emsp;"(1) artificial intelligence systems;
 
@@ -224,7 +224,7 @@ Pilot Program.—
 
 Purposes.—The purposes of the pilot program under this subsection include—
 
-&emsp;&emsp;"(A) to enable agencies to operate across organizational boundaries, coordinating between existing established programs and silos to improve delivery of the agency mission;
+&emsp;&emsp;"(A) to enable agencies to operate across organizational boundaries, coordinating between existingestablished programs and silos to improve delivery of the agency mission;
 
 &emsp;&emsp;"(B) to demonstrate the circumstances under which artificial intelligence can be used to modernize or assist in modernizing legacy agency systems; and
 
@@ -236,7 +236,7 @@ Purposes.—The purposes of the pilot program under this subsection include—
 
 &emsp;"(2)
 
-Deployment and pilot.—Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and Federal entities, including the Administrator of General Services, the Bureau of Fiscal Service of the Department of the Treasury, the Council of the Inspectors General on Integrity and Efficiency, and the Pandemic Response Accountability Committee, and other officials as the Director determines to be appropriate, shall ensure the initiation of the pilotingof the 4 new artificial intelligence use case applications identified under subsection (a), leveraging commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a).
+Deployment and pilot.—Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and Federal entities, including the Administrator of General Services, the Bureau of Fiscal Service of the Department of the Treasury, the Council of the Inspectors General on Integrity and Efficiency, and the Pandemic Response Accountability Committee, and other officials as the Director determines to be appropriate, shall ensure the initiation of the piloting of the 4 new artificial intelligence use case applications identified under subsection (a), leveraging commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a).
 
 &emsp;"(3)
 
@@ -452,7 +452,7 @@ Updates.—Not later than 2 years after the date on which the Director issues th
 
 "(a)
 
-In General.—Not later than 18 months after the date of enactment of this Act \[Dec. 27, 2020\], and in accordance with chapter 51 of title 5, United States Code, the Director of the Office of Personnel Management shall—
+In General.—Not later than 18 months after the date of enactment of this Act \[Dec. 27, 2020\], and in accordance with chapter 51 of title 5, United States Code,the Director of the Office of Personnel Management shall—
 
 &emsp;"(1) identify key skills and competencies needed for positions related to artificial intelligence;
 
@@ -464,7 +464,7 @@ In General.—Not later than 18 months after the date of enactment of this Act \
 
 "(b)
 
-Plan.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] ofthe House of Representatives a comprehensive plan with a timeline to complete requirements described in subsection (a)."
+Plan.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives a comprehensive plan with a timeline to complete requirements described in subsection (a)."
 
 #### GSA Modernization Centers of Excellence Program
 
@@ -712,7 +712,7 @@ Credits.—In addition to any funds otherwise appropriated, the Fund shall be cr
 
 &emsp;&emsp;"(C)
 
-Availability of funds.—Amounts deposited, credited, or otherwise made available to the Fund shall be available until expended for the purposes described in paragraph (3).
+Availability of funds.—Amounts deposited, credited, or otherwise made available to the Fundshall be available until expended for the purposes described in paragraph (3).
 
 &emsp;"(5)
 
@@ -922,7 +922,7 @@ Agencies are already leading the way in the use of AI by applying it to accelera
 
 Agencies are encouraged to continue to use AI, when appropriate, to benefit the American people. The ongoing adoption and acceptance of AI will depend significantly on public trust. Agencies must therefore design, develop, acquire, and use AI in a manner that fosters public trust and confidence while protecting privacy, civil rights, civil liberties, and American values, consistent with applicable law and the goals of Executive Order 13859.
 
-Certain agencies have already adopted guidelines and principles for the use of AI for national security or defense purposes, such as the Department of Defense's <i>Ethical Principles for Artificial Intelligence</i> (February 24, 2020), and the Office of the Director of National Intelligence's <i>Principles of Artificial Intelligence Ethics for the Intelligence Community</i> (July 23, 2020) and its Artificial Intelligence Ethics Framework for the Intelligence Community (July 23, 2020). Such guidelines and principles ensure that the use of AI in those contexts will benefit the American people and be worthy of their trust.
+Certain agencies have already adopted guidelines and principles for the use of AI for national security or defense purposes, such as the Department of Defense's <i>Ethical Principles for Artificial Intelligence</i> (February 24, 2020), and the Office of the Director of National Intelligence's <i>Principles of Artificial Intelligence Ethics for the Intelligence Community</i> (July 23, 2020) and its Artificial Intelligence Ethics Framework for the Intelligence Community (July 23, 2020). Such guidelines and principles ensure that the use of AI in those contextswill benefit the American people and be worthy of their trust.
 
 Section 3 of this order establishes additional principles (Principles) for the use of AI in the Federal Government for purposes other than national security and defense, to similarly ensure that such uses are consistent with our Nation's values and are beneficial to the public. This order further establishes a process for implementing these Principles through common policy guidance across agencies.
 
@@ -974,7 +974,7 @@ Sec. 5. <i>Agency Inventory of AI Use Cases</i>. (a) Within 60 days of the date 
 
 Sec. 6. <i>Interagency Coordination</i>. Agencies are expected to participate in interagency bodies for the purpose of advancing the implementation of the Principles and the use of AI consistent with this order. Within 45 days of this order, the CIO Council shall publish a list of recommended interagency bodies and forums in which agencies may elect to participate, as appropriate and consistent with their respective authorities and missions.
 
-Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of this order, the Presidential Innovation Fellows (PIF) program, administered by the GeneralServices Administration (GSA) in collaboration with other agencies, shall identify priority areas of expertise and establish an AI track to attract experts from industry and academia to undertake a period of work at an agency. These PIF experts will work within agencies to further the design, development, acquisition, and use of AI in Government, consistent with this order.
+Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of this order, the Presidential Innovation Fellows (PIF) program, administered by the General Services Administration (GSA) in collaboration with other agencies, shall identify priority areas of expertise and establish an AI track to attract experts from industry and academia to undertake a period of work at an agency. These PIF experts will work within agencies to further the design, development, acquisition, and use of AI in Government, consistent with this order.
 
 (b) Within 45 days of the date of this order, the Office of Personnel Management (OPM), in coordination with GSA and relevant agencies, shall create an inventory of Federal Government rotational programs and determine how these programs can be used to expand the number of employees with AI expertise at the agencies.
 

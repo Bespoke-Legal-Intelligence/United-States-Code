@@ -38,7 +38,7 @@
 
 &emsp;(B) when such information is necessary in proceedings to adjudicate observer certifications; or
 
-&emsp;(C) as authorized by any regulations issued under paragraph (3) allowing the collection of observer information, pursuant to a confidentiality agreement between the observers, observer employers, and the Secretary prohibiting disclosure of the information by the observers or observer employers, in order—
+&emsp;(C) as authorized by any regulations issued under paragraph (3) allowing the collection ofobserver information, pursuant to a confidentiality agreement between the observers, observer employers, and the Secretary prohibiting disclosure of the information by the observers or observer employers, in order—
 
 &emsp;&emsp;(i) to allow the sharing of observer information among observers and between observers and observer employers as necessary to train and prepare observers for deployments on specific vessels; or
 

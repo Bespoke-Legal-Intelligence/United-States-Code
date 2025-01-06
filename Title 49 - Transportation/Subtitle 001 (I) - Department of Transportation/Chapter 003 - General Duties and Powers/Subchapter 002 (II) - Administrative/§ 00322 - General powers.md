@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation may prescribe regulations to carry out the duties and powers of the Secretary. An officer of the Department of Transportation may prescribe regulations to carry out the duties and powers of the officer.
 
-(b) The Secretary may delegate, and authorize successive delegations of, duties and powers of the Secretary to an officer or employee of the Department. An officer of the Department may delegate, and authorize successive delegations of, duties and powers of the officer to another officer or employee of the Department. However, the duties and powers specified in sections 103(c)(1),<sup>1</sup> 104(c)(1), and 106(g)(1) of this title may not be delegated to an officer or employee outside the Administration concerned.
+(b) The Secretary may delegate, and authorize successive delegations of, duties and powers of the Secretary to an officer or employee of the Department. An officer of the Department may delegate, and authorize successive delegations of, duties and powers of the officer to another officer or employee of the Department. However, the duties and powers specified in sections 103(c)(1),<sup>1</sup> 104(c)(1), and 106(g)(1) <sup>1</sup> of this title may not be delegated to an officer or employee outside the Administration concerned.
 
 (c) On a reimbursable basis when appropriate, the Secretary may, in carrying out aviation duties and powers—
 
@@ -102,6 +102,8 @@ In subsection (e), before clause (1), the words "or in support of" are omitted a
 
 Section 103(c)(1) of this title, referred to in subsec. (b), was struck out by Pub. L. 110–432, div. A, title I, §101, Oct. 16, 2008, 122 Stat. 4851. Provisions similar to those contained in former subsec. (c)(1) of section 103 are now contained in subsec. (g)(1) of section 103.
 
+Section 106(g)(1) of this title, referred to in subsec. (b), was struck out by Pub. L. 118–63, title II, §204(b), May 16, 2024, 138 Stat. 1041. Provisions similar to those contained in former subsec. (g)(1) of section 106 are now contained in subsec. (f)(3)(A)(i) of section 106.
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Electronic Signatures
@@ -119,6 +121,8 @@ Pub. L. 105–277, div. A, §101(g) \[title III, §332\], Oct. 21, 1998, 112 Sta
 Pub. L. 105–66, title III, §332, Oct. 27, 1997, 111 Stat. 1447.
 
 Pub. L. 104–205, title III, §344, Sept. 30, 1996, 110 Stat. 2976.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11382
 

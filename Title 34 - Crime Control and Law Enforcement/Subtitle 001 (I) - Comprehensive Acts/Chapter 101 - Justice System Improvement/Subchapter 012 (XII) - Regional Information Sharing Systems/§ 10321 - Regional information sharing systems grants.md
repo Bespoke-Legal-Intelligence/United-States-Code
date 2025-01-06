@@ -20,7 +20,7 @@ Grants and contracts awarded under this subchapter shall be made for—
 
 #### (c) Rules and regulations
 
-The Director is authorized to promulgate such rules and regulations as are necessary to carryout the purposes of this section, including rules and regulations for submitting and reviewing applications.
+The Director is authorized to promulgate such rules and regulations as are necessary to carry out the purposes of this section, including rules and regulations for submitting and reviewing applications.
 
 #### (d) Authorization of appropriation to the Bureau of Justice Assistance
 

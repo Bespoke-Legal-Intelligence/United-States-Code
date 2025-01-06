@@ -4,7 +4,7 @@
 
 (b) If no child of the veteran is in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $7,933, reduced by the amount of the surviving spouse's annual income.
 
-(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody of two or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
+(c) If there is a child of the veteran in the custody of the surviving spouse, pension shall be paid to the surviving spouse at the annual rate of $10,385. If the surviving spouse has custody oftwo or more such children, the annual pension rate shall be increased by $2,020 for each such child in excess of one. In each case, the rate payable shall be reduced by the amount of the surviving spouse's annual income and, subject to subsection (g) of this section, the annual income of each such child.
 
 (d)(1) If a surviving spouse who is entitled to pension under subsection (b) of this section is in need of regular aid and attendance, the annual rate of pension payable to such surviving spouse shall be $12,681, reduced by the amount of the surviving spouse's annual income.
 
@@ -60,7 +60,7 @@ Subsec. (h). Pub. L. 102–83, §5(c)(1), substituted "1542" for "542".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–588 revised eligibility provisions relating to surviving spouses to apply to veterans of any period of war rather than veterans of specifically named wars and inserted reference to periodic increases of rate of pension payments pursuant to section 3112 of this title.
 
-Subsec. (b). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $2,379 for a formula for determining such annual pension based upon annual income of the veteran, and struck out minimum and maximum monthly payment requirements.
+Subsec. (b). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision,substituted a fixed pension amount of $2,379 for a formula for determining such annual pension based upon annual income of the veteran, and struck out minimum and maximum monthly payment requirements.
 
 Subsec. (c). Pub. L. 95–588 qualified parental requirement of this subsection by inserting custody provision, substituted a fixed pension amount of $3,116 for a formula for determining such annual pension based upon annual income of the veteran, and inserted a provision authorizing an annual pension rate increase of $600 for each family member of an eligible veteran in excess of one.
 
@@ -138,7 +138,7 @@ Subsec. (e)(1). Pub. L. 91–588, §9(d)(2), inserted reference to Mexican borde
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–275, §1(c), in providing new annual income limits to measure monthly pension rates of widow without child, substituted minimum income limit of $300 for monthly benefit of $74 for former $600 limit for monthly benefit of $70, maximum income limit of $2,000 for monthly benefit of $17 for former $1,800 limit for monthly benefit of $29, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $73 to $23 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $51.
 
-Subsec. (c). Pub. L. 90–275, §1(d), in providing new annual income limits to measure monthly pension rates of widow with one child, substituted minimum income limit of $600 for monthly benefit of $90 for former $1,000limit for monthly benefit of $86, maximum income limit of $3,200 for monthly benefit of $41 for former $3,000 limit for monthly benefit of $45, and twenty-five other in-between limits in one hundred dollar increments from more than $600 to less than $3,100 for monthly benefits of $89 to $43 for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $67.
+Subsec. (c). Pub. L. 90–275, §1(d), in providing new annual income limits to measure monthly pension rates of widow with one child, substituted minimum income limit of $600 for monthly benefit of $90 for former $1,000 limit for monthly benefit of $86, maximum income limit of $3,200 for monthly benefit of $41 for former $3,000 limit for monthly benefit of $45, and twenty-five other in-between limits in one hundred dollar increments from more than $600 to less than $3,100 for monthly benefits of $89 to $43 for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $67.
 
 <b>1967</b>—Pub. L. 90–77, §202(f), inserted reference to Vietnam era in section catchline.
 

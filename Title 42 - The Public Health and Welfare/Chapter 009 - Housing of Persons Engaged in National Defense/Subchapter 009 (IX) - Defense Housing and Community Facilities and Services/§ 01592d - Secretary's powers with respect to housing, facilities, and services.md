@@ -10,7 +10,7 @@ Before condemnation proceedings are instituted pursuant to this subchapter or su
 
 #### (c) Return to original owner in certain cases
 
-If any real property acquired under this subchapter or subchapter X is retained after June 30, 1954, without having been used for the purposes of this Act, the Secretary of Housing and Urban Development shall, if the original owner desires the property and pays the fair value thereof, return such property to the owner. In the event the Secretary of Housing and Urban Development and the original owner do not agree as to the fair value of the property, the fair value shall be determined by three appraisers, one of whom shall be chosen by the Secretary of Housing and Urban Development, one by the original owner, and the third by the first two appraisers; the expenses of such determination shall be paid in equal shares by the Government and the original owner.
+If any real property acquired under this subchapter or subchapter X is retained after June30, 1954, without having been used for the purposes of this Act, the Secretary of Housing and Urban Development shall, if the original owner desires the property and pays the fair value thereof, return such property to the owner. In the event the Secretary of Housing and Urban Development and the original owner do not agree as to the fair value of the property, the fair value shall be determined by three appraisers, one of whom shall be chosen by the Secretary of Housing and Urban Development, one by the original owner, and the third by the first two appraisers; the expenses of such determination shall be paid in equal shares by the Government and the original owner.
 
 (Sept. 1, 1951, ch. 378, title III, §305, 65 Stat. 305; June 30, 1953, ch. 170, §17, 67 Stat. 125; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 97–214, §10(b)(1), July 12, 1982, 96 Stat. 175.)
 
@@ -18,7 +18,7 @@ If any real property acquired under this subchapter or subchapter X is retained 
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (c), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under section 1501 of this title and Tables.
+This Act, referred to in subsecs. (a) and (c), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under section 1501 of this title and Tables.
 
 Section 322 of the Act of June 30, 1932, referred to in subsec. (a), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
 

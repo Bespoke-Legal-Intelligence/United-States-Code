@@ -14,7 +14,7 @@ Passenger.—The term "passenger" has the meaning given such term by section 113
 
 (b)
 
-Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life.
+Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan foraddressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life.
 
 (c)
 
@@ -58,7 +58,7 @@ Unclaimed possessions retained.—An assurance that any unclaimed possession of 
 
 &emsp;(8)
 
-Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of anymonument to the passengers built in the United States, including any inscription on the monument.
+Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of any monument to the passengers built in the United States, including any inscription on the monument.
 
 &emsp;(9)
 
@@ -90,7 +90,7 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 &emsp;(16)
 
-Consultation on carrier response not covered by plan.—An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult <sup>1</sup> with the Board and the Department of State on the provision of the assistance.
+Consultation on carrier response not covered by plan.—An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, the foreign air carrier shall consult with the Board and the Department of State on the provision of the assistance.
 
 &emsp;(17)
 
@@ -116,7 +116,7 @@ Permit and Exemption Requirement.—The Secretary shall not approve an applicati
 
 Limitation on Liability.—A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
 
-(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130; Pub. L. 108–176, title VIII, §809(b), Dec. 12, 2003, 117 Stat. 2589; Pub. L. 115–254, div. B, title V, §539(d), div. C, §1109(b), Oct. 5, 2018, 132 Stat. 3370, 3434.)
+(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130; Pub. L. 108–176, title VIII, §809(b), Dec. 12, 2003, 117 Stat. 2589; Pub. L. 115–254, div. B, title V, §539(d), div. C, §1109(b), Oct. 5, 2018, 132 Stat. 3370, 3434; Pub. L. 118–63, title XI, §1101(i), May 16, 2024, 138 Stat. 1413.)
 
 #### <b>Editorial Notes</b>
 
@@ -125,6 +125,8 @@ Limitation on Liability.—A foreign air carrier shall not be liable for damages
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 105–148, which was approved Dec. 16, 1997.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(16). Pub. L. 118–63 substituted "the foreign air carrier shall consult" for "will consult".
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–254, §1109(b)(1), substituted "any loss of life" for "a major loss of life".
 
@@ -163,6 +165,4 @@ Pub. L. 106–181, title IV, §403(c)(2), Apr. 5, 2000, 114 Stat. 131, provided 
 #### Effective Date
 
 Pub. L. 105–148, §1(c), Dec. 16, 1997, 111 Stat. 2683, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Dec. 16, 1997\]."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "the foreign air carrier will consult".</i>
 

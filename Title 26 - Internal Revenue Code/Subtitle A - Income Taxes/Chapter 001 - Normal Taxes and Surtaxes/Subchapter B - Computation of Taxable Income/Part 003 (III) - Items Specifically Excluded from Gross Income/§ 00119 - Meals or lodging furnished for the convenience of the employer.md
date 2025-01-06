@@ -132,7 +132,7 @@ Educational institution.—For purposes of this paragraph, the term 'educational
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–34 added subsec. (c).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–222 struck out "General rule" in subsec. (a) as in effect on the day before thedate of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to "General rule" as the probable intent of Congress, thereby requiring no change in text.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222 struck out "General rule" in subsec. (a) as in effect on the day before the date of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to "General rule" as the probable intent of Congress, thereby requiring no change in text.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, and substituted "furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer" for "furnished to him by his employer for the convenience of the employer".
 
@@ -170,7 +170,7 @@ Pub. L. 95–427, §4(b), Oct. 7, 1978, 92 Stat. 998, provided that: "The amendm
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
-Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision for election of prior law, see section 209 of Pub. L. 95–615, set out as a note under section 911 of this title.
+Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision forelection of prior law, see section 209 of Pub. L. 95–615, set out as a note under section 911 of this title.
 
 #### Statute of Limitations
 

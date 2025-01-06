@@ -68,7 +68,7 @@ In awarding grants under this section, the Secretary shall give priority to Stat
 
 #### (2) Reservation
 
-&emsp;A State educational agency receiving a grant under this section may reserve not more than 5 percent for activities identified through the needs assessment and comprehensive literacy plan described in subparagraphs (A) and\(B) of subsection (d)(2), including the following activities:
+&emsp;A State educational agency receiving a grant under this section may reserve not more than 5 percent for activities identified through the needs assessment and comprehensive literacy plan described in subparagraphs (A) and (B) of subsection (d)(2), including the following activities:
 
 &emsp;&emsp;(A) Providing technical assistance, or engaging qualified providers to provide technical assistance, to eligible entities to enable the eligible entities to design and implement literacy programs.
 

@@ -6,7 +6,7 @@ Any person who—
 
 &emsp;(1) has a duty to report or may have a duty to report any information under section 6047(d), and
 
-&emsp;(2) fails to keep such records as may be required by regulations prescribed under section6047(d) for the purpose of providing the necessary data base for either current reporting or future reporting,
+&emsp;(2) fails to keep such records as may be required by regulations prescribed under section 6047(d) for the purpose of providing the necessary data base for either current reporting or future reporting,
 
 > shall pay a penalty for each calendar year for which there is any failure to keep such records.
 

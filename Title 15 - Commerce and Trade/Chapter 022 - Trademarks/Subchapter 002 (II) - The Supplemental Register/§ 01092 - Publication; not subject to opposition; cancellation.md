@@ -18,7 +18,7 @@ Act Mar. 19, 1920, ch. 104, §2, 41 Stat. 534.
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–260 inserted ", unless the Director reconsiders the decision of the Board, and modifies or sets aside, such decision" after "shall be canceled by the Director" in concluding provisions.
+<b>2020</b>—Pub. L. 116–260 inserted ", unless the Director reconsiders the decision of the Board, and modifies orsets aside, such decision" after "shall be canceled by the Director" in concluding provisions.
 
 <b>2006</b>—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: "Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration." The words following "tarnishment," in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
 

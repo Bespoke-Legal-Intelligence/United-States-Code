@@ -48,7 +48,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 (4) Upon the promulgation of regulations provided for in paragraph (3) of this subsection, the Secretary shall promulgate, with the concurrence of the Secretary of State and pursuant to the procedures prescribed in paragraph (2) of this subsection, additional regulations which shall become effective simultaneously with the application of the regulations provided for in paragraph (3) of this subsection, which prohibit—
 
-&emsp;(A) the entry into the United States of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area in such manner or in suchcircumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission; and
+&emsp;(A) the entry into the United States of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission; and
 
 &emsp;(B) the entry into the United States, from any country when the vessels of such country are being used in the conduct of fishing operations in the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission, of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area.
 
@@ -74,7 +74,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 &emsp;(A) effect the immediate termination and prevent the resumption of any fishing operation by vessels of that Nation within the Convention area which is conducted in a manner or under circumstances that diminish the effectiveness of the conservation recommendation;
 
-&emsp;(B) when practicable, require actions by that Nation, or vessels of that Nation, to mitigate the negative impacts of fishing operations on the effectiveness of the conservation recommendation involved, including but not limited to, the imposition of subsequent-year deductions for quota overages; and
+&emsp;(B) when practicable, require actions by that Nation, or vessels of that Nation, to mitigate the negative impacts of fishing operations onthe effectiveness of the conservation recommendation involved, including but not limited to, the imposition of subsequent-year deductions for quota overages; and
 
 &emsp;(C) result in the establishment, if necessary, by such Nation of reporting, monitoring, and enforcement measures that are adequate to ensure the effectiveness of conservation recommendations.
 
@@ -134,7 +134,7 @@ Pub. L. 106–553, §1(a)(2) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2762,
 
 #### Transfer of Functions
 
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec.\(a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

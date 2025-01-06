@@ -44,7 +44,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 A prior section 291c, act July 1, 1944, ch. 373, title VI, §613, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, related to allotments to States, the determination of their amount, and the disposition of unexpended funds, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291(a), (b) and (d) of this title.
 
-Provisions similar to those comprising this section were contained in a prior section 291e, act July 1, 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended 1953 Reorg. Plan No. 1, §§5, 8, eff.Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in a prior section 291e, act July 1, 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Amendments
 

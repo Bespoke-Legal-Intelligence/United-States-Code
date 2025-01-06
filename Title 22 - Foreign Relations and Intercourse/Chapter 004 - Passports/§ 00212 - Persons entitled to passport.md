@@ -1,6 +1,6 @@
 ### §212. Persons entitled to passport
 
-No passport shall be granted or issued to or verified for any other persons than those owingallegiance, whether citizens or not, to the United States.
+No passport shall be granted or issued to or verified for any other persons than those owing allegiance, whether citizens or not, to the United States.
 
 (R.S. §4076; June 14, 1902, ch. 1088, §2, 32 Stat. 386.)
 

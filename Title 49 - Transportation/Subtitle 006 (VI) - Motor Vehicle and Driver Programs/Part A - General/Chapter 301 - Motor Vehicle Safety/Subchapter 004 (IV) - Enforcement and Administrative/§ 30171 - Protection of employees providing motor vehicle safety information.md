@@ -40,7 +40,7 @@ Required showing by complainant.—The Secretary shall dismiss a complaint filed
 
 &emsp;&emsp;&emsp;(ii)
 
-Showing by employer.—Notwithstanding a finding by the Secretary that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+Showing by employer.—Notwithstanding a finding by the Secretary that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would havetaken the same unfavorable personnel action in the absence of that behavior.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -114,7 +114,7 @@ Mandamus.—Any nondiscretionary duty imposed under this section shall be enforc
 
 (d)
 
-Nonapplicability To Deliberate Violations.—Subsection (a) shall not apply with respect to an employee of a motor vehicle manufacturer, part supplier, or dealership who, acting without direction from such motor vehicle manufacturer, part supplier, or dealership (or such person's agent), deliberately causes a violation of any requirement relating to motor vehicle safety under this chapter.
+Nonapplicability To Deliberate Violations.—Subsection (a) shall not apply with respect to an employee of a motor vehicle manufacturer, part supplier, or dealership who, acting without direction from such motor vehicle manufacturer, part supplier, or dealership (or suchperson's agent), deliberately causes a violation of any requirement relating to motor vehicle safety under this chapter.
 
 (Added Pub. L. 112–141, div. C, title I, §31307(a), July 6, 2012, 126 Stat. 765.)
 

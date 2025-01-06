@@ -88,7 +88,7 @@ Final report.—Not later than December 31, 2004, each agency shall submit a fin
 
 &emsp;"(3)
 
-Content.—The initial report under paragraph (1) shall include information with respect to the 1-year period beginning on October 1, 2002, and the final report under paragraph (2) shall include information with respect to the 1-year period beginning on October 1, 2003, on each of the following:
+Content.—The initial report under paragraph (1) shall include information with respect to the 1-year period beginning on October 1, 2002, and the finalreport under paragraph (2) shall include information with respect to the 1-year period beginning on October 1, 2003, on each of the following:
 
 &emsp;&emsp;"(A) The number of enforcement actions in which a civil penalty is assessed.
 
@@ -530,7 +530,7 @@ Sec. 5. <i>Executive Department and Agency Implementation</i>. (a) The head of e
 
 (c) Executive departments and agencies shall identify each existing Federal rule and regulation against which a takings award has been made or against which a takings claim is pending including the amount of each claim or award. A "takings" award has been made or a "takings" claim pending if the award was made, or the pending claim brought, pursuant to the Just Compensation Clause of the Fifth Amendment. An itemized compilation of all such awards made in Fiscal Years 1985, 1986, and 1987 and all such pending claims shall be submitted to the Director, Office of Management and Budget, on or before May 16, 1988.
 
-(d) Each Executive department and agency shall submit annually to the Director, Office of Management and Budget, and to the Attorney General an itemized compilation of all awards of just compensation entered against the United States for takings, including awards of interest as well as monies paid pursuant to the provisions of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, 42 U.S.C. 4601.
+(d) Each Executive department and agency shall submit annually to the Director, Office of Managementand Budget, and to the Attorney General an itemized compilation of all awards of just compensation entered against the United States for takings, including awards of interest as well as monies paid pursuant to the provisions of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, 42 U.S.C. 4601.
 
 (e)(1) The Director, Office of Management and Budget, and the Attorney General shall each, to the extent permitted by law, take action to ensure that the policies of the Executive departments and agencies are consistent with the principles, criteria, and requirements stated in Sections 1 through 5 of this Order, and the Office of Management and Budget shall take action to ensure that all takings awards levied against agencies are properly accounted for in agency budget submissions.
 
@@ -632,7 +632,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this Executive order: (a) "Advisors"
 
 (4) raise legal or policy issues for which centralized review would meaningfully further the President's priorities or the principles set forth in this Executive order, as specifically authorized in a timely manner by the Administrator of OIRA in each case.
 
-Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination of regulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law: (a) <i>Agencies' Policy Meeting</i>. Early in each year's planning cycle, the Vice President shall convene a meeting of the Advisors and the heads of agencies to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
+Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination of regulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involvethe public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law: (a) <i>Agencies' Policy Meeting</i>. Early in each year's planning cycle, the Vice President shall convene a meeting of the Advisors and the heads of agencies to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
 
 (b) <i>Unified Regulatory Agenda</i>. For purposes of this subsection, the term "agency" or "agencies" shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). Each agency shall prepare an agenda of all regulations under development or review, at a time and in a manner specified by the Administrator of OIRA. The description of each regulatory action shall contain, at a minimum, a regulation identifier number, a brief summary of the action, the legal authority for the action, any legal deadline for the action, and the name and telephone number of a knowledgeable agency official. Agencies may incorporate the information required under 5 U.S.C. 602 and \[former\] 41 U.S.C. 402 into these agendas.
 
@@ -668,7 +668,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
-(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
+(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations thatimpose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
 (c) The Vice President, in consultation with the Advisors, may identify for review by the appropriate agency or agencies other existing regulations of an agency or groups of regulations of more than one agency that affect a particular group, industry, or sector of the economy, or may identify legislative mandates that may be appropriate for reconsideration by the Congress.
 
@@ -864,7 +864,7 @@ Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementin
 
 (i) The national government should be deferential to the States when taking action that affects the policymaking discretion of the States and should act only with the greatest caution where State or local governments have identified uncertainties regarding the constitutional or statutory authority of the national government.
 
-Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2, agencies shall adhere, to the extentpermitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
+Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
 
 (a) There shall be strict adherence to constitutional principles. Agencies shall closely examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and shall carefully assess the necessity for such action. To the extent practicable, State and local officials shall be consulted before any such action is implemented. Executive Order 12372 of July 14, 1982 ("Intergovernmental Review of Federal Programs") \[31 U.S.C. 6506 note\] remains in effect for the programs and activities to which it is applicable.
 
@@ -940,7 +940,7 @@ Sec. 8. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has federalism implications to the Office of Management and Budget pursuant to Executive Order 12866 of September 30, 1993 \[set out above\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has federalism implications to the Office of Management and Budget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has federalism implications to the Office of Management andBudget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order, the Director of the Office of Management and Budget and the Assistant to the President for Intergovernmental Affairs shall confer with State and local officials to ensure that this order is being properly and effectively implemented.
 
@@ -1000,7 +1000,7 @@ Sec. 6. <i>Responsibilities of All Executive Departments and Agencies</i>. All e
 
 (b) cooperate with the White House Office of Faith-Based and Neighborhood Partnerships and provide such information, support, and assistance to the White House Office of Faith-Based and Neighborhood Partnerships as it may request, to the extent permitted by law.
 
-Sec. 7. <i>Administration and Judicial Review</i>. (a) The agencies' actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
+Sec. 7. <i>Administration and Judicial Review</i>. (a) The agencies' actions directed by this Executive Order shallbe carried out subject to the availability of appropriations and to the extent permitted by law.
 
 (b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
@@ -1116,7 +1116,7 @@ Sec. 2. <i>Fundamental Principles</i>. In formulating and implementing policies 
 
 (f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
 
-(g) Faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression outside the programs in question, or religious character. Accordingly, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime award or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain religious terms in its name, select its board members on a religiousbasis, and include religious references in its organization's mission statements and other chartering or governing documents.
+(g) Faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression outside the programs in question, or religious character. Accordingly, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime award or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain religious terms in its name, select its board members on a religious basis, and include religious references in its organization's mission statements and other chartering or governing documents.
 
 (h) To promote transparency and accountability, agencies that provide Federal financial assistance for social service programs shall post online, in an easily accessible manner, regulations, guidance documents, and policies that reflect or elaborate upon the fundamental principles described in this section. Agencies shall also post online a list of entities that receive Federal financial assistance for provision of social service programs, consistent with law and pursuant to guidance set forth in paragraph (c) of section 3 of this order.
 
@@ -1182,7 +1182,7 @@ Pursuant to section 121(a) of title 40, United States Code, and section 301 of t
 
 Sec. 5. <i>General Provisions.</i>
 
-(a) This order supplements but does not supersede the requirements contained in Executive Orders 13198 \[setout above\] and 13199 \[3 U.S.C. note prec. 101\] of January 29, 2001.
+(a) This order supplements but does not supersede the requirements contained in Executive Orders 13198 \[set out above\] and 13199 \[3 U.S.C. note prec. 101\] of January 29, 2001.
 
 (b) The agencies shall coordinate with the White House Office of Faith-Based and Neighborhood Partnerships concerning the implementation of this order.
 
@@ -1252,7 +1252,7 @@ Sec. 6. <i>Administration and Judicial Review</i>. (a) The agency actions direct
 
 Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, as amended by Ex. Ord. No. 13831, §2(a), May 3, 2018, 83 F.R. 20715; Ex. Ord. No. 14015, §5(a), Feb. 14, 2021, 86 F.R. 10008, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and tostrengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
 
 Section 1. <i>Establishment of Centers for Faith-Based and Neighborhood Partnerships at the Departments of Commerce and Veterans Affairs and the Small Business Administration.</i>
 
@@ -1268,7 +1268,7 @@ Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Neighborhood 
 
 Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Neighborhood Partnerships</i>. Each Center shall, to the extent permitted by law:
 
-(a) conduct, in coordination with the White House Office of Faith-Based and Neighborhood Partnerships, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the White House Office of Faith-Based and Neighborhood Partnerships, an agency-wide audit to identify all existing barriers tothe participation of faith-based and other community organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive agency effort to incorporate faith-based and other community organizations in agency programs and initiatives to the greatest extent possible;
 
@@ -1318,7 +1318,7 @@ Sec. 2. <i>Purpose of Center</i>. The purpose of the Center shall be to coordina
 
 Sec. 3. <i>Responsibilities of the Center for Faith-Based and Neighborhood Partnerships</i>. In carrying out the purpose set forth in section 2 of this order, the Center shall:
 
-(a) conduct, in coordination with the Executive Director, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including butnot limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the Executive Director, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in Department programs and initiatives to the greatest extent possible;
 
@@ -1334,7 +1334,7 @@ Sec. 4. <i>Reporting Requirements.</i>
 
 (b) <i>Contents</i>. The report shall include a description of the Department's efforts in carrying out its responsibilities under this order, including but not limited to:
 
-&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social and community services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
+&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other communityorganizations in the delivery of social and community services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
 
 &emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
 
@@ -1502,7 +1502,7 @@ The quality of our Nation's infrastructure depends in critical part on Federal p
 
 To achieve that objective, our Federal permitting and review processes must provide a transparent, consistent, and predictable path for both project sponsors and affected communities. They must ensure that agencies set and adhere to timelines and schedules for completion of reviews, set clear permitting performance goals, and track progress against those goals. They must encourage early collaboration among agencies, project sponsors, and affected stakeholders in order to incorporate and address their interests and minimize delays. They must provide for transparency and accountability by utilizing cost-effective information technology to collect and disseminate information about individual projects and agency performance, so that the priorities and concerns of all our citizens are considered. They must rely upon early and active consultation with State, local, and tribal governments to avoid conflicts or duplication of effort, resolve concerns, and allow for concurrent rather than sequential reviews. They must recognize the critical role project sponsors play in assuring the timely and cost-effective review of projects by providing complete information and analysis and by supporting, as appropriate, the costs associated with review. And, they must enable agencies to share priorities, work collaboratively and concurrently to advance reviews and permitting decisions, and facilitate the resolution of disputes at all levels of agency organization.
 
-Each of these elements must be incorporated into routine agency practice to provide demonstrable improvements in the performance of Federal infrastructure permitting and review processes, including lower costs, more timely decisions, and a healthier and cleaner environment. Also, these elements must be integrated into project planning processes so that projectsare designed appropriately to avoid, to the extent practicable, adverse impacts on public health, security, historic properties and other cultural resources, and the environment, and to minimize or mitigate impacts that may occur. Permitting and review process improvements that have proven effective must be expanded and institutionalized.
+Each of these elements must be incorporated into routine agency practice to provide demonstrable improvements in the performance of Federal infrastructure permitting and review processes, including lower costs, more timely decisions, and a healthier and cleaner environment. Also, these elements must be integrated into project planning processes so that projects are designed appropriately to avoid, to the extent practicable, adverse impacts on public health, security, historic properties and other cultural resources, and the environment, and to minimize or mitigate impacts that may occur. Permitting and review process improvements that have proven effective must be expanded and institutionalized.
 
 (b) In advancing this policy, this order expands upon efforts undertaken pursuant to Executive Order 13580 of July 12, 2011 (Interagency Working Group on Coordination of Domestic Energy Development and Permitting in Alaska), Executive Order 13563 of January 18, 2011 (Improving Regulation and Regulatory Review), and my memorandum of August 31, 2011 (Speeding Infrastructure Development Through More Efficient and Effective Permitting and Environmental Review), as well as other ongoing efforts.
 
@@ -1510,7 +1510,7 @@ Sec. 2. <i>Steering Committee on Federal Infrastructure Permitting and Review Pr
 
 (a) <i>Infrastructure Projects Covered by this Order</i>. The Steering Committee shall facilitate improvements in Federal permitting and review processes for infrastructure projects in sectors including surface transportation, aviation, ports and waterways, water resource projects, renewable energy generation, electricity transmission, broadband, pipelines, and other such sectors as determined by the Steering Committee.
 
-(b) <i>Membership</i>. Each of the following agencies (Member Agencies) shall be represented on the Steering Committee by a Deputy Secretary or equivalent officer of the United States:
+(b) <i>Membership</i>. Each of the following agencies (Member Agencies) shall be represented on the SteeringCommittee by a Deputy Secretary or equivalent officer of the United States:
 
 (i) the Department of Defense;
 
@@ -1588,7 +1588,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order shall be implemented consistent with Executive Order 13175 of November 6, 2000 (Consultationand Coordination with Indian Tribal Governments) and my memorandum of November 5, 2009 (Tribal Consultation).
+(c) This order shall be implemented consistent with Executive Order 13175 of November 6, 2000 (Consultation and Coordination with Indian Tribal Governments) and my memorandum of November 5, 2009 (Tribal Consultation).
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -1602,7 +1602,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Executive Order 13563 of January 18, 2011 (Improving Regulation and Regulatory Review), states that our regulatory system must protect public health, welfare, safety, and our environment while promoting economic growth, innovation, competitiveness, and job creation. In an increasingly global economy, international regulatory cooperation, consistent with domestic law and prerogatives and U.S. trade policy, can be an important means of promoting the goals of Executive Order 13563.
 
-The regulatory approaches taken by foreign governments may differ from those taken by U.S. regulatory agencies to address similar issues. In some cases, the differences between the regulatory approaches of U.S. agencies and those of their foreign counterparts might not be necessary and might impair the ability of American businesses to export and compete internationally. In meeting shared challenges involving health, safety, labor, security, environmental, and other issues, international regulatory cooperation can identify approaches that are at least as protective as those that are or would be adopted in the absence of such cooperation. International regulatory cooperation can also reduce, eliminate, or prevent unnecessary differences in regulatory requirements.
+The regulatory approaches taken by foreign governments may differ from those taken by U.S. regulatory agencies to address similar issues. In some cases, the differences between the regulatory approaches of U.S.agencies and those of their foreign counterparts might not be necessary and might impair the ability of American businesses to export and compete internationally. In meeting shared challenges involving health, safety, labor, security, environmental, and other issues, international regulatory cooperation can identify approaches that are at least as protective as those that are or would be adopted in the absence of such cooperation. International regulatory cooperation can also reduce, eliminate, or prevent unnecessary differences in regulatory requirements.
 
 Sec. 2. <i>Coordination of International Regulatory Cooperation</i>. (a) The Regulatory Working Group (Working Group) established by Executive Order 12866 of September 30, 1993 (Regulatory Planning and Review), which was reaffirmed by Executive Order 13563, shall, as appropriate:
 
@@ -1722,7 +1722,7 @@ A growing body of evidence demonstrates that behavioral science insights—resea
 
 Where Federal policies have been designed to reflect behavioral science insights, they have substantially improved outcomes for the individuals, families, communities, and businesses those policies serve. For example, automatic enrollment and automatic escalation in retirement savings plans have made it easier to save for the future, and have helped Americans accumulate billions of dollars in additional retirement savings. Similarly, streamlining the application process for Federal financial aid has made college more financially accessible for millions of students.
 
-To more fully realize the benefits of behavioral insights and deliver better results at a lower cost for the American people, the Federal Government should design its policies and programs to reflect our best understanding of how people engage with, participate in, use, and respond to those policies and programs. By improving the effectiveness and efficiency of Government, behavioral science insights can support a range of national priorities, including helping workers to find better jobs; enabling Americans to lead longer, healthier lives; improving access to educational opportunities and support for success in school; and accelerating the transition to a low-carbon economy.
+To more fully realize the benefits of behavioral insights and deliver better results at a lower cost for theAmerican people, the Federal Government should design its policies and programs to reflect our best understanding of how people engage with, participate in, use, and respond to those policies and programs. By improving the effectiveness and efficiency of Government, behavioral science insights can support a range of national priorities, including helping workers to find better jobs; enabling Americans to lead longer, healthier lives; improving access to educational opportunities and support for success in school; and accelerating the transition to a low-carbon economy.
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States, I hereby direct the following:
 
@@ -1778,7 +1778,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Maintaining, encouraging, and supporting a fair, efficient, and competitive marketplace is a cornerstone of the American economy. Consumers and workers need both competitive markets and information to make informed choices.
 
-Certain business practices such as unlawful collusion, illegal bid rigging, price fixing, and wage setting, as well as anticompetitive exclusionary conduct and mergers stifle competition and erode the foundation ofAmerica's economic vitality. The immediate results of such conduct—higher prices and poorer service for customers, less innovation, fewer new businesses being launched, and reduced opportunities for workers—can impact Americans in every walk of life.
+Certain business practices such as unlawful collusion, illegal bid rigging, price fixing, and wage setting, as well as anticompetitive exclusionary conduct and mergers stifle competition and erode the foundation of America's economic vitality. The immediate results of such conduct—higher prices and poorer service for customers, less innovation, fewer new businesses being launched, and reduced opportunities for workers—can impact Americans in every walk of life.
 
 Competitive markets also help advance national priorities, such as the delivery of affordable health care, energy independence, and improved access to fast and affordable broadband. Competitive markets also promote economic growth, which creates opportunity for American workers and encourages entrepreneurs to start innovative companies that create jobs.
 
@@ -2072,7 +2072,7 @@ Ex. Ord. No. 13985, Jan. 20, 2021, 86 F.R. 7009, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
-Section 1. <i>Policy</i>. Equal opportunity is the bedrock of American democracy, and our diversity is one of our country's greatest strengths. But for too many, the American Dream remains out of reach. Entrenched disparities in our laws and public policies, and in our public and private institutions, have often denied that equal opportunity to individuals and communities. Our country faces converging economic, health, and climate crises that have exposed and exacerbated inequities, while a historic movement for justice has highlighted the unbearable human costs of systemic racism. Our Nation deserves an ambitious whole-of-government equity agenda that matches the scale of the opportunities and challenges that we face.
+Section 1. <i>Policy</i>. Equal opportunity is the bedrock of American democracy, and our diversity is one of our country's greatest strengths. But for too many, the American Dream remains out of reach. Entrenched disparities in our laws and public policies, and in our public and private institutions, have often denied that equal opportunity to individuals and communities. Our country faces converging economic, health, and climate crises that have exposed and exacerbated inequities, while a historic movement for justice has highlighted the unbearable human costs of systemic racism.Our Nation deserves an ambitious whole-of-government equity agenda that matches the scale of the opportunities and challenges that we face.
 
 It is therefore the policy of my Administration that the Federal Government should pursue a comprehensive approach to advancing equity for all, including people of color and others who have been historically underserved, marginalized, and adversely affected by persistent poverty and inequality. Affirmatively advancing equity, civil rights, racial justice, and equal opportunity is the responsibility of the whole of our Government. Because advancing equity requires a systematic approach to embedding fairness in decision-making processes, executive departments and agencies (agencies) must recognize and work to redress inequities in their policies and programs that serve as barriers to equal opportunity.
 
@@ -2116,7 +2116,7 @@ Sec. 7. <i>Promoting Equitable Delivery of Government Benefits and Equitable Opp
 
 (b) The Administrator of the U.S. Digital Service, the United States Chief Technology Officer, the Chief Information Officer of the United States, and the heads of other agencies, or their designees, shall take necessary actions, consistent with applicable law, to support agencies in developing such plans.
 
-Sec. 8. <i>Engagement with Members of Underserved Communities</i>. In carrying out this order, agencies shall consult with members of communities that have been historically underrepresented in the Federal Government and underserved by, or subject to discrimination in, Federal policies and programs. The head of each agency shall evaluate opportunities, consistent with applicable law, to increase coordination, communication, and engagement with community-based organizations and civil rights organizations.
+Sec. 8. <i>Engagement with Members of Underserved Communities</i>. In carrying out this order, agencies shall consult with members of communities that have been historically underrepresented in the Federal Government and underserved by, or subject to discrimination in, Federal policies and programs. The head of each agency shall evaluate opportunities, consistent with applicablelaw, to increase coordination, communication, and engagement with community-based organizations and civil rights organizations.
 
 Sec. 9. <i>Establishing an Equitable Data Working Group</i>. Many Federal datasets are not disaggregated by race, ethnicity, gender, disability, income, veteran status, or other key demographic variables. This lack of data has cascading effects and impedes efforts to measure and advance equity. A first step to promoting equity in Government action is to gather the data necessary to inform that effort.
 
@@ -2172,6 +2172,140 @@ Sec. 11. <i>General Provisions</i>. (a) Nothing in this order shall be construed
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 14017. America's Supply Chains
+
+Ex. Ord. No. 14017, Feb. 24, 2021, 86 F.R. 11849, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The United States needs resilient, diverse, and secure supply chains to ensure our economic prosperity and national security. Pandemics and other biological threats, cyber-attacks, climate shocks and extreme weather events, terrorist attacks, geopolitical and economic competition, and other conditions can reduce critical manufacturing capacity and the availability and integrity of critical goods, products, and services. Resilient American supply chains will revitalize and rebuild domestic manufacturing capacity, maintain America's competitive edge in research and development, and create well-paying jobs. They will also support small businesses, promote prosperity, advance the fight against climate change, and encourage economic growth in communities of color and economically distressed areas.
+
+More resilient supply chains are secure and diverse—facilitating greater domestic production, a range of supply, built-in redundancies, adequate stockpiles, safe and secure digital networks, and a world-class American manufacturing base and workforce. Moreover, close cooperation on resilient supply chains with allies and partners who share our values will foster collective economic and national security and strengthen the capacity to respond to international disasters and emergencies.
+
+Therefore, it is the policy of my Administration to strengthen the resilience of America's supply chains.
+
+Sec. 2. <i>Coordination</i>. The Assistant to the President for National Security Affairs (APNSA) and the Assistant to the President for Economic Policy (APEP) shall coordinate the executive branch actions necessary to implement this order through the interagency process identified in National Security Memorandum 2 of February 4, 2021 (Renewing the National Security Council System). In implementing this order, the heads of agencies should, as appropriate, consult outside stakeholders—such as those in industry, academia, non-governmental organizations, communities, labor unions, and State, local, and Tribal governments—in order to fulfill the policy identified in section 1 of this order.
+
+Sec. 3. <i>100-Day Supply Chain Review</i>. (a) To advance the policy described in section 1 of this order, the APNSA and the APEP, in coordination with the heads of appropriate agencies, as defined in section 6(a) of this order, shall complete a review of supply chain risks, as outlined in subsection (b) of this section, within 100 days of the date of this order \[Feb. 24, 2021\].
+
+(b) Within 100 days of the date of this order, the specified heads of agencies shall submit the following reports to the President, through the APNSA and the APEP:
+
+(i) The Secretary of Commerce, in consultation with the heads of appropriate agencies, shall submit a report identifying risks in the semiconductor manufacturing and advanced packaging supply chains and policy recommendations to address these risks. The report shall include the items described in section 4(c) of this order.
+
+(ii) The Secretary of Energy, in consultation with the heads of appropriate agencies, shall submit a report identifying risks in the supply chain for high-capacity batteries, including electric-vehicle batteries, and policy recommendations to address these risks. The report shall include the items described in section 4(c) of this order.
+
+(iii) The Secretary of Defense (as the National Defense Stockpile Manager), in consultation with theheads of appropriate agencies, shall submit a report identifying risks in the supply chain for critical minerals and other identified strategic materials, including rare earth elements (as determined by the Secretary of Defense), and policy recommendations to address these risks. The report shall also describe and update work done pursuant to Executive Order 13953 of September 30, 2020 (Addressing the Threat to the Domestic Supply Chain From Reliance on Critical Minerals From Foreign Adversaries and Supporting the Domestic Mining and Processing Industries) \[30 U.S.C. 1601 note\]. The report shall include the items described in section 4(c) of this order.
+
+(iv) The Secretary of Health and Human Services, in consultation with the heads of appropriate agencies, shall submit a report identifying risks in the supply chain for pharmaceuticals and active pharmaceutical ingredients and policy recommendations to address these risks. The report shall complement the ongoing work to secure the supply chains of critical items needed to combat the COVID–19 pandemic, including personal protective equipment, conducted pursuant to Executive Order 14001 of January 21, 2021 (A Sustainable Public Health Supply Chain) \[42 U.S.C. 247d–6b note\]. The report shall include the items described in section 4(c) of this order.
+
+(c) The APNSA and the APEP shall review the reports required under subsection (b) of this section and shall submit the reports to the President in an unclassified form, but may include a classified annex.
+
+(d) The APNSA and the APEP shall include a cover memorandum to the set of reports submitted pursuant to this section, summarizing the reports' findings and making any additional overall recommendations for addressing the risks to America's supply chains, including the supply chains for the products identified in subsection (b) of this section.
+
+Sec. 4. <i>Sectoral Supply Chain Assessments</i>. (a) Within 1 year of the date of this order, the specified heads of agencies shall submit the following reports to the President, through the APNSA and the APEP:
+
+(i) The Secretary of Defense, in consultation with the heads of appropriate agencies, shall submit a report on supply chains for the defense industrial base that updates the report provided pursuant to Executive Order 13806 of July 21, 2017 (Assessing and Strengthening the Manufacturing and Defense Industrial Base and Supply Chain Resiliency of the United States) \[82 F.R. 34597\], and builds on the Annual Industrial Capabilities Report mandated by the Congress pursuant to \[former\] section 2504 of title 10, United States Code \[now 10 U.S.C. 4814\]. The report shall identify areas where civilian supply chains are dependent upon competitor nations, as determined by the Secretary of Defense.
+
+(ii) The Secretary of Health and Human Services, in consultation with the heads of appropriate agencies, shall submit a report on supply chains for the public health and biological preparedness industrial base (as determined by the Secretary of Health and Human Services). The report shall complement the work conducted pursuant to section 4 of Executive Order 14001.
+
+(iii) The Secretary of Commerce and the Secretary of Homeland Security, in consultation with the heads of appropriate agencies, shall submit a report on supply chains for critical sectors and subsectors of the information and communications technology (ICT) industrial base (as determined by the Secretary of Commerce and the Secretary of Homeland Security), including the industrial base for the development of ICT software, data, and associated services.
+
+(iv) The Secretary of Energy, in consultation with the heads of appropriate agencies, shall submit a report on supply chains for the energy sector industrial base (as determined by the Secretary of Energy).
+
+(v) The Secretary of Transportation, in consultation with the heads of appropriate agencies, shall submit a report on supply chains for the transportation industrial base (as determined by the Secretary of Transportation).
+
+(vi) The Secretary of Agriculture, in consultation with the heads of appropriate agencies, shall submit a report on supply chains for the production of agricultural commodities and food products.
+
+(b) The APNSA and the APEP shall, as appropriate and in consultation with the heads of appropriate agencies, recommend adjustments to the scope for each industrial base assessment, including digital networks, services, assets, and data ("digital products"), goods, services, and materials that are relevant within more than one defined industrial base, and add new assessments, as appropriate, for goods and materials not included in the above industrial base assessments.(c) Each report submitted under subsection (a) of this section shall include a review of:
+
+(i) the critical goods and materials, as defined in section 6(b) of this order, underlying the supply chain in question;
+
+(ii) other essential goods and materials, as defined in section 6(d) of this order, underlying the supply chain in question, including digital products;
+
+(iii) the manufacturing or other capabilities necessary to produce the materials identified in subsections (c)(i) and (c)(ii) of this section, including emerging capabilities;
+
+(iv) the defense, intelligence, cyber, homeland security, health, climate, environmental, natural, market, economic, geopolitical, human-rights or forced-labor risks or other contingencies that may disrupt, strain, compromise, or eliminate the supply chain—including risks posed by supply chains' reliance on digital products that may be vulnerable to failures or exploitation, and risks resulting from the elimination of, or failure to develop domestically, the capabilities identified in subsection (c)(iii) of this section—and that are sufficiently likely to arise so as to require reasonable preparation for their occurrence;
+
+(v) the resilience and capacity of American manufacturing supply chains and the industrial and agricultural base—whether civilian or defense—of the United States to support national and economic security, emergency preparedness, and the policy identified in section 1 of this order, in the event any of the contingencies identified in subsection (c)(iv) of this section occurs, including an assessment of:
+
+&emsp;(A) the manufacturing or other needed capacities of the United States, including the ability to modernize to meet future needs;
+
+&emsp;(B) gaps in domestic manufacturing capabilities, including nonexistent, extinct, threatened, or single-point-of-failure capabilities;
+
+&emsp;(C) supply chains with a single point of failure, single or dual suppliers, or limited resilience, especially for subcontractors, as defined by section 44.101 of title 48, Code of Federal Regulations (Federal Acquisition Regulation);
+
+&emsp;(D) the location of key manufacturing and production assets, with any significant risks identified in subsection (c)(iv) of this section posed by the assets' physical location;
+
+&emsp;(E) exclusive or dominant supply of critical goods and materials and other essential goods and materials, as identified in subsections (c)(i) and (c)(ii) of this section, by or through nations that are, or are likely to become, unfriendly or unstable;
+
+&emsp;(F) the availability of substitutes or alternative sources for critical goods and materials and other essential goods and materials, as identified in subsections (c)(i) and (c)(ii) of this section;
+
+&emsp;(G) current domestic education and manufacturing workforce skills for the relevant sector and identified gaps, opportunities, and potential best practices in meeting the future workforce needs for the relevant sector;
+
+&emsp;(H) the need for research and development capacity to sustain leadership in the development of critical goods and materials and other essential goods and materials, as identified in subsections (c)(i) and (c)(ii) of this section;
+
+&emsp;(I) the role of transportation systems in supporting existing supply chains and risks associated with those transportation systems; and
+
+&emsp;(J) the risks posed by climate change to the availability, production, or transportation of critical goods and materials and other essential goods and materials, as identified in subsections (c)(i) and (c)(ii) of this section.
+
+(vi) allied and partner actions, including whether United States allies and partners have also identified and prioritized the critical goods and materials and other essential goods and materials identified in subsections (c)(i) and (c)(ii) of this section, and possible avenues for international engagement. In assessing these allied and partner actions, the heads of agencies shall consult with the Secretary of State;
+
+(vii) the primary causes of risks for any aspect of the relevant industrial base and supply chains assessed as vulnerable pursuant to subsection (c)(v) of this section;
+
+(viii) a prioritization of the critical goods and materials and other essential goods and materials, including digital products, identified in subsections (c)(i) and (c)(ii) of this section for the purpose of identifying options and policy recommendations. The prioritization shall be based on statutory or regulatory requirements; importance to national security, emergency preparedness, and the policy set forth in section 1 of this order; and the review conducted pursuant to subsection (c)(v) of this section;
+
+(ix) specific policy recommendations for ensuring a resilient supply chain for the sector. Such recommendations may include sustainably reshoring supply chains and developing domestic supplies, cooperating with allies and partners to identify alternative supply chains, building redundancy into domestic supply chains, ensuring and enlarging stockpiles, developing workforce capabilities, enhancing access to financing, expanding research and development to broaden supply chains, addressing risks due to vulnerabilities in digital products relied on by supply chains, addressing risks posed by climate change, and any other recommendations;
+
+(x) any executive, legislative, regulatory, and policy changes and any other actions to strengthen the capabilities identified in subsection (c)(iii) of this section, and to prevent, avoid, or prepare for any of the contingencies identified in subsection (c)(iv) of this section; and
+
+(xi) proposals for improving the Government-wide effort to strengthen supply chains, including proposals for coordinating actions required under this order with ongoing efforts that could be considered duplicative of the work of this order or with existing Government mechanisms that could be used to implement this order in a more effective manner.
+
+(d) The APNSA and the APEP shall review the reports required under subsection (a) of this section and shall submit the reports to the President in an unclassified form, but may include a classified annex.
+
+Sec. 5. <i>General Review and Recommendations</i>. As soon as practicable following the submission of the reports required under section 4 of this order, the APNSA and the APEP, in coordination with the heads of appropriate agencies, shall provide to the President one or more reports reviewing the actions taken over the previous year and making recommendations concerning:
+
+(a) steps to strengthen the resilience of America's supply chains;
+
+(b) reforms needed to make supply chain analyses and actions more effective, including statutory, regulatory, procedural, and institutional design changes. The report shall include recommendations on whether additional offices, personnel, resources, statistical data, or authorities are needed;
+
+(c) \[Superseded by Ex. Ord. No. 14123, §4(e), June 14, 2024, 89 F.R. 51951, see section 4(f) of Ex. Ord. No. 14123, set out below.\]
+
+(d) diplomatic, economic, security, trade policy, informational, and other actions that can successfully engage allies and partners to strengthen supply chains jointly or in coordination;
+
+(e) insulating supply chain analyses and actions from conflicts of interest, corruption, or the appearance of impropriety, to ensure integrity and public confidence in supply chain analyses;
+
+(f) reforms to domestic and international trade rules and agreements needed to support supply chain resilience, security, diversity, and strength;
+
+(g) education and workforce reforms needed to strengthen the domestic industrial base;
+
+(h) steps to ensure that the Government's supply chain policy supports small businesses, prevents monopolization, considers climate and other environmental impacts, encourages economic growth in communities of color and economically distressed areas, and ensures geographic dispersal of economic activity across all regions of the United States; and
+
+(i) Federal incentives and any amendments to Federal procurement regulations that may be necessary to attract and retain investments in critical goods and materials and other essential goods and materials, as defined in sections 6(b) and 6(d) of this order, including any new programs that could encourage both domestic and foreign investment in critical goods and materials.
+
+Sec. 6. <i>Definitions</i>. For purposes of this order:
+
+(a) "Agency" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5). "Agency" also means any component of the Executive Office of the President.
+
+(b) "Critical goods and materials" means goods and raw materials currently defined under statute or regulation as "critical" materials, technologies, or infrastructure.
+
+(c) "Critical minerals" has the meaning given to that term in Executive Order 13953 of September 30, 2020 (Addressing the Threat to the Domestic Supply Chain From Reliance on Critical Minerals From Foreign Adversaries and Supporting the Domestic Mining and Processing Industries) \[30 U.S.C. 1601 note\].
+
+(d) "Other essential goods and materials" means goods and materials that are essential to national and economic security, emergency preparedness, or to advance the policy set forth in section 1 of this order, but not included within the definition of "critical goods and materials."
+
+(e) "Supply chain," when used with reference to minerals, includes the exploration, mining, concentration, separation, alloying, recycling, and reprocessing of minerals.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Ex. Ord. No. 14075. Advancing Equality for Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex Individuals
 
 Ex. Ord. No. 14075, June 15, 2022, 87 F.R. 37189, provided:
@@ -2182,7 +2316,7 @@ Section 1. <i>Policy</i>. Our Nation has made great strides in fulfilling the fu
 
 It is therefore the policy of my Administration to combat unlawful discrimination and eliminate disparities that harm LGBTQI+ individuals and their families, defend their rights and safety, and pursue a comprehensive approach to delivering the full promise of equality for LGBTQI+ individuals, consistent with Executive Order 13988 of January 20, 2021 (Preventing and Combating Discrimination on the Basis of Gender Identity or Sexual Orientation) \[42 U.S.C. 2000e note\].
 
-The Federal Government must take action to address the significant disparities that LGBTQI+ youth face in the foster care system, the misuse of State and local child welfare agencies to target LGBTQI+ youth andfamilies, and the mental health needs of LGBTQI+ youth. My Administration must safeguard LGBTQI+ youth from dangerous practices like so-called "conversion therapy"—efforts to suppress or change an individual's sexual orientation, gender identity, or gender expression—a discredited practice that research indicates can cause significant harm, including higher rates of suicide-related thoughts and behaviors by LGBTQI+ youth. The Federal Government must strengthen the supports for LGBTQI+ students in our Nation's schools and other education and training programs. It must also address the discrimination and barriers that LGBTQI+ individuals and families face by expanding access to comprehensive health care, including reproductive health; protecting the rights of LGBTQI+ older adults; and preventing and addressing LGBTQI+ homelessness and housing instability. Through these actions, the Federal Government will help ensure that every person—regardless of who they are or whom they love—has the opportunity to live freely and with dignity.
+The Federal Government must take action to address the significant disparities that LGBTQI+ youth face in the foster care system, the misuse of State and local child welfare agencies to target LGBTQI+ youth and families, and the mental health needs of LGBTQI+ youth. My Administration must safeguard LGBTQI+ youth from dangerous practices like so-called "conversion therapy"—efforts to suppress or change an individual's sexual orientation, gender identity, or gender expression—a discredited practice that research indicates can cause significant harm, including higher rates of suicide-related thoughts and behaviors by LGBTQI+ youth. The Federal Government must strengthen the supports for LGBTQI+ students in our Nation's schools and other education and training programs. It must also address the discrimination and barriers that LGBTQI+ individuals and families face by expanding access to comprehensive health care, including reproductive health; protecting the rights of LGBTQI+ older adults; and preventing and addressing LGBTQI+ homelessness and housing instability. Through these actions, the Federal Government will help ensure that every person—regardless of who they are or whom they love—has the opportunity to live freely and with dignity.
 
 Sec. 2. <i>Addressing Harmful and Discriminatory Legislative Attacks on LGBTQI+ Children, Youth, and Families</i>. (a) The Secretary of Health and Human Services (HHS) shall, as appropriate and consistent with applicable law, use the Department of HHS's authorities to protect LGBTQI+ individuals' access to medically necessary care from harmful State and local laws and practices, and shall promote the adoption of promising policies and practices to support health equity, including in the area of mental health care, for LGBTQI+ youth and adults. Within 200 days of the date of this order \[June 15, 2022\], the Secretary of HHS shall develop and release sample policies for States to safeguard and expand access to health care for LGBTQI+ individuals and their families, including mental health services.
 
@@ -2214,7 +2348,7 @@ Sec. 4. <i>Promoting Family Counseling and Support of LGBTQI+ Youth as a Public 
 
 (iv) ensuring that HHS data, investments, resources, and partnerships related to the CDC Adverse Childhood Experiences program address the disparities faced by LGBTQI+ children and youth.
 
-Sec. 5. <i>Addressing Discrimination and Barriers Faced by LGBTQI+ Children, Youth, Parents, Caretakers, and Families in the Child Welfare System and Juvenile Justice Systems</i>. (a) The Secretary of HHS shall consider how to use the Department's authorities to strengthen non-discrimination protections on the basis of sex, including sexual orientation, gender identity, and sex characteristics, in its programs and services, consistent with Executive Order 13988 and applicable legal requirements.
+Sec. 5. <i>Addressing Discrimination and Barriers Faced by LGBTQI+ Children, Youth, Parents, Caretakers, and Fami</i><i>lies in the Child Welfare System and Juvenile Justice Systems</i>. (a) The Secretary of HHS shall consider how to use the Department's authorities to strengthen non-discrimination protections on the basis of sex, including sexual orientation, gender identity, and sex characteristics, in its programs and services, consistent with Executive Order 13988 and applicable legal requirements.
 
 (b) The Secretary of HHS shall direct the Assistant Secretary for Family Support to establish an initiative to partner with State child welfare agencies to help address and eliminate disparities in the child welfare system experienced by LGBTQI+ children, parents, and caregivers, including: the over-representation of LGBTQI+ youth in the child welfare system, including over-representation in congregate placements; disproportionately high rates of abuse, and placements in unsupportive or hostile environments faced by LGBTQI+ youth in foster care; disproportionately high rates of homelessness faced by LGBTQI+ youth who exit foster care; and discrimination faced by LGBTQI+ parents, kin, and foster and adoptive families. The initiative, as appropriate and consistent with applicable law, shall also take actions to:
 
@@ -2262,7 +2396,7 @@ Sec. 9. <i>Preventing and Ending LGBTQI+ Homelessness and Housing Instability</i
 
 (i) identify and address barriers to housing faced by LGBTQI+ individuals, including youth, and families that place them at high risk of housing instability and homelessness;
 
-(ii) provide guidance and technical assistance to HUD contractors, grantees, and programs on effectively and respectfully serving LGBTQI+ individuals, including youth, and families;
+(ii) provide guidance and technical assistance to HUD contractors, grantees, and programs on effectively andrespectfully serving LGBTQI+ individuals, including youth, and families;
 
 (iii) develop and provide guidance, sample policies, technical assistance, and training to Continuums of Care, established pursuant to HUD's Continuum of Care Program; homeless service providers; and housing providers to improve services and outcomes for LGBTQI+ individuals, including youth, and families who are experiencing or are at risk of homelessness, and to ensure compliance with the Fair Housing Act, 42 U.S.C. 3601 <i>et seq</i>., and HUD's 2012 and 2016 Equal Access Rules; and
 
@@ -2270,7 +2404,7 @@ Sec. 9. <i>Preventing and Ending LGBTQI+ Homelessness and Housing Instability</i
 
 (b) The Secretary of HHS, through the Assistant Secretary for Family Support, shall, as appropriate and consistent with applicable law:
 
-(i) use agency guidance, training, and technical assistance to implement non-discrimination protections on the basis of sexual orientation and gender identity in programs established pursuant to the Runaway and Homeless Youth Act (Public Law 110–378) \[title III of Pub. L. 93–415, 34 U.S.C. 11201 et seq.\], and ensure thatsuch programs address LGBTQI+ youth homelessness; and
+(i) use agency guidance, training, and technical assistance to implement non-discrimination protections on the basis of sexual orientation and gender identity in programs established pursuant to the Runaway and Homeless Youth Act (Public Law 110–378) \[title III of Pub. L. 93–415, 34 U.S.C. 11201 et seq.\], and ensure that such programs address LGBTQI+ youth homelessness; and
 
 (ii) coordinate with youth advisory boards funded through the Runaway and Homeless Youth Training and Technical Assistance Center and the National Runaway Safeline to seek input from LGBTQI+ youth who have experienced homelessness on improving federally funded services and programs.
 
@@ -2336,7 +2470,7 @@ Ex. Ord. No. 14091, Feb. 16, 2023, 88 F.R. 10825, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. On my first day in office, I signed Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) \[set out above\], which charged the Federal Government with advancing equity for all, including communities that have long been underserved, and addressing systemicracism in our Nation's policies and programs. By advancing equity, the Federal Government can support and empower all Americans, including the many communities in America that have been underserved, discriminated against, and adversely affected by persistent poverty and inequality. We can also deliver resources and benefits equitably to the people of the United States and rebuild trust in Government.
+Section 1. <i>Policy</i>. On my first day in office, I signed Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) \[set out above\], which charged the Federal Government with advancing equity for all, including communities that have long been underserved, and addressing systemic racism in our Nation's policies and programs. By advancing equity, the Federal Government can support and empower all Americans, including the many communities in America that have been underserved, discriminated against, and adversely affected by persistent poverty and inequality. We can also deliver resources and benefits equitably to the people of the United States and rebuild trust in Government.
 
 Over the past 2 years, through landmark legislation—including the American Rescue Plan Act of 2021 (Public Law 117–2); the bipartisan Infrastructure Investment and Jobs Act (Public Law 117–58) (Bipartisan Infrastructure Law); division A of Public Law 117–167, known as the Creating Helpful Incentives to Produce Semiconductors (CHIPS) Act of 2022; Public Law 117–169, commonly referred to as the Inflation Reduction Act of 2022; and the Bipartisan Safer Communities Act (Public Law 117–159) \[see Tables for classifications\]—as well as executive action, my Administration has vigorously championed racial equity and has advanced equal opportunity for underserved communities. Executive departments and agencies (agencies) have engaged in historic work assessing how their policies and programs perpetuate barriers for underserved communities and developing strategies for removing those barriers. They have made important progress incorporating an evidence-based approach to equitable policymaking and implementation, and they have crafted new action plans to advance equity. In short, my Administration has embedded a focus on equity into the fabric of Federal policymaking and service delivery. Our work to transform the way the Federal Government serves the American people has been complemented by Executive Order 14035 of June 25, 2021 (Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce) \[42 U.S.C. 2000e note\], which continues to help ensure that my Administration—the most diverse in our Nation's history—reflects the growing diversity of the communities we serve.
 
@@ -2344,7 +2478,7 @@ My Administration's commitment to equity has produced better decision-making and
 
 These transformative achievements have advanced the work of building a more equitable Nation. Yet, members of underserved communities—many of whom have endured generations of discrimination and disinvestment—still confront significant barriers to realizing the full promise of our great Nation, and the Federal Government has a responsibility to remove these barriers. It is imperative to reject the narrow, cramped view of American opportunity as a zero-sum game. When any person or community is denied freedom, dignity, and prosperity, our entire Nation is held back. But when we lift each other up, we are all lifted up. Therefore, my Administration must take additional action across the Federal Government—in collaboration with civil society, the private sector, and State and local government—to continue the work begun with Executive Order 13985 to combat discrimination and advance equal opportunity, including by redressing unfair disparities and removing barriers to Government programs and services. Achieving racial equity and support for underserved communities is not a one-time project. It must be a multi-generational commitment, and it must remain the responsibility of agencies across the Federal Government. It therefore continues to be the policy of my Administration to advance an ambitious, whole-of-government approach to racial equity and support for underserved communities and to continuously embed equity into all aspects of Federal decision-making.
 
-This order builds upon my previous equity-related Executive Orders by extending and strengthening equity-advancing requirements for agencies, and it positions agencies to deliver better outcomes for the American people. In doing so, the Federal Government shall continue to pursue ambitious goals to build a strong, fair, and inclusive workforce and economy; invest in communities where Federal policies have historically impeded equal opportunity—both rural and urban—in ways that mitigate economic displacement, expand access to capital, preserve housing and neighborhood affordability, root out discrimination in the housing market, and build community wealth; advance equity in health, including mental and behavioral health and well-being; deliver an equitable response to the COVID–19 pandemic; deliver environmental justice and implement the Justice40 Initiative; build prosperity in rural communities; ensure equitable procurement practices, including through small disadvantaged businesses contracting and the Buy Indian Act (25 U.S.C. 47); pursue educational equity so that our Nation's schools put every student on a path to success; improve our Nation's criminal justice system to end unjust disparities, strengthen public safety, and ensure equal justice under law; promote equity in science and root out bias in the design and use of new technologies, such as artificial intelligence; protect the right to vote and realize the promise of our Nation's civil rights laws; and promote equity and human rights around the world through our foreign policy and foreign assistance. By redoubling our efforts, the Federal Government can help bridge the gap between the world we see and the future we seek.
+This order builds upon my previous equity-related Executive Orders by extending and strengthening equity-advancing requirements for agencies, and it positions agencies to deliver better outcomes for the American people. In doing so, the Federal Government shall continue to pursue ambitious goals to build a strong, fair, and inclusive workforce and economy; invest in communities where Federal policies have historically impeded equal opportunity—both rural and urban—in ways that mitigate economic displacement, expand access to capital, preserve housing and neighborhood affordability, root out discrimination in the housingmarket, and build community wealth; advance equity in health, including mental and behavioral health and well-being; deliver an equitable response to the COVID–19 pandemic; deliver environmental justice and implement the Justice40 Initiative; build prosperity in rural communities; ensure equitable procurement practices, including through small disadvantaged businesses contracting and the Buy Indian Act (25 U.S.C. 47); pursue educational equity so that our Nation's schools put every student on a path to success; improve our Nation's criminal justice system to end unjust disparities, strengthen public safety, and ensure equal justice under law; promote equity in science and root out bias in the design and use of new technologies, such as artificial intelligence; protect the right to vote and realize the promise of our Nation's civil rights laws; and promote equity and human rights around the world through our foreign policy and foreign assistance. By redoubling our efforts, the Federal Government can help bridge the gap between the world we see and the future we seek.
 
 Sec. 2. <i>Establishing Equity-Focused Leadership Across the Federal Government</i>. (a) <i>Establishment of Agency Equity Teams</i>. The Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Secretary of Homeland Security, the Administrator of the Small Business Administration, the Commissioner of Social Security, the Administrator of General Services, the Administrator of the United States Agency for International Development, the Administrator of the Environmental Protection Agency, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, and the Director of the Office of Personnel Management (agency heads) shall, within 30 days of the date of this order \[Feb. 16, 2023\], ensure that they have in place an Agency Equity Team within their respective agencies to coordinate the implementation of equity initiatives and ensure that their respective agencies are delivering equitable outcomes for the American people.
 
@@ -2434,9 +2568,9 @@ Sec. 6. <i>Creating Economic Opportunity in Rural America and Advancing Urban Eq
 
 (b) Agencies shall undertake efforts, to the extent consistent with applicable law, to strengthen urban equitable development policies and practices, such as advancing community wealth building projects; preventing physical and economic displacement as the result of Federal investments; facilitating equitable flows of private capital, including to underserved communities; and incorporating outcome-based metrics focused on urban equitable development in the design and deployment of Federal programs and policies. To support these efforts, the Assistant to the President for Domestic Policy shall issue a policy memorandum on actions agencies can take to advance urban equitable development.
 
-(c) Executive Order 13946 of August 24, 2020 (Targeting Opportunity Zones and Other Distressed Communities for Federal Site Locations) \[85 F.R. 52879\], including the amendments it made to Executive Order 12072 of August 16, 1978 (Federal Space Management) \[40 U.S.C. 121 note\], and to Executive Order 13006 of May 21, 1996 (Locating Federal Facilities on Historic Properties in Our Nation's Central Cities) \[40 U.S.C. 3306 note\], is revoked. Executive Orders 12072 and 13006 are reinstated as they were prior to issuance of Executive Order 13946. Executive Order 13853 of December 12, 2018 (Establishing the White House Opportunity and Revitalization Council) \[42 U.S.C. 5301 note\], is also revoked. All agencies shall, consistent with applicable law, including the Administrative Procedure Act (5 U.S.C. 551 et seq.), consider taking prompt action to revoke any rules, regulations, guidelines, or policies implementing these Presidential actions that are inconsistent with the provisions of this order. Further, agencies shall ensure that planning for new Federal facilities or new leases includes consideration of neighborhoods and locations that are near existing employment centers and are accessible to a broad range of the region's workforce and population by public transit (where it exists), consistent with Executive Order 12072. Agencies shall identify displacement risks associated with Federal facility siting and development and shall engage with any community that may be affected, along with appropriate regional and local officials, to mitigate those displacement risks.
+(c) Executive Order 13946 of August 24, 2020 (Targeting Opportunity Zones and Other Distressed Communities for Federal Site Locations) \[85 F.R. 52879\], including the amendments it made to Executive Order 12072 of August 16, 1978 (Federal Space Management) \[40 U.S.C. 121 note\], and to Executive Order 13006 of May 21, 1996 (Locating Federal Facilities on Historic Properties inOur Nation's Central Cities) \[40 U.S.C. 3306 note\], is revoked. Executive Orders 12072 and 13006 are reinstated as they were prior to issuance of Executive Order 13946. Executive Order 13853 of December 12, 2018 (Establishing the White House Opportunity and Revitalization Council) \[42 U.S.C. 5301 note\], is also revoked. All agencies shall, consistent with applicable law, including the Administrative Procedure Act (5 U.S.C. 551 et seq.), consider taking prompt action to revoke any rules, regulations, guidelines, or policies implementing these Presidential actions that are inconsistent with the provisions of this order. Further, agencies shall ensure that planning for new Federal facilities or new leases includes consideration of neighborhoods and locations that are near existing employment centers and are accessible to a broad range of the region's workforce and population by public transit (where it exists), consistent with Executive Order 12072. Agencies shall identify displacement risks associated with Federal facility siting and development and shall engage with any community that may be affected, along with appropriate regional and local officials, to mitigate those displacement risks.
 
-Sec. 7. <i>Advancing Equitable Procurement</i>. (a) The Government-wide goal for Federal procurement dollarsawarded to small business concerns owned and controlled by socially and economically disadvantaged individuals (SDBs) shall be 15 percent in Fiscal Year 2025. In furtherance of this goal, OMB shall set a Government-wide SDB goal for Fiscal Year 2024. The Small Business Administration shall, on an annual basis, work with each agency to establish an agency-specific goal that, in aggregate, supports the Government-wide goal. Further, agencies shall undertake efforts to increase contracting opportunities for all other small business concerns as described in the Small Business Act (15 U.S.C. ch. 14A) \[§631 et seq.\].
+Sec. 7. <i>Advancing Equitable Procurement</i>. (a) The Government-wide goal for Federal procurement dollars awarded to small business concerns owned and controlled by socially and economically disadvantaged individuals (SDBs) shall be 15 percent in Fiscal Year 2025. In furtherance of this goal, OMB shall set a Government-wide SDB goal for Fiscal Year 2024. The Small Business Administration shall, on an annual basis, work with each agency to establish an agency-specific goal that, in aggregate, supports the Government-wide goal. Further, agencies shall undertake efforts to increase contracting opportunities for all other small business concerns as described in the Small Business Act (15 U.S.C. ch. 14A) \[§631 et seq.\].
 
 (b) Agencies shall expand procurement opportunities for SDBs through Federal financial assistance, consistent with applicable law, under the Bipartisan Infrastructure Law, the Inflation Reduction Act of 2022, and other Federal financial assistance programs.
 
@@ -2527,6 +2661,274 @@ Sec. 3. <i>Improving Regulatory Analysis</i>. (a) Regulatory analysis should fac
 (b) Within 1 year of the date of this order \[Apr. 6, 2023\], the Director of the Office of Management and Budget, through the Administrator of OIRA and in consultation with the Chair of the Council of Economic Advisers and representatives of relevant agencies, shall issue revisions to the Office of Management and Budget's Circular A–4 of September 17, 2003 (Regulatory Analysis), in order to implement the policy set forth in subsection (a) of this section.
 
 Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14123. White House Council on Supply Chain Resilience
+
+Ex. Ord. No. 14123, June 14, 2024, 89 F.R. 51949, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. As described in Executive Order 14017 of February 24, 2021 (America's Supply Chains) \[set out above\], it is the policy of my Administration to strengthen the enduring resilience of America's supply chains. The United States needs resilient, diverse, and secure supply chains to ensure our economic prosperity, public health, and national security. Pandemics and other biological threats, cyber attacks, climate stressors and extreme weather events, transnational corruption, terrorist attacks, geopolitical disputes, unfair economic competition, and other disruptive conditions can reduce critical infrastructure, manufacturing, and processing capacity and the availability of critical goods, materials, and services. Building resilient American supply chains will necessitate enhancingdomestic manufacturing capacity, supporting America's competitive edge in research and development, encouraging innovation, reinforcing critical infrastructure, and creating well-paying jobs. Building resilient American supply chains will also provide a foundation to strengthen prosperity, advance the fight against climate change, enhance national emergency preparedness, and encourage economic growth across the Nation.
+
+More resilient supply chains are secure and diverse. Characteristics of resilient supply chains include greater domestic production; a diverse and agile supplier base; built-in redundancies; a reliable transportation system; secure critical infrastructure; adequate stockpiles; safe and secure data networks; reliable food systems; and a world-class, globally competitive American manufacturing base and workforce. Close cooperation on building global supply chain resilience with allies and partners who share our values will foster collective economic and national security, encourage innovation, and strengthen the capacity to respond to and recover from international disasters and emergencies.
+
+Sec. 2. <i>Definitions</i>. For purposes of this order:
+
+(a) "Agency" has the meaning given to that term in Executive Order 14017.
+
+(b) "Critical goods and materials" has the meaning given to that term in Executive Order 14017.
+
+(c) "Other essential goods, materials, and services" means goods, materials, and services that are essential to national and economic security, emergency preparedness, or to advance the policy set forth in section 1 of this order, but not included within the definition of "critical goods and materials."
+
+(d) "Critical infrastructure" means assets, systems, and networks, whether physical or virtual, that are so vital to the United States that their incapacitation or destruction would have a debilitating effect on national security, economic security, national public health or safety, or any combination thereof.
+
+Sec. 3. <i>Coordination</i>. (a) This order supplements and reaffirms the principles governing America's supply chains established in Executive Order 14017. Any provisions of Executive Order 14017 not amended in this order shall remain in effect.
+
+(b) Notwithstanding section 2 of Executive Order 14017, the Assistant to the President for National Security Affairs (APNSA) and the Assistant to the President for Economic Policy (APEP) shall coordinate, as appropriate, the executive branch actions necessary to implement this order through the White House Council on Supply Chain Resilience (Council) established on November 27, 2023, and further described in section 4 of this order. In coordinating the work of the Council on issues related to national security, and on other issues as they deem appropriate, the APNSA and the APEP shall work with the Council in conformance with the interagency process identified in National Security Memorandum 2 of February 4, 2021 (Renewing the National Security Council System).
+
+Sec. 4. <i>White House Council on Supply Chain Resilience</i>. (a) The White House Council on Supply Chain Resilience residing within the Executive Office of the President is led by the APNSA and the APEP, who serve as Co-Chairs of the Council. In addition to the Co-Chairs, the membership of the Council consists of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of the Treasury;
+
+(iii) the Secretary of Defense;
+
+(iv) the Attorney General;
+
+(v) the Secretary of the Interior;
+
+(vi) the Secretary of Agriculture;
+
+(vii) the Secretary of Commerce;
+
+(viii) the Secretary of Labor;
+
+(ix) the Secretary of Health and Human Services;
+
+(x) the Secretary of Housing and Urban Development;
+
+(xi) the Secretary of Transportation;
+
+(xii) the Secretary of Energy;
+
+(xiii) the Secretary of Veterans Affairs;
+
+(xiv) the Secretary of Homeland Security;
+
+(xv) the Administrator of the Environmental Protection Agency;
+
+(xvi) the Director of the Office of Management and Budget;
+
+(xvii) the Director of National Intelligence;
+
+(xviii) the United States Trade Representative;
+
+(xix) the Chair of the Council of Economic Advisers;
+
+(xx) the Administrator of the Small Business Administration;
+
+(xxi) the Director of the Office of Science and Technology Policy;
+
+(xxii) the Assistant to the President and Homeland Security Advisor;
+
+(xxiii) the Assistant to the President and National Climate Advisor;
+
+(xxiv) the National Cyber Director;
+
+(xxv) the Senior Advisor to the President for International Climate Policy;
+
+(xxvi) the Chair of the Council on Environmental Quality;
+
+(xxvii) the Administrator of the National Aeronautics and Space Administration;
+
+(xxviii) the Administrator of the United States Agency for International Development;
+
+(xxix) the Director of the Office of Pandemic Preparedness and Response Policy;
+
+(xxx) the President of the Export-Import Bank of the United States; and
+
+(xxxi) the heads of such other agencies and offices as the Co-Chairs may from time to time invite to participate.
+
+(b) The Co-Chairs shall invite participation of the Chairman of the Federal Maritime Commission and the Chairman of the Surface Transportation Board to the extent consistent with their statutory authorities and obligations.
+
+(c) The Council shall coordinate and promote Federal Government efforts to strengthen long-term supply chain resilience and American industrial competitiveness; identify and provide a coordinated response to address supply chain insecurities, threats, and vulnerabilities, including excessive geographic or supplier concentration; and facilitate collaboration by agencies with allies and partners to foster greater global supply chain resilience. To serve these purposes, the Council shall:
+
+(i) recommend to agencies procedures and best practices for agency cooperation and coordination on data collection and analysis, especially to the extent that agency missions may overlap or intersect, and help facilitate such cooperation and coordination;
+
+(ii) identify budgetary and any other resources needed to support supply chain resilience, including resources to build strong and enduring agency capabilities to identify, address, mitigate, and prevent supply chain risks, shocks, and disruptions;
+
+(iii) recommend administrative actions that would further the policy objectives set forth in section 1 of Executive Order 14017 and in section 1 of this order;
+
+(iv) coordinate with other interagency bodies managing policy areas that affect the integrity of supply chains; and
+
+(v) coordinate with agencies, to the extent appropriate and consistent with applicable law, to ensure that agency operations related to building critical supply chain resilience are conducted in a manner that promotes a fair, open, and competitive marketplace and empowers workers to advocate for their rights and quality jobs.
+
+(d) The Council shall, as appropriate and consistent with applicable law, consult outside stakeholders—such as private industry; academic and educational institutions; non-governmental organizations; labor unions; and State, local, Tribal, and territorial governments—on an individual basis to help accomplish the policy objectives identified in section 1 of this order and in section 1 of Executive Order 14017. Any member of the Council that receives a recommendation from a Federal Advisory Committee, as that term is defined in 5 U.S.C. 1001(2), regarding industrial resilience and competitiveness or supply chain risks, resilience, diversity, or sustainability shall, as appropriate and consistent with applicable law, share that recommendation with the Council.
+
+(e) The Council shall conduct a quadrennial supply chain review of industries critical to national or economic security. The review shall address the processes in place to monitor supply chains and the timeliness of the associated data. At the conclusion of each review, the Council shall submit a report to the President, with the first report submitted no later than December 31, 2024, and subsequent reports submitted every 4 years thereafter. Where practicable and as appropriate, the report shall make recommendations concerning:
+
+(i) Federal incentives and any potential amendments to Federal procurement regulations that may be necessary to attract and retain private sector investments in the supply chains for critical goods and materials and other essential goods, materials, and services as defined in section 2 of this order, including any new programs that could encourage both domestic and foreign investment in the supply chains for critical goods and materials and other essential goods, materials, and services;
+
+(ii) a strategic plan that includes diplomatic, economic, security, international development, trade, and other policy actions to guide United States engagement with allies and partners, including through regional economic frameworks or partnerships supported by the United States, to strengthen global supply chain resilience in critical sectors;
+
+(iii) actions for the insulation of Federal supply chain analyses and actions from conflicts of interest, corruption, or the appearance of impropriety to ensure continued integrity and public confidence in supply chain analyses and actions;
+
+(iv) potential legislative changes that would promote the policy objectives set forth in section 1 of Executive Order 14017 and in section 1 of this order;
+
+(v) reforms to domestic and international trade rules and agreements that could be pursued to support supply chain resilience, security, diversity, sustainability, and strength;
+
+(vi) education and workforce reforms needed to strengthen the domestic industrial base for critical goods and materials and other essential goods, materials, and services; and
+
+(vii) steps to ensure that the Federal Government's supply chain policies support small businesses and family-owned small- and mid-sized farming operations, prevent monopolization, strengthen critical infrastructure, empower workers to advocate for their rights and quality jobs, consider climate and other health and environmental effects, encourage economic growth in underserved communities and economically distressed areas, and promote the geographic dispersal of economic activity across all regions of the United States.
+
+(f) Subsection (e) of this section supersedes section 5(c) of Executive Order 14017.
+
+(g) Each member of the Council shall designate, within 30 days of the date of this order \[June 14, 2024\], a senior official within their respective agency or office who shall coordinate with the Council and who shall be responsible for overseeing the agency's or office's efforts to address supply chain resilience. The Co-Chairs may designate Council subgroups consisting of Council members or their designees, as appropriate.
+
+(h) The Council shall meet on a semiannual basis unless the Co-Chairs determine that a meeting is unnecessary or that additional meetings are needed.
+
+(i) Each agency or office shall bear its own expenses for participating in the Council.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14126. Investing in America and Investing in American Workers
+
+Ex. Ord. No. 14126, Sept. 6, 2024, 89 F.R. 73559, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal Government has made significant strides in implementing the Investing in America agenda, a historic set of recently enacted laws aimed at rebuilding American infrastructure, bringing back American manufacturing, and catalyzing a clean energy economy. That agenda has been furthered by Executive Order 14082 of September 12, 2022 (Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022) \[26 U.S.C. 1 note\], and Executive Order 14080 of August 25, 2022 (Implementation of the CHIPS Act of 2022) \[15 U.S.C. 4651 note\]. As implementation of the Investing in America agenda continues, it is essential that it supports the creation of well-paying jobs, especially union jobs, that improve opportunities for millions of Americans. Investing in American workers is critical to growing the economy equitably and resiliently, increasing our Nation's competitiveness, and ensuring our Nation's economic security. Workers understand the value of a good job that provides economic security for them and their families. Many companies also recognize that providing good-quality jobs while promoting workers' free and fair choice to join a union makes those companies employers of choice, creating a clear competitive advantage.
+
+The Federal Government has long promoted high labor standards to ensure fair competition, stability, and efficiency on federally assisted projects. The use of high labor standards on federally assisted projects, such as the use of prevailing wages, project labor agreements, and equal employment opportunity policies, dates back almost a century. These tools ensure timely and economical completion of projects, provide a reliable source of highly skilled workers, support equitable workforce development, and improve worker health and safety on the job, while also improving outcomes for the communities in which projects are located. But these tools can and should be employed to a greater extent than they have been in the past.
+
+For instance, providing incentives for federally assisted projects with high labor standards—including those using collective bargaining agreements, project labor agreements, and certain community benefits agreements—drives efficient project completion while also supporting high-quality jobs, worker safety, and broader investment in communities. Ensuring that workers on federally assisted projects are paid competitive and equitable wages will enhance worker productivity, generate higher-quality work, and reduce turnover, providing value for taxpayers. Promoting inclusivity, with equal opportunity for all qualified workers, will help ensure that federally assisted projects have the workforce needed to implement the Investing in America agenda.
+
+Therefore, it is the policy of my Administration to promote the creation of equitable workforce development pathways for workers to obtain good jobs that pay family-sustaining wages, provide critical benefits, prevent workplace discrimination, ensure worker safety, and allow workers a free and fair chance to join a union.
+
+Sec. 2. <i>Definitions</i>. For purposes of this order:
+
+(a) The term "implementing agencies" means the Department of the Interior, the Department of Agriculture, the Department of Commerce, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Department of Energy, the Department of Education, the Department of Homeland Security, and the Environmental Protection Agency.
+
+(b) The term "community benefits agreement" means an agreement signed by a developer and one or more community benefit groups—coalitions that are composed of neighborhood associations, faith-based organizations, unions, environmental groups, or other stakeholders—that identifies the community benefits a developer agrees to deliver in return for community support of the project.
+
+(c) The term "Federal financial assistance" means funds obtained from the Federal Government or borrowed on the credit of the Federal Government pursuant to grants (whether formula or discretionary), loans, or rebates, or projects undertaken pursuant to any Federal program involving such grants, loans, or rebates.
+
+(d) The term "Investing in America agenda" means the American Rescue Plan Act of 2021 (Public Law 117–2); the Infrastructure Investment and Jobs Act (Public Law 117–58); division A of Public Law 117–167, known as the Creating Helpful Incentives to Produce Semiconductors (CHIPS) Act of 2022; and Public Law 117–169, commonly referred to as the Inflation Reduction Act of 2022 \[see Tables for classification\].
+
+(e) The term "pre-apprenticeship program" has the meaning given to that term in 29 CFR 30.2.
+
+(f) The term "pre-award processes" means the negotiations, interactions, and other communications between an implementing agency and an applicant after proposal submission and prior to award.
+
+(g) The term "project labor agreement" means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in 29 U.S.C. 158(f).
+
+(h) The term "registered apprenticeship" means an industry-driven career pathway through which employers can develop and prepare their future workforces and individuals can obtain paid training; work experience; progressive wage increases; classroom instruction; and a portable, nationally recognized credential. A registered apprenticeship must meet the requirements for registration as set forth in 29 CFR parts 29 and 30.
+
+(i) The term "underserved communities" refers to those populations as well as geographic communities that have been systematically denied the opportunity to participate fully in aspects of economic, social, and civic life, as defined in section 2 of Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) \[5 U.S.C. 601 note\], section 6 of Executive Order 14020 of March 8, 2021 (Establishment of the White House Gender Policy Council) \[42 U.S.C. 2000e note\], and section 10 of Executive Order 14091 of February 16, 2023 (Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) \[5 U.S.C. 601 note\], and additionally includes formerly incarcerated individuals.
+
+(j) The term "public workforce system" has the meaning given to the term "workforce development system" in 29 U.S.C. 3102(67).
+
+Sec. 3. <i>Implementation Priorities</i>. In selecting projects for receiving Federal financial assistance from the Investing in America agenda, implementing agencies shall consider actions that, as appropriate and consistent with applicable law:
+
+(a) Prioritize projects for selection that provide a clear plan for efficient project delivery by promoting positive labor-management relations. Examples of instruments and policies that implementing agencies could consider encouraging applicants to adopt, as appropriate, may include: project labor agreements, community benefits agreements, collective bargaining agreements, agreements intended to ensure the uninterrupted delivery of services, agreements designed to facilitate first collective bargaining agreements, voluntary union recognition, and neutrality by the employer with respect to union organizing.
+
+(b) Prioritize projects that enhance worker productivity by promoting family-sustaining wages. Examples of policies that implementing agencies could consider encouraging applicants to adopt, as appropriate, may include: payment of wages tied to a particular metric—such as wages not less than prevailing wages, the upper quartile of industry pay, or union pattern wage scales—including for workers in the care workforce, that is, individuals working in the fields of child care and long-term care; policies to promote equal pay and eliminate discriminatory pay practices, such as transparency measures; and other policies aligned with the Good Jobs Principles established by the Department of Commerce and the Department of Labor on June 21, 2022.
+
+(c) Prioritize projects that supply critical benefits that promote economic security for workers, such as paid leave (including paid sick, family, and medical leave); health care; retirement benefits; and child, dependent, and elder care.
+
+(d) Prioritize projects that promote and expand access to, and put in place policies that combat discrimination that limits employment in, high-quality jobs for workers from underserved communities. Examples of policies that implementing agencies could consider encouraging applicants to adopt, as appropriate, may include: workforce plans that contain strategies for recruiting, hiring, and retaining workers from underserved and local communities; policies that help prevent workplace discrimination and harassment, including through reporting structures and ongoing training; and participation in programs designed to support compliance with existing equal employment opportunity obligations under Executive Order 11246 of September 24, 1965 (Equal Employment Opportunity) \[42 U.S.C. 2000e note\], as amended, section 503 of the Rehabilitation Act of 1973 (Public Law 93–112) \[29 U.S.C. 793\], the Vietnam Era Veterans' Readjustment Assistance Act of 1972 (Public Law 92–540) \[see Tables for classification\], as amended, and their implementing regulations.
+
+(e) Prioritize projects that strengthen workforce development by expanding worker access to high-quality training and portable credentials that lead to good jobs. Examples of policies that implementing agencies could consider encouraging applicants to adopt, as appropriate, may include: the use of joint labor-management partnerships that invest in union-affiliated training programs, registered apprenticeships, and pre-apprenticeship programs that matriculate to registered apprenticeships; partnerships with organizations that deliver training such as community colleges, career and technical education programs, disability service organizations, the public workforce system, and the American Climate Corps; and the provision of supportive services necessary to complete training such as child care and transportation assistance.
+
+(f) Prioritize projects that promote and protect worker health and safety through policies that encourage supplemental safety training, worker and union participation in the design and implementation of workplace safety and health management systems, and disclosure of occupational safety and health violations.
+
+Sec. 4. <i>Implementation Approach</i>. (a) Implementing agencies shall, as appropriate and consistent with applicable law, consider the following strategies in connection with their Federal financial assistance programs to promote the implementation priorities identified in section 3 of this order:
+
+(i) including application evaluation criteria or selection factors that prioritize applicants that adopt or provide a specific plan to adopt those priorities;
+
+(ii) publishing best practice guides and other guidance to applicants to promote and implement those priorities, including guides on what types of Federal financial assistance can be used for workforce development, such as supportive services;
+
+(iii) engaging with applicants, where appropriate, during pre-award processes to ensure that applicants understand the benefits of those priorities for key programs and projects;
+
+(iv) collecting relevant data to demonstrate funding recipients' progress, including by:
+
+&emsp;(A) requesting in funding notices or through other appropriate mechanisms that applicants address a series of "yes" or "no" questions regarding the implementation of those priorities to ensure transparency of labor practices and commitments;
+
+&emsp;(B) using existing compliance practices (such as the collection of certified payrolls when applicable) to collect detailed data on job quality, equity, and worker empowerment; and
+
+&emsp;(C) requesting reporting on key metrics and encouraging voluntary public reporting of additional relevant metrics developed by the implementing agency;
+
+(v) promoting compliance with Federal law and commitments made by applicants, including, as appropriate, referring alleged violations of law to other executive departments and agencies for a determination of whether circumstances warrant the issuance of financial penalties or collection of relief for workers harmed, withholding further Federal financial assistance pending correction of a deficiency, recovery of some or all Federal funds, or debarment; and
+
+(vi) supporting program staff and developing implementing agency expertise, including by consulting the Department of Labor and implementing agency labor advisors, to train program staff on how to implement those priorities and ensure that staff have the expertise needed to support the creation of good jobs through each phase of project delivery on federally assisted projects.
+
+(b) Implementing agencies shall carry out their responsibilities under this order consistent with their responsibilities under the Justice40 Initiative set forth in Executive Order 14008 of January 27, 2021 (Tackling the Climate Crisis at Home and Abroad) \[42 U.S.C. 4321 note\].
+
+Sec. 5. <i>Investing in Good Jobs Task Force</i>. (a) There is established within the Executive Office of the President the Investing in Good Jobs Task Force (Task Force). The function of the Task Force is to coordinate policy development that supports efficient project delivery while also driving the creation of high-quality jobs and to otherwise support the effective implementation of this order. The Task Force shall be co-chaired by the Secretary of Labor and the Assistant to the President for Economic Policy and Director of the National Economic Council or their designees.
+
+(b) In addition to the Co-Chairs, the Task Force shall consist of the following members or their designees:
+
+(i) the Secretary of the Interior;
+
+(ii) the Secretary of Agriculture;
+
+(iii) the Secretary of Commerce;
+
+(iv) the Secretary of Housing and Urban Development;
+
+(v) the Secretary of Transportation;
+
+(vi) the Secretary of Energy;
+
+(vii) the Secretary of Education;
+
+(viii) the Secretary of Homeland Security;
+
+(ix) the Administrator of the Environmental Protection Agency;
+
+(x) the Assistant to the President and National Climate Advisor;
+
+(xi) the Senior Advisor to the President for International Climate Policy;
+
+(xii) the Chair of the Council on Environmental Quality;
+
+(xiii) the Chair of the Council of Economic Advisers;
+
+(xiv) the Assistant to the President and Director of the Domestic Policy Council;
+
+(xv) the Assistant to the President and Director of the Gender Policy Council; and
+
+(xvi) the heads of other executive departments, agencies, and offices as the Co-Chairs may from time to time invite to participate.
+
+(c) The Task Force shall assist implementing agencies in promoting the implementation priorities identified in section 3 of this order. To do so, the Task Force shall:
+
+(i) share and, as appropriate, develop best practices related to promoting adoption of the implementation priorities identified in section 3 of this order, and provide technical assistance to implementing agencies in implementing these best practices;
+
+(ii) support implementing agencies as they develop expertise in promoting efficient project delivery while also driving the creation of high-quality jobs; and
+
+(iii) engage in other appropriate activities as determined by the Task Force, consistent with applicable law, to support effective implementation of this order.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -2666,7 +3068,7 @@ From our Nation's founding, the American constitutional order has been a Federal
 
 An understanding of the important role of State governments in our Federal system is reflected in longstanding practices by executive departments and agencies, which have shown respect for the traditional prerogatives of the States. In recent years, however, notwithstanding Executive Order 13132 of August 4, 1999 (Federalism), executive departments and agencies have sometimes announced that their regulations preempt State law, including State common law, without explicit preemption by the Congress or an otherwise sufficient basis under applicable legal principles.
 
-The purpose of this memorandum is to state the general policy of my Administration that preemption ofState law by executive departments and agencies should be undertaken only with full consideration of the legitimate prerogatives of the States and with a sufficient legal basis for preemption. Executive departments and agencies should be mindful that in our Federal system, the citizens of the several States have distinctive circumstances and values, and that in many instances it is appropriate for them to apply to themselves rules and principles that reflect these circumstances and values. As Justice Brandeis explained more than 70 years ago, "\[i\]t is one of the happy incidents of the federal system that a single courageous state may, if its citizens choose, serve as a laboratory; and try novel social and economic experiments without risk to the rest of the country."
+The purpose of this memorandum is to state the general policy of my Administration that preemption of State law by executive departments and agencies should be undertaken only with full consideration of the legitimate prerogatives of the States and with a sufficient legal basis for preemption. Executive departments and agencies should be mindful that in our Federal system, the citizens of the several States have distinctive circumstances and values, and that in manyinstances it is appropriate for them to apply to themselves rules and principles that reflect these circumstances and values. As Justice Brandeis explained more than 70 years ago, "\[i\]t is one of the happy incidents of the federal system that a single courageous state may, if its citizens choose, serve as a laboratory; and try novel social and economic experiments without risk to the rest of the country."
 
 To ensure that executive departments and agencies include statements of preemption in regulations only when such statements have a sufficient legal basis:
 
@@ -2762,7 +3164,7 @@ Reliable, safe, and resilient infrastructure is the backbone of an economy built
 
 Through the implementation of Executive Order 13604 of March 22, 2012 (Improving Performance of Federal Permitting and Review of Infrastructure Projects), executive departments and agencies (agencies) have achieved better outcomes for communities and the environment and realized substantial time savings in review and permitting by prioritizing the deployment of resources to specific sectors and projects, and by implementing best-management practices.
 
-These best-management practices include: integrating project reviews among agencies with permitting responsibilities; ensuring early coordination with other Federal agencies, as well as with State, local, and tribal governments; strategically engaging with, and conducting outreach to, stakeholders; employing project-planning processes and individual project designs that consider local and regional ecological planning goals; utilizing landscape- and watershed-levelmitigation practices; promoting the sharing of scientific and environmental data in open-data formats to minimize redundancy, facilitate informed project planning, and identify data gaps early in the review and permitting process; promoting performance-based permitting and regulatory approaches; expanding the use of general permits where appropriate; improving transparency and accountability through the electronic tracking of review and permitting schedules; and applying best environmental and cultural practices as set forth in existing statutes and policies.
+These best-management practices include: integrating project reviews among agencies with permitting responsibilities; ensuring early coordination with other Federal agencies, as well as with State, local, and tribal governments; strategically engaging with, and conducting outreach to, stakeholders; employing project-planning processes and individual project designs that consider local and regional ecological planning goals; utilizing landscape- and watershed-level mitigation practices; promoting the sharing of scientific and environmental data in open-data formats to minimize redundancy, facilitate informed project planning, and identify data gaps early in the review and permitting process; promoting performance-based permitting and regulatory approaches; expanding the use of general permits where appropriate; improving transparency and accountability through the electronic tracking of review and permitting schedules; and applying best environmental and cultural practices as set forth in existing statutes and policies.
 
 Based on the process and policy improvements that are already being implemented across the Federal Government, we can continue to modernize the Federal Government's review and permitting of infrastructure projects and reduce aggregate timelines for major infrastructure projects by half, while also improving outcomes for communities and the environment by institutionalizing these best-management practices, and by making additional improvements to enhance efficiencies in the application of regulations and processes involving multiple agencies—including expanding the use of web-based techniques for sharing project-related information, facilitating targeted and relevant environmental reviews, and providing meaningful opportunities for public input through stakeholder engagement.
 
@@ -2834,7 +3236,7 @@ Sec. 2. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 
 (b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This memorandum shall be implemented consistent with Executive Order 12898 of February 11, 1994 (Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations), Executive Order 13175 of November 6, 2000 (Consultation and Coordination with Indian Tribal Governments), andmy memorandum of November 5, 2009 (Tribal Consultation).
+(c) This memorandum shall be implemented consistent with Executive Order 12898 of February 11, 1994 (Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations), Executive Order 13175 of November 6, 2000 (Consultation and Coordination with Indian Tribal Governments), and my memorandum of November 5, 2009 (Tribal Consultation).
 
 (d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -2890,7 +3292,7 @@ Sec. 3. <i>Federal Action to Support Predevelopment Activities</i>. Agencies sha
 
 (e) the Department of Agriculture shall develop guidance to clarify where predevelopment activities are eligible for funding through its programs, including grants for water and waste projects pursuant to 7 CFR 1780.1 et seq., the Special Evaluation Assistance for Rural Communities and Households Program, the Community Facilities Grant program, and the Watershed and Flood Prevention Operations Program. To encourage innovative predevelopment work, the Department of Agriculture shall also train Water and Environmental Programs field staff on predevelopment best practices and prioritize predevelopment in the Department of Agriculture's project development process; and
 
-(f) the other members of the Working Group established in section 3 of my memorandum of July 17, 2014\(Expanding Public-Private Collaboration on Infrastructure Development and Financing), shall take such steps as appropriate to clarify program eligibilities related to predevelopment activities for nonfederal domestic infrastructure assets.
+(f) the other members of the Working Group established in section 3 of my memorandum of July 17, 2014 (Expanding Public-Private Collaboration on Infrastructure Development and Financing), shall take such steps as appropriate to clarify program eligibilities related to predevelopment activities for nonfederal domestic infrastructure assets.
 
 Sec. 4. <i>Implementation, Public Education, and Best Practices</i>. The Departments of Agriculture, Commerce, Labor, Housing and Urban Development, Transportation, Energy, and Homeland Security, and the Environmental Protection Agency shall develop plans for implementing the requirements of this memorandum, providing technical assistance to nonfederal actors engaged in predevelopment activities, and educating grantees and the public on the benefits of predevelopment and the Federal resources available for these activities. These agencies shall also work together to develop a guide for nonfederal actors undertaking nonfederal predevelopment activities that includes best practices on how to evaluate and compare traditional and alternative financing strategies. No later than 60 days after the date of this memorandum, these agencies shall provide these plans and the best practice guide to the Director of the National Economic Council. Subsequently, these agencies shall provide regular updates to the Director of the National Economic Council on their progress in increasing support for predevelopment activities.
 

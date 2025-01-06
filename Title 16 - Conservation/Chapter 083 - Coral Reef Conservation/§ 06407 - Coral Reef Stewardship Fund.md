@@ -60,7 +60,7 @@ The Administrator shall seek to enter into an agreement with the National Fish a
 
 #### (d) Administration
 
-Under an agreement entered into pursuant to subsection (a), and subject to the availability ofappropriations, the Administrator may transfer funds appropriated for such purposes to carry out this chapter to the Foundation. Amounts received by the Foundation under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the Foundation by private persons, State or local government agencies, or covered Native entities.
+Under an agreement entered into pursuant to subsection (a), and subject to the availability of appropriations, the Administrator may transfer funds appropriated for such purposes to carry out this chapter to the Foundation. Amounts received by the Foundation under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the Foundation by private persons, State or local government agencies, or covered Native entities.
 
 (Pub. L. 106–562, title II, §208, as added Pub. L. 117–263, div. J, title C, §10001(a), Dec. 23, 2022, 136 Stat. 3939.)
 

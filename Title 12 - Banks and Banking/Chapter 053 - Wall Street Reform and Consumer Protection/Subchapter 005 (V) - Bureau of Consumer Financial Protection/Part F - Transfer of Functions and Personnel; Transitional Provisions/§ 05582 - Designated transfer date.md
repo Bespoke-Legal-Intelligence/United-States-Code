@@ -12,7 +12,7 @@ Not later than 60 days after July 21, 2010, the Secretary shall—
 
 The Secretary—
 
-&emsp;(1) may, in consultation with the Chairman of the Board of Governors, the Chairperson ofthe Federal Deposit Insurance Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, change the date designated under subsection (a); and
+&emsp;(1) may, in consultation with the Chairman of the Board of Governors, the Chairperson of the Federal Deposit Insurance Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, change the date designated under subsection (a); and
 
 &emsp;(2) shall publish notice of any changed designated date in the Federal Register.
 

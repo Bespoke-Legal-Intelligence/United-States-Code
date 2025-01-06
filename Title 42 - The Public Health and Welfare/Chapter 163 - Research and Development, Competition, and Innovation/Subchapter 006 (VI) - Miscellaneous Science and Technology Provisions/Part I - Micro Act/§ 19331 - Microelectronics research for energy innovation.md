@@ -322,7 +322,7 @@ Congress finds that—
 
 #### (6) Technology transfer
 
-&emsp;The Director, in coordination with the Director of the Office of Technology Transitions, shall seek to enter into partnerships with industry groups to facilitate the translation and transfer of research results produced by the Centers.
+&emsp;The Director, in coordination with the Director of the Office of Technology Transitions,shall seek to enter into partnerships with industry groups to facilitate the translation and transfer of research results produced by the Centers.
 
 #### (7) Coordination
 

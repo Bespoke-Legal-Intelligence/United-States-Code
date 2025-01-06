@@ -50,7 +50,7 @@ As used in this section—
 
 #### (c) Fisheries research and development projects
 
-(1) The Secretary shall make grants from the fund established under subsection (b) to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, fisheries science, recreational fishing, harvesting, processing, marketing, and associated infrastructures.
+(1) The Secretary shall make grants from the fund established under subsection (b) to assistpersons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, fisheries science, recreational fishing, harvesting, processing, marketing, and associated infrastructures.
 
 (2) The Secretary shall—
 
@@ -90,7 +90,7 @@ As used in this section—
 
 (5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept, as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
 
-(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission touse real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be conclusive.
 
@@ -110,7 +110,7 @@ As used in this section—
 
 &emsp;&emsp;(ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) during the current fiscal year; and
 
-&emsp;(C) an assessment of each project assisted under subsection (c) or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
+&emsp;(C) an assessment of each project assisted under subsection (c) or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained,and (ii) the project contributed to fishery development.
 
 #### (e) American Fisheries Advisory Committee
 
@@ -280,7 +280,7 @@ As used in this section—
 
 #### Codification
 
-"Section 50501 of title 46" substituted for "section 2 of the Shipping Act, 1916 (46 U.S.C. 802)" in subsec. (a)(1)(C) and (5)(B) and "such section 50501" substituted for "such section 2" in subsec. (a)(1)(C) on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
+"Section 50501 of title 46" substituted for "section 2 of the Shipping Act, 1916 (46 U.S.C. 802)" in subsec.\(a)(1)(C) and (5)(B) and "such section 50501" substituted for "such section 2" in subsec. (a)(1)(C) on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
 Section is comprised of section 2 of act Aug. 11, 1939. Another subsec. (f) of section 2 of act Aug. 11, 1939, was omitted in view of the repeal of the reporting requirements contained in that subsection by section 1(13) of Pub. L. 89–348. See Termination of Reporting Requirements note below.
 
@@ -324,7 +324,7 @@ Subsec. (b). Pub. L. 96–561, §210(1), (2), (4), redesignated subsec. (a) as (
 
 Subsec. (c). Pub. L. 96–561, §210(1), (5), added subsec. (c) and struck out former subsec. (c) which directed the Secretary of Commerce to cooperate with other Federal, State, and local agencies for promotion of free flow of domestically produced fishery products and provided for the appointment of an advisory committee of the American fisheries industry to advise the Secretary in formulation of policy, rules, and regulations.
 
-Subsec. (d). Pub. L. 96–561, §210(1), (5), added subsec. (d) and struck out former subsec. (d) which authorizedthe Secretary of Commerce to retransfer any funds available under this section, not to exceed $1,500,000, to the Secretary of Agriculture to be used for the purposes specified in section 713c–2 of this title.
+Subsec. (d). Pub. L. 96–561, §210(1), (5), added subsec. (d) and struck out former subsec. (d) which authorized the Secretary of Commerce to retransfer any funds available under this section, not to exceed $1,500,000, to the Secretary of Agriculture to be used for the purposes specified in section 713c–2 of this title.
 
 Subsec. (e). Pub. L. 96–561, §210(1), (5), added subsec. (e) and struck out former subsec. (e) which provided that the special fund created for use of the Secretary of Commerce under subsec. (a) of this section and the annual accruals thereto be available for each year until expended by the Secretary.
 
@@ -354,7 +354,7 @@ Pub. L. 89–348, §1(13), Nov. 8, 1965, 79 Stat. 1311, repealed the following r
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 ofTitle 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Authorization for Transfer of Funds
 

@@ -1,6 +1,6 @@
 ### §8033. Chief of Naval Operations
 
-(a)(1) There is a Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate. The Chief of Naval Operations shall be appointed for a term of four years, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Chief of Naval Operations, appointed by the President, by and with the adviceand consent of the Senate. The Chief of Naval Operations shall be appointed for a term of four years, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as the Chief of Naval Operations only if—
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 115–232, §809(a), substituted "section 8013(f)" for "sec
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, setout in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

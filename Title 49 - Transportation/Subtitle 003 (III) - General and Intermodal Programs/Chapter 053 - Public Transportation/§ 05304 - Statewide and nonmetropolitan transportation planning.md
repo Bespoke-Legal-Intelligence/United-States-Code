@@ -20,7 +20,7 @@ Process of development.—The process for developing the statewide plan and the 
 
 Coordination With Metropolitan Planning; State Implementation Plan.—A State shall—
 
-&emsp;(1) coordinate planning carried out under this section with the transportation planning activities carried out under section 5303 for metropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and
+&emsp;(1) coordinate planning carried out under this section with the transportation planning activities carried out under section 5303 for metropolitan areas of the State and with statewide trade and economic developmentplanning activities and related multistate planning efforts; and
 
 &emsp;(2) develop the transportation portion of the State implementation plan as required by the Clean Air Act (42 U.S.C. 7401 et seq.).
 
@@ -100,7 +100,7 @@ Use of performance measures and targets.—The performance measures and targets 
 
 &emsp;(3)
 
-Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, astatewide transportation improvement program, a project or strategy, or the certification of a planning process.
+Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
 
 (e)
 
@@ -326,7 +326,7 @@ Consistency with statewide transportation plan.—Each project shall be—
 
 &emsp;&emsp;(E)
 
-Requirement of anticipated full funding.—The transportation improvement program shall include a project, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project within the time period contemplated for completion of the project.
+Requirement of anticipated full funding.—The transportation improvement program shall include a project, or an identified phase of a project, only if full fundingcan reasonably be anticipated to be available for the project within the time period contemplated for completion of the project.
 
 &emsp;&emsp;(F)
 
@@ -416,7 +416,7 @@ Publication.—The report under subparagraph (A) shall be published or otherwise
 
 (i)
 
-Treatment of Certain State Laws as Congestion Management Processes.—For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
+Treatment of Certain State Laws as Congestion Management Processes.—For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this section and section 5303, and sections 134 and 135 oftitle 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
 
 (j)
 
@@ -576,7 +576,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Schedule for Implementation
 

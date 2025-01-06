@@ -14,13 +14,15 @@ Not later than 18 months after December 20, 2019, the Secretary shall coordinate
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2020 through 2024 for the establishment, implementation, and maintenance activities carried out under subsections (a) and (b).
+There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2025 through 2029 for the establishment, implementation, and maintenance activities carried out under subsections (a) and (b).
 
-(July 1, 1944, ch. 373, title XII, §1271, as added Pub. L. 108–194, §3, Dec. 19, 2003, 117 Stat. 2889; amended Pub. L. 110–377, §3, Oct. 8, 2008, 122 Stat. 4064; Pub. L. 113–77, §2, Jan. 24, 2014, 128 Stat. 644; Pub. L. 116–94, div. N, title I, §403(a), Dec. 20, 2019, 133 Stat. 3114.)
+(July 1, 1944, ch. 373, title XII, §1271, as added Pub. L. 108–194, §3, Dec. 19, 2003, 117 Stat. 2889; amended Pub. L. 110–377, §3, Oct. 8, 2008, 122 Stat. 4064; Pub. L. 113–77, §2, Jan. 24, 2014, 128 Stat. 644; Pub. L. 116–94, div. N, title I, §403(a), Dec. 20, 2019, 133 Stat. 3114; Pub. L. 118–86, §2(a), Sept. 26, 2024, 138 Stat. 1549.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–86 substituted "fiscal years 2025 through 2029" for "fiscal years 2020 through 2024".
 
 <b>2019</b>—Pub. L. 116–94, §403(a)(1), inserted "and other communication capabilities" after "toll-free number" in section catchline.
 
@@ -30,7 +32,7 @@ Subsec. (b). Pub. L. 116–94, §403(a)(4), added subsec. (b). Former subsec. (b
 
 Subsec. (c). Pub. L. 116–94, §403(a)(3), (5), redesignated subsec. (b) as (c) and substituted "2020 through 2024" for "2015 through 2019" and "establishment, implementation, and maintenance activities carried out under subsections (a) and (b)" for "maintenance of the nationwide toll free phone number under subsection (a)".
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–77 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a)."
+<b>2014</b>—Subsec. (b). Pub. L. 113–77 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 forthe maintenance of the nationwide toll free phone number under subsection (a)."
 
 <b>2008</b>—Pub. L. 110–377 amended section generally. Prior to amendment, section required the Secretary to coordinate and assist in establishment of nationwide poison control center toll-free phone number, allowed for establishment and continued operation of privately funded nationwide toll-free numbers, and authorized appropriations for fiscal years 2000 through 2009.
 

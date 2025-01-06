@@ -90,7 +90,7 @@ The Truman-Hobbs Act, referred to in subsec. (d), is act June 21, 1940, ch. 409,
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–159, §101(c)(2)(A), substituted "; and" for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and".
 
-Subsecs. (d), (e). Pub. L. 106–159, §101(c)(2)(B), (C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final."
+Subsecs. (d), (e). Pub. L. 106–159, §101(c)(2)(B), (C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powersand involving notice and hearing required by law is administratively final."
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–324 added subsec. (e).
 

@@ -6,7 +6,7 @@ A small business investment company shall be an incorporated body, a limited lia
 
 #### (b) Articles of incorporation; approval
 
-The articles of any small business investment company shall specify in general terms the objects for which the company is formed, the name assumed by such company, the area or areas in which its operations are to be carried on, the place where its principal office is to be located, and the amount and classes of its shares of capital stock. Such articles may contain any other provisions not inconsistent with this chapter that the company may see fit to adopt for the regulation of its business and the conduct of its affairs. Such articles and any amendmentsthereto adopted from time to time shall be subject to the approval of the Administration.
+The articles of any small business investment company shall specify in general terms the objects for which the company is formed, the name assumed by such company, the area or areas in which its operations are to be carried on, the place where its principal office is to be located, and the amount and classes of its shares of capital stock. Such articles may contain any other provisions not inconsistent with this chapter that the company may see fit to adopt for the regulation of its business and the conduct of its affairs. Such articles and any amendments thereto adopted from time to time shall be subject to the approval of the Administration.
 
 #### (c) Issuance of license
 
@@ -162,7 +162,7 @@ Pub. L. 102–366, title IV, §408(d), Sept. 4, 1992, 106 Stat. 1017, directed S
 
 #### Reports to Congress
 
-Pub. L. 102–366, title IV, §408(e), Sept. 4, 1992, 106 Stat. 1017, directed Administration, within 180 days afterSept. 4, 1992, to report on actions taken pursuant to section 408(d) of Pub. L. 102–366, formerly set out above, to the Committees on Small Business of the Senate and the House of Representatives, including the rationale for its actions.
+Pub. L. 102–366, title IV, §408(e), Sept. 4, 1992, 106 Stat. 1017, directed Administration, within 180 days after Sept. 4, 1992, to report on actions taken pursuant to section 408(d) of Pub. L. 102–366, formerly set out above, to the Committees on Small Business of the Senate and the House of Representatives, including the rationale for its actions.
 
 Pub. L. 102–366, title IV, §417(b), Sept. 4, 1992, 106 Stat. 1019, provided that not later than 4 years after Sept. 4, 1992, the Comptroller General was to transmit to Congress a report that reviewed the Small Business Investment Company program established under the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.) for the 3-year period following Sept. 4, 1992, with respect to each item listed in section 687(g)(3) of this title.
 

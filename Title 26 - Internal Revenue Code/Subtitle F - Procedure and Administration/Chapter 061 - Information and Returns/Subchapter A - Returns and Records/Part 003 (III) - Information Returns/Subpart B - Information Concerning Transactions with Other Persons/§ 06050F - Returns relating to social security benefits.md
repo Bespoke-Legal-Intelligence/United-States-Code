@@ -90,5 +90,5 @@ Section applicable to benefits received after Dec. 31, 1983, in taxable years en
 
 #### Repeal of Supplemental Medicare Premium and Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 
-Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980, provided that: "Sections 111 and 112 of MCCA \[Pub. L. 100–360, which enacted section 59B of this title and section 1395i–1a of Title 42, The Public Health and Welfare, amended this section, and enacted provisions set out as notes under section 59B of this title and section 1395i–1a of Title 42\] are repealed and the provisions of law amended by such sections are restored or revived as if such sections had not been enacted."
+Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980, provided that: "Sections 111 and 112 of MCCA\[Pub. L. 100–360, which enacted section 59B of this title and section 1395i–1a of Title 42, The Public Health and Welfare, amended this section, and enacted provisions set out as notes under section 59B of this title and section 1395i–1a of Title 42\] are repealed and the provisions of law amended by such sections are restored or revived as if such sections had not been enacted."
 

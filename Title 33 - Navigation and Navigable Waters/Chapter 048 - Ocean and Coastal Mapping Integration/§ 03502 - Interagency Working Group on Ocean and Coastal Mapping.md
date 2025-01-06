@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator of the National Oceanic and Atmospheric Administration, not later than 30 days after the date of the enactment of the National Ocean Exploration Act,<sup>1</sup> shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement section 3501 of this title.
+The Administrator of the National Oceanic and Atmospheric Administration, not later than 30 days after the date of the enactment of theNational Ocean Exploration Act,<sup>1</sup> shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement section 3501 of this title.
 
 #### (b) Membership
 

@@ -14,7 +14,7 @@
 
 &emsp;(3) who lost or lose their lives after March 28, 1973, as a result of—
 
-&emsp;&emsp;(A) an international terrorist attack against the United States or a foreign nation friendly to the United States, recognized as such an attack by the Secretary of Defense; or
+&emsp;&emsp;(A) an international terrorist attack against the United States or a foreign nation friendly to the United States, recognized assuch an attack by the Secretary of Defense; or
 
 &emsp;&emsp;(B) military operations while serving outside the United States (including the commonwealths, territories, and possessions of the United States) as part of a peacekeeping force.
 

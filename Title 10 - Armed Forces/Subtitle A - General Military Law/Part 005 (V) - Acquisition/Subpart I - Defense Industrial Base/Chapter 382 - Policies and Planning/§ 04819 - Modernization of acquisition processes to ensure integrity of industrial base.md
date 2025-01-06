@@ -186,7 +186,7 @@ Subsec. (b)(2)(A). Pub. L. 116–283, §843(a)(1)(A)(i), inserted "such as those
 
 Subsec. (b)(2)(A)(ii). Pub. L. 116–283, §843(a)(1)(A)(ii), struck out "(other than optical transmission components)" after "equipment".
 
-Subsec. (b)(2)(C)(xi). Pub. L. 117–81, §1701(d)(16)(A), which directed the substitution of "section 3252" for "section 2339a", could not be executed as directed because "section 2339a" did not appear in subsec. (b)(2)(C)(xi) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, §841(3), and could not be executed in subsec. (c)(2)(C)(xi) as redesignated to reflect the probable intent of Congress, because of the intervening amendment by Pub. L. 116–283, §1883(b)(2), which had already made that substitution. See notes below.
+Subsec. (b)(2)(C)(xi). Pub. L. 117–81, §1701(d)(16)(A), which directed the substitution of "section 3252" for"section 2339a", could not be executed as directed because "section 2339a" did not appear in subsec. (b)(2)(C)(xi) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, §841(3), and could not be executed in subsec. (c)(2)(C)(xi) as redesignated to reflect the probable intent of Congress, because of the intervening amendment by Pub. L. 116–283, §1883(b)(2), which had already made that substitution. See notes below.
 
 Pub. L. 116–283, §843(a)(1)(B), added cl. (xi). Former cl. (xi) redesignated (xii).
 
@@ -350,7 +350,7 @@ Commercial products and services.—The requirements under subsections (b)(2)(A)
 
 &emsp;"(2)
 
-Research and development and procurement activities.—The Secretary of Defense shall ensure that the requirements of this section are applied to research and development and procurement activities, including for the delivery of services, established through any means including those under section 2358(b) of title 10, United States Code \[now 10 U.S.C. 4001(b)\].
+Research and development and procurement activities.—The Secretary of Defense shall ensurethat the requirements of this section are applied to research and development and procurement activities, including for the delivery of services, established through any means including those under section 2358(b) of title 10, United States Code \[now 10 U.S.C. 4001(b)\].
 
 "(d)
 

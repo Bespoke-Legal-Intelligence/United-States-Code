@@ -10,7 +10,7 @@ United states.—The term "United States" includes all territory and waters, con
 
 Territorial waters.—The term "territorial waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 
-(June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231; Pub. L. 96–70, title III, §3302(b), Sept. 27, 1979, 93 Stat. 498; Pub. L. 107–295, title I, §104(a), Nov. 25, 2002, 116 Stat. 2085.)
+(June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231; Pub. L. 96–70, title III, §3302(b), Sept. 27, 1979, 93Stat. 498; Pub. L. 107–295, title I, §104(a), Nov. 25, 2002, 116 Stat. 2085.)
 
 #### <b>Editorial Notes</b>
 

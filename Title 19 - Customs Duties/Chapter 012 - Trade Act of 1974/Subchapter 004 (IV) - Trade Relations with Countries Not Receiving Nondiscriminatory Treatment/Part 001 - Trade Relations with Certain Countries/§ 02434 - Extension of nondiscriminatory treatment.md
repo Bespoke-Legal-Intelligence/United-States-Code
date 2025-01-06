@@ -200,7 +200,7 @@ Reporting and discharge.—If a committee of the House to which a joint resoluti
 
 &emsp;&emsp;"(B)
 
-Proceeding to consideration.—Beginning on the third legislative day after each committee to which a joint resolution of disapproval has been referred reports it to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on a joint resolution with regard to the same certification. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+Proceeding to consideration.—Beginning on the third legislative day after each committee to which a joint resolution of disapproval has been referred reports it to the House or has been discharged from further consideration thereof, it shallbe in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on a joint resolution with regard to the same certification. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
 &emsp;&emsp;"(C)
 
@@ -424,7 +424,7 @@ Pub. L. 112–208, title III, Dec. 14, 2012, 126 Stat. 1501, provided that:
 
 "(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;"(1) determine that such title should no longer apply to Moldova; and
 
@@ -600,7 +600,7 @@ Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notw
 
 &emsp;"(1) determine that such chapter should no longer apply to the People's Republic of China; and
 
-&emsp;"(2) after making a determination under paragraph (1) with respect to the People's Republic of China,proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+&emsp;"(2) after making a determination under paragraph (1) with respect to the People's Republic of China, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
 "(b)
 
@@ -858,7 +858,7 @@ Pub. L. 102–182, title I, Dec. 4, 1991, 105 Stat. 1235, provided that:
 
 &emsp;"(5) In 1951, responsible representatives of Estonia, Latvia, and Lithuania stated that they did not object to the imposition of 'such controls as the Government of the United States may consider to be appropriate' to the products of those countries, for such time as those countries remained under Soviet domination or control.
 
-&emsp;"(6) In 1990, the democratically elected governments of Estonia, Latvia, and Lithuania declared the restoration of their independence from the Union of Soviet Socialist Republics.
+&emsp;"(6) In 1990, the democratically elected governments of Estonia, Latvia, and Lithuania declared therestoration of their independence from the Union of Soviet Socialist Republics.
 
 &emsp;"(7) The Government of the United States established diplomatic relations with Estonia, Latvia, and Lithuania on September 2, 1991, and on September 6, 1991, the State Council of the transitional government of the Union of Soviet Socialist Republics recognized the independence of Estonia, Latvia, and Lithuania, thereby ending the involuntary incorporation of those countries into, and the domination of those countries by, the Soviet Union.
 
@@ -902,7 +902,7 @@ Congressional Findings.—The Congress finds that Bulgaria—
 
 &emsp;"(2) has reversed many years of Communist dictatorship and instituted a constitutional republic ruled by a democratically elected government as well as basic market-oriented reforms, including privatization;
 
-&emsp;"(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and theWorld Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
+&emsp;"(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and the World Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
 
 &emsp;"(4) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 

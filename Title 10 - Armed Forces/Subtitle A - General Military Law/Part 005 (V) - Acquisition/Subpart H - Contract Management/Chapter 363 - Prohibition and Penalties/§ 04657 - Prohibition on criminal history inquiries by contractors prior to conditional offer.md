@@ -110,7 +110,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 
-Pub. L. 116–92, div. A, title XI, §1123(b)(2), Dec. 20, 2019, 133 Stat. 1614, as amended by Pub. L. 116–283, div. A, title XVIII, §1862(c)(3)(A), Jan. 1, 2021, 134 Stat. 4278, provided that: "Section 4657(a) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle \[2 years after Dec. 20, 2019, see Effective Date note set out under section 9202 of Title 5, Government Organization and Employees\]."
+Pub. L. 116–92, div. A, title XI, §1123(b)(2), Dec. 20, 2019, 133 Stat. 1614, as amended by Pub. L. 116–283, div.A, title XVIII, §1862(c)(3)(A), Jan. 1, 2021, 134 Stat. 4278, provided that: "Section 4657(a) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle \[2 years after Dec. 20, 2019, see Effective Date note set out under section 9202 of Title 5, Government Organization and Employees\]."
 
 #### Revisions to Federal Acquisition Regulation
 

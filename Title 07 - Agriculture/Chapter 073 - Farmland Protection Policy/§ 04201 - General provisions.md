@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) unique farmland is land other than prime farmland that is used for production of specific high-value food and fiber crops, as determined by the Secretary. It has the special combination of soil quality, location, growing season, and moisture supply needed to economically produce sustained high quality or high yields of specific crops when treated and managed according to acceptable farming methods. Examples of such crops include citrus, tree nuts, olives, cranberries, fruits, and vegetables; and
 
-&emsp;&emsp;(C) farmland, other than prime or unique farmland, that is of statewide or local importance for the production of food, feed, fiber, forage, or oilseed crops, as determined by the appropriate State or unit of localgovernment agency or agencies, and that the Secretary determines should be considered as farmland for the purposes of this chapter;
+&emsp;&emsp;(C) farmland, other than prime or unique farmland, that is of statewide or local importance for the production of food, feed, fiber, forage, or oilseed crops, as determined by the appropriate State or unit of local government agency or agencies, and that the Secretary determines should be considered as farmland for the purposes of this chapter;
 
 &emsp;(2) the term "State" means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;
 
@@ -168,7 +168,7 @@ Entitlements.—The Secretary is entitled to receive funds, and shall receive fu
 
 "(f)
 
-Regulations.—Except regarding the eligible State described in section 1465(c)(3)(A), the Secretary shall promulgate proposed and final regulations, under the prior public comment provisions of section 553 of title 5, United States Code, setting forth—
+Regulations.—Except regarding the eligible State described in section 1465(c)(3)(A), the Secretary shall promulgate proposed and final regulations, underthe prior public comment provisions of section 553 of title 5, United States Code, setting forth—
 
 &emsp;"(1) the application procedures for eligible States;
 
@@ -264,7 +264,7 @@ Applications.—In applying for assistance under this chapter an eligible State 
 
 &emsp;"(1) prepare and submit, to the Secretary, an application at such time, in such manner, and containing such information as the Secretary shall require;
 
-&emsp;"(2) agree that the State trust fund will use any funds provided, or guaranteed, by the Secretary under this chapter in a manner that is consistent with the chapter and the regulations promulgated by the Secretary; and
+&emsp;"(2) agree that the State trust fund will use any funds provided, or guaranteed, by the Secretaryunder this chapter in a manner that is consistent with the chapter and the regulations promulgated by the Secretary; and
 
 &emsp;"(3) agree to comply with any other requirements set forth in agreements with the Secretary or as the Secretary may prescribe by regulation.
 
@@ -318,7 +318,7 @@ Regulations.—Not later than December 31, 1991, the Secretary of Agriculture sh
 
 #### "SEC. 1470A. COMPTROLLER GENERAL REPORTS.
 
-"On February 15 of 1992, and on December 1 of each of the years 1992 through 1996, the Comptroller Generalof the United States shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on whether the Secretary of Agriculture is complying with the requirements of this chapter. The report shall include information concerning loans guaranteed under this chapter and the steps the Secretary of Agriculture has taken to comply with this chapter.
+"On February 15 of 1992, and on December 1 of each of the years 1992 through 1996, the Comptroller General of the United States shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on whether the Secretary of Agriculture is complying with the requirements of this chapter. The report shall include information concerning loans guaranteed under this chapter and the steps the Secretary of Agriculture has taken to comply with this chapter.
 
 #### "SEC. 1470B. SPECIAL RULES FOR ISSUANCE OF STOCK FOR 1992.
 

@@ -1,6 +1,6 @@
 ### §760–1. Kentucky fish hatchery; authorization of appropriations
 
-There is hereby authorized to be appropriated from time to time, out of any moneys in theTreasury not otherwise appropriated, such sums as may be necessary to carry out the purposes of section 760 of this title.
+There is hereby authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the purposes of section 760 of this title.
 
 (July 18, 1950, ch. 465, §2, 64 Stat. 343.)
 

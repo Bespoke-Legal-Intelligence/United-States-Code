@@ -12,7 +12,7 @@ A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, whic
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to a multiyear utilization proposal regarding value and amount of commodities proposed to be distributed, integration with other forms of development assistance, and non-replacement of other programs.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to amultiyear utilization proposal regarding value and amount of commodities proposed to be distributed, integration with other forms of development assistance, and non-replacement of other programs.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–53 struck out "for each year such funds are to be disbursed" after "on an annual basis".
 
@@ -24,7 +24,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

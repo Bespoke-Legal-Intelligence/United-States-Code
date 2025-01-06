@@ -8,5 +8,5 @@ Notwithstanding the provisions of section 1681b of this title, a consumer report
 
 #### Effective Date
 
-Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 

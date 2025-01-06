@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the interest on the amount described in clause (i) calculated at the prevailing rate; and
 
-&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
+&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amountdescribed in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
 
 &emsp;&emsp;(B) for such equitable relief as may be appropriate, including employment, reinstatement, and promotion.
 
@@ -54,7 +54,7 @@
 
 #### (3) Sums recovered
 
-&emsp;Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a specialdeposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
+&emsp;Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a special deposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Limitation
 

@@ -12,7 +12,7 @@ Location of Program.—The program shall be carried out in at least 12 locations
 
 Scope of Program.—(1) To the extent practicable, the program shall provide both referral and counseling services, and in the case of counseling services, shall include counseling with respect to job training and placement (including job readiness), housing, health care, and other benefits to assist the eligible veteran in the transition from institutional living.
 
-(2)(A) To the extent that referral or counseling services are provided at a location under the program, referral services shall be provided in person during such period of time that the Secretaries may specify that precedes the date of release or discharge of the eligible veteran, and counseling services shall be furnished after such date.
+(2)(A) To the extent that referral or counseling services are provided at a location under theprogram, referral services shall be provided in person during such period of time that the Secretaries may specify that precedes the date of release or discharge of the eligible veteran, and counseling services shall be furnished after such date.
 
 (B) The Secretaries may, as part of the program, furnish to officials of penal institutions outreach information with respect to referral and counseling services for presentation to veterans in the custody of such officials during the 18-month period that precedes such date of release or discharge.
 

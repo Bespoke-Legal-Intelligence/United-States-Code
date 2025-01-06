@@ -8,7 +8,7 @@ On and after August 11, 1978, it shall be the policy of the United States to pro
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–344, §1, Oct. 6, 1994, 108 Stat. 3125, provided that: "This Act \[enacting section 1996a of this title\]may be cited as the 'American Indian Religious Freedom Act Amendments of 1994'."
+Pub. L. 103–344, §1, Oct. 6, 1994, 108 Stat. 3125, provided that: "This Act \[enacting section 1996a of this title\] may be cited as the 'American Indian Religious Freedom Act Amendments of 1994'."
 
 #### Short Title
 
@@ -40,7 +40,7 @@ Sec. 2. <i>Procedures</i>. (a) Each executive branch agency with statutory or ad
 
 (b) Within 1 year of the effective date of this order, the head of each executive branch agency with statutory or administrative responsibility for the management of Federal lands shall report to the President, through the Assistant to the President for Domestic Policy, on the implementation of this order. Such reports shall address, among other things, (i) any changes necessary to accommodate access to and ceremonial use of Indian sacred sites; (ii) any changes necessary to avoid adversely affecting the physical integrity of Indian sacred sites; and (iii) procedures implemented or proposed to facilitate consultation with appropriate Indian tribes and religious leaders and the expeditious resolution of disputes relating to agency action on Federal lands that may adversely affect access to, ceremonial use of, or the physical integrity of sacred sites.
 
-Sec. 3. Nothing in this order shall be construed to require a taking of vested property interests. Nor shall this order be construed to impair enforceable rights to use of Federal lands that have been granted to third parties through final agency action. For purposes of this order, "agency action" has the same meaning as in the Administrative Procedure Act (5 U.S.C. 551(13)).
+Sec. 3. Nothing in this order shall be construed to require a taking of vested property interests. Nor shallthis order be construed to impair enforceable rights to use of Federal lands that have been granted to third parties through final agency action. For purposes of this order, "agency action" has the same meaning as in the Administrative Procedure Act (5 U.S.C. 551(13)).
 
 Sec. 4. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by any party against the United States, its agencies, officers, or any person.
 

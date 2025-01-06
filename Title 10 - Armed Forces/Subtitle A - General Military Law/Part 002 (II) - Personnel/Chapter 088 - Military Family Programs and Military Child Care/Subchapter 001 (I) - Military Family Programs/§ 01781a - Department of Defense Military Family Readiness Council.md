@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 118–31, §2821(a), amended subsec. (e) generally. Prior t
 
 <b>2018</b>—Subsec. (b)(1)(B)(i). Pub. L. 115–232, §571(a)(1)(A), substituted "a member or civilian employee of the armed force to be represented" for "a member of the armed force to be represented".
 
-Subsec. (b)(1)(B)(ii). Pub. L. 115–232, §571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which readas follows: "One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard."
+Subsec. (b)(1)(B)(ii). Pub. L. 115–232, §571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard."
 
 Subsec. (b)(2)(A). Pub. L. 115–232, §571(a)(2)(A), struck out "clauses (i) and (iii) of" before "subparagraph (B)" and "Representation on the Council under clause (ii) of that subparagraph shall rotate between the Army National Guard and Air National Guard every two years on a calendar year basis." after "Secretary of Defense."
 
@@ -128,7 +128,7 @@ Subsec. (b)(1)(D). Pub. L. 111–383, §581(d)(1)(C), struck out "by the Secreta
 
 Subsec. (b)(1)(E). Pub. L. 111–383, §581(a)(1)(B), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(1)(F). Pub. L. 111–383, §581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force."
+Subsec. (b)(1)(F). Pub. L. 111–383, §581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F)read as follows: "In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force."
 
 Pub. L. 111–383, §581(a)(1)(A), redesignated subpar. (E) as (F).
 

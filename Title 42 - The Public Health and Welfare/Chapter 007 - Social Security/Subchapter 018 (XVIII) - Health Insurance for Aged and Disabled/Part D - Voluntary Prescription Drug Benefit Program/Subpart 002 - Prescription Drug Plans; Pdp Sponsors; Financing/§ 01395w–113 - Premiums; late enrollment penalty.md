@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average ofthe standardized bid amounts (as defined in paragraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
+&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average of the standardized bid amounts (as defined in paragraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
 
 #### (B) Weighted average
 
@@ -338,7 +338,7 @@
 
 #### (A) Portion attributable to increased actuarial costs
 
-&emsp;&emsp;With respect to late enrollment penalties imposed under subsection (b), the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title) as a result of such late enrollment.
+&emsp;&emsp;With respect to late enrollment penalties imposed under subsection (b), the Secretaryshall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title) as a result of such late enrollment.
 
 #### (B) Collection through withholding
 

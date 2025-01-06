@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 106–553, §1(a)(2) \[title VI, §628(b)\], added subsec. 
 
 &emsp;"(2) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated in fiscal year 2000, $50,000,000 to the States of California, Oregon, Washington, and Alaska. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
 
-&emsp;"(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementationof the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
+&emsp;"(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
 
 > Funds appropriated to the States under the authority of this section shall be subject to a 25 percent non-Federal match requirement. In addition, not more than 3 percent of such funds shall be available for administrative expenses, with the exception of funds used in the Washington State for the Forest and Fish Agreement."
 

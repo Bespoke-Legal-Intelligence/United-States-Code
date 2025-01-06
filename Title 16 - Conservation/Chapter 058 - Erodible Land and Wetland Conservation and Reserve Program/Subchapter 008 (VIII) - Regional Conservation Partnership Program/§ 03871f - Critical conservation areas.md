@@ -46,7 +46,7 @@ In administering funds under section 3871d(d)(2) of this title, the Secretary sh
 
 &emsp;&emsp;(C) contains 1 or more priority resource concerns; or
 
-&emsp;&emsp;(D) contains producers that need assistance in meeting or avoiding the need for a natural resource regulatory requirement that could have a negative impact on the economic scope of the agricultural operations within the area.
+&emsp;&emsp;(D) contains producers that need assistance in meeting or avoiding the need for a natural resource regulatory requirementthat could have a negative impact on the economic scope of the agricultural operations within the area.
 
 #### (3) Review and withdrawal
 

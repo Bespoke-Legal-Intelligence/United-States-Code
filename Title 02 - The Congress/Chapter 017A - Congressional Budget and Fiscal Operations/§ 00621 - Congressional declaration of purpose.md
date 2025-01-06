@@ -92,7 +92,7 @@ Confidentiality of Relevant Information.—
 
 &emsp;&emsp;&emsp;"(ii) pursuant to the exception set forth in such section 1906.
 
-&emsp;"(4) The Congressional Budget Office shall be exempt from section 203 of the Congressional Budget Act of 1974 \[2 U.S.C. 603\] with respect to any book, record, or information made available under this subsection and determined by the Director to be confidential under paragraph (1).
+&emsp;"(4) The Congressional Budget Office shall be exempt from section 203 of the Congressional Budget Act of 1974 \[2 U.S.C. 603\] with respect to any book,record, or information made available under this subsection and determined by the Director to be confidential under paragraph (1).
 
 "(f)
 

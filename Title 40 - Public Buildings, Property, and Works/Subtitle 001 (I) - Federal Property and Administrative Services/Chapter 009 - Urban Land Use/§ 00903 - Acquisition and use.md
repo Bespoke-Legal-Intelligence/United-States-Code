@@ -6,7 +6,7 @@ Notice to Local Government.—To the extent practicable, before making a commitm
 
 (b)
 
-Objections to Acquisition or Change of Use.—In the acquisition or change of use of real property situated in an urban area as a site forpublic building, if the unit of general local government exercising zoning and land use jurisdiction objects on grounds that the proposed acquisition or change of use conflicts with zoning regulations or planning objectives, the Administrator shall, to the extent the Administrator determines is practicable, consider all the objections and comply with the zoning regulations and planning objectives.
+Objections to Acquisition or Change of Use.—In the acquisition or change of use of real property situated in an urban area as a site for public building, if the unit of general local government exercising zoning and land use jurisdiction objects on grounds that the proposed acquisition or change of use conflicts with zoning regulations or planning objectives, the Administrator shall, to the extent the Administrator determines is practicable, consider all the objections and comply with the zoning regulations and planning objectives.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1128.)
 

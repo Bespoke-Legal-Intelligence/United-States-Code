@@ -52,7 +52,7 @@ References.—Any reference before the date of enactment of this Act \[Dec. 27, 
 
 "(c)
 
-New References in Peace Corps Documents.—The Director of the Peace Corps shall ensure that any reference in any public document, record, or otherpaper of the Peace Corps, including any promotional material, produced on or after the date of enactment of this subsection \[July 26, 2001\], to the program described in subsection (a) be a reference to the 'Paul D. Coverdell World Wise Schools Program'."
+New References in Peace Corps Documents.—The Director of the Peace Corps shall ensure that any reference in any public document, record, or other paper of the Peace Corps, including any promotional material, produced on or after the date of enactment of this subsection \[July 26, 2001\], to the program described in subsection (a) be a reference to the 'Paul D. Coverdell World Wise Schools Program'."
 
 #### Paul D. Coverdell Fellows Program
 

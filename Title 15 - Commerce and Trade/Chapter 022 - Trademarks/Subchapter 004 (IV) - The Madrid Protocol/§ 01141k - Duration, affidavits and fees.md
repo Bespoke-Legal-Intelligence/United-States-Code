@@ -2,7 +2,7 @@
 
 #### (a) Time periods for required affidavits
 
-Each extension of protection for which a certificate has been issued under section 1141i of this title shall remain in force for the term of the international registration upon which it is based, except that the extension of protection of any mark shall be canceled by the Director unless the holder of the international registrationfiles in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
+Each extension of protection for which a certificate has been issued under section 1141i of this title shall remain in force for the term of the international registration upon which it is based, except that the extension of protection of any mark shall be canceled by the Director unless the holder of the international registration files in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
 
 &emsp;(1) Within the 1-year period immediately preceding the expiration of 6 years following the date of issuance of the certificate of extension of protection.
 
@@ -42,7 +42,7 @@ The Director shall notify the holder of the international registration who files
 
 #### (f) Designation of resident for service of process and notices
 
-If the holder of the international registration of the mark is not domiciled in the United States, the holder may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+If the holder of the international registration of the mark is not domiciled in the UnitedStates, the holder may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 (July 5, 1946, ch. 540, title XII, §71, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1919; amended Pub. L. 111–146, §3(d)(2), Mar. 17, 2010, 124 Stat. 68.)
 

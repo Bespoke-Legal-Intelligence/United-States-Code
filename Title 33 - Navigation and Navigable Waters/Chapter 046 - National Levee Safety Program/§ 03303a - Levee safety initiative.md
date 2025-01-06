@@ -182,7 +182,7 @@ The Secretary shall appoint—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2028.
+&emsp;&emsp;&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2030.
 
 #### (ii) Allocation
 
@@ -208,7 +208,7 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation and levee rehabilitation activities that result in an overall reduction in flood risk.
+&emsp;The Secretary shall provide assistance to States, regional districts, Indian tribes, andlocal governments relating to addressing flood mitigation and levee rehabilitation activities that result in an overall reduction in flood risk.
 
 #### (2) Requirements
 
@@ -318,7 +318,7 @@ Nothing in this section—
 
 &emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
-(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, §8387(b), (c), Dec. 23, 2022, 136 Stat. 3830, 3831.)
+(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, §8387(b), (c), Dec. 23, 2022, 136 Stat. 3830, 3831; Pub. L. 118–272, div. A, title III, §1303(d), Jan. 4, 2025, 138 Stat. 3114.)
 
 #### <b>Editorial Notes</b>
 
@@ -337,6 +337,8 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is t
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to section 3304 of this title.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (g)(2)(E)(i). Pub. L. 118–272 substituted "2030" for "2028".
 
 <b>2022</b>—Subsec. (g)(2)(E)(i). Pub. L. 117–263, §8387(b), substituted "2028" for "2023".
 
@@ -390,7 +392,7 @@ Subsec. (g)(2)(E)(iii). Pub. L. 114–322, §1130(c)(3)(C)(v)(III), substituted 
 
 Subsec. (h)(1). Pub. L. 114–322, §1130(c)(4)(A), substituted "States, regional districts, Indian tribes, and local governments" for "States, Indian tribes, and local governments".
 
-Subsec. (h)(2). Pub. L. 114–322, §1130(c)(4)(B)(i), substituted "State, regional district, Indian tribe, or local government" for "State, Indian tribe, or local government" in introductory provisions.
+Subsec. (h)(2). Pub. L. 114–322, §1130(c)(4)(B)(i), substituted "State, regional district, Indian tribe, or localgovernment" for "State, Indian tribe, or local government" in introductory provisions.
 
 Subsec. (h)(2)(E). Pub. L. 114–322, §1130(c)(4)(B)(ii), substituted "State, regional, or tribal" for "State or tribal" in introductory provisions.
 
@@ -404,7 +406,7 @@ Subsec. (h)(4)(A)(i). Pub. L. 114–322, §1130(c)(4)(D), substituted "State, re
 
 #### Rehabilitation of Existing Levees
 
-Pub. L. 113–121, title III, §3017, June 10, 2014, 128 Stat. 1300, as amended by Pub. L. 117–263, div. H, title LXXXI, §8382(a), Dec. 23, 2022, 136 Stat. 3828, provided that:
+Pub. L. 113–121, title III, §3017, June 10, 2014, 128 Stat. 1300, as amended by Pub. L. 117–263, div. H, title LXXXI, §8382(a), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, §1303(i), Jan. 4, 2025, 138 Stat. 3115, provided that:
 
 "(a)
 
@@ -440,7 +442,7 @@ Report to Congress.—Not later than 5 years after the date of enactment of this
 
 "(e)
 
-Termination of Authority.—The authority of the Secretary under this section terminates on December 31, 2028."
+Termination of Authority.—The authority of the Secretary under this section terminates on December 31, 2033."
 
 #### "Secretary" Defined
 

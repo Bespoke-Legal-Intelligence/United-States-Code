@@ -12,7 +12,7 @@ Composition.—The Space Force consists of—
 
 &emsp;(2) all persons appointed or enlisted in, or conscripted into, the Space Force, including those not assigned to units, necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency; and
 
-&emsp;(3) all Space Force units and other Space Force organizations, including installationsand supporting and auxiliary combat, training, administrative, and logistic elements.
+&emsp;(3) all Space Force units and other Space Force organizations, including installations and supporting and auxiliary combat, training, administrative, and logistic elements.
 
 (c)
 
@@ -90,6 +90,30 @@ Pub. L. 116–92, div. A, title IX, §952(a), Dec. 20, 2019, 133 Stat. 1561, pro
 
 Pub. L. 118–31, div. A, title XVII, §1712(b), Dec. 22, 2023, 137 Stat. 625, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the certification by the Secretary of the Air Force under section 1745 \[probably means section "1735" of Pub. L. 118–31, set out in a Transition Provisions note under section 20001 of this title\]."
 
+#### Pilot Program To Demonstrate Hybrid Satellite Communication Architecture
+
+Pub. L. 118–159, div. A, title XVI, §1608, Dec. 23, 2024, 138 Stat. 2163, provided that:
+
+"(a)
+
+Program Required.—Beginning in fiscal year 2025, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall carry out a pilot program to demonstrate a hybrid satellite communication architecture at the Space Systems Command of the Space Force.
+
+"(b)
+
+Requirements and Considerations.—In carrying out the pilot program under subsection (a), the Assistant Secretary shall include in the hybrid satellite communication architecture at least one military satellite communications system, such as the Wideband Global Satcom system or the Micro Geostationary Earth Orbit system.
+
+"(c)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Assistant Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing that includes—
+
+&emsp;"(1) a description of the hybrid satellite communication architecture developed under the pilot program under subsection (a) and a summary of the results of the program as of the date of the briefing; and
+
+&emsp;"(2) a plan for supporting the transition of the hybrid satellite communication architecture efforts to a program of record within the Space Force and the Space Systems Command.
+
+"(d)
+
+Hybrid Satellite Communication Architecture.—In this section, the term 'hybrid satellite communication architecture' means the network of integrated United States Government, allied Government, and commercially owned and operated capabilities both for on-orbit communication constellations and ground systems."
+
 #### Authorization for Establishment of the National Space Intelligence Center as a Field Operating Agency
 
 Pub. L. 118–31, div. A, title XVI, §1606, Dec. 22, 2023, 137 Stat. 586, provided that:
@@ -140,7 +164,7 @@ Termination.—The authority provided by this section shall expire on December 3
 
 #### Space System Acquisition and the Adaptive Acquisition Framework
 
-Pub. L. 116–283, div. A, title VIII, §807, Jan. 1, 2021, 134 Stat. 3742, provided that:
+Pub. L. 116–283, div. A, title VIII, §807, Jan. 1, 2021, 134 Stat. 3742, as amended by Pub. L. 118–159, div. A, title VIII, §§804(c)(7), 805(c)(2), Dec. 23, 2024, 138 Stat. 1969, 1972, provided that:
 
 "(a)
 
@@ -210,7 +234,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Covered software program.—The term 'covered software program' means an acquisition program or project that is carried out using the software acquisition pathway established under section 800 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1478; 10 U.S.C. 2223a note).
+Covered software program.—The term 'covered software program' means an acquisition program or project that is carried out using the software acquisition pathway established under section 3603 of title 10, United States Code.
 
 &emsp;"(2)
 
@@ -222,7 +246,7 @@ Major system.—The term 'major system' has the meaning given in section 2302 of
 
 &emsp;"(4)
 
-Middle tier acquisition program.—The term 'middle tier acquisition program' means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note).
+Middle tier acquisition program.—The term 'middle tier acquisition program' means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 3602 of title 10, United States Code.
 
 &emsp;"(5)
 
@@ -242,7 +266,7 @@ In general.—Effective as of the date of the enactment of this Act \[Dec. 20, 2
 
 "(2)
 
-No authorization of additional military billets.—The Secretary shall carry out this subsection within military personnel of the Air Force otherwiseauthorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force."
+No authorization of additional military billets.—The Secretary shall carry out this subsection within military personnel of the Air Force otherwise authorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force."
 
 #### Clarification of Authorities
 
@@ -290,7 +314,7 @@ Memorandum for the Vice President\[,\] the Secretary of State\[,\] the Secretary
 
 Section 1. <i>Introduction</i>. Space is integral to our way of life, our national security, and modern warfare. Although United States space systems have historically maintained a technological advantage over those of our potential adversaries, those potential adversaries are now advancing their space capabilities and actively developing ways to deny our use of space in a crisis or conflict. It is imperative that the United States adapt its national security organizations, policies, doctrine, and capabilities to deter aggression and protect our interests. Toward that end, the Department of Defense shall take actions under existing authority to marshal its space resources to deter and counter threats in space, and to develop a legislative proposal to establish a United States Space Force as a sixth branch of the United States Armed Forces within the Department of the Air Force. This is an important step toward a future military department for space. Under this proposal, the United States Space Force would be authorized to organize, train, and equip military space forces of the United States to ensure unfettered access to, and freedom to operate in, space, and to provide vital capabilities to joint and coalition forces in peacetime and across the spectrum of conflict.
 
-Sec. 2. <i>Definitions</i>. For the purposes of this memorandum and the legislative proposal directed by section 3 of this memorandum, the following definitions shall apply:
+Sec. 2. <i>Definitions</i>. For the purposes of this memorandum and the legislative proposal directed by section3 of this memorandum, the following definitions shall apply:
 
 (a) The term "United States Space Force" refers to a new branch of the United States Armed Forces to be initially placed by statute within the Department of the Air Force.
 
@@ -298,7 +322,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this memorandum and the legislat
 
 (c) The term "United States Space Command" refers to a Unified Combatant Command to be established pursuant to the Presidential memorandum of December 18, 2018 (Establishment of United States Space Command as a Unified Combatant Command) \[10 U.S.C. 161 note\], that will be responsible for Joint Force space operations as will be assigned in the Unified Command Plan.
 
-Sec. 3. <i>Legislative Proposal and Purpose</i>. The Secretary of Defense shall submit a legislative proposal to the President through the Office of Management and Budget that would establish the United States Space Forceas a new armed service within the Department of the Air Force.
+Sec. 3. <i>Legislative Proposal and Purpose</i>. The Secretary of Defense shall submit a legislative proposal to the President through the Office of Management and Budget that would establish the United States Space Force as a new armed service within the Department of the Air Force.
 
 The legislative proposal would, if enacted, establish the United States Space Force to organize, train, and equip forces to provide for freedom of operation in, from, and to the space domain; to provide independent military options for national leadership; and to enhance the lethality and effectiveness of the Joint Force. The United States Space Force should include both combat and combat support functions to enable prompt and sustained offensive and defensive space operations, and joint operations in all domains. The United States Space Force shall be organized, trained, and equipped to meet the following priorities:
 

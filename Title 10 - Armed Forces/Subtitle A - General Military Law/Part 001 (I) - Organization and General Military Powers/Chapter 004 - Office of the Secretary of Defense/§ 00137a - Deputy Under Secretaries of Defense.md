@@ -54,7 +54,7 @@ Pub. L. 115–91, §906(a), struck out "Principal" before "Deputy Under" in two 
 
 <b>2014</b>—Subsec. (a)(3). Pub. L. 113–291, §901(i)(1), added par. (3).
 
-Subsec. (b). Pub. L. 113–291, §901(k)(3), substituted "dies, resigns, or is otherwise unable to perform thefunctions and duties of the office" for "is absent or disabled".
+Subsec. (b). Pub. L. 113–291, §901(k)(3), substituted "dies, resigns, or is otherwise unable to perform the functions and duties of the office" for "is absent or disabled".
 
 Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), which directed substitution of "and the Under Secretaries of Defense." for "the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.", was repealed by Pub. L. 115–91, §1081(b)(1)(A).
 

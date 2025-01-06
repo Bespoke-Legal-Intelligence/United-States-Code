@@ -128,7 +128,7 @@
 
 #### (5) Improper use of assistance
 
-&emsp;If the Secretary determines, after a review or audit of the records of the domestic user,that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
+&emsp;If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
 
 &emsp;&emsp;(A) liable for the repayment of the assistance to the Secretary, plus interest, as determined by the Secretary; and
 

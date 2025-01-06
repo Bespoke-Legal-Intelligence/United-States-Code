@@ -32,7 +32,7 @@ Products refused admission into the customs territory of the United States shall
 
 #### (f) Payment of expenses occasioned by refusal of admission
 
-All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in this section (the amount of such expenses to be determined in accordance with regulations of the Secretary of the Treasury) and all expenses in connection with the storage, cartage, or labor with respect to any consumer product refused admission under this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
+All expenses (including travel, per diem or subsistence, and salaries of officers or employeesof the United States) in connection with the destruction provided for in this section (the amount of such expenses to be determined in accordance with regulations of the Secretary of the Treasury) and all expenses in connection with the storage, cartage, or labor with respect to any consumer product refused admission under this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
 
 #### (g) Inspection and recordkeeping requirement
 
@@ -58,7 +58,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–314, §216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;".
 
-Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: "Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consigneedoes not export the product within a reasonable time, the Department of the Treasury may destroy the product."
+Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: "Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product."
 
 Subsec. (g). Pub. L. 110–314, §223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: "The Commission may, by rule, condition the importation of a consumer product on the manufacturer's compliance with the inspection and recordkeeping requirements of this chapter and the Commission's rules with respect to such requirements."
 
@@ -236,7 +236,7 @@ Report to Congress.—Not later than 180 days after completion of the risk asses
 
 &emsp;&emsp;"(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission;
 
-&emsp;"(4) Whether the Commission requires additional statutory authority under the Consumer ProductSafety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
+&emsp;"(4) Whether the Commission requires additional statutory authority under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
 
 &emsp;"(5) The level of appropriations necessary to implement the risk assessment methodology required under this section."
 

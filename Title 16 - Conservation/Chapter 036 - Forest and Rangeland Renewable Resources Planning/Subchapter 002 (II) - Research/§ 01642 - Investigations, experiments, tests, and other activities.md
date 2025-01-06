@@ -32,7 +32,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(D) study the relationship between atmospheric pollution and other climatological, chemical, physical, and biological factors that may affect the health and productivity of domestic forest ecosystems;
 
-&emsp;(E) develop recommendations for solving or mitigating problems related to the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems;
+&emsp;(E) develop recommendations for solving or mitigating problems related to the effects ofatmospheric pollution on the health and productivity of domestic forest ecosystems;
 
 &emsp;(F) foster cooperation among Federal, State, and private researchers and encourage the exchange of scientific information on the effects of atmospheric pollutants on forest ecosystems among the United States, Canada, European nations, and other nations;
 
@@ -140,7 +140,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (4) National standards and definitions
 
-&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation withState foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
+&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
 
 #### (5) Protection for private property rights
 
@@ -163,6 +163,8 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 &emsp;&emsp;(F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
 
 (Pub. L. 95–307, §3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, §254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, §3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, §1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, §253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
+
+
 
 #### <b>Editorial Notes</b>
 

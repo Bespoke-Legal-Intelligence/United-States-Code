@@ -330,7 +330,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (8) Evaluation
 
-&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
+&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide informationwith respect to such counseling as the Secretary or the Comptroller General may require.
 
 #### (9) Definitions
 
@@ -594,7 +594,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (A) In general
 
-&emsp;&emsp;The Director of Housing Counseling shall develop, implement, and conduct national public service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources <sup>2</sup> and that such homeownership counseling is available, including through programs sponsored by the Secretary of Housing and Urban Development.
+&emsp;&emsp;The Director of Housing Counseling shall develop, implement, and conduct nationalpublic service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources <sup>2</sup> and that such homeownership counseling is available, including through programs sponsored by the Secretary of Housing and Urban Development.
 
 #### (B) Contact information
 
@@ -656,7 +656,7 @@ For purposes of this section:
 
 #### (3) Unit of general local government
 
-&emsp;The term "unit of general local government" means any city, county, parish, town,township, borough, village, or other general purpose political subdivision of a State.
+&emsp;The term "unit of general local government" means any city, county, parish, town, township, borough, village, or other general purpose political subdivision of a State.
 
 #### (4) HUD-approved counseling agency
 
@@ -792,7 +792,7 @@ In general.—Except as provided in subparagraph (C), if any eligible homeowner 
 
 Subsec. (c)(5)(D)(i). Pub. L. 102–550, §162(b)(6), inserted ", which shall be updated annually," after "organizations".
 
-Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "There is authorized to be appropriated to carry out this section $6,700,000 for fiscal year 1991 and $7,000,000 for fiscal year 1992, of whichamounts $2,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D)."
+Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "There is authorized to be appropriated to carry out this section $6,700,000 for fiscal year 1991 and $7,000,000 for fiscal year 1992, of which amounts $2,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D)."
 
 Subsec. (c)(9). Pub. L. 102–550, §162(b)(2), substituted "1994" for "1992".
 
@@ -882,7 +882,7 @@ Goals.—Financial education and counseling under this section shall have the go
 
 &emsp;"(1) increasing the financial knowledge and decision making capabilities of prospective homebuyers or economically vulnerable individuals and families;
 
-&emsp;"(2) assisting prospective homebuyers or economically vulnerable individuals and families to developmonthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
+&emsp;"(2) assisting prospective homebuyers or economically vulnerable individuals and families to develop monthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
 
 &emsp;"(3) helping prospective homebuyers or economically vulnerable individuals and families to improve their credit scores by understanding the relationship between their credit histories and their credit scores; and
 

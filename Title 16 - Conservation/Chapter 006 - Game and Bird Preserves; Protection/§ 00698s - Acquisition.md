@@ -12,7 +12,7 @@
 
 #### (3) State lands
 
-&emsp;Lands, waters, and interests in lands and waters within the boundaries of the Preserve that are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
+&emsp;Lands, waters, and interests in lands and waters within the boundaries of the Preservethat are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
 
 #### (b) Negotiations for acquisition
 

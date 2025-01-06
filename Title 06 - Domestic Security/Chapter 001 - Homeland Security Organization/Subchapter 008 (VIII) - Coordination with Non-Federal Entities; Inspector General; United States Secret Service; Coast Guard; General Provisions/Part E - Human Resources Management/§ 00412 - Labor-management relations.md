@@ -48,7 +48,7 @@ No other provision of this chapter or of any amendment made by this chapter may 
 
 #### (e) Rule of construction
 
-Nothing in section 9701(e) of title 5 shall be considered to apply with respect to any agency or subdivision of any agency, which is excludedfrom the coverage of chapter 71 of title 5 by virtue of an order issued in accordance with section 7103(b) of such title 5 and the preceding provisions of this section (as applicable), or to any employees of any such agency or subdivision or to any individual or entity representing any such employees or any representatives thereof.
+Nothing in section 9701(e) of title 5 shall be considered to apply with respect to any agency or subdivision of any agency, which is excluded from the coverage of chapter 71 of title 5 by virtue of an order issued in accordance with section 7103(b) of such title 5 and the preceding provisions of this section (as applicable), or to any employees of any such agency or subdivision or to any individual or entity representing any such employees or any representatives thereof.
 
 (Pub. L. 107–296, title VIII, §842, Nov. 25, 2002, 116 Stat. 2234.)
 

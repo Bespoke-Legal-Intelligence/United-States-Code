@@ -12,7 +12,7 @@ The President is authorized to carry out programs in furtherance of the purposes
 
 #### (c) Appropriations for increases in salary, pay, etc.
 
-In addition to the amount authorized to be appropriated by subsection (b) to carry out the purposes of this chapter, there are authorized to be appropriated for increases in salary, pay, retirement, or other employee benefits authorized by law, for each fiscal year, such sums as may be necessary.
+In addition to the amount authorized to be appropriated by subsection (b) to carry out thepurposes of this chapter, there are authorized to be appropriated for increases in salary, pay, retirement, or other employee benefits authorized by law, for each fiscal year, such sums as may be necessary.
 
 #### (d) Integration of women into national economics
 
@@ -24,7 +24,7 @@ In recognition of the fact that women in developing countries play a significant
 
 #### (h) Integration of disabled people
 
-In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor,the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
+In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor, the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
 
 (Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
 

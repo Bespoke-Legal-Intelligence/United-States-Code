@@ -82,7 +82,7 @@ Not later than 120 days after August 9, 2022, the Director shall enter into an a
 
 &emsp;&emsp;&emsp;(ii) a uniform selection process, including a comprehensive application that includes recommendations and other relevant professional information;
 
-&emsp;&emsp;(B) promote the National STEM Teacher Corps and elevate best practices that emerge from the National STEM Teacher Corps to a national audience;
+&emsp;&emsp;(B) promote the National STEM Teacher Corps and elevate best practices that emergefrom the National STEM Teacher Corps to a national audience;
 
 &emsp;&emsp;(C) evaluate the operation and effectiveness of the Corps alliances; and
 
@@ -162,7 +162,7 @@ Not later than 120 days after August 9, 2022, the Director shall enter into an a
 
 &emsp;The Director, acting through the Administrator, shall submit a report to Congress after the third year of the pilot program that includes—
 
-&emsp;&emsp;(A) an assessment, drawing on the evaluations the Administrator shall conduct under subparagraphs (C) and (D) of paragraph (4), and other sources of information, of the effectiveness of the pilot program in recruiting and retaining high-quality STEM teachers in the selected regions or topic areas, particularly in high-need and rural schools; and
+&emsp;&emsp;(A) an assessment, drawing on the evaluations the Administrator shall conduct under subparagraphs (C) and (D) of paragraph (4), and other sources of information, of the effectiveness of the pilot program in recruiting and retaining high-quality STEM teachers in the selected regions or topic areas,particularly in high-need and rural schools; and
 
 &emsp;&emsp;(B) if deemed effective, a proposal to Congress for permanent implementation of the pilot program.
 

@@ -14,7 +14,7 @@ Communication From Officers.—An officer eligible for consideration by a select
 
 (c)
 
-Notice of Intent of Certain Officers To Serve on or Off Active Duty.—An officer on the Space Force officer list in the grade of colonel or brigadier general who receives a notice under subsection (a) shall inform the Secretary of the officer's preference to serve either on or off sustained duty if promoted to the grade of brigadier general or major general, respectively.
+Notice of Intent of Certain Officers To Serve on or Off Active Duty.—An officer on the Space Force officer list in the grade of colonel or brigadier general who receives a notice under subsection (a) shall inform the Secretary of the officer's preference to serve either on oroff sustained duty if promoted to the grade of brigadier general or major general, respectively.
 
 (Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 635.)
 

@@ -8,7 +8,7 @@ As used in and for the purposes of this subchapter—
 
 &emsp;(1) a government of a foreign country and a foreign political party;
 
-&emsp;(2) a person outside of the United States, unless it is established that such person is an individual and a citizen of and domiciled within the United States, or that such person is not an individual and is organized under or created by the laws of the United States or of any State or other place subject to the jurisdiction of the United States and has its principal place of business within the United States; and
+&emsp;(2) a person outside of the United States, unless it is established that such person is an individual and a citizen of and domiciled withinthe United States, or that such person is not an individual and is organized under or created by the laws of the United States or of any State or other place subject to the jurisdiction of the United States and has its principal place of business within the United States; and
 
 &emsp;(3) a partnership, association, corporation, organization, or other combination of persons organized under the laws of or having its principal place of business in a foreign country.
 
@@ -42,7 +42,7 @@ As used in and for the purposes of this subchapter—
 
 (k) The term "registration statement" means the registration statement required to be filed with the Attorney General under section 612(a) of this title, and any supplements thereto required to be filed under section 612(b) of this title, and includes all documents and papers required to be filed therewith or amendatory thereof or supplemental thereto, whether attached thereto or incorporated therein by reference;
 
-(l) The term "American republic" includes any of the states which were signatory to the Final Act of the Second Meeting of the Ministers of Foreign Affairs of the American Republics at Habana, Cuba, July 30, 1940;
+(l) The term "American republic" includes any of the states which were signatory to the Final Act of the Second Meeting of the Ministers ofForeign Affairs of the American Republics at Habana, Cuba, July 30, 1940;
 
 (m) The term "United States", when used in a geographical sense, includes the several States, the District of Columbia, the Territories, the Canal Zone, the insular possessions, and all other places now or hereafter subject to the civil or military jurisdiction of the United States;
 
@@ -112,7 +112,7 @@ Pub. L. 89–486, §9, July 4, 1966, 80 Stat. 249, provided that: "This Act \[en
 
 #### Effective Date of 1942 Amendment
 
-Act Apr. 29, 1942, ch. 263, §3, 56 Stat. 258, provided that: "This Act \[amending this subchapter\] shall takeeffect on the sixtieth day after the date of its approval, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out the provisions of this Act \[amending this subchapter\]."
+Act Apr. 29, 1942, ch. 263, §3, 56 Stat. 258, provided that: "This Act \[amending this subchapter\] shall take effect on the sixtieth day after the date of its approval, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out the provisions of this Act \[amending this subchapter\]."
 
 #### Effective Date
 

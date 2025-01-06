@@ -2,7 +2,7 @@
 
 #### (a) Covered programs; content of notifications
 
-None of the funds appropriated to carry out the purposes of this chapter (except for programs under subpart III or subpart IV of part II of subchapter I of this chapter, part V of subchapter I of this chapter, and programs of disaster relief and rehabilitation) or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be obligated for any activities, programs, projects, types of materiel assistance, countries, or other operations not justified, or in excess of the amount justified, to the Congress for obligation under this chapter or the Arms Export Control Act for any fiscal year unless the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of the Congress are notified fifteen days in advance of such obligation. Whenever a proposed reprograming exceeds $1,000,000 and the total amount proposed for obligation for a country under this chapter in a fiscal year exceedsby more than $5,000,000 the amount specified for that country in the report required by section 2413(a) of this title, notifications of such proposed reprogramings shall specify—
+None of the funds appropriated to carry out the purposes of this chapter (except for programs under subpart III or subpart IV of part II of subchapter I of this chapter, part V of subchapter I of this chapter, and programs of disaster relief and rehabilitation) or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be obligated for any activities, programs, projects, types of materiel assistance, countries, or other operations not justified, or in excess of the amount justified, to the Congress for obligation under this chapter or the Arms Export Control Act for any fiscal year unless the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of the Congress are notified fifteen days in advance of such obligation. Whenever a proposed reprograming exceeds $1,000,000 and the total amount proposed for obligation for a country under this chapter in a fiscal year exceeds by more than $5,000,000 the amount specified for that country in the report required by section 2413(a) of this title, notifications of such proposed reprogramings shall specify—
 
 &emsp;(1) the nature and purpose of such proposed obligation, and
 
@@ -28,7 +28,7 @@ The President shall notify the chairman of the Committee on Foreign Relations of
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, whichis classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 

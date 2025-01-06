@@ -50,7 +50,7 @@ The activities eligible for funding through a grant under subsection (a)—
 
 &emsp;&emsp;(F) creating multistate consortia to carry out the activities required or authorized under this subsection; and
 
-&emsp;&emsp;(G) training health care providers in the primary care setting and relevant health paraprofessionals on trauma-informed care, culturally and linguistically appropriate services, and best practices related to training to improve the provision of maternal mental health and substance use disorder care for racial and ethnic minority populations and reduce related disparities in the delivery of such care.
+&emsp;&emsp;(G) training health care providers in the primary care setting and relevant health paraprofessionals on trauma-informed care, culturally and linguistically appropriate services, and best practices related to training to improve the provision of maternal mental health and substance use disordercare for racial and ethnic minority populations and reduce related disparities in the delivery of such care.
 
 #### (e) Technical assistance
 
@@ -58,7 +58,7 @@ The Secretary shall provide technical assistance to grantees and entities listed
 
 #### (f) Dissemination of best practices
 
-The Secretary, based on evaluation of the activities funded pursuant to this section, shallidentify and disseminate evidence-based or evidence-informed practices for screening, assessment, treatment, and referral to treatment services for maternal mental health and substance use disorders, including culturally and linguistically appropriate services, for women during pregnancy and 12 months following pregnancy.
+The Secretary, based on evaluation of the activities funded pursuant to this section, shall identify and disseminate evidence-based or evidence-informed practices for screening, assessment, treatment, and referral to treatment services for maternal mental health and substance use disorders, including culturally and linguistically appropriate services, for women during pregnancy and 12 months following pregnancy.
 
 #### (g) Matching requirement
 

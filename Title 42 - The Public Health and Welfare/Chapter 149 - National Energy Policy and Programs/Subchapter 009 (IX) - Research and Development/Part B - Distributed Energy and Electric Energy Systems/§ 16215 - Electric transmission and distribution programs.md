@@ -38,7 +38,7 @@ The Secretary shall establish a comprehensive research, development, and demonst
 
 #### (1) In general
 
-&emsp;Not later than 1 year after August 8, 2005, the Secretary, in consultation with other appropriate Federal agencies, shall prepare and submit to Congress a 5-year program plan to guide activities under this section.
+&emsp;Not later than 1 year after August 8, 2005, the Secretary, in consultation with other appropriate Federal agencies, shall prepare andsubmit to Congress a 5-year program plan to guide activities under this section.
 
 #### (2) Consultation
 
@@ -96,7 +96,7 @@ Not later than 2 years after the submission of the plan under subsection (b), th
 
 &emsp;&emsp;(A) feasibility analysis, planning, research, and design to construct demonstrations of superconducting links in high power, direct current, and controllable alternating current transmission systems;
 
-&emsp;&emsp;(B) public-private partnerships to demonstrate deployment of high temperaturesuperconducting cable into testbeds simulating a realistic transmission grid and under varying transmission conditions, including actual grid insertions; and
+&emsp;&emsp;(B) public-private partnerships to demonstrate deployment of high temperature superconducting cable into testbeds simulating a realistic transmission grid and under varying transmission conditions, including actual grid insertions; and
 
 &emsp;&emsp;(C) testbeds developed in cooperation with National Laboratories, industries, and institutions of higher education to—
 
@@ -142,7 +142,7 @@ As part of the program described in subsection (a), the Secretary shall award a 
 
 #### Coordination of Efforts
 
-Pub. L. 116–260, div. Z, title VIII, §8006, Dec. 27, 2020, 134 Stat. 2586, provided that: "In carrying out the amendments made by this title \[enacting sections 16236, 17014, 17384a, 17387, and 17388 of this title and amending this section, section 17384 of this title and sections 3501 and 3502 of Title 25, Indians\], the Secretary \[probably means Secretary of Energy\] shall coordinate with relevant entities to the maximum extent practicable, including—
+Pub. L. 116–260, div. Z, title VIII, §8006, Dec. 27, 2020, 134 Stat. 2586, provided that: "In carrying out theamendments made by this title \[enacting sections 16236, 17014, 17384a, 17387, and 17388 of this title and amending this section, section 17384 of this title and sections 3501 and 3502 of Title 25, Indians\], the Secretary \[probably means Secretary of Energy\] shall coordinate with relevant entities to the maximum extent practicable, including—
 
 &emsp;"(1) electric utilities;
 

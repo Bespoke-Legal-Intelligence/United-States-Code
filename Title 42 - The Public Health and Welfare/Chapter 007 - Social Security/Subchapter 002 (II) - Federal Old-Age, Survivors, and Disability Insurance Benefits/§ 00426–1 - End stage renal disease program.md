@@ -50,7 +50,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is a
 
 #### Amendments
 
-<b>2020</b>—Subsec. (b)(2). Pub. L. 116–260 inserted "(except for eligibility for enrollment under part B solely for purposes of coverage of immunosuppressive drugs described in section 1395x(s)(2)(J) of this title)" before ", with the thirty-sixth month".
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–260 inserted "(except for eligibility for enrollment under part B solely forpurposes of coverage of immunosuppressive drugs described in section 1395x(s)(2)(J) of this title)" before ", with the thirty-sixth month".
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–74 struck out subsec. (c) relating to continuing eligibility of certain terminated individuals.
 

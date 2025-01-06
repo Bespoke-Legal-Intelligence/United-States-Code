@@ -1,10 +1,10 @@
 ### §9279. Distinguished flying cross: award; limitations
 
-(a) The President may award a distinguished flying cross of appropriate design with accompanying ribbon to any person who, while serving in any capacity with the Air Force, distinguishes himself by heroism or extraordinary achievement while participating in an aerial flight.
+(a) The President may award a distinguished flying cross of appropriate design with accompanying ribbon to any person who, while serving in any capacity with the Air Force or Space Force, distinguishes himself by heroism or extraordinary achievement while participating in an aerial or space flight.
 
 (b) Not more than one distinguished flying cross may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a cross, the President may award a suitable bar or other device to be worn as he directs.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 541, §8749; renumbered §9279, Pub. L. 115–232, div. A, title VIII, §806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title V, §582(b)(4), Dec. 20, 2019, 133 Stat. 1412.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 541, §8749; renumbered §9279, Pub. L. 115–232, div. A, title VIII, §806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title V, §582(b)(4), Dec. 20, 2019, 133 Stat. 1412; Pub. L. 118–159, div. A, title V, §521(k)(1), Dec. 23, 2024, 138 Stat. 1882.)
 
 Historical and Revision Notes
 
@@ -36,6 +36,8 @@ In subsection (a), the words "under such rules and regulations as he may prescri
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 inserted "or Space Force" after "Air Force" and "or space" after "aerial".
+
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 struck out subsec. (c) which read as follows: "No distinguished flying cross, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable."
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8749 of this title as this section.
@@ -44,5 +46,5 @@ In subsection (a), the words "under such rules and regulations as he may prescri
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

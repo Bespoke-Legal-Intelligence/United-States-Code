@@ -14,7 +14,7 @@ Framework for Reform.—
 
 &emsp;(1)
 
-In general.—Not later than February 1, 2023, the Secretary shall establish policies, guidance, and a consistent reporting framework to measure the progress of the Department toward covered elements of reform, including by establishing categories of reform, consistent metrics, and a process for prioritization of reform activities.
+In general.—Not later than February 1, 2023, the Secretary shall establish policies,guidance, and a consistent reporting framework to measure the progress of the Department toward covered elements of reform, including by establishing categories of reform, consistent metrics, and a process for prioritization of reform activities.
 
 &emsp;(2)
 

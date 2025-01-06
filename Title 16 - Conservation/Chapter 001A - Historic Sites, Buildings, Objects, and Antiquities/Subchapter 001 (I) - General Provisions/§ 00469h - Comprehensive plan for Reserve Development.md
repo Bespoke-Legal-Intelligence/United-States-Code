@@ -6,7 +6,7 @@ The Secretary is authorized to provide technical assistance to the State of Wisc
 
 #### (b) Additional grants
 
-In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965,<sup>1</sup> the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: <i>Pro</i><i>vided</i>, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
+In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965,<sup>1</sup> the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: T3Provided, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
 
 #### (c) Costs of maintenance
 

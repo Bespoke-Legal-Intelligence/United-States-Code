@@ -76,7 +76,7 @@ The Commission is directed to distribute within the United States sufficient spe
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Prior Provisions
 
@@ -103,4 +103,86 @@ Subsec. (e)(1). Pub. L. 88–489, §8, struck out par. (1) which provided that t
 Subsec. (c). Pub. L. 85–681, §2, substituted "subsections (a)(1), (2) or (4)" for "subsection (a)(1) or (a) (2)".
 
 <b>1957</b>—Subsec. (e)(8). Pub. L. 85–256 inserted "except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Denial of Certain Domestic Licenses for National Security Purposes
+
+Pub. L. 118–67, div. B, title I, §102, July 9, 2024, 138 Stat. 1451, provided that:
+
+"(a)
+
+Definition of Covered Fuel.—In this section, the term 'covered fuel' means enriched uranium that is fabricated outside the United States into fuel assemblies for commercial nuclear power reactors by an entity that—
+
+&emsp;"(1) is owned or controlled by the Government of the Russian Federation or the Government of the People's Republic of China; or
+
+&emsp;"(2) is organized under the laws of, or otherwise subject to the jurisdiction of, the Russian Federation or the People's Republic of China.
+
+"(b)
+
+Prohibition on Unlicensed Possession or Ownership of Covered Fuel.—Unless specifically authorized by the \[Nuclear Regulatory\] Commission in a license issued under section 53 of the Atomic Energy Act of 1954 (42 U.S.C. 2073) and part 70 of title 10, Code of Federal Regulations (or successor regulations), no person subject to the jurisdiction of the Commission may possess or own covered fuel.
+
+"(c)
+
+License To Possess or Own Covered Fuel.—
+
+&emsp;"(1)
+
+Consultation required prior to issuance.—The Commission shall not issue a license to possess or own covered fuel under section 53 of the Atomic Energy Act of 1954 (42 U.S.C. 2073) and part 70 of title 10, Code of Federal Regulations (or successor regulations), unless the Commission has first consulted with the Secretary of Energy and the Secretary of State before issuing the license.
+
+&emsp;"(2)
+
+Prohibition on issuance of license.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to subparagraph (C), a license to possess or own covered fuel shall not be issued if the Secretary of Energy and the Secretary of State make the determination described in subparagraph (B)(i)(I).
+
+&emsp;&emsp;"(B)
+
+Determination.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The determination referred to in subparagraph (A) is a determination that possession or ownership, as applicable, of covered fuel—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) poses a threat to the national security of the United States, including because of an adverse impact on the physical and economic security of the United States; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) does not pose a threat to the national security of the United States.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Joint determination.—A determination described in clause (i) shall be jointly made by the Secretary of Energy and the Secretary of State.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Timeline.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
+
+Notice of application.—Not later than 30 days after the date on which the Commission receives an application for a license to possess or own covered fuel, the Commission shall notify the Secretary of Energy and the Secretary of State of the application.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
+
+Determination.—The Secretary of Energy and the Secretary of State shall have a period of 180 days, beginning on the date on which the Commission notifies the Secretary of Energy and the Secretary of State under subclause (I) of an application for a license to possess or own covered fuel, in which to make the determination described in clause (i).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
+
+Commission notification.—On making the determination described in clause (i), the Secretary of Energy and the Secretary of State shall immediately notify the Commission.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV)
+
+Congressional notification.—Not later than 30 days after the date on which the Secretary of Energy and the Secretary of State notify the Commission under subclause (III), the Commission shall notify the appropriate committees of Congress \[Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate\], the Committee on Foreign Relations of the Senate, the Committee on Energy and Natural Resources of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the determination.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V)
+
+Public notice.—Not later than 15 days after the date on which the Commission notifies Congress under subclause (IV) of a determination made under clause (i), the Commission shall make that determination publicly available.
+
+&emsp;&emsp;"(C)
+
+Effect of no determination.—The Commission shall not issue a license if the Secretary of Energy and the Secretary of State have not made a determination described in subparagraph (B).
+
+"(d)
+
+Savings Clause.—Nothing in this section alters any treaty or international agreement in effect on the date of enactment of this Act \[July 9, 2024\] or that enters into force after the date of enactment of this Act."
 

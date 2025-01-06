@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall provide assistance for the establishment of Cooperative Research Centers.Such Centers shall be affiliated with any university, or other nonprofit institution, or group thereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
+The Secretary shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with any university, or other nonprofit institution, or group thereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
 
 &emsp;(1) the participation of individuals from industry and universities in cooperative technological innovation activities;
 
@@ -82,7 +82,7 @@ Pub. L. 101–510, div. A, title VIII, §827(b), Nov. 5, 1990, 104 Stat. 1607, a
 
 "(1) In the administration of applicable provisions of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\] or section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, 15 U.S.C. 278l note\], the Secretary of Commerce shall develop, in consultation with the Secretary of Defense and the Secretary of Energy, model programs for national defense laboratories.
 
-"(2) Model programs under this subsection shall involve Federal laboratories, small businesses, and partnership intermediaries. The purpose of the model programs is to demonstrate successful relationships between the Federal Government, State and local governments, and small businesses which encourage economicgrowth through the commercial application of technology resulting from federally funded research.
+"(2) Model programs under this subsection shall involve Federal laboratories, small businesses, and partnership intermediaries. The purpose of the model programs is to demonstrate successful relationships between the Federal Government, State and local governments, and small businesses which encourage economic growth through the commercial application of technology resulting from federally funded research.
 
 "(3) In this subsection, the term 'national defense laboratory' means any laboratory, federally funded research and development center (FFRDC), or other center established under section 7 or 9 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3705, 3707) that is owned by the Federal Government, whether operated by the Federal Government or by a contractor, and—
 

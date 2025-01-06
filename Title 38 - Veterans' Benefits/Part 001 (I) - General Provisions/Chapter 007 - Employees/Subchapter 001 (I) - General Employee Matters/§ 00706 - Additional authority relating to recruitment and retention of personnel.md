@@ -100,6 +100,108 @@ Levels II and IV of the Executive Schedule, referred to in subsec. (i)(2)(B), ar
 
 A prior section 706 was renumbered section 1906 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Benefits for Participants in Certain Programs of the Department of Veterans Affairs
+
+Pub. L. 118–196, §6, Dec. 23, 2024, 138 Stat. 2674, provided that:
+
+"(a)
+
+Establishment.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Veterans Affairs shall carry out a program to furnish certain benefits to covered participants.
+
+"(b)
+
+Benefits: Student Loan Repayment; Reimbursements.—
+
+&emsp;"(1)
+
+In general.—Subject to an agreement under paragraph (2), the Secretary shall provide to each covered attorney—
+
+&emsp;&emsp;"(A) student loan repayment benefits under section 5379 of title 5, United States Code, in the case of a covered attorney who is eligible for such benefits; and
+
+&emsp;&emsp;"(B) reimbursement for the cost of—
+
+&emsp;&emsp;&emsp;"(i) enrollment in a course designed to prepare an individual for licensure to practice law in a State;
+
+&emsp;&emsp;&emsp;"(ii) sitting for a bar examination in a State; and
+
+&emsp;&emsp;&emsp;"(iii) annual dues required to maintain membership in the bar of any State.
+
+&emsp;"(2)
+
+Agreement.—The Secretary shall enter into an agreement with a covered attorney who will receive benefits under paragraph (1). Each such agreement shall specify that—
+
+&emsp;&emsp;"(A) the covered attorney agrees to remain in the service of the Department for a period of not less than three years, unless involuntarily separated; and
+
+&emsp;&emsp;"(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, the covered attorney shall repay to the United States the amount of any benefits received by the covered participant under paragraph (1).
+
+"(c)
+
+Professional Development Activities.—
+
+&emsp;"(1)
+
+Mentorship.—Not later than 90 days after the date on which an individual becomes a covered participant, the Secretary shall assign the covered participant a mentor who is an employee of the Department who is—
+
+&emsp;&emsp;"(A) to the extent practicable, a managerial employee; and
+
+&emsp;&emsp;"(B) outside the participant's chain of command.
+
+&emsp;"(2)
+
+Assignments.—At the election of a covered participant who has completed at least two years of service to the Department, the Secretary shall assign such covered participant to:
+
+&emsp;&emsp;"(A) The Office of General Counsel, in a position—
+
+&emsp;&emsp;&emsp;"(i) that includes full-time legal responsibilities in order to further the professional development of the covered participant; and
+
+&emsp;&emsp;&emsp;"(ii) for a period of not less than 120 days and not more than 180 days, or longer at the discretion of the Secretary.
+
+&emsp;&emsp;"(B) In the case of a covered participant who has already held a position described in subparagraph (A), an assignment described in clauses (i) and (ii) of such subparagraph with the Board of Veterans' Appeals.
+
+&emsp;"(3)
+
+Other rotational assignments.—The Secretary may provide a covered participant one or more other short-term rotational assignments. Such an assignment shall be for a period of not less than 30 days and not more than 180 days, at the discretion of the Secretary.
+
+"(d)
+
+Periodic Reports.—
+
+&emsp;"(1)
+
+Reports required.—Not later than three years after the date on which the Secretary begins to carry out the program under this section, and not less frequently than once every three years thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives regarding such program.
+
+&emsp;"(2)
+
+Elements.—Each report submitted under paragraph (1) shall include the following elements:
+
+&emsp;&emsp;"(A) Costs to the United States to provide benefits under subsection (b).
+
+&emsp;&emsp;"(B) The rates of retention of covered participants compared to other employees of the Department.
+
+&emsp;&emsp;"(C) Recommendations of the Secretary regarding legislative or administrative action to improve such program.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered attorney' means an individual who—
+
+&emsp;&emsp;"(A) is a covered participant;
+
+&emsp;&emsp;"(B) has graduated from a law school accredited by the American Bar Association; and
+
+&emsp;&emsp;"(C) is a member in good standing of the bar of a State.
+
+&emsp;"(2) The term 'covered participant' means an individual who participates in—
+
+&emsp;&emsp;"(A) the Honors Attorney Program (or successor program) of the Office of General Counsel of the Department of Veterans Affairs; or
+
+&emsp;&emsp;"(B) the Law Clerk Program (or successor program) of the Board of Veterans' Appeals.
+
+&emsp;"(3) The term 'State' has the meaning given such term in section 101 of title 38, United States Code."
+
 <i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by "an".</i>

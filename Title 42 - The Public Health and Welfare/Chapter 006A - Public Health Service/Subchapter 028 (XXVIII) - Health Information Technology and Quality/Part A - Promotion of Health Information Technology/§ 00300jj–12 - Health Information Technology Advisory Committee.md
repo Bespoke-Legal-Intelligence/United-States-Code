@@ -28,7 +28,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 &emsp;&emsp;&emsp;(i) Achieving a health information technology infrastructure, nationally and locally, that allows for the electronic access, exchange, and use of health information, including through technology that provides accurate patient information for the correct patient, including exchanging such information, and avoids the duplication of patient records.
 
-&emsp;&emsp;&emsp;(ii) The promotion and protection of privacy and security of health information in health information technology, including technologies that allow for an accounting of disclosures and protections against disclosures of individually identifiable health information made by a covered entity for purposes of treatment, payment, and health care operations (as such terms aredefined for purposes of the regulation promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996), including for the segmentation and protection from disclosure of specific and sensitive individually identifiable health information with the goal of minimizing the reluctance of patients to seek care.
+&emsp;&emsp;&emsp;(ii) The promotion and protection of privacy and security of health information in health information technology, including technologies that allow for an accounting of disclosures and protections against disclosures of individually identifiable health information made by a covered entity for purposes of treatment, payment, and health care operations (as such terms are defined for purposes of the regulation promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996), including for the segmentation and protection from disclosure of specific and sensitive individually identifiable health information with the goal of minimizing the reluctance of patients to seek care.
 
 &emsp;&emsp;&emsp;(iii) The facilitation of secure access by an individual to such individual's protected health information and access to such information by a family member, caregiver, or guardian acting on behalf of a patient, including due to age-related and other disability, cognitive impairment, or dementia.
 
@@ -76,7 +76,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (A) In general
 
-&emsp;&emsp;The HIT Advisory Committee shall recommend to the National Coordinator standards, implementation specifications, and certification criteria described in subsection (a), which may include standards, implementation specifications, and certification criteria that have been developed, harmonized, or recognized by the HIT Advisory Committee or predecessor committee. The HIT Advisory Committee shall update such recommendations and make new recommendations as appropriate, including in response to a notification sent under section 300jj–14(a)(2)(B) of this title. Such recommendations shall be consistent with the latest recommendations made by the Committee.
+&emsp;&emsp;The HIT Advisory Committee shall recommend to the National Coordinator standards, implementation specifications, and certification criteria described in subsection (a), which may include standards, implementation specifications, and certification criteria that have been developed, harmonized, or recognized by the HIT Advisory Committee or predecessor committee. The HITAdvisory Committee shall update such recommendations and make new recommendations as appropriate, including in response to a notification sent under section 300jj–14(a)(2)(B) of this title. Such recommendations shall be consistent with the latest recommendations made by the Committee.
 
 #### (B) Harmonization
 
@@ -144,7 +144,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (3) Significant advancement determination
 
-&emsp;The Secretary shall periodically, based on the reports submitted under this subsection, review the target areas described in subsection (b)(2)(B), and, based on the objectives and benchmarks established under paragraph (1), the Secretary shall determine if significant advancement has been achieved with respect to such an area. Such determination shall be taken into consideration by the HIT Advisory Committee when determining to what extent the Committee makes recommendations for an area other than an area described in subsection (b)(2)(B).
+&emsp;The Secretary shall periodically, based on the reports submitted under this subsection,review the target areas described in subsection (b)(2)(B), and, based on the objectives and benchmarks established under paragraph (1), the Secretary shall determine if significant advancement has been achieved with respect to such an area. Such determination shall be taken into consideration by the HIT Advisory Committee when determining to what extent the Committee makes recommendations for an area other than an area described in subsection (b)(2)(B).
 
 #### (d) Membership and operations
 
@@ -226,7 +226,7 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Prior Provisions
 
-A prior section 300jj–12, act July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 234, related to the establishment, duties, and membership of the HIT Policy Committee, prior to repeal by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
+A prior section 300jj–12, act July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 111–5, div. A, title XIII,§13101, Feb. 17, 2009, 123 Stat. 234, related to the establishment, duties, and membership of the HIT Policy Committee, prior to repeal by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ This chapter, referred to in text, was in the original "this title", and was tra
 
 #### Short Title
 
-Pub. L. 101–625, title VIII, §851, Nov. 28, 1990, 104 Stat. 4375, provided that: "This subtitle \[subtitle D (§§851–863) of title VIII of Pub. L. 101–625, enacting this chapter\] may be cited as the 'AIDS Housing Opportunity Act'."
+Pub. L. 101–625, title VIII, §851, Nov. 28, 1990, 104 Stat. 4375, provided that: "This subtitle \[subtitle D\(§§851–863) of title VIII of Pub. L. 101–625, enacting this chapter\] may be cited as the 'AIDS Housing Opportunity Act'."
 
 #### Regulations
 

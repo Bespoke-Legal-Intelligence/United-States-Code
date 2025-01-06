@@ -136,7 +136,7 @@ In this section, the following definitions shall apply:
 
 #### (C) Exception
 
-&emsp;&emsp;The term "eligible entity" does not include any entity that has failed to submitthe most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
+&emsp;&emsp;The term "eligible entity" does not include any entity that has failed to submit the most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
 
 #### (4) Emergency call
 
@@ -198,7 +198,7 @@ Pub. L. 117–58, div. B, title IV, §24113(a), Nov. 15, 2021, 135 Stat. 818, pr
 
 "(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall implement the recommendations of the Comptroller General of the United States contained in the report entitled 'Next Generation 911: National 911 Program Could Strengthen Efforts to Assist States', numbered GAO–18–252, and dated January 1, 2018, by requiring that the Administrator of the National Highway Traffic Safety Administration, in collaboration with the appropriate Federal agencies, shall determine the roles and responsibilities of the Federal agencies participating in the initiative entitled 'National NG911 Roadmap initiative' to carry out the national-level tasks with respect which each agency has jurisdiction.
+In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall implement the recommendations of the Comptroller General of the United States contained in the report entitled 'Next Generation 911: National 911 Program Could Strengthen Efforts to Assist States', numbered GAO–18–252, and dated January 1, 2018, by requiring that the Administrator of the National Highway Traffic Safety Administration, in collaboration withthe appropriate Federal agencies, shall determine the roles and responsibilities of the Federal agencies participating in the initiative entitled 'National NG911 Roadmap initiative' to carry out the national-level tasks with respect which each agency has jurisdiction.
 
 "(2)
 

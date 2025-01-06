@@ -82,7 +82,7 @@ The Secretary shall—
 
 &emsp;(4) collect, store, and disseminate reports on investigations of potential cancer clusters, the possible causes of such clusters, and the actions taken to address such clusters; and
 
-&emsp;(5) provide technical assistance for investigating cancer clusters to State and local health departments through existing programs, such as the Epi-Aids program of the Centers for Disease Control and Prevention and the Assessments of Chemical Exposures Program of the Agency for Toxic Substances and Disease Registry.
+&emsp;(5) provide technical assistance for investigating cancer clusters to State and localhealth departments through existing programs, such as the Epi-Aids program of the Centers for Disease Control and Prevention and the Assessments of Chemical Exposures Program of the Agency for Toxic Substances and Disease Registry.
 
 (July 1, 1944, ch. 373, title III, §399V–6, as added Pub. L. 114–182, title I, §21(b), June 22, 2016, 130 Stat. 510.)
 

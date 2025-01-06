@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Governor shall use 81.8 percent of the State's allocation under section 10001(d) of this title for the support of elementary, secondary, and postsecondary education and, as applicable, early childhood education programs and services.
+&emsp;For each fiscal year, the Governor shall use 81.8 percent of the State's allocation under section 10001(d) of this title for the support of elementary, secondary, and postsecondaryeducation and, as applicable, early childhood education programs and services.
 
 #### (2) Restoring State support for education
 
@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;The Governor shall use 18.2 percent of the State's allocation under section 10001(d) of this title for public safety and other government services, which may include assistance for elementary and secondary education and public institutions of higher education, and for modernization, renovation, or repair ofpublic school facilities and institutions of higher education facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
+&emsp;The Governor shall use 18.2 percent of the State's allocation under section 10001(d) of this title for public safety and other government services, which may include assistance for elementary and secondary education and public institutions of higher education, and for modernization, renovation, or repair of public school facilities and institutions of higher education facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
 
 #### (2) Availability to all institutions of higher education
 

@@ -26,7 +26,7 @@ The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88
 
 #### Codification
 
-Section was enacted as part of the Elementary and Secondary Education Amendments of 1969, and not as part of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
+Section was enacted as part of the Elementary and Secondary Education Amendments of 1969, and not aspart of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -36,7 +36,7 @@
 
 &emsp;(E) has procedures to obtain payment for non-renal organs provided to transplant centers,
 
-&emsp;(F) has a defined service area that is of sufficient size to assure maximum effectiveness inthe procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+&emsp;(F) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
 
 &emsp;(G) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
 
@@ -104,7 +104,7 @@ Paragraph (1)(E), referred to in subsec. (b)(2)(A), meaning par. (1)(E) of subse
 
 #### Prior Provisions
 
-A prior section 273, act July 1, 1944, ch. 373, title III, §371, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 709, authorized grants to the Territory of Alaskafor an integrated mental health program, prior to repeal by Pub. L. 86–70, §31(b)(1), June 25, 1959, 73 Stat. 148, effective July 1, 1959.
+A prior section 273, act July 1, 1944, ch. 373, title III, §371, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 709, authorized grants to the Territory of Alaska for an integrated mental health program, prior to repeal by Pub. L. 86–70, §31(b)(1), June 25, 1959, 73 Stat. 148, effective July 1, 1959.
 
 A prior section 371 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 960, was renumbered section 381 and classified to section 275 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
@@ -172,7 +172,7 @@ Pub. L. 101–616, title II, §207, Nov. 16, 1990, 104 Stat. 3286, provided that
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–607, title IV, §402(c)(3), Nov. 4, 1988, 102 Stat. 3115, as amended by Pub. L. 101–274, Apr. 23, 1990, 104 Stat. 139, which provided that the amendment made by section 402(c)(1)(A) of Pub. L. 100–607, amending this section, was not to apply to an organ procurement organization designated under section 1320b–8(b) of this title until Jan. 1, 1992, was repealed by Pub. L. 101–616, title II, §201(c)(2), Nov. 16, 1990, 104 Stat. 3283.
+Pub. L. 100–607, title IV, §402(c)(3), Nov. 4, 1988, 102 Stat. 3115, as amended by Pub. L. 101–274, Apr. 23, 1990, 104 Stat. 139, which provided that the amendment made by section 402(c)(1)(A) of Pub. L. 100–607, amending this section, was not to apply to an organ procurement organization designated under section 1320b–8(b) of thistitle until Jan. 1, 1992, was repealed by Pub. L. 101–616, title II, §201(c)(2), Nov. 16, 1990, 104 Stat. 3283.
 
 #### Short Title
 

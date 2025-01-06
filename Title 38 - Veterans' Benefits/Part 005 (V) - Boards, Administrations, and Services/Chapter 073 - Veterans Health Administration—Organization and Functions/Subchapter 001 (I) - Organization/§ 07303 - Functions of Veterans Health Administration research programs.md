@@ -60,7 +60,7 @@ Pub. L. 117–328, div. V, title V, §506, Dec. 29, 2022, 136 Stat. 5516, provid
 
 "(a)
 
-Research on Moral Injury.—The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injuryrelates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans.
+Research on Moral Injury.—The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injury relates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans.
 
 "(b)
 

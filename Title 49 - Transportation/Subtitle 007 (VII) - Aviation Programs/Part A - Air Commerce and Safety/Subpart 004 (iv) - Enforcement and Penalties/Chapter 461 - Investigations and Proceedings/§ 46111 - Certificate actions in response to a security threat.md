@@ -38,7 +38,7 @@ Review of classified evidence by administrative law judge.—
 
 &emsp;&emsp;(A)
 
-Review.—As part of a hearing conducted under this section, if the order of the Administrator of the Federal Aviation Administration issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), such information may be submitted by the Administrator of the Transportation Security Administration to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by the administrative law judge ex parte and in camera.
+Review.—As part of a hearing conducted under this section, if the order of the Administrator of the Federal Aviation Administration issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), such information may be submitted by the Administrator of the Transportation Security Administration to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by theadministrative law judge ex parte and in camera.
 
 &emsp;&emsp;(B)
 

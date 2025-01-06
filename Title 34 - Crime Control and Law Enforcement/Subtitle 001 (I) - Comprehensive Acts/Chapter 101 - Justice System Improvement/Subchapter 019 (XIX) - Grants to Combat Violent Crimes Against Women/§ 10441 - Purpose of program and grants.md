@@ -272,7 +272,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L.109–162, set out as a note under section 10261 of this title.
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
 
 #### Incentives for States To Create Sexual Assault Survivors' Bill of Rights
 
@@ -284,7 +284,7 @@ Incentives for States to Create Sexual Assault Survivors' Bill of Rights.—
 
 &emsp;"(1)
 
-Definition of covered formula grant.—In this subsection, the term 'covered formula grant' means a grant under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10441 et seq.) (commonly referred to as the 'STOP Violence Against Women Formula Grant Program').
+Definition of covered formula grant.—In this subsection, the term 'covered formula grant' means a grant under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C.10441 et seq.) (commonly referred to as the 'STOP Violence Against Women Formula Grant Program').
 
 &emsp;"(2)
 

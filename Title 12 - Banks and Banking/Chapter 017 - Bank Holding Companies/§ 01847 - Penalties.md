@@ -6,7 +6,7 @@
 
 &emsp;(2) Whoever, with the intent to deceive, defraud, or profit significantly, knowingly violates any provision of this chapter shall be imprisoned not more than 5 years, fined not more than $1,000,000 per day for each day during which the violation continues, or both.
 
-> Every officer, director, agent, and employee of a bank holding company shall be subject to thesame penalties for false entries in any book, report, or statement of such bank holding company as are applicable to officers, directors, agents, and employees of member banks for false entries in any books, reports, or statements of member banks under section 1005 of title 18.
+> Every officer, director, agent, and employee of a bank holding company shall be subject to the same penalties for false entries in any book, report, or statement of such bank holding company as are applicable to officers, directors, agents, and employees of member banks for false entries in any books, reports, or statements of member banks under section 1005 of title 18.
 
 #### (b) Civil money penalty
 
@@ -16,7 +16,7 @@
 
 #### (2) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) andany such assessment shall be subject to the provisions of such section.
 
 #### (3) Hearing
 
@@ -76,7 +76,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;Any company against which any penalty is assessed under this subsection shall be afforded an agency hearing if such company submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
 
-(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15,1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
+(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,7 +86,7 @@ The resignation, termination of employment or participation, or separation of an
 
 Subsec. (b). Pub. L. 101–73, §907(j)(2), added headings and amended text generally. Prior to amendment, subsec. (b) read as follows:
 
-"(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term 'violates' includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+"(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during whichsuch violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term 'violates' includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 "(2) In determining the amount of the penalty the Board shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the company or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 

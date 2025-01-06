@@ -28,7 +28,7 @@
 
 &emsp;(B) an amount established by the Secretary based on a recommendation of the Delegate Body.
 
-(2) Except as provided in paragraph (3), the rate of assessment in the initial order may be increased by not more than 0.1 percent per year on recommendation of the Delegate Body.
+(2) Except as provided in paragraph (3), the rate of assessment in the initial order may beincreased by not more than 0.1 percent per year on recommendation of the Delegate Body.
 
 (3) The rate of assessment may not exceed 0.50 percent of such market value unless—
 
@@ -60,7 +60,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(2)(A) The National Pork Producers Council, a nonprofit corporation of the type described in section 501(c)(3) of title 26 and incorporated in the State of Iowa, shall receive an amount of funds equal to—
 
-&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this sectionthroughout the United States from the date assessment commences pursuant to subsection (a)(1) until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
+&emsp;&emsp;(i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
 
 &emsp;&emsp;(ii) 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title,
 

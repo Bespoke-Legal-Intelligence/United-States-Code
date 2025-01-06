@@ -10,7 +10,7 @@ The provisions of Reorganization Plan Numbered 1 of 1953, submitted to the Congr
 
 Reorganization Plan Numbered 1 of 1953, referred to in text, is Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, which is set out as a note below and in the Appendix to Title 5, Government Organization and Employees.
 
-The Reorganization Act of 1949, as amended, referred to in text, is act June 20, 1949, ch. 226, 63 Stat. 203, which enacted sections 133z to 133z–15 of former Title 5, Executive Departments and Government Officers and Employees. Sections 133z to 133z–15 of former Title 5 were repealed and reenacted as sections 901 to 913 of Title 5, Government Organizations and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. Section 913 of Title 5 has been omitted from the Code. Section 9 of the Reorganization Act of 1949, which enacted section 133z–7 of former Title 5, was also repealed and reenacted as section 907(a) to (c) of Title 5 by Pub. L. 89–554.
+The Reorganization Act of 1949, as amended, referred to in text, is act June 20, 1949, ch. 226, 63 Stat. 203, which enacted sections 133z to 133z–15 of former Title 5, Executive Departments and Government Officers and Employees. Sections 133z to 133z–15 of former Title 5 were repealed and reenacted as sections 901 to 913 of Title 5, Government Organizations and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. Section 913 ofTitle 5 has been omitted from the Code. Section 9 of the Reorganization Act of 1949, which enacted section 133z–7 of former Title 5, was also repealed and reenacted as section 907(a) to (c) of Title 5 by Pub. L. 89–554.
 
 #### Codification
 
@@ -52,7 +52,7 @@ Considerations.—In updating policies under paragraph (1)(B), the Secretary sha
 
 "(b)
 
-Monitoring of Subrecipients of Funding From the National Institutes of Health.—The Director of the National Institutes of Health (referred to in this section as the 'Director of National Institutes ofHealth') shall implement measures to reduce the administrative burdens related to monitoring of subrecipients of grants by primary awardees of funding from the National Institutes of Health, which may incorporate findings and recommendations from existing and ongoing activities. Such measures may include, as appropriate—
+Monitoring of Subrecipients of Funding From the National Institutes of Health.—The Director of the National Institutes of Health (referred to in this section as the 'Director of National Institutes of Health') shall implement measures to reduce the administrative burdens related to monitoring of subrecipients of grants by primary awardees of funding from the National Institutes of Health, which may incorporate findings and recommendations from existing and ongoing activities. Such measures may include, as appropriate—
 
 &emsp;"(1) an exemption from subrecipient monitoring requirements, upon request from the primary awardees, provided that—
 
@@ -250,7 +250,7 @@ There should be an unremitting effort to improve those health, education, and so
 
 But good intent and high purpose are not enough; all such programs depend for their success upon efficient, responsible administration. I have recently taken action to assure that the Federal Security Administrator's views are given proper consideration in executive councils by inviting her to attend meetings of the Cabinet. Now the establishment of the new Department provided for in Reorganization Plan No. 1 of 1953 will give the needed additional assurance that these matters will receive the full consideration they deserve in the whole operation of the Government.
 
-This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggestedby President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
+This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
 
 The present plan will make it possible to give the officials directing the Department titles indicative of their responsibilities and salaries comparable to those received by their counterparts in other executive departments. As the Under Secretary of an executive department, the Secretary's principal assistant will be better equipped to give leadership in the Department's organization and management activities, for which he will be primarily responsible. The plan opens the way to further administrative improvement by authorizing the Secretary to centralize services and activities common to the several agencies of the Department. It also established a uniform method of appointment for the heads of the three major constituent agencies. At present, the Surgeon General and the Commissioner of Education are appointed by the President and confirmed by the Senate, while the Commissioner for Social Security is appointed by the Federal Security Administrator. Hereafter, all three will be Presidential appointees subject to Senate confirmation.
 
@@ -268,7 +268,7 @@ The White House, March 12, 1953.
 
 #### Ex. Ord. No. 11583. Office of Consumer Affairs
 
-Ex. Ord. No. 11583, Feb. 24, 1971, 36 F.R. 3509, as amended by Ex. Ord. No. 11595, May 26, 1971, 36 F.R. 9763; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 11583, Feb. 24, 1971, 36 F.R. 3509, as amended by Ex. Ord. No. 11595, May 26, 1971, 36 F.R.9763; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 Consumer protection fosters a market place in which our competitive economic system flourishes best. It is good for businessmen because it gives the consumer greater confidence in the goods and services provided by business. It is good for consumers because it reinforces the concept of buyers' rights:
 
@@ -294,7 +294,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
-(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functionsvested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
+(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
 
 (3) utilize, with their consent, the services, personnel, and facilities of other Federal, State, local and private agencies and instrumentalities with or without reimbursement thereof except as reimbursement may be required by law; and
 
@@ -364,7 +364,7 @@ Under and by virtue of the authority vested in me by section 301 of title 3 of t
 
 Section 1. The Office of Consumer Affairs, established by Executive Order No. 11583 of February 24, 1971, as amended by Executive Order No. 11595 of May 26, 1971 \[set out above\], together with its functions, is hereby transferred from the Executive Office of the President to the Department of Health and Human Services. The Director of the Office of Consumer Affairs shall continue as the Special Assistant to the President for Consumer Affairs.
 
-Sec. 2. In view of the establishment of the Council on Economic Policy, the Cabinet Committee on Economic Policy, together with its functions, is hereby abolishedand Executive Order No. 11453 of January 24, 1969, is hereby revoked.
+Sec. 2. In view of the establishment of the Council on Economic Policy, the Cabinet Committee on Economic Policy, together with its functions, is hereby abolished and Executive Order No. 11453 of January 24, 1969, is hereby revoked.
 
 #### Ex. Ord. No. 12160. Enhancement and Coordination of Federal Consumer Programs
 
@@ -452,7 +452,7 @@ Consumer Program Reforms
 
 1–401. The Chairperson, assisted by the Council, shall ensure that agencies review and revise their operating procedures so that consumer needs and interests are adequately considered and addressed. Agency consumer programs should be tailored to fit particular agency characteristics, but those programs shall include, at a minimum, the following five elements:
 
-(a) <i>Consumer Affairs Perspective</i>. Agencies shall have identifiable, accessible professional staffs of consumer affairs personnel authorized to participate, in a manner not inconsistent with applicable statutes, in the development and review of all agency rules, policies, programs, and legislation.
+(a) <i>Consumer Affairs Perspective</i>. Agencies shall have identifiable, accessible professional staffs of consumeraffairs personnel authorized to participate, in a manner not inconsistent with applicable statutes, in the development and review of all agency rules, policies, programs, and legislation.
 
 (b) <i>Consumer Participation</i>. Agencies shall establish procedures for the early and meaningful participation by consumers in the development and review of all agency rules, policies, and programs. Such procedures shall include provisions to assure that consumer concerns are adequately analyzed and considered in decisionmaking. To facilitate the expression of those concerns, agencies shall provide for forums at which consumers can meet with agency decisionmakers. In addition, agencies shall make affirmative efforts to inform consumers of pending proceedings and of the opportunities available for participation therein.
 
@@ -524,7 +524,7 @@ Definitions
 
 #### Executive Order No. 13125
 
-Ex. Ord. No. 13125, June 7, 1999, 64 F.R. 31105, as amended by Ex. Ord. No. 13216, June 6, 2001, 66 F.R. 31373, which established in the Department of Health and Human Services a President's Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, §4(a), Oct. 14, 2009, 74 F.R. 53638, formerly set out as a note under section 1501 of Title 15, Commerce and Trade, and by Ex. Ord. No. 14031, §4(a), May 28, 2021, 86 F.R. 29680, set out below.
+Ex. Ord. No. 13125, June 7, 1999, 64 F.R. 31105, as amended by Ex. Ord. No. 13216, June 6, 2001, 66 F.R.31373, which established in the Department of Health and Human Services a President's Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, §4(a), Oct. 14, 2009, 74 F.R. 53638, formerly set out as a note under section 1501 of Title 15, Commerce and Trade, and by Ex. Ord. No. 14031, §4(a), May 28, 2021, 86 F.R. 29680, set out below.
 
 #### Ex. Ord. No. 14031. Advancing Equity, Justice, and Opportunity for Asian Americans, Native Hawaiians, and Pacific Islanders
 
@@ -574,7 +574,7 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans, Native Hawaiians,
 
 (v) have such other experience as the President deems appropriate.
 
-(d) The members of the Commission shall function as liaisons and spokespersons on behalf of the Commission to relevant State, local, and private entities, and shall share information about the work of the Commission in order to advise the President regarding the development, monitoring, and coordination of executive branch efforts to advance equity, justice, and opportunity for AA and NHPI communities in the United States, including efforts to close gaps in health, socioeconomic, employment, and educational outcomes.
+(d) The members of the Commission shall function as liaisons and spokespersons on behalf of the Commissionto relevant State, local, and private entities, and shall share information about the work of the Commission in order to advise the President regarding the development, monitoring, and coordination of executive branch efforts to advance equity, justice, and opportunity for AA and NHPI communities in the United States, including efforts to close gaps in health, socioeconomic, employment, and educational outcomes.
 
 (e) The Secretary of Health and Human Services shall designate an Executive Director of the Commission (Executive Director). The Executive Director shall report to the Secretary of Health and Human Services, in coordination with the other Co-Chair of the Commission and the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison.
 

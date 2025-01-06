@@ -6,7 +6,7 @@
 
 &emsp;Payment of a <sup>1</sup> adjustment assistance under this part shall be made to an adversely affected agricultural commodity producer covered by a certification under this part who files an application for such assistance within 90 days after the date on which the Secretary makes a determination and issues a certification of eligibility under section 2401b of this title, if the following conditions are met:
 
-&emsp;&emsp;(A) The producer submits to the Secretary sufficient information to establish the amount of agricultural commodity covered by the application filed under this subsection that was produced by the producer in the most recent year.
+&emsp;&emsp;(A) The producer submits to the Secretary sufficient information to establish theamount of agricultural commodity covered by the application filed under this subsection that was produced by the producer in the most recent year.
 
 &emsp;&emsp;(B) The producer certifies that the producer has not received cash benefits under any provision of this subchapter other than this part.
 

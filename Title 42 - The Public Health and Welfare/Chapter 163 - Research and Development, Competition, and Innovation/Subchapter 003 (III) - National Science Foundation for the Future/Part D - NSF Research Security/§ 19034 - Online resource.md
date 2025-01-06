@@ -1,6 +1,6 @@
 ### §19034. Online resource
 
-The Director shall develop an online resource hosted on the Foundation's website containingup-to-date information, tailored for institutions and individual researchers, including—
+The Director shall develop an online resource hosted on the Foundation's website containing up-to-date information, tailored for institutions and individual researchers, including—
 
 &emsp;(1) an explanation of Foundation research security policies;
 

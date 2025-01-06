@@ -14,7 +14,7 @@ Except as provided in subsection (e), any individual—
 
 #### (b) Enrollment for health benefits
 
-(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefitsplan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
 &emsp;(A) files an election for such enrollment; and
 
@@ -44,7 +44,7 @@ Except as provided in subsection (e), any individual—
 
 #### (d) Continuation of eligibility
 
-Notwithstanding subsections (a), (b), and (c) and except as provided in subsections (e) and (f), an individual divorced on or before December 4,1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or Federal Employees' Retirement System Special Category who enrolled in a health benefits plan following the dissolution of the marriage to such participant may continue enrollment following the death of such participant notwithstanding the termination of the retirement annuity of such individual.
+Notwithstanding subsections (a), (b), and (c) and except as provided in subsections (e) and (f), an individual divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or Federal Employees' Retirement System Special Category who enrolled in a health benefits plan following the dissolution of the marriage to such participant may continue enrollment following the death of such participant notwithstanding the termination of the retirement annuity of such individual.
 
 #### (e) Remarriage before age fifty-five; continued enrollment; restored eligibility
 
@@ -118,5 +118,5 @@ Pub. L. 99–569, title III, §303(b), Oct. 27, 1986, 100 Stat. 3195, provided t
 
 #### Compliance With Budget Act
 
-Pub. L. 102–88, title III, §307(e), Aug. 14, 1991, 105 Stat. 433, provided that: "Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuantto the amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts."
+Pub. L. 102–88, title III, §307(e), Aug. 14, 1991, 105 Stat. 433, provided that: "Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuant to the amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts."
 

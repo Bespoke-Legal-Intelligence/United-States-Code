@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) When a launch or reentry license is issued or transferredunder this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
+General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
 
 &emsp;(A) a third party for death, bodily injury, or property damage or loss resulting from an activity carried out under the license; and
 
@@ -30,7 +30,7 @@ General Requirements.—(1) When a launch or reentry license is issued or transf
 
 &emsp;(E) space flight participants.
 
-(5) Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2025.
+(5) Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2028.
 
 (b)
 
@@ -44,7 +44,7 @@ Reciprocal Waiver of Claims.—(1)(A) A launch or reentry license issued or tran
 
 &emsp;(iii) space flight participants.
 
-(C) Clause (iii) of subparagraph (B) ceases to be effective September 30, 2025.
+(C) Clause (iii) of subparagraph (B) ceases to be effective September 30, 2028.
 
 (2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
@@ -60,7 +60,7 @@ Annual Report.—(1) Not later than November 15 of each year, the Secretary of T
 
 (e)
 
-Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting fromthe willful misconduct of the Government or its agents.
+Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurancesnecessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
 
 (f)
 
@@ -70,7 +70,7 @@ Collection and Crediting Payments.—The head of a department, agency, or instru
 
 Federal Jurisdiction.—Any claim by a third party or space flight participant for death, bodily injury, or property damage or loss resulting from an activity carried out under the license shall be the exclusive jurisdiction of the Federal courts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1336, §70112 of title 49; Pub. L. 104–287, §5(74), (93), Oct. 11, 1996, 110 Stat. 3396, 3398; Pub. L. 105–303, title I, §102(a)(12), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 108–492, §2(c)(21), Dec. 23, 2004, 118 Stat. 3981; renumbered §70112 then §50914 of title 51, Pub. L. 111–314, §4(d)(2), (3)(N), Dec. 18, 2010, 124 Stat. 3440, 3441; Pub. L. 114–90, title I, §§103(a)(1), 106, 107, Nov. 25, 2015, 129 Stat. 706, 707.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1336, §70112 of title 49; Pub. L. 104–287, §5(74), (93), Oct. 11, 1996, 110 Stat. 3396, 3398; Pub. L. 105–303, title I, §102(a)(12), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 108–492, §2(c)(21), Dec. 23, 2004, 118 Stat. 3981; renumbered §70112 then §50914 of title 51, Pub. L. 111–314, §4(d)(2), (3)(N), Dec. 18, 2010, 124 Stat. 3440, 3441; Pub. L. 114–90, title I, §§103(a)(1), 106, 107, Nov. 25, 2015, 129 Stat. 706, 707; Pub. L. 118–159, div. E, title LVII, §5702(2), Dec. 23, 2024, 138 Stat. 2461.)
 
 Historical and Revision Notes
 
@@ -147,6 +147,10 @@ This amends 49:70112(a)(3)(B) to clarify a cross-reference in the codification e
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(5). Pub. L. 118–159, §5702(2)(A), substituted "September 30, 2028" for "September 30, 2025".
+
+Subsec. (b)(1)(C). Pub. L. 118–159, §5702(2)(B), substituted "September 30, 2028" for "September 30, 2025".
 
 <b>2015</b>—Subsec. (a)(4)(E). Pub. L. 114–90, §103(a)(1)(A), added subpar. (E).
 

@@ -76,7 +76,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-Section 101(e) of this title, referred to in subsec. (f)(4), was redesignated section 101(f) of this title, and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, §1713(a), Dec. 22, 2023, 137 Stat. 625.
+Section 101(e) of this title, referred to in subsec. (f)(4), was redesignated section 101(f) of this title, and a newsubsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, §1713(a), Dec. 22, 2023, 137 Stat. 625.
 
 #### Prior Provisions
 
@@ -156,7 +156,7 @@ Campaign Plans of Combatant Commands.—The Secretary of Defense shall ensure th
 
 "(j)
 
-Definitions.—In this section \[transferring section 118a of this title to section 118b of this title, amending sections 113, 153, and 2925 of this title, enacting provisions set out as notes under this section andsection 2925 of this title, and amending provisions set out as a note under section 118b of this title\]:
+Definitions.—In this section \[transferring section 118a of this title to section 118b of this title, amending sections 113, 153, and 2925 of this title, enacting provisions set out as notes under this section and section 2925 of this title, and amending provisions set out as a note under section 118b of this title\]:
 
 &emsp;"(1) The term 'military installation resilience' has the meaning given that term in section 101(e) of title 10, United States Code \[now 10 U.S.C. 101(f)\].
 

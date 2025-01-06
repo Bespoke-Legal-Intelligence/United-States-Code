@@ -2,7 +2,7 @@
 
 (a)
 
-Designation.—(1) The Secretary of Defense, in coordination with the Secretaries of the military departments, shall designate each science and technology reinvention laboratory as a Center for Science, Technology, and Engineering Partnership (in this section referred to as "Centers") in the recognized core competencies of the designee.
+Designation.—(1) The Secretary of Defense, in coordination with the Secretaries of the military departments, shall designate each science and technology reinvention laboratory as a Center for Science, Technology, and Engineering Partnership (in this section referred toas "Centers") in the recognized core competencies of the designee.
 
 (2) The Secretary of Defense shall establish a policy to encourage the Secretary of each military department to reengineer management and business processes and adopt best-business and personnel practices at the Centers of the Secretary concerned in connection with the capability requirements of the Centers, so as to serve as recognized leaders in such capabilities throughout the Department of Defense and in the national technology and industrial base.
 
@@ -78,7 +78,7 @@ Availability of Excess Capacities to Private-sector Partners.—Capacities of a 
 
 &emsp;(2) the private-sector entity agrees—
 
-&emsp;&emsp;(A) to reimburse the Department of Defense when required in accordance with the guidance of the Department for the direct and indirect costs (including any rental costs) that are attributable to the use of the capabilities by the private-sector entity, as determined by the Secretary of the military departments; and
+&emsp;&emsp;(A) to reimburse the Department of Defense when required in accordance with the guidance of the Department for the direct and indirect costs (including any rental costs) that are attributable to the use of the capabilities by the private-sector entity, asdetermined by the Secretary of the military departments; and
 
 &emsp;&emsp;(B) to hold harmless and indemnify the United States from—
 

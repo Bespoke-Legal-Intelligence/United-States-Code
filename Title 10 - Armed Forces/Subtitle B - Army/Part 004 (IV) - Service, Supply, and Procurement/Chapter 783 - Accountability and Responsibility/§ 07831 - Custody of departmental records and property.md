@@ -1,6 +1,6 @@
 ### §7831. Custody of departmental records and property
 
-The Secretary of the Army has custody and charge of all books, records, papers, furniture, fixtures, and other property under the lawful control of the executive part of the Department of the Army.
+The Secretary of the Army has custody and charge of all books, records, papers, furniture,fixtures, and other property under the lawful control of the executive part of the Department of the Army.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 272, §4831; renumbered §7831, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 

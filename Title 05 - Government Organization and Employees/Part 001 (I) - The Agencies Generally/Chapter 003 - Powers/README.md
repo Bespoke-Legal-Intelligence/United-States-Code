@@ -25,15 +25,30 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—FEDERAL GOVERNMENT SERVICE DELIVERY
+
+|  |  |
+| :--- | ---: |
+| [321\.](Subchapter%20003%20%28III%29%20-%20Federal%20Government%20Service%20Delivery/%C2%A7%2000321%20-%20Definitions.md) | Definitions. |
+| [322\.](Subchapter%20003%20%28III%29%20-%20Federal%20Government%20Service%20Delivery/%C2%A7%2000322%20-%20Federal%20Government%20service%20delivery.md) | Federal Government service delivery. |
+| [323\.](Subchapter%20003%20%28III%29%20-%20Federal%20Government%20Service%20Delivery/%C2%A7%2000323%20-%20Lead%20agency%20officials%20for%20Government%20service%20delivery.md) | Lead agency officials for Government service delivery. |
+| [324\.](Subchapter%20003%20%28III%29%20-%20Federal%20Government%20Service%20Delivery/%C2%A7%2000324%20-%20Rule%20of%20construction.md) | Rule of construction <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–231, §2(b), Jan. 4, 2025, 138 Stat. 2831, added heading for subchapter III and items 321 to 324.
 
 <b>2019</b>—Pub. L. 115–435, title I, §101(b), Jan. 14, 2019, 132 Stat. 5532, added headings for subchapters I and II and items 311 to 315.
 
 <b>2011</b>—Pub. L. 111–352, §13(a), Jan. 4, 2011, 124 Stat. 3882, added item 306 and struck out former item 306 "Strategic plans".
 
 <b>1993</b>—Pub. L. 103–62, §11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -42,3 +57,4 @@
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Federal Evidence-Building Activities](Subchapter%20002%20%28II%29%20-%20Federal%20Evidence-Building%20Activities/README.md)
+- [Subchapter 003 (III) - Federal Government Service Delivery](Subchapter%20003%20%28III%29%20-%20Federal%20Government%20Service%20Delivery/README.md)

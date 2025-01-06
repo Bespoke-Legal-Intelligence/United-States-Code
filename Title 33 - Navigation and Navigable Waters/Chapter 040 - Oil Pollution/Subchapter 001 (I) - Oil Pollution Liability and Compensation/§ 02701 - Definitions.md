@@ -78,7 +78,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;(vi) notwithstanding subparagraph (B)(ii), a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
 
-&emsp;&emsp;&emsp;&emsp;(I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibilityfor oil handling or disposal practices related to the vessel or facility; or
+&emsp;&emsp;&emsp;&emsp;(I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for oil handling or disposal practices related to the vessel or facility; or
 
 &emsp;&emsp;&emsp;&emsp;(II) exercises control at a level comparable to that of a manager of the vessel or facility, such that the person has assumed or manifested responsibility—
 
@@ -148,7 +148,7 @@ Pipelines.—In the case of a pipeline, any person owning or operating the pipel
 
 &emsp;&emsp;(G)
 
-Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,<sup>1</sup> offshore facility, or foreignoffshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,<sup>1</sup> offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 &emsp;(33) "Secretary" means the Secretary of the department in which the Coast Guard is operating;
 
@@ -218,7 +218,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605,which is set out as a note under section 1453 of Title 16, Conservation.
+Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of Title 16, Conservation.
 
 The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 

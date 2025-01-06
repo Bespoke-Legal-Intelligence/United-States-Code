@@ -4,7 +4,7 @@
 
 #### (1) Referendum required
 
-&emsp;During the 60-day period immediately preceding the proposed effective date of the order issued under section 8703 of this title, the Secretary shall conduct a referendum among manufacturers eligible under subsection (b)(2)subject to assessments under section 8705 of this title.
+&emsp;During the 60-day period immediately preceding the proposed effective date of the order issued under section 8703 of this title, the Secretary shall conduct a referendum among manufacturers eligible under subsection (b)(2) subject to assessments under section 8705 of this title.
 
 #### (2) Approval of order needed
 

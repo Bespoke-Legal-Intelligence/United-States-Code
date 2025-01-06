@@ -74,7 +74,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (D) Purchase of foods
 
-&emsp;&emsp;In carrying out this paragraph, the Secretary shall purchase or offer to purchase those traditional foods that may be procured cost-effectively.
+&emsp;&emsp;In carrying out this paragraph, the Secretary shall purchase or offer to purchasethose traditional foods that may be procured cost-effectively.
 
 #### (E) Authorization of appropriations
 
@@ -92,7 +92,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (c) Regulations; transmittal of copy of regulations to Congressional committees prior to issuance
 
-The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with theprocedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
+The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
 (Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, §241(b)(1), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§4004(a), 4030(b), Feb. 7, 2014, 128 Stat. 785, 814; Pub. L. 115–334, title IV, §4003(a), Dec. 20, 2018, 132 Stat. 4624.)
 
@@ -152,7 +152,7 @@ Subsec. (c). Pub. L. 95–113 inserted provisions relating to transmittal of reg
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted "the State agency" and "the charge to be paid for such allotment by eligible households" for "an appropriate State agency" and "their normal expenditures for food", respectively, and struck out "more nearly" before "to obtain".
 
-Subsec. (b). Pub. L. 91–671 substituted "operation" for "effect", "federally donated foods" for "federally owned foods" where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp programand distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
+Subsec. (b). Pub. L. 91–671 substituted "operation" for "effect", "federally donated foods" for "federally owned foods" where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp program and distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -282,7 +282,7 @@ Study.—The Secretary \[of Agriculture\] shall conduct a study to determine the
 
 "(3)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Feb. 7, 2014\], the Secretaryshall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+Report.—Not later than 18 months after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
 
 &emsp;"(A) contains a list of programs, services, functions, and activities with respect to which it would be feasible to be administered by a tribal organization;
 

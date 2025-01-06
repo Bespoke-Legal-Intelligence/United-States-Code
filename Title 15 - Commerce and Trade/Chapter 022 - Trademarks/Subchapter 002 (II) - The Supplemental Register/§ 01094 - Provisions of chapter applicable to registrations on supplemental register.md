@@ -22,7 +22,7 @@ Act Mar. 19, 1920, ch. 104, §6, 41 Stat. 535.
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
+Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020,and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
 
 #### Effective Date of 1998 Amendment
 

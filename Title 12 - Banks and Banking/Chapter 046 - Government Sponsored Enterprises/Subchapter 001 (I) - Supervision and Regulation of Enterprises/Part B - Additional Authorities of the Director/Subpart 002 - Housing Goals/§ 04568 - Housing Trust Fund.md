@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(iv) The ratio of very low-income renter households in the State paying more than 50 percent of income on rent relative to the aggregate number of very low-income renter households paying more than 50 percent of income on rent in all the States.
 
-&emsp;&emsp;&emsp;(v) The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposes of this subclause,<sup>1</sup> the term "cost of construction"—
+&emsp;&emsp;&emsp;(v) The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposesof this subclause,<sup>1</sup> the term "cost of construction"—
 
 &emsp;&emsp;&emsp;&emsp;(I) means the cost of construction or building rehabilitation in the State relative to the national cost of construction or building rehabilitation; and
 
@@ -312,7 +312,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;The term "shortage of standard rental units both affordable and available to extremely low-income renter households" means for any State or other geographical area the gap between—
 
-&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with arent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Secretary that are occupied by extremely low-income renter households or are vacant for rent; and
+&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Secretary that are occupied by extremely low-income renter households or are vacant for rent; and
 
 &emsp;&emsp;&emsp;(ii) the number of extremely low-income renter households.
 
@@ -352,7 +352,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The regulations issued under this subsection shall include—
 
-&emsp;&emsp;(A) a requirement that the Secretary ensure that the use of grant amounts under this section by States or State designated entities is audited not less than annually to ensure compliance with this section;
+&emsp;&emsp;(A) a requirement that the Secretary ensure that the use of grant amounts underthis section by States or State designated entities is audited not less than annually to ensure compliance with this section;
 
 &emsp;&emsp;(B) authority for the Secretary to audit, provide for an audit, or otherwise verify a State or State designated entity's activities to ensure compliance with this section;
 

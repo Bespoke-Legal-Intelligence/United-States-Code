@@ -32,7 +32,7 @@ It is the sense of Congress that—
 
 #### (1) In general
 
-&emsp;In order to promote a strong, lasting foundation for the national innovation ecosystem and increase the positive economic and social impact of federally funded research, the Director of the Foundation shall set forth eligibility requirements and carry out a program to award grants for entrepreneurship and commercialization education, training, and mentoring.
+&emsp;In order to promote a strong, lasting foundation for the national innovation ecosystemand increase the positive economic and social impact of federally funded research, the Director of the Foundation shall set forth eligibility requirements and carry out a program to award grants for entrepreneurship and commercialization education, training, and mentoring.
 
 #### (2) Expansion of I-Corps
 
@@ -60,7 +60,7 @@ It is the sense of Congress that—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Director, in consultation with the Director of theSmall Business Innovation Research Program, shall make funds available for competitive grants, including to I-Corps participants, to help support—
+&emsp;&emsp;Subject to subparagraph (B), the Director, in consultation with the Director of the Small Business Innovation Research Program, shall make funds available for competitive grants, including to I-Corps participants, to help support—
 
 &emsp;&emsp;&emsp;(i) prototype or proof-of-concept development; and
 

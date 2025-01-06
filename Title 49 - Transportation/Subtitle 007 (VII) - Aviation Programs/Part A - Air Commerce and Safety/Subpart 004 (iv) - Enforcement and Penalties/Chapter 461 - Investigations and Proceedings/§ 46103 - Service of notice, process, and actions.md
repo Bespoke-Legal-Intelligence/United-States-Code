@@ -16,17 +16,27 @@ Service.—(1) Service may be made—
 
 &emsp;(A) by personal service;
 
-&emsp;(B) on a designated agent; or
+&emsp;(B) on a designated agent;
 
-&emsp;(C) by certified or registered mail to the person to be served or the designated agent of the person.
+&emsp;(C) by certified or registered mail to the person to be served or the designated agent of the person;
+
+&emsp;(D) by electronic or facsimile transmission to the person to be served or the designated agent of the person; or
+
+&emsp;(E) as designated by regulation or guidance published in the Federal Register.
 
 (2) The date of service made by certified or registered mail is the date of mailing.
 
+(3) The date of service made by an electronic or facsimile method is—
+
+&emsp;(A) the date an electronic or facsimile transmission is sent; or
+
+&emsp;(B) the date a notification is sent by an electronic or facsimile method that a notice, process, or action is immediately available and accessible in an electronic database.
+
 (c)
 
-Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.
+Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent or at the electronic or facsimile address designated by the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641; Pub. L. 115–254, div. K, title I, §1991(f)(1)–(4), Oct. 5, 2018, 132 Stat. 3642.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641; Pub. L. 115–254, div. K, title I, §1991(f)(1)–(4), Oct. 5, 2018, 132 Stat. 3642; Pub. L. 118–63, title II, §219, May 16, 2024, 138 Stat. 1057.)
 
 Historical and Revision Notes
 
@@ -89,6 +99,12 @@ In subsection (c), the words "with like effect as if made personally upon such c
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1)(D), (E). Pub. L. 118–63, §219(1)(A), added subpars. (D) and (E).
+
+Subsec. (b)(3). Pub. L. 118–63, §219(1)(B), added par. (3).
+
+Subsec. (c). Pub. L. 118–63, §219(2), substituted "Service on an agent designated under this section shall be made at the office or usual place of residence of the agent or at the electronic or facsimile address designated by the agent." for "Service on an agent designated under this section shall be made at the office or usual place of residence of the agent."
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal Aviation Administration)" for "by the Administrator)".
 

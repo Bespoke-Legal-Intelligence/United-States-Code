@@ -30,6 +30,10 @@ The Congress finds the following:
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–70, §1, July 12, 2024, 138 Stat. 1487, provided that: "This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the 'Promoting a Resolution to the Tibet-China Dispute Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–145, §1(a), June 17, 2020, 134 Stat. 648, provided that: "This Act \[enacting provisions set out as a note under this section\] may be cited as the 'Uyghur Human Rights Policy Act of 2020'."
@@ -44,7 +48,7 @@ Pub. L. 106–286, div. B, title II, §201(a), Oct. 10, 2000, 114 Stat. 891, pro
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs andBorder Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Ending China's Developing Nation Status
 
@@ -104,7 +108,7 @@ Report on development status in current treaty negotiations.—Not later than 18
 
 Report on development status in existing organizations and treaties.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate committees of Congress that—
 
-&emsp;&emsp;"(A) identifies all international organizations or treaties of which the United States is a member, that provide different treatment or standards forenforcement based on the respective development status of the member states or states parties;
+&emsp;&emsp;"(A) identifies all international organizations or treaties of which the United States is a member, that provide different treatment or standards for enforcement based on the respective development status of the member states or states parties;
 
 &emsp;&emsp;"(B) describes the mechanisms for changing the country designation for each relevant treaty or organization; and
 
@@ -166,7 +170,7 @@ Report on special and differential treatment at the world trade organization.—
 
 &emsp;&emsp;&emsp;"(II) account for not less than 0.5 percent of global merchandise trade annually for each of the most recently completed 5 calendar years; and
 
-&emsp;&emsp;"(E) describes how the WTO provides different treatment or standards for enforcement based on the self-declared development status of the WTO members.
+&emsp;&emsp;"(E) describes how the WTO provides different treatment or standards for enforcement based onthe self-declared development status of the WTO members.
 
 &emsp;"(2)
 
@@ -248,7 +252,7 @@ Elements.—The strategy developed under subsection (c) shall include the follow
 
 &emsp;"(2) A comprehensive description and evaluation—
 
-&emsp;&emsp;"(A) of 'pairing assistance' and 'poverty alleviation' or any other government labor scheme that includes the forced labor of Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups outside of the Xinjiang Uyghur Autonomous Region or similar programs of the People's Republic of China in which work or services are extracted from Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups through the threat of penalty or for which the Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups have not offered themselves voluntarily; and
+&emsp;&emsp;"(A) of 'pairing assistance' and 'poverty alleviation' or any other government labor scheme that includes the forced labor of Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups outside of the Xinjiang Uyghur Autonomous Region or similar programs of the People's Republic of China in which work or services are extractedfrom Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups through the threat of penalty or for which the Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups have not offered themselves voluntarily; and
 
 &emsp;&emsp;"(B) that includes—
 
@@ -280,7 +284,7 @@ Elements.—The strategy developed under subsection (c) shall include the follow
 
 &emsp;&emsp;"(A) due diligence, effective supply chain tracing, and supply chain management measures to ensure that such importers do not import any goods mined, produced, or manufactured wholly or in part with forced labor from the People's Republic of China, especially from the Xinjiang Uyghur Autonomous Region;
 
-&emsp;&emsp;"(B) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China were not mined, produced, ormanufactured wholly or in part in the Xinjiang Uyghur Autonomous Region; and
+&emsp;&emsp;"(B) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China were not mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region; and
 
 &emsp;&emsp;"(C) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China, including goods detained or seized pursuant to section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), were not mined, produced, or manufactured wholly or in part with forced labor.
 
@@ -338,7 +342,7 @@ Exceptions.—The Commissioner shall apply the presumption under subsection (a) 
 
 "(c)
 
-Report Required.—The Commissioner shall submit to the appropriate congressional committees and make available to the public, not later than 30 days after making a determination of an exception under subsection (b), a report identifying the good and the evidence considered under subsection (b).
+Report Required.—The Commissioner shall submit to the appropriate congressional committees and make available to the public, not later than 30 daysafter making a determination of an exception under subsection (b), a report identifying the good and the evidence considered under subsection (b).
 
 "(d)
 
@@ -474,7 +478,7 @@ United states person.—The term 'United States person' means—
 
 #### Imposition of Sanctions
 
-Pub. L. 116–145, §6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 117–78, §5(a), Dec. 23, 2021, 135 Stat. 1531, provided that:
+Pub. L. 116–145, §6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 117–78, §5(a), Dec. 23, 2021, 135 Stat. 1531; Pub. L. 118–159, div. G, title LXXVIII, §7812(h), Dec. 23, 2024, 138 Stat. 2566, provided that:
 
 "(a)
 
@@ -602,7 +606,7 @@ Termination of Sanctions.—The President may terminate the application of sanct
 
 "(h)
 
-Sunset.—This section, and any sanctions imposed under this section, shall terminate on the date that is 5 years after the date of the enactment of this Act \[June 17, 2020\].
+Sunset.—This section, and any sanctions imposed under this section, shall terminate on the date that is 10 years after the date of the enactment of this Act \[June 17, 2020\].
 
 "(i)
 
@@ -654,7 +658,7 @@ Agreement Defined.—For purposes of this section, the term 'Agreement' means th
 
 Interagency Working Group.—The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The working group shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
 
-&emsp;"(1) Assisting the Secretary of State and other appropriate officials in setting standards under theAgreement for science and technology transfers between the United States and the People's Republic of China.
+&emsp;"(1) Assisting the Secretary of State and other appropriate officials in setting standards under the Agreement for science and technology transfers between the United States and the People's Republic of China.
 
 &emsp;"(2) Monitoring ongoing programs and activities under the Agreement and recommending future programs and activities under the Agreement.
 
@@ -666,6 +670,24 @@ Interagency Working Group.—The President shall establish an interagency workin
 
 #### Tibetan Policy
 
+Pub. L. 118–70, §3, July 12, 2024, 138 Stat. 1488, provided that: "It is the policy of the United States—
+
+&emsp;"(1) that the Tibetan people are a people with a distinct religious, cultural, linguistic, and historical identity;
+
+&emsp;"(2) that the dispute between Tibet and the People's Republic of China must be resolved in accordance with international law, including the United Nations Charter, by peaceful means, through dialogue without preconditions;
+
+&emsp;"(3) that the People's Republic of China should cease its propagation of disinformation about the history of Tibet, the Tibetan people, and Tibetan institutions, including that of the Dalai Lama;
+
+&emsp;"(4) to encourage the People's Republic of China to ratify the International Covenant on Civil and Political Rights and uphold all its commitments under the International Covenant on Economic, Social and Cultural Rights; and
+
+&emsp;"(5) in accordance with the Tibetan Policy and Support Act of 2020 \[Pub. L. 116–260, div. FF, title III, subtitle E (§§341–346), see Tables for classification\]—
+
+&emsp;&emsp;"(A) to promote substantive dialogue without pre-conditions, between the Government of the People's Republic of China and the Dalai Lama, his or her representatives, or democratically elected leaders of the Tibetan community, or explore activities to improve prospects for dialogue, that leads to a negotiated agreement on Tibet;
+
+&emsp;&emsp;"(B) to coordinate with other governments in multilateral efforts towards the goal of a negotiated agreement on Tibet; and
+
+&emsp;&emsp;"(C) to encourage the Government of the People's Republic of China to address the aspirations of the Tibetan people with regard to their distinct historical, cultural, religious, and linguistic identity."
+
 Pub. L. 116–260, div. FF, title III, §342, Dec. 27, 2020, 134 Stat. 3122, provided that:
 
 "(a)
@@ -676,7 +698,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(2) On March 19, 2019, Chinese Ministry of Affairs spokesperson reiterated that the 'reincarnation of living Buddhas including the Dalai Lama must comply with Chinese laws and regulations and follow religious rituals and historical conventions'.
 
-&emsp;"(3) The Government of the People's Republic of China has interfered in the process of recognizing a successor or reincarnation of Tibetan Buddhist leaders, including in 1995 by arbitrarily detaining Gedhun Choekyi Nyima, a 6-year old boy who was identified as the 11th Panchen Lama, and purporting to install its own candidate as the Panchen Lama.
+&emsp;"(3) The Government of the People's Republic of China has interfered in the process of recognizing asuccessor or reincarnation of Tibetan Buddhist leaders, including in 1995 by arbitrarily detaining Gedhun Choekyi Nyima, a 6-year old boy who was identified as the 11th Panchen Lama, and purporting to install its own candidate as the Panchen Lama.
 
 &emsp;"(4) The 14th Dalai Lama, Tenzin Gyatso, issued a statement on September 24, 2011, explaining the traditions and spiritual precepts of the selection of Dalai Lamas, setting forth his views on the considerations and process for selecting his successor, and providing a response to the Chinese government's claims that only the Chinese government has the ultimate authority in the selection process of the Dalai Lama.
 
@@ -712,7 +734,7 @@ Holding Chinese Officials Responsible for Religious Freedom Abuses Targeting Tib
 
 Department of State Programming to Promote Religious Freedom for Tibetan Buddhists.—Consistent with section 401 of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281; 130 Stat. 1436), the Ambassador-at-Large for International Religious Freedom should support efforts to protect and promote international religious freedom in China and for programs to protect Tibetan Buddhism in China and elsewhere."
 
-Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, §715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, §13, Dec. 18, 2017, 131 Stat. 2041; Pub. L. 116–260, div. FF, title III, §341, Dec. 27, 2020, 134 Stat. 3119, provided that:
+Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, §715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, §13, Dec. 18, 2017, 131 Stat. 2041; Pub. L. 116–260, div. FF, title III, §341, Dec. 27, 2020, 134 Stat. 3119; Pub. L. 118–70, §5, July 12, 2024, 138 Stat. 1489, provided that:
 
 #### "SEC. 611. SHORT TITLE.
 
@@ -746,9 +768,11 @@ Periodic Reports.—Not later than 180 days after the date of the enactment of t
 
 &emsp;"(1) the steps taken by the President and the Secretary in accordance with subsection (a)(1) to implement the Tibetan Policy Act of 2002;
 
-&emsp;"(2) the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives or a successor selected by a method of the 14th Dalai Lama's own choosing or the representatives of such successor; and
+&emsp;"(2) the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives or a successor selected by a method of the 14th Dalai Lama's own choosing or the representatives of such successor;
 
-&emsp;"(3) the steps taken by the United States Government to promote the human rights and distinct religious, cultural, linguistic, and historical identity of the Tibetan people, including the right of the Tibetan people to select, educate, and venerate their own religious leaders in accordance with their established religious practice and system.
+&emsp;"(3) the steps taken by the United States Government to promote the human rights and distinct religious, cultural, linguistic, and historical identity of the Tibetan people, including the right of the Tibetan people to select, educate, and venerate their own religious leaders in accordance with their established religious practice and system; and
+
+&emsp;"(4) efforts to counter disinformation about Tibet from the Government of the People's Republic of China and the Chinese Communist Party, includingdisinformation about the history of Tibet, the Tibetan people, and Tibetan institutions, including that of the Dalai Lama.
 
 #### "SEC. 614. REPORTING ON TIBET.
 
@@ -908,19 +932,37 @@ Duties and Responsibilities.—The Special Coordinator shall—
 
 &emsp;"(5) make efforts to establish contacts in the foreign ministries of other countries to pursue a negotiated solution for Tibet;
 
-&emsp;"(6) provide guidance with respect to all projects carried out pursuant to assistance provided under section 616(e);
+&emsp;"(6) work with relevant bureaus of the Department of State and the United States Agency for International Development to ensure that United States Government statements and documents counter, as appropriate, disinformation about Tibet from the Government of the People's Republic of China and the Chinese Communist Party, including disinformation about the history of Tibet, the Tibetan people, and Tibetan institutions, including that of the Dalai Lama;
 
-&emsp;"(7) seek to establish international diplomatic coalitions to—
+&emsp;"(7) provide guidance with respect to all projects carried out pursuant to assistance provided under section 616(e);
+
+&emsp;"(8) seek to establish international diplomatic coalitions to—
 
 &emsp;&emsp;"(A) oppose any effort by the Government of the People's Republic of China to select, educate, and venerate Tibetan Buddhist religious leaders in a manner inconsistent with the principle that the succession or identification of Tibetan Buddhist lamas, including the Dalai Lama, should occur without interference, in a manner consistent with traditional practice; and
 
 &emsp;&emsp;"(B) ensure that the identification and installation of Tibetan Buddhist religious leaders, including any future Dalai Lama, is determined solely within the Tibetan Buddhist faith community, in accordance with the internationally-recognized right to religious freedom; and
 
-&emsp;"(8) take all appropriate steps to ensure adequate resources, staff, and bureaucratic support to fulfill the duties and responsibilities of the Special Coordinator.
+&emsp;"(9) take all appropriate steps to ensure adequate resources, staff, and bureaucratic support to fulfill the duties and responsibilities of the Special Coordinator.
 
 "(e)
 
-Personnel.—The Secretary shall ensure that the Office of the Special Coordinator is adequately staffed at all times to assist in the management of the responsibilities of this section."
+Personnel.—The Secretary shall ensure that the Office of the Special Coordinator is adequately staffed at all times to assist in the management of the responsibilities of this section.
+
+#### "SEC. 622. DEFINITION.
+
+"For purposes of this Act, the term 'Tibet' refers to the following areas:
+
+&emsp;"(1) The Tibet Autonomous Region.
+
+&emsp;"(2) The areas that the Government of the People's Republic of China designated as Tibetan Autonomous, as of 2018, as follows:
+
+&emsp;&emsp;"(A) Kanlho (Gannan) Tibetan Autonomous Prefecture, and Pari (Tianzhu) Tibetan Autonomous County located in Gansu Province.
+
+&emsp;&emsp;"(B) Golog (Guoluo) Tibetan Autonomous Prefecture, Malho (Huangnan) Tibetan Autonomous Prefecture, Tsojang (Haibei) Tibetan Autonomous Prefecture, Tsolho (Hainan) Tibetan Autonomous Prefecture, Tsonub (Haixi) Mongolian and Tibetan Autonomous Prefecture, and Yulshul (Yushu) Tibetan Autonomous Prefecture, located in Qinghai Province.
+
+&emsp;&emsp;"(C) Garze (Ganzi) Tibetan Autonomous Prefecture, Ngawa (Aba) Tibetan and Qiang Autonomous Prefecture, and Muli (Mili) Tibetan Autonomous County, located in Sichuan Province.
+
+&emsp;&emsp;"(D) Dechen (Diqing) Tibetan Autonomous Prefecture, located in Yunnan Province."
 
 \[For definitions of "Secretary" and "appropriate congressional committees" as used in subtitle B of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

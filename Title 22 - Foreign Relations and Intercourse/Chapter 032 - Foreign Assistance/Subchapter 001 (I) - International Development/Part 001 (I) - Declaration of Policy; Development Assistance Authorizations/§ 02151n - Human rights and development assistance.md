@@ -10,7 +10,7 @@ In determining whether this standard is being met with regard to funds allocated
 
 #### (b) <sup>1</sup> Protection of children from exploitation
 
-No assistance may be provided under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 ofthis title, to any government failing to take appropriate and adequate measures, within their means, to protect children from exploitation, abuse or forced conscription into military or paramilitary services.
+No assistance may be provided under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 of this title, to any government failing to take appropriate and adequate measures, within their means, to protect children from exploitation, abuse or forced conscription into military or paramilitary services.
 
 #### (c) Factors considered
 
@@ -88,7 +88,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;&emsp;(i) whether government authorities of each such country participate in, facilitate, or condone such violations of the freedom of the press; and
 
-&emsp;&emsp;&emsp;(ii) what steps the government of each such country has taken to preserve the safety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
+&emsp;&emsp;&emsp;(ii) what steps the government of each such country has taken to preserve thesafety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
 
 &emsp;(13) Wherever applicable, a description of the nature and extent of acts of transnational repression that occurred during the preceding year, including identification of—
 
@@ -270,7 +270,7 @@ Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:"The ame
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1986 Amendment
 

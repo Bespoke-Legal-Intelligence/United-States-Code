@@ -158,7 +158,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 "The purpose of this title is to:
 
-&emsp;"(1) Ensure that cruise vessels operating in the waters of the Alexander Archipelago and the navigable waters of the United States within the State of Alaska and within the Kachemak Bay National Estuarine Research Reserve comply with all applicable environmental laws, including, but not limited to, the Federal Water Pollution Control Act, as amended (33 U.S.C. 1251 et seq.), the Act to Prevent Pollution from Ships, as amended (33 U.S.C. 1901 et seq.), and the protections contained within this title.
+&emsp;"(1) Ensure that cruise vessels operating in the waters of the Alexander Archipelago and the navigablewaters of the United States within the State of Alaska and within the Kachemak Bay National Estuarine Research Reserve comply with all applicable environmental laws, including, but not limited to, the Federal Water Pollution Control Act, as amended (33 U.S.C. 1251 et seq.), the Act to Prevent Pollution from Ships, as amended (33 U.S.C. 1901 et seq.), and the protections contained within this title.
 
 &emsp;"(2) Ensure that cruise vessels do not discharge untreated sewage within the waters of the Alexander Archipelago, the navigable waters of the United States in the State of Alaska, or within the Kachemak Bay National Estuarine Research Reserve.
 
@@ -222,7 +222,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### "SEC. 1407. CRUISE VESSEL EFFLUENT STANDARDS.
 
-"Pursuant to this title and the authority of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, the Administrator may promulgate effluent standards for treated sewage and graywater from cruise vessels operating in the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. Regulations implementing such standards shall take into account the best available scientific information on the environmental effects of the regulated discharges and the availability of new technologies for wastewater treatment. Until such time as the Administrator promulgates such effluent standards, treated sewage effluent discharges shall not have a fecal coliform bacterial count of greater than 200 per 100 milliliters nor suspended solids greater than 150 milligrams per liter.
+"Pursuant to this title and the authority of the Federal Water Pollution Control Act \[33 U.S.C. 1251 etseq.\], as amended, the Administrator may promulgate effluent standards for treated sewage and graywater from cruise vessels operating in the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. Regulations implementing such standards shall take into account the best available scientific information on the environmental effects of the regulated discharges and the availability of new technologies for wastewater treatment. Until such time as the Administrator promulgates such effluent standards, treated sewage effluent discharges shall not have a fecal coliform bacterial count of greater than 200 per 100 milliliters nor suspended solids greater than 150 milligrams per liter.
 
 #### "SEC. 1408. REPORTS.
 
@@ -282,7 +282,7 @@ Judicial review.—Any person against whom a civil penalty is assessed under thi
 
 &emsp;&emsp;"(A) in the case of assessment of a class I civil penalty, in the United States District Court for the District of Columbia or in the District of Alaska; or
 
-&emsp;&emsp;"(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remandsuch order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+&emsp;&emsp;"(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 &emsp;"(7)
 
@@ -290,7 +290,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;&emsp;"(A) after the assessment has become final, or
 
-&emsp;&emsp;"(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
+&emsp;&emsp;"(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in anamount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
 &emsp;"(8)
 
@@ -358,7 +358,7 @@ Copies of orders, service.—A copy of any order issued under this subsection sh
 
 "(h)
 
-Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for anyviolation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
+Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
 
 #### "SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.
 
@@ -366,7 +366,7 @@ Civil Actions.—The Administrator is authorized to commence a civil action for 
 
 #### "SEC. 1411. SAVINGS CLAUSE.
 
-"(a) Nothing in this title shall be construed as restricting, affecting, or amending any other law or the authority of any department, instrumentality, or agency of the United States.
+"(a) Nothing in this title shall be construed as restricting, affecting, or amending any other law or theauthority of any department, instrumentality, or agency of the United States.
 
 "(b) Nothing in this title shall in any way affect or restrict, or be construed to affect or restrict, the authority of the State of Alaska or any political subdivision thereof—
 

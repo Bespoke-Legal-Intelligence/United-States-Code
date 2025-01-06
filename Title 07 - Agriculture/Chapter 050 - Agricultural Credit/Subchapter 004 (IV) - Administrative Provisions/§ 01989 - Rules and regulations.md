@@ -26,7 +26,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 #### (3) Condition of certification
 
-&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each certified lender to ensure that the conditions of the certification are being met.
+&emsp;As a condition of the certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection, using standards that are not less stringent than generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance ofeach certified lender to ensure that the conditions of the certification are being met.
 
 #### (4) Effect of certification
 

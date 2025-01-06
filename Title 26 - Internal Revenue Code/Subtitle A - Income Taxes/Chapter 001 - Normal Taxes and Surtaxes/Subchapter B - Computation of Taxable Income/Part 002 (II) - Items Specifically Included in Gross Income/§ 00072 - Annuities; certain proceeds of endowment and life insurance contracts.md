@@ -260,7 +260,7 @@
 
 #### (iii) Adjustment to investment in contract of transferee
 
-&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in thecontract of the transferee in such contract shall be increased by the amount so included.
+&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in the contract of the transferee in such contract shall be increased by the amount so included.
 
 #### (5) Retention of existing rules in certain cases
 
@@ -440,7 +440,7 @@ For purposes of this section, the term "endowment contract" includes a face-amou
 
 &emsp;&emsp;(B) the aggregate premiums or other consideration paid for purposes of subsection (e)(6) (relating to certain amounts not received as an annuity),
 
-> &emsp;any amount allowed as a deduction with respect to the contract under section 404 which was paid while the employee was an employee within the meaning of section 401(c)(1) shall be treated as consideration contributed by the employer, and there shall not be taken into account any portion of the premiums or other consideration for the contract paid while the employee was an owner-employee which is properly allocable (as determined under regulations prescribed by the Secretary) to the cost of life, accident, health, or other insurance.
+> &emsp;any amount allowed as a deduction with respect to the contract under section 404 which was paid while the employee was an employee within the meaning of section 401(c)(1) shall be treated as consideration contributed by the employer, and there shall not be taken into account any portion of the premiums or other consideration for the contract paid while the employee was an owner-employee which is properly allocable (as determined under regulations prescribed by the Secretary) to thecost of life, accident, health, or other insurance.
 
 #### (3) Life insurance contracts
 
@@ -470,7 +470,7 @@ For purposes of this section, the term "endowment contract" includes a face-amou
 
 #### (7) Meaning of disabled
 
-&emsp;For purposes of this section, an individual shall be considered to be disabled if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or to be oflong-continued and indefinite duration. An individual shall not be considered to be disabled unless he furnishes proof of the existence thereof in such form and manner as the Secretary may require.
+&emsp;For purposes of this section, an individual shall be considered to be disabled if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or to be of long-continued and indefinite duration. An individual shall not be considered to be disabled unless he furnishes proof of the existence thereof in such form and manner as the Secretary may require.
 
 #### \[(8) Repealed. Pub. L. 97–248, title II, §236(b)(1), Sept. 3, 1982, 96 Stat. 510\]
 
@@ -576,7 +576,7 @@ For purposes of this section—
 
 #### (C) Requirement of level amortization
 
-&emsp;&emsp;Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan (with payments not less frequently than quarterly) is required over the term of the loan.
+&emsp;&emsp;Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan\(with payments not less frequently than quarterly) is required over the term of the loan.
 
 #### (D) Prohibition of loans through credit cards and other similar arrangements
 
@@ -676,7 +676,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) the terms "applicable date", "qualified disaster", "qualified disaster area", and "incident period" have the meaning given such terms under subsection (t)(11), and
+&emsp;&emsp;&emsp;&emsp;(I) the terms "applicable date", "qualified disaster", "qualified disaster area",and "incident period" have the meaning given such terms under subsection (t)(11), and
 
 &emsp;&emsp;&emsp;&emsp;(II) the term "applicable period" has the meaning given such term under subsection (t)(8).
 
@@ -1032,7 +1032,7 @@ For purposes of this section—
 
 #### (iii) Dollar limitation
 
-&emsp;&emsp;&emsp;The amount which may be treated as an emergency personal expense distribution by any individual in any calendar yearshall not exceed the lesser of $1,000 or an amount equal to the excess of—
+&emsp;&emsp;&emsp;The amount which may be treated as an emergency personal expense distribution by any individual in any calendar year shall not exceed the lesser of $1,000 or an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the individual's total nonforfeitable accrued benefit under the plan (the individual's total interest in the plan in the case of an individual retirement plan), determined as of the date of each such distribution, over
 
@@ -1052,7 +1052,7 @@ For purposes of this section—
 
 #### (vii) Limitation on subsequent distributions
 
-&emsp;&emsp;&emsp;If a distribution is treated as an emergency personal expense distribution in any calendar year with respect to a plan of the employee, no amount may be treated as such a distribution during the immediately following 3 calendar years with respect to such plan unless—
+&emsp;&emsp;&emsp;If a distribution is treated as an emergency personal expense distribution in anycalendar year with respect to a plan of the employee, no amount may be treated as such a distribution during the immediately following 3 calendar years with respect to such plan unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) such previous distribution is fully repaid to such plan pursuant to clause (vi), or
 
@@ -1094,7 +1094,7 @@ For purposes of this section—
 
 #### (iv) Treatment of plan distributions
 
-&emsp;&emsp;&emsp;If a distribution to an individual would (without regard to clause (ii)) be an eligible distribution to a domestic abuse victim, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as an eligible distribution to a domestic abuse victim, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group whichincludes the employer, determined as provided in subparagraph (H)(iv)(II)) to such individual exceeds the limitation under clause (ii).
+&emsp;&emsp;&emsp;If a distribution to an individual would (without regard to clause (ii)) be an eligible distribution to a domestic abuse victim, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as an eligible distribution to a domestic abuse victim, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer, determined as provided in subparagraph (H)(iv)(II)) to such individual exceeds the limitation under clause (ii).
 
 #### (v) Amount distributed may be repaid
 
@@ -1210,7 +1210,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified higher education expenses" means qualified higher education expenses (as defined in section 529(e)(3)) for education furnished to—
+&emsp;&emsp;The term "qualified higher education expenses" means qualified higher educationexpenses (as defined in section 529(e)(3)) for education furnished to—
 
 &emsp;&emsp;&emsp;(i) the taxpayer,
 
@@ -1254,7 +1254,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
 
-&emsp;&emsp;&emsp;&emsp;(II) subsection (h) or (k) of section 1034 <sup>5</sup> (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 <sup>5</sup> (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(II) subsection (h) or (k) of section 1034 <sup>4</sup> (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 <sup>4</sup> (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
 
 #### (ii) Principal residence
 
@@ -1296,7 +1296,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) which was to be used to purchase or construct a principal residence in a qualified disaster area, but which was not so used on account of the qualified disaster with respect to such area, and
 
-&emsp;&emsp;&emsp;&emsp;(III) which was received during the period beginning on the date which is 180 days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.
+&emsp;&emsp;&emsp;&emsp;(III) which was received during the period beginning on the date which is 180days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.
 
 #### (iii) Applicable period
 
@@ -1354,7 +1354,7 @@ For purposes of this section—
 
 #### (ii) Treatment of repayments of distributions from eligible retirement plans other than IRAs
 
-&emsp;&emsp;&emsp;For purposes of this title, if a contribution is made pursuant to clause (i) with respect to a qualified disaster recovery distribution from a plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the qualified disaster recovery distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+&emsp;&emsp;&emsp;For purposes of this title, if a contribution is made pursuant to clause (i) with respect to a qualified disaster recovery distribution from a plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of thecontribution, be treated as having received the qualified disaster recovery distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
 
 #### (iii) Treatment of repayments for distributions from IRAs
 
@@ -1440,7 +1440,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the sum of the net surrender value of the contract as of the close of the taxable year plus all distributions under the contract received during the taxable year or any prior taxable year, reduced by
 
-&emsp;&emsp;&emsp;(ii) the sum of the amount of net premiums under the contract for the taxable year and prior taxable years and amounts includible in gross income for prior taxable years with respect to such contract under this subsection.
+&emsp;&emsp;&emsp;(ii) the sum of the amount of net premiums under the contract for the taxableyear and prior taxable years and amounts includible in gross income for prior taxable years with respect to such contract under this subsection.
 
 > &emsp;&emsp;Where necessary to prevent the avoidance of this subsection, the Secretary may substitute "fair market value of the contract" for "net surrender value of the contract" each place it appears in the preceding sentence.
 
@@ -1492,7 +1492,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible ingross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
+&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible in gross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
 
 #### (2) Applicable nontaxable contribution
 
@@ -1524,7 +1524,11 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For limitation on adjustments to basis of annuity contracts sold, see section 1021.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 116–94, div. O, title I, §§108(a), 113(a), Dec. 20, 2019, 133 Stat. 3149, 3154; Pub. L. 117–328, div. T, title I, §§115(a), 127(e)(2), (3), title III, §§308(a), (b), 311(a), 314(a), 323(a), (b), (d), 326(a), 329(a), 330(a), 331(a)(1), (2), (b)(1), (c)(1), 332(b)(1), 333(a), 334(c), title IV, §401(b)(1), Dec. 29, 2022, 136 Stat. 5296, 5329, 5345, 5347, 5349, 5356, 5357, 5359–5361, 5364, 5365, 5367, 5368, 5370, 5388.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110;Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 116–94, div. O, title I, §§108(a), 113(a), Dec. 20, 2019, 133 Stat. 3149, 3154; Pub. L. 117–328, div. T, title I, §§115(a), 127(e)(2), (3), title III, §§308(a), (b), 311(a), 314(a), 323(a), (b), (d), 326(a), 329(a), 330(a), 331(a)(1), (2), (b)(1), (c)(1), 332(b)(1), 333(a), 334(c), title IV, §401(b)(1), Dec. 29, 2022, 136 Stat. 5296, 5329, 5345, 5347, 5349, 5356, 5357, 5359–5361, 5364, 5365, 5367, 5368, 5370, 5388.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendment of Subsection (t)(2)
 
@@ -1560,7 +1564,7 @@ The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)
 
 Section 1034 (as in effect on the day before the date of the enactment of this paragraph), referred to in subsec. (t)(8)(D)(i)(II), means section 1034 of this title as in effect on the day before Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, §312(b), Aug. 5, 1997, 111 Stat. 839.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (t)(11)(E), (F)(i)(I), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. Section 401 of the Act is classified to section 5170 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (t)(11)(E), (F)(i)(I), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. Section 401 of the Act is classified to section 5170 of Title 42. For complete classification of this Act to the Code,see Short Title note set out under section 5121 of Title 42 and Tables.
 
 Section 301 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020, referred to in subsec. (t)(11)(F)(i)(II), is section 301 of Pub. L. 116–260, div. EE, title III, Dec. 27, 2020, 134 Stat. 3070, which is not classified to the Code.
 
@@ -1728,7 +1732,7 @@ Subsec. (t)(6). Pub. L. 104–188, §1421(b)(4)(A), added par. (6).
 
 Subsec. (t)(3)(A). Pub. L. 101–508, §11802(a)(3), substituted "and (C)" for "(C), and (D)".
 
-<b>1989</b>—Subsec. (e)(11)(A). Pub. L. 101–239, §7815(a)(3), (5), substituted "calendar year" for "12-month period" in cls. (i) and (ii), and inserted at end "The precedingsentence shall not apply to any contract described in paragraph (5)(D)."
+<b>1989</b>—Subsec. (e)(11)(A). Pub. L. 101–239, §7815(a)(3), (5), substituted "calendar year" for "12-month period" in cls. (i) and (ii), and inserted at end "The preceding sentence shall not apply to any contract described in paragraph (5)(D)."
 
 Subsec. (q)(2)(B). Pub. L. 101–239, §7811(m)(4), inserted an additional closing parenthesis after "subsection (s)(6)(B))".
 
@@ -1830,7 +1834,7 @@ Subsec. (e)(7)(B). Pub. L. 99–514, §1852(c)(1), in introductory provisions su
 
 Subsec. (e)(8), (9). Pub. L. 99–514, §1122(c)(3)(A), added pars. (8) and (9).
 
-Subsec. (f). Pub. L. 99–514, §1852(c)(3), in introductory provisions, substituted "subsections (d)(1) and (e)(7)"for "subsection (d)(1)" and "subsection (e)(6)" for "subsection (e)(1)(B)".
+Subsec. (f). Pub. L. 99–514, §1852(c)(3), in introductory provisions, substituted "subsections (d)(1) and (e)(7)" for "subsection (d)(1)" and "subsection (e)(6)" for "subsection (e)(1)(B)".
 
 Subsec. (m)(2)(B). Pub. L. 99–514, §1852(c)(4)(A), inserted "and subsection (e)(7) (relating to plans where substantially all contributions are employee contributions)".
 
@@ -1944,7 +1948,7 @@ Subsec. (p)(3). Pub. L. 97–448, §103(c)(3)(B)(i), struck out "without regard 
 
 Subsecs. (r), (s). Pub. L. 98–76 added subsec. (r) and redesignated former subsec. (r) as (s).
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–248, §265(a), in par. (1) substituted provisions relating to the application of this subsection to amounts received under annuity, endowment, or life insurance contracts which are not received as annuities and to amounts received as dividends for provisions which stated a general rule relating to the includability as gross income of amounts that were received under annuity, endowment, or life insurance contracts which were not received as annuities and also stated that for the purposes of this section amounts which were received as dividends would be treated as amounts not received as an annuity, in par. (2) substituted provisions stating a general rule as to the includability as gross income of amounts received before or after the annuity starting date for provisions which set out those amounts which would be treated as amounts not received as an annuity, and added pars. (3) to (6).
+<b>1982</b>—Subsec. (e). Pub. L. 97–248, §265(a), in par. (1) substituted provisions relating to the application ofthis subsection to amounts received under annuity, endowment, or life insurance contracts which are not received as annuities and to amounts received as dividends for provisions which stated a general rule relating to the includability as gross income of amounts that were received under annuity, endowment, or life insurance contracts which were not received as annuities and also stated that for the purposes of this section amounts which were received as dividends would be treated as amounts not received as an annuity, in par. (2) substituted provisions stating a general rule as to the includability as gross income of amounts received before or after the annuity starting date for provisions which set out those amounts which would be treated as amounts not received as an annuity, and added pars. (3) to (6).
 
 Subsec. (m)(4). Pub. L. 97–248, §236(b)(1), struck out par. (4) which related to amounts constructively received with respect to assignments or pledges, and loans on contracts.
 
@@ -1992,7 +1996,7 @@ Subsec. (m)(4)(A). Pub. L. 93–406, §2002(g)(10)(A), inserted references to an
 
 Subsec. (m)(5)(A). Pub. L. 93–406, §2001(e)(5), (h)(3), substituted "(other than contributions made by him as an owner-employee)" for "(whether or not paid by him)" in cl. (i), and struck out cl. (iii) which had made reference to amounts which were received, by an individual who was or had been, an owner-employee, by reason of the distribution under the provisions of section 401(e)(2)(E) of his entire interest in all qualified trusts described in section 401(a) and in all plans described in section 403(a).
 
-Subsec. (m)(5)(B). Pub. L. 93–406, §2001(g)(1), substituted provisions that if a person receives an amount to which subsec. (m)(5) applies, his tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of the amount so received which is includible in his gross income for such taxable year for provisions that if the aggregate amounts to which subsec. (m)(5) applied received by any person in his taxable year equalled or exceeded $2,500, the increase in his tax for the taxable year in which such amounts were received and attributable to such amounts could not be less than 110 percent of the aggregate increase in taxes, for the taxable year and the 4 immediately preceding taxable years, which would have resulted if suchamounts had been included in such person's gross income ratably over such taxable years, with provision for alternate computation if deductions had been allowed under section 404 for contributions paid for a number of prior taxable years less than 4.
+Subsec. (m)(5)(B). Pub. L. 93–406, §2001(g)(1), substituted provisions that if a person receives an amount to which subsec. (m)(5) applies, his tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of the amount so received which is includible in his gross income for such taxable year for provisions that if the aggregate amounts to which subsec. (m)(5) applied received by any person in his taxable year equalled or exceeded $2,500, the increase in his tax for the taxable year in which such amounts were received and attributable to such amounts could not be less than 110 percent of the aggregate increase in taxes, for the taxable year and the 4 immediately preceding taxable years, which would have resulted if such amounts had been included in such person's gross income ratably over such taxable years, with provision for alternate computation if deductions had been allowed under section 404 for contributions paid for a number of prior taxable years less than 4.
 
 Subsec. (m)(5)(C) to (E). Pub. L. 93–406, §2001(g)(2)(A), struck out subpars. (C) to (E) which contained special rules for the application of subsec. (m)(5).
 
@@ -2070,9 +2074,9 @@ Pub. L. 117–328, div. T, title III, §330(b), Dec. 29, 2022, 136 Stat. 5361, p
 
 Pub. L. 117–328, div. T, title III, §331(a)(3), Dec. 29, 2022, 136 Stat. 5363, provided that: "The amendments made by this subsection \[amending this section\] shall apply to distributions with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[Dec. 27, 2020\]."
 
-Pub. L. 117–328, div. T, title III, §331(b)(3), Dec. 29, 2022, 136 Stat. 5365, provided that: "The amendments made by this subsection \[amending this section and section 402 of this title\] shall apply to recontributions of withdrawals for home purchases with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[Dec. 27, 2020\]."
+Pub. L. 117–328, div. T, title III, §331(b)(3), Dec. 29, 2022, 136 Stat. 5365, provided that: "The amendments made by this subsection \[amending this section and section 402 of this title\] shall apply to recontributions of withdrawals for home purchases with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection \[probably should be "subsection (a)"\]) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[Dec. 27, 2020\]."
 
-Pub. L. 117–328, div. T, title III, §331(c)(2), Dec. 29, 2022, 136 Stat. 5366, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply to plan loans made with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[Dec. 27, 2020\]."
+Pub. L. 117–328, div. T, title III, §331(c)(2), Dec. 29, 2022, 136 Stat. 5366, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to plan loans made with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection \[probably should be "subsection (a)"\]) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[Dec. 27, 2020\]."
 
 Pub. L. 117–328, div. T, title III, §332(c), Dec. 29, 2022, 136 Stat. 5368, provided that: "The amendments made by this section \[amending this section and section 408 of this title\] shall apply to plan years beginning after December 31, 2023."
 
@@ -2236,7 +2240,7 @@ Transition rule.—The amendments made by this section shall not apply with resp
 
 "(5)
 
-Special rule for distributions under an annuity contract.—The amendments made by paragraphs\(1), (2), and (3) of subsection (b) \[amending this section\] shall not apply to any distribution under an annuity contract if—
+Special rule for distributions under an annuity contract.—The amendments made by paragraphs (1), (2), and (3) of subsection (b) \[amending this section\] shall not apply to any distribution under an annuity contract if—
 
 &emsp;"(A) as of March 1, 1986, payments were being made under such contract pursuant to a written election providing a specific schedule for the distribution of the taxpayer's interest in such contract, and
 
@@ -2310,7 +2314,7 @@ Pub. L. 97–248, title II, §236(c), Sept. 3, 1982, 96 Stat. 510, as amended by
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section\] shall apply to loans, assignments, and pledges made after August 13, 1982. Forpurposes of the preceding sentence, the outstanding balance of any loan which is renegotiated, extended, renewed, or revised after such date shall be treated as an amount received as a loan on the date of such renegotiation, extension, renewal, or revision.
+In general.—The amendments made by this section \[amending this section\] shall apply to loans, assignments, and pledges made after August 13, 1982. For purposes of the preceding sentence, the outstanding balance of any loan which is renegotiated, extended, renewed, or revised after such date shall be treated as an amount received as a loan on the date of such renegotiation, extension, renewal, or revision.
 
 "(2)
 
@@ -2416,7 +2420,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 Pub. L. 94–455, title XIX, §1951(b)(1)(B), Oct. 4, 1976, 90 Stat. 1836, provided that: "Notwithstanding subparagraph (A) \[repealing subsec. (i) of this section\], if the provisions of section 72(i) applied to amounts received in taxable years beginning before January 1, 1977, under an annuity contract, then amounts received under such contract on or after such date shall be treated as if such provisions were not repealed."
 
@@ -2454,7 +2458,7 @@ Amount distributed may be repaid.—
 
 &emsp;&emsp;"(A)
 
-In general.—Any individual who receives a coronavirus-related distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make 1 or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), of the Internal Revenue Code of 1986, as the case may be.
+In general.—Any individual who receives a coronavirus-related distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make 1 or more contributions in an aggregateamount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), of the Internal Revenue Code of 1986, as the case may be.
 
 &emsp;&emsp;"(B)
 
@@ -2520,7 +2524,7 @@ Loans From Qualified Plans.—
 
 &emsp;"(1)
 
-Increase in limit on loans not treated as distributions.—In the case of any loan from a qualified employer plan (as defined under section 72(p)(4) of the Internal Revenue Code of 1986) to a qualifiedindividual made during the 180-day period beginning on the date of the enactment of this Act \[Mar. 27, 2020\]—
+Increase in limit on loans not treated as distributions.—In the case of any loan from a qualified employer plan (as defined under section 72(p)(4) of the Internal Revenue Code of 1986) to a qualified individual made during the 180-day period beginning on the date of the enactment of this Act \[Mar. 27, 2020\]—
 
 &emsp;&emsp;"(A) clause (i) of section 72(p)(2)(A) of such Code shall be applied by substituting '$100,000' for '$50,000', and
 
@@ -2620,5 +2624,5 @@ act.—The term '2006 Act' means the Pension Protection Act of 2006 \[Pub. L. 10
 
 <i><sup>3</sup></i><i> So in original. Probably should refer to section 8336a.</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

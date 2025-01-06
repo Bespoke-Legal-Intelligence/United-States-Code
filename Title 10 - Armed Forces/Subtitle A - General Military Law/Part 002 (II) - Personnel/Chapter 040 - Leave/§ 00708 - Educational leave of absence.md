@@ -6,7 +6,7 @@
 
 &emsp;(A) in the case of an enlisted member, the member agrees in writing to extend his current enlistment after completion (or other termination) of the program of education for which the leave of absence was granted for a period of two months for each month of the period of the leave of absence; and
 
-&emsp;(B) in the case of an officer, the member agrees to serve on active duty after completion (or other termination) of the program of education for which the leave of absence was granted for a period (in addition to any other period of obligated service on active duty) of two months for each month of the period of the leave of absence.
+&emsp;(B) in the case of an officer, the member agrees to serve on active duty after completion (or other termination) of the program ofeducation for which the leave of absence was granted for a period (in addition to any other period of obligated service on active duty) of two months for each month of the period of the leave of absence.
 
 (2) A member may not be granted a leave of absence under this section until he has completed any extension of enlistment or reenlistment, or any period of obligated service, incurred by reason of any previous leave of absence granted under this section.
 

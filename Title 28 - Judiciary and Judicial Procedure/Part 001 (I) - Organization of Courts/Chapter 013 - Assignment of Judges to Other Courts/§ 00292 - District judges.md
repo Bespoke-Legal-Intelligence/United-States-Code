@@ -8,7 +8,7 @@
 
 (d) The Chief Justice of the United States may designate and assign temporarily a district judge of one circuit for service in another circuit, either in a district court or court of appeals, upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit wherein the need arises.
 
-(e) The Chief Justice of the United States may designate and assign temporarily any district judge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
+(e) The Chief Justice of the United States may designate and assign temporarily any districtjudge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
 
 (June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Pub. L. 85–755, §3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, §172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, §501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §109, Apr. 2, 1982, 96 Stat. 28.)
 
@@ -32,7 +32,7 @@ Reference in said section 17 to retired judges were omitted as covered by sectio
 
 Other provisions of said section 17 of title 28, U.S.C., 1940 ed., are incorporated in sections 291, 295, and 296 of this title. Other provisions of said section 216 of such title are incorporated in sections 45 and 47 of this title.
 
-Words "either in a district court or court of appeals" were inserted in subsection (c) as suggested by Hon.Learned Hand, Senior Circuit Judge of the Second Circuit. The revised section permits a district judge to be assigned directly to the circuit court of appeals of another circuit. Under existing law it has been assumed that he must be assigned to serve as a district judge on the other circuit and then designated to serve on the circuit court of appeals by that court in which his services are required.
+Words "either in a district court or court of appeals" were inserted in subsection (c) as suggested by Hon. Learned Hand, Senior Circuit Judge of the Second Circuit. The revised section permits a district judge to be assigned directly to the circuit court of appeals of another circuit. Under existing law it has been assumed that he must be assigned to serve as a district judge on the other circuit and then designated to serve on the circuit court of appeals by that court in which his services are required.
 
 Many changes were made in phraseology.
 

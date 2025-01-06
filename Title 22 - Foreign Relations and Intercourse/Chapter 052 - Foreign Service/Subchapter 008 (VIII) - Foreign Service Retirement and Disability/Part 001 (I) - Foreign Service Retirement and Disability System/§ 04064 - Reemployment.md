@@ -2,7 +2,7 @@
 
 #### (a) Termination of annuity; coverage under same retirement system or another contributory retirement system; rights and benefits
 
-(1)(A) <sup>1</sup> Except in the case of an annuitant who makes an election under subsection (b) or in the case of a waiver under subsection (g), if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
+(1)(A) <sup>1</sup> Except in the case of an annuitant who makes an election under subsection (b) or in the case of a waiver under subsection (g), if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to theannuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
 
 (B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
 
@@ -64,7 +64,7 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 #### (h) Effects of waiver
 
-A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
+A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part orpart II, or an employee for purposes of chapter 83 or 84 of title 5.
 
 (Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, §20941, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, §2, July 30, 2007, 121 Stat. 261; Pub. L. 110–321, §1, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–32, title XI, §1115(c)(1), June 24, 2009, 123 Stat. 1905; Pub. L. 114–323, title IV, §405(a), Dec. 16, 2016, 130 Stat. 1929.)
 
@@ -72,7 +72,7 @@ A reemployed annuitant as to whom a waiver under subsection (g) is in effect sha
 
 #### Amendments
 
-<b>2016</b>—Subsec. (g)(1)(B). Pub. L. 114–323, §405(a)(1), struck out "to facilitate the assignment of persons toIraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan," before "if the annuitant".
+<b>2016</b>—Subsec. (g)(1)(B). Pub. L. 114–323, §405(a)(1), struck out "to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan," before "if the annuitant".
 
 Subsec. (g)(2), (3). Pub. L. 114–323, §405(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 

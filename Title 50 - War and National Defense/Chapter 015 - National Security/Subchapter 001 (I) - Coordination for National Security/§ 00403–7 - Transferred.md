@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section 403–7, comprising section 309 of the Intelligence Authorization Act for Fiscal Year 1997, Pub. L.104–293, was editorially reclassified as section 3324 of this title.
+Section 403–7, comprising section 309 of the Intelligence Authorization Act for Fiscal Year 1997, Pub. L. 104–293, was editorially reclassified as section 3324 of this title.
 

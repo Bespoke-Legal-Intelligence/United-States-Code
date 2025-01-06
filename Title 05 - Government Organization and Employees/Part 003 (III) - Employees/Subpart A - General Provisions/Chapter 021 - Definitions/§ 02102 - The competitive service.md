@@ -14,7 +14,7 @@
 
 &emsp;(3) positions in the government of the District of Columbia which are specifically included in the competitive service by statute.
 
-(b) Notwithstanding subsection (a)(1)(B) of this section, the "competitive service" includes positions to which appointments are made by nomination for confirmation by the Senate when specifically included therein by statute.
+(b) Notwithstanding subsection (a)(1)(B) of this section, the "competitive service" includespositions to which appointments are made by nomination for confirmation by the Senate when specifically included therein by statute.
 
 (c) As used in other Acts of Congress, "classified civil service" or "classified service" means the "competitive service".
 
@@ -42,7 +42,7 @@ Subsection (a)(1) is based on former section 638, which placed positions in the 
 
 In subsection (a)(1)(B), the words "or to pass an examination" are omitted as covered by the exclusion from the "competitive service".
 
-Subsection (a)(2) preserves the exception stated in former section 638 modified to recognize the several statutory exceptions to this exception that have been enacted. The language of former section 638 relative to examination is codified in sections 3304(b) and 3361. The reference to veterans' preference is omitted because the statute referred to, R.S. §1754, was superseded by sections 3 and 21 of the Act of June 18, 1929, ch. 28, 46 Stat. 21. Section 3 of the Act of June 18, 1929, was superseded by the Act of June 27, 1944, ch. 287, 58 Stat. 387, as amended, which is carried into this title. Rights preserved by section 18 of the Act of June 27, 1944, are further preserved by technical section 8. The exception forlaborers and workmen was superseded by the Act of Nov. 26, 1940.
+Subsection (a)(2) preserves the exception stated in former section 638 modified to recognize the several statutory exceptions to this exception that have been enacted. The language of former section 638 relative to examination is codified in sections 3304(b) and 3361. The reference to veterans' preference is omitted because the statute referred to, R.S. §1754, was superseded by sections 3 and 21 of the Act of June 18, 1929, ch. 28, 46 Stat. 21. Section 3 of the Act of June 18, 1929, was superseded by the Act of June 27, 1944, ch. 287, 58 Stat. 387, as amended, which is carried into this title. Rights preserved by section 18 of the Act of June 27, 1944, are further preserved by technical section 8. The exception for laborers and workmen was superseded by the Act of Nov. 26, 1940.
 
 Subsection (b) is added because of the provisions in section 3311 of title 39.
 

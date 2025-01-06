@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (2) Limitation based on number of individuals
 
-&emsp;In the case of any foster home, difficulty of care payments for any period to which such payments relate shall not be excludable from gross income under subsection (a) to the extent such payments are made for more than—
+&emsp;In the case of any foster home, difficulty of care payments for any period to which such payments relate shall not be excludable fromgross income under subsection (a) to the extent such payments are made for more than—
 
 &emsp;&emsp;(A) 10 qualified foster individuals who have not attained age 19, and
 

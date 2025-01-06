@@ -48,7 +48,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreign citizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title;
 
-&emsp;(11) interchanges and visits between the United States and other countries of scientists, scholars, leaders, and other experts in the fields of environmental science and environmental management; and
+&emsp;(11) interchanges and visits between the United States and other countries of scientists, scholars, leaders, and other experts inthe fields of environmental science and environmental management; and
 
 &emsp;(12) promoting respect for and guarantees of religious freedom abroad by interchanges and visits between the United States and other nations of religious leaders, scholars, and religious and legal experts in the field of religious freedom.
 
@@ -58,7 +58,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21,1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Amendments
 
@@ -114,11 +114,13 @@ Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided
 
 #### International Exchange, Scholarship, and Training Programs
 
+Pub. L. 118–159, div. G, title LXXIV, §7403, Dec. 23, 2024, 138 Stat. 2543, authorized expansion of partnerships and educational exchange opportunities with students, scholars, and experts from Sub-Saharan Africa.
+
 Pub. L. 116–260, div. FF, title III, subtitle D (§§331–335, 337), Dec. 27, 2020, 134 Stat. 3114–3118, as amended by Pub. L. 117–263, div. I, title XCVII, §9716(b), Dec. 23, 2022, 136 Stat. 3921, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
 
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, §227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, §7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
+Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228,div. A, title II, §227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, §7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
 
 Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §401\], Nov. 29, 1999, 113 Stat. 1536, 1501A–445; Pub. L. 107–228, div. A, title II, §222, Sept. 30, 2002, 116 Stat. 1367, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 

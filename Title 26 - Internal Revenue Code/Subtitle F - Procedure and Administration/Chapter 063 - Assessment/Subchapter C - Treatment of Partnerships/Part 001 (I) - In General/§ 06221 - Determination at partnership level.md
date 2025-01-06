@@ -52,7 +52,7 @@ A prior section 6221, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982,
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–141 amended subsec. (a) generally. Prior to amendment, text read as follows: "Any adjustment to items of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year (and any partner's distributive share thereof) shall be determined, any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item or share shall be determined, at the partnership level pursuant to this subchapter."
+<b>2018</b>—Subsec. (a). Pub. L. 115–141 amended subsec. (a) generally. Prior to amendment, text read as follows: "Any adjustment to items of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year (and any partner's distributive share thereof) shall be determined, any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item or shareshall be determined, at the partnership level pursuant to this subchapter."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -78,5 +78,5 @@ Adjusted partners statements.—In the case of a partnership electing the applic
 
 "(4)
 
-Election.—A partnership may elect (at such time and in such form and manner as the Secretary ofthe Treasury may prescribe) for the amendments made by this section (other than the election under section 6221(b) of such Code (as added by this Act)) to apply to any return of the partnership filed for partnership taxable years beginning after the date of the enactment of this Act \[Nov. 2, 2015\] and before January 1, 2018."
+Election.—A partnership may elect (at such time and in such form and manner as the Secretary of the Treasury may prescribe) for the amendments made by this section (other than the election under section 6221(b) of such Code (as added by this Act)) to apply to any return of the partnership filed for partnership taxable years beginning after the date of the enactment of this Act \[Nov. 2, 2015\] and before January 1, 2018."
 

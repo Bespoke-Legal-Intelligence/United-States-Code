@@ -22,9 +22,17 @@ Requirements.—In carrying out subsection (a), the Secretary shall ensure the f
 
 (c)
 
-Research and Development.—(1) The Secretary shall include with the defense budget materials (as defined by section 231(f) of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
+Research and Development.—(1) The Secretary shall include with the defense budget materials (as defined by section 231(f) <sup>1</sup> of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
 
-(2) The Secretary shall ensure that the medical laboratories of the Department of Defenseare equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.
+(2) The Secretary shall ensure that the medical laboratories of the Department of Defense are equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.
 
 (Added Pub. L. 116–283, div. A, title VII, §712(a), Jan. 1, 2021, 134 Stat. 3691.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 231(f) of this title, referred to in subsec. (c)(1), was redesignated as section 231(g) of this title by Pub. L. 117–263, div. A, title III, §352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as section 231(h) of this title by Pub. L. 118–159, div. A, title X, §1021(1), Dec. 23, 2024, 138 Stat. 2052.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

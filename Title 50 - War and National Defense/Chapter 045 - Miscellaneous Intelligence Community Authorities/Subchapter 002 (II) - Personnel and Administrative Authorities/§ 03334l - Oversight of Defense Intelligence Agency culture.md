@@ -66,7 +66,7 @@ Congress finds that the Defense Intelligence Agency has committed to improving A
 
 #### (e) Feasibility report
 
-Not later than 270 days after December 23, 2022, the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a report containing an analysis of the feasibility (including the anticipated cost, personnel requirements, necessary authorities, and such other matters as may be determinedappropriate by the Director for purposes of analyzing feasibility) of—
+Not later than 270 days after December 23, 2022, the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a report containing an analysis of the feasibility (including the anticipated cost, personnel requirements, necessary authorities, and such other matters as may be determined appropriate by the Director for purposes of analyzing feasibility) of—
 
 &emsp;(1) conducting 360-degree performance reviews among employees of the Defense Intelligence Agency; and
 

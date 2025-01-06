@@ -50,5 +50,5 @@ Pub. L. 97–248, title IV, §407(b), Sept. 3, 1982, 96 Stat. 671, provided that
 
 #### Special Rule for Certain International Satellite Partnerships
 
-For provision that this section is not applicable to certain international satellite partnerships, see section 406 of Pub. L. 97–248, set out as a note under section 6231 of this title.
+For provision that this section is not applicable to certain international satellite partnerships, see section406 of Pub. L. 97–248, set out as a note under section 6231 of this title.
 

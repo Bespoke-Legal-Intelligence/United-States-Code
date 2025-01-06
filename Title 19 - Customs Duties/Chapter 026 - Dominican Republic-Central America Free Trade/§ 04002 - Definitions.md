@@ -46,7 +46,7 @@ In this chapter:
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-The Harmonized Tariff Schedule of the United States, referred to in par. (4), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in par. (4), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

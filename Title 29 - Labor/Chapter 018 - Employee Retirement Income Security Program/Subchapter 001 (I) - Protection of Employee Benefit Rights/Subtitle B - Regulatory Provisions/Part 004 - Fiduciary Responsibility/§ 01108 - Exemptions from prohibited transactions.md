@@ -16,7 +16,7 @@ The Secretary shall establish an exemption procedure for purposes of this subsec
 
 The prohibitions provided in section 1106 of this title shall not apply to any of the following transactions:
 
-&emsp;(1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amountmade available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.
+&emsp;(1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.
 
 &emsp;(2)(A) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
 
@@ -42,9 +42,9 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(ee) The term "responsible plan fiduciary" means a fiduciary with authority to cause the covered plan to enter into, or extend or renew, the contract or arrangement.
 
-&emsp;&emsp;(ff) The term "subcontractor" means any person or entity (or an affiliate of such person or entity) that is not an affiliate of the covered service provider and that, pursuant to a contract or arrangement with the covered service provider or an affiliate, reasonably expects to receive $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or more in compensation for performing one or more services described in item (bb) under a contract or arrangement with the covered plan.
+&emsp;&emsp;(ff) The term "subcontractor" means any person or entity (or an affiliate of such person or entity) that is not an affiliate of thecovered service provider and that, pursuant to a contract or arrangement with the covered service provider or an affiliate, reasonably expects to receive $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or more in compensation for performing one or more services described in item (bb) under a contract or arrangement with the covered plan.
 
-&emsp;(II) For purposes of this subparagraph, a description of compensation or cost may be expressed as a monetary amount, formula, or a per capita charge for each enrollee or, if the compensation or cost cannot reasonably be expressed in such terms, by any other reasonable method, including a disclosure that additional compensation may be earned but may not be calculated at the time of contract if such a disclosure includes a description of the circumstances under which the additional compensation may be earned and a reasonable and good faith estimate if the covered service provider cannot otherwise readily describe compensation or cost and explains the methodology and assumptions used to prepare such estimate. Any such description shall containsufficient information to permit evaluation of the reasonableness of the compensation or cost.
+&emsp;(II) For purposes of this subparagraph, a description of compensation or cost may be expressed as a monetary amount, formula, or a per capita charge for each enrollee or, if the compensation or cost cannot reasonably be expressed in such terms, by any other reasonable method, including a disclosure that additional compensation may be earned but may not be calculated at the time of contract if such a disclosure includes a description of the circumstances under which the additional compensation may be earned and a reasonable and good faith estimate if the covered service provider cannot otherwise readily describe compensation or cost and explains the methodology and assumptions used to prepare such estimate. Any such description shall contain sufficient information to permit evaluation of the reasonableness of the compensation or cost.
 
 &emsp;(III) No person or entity is a "covered service provider" within the meaning of subclause (I)(bb) solely on the basis of providing services as an affiliate or a subcontractor that is performing one or more of the services described in subitem (AA) or (BB) of such subclause under the contract or arrangement with the covered plan.
 
@@ -198,7 +198,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(iv) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm's length <sup>3</sup> transaction with an unrelated party.
 
-&emsp;(B) For purposes of this paragraph, the term "block trade" means any trade of at least 10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
+&emsp;(B) For purposes of this paragraph, the term "block trade" means any trade of at least10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
 
 &emsp;(16) Any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary), between a plan and a party in interest if—
 
@@ -256,7 +256,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions under which cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including the written policies and procedures of the investment manager described in subparagraph (H),
 
-&emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section1107(d)(7) of this title), the master trust has assets of at least $100,000,000,
+&emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 1107(d)(7) of this title), the master trust has assets of at least $100,000,000,
 
 &emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the plan participated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
 
@@ -294,7 +294,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 Nothing in section 1106 of this title shall be construed to prohibit any fiduciary from—
 
-&emsp;(1) receiving any benefit to which he may be entitled as a participant or beneficiary in the plan, so long as the benefit is computed and paid on a basis which is consistent with the terms of the plan as applied to all other participants and beneficiaries;
+&emsp;(1) receiving any benefit to which he may be entitled as a participant or beneficiary in theplan, so long as the benefit is computed and paid on a basis which is consistent with the terms of the plan as applied to all other participants and beneficiaries;
 
 &emsp;(2) receiving any reasonable compensation for services rendered, or for the reimbursement of expenses properly and actually incurred, in the performance of his duties with the plan; except that no person so serving who already receives full time pay from an employer or an association of employers, whose employees are participants in the plan, or from an employee organization whose members are participants in such plan shall receive compensation from such plan, except for reimbursement of expenses properly and actually incurred; or
 
@@ -496,7 +496,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (B) Continued duty of prudent selection of adviser and periodic review
 
-&emsp;&emsp;Nothing in subparagraph (A) shall be construed to exempt a plan sponsor or other person who is a fiduciary from any requirement of this part for the prudent selection and periodic review of a fiduciary adviser with whom the plan sponsor or other person enters into an eligible investment advice arrangement for the provision of investment advice referred to in section 1002(21)(A)(ii) of this title. The plan sponsor or other person who is a fiduciary has no duty under this part to monitor the specific investment advice given by the fiduciary adviser to any particular recipient of the advice.
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed to exempt a plan sponsor or other person who is a fiduciary from any requirement of this part for the prudent selection and periodic review of a fiduciary adviser with whom the plan sponsor or other person enters into an eligible investment advice arrangement for the provision of investment advice referred to in section 1002(21)(A)(ii) ofthis title. The plan sponsor or other person who is a fiduciary has no duty under this part to monitor the specific investment advice given by the fiduciary adviser to any particular recipient of the advice.
 
 #### (C) Availability of plan assets for payment for advice
 
@@ -510,7 +510,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;The term "fiduciary adviser" means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title by the person to a participant or beneficiary of the plan and who is—
 
-&emsp;&emsp;&emsp;(i) registered as an investment adviser under the Investment Advisers Act of 1940\(15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
+&emsp;&emsp;&emsp;(i) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
 &emsp;&emsp;&emsp;(ii) a bank or similar financial institution referred to in subsection (b)(4) or a savings association (as defined in section 1813(b)(1) of title 12), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
@@ -554,7 +554,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;(B) At least 50 percent of the providers participating in the pharmacy benefit services offered by the arrangement are unrelated to the contributing employers or any other party in interest with respect to the group health plan.
 
-&emsp;&emsp;(C) The group health plan retains an independent fiduciary who will be responsible for monitoring the group health plan's consultants, contractors, subcontractors, and other service providers for purposes of pharmacy benefit services described in paragraph (1) offered by such entity or any of its related organizations or subsidiaries and monitors the transactions of such entity and any of its related organizations or subsidiaries to ensure that all conditions of this exemption are satisfied during each plan year.
+&emsp;&emsp;(C) The group health plan retains an independent fiduciary who will be responsible for monitoring the group health plan's consultants, contractors, subcontractors, and other service providers for purposes of pharmacy benefit services described in paragraph (1)offered by such entity or any of its related organizations or subsidiaries and monitors the transactions of such entity and any of its related organizations or subsidiaries to ensure that all conditions of this exemption are satisfied during each plan year.
 
 &emsp;&emsp;(D) Any decisions regarding the provision of pharmacy benefit services described in paragraph (1) are made by the group health plan's independent fiduciary, based on objective standards developed by the independent fiduciary in reliance on information provided by the arrangement.
 
@@ -636,7 +636,7 @@ Pub. L. 108–218 substituted "January 1, 2014" for "January 1, 2006" and "April
 
 <b>1989</b>—Subsec. (b)(12). Pub. L. 101–239, §7881(l)(5), added par. (12).
 
-Subsec. (d). Pub. L. 101–239, §7891(a)(1), in last sentence, substituted "section 401(c)(3) of the InternalRevenue Code of 1986" for "section 401(c)(3) of the Internal Revenue Code of 1954", which for purposes of codification was translated as "section 401(c)(3) of title 26" thus requiring no change in text.
+Subsec. (d). Pub. L. 101–239, §7891(a)(1), in last sentence, substituted "section 401(c)(3) of the Internal Revenue Code of 1986" for "section 401(c)(3) of the Internal Revenue Code of 1954", which for purposes of codification was translated as "section 401(c)(3) of title 26" thus requiring no change in text.
 
 Pub. L. 101–239, §7891(a)(2), in last sentence, substituted "section 408 of the Internal Revenue Code of 1986" for "section 408 of the Internal Revenue Code of 1954" and "section 408(c) of the Internal Revenue Code of 1986" for "section 408(c) of such Code" which for purposes of codification were translated as "section 408 of title 26" and "section 408(c) of title 26", respectively, thus requiring no change in text.
 
@@ -702,7 +702,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 Amendment by section 7881(l)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) ofPub. L. 101–239, set out as a note under section 1002 of this title.
 
 Section 7894(e)(4)(B) of Pub. L. 101–239 provided that: "The amendments made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 491(b) of the Deficit Reduction Act of 1984 \[Pub. L. 98–369\]."
 

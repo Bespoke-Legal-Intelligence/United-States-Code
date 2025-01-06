@@ -14,7 +14,7 @@ Subject to subsection (c)(1), it shall be considered discrimination for purposes
 
 &emsp;Except as provided in paragraph (2), it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system—
 
-&emsp;&emsp;(A) to remanufacture a vehicle for use on such system so as to extend its usable life for 5 years or more, which remanufacture begins (or for which the solicitation is made) after the 30th day following July 26, 1990; or
+&emsp;&emsp;(A) to remanufacture a vehicle for use on such system so as to extend its usable lifefor 5 years or more, which remanufacture begins (or for which the solicitation is made) after the 30th day following July 26, 1990; or
 
 &emsp;&emsp;(B) to purchase or lease for use on such system a remanufactured vehicle which has been remanufactured so as to extend its usable life for 5 years or more, which purchase or lease occurs after such 30th day and during the period in which the usable life is extended;
 

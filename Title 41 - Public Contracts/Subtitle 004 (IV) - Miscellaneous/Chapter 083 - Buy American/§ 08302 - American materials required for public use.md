@@ -36,7 +36,7 @@ Special Rules.—The following rules apply in carrying out the provisions of sub
 
 &emsp;(1)
 
-Iron and steel manufactured in the united states.—For purposes of this section, manufactured articles, materials, and supplies of iron and steel are deemed manufactured in the United States only if all manufacturing processes involved in the production of such iron and steel, from the initial melting stage through the application of coatings, occurs in the United States.
+Iron and steel manufactured in the united states.—For purposes of this section, manufactured articles, materials, and supplies of iron and steel are deemed manufactured inthe United States only if all manufacturing processes involved in the production of such iron and steel, from the initial melting stage through the application of coatings, occurs in the United States.
 
 &emsp;(2)
 

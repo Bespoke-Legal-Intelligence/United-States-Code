@@ -28,7 +28,7 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 &emsp;(6) loss of life, injury, or detention by an enemy of the United States after capture, with respect to an individual on a vessel insurable under this section; and
 
-&emsp;(7) statutory or contractual obligations or other liabilities of a vessel insurable under this section or of the owner or charterer of such a vessel, of a nature customarily covered by insurance.
+&emsp;(7) statutory or contractual obligations or other liabilities of a vessel insurable under this section or of the owner or charterer ofsuch a vessel, of a nature customarily covered by insurance.
 
 (b)
 

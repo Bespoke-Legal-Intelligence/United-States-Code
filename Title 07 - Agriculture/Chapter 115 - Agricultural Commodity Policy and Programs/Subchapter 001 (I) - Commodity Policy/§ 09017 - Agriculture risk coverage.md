@@ -72,11 +72,11 @@ If all of the producers on a farm make the election under section 9015(a) of thi
 
 #### (A) 2014 through 2018 crop years
 
-&emsp;&emsp;Effective for the 2014 through 2018 crop years, if the yield per planted acre for the covered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 70 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 70 percent of the transitional yield.
+&emsp;&emsp;Effective for the 2014 through 2018 crop years, if the yield per planted acre for the covered commodity or historical countyyield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 70 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 70 percent of the transitional yield.
 
 #### (B) 2019 through 2023 crop years
 
-&emsp;&emsp;Effective for the 2019 through 2023 crop years, if the yield per planted acre for thecovered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 80 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 80 percent of the transitional yield.
+&emsp;&emsp;Effective for the 2019 through 2023 crop years, if the yield per planted acre for the covered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 80 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 80 percent of the transitional yield.
 
 #### (5) Trend-adjusted yield
 
@@ -240,7 +240,7 @@ Provisions of law applicable to a covered commodity for the 2023 crop year pursu
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1107(1), in introductory provisions, inserted "(beginning with the 2019 crop year, based on the physical location of the farm)" after "payments" and "or the 2019 through 2023 crop years, as applicable" after "the 2014 through 2018 crop years".
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1107(1), in introductory provisions, inserted "(beginning with the 2019 cropyear, based on the physical location of the farm)" after "payments" and "or the 2019 through 2023 crop years, as applicable" after "the 2014 through 2018 crop years".
 
 Subsec. (c)(2)(A). Pub. L. 115–334, §1107(2)(A)(i), substituted "paragraphs (4) and (5)" for "paragraph (4)".
 

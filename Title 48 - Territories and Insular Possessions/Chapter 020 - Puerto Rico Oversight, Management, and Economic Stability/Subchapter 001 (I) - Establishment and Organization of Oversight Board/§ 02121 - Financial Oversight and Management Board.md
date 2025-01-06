@@ -80,7 +80,7 @@ An Oversight Board established under this section—
 
 &emsp;&emsp;(vi) the Category F member may be selected in the President's sole discretion.
 
-&emsp;(B) After the President's selection of the Category F Board member, for purposes of subparagraph (A) and within a timely manner—
+&emsp;(B) After the President's selection of the Category F Board member, for purposes ofsubparagraph (A) and within a timely manner—
 
 &emsp;&emsp;(i) the Speaker of the House of Representatives shall submit two non-overlapping lists of at least three individuals to the President; one list shall include three individuals who maintain a primary residence in the territory or have a primary place of business in the territory;
 
@@ -136,7 +136,7 @@ An individual is eligible for appointment as a member of the Oversight Board onl
 
 &emsp;(1) has knowledge and expertise in finance, municipal bond markets, management, law, or the organization or operation of business or government; and
 
-&emsp;(2) prior to appointment, an individual is not an officer, elected official, or employee of theterritorial government, a candidate for elected office of the territorial government, or a former elected official of the territorial government.
+&emsp;(2) prior to appointment, an individual is not an officer, elected official, or employee of the territorial government, a candidate for elected office of the territorial government, or a former elected official of the territorial government.
 
 #### (g) No compensation for service
 

@@ -26,7 +26,7 @@
 
 (3) The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
-(June 4, 1920, ch. 223, §1, 41 Stat. 750; Feb. 10, 1956, ch. 31, 70 Stat. 11; Pub. L. 90–428, §2, July 26, 1968, 82 Stat. 446; Pub. L. 92–14, §1, May 14, 1971, 85 Stat. 38; Pub. L. 93–417, Sept. 17, 1974, 88 Stat. 1151; Pub. L. 97–241, title I, §116(a), Aug. 24, 1982, 96 Stat. 279; Pub. L. 104–208, div. A, title I, §101(a) \[title IV, §407\], Sept. 30, 1996, 110 Stat. 3009, 3009–55; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426; Pub. L. 109–167, §2, Jan. 10, 2006, 119 Stat. 3578; Pub. L. 109–210, §1, Mar. 24, 2006, 120 Stat. 319; Pub. L. 109–472, §5, Jan. 11, 2007, 120 Stat. 3555; Pub. L. 115–31, div. J, title VII, §7081(f), May 5, 2017, 131 Stat. 716; Pub. L. 118–31, div. F, title LXI, §6114(b), Dec. 22, 2023, 137 Stat. 968.)
+(June 4, 1920, ch. 223, §1, 41 Stat. 750; Feb. 10, 1956, ch. 31, 70 Stat. 11; Pub. L. 90–428, §2, July 26,1968, 82 Stat. 446; Pub. L. 92–14, §1, May 14, 1971, 85 Stat. 38; Pub. L. 93–417, Sept. 17, 1974, 88 Stat. 1151; Pub. L. 97–241, title I, §116(a), Aug. 24, 1982, 96 Stat. 279; Pub. L. 104–208, div. A, title I, §101(a) \[title IV, §407\], Sept. 30, 1996, 110 Stat. 3009, 3009–55; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426; Pub. L. 109–167, §2, Jan. 10, 2006, 119 Stat. 3578; Pub. L. 109–210, §1, Mar. 24, 2006, 120 Stat. 319; Pub. L. 109–472, §5, Jan. 11, 2007, 120 Stat. 3555; Pub. L. 115–31, div. J, title VII, §7081(f), May 5, 2017, 131 Stat. 716; Pub. L. 118–31, div. F, title LXI, §6114(b), Dec. 22, 2023, 137 Stat. 968.)
 
 #### <b>Editorial Notes</b>
 
@@ -60,7 +60,7 @@ Subsec. (a). Pub. L. 109–210 substituted "or from a widow, widower, child, par
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426, providedthat: "The amendments made by this section \[amending this section and repealing section 216 of this title\] shall take effect on the date of issuance of final regulations under section 1 of the Passport Act of June 4, 1920 \[22 U.S.C. 214\], as amended by subsection (a)." \[Final regulations issued Feb. 23, 2000, effective May 15, 2000, see 65 F.R. 14211.\]
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426, provided that: "The amendments made by this section \[amending this section and repealing section 216 of this title\] shall take effect on the date of issuance of final regulations under section 1 of the Passport Act of June 4, 1920 \[22 U.S.C. 214\], as amended by subsection (a)." \[Final regulations issued Feb. 23, 2000, effective May 15, 2000, see 65 F.R. 14211.\]
 
 #### Effective and Termination Date of 1971 Amendment
 
@@ -80,9 +80,11 @@ Pub. L. 117–103, div. K, title VII, §7069(e), Mar. 15, 2022, 136 Stat. 681, p
 
 #### Extension of Consular Fees
 
-Pub. L. 117–328, div. K, title VII, §7068(a), Dec. 29, 2022, 136 Stat. 5089, provided that: "Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2023 by substituting 'the costs of providing consular services' for 'such costs'."
+Pub. L. 118–47, div. F, title VII, §7068(a), Mar. 23, 2024, 138 Stat. 848, provided that: "Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2024 by substituting 'the costs of providing consular services' for 'such costs'."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 117–328, div. K, title VII, §7068(a), Dec. 29, 2022, 136 Stat. 5089.
 
 Pub. L. 117–103, div. K, title VII, §7069(a), Mar. 15, 2022, 136 Stat. 681.
 

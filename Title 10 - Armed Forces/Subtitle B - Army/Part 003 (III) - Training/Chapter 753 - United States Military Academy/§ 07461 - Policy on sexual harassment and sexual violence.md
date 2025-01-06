@@ -78,7 +78,7 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 &emsp;(A) provide that the Superintendent of the United States Military Academy shall ensure that any cadet who has been appointed to the United States Military Academy and who is a victim of an alleged sexual assault or other offense referred to in paragraph (1), is informed of the right to request a transfer pursuant to this section, and that any formal request submitted by a cadet is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
 
-&emsp;(B) direct the Superintendent of the United States Military Academy, in coordinationwith the Superintendent of the military service academy to which the cadet requests to transfer—
+&emsp;(B) direct the Superintendent of the United States Military Academy, in coordination with the Superintendent of the military service academy to which the cadet requests to transfer—
 
 &emsp;&emsp;(i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
 
@@ -170,7 +170,7 @@ Pub. L. 115–232, div. A, title V, §545, Aug. 13, 2018, 132 Stat. 1764, provid
 
 "(a)
 
-Development.—Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], eachSuperintendent of a military service academy shall develop and maintain a resource guide for students at the respective military service academies regarding sexual assault.
+Development.—Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], each Superintendent of a military service academy shall develop and maintain a resource guide for students at the respective military service academies regarding sexual assault.
 
 "(b)
 
@@ -242,7 +242,7 @@ Pub. L. 113–291, div. A, title V, §552(a), Dec. 19, 2014, 128 Stat. 3377, pro
 
 #### Prevention of Sexual Assault at Military Service Academies
 
-Pub. L. 113–66, div. A, title XVII, §1746, Dec. 26, 2013, 127 Stat. 983, provided that: "The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims' rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter."
+Pub. L. 113–66, div. A, title XVII, §1746, Dec. 26, 2013, 127 Stat. 983, provided that: "The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims' rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of anew cadet or midshipman at that military service academy and repeated annually thereafter."
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 

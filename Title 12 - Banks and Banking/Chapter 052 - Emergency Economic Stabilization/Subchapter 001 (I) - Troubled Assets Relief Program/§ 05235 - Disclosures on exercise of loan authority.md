@@ -36,7 +36,7 @@ Any reports required under this section shall also be submitted to the Congressi
 
 #### References in Text
 
-Section 13 of the Federal Reserve Act, referred to in subsecs. (a) and (d), is classified to sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title. The third paragraph (now designated par. (3)) of section 13 of the Act is classified to section 343(3) of this title. For further details, see Codification notes under sections 342 and 343 of this title.
+Section 13 of the Federal Reserve Act, referred to in subsecs. (a) and (d), is classified to sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title. The third paragraph (now designated par. (3)) of section 13 of theAct is classified to section 343(3) of this title. For further details, see Codification notes under sections 342 and 343 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

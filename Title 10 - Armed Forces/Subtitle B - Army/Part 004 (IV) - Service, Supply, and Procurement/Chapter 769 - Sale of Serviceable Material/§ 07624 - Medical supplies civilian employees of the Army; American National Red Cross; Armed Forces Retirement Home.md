@@ -6,7 +6,7 @@
 
 (c) Any branch, office, or officer designated by the Secretary may sell medical and hospital supplies to the Armed Forces Retirement Home.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 259, §4624; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §512(18)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 101–510, div. A, title XV, §1533(a)(5)(A), (B), Nov. 5, 1990, 104 Stat. 1734; renumbered §7624, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 259, §4624; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §512(18)(A), (B), Dec. 12, 1980, 94 Stat.2930; Pub. L. 101–510, div. A, title XV, §1533(a)(5)(A), (B), Nov. 5, 1990, 104 Stat. 1734; renumbered §7624, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes
 

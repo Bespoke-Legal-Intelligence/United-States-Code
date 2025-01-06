@@ -190,7 +190,7 @@ Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(A), redesignated par. (3) as (4)
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647 added subsec. (c).
 
-<b>1986</b>—Subsec. (b)(1), (2)(A). Pub. L. 99–514, §1847(b)(8), substituted "section 28(b)" for "section 29(b)" in par.\(1) and "section 28" for "section 29" in pars. (1) and (2)(A).
+<b>1986</b>—Subsec. (b)(1), (2)(A). Pub. L. 99–514, §1847(b)(8), substituted "section 28(b)" for "section 29(b)" in par. (1) and "section 28" for "section 29" in pars. (1) and (2)(A).
 
 Subsec. (b)(3). Pub. L. 99–514, §231(d)(3)(E), substituted "section 41(f)(5)", "section 41(f)(1)(B)", and "section 41(f)(1)" for "section 30(f)(5)", "section 30(f)(1)(B)", and "section 30(f)(1)", respectively.
 
@@ -224,7 +224,7 @@ Amendment by section 13403(d)(1) of Pub. L. 115–97 applicable to wages paid in
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1401(b) of Pub. L. 111–148 applicable to taxable years ending after Dec. 31, 2013, see section 1401(e) of Pub. L. 111–148, set out as a note under section 36B of this title.
+Amendment by section 1401(b) of Pub. L. 111–148 applicable to taxable years ending after Dec. 31, 2013, seesection 1401(e) of Pub. L. 111–148, set out as a note under section 36B of this title.
 
 Amendment by section 1421(d)(1) of Pub. L. 111–148 applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2009, see section 1421(f)(1) of Pub. L. 111–148, set out as a note under section 38 of this title.
 
@@ -310,7 +310,7 @@ Eligible employees hired before september 27, 1978.—In the case of any eligibl
 
 &emsp;"(B)
 
-Eligible employees hired after september 26, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made by this section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date."
+Eligible employees hired after september 26, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made bythis section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date."
 
 \[Pub. L. 96–178, §6(d), Jan. 2, 1980, 93 Stat. 1298, provided that: "Any amendment made by this section to the Revenue Act of 1978 \[amending section 322(e)(1) and (2) of Pub. L. 95–600, set out above\] shall take effect as if it had been included in the provision of the Revenue Act of 1978 \[Pub. L. 95–600\] to which such amendment relates."\]
 

@@ -30,7 +30,7 @@ The personnel of the United States Customs Service shall perform such duties as 
 
 #### (3) Annual report
 
-&emsp;Not later than 30 days after the end of each fiscal year, the International Trade Committee shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The report shall—
+&emsp;Not later than 30 days after the end of each fiscal year, the International Trade Committee shall submit a report to the Committeeon Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The report shall—
 
 &emsp;&emsp;(A) detail the activities of the International Trade Committee during the preceding fiscal year; and
 

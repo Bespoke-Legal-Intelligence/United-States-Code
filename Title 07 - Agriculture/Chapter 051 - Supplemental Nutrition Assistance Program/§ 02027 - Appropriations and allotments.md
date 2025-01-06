@@ -2,7 +2,7 @@
 
 #### (a) Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements
 
-(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2023. Not to exceed one-fourth of 1 per centum of the previous year's appropriation is authorized ineach such fiscal year to carry out the provisions of section 2026 of this title, subject to paragraph (3).
+(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2023. Not to exceed one-fourth of 1 per centum of the previous year's appropriation is authorized in each such fiscal year to carry out the provisions of section 2026 of this title, subject to paragraph (3).
 
 (2) No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to the provision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
 
@@ -28,7 +28,7 @@ In prescribing the manner in which allotments will be reduced under subsection (
 
 #### (d) Requisite action by Secretary to reduce allotments; statement to Congressional committees
 
-Not later than sixty days after the issuance of a report under subsection (a) of this section in which the Secretary expresses the belief that reductions in the value of allotments to be issued to households certified to participate in the supplemental nutrition assistance program will be necessary, the Secretary shall take the requisite action to reduce allotments in accordance with the requirements of this section. Not later than seven days after the Secretary takes any action to reduce allotments under this section, the Secretary shall furnish the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a statement setting forth (1) the basis of the Secretary's determination, (2) the manner in which the allotments will be reduced, and (3) the action that has been taken by the Secretary to reduce the allotments.
+Not later than sixty days after the issuance of a report under subsection (a) of this section in which the Secretary expresses the belief that reductions in the value of allotments to be issued to households certified to participate in the supplemental nutrition assistance program will be necessary, the Secretary shall take the requisite action to reduce allotments in accordance with the requirements of this section. Not later thanseven days after the Secretary takes any action to reduce allotments under this section, the Secretary shall furnish the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a statement setting forth (1) the basis of the Secretary's determination, (2) the manner in which the allotments will be reduced, and (3) the action that has been taken by the Secretary to reduce the allotments.
 
 #### (e) Disposition of funds collected pursuant to claims
 
@@ -96,7 +96,7 @@ Subsecs. (b), (d), (e). Pub. L. 110–246, §4001(b), substituted "supplemental 
 
 Subsec. (e). Pub. L. 107–171, §4118(c), substituted "subsections (g) and (h) of section 2020 of this title," for "2020(g) and (h), and" and inserted "and section 2025(c)(1) of this title," after "section 2022 of this title,".
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–362 struck out at end "The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary's best estimate of the second preceding month's expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year."
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–362 struck out at end "The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary's best estimate ofthe second preceding month's expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year."
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–193 substituted "1996 through 2002" for "1991 through 1997" in first sentence.
 

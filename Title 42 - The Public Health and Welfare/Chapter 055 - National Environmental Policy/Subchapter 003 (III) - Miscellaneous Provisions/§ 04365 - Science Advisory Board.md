@@ -60,7 +60,7 @@ In preparing such advice and comments, the Board shall avail itself of the techn
 
 (1) Upon the recommendation of the Board, the Administrator shall appoint a secretary, and such other employees as deemed necessary to exercise and fulfill the Board's powers and responsibilities. The compensation of all employees appointed under this paragraph shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
-(2) Members of the Board may be compensated at a rate to be fixed by the President but not in excess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5.
+(2) Members of the Board may be compensated at a rate to be fixed by the President but not inexcess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5.
 
 #### (g) Consultation and coordination with Scientific Advisory Panel
 

@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 23, 2022, the Secretary shall establish a managed aquifer recharge working group made up of subject matter experts within the Corps of Engineers and relevant non-Federal stakeholders.
+&emsp;Not later than 180 days after December 23, 2022, the Secretary shall establish a managedaquifer recharge working group made up of subject matter experts within the Corps of Engineers and relevant non-Federal stakeholders.
 
 #### (2) Composition
 

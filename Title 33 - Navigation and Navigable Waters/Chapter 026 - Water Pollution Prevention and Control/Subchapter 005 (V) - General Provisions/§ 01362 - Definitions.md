@@ -4,7 +4,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (1) The term "State water pollution control agency" means the State agency designated by the Governor having responsibility for enforcing State laws relating to the abatement of pollution.
 
-(2) The term "interstate agency" means an agency of two or more States established by or pursuant to an agreement or compact approvedby the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
+(2) The term "interstate agency" means an agency of two or more States established by or pursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
 
 (3) The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
@@ -30,7 +30,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (14) The term "point source" means any discernible, confined and discrete conveyance, including but not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, concentrated animal feeding operation, or vessel or other floating craft, from which pollutants are or may be discharged. This term does not include agricultural stormwater discharges and return flows from irrigated agriculture.
 
-(15) The term "biological monitoring" shall mean the determination of the effects on aquatic life, including accumulation of pollutants in tissue, in receiving waters due to the discharge of pollutants (A) by techniques and procedures, including sampling of organisms representative of appropriate levels of the food chain appropriate to the volume and the physical, chemical, and biological characteristics of the effluent, and (B) at appropriate frequencies and locations.
+(15) The term "biological monitoring" shall mean the determination of the effects on aquatic life, including accumulation of pollutants in tissue, in receiving waters due to the dischargeof pollutants (A) by techniques and procedures, including sampling of organisms representative of appropriate levels of the food chain appropriate to the volume and the physical, chemical, and biological characteristics of the effluent, and (B) at appropriate frequencies and locations.
 
 (16) The term "discharge" when used without qualification includes a discharge of a pollutant, and a discharge of pollutants.
 
@@ -52,7 +52,7 @@ In general.—The term "coastal recreation waters" means—
 
 &emsp;&emsp;(i) the Great Lakes; and
 
-&emsp;&emsp;(ii) marine coastal waters (including coastal estuaries) that are designated under section 1313(c) of this title by a State for use forswimming, bathing, surfing, or similar water contact activities.
+&emsp;&emsp;(ii) marine coastal waters (including coastal estuaries) that are designated under section 1313(c) of this title by a State for use for swimming, bathing, surfing, or similar water contact activities.
 
 &emsp;(B)
 

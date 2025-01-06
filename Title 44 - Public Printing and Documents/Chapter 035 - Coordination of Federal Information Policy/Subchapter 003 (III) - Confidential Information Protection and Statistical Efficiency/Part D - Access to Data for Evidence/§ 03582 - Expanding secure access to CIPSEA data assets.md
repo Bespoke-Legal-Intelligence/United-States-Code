@@ -22,7 +22,7 @@ Regulations for Accessibility of Nonpublic Data Assets.—The Director shall pro
 
 &emsp;(4) Requirements for each statistical agency or unit to make any process or assessment established, produced, or conducted pursuant to this section transparent and easy to understand, including the following:
 
-&emsp;&emsp;(A) A requirement to make information on the assessment of the sensitivity level ofeach data asset conducted pursuant to paragraph (1) available on the Federal data catalogue established under section 3511(c)(1).
+&emsp;&emsp;(A) A requirement to make information on the assessment of the sensitivity level of each data asset conducted pursuant to paragraph (1) available on the Federal data catalogue established under section 3511(c)(1).
 
 &emsp;&emsp;(B) A requirement to make any comprehensive risk assessment, and associated determinations, conducted under paragraph (3) available on the Federal data catalogue established under section 3511(c)(1).
 

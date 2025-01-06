@@ -96,7 +96,7 @@ Pub. L. 99–234, title III, §301, Jan. 2, 1986, 99 Stat. 1760, provided that:
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–264, §1, Oct. 19, 1998, 112 Stat. 2350, provided that: "This Act \[enacting sections 5706c, 5710, and 5739 of this title, amending sections 5721 to 5724, 5724a,5725, 5727 to 5729, 5731, and 5732 of this title, section 3413 of Title 12, Banks and Banking, and sections 3322, 3528, and 3726 of Title 31, Money and Finance, and enacting provisions set out as notes under this section, section 5706c of this title, and section 3322 of Title 31\] may be cited as the 'Travel and Transportation Reform Act of 1998'."
+Pub. L. 105–264, §1, Oct. 19, 1998, 112 Stat. 2350, provided that: "This Act \[enacting sections 5706c, 5710, and 5739 of this title, amending sections 5721 to 5724, 5724a, 5725, 5727 to 5729, 5731, and 5732 of this title, section 3413 of Title 12, Banks and Banking, and sections 3322, 3528, and 3726 of Title 31, Money and Finance, and enacting provisions set out as notes under this section, section 5706c of this title, and section 3322 of Title 31\] may be cited as the 'Travel and Transportation Reform Act of 1998'."
 
 #### Short Title of 1996 Amendment
 
@@ -228,7 +228,7 @@ Member; uniformed service.—Each of the terms 'member' and 'uniformed service' 
 
 Regulations.—Within 270 days after the date of the enactment of this Act \[Oct. 19, 1998\], the Administrator of General Services shall promulgate regulations implementing this section, that—
 
-&emsp;"(1) make the use of the travel charge card established pursuant to the United States Travel and Transportation System and Expense Control System, or any Federal contractor-issued travel charge card, mandatory for all payments of expenses of official Government travel pursuant to this section;
+&emsp;"(1) make the use of the travel charge card established pursuant to the United States Travel and Transportation System and Expense Control System,or any Federal contractor-issued travel charge card, mandatory for all payments of expenses of official Government travel pursuant to this section;
 
 &emsp;"(2) specify the procedures for effecting under subsection (d) a deduction from pay owed to an employee, and ensure that the due process protections provided to employees under such procedures are no less than the protections provided to employees pursuant to section 3716 of title 31, United States Code;
 
@@ -272,7 +272,7 @@ Required safeguards and internal controls.—The head of each executive agency t
 
 &emsp;&emsp;"(D) Appropriate training is provided to each travel charge card holder and each official with responsibility for overseeing the use of travel charge cards issued by the executive agency.
 
-&emsp;&emsp;"(E) Each executive agency has specific policies regarding travel charge cards issued for various component organizations and categories of component organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued travel charge cards,and designs those policies to minimize the financial risk to the Federal Government of the issuance of the travel charge cards and to ensure the integrity of travel charge card holders.
+&emsp;&emsp;"(E) Each executive agency has specific policies regarding travel charge cards issued for various component organizations and categories of component organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued travel charge cards, and designs those policies to minimize the financial risk to the Federal Government of the issuance of the travel charge cards and to ensure the integrity of travel charge card holders.
 
 &emsp;&emsp;"(F) Each executive agency has policies to ensure its contractual arrangement with each travel charge card issuing contractor contains a requirement that the creditworthiness of an individual be evaluated before the individual is issued a travel charge card, and that no individual be issued a travel charge card if that individual is found not creditworthy as a result of the evaluation (except that this paragraph shall not preclude issuance of a restricted use, prepaid, declining balance, controlled-spend, or stored value card when the individual lacks a credit history or has a credit score below the minimum credit score established by the Director of the Office of Management and Budget). The Director of the Office of Management and Budget shall establish a minimum credit score for determining the creditworthiness of an individual based on rigorous statistical analysis of the population of card holders and historical behaviors. Notwithstanding any other provision of law, such evaluation shall include an assessment of an individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a).
 
@@ -306,7 +306,7 @@ Executive agency.—The term 'executive agency' means an agency as that term is 
 
 Travel charge card.—The term 'travel charge card' means any Federal contractor-issued travel charge card that is individually billed to each card holder."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Definitions
 

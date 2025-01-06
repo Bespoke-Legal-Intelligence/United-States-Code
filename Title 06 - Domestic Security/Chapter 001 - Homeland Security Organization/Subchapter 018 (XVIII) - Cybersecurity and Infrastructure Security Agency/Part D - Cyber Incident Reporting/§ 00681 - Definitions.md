@@ -78,7 +78,7 @@ Par. (9). Pub. L. 117–263, §7143(b)(2)(N)(v), (vi), redesignated par. (16) as
 
 Par. (10). Pub. L. 117–263, §7143(b)(2)(N)(v), (vi), redesignated par. (18) as (10) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows: "The term 'Information Sharing and Analysis Organization' has the meaning given the term in section 671 of this title."
 
-Par. (11). Pub. L. 117–263, §7143(b)(2)(N)(v), (vi), redesignated par. (19) as (11) and struck out former par. (11).Prior to amendment, text of par. (11) read as follows: "The term 'information system'—
+Par. (11). Pub. L. 117–263, §7143(b)(2)(N)(v), (vi), redesignated par. (19) as (11) and struck out former par. (11). Prior to amendment, text of par. (11) read as follows: "The term 'information system'—
 
 &emsp;"(A) has the meaning given the term in section 3502 of title 44; and
 

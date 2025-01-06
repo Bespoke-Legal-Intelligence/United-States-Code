@@ -76,7 +76,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (I) Threat awareness
 
-&emsp;&emsp;Coordinate with the Director of the Centers for Disease Control and Prevention, the Director of National Intelligence, the Secretary of Homeland Security, the Assistant to the President for National Security Affairs, the Secretary of Defense, and other relevant Federal officials, such as the Secretary of Agriculture, to maintain a current assessment of national security threats and inform preparedness and response capabilities based on the range of the threats that have the potential to result in a public health emergency.
+&emsp;&emsp;Coordinate with the Director of the Centers for Disease Control and Prevention, the Director of National Intelligence, the Secretary of Homeland Security, the Assistant to the President for National Security Affairs, the Secretary of Defense, and other relevant Federal officials, such as the Secretary of Agriculture, to maintain a currentassessment of national security threats and inform preparedness and response capabilities based on the range of the threats that have the potential to result in a public health emergency.
 
 #### (J) Medical product and supply capacity planning
 
@@ -190,7 +190,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(i) a list of such countermeasures and products necessary to address the needs of pediatric populations;
 
-&emsp;&emsp;&emsp;(ii) a description of measures taken to coordinate with the Office of PediatricTherapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
+&emsp;&emsp;&emsp;(ii) a description of measures taken to coordinate with the Office of Pediatric Therapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
 
 &emsp;&emsp;&emsp;(iii) a description of existing gaps in the Strategic National Stockpile and the development of such countermeasures and products to address the needs of pediatric populations; and
 
@@ -254,7 +254,7 @@ In carrying out subsections (b)(7) and (d), the Secretary shall ensure that info
 
 #### (C) Documentation required
 
-&emsp;&emsp;The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading "Public Health and Social Services Emergency Fund" under the heading "Officeof the Secretary" under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out section 247d–7e(c)(4)(F) of this title.
+&emsp;&emsp;The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading "Public Health and Social Services Emergency Fund" under the heading "Office of the Secretary" under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out section 247d–7e(c)(4)(F) of this title.
 
 #### (g) Appearances before Congress
 

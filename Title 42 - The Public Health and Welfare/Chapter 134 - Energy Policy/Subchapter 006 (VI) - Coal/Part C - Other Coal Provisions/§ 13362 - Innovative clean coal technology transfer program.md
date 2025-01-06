@@ -16,7 +16,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(4) develop markets for United States technologies and, where appropriate, United States coal resources to be utilized in meeting the energy and environmental requirements of foreign countries;
 
-&emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States throughpublicly or privately funded demonstration programs;
+&emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
 
 &emsp;(6) provide for the accelerated deployment of United States technologies that will serve to introduce into foreign countries United States technologies intended to use coal resources in a more efficient, cost-effective, and environmentally acceptable manner;
 

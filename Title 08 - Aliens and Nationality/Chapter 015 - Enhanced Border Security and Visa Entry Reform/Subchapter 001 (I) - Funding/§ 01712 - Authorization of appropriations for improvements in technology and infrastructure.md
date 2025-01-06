@@ -18,7 +18,7 @@
 
 #### (3) Offset of increases in fees
 
-&emsp;The Attorney General may, to the extent reasonable, increase land border fees for the issuance of arrival-departure documents to offset technology costs.
+&emsp;The Attorney General may, to the extent reasonable, increase land border fees for theissuance of arrival-departure documents to offset technology costs.
 
 #### (b) Improvement and expansion of INS, State Department, and customs facilities
 
@@ -76,7 +76,7 @@ Implementation.—The Under Secretary of Homeland Security for Border and Transp
 
 "(d)
 
-Report.—Not later than 1 year after implementing the pilot program under subsection (a), theUnder Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program."
+Report.—Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science, Space, and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program."
 
 #### Advanced Technology Northern Border Security Pilot Program
 

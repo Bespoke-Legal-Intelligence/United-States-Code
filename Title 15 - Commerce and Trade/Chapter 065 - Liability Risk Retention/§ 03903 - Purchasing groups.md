@@ -60,7 +60,7 @@ A State may require that a person acting, or offering to act, as an agent or bro
 
 #### (e) Designation of agent for service of documents and process
 
-A purchasing group shall register with and designate the State insurance commissioner of each State in which it does business as its agent solely for the purpose of receiving service of legal documents or process, except that such requirement shall not apply in the case of a purchasing group—
+A purchasing group shall register with and designate the State insurance commissioner of each State in which it does business as its agentsolely for the purpose of receiving service of legal documents or process, except that such requirement shall not apply in the case of a purchasing group—
 
 &emsp;(1) which—
 

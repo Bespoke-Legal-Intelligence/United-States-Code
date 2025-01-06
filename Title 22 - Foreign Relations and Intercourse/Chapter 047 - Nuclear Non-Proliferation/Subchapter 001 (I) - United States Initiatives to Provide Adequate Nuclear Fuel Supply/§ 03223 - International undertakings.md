@@ -8,7 +8,7 @@ Consistent with section 3224 of this title, the President shall institute prompt
 
 &emsp;(2) a set of conditions consistent with subsection (d) under which international fuel assurances under INFA auspices will be provided to recipient nations, including conditions which will ensure that the transferred materials will not be used for nuclear explosive devices;
 
-&emsp;(3) devising, consistent with the policy goals set forth in section 2153b of title 42, feasible and environmentally sound approaches for the siting, development, and management under effective international auspices and inspection of facilities for the provision of nuclear fuel services, including the storage of special nuclear material;
+&emsp;(3) devising, consistent with the policy goals set forth in section 2153b of title 42, feasibleand environmentally sound approaches for the siting, development, and management under effective international auspices and inspection of facilities for the provision of nuclear fuel services, including the storage of special nuclear material;
 
 &emsp;(4) the establishment of repositories for the storage of spent nuclear reactor fuel under effective international auspices and inspection;
 

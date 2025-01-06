@@ -39,10 +39,13 @@
 | [557\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000557%20-%20Employees%20of%20Forest%20Service%3B%20subsistence%20furnished%20to%3B%20personal%20equipment%3B%20supplies%2C%20and%20medical%20attention.md) | Employees of Forest Service; subsistence furnished to; personal equipment; supplies, and medical attention. |
 | [557a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000557a%20-%20Field%20season%20contracts%3B%20authority%20to%20make%20prior%20to%20appropriation.md) | Field season contracts; authority to make prior to appropriation. |
 | 557b, 558. | Omitted or Repealed. |
-| [558a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558a%20-%20Volunteers%20in%20the%20National%20Forests%20Program.md) | Volunteers in the National Forests Program. |
-| [558b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558b%20-%20Incidental%20expenses%20of%20program%20volunteers.md) | Incidental expenses of program volunteers. |
-| [558c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558c%20-%20Employment%20status%20of%20volunteers.md) | Employment status of volunteers. |
-| [558d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [558a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558a%20-%20Purpose.md) | Purpose. |
+| [558b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558b%20-%20Definition%20of%20Secretaries.md) | Definition of Secretaries. |
+| [558c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558c%20-%20Authorization.md) | Authorization. |
+| [558d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558d%20-%20Incidental%20expenses.md) | Incidental expenses. |
+| [558e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558e%20-%20Consideration%20as%20Federal%20employee.md) | .Consideration as Federal employee. |
+| [558f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558f%20-%20Promotion%20of%20volunteer%20opportunities.md) | Promotion of volunteer opportunities. |
+| [558g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558g%20-%20Liability%20insurance.md) | Liability insurance. |
 | [559\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559%20-%20Arrests%20by%20employees%20of%20Forest%20Service%20for%20violations%20of%20laws%20and%20regulations.md) | Arrests by employees of Forest Service for violations of laws and regulations. |
 | [559a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559a%20-%20Reward%20for%20information%20leading%20to%20arrest%20and%20conviction%20for%20violating%20laws%20and%20regulations.md) | Reward for information leading to arrest and conviction for violating laws and regulations. |
 | [559b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559b%20-%20Prevention%20of%20manufacture%2C%20etc.%2C%20of%20marijuana%20and%20other%20controlled%20substances.md) | Prevention of manufacture, etc., of marijuana and other controlled substances. |
@@ -105,6 +108,7 @@
 | 579c–1. | Forest Service interest bearing account. |
 | [579d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579d%20-%20Indirect%20expenditures%3B%20future%20budget%20justifications.md) | Indirect expenditures; future budget justifications. |
 | [579e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579e%20-%20Forest%20service%20budget%20restructure.md) | Forest service budget restructure. |
+| [579f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579f%20-%20Forest%20Service%20Nonrecurring%20Expenses%20Fund.md) | Forest Service Nonrecurring Expenses Fund. |
 | [580\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580%20-%20Use%20of%20Forest%20Service%20appropriations%20for%20repair%2C%20etc.%20of%20equipment%3B%20rental%20of%20fire%20control%20equipment%20to%20non-Federal%20agencies.md) | Use of Forest Service appropriations for repair, etc. of equipment; rental of fire control equipment to non-Federal agencies. |
 | [580a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580a%20-%20Sale%20and%20distribution%20of%20supplies%2C%20equipment%2C%20and%20materials%20to%20other%20Government%20activities%20and%20to%20cooperating%20State%20and%20private%20agencies%E2%80%A6.md) | Sale and distribution of supplies, equipment, and materials to other Government activities and to cooperating State and private agencies; reimbursement. |
 | [580b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580b%20-%20Forest%20Service%20telephone%20lines%3B%20correction%20of%20inductive%20interference.md) | Forest Service telephone lines; correction of inductive interference. |

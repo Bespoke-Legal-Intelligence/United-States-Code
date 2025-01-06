@@ -72,7 +72,7 @@ In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate; and
 
-&emsp;(2) the Committee on Appropriations, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committeeon the Judiciary of the House of Representatives.
+&emsp;(2) the Committee on Appropriations, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives.
 
 (Pub. L. 114–328, div. A, title XII, §1264, Dec. 23, 2016, 130 Stat. 2536.)
 

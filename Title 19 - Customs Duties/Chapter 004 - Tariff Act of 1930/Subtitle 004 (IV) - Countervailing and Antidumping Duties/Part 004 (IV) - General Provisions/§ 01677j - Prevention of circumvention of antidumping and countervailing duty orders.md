@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(iii) a countervailing duty order issued under section 1671e of this title or section 1303 <sup>1</sup> of this title,
 
-&emsp;&emsp;(B) such merchandise sold in the United States is completed or assembled in the United States from parts or components produced in the foreign country with respect to which such order or finding applies,
+&emsp;&emsp;(B) such merchandise sold in the United States is completed or assembled in theUnited States from parts or components produced in the foreign country with respect to which such order or finding applies,
 
 &emsp;&emsp;(C) the process of assembly or completion in the United States is minor or insignificant, and
 

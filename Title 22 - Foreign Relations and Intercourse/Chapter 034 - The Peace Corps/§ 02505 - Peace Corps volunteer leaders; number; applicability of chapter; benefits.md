@@ -4,7 +4,7 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 
 &emsp;(1) volunteer leaders shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President;
 
-&emsp;(2) spouses and minor children of volunteer leaders may receive such living, travel, and leave allowances, and such housing, transportation, subsistence, and essential special items of clothing, as the President may determine, but the authority contained in this paragraph shall be exercised only under exceptional circumstances;
+&emsp;(2) spouses and minor children of volunteer leaders may receive such living, travel, andleave allowances, and such housing, transportation, subsistence, and essential special items of clothing, as the President may determine, but the authority contained in this paragraph shall be exercised only under exceptional circumstances;
 
 &emsp;(3) spouses and minor children of volunteer leaders accompanying them may receive such health care as the President may determine and upon such terms as he may determine, including health care in any facility referred to in section 2504(e) of this title, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in section 2504(e) of this title; and
 
@@ -16,7 +16,7 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 

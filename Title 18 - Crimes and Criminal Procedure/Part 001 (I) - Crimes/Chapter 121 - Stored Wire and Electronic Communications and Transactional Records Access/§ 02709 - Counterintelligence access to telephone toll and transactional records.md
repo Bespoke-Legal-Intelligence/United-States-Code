@@ -6,7 +6,7 @@ Duty to Provide.—A wire or electronic communication service provider shall com
 
 (b)
 
-Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or aSpecial Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—
+Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—
 
 &emsp;(1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and
 
@@ -80,7 +80,7 @@ Dissemination by Bureau.—The Federal Bureau of Investigation may disseminate i
 
 (f)
 
-Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
+Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent SelectCommittee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
 
 (g)
 
@@ -138,5 +138,5 @@ Subsec. (e). Pub. L. 103–142, §2, inserted ", and the Committee on the Judic
 
 #### Effective Date
 
-Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

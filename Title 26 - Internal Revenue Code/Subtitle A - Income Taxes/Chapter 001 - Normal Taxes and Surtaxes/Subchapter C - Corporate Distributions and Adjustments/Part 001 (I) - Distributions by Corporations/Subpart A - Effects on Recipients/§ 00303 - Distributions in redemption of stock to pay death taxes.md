@@ -82,7 +82,7 @@ Where stock in a corporation is the subject of a generation-skipping transfer (w
 
 &emsp;"(1) the stock shall be deemed to be included in the gross estate of the deemed transferor;
 
-&emsp;"(2) taxes of the kind referred to in subsection (a)(1) which are imposed because of the generation-skipping transfer shall be treated as imposed because of thedeemed transferor's death (and for this purpose the tax imposed by section 2601 shall be treated as an estate tax);
+&emsp;"(2) taxes of the kind referred to in subsection (a)(1) which are imposed because of the generation-skipping transfer shall be treated as imposed because of the deemed transferor's death (and for this purpose the tax imposed by section 2601 shall be treated as an estate tax);
 
 &emsp;"(3) the period of distribution shall be measured from the date of the generation-skipping transfer; and
 

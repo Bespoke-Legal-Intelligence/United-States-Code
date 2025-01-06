@@ -52,7 +52,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
-&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technologyor approach having the potential for improved cost-effectiveness in estuary habitat restoration.
+&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technology or approach having the potential for improved cost-effectiveness in estuary habitat restoration.
 
 #### (d) Cost sharing
 
@@ -82,7 +82,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (3) Non-Federal share
 
-&emsp;The non-Federal share of the cost of an estuary habitat restoration project carried out under this chapter shall include lands, easements, rights-of-way, and relocations and may include services (including monitoring), or any other form of in-kind contribution determined by the Secretary to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
+&emsp;The non-Federal share of the cost of an estuary habitat restoration project carried outunder this chapter shall include lands, easements, rights-of-way, and relocations and may include services (including monitoring), or any other form of in-kind contribution determined by the Secretary to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
 
 #### (4) Operation and maintenance
 

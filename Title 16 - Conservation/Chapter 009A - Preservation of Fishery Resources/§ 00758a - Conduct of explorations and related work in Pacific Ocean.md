@@ -14,7 +14,7 @@ The Secretary of Commerce is authorized and directed to conduct such fishing exp
 
 #### Transfer of Functions
 
-United States Fish and Wildlife Service, consisting of Bureau of Commercial Fisheries and Bureau of Sport Fisheries and Wildlife, succeeded and replaced Fish and Wildlife Service of Department of the Interior under provisions of Fish and Wildlife Act of 1956, as originally provided in section 742b(a) and (d) of this title.
+United States Fish and Wildlife Service, consisting of Bureau of Commercial Fisheries and Bureau of SportFisheries and Wildlife, succeeded and replaced Fish and Wildlife Service of Department of the Interior under provisions of Fish and Wildlife Act of 1956, as originally provided in section 742b(a) and (d) of this title.
 
 #### Dogfish Sharks: Research To Control and Eradicate or To Discover Commercial Uses
 

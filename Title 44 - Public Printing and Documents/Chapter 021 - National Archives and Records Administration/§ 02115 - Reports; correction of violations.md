@@ -20,6 +20,8 @@ Subsec. (b). Pub. L. 113–187, §9(e)(2), struck out "either" after "When", str
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(8), amended section generally, inserting reference to Archivist and striking out reference to chapter 27 of this title.
 
+Pub. L. 98–497, §102(a)(1), renumbered section 2111 of this title as this section.
+
 <b>1976</b>—Subsec. (b). Pub. L. 94–575 inserted reference to chapter 33 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>

@@ -26,7 +26,7 @@
 
 &emsp;(9) Publicize the results of medical research which are of particular significance to veterans who are minorities.
 
-&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act\(42 U.S.C. 289a–2) with respect to the inclusion of minorities in clinical research and on particular health conditions affecting the health of members of minority groups which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are minorities.
+&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act (42 U.S.C. 289a–2) with respect to the inclusion of minorities in clinical research and on particular health conditions affecting the health of members of minority groups which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are minorities.
 
 &emsp;(11) Provide support and administrative services to the Advisory Committee on Minority Veterans provided for under section 544 of this title.
 

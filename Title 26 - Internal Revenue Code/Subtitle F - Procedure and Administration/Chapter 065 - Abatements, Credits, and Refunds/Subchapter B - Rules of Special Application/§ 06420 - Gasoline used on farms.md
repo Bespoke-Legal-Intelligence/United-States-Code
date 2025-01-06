@@ -156,7 +156,7 @@ Subsec. (i)(4). Pub. L. 97–473 added par. (4). Notwithstanding the directory l
 
 Subsec. (c)(4), (5). Pub. L. 95–458, §3(a), added par. (4) and redesignated former par. (4) as (5).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(26) (C)(ii), (b)(13)(A), substituted "subsection (g)" for "subsection\(h)" and struck out "or his delegate" after "Secretary".
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(26) (C)(ii), (b)(13)(A), substituted "subsection (g)" for "subsection (h)" and struck out "or his delegate" after "Secretary".
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(26)(A), among other changes, struck out provisions relating to gasoline used before July 1, 1965, and struck out requirement that a person's first taxable year beginning after June 30, 1965, include the period after June 30, 1965, and before the beginning of that first taxable year.
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacksfrom such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 #### Effective Date of 1983 Amendments
 

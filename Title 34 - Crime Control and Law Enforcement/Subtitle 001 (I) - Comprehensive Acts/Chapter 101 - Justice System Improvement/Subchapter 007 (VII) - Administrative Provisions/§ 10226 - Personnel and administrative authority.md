@@ -40,7 +40,7 @@ Section was formerly classified to section 3788 of Title 42, The Public Health a
 
 A prior section 807 of Pub. L. 90–351 was classified to section 3787 of Title 42, The Public Health and Welfare, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
-Provisions similar to subsecs. (b), (c), (d) to (f), and (g) of this section were contained in sections 3789, 3789b(a), 3789c(a) to (c), and 3789h of Title 42, The Public Health and Welfare, respectively, prior to repeal by section 609B(e) of Pub. L. 98–473.
+Provisions similar to subsecs. (b), (c), (d) to (f), and (g) of this section were contained in sections 3789,3789b(a), 3789c(a) to (c), and 3789h of Title 42, The Public Health and Welfare, respectively, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
 #### Amendments
 

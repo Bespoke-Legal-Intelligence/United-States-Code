@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 103–270, §4(a), amended subsec. (c) generally. Prior to 
 
 Preliminary Investigation With Respect to Persons Not Listed in Subsection (b).—The Attorney General may conduct a preliminary investigation in accordance with section 592 if—
 
-&emsp;"(1) the Attorney General receives information sufficient to constitute grounds to investigate whether any person other than a person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction; and
+&emsp;"(1) the Attorney General receives information sufficient to constitute grounds to investigate whether any person other than a person described in subsection (b) may have violated any Federal criminallaw other than a violation classified as a Class B or C misdemeanor or an infraction; and
 
 &emsp;"(2) the Attorney General determines that an investigation or prosecution of the person, with respect to the information received, by the Attorney General or other officer of the Department of Justice may result in a personal, financial, or political conflict of interest."
 
@@ -196,7 +196,7 @@ Pending Proceedings.—With respect to any proceeding under chapter 39 of title 
 
 &emsp;&emsp;"(H) The amendments made by section 3 of this Act \[amending sections 203 and 205 of Pub. L. 95–521, set out in Appendix to Title 5, and section 202 of Title 18\], relating to the status of independent counsel and their appointees as special government employees and to their financial disclosure requirements.
 
-&emsp;"(3) Section 594(j) of title 28, United States Code, as added by section 2 of this Act, relating to certainstandards of conduct shall, 90 days after the date of the enactment of this Act, apply to a pending proceeding described in this subsection."
+&emsp;"(3) Section 594(j) of title 28, United States Code, as added by section 2 of this Act, relating to certain standards of conduct shall, 90 days after the date of the enactment of this Act, apply to a pending proceeding described in this subsection."
 
 #### Effective Date of 1984 Amendment
 

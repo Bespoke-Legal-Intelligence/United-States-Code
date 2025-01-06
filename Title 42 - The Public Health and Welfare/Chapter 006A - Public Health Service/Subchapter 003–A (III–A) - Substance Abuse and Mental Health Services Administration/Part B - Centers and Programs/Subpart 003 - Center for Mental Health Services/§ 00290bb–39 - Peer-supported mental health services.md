@@ -36,7 +36,7 @@ In this section, the term "eligible entity" means—
 
 &emsp;&emsp;(A) is principally governed by people living with a mental health condition; and
 
-&emsp;&emsp;(B) mobilizes resources within and outside of the mental health community, which may include through peer-support networks, to increase the prevalence and quality of long-term wellness of individuals living with a mental health condition, including those with a co-occurring substance use disorder; or
+&emsp;&emsp;(B) mobilizes resources within and outside of the mental health community, which may include through peer-support networks, to increase the prevalence and quality of long-term wellness of individuals living with a mental health condition, including thosewith a co-occurring substance use disorder; or
 
 &emsp;(2) an Indian Tribe, Tribal organization, Urban Indian organization, or consortium of Tribes or Tribal organizations.
 

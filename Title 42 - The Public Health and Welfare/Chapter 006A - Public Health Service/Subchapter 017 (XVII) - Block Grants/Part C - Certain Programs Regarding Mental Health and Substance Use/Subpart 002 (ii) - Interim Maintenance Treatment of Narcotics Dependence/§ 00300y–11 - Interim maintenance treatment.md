@@ -96,5 +96,5 @@ Section 300y–27, act July 1, 1944, ch. 373, title XIX, §1937, as added Nov. 4
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L.102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 

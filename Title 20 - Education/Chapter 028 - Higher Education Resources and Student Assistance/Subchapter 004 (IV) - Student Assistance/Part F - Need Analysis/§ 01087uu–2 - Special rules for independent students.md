@@ -24,7 +24,7 @@ In making a determination of independence under section 1087vv(d)(8) of this tit
 
 #### (b) Documentation process for foster care youth
 
-If an institution requires that a student provide documentation that the student was in foster care when the student was age 13 or older, afinancial aid administrator shall consider any of the following as adequate documentation, in the absence of documented conflicting information:
+If an institution requires that a student provide documentation that the student was in foster care when the student was age 13 or older, a financial aid administrator shall consider any of the following as adequate documentation, in the absence of documented conflicting information:
 
 &emsp;(1) Submission of a court order or official State documentation that the student received Federal or State support in foster care.
 
@@ -72,15 +72,11 @@ A financial aid administrator shall retain all documents related to any determin
 
 (Pub. L. 89–329, title IV, §479D, as added Pub. L. 116–260, div. FF, title VII, §702(l)(1), Dec. 27, 2020, 134 Stat. 3161; amended Pub. L. 117–103, div. R, §103(b), Mar. 15, 2022, 136 Stat. 820.)
 
-#### Delayed Effective Date of Section
-
-<i>Section effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, see Effective Date note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generallyto parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

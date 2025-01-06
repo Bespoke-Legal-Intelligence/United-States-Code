@@ -25,7 +25,7 @@
 | :--- | ---: |
 | [6321\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006321%20-%20Absence%20of%20veterans%20to%20attend%20funeral%20services.md) | Absence of veterans to attend funeral services. |
 | [6322\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006322%20-%20Leave%20for%20jury%20or%20witness%20service%3B%20official%20duty%20status%20for%20certain%20witness%20service.md) | Leave for jury or witness service; official duty status for certain witness service. |
-| [6323\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006323%20-%20Military%20leave%3B%20Reserves%20and%20National%20Guardsmen.md) | Military leave; Reserves and National Guardsmen. |
+| [6323\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006323%20-%20Military%20leave%20Reserves%2C%20National%20Guard%20members%2C%20and%20certain%20members%20of%20the%20Space%20Force.md) | Military leave: Reserves, National Guard members, and certain members of the Space Force. |
 | [6324\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006324%20-%20Absence%20of%20certain%20police%20and%20firemen.md) | Absence of certain police and firemen. |
 | [6325\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006325%20-%20Absence%20resulting%20from%20hostile%20action%20abroad.md) | Absence resulting from hostile action abroad. |
 | [6326\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006326%20-%20Absence%20in%20connection%20with%20funerals%20of%20immediate%20relatives%20in%20the%20Armed%20Forces.md) | Absence in connection with funerals of immediate relatives in the Armed Forces. |
@@ -102,6 +102,8 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. A, title XI, §1114(b)(2), Dec. 23, 2024, 138 Stat. 2091, substituted "Military leave: Reserves, National Guard members, and certain members of the Space Force" for "Military leave; Reserves and National Guardsmen" in item 6323.
+
 <b>2021</b>—Pub. L. 117–81, div. A, title XI, §1111(b), Dec. 27, 2021, 135 Stat. 1953, which directed amendment of the table of sections for subchapter II of chapter 63 by adding item 6329d, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
@@ -144,7 +146,7 @@ Memorandum of President of the United States, Jan. 15, 2015, 80 F.R. 3135, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Now more than ever, our Nation's economic success rests on our ability to empower our citizens to choose jobs that best utilize their talents and interests. All employers, including the Federal Government, should support parents to ensure they can both contribute fully in the workplace and also meet the needs of their families. The availability of paid maternity leave, for example, has been shown to increase the likelihood that mothers return to their jobs following the birth of a child, and paid maternity and paternity leave has been shown to improve the health and development outcomes of the infant. In addition, it is critically important for parents and their newborn or newly adopted child to have the opportunity to form strong family attachments and relationships.
+Now more than ever, our Nation's economic success rests on our ability to empower our citizens to choosejobs that best utilize their talents and interests. All employers, including the Federal Government, should support parents to ensure they can both contribute fully in the workplace and also meet the needs of their families. The availability of paid maternity leave, for example, has been shown to increase the likelihood that mothers return to their jobs following the birth of a child, and paid maternity and paternity leave has been shown to improve the health and development outcomes of the infant. In addition, it is critically important for parents and their newborn or newly adopted child to have the opportunity to form strong family attachments and relationships.
 
 Men and women both need time to care for their families and should have access to workplace flexibilities that help them succeed at work and at home. Offering family leave and other workplace flexibilities to parents can help achieve the goals of recruiting and retaining talent, lowering costly worker turnover, increasing employee engagement, boosting employee morale, and ensuring a diverse and inclusive workforce. Yet, the United States lags behind almost every other country in ensuring some form of paid parental leave to its Federal workforce; we are the only developed country in the world without it.
 

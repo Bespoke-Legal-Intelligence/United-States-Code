@@ -42,7 +42,7 @@ Prior sections 10102 and 10103 were omitted in the general amendment of this sub
 
 Section 10102, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1338; Pub. L. 96–296, §10(a)(1), July 1, 1980, 94 Stat. 799; Pub. L. 96–454, §3(a), Oct. 15, 1980, 94 Stat. 2011; Pub. L. 97–261, §6(d)(1), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4, Oct. 22, 1986, 100 Stat. 2993; Pub. L. 103–272, §5(m)(13), July 5, 1994, 108 Stat. 1377; Pub. L. 103–311, title II, §§205(b), 206(f), Aug. 26, 1994, 108 Stat. 1683, 1686, defined terms used in this subtitle. See sections 10102, 13102, and 15102 of this title.
 
-Section 10103, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1340; Pub. L. 96–448, title II, §214(c)(2), Oct. 14, 1980, 94Stat. 1915, provided that the remedies under this subtitle were cumulative. See sections 10501, 13103, and 15103 of this title.
+Section 10103, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1340; Pub. L. 96–448, title II, §214(c)(2), Oct. 14, 1980, 94 Stat. 1915, provided that the remedies under this subtitle were cumulative. See sections 10501, 13103, and 15103 of this title.
 
 A prior chapter 103, consisting of sections 10301 to 10311, 10321, 10322, 10324, 10326 to 10330, 10341 to 10344, 10361 to 10364, and 10381 to 10388, was omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a). See chapter 7 of this title.
 

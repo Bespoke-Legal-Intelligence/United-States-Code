@@ -10,7 +10,7 @@ Amount.—The Federal Government in a civil action may recover from a person—
 
 &emsp;&emsp;(B) not more than $10,000 for each occurrence of prohibited conduct; and
 
-&emsp;(2) whose employee, subcontractor, or subcontractor employee violates section 8702 ofthis title by providing, accepting, or charging a kickback a civil penalty equal to the amount of that kickback.
+&emsp;(2) whose employee, subcontractor, or subcontractor employee violates section 8702 of this title by providing, accepting, or charging a kickback a civil penalty equal to the amount of that kickback.
 
 (b)
 

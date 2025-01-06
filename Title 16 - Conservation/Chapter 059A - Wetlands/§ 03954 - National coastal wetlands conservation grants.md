@@ -10,7 +10,7 @@ Subject to the cost-sharing requirements of this section, the Director may grant
 
 &emsp;(1) consistent with the National Wetlands Priority Conservation Plan developed under section 3921 of this title; and
 
-&emsp;(2) in coastal States that have established dedicated funding for programs to acquire coastal wetlands, natural areas and open spaces. In addition, priority consideration shall be given to coastal wetlands conservation projects in maritime forests on coastal barrier islands.
+&emsp;(2) in coastal States that have established dedicated funding for programs to acquirecoastal wetlands, natural areas and open spaces. In addition, priority consideration shall be given to coastal wetlands conservation projects in maritime forests on coastal barrier islands.
 
 #### (c) Conditions
 
@@ -42,7 +42,7 @@ The Director may only grant or otherwise provide matching moneys to a coastal St
 
 #### (f) Wetlands assessment
 
-The Director shall, with the funds made available in accordance with section 3955 of this title,direct the U.S. Fish and Wildlife Service's National Wetland Inventory to update and digitize wetlands maps in the State of Texas and to conduct an assessment of the status, condition, and trends of wetlands in that State.
+The Director shall, with the funds made available in accordance with section 3955 of this title, direct the U.S. Fish and Wildlife Service's National Wetland Inventory to update and digitize wetlands maps in the State of Texas and to conduct an assessment of the status, condition, and trends of wetlands in that State.
 
 (Pub. L. 101–646, title III, §305, Nov. 29, 1990, 104 Stat. 4785; Pub. L. 102–212, title III, §302(a), Dec. 11, 1991, 105 Stat. 1660.)
 

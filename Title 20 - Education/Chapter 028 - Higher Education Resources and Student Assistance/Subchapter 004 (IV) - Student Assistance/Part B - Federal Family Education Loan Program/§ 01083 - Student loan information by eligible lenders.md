@@ -122,7 +122,7 @@ Each eligible lender shall, at or prior to the start of the repayment period on 
 
 #### (c) Separate notification
 
-Each eligible lender shall, at the time such lender notifies a borrower of approval of a loan which is insured or guaranteed under this part, provide the borrower with a separate notification which summarizes, in simple and understandable terms, the rights and responsibilities of the borrower with respect to the loan, including a statement of the consequences of defaulting on the loan and a statement that each borrower who defaults will be reported to a consumer reporting agency. The requirement of this subsection shall be in addition to the information required by subsection (a) of this section.
+Each eligible lender shall, at the time such lender notifies a borrower of approval of a loan which is insured or guaranteed under this part, provide the borrower with a separate notification which summarizes, in simple and understandable terms, the rights and responsibilitiesof the borrower with respect to the loan, including a statement of the consequences of defaulting on the loan and a statement that each borrower who defaults will be reported to a consumer reporting agency. The requirement of this subsection shall be in addition to the information required by subsection (a) of this section.
 
 #### (d) Special disclosure rules on PLUS loans, and unsubsidized loans
 
@@ -202,7 +202,7 @@ Loans made under sections 1078–2 and 1078–8 of this title shall not be subje
 
 &emsp;The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
 
-(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704; Pub. L. 110–315, title IV, §434(a), Aug. 14, 2008, 122 Stat. 3247.)
+(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987,101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704; Pub. L. 110–315, title IV, §434(a), Aug. 14, 2008, 122 Stat. 3247.)
 
 #### <b>Editorial Notes</b>
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 2(c)(53) of Pub. L. 103–208 effective on and after 60 days after Dec. 20, 1993 andamendments by section 2(c)(54), (k)(4) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, see section 5(a), (b)(4) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by section 2(c)(53) of Pub. L. 103–208 effective on and after 60 days after Dec. 20, 1993 and amendments by section 2(c)(54), (k)(4) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, see section 5(a), (b)(4) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

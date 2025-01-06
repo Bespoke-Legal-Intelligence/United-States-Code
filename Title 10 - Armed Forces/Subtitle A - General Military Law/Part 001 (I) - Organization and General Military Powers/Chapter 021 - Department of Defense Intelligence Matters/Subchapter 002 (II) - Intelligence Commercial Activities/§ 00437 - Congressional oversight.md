@@ -12,7 +12,7 @@ Current Information.—The Secretary of Defense shall ensure that congressional 
 
 Congressional Intelligence Committees Defined.—In this section, the term "congressional intelligence committees" has the meaning given the term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 440; amended Pub. L. 107–306, title VIII, §811(b)(4)(A), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–136, div. A, title X, §1031(a)(7), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 108–375, div. A, title X, §1084(d)(3), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title X, §1061(5), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 113–66, div. A, title IX, §921(c), Dec. 26, 2013, 127 Stat. 827.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 440; amended Pub. L. 107–306, titleVIII, §811(b)(4)(A), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–136, div. A, title X, §1031(a)(7), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 108–375, div. A, title X, §1084(d)(3), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title X, §1061(5), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 113–66, div. A, title IX, §921(c), Dec. 26, 2013, 127 Stat. 827.)
 
 #### <b>Editorial Notes</b>
 

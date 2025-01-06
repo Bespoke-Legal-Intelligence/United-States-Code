@@ -8,7 +8,7 @@
 
 &emsp;(A) The number and dollar amount for each item referred to in paragraph (1), by census tracts for mortgage loans secured by property located within any county with a population of more than 30,000, within that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, otherwise, by county, for mortgage loans secured by property located within any other county within that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
-&emsp;(B) The number and dollar amount for each item referred to in paragraph (1) for all such mortgage loans which are secured by property located outside that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+&emsp;(B) The number and dollar amount for each item referred to in paragraph (1) for all such mortgage loans which are secured by property located outside that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical areathat is not comprised of designated primary metropolitan statistical areas.
 
 > For the purpose of this paragraph, a depository institution which maintains offices in more than one primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas shall be required to make the information required by this paragraph available at any such office only to the extent that such information relates to mortgage loans which were originated or purchased (or for which completed applications were received) by an office of that depository institution located in the primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the office making such information available is located. For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.
 
@@ -70,7 +70,7 @@ Subject to subsection (h), the Bureau shall prescribe a standard format for the 
 
 #### (f) Data disclosure system; operation, etc.
 
-The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised ofdesignated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
 #### (g) Exceptions
 
@@ -134,7 +134,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 #### (3) <sup>2</sup> Required compliance
 
-&emsp;Notwithstanding paragraphs (1) and (2), an insured depository institution shall comply with paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of "needs to improve record of meeting community credit needs" during each of its 2 most recent examinations or a rating of "substantial noncompliance in meeting community credit needs" on its most recent examination under section 2906(b)(2) of this title.
+&emsp;Notwithstanding paragraphs (1) and (2), an insured depository institution shall complywith paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of "needs to improve record of meeting community credit needs" during each of its 2 most recent examinations or a rating of "substantial noncompliance in meeting community credit needs" on its most recent examination under section 2906(b)(2) of this title.
 
 #### (3) <sup>2</sup> Exemption from certain disclosure requirements
 
@@ -182,7 +182,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 #### (6) Retention of information
 
-&emsp;Notwithstanding subsection (c), the loan application register information described inparagraph (1) for any year shall be maintained and made available, upon request, for 3 years after the close of the 1st year during which such information is required to be maintained and made available.
+&emsp;Notwithstanding subsection (c), the loan application register information described in paragraph (1) for any year shall be maintained and made available, upon request, for 3 years after the close of the 1st year during which such information is required to be maintained and made available.
 
 #### (7) Minimizing compliance costs
 
@@ -262,7 +262,7 @@ In this section—
 
 &emsp;(2) the term "insured depository institution" has the meaning given the term in section 1813 of this title.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L.100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097; Pub. L. 115–174, title I, §104(a), (c), May 24, 2018, 132 Stat. 1300, 1301.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097; Pub. L. 115–174, title I, §104(a), (c), May 24, 2018, 132 Stat. 1300, 1301.)
 
 #### <b>Editorial Notes</b>
 

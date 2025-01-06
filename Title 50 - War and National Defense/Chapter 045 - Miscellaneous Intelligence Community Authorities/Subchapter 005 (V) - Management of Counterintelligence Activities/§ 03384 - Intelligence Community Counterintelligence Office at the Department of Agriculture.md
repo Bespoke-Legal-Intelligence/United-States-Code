@@ -46,7 +46,7 @@ In this section:
 
 &emsp;&emsp;The Director of the Intelligence Community Counterintelligence Office shall carry out the following responsibilities:
 
-&emsp;&emsp;&emsp;(i) Serving as the head of the Intelligence Community Counterintelligence Office, with supervisory responsibility for the Intelligence Community Counterintelligence Office and any other personnel assigned to the Intelligence Community Counterintelligence Office.
+&emsp;&emsp;&emsp;(i) Serving as the head of the Intelligence Community CounterintelligenceOffice, with supervisory responsibility for the Intelligence Community Counterintelligence Office and any other personnel assigned to the Intelligence Community Counterintelligence Office.
 
 &emsp;&emsp;&emsp;(ii) Advising the Secretary on counterintelligence and intelligence information.
 
@@ -106,7 +106,7 @@ In this section:
 
 To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director of National Intelligence may expend such sums as are authorized within the National Intelligence Program of the Office of the Director of National Intelligence for—
 
-&emsp;(1) the renovation, furnishing, and equipping of a Federal building, as necessary, to meet the security and operational requirements of the Intelligence Community Counterintelligence Office;
+&emsp;(1) the renovation, furnishing, and equipping of a Federal building, as necessary, to meetthe security and operational requirements of the Intelligence Community Counterintelligence Office;
 
 &emsp;(2) the provision of connectivity to the Intelligence Community Counterintelligence Office to enable briefings, secure audio and video communications, and collaboration between employees of the Department and the intelligence community at the unclassified, secret, and top secret levels;
 

@@ -16,7 +16,7 @@ Medical and Dental School Students.—(1) Under the stipend program under this c
 
 &emsp;&emsp;(i) complete the educational phase of the program;
 
-&emsp;&emsp;(ii) accept a reappointment or redesignation within the person's reserve component, if tendered, based upon the person's healthprofession, following satisfactory completion of the educational and intern programs; and
+&emsp;&emsp;(ii) accept a reappointment or redesignation within the person's reserve component, if tendered, based upon the person's health profession, following satisfactory completion of the educational and intern programs; and
 
 &emsp;&emsp;(iii) participate in a residency program; and
 

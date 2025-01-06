@@ -61,7 +61,7 @@ Report on Life Cycle Planning for Technical Data Needs.—Not later than 270 day
 
 &emsp;"(2) a description of the extent to which program managers have received training to better assess the long-term technical data needs of major weapon systems and subsystems; and
 
-&emsp;"(3) a description of one or more examples, if any, where a priced contract option has been used on major weapon systems for the future delivery of technical data and one or more examples, if any, where all relevant technical data were acquired upon contract award."
+&emsp;"(3) a description of one or more examples, if any, where a priced contract option has been used on major weapon systems for the future delivery of technical data and one or more examples, if any, whereall relevant technical data were acquired upon contract award."
 
 
 ---

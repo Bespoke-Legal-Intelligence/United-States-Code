@@ -52,7 +52,7 @@ Section 1045, Pub. L. 89–329, title II, §235, as added Pub. L. 94–482, titl
 
 Section 1046, Pub. L. 89–329, title II, §236, as added Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2091, required consultations by grantees with State agencies.
 
-A prior section 1047, Pub. L. 89–329, title II, §241, as added Pub. L. 99–498, title II, §207, Oct. 17, 1986, 100 Stat. 1289; amended Pub. L. 102–325, title II, §201, July 23,1992, 106 Stat. 471; Pub. L. 103–208, §2(a)(3), Dec. 20, 1993, 107 Stat. 2457, authorized Secretary to make grants to and enter into contracts with eligible institutions, library organizations or agencies to assist in strengthening library and information science programs and libraries in historically black colleges and universities and other minority-serving institutions, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+A prior section 1047, Pub. L. 89–329, title II, §241, as added Pub. L. 99–498, title II, §207, Oct. 17, 1986, 100 Stat. 1289; amended Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 471; Pub. L. 103–208, §2(a)(3), Dec. 20, 1993, 107 Stat. 2457, authorized Secretary to make grants to and enter into contracts with eligible institutions, library organizations or agencies to assist in strengthening library and information science programs and libraries in historically black colleges and universities and other minority-serving institutions, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1047 and prior sections 1047a to 1047j were omitted in the general amendment of former part D of this subchapter by Pub. L. 99–498.
 

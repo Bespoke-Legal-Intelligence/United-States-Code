@@ -304,7 +304,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare \& Medicaid Services for purposes of, subject to subparagraph (B), carrying outsections 1395l(z),<sup>1</sup> 1395m(l)(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
+&emsp;&emsp;After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare \& Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395l(z),<sup>1</sup> 1395m(l)(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
 
 #### (B) Limitation
 
@@ -386,7 +386,7 @@ Subsec. (h)(10). Pub. L. 114–10, §505(b)(2), added par. (10).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §6402(j)(1)(C), inserted ", or otherwise," after "entities".
 
-Subsec. (c)(4), (5). Pub. L. 111–148, §6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5)
+Subsec. (c)(4), (5). Pub. L. 111–148, §6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (h)(1). Pub. L. 111–148, §6411(b)(1), substituted "this subchapter" for "part A or B" in introductory provisions.
 

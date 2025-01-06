@@ -32,7 +32,7 @@
 
 #### (b) Application for order; authorization
 
-Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the ForeignIntelligence Surveillance Court. Notwithstanding any other provision of law, a judge of the court to whom application is made may grant an order in accordance with section 1824 of this title approving a physical search in the United States of the premises, property, information, or material of a foreign power or an agent of a foreign power for the purpose of collecting foreign intelligence information.
+Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the Foreign Intelligence Surveillance Court. Notwithstanding any other provision of law, a judge of the court to whom application is made may grant an order in accordance with section 1824 of this title approving a physical search in the United States of the premises, property, information, or material of a foreign power or an agent of a foreign power for the purpose of collecting foreign intelligence information.
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
@@ -44,7 +44,7 @@ The court of review established under section 1803(b) of this title shall have j
 
 #### (e) Expeditious conduct of proceedings; security measures for maintenance of records
 
-Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
+Judicial proceedings under this subchapter shall be concluded as expeditiously as possible.The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
 
 (Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 115–118, title II, §205(a)(2), (b)(3), Jan. 19, 2018, 132 Stat. 21, 22.)
 

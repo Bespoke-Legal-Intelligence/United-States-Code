@@ -146,7 +146,7 @@ Pub. L. 110–234, title VIII, §8003(a), May 22, 2008, 122 Stat. 1281, and Pub.
 
 &emsp;"(3) rising rates of obesity and other public health problems relating to the inactivity of the citizens of the United States have been shown to be ameliorated by improving public access to safe and attractive areas for outdoor recreation;
 
-&emsp;"(4) in rapidly-growing communities of all sizes throughout the United States, remaining parcels of forest land play an essential role in protecting public water supplies;
+&emsp;"(4) in rapidly-growing communities of all sizes throughout the United States, remaining parcels offorest land play an essential role in protecting public water supplies;
 
 &emsp;"(5) forest parcels owned by local governmental entities and nonprofit organizations are providing important demonstration sites for private landowners to learn forest management techniques;
 

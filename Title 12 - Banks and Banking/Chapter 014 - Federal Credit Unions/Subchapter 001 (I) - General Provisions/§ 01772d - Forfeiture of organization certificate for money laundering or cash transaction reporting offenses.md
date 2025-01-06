@@ -6,7 +6,7 @@
 
 #### (A) Duty to notify
 
-&emsp;&emsp;If a credit union has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Board a written notification of the conviction and shall include a certified copyof the order of conviction from the court rendering the decision.
+&emsp;&emsp;If a credit union has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Board a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
 
 #### (B) Notice of termination; pretermination hearing
 
@@ -30,7 +30,7 @@ In determining whether a franchise shall be forfeited under subsection (a), the 
 
 &emsp;(3) The extent to which the credit union has fully cooperated with law enforcement authorities with respect to the investigation of the money laundering offense of which the credit union was found guilty.
 
-&emsp;(4) The extent to which the credit union has implemented additional internal controls (since the commission of the offense of which the credit union was found guilty) to prevent the occurrence of any other money laundering offense.
+&emsp;(4) The extent to which the credit union has implemented additional internal controls (since the commission of the offense of whichthe credit union was found guilty) to prevent the occurrence of any other money laundering offense.
 
 &emsp;(5) The extent to which the interest of the local community in having adequate deposit and credit services available would be threatened by the forfeiture of the franchise.
 

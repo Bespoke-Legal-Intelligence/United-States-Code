@@ -160,7 +160,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H) (as in effect before its repeal by the Tax Increase Prevention Act of 2014), or
 
-&emsp;&emsp;&emsp;&emsp;(II) alternative minimum taxable income determined without regard to suchdeduction and the deduction under section 199 <sup>1</sup> reduced by the amount determined under clause (i), and
+&emsp;&emsp;&emsp;&emsp;(II) alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 <sup>1</sup> reduced by the amount determined under clause (i), and
 
 &emsp;&emsp;(B) in determining the amount of such deduction—
 
@@ -224,7 +224,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354;Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042; Pub. L. 115–97, title I, §§11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, 131 Stat. 2077, 2093; Pub. L. 115–141, div. U, title IV, §401(b)(7), (8), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title I, §103(b), Dec. 20, 2019, 133 Stat. 3228.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042; Pub. L. 115–97, title I, §§11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, 131 Stat. 2077, 2093; Pub. L. 115–141, div. U, title IV, §401(b)(7), (8), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title I, §103(b), Dec. 20, 2019, 133 Stat. 3228.)
 
 #### <b>Editorial Notes</b>
 
@@ -288,7 +288,7 @@ Subsec. (g)(4)(B)(iii). Pub. L. 110–289 added cl. (iii).
 
 <b>2007</b>—Subsec. (g)(4)(C)(ii)(I). Pub. L. 110–172, §11(g)(1), substituted "921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)" for "921".
 
-Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of section 54(g)(4)(C)(iv) of this title, by substituting "an organization to whichpart I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)", was not executed in light of the identical amendment made by Pub. L. 113–295, §215(b), effective as if included in Pub. L. 110–172. See 2014 Amendment note above.
+Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of section 54(g)(4)(C)(iv) of this title, by substituting "an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)", was not executed in light of the identical amendment made by Pub. L. 113–295, §215(b), effective as if included in Pub. L. 110–172. See 2014 Amendment note above.
 
 <b>2006</b>—Subsec. (c)(2). Pub. L. 109–304, in introductory provisions, substituted "chapter 535 of title 46, United States Code" for "section 607 of the Merchant Marine Act, 1936 (46 U.S.C. 1177)", and, in subpars. (A) and (B), substituted "such chapter 535" for "such section 607".
 
@@ -382,7 +382,7 @@ Subsec. (b)(1)(F). Pub. L. 101–508, §11103(b), added subpar. (F).
 
 Subsec. (b)(3). Pub. L. 101–508, §11801(c)(9)(G)(i), substituted "section 422" for "section 422A".
 
-Pub. L. 101–508, §11801(c)(9)(G)(ii), which directed the substitution of "section 422(c)(2)" for "section 422A(c)(2)", was executed by substituting "Section422(c)(2)" for "Section 422A(c)(2)". See 1996 Amendment note above.
+Pub. L. 101–508, §11801(c)(9)(G)(ii), which directed the substitution of "section 422(c)(2)" for "section 422A(c)(2)", was executed by substituting "Section 422(c)(2)" for "Section 422A(c)(2)". See 1996 Amendment note above.
 
 Subsec. (c)(1). Pub. L. 101–508, §11801(c)(2)(A), substituted heading for one which read: "Adjustment for book income or adjusted current earnings" and amended text generally. Prior to amendment, text read as follows:
 
@@ -400,7 +400,7 @@ Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which rela
 
 Subsec. (g)(1), (2)(A). Pub. L. 101–508, §11801(c)(2)(B), which directed that pars. (1) and (2) "of section 59(g) are each amended by striking 'beginning after 1989' ", was executed to pars. (1) and (2)(A) of subsec. (g) of this section after "any taxable year". See 1996 Amendment note above.
 
-Subsec. (g)(4)(C)(iii). Pub. L. 101–508, §11801(c)(2)(C), substituted heading for one which read: "Special rule for dividends from section 936 companies" and amended text generally. Prior to amendment, text read as follows: "In the case of any dividend received from a corporation eligible for the credit provided by section 936, rules similar to the rules of subparagraph (F) of subsection (f)(1) shall apply, except that '75 percent' shall be substituted for '50 percent' in clause (i) thereof."
+Subsec. (g)(4)(C)(iii). Pub. L. 101–508, §11801(c)(2)(C), substituted heading for one which read: "Special rule for dividends from section 936 companies" and amendedtext generally. Prior to amendment, text read as follows: "In the case of any dividend received from a corporation eligible for the credit provided by section 936, rules similar to the rules of subparagraph (F) of subsection (f)(1) shall apply, except that '75 percent' shall be substituted for '50 percent' in clause (i) thereof."
 
 Subsec. (g)(4)(D)(ii). Pub. L. 101–508, §11704(a)(1), substituted "years" for "year".
 
@@ -650,7 +650,7 @@ Exception.—The amendments made by this section \[amending this section and sec
 
 #### Effective Date of 2004 Amendments
 
-Pub. L. 108–357, title I, §101(c), Oct. 22, 2004, 118 Stat. 1423, provided that: "The amendments made by this section \[amending this section and sections 275, 864, 903, and 999 of this title and repealing sections 114 and 941to 943 of this title\] shall apply to transactions after December 31, 2004."
+Pub. L. 108–357, title I, §101(c), Oct. 22, 2004, 118 Stat. 1423, provided that: "The amendments made by this section \[amending this section and sections 275, 864, 903, and 999 of this title and repealing sections 114 and 941 to 943 of this title\] shall apply to transactions after December 31, 2004."
 
 Pub. L. 108–357, title I, §102(e), Oct. 22, 2004, 118 Stat. 1429, as amended by Pub. L. 109–135, title IV, §403(a)(19), Dec. 21, 2005, 119 Stat. 2619, provided that:
 
@@ -676,7 +676,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Exception for existing fasits.—Paragraph (1) shall not apply to any FASIT in existence on the date of the enactment of this Act \[Oct. 22, 2004\] to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance."
 
-Pub. L. 108–311, title IV, §403(f), Oct. 4, 2004, 118 Stat. 1188, provided that: "The amendments made by this section \[amending this section, sections 137, 168, 172, and 1400L of this title, section 1306 of Title 29, Labor, and provisions set out as a note under this section\] shall take effect as if included in the provisions of the Job Creation and Worker Assistance Act of 2002 \[Pub. L. 107–147\] to which they relate."
+Pub. L. 108–311, title IV, §403(f), Oct. 4, 2004, 118 Stat. 1188, provided that: "The amendments made by this section \[amending this section, sections 137, 168, 172, and 1400L of this title, section 1306 of Title 29, Labor, and provisions set out as a note under this section\] shall take effect as if included in the provisions of theJob Creation and Worker Assistance Act of 2002 \[Pub. L. 107–147\] to which they relate."
 
 #### Effective Date of 2003 Amendment
 
@@ -782,7 +782,7 @@ Sales income.—If foreign trade income in connection with the lease or rental o
 
 &emsp;"(2)
 
-Limitation on use of gross receipts method.—If any person computed its foreign trade income from any transaction with respect to any property on the basis of a transfer price determined under the method described in section 925(a)(1) of such Code (as in effect before the amendments made by this Act), then the qualifying foreign trade income (as defined in section 941(a) of such Code, as in effect after such amendment) of such person (or any related person) with respect to any other transaction involving such property (and to which the amendments made by this Act apply) shall be zero."
+Limitation on use of gross receipts method.—If any person computed its foreign trade income from any transaction with respect to any property on the basis of a transfer price determined under the method described in section 925(a)(1) of such Code (as in effect before the amendments made by this Act), then the qualifying foreign trade income (as definedin section 941(a) of such Code, as in effect after such amendment) of such person (or any related person) with respect to any other transaction involving such property (and to which the amendments made by this Act apply) shall be zero."
 
 \[Pub. L. 109–222, title V, §513(c), May 17, 2006, 120 Stat. 366, provided that: "The amendments made by this section \[amending section 5 of Pub. L. 106–519, set out above, and provisions set out as a note under section 114 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[May 17, 2006\]."\]
 
@@ -842,7 +842,7 @@ In general.—The amendment made by subsection (b) \[amending this section\] sha
 
 "(B)
 
-Special rules for year which includes september 30, 1990.—In the case of any taxable year which includes September 30, 1990, the amount of acquisition expenses which is required to be capitalized under \[former\] section 56(g)(4)(F) of the Internal RevenueCode of 1986 (as in effect before the amendment made by subsection (b)) by a company which is not a small insurance company shall be the amount which bears the same ratio to the amount which (but for this subparagraph) would be so required to be capitalized as the number of days in such taxable year before September 30, 1990, bears to the total number of days in such taxable year. A similar reduction shall be made in the amount amortized for such taxable year under such \[former\] section 56(g)(4)(F)."
+Special rules for year which includes september 30, 1990.—In the case of any taxable year which includes September 30, 1990, the amount of acquisition expenses which is required to be capitalized under \[former\] section 56(g)(4)(F) of the Internal Revenue Code of 1986 (as in effect before the amendment made by subsection (b)) by a company which is not a small insurance company shall be the amount which bears the same ratio to the amount which (but for this subparagraph) would be so required to be capitalized as the number of days in such taxable year before September 30, 1990, bears to the total number of days in such taxable year. A similar reduction shall be made in the amount amortized for such taxable year under such \[former\] section 56(g)(4)(F)."
 
 Pub. L. 101–508, title XI, §11531(c), Nov. 5, 1990, 104 Stat. 1388–490, provided that: "The amendments made by this section \[amending this section and sections 59 and 59A of this title\] shall apply to taxable years beginning after December 31, 1990."
 
@@ -864,7 +864,7 @@ Binding contract.—The amendments made by this section shall not apply to any o
 
 "(3)
 
-Bankruptcy proceedings.—In the case of a reorganization described in section 368(a)(1)(G) of the Internal Revenue Code of 1986, or an exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3) of such Code), the amendments made by this section shall not apply to any ownership change resulting from such a reorganization or proceeding if a petition in such case was filed with the court before October 3, 1989.
+Bankruptcy proceedings.—In the case of a reorganization described in section 368(a)(1)(G) of the Internal Revenue Code of 1986, or an exchange of debt forstock in a title 11 or similar case (as defined in section 368(a)(3) of such Code), the amendments made by this section shall not apply to any ownership change resulting from such a reorganization or proceeding if a petition in such case was filed with the court before October 3, 1989.
 
 "(4)
 
@@ -928,7 +928,7 @@ Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, as am
 
 #### Application of Former Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992
 
-Pub. L. 104–188, title I, §1702(e)(1)(B), Aug. 20, 1996, 110 Stat. 1870, provided that: "For purposes of applying \[former\] sections 56(g)(1) and 56(g)(3) of the Internal Revenue Code of 1986 with respect to taxable years beginning in 1991 and 1992, the reference in such sections to the alternative tax net operating loss deduction shall be treated as including a reference to the deduction under \[former\] section 56(h) of such Code as in effect before the amendments made by section 1915 of the Energy Policy Act of 1992 \[Pub. L. 102–486\]."
+Pub. L. 104–188, title I, §1702(e)(1)(B), Aug. 20, 1996, 110 Stat. 1870, provided that: "For purposes of applying\[former\] sections 56(g)(1) and 56(g)(3) of the Internal Revenue Code of 1986 with respect to taxable years beginning in 1991 and 1992, the reference in such sections to the alternative tax net operating loss deduction shall be treated as including a reference to the deduction under \[former\] section 56(h) of such Code as in effect before the amendments made by section 1915 of the Energy Policy Act of 1992 \[Pub. L. 102–486\]."
 
 #### Installment Sales; Taxable Years Beginning in 1987
 

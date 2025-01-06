@@ -96,7 +96,7 @@ Polar star.—The term "<i>Polar Star</i>" means Coast Guard Cutter <i>Polar Sta
 
 Healy.—The term "<i>Healy</i>" means Coast Guard Cutter <i>Healy</i> (WAGB 20).
 
-(Added Pub. L. 113–281, title V, §506(a), Dec. 18, 2014, 128 Stat. 3060, §87; renumbered §561, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200;amended Pub. L. 116–283, div. G, title LVXXXI \[LXXXI\], §8111(a), Jan. 1, 2021, 134 Stat. 4637.)
+(Added Pub. L. 113–281, title V, §506(a), Dec. 18, 2014, 128 Stat. 3060, §87; renumbered §561, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200; amended Pub. L. 116–283, div. G, title LVXXXI \[LXXXI\], §8111(a), Jan. 1, 2021, 134 Stat. 4637.)
 
 #### <b>Editorial Notes</b>
 
@@ -204,7 +204,7 @@ Additional exceptions.—Paragraphs (1), (3), (4), and (5) of subsection (a) and
 
 "(c)
 
-Science Mission Requirements.—For any available icebreaker acquired or procured under subsection (a), the Commandant shall ensure scientific research capacity comparable to the Coast Guard Cutter <i>Healy</i> (WAGB 20), for the purposes of hydrographic, bathymetric, oceanographic, weather, atmospheric, climate, fisheries, marine mammals, genetic and other data related to the Arctic, and other research as the Under Secretary determines appropriate.
+Science Mission Requirements.—For any available icebreaker acquired or procured under subsection (a), the Commandant shall ensure scientific researchcapacity comparable to the Coast Guard Cutter <i>Healy</i> (WAGB 20), for the purposes of hydrographic, bathymetric, oceanographic, weather, atmospheric, climate, fisheries, marine mammals, genetic and other data related to the Arctic, and other research as the Under Secretary determines appropriate.
 
 "(d)
 

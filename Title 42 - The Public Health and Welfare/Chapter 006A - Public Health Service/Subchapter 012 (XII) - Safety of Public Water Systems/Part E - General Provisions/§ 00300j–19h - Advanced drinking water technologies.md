@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, not later than 1 year after November 15, 2021, the Administrator shall carry out a study thatexamines the state of existing and potential future technology, including technology that could address cybersecurity vulnerabilities, that enhances or could enhance the treatment, monitoring, affordability, efficiency, and safety of drinking water provided by a public water system.
+&emsp;Subject to the availability of appropriations, not later than 1 year after November 15, 2021, the Administrator shall carry out a study that examines the state of existing and potential future technology, including technology that could address cybersecurity vulnerabilities, that enhances or could enhance the treatment, monitoring, affordability, efficiency, and safety of drinking water provided by a public water system.
 
 #### (2) Report
 
@@ -42,7 +42,7 @@
 
 #### (A) Applications
 
-&emsp;&emsp;To be eligible to receive a grant under the program, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+&emsp;&emsp;To be eligible to receive a grant under the program, an eligible entity shall submit tothe Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
 
 #### (B) Federal share
 

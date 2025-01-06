@@ -162,7 +162,7 @@ Statutory Construction.—Nothing in this section shall be construed to change a
 
 #### Deadline for Establishment of National Registry of Medical Examiners
 
-Pub. L. 112–141, div. C, title II, §32302(a), July 6, 2012, 126 Stat. 788, provided that: "Not later than 1 year afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with section 31149(d)(1) of title 49, United States Code."
+Pub. L. 112–141, div. C, title II, §32302(a), July 6, 2012, 126 Stat. 788, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with section 31149(d)(1) of title 49, United States Code."
 
 #### Internal Oversight Policy
 

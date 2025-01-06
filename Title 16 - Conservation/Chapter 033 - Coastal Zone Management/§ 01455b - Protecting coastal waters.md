@@ -28,7 +28,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (3) Management measures
 
-&emsp;The implementation and continuing revision from time to time of additional managementmeasures applicable to the land uses and areas identified pursuant to paragraphs (1) and (2) that are necessary to achieve and maintain applicable water quality standards under section 1313 of title 33 and protect designated uses.
+&emsp;The implementation and continuing revision from time to time of additional management measures applicable to the land uses and areas identified pursuant to paragraphs (1) and (2) that are necessary to achieve and maintain applicable water quality standards under section 1313 of title 33 and protect designated uses.
 
 #### (4) Technical assistance
 
@@ -44,7 +44,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (7) State coastal zone boundary modification
 
-&emsp;A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e). If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
+&emsp;A proposal to modify the boundaries of the State coastal zone as the coastal managementagency of the State determines is necessary to implement the recommendations made pursuant to subsection (e). If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
 
 #### (c) Program submission, approval, and implementation
 
@@ -122,7 +122,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Amount
 
-&emsp;The total amount of grants to a State under this subsection shall not exceed 50 percent of the total cost to the State of developing a program under this section.
+&emsp;The total amount of grants to a State under this subsection shall not exceed 50 percent ofthe total cost to the State of developing a program under this section.
 
 #### (3) State share
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for thatfiscal year, other than for providing in the form of grants under subsection (f).
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
@@ -212,7 +212,7 @@ In this section—
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§1451 etseq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
 This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 

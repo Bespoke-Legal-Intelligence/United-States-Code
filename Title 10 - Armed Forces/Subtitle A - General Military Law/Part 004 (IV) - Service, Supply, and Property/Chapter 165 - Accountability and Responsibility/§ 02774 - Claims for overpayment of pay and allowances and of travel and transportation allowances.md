@@ -24,7 +24,7 @@
 
 (f) This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added Pub. L. 92–453, §1(1), Oct. 2, 1972, 86 Stat. 758; amended Pub. L. 96–513, title V, §511(98), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 99–224, §2(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–26, §7(j)(7)(A), (B), Apr. 21, 1987, 101 Stat. 283; Pub. L. 102–190, div. A, title VI, §657(b), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §105(b), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 109–364, div. A, title VI, §671(a), Oct. 17, 2006, 120 Stat. 2270.)
+(Added Pub. L. 92–453, §1(1), Oct. 2, 1972, 86 Stat. 758; amended Pub. L. 96–513, title V, §511(98),Dec. 12, 1980, 94 Stat. 2928; Pub. L. 99–224, §2(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–26, §7(j)(7)(A), (B), Apr. 21, 1987, 101 Stat. 283; Pub. L. 102–190, div. A, title VI, §657(b), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §105(b), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 109–364, div. A, title VI, §671(a), Oct. 17, 2006, 120 Stat. 2270.)
 
 #### <b>Editorial Notes</b>
 

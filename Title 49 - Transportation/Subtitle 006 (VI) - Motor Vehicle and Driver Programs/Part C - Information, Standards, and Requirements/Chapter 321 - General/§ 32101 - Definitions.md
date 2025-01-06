@@ -32,7 +32,7 @@ In this part (except chapter 329 and except as provided in section 33101)—
 
 &emsp;(9) "multipurpose passenger vehicle" means a passenger motor vehicle constructed on a truck chassis or with special features for occasional off-road operation.
 
-&emsp;(10) "passenger motor vehicle" means a motor vehicle with motive power designed to carry not more than 12 individuals, but does not include—
+&emsp;(10) "passenger motor vehicle" means a motor vehicle with motive power designed tocarry not more than 12 individuals, but does not include—
 
 &emsp;&emsp;(A) a motorcycle; or
 

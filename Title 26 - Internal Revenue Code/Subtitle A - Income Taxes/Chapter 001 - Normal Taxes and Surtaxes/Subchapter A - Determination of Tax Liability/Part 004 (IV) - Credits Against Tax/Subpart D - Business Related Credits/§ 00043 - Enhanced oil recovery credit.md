@@ -174,7 +174,7 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VII, §707(c), Oct. 22, 2004, 118 Stat. 1550, provided that: "The amendment made by this section \[amending this section\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2004."
+Pub. L. 108–357, title VII, §707(c), Oct. 22, 2004, 118 Stat. 1550, provided that: "The amendment made bythis section \[amending this section\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2004."
 
 #### Effective Date of 2000 Amendment
 
@@ -195,6 +195,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2024</b>—Internal Revenue Notice 2024–61.
 
 <b>2023</b>—Internal Revenue Notice 2023–57.
 

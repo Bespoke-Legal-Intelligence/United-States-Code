@@ -62,7 +62,7 @@ In this section:
 
 #### (b) Determinations of significant foreign cyber intrusions and active measures campaigns
 
-The Director of National Intelligence, the Director of the Federal Bureau of Investigation, and the Secretary of Homeland Security shall jointly carry out subsection (c) if such Directors and the Secretary jointly determine—
+The Director of National Intelligence, the Director of the Federal Bureau of Investigation,and the Secretary of Homeland Security shall jointly carry out subsection (c) if such Directors and the Secretary jointly determine—
 
 &emsp;(1) that on or after December 20, 2019, a significant foreign cyber intrusion or active measures campaign intended to influence an upcoming election for any Federal office has occurred or is occurring; and
 
@@ -96,5 +96,5 @@ The Director of National Intelligence, the Director of the Federal Bureau of Inv
 
 #### Definitions
 
-For definition of "congressional intelligence committees", referred to in subsec. (c)(1), see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definition of "congressional intelligence committees" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

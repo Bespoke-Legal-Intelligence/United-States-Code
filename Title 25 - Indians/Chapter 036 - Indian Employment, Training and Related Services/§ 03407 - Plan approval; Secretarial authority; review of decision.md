@@ -12,7 +12,7 @@ The Secretary shall have exclusive authority to approve or disapprove a plan sub
 
 #### (2) Approval
 
-&emsp;If the Secretary approves a plan under paragraph (1), the Secretary shall authorize the transfer of program funds identified in the plan in accordance with section 3412 of this title.
+&emsp;If the Secretary approves a plan under paragraph (1), the Secretary shall authorize the transfer of program funds identified in theplan in accordance with section 3412 of this title.
 
 #### (3) Denial
 

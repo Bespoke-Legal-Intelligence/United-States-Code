@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (b) Countries eligible for designation; congressional notification
 
-(1) In designating countries as beneficiary countries under this chapter, the President shallconsider only the following countries or successor political entities:
+(1) In designating countries as beneficiary countries under this chapter, the President shall consider only the following countries or successor political entities:
 
 &emsp;Bolivia
 
@@ -52,7 +52,7 @@ The President shall not designate any country a beneficiary country under this c
 
 > &emsp;&emsp;promptly furnishes a copy of such determination to the Senate and House of Representatives;
 
-&emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
+&emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizensor a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
 &emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
 
@@ -202,7 +202,7 @@ Functions of President under subsec. (e)(2)(A) of this section, related to publi
 
 For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-Functions of President under subsec. (e)(2)(A), related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
+Functions of President under subsec. (e)(2)(A), related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616,Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
 
 #### Presidential Designation of Beneficiary Countries
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commission shall establish a reimbursement program, to be known as the "Secure andTrusted Communications Networks Reimbursement Program", to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.
+The Commission shall establish a reimbursement program, to be known as the "Secure and Trusted Communications Networks Reimbursement Program", to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.
 
 #### (b) Eligibility
 
@@ -150,7 +150,7 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 &emsp;&emsp;The Commission may grant an extension of the deadline described in subparagraph (A) for 6 months to all recipients of reimbursements under the Program if the Commission—
 
-&emsp;&emsp;&emsp;(i) finds that the supply of replacement communications equipment or services needed by the recipients to achieve the purposes of the Program is inadequate to meet the needs of the recipients; and
+&emsp;&emsp;&emsp;(i) finds that the supply of replacement communications equipment or servicesneeded by the recipients to achieve the purposes of the Program is inadequate to meet the needs of the recipients; and
 
 &emsp;&emsp;&emsp;(ii) provides notice and a detailed justification for granting the extension to—
 
@@ -218,9 +218,9 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 &emsp;&emsp;&emsp;(ii) has fully complied with (or is in the process of complying with) the commitments made in the application of the recipient for the reimbursement;
 
-&emsp;&emsp;&emsp;(iii) has permanently removed from the communications network of the recipient, replaced, and disposed of (or is in the process of permanently removing, replacing, and disposing of) all covered communications equipment or services that were in the network of the recipient as of the date of the submission of the application of the recipient for the reimbursement; and
+&emsp;&emsp;&emsp;(iii) has permanently removed from the communications network of the recipient, replaced, and disposed of (or is in the process of permanently removing, replacing, and disposing of) all covered communications equipment or services that were in the network of the recipient as of the dateof the submission of the application of the recipient for the reimbursement; and
 
-&emsp;&emsp;&emsp;(iv) has fully complied with (or is in the process of complying with) the timelinesubmitted by the recipient under subparagraph (A)(ii) of paragraph (4) of subsection (d) and the other requirements of such paragraph.
+&emsp;&emsp;&emsp;(iv) has fully complied with (or is in the process of complying with) the timeline submitted by the recipient under subparagraph (A)(ii) of paragraph (4) of subsection (d) and the other requirements of such paragraph.
 
 #### (B) Updated certification
 
@@ -268,13 +268,15 @@ The Program shall be separate from any Federal universal service program establi
 
 #### (k) Limitation
 
-In carrying out this section, the Commission may not expend more than $1,900,000,000.
+In carrying out this section, the Commission may not expend more than $4,980,000,000.
 
-(Pub. L. 116–124, §4, Mar. 12, 2020, 134 Stat. 160; Pub. L. 116–260, div. N, title IX, §901(1), Dec. 27, 2020, 134 Stat. 2120.)
+(Pub. L. 116–124, §4, Mar. 12, 2020, 134 Stat. 160; Pub. L. 116–260, div. N, title IX, §901(1), Dec. 27, 2020, 134 Stat. 2120; Pub. L. 118–159, div. E, title LIV, §5405, Dec. 23, 2024, 138 Stat. 2451.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (k). Pub. L. 118–159 substituted "$4,980,000,000" for "$1,900,000,000".
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–260, §901(1)(A), substituted "10,000,000" for "2,000,000".
 

@@ -14,7 +14,7 @@ The office responsible for the trust fund required by section 10158 of this titl
 
 &emsp;(2) shall administer grant funds received under this subchapter, including, review of spending, processing, progress, financial reporting, technical assistance, grant adjustments, accounting, auditing, and fund disbursement.
 
-(Pub. L. 90–351, title I, §1602, as added Pub. L. 102–521, §4(a)(3), Oct. 25, 1992, 106 Stat. 3404; amended Pub. L. 109–162, title XI, §1111(c)(2)(H), Jan. 5, 2006, 119 Stat. 3102.)
+(Pub. L. 90–351, title I, §1602, as added Pub. L. 102–521, §4(a)(3), Oct. 25, 1992, 106 Stat. 3404;amended Pub. L. 109–162, title XI, §1111(c)(2)(H), Jan. 5, 2006, 119 Stat. 3102.)
 
 #### <b>Editorial Notes</b>
 
@@ -30,7 +30,7 @@ Section was formerly classified to section 3796cc–1 of Title 42, The Public He
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5,2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
 
 #### Transfer of Functions
 

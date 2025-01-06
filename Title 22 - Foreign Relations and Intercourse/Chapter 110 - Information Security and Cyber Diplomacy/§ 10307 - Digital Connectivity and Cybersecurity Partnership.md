@@ -50,7 +50,7 @@ For the purposes of carrying out this section, funds authorized to be appropriat
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

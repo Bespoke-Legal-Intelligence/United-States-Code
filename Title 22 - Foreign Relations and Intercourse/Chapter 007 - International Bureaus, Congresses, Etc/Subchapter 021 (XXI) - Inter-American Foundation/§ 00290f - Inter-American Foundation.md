@@ -6,7 +6,7 @@ There is created as an agency of the United States of America a body corporate t
 
 #### (b) Congressional declaration of purpose
 
-The future of freedom, security, and economic development in the Western Hemisphere rests on the realization that man is the foundation of all human progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seekthrough gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
+The future of freedom, security, and economic development in the Western Hemisphere rests on the realization that man is the foundation of all human progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seek through gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
 
 &emsp;(1) strengthen the bonds of friendship and understanding among the peoples of this hemisphere;
 
@@ -46,7 +46,7 @@ The Foundation, as a corporation—
 
 &emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, avail itself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
 
-&emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest, grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
+&emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest,grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
 
 &emsp;(10) may sue and be sued, complain, and defend, in its corporate name in any court of competent jurisdiction; and
 
@@ -58,7 +58,7 @@ Upon termination of the corporate life of the Foundation all of its assets shall
 
 #### (g) Board of directors; number, term, and appointment
 
-The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the "Board") composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director of the Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed tofill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
+The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the "Board") composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director of the Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
 
 #### (h) Reimbursement of expenses
 
@@ -92,7 +92,7 @@ The Foundation shall be a nonprofit corporation and shall have no capital stock.
 
 #### (o) Personnel; service in foreign governments or agencies
 
-When approved by the Foundation, in furtherance of its purpose, the officers and employees of the Foundation may accept and hold offices or positions to which no compensation is attached with governments or governmental agencies of foreign countries.
+When approved by the Foundation, in furtherance of its purpose, the officers and employeesof the Foundation may accept and hold offices or positions to which no compensation is attached with governments or governmental agencies of foreign countries.
 
 #### (p) Service of employees of other agencies in the Foundation; rights and privileges
 
@@ -110,7 +110,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 (1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
-(2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 forfiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
+(2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 #### (t) Application of chapter 91 of title 31
 
@@ -184,7 +184,7 @@ Subsec. (l). Pub. L. 92–226, §406(5), designated existing provisions as par. 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–529, title IV, §403(b), Oct. 24, 1986, 100 Stat. 3019, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect 120days after the date of enactment of this Act \[Oct. 24, 1986\]."
+Pub. L. 99–529, title IV, §403(b), Oct. 24, 1986, 100 Stat. 3019, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\]."
 
 #### Effective Date of 1985 Amendment
 

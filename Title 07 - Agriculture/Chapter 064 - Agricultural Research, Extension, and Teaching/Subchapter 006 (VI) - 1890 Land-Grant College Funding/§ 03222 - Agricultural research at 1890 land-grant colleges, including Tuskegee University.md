@@ -52,7 +52,7 @@
 
 #### (B) Base amount
 
-&emsp;&emsp;Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978, under section 3157 of this title, shall be allocated among the eligible institutions in the same proportion as funds made available under section 3157 of this title, for the fiscal year ending September 30, 1978, were allocated among the eligible institutions, as so designated as of that date.
+&emsp;&emsp;Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978, under section 3157 of this title, shall be allocated among the eligible institutions in the same proportion as funds made available under section 3157 of this title, for the fiscal year ending September 30, 1978, were allocatedamong the eligible institutions, as so designated as of that date.
 
 #### (C) Additional amount
 
@@ -84,7 +84,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable, receives not less than the amount of funds received by thatother eligible institution under this section for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable, receives not less than the amount of funds received by that other eligible institution under this section for the preceding fiscal year.
 
 #### (iii) Subsequent fiscal years
 
@@ -118,7 +118,7 @@
 
 #### (2) Plan of work required
 
-&emsp;Before funds may be provided to an eligible institution under this section for any fiscal year, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) and shall be approved by the Secretary.
+&emsp;Before funds may be provided to an eligible institution under this section for any fiscalyear, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) and shall be approved by the Secretary.
 
 #### (3) Requirements related to plan of work
 
@@ -240,7 +240,7 @@ Subsec. (b)(2)(B). Pub. L. 97–98, §1432(a)(2), inserted "current at the time 
 
 Subsecs. (c), (d). Pub. L. 97–98, §1432(a)(3), substituted "research director" for "chief administrative officer" wherever appearing.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under former section 450i of this title (now section 3157 of this title), for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
+<b>1978</b>—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relatingto allocation of funds among eligible institutions in same proportion as funds made available under former section 450i of this title (now section 3157 of this title), for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

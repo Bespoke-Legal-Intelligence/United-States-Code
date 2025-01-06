@@ -110,7 +110,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A), is ac
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

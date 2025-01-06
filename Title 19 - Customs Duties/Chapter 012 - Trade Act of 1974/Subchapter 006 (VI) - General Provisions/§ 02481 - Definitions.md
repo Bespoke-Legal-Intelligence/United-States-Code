@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(5) An imported article is "directly competitive with" a domestic article at an earlier or later stage of processing, and a domestic article is "directly competitive with" an imported article at an earlier or later stage of processing, if the importation of the article has an economic effect on producers of the domestic article comparable to the effect of importation of articles in the same stage of processing as the domestic article. For purposes of this paragraph, the unprocessed article is at an earlier stage of processing.
 
-&emsp;(6) The term "modification", as applied to any duty or other import restriction, includesthe elimination of any duty or other import restriction.
+&emsp;(6) The term "modification", as applied to any duty or other import restriction, includes the elimination of any duty or other import restriction.
 
 &emsp;(7) The term "existing" means (A) when used, without the specification of any date, with respect to any matter relating to entering into or carrying out a trade agreement or other action authorized by this chapter, existing on the day on which such trade agreement is entered into or such other action is taken; and (B) when used with respect to a rate of duty, the nonpreferential rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) set forth in rate column numbered 1 of chapters 1 through 97 of the Harmonized Tariff Schedule of the United States on the date specified or (if no date is specified) on the day referred to in clause (A).
 
@@ -48,7 +48,7 @@ Par. (4). Pub. L. 96–39, §202(c)(1), substituted "section 1401a or 1402 of th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1979 Amendment
 

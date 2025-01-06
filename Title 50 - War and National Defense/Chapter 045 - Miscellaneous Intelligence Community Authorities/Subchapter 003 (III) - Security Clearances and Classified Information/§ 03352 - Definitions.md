@@ -28,7 +28,7 @@ In this title:
 
 #### (3) Continuous vetting
 
-&emsp;The term "continuous vetting" has the meaning given such term in Executive OrderNo. 13467 (50 U.S.C. 3161 note; relating to reforming processes for determining suitability for government employment, fitness for contractor employees, and eligibility for access to classified national security information).
+&emsp;The term "continuous vetting" has the meaning given such term in Executive Order No. 13467 (50 U.S.C. 3161 note; relating to reforming processes for determining suitability for government employment, fitness for contractor employees, and eligibility for access to classified national security information).
 
 #### (4) Council
 
@@ -66,5 +66,5 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 #### Definitions
 
-For definition of "congressional intelligence committees", referred to in par. (1)(A), see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definition of "congressional intelligence committees" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

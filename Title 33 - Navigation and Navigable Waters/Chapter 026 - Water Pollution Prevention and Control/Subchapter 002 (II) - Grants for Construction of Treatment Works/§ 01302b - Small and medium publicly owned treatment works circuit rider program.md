@@ -40,7 +40,7 @@ Not later than 2 years after the date on which the Administrator establishes the
 
 #### (2) Limitation on use of funds
 
-&emsp;Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
+&emsp;Of the amounts made available for grants under paragraph (1), not more than 2 percentmay be used to pay the administrative costs of the Administrator.
 
 (June 30, 1948, ch. 758, title II, §224, as added Pub. L. 117–58, div. E, title II, §50206, Nov. 15, 2021, 135 Stat. 1164.)
 

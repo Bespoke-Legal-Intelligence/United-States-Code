@@ -8,7 +8,7 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 #### (1) In general
 
-&emsp;In the case of the geographic area with respect to which the entity involved is applyingfor a grant under section 300ff–51 of this title, the factors referred to in subsection (a), as determined for the period specified in paragraph (2), are—
+&emsp;In the case of the geographic area with respect to which the entity involved is applying for a grant under section 300ff–51 of this title, the factors referred to in subsection (a), as determined for the period specified in paragraph (2), are—
 
 &emsp;&emsp;(A) the number of cases of HIV/AIDS;
 

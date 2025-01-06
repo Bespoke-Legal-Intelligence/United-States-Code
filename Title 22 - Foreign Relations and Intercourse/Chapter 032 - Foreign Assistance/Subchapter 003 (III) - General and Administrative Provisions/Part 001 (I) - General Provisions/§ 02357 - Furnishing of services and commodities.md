@@ -20,7 +20,7 @@ When any agency of the United States Government provides services on an advance-
 
 &emsp;(B) as to the status and responsibility of the designated end-user and his ability effectively to use and maintain such property; and
 
-&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the UnitedStates and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
+&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
 (2) For purposes of transferring property described in this subsection in furtherance of the provisions of part VIII of subchapter I of this chapter, the phrase "the agency administering such subchapter I" shall be considered to refer to the Department of State.
 
@@ -94,7 +94,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Transfer of Functions
 
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec.\(b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Delegation of Functions
 

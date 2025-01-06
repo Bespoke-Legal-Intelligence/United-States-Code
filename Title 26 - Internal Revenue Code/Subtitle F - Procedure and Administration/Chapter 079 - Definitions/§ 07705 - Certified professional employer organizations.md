@@ -96,7 +96,7 @@ For purposes of this title—
 
 &emsp;&emsp;(E) maintain employee records relating to such individual, and
 
-&emsp;&emsp;(F) agree to be treated as a certified professional employer organization for purposes of section 3511 with respect to such individual.
+&emsp;&emsp;(F) agree to be treated as a certified professional employer organization for purposesof section 3511 with respect to such individual.
 
 #### (3) Work site coverage requirement
 

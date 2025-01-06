@@ -82,7 +82,7 @@ Budget and Funding Matters.—(1) Not later than 30 days after the President sub
 
 (h)
 
-Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implicationsof any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
 (2) A system described in this paragraph is any of the following:
 
@@ -104,7 +104,7 @@ Notification of Reduction of Certain Warning Time.—(1) None of the funds autho
 
 &emsp;(B) a period of one year elapses following the date of such notification.
 
-(2) Not later than March 1, 2017, and each year thereafter, the Council shall determine whether the integrated tactical warning and attack assessment system and its command and control system have met all warfighter requirements for operational availability, survivability, andendurability. If the Council determines that such systems have not met such requirements, the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall jointly submit to the congressional defense committees—
+(2) Not later than March 1, 2017, and each year thereafter, the Council shall determine whether the integrated tactical warning and attack assessment system and its command and control system have met all warfighter requirements for operational availability, survivability, and endurability. If the Council determines that such systems have not met such requirements, the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall jointly submit to the congressional defense committees—
 
 &emsp;(A) an explanation for such negative determination;
 
@@ -192,7 +192,7 @@ Subsecs. (f) to (i). Pub. L. 114–92, §1651(1), (2), added subsec. (f) and red
 
 #### Effective Date of 2021 Amendment
 
-Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) ofPub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by section 1845(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

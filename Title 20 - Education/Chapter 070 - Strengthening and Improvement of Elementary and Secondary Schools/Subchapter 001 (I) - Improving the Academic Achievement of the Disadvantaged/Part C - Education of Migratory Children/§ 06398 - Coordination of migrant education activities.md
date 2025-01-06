@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) immunization records and other health information;
 
-&emsp;&emsp;&emsp;(ii) elementary and secondary academic history (including partial credit), creditaccrual, and results from State assessments under section 6311(b)(2) of this title;
+&emsp;&emsp;&emsp;(ii) elementary and secondary academic history (including partial credit), credit accrual, and results from State assessments under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;(iii) other academic information essential to ensuring that migratory children achieve to the challenging State academic standards; and
 
@@ -76,7 +76,7 @@ A prior section 6398, Pub. L. 89–10, title I, §1308, as added Pub. L. 103–3
 
 Subsec. (b)(1). Pub. L. 114–95, §1301(g)(2)(A), struck out "developing effective methods for" before "the electronic transfer".
 
-Subsec. (b)(2)(A). Pub. L. 114–95, §1301(g)(2)(B)(i)(I), added introductory provisions and struck out former introductory provisions which read as follows: "The Secretary, in consultation with the States, shall ensure the linkage of migrant student record systems for the purpose of electronically exchanging, among the States, health and educational information regarding all migratory students. The Secretary shall ensure such linkage occurs in a cost-effective manner, utilizing systems used by the States prior to, or developed after, January 8, 2002, and shall determine the minimum data elements that each State receiving funds under this part shall collect and maintain. Such elements may include—".
+Subsec. (b)(2)(A). Pub. L. 114–95, §1301(g)(2)(B)(i)(I), added introductory provisions and struck out formerintroductory provisions which read as follows: "The Secretary, in consultation with the States, shall ensure the linkage of migrant student record systems for the purpose of electronically exchanging, among the States, health and educational information regarding all migratory students. The Secretary shall ensure such linkage occurs in a cost-effective manner, utilizing systems used by the States prior to, or developed after, January 8, 2002, and shall determine the minimum data elements that each State receiving funds under this part shall collect and maintain. Such elements may include—".
 
 Subsec. (b)(2)(A)(ii). Pub. L. 114–95, §1301(g)(2)(B)(i)(II), substituted "assessments under section 6311(b)(2)" for "assessments required under section 6311(b)".
 

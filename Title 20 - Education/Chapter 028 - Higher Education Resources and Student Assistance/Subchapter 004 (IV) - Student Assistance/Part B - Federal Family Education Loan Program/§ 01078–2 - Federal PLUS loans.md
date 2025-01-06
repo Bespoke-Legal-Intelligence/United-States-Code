@@ -40,7 +40,7 @@
 
 #### (b) Limitation based on need
 
-Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
+Any loan under this section may be counted as part of the student aid index in the determination of need under this subchapter, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
 #### (c) PLUS loan disbursement
 
@@ -104,7 +104,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Refinancing to secure combined payment
 
-&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrative forbearance of the repayment terms of the included loan.
+&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension ofthe promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrative forbearance of the repayment terms of the included loan.
 
 #### (2) Refinancing to secure variable interest rate
 
@@ -132,17 +132,9 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(1) immigration status in the same manner as immigration status is verified for students under section 1091(g) of this title; and
 
-&emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
+&emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(o) of this title.
 
 (Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 116–260, div. FF, title VII, §§702(n)(1)(B), 704(1), Dec. 27, 2020, 134 Stat. 3186, 3199.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(n)(1)(B), (2), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, subsection (f)(2) of this section is amended by striking "section 1091(p)" and inserting "section 1091(o)".</i>
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by striking "the expected family contribution" each place the term appears and inserting "the student aid index".</i>
-
-<i>See 2020 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -162,7 +154,7 @@ Subsec. (f)(2). Pub. L. 116–260, §702(n)(1)(B), substituted "section 1091(o)"
 
 Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: "Whenever necessary to carry out the provisions of thissection, the terms 'student' and 'borrower' as used in this part shall include a parent borrower under this section."
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: "Whenever necessary to carry out the provisions of this section, the terms 'student' and 'borrower' as used in this part shall include a parent borrower under this section."
 
 Subsec. (a)(3)(B)(i)(II). Pub. L. 110–315, §424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: "is not and has not been more than 89 days delinquent on the repayment of any other debt during such period."
 
@@ -248,7 +240,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–315 effective for loans for which the first disbursement is made on or after July 1, 2008, see section 424(c) of Pub. L. 110–315, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 110–315 effective for loans for which the first disbursement is made on or after July1, 2008, see section 424(c) of Pub. L. 110–315, set out as a note under section 1078 of this title.
 
 Amendment by section 3(a) of Pub. L. 110–227 effective for loans first disbursed on or after July 1, 2008, see section 3(c) of Pub. L. 110–227, set out as a note under section 1078 of this title.
 

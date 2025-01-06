@@ -8,7 +8,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (1) Timing
 
-&emsp;Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spendingand receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
+&emsp;Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
 
 #### (2) Calculation of deficit increase
 
@@ -80,7 +80,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
-(Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L.105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, §121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
+(Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, §121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,7 +98,7 @@ Subsec. (c)(1)(C)(i). Pub. L. 113–67, §121(2), substituted "subsection (b)" f
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration."
 
-Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
+Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b)which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted "and direct" after "guaranteed".
 
@@ -152,7 +152,7 @@ Pub. L. 105–33, title X, §10213, Aug. 5, 1997, 111 Stat. 712, provided that: 
 
 #### Reduction of Direct Spending and Receipts Legislation Balances
 
-Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: "Upon enactment of this Act\[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year."
+Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: "Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

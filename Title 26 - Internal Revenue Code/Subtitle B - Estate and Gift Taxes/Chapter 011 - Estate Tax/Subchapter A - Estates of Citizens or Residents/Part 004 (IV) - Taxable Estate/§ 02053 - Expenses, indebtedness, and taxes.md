@@ -50,7 +50,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (2) Condition for allowance of deduction
 
-&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estatetax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
+&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
 
 #### (3) Effect on credit for foreign death taxes of deduction under this subsection
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
+Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31,1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
 Amendment by section 1073(b)(3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
 
@@ -134,7 +134,7 @@ Pub. L. 98–369, div. A, title X, §1027(c), July 18, 1984, 98 Stat. 1032, prov
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4,1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
+Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1959 Amendment
 

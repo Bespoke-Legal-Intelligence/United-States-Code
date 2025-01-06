@@ -84,7 +84,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 &emsp;The amount deducted and withheld from the basic pay of a participant during any pay period pursuant to paragraph (1) shall be the excess of—
 
-&emsp;&emsp;(A) the amount determined by multiplying the percent applicable to the participant under subsection (a) by the basic pay payable to the participant for that pay period, over
+&emsp;&emsp;(A) the amount determined by multiplying the percent applicable to the participantunder subsection (a) by the basic pay payable to the participant for that pay period, over
 
 &emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
 
@@ -94,7 +94,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleII of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@ The Secretary shall undertake a national demonstration program designed to test 
 
 #### (b) Financial assistance to owners and tenants of dwelling units; authorization of Secretary
 
-The Secretary is authorized to make financial assistance available pursuant to this section in the form of grants, low-interest-rate loans, interest subsidies, loan guarantees, and such otherforms of assistance as the Secretary deems appropriate to carry out the purposes of this section. Assistance may be made available to both owners of dwelling units and tenants occupying such units.
+The Secretary is authorized to make financial assistance available pursuant to this section in the form of grants, low-interest-rate loans, interest subsidies, loan guarantees, and such other forms of assistance as the Secretary deems appropriate to carry out the purposes of this section. Assistance may be made available to both owners of dwelling units and tenants occupying such units.
 
 #### (c) Duties of Secretary
 
@@ -58,7 +58,7 @@ As used in this section:
 
 &emsp;(1) The term "Administrator" means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this section.
 
-&emsp;(2) The term "approved", with respect to an energy conservation measure or a renewable-resource energy measure, means any such measure which is included on a list of such measures which is published by the Administrator of the Federal Energy Administration pursuant to section 365(e)(1) of the Energy Policy and Conservation Act \[42 U.S.C. 6325(e)(1)\]. The Administrator may, by rule, require that an energy audit be conducted as a condition of obtaining assistance under this section for a renewable-resource energy measure.
+&emsp;(2) The term "approved", with respect to an energy conservation measure or a renewable-resource energy measure, means any such measure which is included on a list of such measures which is published by the Administrator of the Federal Energy Administration pursuant to section 365(e)(1) of the Energy Policy and Conservation Act \[42 U.S.C. 6325(e)(1)\]. The Administrator may, by rule, require thatan energy audit be conducted as a condition of obtaining assistance under this section for a renewable-resource energy measure.
 
 &emsp;(3) The terms "energy audit", "energy conservation measure", and "renewable-resource energy measure" have the meanings given the terms in section 361(c) of the Energy Policy and Conservation Act \[42 U.S.C. 6321(c)\].
 

@@ -42,7 +42,7 @@ Federal Protective Service.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the completion of the Government Accountability Officereview of the organizational placement of the Federal Protective Service (authorized under section 1315 of title 40, United States Code), the Secretary of Homeland Security shall determine the appropriate placement of the Service within the Department of Homeland Security and commence the transfer of the Service to such component, directorate, or other office of the Department that the Secretary so determines appropriate.
+In general.—Not later than 90 days after the completion of the Government Accountability Office review of the organizational placement of the Federal Protective Service (authorized under section 1315 of title 40, United States Code), the Secretary of Homeland Security shall determine the appropriate placement of the Service within the Department of Homeland Security and commence the transfer of the Service to such component, directorate, or other office of the Department that the Secretary so determines appropriate.
 
 &emsp;"(2)
 

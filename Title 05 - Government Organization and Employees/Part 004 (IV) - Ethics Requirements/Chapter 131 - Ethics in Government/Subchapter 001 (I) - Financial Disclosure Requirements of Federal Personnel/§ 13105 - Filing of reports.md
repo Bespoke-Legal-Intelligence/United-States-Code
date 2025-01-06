@@ -14,7 +14,7 @@ Copies of Reports Transmitted to the Office of Government Ethics.—Copies of th
 
 (d)
 
-Availability to Public.—Reports required to be filed under this subchapter by the Directorof the Office of Government Ethics shall be filed in the Office of Government Ethics and, immediately after being filed, shall be made available to the public in accordance with this subchapter.
+Availability to Public.—Reports required to be filed under this subchapter by the Director of the Office of Government Ethics shall be filed in the Office of Government Ethics and, immediately after being filed, shall be made available to the public in accordance with this subchapter.
 
 (e)
 
@@ -90,7 +90,7 @@ House of representatives.—A copy of each report filed under this subchapter wi
 
 &emsp;(2)
 
-Senate.—A copy of each report filed under this subchapter with the Secretary ofthe Senate shall be sent by the Secretary to the Select Committee on Ethics of the Senate within the 7-day period beginning on the day the report is filed.
+Senate.—A copy of each report filed under this subchapter with the Secretary of the Senate shall be sent by the Secretary to the Select Committee on Ethics of the Senate within the 7-day period beginning on the day the report is filed.
 
 (k)
 
@@ -180,7 +180,7 @@ Pub. L. 117–125, §2(a)(2), May 13, 2022, 136 Stat. 1205, provided that: "The 
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–55, title I, §1003(b), Aug. 2, 2005, 119 Stat. 572, as amended by Pub. L. 117–286, §4(c)(14), Dec. 27, 2022, 136 Stat. 4355, provided that: "The amendment made by subsection (a) \[amending section 103 of Pub. L. 95–521, restated as this section\] shall apply with respect to reports filed under chapter 131 of title 5, United States Code, for calendar year 2005 and each succeeding calendar year."
+Pub. L. 109–55, title I, §1003(b), Aug. 2, 2005, 119 Stat. 572, as amended by Pub. L. 117–286, §4(c)(14), Dec. 27, 2022, 136 Stat. 4355, provided that the amendment made by subsection (a) (amending section 103 of Pub. L. 95–521, restated as this section) applied with respect to reports filed under this chapter for calendar year 2005 and each succeeding calendar year.
 
 #### Implementation of PTR Requirements Under STOCK Act
 
@@ -202,7 +202,7 @@ Rule of construction.—Before January 1, 2013, the amendments made by subsectio
 
 #### Transaction Reporting Requirements
 
-Pub. L. 112–105, §14, Apr. 4, 2012, 126 Stat. 300, provided that: "The transaction reporting requirements established by \[former\] section 103(l) of the Ethics in Government Act of 1978 \[see 5 U.S.C. 13105(l)\], as added by section 6 of this Act, shall not be construed to apply to a widely held investment fund (whether such fund is a mutual fund, regulated investment company, pension or deferred compensation plan, or other investment fund), if—
+Pub. L. 112–105, §14, Apr. 4, 2012, 126 Stat. 300, provided that: "The transaction reporting requirements established by \[former\] section 103(l) of the Ethics in Government Act of 1978 \[see 5 U.S.C. 13105(l)\], as added by section 6 of this Act, shall not be construed to apply to a widely held investment fund (whether such fund is a mutual fund, regulated investment company, pensionor deferred compensation plan, or other investment fund), if—
 
 &emsp;"(1)(A) the fund is publicly traded; or
 

@@ -146,7 +146,7 @@ Rural health clinic.—The term "rural health clinic" has the meaning given that
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing and the reference to section 254c of thistitle, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 Section 256a of this title, referred to in par. (6)(B), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 

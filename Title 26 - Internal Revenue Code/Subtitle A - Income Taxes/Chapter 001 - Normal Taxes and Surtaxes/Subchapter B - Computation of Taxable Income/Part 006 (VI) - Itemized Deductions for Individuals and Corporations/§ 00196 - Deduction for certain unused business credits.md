@@ -120,7 +120,7 @@ Amendment by section 339(e) of Pub. L. 108–357 applicable to expenses paid or 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
+Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31,2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -164,7 +164,7 @@ Pub. L. 97–248, title II, §205(c)(1), Sept. 3, 1982, 96 Stat. 430, as amended
 
 "(A)
 
-General rule.—Except as otherwise provided in this paragraph, the amendments made by subsection (a)\[enacting this section and amending sections 48, 312, and 1016 of this title\] shall apply to periods after December 31, 1982, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+General rule.—Except as otherwise provided in this paragraph, the amendments made by subsection (a) \[enacting this section and amending sections 48, 312, and 1016 of this title\] shall apply to periods after December 31, 1982, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 "(B)
 

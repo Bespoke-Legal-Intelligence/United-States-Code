@@ -22,7 +22,7 @@ In addition to existing authorities available to the Foundation, the Director ma
 
 &emsp;&emsp;&emsp;(i) establishing research and development goals for the program, including through the convening of workshops, conferring with a broad range of stakeholders and outside experts, taking into account relevant expert reports, and publicizing the goals of the program to the public and private sectors;
 
-&emsp;&emsp;&emsp;(ii) surveying a wide range of institutions of higher education, nonprofit organizations, and private entities to identify emerging trends in the challenges and key technology focus areas under section 19107 of this title, and, as appropriate, soliciting proposals from such entities to conduct research in areas of particular promise that the private sector is the not likely to undertake independently.
+&emsp;&emsp;&emsp;(ii) surveying a wide range of institutions of higher education, nonprofit organizations, and private entities to identify emerging trends in the challenges and key technology focus areas under section 19107 of this title, and, as appropriate, soliciting proposals from such entities to conduct research in areas of particular promise that the private sector is the not likely to undertake independently.<sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) facilitating research collaborations in the challenges and key technology focus areas under section 19107 of this title, including connecting academic researchers with potential end-users of technology, including industry, labor organizations, nonprofit organizations, civil society organizations, and other relevant organizations;
 
@@ -102,7 +102,7 @@ In addition to existing authorities available to the Foundation, the Director ma
 
 #### (i) Total amount
 
-&emsp;&emsp;&emsp;The total amount of the additional payments paid to an employee under this subsection for any 12-month period may not exceed the maximum amount of total compensation payable at the salary set in accordance with section 104 of title.<sup>1</sup>
+&emsp;&emsp;&emsp;The total amount of the additional payments paid to an employee under this subsection for any 12-month period may not exceed the maximum amount of total compensation payable at the salary set in accordance with section 104 of title.<sup>2</sup>
 
 #### (ii) Eligibility for payments
 
@@ -110,7 +110,7 @@ In addition to existing authorities available to the Foundation, the Director ma
 
 #### (E) Limitation on number of highly qualified experts
 
-&emsp;&emsp;The number of highly qualified experts appointed and retained by the Foundation under sub <sup>2</sup> (B)(i) shall not exceed 70 at any time.
+&emsp;&emsp;The number of highly qualified experts appointed and retained by the Foundation under sub <sup>3</sup> (B)(i) shall not exceed 70 at any time.
 
 #### (F) Savings provisions
 
@@ -150,7 +150,9 @@ In addition to existing authorities available to the Foundation, the Director ma
 
 Section is comprised of section 10396 of Pub. L. 117–167. Par. (7) of section 10396 of Pub. L. 117–167 amended section 1870 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "section 104 of title 3".</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section 104 of title 3".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

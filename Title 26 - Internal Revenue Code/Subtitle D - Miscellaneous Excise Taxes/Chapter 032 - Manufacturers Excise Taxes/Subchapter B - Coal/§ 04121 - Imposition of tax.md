@@ -100,7 +100,7 @@ Pub. L. 116–260, div. EE, title I, §149(b), Dec. 27, 2020, 134 Stat. 3056, pr
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. Q, title I, §105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "The amendment made bythis section \[amending this section\] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–94, div. Q, title I, §105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "The amendment made by this section \[amending this section\] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 1986 Amendments
 
@@ -184,7 +184,7 @@ Exporters.—Notwithstanding subsections (a)(1) and (c) of section 6416 and sect
 
 "(b)
 
-Limitations.—Subsection (a) shall not apply with respect to exported coal if a settlement with the Federal Government has been made with and accepted by, the coal producer, a party related to such coal producer, or the exporter, of such coal, as of the date that the claim is filed under this section with respect to such exported coal. For purposes of this subsection, the term 'settlement with the Federal Government' shall not include any settlement or stipulation entered into as of the date of the enactment of this Act \[Oct. 3, 2008\], the terms of which contemplate a judgment concerning which any party has reserved the right to file an appeal, or has filed an appeal.
+Limitations.—Subsection (a) shall not apply with respect to exported coal if a settlement with theFederal Government has been made with and accepted by, the coal producer, a party related to such coal producer, or the exporter, of such coal, as of the date that the claim is filed under this section with respect to such exported coal. For purposes of this subsection, the term 'settlement with the Federal Government' shall not include any settlement or stipulation entered into as of the date of the enactment of this Act \[Oct. 3, 2008\], the terms of which contemplate a judgment concerning which any party has reserved the right to file an appeal, or has filed an appeal.
 
 "(c)
 

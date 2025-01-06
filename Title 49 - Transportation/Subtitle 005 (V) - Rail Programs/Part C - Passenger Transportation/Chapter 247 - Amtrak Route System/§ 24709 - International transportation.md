@@ -1,6 +1,6 @@
 ### §24709. International transportation
 
-Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of Homeland Security, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigrationand customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
+Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of Homeland Security, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
 
 &emsp;(1) be convenient for passengers; and
 

@@ -46,7 +46,7 @@ Amendment by section 3(j)(1), (2)(A), (4) of Pub. L. 112–29 effective upon the
 
 Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under section 1071 of Title 15, Commerce and Trade.
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning onSept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

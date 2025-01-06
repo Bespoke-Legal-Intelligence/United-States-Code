@@ -30,7 +30,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;(8) provides for State expenditures under such program of an amount not less than the average annual aggregate expenditures for the preceding three fiscal years or the average annual expenditure per full-time equivalent student for such years;
 
-&emsp;(9) provides (A) for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the State agency under this subpart, and (B) for the making of such reports, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his functions under this subpart;
+&emsp;(9) provides (A) for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of andaccounting for Federal funds paid to the State agency under this subpart, and (B) for the making of such reports, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his functions under this subpart;
 
 &emsp;(10) for any academic year beginning after June 30, 1987, provides the non-Federal share of the amount of student grants or work-study jobs under this subpart through State funds for the program under this subpart; and
 

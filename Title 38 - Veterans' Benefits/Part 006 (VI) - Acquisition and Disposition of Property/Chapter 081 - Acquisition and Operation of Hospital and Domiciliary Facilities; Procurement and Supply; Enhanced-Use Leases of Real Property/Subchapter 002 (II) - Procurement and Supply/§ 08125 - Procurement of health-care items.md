@@ -12,7 +12,7 @@
 
 &emsp;(iii) procurement under a local contract is demonstrably more cost-effective for the item.
 
-(2) In the case of the need for an emergency procurement of a health-care item, such item may be procured under a local contract, but no greater quantity of such item may be procured by a local contract than is reasonably necessary to meet the emergency need and the reasonably foreseeable need for the item at the medical center concerned until resupply can be achieved through procurement actions other than emergency procurement.
+(2) In the case of the need for an emergency procurement of a health-care item, such item may be procured under a local contract, but no greater quantity of such item may be procured by a local contract than is reasonably necessaryto meet the emergency need and the reasonably foreseeable need for the item at the medical center concerned until resupply can be achieved through procurement actions other than emergency procurement.
 
 (3)(A) Except as provided in subparagraphs (C) and (D) of this paragraph, not more than 20 percent of the total of all health-care items procured by the Department in any fiscal year (measured as a percent of the total cost of all such health-care items procured by the Department in that fiscal year) may be procured under local contracts.
 

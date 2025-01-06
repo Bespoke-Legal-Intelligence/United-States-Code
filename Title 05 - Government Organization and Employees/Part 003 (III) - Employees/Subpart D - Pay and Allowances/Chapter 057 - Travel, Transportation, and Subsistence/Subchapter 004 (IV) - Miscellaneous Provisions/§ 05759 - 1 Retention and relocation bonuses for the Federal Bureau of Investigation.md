@@ -4,7 +4,7 @@
 
 Authority.—The Director of the Federal Bureau of Investigation, after consultation with the Director of the Office of Personnel Management, may pay, on a case-by-case basis, a bonus under this section to an employee of the Bureau if—
 
-&emsp;(1)(A) the unusually high or unique qualifications of the employee or a special need of the Bureau for the employee's services makes it essential to retain the employee; and
+&emsp;(1)(A) the unusually high or unique qualifications of the employee or a special need ofthe Bureau for the employee's services makes it essential to retain the employee; and
 
 &emsp;(B) the Director of the Federal Bureau of Investigation determines that, in the absence of such a bonus, the employee would be likely to leave—
 

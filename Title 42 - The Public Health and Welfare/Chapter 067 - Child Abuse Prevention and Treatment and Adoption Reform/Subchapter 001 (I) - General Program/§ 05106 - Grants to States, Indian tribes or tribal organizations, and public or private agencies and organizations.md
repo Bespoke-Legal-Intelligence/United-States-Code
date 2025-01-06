@@ -40,7 +40,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies thatdemonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 
@@ -94,7 +94,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (C) Application
 
-&emsp;&emsp;A State desiring a grant under this paragraph shall submit an application to theSecretary at such time and in such manner as the Secretary may require. Such application shall include—
+&emsp;&emsp;A State desiring a grant under this paragraph shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
 
 &emsp;&emsp;&emsp;(i) a description of—
 
@@ -144,7 +144,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;&emsp;&emsp;(I) appropriate notification to child protective services is made in a timely manner, as required under section 5106a(b)(2)(B)(ii) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before the infant is discharged from the birth or health care facility; and
+&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before theinfant is discharged from the birth or health care facility; and
 
 &emsp;&emsp;&emsp;&emsp;(III) such health and related agency professionals are trained on how to follow such protocols and are aware of the supports that may be provided under a plan of safe care.
 
@@ -194,7 +194,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;The Secretary shall use the amount reserved under subparagraph (B)(i)(I) to provide written guidance and technical assistance to support States in complying with and implementing this paragraph, which shall include—
 
-&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, to additional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
+&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, toadditional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
 
 &emsp;&emsp;&emsp;(ii) guidance on the requirements of this Act with respect to infants born with and identified as being affected by substance use or withdrawal symptoms or fetal alcohol spectrum disorder, as described in clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title, including by—
 
@@ -213,6 +213,22 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 #### (H) Sunset
 
 &emsp;&emsp;The authority under this paragraph shall sunset on September 30, 2023.
+
+#### (8) Child sexual abuse awareness field-initiated grants
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may award grants under this subsection to entities, for periods of up to 5 years, in support of field-initiated innovation projects that advance, establish, or implement comprehensive, innovative, evidence-based or evidence-informed child sexual abuse awareness and prevention programs by—
+
+&emsp;&emsp;&emsp;(i) improving student awareness of child sexual abuse in an age-appropriate manner, including how to recognize, prevent, and safely report child sexual abuse;
+
+&emsp;&emsp;&emsp;(ii) training teachers, school employees, and other mandatory reporters and adults who work with children in a professional or volunteer capacity, including with respect to recognizing child sexual abuse and safely reporting child sexual abuse; or
+
+&emsp;&emsp;&emsp;(iii) providing information to parents and guardians of students about child sexual abuse awareness and prevention, including how to prevent, recognize, respond to, and report child sexual abuse and how to discuss child sexual abuse with a child.
+
+#### (B) Reporting
+
+&emsp;&emsp;Each entity receiving a grant under subparagraph (A) shall submit an annual report to the Secretary, for the duration of the grant period, on the projects carried out using such grant, including the number of participants, the services provided, and the outcomes of the projects, including participant evaluations.
 
 #### (b) Discretionary grants
 
@@ -282,7 +298,7 @@ In addition to grants or contracts made under subsection (a), grants or contract
 
 In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
-(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465; Pub. L. 115–271, title VII, §7065(a), Oct. 24, 2018, 132 Stat. 4022.)
+(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465; Pub. L. 115–271, title VII, §7065(a), Oct. 24, 2018, 132 Stat. 4022; Pub. L. 118–193, §2(a), Dec. 23, 2024, 138 Stat. 2662.)
 
 #### <b>Editorial Notes</b>
 
@@ -299,6 +315,8 @@ This Act, referred to in subsec. (a)(7)(D)(v), (G)(ii), means Pub. L. 93–247, 
 A prior section 105 of Pub. L. 93–247 was renumbered section 104 and is classified to section 5105 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(8). Pub. L. 118–193 added par. (8).
 
 <b>2018</b>—Subsec. (a)(7). Pub. L. 115–271 added par. (7).
 
@@ -322,7 +340,7 @@ Subsec. (a)(3). Pub. L. 111–320, §114(2)(D), inserted ", leadership," after 
 
 Subsec. (a)(4). Pub. L. 111–320, §114(2)(E), (F), struck out subpar. (A) designation and heading "In general" and struck out "in not more than 10 States" after "public and private entities".
 
-Subsec. (a)(5). Pub. L. 111–320, §114(2)(G), in heading, substituted "among" for "between" and "substance abuse, developmental disabilities, and domestic violence service" for "and developmental disabilities" and, in text, substituted "among" for "between", "mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for" for "mental health, and developmental disabilities agencies, for", and "ensure" for "help assure".
+Subsec. (a)(5). Pub. L. 111–320, §114(2)(G), in heading, substituted "among" for "between" and "substanceabuse, developmental disabilities, and domestic violence service" for "and developmental disabilities" and, in text, substituted "among" for "between", "mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for" for "mental health, and developmental disabilities agencies, for", and "ensure" for "help assure".
 
 Subsec. (a)(6). Pub. L. 111–320, §114(2)(H), added par. (6).
 

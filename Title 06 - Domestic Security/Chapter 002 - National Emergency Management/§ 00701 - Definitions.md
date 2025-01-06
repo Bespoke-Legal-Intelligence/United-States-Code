@@ -18,7 +18,7 @@ In this title— <sup>1</sup>
 
 &emsp;(6) the terms "emergency" and "major disaster" have the meanings given the terms in section 5122 of title 42;
 
-&emsp;(7) the term "emergency management" means the governmental function that coordinates and integrates all activities necessary tobuild, sustain, and improve the capability to prepare for, protect against, respond to, recover from, or mitigate against threatened or actual natural disasters, acts of terrorism, or other man-made disasters;
+&emsp;(7) the term "emergency management" means the governmental function that coordinates and integrates all activities necessary to build, sustain, and improve the capability to prepare for, protect against, respond to, recover from, or mitigate against threatened or actual natural disasters, acts of terrorism, or other man-made disasters;
 
 &emsp;(8) the term "emergency response provider" has the meaning given the term in section 101 of this title;
 

@@ -24,13 +24,13 @@ Each State that receives assistance under this subchapter, and the Secretary of 
 
 &emsp;(C) The number and percentage of children with disabilities, by race, gender, and ethnicity, who, from birth through age 2, stopped receiving early intervention services because of program completion or for other reasons.
 
-&emsp;(D) The incidence and duration of disciplinary actions by race, ethnicity, limited English proficiency status, gender, and disability category, of children with disabilities, including suspensions of 1 day or more.
+&emsp;(D) The incidence and duration of disciplinary actions by race, ethnicity, limitedEnglish proficiency status, gender, and disability category, of children with disabilities, including suspensions of 1 day or more.
 
 &emsp;(E) The number and percentage of children with disabilities who are removed to alternative educational settings or expelled as compared to children without disabilities who are removed to alternative educational settings or expelled.
 
 &emsp;(F) The number of due process complaints filed under section 1415 of this title and the number of hearings conducted.
 
-&emsp;(G) The number of hearings requested under section 1415(k) of this title and the number ofchanges in placements ordered as a result of those hearings.
+&emsp;(G) The number of hearings requested under section 1415(k) of this title and the number of changes in placements ordered as a result of those hearings.
 
 &emsp;(H) The number of mediations held and the number of settlement agreements reached through such mediations.
 

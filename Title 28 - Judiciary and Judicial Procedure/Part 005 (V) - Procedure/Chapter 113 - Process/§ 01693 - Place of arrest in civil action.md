@@ -1,6 +1,6 @@
 ### §1693. Place of arrest in civil action
 
-Except as otherwise provided by Act of Congress, no person shall be arrested in one district for trial in another in any civil action in a district court.
+Except as otherwise provided by Act of Congress, no person shall be arrested in one districtfor trial in another in any civil action in a district court.
 
 (June 25, 1948, ch. 646, 62 Stat. 945.)
 

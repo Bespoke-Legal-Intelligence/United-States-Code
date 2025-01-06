@@ -34,7 +34,7 @@ All grants awarded by the Department of Justice that are authorized under this A
 
 #### (B) Prohibition
 
-&emsp;&emsp;The Attorney General shall not award a grant under any grant program described in this Act to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
+&emsp;&emsp;The Attorney General shall not award a grant under any grant program described in this Act to a nonprofit organization that holds money in offshore accounts for thepurpose of avoiding paying the tax described in section 511(a) of title 26.
 
 #### (C) Disclosure
 

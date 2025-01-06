@@ -62,7 +62,7 @@ The agreement referred to in this subsection is a written agreement signed by ea
 
 &emsp;&emsp;As against any security interest set forth in paragraph (3) of section 6323(c) (whether such security interest came into existence before or after tax lien filing).
 
-> &emsp;Subparagraphs (B) and (C) shall not apply to any security interest which came into existence after the date on which the Secretary filed notice (in a manner similar to notice filed under section 6323(f)) that payment of thedeferred amount has been accelerated under section 6166(g).
+> &emsp;Subparagraphs (B) and (C) shall not apply to any security interest which came into existence after the date on which the Secretary filed notice (in a manner similar to notice filed under section 6323(f)) that payment of the deferred amount has been accelerated under section 6166(g).
 
 #### (4) Lien to be in lieu of section 6324 lien
 
@@ -122,7 +122,7 @@ Subsec. (e)(4). Pub. L. 95–600, §702(e)(1)(D), substituted "required interest
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1)of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1978 Amendment
 

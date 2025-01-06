@@ -6,7 +6,7 @@ Enforcement by Court Issuing Surveillance Order.—If a court authorizing an int
 
 (b)
 
-Enforcement Upon Application by Attorney General.—The Attorney General may, in acivil action in the appropriate United States district court, obtain an order, in accordance with section 108 of the Communications Assistance for Law Enforcement Act, directing that a telecommunications carrier, a manufacturer of telecommunications transmission or switching equipment, or a provider of telecommunications support services comply with such Act.
+Enforcement Upon Application by Attorney General.—The Attorney General may, in a civil action in the appropriate United States district court, obtain an order, in accordance with section 108 of the Communications Assistance for Law Enforcement Act, directing that a telecommunications carrier, a manufacturer of telecommunications transmission or switching equipment, or a provider of telecommunications support services comply with such Act.
 
 (c)
 

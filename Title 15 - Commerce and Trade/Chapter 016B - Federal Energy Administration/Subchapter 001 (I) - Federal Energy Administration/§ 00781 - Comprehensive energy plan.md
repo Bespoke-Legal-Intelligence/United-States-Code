@@ -10,7 +10,7 @@ Pursuant and subject to the provisions and procedures set forth in this chapter,
 
 &emsp;(3) estimates of the impact on supplies and consumption of energy forms consequent to such price changes as are or may be proposed; and
 
-&emsp;(4) a description of alternative actions which the Administrator has considered together with a rationale in explanation of the rejection of any such alternatives in preference to the measures actually proposed.
+&emsp;(4) a description of alternative actions which the Administrator has considered togetherwith a rationale in explanation of the rejection of any such alternatives in preference to the measures actually proposed.
 
 #### (b) Alterations; analytical justifications
 

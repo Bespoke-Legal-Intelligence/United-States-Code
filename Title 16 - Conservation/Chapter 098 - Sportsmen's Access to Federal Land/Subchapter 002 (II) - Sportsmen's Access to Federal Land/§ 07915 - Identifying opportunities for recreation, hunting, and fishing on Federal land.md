@@ -48,7 +48,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 1 year after March 12, 2019, and biennially thereafter during the 10-year period beginning on the date on which the first priority list is completed, the Secretary shall prepare a priority list, to be made publicly available on the website of the applicable Federal agency referred to in subsection (a)(1), which shall identify the location and acreage of land within the jurisdiction of each State or regional office on which the public is allowed, under Federal or State law, to hunt, fish, or use the land for other recreational purposes but—
+&emsp;Not later than 1 year after March 12, 2019, and biennially thereafter during the 10-year period beginning on the date on which the first priority list is completed, the Secretary shallprepare a priority list, to be made publicly available on the website of the applicable Federal agency referred to in subsection (a)(1), which shall identify the location and acreage of land within the jurisdiction of each State or regional office on which the public is allowed, under Federal or State law, to hunt, fish, or use the land for other recreational purposes but—
 
 &emsp;&emsp;(A) to which there is no public access or egress; or
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (c) Access options
 
-With respect to land included on a priority list described in subsection (b), the Secretary shall develop and submit to the Committees on Appropriations and Energy and Natural Resourcesof the Senate and the Committees on Appropriations and Natural Resources of the House of Representatives a report on options for providing access that—
+With respect to land included on a priority list described in subsection (b), the Secretary shall develop and submit to the Committees on Appropriations and Energy and Natural Resources of the Senate and the Committees on Appropriations and Natural Resources of the House of Representatives a report on options for providing access that—
 
 &emsp;(1) identifies how public access and egress could reasonably be provided to the legal boundaries of the land in a manner that minimizes the impact on wildlife habitat and water quality;
 

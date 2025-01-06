@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions relating to disbursement of funds directly to schools, institutions, or service institutions for the purposes authorized by this chapter, for provisions relating to disbursement of funds directly to schools for the purposes and subject to conditions authorized or required for disbursements to schools within the State by the State educational agency, and added subsec. (b).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions relating to disbursement of funds directly to schools, institutions, or service institutions for the purposes authorized by this chapter, for provisions relating to disbursement of funds directly to schools for the purposes and subjectto conditions authorized or required for disbursements to schools within the State by the State educational agency, and added subsec. (b).
 
 <b>1975</b>—Pub. L. 94–105 altered provisions of section to accommodate authorization of direct payments to private nonprofit schools and institutions in conformity with revised allocation method for school lunch funds and expanded definition of "school" to include any public or licensed nonprofit residential child care institution, including but not limited to, orphanages and homes for the mentally retarded.
 

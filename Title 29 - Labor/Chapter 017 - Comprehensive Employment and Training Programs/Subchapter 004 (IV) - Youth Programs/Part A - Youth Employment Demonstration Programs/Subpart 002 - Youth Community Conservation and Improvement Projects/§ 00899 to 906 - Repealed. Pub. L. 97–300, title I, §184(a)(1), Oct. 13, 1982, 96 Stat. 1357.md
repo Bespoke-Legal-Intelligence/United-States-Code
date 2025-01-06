@@ -24,7 +24,7 @@ Section 904, Pub. L. 93–203, title IV, §426, as added Pub. L. 95–524, §2, 
 
 Provisions similar to those comprising this section were contained in former section 893e of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 905, Pub. L. 93–203, title IV, §427, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1981, related to approval or denial of youth community conservation and improvement project applications submitted with an opposed agreement.
+Section 905, Pub. L. 93–203, title IV, §427, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1981, related to approval or denial of youth community conservationand improvement project applications submitted with an opposed agreement.
 
 Provisions similar to those comprising this section were contained in former section 893f of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

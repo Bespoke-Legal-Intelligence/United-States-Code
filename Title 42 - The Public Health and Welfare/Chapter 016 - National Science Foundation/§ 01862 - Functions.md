@@ -22,11 +22,11 @@ The Foundation is authorized and directed—
 
 #### (b) Contracts, grants, loans, etc., for scientific and engineering activities; financing of programs
 
-The Foundation is authorized to initiate and support specific scientific and engineering activities in connection with matters relating to international cooperation, national security, and the effects of scientific and engineering applications upon society by making contracts or other arrangements (including grants, loans, and other forms of assistance) for the conduct of such activities. When initiated or supported pursuant to requests made by any other Federal department or agency, including the Office of Technology Assessment, such activities shall be financed whenever feasible from funds transferred to the Foundation by the requesting official as provided in section 1873(f) of this title, and any such activities shall be unclassified and shall be identified by the Foundation as being undertaken at the request of the appropriate official.
+The Foundation is authorized to initiate and support specific scientific and engineering activities in connection with matters relating tointernational cooperation, national security, and the effects of scientific and engineering applications upon society by making contracts or other arrangements (including grants, loans, and other forms of assistance) for the conduct of such activities. When initiated or supported pursuant to requests made by any other Federal department or agency, including the Office of Technology Assessment, such activities shall be financed whenever feasible from funds transferred to the Foundation by the requesting official as provided in section 1873(f) of this title, and any such activities shall be unclassified and shall be identified by the Foundation as being undertaken at the request of the appropriate official.
 
 #### (c) Scientific and engineering research programs at academic and other nonprofit institutions; applied scientific and engineering research programs by Presidential directive; employment of consulting services; coordination of activities
 
-In addition to the authority contained in subsections (a) and (b), the Foundation is authorized to initiate and support scientific and engineering research, including applied research, at academic and other nonprofit institutions. When so directed by the President, the Foundation is further authorized to support, through other appropriate organizations, applied scientific research and engineering research relevant to national problems involving the public interest. In exercising the authority contained in this subsection, the Foundation may employ by grant or contract such consulting services as it deems necessary, and shall coordinate and correlate itsactivities with respect to any such problem with other agencies of the Federal Government undertaking similar programs in that field.
+In addition to the authority contained in subsections (a) and (b), the Foundation is authorized to initiate and support scientific and engineering research, including applied research, at academic and other nonprofit institutions. When so directed by the President, the Foundation is further authorized to support, through other appropriate organizations, applied scientific research and engineering research relevant to national problems involving the public interest. In exercising the authority contained in this subsection, the Foundation may employ by grant or contract such consulting services as it deems necessary, and shall coordinate and correlate its activities with respect to any such problem with other agencies of the Federal Government undertaking similar programs in that field.
 
 #### (d) Promotion of research and education in science and engineering
 
@@ -170,7 +170,7 @@ Study.—The National Science Foundation shall conduct a study of the divergence
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Director of the National Science Foundation shall submit a report to Congress setting forth the findings of the study conducted under subsection (a)."
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Director ofthe National Science Foundation shall submit a report to Congress setting forth the findings of the study conducted under subsection (a)."
 
 #### Improving United States Understanding of Science, Engineering, and Technology in East Asia
 
@@ -234,7 +234,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 
-Pub. L. 94–471, §6, Oct. 11, 1976, 90 Stat. 2055, required the National Science Foundation to develop a program plan for continuing education in science and engineering and, not later than Oct. 31, 1977, provide specific committees of the House of Representatives and Senate a report on the plan developed with recommendations for implementation in fiscal year 1978.
+Pub. L. 94–471, §6, Oct. 11, 1976, 90 Stat. 2055, required the National Science Foundation to develop a program plan for continuing education in science and engineering and, not later than Oct. 31, 1977, provide specific committees of the House of Representatives and Senatea report on the plan developed with recommendations for implementation in fiscal year 1978.
 
 #### Denial of Financial Assistance to Campus Disrupters
 
@@ -288,13 +288,13 @@ Sec. 2. The Foundation shall continue to make comprehensive studies and recommen
 
 Sec. 3. The Foundation, in concert with each Federal agency concerned, shall review the basic scientific research programs and activities of the Federal Government in order, among other purposes, to formulate methods for strengthening the administration of such programs and activities by the responsible agencies, and to study areas of basic research where gaps or undesirable overlapping of support may exist, and shall recommend to the heads of agencies concerning the support given to basic research.
 
-Sec. 4. As now or hereafter authorized or permitted by law, the Foundation shall be increasingly responsible for providing support by the Federal Government for general-purpose basic research through contracts and grants. The conduct and support by other Federal agencies of basic research in areas which are closely related to their missions is recognized as important and desirable, especially in response to current national needs, and shall continue.
+Sec. 4. As now or hereafter authorized or permitted by law, the Foundation shall be increasingly responsible for providing support by the Federal Government for general-purpose basic research through contracts and grants. The conduct and support by other Federal agencies of basic research in areas which are closely related to their missions is recognized as important anddesirable, especially in response to current national needs, and shall continue.
 
 Sec. 5. The Foundation, in consultation with educational institutions, the heads of Federal agencies, and the Commissioner of Education of the Department of Health, Education, and Welfare \[now Secretary of Education\], shall study the effects upon educational institutions of Federal policies and administration of contracts and grants for scientific research and development, and shall recommend policies and procedures which will promote the attainment of general national research objectives and realization of the research needs of Federal agencies while safeguarding the strength and independence of the Nation's institutions of learning.
 
 Sec. 6. The head of each Federal agency engaged in scientific research shall make certain that effective executive, organizational, and fiscal practices exist to ensure (a) that the Foundation is consulted on policies concerning the support of basic research, (b) that approved scientific research programs conducted by the agency are reviewed continuously in order to preserve priorities in research efforts and to adjust programs to meet changing conditions without imposing unnecessary added burdens on budgetary and other resources, (c) that applied research and development shall be undertaken with sufficient consideration of the underlying basic research and such other factors as relative urgency, project costs, and availability of manpower and facilities, and (d) that, subject to considerations of security and applicable law, adequate dissemination shall be made within the Federal Government of reports on the nature and progress of research projects as an aid to the efficiency and economy of the overall Federal scientific research program.
 
-Sec. 7. Federal agencies supporting or engaging in scientific research shall, with the assistance of theFoundation, cooperate in an effort to improve the methods of classification and reporting of scientific research projects and activities, subject to the requirements of security of information.
+Sec. 7. Federal agencies supporting or engaging in scientific research shall, with the assistance of the Foundation, cooperate in an effort to improve the methods of classification and reporting of scientific research projects and activities, subject to the requirements of security of information.
 
 Sec. 8. To facilitate the efficient use of scientific research equipment and facilities held by Federal agencies:
 

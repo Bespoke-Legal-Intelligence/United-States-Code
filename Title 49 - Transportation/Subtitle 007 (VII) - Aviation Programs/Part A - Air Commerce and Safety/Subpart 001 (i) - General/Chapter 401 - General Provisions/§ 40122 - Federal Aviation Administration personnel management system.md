@@ -108,7 +108,7 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;&emsp;(A) section 2302(b), relating to whistleblower protection, including the provisions for investigation and enforcement as provided in chapter 12 of title 5;
 
-&emsp;&emsp;(B) sections 3304(f), to the extent consistent with the Federal Aviation Administration's status as an excepted service agency, 3308–3320, 3330a, 3330b, 3330c, and 3330d, relating to veterans' preference;
+&emsp;&emsp;(B) sections 3304(f),<sup>1</sup> to the extent consistent with the Federal Aviation Administration's status as an excepted service agency, 3308–3320, 3330a, 3330b, 3330c, and 3330d, relating to veterans' preference;
 
 &emsp;&emsp;(C) chapter 71, relating to labor-management relations;
 
@@ -156,9 +156,21 @@ Paid parental leave.—The Administrator shall implement a paid parental leave b
 
 Effective date.—This subsection shall take effect on April 1, 1996.
 
+&emsp;(7)
+
+Remote positions.—
+
+&emsp;&emsp;(A)
+
+In general.—If the Administrator determines that a covered position has not been filled after multiple vacancy announcements and that there are unique circumstances affecting the ability of the Administrator to fill such position, the Administrator may consider, in consultation with the appropriate labor union, applicants for the covered position who apply under a vacancy announcement recruiting from the State or territory in which the position is based.
+
+&emsp;&emsp;(B)
+
+Covered position defined.—In this paragraph, the term "covered position" means a safety-critical position, to include personnel located at contract towers, based in Alaska, Hawaii, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands.
+
 (h)
 
-Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
+Right To Contest Adverse Personnel Actions.—An employee of the Federal AviationAdministration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
 
 (i)
 
@@ -168,7 +180,7 @@ Election of Forum.—Where a major adverse personnel action may be contested thr
 
 Definition.—In this section, the term "major adverse personnel action" means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
 
-(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978; Pub. L. 115–254, div. B, title V, §531, Oct. 5, 2018, 132 Stat. 3366; Pub. L. 116–283, div. A, title XI, §1103(c)(1), Jan. 1, 2021, 134 Stat. 3887.)
+(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978; Pub. L. 115–254, div. B, title V, §531, Oct. 5, 2018, 132 Stat. 3366; Pub. L. 116–283, div. A, title XI, §1103(c)(1), Jan. 1, 2021, 134 Stat. 3887; Pub. L. 118–63, title III, §342(b), May 16, 2024, 138 Stat. 1099.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,7 +192,11 @@ Executive Order No. 12674, referred to in subsec. (d), is set out as a note unde
 
 The effective date of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (f), is the date that is 30 days after Oct. 9, 1996. See section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
+Section 3304(f) of title 5, referred to in subsec. (g)(2)(B), was redesignated section 3304(l) of title 5 by Pub. L. 118–188, §2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (g)(7). Pub. L. 118–63 added par. (7).
 
 <b>2021</b>—Subsec. (g)(5), (6). Pub. L. 116–283 added par. (5) and redesignated former par. (5) as (6).
 
@@ -273,4 +289,6 @@ Pub. L. 114–242, §2(c), Oct. 7, 2016, 130 Stat. 978, provided that: "The amen
 #### Policies and Procedures
 
 Pub. L. 114–242, §2(d), Oct. 7, 2016, 130 Stat. 978, provided that: "Not later than 270 days after the date of the enactment of this Act \[Oct. 7, 2016\], the Administrator of the Federal Aviation Administration shall prescribe policies and procedures to carry out the amendments made by this section \[amending this section\] that are comparable, to the maximum extent practicable, to the regulations prescribed by the Office of Personnel Management under section 6329 of title 5, United States Code."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ For purposes of this section, the term "administrator" has the meaning given suc
 
 #### (e) Information collection from plans
 
-Effective with respect to plan years beginning after the second December 31 occurring after the date of the enactment of this subsection, the administrator of a plan to which the vesting standards of section 1053 of this title apply shall submit to the Secretary, at such time and in such form and manner as is prescribed in regulations—
+Effective with respect to plan years beginning after the second December 31 occurring after thedate of the enactment of this subsection, the administrator of a plan to which the vesting standards of section 1053 of this title apply shall submit to the Secretary, at such time and in such form and manner as is prescribed in regulations—
 
 &emsp;(1) the information described in paragraphs (1) through (4) of section 6057(b) of title 26;
 

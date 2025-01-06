@@ -92,7 +92,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 #### (d) Notification to Congress on removal
 
-If the Secretary removes the senior official appointed under subsection (a) or transfers thatsenior official to another position or location within the Department, the Secretary shall—
+If the Secretary removes the senior official appointed under subsection (a) or transfers that senior official to another position or location within the Department, the Secretary shall—
 
 &emsp;(1) promptly submit a written notification of the removal or transfer to Houses of Congress; and
 

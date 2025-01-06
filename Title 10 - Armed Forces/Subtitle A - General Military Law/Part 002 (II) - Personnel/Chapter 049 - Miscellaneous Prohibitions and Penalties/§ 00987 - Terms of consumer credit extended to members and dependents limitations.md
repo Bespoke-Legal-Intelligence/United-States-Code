@@ -20,7 +20,7 @@ Mandatory Loan Disclosures.—
 
 &emsp;(1)
 
-Information required.—With respect to any extension of consumer credit (including any consumer credit originated or extended through the internet) to a covered member or a dependent of a covered member, a creditor shall provide to the member or dependent thefollowing information orally and in writing before the issuance of the credit:
+Information required.—With respect to any extension of consumer credit (including any consumer credit originated or extended through the internet) to a covered member or a dependent of a covered member, a creditor shall provide to the member or dependent the following information orally and in writing before the issuance of the credit:
 
 &emsp;&emsp;(A) A statement of the annual percentage rate of interest applicable to the extension of credit.
 
@@ -112,7 +112,7 @@ Effect of finding of bad faith and harassment.—In any successful action by a d
 
 &emsp;&emsp;(D)
 
-Defenses.—A person may not be held liable for civil liability under this paragraph if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error. Examples of a bona fide error include clerical, calculation, computer malfunction and programming, and printing errors, except that an error of legal judgment with respect to a person's obligations under this section is not a bona fide error.
+Defenses.—A person may not be held liable for civil liability under this paragraphif the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error. Examples of a bona fide error include clerical, calculation, computer malfunction and programming, and printing errors, except that an error of legal judgment with respect to a person's obligations under this section is not a bona fide error.
 
 &emsp;&emsp;(E)
 

@@ -168,7 +168,7 @@ Section 568 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 #### Change of Name
 
-References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of Title 22, Foreign Relations and Intercourse.
+References to National Foreign Affairs Training Center considered to refer to George P. Shultz NationalForeign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of Title 22, Foreign Relations and Intercourse.
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

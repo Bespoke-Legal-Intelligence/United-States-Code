@@ -40,7 +40,7 @@ If the Secretary determines that there has been or may have been an unauthorized
 
 &emsp;&emsp;(A) obtained from a statement described in section 6051 or an information return relating to compensation for services rendered other than as an employee, or
 
-&emsp;&emsp;(B) provided to the Internal Revenue Service by the Social Security Administration regarding any statement described in section 6051,
+&emsp;&emsp;(B) provided to the Internal Revenue Service by the Social Security Administrationregarding any statement described in section 6051,
 
 > &emsp;which indicates that the social security account number provided on such statement or information return does not correspond with the name provided on such statement or information return or the name on the tax return reporting the income which is included on such statement or information return.
 

@@ -206,7 +206,7 @@ Statement of contingent commitment.—The agreement shall state that the conting
 
 &emsp;&emsp;&emsp;(iii)
 
-Interest and other financing costs.—Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a phased funding agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, to the satisfaction of the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+Interest and other financing costs.—Interest and other financing costsof efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a phased funding agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, to the satisfaction of the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
 &emsp;&emsp;&emsp;(iv)
 

@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section 71, act Mar. 4, 1907, ch. 2907, 34 Stat. 1260, which related to inspection of meat and meat food products, examination of cattle before slaughtering, separate slaughtering of diseased animals and examination of carcasses, was transferred to section 603 of this title.
+Section 71, act Mar. 4, 1907, ch. 2907, 34 Stat. 1260, which related to inspection of meat and meat foodproducts, examination of cattle before slaughtering, separate slaughtering of diseased animals and examination of carcasses, was transferred to section 603 of this title.
 
 Section 72, act Mar. 4, 1907, ch. 2907, 34 Stat. 1260, which related to post mortem examination of carcasses, marking and labeling, destruction of condemned carcasses, and reinspection, was transferred to section 604 of this title.
 

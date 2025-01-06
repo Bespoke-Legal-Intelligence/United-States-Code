@@ -6,7 +6,7 @@
 
 &emsp;(1) to conduct research and study of the operation of the courts of the United States, and to stimulate and coordinate such research and study on the part of other public and private persons and agencies;
 
-&emsp;(2) to develop and present for consideration by the Judicial Conference of the United States recommendations for improvement of the administration and management of the courts of the United States;
+&emsp;(2) to develop and present for consideration by the Judicial Conference of the UnitedStates recommendations for improvement of the administration and management of the courts of the United States;
 
 &emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including, but not limited to, judges, United States magistrate judges, clerks of court, probation officers, and persons serving as mediators and arbitrators;
 
@@ -36,7 +36,7 @@
 
 #### Change of Name
 
-"United States magistrate judges" substituted for "United States magistrates" in subsec. (b)(3) pursuantto section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judges" substituted for "United States magistrates" in subsec. (b)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1992 Amendment
 

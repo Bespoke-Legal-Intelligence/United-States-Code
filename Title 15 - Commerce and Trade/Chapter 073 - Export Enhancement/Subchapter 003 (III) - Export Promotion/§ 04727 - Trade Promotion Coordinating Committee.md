@@ -100,7 +100,7 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, §505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180; Pub. L. 115–254, div. F, title VI, §1470(e), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199;amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, §505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180; Pub. L. 115–254, div. F, title VI, §1470(e), Oct. 5, 2018, 132 Stat. 3516.)
 
 #### <b>Editorial Notes</b>
 
@@ -134,7 +134,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Availability of State Resources Guides on Export.gov
 
@@ -296,7 +296,7 @@ Sec. 3. <i>National Export Initiative</i>. The NEI shall address the following:
 
 (d) <i>Commercial Advocacy</i>. Members of the Export Promotion Cabinet, in consultation with other departments and agencies and in coordination with the Advocacy Center at the Department of Commerce, shall take steps to ensure that the Federal Government's commercial advocacy effectively promotes exports by U.S. companies.
 
-(e) <i>Increasing Export Credit</i>. The President of the Export-Import Bank, in consultation with other members of the Export Promotion Cabinet, shall take steps to increase the availability of credit to SMEs.
+(e) <i>Increasing Export Credit</i>. The President of the Export-Import Bank, in consultation with other membersof the Export Promotion Cabinet, shall take steps to increase the availability of credit to SMEs.
 
 (f) <i>Macroeconomic Rebalancing</i>. The Secretary of the Treasury, in consultation with other members of the Export Promotion Cabinet, shall promote balanced and strong growth in the global economy through the G20 Financial Ministers' process or other appropriate mechanisms.
 
@@ -374,7 +374,7 @@ Sec. 3. <i>Functions</i>. The Task Force shall perform the following functions:
 
 (e) facilitate voluntary short-term personnel exchanges, not to exceed 120 days, between the Department of Commerce and other Task Force agencies, in order to cross-train Federal personnel to better serve U.S. exporters; and
 
-(f) submit a progress report to the Export Promotion Cabinet every 180 days, which should include, but not be limited to, the number of commercial advocacy cases opened and successfully concluded, the number of commercial advocacy engagements by senior-level agency officials, and the number of U.S. businesses utilizing commercial advocacy services. The Advocacy Center at the Department of Commerce will be responsible for managing and tracking all commercial advocacy reporting for the Task Force.
+(f) submit a progress report to the Export Promotion Cabinet every 180 days, which should include, but not be limited to, the number of commercial advocacycases opened and successfully concluded, the number of commercial advocacy engagements by senior-level agency officials, and the number of U.S. businesses utilizing commercial advocacy services. The Advocacy Center at the Department of Commerce will be responsible for managing and tracking all commercial advocacy reporting for the Task Force.
 
 Sec. 4. <i>Definitions</i>. For the purposes of this order:
 
@@ -404,7 +404,7 @@ Section 1. <i>Policy</i>. The United States recognizes that Africa is a region o
 
 Sec. 2. <i>Establishment</i>. Not later than 180 days after the date of this order, the Secretary of Commerce shall establish the President's Advisory Council on Doing Business in Africa (Advisory Council).
 
-Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 26 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods,banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
+Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 26 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods, banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
 
 (b) Members of the Advisory Council shall be appointed by the Secretary of Commerce, in consultation with the Trade Promotion Coordinating Committee (TPCC), which was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993.
 
@@ -452,7 +452,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) Insofar as the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act") may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of Commerce in accordance with the guidelines that have been issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act") may apply to the Advisory Council, any functions of the President under the Act, except for thosein section 6 of the Act, shall be performed by the Secretary of Commerce in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -516,7 +516,7 @@ Accordingly, to further enhance and coordinate Federal efforts to facilitate the
 
 (1) <i>Program Coordination</i>. In coordination with the TPCC, the Export Promotion Cabinet shall develop strategies and initiatives in support of my Administration's strategic trade and investment goals and priorities, including the specific measures outlined in this memorandum. The Assistant to the President and Deputy National Security Advisor for International Economics shall coordinate the activities of the Export Promotion Cabinet pursuant to this memorandum. Measures and progress shall continue to be reported in the annual National Export Strategy report of the TPCC. The TPCC will continue to function as it has, consistent with its statutorily mandated duties.
 
-(2) <i>Improving Customer Service for Exporters</i>. Consistent with my memorandum of October 28, 2011 (Making it Easier for America's Small Businesses and America's Exporters to Access Government Services to Help Them Grow and Hire), the Export Promotion Cabinet shall support the Steering Committee established pursuant to that memorandum in its efforts to create BusinessUSA, a common, open, online platform and web service that will, among other things, enable exporters to seamlessly access information about export-related Government programs, resources, and services regardless of which agency provides them.
+(2) <i>Improving Customer Service for Exporters</i>. Consistent with my memorandum of October 28, 2011 (Making itEasier for America's Small Businesses and America's Exporters to Access Government Services to Help Them Grow and Hire), the Export Promotion Cabinet shall support the Steering Committee established pursuant to that memorandum in its efforts to create BusinessUSA, a common, open, online platform and web service that will, among other things, enable exporters to seamlessly access information about export-related Government programs, resources, and services regardless of which agency provides them.
 
 (3) <i>Trade Budget</i>. The Export Promotion Cabinet shall, in consultation with the TPCC:
 

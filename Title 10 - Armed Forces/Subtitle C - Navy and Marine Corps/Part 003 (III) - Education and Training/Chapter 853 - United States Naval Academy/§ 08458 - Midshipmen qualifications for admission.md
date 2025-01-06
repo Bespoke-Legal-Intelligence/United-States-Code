@@ -6,7 +6,7 @@
 
 &emsp;(2) shall be examined according to such regulations as the Secretary of the Navy prescribes, and if rejected at one examination may not be examined again for admission to the same class unless recommended by the Academic Board.
 
-(b) Each candidate for admission nominated under clauses (3) through (9) of section 8454(a) ofthis title must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
+(b) Each candidate for admission nominated under clauses (3) through (9) of section 8454(a) of this title must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
 
 (c) Each candidate nominated under clause (2) or (3) of section 8454(b) of this title—
 

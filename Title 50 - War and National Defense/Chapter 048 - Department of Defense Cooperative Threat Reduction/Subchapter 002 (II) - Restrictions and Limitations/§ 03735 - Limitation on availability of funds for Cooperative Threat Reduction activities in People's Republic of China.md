@@ -16,7 +16,7 @@ In carrying out activities under the Program in the People's Republic of China, 
 
 &emsp;&emsp;&emsp;(ii) arrest Li Fangwei pursuant the indictment charged in the United States District Court for the Southern District of New York on April 29, 2014;
 
-&emsp;&emsp;(B) whether China has proliferated to any non-nuclear weapons state, or any nuclear weapons state in violation of the Treaty on the Non-Proliferation of Nuclear Weapons, any item that contributes to a ballistic missile or nuclear weapons delivery system; and
+&emsp;&emsp;(B) whether China has proliferated to any non-nuclear weapons state, or any nuclearweapons state in violation of the Treaty on the Non-Proliferation of Nuclear Weapons, any item that contributes to a ballistic missile or nuclear weapons delivery system; and
 
 &emsp;&emsp;(C) the number, type, and summary of any demarches between the United States and China with respect to the matters described in subparagraphs (A) and (B).
 

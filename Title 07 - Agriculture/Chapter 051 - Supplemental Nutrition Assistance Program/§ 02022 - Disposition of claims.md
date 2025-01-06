@@ -4,7 +4,7 @@
 
 #### (1) Determination of claims
 
-&emsp;Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(II) of this title, the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under section 2025 of this title to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under section 2023 of this title.
+&emsp;Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(II) of this title, the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under section 2025 of this title to collect unpaid claims assessed against theState agency if the State agency has declined or exhausted its appeal rights under section 2023 of this title.
 
 #### (2) Claims established under quality control system
 
@@ -80,7 +80,7 @@
 
 #### (I) Determination not appealed
 
-&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is not appealed, the State agency shall, as soon as practicable, remit to the Secretary the dollar amount specified in the claim under clause (iii).
+&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is not appealed, theState agency shall, as soon as practicable, remit to the Secretary the dollar amount specified in the claim under clause (iii).
 
 #### (II) Determination appealed
 
@@ -180,7 +180,7 @@ Amendment by sections 4115(b)(9) and 4133 of Pub. L. 110–246 effective Oct. 1,
 
 Pub. L. 107–171, title IV, §4118(e), May 13, 2002, 116 Stat. 321, provided that: "The amendments made by this section \[amending this section and sections 2025, 2027, and 2031 of this title\] shall not apply with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003."
 
-Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L.107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

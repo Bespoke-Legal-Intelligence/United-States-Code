@@ -10,7 +10,7 @@ The Secretary may make grants to and enter into contracts with public and nonpro
 
 #### (b) Grants for alleviation of insufficient supplies of blood fractions
 
-In the event the Secretary finds that there is an insufficient supply of blood fractions available to meet the needs for treatment of persons suffering from hemophilia, and that public and other nonprofit private centers already engaged in the production of blood fractions could alleviate such insufficiency with assistance under this subsection, he may make grants not to exceed $500,000 to such centers for the purposes of alleviating the insufficiency.
+In the event the Secretary finds that there is an insufficient supply of blood fractions available to meet the needs for treatment of personssuffering from hemophilia, and that public and other nonprofit private centers already engaged in the production of blood fractions could alleviate such insufficiency with assistance under this subsection, he may make grants not to exceed $500,000 to such centers for the purposes of alleviating the insufficiency.
 
 #### (c) Approval of application as prerequisite for grant or contract; form, manner of submission, and contents of application
 
@@ -118,7 +118,7 @@ Determination.—The Secretary determines, in accordance with section 103(b), th
 
 "(a)
 
-Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
+Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed underthis Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
 
 "(b)
 

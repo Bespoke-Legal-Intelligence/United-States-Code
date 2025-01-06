@@ -16,7 +16,7 @@
 
 (C) For the purposes of this paragraph, the term "funded personnel ceiling" means, with respect to any fiscal year (or part of a fiscal year), the authorization by the Director of the Office of Management and Budget to employ (under the appropriation accounts for medical care, medical and prosthetic research, and medical administration and miscellaneous operating expenses) not less than the number of employees for the employment of which appropriations have been made for such fiscal year (or part of a fiscal year).
 
-(5) Notwithstanding any other provision of this title or of any other law, funds appropriated for the Department under the appropriation accounts for medical care, medical and prosthetic research, and medical administration and miscellaneous operating expenses may not be used for, and no employee compensated from such funds may carry out any activity in connection with, the conduct of any study comparing the cost of the provision by private contractors with the cost of the provision by the Department of commercial or industrial products and services for the Veterans Health Administration unless such funds have been specifically appropriated for that purpose.
+(5) Notwithstanding any other provision of this title or of any other law, funds appropriatedfor the Department under the appropriation accounts for medical care, medical and prosthetic research, and medical administration and miscellaneous operating expenses may not be used for, and no employee compensated from such funds may carry out any activity in connection with, the conduct of any study comparing the cost of the provision by private contractors with the cost of the provision by the Department of commercial or industrial products and services for the Veterans Health Administration unless such funds have been specifically appropriated for that purpose.
 
 (6)(A) Temporary research personnel of the Veterans Health Administration shall be excluded from any ceiling on full-time equivalent employees of the Department or any other personnel ceiling otherwise applicable to employees of the Department.
 
@@ -56,7 +56,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (c) to (f). Pub. L. 115–251 redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which read as follows: "The Secretary shall include in the materials submitted to Congress each year in support of the budget of the Department for the next fiscal year a report on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees. The report shall—
+<b>2018</b>—Subsecs. (c) to (f). Pub. L. 115–251 redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which read as follows: "The Secretary shall include in the materials submitted to Congress each year in support of the budget of the Department for the next fiscal year a report on activities and proposals involving contracting for performance bycontractor personnel of work previously performed by Department employees. The report shall—
 
 &emsp;"(1) identify those specific activities that are currently performed at a Department facility by more than 10 Department employees which the Secretary proposes to study for possible contracting involving conversion from performance by Department employees to performance by employees of a contractor; and
 
@@ -248,7 +248,7 @@ Pub. L. 115–182, title IV, §§401, 402, June 6, 2018, 132 Stat. 1470, 1471, a
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[June 6, 2018\], the Secretary of Veterans Affairs shall develop criteria todesignate medical centers, ambulatory care facilities, and community based outpatient clinics of the Department of Veterans Affairs as underserved facilities.
+In General.—Not later than 180 days after the date of the enactment of this Act \[June 6, 2018\], the Secretary of Veterans Affairs shall develop criteria to designate medical centers, ambulatory care facilities, and community based outpatient clinics of the Department of Veterans Affairs as underserved facilities.
 
 "(b)
 
@@ -318,7 +318,7 @@ Reporting.—
 
 &emsp;"(1)
 
-Progress report.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\], the Secretary shall submit a report to Congress on the implementation of the pilot program under this section.
+Progress report.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\],the Secretary shall submit a report to Congress on the implementation of the pilot program under this section.
 
 &emsp;"(2)
 
@@ -362,7 +362,7 @@ Report.—Not later than June 30, 2005, the Secretary of Veterans Affairs shall 
 
 #### Conversion of Underused Space to Domiciliary-Care Beds
 
-Pub. L. 100–322, title I, §136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, toconvert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
+Pub. L. 100–322, title I, §136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, to convert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
 
 #### Policy of Comprehensive Veterans' Health-Care System
 

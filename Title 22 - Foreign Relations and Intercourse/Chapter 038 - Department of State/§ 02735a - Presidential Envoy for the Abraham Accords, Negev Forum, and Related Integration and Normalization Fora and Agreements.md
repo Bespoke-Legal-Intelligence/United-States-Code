@@ -96,7 +96,7 @@ This section shall terminate on the date that is 6 years after December 22, 2023
 
 #### (j) Rule of construction
 
-If, on December 22, 2023, an individual has already been designated, consistent with the requirements and responsibilities described in subsections (b), (c), and (d) and section 2651a of this title, the requirements under subsection (b) shall be considered to be satisfied with respectto such individual until the date on which such individual no longer serves as the Special Envoy.
+If, on December 22, 2023, an individual has already been designated, consistent with the requirements and responsibilities described in subsections (b), (c), and (d) and section 2651a of this title, the requirements under subsection (b) shall be considered to be satisfied with respect to such individual until the date on which such individual no longer serves as the Special Envoy.
 
 #### (k) Definitions
 

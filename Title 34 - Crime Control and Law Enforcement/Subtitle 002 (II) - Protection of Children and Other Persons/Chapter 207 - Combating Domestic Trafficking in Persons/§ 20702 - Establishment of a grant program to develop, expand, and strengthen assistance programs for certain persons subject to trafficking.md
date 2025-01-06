@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vi) law enforcement protocols or procedures to screen all individuals arrested for prostitution, whether adult or minor, for victimization by sex trafficking and by other crimes, such as sexual assault and domestic violence; and
 
-&emsp;&emsp;(D) provides assurance that a minor victim of sex trafficking shall not be required to collaborate with law enforcement to have access to residential care or services provided with a grant under this section.
+&emsp;&emsp;(D) provides assurance that a minor victim of sex trafficking shall not be required tocollaborate with law enforcement to have access to residential care or services provided with a grant under this section.
 
 #### (4) Minor victim of sex trafficking
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) programs to provide treatment to individuals charged or cited with purchasing or attempting to purchase sex acts in cases where—
 
-&emsp;&emsp;&emsp;&emsp;(I) a treatment program can be mandated as a condition of a sentence, fine, suspended sentence, or probation, or is an appropriate alternative to criminal prosecution; and
+&emsp;&emsp;&emsp;&emsp;(I) a treatment program can be mandated as a condition of a sentence, fine, suspended sentence, or probation, or isan appropriate alternative to criminal prosecution; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the individual was not charged with purchasing or attempting to purchase sex acts with a minor; and
 

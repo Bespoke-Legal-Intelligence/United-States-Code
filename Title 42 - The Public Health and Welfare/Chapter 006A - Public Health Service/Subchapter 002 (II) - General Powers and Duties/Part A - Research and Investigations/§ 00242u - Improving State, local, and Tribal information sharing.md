@@ -22,7 +22,7 @@ In facilitating the coordination of efforts under subsection (a), the Secretary 
 
 #### (d) Exemption of certain public health data from disclosure
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may exempt from disclosure under section 552(b)(3) of title 5 public health data that are gathered under this section if—
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may exempt from disclosure under section 552(b)(3) of title 5 public health data that are gathered under this section if—
 
 &emsp;(1) an individual is identified through such data; or
 

@@ -8,7 +8,7 @@
 
 #### (2) Use of appropriated funds
 
-&emsp;Subject to paragraph (3), amounts made available under paragraph (1) shall be providedto the Foundation to match contributions (whether in currency, services, or property) made to the Foundation, or to a recipient of a grant provided by the Foundation, by private persons and State and local government agencies.
+&emsp;Subject to paragraph (3), amounts made available under paragraph (1) shall be provided to the Foundation to match contributions (whether in currency, services, or property) made to the Foundation, or to a recipient of a grant provided by the Foundation, by private persons and State and local government agencies.
 
 #### (3) Prohibition on use for administrative expenses
 

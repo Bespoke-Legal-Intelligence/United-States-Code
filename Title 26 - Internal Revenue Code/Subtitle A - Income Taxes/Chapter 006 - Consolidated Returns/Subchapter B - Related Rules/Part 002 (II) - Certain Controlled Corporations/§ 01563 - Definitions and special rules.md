@@ -84,7 +84,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in anothercorporation (referred to in this paragraph as "subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as "subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -270,7 +270,7 @@ Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1986 Amendment
 

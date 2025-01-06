@@ -2,7 +2,7 @@
 
 (a)
 
-Authorized Types.—Subject to the limitation in section 3322(a) of this title, the other provisions of this chapter, and other applicable provisions of law, the head of an agency, in awarding contracts under chapter 137 legacyprovisions after using procedures other than sealed-bid procedures, may enter into any kind of contract that he considers will promote the best interests of the United States.
+Authorized Types.—Subject to the limitation in section 3322(a) of this title, the other provisions of this chapter, and other applicable provisions of law, the head of an agency, in awarding contracts under chapter 137 legacy provisions after using procedures other than sealed-bid procedures, may enter into any kind of contract that he considers will promote the best interests of the United States.
 
 (b)
 

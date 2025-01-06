@@ -180,5 +180,5 @@ The date of enactment of this section, referred to in subsec. (g), is the date o
 
 #### Allocation of Funds
 
-For certain requirements regarding allocation of funds pursuant to subsec. (c) of this section and as provided in subsec. (e) of this section, see section 431(a)–(c) of div. G of Pub. L. 117–328, set out as a note under section 200303 of this title.
+For certain requirements regarding allocation of funds pursuant to subsec. (c) of this section and as provided in subsec. (e) of this section, see section 430(a)–(c) of div. E of Pub. L. 118–42, set out as a note under section 200303 of this title.
 

@@ -36,7 +36,7 @@ The services referred to in subsection (a) are—
 
 &emsp;&emsp;(D) referring the eligible homeless individual for such other services as may be appropriate; and
 
-&emsp;&emsp;(E) providing representative payee services in accordance with section 1631(a)(2) of theSocial Security Act \[42 U.S.C. 1383(a)(2)\] if the eligible homeless individual is receiving aid under title XVI of such act \[42 U.S.C. 1381 et seq.\] and if the applicant is designated by the Secretary to provide such services;
+&emsp;&emsp;(E) providing representative payee services in accordance with section 1631(a)(2) of the Social Security Act \[42 U.S.C. 1383(a)(2)\] if the eligible homeless individual is receiving aid under title XVI of such act \[42 U.S.C. 1381 et seq.\] and if the applicant is designated by the Secretary to provide such services;
 
 &emsp;(8) supportive and supervisory services in residential settings;
 
@@ -104,7 +104,7 @@ With respect to the United States Virgin Islands, Guam, American Samoa, Palau, t
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

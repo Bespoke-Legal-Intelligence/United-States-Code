@@ -8,5 +8,5 @@ In carrying out this chapter, the Entity shall focus its support for sustainable
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this subtitle", meaning subtitle E (§§261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
+This chapter, referred to in text, was in the original "this subtitle", meaning subtitle E (§§261–267) of title IIof Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
 

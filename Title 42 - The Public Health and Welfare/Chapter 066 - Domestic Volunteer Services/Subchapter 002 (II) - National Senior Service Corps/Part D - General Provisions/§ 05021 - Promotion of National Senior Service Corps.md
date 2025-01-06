@@ -22,13 +22,13 @@
 
 (3) From funds appropriated under section 5082 of this title, the Director shall expend not less than $375,000 in each fiscal year to carry out paragraph (2).
 
-(Pub. L. 93–113, title II, §221, Oct. 1, 1973, 87 Stat. 403; Pub. L. 96–143, §18(b), Dec. 13, 1979, 93 Stat. 1083; Pub. L. 97–35, title VI, §608(f)(2), Aug. 13, 1981, 95 Stat. 488; Pub. L. 101–204, title V, §505, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, titleIII, §§341(b)(2), 348, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 111–13, title II, §2146(a), Apr. 21, 2009, 123 Stat. 1589.)
+(Pub. L. 93–113, title II, §221, Oct. 1, 1973, 87 Stat. 403; Pub. L. 96–143, §18(b), Dec. 13, 1979, 93 Stat. 1083; Pub. L. 97–35, title VI, §608(f)(2), Aug. 13, 1981, 95 Stat. 488; Pub. L. 101–204, title V, §505, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§341(b)(2), 348, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 111–13, title II, §2146(a), Apr. 21, 2009, 123 Stat. 1589.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 89–73, July 14, 1965, 79 Stat.218. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (a)(2)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

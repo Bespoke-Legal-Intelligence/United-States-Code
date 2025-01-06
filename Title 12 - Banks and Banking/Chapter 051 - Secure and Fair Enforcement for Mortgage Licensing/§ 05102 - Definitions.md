@@ -74,7 +74,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (6) Nationwide mortgage licensing system and registry
 
-&emsp;The term "Nationwide Mortgage Licensing System and Registry" means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing and registration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
+&emsp;The term "Nationwide Mortgage Licensing System and Registry" means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing andregistration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
 
 #### (7) Nontraditional mortgage product
 

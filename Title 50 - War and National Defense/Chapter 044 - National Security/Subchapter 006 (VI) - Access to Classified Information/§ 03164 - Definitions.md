@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 &emsp;(3) the term "consumer reporting agency" has the meaning given such term in section 1681a of title 15;
 
-&emsp;(4) the term "employee" includes any person who receives a salary or compensation of any kind from the United States Government, is acontractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
+&emsp;(4) the term "employee" includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
 
 &emsp;(5) the terms "financial agency" and "financial institution" have the meanings given to such terms in section 5312(a) of title 31 and the term "holding company" has the meaning given to such term in section 3401(6) of title 12;
 
@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 Executive Order No. 12356, referred to in par. (2), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843.
 
-The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principallyto chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Codification
 

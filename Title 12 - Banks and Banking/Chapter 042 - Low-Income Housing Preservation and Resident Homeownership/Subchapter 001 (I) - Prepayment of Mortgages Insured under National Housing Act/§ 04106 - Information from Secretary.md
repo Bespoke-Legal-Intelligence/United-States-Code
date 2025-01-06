@@ -2,7 +2,7 @@
 
 #### (a) Information to owners terminating affordability restrictions
 
-The Secretary shall provide each owner who submits a notice of intent to terminate the low-income affordability restrictions on the housing under section 4108 of this title with information under this section not later than 6 months after receipt of the notice of intent. The information shall include a description of the criteria for such termination specified under section 4108 ofthis title and the documentation required to satisfy such criteria.
+The Secretary shall provide each owner who submits a notice of intent to terminate the low-income affordability restrictions on the housing under section 4108 of this title with information under this section not later than 6 months after receipt of the notice of intent. The information shall include a description of the criteria for such termination specified under section 4108 of this title and the documentation required to satisfy such criteria.
 
 #### (b) Information to owners extending low-income affordability restrictions
 
@@ -32,7 +32,7 @@ The Secretary shall make any information provided to the owner under subsections
 
 #### (1) Filing
 
-&emsp;Each owner of eligible low-income housing that elects to transfer housing under section 4110 of this title shall submit to the Secretary, in such form and manner as the Secretary prescribes, notice of intent to sell the housing under section 4110 of this title. To be eligible to prepay the mortgage or voluntarily terminate the insurance contract on the mortgage, an owner of housing for which the preservation rents exceed the Federal cost limits under section 4105(b) of this title shall submit to the Secretary notice of such intent. The provisions of sections 4111 and 4113 of this title shall apply to any owner submitting a notice under the preceding sentence.
+&emsp;Each owner of eligible low-income housing that elects to transfer housing under section4110 of this title shall submit to the Secretary, in such form and manner as the Secretary prescribes, notice of intent to sell the housing under section 4110 of this title. To be eligible to prepay the mortgage or voluntarily terminate the insurance contract on the mortgage, an owner of housing for which the preservation rents exceed the Federal cost limits under section 4105(b) of this title shall submit to the Secretary notice of such intent. The provisions of sections 4111 and 4113 of this title shall apply to any owner submitting a notice under the preceding sentence.
 
 #### (2) Timing
 

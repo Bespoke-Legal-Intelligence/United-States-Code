@@ -90,7 +90,7 @@ The Secretary shall ensure that information and analysis in the National Neurolo
 
 #### (2) Implementation report
 
-&emsp;Not later than 4 years after December 13, 2016, the Secretary shall submit a report tothe Congress concerning the implementation of this section. Such report shall include information on—
+&emsp;Not later than 4 years after December 13, 2016, the Secretary shall submit a report to the Congress concerning the implementation of this section. Such report shall include information on—
 
 &emsp;&emsp;(A) the development and maintenance of the National Neurological Conditions Surveillance System;
 

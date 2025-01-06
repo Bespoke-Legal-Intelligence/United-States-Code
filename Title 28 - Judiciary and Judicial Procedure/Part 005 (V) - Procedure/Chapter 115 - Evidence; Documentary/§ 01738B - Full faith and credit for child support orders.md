@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 (c)
 
-Requirements of Child Support Orders.—A child support order made by a court ofa State is made consistently with this section if—
+Requirements of Child Support Orders.—A child support order made by a court of a State is made consistently with this section if—
 
 &emsp;(1) a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
 

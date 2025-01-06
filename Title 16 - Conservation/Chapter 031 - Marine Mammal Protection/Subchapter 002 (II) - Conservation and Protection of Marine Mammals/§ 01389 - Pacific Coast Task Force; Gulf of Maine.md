@@ -58,7 +58,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (1) Removal authority
 
-&emsp;Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a population or stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
+&emsp;Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a populationor stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
 
 &emsp;&emsp;(A) species of salmon, steelhead, or eulachon that are listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); and
 
@@ -114,7 +114,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (B) Delegation authority
 
-&emsp;&emsp;The Secretary may allow eligible entities described in clause (i) or (ii) of subparagraph (A) to delegate their authority under a permit under this subsection to the ColumbiaRiver Intertribal Fish Commission for removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries within the State of Oregon above Bonneville Dam and below McNary Dam.
+&emsp;&emsp;The Secretary may allow eligible entities described in clause (i) or (ii) of subparagraph (A) to delegate their authority under a permit under this subsection to the Columbia River Intertribal Fish Commission for removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries within the State of Oregon above Bonneville Dam and below McNary Dam.
 
 #### (C) Additional delegation authority
 
@@ -198,7 +198,7 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5,Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
 

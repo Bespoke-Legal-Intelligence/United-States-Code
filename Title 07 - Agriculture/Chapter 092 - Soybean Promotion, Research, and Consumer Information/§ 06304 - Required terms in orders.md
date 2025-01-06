@@ -44,7 +44,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (F) Adjustment of levels of production
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment to the order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary mayamend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment to the order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
 
 #### (3) Nominations
 
@@ -154,7 +154,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (I) First fiscal year
 
-&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted onevote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
+&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted one vote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
 
 #### (II) Second and third fiscal years
 
@@ -280,7 +280,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (1) Authority
 
-&emsp;To ensure coordination and efficient use of funds, the order shall provide that the Board may enter into contracts or agreements for the implementation and carrying out of the activities authorized by this chapter with national, nonprofit, producer-governed organizations that represent producers of soybeans, and for the payment thereof with funds received by the Board under the order.
+&emsp;To ensure coordination and efficient use of funds, the order shall provide that the Board may enter into contracts or agreements forthe implementation and carrying out of the activities authorized by this chapter with national, nonprofit, producer-governed organizations that represent producers of soybeans, and for the payment thereof with funds received by the Board under the order.
 
 #### (2) Coordination
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half ofany fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
 
 #### (n) Minimum level of assessments to States
 
@@ -546,7 +546,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this chapter, commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department, members of the Board, and agents of the Board.
+&emsp;&emsp;Except as otherwise provided in this chapter, commercial or financial informationthat is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department, members of the Board, and agents of the Board.
 
 #### (B) Permitted uses
 

@@ -20,7 +20,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 &emsp;(6) deal with, complete, renovate, improve, modernize, insure, rent, or sell for cash or credit, on such terms and conditions and for such consideration as the Secretary determines to be reasonable, any real or personal property conveyed to or otherwise acquired by the Secretary in connection with assistance provided under this chapter;
 
-&emsp;(7) pursue to final collection, by means of compromise or other administrative action, before referral to the Attorney General, all claims against third parties assigned to the Secretary in connection with assistance provided under this chapter;
+&emsp;(7) pursue to final collection, by means of compromise or other administrative action,before referral to the Attorney General, all claims against third parties assigned to the Secretary in connection with assistance provided under this chapter;
 
 &emsp;(8) acquire, in any lawful manner, any property (real, personal, or mixed, tangible or intangible), to the extent appropriate in connection with assistance provided under this chapter;
 
@@ -78,7 +78,7 @@ Section 6101 of title 41 shall not apply to any contract of hazard insurance or 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On written request from a recipient of a grant under section 3149(d) of this title, the Secretary shall release, in accordance with this subparagraph, any Federal interest in connection with the grant, if—
+&emsp;&emsp;&emsp;On written request from a recipient of a grant under section 3149(d) <sup>1</sup> of this title, the Secretary shall release, in accordance with this subparagraph, any Federal interest in connection with the grant, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the request is made not less than 7 years after the final disbursement of the original grant;
 
@@ -96,11 +96,11 @@ Section 6101 of title 41 shall not apply to any contract of hazard insurance or 
 
 #### (II) Extension
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may extend a deadline under subclause (I) by an additional 180 days if the Secretary determines the extension to be necessary.
+&emsp;&emsp;&emsp;&emsp;The Secretary may extend a deadline under subclause (I) by an additional 180days if the Secretary determines the extension to be necessary.
 
 #### (iii) Savings provision
 
-&emsp;&emsp;&emsp;Section 3212 of this title shall continue to apply to a project assisted with a grant under section 3149(d) of this title regardless of whether the Secretary releases a Federal interest under clause (i).
+&emsp;&emsp;&emsp;Section 3212 of this title shall continue to apply to a project assisted with a grant under section 3149(d) <sup>1</sup> of this title regardless of whether the Secretary releases a Federal interest under clause (i).
 
 #### (e) Powers of conveyance and execution
 
@@ -117,6 +117,8 @@ The Public Works Employment Act of 1976, referred to in subsec. (d)(1)(B), is Pu
 The Trade Act of 1974, referred to in subsec. (d)(1)(C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1)(D), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Act is set out as a note under section 5184 of this title. For complete classification of this Act to the Code, see Tables.
+
+Section 3149(d) of this title, referred to in subsec. (d)(2)(B)(i), (iii), was redesignated section 3149(f) of this title by Pub. L. 118–272, div. B, title II, §2219(2), Jan. 4, 2025, 138 Stat. 3183.
 
 #### Codification
 
@@ -138,6 +140,34 @@ A prior section 601(a) of Pub. L. 89–136 was classified to section 3201 of thi
 
 Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
 
+#### Modernization of Environmental Reviews
+
+Pub. L. 118–272, div. B, title II, §2232, Jan. 4, 2025, 138 Stat. 3197, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Jan. 4, 2025\], the Secretary of Commerce (referred to in this section as the 'Secretary') shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the efforts of the Secretary to facilitate efficient, timely, and predictable environmental reviews of projects funded by the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.), including through expanded use of categorical exclusions or programmatic environmental documents (as those terms are defined in section 111 of the National Environmental Policy Act of 1969 (42 U.S.C. 4336e)).
+
+"(b)
+
+Requirements.—In completing the report under subsection (a), the Secretary shall—
+
+&emsp;"(1) describe the actions the Secretary will take to implement the amendments to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) made by section 321 of the Fiscal Responsibility Act of 2023 (Public Law 118–5; 137 Stat. 38) \[enacting sections 4336 to 4336e of this title and amending section 4332 of this title\];
+
+&emsp;"(2) describe the existing categorical exclusions most frequently used by the Secretary to streamline the environmental review of projects funded by the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.); and
+
+&emsp;"(3) consider—
+
+&emsp;&emsp;"(A) the adoption of additional categorical exclusions, including those used by other Federal agencies, that would facilitate the environmental review of projects funded by the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.);
+
+&emsp;&emsp;"(B) the adoption of new programmatic environmental documents that would facilitate the environmental review of projects funded by the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.); and
+
+&emsp;&emsp;"(C) agreements with other Federal agencies that would facilitate a more efficient process for the environmental review of projects funded by the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.).
+
+"(c)
+
+Rulemaking.—Not later than 2 years after the submission of the report under subsection (a), the Secretary shall promulgate a final rule implementing, to the maximum extent practicable, measures considered by the Secretary under subsection (b) that are necessary to streamline the environmental review of projects funded by the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.)."
+
 #### Authorization for Temporary Personnel To Respond to Coronavirus
 
 Pub. L. 116–136, div. B, title II, Mar. 27, 2020, 134 Stat. 510, provided in part: "That the Secretary of Commerce is authorized to appoint and fix the compensation of such temporary personnel as may be necessary to implement the requirements under this heading \[
@@ -147,4 +177,6 @@ Pub. L. 116–136, div. B, title II, Mar. 27, 2020, 134 Stat. 510, provided in p
 'Economic Development Administration'\] in this Act \[div. B of Pub. L. 116–136\] to prevent, prepare for, and respond to coronavirus, without regard to the provisions of title 5, United States Code, governing appointments in competitive service: <i>Provided further</i>, That the Secretary of Commerce is authorized to appoint such temporary personnel, after serving continuously for 2 years, to positions in the Economic Development Administration in the same manner that competitive service employees with competitive status are considered for transfer, reassignment, or promotion to such positions and an individual appointed under this provision shall become a career-conditional employee, unless the employee has already completed the service requirements for career tenure".
 
 \[For definition of "coronavirus" as used in provision of title II of div. B of Pub. L. 116–136, set out above, see section 23005 of div. B of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

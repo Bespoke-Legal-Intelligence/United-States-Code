@@ -1,6 +1,6 @@
 ### §563d. Small business contracting goals
 
-Not later than 90 days after December 18, 2014, and annually thereafter, the Administratorshall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives that includes—
+Not later than 90 days after December 18, 2014, and annually thereafter, the Administrator shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives that includes—
 
 &emsp;(1) the Administration's performance record with respect to meeting its published small-business contracting goals during the preceding fiscal year;
 

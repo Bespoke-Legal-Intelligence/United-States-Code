@@ -46,7 +46,7 @@ Use of Proceeds.—(1) The proceeds of any conveyance of a family housing facili
 
 &emsp;(C) to reimburse the Secretary concerned for the costs incurred by the Secretary in conveying the family housing facility.
 
-(2) Notwithstanding section 2883(d) of this title, proceeds derived from a conveyance of a family housing facility under this section shallbe available under paragraph (1) without any further appropriation.
+(2) Notwithstanding section 2883(d) of this title, proceeds derived from a conveyance of a family housing facility under this section shall be available under paragraph (1) without any further appropriation.
 
 (f)
 
@@ -70,7 +70,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pu
 
 <b>2011</b>—Subsec. (d)(1). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
-<b>2003</b>—Subsec. (c)(2). Pub. L. 108–136 struck out "calendar" after "21" and inserted before period at end "or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to section 480 of this title".
+<b>2003</b>—Subsec. (c)(2). Pub. L. 108–136 struck out "calendar" after "21" and inserted before period at end "or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided inan electronic medium pursuant to section 480 of this title".
 
 <b>2002</b>—Subsec. (d)(1). Pub. L. 107–217 substituted "Subtitle I of title 40 and title III of the" for "The" and "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 

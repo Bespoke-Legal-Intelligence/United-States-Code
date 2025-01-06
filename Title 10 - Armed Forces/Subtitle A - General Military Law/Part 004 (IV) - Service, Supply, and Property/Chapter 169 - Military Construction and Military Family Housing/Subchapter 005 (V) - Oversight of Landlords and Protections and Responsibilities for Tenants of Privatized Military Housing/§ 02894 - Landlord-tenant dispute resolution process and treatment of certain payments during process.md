@@ -10,7 +10,7 @@ Process Elements.—(1) The dispute resolution process shall include the process
 
 (2) The process shall designate the installation or regional commander in charge of oversight of housing units as the deciding authority under the dispute resolution process.
 
-(3) The Secretary concerned shall establish a standardized mechanism and forms by which a tenant of a housing unit may submit, throughonline or other means, a request for resolution of a landlord-tenant dispute through the dispute resolution process.
+(3) The Secretary concerned shall establish a standardized mechanism and forms by which a tenant of a housing unit may submit, through online or other means, a request for resolution of a landlord-tenant dispute through the dispute resolution process.
 
 (4) The Secretary shall ensure that, in preparing a request described in paragraph (3), a tenant has access to advice and assistance from a military housing advocate employed by the military department concerned or a military legal assistance attorney under section 1044 of this title.
 
@@ -78,7 +78,7 @@ Request to Withhold Payments During Resolution Process.—(1) As part of the sub
 
 (f)
 
-Disclosure of Rights.—(1) Each housing management office of the Department of Defense shall disclose in writing to each new tenant of a housing unit, upon the signing of the lease for the housing unit, the tenant's rights under this section and the procedures under this section for submitting a request for resolutionof a landlord-tenant dispute through the dispute resolution process, including the ability to submit a request to withhold payments during the resolution process.
+Disclosure of Rights.—(1) Each housing management office of the Department of Defense shall disclose in writing to each new tenant of a housing unit, upon the signing of the lease for the housing unit, the tenant's rights under this section and the procedures under this section for submitting a request for resolution of a landlord-tenant dispute through the dispute resolution process, including the ability to submit a request to withhold payments during the resolution process.
 
 (2) The Secretary of Defense shall ensure that each lease entered into with a tenant for a housing unit clearly expresses, in a separate addendum, the dispute resolution procedures.
 

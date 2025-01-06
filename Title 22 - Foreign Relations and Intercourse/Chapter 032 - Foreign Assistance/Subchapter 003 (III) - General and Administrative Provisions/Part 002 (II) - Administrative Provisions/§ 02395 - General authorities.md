@@ -6,7 +6,7 @@ Except as otherwise specifically provided in this chapter, assistance under this
 
 #### (b) Authority of the President
 
-The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into other transactions with, any individual, corporation, or other body of persons, friendly government or government agency, whether within or without the United States, and international organizations in furtherance of the purposes and within the limitations of this chapter.
+The President may make loans, advances, and grants to, make and perform agreements andcontracts with, or enter into other transactions with, any individual, corporation, or other body of persons, friendly government or government agency, whether within or without the United States, and international organizations in furtherance of the purposes and within the limitations of this chapter.
 
 #### (c) Utilization of services and facilities of voluntary, nonprofit organizations
 
@@ -62,7 +62,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 #### (m) Working capital fund
 
-(1) There is established a working capital fund (in this subsection referred to as the "fund") for the United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
+(1) There is established a working capital fund (in this subsection referred to as the "fund") forthe United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
 
 &emsp;(A) International Cooperative Administrative Support Services; and
 

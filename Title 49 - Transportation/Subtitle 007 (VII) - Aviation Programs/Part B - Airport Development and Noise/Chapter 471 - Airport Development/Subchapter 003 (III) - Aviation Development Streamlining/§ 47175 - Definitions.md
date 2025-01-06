@@ -4,43 +4,35 @@ In this subchapter, the following definitions apply:
 
 &emsp;(1)
 
-Airport sponsor.—The term "airport sponsor" has the meaning given the term "sponsor" under section 47102.
-
-&emsp;(2)
-
-Congested airport.—The term "congested airport" means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration's Airport Capacity Benchmark Report 2004 or any successor report.
-
-&emsp;(3)
-
 Airport capacity enhancement project.—The term "airport capacity enhancement project" means—
 
-&emsp;&emsp;(A) a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; and
+&emsp;&emsp;(A) a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; or
 
 &emsp;&emsp;(B) such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
 
-&emsp;(4)
+&emsp;(2)
+
+Airport sponsor.—The term "airport sponsor" has the meaning given the term "sponsor" under section 47102.
+
+&emsp;(3)
 
 Aviation safety project.—The term "aviation safety project" means an aviation project that—
 
-&emsp;&emsp;(A) has as its primary purpose reducing the risk of injury to persons or damage to aircraft and property, as determined by the Administrator; and
+&emsp;&emsp;(A) has as its primary purpose reducing the risk of injury to persons or damage to aircraft and property, as determined by the Administrator;
 
-&emsp;&emsp;(B)(i) is needed to respond to a recommendation from the National Transportation Safety Board, as determined by the Administrator; or
+&emsp;&emsp;(B) is needed to respond to a recommendation from the National Transportation Safety Board, as determined by the Administrator; or
 
-&emsp;&emsp;(ii) is necessary for an airport to comply with part 139 of title 14, Code of Federal Regulations (relating to airport certification).
+&emsp;&emsp;(C) is necessary for an airport to comply with part 139 of title 14, Code of Federal Regulations (relating to airport certification).
+
+&emsp;(4)
+
+Congested airport.—The term "congested airport" means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration's Airport Capacity Benchmark Report 2004 or any successor report.
 
 &emsp;(5)
 
-Aviation security project.—The term "aviation security project" means a security project at an airport required by the Department of Homeland Security.
-
-&emsp;(6)
-
 Federal agency.—The term "Federal agency" means a department or agency of the United States Government.
 
-&emsp;(7)
-
-Joint use airport.—The term "joint use airport" means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
-
-&emsp;(8)
+&emsp;(6)
 
 General aviation airport construction or improvement project.—The term "general aviation airport construction or improvement project" means—
 
@@ -48,11 +40,39 @@ General aviation airport construction or improvement project.—The term "genera
 
 &emsp;&emsp;(B) any other airport development project that the Secretary designates as facilitating aviation capacity building projects at a general aviation airport.
 
-(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538; amended Pub. L. 112–95, title I, §152(g), Feb. 14, 2012, 126 Stat. 34; Pub. L. 115–254, div. B, title I, §191(b), Oct. 5, 2018, 132 Stat. 3239.)
+&emsp;(7)
+
+Joint use airport.—The term "joint use airport" means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
+
+&emsp;(8)
+
+Terminal development.—The term "terminal development" has the meaning given such term in section 47102.
+
+(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538; amended Pub. L. 112–95, title I, §152(g), Feb. 14, 2012, 126 Stat. 34; Pub. L. 115–254, div. B, title I, §191(b), Oct. 5, 2018, 132 Stat. 3239; Pub. L. 118–63, title VII, §784, May 16, 2024, 138 Stat. 1313.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Par. (1). Pub. L. 118–63, §784(4), redesignated par. (3) as (1). Former par. (1) redesignated (2).
+
+Par. (2). Pub. L. 118–63, §784(4), redesignated par. (1) as (2). Former par. (2) redesignated (4).
+
+Par. (3). Pub. L. 118–63, §784(4), redesignated par. (4) as (3). Former par. (3) redesignated (1).
+
+Par. (3)(A). Pub. L. 118–63, §784(1), substituted "or" for "and".
+
+Par. (4). Pub. L. 118–63, §784(4), redesignated par. (2) as (4). Former par. (4) redesignated (3).
+
+Par. (4)(A). Pub. L. 118–63, §784(2)(A), struck out "and" at end.
+
+Par. (4)(B), (C). Pub. L. 118–63, §784(2)(B), struck out subpar. (B) designation and redesignated cls. (i) and (ii) of former subpar. (B) as subpars. (B) and (C), respectively, of par. (4).
+
+Par. (5). Pub. L. 118–63, §784(4), redesignated par. (6) as (5). Former par. (5) struck out.
+
+Pub. L. 118–63, §784(3), struck out par. (5). Text read as follows: "The term 'aviation security project' means a security project at an airport required by the Department of Homeland Security."
+
+Pars. (6), (8). Pub. L. 118–63, §784(4), (5), added par. (8) and redesignated former par. (8) as (6). Former par. (6) redesignated (5).
 
 <b>2018</b>—Par. (8). Pub. L. 115–254 added par. (8).
 

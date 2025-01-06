@@ -12,7 +12,7 @@ A declaration filed pursuant to section 4201 <sup>1</sup> of this title and in 
 
 &emsp;(4) the declaration is filed by a member of the immediate family of the individual whose activities are the subject of the declaration or where, in the discretion of the Attorney General, it appears the individual could benefit from the award; or
 
-&emsp;(5) the declaration consists of allegations or transactions that have been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
+&emsp;(5) the declaration consists of allegations or transactions that have been disclosed to amember of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
 
 #### (b) "Original source" defined
 

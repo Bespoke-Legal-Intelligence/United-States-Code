@@ -12,7 +12,7 @@
 
 #### (3) Low power station carriage optional
 
-&emsp;No low power television station whose signals are provided under section 119(a)(14) <sup>1</sup> of title 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
+&emsp;No low power television station whose signals are provided under section 119(a)(14) <sup>1</sup> oftitle 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
 
 #### (4) Carriage of signals of local stations in certain markets
 
@@ -68,7 +68,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (2) Opportunity to respond
 
-&emsp;The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that therehas been no failure to meet its obligations under this section.
+&emsp;The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
 
 #### (3) Remedial actions; dismissal
 
@@ -138,7 +138,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;(D) the times and place at which the subscriber may have access to such information in accordance with paragraph (5); and
 
-&emsp;&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a satellite carrierand the right of the subscriber under paragraphs (7) and (9) to enforce such limitations.
+&emsp;&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a satellite carrier and the right of the subscriber under paragraphs (7) and (9) to enforce such limitations.
 
 > &emsp;In the case of subscribers who have entered into such an agreement before the effective date of this subsection, such notice shall be provided within 180 days of such date and at least once a year thereafter.
 
@@ -222,7 +222,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (9) Court orders
 
-&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, inthe court proceeding relevant to such court order—
+&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
 &emsp;&emsp;(A) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
@@ -308,7 +308,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
 
-&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillmentof the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
 
 &emsp;&emsp;&emsp;(v) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
 

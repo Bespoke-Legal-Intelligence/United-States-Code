@@ -16,7 +16,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;(E) renegotiating agreements for cooperation as contemplated in section 2153c(a) of title 42;
 
-&emsp;(2) an assessment of the impact of the progress described in paragraph (1) on the non-proliferation policy of the United States; an explanation of the precise reasons why progress has not been made on any particular point and recommendations with respect to appropriate measures to encourage progress; and a statement of what legislative modifications, if any, are necessary in his judgment to achieve the non-proliferation policy of the United States;
+&emsp;(2) an assessment of the impact of the progress described in paragraph (1) on the non-proliferation policy of the United States; an explanation of the precise reasons why progress has not been made on any particular point and recommendations with respect to appropriate measures to encourage progress;and a statement of what legislative modifications, if any, are necessary in his judgment to achieve the non-proliferation policy of the United States;
 
 &emsp;(3) a determination as to which non-nuclear-weapon states with which the United States has an agreement for cooperation in effect or under negotiation, if any, have—
 

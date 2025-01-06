@@ -32,7 +32,7 @@ Par. (1)(B). Pub. L. 115–278, §2(g)(9)(A)(i)(II), struck out "and" at end.
 
 Par. (3). Pub. L. 113–283, §2(e)(3)(A)(iii), (iv), added par. (3).
 
-<b>2007</b>—Pub. L. 110–53 substituted "Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection" for"Under Secretary for Information Analysis and Infrastructure Protection" in introductory provisions.
+<b>2007</b>—Pub. L. 110–53 substituted "Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection" for "Under Secretary for Information Analysis and Infrastructure Protection" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

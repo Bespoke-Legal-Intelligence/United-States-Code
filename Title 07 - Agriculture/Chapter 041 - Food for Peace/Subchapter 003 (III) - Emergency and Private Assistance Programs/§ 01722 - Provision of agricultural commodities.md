@@ -146,7 +146,7 @@ Subsec. (h)(1). Pub. L. 113–79, §3003(1), added par. (1) and struck out forme
 
 Subsec. (h)(3). Pub. L. 113–79, §3003(2), substituted "fiscal years 2014 through 2018" for "fiscal years 2009 through 2011".
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying a request for funds" for "may not deny a request for funds" in introductory provisions.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying arequest for funds" for "may not deny a request for funds" in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 110–246, §3008(2)(A), substituted "not less than 7.5 percent nor more than 13 percent" for "not less than 5 percent nor more than 10 percent" in introductory provisions.
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Registration of Foreign Nonprofit Voluntary Agencies
 
-Pub. L. 95–88, title II, §208(b), Aug. 3, 1977, 91 Stat. 548, provided that: "For purposes of implementing the amendment made by subsection (a) \[providing for theutilization by the President of foreign nonprofit voluntary agencies\], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies."
+Pub. L. 95–88, title II, §208(b), Aug. 3, 1977, 91 Stat. 548, provided that: "For purposes of implementing the amendment made by subsection (a) \[providing for the utilization by the President of foreign nonprofit voluntary agencies\], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies."
 
 #### Continuation of Authority
 

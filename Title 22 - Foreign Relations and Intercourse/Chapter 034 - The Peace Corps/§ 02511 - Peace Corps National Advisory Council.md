@@ -14,7 +14,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 &emsp;(B) assess the potential capabilities and the future role of the Peace Corps;
 
-&emsp;(C) make recommendations to the President, the Director of the Peace Corps, and, as the Council considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the Peace Corps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and
+&emsp;(C) make recommendations to the President, the Director of the Peace Corps, and, as the Council considers appropriate, the Congress, for the purpose of guiding the future direction of the Peace Corps and of helping to ensure that the purposes and programs of the PeaceCorps are carried out in ways that are economical, efficient, responsive to changing needs in developing countries and to changing relationships among people, and in accordance with law; and
 
 &emsp;(D) make such other evaluations, assessments, and recommendations as the Council considers appropriate.
 

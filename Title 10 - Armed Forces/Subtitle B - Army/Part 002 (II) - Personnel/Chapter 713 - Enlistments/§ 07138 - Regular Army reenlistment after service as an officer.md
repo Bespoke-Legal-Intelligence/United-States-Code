@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) retention being inconsistent with the interests of national security; or
 
-&emsp;(2) the person's former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
+&emsp;(2) the person's former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by thatperson during the active duty from which the person was released or discharged.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 179, §3258; Pub. L. 85–603, §1(1), Aug. 8, 1958, 72 Stat. 526; Pub. L. 102–484, div. A, title V, §520(a), Oct. 23, 1992, 106 Stat. 2408; Pub. L. 110–181, div. A, title V, §506(a), Jan. 28, 2008, 122 Stat. 96; renumbered §7138, Pub. L. 115–232, div. A, title VIII, §808(b)(2), Aug. 13, 2018, 132 Stat. 1838.)
 

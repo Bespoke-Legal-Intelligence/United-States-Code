@@ -68,7 +68,7 @@ Certification and treatment of assessments.—For the purposes of this section a
 
 &emsp;(2)
 
-Authorization to enter into an agreement.—For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of theEuropean Union) or international organization, under which parties to the agreement—
+Authorization to enter into an agreement.—For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization, under which parties to the agreement—
 
 &emsp;&emsp;(A) conduct an assessment, required under subsection (a);
 

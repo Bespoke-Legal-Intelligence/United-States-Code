@@ -56,7 +56,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;&emsp;(B) which is caused by an instrumentality of war.
 
-> &emsp;In the case of an individual who is not described in subparagraph (A) or (B) of paragraph (2), except as provided in paragraph (4), the only amounts taken into account under subsection (a)(4) shall be the amounts whichhe receives by reason of a combat-related injury.
+> &emsp;In the case of an individual who is not described in subparagraph (A) or (B) of paragraph (2), except as provided in paragraph (4), the only amounts taken into account under subsection (a)(4) shall be the amounts which he receives by reason of a combat-related injury.
 
 #### (4) Amount excluded to be not less than veterans' disability compensation
 
@@ -130,7 +130,7 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by this section \[amending this section and section 692 of thistitle\] shall apply to taxable years ending on or after September 11, 2001."
+Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by this section \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001."
 
 #### Effective Date of 1996 Amendment
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–723, §56(e), Sept. 8, 1960, 74 Stat. 848, provided that: "The amendment made by section 51 of this Act \[amending this section\] shall be effective with respect to taxable years ending after the date of enactment of this Act \[Sept. 8, 1960\]."
+Pub. L. 86–723, §56(e), Sept. 8, 1960, 74 Stat. 848, provided that: "The amendment made by section 51 of thisAct \[amending this section\] shall be effective with respect to taxable years ending after the date of enactment of this Act \[Sept. 8, 1960\]."
 
 #### <b>Executive Documents</b>
 

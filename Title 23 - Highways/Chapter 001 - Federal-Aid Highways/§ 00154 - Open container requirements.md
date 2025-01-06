@@ -32,7 +32,7 @@ Open Container Laws.—
 
 &emsp;(1)
 
-In general.—For the purposes of this section, each State shall have in effect a law that prohibits the possession of any open alcoholic beverage container, or the consumption of any alcoholic beverage, in the passenger area of any motor vehicle (including possession or consumption by the driver of the vehicle) located on a public highway, or the right-of-way of a public highway, in the State.
+In general.—For the purposes of this section, each State shall have in effect a law that prohibits the possession of any open alcoholic beverage container, or the consumption of any alcoholic beverage, in the passenger area ofany motor vehicle (including possession or consumption by the driver of the vehicle) located on a public highway, or the right-of-way of a public highway, in the State.
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Reservation of funds.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—On October 1, 2021, and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the meansby which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
+In general.—On October 1, 2021, and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -132,7 +132,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1402, July 6, 2012, 126 Stat. 556; Pub. L. 114–94, div. A, title I, §1446(a)(8), Dec. 4, 2015, 129 Stat. 1437; Pub. L. 117–58, div. A, title I, §11131(a), div. B, title IV, §24106(a), Nov. 15, 2021, 135 Stat. 509, 806.)
+(Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998,112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1402, July 6, 2012, 126 Stat. 556; Pub. L. 114–94, div. A, title I, §1446(a)(8), Dec. 4, 2015, 129 Stat. 1437; Pub. L. 117–58, div. A, title I, §11131(a), div. B, title IV, §24106(a), Nov. 15, 2021, 135 Stat. 509, 806.)
 
 #### <b>Editorial Notes</b>
 

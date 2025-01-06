@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) that there are not available sufficient resources to cover burial and funeral expenses.
 
-(b) In addition to the benefits provided for under subsection (a) of this section, in the caseof a veteran who is eligible for burial in a national cemetery under section 2402 of this title and who is not buried in a national cemetery or other cemetery under the jurisdiction of the United States—
+(b) In addition to the benefits provided for under subsection (a) of this section, in the case of a veteran who is eligible for burial in a national cemetery under section 2402 of this title and who is not buried in a national cemetery or other cemetery under the jurisdiction of the United States—
 
 &emsp;(1) the Secretary shall pay to the relevant State, agency, political subdivision, or tribal organization, as the case may be, the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran if the veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that—
 
@@ -58,13 +58,13 @@
 
 (e) In this section, the terms "tribal organization" and "trust land" have the meanings given those terms in section 3765 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, §903; Pub. L. 86–70, §29(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §25(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–99, July 21, 1961, 75 Stat. 218; Pub. L. 89–358, §4(i), Mar. 3, 1966, 80 Stat. 24; Pub. L. 93–43, §5(a)(1), June 18, 1973, 87 Stat. 80; Pub. L. 94–581, title II, §204, Oct. 21, 1976, 90 Stat. 2856; Pub. L. 95–476, title II, §202(a), Oct. 18, 1978, 92 Stat. 1503; Pub. L. 95–479, title III, §303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, §2001(b), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, §404(a), Oct. 14, 1982, 96 Stat. 1443; Pub. L. 99–272, title XIX, §19012(c)(4), Apr. 7, 1986, 100 Stat. 382; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8042(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2303 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title II, §212, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title IV, §401(a), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 106–419, title III, §333(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–103, title V, §501(b)(1), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title V, §501(a), Dec. 16, 2003, 117 Stat. 2666; Pub. L. 111–275, title V, §501(a)–(c), Oct. 13, 2010, 124 Stat. 2881; Pub. L. 114–58, title VI, §601(13), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–182, title I, §144(a)(1)(C), June 6, 2018, 132 Stat. 1430; Pub. L. 116–283, div. A, title IX, §926(a)(37), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §2202(a)(1), (3), Jan. 5, 2021, 134 Stat. 4984; Pub. L. 117–103, div. CC, §102(c), Mar. 15, 2022, 136 Stat. 1110.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, §903; Pub. L. 86–70, §29(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §25(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–99, July 21, 1961, 75 Stat. 218; Pub. L. 89–358, §4(i), Mar. 3, 1966, 80 Stat. 24; Pub. L. 93–43, §5(a)(1), June 18, 1973, 87 Stat. 80; Pub. L. 94–581, title II, §204, Oct. 21, 1976, 90 Stat. 2856; Pub. L. 95–476, title II, §202(a), Oct. 18, 1978, 92 Stat. 1503; Pub. L. 95–479, title III, §303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, §2001(b), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306,title IV, §404(a), Oct. 14, 1982, 96 Stat. 1443; Pub. L. 99–272, title XIX, §19012(c)(4), Apr. 7, 1986, 100 Stat. 382; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8042(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2303 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title II, §212, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title IV, §401(a), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 106–419, title III, §333(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–103, title V, §501(b)(1), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title V, §501(a), Dec. 16, 2003, 117 Stat. 2666; Pub. L. 111–275, title V, §501(a)–(c), Oct. 13, 2010, 124 Stat. 2881; Pub. L. 114–58, title VI, §601(13), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–182, title I, §144(a)(1)(C), June 6, 2018, 132 Stat. 1430; Pub. L. 116–283, div. A, title IX, §926(a)(37), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §2202(a)(1), (3), Jan. 5, 2021, 134 Stat. 4984; Pub. L. 117–103, div. CC, §102(c), Mar. 15, 2022, 136 Stat. 1110.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
-The text of subsec. (b) of section 2302 of this title, which was transferred to subsec. (d) of this section byPub. L. 116–315, §2201(a), and amended by Pub. L. 116–315, §2202(a)(3)(B)(iv), was based on Pub. L. 85–857, §902, Sept. 2, 1958, 72 Stat. 1169; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 95–476, title II, §203(b)(3), Oct. 18, 1978, 92 Stat. 1506; renumbered §2302, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.
+The text of subsec. (b) of section 2302 of this title, which was transferred to subsec. (d) of this section by Pub. L. 116–315, §2201(a), and amended by Pub. L. 116–315, §2202(a)(3)(B)(iv), was based on Pub. L. 85–857, §902, Sept. 2, 1958, 72 Stat. 1169; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 95–476, title II, §203(b)(3), Oct. 18, 1978, 92 Stat. 1506; renumbered §2302, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.
 
 #### Amendments
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "2302" for "902" in two pl
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–479 substituted "$300" for $250".
 
-Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to pay an interment allowance of $150 to a State or an agency or subdivision of a State, for burial of an eligible veteran in a cemetery,reserved for burial of persons eligible for burial in a national cemetery, owned by the State or such agency or political subdivision, or to any person prescribed by Administrator for burial of an eligible veteran in a cemetery other than one so reserved for provisions authorizing Administrator in his discretion to pay up to $150 as an interment allowance to any person he prescribed.
+Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to pay an interment allowance of $150 to a State or an agency or subdivision of a State, for burial of an eligible veteran in a cemetery, reserved for burial of persons eligible for burial in a national cemetery, owned by the State or such agency or political subdivision, or to any person prescribed by Administrator for burial of an eligible veteran in a cemetery other than one so reserved for provisions authorizing Administrator in his discretion to pay up to $150 as an interment allowance to any person he prescribed.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–581 inserted ", nursing home," after "hospital" and substituted "611(a)" for "611" in provisions preceding par. (1).
 
@@ -219,6 +219,26 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 Amendment
 
 Pub. L. 93–43, §10(b), June 18, 1973, 87 Stat. 88, provided that: "Clause (1) of section 5(a) \[amending this section\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[June 18, 1973\]."
+
+#### Burial Allowance for Certain Veterans Who Die at Home While in Receipt of Hospice Care Furnished by Department of Veterans Affairs
+
+Pub. L. 118–210, title III, §301, Jan. 2, 2025, 138 Stat. 2788, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall treat a veteran described in subsection (b) as aveteran described in subparagraph (A) of section 2303(a)(2) of title 38, United States Code.
+
+"(b)
+
+Veteran Described.—A veteran described in this subsection is a veteran who dies in a home or other setting at which the deceased veteran was, at the time of death, receiving hospice care pursuant to section 1717(a) of such title if such care was directly preceded by the Secretary furnishing to the veteran hospital care or nursing home care described in clause (ii) of such subparagraph \[probably means subpar. (A) of section 2303(a)(2) of title 38, United States Code\].
+
+"(c)
+
+Effective Date; Applicability.—This section shall apply with respect to deaths that occur—
+
+&emsp;"(1) on or after the date that is 180 days after the date of the enactment of this Act \[Jan. 2, 2025\]; and
+
+&emsp;"(2) before October 1, 2026."
 
 #### Plot and Interment Allowances for Veterans Buried Before March 15, 2022, in Cemeteries on Trust Land Owned by, or Held in Trust for, Tribal Organizations
 

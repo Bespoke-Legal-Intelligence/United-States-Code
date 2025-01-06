@@ -14,7 +14,7 @@
 
 #### (1) List of recommended personnel
 
-&emsp;Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established under subsection (a) shall develop a list of individuals from which individuals may be selected for appointment by the Director in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) <sup>1</sup> of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
+&emsp;Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established under subsection (a)shall develop a list of individuals from which individuals may be selected for appointment by the Director in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) <sup>1</sup> of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
 
 #### (2) Recommendations regarding grade and pay
 
@@ -38,7 +38,7 @@ The Secretary of Defense may permit Armed Forces recruiters to inform potential 
 
 #### References in Text
 
-Section 12611 of this title, referred to in subsec. (b)(1), was amended generally by Pub. L. 111–13, title I, §1501,Apr. 21, 2009, 123 Stat. 1521, and section 12611(3) no longer relates to members and former members of the Armed Forces.
+Section 12611 of this title, referred to in subsec. (b)(1), was amended generally by Pub. L. 111–13, title I, §1501, Apr. 21, 2009, 123 Stat. 1521, and section 12611(3) no longer relates to members and former members of the Armed Forces.
 
 #### Codification
 

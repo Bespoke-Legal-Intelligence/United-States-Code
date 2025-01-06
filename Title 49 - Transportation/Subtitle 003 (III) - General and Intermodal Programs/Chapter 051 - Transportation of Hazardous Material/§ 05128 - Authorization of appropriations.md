@@ -40,7 +40,7 @@ Credits to Appropriations.—
 
 &emsp;(1)
 
-Expenses.—In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority or entity.
+Expenses.—In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or otherpublic authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority or entity.
 
 &emsp;(2)
 
@@ -154,7 +154,7 @@ Pub. L. 114–73, §1301(b), amended par. (2) generally. Prior to amendment, tex
 
 &emsp;"(E) $79,235 to carry out section 5116(j)."
 
-Pub. L. 114–41, §1301(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "From the Hazardous Materials EmergencyPreparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
+Pub. L. 114–41, §1301(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
 
 &emsp;"(A) $156,581 to carry out section 5115;
 

@@ -46,7 +46,7 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 &emsp;&emsp;&emsp;(i) the crime victim is otherwise eligible for compensation; and
 
-&emsp;&emsp;&emsp;(ii) the delay in filing the application was a result of a delay in the testing of, or a delay in the DNA profile matching from, a sexual assault forensic examination kit or biological material collected as evidence related to a sexual offense; and
+&emsp;&emsp;&emsp;(ii) the delay in filing the application was a result of a delay in the testing of, ora delay in the DNA profile matching from, a sexual assault forensic examination kit or biological material collected as evidence related to a sexual offense; and
 
 &emsp;&emsp;(B) does not require the crime victim to undergo an appeals process to have the application of the crime victim considered for a filing deadline waiver under subparagraph (A); and
 
@@ -112,7 +112,7 @@ Subsec. (d)(5). Pub. L. 117–27, §2(b)(3), added par. (5).
 
 Subsec. (b)(6)(B). Pub. L. 107–56, §622(b), which directed striking out "are outside the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or", was executed by striking out "are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or" after "the places the crimes occurred in" to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 107–56, §622(c), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime."
+Subsec. (c). Pub. L. 107–56, §622(c), added subsec. (c) and struck out heading and text of former subsec. (c).Text read as follows: "Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime."
 
 Subsec. (d)(3). Pub. L. 107–56, §622(d)(1), struck out "crimes involving terrorism," after "section 247 of title 18,".
 

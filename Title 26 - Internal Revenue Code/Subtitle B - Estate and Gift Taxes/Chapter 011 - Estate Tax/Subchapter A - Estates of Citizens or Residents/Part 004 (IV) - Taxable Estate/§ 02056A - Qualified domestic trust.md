@@ -56,7 +56,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (C) Special rule where decedent has more than 1 qualified domestic trust
 
-&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, the amount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
+&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, theamount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
 
 &emsp;&emsp;&emsp;(i) who is an individual citizen of the United States or a domestic corporation and is responsible for filing all returns of tax imposed under paragraph (1) with respect to such trusts and for paying all tax so imposed, and
 
@@ -74,7 +74,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (4) Tax where trust ceases to qualify
 
-&emsp;If any qualified domestic trust ceases to meet the requirements of paragraphs (1) and\(2) of subsection (a), the tax imposed by paragraph (1) shall apply as if the surviving spouse died on the date of such cessation.
+&emsp;If any qualified domestic trust ceases to meet the requirements of paragraphs (1) and (2) of subsection (a), the tax imposed by paragraph (1) shall apply as if the surviving spouse died on the date of such cessation.
 
 #### (5) Due date
 
@@ -146,7 +146,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (14) Coordination with terminable interest rules
 
-&emsp;Any interest in a qualified domestic trust shall not be treated as failing to meet the requirements of paragraph (5) or (7) of section 2056(b) merely by reason of any provision of the trust instrument permitting the withholding from any distribution of an amount topay the tax imposed by paragraph (1) on such distribution.
+&emsp;Any interest in a qualified domestic trust shall not be treated as failing to meet the requirements of paragraph (5) or (7) of section 2056(b) merely by reason of any provision of the trust instrument permitting the withholding from any distribution of an amount to pay the tax imposed by paragraph (1) on such distribution.
 
 #### (15) No tax on certain distributions
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 Pub. L. 105–34, title XIII, §1312(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made bythis section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XIII, §1314(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1990 Amendment
 

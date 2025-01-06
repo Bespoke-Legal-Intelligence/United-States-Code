@@ -74,7 +74,7 @@ In consultation with practitioners, dispensers, and other relevant and intereste
 
 &emsp;(2) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the PDMP maintained by the State indicates an unlawful diversion or abuse of a controlled substance;
 
-&emsp;(3) may conduct analyses of controlled substance program data for purposes of providing appropriate State agencies with aggregate reports based on such analyses in as close toreal-time as practicable, regarding prescription patterns flagged as potentially presenting a risk of misuse, abuse, addiction, overdose, and other aggregate information, as appropriate and in compliance with applicable Federal and State laws and provided that such reports shall not include protected health information; and
+&emsp;(3) may conduct analyses of controlled substance program data for purposes of providing appropriate State agencies with aggregate reports based on such analyses in as close to real-time as practicable, regarding prescription patterns flagged as potentially presenting a risk of misuse, abuse, addiction, overdose, and other aggregate information, as appropriate and in compliance with applicable Federal and State laws and provided that such reports shall not include protected health information; and
 
 &emsp;(4) may access information about prescriptions, such as claims data, to ensure that such prescribing and dispensing history is updated in as close to real-time as practicable, in compliance with applicable Federal and State laws and provided that such information shall not include protected health information.
 
@@ -152,7 +152,7 @@ Not later than 3 years after October 24, 2018, the Secretary shall—
 
 #### (1) Establishment
 
-&emsp;A State or locality may establish an advisory council to assist in the establishment,improvement, or maintenance of a PDMP consistent with this section.
+&emsp;A State or locality may establish an advisory council to assist in the establishment, improvement, or maintenance of a PDMP consistent with this section.
 
 #### (2) Limitation
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 &emsp;(11) The term "clinical workflow" means the integration of automated queries for prescription drug monitoring programs data and analytics into health information technologies such as electronic health record systems, health information exchanges, and/or pharmacy dispensing software systems, thus streamlining provider access through automated queries.
 
-(July 1, 1944, ch. 373, title III, §399O, as added Pub. L. 109–60, §3, Aug. 11, 2005, 119 Stat. 1979; amended Pub. L. 114–198, title I, §109(b), July 22, 2016, 130 Stat. 706; Pub. L. 115–271, title VII, §7162, Oct. 24, 2018, 132 Stat. 4062.)
+(July 1, 1944, ch. 373, title III, §399O, as added Pub. L. 109–60, §3, Aug. 11, 2005, 119 Stat. 1979;amended Pub. L. 114–198, title I, §109(b), July 22, 2016, 130 Stat. 706; Pub. L. 115–271, title VII, §7162, Oct. 24, 2018, 132 Stat. 4062.)
 
 #### <b>Editorial Notes</b>
 
@@ -220,7 +220,7 @@ Subsec. (c)(1)(B)(iii). Pub. L. 114–198, §109(b)(3)(A)(iv), added cl. (iii). 
 
 Subsec. (c)(1)(B)(iv). Pub. L. 114–198, §109(b)(3)(A)(iii), (v), redesignated cl. (iii) as (iv) and substituted "and at least one health information technology system such as electronic health records, health information exchanges, or e-prescribing systems;" for "; and". Former cl. (iv) redesignated (v).
 
-Subsec. (c)(1)(B)(v). Pub. L. 114–198, §109(b)(3)(A)(iii), (vi), redesignated cl. (iv) as (v) and substituted "publichealth or safety in such State; and" for "public health in such State."
+Subsec. (c)(1)(B)(v). Pub. L. 114–198, §109(b)(3)(A)(iii), (vi), redesignated cl. (iv) as (v) and substituted "public health or safety in such State; and" for "public health in such State."
 
 Subsec. (c)(1)(B)(vi). Pub. L. 114–198, §109(b)(3)(A)(vii), added cl. (vi).
 
@@ -262,7 +262,7 @@ Subsec. (n). Pub. L. 114–198, §109(b)(14), amended subsec. (n) generally. Pri
 
 #### Purpose
 
-Pub. L. 109–60, §2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114–198, title I, §109(a), July 22, 2016, 130 Stat. 706, provided that: "It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
+Pub. L. 109–60, §2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114–198, title I, §109(a), July 22,2016, 130 Stat. 706, provided that: "It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
 
 &emsp;"(1) foster the establishment of State-administered controlled substance monitoring systems in order to ensure that health care providers have access to the accurate, timely prescription history information that they may use as a tool for the early identification of patients at risk for addiction in order to initiate appropriate medical interventions and avert the tragic personal, family, and community consequences of untreated addiction; and
 

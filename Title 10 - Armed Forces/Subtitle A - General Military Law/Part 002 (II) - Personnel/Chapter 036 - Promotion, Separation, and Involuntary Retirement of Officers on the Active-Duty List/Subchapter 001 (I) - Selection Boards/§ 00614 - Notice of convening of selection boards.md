@@ -16,7 +16,7 @@
 
 <b>1991</b>—Pub. L. 102–190 struck out "; communications with boards" after "selection boards" in section catchline.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted "which shall include the convening date of the board" for ", the names of the officers eligible for consideration by the board as of the date of the notification, the convening date of the board,".
+<b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted "which shall include the convening date of the board" for", the names of the officers eligible for consideration by the board as of the date of the notification, the convening date of the board,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

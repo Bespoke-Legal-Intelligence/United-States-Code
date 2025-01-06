@@ -22,7 +22,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (b), is Pub
 
 Provisions similar to this section were contained in section 710 of this title prior to repeal by Pub. L. 105–220.
 
-A prior section 708, Pub. L. 93–112, §9, Sept. 26, 1973, 87 Stat. 362, related to audit and examination of records, scope of disclosure, and access to representatives, prior to repeal by Pub. L. 103–382, title II, §272, Oct. 20, 1994, 108 Stat. 3931.
+A prior section 708, Pub. L. 93–112, §9, Sept. 26, 1973, 87 Stat. 362, related to audit and examination ofrecords, scope of disclosure, and access to representatives, prior to repeal by Pub. L. 103–382, title II, §272, Oct. 20, 1994, 108 Stat. 3931.
 
 A prior section 11 of Pub. L. 93–112 was renumbered section 13 and is classified to section 710 of this title.
 

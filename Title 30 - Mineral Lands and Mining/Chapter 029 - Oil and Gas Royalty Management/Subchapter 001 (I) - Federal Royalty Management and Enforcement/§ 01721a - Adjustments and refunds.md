@@ -2,7 +2,7 @@
 
 #### (a) Adjustments to royalties paid to Secretary or a delegated State
 
-(1) If, during the adjustment period, a lessee or its designee determines that an adjustment or refund request is necessary to correct an underpayment or overpayment of an obligation, the lessee or its designee shall make such adjustment or request a refund within a reasonable period of time and only during the adjustment period. The filing of a royalty report which reflects the underpayment or overpayment of an obligation shall constitute prior written notice to the Secretary or the applicable delegated State of an adjustment.
+(1) If, during the adjustment period, a lessee or its designee determines that an adjustment orrefund request is necessary to correct an underpayment or overpayment of an obligation, the lessee or its designee shall make such adjustment or request a refund within a reasonable period of time and only during the adjustment period. The filing of a royalty report which reflects the underpayment or overpayment of an obligation shall constitute prior written notice to the Secretary or the applicable delegated State of an adjustment.
 
 (2)(A) For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the same time the lessee or its designee adjusts the principle <sup>1</sup> amount of the subject obligation, except as provided by subparagraph (B).
 
@@ -52,7 +52,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug
 
 #### Effective Date
 
-Section applicable with respect to production of oil and gas after the first day of the month following Aug.13, 1996, see section 11 of Pub. L. 104–185, set out as an Effective Date of 1996 Amendment note under section 1701 of this title.
+Section applicable with respect to production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as an Effective Date of 1996 Amendment note under section 1701 of this title.
 
 #### Applicability
 

@@ -182,7 +182,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;In establishing bylaws under subparagraph (A)(i), the Board shall ensure that the bylaws do not—
 
-&emsp;&emsp;&emsp;(i) reflect unfavorably on the ability of the Foundation to carry out the duties ofthe Foundation in a fair and objective manner; or
+&emsp;&emsp;&emsp;(i) reflect unfavorably on the ability of the Foundation to carry out the duties of the Foundation in a fair and objective manner; or
 
 &emsp;&emsp;&emsp;(ii) compromise, or appear to compromise, the integrity of any governmental agency or program, or any officer or employee employed by, or involved in, a governmental agency or program.
 
@@ -234,7 +234,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;&emsp;(i) adopt, alter, and use a corporate seal, which shall be judicially noticed;
 
-&emsp;&emsp;&emsp;(ii) hire, promote, compensate, and discharge 1 or more officers, employees, and agents, as may be necessary, and define the duties of the officers, employees, and agents;
+&emsp;&emsp;&emsp;(ii) hire, promote, compensate, and discharge 1 or more officers, employees, and agents, as may be necessary, and definethe duties of the officers, employees, and agents;
 
 &emsp;&emsp;&emsp;(iii) solicit and accept funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including such support from private entities;
 
@@ -276,7 +276,7 @@ The purposes of the Foundation shall be—
 
 &emsp;&emsp;&emsp;(i) provide for annual audits of the financial condition of the Foundation; and
 
-&emsp;&emsp;&emsp;(ii) make the audits, and all other records, documents, and other papers ofthe Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
+&emsp;&emsp;&emsp;(ii) make the audits, and all other records, documents, and other papers of the Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
 
 #### (B) Reports
 
@@ -328,7 +328,7 @@ The purposes of the Foundation shall be—
 
 #### (iv) Strategic plan
 
-&emsp;&emsp;&emsp;Not later than 1 year after December 20, 2018, the Foundation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a strategic plan describing a path for the Foundation to become self-sustaining, including—
+&emsp;&emsp;&emsp;Not later than 1 year after December 20, 2018, the Foundation shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a strategic plan describing a path for the Foundation to become self-sustaining, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) a forecast of major agricultural challenge opportunities identified by the scientific advisory councils of the Foundation and approved by the Board, including short- and long-term objectives;
 
@@ -416,7 +416,7 @@ The purposes of the Foundation shall be—
 
 #### Codification
 
-Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of theFood, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
 

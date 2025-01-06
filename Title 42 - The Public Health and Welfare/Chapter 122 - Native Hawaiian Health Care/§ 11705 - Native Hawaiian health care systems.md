@@ -66,7 +66,7 @@ During a fiscal year, the Secretary under this chapter may make a grant to, or h
 
 #### (f) Restriction on use of grant and contract funds
 
-The Secretary may not make a grant to, or enter into a contract with, any entity undersubsection (a)(1) unless the entity agrees that, amounts received pursuant to such subsection will not, directly or through contract, be expended—
+The Secretary may not make a grant to, or enter into a contract with, any entity under subsection (a)(1) unless the entity agrees that, amounts received pursuant to such subsection will not, directly or through contract, be expended—
 
 &emsp;(1) for any purpose other than the purposes described in subsection (c);
 

@@ -1,6 +1,6 @@
 ### §8252. Purpose
 
-It is the purpose of this part to promote the conservation and the efficient use of energy and water, and the use of renewable energy sources, by the Federal Government.
+It is the purpose of this part to promote the conservation and the efficient use of energy andwater, and the use of renewable energy sources, by the Federal Government.
 
 (Pub. L. 95–619, title V, §542, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(a), Oct. 24, 1992, 106 Stat. 2844.)
 

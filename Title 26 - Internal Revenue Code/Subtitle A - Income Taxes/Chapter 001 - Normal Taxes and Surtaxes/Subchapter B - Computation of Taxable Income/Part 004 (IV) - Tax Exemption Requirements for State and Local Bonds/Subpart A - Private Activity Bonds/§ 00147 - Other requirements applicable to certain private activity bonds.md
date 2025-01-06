@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held bya person who is a substantial user of the facilities or by a related person of such a substantial user.
+&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
 
 #### (2) Related person
 
@@ -430,5 +430,5 @@ Subsec. (f) applicable to bonds issued after Dec. 31, 1986, see section 1311(d) 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

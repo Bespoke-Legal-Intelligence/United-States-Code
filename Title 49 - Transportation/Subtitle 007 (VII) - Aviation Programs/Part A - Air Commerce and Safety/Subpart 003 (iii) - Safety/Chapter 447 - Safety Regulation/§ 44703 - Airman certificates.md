@@ -30,7 +30,7 @@ In general.—Subject to paragraph (2) and notwithstanding any other provision o
 
 &emsp;(2)
 
-Opportunity to withhold information.—Before making any information concerning an airman available to the public under paragraph (1), the airman shall be given an opportunity to elect that the information not be made available to the public.
+Opportunity to withhold information.—Before making any information concerning anairman available to the public under paragraph (1), the airman shall be given an opportunity to elect that the information not be made available to the public.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 (4) The Administrator is authorized and directed to work with State and local authorities, and other Federal agencies, to assist in the identification of individuals applying for or holding airmen certificates.
 
-(h)
+(h) <sup>1</sup>
 
 Records of Employment of Pilot Applicants.—
 
@@ -178,7 +178,7 @@ Standard forms.—The Administrator shall promulgate—
 
 &emsp;(9)
 
-Right to correct inaccuracies.—An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
+Right to correct inaccuracies.—An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with areasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
 
 &emsp;(10)
 
@@ -186,7 +186,7 @@ Right of pilot to review certain records.—Notwithstanding any other provision 
 
 &emsp;(11)
 
-Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual indeciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;(12)
 
@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire theindividual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -500,7 +500,23 @@ Actions and proceedings.—No action or proceeding may be brought against an air
 
 Limitation on Statutory Construction.—Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629; Pub. L. 112–95, title III, §§301(a), 310(c), Feb. 14, 2012, 126 Stat. 56, 65; Pub. L. 112–153, §2(c)(1), Aug. 3, 2012, 126 Stat. 1160; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 114–190, title II, §2101, July 15, 2016, 130 Stat. 619.)
+(l)
+
+Temporary Airman Certificate.—An individual may obtain a temporary airman certificate from the Administrator after requesting a permanent replacement airman certificate issued under this section. A temporary airman certificate shall be—
+
+&emsp;(1) made available—
+
+&emsp;&emsp;(A) electronically to the individual immediately upon submitting an online application for a replacement certificate to the Administrator; or
+
+&emsp;&emsp;(B) physically to the individual at a flight standards district office—
+
+&emsp;&emsp;&emsp;(i) if the individual submits an online application for a replacement certificate; or
+
+&emsp;&emsp;&emsp;(ii) if the individual applies for a permanent replacement certificate other than by online application and such application has been received by the Federal Aviation Administration; and
+
+&emsp;(2) destroyed upon receipt of the permanent replacement airman certificate from the Administrator.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629; Pub. L. 112–95, title III, §§301(a), 310(c), Feb. 14, 2012, 126 Stat. 56, 65; Pub. L. 112–153, §2(c)(1), Aug. 3, 2012, 126 Stat. 1160; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 114–190, title II, §2101, July 15, 2016, 130 Stat. 619; Pub. L. 118–63, title VIII, §813, May 16, 2024, 138 Stat. 1327.)
 
 Historical and Revision Notes
 
@@ -610,6 +626,8 @@ The text of section 44936(f) to (h) of this title, which was transferred to the 
 
 #### Amendments
 
+<b>2024</b>—Subsec. (l). Pub. L. 118–63 added subsec. (l).
+
 <b>2016</b>—Subsec. (i)(2). Pub. L. 114–190 substituted "Not later than April 30, 2017, the Administrator shall establish and make available for use" for "The Administrator shall establish".
 
 <b>2012</b>—Subsec. (d)(2). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Federal Aviation Administration".
@@ -664,7 +682,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Termination Date
 
-Subsec. (h) of this section ceases to be effective beginning on Sept. 9, 2024, see 14 C.F.R. §111.5(b).
+Subsec. (h) of this section ceased to be effective beginning on Sept. 9, 2024, pursuant to par. (16) of that subsec. See 14 C.F.R. §111.5(b).
 
 #### Transfer of Functions
 
@@ -673,6 +691,674 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Enhanced Qualification Program for Restricted Airline Transport Pilot Certificate
+
+Pub. L. 118–63, title III, §372, May 16, 2024, 138 Stat. 1139, provided that:
+
+"(a)
+
+Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 6 months after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall establish the requirements for a program to be known as the Enhanced Qualification Program (in this section referred to as the 'Program') under which—
+
+&emsp;&emsp;"(A) qualified air carriers are certified by the Administrator to provide enhanced training for eligible pilots seeking to obtain restricted airline transport certificates, either directly by the air carrier or by a certified training institution under part 141 or part 142 of title 14, Code of Federal Regulations, that is under contract with the qualified air carrier; and
+
+&emsp;&emsp;"(B) qualified instructors and evaluators provide enhanced training to eligible pilots pursuant to the curriculum requirements under paragraph (4).
+
+&emsp;"(2)
+
+Qualified instructors and evaluators.—Under the Program—
+
+&emsp;&emsp;"(A) all testing and training shall be performed by qualified instructors; and
+
+&emsp;&emsp;"(B) all evaluations shall be performed by qualified evaluators.
+
+&emsp;"(3)
+
+Pilot assessment.—Under the Program, the Administrator shall establish guidelines for an assessment that prospective pilots are required to pass in order to participate in the training under the Program. Such assessment shall include an evaluation of the pilot's aptitude, ability, and readiness for operation of transport category aircraft.
+
+&emsp;"(4)
+
+Program curriculum.—Under the Program, the Administrator shall establish requirements for the curriculum to be provided under the Program. Such curriculum shall include—
+
+&emsp;&emsp;"(A) a nationally standardized, non-air carrier or aircraft-specific training curriculum which shall—
+
+&emsp;&emsp;&emsp;"(i) ensure prospective pilots have appropriate knowledge at the commercial pilot certificate, multi-engine rating, and instrument rating level;
+
+&emsp;&emsp;&emsp;"(ii) introduce the pilots to concepts associated with air carrier operations;
+
+&emsp;&emsp;&emsp;"(iii) meet all requirements for an ATP Certification Training Program under part 61.156 or part 142 of title 14, Code of Federal Regulations; and
+
+&emsp;&emsp;&emsp;"(iv) include a course of instruction designed to prepare the prospective pilot to take the ATP Multiengine Airplane Knowledge Test;
+
+&emsp;&emsp;"(B) an aircraft-specific training curriculum, developed by the air carrier using objectives and learning standards developed by the Administrator, which shall—
+
+&emsp;&emsp;&emsp;"(i) only be administered to prospective pilots who have completed the requirements under subparagraph (A);
+
+&emsp;&emsp;&emsp;"(ii) resemble a type rating training curriculum that includes aircraft ground and flight training that culminates in—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the completion of a maneuvers evaluation that incorporates elements of a type rating practical test; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) at the discretion of the air carrier, an actual type rating practical test resulting in the issuance of a type rating for the specific aircraft; and
+
+&emsp;&emsp;&emsp;"(iii) ensure the prospective pilot has an adequate understanding and working knowledge of transport category aircraft automation and autoflight systems; and
+
+&emsp;&emsp;"(C) air carrier-specific procedures using objectives and learning standards developed by the Administrator to further expand on the concepts described in subparagraphs (A) and (B), which shall—
+
+&emsp;&emsp;&emsp;"(i) only be administered to prospective pilots who have completed requirements under subparagraphs (A) and (B) and an ATP Multiengine Airplane Knowledge Test;
+
+&emsp;&emsp;&emsp;"(ii) include instructions on air carrier checklist usage and standard operating procedures; and
+
+&emsp;&emsp;&emsp;"(iii) integrate aircraft-specific training in appropriate flight simulation training devices representing the specific aircraft type, including complete crew resource management and scenario-based training.
+
+&emsp;"(5)
+
+Application and certification.—Under the Program, the Administrator shall establish a process for air carriers to apply for training program certification. Such process shall include a review to ensure that the training provided by the air carrier will meet the requirements of this section, including—
+
+&emsp;&emsp;"(A) the assessment requirements under paragraph (3);
+
+&emsp;&emsp;"(B) the curriculum requirements under paragraph (4);
+
+&emsp;&emsp;"(C) the requirements for qualified instructors under subsection (d)(5); and
+
+&emsp;&emsp;"(D) the requirements for eligible pilots under subsection (d)(2).
+
+&emsp;"(6)
+
+Data.—Under the Program, the Administrator shall require that each qualified air carrier participating in the Program collect and submit to the Administrator such data from the Program that the Administrator determines is appropriate for the Administrator to provide for oversight of the Program.
+
+&emsp;"(7)
+
+Regular inspection.—Under the Program, the Administrator shall provide for the regular inspection of qualified air carriers certified under paragraph (5) to ensure that the air carrier continues to meet the requirements under the Program.
+
+"(b)
+
+Regulations.—The Administrator may issue regulations or guidance as determined necessary to carry out the Program.
+
+"(c)
+
+Clarification Regarding Required Flight Hours.—The provisions of this section shall have no effect on the total flight hours required under part 61.159 of title 14, Code of Federal Regulations, to receive an airline transport pilot certificate, or the Administrator's authority under section 217(d) of the Airline Safety and Federal Aviation Administration Extension Act of 2010 \[Pub. L. 111–216\] (49 U.S.C. 44701 note) (as in effect on the date of enactment of this section \[May 16, 2024\]).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Air carrier.—The term 'air carrier' has the meaning given that term in section 40102 of title 49, United States Code.
+
+&emsp;"(2)
+
+Eligible pilot.—The term 'eligible pilot' means a pilot that—
+
+&emsp;&emsp;"(A) has—
+
+&emsp;&emsp;&emsp;"(i) graduated from a United States Armed Forces undergraduate pilot training school;
+
+&emsp;&emsp;&emsp;"(ii) obtained a degree with an aviation major from an institution of higher education (as defined in part 61.1 of title 14, Code of Federal Regulations) that has been issued a letter of authorization by the Administrator under part 61.169 of such title 14; or
+
+&emsp;&emsp;&emsp;"(iii) completed flight and ground training for a commercial pilot certificate in the airplane category and an airplane instrument rating at a certified training institution under part 141 of such title 14;
+
+&emsp;&emsp;"(B) has a current commercial pilot certificate under part 61.123 of such title 14, with airplane category multi-engine and instrument ratings under part 61.129 of such title 14; and
+
+&emsp;&emsp;"(C) meets the pilot assessment requirements under subsection (a)(3).
+
+&emsp;"(3)
+
+Qualified air carrier.—The term 'qualified air carrier' means an air carrier that has been issued a part 119 operating certificate for conducting operations under part 121 of title 14, Code of Federal Regulations.
+
+&emsp;"(4)
+
+Qualified evaluator.—The term 'qualified evaluator' means an individual that meets the requirements for a training center evaluator under part 142.55 of title 14, Code of Federal Regulations, or for check airmen under part 121.411 of such title.
+
+&emsp;"(5)
+
+Qualified instructor.—The term 'qualified instructor' means an individual that—
+
+&emsp;&emsp;"(A) is qualified in accordance with the minimum training requirements for an ATP Certification Training Program under paragraphs (1) through (3) of part 121.410(b) of title 14, Code of Federal Regulations;
+
+&emsp;&emsp;"(B) if the instructor is a flight instructor, is qualified in accordance with part 121.410(b)(4) of such title;
+
+&emsp;&emsp;"(C) if the instructor is administering type rating practical tests, is qualified as an appropriate examiner for such rating;
+
+&emsp;&emsp;"(D) received training in threat and error management, facilitation, and risk mitigation determined appropriate by the Administrator; and
+
+&emsp;&emsp;"(E) meets any other requirement determined appropriate by the Administrator."
+
+#### Civil Airmen Statistics
+
+Pub. L. 118–63, title IV, §402, May 16, 2024, 138 Stat. 1148, provided that:
+
+"(a)
+
+Publication Frequency.—The Administrator \[of the Federal Aviation Administration\] shall publish the study commonly referred to as the 'U.S. Civil Airmen Statistics' on a monthly basis.
+
+"(b)
+
+Presentation of Data.—The Administrator shall make the data from the study under subsection (a) publicly available on the website of the Administration in a user-friendly, downloadable format.
+
+"(c)
+
+Expanded Data Criteria.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator shall ensure that data sets and tables published as part of the study described in subsection (a) display information relating to the sex of certificate holders in more instances.
+
+"(d)
+
+Historical Data.—Not later than 1 year after the date of enactment of this Act, the Administrator shall make all previously published annual data from the study described in subsection (a) available on the website of the Administration."
+
+#### Airman's Medical Bill of Rights
+
+Pub. L. 118–63, title IV, §407, May 16, 2024, 138 Stat. 1153, provided that:
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Development.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall develop a document (in this section referred to as the 'Airman's Medical Bill of Rights') detailing the rights of an individual before, during, and after a medical examination conducted by an Aviation Medical Examiner.
+
+&emsp;"(2)
+
+Contents.—The Airman's Medical Bill of Rights required under paragraph (1) shall, at a minimum, contain information about the right of an individual to—
+
+&emsp;&emsp;"(A) bring a trusted companion or request to have a chaperone present for a medical examination;
+
+&emsp;&emsp;"(B) terminate an exam in accordance with guidelines from the Administrator for appropriately terminating such exam;
+
+&emsp;&emsp;"(C) receive medical examination with respect and recognition of the dignity of the individual;
+
+&emsp;&emsp;"(D) be assured of privacy and confidentiality;
+
+&emsp;&emsp;"(E) select an Aviation Medical Examiner of the choice of the individual, as long as the Aviation Medical Examiner has the required designations;
+
+&emsp;&emsp;"(F) privacy when changing, undressing, and using the restroom;
+
+&emsp;&emsp;"(G) ask questions about FAA \[Federal Aviation Administration\] medical standards and the applicability to the current health status of the individual;
+
+&emsp;&emsp;"(H) report an incident of misconduct by an Aviation Medical Examiner to the appropriate authorities, including to the State licensing board of the Aviation Medical Examiner or the FAA;
+
+&emsp;&emsp;"(I) report to the Administrator an allegation regarding alleged Aviation Medical Examiner misconduct without fear of retaliation or negative action relating to an airman certificate of the individual; and
+
+&emsp;&emsp;"(J) be advised of any known conflicts of interest an Aviation Medical Examiner may have with respect to the medical examination of the individual.
+
+&emsp;"(3)
+
+Public availability.—The Airman's Medical Bill of Rights required under paragraph (1) shall be—
+
+&emsp;&emsp;"(A) made available to, and acknowledged by, an individual in the MedXpress system (or any successor system);
+
+&emsp;&emsp;"(B) made available in a hard-copy format by an Aviation Medical Examiner at the time of exam upon request by an individual; and
+
+&emsp;&emsp;"(C) displayed in a common space in the office of the Aviation Medical Examiner.
+
+"(b)
+
+Expectations for Medical Examinations.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act, the Administrator shall develop a simplified document explaining the standard procedures performed during a medical examination conducted by an Aviation Medical Examiner.
+
+&emsp;"(2)
+
+Public availability.—The document required under paragraph (1) shall be—
+
+&emsp;&emsp;"(A) made available to, and acknowledged by, an individual in the MedXpress system (or any successor system);
+
+&emsp;&emsp;"(B) made available in a hard-copy format by an Aviation Medical Examiner at the time of exam upon request by an individual; and
+
+&emsp;&emsp;"(C) displayed in a common space in the office of the Aviation Medical Examiner."
+
+#### Improved Designee Misconduct Reporting Process
+
+Pub. L. 118–63, title IV, §408, May 16, 2024, 138 Stat. 1154, provided that:
+
+"(a)
+
+Improved Designee Misconduct Reporting Process.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall establish a streamlined process for individuals involved in incidents of alleged misconduct by a designee to report such incidents in a manner that protects the privacy and confidentiality of such individuals.
+
+&emsp;"(2)
+
+Public access to reporting process.—The process for reporting alleged misconduct by a designee shall be made available to the public on the website of the Administration, including—
+
+&emsp;&emsp;"(A) the designee locator search webpage; and
+
+&emsp;&emsp;"(B) the webpage of the Office of Audit and Evaluation of the FAA \[Federal Aviation Administration\].
+
+&emsp;"(3)
+
+Obligation to report criminal charges.—Not later than 90 days after the date of enactment of this Act, the Administrator shall revise the orders and policies governing the Designee Management System to clarify that designees are obligated to report any arrest, indictment, or conviction for violation of a local, State, or Federal law within a period of time specified by the Administrator.
+
+&emsp;"(4)
+
+Audit of reporting process by inspector general.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 3 years after the date on which the Administrator finalizes the update of the reporting process under paragraph (1), the inspector general of the Department of Transportation shall conduct an audit of such reporting process.
+
+&emsp;&emsp;"(B)
+
+Contents.—In conducting the audit of the reporting process described in subparagraph (A), the inspector general shall, at a minimum—
+
+&emsp;&emsp;&emsp;"(i) review the efforts of the Administration to improve the reporting process and solutions developed to respond to and investigate allegations of misconduct;
+
+&emsp;&emsp;&emsp;"(ii) analyze reports of misconduct brought to the Administrator prior to any changes made to the reporting process as a result of the enactment of this Act \[Pub. L. 118–63\], including the ultimate outcomes of those reports and whether any reports resulted in the Administrator taking action against the accused designee;
+
+&emsp;&emsp;&emsp;"(iii) determine whether the reporting process results in appropriate action, including reviewing, investigating, and closing out reports; and
+
+&emsp;&emsp;&emsp;"(iv) if applicable, make recommendations to improve the reporting process.
+
+&emsp;&emsp;"(C)
+
+Report.—Not later than 1 year after the date of initiation of the audit described in subparagraph (A), the inspector general shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of such audit, including findings and recommendations.
+
+"(b)
+
+Designee Defined.—In this section, the term 'designee' means an individual who has been designated to act as a representative of the Administrator as—
+
+&emsp;"(1) an Aviation Medical Examiner (as described in section 183.21 of title 14, Code of Federal Regulations);
+
+&emsp;"(2) a pilot examiner (as described in section 183.23 of such title); or
+
+&emsp;"(3) a technical personnel examiner (as described in section 183.25 of such title)."
+
+#### Aeromedical Innovation and Modernization Working Group
+
+Pub. L. 118–63, title IV, §411, May 16, 2024, 138 Stat. 1156, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall establish a working group (in this section referred to as the 'working group') to review the medical processes, policies, and procedures of the Administration and to make recommendations to the Administrator on modernizing such processes, policies, and procedures to ensure timely and efficient certification of airmen.
+
+"(b)
+
+Membership.—
+
+&emsp;"(1)
+
+In general.—The working group shall consist of—
+
+&emsp;&emsp;"(A) 2 co-chairs described in paragraph (2); and
+
+&emsp;&emsp;"(B) not less than 15 individuals appointed by the Administrator, each of whom shall have knowledge or a background in aerospace medicine, psychiatry, neurology, cardiology, or internal medicine.
+
+&emsp;"(2)
+
+Co-chairs.—The working group shall be co-chaired by—
+
+&emsp;&emsp;"(A) the Federal Air Surgeon of the FAA \[Federal Aviation Administration\]; and
+
+&emsp;&emsp;"(B) a member described under paragraph (1)(A) to be selected by members of the working group.
+
+&emsp;"(3)
+
+Preference.—The Administrator, in appointing members pursuant to paragraph (1)(B), shall give preference to—
+
+&emsp;&emsp;"(A) Aviation Medical Examiners (as described in section 183.21 of title 14, Code of Federal Regulations);
+
+&emsp;&emsp;"(B) licensed medical physicians;
+
+&emsp;&emsp;"(C) practitioners holding a pilot certificate; and
+
+&emsp;&emsp;"(D) individuals having demonstrated research and expertise in aeromedical research or sciences.
+
+"(c)
+
+Activities.—In reviewing the aeromedical decision-making processes, policies, and procedures of the Administration in accordance with subsection (a), the working group, at a minimum, shall—
+
+&emsp;"(1) assess the medical conditions an Aviation Medical Examiner may issue a medical certificate directly to an individual;
+
+&emsp;"(2) determine the appropriateness of the list of such medical conditions as of the date of enactment of this Act;
+
+&emsp;"(3) assess the special issuance process;
+
+&emsp;"(4) determine the appropriateness of whether a renewal of a special issuance can be based on a medical evaluation and treatment plan by the treating medical specialist of the individual pursuant to approval from an Aviation Medical Examiner;
+
+&emsp;"(5) evaluate advancements in technologies to address forms of red-green color blindness and determine whether such technologies may be approved for use by airmen;
+
+&emsp;"(6) review policies and guidance relating to Attention-Deficit Hyperactivity Disorder and Attention Deficit Disorder;
+
+&emsp;"(7) evaluate whether medications used to treat such disorders may be safely prescribed to airmen;
+
+&emsp;"(8) review protocols pertaining to the Human Intervention Motivation Study of the FAA;
+
+&emsp;"(9) review protocols and policies relating to—
+
+&emsp;&emsp;"(A) neurological disorders; and
+
+&emsp;&emsp;"(B) cardiovascular conditions to ensure alignment with medical best practices, latest research;
+
+&emsp;"(10) review mental health protocols and medications approved for treating such mental health conditions, including such actions taken resulting from recommendations by the Mental Health and Aviation Medical Clearances Rulemaking Committee;
+
+&emsp;"(11) assess processes and protocols pertaining to recertification of airmen receiving disability insurance post-recovery from the medical condition, injury, or disability that precludes airmen from exercising the privileges of an airman certificate;
+
+&emsp;"(12) assess processes and protocols pertaining to the certification of veterans reporting a disability rating from the Department of Veterans Affairs; and
+
+&emsp;"(13) assess and evaluate the user interface and information-sharing capabilities of any online medical portal administered by the FAA.
+
+"(d)
+
+Aviation Workforce Mental Health Task Group.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 120 days after the working group pursuant to subsection (a) is established, the co-chairs of such working group shallestablish an aviation workforce mental health task group (referred to in this subsection as the 'task group') to oversee, monitor, and evaluate efforts of the Administrator related to supporting the mental health of the aviation workforce.
+
+&emsp;"(2)
+
+Composition.—The co-chairs of such working group shall appoint—
+
+&emsp;&emsp;"(A) a Chair of the task group; and
+
+&emsp;&emsp;"(B) members of the task group from among the members of the working group appointed by the Administrator under subsection (b)(1).
+
+&emsp;"(3)
+
+Duties.—The duties of the task group shall include—
+
+&emsp;&emsp;"(A) carrying out the activities described in subsection (c)(10);
+
+&emsp;&emsp;"(B) soliciting feedback from aviation industry professionals or other licensed professionals representing air carrier operations under part 121 and part 135 of title 14, Code of Federal Regulations, and general aviation operations under part 91 of title 14, Code of Federal Regulations;
+
+&emsp;&emsp;"(C) reviewing and evaluating guidance issued by the International Civil Aviation Organization on aviation workforce mental health;
+
+&emsp;&emsp;"(D) providing advice, as appropriate, on the implementation of the final recommendations issued by the inspector general of the Department of Transportation in the report titled, 'FAA Conduct Comprehensive Evaluations of Pilots With Mental Health Challenges, but Opportunities Exist to Further Mitigate Safety Risks', published on July 12, 2023 (AV2023038);
+
+&emsp;&emsp;"(E) monitoring and evaluating the implementation of recommendations by the Mental Health and Aviation Medical Clearances Rulemaking Committee;
+
+&emsp;&emsp;"(F) expanding and improving mental health outreach, education, and assistance programs for the aviation workforce; and
+
+&emsp;&emsp;"(G) reducing the stigma associated with mental healthcare in the aviation workforce.
+
+&emsp;"(4)
+
+Report.—Not later than 2 years after the date of the establishment of the task group, the task group shall submit to the Secretary \[of Transportation\] and the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report detailing—
+
+&emsp;&emsp;"(A) the results of the review under paragraph (3)(A); and
+
+&emsp;&emsp;"(B) progress on the implementation of recommendations pursuant to subparagraphs (D) and (E) of paragraph (3); and
+
+&emsp;&emsp;"(C) the activities carried out pursuant to fulfilling the duties described in subparagraphs (F) and (G) of paragraph (3).
+
+"(e)
+
+Support.—The Administrator shall seek to enter into 1 or more agreements with the National Academies to support the activities of the working group described in subsection (c).
+
+"(f)
+
+Findings and Recommendations.—Not later than 1 year after the date of enactment of this Act, and annually thereafter, the working group shall submit to the Administrator and the appropriate committees of Congress a report on the findings and recommendations resulting from the activities carried out under subsection (c).
+
+"(g)
+
+Implementation.—Not later than 1 year after receiving recommendations outlined in the report under subsection (f), the Administrator may take such action, as appropriate, to implement such recommendations.
+
+"(h)
+
+Sunset.—The working group shall terminate on October 1, 2028."
+
+#### Medical Portal Modernization Task Group
+
+Pub. L. 118–63, title IV, §413, May 16, 2024, 138 Stat. 1159, provided that:
+
+"(a)
+
+Establishment.—Not later than 120 days after the working group pursuant to section 411 \[of Pub. L. 118–63, set out as a note above\] is established, the co-chairs of such working group shall establish a medical portal modernization task group (in this section referred to as the 'task group') to evaluate the user interface and information sharing capabilities of an online medical portal administered by the FAA \[Federal Aviation Administration\].
+
+"(b)
+
+Composition.—The co-chairs of the working group provided for in section 411 shall appoint—
+
+&emsp;"(1) a Chair of the task group; and
+
+&emsp;"(2) members of the task group from among the members of the working group appointed by the Administrator \[of the Federal Aviation Administration\] under section 411(b).
+
+"(c)
+
+Assessment; Recommendations.—The task group shall, at a minimum, assess and evaluate the capabilities of any such medical portal and provide recommendations to improve the following:
+
+&emsp;"(1) The cybersecurity protections and protocols of any such medical portal, including the secure exchange of health information and records between Aviation Medical Examiners and pilots, or their designee, including the ability for airmen to submit additional information requested by the Administrator.
+
+&emsp;"(2) The status of an airman's medical application and the disclosure of how long an airman can expect to wait for a final determination to be issued by the Administrator.
+
+&emsp;"(3) The disclosure of the name and contact information of the Administrator's representative managing an airman's case so that an Aviation Medical Examiner has a point of contact within the Administration who is familiar with an airman's application.
+
+"(d)
+
+Consultation.—In carrying out the duties described in subsection (c), the task group may consult with cybersecurity experts and individuals with a knowledge of securing electronic health care transactions.
+
+"(e)
+
+Report.—Not later than 1 year after the date of the establishment of the task group, the task group shall submit to the Administrator and the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report detailing activities and recommendations of the task group.
+
+"(f)
+
+Implementation.—Not later than 1 year after receiving the report described in subsection (e), the Administrator may take such action as may be necessary to implement recommendations of the task group to improve any such medical portal."
+
+#### Military Aviation Maintenance Technicians Rule
+
+Pub. L. 118–63, title IV, §426, May 16, 2024, 138 Stat. 1168, provided that:
+
+"(a)
+
+Streamlined Certification for Eligible Military Maintenance Technicians.—
+
+&emsp;"(1)
+
+Rulemaking.—Not later than 18 months after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking to revise part 65 of title 14, Code of Federal Regulations, to—
+
+&emsp;&emsp;"(A) create a military mechanic written competency test that addresses gaps between military and civilian experience; and
+
+&emsp;&emsp;"(B) develop, as necessary, a relevant Airman Certification Standard to qualify eligible military maintenance technicians for a civilian mechanic certificate with airframe or powerplant ratings.
+
+&emsp;"(2)
+
+Consideration.—In carrying out paragraph (1), the Administrator shall evaluate and consider—
+
+&emsp;&emsp;"(A) whether to allow a certificate of eligibility from the Joint Services Aviation Maintenance Technician Certification Council (in this section referred to as the 'JSAMTCC') evidencing completion of a training curriculum for any rating sought to serve as a substitute to fulfill the requirement under such part 65 for oral and practical tests administered by a designated mechanic examiner for eligible military maintenance technicians;
+
+&emsp;&emsp;"(B) aeronautical knowledge subject areas contained in the Aviation Mechanic General, Airframe, and Powerplant Airman Certification Standards as described in section 65.75 of title 14, Code of Federal Regulations, as appropriate, to the rating sought; and
+
+&emsp;&emsp;"(C) any applicable recommendations by the Aviation Rulemaking Advisory Committee Airman Certification System Working Group.
+
+"(b)
+
+Expansion of Testing Locations.—Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with the Secretary of Defense and the Secretary of Homeland Security, shall determine—
+
+&emsp;"(1) whether an expansion of the number of active testing locations operated within military installation testing centers would increase access to testing; and
+
+&emsp;"(2) how to implement such expansion, if appropriate.
+
+"(c)
+
+Outreach and Awareness.—Not later than 1 year after the date of enactment of this Act, the Administrator, in coordination with the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Homeland Security, shall develop a plan to increase outreach and awareness regarding services made available by the JSAMTCC and how such services can assist in facilitating the transition between military and civilian aviation maintenance careers.
+
+"(d)
+
+Briefings.—
+
+&emsp;"(1)
+
+Initial briefing.—Not later than 180 days after the date on which the Administrator develops the outreach and awareness plan pursuant to subsection (c), the Administrator shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Veterans' Affairs of the Senate and the Committee on Transportation and Infrastructure and the Committee on Veterans' Affairs of the House of Representatives a briefing on the activities planned to implement the outreach and awareness plan.
+
+&emsp;"(2)
+
+Periodic briefing.—Not later than 2 years after the date of enactment of this Act, and 2 years thereafter, the Administrator shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Veterans' Affairs of the Senate and the Committee on Transportation and Infrastructure and the Committee on Veterans' Affairs of the House of Representatives a briefing on any rulemaking activities carried out pursuant to subsection (a), including a timeline for the issuance of a final rule.
+
+"(e)
+
+Eligible Military Maintenance Technician Defined.—For purposes of this section, the term 'eligible military maintenance technician' means an individual who—
+
+&emsp;"(1) has been a maintenance technician during service in the armed forces who was honorably discharged or has retired from the armed forces (as defined in section 101 of title 10, United States Code);
+
+&emsp;"(2) presents an official record of service in the armed forces confirming that the individual has been a military aviation maintenance technician, holding an appropriate Military Occupational Specialty Code, as determined by the Administrator, in coordination with the Secretary of Defense; and
+
+&emsp;"(3) presents documentary evidence of experience in accordance with the requirements under section 65.77 of title 14, Code of Federal Regulations."
+
+#### Timely Resolution of Investigations
+
+Pub. L. 118–63, title VIII, §805, May 16, 2024, 138 Stat. 1323, provided that:
+
+"(a)
+
+In General.—Not later than 2 years after the date of issuance of a letter of investigation to any person, as required by section 2(b) of the Pilot's Bill of Rights \[Pub. L. 112–153\] (49 U.S.C. 44703 note), the Administrator \[of the Federal Aviation Administration\] shall—
+
+&emsp;"(1) make a determination regarding such investigation and pursue subsequent action; or
+
+&emsp;"(2) close such investigation.
+
+"(b)
+
+Extension.—
+
+&emsp;"(1)
+
+In general.—If, upon review of the facts and status of an investigation described in subsection (a), the Administrator determines that the time provided to make a final determination or close such investigation is insufficient, the Administrator shall approve an extension of such investigation for 2 years.
+
+&emsp;"(2)
+
+Additional extensions.—The Administrator may approve consecutive extensions under paragraph (1).
+
+"(c)
+
+Delegation.—The Administrator may not delegate the authority to approve an extension described in subsection (b) to anyone other than the leadership of the Administration as described in section 106(b) of title 49, United States Code."
+
+#### All Makes and Models Authorization
+
+Pub. L. 118–63, title VIII, §806, May 16, 2024, 138 Stat. 1323, provided that:
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Unlimited letter of authorization.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall take such action as may be necessary to allow for the issuance of letters of authorizations to airmen with the authorization for—
+
+&emsp;&emsp;"(A) all types and makes of experimental high–performance single engine piston powered aircraft; and
+
+&emsp;&emsp;"(B) all types and makes of experimental high–performance multiengine piston powered aircraft.
+
+&emsp;"(2)
+
+Requirements.—An individual who holds a letter of authorization and applies for an authorization described in paragraph (1)(A) or (1)(B)—
+
+&emsp;&emsp;"(A) shall be given an all-makes and models authorization of—
+
+&emsp;&emsp;&emsp;"(i) experimental single–engine piston powered authorized aircraft; or
+
+&emsp;&emsp;&emsp;"(ii) experimental multiengine piston powered authorized aircraft;
+
+&emsp;&emsp;"(B) shall hold the appropriate category and class rating for the authorized aircraft;
+
+&emsp;&emsp;"(C) shall hold 3 experimental aircraft authorizations in aircraft of the same category and class rating for the authorization sought; and
+
+&emsp;&emsp;"(D) may become qualified in additional experimental aircraft by completing aircraft-specific ground and flight training.
+
+"(b)
+
+Rule of Construction.—Nothing in this section may be construed to disallow an individual from being given both an authorization described in paragraph (1)(A) and an authorization described in paragraph (1)(B).
+
+"(c)
+
+Failure to Comply.—
+
+&emsp;"(1)
+
+In general.—If the Administrator fails to implement subsection (a) within the time period prescribed in such subsection, the Administrator shall brief the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] on the status of the implementation of such subsection on a monthly basis until the implementation is complete.
+
+&emsp;"(2)
+
+No delegation.—The Administrator may not delegate the briefing described in paragraph (1)."
+
+#### BasicMed for Examiners Administering Tests or Proficiency Checks
+
+Pub. L. 118–63, title VIII, §815, May 16, 2024, 138 Stat. 1328, provided that:
+
+"(a)
+
+Equivalent Pilot-in-command Medical Requirements.—Notwithstanding section 61.23(a)(3)(iv) of title 14, Code of Federal Regulations, an examiner may administer a practical test or proficiency check if such examiner meets the medical qualification requirements under part 68 of title 14, Code of Federal Regulations,if the operation being conducted is in a covered aircraft, as such term is defined in section 2307(j) of the FAA Extension, Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 44703 note).
+
+"(b)
+
+Rulemaking.—Not later than 3 years after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall issue a final rule to update part 61 of title 14, Code of Federal Regulations, to implement the requirements under subsection (a), in addition to any related requirements the Administrator finds are in the interest of aviation safety."
+
+#### Designee Locator Tool Improvements
+
+Pub. L. 118–63, title VIII, §816, May 16, 2024, 138 Stat. 1328, provided that: "Not later than 3 years after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall ensure that the designee locator search function of the public website of the Designee Management System of the Administration has the functionality to—
+
+&emsp;"(1) filter a search for an Aviation Medical Examiner (as described in section 183.21 of title 14, Code of Federal Regulations) by sex, if such information is available;
+
+&emsp;"(2) display credentials and aircraft qualifications of a designated pilot examiner (as described in section 183.23 of such title); and
+
+&emsp;"(3) display the scheduling availability of a designated pilot examiner (as described in section 183.23 of such title) to administer a test or proficiency check to an airman."
+
+#### National Coordination and Oversight of Designated Pilot Examiners
+
+Pub. L. 118–63, title VIII, §833, May 16, 2024, 138 Stat. 1339, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall establish an office to provide oversight and facilitate national coordination of designated pilot examiners appointed under section 183.23 of title 14, Code of Federal Regulations.
+
+"(b)
+
+Responsibilities.—The office described in subsection (a) shall be responsible for the following:
+
+&emsp;"(1) Oversight of designated pilot examiners appointed under section 183.23 of title 14, Code of Federal Regulations.
+
+&emsp;"(2) Coordinating with other offices, as appropriate, to support the standardization of policy, guidance, and regulations across the FAA \[Federal Aviation Administration\] pertaining to the selection, training, duties, and deployment of designated pilot examiners appointed under section 183.23 of title 14, Code of Federal Regulations, including evaluating the consistency by which such examiners apply Administration policies, orders, and guidance.
+
+&emsp;"(3) Evaluating the consistency by which such examiners apply FAA policies, orders, and guidance.
+
+&emsp;"(4) Coordinating placement and deployment of such examiners across regions based on demand for examinations from the pilot community.
+
+&emsp;"(5) Developing a code of conduct for such examiners.
+
+&emsp;"(6) Deploying a survey system to track the performance and merit of such examiners.
+
+&emsp;"(7) Facilitating an industry partnership to create a formal mentorship program for such examiners.
+
+"(c)
+
+Coordination.—In carrying out the responsibilities listed in subsection (b), the Administrator shall ensure the office—
+
+&emsp;"(1) coordinates on an ongoing basis with flight standards district offices, designated pilot examiner managing specialists, and aviation industry stakeholders, including representatives of the general aviation community; and
+
+&emsp;"(2) considers whether to implement the final recommendations report issued by the Designated Pilot Examiner Reforms Working Group and accepted by the Aviation Rulemaking Advisory Committee on June 17, 2021.
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], and biennially thereafter through fiscal year 2028, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report that evaluates the use of designated pilot examiners appointed under section 183.23 of title 14, Code of Federal Regulations (or any successor regulation), for testing, including both written and practical tests.
+
+&emsp;"(2)
+
+Contents.—The report under paragraph (1) shall include an analysis of—
+
+&emsp;&emsp;"(A) the methodology and rationale by which designated pilot examiners are deployed;
+
+&emsp;&emsp;"(B) with respect to the previous fiscal year, the average time an individual in each region must wait to schedule an appointment with a designated pilot examiner;
+
+&emsp;&emsp;"(C) with respect to the previous fiscal year, the estimated total time individuals in each region were forced to wait to schedule an appointment with a designated pilot examiner;
+
+&emsp;&emsp;"(D) the primary reasons and best ways to reduce wait times described in subparagraph (C);
+
+&emsp;&emsp;"(E) the number of tests conducted by designated pilot examiners;
+
+&emsp;&emsp;"(F) the number and percentage of available designated pilot examiners that perform such tests; and
+
+&emsp;&emsp;"(G) the average rate of retests, including of both written and practical tests."
 
 #### Applicability of Medical Certification Standards to Operators of Air Balloons
 
@@ -700,9 +1386,27 @@ In General.—The Administrator \[of the Federal Aviation Administration\] shall
 
 "(b)
 
-Action Based on Recommendations.—Not later than 1 year after receiving recommendations under subsection (a), the Administrator shall take such action as the Administrator considers appropriate with respect to those recommendations."
+Action Based on Recommendations.—Not later than 1 year after receiving recommendations undersubsection (a), the Administrator shall take such action as the Administrator considers appropriate with respect to those recommendations."
 
 #### Public Aircraft Eligible for Logging Flight Times
+
+Pub. L. 118–63, title VIII, §826, May 16, 2024, 138 Stat. 1332, provided that:
+
+"(a)
+
+Forestry and Fire Protection Flight Time Logging.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of law, aircraft under the direct operational control of forestry and fire protection agencies are eligible to log pilot flight times, if the flight time was acquired by the pilot while engaged on an official forestry or fire protection flight, in the same manner as aircraft under the direct operational control of a Federal, State, county, or municipal law enforcement agency.
+
+&emsp;"(2)
+
+Retroactive application.—Paragraph (1) shall be applied as if enacted on October 5, 2018.
+
+"(b)
+
+Regulations.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall make such regulatory changes as are necessary to conform to the requirements of this section."
 
 Pub. L. 115–254, div. B, title V, §517, Oct. 5, 2018, 132 Stat. 3359, provided that: "The Administrator \[of the Federal Aviation Administration\] shall issue regulations modifying section 61.51(j)(4) of title 14, Code of Federal Regulations, so as to include aircraft under the direct operational control of forestry and fire protection agencies as public aircraft eligible for logging flight times."
 
@@ -720,7 +1424,7 @@ Action Based on Recommendations.—Not later than 1 year after receiving recomme
 
 #### Medical Certification of Certain Small Aircraft Pilots
 
-Pub. L. 114–190, title II, §2307, July 15, 2016, 130 Stat. 641, provided that:
+Pub. L. 114–190, title II, §2307, July 15, 2016, 130 Stat. 641, as amended by Pub. L. 118–63, title VIII, §828(a), May 16, 2024, 138 Stat. 1336, provided that:
 
 "(a)
 
@@ -728,7 +1432,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 &emsp;"(1) the individual possesses a valid driver's license issued by a State, territory, or possession of the United States and complies with all medical requirements or restrictions associated with that license;
 
-&emsp;"(2) the individual holds a medical certificate issued by the Federal Aviation Administration on the date of enactment of this Act, held such a certificate at any point during the 10-year period preceding such date of enactment, or obtains such a certificate after such date of enactment;
+&emsp;"(2) the individual holds a medical certificate issued by the Federal Aviation Administration or has held such a certificate at any time after July 14, 2006;
 
 &emsp;"(3) the most recent medical certificate issued by the Federal Aviation Administration to the individual—
 
@@ -748,7 +1452,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 &emsp;"(6) the individual, when serving as a pilot in command, is under the care and treatment of a physician if the individual has been diagnosed with any medical condition that may impact the ability of the individual to fly;
 
-&emsp;"(7) the individual has received a comprehensive medical examination from a State-licensed physician during the previous 48 months and—
+&emsp;"(7) the individual has received a comprehensive medical examination from a State-licensed physician during the previous 48 calendar months and—
 
 &emsp;&emsp;"(A) prior to the examination, the individual—
 
@@ -760,7 +1464,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 &emsp;"(8) the individual is operating in accordance with the following conditions:
 
-&emsp;&emsp;"(A) The covered aircraft is carrying not more than 5 passengers.
+&emsp;&emsp;"(A) The covered aircraft is carrying not more than 6 passengers.
 
 &emsp;&emsp;"(B) The individual is operating the covered aircraft under visual flight rules or instrument flight rules.
 
@@ -788,7 +1492,7 @@ Requirements.—The checklist shall contain—
 
 &emsp;&emsp;"(A) a section, for the individual to complete that contains—
 
-&emsp;&emsp;&emsp;"(i) boxes 3 through 13 and boxes 16 through 19 of the Federal Aviation Administration Form 8500–8 (3–99); and
+&emsp;&emsp;&emsp;"(i) boxes 3 through 13 and boxes 16 through 19 of the Federal Aviation Administration Form 8500–8 (3–99) (or any successor form); and
 
 &emsp;&emsp;&emsp;"(ii) a signature line for the individual to affirm that—
 
@@ -900,7 +1604,7 @@ Medical Education Course Requirements.—The medical education course described 
 
 &emsp;&emsp;&emsp;"(iv) a certification by the individual that the checklist described in subsection (b) was followed and signed by the physician in the comprehensive medical examination required in subsection (a)(7); and
 
-&emsp;&emsp;"(E) a statement, which shall be printed, and signed by the individual certifying that the individual understands the existing prohibition on operations during medical deficiency by stating: 'I understand that I cannot act as pilot in command,or any other capacity as a required flight crew member, if I know or have reason to know of any medical condition that would make me unable to operate the aircraft in a safe manner.'.
+&emsp;&emsp;"(E) a statement, which shall be printed, and signed by the individual certifying that the individual understands the existing prohibition on operations during medical deficiency by stating: 'I understand that I cannot act as pilot in command, or any other capacity as a required flight crew member, if I know or have reason to know of any medical condition that would make me unable to operate the aircraft in a safe manner.'.
 
 "(d)
 
@@ -1024,19 +1728,21 @@ Report required.—Not later than 1 year after the date of enactment of this Act
 
 "(h)
 
-Report Required.—Not later than 5 years after the date of enactment of this Act, the Administrator, in coordination with the National Transportation Safety Board, shall submit to the appropriate committees of Congress a report that describes the effect of the regulations issued or revised under subsection (a) and includes statistics with respect to changes in small aircraft activity and safety incidents.
+Report Required.—Not later than 4 years after the date of enactment of the FAA Reauthorization Act of 2024 \[May 16, 2024\], the Administrator, in coordination with the National Transportation Safety Board, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes the effect of the regulations issued or revised under subsection (a) and includes statistics with respect to changes in small aircraft activity and safety incidents.
 
 "(i)
 
-Prohibition on Enforcement Actions.—Beginning on the date that is 1 year after the date of enactment of this Act, the Administrator may not take an enforcement action for not holding a valid third-class medical certificate against a pilot of a covered aircraftfor a flight if the pilot and the flight meet, through a good faith effort, the applicable requirements under subsection (a), except paragraph (5) of that subsection, unless the Administrator has published final regulations in the Federal Register under that subsection.
+Prohibition on Enforcement Actions.—Beginning on the date that is 1 year after the date of enactment of this Act, the Administrator may not take an enforcement action for not holding a valid third-class medical certificate against a pilot of a covered aircraft for a flight if the pilot and the flight meet, through a good faith effort, the applicable requirements under subsection (a), except paragraph (5) of that subsection, unless the Administrator has published final regulations in the Federal Register under that subsection.
 
 "(j)
 
 Covered Aircraft Defined.—In this section, the term 'covered aircraft' means an aircraft that—
 
-&emsp;"(1) is authorized under Federal law to carry not more than 6 occupants; and
+&emsp;"(1) is authorized under Federal law to carry not more than 7 occupants;
 
-&emsp;"(2) has a maximum certificated takeoff weight of not more than 6,000 pounds.
+&emsp;"(2) has a maximum certificated takeoff weight of not more than 12,500 pounds; and
+
+&emsp;"(3) is not a transport category rotorcraft certified to airworthiness standards under part 29 of title 14, Code of Federal Regulations.
 
 "(k)
 
@@ -1054,9 +1760,19 @@ In general.—If the Administrator receives credible or urgent information, incl
 
 Use of information.—The Administrator may use credible or urgent information received under paragraph (1) to request an individual to provide additional information or to take actions under section 44709(b) of title 49, United States Code."
 
+\[Pub. L. 118–63, title VIII, §828(b), (c), May 16, 2024, 138 Stat. 1336, provided that:
+
+\["(b)
+
+Rulemaking.—The Administrator \[of the Federal Aviation Administration\] shall update regulations in parts 61 and 68 of title 14, Code of Federal Regulations, as necessary, to implement the amendments made by this section \[amending section 2307 of Pub. L. 114–190, set out above\].
+
+\["(c)
+
+Applicability.—Beginning on the date that is 180 days after the date of enactment of this Act \[May 16, 2024\], the Administrator shall apply parts 61 and 68, Code of Federal Regulations, in a manner reflecting the amendments made by this section."\]
+
 #### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
 
-Pub. L. 112–153, §2, Aug. 3, 2012, 126 Stat. 1159, as amended by Pub. L. 115–254, div. B, title III, §392, Oct. 5, 2018, 132 Stat. 3323, provided that:
+Pub. L. 112–153, §2, Aug. 3, 2012, 126 Stat. 1159, as amended by Pub. L. 115–254, div. B, title III, §392, Oct. 5, 2018, 132 Stat. 3323; Pub. L. 118–63, title VIII, §807, May 16, 2024, 138 Stat. 1324, provided that:
 
 "(a)
 
@@ -1142,6 +1858,18 @@ Provision of information to individual.—If the Administrator receives a reques
 
 Timing.—Except when the Administrator determines that an emergency exists under section 44709(e)(2) or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
 
+&emsp;"(6)
+
+Response to letter of investigation.—
+
+&emsp;&emsp;"(A)
+
+In general.—If an individual decides to respond to a Letter of Investigation described in paragraph (2)(B), such individual may respond not later than 30 days after receipt of such Letter, including providing written comments on the incident to the investigating office.
+
+&emsp;&emsp;"(B)
+
+Construction.—Nothing in this paragraph shall be construed to diminish the authority of the Administrator (as of the day before the date of enactment of the FAA Reauthorization Act of 2024 \[May 16, 2024\]) to take emergency action relating to an airman certificate.
+
 "(c)
 
 Amendments to Title 49.—
@@ -1164,7 +1892,7 @@ Appeal From Certificate Actions.—
 
 &emsp;"(1)
 
-In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
+In general.—Upon a decision by the National Transportation Safety Board upholding an order or afinal decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
 
 &emsp;"(2)
 
@@ -1276,89 +2004,49 @@ Goals of the Federal Aviation Administration's Medical Certification Process.—
 
 "(c)
 
-Advice From Private Sector Groups.—The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, toadvise the Administrator in carrying out the goals of the assessment required under this section.
+Advice From Private Sector Groups.—The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the assessment required under this section.
 
 "(d)
 
 Federal Aviation Administration Response.—Not later than 1 year after the issuance of the report by the Comptroller General pursuant to subsection (a)(2), the Administrator shall take appropriate actions to respond to such report."
 
+#### Reexamination of an Airman Certificate
+
+Pub. L. 112–153, §5, as added by Pub. L. 118–63, title VIII, §801, May 16, 2024, 138 Stat. 1320, provided that:
+
+"(a)
+
+In General.—The Administrator shall provide timely, written notification to an individual subject to a reexamination of an airman certificate issued under chapter 447 of title 49, United States Code.
+
+"(b)
+
+Information Required.—In providing notification under subsection (a), the Administrator shall inform the individual—
+
+&emsp;"(1) of the nature of the reexamination and the specific activity on which the reexamination is necessitated;
+
+&emsp;"(2) that the reexamination shall occur within 1 year from the date of the notice provided by the Administrator, however, if the reexamination is not conducted within 30 days, the Administrator may restrict passenger carrying operations;
+
+&emsp;"(3) that if such reexamination is not conducted after 1 year from date of notice, the airman certificate of the individual may be suspended or revoked; and
+
+&emsp;"(4) when, as determined by the Administrator, an oral or written response to the notification from the Administrator is not required.
+
+"(c)
+
+Exception.—Nothing in this section prohibits the Administrator from reexamining a certificate holder if the Administrator has reasonable grounds—
+
+&emsp;"(1) to establish that an airman may not be qualified to exercise the privileges of a certificate or rating based upon an act or omission committed by the airman while exercising such privileges or performing ancillary duties associated with the exercise of such privileges; or
+
+&emsp;"(2) to demonstrate that the airman obtained such a certificate or rating through fraudulent means or through an examination that was inadequate to establish the qualifications of an airman.
+
+"(d)
+
+Standard of Review.—An order issued by the Administrator to amend, modify, suspend, or revoke an airman certificate after reexamination of the airman is subject to the standard of review provided for under section 2 of this Act \[Pub. L. 112–153, set out as a note above\]."
+
 #### Improved Pilot Licenses
 
-Pub. L. 112–95, title III, §321, Feb. 14, 2012, 126 Stat. 71, provided that:
+Pub. L. 112–95, title III, §321, Feb. 14, 2012, 126 Stat. 71, which related to the issuance by the Administrator of the Federal Aviation Administration of improved pilot licenses and required reports to Congress, was repealed by Pub. L. 118–63, title II, §218(j)(2), May 16, 2024, 138 Stat. 1056.
 
-"(a)
-
-In General.—The Administrator of the Federal Aviation Administration shall issue improved pilot licenses consistent with requirements under this section.
-
-"(b)
-
-Timing.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall—
-
-&emsp;"(1) provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
-
-&emsp;&emsp;"(A) a timeline for the phased issuance of improved pilot licenses under this section that ensures all pilots are issued such licenses not later than 2 years after the initial issuance of such licenses under paragraph (2); and
-
-&emsp;&emsp;"(B) recommendations for the Federal installation of infrastructure necessary to take advantage of information contained on improved pilot licenses issued under this section, which identify the necessary infrastructure, indicate the Federal entity that should be responsible for installing, funding, and operating the infrastructure at airport sterile areas, and provide an estimate of the costs of the infrastructure; and
-
-&emsp;"(2) begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
-
-"(c)
-
-Requirements.—Improved pilot licenses issued under this section shall—
-
-&emsp;"(1) be resistant to tampering, alteration, and counterfeiting;
-
-&emsp;"(2) include a photograph of the individual to whom the license is issued for identification purposes; and
-
-&emsp;"(3) be smart cards that—
-
-&emsp;&emsp;"(A) accommodate iris and fingerprint biometric identifiers; and
-
-&emsp;&emsp;"(B) are compliant with Federal Information Processing Standards-201 (FIPS–201) or Personal Identity Verification-Interoperability Standards (PIV–I) for processing through security checkpoints into airport sterile areas.
-
-"(d)
-
-Tampering.—To the extent practicable, the Administrator shall develop methods to determine or reveal whether any component or security feature of an improved pilot license issued under this section has been tampered with, altered, or counterfeited.
-
-"(e)
-
-Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent practicable in order to minimize the burdens on pilots.
-
-"(f)
-
-Report to Congress.—
-
-&emsp;"(1)
-
-In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
-
-&emsp;"(2)
-
-Expiration.—The Administrator shall not be required to submit annual reports under this subsection after the date on which the Administrator has issued improved pilot licenses under this section to all pilots."
-
-Pub. L. 108–458, title IV, §4022, Dec. 17, 2004, 118 Stat. 3723, provided that:
-
-"(a)
-
-In General.—Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Administrator of the Federal Aviation Administration shall begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
-
-"(b)
-
-Requirements.—Improved pilots licenses issued under subsection (a) shall—
-
-&emsp;"(1) be resistant to tampering, alteration, and counterfeiting;
-
-&emsp;"(2) include a photograph of the individual to whom the license is issued; and
-
-&emsp;"(3) be capable of accommodating a digital photograph, a biometric identifier, or any other unique identifier that the Administrator considers necessary.
-
-"(c)
-
-Tampering.—To the extent practical, the Administrator shall develop methods to determine or reveal whether any component or security feature of a license issued under subsection (a) has been tampered, altered, or counterfeited.
-
-"(d)
-
-Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent feasible in order to minimize the burdens on pilots."
+Pub. L. 108–458, title IV, §4022, Dec. 17, 2004, 118 Stat. 3723, which related to the issuance of improved pilot licenses, was repealed by Pub. L. 118–63, title II, §218(j)(1), May 16, 2024, 138 Stat. 1056.
 
 #### Crediting of Law Enforcement Flight Time
 
@@ -1367,4 +2055,6 @@ Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: "In determ
 &emsp;"(1) identifiable by category and class; and
 
 &emsp;"(2) used in law enforcement activities."
+
+<i><sup>1</sup></i><i> See Termination Date note below.</i>
 

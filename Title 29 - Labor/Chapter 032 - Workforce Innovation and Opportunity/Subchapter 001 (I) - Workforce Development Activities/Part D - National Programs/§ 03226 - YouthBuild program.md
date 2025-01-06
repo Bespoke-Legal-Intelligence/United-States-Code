@@ -178,7 +178,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, such as their role in developing the proposed program and assisting in service provision and in placement activities;
 
-&emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with otherFederal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, career and technical education and training programs, adult and language instruction educational programs, activities conducted by public schools, activities conducted by community colleges, national service programs, and other job training provided with funds available under this subchapter;
+&emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, career and technical education and training programs, adult and language instruction educational programs, activities conducted by public schools, activities conducted by community colleges, national service programs, and other job training provided with funds available under this subchapter;
 
 &emsp;&emsp;&emsp;(xi) assurances that there will be a sufficient number of adequately trained supervisory personnel in the proposed program;
 
@@ -316,7 +316,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (1) Secretary assistance
 
-&emsp;The Secretary may enter into contracts with 1 or more entities to provide assistance to theSecretary in the management, supervision, and coordination of the program carried out under this section.
+&emsp;The Secretary may enter into contracts with 1 or more entities to provide assistance to the Secretary in the management, supervision, and coordination of the program carried out under this section.
 
 #### (2) Technical assistance
 
@@ -368,7 +368,7 @@ Act of August 16, 1937, commonly known as the National Apprenticeship Act, refer
 
 Section 11360(29) of title 42, referred to in subsec. (b)(11), was redesignated section 11360(31) of title 42 by Pub. L. 116–260, div. Q, title I, §102(a)(1)(A), Dec. 27, 2020, 134 Stat. 2165.
 
-The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968,82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -412,7 +412,7 @@ Experts and consultants.—The Secretary of Labor may obtain the services of exp
 
 "(e)
 
-Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Secretary of Labor may delegate any of the functions transferred to the Secretary of Labor by this section and any function transferred or granted to the Secretary of Labor after the effective date of this section to such officers and employees of the Department of Labor as the Secretary of Labor may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions by the Secretary of Labor under this subsection or under any other provision of this section shall relieve the Secretary of Laborof responsibility for the administration of such functions.
+Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Secretary of Labor may delegate any of the functions transferred to the Secretary of Labor by this section and any function transferred or granted to the Secretary of Labor after the effective date of this section to such officers and employees of the Department of Labor as the Secretary of Labor may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions by the Secretary of Labor under this subsection or under any other provision of this section shall relieve the Secretary of Labor of responsibility for the administration of such functions.
 
 "(f)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 150 days after October 21, 1998, the Secretary of the Treasury, after consultation with the Secretary of State and the Administrator of the United States Agency for International Development, is authorized to establish a program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries.
+&emsp;Not later than 150 days after October 21, 1998, the Secretary of the Treasury, after consultation with the Secretary of State and the Administrator of the United States Agency forInternational Development, is authorized to establish a program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries.
 
 #### (2) Role of Secretary of State
 

@@ -242,17 +242,17 @@ Covered Agency.—In this section, the term 'covered agency' means the Departmen
 
 #### Requirements for the Acquisition of Services
 
-Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, §933(c), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title X, §1076(a)(18), Jan. 2, 2013, 126 Stat. 1949, provided that:
+Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, §933(c), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title X, §1076(a)(18), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 118–159, div. A, title XVII, §1701(f), Dec. 23, 2024, 138 Stat. 2207, provided that:
 
 "(a)
 
-Establishment of Requirements Processes for the Acquisition of Services.—The Secretary of Defense shall ensure that the military departments andDefense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
+Establishment of Requirements Processes for the Acquisition of Services.—The Secretary of Defense shall ensure that the military departments and Defense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
 
 "(b)
 
 Operational Requirements.—With regard to requirements for the acquisition of services in support of combatant commands and military operations, the Secretary shall ensure—
 
-&emsp;"(1) that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps implement and bear chief responsibility for carrying out, within the Armed Force concerned, the process established pursuant to subsection (a) for such Armed Force; and
+&emsp;"(1) that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Chief of Space Operations, and the Commandant of the Marine Corps implement and bear chief responsibility for carrying out, within the Armed Force concerned, the process established pursuant to subsection (a) for such Armed Force; and
 
 &emsp;"(2) that commanders of unified combatant commands and other officers identified or designated as joint qualified officers have an opportunity to participate in the process of each military department to provide input on joint requirements for the acquisition of services.
 
@@ -284,7 +284,7 @@ Implementation Plans Required.—The Secretary shall ensure that an implementati
 
 "(e)
 
-Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
+Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying,assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
 
 "(f)
 
@@ -386,7 +386,7 @@ Definitions.—In this section:
 
 "(e)
 
-Effect on Existing Contracts.—The limitation in subsection (a) does not apply to any service contract of a military department to acquire a military flight simulator, or to any renewal or extension of, or follow-on contract to, such a contract, if—
+Effect on Existing Contracts.—The limitation in subsection (a) does not apply to any service contract of a military department to acquire a military flightsimulator, or to any renewal or extension of, or follow-on contract to, such a contract, if—
 
 &emsp;"(1) the contract was in effect as of October 17, 2006;
 

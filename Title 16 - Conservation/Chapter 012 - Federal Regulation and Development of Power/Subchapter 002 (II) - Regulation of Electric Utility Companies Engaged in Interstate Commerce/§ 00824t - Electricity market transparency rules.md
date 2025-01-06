@@ -18,7 +18,7 @@
 
 (1) Rules described in subsection (a)(2), if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
 
-(2) In determining the information to be made available under this section and time to makethe information available, the Commission shall seek to ensure that consumers and competitive markets are protected from the adverse effects of potential collusion or other anticompetitive behaviors that can be facilitated by untimely public disclosure of transaction-specific information.
+(2) In determining the information to be made available under this section and time to make the information available, the Commission shall seek to ensure that consumers and competitive markets are protected from the adverse effects of potential collusion or other anticompetitive behaviors that can be facilitated by untimely public disclosure of transaction-specific information.
 
 #### (c) Information sharing
 
@@ -34,7 +34,7 @@ The Commission shall not require entities who have a de minimis market presence 
 
 (1) Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 825o–1 of this title.
 
-(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
+(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller thathas entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
 
 #### (f) ERCOT utilities
 

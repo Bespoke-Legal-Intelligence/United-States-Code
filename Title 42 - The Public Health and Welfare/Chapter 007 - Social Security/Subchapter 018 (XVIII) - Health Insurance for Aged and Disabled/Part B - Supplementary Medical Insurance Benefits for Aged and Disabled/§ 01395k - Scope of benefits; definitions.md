@@ -36,7 +36,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;(ii) pursuant to section 1395l(i)(1)(B) of this title and performed by a physician, described in paragraph (1), (2), or (3) of section 1395x(r) of this title, in his office, if the Secretary has determined that—
 
-&emsp;&emsp;&emsp;&emsp;(I) a quality improvement organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample orother reasonable basis) of the physician's performing such procedures in the physician's office,
+&emsp;&emsp;&emsp;&emsp;(I) a quality improvement organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample or other reasonable basis) of the physician's performing such procedures in the physician's office,
 
 &emsp;&emsp;&emsp;&emsp;(II) the particular physician involved has agreed to make available to such organization such records as the Secretary determines to be necessary to carry out the review, and
 
@@ -272,7 +272,7 @@ Pub. L. 110–275, title I, §143(d), July 15, 2008, 122 Stat. 2543, provided th
 
 #### Construction of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9320(j), Oct. 21, 1986, 100 Stat. 2016, provided that: "Nothing in this section or the amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions of State law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision."
+Pub. L. 99–509, title IX, §9320(j), Oct. 21, 1986, 100 Stat. 2016, provided that: "Nothing in this section or the amendments made by this section \[amending this section and sections 1395l, 1395u, 1395x, 1395y, 1395aa,1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions of State law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision."
 
 #### Report on Immunosuppressive Drug Benefit
 

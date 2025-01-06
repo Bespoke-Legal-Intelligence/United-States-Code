@@ -10,9 +10,9 @@ To sustain the aviation weather reporting programs of the Federal Aviation Admin
 
 &emsp;(4) $39,000,000 for each of fiscal years 2019 through 2023.
 
-&emsp;(5) $17,049,180 for the period beginning on October 1, 2023, and ending on March 8, 2024.
+&emsp;(5) $60,000,000 for each of fiscal years 2024 through 2028.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 115–254, div. B, title I, §114, Oct. 5, 2018, 132 Stat. 3201; Pub. L. 118–15, div. B, title II, §2202(j), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(j), Dec. 26, 2023, 137 Stat. 1113.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 115–254, div. B, title I, §114, Oct. 5, 2018, 132 Stat. 3201; Pub. L. 118–15, div. B, title II, §2202(j), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(j), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §102(j), Mar. 8, 2024, 138 Stat. 22; Pub. L. 118–63, title I, §104(c), May 16, 2024, 138 Stat. 1035.)
 
 Historical and Revision Notes
 
@@ -36,11 +36,15 @@ The words "for fiscal years beginning after September 30, 1982" are omitted as o
 
 #### Amendments
 
+<b>2024</b>—Par. (5). Pub. L. 118–63 added par. (5) and struck out former par. (5) which read as follows: "$23,762,295 for the period beginning on October 1, 2023, and ending on May 10, 2024."
+
+Pub. L. 118–41 added par. (5) and struck out former par. (5) which read as follows: "$17,049,180 for the period beginning on October 1, 2023, and ending on March 8, 2024."
+
 <b>2023</b>—Par. (5). Pub. L. 118–34 added par. (5) and struck out former par. (5) which read as follows: "$9,803,278 for the period beginning on October 1, 2023, and ending on December 31, 2023."
 
 Pub. L. 118–15 added par. (5).
 
-<b>2018</b>—Pub. L. 115–254, §114(1), substituted "To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation" for "To reimburse the Secretary of Commerce for the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation" in introductory provisions.
+<b>2018</b>—Pub. L. 115–254, §114(1), substituted "To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation" for "To reimburse the Secretary of Commercefor the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation" in introductory provisions.
 
 Par. (4). Pub. L. 115–254, §114(2), added par. (4).
 

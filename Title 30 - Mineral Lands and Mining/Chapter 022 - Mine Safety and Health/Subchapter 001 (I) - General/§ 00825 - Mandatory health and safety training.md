@@ -48,7 +48,7 @@ The Secretary shall promulgate appropriate standards for safety and health train
 
 &emsp;&emsp;&emsp;(BB) participate at least annually in two local mine rescue contests;
 
-&emsp;&emsp;&emsp;(CC) participate at least annually in mine rescue training at the underground coal mine covered by the mine rescue team; and
+&emsp;&emsp;&emsp;(CC) participate at least annually in mine rescue training at the undergroundcoal mine covered by the mine rescue team; and
 
 &emsp;&emsp;&emsp;(DD) are available at the mine within one hour ground travel time from the mine rescue station.
 

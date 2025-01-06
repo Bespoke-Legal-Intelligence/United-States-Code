@@ -14,7 +14,7 @@ The Task Force shall be composed of eight members as follows:
 
 &emsp;(3) One member of the House of Representatives, who shall be appointed by the Minority Leader of the House of Representatives, in coordination with the ranking minority member of the Committee on Natural Resources of the House of Representatives.
 
-&emsp;(4) One member of the House of Representatives, who shall be appointed by the Minority Leader of the House of Representatives, in coordination with the ranking minority member of the Committee on Ways and Means of the House of Representatives.
+&emsp;(4) One member of the House of Representatives, who shall be appointed by the MinorityLeader of the House of Representatives, in coordination with the ranking minority member of the Committee on Ways and Means of the House of Representatives.
 
 &emsp;(5) One member of the Senate, who shall be appointed by the Majority Leader of the Senate, in coordination with the Chairman of the Committee on Energy and Natural Resources of the Senate.
 

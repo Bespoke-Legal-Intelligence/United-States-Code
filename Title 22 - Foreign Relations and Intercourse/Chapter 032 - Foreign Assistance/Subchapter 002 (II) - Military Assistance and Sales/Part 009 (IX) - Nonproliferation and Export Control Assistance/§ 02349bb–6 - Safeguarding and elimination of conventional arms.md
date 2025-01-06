@@ -138,5 +138,5 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 &emsp;"(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives."
 
-\[Memorandum of President of the United States, Apr. 20, 2012, 77 F.R. 28757, delegated the reporting functionsconferred upon the President by section 1235(c) of Pub. L. 112–81, set out above, to the Secretary of State.\]
+\[Memorandum of President of the United States, Apr. 20, 2012, 77 F.R. 28757, delegated the reporting functions conferred upon the President by section 1235(c) of Pub. L. 112–81, set out above, to the Secretary of State.\]
 

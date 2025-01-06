@@ -68,7 +68,7 @@ Plan required.—Not later than one year after the date of the enactment of this
 
 &emsp;&emsp;"(D) A description of the tenure obligation required of personnel selected for the program.
 
-&emsp;&emsp;"(E) A plan for training during the course of the program, including training in leadership, program management, engineering, finance and budgeting, market research, business acumen, contracting, supplier management, requirement setting and tradeoffs, intellectual property matters, and software.
+&emsp;&emsp;"(E) A plan for training during the course of the program, including training in leadership, program management, engineering, finance and budgeting, market research, business acumen, contracting,supplier management, requirement setting and tradeoffs, intellectual property matters, and software.
 
 &emsp;&emsp;"(F) A description of career paths to be followed by personnel in the program in order to ensure that personnel in the program gain expertise in the program management functional career field competencies identified by the Department in existing guidance and the topics listed in subparagraph (E), including—
 

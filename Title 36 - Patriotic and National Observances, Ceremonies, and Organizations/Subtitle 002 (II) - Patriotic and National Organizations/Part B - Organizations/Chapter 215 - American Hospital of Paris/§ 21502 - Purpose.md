@@ -1,6 +1,6 @@
 ### §21502. Purpose
 
-The purpose of the corporation is to maintain a hospital in the vicinity of Paris, France, toprovide medical and surgical care to citizens of the United States.
+The purpose of the corporation is to maintain a hospital in the vicinity of Paris, France, to provide medical and surgical care to citizens of the United States.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1295.)
 

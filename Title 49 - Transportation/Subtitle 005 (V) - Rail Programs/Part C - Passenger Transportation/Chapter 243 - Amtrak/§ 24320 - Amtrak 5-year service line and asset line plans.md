@@ -36,7 +36,7 @@ Amtrak service lines.—Amtrak shall prepare a 5-year service line plan for each
 
 Contents of 5-year service line plans.—The 5-year service line plan for each service line shall include, at a minimum—
 
-&emsp;&emsp;(A) a statement of Amtrak's objectives, goals, and service plan for the service line, in consultation with any entities that arecontributing capital or operating funding to support passenger rail services within those service lines, and aligned with Amtrak's 5-year asset line plans under subsection (c);
+&emsp;&emsp;(A) a statement of Amtrak's objectives, goals, and service plan for the service line, in consultation with any entities that are contributing capital or operating funding to support passenger rail services within those service lines, and aligned with Amtrak's 5-year asset line plans under subsection (c);
 
 &emsp;&emsp;(B) a detailed description of any plans to permanently change a route's or service's frequency or station stops for the service line;
 
@@ -218,7 +218,7 @@ Standards to Promote Financial Stability.—In preparing plans under this sectio
 
 #### References in Text
 
-The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsecs. (b)(3)(A) and (c)(3)(A), is the date of enactment of titleII of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
+The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsecs. (b)(3)(A) and (c)(3)(A), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 #### Amendments
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-2023-title4",
+ "package": "USCODE-2024-title4",
  "pieces": [
   {
    "id": "4_",
@@ -177,7 +177,7 @@
    "marks": [
     [
      "L",
-     28,
+     6,
      "[Page 10]",
      true
     ]
@@ -217,11 +217,22 @@
   },
   {
    "id": "4_42",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       111,
+       "[Page 11]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - The Seal/§ 00042 - Same; custody and use of.md",
    "printed_pages": [
     10,
-    10
+    11
    ]
   },
   {
@@ -229,27 +240,16 @@
    "marks": [],
    "path": "Chapter 003 - Seat of the Government/README.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
    "id": "4_71",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 11]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Seat of the Government/§ 00071 - Permanent seat of Government.md",
    "printed_pages": [
-    10,
+    11,
     11
    ]
   },
@@ -291,11 +291,22 @@
   },
   {
    "id": "4_102",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 12]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00102 - Same; by whom administered.md",
    "printed_pages": [
     11,
-    11
+    12
    ]
   },
   {
@@ -303,37 +314,33 @@
    "marks": [],
    "path": "Chapter 004 - The States/§ 00103 - Assent to purchase of lands for forts.md",
    "printed_pages": [
-    11,
-    11
+    12,
+    12
    ]
   },
   {
    "id": "4_104",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       481,
-       "[Page 12]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00104 - Tax on motor fuel sold on military or other reservation 1 reports to State taxing authority.md",
    "printed_pages": [
-    11,
+    12,
     12
    ]
   },
   {
    "id": "4_105",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 13]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00105 - State, and so forth, taxation affecting Federal areas; sales or use tax.md",
    "printed_pages": [
     12,
-    12
+    13
    ]
   },
   {
@@ -341,27 +348,16 @@
    "marks": [],
    "path": "Chapter 004 - The States/§ 00106 - Same; income tax.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
    "id": "4_107",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       285,
-       "[Page 13]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00107 - Same; exception of United States, its instrumentalities, and authorized purchases 1 therefrom.md",
    "printed_pages": [
-    12,
+    13,
     13
    ]
   },
@@ -396,14 +392,10 @@
    "id": "4_111",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       318,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Chapter 004 - The States/§ 00111 - Same; taxation affecting Federal employees; income tax.md",
@@ -423,11 +415,22 @@
   },
   {
    "id": "4_113",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       284,
+       "[Page 15]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00113 - Residence of Members of Congress for State income tax laws.md",
    "printed_pages": [
     14,
-    14
+    15
    ]
   },
   {
@@ -435,30 +438,23 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 15]",
+     62,
+     "[Page 16]",
      true
     ]
    ],
    "path": "Chapter 004 - The States/§ 00114 - Limitation on State income taxation of certain pension income.md",
    "printed_pages": [
-    14,
-    15
+    15,
+    16
    ]
   },
   {
    "id": "4_115",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 16]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky.md",
    "printed_pages": [
-    15,
+    16,
     16
    ]
   },
@@ -473,26 +469,26 @@
   },
   {
    "id": "4_117",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00117 - Sourcing rules.md",
-   "printed_pages": [
-    16,
-    16
-   ]
-  },
-  {
-   "id": "4_118",
    "marks": [
     [
      "L",
-     8,
+     6,
      "[Page 17]",
      true
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00118 - Limitations.md",
+   "path": "Chapter 004 - The States/§ 00117 - Sourcing rules.md",
    "printed_pages": [
     16,
+    17
+   ]
+  },
+  {
+   "id": "4_118",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00118 - Limitations.md",
+   "printed_pages": [
+    17,
     17
    ]
   },
@@ -509,10 +505,14 @@
    "id": "4_120",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 18]",
-     true
+     "I",
+     4,
+     [
+      [
+       805,
+       "[Page 18]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00120 - Procedure if no electronic database provided.md",
@@ -532,26 +532,26 @@
   },
   {
    "id": "4_122",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00122 - Determination of place of primary use.md",
-   "printed_pages": [
-    18,
-    18
-   ]
-  },
-  {
-   "id": "4_123",
    "marks": [
     [
      "L",
-     10,
+     14,
      "[Page 19]",
      true
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00123 - Scope; special rules.md",
+   "path": "Chapter 004 - The States/§ 00122 - Determination of place of primary use.md",
    "printed_pages": [
     18,
+    19
+   ]
+  },
+  {
+   "id": "4_123",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00123 - Scope; special rules.md",
+   "printed_pages": [
+    19,
     19
    ]
   },
@@ -559,10 +559,14 @@
    "id": "4_124",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 20]",
-     true
+     "I",
+     44,
+     [
+      [
+       122,
+       "[Page 20]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00124 - Definitions.md",
@@ -591,30 +595,26 @@
   },
   {
    "id": "4_-ch5",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     19,
+     "[Page 21]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/README.md",
    "printed_pages": [
     20,
-    20
+    21
    ]
   },
   {
    "id": "4_141",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       367,
-       "[Page 21]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00141 - Collection, preparation and publication.md",
    "printed_pages": [
-    20,
+    21,
     21
    ]
   },
@@ -629,11 +629,18 @@
   },
   {
    "id": "4_143",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 22]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00143 - Employment and utilization of other personnel; cost of copy reading and indexing.md",
    "printed_pages": [
     21,
-    21
+    22
    ]
   },
   {
@@ -641,27 +648,16 @@
    "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00144 - Cooperation of departments and agencies.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
    "id": "4_145",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 22]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00145 - Printing and distribution.md",
    "printed_pages": [
-    21,
+    22,
     22
    ]
   },
@@ -675,6 +671,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2023-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2024-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

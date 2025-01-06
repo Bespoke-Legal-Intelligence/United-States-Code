@@ -20,7 +20,7 @@ Except as provided in subsection (b), cigarettes or smokeless tobacco products m
 
 #### (b) Exemptions
 
-Cigarettes or smokeless tobacco products satisfying the conditions of any of the followingparagraphs shall not be subject to the requirements of subsection (a):
+Cigarettes or smokeless tobacco products satisfying the conditions of any of the following paragraphs shall not be subject to the requirements of subsection (a):
 
 #### (1) Personal-use cigarettes or smokeless tobacco products
 

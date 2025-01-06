@@ -78,7 +78,7 @@ Subsec. (b)(17)(A). Pub. L. 99–514, §1871(b), substituted "and (6)" for "(6),
 
 Subsec. (c). Pub. L. 99–514, §1301(a), in amending section generally, substituted provision relating to definitions for provision relating to arbitrage.
 
-Subsecs. (d) to (g). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsecs. (d) to (g) which related to certain irrigation dams, qualified scholarship funding bonds, certain federally guaranteed obligations, and qualified steam-generating or alcohol-producing facilities, respectively.
+Subsecs. (d) to (g). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsecs. (d) to (g)which related to certain irrigation dams, qualified scholarship funding bonds, certain federally guaranteed obligations, and qualified steam-generating or alcohol-producing facilities, respectively.
 
 Subsec. (h). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (h) which provided that obligations must not be guaranteed.
 
@@ -377,7 +377,7 @@ Certain bonds for renewable energy property.—The amendments made by this secti
 
 "(7)
 
-Exception for certain downtown redevelopment project.—The amendments made by this section \[amending this section\] shall not apply to any obligation which is issued as part of an issue 95 percent or more of the proceeds of which are to be used to provide a project to acquire and redevelop a downtown area if—
+Exception for certain downtown redevelopment project.—The amendments made by this section\[amending this section\] shall not apply to any obligation which is issued as part of an issue 95 percent or more of the proceeds of which are to be used to provide a project to acquire and redevelop a downtown area if—
 
 &emsp;"(A) on August 15, 1985, a downtown redevelopment authority adopted a resolution to issue obligations for such project,
 
@@ -637,7 +637,7 @@ Exception for certain warrants, etc.—The amendments made by subsection (b) \[e
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title VIII, §811(c), Aug. 13, 1981, 95 Stat. 350, provided that: "The amendments made by this section \[amending this section\] shall apply to obligationsissued after the date of the enactment of this Act \[Aug. 13, 1981\]."
+Pub. L. 97–34, title VIII, §811(c), Aug. 13, 1981, 95 Stat. 350, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 13, 1981\]."
 
 Pub. L. 97–34, title VIII, §812(b)(1), Aug. 13, 1981, 95 Stat. 350, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1980."
 
@@ -673,7 +673,7 @@ Pub. L. 95–600, title III, §332(b), Nov. 6, 1978, 92 Stat. 2840, provided tha
 
 Pub. L. 95–600, title III, §333(b), Nov. 6, 1978, 92 Stat. 2840, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date."
 
-Pub. L. 95–600, title III, §334(c), Nov. 6, 1978, 92 Stat. 2841, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\]."
+Pub. L. 95–600, title III, §334(c), Nov. 6, 1978, 92 Stat. 2841, provided that: "The amendments made by thissection \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
 Pub. L. 95–600, title VII, §703(q)(2), Nov. 6, 1978, 92 Stat. 2944, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to payments made by the Commissioner of Education after December 31, 1976."
 
@@ -815,7 +815,7 @@ Pub. L. 99–514, title XVIII, §1866, Oct. 22, 1986, 100 Stat. 2887, as amended
 
 #### Exception From 1984 Amendment for Downtown Muskogee Revitalization Project
 
-Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made bysection 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
+Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: "The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
 
 &emsp;"(1) such obligation is issued before January 1, 1986, or
 
@@ -903,7 +903,7 @@ Certain Public Utilities.—For purposes of applying section 103(b)(3) of the In
 
 &emsp;"(2) any obligations issued after December 31, 1969, which were treated as obligations described in section 103(a) of such Code on the day on which such obligations were issued,
 
-> the term 'exempt person' shall include a regulated public utility having any customer service area within a State served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 (Public Law 90–364) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, andprovided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting 'and a rural electric cooperative utility' after 'regulated public utility' but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
+> the term 'exempt person' shall include a regulated public utility having any customer service area within a State served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 (Public Law 90–364) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, and provided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting 'and a rural electric cooperative utility' after 'regulated public utility' but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
 
 "(b)
 
@@ -1035,7 +1035,7 @@ Fulfillment of commitments.—Regulations prescribed by the Secretary under para
 
 "(b)
 
-Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—Under regulations prescribed by the Secretary of theTreasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code.
+Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—Under regulations prescribed by the Secretary of the Treasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code.
 
 "(c)
 
@@ -1239,5 +1239,5 @@ Pub. L. 90–364, title I, §107(b)(2), June 28, 1968, 82 Stat. 268, as amended 
 
 &emsp;"(C) any person (other than a governmental unit) who will use the proceeds to be derived from the sale of such obligation or the property to be acquired or improved with such proceeds has expended (or has entered into a binding contract to expend) for purposes which are related to the use of such proceeds or property, an amount equal to or in excess of 20 percent of such proceeds; or
 
-&emsp;"(D) in the case of an obligation issued in conjunction with a project where financial assistance will beprovided by a governmental agency concerned with economic development, such agency has approved the project or an application for financial assistance is pending."
+&emsp;"(D) in the case of an obligation issued in conjunction with a project where financial assistance will be provided by a governmental agency concerned with economic development, such agency has approved the project or an application for financial assistance is pending."
 

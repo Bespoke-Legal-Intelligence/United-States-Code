@@ -20,7 +20,7 @@ The determinations required to be made by the administering authority and the Co
 
 The determination proceedings required to be prescribed under subsection (b) shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with section 1677c of this title on the issues involved.
 
-(June 17, 1930, ch. 497, title VII, §762, as added Pub. L. 98–573, title VI, §611(a)(4), Oct. 30, 1984, 98 Stat. 3032; amended Pub. L. 103–465, title II, §§233(a)(5)(Z), (AA), 270(a)(1)(J), Dec. 8, 1994, 108 Stat. 4900, 4917.)
+(June 17, 1930, ch. 497, title VII, §762, as added Pub. L. 98–573, title VI, §611(a)(4), Oct. 30, 1984, 98 Stat. 3032; amended Pub. L. 103–465, title II,§§233(a)(5)(Z), (AA), 270(a)(1)(J), Dec. 8, 1994, 108 Stat. 4900, 4917.)
 
 #### <b>Editorial Notes</b>
 

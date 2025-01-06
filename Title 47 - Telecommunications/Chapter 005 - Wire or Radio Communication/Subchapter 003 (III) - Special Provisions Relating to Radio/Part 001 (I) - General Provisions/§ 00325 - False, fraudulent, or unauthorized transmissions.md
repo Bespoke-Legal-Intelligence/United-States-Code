@@ -10,7 +10,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(A) with the express authority of the originating station;
 
-&emsp;(B) under section 534 of this title, in the case of a station electing, in accordance with this subsection, to assert the right to carriage under such section; or
+&emsp;(B) under section 534 of this title, in the case of a station electing, in accordance with thissubsection, to assert the right to carriage under such section; or
 
 &emsp;(C) under section 338 of this title, in the case of a station electing, in accordance with this subsection, to assert the right to carriage under such section.
 
@@ -128,7 +128,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (2) Service of complaints on satellite carriers
 
-&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station underthis subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
+&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
 
 #### (3) Answers by satellite carriers
 
@@ -174,7 +174,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (ii) Discovery
 
-&emsp;&emsp;&emsp;The Commission may direct the parties to exchange pertinent documents, and if necessary to take prehearing depositions, on such schedule as the Commission may approve, but only if the Commission first determines that such discovery is necessary to resolve a genuine dispute about material facts, consistent with the obligation to make a final determination within 45 days.
+&emsp;&emsp;&emsp;The Commission may direct the parties to exchange pertinent documents, and if necessary to take prehearing depositions, on such schedule as the Commission mayapprove, but only if the Commission first determines that such discovery is necessary to resolve a genuine dispute about material facts, consistent with the obligation to make a final determination within 45 days.
 
 #### (8) Relief
 
@@ -212,7 +212,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (A) In general
 
-&emsp;&emsp;The nonprevailing party before a United States district court may appeal a decision under this subsection to the United States Court of Appeals with jurisdiction over that district court. The Court of Appeals shall not issue any stay of the effectiveness of any decision granting relief against a satellite carrier unless the carrier presents clear and convincing evidence that it is highly likely to prevail on appeal and only after posting a bond for the full amount of any monetary award assessed against it and for such further amount as the Court of Appeals may believe appropriate.
+&emsp;&emsp;The nonprevailing party before a United States district court may appeal a decision under this subsection to the United States Court of Appeals with jurisdiction over that district court. The Court of Appeals shall not issue any stay of the effectiveness of anydecision granting relief against a satellite carrier unless the carrier presents clear and convincing evidence that it is highly likely to prevail on appeal and only after posting a bond for the full amount of any monetary award assessed against it and for such further amount as the Court of Appeals may believe appropriate.
 
 #### (B) Appeal
 
@@ -334,7 +334,7 @@ Pub. L. 102–385, §28, Oct. 5, 1992, 106 Stat. 1503, provided that: "Except wh
 
 #### Regulations
 
-Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the\[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
+Pub. L. 113–200, title I, §103(e), Dec. 4, 2014, 128 Stat. 2062, provided that: "Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\]."
 
 Pub. L. 108–447, div. J, title IX \[title II, §207(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 

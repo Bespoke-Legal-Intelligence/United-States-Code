@@ -14,7 +14,7 @@ A person shall be eligible for selection for the national service program if the
 
 #### (c) Diverse backgrounds of participants
 
-In selecting persons for the national service program, the Director shall endeavor to ensure that participants are from economically, geographically, and ethnically diverse backgrounds. The Director shall take appropriate steps, including through outreach and recruitment activities, to increase the percentage of participants in the program who are disadvantaged youth to 50 percent of all participants by year 2012. The Director shall report to the authorizing committees biennially on such steps, any challenges faced, and the annual participation rates of disadvantaged youth in the program.
+In selecting persons for the national service program, the Director shall endeavor to ensure that participants are from economically, geographically, and ethnically diverse backgrounds.The Director shall take appropriate steps, including through outreach and recruitment activities, to increase the percentage of participants in the program who are disadvantaged youth to 50 percent of all participants by year 2012. The Director shall report to the authorizing committees biennially on such steps, any challenges faced, and the annual participation rates of disadvantaged youth in the program.
 
 #### (d) Period of participation
 
@@ -40,7 +40,7 @@ Subsec. (b)(1). Pub. L. 111–13, §1503(2), added par. (1) and struck out forme
 
 Subsec. (c). Pub. L. 111–13, §1503(3), substituted "backgrounds" for "backrounds" in heading and inserted at end "The Director shall take appropriate steps, including through outreach and recruitment activities, to increase the percentage of participants in the program who are disadvantaged youth to 50 percent of all participants by year 2012. The Director shall report to the authorizing committees biennially on such steps, any challenges faced, and the annual participation rates of disadvantaged youth in the program."
 
-Subsecs. (d), (e). Pub. L. 111–13, §1503(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: "To theextent practicable, at least 50 percent of the participants in the national service program shall be economically disadvantaged youths."
+Subsecs. (d), (e). Pub. L. 111–13, §1503(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: "To the extent practicable, at least 50 percent of the participants in the national service program shall be economically disadvantaged youths."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §104(e)(2)(A), substituted "section 12612(a)" for "section 12653a(a)".
 

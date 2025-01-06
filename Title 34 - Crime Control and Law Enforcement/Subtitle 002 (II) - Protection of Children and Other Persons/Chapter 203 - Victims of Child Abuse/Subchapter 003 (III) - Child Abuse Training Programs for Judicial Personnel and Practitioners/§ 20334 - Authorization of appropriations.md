@@ -10,7 +10,7 @@ Of the amounts appropriated in subsection (a), not less than 80 percent shall be
 
 #### (c) Limitation
 
-No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611 et seq.) <sup>2</sup>for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
+No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611 et seq.) <sup>2</sup> for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
 (Pub. L. 101–647, title II, §224, Nov. 29, 1990, 104 Stat. 4798; Pub. L. 103–322, title IV, §40156(b)(1), Sept. 13, 1994, 108 Stat. 1923; Pub. L. 106–386, div. B, title III, §1302(b), Oct. 28, 2000, 114 Stat. 1511; Pub. L. 113–4, title XI, §1105, Mar. 7, 2013, 127 Stat. 135; Pub. L. 117–103, div. W, title XIII, §1303, Mar. 15, 2022, 136 Stat. 927.)
 

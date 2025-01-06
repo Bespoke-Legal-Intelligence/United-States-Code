@@ -156,7 +156,7 @@ In this section:
 
 &emsp;The term "sales promotion, marketing, and after-sales service costs" means the costs related to sales promotion, marketing, and after-sales service for the following:
 
-&emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, trade shows, conventions, banners, marketing displays, free samples, sales, marketing, and after-sales service literature (product brochures, catalogs, technical literature, pricelists, service manuals, and sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail charges, and entertainment.
+&emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, trade shows, conventions, banners, marketing displays, free samples, sales, marketing, and after-sales service literature (product brochures, catalogs, technical literature, price lists, service manuals, and sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail charges, and entertainment.
 
 &emsp;&emsp;(B) Sales and marketing incentives, consumer, retailer, or wholesaler rebates, and merchandise incentives.
 
@@ -260,7 +260,7 @@ In this section:
 
 &emsp;&emsp;(A) the good is a good wholly obtained or produced entirely in the territory of one or more USMCA countries;
 
-&emsp;&emsp;(B) the good is produced entirely in the territory of one or more USMCA countriesusing nonoriginating materials, if the good satisfies all applicable requirements set forth in Annex 4–B of the USMCA; or
+&emsp;&emsp;(B) the good is produced entirely in the territory of one or more USMCA countries using nonoriginating materials, if the good satisfies all applicable requirements set forth in Annex 4–B of the USMCA; or
 
 &emsp;&emsp;(C) the good is produced entirely in the territory of one or more USMCA countries, exclusively from originating materials;
 
@@ -418,7 +418,7 @@ nc
 
 &emsp;&emsp;(B) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the good, and subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs, that are included in the portion of the total cost allocated to the good; or
 
-&emsp;&emsp;(C) reasonably allocating each cost that is part of the total cost incurred with respect to the good so that the aggregate of those costs does not include any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs.
+&emsp;&emsp;(C) reasonably allocating each cost that is part of the total cost incurred with respect to the good so that the aggregate of those costs does not include any sales promotion,marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs.
 
 #### (8) Value of materials used in production
 
@@ -494,7 +494,7 @@ nc
 
 &emsp;Paragraph (1) does not apply to the following:
 
-&emsp;&emsp;(A) A nonoriginating material of headings 0401 through 0406, or a nonoriginating dairy preparation containing over 10 percent by dry weight of milk solids of subheading 1901.90 or 2106.90, used or consumed in the production of a good of headings 0401 through 0406.
+&emsp;&emsp;(A) A nonoriginating material of headings 0401 through 0406, or a nonoriginating dairypreparation containing over 10 percent by dry weight of milk solids of subheading 1901.90 or 2106.90, used or consumed in the production of a good of headings 0401 through 0406.
 
 &emsp;&emsp;(B) A nonoriginating material of headings 0401 through 0406, or nonoriginating dairy preparation containing over 10 percent by dry weight of milk solids of subheading 1901.90 or 2106.90, used or consumed in the production of any of the following goods:
 
@@ -558,7 +558,7 @@ nc
 
 #### (1) Fungible materials used in production
 
-&emsp;Subject to paragraph (3), if originating and nonoriginating fungible materials are used or consumed in the production of a good, the determination of whether the materials are originating may be made on the basis of any of the inventory management methods set forth in regulations implementing this section.
+&emsp;Subject to paragraph (3), if originating and nonoriginating fungible materials are used orconsumed in the production of a good, the determination of whether the materials are originating may be made on the basis of any of the inventory management methods set forth in regulations implementing this section.
 
 #### (2) Fungible goods commingled and exported
 

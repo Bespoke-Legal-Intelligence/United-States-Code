@@ -36,7 +36,7 @@ Best Practices Research.—In carrying out the comprehensive program, the Secret
 
 (f)
 
-Sexual Trauma Research.—In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for covered individuals who have experiencedsexual trauma while in military service. The research design shall include consideration of veterans or members of a reserve component.
+Sexual Trauma Research.—In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for covered individuals who have experienced sexual trauma while in military service. The research design shall include consideration of veterans or members of a reserve component.
 
 (g) 24-
 
@@ -66,7 +66,7 @@ Outreach and Education.—In carrying out the comprehensive program, the Secreta
 
 (j)
 
-Peer Support Counseling Program.—(1) In carrying out the comprehensive program, the Secretary shall establish and carry out a peer support counseling program, under which covered individuals shall be permitted to volunteer as peer counselors—
+Peer Support Counseling Program.—(1) In carrying out the comprehensive program, theSecretary shall establish and carry out a peer support counseling program, under which covered individuals shall be permitted to volunteer as peer counselors—
 
 &emsp;(A) to assist other covered individuals with issues related to mental health and readjustment; and
 
@@ -242,7 +242,7 @@ Submittal of results.—The Secretary shall submit to the Office of Mental Healt
 
 &emsp;"(3)
 
-Application of themes or lessons.—The Secretary shall apply any themes or lessons learnedunder an analysis under paragraph (1) to updating training and standards of practice for staff of the Veterans Crisis Line.
+Application of themes or lessons.—The Secretary shall apply any themes or lessons learned under an analysis under paragraph (1) to updating training and standards of practice for staff of the Veterans Crisis Line.
 
 #### "SEC. 213. GUIDANCE FOR HIGH-RISK CALLERS.
 
@@ -868,7 +868,7 @@ Family.—The term 'family' means, with respect to an eligible individual, any o
 
 &emsp;"(7)
 
-Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4 of the NativeAmerican Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
 
 &emsp;"(8)
 
@@ -1042,7 +1042,7 @@ In General.—In the first publication of the Department of Veterans Affairs and
 
 "(b)
 
-Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that thefinal clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
+Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that the final clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
 
 #### Contracts Related to Suicide Prevention and Mental Health Outreach Media
 
@@ -1090,7 +1090,7 @@ In general.—The Secretary shall include in each contract described in paragrap
 
 &emsp;&emsp;"(B)
 
-Budget limitation.—Not more than two percent of the budget of the Office of Mental Health and Suicide Prevention of the Department for contractors for suicide prevention and mental health media outreach shall go to subcontractors described in subparagraph (A).
+Budget limitation.—Not more than two percent of the budget of the Office of Mental Healthand Suicide Prevention of the Department for contractors for suicide prevention and mental health media outreach shall go to subcontractors described in subparagraph (A).
 
 "(f)
 
@@ -1186,7 +1186,7 @@ Report on Use of Funds by Office of Mental Health and Suicide Prevention.—Not 
 
 #### Staffing Requirement for Suicide Prevention Coordinators
 
-Pub. L. 116–171, title V, §506(a), Oct. 17, 2020, 134 Stat. 820, provided that: "Beginning not later than one year after the date of the enactment of this Act \[Oct. 17,2020\], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has not less than one suicide prevention coordinator."
+Pub. L. 116–171, title V, §506(a), Oct. 17, 2020, 134 Stat. 820, provided that: "Beginning not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has not less than one suicide prevention coordinator."
 
 #### Funding for Peer Support Counseling for Women Veterans
 
@@ -1216,7 +1216,7 @@ Director of Suicide Prevention Coordination.—The Secretary shall select within
 
 #### Deadline for Commencement of Program
 
-Pub. L. 112–239, div. A, title VII, §730(a)(4), Jan. 2, 2013, 126 Stat. 1814, provided that: "The Secretary of Veterans Affairs shall ensure that the peer support counseling program required by section 1720F(j) of title 38, United States Code, as amended by this subsection, commences at each Department of Veterans Affairs medical center not later than 270 days after the date of the enactment of this Act \[Jan. 2, 2013\]."
+Pub. L. 112–239, div. A, title VII, §730(a)(4), Jan. 2, 2013, 126 Stat. 1814, provided that: "The Secretary ofVeterans Affairs shall ensure that the peer support counseling program required by section 1720F(j) of title 38, United States Code, as amended by this subsection, commences at each Department of Veterans Affairs medical center not later than 270 days after the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Sense of Congress
 

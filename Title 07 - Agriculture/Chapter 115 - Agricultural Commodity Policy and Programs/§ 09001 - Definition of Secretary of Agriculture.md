@@ -28,6 +28,142 @@ Pub. L. 113–79, §1(a), Feb. 7, 2014, 128 Stat. 649, provided that: "This Act 
 
 #### Extension of Agricultural Programs
 
+Pub. L. 118–158, div. D, §4101(a)–(c)(1), (e)–(g), Dec. 21, 2024, 138 Stat. 1767–1771, provided that:
+
+"(a)
+
+Extension.—
+
+&emsp;"(1)
+
+In general.—Except as otherwise provided in this section \[amending sections 1736f–1, 8110, 8772, 9016, 9038, and 9059 of this title and enacting provisions set out as notes under sections 9057 and 9092 of this title\] and the amendments made by this section, notwithstanding any other provision of law, the authorities (including any limitations on such authorities) provided by each provision of the Agriculture Improvement Act of 2018 (Public Law 115–334; 132 Stat. 4490) \[see Tables for classification\] and each provision of law amended by that Act (and for mandatory programs at such funding levels) as in effect (including pursuant to section 102 of division B of the Further Continuing Appropriations and Other Extensions Act, 2024 (Public Law 118–22)) \[see note below and see Tables for classification\] on September 30, 2024, shall continue and be carried out until the date specified in paragraph (2).
+
+&emsp;"(2)
+
+Date specified.—With respect to an authority described in paragraph (1), the date specified in this paragraph is the later of—
+
+&emsp;&emsp;"(A) September 30, 2025;
+
+&emsp;&emsp;"(B) the date specified with respect to such authority in the Agriculture Improvement Act of 2018 (Public Law 115–334; 132 Stat. 4490) or a provision of law amended by that Act (Public Law 115–334; 132 Stat. 4490); or
+
+&emsp;&emsp;"(C) the date in effect with respect to such authority pursuant to section 102 of division B of the Further Continuing Appropriations and Other Extensions Act, 2024 (Public Law 118–22)) \[sic\].
+
+"(b)
+
+Discretionary Programs.—Programs carried out using the authorities described in subsection (a)(1) that are funded by discretionary appropriations (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c))) shall be subject to the availability of appropriations.
+
+"(c)
+
+Commodity Programs.—
+
+&emsp;"(1)
+
+In general.—The provisions of law applicable to a covered commodity (as defined in section 1111 of the Agricultural Act of 2014 (7 U.S.C. 9011)), a loan commodity (as defined in section 1201 of that Act (7 U.S.C. 9031)), sugarcane, or sugar beets for the 2024 crop year pursuant to title I of that Act (7 U.S.C. 9011 et seq.), each amendment made by subtitle C \[§1301\] of title I of the Agriculture Improvement Act of 2018 (Public Law 115–334; 132 Stat. 4511) \[amending sections 1359bb, 1359ll, and 7272 of this title\], and section 102 of division B of the Further Continuing Appropriations and Other Extensions Act, 2024 (Public Law 118–22) \[see Tables for classification\] shall be applicable to the 2025 crop year for that covered commodity, loan commodity, sugarcane, or sugar beets.
+
+"(e)
+
+Exceptions.—
+
+&emsp;"(1)
+
+Commodities.—Subsection (a) does not apply with respect to mandatory funding under the following provisions of law:
+
+&emsp;&emsp;"(A) Section 1614(c)(4) of the Agricultural Act of 2014 (7 U.S.C. 9097(c)(4)).
+
+&emsp;&emsp;"(B) Section 12314(h) of the Agricultural Act of 2014 (7 U.S.C. 2101 note; Public Law 113–79).
+
+&emsp;&emsp;"(C) Section 12315(f) of the Agricultural Act of 2014 (7 U.S.C. 7101 note; Public Law 113–79).
+
+&emsp;&emsp;"(D) Section 12316(a) of the Agricultural Act of 2014 (7 U.S.C. 7101 note; Public Law 113–79).
+
+&emsp;"(2)
+
+Conservation.—
+
+&emsp;&emsp;"(A)
+
+Mandatory funding.—Subsection (a) does not apply with respect to mandatory funding under the following provisions of law for fiscal years 2024 and 2025:
+
+&emsp;&emsp;&emsp;"(i) Section 1240O(b)(3) of the Food Security Act of 1985 (16 U.S.C. 3839bb–2(b)(3)).
+
+&emsp;&emsp;&emsp;"(ii) Section 1240R(f)(1) of the Food Security Act of 1985 (16 U.S.C. 3839bb–5(f)(1)).
+
+&emsp;&emsp;&emsp;"(iii) Subparagraphs (A) and (B) of section 1241(a)(1) of the Food Security Act of 1985 (16 U.S.C. 3841(a)(1)).
+
+&emsp;&emsp;&emsp;"(iv) Section 2408(g)(1) of the Agriculture Improvement Act of 2018 \[Pub. L. 115–334\] (7 U.S.C. 8351 note).
+
+&emsp;&emsp;"(B)
+
+Limitations.—Subsection (a) does not apply with respect to limitations under the following provisions of law:
+
+&emsp;&emsp;&emsp;"(i) Section 1240G of the Food Security Act of 1985 (16 U.S.C. 3839aa–7).
+
+&emsp;&emsp;&emsp;"(ii) Section 1240L(f) of the Food Security Act of 1985 (16 U.S.C. 3839aa–24(f)).
+
+&emsp;"(3)
+
+Nutrition.—Subsection (a) does not apply with respect to the mandatory funding in section 203D(d)(5) of the Emergency Food Assistance Act of 1983 (7 U.S.C. 7507(d)(5)).
+
+&emsp;"(4)
+
+Rural development.—Subsection (a) does not apply with respect to the mandatory funding in section 313B(e)(2) of the Rural Electrification Act of 1936 (7 U.S.C. 940c–2(e)(2)).
+
+&emsp;"(5)
+
+Research.—Subsection (a) does not apply with respect to mandatory funding under the following provisions of law:
+
+&emsp;&emsp;"(A) Section 1446(b)(1) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222a(b)(1)).
+
+&emsp;&emsp;"(B) Section 1672E(d)(1) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925g(d)(1)).
+
+&emsp;&emsp;"(C) Section 7601(g)(1)(A) of the Agricultural Act of 2014 (7 U.S.C. 5939(g)(1)(A)).
+
+&emsp;"(6)
+
+Energy.—Subsection (a) does not apply with respect to mandatory funding under the following provisions of law:
+
+&emsp;&emsp;"(A) Section 9002(k)(1) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8102(k)(1)).
+
+&emsp;&emsp;"(B) Section 9003(g)(1)(A) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8103(g)(1)(A)).
+
+&emsp;&emsp;"(C) Section 9005(g)(1) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8105(g)(1)).
+
+&emsp;"(7)
+
+Horticulture.—Subsection (a) does not apply with respect to mandatory funding under the following provisions of law:
+
+&emsp;&emsp;"(A) Section 7407(d)(1) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 5925c(d)(1)).
+
+&emsp;&emsp;"(B) Section 2123(c)(4) of the Organic Foods Production Act of 1990 (7 U.S.C. 6522(c)(4)).
+
+&emsp;&emsp;"(C) Section 10606(d)(1)(C) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 6523(d)(1)(C)).
+
+&emsp;&emsp;"(D) Section 10109(c)(1) of the Agriculture Improvement Act of 2018 (Public Law 115–334) \[132 Stat. 4907\].
+
+&emsp;"(8)
+
+Miscellaneous.—Subsection (a) does not apply with respect to mandatory funding under the following provisions of law:
+
+&emsp;&emsp;"(A) Section 209(c) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1627a(c)).
+
+&emsp;&emsp;"(B) Section 12605(d) of the Agriculture Improvement Act of 2018 \[Pub. L. 115–334\] (7 U.S.C. 7632 note).
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), any requirement under a provision of law described in paragraph (1) of subsection (a) to submit a report on a recurring basis, and the final report under which was required to be submitted during fiscal year 2024, shall continue, and the requirement shall be carried out, on the same recurring basis, until the later of the dates specified in paragraph (2) of that subsection.
+
+&emsp;"(2)
+
+Appropriations required.—If discretionary appropriations (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c))) are required to carry out a reporting requirement described in paragraph (1), the application of that paragraph to that reporting requirement shall be subject to the availability of appropriations.
+
+"(g)
+
+Effective Date.—This section and the amendments made by this section shall be applied and administered as if this section and those amendments had been enacted on September 30, 2024."
+
 Pub. L. 118–22, div. B, title I, §102(a)–(c)(1), (d)(9), (e), (g), Nov. 17, 2023, 137 Stat. 114, 115, 119, provided that:
 
 "(a)

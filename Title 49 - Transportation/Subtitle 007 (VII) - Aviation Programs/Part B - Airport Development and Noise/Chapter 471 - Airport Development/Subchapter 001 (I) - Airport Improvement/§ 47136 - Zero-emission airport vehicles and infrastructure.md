@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation may establish a pilot program unde
 
 &emsp;(1) activities associated with the acquisition, by purchase or lease, and operation of eligible zero-emission vehicles and equipment, including removable power sources for such vehicles; and
 
-&emsp;(2) the construction or modification of infrastructure to facilitate the delivery of fuel,power or services necessary for the use of such vehicles.
+&emsp;(2) the construction or modification of infrastructure to facilitate the delivery of fuel, power or services necessary for the use of such vehicles.
 
 (b)
 
@@ -22,7 +22,11 @@ Eligibility.—A public-use airport is eligible for participation in the program
 
 (c)
 
-Selection Criteria.—In selecting from among applicants for participation in the program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the program.
+Selection Criteria.—In selecting from among applicants for participation in the program, the Secretary shall give priority consideration to applicants that—
+
+&emsp;(1) will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the program; and
+
+&emsp;(2) provide a long-term management plan for eligible vehicles and equipment that includes the existing and future infrastructure requirements of the airport related to such vehicles and equipment.
 
 (d)
 
@@ -100,7 +104,7 @@ Zero-emission vehicle.—The term "zero-emission vehicle" means—
 
 &emsp;&emsp;(B) a vehicle that produces zero exhaust emissions of any criteria pollutant (or precursor pollutant) under any possible operational modes and conditions.
 
-(Added Pub. L. 112–95, title V, §511(a), Feb. 14, 2012, 126 Stat. 107, §47136a; renumbered §47136 and amended Pub. L. 115–254, div. B, title I, §§166(b)(1), 192(a), Oct. 5, 2018, 132 Stat. 3226, 3239.)
+(Added Pub. L. 112–95, title V, §511(a), Feb. 14, 2012, 126 Stat. 107, §47136a; renumbered §47136 and amended Pub. L. 115–254, div. B, title I, §§166(b)(1), 192(a), Oct. 5, 2018, 132 Stat. 3226, 3239; Pub. L. 118–63, title VII, §722, May 16, 2024, 138 Stat. 1265.)
 
 #### <b>Editorial Notes</b>
 
@@ -109,6 +113,8 @@ Zero-emission vehicle.—The term "zero-emission vehicle" means—
 A prior section 47136, added Pub. L. 106–181, title I, §133(a), Apr. 5, 2000, 114 Stat. 81; amended Pub. L. 112–95, title V, §511(d), Feb. 14, 2012, 126 Stat. 108, related to inherently low-emission airport vehicle pilot program, prior to repeal by Pub. L. 115–254, div. B, title I, §166(a), Oct. 5, 2018, 132 Stat. 3226.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–63 inserted dash after "applicants that" and par (1) designation before "will", substituted "; and" for period at end, and added par. (2).
 
 <b>2018</b>—Pub. L. 115–254, §166(b)(1), renumbered section 47136a of this title as this section.
 

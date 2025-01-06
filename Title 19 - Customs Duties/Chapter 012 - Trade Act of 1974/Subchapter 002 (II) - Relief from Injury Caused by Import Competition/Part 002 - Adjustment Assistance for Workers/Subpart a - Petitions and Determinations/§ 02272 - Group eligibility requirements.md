@@ -10,7 +10,7 @@ A group of workers (including workers in any agricultural firm or subdivision of
 
 &emsp;(ii) imports of articles like or directly competitive with articles produced by such firm or subdivision have increased; and
 
-&emsp;(iii) the increase in imports described in clause (ii) contributed importantly to such workers' separation or threat of separation and to the decline in the sales or production of such firm or subdivision; or
+&emsp;(iii) the increase in imports described in clause (ii) contributed importantly to suchworkers' separation or threat of separation and to the decline in the sales or production of such firm or subdivision; or
 
 &emsp;(B)(i) there has been a shift in production by such workers' firm or subdivision to a foreign country of articles like or directly competitive with articles which are produced by such firm or subdivision; and
 
@@ -72,7 +72,7 @@ The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(2)(B)(ii)(
 
 Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates of 2015 Revival note below.
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarilyrevived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Amendment made by Pub. L. 113–128 was effective July 1, 2015, and was executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
 
@@ -174,7 +174,7 @@ Subsec. (c)(3), (4). Pub. L. 107–210, §113(b)(2), added pars. (3) and (4).
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "assistance under this subpart" for "assistance under this part".
 
-<b>1988</b>—Pub. L. 100–418, §1421(a)(1)(A), struck out last sentence which defined "contributed importantly" forpurposes of par. (3), designated remaining provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–418, §1421(a)(1)(A), struck out last sentence which defined "contributed importantly" for purposes of par. (3), designated remaining provisions as subsec. (a), and added subsec. (b).
 
 Subsec. (a)(3). Pub. L. 100–418, §1421(b)(1), directed the general amendment of par. (3) adding provisions relating to provision of essential goods or services by such workers' firm, or appropriate subdivision thereof, which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 

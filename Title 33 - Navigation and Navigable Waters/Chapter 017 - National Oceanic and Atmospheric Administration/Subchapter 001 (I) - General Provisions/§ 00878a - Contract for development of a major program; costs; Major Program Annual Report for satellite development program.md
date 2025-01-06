@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (c) Reports
 
-(1) Annually, at the same time as the President's annual budget submission to the Congress, the Under Secretary shall transmit to the appropriate congressional committees a report that includes the information required by this section for the satellite development program for which NOAA proposes to expend funds in the subsequent fiscal year. The report under this paragraph shall be known as the Major Program Annual Report.
+(1) Annually, at the same time as the President's annual budget submission to the Congress, the Under Secretary shall transmit to the appropriate congressional committees a report that includes the information required by this section for the satellite development program for which NOAA proposes to expend funds in the subsequent fiscal year. The report under thisparagraph shall be known as the Major Program Annual Report.
 
 (2) The first Major Program Annual Report for NOAA's satellite development program shall include a Baseline Report that shall, at a minimum, include—
 
@@ -114,9 +114,11 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
 #### Requirements Adopted by Reference
 
-Pub. L. 117–328, div. B, title I, §104, Dec. 29, 2022, 136 Stat. 4519, provided in part that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2023".
+Pub. L. 118–42, div. C, title I, §104, Mar. 9, 2024, 138 Stat. 130, provided in part that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) \[33 U.S.C. 878a\], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2024".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. B, title I, §104, Dec. 29, 2022, 136 Stat. 4519.
 
 Pub. L. 117–103, div. B, title I, §104, Mar. 15, 2022, 136 Stat. 111.
 

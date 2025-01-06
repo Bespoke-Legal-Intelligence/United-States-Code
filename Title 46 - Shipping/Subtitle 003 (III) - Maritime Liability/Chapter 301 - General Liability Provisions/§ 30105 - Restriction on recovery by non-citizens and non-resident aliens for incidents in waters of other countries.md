@@ -12,7 +12,7 @@ Restriction.—Except as provided in subsection (c), a civil action for maintena
 
 &emsp;(2) the incident occurred in the territorial waters or waters overlaying the continental shelf of a country other than the United States; and
 
-&emsp;(3) the individual suffering the injury or death was employed at the time of the incident by a person engaged in the exploration, development, or production of offshore mineral or energy resources, including drilling, mapping, surveying, diving, pipelaying, maintaining, repairing, constructing, or transporting supplies, equipment, or personnel, butnot including transporting those resources by a vessel constructed or adapted primarily to carry oil in bulk in the cargo spaces.
+&emsp;(3) the individual suffering the injury or death was employed at the time of the incident by a person engaged in the exploration, development, or production of offshore mineral or energy resources, including drilling, mapping, surveying, diving, pipelaying, maintaining, repairing, constructing, or transporting supplies, equipment, or personnel, but not including transporting those resources by a vessel constructed or adapted primarily to carry oil in bulk in the cargo spaces.
 
 (c)
 

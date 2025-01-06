@@ -2,7 +2,7 @@
 
 In accordance with regulations prescribed by the Secretary—
 
-&emsp;(1) the group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
+&emsp;(1) the group health plan shall provide, at the time of commencement of coverage underthe plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
 
 &emsp;(2) the employer of an employee under a plan must notify the plan administrator of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title within 30 days of the date of the qualifying event,
 

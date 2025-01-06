@@ -42,13 +42,15 @@
 | [1060\.](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md) | Military service of retired members with newly democratic nations: consent of Congress. |
 | [1060a.](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md) | Special supplemental food program. |
 | [1060b.](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md) | Military ID cards: dependents and survivors of retirees. |
-| [1060c.](%C2%A7%2001060c%20-%20Provision%20of%20veterinary%20services%20in%20emergencies.md) | Provision of veterinary services in emergencies. |
+| [1060c.](%C2%A7%2001060c%20-%20Provision%20of%20veterinary%20services.md) | Provision of veterinary services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title VII, §733(1), Dec. 23, 2024, 138 Stat. 1956, struck out "in emergencies" after "veterinary services" in item 1060c. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title VI, §632(1), Dec. 22, 2023, 137 Stat. 296, inserted "; lodging expenses" after "benefits" in item 1059. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -144,9 +146,25 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Promotion of Tax Preparation Assistance Programs
+
+Pub. L. 118–159, div. A, title VI, §653, Dec. 23, 2024, 138 Stat. 1939, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall ensure that each member of a covered Armed Force receives, not later than March 1 of each year, via email or other electronic means, a notice regarding the MilTax program and other tax preparation assistance programs furnished by the Secretary.
+
+"(b)
+
+Report.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding the rates of participation by members of the covered Armed Forces in the programs described in subsection (a).
+
+"(c)
+
+Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, or Space Force."
+
 #### Flexible Workplace Programs
 
-Pub. L. 117–263, div. A, title XI, §1107, Dec. 23, 2022, 136 Stat. 2818, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall promulgate guidance to the military departments to promote consistency in policies relating to flexible workplace programs. Such guidance shall address at a minimum the conditions under which an employee is allowed to perform all or a portion of assigned duties—
+Pub. L. 117–263, div. A, title XI, §1107, Dec. 23, 2022, 136 Stat. 2818, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall promulgate guidance to the military departments to promote consistency in policies relating to flexible workplace programs. Suchguidance shall address at a minimum the conditions under which an employee is allowed to perform all or a portion of assigned duties—
 
 &emsp;"(1) at a telecommuting center established pursuant to statute; or
 
@@ -396,4 +414,4 @@ Contingency Operation Defined.—In this section, the term 'contingency operatio
 - [&sect; 01060 - Military service of retired members with newly democratic nations consent of Congress](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md)
 - [&sect; 01060a - Special supplemental food program](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md)
 - [&sect; 01060b - Military ID cards dependents and survivors of retirees](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees.md)
-- [&sect; 01060c - Provision of veterinary services in emergencies](%C2%A7%2001060c%20-%20Provision%20of%20veterinary%20services%20in%20emergencies.md)
+- [&sect; 01060c - Provision of veterinary services](%C2%A7%2001060c%20-%20Provision%20of%20veterinary%20services.md)

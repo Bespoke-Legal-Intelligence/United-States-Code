@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;An adversely affected worker covered by a certification issued under subpart A of thispart may file an application with the Secretary for payment of a job search allowance.
+&emsp;An adversely affected worker covered by a certification issued under subpart A of this part may file an application with the Secretary for payment of a job search allowance.
 
 #### (2) Approval of applications
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after June 30, 2022, except as otherwise provided, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after June 30, 2022, except as otherwiseprovided, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 

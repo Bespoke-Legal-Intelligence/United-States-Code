@@ -10,7 +10,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 ### Middle District
 
-(b) The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre,Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.
+(b) The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre, Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.
 
 &emsp;&emsp;Court for the Middle District shall be held at Harrisburg, Lewisburg, Scranton, Wilkes-Barre, and Williamsport.
 

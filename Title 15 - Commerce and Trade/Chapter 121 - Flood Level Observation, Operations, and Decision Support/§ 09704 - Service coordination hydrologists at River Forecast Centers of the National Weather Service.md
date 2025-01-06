@@ -20,7 +20,7 @@ The primary role of the service coordination hydrologist shall be to carry out t
 
 &emsp;Subject to paragraph (2), consistent with the analysis described in section 409 of the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25; 131 Stat. 112), and in order to increase impact-based decision support services, each service coordination hydrologist designated under subsection (a) shall, with respect to hydrology—
 
-&emsp;&emsp;(A) be responsible for providing service to the geographic area of responsibility covered by the River Forecast Center at which theservice coordination hydrologist is employed to help ensure that users of products and services of the National Weather Service can respond effectively to improve outcomes from flood events;
+&emsp;&emsp;(A) be responsible for providing service to the geographic area of responsibility covered by the River Forecast Center at which the service coordination hydrologist is employed to help ensure that users of products and services of the National Weather Service can respond effectively to improve outcomes from flood events;
 
 &emsp;&emsp;(B) liaise with users of products and services of the National Weather Service, such as the public, academia, media outlets, users in the hydropower, transportation, recreation, and agricultural communities, and forestry, land, fisheries, and water management interests, to evaluate the adequacy and usefulness of the products and services of the National Weather Service;
 

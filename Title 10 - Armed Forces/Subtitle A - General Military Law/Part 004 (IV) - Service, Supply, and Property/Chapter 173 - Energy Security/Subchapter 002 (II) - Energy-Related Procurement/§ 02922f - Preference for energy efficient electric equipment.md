@@ -72,5 +72,5 @@ General Provisions for Demonstration Programs.—(1) The Secretary of Defense sh
 
 "(3) The audits required by subsections (b)(3) and (c)(3) shall be completed not later than January 1, 1994.
 
-"(4) The head of a facility may not carry out a conversion described in subsection (b)(4) or (c)(4) if the conversion prevents the head of the facility from carrying out other improvements relating to energy efficiency that are more cost effective than that conversion."
+"(4) The head of a facility may not carry out a conversion described in subsection (b)(4) or (c)(4) if theconversion prevents the head of the facility from carrying out other improvements relating to energy efficiency that are more cost effective than that conversion."
 

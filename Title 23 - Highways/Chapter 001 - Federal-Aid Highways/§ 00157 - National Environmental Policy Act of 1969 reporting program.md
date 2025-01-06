@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Categorical exclusion.—The term "categorical exclusion" has the meaning given theterm in section 771.117(c) of title 23, Code of Federal Regulations (or a successor regulation).
+Categorical exclusion.—The term "categorical exclusion" has the meaning given the term in section 771.117(c) of title 23, Code of Federal Regulations (or a successor regulation).
 
 &emsp;(2)
 
@@ -74,7 +74,7 @@ Information described.—The information referred to in paragraph (1) is, with r
 
 &emsp;&emsp;(C) the number of proposed actions pending on the date on which the report is submitted for which the issuance of a documented categorical exclusion by the Department of Transportation is pending;
 
-&emsp;&emsp;(D) the number of proposed actions for which an environmental assessment was issued by the Department of Transportation during the reporting period;
+&emsp;&emsp;(D) the number of proposed actions for which an environmental assessment wasissued by the Department of Transportation during the reporting period;
 
 &emsp;&emsp;(E) the length of time the Department of Transportation took to complete each environmental assessment described in subparagraph (D);
 
@@ -102,7 +102,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(6), (7
 
 #### Prior Provisions
 
-A prior section 157, added Pub. L. 105–178, title I, §1403(a), June 9, 1998, 112 Stat. 237; amended Pub. L. 108–88, §6(a)(1), Sept. 30, 2003, 117 Stat. 1119; Pub. L. 108–202, §6(a), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §5(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §5(a), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §5(a), July 30, 2004, 118 Stat. 881; Pub. L. 108–310, §6(a)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–14, §5(a)(1), May 31, 2005,119 Stat. 329; Pub. L. 109–20, §5(a)(1), July 1, 2005, 119 Stat. 351; Pub. L. 109–35, §5(a)(1), July 20, 2005, 119 Stat. 384; Pub. L. 109–37, §5(a)(1), July 22, 2005, 119 Stat. 399; Pub. L. 109–40, §5(a)(1), July 28, 2005, 119 Stat. 415; Pub. L. 109–59, title I, §1406, Aug. 10, 2005, 119 Stat. 1231, related to safety incentive grants for use of seat belts, prior to repeal by Pub. L. 112–141, §3(a), div. A, title I, §1519(b)(1)(A), July 6, 2012, 126 Stat. 413, 575, effective Oct. 1, 2012.
+A prior section 157, added Pub. L. 105–178, title I, §1403(a), June 9, 1998, 112 Stat. 237; amended Pub. L. 108–88, §6(a)(1), Sept. 30, 2003, 117 Stat. 1119; Pub. L. 108–202, §6(a), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §5(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §5(a), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §5(a), July 30, 2004, 118 Stat. 881; Pub. L. 108–310, §6(a)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–14, §5(a)(1), May 31, 2005, 119 Stat. 329; Pub. L. 109–20, §5(a)(1), July 1, 2005, 119 Stat. 351; Pub. L. 109–35, §5(a)(1), July 20, 2005, 119 Stat. 384; Pub. L. 109–37, §5(a)(1), July 22, 2005, 119 Stat. 399; Pub. L. 109–40, §5(a)(1), July 28, 2005, 119 Stat. 415; Pub. L. 109–59, title I, §1406, Aug. 10, 2005, 119 Stat. 1231, related to safety incentive grants for use of seat belts, prior to repeal by Pub. L. 112–141, §3(a), div. A, title I, §1519(b)(1)(A), July 6, 2012, 126 Stat. 413, 575, effective Oct. 1, 2012.
 
 Another prior section 157, added Pub. L. 97–424, title I, §150(a), Jan. 6, 1983, 96 Stat. 2131; amended Pub. L. 99–272, title IV, §4102(f), Apr. 7, 1986, 100 Stat. 113; Pub. L. 100–17, title I, §§105(h), 124, Apr. 2, 1987, 101 Stat. 144, 164; Pub. L. 102–240, title I, §§1002(h), 1013(a), (b), Dec. 18, 1991, 105 Stat. 1918, 1940; Pub. L. 103–272, §5(f)(3), July 5, 1994, 108 Stat. 1374, related to minimum allocations to States, prior to repeal by Pub. L. 105–178, title I, §1403(a), June 9, 1998, 112 Stat. 237.
 

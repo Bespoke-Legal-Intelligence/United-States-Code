@@ -8,7 +8,7 @@ The Secretary, acting through the Assistant Secretary, in carrying out the respo
 
 &emsp;(3) have the authority to establish or contract with 1 or more federally funded research and development centers to provide independent analysis of homeland security issues and carry out other responsibilities under this subchapter.
 
-(Pub. L. 107–296, title XIX, §1926, formerly title XVIII, §1806, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1935; renumbered title XIX, §1906, and amended Pub. L. 110–53, title I, §104(a)(1), (2), (4), Aug. 3, 2007, 121 Stat. 294; renumbered §1926 and amended Pub. L. 115–387, §2(a)(5), (8), Dec. 21, 2018, 132 Stat. 5163, 5164.)
+(Pub. L. 107–296, title XIX, §1926, formerly title XVIII, §1806, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1935; renumbered title XIX, §1906, and amended Pub. L. 110–53,title I, §104(a)(1), (2), (4), Aug. 3, 2007, 121 Stat. 294; renumbered §1926 and amended Pub. L. 115–387, §2(a)(5), (8), Dec. 21, 2018, 132 Stat. 5163, 5164.)
 
 #### <b>Editorial Notes</b>
 

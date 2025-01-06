@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) to the extent provided in regulations, of interest on instruments similar to those described in subparagraph (A).
 
-> &emsp;The preceding sentence shall not apply for purposes of determining whether there ispayee underreporting described in subsection (c).
+> &emsp;The preceding sentence shall not apply for purposes of determining whether there is payee underreporting described in subsection (c).
 
 #### (c) Notified payee underreporting with respect to interest and dividends
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Subsection (a)(1)(D) shall apply to any reportable interest or dividend payment toany payee on any readily tradable instrument if (and only if) the payor was notified by a broker under subparagraph (B) or no certification was provided to the payor by the payee under paragraph (1) and—
+&emsp;&emsp;Subsection (a)(1)(D) shall apply to any reportable interest or dividend payment to any payee on any readily tradable instrument if (and only if) the payor was notified by a broker under subparagraph (B) or no certification was provided to the payor by the payee under paragraph (1) and—
 
 &emsp;&emsp;&emsp;(i) such instrument was acquired directly by the payee from the payor, or
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the determination effective date of any determination under subsection (c)(3)(A) whichis made during the 12-month period ending on October 15 of any calendar year shall be the first January 1 following such October 15.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the determination effective date of any determination under subsection (c)(3)(A) which is made during the 12-month period ending on October 15 of any calendar year shall be the first January 1 following such October 15.
 
 #### (ii) Determination that there was no underreporting; hardship
 
@@ -446,7 +446,7 @@ Pub. L. 110–289, div. C, title III, §3091(e), July 30, 2008, 122 Stat. 2911, 
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6050W of this title and amending this section and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting section 6050W of this title and amending this section and section 6724 of this title\] shall apply to returns for calendar years beginning after December 31, 2010.
 
 "(2)
 
@@ -466,7 +466,7 @@ Eligibility for tin matching program.—Solely for purposes of carrying out any 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and referencesto income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 

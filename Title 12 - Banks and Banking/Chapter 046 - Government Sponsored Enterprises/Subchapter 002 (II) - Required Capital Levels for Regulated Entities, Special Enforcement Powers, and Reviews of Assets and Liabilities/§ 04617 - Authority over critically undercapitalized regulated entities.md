@@ -102,7 +102,7 @@
 
 #### (C) Determination not required if receivership already in place
 
-&emsp;&emsp;Subparagraph (B) does not apply with respect to a regulated entity in any periodduring which the Agency serves as receiver for the regulated entity.
+&emsp;&emsp;Subparagraph (B) does not apply with respect to a regulated entity in any period during which the Agency serves as receiver for the regulated entity.
 
 #### (D) Receivership terminates conservatorship
 
@@ -398,7 +398,7 @@
 
 #### (ii) No prejudice to other actions
 
-&emsp;&emsp;&emsp;Subject to paragraph (10), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
+&emsp;&emsp;&emsp;Subject to paragraph (10), the filing of a claim with the receiver shall not prejudiceany right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
 
 #### (9) Payment of claims
 
@@ -532,7 +532,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Agency, as conservator or receiver, may avoid a transfer of any interest of anentity-affiliated party, or any person determined by the conservator or receiver to be a debtor of the regulated entity, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Agency was appointed conservator or receiver, if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the regulated entity, the Agency, the conservator, or receiver.
+&emsp;&emsp;The Agency, as conservator or receiver, may avoid a transfer of any interest of an entity-affiliated party, or any person determined by the conservator or receiver to be a debtor of the regulated entity, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Agency was appointed conservator or receiver, if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the regulated entity, the Agency, the conservator, or receiver.
 
 #### (B) Right of recovery
 
@@ -566,7 +566,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against the conservator or receiver for the breach of an agreement executed or approved in writing by the conservator or receiver after the date of its appointment, shall be paid as an administrative expense of the conservator or receiver.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against the conservator or receiver for thebreach of an agreement executed or approved in writing by the conservator or receiver after the date of its appointment, shall be paid as an administrative expense of the conservator or receiver.
 
 #### (B) No limitation of power
 
@@ -810,7 +810,7 @@
 
 &emsp;&emsp;&emsp;The term "securities contract"—
 
-&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on anyof the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
 
@@ -1212,7 +1212,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (iv) Equitable treatment of similarly situated creditors
 
-&emsp;&emsp;&emsp;The Agency shall treat all creditors of a regulated entity in default or in danger ofdefault that are similarly situated under subsection (c)(1) in a similar manner in exercising the authority of the Agency under this subsection to transfer any assets or liabilities of the regulated entity to the limited-life regulated entity established with respect to such regulated entity, except that the Agency may take actions (including making payments) that do not comply with this clause, if—
+&emsp;&emsp;&emsp;The Agency shall treat all creditors of a regulated entity in default or in danger of default that are similarly situated under subsection (c)(1) in a similar manner in exercising the authority of the Agency under this subsection to transfer any assets or liabilities of the regulated entity to the limited-life regulated entity established with respect to such regulated entity, except that the Agency may take actions (including making payments) that do not comply with this clause, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Director determines that such actions are necessary to maximize the value of the assets of the regulated entity, to maximize the present value return from the sale or other disposition of the assets of the regulated entity, or to minimize the amount of any loss realized upon the sale or other disposition of the assets of the regulated entity; and
 
@@ -1284,7 +1284,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (i) <sup>3</sup> In general
 
-&emsp;&emsp;&emsp;The Director, after notice and a hearing, may authorize the obtaining of credit orthe issuance of debt by a limited-life regulated entity that is secured by a senior or equal lien on property of the limited-life regulated entity that is subject to a lien (other than mortgages that collateralize the mortgage-backed securities issued or guaranteed by an enterprise) only if—
+&emsp;&emsp;&emsp;The Director, after notice and a hearing, may authorize the obtaining of credit or the issuance of debt by a limited-life regulated entity that is secured by a senior or equal lien on property of the limited-life regulated entity that is subject to a lien (other than mortgages that collateralize the mortgage-backed securities issued or guaranteed by an enterprise) only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the limited-life regulated entity is unable to otherwise obtain such credit or issue such debt; and
 

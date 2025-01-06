@@ -1,6 +1,6 @@
 ### §1106. Supplemental budget estimates and changes
 
-(a) Before July 16 of each year, the President shall submit to Congress a supplemental summary of the budget for the fiscal year for whichthe budget is submitted under section 1105(a) of this title. The summary shall include—
+(a) Before July 16 of each year, the President shall submit to Congress a supplemental summary of the budget for the fiscal year for which the budget is submitted under section 1105(a) of this title. The summary shall include—
 
 &emsp;(1) for that fiscal year—
 

@@ -18,6 +18,8 @@ A prior section 2110 was renumbered section 2114 of this title.
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(4), substituted "Archivist" for "Administrator of General Services".
 
+Pub. L. 98–497, §102(a)(1), renumbered section 2106 of this title as this section.
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment

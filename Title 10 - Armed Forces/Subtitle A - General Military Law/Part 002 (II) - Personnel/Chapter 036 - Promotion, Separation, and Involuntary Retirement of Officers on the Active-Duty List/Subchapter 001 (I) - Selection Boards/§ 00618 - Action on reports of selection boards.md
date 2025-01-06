@@ -60,9 +60,9 @@
 
 Subsec. (b)(2). Pub. L. 111–383, §522(c)(2), substituted "of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers" for "in joint duty assignments of officers who are serving, or have served, in such assignments" in subpars. (A) and (B).
 
-Subsec. (b)(4). Pub. L. 111–383, §522(c)(3), substituted "who are serving on, or have served on, the Joint Staff or are joint qualified officers" for "in joint duty assignments" in introductory provisions.
+Subsec. (b)(4). Pub. L. 111–383, §522(c)(3), substituted "who are serving on, or have served on, the Joint Staffor are joint qualified officers" for "in joint duty assignments" in introductory provisions.
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–364, §513(a), designated existing provisions as par. (1), substituted "Except asprovided in paragraph (2), the name" for "The name", and added par. (2).
+<b>2006</b>—Subsec. (d). Pub. L. 109–364, §513(a), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the name" for "The name", and added par. (2).
 
 Subsec. (f). Pub. L. 109–364, §547(a)(2), struck out subsec. (f) which read as follows: "Except as authorized or required by this section, proceedings of a selection board convened under section 611(a) of this title may not be disclosed to any person not a member of the board."
 

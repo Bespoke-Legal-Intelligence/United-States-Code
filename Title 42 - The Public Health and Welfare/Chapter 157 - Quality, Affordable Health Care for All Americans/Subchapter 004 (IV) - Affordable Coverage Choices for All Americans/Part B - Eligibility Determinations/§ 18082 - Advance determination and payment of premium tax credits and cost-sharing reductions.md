@@ -46,7 +46,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall establi
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall make the advance payment under this section ofany premium tax credit allowed under section 36B of title 26 to the issuer of a qualified health plan on a monthly basis (or such other periodic basis as the Secretary may provide).
+&emsp;&emsp;The Secretary of the Treasury shall make the advance payment under this section of any premium tax credit allowed under section 36B of title 26 to the issuer of a qualified health plan on a monthly basis (or such other periodic basis as the Secretary may provide).
 
 #### (B) Issuer responsibilities
 

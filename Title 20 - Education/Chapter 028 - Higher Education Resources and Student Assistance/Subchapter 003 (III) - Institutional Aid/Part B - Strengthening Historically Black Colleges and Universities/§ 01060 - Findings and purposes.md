@@ -44,7 +44,7 @@ Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, which established in the Office
 
 #### Executive Order No. 13532
 
-Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, §4, Apr. 5, 2011, 76 F.R.19891, which established the White House Initiative on Historically Black Colleges and Universities and the President's Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, §4, Feb. 28, 2017, 82 F.R. 12501, formerly set out below.
+Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, §4, Apr. 5, 2011, 76 F.R. 19891, which established the White House Initiative on Historically Black Colleges and Universities and the President's Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, §4, Feb. 28, 2017, 82 F.R. 12501, formerly set out below.
 
 #### Executive Order No. 13779
 
@@ -54,7 +54,7 @@ Ex. Ord. No. 13779, Feb. 28, 2017, 82 F.R. 12499, which established the White Ho
 
 Ex. Ord. No. 14041, Sept. 3, 2021, 86 F.R. 50443, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance equity in economic and educational opportunities for all Americans, including Black Americans, strengthen the capacity of Historically Black Colleges and Universities (HBCUs) to provide the highest-quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that HBCUs can continue to be engines of opportunity, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance equity in economic and educational opportunities for all Americans, including Black Americans, strengthen the capacity ofHistorically Black Colleges and Universities (HBCUs) to provide the highest-quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that HBCUs can continue to be engines of opportunity, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. HBCUs have a proud history and legacy of achievement. In the face of discrimination against Black Americans by many institutions of higher education, HBCUs created pathways to opportunity and educational excellence for Black students throughout our Nation. That legacy continues. Today, more than 100 HBCUs, located in 19 States, the District of Columbia, and the U.S. Virgin Islands, serve nearly 300,000 students annually. HBCUs vary in size and academic focus and serve a range of diverse students and communities in urban, rural, and suburban settings.
 
@@ -128,7 +128,7 @@ Sec. 4. <i>Administrative Provisions.</i> (a) This order supersedes Executive Or
 
 (b) As used in this order, the terms "Historically Black Colleges and Universities" and "HBCUs" shall mean those institutions listed in 34 C.F.R. 608.2.
 
-(c) The heads of executive departments and agencies shall assist and provide information to the Initiativeand Board established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Board.
+(c) The heads of executive departments and agencies shall assist and provide information to the Initiative and Board established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Board.
 
 (d) Each executive department and agency shall bear its own expenses of participating in the Initiative established in this order.
 
@@ -146,7 +146,7 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Board of Advisors on Historically Black Colleges and Universities
 
-Term of President's Board of Advisors on Historically Black Colleges and Universities (established by Ex. Ord. No. 14041) extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Board of Advisors on Historically Black Colleges and Universities (established by Ex.Ord. No. 14041) extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Board of Advisors on Historically Black Colleges and Universities as established by various Executive Orders were contained in the following prior Executive Orders:
 

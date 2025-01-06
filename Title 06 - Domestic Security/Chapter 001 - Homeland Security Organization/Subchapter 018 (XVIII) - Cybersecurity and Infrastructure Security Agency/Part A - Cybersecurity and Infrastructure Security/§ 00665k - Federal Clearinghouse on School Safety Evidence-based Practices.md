@@ -8,7 +8,7 @@
 
 #### (2) Purpose
 
-&emsp;The Clearinghouse shall serve as a Federal resource to identify and publish online through SchoolSafety.gov, or any successor website, evidence-based practices and recommendations to improve school safety for use by State and local educational agencies,institutions of higher education, State and local law enforcement agencies, health professionals, and the general public.
+&emsp;The Clearinghouse shall serve as a Federal resource to identify and publish online through SchoolSafety.gov, or any successor website, evidence-based practices and recommendations to improve school safety for use by State and local educational agencies, institutions of higher education, State and local law enforcement agencies, health professionals, and the general public.
 
 #### (3) Personnel
 

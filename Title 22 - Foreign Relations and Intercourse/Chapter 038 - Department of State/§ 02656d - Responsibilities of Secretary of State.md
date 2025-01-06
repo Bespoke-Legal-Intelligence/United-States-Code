@@ -24,7 +24,7 @@ The Secretary shall, to such extent or in such amounts as are provided in approp
 
 #### (c) Long-term and short-term contracts, grants, to train officers and employees in application of science and technology to problems of foreign policy
 
-The Secretary shall, to such extent or in such amounts as are provided in appropriation Acts, enter into short-term and long-term contracts, including contracts for the services of consultants, and shall make grants and take other appropriate measures in order to obtain assistance from knowledgeable persons and organizations in training officers and employees of the United States Government, at all levels of the Foreign Service and Civil Service—
+The Secretary shall, to such extent or in such amounts as are provided in appropriation Acts, enter into short-term and long-term contracts,including contracts for the services of consultants, and shall make grants and take other appropriate measures in order to obtain assistance from knowledgeable persons and organizations in training officers and employees of the United States Government, at all levels of the Foreign Service and Civil Service—
 
 &emsp;(1) in the application of science and technology to problems of United States foreign policy and international relations generally; and
 
@@ -54,7 +54,7 @@ In obtaining assistance pursuant to subsection (c) in training personnel who are
 
 #### References in Text
 
-Public Law 96–517, referred to in subsec. (a)(3)(A), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of Title 35, Patents, amended section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, sections 41,42, and 154 of Title 35, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of Title 35. Section 2457 of Title 42 was repealed and restated as section 20135 of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of Title 35 and Tables.
+Public Law 96–517, referred to in subsec. (a)(3)(A), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of Title 35, Patents, amended section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, sections 41, 42, and 154 of Title 35, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of Title 35. Section 2457 of Title 42 was repealed and restated as section 20135 of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of Title 35 and Tables.
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3)(A), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 

@@ -38,7 +38,7 @@ Each Indian tribe or tribal organization that receives funds under the Indian Se
 
 #### (B) Foster care placement
 
-&emsp;&emsp;The term "foster care placement" means any action removing an Indian child from a parent or Indian custodian for temporary placement in a foster home or institution or the home of a guardian or conservator if—
+&emsp;&emsp;The term "foster care placement" means any action removing an Indian child from aparent or Indian custodian for temporary placement in a foster home or institution or the home of a guardian or conservator if—
 
 &emsp;&emsp;&emsp;(i) the parent or Indian custodian cannot have the child returned on demand; and
 

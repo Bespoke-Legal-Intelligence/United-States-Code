@@ -6,7 +6,7 @@ Automated Tariff System.—
 
 &emsp;(1)
 
-In general.—Each common carrier and conference shall keep open to public inspection in an automated tariff system, tariffs showing all its rates, charges, classifications, rules, and practices between all points or ports on its own route and on any through transportation route that has been established. However, a common carrier is not required to state separately or otherwise reveal in tariffs the inland divisions of a through rate.
+In general.—Each common carrier and conference shall keep open to public inspection in an automated tariff system, tariffs showing all its rates, charges, classifications, rules, and practices between all points or portson its own route and on any through transportation route that has been established. However, a common carrier is not required to state separately or otherwise reveal in tariffs the inland divisions of a through rate.
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ In general.—The Commission shall by regulation prescribe the requirements for 
 
 &emsp;(2)
 
-Remote terminals.—The Commission may not require a common carrier to providea remote terminal for electronic access under subsection (c).
+Remote terminals.—The Commission may not require a common carrier to provide a remote terminal for electronic access under subsection (c).
 
 &emsp;(3)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration $43,937,410 for fiscal year 2020,$46,573,655 for fiscal year 2021, $49,368,074 for fiscal year 2022, $52,330,158 for fiscal year 2023, and $55,469,968 for fiscal year 2024.
+For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration $43,937,410 for fiscal year 2020, $46,573,655 for fiscal year 2021, $49,368,074 for fiscal year 2022, $52,330,158 for fiscal year 2023, and $55,469,968 for fiscal year 2024.
 
 #### (b) Additional authorizations
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 109–365, §210(2), substituted "years 2007, 2008, 2009, 2
 
 Subsec. (c). Pub. L. 109–365, §210(2), substituted "years 2007, 2008, 2009, 2010, and 2011" for "year 2001 and for each of the 4 succeeding fiscal years".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–501, §205(1), in heading, substituted "In general" for "Administration", and in text, inserted "administration, salaries, and expenses of" after "appropriated for" and substituted "2001, 2002, 2003, 2004, and 2005" for "1992, 1993, 1994, and 1995."
+<b>2000</b>—Subsec. (a). Pub. L. 106–501, §205(1), in heading, substituted "In general" for "Administration", and in text, inserted "administration, salaries, and expensesof" after "appropriated for" and substituted "2001, 2002, 2003, 2004, and 2005" for "1992, 1993, 1994, and 1995."
 
 Subsecs. (b), (c). Pub. L. 106–501, §205(2), added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: "There are authorized to be appropriated for salaries and expenses of the Administration on Aging—
 

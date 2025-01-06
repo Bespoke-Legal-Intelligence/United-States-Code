@@ -68,7 +68,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (2) Expenditure purposes
 
-&emsp;Subject to subsection (d), payments received by a State under subsection (a) and distributed to counties in accordance with paragraph (1) shall be expended as required by the laws referred to in paragraph (1).
+&emsp;Subject to subsection (d), payments received by a State under subsection (a) and distributedto counties in accordance with paragraph (1) shall be expended as required by the laws referred to in paragraph (1).
 
 #### (d) Expenditure rules for eligible counties
 
@@ -94,7 +94,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;&emsp;(i) Reserve any portion of the balance for projects in accordance with subchapter II.
 
-&emsp;&emsp;&emsp;(ii) Reserve not more than 7 percent of the total share for the eligible county ofthe State payment or the county payment for projects in accordance with subchapter III.
+&emsp;&emsp;&emsp;(ii) Reserve not more than 7 percent of the total share for the eligible county of the State payment or the county payment for projects in accordance with subchapter III.
 
 &emsp;&emsp;&emsp;(iii) Return the portion of the balance not reserved under clauses (i) and (ii) to the Treasury of the United States.
 
@@ -158,7 +158,7 @@ The payments required under this section for a fiscal year shall be made as soon
 
 #### (2) Continuation of direct payments
 
-&emsp;Payments to States made under this chapter and 25-percent payments made to States and Territories under the Acts of May 23, 1908, and March 1, 1911 (16 U.S.C. 500), shall continue to be made as direct payments and not as Federal financial assistance.
+&emsp;Payments to States made under this chapter and 25-percent payments made to States and Territories under the Acts of May 23, 1908, andMarch 1, 1911 (16 U.S.C. 500), shall continue to be made as direct payments and not as Federal financial assistance.
 
 (Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(b), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(A)–(D), Mar. 23, 2018, 132 Stat. 1077, 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(A), (B), Dec. 20, 2019, 133 Stat. 3020.)
 

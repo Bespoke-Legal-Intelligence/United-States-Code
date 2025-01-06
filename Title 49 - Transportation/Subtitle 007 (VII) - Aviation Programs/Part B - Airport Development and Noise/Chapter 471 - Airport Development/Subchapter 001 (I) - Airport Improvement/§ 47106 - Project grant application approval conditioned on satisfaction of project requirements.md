@@ -26,7 +26,7 @@ Project Grant Application Approval.—The Secretary of Transportation may approv
 
 &emsp;&emsp;(E) the potential for cost savings or the generation of revenue; and
 
-&emsp;(7) if the project is at an airport that is listed as having an unclassified status under the most recent national plan of integrated airport systems (as described in section 47103), the project will be funded with an amount appropriated under section 47114(d)(3)(B) and is—
+&emsp;(7) if the project is at an airport that is listed as having an unclassified status under the most recent national plan of integrated airport systems (as described in section 47103), the project will be funded with an amount appropriated under section 47114(d)(2)(B) and is—
 
 &emsp;&emsp;(A) for maintenance of the pavement of the primary runway;
 
@@ -72,7 +72,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (d)
 
-Withholding Approval.—(1) The Secretary may withhold approval of an application underthis subchapter for amounts apportioned under section 47114(c) and (e) of this title for violating an assurance or requirement of this subchapter only if—
+Withholding Approval.—(1) The Secretary may withhold approval of an application under this subchapter for amounts apportioned under section 47114(c) and (e) of this title for violating an assurance or requirement of this subchapter only if—
 
 &emsp;(A) the Secretary provides the sponsor an opportunity for a hearing; and
 
@@ -88,7 +88,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 (e)
 
-Reports Relating to Construction of Certain New Hub Airports.—At least 90 days prior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
+Reports Relating to Construction of Certain New Hub Airports.—At least 90 daysprior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
 
 &emsp;(1) the fees charged to air carriers (including landing fees), and other costs that will be incurred by air carriers, for using the proposed airport;
 
@@ -132,7 +132,7 @@ Evaluation of Airport Master Plans.—When evaluating the master plan of an airp
 
 &emsp;(2) the role the airport plays in emergency or disaster preparedness in the community served by the airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539; Pub. L. 112–95, title I, §§111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, 126 Stat. 18, 22; Pub. L. 115–254, div. B, title I, §§148(a), 149, Oct. 5, 2018, 132 Stat. 3214, 3215.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539; Pub. L. 112–95, title I, §§111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, 126 Stat. 18, 22; Pub. L. 115–254, div. B, title I, §§148(a), 149, Oct. 5, 2018, 132 Stat. 3214, 3215; Pub. L. 118–63, title VII, §712(c)(1), May 16, 2024, 138 Stat. 1256.)
 
 Historical and Revision Notes
 
@@ -234,6 +234,8 @@ In subsection (e)(3), the words "adversely affected" are substituted for "aggrie
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(7). Pub. L. 118–63 substituted "section 47114(d)(2)(B)" for "section 47114(d)(3)(B)" in introductory provisions.
+
 <b>2018</b>—Subsec. (a)(6). Pub. L. 115–254, §148(a)(2), inserted "that includes the project" before ", the master plan" in introductory provisions.
 
 Subsec. (a)(7). Pub. L. 115–254, §148(a)(1), (3), (4), added par. (7).
@@ -286,11 +288,15 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Prohibition on Certain Runway Length Requirements
+
+Pub. L. 118–63, title VII, §752, May 16, 2024, 138 Stat. 1284, provided that: "Notwithstanding any other provision of law, the Secretary \[of Transportation\] may not require an airport to shorten the length or width of the runway, apron, or taxiway of the airport as a condition for the receipt of federal financial assistance if the airport directly supports a base of the United States Air Force or the Air National Guard at the airport, regardless of the stationing of military aircraft."
 
 #### Environmental Review of Airport Improvement Projects
 

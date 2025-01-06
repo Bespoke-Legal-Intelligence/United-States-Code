@@ -32,7 +32,7 @@ The Entity shall develop a working framework of attributes characterizing, and m
 
 #### (c) Consultation
 
-In carrying out the duties described in subsections (a) and (b), the Entity shall consult with stakeholders qualified to provide advice and information to guide Federal activities related to sustainable chemistry through workshops, requests for information, or other mechanisms as necessary. The stakeholders shall include representatives from—
+In carrying out the duties described in subsections (a) and (b), the Entity shall consult with stakeholders qualified to provide adviceand information to guide Federal activities related to sustainable chemistry through workshops, requests for information, or other mechanisms as necessary. The stakeholders shall include representatives from—
 
 &emsp;(1) business and industry, including trade associations and small- and medium-sized enterprises from across the value chain;
 

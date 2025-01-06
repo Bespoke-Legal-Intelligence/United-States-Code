@@ -120,7 +120,7 @@ The boundaries of the Historical Park shall be the boundaries generally depicted
 
 #### (2) Right of access
 
-&emsp;A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the NationalPark Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
+&emsp;A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the National Park Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
 
 &emsp;&emsp;(A) conducting visitors through the property; and
 

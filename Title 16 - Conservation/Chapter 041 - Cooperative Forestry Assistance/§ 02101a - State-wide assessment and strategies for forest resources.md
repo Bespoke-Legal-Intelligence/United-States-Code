@@ -26,7 +26,7 @@ At such times as the Secretary determines to be necessary, the State forester or
 
 #### (c) Coordination
 
-In developing or updating the State-wide assessment and State-wide strategy required bysubsection (a), the State Forester or equivalent State official shall coordinate with—
+In developing or updating the State-wide assessment and State-wide strategy required by subsection (a), the State Forester or equivalent State official shall coordinate with—
 
 &emsp;(1) the State Forest Stewardship Coordinating Committee established for the State under section 2113(b) of this title;
 

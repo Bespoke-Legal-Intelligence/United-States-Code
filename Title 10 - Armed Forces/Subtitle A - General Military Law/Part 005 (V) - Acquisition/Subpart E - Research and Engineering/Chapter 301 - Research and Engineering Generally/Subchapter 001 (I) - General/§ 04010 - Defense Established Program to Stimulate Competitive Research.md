@@ -56,5 +56,5 @@ State Defined.—In this section, the term "State" means a State of the United S
 
 #### Effective Date
 
-Pub. L. 117–81, div. A, title II, §214(d), Dec. 27, 2021, 135 Stat. 1591, provided that: "This section \[enacting thissection and repealing provisions set out as notes under section 2358 of this title\] and the amendments and repeals made by this section shall take effect immediately after the effective date of the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[Jan. 1, 2022\]."
+Pub. L. 117–81, div. A, title II, §214(d), Dec. 27, 2021, 135 Stat. 1591, provided that: "This section \[enacting this section and repealing provisions set out as notes under section 2358 of this title\] and the amendments and repeals made by this section shall take effect immediately after the effective date of the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[Jan. 1, 2022\]."
 

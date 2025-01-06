@@ -6,7 +6,7 @@ Presentation of Flag.—Upon the transfer from an active status or discharge of 
 
 (b)
 
-Multiple Presentations Not Authorized.—A member is not eligible for presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
+Multiple Presentations Not Authorized.—A member is not eligible for presentationof a flag under subsection (a) if the member has previously been presented a flag under this section or any provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 
 (c)
 

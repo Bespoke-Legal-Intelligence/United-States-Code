@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 111–383, §503(c)(3), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-This section, as amended by Pub. L. 109–364, applicable with respect to the proceedings of all selectionboards convened under section 14101 of this title, including selection boards convened before Oct. 17, 2006, see section 547(c) of Pub. L. 109–364, set out as an Effective Date note under section 613a of this title.
+This section, as amended by Pub. L. 109–364, applicable with respect to the proceedings of all selection boards convened under section 14101 of this title, including selection boards convened before Oct. 17, 2006, see section 547(c) of Pub. L. 109–364, set out as an Effective Date note under section 613a of this title.
 
 #### Effective Date
 

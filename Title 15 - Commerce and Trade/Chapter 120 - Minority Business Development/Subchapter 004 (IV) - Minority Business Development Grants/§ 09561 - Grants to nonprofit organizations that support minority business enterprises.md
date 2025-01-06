@@ -28,7 +28,7 @@ A covered entity desiring a grant under this section shall submit to the Under S
 
 #### (e) Priority
 
-The Under Secretary shall, in carrying out this section, prioritize granting an application submitted by a covered entity that is located in a federally recognized area of economic distress.
+The Under Secretary shall, in carrying out this section, prioritize granting an applicationsubmitted by a covered entity that is located in a federally recognized area of economic distress.
 
 #### (f) Use of funds
 

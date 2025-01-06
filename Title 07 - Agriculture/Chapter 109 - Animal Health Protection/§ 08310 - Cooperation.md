@@ -16,7 +16,7 @@ The person or other entity cooperating with the Secretary shall be responsible f
 
 #### (1) In general
 
-&emsp;The Secretary may, independently or in cooperation with national governments of foreign countries or international organizations or associations, produce and sell sterile screwworms to any national government of a foreign country or international organization or association, if the Secretary determines that the livestock industry and related industries of the United States will not be adversely affected by the production and sale.
+&emsp;The Secretary may, independently or in cooperation with national governments of foreign countries or international organizations or associations, produce and sell sterile screwworms to any national government of aforeign country or international organization or association, if the Secretary determines that the livestock industry and related industries of the United States will not be adversely affected by the production and sale.
 
 #### (2) Proceeds
 

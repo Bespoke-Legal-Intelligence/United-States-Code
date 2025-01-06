@@ -148,7 +148,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(31) provide technical assistance to and share best practices with States, area agencies on aging, and Aging and Disability Resource Centers, on how to collaborate and coordinate services with health care entities, such as Federally-qualified health centers, as defined in section 1905(l)(2)(B) of the Social Security Act (42 U.S.C. 1396d(l)(2)(B)), in order to improve care coordination for individuals with multiple chronic illnesses;
 
-&emsp;(32) provide technical assistance to, and share best practices with, State agencies and area agencies on aging on how to collaborateand coordinate activities and develop long-range emergency preparedness plans with local and State emergency response agencies, relief organizations, local and State governments, Federal agencies as appropriate, and any other institutions that have responsibility for disaster relief service delivery;
+&emsp;(32) provide technical assistance to, and share best practices with, State agencies and area agencies on aging on how to collaborate and coordinate activities and develop long-range emergency preparedness plans with local and State emergency response agencies, relief organizations, local and State governments, Federal agencies as appropriate, and any other institutions that have responsibility for disaster relief service delivery;
 
 &emsp;(33) with input from aging network stakeholders, including caregivers, develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about prevention of, detection of, and response to negative health effects associated with social isolation among older individuals, and submit a report to Congress on this effort by January 2021; and
 
@@ -486,7 +486,7 @@ Subsec. (a)(28) to (30). Pub. L. 106–501, §201(1)(B), redesignated pars. (28)
 
 Subsec. (c). Pub. L. 106–501, §801(b)(2)(B), struck out par. (1) designation before "In executing the duties" and struck out par. (2) which read as follows:
 
-"(2)(A) In executing the duties and functions of the Administration under this chapter and in carrying outthe programs and activities provided for by this chapter, the Assistant Secretary shall act to encourage and assist the establishment and use of—
+"(2)(A) In executing the duties and functions of the Administration under this chapter and in carrying out the programs and activities provided for by this chapter, the Assistant Secretary shall act to encourage and assist the establishment and use of—
 
 &emsp;"(i) area volunteer service coordinators, as described in section 3026(a)(12) of this title, by area agencies on aging; and
 

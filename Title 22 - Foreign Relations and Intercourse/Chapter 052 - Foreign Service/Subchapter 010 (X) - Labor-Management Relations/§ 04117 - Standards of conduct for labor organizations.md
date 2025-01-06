@@ -2,7 +2,7 @@
 
 #### (a) Freedom from corrupt influences and influences opposed to basic democratic principles
 
-The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated,or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
+The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
 &emsp;(1) the maintenance of democratic procedures and practices, including—
 

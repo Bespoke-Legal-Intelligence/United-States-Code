@@ -28,7 +28,7 @@ Notwithstanding this chapter or any other provision of law, the Administrator (1
 
 #### References in Text
 
-Act of March 3, 1899, referred to in subsec. (a), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended section 686 of this title. For complete classification of this Act to the Code, see Tables.
+Act of March 3, 1899, referred to in subsec. (a), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended section 686 of thistitle. For complete classification of this Act to the Code, see Tables.
 
 The Rivers and Harbors Act of 1910, referred to in subsec. (b), probably means act June 23, 1910, ch. 359, 36 Stat. 593.
 

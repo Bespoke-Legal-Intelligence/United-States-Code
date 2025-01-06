@@ -66,7 +66,7 @@ Subsec. (c)(3)(B). Pub. L. 110–181, §592(2), substituted "in excess of four" 
 
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–375, §1084(d)(16), substituted "October 5, 1999" for "the date of the enactment of this section".
 
-Subsec. (c)(3). Pub. L. 108–375, §519, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary may support the establishment and operation of any academy in excess of two academies in a State only if the Secretary has first authorized in writing the establishment of the academy and the costs of the establishment and operation of the academy are paid out of funds provided by sources other than the Department of Defense. Any such costs that are paid out of appropriated funds shall be considered as paid out of funds provided by such other sources if such sources fully reimburse the United States for the costs."
+Subsec. (c)(3). Pub. L. 108–375, §519, amended par. (3) generally. Prior to amendment, par. (3) read as follows:"The Secretary may support the establishment and operation of any academy in excess of two academies in a State only if the Secretary has first authorized in writing the establishment of the academy and the costs of the establishment and operation of the academy are paid out of funds provided by sources other than the Department of Defense. Any such costs that are paid out of appropriated funds shall be considered as paid out of funds provided by such other sources if such sources fully reimburse the United States for the costs."
 
 <b>2001</b>—Subsec. (f). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
 

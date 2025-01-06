@@ -22,7 +22,7 @@ Employees of the Institute shall not, by reason of such employment, be considere
 
 #### (e) Use of funds
 
-No funds made available to carry out this section may be used to initiate litigation, or forthe acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
+No funds made available to carry out this section may be used to initiate litigation, or for the acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
 
 #### (f) Availability of research
 
@@ -40,7 +40,7 @@ Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1
 
 <b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act".
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: "The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute."
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: "The Comptroller General of the United States, and any ofhis or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute."
 
 Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(B)\], inserted at end "The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board."
 

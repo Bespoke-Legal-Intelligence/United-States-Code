@@ -18,7 +18,7 @@
 
 #### (B) Previous data
 
-&emsp;&emsp;As part of the first submission under subparagraph (A), each Federal research agency, to the extent practicable, shall also submit comparable record-level data, if it is available to the agency, for the five years preceding the date of such submission, or an analysis for why such data cannot be provided.
+&emsp;&emsp;As part of the first submission under subparagraph (A), each Federal research agency, to the extent practicable, shall also submit comparable record-level data, if it is available to the agency, for the five years preceding the date of such submission, or ananalysis for why such data cannot be provided.
 
 #### (b) Reporting of data
 

@@ -6,7 +6,7 @@ As used in this section:
 
 &emsp;(1) The term "customs broker" means any person granted a customs broker's license by the Secretary under subsection (b).
 
-&emsp;(2) The term "customs business" means those activities involving transactions with U.S. Customs and Border Protection concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by U.S. Customs and Border Protection upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with U.S. Customs and Border Protection in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
+&emsp;(2) The term "customs business" means those activities involving transactions with U.S. Customs and Border Protection concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by U.S. Customs and Border Protection upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and theelectronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with U.S. Customs and Border Protection in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
 
 &emsp;(3) The term "Secretary" means the Secretary of the Treasury.
 
@@ -34,7 +34,7 @@ As used in this section:
 
 #### (6) Prohibited acts
 
-&emsp;Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker's license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed inthe same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
+&emsp;Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker's license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
 
 #### (c) Customs broker's permits
 
@@ -94,7 +94,7 @@ As used in this section:
 
 #### (A) Monetary penalty
 
-&emsp;&emsp;Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely responsemade by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under section 1618 of this title to make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under section 1618 of this title, the appropriate customs officer shall provide to the customs broker a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;&emsp;Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely response made by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under section 1618 of this title to make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under section 1618 of this title, the appropriate customs officer shall provide to the customs broker a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (B) Revocation or suspension
 
@@ -102,7 +102,7 @@ As used in this section:
 
 #### (3) Settlement and compromise
 
-&emsp;The Secretary may settle and compromise any disciplinary proceeding which has been instituted under this subsection according to the terms and conditions agreed to by the parties, including but not limited to the reduction of any proposed suspension or revocation to a monetary penalty.
+&emsp;The Secretary may settle and compromise any disciplinary proceeding which has been instituted under this subsection according to the terms and conditions agreed to by the parties, including but not limited to the reduction ofany proposed suspension or revocation to a monetary penalty.
 
 #### (4) Limitation of actions
 
@@ -226,7 +226,7 @@ Subsec. (g)(2)(B). Pub. L. 114–125, §903(b)(3), substituted "notice under sub
 
 Subsec. (i). Pub. L. 114–125, §116(a), added subsec. (i).
 
-<b>1998</b>—Subsec. (i). Pub. L. 105–258 struck out subsec. (i) which prohibited conference or group of two or more ocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
+<b>1998</b>—Subsec. (i). Pub. L. 105–258 struck out subsec. (i) which prohibited conference or group of two or moreocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
 
 <b>1996</b>—Subsec. (d)(2)(B). Pub. L. 104–295 substituted "the findings of fact" for "his findings of fact" in penultimate sentence.
 

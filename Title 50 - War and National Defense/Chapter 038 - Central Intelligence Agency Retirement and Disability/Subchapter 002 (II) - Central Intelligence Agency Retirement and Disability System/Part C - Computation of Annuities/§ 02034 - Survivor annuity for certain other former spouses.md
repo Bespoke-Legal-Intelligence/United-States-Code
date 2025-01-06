@@ -60,13 +60,13 @@ A former spouse is not entitled to a survivor annuity under this section if—
 
 Notwithstanding subsection (d)(1), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse's entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2).
 
-(Pub. L. 88–643, title II, §224, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3217; amended Pub. L. 103–178, title II, §202(a)(6), Dec. 3, 1993, 107 Stat. 2026.)
+(Pub. L. 88–643, title II, §224, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat.3217; amended Pub. L. 103–178, title II, §202(a)(6), Dec. 3, 1993, 107 Stat. 2026.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, §302(a), Oct. 27, 1986, 100 Stat. 3192; amended Pub. L. 100–453, title III, §302(b)(1), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 101–193, title III, §304(a), Nov. 30, 1989, 103 Stat. 1703; Pub. L. 102–88, title III, §307(a), Aug. 14, 1991, 105 Stat. 432; Pub. L. 102–183, title III, §304, Dec. 4, 1991, 105 Stat. 1264, related to survivor annuities for certain other former spouses and was setout as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, §302(a), Oct. 27, 1986, 100 Stat. 3192; amended Pub. L. 100–453, title III, §302(b)(1), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 101–193, title III, §304(a), Nov. 30, 1989, 103 Stat. 1703; Pub. L. 102–88, title III, §307(a), Aug. 14, 1991, 105 Stat. 432; Pub. L. 102–183, title III, §304, Dec. 4, 1991, 105 Stat. 1264, related to survivor annuities for certain other former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

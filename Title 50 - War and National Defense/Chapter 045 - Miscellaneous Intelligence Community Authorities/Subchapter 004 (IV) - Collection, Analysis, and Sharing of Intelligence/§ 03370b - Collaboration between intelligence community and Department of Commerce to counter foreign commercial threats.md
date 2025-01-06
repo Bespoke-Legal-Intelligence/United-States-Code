@@ -60,7 +60,7 @@ In this section:
 
 #### (5) Termination
 
-&emsp;Beginning on the date that is 2 years after the date of the establishment under paragraph (1), the Working Group may be terminated upon the Director of National Intelligence and the Secretary of Commerce jointly—
+&emsp;Beginning on the date that is 2 years after the date of the establishment under paragraph\(1), the Working Group may be terminated upon the Director of National Intelligence and the Secretary of Commerce jointly—
 
 &emsp;&emsp;(A) determining that termination of the Working Group is appropriate; and
 

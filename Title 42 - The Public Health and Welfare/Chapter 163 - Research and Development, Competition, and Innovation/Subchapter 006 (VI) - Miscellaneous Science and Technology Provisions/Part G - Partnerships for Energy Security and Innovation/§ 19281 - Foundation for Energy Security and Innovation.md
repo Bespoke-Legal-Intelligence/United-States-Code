@@ -254,7 +254,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) that complement the use of prize authority by the Department;
 
-&emsp;&emsp;&emsp;(v) supporting programs that advance technology maturation, especially where there may be gaps in Federal or privatefunding in advancing a technology to deployment or commercialization from the prototype stage to a commercial stage;
+&emsp;&emsp;&emsp;(v) supporting programs that advance technology maturation, especially where there may be gaps in Federal or private funding in advancing a technology to deployment or commercialization from the prototype stage to a commercial stage;
 
 &emsp;&emsp;&emsp;(vi) supporting efforts to broaden participation in energy technology development among individuals from historically underrepresented groups or regions; and
 
@@ -390,7 +390,7 @@ In this section:
 
 &emsp;&emsp;Not later than 1 year after August 9, 2022, the Foundation shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a strategic plan that contains—
 
-&emsp;&emsp;&emsp;(i) a plan for the Foundation to become financially self-sustaining in fiscal year 2023 and thereafter (except for the amounts provided each fiscal year under paragraph (11)(A)(iii));
+&emsp;&emsp;&emsp;(i) a plan for the Foundation to become financially self-sustaining in fiscal year 2023 and thereafter (except for the amountsprovided each fiscal year under paragraph (11)(A)(iii));
 
 &emsp;&emsp;&emsp;(ii) a forecast of major crosscutting energy challenge opportunities, including short- and long-term objectives, identified by the Board, with input from communities representing the entities and areas of subject matter expertise, as applicable, described in paragraph (2)(B)(iii)(II);
 
@@ -422,7 +422,7 @@ In this section:
 
 #### (F) Evaluation by Comptroller General
 
-&emsp;&emsp;Not later than 5 years after the date on which the Foundation is established, theComptroller General of the United States shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives—
+&emsp;&emsp;Not later than 5 years after the date on which the Foundation is established, the Comptroller General of the United States shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives—
 
 &emsp;&emsp;&emsp;(i) an evaluation of—
 
@@ -564,7 +564,7 @@ In this section:
 
 #### (C) Governance structure
 
-&emsp;&emsp;A Laboratory Foundation established under subparagraph (A) shall have a separate governance structure from, and shall be managed independently of, the National Energy Technology Laboratory.
+&emsp;&emsp;A Laboratory Foundation established under subparagraph (A) shall have a separategovernance structure from, and shall be managed independently of, the National Energy Technology Laboratory.
 
 #### (2) Activities
 
@@ -604,7 +604,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) for the conduct of other activities to carry out and support the purpose of the Laboratory Foundation; and
 
-&emsp;&emsp;(G) receiving, administering, soliciting, accepting, and using funds, gifts, devises, orbequests, either absolutely or in trust of real or personal property or any income therefrom, or other interest or equity therein for the benefit of, or in connection with, the mission of the applicable Federal laboratory, in accordance with paragraph (4).
+&emsp;&emsp;(G) receiving, administering, soliciting, accepting, and using funds, gifts, devises, or bequests, either absolutely or in trust of real or personal property or any income therefrom, or other interest or equity therein for the benefit of, or in connection with, the mission of the applicable Federal laboratory, in accordance with paragraph (4).
 
 #### (3) Fellowships and grants
 
@@ -648,9 +648,9 @@ In this section:
 
 #### References in Text
 
-Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(I)(ii)(II), is section 109 of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 13101 of Title 5 by Pub. L. 117–286, §§3(c), (7), Dec. 27, 2022, 136 Stat. 4266, 4361.
+Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(I)(ii)(II), is section 109 of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, andwas repealed and restated as section 13101 of Title 5 by Pub. L. 117–286, §§3(c), (7), Dec. 27, 2022, 136 Stat. 4266, 4361.
 
-The Federal Advisory Committee Act, referred to in (b)(5)(L), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (b)(5)(L), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. The word "in" probably should not appear.</i>
 

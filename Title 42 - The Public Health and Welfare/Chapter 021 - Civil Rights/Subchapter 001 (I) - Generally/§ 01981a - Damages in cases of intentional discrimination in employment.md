@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) in the case of a respondent who has more than 14 and fewer than 101 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $50,000;
 
-&emsp;&emsp;(B) in the case of a respondent who has more than 100 and fewer than 201 employeesin each of 20 or more calendar weeks in the current or preceding calendar year, $100,000; and
+&emsp;&emsp;(B) in the case of a respondent who has more than 100 and fewer than 201 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $100,000; and
 
 &emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
 
@@ -72,7 +72,7 @@ As used in this section:
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

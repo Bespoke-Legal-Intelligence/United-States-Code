@@ -28,7 +28,7 @@ Forum.—If there is a dispute as to the showing under paragraph (1)(A), such di
 
 &emsp;(3)
 
-Effect of satisfaction of claims.—Satisfaction of the claim under subsection (b), (c), or (d) shall be binding on the parties, and the parties shall not be subject to chapter 119 of this title, as such chapter was in effect on December 31, 1995, or chapter 149.
+Effect of satisfaction of claims.—Satisfaction of the claim under subsection (b), (c),or (d) shall be binding on the parties, and the parties shall not be subject to chapter 119 of this title, as such chapter was in effect on December 31, 1995, or chapter 149.
 
 (b)
 
@@ -44,7 +44,7 @@ Pounds.—A person from whom the additional legally applicable and effective tar
 
 (d)
 
-Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c), a person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim by payment of 5 percent of the difference between thecarrier's applicable and effective tariff rate and the rate originally billed and paid if such person is a public warehouseman. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c), a person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim by payment of 5 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid if such person is a public warehouseman. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (e)
 

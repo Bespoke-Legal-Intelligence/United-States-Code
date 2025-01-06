@@ -30,7 +30,7 @@ A determination made by the Secretary of State under subsection (a) may not be r
 
 Assistance prohibited by subsection (a) may be provided to a country described in that subsection if—
 
-&emsp;(1) the President determines that national security interests or humanitarian reasons justify a waiver of subsection (a), except that humanitarian reasons may not be used to justify assistance under subchapter II of this chapter (including part IV, part VI, and part VIII), or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\]; and
+&emsp;(1) the President determines that national security interests or humanitarian reasons justify a waiver of subsection (a), except thathumanitarian reasons may not be used to justify assistance under subchapter II of this chapter (including part IV, part VI, and part VIII), or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\]; and
 
 &emsp;(2) at least 15 days before the waiver takes effect, the President consults with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the proposed waiver and submits a report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate containing—
 
@@ -50,7 +50,7 @@ Assistance prohibited by subsection (a) may be provided to a country described i
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original "this Act" and "the Foreign Assistance Act of 1961", respectively, meaning Pub. L. 87–195, Sept.4, 1961, 75 Stat. 424. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d), was in the original "this Act" and "the Foreign Assistance Act of 1961", respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 

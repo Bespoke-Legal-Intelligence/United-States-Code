@@ -4,7 +4,7 @@
 
 Safety Criteria.—The Maritime Administrator, after consulting with the Commandant of the Coast Guard, shall establish—
 
-&emsp;(1) criteria, to which an owner or operator of a vessel engaged in commercial service shall adhere prior to carrying a cadet performing their Sea Year service from the United States Merchant Marine Academy, that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
+&emsp;(1) criteria, to which an owner or operator of a vessel engaged in commercial service shalladhere prior to carrying a cadet performing their Sea Year service from the United States Merchant Marine Academy, that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
 
 &emsp;(2) a process for collecting pertinent information from such owners or operators and verifying their compliance with the criteria.
 

@@ -16,7 +16,7 @@
 
 #### (b) Geographical distribution
 
-The Secretary shall establish criteria designed to achieve equitable distribution of assistanceunder this subchapter and subchapter III among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III.
+The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III.
 
 #### (c) Limitation
 

@@ -36,7 +36,7 @@ Section was formerly classified to section 404g of this title prior to editorial
 
 <b>2010</b>—Subsecs. (b) to (e). Pub. L. 111–259 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows:
 
-"(1) The President shall report annually to the appropriate committees of Congress on the types and volume of intelligence provided to the United Nations and the purposes for which it was provided during the period covered by the report. The President shall also report to the appropriate committees of Congress within 15 days after it has become known to the United States Government that there has been an unauthorized disclosure of intelligence provided by the United States to the United Nations.
+"(1) The President shall report annually to the appropriate committees of Congress on the types and volume of intelligence provided to the United Nations and thepurposes for which it was provided during the period covered by the report. The President shall also report to the appropriate committees of Congress within 15 days after it has become known to the United States Government that there has been an unauthorized disclosure of intelligence provided by the United States to the United Nations.
 
 "(2) The requirement for periodic reports under the first sentence of paragraph (1) shall not apply to the provision of intelligence that is provided only to, and for the use of, appropriately cleared United States Government personnel serving with the United Nations.
 

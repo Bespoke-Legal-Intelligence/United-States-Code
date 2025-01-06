@@ -134,7 +134,7 @@ Not later than November 1 of each even-numbered fiscal year, the Attorney Genera
 
 #### (2) Limitation
 
-&emsp;Of the amount made available under paragraph (1) in any fiscal year, not more than 5percent may be used for evaluation, monitoring, technical assistance, salaries, and administrative expenses.
+&emsp;Of the amount made available under paragraph (1) in any fiscal year, not more than 5 percent may be used for evaluation, monitoring, technical assistance, salaries, and administrative expenses.
 
 (Pub. L. 117–103, div. W, title XIV, §1401, Mar. 15, 2022, 136 Stat. 945.)
 
@@ -152,5 +152,5 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 #### Definitions
 
-For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
+For definitions of terms used in this section, see section 12291 of this title, as made applicable by section2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 

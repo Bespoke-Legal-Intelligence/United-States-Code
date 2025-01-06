@@ -12,7 +12,7 @@
 
 #### (3) Obligation of future appropriations
 
-&emsp;In any partnership agreement described in paragraph (1) and entered into by a State, ora body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.
+&emsp;In any partnership agreement described in paragraph (1) and entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.
 
 #### (4) Credit for in-kind contributions
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) shall not exceed the non-Federal share of the cost of the project;
 
-&emsp;&emsp;&emsp;(ii) shall not alter any other requirement that a non-Federal interest provide lands, easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
+&emsp;&emsp;&emsp;(ii) shall not alter any other requirement that a non-Federal interest provide lands,easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
 
 &emsp;&emsp;&emsp;(iii) shall not alter any requirement that a non-Federal interest pay a portion of the costs of construction of the project under sections 2211(a)(2) and 2213(a)(1)(A) of title 33; and
 
@@ -76,7 +76,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that credit for in-kind contributions, as limited by subparagraph (D), and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnershipagreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
+&emsp;&emsp;&emsp;To the extent that credit for in-kind contributions, as limited by subparagraph (D), and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnership agreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
 
 #### (ii) Priority
 
@@ -96,7 +96,7 @@
 
 The term "non-Federal interest" means—
 
-&emsp;(1) a legally constituted public body (including an Indian tribe and a tribal organization (as those terms are defined in section 5304 of title 25)); or
+&emsp;(1) a legally constituted public body (including an Indian tribe and a tribal organization (as those terms are defined in section 5304 of title 25)) and an inter-tribal consortium (as defined in section 3202 of title 25); or
 
 &emsp;(2) a nonprofit entity with the consent of the affected local government,
 
@@ -142,19 +142,21 @@ Not later than 120 days after November 8, 2007, the Chief of Engineers shall—
 
 This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
 
-(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224; Pub. L. 114–322, title I, §1131, Dec. 16, 2016, 130 Stat. 1653; Pub. L. 115–270, title I, §1155(b), Oct. 23, 2018, 132 Stat. 3793.)
+(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224; Pub. L. 114–322, title I, §1131, Dec. 16, 2016, 130 Stat. 1653; Pub. L. 115–270, title I, §1155(b), Oct. 23, 2018, 132 Stat. 3793; Pub. L. 118–272, div. A, title I, §1137, Jan. 4, 2025, 138 Stat. 3025.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319, as amended, which is classified to section 390b of Title 43, Public Lands.
+The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319, which is classified to section 390b of Title 43, Public Lands.
 
 #### Codification
 
 Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (b)(1). Pub. L. 118–272 inserted "and an inter-tribal consortium (as defined in section 3202 of title 25)" after "section 5304 of title 25))".
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–270 substituted "(including an Indian tribe and a tribal organization (as those terms are defined in section 5304 of title 25)); or" for "(including a federally recognized Indian tribe and, as defined in section 1602 of title 43, a Native village, Regional Corporation, and Village Corporation); or".
 
@@ -182,7 +184,7 @@ Subsecs. (e) to (h). Pub. L. 110–114, §2003(c), added subsecs. (e) to (g) and
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–541 in last sentence, struck out "State legislative" after "obligate future", substituted "constitutional" for "State constitutional", and inserted "of the State or a political subdivision of the State" before period at end.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–303, in first sentence, inserted before period at end "; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000".
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, in first sentence, inserted before period at end "; except that no suchagreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000".
 
 Subsecs. (e), (f). Pub. L. 104–106 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "The Secretary of the Army, acting through the Chief of Engineers, shall maintain a continuing inventory of agreements and the status of their performance, and shall report thereon annually to the Congress."
 

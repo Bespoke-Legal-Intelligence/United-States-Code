@@ -286,7 +286,7 @@ Sec. 4. (a) Any transaction that evades or avoids, has the purpose of evading or
 
 (b) Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
 
-Sec. 5. I hereby determine that the making of donations of the types of articles specified in section 203(b)(2) of IEEPA (50 U.S.C. 1702(b)(2)) by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to this order would seriously impair my ability to deal with the national emergency declared in Executive Order 14024, and I hereby prohibit such donations as provided by section 1 of this order.
+Sec. 5. I hereby determine that the making of donations of the types of articles specified in section203(b)(2) of IEEPA (50 U.S.C. 1702(b)(2)) by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to this order would seriously impair my ability to deal with the national emergency declared in Executive Order 14024, and I hereby prohibit such donations as provided by section 1 of this order.
 
 Sec. 6. For the purposes of this order:
 
@@ -298,7 +298,7 @@ Sec. 6. For the purposes of this order:
 
 (d) the term "United States person" means any United States citizen, lawful permanent resident, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.
 
-Sec. 7. For those persons whose property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States, I find that because of the ability to transferfunds or other assets instantaneously, prior notice to such persons of measures to be taken pursuant to this order would render those measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergency declared in Executive Order 14024, there need be no prior notice of a listing or determination made pursuant to section 1 of this order.
+Sec. 7. For those persons whose property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States, I find that because of the ability to transfer funds or other assets instantaneously, prior notice to such persons of measures to be taken pursuant to this order would render those measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergency declared in Executive Order 14024, there need be no prior notice of a listing or determination made pursuant to section 1 of this order.
 
 Sec. 8. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA and PEESA, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may, consistent with applicable law, redelegate any of these functions within the Department of the Treasury. All departments and agencies of the United States shall take all appropriate measures within their authority to carry out the provisions of this order.
 

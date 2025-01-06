@@ -12,9 +12,9 @@ The purposes of the Foundation are—
 
 &emsp;(2) to undertake and conduct such other activities as will augment efforts of the National Oceanic and Atmospheric Administration to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety;
 
-&emsp;(3) to participate with, and otherwise assist, State, local, and Tribal governments, foreign governments, entities, and individuals in undertaking and conducting activities to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris and its root causes on the economy of theUnited States, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety;
+&emsp;(3) to participate with, and otherwise assist, State, local, and Tribal governments, foreign governments, entities, and individuals in undertaking and conducting activities to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris and its root causes on the economy of the United States, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety;
 
-&emsp;(4) subject to an agreement with the Secretary of Commerce, administer the Genius Prize for Save Our Seas Innovation as described in title II; <sup>1</sup> and
+&emsp;(4) subject to an agreement with the Secretary of Commerce, administer the GeniusPrize for Save Our Seas Innovation as described in title II; <sup>1</sup> and
 
 &emsp;(5) to support other Federal actions to reduce marine debris.
 

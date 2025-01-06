@@ -192,7 +192,7 @@ Subsecs. (m), (n). Pub. L. 110–376, §4(b)(3), (c), added subsecs. (m) and (n)
 
 <b>2003</b>—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, §204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
 
-Subsec. (l). Pub. L. 108–169, §204(d), inserted at end "The Superintendent shall offer, at the Academy andat other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters."
+Subsec. (l). Pub. L. 108–169, §204(d), inserted at end "The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters."
 
 <b>2000</b>—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted "Director" for "Secretary" wherever appearing.
 

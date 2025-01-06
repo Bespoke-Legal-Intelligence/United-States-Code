@@ -148,5 +148,5 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Sense of Congress.—It is the sense of Congress that, in accordance with the history, tradition, and purposes of The American Legion, it is fair, proper, and reasonable that the privilege of membership in The American Legion should be extended to all military personnel who served on active military duty during all of the unrecognized war eras involving active United States military personnel."
+Sense of Congress.—It is the sense of Congress that, in accordance with the history, tradition, and purposes of The American Legion, it is fair, proper, and reasonable that the privilege of membership in The American Legion should be extended to all militarypersonnel who served on active military duty during all of the unrecognized war eras involving active United States military personnel."
 

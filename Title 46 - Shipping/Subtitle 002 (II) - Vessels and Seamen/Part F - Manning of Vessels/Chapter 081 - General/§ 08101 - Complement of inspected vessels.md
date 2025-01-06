@@ -18,7 +18,7 @@
 
 (f) The owner, charterer, or managing operator of a vessel not manned as required by this section is liable to the Government for a civil penalty of $10,000.
 
-(g) A person may not employ an individual as, and an individual may not serve as, a master, mate, engineer, radio officer, or pilot of a vessel to which this part applies or which is subject to inspection under chapter 33 of this title if the individual is not licensed by the Secretary. A person (including an individual) violating this subsection is liable to the Government for a civil penalty of not more than $10,000. Each day of a continuing violation is a separate offense.
+(g) A person may not employ an individual as, and an individual may not serve as, a master, mate, engineer, radio officer, or pilot of a vessel to which this part applies or which is subject to inspection under chapter 33 of this title if the individual is not licensed by the Secretary. Aperson (including an individual) violating this subsection is liable to the Government for a civil penalty of not more than $10,000. Each day of a continuing violation is a separate offense.
 
 (h) The owner, charterer, or managing operator of a freight vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, a small passenger vessel, or a sailing school vessel not manned as required by this section is liable to the Government for a civil penalty of $1,000. The vessel also is liable in rem for the penalty.
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) in written form transmitted within 12 hours after the vessel arrives at its next port.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 547; Pub. L. 98–557, §29(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L.99–640, §11(b), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 101–380, title IV, §§4104, 4114(c), 4302(e), Aug. 18, 1990, 104 Stat. 511, 517, 538; Pub. L. 104–324, title VII, §725, Oct. 19, 1996, 110 Stat. 3939.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 547; Pub. L. 98–557, §29(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–640, §11(b), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 101–380, title IV, §§4104, 4114(c), 4302(e), Aug. 18, 1990, 104 Stat. 511, 517, 538; Pub. L. 104–324, title VII, §725, Oct. 19, 1996, 110 Stat. 3939.)
 
 Historical and Revision Notes
 

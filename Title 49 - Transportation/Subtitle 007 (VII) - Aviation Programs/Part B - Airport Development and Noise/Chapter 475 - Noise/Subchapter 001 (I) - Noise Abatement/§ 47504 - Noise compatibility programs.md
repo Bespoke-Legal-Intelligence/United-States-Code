@@ -46,7 +46,7 @@ Grants.—(1) The Secretary may incur obligations to make grants from amounts av
 
 (2)
 
-Soundproofing and acquisition of certain residential buildings and properties.—The Secretary may incur obligations to make grants from amounts made available under section 48103 of this title—
+Soundproofing and acquisition of certain residential buildings and properties.—TheSecretary may incur obligations to make grants from amounts made available under section 48103 of this title—
 
 &emsp;(A) for projects to soundproof residential buildings—
 
@@ -110,7 +110,7 @@ Grants for Assessment of Flight Procedures.—
 
 &emsp;(1)
 
-In general.—In accordance with subsection (c)(1), the Secretary may make a grantto an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
+In general.—In accordance with subsection (c)(1), the Secretary may make a grant to an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
 
 &emsp;(2)
 

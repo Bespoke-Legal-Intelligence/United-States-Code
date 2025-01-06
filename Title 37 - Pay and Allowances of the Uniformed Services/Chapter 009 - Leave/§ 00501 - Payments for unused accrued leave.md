@@ -12,13 +12,13 @@
 
 &emsp;(5) in the case of an enlisted member of a reserve component who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
 
-(b)(1) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to the member's credit at the time of the member's discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which the member was entitled on the date of discharge.
+(b)(1) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration,who has accrued leave to the member's credit at the time of the member's discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which the member was entitled on the date of discharge.
 
 (2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant in any uniformed service.
 
 (3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
-(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from theone status to the other within any uniformed service.
+(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
 
 (5) The limitation in the second sentence of paragraph (3) and in subsection (f) shall not apply with respect to leave accrued—
 
@@ -186,7 +186,7 @@ Subsec. (f). Pub. L. 96–513, §516(14)(A), (C), substituted "September 1, 1976
 
 Subsec. (g). Pub. L. 96–513, §516(14)(C), substituted "Secretary of Health and Human Services" for "Surgeon General".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–361, §304(a), (b), struck out cl. (1) designation for existing provisions, made definition applicable to the section rather than to subsecs.\(b) to (f) of this section, and redesignated as cls. (1), (2), and (3) former subcls. (A), (B), and (C); and struck out former cls. (2), (3), and (4) defining "child", "parent", and "brother or sister", respectively.
+<b>1976</b>—Subsec. (a). Pub. L. 94–361, §304(a), (b), struck out cl. (1) designation for existing provisions, made definition applicable to the section rather than to subsecs. (b) to (f) of this section, and redesignated as cls. (1), (2), and (3) former subcls. (A), (B), and (C); and struck out former cls. (2), (3), and (4) defining "child", "parent", and "brother or sister", respectively.
 
 Subsec. (b). Pub. L. 94–361, §304(c), in revising text, incorporated in provisions designated par. (1) provisions of former first and second sentences for payments for unused accrued leave of officers and enlisted members, striking out consideration of allowances to officers and of allowances to enlisted members computed at rate of 70 cents a day for subsistence and of allowance to enlisted members in pay grades E–⁠9 through E–5 with dependents at rate of $1.25 for quarters, and substituting "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration"; incorporated in par. (2) provisions of item (1) of former third sentence, substituting "in any uniformed service" for "in his armed force"; incorporated in par. (3) provisions of item (2) of former third sentence, substituting "in any uniformed service" for "in his armed force" and inserting provisions for payment for leave not carried over to a new enlistment and prescribing number of days of leave for which payment may be made; and designated last (the fourth) sentence as par. (4), substituting "within any uniformed service" for "within his armed force".
 

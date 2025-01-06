@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, for any program applying to become a
 
 &emsp;&emsp;(C) will not deny the application of a qualified candidate who is a veteran or other individual eligible for educational assistance described in subparagraph (A) for the purpose of avoiding making a good faith effort to obtain approval as described in subparagraph (B);
 
-&emsp;(2) in accordance with paragraphs (5) and (12) of section 29.5(b) of title 29, Code of Federal Regulations (as in effect on the day before March 26, 2020), require the program sponsor, to the extent practicable, to provide standards that contain provisions to grant advanced standing or credit, and provide increased wages commensurate to such standing or credit, for any veteran or other individual eligible for educational assistance under chapters 30 through 36 of title 38 who—
+&emsp;(2) in accordance with paragraphs (5) and (12) of section 29.5(b) of title 29, Code of Federal Regulations (as in effect on the day beforeMarch 26, 2020), require the program sponsor, to the extent practicable, to provide standards that contain provisions to grant advanced standing or credit, and provide increased wages commensurate to such standing or credit, for any veteran or other individual eligible for educational assistance under chapters 30 through 36 of title 38 who—
 
 &emsp;&emsp;(A) is enrolled in the registered apprenticeship program; and
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, for any program applying to become a
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 116–134, Mar. 26, 2020, 134 Stat. 276, known as the Support forVeterans in Effective Apprenticeships Act of 2019, which enacted this section and provisions set out as a note under section 50 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 50 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 116–134, Mar. 26, 2020, 134 Stat. 276, known as the Support for Veterans in Effective Apprenticeships Act of 2019, which enacted this section and provisions set out as a note under section 50 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 50 of this title and Tables.
 
 The Act of August 16, 1937, referred to in subsec. (a)(1), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 

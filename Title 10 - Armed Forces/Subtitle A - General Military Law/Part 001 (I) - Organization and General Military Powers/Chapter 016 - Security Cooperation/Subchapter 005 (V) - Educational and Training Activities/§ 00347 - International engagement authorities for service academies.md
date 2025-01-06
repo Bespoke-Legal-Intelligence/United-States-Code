@@ -14,13 +14,13 @@ In general.—The Secretary of each military department may permit persons from 
 
 &emsp;&emsp;&emsp;(i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under section 7442 of this title;
 
-&emsp;&emsp;&emsp;(ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under section 8454 of this title; and
+&emsp;&emsp;&emsp;(ii) in the case of the United States Naval Academy, the authorized strength ofthe Brigade of Midshipmen of the Academy under section 8454 of this title; and
 
 &emsp;&emsp;&emsp;(iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under section 9442 of this title.
 
 &emsp;&emsp;(B)
 
-Limitation on number.—The number of persons permitted to receive instruction at each Service Academy under this subsection may not be more than 60 at any one time.
+Limitation on number.—The number of persons permitted to receive instruction at each Service Academy under this subsection may not be more than 80 at any one time.
 
 &emsp;(2)
 
@@ -144,7 +144,7 @@ Source of funds.—Each Service Academy shall bear the costs of the attendance o
 
 &emsp;&emsp;(C)
 
-Limitation on expenditures.—Expenditures from appropriated funds in support ofactivities under this subsection for any Service Academy may not exceed $40,000 during any fiscal year.
+Limitation on expenditures.—Expenditures from appropriated funds in support of activities under this subsection for any Service Academy may not exceed $40,000 during any fiscal year.
 
 (d)
 
@@ -156,7 +156,7 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 
 &emsp;(3) The United States Air Force Academy.
 
-(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
+(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017; Pub. L. 118–159, div. A, title V, §551, Dec. 23, 2024, 138 Stat. 1893.)
 
 #### <b>Editorial Notes</b>
 
@@ -165,6 +165,8 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 Provisions similar to those in this section were contained in sections 4344 to 4345a, 6957 to 6957b, and 9344 to 9345a, prior to repeal by Pub. L. 114–328.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(B). Pub. L. 118–159 substituted "80" for "60".
 
 <b>2018</b>—Subsec. (a)(1)(A)(i). Pub. L. 115–232, §809(a), substituted "section 7442" for "section 4342".
 

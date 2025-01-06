@@ -14,7 +14,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;(5) A comprehensive child find system, consistent with subchapter II, including a system for making referrals to service providers that includes timelines and provides for participation by primary referral sources and that ensures rigorous standards for appropriately identifying infants and toddlers with disabilities for services under this subchapter that will reduce the need for future services.
 
-&emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information to be given to parents, especially to inform parents with premature infants, or infants with otherphysical risk factors associated with learning or developmental complications, on the availability of early intervention services under this subchapter and of services under section 1419 of this title, and procedures for assisting such sources in disseminating such information to parents of infants and toddlers with disabilities.
+&emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information to be given to parents, especially to inform parents with premature infants, or infants with other physical risk factors associated with learning or developmental complications, on the availability of early intervention services under this subchapter and of services under section 1419 of this title, and procedures for assisting such sources in disseminating such information to parents of infants and toddlers with disabilities.
 
 &emsp;(7) A central directory that includes information on early intervention services, resources, and experts available in the State and research and demonstration projects being conducted in the State.
 
@@ -68,7 +68,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 #### (b) Policy
 
-In implementing subsection (a)(9), a State may adopt a policy that includes making ongoing good-faith efforts to recruit and hire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is ashortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subsection (a)(9).
+In implementing subsection (a)(9), a State may adopt a policy that includes making ongoing good-faith efforts to recruit and hire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subsection (a)(9).
 
 #### (c) Flexibility to serve children 3 years of age until entrance into elementary school
 
@@ -122,7 +122,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
 
-(Pub. L. 91–230, title VI, §635, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2747; amended Pub. L. 111–320, title II, §202(b), Dec. 20, 2010, 124 Stat. 3509.)
+(Pub. L. 91–230, title VI, §635, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2747;amended Pub. L. 111–320, title II, §202(b), Dec. 20, 2010, 124 Stat. 3509.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,7 +130,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 A prior section 1435, Pub. L. 91–230, title VI, §635, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 108, related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11,Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
 

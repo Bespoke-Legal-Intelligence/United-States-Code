@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Homeland Security shall deposit all interest described in subsection (c) into the special account established under section1675c(e) of this title (repealed by subtitle F of title VII of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 154)) for inclusion in distributions described in subsection (b) made on or after February 24, 2016.
+The Secretary of Homeland Security shall deposit all interest described in subsection (c) into the special account established under section 1675c(e) of this title (repealed by subtitle F of title VII of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 154)) for inclusion in distributions described in subsection (b) made on or after February 24, 2016.
 
 #### (b) Distributions described
 
@@ -50,7 +50,7 @@ In this section:
 
 #### References in Text
 
-Section 1675c of this title (repealed by subtitle F of title VII of the Deficit Reduction Act of 2005), referred to in subsecs. (a) and (b), means section 1675c of this title, which was repealed by Pub. L. 109–171, title VII, §7601(a), Feb. 8, 2006, 120 Stat. 154, and which related to an annual distribution to certain domestic producers known as the "continued dumping and subsidy offset". Subsec. (e) of section 1675c related to special accounts established in the Treasury of the United States for certain antidumping and countervailing duty orders and findings.
+Section 1675c of this title (repealed by subtitle F of title VII of the Deficit Reduction Act of 2005), referredto in subsecs. (a) and (b), means section 1675c of this title, which was repealed by Pub. L. 109–171, title VII, §7601(a), Feb. 8, 2006, 120 Stat. 154, and which related to an annual distribution to certain domestic producers known as the "continued dumping and subsidy offset". Subsec. (e) of section 1675c related to special accounts established in the Treasury of the United States for certain antidumping and countervailing duty orders and findings.
 
 Section 822 of the Claims Resolution Act of 2010, referred to in subsec. (b)(2), is section 822 of Pub. L. 111–291, which is set out as a note under section 1675c of this title.
 

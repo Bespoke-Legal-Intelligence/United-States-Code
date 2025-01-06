@@ -20,7 +20,7 @@ The key objectives of the United States for human expansion into space shall beâ
 
 &emsp;(3) to maximize the role that human exploration of space can play in advancing overall knowledge of the universe, supporting United States national and economic security and the United States global competitive posture, and inspiring young people in their educational pursuits;
 
-&emsp;(4) to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience indeveloping and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a); and
+&emsp;(4) to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience in developing and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a); and
 
 &emsp;(5) to achieve human exploration of Mars and beyond through the prioritization of those technologies and capabilities best suited for such a mission in accordance with the stepping stone approach to exploration under section 70504 of title 51.
 

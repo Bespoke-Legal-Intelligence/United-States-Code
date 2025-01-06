@@ -2,7 +2,7 @@
 
 #### (1) Program
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary")shall establish a program to award grants to eligible entities to support the operation of school-based health centers.
+The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall establish a program to award grants to eligible entities to support the operation of school-based health centers.
 
 #### (2) Eligibility
 
@@ -14,7 +14,7 @@ To be eligible for a grant under this section, an entity shall—
 
 #### (3) Preference
 
-In awarding grants under this section,<sup>1</sup> the Secretary shall give preference to awarding grants for school-based health centers that serve a large population of children eligible for medical assistance under the State Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a waiver of such plan or children eligible for child health assistance under the State child health plan under title XXI of that Act (42 U.S.C. 1397aa et seq.).
+In awarding grants under this section,<sup>1</sup> the Secretary shall give preference to awarding grants for school-based health centers that serve a large population of children eligible for medical assistance under the State Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a waiver of suchplan or children eligible for child health assistance under the State child health plan under title XXI of that Act (42 U.S.C. 1397aa et seq.).
 
 #### (4) Limitation on use of funds
 

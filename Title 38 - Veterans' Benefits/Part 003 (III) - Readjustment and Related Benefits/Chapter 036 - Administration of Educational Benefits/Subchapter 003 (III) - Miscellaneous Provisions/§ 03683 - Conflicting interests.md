@@ -2,7 +2,7 @@
 
 (a)
 
-Department Officers and Employees.—(1) An officer or employee of the Department shall receive corrective action or disciplinary action if such officer or employee—
+Department Officers and Employees.—(1) An officer or employee of the Departmentshall receive corrective action or disciplinary action if such officer or employee—
 
 &emsp;(A) has, while serving as such an officer or employee, owned any interest in, or received any wage, salary, dividend, profit, or gift from, any educational institution operated for profit; or
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 94–502, §513(a)(16), substituted "if the Administrator f
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–251, title III, §302(b), Sept. 29, 2018, 132 Stat. 3179, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 29, 2018\] and shall apply with respect to conflicts of interest that occur on or after that date."
+Pub. L. 115–251, title III, §302(b), Sept. 29, 2018, 132 Stat. 3179, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effecton the date of the enactment of this Act \[Sept. 29, 2018\] and shall apply with respect to conflicts of interest that occur on or after that date."
 
 #### Effective Date of 1976 Amendment
 

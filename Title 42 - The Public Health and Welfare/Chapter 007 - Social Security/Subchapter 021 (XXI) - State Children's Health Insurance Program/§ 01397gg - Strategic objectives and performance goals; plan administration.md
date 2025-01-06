@@ -16,7 +16,7 @@
 
 #### (2) Strategic objectives
 
-&emsp;Such plan shall identify specific strategic objectives relating to increasing the extent of creditable health coverage among targetedlow-income children and other low-income children.
+&emsp;Such plan shall identify specific strategic objectives relating to increasing the extent of creditable health coverage among targeted low-income children and other low-income children.
 
 #### (3) Performance goals
 
@@ -88,7 +88,7 @@ The following sections of this chapter shall apply to States under this subchapt
 
 &emsp;(O) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
 
-&emsp;(P) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the Statehas elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+&emsp;(P) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
 &emsp;(Q) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
@@ -162,7 +162,7 @@ Subsec. (e)(1)(K) to (U). Pub. L. 117–328, §5112(b), added subpar. (K) and re
 
 Subsec. (g). Pub. L. 115–120 added subsec. (g).
 
-<b>2016</b>—Subsec. (e)(1)(B) to (R). Pub. L. 114–255 added subpars. (B), (C), and (L), redesignated former subpars.\(B) to (I) as (D) to (K) and (J) to (O) as (M) to (R), respectively, and in subpar. (P), as so redesignated, substituted "(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)" for "(a)(2)(C) and (h)".
+<b>2016</b>—Subsec. (e)(1)(B) to (R). Pub. L. 114–255 added subpars. (B), (C), and (L), redesignated former subpars. (B) to (I) as (D) to (K) and (J) to (O) as (M) to (R), respectively, and in subpar. (P), as so redesignated, substituted "(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)" for "(a)(2)(C) and (h)".
 
 <b>2010</b>—Subsec. (e)(1)(D). Pub. L. 111–309, §205(f)(2)(A), substituted "(kk)" for "(ii)".
 
@@ -290,7 +290,7 @@ Amendment by section 5123(c) of Pub. L. 117–328 effective July 1, 2025, see se
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 117–2, title IX, §9822(b), Mar. 11, 2021, 135 Stat. 221, as amended by Pub. L. 117–328, div. FF, title V,§5113, Dec. 29, 2022, 136 Stat. 5940, provided that: "The amendments made by subsection (a) \[amending this section\], shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act (42 U.S.C. 1396a(e)), as added by section 9812(a) of subtitle J of this title \[subtitle J (§§9811–9819) of title IX of Pub. L. 117–2\], beginning on the 1st day of the 1st fiscal year quarter that begins one year after the date of the enactment of this Act \[Mar. 11, 2021\]."
+Pub. L. 117–2, title IX, §9822(b), Mar. 11, 2021, 135 Stat. 221, as amended by Pub. L. 117–328, div. FF, title V, §5113, Dec. 29, 2022, 136 Stat. 5940, provided that: "The amendments made by subsection (a) \[amending this section\], shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act (42 U.S.C. 1396a(e)), as added by section 9812(a) of subtitle J of this title \[subtitle J (§§9811–9819) of title IX of Pub. L. 117–2\], beginning on the 1st day of the 1st fiscal year quarter that begins one year after the date of the enactment of this Act \[Mar. 11, 2021\]."
 
 \[Pub. L. 117–328, div. FF, title V, §5113, Dec. 29, 2022, 136 Stat. 5940, provided in part that the amendment made by section 5113 to section 9822(b) of Pub. L. 117–2, set out above, is effective as if included in the enactment of Pub. L. 117–2.\]
 

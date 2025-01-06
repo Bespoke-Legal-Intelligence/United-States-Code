@@ -16,7 +16,7 @@ Storage of Data.—(1) Data collected by the Director of Cost Assessment and Pro
 
 &emsp;(B) made accessible to other Federal agencies as such Directors consider appropriate.
 
-(2) The Secretary and the Administrator shall ensure that the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation have sufficient information system support, as determined by such Directors, to facilitate the timely hosting, handling, and sharing of data relating to programs and projects of the nuclear security enterprise under this section at the appropriate level of classification.
+(2) The Secretary and the Administrator shall ensure that the Director of Cost Assessment andProgram Evaluation and the Director for Cost Estimating and Program Evaluation have sufficient information system support, as determined by such Directors, to facilitate the timely hosting, handling, and sharing of data relating to programs and projects of the nuclear security enterprise under this section at the appropriate level of classification.
 
 (3) The Deputy Administrator for Naval Reactors of the National Nuclear Security Administration may coordinate with the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation to ensure that, at the discretion of the Deputy Administrator, data relating to programs and projects of the Office of Naval Reactors are correctly represented in the data storage system pursuant to paragraph (1)(A).
 

@@ -6,7 +6,7 @@ There shall be allowed as a deduction the expenses paid during the taxable year,
 
 #### (b) Limitation with respect to medicine and drugs
 
-An amount paid during the taxable year for medicine or a drug shall be taken into accountunder subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
+An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
 
 #### (c) Special rule for decedents
 
@@ -358,7 +358,7 @@ Pub. L. 88–272, title II, §211(b), Feb. 26, 1964, 78 Stat. 49, provided that:
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–863, §1(c), Oct. 23, 1962, 76 Stat. 1141, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply only withrespect to taxable years beginning after December 31, 1961."
+Pub. L. 87–863, §1(c), Oct. 23, 1962, 76 Stat. 1141, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1961."
 
 #### Effective Date of 1960 Amendment
 

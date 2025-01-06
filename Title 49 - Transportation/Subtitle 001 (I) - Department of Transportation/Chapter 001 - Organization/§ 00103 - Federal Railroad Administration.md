@@ -74,7 +74,7 @@ Resource needs.—The strategy and annual plans shall include estimates of the f
 
 &emsp;(3)
 
-Submission with president's budget.—Beginning with fiscal year 2010 and each fiscal year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the same time as the President's budget submission, the Administration's performance goals and schedule developed under paragraph (1), including an assessment of the progress of the Administration toward achieving its performance goals.
+Submission with president's budget.—Beginning with fiscal year 2010 and each fiscal year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the same time as the President's budget submission, the Administration's performance goals andschedule developed under paragraph (1), including an assessment of the progress of the Administration toward achieving its performance goals.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–217, §3(n)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 110–432, div. A, title I, §101, div. B, title III, §307, Oct. 16, 2008, 122 Stat. 4851, 4953; Pub. L. 111–350, §5(o)(1), Jan. 4, 2011, 124 Stat. 3853.)
 
@@ -144,7 +144,7 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 #### Amendments
 
-<b>2011</b>—Subsec. (i). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and AdministrativeServices Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (e), was executed to subsec. (i), to reflect the probable intent of Congress.
+<b>2011</b>—Subsec. (i). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (e), was executed to subsec. (i), to reflect the probable intent of Congress.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–432, §307(1), (2), inserted heading and struck out at end "To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices."
 
@@ -176,7 +176,7 @@ Public Reporting of Violations.—On the Federal Railroad Administration's publi
 
 #### Funds for Broadband High Speed Internet Service Connection for Federal Railroad Administration Employees
 
-Pub. L. 108–447, div. H, title I, §151, Dec. 8, 2004, 118 Stat. 3222, provided that: "Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 2005, and hereafter, the Federal Railroad Administration may use funds appropriated by this or any other Act to provide for the installation of a broadband high speed internet service connection, including necessary equipment, for Federal Railroad Administration employees, and to either pay directly recurring monthly charges or to reimburse a percentage of such monthly charges which are paid by such employees: <i>Provided</i>, That the Federal Railroad Administration certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission."
+Pub. L. 108–447, div. H, title I, §151, Dec. 8, 2004, 118 Stat. 3222, provided that: "Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 2005, and hereafter, the FederalRailroad Administration may use funds appropriated by this or any other Act to provide for the installation of a broadband high speed internet service connection, including necessary equipment, for Federal Railroad Administration employees, and to either pay directly recurring monthly charges or to reimburse a percentage of such monthly charges which are paid by such employees: <i>Provided</i>, That the Federal Railroad Administration certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "chapter;".</i>
 

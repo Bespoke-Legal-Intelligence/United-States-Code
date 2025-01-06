@@ -46,7 +46,7 @@ In this chapter:
 
 #### (7) Unilateral medical sanction
 
-&emsp;The term "unilateral medical sanction" means any prohibition, restriction, or condition on exports of, or the provision of assistance consisting of, medicine or a medical device with respect to a foreign country or foreign entity that is imposed by the UnitedStates for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
+&emsp;The term "unilateral medical sanction" means any prohibition, restriction, or condition on exports of, or the provision of assistance consisting of, medicine or a medical device with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
 
 &emsp;&emsp;(A) a multilateral regime and the other member countries of that regime have agreed to impose substantially equivalent measures; or
 

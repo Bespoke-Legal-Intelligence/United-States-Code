@@ -8,7 +8,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Under Secretary for Science and Technology, shalloperate extramural research, development, demonstration, testing, and evaluation programs so as to—
+&emsp;The Secretary, acting through the Under Secretary for Science and Technology, shall operate extramural research, development, demonstration, testing, and evaluation programs so as to—
 
 &emsp;&emsp;(A) ensure that colleges, universities, private research institutes, and companies (and consortia thereof) from as many areas of the United States as practicable participate;
 
@@ -118,7 +118,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 #### (D) Domestic end product
 
-&emsp;&emsp;The term "domestic end product" has the meaning given such term in section 25.003 of title 48, Code of Federal Regulations, or any successor thereto.
+&emsp;&emsp;The term "domestic end product" has the meaning given such term in section 25.003 oftitle 48, Code of Federal Regulations, or any successor thereto.
 
 #### (3) <sup>1</sup> Waivers
 

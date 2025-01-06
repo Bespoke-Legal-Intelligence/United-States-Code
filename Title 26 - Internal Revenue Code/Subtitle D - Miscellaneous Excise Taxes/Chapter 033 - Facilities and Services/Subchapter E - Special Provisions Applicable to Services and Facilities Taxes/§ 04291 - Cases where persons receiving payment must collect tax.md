@@ -44,5 +44,5 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 25, 1956, applicable to amounts paid on or after first day of first month whichbegins more than sixty days after July 25, 1956, for transportation commencing on or after such first day, see section 6 of act July 25, 1956, set out as a note under section 4261 of this title.
+Amendment by act July 25, 1956, applicable to amounts paid on or after first day of first month which begins more than sixty days after July 25, 1956, for transportation commencing on or after such first day, see section 6 of act July 25, 1956, set out as a note under section 4261 of this title.
 

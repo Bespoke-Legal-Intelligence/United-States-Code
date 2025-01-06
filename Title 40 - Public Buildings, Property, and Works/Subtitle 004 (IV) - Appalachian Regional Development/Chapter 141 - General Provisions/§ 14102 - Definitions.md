@@ -8,7 +8,7 @@ Definitions.—In this subtitle—
 
 Appalachian region.—The term "Appalachian region" means that area of the eastern United States consisting of the following counties (including any political subdivision located within the area):
 
-&emsp;&emsp;(A) In Alabama, the counties of Bibb, Blount, Calhoun, Chambers, Cherokee, Chilton, Clay, Cleburne, Colbert, Coosa, Cullman, De Kalb, Elmore, Etowah, Fayette, Franklin, Hale, Jackson, Jefferson, Lamar, Lauderdale, Lawrence, Limestone, Macon, Madison, Marion, Marshall, Morgan, Pickens, Randolph, St. Clair, Shelby, Talladega, Tallapoosa, Tuscaloosa, Walker, and Winston.
+&emsp;&emsp;(A) In Alabama, the counties of Bibb, Blount, Calhoun, Chambers, Cherokee, Chilton, Clay, Cleburne, Colbert, Coosa, Cullman, De Kalb, Elmore, Etowah, Fayette,Franklin, Hale, Jackson, Jefferson, Lamar, Lauderdale, Lawrence, Limestone, Macon, Madison, Marion, Marshall, Morgan, Pickens, Randolph, St. Clair, Shelby, Talladega, Tallapoosa, Tuscaloosa, Walker, and Winston.
 
 &emsp;&emsp;(B) In Georgia, the counties of Banks, Barrow, Bartow, Carroll, Catoosa, Chattooga, Cherokee, Dade, Dawson, Douglas, Elbert, Fannin, Floyd, Forsyth, Franklin, Gilmer, Gordon, Gwinnett, Habersham, Hall, Haralson, Hart, Heard, Jackson, Lumpkin, Madison, Murray, Paulding, Pickens, Polk, Rabun, Stephens, Towns, Union, Walker, White, and Whitfield.
 
@@ -16,7 +16,7 @@ Appalachian region.—The term "Appalachian region" means that area of the easte
 
 &emsp;&emsp;(D) In Maryland, the counties of Allegany, Garrett, and Washington.
 
-&emsp;&emsp;(E) In Mississippi, the counties of Alcorn, Benton, Calhoun, Chickasaw, Choctaw, Clay,Itawamba, Kemper, Lee, Lowndes, Marshall, Monroe, Montgomery, Noxubee, Oktibbeha, Panola, Pontotoc, Prentiss, Tippah, Tishomingo, Union, Webster, Winston, and Yalobusha.
+&emsp;&emsp;(E) In Mississippi, the counties of Alcorn, Benton, Calhoun, Chickasaw, Choctaw, Clay, Itawamba, Kemper, Lee, Lowndes, Marshall, Monroe, Montgomery, Noxubee, Oktibbeha, Panola, Pontotoc, Prentiss, Tippah, Tishomingo, Union, Webster, Winston, and Yalobusha.
 
 &emsp;&emsp;(F) In New York, the counties of Allegany, Broome, Cattaraugus, Chautauqua, Chemung, Chenango, Cortland, Delaware, Otsego, Schoharie, Schuyler, Steuben, Tioga, and Tompkins.
 

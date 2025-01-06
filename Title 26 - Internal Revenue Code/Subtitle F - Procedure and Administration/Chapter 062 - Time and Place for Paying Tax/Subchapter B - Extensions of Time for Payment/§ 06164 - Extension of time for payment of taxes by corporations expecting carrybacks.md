@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If a corporation, in any taxable year, files with the Secretary a statement, as provided insubsection (b), with respect to an expected net operating loss carryback from such taxable year, the time for payment of all or part of any tax imposed by subtitle A for the taxable year immediately preceding such taxable year shall be extended, to the extent and subject to the conditions and limitations hereinafter provided in this section.
+If a corporation, in any taxable year, files with the Secretary a statement, as provided in subsection (b), with respect to an expected net operating loss carryback from such taxable year, the time for payment of all or part of any tax imposed by subtitle A for the taxable year immediately preceding such taxable year shall be extended, to the extent and subject to the conditions and limitations hereinafter provided in this section.
 
 #### (b) Contents of statement
 

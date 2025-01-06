@@ -10,7 +10,7 @@ Section 3432, Pub. L. 103–182, title IV, §402, Dec. 8, 1993, 107 Stat. 2129; 
 
 Section 3433, Pub. L. 103–182, title IV, §403, Dec. 8, 1993, 107 Stat. 2136, which related to testimony and production of papers in extraordinary challenges, was renumbered as section 413 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(d)(1), (2), Jan. 29, 2020, 134 Stat. 74, 75, and transferred to section 4583 of this title.
 
-Section 3434, Pub. L. 103–182, title IV, §404, Dec. 8, 1993, 107 Stat. 2137, which related to requests for reviewof determinations by competent investigating authorities of NAFTA countries, was renumbered as section 414 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(e)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4584 of this title.
+Section 3434, Pub. L. 103–182, title IV, §404, Dec. 8, 1993, 107 Stat. 2137, which related to requests for review of determinations by competent investigating authorities of NAFTA countries, was renumbered as section 414 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(e)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4584 of this title.
 
 Section 3435, Pub. L. 103–182, title IV, §405, Dec. 8, 1993, 107 Stat. 2137, which provided for rules of procedure for panels and committees, was renumbered as section 415 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(f)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4585 of this title.
 

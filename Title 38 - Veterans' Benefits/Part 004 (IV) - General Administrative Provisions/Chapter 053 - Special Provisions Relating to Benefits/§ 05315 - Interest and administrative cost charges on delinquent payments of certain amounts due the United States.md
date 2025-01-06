@@ -16,19 +16,19 @@
 
 &emsp;(3) to the extent not precluded by the terms of the loan instruments concerned, for an indebtedness resulting from a person's participation in a program of loans, loan guaranties, or loan insurance administered by the Secretary under this title.
 
-(b)(1) Interest on the amount of any indebtedness described in subsection (a) of this section shall accrue from the day on which the initial notification of the amount due is mailed to the person who owes such amount (using the most current address of such person that is availableto the Secretary), but interest under this section shall not be charged (A) for any period before October 17, 1980, or (B) if the amount due is paid within a reasonable period of time. The Secretary shall, in the regulations prescribed pursuant to subsection (a) of this section, prescribe what constitutes a reasonable period of time for payment of an indebtedness after the initial notification of indebtedness has been mailed.
+(b)(1) Interest on the amount of any indebtedness described in subsection (a) of this section shall accrue from the day on which the initial notification of the amount due is mailed to the person who owes such amount (using the most current address of such person that is available to the Secretary), but interest under this section shall not be charged (A) for any period before October 17, 1980, or (B) if the amount due is paid within a reasonable period of time. The Secretary shall, in the regulations prescribed pursuant to subsection (a) of this section, prescribe what constitutes a reasonable period of time for payment of an indebtedness after the initial notification of indebtedness has been mailed.
 
 (2) The rate of interest to be charged under this section shall be based on the rate of interest paid by the United States for its borrowing and shall be determined by the Secretary under such regulations.
 
 (c) The administrative costs to be charged under this section with respect to an amount owed to the United States shall be so much of the costs incurred by the United States in collecting such amount as the Secretary determines, under such regulations, to be reasonable and appropriate.
 
-(Added Pub. L. 96–466, title VI, §605(a)(1), Oct. 17, 1980, 94 Stat. 2210, §3115; amended Pub. L. 102–16, §6(b)(4), Mar. 22, 1991, 105 Stat. 51; renumbered §5315 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(C)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 105–368, title X, §1005(b)(17), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 117–328, div. U, title II, §253(a), Dec. 29, 2022, 136 Stat. 5464.)
+(Added Pub. L. 96–466, title VI, §605(a)(1), Oct. 17, 1980, 94 Stat. 2210, §3115; amended Pub. L. 102–16, §6(b)(4), Mar. 22, 1991, 105 Stat. 51; renumbered §5315 and amended Pub. L. 102–40, title IV,§402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(C)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 105–368, title X, §1005(b)(17), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 117–328, div. U, title II, §253(a), Dec. 29, 2022, 136 Stat. 5464.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328, §253(a), designated existing provisions as introductory provisions, substituted "other than—" for "other than a loan, loan-guaranty, or loan-insurance program;", and added subpars. (A) to (D).
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328 designated existing provisions as introductory provisions, substituted "other than—" for "other than a loan, loan-guaranty, or loan-insurance program;", and added subpars. (A) to (D).
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–368 substituted "October 17, 1980," for "the date of the enactment of this section,".
 

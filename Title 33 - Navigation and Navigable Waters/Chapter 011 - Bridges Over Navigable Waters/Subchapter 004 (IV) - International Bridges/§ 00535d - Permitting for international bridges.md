@@ -48,7 +48,7 @@ An eligible applicant for a Presidential permit to construct, maintain, and oper
 
 #### (2) Consideration
 
-&emsp;The basis for a recommendation under paragraph (1) shall be whether the international bridge is in the foreign policy interests of the United States.
+&emsp;The basis for a recommendation under paragraph (1) shall be whether the internationalbridge is in the foreign policy interests of the United States.
 
 #### (d) Presidential action
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, the Secretary shall not require an e
 
 &emsp;(1) to include in the application under subsection (b) environmental documents prepared pursuant to Public Law 91–190 (42 U.S.C. 4321 et seq.); or
 
-&emsp;(2) to have completed any environmental review under Public Law 91–190 (42 U.S.C. 4321 etseq.) prior to the President granting a Presidential permit under subsection (d).
+&emsp;(2) to have completed any environmental review under Public Law 91–190 (42 U.S.C. 4321 et seq.) prior to the President granting a Presidential permit under subsection (d).
 
 #### (f) Rules of construction
 

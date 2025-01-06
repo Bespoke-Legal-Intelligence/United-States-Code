@@ -24,7 +24,7 @@ It is unlawful—
 
 &emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
 
-&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan implemented under this subchapter, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobsteradopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.);
+&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan implemented under this subchapter, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.);
 
 &emsp;&emsp;&emsp;(ii) is bearing eggs attached to its abdominal appendages; or
 
@@ -106,7 +106,7 @@ It is unlawful—
 
 #### References in Text
 
-This chapter, referred to in par. (1), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in par. (1), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to chapter 71 (§5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 #### Effective Date
 
-Pub. L. 94–265, title III, §312, Apr. 13, 1976, 90 Stat. 359, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+Pub. L. 94–265, title III, §312, Apr. 13, 1976, 90 Stat. 359, provided that this section and sections 1858 to 1861 ofthis title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
 
 #### Savings Clause
 
@@ -252,7 +252,7 @@ Report.—
 
 &emsp;&emsp;"(i)
 
-In general.—Not later than January 1, 2027, the Secretary of Commerce shall review the exemption provided by subparagraph (A) and submit to Congress a report regarding such exemption thatincludes a recommendation to continue or terminate the exemption.
+In general.—Not later than January 1, 2027, the Secretary of Commerce shall review the exemption provided by subparagraph (A) and submit to Congress a report regarding such exemption that includes a recommendation to continue or terminate the exemption.
 
 &emsp;&emsp;"(ii)
 

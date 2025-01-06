@@ -18,7 +18,7 @@ The following activities shall be exempt from sanctions under sections 9214, 922
 
 #### (2) Content of written determination
 
-&emsp;A written determination submitted under paragraph (1) with respect to a waiver shall include a description of all notification and accountability controls that have been employed in order to ensure that the activities covered by the waiver are humanitarian assistance or are carried out for the purposes set forth in section 7802 of this title and do not entail any activities in North Korea or dealings with the Government of North Korea not reasonably related to humanitarian assistance or such purposes.
+&emsp;A written determination submitted under paragraph (1) with respect to a waiver shall include a description of all notification and accountability controls that have been employed in order to ensure that the activities covered by the waiver are humanitarian assistance or are carried out for the purposes set forth in section 7802 of this title and do not entail any activities in North Korea or dealings with theGovernment of North Korea not reasonably related to humanitarian assistance or such purposes.
 
 #### (3) Clarification of permitted activities under waiver
 

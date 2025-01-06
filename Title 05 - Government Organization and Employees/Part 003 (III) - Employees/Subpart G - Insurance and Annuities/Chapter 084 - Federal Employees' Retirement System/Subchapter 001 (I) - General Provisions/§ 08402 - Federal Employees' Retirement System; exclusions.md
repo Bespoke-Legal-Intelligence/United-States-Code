@@ -26,7 +26,7 @@
 
 > &emsp;&emsp;determined without regard to any deposit or redeposit requirement under either such subchapter or under such benefit structure, or any requirement that the individual become subject to either such subchapter or to such benefit structure after performing the service involved; or
 
-&emsp;(B) any employee having at least 5 years of civilian service performed before January 1, 1987, creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
+&emsp;(B) any employee having at least 5 years of civilian service performed before January 1, 1987, creditable under subchapter III of chapter83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
 > except to the extent provided for under subsection (d) of this section or title III of the Federal Employees' Retirement System Act of 1986 pursuant to an election under such title to become subject to this chapter.
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in act
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on orafter July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Provisions Relating to Certain Former Employees
 
@@ -166,7 +166,7 @@ Pub. L. 106–168, title II, §202(c), Dec. 12, 1999, 113 Stat. 1819, provided t
 
 &emsp;"(1) has at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act \[Act Dec. 23, 1913, ch. 6, see Codification note set out under 12 U.S.C. 241\];
 
-&emsp;"(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of suchbenefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
+&emsp;"(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
 
 &emsp;"(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code,
 

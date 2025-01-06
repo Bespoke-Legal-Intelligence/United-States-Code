@@ -24,7 +24,7 @@
 
 (2) Any employee described in paragraph (1) who participates in training described in such paragraph shall fulfill a service requirement as determined by the Secretary.
 
-(3) The Secretary may by regulation prescribe such additional terms and conditions for grants used for training costs under this subsection as the Secretary considers appropriate.
+(3) The Secretary may by regulation prescribe such additional terms and conditions for grantsused for training costs under this subsection as the Secretary considers appropriate.
 
 (d)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State or county under this section to assist such State or county in establishing a veterans' cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
@@ -82,19 +82,33 @@
 
 &emsp;(E) Any minor child or unmarried adult child (as such terms are defined in section 2402(a) of this title) of any member described in subparagraphs (A) through (C).
 
-(j) The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans' cemetery in which interment of individuals described in subsection (i)(2) is allowed.
+(j) The Secretary may not deny an application for a grant under this section solely on the basisthat the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans' cemetery in which interment of individuals described in subsection (i)(2) is allowed.
 
-(k) For purposes of this section:
+(k)(1) The Secretary may not establish a condition for a grant under this section that restricts the ability of a State, county, or tribal organization receiving such a grant to allow the interment of any person described in paragraph (8) or (10) of section 2402(a) of this title in a veterans' cemetery owned by that State or county or on trust land owned by, or held in trust for, that tribal organization.
+
+(2) The Secretary may not deny an application for a grant under this section solely on the basis that the State, county, or tribal organization receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans' cemetery in which interment of persons described in paragraph (8) or (10) of section 2402(a) of this title is allowed.
+
+(3)(A) When requested by a State, county, or tribal organization that is the recipient of a grant made under this section, the Secretary shall—
+
+&emsp;(i) determine whether a person is eligible for burial in a national cemetery under paragraph (8) or (10) of section 2402(a) of this title; and
+
+&emsp;(ii) advise the recipient of the determination.
+
+(B) A recipient described in subparagraph (A) may use a determination of the Secretary under such subparagraph as a determination of the eligibility of the person concerned for burial in the cemetery for which the grant was made.
+
+(l) For purposes of this section:
 
 &emsp;(1) The term "tribal organization" has the meaning given that term in section 3765(4) of this title.
 
 &emsp;(2) The term "trust land" has the meaning given that term in section 3765(1) of this title.
 
-(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, §202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 116–315, title II, §§2205(a), (b)(1), 2206, 2208(a), Jan. 5, 2021, 134 Stat. 4986–4988; Pub. L. 117–103, div. CC, §102(a), Mar. 15, 2022, 136 Stat. 1109.)
+(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, §202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 116–315, title II, §§2205(a), (b)(1), 2206, 2208(a), Jan. 5, 2021, 134 Stat. 4986–4988; Pub. L. 117–103, div. CC, §102(a), Mar. 15, 2022, 136 Stat. 1109; Pub. L. 118–159, div. E, title L, §5001, Dec. 23, 2024, 138 Stat. 2407.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (k), (l). Pub. L. 118–159 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>2022</b>—Subsec. (d)(2). Pub. L. 117–103, §102(a)(1), substituted "Except as provided in subsection (i), the Secretary may" for "The Secretary may".
 
@@ -130,7 +144,7 @@ Pub. L. 116–315, §2205(a)(4), redesignated subsec. (f)(3) as (h) and subpars.
 
 Subsec. (i). Pub. L. 116–315, §2208(a)(2), redesignated subsec. (h), as redesignated by Pub. L. 116–315, §2205(a)(4)(A), (B), as (i).
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–157, §202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: "Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans' cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require."
+<b>2007</b>—Subsec. (a). Pub. L. 110–157, §202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans' cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require."
 
 Subsec. (b). Pub. L. 110–157, §202(b)(3)(A), substituted "A grant under this section for a purpose described in subsection (a)(1)(A)" for "Grants under this section" in introductory provisions and "such a grant" for "a grant under this section" wherever appearing.
 

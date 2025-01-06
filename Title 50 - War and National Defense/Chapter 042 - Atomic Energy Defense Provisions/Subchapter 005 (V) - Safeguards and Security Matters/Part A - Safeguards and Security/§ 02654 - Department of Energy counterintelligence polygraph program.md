@@ -24,7 +24,7 @@ The Secretary of Energy shall carry out, under regulations prescribed under this
 
 In this section, the term "Polygraph Review" means the review of the Committee to Review the Scientific Evidence on the Polygraph of the National Academy of Sciences.
 
-(Pub. L. 107–314, div. D, title XLV, §4504, formerly Pub. L. 107–107, div. C, title XXXI, §3152, Dec. 28, 2001, 115 Stat. 1376; renumbered Pub. L. 107–314, div. D, title XLV, §4504, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(5)(A), Nov. 24, 2003, 117 Stat. 1772; Pub. L. 113–66, div. C, title XXXI, §3146(f)(2), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 115–232, div. C, title XXXI, §3112, Aug. 13, 2018, 132 Stat. 2290.)
+(Pub. L. 107–314, div. D, title XLV, §4504, formerly Pub. L. 107–107, div. C, title XXXI, §3152,Dec. 28, 2001, 115 Stat. 1376; renumbered Pub. L. 107–314, div. D, title XLV, §4504, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(5)(A), Nov. 24, 2003, 117 Stat. 1772; Pub. L. 113–66, div. C, title XXXI, §3146(f)(2), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 115–232, div. C, title XXXI, §3112, Aug. 13, 2018, 132 Stat. 2290.)
 
 #### <b>Editorial Notes</b>
 

@@ -22,7 +22,7 @@ The head of each Federal agency shall ensure that the decisions made by the Fede
 
 #### (1) In general
 
-&emsp;The head of a Federal agency may not carry out an acquisition strategy that includes a consolidation of contract requirements of the Federal agency with a total value of more than $2,000,000, unless the senior procurement executive or Chief Acquisition Officer for the Federal agency, before carrying out the acquisition strategy—
+&emsp;The head of a Federal agency may not carry out an acquisition strategy that includes a consolidation of contract requirements of the Federal agency with a total value of morethan $2,000,000, unless the senior procurement executive or Chief Acquisition Officer for the Federal agency, before carrying out the acquisition strategy—
 
 &emsp;&emsp;(A) conducts market research;
 

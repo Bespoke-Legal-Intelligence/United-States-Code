@@ -1,6 +1,6 @@
 ### §2404. Unexpended balances
 
-Unexpended balances of funds made available pursuant to this chapter, the Mutual Security Act of 1954, as amended, or the Latin American Development Act, as amended, are hereby authorized to be continued available for the general purposes for which appropriated, and may at any time be consolidated, and, in addition, may be consolidated with appropriations made available for the same general purposes under the authority of this chapter.
+Unexpended balances of funds made available pursuant to this chapter, the Mutual Security Act of 1954, as amended, or the Latin AmericanDevelopment Act, as amended, are hereby authorized to be continued available for the general purposes for which appropriated, and may at any time be consolidated, and, in addition, may be consolidated with appropriations made available for the same general purposes under the authority of this chapter.
 
 (Pub. L. 87–195, pt. III, §645, Sept. 4, 1961, 75 Stat. 462; Pub. L. 87–565, pt. III, §303(c), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §304, Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–171, pt. III, §303(c), Sept. 6, 1965, 79 Stat. 661.)
 

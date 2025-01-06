@@ -36,7 +36,7 @@ Pub. L. 102–587, title V, §5501(c), Nov. 4, 1992, 106 Stat. 5085, provided th
 
 &emsp;"(1) engaged in the transportation of valueless material or valueless dredged material; and
 
-&emsp;"(2) owned or chartered by a corporation that had on file with the Secretary of Transportation on August 1, 1989, the certificate specified in section 27A ofthe Merchant Marine Act, 1920 (46 App. U.S.C. 883–1) \[now 46 U.S.C. 12118\]."
+&emsp;"(2) owned or chartered by a corporation that had on file with the Secretary of Transportation on August 1, 1989, the certificate specified in section 27A of the Merchant Marine Act, 1920 (46 App. U.S.C. 883–1) \[now 46 U.S.C. 12118\]."
 
 #### Transportation of Municipal Sewage Sludge
 

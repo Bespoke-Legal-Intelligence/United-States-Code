@@ -26,7 +26,7 @@ General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary
 
 &emsp;&emsp;(vi) rehabilitate bridges between the District of Columbia and New York, New York (including Hi line);
 
-&emsp;&emsp;(vii) develop a maintenance of way equipment repair facility between the District of Columbia and New York, New York, and build maintenance of way bases at Philadelphia, Pennsylvania, Sunnyside, New York, and Cedar Hill, Connecticut;
+&emsp;&emsp;(vii) develop a maintenance of way equipment repair facility between the District ofColumbia and New York, New York, and build maintenance of way bases at Philadelphia, Pennsylvania, Sunnyside, New York, and Cedar Hill, Connecticut;
 
 &emsp;&emsp;(viii) stabilize the roadbed between the District of Columbia and New York, New York;
 
@@ -200,7 +200,7 @@ In subsection (a)(2)(C), the words "passenger radio mobile telephone service on 
 
 In subsection (a)(2)(D), the word "rail" is added for consistency in the revised title.
 
-In subsection (b), the words "After the conveyance of rail properties, pursuant to section 303(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 743(b))and section 851(b) of this title" are omitted as executed. The words "remain available to" and "the purpose of performing" are omitted as surplus.
+In subsection (b), the words "After the conveyance of rail properties, pursuant to section 303(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 743(b)) and section 851(b) of this title" are omitted as executed. The words "remain available to" and "the purpose of performing" are omitted as surplus.
 
 In subsection (c), the words "that portion of . . . issued by the National Railroad Passenger Corporation and" are omitted as surplus.
 

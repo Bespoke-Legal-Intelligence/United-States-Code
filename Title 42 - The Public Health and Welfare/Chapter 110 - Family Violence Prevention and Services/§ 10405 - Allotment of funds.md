@@ -14,7 +14,7 @@ For the purpose of this section, the population of each State, and the total pop
 
 #### (c) Ratable reduction
 
-If the sums appropriated under section 10403 of this title for any fiscal year and available for grants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during whichthe preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
+If the sums appropriated under section 10403 of this title for any fiscal year and available for grants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
 
 #### (d) Reallotment
 
@@ -34,7 +34,7 @@ In subsection (a)(2), the term "State" does not include any jurisdiction specifi
 
 #### Prior Provisions
 
-A prior section 10405, Pub. L. 98–457, title III, §306, Oct. 9, 1984, 98 Stat. 1760; Pub. L. 102–295, title III, §314, May 28, 1992, 106 Stat. 204; Pub. L. 108–36, title IV, §403, June 25, 2003, 117 Stat. 825, related to evaluation of the effectiveness of the programs administered and operated pursuant to this chapter, prior to the general amendment of this chapter by Pub. L. 111–320. See section 10404(c) of this title.
+A prior section 10405, Pub. L. 98–457, title III, §306, Oct. 9, 1984, 98 Stat. 1760; Pub. L. 102–295, title III, §314,May 28, 1992, 106 Stat. 204; Pub. L. 108–36, title IV, §403, June 25, 2003, 117 Stat. 825, related to evaluation of the effectiveness of the programs administered and operated pursuant to this chapter, prior to the general amendment of this chapter by Pub. L. 111–320. See section 10404(c) of this title.
 
 A prior section 305 of Pub. L. 98–457 was classified to section 10404 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
 

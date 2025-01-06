@@ -43,7 +43,7 @@ Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
 <b>1982</b>—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted "and information" after "identification records" in item 534.
 
-<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted "FEDERAL BUREAU OF INVESTIGATION" for "UNITED STATES MARSHALS" in chapterheading, added items 531 to 537, and struck out items 541 to 556.
+<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted "FEDERAL BUREAU OF INVESTIGATION" for "UNITED STATES MARSHALS" in chapter heading, added items 531 to 537, and struck out items 541 to 556.
 
 
 ---

@@ -22,7 +22,7 @@ For the purpose of making any such payments, other than under subsection (a)(1),
 
 #### (d) Death or disability of claimant
 
-If any person to whom any payment is to be made pursuant to this subchapter is deceased or is under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Secretary of the Treasury to be entitled thereto, without the necessity of compliance with the requirements of law with respect to the administration of estates.
+If any person to whom any payment is to be made pursuant to this subchapter is deceased oris under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Secretary of the Treasury to be entitled thereto, without the necessity of compliance with the requirements of law with respect to the administration of estates.
 
 #### (e) Partial payment; extinguishment of rights
 
@@ -30,7 +30,7 @@ Payment on account of any award pursuant to this subchapter shall not, unless su
 
 #### (f) Losses occurring in Commonwealth of the Philippines
 
-Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account ofawards in the same amount under the Philippine Rehabilitation Act of 1946.<sup>1</sup>
+Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account of awards in the same amount under the Philippine Rehabilitation Act of 1946.<sup>1</sup>
 
 (July 3, 1948, ch. 826, title II, §213, as added Pub. L. 87–846, title I, §103, Oct. 22, 1962, 76 Stat. 1111; amended Pub. L. 91–571, §1(a), Dec. 24, 1970, 84 Stat. 1503; Pub. L. 104–316, title I, §128(b), Oct. 19, 1996, 110 Stat. 3841.)
 

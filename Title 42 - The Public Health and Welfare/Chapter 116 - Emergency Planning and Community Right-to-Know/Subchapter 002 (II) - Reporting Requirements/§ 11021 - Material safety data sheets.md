@@ -52,7 +52,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 &emsp;(A) 12 months after October 17, 1986, or
 
-&emsp;(B) 3 months after the owner or operator of a facility is required to prepare or have available a material safety data sheet for the chemical under the Occupational Safety and HealthAct of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act.
+&emsp;(B) 3 months after the owner or operator of a facility is required to prepare or have available a material safety data sheet for the chemical under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act.
 
 (2) Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a), a revised sheet shall be provided to such person.
 
@@ -76,5 +76,5 @@ For purposes of this section, the term "hazardous chemical" has the meaning give
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), isPub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 

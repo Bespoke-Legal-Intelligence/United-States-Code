@@ -18,13 +18,13 @@ The following should be the policy of the United States:
 
 &emsp;&emsp;(A) should emphasize the importance of public diplomacy and applicable skills and techniques;
 
-&emsp;&emsp;(B) should consider the priority recruitment into the Foreign Service, including at middle-level entry, of individuals with expertise and professional experience in public diplomacy, mass communications, or journalism; and
+&emsp;&emsp;(B) should consider the priority recruitment into the Foreign Service, including atmiddle-level entry, of individuals with expertise and professional experience in public diplomacy, mass communications, or journalism; and
 
 &emsp;&emsp;(C) shall give special consideration to individuals with language facility and experience in particular countries and regions.
 
 #### (2) Languages of special interest
 
-&emsp;The Secretary of State shall seek to increase the number of Foreign Service officers proficient in languages spoken in countries withpredominantly Muslim populations. Such increase should be accomplished through the recruitment of new officers and incentives for officers in service.
+&emsp;The Secretary of State shall seek to increase the number of Foreign Service officers proficient in languages spoken in countries with predominantly Muslim populations. Such increase should be accomplished through the recruitment of new officers and incentives for officers in service.
 
 (Pub. L. 108–458, title VII, §7110, Dec. 17, 2004, 118 Stat. 3793.)
 

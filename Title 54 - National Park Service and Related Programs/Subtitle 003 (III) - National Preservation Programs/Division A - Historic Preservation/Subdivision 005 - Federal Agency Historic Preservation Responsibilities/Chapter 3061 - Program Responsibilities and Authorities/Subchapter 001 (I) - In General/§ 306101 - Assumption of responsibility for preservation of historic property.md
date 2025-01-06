@@ -92,7 +92,7 @@ Sec. 5. <i>Promoting Preservation Through Heritage Tourism.</i>
 
 (a) To the extent permitted by law and within existing resources, the Secretary of Commerce, working with the Council and other agencies, shall assist States, Indian tribes, and local communities in promoting the use of historic properties for heritage tourism and related economic development in a manner that contributes to the long-term preservation and productive use of those properties. Such assistance shall include efforts to strengthen and improve heritage tourism activities throughout the country as they relate to Federally owned historic properties and significant natural assets on Federal lands.
 
-(b) Where consistent with agency missions and governing law, and where appropriate, agencies shall usehistoric properties in their ownership in conjunction with State, tribal, and local tourism programs to foster viable economic partnerships, including, but not limited to, cooperation and coordination with tourism officials and others with interests in the properties.
+(b) Where consistent with agency missions and governing law, and where appropriate, agencies shall use historic properties in their ownership in conjunction with State, tribal, and local tourism programs to foster viable economic partnerships, including, but not limited to, cooperation and coordination with tourism officials and others with interests in the properties.
 
 Sec. 6. <i>National and Homeland Security Considerations.</i>
 

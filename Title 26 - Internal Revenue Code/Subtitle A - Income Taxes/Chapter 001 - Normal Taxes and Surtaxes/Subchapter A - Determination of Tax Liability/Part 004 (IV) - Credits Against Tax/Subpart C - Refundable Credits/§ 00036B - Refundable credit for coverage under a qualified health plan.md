@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the applicable percentage for any taxable yearshall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the applicable percentage for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:
 
 | In the case of household income (expressed as a percent of poverty line) within the following income tier: | The initial premium percentage is— | The final premium percentage is— |
 | :--- | :---: | ---: |
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) Adjusted monthly premium
 
-&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating inthe wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
+&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
 
 #### (D) Additional benefits
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the employee's required contribution (within the meaning of section 5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household income.
 
-&emsp;&emsp;&nbsp;This clause shall also apply to an individual who is eligible to enroll in the plan by reason of a relationship the individual bears to the employee.
+&emsp;&emsp;&nbsp;This clause shall also apply to an individual who is eligible to enroll in the planby reason of a relationship the individual bears to the employee.
 
 #### (ii) Coverage must provide minimum value
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (iii) Temporary modification of limitation on increase
 
-&emsp;&emsp;&emsp;In the case of any taxable year beginning in 2020, for any taxpayer who files for such taxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying.
+&emsp;&emsp;&emsp;In the case of any taxable year beginning in 2020, for any taxpayer who files for suchtaxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying.
 
 #### (3) Information requirement
 
@@ -410,7 +410,7 @@ Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection 
 
 Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
 
-Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
+Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 
 Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(3)(E), probably means section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which is classified to section 18031(d)(2)(B)(ii) of Title 42, The Public Health and Welfare, and which does not contain subclauses.
 
@@ -518,7 +518,7 @@ Employee notice.—
 
 &emsp;"(i)
 
-In general.—The amendments made by paragraph (5) \[amending section 6652 of this title\] shall apply to notices with respect to years beginning after December 31, 2016.
+In general.—The amendments made by paragraph (5) \[amending section 6652 of this title\] shallapply to notices with respect to years beginning after December 31, 2016.
 
 &emsp;"(ii)
 

@@ -50,7 +50,7 @@ Historic sites.—With respect to historic sites, the Secretary may make a findi
 
 Parks, recreation areas, and wildlife or waterfowl refuges.—With respect to parks, recreation areas, or wildlife or waterfowl refuges, the Secretary may make a finding of de minimis impact only if—
 
-&emsp;&emsp;(A) the Secretary has determined, after public notice and opportunity for public review and comment, that the transportation program or project will not adversely affect the activities, features, and attributes of the park, recreation area, or wildlife or waterfowl refuge eligible for protection under this section; and
+&emsp;&emsp;(A) the Secretary has determined, after public notice and opportunity for public review and comment, that the transportation program or project will not adversely affect the activities, features, and attributes of thepark, recreation area, or wildlife or waterfowl refuge eligible for protection under this section; and
 
 &emsp;&emsp;(B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
 
@@ -158,7 +158,7 @@ Clarification with respect to certain bridges and tunnels.—The bridges and tun
 
 &emsp;&emsp;&emsp;(ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 100–17, title I, §133(d), Apr. 2, 1987, 101 Stat. 173; Pub. L. 109–59, title VI, §6009(a)(2), Aug. 10, 2005, 119 Stat. 1875; Pub. L. 113–287, §5(p), Dec. 19, 2014, 128 Stat. 3272; Pub. L. 114–94, div. A, title I, §§1301(b), 1302(b), 1303(b), title XI, §11502(b), Dec. 4, 2015, 129 Stat. 1376, 1378, 1690.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 100–17, title I, §133(d), Apr. 2, 1987, 101Stat. 173; Pub. L. 109–59, title VI, §6009(a)(2), Aug. 10, 2005, 119 Stat. 1875; Pub. L. 113–287, §5(p), Dec. 19, 2014, 128 Stat. 3272; Pub. L. 114–94, div. A, title I, §§1301(b), 1302(b), 1303(b), title XI, §11502(b), Dec. 4, 2015, 129 Stat. 1376, 1378, 1690.)
 
 Historical and Revision Notes
 

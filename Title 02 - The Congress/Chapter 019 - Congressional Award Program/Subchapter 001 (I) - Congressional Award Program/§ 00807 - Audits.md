@@ -28,7 +28,7 @@ Not later than May 15 of each calendar year, the Board shall submit to appropria
 
 Subsec. (b). Pub. L. 101–525, §8(2), added subsec. (b) and struck out former subsec. (b) which required audit to assess adequacy of fiscal control and funds accountability procedures and propriety of expenses.
 
-Subsecs. (c), (d). Pub. L. 101–525, §8(2), struck out subsec. (c) which required the Comptroller General to include in report on first audit performed after Nov. 25, 1985, an evaluation of programs and activities under this chapter and specified contents of such evaluation,and subsec. (d) which directed that report on first audit performed after Nov. 25, 1985, was to be submitted on or before May 15, 1988.
+Subsecs. (c), (d). Pub. L. 101–525, §8(2), struck out subsec. (c) which required the Comptroller General to include in report on first audit performed after Nov. 25, 1985, an evaluation of programs and activities under this chapter and specified contents of such evaluation, and subsec. (d) which directed that report on first audit performed after Nov. 25, 1985, was to be submitted on or before May 15, 1988.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–674 substituted "section 806(h)" for "section 806(g)".
 

@@ -54,7 +54,7 @@ The primary missions of the National Counterterrorism Center shall be as follows
 
 &emsp;(B) provide strategic operational plans for the civilian and military counterterrorism efforts of the United States Government and for the effective integration of counterterrorism intelligence and operations across agency boundaries, both inside and outside the United States;
 
-&emsp;(C) advise the Director of National Intelligence on the extent to which thecounterterrorism program recommendations and budget proposals of the departments, agencies, and elements of the United States Government conform to the priorities established by the President;
+&emsp;(C) advise the Director of National Intelligence on the extent to which the counterterrorism program recommendations and budget proposals of the departments, agencies, and elements of the United States Government conform to the priorities established by the President;
 
 &emsp;(D) disseminate terrorism information, including current terrorism threat analysis, to the President, the Vice President, the Secretaries of State, Defense, and Homeland Security, the Attorney General, the Director of the Central Intelligence Agency, and other officials of the executive branch as appropriate, and to the appropriate committees of Congress;
 
@@ -84,7 +84,7 @@ The Director of the National Counterterrorism Center shall establish and maintai
 
 #### (j) Directorate of Strategic Operational Planning
 
-(1) The Director of the National Counterterrorism Center shall establish and maintain within the National Counterterrorism Center a Directorate of Strategic Operational Planning which shall provide strategic operational plans for counterterrorism operations conducted by the United States Government.
+(1) The Director of the National Counterterrorism Center shall establish andmaintain within the National Counterterrorism Center a Directorate of Strategic Operational Planning which shall provide strategic operational plans for counterterrorism operations conducted by the United States Government.
 
 (2) Strategic operational planning shall include the mission, objectives to be achieved, tasks to be performed, interagency coordination of operational activities, and the assignment of roles and responsibilities.
 

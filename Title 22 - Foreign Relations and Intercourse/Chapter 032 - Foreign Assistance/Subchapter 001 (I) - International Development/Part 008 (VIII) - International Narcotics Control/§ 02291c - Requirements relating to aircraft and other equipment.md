@@ -22,13 +22,13 @@
 
 &emsp;(A) For purposes of satisfying the requirement of paragraph (1), funds made available for the "Foreign Military Financing Program" under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\] may be used to finance the leasing of aircraft under chapter 6 of that Act \[22 U.S.C. 2796 et seq.\].
 
-&emsp;(B) Section 61(a)(3) <sup>1</sup> of that Act \[22 U.S.C. 2796(a)(3)\] shall not apply with respect to leases so financed; rather the entire cost of any such lease (including any renewals) shall be an initial, one time payment of the amount which would be the sales price for the aircraft if they were sold under section 21(a)(1)(B) orsection 22 of that Act \[22 U.S.C. 2761(a)(1)(B), 2762\] (as appropriate).
+&emsp;(B) Section 61(a)(3) <sup>1</sup> of that Act \[22 U.S.C. 2796(a)(3)\] shall not apply with respect to leases so financed; rather the entire cost of any such lease (including any renewals) shall be an initial, one time payment of the amount which would be the sales price for the aircraft if they were sold under section 21(a)(1)(B) or section 22 of that Act \[22 U.S.C. 2761(a)(1)(B), 2762\] (as appropriate).
 
 &emsp;(C) To the extent that aircraft so leased were acquired under chapter 5 of that Act \[22 U.S.C. 2795 et seq.\], funds used pursuant to this paragraph to finance such leases shall be credited to the Special Defense Acquisition Fund under chapter 5 of that Act (excluding the amount of funds that reflects the charges described in section 21(e)(1) of that Act \[22 U.S.C. 2761(e)(1)\]). The funds described in the parenthetical clause of the preceding sentence shall be available for payments consistent with sections 37(a) and 43(b) of that Act \[22 U.S.C. 2777(a), 2792(b)\].
 
 #### (b) Permissible uses of aircraft and other equipment
 
-The President shall take all reasonable steps to ensure that aircraft and other equipment made available to foreign countries under this part are used only in ways that are consistent with the purposes for which such equipment was made available.
+The President shall take all reasonable steps to ensure that aircraft and other equipmentmade available to foreign countries under this part are used only in ways that are consistent with the purposes for which such equipment was made available.
 
 #### (c) Reports
 

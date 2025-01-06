@@ -6,7 +6,7 @@ It is the policy of the United States to seek multilaterally coordinated efforts
 
 &emsp;(1) promote agreements banning the transfer of missiles suitable for armament with chemical or biological warheads;
 
-&emsp;(2) set as a top priority the early conclusion of a comprehensive global agreement banning the use, development, production, and stockpiling of chemical weapons;
+&emsp;(2) set as a top priority the early conclusion of a comprehensive global agreement banningthe use, development, production, and stockpiling of chemical weapons;
 
 &emsp;(3) seek and support effective international means of monitoring and reporting regularly on commerce in equipment, materials, and technology applicable to the attainment of a chemical or biological weapons capability; and
 

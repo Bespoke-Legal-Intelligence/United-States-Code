@@ -2,7 +2,7 @@
 
 (a) When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made.
 
-(b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
+(b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report underthis section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
 (c)(1) A person (except a domestic financial institution designated under subsection (b) of this section) required to file a report under this section shall file the report—
 
@@ -54,7 +54,7 @@ Qualified business customer defined.—For purposes of this subsection, the term
 
 &emsp;&emsp;(B) frequently engages in transactions with the depository institution which are subject to the reporting requirements of subsection (a); and
 
-&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that thepurposes of this subchapter are carried out without requiring a report with respect to such transactions.
+&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried out without requiring a report with respect to such transactions.
 
 &emsp;(3)
 
@@ -262,7 +262,7 @@ Report Reduction Goal; Reports.—
 
 &emsp;"(1)
 
-In general.—In implementing the amendment made by subsection (a) \[amending this section\], the Secretary of the Treasury shall seek to reduce, within a reasonable period of time, the number of reports required to be filed in the aggregate by depository institutions pursuant to section 5313(a) of title 31,United States Code, by at least 30 percent of the number filed during the year preceding the date of enactment of this Act \[Sept. 23, 1994\].
+In general.—In implementing the amendment made by subsection (a) \[amending this section\], the Secretary of the Treasury shall seek to reduce, within a reasonable period of time, the number of reports required to be filed in the aggregate by depository institutions pursuant to section 5313(a) of title 31, United States Code, by at least 30 percent of the number filed during the year preceding the date of enactment of this Act \[Sept. 23, 1994\].
 
 &emsp;"(2)
 

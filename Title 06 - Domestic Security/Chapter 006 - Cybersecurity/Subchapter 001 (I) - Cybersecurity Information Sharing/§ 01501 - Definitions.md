@@ -132,7 +132,7 @@ Pars. (16), (17). Pub. L. 117–263, §7143(b)(4)(D), added pars. (16) and (17) 
 
 #### Short Title
 
-Pub. L. 114–113, div. N, §1(a), Dec. 18, 2015, 129 Stat. 2935, provided that: "This division \[enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, section 1029 of Title 18, Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under this section and sections 101, 131, and 151 of this title and section 301 of Title 5, Government Organization and Employees\] may be cited as the 'Cybersecurity Act of 2015'."
+Pub. L. 114–113, div. N, §1(a), Dec. 18, 2015, 129 Stat. 2935, provided that: "This division \[enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, section 1029 of Title 18, Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under thissection and sections 101, 131, and 151 of this title and section 301 of Title 5, Government Organization and Employees\] may be cited as the 'Cybersecurity Act of 2015'."
 
 Pub. L. 114–113, div. N, title I, §101, Dec. 18, 2015, 129 Stat. 2936, provided that: "This title \[enacting this subchapter\] may be cited as the 'Cybersecurity Information Sharing Act of 2015'."
 

@@ -22,7 +22,7 @@ Section was formerly classified to section 523 of the former Appendix to this ti
 
 #### Prior Provisions
 
-A prior section 203 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, related to stay or vacation of execution ofjudgments and attachments, prior to the general amendment of this Act by Pub. L. 108–189. See section 3934 of this title.
+A prior section 203 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, related to stay or vacation of execution of judgments and attachments, prior to the general amendment of this Act by Pub. L. 108–189. See section 3934 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -6,7 +6,7 @@ From grant funds made available under section 3302(a)(1) of this title, each eli
 
 #### (b) Required local activities
 
-The eligible agency shall require that each eligible provider receiving a grant or contract under subsection (a) use the grant or contract to establish or operate programs that provide adult education and literacy activities, including programs that provide such activities concurrently.
+The eligible agency shall require that each eligible provider receiving a grant or contractunder subsection (a) use the grant or contract to establish or operate programs that provide adult education and literacy activities, including programs that provide such activities concurrently.
 
 #### (c) Direct and equitable access; same process
 

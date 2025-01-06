@@ -42,5 +42,5 @@ Amendment by section 609B(k) of Pub. L. 98–473 effective Oct. 12, 1984, see se
 
 #### Construction
 
-Terms "this chapter" and "this section", as such terms appear in this section, deemed to be references to chapter 501 and section 50105 of this title, respectively, and reference to the Office of Justice Programs in this section deemed to be a reference to the Attorney General, see section 50105 of this title.
+Terms "this chapter" and "this section", as such terms appear in this section, deemed to be references to chapter 501 and section 50105 of this title, respectively,and reference to the Office of Justice Programs in this section deemed to be a reference to the Attorney General, see section 50105 of this title.
 

@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §338 (Mar. 4, 1909, ch. 321, §215, 35 Sta
 
 The obsolete argot of the underworld was deleted as suggested by Hon. Emerich B. Freed, United States district judge, in a paper read before the 1944 Judicial Conference for the sixth circuit in which he said:
 
-A brief reference to §1341, which proposes to reenact the present section covering the use of the mails to defraud. This section is almost a page in length, is involved, and contains a great deal of superfluous language, including such terms as "sawdust swindle, green articles, green coin, green goods and green cigars." This section could be greatly simplified, and now-meaningless language eliminated.
+A brief reference to §1341, which proposes to reenact the present section covering the use of the mails to defraud. This section is almost a page in length, is involved, and contains a great deal of superfluous language, including such terms as "sawdust swindle, greenarticles, green coin, green goods and green cigars." This section could be greatly simplified, and now-meaningless language eliminated.
 
 The other surplusage was likewise eliminated and the section simplified without change of meaning.
 

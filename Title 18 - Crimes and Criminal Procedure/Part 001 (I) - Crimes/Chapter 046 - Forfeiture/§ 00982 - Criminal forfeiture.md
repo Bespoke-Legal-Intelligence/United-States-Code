@@ -54,7 +54,7 @@
 
 (B) The court, in imposing sentence on a person described in subparagraph (A), shall order that the person forfeit to the United States all property described in that subparagraph.
 
-(7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real orpersonal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
+(7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
 
 (8) The court, in sentencing a defendant convicted of an offense under section 1028, 1029, 1341, 1342, 1343, or 1344, or of a conspiracy to commit such an offense, if the offense involves telemarketing (as that term is defined in section 2325), shall order that the defendant forfeit to the United States any real or personal property—
 

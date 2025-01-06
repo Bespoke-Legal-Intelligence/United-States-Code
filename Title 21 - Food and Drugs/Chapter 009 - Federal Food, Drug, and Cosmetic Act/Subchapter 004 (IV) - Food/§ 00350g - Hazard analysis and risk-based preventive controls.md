@@ -118,7 +118,7 @@ This section shall not apply to activities of a facility that are subject to sec
 
 &emsp;&emsp;&emsp;This clause applies if—
 
-&emsp;&emsp;&emsp;&emsp;(I) during the 3-year period preceding the applicable calendar year, the average annual monetary value of the food manufactured, processed, packed, or held at such facility (or the collective average annual monetary value of such food at any subsidiary or affiliate, as described in clause (i)) that is sold directly to qualified end-users during such period exceeded the average annual monetary value of the food manufactured, processed, packed, or held at such facility (or the collective average annual monetary value of such food at any subsidiary or affiliate, as so described) sold by such facility (or collectively by any such subsidiary or affiliate) to all other purchasers during such period; and
+&emsp;&emsp;&emsp;&emsp;(I) during the 3-year period preceding the applicable calendar year, the averageannual monetary value of the food manufactured, processed, packed, or held at such facility (or the collective average annual monetary value of such food at any subsidiary or affiliate, as described in clause (i)) that is sold directly to qualified end-users during such period exceeded the average annual monetary value of the food manufactured, processed, packed, or held at such facility (or the collective average annual monetary value of such food at any subsidiary or affiliate, as so described) sold by such facility (or collectively by any such subsidiary or affiliate) to all other purchasers during such period; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the average annual monetary value of all food sold by such facility (or the collective average annual monetary value of such food sold by any subsidiary or affiliate, as described in clause (i)) during such period was less than $500,000, adjusted for inflation.
 
@@ -212,7 +212,7 @@ This section shall not apply to activities of a facility that are subject to sec
 
 &emsp;&emsp;A qualified facility that is exempt from the requirements under subsections (a) through (i) and subsection (n) and does not prepare documentation under paragraph (2)(B)(i)(I) shall—
 
-&emsp;&emsp;&emsp;(i) with respect to a food for which a food packaging label is required by the Secretary under any other provision of thischapter, include prominently and conspicuously on such label the name and business address of the facility where the food was manufactured or processed; or
+&emsp;&emsp;&emsp;(i) with respect to a food for which a food packaging label is required by the Secretary under any other provision of this chapter, include prominently and conspicuously on such label the name and business address of the facility where the food was manufactured or processed; or
 
 &emsp;&emsp;&emsp;(ii) with respect to a food for which a food packaging label is not required by the Secretary under any other provisions of this chapter, prominently and conspicuously display, at the point of purchase, the name and business address of the facility where the food was manufactured or processed, on a label, poster, sign, placard, or documents delivered contemporaneously with the food in the normal course of business, or, in the case of Internet sales, in an electronic notice.
 

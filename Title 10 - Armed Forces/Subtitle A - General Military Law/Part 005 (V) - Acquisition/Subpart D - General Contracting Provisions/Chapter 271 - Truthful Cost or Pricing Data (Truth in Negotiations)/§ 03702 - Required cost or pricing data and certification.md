@@ -18,7 +18,19 @@ Contractor.—The contractor for a prime contract under a chapter 137 legacy pro
 
 &emsp;(3)
 
-Offeror for subcontract.—An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and the price of the subcontract is expected to exceed $2,000,000.
+Offeror for subcontract.—(A) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and the price of the subcontract is expected to exceed $2,000,000.
+
+&emsp;(B)(i) An offeror for a subcontract (at any tier) of a contract under this chapter that is required to submit cost or pricing data under subparagraph (A) with respect to such subcontract may submit prices paid for the covered goods and services of such offeror for such subcontract under this clause if—
+
+&emsp;&emsp;(I) such offeror is a nontraditional defense contractor (as defined in section 3014 of this title);
+
+&emsp;&emsp;(II) the prices to be submitted are prices that were paid for the same goods and services as such covered goods and services; and
+
+&emsp;&emsp;(III) the price of such subcontract is not expected to exceed $5,000,000.
+
+&emsp;(ii) The submission of prices paid under clause (i) by an offereor <sup>1</sup> with respect to a subcontract shall be deemed to be the submission of cost or pricing data by such offeror with respect to such subcontract as required by subparagraph (A) if a contracting officer of the Department of Defense determines that the prices submitted under such clause are fair and reasonable based on supported cost or pricing data within the last 12 months.
+
+&emsp;(iii) In this subparagraph, the term "covered goods and services" means, with respect to an offeror for a subcontract (at any tier), the goods and services such offeror would provide under such subcontract.
 
 &emsp;(4)
 
@@ -52,7 +64,7 @@ Modifications to Prior Contracts.—Under subsection (a), in connection with a p
 
 Adjustment of Amounts.—Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908 of title 41.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1831(a), (c), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title VIII, §804(b), title XVII, §1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, 135Stat. 1816, 2133, 2134, 2136; Pub. L. 118–31, div. A, title XVIII, §1801(a)(29), Dec. 22, 2023, 137 Stat. 684.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1831(a), (c), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title VIII, §804(b), title XVII, §1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, 135 Stat. 1816, 2133, 2134, 2136; Pub. L. 118–31, div. A, title XVIII, §1801(a)(29), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title VIII, §815, Dec. 23, 2024, 138 Stat. 1980.)
 
 #### <b>Editorial Notes</b>
 
@@ -61,6 +73,8 @@ Adjustment of Amounts.—Effective on October 1 of each year that is divisible b
 The text of subsec. (a) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, §1831(c), was based on Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, §701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, §822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, §811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, §814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, §804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>2023</b>—Subsec. (a)(4). Pub. L. 118–31, §1801(a)(29)(A), substituted "paragraph (3)" for "subparagraph (C)".
 
@@ -122,7 +136,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 #### Data Collection
 
-Pub. L. 117–81, div. A, title VIII, §862(b), Dec. 27, 2021, 135 Stat. 1852, provided that: "The Secretary of Defenseshall develop and implement a plan to collect and analyze data on the use of authority under such section 873 \[of Pub. L. 114–92, set out below\] for the purposes of—
+Pub. L. 117–81, div. A, title VIII, §862(b), Dec. 27, 2021, 135 Stat. 1852, provided that: "The Secretary of Defense shall develop and implement a plan to collect and analyze data on the use of authority under such section 873 \[of Pub. L. 114–92, set out below\] for the purposes of—
 
 &emsp;"(1) developing and sharing best practices; and
 
@@ -130,7 +144,7 @@ Pub. L. 117–81, div. A, title VIII, §862(b), Dec. 27, 2021, 135 Stat. 1852, p
 
 #### Pilot Program for Streamlining Awards for Innovative Technology Projects
 
-Pub. L. 114–92, div. A, title VIII, §873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, §896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, §832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, §862(a), Dec. 27, 2021, 135 Stat. 1852, provided that:
+Pub. L. 114–92, div. A, title VIII, §873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, §896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, §832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, §862(a), Dec. 27, 2021, 135 Stat. 1852; Pub. L. 118–159, div. A, title VIII, §863, Dec. 23, 2024, 138 Stat. 2001, provided that:
 
 "(a)
 
@@ -138,7 +152,7 @@ Exception From Certified Cost and Pricing Data Requirements.—The requirements 
 
 &emsp;"(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
 
-&emsp;"(2) the Small Business Innovation Research Program or Small Business Technology Transfer Program,
+&emsp;"(2) the Small Business Innovation Research Program, a multiyear contract (as defined in section 3501 of title 10, United States Code), a block buy or multi-ship buy authorized by Congress, or the or \[sic\] Small Business Technology Transfer Program,
 
 > unless the head of the agency determines that submission of cost and pricing data should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
 
@@ -166,7 +180,7 @@ Guidance and Training.—The Secretary of Defense shall ensure that acquisition 
 
 "(f)
 
-Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2024.
+Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2029.
 
 "(g)
 
@@ -181,4 +195,6 @@ Small business.—The term 'small business' has the meaning given the term 'smal
 Nontraditional defense contractor.—The term 'nontraditional defense contractor' has the meaning given that term in section 2302(9) of title 10, United States Code \[now 10 U.S.C. 3014\]."
 
 \[Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting ", and if such performance audit is initiated within 18 months of the contract completion" before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be "offeror".</i>
 

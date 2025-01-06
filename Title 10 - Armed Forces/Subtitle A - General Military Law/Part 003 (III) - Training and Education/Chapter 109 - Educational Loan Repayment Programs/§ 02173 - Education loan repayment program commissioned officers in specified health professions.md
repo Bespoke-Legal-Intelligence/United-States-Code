@@ -38,7 +38,7 @@ Certain Persons Ineligible.—Students of the Uniformed Services University of t
 
 Loan Repayments.—(1) Subject to the limits established by paragraph (2), a loan repayment under this section may consist of payment of the principal, interest, and related expenses of a loan obtained by a person described in subsection (b) for—
 
-&emsp;(A) all educational expenses, comparable to all educational expenses recognized under section 2127(a) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program; and
+&emsp;(A) all educational expenses, comparable to all educational expenses recognized under section 2127(a) of this title for participants in theArmed Forces Health Professions Scholarship and Financial Assistance program; and
 
 &emsp;(B) reasonable living expenses, not to exceed expenses comparable to the stipend paid under section 2121(d) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 

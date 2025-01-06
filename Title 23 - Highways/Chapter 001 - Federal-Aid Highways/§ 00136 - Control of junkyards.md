@@ -66,7 +66,7 @@ Amendment by Pub. L. 90–495 effective August 23, 1968, see section 37 of Pub. 
 
 #### Acquisition of Dwellings
 
-Prohibition against the use of eminent domain to acquire any dwelling (including related buildings) underthe terms of Pub. L. 89–285, see section 305 of Pub. L. 89–285, set out as a note under section 131 of this title.
+Prohibition against the use of eminent domain to acquire any dwelling (including related buildings) under the terms of Pub. L. 89–285, see section 305 of Pub. L. 89–285, set out as a note under section 131 of this title.
 
 #### Taking of Private Property Without Just Compensation
 

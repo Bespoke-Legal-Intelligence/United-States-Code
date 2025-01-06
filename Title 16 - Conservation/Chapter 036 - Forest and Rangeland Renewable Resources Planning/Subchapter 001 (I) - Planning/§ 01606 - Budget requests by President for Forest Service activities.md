@@ -14,7 +14,7 @@ For the purpose of providing information that will aid Congress in its oversight
 
 #### (d) Required contents of annual evaluation report
 
-These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by section 1602 of this title, together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements of pertinent costs and benefits. The evaluationshall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limited to, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregone benefits and the rate of return on renewable resources.
+These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by section 1602 of this title, together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements of pertinent costs and benefits. The evaluation shall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limited to, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregone benefits and the rate of return on renewable resources.
 
 #### (e) Additional required contents of annual evaluation report
 
@@ -40,7 +40,7 @@ The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is 
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–313 inserted provisions relating to inclusion in report of findings involving cooperative State and private Forest Service programs, and provisions relating to scope of report descriptions involving programs and activities under the Cooperative Forestry Assistance Act of 1978.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–588, §§7(a), 12(b)(1), made technical amendment to references in original act which appear in text as references to sections 1601 and 1602 of this title and substituted "ninety calendar days of continuous session" for "sixty days of continuous session" and "ninety-day period" for "sixty-day period".
+<b>1976</b>—Subsec. (a). Pub. L. 94–588, §§7(a), 12(b)(1), made technical amendment to references in original actwhich appear in text as references to sections 1601 and 1602 of this title and substituted "ninety calendar days of continuous session" for "sixty days of continuous session" and "ninety-day period" for "sixty-day period".
 
 Subsec. (c). Pub. L. 94–588, §§7(b), 12(b)(2), substituted "section 4" for "section 3" in the original which, because of its translation as "section 1602 of this title" required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
 

@@ -58,7 +58,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
 
-&emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial ServiceOfficers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
+&emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
 
 &emsp;(C) Upon the request of the Secretary, the Secretary of State shall attach the Commercial Service Officers and other employees of each foreign office to the diplomatic mission of the United States in the country in which that foreign office is located, and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by Foreign Service personnel of comparable rank and salary.
 
@@ -84,7 +84,7 @@ In order to carry out subsection (b)(7), to lessen the cost of distribution of i
 
 #### (f) Cooperation in Federal financing and insurance programs
 
-To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the United States International Development Finance Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the United States International Development Finance Corporation, the Trade and DevelopmentProgram, and the Small Business Administration shall each—
 
 &emsp;(1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
 

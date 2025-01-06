@@ -5,6 +5,7 @@
 | [9251\.](%C2%A7%2009251%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
 | [9252\.](%C2%A7%2009252%20-%20Service%20credit%20regular%20enlisted%20members%3B%20service%20as%20an%20officer%20to%20be%20counted%20as%20enlisted%20service.md) | Service credit: regular enlisted members; service as an officer to be counted as enlisted service. |
 | [9253\.](%C2%A7%2009253%20-%20Flying%20officer%20rating%20qualifications.md) | Flying officer rating: qualifications. |
+| [9254\.](%C2%A7%2009254%20-%20Authority%20to%20designate%20certain%20separated%20members%20of%20the%20Air%20Force%20as%20honorary%20separated%20members%20of%20the%20Space%20Force.md) | Authority to designate certain separated members of the Air Force as honorary separated members of the Space Force. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15,6 +16,8 @@
 A prior chapter 933, consisting of sections 9531 to 9541, related to procurement, prior to renumbering as chapter 963 of this title.
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title V, §525, Dec. 23, 2024, 138 Stat. 1885, added item 9254. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 853 of this title as this chapter and items 8681, 8684, and 8691 as 9251, 9252, and 9253, respectively.
 
@@ -42,3 +45,4 @@ A prior chapter 933, consisting of sections 9531 to 9541, related to procurement
 - [&sect; 09251 - Presentation of United States flag upon retirement](%C2%A7%2009251%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 09252 - Service credit regular enlisted members; service as an officer to be counted as enlisted service](%C2%A7%2009252%20-%20Service%20credit%20regular%20enlisted%20members%3B%20service%20as%20an%20officer%20to%20be%20counted%20as%20enlisted%20service.md)
 - [&sect; 09253 - Flying officer rating qualifications](%C2%A7%2009253%20-%20Flying%20officer%20rating%20qualifications.md)
+- [&sect; 09254 - Authority to designate certain separated members of the Air Force as honorary separated members of the Space Force](%C2%A7%2009254%20-%20Authority%20to%20designate%20certain%20separated%20members%20of%20the%20Air%20Force%20as%20honorary%20separated%20members%20of%20the%20Space%20Force.md)

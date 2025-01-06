@@ -2,7 +2,7 @@
 
 #### (a) Statements filed; "appropriate State" defined
 
-(1) A copy of each report and statement required to be filed by any person under this Act shall be filed by such person with the Secretary of State (or equivalent State officer) of the appropriate State, or, if different, the officer of such State who is charged by State law with maintaining State election campaign reports. The chief executive officer of such State shalldesignate any such officer and notify the Commission of any such designation.
+(1) A copy of each report and statement required to be filed by any person under this Act shall be filed by such person with the Secretary of State (or equivalent State officer) of the appropriate State, or, if different, the officer of such State who is charged by State law with maintaining State election campaign reports. The chief executive officer of such State shall designate any such officer and notify the Commission of any such designation.
 
 (2) For purposes of this subsection, the term "appropriate State" means—
 

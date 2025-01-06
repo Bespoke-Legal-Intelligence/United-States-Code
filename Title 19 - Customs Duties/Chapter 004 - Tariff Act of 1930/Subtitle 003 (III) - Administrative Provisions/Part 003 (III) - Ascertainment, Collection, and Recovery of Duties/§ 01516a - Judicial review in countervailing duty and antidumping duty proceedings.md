@@ -64,7 +64,7 @@
 
 #### (5) Time limits in cases involving merchandise from free trade area countries
 
-&emsp;Notwithstanding any other provision of this subsection, in the case of a determination to which the provisions of subsection (g) apply, an action under this subsection may not be commenced, and the time limits for commencing an action under this subsection shall not begin to run, until the day specified in whichever of the following subparagraphs applies:
+&emsp;Notwithstanding any other provision of this subsection, in the case of a determination to which the provisions of subsection (g) apply, an action under this subsection may not be commenced, and the time limits for commencing an action under this subsection shall not begin to run, until the day specified inwhichever of the following subparagraphs applies:
 
 &emsp;&emsp;(A) For a determination described in paragraph (1)(B) or clause (i), (ii) or (iii) of paragraph (2)(B), the 31st day after the date on which notice of the determination is published in the Federal Register.
 
@@ -128,7 +128,7 @@
 
 #### (2) Injunctive relief
 
-&emsp;In the case of a determination described in paragraph (2) of subsection (a) by the Secretary, the administering authority, or the Commission, the United States Court of International Trade may enjoin the liquidation of some or all entries of merchandise covered by a determination of the Secretary, the administering authority, or the Commission, upon a request by an interested party for such relief and a proper showing that the requested relief should be granted under the circumstances.
+&emsp;In the case of a determination described in paragraph (2) of subsection (a) by the Secretary, the administering authority, or the Commission, the United States Court of International Trade may enjoin the liquidation of some or all entries of merchandise covered by a determination of the Secretary, the administering authority, or the Commission, upon a request by an interested party for such reliefand a proper showing that the requested relief should be granted under the circumstances.
 
 #### (3) Remand for final disposition
 
@@ -146,7 +146,7 @@ If the cause of action is sustained in whole or in part by a decision of the Uni
 
 &emsp;(2) entries, the liquidation of which was enjoined under subsection (c)(2),
 
-> shall be liquidated in accordance with the final court decision in the action. Such notice of thecourt decision shall be published within ten days from the date of the issuance of the court decision.
+> shall be liquidated in accordance with the final court decision in the action. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.
 
 #### (f) Definitions
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense partiesaffected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -386,7 +386,7 @@ For purposes of this section—
 
 #### (B) Termination of suspension
 
-&emsp;&emsp;If a special committee is reconvened and makes an affirmative determination described in article 10.13 of the USMCA, any suspension of the operation of article 10.12 of the USMCA shall terminate.
+&emsp;&emsp;If a special committee is reconvened and makes an affirmative determination described in article 10.13 of the USMCA, anysuspension of the operation of article 10.12 of the USMCA shall terminate.
 
 #### (12) Judicial review upon termination of binational panel or committee review under the USMCA
 
@@ -404,7 +404,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the operation of article 10.12 of the USMCA is suspended in accordance with article 10.13 of the USMCA—
 
-&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), anyfinal determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
+&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
 
 &emsp;&emsp;&emsp;(ii) in a case in which—
 
@@ -446,7 +446,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173; Pub. L. 116–113, title IV, §421, Jan. 29, 2020, 134 Stat. 61.)
+(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat.649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173; Pub. L. 116–113, title IV, §421, Jan. 29, 2020, 134 Stat. 61.)
 
 #### Amendment of Section
 
@@ -468,7 +468,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(4)(E), (F), are
 
 #### Codification
 
-In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, beadded to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
+In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, be added to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -524,7 +524,7 @@ Subsec. (g)(12). Pub. L. 116–113, §421(4)(K)(i), substituted "USMCA" for "NAF
 
 Subsec. (g)(12)(A). Pub. L. 116–113, §421(4)(K)(ii), added subpar. (A) and struck out former subpar. (A) which related to notice of suspension or termination of suspension of article 1904 of the NAFTA.
 
-Subsec. (g)(12)(B). Pub. L. 116–113, §421(4)(K)(iii), substituted "article 10.12 of the USMCA" for "article 1904" in heading and "If the operation of article 10.12 of the USMCA is suspended in accordance with article 10.13 of the USMCA" for "If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA" in introductory provisions.
+Subsec. (g)(12)(B). Pub. L. 116–113, §421(4)(K)(iii), substituted "article 10.12 of the USMCA" for "article 1904" in heading and "If the operation of article 10.12 of theUSMCA is suspended in accordance with article 10.13 of the USMCA" for "If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA" in introductory provisions.
 
 Subsec. (g)(12)(C)(i). Pub. L. 116–113, §421(4)(K)(iv)(I)(aa), in introductory provisions, substituted "if the United States made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA" for "if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA".
 
@@ -672,7 +672,7 @@ Pub. L. 116–113, title IV, §432, Jan. 29, 2020, 134 Stat. 66, provided that: 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
+Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1,1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
 
 Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
@@ -690,7 +690,7 @@ Amendment by Pub. L. 98–573 applicable with respect to civil actions pending o
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1980 Amendments
 

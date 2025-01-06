@@ -30,7 +30,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (g) Hearings, findings and conclusions, and order
 
-(1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shallnotify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
+(1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
 (2) The administrative law judge shall make findings of fact and conclusions of law within 60 days after the end of the hearing under this section, unless it is impracticable to do so. If the administrative law judge is unable to make findings of fact and conclusions of law within such period, or any succeeding 60-day period thereafter, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
@@ -106,7 +106,7 @@ The clerk of the court of appeals in which a petition for enforcement is filed u
 
 #### (o) Civil action for enforcement when election is made for such civil action
 
-(1) If an election is made under subsection (a), the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
+(1) If an election is made under subsection (a), the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civilaction on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
 
 (2) Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
 

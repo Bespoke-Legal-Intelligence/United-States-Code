@@ -26,7 +26,7 @@
 
 #### (3) Response protocol
 
-&emsp;The response protocol described in this paragraph is, in the case of an individual enrolled under a group health plan who requests information through a telephone call or electronic, web-based, or Internet-based means on whether a health care provider or health care facility has a contractual relationship to furnish items and services under such plan, a protocol under which such plan or such issuer (as applicable), in the case such request is made through a telephone call—
+&emsp;The response protocol described in this paragraph is, in the case of an individual enrolled under a group health plan who requests information through a telephone call or electronic, web-based, or Internet-based means on whether a health care provider or health care facility has a contractual relationship to furnish items and services under such plan, a protocolunder which such plan or such issuer (as applicable), in the case such request is made through a telephone call—
 
 &emsp;&emsp;(A) responds to such individual as soon as practicable and in no case later than 1 business day after such call is received, through a written electronic or print (as requested by such individual) communication; and
 
@@ -82,7 +82,7 @@ For plan years beginning on or after January 1, 2022, each group health plan sha
 
 &emsp;&emsp;(C) the requirements applied under section 9816; and
 
-&emsp;(2) information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
+&emsp;(2) information on contacting appropriate State and Federal agencies in the case that anindividual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
 
 (Added Pub. L. 116–260, div. BB, title I, §116(c), Dec. 27, 2020, 134 Stat. 2884.)
 

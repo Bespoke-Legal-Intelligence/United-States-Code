@@ -14,6 +14,8 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;&emsp;(C) its resource or human-use values;
 
+
+
 &emsp;(3) existing State and Federal authorities are inadequate or should be supplemented to ensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
 
 &emsp;(4) designation of the area as a national marine sanctuary will facilitate the objectives stated in paragraph (3); and
@@ -100,7 +102,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;"(D) the area is of a size and nature that will permit comprehensive and coordinated conservation and management."
 
-Subsec. (a)(1). Pub. L. 106–513, §5(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "determines that the designation will fulfill the purposes and policies of this chapter; and".
+Subsec. (a)(1). Pub. L. 106–513, §5(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:"determines that the designation will fulfill the purposes and policies of this chapter; and".
 
 Subsec. (b)(1)(J) to (L). Pub. L. 106–513, §5(b)(1), added subpars. (J) to (L).
 

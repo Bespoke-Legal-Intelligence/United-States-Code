@@ -14,11 +14,11 @@ In general.—The Administrator shall develop a plan for the certification, perm
 
 &emsp;(2)
 
-Contents.—The plan shall provide for the development of policies, procedures, or protocols that will allow appropriate officials of theFederal Aviation Administration to utilize such technologies or systems to take steps to detect and mitigate potential airspace safety risks posed by unmanned aircraft system operations.
+Contents.—The plan shall provide for the development of policies, procedures, or protocols that will allow appropriate officials of the Federal Aviation Administration to utilize such technologies or systems to take steps to detect and mitigate potential airspace safety risks posed by unmanned aircraft system operations.
 
 &emsp;(3)
 
-Aviation rulemaking committee.—The Administrator shall charter an aviation rulemaking committee to make recommendations for such a plan and any standards that the Administrator determines may need to be developed with respect to such technologies or systems. The Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to an aviation rulemaking committee chartered under this paragraph.
+Aviation rulemaking committee.—The Administrator shall charter an aviation rulemaking committee to make recommendations for such a plan and any standards that the Administrator determines may need to be developed with respect to such technologies or systems. The Federal Advisory Committee Act (5U.S.C. App.) <sup>1</sup> shall not apply to an aviation rulemaking committee chartered under this paragraph.
 
 &emsp;(4)
 
@@ -26,7 +26,7 @@ Non-delegation.—The plan shall not delegate any authority granted to the Admin
 
 (c)
 
-Airspace Hazard Mitigation Program.—In order to test and evaluate technologies or systems that detect and mitigate potential aviation safety risks posed by unmanned aircraft, the Administrator shall deploy such technologies or systems at 5 airports, including 1 airport that ranks in the top 10 of the FAA's most recent Passenger Boarding Data.
+Airspace Hazard Mitigation Program.—In order to test and evaluate technologies or systems that detect and mitigate potential aviation safety risks posed by unmanned aircraft, the Administrator shall deploy such technologies or systems at 5 airports, including 1 airport that ranks in the top 10 of the FAA's most recent Passenger Boarding Data, and any other location the Administrator determines appropriate.
 
 (d)
 
@@ -46,25 +46,31 @@ Applicability of Other Laws.—Section 46502 of this title, section 32 of title 
 
 (h)
 
-Sunset.—This section ceases to be effective March 8, 2024.
+Sunset.—This section ceases to be effective September 30, 2028.
 
 (i)
 
 Non-delegation.—The Administrator shall not delegate any authority granted to the Administrator under this section to other Federal, State, local, territorial, or tribal agencies, or an airport sponsor, as defined in section 47102 of title 49, United States Code. The Administrator may partner with other Federal agencies under this section, subject to any restrictions contained in such agencies' authority to operate counter unmanned aircraft systems.
 
-(Added Pub. L. 115–254, div. B, title III, §383(a), Oct. 5, 2018, 132 Stat. 3321; amended Pub. L. 118–15, div. B, title II, §2202(d), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(d), Dec. 26, 2023, 137 Stat. 1113.)
+(Added Pub. L. 115–254, div. B, title III, §383(a), Oct. 5, 2018, 132 Stat. 3321; amended Pub. L. 118–15, div. B, title II, §2202(d), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(d), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §102(d), Mar. 8, 2024, 138 Stat. 21; Pub. L. 118–63, title IX, §904, May 16, 2024, 138 Stat. 1341.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Aircraft Sabotage Act, referred to in subsec. (g), is part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2187. Section 2013(b) of the Act generally amended section 32 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 31 of Title 18 and Tables.
-
 The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
+The Aircraft Sabotage Act, referred to in subsec. (g), is part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2187. Section 2013(b) of the Act generally amended section 32 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 31 of Title 18 and Tables.
 
 The Computer Fraud and Abuse Act of 1986, referred to in subsec. (g), is Pub. L. 99–474, §1, Oct. 16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure. Section 1031 of Title 18 was enacted by Pub. L. 100–700, known as the Major Fraud Act of 1988.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–63, §904(1), inserted ", and any other location the Administrator determines appropriate" after "Data".
+
+Subsec. (h). Pub. L. 118–63, §904(2), substituted "September 30, 2028" for "May 10, 2024".
+
+Pub. L. 118–41 substituted "May 10, 2024" for "March 8, 2024".
 
 <b>2023</b>—Subsec. (h). Pub. L. 118–34 substituted "March 8, 2024" for "December 31, 2023".
 
@@ -78,7 +84,7 @@ Pub. L. 115–254, div. B, title III, §365, Oct. 5, 2018, 132 Stat. 3310, provi
 
 #### Enforcement
 
-Pub. L. 115–254, div. B, title III, §372, Oct. 5, 2018, 132 Stat. 3312, as amended by Pub. L. 118–15, div. B, title II, §2202(q), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(q), Dec. 26, 2023, 137 Stat. 1114, provided that:
+Pub. L. 115–254, div. B, title III, §372, Oct. 5, 2018, 132 Stat. 3312, as amended by Pub. L. 118–15, div. B, title II, §2202(q), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(q), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, §102(q), Mar. 8, 2024, 138 Stat. 22, provided that:
 
 "(a)
 
@@ -86,7 +92,7 @@ UAS Safety Enforcement.—The Administrator of the Federal Aviation Administrati
 
 "(b)
 
-Reporting.—As part of the pilot program, the Administrator shall establish and publicize a mechanism for the public and Federal, State, and local law enforcement to report suspected operation of unmanned aircraft in violation of applicable Federal laws and regulations.
+Reporting.—As part of the pilot program, the Administrator shall establish and publicize a mechanism for the public and Federal, State, and local lawenforcement to report suspected operation of unmanned aircraft in violation of applicable Federal laws and regulations.
 
 "(c)
 
@@ -102,7 +108,7 @@ Report to Congress.—Not later than 1 year after the date of enactment of the F
 
 "(d)
 
-Sunset.—The pilot program established in subsection (a) shall terminate on March 8, 2024.
+Sunset.—The pilot program established in subsection (a) shall terminate on May 10, 2024.
 
 "(e)
 

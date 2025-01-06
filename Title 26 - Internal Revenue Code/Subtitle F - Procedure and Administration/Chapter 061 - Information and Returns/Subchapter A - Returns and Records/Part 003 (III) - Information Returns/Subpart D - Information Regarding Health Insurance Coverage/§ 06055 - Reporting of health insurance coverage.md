@@ -14,7 +14,7 @@ Every person who provides minimum essential coverage to an individual during a c
 
 &emsp;&emsp;(B) contains—
 
-&emsp;&emsp;&emsp;(i) the name, address and TIN of the primary insured and the name and TIN ofeach other individual obtaining coverage under the policy,
+&emsp;&emsp;&emsp;(i) the name, address and TIN of the primary insured and the name and TIN of each other individual obtaining coverage under the policy,
 
 &emsp;&emsp;&emsp;(ii) the dates during which such individual was covered under minimum essential coverage during the calendar year,
 
@@ -25,6 +25,8 @@ Every person who provides minimum essential coverage to an individual during a c
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a qualified health plan, the amount (if any) of any advance payment under section 1412 of the Patient Protection and Affordable Care Act of any cost-sharing reduction under section 1402 of such Act or of any premium tax credit under section 36B with respect to such coverage, and
 
 &emsp;&emsp;&emsp;(iv) such other information as the Secretary may require.
+
+> &emsp;For purposes of subparagraph (B)(i), in the case of any individual whose name is required to be set forth in a return under subsection (a), if the person required to make a return under such subsection is unable to collect information on the TINs of such individuals, the Secretary may allow the individual's full name and date of birth to be substituted for the name and TIN.
 
 #### (2) Information relating to employer-provided coverage
 
@@ -50,6 +52,22 @@ Every person who provides minimum essential coverage to an individual during a c
 
 &emsp;The written statement required under paragraph (1) shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
+#### (3) <sup>1</sup> Alternative manner of furnishing statements
+
+&emsp;For purposes of this subsection, any person required to make a return under subsection (a) shall be treated as timely furnishing the written statement required under paragraph (1) if—
+
+&emsp;&emsp;(A) such person provides clear, conspicuous, and accessible notice (at such time and in such manner as the Secretary may provide) that any individual to whom a statement would otherwise be required to be furnished under paragraph (1) may request a copy of such statement, and
+
+&emsp;&emsp;(B) such person, on request of any such individual, furnishes a copy of such statement to such individual not later than the later of—
+
+&emsp;&emsp;&emsp;(i) January 31 of the year following the calendar year for which the return under subsection (a) was required to be made, or
+
+&emsp;&emsp;&emsp;(ii) 30 days after the date of such request.
+
+#### (3) <sup>1</sup> Electronic delivery
+
+&emsp;An individual shall be deemed to have consented to receive the statement under this subsection in electronic form if such individual has affirmatively consented at any prior time, to the person required to make such statement, to receive such statement in electronic form. The preceding sentence shall not apply if the individual revokes such consent in writing.
+
 #### (d) Coverage provided by governmental units
 
 In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (or the person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
@@ -58,7 +76,7 @@ In the case of coverage provided by any governmental unit or any agency or instr
 
 For purposes of this section, the term "minimum essential coverage" has the meaning given such term by section 5000A(f).
 
-(Added Pub. L. 111–148, title I, §1502(a), Mar. 23, 2010, 124 Stat. 250.)
+(Added Pub. L. 111–148, title I, §1502(a), Mar. 23, 2010, 124 Stat. 250; Pub. L. 118–167, §2(a), Dec. 23, 2024, 138 Stat. 2584; Pub. L. 118–168, §§2(a), 3(b), Dec. 23, 2024, 138 Stat. 2586.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,9 +84,27 @@ For purposes of this section, the term "minimum essential coverage" has the mean
 
 Sections 1311, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(1)(B)(iii), are classified to sections 18031, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
 
+#### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–168, §2(a), inserted concluding provisions.
+
+Subsec. (c)(3). Pub. L. 118–168, §3(b), added par. (3) relating to electronic delivery.
+
+Pub. L. 118–167 added par. (3) relating to alternative manner of furnishing statements.
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–168, §2(b), Dec. 23, 2024, 138 Stat. 2586, provided that: "The amendment made by this section \[amending this section\] shall apply to returns the due date for which is after December 31, 2024."
+
+Pub. L. 118–168, §3(c), Dec. 23, 2024, 138 Stat. 2587, provided that: "The amendments made by this section \[amending this section and section 6056 of this title\] shall apply to statements the due date for which is after December 31, 2024."
+
+Pub. L. 118–167, §2(c), Dec. 23, 2024, 138 Stat. 2585, provided that: "The amendments made by this section \[amending this section and section 6056 of this title\] shall apply to statements with respect to returns for calendar years after 2023."
 
 #### Effective Date
 
 Pub. L. 111–148, title I, §1502(e), Mar. 23, 2010, 124 Stat. 252, provided that: "The amendments made by this section \[enacting this section and section 18092 of Title 42, The Public Health and Welfare, and amending section 6724 of this title\] shall apply to calendar years beginning after 2013."
+
+<i><sup>1</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
 

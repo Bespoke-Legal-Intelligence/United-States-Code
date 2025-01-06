@@ -48,7 +48,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 &emsp;&emsp;(A) provide technical and managerial assistance to district commanders of the Corps of Engineers for project planning, development, and implementation;
 
-&emsp;&emsp;(B) provide agency peer reviews of new major scientific, engineering, or economic methods, models, or analyses that will be used to support decisions of the Secretarywith respect to feasibility studies for water resources projects;
+&emsp;&emsp;(B) provide agency peer reviews of new major scientific, engineering, or economic methods, models, or analyses that will be used to support decisions of the Secretary with respect to feasibility studies for water resources projects;
 
 &emsp;&emsp;(C) provide support for independent peer review panels under section 2343 of this title; and
 

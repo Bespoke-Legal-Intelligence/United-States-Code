@@ -6,7 +6,7 @@ Temporary appointments in the grade of ensign, lieutenant junior grade, or lieut
 
 #### (b) Termination
 
-A temporary appointment to a position under subsection (a) shall terminate upon approval of a permanent appointment for such position made by the President.
+A temporary appointment to a position under subsection (a) shall terminate upon approval ofa permanent appointment for such position made by the President.
 
 #### (c) Order of precedence
 

@@ -12,7 +12,7 @@ No loan may be provided under this section to a qualifying hospital except pursu
 
 #### (1) In general
 
-&emsp;The Secretary shall establish criteria for selecting among qualifying hospitals that apply for a loan under this section. Such criteria shall consider the extent to which the project for which loan is sought is nationally or regionally significant, in terms of expanding or improving the health care infrastructure of the United States or the region or in terms of the medical benefit that the project will have.
+&emsp;The Secretary shall establish criteria for selecting among qualifying hospitals that apply for a loan under this section. Such criteria shall consider the extent to which the projectfor which loan is sought is nationally or regionally significant, in terms of expanding or improving the health care infrastructure of the United States or the region or in terms of the medical benefit that the project will have.
 
 #### (2) Qualifying hospital defined
 
@@ -104,5 +104,5 @@ Subsec. (i). Pub. L. 109–13, §6045(b), added subsec. (i).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447)."
+Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: "The amendments made bythis section \[amending this section\] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447)."
 

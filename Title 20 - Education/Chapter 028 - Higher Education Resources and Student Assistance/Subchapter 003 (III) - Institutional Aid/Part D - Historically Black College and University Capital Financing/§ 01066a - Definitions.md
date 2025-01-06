@@ -14,7 +14,7 @@ For the purposes of this part:
 
 &emsp;&emsp;(A) any classroom facility, library, laboratory facility, dormitory (including dining facilities) or other facility customarily used by colleges and universities for instructional or research purposes or for housing students, faculty, and staff;
 
-&emsp;&emsp;(B) a facility for the administration of an educational program, or a student center or student union, except that not more than 5 percent of the loan proceeds provided under this part may be used for the facility, center or union if the facility, center or union is owned, leased, managed, or operated by a private business, that, in return for suchuse, makes a payment to the eligible institution;
+&emsp;&emsp;(B) a facility for the administration of an educational program, or a student center or student union, except that not more than 5 percent of the loan proceeds provided under this part may be used for the facility, center or union if the facility, center or union is owned, leased, managed, or operated by a private business, that, in return for such use, makes a payment to the eligible institution;
 
 &emsp;&emsp;(C) instructional equipment, technology, research instrumentation, and any capital equipment or fixture related to facilities described in subparagraph (A);
 

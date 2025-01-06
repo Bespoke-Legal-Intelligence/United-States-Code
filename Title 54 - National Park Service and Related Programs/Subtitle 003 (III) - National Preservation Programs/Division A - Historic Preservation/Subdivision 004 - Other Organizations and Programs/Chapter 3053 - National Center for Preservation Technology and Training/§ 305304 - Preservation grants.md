@@ -14,7 +14,7 @@ Allocation.—Grants provided under this section shall be allocated in such a fa
 
 &emsp;(2)
 
-Limit on amount a recipient may receive.—No grant recipient may receive more than 10 percent of the grants allocated under this section within any year.
+Limit on amount a recipient may receive.—No grant recipient may receive morethan 10 percent of the grants allocated under this section within any year.
 
 &emsp;(3)
 

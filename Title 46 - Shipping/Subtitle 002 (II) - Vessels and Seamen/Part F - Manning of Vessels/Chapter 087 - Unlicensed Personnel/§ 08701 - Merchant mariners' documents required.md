@@ -22,7 +22,7 @@
 
 &emsp;(10) the Secretary may prescribe the individuals required to hold a merchant mariner's document serving onboard an oil spill response vessel.
 
-(b) A person may not engage or employ an individual, and an individual may not serve, on board a vessel to which this section applies if the individual does not have a merchant mariner's document issued to the individual under section 7302 of this title. Except for an individual required to be licensed or registered under this part, the document must authorize service in the capacity for which the holder of the document is engaged or employed.
+(b) A person may not engage or employ an individual, and an individual may not serve, on board a vessel to which this section applies if the individual does not have a merchant mariner's document issued to the individual under section 7302 of this title. Except for an individual required to be licensed or registeredunder this part, the document must authorize service in the capacity for which the holder of the document is engaged or employed.
 
 (c) On a vessel to which section 10306 or 10503 of this title does not apply, an individual required by this section to hold a merchant mariner's document must exhibit it to the master of the vessel before the individual may be employed.
 

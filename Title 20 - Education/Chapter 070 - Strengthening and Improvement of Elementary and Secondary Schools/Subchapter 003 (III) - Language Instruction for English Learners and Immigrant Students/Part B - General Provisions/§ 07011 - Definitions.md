@@ -152,11 +152,11 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;"(4) studies to determine effective and reliable methods for identifying students who are entitled to services under such title and for determining when their English language proficiency is sufficiently well developed to permit them to derive optimal benefits from an all-English instructional program;
 
-&emsp;"(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information about bilingual education and related programs (and coordinate its activities with the National Diffusion Network);
+&emsp;"(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information aboutbilingual education and related programs (and coordinate its activities with the National Diffusion Network);
 
 &emsp;"(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English;
 
-&emsp;"(7) studies to determine and evaluate effective methods of instruction for bilingual programs, takinginto account language and cultural differences among students;
+&emsp;"(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students;
 
 &emsp;"(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students;
 

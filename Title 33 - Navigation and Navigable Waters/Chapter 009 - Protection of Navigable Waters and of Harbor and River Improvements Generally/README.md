@@ -22,7 +22,7 @@
 | [411\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000411%20-%20Penalty%20for%20wrongful%20deposit%20of%20refuse%3B%20use%20of%20or%20injury%20to%20harbor%20improvements%2C%20and%20obstruction%20of%20navigable%20waters%20generally.md) | Penalty for wrongful deposit of refuse; use of or injury to harbor improvements, and obstruction of navigable waters generally. |
 | [412\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000412%20-%20Liability%20of%20masters%2C%20pilots%2C%20etc.%2C%20and%20of%20vessels%20engaged%20in%20violations.md) | Liability of masters, pilots, etc., and of vessels engaged in violations. |
 | [413\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000413%20-%20Duty%20of%20United%20States%20attorneys%20and%20other%20Federal%20officers%20in%20enforcement%20of%20provisions%3B%20arrest%20of%20offenders.md) | Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders. |
-| [414\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000414%20-%20Removal%20by%20Secretary%20of%20the%20Army%20of%20sunken%20water%20craft%20generally%3B%20liability%20of%20owner%2C%20lessee%2C%20or%20operator.md) | Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator. |
+| [414\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000414%20-%20Vessel%20removal%20by%20Corps%20of%20Engineers.md) | Vessel removal by Corps of Engineers. |
 | [415\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000415%20-%20Summary%20removal%20of%20water%20craft%20obstructing%20navigation%3B%20liability%20of%20owner%2C%20lessee%2C%20or%20operator.md) | Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator. |
 | [416\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000416%20-%20Appropriations%20for%20removal%20of%20sunken%20water%20craft.md) | Appropriations for removal of sunken water craft. |
 | [417\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000417%20-%20Expenses%20of%20investigations%20by%20Department%20of%20the%20Army.md) | Expenses of investigations by Department of the Army. |
@@ -134,7 +134,7 @@
 | [467a.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467a%20-%20Inspection%20of%20dams.md) | Inspection of dams. |
 | [467b.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467b%20-%20Investigation%20reports%20to%20Governors.md) | Investigation reports to Governors. |
 | [467c.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467c%20-%20Determination%20of%20danger%20to%20human%20life%20and%20property.md) | Determination of danger to human life and property. |
-| [467d.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467d%20-%20National%20dam%20inventory.md) | National dam inventory. |
+| [467d.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467d%20-%20National%20inventory%20of%20dams%20and%20low-head%20dams.md) | National inventory of dams and low-head dams. |
 | [467e.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467e%20-%20Interagency%20Committee%20on%20Dam%20Safety.md) | Interagency Committee on Dam Safety. |
 | [467f.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467f%20-%20National%20dam%20safety%20program.md) | National dam safety program. |
 | 467f–1. | Lock and dam security. |
@@ -147,7 +147,7 @@
 | [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 467k to 467m. Repealed. |  |
 | [467n.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467n%20-%20Recovery%20of%20dam%20modification%20costs%20required%20for%20safety%20purposes.md) | Recovery of dam modification costs required for safety purposes. |
-| 467<i>o.</i> | National low-head dam inventory. |
+| 467<i>o.</i> | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

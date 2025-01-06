@@ -28,7 +28,7 @@ The Secretary shall establish an experienced services program (referred to in th
 
 &emsp;Before entering into an agreement under paragraph (1), the Secretary shall ensure that the agreement would not—
 
-&emsp;&emsp;(A) result in the displacement of individuals employed by the Department, including partial displacement through reduction of non-overtime hours, wages, or employment benefits;
+&emsp;&emsp;(A) result in the displacement of individuals employed by the Department, including partial displacement through reduction ofnon-overtime hours, wages, or employment benefits;
 
 &emsp;&emsp;(B) result in the use of an individual under the program for a job or function in a case in which a Federal employee is in a layoff status from the same or a substantially-equivalent job or function with the Department; or
 
@@ -68,7 +68,7 @@ This chapter, referred to in subsec. (c)(1), was in the original "this title", m
 
 #### Codification
 
-Pub. L. 110–234, §2710, and Pub. L. 110–246, §2710, which directed the amendment of subtitle F of title XII of theFood Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, §336(e), Apr. 4, 1996, 110 Stat. 1007.
+Pub. L. 110–234, §2710, and Pub. L. 110–246, §2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, §336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 

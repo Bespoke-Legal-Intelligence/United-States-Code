@@ -66,7 +66,7 @@ In this section—
 
 #### (3) Vice Chairperson
 
-&emsp;The Under Secretary shall designate a Vice Chairperson from among the members of the Interagency Committee selected under paragraph (1)(B).
+&emsp;The Under Secretary shall designate a Vice Chairperson from among the members of theInteragency Committee selected under paragraph (1)(B).
 
 #### (4) Meetings
 
@@ -186,7 +186,7 @@ In this section—
 
 &emsp;&emsp;(vi) Research to understand the long-term effects of major oil discharges and the long-term effects of smaller endemic oil discharges.
 
-&emsp;&emsp;(vii) The identification of potential impacts on ecosystems, habitat, and wildlife from the additional toxicity, heavy metalconcentrations, and increased corrosiveness of mixed crude, such as diluted bitumen crude.
+&emsp;&emsp;(vii) The identification of potential impacts on ecosystems, habitat, and wildlife from the additional toxicity, heavy metal concentrations, and increased corrosiveness of mixed crude, such as diluted bitumen crude.
 
 &emsp;&emsp;(viii) The development of methods to restore and rehabilitate natural resources and ecosystem functions damaged by oil discharges.
 
@@ -204,7 +204,7 @@ In this section—
 
 #### (5) Marine simulation research
 
-&emsp;The program established under paragraph (1) shall include research on the greater use and application of geographic and vessel response simulation models, including the development of additional data bases and updating of existing data bases using, among others, the resources of the National Maritime Research Center. It shall include research and vessel simulations for—
+&emsp;The program established under paragraph (1) shall include research on the greater use andapplication of geographic and vessel response simulation models, including the development of additional data bases and updating of existing data bases using, among others, the resources of the National Maritime Research Center. It shall include research and vessel simulations for—
 
 &emsp;&emsp;(A) contingency plan evaluation and amendment;
 
@@ -240,13 +240,13 @@ In this section—
 
 #### (8) Regional research program
 
-&emsp;(A) Consistent with the research plan in subsection (d), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means aCoast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
+&emsp;(A) Consistent with the research plan in subsection (d), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
 &emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
-&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil on regional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
+&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil onregional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
 
 &emsp;&emsp;(i) There is available to the applicant for carrying out this paragraph demonstrated research resources.
 
@@ -284,7 +284,7 @@ The Chair shall submit to Congress every 2 years on October 30 a report on the a
 
 Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (e)(8). Of such sums—
 
-&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection\(c)(4) <sup>1</sup> shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) <sup>1</sup> shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
 &emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) <sup>1</sup> for fiscal years 1992, 1993, 1994, and 1995.
 

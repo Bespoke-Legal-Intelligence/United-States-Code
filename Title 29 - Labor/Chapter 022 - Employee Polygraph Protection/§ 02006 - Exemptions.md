@@ -64,7 +64,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and sections 2007 and 2009 of this title, this chapter shall not prohibit the use of polygraph tests on prospective employees by any private employer whose primary business purpose consists of providingarmored car personnel, personnel engaged in the design, installation, and maintenance of security alarm systems, or other uniformed or plainclothes security personnel and whose function includes protection of—
+&emsp;Subject to paragraph (2) and sections 2007 and 2009 of this title, this chapter shall not prohibit the use of polygraph tests on prospective employees by any private employer whose primary business purpose consists of providing armored car personnel, personnel engaged in the design, installation, and maintenance of security alarm systems, or other uniformed or plainclothes security personnel and whose function includes protection of—
 
 &emsp;&emsp;(A) facilities, materials, or operations having a significant impact on the health or safety of any State or political subdivision thereof, or the national security of the United States, as determined under rules and regulations issued by the Secretary within 90 days after June 27, 1988, including—
 
@@ -106,7 +106,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### References in Text
 
-Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under section 3161 of Title 50.
+Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557,which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under section 3161 of Title 50.
 
 #### Amendments
 

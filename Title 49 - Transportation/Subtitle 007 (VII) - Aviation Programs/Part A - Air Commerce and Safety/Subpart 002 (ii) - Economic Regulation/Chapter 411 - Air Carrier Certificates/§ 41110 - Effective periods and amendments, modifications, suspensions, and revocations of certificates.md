@@ -48,7 +48,7 @@ Continuing Requirements.—(1) To hold a certificate issued under section 41102 
 
 (2) After notice and an opportunity for a hearing, the Secretary shall amend, modify, suspend, or revoke any part of a certificate issued under section 41102 of this title if the Secretary finds that the air carrier—
 
-&emsp;(A) is not fit, willing, and able to provide the transportation authorized by the certificate and to comply with this part and regulations of the Secretary; or
+&emsp;(A) is not fit, willing, and able to provide the transportation authorized by the certificateand to comply with this part and regulations of the Secretary; or
 
 &emsp;(B) does not file reports necessary for the Secretary to decide if the carrier is complying with the requirements of clause (A) of this paragraph.
 
@@ -162,7 +162,7 @@ Aug. 15, 1985, Pub. L. 99–88, §100 (1st complete par. related to certificate 
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a)(1)(C), the words "transportation is no longer being provided under a certificate" are substituted for "operation thereunder has ceased" and"operations thereunder have ceased" for clarity and consistency.
+In subsection (a)(1)(C), the words "transportation is no longer being provided under a certificate" are substituted for "operation thereunder has ceased" and "operations thereunder have ceased" for clarity and consistency.
 
 In subsections (a)(2) and (e), the words "opportunity for a" are added for consistency in the revised title and with other titles of the United States Code.
 

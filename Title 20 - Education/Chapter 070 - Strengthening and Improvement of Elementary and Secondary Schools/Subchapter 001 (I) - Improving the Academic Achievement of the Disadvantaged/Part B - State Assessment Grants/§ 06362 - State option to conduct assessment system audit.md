@@ -106,7 +106,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 #### (1) In general
 
-&emsp;Each State shall reserve not less than 20 percent of the grant funds awarded to the State under this section to make subgrants to local educational agencies in the State or consortia of such local educational agencies, based on demonstrated need in the agency's or consortium's application, to enable such agencies or consortia to improve assessment quality and use, and alignment, including, if applicable, alignment to the challenging State academic standards.
+&emsp;Each State shall reserve not less than 20 percent of the grant funds awarded to the Stateunder this section to make subgrants to local educational agencies in the State or consortia of such local educational agencies, based on demonstrated need in the agency's or consortium's application, to enable such agencies or consortia to improve assessment quality and use, and alignment, including, if applicable, alignment to the challenging State academic standards.
 
 #### (2) Local educational agency application
 
@@ -122,7 +122,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;(C) improve assessment delivery systems and schedules, including by increasing access to technology and assessment proctors, where appropriate;
 
-&emsp;&emsp;(D) hire instructional coaches, or promote teachers who may receive increased compensation to serve as instructional coaches, to support teachers in the development ofclassroom-based assessments, interpreting assessment data, and designing instruction;
+&emsp;&emsp;(D) hire instructional coaches, or promote teachers who may receive increased compensation to serve as instructional coaches, to support teachers in the development of classroom-based assessments, interpreting assessment data, and designing instruction;
 
 &emsp;&emsp;(E) provide for appropriate accommodations to maximize inclusion of children with disabilities and English learners participating in assessments; and
 

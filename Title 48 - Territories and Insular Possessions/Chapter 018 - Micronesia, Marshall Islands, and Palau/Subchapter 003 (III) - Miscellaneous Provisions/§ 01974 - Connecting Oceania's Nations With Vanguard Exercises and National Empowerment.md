@@ -34,7 +34,7 @@ Specified country.—The term "specified country" means—
 
 #### (1) In general
 
-&emsp;The Secretary of State, in consultation with other relevant Federal departments and agencies, as appropriate, may consult and engage with each specified country to advise and provide assistance to a national security council\(including by developing a national security council, if appropriate), or to identify a similar coordinating body for national security matters, comprised of citizens of the specified country—
+&emsp;The Secretary of State, in consultation with other relevant Federal departments and agencies, as appropriate, may consult and engage with each specified country to advise and provide assistance to a national security council (including by developing a national security council, if appropriate), or to identify a similar coordinating body for national security matters, comprised of citizens of the specified country—
 
 &emsp;&emsp;(A) that enables the specified country—
 
@@ -114,7 +114,7 @@ Specified country.—The term "specified country" means—
 
 &emsp;&emsp;(B) Coordination with United States Government officials on humanitarian response, military exercises, law enforcement, and other issues of security concern.
 
-&emsp;&emsp;(C) Identification and development of an existing governmental entity to supporthomeland defense and civil support activities.
+&emsp;&emsp;(C) Identification and development of an existing governmental entity to support homeland defense and civil support activities.
 
 (Pub. L. 118–31, div. E, title LIV, §5412, Dec. 22, 2023, 137 Stat. 949.)
 

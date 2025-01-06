@@ -28,7 +28,7 @@ Senior Official.—Not later than 180 days after the enactment of this section, 
 
 (c)
 
-Support From Other Department of Defense Organizations.—The Secretary of Defense may direct other elements of the Department of Defense to provide personnel, resources, and other support to the program established under this section, as the Secretary determines appropriate.
+Support From Other Department of Defense Organizations.—The Secretary of Defense may direct other elements of the Department of Defense to provide personnel, resources, and other support to the program establishedunder this section, as the Secretary determines appropriate.
 
 (d)
 

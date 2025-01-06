@@ -1,6 +1,6 @@
 ### §4985. Reports
 
-The Secretary of Defense shall require each qualified commercial firm for which a loan isguaranteed under this subchapter to submit to the Secretary a report on the improvements financed or refinanced with the loan. The report shall include an assessment of the value of the improvements for the protection of the critical infrastructure of that commercial firm. The Secretary shall prescribe the time for submitting the report.
+The Secretary of Defense shall require each qualified commercial firm for which a loan is guaranteed under this subchapter to submit to the Secretary a report on the improvements financed or refinanced with the loan. The report shall include an assessment of the value of the improvements for the protection of the critical infrastructure of that commercial firm. The Secretary shall prescribe the time for submitting the report.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, §2541d; amended Pub. L. 108–136, div. A, title X, §1031(a)(25), Nov. 24, 2003, 117 Stat. 1598; renumbered §4985, Pub. L. 116–283, div. A, title XVIII, §1873(b), (c)(2), Jan. 1, 2021, 134 Stat. 4290.)
 
@@ -156,7 +156,7 @@ Section 5204, acts Aug. 10, 1956, ch. 1041, 70A Stat. 292; Aug. 3, 1961, Pub. L.
 
 A prior section 5205, act Aug. 10, 1956, ch. 1041, 70A Stat. 293, related to retirement of heads of Marine Corps staff departments, their retired grade and pay, prior to repeal by Pub. L. 87–123, §5(3), Aug. 3, 1961, 75 Stat. 264.
 
-A prior section 5206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 293; Sept. 7, 1962, Pub. L. 87–649, §6(c)(4), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §1(15), 81 Stat. 376, established in Office of Commandant of Marine Corps theposition of Director of Women Marines, prior to repeal by Pub. L. 96–513, title III, §344(b), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
+A prior section 5206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 293; Sept. 7, 1962, Pub. L. 87–649, §6(c)(4), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §1(15), 81 Stat. 376, established in Office of Commandant of Marine Corps the position of Director of Women Marines, prior to repeal by Pub. L. 96–513, title III, §344(b), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
 Prior sections 5221 and 5222 were repealed by Pub. L. 95–82, title VI, §611(a), Aug. 1, 1977, 91 Stat. 378.
 
@@ -258,7 +258,7 @@ Prior sections 5456 to 5458 were repealed by Pub. L. 103–337, div. A, title XV
 
 Section 5456, act Aug. 10, 1956, ch. 1041, 70A Stat. 313, related to authorized strengths of Naval Reserve and Marine Corps Reserve. See section 12001(b) of this title.
 
-Section 5457, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1491; amended Pub. L. 86–559, §1(35), (36), June 30, 1960, 74 Stat. 273; Pub. L. 92–559, Oct. 25, 1972, 86 Stat. 1173; Pub. L. 96–107, title III, §302(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title III, §313(e), title V, §513(9)(B), Dec. 12, 1980, 94 Stat. 2892, 2931; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–189, div. A, title VII, §712, Nov. 29, 1989, 103 Stat. 1477; Pub. L. 102–190, div. A, title X, §1061(a)(22)(B), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Naval Reserve in officers in active status in grades above chief warrant officer, W–⁠5. See sections 12004(a), (c), and (e)(2) and 12005(b) and (d)(2) of this title.
+Section 5457, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1491; amended Pub. L. 86–559, §1(35), (36),June 30, 1960, 74 Stat. 273; Pub. L. 92–559, Oct. 25, 1972, 86 Stat. 1173; Pub. L. 96–107, title III, §302(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title III, §313(e), title V, §513(9)(B), Dec. 12, 1980, 94 Stat. 2892, 2931; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–189, div. A, title VII, §712, Nov. 29, 1989, 103 Stat. 1477; Pub. L. 102–190, div. A, title X, §1061(a)(22)(B), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Naval Reserve in officers in active status in grades above chief warrant officer, W–⁠5. See sections 12004(a), (c), and (e)(2) and 12005(b) and (d)(2) of this title.
 
 Section 5458, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1492; amended Pub. L. 86–559, §1(37)–(39), June 30, 1960, 74 Stat. 273; Pub. L. 96–107, title III, §302(c), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title V, §513(9)(C), Dec. 12, 1980, 94 Stat. 2931; Pub. L. 102–190, div. A, title X, §1061(a)(22)(C), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Marine Corps Reserve in officers in active status in grades above chief warrant officer, W–⁠5. See sections 12004(a), (d), (e)(2) and 12005(c), (d)(2) of this title.
 
@@ -326,7 +326,7 @@ Section 5579, act Aug. 10, 1956, ch. 1041, 70A Stat. 323, prescribed requirement
 
 Section 5580, acts Aug. 10, 1956, ch 1041, 70A Stat. 323; Sept. 30, 1966, Pub. L. 89–609, §1(7)–(9), 80 Stat. 853, prescribed requirements for original appointments to the active list of the Navy in the Nurse Corps. See section 532 of this title.
 
-A prior section 5581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 323; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to the appointment of women in the Naval Reserve to the Medical Corps, the Dental Corps, and the Medical Services Corps, prior to repeal by Pub. L. 96–513, title III, §373(c), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
+A prior section 5581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 323; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to the appointment of women in the Naval Reserve to the Medical Corps, the Dental Corps, and the Medical Services Corps, prior to repeal by Pub. L.96–513, title III, §373(c), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
 
 A prior section 5582 was renumbered section 8132 of this title.
 
@@ -416,7 +416,7 @@ A prior section 5666, act Aug. 10, 1956, ch. 1041, 70A Stat. 336, provided that 
 
 Prior sections 5701 to 5711 were repealed by Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897, effective Sept. 15, 1981.
 
-Section 5701, acts Aug. 10, 1956, ch. 1041, 70A Stat. 336; Feb. 26, 1970, Pub. L. 91–199, §1, 84 Stat. 16, related toconvening by Secretary of Navy at least annually of selection boards to recommend male officers in line of Navy for promotion and continuation on active list. See section 611 of this title.
+Section 5701, acts Aug. 10, 1956, ch. 1041, 70A Stat. 336; Feb. 26, 1970, Pub. L. 91–199, §1, 84 Stat. 16, related to convening by Secretary of Navy at least annually of selection boards to recommend male officers in line of Navy for promotion and continuation on active list. See section 611 of this title.
 
 Section 5702, acts Aug. 10, 1956, ch. 1041, 70A Stat. 337; Aug. 21, 1957, Pub. L. 85–155, title II, §201(5), 71 Stat. 381; Nov. 8, 1967, Pub. L. 90–130, §1(18)(A)–(H), 81 Stat. 377; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to convening of selection boards to recommend staff corps officers, other than women officers appointed under former section 5590 of this title, for promotion and continuation on active list. See section 611 of this title.
 
@@ -778,7 +778,7 @@ Prior sections 6372 to 6374 were repealed by Pub. L. 96–513, title III, §335,
 
 Section 6372, act Aug. 10, 1956, ch. 1041, 70A Stat. 400, related to retirement and possible retention on active list of line rear admirals restricted in performance of duty and staff corps rear admirals in Regular Navy. See section 637 of this title.
 
-Section 6373, act Aug. 10, 1956, ch. 1041, 70A Stat. 400, related to retirement and possible retention on active list of major generals in Regular Marine Corps. See section 637 of this title.
+Section 6373, act Aug. 10, 1956, ch. 1041, 70A Stat. 400, related to retirement and possible retention on activelist of major generals in Regular Marine Corps. See section 637 of this title.
 
 Section 6374, acts Aug. 10, 1956, ch. 1041, 70A Stat. 401; Aug. 3, 1961, Pub. L. 87–123, §5(25), 75 Stat. 266, related to retirement for failures of selection for promotion of brigadier generals in Regular Marine Corps.
 
@@ -830,7 +830,7 @@ A prior section 6393, act Aug. 10, 1956, ch. 1041, 70A Stat. 410, authorized Sec
 
 Prior sections 6394 to 6396 were repealed by Pub. L. 96–513, title III, §335, Dec. 12, 1980, 94 Stat. 2898, effective Sept. 15, 1981.
 
-Section 6394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 410; May 20, 1958, Pub. L. 85–422, §11(a)(6)(F), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, §1(144)(C), 72 Stat. 1511; Oct. 2, 1963, Pub. L. 88–132, §5(h)(4), 77 Stat. 214; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(9), 94 Stat. 1107, related to the retirement upon board recommendation of Regular Navy rear admirals and commodores and Regular Marine Corps major generals and brigadier generals.
+Section 6394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 410; May 20, 1958, Pub. L. 85–422, §11(a)(6)(F), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, §1(144)(C), 72 Stat. 1511; Oct. 2, 1963, Pub. L. 88–132, §5(h)(4), 77 Stat. 214; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(9), 94 Stat. 1107, relatedto the retirement upon board recommendation of Regular Navy rear admirals and commodores and Regular Marine Corps major generals and brigadier generals.
 
 Section 6395, acts Aug. 10, 1956, ch. 1041, 70A Stat. 411; Aug. 21, 1957, Pub. L. 85–155, title II, §201(21), 71 Stat. 385; Sept. 30, 1966, Pub. L. 89–609, §1(22), 80 Stat. 853, related to discharge during time of war and national emergency of Regular Navy and Regular Marine Corps officers with less than 20 years of service for unsatisfactory performance of duty. See section 1181 et seq. of this title.
 
@@ -888,7 +888,7 @@ Section 6901, acts Aug. 10, 1956, ch. 1041, 70A Stat. 420; Sept. 2, 1958, Pub. L
 
 Sections 6902 and 6903, act Aug. 10, 1956, ch. 1041, 70A Stat. 420, 421, related to transfer of graduates of Naval Reserve Officers' Training Corps to Regular Navy, administration of officer candidate training program, and to qualifications for enrollment. See sections 2104 and 2106 of this title.
 
-Sections 6904 to 6906, acts Aug. 10, 1956, ch. 1041, 70A Stat. 421, 422, 423; Sept. 7, 1962, Pub. L. 87–649, §14c(48)–(50), 76 Stat. 501, related to officer candidate training program and qualifications and training of members. See chapters 102 and 103 of this title.
+Sections 6904 to 6906, acts Aug. 10, 1956, ch. 1041, 70A Stat. 421, 422, 423; Sept. 7, 1962, Pub. L. 87–649, §14c(48)–(50), 76 Stat. 501, related to officer candidatetraining program and qualifications and training of members. See chapters 102 and 103 of this title.
 
 A prior section 6907, act Aug. 10, 1956, ch. 1041, 70A Stat. 424, related to retention or transfer to Reserve of officers other than naval aviators under officer candidate training program, prior to repeal by Pub. L. 87–100, §1(1), July 21, 1961, 75 Stat. 218.
 

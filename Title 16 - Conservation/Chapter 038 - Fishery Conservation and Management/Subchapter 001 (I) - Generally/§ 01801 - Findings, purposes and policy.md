@@ -24,7 +24,7 @@ The Congress finds and declares the following:
 
 &emsp;(10) Pacific Insular Areas contain unique historical, cultural, legal, political, and geographical circumstances which make fisheries resources important in sustaining their economic growth.
 
-&emsp;(11) A number of the Fishery Management Councils have demonstrated significant progress in integrating ecosystem considerations in fisheries management using the existing authorities provided under this chapter.
+&emsp;(11) A number of the Fishery Management Councils have demonstrated significantprogress in integrating ecosystem considerations in fisheries management using the existing authorities provided under this chapter.
 
 &emsp;(12) International cooperation is necessary to address illegal, unreported, and unregulated fishing and other fishing practices which may harm the sustainability of living marine resources and disadvantage the United States fishing industry.
 
@@ -70,7 +70,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 #### Amendment of Subsection (b)(1)
 
-<i>Pub. L. 102–251, title III, §§301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting ", and fishery resources in the special areas" before the semicolon at the end.</i>
+<i>Pub. L. 102–251, title III, §§301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force</i><i>for the United States, subsection (b)(1) is amended by inserting ", and fishery resources in the special areas" before the semicolon at the end.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -146,6 +146,10 @@ Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided tha
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
+#### Short Title of 2025 Amendment
+
+Pub. L. 118–229, §1, Jan. 4, 2025, 138 Stat. 2824, provided that: "This Act \[amending section 1861a of this title\] may be cited as the 'Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act' or the 'FISHES Act'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–328, div. S, title I, §101, Dec. 29, 2022, 136 Stat. 5259, provided that: "This title \[amending sections 1802, 1826, and 1857 of this title and enacting provisions set out as a note under section 1862 of this title\] may be cited as the 'Driftnet Modernization and Bycatch Reduction Act'."
@@ -202,7 +206,7 @@ Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: 
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–6, §1, Feb. 21, 1977, 91 Stat. 14, provided: "That this joint resolution \[enacting section 1826 of this title, repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981 and 1823 of this title\] may be cited as the 'Fishery Conservation Zone Transition Act'."
+Pub. L. 95–6, §1, Feb. 21, 1977, 91 Stat. 14, provided: "That this joint resolution \[enacting section 1826 of this title, repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981and 1823 of this title\] may be cited as the 'Fishery Conservation Zone Transition Act'."
 
 #### Short Title
 
@@ -272,7 +276,7 @@ Mixed-use fishery.—The term 'mixed-use fishery' means a Federal fishery in whi
 
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969\(42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
@@ -326,7 +330,7 @@ Ex. Ord. No. 13921, May 7, 2020, 85 F.R. 28471, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the American economy; improve the competitiveness of American industry; ensure food security; provide environmentally safe and sustainable seafood; support American workers; ensure coordinated, predictable, and transparent Federal actions; and remove unnecessary regulatory burdens, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. America needs a vibrant and competitive seafood industry to create and sustain American jobs, put safe and healthy food on American tables, and contribute to the American economy. Despite America's bountiful aquatic resources, by weight ourNation imports over 85 percent of the seafood consumed in the United States. At the same time, illegal, unreported, and unregulated fishing undermines the sustainability of American and global seafood stocks, negatively affects general ecosystem health, and unfairly competes with the products of law-abiding fishermen and seafood industries around the world. More effective permitting related to offshore aquaculture and additional streamlining of fishery regulations have the potential to revolutionize American seafood production, enhance rural prosperity, and improve the quality of American lives. By removing outdated and unnecessarily burdensome regulations; strengthening efforts to combat illegal, unreported, and unregulated fishing; improving the transparency and efficiency of environmental reviews; and renewing our focus on long-term strategic planning to facilitate aquaculture projects, we can protect our aquatic environments; revitalize our Nation's seafood industry; get more Americans back to work; and put healthy, safe food on our families' tables.
+Section 1. <i>Purpose</i>. America needs a vibrant and competitive seafood industry to create and sustain American jobs, put safe and healthy food on American tables, and contribute to the American economy. Despite America's bountiful aquatic resources, by weight our Nation imports over 85 percent of the seafood consumed in the United States. At the same time, illegal, unreported, and unregulated fishing undermines the sustainability of American and global seafood stocks, negatively affects general ecosystem health, and unfairly competes with the products of law-abiding fishermen and seafood industries around the world. More effective permitting related to offshore aquaculture and additional streamlining of fishery regulations have the potential to revolutionize American seafood production, enhance rural prosperity, and improve the quality of American lives. By removing outdated and unnecessarily burdensome regulations; strengthening efforts to combat illegal, unreported, and unregulated fishing; improving the transparency and efficiency of environmental reviews; and renewing our focus on long-term strategic planning to facilitate aquaculture projects, we can protect our aquatic environments; revitalize our Nation's seafood industry; get more Americans back to work; and put healthy, safe food on our families' tables.
 
 Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to:
 
@@ -354,7 +358,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this order:
 
 (d) "Exclusive economic zone of the United States" means the zone established in Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) \[16 U.S.C. 1453 note\];
 
-(e) "Lead agency" has the meaning given that term in the regulations of the Council on Environmental Quality, contained in title 40, Code of Federal Regulations, that implement the procedural provisions of the National Environmental Policy Act \[of 1969\] (NEPA) (42 U.S.C. 4321 <i>et seq</i>.);
+(e) "Lead agency" has the meaning given that term in the regulations of the Council on Environmental Quality, contained in title 40, Code of Federal Regulations, that implement the procedural provisions of theNational Environmental Policy Act \[of 1969\] (NEPA) (42 U.S.C. 4321 <i>et seq</i>.);
 
 (f) "Maritime domain" means all areas and things of, on, under, relating to, adjacent to, or bordering on a sea, ocean, or other navigable waterway, including all maritime-related activities, infrastructure, people, cargo, and vessels and other conveyances;
 
@@ -380,7 +384,7 @@ Sec. 5. <i>Combating Illegal, Unreported, and Unregulated Fishing</i>. (a) Withi
 
 (c) The Secretary of State, the Secretary of Commerce, the Secretary of Health and Human Services, and the Secretary of Homeland Security shall, consistent with applicable law and available appropriations, prioritize training and technical assistance in key geographic areas to promote sustainable fisheries management; to strengthen and enhance existing enforcement capabilities to combat illegal, unreported, and unregulated fishing; and to promote implementation of the Port State Measures Agreement.
 
-Sec. 6. <i>Removing Barriers to Aquaculture Permitting</i>. (a) For aquaculture projects that require environmental review or authorization by two or more agencies in order to proceed with the permitting of an aquaculture facility, when the lead agency has determined that it will prepare an environmental impact statement (EIS) under NEPA, the agencies shall undertake to complete all environmental reviews and authorization decisions within 2 years, measured from the date of the publication of a notice of intent to prepare an EIS to the date of issuance of the Record of Decision (ROD), and shall use the "One Federal Decision" process enhancements described in section 5(b) of Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and PermittingProcess for Infrastructure Projects) \[42 U.S.C. 4370m note\], and in subsections (a)(ii) and (iii) of this section. For such projects:
+Sec. 6. <i>Removing Barriers to Aquaculture Permitting</i>. (a) For aquaculture projects that require environmental review or authorization by two or more agencies in order to proceed with the permitting of an aquaculture facility, when the lead agency has determined that it will prepare an environmental impact statement (EIS) under NEPA, the agencies shall undertake to complete all environmental reviews and authorization decisions within 2 years, measured from the date of the publication of a notice of intent to prepare an EIS to the date of issuance of the Record of Decision (ROD), and shall use the "One Federal Decision" process enhancements described in section 5(b) of Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects) \[42 U.S.C. 4370m note\], and in subsections (a)(ii) and (iii) of this section. For such projects:
 
 (i) NOAA is designated as the lead agency for aquaculture projects located outside of the waters of any State or Territory and within the exclusive economic zone of the United States and shall be responsible for navigating the project through the Federal environmental review and authorization process, including the identification of a primary point of contact at each cooperating and participating agency;
 
@@ -396,7 +400,7 @@ Sec. 6. <i>Removing Barriers to Aquaculture Permitting</i>. (a) For aquaculture 
 
 (ii) assess whether to develop a United States Army Corps of Engineers nationwide permit authorizing finfish aquaculture activities in other waters of the United States;
 
-(iii) develop and propose for public comment, as appropriate and consistent with applicable law, a proposed United States Army Corps of Engineers nationwide permit authorizing seaweed aquaculture activities in marine and coastal waters out to the limit of the territorial sea and in ocean waters beyond the territorial sea within the exclusive economic zone of the United States;
+(iii) develop and propose for public comment, as appropriate and consistent with applicable law, a proposed United States Army Corps of Engineers nationwide permit authorizing seaweed aquaculture activities in marine and coastal waters out to the limit of theterritorial sea and in ocean waters beyond the territorial sea within the exclusive economic zone of the United States;
 
 (iv) assess whether to develop a United States Army Corps of Engineers nationwide permit authorizing seaweed aquaculture activities for other waters of the United States;
 

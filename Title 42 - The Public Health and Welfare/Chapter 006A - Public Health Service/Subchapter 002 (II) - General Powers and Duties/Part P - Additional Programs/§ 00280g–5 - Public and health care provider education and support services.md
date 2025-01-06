@@ -68,7 +68,7 @@ Subsec. (b)(1)(D)(ii). Pub. L. 115–328, §3(2)(B)(v)(I), inserted "intake" aft
 
 Subsec. (b)(1)(D)(iv) to (vii). Pub. L. 115–328, §3(2)(B)(v)(II)–(IV), added cls. (iv) to (vi) and redesignated former cl. (iv) as (vii).
 
-Subsec. (b)(1)(E) to (G). Pub. L. 115–328, §3(2)(B)(ii), (vi)–(viii), redesignated subpars. (D) to (F) as (E) to (G),respectively, and struck out subpar. (G), as redesignated, which read as follows: "utilization of evidence-based strategies to prevent birth injuries;".
+Subsec. (b)(1)(E) to (G). Pub. L. 115–328, §3(2)(B)(ii), (vi)–(viii), redesignated subpars. (D) to (F) as (E) to (G), respectively, and struck out subpar. (G), as redesignated, which read as follows: "utilization of evidence-based strategies to prevent birth injuries;".
 
 Subsec. (b)(2). Pub. L. 115–328, §3(2)(C), inserted ", as well as prevention of a future preterm birth" before semicolon at end.
 

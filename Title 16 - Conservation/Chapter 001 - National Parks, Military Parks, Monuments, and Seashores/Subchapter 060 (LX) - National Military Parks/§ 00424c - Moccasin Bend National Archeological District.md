@@ -38,7 +38,7 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may acquire by donation, purchase from willing sellers using donated or appropriated funds, or exchange, landsand interests in lands within the exterior boundary of the archeological district. The Secretary may acquire the State, county and city-owned land and interests in land for inclusion in the archeological district only by donation.
+&emsp;&emsp;The Secretary may acquire by donation, purchase from willing sellers using donated or appropriated funds, or exchange, lands and interests in lands within the exterior boundary of the archeological district. The Secretary may acquire the State, county and city-owned land and interests in land for inclusion in the archeological district only by donation.
 
 #### (B) Easement outside boundary
 

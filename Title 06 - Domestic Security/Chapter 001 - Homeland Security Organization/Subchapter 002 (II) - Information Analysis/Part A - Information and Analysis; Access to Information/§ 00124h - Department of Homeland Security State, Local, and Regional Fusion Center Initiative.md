@@ -66,7 +66,7 @@ Through the Department of Homeland Security State, Local, and Regional Fusion Ce
 
 &emsp;&emsp;Any criteria developed under subparagraph (A) may include—
 
-&emsp;&emsp;&emsp;(i) whether the fusion center, through its mission and governance structure, focuseson a broad counterterrorism approach, and whether that broad approach is pervasive through all levels of the organization;
+&emsp;&emsp;&emsp;(i) whether the fusion center, through its mission and governance structure, focuses on a broad counterterrorism approach, and whether that broad approach is pervasive through all levels of the organization;
 
 &emsp;&emsp;&emsp;(ii) whether the fusion center has sufficient numbers of adequately trained personnel to support a broad counterterrorism mission;
 

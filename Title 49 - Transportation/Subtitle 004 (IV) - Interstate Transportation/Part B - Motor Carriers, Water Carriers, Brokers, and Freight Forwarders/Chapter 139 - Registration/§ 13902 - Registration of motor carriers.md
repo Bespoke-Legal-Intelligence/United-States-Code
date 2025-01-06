@@ -48,7 +48,7 @@ Withholding.—If the Secretary determines that a registrant under this section 
 
 &emsp;(5)
 
-Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
+Limitation on complaints.—The Secretary may hear a complaint from any personconcerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
 
 &emsp;(6)
 
@@ -216,7 +216,7 @@ In general.—On and after the transition termination date, the Secretary—
 
 &emsp;&emsp;(B) shall register applicants under this section as motor carriers; and
 
-&emsp;&emsp;(C) shall issue any motor carrier registered under this section after that date a motorcarrier certificate of registration that specifies whether the holder of the certificate may provide transportation of persons, household goods, other property, or any combination thereof.
+&emsp;&emsp;(C) shall issue any motor carrier registered under this section after that date a motor carrier certificate of registration that specifies whether the holder of the certificate may provide transportation of persons, household goods, other property, or any combination thereof.
 
 &emsp;(2)
 
@@ -374,7 +374,7 @@ Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted "
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -392,7 +392,7 @@ Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub.L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Written Proficiency Examination
 
@@ -504,7 +504,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by 
 
 &emsp;"(5) requires, with the exception of Mexican motor carriers that have been granted permanent operating authority for three consecutive years—
 
-&emsp;&emsp;"(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
+&emsp;&emsp;"(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the UnitedStates-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
 
 &emsp;&emsp;"(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
 
@@ -664,7 +664,7 @@ The North American Free Trade Agreement (NAFTA) established a schedule for liber
 
 First, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to transport passengers in cross-border scheduled bus services. Second, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to provide cross-border truck services. The moratorium on the issuance of certificates or permits to Mexican-domiciled motor carriers for the provision of truck or bus services between points in the United States will remain in place. These modifications shall be effective on the date of this memorandum.
 
-Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices in order to help ensure the security of the border and to prevent potential threats to national security.
+Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices inorder to help ensure the security of the border and to prevent potential threats to national security.
 
 Motor carriers domiciled in Mexico operating in the United States will be subject to the same Federal and State laws, regulations, and procedures that apply to carriers domiciled in the United States. These include safety regulations, such as drug and alcohol testing requirements; insurance requirements; taxes and fees; and other applicable laws and regulations, including those administered by the United States Customs Service, the Immigration and Naturalization Service, the Department of Labor, and Federal and State environmental agencies.
 

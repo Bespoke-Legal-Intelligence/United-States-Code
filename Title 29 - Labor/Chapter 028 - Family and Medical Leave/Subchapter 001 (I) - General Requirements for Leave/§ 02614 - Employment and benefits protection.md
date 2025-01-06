@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
 
-&emsp;&emsp;(B) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
+&emsp;&emsp;(B) to be restored to an equivalent position with equivalent employment benefits, pay,and other terms and conditions of employment.
 
 #### (2) Loss of benefits
 

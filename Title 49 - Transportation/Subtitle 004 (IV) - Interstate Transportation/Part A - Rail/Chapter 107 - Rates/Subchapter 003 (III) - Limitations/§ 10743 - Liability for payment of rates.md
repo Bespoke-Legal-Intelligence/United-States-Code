@@ -18,7 +18,7 @@
 
 (c)(1) A rail carrier may bring an action to enforce liability under subsection (a) of this section. That rail carrier must bring the action during the period provided in section 11705(a) of this title or by the end of the 6th month after final judgment against it in an action against the consignee, or the beneficial owner named by the consignee or agent, under that section.
 
-(2) A rail carrier may bring an action to enforce liability under subsection (b) of this section. That carrier must bring the action during the period provided in section 11705(a) of this title or by the end of the 6th month after final judgment against it in an action against the shipper, consignor, or other party under that section.
+(2) A rail carrier may bring an action to enforce liability under subsection (b) of this section. That carrier must bring the action during the period provided in section 11705(a) of this title or by the end of the 6th month after final judgment against it in an action against theshipper, consignor, or other party under that section.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 819.)
 

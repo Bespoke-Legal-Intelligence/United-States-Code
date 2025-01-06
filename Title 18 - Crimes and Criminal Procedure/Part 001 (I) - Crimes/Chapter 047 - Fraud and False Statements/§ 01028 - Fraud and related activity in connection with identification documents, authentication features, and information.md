@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(A) is not issued by or under the authority of a governmental entity or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit; and
 
-&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international governmental or quasi-governmental organization;
+&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, oran international governmental or quasi-governmental organization;
 
 &emsp;(5) the term "false authentication feature" means an authentication feature that—
 
@@ -254,7 +254,7 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted "under this title
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: "This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\]."
+Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: "This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by thisAct shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\]."
 
 #### Effective Date of 1996 Amendment
 

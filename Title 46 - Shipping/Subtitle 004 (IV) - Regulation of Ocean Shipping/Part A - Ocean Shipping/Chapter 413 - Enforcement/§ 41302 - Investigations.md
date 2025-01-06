@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct <sup>1</sup> agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
+In General.—The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct, agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
 
 (b)
 
@@ -18,9 +18,9 @@ Sanctions for Delay.—If, within the period for final decision under subsection
 
 (e)
 
-Report.—The Commission shall make a written report of every investigation under this part in which a hearing was held, stating its conclusions, decisions, findings of fact, and order. The Commission shall provide a copy of the report to all parties and publish the report for public information. A published report is competent evidence in a court of the United States.
+Report.—The Commission shall make a written report of every investigation under this part in which a hearing was held, stating its conclusions, decisions, findings of fact, and order. The Commission shall provide a copy ofthe report to all parties and publish the report for public information. A published report is competent evidence in a court of the United States.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1545; Pub. L. 117–146, §11(a), June 16, 2022, 136 Stat. 1278.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1545; Pub. L. 117–146, §11(a), June 16, 2022, 136 Stat. 1278; Pub. L. 118–159, div. C, title XXXV, §3535(f), Dec. 23, 2024, 138 Stat. 2315.)
 
 Historical and Revision Notes
 
@@ -58,11 +58,11 @@ Pub. L. 98–237, §11(c)–(f), Mar. 20, 1984, 98 Stat. 80.
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 substituted "conduct, agreement" for "conduct agreement".
+
 <b>2022</b>—Subsec. (a). Pub. L. 117–146, §11(a)(1), substituted "agreement, fee, or charge" for "or agreement".
 
 Subsec. (b). Pub. L. 117–146, §11(a)(2)(B), inserted ", fee, or charge" after "agreement".
 
 Pub. L. 117–146, §11(a)(2)(A), substituted "Agreement, Fee, or Charge" for "Agreement" in heading. Quoted text appearing in directory language was conformed to the style used in this title to reflect the probable intent of Congress.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -12,7 +12,7 @@ Contract Clause Required.—(1) The Under Secretary of Defense for Acquisition a
 
 (b)
 
-Availability of Assistance.—Covered small businesses may be provided assistance as part of any procurement technical assistance furnished pursuant to this chapter.
+Availability of Assistance.—Covered small businesses may be provided assistance aspart of any procurement technical assistance furnished pursuant to this chapter.
 
 (c)
 
@@ -40,7 +40,7 @@ Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A) and (c
 
 #### Codification
 
-Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, §1872(a)(11), which had originally transferred section 2417 of this title to this section. After amendment byPub. L. 117–81, section 1872(a)(11) of Pub. L. 116–283 instead transferred section 2417 to section 4961 of this title.
+Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, §1872(a)(11), which had originally transferred section 2417 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(11) of Pub. L. 116–283 instead transferred section 2417 to section 4961 of this title.
 
 #### Amendments
 

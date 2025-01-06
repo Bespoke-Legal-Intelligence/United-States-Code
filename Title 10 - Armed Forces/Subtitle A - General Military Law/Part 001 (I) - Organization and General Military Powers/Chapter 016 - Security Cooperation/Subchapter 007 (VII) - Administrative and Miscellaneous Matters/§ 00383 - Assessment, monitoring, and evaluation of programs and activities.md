@@ -48,13 +48,13 @@ Reports to congress.—The Secretary shall submit to the congressional defense c
 
 &emsp;&emsp;(A) A description of the activities under the program.
 
-&emsp;&emsp;(B) An evaluation of the lessons learned and best practices identified through activities under the program.
+&emsp;&emsp;(B) An evaluation of the lessons learned, including a description of challenges in executing the program, and best practices identified through activities under the program.
 
 &emsp;(2)
 
 Information for the public on evaluations.—The Secretary shall make available to the public, on an Internet website of the Department of Defense available to the public, a summary of each evaluation conducted pursuant to subsection (b)(1)(C). In making a summary so available, the Secretary may redact or omit any information that the Secretary determines should not be disclosed to the public in order to protect the interest of the United States or the foreign country or countries covered by such evaluation.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2510; amended Pub. L. 115–232, div. A, title XII, §1211(c), Aug. 13, 2018, 132 Stat. 2024.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2510; amended Pub. L. 115–232, div. A, title XII, §1211(c), Aug. 13, 2018, 132 Stat. 2024; Pub. L. 118–159, div. A, title XII, §1203, Dec. 23, 2024, 138 Stat. 2094.)
 
 #### <b>Editorial Notes</b>
 
@@ -69,6 +69,8 @@ The GPRA Modernization Act of 2010, referred to in subsec. (b)(2), is Pub. L. 11
 A prior section 383 was renumbered section 283 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(1)(B). Pub. L. 118–159 inserted ", including a description of challenges in executing the program," after "lessons learned".
 
 <b>2018</b>—Subsec. (b)(1)(E). Pub. L. 115–232 added subpar. (E).
 

@@ -114,7 +114,7 @@ Pub. L. 95–272, title I, §§101–109, May 3, 1978, 92 Stat. 222–224, calle
 
 #### 1979 White House Conference on the Humanities
 
-Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for theConference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### <b>Executive Documents</b>
 

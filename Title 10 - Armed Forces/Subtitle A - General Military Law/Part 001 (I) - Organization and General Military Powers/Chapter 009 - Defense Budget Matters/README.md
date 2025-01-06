@@ -5,17 +5,22 @@
 | [221\.](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md) | Future-years defense program: submission to Congress; consistency in budgeting. |
 | [222\.](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md) | Future-years mission budget. |
 | [222a.](%C2%A7%2000222a%20-%20Unfunded%20priorities%20of%20the%20armed%20forces%20and%20combatant%20commands%20annual%20report.md) | Unfunded priorities of the armed forces and combatant commands: annual report. |
-| [222b.](%C2%A7%2000222b%20-%20Unfunded%20priorities%20of%20the%20Missile%20Defense%20Agency%20annual%20report.md) | Unfunded priorities of the Missile Defense Agency: annual report. |
+| \[222b. | Repealed.\] |
 | [222c.](%C2%A7%2000222c%20-%20Armed%20forces%20Out-Year%20Unconstrained%20Total%20Munitions%20Requirements%3B%20Out-Year%20inventory%20numbers.md) | Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers. |
 | [222d.](%C2%A7%2000222d%20-%20Annual%20report%20on%20industrial%20base%20constraints%20for%20munitions.md) | Annual report on industrial base constraints for munitions. |
-| 222e. | Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report. |
-| 222e. | Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report. |
-| [223\.](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md) | Ballistic missile defense programs: program elements. |
+| 222e.<sup>1</sup> | Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 222e.<sup>1</sup> | Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report. |
+| \[223. | Repealed.\] |
 | [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
-| [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
-| [225\.](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md) | Acquisition accountability reports on the ballistic missile defense system. |
+| \[224, 225. | Repealed.\] |
 | [226\.](%C2%A7%2000226%20-%20Special%20operations%20forces%20display%20of%20service-common%20and%20other%20support%20and%20enabling%20capabilities.md) | Special operations forces: display of service-common and other support and enabling capabilities. |
-| \[227, 228. | Repealed.\] |
+| [227\.](%C2%A7%2000227%20-%20Budget%20justification%20for%20covered%20military%20unaccompanied%20housing%20Facilities%20Sustainment%2C%20Restoration%2C%20and%20Modernization%20projects.md) | Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects. |
+| \[228. | Repealed.\] |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
 | [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%2C%20maintenance%2C%20and%20modernization%20of%20naval%20vessels%20annual%20plans%20and%20certifications.md) | Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications. |
@@ -29,7 +34,7 @@
 | [237\.](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md) | Embedded mental health providers of the reserve components: display of budget information. |
 | [238\.](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md) | Cyber mission forces: program elements. |
 | [239\.](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md) | National security space programs: major force program and budget assessment. |
-| [239a.](%C2%A7%2000239a%20-%20Missile%20defense%20and%20defeat%20programs%20major%20force%20program%20and%20budget%20assessment.md) | Missile defense and defeat programs: major force program and budget assessment. |
+| \[239a. | Repealed.\] |
 | [239b.](%C2%A7%2000239b%20-%20Certain%20intelligence-related%20programs%20budget%20justification%20materials.md) | Certain intelligence-related programs: budget justification materials. |
 | [239c.](%C2%A7%2000239c%20-%20Certain%20multiyear%20contracts%20for%20acquisition%20of%20property%20budget%20justification%20materials.md) | Certain multiyear contracts for acquisition of property: budget justification materials. |
 | [239d.](%C2%A7%2000239d%20-%20Budgeting%20for%20depot%20and%20ammunition%20production%20facility%20maintenance%20and%20repair%20annual%20report.md) | Budgeting for depot and ammunition production facility maintenance and repair: annual report. |
@@ -40,6 +45,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §1649(b)(1), div. B, title XXVIII, §2821, Dec. 23, 2024, 138 Stat. 2199, 2253,added item 227 and struck out items 222b "Unfunded priorities of the Missile Defense Agency: annual report", 223 "Ballistic missile defense programs: program elements", 224 "Ballistic missile defense programs: display of amounts for research, development, test, and evaluation", 225 "Acquisition accountability reports on the ballistic missile defense system", and 239a "Missile defense and defeat programs: major force program and budget assessment". Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title I, §151, title II, §211, title X, §1002, title XVI, §1631, title XVIII, §1801(a)(3)(A), Dec. 22, 2023, 137 Stat. 179, 182, 378, 591, 683, added item 222e "Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report", 222e "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report", and items 233a and 239e and substituted "plans and certifications" for "plan and certification" in item 231. Amendments were made pursuant to operation of section 102 of this title.
 
@@ -99,6 +106,8 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted "DEFENSE BUDGET MATTERS" for "REGULAR COMPONENTS" in chapter heading and added item 221.
 
+<i><sup>1</sup></i><i> So in original. Two sections 222e have been enacted.</i>
+
 
 ---
 
@@ -107,17 +116,17 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00221 - Future-years defense program submission to Congress; consistency in budgeting](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md)
 - [&sect; 00222 - Future-years mission budget](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md)
 - [&sect; 00222a - Unfunded priorities of the armed forces and combatant commands annual report](%C2%A7%2000222a%20-%20Unfunded%20priorities%20of%20the%20armed%20forces%20and%20combatant%20commands%20annual%20report.md)
-- [&sect; 00222b - Unfunded priorities of the Missile Defense Agency annual report](%C2%A7%2000222b%20-%20Unfunded%20priorities%20of%20the%20Missile%20Defense%20Agency%20annual%20report.md)
+- [&sect; 00222b - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000222b%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)
 - [&sect; 00222c - Armed forces Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers](%C2%A7%2000222c%20-%20Armed%20forces%20Out-Year%20Unconstrained%20Total%20Munitions%20Requirements%3B%20Out-Year%20inventory%20numbers.md)
 - [&sect; 00222d - Annual report on industrial base constraints for munitions](%C2%A7%2000222d%20-%20Annual%20report%20on%20industrial%20base%20constraints%20for%20munitions.md)
 - [&sect; 00222e - 1 Programs, projects, and activities that were internally changed in the submission of the President's budget annual report](%C2%A7%2000222e%20-%201%20Programs%2C%20projects%2C%20and%20activities%20that%20were%20internally%20changed%20in%20the%20submission%20of%20the%20President%27s%20budget%20annual%20report.md)
 - [&sect; 00222e - 1 Unfunded priorities of the Under Secretary of Defense for Research and Engineering annual report](%C2%A7%2000222e%20-%201%20Unfunded%20priorities%20of%20the%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering%20annual%20report.md)
-- [&sect; 00223 - Ballistic missile defense programs program elements](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md)
+- [&sect; 00223 - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000223%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)
 - [&sect; 00223a - Ballistic missile defense programs procurement](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md)
-- [&sect; 00224 - Ballistic missile defense programs display of amounts for research, development, test, and evaluation](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md)
-- [&sect; 00225 - Acquisition accountability reports on the ballistic missile defense system](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md)
+- [&sect; 00224 - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000224%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)
+- [&sect; 00225 - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000225%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)
 - [&sect; 00226 - Special operations forces display of service-common and other support and enabling capabilities](%C2%A7%2000226%20-%20Special%20operations%20forces%20display%20of%20service-common%20and%20other%20support%20and%20enabling%20capabilities.md)
-- [&sect; 00227 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(f)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2000227%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28f%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
+- [&sect; 00227 - Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects](%C2%A7%2000227%20-%20Budget%20justification%20for%20covered%20military%20unaccompanied%20housing%20Facilities%20Sustainment%2C%20Restoration%2C%20and%20Modernization%20projects.md)
 - [&sect; 00228 - Repealed. Pub. L. 114&#8211;92, div. A, title X, &sect;1073(a)(1), Nov. 25, 2015, 129 Stat. 995](%C2%A7%2000228%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9392%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71073%28a%29%281%29%2C%20Nov.%2025%2C%202015%2C%20129%20Stat.%20995.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
@@ -132,7 +141,7 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00237 - Embedded mental health providers of the reserve components display of budget information](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md)
 - [&sect; 00238 - Cyber mission forces program elements](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md)
 - [&sect; 00239 - National security space programs major force program and budget assessment](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md)
-- [&sect; 00239a - Missile defense and defeat programs major force program and budget assessment](%C2%A7%2000239a%20-%20Missile%20defense%20and%20defeat%20programs%20major%20force%20program%20and%20budget%20assessment.md)
+- [&sect; 00239a - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000239a%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)
 - [&sect; 00239b - Certain intelligence-related programs budget justification materials](%C2%A7%2000239b%20-%20Certain%20intelligence-related%20programs%20budget%20justification%20materials.md)
 - [&sect; 00239c - Certain multiyear contracts for acquisition of property budget justification materials](%C2%A7%2000239c%20-%20Certain%20multiyear%20contracts%20for%20acquisition%20of%20property%20budget%20justification%20materials.md)
 - [&sect; 00239d - Budgeting for depot and ammunition production facility maintenance and repair annual report](%C2%A7%2000239d%20-%20Budgeting%20for%20depot%20and%20ammunition%20production%20facility%20maintenance%20and%20repair%20annual%20report.md)

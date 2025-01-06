@@ -96,7 +96,7 @@
 
 #### (C) Coordination with paragraph (4)
 
-&emsp;&emsp;In any case in which to do so will enable the requirements of paragraph (1)(C)(ii) to be met with respect to the surviving spouse, this subsection and subsection (c) shall be applied by taking into account any application of paragraph (4).
+&emsp;&emsp;In any case in which to do so will enable the requirements of paragraph (1)(C)(ii) to bemet with respect to the surviving spouse, this subsection and subsection (c) shall be applied by taking into account any application of paragraph (4).
 
 #### (c) Tax treatment of dispositions and failures to use for qualified use
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;If the date on which the qualified heir begins to use the qualified real property (hereinafter in this subparagraph referred to as the commencement date) is before the date 2 years after the decedent's death—
 
-&emsp;&emsp;&emsp;(i) no tax shall be imposed under paragraph (1) by reason of the failure by thequalified heir to so use such property before the commencement date, and
+&emsp;&emsp;&emsp;(i) no tax shall be imposed under paragraph (1) by reason of the failure by the qualified heir to so use such property before the commencement date, and
 
 &emsp;&emsp;&emsp;(ii) the 10-year period under paragraph (1) shall be extended by the period after the decedent's death and before the commencement date.
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (1) Qualified heir
 
-&emsp;The term "qualified heir" means, with respect to any property, a member of the decedent's family who acquired such property (or to whom such property passed) from the decedent. If a qualified heir disposes of any interest in qualified real property to any member of his family, such member shall thereafter be treated as the qualified heir with respect to such interest.
+&emsp;The term "qualified heir" means, with respect to any property, a member of the decedent's family who acquired such property (or to whom such property passed) from the decedent. If a qualified heir disposes of any interest in qualified real property to any member of his family, such member shall thereafter betreated as the qualified heir with respect to such interest.
 
 #### (2) Member of family
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (4) Farm
 
-&emsp;The term "farm" includes stock, dairy, poultry, fruit, furbearing animal, and truck farms,plantations, ranches, nurseries, ranges, greenhouses or other similar structures used primarily for the raising of agricultural or horticultural commodities, and orchards and woodlands.
+&emsp;The term "farm" includes stock, dairy, poultry, fruit, furbearing animal, and truck farms, plantations, ranches, nurseries, ranges, greenhouses or other similar structures used primarily for the raising of agricultural or horticultural commodities, and orchards and woodlands.
 
 #### (5) Farming purposes
 
@@ -332,7 +332,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) Assessed land values in a State which provides a differential or use value assessment law for farmland or closely held business,
 
-&emsp;&emsp;(D) Comparable sales of other farm or closely held business land in the same geographical area far enough removed from a metropolitan or resort area so that nonagricultural use is not a significant factor in the sales price, and
+&emsp;&emsp;(D) Comparable sales of other farm or closely held business land in the same geographical area far enough removed from ametropolitan or resort area so that nonagricultural use is not a significant factor in the sales price, and
 
 &emsp;&emsp;(E) Any other factor which fairly values the farm or closely held business value of the property.
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (11) Bond in lieu of personal liability
 
-&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax whichmay be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
+&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
 
 #### (12) Active management
 
@@ -420,7 +420,7 @@ For purposes of this section—
 
 If qualified real property is disposed of or ceases to be used for a qualified use, then—
 
-&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 years from the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
+&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 years from the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of theconverted property or of an intention not to replace or of the exchange of property), and
 
 &emsp;(2) such additional tax may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
@@ -516,7 +516,7 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 &emsp;For purposes of this subsection, the term "qualified exchange property" means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
-(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997,111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 115–97, title I, §11002(d)(1)(DD), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 115–97, title I, §11002(d)(1)(DD), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -604,7 +604,7 @@ Subsec. (f)(1). Pub. L. 97–34, §421(e)(2), substituted "to which subsection (
 
 Pub. L. 97–34, §421(d)(2)(A), substituted "conversion or exchange", "(h) or (i)", and "replace or of the exchange of property" for "conversion", "(h)", and "replace".
 
-Subsec. (g). Pub. L. 97–34, §421(j)(1), inserted provision that for purposes of the preceding sentence, an interestin a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
+Subsec. (g). Pub. L. 97–34, §421(j)(1), inserted provision that for purposes of the preceding sentence, an interest in a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
 
 Subsec. (h)(1)(A). Pub. L. 97–34, §421(e)(1)(A), struck out "and the qualified heir makes an election under this subsection" after "qualified real property".
 
@@ -712,7 +712,7 @@ In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[am
 
 &emsp;"(B)
 
-Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respectto such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would (but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
+Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would (but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
 
 &emsp;"(C)
 

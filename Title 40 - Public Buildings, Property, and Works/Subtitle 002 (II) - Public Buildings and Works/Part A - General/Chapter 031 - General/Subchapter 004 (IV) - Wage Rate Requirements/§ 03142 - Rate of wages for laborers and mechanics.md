@@ -16,7 +16,7 @@ Stipulations Required in Contract.—Every contract based upon the specification
 
 &emsp;(2) the contractor will post the scale of wages to be paid in a prominent and easily accessible place at the site of the work; and
 
-&emsp;(3) there may be withheld from the contractor so much of accrued payments as the contracting officer considers necessary to pay to laborers and mechanics employed by the contractor or any subcontractor on the work the difference between the rates of wages required by the contract to be paid laborers and mechanics on the work and the rates of wages received by the laborers and mechanics and not refunded to the contractor or subcontractors or their agents.
+&emsp;(3) there may be withheld from the contractor so much of accrued payments as the contracting officer considers necessary to pay to laborers and mechanics employed by the contractor or any subcontractor on the workthe difference between the rates of wages required by the contract to be paid laborers and mechanics on the work and the rates of wages received by the laborers and mechanics and not refunded to the contractor or subcontractors or their agents.
 
 (d)
 

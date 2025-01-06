@@ -86,7 +86,7 @@ Updates and Preservation of Memorials.—
 
 Protestant chaplains memorial.—The Secretary of the Army may permit NCMAF—
 
-&emsp;&emsp;"(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite,marble, or other stone base for the bronze plaque of the memorial;
+&emsp;&emsp;"(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial;
 
 &emsp;&emsp;"(B) to provide an updated bronze plaque, described in subparagraph (A), including the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed; and
 
@@ -106,7 +106,7 @@ Authority of secretary of the army.—The Secretary of the Army may permit NCMAF
 
 "(b)
 
-Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force or the Chaplain of the United States Marine Corps, depending on the branch of the Armed Forces in which the chaplain served.
+Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name hasbeen verified by the Chief of Chaplains of the Army, Navy, or Air Force or the Chaplain of the United States Marine Corps, depending on the branch of the Armed Forces in which the chaplain served.
 
 "(c)
 

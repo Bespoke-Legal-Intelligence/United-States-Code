@@ -102,7 +102,7 @@ Months of remaining entitlement for certain individuals.—In the case of an ind
 
 &emsp;(3)
 
-Timing of payment.—The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of this title, or under paragraphs (2) through (7) <sup>1</sup> of that section (as applicable), before the exhaustion of the individual's entitlement to educational assistance under this chapter.
+Timing of payment.—The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of this title, or under paragraphs (2) through (7) <sup>1</sup> of that section (as applicable), before the exhaustion ofthe individual's entitlement to educational assistance under this chapter.
 
 (g)
 

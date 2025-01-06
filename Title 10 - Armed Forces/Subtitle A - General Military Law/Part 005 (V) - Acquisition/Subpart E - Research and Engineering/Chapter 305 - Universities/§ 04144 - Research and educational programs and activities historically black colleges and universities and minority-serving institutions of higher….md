@@ -136,7 +136,7 @@ Report Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the recommendations set forth in the publication of the National Academies of Sciences, Engineering, and Medicine titled 'Defense Research Capacity at Historically Black Colleges and Universities and Other Minority Institutions: Transitioning from Good Intentions to Measurable Outcomes' and dated April 28, 2022.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], theSecretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the recommendations set forth in the publication of the National Academies of Sciences, Engineering, and Medicine titled 'Defense Research Capacity at Historically Black Colleges and Universities and Other Minority Institutions: Transitioning from Good Intentions to Measurable Outcomes' and dated April 28, 2022.
 
 &emsp;"(2)
 
@@ -362,7 +362,7 @@ Elements.—The study conducted under subsection (a) shall include an examinatio
 
 &emsp;"(7) The ability of covered institutions to develop, protect, and commercialize intellectual property created through defense-related research.
 
-&emsp;"(8) The total amount of defense research funding awarded to all institutions of higher education, including covered institutions, through contracts andgrants for each of fiscal years 2010 through 2019 and, with respect to each such institution—
+&emsp;"(8) The total amount of defense research funding awarded to all institutions of higher education, including covered institutions, through contracts and grants for each of fiscal years 2010 through 2019 and, with respect to each such institution—
 
 &emsp;&emsp;"(A) whether the institution established a distinct legal entity to enter into contracts or receive grants from the Department and, if so, the type of legal entity that was established;
 
@@ -504,7 +504,7 @@ Office of the Secretary.—The Secretary of Defense shall develop and implement 
 
 &emsp;"(1)
 
-Basic research entities.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the heads of each basic research entity shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the strategy developed by the head under subsection (a)(1).
+Basic research entities.—Not later than 180 days after the date of the enactment of this Act \[Nov.25, 2015\], the heads of each basic research entity shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the strategy developed by the head under subsection (a)(1).
 
 &emsp;"(2)
 

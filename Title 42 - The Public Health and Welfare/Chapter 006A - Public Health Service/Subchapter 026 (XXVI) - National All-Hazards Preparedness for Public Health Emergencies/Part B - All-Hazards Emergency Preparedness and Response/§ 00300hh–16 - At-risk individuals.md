@@ -14,7 +14,7 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 &emsp;(6) oversee curriculum development for the public health and medical response training program on medical management of casualties, as it concerns at-risk individuals as described in subparagraphs (A) through (C) of section 247d–6(a)(2) of this title;
 
-&emsp;(7) disseminate and, as appropriate, update novel and best practices of outreach to and care of at-risk individuals before, during, and following public health emergencies in as timely a manner as is practicable, including from the time a public health threat is identified;
+&emsp;(7) disseminate and, as appropriate, update novel and best practices of outreach to and care of at-risk individuals before, during, andfollowing public health emergencies in as timely a manner as is practicable, including from the time a public health threat is identified;
 
 &emsp;(8) ensure that public health and medical information distributed by the Department of Health and Human Services during a public health emergency is delivered in a manner that takes into account the range of communication needs of the intended recipients, including at-risk individuals; and
 
@@ -30,7 +30,7 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 <b>2013</b>—Par. (1). Pub. L. 113–5, §101(b)(4), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 113–5, §101(b)(3), (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: "oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-riskindividuals in the event of a public health emergency, as described in section 300hh–1(b)(4) of this title;". Former par. (2) redesignated (3).
+Par. (2). Pub. L. 113–5, §101(b)(3), (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: "oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in section 300hh–1(b)(4) of this title;". Former par. (2) redesignated (3).
 
 Par. (3). Pub. L. 113–5, §101(b)(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 

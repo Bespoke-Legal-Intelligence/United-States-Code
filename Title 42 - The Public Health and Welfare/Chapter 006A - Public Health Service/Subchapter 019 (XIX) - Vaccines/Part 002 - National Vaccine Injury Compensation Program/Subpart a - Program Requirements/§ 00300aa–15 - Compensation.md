@@ -12,7 +12,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;&emsp;(iii)(I) have been or will be for diagnosis and medical or other remedial care determined to be reasonably necessary, or
 
-&emsp;&emsp;(II) have been or will be for rehabilitation, developmental evaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, specialequipment, related travel expenses, and facilities determined to be reasonably necessary.
+&emsp;&emsp;(II) have been or will be for rehabilitation, developmental evaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, special equipment, related travel expenses, and facilities determined to be reasonably necessary.
 
 &emsp;(B) Subject to section 300aa–16(a)(2) of this title, actual unreimbursable expenses incurred before the date of the judgment awarding such expenses which—
 
@@ -32,7 +32,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 #### (b) Vaccines administered before effective date
 
-Compensation awarded under the Program to a petitioner under section 300aa–11 of this title for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—
+Compensation awarded under the Program to a petitioner under section 300aa–11 of this titlefor a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—
 
 &emsp;(1) lost earnings (as provided in paragraph (3) of subsection (a)),
 
@@ -70,7 +70,7 @@ Compensation awarded under the Program may not include the following:
 
 (1) Except as provided in paragraph (2), no compensation may be paid until an election has been made, or has been deemed to have been made, under section 300aa–21(a) of this title to receive compensation.
 
-(2) Compensation described in subsection (a)(1)(A)(iii) shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action fordamages for the vaccine-related injury or death for which such compensation was awarded.
+(2) Compensation described in subsection (a)(1)(A)(iii) shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action for damages for the vaccine-related injury or death for which such compensation was awarded.
 
 (3) Payments of compensation under the Program and the costs of carrying out the Program shall be exempt from reduction under any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
@@ -82,7 +82,7 @@ Compensation awarded under the Program may not include the following:
 
 #### (g) Program not primarily liable
 
-Payment of compensation under the Program shall not be made for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
+Payment of compensation under the Program shall not be made for any item or service to theextent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
 
 #### (h) Liability of health insurance carriers, prepaid health plans, and benefit providers
 
@@ -146,7 +146,7 @@ Subsec. (f)(4)(B). Pub. L. 101–502, §5(d)(2)(B), substituted "subsection (j)"
 
 Subsec. (j). Pub. L. 101–502, §5(d)(3), inserted before period at end of first sentence ", and $80,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B)".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239, §6601(l)(1), substituted "may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—" and cls. (1) to (3) for "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000."
+<b>1989</b>—Subsec. (b). Pub. L. 101–239, §6601(l)(1), substituted "may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—" and cls. (1) to (3) for "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amountthat may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000."
 
 Subsec. (e)(1). Pub. L. 101–239, §6601(l)(2)(A), substituted "In awarding compensation on a petition filed under section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover" for "The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover".
 
@@ -180,7 +180,7 @@ Subsec. (j). Pub. L. 100–360, §411(o)(1)(B), inserted "to the Department of H
 
 Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as follows: "Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum."
 
-Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shallbe limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
+Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
 
 Subsec. (b). Pub. L. 100–203, §4303(e), substituted "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000" for "shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section".
 

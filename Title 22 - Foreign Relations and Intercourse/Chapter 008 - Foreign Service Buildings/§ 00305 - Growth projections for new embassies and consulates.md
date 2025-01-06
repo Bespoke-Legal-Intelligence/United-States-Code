@@ -4,7 +4,7 @@
 
 For each new United States embassy compound (NEC) and new consulate compound project (NCC) in or not yet in the design phase as of December 27, 2021, the Department shall project growth over the estimated life of the facility using all available and relevant data, including the following:
 
-&emsp;(1) Relevant historical trends for Department personnel and personnel from otheragencies represented at the NEC or NCC that is to be constructed.
+&emsp;(1) Relevant historical trends for Department personnel and personnel from other agencies represented at the NEC or NCC that is to be constructed.
 
 &emsp;(2) An analysis of the tradeoffs between risk and the needs of United States Government policy conducted as part of the most recent Vital Presence Validation Process, if applicable.
 

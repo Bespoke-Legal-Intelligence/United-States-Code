@@ -8,7 +8,7 @@ The purposes of this Act are the following:
 
 &emsp;(3) To improve the quality and labor market relevance of workforce investment, education, and economic development efforts to provide America's workers with the skills and credentials necessary to secure and advance in employment with family-sustaining wages and to provide America's employers with the skilled workers the employers need to succeed in a global economy.
 
-&emsp;(4) To promote improvement in the structure of and delivery of services through the United States workforce development system to better address the employment and skill needs of workers, jobseekers, and employers.
+&emsp;(4) To promote improvement in the structure of and delivery of services through theUnited States workforce development system to better address the employment and skill needs of workers, jobseekers, and employers.
 
 &emsp;(5) To increase the prosperity of workers and employers in the United States, the economic growth of communities, regions, and States, and the global competitiveness of the United States.
 
@@ -52,7 +52,7 @@ Special provisions.—For purposes of the application described in paragraph (1)
 
 &emsp;&emsp;"(D) any agreement negotiated and reached under section 136(c)(2) of the Workforce Investment Act of 1998 (29 U.S.C. 2871(c)(2)) shall remain in effect, until a new agreement is so negotiated and reached, for that first full program year;
 
-&emsp;&emsp;"(E) if a State or local area fails to meet levels of performance under subsection (g) or (h), respectively, of section 136 of the Workforce InvestmentAct of 1998 \[29 U.S.C. 2871(g), (h)\] during that first full program year, the sanctions provided under such subsection shall apply during the second full program year \[probably means beginning July 1, 2016\] after the date of enactment of this Act; and
+&emsp;&emsp;"(E) if a State or local area fails to meet levels of performance under subsection (g) or (h), respectively, of section 136 of the Workforce Investment Act of 1998 \[29 U.S.C. 2871(g), (h)\] during that first full program year, the sanctions provided under such subsection shall apply during the second full program year \[probably means beginning July 1, 2016\] after the date of enactment of this Act; and
 
 &emsp;&emsp;"(F) the Secretary shall use an amount retained, as a result of a reduction in an allotment to a State made under section 136(g)(1)(B) of such Act (29 U.S.C. 2871(g)(1)(B)), to provide technical assistance as described in subsections (f)(1) and (g)(1) of section 116 of this Act \[29 U.S.C. 3141(f)(1), (g)(1)\], in lieu of incentive grants under section 503 of the Workforce Investment Act of 1998 (20 U.S.C. 9273) as provided in section 136(g)(2) of such Act (29 U.S.C. 2871(g)(2)).
 
@@ -98,7 +98,7 @@ Pub. L. 113–128, title II, §201, July 22, 2014, 128 Stat. 1608, provided that
 
 #### Declaration of Policy
 
-Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: "In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
+Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: "In recognition of the trainingneeds of low-income adults and youth, the Congress declares it to be the policy of the United States to—
 
 &emsp;"(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
 

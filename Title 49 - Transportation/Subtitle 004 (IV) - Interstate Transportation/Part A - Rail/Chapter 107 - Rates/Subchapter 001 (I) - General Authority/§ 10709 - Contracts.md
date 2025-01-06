@@ -10,11 +10,11 @@
 
 (d)(1) A summary of each contract for the transportation of agricultural products (including grain, as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and products thereof) entered into under this section shall be filed with the Board, containing such nonconfidential information as the Board prescribes. The Board shall publish special rules for such contracts in order to ensure that the essential terms of the contract are available to the general public.
 
-(2) Documents, papers, and records (and any copies thereof) relating to a contract described in subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
+(2) Documents, papers, and records (and any copies thereof) relating to a contract describedin subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
 
 (e) Any lawful contract between a rail carrier and one or more purchasers of rail service that was in effect on October 1, 1980, shall be considered a contract authorized by this section.
 
-(f) A rail carrier that enters into a contract as authorized by this section remains subject tothe common carrier obligation set forth in section 11101, with respect to rail transportation not provided under such a contract.
+(f) A rail carrier that enters into a contract as authorized by this section remains subject to the common carrier obligation set forth in section 11101, with respect to rail transportation not provided under such a contract.
 
 (g)(1) No later than 30 days after the date of filing of a summary of a contract under this section, the Board may, on complaint, begin a proceeding to review such contract on the grounds described in this subsection.
 

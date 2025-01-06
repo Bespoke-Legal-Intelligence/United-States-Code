@@ -26,7 +26,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Agency Reporting Requirements; Report by Secretary of Health, Education, and Welfare to Congressional Committees Relating to Requirements, Termination, etc.
 
-Pub. L. 93–641, §7, Jan. 4, 1975, 88 Stat. 2275, provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
+Pub. L. 93–641, §7, Jan. 4, 1975, 88 Stat. 2275, provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the PublicHealth Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
 
 #### <b>Executive Documents</b>
 

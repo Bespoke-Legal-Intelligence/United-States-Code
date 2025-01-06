@@ -22,7 +22,7 @@
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate amount of qualified adoption expenses which may be taken into accountunder subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.
+&emsp;The aggregate amount of qualified adoption expenses which may be taken into account under subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.
 
 #### (2) Income limitation
 
@@ -118,7 +118,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 #### (g) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shallbe reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
 #### (h) Adjustments for inflation
 
@@ -184,7 +184,7 @@ Subsec. (c). Pub. L. 109–135, §402(i)(3)(A)(ii), reenacted heading without ch
 
 Pub. L. 109–58, §1335(b)(1), which directed amendment of subsec. (c) by substituting "this section, section 25D, and section 1400C" for "this section and section 1400C", was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendment notes below.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–147, §411(c)(1)(A), reenacted heading without change and amended text ofpar. (1) generally. Prior to amendment, text read as follows: "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter—
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–147, §411(c)(1)(A), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter—
 
 &emsp;"(A) in the case of an adoption of a child other than a child with special needs, the amount of the qualified adoption expenses paid or incurred by the taxpayer, and
 
@@ -272,7 +272,7 @@ Solar electric property limitation.—The amendments made by subsection (b) \[am
 
 "(3)
 
-Application of egtrra sunset.—The amendments made by subparagraphs (A) and (B) of subsection (e)(2) \[amending this section and section 24 of this title\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendments relate."
+Application of egtrra sunset.—The amendments made by subparagraphs (A) and (B) of subsection (e)(2) \[amending this section and section 24 of this title\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16,§901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendments relate."
 
 #### Effective and Termination Dates of 2005 Amendment
 

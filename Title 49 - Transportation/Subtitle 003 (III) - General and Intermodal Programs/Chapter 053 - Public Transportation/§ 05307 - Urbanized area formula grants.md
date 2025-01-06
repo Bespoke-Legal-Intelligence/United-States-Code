@@ -16,13 +16,13 @@ Grants.—The Secretary may make grants under this section for—
 
 &emsp;&emsp;(D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
 
-&emsp;(2) The Secretary may make grants under this section to finance the operating cost ofequipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+&emsp;(2) The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
 &emsp;&emsp;(A) for public transportation systems that—
 
 &emsp;&emsp;&emsp;(i) operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; or
 
-&emsp;&emsp;&emsp;(ii) operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; or
+&emsp;&emsp;&emsp;(ii) operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable tosuch systems within the urbanized area, as measured by vehicle revenue hours; or
 
 &emsp;&emsp;(B) subject to paragraph (3), for public transportation systems that—
 
@@ -80,7 +80,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation;
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent toa public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent to a public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
 
 &emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary;
 
@@ -180,7 +180,7 @@ Auditing procedures.—An audit of the use of amounts of the Government shall co
 
 &emsp;(2)
 
-Triennial review.—At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities areconsistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
+Triennial review.—At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
 
 &emsp;(3)
 
@@ -200,7 +200,7 @@ In general.—The Secretary may make grants under this subsection to recipients 
 
 &emsp;(2)
 
-Grant requirements.—Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (a).
+Grant requirements.—Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the sameterms and conditions as a grant under subsection (a).
 
 &emsp;(3)
 
@@ -418,7 +418,7 @@ The Social Security Act, referred to in subsec. (c)(1)(D)(iii), is act Aug. 14, 
 
 "(2)
 
-Special rule.—The Secretary may make grants under this section to finance the operating cost ofequipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+Special rule.—The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
 &emsp;"(A) for public transportation systems that operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
 
@@ -558,7 +558,7 @@ Subsec. (a)(2)(A). Pub. L. 109–59, §3009(b)(2), amended subpar. (A) generally
 
 Subsec. (a)(2)(B). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation".
 
-Subsec. (b)(1). Pub. L. 109–59, §3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: "The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000."
+Subsec. (b)(1). Pub. L. 109–59, §3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: "The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovationand improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000."
 
 Subsec. (b)(2). Pub. L. 109–59, §3009(c)(2), added par. (2) and struck out former par. (2) which related to special rule for fiscal years 2003 and 2004 and for the period of Oct. 1, 2004, through July 30, 2005.
 
@@ -642,7 +642,7 @@ In general.—One percent of the funds apportioned to urbanized areas with a pop
 
 "(2)
 
-Period of availability.—Funds apportioned under paragraph (1) shall be available for obligation for 3 years following the fiscal year in which the funds are apportioned. Funds that are not obligated at the end ofsuch period shall be reapportioned under the urbanized area formula program of section 5336.
+Period of availability.—Funds apportioned under paragraph (1) shall be available for obligation for 3 years following the fiscal year in which the funds are apportioned. Funds that are not obligated at the end of such period shall be reapportioned under the urbanized area formula program of section 5336.
 
 "(3)
 

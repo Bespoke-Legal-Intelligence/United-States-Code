@@ -32,7 +32,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "donee" means any entity receiving a vessel pursuant to subsection (a).
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002,116 Stat. 1297; Pub. L. 113–66, div. A, title X, §1022(a)–(e)(1), Dec. 26, 2013, 127 Stat. 845, 846; Pub. L. 114–92, div. A, title X, §1074(b), Nov. 25, 2015, 129 Stat. 996; renumbered §8676, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 113–66, div. A, title X, §1022(a)–(e)(1), Dec. 26, 2013, 127 Stat. 845, 846; Pub. L. 114–92, div. A, title X, §1074(b), Nov. 25, 2015, 129 Stat. 996; renumbered §8676, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 #### <b>Editorial Notes</b>
 

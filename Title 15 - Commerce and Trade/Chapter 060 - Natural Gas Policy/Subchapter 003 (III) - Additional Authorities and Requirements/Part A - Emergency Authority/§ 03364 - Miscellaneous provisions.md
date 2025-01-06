@@ -32,7 +32,7 @@ The President may delegate all or any portion of the authority granted to him un
 
 #### (1) Defenses
 
-&emsp;There shall be available as a defense for any person to civil or criminal action brought forviolation of the Federal antitrust laws (or any similar law of any State) with respect to any action taken, or meeting held, pursuant to any order of the President under section 3363(b), (c), (d), or (i) of this title, or any meeting held pursuant to a request of the President under section 3363(g) of this title, if—
+&emsp;There shall be available as a defense for any person to civil or criminal action brought for violation of the Federal antitrust laws (or any similar law of any State) with respect to any action taken, or meeting held, pursuant to any order of the President under section 3363(b), (c), (d), or (i) of this title, or any meeting held pursuant to a request of the President under section 3363(g) of this title, if—
 
 &emsp;&emsp;(A) such action was taken or meeting held solely for the purpose of complying with the President's request or order;
 

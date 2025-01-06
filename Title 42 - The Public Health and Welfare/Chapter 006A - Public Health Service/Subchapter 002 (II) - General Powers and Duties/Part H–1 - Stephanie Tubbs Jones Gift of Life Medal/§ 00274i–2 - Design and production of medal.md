@@ -20,7 +20,7 @@ Subject to the provisions of this section, the Secretary of the Treasury shall d
 
 &emsp;The design of medals struck under this section shall be—
 
-&emsp;&emsp;(A) selected by the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, the Organ Procurement and Transplantation Network, interested members of the family of Stephanie Tubbs Jones, Dr. William H. Frist, and the Commission of Fine Arts; and
+&emsp;&emsp;(A) selected by the Secretary of the Treasury, in consultation with the Secretary ofHealth and Human Services, the Organ Procurement and Transplantation Network, interested members of the family of Stephanie Tubbs Jones, Dr. William H. Frist, and the Commission of Fine Arts; and
 
 &emsp;&emsp;(B) reviewed by the Citizens Coin Advisory Committee.
 

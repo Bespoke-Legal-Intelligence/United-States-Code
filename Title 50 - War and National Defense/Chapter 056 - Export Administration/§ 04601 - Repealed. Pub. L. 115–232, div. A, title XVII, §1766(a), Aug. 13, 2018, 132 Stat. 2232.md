@@ -10,7 +10,7 @@ A prior section 2401 of the former Appendix to this title, Pub. L. 91–184, §2
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–64, §1, July 12, 1985, 99 Stat. 120, provided that: "Titles I and II of this Act \[enacting sections 4051 to 4053 of Title 15, Commerce and Trade, section 1864 of Title 19, Customs Duties, and section 466c of Title 46, Appendix, Shipping, amending this section and sections 4602 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, and section 185 of Title 30, Mineral Lands and Mining, and enacting provisions set out as notes under sections 4604, 4605, and 4617 of this title and section 5314 of Title 5\] may be cited as the 'Export Administration Amendments Act of 1985'."
+Pub. L. 99–64, §1, July 12, 1985, 99 Stat. 120, provided that: "Titles I and II of this Act \[enacting sections 4051to 4053 of Title 15, Commerce and Trade, section 1864 of Title 19, Customs Duties, and section 466c of Title 46, Appendix, Shipping, amending this section and sections 4602 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, and section 185 of Title 30, Mineral Lands and Mining, and enacting provisions set out as notes under sections 4604, 4605, and 4617 of this title and section 5314 of Title 5\] may be cited as the 'Export Administration Amendments Act of 1985'."
 
 #### Short Title of 1981 Amendment
 
@@ -216,7 +216,7 @@ Sec. 2. <i>Establishment</i>. (a) The Secretary of Homeland Security shall estab
 
 (ix) other executive branch departments, agencies, or offices as the President, from time to time, may designate.
 
-(c) The Center shall have a Director, who shall be a full-time senior officer or employee of the Department of Homeland Security, designated by the Secretary of Homeland Security. The Center shall have two Deputy Directors, who shall be full-time senior officers or employees of the Department of Commerce and the Department of Justice, designated by the Secretary of Commerce and the Attorney General, respectively, detailed to the Center and reporting to the Director. The Center shall also have an Intelligence Community Liaison, who shall be a full-time senior officer or employee of the Federal Government, designated by the Director of National Intelligence, and detailed or assigned to the Center.
+(c) The Center shall have a Director, who shall be a full-time senior officer or employee of the Departmentof Homeland Security, designated by the Secretary of Homeland Security. The Center shall have two Deputy Directors, who shall be full-time senior officers or employees of the Department of Commerce and the Department of Justice, designated by the Secretary of Commerce and the Attorney General, respectively, detailed to the Center and reporting to the Director. The Center shall also have an Intelligence Community Liaison, who shall be a full-time senior officer or employee of the Federal Government, designated by the Director of National Intelligence, and detailed or assigned to the Center.
 
 (d) The Center shall have a full-time staff reporting to the Director. To the extent permitted by law, executive departments and agencies enumerated in subsection (b) of this section are encouraged to detail or assign their employees to the Center without reimbursement.
 

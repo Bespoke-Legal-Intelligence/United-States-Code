@@ -28,7 +28,7 @@ Functions of all other officers of Department of Commerce and functions of all a
 
 #### Deputy Secretary of Commerce
 
-For provisions directing the President to appoint a Deputy Secretary of Commerce, by and with the advice and consent of the Senate, with the Deputy Secretaryto receive compensation at the rate payable for Level II of the Executive Schedule and with the Deputy Secretary to perform such duties and exercise such powers as the Secretary may from time to time prescribe, see section 2(b)(1) of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
+For provisions directing the President to appoint a Deputy Secretary of Commerce, by and with the advice and consent of the Senate, with the Deputy Secretary to receive compensation at the rate payable for Level II of the Executive Schedule and with the Deputy Secretary to perform such duties and exercise such powers as the Secretary may from time to time prescribe, see section 2(b)(1) of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Creation of the Office of Deputy Secretary of Commerce by section 2(b)(1) of 1979 Reorg. Plan. No. 3 effective Dec. 7, 1979, see Ex. Ord. 12175, set out as a note under section 2171 of Title 19, Customs Duties.
 
@@ -68,7 +68,7 @@ The Secretary of Commerce may from time to time effect such transfers within the
 
 I transmit herewith Reorganization Plan No. 5 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Department of Commerce. My reasons for transmitting this plan are stated in an accompanying general message.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
 I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
 

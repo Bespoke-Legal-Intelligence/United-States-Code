@@ -72,7 +72,7 @@ Pub. L. 108–484, §7, Dec. 23, 2004, 118 Stat. 3930, provided that: "It is the
 
 &emsp;"(3) should ensure that recipients of microenterprise development assistance under such title do not expend an unreasonably large percentage of such assistance on administrative costs;
 
-&emsp;"(4) should not use recipients of microenterprise development assistance under such title to carry out critical management functions of the Agency, including functions such as strategy development or overall management of programs in a country; and
+&emsp;"(4) should not use recipients of microenterprise development assistance under such title to carry outcritical management functions of the Agency, including functions such as strategy development or overall management of programs in a country; and
 
 &emsp;"(5) should consult with the appropriate congressional committees with respect to the implementation of title VI of chapter 2 of part I of the Foreign Assistance Act of 1961 not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2004\]."
 

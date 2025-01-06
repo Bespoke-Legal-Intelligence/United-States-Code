@@ -20,7 +20,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the unrecovered basis of any passenger automobile shall be treated as an expense for the 1st taxable year after the recovery period. Any excess of the unrecovered basis over the limitation of clause (ii) shall be treated as an expense in the succeeding taxable year.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the unrecovered basis of any passenger automobile shall be treated as an expense for the 1st taxable year after the recovery period. Any excess of the unrecovered basisover the limitation of clause (ii) shall be treated as an expense in the succeeding taxable year.
 
 #### (ii) $5,760 limitation
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (2) Subsequent depreciation deductions reduced for deductions allocable to personal use
 
-&emsp;Solely for purposes of determining the amount of the depreciation deduction for subsequent taxable years, if less than 100 percent of the use of any listed property during any taxable year is use in a trade or business (including the holding for the production of income), all of the use of such property during such taxable year shall be treated as use so described.
+&emsp;Solely for purposes of determining the amount of the depreciation deduction for subsequent taxable years, if less than 100 percent of the use of any listed property during any taxable year is use in a trade or business (including the holding for the production of income), all of the use of such property duringsuch taxable year shall be treated as use so described.
 
 #### (3) Deductions of employee
 
@@ -336,7 +336,7 @@ Subsec. (d)(4)(C). Pub. L. 99–514, §1812(e)(4), added subpar. (C).
 
 Subsec. (d)(5)(A). Pub. L. 99–514, §1812(e)(1)(A), (C), substituted "unloaded gross vehicle weight" for "gross vehicle weight" in cl. (ii) and inserted at end "In the case of a truck or van, clause (ii) shall be applied by substituting 'gross vehicle weight' for 'unloaded gross vehicle weight'."
 
-Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "For purposes of subsection (a)(2), the term "unrecovered basis" means the excess (if any) of—
+Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "For purposes of subsection (a)(2), the term 'unrecovered basis' means the excess (if any) of—
 
 &emsp;"(A) the unadjusted basis (as defined in section 168(d)(1)(A)) of the passenger automobile, over
 
@@ -378,7 +378,7 @@ Pub. L. 107–147, title VI, §602(c), Mar. 9, 2002, 116 Stat. 59, provided that
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -461,6 +461,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2024</b>—Revenue Procedure 2024–13.
 
 <b>2023</b>—Revenue Procedure 2023–14.
 

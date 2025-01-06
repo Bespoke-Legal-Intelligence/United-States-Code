@@ -14,7 +14,7 @@ To the maximum extent possible, activities under this part that attempt to incre
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–83, in amending section generally, designated existing provisions as subsec. (a), substituted provisions setting overall guidelines and principles for determination of target populations and strengthening United States assistance, for provisionsrelating to Presidential responsibility in carrying out this part in fiscal year 1983 for targeting assistance for those living in absolute poverty, and added subsec. (b).
+<b>1985</b>—Pub. L. 99–83, in amending section generally, designated existing provisions as subsec. (a), substituted provisions setting overall guidelines and principles for determination of target populations and strengthening United States assistance, for provisions relating to Presidential responsibility in carrying out this part in fiscal year 1983 for targeting assistance for those living in absolute poverty, and added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

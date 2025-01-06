@@ -8,7 +8,7 @@ The President may award, and present in the name of Congress, a medal of honor o
 
 &emsp;(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 540, §8741; Pub. L. 88–77, §3(1), July 25, 1963, 77 Stat. 94; renumbered §9271, Pub. L. 115–232, div. A, title VIII,§806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(c)(12)(A)(i), Jan. 1, 2021, 134 Stat. 3811.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 540, §8741; Pub. L. 88–77, §3(1), July 25, 1963, 77 Stat. 94; renumbered §9271, Pub. L. 115–232, div. A, title VIII, §806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(c)(12)(A)(i), Jan. 1, 2021, 134 Stat. 3811.)
 
 Historical and Revision Notes
 
@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 July 9, 1918, ch. 143, (8th par. under "Ordnance Department"), 40 Stat. 870.
 
-The words "That the provisions of existing law relating to the award of medals of honor to officers, noncommissioned officers, and privates of the Army be, and they hereby are, amended so that", in the Act of July 9, 1918, ch. 143 (8th par. under "Ordnance Department"), 40 Stat. 870, are not contained in 10:1403. They are also omitted from the revised section as surplusage. The word "member" is substituted for the words "officer or enlisted man". The word "only" is omitted as surplusage. The word "award" is inserted for clarity, since the President determines the recipient of the medal in addition to presenting it.
+The words "That the provisions of existing law relating to the award of medals of honor to officers, noncommissioned officers, and privates of the Army be, and they hereby are, amended so that", in the Act of July 9, 1918, ch. 143 (8th par. under "Ordnance Department"), 40 Stat. 870, are not contained in 10:1403. They are also omitted from the revised section as surplusage. The word "member" is substituted for the words "officer or enlisted man". The word "only" is omitted assurplusage. The word "award" is inserted for clarity, since the President determines the recipient of the medal in addition to presenting it.
 
 #### <b>Editorial Notes</b>
 

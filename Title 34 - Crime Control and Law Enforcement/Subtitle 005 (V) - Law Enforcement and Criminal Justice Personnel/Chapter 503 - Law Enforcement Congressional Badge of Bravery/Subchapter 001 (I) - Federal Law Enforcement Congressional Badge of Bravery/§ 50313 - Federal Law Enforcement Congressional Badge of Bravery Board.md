@@ -22,7 +22,7 @@ The Federal Board shall do the following:
 
 &emsp;&emsp;(B) send a letter announcing the award of each Federal Law Enforcement Badge to the Federal agency head who nominated the recipient of such Federal Law Enforcement Badge;
 
-&emsp;&emsp;(C) send a letter to each Member of Congress representing the congressional districtwhere the recipient of each Federal Law Enforcement Badge resides to offer such Member an opportunity to present such Federal Law Enforcement Badge; and
+&emsp;&emsp;(C) send a letter to each Member of Congress representing the congressional district where the recipient of each Federal Law Enforcement Badge resides to offer such Member an opportunity to present such Federal Law Enforcement Badge; and
 
 &emsp;&emsp;(D) make or facilitate arrangements for presenting each Federal Law Enforcement Badge in accordance with section 50314 of this title.
 

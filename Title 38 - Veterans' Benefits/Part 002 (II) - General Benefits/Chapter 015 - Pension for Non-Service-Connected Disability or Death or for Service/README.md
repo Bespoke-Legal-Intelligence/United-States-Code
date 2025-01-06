@@ -97,7 +97,7 @@ Mexican Border Period, World War I, World War II, Korean Conflict, and the Vietn
 
 <b>1982</b>—Pub. L. 97–295, §4(14), Oct. 12, 1982, 96 Stat. 1305, substituted "Honor Roll" for "honor roll" in item 560.
 
-<b>1978</b>—Pub. L. 95–588, title I, §§104(b), 106(b), 109(b), 110(b), 112(b), Nov. 4, 1978, 92 Stat. 2499, 2502, 2504, 2505, added item 508, substituted "Veterans of a period of war" for "Veterans of the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era" in item 521, substituted "Surviving spouses of veterans of a period of war" for "Surviving spouses of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans" in item 541, substituted "Children of veterans of a period of war" for "Children of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans" in item 542, struck out heading "
+<b>1978</b>—Pub. L. 95–588, title I, §§104(b), 106(b), 109(b), 110(b), 112(b), Nov. 4, 1978, 92 Stat. 2499, 2502, 2504, 2505,added item 508, substituted "Veterans of a period of war" for "Veterans of the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era" in item 521, substituted "Surviving spouses of veterans of a period of war" for "Surviving spouses of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans" in item 541, substituted "Children of veterans of a period of war" for "Children of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans" in item 542, struck out heading "
 
 Surviving Spouses of Veterans of All Periods of War" following item 543, and struck out item 544.
 

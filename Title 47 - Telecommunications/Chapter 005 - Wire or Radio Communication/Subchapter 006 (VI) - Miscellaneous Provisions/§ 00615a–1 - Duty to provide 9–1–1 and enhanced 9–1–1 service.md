@@ -18,7 +18,7 @@ The Commission—
 
 &emsp;&emsp;(B) take into account any technical, network security, or information privacy requirements that are specific to IP-enabled voice services; and
 
-&emsp;&emsp;(C) provide, with respect to any capabilities that are not required to be made available to a commercial mobile service provider but that the Commission determines under subparagraph (B) of this paragraph or paragraph (3) are necessary for an IP-enabled voice service provider to comply with its obligations under subsection (a), that such capabilities shall be available at the same rates, terms, and conditions as would apply if such capabilities were made available to a commercial mobile service provider;
+&emsp;&emsp;(C) provide, with respect to any capabilities that are not required to be made available to a commercial mobile service provider but that the Commission determines under subparagraph (B) of this paragraph or paragraph (3) are necessary for an IP-enabledvoice service provider to comply with its obligations under subsection (a), that such capabilities shall be available at the same rates, terms, and conditions as would apply if such capabilities were made available to a commercial mobile service provider;
 
 &emsp;(2) shall require IP-enabled voice service providers to which the regulations apply to register with the Commission and to establish a point of contact for public safety and government officials relative to 9–1–1 and enhanced 9–1–1 service and access; and
 
@@ -42,7 +42,7 @@ The Commission may delegate authority to enforce the regulations issued under su
 
 #### (1) Authority
 
-&emsp;Nothing in this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), the New andEmerging Technologies 911 Improvement Act of 2008, or any Commission regulation or order shall prevent the imposition and collection of a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State, political subdivision thereof, Indian tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act, as amended (85 Stat. 688) \[43 U.S.C. 1601 et seq.\] <sup>1</sup> for the support or implementation of 9–1–1 or enhanced 9–1–1 services, provided that the fee or charge is obligated or expended only in support of 9–1–1 and enhanced 9–1–1 services, or enhancements of such services, consistent with the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable. For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
+&emsp;Nothing in this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), the New and Emerging Technologies 911 Improvement Act of 2008, or any Commission regulation or order shall prevent the imposition and collection of a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State, political subdivision thereof, Indian tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act, as amended (85 Stat. 688) \[43 U.S.C. 1601 et seq.\] <sup>1</sup> for the support or implementation of 9–1–1 or enhanced 9–1–1 services, provided that the fee or charge is obligated or expended only in support of 9–1–1 and enhanced 9–1–1 services, or enhancements of such services, consistent with the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable. For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
 
 #### (2) Fee accountability report
 
@@ -172,7 +172,7 @@ Pub. L. 110–368, §1(b), Oct. 8, 2008, 122 Stat. 4027, provided that: "The ame
 
 #### Rule of Construction
 
-Pub. L. 116–260, div. FF, title IX, §902(e), Dec. 27, 2020, 134 Stat. 3209, provided that: "Nothing in this Act\[probably means "this section", amending this section, repealing section 1413 of this title and enacting provisions set out as notes under this section and section 609 of this title\], the Wireless Communications and Public Safety Act of 1999 (Public Law 106–81) \[see Short Title of 1999 Amendments note set out under section 609 of this title\], or the Communications Act of 1934 (47 U.S.C. 151 et seq.) shall be construed to prevent a State or taxing jurisdiction from requiring an annual audit of the books and records of a provider of 9–1–1 services concerning the collection and remittance of a 9–1–1 fee or charge."
+Pub. L. 116–260, div. FF, title IX, §902(e), Dec. 27, 2020, 134 Stat. 3209, provided that: "Nothing in this Act \[probably means "this section", amending this section, repealing section 1413 of this title and enacting provisions set out as notes under this section and section 609 of this title\], the Wireless Communications and Public Safety Act of 1999 (Public Law 106–81) \[see Short Title of 1999 Amendments note set out under section 609 of this title\], or the Communications Act of 1934 (47 U.S.C. 151 et seq.) shall be construed to prevent a State or taxing jurisdiction from requiring an annual audit of the books and records of a provider of 9–1–1 services concerning the collection and remittance of a 9–1–1 fee or charge."
 
 #### Prohibition on 9–1–1 Fee or Charge Diversion
 
@@ -232,7 +232,7 @@ Report to congress.—Not later than 270 days after the date of the enactment of
 
 "(4)
 
-Failure to comply.—Notwithstanding any other provision of law, any State or taxing jurisdiction identified by the Commission in the report required under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615a–1(f)(2)) as engaging in diversion of 9–1–1 fees or charges shall be ineligible to participate or send a representative to serve on any committee, panel, or council established under section 6205(a) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1425(a)) or any advisory committee established by the Commission."
+Failure to comply.—Notwithstanding any other provision of law, any State or taxing jurisdiction identified by the Commission in the report required under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615a–1(f)(2)) as engaging in diversion of 9–1–1 fees or charges shall be ineligible to participate or send a representative to serve on anycommittee, panel, or council established under section 6205(a) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1425(a)) or any advisory committee established by the Commission."
 
 #### Definitions
 

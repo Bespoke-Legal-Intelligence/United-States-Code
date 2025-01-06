@@ -80,7 +80,7 @@ This section shall take effect on October 1, 2006, and shall apply to all activi
 
 #### References in Text
 
-Subchapter IV, referred to in subsec. (d)(3)(B), was in the original "title XV of this Act", meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§1151 et seq.) of this chapter. For complete classification of title XV to the Code, see References in Text note set out under section 1151 of this title and Tables.
+Subchapter IV, referred to in subsec. (d)(3)(B), was in the original "title XV of this Act", meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§1151 et seq.) of this chapter. For complete classification of title XV tothe Code, see References in Text note set out under section 1151 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "intercity rail passenger".</i>
 

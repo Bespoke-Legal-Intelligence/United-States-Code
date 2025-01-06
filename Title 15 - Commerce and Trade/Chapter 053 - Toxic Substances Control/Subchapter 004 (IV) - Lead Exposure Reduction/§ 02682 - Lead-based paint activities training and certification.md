@@ -50,7 +50,7 @@ For purposes of this subchapter, the term "lead-based paint activities" means—
 
 #### (2) Study of certification
 
-&emsp;The Administrator shall conduct a study of the extent to which persons engaged in various types of renovation and remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings are exposed to lead in the conduct of such activities or disturb lead and create a lead-based paint hazard on a regular or occasional basis. The Administrator shall complete such study and publish the results thereof within 30 months after October 28, 1992.
+&emsp;The Administrator shall conduct a study of the extent to which persons engaged in varioustypes of renovation and remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings are exposed to lead in the conduct of such activities or disturb lead and create a lead-based paint hazard on a regular or occasional basis. The Administrator shall complete such study and publish the results thereof within 30 months after October 28, 1992.
 
 #### (3) Certification determination
 

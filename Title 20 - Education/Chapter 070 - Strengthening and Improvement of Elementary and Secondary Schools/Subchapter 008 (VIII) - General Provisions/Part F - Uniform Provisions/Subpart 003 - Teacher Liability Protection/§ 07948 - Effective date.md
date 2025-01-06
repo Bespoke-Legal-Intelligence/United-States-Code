@@ -14,7 +14,7 @@ This subpart applies to any claim for harm caused by an act or omission of a tea
 
 #### References in Text
 
-For the effective date of the No Child Left Behind Act of 2001, referred to in subsec. (b), see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of this title.
+For the effective date of the No Child Left Behind Act of 2001, referred to in subsec. (b), see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Codification
 

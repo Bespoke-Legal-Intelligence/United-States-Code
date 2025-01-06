@@ -60,7 +60,7 @@ Consultation.—To develop the pilot program under this section, the Undersecret
 
 Commencement and Duration.—The pilot program established under this section shall be established not later than April 1, 2019, and all activities under such pilot program shall terminate not later than December 31, 2020."
 
-\[Pub. L. 116–283, §1866(d)(1)(A), which directed amendment of section 843(c)(4) of Pub. L. 115–232, set outabove, by substituting "section 3021" for "section 2302(9)", could not be executed because of the intervening amendment by section 1806(e)(3)(C) of Pub. L. 116–283, which had substituted "section 3014" for "section 2302(9)".\]
+\[Pub. L. 116–283, §1866(d)(1)(A), which directed amendment of section 843(c)(4) of Pub. L. 115–232, set out above, by substituting "section 3021" for "section 2302(9)", could not be executed because of the intervening amendment by section 1806(e)(3)(C) of Pub. L. 116–283, which had substituted "section 3014" for "section 2302(9)".\]
 
 
 ---

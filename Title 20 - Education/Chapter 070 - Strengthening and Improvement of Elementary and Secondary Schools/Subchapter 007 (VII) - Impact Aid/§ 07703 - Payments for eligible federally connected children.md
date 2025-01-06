@@ -50,7 +50,7 @@
 
 #### (3) Special rule
 
-&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 1,000 or such number equals or exceeds 10 percent of the total number of students in average daily attendance in the schools of such agency.
+&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 1,000 or such number equals or exceeds 10 percent of the total number ofstudents in average daily attendance in the schools of such agency.
 
 #### (4) Military installation and Indian housing undergoing renovation or rebuilding
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(i) at least 400 such children; or
 
-&emsp;&emsp;&emsp;(ii) a number of such children which equals at least 3 percent of the total number of children who were in average daily attendance, during such year, at the schools of such agency and for whom such agency provided free public education.
+&emsp;&emsp;&emsp;(ii) a number of such children which equals at least 3 percent of the total number of children who were in average dailyattendance, during such year, at the schools of such agency and for whom such agency provided free public education.
 
 #### (C) Maximum amount
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(iii) the comparable local contribution rate certified by the State, as determined under regulations prescribed to carry out the Act of September 30, 1950 (Public Law 874, 81st Congress), as such regulations were in effect on January 1, 1994; or
 
-&emsp;&emsp;&emsp;(iv) the average per-pupil expenditure of the State in which the local educationalagency is located, multiplied by the local contribution percentage.
+&emsp;&emsp;&emsp;(iv) the average per-pupil expenditure of the State in which the local educational agency is located, multiplied by the local contribution percentage.
 
 #### (D) Data
 
@@ -166,13 +166,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) is a local educational agency that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for generalfund purposes for comparable local educational agencies in the State;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 30 percent; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 20 percent, and for the 3 fiscal years preceding the fiscal year for which the determination is made, the average enrollment of children who are not described in subsection (a)(1) and who are eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] constitutes a percentage of the total student enrollment of the agency that is not less than 65 percent and received assistance for fiscal year 2017 pursuant to subparagraph (G); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) received assistance under subparagraph (A) of section 7703(b)(2) ofthis title,<sup>1</sup> as such section was in effect on the day before December 10, 2015, for a fiscal year prior to fiscal year 2017;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) received assistance under subparagraph (A) of section 7703(b)(2) of this title,<sup>1</sup> as such section was in effect on the day before December 10, 2015, for a fiscal year prior to fiscal year 2017;
 
 &emsp;&emsp;&emsp;&emsp;(IV) is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) <sup>1</sup> of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which—
 
@@ -212,7 +212,7 @@
 
 #### (II) Resumption of eligibility
 
-&emsp;&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
+&emsp;&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscalyear only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
 
 #### (C) Maximum amount for heavily impacted local educational agencies
 
@@ -222,7 +222,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) four-fifths of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made; or
 
-&emsp;&emsp;&emsp;&emsp;(II) four-fifths of the average per-pupil expenditure of all of the States for thethird fiscal year preceding the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;&emsp;(II) four-fifths of the average per-pupil expenditure of all of the States for the third fiscal year preceding the fiscal year for which the determination is made.
 
 #### (ii) Calculation of weighted student units
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii), for fiscal year 2020 or any succeeding fiscal year, if the number of students who are children described in subparagraphs (A) and (B) of subsection (a)(1) for a local educational agency subject to this subparagraph exceeds 7,000 for such year or the number of students who are children described in subsection (a)(1)(D) for such local educational agency exceeds 12,750 for such year, then—
 
-&emsp;&emsp;&emsp;&emsp;(I) the factor used, for the fiscal year for which the determination is being made, to determine the weighted student units under subsection (a)(2) with respect to children described in subparagraphs\(A) and (B) of subsection (a)(1) shall be 1.40; and
+&emsp;&emsp;&emsp;&emsp;(I) the factor used, for the fiscal year for which the determination is being made, to determine the weighted student units under subsection (a)(2) with respect to children described in subparagraphs (A) and (B) of subsection (a)(1) shall be 1.40; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the factor used, for such fiscal year, to determine the weighted student units under subsection (a)(2) with respect to children described in subsection (a)(1)(D) shall be .20.
 
@@ -338,7 +338,7 @@
 
 #### (iii) Conversion of military housing units to private housing described
 
-&emsp;&emsp;&emsp;For purposes of clause (i), "conversion of military housing units to private housing" means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
+&emsp;&emsp;&emsp;For purposes of clause (i), "conversion of military housing units to private housing" means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 orpursuant to any other related provision of law.
 
 #### (3) Payments with respect to fiscal years in which insufficient funds are appropriated
 
@@ -514,7 +514,7 @@
 
 Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
 
-(Pub. L. 89–10, title VII, §7003, formerly title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A,title V, §536, Oct. 28, 2009, 123 Stat. 2293; Pub. L. 112–239, div. A, title V, §563(b)(2), (c)(4), Jan. 2, 2013, 126 Stat. 1746, 1748; renumbered title VII, §7003, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, 129 Stat. 2074, 2075, 2077; Pub. L. 114–328, div. A, title V, §579(b)(1), (d)(1), Dec. 23, 2016, 130 Stat. 2145, 2146; Pub. L. 115–141, div. H, title III, §311(d), Mar. 23, 2018, 132 Stat. 750.)
+(Pub. L. 89–10, title VII, §7003, formerly title VIII, §8003, as added Pub. L. 103–382, title I, §101,Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293; Pub. L. 112–239, div. A, title V, §563(b)(2), (c)(4), Jan. 2, 2013, 126 Stat. 1746, 1748; renumbered title VII, §7003, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, 129 Stat. 2074, 2075, 2077; Pub. L. 114–328, div. A, title V, §579(b)(1), (d)(1), Dec. 23, 2016, 130 Stat. 2145, 2146; Pub. L. 115–141, div. H, title III, §311(d), Mar. 23, 2018, 132 Stat. 750.)
 
 #### <b>Editorial Notes</b>
 
@@ -716,7 +716,7 @@ Subsec. (f)(3)(A)(ii). Pub. L. 104–106, §1074(f)(2)(A)(iii), amended cl. (ii)
 
 Subsec. (f)(3)(A)(iii). Pub. L. 104–195, §5(b)(1), inserted ", except as provided in subparagraph (C)," after "but" in introductory provisions.
 
-Pub. L. 104–106, §1074(f)(2)(A)(iv), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows:"The Secretary shall next multiply the amount determined under clause (ii) by the total number of students in average daily attendance at the schools of the local educational agency as determined by the Secretary under subsection (a)(1) of this section."
+Pub. L. 104–106, §1074(f)(2)(A)(iv), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "The Secretary shall next multiply the amount determined under clause (ii) by the total number of students in average daily attendance at the schools of the local educational agency as determined by the Secretary under subsection (a)(1) of this section."
 
 Subsec. (f)(3)(B). Pub. L. 104–106, §1074(f)(2)(B), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "With respect to payments under this subsection for a local educational agency described in clause (ii) or (iii) of paragraph (2)(A), the maximum amount of such payments shall be computed by taking the product of the average per-pupil expenditure in all States multiplied by 0.7, except that such amount may not exceed 125 percent of the average per-pupil expenditure in all local educational agencies in the State."
 
@@ -782,7 +782,7 @@ Pub. L. 115–245, div. B, title III, §315, Sept. 28, 2018, 132 Stat. 3108, pro
 
 &emsp;"(2) was considered a local educational agency described in section 7003(b)(2)(B)(i)(V) (or any predecessor of such provision) for each such fiscal year.
 
-"(b) For fiscal year 2020 and succeeding fiscal years, if a local educational agency described in subsection (a)is eligible to receive a basic support payment pursuant to section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)), the payment received by the local educational agency shall be calculated under section 7003(b)(2) of such Act and not under subsection (a)."
+"(b) For fiscal year 2020 and succeeding fiscal years, if a local educational agency described in subsection (a) is eligible to receive a basic support payment pursuant to section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)), the payment received by the local educational agency shall be calculated under section 7003(b)(2) of such Act and not under subsection (a)."
 
 Pub. L. 115–141, div. H, title III, §311(a)–(c), Mar. 23, 2018, 132 Stat. 750, provided that:
 
@@ -842,7 +842,7 @@ Pub. L. 114–328, div. A, title V, §579(d)(3), Dec. 23, 2016, 130 Stat. 2148, 
 
 "(A)
 
-Applicability for fiscal year 2016.—Notwithstanding any other provision of law, in making basic support payments under section 8003(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)) for fiscal year 2016, the Secretary of Education shall carry out subparagraphs (B)(i) and (E) of such section as if the amendments made to subparagraphs (B)(i)(IV) and (D) of section 7003(b)(2) of such Act \[20 U.S.C. 7703(b)(2)\] (as amended and redesignated by this subsection and the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)) had also been made to the corresponding provisions of section 8003(b)(2) of the Elementary and Secondary Education Act of 1965, as in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\].
+Applicability for fiscal year 2016.—Notwithstanding any other provision of law, in making basicsupport payments under section 8003(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)) for fiscal year 2016, the Secretary of Education shall carry out subparagraphs (B)(i) and (E) of such section as if the amendments made to subparagraphs (B)(i)(IV) and (D) of section 7003(b)(2) of such Act \[20 U.S.C. 7703(b)(2)\] (as amended and redesignated by this subsection and the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)) had also been made to the corresponding provisions of section 8003(b)(2) of the Elementary and Secondary Education Act of 1965, as in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\].
 
 "(B)
 

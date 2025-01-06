@@ -596,6 +596,7 @@
 | [286xx.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286xx%20-%20Quota%20increase.md) | Quota increase. |
 | [286yy.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286yy%20-%20Opposition%20to%20assistance%20for%20any%20government%20that%20fails%20to%20implement%20sanctions%20on%20North%20Korea.md) | Opposition to assistance for any government that fails to implement sanctions on North Korea. |
 | [286zz.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286zz%20-%20Capital%20stock%20increases.md) | Capital stock increases. |
+| [286aaa.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286aaa%20-%20Congressional%20notification%20with%20respect%20to%20exceptional%20access%20lending.md) | Congressional notification with respect to exceptional access lending. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -731,6 +732,7 @@
 | 290g–23. | Multilateral debt relief. |
 | 290g–24. | Fourteenth replenishment. |
 | 290g–25. | Fifteenth replenishment. |
+| 290g–26. | Sixteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -955,7 +957,7 @@ United States Policy at the International Financial Institutions.—The Secretar
 
 "(b)
 
-Report Required.—The Chairman of the National Advisory Council on International Monetary andFinancial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\]—
+Report Required.—The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\]—
 
 &emsp;"(1) a description of progress made toward advancing the policy described in subsection (a) of this section; and
 

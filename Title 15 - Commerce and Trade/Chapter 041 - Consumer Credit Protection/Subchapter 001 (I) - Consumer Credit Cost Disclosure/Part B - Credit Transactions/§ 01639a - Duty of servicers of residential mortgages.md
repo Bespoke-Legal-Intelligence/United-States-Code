@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, whenever a servicer of residential m
 
 #### (b) No liability
 
-A servicer that is deemed to be acting in the best interests of all investors or other parties under this section shall not be liable to anyparty who is owed a duty under subsection (a)(1), and shall not be subject to any injunction, stay, or other equitable relief to such party, based solely upon the implementation by the servicer of a qualified loss mitigation plan.
+A servicer that is deemed to be acting in the best interests of all investors or other parties under this section shall not be liable to any party who is owed a duty under subsection (a)(1), and shall not be subject to any injunction, stay, or other equitable relief to such party, based solely upon the implementation by the servicer of a qualified loss mitigation plan.
 
 #### (c) Standard industry practice
 
@@ -46,7 +46,7 @@ As used in this section—
 
 #### (g) Rule of construction
 
-No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
+No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of aState or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
 
 (Pub. L. 90–321, title I, §129A, as added Pub. L. 110–289, div. A, title IV, §1403, July 30, 2008, 122 Stat. 2809; renumbered §129 and amended Pub. L. 111–22, div. A, title II, §201(b), May 20, 2009, 123 Stat. 1638; renumbered §129A, Pub. L. 111–203, title XIV, §1402(a)(1), July 21, 2010, 124 Stat. 2138.)
 

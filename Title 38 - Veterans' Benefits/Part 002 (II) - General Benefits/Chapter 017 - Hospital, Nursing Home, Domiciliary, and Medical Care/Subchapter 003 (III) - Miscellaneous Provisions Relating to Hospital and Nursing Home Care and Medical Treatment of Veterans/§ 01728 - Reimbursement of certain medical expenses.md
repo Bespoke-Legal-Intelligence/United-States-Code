@@ -42,7 +42,7 @@
 
 <b>2022</b>—Subsecs. (c), (d). Pub. L. 117–328 added subsec. (c), redesignated former subsec. (c) as (d) and substituted "section 1725(h)(1)" for "section 1725(f)(1)".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–387, §402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veteransmade payment from sources other than the Department under certain conditions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–387, §402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions.
 
 Subsec. (b). Pub. L. 110–387, §402(b)(2), substituted "emergency treatment" for "care or services" in introductory provisions and in par. (1).
 
@@ -83,4 +83,44 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date
 
 Section effective Jan. 1, 1971, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
+
+#### Reimbursement of Ambulance Cost for Care for Certain Rural Veterans
+
+Pub. L. 118–210, title I, §143, Jan. 2, 2025, 138 Stat. 2747, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall pay, or reimburse a covered veteran for, the cost of transporting the veteran by ambulance, including air ambulance, from a covered location to a provider of the Department of Veterans Affairs, a non-Department provider, or the nearest hospital that can meet the needs of the veteran (including a hospital that compacts with the Indian Health Service) for covered care.
+
+"(b)
+
+Amount Covered.—The maximum cumulative amount covered under this section for a covered veteran is $46,000.
+
+"(c)
+
+Sunset.—This section shall cease to be effective on September 30, 2026.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered care' means care for a veteran eligible for care provided by the Department of Veterans Affairs under title 38, United States Code, or any other law administered by the Secretary of Veterans Affairs, even if the care associated with the transport described in subsection (a) is not authorized by the Department.
+
+&emsp;"(2) The term 'covered location' means a location that is—
+
+&emsp;&emsp;"(A) in a State that is 100 miles or more from the nearest medical center of the Department of Veterans Affairs; and
+
+&emsp;&emsp;"(B) in an area rated as a 10 or higher under the rural-urban commuting areas coding system of the Department of Agriculture.
+
+&emsp;"(3) The term 'covered veteran' means a veteran who—
+
+&emsp;&emsp;"(A) has a service-connected disability rated by the Secretary as between 0 and 30 percent disabling;
+
+&emsp;&emsp;"(B) is not eligible for payments or reimbursements for beneficiary travel or other transportation under the laws administered by the Secretary of Veterans Affairs, other than under this section; and
+
+&emsp;&emsp;"(C) is not entitled to care or services under a non-Department of Veterans Affairs health-plan contract.
+
+&emsp;"(4) The term 'health-plan contract' has the meaning given that term in section 1725 of title 38, United States Code.
+
+&emsp;"(5) The term 'service-connected' has the meaning given that term in section 101 of such title."
 

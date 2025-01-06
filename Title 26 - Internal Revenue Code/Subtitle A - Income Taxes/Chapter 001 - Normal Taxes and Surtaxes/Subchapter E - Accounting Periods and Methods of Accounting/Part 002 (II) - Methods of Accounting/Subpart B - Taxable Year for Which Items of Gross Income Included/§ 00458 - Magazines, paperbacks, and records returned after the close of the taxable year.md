@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent ofthe Secretary. The election shall be made in such manner as the Secretary may by regulations prescribe and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
+&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribe and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
 
 #### (2) Scope of election
 

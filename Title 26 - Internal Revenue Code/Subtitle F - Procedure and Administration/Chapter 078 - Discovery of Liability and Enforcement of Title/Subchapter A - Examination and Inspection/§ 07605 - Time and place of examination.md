@@ -2,7 +2,7 @@
 
 #### (a) Time and place
 
-The time and place of examination pursuant to the provisions of section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be such time and place as may be fixed by the Secretary and as are reasonable under the circumstances. In the case of a summons under authority of paragraph (2) of section 7602, or under the corresponding authority of section 6420(e)(2), 6421(g)(2), or 6427(j)(2), the date fixed for appearance before the Secretary shall not be less than 10 days from the date of the summons.
+The time and place of examination pursuant to the provisions of section 6420(e)(2), 6421(g)(2),6427(j)(2), or 7602 shall be such time and place as may be fixed by the Secretary and as are reasonable under the circumstances. In the case of a summons under authority of paragraph (2) of section 7602, or under the corresponding authority of section 6420(e)(2), 6421(g)(2), or 6427(j)(2), the date fixed for appearance before the Secretary shall not be less than 10 days from the date of the summons.
 
 #### (b) Restrictions on examination of taxpayer
 
@@ -100,5 +100,5 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 #### Regulations
 
-Pub. L. 100–647, title VI, §6228(b), Nov. 10, 1988, 102 Stat. 3732, provided that: "The Secretary of the Treasury or the Secretary's delegate shall issue regulations to implement subsection (a) of section 7605 of the 1986 Code (relating to time and place of examination) within 1 year after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title VI, §6228(b), Nov. 10, 1988, 102 Stat. 3732, provided that: "The Secretary of the Treasury or the Secretary's delegate shall issue regulationsto implement subsection (a) of section 7605 of the 1986 Code (relating to time and place of examination) within 1 year after the date of the enactment of this Act \[Nov. 10, 1988\]."
 

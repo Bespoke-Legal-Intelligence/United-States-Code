@@ -176,7 +176,7 @@ Review.—As part of a review conducted under this section, if the decision of t
 
 &emsp;&emsp;&emsp;(ii)
 
-Security clearances.—Pursuant to existing procedures and requirements, the Secretary, in coordination (as necessary) with the heads of other affected departments or agencies, shall ensure that administrative law judges reviewing negative waiver decisions of the Secretary under this paragraph possess security clearances appropriate for such review.
+Security clearances.—Pursuant to existing procedures and requirements, the Secretary, in coordination (as necessary) with the heads of other affected departments or agencies, shall ensure that administrative law judges reviewing negativewaiver decisions of the Secretary under this paragraph possess security clearances appropriate for such review.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -306,7 +306,7 @@ In general.—Not later than one year after the date of publication of final reg
 
 Limitation.—The Secretary may not require any such vessel or facility to provide on-site receipt and activation of transportation worker identification credentials.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV,§3509(a), Dec. 23, 2016, 130 Stat. 2780; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8346, Jan. 1, 2021, 134 Stat. 4718; Pub. L. 117–263, div. K, title CXVIII, §11804(a), Dec. 23, 2022, 136 Stat. 4163.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV, §3509(a), Dec. 23, 2016, 130 Stat. 2780; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8346, Jan. 1, 2021, 134 Stat. 4718; Pub. L. 117–263, div. K, title CXVIII, §11804(a), Dec. 23, 2022, 136 Stat. 4163.)
 
 #### <b>Editorial Notes</b>
 
@@ -316,7 +316,7 @@ Section 5845 of the Internal Revenue Code of 1986, referred to in subsec. (c)(1)
 
 The Immigration and Nationality Act, referred to in subsec. (c)(1)(D)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980,94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 116–283 which was approved Jan. 1, 2021.
 
@@ -402,7 +402,7 @@ Subsecs. (g) to (m). Pub. L. 109–347, §104(a), added subsecs. (g) to (m).
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) oftitle 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) of title 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Effective Date of 2010 Amendment
 
@@ -620,11 +620,11 @@ Pub. L. 111–281, title VIII, §818(b), Oct. 15, 2010, 124 Stat. 3000, provided
 
 "(1)
 
-Report by comptroller general.—Within 180 days after the date of enactment of this Act \[Oct. 15,2010\], the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report assessing the costs, technical feasibility, and security measures associated with implementing procedures to deliver a transportation security card to an approved applicant's place of residence in a secure manner or to allow an approved applicant to receive the card at an enrollment center of the individual's choosing.
+Report by comptroller general.—Within 180 days after the date of enactment of this Act \[Oct. 15, 2010\], the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report assessing the costs, technical feasibility, and security measures associated with implementing procedures to deliver a transportation security card to an approved applicant's place of residence in a secure manner or to allow an approved applicant to receive the card at an enrollment center of the individual's choosing.
 
 "(2)
 
-Process for alternative means of receipt.—If the Comptroller General finds in the final report under paragraph (1) that it is feasible for a transportation security card to be sent to an approved applicant's place of residence in a secure manner, the Secretary shall, within 1 year after the date of issuance of the final report by the Comptroller General, implement a secure process to permit an individual approved for a transportation security card to receive the card at the applicant's place of residence or at the enrollment center of the individual's choosing. The individual shall be responsible for any additional cost associated with the secure delivery of a transportation security card."
+Process for alternative means of receipt.—If the Comptroller General finds in the final report under paragraph (1) that it is feasible for a transportation security card to be sent to an approved applicant's placeof residence in a secure manner, the Secretary shall, within 1 year after the date of issuance of the final report by the Comptroller General, implement a secure process to permit an individual approved for a transportation security card to receive the card at the applicant's place of residence or at the enrollment center of the individual's choosing. The individual shall be responsible for any additional cost associated with the secure delivery of a transportation security card."
 
 #### Prohibition of Issuance of Transportation Security Cards to Persons Convicted of Certain Felonies
 

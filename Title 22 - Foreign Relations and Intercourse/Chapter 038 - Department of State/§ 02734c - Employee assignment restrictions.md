@@ -42,7 +42,7 @@ Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section
 
 Pub. L. 117–81, div. E, title LIII, §5311(c), Dec. 27, 2021, 135 Stat. 2364, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary shall revise, and certify to the appropriate congressional committees regarding such revision, the Foreign Affairs Manual guidance regarding denial or revocation of a security clearance to expressly state that all review and appeal rights relating thereto shall also apply to any recommendation or decision to impose an assignment restriction or preclusion to an employee."
 
-\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 5311(c) ofPub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
+\[For definitions of "Secretary" and "appropriate congressional committees" as used in section 5311(c) of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
 
 #### Definitions
 

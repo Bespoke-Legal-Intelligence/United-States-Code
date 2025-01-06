@@ -24,7 +24,7 @@ During the 1-month period that ends 6 months before the date on which the intere
 
 &emsp;&emsp;(D) pre-foreclosure sales.
 
-&emsp;(5) The names, addresses, telephone numbers, and Internet addresses of counselingagencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12).
+&emsp;(5) The names, addresses, telephone numbers, and Internet addresses of counseling agencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12).
 
 &emsp;(6) The address, telephone number, and Internet address for the State housing finance authority (as so defined) for the State in which the consumer resides.
 

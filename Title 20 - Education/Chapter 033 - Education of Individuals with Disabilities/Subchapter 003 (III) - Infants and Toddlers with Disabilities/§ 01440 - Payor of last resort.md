@@ -18,13 +18,13 @@ Funds provided under section 1443 of this title may not be used to satisfy a fin
 
 #### (B) Consistency between agreements or mechanisms under subchapter II
 
-&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that the terms and conditions of such agreement or mechanism are consistent with the terms and conditions of the State's agreement or mechanism under section 1412(a)(12) of this title, where appropriate.
+&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that the terms and conditions of such agreement or mechanism are consistent with the terms and conditions of the State's agreement ormechanism under section 1412(a)(12) of this title, where appropriate.
 
 #### (2) Reimbursement for services by public agency
 
 #### (A) In general
 
-&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay forthe services pursuant to an agreement required under paragraph (1), the local educational agency or State agency (as determined by the Chief Executive Officer or designee) shall provide or pay for the provision of such services to the child.
+&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the services pursuant to an agreement required under paragraph (1), the local educational agency or State agency (as determined by the Chief Executive Officer or designee) shall provide or pay for the provision of such services to the child.
 
 #### (B) Reimbursement
 

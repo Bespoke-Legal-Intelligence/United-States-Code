@@ -74,7 +74,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;(22) accept contributions to the capital of the bank from associations and account for such in accordance with generally accepted accounting principles, except as may be authorized by the Farm Credit Administration;
 
-&emsp;(23) as may be authorized by the board of directors of the bank, agree with other Farm Credit System institutions to share loan and other losses, whether to protect against capital impairment or for any other purpose; and
+&emsp;(23) as may be authorized by the board of directors of the bank, agree with other Farm Credit System institutions to share loan andother losses, whether to protect against capital impairment or for any other purpose; and
 
 &emsp;(24) operate as an originator and become certified as a certified facility under subchapter VIII.
 

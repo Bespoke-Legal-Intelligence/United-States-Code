@@ -1,6 +1,6 @@
 ### §4227. Cross reference
 
-&emsp;&emsp;<b>For exception for a sale to an Indian tribal government (or its subdivision) for the exclusive use of an Indian tribal government (or its subdivision), see section 7871.</b>
+&emsp;&emsp;<b>For exception for a sale to an Indian tribal government (or its subdivision) for the exclusive use of</b><b>an Indian tribal government (or its subdivision), see section 7871.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 496, §4226; renumbered §4227, June 29, 1956, ch. 462, title II, §207(a), 70 Stat. 391; amended Pub. L. 89–44, title II, §208(f), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, §1904(a)(5), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 97–473, title II, §202(b)(8), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title VII, §735(c)(11), July 18, 1984, 98 Stat. 983; Pub. L. 99–514, title XVIII, §1899A(49), Oct. 22, 1986, 100 Stat. 2961.)
 

@@ -1,0 +1,16 @@
+### §501. Definition
+
+In this chapter "enlistment" means original enlistment or reenlistment.
+
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 753.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Another section 501 was renumbered section 500a of this title.
+
+#### Prior Provisions
+
+A prior section 501 was renumbered 502 of this title.
+

@@ -22,7 +22,7 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined votingpower of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
 > Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option. Such term shall not include any option if an election is made under section 83(i) with respect to the stock received in connection with the exercise of such option.
 
@@ -146,7 +146,7 @@ Subsec. (c)(4)(A)(ii). Pub. L. 97–448, §102(j)(4), substituted "granted incen
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stockunits settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
+Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -18,7 +18,7 @@ The Secretary of Transportation shall ensure that the final rule requires each r
 
 &emsp;(1) for each calendar year—
 
-&emsp;&emsp;(A) identify practicable alternative routes over which the railroad carrier has authority to operate as compared to the current route for such a shipment analyzed under subsection (c); and
+&emsp;&emsp;(A) identify practicable alternative routes over which the railroad carrier has authority to operate as compared to the currentroute for such a shipment analyzed under subsection (c); and
 
 &emsp;&emsp;(B) perform a safety and security risk assessment of the alternative route for comparison to the route analysis specified in subsection (c);
 

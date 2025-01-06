@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (a)(1) and determining the closely held business amount\(but not for purposes of subsection (g)), the value of any interest in a closely held business shall not include the value of that portion of such interest which is attributable to passive assets held by the business.
+&emsp;&emsp;For purposes of subsection (a)(1) and determining the closely held business amount (but not for purposes of subsection (g)), the value of any interest in a closely held business shall not include the value of that portion of such interest which is attributable to passive assets held by the business.
 
 #### (B) Passive asset defined
 
@@ -446,7 +446,7 @@ Subsec. (g)(1)(A). Pub. L. 97–34, §422(c)(1), redesignated cl. (i) as cl. (i)
 
 Subsec. (g)(1)(D). Pub. L. 97–34, §422(c)(3), inserted provision for application of a similar rule in the case of a series of subsequent transfers of the property by reason of death so long as each transfer is to a member of the family of the transferor in such transfer.
 
-Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading "Failure to make payment of principal or interest" for "Failure to pay installment", designatedexisting provisions as subpar. (A), and in subpar. (A) as so designated, substituted "Except as provided in subparagraph (B), if any payment of principal or interest" for "If any installment" and "extension of time" for "extension of time for the payment of such installment", and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading "Failure to make payment of principal or interest" for "Failure to pay installment", designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted "Except as provided in subparagraph (B), if any payment of principal or interest" for "If any installment" and "extension of time" for "extension of time for the payment of such installment", and added subpar. (B).
 
 <b>1978</b>—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
 
@@ -512,7 +512,7 @@ Pub. L. 97–34, title IV, §422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
 
 "(2)
 

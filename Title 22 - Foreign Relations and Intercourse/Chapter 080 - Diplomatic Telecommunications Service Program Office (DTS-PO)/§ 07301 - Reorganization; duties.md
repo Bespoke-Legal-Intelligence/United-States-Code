@@ -24,7 +24,7 @@ A prior section 7301, Pub. L. 106–567, title III, §321, Dec. 27, 2000, 114 St
 
 #### Suspension of Reorganization of Diplomatic Telecommunications Service Program Office
 
-Pub. L. 107–108, title III, §311, Dec. 28, 2001, 115 Stat. 1401, as amended by Pub. L. 107–306, title III, §351, Nov. 27, 2002, 116 Stat. 2401; Pub. L. 108–177, title III, §371, Dec. 13, 2003, 117 Stat. 2627, which provided for suspension of provisions of this chapter during the period beginning on Dec. 28, 2001, and ending on the date 60 days after notification to congressional committees of termination of the operational framework for the Office, was repealed by Pub. L. 111–259, title V, §501(b)(1)(A), Oct. 7, 2010, 124 Stat. 2738.
+Pub. L. 107–108, title III, §311, Dec. 28, 2001, 115 Stat. 1401, as amended by Pub. L. 107–306, title III, §351, Nov.27, 2002, 116 Stat. 2401; Pub. L. 108–177, title III, §371, Dec. 13, 2003, 117 Stat. 2627, which provided for suspension of provisions of this chapter during the period beginning on Dec. 28, 2001, and ending on the date 60 days after notification to congressional committees of termination of the operational framework for the Office, was repealed by Pub. L. 111–259, title V, §501(b)(1)(A), Oct. 7, 2010, 124 Stat. 2738.
 
 #### Reform of the Diplomatic Telecommunications Service Program Office
 

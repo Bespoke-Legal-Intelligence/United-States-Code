@@ -30,7 +30,7 @@ Executive Order No. 12988, referred to in par. (9), is set out as a note under s
 
 #### Amendments
 
-<b>2019</b>—Par. (4). Pub. L. 116–94, §304(1), substituted "establish a program for environmental policy research at the Center and a program for environmental conflict resolution and training at the National Center" for "establish a Program for Environmental Policy Research and Environmental Conflict Resolution and Training at the Center".
+<b>2019</b>—Par. (4). Pub. L. 116–94, §304(1), substituted "establish a program for environmental policy research atthe Center and a program for environmental conflict resolution and training at the National Center" for "establish a Program for Environmental Policy Research and Environmental Conflict Resolution and Training at the Center".
 
 Par. (5). Pub. L. 116–94, §304(2), inserted ", natural resource, conflict resolution," after "environmental".
 

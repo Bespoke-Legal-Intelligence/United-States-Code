@@ -116,7 +116,7 @@ Report.—Not later than 5 days after the Amtrak Board of Directors receives not
 
 &emsp;(3)
 
-Notifications.—Not later than 5 days after the date that Amtrak notifies the Amtrak Board of Directors of a transfer under paragraph (1) to or from an account, Amtrak shall transmit to the State-Supported Route Committee and Northeast Corridor Commission a letter that includes the information described under subparagraphs (A) and (B) of paragraph (2).
+Notifications.—Not later than 5 days after the date that Amtrak notifies the Amtrak Board of Directors of a transfer under paragraph (1) to or from an account, Amtrakshall transmit to the State-Supported Route Committee and Northeast Corridor Commission a letter that includes the information described under subparagraphs (A) and (B) of paragraph (2).
 
 (h)
 

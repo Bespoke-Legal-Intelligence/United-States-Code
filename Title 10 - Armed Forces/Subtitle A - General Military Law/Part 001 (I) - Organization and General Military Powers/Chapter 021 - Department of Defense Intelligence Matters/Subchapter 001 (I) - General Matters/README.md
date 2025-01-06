@@ -11,15 +11,20 @@
 | [427\.](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md) | Conflict Records Research Center. |
 | [428\.](%C2%A7%2000428%20-%20Defense%20industrial%20security.md) | Defense industrial security. |
 | [429\.](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md) | Appropriations for Defense intelligence elements: accounts for transfers; transfer authority. |
+| [429a.](%C2%A7%2000429a%20-%20Expenditure%20of%20funds%20for%20Department%20of%20Defense%20intelligence%20and%20counterintelligence%20activities.md) | Expenditure of funds for Department of Defense intelligence and counterintelligence activities. |
 | [430\.](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md) | Tactical Exploitation of National Capabilities Executive Agent. |
 | [430a.](%C2%A7%2000430a%20-%20Executive%20agent%20for%20management%20and%20oversight%20of%20alternative%20compensatory%20control%20measures.md) | Executive agent for management and oversight of alternative compensatory control measures. |
 | [430b.](%C2%A7%2000430b%20-%20Executive%20agent%20for%20open-source%20intelligence%20tools.md) | Executive agent for open-source intelligence tools. |
+| [430c.](%C2%A7%2000430c%20-%20Senior%20intelligence%20oversight%20official%201.md) | Senior intelligence oversight official. |
+| [430d.](%C2%A7%2000430d%20-%20Cyber%20intelligence%20capability.md) | Cyber intelligence capability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title IX, §921(a), title XVI, §§1612(a), 1614(a)(1), Dec. 23, 2024, 138 Stat. 2036, 2167, 2168, added items 429a, 430c, and 430d. Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §§1081(a)(5), 1083(a)(2), title XVI, §1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
 
@@ -43,7 +48,7 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 
 <b>2001</b>—Pub. L. 107–108, title V, §501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted "Use of funds for certain incidental purposes" for "Counterintelligence official reception and representation expenses" in item 422.
 
-<b>1997</b>—Pub. L. 105–107, title V, §503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck outformer items 424 "Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency" and 425 "Disclosure of personnel information: exemption for National Reconnaissance Office".
+<b>1997</b>—Pub. L. 105–107, title V, §503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck out former items 424 "Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency" and 425 "Disclosure of personnel information: exemption for National Reconnaissance Office".
 
 <b>1993</b>—Pub. L. 103–178, title V, §503(a)(2), Dec. 3, 1993, 107 Stat. 2039, added item 425.
 
@@ -54,6 +59,20 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 <b>1988</b>—Pub. L. 100–453, title VII, §§701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted "Funds for Foreign Cryptologic Support" for "Funds transfers for foreign cryptologic support" and added item 424.
 
 <b>1987</b>—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted "departments" for "department" in item 423.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Strategy To Address Malign Activities by the People's Liberation Army
+
+Pub. L. 118–159, div. A, title XIII, §1347, Dec. 23, 2024, 138 Stat. 2126, provided that:
+
+"(a)
+
+In General.—Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a transregional, multi-functional, and multi-domain strategy to coordinate activities among combatant commands for identifying and, if necessary and appropriate, addressing malign activities by the People's Liberation Army of the People's Republic of China.
+
+"(b)
+
+Combatant Command Liaisons.—Concurrently with the submission of the strategy required by subsection (a), the Secretary shall designate, within each combatant command (other than the United States Indo-Pacific Command), an official liaison for coordinated transregional, multi-functional, and multi-domain efforts to address malign activities by the People's Liberation Army."
 
 
 ---
@@ -69,6 +88,9 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 - [&sect; 00427 - Conflict Records Research Center](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md)
 - [&sect; 00428 - Defense industrial security](%C2%A7%2000428%20-%20Defense%20industrial%20security.md)
 - [&sect; 00429 - Appropriations for Defense intelligence elements accounts for transfers; transfer authority](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md)
+- [&sect; 00429a - Expenditure of funds for Department of Defense intelligence and counterintelligence activities](%C2%A7%2000429a%20-%20Expenditure%20of%20funds%20for%20Department%20of%20Defense%20intelligence%20and%20counterintelligence%20activities.md)
 - [&sect; 00430 - Tactical Exploitation of National Capabilities Executive Agent](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md)
 - [&sect; 00430a - Executive agent for management and oversight of alternative compensatory control measures](%C2%A7%2000430a%20-%20Executive%20agent%20for%20management%20and%20oversight%20of%20alternative%20compensatory%20control%20measures.md)
 - [&sect; 00430b - Executive agent for open-source intelligence tools](%C2%A7%2000430b%20-%20Executive%20agent%20for%20open-source%20intelligence%20tools.md)
+- [&sect; 00430c - Senior intelligence oversight official 1](%C2%A7%2000430c%20-%20Senior%20intelligence%20oversight%20official%201.md)
+- [&sect; 00430d - Cyber intelligence capability](%C2%A7%2000430d%20-%20Cyber%20intelligence%20capability.md)

@@ -52,7 +52,7 @@
 
 #### (E) Limitation on certain assumptions
 
-&emsp;&emsp;(i) For purposes of adjusting any limitation under subparagraph (C) and, except asprovided in clause (ii), for purposes of adjusting any benefit under subparagraph (B), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.
+&emsp;&emsp;(i) For purposes of adjusting any limitation under subparagraph (C) and, except as provided in clause (ii), for purposes of adjusting any benefit under subparagraph (B), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.
 
 &emsp;&emsp;(ii) For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3), the interest rate assumption shall not be less than the greatest of—
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(C) under which benefits are determined solely by reference to length of service, the particular years during which service was rendered, age at retirement, and date of retirement,
 
-&emsp;&emsp;(D) which provides that an employee who has at least 4 years of service has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions, and
+&emsp;&emsp;(D) which provides that an employee who has at least 4 years of service has a nonforfeitable right to 100 percent of his accruedbenefit derived from employer contributions, and
 
 &emsp;&emsp;(E) which requires, as a condition of participation in the plan, that an employee complete a period of not more than 60 consecutive days of service with the employer or employers maintaining the plan.
 
@@ -194,7 +194,7 @@
 
 #### (ii) Revocation of election
 
-&emsp;&emsp;&emsp;An election under clause (i) may be revoked not later than the last day of the third plan year beginning after the date of the enactment of this clause. The revocation shall apply to all plan years to which the election applied and to all subsequent plan years. Any amount paid by a plan in a taxable year ending after the revocation shall be includible in income in such taxable year under the rules of this chapter in effect for such taxable year, except that, for purposes of applying the limitationsimposed by this section, any portion of such amount which is attributable to any taxable year during which the election was in effect shall be treated as received in such taxable year.
+&emsp;&emsp;&emsp;An election under clause (i) may be revoked not later than the last day of the third plan year beginning after the date of the enactment of this clause. The revocation shall apply to all plan years to which the election applied and to all subsequent plan years. Any amount paid by a plan in a taxable year ending after the revocation shall be includible in income in such taxable year under the rules of this chapter in effect for such taxable year, except that, for purposes of applying the limitations imposed by this section, any portion of such amount which is attributable to any taxable year during which the election was in effect shall be treated as received in such taxable year.
 
 #### (11) Special limitation rule for governmental and multiemployer plans
 
@@ -342,7 +342,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B), in the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is adifficulty of care payment, the participant's compensation, or earned income, as the case may be, shall be increased by the amount so excluded.
+&emsp;&emsp;For purposes of paragraph (1)(B), in the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, the participant's compensation, or earned income, as the case may be, shall be increased by the amount so excluded.
 
 #### (B) Contributions allocable to difficulty of care payments treated as after-tax
 
@@ -462,7 +462,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;&emsp;(i) any contribution made directly by an employee under such an arrangement shall not be treated as an annual addition for purposes of subsection (c), and
 
-&emsp;&emsp;&emsp;(ii) any benefit under such arrangement which is allocable to an employer contribution which was transferred from a defined contribution plan and to which the requirements of subsection (c) were applied shall, for purposes of subsection (b), be treated as a benefit derived from an employee contribution (and subsection (c) shall not again apply to such contribution by reason of such transfer).
+&emsp;&emsp;&emsp;(ii) any benefit under such arrangement which is allocable to an employer contribution which was transferred from a defined contribution plan and to which therequirements of subsection (c) were applied shall, for purposes of subsection (b), be treated as a benefit derived from an employee contribution (and subsection (c) shall not again apply to such contribution by reason of such transfer).
 
 #### (B) Qualified cost-of-living arrangement defined
 
@@ -590,7 +590,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;&emsp;(i) more than 5 years of nonqualified service credit are taken into account for purposes of this subsection, or
 
-&emsp;&emsp;&emsp;(ii) any nonqualified service credit is taken into account under this subsectionbefore the employee has at least 5 years of participation under the plan.
+&emsp;&emsp;&emsp;(ii) any nonqualified service credit is taken into account under this subsection before the employee has at least 5 years of participation under the plan.
 
 #### (C) Nonqualified service credit
 
@@ -610,7 +610,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;In the case of a trustee-to-trustee transfer to which section 403(b)(13)(A) or 457(e)(17)(A) applies (without regard to whether the transfer is made between plans maintained by the same employer)—
 
-&emsp;&emsp;&emsp;(i) the limitations of subparagraph (B) shall not apply in determining whether the transfer is for the purchase of permissive service credit, and
+&emsp;&emsp;&emsp;(i) the limitations of subparagraph (B) shall not apply in determining whether thetransfer is for the purchase of permissive service credit, and
 
 &emsp;&emsp;&emsp;(ii) the distribution rules applicable under this title to the defined benefit governmental plan to which any amounts are so transferred shall apply to such amounts and any benefits attributable to such amounts.
 
@@ -624,7 +624,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 215(i)(2)(A) and 216(l) of the Act enacted sections 415(i)(2)(A) and 416(l) of Title 42, respectively. For complete classification of this Act to the Code, see Tables.
+The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 215(i)(2)(A) and 216(l) of the Act enacted sections 415(i)(2)(A) and 416(l) of Title 42, respectively. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of this clause, referred to in subsec. (b)(10)(C)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
@@ -700,7 +700,7 @@ Subsec. (b)(7). Pub. L. 107–16, §654(a)(2), inserted "(other than a multiempl
 
 Pub. L. 107–16, §611(a)(1)(C), substituted "one-half the amount otherwise applicable for such year under paragraph (1)(A) for '$160,000' " for "the greater of $68,212 or one-half the amount otherwise applicable for such year under paragraph (1)(A) for '$90,000' " in concluding provisions.
 
-Subsec. (b)(9). Pub. L. 107–16, §611(a)(5)(B), amended par. (9) generally, substituting present provisions forprovisions which provided that, in the case of any participant who was a commercial airline pilot, the rule of par. (2)(F)(i)(II) would apply, and if, as of the time of the participant's retirement, regulations prescribed by the Federal Aviation Administration required an individual to separate from service as a commercial airline pilot after attaining any age occurring on or after age 60 and before the social security retirement age, par. (2)(C) would be applied by substituting such age for the social security retirement age, and provisions which provided that if a participant separated from service before age 60, the rules of par. (2)(F) would apply.
+Subsec. (b)(9). Pub. L. 107–16, §611(a)(5)(B), amended par. (9) generally, substituting present provisions for provisions which provided that, in the case of any participant who was a commercial airline pilot, the rule of par. (2)(F)(i)(II) would apply, and if, as of the time of the participant's retirement, regulations prescribed by the Federal Aviation Administration required an individual to separate from service as a commercial airline pilot after attaining any age occurring on or after age 60 and before the social security retirement age, par. (2)(C) would be applied by substituting such age for the social security retirement age, and provisions which provided that if a participant separated from service before age 60, the rules of par. (2)(F) would apply.
 
 Subsec. (b)(10)(C)(i). Pub. L. 107–16, §611(a)(5)(C), struck out "applied without regard to paragraph (2)(F)" before period at end.
 
@@ -726,7 +726,7 @@ Subsec. (d)(3)(A). Pub. L. 107–16, §611(a)(4)(B), in heading substituted "$16
 
 Subsec. (d)(3)(D). Pub. L. 107–16, §611(b)(2)(B), in heading substituted "$40,000" for "$30,000" and in text substituted "July 1, 2001" for "October 1, 1993".
 
-Subsec. (d)(4). Pub. L. 107–16, §611(h), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: "Any increase under subparagraph (A) or (C) of paragraph (1) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000."
+Subsec. (d)(4). Pub. L. 107–16, §611(h), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: "Anyincrease under subparagraph (A) or (C) of paragraph (1) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000."
 
 Subsec. (f)(3). Pub. L. 107–16, §654(b)(1), added par. (3).
 
@@ -878,7 +878,7 @@ Subsec. (c)(6)(B)(iii), (iv). Pub. L. 99–514, §1174(d)(2)(A), struck out cls.
 
 Subsec. (c)(6)(C). Pub. L. 99–514, §1174(d)(2)(B), substituted "highly compensated employees (within the meaning of section 414(q))" for "the group of employees consisting of officers, shareholders owning more than 10 percent of the employer's stock (determined under subparagraph (B)(iv)), or employees described in subparagraph (B)(iii)".
 
-Subsec. (d)(1)(B), (C). Pub. L. 99–514, §1106(g)(1), redesignated subpar. (C) as (B) and struck out former subpar.\(B), which related to the $30,000 amount in subsection (c)(1)(A).
+Subsec. (d)(1)(B), (C). Pub. L. 99–514, §1106(g)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to the $30,000 amount in subsection (c)(1)(A).
 
 Subsec. (d)(2)(A). Pub. L. 99–514, §1106(g)(2)(A), substituted "subparagraph (A)" for "subparagraphs (A) and (B)".
 
@@ -958,7 +958,7 @@ Subsec. (e)(1). Pub. L. 97–248, §235(c)(1), substituted "1.0" for "1.4".
 
 Subsec. (e)(2)(B). Pub. L. 97–248, §235(c)(2)(A), substituted provisions that for purposes of this subsection, the defined benefit plan fraction for any year has a denominator which is the lesser of the product of 1.25 multiplied by the dollar limitation in effect under subsec. (b)(1)(A) for such year, or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (b)(1)(B) with respect to such individual under the plan for such year, for provisions that such benefit plan fraction had a denominator which was the projected annual benefit of the participant under the plan (determined as of the close of the year) if the plan provided the maximum benefit allowable under subsec. (b).
 
-Subsec. (e)(3)(B). Pub. L. 97–248, §235(c)(2)(B), substituted provision that the defined contribution plan fraction for any year has a denominator which, determined for such year and for each prior year of service with the employer, is the lesser of either the product of 1.25 multiplied by the dollar limitation in effect under subsec. (c)(1)(A) for such year (determined without regard to subsec. (c)(6)), or the product of 1.4 multiplied by the amount which may be taken into account undersubsec. (c)(1)(B) (or subsec. (c)(7) or (8), if applicable) with respect to such individual under such plan for such year, for provision that the denominator of such fraction was the sum of the maximum amount of annual additions to the participant's account which could have been made under subsec. (c) for such year and for each prior year of service with the employer (determined without regard to subsec. (c)(6)).
+Subsec. (e)(3)(B). Pub. L. 97–248, §235(c)(2)(B), substituted provision that the defined contribution plan fraction for any year has a denominator which, determined for such year and for each prior year of service with the employer, is the lesser of either the product of 1.25 multiplied by the dollar limitation in effect under subsec. (c)(1)(A) for such year (determined without regard to subsec. (c)(6)), or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (c)(1)(B) (or subsec. (c)(7) or (8), if applicable) with respect to such individual under such plan for such year, for provision that the denominator of such fraction was the sum of the maximum amount of annual additions to the participant's account which could have been made under subsec. (c) for such year and for each prior year of service with the employer (determined without regard to subsec. (c)(6)).
 
 Subsec. (e)(6). Pub. L. 97–248, §235(d), added par. (6).
 
@@ -1066,7 +1066,7 @@ Amendment by section 407(b) of Pub. L. 109–135 effective as if included in the
 
 #### Effective Date of 2004 Amendments
 
-Amendment by section 404(b)(2) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+Amendment by section 404(b)(2) of Pub. L. 108–311 effective as if included in the provisions of the EconomicGrowth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 Amendment by Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
 
@@ -1274,7 +1274,7 @@ Pub. L. 99–514, title XI, §1174(d)(3), Oct. 22, 1986, 100 Stat. 2518, provide
 
 Amendment by sections 1847(b)(4), 1852(h)(2), (3), and 1875(c)(9), (11) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Amendment by section 1898(b)(15)(C) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1898(b)(15)(C) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which suchamendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -1336,7 +1336,7 @@ Right to higher accrued defined benefit preserved.—
 
 &emsp;"(A)
 
-In general.—In the case of an individual who is a participant before January 1, 1983, in a defined benefit plan which is in existence on July 1, 1982, and with respect to which the requirements of section 415 of such Code have been met for all years, if such individual's current accrued benefit under such plan exceeds the limitation of subsection (b) of section 415 ofthe Internal Revenue Code of 1986 (as amended by this section), then (in the case of such plan) for purposes of subsections (b) and (e) of such section, the limitation of such subsection (b) with respect to such individual shall be equal to such current accrued benefit.
+In general.—In the case of an individual who is a participant before January 1, 1983, in a defined benefit plan which is in existence on July 1, 1982, and with respect to which the requirements of section 415 of such Code have been met for all years, if such individual's current accrued benefit under such plan exceeds the limitation of subsection (b) of section 415 of the Internal Revenue Code of 1986 (as amended by this section), then (in the case of such plan) for purposes of subsections (b) and (e) of such section, the limitation of such subsection (b) with respect to such individual shall be equal to such current accrued benefit.
 
 &emsp;"(B)
 

@@ -20,7 +20,7 @@
 
 #### (i) For those receiving distant signals
 
-&emsp;&emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17 (in this subparagraph referred to as a "distant signal"), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
+&emsp;&emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the signalof a network station solely by reason of section 119(e) <sup>1</sup> of title 17 (in this subparagraph referred to as a "distant signal"), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(I) In a case in which the satellite carrier makes available to the subscriber the signal of a local network station affiliated with the same television network pursuant to section 338 of this title, the carrier may only provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber—
 
@@ -32,7 +32,7 @@
 
 #### (ii) For those not receiving distant signals
 
-&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive thedistant signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
+&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of section 119(e) <sup>1</sup> of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
 
 #### (B) Rules for other subscribers
 
@@ -64,7 +64,7 @@
 
 #### (i) Eligibility and signal testing
 
-&emsp;&emsp;&emsp;A subscriber of a satellite carrier shall be eligible to receive a distant signal of a network station affiliated with the same network under this section if, with respect to a local network station, such subscriber—
+&emsp;&emsp;&emsp;A subscriber of a satellite carrier shall be eligible to receive a distant signal of anetwork station affiliated with the same network under this section if, with respect to a local network station, such subscriber—
 
 &emsp;&emsp;&emsp;&emsp;(I) is a subscriber whose household is not predicted by the model specified in subsection (c)(3) to receive the signal intensity required under section 73.622(e)(1) or, in the case of a low-power station or translator station transmitting an analog signal, section 73.683(a) of title 47, Code of Federal Regulations, or a successor regulation;
 
@@ -78,7 +78,7 @@
 
 #### (iii) Time-shifting prohibited
 
-&emsp;&emsp;&emsp;In a case in which the satellite carrier makes available to an eligible subscriber under this subparagraph the signal of alocal network station pursuant to section 338 of this title, the carrier may only provide the distant signal of a station affiliated with the same network to that subscriber if, in the case of any local market in the 48 contiguous States of the United States, the distant signal is the secondary transmission of a station whose prime time network programming is generally broadcast simultaneously with, or later than, the prime time network programming of the affiliate of the same network in the local market.
+&emsp;&emsp;&emsp;In a case in which the satellite carrier makes available to an eligible subscriber under this subparagraph the signal of a local network station pursuant to section 338 of this title, the carrier may only provide the distant signal of a station affiliated with the same network to that subscriber if, in the case of any local market in the 48 contiguous States of the United States, the distant signal is the secondary transmission of a station whose prime time network programming is generally broadcast simultaneously with, or later than, the prime time network programming of the affiliate of the same network in the local market.
 
 #### (iv) Savings provision
 
@@ -124,7 +124,7 @@
 
 #### (3) Penalty for violation
 
-&emsp;Any satellite carrier that knowingly and willfully provides the signals of television stations to subscribers in violation of this subsection shall be liable for a forfeiture penalty under section 503 of this title in the amount of $50,000 for each violation or each day of a continuing violation, except that paragraph (2)(D) of this subsection, relating to the provision of distant digital signals, shall be enforceable under the provisions of section 340(f) of this title.
+&emsp;Any satellite carrier that knowingly and willfully provides the signals of television stations to subscribers in violation of this subsection shall be liable for a forfeiture penalty under section 503 of this title in the amount of $50,000 for each violation or each day of a continuing violation, except that paragraph (2)(D) of this subsection, relating to the provision ofdistant digital signals, shall be enforceable under the provisions of section 340(f) of this title.
 
 #### (b) Extension of network nonduplication, syndicated exclusivity, and sports blackout to satellite retransmission
 
@@ -146,7 +146,7 @@
 
 #### (2) Waivers
 
-&emsp;A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request,through such subscriber's satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) <sup>1</sup> of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
+&emsp;A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request, through such subscriber's satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) <sup>1</sup> of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
 
 #### (3) Establishment of improved predictive model and on-location testing required
 

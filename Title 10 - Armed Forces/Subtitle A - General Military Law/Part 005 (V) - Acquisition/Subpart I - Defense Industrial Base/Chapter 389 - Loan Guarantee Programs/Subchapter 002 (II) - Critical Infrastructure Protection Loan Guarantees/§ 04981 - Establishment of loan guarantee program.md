@@ -28,7 +28,7 @@ Qualified Commercial Firms.—For purposes of this section, a qualified commerci
 
 (c)
 
-Loan Limits.—The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed $10,000,000, with respect to all borrowers.
+Loan Limits.—The maximum amount of loan principal guaranteed during a fiscal yearunder this section may not exceed $10,000,000, with respect to all borrowers.
 
 (d)
 
@@ -56,7 +56,7 @@ Subsec. (b)(5). Pub. L. 116–283, §1873(e)(1), substituted "section 4985" for 
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII ofPub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

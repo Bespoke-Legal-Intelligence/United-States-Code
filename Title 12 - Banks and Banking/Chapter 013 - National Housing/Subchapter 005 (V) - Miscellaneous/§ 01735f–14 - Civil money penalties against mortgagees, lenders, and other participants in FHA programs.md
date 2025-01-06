@@ -10,7 +10,7 @@
 
 &emsp;The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by any particular mortgagee or lender or such other person or entity during any 1-year period shall not exceed $1,000,000. Each violation of a <sup>2</sup> the provisions of subsection (b)(1) shall constitute a separate violation with respect to each mortgage or loan application. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
 
-&emsp;In the case of the mortgagee's failure to engage in loss mitigation activities, as providedin subsection (b)(1)(I), the penalty shall be in the amount of three times the amount of any insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
+&emsp;In the case of the mortgagee's failure to engage in loss mitigation activities, as provided in subsection (b)(1)(I), the penalty shall be in the amount of three times the amount of any insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
 
 #### (b) Violations for which a penalty may be imposed
 
@@ -162,7 +162,7 @@ Subsec. (b)(1)(I). Pub. L. 105–276, §601(h), which directed the addition of s
 
 <b>1997</b>—Pub. L. 105–65, §553(a), amended section catchline generally, substituting "mortgagees, lenders, and other participants in FHA programs" for "mortgagees and lenders".
 
-Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
+Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, ora principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
 
 Subsec. (a)(2). Pub. L. 105–65, §553(b)(2), inserted "or such other person or entity" after "lender" in first sentence and substituted "the provisions of subsection (b)(1)" for "provision of subsection (b)(1)" in second sentence.
 
@@ -208,7 +208,7 @@ Issuance of Necessary Regulations.—Notwithstanding section 7(o) of the Departm
 
 "(b)
 
-Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, inthe discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking."
+Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, in the discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

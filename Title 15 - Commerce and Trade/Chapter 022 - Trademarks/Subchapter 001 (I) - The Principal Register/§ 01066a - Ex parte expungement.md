@@ -48,7 +48,7 @@ The procedures for ex parte expungement shall be the same as the procedures for 
 
 #### (e) Registrant's evidence of use
 
-A registrant's documentary evidence of use shall be consistent with when a mark shall bedeemed to be in use in commerce under the definition of "use in commerce" in section 1127 of this title, but shall not be limited in form to that of specimens as provided in section 1051(a) of this title.
+A registrant's documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of "use in commerce" in section 1127 of this title, but shall not be limited in form to that of specimens as provided in section 1051(a) of this title.
 
 #### (f) Excusable nonuse
 
@@ -72,7 +72,7 @@ For each good or service for which it is determined that a mark has never been u
 
 #### (1) When petition may be filed, ex parte expungement proceeding instituted
 
-&emsp;A petition for ex parte expungement of a registration under subsection (a) may be filed, or the Director may institute on the Director's own initiative an ex parte expungement proceeding of a registration under subsection (h), at any time following the expiration of 3 years after the date of registration and before the expiration of 10 years following the date of registration.
+&emsp;A petition for ex parte expungement of a registration under subsection (a) may be filed,or the Director may institute on the Director's own initiative an ex parte expungement proceeding of a registration under subsection (h), at any time following the expiration of 3 years after the date of registration and before the expiration of 10 years following the date of registration.
 
 #### (2) Exception
 

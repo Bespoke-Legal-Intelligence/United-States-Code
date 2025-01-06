@@ -14,7 +14,7 @@ There are hereby authorized to be appropriated such sums, but not more than $5,4
 
 #### Change of Name
 
-Golden Spike National Historic Site was redesignated Golden Spike National Historical Park by Pub. L. 116–9,title II, §2205(b), Mar. 12, 2019, 133 Stat. 738, which is classified to section 410cccc–3(b) of this title.
+Golden Spike National Historic Site was redesignated Golden Spike National Historical Park by Pub. L. 116–9, title II, §2205(b), Mar. 12, 2019, 133 Stat. 738, which is classified to section 410cccc–3(b) of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

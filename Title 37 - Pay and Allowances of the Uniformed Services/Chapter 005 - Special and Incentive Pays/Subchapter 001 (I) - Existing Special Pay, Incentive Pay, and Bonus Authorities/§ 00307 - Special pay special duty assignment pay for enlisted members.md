@@ -6,7 +6,7 @@
 
 (c) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(d)(1) Under regulations prescribed by the Secretary concerned and to the extent provided for by appropriations, when an enlisted member of the National Guard or a reserve component of a uniformed service who is entitled to compensation under section 206 of this title performs duty for which a member described in subsection (a) is entitled to special pay under such subsection, the member of the National Guard or reserve component is entitled to an increase in compensation equal to 1/30 of the monthly special duty assignment pay prescribed by the Secretary concerned for the performance of that same duty by members described in subsection (a).
+(d)(1) Under regulations prescribed by the Secretary concerned and to the extent provided for by appropriations, when an enlisted member ofthe National Guard or a reserve component of a uniformed service who is entitled to compensation under section 206 of this title performs duty for which a member described in subsection (a) is entitled to special pay under such subsection, the member of the National Guard or reserve component is entitled to an increase in compensation equal to 1/30 of the monthly special duty assignment pay prescribed by the Secretary concerned for the performance of that same duty by members described in subsection (a).
 
 (2) A member of the National Guard or a reserve component entitled to an increase in compensation under paragraph (1) is entitled to the increase—
 
@@ -82,7 +82,7 @@ Subsecs. (c), (d). Pub. L. 98–525 redesignated subsec. (d) as (c) and substitu
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 2000 Amendment
 

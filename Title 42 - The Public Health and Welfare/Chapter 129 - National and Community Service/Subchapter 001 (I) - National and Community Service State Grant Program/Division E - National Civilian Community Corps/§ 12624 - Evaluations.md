@@ -16,7 +16,7 @@ A prior section 164 of Pub. L. 101–610 was classified to section 12615 of this
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13 in section catchline substituted "Evaluations" for "Annual evaluation" and in text substituted "periodic evaluations" for "an annual evaluation" and "National Civilian Community Corps Program" for "Civilian Community Corps programs" and inserted at end "Upon completing each such evaluation, the Corporation shall transmit to the authorizing committees a report on the evaluation."
+<b>2009</b>—Pub. L. 111–13 in section catchline substituted "Evaluations" for "Annual evaluation" and in textsubstituted "periodic evaluations" for "an annual evaluation" and "National Civilian Community Corps Program" for "Civilian Community Corps programs" and inserted at end "Upon completing each such evaluation, the Corporation shall transmit to the authorizing committees a report on the evaluation."
 
 <b>1993</b>—Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 

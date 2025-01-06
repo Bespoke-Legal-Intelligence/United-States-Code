@@ -14,7 +14,7 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;(1) such association is in the public interest and that it will be able to comply with the provisions of this section and the rules and regulations thereunder and to carry out the purposes of this section;
 
-&emsp;(2) the rules of the association provide that any person registered under this chapter, registered entity, or any other person designated pursuant to the rules of the Commission as eligible for membership may become a member of such association, except such as are excluded pursuant to paragraph (3) or (4) of this subsection, or a rule of the association permitted under this subparagraph. The rules of the association may restrict membership insuch association on such specified basis relating to the type of business done by its members, or on such other specified and appropriate basis, as appears to the Commission to be necessary or appropriate in the public interest and to carryout the purpose of this section. Rules adopted by the association may provide that the association may, unless the Commission directs otherwise in cases in which the Commission finds it appropriate in the public interest so to direct, deny admission to, or refuse to continue in such association any person if (i) such person, whether prior or subsequent to becoming registered as such, or (ii) any person associated within the meaning of "associated person" as set forth in section 6k of this title, whether prior or subsequent to becoming so associated, has been and is suspended or expelled from a registered entity or has been and is barred or suspended from being associated with all members of such registered entity, for violation of any rule of such registered entity;
+&emsp;(2) the rules of the association provide that any person registered under this chapter, registered entity, or any other person designated pursuant to the rules of the Commission as eligible for membership may become a member of such association, except such as are excluded pursuant to paragraph (3) or (4) of this subsection, or a rule of the association permitted under this subparagraph. The rules of the association may restrict membership in such association on such specified basis relating to the type of business done by its members, or on such other specified and appropriate basis, as appears to the Commission to be necessary or appropriate in the public interest and to carryout the purpose of this section. Rules adopted by the association may provide that the association may, unless the Commission directs otherwise in cases in which the Commission finds it appropriate in the public interest so to direct, deny admission to, or refuse to continue in such association any person if (i) such person, whether prior or subsequent to becoming registered as such, or (ii) any person associated within the meaning of "associated person" as set forth in section 6k of this title, whether prior or subsequent to becoming so associated, has been and is suspended or expelled from a registered entity or has been and is barred or suspended from being associated with all members of such registered entity, for violation of any rule of such registered entity;
 
 &emsp;(3) the rules of the association provide that, except with the approval or at the direction of the Commission in cases in which the Commission finds it appropriate in the public interest so to approve or direct, no person shall be admitted to or continued in membership in such association, if such person—
 
@@ -42,9 +42,9 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;(5) the rules of the association assure a fair representation of its members in the adoption of any rule of the association or amendment thereto, the selection of its officers and directors, and in all other phases of the administration of its affairs;
 
-&emsp;(6) the rules of the association provide for the equitable allocation of dues among itsmembers, to defray reasonable expenses of administration;
+&emsp;(6) the rules of the association provide for the equitable allocation of dues among its members, to defray reasonable expenses of administration;
 
-&emsp;(7) the rules of the association are designed to prevent fraudulent and manipulative acts and practices, to promote just and equitable principles of trade, in general, to protect the public interest, and to remove impediments to and perfect the mechanism of free and open futures trading;
+&emsp;(7) the rules of the association are designed to prevent fraudulent and manipulative actsand practices, to promote just and equitable principles of trade, in general, to protect the public interest, and to remove impediments to and perfect the mechanism of free and open futures trading;
 
 &emsp;(8) the rules of the association provide that its members and persons associated with its members shall be appropriately disciplined, by expulsion, suspension, fine, censure, or being suspended or barred from being associated with all members, or any other fitting penalty, for any violation of its rules;
 
@@ -78,7 +78,7 @@ An applicant association shall not be registered as a futures association unless
 
 #### (c) Suspension of registration
 
-The Commission may, after notice and opportunity for hearing, suspend the registration of any futures association if it finds that the rules thereof do not conform to the requirements ofthe Commission, and any such suspension shall remain in effect until the Commission issues an order determining that such rules have been modified to conform with such requirements.
+The Commission may, after notice and opportunity for hearing, suspend the registration of any futures association if it finds that the rules thereof do not conform to the requirements of the Commission, and any such suspension shall remain in effect until the Commission issues an order determining that such rules have been modified to conform with such requirements.
 
 #### (d) Fees and charges
 
@@ -164,7 +164,7 @@ The Commission is authorized, if such action appears to it to be necessary or ap
 
 &emsp;(2) after appropriate notice and opportunity for hearing, by order to suspend for a period not exceeding twelve months or to expel from a registered futures association any member thereof, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof, if the Commission finds that such member or person—
 
-&emsp;&emsp;(A) has violated any provision of this chapter or any rule or regulation thereunder, orhas effected any transaction for any other person who, he had reason to believe, was violating with respect to such transaction any provision of this chapter or any rule or regulation thereunder; or
+&emsp;&emsp;(A) has violated any provision of this chapter or any rule or regulation thereunder, or has effected any transaction for any other person who, he had reason to believe, wasviolating with respect to such transaction any provision of this chapter or any rule or regulation thereunder; or
 
 &emsp;&emsp;(B) has willfully violated any provision of this chapter, or of any rule, regulation, or order thereunder, or has effected any transaction for any other person who, he had reason to believe, was willfully violating with respect to such transaction any provision of this chapter or rule, regulation, or order; and
 

@@ -56,7 +56,7 @@ Waiver for Periods of War or National Emergency.—Subsections (d) and (e) do no
 
 #### Prior Provisions
 
-A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 Stat. 2868; amended Pub. L. 98–94, titleX, §1017(b)(1)–(3), Sept. 24, 1983, 97 Stat. 669; Pub. L. 99–145, title V, §516, Nov. 8, 1985, 99 Stat. 630; Pub. L. 102–190, div. A, title V, §506(a), Dec. 5, 1991, 105 Stat. 1359; Pub. L. 103–160, div. A, title V, §563, Nov. 30, 1993, 107 Stat. 1669, provided that certain retired members of the armed forces could be ordered to active duty, prior to repeal by Pub. L. 104–201, div. A, title V, §521(a), (b), Sept. 23, 1996, 110 Stat. 2515, 2517, effective Sept. 30, 1997. See sections 688 to 690 of this title.
+A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 Stat. 2868; amended Pub. L. 98–94, title X, §1017(b)(1)–(3), Sept. 24, 1983, 97 Stat. 669; Pub. L. 99–145, title V, §516, Nov. 8, 1985, 99 Stat. 630; Pub. L. 102–190, div. A, title V, §506(a), Dec. 5, 1991, 105 Stat. 1359; Pub. L. 103–160, div. A, title V, §563, Nov. 30, 1993, 107 Stat. 1669, provided that certain retired members of the armed forces could be ordered to active duty, prior to repeal by Pub. L. 104–201, div. A, title V, §521(a), (b), Sept. 23, 1996, 110 Stat. 2515, 2517, effective Sept. 30, 1997. See sections 688 to 690 of this title.
 
 #### Amendments
 

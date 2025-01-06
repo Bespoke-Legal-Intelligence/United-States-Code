@@ -18,7 +18,7 @@ Within 5 days after the date the Secretary takes any adverse action under this p
 
 #### (1) In general
 
-&emsp;Within 90 days after the date of a final decision by the Board under this section with respect to an adverse action taken against aState, the State may obtain judicial review of the final decision (and the findings incorporated into the final decision) by filing an action in—
+&emsp;Within 90 days after the date of a final decision by the Board under this section with respect to an adverse action taken against a State, the State may obtain judicial review of the final decision (and the findings incorporated into the final decision) by filing an action in—
 
 &emsp;&emsp;(A) the district court of the United States for the judicial district in which the principal or headquarters office of the State agency is located; or
 

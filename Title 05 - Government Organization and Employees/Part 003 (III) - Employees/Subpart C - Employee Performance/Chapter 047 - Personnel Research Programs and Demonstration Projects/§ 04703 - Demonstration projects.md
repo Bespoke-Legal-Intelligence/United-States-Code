@@ -102,7 +102,7 @@
 
 &emsp;(1) the aggregate performance appraisal ratings and compensation costs for employees under a demonstration project;
 
-&emsp;(2) an assessment of the results of the demonstration project, including its impact on mission goals, employee recruitment, retention, and satisfaction, and which may include the results of the survey authorized under section 1128 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 7101 note), commonly referred to as the Federal Employee Viewpoint Survey, and performance management for employees; and
+&emsp;(2) an assessment of the results of the demonstration project, including its impact on mission goals, employee recruitment, retention, and satisfaction, and which may include the results of the survey authorized under section 1128 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 7101 note), commonly referredto as the Federal Employee Viewpoint Survey, and performance management for employees; and
 
 &emsp;(3) a comparison of the items listed in (1) and (2) with employees not covered by the demonstration project.
 

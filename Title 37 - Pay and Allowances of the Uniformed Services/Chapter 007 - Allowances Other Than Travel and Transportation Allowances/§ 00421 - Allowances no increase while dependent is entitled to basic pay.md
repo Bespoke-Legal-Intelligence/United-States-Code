@@ -1,6 +1,6 @@
 ### §421. Allowances: no increase while dependent is entitled to basic pay
 
-A member of a uniformed service may not be paid an increased allowance under this chapter, on account of a dependent, for any period during which that dependent is entitled to basic pay under section 204 of this title.
+A member of a uniformed service may not be paid an increased allowance under this chapter,on account of a dependent, for any period during which that dependent is entitled to basic pay under section 204 of this title.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479, §420; renumbered §421, Pub. L. 100–180, div. A, title VI, §611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093.)
 

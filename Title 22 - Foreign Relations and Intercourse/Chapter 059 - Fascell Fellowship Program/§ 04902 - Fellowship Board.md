@@ -42,7 +42,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–454, §9(c)(2), Oct. 24, 1990, 104 Stat. 1066, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section \[Oct. 24, 1990\] and shall not affect the service of members of such board on the date of the enactment of this section."
+Pub. L. 101–454, §9(c)(2), Oct. 24, 1990, 104 Stat. 1066, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section \[Oct. 24, 1990\] and shall not affect the service of members of such board on the date of the enactment of this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "member".</i>
 

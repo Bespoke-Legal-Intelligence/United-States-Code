@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;Notwithstanding clause (i), the Commonwealth of Puerto Rico may spend in fiscal year 2002 or 2003 not more than $6,000,000 of the amount required to be paid to the Commonwealth for fiscal year 2002 under this paragraph (as in effect on the day before May 13, 2002) to pay 100 percent of the costs of—
 
-&emsp;&emsp;&emsp;&emsp;(I) upgrading and modernizing the electronic data processing system used tocarry out nutrition assistance programs for needy persons;
+&emsp;&emsp;&emsp;&emsp;(I) upgrading and modernizing the electronic data processing system used to carry out nutrition assistance programs for needy persons;
 
 &emsp;&emsp;&emsp;&emsp;(II) implementing systems to simplify the determination of eligibility to receive the nutrition assistance; and
 
@@ -78,7 +78,7 @@
 
 (ii) The Secretary may suspend the termination of payments under subparagraph (C)(i) for such period as the Secretary determines appropriate, and instead withhold payments provided for under subsection (a), in whole or in part, until the Secretary is satisfied that there will no longer be any failure to comply with the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A), at which time such withheld payments shall be paid.
 
-(iii) Upon a finding under subparagraph (C)(i) of a substantial failure to comply with any of the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A), the Secretary may, inaddition to or in lieu of any action taken under subparagraphs (C)(i) and (C)(ii), refer the matter to the Attorney General with a request that injunctive relief be sought to require compliance by the Commonwealth of Puerto Rico, and upon suit by the Attorney General in an appropriate district court of the United States and a showing that noncompliance has occurred, appropriate injunctive relief shall issue.
+(iii) Upon a finding under subparagraph (C)(i) of a substantial failure to comply with any of the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A), the Secretary may, in addition to or in lieu of any action taken under subparagraphs (C)(i) and (C)(ii), refer the matter to the Attorney General with a request that injunctive relief be sought to require compliance by the Commonwealth of Puerto Rico, and upon suit by the Attorney General in an appropriate district court of the United States and a showing that noncompliance has occurred, appropriate injunctive relief shall issue.
 
 #### (c) Review; technical assistance
 
@@ -282,7 +282,7 @@ Study of Nutritional Needs of Puerto Ricans.—The Comptroller General of the Un
 
 "(d)
 
-Report of Findings.—Not later than August 1, 1992, the Comptroller General shall submit a final report on the findings of the study required under subsection (c) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate."
+Report of Findings.—Not later than August 1, 1992, the Comptroller General shall submit a final report on the findings of the study required under subsection (c) to the Committee on Agriculture of theHouse of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate."
 
 #### Study of Food Assistance Program in Puerto Rico; Report to Congress by March 1, 1985
 

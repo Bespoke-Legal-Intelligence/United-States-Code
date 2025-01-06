@@ -80,5 +80,5 @@ Pub. L. 97–35, title XXV, §2529, Aug. 13, 1981, 95 Stat. 893, provided that:
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part afterJune 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this part after June 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 

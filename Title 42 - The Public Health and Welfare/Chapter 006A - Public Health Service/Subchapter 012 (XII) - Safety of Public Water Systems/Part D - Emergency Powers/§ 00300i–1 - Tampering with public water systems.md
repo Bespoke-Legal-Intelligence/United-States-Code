@@ -2,7 +2,7 @@
 
 #### (a) Tampering
 
-Any person who tampers with a public water system shall be imprisoned for not more than 20years, or fined in accordance with title 18, or both.
+Any person who tampers with a public water system shall be imprisoned for not more than 20 years, or fined in accordance with title 18, or both.
 
 #### (b) Attempt or threat
 

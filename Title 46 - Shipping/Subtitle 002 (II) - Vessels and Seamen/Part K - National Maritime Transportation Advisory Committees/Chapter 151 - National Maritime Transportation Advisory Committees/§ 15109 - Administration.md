@@ -10,7 +10,7 @@ In general.—Except as provided in paragraph (2), each committee established un
 
 &emsp;(2)
 
-Minimum requirements.—The committee established under section 15102,<sup>1</sup> shall—
+Minimum requirements.—The committee established under section 15102 shall—
 
 &emsp;&emsp;(A) meet in-person, not less frequently than twice each year, at the call of the Secretary of a majority of the members of the committee;
 
@@ -122,7 +122,7 @@ In general.—The term of each member of a committee established under this chap
 
 &emsp;&emsp;(B)
 
-Continued service after term.—When the term of a member of a committee established under this chapter or to which this chapter applies ends, the member, for a period not to exceed 1 year, may continue to serve as a member until a successor is appointed.
+Continued service after term.—When the term of a member of a committee established under this chapter or to which this chapter applies ends, the member, for a period not to exceed 1 year, may continue toserve as a member until a successor is appointed.
 
 &emsp;(7)
 
@@ -190,7 +190,7 @@ Inclusion.—For purposes of this paragraph, regulations proposed under chapter 
 
 &emsp;(2)
 
-Advice, reports, and recommendations.—Each committee established under this chapter or to which this chapter applies shallsubmit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
+Advice, reports, and recommendations.—Each committee established under this chapter or to which this chapter applies shall submit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
 
 &emsp;(3)
 
@@ -222,7 +222,7 @@ Observers.—
 
 &emsp;(1)
 
-In general.—Any Federal agency with matters under such agency's administrative jurisdiction related to the function of a committee established under this chapter <sup>2</sup> may designate a representative to—
+In general.—Any Federal agency with matters under such agency's administrative jurisdiction related to the function of a committee established under this chapter or to which this chapter applies may designate a representative to—
 
 &emsp;&emsp;(A) attend any meeting of such committee; and
 
@@ -252,11 +252,15 @@ Termination.—Each committee established under this chapter or to which this ch
 
 Savings Clause.—Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.
 
-(Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4286; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §§8331(b), 8335(a)(2), title LVXXXV \[LXXXV\], §8505(b)(14), Jan. 1, 2021, 134 Stat. 4703, 4707, 4752.)
+(Added Pub. L. 115–282, title VI, §601(a), Dec. 4, 2018, 132 Stat. 4286; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §§8331(b), 8335(a)(2), title LVXXXV \[LXXXV\], §8505(b)(14), Jan. 1, 2021, 134 Stat. 4703, 4707, 4752; Pub. L. 118–159, div. C, title XXXV, §3535(e), Dec. 23, 2024, 138 Stat. 2315.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–159, §3535(e)(1), substituted "15102" for "15102," in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 118–159, §3535(e)(2), inserted "or to which this chapter applies" after "under this chapter" in introductory provisions.
 
 <b>2021</b>—Pub. L. 116–283, §8331(b), inserted "or to which this chapter applies" after "committee established under this chapter" wherever appearing. The phrase "committee established under this chapter" in subsec. (k) was added subsequent to this amendment, and therefore the inserted phrase does not appear there. See subsec. (k) Amendment note below.
 
@@ -281,8 +285,4 @@ Pub. L. 116–283, §8335(a)(2)(E), substituted "2029" for "2027".
 Subsec. (m). Pub. L. 116–283, §8335(a)(2)(F), redesignated subsec. (l) as (m).
 
 Subsec. (n). Pub. L. 116–283, §8335(a)(2)(H), added subsec. (n).
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "or to which this chapter applies".</i>
 

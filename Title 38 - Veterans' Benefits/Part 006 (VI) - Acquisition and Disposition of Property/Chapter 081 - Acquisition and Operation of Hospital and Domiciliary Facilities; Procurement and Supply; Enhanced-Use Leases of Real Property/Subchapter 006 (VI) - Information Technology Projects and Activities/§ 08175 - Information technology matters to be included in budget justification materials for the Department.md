@@ -38,7 +38,7 @@ Prioritized List of Unfunded Projects.—(1) In addition to the list included in
 
 &emsp;(viii) Such other factors as the Secretary considers appropriate.
 
-(B) The Secretary shall ensure that each list produced under paragraph (1) includes, for each information technology project included in the list, a brief description of the findings of the Secretary with respect to each assessment carried out by the Secretary for each factor for the information technology project under subparagraph (A).
+(B) The Secretary shall ensure that each list produced under paragraph (1) includes, for eachinformation technology project included in the list, a brief description of the findings of the Secretary with respect to each assessment carried out by the Secretary for each factor for the information technology project under subparagraph (A).
 
 (c)
 

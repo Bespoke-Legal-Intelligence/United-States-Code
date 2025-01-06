@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The United States International Trade Commission (in this section referred to as the "Commission") shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers and on the economy of the beneficiary countries.
+&emsp;The United States International Trade Commission (in this section referred to as the"Commission") shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers and on the economy of the beneficiary countries.
 
 #### (2) First report
 
@@ -40,7 +40,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L. 98–67,Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 This Act, referred to in subsec. (b), probably should be "this title" meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 

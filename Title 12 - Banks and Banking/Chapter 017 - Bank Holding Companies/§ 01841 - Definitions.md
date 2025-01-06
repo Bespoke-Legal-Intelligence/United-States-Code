@@ -394,7 +394,7 @@ Subsecs. (j) to (m). Pub. L. 100–86, §101(a)(3), added subsecs. (j) to (m).
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–320, §404(d)(1), inserted references to State chartered banks and national banking associations as being included in definition of "bank".
 
-Pub. L. 97–320, §333, excepted from term "bank" an institution the accounts of which are insured by theFederal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
+Pub. L. 97–320, §333, excepted from term "bank" an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
 
 Subsec. (i)(4). Pub. L. 97–320, §118(b), added cl. (4).
 
@@ -464,7 +464,7 @@ Pub. L. 97–290, title II, §201, Oct. 8, 1982, 96 Stat. 1235, provided that: "
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–607, §1, Dec. 31, 1970, 84 Stat. 1760, provided: "That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the 'Bank Holding Company Act Amendments of 1970'."
+Pub. L. 91–607, §1, Dec. 31, 1970, 84 Stat. 1760, provided: "That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the 'Bank Holding Company Act Amendments of 1970'."
 
 #### Short Title
 

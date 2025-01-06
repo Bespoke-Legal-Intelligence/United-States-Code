@@ -64,7 +64,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection.
+Requirement.—The process established under subsection (a) shall include procedures to notify thepublic of any discontinuance of an aid to navigation described in that subsection.
 
 "(c)
 

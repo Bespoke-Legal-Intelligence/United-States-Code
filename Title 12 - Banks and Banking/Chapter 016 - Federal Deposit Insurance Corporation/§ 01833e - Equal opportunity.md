@@ -80,7 +80,7 @@ Subsec. (d)(3) to (8). Pub. L. 111–203, §367(9)(C), redesignated pars. (4), (
 
 <b>2008</b>—Subsec. (a)(3). Pub. L. 110–289, §1216(g)(1), added par. (3) and struck out former par. (3) which read as follows: "the Federal home loan banks;". See Codification note above.
 
-Subsec. (b). Pub. L. 110–289, §1216(g)(2), substituted "Federal Home Loan Banks, the Federal National Mortgage Association," for "Federal National Mortgage Association". See Codification note above.
+Subsec. (b). Pub. L. 110–289, §1216(g)(2), substituted "Federal Home Loan Banks, the Federal NationalMortgage Association," for "Federal National Mortgage Association". See Codification note above.
 
 Subsec. (c). Pub. L. 110–289, §1216(g)(3), substituted "Finance Agency" for "Finance Board". See Codification note above.
 

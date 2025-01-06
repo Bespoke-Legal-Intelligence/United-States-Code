@@ -52,7 +52,7 @@
 
 #### (2) Certificate of Origin
 
-&emsp;The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in thecase of an article imported under section 3721 of this title if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
+&emsp;The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
 #### (3) Penalties for exporters
 
@@ -122,7 +122,7 @@ Authority of President under subsec. (b)(3) of this section delegated to the Com
 
 #### Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences
 
-Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (4) that the United States Trade Representative is authorized to determine whether each designated beneficiary sub-Saharan African country has satisfied the requirements of section 3722(a) of this title, relating to the establishment of procedures to protect against unlawful transshipments and section 3722(b)(1)(B) of this title relating to the implementation of procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the North American Free Trade Agreement (NAFTA),is directed to set forth the determination in a notice to be published in the Federal Register which notice shall modify the Harmonized Tariff Schedule of the United States (HTS) by listing the countries that satisfy the requirements of sections 3722(a) and 3722(b)(1)(B) of this title, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the HTS.
+Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (4) that the United States Trade Representative is authorized to determine whether each designated beneficiary sub-Saharan African country has satisfied the requirements of section 3722(a) of this title, relating to the establishment of procedures to protect against unlawful transshipments and section 3722(b)(1)(B) of this title relating to the implementation of procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the North American Free Trade Agreement (NAFTA), is directed to set forth the determination in a notice to be published in the Federal Register which notice shall modify the Harmonized Tariff Schedule of the United States (HTS) by listing the countries that satisfy the requirements of sections 3722(a) and 3722(b)(1)(B) of this title, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the HTS.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@
 
 &emsp;(A) to enter into contracts with, accept grants from, and make grants to the Henry M. Jackson Foundation for the Advancement of Military Medicine established under section 178 of this title, or any other nonprofit entity, for the purpose of carrying out cooperative enterprises in medical research, medical consultation, and medical education;
 
-&emsp;(B) to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity,on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation, or nonprofit entity, and the University;
+&emsp;(B) to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation, or nonprofit entity, and the University;
 
 &emsp;(C) to enter into contracts with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, under which the Secretary may furnish the services of such professional, technical, or clerical personnel as may be necessary to fulfill cooperative enterprises undertaken by such foundation, or nonprofit entity, and the University;
 
@@ -116,7 +116,7 @@ Subsec. (f). Pub. L. 104–106, §1072(b)(2)(D), (F), in par. (1), substituted "
 
 Subsec. (g). Pub. L. 104–106, §1072(b)(2)(E), substituted "Secretary may negotiate agreements" for "Board is authorized to negotiate agreements", "Secretary may negotiate affiliation" for "Board is also authorized to negotiate affiliation", and "Secretary may enter" for "Board may also, subject to the approval of the Secretary of Defense, enter".
 
-Subsec. (h). Pub. L. 104–106, §1072(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "The Board may establish postdoctoral, postgraduate, and technological institutes."
+Subsec. (h). Pub. L. 104–106, §1072(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read asfollows: "The Board may establish postdoctoral, postgraduate, and technological institutes."
 
 Subsecs. (i), (j). Pub. L. 104–106, §1072(b)(2)(F), substituted "Secretary" for "Board" wherever appearing.
 

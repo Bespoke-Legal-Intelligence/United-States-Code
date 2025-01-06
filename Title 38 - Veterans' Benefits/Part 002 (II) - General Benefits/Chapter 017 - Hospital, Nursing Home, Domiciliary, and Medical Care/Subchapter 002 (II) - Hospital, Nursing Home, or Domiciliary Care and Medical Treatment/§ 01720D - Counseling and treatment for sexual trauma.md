@@ -8,7 +8,7 @@
 
 (3) In furnishing counseling to an individual under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that individual in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that individual economically because of geographical inaccessibility.
 
-(b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a former member of the Armed Forces eligible for counseling andcare and services under subsection (a), the Secretary shall ensure that the former member of the Armed Forces is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
+(b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a former member of the Armed Forces eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the former member of the Armed Forces is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
 (2) In establishing a program to provide counseling under subsection (a), the Secretary shall—
 
@@ -78,7 +78,7 @@
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(1). Pub. L. 116–315, §5301(a)(1)(A), (2), (3), (b)(1)(A), inserted ", to include care for physical health conditions, as appropriate," after "counseling and appropriate care and services" and substituted "former members of the Armed Forces" for "veterans", "treat a condition" for "overcome psychological trauma", "health care professional" for "mental healthprofessional", "former member of the Armed Forces" for "veteran", and "duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)" for "active duty, active duty for training, or inactive duty training".
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–315, §5301(a)(1)(A), (2), (3), (b)(1)(A), inserted ", to include care for physical health conditions, as appropriate," after "counseling and appropriate care and services" and substituted "former members of the Armed Forces" for "veterans", "treat a condition" for "overcome psychological trauma", "health care professional" for "mental health professional", "former member of the Armed Forces" for "veteran", and "duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)" for "active duty, active duty for training, or inactive duty training".
 
 Subsec. (a)(2)(A). Pub. L. 116–315, §5301(a)(1)(B), (b)(1)(B), substituted "treat a condition" for "overcome psychological trauma" and "duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)" for "active duty, active duty for training, or inactive duty training".
 
@@ -292,5 +292,5 @@ Pub. L. 102–585, title I, §104, Nov. 4, 1992, 106 Stat. 4946, directed Secret
 
 #### Report on Implementation of Sexual Trauma Counseling Program
 
-Pub. L. 102–585, title I, §105, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary's actions under 38 U.S.C. 1720D.
+Pub. L. 102–585, title I, §105, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not laterthan Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary's actions under 38 U.S.C. 1720D.
 

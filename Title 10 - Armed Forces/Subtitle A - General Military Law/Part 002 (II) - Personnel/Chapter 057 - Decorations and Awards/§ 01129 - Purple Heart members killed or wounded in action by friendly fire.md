@@ -32,7 +32,7 @@ Pub. L. 104–106, div. A, title V, §521, Feb. 10, 1996, 110 Stat. 309, as amen
 
 "(a)
 
-Award of Purple Heart.—For purposes of the award of the Purple Heart, the Secretary concerned (as defined in section 101 of title 10, United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (or while being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive).
+Award of Purple Heart.—For purposes of the award of the Purple Heart, the Secretary concerned (as defined in section 101 of title 10, United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (orwhile being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive).
 
 "(b)
 
@@ -110,5 +110,5 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 8\. The Secretary of the department concerned may prescribe such regulations as he considers appropriate to carry out this order. The regulations of the Secretaries of the departments with respect to the award of the Purple Heart shall, so far as practicable, be uniform, and those of the military departments shall be subject to the approval of the Secretary of Defense.
 
-9\. This order supersedes Executive Order No. 10409 of November 12, 1952, entitled "Award of the Purple Heart to Persons Serving with the Navy, Marine Corps, or Coast Guard of the United States". However, existing regulations prescribed pursuant to that order, together with regulations prescribed under the authority of General Orders No. 3, War Department, February 22, 1932, shall, so far as they are not inconsistent with this order, remain in effect until modified or revoked by regulations prescribed by the Secretary of the department concerned under this order.
+9\. This order supersedes Executive Order No. 10409 of November 12, 1952, entitled "Award of the Purple Heart to Persons Serving with the Navy, Marine Corps, orCoast Guard of the United States". However, existing regulations prescribed pursuant to that order, together with regulations prescribed under the authority of General Orders No. 3, War Department, February 22, 1932, shall, so far as they are not inconsistent with this order, remain in effect until modified or revoked by regulations prescribed by the Secretary of the department concerned under this order.
 

@@ -82,5 +82,5 @@ Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 100–202, §101(m) \[title VI, §625\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430.
 
-For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out section 618 of Pub. L. 100–440, set out above, during the period Dec. 1, 1989, to Dec. 18, 1989, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of Title 38, Veterans' Benefits. Similar provisions for the period Oct. 1, 1989, to Oct. 6, 1989, were contained in section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of Title 38.
+For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out section 618 of Pub.L. 100–440, set out above, during the period Dec. 1, 1989, to Dec. 18, 1989, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of Title 38, Veterans' Benefits. Similar provisions for the period Oct. 1, 1989, to Oct. 6, 1989, were contained in section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of Title 38.
 

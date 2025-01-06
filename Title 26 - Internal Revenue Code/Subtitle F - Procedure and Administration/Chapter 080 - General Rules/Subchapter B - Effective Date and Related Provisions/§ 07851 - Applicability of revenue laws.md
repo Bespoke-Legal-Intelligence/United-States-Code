@@ -26,7 +26,7 @@ Except as otherwise provided in any section of this title—
 
 #### (3) Subtitle C
 
-&emsp;Subtitle C of this title shall apply only with respect to remuneration paid after December 31, 1954, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after December 31, 1954, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after December 31, 1954, except that subchapter B of such chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after December 31, 1954, for services performed on or before such date.
+&emsp;Subtitle C of this title shall apply only with respect to remuneration paid after December 31, 1954, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after December 31, 1954, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after December 31, 1954, except that subchapter B ofsuch chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after December 31, 1954, for services performed on or before such date.
 
 #### (4) Subtitle D
 
@@ -114,7 +114,7 @@ For the purpose of applying the Internal Revenue Code of 1939 or the Internal Re
 
 #### References in Text
 
-The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7), (b)(2), (3), is Aug. 16, 1954.
+The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7) and (b)(2), (3), is Aug. 16, 1954.
 
 Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
@@ -128,7 +128,7 @@ Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)
 
 Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B), (4), was comprised of sections 1250 to 1254 of former Title 26, Internal Revenue Code.
 
-The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), and (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code.
 
 Sections 13(b)(3), 26(b)(2)(C), 26(h)(1)(C), 26(i)(3), 108(k), 207(a)(1)(C), 207(a)(3)(C), and the last sentence of section 362(b)(3), referred to in subsec. (a)(1)(D)(i), were classified to former sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) of former Title 26, Internal Revenue Code. Sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) were repealed by subsec. (a)(1)(d)(i) of this section.
 
@@ -150,7 +150,7 @@ Chapter 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), 
 
 Subchapter B of chapter 25 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2720 to 2734 of former Title 26, Internal Revenue Code. Subchapter B of chapter 25 of the Internal Revenue Code of 1939 was repealed by subsec. (a)(5) of this section.
 
-Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939, referred to in subsec.\(a)(4), (5), were comprised of sections 3250 to 3255 and 3260 to 3266, respectively, of former Title 26, Internal Revenue Code. Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939 were repealed by subsec. (a)(5) of this section.
+Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), were comprised of sections 3250 to 3255 and 3260 to 3266, respectively, of former Title 26, Internal Revenue Code. Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939 were repealed by subsec. (a)(5) of this section.
 
 Section 6416(b)(2)(H), referred to in subsec. (a)(4), was repealed by Pub. L. 98–369, div. A, title VII, §735(c)(13)(B), July 18, 1984, 98 Stat. 984.
 

@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Secretary shall provide assistance to theState of Alaska for designing, locating, constructing, redeveloping, permitting, or certifying solid waste management facilities on the Pribilof Islands to be operated under permits issued to the City of St. George and the City of St. Paul, Alaska, by the State of Alaska under section 46.03.100 of the Alaska Statutes.
+&emsp;Subject to the availability of appropriations, the Secretary shall provide assistance to the State of Alaska for designing, locating, constructing, redeveloping, permitting, or certifying solid waste management facilities on the Pribilof Islands to be operated under permits issued to the City of St. George and the City of St. Paul, Alaska, by the State of Alaska under section 46.03.100 of the Alaska Statutes.
 
 #### (2) Transfer
 
@@ -72,7 +72,7 @@ None of the funds authorized by this section may be available for any activity a
 
 #### (e) Immunity from liability
 
-Neither the United States nor any of its agencies, officers, or employees shall have any liability under this chapter or any other law associated with or resulting from the designing, locating, contracting for, redeveloping, permitting, certifying, operating, or maintaining any solid waste management facility on the Pribilof Islands as a consequence of—
+Neither the United States nor any of its agencies, officers, or employees shall have any liability under this chapter or any other law associated with or resulting from the designing, locating, contracting for, redeveloping, permitting,certifying, operating, or maintaining any solid waste management facility on the Pribilof Islands as a consequence of—
 
 &emsp;(1) having provided assistance to the State of Alaska under subsection (b); or
 

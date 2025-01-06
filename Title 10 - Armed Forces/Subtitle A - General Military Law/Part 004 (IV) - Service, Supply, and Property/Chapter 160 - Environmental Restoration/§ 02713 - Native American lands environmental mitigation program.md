@@ -26,7 +26,7 @@ Cooperative Agreements.—(1) In carrying out the program established under subs
 
 (2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit of the United States Government.
 
-(3) A cooperative agreement under this section for the procurement of severable services may begin in one fiscal year and end in another fiscal year only if the total period of performance does not exceed two calendar years.
+(3) A cooperative agreement under this section for the procurement of severable services may begin in one fiscal year and end in another fiscal year only if the total period of performance does not exceed five calendar years.
 
 (d)
 
@@ -48,11 +48,15 @@ Definitions.—In this section:
 
 Limitation.—Nothing in this section shall be interpreted to require, compel, or otherwise authorize access to any lands without the landowner's consent.
 
-(Added Pub. L. 116–283, div. A, title III, §319(a), Jan. 1, 2021, 134 Stat. 3520.)
+(Added Pub. L. 116–283, div. A, title III, §319(a), Jan. 1, 2021, 134 Stat. 3520; amended Pub. L. 118–159, div. A, title III, §312, Dec. 23, 2024, 138 Stat. 1851.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (d)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (c)(3). Pub. L. 118–159 substituted "five calendar years" for "two calendar years".
 

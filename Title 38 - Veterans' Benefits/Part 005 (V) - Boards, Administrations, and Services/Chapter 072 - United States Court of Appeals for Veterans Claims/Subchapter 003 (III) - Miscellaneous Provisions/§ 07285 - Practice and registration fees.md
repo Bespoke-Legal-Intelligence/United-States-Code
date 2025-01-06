@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) judicial conferences convened pursuant to section 7286 of this title; and
 
-&emsp;&emsp;(B) other activities and programs of the Court that are intended to support and foster communication and relationships between the Court and persons practicing before the Court or the study, understanding,public commemoration, or improvement of veterans law or of the work of the Court.
+&emsp;&emsp;(B) other activities and programs of the Court that are intended to support and foster communication and relationships between the Court and persons practicing before the Court or the study, understanding, public commemoration, or improvement of veterans law or of the work of the Court.
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4119, §4085; renumbered §7285, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title VI, §604(a)–(c)(1), Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, §605, Oct. 10, 2008, 122 Stat. 4179.)
 
@@ -24,7 +24,7 @@
 
 Subsec. (a). Pub. L. 107–103, §604(a), inserted at end "The Court may also impose a registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity."
 
-Subsec. (b). Pub. L. 107–103, §604(b), substituted "for the following purposes:" and pars. (1) and (2) for "for the purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court."
+Subsec. (b). Pub. L. 107–103, §604(b), substituted "for the following purposes:" and pars. (1) and (2) for "forthe purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 

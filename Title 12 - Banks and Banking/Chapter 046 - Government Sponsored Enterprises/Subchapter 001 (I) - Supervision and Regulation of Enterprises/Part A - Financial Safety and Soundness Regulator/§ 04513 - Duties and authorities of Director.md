@@ -24,7 +24,7 @@
 
 &emsp;The authority of the Director shall include the authority—
 
-&emsp;&emsp;(A) to review and, if warranted based on the principal duties described in paragraph (1), reject any acquisition or transfer of a controlling interest in a regulated entity; and
+&emsp;&emsp;(A) to review and, if warranted based on the principal duties described in paragraph\(1), reject any acquisition or transfer of a controlling interest in a regulated entity; and
 
 &emsp;&emsp;(B) to exercise such incidental powers as may be necessary or appropriate to fulfill the duties and responsibilities of the Director in the supervision and regulation of each regulated entity.
 

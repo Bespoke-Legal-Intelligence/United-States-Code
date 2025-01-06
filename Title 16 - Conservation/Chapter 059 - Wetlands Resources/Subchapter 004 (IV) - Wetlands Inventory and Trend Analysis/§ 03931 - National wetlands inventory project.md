@@ -26,7 +26,7 @@ The Secretary, acting through the Director of the United States Fish and Wildlif
 
 &emsp;(6) produce, by September 30, 2004, a digital wetlands data base for the United States based on the final wetlands maps produced under this section; and
 
-&emsp;(7) archive and make available for dissemination wetlands data and maps digitized underthis section as such data and maps become available.
+&emsp;(7) archive and make available for dissemination wetlands data and maps digitized under this section as such data and maps become available.
 
 #### (b) Notice
 

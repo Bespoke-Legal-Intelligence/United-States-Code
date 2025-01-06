@@ -38,7 +38,7 @@ The Administrator shall seek to enter into an agreement with the National Fish a
 
 #### (5) Review of performance
 
-&emsp;The Administrator shall conduct continuing reviews of all deposits into, and disbursementsfrom, the Fund. Each such review shall include a written assessment concerning the extent to which the Foundation has implemented the goals and requirements of this section.
+&emsp;The Administrator shall conduct continuing reviews of all deposits into, and disbursements from, the Fund. Each such review shall include a written assessment concerning the extent to which the Foundation has implemented the goals and requirements of this section.
 
 #### (c) Authorization to solicit donations
 

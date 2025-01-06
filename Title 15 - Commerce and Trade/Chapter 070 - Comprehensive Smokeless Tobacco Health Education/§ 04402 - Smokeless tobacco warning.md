@@ -16,7 +16,7 @@
 
 &emsp;(A) located on the 2 principal display panels of the package, and each label statement shall comprise at least 30 percent of each such display panel; and
 
-&emsp;(B) in 17-point conspicuous and legible type and in black text on a white background, or white text on a black background, in a manner that contrasts by typography, layout, or color, with all other printed material on the package, in an alternating fashion under the plan submitted under subsection (b)(3), except that if the text of a label statement would occupy more than 70 percent of the area specified by subparagraph (A), such text may appear in a smaller type size, so long as at least 60 percent of such warning area is occupied by the label statement.
+&emsp;(B) in 17-point conspicuous and legible type and in black text on a white background, or white text on a black background, in a manner that contrasts by typography, layout, or color, with all other printed material on the package, in an alternating fashion under the plan submitted under subsection (b)(3), except that if the text of a label statement would occupy more than 70 percent of the area specified bysubparagraph (A), such text may appear in a smaller type size, so long as at least 60 percent of such warning area is occupied by the label statement.
 
 (3) The label statements required by paragraph (1) shall be introduced by each tobacco product manufacturer, packager, importer, distributor, or retailer of smokeless tobacco products concurrently into the distribution chain of such products.
 

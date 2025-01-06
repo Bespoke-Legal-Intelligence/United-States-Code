@@ -50,7 +50,7 @@ Par. (1)(B). Pub. L. 111–275, §803(a)(2), (b)(2)(C), substituted "Any member"
 
 <b>1974</b>—Par. (1)(A). Pub. L. 93–538, §2(1), substituted "World War II or thereafter" for "World War II, or the Korean conflict; or if the disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty."
 
-Par. (1)(B). Pub. L. 93–538, §2(2), substituted "World War II or thereafter" for "World War II, the Koreanconflict, or the Vietnam era; or if such disability is the result of an injury incurred or disease contracted in or aggravated by any other active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty."
+Par. (1)(B). Pub. L. 93–538, §2(2), substituted "World War II or thereafter" for "World War II, the Korean conflict, or the Vietnam era; or if such disability is the result of an injury incurred or disease contracted in or aggravated by any other active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty."
 
 Par. (2). Pub. L. 93–538, §2(2), substituted definition of "adaptive equipment" for definition of "World War II".
 

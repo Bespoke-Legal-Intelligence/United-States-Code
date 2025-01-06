@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a board, to be known as the "21st Century Energy Workforce Advisory Board", to develop a strategy for the Department that, with respect to the role of the Department in the support and development of a skilled energy workforce—
+The Secretary shall establish a board, to be known as the "21st Century Energy Workforce Advisory Board", to develop a strategy for theDepartment that, with respect to the role of the Department in the support and development of a skilled energy workforce—
 
 &emsp;(1) meets the current and future industry and labor needs of the energy sector;
 

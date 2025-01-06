@@ -18,7 +18,7 @@
 
 (D) For purposes of subparagraph (A), an employee of the United States Postal Service shall not be considered qualified for a position if such position is in a different craft or if reassignment to such position would be inconsistent with the terms of a collective-bargaining agreement covering the employee.
 
-(b) A Member who completes at least 18 months of service as a Member and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member's own application.
+(b) A Member who completes at least 18 months of service as a Member and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injuryshall be retired on the Member's own application.
 
 (c) An employee or Member retiring under this section is entitled to an annuity computed under section 8452.
 

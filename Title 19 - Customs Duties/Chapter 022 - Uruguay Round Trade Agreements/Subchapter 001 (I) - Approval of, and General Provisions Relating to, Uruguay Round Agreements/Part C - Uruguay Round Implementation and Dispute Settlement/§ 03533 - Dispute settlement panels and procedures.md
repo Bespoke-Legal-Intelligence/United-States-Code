@@ -28,7 +28,7 @@ Promptly after a dispute settlement panel is established to consider the consist
 
 #### (e) Notice of appeals of panel reports
 
-If an appeal is taken of a report of a panel in a proceeding described in subsection (d), the Trade Representative shall, promptly after the notice of appeal is filed, notify the appropriate congressional committees of—
+If an appeal is taken of a report of a panel in a proceeding described in subsection (d), theTrade Representative shall, promptly after the notice of appeal is filed, notify the appropriate congressional committees of—
 
 &emsp;(1) the issues under appeal; and
 

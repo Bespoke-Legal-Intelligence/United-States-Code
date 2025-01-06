@@ -20,7 +20,7 @@ The amount of the civil penalty shall be assessed by the Secretary or Administra
 
 #### (c) Limitation for recreational vessel
 
-A civil penalty imposed under subsection (a) against the owner or operator of a recreational vessel, as that term is defined in section 2101 of title 46, for a violation of the Convention, this chapter, or any regulation prescribed under thischapter involving that recreational vessel, may not exceed $5,000 for each violation.
+A civil penalty imposed under subsection (a) against the owner or operator of a recreational vessel, as that term is defined in section 2101 of title 46, for a violation of the Convention, this chapter, or any regulation prescribed under this chapter involving that recreational vessel, may not exceed $5,000 for each violation.
 
 #### (d) Determination of penalty
 
@@ -28,7 +28,7 @@ For purposes of penalties under this section, each day of a continuing violation
 
 #### (e) Reward
 
-An amount equal to not more than one-half of any civil penalty assessed by the Secretary or Administrator under this section may, subject to the availability of appropriations, be paid by the Secretary or Administrator, respectively, to any person who provided information that led to the assessment or imposition of the penalty.
+An amount equal to not more than one-half of any civil penalty assessed by the Secretary or Administrator under this section may, subject to the availability of appropriations, be paid bythe Secretary or Administrator, respectively, to any person who provided information that led to the assessment or imposition of the penalty.
 
 #### (f) Referral to Attorney General
 

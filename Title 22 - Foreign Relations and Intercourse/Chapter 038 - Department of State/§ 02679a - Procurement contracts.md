@@ -8,7 +8,7 @@ Any contract for the procurement of property or services, or both, for the Depar
 
 &emsp;(2) the Secretary of State determines that—
 
-&emsp;&emsp;(A) the need of the Government for the property or service being acquired over the period of the contract is reasonably firm and continuing;
+&emsp;&emsp;(A) the need of the Government for the property or service being acquired over theperiod of the contract is reasonably firm and continuing;
 
 &emsp;&emsp;(B) such a contract will serve the best interests of the United States by encouraging effective competition or promoting economies in performance and operation; and
 

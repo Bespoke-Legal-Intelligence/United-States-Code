@@ -32,7 +32,7 @@ The Secretary shall establish and maintain an independent National Appeals Divis
 
 #### (C) Prohibition on delegation
 
-&emsp;&emsp;The Secretary may not delegate to any other officer or employee of the Department, other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
+&emsp;&emsp;The Secretary may not delegate to any other officer or employee of the Department,other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
 
 #### (2) Exception
 

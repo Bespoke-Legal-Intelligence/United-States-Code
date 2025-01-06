@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(A) To receive and maintain a catalog of print instructional materials prepared in the National Instructional Materials Accessibility Standard, as established by the Secretary, made available to such center by the textbook publishing industry, State educational agencies, and local educational agencies.
 
-&emsp;&emsp;(B) To provide access to print instructional materials, including textbooks, in accessible media, free of charge, to blind or other persons with print disabilities in elementary schools and secondary schools, in accordance with such terms and procedures as the National Instructional Materials Access Center may prescribe.
+&emsp;&emsp;(B) To provide access to print instructional materials, including textbooks, in accessible media, free of charge, to blind orother persons with print disabilities in elementary schools and secondary schools, in accordance with such terms and procedures as the National Instructional Materials Access Center may prescribe.
 
 &emsp;&emsp;(C) To develop, adopt and publish procedures to protect against copyright infringement, with respect to the print instructional materials provided under sections 1412(a)(23) and 1413(a)(6) of this title.
 

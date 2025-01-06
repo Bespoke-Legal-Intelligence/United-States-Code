@@ -12,5 +12,5 @@ The Taiwan Relations Act, referred to in text, is Pub. L. 96–8, Apr. 10, 1979,
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Taiwan Enhanced Resilience Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as partof the Taiwan Enhanced Resilience Act which comprises this chapter.
 

@@ -28,6 +28,10 @@ The words "Congress hereby declares that", "to persons", and "Congress determine
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–156, §1, Dec. 17, 2024, 138 Stat. 1716, provided that: "This Act \[amending sections 31309 and 31311 of this title\] may be cited as the 'Strengthening the Commercial Driver's License Information System Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–260, div. N, title IV, §440, Dec. 27, 2020, 134 Stat. 2068, provided that: "This subtitle \[subtitle C (§§440, 441) of title IV of div. N of Pub. L. 116–260, enacting provisions set out as a note under section 31102 of this title\] may be cited as the 'Motor Carrier Safety Grant Relief Act of 2020'."
@@ -40,7 +44,7 @@ Pub. L. 115–323, §1, Dec. 17, 2018, 132 Stat. 4443, provided that: "This Act 
 
 Pub. L. 115–106, §1, Jan. 8, 2018, 131 Stat. 2265, provided that: "This Act \[amending section 31310 of this title\] may be cited as the 'No Human Trafficking on Our Roads Act'."
 
-Pub. L. 115–105, §1, Jan. 8, 2018, 131 Stat. 2263, provided that: "This Act \[amending section 31305 of this titleand enacting and amending provisions set out as notes under section 31149 of this title\] may be cited as the 'Jobs for Our Heroes Act'."
+Pub. L. 115–105, §1, Jan. 8, 2018, 131 Stat. 2263, provided that: "This Act \[amending section 31305 of this title and enacting and amending provisions set out as notes under section 31149 of this title\] may be cited as the 'Jobs for Our Heroes Act'."
 
 Pub. L. 115–99, §1, Jan. 3, 2018, 131 Stat. 2242, provided that: "This Act \[amending sections 31110 and 31313 of this title and enacting provisions set out as a note under section 102 of this title\] may be cited as the 'Combating Human Trafficking in Commercial Vehicles Act'."
 
@@ -156,7 +160,7 @@ Pub. L. 109–59, title X, §§10304, 10305, Aug. 10, 2005, 119 Stat. 1940, 1941
 
 "(a)
 
-In General.—The Administrator of the National Highway Traffic Safety Administration shall conduct a study of effective methods for reducing the incidence of injury and death outside of parked passenger motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds attributable to movement of such vehicles. The Administrator shall complete the study within 1 year after the date of enactment of this Act \[Aug. 10, 2005\] and report its findings to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce not later than 15 months after the date of enactment of this Act.
+In General.—The Administrator of the National Highway Traffic Safety Administration shall conduct a study of effective methods for reducing the incidence of injury and death outside of parked passenger motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds attributable to movement of such vehicles. The Administrator shall complete the study within 1 year after the date of enactment of this Act \[Aug. 10, 2005\] and report its findings to the SenateCommittee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce not later than 15 months after the date of enactment of this Act.
 
 "(b)
 
@@ -226,7 +230,7 @@ Specific procedure.—
 
 &emsp;&emsp;"(A)
 
-Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 &emsp;&emsp;"(B)
 
@@ -250,7 +254,7 @@ Period.—Action under paragraph (5) of section 2503 which was begun under subpa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-Action.—A rulemaking under paragraph (5) of section 2503 shall be considered completed when the Secretary promulgates a final rule with standards on improved head injury protection.
+Action.—A rulemaking under paragraph (5) of section 2503 shall be considered completedwhen the Secretary promulgates a final rule with standards on improved head injury protection.
 
 &emsp;&emsp;"(C)
 

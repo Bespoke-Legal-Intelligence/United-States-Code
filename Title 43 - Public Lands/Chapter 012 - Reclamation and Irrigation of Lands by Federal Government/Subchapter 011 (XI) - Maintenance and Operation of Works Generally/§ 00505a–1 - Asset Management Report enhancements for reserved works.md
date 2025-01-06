@@ -36,7 +36,7 @@ Not later than 2 years after March 12, 2019, the Secretary shall submit to Congr
 
 &emsp;&emsp;The system for assigning ratings under paragraph (2)(B) shall be—
 
-&emsp;&emsp;&emsp;(i) consistent with existing uniform categorization systems to inform the annualbudget process and agency requirements; and
+&emsp;&emsp;&emsp;(i) consistent with existing uniform categorization systems to inform the annual budget process and agency requirements; and
 
 &emsp;&emsp;&emsp;(ii) subject to the guidance and instructions issued under subparagraph (B).
 

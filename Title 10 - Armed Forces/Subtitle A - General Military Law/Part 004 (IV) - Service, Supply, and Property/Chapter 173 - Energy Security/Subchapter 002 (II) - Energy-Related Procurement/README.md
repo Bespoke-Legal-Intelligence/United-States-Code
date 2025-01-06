@@ -10,8 +10,9 @@
 | [2922e.](%C2%A7%2002922e%20-%20Acquisition%20of%20certain%20fuel%20sources%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md) | Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority. |
 | [2922f.](%C2%A7%2002922f%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md) | Preference for energy efficient electric equipment. |
 | [2922g.](%C2%A7%2002922g%20-%20Preference%20for%20motor%20vehicles%20using%20electric%20or%20hybrid%20propulsion%20systems%3B%20purchase%20or%20lease%20of%20certain%20electric%20and%20other%20vehicles.md) | Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles. |
-| [2922h.](%C2%A7%2002922h%20-%20Limitation%20on%20procurement%20of%20drop-in%20fuels.md) | Limitation on procurement of drop-in fuels. |
+| \[2922h. | Repealed.\] |
 | [2922i.](%C2%A7%2002922i%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md) | Multiyear contracts: purchase of electricity from renewable energy sources. |
+| [2922j.](%C2%A7%2002922j%20-%20Annual%20report%20on%20purchase%20of%20drop-in%20fuel.md) | Annual report on purchase of drop-in fuel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -19,7 +20,9 @@
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263, div. A, title III, §317(b), Dec. 23, 2022, 136 Stat. 2507, added item 2922g and struck out former item 2922g "Preference for motor vehicles using electric or hybrid propulsion systems".
+<b>2024</b>—Pub. L. 118–159, div. A, title III, §315, Dec. 23, 2024, 138 Stat. 1851, added item 2922j and struck out item 2922h "Limitation on procurement of drop-in fuels". Amendments were made pursuant to operation of section 102 of this title.
+
+<b>2022</b>—Pub. L. 117–263, div. A, title III, §317(b), Dec. 23, 2022, 136 Stat. 2507, added item 2922g and struck outformer item 2922g "Preference for motor vehicles using electric or hybrid propulsion systems".
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §1879(b), Jan. 1, 2021, 134 Stat. 4293, added item 2922i.
 
@@ -226,5 +229,6 @@ Alternative Fuel Vehicle Defined.—In this section, the term 'alternative fuel 
 - [&sect; 02922e - Acquisition of certain fuel sources authority to waive contract procedures; acquisition by exchange; sales authority](%C2%A7%2002922e%20-%20Acquisition%20of%20certain%20fuel%20sources%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md)
 - [&sect; 02922f - Preference for energy efficient electric equipment](%C2%A7%2002922f%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md)
 - [&sect; 02922g - Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles](%C2%A7%2002922g%20-%20Preference%20for%20motor%20vehicles%20using%20electric%20or%20hybrid%20propulsion%20systems%3B%20purchase%20or%20lease%20of%20certain%20electric%20and%20other%20vehicles.md)
-- [&sect; 02922h - Limitation on procurement of drop-in fuels](%C2%A7%2002922h%20-%20Limitation%20on%20procurement%20of%20drop-in%20fuels.md)
+- [&sect; 02922h - Repealed. Pub. L. 118&#8211;159, div. A, title III, &sect;315(a), Dec. 23, 2024, 138 Stat. 1851](%C2%A7%2002922h%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7315%28a%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%201851.md)
 - [&sect; 02922i - Multiyear contracts purchase of electricity from renewable energy sources](%C2%A7%2002922i%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md)
+- [&sect; 02922j - Annual report on purchase of drop-in fuel](%C2%A7%2002922j%20-%20Annual%20report%20on%20purchase%20of%20drop-in%20fuel.md)

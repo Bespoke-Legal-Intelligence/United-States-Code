@@ -74,5 +74,5 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Standards for Driver Record Notification Systems
 
-Pub. L. 112–141, div. C, title II, §32303(b), July 6, 2012, 126 Stat. 791, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and TerminationDates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue minimum standards for driver notification systems, including standards for the accuracy, consistency, and completeness of the information provided."
+Pub. L. 112–141, div. C, title II, §32303(b), July 6, 2012, 126 Stat. 791, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue minimum standards for driver notification systems, including standards for the accuracy, consistency, and completeness of the information provided."
 

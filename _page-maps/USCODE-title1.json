@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title1",
- "package": "USCODE-2023-title1",
+ "package": "USCODE-2024-title1",
  "pieces": [
   {
    "id": "1_",
@@ -40,21 +40,31 @@
    "marks": [
     [
      "I",
-     90,
+     94,
      [
       [
-       106,
+       114,
        "[Page 3]"
       ]
      ]
     ],
     [
      "I",
-     162,
+     164,
      [
       [
-       117,
+       165,
        "[Page 4]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     240,
+     [
+      [
+       112,
+       "[Page 5]"
       ]
      ]
     ]
@@ -62,7 +72,7 @@
    "path": "Chapter 001 - Rules of Construction/§ 00001 - Words denoting number, gender, and so forth.md",
    "printed_pages": [
     2,
-    4
+    5
    ]
   },
   {
@@ -70,8 +80,8 @@
    "marks": [],
    "path": "Chapter 001 - Rules of Construction/§ 00002 - County as including parish, and so forth.md",
    "printed_pages": [
-    4,
-    4
+    5,
+    5
    ]
   },
   {
@@ -79,8 +89,8 @@
    "marks": [],
    "path": "Chapter 001 - Rules of Construction/§ 00003 - Vessel as including all means of water transportation.md",
    "printed_pages": [
-    4,
-    4
+    5,
+    5
    ]
   },
   {
@@ -88,27 +98,16 @@
    "marks": [],
    "path": "Chapter 001 - Rules of Construction/§ 00004 - Vehicle as including all means of land transportation.md",
    "printed_pages": [
-    4,
-    4
+    5,
+    5
    ]
   },
   {
    "id": "1_5",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 5]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Rules of Construction/§ 00005 - Company or association as including successors and assigns.md",
    "printed_pages": [
-    4,
+    5,
     5
    ]
   },
@@ -123,26 +122,30 @@
   },
   {
    "id": "1_7",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       462,
+       "[Page 6]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Rules of Construction/§ 00007 - Marriage.md",
    "printed_pages": [
     5,
-    5
+    6
    ]
   },
   {
    "id": "1_8",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 6]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Rules of Construction/§ 00008 - Person, human being, child, and individual as including born-alive infant.md",
    "printed_pages": [
-    5,
+    6,
     6
    ]
   },
@@ -193,11 +196,18 @@
   },
   {
    "id": "1_105",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 7]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00105 - Title of appropriation Acts.md",
    "printed_pages": [
     6,
-    6
+    7
    ]
   },
   {
@@ -205,44 +215,30 @@
    "marks": [
     [
      "I",
-     2,
+     50,
      [
       [
-       667,
-       "[Page 7]"
+       337,
+       "[Page 8]"
       ]
      ]
     ],
     [
      "L",
-     72,
-     "[Page 8]",
+     160,
+     "[Page 9]",
      true
     ],
     [
-     "I",
-     188,
-     [
-      [
-       144,
-       "[Page 9]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     286,
-     [
-      [
-       431,
-       "[Page 10]"
-      ]
-     ]
+     "L",
+     270,
+     "[Page 10]",
+     true
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106 - Printing bills and joint resolutions.md",
    "printed_pages": [
-    6,
+    7,
     10
    ]
   },
@@ -250,10 +246,14 @@
    "id": "1_106a",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 11]",
-     true
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 11]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106a - Promulgation of laws.md",
@@ -300,11 +300,22 @@
   },
   {
    "id": "1_110",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       376,
+       "[Page 12]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00110 - Saving clause of Revised Statutes.md",
    "printed_pages": [
     11,
-    11
+    12
    ]
   },
   {
@@ -312,8 +323,8 @@
    "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00111 - Repeals as evidence of prior effectiveness.md",
    "printed_pages": [
-    11,
-    11
+    12,
+    12
    ]
   },
   {
@@ -321,20 +332,10 @@
    "marks": [
     [
      "I",
-     2,
+     40,
      [
       [
-       425,
-       "[Page 12]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       275,
+       116,
        "[Page 13]"
       ]
      ]
@@ -342,17 +343,24 @@
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112 - Statutes at Large; contents; admissibility in evidence.md",
    "printed_pages": [
-    11,
+    12,
     13
    ]
   },
   {
    "id": "1_112a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 14]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence.md",
    "printed_pages": [
     13,
-    13
+    14
    ]
   },
   {
@@ -360,44 +368,30 @@
    "marks": [
     [
      "I",
-     8,
+     34,
      [
       [
-       228,
-       "[Page 14]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     40,
-     [
-      [
-       140,
+       88,
        "[Page 15]"
       ]
      ]
     ],
     [
      "L",
-     110,
+     90,
      "[Page 16]",
      true
     ],
     [
-     "I",
-     184,
-     [
-      [
-       170,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     162,
+     "[Page 17]",
+     true
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements and non-binding instruments; transparency provisions.md",
    "printed_pages": [
-    13,
+    14,
     17
    ]
   },
@@ -424,10 +418,10 @@
    "marks": [
     [
      "I",
-     28,
+     5,
      [
       [
-       147,
+       68,
        "[Page 18]"
       ]
      ]
@@ -450,55 +444,55 @@
   },
   {
    "id": "1_202",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       512,
+       "[Page 19]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00202 - Preparation and publication of Codes and Supplements.md",
    "printed_pages": [
     18,
-    18
+    19
    ]
   },
   {
    "id": "1_203",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 19]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00203 - District of Columbia Code; preparation and publication; cumulative supplements.md",
    "printed_pages": [
-    18,
+    19,
     19
    ]
   },
   {
    "id": "1_204",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     62,
+     "[Page 20]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00204 - Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements.md",
    "printed_pages": [
     19,
-    19
+    20
    ]
   },
   {
    "id": "1_205",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       332,
-       "[Page 20]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00205 - Codes and Supplement; where printed; form and style; ancillaries.md",
    "printed_pages": [
-    19,
+    20,
     20
    ]
   },
@@ -531,11 +525,22 @@
   },
   {
    "id": "1_209",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       99,
+       "[Page 21]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00209 - Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original.md",
    "printed_pages": [
     20,
-    20
+    21
    ]
   },
   {
@@ -543,27 +548,16 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00210 - Distribution of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; slip and pamphlet copies.md",
    "printed_pages": [
-    20,
-    20
+    21,
+    21
    ]
   },
   {
    "id": "1_211",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       384,
-       "[Page 21]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00211 - Copies to Members of Congress.md",
    "printed_pages": [
-    20,
+    21,
     21
    ]
   },
@@ -586,6 +580,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2023-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2024-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 01 - General Provisions"
 }

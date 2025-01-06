@@ -48,7 +48,7 @@ The text of subsec. (c) of section 2302d of this title, which was transferred to
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1846(d)(2)(A), (B), inserted subsec. heading and par. (1) designation and heading before "The Secretary" and substituted "in section 4201(a)(2) of this title" for "in subsection (a)(1)(B)".
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1846(d)(2)(A), (B), inserted subsec. heading and par. (1) designation andheading before "The Secretary" and substituted "in section 4201(a)(2) of this title" for "in subsection (a)(1)(B)".
 
 Pub. L. 116–283, §1846(d)(1), transferred subsecs. (b) and (c) of section 2430 of this title to this section, redesignated subsec. (b) and subsec. (c) and its pars. (1) to (4) as subsec. (a) and subsec. (a)(2) and its subpars. (A) to (D), respectively, realigned margin of subsec. (a)(2), and struck out second sentence of subsec. (a)(1) as redesignated which read as follows: "An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
 

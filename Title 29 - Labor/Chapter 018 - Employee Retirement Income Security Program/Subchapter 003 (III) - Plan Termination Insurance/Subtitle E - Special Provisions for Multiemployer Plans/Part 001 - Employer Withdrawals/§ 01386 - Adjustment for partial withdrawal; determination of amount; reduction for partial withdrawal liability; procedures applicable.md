@@ -1,6 +1,6 @@
 ### §1386. Adjustment for partial withdrawal; determination of amount; reduction for partial withdrawal liability; procedures applicable
 
-(a) The amount of an employer's liability for a partial withdrawal, before the application of sections 1399(c)(1) and 1405 of this title, is equal to the product of—
+(a) The amount of an employer's liability for a partial withdrawal, before the application ofsections 1399(c)(1) and 1405 of this title, is equal to the product of—
 
 &emsp;(1) the amount determined under section 1391 of this title, and adjusted under section 1389 of this title if appropriate, determined as if the employer had withdrawn from the plan in a complete withdrawal—
 

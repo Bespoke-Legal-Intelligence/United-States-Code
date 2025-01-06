@@ -66,7 +66,7 @@
 
 &emsp;For the purpose of awarding grants under subsection (b), there are authorized to be appropriated $13,000,000 for each of the fiscal years 2007 through 2009, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013.
 
-(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2817, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), (f)(1), Oct. 30, 2009, 123 Stat. 2885, 2886.)
+(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub.L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2817, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), (f)(1), Oct. 30, 2009, 123 Stat. 2885, 2886.)
 
 #### <b>Editorial Notes</b>
 
@@ -106,7 +106,7 @@ Subsec. (c)(1). Pub. L. 106–345, §402(c)(1), substituted "fiscal years 2001 t
 
 Subsec. (c)(2). Pub. L. 106–345, §402(c)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "For the purpose of grants under subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1996 through 2000."
 
-<b>1996</b>—Pub. L. 104–146, §3(h)(1), (2)(A), substituted "HIV/AIDS communities, schools, and centers" for"Acquired immune deficiency syndrome" as section catchline.
+<b>1996</b>—Pub. L. 104–146, §3(h)(1), (2)(A), substituted "HIV/AIDS communities, schools, and centers" for "Acquired immune deficiency syndrome" as section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 104–166, §5(2)(A), substituted "in programs under this subchapter" for "in subchapter XXIV programs" and struck out "infection and" after "prevention of HIV".
 

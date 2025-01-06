@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established a separate fund to be designated as the FSLIC Resolution Fund which shall be managed by the Corporation and separately maintained and not commingled.
+&emsp;There is established a separate fund to be designated as the FSLIC Resolution Fundwhich shall be managed by the Corporation and separately maintained and not commingled.
 
 #### (2) Transfer of FSLIC assets and liabilities
 

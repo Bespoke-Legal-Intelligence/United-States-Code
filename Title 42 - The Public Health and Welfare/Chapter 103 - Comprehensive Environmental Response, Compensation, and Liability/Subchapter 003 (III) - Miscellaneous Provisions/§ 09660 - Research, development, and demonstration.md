@@ -60,7 +60,7 @@
 
 #### (6) Planning
 
-&emsp;Within nine months after October 17, 1986, the Secretary, acting through the Director of the National Institute for Environmental Health Sciences, shall issue a plan for the implementation of paragraph (1). The plan shall include priorities for actions under paragraph (1) and include research and training relevant to scientific and technological issues resulting from site specific hazardous substance response experience. The Secretary shall, to the maximum extent practicable, take appropriate steps to coordinate program activities under this plan with the activities of other Federal agencies in order to avoid duplication of effort. The plan shall be consistent with the need for the development of new technologies for meeting the goals of response actions in accordance with the provisions of this chapter. The Advisory Council shall be provided an opportunity to review and comment on the plan and priorities and assist appropriate coordination among the relevant Federal agencies referred to in subparagraph (A) of paragraph (5).
+&emsp;Within nine months after October 17, 1986, the Secretary, acting through the Director of the National Institute for Environmental Health Sciences, shall issue a plan for the implementation of paragraph (1). The plan shall include priorities for actions under paragraph (1) and include research and training relevant to scientific and technological issues resulting from site specific hazardous substance response experience. The Secretary shall, to the maximum extent practicable, take appropriate steps to coordinate program activities under this plan with the activities of other Federal agencies in order to avoid duplication of effort. The plan shall be consistent with the need for the development of new technologies for meeting the goals of response actions in accordance with the provisions of this chapter.The Advisory Council shall be provided an opportunity to review and comment on the plan and priorities and assist appropriate coordination among the relevant Federal agencies referred to in subparagraph (A) of paragraph (5).
 
 #### (b) Alternative or innovative treatment technology research and demonstration program
 
@@ -102,7 +102,7 @@
 
 #### (C) Applications
 
-&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application tothe Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
+&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application to the Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
 
 #### (D) Project selection
 
@@ -162,7 +162,7 @@
 
 &emsp;The Administrator is authorized and directed to carry out, through the Office of Technology Demonstration, a program of training and an evaluation of training needs for each of the following:
 
-&emsp;&emsp;(A) Training in the procedures for the handling and removal of hazardous substances for employees who handle hazardous substances.
+&emsp;&emsp;(A) Training in the procedures for the handling and removal of hazardous substancesfor employees who handle hazardous substances.
 
 &emsp;&emsp;(B) Training in the management of facilities at which hazardous substances are located and in the evaluation of the hazards to human health presented by such facilities for State and local health and environment agency personnel.
 
@@ -230,7 +230,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 #### (10) Technology transfer activities
 
-&emsp;Not less than five percent of the funds made available to carry out this subsection for any fiscal year shall be available to carry out technology transfer activities.
+&emsp;Not less than five percent of the funds made available to carry out this subsection for anyfiscal year shall be available to carry out technology transfer activities.
 
 #### (e) Report to Congress
 
@@ -290,7 +290,7 @@ Pub. L. 110–143, Dec. 21, 2007, 121 Stat. 1809, provided that:
 
 "(a)
 
-Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of thisAct \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the 'Administrator'), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
+Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the 'Administrator'), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
 
 "(b)
 
@@ -316,7 +316,7 @@ Updating the Guidelines.—The Administrator shall periodically update the volun
 
 &emsp;"(1) identify methamphetamine laboratory-related chemicals of concern;
 
-&emsp;"(2) assess the types and levels of exposure to chemicals of concern identified under paragraph (1), including routine and accidental exposures, that may present a significant risk of adverse biological effects, and the research necessary to better address biological effects and to minimize adverse human exposures;
+&emsp;"(2) assess the types and levels of exposure to chemicals of concern identified under paragraph (1),including routine and accidental exposures, that may present a significant risk of adverse biological effects, and the research necessary to better address biological effects and to minimize adverse human exposures;
 
 &emsp;"(3) evaluate the performance of various methamphetamine laboratory cleanup and remediation techniques; and
 
@@ -384,7 +384,7 @@ Purposes of the center.—The Center shall carry out a program of research, eval
 
 Operation of center.—(A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
 
-"(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements withuniversities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
+"(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
 
 "(4)
 
@@ -412,7 +412,7 @@ Nonprofit entity.—For the purposes of operating the Center, the Administrator 
 
 &emsp;"(B)
 
-Authorities.—The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Washington, Oregon, Idaho, and Montana in order to carry out the purposes of the Center.
+Authorities.—The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States ofWashington, Oregon, Idaho, and Montana in order to carry out the purposes of the Center.
 
 "(4)
 

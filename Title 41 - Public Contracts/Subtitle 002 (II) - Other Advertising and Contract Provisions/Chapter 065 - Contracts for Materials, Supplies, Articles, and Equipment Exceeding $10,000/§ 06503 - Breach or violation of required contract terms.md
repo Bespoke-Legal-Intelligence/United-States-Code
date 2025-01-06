@@ -10,7 +10,7 @@ Liquidated Damages.—In addition to damages for any other breach of the contrac
 
 &emsp;(1) An amount equal to the sum of $10 per day for each individual under 16 years of age and each incarcerated individual knowingly employed in the performance of the contract.
 
-&emsp;(2) An amount equal to the sum of each underpayment of wages due an employee engaged in the performance of the contract, including any underpayments arising from deductions, rebates, or refunds.
+&emsp;(2) An amount equal to the sum of each underpayment of wages due an employee engagedin the performance of the contract, including any underpayments arising from deductions, rebates, or refunds.
 
 (c)
 

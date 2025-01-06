@@ -132,5 +132,5 @@ The text of section 3502(b) of Pub. L. 116–283, which was formerly set out as 
 
 #### Foreign Vessel Charters for Passenger Vessels
 
-Pub. L. 116–283, div. C, title XXXV, §3502(b), Jan. 1, 2021, 134 Stat. 4398, as amended by Pub. L. 118–31, div. C, title XXXV, §3514(b)(1), Dec. 22, 2023, 137 Stat. 810, which directed the Maritime Administrator to make publicly available certain requests relating to vessel charters for passenger vessels, was transferred to subsec. (f) of this section by Pub. L. 118–31, div. C, title XXXV, §3514(b)(2), (3), Dec. 22, 2023, 137 Stat. 810.
+Pub. L. 116–283, div. C, title XXXV, §3502(b), Jan. 1, 2021, 134 Stat. 4398, as amended by Pub. L. 118–31, div. C, title XXXV, §3514(b)(1), Dec. 22, 2023, 137 Stat. 810, which directed the Maritime Administrator to make publicly available certain requests relating to vesselcharters for passenger vessels, was transferred to subsec. (f) of this section by Pub. L. 118–31, div. C, title XXXV, §3514(b)(2), (3), Dec. 22, 2023, 137 Stat. 810.
 

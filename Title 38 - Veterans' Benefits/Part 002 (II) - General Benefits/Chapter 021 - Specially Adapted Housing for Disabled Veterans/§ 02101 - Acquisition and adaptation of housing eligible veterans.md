@@ -220,7 +220,7 @@ Eligible veteran.—The term 'eligible veteran' means a disabled or low-income v
 
 &emsp;"(3)
 
-Energy efficient features or equipment.—The term 'energy efficient features or equipment' means features of, or equipment in, a primary residence that help reduce the amount of electricity used to heat, cool, or ventilate such residence, including insulation, weatherstripping, air sealing, heating system repairs, duct sealing, or other measures.
+Energy efficient features or equipment.—The term 'energy efficient features or equipment'means features of, or equipment in, a primary residence that help reduce the amount of electricity used to heat, cool, or ventilate such residence, including insulation, weatherstripping, air sealing, heating system repairs, duct sealing, or other measures.
 
 &emsp;"(4)
 
@@ -372,7 +372,7 @@ Annual report.—The Secretary shall submit to Congress, on an annual basis, a r
 
 &emsp;&emsp;&emsp;"(v) a description of the housing rehabilitation and modification services provided, costs saved, and actions taken under such program;
 
-&emsp;&emsp;&emsp;"(vi) a description of the outreach initiatives implemented by the Secretary to educate thegeneral public and eligible entities about such program;
+&emsp;&emsp;&emsp;"(vi) a description of the outreach initiatives implemented by the Secretary to educate the general public and eligible entities about such program;
 
 &emsp;&emsp;&emsp;"(vii) a description of the outreach initiatives instituted by grant recipients to engage eligible veterans and veteran service organizations in projects utilizing grant funds under such program;
 

@@ -22,7 +22,7 @@ Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: "This title \[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare\] may be cited as the 'Delta Regional Authority Act of 2000'."
+Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: "This title\[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare\] may be cited as the 'Delta Regional Authority Act of 2000'."
 
 #### Short Title of 1994 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: "That this Act \[en
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–419, §1, Aug. 30, 1972, 86 Stat. 657, provided: "That this Act \[enacting sections 1010a, 1929a, 1931 to1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590o, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the 'Rural Development Act of 1972'."
+Pub. L. 92–419, §1, Aug. 30, 1972, 86 Stat. 657, provided: "That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590o, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the 'Rural Development Act of 1972'."
 
 #### Short Title
 

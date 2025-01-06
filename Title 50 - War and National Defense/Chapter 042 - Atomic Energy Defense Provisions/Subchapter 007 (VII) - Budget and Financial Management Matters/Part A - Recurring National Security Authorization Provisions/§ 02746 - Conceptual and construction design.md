@@ -8,7 +8,7 @@
 
 #### (2) Requests for conceptual design funds
 
-&emsp;If the estimated cost of completing a conceptual design for a construction project exceeds $5,000,000, the Secretary shall submit to Congress a request for funds for the conceptual design before submitting a request for funds for the construction project.
+&emsp;If the estimated cost of completing a conceptual design for a construction project exceeds$5,000,000, the Secretary shall submit to Congress a request for funds for the conceptual design before submitting a request for funds for the construction project.
 
 #### (3) Exceptions
 

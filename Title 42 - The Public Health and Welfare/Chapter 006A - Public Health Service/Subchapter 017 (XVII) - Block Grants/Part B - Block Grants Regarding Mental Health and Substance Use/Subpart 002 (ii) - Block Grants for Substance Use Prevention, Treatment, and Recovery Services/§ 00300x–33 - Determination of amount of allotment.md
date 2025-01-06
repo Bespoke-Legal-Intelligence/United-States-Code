@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) The percentage constituted by the ratio of—
 
-&emsp;&emsp;&emsp;(i) an amount equal to the sum of the total number of individuals who reside in the State involved and are between 18 and 24 years of age (inclusive) and the number of individuals in the State who reside in urbanized areas of the State and are between such years of age; to
+&emsp;&emsp;&emsp;(i) an amount equal to the sum of the total number of individuals who reside in the State involved and are between 18 and 24 years of age (inclusive) and the number of individuals in the State who reside inurbanized areas of the State and are between such years of age; to
 
 &emsp;&emsp;&emsp;(ii) an amount equal to the total of the respective sums determined for the States under clause (i).
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) makes a determination that the members of such Tribe or Tribal organization would be better served by means of grants made directly by the Secretary under this subpart;
 
-> &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount that bears the same ratio to the allotment as the amount provided under this subpart to the Tribe or Tribal organization for fiscal year 1991 for activities relating to the prevention and treatment of the use of substances bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
+> &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount that bears the same ratio to the allotment as theamount provided under this subpart to the Tribe or Tribal organization for fiscal year 1991 for activities relating to the prevention and treatment of the use of substances bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
 
 #### (2) Indian Tribe or Tribal organization as grantee
 
@@ -168,7 +168,7 @@ In general.—Except as provided in subparagraph (B), a State shall not receive 
 
 Exception.—In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for fiscal year 1999 (as compared to the amount allotted to the State in the fiscal year 1998) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for fiscal year 1999 exceeds the amount appropriated for the prior fiscal year.
 
-&emsp;"(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121)."
+&emsp;"(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract withAmerica Advancement Act of 1996 (Public Law 104–121)."
 
 > See Effective and Termination Dates of 1998 Amendment note below.
 

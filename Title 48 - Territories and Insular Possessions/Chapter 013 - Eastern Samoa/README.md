@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [1661\.](%C2%A7%2001661%20-%20Islands%20of%20eastern%20Samoa.md) | Islands of eastern Samoa. |
 | [1662\.](%C2%A7%2001662%20-%20Sovereignty%20of%20United%20States%20extended%20over%20Swains%20Island.md) | Sovereignty of United States extended over Swains Island. |
-| [1662a.](%C2%A7%2001662a%20-%20Amendment%20of%20constitution%20of%20American%20Samoa.md) | Amendment of constitution of American Samoa. |
+| [1662a.](%C2%A7%2001662a%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93232%2C%20%C2%A71%2C%20Jan.%204%2C%202025%2C%20138%20Stat.%202834.md) | Repealed. |
 | [1663\.](%C2%A7%2001663%20-%20Acknowledgment%20of%20deeds.md) | Acknowledgment of deeds. |
 | [1664\.](%C2%A7%2001664%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93304%2C%20%C2%A719%2C%20Oct.%206%2C%202006%2C%20120%20Stat.%201710.md) | Repealed. |
 | [1665\.](%C2%A7%2001665%20-%20Omitted.md) | Omitted. |
@@ -23,7 +23,7 @@
 
 - [&sect; 01661 - Islands of eastern Samoa](%C2%A7%2001661%20-%20Islands%20of%20eastern%20Samoa.md)
 - [&sect; 01662 - Sovereignty of United States extended over Swains Island](%C2%A7%2001662%20-%20Sovereignty%20of%20United%20States%20extended%20over%20Swains%20Island.md)
-- [&sect; 01662a - Amendment of constitution of American Samoa](%C2%A7%2001662a%20-%20Amendment%20of%20constitution%20of%20American%20Samoa.md)
+- [&sect; 01662a - Repealed. Pub. L. 118&#8211;232, &sect;1, Jan. 4, 2025, 138 Stat. 2834](%C2%A7%2001662a%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93232%2C%20%C2%A71%2C%20Jan.%204%2C%202025%2C%20138%20Stat.%202834.md)
 - [&sect; 01663 - Acknowledgment of deeds](%C2%A7%2001663%20-%20Acknowledgment%20of%20deeds.md)
 - [&sect; 01664 - Repealed. Pub. L. 109&#8211;304, &sect;19, Oct. 6, 2006, 120 Stat. 1710](%C2%A7%2001664%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93304%2C%20%C2%A719%2C%20Oct.%206%2C%202006%2C%20120%20Stat.%201710.md)
 - [&sect; 01665 - Omitted](%C2%A7%2001665%20-%20Omitted.md)

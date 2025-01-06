@@ -8,7 +8,7 @@ Authorization.—There are authorized to be appropriated to the corporation for 
 
 Limitation Related to Administrative Expenses.—Amounts authorized under this section may not be used by the corporation for management and general or fundraising expenses as reported to the Internal Revenue Service as part of an annual information return required under the Internal Revenue Code of 1986.
 
-(Added Pub. L. 106–474, title II, §201(a), Nov. 9, 2000, 114 Stat. 2094; amended Pub. L. 110–336, §2(b)(1)(A), (4), Oct. 2, 2008, 122 Stat. 3726, 3727; Pub. L. 114–217, §2(b)(1), July 29, 2016, 130 Stat. 840.)
+(Added Pub. L. 106–474, title II, §201(a), Nov. 9, 2000, 114 Stat. 2094; amended Pub. L. 110–336, §2(b)(1)(A), (4), Oct. 2, 2008, 122 Stat. 3726, 3727;Pub. L. 114–217, §2(b)(1), July 29, 2016, 130 Stat. 840.)
 
 #### <b>Editorial Notes</b>
 

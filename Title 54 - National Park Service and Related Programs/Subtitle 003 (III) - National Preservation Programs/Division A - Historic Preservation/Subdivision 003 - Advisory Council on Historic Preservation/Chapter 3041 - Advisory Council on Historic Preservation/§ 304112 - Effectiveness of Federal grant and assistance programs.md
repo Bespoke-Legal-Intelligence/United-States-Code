@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Agreements.—The Council may enter into a cooperative agreement with any Federal agency that administers a grant or assistance program for the purpose of improving the effectiveness of the administration of the program in meeting the purposes and policies of this division. The cooperative agreement may include provisions that modify the selection criteria for a grant or assistance program to further the purposes of this division or that allow the Council to participate in the selection of recipients, if those provisions are not inconsistent with the grant or assistance program's statutory authorization and purpose.
+Cooperative Agreements.—The Council may enter into a cooperative agreement withany Federal agency that administers a grant or assistance program for the purpose of improving the effectiveness of the administration of the program in meeting the purposes and policies of this division. The cooperative agreement may include provisions that modify the selection criteria for a grant or assistance program to further the purposes of this division or that allow the Council to participate in the selection of recipients, if those provisions are not inconsistent with the grant or assistance program's statutory authorization and purpose.
 
 (b)
 

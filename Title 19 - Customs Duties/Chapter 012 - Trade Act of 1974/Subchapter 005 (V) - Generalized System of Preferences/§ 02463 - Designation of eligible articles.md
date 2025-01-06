@@ -172,7 +172,7 @@
 
 #### (3) Other bases for waiver
 
-&emsp;The President may waive the application of subsection (c)(2) if, before November 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
+&emsp;The President may waive the application of subsection (c)(2) if, before November 1 of the calendar year beginning after the calendar year for which a determination described insubsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
 
 &emsp;&emsp;(A) there has been a historical preferential trade relationship between the United States and such country,
 
@@ -204,7 +204,7 @@
 
 #### (C) Calculation of limitations
 
-&emsp;&emsp;There shall be counted against the limitations imposed under subparagraphs (A) and\(B) for any calendar year only that value of any eligible article of any country that—
+&emsp;&emsp;There shall be counted against the limitations imposed under subparagraphs (A) and (B) for any calendar year only that value of any eligible article of any country that—
 
 &emsp;&emsp;&emsp;(i) entered duty-free under this subchapter during such calendar year; and
 

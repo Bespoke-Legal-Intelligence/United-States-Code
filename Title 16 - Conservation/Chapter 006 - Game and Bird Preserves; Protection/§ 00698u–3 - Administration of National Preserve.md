@@ -6,7 +6,7 @@ The Secretary shall administer the Preserve in accordance with sections 698u to 
 
 #### (b) Application of regulations
 
-With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning theNational Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
+With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning the National Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
 
 #### (c) Facilities
 
@@ -22,7 +22,7 @@ For purposes of carrying out the duties of the Secretary under sections 698u to 
 
 &emsp;(A) The Secretary of the Interior is authorized, under such terms and conditions as he deems appropriate, to include in any cooperative agreement entered into in accordance with subsection (f)(1) an indemnification provision by which the United States agrees to hold harmless, defend and indemnify the landowner in full from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim of personal injury or property damage that occurs in connection with the operation of the Preserve under the agreement: <i>Provided however</i>, That indemnification shall not exceed $3 million per claimant per occurrence.
 
-&emsp;(B) The indemnification provision authorized by subparagraph (A) shall not include claims for personal injury or property damage proximately caused by the wanton or willful misconduct of the landowner.
+&emsp;(B) The indemnification provision authorized by subparagraph (A) shall not includeclaims for personal injury or property damage proximately caused by the wanton or willful misconduct of the landowner.
 
 #### (e) Unit of National Park System
 
@@ -72,7 +72,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;&emsp;(G) Provisions requiring the Secretary to honor each valid existing oil and gas lease for lands within the boundaries of the Preserve (as described in section 698u–2(b) of this title) that is in effect on November 12, 1996.
 
-&emsp;&emsp;(H) Provisions requiring the Secretary to offer to enter into an agreement with eachindividual who, as of November 12, 1996, holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title).
+&emsp;&emsp;(H) Provisions requiring the Secretary to offer to enter into an agreement with each individual who, as of November 12, 1996, holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title).
 
 #### (4) Hunting and fishing
 
@@ -90,7 +90,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2 through 4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to theCode, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 

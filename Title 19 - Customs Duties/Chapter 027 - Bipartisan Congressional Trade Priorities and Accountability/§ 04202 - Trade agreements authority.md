@@ -44,7 +44,7 @@
 
 &emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
 
-&emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of 1/10 of the total reduction, whichever is greater, had taken effect onthe effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
+&emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of 1/10 of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
 
 &emsp;&emsp;&emsp;(ii) a reduction equal to the amount applicable under clause (i) had taken effect at 1-year intervals after the effective date of such first reduction.
 

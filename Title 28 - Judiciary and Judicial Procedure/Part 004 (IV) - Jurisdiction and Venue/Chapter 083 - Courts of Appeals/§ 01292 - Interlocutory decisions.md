@@ -24,7 +24,7 @@
 
 (4)(A) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title.
 
-(B) When a motion to transfer an action to the Court of Federal Claims is filed in a districtcourt, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
+(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
 
 (e) The Supreme Court may prescribe rules, in accordance with section 2072 of this title, to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
 
@@ -54,7 +54,7 @@ The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay o
 
 The district courts for the districts of Hawaii and Puerto Rico are embraced in the term "district courts of the United States." (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to "the United States district courts for Hawaii" was omitted.
 
-The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940 ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
+The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
 
 Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 1291 and 1294 of this title.
 

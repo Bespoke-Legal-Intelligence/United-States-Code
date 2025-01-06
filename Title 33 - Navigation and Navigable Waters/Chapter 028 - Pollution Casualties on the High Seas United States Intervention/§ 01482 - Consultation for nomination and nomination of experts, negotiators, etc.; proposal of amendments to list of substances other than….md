@@ -18,7 +18,7 @@ The President may accept amendments to the list of substances other than convent
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–302, §1(5)(A), inserted provisions relating to applicability of article II of the protocol and provisions for proposal of amendments to the list of substances other than convention oil.
+<b>1978</b>—Subsec. (a). Pub. L. 95–302, §1(5)(A), inserted provisions relating to applicability of article II of theprotocol and provisions for proposal of amendments to the list of substances other than convention oil.
 
 Subsec. (b). Pub. L. 95–302, §1(5)(B), substituted "protocol" for "annexes thereto".
 

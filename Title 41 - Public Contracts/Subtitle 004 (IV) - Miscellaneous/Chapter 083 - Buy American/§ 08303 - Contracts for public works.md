@@ -28,7 +28,7 @@ Particular article, material, or supply.—If the head of the Federal agency mak
 
 &emsp;(3)
 
-Waiver authority.—Subsection (a) shall be regarded as requiring the purchase, for public use within the United States, of articles,materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the Federal agency concerned determines their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.
+Waiver authority.—Subsection (a) shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the Federal agency concerned determines their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.
 
 (c)
 

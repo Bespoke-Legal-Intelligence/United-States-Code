@@ -78,7 +78,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "private business use" means use (directlyor indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
+&emsp;&emsp;For purposes of this subsection, the term "private business use" means use (directly or indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
 
 #### (B) Clarification of trade or business
 
@@ -108,7 +108,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (1) In general
 
-&emsp;An issue meets the test of this subsection if the amount of the proceeds of the issue which are to be used (directly or indirectly) to make or finance loans (other than loans described in paragraph (2)) to persons other than governmental units exceeds the lesser of—
+&emsp;An issue meets the test of this subsection if the amount of the proceeds of the issue whichare to be used (directly or indirectly) to make or finance loans (other than loans described in paragraph (2)) to persons other than governmental units exceeds the lesser of—
 
 &emsp;&emsp;(A) 5 percent of such proceeds, or
 
@@ -170,7 +170,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (C) Limitation on size of annexed area not to apply where output capacity does not increase by more than 10 percent
 
-&emsp;&emsp;Subclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connectionwith the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed.
+&emsp;&emsp;Subclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connection with the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed.
 
 #### (D) Rules for determining relative size, etc.
 
@@ -196,7 +196,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 &emsp;In the case of a bond which is a private activity bond solely by reason of this subsection—
 
-&emsp;&emsp;(A) subsections (c) and (d) of section 147 (relating to limitations on acquisition of land and existing property) shall not apply, and
+&emsp;&emsp;(A) subsections (c) and (d) of section 147 (relating to limitations on acquisition ofland and existing property) shall not apply, and
 
 &emsp;&emsp;(B) paragraph (8) of section 142(a) shall be applied as if it did not contain "local".
 
@@ -316,7 +316,7 @@ Increase in trade-in rate.—The amendments made by paragraph (1) of section 130
 
 &emsp;"(2)
 
-Certificates.—The amendments made by paragraph (2) of section 1301(f) \[amending section 25 of this title\] shall apply to certificates issued with respect to non-issued bond amounts elected after August 15, 1986.
+Certificates.—The amendments made by paragraph (2) of section 1301(f) \[amending section 25 ofthis title\] shall apply to certificates issued with respect to non-issued bond amounts elected after August 15, 1986.
 
 "(c)
 
@@ -554,7 +554,7 @@ limit for certain small issue bonds.—Paragraph (10) of section 144(a) of the 1
 
 limitation for certain 501(c
 
-)(3) bonds.—Subsection (b) of section 145 of the 1986 Code (relating to $150,000,000 limitation for nonhospital bonds) shall not apply to any bond (or series of bonds) the proceeds of which are used exclusively to refund a tax-exempt bond to which such subsection did not apply if—
+)(3) bonds.—Subsection (b) of section 145 of the 1986 Code (relating to $150,000,000 limitation for nonhospital bonds) shall not apply to any bond (or series of bonds)the proceeds of which are used exclusively to refund a tax-exempt bond to which such subsection did not apply if—
 
 &emsp;&emsp;"(A)(i) the average maturity of the issue of which the refunding bond is a part does not exceed 120 percent of the average reasonably expected economic life of the facilities being financed with the net proceeds of such issue (determined under section 147(b) of the 1986 Code), or
 
@@ -668,7 +668,7 @@ Termination of Mortgage Bond Policy Statement Requirement.—Paragraph (5) of se
 
 "(h)
 
-Arbitrage Restriction on Investments in Investment-Type Property.—In the case of a bond issued before August 16, 1986 (September 1, 1986 in the case of a bond described in section 1312(c)(2)), section 103(c) of the 1954 Code shall be applied by treating the reference to securities in paragraph (2) thereof as including a reference to investment-type property but only for purposes of determining whether any bond issued after October 16, 1987, to advance refund such bond (or a bond which is part of a series of refundings of such bond) is an arbitrage bond (within the meaning of section 148(a) of the 1986 Code).
+Arbitrage Restriction on Investments in Investment-Type Property.—In the case of a bondissued before August 16, 1986 (September 1, 1986 in the case of a bond described in section 1312(c)(2)), section 103(c) of the 1954 Code shall be applied by treating the reference to securities in paragraph (2) thereof as including a reference to investment-type property but only for purposes of determining whether any bond issued after October 16, 1987, to advance refund such bond (or a bond which is part of a series of refundings of such bond) is an arbitrage bond (within the meaning of section 148(a) of the 1986 Code).
 
 "(i)
 
@@ -946,7 +946,7 @@ Docks and wharves.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;"(i) the issue to finance such dock or wharf was approved by official city action on September 3, 1985, and by voters on November 5, 1985, and
 
-&emsp;&emsp;"(ii) such dock or wharf is for a slack water harbor with respect to which a Corps of Engineers grant of approximately $2,000,000 has been madeunder section 107 of the Rivers and Harbors Act \[33 U.S.C. 577\].
+&emsp;&emsp;"(ii) such dock or wharf is for a slack water harbor with respect to which a Corps of Engineers grant of approximately $2,000,000 has been made under section 107 of the Rivers and Harbors Act \[33 U.S.C. 577\].
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $2,500,000.
 
@@ -1062,7 +1062,7 @@ Pollution control facilities.—A bond issued as part of an issue 95 percent or 
 
 "(3)
 
-Sports facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of whichare to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
+Sports facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide sports facilities (within the meaning of section 103(b)(4)(B) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facilities are described in any of the following subparagraphs:
 
 &emsp;"(A) A facility is described in this subparagraph if it is a stadium—
 
@@ -1092,7 +1092,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;"(iii) such stadium or stadiums are located in the city described in (i).
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $250,000,000. In the case of any carryforward of volume cap for one or more stadiums described in the first sentence of this subparagraph, such carryforward shall be valid with respect to bonds issued for such stadiums notwithstanding any other provision of the 1986 Code or the 1954 Code, and whether or not (i) there is a change in the number of stadiums or the beneficiaries or sites of the stadium or stadiums and (ii) the bonds are issued by either of the state agencies described in the first sentence of this subparagraph.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $250,000,000. Inthe case of any carryforward of volume cap for one or more stadiums described in the first sentence of this subparagraph, such carryforward shall be valid with respect to bonds issued for such stadiums notwithstanding any other provision of the 1986 Code or the 1954 Code, and whether or not (i) there is a change in the number of stadiums or the beneficiaries or sites of the stadium or stadiums and (ii) the bonds are issued by either of the state agencies described in the first sentence of this subparagraph.
 
 &emsp;"(D) A facility is described in this subparagraph if—
 
@@ -1286,7 +1286,7 @@ Airports.—A bond issued as a part of an issue 95 percent or more of the net pr
 
 &emsp;"(B) A facility is described in this subparagraph if such facility is the primary airport for a city described in paragraph (3)(C). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $500,000,000. Section 148(d)(2) of the 1986 Code shall not apply to any issue to which this subparagraph applies. A facility shall be described in this subparagraph if it would be so described if '90 percent' were substituted for '95 percent' in the material preceding subparagraph (A).
 
-&emsp;"(C) A facility is described in this subparagraph if such facility is a hotel at Logan airport and such hotel is located on land leased from a State authority under a lease contemplating development of such hotel dated May 1, 1983, or under an amendment, renewal, or extension of such a lease. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $40,000,000.
+&emsp;"(C) A facility is described in this subparagraph if such facility is a hotel at Logan airport and suchhotel is located on land leased from a State authority under a lease contemplating development of such hotel dated May 1, 1983, or under an amendment, renewal, or extension of such a lease. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $40,000,000.
 
 &emsp;"(D) A facility is described in this subparagraph if such facility is the airport for the County of Sacramento, California. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
 
@@ -2106,7 +2106,7 @@ Tax-exempt status of bonds of certain educational organizations.—
 
 &emsp;"(A)
 
-In general.—For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code,a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
+In general.—For purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code, a qualified educational organization shall be treated as a governmental unit, but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business (determined by applying section 513(a) of such Code to such organization). The last paragraph of this section shall not apply to the treatment under the preceding sentence.
 
 &emsp;"(B)
 
@@ -2198,7 +2198,7 @@ Small issue termination.—Section 144(a)(12) of the 1986 Code shall not apply t
 
 &emsp;"(F) A facility is described in this subparagraph if it is the Lakeland Center Hotel in Lakeland, Florida. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $10,000,000.
 
-&emsp;"(G) A facility is described in this subparagraph if it is the Marble Arcade office building renovation project in Lakeland, Florida. The aggregate faceamount of obligations to which this subparagraph applies shall not exceed $5,900,000.
+&emsp;"(G) A facility is described in this subparagraph if it is the Marble Arcade office building renovation project in Lakeland, Florida. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $5,900,000.
 
 &emsp;"(H) A facility is described in this subparagraph if it is a medical office building in Bradenton, Florida, with respect to which—
 
@@ -2224,7 +2224,7 @@ Certain private loans not taken into account.—For purposes of determining whet
 
 Certain private business use not taken into account.—
 
-&emsp;"(A) The nonqualified amount of the proceeds of an issue shall not be taken into account under section 141(b)(5) of the 1986 Code or in determining whether a bond described in subparagraph (B) (which is part of such issue) is a private activity bond for purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code.
+&emsp;"(A) The nonqualified amount of the proceeds of an issue shall not be taken into account under section 141(b)(5) of the 1986 Code or in determining whether a bond described in subparagraph (B) (which is part ofsuch issue) is a private activity bond for purposes of section 103 and part IV of subchapter B of chapter 1 of the 1986 Code.
 
 &emsp;"(B) A bond is described in this subparagraph if—
 
@@ -2330,7 +2330,7 @@ Application of $150,000,000 limitation for certain qualified 501(c
 
 &emsp;&emsp;"(ii) the proceeds of the issue are to be used to finance projects (to be determined by such university and the issuer) which are similar to those projects intended to be financed by bonds that were the subject of a request transmitted to Congress on November 7, 1985\[.\]
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $200,000,000. Bonds to which this subparagraph applies shall be treated as qualified 501(c)(3) bonds if such bonds would not (if issued on August 15, 1986) be industrial development bonds (as defined in section 103(b)(2) of the 1954 Code), and section 147(f) of the 1986 Code shall not apply to the issue of which such bonds are a part. Bonds issued to finance facilities described in this subparagraph shall be treated as issued to finance such facilities notwithstanding the fact that a period in excess of 1 year has expired since the facilities were placed in service.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $200,000,000. Bonds to which this subparagraph applies shall be treated as qualified 501(c)(3) bonds if such bonds would not (if issued on August 15, 1986) be industrial development bonds (as defined in section 103(b)(2) of the 1954 Code), and section 147(f) of the 1986 Code shall not apply to the issue of which such bonds are a part. Bonds issued to finance facilities described in thissubparagraph shall be treated as issued to finance such facilities notwithstanding the fact that a period in excess of 1 year has expired since the facilities were placed in service.
 
 &emsp;"(I) Proceeds of an issue are described in this subparagraph if the issue is issued on behalf of a university established on August 6, 1872, for a project approved by the trustees thereof on November 1, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $100,000,000.
 
@@ -2394,7 +2394,7 @@ Power purchase bonds.—A bond issued to finance purchase of power from a power 
 
 "(37)
 
-Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later than September 8,1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
+Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later than September 8, 1986, shall be treated as a qualified mortgage bond within the meaning of section 141(d)(1)(B) of the 1986 Code if it satisfies the requirements of section 103A of the 1954 Code and if the issues are issued by the two most populous cities in the Tar Heel State. The aggregate face amount of bonds to which this paragraph applies shall not exceed $4,000,000.
 
 "(38)
 
@@ -2510,7 +2510,7 @@ Treatment of certain obligations.—A bond which is not an industrial developmen
 
 > &emsp;The aggregate face amount of obligations to which this subparagraph applies shall not exceed $10,000,000.
 
-&emsp;"(B) A facility is described in this subparagraph if it is a convention, trade, or spectator facility which is to be located in the State with respect to which paragraph (6)(U) applies and with respect to which feasibility and preliminary design consultants were hired on May 1, 1985 and October 31, 1985. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $175,000,000.
+&emsp;"(B) A facility is described in this subparagraph if it is a convention, trade, or spectator facility which is to be located in the State with respect to which paragraph (6)(U) applies and with respect to which feasibility and preliminary design consultants werehired on May 1, 1985 and October 31, 1985. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $175,000,000.
 
 &emsp;"(C) A facility which is part of a project described in paragraph (6)(O). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $20,000,000.
 

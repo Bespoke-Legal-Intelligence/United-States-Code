@@ -80,7 +80,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after March 12, 2019, the Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall provide to the Secretary a list of all members of the Armed Forces who served during the period between August 5, 1964, and December 31, 1971.
+&emsp;&emsp;Not later than 180 days after March 12, 2019, the Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall provide to the Secretary a list of all members of the Armed Forces who servedduring the period between August 5, 1964, and December 31, 1971.
 
 #### (B) Use
 
@@ -172,7 +172,7 @@ In this section:
 
 &emsp;&emsp;(B) the proximity of the units of the National Wildlife Refuge System in the State to eligible individuals; and
 
-&emsp;&emsp;(C) the amount of additional Federal land within units of the National Wildlife Refuge System in the State that the Secretary estimates would be necessary to make allotments available for selection by eligible individuals.
+&emsp;&emsp;(C) the amount of additional Federal land within units of the National Wildlife RefugeSystem in the State that the Secretary estimates would be necessary to make allotments available for selection by eligible individuals.
 
 #### (4) Identifying Federal land in units of the National Wildlife Refuge System
 

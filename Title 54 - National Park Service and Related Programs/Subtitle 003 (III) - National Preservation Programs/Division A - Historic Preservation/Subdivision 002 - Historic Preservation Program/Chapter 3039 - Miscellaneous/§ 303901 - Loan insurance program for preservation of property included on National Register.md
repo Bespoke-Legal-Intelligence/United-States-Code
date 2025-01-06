@@ -52,7 +52,7 @@ Conveyance to Governmental or Nongovernmental Entity of Property Acquired by For
 
 &emsp;(1)
 
-Attempt to convey to ensure property's preservation and use.—In any case in which historic property is obtained pursuant to subsection (g), the Secretary shall attempt to convey the property to any governmental or nongovernmental entity under conditions that will ensure the property's continued preservation and use. If, after a reasonable time, the Secretary, in consultation with the Council, determines that there is no feasible and prudent means to convey the property and to ensure its continued preservation and use, the Secretary may convey the property at the fair market value of its interest in the property to any entity without restriction.
+Attempt to convey to ensure property's preservation and use.—In any case in which historic property is obtained pursuantto subsection (g), the Secretary shall attempt to convey the property to any governmental or nongovernmental entity under conditions that will ensure the property's continued preservation and use. If, after a reasonable time, the Secretary, in consultation with the Council, determines that there is no feasible and prudent means to convey the property and to ensure its continued preservation and use, the Secretary may convey the property at the fair market value of its interest in the property to any entity without restriction.
 
 &emsp;(2)
 

@@ -6,27 +6,27 @@ The Secretary shall establish a committee, to be known as the "Interagency Autis
 
 #### (b) Responsibilities
 
-In carrying out its duties under this section, the Committee shall—
+In carrying out its duties under this section, the Committee shall, on a regular basis—
 
 &emsp;(1) monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all relevant Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
 
-&emsp;(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
+&emsp;(2) summarize of <sup>1</sup> advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
 
-&emsp;(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with <sup>1</sup> respect to the strategic plan developed under paragraph (5);
+&emsp;(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with <sup>2</sup> respect to the strategic plan developed under paragraph (5);
 
 &emsp;(4) make recommendations to the Secretary regarding public participation in decisions relating to autism spectrum disorder, and the process by which public feedback can be better integrated into such decisions;
 
-&emsp;(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, including as practicable for services and supports, for individuals with an autism spectrum disorder across the lifespan of such individuals and the families of such individuals, which shall include—
+&emsp;(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, as described in section 284g(a)(1) of this title, which shall include—
 
 &emsp;&emsp;(A) proposed budgetary requirements; and
 
 &emsp;&emsp;(B) recommendations to ensure that autism spectrum disorder research, and services and support activities to the extent practicable, of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative; and
 
-&emsp;(6) submit to Congress and the President—
+&emsp;(6) submit to the Congress and the President—
 
 &emsp;&emsp;(A) an annual update on the summary of advances described in paragraph (2); and
 
-&emsp;&emsp;(B) an annual update to the strategic plan described in paragraph (5), including any progress made in achieving the goals outlined in such strategic plan.
+&emsp;&emsp;(B) a biennial update on the strategic plan described in paragraph (5), including progress made in achieving the goals outlined in such strategic plan and any specific measures taken pursuant to such strategic plan.
 
 #### (c) Membership
 
@@ -36,7 +36,7 @@ In carrying out its duties under this section, the Committee shall—
 
 &emsp;&emsp;(A) the Director of the Centers for Disease Control and Prevention;
 
-&emsp;&emsp;(B) the Director of the National Institutes of Health, and the Directors of such national research institutes of the National Institutes of Health as the Secretary determines appropriate;
+&emsp;&emsp;(B) the Director of the National Institutes of Health, and the Directors of such nationalresearch institutes of the National Institutes of Health as the Secretary determines appropriate;
 
 &emsp;&emsp;(C) the heads of such other agencies as the Secretary determines appropriate, such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare \& Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration; and
 
@@ -44,7 +44,7 @@ In carrying out its duties under this section, the Committee shall—
 
 #### (2) Non-Federal members
 
-&emsp;Not more than ½, but not fewer than 1/3, of the total membership of the Committee,<sup>2</sup> shall be composed of non-Federal public members to be appointed by the Secretary, of which—
+&emsp;Not more than ½, but not fewer than 1/3, of the total membership of the Committee,<sup>3</sup> shall be composed of non-Federal public members to be appointed by the Secretary, of which—
 
 &emsp;&emsp;(A) at least three such members shall be individuals with a diagnosis of autism spectrum disorder;
 
@@ -78,13 +78,23 @@ In carrying out its functions, the Committee may establish subcommittees and con
 
 #### (f) Sunset
 
-This section shall not apply after September 30, 2024, and the Committee shall be terminated on such date.
+This section shall not apply after September 30, 2029, and the Committee shall be terminated on such date.
 
-(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827; amended Pub. L. 112–32, §2(3), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §5, Aug. 8, 2014, 128 Stat. 1832; Pub. L. 116–60, §3(c), Sept. 30, 2019, 133 Stat. 1112.)
+(July 1, 1944, ch. 373, title III, §399CC, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2827; amended Pub. L. 112–32, §2(3), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §5, Aug. 8, 2014, 128 Stat. 1832; Pub. L. 116–60, §3(c), Sept. 30, 2019, 133 Stat. 1112; Pub. L. 118–83, div. B, title II, §201(c), Sept. 26, 2024, 138 Stat. 1537; Pub. L. 118–180, §3(c), Dec. 23, 2024, 138 Stat. 2617.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–180, §3(c)(1)(A), inserted ", on a regular basis" after "shall" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 118–180, §3(c)(1)(B), substituted "summarize" for "develop a summary".
+
+Subsec. (b)(5), (6). Pub. L. 118–180, §3(c)(1)(C), added pars. (5) and (6) and struck out former pars (5) and (6) which related, respectively, to development of a strategic plan and annual updates to Congress and the President.
+
+Subsec. (f). Pub. L. 118–180, §3(c)(2), substituted "September 30, 2029" for "December 20, 2024".
+
+Pub. L. 118–83 substituted "December 20, 2024" for "September 30, 2024".
 
 <b>2019</b>—Subsec. (b)(2). Pub. L. 116–60, §3(c)(1)(A), inserted "across the lifespan of such individuals" before semicolon at end.
 
@@ -138,7 +148,9 @@ Subsec. (f). Pub. L. 113–157, §5(4), substituted "2019" for "2014".
 
 <b>2011</b>—Subsec. (f). Pub. L. 112–32 substituted "2014" for "2011".
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "recommendations".</i>
+<i><sup>1</sup></i><i> So in original. The word "of" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "recommendations".</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

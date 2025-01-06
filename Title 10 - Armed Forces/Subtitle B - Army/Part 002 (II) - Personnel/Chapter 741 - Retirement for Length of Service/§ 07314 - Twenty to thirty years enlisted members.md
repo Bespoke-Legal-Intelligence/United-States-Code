@@ -58,7 +58,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–343, §9(c), Sept. 8, 1980, 94 Stat. 1129, provided that: "The amendments made by this section \[amending this section and sections 3925, 8914, and 8925 of this title\] shall apply with respect to retired pay payable for months beginning after the date of the enactment of this Act \[Sept. 8, 1980\]."
+Pub. L. 96–343, §9(c), Sept. 8, 1980, 94 Stat. 1129, provided that: "The amendments made by this section\[amending this section and sections 3925, 8914, and 8925 of this title\] shall apply with respect to retired pay payable for months beginning after the date of the enactment of this Act \[Sept. 8, 1980\]."
 
 #### Effective Date of 1958 Amendment
 

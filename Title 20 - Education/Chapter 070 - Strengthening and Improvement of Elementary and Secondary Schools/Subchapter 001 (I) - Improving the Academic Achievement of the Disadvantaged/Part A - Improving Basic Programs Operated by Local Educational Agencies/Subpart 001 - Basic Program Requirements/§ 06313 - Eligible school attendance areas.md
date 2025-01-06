@@ -168,7 +168,7 @@ The Social Security Act, referred to in subsec. (a)(5)(A), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 6313, Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3532; amended Pub. L. 104–193, title I, §110(j)(1), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 106–78, title VII, §752(b)(10), Oct. 22, 1999, 113 Stat. 1169, related to eligible school attendance areas, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6313, Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3532; amended Pub. L. 104–193, title I, §110(j)(1), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 106–78, title VII, §752(b)(10), Oct. 22, 1999, 113 Stat. 1169, related to eligible school attendance areas, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Amount of contracts or subcontracts; provision for employment and advancement of qualified individuals with disabilities; regulations
 
-Any contract in excess of $10,000 entered into by any Federal department or agency for the procurement of personal property and nonpersonal services (including construction) for the United States shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified individuals with disabilities. The provisions of this section shall apply to any subcontract in excess of $10,000 entered into by a prime contractor in carrying out any contract for the procurement of personal property and nonpersonal services (including construction) for the United States. ThePresident shall implement the provisions of this section by promulgating regulations within ninety days after September 26, 1973.
+Any contract in excess of $10,000 entered into by any Federal department or agency for the procurement of personal property and nonpersonal services (including construction) for the United States shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified individuals with disabilities. The provisions of this section shall apply to any subcontract in excess of $10,000 entered into by a prime contractor in carrying out any contract for the procurement of personal property and nonpersonal services (including construction) for the United States. The President shall implement the provisions of this section by promulgating regulations within ninety days after September 26, 1973.
 
 #### (b) Administrative enforcement; complaints; investigations; departmental action
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 100–630, §206(c)(2), substituted "refused" for "refuses"
 
 Subsec. (c). Pub. L. 100–630, §206(c)(3), substituted "which the President" for "which The President" and "when the President" for "when The President".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–506, §§103(d)(2)(C), 1002(e)(3), substituted "individuals with handicaps" for "handicapped individuals" and "section 706(8) of this title" for "section 706(7) of this title".
+<b>1986</b>—Subsec. (a). Pub. L. 99–506, §§103(d)(2)(C), 1002(e)(3), substituted "individuals with handicaps" for"handicapped individuals" and "section 706(8) of this title" for "section 706(7) of this title".
 
 Subsec. (b). Pub. L. 99–506, §§103(d)(2)(B), (C), 1001(f)(2), substituted "individual with handicaps" for "handicapped individual", "individuals with handicaps" for "handicapped individuals", and "a contract" for "his contract".
 

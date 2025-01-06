@@ -314,7 +314,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 #### (1) Consultations with congressional advisers
 
-&emsp;In the course of negotiations conducted under this chapter, the United States Trade Representative shall consult closely and on a timely basis with, and keep fully apprised of the negotiations, the Congressional Oversight Group convened under section 3807 of this title and all committees of the House of Representatives and the Senate with jurisdiction over laws that would be affected by a trade agreement resulting from the negotiations.
+&emsp;In the course of negotiations conducted under this chapter, the United States Trade Representative shall consult closely and on atimely basis with, and keep fully apprised of the negotiations, the Congressional Oversight Group convened under section 3807 of this title and all committees of the House of Representatives and the Senate with jurisdiction over laws that would be affected by a trade agreement resulting from the negotiations.
 
 #### (2) Consultation before agreement initialed
 

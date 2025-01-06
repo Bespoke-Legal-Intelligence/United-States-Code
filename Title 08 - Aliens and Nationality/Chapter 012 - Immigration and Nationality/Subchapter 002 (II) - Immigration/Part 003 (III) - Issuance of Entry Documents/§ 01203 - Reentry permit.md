@@ -28,7 +28,7 @@ A permit issued under this section in the possession of the person to whom issue
 
 Clause (6) of section 3 of the Immigration Act of 1924, referred to in subsec. (a), which was classified to section 203(6) of this title, was repealed by section 403(a)(2) of act June 27, 1952. See section 1101(a)(15)(E) of this title.
 
-This chapter, referred to in subsec. (e), was in the original, "this Act", meaning act June 27, 1952, ch. 477,66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

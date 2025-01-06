@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Government of the People's Republic of China
 
-&emsp;The term "Government of the People's Republic of China" means the central Government of the People's Republic of China and any other governmental entity, including anyprovincial, prefectural, or local entity and any enterprise that is controlled by the central Government or any such governmental entity or as to which the central Government or any such governmental entity is entitled to receive a majority of the profits.
+&emsp;The term "Government of the People's Republic of China" means the central Government of the People's Republic of China and any other governmental entity, including any provincial, prefectural, or local entity and any enterprise that is controlled by the central Government or any such governmental entity or as to which the central Government or anysuch governmental entity is entitled to receive a majority of the profits.
 
 #### (3) Internationally recognized worker rights
 

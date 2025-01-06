@@ -108,11 +108,11 @@ This chapter, referred to in subsec. (f), was in the original "this title", mean
 
 <b>2017</b>—Subsec. (e)(2). Pub. L. 115–91, §2873(a)(1), substituted "Chief Operating Officer may acquire," for "Secretary of Defense may acquire," and "Chief Operating Officer may acquire" for "Secretary may acquire".
 
-Subsec. (e)(3). Pub. L. 115–91, §2873(a)(2), substituted "Chief Operating Officer determines" for "Secretary of Defense determines" and "Chief Operating Officer shall dispose" for "Secretary shall dispose".
+Subsec. (e)(3). Pub. L. 115–91, §2873(a)(2), substituted "Chief Operating Officer determines" for "Secretary ofDefense determines" and "Chief Operating Officer shall dispose" for "Secretary shall dispose".
 
 Subsec. (i)(1). Pub. L. 115–91, §2873(b)(1), in introductory provisions, substituted "Subject to the approval of the Secretary of Defense, whenever" for "Whenever", "Chief Operating Officer may" for "Secretary of Defense (acting on behalf of the Chief Operating Officer) may", and "Chief Operating Officer considers" for "Secretary considers".
 
-Subsec. (i)(5). Pub. L. 115–91, §2873(b)(2), substituted "the Chief Operating Officer may not enter into thelease" for "the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer".
+Subsec. (i)(5). Pub. L. 115–91, §2873(b)(2), substituted "the Chief Operating Officer may not enter into the lease" for "the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer".
 
 Subsec. (i)(6)(A). Pub. L. 115–91, §2873(b)(3), substituted "Chief Operating Officer shall" for "Secretary of Defense shall" in introductory provisions.
 

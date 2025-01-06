@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 95–501, §401(3), redesignated subsec. (f), relating to l
 
 <b>1965</b>—Subsec. (e). Pub. L. 89–106 added subsec. (e).
 
-<b>1955</b>—Subsec. (a). Act June 28, 1955, repealed provisions authorizing the Secretary of Agriculture to place not more than eight positions in grade 16 and two in grade 17 of the General Schedule of the Classification Act of 1949.
+<b>1955</b>—Subsec. (a). Act June 28, 1955, repealed provisions authorizing the Secretary of Agriculture to placenot more than eight positions in grade 16 and two in grade 17 of the General Schedule of the Classification Act of 1949.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

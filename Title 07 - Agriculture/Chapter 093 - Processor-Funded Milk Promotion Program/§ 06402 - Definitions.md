@@ -50,7 +50,7 @@ As used in this chapter:
 
 &emsp;"(B) does not include evaporated or condensed milk (plain or sweetened), evaporated or condensed skim milk (plain or sweetened), formulas specially prepared for infant feeding or dietary use that are packaged in hermetically sealed glass or all-metal containers, any product that contains by weight less than 6.5 percent nonfat milk solids, and whey."
 
-Par. (4). Pub. L. 107–171, §1506(b), substituted "3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer)" for "500,000 pounds of fluid milk products in consumer-type packages per month".
+Par. (4). Pub. L. 107–171, §1506(b), substituted "3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer)" for"500,000 pounds of fluid milk products in consumer-type packages per month".
 
 <b>1996</b>—Par. (6). Pub. L. 104–127 amended heading and text of par. (6) generally. Text read as follows: "The term 'research'—
 

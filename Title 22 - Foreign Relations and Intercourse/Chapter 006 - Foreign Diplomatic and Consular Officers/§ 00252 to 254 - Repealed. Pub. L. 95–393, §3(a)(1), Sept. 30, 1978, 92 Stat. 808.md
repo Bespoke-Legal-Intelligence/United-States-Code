@@ -4,7 +4,7 @@ Section 252, R.S. §4063, related to the immunity of any ambassador or public mi
 
 Section 253, R.S. §4064, related to imprisonment for not more than three years of anyone suing out a writ or process in violation of the provisions of former section 252 of this title, granting diplomatic immunity to certain persons.
 
-Section 254, R.S. §§4065, 4066, related to suits against persons in the service of an ambassador or public minister founded upon a debt contracted before entering such service, and registration of the names of persons serving as domestic servants of an ambassador or a public minister with the State Department.
+Section 254, R.S. §§4065, 4066, related to suits against persons in the service of an ambassador or public minister founded upon a debt contracted before enteringsuch service, and registration of the names of persons serving as domestic servants of an ambassador or a public minister with the State Department.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

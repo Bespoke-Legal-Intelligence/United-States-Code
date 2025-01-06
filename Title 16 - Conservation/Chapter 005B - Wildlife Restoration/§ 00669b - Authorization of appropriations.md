@@ -34,7 +34,7 @@
 
 Notwithstanding subsections (a) and (b) of this section, with respect to amounts transferred to the Wildlife Conservation and Restoration Account, so much of such amounts apportioned to any State for any fiscal year as remains unexpended at the close thereof shall remain available for obligation in that State until the close of the second succeeding fiscal year.
 
-(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct.22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034; Pub. L. 114–113, div. G, title I, §120, Dec. 18, 2015, 129 Stat. 2552.)
+(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034; Pub. L. 114–113, div. G, title I, §120, Dec. 18, 2015, 129 Stat. 2552.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +59,8 @@ Subsecs. (c), (d). Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)(2)\], added
 <b>1972</b>—Pub. L. 92–558 substituted "(beginning with the fiscal year 1975)" for "(beginning with the fiscal year 1971)" and inserted reference to section 4161(b) of title 26.
 
 <b>1970</b>—Pub. L. 91–503 inserted provisions for the deposit of the 10 per cent tax on pistols and revolvers under section 4181 of title 26 into the Federal aid to wildlife restoration fund beginning in fiscal year 1971.
+
+
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

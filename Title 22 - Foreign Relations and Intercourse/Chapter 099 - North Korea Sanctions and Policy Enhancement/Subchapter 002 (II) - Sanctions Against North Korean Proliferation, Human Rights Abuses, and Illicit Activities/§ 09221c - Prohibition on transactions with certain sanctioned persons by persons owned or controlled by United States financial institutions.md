@@ -16,7 +16,7 @@ A transaction described in this subsection is a transaction that would be prohib
 
 #### (c) Civil penalties
 
-The civil penalty provided for in section 206(b) of the International Emergency Economic Powers Act (50 U.S.C. 1705(b)) shall apply to a United States financial institution to the same extent that such penalty applies to a person that commits an unlawful act described in section 206(a) of that Act if an entity owned or controlled by the United States financial institution and established or maintained outside the United States violates, attempts to violate, conspires to violate, or causes a violation of any order or regulation issued to implement subsection (a).
+The civil penalty provided for in section 206(b) of the International Emergency Economic Powers Act (50 U.S.C. 1705(b)) shall apply to a United States financial institution to the same extentthat such penalty applies to a person that commits an unlawful act described in section 206(a) of that Act if an entity owned or controlled by the United States financial institution and established or maintained outside the United States violates, attempts to violate, conspires to violate, or causes a violation of any order or regulation issued to implement subsection (a).
 
 #### (d) United States financial institution defined
 

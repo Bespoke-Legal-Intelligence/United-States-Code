@@ -30,7 +30,7 @@
 
 &emsp;(i) have already been paid under any other provision of Federal law, or
 
-&emsp;(ii) are reimbursable under any other provision of Federal law and a portion of such costshave already been paid under such other provision of Federal law.
+&emsp;(ii) are reimbursable under any other provision of Federal law and a portion of such costs have already been paid under such other provision of Federal law.
 
 (C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker, even if such use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker.
 
@@ -72,7 +72,7 @@
 
 &emsp;(C) such plan or program requires the worker to reimburse the plan or program from funds provided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
 
-(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A at any time after the date on which the group is certified under subpart A, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
+(8) The Secretary may approve training for any adversely affected worker who is a memberof a group certified under subpart A at any time after the date on which the group is certified under subpart A, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
 
 (9) The Secretary shall prescribe regulations which set forth the criteria under each of the subparagraphs of paragraph (1) that will be used as the basis for making determinations under paragraph (1).
 
@@ -102,7 +102,7 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 &emsp;(7) such training is not for the same occupation from which the worker was separated and with respect to which such worker's group was certified pursuant to section 2272 of this title,
 
-&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providingthe training and additional supervision related to the training,
+&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
 
 &emsp;(9) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of paragraphs (1), (2), (3), (4), (5), and (6), and
 
@@ -126,7 +126,7 @@ For purposes of this section, the term "customized training" means training that
 
 &emsp;(3) for which the employer pays for a significant portion (but in no case less than 50 percent) of the cost of such training, as determined by the Secretary.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I,§§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
 
 #### Termination of Assistance
 
@@ -146,7 +146,7 @@ Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
-Amendments made by Pub. L. 113–128 were effective July 1, 2015, and were executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub.L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
+Amendments made by Pub. L. 113–128 were effective July 1, 2015, and were executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival notes below.
 

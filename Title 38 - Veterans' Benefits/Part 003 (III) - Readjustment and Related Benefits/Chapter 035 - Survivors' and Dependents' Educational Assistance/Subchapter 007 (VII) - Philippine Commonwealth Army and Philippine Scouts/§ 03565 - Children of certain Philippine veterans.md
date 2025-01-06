@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted "3512" for "1712".
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–446 applicable with respect to payments made after Dec. 31, 1994, see section 507(c) of Pub. L. 103–446, set out as a note under section 107 of this title.
+Amendment by Pub. L. 103–446 applicable with respect to payments made after Dec. 31, 1994, see section507(c) of Pub. L. 103–446, set out as a note under section 107 of this title.
 
 #### Savings Provision
 

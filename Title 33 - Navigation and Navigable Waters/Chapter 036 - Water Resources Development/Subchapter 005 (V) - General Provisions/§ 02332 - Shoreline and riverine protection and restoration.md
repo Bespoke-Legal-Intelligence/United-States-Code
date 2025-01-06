@@ -54,7 +54,7 @@ The Secretary may carry out studies and projects to—
 
 #### (C) Credit
 
-&emsp;&emsp;The value of such land, easements, rights-of-way, dredged material disposal areas, and relocations shall be credited toward the payment required under this paragraph.
+&emsp;&emsp;The value of such land, easements, rights-of-way, dredged material disposal areas, andrelocations shall be credited toward the payment required under this paragraph.
 
 #### (3) Structural flood control or hurricane and storm damage reduction projects
 
@@ -172,6 +172,10 @@ Notwithstanding any requirement for economic justification established under sec
 
 &emsp;&emsp;(K) Kentucky River and its tributaries and watersheds.
 
+&emsp;&emsp;(L) Shoreline of the State of Connecticut.
+
+&emsp;&emsp;(M) Winooski River tributary watershed, Vermont.
+
 #### (f) Procedure
 
 #### (1) All projects
@@ -192,13 +196,13 @@ In this section:
 
 #### (1) Economically disadvantaged community
 
-&emsp;The term "economically disadvantaged community" has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 (33 U.S.C. 2201 note).
+&emsp;The term "economically disadvantaged community" has the meaning given the term as defined by the Secretary under section 160 ofthe Water Resources Development Act of 2020 (33 U.S.C. 2201 note).
 
 #### (2) Natural feature; nature-based feature
 
 &emsp;The terms "natural feature" and "nature-based feature" have the meanings given those terms in section 2289a(a) of this title.
 
-(Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, §227, Dec. 11, 2000, 114 Stat. 2599; Pub. L. 110–114, title V, §5005, Nov. 8, 2007, 121 Stat. 1192; Pub. L. 117–263, div. H, title LXXXI, §8103(a), Dec. 23, 2022, 136 Stat. 3696.)
+(Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, §227, Dec. 11, 2000, 114 Stat. 2599; Pub. L. 110–114, title V, §5005, Nov. 8, 2007, 121 Stat. 1192; Pub. L. 117–263, div. H, title LXXXI, §8103(a), Dec. 23, 2022, 136 Stat. 3696; Pub. L. 118–272, div. A, title I, §1138, Jan. 4, 2025, 138 Stat. 3026.)
 
 #### <b>Editorial Notes</b>
 
@@ -211,6 +215,8 @@ Section 160 of the Water Resources Development Act of 2020, referred to in subse
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (e)(2)(L), (M). Pub. L. 118–272 added subpars. (L) and (M).
 
 <b>2022</b>—Pub. L. 117–263, §8103(a)(1), substituted "Shoreline and riverine protection and restoration" for "Flood mitigation and riverine restoration program" in section catchline.
 

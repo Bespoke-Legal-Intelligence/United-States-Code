@@ -6,7 +6,7 @@ From amounts made available in accordance with section 6363 of this title, the S
 
 &emsp;(1) To pay the costs of the development of the State assessments and standards adopted under section 6311(b) of this title, which may include the costs of working in voluntary partnerships with other States, at the sole discretion of each such State.
 
-&emsp;(2) If a State has developed the assessments adopted under section 6311(b) of this title, to administer those assessments or to carry out other assessment activities described in this part, such as the following:
+&emsp;(2) If a State has developed the assessments adopted under section 6311(b) of this title, to administer those assessments or to carry outother assessment activities described in this part, such as the following:
 
 &emsp;&emsp;(A) Ensuring the provision of appropriate accommodations available to English learners and children with disabilities to improve the rates of inclusion in regular assessments of such children, including professional development activities to improve the implementation of such accommodations in instructional practice.
 

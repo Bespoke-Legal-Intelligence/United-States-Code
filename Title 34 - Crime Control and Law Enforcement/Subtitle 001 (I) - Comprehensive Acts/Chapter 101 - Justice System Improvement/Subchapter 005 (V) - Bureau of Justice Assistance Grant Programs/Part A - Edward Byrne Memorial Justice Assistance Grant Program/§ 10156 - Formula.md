@@ -58,7 +58,7 @@ Of the amounts allocated under subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;From the amounts referred to in paragraph (1) with respect to a State (in this subsection referred to as the "local amount"), the Attorney General shall allocate to eachunit of local government an amount which bears the same ratio to such share as the average annual number of part 1 violent crimes reported by such unit to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available bears to the number of part 1 violent crimes reported by all units of local government in the State in which the unit is located to the Federal Bureau of Investigation for such years.
+&emsp;&emsp;From the amounts referred to in paragraph (1) with respect to a State (in this subsection referred to as the "local amount"), the Attorney General shall allocate to each unit of local government an amount which bears the same ratio to such share as the average annual number of part 1 violent crimes reported by such unit to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available bears to the number of part 1 violent crimes reported by all units of local government in the State in which the unit is located to the Federal Bureau of Investigation for such years.
 
 #### (B) Transitional rule
 
@@ -106,7 +106,7 @@ If the Attorney General determines, on the basis of information available during
 
 #### (1) All funds set aside for Commonwealth government
 
-&emsp;Notwithstanding any other provision of this part, the amounts allocated under subsection (a) to Puerto Rico, 100 percent shall be for direct grants to the Commonwealth government of Puerto Rico.
+&emsp;Notwithstanding any other provision of this part, the amounts allocated under subsection\(a) to Puerto Rico, 100 percent shall be for direct grants to the Commonwealth government of Puerto Rico.
 
 #### (2) No local allocations
 

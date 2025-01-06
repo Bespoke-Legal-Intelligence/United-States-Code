@@ -30,7 +30,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(2), 
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, whichwas classified generally to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

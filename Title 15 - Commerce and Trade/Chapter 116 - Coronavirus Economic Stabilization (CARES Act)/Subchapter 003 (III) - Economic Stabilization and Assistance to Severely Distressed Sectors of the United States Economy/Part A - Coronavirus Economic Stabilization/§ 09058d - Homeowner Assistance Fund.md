@@ -28,7 +28,7 @@ In this section:
 
 &emsp;The term "mortgage" means any credit transaction—
 
-&emsp;&emsp;(A) that is secured by a mortgage, deed of trust, or other consensual security interest on a principal residence of a borrower that is (i) a 1- to 4-unit dwelling, or (ii) residential real property that includes a 1- to 4-unit dwelling; and
+&emsp;&emsp;(A) that is secured by a mortgage, deed of trust, or other consensual security interest on a principal residence of a borrower that is (i) a 1- to 4-unit dwelling, or (ii) residentialreal property that includes a 1- to 4-unit dwelling; and
 
 &emsp;&emsp;(B) the unpaid principal balance of which was, at the time of origination, not more than the conforming loan limit.
 
@@ -106,7 +106,7 @@ In this section:
 
 #### (B) Pro rata adjustments
 
-&emsp;&emsp;The Secretary shall adjust on a pro rata basis the amount of the payments for each State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico determined under this subsection without regard to this subparagraph to the extent necessary to comply with the requirements of subparagraph (A).
+&emsp;&emsp;The Secretary shall adjust on a pro rata basis the amount of the payments for each State of the United States, the District of Columbia, and the Commonwealth of PuertoRico determined under this subsection without regard to this subparagraph to the extent necessary to comply with the requirements of subparagraph (A).
 
 #### (4) Territory set-aside
 

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;No person shall be prosecuted, tried, or punished for violation of section 2402 of this title unless the indictment is returned or the information is filed within 10 years after the date on which the offense was completed.
+&emsp;No person shall be prosecuted, tried, or punished for violation of section 2402 of this titleunless the indictment is returned or the information is filed within 10 years after the date on which the offense was completed.
 
 #### (2) Tolling
 

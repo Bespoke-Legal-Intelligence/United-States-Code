@@ -9,7 +9,7 @@
 | [12405\.](%C2%A7%2012405%20-%20National%20Guard%20in%20Federal%20service%20status.md) | National Guard in Federal service: status. |
 | [12406\.](%C2%A7%2012406%20-%20National%20Guard%20in%20Federal%20service%20call.md) | National Guard in Federal service: call. |
 | [12407\.](%C2%A7%2012407%20-%20National%20Guard%20in%20Federal%20service%20period%20of%20service%3B%20apportionment.md) | National Guard in Federal service: period of service; apportionment. |
-| [12408\.](%C2%A7%2012408%20-%20National%20Guard%20in%20Federal%20service%20physical%20examination.md) | National Guard in Federal service: physical examination. |
+| [12408\.](%C2%A7%2012408%20-%20National%20Guard%20in%20Federal%20service%20physical%20examination.md) | National Guard in Federal service: physical examination.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

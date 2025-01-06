@@ -16,7 +16,7 @@
 
 (3) To the extent that indirect costs (including charges for plant and production equipment), administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
 
-(4) The pricing principles set forth in paragraph (2) and the waiver authority provided in paragraph (3) shall also apply to agreements with North Atlantic Treaty Organization subsidiary bodies and the United Nations Organization or any regional international organization under this subchapter.
+(4) The pricing principles set forth in paragraph (2) and the waiver authority provided inparagraph (3) shall also apply to agreements with North Atlantic Treaty Organization subsidiary bodies and the United Nations Organization or any regional international organization under this subchapter.
 
 (c) In acquiring or transferring logistics support, supplies, or services under the authority of this subchapter by exchange of supplies or services, the Secretary of Defense may not agree to or carry out the following:
 

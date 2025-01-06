@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(3) A substantial number of women choose to raise their child conceived through rape and, as a result, may face custody battles with their rapists.
 
-&emsp;(4) Rape is one of the most under-prosecuted serious crimes, with estimates of criminal conviction occurring in less than 5 percent of rapes.
+&emsp;(4) Rape is one of the most under-prosecuted serious crimes, with estimates of criminalconviction occurring in less than 5 percent of rapes.
 
 &emsp;(5) The clear and convincing evidence standard is the most common standard for termination of parental rights among the 50 States, territories, and the District of Columbia.
 

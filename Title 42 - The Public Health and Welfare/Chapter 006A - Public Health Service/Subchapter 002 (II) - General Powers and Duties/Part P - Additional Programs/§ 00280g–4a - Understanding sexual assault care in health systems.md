@@ -40,7 +40,7 @@ To be eligible to receive a grant under this section, a State or Indian Tribe sh
 
 &emsp;&emsp;(A) Make the findings of the survey conducted using amounts received under the grant public, including a map showing health care providers who perform medical forensic examinations, based on the findings from the State and Tribal surveys under subsection (b)(3).
 
-&emsp;&emsp;(B) Use the findings to develop a strategic action plan to increase the number of trained medical forensic examiners available in the State or Tribal community and create policies to increase survivor access to trained examiners.
+&emsp;&emsp;(B) Use the findings to develop a strategic action plan to increase the number of trained medical forensic examiners availablein the State or Tribal community and create policies to increase survivor access to trained examiners.
 
 &emsp;&emsp;(C) Use the findings to develop and implement a public awareness campaign that includes the following:
 
@@ -68,9 +68,9 @@ Section was enacted as part of the Violence Against Women Act Reauthorization Ac
 
 #### Effective Date
 
-Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) ofdiv. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-#### National Report on Sexual Assault Services in Our Nation's Health System
+#### National Report on Sexual Assault Services in Nation's Health System
 
 Pub. L. 117–103, div. W, title V, §504, Mar. 15, 2022, 136 Stat. 876, provided that:
 

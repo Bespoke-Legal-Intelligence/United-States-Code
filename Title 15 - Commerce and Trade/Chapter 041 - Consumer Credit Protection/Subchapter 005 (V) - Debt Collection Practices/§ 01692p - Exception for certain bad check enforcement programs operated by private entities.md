@@ -46,7 +46,7 @@ A check is described in this subsection if the check involves, or is subsequentl
 
 &emsp;(2) a stop payment order where the issuer acted in good faith and with reasonable cause in stopping payment on the check;
 
-&emsp;(3) a check dishonored because of an adjustment to the issuer's account by the financial institution holding such account without providing notice to the person at the time the check was made, drawn, or delivered;
+&emsp;(3) a check dishonored because of an adjustment to the issuer's account by the financialinstitution holding such account without providing notice to the person at the time the check was made, drawn, or delivered;
 
 &emsp;(4) a check for partial payment of a debt where the payee had previously accepted partial payment for such debt;
 

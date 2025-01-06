@@ -46,7 +46,7 @@
 
 #### (b) Great Lakes National Program Office
 
-The Great Lakes National Program Office (previously established by the Administrator) is hereby established within the Agency. The Program Office shall be headed by a Director who, by reason of management experience and technical expertise relating to the Great Lakes, is highly qualified to direct the development ofprograms and plans on a variety of Great Lakes issues. The Great Lakes National Program Office shall be located in a Great Lakes State.
+The Great Lakes National Program Office (previously established by the Administrator) is hereby established within the Agency. The Program Office shall be headed by a Director who, by reason of management experience and technical expertise relating to the Great Lakes, is highly qualified to direct the development of programs and plans on a variety of Great Lakes issues. The Great Lakes National Program Office shall be located in a Great Lakes State.
 
 #### (c) Great Lakes management
 
@@ -82,7 +82,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(iii) includes such Remedial Action Plans within the State's water quality plan by January 1, 1993.
 
-&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
+&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, workwith Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
 &emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
@@ -276,7 +276,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (8) Administrator's responsibility
 
-&emsp;The Administrator shall ensure that the Program Office enters into agreements withthe various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
+&emsp;The Administrator shall ensure that the Program Office enters into agreements with the various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
 
 &emsp;&emsp;(A) the duties and responsibilities of each such element in the Agency with respect to the Great Lakes;
 
@@ -362,7 +362,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (II) Credit
 
-&emsp;&emsp;&emsp;&emsp;A project agreement described in subparagraph (D)(iii) may provide, with respect to a project, that the Administrator shall credit toward the non-Federal share of the cost of the project the value of an in-kind contribution made by the non-Federal sponsor, if the Administrator determines that the material orservice provided as the in-kind contribution is integral to the project.
+&emsp;&emsp;&emsp;&emsp;A project agreement described in subparagraph (D)(iii) may provide, with respect to a project, that the Administrator shall credit toward the non-Federal share of the cost of the project the value of an in-kind contribution made by the non-Federal sponsor, if the Administrator determines that the material or service provided as the in-kind contribution is integral to the project.
 
 #### (III) Work performed before project agreement
 
@@ -414,7 +414,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2010.
+&emsp;&emsp;&emsp;In addition to other amounts authorized under this section, there is authorized tobe appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2010.
 
 #### (ii) Availability
 
@@ -488,7 +488,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>1</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit anannual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>1</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
@@ -780,7 +780,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 (b) Membership and Operation.
 
-&emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
+&emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the TaskForce functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
 
 &emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
 

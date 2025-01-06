@@ -4,7 +4,7 @@ Section 941, act May 20, 1936, ch. 432, title IV, §401, as added Pub. L. 92–1
 
 Section 942, act May 20, 1936, ch. 432, title IV, §402, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 30, set out the general powers of the telephone bank.
 
-Section 943, act May 20, 1936, ch. 432, title IV, §403, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 31; amendedPub. L. 103–354, title II, §235(a)(9), Oct. 13, 1994, 108 Stat. 3221, related to special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation.
+Section 943, act May 20, 1936, ch. 432, title IV, §403, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, §235(a)(9), Oct. 13, 1994, 108 Stat. 3221, related to special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation.
 
 Section 944, act May 20, 1936, ch. 432, title IV, §404, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, §235(a)(10), Oct. 13, 1994, 108 Stat. 3221, required the the Secretary to designate an official of the Department of Agriculture to serve as the chief executive officer or governor of the telephone bank, who would perform all functions, powers, and duties of the telephone bank, except as otherwise provided.
 

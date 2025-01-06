@@ -6,7 +6,7 @@ Cyberspace Operations Officer.—The minimum service obligation for any member w
 
 (b)
 
-Service Obligation Defined.—In this section, the term "service obligation" means theperiod of active duty or, in the case of a member of a reserve component who completed cyberspace operations training in an active duty for training status as a member of a reserve component, the period of service in an active status in the Selected Reserve, required to be served after completion of cyberspace operations training.
+Service Obligation Defined.—In this section, the term "service obligation" means the period of active duty or, in the case of a member of a reserve component who completed cyberspace operations training in an active duty for training status as a member of a reserve component, the period of service in an active status in the Selected Reserve, required to be served after completion of cyberspace operations training.
 
 (Added Pub. L. 118–31, div. A, title V, §509(b), Dec. 22, 2023, 137 Stat. 243.)
 

@@ -18,7 +18,7 @@ The Secretary, in consultation with appropriate regional fishery management coun
 
 #### (b) Reporting
 
-Beginning 1 year after January 12, 2007, the Secretary, in consultation with the Councils, shall submit biennial reports to Congress and the public on steps taken by the Secretary to identify, monitor, and protect deep sea coral areas, including summaries of the results of mapping, research, and data collection performed under the program.
+Beginning 1 year after January 12, 2007, the Secretary, in consultation with the Councils,shall submit biennial reports to Congress and the public on steps taken by the Secretary to identify, monitor, and protect deep sea coral areas, including summaries of the results of mapping, research, and data collection performed under the program.
 
 (Pub. L. 94–265, title IV, §408, as added Pub. L. 109–479, title II, §211, Jan. 12, 2007, 120 Stat. 3618.)
 

@@ -110,7 +110,7 @@ Exploit.—The term 'exploit' means a software tool designed to take advantage o
 
 &emsp;"(4)
 
-Industrial control system.—The term 'industrial control system' means an operational technology used to measure, control, or manage industrial functions, and includes supervisory control and data acquisition systems, distributed control systems, and programmable logic or embedded controllers.
+Industrial control system.—The term 'industrial control system' means an operational technology used to measure, control, or manage industrial functions, and includes supervisory control anddata acquisition systems, distributed control systems, and programmable logic or embedded controllers.
 
 &emsp;"(5)
 

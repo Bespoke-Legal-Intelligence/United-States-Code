@@ -20,7 +20,7 @@ Limitation on effect.—Eligibility determinations under this paragraph shall no
 
 #### (b) Periodic payments
 
-The Administrator shall, from time to time as the work progresses, make payments to the recipient of a grant for costs of construction incurred on a project. These payments shall at no time exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project.
+The Administrator shall, from time to time as the work progresses, make payments to the recipient of a grant for costs of construction incurred on a project. These payments shall at no time exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have beenstockpiled in the vicinity of such construction in conformity to plans and specifications for the project.
 
 #### (c) Final payments
 
@@ -38,7 +38,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 #### (1) Agreement
 
-&emsp;Consistent with State law, an applicant who proposes to construct waste water treatment works may enter into an agreement with the Administrator under this subsection providingfor the preparation of construction plans and specifications and the erection of such treatment works, in lieu of proceeding under the other provisions of this section.
+&emsp;Consistent with State law, an applicant who proposes to construct waste water treatment works may enter into an agreement with the Administrator under this subsection providing for the preparation of construction plans and specifications and the erection of such treatment works, in lieu of proceeding under the other provisions of this section.
 
 #### (2) Limitation on projects
 
@@ -90,7 +90,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 &emsp;A recipient of a grant made pursuant to this subsection shall not be eligible for any other grants under this subchapter for the same project.
 
-(June 30, 1948, ch. 758, title II, §203, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 93–243, §2, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§18, 19, Dec. 27, 1977, 91 Stat. 1571, 1572; Pub. L. 96–483, §6, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, §9, Dec. 29, 1981, 95 Stat. 1626; Pub. L. 100–4, title II, §§203, 204, Feb. 4, 1987, 101 Stat. 16, 17.)
+(June 30, 1948, ch. 758, title II, §203, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 835;amended Pub. L. 93–243, §2, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§18, 19, Dec. 27, 1977, 91 Stat. 1571, 1572; Pub. L. 96–483, §6, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, §9, Dec. 29, 1981, 95 Stat. 1626; Pub. L. 100–4, title II, §§203, 204, Feb. 4, 1987, 101 Stat. 16, 17.)
 
 #### <b>Editorial Notes</b>
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 100–4, §204, added subsec. (f).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–483 substituted "$4,000,000" and "$5,000,000" for "$2,000,000" and "$3,000,000", respectively.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–217, §18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator tohave unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
+<b>1977</b>—Subsec. (a). Pub. L. 95–217, §18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
 
 Subsec. (e). Pub. L. 95–217, §19, added subsec. (e).
 

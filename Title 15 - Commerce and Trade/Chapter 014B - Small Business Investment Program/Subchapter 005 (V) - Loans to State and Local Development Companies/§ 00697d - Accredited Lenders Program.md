@@ -18,7 +18,7 @@ The Administration may designate a qualified State or local development company 
 
 &emsp;(5) has a history of submitting to the Administration complete and accurate debenture guaranty application packages; and
 
-&emsp;(6) has demonstrated the ability to serve small business credit needs for financing plantand equipment through the Development Company Program.
+&emsp;(6) has demonstrated the ability to serve small business credit needs for financing plant and equipment through the Development Company Program.
 
 #### (c) Expedited processing of loan applications
 

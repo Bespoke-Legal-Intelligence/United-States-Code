@@ -2,7 +2,7 @@
 
 #### (a) Voiding of preexisting licenses
 
-After the effective date of this subchapter, all licenses, permits, and authorizations other thanthose issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulated by this subchapter, and whether issued before or after the effective date of this subchapter.
+After the effective date of this subchapter, all licenses, permits, and authorizations other than those issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulated by this subchapter, and whether issued before or after the effective date of this subchapter.
 
 #### (b) Actions under authority of Rivers and Harbors Act
 
@@ -48,7 +48,7 @@ In addition to other provisions of law and not withstanding the specific exclusi
 
 Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting from noncompliance with any requirement of this Act or any permit under this Act.
 
-(Pub. L. 92–532, title I, §106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, §4, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 99–499, title I, §127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, §203, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, §505, Oct. 31, 1992, 106 Stat. 4867.)
+(Pub. L. 92–532, title I, §106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, §4, Dec. 22, 1980, 94 Stat.3345; Pub. L. 99–499, title I, §127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, §203, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, §505, Oct. 31, 1992, 106 Stat. 4867.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,7 +66,7 @@ This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classifie
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–580 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "After the effective date of this subchapter, no State shall adopt or enforce any rule or regulation relating to any activity regulated by this subchapter. Any State may, however, propose to the Administrator criteria relating to the dumping of materials into ocean waters within its jurisdiction, or into other ocean waters to the extent that such dumping may affect waters within the jurisdiction of such State, and if the Administrator determines, after notice and opportunity for hearing, that the proposed criteria are not inconsistent with the purposes of this subchapter, may adopt those criteria and may issue regulations to implement such criteria. Such determination shall be made by the Administrator within one hundred and twenty days of receipt of the proposed criteria. For the purposes of this subsection, the term 'State' means any State, interstate or regional authority, Federal territory or Commonwealth or the District of Columbia."
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–596, which directed the substitution of "the requirements of this subchapter" for all after "shall comply with" in "subsection 116(g) of the Marine Protection Research and Sanctuaries Act\(33 U.S.C. 1416(g))", was executed by making the substitution for "the criteria established pursuant to the second sentence of section 1412(a) of this title relating to the effects of dumping. Subsection (d) of this section shall not apply to this subsection." which followed "shall comply with" in section 106(f) of the Marine Protection Research and Sanctuaries Act of 1972, which is classified to subsec. (f) of this section, to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (f). Pub. L. 101–596, which directed the substitution of "the requirements of this subchapter" for all after "shall comply with" in "subsection 116(g) of the Marine Protection Research and Sanctuaries Act (33 U.S.C. 1416(g))", was executed by making the substitution for "the criteria established pursuant to the second sentence of section 1412(a) of this title relating to the effects of dumping. Subsection (d) of this section shall not apply to this subsection." which followed "shall comply with" in section 106(f) of the Marine Protection Research and Sanctuaries Act of 1972, which is classified to subsec. (f) of this section, to reflect the probable intent of Congress.
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–499 added subsec. (g).
 

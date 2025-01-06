@@ -8,13 +8,13 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (1) Requirements of percentage of completion method
 
-&emsp;Except as provided in paragraph (3), in the case of any long-term contract with respect towhich the percentage of completion method is used—
+&emsp;Except as provided in paragraph (3), in the case of any long-term contract with respect to which the percentage of completion method is used—
 
 &emsp;&emsp;(A) the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
-> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655),any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
 #### (2) Look-back method
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 #### (3) Construction contract
 
-&emsp;For purposes of this subsection, the term "construction contract" means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
+&emsp;For purposes of this subsection, the term "construction contract" means any contractfor the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
 
 #### (4) Special rule for residential construction contracts which are not home construction contracts
 

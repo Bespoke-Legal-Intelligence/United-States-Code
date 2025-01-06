@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Agency for Healthcare Research and Quality, shall establish a Primary Care Extension Program.
+&emsp;The Secretary, acting through the Director of the Agency for Healthcare Research andQuality, shall establish a Primary Care Extension Program.
 
 #### (2) Purpose
 
@@ -90,7 +90,7 @@
 
 #### (2) Applications
 
-&emsp;To be eligible for a grant under subsection (b), a State or multistate entity shall submitto the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible for a grant under subsection (b), a State or multistate entity shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (3) Evaluation
 

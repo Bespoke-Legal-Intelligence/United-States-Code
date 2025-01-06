@@ -44,7 +44,7 @@
 
 #### (B) References in plans
 
-&emsp;&emsp;A State or Tribal plan referred to in paragraph (1) may include a reference to a law of the State or Indian tribe regulating the production of hemp, to the extent that law is consistent with this subchapter.
+&emsp;&emsp;A State or Tribal plan referred to in paragraph (1) may include a reference to a law ofthe State or Indian tribe regulating the production of hemp, to the extent that law is consistent with this subchapter.
 
 #### (b) Approval
 
@@ -134,7 +134,7 @@ The Secretary may provide technical assistance to a State or Indian tribe in the
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), any person convicted of a felony relating to a controlled substance under State or Federal law before, on, or after December 20, 2018, shall be ineligible, during the 10-year period following the date of the conviction—
+&emsp;&emsp;&emsp;Except as provided in clause (ii), any person convicted of a felony relating to acontrolled substance under State or Federal law before, on, or after December 20, 2018, shall be ineligible, during the 10-year period following the date of the conviction—
 
 &emsp;&emsp;&emsp;&emsp;(I) to participate in the program established under this section or section 1639q of this title; and
 

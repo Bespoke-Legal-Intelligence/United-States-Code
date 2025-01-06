@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 110–246, §3005(2), struck out subsec. (c) which related 
 
 <b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining eligibility of developing countries for assistance under this subchapter and factors in determining priority for assistance.
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Commodity Credit Corporation to finance sales from its own and private stocks, and allowing it, upon request, to serve as purchasing and/or shipping agent.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Commodity Credit Corporation to finance sales fromits own and private stocks, and allowing it, upon request, to serve as purchasing and/or shipping agent.
 
 <b>1977</b>—Pub. L. 95–113 inserted provisions authorizing the Corporation, when requested by the purchaser of commodities, to serve as the purchasing or shipping agent, or both, in arranging the purchasing or shipping of the commodities.
 

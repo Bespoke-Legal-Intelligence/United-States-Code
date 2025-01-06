@@ -2,19 +2,7 @@
 
 (a) As soon as practicable after the end of each fiscal year, the Secretary of Transportation shall report to the President, for submission to Congress, on the activities of the Department of Transportation during the prior fiscal year.
 
-(b) The Secretary shall submit to the President and Congress each year a report on the aviation activities of the Department. The report shall include—
-
-&emsp;(1) collected information the Secretary considers valuable in deciding questions about—
-
-&emsp;&emsp;(A) the development and regulation of civil aeronautics;
-
-&emsp;&emsp;(B) the use of airspace of the United States; and
-
-&emsp;&emsp;(C) the improvement of the air navigation and traffic control system; and
-
-&emsp;(2) recommendations for additional legislation and other action the Secretary considers necessary.
-
-(c) The Secretary shall submit to Congress each year a report on the conditions of the public ports of the United States, including the—
+(b) The Secretary shall submit to Congress each year a report on the conditions of the public ports of the United States, including the—
 
 &emsp;(1) economic and technological development of the ports;
 
@@ -22,13 +10,11 @@
 
 &emsp;(3) factors that may impede the continued development of the ports.
 
-\[(d) Repealed. Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724.\]
-
-(e)(1) The Secretary shall submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report of estimates by the Secretary on the current performance and condition of public mass transportation systems with recommendations for necessary administrative or legislative changes.
+(c)(1) The Secretary shall submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report of estimates by the Secretary on the current performance and condition of public mass transportation systems with recommendations for necessary administrative or legislative changes.
 
 (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 118–63, title II, §218(a), May 16, 2024, 138 Stat. 1055.)
 
 Historical and Revision Notes
 
@@ -94,13 +80,17 @@ Jan. 6, 1983, Pub. L. 97–424, §310, 96 Stat. 2151.
 
 This \[deletion of the last sentence of subsection (a)\] is necessary because section 111(b) of the Congressional Reports Elimination Act of 1982 (Pub. L. 97–375, 96 Stat. 1821) repealed section 602 of the Regional Rail Reorganization Act of 1973 (Pub. L. 93–236, 87 Stat. 1022), which was restated as section 308(a) (last sentence) of title 49 by section 1 of the Act of January 12, 1983 (Pub. L. 97–449, 96 Stat. 2413).
 
-In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984and in January of every second year thereafter" to eliminate unnecessary words.
+In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984 and in January of every second year thereafter" to eliminate unnecessary words.
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e)(1). Pub. L. 105–362 substituted "submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report" for "submit a report to Congress in January of each even-numbered year".
+<b>2024</b>—Subsec. (b). Pub. L. 118–63, §218(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to annual report on aviation activities of the Department.
+
+Subsecs. (c), (e). Pub. L. 118–63, §218(a)(3), redesignated subsec. (e) as (c). Former subsec. (c) redesignated (b).
+
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–362 substituted "submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report" for "submit areport to Congress in January of each even-numbered year".
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress listing assistance provided by Government to railroad industry.
 
@@ -232,7 +222,7 @@ Pub. L. 114–94, div. A, title I, §1434, Dec. 4, 2015, 129 Stat. 1430, provide
 
 "(a)
 
-In General.—The Secretary \[of Transportation\] shall make available to the public on the website of the Department any report required to be submitted by the Secretary to Congress after the date of enactment of this Act \[Dec. 4, 2015\].
+In General.—The Secretary \[of Transportation\] shall make available to the public on the website of theDepartment any report required to be submitted by the Secretary to Congress after the date of enactment of this Act \[Dec. 4, 2015\].
 
 "(b)
 

@@ -12,7 +12,7 @@ Immediately after receiving a written determination from the Angel Watch Center 
 
 #### (2) Authority to reissue
 
-&emsp;Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 21507 of title 34, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
+&emsp;Notwithstanding paragraph (1), the Secretary of State may reissue a passport thatdoes not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 21507 of title 34, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
 
 #### (3) Clarification with respect to continuing registration
 

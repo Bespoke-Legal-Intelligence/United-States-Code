@@ -12,7 +12,7 @@
 
 &emsp;(2) on the certificate of the clerk of the court upon the affidavit of such witnesses' attendance given by other counsel appointed pursuant to section 3006A of title 18, in any such proceedings in which a party is represented by such other counsel.
 
-(c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
+(c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoenaissued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
 
 (June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, §104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 116–260, div. B, title II, §220, Dec. 27, 2020, 134 Stat. 1266.)
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 116–260, §220(b), substituted "Attorney General" for "Un
 
 "In any case wherein the United States or an officer or agency thereof, is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States Attorney or Assistant United States Attorney, and in the proceedings before a United States Commissioner, on the certificate of such commissioner.
 
-"In all proceedings, in forma pauperis, for a writ of habeas corpus or in proceedings under section 2255 ofthis title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis, on the certificate of the district judge.
+"In all proceedings, in forma pauperis, for a writ of habeas corpus or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis, on the certificate of the district judge.
 
 "Fees and mileage need not be tendered to the witness upon service of a subpena issued in behalf of the United States or an officer or agency thereof, or upon service of a subpena issued on behalf of a party, authorized to proceed in forma pauperis, where the payment thereof is to be made by the United States marshal as authorized in this section."
 

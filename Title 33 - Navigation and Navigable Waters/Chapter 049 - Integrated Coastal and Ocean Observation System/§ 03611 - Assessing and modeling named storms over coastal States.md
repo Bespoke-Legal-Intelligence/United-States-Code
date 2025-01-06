@@ -22,7 +22,7 @@ In this section:
 
 &emsp;&emsp;(A) collected before, during, or after such storm; and
 
-&emsp;&emsp;(B) necessary to determine magnitude and timing of wind speeds, rainfall, the barometric pressure, river flows, the extent, height, and timing of storm surge, topographic and bathymetric data, and other measures required to accurately model and assess damage from such storm.
+&emsp;&emsp;(B) necessary to determine magnitude and timing of wind speeds, rainfall, the barometric pressure, river flows, the extent, height, and timing of storm surge, topographic and bathymetric data, and othermeasures required to accurately model and assess damage from such storm.
 
 #### (5) Indeterminate loss
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (ii) Timeline
 
-&emsp;&emsp;&emsp;If the Administrator conducts a separate post-storm assessment under clause (i), the Administrator shall complete the assessment based on the dates of actions that the Administrator takes under subparagraph (D).
+&emsp;&emsp;&emsp;If the Administrator conducts a separate post-storm assessment under clause (i),the Administrator shall complete the assessment based on the dates of actions that the Administrator takes under subparagraph (D).
 
 #### (3) Accuracy
 
@@ -188,7 +188,7 @@ In this section:
 
 #### (3) Plan
 
-&emsp;Not later than 270 days after July 6, 2012, the Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, submit to Congress a plan for the collection of covered data necessary to develop the Named Storm Event Model and post-storm assessment required by subsection (b) that addresses any gaps identified in paragraph (2).
+&emsp;Not later than 270 days after July 6, 2012, the Administrator shall, in consultation with theOffice of the Federal Coordinator for Meteorology, submit to Congress a plan for the collection of covered data necessary to develop the Named Storm Event Model and post-storm assessment required by subsection (b) that addresses any gaps identified in paragraph (2).
 
 #### (e) Coordination of covered data collection and maintenance by participants
 
@@ -286,7 +286,7 @@ Subsec. (b)(2)(D). Pub. L. 116–271, §201(a)(2)(B)(iii), substituted "confirma
 
 Pub. L. 116–271, §201(a)(2)(B)(i), redesignated subpar. (B) as (D).
 
-Subsec. (b)(2)(E). Pub. L. 116–271, §201(a)(2)(B)(iv), substituted "any indeterminate losses are identified under subparagraph (C)" for "an identification of a named storm is made under subparagraph (A)" and "under subparagraph (D) for any coastal State that suffered such indeterminate losses" for "for such storm under subparagraph (B)".
+Subsec. (b)(2)(E). Pub. L. 116–271, §201(a)(2)(B)(iv), substituted "any indeterminate losses are identified under subparagraph (C)" for "an identification of anamed storm is made under subparagraph (A)" and "under subparagraph (D) for any coastal State that suffered such indeterminate losses" for "for such storm under subparagraph (B)".
 
 Pub. L. 116–271, §201(a)(2)(B)(i), redesignated subpar. (C) as (E).
 

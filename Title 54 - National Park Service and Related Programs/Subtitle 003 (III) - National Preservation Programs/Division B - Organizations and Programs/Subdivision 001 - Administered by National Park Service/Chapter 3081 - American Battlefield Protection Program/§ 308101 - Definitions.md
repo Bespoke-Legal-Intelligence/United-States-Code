@@ -1,0 +1,46 @@
+### §308101. Definitions
+
+In this chapter:
+
+&emsp;(1)
+
+Secretary.—The term "Secretary" means the Secretary, acting through the American Battlefield Protection Program.
+
+&emsp;(2)
+
+Battlefield reports.—The term "Battlefield Reports" means, collectively—
+
+&emsp;&emsp;(A) the document entitled "Report on the Nation's Civil War Battlefields", prepared by the Civil War Sites Advisory Commission, and dated July 1993; and
+
+&emsp;&emsp;(B) the document entitled "Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States", prepared by the National Park Service, and dated September 2007.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3233; Pub. L. 118–234, title I, §157(a), Jan. 4, 2025, 138 Stat. 2878.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+308101
+
+16 U.S.C. 469k–1(c)(1)(D).
+
+Pub. L. 111–11, title VII, subtitle D, §7301(c)(1)(D), Mar. 30, 2009, 123 Stat. 1213.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2025</b>—Pub. L. 118–234 amended section generally. Prior to amendment, section defined "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Purpose
+
+Pub. L. 111–11, title VII, §7301(a), Mar. 30, 2009, 123 Stat. 1213, provided that: "The purpose of this section\[enacting former section 469k–1 of Title 16, Conservation\] is to assist citizens, public and private institutions, and governments at all levels in planning, interpreting, and protecting sites where historic battles were fought on American soil during the armed conflicts that shaped the growth and development of the United States, in order that present and future generations may learn and gain inspiration from the ground where Americans made their ultimate sacrifice."
+

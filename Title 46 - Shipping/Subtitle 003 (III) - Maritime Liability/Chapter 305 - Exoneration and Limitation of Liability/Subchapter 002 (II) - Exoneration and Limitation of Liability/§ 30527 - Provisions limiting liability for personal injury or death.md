@@ -6,7 +6,7 @@ Prohibition.—
 
 &emsp;(1)
 
-In general.—The owner, master, manager, or agent of a vessel transporting passengers between ports in the United States, or between a port in the United States and a portin a foreign country, may not include in a regulation or contract a provision limiting—
+In general.—The owner, master, manager, or agent of a vessel transporting passengers between ports in the United States, or between a port in the United States and a port in a foreign country, may not include in a regulation or contract a provision limiting—
 
 &emsp;&emsp;(A) the liability of the owner, master, or agent for personal injury or death caused by the negligence or fault of the owner or the owner's employees or agents; or
 

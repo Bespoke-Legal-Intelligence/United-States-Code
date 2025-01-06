@@ -56,7 +56,7 @@ As used in this chapter:
 
 #### (12) Producer
 
-&emsp;The term "producer" means any person engaged in the growing of soybeans in the UnitedStates who owns, or who shares the ownership and risk of loss of, such soybeans.
+&emsp;The term "producer" means any person engaged in the growing of soybeans in the United States who owns, or who shares the ownership and risk of loss of, such soybeans.
 
 #### (13) Promotion
 

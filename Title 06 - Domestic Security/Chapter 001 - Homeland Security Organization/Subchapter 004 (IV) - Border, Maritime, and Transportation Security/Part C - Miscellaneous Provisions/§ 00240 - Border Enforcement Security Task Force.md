@@ -92,7 +92,7 @@ Pub. L. 112–205, §2, Dec. 7, 2012, 126 Stat. 1487, provided that: "Congress f
 
 &emsp;"(5) BEST teams incorporate personnel from ICE, United States Customs and Border Protection (CBP), the Drug Enforcement Administration (DEA), the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATFE), the Federal Bureau of Investigation (FBI), the United States Coast Guard (USCG), and the U.S. Attorney's Office (USAO), along with other key Federal, State and local law enforcement agencies.
 
-&emsp;"(6) Foreign law enforcement agencies participating in BEST include Mexico's Secretaria de Seguridad Publica (SSP), the Canada Border ServicesAgency (CBSA), the Ontario Provincial Police (OPP), and the Royal Canadian Mounted Police (RCMP)."
+&emsp;"(6) Foreign law enforcement agencies participating in BEST include Mexico's Secretaria de Seguridad Publica (SSP), the Canada Border Services Agency (CBSA), the Ontario Provincial Police (OPP), and the Royal Canadian Mounted Police (RCMP)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

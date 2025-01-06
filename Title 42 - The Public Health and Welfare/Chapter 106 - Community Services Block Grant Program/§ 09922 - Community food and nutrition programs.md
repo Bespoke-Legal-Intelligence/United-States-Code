@@ -22,7 +22,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (B) Competitive grants
 
-&emsp;&emsp;From a portion equal to 40 percent of such amount (but not to exceed $2,400,000), theSecretary shall make grants on a competitive basis to eligible agencies for local and statewide programs.
+&emsp;&emsp;From a portion equal to 40 percent of such amount (but not to exceed $2,400,000), the Secretary shall make grants on a competitive basis to eligible agencies for local and statewide programs.
 
 #### (2) Greater available appropriations
 

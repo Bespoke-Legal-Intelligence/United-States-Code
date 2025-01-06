@@ -8,7 +8,7 @@ In General.—Not later than 1 year after the date of enactment of the Don Young
 
 &emsp;(2) the number of penalties issued under such section;
 
-&emsp;(3) the number of open investigations under such section, completed investigations undersuch section, and the outcomes of such open or completed investigations;
+&emsp;(3) the number of open investigations under such section, completed investigations under such section, and the outcomes of such open or completed investigations;
 
 &emsp;(4) the number of assessments or audits conducted under section 3203 and the outcome of those assessments or audits;
 

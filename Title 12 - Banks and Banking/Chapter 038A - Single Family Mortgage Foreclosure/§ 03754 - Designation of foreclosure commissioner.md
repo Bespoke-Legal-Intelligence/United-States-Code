@@ -16,7 +16,7 @@ The foreclosure commissioner, if a natural person, shall be a resident of the St
 
 #### (1) Written designation
 
-&emsp;The Secretary may designate a foreclosure commissioner by executing a written designation stating the name and business or residential address of the commissioner, except that if a person is designated in his or her capacity as an official or employee of a government or corporate entity, such person may be designated by his or her unique title or position instead of by name.
+&emsp;The Secretary may designate a foreclosure commissioner by executing a written designation stating the name and business or residential address of the commissioner, except that if a person is designated in his or her capacity as an official or employee of a government orcorporate entity, such person may be designated by his or her unique title or position instead of by name.
 
 #### (2) Substitute commissioners
 

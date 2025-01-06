@@ -72,7 +72,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;(A) to preserve the safety and soundness of the institution; or
 
-&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issuedby the agency, any agreement between the agency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application or other request by the institution, which is enforceable under section 1818 of this title.
+&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issued by the agency, any agreement between the agency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application or other request by the institution, which is enforceable under section 1818 of this title.
 
 #### (e) Failure to meet standards
 
@@ -184,7 +184,7 @@ Subsec. (e)(2). Pub. L. 103–325, §318(c)(2)(B), struck out "or depository ins
 
 Subsec. (e)(2)(A), (B). Pub. L. 103–325, §318(c)(2)(A), struck out "or company" after "institution" wherever appearing.
 
-<b>1992</b>—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: "Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation."
+<b>1992</b>—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read asfollows: "Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation."
 
 Subsec. (e)(1)(A). Pub. L. 102–550, §956(2), substituted "(a) or (b)" for "(a), (b), or (c)".
 

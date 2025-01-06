@@ -42,7 +42,7 @@ Applicable reinsurance year.—Ineligibility for the payment described in sectio
 
 (3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
-(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV,the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
+(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
 #### (b) Persons eligible for program benefits in connection with production of certain planted crops or production of crops on highly erodible land
 
@@ -62,7 +62,7 @@ No person shall become ineligible under section 3811 of this title for program l
 
 &emsp;&emsp;(B) not within a conservation district, under a conservation system determined by the Secretary to be adequate for the protection of highly erodible land that has been set aside or for the production of such agricultural commodity on any highly erodible land subject to this chapter; or
 
-&emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by the Soil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
+&emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by the Soil Conservation Service that such land was not highly erodible land, except that thisparagraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
 
 &emsp;(3) on highly erodible land planted to alfalfa during each of the 1981 through 1985 crop years as part of a rotation practice approved by the Secretary, if the person has submitted a conservation plan, in which case, such person shall have until June 1, 1988, to comply with the plan without being subject to program ineligibility under section 3811 of this title.
 
@@ -136,7 +136,7 @@ The Secretary, in providing assistance to an individual in the preparation or re
 
 Section 3811 of this title shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
 
-(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, §2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, §4(a), title II, §2002, June 18, 2008, 122 Stat. 1664, 1755; Pub. L. 113–79, title II, §2611(a)(2), Feb. 7, 2014, 128 Stat. 762.)
+(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, §2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, §4(a), title II, §2002, June 18, 2008, 122 Stat. 1664, 1755; Pub. L. 113–79, title II, §2611(a)(2), Feb. 7, 2014, 128 Stat. 762.)
 
 #### <b>Editorial Notes</b>
 
@@ -208,7 +208,7 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted "that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is" after "conservation plan", and inserted at end "In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph."
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted "that documents the decisions of the person with respect to location, land use, tillage systems, and conservationtreatment measures and schedule and that is" after "conservation plan", and inserted at end "In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph."
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 

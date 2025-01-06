@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax amount" means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
+&emsp;Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax amount"means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
 
 &emsp;&emsp;(A) an amount equal to 10 percent (5 percent in the case of taxable years beginning in calendar year 2018) of the modified taxable income of such taxpayer for the taxable year, over
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The amount not taken into account in computing modified taxable income by reason of clause (i) shall be reduced under rules similar to the rules under section 163(j)(5)(B) (as in effect before the date of the enactment of the Tax Cuts and Jobs Act).
+&emsp;&emsp;&emsp;The amount not taken into account in computing modified taxable income byreason of clause (i) shall be reduced under rules similar to the rules under section 163(j)(5)(B) (as in effect before the date of the enactment of the Tax Cuts and Jobs Act).
 
 #### (3) Special rules for determining interest for which deduction allowed
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (A) Special rule for foreign persons
 
-&emsp;&emsp;In the case of a foreign person the gross receipts of which are taken into account for purposes of paragraph (1)(B), only gross receipts which are taken into account in determining income which is effectively connected with the conduct of a trade or business within the United States shall be taken into account. In the case of a taxpayer which is a foreign person, the preceding sentence shall not apply to the gross receipts of any United States person which are aggregated with the taxpayer's gross receipts by reason of paragraph (3).
+&emsp;&emsp;In the case of a foreign person the gross receipts of which are taken into account forpurposes of paragraph (1)(B), only gross receipts which are taken into account in determining income which is effectively connected with the conduct of a trade or business within the United States shall be taken into account. In the case of a taxpayer which is a foreign person, the preceding sentence shall not apply to the gross receipts of any United States person which are aggregated with the taxpayer's gross receipts by reason of paragraph (3).
 
 #### (B) Other rules made applicable
 

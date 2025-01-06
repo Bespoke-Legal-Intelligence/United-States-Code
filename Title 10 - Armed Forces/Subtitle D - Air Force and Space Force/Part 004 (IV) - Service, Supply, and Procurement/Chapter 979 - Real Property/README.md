@@ -21,7 +21,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(e)(16)(C), (17)(C), Jan. 1, 2021, 134 Stat. 3818, 3819, added items 9771 and 9773 and struck out former items 9771 "Acceptance of donations: land for mobilization, training, supply base, or aviation field" and 9773 "Acquisition and construction: air bases and depots".
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(e)(16)(C), (17)(C), Jan. 1, 2021, 134 Stat. 3818, 3819, added items 9771and 9773 and struck out former items 9771 "Acceptance of donations: land for mobilization, training, supply base, or aviation field" and 9773 "Acquisition and construction: air bases and depots".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 949 of this title as this chapter.
 
@@ -42,6 +42,22 @@
 <b>1958</b>—Pub. L. 85–861, §1(203)(B), Sept. 2, 1958, 72 Stat. 1542, added item 9780.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Sufficient Firefighter Personnel Covered Installations
+
+Pub. L. 118–159, div. A, title XI, §1110, Dec. 23, 2024, 138 Stat. 2089, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall ensure that—
+
+&emsp;"(1) a sufficient number of firefighter personnel are on duty at each covered installation to maintain manning and service necessary to safeguard life and property at such covered installation; and
+
+&emsp;"(2) a risk assessment may not be used to limit the number of firefighter personnel at a covered installation.
+
+"(b)
+
+Covered Installation Defined.—In this section, the term 'covered installation' means a military installation under the jurisdiction of the Chief of Space Operations of the United States Space Force with a space launch facility."
 
 #### Pilot Program To Augment Sustainment With Maintenance Cost Reimbursements From Major Range and Test Facility Base Users at Installations of the Department of the Air Force
 

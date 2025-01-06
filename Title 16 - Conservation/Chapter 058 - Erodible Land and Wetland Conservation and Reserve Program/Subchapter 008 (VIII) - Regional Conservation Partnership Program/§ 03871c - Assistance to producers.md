@@ -30,7 +30,7 @@ A producer may receive financial or technical assistance to conduct eligible act
 
 &emsp;The Secretary may provide payments for a period of 5 years—
 
-&emsp;&emsp;(A) to producers participating in a project that addresses water quantity concerns and in an amount sufficient to encourage conversion from irrigated to dryland farming; and
+&emsp;&emsp;(A) to producers participating in a project that addresses water quantity concerns andin an amount sufficient to encourage conversion from irrigated to dryland farming; and
 
 &emsp;&emsp;(B) to producers participating in a project that addresses water quality concerns and in an amount sufficient to encourage adoption of conservation practices and systems that improve nutrient management.
 

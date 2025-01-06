@@ -106,7 +106,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(A) a guaranty agency, eligible lender, or eligible institution, or a third-party organization acting on behalf of a guaranty agency, eligible lender, or eligible institution, that is in compliance with applicable Federal law (including regulations and guidance); or
 
-&emsp;&emsp;(B) a licensed attorney representing a student, borrower, or parent, or another individual who works for a Federal, State, local, or Tribal government or agency, or for a nonprofit organization, providing financial or student loan repayment counseling to a student, borrower, or parent, if—
+&emsp;&emsp;(B) a licensed attorney representing a student, borrower, or parent, or another individual who works for a Federal, State, local,or Tribal government or agency, or for a nonprofit organization, providing financial or student loan repayment counseling to a student, borrower, or parent, if—
 
 &emsp;&emsp;&emsp;(i) that attorney or other individual has never engaged in unfair, deceptive, or abusive practices, as determined by the Secretary;
 
@@ -166,7 +166,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 The Secretary shall, not later than July 1, 1993—
 
-&emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to makesuch codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter; and
+&emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter; and
 
 &emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 116–251 effective 180 days after Dec. 22, 2020, see secti
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -36,7 +36,7 @@ The Secretary shall prescribe adequate consumer protections and disclosure requi
 
 The aggregate number of mortgages and loans insured under this section and section 1715z–10(c) <sup>1</sup> of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
 
-(June 27, 1934, ch. 847, title II, §252, as added Pub. L. 98–181, title I \[title IV, §444\], Nov. 30,1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(b)(2), Feb. 5, 1988, 101 Stat. 1907.)
+(June 27, 1934, ch. 847, title II, §252, as added Pub. L. 98–181, title I \[title IV, §444\], Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(b)(2), Feb. 5, 1988, 101 Stat. 1907.)
 
 #### <b>Editorial Notes</b>
 

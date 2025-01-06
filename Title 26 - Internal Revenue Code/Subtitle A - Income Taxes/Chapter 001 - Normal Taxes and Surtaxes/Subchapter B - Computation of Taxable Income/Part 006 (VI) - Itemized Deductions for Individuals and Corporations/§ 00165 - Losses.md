@@ -192,7 +192,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (k) Treatment as disaster loss where taxpayer ordered to demolish or relocate residence in disaster area because of disaster
 
-In the case of a taxpayer whose residence is located in an area which has been determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, if—
+In the case of a taxpayer whose residence is located in an area which has been determined by the President of the United States to warrantassistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, if—
 
 &emsp;(1) not later than the 120th day after the date of such determination, the taxpayer is ordered, by the government of the State or any political subdivision thereof in which such residence is located, to demolish or relocate such residence, and
 
@@ -260,7 +260,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;Any election by the taxpayer under this subsection for any taxable year—
 
-&emsp;&emsp;(A) shall apply to all losses for such taxable year of the taxpayer on deposits in theinstitution with respect to which such election was made, and
+&emsp;&emsp;(A) shall apply to all losses for such taxable year of the taxpayer on deposits in the institution with respect to which such election was made, and
 
 &emsp;&emsp;(B) may be revoked only with the consent of the Secretary.
 
@@ -280,7 +280,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §§11044(a), 11050(a), Dec. 22, 2017, 131 Stat. 2087, 2089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26),Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §§11044(a), 11050(a), Dec. 22, 2017, 131 Stat. 2087, 2089.)
 
 #### <b>Editorial Notes</b>
 
@@ -352,7 +352,7 @@ Subsec. (h). Pub. L. 98–369, §711(c)(2)(A)(ii), substituted heading "Treatmen
 
 > added par. (2) "Net casualty loss allowed only to the extent it exceeds 10 percent of adjusted gross income" provision and par. (3) "Definitions of personal casualty gain and personal casualty loss" provisions; redesignated as par. (4) former par. (2) catchline; added par. (4)(A) "Personal casualty losses allowable in computing adjusted gross income to the extent of personal casualty gains" provision; redesignated as par. (4)(B) former par. (2)(A) joint returns provision, substituting "For purposes of this section" for "For purposes of the $100 and 10 percent limitations described in paragraph (1)" and "individual" for "one individual"; redesignated as par. (4)(C) former par. (2)(B), substituting therein paragraph "(2)" for "(1)"; and redesignated as par. (4)(D) former par. (2)(C).
 
-Pub. L. 98–369, §711(c)(1), amended par. (2) by redesignating subpar. (B) as (C) and by adding a new subpar. (B) relating to the determination of adjusted gross income in case of estates and trusts.
+Pub. L. 98–369, §711(c)(1), amended par. (2) by redesignating subpar. (B) as (C) and by adding a new subpar.\(B) relating to the determination of adjusted gross income in case of estates and trusts.
 
 Subsec. (j)(3). Pub. L. 98–369, §42(a)(4), substituted "section 1287" for "subsection (d) of section 1232".
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 111–147 applicable to obligations issued after the date w
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 706(a)(1), (2)(A)–(C) of Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
+Amendment by section 706(a)(1), (2)(A)–(C) of Pub. L. 110–343 applicable to disasters declared in taxable yearsbeginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
 Amendment by section 706(c) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 706(d)(2) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
@@ -484,7 +484,7 @@ Pub. L. 91–677, §1(b)(1), Jan. 12, 1971, 84 Stat. 2061, provided that: "The a
 
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–606, title III, §304, Dec. 31, 1970, 84 Stat. 1760, provided that: "This Act \[enacting sections 4401 to4485 of Title 42, The Public Health and Welfare, amending this section, sections 5064 and 5708 of this title, sections 1706e, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646 and 758 of Title 20, Education, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, section 1681 note of Title 42, repealing sections 1855 to 1855g, 1855aa, 1855aa note, 1855bb to 1855ii, 1855aaa, 1855aaa note, 1855bbb to 1855nnn of Title 42, and section 1926 of Title 7, Agriculture, and enacting provisions set out as notes under section 4401 and section 4434 of Title 42\] shall take effect immediately upon its enactment \[Dec. 31, 1970\], except that sections 226(b), 237, 241, 252(a), and 254 \[sections 4436(b), 4456, 4460, 4482(a), and 4484 of Title 42, respectively\] shall take effect as of August 1, 1969, and sections 231, 232, and 233 \[sections 4451, 4452 of Title 42 and amendments to section 1820 \[now 3720\] of Title 38, respectively\] shall take effect as of April 1, 1970."
+Pub. L. 91–606, title III, §304, Dec. 31, 1970, 84 Stat. 1760, provided that: "This Act \[enacting sections 4401 to 4485 of Title 42, The Public Health and Welfare, amending this section, sections 5064 and 5708 of this title, sections 1706e, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646 and 758 of Title 20, Education, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, section 1681 note of Title 42, repealing sections 1855 to 1855g, 1855aa, 1855aa note, 1855bb to 1855ii, 1855aaa, 1855aaa note, 1855bbb to 1855nnn of Title 42, and section 1926 of Title 7, Agriculture, and enacting provisions set out as notes under section 4401 and section 4434 of Title 42\] shall take effect immediately upon its enactment \[Dec. 31, 1970\], except that sections 226(b), 237, 241, 252(a), and 254 \[sections 4436(b), 4456, 4460, 4482(a), and 4484 of Title 42, respectively\] shall take effect as of August 1, 1969, and sections 231, 232, and 233 \[sections 4451, 4452 of Title 42 and amendments to section 1820 \[now 3720\] of Title 38, respectively\] shall take effect as of April 1, 1970."
 
 #### Effective Date of 1964 Amendment
 
@@ -588,7 +588,7 @@ Freight Forwarder Operating Authority.—
 
 &emsp;"(1)
 
-In general.—Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[section 266 of Pub. L. 97–34, set out below\] shall be applied as if subsection (b) thereof contained 'or a freight forwarder' after 'contract carrier of property'.
+In general.—Subject to the modifications contained in paragraph (2), section 266 of the Economic Recovery Tax Act of 1981 \[section 266 of Pub. L. 97–34,set out below\] shall be applied as if subsection (b) thereof contained 'or a freight forwarder' after 'contract carrier of property'.
 
 &emsp;"(2)
 
@@ -674,7 +674,7 @@ In general.—Under regulations prescribed by the Secretary of the Treasury or h
 
 &emsp;&emsp;&emsp;"(ii) would have been able to allocate to the basis of such authority that portion of the acquiring corporation's cost basis in such stock attributable to such authority if the acquiring corporation had received such authority in the liquidation of the acquired corporation immediately following such acquisition and such allocation would have been proper under section 334(b)(2) of such Code,
 
-&nbsp;&nbsp;the holder of the authority may, for purposes of this section, allocate a portion of the basis of the acquiring corporation in the stock of the acquiredcorporation to the basis of such authority in such manner as the Secretary may prescribe in such regulations.
+&nbsp;&nbsp;the holder of the authority may, for purposes of this section, allocate a portion of the basis of the acquiring corporation in the stock of the acquired corporation to the basis of such authority in such manner as the Secretary may prescribe in such regulations.
 
 &emsp;&emsp;"(B)
 

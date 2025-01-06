@@ -106,7 +106,7 @@ In general.—If, as a result of conversion to the new salary schedule, the memb
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 
-Promotions.—For the purpose of applying section 10207 of title 5, United States Code, relating to promotions, (as added by section 2(a)) an employee receiving a rate above the maximum rate as provided under this clause shall be deemed to be at step 13.
+Promotions.—For the purpose of applying section 10207 of title 5, United States Code, relating to promotions, (as added by section2(a)) an employee receiving a rate above the maximum rate as provided under this clause shall be deemed to be at step 13.
 
 &emsp;"(2)
 

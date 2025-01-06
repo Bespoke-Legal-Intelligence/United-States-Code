@@ -15,3 +15,5 @@
 - [&sect; 00597 - Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings&#8230;](%C2%A7%2000597%20-%20Acquisition%20of%20lands%20for%20water%20resource%20development%20projects%3B%20information%20as%20to%20probable%20timing%20for%20acquisition%3B%20public%20meetings%E2%80%A6.md)
 - [&sect; 00598 - Resettlement of displaced families, individuals, and business concerns](%C2%A7%2000598%20-%20Resettlement%20of%20displaced%20families%2C%20individuals%2C%20and%20business%20concerns.md)
 - [&sect; 00598a - Property acquisition](%C2%A7%2000598a%20-%20Property%20acquisition.md)
+- [&sect; 00598b - Minimum real estate interest](%C2%A7%2000598b%20-%20Minimum%20real%20estate%20interest.md)
+- [&sect; 00598c - Easements for hurricane and storm damage reduction projects](%C2%A7%2000598c%20-%20Easements%20for%20hurricane%20and%20storm%20damage%20reduction%20projects.md)

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
+In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) underwhich chapter or provisions to receive educational assistance.
 
 (b)
 
@@ -26,7 +26,7 @@ Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John Davi
 
 &emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
-&emsp;(2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such aperson, whether eligibility is based upon the death of the parent.
+&emsp;(2) Increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such a person, whether eligibility is based upon the death of the parent.
 
 (g)
 

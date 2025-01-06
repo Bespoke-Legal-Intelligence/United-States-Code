@@ -8,7 +8,7 @@ Development of Tenant Bill of Rights and Tenant Responsibilities Documents.—(1
 
 (3) The rights and responsibilities contained in the housing documents are not intended to be exclusive. The omission of a tenant right or responsibility shall not be construed to deny the existence of such a right or responsibility for tenants.
 
-(4) Each contract between the Secretary concerned and a landlord shall incorporate the housing documents and guarantee the rights and responsibilities of tenants who reside in housing units covered by the contract.
+(4) Each contract between the Secretary concerned and a landlord shall incorporate the housing documents and guarantee the rights andresponsibilities of tenants who reside in housing units covered by the contract.
 
 (5) The Secretary of Defense shall develop the housing documents in coordination with the Secretaries of the military departments.
 
@@ -156,7 +156,7 @@ Pub. L. 116–92, div. B, title XXX, §3024(c), Dec. 20, 2019, 133 Stat. 1935, p
 
 #### Regulations
 
-Pub. L. 116–92, div. B, title XXX, §3024(b), Dec. 20, 2019, 133 Stat. 1935, provided that: "The Secretary of Defense and the Secretaries of the military departments shall promulgate such regulations as may be necessary to give full force and effect to subsection (f) of section 2890 of title 10, United States Code, as added by subsection (a)."
+Pub. L. 116–92, div. B, title XXX, §3024(b), Dec. 20, 2019, 133 Stat. 1935, provided that: "The Secretary of Defense and the Secretaries of the military departments shall promulgate such regulations as may be necessary to give full force and effect to subsection (f)of section 2890 of title 10, United States Code, as added by subsection (a)."
 
 #### Implementation of Comptroller General Recommendations Relating to Strengthening Oversight of Privatized Military Housing
 

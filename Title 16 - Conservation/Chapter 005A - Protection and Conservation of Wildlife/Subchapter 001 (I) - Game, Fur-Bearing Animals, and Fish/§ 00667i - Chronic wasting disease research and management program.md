@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under section 8312 of title 7, with State or Tribal wildlife agencies and departments of agriculture to provide direct financial assistance to support the efforts of such State or Tribal wildlife agencies and departments of agriculture to develop and implement management strategies to addresschronic wasting disease within their respective jurisdiction.
+&emsp;Subject to the availability of appropriations, the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under section 8312 of title 7, with State or Tribal wildlife agencies and departments of agriculture to provide direct financial assistance to support the efforts of such State or Tribal wildlife agencies and departments of agriculture to develop and implement management strategies to address chronic wasting disease within their respective jurisdiction.
 
 #### (2) Application
 
@@ -60,7 +60,7 @@
 
 #### (4) Rapid response
 
-&emsp;If a State or Indian tribe detects chronic wasting disease in a cervid population within its jurisdiction that was not previously infected, the Secretary may, notwithstanding paragraphs (2) and (3), immediately issue funds made available under subsection (e), in an amount to be determined by the Secretary, to support State and Tribal efforts to immediately control the spread of chronic wasting disease within that population.
+&emsp;If a State or Indian tribe detects chronic wasting disease in a cervid population withinits jurisdiction that was not previously infected, the Secretary may, notwithstanding paragraphs (2) and (3), immediately issue funds made available under subsection (e), in an amount to be determined by the Secretary, to support State and Tribal efforts to immediately control the spread of chronic wasting disease within that population.
 
 #### (5) Public education on chronic wasting disease
 
@@ -122,7 +122,7 @@ Of the funds made available under subsection (e) for a fiscal year to carry out 
 
 #### (g) Rule of construction
 
-Nothing in this section shall be construed as interfering with, or otherwise affecting, the authority of the Federal Government or States to manage wildlife and livestock on land withintheir respective jurisdictions, including managing, surveying, and monitoring the incidence of chronic wasting disease.
+Nothing in this section shall be construed as interfering with, or otherwise affecting, the authority of the Federal Government or States to manage wildlife and livestock on land within their respective jurisdictions, including managing, surveying, and monitoring the incidence of chronic wasting disease.
 
 (Pub. L. 117–328, div. HH, title V, §603, Dec. 29, 2022, 136 Stat. 5996.)
 

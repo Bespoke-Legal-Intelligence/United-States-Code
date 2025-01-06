@@ -60,6 +60,78 @@ Section 889(f)(3) of the John S. McCain National Defense Authorization Act for F
 
 Pub. L. 116–124, §1, Mar. 12, 2020, 134 Stat. 158, provided that: "This Act \[enacting this chapter\] may be cited as the 'Secure and Trusted Communications Networks Act of 2019'."
 
+#### Analysis of Certain Unmanned Aircraft Systems Entities
+
+Pub. L. 118–159, div. A, title XVII, §1709, Dec. 23, 2024, 138 Stat. 2209, provided that:
+
+"(a)
+
+Evaluation of Communications Services and Equipment to Covered List.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], an appropriate national security agency shall determine if any of the following communications or video surveillance equipment or services pose an unacceptable risk to the national security of the United States or the security and safety of United States persons:
+
+&emsp;&emsp;"(A) Communications or video surveillance equipment produced by Shenzhen Da-Jiang Innovations Sciences and Technologies Company Limited (commonly known as 'DJI Technologies').
+
+&emsp;&emsp;"(B) Communications or video surveillance equipment produced by Autel Robotics.
+
+&emsp;&emsp;"(C) With respect to an entity described in subparagraph (A) or (B) (referred to in this subparagraph as a 'named entity')—
+
+&emsp;&emsp;&emsp;"(i) any subsidiary, affiliate, or partner of the named entity;
+
+&emsp;&emsp;&emsp;"(ii) any entity in a joint venture with the named entity; or
+
+&emsp;&emsp;&emsp;"(iii) any entity to which the named entity has a technology sharing or licensing agreement.
+
+&emsp;&emsp;"(D) Communications or video surveillance services, including software, provided by an entity described in subparagraphs (A), (B), and (C) or using equipment described in such subparagraphs.
+
+&emsp;"(2)
+
+Addition to covered list.—If the appropriate national security agency does not make a determination as required by paragraph (1) within one year after the enactment of this Act, the Commission shall add all communications equipment and services listed in paragraph (1) to the covered list.
+
+"(b)
+
+Inclusion of Certain Communications Services and Equipment to Covered List.—
+
+&emsp;"(1)
+
+Determinations.—Not later than 30 days after an appropriate national security agency determines that any of the communications equipment or services specified in subsection (a)(1) present an unacceptable risk to the national security of the United States or the security and safety of United States persons—
+
+&emsp;&emsp;"(A) the Commission shall place such communications equipment or services on the covered list; and
+
+&emsp;&emsp;"(B) the appropriate national security agency shall submit to the appropriate congressional committees a report on their determination which shall be submitted in unclassified form but may contain a classified annex.
+
+&emsp;"(2)
+
+Other determinations.—Not later than 30 days after an appropriate national security agency determines that any of the communications equipment orservices specified in subsection (a)(1) do not present an unacceptable risk to the national security of the United States or the security and safety of United States persons—
+
+&emsp;&emsp;"(A) that agency shall submit to the appropriate congressional committees a report on their determinations, which shall be submitted in unclassified form but may contain a classified annex; and
+
+&emsp;&emsp;"(B) within 180 days following the determination, all other appropriate national security agencies shall review the determination and shall submit to the appropriate congressional committees a report on their determinations, which shall be submitted in unclassified form but may contain a classified annex.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate national security agency' has the same meaning as the term in section 9 of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1608)) \[sic\].
+
+&emsp;"(2) The term 'Commission' means the Federal Communications Commission.
+
+&emsp;"(3) The term 'covered list' means the list of covered communications equipment or services published by the Commission under section 2(a) of the Secure and Trusted Communications Networks Act \[of 2019 (47 U.S.C. 1601(a))\].
+
+&emsp;"(4) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Select Committee on Intelligence in the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Homeland Security, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence in the House of Representatives.
+
+&emsp;"(5) The term 'technology sharing agreement' means an agreement where a named entity licenses their technology to a company directly or through an intermediary manufacturer.
+
+"(d)
+
+Savings Clause.—Nothing herein shall be construed to override or affect the uses permitted by sections 1823 through 1832 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) \[41 U.S.C. 3901 note prec.\] and sections 936 \[49 U.S.C. 44801 note\] and 1032 \[138 Stat. 1406\] of the Federal Aviation Administration \[FAA\] Reauthorization Act of 2024 (Public Law 118–63), including the duration thereof. If the Commission places communications equipment or services on the covered list pursuant to subsection (b)(1)(A) of this section, the appropriate national security agency shall provide the Commission with necessary information on whether enabling those uses is appropriate and how to enable those uses if necessary, and the Commission may promulgate implementing rules or policies accordingly."
+
 #### Secure Equipment
 
 Pub. L. 117–55, Nov. 11, 2021, 135 Stat. 423, provided that:

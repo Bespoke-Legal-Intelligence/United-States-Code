@@ -1,6 +1,6 @@
 ### §3476. Education outside the United States
 
-An eligible veteran may not enroll in any course offered by an educational institution notlocated in a State unless that educational institution is an approved institution of higher learning and the course is approved by the Secretary. The Secretary may deny or discontinue educational assistance under this chapter in the case of any veteran enrolled in an institution of higher learning not located in a State if the Secretary determines that such enrollment is not in the best interest of the veteran or the Federal Government.
+An eligible veteran may not enroll in any course offered by an educational institution not located in a State unless that educational institution is an approved institution of higher learning and the course is approved by the Secretary. The Secretary may deny or discontinue educational assistance under this chapter in the case of any veteran enrolled in an institution of higher learning not located in a State if the Secretary determines that such enrollment is not in the best interest of the veteran or the Federal Government.
 
 (Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 17, §1676; amended Pub. L. 94–502, title II, §211(9), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 96–466, title III, §307(b), Oct. 17, 1980, 94 Stat. 2193; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3476, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §604(a), Nov. 2, 1994, 108 Stat. 4671.)
 

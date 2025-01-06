@@ -8,9 +8,9 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;(2) the identity, if known, or a description of the target of the search, and a description of the premises or property to be searched and of the information, material, or property to be seized, reproduced, or altered;
 
-&emsp;(3) a statement of the facts and circumstances relied upon by the applicant to justify the applicant's belief that—
+&emsp;(3) a sworn statement of the facts and circumstances relied upon by the applicant to justify the applicant's belief that—
 
-&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power;
+&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, and, in the case of a target that is a United States person alleged to be acting as an agent of a foreign power (as described in section 1801(b)(2)(B) of this title), that a violation of the criminal statutes of the United States as referred to in section 1801(b)(2)(B) of this title has occurred or is about to occur;
 
 &emsp;&emsp;(B) the premises or property to be searched contains foreign intelligence information; and
 
@@ -28,13 +28,33 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;&emsp;(C) that such information cannot reasonably be obtained by normal investigative techniques;
 
-&emsp;&emsp;(D) that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title; and
+&emsp;&emsp;(D) that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title;
 
-&emsp;&emsp;(E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
+&emsp;&emsp;(E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D); and
 
-&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
+&emsp;&emsp;(F) that none of the information included in the statement described in paragraph (3) was solely produced by, derived from information produced by, or obtained using the funds of, a political organization (as such term is defined in section 527 of title 26), unless—
 
-&emsp;(8) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
+&emsp;&emsp;&emsp;(i) the political organization is clearly identified in the body of the statement described in paragraph (3);
+
+&emsp;&emsp;&emsp;(ii) the information has been corroborated; and
+
+&emsp;&emsp;&emsp;(iii) the investigative techniques used to corroborate the information are clearly identified in the body of the statement described in paragraph (3); and
+
+&emsp;&emsp;(G) that none of the information included in the statement described in paragraph (3) is attributable to or derived from the content of a media source unless the statement includes a clear identification of each author of that content, where applicable, the publisher of that content, information to corroborate that which was derived from the media source, and an explanation of the investigative techniques used to corroborate the information;
+
+&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information;
+
+&emsp;(8) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application;
+
+&emsp;(9) in the case of an application for an extension of an order under this subchapter in which the target of the physical search is a United States person, a summary statement of the foreign intelligence information obtained pursuant to the original order (and any preceding extension thereof) as of the date of the application for the extension, or a reasonable explanation of the failure to obtain such information; and <sup>1</sup>
+
+&emsp;(10) a certification by the applicant that, to the best knowledge of the applicant, the Attorney General or a designated attorney for the Government has been apprised of all information that might reasonably—
+
+&emsp;&emsp;(A) call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
+
+&emsp;&emsp;(B) otherwise raise doubts with respect to the findings required under section 1824(a) of this title.<sup>2</sup>
+
+&emsp;(11) non-cumulative information known to the applicant or declarant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
 
 #### (b) Additional affidavits or certifications
 
@@ -58,11 +78,25 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §107(a), July 10, 2008, 122 Stat. 2462; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
+(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §107(a), July 10, 2008, 122 Stat. 2462; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 118–49, §§6(a)(2), (b)(2), (c)(2), (e)(2), (f)(2), 10(a)(2), (b)(2), Apr. 20, 2024, 138 Stat. 870–873, 875, 877.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(3). Pub. L. 118–49, §6(a)(2), substituted "a sworn statement of" for "a statement of" in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 118–49, §6(f)(2), inserted before semicolon at end ", and, in the case of a target that is a United States person alleged to be acting as an agent of a foreign power (as described in section 1801(b)(2)(B) of this title), that a violation of the criminal statutes of the United States as referred to in section 1801(b)(2)(B) of this title has occurred or is about to occur".
+
+Subsec. (a)(6)(F). Pub. L. 118–49, §6(b)(2), added subpar. (F).
+
+Subsec. (a)(6)(G). Pub. L. 118–49, §6(c)(2), added subpar. (G).
+
+Subsec. (a)(9). Pub. L. 118–49, §6(e)(2), added par. (9).
+
+Subsec. (a)(10). Pub. L. 118–49, §10(a)(2), added par. (10).
+
+Subsec. (a)(11). Pub. L. 118–49, §10(b)(2), added par. (11).
 
 <b>2010</b>—Subsec. (d)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
@@ -86,6 +120,22 @@ Subsec. (d)(1)(A). Pub. L. 110–261, §107(a)(2), substituted "the Director of 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Amendment by section 6(a)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section 6(a)(5) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
+Amendment by section 6(b)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section 6(b)(3) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
+Amendment by section 6(c)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section 6(c)(3) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
+Amendment by section 6(e)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section 6(e)(3) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
+Amendment by section 6(f)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section 6(f)(3) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
+Amendment by section 10(a)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section 10(a)(6) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
+Amendment by section 10(b)(2) of Pub. L. 118–49 applicable with respect to applications made on or after the date that is 120 days after Apr. 20, 2024, see section10(b)(6) of Pub. L. 118–49, set out as a note under section 1804 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
@@ -105,4 +155,8 @@ Section effective 90 days after Oct. 14, 1994, with exception for certain physic
 #### Officials Designated To Make Certifications
 
 For provisions listing officials designated by President to make certifications required by subsec. (a)(7) of this section, see Ex. Ord. No. 12949, §3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under section 1822 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be "; and".</i>
 

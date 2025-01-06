@@ -30,7 +30,7 @@
 
 &emsp;(C) transfers to a non-nuclear-weapon state any design information or component which is determined by the President to be important to, and known by the transferring country to be intended by the recipient state for use in, the development or manufacture of any nuclear explosive device, or
 
-&emsp;(D) is a non-nuclear-weapon state and seeks and receives any design information or component which is determined by the President to be important to, and intended by the recipient state for use in, the development or manufacture of any nuclear explosive device,
+&emsp;(D) is a non-nuclear-weapon state and seeks and receives any design information or component which is determined by the President tobe important to, and intended by the recipient state for use in, the development or manufacture of any nuclear explosive device,
 
 > then the President shall forthwith report in writing his determination to the Congress and shall forthwith impose the sanctions described in paragraph (2) against that country.
 
@@ -236,7 +236,7 @@ Reporting requirement.—Not later than 60 days after the date of the enactment 
 
 "(e)
 
-Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shallbe subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
+Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
 
 "(f)
 
@@ -254,7 +254,7 @@ Pub. L. 105–194, §2(e), July 14, 1998, 112 Stat. 627, provided that: "Any san
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 #### Sanctions Against India for Detonation of a Nuclear Explosive Device
 

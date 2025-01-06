@@ -26,7 +26,7 @@
 
 #### (1) Claims under section 7433
 
-&emsp;Whenever it appears to the court that the taxpayer's position in the proceedings beforethe court instituted or maintained by such taxpayer under section 7433 is frivolous or groundless, the court may require the taxpayer to pay to the United States a penalty not in excess of $10,000.
+&emsp;Whenever it appears to the court that the taxpayer's position in the proceedings before the court instituted or maintained by such taxpayer under section 7433 is frivolous or groundless, the court may require the taxpayer to pay to the United States a penalty not in excess of $10,000.
 
 #### (2) Collection of sanctions and costs
 
@@ -50,7 +50,7 @@
 
 <b>1982</b>—Pub. L. 97–248, §292(d)(2)(A), substituted "primarily for delay, etc." for "merely for delay" after "Tax Court" in section catchline.
 
-Subsec. (a). Pub. L. 97–248, §292(b), substituted "or maintained by the taxpayer primarily for delay or that the taxpayer's position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000" for "by the taxpayer merely for delay, damages in an amount not in excess of $500" in first sentence.
+Subsec. (a). Pub. L. 97–248, §292(b), substituted "or maintained by the taxpayer primarily for delay or thatthe taxpayer's position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000" for "by the taxpayer merely for delay, damages in an amount not in excess of $500" in first sentence.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

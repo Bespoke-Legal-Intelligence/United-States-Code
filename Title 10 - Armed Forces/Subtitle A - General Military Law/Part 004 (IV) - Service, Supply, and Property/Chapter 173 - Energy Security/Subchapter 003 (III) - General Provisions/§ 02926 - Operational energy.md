@@ -66,7 +66,7 @@ Working Group.—(1) The Secretary of Defense shall establish a working group to
 
 (6) The working group under paragraph (1) shall meet not less frequently than quarterly.
 
-(7)(A) Not later than February 1 of each year, the working group under paragraph (1) shall submit to the congressional defense committees areport that contains a description of the following:
+(7)(A) Not later than February 1 of each year, the working group under paragraph (1) shall submit to the congressional defense committees a report that contains a description of the following:
 
 &emsp;(i) The topics addressed in the meetings of the working group during the preceding year.
 
@@ -252,7 +252,7 @@ Pub. L. 114–92, div. A, title X, §1081(b), Nov. 25, 2015, 129 Stat. 1001, pro
 
 #### Termination of Reporting Requirements
 
-For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(4) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(4) of this section requiring submittal ofannual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Timing for Appointment of Additional Working Group Members
 

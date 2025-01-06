@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptlyissue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -154,7 +154,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;(1) all issues, including the amount of the penalty, shall be tried de novo;
 
-&emsp;(2) if the monetary penalty is based on fraud, the United States shall have the burden ofproof to establish the alleged violation by clear and convincing evidence;
+&emsp;(2) if the monetary penalty is based on fraud, the United States shall have the burden of proof to establish the alleged violation by clear and convincing evidence;
 
 &emsp;(3) if the monetary penalty is based on gross negligence, the United States shall have the burden of proof to establish all the elements of the alleged violation; and
 
@@ -218,7 +218,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -326,7 +326,7 @@ Section 203 of the United States–Panama Trade Promotion Agreement Implementati
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded by section 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded bysection 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 The provisions of section III, H, of the 1913 act were substituted for provisions of the same nature made by the Customs Administrative Act of June 10, 1890, ch. 407, §§6, 9, 26 Stat. 134, 135, amended and reenacted by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95, 97.
 
@@ -406,7 +406,7 @@ Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end "For purposes of
 
 Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his".
 
-Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), which directed the substitution of "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure, or within 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his", was executed by making the substitution for text which began "time of disclosure or within 30 days", to reflect the probable intent of Congress.
+Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), which directed the substitution of "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure, or within 30 days, or such longer period as the appropriatecustoms officer may provide, after notice by the appropriate customs officer of his", was executed by making the substitution for text which began "time of disclosure or within 30 days", to reflect the probable intent of Congress.
 
 Subsec. (c)(5), (6). Pub. L. 103–182, §205(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
@@ -492,7 +492,7 @@ Pub. L. 95–410, title I, §110(f), Oct. 3, 1978, 92 Stat. 897, provided that:
 
 &emsp;"(ii) the closing date of the 2-year period beginning on such date of enactment,
 
-> whichever date later occurs, except that no such suit or action may be instituted after the date on which suchsuit or action would have been barred under section 621 of the Tariff Act of 1930 \[section 1621 of this title\] (as in effect on the day before such date of enactment)."
+> whichever date later occurs, except that no such suit or action may be instituted after the date on which such suit or action would have been barred under section 621 of the Tariff Act of 1930 \[section 1621 of this title\] (as in effect on the day before such date of enactment)."
 
 #### Transfer of Functions
 

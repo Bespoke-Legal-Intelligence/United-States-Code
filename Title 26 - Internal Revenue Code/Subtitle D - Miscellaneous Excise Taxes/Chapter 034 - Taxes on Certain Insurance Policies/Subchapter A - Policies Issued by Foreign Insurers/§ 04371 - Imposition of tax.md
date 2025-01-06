@@ -8,7 +8,7 @@ There is hereby imposed, on each policy of insurance, indemnity bond, annuity co
 
 #### (2) Life insurance, sickness, and accident policies, and annuity contracts
 
-&emsp;1 cent on each dollar, or fractional part thereof, of the premium paid on the policy of life, sickness, or accident insurance, or annuity contract; and
+&emsp;1 cent on each dollar, or fractional part thereof, of the premium paid on the policy oflife, sickness, or accident insurance, or annuity contract; and
 
 #### (3) Reinsurance
 

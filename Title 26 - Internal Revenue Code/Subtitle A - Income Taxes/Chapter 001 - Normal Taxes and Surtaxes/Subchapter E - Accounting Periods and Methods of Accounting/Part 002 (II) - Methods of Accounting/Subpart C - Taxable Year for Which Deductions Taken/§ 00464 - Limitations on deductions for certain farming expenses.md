@@ -64,13 +64,13 @@ Subsection (a) shall not apply to any amount paid for supplies which are on hand
 
 #### (C) Deductible farming expenses
 
-&emsp;&emsp;The term "deductible farming expenses" means any amount allowable as a deductionunder this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
+&emsp;&emsp;The term "deductible farming expenses" means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
 
 #### (e) Farming
 
 For purposes of this section, the term "farming" means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
 
-(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 113–295, div. A, title II, §221(a)(58)(A), (B)(i), (C), (D), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–141, div. U, title IV, §401(a)(118), (119), Mar. 23, 2018, 132 Stat. 1190.)
+(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988,102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 113–295, div. A, title II, §221(a)(58)(A), (B)(i), (C), (D), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–141, div. U, title IV, §401(a)(118), (119), Mar. 23, 2018, 132 Stat. 1190.)
 
 #### <b>Editorial Notes</b>
 

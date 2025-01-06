@@ -86,7 +86,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers; and
 
-&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, orare promulgated as rules of the Commission.
+&emsp;&emsp;&emsp;(ii) are established or adopted by the Board under section 7213(a) of this title, or are promulgated as rules of the Commission.
 
 #### (11) Public accounting firm
 

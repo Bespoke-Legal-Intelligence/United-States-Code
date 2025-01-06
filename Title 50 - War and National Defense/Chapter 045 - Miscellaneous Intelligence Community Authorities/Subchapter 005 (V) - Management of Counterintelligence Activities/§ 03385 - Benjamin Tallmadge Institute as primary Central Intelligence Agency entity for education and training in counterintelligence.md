@@ -8,7 +8,7 @@ The Director of the Central Intelligence Agency shall maintain the Benjamin Tall
 
 The Director of the Central Intelligence Agency shall—
 
-&emsp;(1) ensure the Institute is fully and properly organized and has the resources necessary toprovide counterintelligence education and training for all career fields within the Agency, including specialized certifications for Agency counterintelligence personnel;
+&emsp;(1) ensure the Institute is fully and properly organized and has the resources necessary to provide counterintelligence education and training for all career fields within the Agency, including specialized certifications for Agency counterintelligence personnel;
 
 &emsp;(2) develop appropriate certification courses that are designed to educate, train, and certify Agency personnel in—
 

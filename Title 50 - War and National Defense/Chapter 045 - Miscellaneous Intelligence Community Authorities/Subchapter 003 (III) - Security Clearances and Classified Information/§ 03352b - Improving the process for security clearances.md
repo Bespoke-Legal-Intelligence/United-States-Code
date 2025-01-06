@@ -54,7 +54,7 @@ Not later than 180 days after December 20, 2019, the Security Executive Agent sh
 
 &emsp;&emsp;(A) provides for periodic reinvestigations as part of a security clearance determination only on an as-needed, risk-based basis;
 
-&emsp;&emsp;(B) includes actions to assess the extent to which automated records checks and othercontinuous vetting methods may be used to expedite or focus reinvestigations; and
+&emsp;&emsp;(B) includes actions to assess the extent to which automated records checks and other continuous vetting methods may be used to expedite or focus reinvestigations; and
 
 &emsp;&emsp;(C) provides an exception to the requirement under subparagraph (A) for certain populations if the Security Executive Agent—
 

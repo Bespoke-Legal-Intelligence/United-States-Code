@@ -24,7 +24,7 @@ It is unlawful—
 
 #### (2) Criminal penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subjectto a criminal penalty under section 1375(b) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under section 1375(b) of this title.
 
 #### (c) Civil forfeitures
 

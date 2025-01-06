@@ -1,6 +1,6 @@
 ### §127. Emergency and extraordinary expenses
 
-(a) Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
+(a) Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense,the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount. The authority to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by section 429a of this title instead of this section.
 
 (b) The authority conferred by this section may be delegated by the Secretary of Defense to any person in the Department of Defense, by the Inspector General to any person in the Office of the Inspector General, or by the Secretary of a military department to any person within his department, with or without the authority to make successive redelegations.
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) in the case of an obligation or expenditure in excess of $500,000, but not in excess of $1,000,000, 5 days have elapsed since the date of the notification.
 
-(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditureof funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
+(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditure of funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
 
 (3) A notification under paragraph (1) and information referred to in paragraph (2) shall include the amount to be obligated or expended, as the case may be, and the purpose of the obligation or expenditure.
 
@@ -42,11 +42,13 @@ Annual Report.—(1) Not later than December 1 each year, the Secretary of Defen
 
 Definition of Congressional Intelligence Committees.—In this section, the term "congressional intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Added Pub. L. 94–106, title VIII, §804(a), Oct. 7, 1975, 89 Stat. 538, §140; amended Pub. L. 98–94, title XII, §1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered §127 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, §361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, §378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, §915, title XV, §1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(2), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 115–91, div. A, title X, §§1041(a)–(c), 1081(a)(4), Dec. 12, 2017, 131 Stat. 1552, 1553, 1594; Pub. L. 116–92, div. A, title X, §1012, title XVII, §1731(a)(5), Dec. 20, 2019, 133 Stat. 1577, 1812.)
+(Added Pub. L. 94–106, title VIII, §804(a), Oct. 7, 1975, 89 Stat. 538, §140; amended Pub. L. 98–94, title XII, §1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered §127 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, §361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, §378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, §915, title XV, §1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(2), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 115–91, div. A, title X, §§1041(a)–(c), 1081(a)(4), Dec. 12, 2017, 131 Stat. 1552, 1553, 1594; Pub. L. 116–92, div. A, title X, §1012, title XVII, §1731(a)(5), Dec. 20, 2019, 133 Stat. 1577, 1812; Pub. L. 118–159, div. A, title XVI, §1614(e)(2), Dec. 23, 2024, 138 Stat. 2169.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 inserted at end "The authority to expend amounts made available for theMilitary Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by section 429a of this title instead of this section."
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–92, §1731(a)(5), inserted "the" before "congressional defense committees".
 
@@ -70,7 +72,7 @@ Pub. L. 104–106, §1502(a)(5), substituted "Committee on Armed Services and th
 
 Subsec. (d). Pub. L. 104–106, §915(1), redesignated subsec. (c), as amended by Pub. L. 104–106, §§1502(a)(5), 1506, as (d).
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before "In any case" and struck out par. (2) which read as follows: "The amount of funds expendedby the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000."
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before "In any case" and struck out par. (2) which read as follows: "The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §361(1), inserted ", the Inspector General of the Department of Defense," after "the Secretary of Defense" and "or the Inspector General" after "the Secretary concerned" and after "The Secretary concerned".
 

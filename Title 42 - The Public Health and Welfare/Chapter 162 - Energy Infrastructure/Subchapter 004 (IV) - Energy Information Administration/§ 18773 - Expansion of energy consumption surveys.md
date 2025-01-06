@@ -34,7 +34,7 @@ Not later than 2 years after November 15, 2021, the Administrator shall implemen
 
 &emsp;&emsp;&emsp;(i) enabling the presentation of data in an interactive cartographic format on a national, regional, State, and local level with the functionality of viewing various economic, energy, and demographic measures on an individual basis or in combination; and
 
-&emsp;&emsp;&emsp;(ii) incorporating the results of the data collection, methods, and tools described in subparagraphs (A) and (B) into existing and new digital distribution methods.
+&emsp;&emsp;&emsp;(ii) incorporating the results of the data collection, methods, and tools described insubparagraphs (A) and (B) into existing and new digital distribution methods.
 
 #### (2) Manufacturing Energy Consumption Survey
 

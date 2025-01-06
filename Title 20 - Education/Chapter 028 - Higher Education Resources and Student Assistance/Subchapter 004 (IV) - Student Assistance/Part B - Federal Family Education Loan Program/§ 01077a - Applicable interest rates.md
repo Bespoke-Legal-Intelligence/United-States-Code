@@ -68,7 +68,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (d) Interest rates for new borrowers after July 1, 1988
 
-Notwithstanding subsections (a) and (b) of this section, with respect to any loan (other than a loan made pursuant to sections 1078–1,<sup>1</sup> 1078–2, and 1078–3 of this title) to cover the cost of instruction for any period of enrollment beginning on or after July 1, 1988, to any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under this part, the applicable rate of interest shall be—
+Notwithstanding subsections (a) and (b) of this section, with respect to any loan (other than aloan made pursuant to sections 1078–1,<sup>1</sup> 1078–2, and 1078–3 of this title) to cover the cost of instruction for any period of enrollment beginning on or after July 1, 1988, to any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under this part, the applicable rate of interest shall be—
 
 &emsp;(1) 8 percent per year on the unpaid principal balance of the loan during the period beginning on the date of the disbursement of the loan and ending 4 years after the commencement of repayment; and
 
@@ -146,7 +146,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) Interest rates for new PLUS loans after July 1, 1998
 
-&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g), with respect to any loan madeunder section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
+&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g), with respect to any loan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
 
 &emsp;&emsp;(A) by substituting "2.1 percent" for "1.0 percent" in subparagraph (B); and
 
@@ -208,7 +208,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (7) Conversion to variable rate
 
-&emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rateon a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
+&emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this partand is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
 
 &emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
 

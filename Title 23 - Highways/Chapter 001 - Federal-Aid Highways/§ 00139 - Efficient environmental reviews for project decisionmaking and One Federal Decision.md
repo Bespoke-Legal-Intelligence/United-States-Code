@@ -162,7 +162,7 @@ Joint lead agencies.—Nothing in this section precludes another agency from bei
 
 &emsp;(3)
 
-Project sponsor as joint lead agency.—Any project sponsor that is a State or local governmental entity receiving funds under this title or chapter 53 of title 49 for the project shall serve as a joint lead agency with the Department for purposes of preparing any environmental document under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and may prepare any such environmental document required in support of any action or approval by the Secretary if the Federal lead agency furnishes guidance in such preparation and independently evaluates such document and the document is approved and adopted by the Secretary prior to the Secretary taking any subsequent action or making any approval based on such document, whether or not the Secretary's action or approval results in Federal funding.
+Project sponsor as joint lead agency.—Any project sponsor that is a State or local governmental entity receiving funds under this title or chapter 53 of title 49 for the project shall serve as a joint lead agency with the Department for purposes of preparing any environmental document under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and may prepare any such environmental document required in support of any action or approval by the Secretary if the Federal lead agency furnishes guidance in such preparation and independently evaluates such document and the document is approvedand adopted by the Secretary prior to the Secretary taking any subsequent action or making any approval based on such document, whether or not the Secretary's action or approval results in Federal funding.
 
 &emsp;(4)
 
@@ -198,7 +198,7 @@ In general.—The Secretary shall review—
 
 &emsp;&emsp;(B)
 
-Consultation.—In conducting the review under subparagraph (A), the Secretaryshall consult, as appropriate, with the heads of other Federal agencies that participate in the environmental review process.
+Consultation.—In conducting the review under subparagraph (A), the Secretary shall consult, as appropriate, with the heads of other Federal agencies that participate in the environmental review process.
 
 &emsp;&emsp;(C)
 
@@ -260,7 +260,7 @@ Concurrent reviews.—Each participating agency and cooperating agency shall—
 
 &emsp;&emsp;(A) carry out the obligations of that agency under other applicable law concurrently, and in conjunction, with the review required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), unless doing so would impair the ability of the Federal agency to conduct needed analysis or otherwise carry out those obligations; and
 
-&emsp;&emsp;(B) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
+&emsp;&emsp;(B) formulate and implement administrative, policy, and procedural mechanisms toenable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
 
 &emsp;(8)
 
@@ -558,7 +558,7 @@ Major projects.—In the case of a major project, the lead agency may lengthen a
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Shortened schedules.—The lead agency may not shorten a schedule under clause (i) if doing so would impair the ability of a cooperating Federal agency to conduct necessary analyses or otherwise carry out relevant obligations of the Federal agency for the project.
+Shortened schedules.—The lead agency may not shorten a scheduleunder clause (i) if doing so would impair the ability of a cooperating Federal agency to conduct necessary analyses or otherwise carry out relevant obligations of the Federal agency for the project.
 
 &emsp;&emsp;(E)
 
@@ -598,7 +598,7 @@ Comment deadlines.—The lead agency shall establish the following deadlines for
 
 &emsp;(3)
 
-Deadlines for decisions under other laws.—In any case in which a decision underany Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
+Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
 
 &emsp;&emsp;(A) as soon as practicable after the 180-day period, an initial notice of the failure of the Federal agency to make the decision; and
 
@@ -686,7 +686,7 @@ Elevation of issue resolution.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If issue resolution is not achieved by not later than 30 days after the date of a relevant meeting under subparagraph (A), the Secretary shall notify the lead agency, the heads of the relevantparticipating agencies, and the project sponsor (including the Governor only if the initial issue resolution meeting request came from the Governor) that an issue resolution meeting will be convened.
+In general.—If issue resolution is not achieved by not later than 30 days after the date of a relevant meeting under subparagraph (A), the Secretary shall notify the lead agency, the heads of the relevant participating agencies, and the project sponsor (including the Governor only if the initial issue resolution meeting request came from the Governor) that an issue resolution meeting will be convened.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -824,7 +824,7 @@ Use of federal lands highway funds.—The Secretary may also use funds made avai
 
 &emsp;(4)
 
-Amounts.—Requests under paragraph (1) may be approved only for the additional amounts that the Secretary determines are necessary for the Federal agencies, State agencies, or Indian tribes participating in the environmental review process to meet the time limits for environmental review.
+Amounts.—Requests under paragraph (1) may be approved only for the additionalamounts that the Secretary determines are necessary for the Federal agencies, State agencies, or Indian tribes participating in the environmental review process to meet the time limits for environmental review.
 
 &emsp;(5)
 
@@ -926,7 +926,7 @@ Enforcement.—
 
 &emsp;&emsp;(A)
 
-In general.—All provisions of this section shall apply to this subsection, including the financial penalty provisions under subsection (h)(6).
+In general.—All provisions of this section shall apply to this subsection, includingthe financial penalty provisions under subsection (h)(6).
 
 &emsp;&emsp;(B)
 
@@ -1068,7 +1068,7 @@ Public comment.—In a notice of proposed rulemaking under subparagraph (A), the
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3)–(5), (7)(A)(i), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (8)(A), (D)(ii), (f)(4)(B)(ii)(II), (E)(i)(I), (ii)(II), (VI)(aa), (h)(7)(B)(ii)(II)(bb), (8), (k)(2), (m)(1)(A), (n)(1), and (o)(1)(A)(i), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 etseq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3)–(5), (7)(A)(i), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (8)(A), (D)(ii), (f)(4)(B)(ii)(II), (E)(i)(I), (ii)(II), (VI)(aa), (h)(7)(B)(ii)(II)(bb), (8), (k)(2), (m)(1)(A), (n)(1), and (o)(1)(A)(i), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of the Surface Transportation Reauthorization Act of 2021 and the date of enactment of this subsection, referred to in subsecs. (c)(7)(C) and (q)(1), are the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
 

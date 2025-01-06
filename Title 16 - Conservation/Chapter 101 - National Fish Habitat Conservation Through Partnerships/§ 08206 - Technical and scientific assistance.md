@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
+The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service, the Bureau of Land Management, and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
 
 #### (b) Inclusions
 
@@ -22,5 +22,11 @@ Scientific and technical assistance provided under subsection (a) may include—
 
 &emsp;(7) providing resources to secure State agency scientific and technical assistance to support Partnerships, participants in fish habitat conservation projects, and the Board.
 
-(Pub. L. 116–188, title II, §206, Oct. 30, 2020, 134 Stat. 934.)
+(Pub. L. 116–188, title II, §206, Oct. 30, 2020, 134 Stat. 934; Pub. L. 118–198, title II, §204, Dec. 23, 2024, 138 Stat. 2682.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–198 inserted ", the Bureau of Land Management," after "the Forest Service".
 

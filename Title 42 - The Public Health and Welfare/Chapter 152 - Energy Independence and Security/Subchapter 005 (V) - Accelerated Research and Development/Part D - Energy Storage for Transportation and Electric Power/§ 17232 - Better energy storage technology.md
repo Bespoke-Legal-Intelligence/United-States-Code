@@ -130,7 +130,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the accomplishment of relevant objectives under current programs of the Department relating to energy storage systems; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the commencement of any new initiatives within the Department relating to energy storage systems to accomplish those objectives; and
+&emsp;&emsp;&emsp;&emsp;(II) the commencement of any new initiatives within the Department relatingto energy storage systems to accomplish those objectives; and
 
 &emsp;&emsp;&emsp;(v) incorporate relevant activities described in the Grid Modernization Initiative Multi-Year Program Plan.
 
@@ -174,7 +174,7 @@ In this section:
 
 &emsp;Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including—
 
-&emsp;&emsp;(A) at least 1 energy storage system demonstration project designed to further thedevelopment of technologies described in clause (v) or (vi) of subsection (b)(2)(A); and
+&emsp;&emsp;(A) at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A); and
 
 &emsp;&emsp;(B) 1 project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid, in accordance with paragraph (3).
 
@@ -226,7 +226,7 @@ In this section:
 
 #### (D) Objectives
 
-&emsp;&emsp;Each demonstration project carried out by a grant awarded under subparagraph (B) shall have 1 or more of the following objectives:
+&emsp;&emsp;Each demonstration project carried out by a grant awarded under subparagraph (B)shall have 1 or more of the following objectives:
 
 &emsp;&emsp;&emsp;(i) To improve the security of critical infrastructure and emergency response systems.
 
@@ -276,7 +276,7 @@ In this section:
 
 #### (C) Priority
 
-&emsp;&emsp;In selecting a project to carry out under subparagraph (A), the Secretary shall givepriority to projects in which the demonstration of the applicable second-life applications is paired with 1 or more facilities that could particularly benefit from increased resiliency and lower energy costs, such as a multi-family affordable housing facility, a senior care facility, and a community health center.
+&emsp;&emsp;In selecting a project to carry out under subparagraph (A), the Secretary shall give priority to projects in which the demonstration of the applicable second-life applications is paired with 1 or more facilities that could particularly benefit from increased resiliency and lower energy costs, such as a multi-family affordable housing facility, a senior care facility, and a community health center.
 
 #### (4) Reports
 

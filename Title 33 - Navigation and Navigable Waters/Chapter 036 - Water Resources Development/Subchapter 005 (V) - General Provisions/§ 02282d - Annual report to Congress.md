@@ -64,7 +64,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (i) Description
 
-&emsp;&emsp;&emsp;The Secretary shall describe in the annual report, to the extent applicable and practicable, for each proposed feasibility study and proposed modification to an authorized water resources development project or feasibility study included in the annual report, the benefits, as described in clause (ii), of each such study or proposedmodification (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study).
+&emsp;&emsp;&emsp;The Secretary shall describe in the annual report, to the extent applicable and practicable, for each proposed feasibility study and proposed modification to an authorized water resources development project or feasibility study included in the annual report, the benefits, as described in clause (ii), of each such study or proposed modification (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study).
 
 #### (ii) Benefits
 
@@ -96,7 +96,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the <sup>1</sup> project and the justification for the modification is not the result of a change in the scope of the project.
+&emsp;&emsp;&emsp;With respect to a project being carried out pursuant to a continuing authorityprogram for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the <sup>1</sup> project and the justification for the modification is not the result of a change in the scope of the project.
 
 #### (ii) Inclusion
 
@@ -126,9 +126,11 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 &emsp;&emsp;&emsp;&emsp;(VII) section 2330 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) section 701g of this title; and
+&emsp;&emsp;&emsp;&emsp;(VIII) section 701g of this title;
 
-&emsp;&emsp;&emsp;&emsp;(IX) section 2309a of this title.
+&emsp;&emsp;&emsp;&emsp;(IX) section 2309a of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(X) section 2289b of this title.
 
 #### (2) Transparency
 
@@ -196,7 +198,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 &emsp;&emsp;In carrying out the activities described in this section—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary's determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program;
+&emsp;&emsp;&emsp;(i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary's determination that the proposal requires legislative changes to an authorized water resourcesdevelopment project, feasibility study, or environmental infrastructure program;
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis that the proposals are for the purposes of navigation, flood risk management, ecosystem restoration, or municipal or agricultural water supply; and
 
@@ -218,7 +220,15 @@ Notwithstanding any other deadlines required by this section, the Secretary shal
 
 Upon submission of an annual report to Congress, the Secretary shall make the annual report publicly available, including through publication on the Internet.
 
-#### (g) Definitions
+#### (g) Non-Federal interest notification
+
+After the publication of the annual report under subsection (f), if the proposal of a non-Federal interest submitted under subsection (b) was included by the Secretary in the appendix under subsection (c)(4), the Secretary shall provide written notification to the non-Federal interest of such inclusion.
+
+#### (h) Congressional notification
+
+Not later than 30 days after the publication of the annual report under subsection (f), for each proposal included in that annual report or appendix, the Secretary shall notify each Member of Congress that represents the State in which that proposal will be located that the proposal was included the annual report or the appendix.
+
+#### (i) Definitions
 
 In this section:
 
@@ -252,7 +262,7 @@ In this section:
 
 &emsp;The term "water resources development project" includes a project under an environmental infrastructure assistance program.
 
-(Pub. L. 113–121, title VII, §7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, §1157(b), Dec. 16, 2016, 130 Stat. 1666; Pub. L. 115–270, title I, §1332(a), Oct. 23, 2018, 132 Stat. 3834; Pub. L. 116–260, div. AA, title I, §127(a), Dec. 27, 2020, 134 Stat. 2640.)
+(Pub. L. 113–121, title VII, §7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, §1157(b), Dec. 16, 2016, 130 Stat. 1666; Pub. L. 115–270, title I, §1332(a), Oct. 23, 2018, 132 Stat. 3834; Pub. L. 116–260, div. AA, title I, §127(a), Dec. 27, 2020, 134 Stat. 2640; Pub. L. 118–272, div. A, title I, §1111, Jan. 4, 2025, 138 Stat. 3010.)
 
 #### <b>Editorial Notes</b>
 
@@ -261,6 +271,10 @@ In this section:
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(1)(D)(iii)(X). Pub. L. 118–272, §1111(1), added subcl. (X).
+
+Subsecs. (g) to (i). Pub. L. 118–272, §1111(2), (3), added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 
 <b>2020</b>—Subsec. (c)(1)(B)(ii)(III). Pub. L. 116–260, §127(a)(1)(A)(i), inserted ", regional, or local" after "national".
 
@@ -274,7 +288,7 @@ Subsec. (g)(5). Pub. L. 116–260, §127(a)(2), struck out "if authorized before
 
 Subsec. (b)(1). Pub. L. 115–270, §1332(a)(2), substituted "studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program" for "studies and proposed modifications to authorized water resources development projects and feasibility studies".
 
-Subsec. (c)(4). Pub. L. 115–270, §1332(a)(5), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "The Secretary shall include in the annual report an appendix listing the proposals submitted under subsection (b) that were not included in the annual report under paragraph (1)(A) and a description of why the Secretary determined that those proposals did not meet the criteria for inclusion under such paragraph."
+Subsec. (c)(4). Pub. L. 115–270, §1332(a)(5), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "The Secretary shall include in the annual report an appendix listing the proposals submitted under subsection (b) that were not included in the annual report under paragraph (1)(A) and a description of why the Secretary determined that thoseproposals did not meet the criteria for inclusion under such paragraph."
 
 Subsecs. (d) to (g). Pub. L. 115–270, §1332(a)(3), (4), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 

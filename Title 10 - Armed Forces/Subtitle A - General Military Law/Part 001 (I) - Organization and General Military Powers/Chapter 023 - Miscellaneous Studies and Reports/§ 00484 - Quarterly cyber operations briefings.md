@@ -12,7 +12,7 @@ Elements.—Each briefing under subsection (a) shall include, with respect to th
 
 &emsp;(2) An update, set forth for each applicable geographic and functional command, that describes defensive cyber operations executed to protect or defend forces, networks, and equipment in the area of operations of that command.
 
-&emsp;(3) An update on relevant authorities and legal issues applicable to operations, including any presidential directives and delegations of authority received since the last quarterly update.
+&emsp;(3) An update on relevant authorities and legal issues applicable to operations, includingany presidential directives and delegations of authority received since the last quarterly update.
 
 &emsp;(4) An overview of critical operational challenges posed by major adversaries or encountered in operational activities conducted since the last quarterly update.
 

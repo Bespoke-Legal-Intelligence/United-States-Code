@@ -159,7 +159,7 @@ Exception where manufacturer paid tax.—In the case of any sale before January 
 
 &emsp;"(D)
 
-Registration requirements.—Section 4662(b)(10)(C) of such Code (as added by subsection (g))shall apply to exchanges made after December 31, 1986."
+Registration requirements.—Section 4662(b)(10)(C) of such Code (as added by subsection (g)) shall apply to exchanges made after December 31, 1986."
 
 #### Effective Date
 

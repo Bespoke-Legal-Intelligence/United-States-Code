@@ -30,7 +30,7 @@ Applicability.—The authority provided in subsection (a) applies only to the Se
 
 (c)
 
-Procedures.—The Secretary of Defense shall establish procedures to collect and analyze information on the use and benefits of the authority under this section and related impacts on performance, affordability, and capability delivery.
+Procedures.—The Secretary of Defense shall establish procedures to collect and analyzeinformation on the use and benefits of the authority under this section and related impacts on performance, affordability, and capability delivery.
 
 (Added Pub. L. 115–91, div. A, title VIII, §861(a)(1), Dec. 12, 2017, 131 Stat. 1493, §2302e; renumbered §4004 and amended Pub. L. 116–283, div. A, title VIII, §831(a), title XVIII, §§1818(c), 1841(b)(1), Jan. 1, 2021, 134 Stat. 3753, 4243; Pub. L. 116–283, div. A, title XVIII, §1841(b)(2)(D), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(F)(i)(V), Dec. 27, 2021, 135 Stat. 2152; Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(B), (v)(1)(A), Dec. 27, 2021, 135 Stat. 2151, 2154.)
 

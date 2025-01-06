@@ -12,7 +12,7 @@
 
 &emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agency head under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
-&emsp;(4) review rules and regulations issued by the Director of the Office of Personnel Management in carrying out functions under section 1103 and, where the Special Counsel finds that any such rule or regulation would, on its face or as implemented, require the commission of a prohibited personnel practice, file a written complaint with the Board; and
+&emsp;(4) review rules and regulations issued by the Director of the Office of Personnel Management in carrying out functions under section 1103 and, where the Special Counsel finds that any such rule or regulation would, on its faceor as implemented, require the commission of a prohibited personnel practice, file a written complaint with the Board; and
 
 &emsp;(5) investigate and, where appropriate, bring actions concerning allegations of violations of other laws within the jurisdiction of the Office of Special Counsel (as referred to in section 1216).
 
@@ -82,7 +82,7 @@
 
 (d)(1) The Special Counsel may appoint the legal, administrative, and support personnel necessary to perform the functions of the Special Counsel.
 
-(2) Any appointment made under this subsection shall be made in accordance with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
+(2) Any appointment made under this subsection shall be made in accordance with theprovisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
 (e) The Special Counsel may prescribe such regulations as may be necessary to perform the functions of the Special Counsel. Such regulations shall be published in the Federal Register.
 
@@ -162,7 +162,7 @@ Pub. L. 115–73, title I, §105, Oct. 26, 2017, 131 Stat. 1238, as amended by P
 
 "(a)
 
-Referral.—The head of an agency shall refer to the Special Counsel, along with any information known to the agency regarding the circumstances described in paragraphs (2) and (3), any instance in which the head of the agency has credible information indicating—
+Referral.—The head of an agency shall refer to the Special Counsel, along with any information knownto the agency regarding the circumstances described in paragraphs (2) and (3), any instance in which the head of the agency has credible information indicating—
 
 &emsp;"(1) an employee of the agency committed suicide;
 

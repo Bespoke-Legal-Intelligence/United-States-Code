@@ -22,7 +22,7 @@
 
 (c)(1) Funds appropriated to a military department, the Department of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
-(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care underthe managed care option of the TRICARE program known as TRICARE Prime.
+(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
 
 (B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
 
@@ -188,7 +188,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(1)\], Oct. 30, 2000, 11
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VII, §731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that: "The amendments made by paragraph (1) \[amending this section\] shallapply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
+Pub. L. 105–85, div. A, title VII, §731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
 
 &emsp;"(A) April 1, 1998.
 
@@ -205,6 +205,138 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1966 Amendment
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Establishment of Indo-Pacific Medical Readiness Program
+
+Pub. L. 118–159, div. A, title VII, §735, Dec. 23, 2024, 138 Stat. 1957, provided that:
+
+"(a)
+
+Establishment.—
+
+&emsp;"(1)
+
+In general.—Not later than January 1, 2026, the Secretary of Defense shall establish a medical readiness program (referred to in this section as the 'Program') to partner with countries in the Indo-Pacific region to gain access to foreign medical facilities during peacetime and wartime operations and maintain military-wide strategies for medical readiness in the region.
+
+&emsp;"(2)
+
+Objective.—The objective of the Program shall be to promote the medical readiness of the ArmedForces and the military forces of partner countries for missions during peacetime and wartime operations by—
+
+&emsp;&emsp;"(A) reducing the movement and distance associated with patient care;
+
+&emsp;&emsp;"(B) increasing the medical capacity of the Department of Defense by expanding patient access to medical facilities across the Indo-Pacific region, where and when appropriate;
+
+&emsp;&emsp;"(C) enhancing medical evacuation capabilities needed in carrying out subparagraphs (A) and (B);
+
+&emsp;&emsp;"(D) accrediting foreign medical facilities, which will standardize medical procedures, patient care, and policies related to treating members of the Armed Forces and their dependents;
+
+&emsp;&emsp;"(E) enhancing interoperability and interchangeability through shared patient record management, medical equipment commonality, and coordination of medical care; and
+
+&emsp;&emsp;"(F) identifying any medical support and capability gaps relating to medical personnel and equipment.
+
+&emsp;"(3)
+
+Activities.—In carrying out the Program, the Secretary shall—
+
+&emsp;&emsp;"(A) assess and integrate current medical capabilities and capacities of the Department of Defense in the Indo-Pacific region into the Program;
+
+&emsp;&emsp;"(B) select an appropriate standard of accreditation to evaluate and accredit foreign medical facilities;
+
+&emsp;&emsp;"(C) coordinate with partner countries to identify and evaluate medical facilities for the Program;
+
+&emsp;&emsp;"(D) establish agreements with foreign medical facilities for potential use of the Program;
+
+&emsp;&emsp;"(E) establish policies and procedures—
+
+&emsp;&emsp;&emsp;"(i) to reduce patient movement times in various countries in the Indo-Pacific region during peacetime and wartime operations;
+
+&emsp;&emsp;&emsp;"(ii) to standardize medical procedures, patient care, and policies;
+
+&emsp;&emsp;&emsp;"(iii) to securely share patient data with foreign countries, when appropriate, such as during a contingency;
+
+&emsp;&emsp;&emsp;"(iv) with respect to medical equipment commonality and interchangeability; and
+
+&emsp;&emsp;&emsp;"(v) with respect to the coordination of medical care; and
+
+&emsp;&emsp;"(F) integrate the Program into operational plans of the combatant commands.
+
+"(b)
+
+Strategy.—
+
+&emsp;"(1)
+
+In general.—Not later than September 30, 2025, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a strategy for the implementation of the Program.
+
+&emsp;"(2)
+
+Elements.—The strategy under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A governance structure for the Program, including—
+
+&emsp;&emsp;&emsp;"(i) the officials tasked to oversee the Program;
+
+&emsp;&emsp;&emsp;"(ii) the functions and duties of such officials with respect to establishing and maintaining the Program; and
+
+&emsp;&emsp;&emsp;"(iii) mechanisms for coordinating with partner countries selected to participate in the Program.
+
+&emsp;&emsp;"(B) With respect to the selection of partner countries initially selected to participate in the Program—
+
+&emsp;&emsp;&emsp;"(i) an identification of each such country;
+
+&emsp;&emsp;&emsp;"(ii) the rationale for selecting each such country; and
+
+&emsp;&emsp;&emsp;"(iii) any other information the Secretary considers appropriate.
+
+&emsp;&emsp;"(C) A campaign of objectives for the first three fiscal years after the date of the establishment of the Program, including—
+
+&emsp;&emsp;&emsp;"(i) a description of, and a rational \[sic\] for selecting, such objectives;
+
+&emsp;&emsp;&emsp;"(ii) an identification of milestones toward achieving such objectives; and
+
+&emsp;&emsp;&emsp;"(iii) metrics for evaluating success in achieving such objectives.
+
+&emsp;&emsp;"(D) A description of opportunities and potential timelines for future Program expansion, as appropriate.
+
+&emsp;&emsp;"(E) A list of additional authorities, appropriations, or other congressional support necessary to ensure the success of the Program.
+
+&emsp;&emsp;"(F) Any other information the Secretary considers appropriate.
+
+&emsp;"(3)
+
+Form.—The strategy under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than October 1, 2026, and annually thereafter until October 1, 2035, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the Program.
+
+&emsp;"(2)
+
+Elements.—Each report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A narrative summary of activities conducted as part of the Program during the preceding fiscal year.
+
+&emsp;&emsp;"(B) A campaign of objectives for the three fiscal years after the date of submission of the report, including—
+
+&emsp;&emsp;&emsp;"(i) a description of, and a rational for selecting, such objectives;
+
+&emsp;&emsp;&emsp;"(ii) an identification of milestones toward achieving such objectives; and
+
+&emsp;&emsp;&emsp;"(iii) metrics for evaluating success in achieving such objectives.
+
+&emsp;&emsp;"(C) Except in the case of the initial report, an assessment of progress toward the objectives specified in subparagraph (C) that were included in the report for the preceding fiscal year, as evaluated using the metrics described in clause (iii) of such subparagraph.
+
+&emsp;&emsp;"(D) A description of opportunities and potential timelines for future Program expansion, as appropriate.
+
+&emsp;&emsp;"(E) Any other information the Secretary considers appropriate.
+
+&emsp;"(3)
+
+Form.—Each report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex."
 
 #### Program of the Department of Defense To Study Treatment of Certain Conditions Using Certain Psychedelic Substances
 
@@ -544,7 +676,7 @@ Additional Restrictions Authorized.—The Secretary may establish additional res
 
 "(d)
 
-Data Collection and Availability.—The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such dataare limited to such use and disclosures permitted by law and applicable regulations.
+Data Collection and Availability.—The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such data are limited to such use and disclosures permitted by law and applicable regulations.
 
 "(e)
 
@@ -952,7 +1084,7 @@ Requirement for policy.—The Secretary of Defense shall prescribe, for uniform 
 
 Content.—The policy prescribed under paragraph (1) may specify the following matters:
 
-&emsp;"(A) The circumstances under which treatment for medical conditions may be deferred to be provided within a theater of operations in order to prevent delay or other disruption of a deployment to that theater.
+&emsp;"(A) The circumstances under which treatment for medical conditions may be deferred to be provided within a theater of operations in order to preventdelay or other disruption of a deployment to that theater.
 
 &emsp;"(B) The circumstances under which medical conditions are to be treated before deployment to that theater."
 
@@ -1124,7 +1256,7 @@ Pub. L. 107–314, div. A, title VII, §709, Dec. 2, 2002, 116 Stat. 2586, direc
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
-Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VII, §722(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
+Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
 
 "(a)
 
@@ -1458,7 +1590,7 @@ Contents of Registry.—(1) The Registry shall include—
 
 "(d)
 
-Medical Examination.—Upon the request of any member listed in the Registry pursuant to subsection\(a)(1), the Secretary of the military department concerned shall, if medically appropriate, furnish a pulmonary function examination and chest x-ray to such person.
+Medical Examination.—Upon the request of any member listed in the Registry pursuant to subsection (a)(1), the Secretary of the military department concerned shall, if medically appropriate, furnish a pulmonary function examination and chest x-ray to such person.
 
 "(e)
 

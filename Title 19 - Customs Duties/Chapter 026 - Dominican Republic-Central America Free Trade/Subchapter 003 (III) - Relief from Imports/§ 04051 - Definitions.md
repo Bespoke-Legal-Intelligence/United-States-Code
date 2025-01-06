@@ -14,7 +14,7 @@ In this subchapter:
 
 &emsp;(A) Subject to subparagraph (B), the term "de minimis supplying country" means a CAFTA–DR country whose share of imports of the relevant CAFTA–DR article into the United States does not exceed 3 percent of the aggregate volume of imports of the relevant CAFTA–DR article in the most recent 12-month period for which data are available that precedes the filing of the petition under section 4061(a) of this title.
 
-&emsp;(B) A CAFTA–DR country shall not be considered to be a de minimis supplying country if the aggregate share of imports of the relevant CAFTA–DR article into the United States of all CAFTA–DR countries that satisfy the conditions of subparagraph (A) exceeds 9 percent of the aggregate volume of imports of the relevant CAFTA–DR article during the applicable 12-month period.
+&emsp;(B) A CAFTA–DR country shall not be considered to be a de minimis supplying country if the aggregate share of imports of the relevant CAFTA–DR article into the United States of all CAFTA–DR countries that satisfythe conditions of subparagraph (A) exceeds 9 percent of the aggregate volume of imports of the relevant CAFTA–DR article during the applicable 12-month period.
 
 #### (4) Relevant CAFTA–DR article
 

@@ -46,7 +46,7 @@
 
 (d) A part-time appointment may not be for a period of more than one year, except for appointments of persons specified in subsection (a)(1)(A) and interns, residents, and other trainees in medical support programs and except as authorized in subsection (f).
 
-(e) A student who has a temporary appointment under this section and who is pursuing a full course of nursing in a recognized school of nursing approved by the Secretary, or who is pursuing a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, may be reappointed for a period not to exceed the duration of the student's academic program.
+(e) A student who has a temporary appointment under this section and who is pursuing afull course of nursing in a recognized school of nursing approved by the Secretary, or who is pursuing a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, may be reappointed for a period not to exceed the duration of the student's academic program.
 
 (f) During any period during which the Secretary is exercising the authority provided in subsections (a) and (f)(1) of section 7403 of this title in connection with the appointment, under paragraph (3) of section 7401 of this title, of personnel in a category of personnel described in such paragraph—
 

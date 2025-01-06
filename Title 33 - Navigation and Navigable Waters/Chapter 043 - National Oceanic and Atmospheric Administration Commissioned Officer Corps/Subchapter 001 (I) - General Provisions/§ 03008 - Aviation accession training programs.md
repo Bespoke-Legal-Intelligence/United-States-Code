@@ -106,7 +106,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;A member of the program who receives or benefits from assistance under subsection (d), and whose receipt of or benefit from such assistance is subject to the condition that the member fully satisfy the requirements of subsection (c), shall repay to the United States an amount equal to the assistance received or benefitted from if the member fails to fully satisfy such requirements and may not receive or benefit from any unpaid amounts of such assistance after the member fails to satisfy such requirements, unless the Administrator determines that the imposition of the repayment requirement and the termination of payment of unpaid amounts of such assistance with regard to the member would be—
+&emsp;A member of the program who receives or benefits from assistance under subsection (d), and whose receipt of or benefit from such assistance is subject to the condition that the member fully satisfy the requirements of subsection (c), shall repay to the United States an amount equal to the assistance received or benefitted from if the member fails to fully satisfy such requirements and may not receive or benefit from any unpaid amounts of suchassistance after the member fails to satisfy such requirements, unless the Administrator determines that the imposition of the repayment requirement and the termination of payment of unpaid amounts of such assistance with regard to the member would be—
 
 &emsp;&emsp;(A) contrary to a personnel policy or management objective;
 

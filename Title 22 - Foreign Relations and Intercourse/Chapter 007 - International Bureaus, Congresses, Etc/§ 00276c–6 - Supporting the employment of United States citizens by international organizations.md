@@ -32,7 +32,7 @@ Amounts appropriated under the heading "Diplomatic Programs" in Acts making appr
 
 #### (2) Report to Congress
 
-&emsp;Not later than 90 days after December 23, 2022, the Secretary, in coordination with the Secretary of the Treasury and other relevant cabinet members, shall submit a report to the appropriate congressional committees that identifies—
+&emsp;Not later than 90 days after December 23, 2022, the Secretary, in coordination with the Secretary of the Treasury and other relevantcabinet members, shall submit a report to the appropriate congressional committees that identifies—
 
 &emsp;&emsp;(A) the number of United States citizens who are involved in relevant junior professional programs in an international organization;
 

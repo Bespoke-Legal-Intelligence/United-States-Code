@@ -38,7 +38,7 @@ The Director of NIH shall submit to the Congress on a triennial basis a report i
 
 &emsp;&emsp;&emsp;&emsp;(I) National Research Service Awards and Clinical Transformation Science Awards;
 
-&emsp;&emsp;&emsp;&emsp;(II) graduate medical education programs, including information on the number and type of graduate degreesawarded during the period in which the programs received funding under this subchapter;
+&emsp;&emsp;&emsp;&emsp;(II) graduate medical education programs, including information on the number and type of graduate degrees awarded during the period in which the programs received funding under this subchapter;
 
 &emsp;&emsp;&emsp;&emsp;(III) investigator-initiated awards for postdoctoral training and postdoctoral training funded through research grants;
 
@@ -128,5 +128,5 @@ Subsec. (a)(6). Pub. L. 114–255, §2032(2)(D), substituted "the following—" 
 
 #### Effective Date
 
-Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
+Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as anEffective Date of 2007 Amendment note under section 281 of this title.
 

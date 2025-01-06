@@ -44,7 +44,7 @@ Pilot Program.—Not later than September 31, 2022, the Secretary of Defense sha
 
 &emsp;"(3) collect information on the biological and health factors of explosives detection military working dogs procured by the Department, and make such information available for academic research and to domestic breeders;
 
-&emsp;"(4) collect and make available genetic and phenotypic information, including canine rearing andtraining data for study by domestic breeders and covered institutions of higher education, for the further development of working canines that are bred, raised, and trained domestically; and
+&emsp;"(4) collect and make available genetic and phenotypic information, including canine rearing and training data for study by domestic breeders and covered institutions of higher education, for the further development of working canines that are bred, raised, and trained domestically; and
 
 &emsp;"(5) evaluate current Department guidance for the procurement of military working dogs to ensure that pricing structures and procurement requirements for foreign and domestic canine procurements accurately account for input cost differences between foreign and domestic canines.
 

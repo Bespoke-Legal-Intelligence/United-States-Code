@@ -14,7 +14,7 @@ The Impoundment Control Act of 1974, referred to in text, is parts A and B of ti
 
 #### Codification
 
-Section was enacted as part of the Department of Energy Act of 1978—Civilian Applications, and not as part of the Nuclear Non-Proliferation Act of 1978 which comprises this chapter.
+Section was enacted as part of the Department of Energy Act of 1978—Civilian Applications, and not as partof the Nuclear Non-Proliferation Act of 1978 which comprises this chapter.
 
 #### Amendments
 

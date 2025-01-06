@@ -30,7 +30,7 @@ The words "further", "from time to time any and all rules", "orders which he sha
 
 #### Prior Provisions
 
-A prior section 8302, act Aug. 10, 1956, ch. 1041, 70A Stat. 513, related to promotion to captain, major, orlieutenant colonel of commissioned medical, dental, or veterinary officers in Regular Air Force upon examination of professional fitness and effect upon failure of promotion, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
+A prior section 8302, act Aug. 10, 1956, ch. 1041, 70A Stat. 513, related to promotion to captain, major, or lieutenant colonel of commissioned medical, dental, or veterinary officers in Regular Air Force upon examination of professional fitness and effect upon failure of promotion, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
 
 #### Amendments
 

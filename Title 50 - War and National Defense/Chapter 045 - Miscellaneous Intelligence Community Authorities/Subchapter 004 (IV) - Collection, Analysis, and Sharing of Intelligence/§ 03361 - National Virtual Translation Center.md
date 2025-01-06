@@ -34,7 +34,7 @@ The element established under subsection (a) shall provide for timely and accura
 
 The element required by subsection (a) shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
-(Pub. L. 107–306, title III, §313, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 108–458, title I, §1071(g)(2)(A)(i), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 108–487, title III, §304, Dec. 23, 2004, 118 Stat. 3944; Pub. L. 118–31, div. G, title IX, §7901(f)(1), Dec. 22, 2023, 137 Stat. 1107.)
+(Pub. L. 107–306, title III, §313, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 108–458, title I,§1071(g)(2)(A)(i), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 108–487, title III, §304, Dec. 23, 2004, 118 Stat. 3944; Pub. L. 118–31, div. G, title IX, §7901(f)(1), Dec. 22, 2023, 137 Stat. 1107.)
 
 #### <b>Editorial Notes</b>
 

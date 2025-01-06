@@ -86,7 +86,7 @@ The Migratory Bird Treaty Act of 1918, referred to in subsec. (g), probably shou
 
 The Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, referred to in subsec. (h), is Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, which is classified principally to chapter 95 (§7601 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of Title 16 and Tables.
 
-The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 102–440, title I, Oct. 23, 1992, 106 Stat. 2224, which is classified generally to chapter 69 (§4901 et seq.) of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 4901 of Title 16 and Tables.
+The Wild Bird Conservation Act of 1992, referred to in subsec. (i), is Pub. L. 102–440, title I, Oct. 23, 1992, 106 Stat. 2224, which is classified generally to chapter 69 (§4901 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 16 and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

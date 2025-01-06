@@ -40,7 +40,7 @@ A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613,
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(4). Pub. L. 104–105 inserted before semicolon at end ", and notice to the borrower of achange in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate".
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–105 inserted before semicolon at end ", and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate".
 
 <b>1988</b>—Pub. L. 100–233, §109, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

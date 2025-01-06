@@ -10,7 +10,7 @@ The Congress makes the following findings and declarations:
 
 &emsp;(4) The continuation of existing United States international broadcasting, and the creation of a new broadcasting service to the people of the People's Republic of China and other countries of Asia which lack adequate sources of free information, would enhance the promotion of information and ideas, while advancing the goals of United States foreign policy.
 
-&emsp;(5) The reorganization and consolidation of United States international broadcasting will achieve important economies and strengthen the capability of the United States to usebroadcasting to support freedom and democracy in a rapidly changing international environment.
+&emsp;(5) The reorganization and consolidation of United States international broadcasting will achieve important economies and strengthen the capability of the United States to use broadcasting to support freedom and democracy in a rapidly changing international environment.
 
 (Pub. L. 103–236, title III, §302, Apr. 30, 1994, 108 Stat. 432.)
 

@@ -22,7 +22,7 @@ The Secretary shall establish a national grassroots water protection program to 
 
 &emsp;&emsp;(B) $1,000,000 beginning in fiscal year 2024, to remain available until expended.
 
-(Pub. L. 99–198, title XII, §1240O, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, §2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2502, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §2405, Dec. 20, 2018, 132 Stat. 4573; Pub. L. 118–22, div. B, title I, §102(d)(1)(A), Nov. 17, 2023, 137 Stat. 116.)
+(Pub. L. 99–198, title XII, §1240O, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, §2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2502, Feb. 7, 2014, 128Stat. 751; Pub. L. 115–334, title II, §2405, Dec. 20, 2018, 132 Stat. 4573; Pub. L. 118–22, div. B, title I, §102(d)(1)(A), Nov. 17, 2023, 137 Stat. 116.)
 
 #### <b>Editorial Notes</b>
 

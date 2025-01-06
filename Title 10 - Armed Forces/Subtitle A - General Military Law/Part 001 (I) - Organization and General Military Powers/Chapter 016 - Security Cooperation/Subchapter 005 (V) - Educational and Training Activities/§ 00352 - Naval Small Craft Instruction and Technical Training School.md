@@ -32,15 +32,37 @@ Limitation on Personnel Eligible To Receive Education and Training.—The Secret
 
 (e)
 
-Fixed Costs.—The fixed costs of operation and maintenance of the School in a fiscal year may be paid from amounts made available for such fiscal year for operation and maintenance of the Department of Defense.
+Costs.—(1) The fixed costs of the School may be paid from amounts made available for the Navy as follows:
+
+&emsp;(A) The costs of operating and maintaining the School may be paid from amounts made available to the Navy for operation and maintenance.
+
+&emsp;(B) The costs of the equipment requirements of the School may be paid from amounts made available to the Navy for procurement.
+
+&emsp;(C) The costs of the facilities construction requirements of the School may be paid from amounts made available to the Navy for military construction.
+
+(2) The food procurement and service costs of the School that may be paid from amounts made available to the Navy for operation and maintenance are as follows:
+
+&emsp;(A) The costs of providing food services to personnel, visitors, and international students at the School.
+
+&emsp;(B) The costs of operating, maintaining, and sustaining a dining facility or contracted food services at the School.
 
 (f)
 
 Annual Report.—Not later than March 15 each year, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a detailed report on the activities and operating costs of the School during the preceding fiscal year.
 
-(Added Pub. L. 115–232, div. A, title XII, §1208(a)(1), Aug. 13, 2018, 132 Stat. 2021.)
+(Added Pub. L. 115–232, div. A, title XII, §1208(a)(1), Aug. 13, 2018, 132 Stat. 2021; amended Pub. L. 118–159, div. A, title XII, §1202(a), Dec. 23, 2024, 138 Stat. 2093.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (e). Pub. L. 118–159 amended subsec. (e) generally. Prior to amendment, text read as follows: "The fixed costs of operation and maintenance of the School in a fiscal year may be paid from amounts made available for such fiscal year for operation and maintenance of the Department of Defense."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Updates Required
+
+Pub. L. 118–159, div. A, title XII, §1202(b), Dec. 23, 2024, 138 Stat. 2093, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall update the Security Assistance Management Manual (DSCA 5105.38–M) and volume 15 of the Department of Defense Financial Management Regulation (DoD 7000.14–R) in accordance with the amendment made by this section \[amending this section\]."
 
 #### Limitation on Use of Funds
 

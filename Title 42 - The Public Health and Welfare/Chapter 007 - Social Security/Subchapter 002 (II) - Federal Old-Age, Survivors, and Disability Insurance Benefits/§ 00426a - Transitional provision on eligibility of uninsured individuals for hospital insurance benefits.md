@@ -20,7 +20,7 @@ Anyone who—
 
 The provisions of subsection (a) shall not apply to any individual who—
 
-&emsp;(1) is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) <sup>1</sup> of this title,
+&emsp;(1) is, at the beginning of the first month in which he meets the requirements of subsection\(a), a member of any organization referred to in section 410(a)(17) <sup>1</sup> of this title,
 
 &emsp;(2) has, prior to the beginning of such first month, been convicted of any offense listed in section 402(u) of this title, or
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) <sup>1</sup> and section 8 of the Bretton Woods Agreement Act (22 U.S.C. 286f).
 
-(b) In this section, "United States person" and "foreign person controlled by a United States person" have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively,of the Securities and Exchange Act of 1934 (15 U.S.C. 78g(f)(2)(A), (C)).
+(b) In this section, "United States person" and "foreign person controlled by a United States person" have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively, of the Securities and Exchange Act of 1934 (15 U.S.C. 78g(f)(2)(A), (C)).
 
 (c) The Secretary of the Treasury shall prescribe regulations consistent with subsection (a) of this section requiring reports on foreign currency transactions conducted by a United States person or a foreign person controlled by a United States person. The regulations shall require that a report contain information and be submitted at the time and in the way, with reasonable exceptions and classifications, necessary to carry out this section.
 

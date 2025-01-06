@@ -86,7 +86,7 @@
 
 (4)(A) The Board shall select an index which is a commonly recognized index comprised of stock the aggregate market value of which is a reasonably complete representation of the international equity markets excluding the United States equity markets.
 
-(B) The International Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the International Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The International Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the International Stock Index Investment Fund that is invested in each stock is thesame as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (5)(A) The Board may authorize the addition of a mutual fund window under the Thrift Savings Plan if the Board determines that such addition would be in the best interests of participants.
 
@@ -124,7 +124,7 @@
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
-(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of theamounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
+(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 
 (6) For purposes of this subsection and subsection (h) of this section—
 
@@ -198,7 +198,7 @@ Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: "This title
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this titlebeginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1988 Amendment
 

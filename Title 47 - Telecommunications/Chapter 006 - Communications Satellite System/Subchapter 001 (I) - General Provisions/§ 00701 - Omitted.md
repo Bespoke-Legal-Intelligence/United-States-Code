@@ -10,7 +10,7 @@ Section, Pub. L. 87–624, title I, §102, Aug. 31, 1962, 76 Stat. 419, which re
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–39, §1, June 30, 2003, 117 Stat. 835, provided that: "This Act \[amending section 763 of this title\] may be cited as the 'ORBIT Technical Corrections Act of 2003'."
+Pub. L. 108–39, §1, June 30, 2003, 117 Stat. 835, provided that: "This Act \[amending section 763 of this title\] maybe cited as the 'ORBIT Technical Corrections Act of 2003'."
 
 #### Short Title of 2000 Amendment
 

@@ -34,7 +34,7 @@ Report.—The Secretary shall include in the Secretary's annual report to the Co
 
 "(4)
 
-Failure to meet goals.—If a performance standard or goal has not been met, the description underparagraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal."
+Failure to meet goals.—If a performance standard or goal has not been met, the description under paragraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal."
 
 #### Annual Report on Characteristics of Families in Assisted Housing
 

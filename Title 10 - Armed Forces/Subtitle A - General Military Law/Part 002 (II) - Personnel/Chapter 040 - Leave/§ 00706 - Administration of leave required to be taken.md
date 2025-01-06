@@ -18,7 +18,7 @@
 
 Subsec. (a). Pub. L. 107–314, §506(c)(1)(A), inserted "or 1182(c)(2)" after "section 876a".
 
-Subsec. (b). Pub. L. 107–314, §506(c)(1), inserted "or 1182(c)(2)" after "section 876a" in pars. (1) and (2) and substituted "sections 707 and 707a" for "section 707" in par. (2).
+Subsec. (b). Pub. L. 107–314, §506(c)(1), inserted "or 1182(c)(2)" after "section 876a" in pars. (1) and (2) andsubstituted "sections 707 and 707a" for "section 707" in par. (2).
 
 Subsec. (c). Pub. L. 107–314, §506(c)(1)(A), inserted "or 1182(c)(2)" after "section 876a".
 

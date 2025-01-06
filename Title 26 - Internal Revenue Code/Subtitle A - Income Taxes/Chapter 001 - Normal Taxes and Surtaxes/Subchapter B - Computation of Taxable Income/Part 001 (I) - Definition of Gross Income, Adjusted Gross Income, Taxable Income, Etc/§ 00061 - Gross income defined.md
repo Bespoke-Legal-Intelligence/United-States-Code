@@ -54,7 +54,7 @@ Pub. L. 115–97, title I, §11051(c), Dec. 22, 2017, 131 Stat. 2090, provided t
 
 &emsp;"(1) any divorce or separation instrument (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 as in effect before the date of the enactment of this Act \[Dec. 22, 2017\]) executed after December 31, 2018, and
 
-&emsp;"(2) any divorce or separation instrument (as so defined) executed on or before such date and modifiedafter such date if the modification expressly provides that the amendments made by this section apply to such modification."
+&emsp;"(2) any divorce or separation instrument (as so defined) executed on or before such date and modified after such date if the modification expressly provides that the amendments made by this section apply to such modification."
 
 #### Effective Date of 1984 Amendment
 

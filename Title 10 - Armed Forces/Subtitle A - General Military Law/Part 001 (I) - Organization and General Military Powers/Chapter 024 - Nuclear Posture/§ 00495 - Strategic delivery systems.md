@@ -68,7 +68,7 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 
 Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (a)(5), is section 1043 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
 
-Section 492(a) of this title, referred to in subsec. (b), relates to biennial assessments by certain military officials of delivery platforms for nuclear weapons and the nuclear command and control system. Section 492a(a) of this title requires the President to transmit annual reports to Congress on certain nuclear matters.
+Section 492(a) of this title, referred to in subsec. (b), relates to biennial assessments by certain military officials of delivery platforms for nuclear weapons and the nuclear command and control system. Section 492a(a) of this title requires the President to transmit biennial reports to Congress on certain nuclear matters.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Section 492(a) of this title, referred to in subsec. (b), relates to biennial as
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title VIII, §801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effectas if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[Pub. L. 112–239\]."
+Pub. L. 112–240, title VIII, §801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[Pub. L. 112–239\]."
 
 #### Congressional Notification of Decision To Delay Strategic Delivery System Test Event
 
@@ -146,7 +146,7 @@ Deployment Capability.—The Secretary of the Air Force shall ensure that the Ai
 
 Warhead Capability.—The Nuclear Weapons Council established by section 179 of title 10, United States Code, shall ensure that—
 
-&emsp;"(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable of being deployed as multiple independently targetable reentry vehicles with respect to Minuteman III and Sentinel intercontinental ballistic missiles; and
+&emsp;"(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable ofbeing deployed as multiple independently targetable reentry vehicles with respect to Minuteman III and Sentinel intercontinental ballistic missiles; and
 
 &emsp;"(2) such deployment is capable of being commenced not later than 180 days after the date on which the President determines such deployment necessary."
 

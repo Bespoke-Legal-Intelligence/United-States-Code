@@ -36,7 +36,7 @@ Section 4308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 236; Nov. 14, 1986, Pub. L
 
 A prior section 4309 was renumbered section 7409 of this title.
 
-Prior sections 4310 and 4311 were repealed by Pub. L. 104–106, div. A, title XVI, §1624(a)(1), (c), Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996.
+Prior sections 4310 and 4311 were repealed by Pub. L. 104–106, div. A, title XVI, §1624(a)(1), (c), Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date onwhich the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996.
 
 Section 4310, act Aug. 10, 1956, ch. 1041, 70A Stat. 236, permitted President and Secretary of the Army to detail members of Army as rifle instructors for civilians.
 

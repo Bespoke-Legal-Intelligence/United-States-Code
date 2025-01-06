@@ -122,7 +122,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (F) Program accessibility standards
 
-&emsp;&emsp;The plan shall provide assurances that programs, projects, and activities funded under the plan, and the buildings in which such programs, projects, and activities are operated, will meet standards prescribed by the Secretary in regulations and all applicable Federal and State accessibility standards, including accessibility requirements of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), section 794d of title 29, and the Fair Housing Act (42 U.S.C. 3601 et seq.).
+&emsp;&emsp;The plan shall provide assurances that programs, projects, and activities funded under the plan, and the buildings in which such programs, projects, and activities are operated, will meet standards prescribed by the Secretary in regulations and all applicable Federal and State accessibility standards, including accessibility requirements of the Americans with Disabilities Act of 1990 (42U.S.C. 12101 et seq.), section 794d of title 29, and the Fair Housing Act (42 U.S.C. 3601 et seq.).
 
 #### (G) Individualized services
 

@@ -8,7 +8,7 @@
 
 #### (2) Survey considerations
 
-&emsp;To the extent practicable, the Director of the National Science Foundation shall survey, by sex, race, socioeconomic indicators, whichmay include employment status, occupation, educational attainment, parental education, and income, geographic location, ethnicity, citizenship status, and years since completion of doctoral degree—
+&emsp;To the extent practicable, the Director of the National Science Foundation shall survey, by sex, race, socioeconomic indicators, which may include employment status, occupation, educational attainment, parental education, and income, geographic location, ethnicity, citizenship status, and years since completion of doctoral degree—
 
 &emsp;&emsp;(A) the number and percentage of faculty;
 

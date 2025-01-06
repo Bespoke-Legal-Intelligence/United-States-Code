@@ -194,7 +194,7 @@ Pub. L. 110–433, §1(c), Oct. 16, 2008, 122 Stat. 4971, provided that: "The am
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: "The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of2002 Amendment; Regulations note under section 30101 of this title\]."
+Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: "The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title\]."
 
 Pub. L. 107–155, title III, §315(c), Mar. 27, 2002, 116 Stat. 108, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title\]."
 

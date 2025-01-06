@@ -12,11 +12,11 @@
 
 &emsp;(C) provide low-interest loans to Indian tribes and tribal energy development organizations for use in the promotion of energy resource development on Indian land and integration of energy resources;
 
-&emsp;(D) provide grants and technical assistance to an appropriate tribal environmental organization, as determined by the Secretary, that represents multiple Indian tribes to establish a national resource center to develop tribalcapacity to establish and carry out tribal environmental programs in support of energy-related programs and activities under this chapter, including—
+&emsp;(D) provide grants and technical assistance to an appropriate tribal environmental organization, as determined by the Secretary, that represents multiple Indian tribes to establish a national resource center to develop tribal capacity to establish and carry out tribal environmental programs in support of energy-related programs and activities under this chapter, including—
 
 &emsp;&emsp;(i) training programs for tribal environmental officials, program managers, and other governmental representatives;
 
-&emsp;&emsp;(ii) the development of model environmental policies and tribal laws, including tribal environmental review codes, and the creation and maintenance of a clearinghouse of best environmental management practices; and
+&emsp;&emsp;(ii) the development of model environmental policies and tribal laws, includingtribal environmental review codes, and the creation and maintenance of a clearinghouse of best environmental management practices; and
 
 &emsp;&emsp;(iii) recommended standards for reviewing the implementation of tribal environmental laws and policies within tribal judicial or other tribal appeals systems; and
 
@@ -176,5 +176,5 @@ Subsec. (c)(5). Pub. L. 115–325, §101(c)(3), substituted "Not later than 1 ye
 
 #### Tribal Energy Loan Guarantee Program
 
-Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4637, provided in part: "That in this fiscal year and subsequent fiscal years, under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)), the Secretary of Energy may also provide direct loans, as defined in section 502 of the Congressional Budget Act of 1974 (2 U.S.C. 661a): <i>Provided further</i>, That such direct loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest: <i>Provided further</i>, That any funds previously appropriated for the cost of loan guarantees under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)) may also be used, in this fiscal year and subsequent fiscal years, for the cost of direct loans provided under such section of such Act".
+Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4637, provided in part: "That in this fiscal year and subsequent fiscal years, under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)), the Secretary of Energy may also provide direct loans, as defined in section 502 of the Congressional Budget Act of 1974 (2 U.S.C. 661a): <i>Provided further</i>, That such direct loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest: <i>Provided further</i>, That any funds previously appropriated for the cost ofloan guarantees under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)) may also be used, in this fiscal year and subsequent fiscal years, for the cost of direct loans provided under such section of such Act".
 

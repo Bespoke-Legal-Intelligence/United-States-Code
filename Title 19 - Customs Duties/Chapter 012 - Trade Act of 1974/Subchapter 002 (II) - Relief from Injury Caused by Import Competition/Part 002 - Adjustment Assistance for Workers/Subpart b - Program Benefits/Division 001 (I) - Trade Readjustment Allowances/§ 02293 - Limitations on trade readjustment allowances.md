@@ -10,7 +10,7 @@
 
 &emsp;(B) with respect to which the worker meets the requirements of section 2291(a)(2) of this title.
 
-(3) <sup>1</sup> Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete training approved for him under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 52 additional weeks in the 52-week period that—
+(3) <sup>1</sup> Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete training approved for him under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may bemade as trade readjustment allowances for up to 52 additional weeks in the 52-week period that—
 
 &emsp;(A) follows the last week of entitlement to trade readjustment allowances otherwise payable under this part; or
 
@@ -44,7 +44,7 @@ For purposes of this part, a worker shall be treated as participating in trainin
 
 #### (g) <sup>1</sup> Additional weeks to complete training
 
-Notwithstanding any other provision of this section, in order to assist an adversely affectedworker to complete training approved for the worker under section 2296 of this title which includes a program of remedial education (as described in section 2296(a)(5)(D) of this title), and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that follows the last week of entitlement to trade readjustment allowances otherwise payable under this part.
+Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title which includes a program of remedial education (as described in section 2296(a)(5)(D) of this title), and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that follows the last week of entitlement to trade readjustment allowances otherwise payable under this part.
 
 (Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI, §2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 106–36, title I, §1001(a)(1), June 25, 1999, 113 Stat. 130; Pub. L. 107–210, div. A, title I, §116, Aug. 6, 2002, 116 Stat. 941; Pub. L. 111–5, div. B, title I, §§1821(c)(2), 1823, 1824, 1829(b), Feb. 17, 2009, 123 Stat. 377, 378, 383; Pub. L. 112–40, title II, §§201(b), (c), 213, Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374; Pub. L. 118–31, div. A, title XVII, §1742(a), Dec. 22, 2023, 137 Stat. 681.)
 

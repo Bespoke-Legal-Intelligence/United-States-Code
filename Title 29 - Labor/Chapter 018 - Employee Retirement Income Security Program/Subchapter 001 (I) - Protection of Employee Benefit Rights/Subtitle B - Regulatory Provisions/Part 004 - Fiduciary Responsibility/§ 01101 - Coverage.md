@@ -22,7 +22,7 @@ For purposes of this part:
 
 #### (c) Clarification of application of ERISA to insurance company general accounts
 
-(1)(A) Not later than June 30, 1997, the Secretary shall issue proposed regulations to provide guidance for the purpose of determining, in cases where an insurer issues 1 or more policies to or for the benefit of an employee benefit plan (and such policies are supported by assets of such insurer's general account), which assets held by the insurer (other than plan assets held in its separate accounts) constitute assets of the plan for purposes of this part and section 4975 of title 26 and to provide guidance with respect to the application of this subchapter to the general account assets of insurers.
+(1)(A) Not later than June 30, 1997, the Secretary shall issue proposed regulations to provide guidance for the purpose of determining, in cases where an insurer issues 1 or more policies to or for the benefit of an employee benefit plan (and such policies are supported by assets ofsuch insurer's general account), which assets held by the insurer (other than plan assets held in its separate accounts) constitute assets of the plan for purposes of this part and section 4975 of title 26 and to provide guidance with respect to the application of this subchapter to the general account assets of insurers.
 
 (B) The proposed regulations under subparagraph (A) shall be subject to public notice and comment until September 30, 1997.
 
@@ -34,7 +34,7 @@ For purposes of this part:
 
 &emsp;(A) are administratively feasible, and
 
-&emsp;(B) protect the interests and rights of the plan and of its participants and beneficiaries\(including meeting the requirements of paragraph (3)).
+&emsp;(B) protect the interests and rights of the plan and of its participants and beneficiaries (including meeting the requirements of paragraph (3)).
 
 (3) The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B))—
 

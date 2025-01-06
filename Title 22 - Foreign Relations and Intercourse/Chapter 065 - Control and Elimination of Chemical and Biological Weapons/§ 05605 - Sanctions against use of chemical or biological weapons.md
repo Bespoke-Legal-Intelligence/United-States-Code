@@ -38,7 +38,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 &emsp;&emsp;(B) that government has provided reliable assurances that it will not in the future engage in any such activities, and
 
-&emsp;&emsp;(C) that government is willing to allow on-site inspections by United Nations observers or other internationally recognized, impartial observers, or other reliable means exist, to ensure that that government is not using chemical or biological weapons in violation of international law and is not using lethal chemical or biological weapons against its own nationals,
+&emsp;&emsp;(C) that government is willing to allow on-site inspections by United Nations observers or other internationally recognized, impartial observers, or other reliable means exist,to ensure that that government is not using chemical or biological weapons in violation of international law and is not using lethal chemical or biological weapons against its own nationals,
 
 > &emsp;then the President, after consultation with the Congress, shall impose on that country the sanctions set forth in at least 3 of subparagraphs (A) through (F) of paragraph (2).
 
@@ -86,7 +86,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;(1) the government of that country has provided reliable assurances that it will not use chemical or biological weapons in violation of international law and will not use lethal chemical or biological weapons against its own nationals;
 
-&emsp;(2) that government is not making preparations to use chemical or biological weapons in violation of international law or to use lethalchemical or biological weapons against its own nationals;
+&emsp;(2) that government is not making preparations to use chemical or biological weapons in violation of international law or to use lethal chemical or biological weapons against its own nationals;
 
 &emsp;(3) that government is willing to allow on-site inspections by United Nations observers or other internationally recognized, impartial observers to verify that it is not making preparations to use chemical or biological weapons in violation of international law or to use lethal chemical or biological weapons against its own nationals, or other reliable means exist to verify that it is not making such preparations; and
 
@@ -100,7 +100,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) in the case of any sanction other than a sanction specified in subsection (b)(2)(D) (relating to import restrictions) or (b)(2)(E) (relating to the downgrading or suspension of diplomatic relations), the President determines and certifies to the Congress that such waiver is essential to the national security interests of the United States, and if the President notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of his determination and certification at least 15 days before the waiver takes effect, in accordance with the procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], or
+&emsp;&emsp;&emsp;(i) in the case of any sanction other than a sanction specified in subsection (b)(2)(D) (relating to import restrictions) or (b)(2)(E) (relating to the downgrading or suspension of diplomatic relations), the President determines and certifies to theCongress that such waiver is essential to the national security interests of the United States, and if the President notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of his determination and certification at least 15 days before the waiver takes effect, in accordance with the procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], or
 
 &emsp;&emsp;&emsp;(ii) in the case of any sanction specified in subsection (b)(2)(D) (relating to import restrictions), the President determines and certifies to the Congress that such waiver is essential to the national security interest of the United States, and if the President notifies the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives of his determination and certification at least 15 days before the waiver takes effect; or
 
@@ -150,7 +150,7 @@ Functions of President under this section delegated to Secretary of State, with 
 
 Ex. Ord. No. 13883, Aug. 1, 2019, 84 F.R. 38113, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991 (CBW Act), Public Law 102–182 (50 U.S.C. App. 2410c \[now 50 U.S.C. 4613\]; 22 U.S.C. 2798, 5604–5606), and section 301 of title 3, United States Code,
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.)\(NEA), sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991 (CBW Act), Public Law 102–182 (50 U.S.C. App. 2410c \[now 50 U.S.C. 4613\]; 22 U.S.C. 2798, 5604–5606), and section 301 of title 3, United States Code,
 
 I, DONALD J. TRUMP, President of the United States of America, in order to take additional steps with respect to the national emergency described and declared in Executive Order 12938 of November 14, 1994, \[50 U.S.C. 1701 note\] as amended by and relied on for additional steps in subsequent Executive Orders, hereby order:
 

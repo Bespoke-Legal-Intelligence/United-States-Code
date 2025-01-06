@@ -144,5 +144,5 @@ Act June 25, 1938, ch. 679, §17(b), (c), 52 Stat. 1086, as amended by act June 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 11288, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
+Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No.3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 11288, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 

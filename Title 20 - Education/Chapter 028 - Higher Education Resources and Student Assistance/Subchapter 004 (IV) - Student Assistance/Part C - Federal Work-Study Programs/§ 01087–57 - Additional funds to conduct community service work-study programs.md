@@ -2,7 +2,7 @@
 
 #### (a) Community service-learning
 
-Each institution participating under this part may use up to 10 percent of the funds made available under section 1096(a) of this title and attributable to the amount of the institution's expenditures under this part to conduct that institution's program of community service-learning, including—
+Each institution participating under this part may use up to 10 percent of the funds made available under section 1096(a) of this title and attributable to the amount of the institution'sexpenditures under this part to conduct that institution's program of community service-learning, including—
 
 &emsp;(1) development of mechanisms to assure the academic quality of the student experience,
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date
 
-Section applicable to periods of enrollment beginning on or after July 1, 1987, see section 403(b)(2) of Pub. L.99–498, set out as a note under section 1087–53 of this title.
+Section applicable to periods of enrollment beginning on or after July 1, 1987, see section 403(b)(2) of Pub. L. 99–498, set out as a note under section 1087–53 of this title.
 

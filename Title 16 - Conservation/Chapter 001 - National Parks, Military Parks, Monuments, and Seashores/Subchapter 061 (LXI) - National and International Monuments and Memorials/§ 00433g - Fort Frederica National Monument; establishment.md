@@ -56,5 +56,5 @@ Map Availability.—The map referred to in subsection (a) shall be on file and a
 
 #### "SEC. 2. BOUNDARY ADJUSTMENT.
 
-"Upon completion of the land exchange under subsection (a) of section 1, the Secretary of the Interior shall revise the boundary of Fort Frederica National Monument to reflect the exchange and shall administer the land acquired through the exchange as part of that monument."
+"Upon completion of the land exchange under subsection (a) of section 1, the Secretary of the Interiorshall revise the boundary of Fort Frederica National Monument to reflect the exchange and shall administer the land acquired through the exchange as part of that monument."
 

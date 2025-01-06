@@ -1,6 +1,6 @@
 ### §3156. Mission readiness exercises
 
-The joint policy required by section 3151 of this title shall also provide for the incorporationof contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
+The joint policy required by section 3151 of this title shall also provide for the incorporation of contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1810(a), (b)(6), Jan. 1, 2021, 134 Stat. 4162, 4164.)
 

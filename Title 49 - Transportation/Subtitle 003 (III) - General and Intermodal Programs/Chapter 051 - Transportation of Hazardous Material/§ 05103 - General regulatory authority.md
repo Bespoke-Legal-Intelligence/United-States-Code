@@ -40,7 +40,7 @@ In general.—The Secretary may by order waive compliance with any part of an ap
 
 &emsp;&emsp;(B) the waiver is not inconsistent with the safety of transporting hazardous materials; and
 
-&emsp;&emsp;(C) the waiver is necessary to facilitate the safe movement of hazardous materialsinto, from, and within an area of a major disaster or emergency that has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;&emsp;(C) the waiver is necessary to facilitate the safe movement of hazardous materials into, from, and within an area of a major disaster or emergency that has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 &emsp;(2)
 
@@ -226,7 +226,7 @@ Study.—
 
 In general.—Within 90 days after the date of the enactment of this Act \[Dec. 29, 1995\], the Secretary shall contract with the National Academy of Sciences to conduct a study—
 
-&emsp;&emsp;"(A) to determine whether the requirements of section 5103(b) of title 49, United States Code (relating to regulations for safe transportation), as they pertain to fiber drum packaging with a removable head can be met for the transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) with standards (including fiber drum industry standards set forth in a June 8, 1992, exemption application submitted to the Department of Transportation), other than the performance-oriented packaging standards adopted under docket number HM–181 contained in part 178 of title 49, Code of Federal Regulations; and
+&emsp;&emsp;"(A) to determine whether the requirements of section 5103(b) of title 49, United States Code (relating to regulations for safe transportation), as they pertain to fiber drum packaging with a removable head can be met for the transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) with standards (including fiber drum industry standards set forth in a June 8, 1992, exemption application submitted to the Department of Transportation), other than the performance-oriented packaging standards adopted under docket numberHM–181 contained in part 178 of title 49, Code of Federal Regulations; and
 
 &emsp;&emsp;"(B) to determine whether a packaging standard (including such fiber drum industry standards), other than such performance-oriented packaging standards, will provide an equal or greater level of safety for the transportation of liquid hazardous materials than would be provided if such performance-oriented packaging standards were in effect.
 

@@ -52,7 +52,7 @@ Subject to the phase-in requirements under subsection (d), the Reserve Fund shal
 
 #### (B) Use of additional annual insurance premiums
 
-&emsp;&emsp;Notwithstanding any other provision of law or any agreement entered into by theAdministrator, the Administrator shall ensure that all amounts attributable to the establishment or increase of annual insurance premiums under paragraph (1) are transferred to the Administrator for deposit into the Reserve Fund, to be available for meeting the expected future obligations of the flood insurance program as described in subsection (a)(2).
+&emsp;&emsp;Notwithstanding any other provision of law or any agreement entered into by the Administrator, the Administrator shall ensure that all amounts attributable to the establishment or increase of annual insurance premiums under paragraph (1) are transferred to the Administrator for deposit into the Reserve Fund, to be available for meeting the expected future obligations of the flood insurance program as described in subsection (a)(2).
 
 #### (4) Deposit of premium surcharges
 
@@ -72,7 +72,7 @@ The phase-in requirements under this subsection are as follows:
 
 #### (3) Exception
 
-&emsp;If at any time after the ratio required under subsection (b) is achieved, the Reserve Fund falls below the required ratio under subsection (b), the Administrator shall place in the Reserve Fund for that fiscal year an amount equal to not less than 7.5 percent of the reserve ratio required under subsection (b).
+&emsp;If at any time after the ratio required under subsection (b) is achieved, the Reserve Fund falls below the required ratio under subsection (b), the Administrator shall place in the Reserve Fund for that fiscal year an amountequal to not less than 7.5 percent of the reserve ratio required under subsection (b).
 
 #### (e) Limitation on reserve ratio
 

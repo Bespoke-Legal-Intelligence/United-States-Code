@@ -30,7 +30,7 @@ Assistance in Obtaining Private Records.—(1) As part of the assistance provide
 
 &emsp;(A) shall encourage claimants to submit relevant private medical records of the claimant to the Secretary if such submission does not burden the claimant; and
 
-&emsp;(B) in obtaining relevant private records under paragraph (1), may require the claimant to authorize the Secretary to obtain suchrecords if such authorization is required to comply with Federal, State, or local law.
+&emsp;(B) in obtaining relevant private records under paragraph (1), may require the claimant to authorize the Secretary to obtain such records if such authorization is required to comply with Federal, State, or local law.
 
 (c)
 
@@ -42,7 +42,7 @@ Obtaining Records for Compensation Claims.—(1) In the case of a claim for disa
 
 &emsp;(C) Any other relevant records held by any Federal department or agency that the claimant adequately identifies and authorizes the Secretary to obtain.
 
-(2) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection, the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.
+(2) Whenever the Secretary attempts to obtain records from a Federal department or agencyunder this subsection, the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.
 
 (d)
 

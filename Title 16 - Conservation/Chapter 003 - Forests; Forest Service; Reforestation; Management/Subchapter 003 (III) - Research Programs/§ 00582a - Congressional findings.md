@@ -30,7 +30,7 @@ Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, which is classified g
 
 #### Reaffirmation of McIntire-Stennis Research Program
 
-Pub. L. 101–624, title XII, §1231, Nov. 28, 1990, 104 Stat. 3543, provided that: "It is the sense of Congress to reaffirm the importance of Public Law 87–788 (16 U.S.C. 582aet seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act."
+Pub. L. 101–624, title XII, §1231, Nov. 28, 1990, 104 Stat. 3543, provided that: "It is the sense of Congress to reaffirm the importance of Public Law 87–788 (16 U.S.C. 582a et seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

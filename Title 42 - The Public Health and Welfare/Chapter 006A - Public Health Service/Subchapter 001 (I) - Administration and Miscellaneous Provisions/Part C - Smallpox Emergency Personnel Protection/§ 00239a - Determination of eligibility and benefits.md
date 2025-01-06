@@ -18,7 +18,7 @@ The Secretary may accept a certification, by a Federal, State, or local governme
 
 #### (1) Injuries specified in injury table
 
-&emsp;In any case where an injury or other adverse effect specified in the injury table establishedunder section 239b of this title as a known effect of a vaccine manifests in an individual within the time period specified in such table, such injury or other effect shall be presumed to have resulted from administration of such vaccine.
+&emsp;In any case where an injury or other adverse effect specified in the injury table established under section 239b of this title as a known effect of a vaccine manifests in an individual within the time period specified in such table, such injury or other effect shall be presumed to have resulted from administration of such vaccine.
 
 #### (2) Other determinations
 
@@ -34,7 +34,7 @@ The Secretary shall not consider any request for a benefit under this part with 
 
 #### (e) Structured settlements at Secretary's option
 
-In any case in which there is a reasonable likelihood that compensation or payment under section 239c, 239d, or 239e(b) of this title will be required for a period in excess of one year from the date an individual is determined eligible for such compensation or payment, the Secretary shall have the discretion to make a lump-sum payment, purchase an annuity or medical insurance policy, or execute an appropriate structured settlement agreement, provided that such payment, annuity, policy, or agreement is actuarially determined to have a value equal to the present value of the projected total amount of benefits or compensation that the individual is eligible to receive under such section or sections.
+In any case in which there is a reasonable likelihood that compensation or payment under section 239c, 239d, or 239e(b) of this title will be required for a period in excess of one year from the date an individual is determined eligible forsuch compensation or payment, the Secretary shall have the discretion to make a lump-sum payment, purchase an annuity or medical insurance policy, or execute an appropriate structured settlement agreement, provided that such payment, annuity, policy, or agreement is actuarially determined to have a value equal to the present value of the projected total amount of benefits or compensation that the individual is eligible to receive under such section or sections.
 
 #### (f) Review of determination
 

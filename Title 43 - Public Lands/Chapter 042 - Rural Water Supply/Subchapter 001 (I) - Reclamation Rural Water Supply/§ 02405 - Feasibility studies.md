@@ -62,7 +62,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 &emsp;(9) the financial capability of the non-Federal project entity to pay the non-Federal project entity's proportionate share of the design and construction costs and 100 percent of operations, maintenance, and replacement costs, including the allocation of costs to each non-Federal project entity in the case of multiple entities;
 
-&emsp;(10) whether the non-Federal project entity has developed an operations, management, and replacement plan to assist the non-Federal project entity in establishing rates and fees for beneficiaries of the rural water supply project that includes a schedule identifying the annual operations, maintenance, and replacement costs that should be allocated to each non-Federal entity participating in the project;
+&emsp;(10) whether the non-Federal project entity has developed an operations, management, and replacement plan to assist the non-Federal project entity in establishing rates and fees for beneficiaries of the rural water supplyproject that includes a schedule identifying the annual operations, maintenance, and replacement costs that should be allocated to each non-Federal entity participating in the project;
 
 &emsp;(11)(A) the non-Federal project entity administrative organization that would implement construction, operations, maintenance, and replacement activities; and
 

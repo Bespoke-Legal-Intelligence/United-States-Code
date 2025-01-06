@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) such name does not contain the word "bank";
 
-&emsp;&emsp;&emsp;(vii) no director or employee of the banking entity takes or retains an equityinterest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
+&emsp;&emsp;&emsp;(vii) no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
 
 &emsp;&emsp;&emsp;(viii) the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designed to ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.
 
@@ -202,7 +202,7 @@
 
 #### (iii) Capital
 
-&emsp;&emsp;&emsp;For purposes of determining compliance with applicable capital standards underparagraph (3), the aggregate amount of the outstanding investments by a banking entity under this paragraph, including retained earnings, shall be deducted from the assets and tangible equity of the banking entity, and the amount of the deduction shall increase commensurate with the leverage of the hedge fund or private equity fund.
+&emsp;&emsp;&emsp;For purposes of determining compliance with applicable capital standards under paragraph (3), the aggregate amount of the outstanding investments by a banking entity under this paragraph, including retained earnings, shall be deducted from the assets and tangible equity of the banking entity, and the amount of the deduction shall increase commensurate with the leverage of the hedge fund or private equity fund.
 
 #### (C) Extension
 
@@ -216,7 +216,7 @@
 
 #### (2) Termination of activities or investment
 
-&emsp;Notwithstanding any other provision of law, whenever an appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, has reasonable cause to believe that a banking entity or nonbank financial company supervised by the Board under the respective agency's jurisdiction has made an investment or engaged in an activity in a manner that functions as an evasion of the requirements of this section (including through an abuse of any permitted activity) or otherwise violates the restrictions under this section, the appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, shall order, after due notice and opportunity for hearing, the banking entity or nonbank financial company supervised by the Board to terminate the activity and, as relevant, dispose of the investment. Nothing in this paragraph shall be construed to limit the inherent authority of any Federal agency or State regulatory authority to further restrict any investments or activities under otherwise applicable provisions of law.
+&emsp;Notwithstanding any other provision of law, whenever an appropriate Federal bankingagency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, has reasonable cause to believe that a banking entity or nonbank financial company supervised by the Board under the respective agency's jurisdiction has made an investment or engaged in an activity in a manner that functions as an evasion of the requirements of this section (including through an abuse of any permitted activity) or otherwise violates the restrictions under this section, the appropriate Federal banking agency, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as appropriate, shall order, after due notice and opportunity for hearing, the banking entity or nonbank financial company supervised by the Board to terminate the activity and, as relevant, dispose of the investment. Nothing in this paragraph shall be construed to limit the inherent authority of any Federal agency or State regulatory authority to further restrict any investments or activities under otherwise applicable provisions of law.
 
 #### (f) Limitations on relationships with hedge funds and private equity funds
 
@@ -252,7 +252,7 @@
 
 #### (1) Limitation on contrary authority
 
-&emsp;Except as provided in this section, notwithstanding any other provision of law, the prohibitions and restrictions under this sectionshall apply to activities of a banking entity or nonbank financial company supervised by the Board, even if such activities are authorized for a banking entity or nonbank financial company supervised by the Board.
+&emsp;Except as provided in this section, notwithstanding any other provision of law, the prohibitions and restrictions under this section shall apply to activities of a banking entity or nonbank financial company supervised by the Board, even if such activities are authorized for a banking entity or nonbank financial company supervised by the Board.
 
 #### (2) Sale or securitization of loans
 
@@ -336,7 +336,7 @@ In this section, the following definitions shall apply:
 
 #### References in Text
 
-Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 of Pub. L. 95–369, known as the International Banking Act of 1978, which enacted section 3106 of this title and amended section 1841 of this title.
+Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 of Pub. L. 95–369, known as the International Banking Actof 1978, which enacted section 3106 of this title and amended section 1841 of this title.
 
 The Farm Credit Act of 1971, referred to in subsec. (d)(1)(A), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 

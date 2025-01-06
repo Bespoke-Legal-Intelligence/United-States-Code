@@ -62,7 +62,7 @@ Termination of prospective relief.—(A) In any civil action with respect to pri
 
 &emsp;(2)
 
-Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate terminationof any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
+Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
 
 &emsp;(3)
 
@@ -162,7 +162,7 @@ Limitations on powers and duties.—A special master appointed under this subsec
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term "consent decree" means any relief entered by the court that is based in whole or in part upon the consent or acquiescence of the parties but does not include private settlements;
+&emsp;(1) the term "consent decree" means any relief entered by the court that is based in wholeor in part upon the consent or acquiescence of the parties but does not include private settlements;
 
 &emsp;(2) the term "civil action with respect to prison conditions" means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives of persons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
 
@@ -228,7 +228,7 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §810\], Apr. 26, 1996, 1
 
 #### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that:"None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
+Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: "None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 

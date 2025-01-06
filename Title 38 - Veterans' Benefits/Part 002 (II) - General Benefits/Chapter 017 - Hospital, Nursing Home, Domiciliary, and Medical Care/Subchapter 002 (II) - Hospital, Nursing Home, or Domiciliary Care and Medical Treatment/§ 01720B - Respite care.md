@@ -42,7 +42,7 @@ Subsec. (b)(2). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "
 
 Pub. L. 101–237, title VI, §604, Dec. 18, 1989, 103 Stat. 2097, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 \[38 U.S.C. 1712 note\], section 618 of Pub. L. 100–440 \[5 U.S.C. 6302 note\], or section 1829 \[now 3729\] of this title, by contract or otherwise, during the period beginning Dec. 1, 1989, and ending Dec. 18, 1989.
 
-Pub. L. 101–110, §3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 \[38 U.S.C. 1712 note\], section 618 of Pub. L. 100–440 \[5 U.S.C. 6302 note\], or section 1829 \[now 3729\] of this title, by contract or otherwise, during the period beginning Oct. 1, 1989, and ending Oct. 6, 1989.
+Pub. L. 101–110, §3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 \[38U.S.C. 1712 note\], section 618 of Pub. L. 100–440 \[5 U.S.C. 6302 note\], or section 1829 \[now 3729\] of this title, by contract or otherwise, during the period beginning Oct. 1, 1989, and ending Oct. 6, 1989.
 
 #### Interim Extension of Respite Care Program
 

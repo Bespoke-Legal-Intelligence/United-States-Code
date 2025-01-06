@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall,in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
+Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
 
 #### (b) Preliminary notice requirement
 
@@ -38,7 +38,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 &emsp;&emsp;(C) furnishes a bond which meets the requirements of paragraph (3),
 
-> &emsp;no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
+> &emsp;no levy or proceeding in court for the collection of the remainder of such penalty shall bemade, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
 
 #### (2) Suit must be brought to determine liability for penalty
 
@@ -118,7 +118,7 @@ Pub. L. 104–168, title IX, §903(b), July 30, 1996, 110 Stat. 1466, provided t
 
 Amendment by section 7721(c)(9) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
-Pub. L. 101–239, title VII, §7737(b), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendment made by subsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VII, §7737(b), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendment made bysubsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 #### Effective Date of 1978 Amendment
 

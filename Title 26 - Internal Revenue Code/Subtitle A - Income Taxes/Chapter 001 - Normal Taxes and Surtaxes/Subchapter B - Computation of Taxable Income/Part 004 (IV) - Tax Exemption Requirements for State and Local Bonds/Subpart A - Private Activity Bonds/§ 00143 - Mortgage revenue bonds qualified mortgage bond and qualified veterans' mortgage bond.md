@@ -310,7 +310,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 &emsp;&emsp;Subparagraph (A) shall be satisfied with respect to any issue if the issuer elects before issuing the bonds to pay over to the United States—
 
-&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amountequal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
+&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
 &emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
@@ -330,7 +330,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (2) Limitation
 
-&emsp;Nothing in paragraph (1) shall be treated as requiring the making available of an amount which exceeds 40 percent of the average annual aggregate principal amount of mortgages executed during the immediately preceding 3 calendar years for single-family, owner-occupied residences located in targeted areas within the jurisdiction of the issuing authority.
+&emsp;Nothing in paragraph (1) shall be treated as requiring the making available of an amountwhich exceeds 40 percent of the average annual aggregate principal amount of mortgages executed during the immediately preceding 3 calendar years for single-family, owner-occupied residences located in targeted areas within the jurisdiction of the issuing authority.
 
 #### (i) Other requirements
 
@@ -588,7 +588,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason offinancing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
+&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason of financing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
 
 #### (B) Qualified program
 
@@ -672,7 +672,7 @@ For purposes of this section—
 
 #### (ii) Denial of double benefit
 
-&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall notapply with respect to the purchase or financing of any residence by such taxpayer.
+&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.
 
 #### (l) Additional requirements for qualified veterans' mortgage bonds
 
@@ -943,7 +943,7 @@ Section 1034(e) (as in effect on the day before the date of the enactment of the
 
 #### Prior Provisions
 
-A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b), 83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related todetermination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
+A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b), 83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related to determination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
 
 Provisions similar to this section were contained in section 103A of this title prior to repeal by Pub. L. 99–514.
 
@@ -977,7 +977,7 @@ Subsec. (k)(11). Pub. L. 105–34, §914, added par. (11).
 
 Subsec. (m)(6)(A). Pub. L. 105–34, §312(d)(3), inserted "(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)" after "1034(e)".
 
-<b>1996</b>—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted "thereon," for "thereon.".
+<b>1996</b>—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted "thereon," for "thereon."
 
 Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted "any year of the 4-year period" for "any month of the 10-year period", "succeeding years" for "succeeding months", and "to zero over the succeeding 5 years" for "over the remainder of such period (or, if lesser, over 5 years)".
 
@@ -1039,7 +1039,7 @@ Subsec. (m)(5)(B), (C). Pub. L. 101–508, §11408(c)(2)(C), redesignated subpar
 
 Subsec. (m)(6). Pub. L. 101–508, §11408(c)(3)(B)(i), substituted "Special rules relating to limitation" for "Limitation" in heading.
 
-Subsec. (m)(6)(A). Pub. L. 101–508, §11408(c)(3)(B)(ii), (iii), struck out at beginning "In no event shall the recapture amount of the taxpayer with respect to any indebtedness exceed 50 percent of the gain (if any) on the disposition of the taxpayer's interest in the residence."and substituted "paragraph (1)" for "the preceding sentence".
+Subsec. (m)(6)(A). Pub. L. 101–508, §11408(c)(3)(B)(ii), (iii), struck out at beginning "In no event shall the recapture amount of the taxpayer with respect to any indebtedness exceed 50 percent of the gain (if any) on the disposition of the taxpayer's interest in the residence." and substituted "paragraph (1)" for "the preceding sentence".
 
 Subsec. (m)(7)(B)(ii). Pub. L. 101–508, §11408(c)(3)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amounts described in paragraph (5)(B)(ii) for each category of family size for each year of the 10-year period beginning on the date the financing was provided."
 
@@ -1137,7 +1137,7 @@ Simplification.—The amendment made by subsection (c) \[amending this section\]
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title IV, §4005(h), Nov. 10, 1988, 102 Stat. 3651, provided that:
 

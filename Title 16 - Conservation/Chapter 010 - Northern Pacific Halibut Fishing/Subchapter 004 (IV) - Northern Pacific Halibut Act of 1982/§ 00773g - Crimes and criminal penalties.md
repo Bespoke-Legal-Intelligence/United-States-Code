@@ -14,6 +14,8 @@ There is Federal jurisdiction over any offense described in this section.
 
 (Pub. L. 97–176, §9, May 17, 1982, 96 Stat. 81; Pub. L. 109–479, title III, §301(c), Jan. 12, 2007, 120 Stat. 3623.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### References in Text

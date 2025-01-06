@@ -10,5 +10,5 @@ Pub. L. 95–625, title III, §314(g), Nov. 10, 1978, 92 Stat. 3483, provided in
 
 #### Wild Animal Protection
 
-Pub. L. 95–625, title III, §314(g), Nov. 10, 1978, 92 Stat. 3483, provided in part that repeal of this section should not be construed to prohibit or prevent the Secretary of the Interior from exercising any authority applicable to the national parks respecting protection of birds, game, or other wild animals.
+Pub. L. 95–625, title III, §314(g), Nov. 10, 1978, 92 Stat. 3483, provided in part that repeal of this section shouldnot be construed to prohibit or prevent the Secretary of the Interior from exercising any authority applicable to the national parks respecting protection of birds, game, or other wild animals.
 

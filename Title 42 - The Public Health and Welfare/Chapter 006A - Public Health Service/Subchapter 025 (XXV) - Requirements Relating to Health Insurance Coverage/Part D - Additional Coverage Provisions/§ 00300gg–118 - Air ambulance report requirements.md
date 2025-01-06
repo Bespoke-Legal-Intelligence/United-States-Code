@@ -72,7 +72,7 @@ Information described.—For purposes of paragraph (1), information described in
 
 &emsp;&emsp;&emsp;"(ii) uninsured individuals.
 
-&emsp;&emsp;"(E) The number of claims of such provider that have been denied payment by a group health plan or health insurance issuer and the reasons for any such denials.
+&emsp;&emsp;"(E) The number of claims of such provider that have been denied payment by a group health planor health insurance issuer and the reasons for any such denials.
 
 &emsp;&emsp;"(F) The number of emergency and nonemergency air ambulance transports, disaggregated by air ambulance base and type of aircraft.
 

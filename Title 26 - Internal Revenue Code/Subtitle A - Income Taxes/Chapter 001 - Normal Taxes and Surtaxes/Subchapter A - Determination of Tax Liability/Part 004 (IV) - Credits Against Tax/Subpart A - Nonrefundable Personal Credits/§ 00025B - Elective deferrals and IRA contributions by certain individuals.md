@@ -216,13 +216,13 @@ Amendment by section 205(d)(1)(C) of Pub. L. 110–343 applicable to taxable yea
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided that: "The amendments made by this section \[amending this section and sections 219 and 408A of this title\] shall apply to taxable years beginning after 2006."
+Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided that: "The amendments made bythis section \[amending this section and sections 219 and 408A of this title\] shall apply to taxable years beginning after 2006."
 
 #### Effective and Termination Dates of 2005 Amendment
 
 Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxableyears beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 #### Effective Date of 2004 Amendment
 

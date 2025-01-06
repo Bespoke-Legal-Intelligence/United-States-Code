@@ -24,7 +24,7 @@ For the purpose of carrying out this part—
 
 &emsp;(1) there are authorized to be appropriated to the student loan insurance fund (established by section 1081 of this title) (A) the sum of $1,000,000, and (B) such further sums, if any, as may become necessary for the adequacy of the student loan insurance fund,
 
-&emsp;(2) there are authorized to be appropriated, for payments under section 1078 of this title with respect to interest on student loans and for payments under section 1087 of this title, such sums for the fiscal year ending June 30, 1966, and succeeding fiscal years, as may be required therefor,
+&emsp;(2) there are authorized to be appropriated, for payments under section 1078 of this title with respect to interest on student loans andfor payments under section 1087 of this title, such sums for the fiscal year ending June 30, 1966, and succeeding fiscal years, as may be required therefor,
 
 &emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
@@ -90,7 +90,7 @@ Pub. L. 100–297 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\]."
+Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, with changes in the designation or names of loans or programs under this part effective with respect to applications or other documents (used in making such loans) that are printed after July 23, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, with changes in the designation or names of loans orprograms under this part effective with respect to applications or other documents (used in making such loans) that are printed after July 23, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -168,9 +168,9 @@ New Borrowers.—For the purpose of this section, the term 'new borrower' means,
 
 #### Study of Role of Guaranty Agencies
 
-Pub. L. 102–325, title XIV, §1401, July 23, 1992, 106 Stat. 816, directed Secretary of Education to reviewrole of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1401, July 23, 1992, 106 Stat. 816, directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### General Accounting Office Reports
 
-Pub. L. 99–498, title XIII, §§1311–1314, Oct. 17, 1986, 100 Stat. 1583, 1584, as amended by Pub. L. 100–50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permitting students to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99–498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §§1311–1314, Oct. 17, 1986, 100 Stat. 1583, 1584, as amended by Pub. L. 100–50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permittingstudents to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99–498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 

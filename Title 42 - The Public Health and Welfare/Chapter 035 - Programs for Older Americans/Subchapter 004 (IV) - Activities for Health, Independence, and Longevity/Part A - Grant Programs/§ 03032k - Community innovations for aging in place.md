@@ -72,7 +72,7 @@ In this section:
 
 &emsp;&emsp;(H) a description of the entity's protocol for referral of residents who may require long-term care services, including coordination with local agencies, including area agencies on aging and Aging and Disability Resource Centers that serve as single points of entry to public services;
 
-&emsp;&emsp;(I) a description of how the entity will offer opportunities for older individuals to be involved in the governance, oversight, and operation of the project;
+&emsp;&emsp;(I) a description of how the entity will offer opportunities for older individuals tobe involved in the governance, oversight, and operation of the project;
 
 &emsp;&emsp;(J) an assurance that the entity will submit to the Assistant Secretary such evaluations and reports as the Assistant Secretary may require; and
 

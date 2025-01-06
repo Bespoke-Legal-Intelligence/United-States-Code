@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Undistributed earnings
 
-&emsp;The term "undistributed earnings" means the amount of the earnings and profits of the specified 10-percent owned foreign corporation (computed in accordance with sections 964(a) and 986)—
+&emsp;The term "undistributed earnings" means the amount of the earnings and profits of thespecified 10-percent owned foreign corporation (computed in accordance with sections 964(a) and 986)—
 
 &emsp;&emsp;(A) as of the close of the taxable year of the specified 10-percent owned foreign corporation in which the dividend is distributed, and
 

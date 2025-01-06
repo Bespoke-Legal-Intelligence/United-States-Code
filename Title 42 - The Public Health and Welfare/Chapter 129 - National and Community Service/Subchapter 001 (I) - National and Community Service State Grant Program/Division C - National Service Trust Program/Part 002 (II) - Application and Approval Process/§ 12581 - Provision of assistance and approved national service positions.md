@@ -144,7 +144,7 @@ The Corporation may not approve positions as approved national service positions
 
 &emsp;&emsp;&emsp;(iii) to cooperate with any evaluation activities undertaken by the Corporation; and
 
-&emsp;&emsp;&emsp;(iv) to provide assurances that additional funds will be raised in support of the program, in addition to those received under the national service laws; and
+&emsp;&emsp;&emsp;(iv) to provide assurances that additional funds will be raised in support of theprogram, in addition to those received under the national service laws; and
 
 &emsp;&emsp;(B) may adopt other terms and conditions that the Corporation considers necessary or appropriate based on the relative risks (as determined by the Corporation) associated with any application for a fixed-amount grant.
 

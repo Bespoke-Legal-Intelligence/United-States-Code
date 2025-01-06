@@ -70,7 +70,7 @@ Funding.—The Secretary of Defense shall use funds from the Defense Acquisition
 
 #### References in Text
 
-Section 3 of the Plain Writing Act of 2010, referred to in subsec. (c)(1)(B)(iii), is section 3 of Pub. L. 111–274, which is set out in a note under section 301 of Title 5, Government Organization and Employees.
+Section 3 of the Plain Writing Act of 2010, referred to in subsec. (c)(1)(B)(iii), is section 3 of Pub. L. 111–274,which is set out in a note under section 301 of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 

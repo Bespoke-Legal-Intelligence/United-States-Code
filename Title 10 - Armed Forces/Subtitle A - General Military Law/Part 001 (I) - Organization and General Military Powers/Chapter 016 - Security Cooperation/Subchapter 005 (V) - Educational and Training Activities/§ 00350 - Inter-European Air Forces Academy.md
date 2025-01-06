@@ -30,7 +30,7 @@ Assistance otherwise prohibited by law.—Education and training may not be prov
 
 (d)
 
-Supplies and Clothing.—The Secretary of the Air Force may, under such conditions as the Secretary may prescribe, provide to a person receiving education and training under this section the following:
+Supplies and Clothing.—The Secretary of the Air Force may, under such conditions as theSecretary may prescribe, provide to a person receiving education and training under this section the following:
 
 &emsp;(1) Transportation incident to such education and training.
 

@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### Prior Provisions
 
-A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to miscellaneous stamp provisions,prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to miscellaneous stamp provisions, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
@@ -104,5 +104,5 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1985, see section 27(d)(1) of Pu
 
 #### Effective Date
 
-Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: "The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on January 1, 1980."
+Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: "The amendments made by subsections (a)and (b) \[enacting this section\] shall take effect on January 1, 1980."
 

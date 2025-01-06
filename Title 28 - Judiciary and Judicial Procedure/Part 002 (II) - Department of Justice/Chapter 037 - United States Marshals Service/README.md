@@ -14,7 +14,7 @@
 | \[570, 571. | Repealed.\] |
 | \[572. | Renumbered.\] |
 | \[572a to 574. Repealed.\] |  |
-| \[575, 576. | Renumbered.\] |
+| \[575, 576. | Renumbered.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

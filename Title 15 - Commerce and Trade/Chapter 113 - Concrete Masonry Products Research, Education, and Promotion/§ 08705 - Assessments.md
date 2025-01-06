@@ -48,7 +48,7 @@ With respect to assessment rates, the order shall contain the following terms:
 
 #### (1) In general
 
-&emsp;Late-payment and interest charges may be levied on each person subject to the order who fails to remit an assessment in accordance with subsection (b).
+&emsp;Late-payment and interest charges may be levied on each person subject to the order whofails to remit an assessment in accordance with subsection (b).
 
 #### (2) Rate
 

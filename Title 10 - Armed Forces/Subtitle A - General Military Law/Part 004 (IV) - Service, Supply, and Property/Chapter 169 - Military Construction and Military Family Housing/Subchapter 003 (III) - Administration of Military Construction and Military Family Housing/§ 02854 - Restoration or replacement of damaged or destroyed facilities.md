@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(iii) in the case of damage to a facility rather than destruction, a certification that the replacement project is more cost-effective than repair or restoration; and
 
-&emsp;&emsp;(iv) a certification that deferral of the replacement project for inclusion in the next Military Construction Authorization Act would be inconsistent with national securityor the protection of health, safety, or environmental quality, as the case may be.
+&emsp;&emsp;(iv) a certification that deferral of the replacement project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
 
 (2) A replacement project under this subsection may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title.
 

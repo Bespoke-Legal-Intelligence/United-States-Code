@@ -62,7 +62,7 @@ For purposes of this section:
 
 &emsp;The term "new safety information", with respect to a drug, means information derived from a clinical trial, an adverse event report, a postapproval study (including a study under section 355(o)(3) of this title), or peer-reviewed biomedical literature; data derived from the postmarket risk identification and analysis system under section 355(k) of this title; or other scientific data deemed appropriate by the Secretary about—
 
-&emsp;&emsp;(A) a serious risk or an unexpected serious risk associated with use of the drug that the Secretary has become aware of (that may be based on a new analysis of existing information) since the drug was approved, since the risk evaluation and mitigation strategy was required, or since the last assessment of the approved risk evaluation and mitigation strategy for the drug; or
+&emsp;&emsp;(A) a serious risk or an unexpected serious risk associated with use of the drug that theSecretary has become aware of (that may be based on a new analysis of existing information) since the drug was approved, since the risk evaluation and mitigation strategy was required, or since the last assessment of the approved risk evaluation and mitigation strategy for the drug; or
 
 &emsp;&emsp;(B) the effectiveness of the approved risk evaluation and mitigation strategy for the drug obtained since the last assessment of such strategy.
 
@@ -158,7 +158,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(A) sending letters to health care providers;
 
-&emsp;&emsp;(B) disseminating information about the elements of the risk evaluation and mitigation strategy to encourage implementation by health care providers of components that apply to such health care providers, or to explain certain safety protocols (such as medical monitoring by periodic laboratory tests) <sup>1</sup>
+&emsp;&emsp;(B) disseminating information about the elements of the risk evaluation and mitigation strategy to encourage implementationby health care providers of components that apply to such health care providers, or to explain certain safety protocols (such as medical monitoring by periodic laboratory tests) <sup>1</sup>
 
 &emsp;&emsp;(C) disseminating information to health care providers through professional societies about any serious risks of the drug and any protocol to assure safe use; or
 
@@ -300,7 +300,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(ii) minimize the burden on the health care delivery system of complying with the strategy; or
 
-&emsp;&emsp;&emsp;(iii) accommodate different, comparable aspects of the elements to assure safe use for a drug that is the subject of an application under section 355(j) of this title, and the applicable listed drug.
+&emsp;&emsp;&emsp;(iii) accommodate different, comparable aspects of the elements to assure safe usefor a drug that is the subject of an application under section 355(j) of this title, and the applicable listed drug.
 
 #### (h) Review of proposed strategies; review of assessments and modifications of approved strategies
 
@@ -314,7 +314,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (i) Timeframe
 
-&emsp;&emsp;&emsp;Unless the dispute resolution process described under paragraph (3) or (4) applies, and, except as provided in clause (ii) or clause (iii) below, the Secretary, in consultation with the offices described in subsection (c)(2), shall review and act on the proposed risk evaluation and mitigationstrategy for a drug or any proposed modification to any required strategy within 180 days of receipt of the proposed strategy or modification.
+&emsp;&emsp;&emsp;Unless the dispute resolution process described under paragraph (3) or (4) applies, and, except as provided in clause (ii) or clause (iii) below, the Secretary, in consultation with the offices described in subsection (c)(2), shall review and act on the proposed risk evaluation and mitigation strategy for a drug or any proposed modification to any required strategy within 180 days of receipt of the proposed strategy or modification.
 
 #### (ii) Minor modifications
 
@@ -606,7 +606,7 @@ Subsec. (g)(2)(C). Pub. L. 112–144, §1132(a)(2)(B), substituted "an assessmen
 
 &emsp;"(ii) an element under subsection (f) should be modified or included in the strategy; or".
 
-Subsec. (g)(2)(D). Pub. L. 112–144, §1132(a)(2)(C), struck out subpar. (D) which read as follows: "within 15 days when ordered by the Secretary, in consultation withthe offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title."
+Subsec. (g)(2)(D). Pub. L. 112–144, §1132(a)(2)(C), struck out subpar. (D) which read as follows: "within 15 days when ordered by the Secretary, in consultation with the offices described in subsection (c)(2), if the Secretary determines that there may be a cause for action by the Secretary under section 355(e) of this title."
 
 Subsec. (g)(3). Pub. L. 112–144, §1132(a)(3), substituted "for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved strategy, including each element of the strategy, is meeting the goal or whether 1 or more such goals or such elements should be modified." for "for a drug shall include—" and struck out subpars. (A) to (C) which related to assessment of elements to assure safe use, postapproval studies, and postapproval clinical trials.
 
@@ -684,7 +684,7 @@ Statement To Accompany Guidelines and Recommendations.—The Commissioner of Foo
 
 &emsp;"(1) are intended to help inform clinical decisionmaking by prescribers and patients; and
 
-&emsp;"(2) are not intended to be used for the purposes of restricting, limiting, delaying, or denying coveragefor, or access to, a prescription issued for a legitimate medical purpose by an individual practitioner acting in the usual course of professional practice."
+&emsp;"(2) are not intended to be used for the purposes of restricting, limiting, delaying, or denying coverage for, or access to, a prescription issued for a legitimate medical purpose by an individual practitioner acting in the usual course of professional practice."
 
 #### Prescriber Education
 

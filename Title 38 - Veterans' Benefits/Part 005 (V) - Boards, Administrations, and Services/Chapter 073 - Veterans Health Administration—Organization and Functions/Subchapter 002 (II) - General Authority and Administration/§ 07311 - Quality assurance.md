@@ -8,7 +8,7 @@
 
 (b)(1) As part of the quality-assurance program, the Under Secretary for Health shall periodically evaluate—
 
-&emsp;(A) whether there are significant deviations in mortality and morbidity rates for surgicalprocedures performed by the Administration from prevailing national mortality and morbidity standards for similar procedures; and
+&emsp;(A) whether there are significant deviations in mortality and morbidity rates for surgical procedures performed by the Administration from prevailing national mortality and morbidity standards for similar procedures; and
 
 &emsp;(B) if there are such deviations, whether they indicate deficiencies in the quality of health care provided by the Administration.
 

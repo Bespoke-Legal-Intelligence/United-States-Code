@@ -1,0 +1,48 @@
+### §9084. Office of the Chief of Space Operations: function; composition
+
+(a)
+
+Function.—There is in the executive part of the Department of the Air Force an Office of the Chief of Space Operations to assist the Secretary of the Air Force in carrying out the responsibilities of the Secretary.
+
+(b)
+
+Composition.—The Office of the Chief of Space Operations is composed of the following:
+
+&emsp;(1) The Chief of Space Operations.
+
+&emsp;(2) Other members of the Space Force and Air Force assigned or detailed to the Office of the Chief of Space Operations.
+
+&emsp;(3) Civilian employees in the Department of the Air Force assigned or detailed to the Office of the Chief of Space Operations.
+
+(c)
+
+Organization.—Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform such duties and have such titles, as the Secretary of the Air Force may prescribe.
+
+(Added Pub. L. 116–283, div. A, title IX, §921(a), Jan. 1, 2021, 134 Stat. 3805, §9083; renumbered §9084, Pub. L. 118–159, div. A, title V, §509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Another section 9084 was renumbered section 9087 of this title.
+
+#### Prior Provisions
+
+A prior section 9084 was renumbered section 9085 of this title.
+
+Another prior section 9084 was successively renumbered section 9068, then 9083, of this title by Pub. L. 116–92, div. A, title IX, §952(b)(1), (e), Dec. 20, 2019, 133 Stat. 1561, 1562, and was subsequently repealed by Pub. L. 116–283, div. A, title IX, §921(a), Jan. 1, 2021, 134 Stat. 3804.
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–159 renumbered section 9083 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date
+
+Pub. L. 116–283, div. A, title IX, §921(c), Jan. 1, 2021, 134 Stat. 3805, provided that: "The amendments made by this section \[enacting this section and section 9084 of this title relating to general duties of the Office of the Chief of Space Operations, repealing former section 9083 of this title, and enacting provisions set out as a note below\] shall take effect on the date on which the Secretary of the Air Force and the Chief of Space Operations jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report detailing the functions that the headquarters staff of the Department of the Air Force will continue to perform in support of the Space Force."
+
+#### No Authorization of Additional Military Billets
+
+Pub. L. 116–283, div. A, title IX, §921(d), Jan. 1, 2021, 134 Stat. 3806, provided that: "The Secretary shall establish the Office of the Chief of Space Operations under section 9083 of title 10, United States Code \[now 10 U.S.C. 9084\], as amended by subsection (a), using military personnel otherwise authorized. Nothing in this section \[enacting this section and section 9084 of this title relating to general duties of the Office of the Chief of Space Operations, repealing former section 9083 of this title, and enacting provisions set out as a note above\] or the amendments made by this section shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Office of the Chief of Space Operations."
+

@@ -32,7 +32,7 @@ Paragraph (5).—Paragraph (5) of subsection (a) applies only if the items named
 
 (c)
 
-Reciprocity Requirement for Foreign Vessels.—This section applies to a vessel of foreign registry only if the Secretary of Homeland Security finds, based on information from the Secretary of State, that the government of the nation of registry extends reciprocal privileges to vessels of the United States.
+Reciprocity Requirement for Foreign Vessels.—This section applies to a vessel of foreign registry only if the Secretary of Homeland Security finds, based on information from the Secretary of State, that the government of thenation of registry extends reciprocal privileges to vessels of the United States.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1635.)
 

@@ -1,6 +1,6 @@
 ### §7203. Exceptions
 
-Section 7202 of this title shall not affect any authority or requirement to impose (or continue to impose) a sanction referred to in section 7202 of this title—
+Section 7202 of this title shall not affect any authority or requirement to impose (or continueto impose) a sanction referred to in section 7202 of this title—
 
 &emsp;(1) against a foreign country or foreign entity—
 
@@ -16,7 +16,7 @@ Section 7202 of this title shall not affect any authority or requirement to impo
 
 &emsp;&emsp;(A) controlled on the United States Munitions List established under section 2778 of this title;
 
-&emsp;&emsp;(B) controlled on any control list established under the Export Administration Actof 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); <sup>1</sup> or
+&emsp;&emsp;(B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); <sup>1</sup> or
 
 &emsp;&emsp;(C) used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 

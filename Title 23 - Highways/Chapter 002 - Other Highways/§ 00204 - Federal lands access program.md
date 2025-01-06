@@ -138,7 +138,7 @@ In general.—Funding made available to carry out the Federal lands access progr
 
 &emsp;(2)
 
-Data source.—Data necessary to distribute funding under paragraph (1) shall be provided by the following Federal land management agencies:
+Data source.—Data necessary to distribute funding under paragraph (1) shall beprovided by the following Federal land management agencies:
 
 &emsp;&emsp;(A) The National Park Service.
 

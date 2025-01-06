@@ -38,7 +38,7 @@ Aug. 29, 1916, ch. 417 (1st par. under "Naval Dental Corps", 75th word to end of
 
 There is no provision of law specifically stating that the Medical Corps is in the Medical Department. It was the first corps to have duties relating to medical and sanitary matters and so long as it was the only corps having such duties there was no need for the departmental concept. The subsequent establishment of other corps with related duties "in the Medical Department" indicates clearly that the Medical Corps is in that Department.
 
-The words "effective August 4, 1947" and the words "establishing the Medical Service Corps" in 34 U.S.C. 30a are omitted as executed. The words "is created and established as a Staff Corps of the United States Navy" in 34 U.S.C. 43 are omitted as executed.
+The words "effective August 4, 1947" and the words "establishing the Medical Service Corps" in 34 U.S.C.30a are omitted as executed. The words "is created and established as a Staff Corps of the United States Navy" in 34 U.S.C. 43 are omitted as executed.
 
 #### <b>Editorial Notes</b>
 

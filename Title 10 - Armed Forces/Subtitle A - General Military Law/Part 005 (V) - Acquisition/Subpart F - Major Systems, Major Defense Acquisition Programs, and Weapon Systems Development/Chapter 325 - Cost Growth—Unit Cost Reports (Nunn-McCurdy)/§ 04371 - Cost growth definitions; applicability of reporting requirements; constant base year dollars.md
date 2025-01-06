@@ -62,9 +62,9 @@ Procurement program.—The term "procurement program" means a program for which 
 
 #### Codification
 
-The text of subsec. (a) of section 2433 of this title, which was transferred to this section and amended byPub. L. 116–283, §1850(b)(1), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; Pub. L. 98–525, title XII, §1242(b)(1), Oct. 19, 1984, 98 Stat. 2607; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(g)(8)(A), Oct. 1, 1986, 100 Stat. 995, 1004; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a)(1), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 102–484, div. A, title VIII, §817(d)(1), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–355, title III, §3003(a)(1), Oct. 13, 1994, 108 Stat. 3329; Pub. L. 109–163, div. A, title VIII, §802(a), (d)(2), Jan. 6, 2006, 119 Stat. 3367, 3370; Pub. L. 110–417, \[div. A\], title VIII, §811(c)(1), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–383, div. A, title X, §1075(b)(34), Jan. 7, 2011, 124 Stat. 4371.
+The text of subsec. (a) of section 2433 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1850(b)(1), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; Pub. L. 98–525, title XII, §1242(b)(1), Oct. 19, 1984, 98 Stat. 2607; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(g)(8)(A), Oct. 1, 1986, 100 Stat. 995, 1004; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a)(1), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 102–484, div. A, title VIII, §817(d)(1), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–355, title III, §3003(a)(1), Oct. 13, 1994, 108 Stat. 3329; Pub. L. 109–163, div. A, title VIII, §802(a), (d)(2), Jan. 6, 2006, 119 Stat. 3367, 3370; Pub. L. 110–417, \[div. A\], title VIII, §811(c)(1), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–383, div. A, title X, §1075(b)(34), Jan. 7, 2011, 124 Stat. 4371.
 
-The text of subsec. (f) of section 2433 of this title, which was transferred to this section, redesignated subsec. (c) and amended by Pub. L. 116–283, §1850(d), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; renumbered §2433, Pub. L. 99–433, title I, §101(a)(5), Oct. 1, 1986, 100 Stat. 995; Pub. L. 103–355, title III, §3003(d), Oct. 13, 1994, 108 Stat. 3329.
+The text of subsec. (f) of section 2433 of this title, which was transferred to this section, redesignated subsec. (c) and amended by Pub. L. 116–283, §1850(d), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; renumbered §2433, Pub. L.99–433, title I, §101(a)(5), Oct. 1, 1986, 100 Stat. 995; Pub. L. 103–355, title III, §3003(d), Oct. 13, 1994, 108 Stat. 3329.
 
 The text of subsec. (h) of section 2433 of this title, which was transferred to this section, redesignated subsec. (b) and amended by Pub. L. 116–283, §1850(c), was based on Pub. L. 99–500, §101(c) \[title X, §961(b)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–176, and Pub. L. 99–591, §101(c) \[title X, §961(b)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–176; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(b)(2), Nov. 14, 1986, 100 Stat. 3956, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273.
 
@@ -99,4 +99,60 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Cost Growth Reports for Major Acquisition Programs That Are Highly Sensitive Classified Programs
+
+Pub. L. 118–159, div. A, title VIII, §809, Dec. 23, 2024, 138 Stat. 1978, provided that:
+
+"(a)
+
+Guidance Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Under Secretary of Defense for Acquisition and Sustainment, in consultation \[sic\] each Secretary of a military department, shall establish guidance requiring that each service acquisition executive (as defined in section 101 of title 10, United States Code) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a cost growth report for a covered program each time the estimated unit cost for such covered program has increased by a percentage equal to or greater than any of the significant cost growth thresholds or critical cost growth thresholds under section 4371 of title 10, United States Code.
+
+"(b)
+
+Elements of Report.—A cost growth report required under this section shall include, with respect to a covered program, the following:
+
+&emsp;"(1) The name of the covered program.
+
+&emsp;"(2) The date of the preparation of the report.
+
+&emsp;"(3) The program phase of the covered program.
+
+&emsp;"(4) The unit cost estimates for the covered program in constant base-year dollars and in current dollars.
+
+&emsp;"(5) A statement of the reasons for cost increases that resulted in the submission of a report under this section.
+
+&emsp;"(6) A list of major program milestones, including the dates for each program milestone according to the original baseline, current baseline, and current estimate.
+
+&emsp;"(7) Annualized funding for the program by appropriation account from the date on which the program commenced to the current estimated year of completion.
+
+&emsp;"(8) Any actions taken or proposed to be taken to control future cost growth of the covered program.
+
+&emsp;"(9) Any changes made in the performance or milestones of the covered program and the extent to which such changes have contributed to the cost increase.
+
+"(c)
+
+Critical Breach.—With respect to a covered program for which the cost growth meets the threshold for a critical cost growth threshold (as defined in section 4371 of title 10, United States Code), the applicable service acquisition executive shall—
+
+&emsp;"(1) treat such covered program as if the unit cost of such a covered program has increased by a percentage equal to or greater than any of the critical cost growth thresholds for the covered program; and
+
+&emsp;"(2) follow applicable procedures in sections 4376 and 4377 of title 10, United States Code.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered program' means a Department of Defense program—
+
+&emsp;&emsp;"(A) that is a highly sensitive classified program (as determined by the Secretary of Defense);
+
+&emsp;&emsp;"(B) that would be a major defense acquisition program under section 4201 of title 10, United States Code, except for the exclusion from the applicability of that section of such a highly sensitive classified program; and
+
+&emsp;&emsp;"(C) that has entered the engineering and manufacturing design phase, or equivalent phase.
+
+&emsp;"(2) The term 'unit cost' means, with respect to a covered program, as applicable—
+
+&emsp;&emsp;"(A) the program acquisition unit cost (as defined in section 4351 of title 10, United States Code); or
+
+&emsp;&emsp;"(B) the procurement unit cost (as defined in such section)."
 

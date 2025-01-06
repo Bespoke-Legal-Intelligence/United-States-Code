@@ -20,6 +20,8 @@ Commercial fishing may, however, be conducted in the waters of this refuge under
 
 Section is a combination of sections 6 and 7 of act June 7, 1924, the last sentence only being from section 7.
 
+
+
 #### <b>Executive Documents</b>
 
 #### Transfer of Functions

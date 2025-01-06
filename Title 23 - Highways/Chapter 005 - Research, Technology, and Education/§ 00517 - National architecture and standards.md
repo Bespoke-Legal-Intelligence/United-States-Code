@@ -14,7 +14,7 @@ Interoperability and efficiency.—To the maximum extent practicable, the nation
 
 &emsp;(3)
 
-Use of standards development organizations.—In carrying out this section, the Secretary shall support the development andmaintenance of standards and protocols using the services of such standards development organizations as the Secretary determines to be necessary and whose memberships include representatives of the surface transportation and intelligent transportation systems industries.
+Use of standards development organizations.—In carrying out this section, the Secretary shall support the development and maintenance of standards and protocols using the services of such standards development organizations as the Secretary determines to be necessary and whose memberships include representatives of the surface transportation and intelligent transportation systems industries.
 
 (b)
 

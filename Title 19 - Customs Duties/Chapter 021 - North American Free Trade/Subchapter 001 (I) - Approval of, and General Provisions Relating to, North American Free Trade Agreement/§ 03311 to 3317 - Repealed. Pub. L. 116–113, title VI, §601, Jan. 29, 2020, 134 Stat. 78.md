@@ -34,7 +34,7 @@ A Presidential Memorandum on the Implementation of the North American Free Trade
 
 Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the North American Free Trade Agreement Implementation Act (Public Law 103–182, 107 Stat. 2057) (the NAFTA Implementation Act) \[see Short Title note under former section 3301 of this title\] and section 302 of title 3, United States Code, and in order to implement the North American Free Trade Agreement (NAFTA), it is hereby ordered:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the North American Free Trade Agreement Implementation Act (Public Law 103–182,107 Stat. 2057) (the NAFTA Implementation Act) \[see Short Title note under former section 3301 of this title\] and section 302 of title 3, United States Code, and in order to implement the North American Free Trade Agreement (NAFTA), it is hereby ordered:
 
 Section 1. <i>Establishment of United States Section of the NAFTA Secretariat</i>. Pursuant to section 105(a) of the NAFTA Implementation Act \[former 19 U.S.C. 3315(a)\], a United States section of the NAFTA Secretariat shall be established within the Department of Commerce and shall carry out the functions set out in that section.
 

@@ -82,7 +82,7 @@ Relationship to State Laws.—This part does not prevent a State from establishi
 
 &emsp;(2) knowingly sells, uses, attempts to use, or possesses with the intent to use, a fraudulent aircraft certificate of registration;
 
-&emsp;(3) knowingly and willfully displays or causes to be displayed on an aircraft a markthat is false or misleading about the nationality or registration of the aircraft; or
+&emsp;(3) knowingly and willfully displays or causes to be displayed on an aircraft a mark that is false or misleading about the nationality or registration of the aircraft; or
 
 &emsp;(4) obtains an aircraft certificate of registration from the Administrator of the Federal Aviation Administration by—
 
@@ -152,7 +152,7 @@ In subsection (d)(2)(A), the words "aircraft certificate of registration" are su
 
 In subsections (d)(2)(C)(ii) and (e), the words "aircraft certificate of registration" are substituted for "aircraft registration certificate" for consistency with 49 App.:1401, restated in chapter 441 of the revised title.
 
-In subsection (e), before clause (1), the words "this subsection or in any other provision of" are omitted as surplus. In clause (1), the words "counterfeits" and "falsely makes" are omitted as surplus. In clause (4)(A), the words "covering up" are omitted as surplus. In clause (4)(B), the words "or representation" are omitted as surplus. In clause (4)(C), the words "writing or" are omitted as surplus.
+In subsection (e), before clause (1), the words "this subsection or in any other provision of" are omitted as surplus. In clause (1), the words "counterfeits" and "falsely makes" are omitted as surplus. In clause (4)(A), the words "covering up" are omitted as surplus.In clause (4)(B), the words "or representation" are omitted as surplus. In clause (4)(C), the words "writing or" are omitted as surplus.
 
 #### Pub. L. 104–287
 

@@ -22,7 +22,7 @@
 
 #### (D) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "reasonable cause to believe that the information is inaccurate" means having specific knowledge, other than solely allegations bythe consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
+&emsp;&emsp;For purposes of subparagraph (A), the term "reasonable cause to believe that the information is inaccurate" means having specific knowledge, other than solely allegations by the consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
 
 #### (E) Rehabilitation of private education loans
 
@@ -208,7 +208,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulationsthat shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
 
 #### (B) Considerations
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;&emsp;(iii) complete such person's investigation of the dispute and report the results of the investigation to the consumer before the expiration of the period under section 1681i(a)(1) of this title within which a consumer reporting agency would be required to complete its action if the consumer had elected to dispute the information under that section; and
 
-&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished theinaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
+&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished the inaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
 
 #### (F) Frivolous or irrelevant dispute
 
@@ -282,7 +282,7 @@
 
 #### (1) In general
 
-&emsp;After receiving notice pursuant to section 1681i(a)(2) of this title of a dispute with regard to the completeness or accuracy of any information provided by a person to a consumer reporting agency, the person shall—
+&emsp;After receiving notice pursuant to section 1681i(a)(2) of this title of a dispute with regardto the completeness or accuracy of any information provided by a person to a consumer reporting agency, the person shall—
 
 &emsp;&emsp;(A) conduct an investigation with respect to the disputed information;
 
@@ -360,7 +360,7 @@ A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 <b>2010</b>—Subsec. (a)(7)(D). Pub. L. 111–203, §1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 
-Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting ", in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration," before "shall jointly", was executed by making the insertion before "shall prescribe", to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
+Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting", in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration," before "shall jointly", was executed by making the insertion before "shall prescribe", to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
 
 Pub. L. 111–203, §1088(a)(2)(D), substituted "The Bureau shall" for "The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly".
 

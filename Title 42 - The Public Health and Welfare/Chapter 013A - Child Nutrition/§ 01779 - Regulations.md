@@ -70,7 +70,7 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–296 inserted subsec. (a) heading, added subsec. (b), and struck out former subsec. (b) which related to sale of competitive foods approved by the Secretary.
+<b>2010</b>—Pub. L. 111–296 inserted subsec. (a) heading, added subsec. (b), and struck out former subsec. (b)which related to sale of competitive foods approved by the Secretary.
 
 <b>1999</b>—Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act" wherever appearing.
 
@@ -96,7 +96,7 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education andthe Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2010 Amendment
 

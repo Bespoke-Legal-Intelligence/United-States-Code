@@ -24,7 +24,7 @@ The Congress finds the following:
 
 It is the sense of the Congress that—
 
-&emsp;(1) addressing the HIV/AIDS crisis in sub-Saharan Africa should be a central component ofUnited States foreign policy with respect to sub-Saharan Africa;
+&emsp;(1) addressing the HIV/AIDS crisis in sub-Saharan Africa should be a central component of United States foreign policy with respect to sub-Saharan Africa;
 
 &emsp;(2) significant progress needs to be made in preventing and treating HIV/AIDS in sub-Saharan Africa in order to sustain a mutually beneficial trade relationship between the United States and sub-Saharan African countries; and
 

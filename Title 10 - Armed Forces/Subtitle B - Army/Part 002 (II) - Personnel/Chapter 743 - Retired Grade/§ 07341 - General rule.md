@@ -42,7 +42,7 @@ R.S. 1254.
 
 June 3, 1916, ch. 134, §4c (proviso); added June 29, 1945, ch. 197 (proviso); restated Aug. 7, 1947, ch. 512, §513(c) (proviso), 61 Stat. 902.
 
-The applicability of the rule stated in the revised section to situations not expressly covered by the laws named in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
+The applicability of the rule stated in the revised section to situations not expressly covered by the lawsnamed in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
 
 #### <b>Editorial Notes</b>
 

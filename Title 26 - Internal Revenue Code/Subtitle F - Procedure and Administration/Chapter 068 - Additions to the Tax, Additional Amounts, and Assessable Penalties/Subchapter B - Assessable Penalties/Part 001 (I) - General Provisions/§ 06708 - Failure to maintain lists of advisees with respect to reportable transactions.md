@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any person who is required to maintain a list under section 6112(a) fails to make suchlist available upon written request to the Secretary in accordance with section 6112(b) within 20 business days after the date of such request, such person shall pay a penalty of $10,000 for each day of such failure after such 20th day.
+&emsp;If any person who is required to maintain a list under section 6112(a) fails to make such list available upon written request to the Secretary in accordance with section 6112(b) within 20 business days after the date of such request, such person shall pay a penalty of $10,000 for each day of such failure after such 20th day.
 
 #### (2) Reasonable cause exception
 

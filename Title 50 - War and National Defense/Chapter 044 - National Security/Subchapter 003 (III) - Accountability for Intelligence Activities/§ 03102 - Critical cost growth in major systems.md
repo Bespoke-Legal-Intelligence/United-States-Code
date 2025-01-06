@@ -66,7 +66,7 @@ Any report or certification required to be submitted under this section may be s
 
 (1) The Director may waive the requirements of subsections (d)(2), (e), and (g) of section 3101 of this title and subsections (a)(2), (b), (c), and (d) of this section with respect to a major system if the Director determines that at least 90 percent of the amount of the current Baseline Estimate for the major system has been expended.
 
-(2)(A) If the Director grants a waiver under paragraph (1) with respect to a major system, the Director shall submit to the congressional intelligence committees written notice of the waiver that includes—
+(2)(A) If the Director grants a waiver under paragraph (1) with respect to a major system, the Director shall submit to the congressionalintelligence committees written notice of the waiver that includes—
 
 &emsp;(i) the information described in section 3101(f) of this title; and
 

@@ -14,7 +14,7 @@
 
 &emsp;(5) an identification, to the extent practicable, of all relevant Federal rules which may duplicate, overlap or conflict with the proposed rule.
 
-(c) Each initial regulatory flexibility analysis shall also contain a description of any significant alternatives to the proposed rule which accomplish the stated objectives of applicable statutes and which minimize any significanteconomic impact of the proposed rule on small entities. Consistent with the stated objectives of applicable statutes, the analysis shall discuss significant alternatives such as—
+(c) Each initial regulatory flexibility analysis shall also contain a description of any significant alternatives to the proposed rule which accomplish the stated objectives of applicable statutes and which minimize any significant economic impact of the proposed rule on small entities. Consistent with the stated objectives of applicable statutes, the analysis shall discuss significant alternatives such as—
 
 &emsp;(1) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;
 

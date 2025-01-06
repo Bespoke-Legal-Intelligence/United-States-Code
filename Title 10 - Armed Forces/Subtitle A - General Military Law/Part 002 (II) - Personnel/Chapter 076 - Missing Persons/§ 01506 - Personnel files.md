@@ -12,7 +12,7 @@ Classified Information.—(1) The Secretary concerned may withhold classified in
 
 &emsp;(B) A notice of the date of the most recent review of the classification of the withheld information.
 
-(2)(A) If classified information withheld under this subsection refers to one or more unnamed missing persons, the Secretary shall ensure that notice of that withheld information, and noticeof the date of the most recent review of the classification of that withheld information, is made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person of all missing persons from the conflict or period of war to which the classified information pertains.
+(2)(A) If classified information withheld under this subsection refers to one or more unnamed missing persons, the Secretary shall ensure that notice of that withheld information, and notice of the date of the most recent review of the classification of that withheld information, is made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person of all missing persons from the conflict or period of war to which the classified information pertains.
 
 (B) For purposes of subparagraph (A), information shall be considered to be made reasonably accessible if placed in a separate and distinct file that is available for review by persons specified in subparagraph (A) upon the request of any such person either to review the separate file or to review the personnel file of the missing person concerned.
 
@@ -60,5 +60,5 @@ Subsec. (d)(3). Pub. L. 105–85, §599(g)(2), inserted ", or part of a debrief
 
 <b>1996</b>—Subsecs. (e), (f). Pub. L. 104–201 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "
 
-Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and status of a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both."
+Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and statusof a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both."
 

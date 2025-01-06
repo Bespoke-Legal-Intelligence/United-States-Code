@@ -46,7 +46,7 @@ Maximum amount.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the amount of a securedloan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+In general.—Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
 
 &emsp;&emsp;(B)
 
@@ -174,7 +174,7 @@ In general.—The total Federal assistance provided for a project receiving a lo
 
 &emsp;&emsp;(B)
 
-Rural projects fund.—A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance withthe Federal share requirement described in section 610(e)(3)(B).
+Rural projects fund.—A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance with the Federal share requirement described in section 610(e)(3)(B).
 
 (c)
 
@@ -298,7 +298,7 @@ In general.—Not later than 120 days after the date of enactment of this paragr
 
 Additional criteria.—The additional criteria referred to in subparagraph (A)(ii) are the following:
 
-&emsp;&emsp;&emsp;(i) The secured loan is made on terms and conditions that substantially conform to the conventional terms and conditionsestablished by the National Surface Transportation Innovative Finance Bureau.
+&emsp;&emsp;&emsp;(i) The secured loan is made on terms and conditions that substantially conform to the conventional terms and conditions established by the National Surface Transportation Innovative Finance Bureau.
 
 &emsp;&emsp;&emsp;(ii) The secured loan is rated in the A category or higher.
 
@@ -334,7 +334,7 @@ Subsec. (c)(4)(A). Pub. L. 117–58, §12001(f), designated existing provisions 
 
 Subsec. (f)(3). Pub. L. 117–58, §12001(h), added par. (3).
 
-<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1)shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
 
 Subsec. (b)(2). Pub. L. 114–94, §2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted "Except as provided in subparagraph (B), the amount of" for "The amount of", and added subpar. (B).
 

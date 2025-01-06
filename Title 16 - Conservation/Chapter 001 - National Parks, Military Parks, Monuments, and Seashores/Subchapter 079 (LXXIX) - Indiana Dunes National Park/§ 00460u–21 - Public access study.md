@@ -2,7 +2,7 @@
 
 #### (a) Preservation of Park and conservation of energy
 
-The Secretary in consultation with the Secretary of Transportation, shall conduct a study of various modes of public access into and within the lakeshore which are consistent with the preservation of the Park and conservation of energy by encouraging the use of transportation modes other than personal motor vehicles.
+The Secretary in consultation with the Secretary of Transportation, shall conduct a studyof various modes of public access into and within the lakeshore which are consistent with the preservation of the Park and conservation of energy by encouraging the use of transportation modes other than personal motor vehicles.
 
 #### (b) Utilization of clearinghouse resources and facilities
 
@@ -10,7 +10,7 @@ In carrying out the study, the Secretary shall utilize to the greatest extent pr
 
 #### (c) Adequacy of access facilities
 
-The study shall address the adequacy of access facilities for members of the public who desireto visit and enjoy the Park. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the Park.
+The study shall address the adequacy of access facilities for members of the public who desire to visit and enjoy the Park. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the Park.
 
 #### (d) Access proposals; retention of Park values
 

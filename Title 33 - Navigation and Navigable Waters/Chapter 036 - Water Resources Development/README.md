@@ -101,6 +101,8 @@
 | [2281\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281%20-%20Matters%20to%20be%20addressed%20in%20planning.md) | Matters to be addressed in planning. |
 | [2281a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281a%20-%20Tribal%20Liaison.md) | Tribal Liaison. |
 | [2281b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281b%20-%20Corps%20of%20Engineers%20support%20for%20underserved%20communities%3B%20outreach.md) | Corps of Engineers support for underserved communities; outreach. |
+| [2281c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281c%20-%20Continuing%20authority%20programs.md) | Continuing authority programs. |
+| [2281d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281d%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
 | [2282\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282%20-%20Feasibility%20reports.md) | Feasibility reports. |
 | [2282a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282a%20-%20Planning.md) | Planning. |
 | [2282b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282b%20-%20Submission%20of%20reports%20to%20Congress.md) | Submission of reports to Congress. |
@@ -110,6 +112,7 @@
 | [2282e.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282e%20-%20Post-authorization%20change%20reports.md) | Post-authorization change reports. |
 | [2282f.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282f%20-%20Review%20of%20resiliency%20assessments.md) | Review of resiliency assessments. |
 | [2282g.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282g%20-%20Scope%20of%20feasibility%20studies.md) | Scope of feasibility studies. |
+| [2282h.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282h%20-%20Economic%2C%20hydraulic%2C%20and%20hydrologic%20modeling.md) | Economic, hydraulic, and hydrologic modeling. |
 | [2283\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283%20-%20Fish%20and%20wildlife%20mitigation.md) | Fish and wildlife mitigation. |
 | [2283a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283a%20-%20Status%20report.md) | Status report. |
 | [2283b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283b%20-%20Clarification%20of%20mitigation%20authority.md) | Clarification of mitigation authority. |
@@ -123,9 +126,11 @@
 | [2288\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002288%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93121%2C%20title%20I%2C%20%C2%A71004%2C%20June%2010%2C%202014%2C%20128%20Stat.%201199.md) | Repealed. |
 | [2289\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002289%20-%20Urban%20and%20rural%20flood%20control%20frequency.md) | Urban and rural flood control frequency. |
 | [2289a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002289a%20-%20Consideration%20of%20measures.md) | Consideration of measures. |
+| [2289b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002289b%20-%20Stormwater%20management%20projects.md) | Stormwater management projects. |
 | [2290\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002290%20-%20Flood%20control%20in%20Trust%20Territory%20of%20the%20Pacific%20Islands.md) | Flood control in Trust Territory of the Pacific Islands. |
 | [2291\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002291%20-%20Federal%20Project%20Repayment%20District.md) | Federal Project Repayment District. |
 | [2292\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002292%20-%20Surveying%20and%20mapping.md) | Surveying and mapping. |
+| [2292a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002292a%20-%20National%20coastal%20mapping%20program.md) | National coastal mapping program. |
 | [2293\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002293%20-%20Reprogramming%20during%20national%20emergencies.md) | Reprogramming during national emergencies. |
 | [2293a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002293a%20-%20Reprogramming%20of%20funds%20for%20projects%20by%20Corps%20of%20Engineers.md) | Reprogramming of funds for projects by Corps of Engineers. |
 | [2294\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002294%20-%20Office%20of%20Environmental%20Policy.md) | Office of Environmental Policy. |
@@ -134,6 +139,7 @@
 | [2296\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002296%20-%20Acquisition%20of%20recreation%20lands.md) | Acquisition of recreation lands. |
 | [2297\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002297%20-%20Operation%20and%20maintenance%20on%20recreation%20lands.md) | Operation and maintenance on recreation lands. |
 | [2298\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002298%20-%20Impact%20of%20proposed%20projects%20on%20existing%20recreation%20facilities.md) | Impact of proposed projects on existing recreation facilities. |
+| [2298a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002298a%20-%20Databases%20of%20Corps%20recreational%20sites.md) | Databases of Corps recreational sites. |
 | [2299\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002299%20-%20Acquisition%20of%20beach%20fill.md) | Acquisition of beach fill. |
 | [2300\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002300%20-%20Study%20of%20Corps%20capabilities.md) | Study of Corps capabilities. |
 | 2301, 2302. Omitted. |  |
@@ -144,7 +150,7 @@
 | [2307\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002307%20-%20Control%20of%20ice.md) | Control of ice. |
 | [2308\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002308%20-%20Campgrounds%20for%20senior%20citizens.md) | Campgrounds for senior citizens. |
 | [2309\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002309%20-%20Great%20Lakes%20Commodities%20Marketing%20Board.md) | Great Lakes Commodities Marketing Board. |
-| [2309a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002309a%20-%20Project%20modifications%20for%20improvement%20of%20environment.md) | Project modifications for improvement of environment. |
+| [2309a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002309a%20-%20Project%20modifications%20for%20improvement%20of%20environment%20or%20drought%20resiliency.md) | Project modifications for improvement of environment or drought resiliency. |
 | [2310\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Cost%20sharing%20for%20Territories%20and%20Indian%20tribes.md) | Cost sharing for Territories and Indian tribes. |
 | [2311\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002311%20-%20Report%20to%20Congress%20covering%20proposals%20for%20water%20impoundment%20facilities.md) | Report to Congress covering proposals for water impoundment facilities. |
 | [2312\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002312%20-%20Comments%20on%20certain%20changes%20in%20operations%20of%20reservoirs.md) | Comments on certain changes in operations of reservoirs. |
@@ -183,6 +189,8 @@
 | [2326f.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326f%20-%20Maintenance%20dredging%20data.md) | Maintenance dredging data. |
 | [2326g.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326g%20-%20Beneficial%20use%20of%20dredged%20material%3B%20dredged%20material%20management%20plans.md) | Beneficial use of dredged material; dredged material management plans. |
 | [2326h.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326h%20-%20Five-year%20regional%20dredged%20material%20management%20plans.md) | Five-year regional dredged material management plans. |
+| [2326i.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326i%20-%20Beneficial%20use%20of%20dredged%20material.md) | Beneficial use of dredged material. |
+| [2326j.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326j%20-%20Transfer%20of%20suitable%20dredged%20material.md) | Transfer of suitable dredged material. |
 | [2327\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002327%20-%20Definition%20of%20rehabilitation%20for%20inland%20waterway%20projects.md) | Definition of rehabilitation for inland waterway projects. |
 | [2327a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002327a%20-%20Rehabilitation%20of%20Corps%20of%20Engineers%20constructed%20pump%20stations.md) | Rehabilitation of Corps of Engineers constructed pump stations. |
 | [2328\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002328%20-%20Challenge%20cost-sharing%20program%20for%20management%20of%20recreation%20facilities.md) | Challenge cost-sharing program for management of recreation facilities. |
@@ -214,6 +222,7 @@
 | [2344\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002344%20-%20Safety%20assurance%20review.md) | Safety assurance review. |
 | [2345\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002345%20-%20Electronic%20submission%20and%20tracking%20of%20permit%20applications.md) | Electronic submission and tracking of permit applications. |
 | [2346\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002346%20-%20Project%20administration.md) | Project administration. |
+| [2346a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002346a%20-%20Real%20estate%20administrative%20fees.md) | Real estate administrative fees. |
 | [2347\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347%20-%20Coordination%20and%20scheduling%20of%20Federal%2C%20State%2C%20and%20local%20actions.md) | Coordination and scheduling of Federal, State, and local actions. |
 | [2347a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347a%20-%20Determination%20of%20project%20completion.md) | Determination of project completion. |
 | [2347b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347b%20-%20Purpose%20and%20need.md) | Purpose and need. |

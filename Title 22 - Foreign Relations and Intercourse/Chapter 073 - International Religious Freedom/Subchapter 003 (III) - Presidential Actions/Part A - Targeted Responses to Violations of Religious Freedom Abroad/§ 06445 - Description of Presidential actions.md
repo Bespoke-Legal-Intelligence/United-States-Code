@@ -36,7 +36,7 @@ Except as provided in subsection (d), the Presidential actions referred to in th
 
 &emsp;&emsp;(C) the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]; or
 
-&emsp;&emsp;(D) any other statute that requires the prior review and approval of the UnitedStates Government as a condition for the export or reexport of goods or services.
+&emsp;&emsp;(D) any other statute that requires the prior review and approval of the United States Government as a condition for the export or reexport of goods or services.
 
 &emsp;(14) Prohibiting any United States financial institution from making loans or providing credits totaling more than $10,000,000 in any 12-month period to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
 

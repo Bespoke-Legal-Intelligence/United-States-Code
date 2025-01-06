@@ -186,7 +186,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–113 applicable to returns required to be filed, and payee statements required tobe provided, after Dec. 31, 2016, see section 202(e) of Pub. L. 114–113, set out as a note under section 6045 of this title.
+Amendment by Pub. L. 114–113 applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, see section 202(e) of Pub. L. 114–113, set out as a note under section 6045 of this title.
 
 Amendment by Pub. L. 114–27 applicable with respect to returns and statements required to be filed after Dec. 31, 2015, see section 806(f) of Pub. L. 114–27, set out as a note under section 6721 of this title.
 

@@ -8,7 +8,7 @@ In General.—The Commandant shall improve maritime domain awareness in the Arct
 
 &emsp;(2) by employing joint, interagency, and international capabilities; and
 
-&emsp;(3) by facilitating the sharing of information, intelligence, and data related to the Arctic maritime domain between the Coast Guard and departments and agencies listed in subsection (b).
+&emsp;(3) by facilitating the sharing of information, intelligence, and data related to the Arctic maritime domain between the Coast Guardand departments and agencies listed in subsection (b).
 
 (b)
 

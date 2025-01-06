@@ -66,7 +66,7 @@ In this section:
 
 #### (4) Report number
 
-&emsp;The Secretary shall ensure that, upon submission of a report under paragraph (1) or (3), a unique number is issued through the electronic portal established under subsection (b) to the person submitting such report, by which the Secretary is able to link reports about the reportable food submitted and amended under this subsection and identify the supply chain for such reportable food.
+&emsp;The Secretary shall ensure that, upon submission of a report under paragraph (1) or (3),a unique number is issued through the electronic portal established under subsection (b) to the person submitting such report, by which the Secretary is able to link reports about the reportable food submitted and amended under this subsection and identify the supply chain for such reportable food.
 
 #### (5) Review
 
@@ -172,7 +172,7 @@ Except with respect to fruits and vegetables that are raw agricultural commoditi
 
 #### (2) Action by grocery store
 
-&emsp;A notification described under paragraph (1)(B) shall include the date and time suchsummary was posted on the Internet website of the Food and Drug Administration.
+&emsp;A notification described under paragraph (1)(B) shall include the date and time such summary was posted on the Internet website of the Food and Drug Administration.
 
 #### (h) Consumer notification
 

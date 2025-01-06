@@ -80,7 +80,7 @@ Budget and Funding Matters.—(1) Not later than 30 days after the President sub
 
 &emsp;(B) any comments of the Chairman.
 
-(3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities ofthe Department of Defense positioning, navigation, and timing enterprise that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
+(3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the Department of Defense positioning, navigation, and timing enterprise that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
 (g)
 

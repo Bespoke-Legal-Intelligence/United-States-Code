@@ -16,7 +16,7 @@ Of the funds provided to a State library administrative agency under section 912
 
 &emsp;(5) targeting library services to individuals of diverse geographic, cultural, and socioeconomic backgrounds, to individuals with disabilities, and to individuals with limited functional literacy or information skills;
 
-&emsp;(6) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomesbelow the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved;
+&emsp;(6) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved;
 
 &emsp;(7) developing library services that provide all users access to information through local, State, regional, national, and international collaborations and networks; and
 

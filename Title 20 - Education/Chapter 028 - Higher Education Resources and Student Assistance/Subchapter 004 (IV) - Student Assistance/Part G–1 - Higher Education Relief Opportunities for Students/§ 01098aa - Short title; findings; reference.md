@@ -44,7 +44,7 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
 Pub. L. 110–93, §1, Sept. 30, 2007, 121 Stat. 999, provided that: "It is the sense of Congress that—
 
-&emsp;"(1) the Higher Education Relief Opportunities for Students Act of 2003 \[this part\] addresses the unique situations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their Federal student loans; and
+&emsp;"(1) the Higher Education Relief Opportunities for Students Act of 2003 \[this part\] addresses the uniquesituations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their Federal student loans; and
 
 &emsp;"(2) the provisions authorized by such Act should be made permanent, thereby allowing the Secretary of Education to continue providing assistance to active duty service members and other affected individuals and their families."
 

@@ -58,7 +58,7 @@ The voluntary consent form used to enroll in the program shall—
 
 #### (3) No new conditions without consent
 
-&emsp;After the program has begun, the conditions under which a vehicle may be stopped if affixed with a certain decal or device design may not be expanded without the consent of the owner.
+&emsp;After the program has begun, the conditions under which a vehicle may be stopped if affixed with a certain decal or device design maynot be expanded without the consent of the owner.
 
 #### (4) Limited participation by States and localities
 

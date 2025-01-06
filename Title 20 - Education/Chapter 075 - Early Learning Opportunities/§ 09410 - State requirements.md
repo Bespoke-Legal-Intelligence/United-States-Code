@@ -16,7 +16,7 @@ To be eligible for a grant under this chapter, a State shall—
 
 #### (b) State preference
 
-In awarding grants to Local Councils under this chapter, the State, to the maximum extent possible, shall ensure that a broad variety of early learning programs that provide a continuity of services across the age spectrum assisted under this chapter are funded under this chapter, and shall give preference to supporting—
+In awarding grants to Local Councils under this chapter, the State, to the maximum extentpossible, shall ensure that a broad variety of early learning programs that provide a continuity of services across the age spectrum assisted under this chapter are funded under this chapter, and shall give preference to supporting—
 
 &emsp;(1) a Local Council that meets criteria, that are specified by the State and approved by the Secretary, for qualifying as serving an area of greatest need for early learning programs; and
 
@@ -52,7 +52,7 @@ In awarding grants under this chapter, Local Councils shall give preference to s
 
 #### (5) Improvement plans
 
-&emsp;If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progressin implementing such plan, in order to remain eligible for funding under this chapter.
+&emsp;If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–86.)
 

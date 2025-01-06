@@ -38,7 +38,7 @@
 
 > This subsection, except subparagraph (B) of paragraph (1), does not apply to an employee whose basic workweek is Monday through Saturday.
 
-(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery andPrince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
+(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
 
 (d)(1) For purposes of this subsection—
 
@@ -158,7 +158,7 @@ Sec. 2. As used in this order:
 
 (b) <i>Workday</i> means those hours which comprise in sequence the employee's regular daily tour of duty within any 24-hour period, whether falling entirely within one calendar day or not.
 
-Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basicworkweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
+Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
 
 (b) Any employee whose basic workweek includes Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on a day that has been administratively scheduled as his <i>regular</i> weekly nonworkday in lieu of Sunday.
 

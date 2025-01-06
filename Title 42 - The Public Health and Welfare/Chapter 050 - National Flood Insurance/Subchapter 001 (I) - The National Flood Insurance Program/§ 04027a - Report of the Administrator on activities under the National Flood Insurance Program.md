@@ -6,7 +6,7 @@ The Administrator shall, on an annual basis, submit a full report on the operati
 
 #### (2) Timing
 
-Each report required under paragraph (1) shall be submitted to the committees described inparagraph (1) not later than 3 months following the end of each fiscal year.
+Each report required under paragraph (1) shall be submitted to the committees described in paragraph (1) not later than 3 months following the end of each fiscal year.
 
 #### (3) Contents
 

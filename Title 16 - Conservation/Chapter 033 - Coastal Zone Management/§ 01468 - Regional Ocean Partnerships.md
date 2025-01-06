@@ -40,7 +40,7 @@ In this section:
 
 &emsp;A partnership formed under paragraph (1) may apply for designation as a Regional Ocean Partnership in such time and manner as determined appropriate by the Secretary if the partnership—
 
-&emsp;&emsp;(A) is established to coordinate the management of ocean, coastal, and Great Lakesresources among the members of the partnership;
+&emsp;&emsp;(A) is established to coordinate the management of ocean, coastal, and Great Lakes resources among the members of the partnership;
 
 &emsp;&emsp;(B) focuses on the environmental issues affecting the ocean, coastal, and Great Lakes areas of the members participating in the partnership;
 
@@ -250,7 +250,7 @@ Purposes.—The purposes of this title \[enacting this section\] are as follows:
 
 &emsp;"(7) To enable Regional Ocean Partnerships, or designated fiscal management entities of such partnerships, to receive Federal funding to conduct the scientific research, conservation, and restoration activities, and priority coordination on shared regional priorities necessary to achieve the purposes described in paragraphs (1) through (6)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be " 'coastal state' ".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be " 'coastal state' " as it appears in section 1453 of this title.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "coastal State".</i>
 

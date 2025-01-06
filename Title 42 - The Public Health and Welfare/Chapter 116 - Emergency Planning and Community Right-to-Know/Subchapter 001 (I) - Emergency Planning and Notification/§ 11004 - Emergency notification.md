@@ -38,7 +38,7 @@
 
 #### (1) Recipients of notice
 
-&emsp;Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency response commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+&emsp;Notice required under subsection (a) shall be given immediately after the release by theowner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency response commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
 
 #### (2) Contents
 

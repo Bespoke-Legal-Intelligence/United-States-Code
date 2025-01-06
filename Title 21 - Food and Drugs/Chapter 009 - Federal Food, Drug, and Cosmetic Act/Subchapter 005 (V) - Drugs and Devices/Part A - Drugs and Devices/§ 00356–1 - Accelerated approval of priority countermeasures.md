@@ -32,7 +32,7 @@ For purposes of this title: <sup>1</sup>
 
 #### References in Text
 
-Section 360e(d)(5) of this title, referred to in subsec. (a), was struck out and former subsec. (d)(6) redesignated subsec. (d)(5) of section 360e by Pub. L. 114–255, div. A, title III, §3051(c)(1), Dec. 13, 2016, 130 Stat. 1124.Section 360e(d)(5) no longer relates to grants of review priority.
+Section 360e(d)(5) of this title, referred to in subsec. (a), was struck out and former subsec. (d)(6) redesignated subsec. (d)(5) of section 360e by Pub. L. 114–255, div. A, title III, §3051(c)(1), Dec. 13, 2016, 130 Stat. 1124. Section 360e(d)(5) no longer relates to grants of review priority.
 
 Section 123, referred to in subsec. (b), is section 123 of Pub. L. 107–188, title I, June 12, 2002, 116 Stat. 613, which is not classified to the Code.
 

@@ -12,7 +12,7 @@ An ombudsman appointed under subsection (a) shall be a senior official of the na
 
 Each ombudsman appointed under subsection (a) shall—
 
-&emsp;(1) serve as the focal point for assisting the public and industry in resolving complaints and disputes with the national laboratory or facility regarding technology partnerships, patents, and technology licensing;
+&emsp;(1) serve as the focal point for assisting the public and industry in resolving complaintsand disputes with the national laboratory or facility regarding technology partnerships, patents, and technology licensing;
 
 &emsp;(2) promote the use of collaborative alternative dispute resolution techniques such as mediation to facilitate the speedy and low-cost resolution of complaints and disputes, when appropriate; and
 

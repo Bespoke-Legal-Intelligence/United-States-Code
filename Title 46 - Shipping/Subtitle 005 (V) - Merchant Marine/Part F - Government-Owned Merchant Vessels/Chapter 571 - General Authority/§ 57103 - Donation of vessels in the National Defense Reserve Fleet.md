@@ -46,7 +46,7 @@ Limitations.—If at any time prior to delivery of the vessel to the recipient, 
 
 Reversion.—The Secretary shall include in any conveyance under this section terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the vessel has been used other than as described in the business plan required under subsection (a)(5).
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1659; Pub. L. 112–213, title IV, §408(a), Dec. 20, 2012, 126 Stat. 1571; Pub. L. 118–31, div. C, title XXXV, §3514(j)(5), Dec. 22, 2023, 137 Stat. 812.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1659; Pub. L. 112–213, title IV, §408(a), Dec. 20, 2012, 126Stat. 1571; Pub. L. 118–31, div. C, title XXXV, §3514(j)(5), Dec. 22, 2023, 137 Stat. 812.)
 
 Historical and Revision Notes
 

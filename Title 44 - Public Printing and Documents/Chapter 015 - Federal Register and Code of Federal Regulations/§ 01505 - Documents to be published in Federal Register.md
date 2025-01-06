@@ -14,23 +14,37 @@ For the purposes of this chapter every document or order which prescribes a pena
 
 (b)
 
-Documents Authorized To Be Published by Regulations; Comments and News Items Excluded. In addition to the foregoing there shall also be published in the Federal Register other documents or classes of documents authorized to be published by regulations prescribed under this chapter with the approval of the President, but comments or news items of any character may not be published in the Federal Register.
+Documents Authorized To Be Published by Regulations; News Commentary and News Items Excluded. In addition to the foregoing there shall also be published in the Federal Register other documents or classes of documents authorized to be published by regulations prescribed under this chapter with the approval of the President, but news commentary or news items of any character may not be published in the Federal Register.
 
 (c)
+
+Alternative Publication.—In a continuity of operations event in which the Government Publishing Office does not fulfill the publication requirements of this chapter, the Office of the Federal Register may establish an alternative method to publish the Federal Register until such time that the Government Publishing Office resumes publication.
+
+(d)
 
 Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents; Preservation of Originals. In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—
 
 &emsp;(1) publication of the Federal Register or filing of documents with the Office of the Federal Register is impracticable, or
 
-&emsp;(2) under existing conditions publication in the Federal Register would not serve to give appropriate notice to the public of the contents of documents, the President may, without regard to any other provision of law, suspend all or part of the requirements of law or regulation for filing with the Office or publication in the Federal Register of documents or classes of documents.
+&emsp;(2) under existing conditions publication in the Federal Register would not serve to give appropriate notice to the public of the contents of documents, the President may, without regard to any other provision of law, suspend all or part of the requirements of law orregulation for filing with the Office or publication in the Federal Register of documents or classes of documents.
 
-The suspensions shall remain in effect until revoked by the President, or by concurrent resolution of the Congress. The President shall establish alternate systems for promulgating, filing, or publishing documents or classes of documents affected by such suspensions, including requirements relating to their effectiveness or validity, that may be considered under the then existing circumstances practicable to provide public notice of the issuance and of the contents of the documents. The alternate systems may, without limitation, provide for the use of regional or specialized publications or depositories for documents, or of the press, the radio, or similar mediums of general communication. Compliance with alternate systems of filing or publication shall have the same effect as filing with the Office or publication in the Federal Register under this chapter or other law or regulation. With respect to documents promulgated under alternate systems, each agency shall preserve the original and two duplicate originals or two certified copies for filing with the Office when the President determines that it is practicable.
+The suspensions shall remain in effect until revoked by the President, or by concurrent resolution of the Congress. The President shall establish alternate systems for promulgating, filing, or publishing documents or classes of documents affected by such suspensions, including requirements relating to their effectiveness or validity, that may be considered under the then existing circumstances practicable to provide public notice of the issuance and of the contents of the documents. The alternate systems may, without limitation, provide for the use of regional or specialized publications or depositories for documents, or of the press, the radio, telecommunications, the Internet, or similar mediums of general communication. Compliance with alternate systems of filing or publication shall have the same effect as filing with the Office or publication in the Federal Register under this chapter or other law or regulation. With respect to documents promulgated under alternate systems, each agency shall preserve the original document for filing with the Office when the President determines that it is practicable.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1274.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1274; Pub. L. 118–267, §2(e), Jan. 4, 2025, 138 Stat. 2984.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964, ed., §305 (July 26, 1935, ch. 417, §5, 49 Stat. 501; June 25, 1956, ch. 444, 70 Stat. 337).
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2025</b>—Subsec. (b). Pub. L. 118–267, §2(e)(1), substituted "News Commentary" for "Comments" in heading and "news commentary" for "comments" in text.
+
+Subsec. (c). Pub. L. 118–267, §2(e)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 118–267, §2(e)(2), (4), redesignated subsec. (c) as (d) and, in concluding provisions, inserted "telecommunications, the Internet," after "the press, the radio," and substituted "the original document" for "the original and two duplicate originals or two certified copies".
 
 #### <b>Executive Documents</b>
 
@@ -74,7 +88,7 @@ Federal Register.
 
 (b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders and proclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: "Certified to be a true copy of the original."
 
-Sec. 4. <i>Proclamations calling for the observance of special days or events</i>. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies or offices as the Director may consider appropriate. Such proposed proclamations shall be submitted to the Director, or to an office within the Executive Office of the President designated by the Director, at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director or the head of such designated office, as appropriate, shall transmit any approved commemorative proclamations to the President.
+Sec. 4. <i>Proclamations calling for the observance of special days or events</i>. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies or offices as the Director may consider appropriate. Such proposed proclamations shall be submitted to the Director, or to an office within the Executive Office of the President designated by the Director, at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director or the head ofsuch designated office, as appropriate, shall transmit any approved commemorative proclamations to the President.
 
 Sec. 5. <i>Trade Proclamations</i>. (a) Proclamations to be issued under the Trade Act of 1974 or other trade law ("trade proclamations") shall be prepared by the United States Trade Representative and submitted to the Attorney General for consideration as to both form and legality. Section 2 of this order does not apply to trade proclamations.
 

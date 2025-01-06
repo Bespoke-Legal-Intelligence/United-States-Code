@@ -30,7 +30,7 @@ If after January 6, 2017, a change is made to the merit-review process, the Dire
 
 #### Codification
 
-Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

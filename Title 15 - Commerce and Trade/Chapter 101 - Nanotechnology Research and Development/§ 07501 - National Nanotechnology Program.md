@@ -130,7 +130,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Short Title
 
-Pub. L. 108–153, §1, Dec. 3, 2003, 117 Stat. 1923, provided that: "This Act \[enacting this chapter\] may be cited asthe '21st Century Nanotechnology Research and Development Act'."
+Pub. L. 108–153, §1, Dec. 3, 2003, 117 Stat. 1923, provided that: "This Act \[enacting this chapter\] may be cited as the '21st Century Nanotechnology Research and Development Act'."
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

@@ -56,7 +56,7 @@
 
 #### (3) Exemption for conduct under approved agreement
 
-&emsp;It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted anexemption under paragraph (4), during the period for which the exemption is in effect.
+&emsp;It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect.
 
 #### (4) Action on written agreements
 
@@ -70,7 +70,7 @@
 
 #### (C) Determination
 
-&emsp;&emsp;An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+&emsp;&emsp;An exemption shall be granted regarding a written agreement submitted in accordancewith paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
 #### (5) Limitation on and renewal of exemptions
 
@@ -90,7 +90,7 @@
 
 #### (b) Sunset
 
-The applicability of this section shall expire after January 19, 2024.
+The applicability of this section shall expire after March 31, 2025.
 
 #### (c) Definitions
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
-&emsp;&emsp;&emsp;(iv) Exchanging information among competitors relating to production (other thanproduction by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
+&emsp;&emsp;&emsp;(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
 
 &emsp;&emsp;&emsp;(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
@@ -140,7 +140,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, formerly Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered §319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, §701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120.)
+(July 1, 1944, ch. 373, title III, §319L–1, formerly Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered §319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, §701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(c), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, §3103(c), Dec. 21, 2024, 138 Stat. 1763.)
 
 #### <b>Editorial Notes</b>
 
@@ -159,6 +159,12 @@ Section was formerly set out as a note under section 247d–6a of this title pri
 A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to section 247d–7g of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–158 substituted "March 31, 2025" for "December 31, 2024".
+
+Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 <b>2023</b>—Subsec. (b). Pub. L. 118–22 substituted "after January 19, 2024" for "at the end of the 17-year period that begins on the date of enactment of this Act".
 

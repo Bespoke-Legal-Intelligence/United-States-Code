@@ -24,7 +24,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 <sup>1</sup> of title 10 with all approvals and certifications required by such indemnification made by the Director; and
 
-&emsp;(l) to provide for the widest practicable and appropriate dissemination of information within the United States concerning the Foundation's activities and the results of those activities.
+&emsp;(l) to provide for the widest practicable and appropriate dissemination of informationwithin the United States concerning the Foundation's activities and the results of those activities.
 
 (May 10, 1950, ch. 171, §11, 64 Stat. 153; Pub. L. 86–232, §6, Sept. 8, 1959, 73 Stat. 468; Pub. L. 90–407, §9, July 18, 1968, 82 Stat. 365; Pub. L. 99–159, title I, §110(a)(14), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(d), Aug. 21, 1986, 100 Stat. 814; Pub. L. 110–69, title VII, §7023, Aug. 9, 2007, 121 Stat. 686; Pub. L. 117–167, div. B, title III, §10396(7), Aug. 9, 2022, 136 Stat. 1597.)
 
@@ -46,7 +46,7 @@ In subsec. (g), "section 501 of title 44" substituted for "section 87 of the Act
 
 <b>2022</b>—Subsec. (l). Pub. L. 117–167 added subsec. (l).
 
-<b>2007</b>—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end ", except that funds may be donated forspecific prize competitions for 'basic research' as defined in the Office of Management and Budget Circular No. A–11".
+<b>2007</b>—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end ", except that funds may be donated for specific prize competitions for 'basic research' as defined in the Office of Management and Budget Circular No. A–11".
 
 <b>1986</b>—Subsec. (k). Pub. L. 99–383 added subsec. (k).
 

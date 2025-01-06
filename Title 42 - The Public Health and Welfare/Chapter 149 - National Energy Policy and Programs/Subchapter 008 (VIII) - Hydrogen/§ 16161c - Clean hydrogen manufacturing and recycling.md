@@ -34,7 +34,7 @@
 
 &emsp;In carrying out the programs established under sections 16154 and 16161a of this title, the Secretary shall award multiyear grants to, and enter into contracts, cooperative agreements, or any other agreements authorized under this Act or other Federal law with, eligible entities for research, development, and demonstration projects to create innovative and practical approaches to increase the reuse and recycling of clean hydrogen technologies, including by—
 
-&emsp;&emsp;(A) increasing the efficiency and cost-effectiveness of the recovery of raw materials from clean hydrogen technology components and systems, including enabling technologies such as electrolyzers and fuel cells;
+&emsp;&emsp;(A) increasing the efficiency and cost-effectiveness of the recovery of raw materialsfrom clean hydrogen technology components and systems, including enabling technologies such as electrolyzers and fuel cells;
 
 &emsp;&emsp;(B) minimizing environmental impacts from the recovery and disposal processes;
 

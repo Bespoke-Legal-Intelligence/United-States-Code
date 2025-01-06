@@ -14,7 +14,7 @@ The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was
 
 #### Codification
 
-In cl. (a), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+In cl. (a), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966,80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
 
 In cls. (b) and (c), "section 5731 of title 5" and "section 5912 of title 5" substituted for "section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)" and "the Act approved June 26, 1930 (U.S.C., title 5, sec. 118a)", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5.
 

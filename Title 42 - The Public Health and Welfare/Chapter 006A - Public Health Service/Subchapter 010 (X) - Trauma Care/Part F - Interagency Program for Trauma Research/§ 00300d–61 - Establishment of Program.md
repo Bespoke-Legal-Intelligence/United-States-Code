@@ -48,7 +48,7 @@ The Program shall include—
 
 #### (e) Mechanisms of support
 
-In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1), may make grantsto public and nonprofit entities, including designated trauma centers.
+In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1), may make grants to public and nonprofit entities, including designated trauma centers.
 
 #### (f) Resources
 
@@ -92,7 +92,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
-(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138; Pub. L. 110–206, §5, Apr. 28, 2008, 122 Stat. 716; Pub. L. 113–152, §2(b), Aug. 8, 2014, 128 Stat. 1825.)
+(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29,1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138; Pub. L. 110–206, §5, Apr. 28, 2008, 122 Stat. 716; Pub. L. 113–152, §2(b), Aug. 8, 2014, 128 Stat. 1825.)
 
 #### <b>Editorial Notes</b>
 

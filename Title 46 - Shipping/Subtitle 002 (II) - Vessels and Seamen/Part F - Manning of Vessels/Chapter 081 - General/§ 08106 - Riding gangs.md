@@ -70,7 +70,7 @@ Workday Limit.—
 
 &emsp;(1)
 
-In general.—The maximum number of days in any calendar year that the owner or operator of a vessel to which subsection (a) applies may employ on board riding gang members who are neither United States citizens nor aliens lawfully admitted to the United States for permanent residence for work on board that vessel is 60 days. If the vessel is at sea on the 60th day, each riding gang member shall be discharged from the vessel at the next port of call reached by the vessel after the date on which the 60-workday limit is reached.
+In general.—The maximum number of days in any calendar year that the owner or operator of a vessel to which subsection (a) applies may employ on board riding gang members who are neither United States citizens nor aliens lawfully admitted to the United States for permanent residence for work on board that vessel is 60 days. If the vessel is at sea on the 60th day, each riding gang membershall be discharged from the vessel at the next port of call reached by the vessel after the date on which the 60-workday limit is reached.
 
 &emsp;(2)
 
@@ -104,7 +104,7 @@ Failure to Employ Qualified Available U.S. Citizens or Residents.—
 
 &emsp;(1)
 
-In general.—The owner or operator of a vessel to which subsection (a) applies may notemploy a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
+In general.—The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
 
 &emsp;(2)
 

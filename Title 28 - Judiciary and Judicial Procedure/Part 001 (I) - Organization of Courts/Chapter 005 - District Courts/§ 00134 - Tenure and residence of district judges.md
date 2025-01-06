@@ -38,7 +38,7 @@ The clause in said last paragraph of section 1 of title 28 providing that any di
 
 <b>1954</b>—Subsecs. (a) and (b) reenacted without change by act Feb. 10, 1954.
 
-Subsec. (c). Act Feb. 10, 1954, substituted entirely new provisions giving the judicial council of the circuit the authority to determine residence of district judges when it is in the public interest and the nature of the business of the district court necessitates the presence of a judge at or near a particular place for holdingcourt in the district or within a particular part of the district, for former provisions relating to residence of one of the district judges for the District of Kansas.
+Subsec. (c). Act Feb. 10, 1954, substituted entirely new provisions giving the judicial council of the circuit the authority to determine residence of district judges when it is in the public interest and the nature of the business of the district court necessitates the presence of a judge at or near a particular place for holding court in the district or within a particular part of the district, for former provisions relating to residence of one of the district judges for the District of Kansas.
 
 Subsecs. (d), (e). Act Feb. 10, 1954, struck out subsecs. (d) and (e) which related to residence of one of the district judges for the Southern District of California and one of the district judges for the Southern District of Texas.
 

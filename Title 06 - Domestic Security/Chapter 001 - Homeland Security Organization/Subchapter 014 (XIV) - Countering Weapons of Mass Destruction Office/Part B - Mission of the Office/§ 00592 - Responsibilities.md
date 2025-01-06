@@ -8,7 +8,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(2) enhance and coordinate the nuclear detection efforts of Federal, State, local, and tribal governments and the private sector to ensure a managed, coordinated response;
 
-&emsp;(3) establish, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of Defense, and the Secretary of Energy, additional protocols and procedures for use within the United States to ensure that the detection of unauthorized nuclear explosive devices, fissile material, or radiological material is promptly reported to the Attorney General, the Secretary, the Secretary of Defense, the Secretary of Energy, and other appropriate officials or their respective designees for appropriate action by law enforcement, military, emergency response, or other authorities;
+&emsp;(3) establish, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of Defense, and the Secretary of Energy, additional protocols and procedures for use within the United States toensure that the detection of unauthorized nuclear explosive devices, fissile material, or radiological material is promptly reported to the Attorney General, the Secretary, the Secretary of Defense, the Secretary of Energy, and other appropriate officials or their respective designees for appropriate action by law enforcement, military, emergency response, or other authorities;
 
 &emsp;(4) develop, with the approval of the Secretary and in coordination with the Attorney General, the Secretary of State, the Secretary of Defense, and the Secretary of Energy, an enhanced global nuclear detection architecture with implementation under which—
 

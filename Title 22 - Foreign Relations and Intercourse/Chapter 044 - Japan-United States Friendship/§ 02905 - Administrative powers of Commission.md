@@ -4,7 +4,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 &emsp;(1) prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 
-&emsp;(2) receive money and property donated, bequeathed, or devised, without condition or restriction other than that it be used for the purposes of this chapter; and to use, sell, or otherwise dispose of such property (includingtransfer to the Fund) for the purpose of carrying out the purposes of this chapter, and any such donation shall be exempt from any Federal income, State, or gift tax;
+&emsp;(2) receive money and property donated, bequeathed, or devised, without condition or restriction other than that it be used for the purposes of this chapter; and to use, sell, or otherwise dispose of such property (including transfer to the Fund) for the purpose of carrying out the purposes of this chapter, and any such donation shall be exempt from any Federal income, State, or gift tax;
 
 &emsp;(3) in the discretion of the Commission, receive (and use, sell, or otherwise dispose of, in accordance with paragraph (2)) money and other property donated, bequeathed, or devised to the Commission with a condition or restriction, including a condition that the Commission use other funds of the Commission for the purposes of the gift, and any such donation shall be exempt from any Federal income, State, or gift tax;
 

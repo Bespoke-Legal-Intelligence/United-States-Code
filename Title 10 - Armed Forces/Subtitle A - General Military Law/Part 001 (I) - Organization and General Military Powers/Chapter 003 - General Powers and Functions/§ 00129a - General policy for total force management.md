@@ -6,7 +6,7 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
+Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defenseworkforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
 
 (c)
 
@@ -22,7 +22,7 @@ Delegation of Responsibilities.—The Secretary shall delegate responsibility fo
 
 &emsp;(3) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 3001 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
-&emsp;(4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring thatthe budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
+&emsp;(4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 
 (d)
 
@@ -68,7 +68,7 @@ Performance of Civilian Functions by Military Personnel.—(1) Functions perform
 
 &emsp;&emsp;(i) the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress; and
 
-&emsp;&emsp;(ii) the military department concerned is in compliance with the policies, procedures, and analysis required by this section and section 129 of this title.
+&emsp;&emsp;(ii) the military department concerned is in compliance with the policies, procedures,and analysis required by this section and section 129 of this title.
 
 (2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 
@@ -186,7 +186,7 @@ Elements.—The policy required under paragraph (1) shall include the following 
 
 &emsp;&emsp;"(A) Establishment and assignment of responsibilities and authorities within the Department for oversight and execution of the planning, organization, and management of the programs to reestablish the readiness of redeployed operating forces.
 
-&emsp;&emsp;"(B) Guidance concerning priorities, goals, objectives, timelines, and resources to reestablish thereadiness of redeployed operating forces in support of national defense objectives and combatant command requirements.
+&emsp;&emsp;"(B) Guidance concerning priorities, goals, objectives, timelines, and resources to reestablish the readiness of redeployed operating forces in support of national defense objectives and combatant command requirements.
 
 &emsp;&emsp;"(C) Oversight reporting requirements and metrics for the evaluation of Department of Defense and military department progress on restoring the readiness of redeployed operating forces in accordance with the policy required under paragraph (1).
 

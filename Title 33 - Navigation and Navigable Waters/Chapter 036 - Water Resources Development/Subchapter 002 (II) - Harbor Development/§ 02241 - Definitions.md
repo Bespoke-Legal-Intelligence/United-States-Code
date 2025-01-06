@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 #### (2) Eligible operations and maintenance
 
-&emsp;(A) Except as provided in subparagraph (B), the term "eligible operations and maintenance" means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments thatare in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
+&emsp;(A) Except as provided in subparagraph (B), the term "eligible operations and maintenance" means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
 
 &emsp;(B) As applied to the Saint Lawrence Seaway, the term "eligible operations and maintenance" means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Great Lakes St. Lawrence Seaway Development Corporation in operation and reasonable state of repair.
 
@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 #### (4) Harbor
 
-&emsp;The term "harbor" means any channel or harbor, or element thereof, in the United States, capable of being utilized in the transportation of commercial cargo in domestic or foreign waterborne commerce by commercial vessels. The term does not include—
+&emsp;The term "harbor" means any channel or harbor, or element thereof, in the UnitedStates, capable of being utilized in the transportation of commercial cargo in domestic or foreign waterborne commerce by commercial vessels. The term does not include—
 
 &emsp;&emsp;(A) an inland harbor;
 

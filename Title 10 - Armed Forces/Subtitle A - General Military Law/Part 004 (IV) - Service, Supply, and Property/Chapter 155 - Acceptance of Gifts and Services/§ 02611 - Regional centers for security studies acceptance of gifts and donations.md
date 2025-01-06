@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Accept Gifts and Donations.—(1) Subject to subsection (c), the Secretary of Defense may, on behalf of any Department of Defense regional center for security studies, any combination of such centers, orsuch centers generally, accept from any source specified in subsection (b) any gift or donation for purposes of defraying the costs or enhancing the operation of such a center, combination of centers, or centers generally, as the case may be.
+Authority to Accept Gifts and Donations.—(1) Subject to subsection (c), the Secretary of Defense may, on behalf of any Department of Defense regional center for security studies, any combination of such centers, or such centers generally, accept from any source specified in subsection (b) any gift or donation for purposes of defraying the costs or enhancing the operation of such a center, combination of centers, or centers generally, as the case may be.
 
 (2) For purposes of this section, the Department of Defense regional centers for security studies are the following:
 

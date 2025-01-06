@@ -79,7 +79,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 > if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service (as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State."
 
-<b>1993</b>—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted "the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)" for "the Central Intelligence Agency Retirement Act of 1964 for Certain Employees".
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted "the Central Intelligence Agency RetirementAct (50 U.S.C. 2011 et seq.)" for "the Central Intelligence Agency Retirement Act of 1964 for Certain Employees".
 
 Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted "the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)" for "the Central Intelligence Agency Retirement Act of 1964 for Certain Employees".
 
@@ -93,7 +93,7 @@ Subsec. (e). Pub. L. 99–556, §405(b), added subsec. (e).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter,see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

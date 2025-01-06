@@ -18,7 +18,7 @@ The program under subsection (a) may be carried out in conjunction with or in ad
 
 #### (e) Coordination
 
-In carrying out subsection (a), and for any prize competitions under section 105 of theAmerica Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
+In carrying out subsection (a), and for any prize competitions under section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
 
 &emsp;(1) issue Department-wide guidance on the design, development, and implementation of prize competitions;
 
@@ -114,7 +114,7 @@ There are authorized to be appropriated—
 
 #### (ii) Prototypes
 
-&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), prizes authorized under subparagraph (A)(ii) shall be awarded biennially in alternate years from the prizes authorized under subparagraph (A)(i). The Secretary is authorized to award up to one prize in this category in each 2-year period. No such prize may exceed $4,000,000. If no registered participants meet the objective performance criteria established pursuant to subparagraph (C) for a competition under this clause, the Secretary shall not award a prize.
+&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), prizes authorized under subparagraph (A)(ii) shall be awarded biennially in alternate years from the prizes authorized under subparagraph (A)(i). The Secretaryis authorized to award up to one prize in this category in each 2-year period. No such prize may exceed $4,000,000. If no registered participants meet the objective performance criteria established pursuant to subparagraph (C) for a competition under this clause, the Secretary shall not award a prize.
 
 #### (iii) Transformational technologies
 
@@ -142,7 +142,7 @@ There are authorized to be appropriated—
 
 &emsp;To be eligible to win a prize under this subsection, an individual or entity—
 
-&emsp;&emsp;(A) shall have complied with all the requirements in accordance with the FederalRegister notice required under paragraph (1)(B)(ii);
+&emsp;&emsp;(A) shall have complied with all the requirements in accordance with the Federal Register notice required under paragraph (1)(B)(ii);
 
 &emsp;&emsp;(B) in the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen of, or an alien lawfully admitted for permanent residence in, the United States; and
 

@@ -66,7 +66,7 @@ The articles of any rural business investment company—
 
 #### (d) Diversification of ownership
 
-The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002, is sufficiently diversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
+The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002, is sufficientlydiversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
 
 (Pub. L. 87–128, title III, §384I, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 396; amended Pub. L. 110–234, title VI, §6027(c), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, §4(a), title VI, §6027(c), June 18, 2008, 122 Stat. 1664, 1944.)
 

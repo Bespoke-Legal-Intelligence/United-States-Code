@@ -16,7 +16,7 @@ The regional and subregional parts of the Action Strategy shall identify—
 
 &emsp;(1) regional priorities for ecological, economic, and social research on issues related to the impacts of harmful algal blooms and hypoxia;
 
-&emsp;(2) research, development, and demonstration activities needed to develop and advance technologies and techniques for minimizing the occurrence of harmful algal blooms and hypoxia and improving capabilities to detect, predict, monitor, control, mitigate, respond to, and remediate harmful algal blooms and hypoxia;
+&emsp;(2) research, development, and demonstration activities needed to develop and advance technologies and techniques for minimizing the occurrence of harmful algal blooms and hypoxia and improving capabilities to detect, predict, monitor, control, mitigate, respondto, and remediate harmful algal blooms and hypoxia;
 
 &emsp;(3) ways to reduce the duration and intensity of harmful algal blooms and hypoxia, including deployment of response technologies in a timely manner;
 

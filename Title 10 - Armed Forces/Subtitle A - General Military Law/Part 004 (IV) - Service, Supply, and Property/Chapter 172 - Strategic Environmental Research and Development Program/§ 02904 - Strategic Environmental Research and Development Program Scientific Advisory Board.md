@@ -24,7 +24,7 @@
 
 (d) The Advisory Board shall prescribe procedures for carrying out its responsibilities. Such procedures shall define a quorum as a majority of the members, provide for annual election of the Chairman by the members of the Advisory Board, and require at least four meetings of the Advisory Board each year.
 
-(e) The Council shall refer to the Advisory Board, and the Advisory Board shall review, each proposed research project including its estimated cost, for research in and development of technologies related to environmental activities in excess of $1,000,000. The Advisory Board shall make any recommendations to the Council thatthe Advisory Board considers appropriate regarding such project or proposal.
+(e) The Council shall refer to the Advisory Board, and the Advisory Board shall review, each proposed research project including its estimated cost, for research in and development of technologies related to environmental activities in excess of $1,000,000. The Advisory Board shall make any recommendations to the Council that the Advisory Board considers appropriate regarding such project or proposal.
 
 (f) The Advisory Board may make recommendations to the Council regarding technologies, research, projects, programs, activities, and, if appropriate, funding within the scope of the Strategic Environmental Research and Development Program.
 

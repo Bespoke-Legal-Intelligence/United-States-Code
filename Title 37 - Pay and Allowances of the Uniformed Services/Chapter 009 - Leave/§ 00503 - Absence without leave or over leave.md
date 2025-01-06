@@ -46,7 +46,7 @@ In subsections (a) and (b), the words "for the period of that absence" are subst
 
 <b>2023</b>—Subsec. (a). Pub. L. 118–31 designated existing provisions as par. (1), substituted "Subject to paragraph (2), a member" for "A member", and added par. (2).
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, which directed insertion of "Space Force," after "Marines Corps,", was executed by making the insertion after "Marine Corps," to reflect the probable intent of Congress.
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, which directed insertion of "Space Force," after "Marines Corps,", wasexecuted by making the insertion after "Marine Corps," to reflect the probable intent of Congress.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 

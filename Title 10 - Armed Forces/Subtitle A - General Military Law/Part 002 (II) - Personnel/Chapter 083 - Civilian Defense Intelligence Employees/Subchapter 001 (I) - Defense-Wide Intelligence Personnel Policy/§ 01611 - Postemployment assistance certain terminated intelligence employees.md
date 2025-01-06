@@ -30,7 +30,7 @@ Conditions.—Assistance may be provided to a qualified former intelligence empl
 
 Duration of Assistance.—Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual in a defense intelligence position.
 
-(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 107–107, div. A, title X, §1048(a)(15), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–306, title VIII, §811(b)(4)(B), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–177, title III, §361(h), Dec. 13, 2003, 117 Stat. 2625.)
+(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L.104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 107–107, div. A, title X, §1048(a)(15), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–306, title VIII, §811(b)(4)(B), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–177, title III, §361(h), Dec. 13, 2003, 117 Stat. 2625.)
 
 #### <b>Editorial Notes</b>
 

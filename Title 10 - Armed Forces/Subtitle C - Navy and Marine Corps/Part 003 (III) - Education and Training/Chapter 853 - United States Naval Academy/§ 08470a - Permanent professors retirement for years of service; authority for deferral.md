@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement for Years of Service.—(1) Except as provided in subsection (b), an officer of the Navy or Marine Corps serving as a permanent professor at the Naval Academy in the grade of commander or lieutenant colonel who is not on a list of officers recommended for promotion to the grade of captain or colonel, as thecase may be, shall, if not earlier retired, be retired on the first day of the month after the month in which the officer completes 28 years of active commissioned service.
+Retirement for Years of Service.—(1) Except as provided in subsection (b), an officer of the Navy or Marine Corps serving as a permanent professor at the Naval Academy in the grade of commander or lieutenant colonel who is not on a list of officers recommended for promotion to the grade of captain or colonel, as the case may be, shall, if not earlier retired, be retired on the first day of the month after the month in which the officer completes 28 years of active commissioned service.
 
 (2) Except as provided in subsection (b), an officer of the Navy or Marine Corps serving as a permanent professor at the Naval Academy in the grade of captain or colonel who is not on a list of officers recommended for promotion to the grade of rear admiral (lower half) or brigadier general, as the case may be, shall, if not earlier retired, be retired on the first day of the month after the month in which the officer completes 30 years of active commissioned service.
 
@@ -30,7 +30,7 @@ Retired Grade and Retired Pay.—Each officer retired under this section—
 
 #### References in Text
 
-Section 1370 of this title, referred to in subsec. (d)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
+Section 1370 of this title, referred to in subsec. (d)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c)of Pub. L. 116–283, set out as a note under section 1370 of this title.
 
 #### Amendments
 

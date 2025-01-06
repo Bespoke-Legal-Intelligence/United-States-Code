@@ -54,7 +54,7 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–146 amended section generally. Prior to amendment, section related to duration of registrations, affidavits of continuing use, grace period for submissions and correction of deficiencies, certain noticerequirements related to affidavits, and designation of resident for service of process and notices.
+<b>2010</b>—Pub. L. 111–146 amended section generally. Prior to amendment, section related to duration of registrations, affidavits of continuing use, grace period for submissions and correction of deficiencies, certain notice requirements related to affidavits, and designation of resident for service of process and notices.
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–273 amended subsec. (f) generally. Prior to amendment, text read as follows: "If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director."
 
@@ -86,7 +86,7 @@ Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided th
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, §109(c), Oct. 30, 1998, 112 Stat. 3069, provided that: "The provisions of section 8 of the Trademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to the filing of an affidavit if the sixth or tenth anniversary of the registration, or the sixth anniversary of publication of the registration under section 12(c) of the Trademark Act of 1946 \[15 U.S.C. 1062(c)\], for which the affidavit is filed is on or after the effective date of this Act \[probably should be "this title", see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\]."
+Pub. L. 105–330, title I, §109(c), Oct. 30, 1998, 112 Stat. 3069, provided that: "The provisions of section 8 of the Trademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to the filing of an affidavit if the sixth or tenth anniversary of the registration, or the sixth anniversary of publication of the registration under section 12(c) of the Trademark Act of1946 \[15 U.S.C. 1062(c)\], for which the affidavit is filed is on or after the effective date of this Act \[probably should be "this title", see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\]."
 
 #### Effective Date of 1988 Amendment
 

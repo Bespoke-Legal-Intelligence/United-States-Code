@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been served and shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
+&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been servedand shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
 
 #### (2) Sufficiency of notice
 
@@ -32,7 +32,7 @@
 
 #### (C) Intervention; etc.
 
-&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall bebound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
 
 #### (c) Summons to which section applies
 
@@ -80,7 +80,7 @@ No examination of any records required to be produced under a summons as to whic
 
 #### (1) Subsection (b) action
 
-&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
+&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons isissued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
 
 #### (2) Suspension after 6 months of service of summons
 
@@ -110,7 +110,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (1) Jurisdiction
 
-&emsp;The United States district court for the district within which the person to be summonedresides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
 
 #### (2) Special rule for proceedings under subsections (f) and (g)
 
@@ -138,7 +138,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 Nothing in this section shall be construed to limit the Secretary's ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 116–25, title I, §1204(a), July 1, 2019, 133 Stat. 988.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L.99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 116–25, title I, §1204(a), July 1, 2019, 133 Stat. 988.)
 
 #### <b>Editorial Notes</b>
 

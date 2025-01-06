@@ -82,7 +82,7 @@ Implementation.—If the Secretary of Defense makes an affirmative determination
 
 &emsp;"(3)
 
-Negative determination.—If the Secretary of Defense makes a negative determination in accordance with paragraph (1), the Secretary shall submit to the congressional defense committees notice of such determination, together with a justification for such determination. Such justification shall include—
+Negative determination.—If the Secretary of Defense makes a negative determination in accordance with paragraph (1), the Secretary shall submitto the congressional defense committees notice of such determination, together with a justification for such determination. Such justification shall include—
 
 &emsp;&emsp;"(A) how the Secretary intends to coordinate and harmonize covered academic engagement programs; and
 

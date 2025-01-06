@@ -66,7 +66,7 @@ Subsec. (a)(2) to (4). Pub. L. 110–289, §1103(b)(1)–(4), substituted "regul
 
 Subsec. (a)(5) to (7). Pub. L. 110–289, §1103(b)(5), added pars. (5) to (7).
 
-Subsec. (b). Pub. L. 110–289, §1161(a)(6), substituted "Committee on Financial Services" for "Committee on Banking, Finance and Urban Affairs" in introductory provisions.
+Subsec. (b). Pub. L. 110–289, §1161(a)(6), substituted "Committee on Financial Services" for "Committee onBanking, Finance and Urban Affairs" in introductory provisions.
 
 <b>1994</b>—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
 

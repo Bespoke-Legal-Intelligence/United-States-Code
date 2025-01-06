@@ -32,7 +32,7 @@ The Secretary of Energy shall establish and carry out a program for the identifi
 
 &emsp;(C) The National Council on Radiation Protection and Measurements.
 
-&emsp;(D) Any labor organization or other collective bargaining agent authorized to act on thebehalf of employees of a Department of Energy defense nuclear facility.
+&emsp;(D) Any labor organization or other collective bargaining agent authorized to act on the behalf of employees of a Department of Energy defense nuclear facility.
 
 (4) The Secretary shall provide for each employee identified under paragraph (1)(B) and provided with any medical examination or test under paragraph (1) to be notified by the appropriate medical personnel of the identification and the results of any such examination or test. Each notification under this paragraph shall be provided in a form that is readily understandable by the employee.
 
@@ -52,7 +52,7 @@ In this section:
 
 &emsp;(2) The term "Department of Energy employee" means any employee of the Department of Energy employed at a Department of Energy defense nuclear facility, including any employee of a contractor or subcontractor of the Department of Energy employed at such a facility.
 
-(Pub. L. 107–314, div. D, title XLVI, §4643, formerly Pub. L. 102–484, div. C, title XXXI, §3162, Oct. 23, 1992, 106 Stat. 2646; renumbered Pub. L. 107–314, div. D, title XLVI, §4643, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(14), Nov. 24, 2003, 117 Stat. 1779; Pub. L. 112–239, div. C, title XXXI, §3134(b)(2), Jan. 2, 2013, 126 Stat. 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(11), Dec. 26, 2013, 127 Stat. 1080.)
+(Pub. L. 107–314, div. D, title XLVI, §4643, formerly Pub. L. 102–484, div. C, title XXXI, §3162, Oct. 23, 1992, 106 Stat. 2646; renumbered Pub. L. 107–314, div. D, title XLVI, §4643, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(14), Nov. 24, 2003, 117 Stat. 1779; Pub. L. 112–239, div. C, title XXXI, §3134(b)(2), Jan. 2, 2013, 126 Stat.2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(11), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### <b>Editorial Notes</b>
 

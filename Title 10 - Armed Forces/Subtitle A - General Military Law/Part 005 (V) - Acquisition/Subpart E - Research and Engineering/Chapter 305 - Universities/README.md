@@ -179,7 +179,7 @@ Elements.—The master plan required under subsection (a) shall include, with re
 
 &emsp;&emsp;"(F) methods that leverage funding from entities outside the Department, including public-private partnerships, enhanced use leases and real property exchanges;
 
-&emsp;&emsp;"(G) the authority to conduct commercial test and evaluation activities at a Major Range andTest Facility Installation, under section 2681 of title 10, United States Code \[now 10 U.S.C. 4175\]; and
+&emsp;&emsp;"(G) the authority to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation, under section 2681 of title 10, United States Code \[now 10 U.S.C. 4175\]; and
 
 &emsp;&emsp;"(H) any other authorities and methods determined to be appropriate by the Secretary of Defense.
 
@@ -193,7 +193,7 @@ Consultation and Coordination.—In developing and implementing the plan require
 
 &emsp;"(2) ensure consistency with the science and technology roadmaps and strategies of the Department of Defense and the Armed Forces; and
 
-&emsp;"(3) ensure consistency with the strategic plan for test and evaluation resources required by section 196(d) of title 10, United States Code \[now 10 U.S.C. 4173(d)\].
+&emsp;"(3) ensure consistency with the strategic plan for test and evaluation resources required by section196(d) of title 10, United States Code \[now 10 U.S.C. 4173(d)\].
 
 "(d)
 

@@ -10,7 +10,7 @@ Members of Foreign Service.—In addition to the officers and employees provided
 
 (c)
 
-Field Offices.—In establishing and staffing field offices pursuant to section 406(d) of thistitle, the Administrator of the Agency for International Development shall not be bound by overseas personnel ceilings.
+Field Offices.—In establishing and staffing field offices pursuant to section 406(d) of this title, the Administrator of the Agency for International Development shall not be bound by overseas personnel ceilings.
 
 (d)
 
@@ -54,7 +54,7 @@ Pub. L. 95–452, §8A(e), formerly (g), as added Pub. L. 97–113, title VII, �
 
 In subsection (b), the reference to "section 406(a)(7) of this title" is substituted for "section 6(a)(6) of this Act" for clarity and to correct an error in the law. In the source law (section 8A(c) of the Inspector General Act of 1978), the reference to "section 6(a)(6) of this Act" is incorrect. Section 6(a)(6) of the Inspector General Act of 1978 was redesignated as section 6(a)(7) of that Act by section 107(1) of the Inspector General Act Amendments of 1988 (Public Law 100–504, 102 Stat. 2528).
 
-In subsection (c), the words "overseas personnel ceilings" are substituted for "overseas personnel ceilings established under the Monitoring Overseas Direct Employment policy" to eliminate obsolete language. The Monitoring Overseas Direct Employment (MODE) policy was superseded by National Security Decision Directive No. 38 (NSDD–38) (June 2, 1982). (See https://www.state.gov/m/pri/nsdd/45148.htm, last visited December 14, 2017).
+In subsection (c), the words "overseas personnel ceilings" are substituted for "overseas personnel ceilings established under the Monitoring Overseas Direct Employment policy" to eliminate obsolete language. TheMonitoring Overseas Direct Employment (MODE) policy was superseded by National Security Decision Directive No. 38 (NSDD–38) (June 2, 1982). (See https://www.state.gov/m/pri/nsdd/45148.htm, last visited December 14, 2017).
 
 #### <b>Editorial Notes</b>
 

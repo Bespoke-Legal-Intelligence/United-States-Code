@@ -32,7 +32,7 @@ Pub. L. 109–163, div. A, title V, §507(b), Jan. 6, 2006, 119 Stat. 3228, subs
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §507(b), Nov. 24, 2003, 117 Stat. 1458, added item 528.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title V, §501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 "Limitation onnumber of officers on active duty in grades of general and admiral".
+<b>2001</b>—Pub. L. 107–107, div. A, title V, §501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 "Limitation on number of officers on active duty in grades of general and admiral".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IV, §405(b)(2), title XVI, §1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struck out item 524 "Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain", struck out "524," after "523," in item 527, and added item 528.
 

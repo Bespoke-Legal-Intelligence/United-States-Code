@@ -32,7 +32,59 @@ Environmental Analysis and Coordination Requirements.—A Federal agency, other 
 
 &emsp;(3) as necessary, consult with the State to describe the supplemental analysis the State must provide to meet applicable Federal requirements.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E),Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85; Pub. L. 112–95, title V, §502, Feb. 14, 2012, 126 Stat. 103; Pub. L. 115–254, div. B, title I, §139, Oct. 5, 2018, 132 Stat. 3210.)
+(e)
+
+Training for Participating States.—
+
+&emsp;(1)
+
+In general.—The Secretary shall provide to each State participating in the block grant program under this section training or updated training materials for the administrative responsibilities assumed by the State under such program at no cost to the State.
+
+&emsp;(2)
+
+Timing.—The training or updated training materials provided under paragraph (1) shall be provided at least once during each 2-year period and at any time there is a material change in the program.
+
+(f)
+
+Roles and Responsibilities of Participating States.—
+
+&emsp;(1)
+
+Airports.—Unless a State participating in the block grant program under this section expressly agrees in a memorandum of agreement, the Secretary shall not require the State to manage functions and responsibilities for airport actions or projects that do not relate to such program.
+
+&emsp;(2)
+
+Program documentation.—
+
+&emsp;&emsp;(A)
+
+In general.—Any grant agreement providing funds to be administered under such program shall be consistent with themost recently executed memorandum of agreement between the State and the Federal Aviation Administration.
+
+&emsp;&emsp;(B)
+
+Parity.—The Administrator of the Federal Aviation Administration shall provide parity to participating States and shall only require the same type of information and level of detail for any program agreements and documentation that the Administrator would perform with respect to such action if the State did not participate in the program.
+
+&emsp;(3)
+
+Responsibilities.—Unless the State expressly agrees to retain responsibility, the Administrator shall retain responsibility for the following:
+
+&emsp;&emsp;(A) Grant compliance investigations, determinations, and enforcement.
+
+&emsp;&emsp;(B) Obstruction evaluation and airport airspace analysis, determinations, and enforcement off airport property.
+
+&emsp;&emsp;(C) Non-rulemaking analysis, determinations, and enforcement for proposed improvements on airport properties not associated with this subchapter, or off airport property.
+
+&emsp;&emsp;(D) Land use determinations, compatibility planning, and airport layout plan review and approval (consistent with section 47107(x)) for projects not funded by amounts available under this subchapter.
+
+&emsp;&emsp;(E) Nonaeronautical and special event recommendations and approvals.
+
+&emsp;&emsp;(F) Instrument approach procedure evaluations and determinations.
+
+&emsp;&emsp;(G) Environmental review for projects not funded by amounts available under this subchapter.
+
+&emsp;&emsp;(H) Review and approval of land leases, land releases, changes in on-airport land-use designation, and through-the-fence agreements.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85; Pub. L. 112–95, title V, §502, Feb. 14, 2012, 126 Stat. 103; Pub. L. 115–254, div. B, title I, §139, Oct. 5, 2018, 132 Stat. 3210; Pub. L. 118–63, title VII, §720(a), (b), May 16, 2024, 138 Stat. 1262.)
 
 Historical and Revision Notes
 
@@ -91,6 +143,10 @@ This makes a clarifying amendment to the catchline for 49:47128(d).
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e). Pub. L. 118–63, §720(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 118–63, §720(b), added subsec. (f).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 substituted "not more than 20 qualified States for each fiscal year" for "not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter".
 

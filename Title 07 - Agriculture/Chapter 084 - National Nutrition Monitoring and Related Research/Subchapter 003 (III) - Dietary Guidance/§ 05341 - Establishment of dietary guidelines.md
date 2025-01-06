@@ -12,7 +12,7 @@
 
 #### (3) Pregnant women and young children
 
-&emsp;Not later than the 2020 report and in each report thereafter, the Secretaries shall includenational nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
+&emsp;Not later than the 2020 report and in each report thereafter, the Secretaries shall include national nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
 
 #### (b) Approval by Secretaries
 
@@ -42,7 +42,7 @@
 
 #### (D) Notification of disapproval
 
-&emsp;&emsp;If after the thirty-day period for comment as provided under subparagraph (A)(ii), both Secretaries disapprove a proposed dietary guidance, the Secretaries shall notify the Federal agency submitting such guidance of such disapproval, and such guidance may not be issued, except as provided in subparagraph (E).
+&emsp;&emsp;If after the thirty-day period for comment as provided under subparagraph (A)(ii), bothSecretaries disapprove a proposed dietary guidance, the Secretaries shall notify the Federal agency submitting such guidance of such disapproval, and such guidance may not be issued, except as provided in subparagraph (E).
 
 #### (E) Review of disapproval
 
@@ -64,7 +64,7 @@ This section does not place any limitations on—
 
 &emsp;(2) the presentation of any scientific or medical findings or the exchange or review of scientific or medical information by any Federal agency; or
 
-&emsp;(3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+&emsp;(3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321 <sup>1</sup> et seq.).
 
 (Pub. L. 101–445, title III, §301, Oct. 22, 1990, 104 Stat. 1042; Pub. L. 113–79, title IV, §4204, Feb. 7, 2014, 128 Stat. 822.)
 
@@ -77,4 +77,6 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act 
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(3). Pub. L. 113–79 added par. (3).
+
+<i><sup>1</sup></i><i> So in original. Probably should be "301".</i>
 

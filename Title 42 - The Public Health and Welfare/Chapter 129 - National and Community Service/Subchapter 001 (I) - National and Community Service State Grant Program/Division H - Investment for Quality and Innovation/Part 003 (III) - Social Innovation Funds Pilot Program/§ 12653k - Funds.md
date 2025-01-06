@@ -6,7 +6,7 @@ Congress finds the following:
 
 &emsp;(1) Social entrepreneurs and other nonprofit community organizations are developing innovative and effective solutions to national and local challenges.
 
-&emsp;(2) Increased public and private investment in replicating and expanding proven effectivesolutions, and supporting new solutions, developed by social entrepreneurs and other nonprofit community organizations could allow those entrepreneurs and organizations to replicate and expand proven initiatives, and support new initiatives, in communities.
+&emsp;(2) Increased public and private investment in replicating and expanding proven effective solutions, and supporting new solutions, developed by social entrepreneurs and other nonprofit community organizations could allow those entrepreneurs and organizations to replicate and expand proven initiatives, and support new initiatives, in communities.
 
 &emsp;(3) A network of Social Innovation Funds could leverage Federal investments to increase State, local, business, and philanthropic resources to replicate and expand proven solutions and invest in supporting new innovations to tackle specific identified community challenges.
 
@@ -110,7 +110,7 @@ To be eligible to receive a grant under subsection (d) for national leveraging c
 
 &emsp;(1) an assurance that the eligible entity will—
 
-&emsp;&emsp;(A) use the funds received through that capital in order to make subgrants to community organizations that will use the fundsto replicate or expand proven initiatives, or support new initiatives, in low-income communities;
+&emsp;&emsp;(A) use the funds received through that capital in order to make subgrants to community organizations that will use the funds to replicate or expand proven initiatives, or support new initiatives, in low-income communities;
 
 &emsp;&emsp;(B) in making decisions about subgrants for communities, consult with a diverse cross section of community representatives in the decisions, including individuals from the public, nonprofit private, and for-profit private sectors; and
 
@@ -148,7 +148,7 @@ To be eligible to receive a grant under subsection (d) for national leveraging c
 
 &emsp;&emsp;(D) provide a well-defined plan for replicating, expanding, or supporting the initiatives funded;
 
-&emsp;&emsp;(E) can sustain the initiatives after the subgrant period concludes through reliable public revenues, earned income, or private sector funding;
+&emsp;&emsp;(E) can sustain the initiatives after the subgrant period concludes through reliablepublic revenues, earned income, or private sector funding;
 
 &emsp;&emsp;(F) have strong leadership and financial and management systems;
 
@@ -228,7 +228,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (2) Periods; amounts
 
-&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and not more than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
+&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and notmore than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
 
 #### (3) Applications
 
@@ -290,7 +290,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or support research with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
+&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or supportresearch with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the success of the initiatives in improving measurable outcomes; and
 

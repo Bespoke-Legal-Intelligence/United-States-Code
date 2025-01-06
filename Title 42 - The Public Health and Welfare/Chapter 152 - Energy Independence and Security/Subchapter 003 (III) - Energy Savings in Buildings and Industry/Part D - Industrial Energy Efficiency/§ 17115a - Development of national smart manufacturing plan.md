@@ -8,7 +8,7 @@ Not later than 3 years after December 27, 2020, the Secretary of Energy (in this
 
 #### (1) In general
 
-&emsp;The plan developed under subsection (a) shall identify areas in which agency actions by the Secretary and other heads of relevant Federal agencies would—
+&emsp;The plan developed under subsection (a) shall identify areas in which agency actionsby the Secretary and other heads of relevant Federal agencies would—
 
 &emsp;&emsp;(A) facilitate quicker development, deployment, and adoption of smart manufacturing technologies and processes;
 

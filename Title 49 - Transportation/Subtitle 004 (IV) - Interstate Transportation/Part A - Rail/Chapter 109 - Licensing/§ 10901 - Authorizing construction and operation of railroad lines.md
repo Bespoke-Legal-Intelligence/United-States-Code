@@ -12,7 +12,7 @@
 
 > only if the Board issues a certificate authorizing such activity under subsection (c).
 
-(b) A proceeding to grant authority under subsection (a) of this section begins when an application is filed. On receiving the application, the Board shall give reasonable public notice, including notice to the Governor of any affected State, of the beginning of such proceeding.
+(b) A proceeding to grant authority under subsection (a) of this section begins when an application is filed. On receiving the application, theBoard shall give reasonable public notice, including notice to the Governor of any affected State, of the beginning of such proceeding.
 
 (c) The Board shall issue a certificate authorizing activities for which such authority is requested in an application filed under subsection (b) unless the Board finds that such activities are inconsistent with the public convenience and necessity. Such certificate may approve the application as filed, or with modifications, and may require compliance with conditions (other than labor protection conditions) the Board finds necessary in the public interest.
 

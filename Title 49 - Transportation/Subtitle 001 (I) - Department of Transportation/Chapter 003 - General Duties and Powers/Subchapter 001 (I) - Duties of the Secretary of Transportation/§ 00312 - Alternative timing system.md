@@ -56,7 +56,7 @@ Plan required.—Not later than 180 days after the date of enactment of the Nati
 
 &emsp;&emsp;(A) A plan to develop, construct, and operate the system required by subsection (a).
 
-&emsp;&emsp;(B) A description and assessment of the advantages of a system to provide a follow-oncomplementary and backup positioning and navigation capability to the timing component of GPS.
+&emsp;&emsp;(B) A description and assessment of the advantages of a system to provide a follow-on complementary and backup positioning and navigation capability to the timing component of GPS.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Deadline for commencement of operation.—The system required by subsection (a) 
 
 &emsp;(3)
 
-Minimum duration of operational capability.—The system required by subsection (a) shall be designed to be fully operational for not less than 20 years.
+Minimum duration of operational capability.—The system required by subsection (a)shall be designed to be fully operational for not less than 20 years.
 
 (d)
 
@@ -140,7 +140,7 @@ Section 1618 of the National Defense Authorization Act for Fiscal Year 2017, ref
 
 #### Effective Date of 2021 Amendment
 
-Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115–282, see section 8507(d)(7) ofPub. L. 116–283, set out as a note under section 1226 of Title 33, Navigation and Navigable Waters.
+Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115–282, see section 8507(d)(7) of Pub. L. 116–283, set out as a note under section 1226 of Title 33, Navigation and Navigable Waters.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

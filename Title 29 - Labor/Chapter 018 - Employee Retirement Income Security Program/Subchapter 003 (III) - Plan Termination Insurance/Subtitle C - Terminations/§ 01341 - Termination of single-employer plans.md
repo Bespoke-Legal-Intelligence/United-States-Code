@@ -166,7 +166,7 @@
 
 #### (A) Information submitted to the corporation
 
-&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribedby the corporation in regulations, the following information:
+&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
 
 &emsp;&emsp;&emsp;(i) such information as the corporation may prescribe by regulation as necessary to make determinations under subparagraph (B) and paragraph (3);
 
@@ -284,7 +284,7 @@
 
 #### (i) Cases of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution, in the manner described in subsection (b)(3), and shall take such other actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient forbenefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution, in the manner described in subsection (b)(3), and shall take such other actions as may be appropriate to carry out the termination of the plan.
 
 #### (ii) Cases of sufficiency for guaranteed benefits without a finding of sufficiency for benefit liabilities
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (e) Limitation on the conversion of a defined benefit plan to a defined contribution plan
 
-The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) or distress termination under subsection (c).
+The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plansatisfies the requirements for standard termination under subsection (b) or distress termination under subsection (c).
 
 (Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
 
@@ -502,7 +502,7 @@ Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Em
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
+Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in planyears commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
 Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified."
 
@@ -582,7 +582,7 @@ Special notice regarding sufficiency for terminations for which notices of suffi
 
 &emsp;&emsp;&emsp;"(ii)
 
-Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
+Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been providedthe notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
 
 &emsp;&emsp;"(C)
 

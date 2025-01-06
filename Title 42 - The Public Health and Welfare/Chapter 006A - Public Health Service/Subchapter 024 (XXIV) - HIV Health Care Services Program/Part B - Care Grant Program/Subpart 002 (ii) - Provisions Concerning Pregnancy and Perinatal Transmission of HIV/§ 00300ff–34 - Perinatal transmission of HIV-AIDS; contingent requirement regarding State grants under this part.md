@@ -6,7 +6,7 @@ A State shall annually determine the rate of reported cases of AIDS as a result 
 
 #### (b) Causes of perinatal transmission
 
-In determining the rate under subsection (a), a State shall also determine the possible causes ofperinatal transmission. Such causes may include—
+In determining the rate under subsection (a), a State shall also determine the possible causes of perinatal transmission. Such causes may include—
 
 &emsp;(1) the inadequate provision within the State of prenatal counseling and testing in accordance with the guidelines issued by the Centers for Disease Control and Prevention;
 

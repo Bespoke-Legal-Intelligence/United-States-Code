@@ -20,7 +20,7 @@ As used in this part:
 
 #### (4) Insured System bank
 
-&emsp;The term "insured System bank" means any System bank whose participation in notes, bonds, debentures, and other obligations issued under subsection (c) or (d) of section 2153 of this title is insured under this part.
+&emsp;The term "insured System bank" means any System bank whose participation in notes, bonds, debentures, and other obligationsissued under subsection (c) or (d) of section 2153 of this title is insured under this part.
 
 #### (5) State
 

@@ -36,7 +36,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (3) Reassignment to another vessel
 
-&emsp;For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be consideredproperly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
+&emsp;For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
 
 #### (4) Multiple containers
 
@@ -78,7 +78,7 @@ Section applicable to petitions for certification filed under part 2 or 3 of sub
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

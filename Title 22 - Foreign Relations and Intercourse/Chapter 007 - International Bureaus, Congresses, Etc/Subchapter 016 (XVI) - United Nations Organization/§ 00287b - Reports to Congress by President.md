@@ -56,7 +56,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;&emsp;&emsp;(VI) training;
 
-&emsp;&emsp;(iii) the approximate percentage of all such contributions to the United Nations and to each such agency or body when compared with all contributions to the United Nations and to each such agency or body from any source; and
+&emsp;&emsp;(iii) the approximate percentage of all such contributions to the United Nationsand to each such agency or body when compared with all contributions to the United Nations and to each such agency or body from any source; and
 
 &emsp;&emsp;(iv) for each such United States Government contribution to the United Nations and to each such agency or body—
 
@@ -80,7 +80,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 #### (3) United Nations reform
 
-&emsp;(A)(i) A description of the status of efforts to establish and implement an independent officeof the Inspector General at the United Nations.
+&emsp;(A)(i) A description of the status of efforts to establish and implement an independent office of the Inspector General at the United Nations.
 
 &emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
 
@@ -196,7 +196,7 @@ Nothing in this section is intended to alter or supersede any notification requi
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

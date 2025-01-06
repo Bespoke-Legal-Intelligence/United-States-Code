@@ -338,14 +338,6 @@ This section may not be construed to require that the number of full-time equiva
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 357 of this title, referred to in subsec. (a)(2)(B)(iii), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
-
-The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(2)(B)(iv), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 301 of this title and Tables.
-
-Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsec. (c)(2)(B)(ii)(III), is section 101(b) of Pub. L. 115–52, set out as a note under section 379g of this title.
-
 #### Amendments
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–180, §1003(a)(1)(A), substituted "fiscal year 2023" for "fiscal year 2018" in introductory provisions.
@@ -438,7 +430,7 @@ Subsec. (d)(3). Pub. L. 115–52, §102(d)(2), (3), redesignated par. (4) as (3)
 
 Subsec. (d)(3)(A). Pub. L. 115–52, §102(d)(4)(A), substituted "paragraph (1)(C)" for "paragraph (1)(D)".
 
-Subsec. (d)(3)(B). Pub. L. 115–52, §102(d)(4), substituted "paragraph (1)(C)" for "paragraph (1)(D)", struck out cl. (i) designation before "application fees", substituted a period for "; and" after "qualify as a small business", and struck out cl. (ii), which read as follows: "all supplement fees for all supplements to human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business."
+Subsec. (d)(3)(B). Pub. L. 115–52, §102(d)(4), substituted "paragraph (1)(C)" for "paragraph (1)(D)", struck out cl. (i) designation before "application fees", substituteda period for "; and" after "qualify as a small business", and struck out cl. (ii), which read as follows: "all supplement fees for all supplements to human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business."
 
 Subsec. (d)(4). Pub. L. 115–52, §102(d)(3), redesignated par. (4) as (3).
 
@@ -506,7 +498,7 @@ Subsec. (c)(1). Pub. L. 110–85, §103(c)(1), amended par. (1) by substituting 
 
 Subsec. (c)(2). Pub. L. 110–85, §103(c)(2)(A), substituted "For fiscal year 2009 and subsequent fiscal years," for "Beginning with fiscal year 2004," in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 110–85, §103(c)(2)(B), substituted "human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available." for "human drug applications, commercial investigational new drug applications, efficacy supplements, and manufacturing supplements submitted to the Secretary." in first sentence.
+Subsec. (c)(2)(A). Pub. L. 110–85, §103(c)(2)(B), substituted "human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period forwhich data on such submissions is available." for "human drug applications, commercial investigational new drug applications, efficacy supplements, and manufacturing supplements submitted to the Secretary." in first sentence.
 
 Subsec. (c)(2)(B). Pub. L. 110–85, §103(c)(2)(C), inserted at end "Any adjustment for changes in review activities made in setting fees and revenue amounts for fiscal year 2009 may not result in the total workload adjustment being more than 2 percentage points higher than it would have been in the absence of the adjustment for changes in review activities."
 
@@ -558,13 +550,13 @@ Subsec. (a)(3)(B). Pub. L. 107–188, §504(a)(4)(B), substituted "A prescriptio
 
 Subsec. (b). Pub. L. 107–188, §504(b), amended heading and text of subsec. (b) generally, substituting "Fee revenue amounts" for "Fee amounts" in heading and substituting fee schedules for fiscal years 2003 to 2007 for fee provisions relating to fiscal years 1998 to 2002.
 
-Subsec. (c)(1). Pub. L. 107–188, §504(c)(1)(A), (D), substituted "revenues" for "fees and total fee revenues" inintroductory provisions and "fiscal year 2003" for "fiscal year 1997" in concluding provisions.
+Subsec. (c)(1). Pub. L. 107–188, §504(c)(1)(A), (D), substituted "revenues" for "fees and total fee revenues" in introductory provisions and "fiscal year 2003" for "fiscal year 1997" in concluding provisions.
 
 Subsec. (c)(1)(A). Pub. L. 107–188, §504(c)(1)(B), struck out "during the preceding fiscal year" before "in the Consumer Price Index" and substituted "for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or" for ", or".
 
 Subsec. (c)(1)(B). Pub. L. 107–188, §504(c)(1)(C), substituted "for the previous fiscal year" for "for such fiscal year".
 
-Subsec. (c)(2) to (5). Pub. L. 107–188, §504(c)(2)–(4), added pars. (2) and (3), redesignated former pars. (2) and (3) as (4) and (5), respectively, and amended heading and text of par. (4) generally. Prior to amendment, text of par. (4) read as follows: "Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section."
+Subsec. (c)(2) to (5). Pub. L. 107–188, §504(c)(2)–(4), added pars. (2) and (3), redesignated former pars. (2) and (3) as (4) and (5), respectively, and amended heading and text of par. (4) generally. Prior to amendment, text of par. (4) read as follows: "Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the endof each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section."
 
 Subsec. (d)(1)(C) to (E). Pub. L. 107–188, §504(d)(1), inserted "or" at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "assessment of the fee for an application or a supplement filed under section 355(b)(1) of this title pertaining to a drug containing an active ingredient would be inequitable because an application for a product containing the same active ingredient filed by another person under section 355(b)(2) of this title could not be assessed fees under subsection (a)(1) of this section, or".
 
@@ -628,9 +620,9 @@ Subsec. (b). Pub. L. 105–115, §103(b), amended subsec. (b) generally. Prior t
 
 Subsec. (c). Pub. L. 105–115, §103(c)(1), substituted "Adjustments" for "Increases and adjustments" in heading.
 
-Subsec. (c)(1). Pub. L. 105–115, §103(c)(2), substituted "Inflation adjustment" for "Revenue increase" in heading, "The fees and total fee revenues established in subsection (b) shall be adjusted by the Secretary" for "The total fee revenues established by the schedule in subsection (b)(1) shall be increased by the Secretary"in introductory provisions, and "change" for "increase" after "total percentage" in subpars. (A) and (B), and inserted at end "The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection."
+Subsec. (c)(1). Pub. L. 105–115, §103(c)(2), substituted "Inflation adjustment" for "Revenue increase" in heading, "The fees and total fee revenues established in subsection (b) shall be adjusted by the Secretary" for "The total fee revenues established by the schedule in subsection (b)(1) shall be increased by the Secretary" in introductory provisions, and "change" for "increase" after "total percentage" in subpars. (A) and (B), and inserted at end "The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection."
 
-Subsec. (c)(2). Pub. L. 105–115, §103(c)(3), substituted "September 30, 1997, adjust the establishment and product fees described in subsection (b) for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b)." for "October 1, 1992, adjust the fees established by the schedule in subsection (b)(1) for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule."
+Subsec. (c)(2). Pub. L. 105–115, §103(c)(3), substituted "September 30, 1997, adjust the establishment and product fees described in subsection (b) for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b)." for "October 1, 1992, adjust the fees established by the schedule in subsection (b)(1)for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule."
 
 Subsec. (c)(3). Pub. L. 105–115, §103(c)(4), substituted "this subsection" for "paragraph (2)".
 

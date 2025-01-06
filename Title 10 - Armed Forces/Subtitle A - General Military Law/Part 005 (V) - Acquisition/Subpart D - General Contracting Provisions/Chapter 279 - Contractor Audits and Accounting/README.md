@@ -27,7 +27,7 @@ A prior chapter 279 "CONTRACTOR AUDITS AND ACCOUNTING", as added by Pub. L. 115�
 
 #### Contractor Business Systems
 
-Pub. L. 115–232, div. A, title VIII, §824(b), Aug. 13, 2018, 132 Stat. 1856, provided that: "Not later than 120 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall revise the Defense Federal Acquisition Regulation Supplement to conform with the amendments to section 893 of the Ike SkeltonNational Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2302 note \[now 10 U.S.C. 3841 note prec.\]) made by this section."
+Pub. L. 115–232, div. A, title VIII, §824(b), Aug. 13, 2018, 132 Stat. 1856, provided that: "Not later than 120 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall revise the Defense Federal Acquisition Regulation Supplement to conform with the amendments to section 893 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2302 note \[now 10 U.S.C. 3841 note prec.\]) made by this section."
 
 Pub. L. 111–383, div. A, title VIII, §893, Jan. 7, 2011, 124 Stat. 4311, as amended by Pub. L. 112–81, div. A, title VIII, §816, Dec. 31, 2011, 125 Stat. 1493; Pub. L. 113–291, div. A, title X, §1071(b)(1)(C), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 114–328, div. A, title VIII, §893, Dec. 23, 2016, 130 Stat. 2324; Pub. L. 115–91, div. A, title X, §1081(d)(8), Dec. 12, 2017, 131 Stat. 1600; Pub. L. 115–232, div. A, title VIII, §824(a), Aug. 13, 2018, 132 Stat. 1856; Pub. L. 116–283, div. A, title VIII, §806, Jan. 1, 2021, 134 Stat. 3742, provided that:
 
@@ -75,7 +75,7 @@ Remedial Actions.—The program developed pursuant to subsection (a) shall provi
 
 "(e)
 
-Guidance and Training.—The program developed pursuant to subsection (a) shall provide guidance and training to appropriate government officials on the data that is produced by contractor business systems and the manner in which such data should be used to effectively manage Department of Defense programs.
+Guidance and Training.—The program developed pursuant to subsection (a) shall provide guidance andtraining to appropriate government officials on the data that is produced by contractor business systems and the manner in which such data should be used to effectively manage Department of Defense programs.
 
 "(f)
 

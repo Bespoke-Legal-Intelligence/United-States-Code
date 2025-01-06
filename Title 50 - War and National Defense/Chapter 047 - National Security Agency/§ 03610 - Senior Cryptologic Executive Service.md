@@ -56,7 +56,7 @@ Section was formerly classified in a note under section 402 of this title prior 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(5). Pub. L. 104–106 struck out par. (5), which required the Director of the National SecurityAgency to submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate annual reports on executive personnel in the National Security Agency.
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–106 struck out par. (5), which required the Director of the National Security Agency to submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate annual reports on executive personnel in the National Security Agency.
 
 <b>1989</b>—Subsec. (a)(1)(F). Pub. L. 101–194, §506(c)(2)(A), struck out "and" at end of subpar. (F).
 

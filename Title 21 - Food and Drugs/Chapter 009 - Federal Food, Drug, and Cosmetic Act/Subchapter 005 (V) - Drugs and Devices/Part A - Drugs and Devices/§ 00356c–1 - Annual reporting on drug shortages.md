@@ -38,10 +38,6 @@ In this section, the term "drug shortage" or "shortage" has the meaning given su
 
 (June 25, 1938, ch. 675, §506C–1, as added Pub. L. 112–144, title X, §1002, July 9, 2012, 126 Stat. 1102; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(F), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 117–328, div. FF, title III, §3616(b)(1), Dec. 29, 2022, 136 Stat. 5875.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by Pub. L. 117–328 applicable with respect to reports submitted under section 356c–1 of this title on or after Mar. 31, 2024. See 2022 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Amendments
@@ -52,7 +48,7 @@ Subsec. (a)(5)(A). Pub. L. 117–328, §3616(b)(1)(C), substituted "paragraph (9
 
 Subsec. (a)(6) to (9). Pub. L. 117–328, §3616(b)(1)(A), redesignated pars. (4) to (7) as (6) to (9), respectively.
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–255, in introductory provisions, substituted "Not later than March 31 of eachcalendar year," for "Not later than the end of calendar year 2013, and not later than the end of each calendar year thereafter," and inserted ", with respect to the preceding calendar year," after "a report".
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, in introductory provisions, substituted "Not later than March 31 of each calendar year," for "Not later than the end of calendar year 2013, and not later than the end of each calendar year thereafter," and inserted ", with respect to the preceding calendar year," after "a report".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

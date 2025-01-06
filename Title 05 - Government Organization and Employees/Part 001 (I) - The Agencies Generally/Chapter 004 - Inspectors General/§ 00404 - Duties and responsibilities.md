@@ -72,7 +72,7 @@ Public disclosure otherwise prohibited by law.—Nothing in this subsection shal
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 4 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 4 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §5273(1), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L.</i><i>117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4210, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 4 of Pub. L. 95–452 was amended in subsection (a)(2) as follows:</i>
+<i>This section was derived from section 4 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 4 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §5273(1), Dec. 23, 2022, 136 Stat. 3241, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4210, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 4 of Pub. L. 95–452 was amended in subsection (a)(2) as follows:</i>
 
 <i>(1) by inserting ", including" after "to make recommendations"; and</i>
 
@@ -107,6 +107,8 @@ In subsection (c), the word "ensuring" is substituted for "insuring" for clarity
 #### References in Text
 
 Paragraph (1), referred to in subsec. (b)(1)(C), means par. (1) of subsec. (b) of this section, but probably should be a reference to subpar. (A) of subsec. (b)(1) of this section. Prior to repeal and restatement as this section, subsec. (b)(1) of the source section had been redesignated as subsec. (b)(1)(A) by Pub. L. 100–504, title I, §109(1), (2), Oct. 18, 1988, 102 Stat. 2529, with no conforming amendment to the reference, and the restated text carried over such reference without change.
+
+\-
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

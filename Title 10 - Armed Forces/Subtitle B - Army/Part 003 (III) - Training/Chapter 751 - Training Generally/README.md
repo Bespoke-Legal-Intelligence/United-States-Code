@@ -28,7 +28,7 @@
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1051(a)(27)(B), Dec. 12, 2017, 131 Stat. 1562, struck out item 4316 "Reporting requirements".
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(c)(2), (d)(2), Oct. 14, 2008, 122 Stat. 4459, 4460, added items 4314 and 4321 and struck out former items 4314 "United States Army Command and General Staff College degree" and 4321 "United States Army War College: master of strategic studies degree".
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(c)(2), (d)(2), Oct. 14, 2008, 122 Stat. 4459, 4460, added items 4314 and4321 and struck out former items 4314 "United States Army Command and General Staff College degree" and 4321 "United States Army War College: master of strategic studies degree".
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §542(b), Oct. 5, 1999, 113 Stat. 607, added item 4321.
 

@@ -28,7 +28,7 @@ The report required by this section shall contain information that, at a minimum
 
 #### (2) Ineligibility for funds
 
-&emsp;For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),<sup>1</sup> whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
+&emsp;For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State undersubpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),<sup>1</sup> whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
 
 #### (d) Reallocation
 

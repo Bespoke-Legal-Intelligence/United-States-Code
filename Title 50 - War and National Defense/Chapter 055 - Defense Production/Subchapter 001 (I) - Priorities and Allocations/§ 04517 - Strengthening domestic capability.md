@@ -46,9 +46,9 @@ In subsec. (b)(2)(B)(ii), "section 3303(a)(1)(B) of title 41 or section 3304(a)(
 
 <b>2021</b>—Subsec. (b)(2)(B)(i), (ii). Pub. L. 117–81, §1702(k)(4), which directed the amendment of section 107(b)(2)(B) of the Defense Production Act by adding cls. (i) and (ii) and striking out former cls. (i) and (ii), was executed by making amendments to this section, section 107(b)(2)(B) of the Defense Production Act of 1950, to reflect the probable intent of Congress. Prior to amendment, cls. (i) and (ii) read as follows:
 
-&emsp;"(i) section 2304(b)(1)(B) or section 2304(c)(3) of title 10;
+"(i) section 2304(b)(1)(B) or section 2304(c)(3) of title 10;
 
-&emsp;"(ii) section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41; or".
+"(ii) section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41; or".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–67, §6(1), inserted "restore," after "modernize," and "materials," after "items,".
 

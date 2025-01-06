@@ -8,7 +8,7 @@ The goals of this section are—
 
 &emsp;(2) to understand how variable weather, environments, and production systems impact the growth and productivity of specific varieties of crops and species of animals in order to provide greater accuracy in predicting crop and animal performance under variable conditions;
 
-&emsp;(3) to support research that leverages plant and animal genomic information with phenotypic and environmental data through an interdisciplinary framework, leading to a novel understanding of plant and animal processes that affect growth, productivity, and the ability to predict performance, which will result in the deployment of superior varieties and species to producers and improved crop and animal management recommendations for farmers and ranchers;
+&emsp;(3) to support research that leverages plant and animal genomic information with phenotypic and environmental data through an interdisciplinary framework, leading to a novel understanding of plant and animal processes that affect growth, productivity, and the ability to predict performance, which will result in the deployment of superior varietiesand species to producers and improved crop and animal management recommendations for farmers and ranchers;
 
 &emsp;(4) to catalyze and coordinate research that links genomics and predictive phenomics at different sites across the United States to achieve advances in crops and animals that generate societal benefits;
 
@@ -96,7 +96,7 @@ The Secretary may use funds made available under this section to consult with th
 
 There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547; Pub. L. 107–171, title VII, §7208(a), May 13, 2002, 116 Stat. 442; Pub. L. 110–234, title VII, §7406(d)(2), May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7406(d)(2), June 18, 2008, 122 Stat. 1664, 2013; Pub. L. 113–79, title VII, §§7128(b)(2)(B), 7208, Feb. 7, 2014, 128 Stat. 878, 881; Pub. L. 115–334, title VII, §§7208, 7614(b)(2)(B), Dec. 20, 2018, 132 Stat. 4805, 4834.)
+(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s),Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547; Pub. L. 107–171, title VII, §7208(a), May 13, 2002, 116 Stat. 442; Pub. L. 110–234, title VII, §7406(d)(2), May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7406(d)(2), June 18, 2008, 122 Stat. 1664, 2013; Pub. L. 113–79, title VII, §§7128(b)(2)(B), 7208, Feb. 7, 2014, 128 Stat. 878, 881; Pub. L. 115–334, title VII, §§7208, 7614(b)(2)(B), Dec. 20, 2018, 132 Stat. 4805, 4834.)
 
 #### <b>Editorial Notes</b>
 
@@ -142,7 +142,7 @@ Subsec. (b)(7), (8). Pub. L. 107–171, §7208(a)(2)–(4), added par. (7) and r
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or otherawards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 
 #### Effective Date of 2008 Amendment
 

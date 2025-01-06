@@ -20,7 +20,7 @@ General Requirements.—(1) Not later than July 25, 1993, the Attorney General s
 
 &emsp;(B) the National Crime Information Center Policy Advisory Board to ensure the security of the information in the System and that the System will not compromise the security of stolen passenger motor vehicle and passenger motor vehicle parts information in the System.
 
-(3) If the Attorney General decides that the Center is not able to perform the functions ofthe System, the Attorney General shall make an agreement for the operation of the System separate from the Center.
+(3) If the Attorney General decides that the Center is not able to perform the functions of the System, the Attorney General shall make an agreement for the operation of the System separate from the Center.
 
 (4) The Attorney General shall prescribe by regulation the effective date of the System.
 
@@ -120,5 +120,5 @@ In subsection (c)(1), the words "and appoint" are omitted as unnecessary because
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of 2-year period beginning on date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration ofsuch 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of 2-year period beginning on date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 

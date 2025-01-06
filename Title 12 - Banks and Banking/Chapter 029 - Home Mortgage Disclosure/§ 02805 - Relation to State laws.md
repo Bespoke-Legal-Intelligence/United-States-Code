@@ -20,7 +20,7 @@ Subsec. (b). Pub. L. 111–203, §1094(5), added subsec. (b) and struck out form
 
 &emsp;"(1) section 1818 of this title in the case of national banks, by the Comptroller of the Currency; and
 
-&emsp;"(2) section 1818 of this title, by the Director of the Office of Thrift Supervision in the case of a savingsassociation the deposits of which are insured by the Federal Deposit Insurance Corporation."
+&emsp;"(2) section 1818 of this title, by the Director of the Office of Thrift Supervision in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation."
 
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 1464(d) of this title in the case of any institution subject to that provision, by the Federal Home Loan Bank Board."
 

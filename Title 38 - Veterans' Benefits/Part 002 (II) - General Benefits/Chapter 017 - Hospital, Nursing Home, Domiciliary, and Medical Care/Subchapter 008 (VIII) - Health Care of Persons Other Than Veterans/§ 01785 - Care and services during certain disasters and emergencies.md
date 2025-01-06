@@ -10,7 +10,7 @@ Covered Disasters and Emergencies.—A disaster or emergency referred to in this
 
 &emsp;(1) A major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-&emsp;(2) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) <sup>1</sup> is activated by the Secretary of Health and Human Servicesunder that section or as otherwise authorized by law.
+&emsp;(2) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) <sup>1</sup> is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
 (c)
 

@@ -38,7 +38,7 @@ Provisions relating to determination of marital status were formerly contained i
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 ofPub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1988 Amendment
 

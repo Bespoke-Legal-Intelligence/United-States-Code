@@ -2,7 +2,7 @@
 
 (a)
 
-Cost Identification and Analysis.—The head of each executive agency shall develop a system to identify, collect, and analyze data with respect to all costs (including obligations and outlays) the agency incurs in the operation, maintenance, acquisition, and disposition of motor vehicles, including vehicles owned or leased by the Federal Government and privately owned vehicles used for official purposes.
+Cost Identification and Analysis.—The head of each executive agency shall develop a system to identify, collect, and analyze data with respect to all costs (including obligationsand outlays) the agency incurs in the operation, maintenance, acquisition, and disposition of motor vehicles, including vehicles owned or leased by the Federal Government and privately owned vehicles used for official purposes.
 
 (b)
 

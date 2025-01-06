@@ -42,7 +42,7 @@ Subsec. (b)(2). Pub. L. 113–240, §3(3)(B)(i), (ii), substituted "treatment, c
 
 Subsec. (b)(4), (5). Pub. L. 113–240, §3(3)(B)(iii)–(D), added pars. (4) and (5).
 
-Subsec. (d). Pub. L. 113–240, §3(4), struck out subsec. (d). Text read as follows: "There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013."
+Subsec. (d). Pub. L. 113–240, §3(4), struck out subsec. (d). Text read as follows: "There are authorized to beappropriated to carry out this section $5,000,000 for fiscal year 2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–237 substituted "2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013." for "2008, $5,062,500 for fiscal year 2009, $5,125,000 for fiscal year 2010, $5,187,500 for fiscal year 2011, and $5,250,000 for fiscal year 2012."
 

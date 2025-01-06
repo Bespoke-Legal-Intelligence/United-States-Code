@@ -22,5 +22,5 @@ A prior section 324 of Pub. L. 92–225 was renumbered section 319, and is class
 
 #### Effective Date
 
-Section effective Nov. 6, 2002, but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
+Section effective Nov. 6, 2002, but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an EffectiveDate of 2002 Amendment; Regulations note under section 30101 of this title.
 

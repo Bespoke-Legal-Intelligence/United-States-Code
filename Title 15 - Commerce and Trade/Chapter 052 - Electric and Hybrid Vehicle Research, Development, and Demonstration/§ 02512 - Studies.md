@@ -6,7 +6,7 @@ The Secretary of Energy shall conduct a study to determine the existence of any 
 
 #### (b) Material demand and pollution effect; impact statement
 
-The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy's current findings in each report submitted under section 2513 <sup>1</sup> of this title. Any environmental impact statement which may be filed under a Federal law with respect to research, development, or demonstration activities under this chapter shall include reference to the matters which are subject to assessment under this subsection.
+The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy's current findings in each report submitted under section 2513 <sup>1</sup> of this title. Any environmental impact statement which may be filed under a Federallaw with respect to research, development, or demonstration activities under this chapter shall include reference to the matters which are subject to assessment under this subsection.
 
 #### (c) Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987
 
@@ -54,7 +54,7 @@ In subsec. (c), "section 32904(a)(1) of title 49" substituted for "section 503(a
 
 January 7, 1980, referred to in subsec. (c)(2), was in the original "enactment of the Act" which has been translated as meaning the date of enactment of Pub. L. 96–185 as the probable intent of Congress in view of the fact that section 18 of Pub. L. 96–185 enacted subsec. (c)(1) to (3) of this section.
 
-A part of par. (2) of section 2512(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, as added by Pub. L. 96–185, has not been included in the text of subsec. (c)(2) of this section. The omitted provision consists of directory language for an amendment of section 2003 of this title and the indicated amendment has been executed to the text of that section as directed.
+A part of par. (2) of section 2512(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, as added by Pub. L. 96–185, has not been included in the text of subsec. (c)(2) of thissection. The omitted provision consists of directory language for an amendment of section 2003 of this title and the indicated amendment has been executed to the text of that section as directed.
 
 In subsec. (d), "Secretary of Transportation" substituted for "Secretary" in two places for clarity, see Codification note set out under section 2502 of this title.
 

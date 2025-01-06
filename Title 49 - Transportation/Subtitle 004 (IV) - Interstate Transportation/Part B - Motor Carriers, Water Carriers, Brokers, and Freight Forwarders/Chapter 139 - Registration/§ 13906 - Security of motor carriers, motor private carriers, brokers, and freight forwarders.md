@@ -138,7 +138,7 @@ Surety bonds.—A surety bond obtained under this section may only be obtained f
 
 &emsp;&emsp;(D)
 
-Proof of trust or other financial security.—For purposes of subparagraph (A), a trust fund or other financial security may not be accepted by the Secretary unless the trust fund or other financial security consists of assets readily available to pay claims without resort to personal guarantees or collection of pledged accounts receivable.
+Proof of trust or other financial security.—For purposes of subparagraph\(A), a trust fund or other financial security may not be accepted by the Secretary unless the trust fund or other financial security consists of assets readily available to pay claims without resort to personal guarantees or collection of pledged accounts receivable.
 
 &emsp;(2)
 
@@ -230,7 +230,7 @@ Civil penalties.—If the Secretary determines, after notice and opportunity for
 
 &emsp;&emsp;(C)
 
-Eligibility.—If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provide freight forwarder financial security for 3 years
+Eligibility.—If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter hasviolated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provide freight forwarder financial security for 3 years
 
 &emsp;(9)
 

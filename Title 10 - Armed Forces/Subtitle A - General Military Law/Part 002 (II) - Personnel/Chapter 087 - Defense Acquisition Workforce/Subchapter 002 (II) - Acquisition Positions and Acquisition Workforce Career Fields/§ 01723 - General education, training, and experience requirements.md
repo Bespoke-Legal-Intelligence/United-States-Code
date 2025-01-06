@@ -32,7 +32,7 @@ Subsec. (a)(3). Pub. L. 116–92, §902(18)(A), substituted "Under Secretary of 
 
 Pub. L. 116–92, §861(a)(4)(A), struck out second sentence which read as follows: "Any requirement for a certification renewal shall not require a renewal more often than once every five years."
 
-Subsec. (b). Pub. L. 116–92, §902(18)(B), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in introductory provisions.
+Subsec. (b). Pub. L. 116–92, §902(18)(B), substituted "Under Secretary of Defense for Acquisition andSustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in introductory provisions.
 
 Pub. L. 116–92, §861(h), struck out "the critical acquisition-related" after "qualifications in" in introductory provisions.
 

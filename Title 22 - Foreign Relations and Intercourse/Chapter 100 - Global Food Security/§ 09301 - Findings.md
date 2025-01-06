@@ -86,7 +86,7 @@ Interagency Efforts.—In carrying out subsections (a) and (b), the Administrato
 
 "(a)
 
-In General.—The Administrator, in coordination with the Nutrition Leadership Council, shall select foreign countries as priority countries for purposes of targeting programs to prevent and treat malnutrition globally.
+In General.—The Administrator, in coordination with the Nutrition Leadership Council, shall selectforeign countries as priority countries for purposes of targeting programs to prevent and treat malnutrition globally.
 
 "(b)
 

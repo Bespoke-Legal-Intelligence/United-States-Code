@@ -26,7 +26,7 @@ Any property (including aircraft, vehicles, vessels, or draft animals) used to t
 
 #### Amendments
 
-<b>1958</b>—Subsec. (e). Pub. L. 85–859 included property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsec. (a).
+<b>1958</b>—Subsec. (e). Pub. L. 85–859 included property used to transport or for the deposit or concealment ofproperty which is intended to be used in the making or packaging of property described in subsec. (a).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

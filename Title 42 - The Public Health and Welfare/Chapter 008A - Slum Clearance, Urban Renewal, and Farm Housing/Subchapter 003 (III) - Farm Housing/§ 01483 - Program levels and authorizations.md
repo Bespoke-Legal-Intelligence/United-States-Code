@@ -128,7 +128,7 @@ Subsec. (b)(7). Pub. L. 98–479, §105(d)(2), substituted "1490m of this title"
 
 &emsp;"(3) not more than $5,000,000 of such amount so approved shall be available for making advances under section 1471(e) of this title for such fiscal year; and
 
-&emsp;"(4) none of such amount shall be available for loans guaranteed pursuant to this title on behalf of borrowers who do not receive assistance pursuant to subparagraph (B) or (C) of section 1490a(a)(1) of this title.
+&emsp;"(4) none of such amount shall be available for loans guaranteed pursuant to this title on behalf of borrowers who do not receive assistance pursuant to subparagraph (B) or (C) of section 1490a(a)(1) of this title."
 
 Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting "There are authorized to be appropriated for fiscal years 1984 and 1985—
 
@@ -146,7 +146,7 @@ Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting "There
 
 &emsp;"(7) not to exceed $100,000,000 for each such year for grants under section 1490k of this title; of which 5 per centum shall be available for technical assistance; and
 
-&emsp;"(8) such sums as may be required by the Secretary to administer the provisions of sections 1715z and 1715z–1 of title 12 and section 1437f of this title"
+&emsp;"(8) such sums as may be required by the Secretary to administer the provisions of sections 1715z and 1715z–1 of title 12 and section 1437f of this title."
 
 > &emsp;for "There are authorized to be appropriated—
 

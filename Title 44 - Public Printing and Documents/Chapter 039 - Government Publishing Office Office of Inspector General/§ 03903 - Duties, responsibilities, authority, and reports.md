@@ -30,7 +30,7 @@
 
 (ii) After providing notice to the appropriate committees of Congress, the Inspector General may add requirements to the certification required under clause (i), as determined appropriate by the Inspector General.
 
-(B) The Inspector General shall maintain firearms-related requirements (including quarterly firearms qualifications) and use of force trainingrequirements that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in accordance with the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate Department of Justice guidelines.
+(B) The Inspector General shall maintain firearms-related requirements (including quarterly firearms qualifications) and use of force training requirements that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in accordance with the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate Department of Justice guidelines.
 
 (C)(i) The Inspector General shall—
 

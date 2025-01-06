@@ -8,7 +8,7 @@ In the event that a political union is effected at a future time between the Ter
 
 &emsp;(iii) no action is taken that would in any manner discourage such unification.
 
-> Whenever any discrepancy exists or arises between the benefits available for either said territory or Commonwealth under any policies or programs authorized by law (including, but not limited to, any formulas for matching grants-in-aid or comparable programs or benefits), the most favorable terms available to either said territory or Commonwealth shall be deemed applicable to said unified area after the effective date of unification.
+> Whenever any discrepancy exists or arises between the benefits available for either said territory or Commonwealth under any policies or programs authorized by law (including, but not limited to, any formulas for matching grants-in-aid or comparable programs or benefits), themost favorable terms available to either said territory or Commonwealth shall be deemed applicable to said unified area after the effective date of unification.
 
 (Pub. L. 96–597, title VI, §602, Dec. 24, 1981, 94 Stat. 3480.)
 

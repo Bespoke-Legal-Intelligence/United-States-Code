@@ -12,7 +12,7 @@ In General.—(1) Subject to paragraph (2), the Secretary of the Navy may exerci
 
 (b)
 
-Conveyance Authority.—(1) The Secretary of the Navy may convey to any public or private person or entity all right, title, and interest of the United States in and to any real property (including any improvements thereon) or personal property under the jurisdiction of the Secretary in the State of Hawaii that the Secretary determines—
+Conveyance Authority.—(1) The Secretary of the Navy may convey to any public or privateperson or entity all right, title, and interest of the United States in and to any real property (including any improvements thereon) or personal property under the jurisdiction of the Secretary in the State of Hawaii that the Secretary determines—
 
 &emsp;(A) is excess to the needs of the Navy and all of the other armed forces; and
 
@@ -92,7 +92,7 @@ Use of Account.—(1) Subject to paragraph (2), to the extent provided in advanc
 
 &emsp;(ii) The Department of Defense Military Unaccompanied Housing Improvement Fund established by section 2883(a)(2) of this title.
 
-(B) Amounts transferred under subparagraph (A) to a fund referred to in that subparagraph shall be available in accordance with the provisions of section 2883 of this title for activities authorized under subchapter IV of this chapter at Ford Island.
+(B) Amounts transferred under subparagraph (A) to a fund referred to in that subparagraph shall be available in accordance with the provisions of section 2883 of this title for activitiesauthorized under subchapter IV of this chapter at Ford Island.
 
 (j)
 

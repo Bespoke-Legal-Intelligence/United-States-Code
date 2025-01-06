@@ -138,7 +138,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) For purposes of subparagraph (A), the term "legislative day" means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
-(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall bethe procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
+(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
 (5) Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26, but only with respect to benefits guaranteed under this subsection.
 

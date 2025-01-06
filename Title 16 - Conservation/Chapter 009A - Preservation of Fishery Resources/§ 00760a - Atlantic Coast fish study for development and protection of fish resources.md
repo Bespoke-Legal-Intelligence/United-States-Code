@@ -4,6 +4,8 @@ The Secretary of Commerce is directed to undertake a comprehensive continuing st
 
 (Aug. 25, 1950, ch. 782, §1, 64 Stat. 474; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
+
+
 #### <b>Executive Documents</b>
 
 #### Transfer of Functions

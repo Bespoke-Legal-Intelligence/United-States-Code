@@ -18,7 +18,7 @@ Based upon any review under subsection (a), the Attorney General is requested to
 
 #### (c) Action by the President
 
-In consideration of the statement of the Congress set forth in section 4202(a) of this title, the President is requested to offer pardons to any individuals recommended by the Attorney General under subsection (b).
+In consideration of the statement of the Congress set forth in section 4202(a) of this title, thePresident is requested to offer pardons to any individuals recommended by the Attorney General under subsection (b).
 
 (Pub. L. 100–383, title I, §102, Aug. 10, 1988, 102 Stat. 904.)
 

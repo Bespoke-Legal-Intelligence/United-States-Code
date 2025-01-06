@@ -26,7 +26,7 @@ The words "The chaplain may be reappointed" are substituted for the words "and s
 
 #### 1962 Act
 
-The change reflects the opinion of the Assistant General Counsel, Civil Service Commission (GC: JHF:fz, May 4, 1959), that those parts of section 4337 and 9337 of title 10 that relate to the salaries of the chaplains at the United States Military Academy and the United States Air Force Academy were superseded by the Classification Act of 1949 (5 U.S.C. 1071 et seq.). While the positions of chaplain at those Academies are not specifically covered by the Act, the Act has been determined to apply to those positions in accordance with section 203 thereof (5 U.S.C. 1083).
+The change reflects the opinion of the Assistant General Counsel, Civil Service Commission (GC: JHF:fz, May 4, 1959), that those parts of section 4337 and 9337 of title 10 that relate to the salaries of the chaplains atthe United States Military Academy and the United States Air Force Academy were superseded by the Classification Act of 1949 (5 U.S.C. 1071 et seq.). While the positions of chaplain at those Academies are not specifically covered by the Act, the Act has been determined to apply to those positions in accordance with section 203 thereof (5 U.S.C. 1083).
 
 #### <b>Editorial Notes</b>
 

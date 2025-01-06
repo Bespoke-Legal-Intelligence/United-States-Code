@@ -24,7 +24,7 @@
 
 #### (4) Exemption from capital requirements
 
-&emsp;The Administrator may, in the discretion of the Administrator, approve leverage for any licensee licensed under subsection (c) or (d) of section 681 of this title before September 30, 1996, that does not meet the capital requirements of paragraph (1), if—
+&emsp;The Administrator may, in the discretion of the Administrator, approve leverage for anylicensee licensed under subsection (c) or (d) of section 681 of this title before September 30, 1996, that does not meet the capital requirements of paragraph (1), if—
 
 &emsp;&emsp;(A) the licensee certifies in writing that not less than 50 percent of the aggregate dollar amount of its financings after September 30, 1996, will be provided to smaller enterprises; and
 
@@ -72,7 +72,7 @@ Subsec. (a)(4). Pub. L. 104–208, §208(c)(2), added par. (4).
 
 Subsec. (c). Pub. L. 104–208, §208(c)(3), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "The aggregate amount of shares in any such company or companies which may be owned or controlled by any stockholder, or by any group or class of stockholders, may be limited by the Administration."
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–366 substituted "1992 pursuant to section 681(c) of this title shall be not less than $2,500,000 and pursuant to section 681(d) of this title shall be not less than $1,500,000" for "1979 pursuant to section 681(c) and (d) of this title shall be not less than $500,000" and inserted at end "The Administration shall also determine the ability of the company, both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company's owners and managers, the history of the company as an entity, if any, and the company's financial resources."
+<b>1992</b>—Subsec. (a). Pub. L. 102–366 substituted "1992 pursuant to section 681(c) of this title shall be not less than $2,500,000 and pursuant to section 681(d) of this title shall be not less than $1,500,000" for "1979 pursuant to section 681(c) and (d) of this title shall be not less than $500,000" and inserted at end "The Administration shall also determine the ability of the company, bothprior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company's owners and managers, the history of the company as an entity, if any, and the company's financial resources."
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–507 provided that the combined private paid-in capital and paid-in surplus of any company licensed on or after Oct. 1, 1979 pursuant to section 681(c) and (d) of this title would not be less than $500,000.
 

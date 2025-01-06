@@ -12,7 +12,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled "Provisions A
 
 #### Codification
 
-Section was formerly classified to section 611 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+Section was formerly classified to section 611 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

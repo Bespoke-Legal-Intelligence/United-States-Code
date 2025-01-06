@@ -194,7 +194,7 @@ Sponges
 
 &emsp;(35) The term "Pacific Insular Area" means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
 
-&emsp;(36) The term "person" means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of anyState), and any Federal, State, local, or foreign government or any entity of any such government.
+&emsp;(36) The term "person" means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
 &emsp;(37) The term "recreational fishing" means fishing for sport or pleasure.
 
@@ -224,7 +224,7 @@ Sponges
 
 &emsp;(45) The term "United States", when used in a geographical context, means all the States thereof.
 
-&emsp;(46) The term "United States fish processors" means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
+&emsp;(46) The term "United States fish processors" means facilities located within theUnited States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
 
 &emsp;(47) The term "United States harvested fish" means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
 

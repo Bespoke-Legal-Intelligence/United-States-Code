@@ -12,7 +12,7 @@ The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 11
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–128 substituted "enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act" for "enter into anagreement with the Secretary regarding the implementation of the Workforce Investment Act of 1998 that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b))".
+<b>2014</b>—Pub. L. 113–128 substituted "enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act" for "enter into an agreement with the Secretary regarding the implementation of the Workforce Investment Act of 1998 that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b))".
 
 <b>2006</b>—Pub. L. 109–233 substituted "implementation of the Workforce Investment Act of 1998" for "implementation of this Act" and inserted "(29 U.S.C. 2822(b))" before period at end.
 

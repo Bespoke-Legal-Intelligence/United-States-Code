@@ -16,7 +16,7 @@ In text, "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the
 
 #### Prior Provisions
 
-A prior section 2992a, Pub. L. 88–452, title VIII, §811, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81Stat. 723; amended Pub. L. 92–424, §26(b), Sept. 19, 1972, 86 Stat. 703, related to terms of service, providing in: subsec. (a) for commitment to full-time service; subsec. (b) for one-year enrollment and shorter enrollment for volunteer associates; and subsec. (c) for oath or affirmation, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
+A prior section 2992a, Pub. L. 88–452, title VIII, §811, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 723; amended Pub. L. 92–424, §26(b), Sept. 19, 1972, 86 Stat. 703, related to terms of service, providing in: subsec. (a) for commitment to full-time service; subsec. (b) for one-year enrollment and shorter enrollment for volunteer associates; and subsec. (c) for oath or affirmation, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
 
 A prior section 812 of Pub. L. 88–452 was renumbered section 813 and is classified to section 2992b of this title.
 

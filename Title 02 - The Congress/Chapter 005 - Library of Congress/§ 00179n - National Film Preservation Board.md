@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) The American Film Institute.
 
-&emsp;&emsp;(G) The Department of Film, Television, and Digital Media of the School of Theater, Film and Television at the University of California, Los Angeles.
+&emsp;&emsp;(G) The Department of Film, Television, and Digital Media of the School of Theater,Film and Television at the University of California, Los Angeles.
 
 &emsp;&emsp;(H) The Department of Cinema Studies of the Tisch School of the Arts at New York University.
 

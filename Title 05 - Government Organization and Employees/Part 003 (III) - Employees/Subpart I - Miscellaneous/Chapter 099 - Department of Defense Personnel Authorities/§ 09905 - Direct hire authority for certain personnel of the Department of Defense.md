@@ -66,7 +66,7 @@ Sections 1112 and 1113 of Pub. L. 114–92, referred to in subsec. (c)(2), are s
 
 Sections 1110 and 1643(a)(3) of Pub. L. 114–328, referred to in subsec. (c)(3), are section 1110 of Pub. L. 114–328, div. A, title XI, Dec. 23, 2016, 130 Stat. 2450, which is set out as a note preceding section 1580 of Title 10, Armed Forces, and section 1643(a)(3) of Pub. L. 114–328, div. A, title XVI, Dec. 23, 2016, 130 Stat. 2602, which is set out in a note under section 1599f of Title 10.
 
-Sections 559 and 1101 of Pub. L. 115–91, referred to in subsec. (c)(4), are section 559 of Pub. L. 115–91, div. A, title V, Dec. 12, 2017, 131 Stat. 1406, which is set out as a note under section 1792 of Title 10, Armed Forces, and section 1101 of Pub. L. 115–91, div. A, title XI, Dec. 12, 2017, 131 Stat. 1627, which is set out as a note preceding section 1580 of Title 10.
+Sections 559 and 1101 of Pub. L. 115–91, referred to in subsec. (c)(4), are section 559 of Pub. L. 115–91, div. A,title V, Dec. 12, 2017, 131 Stat. 1406, which is set out as a note under section 1792 of Title 10, Armed Forces, and section 1101 of Pub. L. 115–91, div. A, title XI, Dec. 12, 2017, 131 Stat. 1627, which is set out as a note preceding section 1580 of Title 10.
 
 #### Amendments
 

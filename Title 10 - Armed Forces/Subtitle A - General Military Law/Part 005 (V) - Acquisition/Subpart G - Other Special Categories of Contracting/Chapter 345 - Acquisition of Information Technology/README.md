@@ -43,7 +43,7 @@ Pub. L. 114–92, div. A, title VIII, §883(e), Nov. 25, 2015, 129 Stat. 947, pr
 
 #### Designation of Military Department Entity Responsible for Acquisition of Critical Cyber Capabilities
 
-Pub. L. 114–92, div. A, title XVI, §1645, Nov. 25, 2015, 129 Stat. 1117, which required the Secretary of Defenseto designate an entity within a military department to be responsible for the acquisition of certain critical cyber capabilities, was repealed by Pub. L. 117–263, div. A, title XV, §1509(j), Dec. 23, 2022, 136 Stat. 2890.
+Pub. L. 114–92, div. A, title XVI, §1645, Nov. 25, 2015, 129 Stat. 1117, which required the Secretary of Defense to designate an entity within a military department to be responsible for the acquisition of certain critical cyber capabilities, was repealed by Pub. L. 117–263, div. A, title XV, §1509(j), Dec. 23, 2022, 136 Stat. 2890.
 
 #### Supervision of the Acquisition of Cloud Computing Capabilities
 
@@ -71,7 +71,7 @@ Direction.—The Secretary shall provide direction to the Armed Forces and the D
 
 "(b)
 
-Integration With Intelligence Community Efforts.—The Secretary shall coordinate with the Director of National Intelligence to ensure that activities under this section are integrated with the Intelligence Community Information Technology Enterprise in order to achieve interoperability, information sharing, and other efficiencies.
+Integration With Intelligence Community Efforts.—The Secretary shall coordinate with the Director of National Intelligence to ensure that activities under this section are integrated with the Intelligence Community Information Technology Enterprise inorder to achieve interoperability, information sharing, and other efficiencies.
 
 "(c)
 

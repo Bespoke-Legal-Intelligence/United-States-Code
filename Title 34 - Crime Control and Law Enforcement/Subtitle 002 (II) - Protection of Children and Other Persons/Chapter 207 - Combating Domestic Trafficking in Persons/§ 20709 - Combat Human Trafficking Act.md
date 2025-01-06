@@ -26,7 +26,7 @@ In this section:
 
 #### (5) Local law enforcement officer
 
-&emsp;The term "local law enforcement officer" means any officer, agent, or employee of aunit of local government authorized by law or by a local government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+&emsp;The term "local law enforcement officer" means any officer, agent, or employee of a unit of local government authorized by law or by a local government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
 #### (6) State law enforcement officer
 
@@ -110,7 +110,7 @@ The Director of the Bureau of Justice Statistics shall—
 
 &emsp;&emsp;(C) require all Federal law enforcement officers and relevant department personnel who participate in human trafficking investigations to receive training on enforcement of the protocol;
 
-&emsp;&emsp;(D) be developed in consultation with State and local law enforcement agencies,the Department of Health and Human Services, survivors of human trafficking, and nongovernmental organizations that specialize in the identification, prevention, and restoration of victims of human trafficking; and
+&emsp;&emsp;(D) be developed in consultation with State and local law enforcement agencies, the Department of Health and Human Services, survivors of human trafficking, and nongovernmental organizations that specialize in the identification, prevention, and restoration of victims of human trafficking; and
 
 &emsp;&emsp;(E) include—
 

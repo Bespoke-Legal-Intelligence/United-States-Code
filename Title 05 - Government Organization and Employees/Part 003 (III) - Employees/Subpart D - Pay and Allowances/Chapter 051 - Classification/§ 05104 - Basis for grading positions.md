@@ -58,7 +58,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(i) considerable training and supervisory or other experience;
 
-&emsp;&emsp;&emsp;(ii) broad working knowledge of a special and complex subject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
+&emsp;&emsp;&emsp;(ii) broad working knowledge of a special and complex subject matter, procedure, orpractice, or of the principles of the profession, art, or science involved; and
 
 &emsp;&emsp;&emsp;(iii) to a considerable extent the exercise of independent judgment; or
 

@@ -16,7 +16,7 @@ In carrying out its responsibilities under subsections (a) and (b), the State ed
 
 The selection process shall be completed, and the awards made, prior to the end of each secondary school academic year.
 
-(Pub. L. 89–329, title IV, §419G, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1345; amended Pub. L. 102–325, title IV, §406(d), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(30), Dec. 20, 1993, 107 Stat. 2460.)
+(Pub. L. 89–329, title IV, §419G, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1345; amended Pub. L. 102–325, title IV, §406(d), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(30), Dec. 20, 1993, 107 Stat. 2460.)
 
 #### <b>Editorial Notes</b>
 

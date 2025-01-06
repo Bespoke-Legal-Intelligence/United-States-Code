@@ -2,7 +2,7 @@
 
 #### (a) Duties of users taking adverse actions on basis of information contained in consumer reports
 
-If any person takes any adverse action with respect to any consumer that is based in whole or in part on any information contained in a consumer report, the person shall—
+If any person takes any adverse action with respect to any consumer that is based in wholeor in part on any information contained in a consumer report, the person shall—
 
 &emsp;(1) provide oral, written, or electronic notice of the adverse action to the consumer;
 
@@ -100,7 +100,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (1) Guidelines
 
-&emsp;The Federal banking agencies, the National Credit Union Administration, the FederalTrade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
+&emsp;The Federal banking agencies, the National Credit Union Administration, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title—
 
 &emsp;&emsp;(A) establish and maintain guidelines for use by each financial institution and each creditor regarding identity theft with respect to account holders at, or customers of, such entities, and update such guidelines as often as necessary;
 
@@ -126,7 +126,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (3) Consistency with verification requirements
 
-&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(l) of title 31.
+&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with thepolicies and procedures required under section 5318(l) of title 31.
 
 #### (4) Definitions
 
@@ -204,7 +204,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;(C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge;
 
-&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
+&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency forobtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
 
 &emsp;&emsp;(E) include a statement informing the consumer of—
 
@@ -246,7 +246,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
 
 #### <b>Editorial Notes</b>
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) Provision of assistance
 
-&emsp;In accordance with this section, the President, in consultation with the Governor of a State, may provide financial assistance, and, if necessary, direct services, to individuals and households in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.
+&emsp;In accordance with this section, the President, in consultation with the Governor of a State, may provide financial assistance, and, if necessary, direct services, to individuals andhouseholds in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.
 
 #### (2) Relationship to other assistance
 
@@ -158,7 +158,7 @@
 
 #### (1) Medical, dental, child care, and funeral expenses
 
-&emsp;The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual orhousehold in the State who is adversely affected by a major disaster to meet disaster-related medical, dental, child care, and funeral expenses.
+&emsp;The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual or household in the State who is adversely affected by a major disaster to meet disaster-related medical, dental, child care, and funeral expenses.
 
 #### (2) Personal property, transportation, and other expenses
 
@@ -174,7 +174,7 @@
 
 #### (B) Administrative costs
 
-&emsp;&emsp;A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing assistance to individuals and households in the State under subsections (c)(1)(B), (c)(4), and (e).
+&emsp;&emsp;A State that receives a grant under subparagraph (A) may expend not more than 5percent of the amount of the grant for the administrative costs of providing assistance to individuals and households in the State under subsections (c)(1)(B), (c)(4), and (e).
 
 #### (2) Access to records
 
@@ -224,7 +224,7 @@
 
 #### (F) Applicable laws
 
-&emsp;&emsp;All Federal laws applicable to the management, administration, or contracting of theprograms by the Federal Emergency Management Agency under this section shall be applicable to the management, administration, or contracting by a non-Federal entity under this section.
+&emsp;&emsp;All Federal laws applicable to the management, administration, or contracting of the programs by the Federal Emergency Management Agency under this section shall be applicable to the management, administration, or contracting by a non-Federal entity under this section.
 
 #### (G) Report on effectiveness
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;(ii) whether the State or Indian tribal government providing assistance under this section had the capacity to administer this section; and
 
-&emsp;&emsp;&emsp;(iii) recommendations for changes to improve the program if the State or Indian tribal government's role to administer the programs should be continued.
+&emsp;&emsp;&emsp;(iii) recommendations for changes to improve the program if the State or Indiantribal government's role to administer the programs should be continued.
 
 #### (H) Report on incentives
 
@@ -298,7 +298,7 @@
 
 #### (i) Verification measures
 
-In carrying out this section, the President shall develop a system, including an electronicdatabase, that shall allow the President, or the designee of the President, to—
+In carrying out this section, the President shall develop a system, including an electronic database, that shall allow the President, or the designee of the President, to—
 
 &emsp;(1) verify the identity and address of recipients of assistance under this section to provide reasonable assurance that payments are made only to an individual or household that is eligible for such assistance;
 

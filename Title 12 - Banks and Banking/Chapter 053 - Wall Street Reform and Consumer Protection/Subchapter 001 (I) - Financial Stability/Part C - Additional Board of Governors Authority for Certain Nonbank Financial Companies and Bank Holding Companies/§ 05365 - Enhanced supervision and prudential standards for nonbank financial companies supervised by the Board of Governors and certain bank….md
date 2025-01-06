@@ -18,7 +18,7 @@
 
 #### (B) Adjustment of threshold for application of certain standards
 
-&emsp;&emsp;The Board of Governors may, pursuant to a recommendation by the Council in accordance with section 5325 of this title, establish an asset threshold above the applicable threshold for the application of any standardestablished under subsections (c) through (g).
+&emsp;&emsp;The Board of Governors may, pursuant to a recommendation by the Council in accordance with section 5325 of this title, establish an asset threshold above the applicable threshold for the application of any standard established under subsections (c) through (g).
 
 #### (C) Risks to financial stability and safety and soundness
 
@@ -238,7 +238,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (2) Basis of limit
 
-&emsp;Any limit prescribed under paragraph (1) shall be based on the short-term debt of thecompany described in paragraph (1) as a percentage of capital stock and surplus of the company or on such other measure as the Board of Governors considers appropriate.
+&emsp;Any limit prescribed under paragraph (1) shall be based on the short-term debt of the company described in paragraph (1) as a percentage of capital stock and surplus of the company or on such other measure as the Board of Governors considers appropriate.
 
 #### (3) Short-term debt defined
 
@@ -272,7 +272,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 &emsp;A risk committee required by this subsection shall—
 
-&emsp;&emsp;(A) be responsible for the oversight of the enterprise-wide risk management practices of the nonbank financial company supervised by the Board of Governors or bank holding company described in subsection (a), as applicable;
+&emsp;&emsp;(A) be responsible for the oversight of the enterprise-wide risk management practices of the nonbank financial company supervised by the Board of Governors or bankholding company described in subsection (a), as applicable;
 
 &emsp;&emsp;(B) include such number of independent directors as the Board of Governors may determine appropriate, based on the nature of operations, size of assets, and other appropriate criteria related to the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), as applicable; and
 
@@ -308,7 +308,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (A) Requirement
 
-&emsp;&emsp;A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct periodic stress tests. All otherfinancial companies that have total consolidated assets of more than $250,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct periodic stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
+&emsp;&emsp;A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct periodic stress tests. All other financial companies that have total consolidated assets of more than $250,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct periodic stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
 
 #### (B) Report
 
@@ -344,7 +344,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (1) In general
 
-&emsp;In the case of any bank holding company described in subsection (a) or nonbank financial company supervised by the Board of Governors, the computation of capital for purposes of meeting capital requirements shall take into account any off-balance-sheet activities of the company.
+&emsp;In the case of any bank holding company described in subsection (a) or nonbank financialcompany supervised by the Board of Governors, the computation of capital for purposes of meeting capital requirements shall take into account any off-balance-sheet activities of the company.
 
 #### (2) Exemptions
 
@@ -444,7 +444,7 @@ Pub. L. 115–174, title IV, §401(b), May 24, 2018, 132 Stat. 1357, provided th
 
 &emsp;"(2) the supervisory, regulatory, or enforcement authority of an appropriate Federal banking agency to further the safe and sound operation of an institution under the supervision of the appropriate Federal banking agency."
 
-\[For definitions of "appropriate Federal banking agency" and "companies" as used in section 401(b) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.\]
+\[For definitions of "appropriate Federal banking agency" and "companies" as used in section 401(b) ofPub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.\]
 
 Pub. L. 115–174, title IV, §401(g), May 24, 2018, 132 Stat. 1359, provided that: "Nothing in this section \[amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title and enacting provisions set out as notes under this section\] shall be construed to—
 

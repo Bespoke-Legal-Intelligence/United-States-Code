@@ -30,7 +30,7 @@ In this chapter:
 
 #### (6) Quantum information science
 
-&emsp;The term "quantum information science" means the use of the laws of quantum physicsfor the storage, transmission, manipulation, computing, or measurement of information.
+&emsp;The term "quantum information science" means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
 
 #### (7) Quantum network infrastructure
 

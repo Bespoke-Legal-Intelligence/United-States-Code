@@ -30,7 +30,7 @@ Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, as amended by Pu
 
 "All amounts received by the Secretary under this appropriation, including fees, any other monies, property, or assets derived by the Secretary from operations under this appropriation shall be deposited in the reserve.
 
-"All payments for obligations and appropriate expenses (including reimbursements to other Government accounts), pursuant to operations of the Secretary under this appropriation shall be paid from the reserve subject to appropriations.
+"All payments for obligations and appropriate expenses (including reimbursements to other Governmentaccounts), pursuant to operations of the Secretary under this appropriation shall be paid from the reserve subject to appropriations.
 
 "For the establishment in the Treasury of the United States of a special fund to be designated the 'Solar and Conservation Reserve', $1,000,000,000 to remain available until expended: <i>Provided</i>, That these funds shall be available for obligation only to stimulate solar energy and conservation: <i>Provided further</i>, That the withdrawal of said funds shall be subject to the passage of authorizing legislation and only to the extent provided in advance in appropriations Acts."
 

@@ -20,7 +20,7 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (d)
 
-Administrative Removal.—Under regulations prescribed by the Secretary of the Air Force, if an officer on the Space Force officer list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer's name shall be administratively removed from the list of officers recommended for promotion by a selection board.
+Administrative Removal.—Under regulations prescribed by the Secretary of the Air Force, if an officer on the Space Force officer list is discharged or dropped from the rolls ortransferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer's name shall be administratively removed from the list of officers recommended for promotion by a selection board.
 
 (e)
 
@@ -30,13 +30,17 @@ Continued Eligibility for Promotion.—(1) An officer whose name is removed from
 
 (f)
 
-Applicability of Previous Executive Order.—Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 14310 of this title shall apply in the same manner to functions of the President under this section.
+Applicability of Previous Executive Order.—Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 629 or 14310 of this title shall apply in the same manner to functions of the President under this section.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 647.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 647; amended Pub. L. 118–159, div. A, title V, §509E, Dec. 23, 2024, 138 Stat. 1874.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (f). Pub. L. 118–159 substituted "section 629 or 14310" for "section 14310".
 

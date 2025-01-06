@@ -52,7 +52,7 @@ Section 1. <i>Department of Energy</i>. The following functions vested in the Pr
 
 Sec. 2. <i>Department of State</i>. The Secretary of State shall be responsible for performing the following functions vested in the President:
 
-(a) Those functions vested by Sections 104(a), 104(d), 105, 403, 404, 407, and 501 of the Act (92 Stat. 122, 123, 123, 146, 147, 148, and 148, 22 U.S.C. 3223(a), 3223(d), 3224, and 42 U.S.C. 2153b, 2153c, 2153e, and 22 U.S.C. 3261).
+(a) Those functions vested by Sections 104(a), 104(d), 105, 403, 404, 407, and 501 of the Act (92 Stat. 122, 123, 123,146, 147, 148, and 148, 22 U.S.C. 3223(a), 3223(d), 3224, and 42 U.S.C. 2153b, 2153c, 2153e, and 22 U.S.C. 3261).
 
 (b) That function vested by Section 128a(2) of the 1954 Act (92 Stat. 137, 42 U.S.C. 2157(a)(2)).
 

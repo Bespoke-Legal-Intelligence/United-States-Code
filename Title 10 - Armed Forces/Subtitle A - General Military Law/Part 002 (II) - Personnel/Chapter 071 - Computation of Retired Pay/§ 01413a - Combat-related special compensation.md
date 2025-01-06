@@ -78,7 +78,7 @@ Other Definitions.—In this section:
 
 &emsp;(2) The term "retired pay" includes retainer pay, emergency officers' retirement pay, and naval pension.
 
-(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–76, div. C, title X, §10001(b)(1), Jan. 17, 2014, 128 Stat. 151; Pub. L. 114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845; Pub. L. 114–328, div. A, title VI, §634(a), Dec. 23, 2016, 130 Stat. 2163; Pub. L. 116–283, div. A, title IX, §924(b)(3)(X), Jan. 1, 2021, 134 Stat. 3821.)
+(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008,122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–76, div. C, title X, §10001(b)(1), Jan. 17, 2014, 128 Stat. 151; Pub. L. 114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845; Pub. L. 114–328, div. A, title VI, §634(a), Dec. 23, 2016, 130 Stat. 2163; Pub. L. 116–283, div. A, title IX, §924(b)(3)(X), Jan. 1, 2021, 134 Stat. 3821.)
 
 #### <b>Editorial Notes</b>
 
@@ -150,7 +150,7 @@ Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, pro
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
+Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall takeeffect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
 
 Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
 

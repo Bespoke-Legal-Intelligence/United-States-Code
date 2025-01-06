@@ -4,7 +4,7 @@ Notwithstanding any other provision of this chapter, the recommendations submitt
 
 &emsp;(1) Any recommended pay adjustment shall specify the date as of which it is proposed that such adjustment take effect.
 
-&emsp;(2) The proposed effective date of a pay adjustment may occur no earlier than January 1 of the second fiscal year, and no later than December 31 next following the close of the fifth fiscal year, beginning after the fiscal year in which the Commission conducts its review under section 356 of this title.
+&emsp;(2) The proposed effective date of a pay adjustment may occur no earlier than January 1of the second fiscal year, and no later than December 31 next following the close of the fifth fiscal year, beginning after the fiscal year in which the Commission conducts its review under section 356 of this title.
 
 &emsp;(3)(A)(i) The rates of pay recommended for the Speaker of the House of Representatives, the Vice President of the United States, and the Chief Justice of the United States, respectively, shall be equal.
 

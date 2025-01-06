@@ -4,11 +4,11 @@ The President may prescribe rules governing the competitive service. The rules s
 
 &emsp;(1) necessary exceptions of positions from the competitive service; and
 
-&emsp;(2) necessary exceptions from the provisions of sections 2951, 3304(a), 3321, 7202, and 7203 of this title.
+&emsp;(2) necessary exceptions from the provisions of sections 2951, 3304(b), 3321, 7202, and 7203 of this title.
 
 > Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 417; Pub. L. 95–228, §2(b), Feb. 10, 1978, 92 Stat. 25; Pub. L. 95–454, title VII, §703(c)(1), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 96–54, §2(a)(16), Aug. 14, 1979, 93 Stat. 382; Pub. L. 103–94, §2(b)(1), Oct. 6, 1993, 107 Stat. 1004.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 417; Pub. L. 95–228, §2(b), Feb. 10, 1978, 92 Stat. 25; Pub. L. 95–454, title VII, §703(c)(1), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 96–54, §2(a)(16), Aug. 14, 1979, 93 Stat. 382; Pub. L. 103–94, §2(b)(1), Oct. 6, 1993, 107 Stat. 1004; Pub. L. 118–188, §2(a)(2)(A)(i)(I), Dec. 23, 2024, 138 Stat. 2645.)
 
 Historical and Revision Notes
 
@@ -31,6 +31,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Par. (2). Pub. L. 118–188 substituted "3304(b)" for "3304(a)".
 
 <b>1993</b>—Par. (2). Pub. L. 103–94 substituted "and 7203" for "7203, 7321, and 7322".
 
@@ -110,7 +112,7 @@ Sec. 4. For the purpose of this order:
 
 Sec. 5. The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the provisions of this order.
 
-Sec. 6. Executive Order No. 11397 of February 9, 1968, is revoked. Such revocation shall not affect the right ofan employee to be converted to career-conditional or career employment if he meets the requirements of section 1(d) of Executive Order No. 11397 after the effective date of this order.
+Sec. 6. Executive Order No. 11397 of February 9, 1968, is revoked. Such revocation shall not affect the right of an employee to be converted to career-conditional or career employment if he meets the requirements of section 1(d) of Executive Order No. 11397 after the effective date of this order.
 
 Sec. 7. This order is effective 14 days after its date.
 

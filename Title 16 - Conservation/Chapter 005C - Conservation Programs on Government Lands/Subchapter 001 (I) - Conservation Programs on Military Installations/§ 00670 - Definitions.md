@@ -46,6 +46,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92�
 
 <b>2011</b>—Pars. (2) to (5). Pub. L. 112–81 added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1997 Amendment

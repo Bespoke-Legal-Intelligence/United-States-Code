@@ -4,7 +4,7 @@
 
 #### (1) Committee alternatives to Presidential order
 
-&emsp;After the submission of an OMB sequestration update report under section 904 of thistitle that envisions a sequestration under section 902 or 903 of this title, each standing committee of the Senate may, not later than October 10, submit to the Committee on the Budget of the Senate information of the type described in section 632(d) of this title with respect to alternatives to the order envisioned by such report insofar as such order affects laws within the jurisdiction of the committee.
+&emsp;After the submission of an OMB sequestration update report under section 904 of this title that envisions a sequestration under section 902 or 903 of this title, each standing committee of the Senate may, not later than October 10, submit to the Committee on the Budget of the Senate information of the type described in section 632(d) of this title with respect to alternatives to the order envisioned by such report insofar as such order affects laws within the jurisdiction of the committee.
 
 #### (2) Initial Budget Committee action
 

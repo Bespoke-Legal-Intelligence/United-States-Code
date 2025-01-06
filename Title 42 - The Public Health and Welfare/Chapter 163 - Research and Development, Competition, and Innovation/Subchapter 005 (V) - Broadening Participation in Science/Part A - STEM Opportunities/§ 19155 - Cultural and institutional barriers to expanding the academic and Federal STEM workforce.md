@@ -6,7 +6,7 @@
 
 &emsp;Not later than 12 months after August 9, 2022, the Director, in consultation with the interagency working group on inclusion in STEM and utilizing existing guidance already developed by Federal research agencies where applicable, shall broadly disseminate to entities that receive Federal research funding best practices for—
 
-&emsp;&emsp;(A) conducting periodic climate surveys of STEM departments and divisions, with a particular focus on identifying and addressing any cultural or institutional barriers to the recruitment, retention, or advancement of groups historically underrepresented in STEM studies and careers; and
+&emsp;&emsp;(A) conducting periodic climate surveys of STEM departments and divisions, with a particular focus on identifying and addressing any cultural or institutional barriers tothe recruitment, retention, or advancement of groups historically underrepresented in STEM studies and careers; and
 
 &emsp;&emsp;(B) providing educational opportunities, including workshops, for STEM professionals to learn about current research on effective practices for unbiased recruitment, evaluation, and promotion of undergraduate and graduate students and research personnel.
 

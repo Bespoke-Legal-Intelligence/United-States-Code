@@ -63,7 +63,7 @@ In designating countries as "beneficiary countries" under this chapter the Presi
 
 &emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership or association which is 50 per centum or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
-&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and he reports those assurances to the Congress;
+&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverseeffect, and he reports those assurances to the Congress;
 
 &emsp;(5) if a government-owned entity in such country engages in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
 
@@ -95,7 +95,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(9) the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
 
-&emsp;(10) the extent to which such country prohibits its nationals from engaging in thebroadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
+&emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
 &emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
@@ -171,7 +171,7 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original "this subtit
 
 #### Codification
 
-Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. TheTariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
+Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
 

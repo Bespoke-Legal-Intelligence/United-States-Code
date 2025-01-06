@@ -8,7 +8,7 @@
 
 &emsp;(B) such substance, mixture, or article (when distributed in commerce), or any container in which it is enclosed (when so distributed), bears a stamp or label stating that such substance, mixture, or article is intended for export.
 
-(2) Paragraph (1) shall not apply to any chemical substance, mixture, or article if the Administrator finds that the substance, mixture, or article presents an unreasonable risk of injury to health within the United States or to the environment of the United States. The Administrator may require, under section 2603 of this title, testing of any chemical substance or mixture exempted from this chapter by paragraph (1) for the purpose of determining whether ornot such substance or mixture presents an unreasonable risk of injury to health within the United States or to the environment of the United States.
+(2) Paragraph (1) shall not apply to any chemical substance, mixture, or article if the Administrator finds that the substance, mixture, or article presents an unreasonable risk of injury to health within the United States or to the environment of the United States. The Administrator may require, under section 2603 of this title, testing of any chemical substance or mixture exempted from this chapter by paragraph (1) for the purpose of determining whether or not such substance or mixture presents an unreasonable risk of injury to health within the United States or to the environment of the United States.
 
 #### (b) Notice
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) The Administrator may by order suspend or cancel an exemption under this paragraph in the case of a violation described in subparagraph (D).
 
-&emsp;(D) A violation of this subsection or the terms and conditions of an exemption, or the submission of false information in connection therewith, shall be considered a prohibited act under section 2614 of this title, and shall besubject to penalties under section 2615 of this title, injunctive relief under section 2616 of this title, and citizen suits under section 2619 of this title.
+&emsp;(D) A violation of this subsection or the terms and conditions of an exemption, or the submission of false information in connection therewith, shall be considered a prohibited act under section 2614 of this title, and shall be subject to penalties under section 2615 of this title, injunctive relief under section 2616 of this title, and citizen suits under section 2619 of this title.
 
 #### (5) Consistency with trade obligations
 

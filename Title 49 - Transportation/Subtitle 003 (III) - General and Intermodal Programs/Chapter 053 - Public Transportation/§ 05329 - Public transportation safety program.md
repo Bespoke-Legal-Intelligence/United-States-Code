@@ -534,10 +534,6 @@ Enforcement.—The Secretary may use any authority under this section, including
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709; Pub. L. 114–94, div. A, title III, §3013, Dec. 4, 2015, 129 Stat. 1476; Pub. L. 117–58, div. C, §30012(a), Nov. 15, 2021, 135 Stat. 904.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 30012(a)(5) of div. C of Pub. L. 117—58 applicable with respect to a State safety oversight agency on and after the date that is 2 years after the date on which the Secretary of Transportation issues the special directive to the State safety oversight agency under subsec. (k)(5) of this section. See 2021 Amendment note below.</i>
-
 Historical and Revision Notes
 
 <i>Revised</i>
@@ -560,7 +556,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §22(a); added Jan. 6, 1983, Pub. 
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §22(b); added Dec. 18, 1991, Pub. L. 102–240, §3026(2), 105 Stat. 2114.
 
-In subsection (a), the words "manner of" are omitted as surplus. The word "how" is substituted for "the means which might best be employed" to eliminate unnecessary words. The words "or eliminating" and "from the local public body" are omitted as surplus. The words "a plan is approved and carried out" are substituted for "he approves such plan and the local public body implements such plan" to eliminate unnecessary words.
+In subsection (a), the words "manner of" are omitted as surplus. The word "how" is substituted for "themeans which might best be employed" to eliminate unnecessary words. The words "or eliminating" and "from the local public body" are omitted as surplus. The words "a plan is approved and carried out" are substituted for "he approves such plan and the local public body implements such plan" to eliminate unnecessary words.
 
 In subsection (b)(1) and (2), the words "a description of" are added for clarity.
 
@@ -624,7 +620,7 @@ Subsec. (h). Pub. L. 114–94, §3013(6), added subsec. (h) and struck out forme
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 117–58, div. C, §30012(b)(2), Nov. 15, 2021, 135 Stat. 909, provided that: "Section 5329(k) of title 49, United States Code (as amended by subsection (a)), shall apply with respect to a State safety oversight agency on and after the date that is 2 years after the date on which the Secretary of Transportation issues the special directive to the State safety oversight agency under paragraph (5) of that section 5329(k)."
+Pub. L. 117–58, div. C, §30012(b)(2), Nov. 15, 2021, 135 Stat. 909, provided that: "Section 5329(k) of title 49, United States Code (as amended by subsection (a)), shall apply with respect to a State safety oversight agency on and after the date that is 2 years after the date on which the Secretary of Transportation issues the special directive to the State safety oversight agency under paragraph (5) of that section 5329(k)." \[The Federal Transit Administration issued 31 special directives under subsec. (k)(5) of this section on Oct. 21, 2022. See 89 F.R. 83977.\]
 
 #### Effective Date of 2015 Amendment
 
@@ -636,7 +632,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Special Directive on Risk-Based Inspection Programs
 
-Pub. L. 117–58, div. C, §30012(b)(1), Nov. 15, 2021, 135 Stat. 909, provided that: "Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary of Transportation shall issue each special directive required under section 5329(k)(5) of title 49, United States Code (as added by subsection (a))."
+Pub. L. 117–58, div. C, §30012(b)(1), Nov. 15, 2021, 135 Stat. 909, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Nov. 15, 2021\], the Secretary of Transportation shall issue each special directive required under section 5329(k)(5) of title 49, United States Code (as added by subsection (a))."
 
 #### No Effect on Initial Certification Process
 

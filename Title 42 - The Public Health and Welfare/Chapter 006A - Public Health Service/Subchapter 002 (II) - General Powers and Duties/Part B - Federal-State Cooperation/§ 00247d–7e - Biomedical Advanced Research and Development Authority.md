@@ -28,7 +28,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "advanced research and development" means, with respect to a product that is or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
+&emsp;&emsp;The term "advanced research and development" means, with respect to a product thatis or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
 
 &emsp;&emsp;&emsp;(i) are conducted after basic research and preclinical development of the product; and
 
@@ -92,7 +92,7 @@ In this section:
 
 #### (2) In general
 
-&emsp;Based upon the strategic plan described in subsection (b), the Secretary shall coordinate the acceleration of countermeasure and product advanced research and development by—
+&emsp;Based upon the strategic plan described in subsection (b), the Secretary shall coordinatethe acceleration of countermeasure and product advanced research and development by—
 
 &emsp;&emsp;(A) facilitating collaboration between the Department of Health and Human Services and other Federal agencies, relevant industries, academia, and other persons, with respect to such advanced research and development;
 
@@ -146,7 +146,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) award contracts, grants, cooperative agreements, and enter into other transactions, for countermeasure and product advanced research and development; and
 
-&emsp;&emsp;&emsp;(v) award contracts, grants, and cooperative agreements and enter into other transactions to support, maintain, and improve domestic manufacturing surge capacity and capabilities, including through supporting flexible or advanced manufacturing, to ensure that additional capacity is available to rapidly manufacture products that are or may become qualified countermeasures or qualified pandemic or epidemic products in the event of a public health emergency declaration or significant potential for a public health emergency.
+&emsp;&emsp;&emsp;(v) award contracts, grants, and cooperative agreements and enter into other transactions to support, maintain, and improve domestic manufacturing surge capacity and capabilities, including through supporting flexible or advanced manufacturing, to ensure that additional capacity is available to rapidly manufacture products that are or may become qualified countermeasures or qualified pandemic or epidemic products in the event of a publichealth emergency declaration or significant potential for a public health emergency.
 
 #### (C) Facilitating advice
 
@@ -326,7 +326,7 @@ In this section:
 
 #### (E) Foreign nationals eligible
 
-&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperative agreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States, alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
+&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperative agreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States,alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
 
 #### (F) Establishment of research centers
 
@@ -372,7 +372,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may hire up to 100 highly qualified individuals, or up to 50 percent ofthe total number of employees, whichever is less, under the authorities provided for in subparagraphs (A) and (B).
+&emsp;&emsp;&emsp;The Secretary may hire up to 100 highly qualified individuals, or up to 50 percent of the total number of employees, whichever is less, under the authorities provided for in subparagraphs (A) and (B).
 
 #### (ii) Report
 
@@ -418,7 +418,7 @@ In this section:
 
 #### (D) Sunset
 
-&emsp;&emsp;This paragraph shall cease to have force or effect after January 19, 2024.
+&emsp;&emsp;This paragraph shall cease to have force or effect after March 31, 2025.
 
 #### (2) Review
 
@@ -446,7 +446,7 @@ In this section:
 
 &emsp;&emsp;(D) plans for the near-, mid-, and long-term sustainment of manufacturing activities carried out under this section, including such activities pursuant to subsection (c)(5)(H), specific actions to regularly assess the ability of recipients of an award under subsection (c)(4)(B)(v) to rapidly manufacture countermeasures as required by the Secretary, and recommendations to address challenges, if any, related to such activities.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195;Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782; Pub. L. 118–22, div. B, title II, §203(b), Nov. 17, 2023, 137 Stat. 120.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782; Pub. L. 118–22, div. B, title II, §203(b), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(b), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(b), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, §3103(b), Dec. 21, 2024, 138 Stat. 1763.)
 
 #### <b>Editorial Notes</b>
 
@@ -463,6 +463,12 @@ In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 o
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(1)(D). Pub. L. 118–158 substituted "March 31, 2025" for "December 31, 2024".
+
+Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 <b>2023</b>—Subsec. (e)(1)(D). Pub. L. 118–22 substituted "after January 19, 2024" for "on the date that is 17 years after December 19, 2006".
 
@@ -522,7 +528,7 @@ Subsec. (c)(6). Pub. L. 116–22, §303(b), substituted "older adults" for "elde
 
 Subsec. (d)(2). Pub. L. 116–22, §504(b), substituted "$611,700,000 for each of fiscal years 2019 through 2023" for "$415,000,000 for each of fiscal years 2014 through 2018".
 
-Subsec. (e)(1)(A). Pub. L. 116–22, §701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly knownvulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5."
+Subsec. (e)(1)(A). Pub. L. 116–22, §701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5."
 
 Subsec. (e)(1)(C). Pub. L. 116–22, §701(f)(3), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -594,7 +600,7 @@ Sec. 3. <i>National Influenza Vaccine Task Force</i>. (a) There is hereby establ
 
 (c) The Co-Chairs may jointly invite additional Federal Government representatives, with the consent of the applicable executive department, agency, or office head, to attend meetings of the Task Force or to become members of the Task Force, as appropriate.
 
-(d) The staffs of the Department of State, the Office of Management and Budget (OMB), the National Security Council, the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council,and the Office of Science and Technology Policy (OSTP) may attend and participate in any Task Force meetings or discussions.
+(d) The staffs of the Department of State, the Office of Management and Budget (OMB), the National Security Council, the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council, and the Office of Science and Technology Policy (OSTP) may attend and participate in any Task Force meetings or discussions.
 
 (e) The Task Force may consult with State, local, tribal, and territorial government officials and private sector representatives, as appropriate and consistent with applicable law.
 

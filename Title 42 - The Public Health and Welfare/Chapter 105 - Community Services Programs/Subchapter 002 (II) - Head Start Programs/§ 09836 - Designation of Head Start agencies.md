@@ -58,7 +58,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (5) Public comment and consideration
 
-&emsp;Not later than 3 months after receiving the report described in paragraph (4), the Secretary shall publish a notice describing a proposed system for designation renewal in the Federal Register, including a proposal for the transition to such system, providing at least 90 days for public comment. The Secretary shall review and consider public comments prior to finalizing the system for designation renewal described in this subsection.
+&emsp;Not later than 3 months after receiving the report described in paragraph (4), the Secretary shall publish a notice describing a proposed system for designation renewal in the Federal Register, including a proposal for the transition to such system, providing at least 90 days for public comment. The Secretaryshall review and consider public comments prior to finalizing the system for designation renewal described in this subsection.
 
 #### (6) Designation renewal system
 
@@ -108,7 +108,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(A) make available to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate the report described in paragraph (4);
 
-&emsp;&emsp;(B) concurrently with publishing a notice in the Federal Register as described in paragraph (5), provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health,Education, Labor, and Pensions of the Senate that provides a detailed description of the proposed system described in paragraph (5), including a clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist; and
+&emsp;&emsp;(B) concurrently with publishing a notice in the Federal Register as described in paragraph (5), provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate that provides a detailed description of the proposed system described in paragraph (5), including a clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist; and
 
 &emsp;&emsp;(C) prior to implementing the system for designation renewal, provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate—
 
@@ -198,7 +198,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;(vi) to provide, with respect to each participating family, a family needs assessment that includes consultation with such parents (including foster parents, grandparents, and kinship caregivers, where applicable), in a manner and language that such parents can understand, to the extent practicable, about the benefits of parent involvement and about the activities described in this subparagraph in which such parents may choose to become involved (taking into consideration their specific family needs, work schedules, and other responsibilities); and
 
-&emsp;&emsp;&emsp;(vii) to extend outreach to fathers (including father figures), in appropriate cases, in order to strengthen the role of those fathers in families, in the education of young children, and in the Head Start program, by working directly with the fathers through activities such as—
+&emsp;&emsp;&emsp;(vii) to extend outreach to fathers (including father figures), in appropriatecases, in order to strengthen the role of those fathers in families, in the education of young children, and in the Head Start program, by working directly with the fathers through activities such as—
 
 &emsp;&emsp;&emsp;&emsp;(I) in appropriate cases, including the fathers in home visits and providing opportunities for direct father-child interactions; and
 
@@ -242,7 +242,7 @@ The Secretary shall require that the practice of significantly involving parents
 
 For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) that provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
 
-(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30,1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378; Pub. L. 114–95, title IX, §9215(nn)(2), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378; Pub. L. 114–95, title IX, §9215(nn)(2), Dec. 10, 2015, 129 Stat. 2176.)
 
 #### <b>Editorial Notes</b>
 
@@ -324,7 +324,7 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 Subsec. (c)(4). Pub. L. 103–252, §107(b)(1), struck out par. (4) which read as follows: "The results of a review conducted under this subsection shall not be sufficient alone for the purpose of determining whether to continue, or to discontinue, providing funds to a particular Head Start agency."
 
-Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted "If no entity in a community is entitled to the priority specified in subsection (c) of this section," for "If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community," and struck out "Any such designation shall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies." after first sentence and "subject to the preceding sentence" after "as a Head Start agency".
+Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted "If no entity in a community is entitled to the priority specified in subsection (c) of this section," for "If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community," and struck out "Any such designationshall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies." after first sentence and "subject to the preceding sentence" after "as a Head Start agency".
 
 Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted ", including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.)," after "preschool programs".
 

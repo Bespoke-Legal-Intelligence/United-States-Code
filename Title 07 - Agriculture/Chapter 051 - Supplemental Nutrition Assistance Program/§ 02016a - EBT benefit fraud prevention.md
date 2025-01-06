@@ -24,21 +24,23 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) how those stolen benefits are used; and
 
-&emsp;&emsp;&emsp;(iii) to the maximum extent practicable, the locations where card skimming, card cloning, and other similar fraudulent methods are taking place;
+&emsp;&emsp;&emsp;(iii) the locations where card skimming, card cloning, and other similar fraudulent methods are taking place;
 
 &emsp;&emsp;(B) to establish measures, including equipment enhancements for retail food stores, to prevent benefits from being stolen through card skimming, card cloning, and other similar fraudulent methods; and
 
 &emsp;&emsp;(C) to establish standard reporting methods for States to collect and share data with the Secretary on the scope of benefits being stolen through card skimming, card cloning, and other similar fraudulent methods; and
 
-&emsp;(5) not later than October 1, 2024, submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report that includes—
+&emsp;(5) not later than December 1, 2024, submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report that includes—
 
-&emsp;&emsp;(A) to the maximum extent practicable, information on the frequency of theft of benefits and the location of those thefts, including benefits stolen through card skimming, card cloning, and other similar fraudulent methods;
+&emsp;&emsp;(A) information on the frequency of theft of benefits and the location of those thefts, including benefits stolen through card skimming, card cloning, and other similar fraudulent methods;
 
 &emsp;&emsp;(B) a description of the determinations made under paragraph (4)(A), the measures established under paragraph (4)(B), and methods established in paragraph (4)(C);
 
-&emsp;&emsp;(C) a description of the industry standards described in paragraph (1)(B); and
+&emsp;&emsp;(C) a description of the industry standards described in paragraph (1)(B);
 
-&emsp;&emsp;(D) recommendations on how to consistently detect, track, report, and prevent theft of benefits, including benefits stolen through card skimming, card cloning, and other similar fraudulent methods.
+&emsp;&emsp;(D) a comparison of State plans related to reimbursement, prevention, and other relevant procedures approved in accordance with subsection (b)(1)(A); and
+
+&emsp;&emsp;(E) recommendations on how to consistently and proactively detect, track, report, and prevent theft of benefits, including benefits stolen through card skimming, card cloning, and other similar fraudulent methods.
 
 #### (b) Replacement of benefits
 
@@ -46,7 +48,7 @@ The Secretary shall use funds appropriated under section 2027 of this title to r
 
 &emsp;(1) the State agency shall submit to the Secretary not later than 60 days after December 29, 2022, for prior approval a plan for the replacement of stolen benefits that—
 
-&emsp;&emsp;(A) includes appropriate procedures, as determined by the Secretary, for the timelysubmission of claims to, timely validation of claims by, and replacement issuance by the State agency that includes—
+&emsp;&emsp;(A) includes appropriate procedures, as determined by the Secretary, for the timely submission of claims to, timely validation of claims by, and replacement issuance by the State agency that includes—
 
 &emsp;&emsp;&emsp;(i) a signed statement by the affected household on the benefit theft, consistent with the signature requirements and options provided by section 2020(e)(2)(C) of this title;
 
@@ -76,7 +78,7 @@ The Secretary shall use funds appropriated under section 2027 of this title to r
 
 &emsp;&emsp;(B) shall not occur more than 2 times per Federal fiscal year per household by a single State agency; and
 
-&emsp;&emsp;(C) shall only apply to benefits stolen during the period beginning on October 1, 2022, and ending on September 30, 2024;
+&emsp;&emsp;(C) shall only apply to benefits stolen during the period beginning on October 1, 2022, and ending on December 20, 2024;
 
 &emsp;(3) plans approved under paragraph (1) will remain in effect until the effective date of the rule promulgated pursuant to subsection (a)(3); and
 
@@ -90,7 +92,29 @@ In this section, the terms "allotment", "benefit", "household", "retail food sto
 
 Of the unobligated balances made available for the Supplemental Nutrition Assistance Program as authorized by section 1101(b)(1) of the American Rescue Plan Act of 2021 (Public Law 117–2), $8,000,000 is hereby rescinded.
 
-(Pub. L. 117–328, div. HH, title IV, §501, Dec. 29, 2022, 136 Stat. 5985.)
+#### (e) Comptroller General
+
+#### (1) In general
+
+&emsp;Not later than 1 year after September 26, 2024, the Comptroller General of the United States shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that examines risks related to supplemental nutrition assistance program electronic benefit transfer payment system security, including the risk of stolen benefits through card skimming, card cloning, and other similar methods.
+
+#### (2) Contents
+
+&emsp;The report under paragraph (1) shall include an assessment of—
+
+&emsp;&emsp;(A) the extent to which the Department of Agriculture manages payment system security, including risks related to stolen benefits, compared to leading industry practices;
+
+&emsp;&emsp;(B) the manner in which States, retailers, and other relevant entities manage risks related to stolen benefits;
+
+&emsp;&emsp;(C) the oversight of and guidance provided by the Secretary to States regarding stolen benefits; and
+
+&emsp;&emsp;(D) recommendations and policy options for—
+
+&emsp;&emsp;&emsp;(i) improving how the Department of Agriculture and other relevant entities manage payment system security risks, including those related to stolen benefits; and
+
+&emsp;&emsp;&emsp;(ii) how the Department of Agriculture may best share those improvements with States, retailers, and other relevant entities.
+
+(Pub. L. 117–328, div. HH, title IV, §501, Dec. 29, 2022, 136 Stat. 5985; Pub. L. 118–83, div. B, title I, §105, Sept. 26, 2024, 138 Stat. 1534.)
 
 #### <b>Editorial Notes</b>
 
@@ -101,6 +125,22 @@ Section 1101(b)(1) of the American Rescue Plan Act of 2021, referred to in subse
 #### Codification
 
 Section was enacted as part of the Consolidated Appropriations Act, 2023, and not as part of the Food and Nutrition Act of 2008 which comprises this chapter.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(4)(A)(iii). Pub. L. 118–83, §105(1)(A), struck out at beginning "to the maximum extent practicable,".
+
+Subsec. (a)(5). Pub. L. 118–83, §105(1)(B)(i), substituted "December" for "October" in introductory provisions.
+
+Subsec. (a)(5)(A). Pub. L. 118–83, §105(1)(B)(ii), struck out at beginning "to the maximum extent practicable,".
+
+Subsec. (a)(5)(D). Pub. L. 118–83, §105(1)(B)(iii), (v), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (a)(5)(E). Pub. L. 118–83, §105(1)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted "and proactively" after "consistently".
+
+Subsec. (b)(2)(C). Pub. L. 118–83, §105(2), substituted "December 20, 2024" for "September 30, 2024".
+
+Subsec. (e). Pub. L. 118–83, §105(3), added subsec. (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

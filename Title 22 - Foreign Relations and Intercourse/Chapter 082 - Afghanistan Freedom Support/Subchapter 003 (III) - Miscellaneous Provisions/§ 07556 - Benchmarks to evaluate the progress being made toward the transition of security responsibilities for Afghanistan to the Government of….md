@@ -16,7 +16,7 @@ The President shall establish, and may update from time to time, a comprehensive
 
 #### (c) Submittal to Congress
 
-The President shall include the most current set of benchmarks established pursuant to subsection (b) with each report on progress toward security and stability in Afghanistan that is submitted to Congress under sections 1230 and 1231 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 385, 390).
+The President shall include the most current set of benchmarks established pursuant to subsection (b) with each report on progress towardsecurity and stability in Afghanistan that is submitted to Congress under sections 1230 and 1231 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 385, 390).
 
 (Pub. L. 112–81, div. A, title XII, §1221, Dec. 31, 2011, 125 Stat. 1635.)
 

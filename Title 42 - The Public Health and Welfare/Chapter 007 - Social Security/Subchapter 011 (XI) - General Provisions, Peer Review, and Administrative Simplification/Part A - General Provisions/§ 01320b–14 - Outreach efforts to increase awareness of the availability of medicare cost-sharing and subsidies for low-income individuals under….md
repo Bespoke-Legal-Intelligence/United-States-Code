@@ -12,7 +12,7 @@
 
 #### (2) Content of notice
 
-&emsp;Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistanceunder section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title under such sections is conditioned upon—
+&emsp;Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title under such sections is conditioned upon—
 
 &emsp;&emsp;(A) the individual providing to the State information about income and resources (in the case of an individual residing in a State that imposes an assets test for eligibility for medicare cost-sharing under the medicaid program); and
 
@@ -66,11 +66,11 @@
 
 #### (i) Initial Medicare Savings Program costs
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amount appropriated under ths <sup>2</sup> clause shall be available on October 1, 2008, and shall remain available until expended.
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amount appropriated under ths <sup>2</sup> clause shall beavailable on October 1, 2008, and shall remain available until expended.
 
 #### (ii) Additional amount for low-income subsidy activities
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in theTreasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry out low-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in the Treasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry out low-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
 
 #### (B) Subsequent funding under agreements
 
@@ -144,11 +144,11 @@ Pub. L. 110–275, title I, §113(c), July 15, 2008, 122 Stat. 2506, provided th
 
 #### Effective Date
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "The amendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "Theamendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### GAO Report
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, required the ComptrollerGeneral of the United States to conduct a study of the impact of this section on the enrollment of individuals for medicare cost-sharing under the medicaid program and to submit a report on the study no later than 18 months after the initial outreach.
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, required the Comptroller General of the United States to conduct a study of the impact of this section on the enrollment of individuals for medicare cost-sharing under the medicaid program and to submit a report on the study no later than 18 months after the initial outreach.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

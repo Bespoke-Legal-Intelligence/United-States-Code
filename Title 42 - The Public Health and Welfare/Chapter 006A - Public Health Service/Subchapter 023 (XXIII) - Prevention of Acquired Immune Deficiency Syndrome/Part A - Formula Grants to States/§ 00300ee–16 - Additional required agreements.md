@@ -10,7 +10,7 @@ The Secretary may not, except as provided in subsection (b), make payments under
 
 &emsp;(3) in carrying out section 300ee–11(b) of this title, the State will give priority to programs described in section 300ee–12(10) of this title for individuals described in such section;
 
-&emsp;(4) with respect to a State in which there is a substantial number of individuals who are intravenous substance abusers, the State will place priority on activities under this part directed at such substance abusers;
+&emsp;(4) with respect to a State in which there is a substantial number of individuals who areintravenous substance abusers, the State will place priority on activities under this part directed at such substance abusers;
 
 &emsp;(5) with respect to a State in which there is a significant incidence of reported cases of acquired immune deficiency syndrome, the State will—
 

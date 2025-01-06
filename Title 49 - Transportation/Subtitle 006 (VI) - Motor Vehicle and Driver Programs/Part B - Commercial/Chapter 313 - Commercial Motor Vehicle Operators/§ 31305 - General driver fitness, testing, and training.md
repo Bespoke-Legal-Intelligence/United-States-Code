@@ -122,7 +122,7 @@ Reserve components.—The term "reserve components" means—
 
 &emsp;&emsp;&emsp;(vii) the Coast Guard Reserve.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397; Pub. L. 112–141, div. C, title II, §32304(a), (c), July 6, 2012, 126 Stat. 791, 792; Pub. L. 114–94, div. A, title V, §5401(a), Dec. 4, 2015, 129 Stat. 1546; Pub. L. 115–105, §3, Jan. 8, 2018, 131 Stat. 2264.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397; Pub. L. 112–141, div. C, title II, §32304(a), (c), July 6, 2012, 126 Stat. 791, 792; Pub. L. 114–94, div. A, title V, §5401(a), Dec. 4,2015, 129 Stat. 1546; Pub. L. 115–105, §3, Jan. 8, 2018, 131 Stat. 2264.)
 
 Historical and Revision Notes
 
@@ -208,7 +208,7 @@ Report.—If the Administrator declines to move forward with a rulemaking for re
 
 #### Modification of Restrictions on Certain Commercial Driver's Licenses
 
-Pub. L. 117–58, div. B, title III, §23019, Nov. 15, 2021, 135 Stat. 777, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall revise section 383.3(f)(3)(ii) of title 49, Code of Federal Regulations (or a successor regulation), to provide that a restricted commercial driver's license issued to anemployee in a farm-related service industry shall be limited to the applicable seasonal periods defined by the State issuing the restricted commercial driver's license, subject to the condition that the total number of days in any calendar year during which the restricted commercial driver's license is valid does not exceed 210."
+Pub. L. 117–58, div. B, title III, §23019, Nov. 15, 2021, 135 Stat. 777, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall revise section 383.3(f)(3)(ii) of title 49, Code of Federal Regulations (or a successor regulation), to provide that a restricted commercial driver's license issued to an employee in a farm-related service industry shall be limited to the applicable seasonal periods defined by the State issuing the restricted commercial driver's license, subject to the condition that the total number of days in any calendar year during which the restricted commercial driver's license is valid does not exceed 210."
 
 #### Report on Commercial Driver's License Skills Test Delays
 

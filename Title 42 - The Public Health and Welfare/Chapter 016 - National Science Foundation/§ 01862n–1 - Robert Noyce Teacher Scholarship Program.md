@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) offering academic courses and clinical teaching experiences designed to prepare stipend recipients to teach in elementary schools and secondary schools served by a high need local educational agency, including such preparation as is necessary to meet requirements for teacher certification or licensing; and
 
-&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculationin the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
+&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
 
 #### (4) Eligibility requirement
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(D) a description of the academic courses and clinical teaching experiences required under subparagraphs (A)(ii) and (B)(ii) of subsection (a)(3), as applicable, including—
 
-&emsp;&emsp;&emsp;(i) a description of the undergraduate program that will enable a student to graduate within 5 years with a major in science, technology, engineering, or mathematics and to obtain teacher certification or licensing;
+&emsp;&emsp;&emsp;(i) a description of the undergraduate program that will enable a student tograduate within 5 years with a major in science, technology, engineering, or mathematics and to obtain teacher certification or licensing;
 
 &emsp;&emsp;&emsp;(ii) a description of the clinical teaching experiences proposed; and
 
@@ -140,7 +140,7 @@
 
 #### (4) Service obligation
 
-&emsp;If an individual receives a stipend under this section, such individual shall be required to complete, within 4 years after graduation from the program for which the stipend was awarded, 2 years of service as a mathematics or science teacher. Service required under this paragraph shall be performed in a high need local educational agency.
+&emsp;If an individual receives a stipend under this section, such individual shall be required tocomplete, within 4 years after graduation from the program for which the stipend was awarded, 2 years of service as a mathematics or science teacher. Service required under this paragraph shall be performed in a high need local educational agency.
 
 #### (e) Conditions of support
 
@@ -218,7 +218,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (h) Data collection
 
-An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarship and stipend recipients the Director may request, including information on employment required under this section.
+An eligible entity receiving a grant under this section shall supply to the Director any relevantstatistical and demographic data on scholarship and stipend recipients the Director may request, including information on employment required under this section.
 
 #### (i) Definitions
 
@@ -240,7 +240,7 @@ In this section—
 
 &emsp;(6) the term "scholarship" means an award under subsection (c);
 
-&emsp;(7) the term "science, technology, engineering, or mathematics professional" means anindividual who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, mathematics, or computer science, including cybersecurity, and is working in or had a career in such field or a related area; and
+&emsp;(7) the term "science, technology, engineering, or mathematics professional" means an individual who holds a baccalaureate, master's, or doctoral degree in science, technology, engineering, mathematics, or computer science, including cybersecurity, and is working in or had a career in such field or a related area; and
 
 &emsp;(8) the term "stipend" means an award under subsection (d).
 

@@ -2,7 +2,7 @@
 
 #### (a) Reporting requirements
 
-Not later than 120 days after May 20, 2009, and quarterly thereafter, the Comptroller of the Currency and the Director of the Office of Thrift Supervision,<sup>1</sup> shall jointly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate,<sup>2</sup> the Committee on Financial Services of the House of Representatives on the volume of mortgage modifications reported to the Office of the Comptroller of the Currency and the Office of Thrift Supervision, under the mortgage metrics program of each such Office, during the previous quarter, including the following:
+Not later than 120 days after May 20, 2009, and quarterly thereafter, the Comptroller of theCurrency and the Director of the Office of Thrift Supervision,<sup>1</sup> shall jointly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate,<sup>2</sup> the Committee on Financial Services of the House of Representatives on the volume of mortgage modifications reported to the Office of the Comptroller of the Currency and the Office of Thrift Supervision, under the mortgage metrics program of each such Office, during the previous quarter, including the following:
 
 &emsp;(1) A copy of the data collection instrument currently used by the Office of the Comptroller of the Currency and the Office of Thrift Supervision to collect data on loan modifications.
 

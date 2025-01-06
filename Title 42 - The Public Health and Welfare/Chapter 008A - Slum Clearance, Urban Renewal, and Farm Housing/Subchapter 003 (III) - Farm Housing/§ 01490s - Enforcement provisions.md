@@ -30,7 +30,7 @@
 
 #### (2) Conditions for renewal or extension
 
-&emsp;The Secretary may require that expiring loan or assistance agreements entered intounder this subchapter shall not be renewed or extended unless the owner executes an agreement to comply with additional conditions prescribed by the Secretary, or executes a new loan or assistance agreement in the form prescribed by the Secretary.
+&emsp;The Secretary may require that expiring loan or assistance agreements entered into under this subchapter shall not be renewed or extended unless the owner executes an agreement to comply with additional conditions prescribed by the Secretary, or executes a new loan or assistance agreement in the form prescribed by the Secretary.
 
 #### (3) Amount
 

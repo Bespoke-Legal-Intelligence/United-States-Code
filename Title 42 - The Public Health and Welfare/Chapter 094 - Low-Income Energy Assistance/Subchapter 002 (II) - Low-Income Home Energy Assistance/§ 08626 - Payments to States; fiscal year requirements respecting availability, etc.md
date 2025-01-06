@@ -24,7 +24,7 @@
 
 (B) No amount may be held available under this paragraph for a State from a prior fiscal year to the extent such amount exceeds 10 percent of the amount payable to such State for such prior fiscal year. For purposes of the preceding sentence, the amount payable to a State for a fiscal year shall be determined without regard to any amount held available under this paragraph for such State for such fiscal year from the prior fiscal year.
 
-(C) The Secretary shall reallot amounts made available under this paragraph for the fiscal year following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
+(C) The Secretary shall reallot amounts made available under this paragraph for the fiscalyear following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
 
 (3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 

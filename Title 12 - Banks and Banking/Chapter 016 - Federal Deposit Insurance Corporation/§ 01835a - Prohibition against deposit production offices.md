@@ -6,7 +6,7 @@ The appropriate Federal banking agencies shall prescribe uniform regulations eff
 
 #### (b) Guidelines for meeting credit needs
 
-Regulations issued under subsection (a) shall include guidelines to ensure that interstatebranches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
+Regulations issued under subsection (a) shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
 
 #### (c) Limitation on out-of-State loans
 
@@ -18,7 +18,7 @@ Regulations issued under subsection (a) shall include guidelines to ensure that 
 
 &emsp;&emsp;(B) if the agency determines that the out-of-State bank is not reasonably helping to meet those needs—
 
-&emsp;&emsp;&emsp;(i) the agency may order that an interstate branch or branches of such bank in the host State be closed unless the bank provides reasonable assurances to the satisfaction of the appropriate Federal banking agency that the bank has an acceptable plan that will reasonably help to meet the credit needs of the communities served by the bank in the host State, and
+&emsp;&emsp;&emsp;(i) the agency may order that an interstate branch or branches of such bank in the host State be closed unless the bankprovides reasonable assurances to the satisfaction of the appropriate Federal banking agency that the bank has an acceptable plan that will reasonably help to meet the credit needs of the communities served by the bank in the host State, and
 
 &emsp;&emsp;&emsp;(ii) the out-of-State bank may not open a new interstate branch in the host State unless the bank provides reasonable assurances to the satisfaction of the appropriate Federal banking agency that the bank will reasonably help to meet the credit needs of the community that the new branch will serve.
 
@@ -86,7 +86,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339,which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amended provisions set out as a note under section 1811 of this title. For complete classification of this title to the Code, see Tables.
+This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339, which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amended provisions set out as a note under section 1811 of this title. For complete classification of this title to the Code, see Tables.
 
 The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

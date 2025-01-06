@@ -32,7 +32,7 @@ Section 632(p)(5) of title 15, referred to in subsec. (b)(1), was redesignated a
 
 #### Codification
 
-Section is comprised of section 412 of Pub. L. 114–187. Subsec. (a)(1) of section 412 of Pub. L. 114–187 amendedsection 632 of Title 15, Commerce and Trade. Subsec. (a)(2) of section 412 of Pub. L. 114–187 enacted provisions set out as a note under section 632 of Title 15.
+Section is comprised of section 412 of Pub. L. 114–187. Subsec. (a)(1) of section 412 of Pub. L. 114–187 amended section 632 of Title 15, Commerce and Trade. Subsec. (a)(2) of section 412 of Pub. L. 114–187 enacted provisions set out as a note under section 632 of Title 15.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

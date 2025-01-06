@@ -1,6 +1,6 @@
 ### §3176. Administrator of General Services to furnish services in continental United States to international bodies
 
-Sections 1535 and 1536 of title 31 are extended so that the Administrator of General Services, at the request of the Secretary of State, may furnish services in the continental United States, on a reimbursable basis, to any international body with which the Federal Government is affiliated.
+Sections 1535 and 1536 of title 31 are extended so that the Administrator of General Services,at the request of the Secretary of State, may furnish services in the continental United States, on a reimbursable basis, to any international body with which the Federal Government is affiliated.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1156.)
 

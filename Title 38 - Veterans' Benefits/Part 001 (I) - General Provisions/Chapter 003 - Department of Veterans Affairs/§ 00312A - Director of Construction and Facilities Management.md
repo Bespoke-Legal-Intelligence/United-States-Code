@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) There is in the Department a Director of Construction and FacilitiesManagement, who shall be appointed by the Secretary.
+In General.—(1) There is in the Department a Director of Construction and Facilities Management, who shall be appointed by the Secretary.
 
 (2) The position of Director of Construction and Facilities Management is a career reserved position, as such term is defined in section 3132(a)(8) of title 5.
 

@@ -14,7 +14,7 @@ The Secretary shall periodically review all of the science and technology activi
 
 #### (1) In general
 
-&emsp;As part of the review under subsection (a), the Secretary shall develop a plan to improve coordination and collaboration in research, development, demonstration, and commercial application activities across organizational boundaries of the Department.
+&emsp;As part of the review under subsection (a), the Secretary shall develop a plan to improvecoordination and collaboration in research, development, demonstration, and commercial application activities across organizational boundaries of the Department.
 
 #### (2) Plan contents
 

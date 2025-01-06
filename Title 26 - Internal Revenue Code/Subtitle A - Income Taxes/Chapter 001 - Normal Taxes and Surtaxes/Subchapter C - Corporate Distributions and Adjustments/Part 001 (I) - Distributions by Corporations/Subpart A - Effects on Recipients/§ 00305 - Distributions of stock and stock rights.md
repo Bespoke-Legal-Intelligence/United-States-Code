@@ -70,7 +70,7 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 &emsp;&emsp;(B) the price at which such person purchased such stock.
 
-> &emsp;The preceding sentence shall also apply in the case of any person whose basis in such stock is determined by reference to the basis in the hands of such purchaser.
+> &emsp;The preceding sentence shall also apply in the case of any person whose basis in such stock isdetermined by reference to the basis in the hands of such purchaser.
 
 #### (2) Basis adjustments
 

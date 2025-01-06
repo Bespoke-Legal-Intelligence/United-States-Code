@@ -64,7 +64,7 @@
 
 (B) The total number of dependents treated in all facilities of the uniformed services under subparagraph (A) in a fiscal year may not exceed 2,000.
 
-(3)(A) Dependents who reside within a specified geographic area and are covered by a dental plan established under section 1076a may receivedental care in a dental treatment facility of the uniformed services on a space available basis if the Secretary of Defense determines that—
+(3)(A) Dependents who reside within a specified geographic area and are covered by a dental plan established under section 1076a may receive dental care in a dental treatment facility of the uniformed services on a space available basis if the Secretary of Defense determines that—
 
 &emsp;(i) civilian dental care within the specified geographic area is inadequate or is not sufficiently available; and
 

@@ -10,7 +10,7 @@ Conditions of Conveyance.—The General Services Administration may not convey a
 
 &emsp;(1) to provide the documentation needed by the General Services Administration to process a request for aircraft or vessels as if the request were being processed under section 102.37.225 of title 41, Code of Federal Regulations, as in effect on the date of the enactment of the Don Young Coast Guard Authorization Act of 2022;
 
-&emsp;(2) to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title, asin effect on the date of the enactment of the Don Young Coast Guard Authorization Act of 2022;
+&emsp;(2) to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title, as in effect on the date of the enactment of the Don Young Coast Guard Authorization Act of 2022;
 
 &emsp;(3) to make the vessel available to the United States Government if it is needed for use by the Commandant in time of war or a national emergency; and
 

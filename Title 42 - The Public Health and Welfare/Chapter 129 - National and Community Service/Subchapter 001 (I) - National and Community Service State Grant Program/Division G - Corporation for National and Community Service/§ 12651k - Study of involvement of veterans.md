@@ -2,7 +2,7 @@
 
 #### (a) Study and report
 
-The Corporation shall conduct a study and submit a report to the authorizing committees,not later than 3 years after the effective date of the Serve America Act, on—
+The Corporation shall conduct a study and submit a report to the authorizing committees, not later than 3 years after the effective date of the Serve America Act, on—
 
 &emsp;(1) the number of veterans serving in national service programs historically by year;
 

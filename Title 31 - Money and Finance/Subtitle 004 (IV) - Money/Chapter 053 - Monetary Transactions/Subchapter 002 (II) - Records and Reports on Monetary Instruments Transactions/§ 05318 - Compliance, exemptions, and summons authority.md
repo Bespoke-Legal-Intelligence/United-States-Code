@@ -128,7 +128,7 @@ Rule of construction.—Notwithstanding the application of subparagraph (A) in a
 
 &emsp;&emsp;&emsp;&emsp;(I) in a written employment reference that is provided in accordance with section 18(w) of the Federal Deposit Insurance Act in response to a request from another financial institution; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is providedin accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission,
+&emsp;&emsp;&emsp;&emsp;(II) in a written termination notice or employment reference that is provided in accordance with the rules of a self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission,
 
 &emsp;&emsp;&nbsp;except that such written reference or notice may not disclose that such information was also included in any such report, or that such report was made.
 
@@ -290,7 +290,7 @@ Pilot program described.—The pilot program described in this paragraph shall�
 
 &emsp;&emsp;&emsp;&emsp;(I) a certification that the extension is in the national interest of the United States, with a detailed explanation of the reasons that the extension is in the national interest of the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) after appropriate consultation by the Secretary with participants in the pilot program, an evaluation of the usefulness of the pilot program, including adetailed analysis of any illicit activity identified or prevented as a result of the program; and
+&emsp;&emsp;&emsp;&emsp;(II) after appropriate consultation by the Secretary with participants in the pilot program, an evaluation of the usefulness of the pilot program, including a detailed analysis of any illicit activity identified or prevented as a result of the program; and
 
 &emsp;&emsp;&emsp;&emsp;(III) a detailed legislative proposal providing for a long-term extension of activities under the pilot program, measures to ensure data security, and confidentiality of personally identifiable information, including expected budgetary resources for those activities, if the Secretary of the Treasury determines that a long-term extension is appropriate.
 
@@ -322,7 +322,7 @@ Exceptions.—The Secretary is authorized to make exceptions, on a case-by-case 
 
 Implementation updates.—Not later than 360 days after the date on which rules are issued under subparagraph (A), and annually thereafter for 3 years, the Secretary of the Treasury, or the designee of the Secretary, shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
 
-&emsp;&emsp;&emsp;(i) the degree of any information sharing permitted under the pilot program and a description of criteria used by the Secretary to evaluate the appropriateness of the information sharing;
+&emsp;&emsp;&emsp;(i) the degree of any information sharing permitted under the pilot program and adescription of criteria used by the Secretary to evaluate the appropriateness of the information sharing;
 
 &emsp;&emsp;&emsp;(ii) the effectiveness of the pilot program in identifying or preventing the violation of a United States law or regulation and mechanisms that may improve that effectiveness; and
 
@@ -378,7 +378,7 @@ Factors.—In prescribing the minimum standards under subparagraph (A), and in s
 
 &emsp;&emsp;&emsp;(i) Financial institutions are spending private compliance funds for a public and private benefit, including protecting the United States financial system from illicit finance risks.
 
-&emsp;&emsp;&emsp;(ii) The extension of financial services to the underbanked and the facilitation of financial transactions, including remittances, coming from the United States andabroad in ways that simultaneously prevent criminal persons from abusing formal or informal financial services networks are key policy goals of the United States.
+&emsp;&emsp;&emsp;(ii) The extension of financial services to the underbanked and the facilitation of financial transactions, including remittances, coming from the United States and abroad in ways that simultaneously prevent criminal persons from abusing formal or informal financial services networks are key policy goals of the United States.
 
 &emsp;&emsp;&emsp;(iii) Effective anti-money laundering and countering the financing of terrorism programs safeguard national security and generate significant public benefits by preventing the flow of illicit funds in the financial system and by assisting law enforcement and national security agencies with the identification and prosecution of persons attempting to launder money and undertake other illicit activity through the financial system.
 
@@ -396,7 +396,7 @@ Concentration accounts.—The Secretary may prescribe regulations under this sub
 
 &emsp;&emsp;(B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and
 
-&emsp;&emsp;(C) require each financial institution to establish written procedures governing the documentation of all transactions involving a concentration account, which procedures shall ensure that, any time a transaction involving a concentration account commingles funds belonging to 1 or more customers, the identity of, and specific amount belonging to, each customer is documented.
+&emsp;&emsp;(C) require each financial institution to establish written procedures governing the documentation of all transactions involving a concentration account, which procedures shall ensure that, any time a transaction involving a concentration account commingles funds belonging to 1 or more customers, theidentity of, and specific amount belonging to, each customer is documented.
 
 &emsp;(4)
 
@@ -516,7 +516,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;&emsp;(i) is maintained by a foreign bank;
 
-&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in acountry in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
+&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in a country in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
 
 &emsp;&emsp;&emsp;&emsp;(I) employs 1 or more individuals on a full-time basis; and
 
@@ -680,7 +680,7 @@ Termination of correspondent relationship.—
 
 &emsp;&emsp;&emsp;(i)
 
-Termination upon receipt of notice.—A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after the date on which the covered financial institution receives written notice from the Secretary of the Treasury or the Attorney General if, after consultation with the other, the Secretary of the Treasury or the Attorney General, as applicable, determines that the foreign bank has failed—
+Termination upon receipt of notice.—A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after the date on which the covered financial institution receives writtennotice from the Secretary of the Treasury or the Attorney General if, after consultation with the other, the Secretary of the Treasury or the Attorney General, as applicable, determines that the foreign bank has failed—
 
 &emsp;&emsp;&emsp;&emsp;(I) to comply with a subpoena issued under subparagraph (A)(i); or
 
@@ -768,7 +768,7 @@ Effective date.—Final regulations prescribed under this subsection shall take 
 
 (m)
 
-Applicability of Rules.—Any rules promulgated pursuant to the authority contained in section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b) shall apply, in addition to any other financial institution to which such rules apply, to any person that engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
+Applicability of Rules.—Any rules promulgated pursuant to the authority contained in section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b) shall apply, in addition toany other financial institution to which such rules apply, to any person that engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
 
 (n)
 
@@ -838,7 +838,7 @@ Standards.—The standards described in paragraph (1) may include—
 
 &emsp;&emsp;(B) risk-based testing, oversight, and other risk management approaches of the regime, prior to and after implementation, to facilitate calibration of relevant systems and prudently evaluate and monitor the effectiveness of their implementation;
 
-&emsp;&emsp;(C) specific criteria for when and how risk-based testing against existing processes should be considered to test and validate the effectiveness of relevant systems and situations and standards for when other risk management processes, including those developed by or through third party risk and compliance management systems, and oversight may be more appropriate;
+&emsp;&emsp;(C) specific criteria for when and how risk-based testing against existing processes should be considered to test and validate the effectiveness of relevant systems and situations and standards for when other riskmanagement processes, including those developed by or through third party risk and compliance management systems, and oversight may be more appropriate;
 
 &emsp;&emsp;(D) specific standards for a risk governance framework for financial institutions to provide oversight and to prudently evaluate and monitor systems and testing processes both pre- and post-implementation;
 
@@ -926,7 +926,7 @@ Federal depository institution.—The term "Federal depository institution" has 
 
 Federal depository institution regulators.—The term "Federal depository institution regulator" means a member of the Financial Institutions Examination Council to which is delegated any authority of the Secretary under subsection (a)(1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§6101(b), 6102(c), title LXII, §§6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74,div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§6101(b), 6102(c), title LXII, §§6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
 
 Historical and Revision Notes
 
@@ -1122,7 +1122,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: "Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act."
+Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: "Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or theamendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act."
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 

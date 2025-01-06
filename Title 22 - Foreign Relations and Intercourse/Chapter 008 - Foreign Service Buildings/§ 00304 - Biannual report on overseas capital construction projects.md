@@ -48,7 +48,7 @@ Section was enacted as part of the Department of State Authorities Act, Fiscal Y
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, §5203(a)(1), substituted "Biannual report on overseas capital construction projects" for "Annual report on embassy construction costs" in section catchline.
+<b>2021</b>—Pub. L. 117–81, §5203(a)(1), substituted "Biannual report on overseas capital construction projects"for "Annual report on embassy construction costs" in section catchline.
 
 Subsec. (a). Pub. L. 117–81, §5203(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects."
 

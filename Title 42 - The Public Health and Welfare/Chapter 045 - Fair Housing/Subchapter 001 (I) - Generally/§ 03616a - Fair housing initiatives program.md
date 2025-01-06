@@ -60,7 +60,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (3) Community-based programs
 
-&emsp;The Secretary shall provide funding to fair housing organizations and other nonprofit organizations representing groups of persons protected under title VIII of the Civil Rights Act of 1968, or other public or private entities that are formulating or carrying out programs to prevent or eliminate discriminatory housing practices, to support community-based education and outreach activities, includingschool, church, and community presentations, conferences, and other educational activities.
+&emsp;The Secretary shall provide funding to fair housing organizations and other nonprofit organizations representing groups of persons protected under title VIII of the Civil Rights Act of 1968, or other public or private entities that are formulating or carrying out programs to prevent or eliminate discriminatory housing practices, to support community-based education and outreach activities, including school, church, and community presentations, conferences, and other educational activities.
 
 #### (e) Program administration
 
@@ -74,7 +74,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 (2) The Secretary shall, for use during the demonstration authorized in this section, establish guidelines for testing activities funded under the private enforcement initiative of the fair housing initiatives program. The purpose of such guidelines shall be to ensure that investigations in support of fair housing enforcement efforts described in subsection (a)(1) shall develop credible and objective evidence of discriminatory housing practices. Such guidelines shall apply only to activities funded under this section, shall not be construed to limit or otherwise restrict the use of facts secured through testing not funded under this section in any legal proceeding under Federal fair housing laws, and shall not be used to restrict individuals or entities, including those participating in the fair housing initiatives program, from pursuing any right or remedy guaranteed by Federal law. Not later than 6 months after the end of the demonstration period authorized in this section,<sup>1</sup> the Secretary shall submit to Congress the evaluation of the Secretary of the effectiveness of such guidelines in achieving the purposes of this section.
 
-(3) Such regulations shall include provisions governing applications for assistance under this section, and shall require each such application to contain—
+(3) Such regulations shall include provisions governing applications for assistance under thissection, and shall require each such application to contain—
 
 &emsp;(A) a description of the assisted activities proposed to be undertaken by the applicant, together with the estimated costs and schedule for completion of such activities;
 
@@ -146,7 +146,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 &emsp;(5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
+(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L.104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
 
 #### <b>Editorial Notes</b>
 
@@ -154,7 +154,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under section 3601 of this title and Tables.
 
-The Fair Housing Act Amendments of 1988, referred to in subsec. (d)(1), probably means the Fair Housing Amendments Act of 1988, Pub. L. 100–430, Sept. 13, 1988, 102 Stat. 1619, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 3601 of this title and Tables.
+The Fair Housing Act Amendments of 1988, referred to in subsec. (d)(1), probably means the Fair Housing Amendments Act of 1988, Pub. L. 100–430, Sept. 13, 1988, 102 Stat. 1619. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 3601 of this title and Tables.
 
 The phrase "Not later than 6 months after the end of the demonstration period authorized in this section", referred to in subsec. (f)(2), probably means the end of the demonstration period pursuant to former subsec. (e) of this section, which provided that such period was to end Sept. 30, 1992. However, subsec. (e) was redesignated (h) and struck out by Pub. L. 102–550. See 1992 Amendment notes below.
 

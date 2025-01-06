@@ -22,7 +22,7 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 &emsp;&emsp;(B) an explanation of the reasons why the continuation of the withdrawal or a classification or portion thereof proposed for revocation, modification, or termination is no longer necessary for the purposes of the statutory or other program or programs for which the withdrawal or classification was made or other relevant programs;
 
-&emsp;&emsp;(C) assurances that all relevant documents concerning the proposed exchange or purchase for which such authority is proposed to be exercised (including documents related to compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and all other applicable provisions of law) are available for public inspection in the office of the Secretary concerned located nearest to the lands proposed for transfer out of Federal ownership in furtherance of such exchange and that the relevant portions of such documents are also available in the offices of the Secretary concerned in Washington, District of Columbia; and
+&emsp;&emsp;(C) assurances that all relevant documents concerning the proposed exchange or purchase for which such authority is proposed to be exercised (including documents related to compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and all other applicable provisions of law) are available for public inspection in the office of the Secretary concerned located nearest to the lands proposed for transfer out of Federal ownership in furtherance of such exchange and that the relevant portions of such documents are also available inthe offices of the Secretary concerned in Washington, District of Columbia; and
 
 &emsp;&emsp;(D) an explanation of the effect of the revocation, modification, or termination of a withdrawal or classification or portion thereof and the transfer of lands out of Federal ownership pursuant to the particular proposed exchange, on the objectives of the land management plan which is applicable at the time of such transfer to the land to be transferred out of Federal ownership.
 
@@ -36,7 +36,7 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 #### (d) Termination
 
-The authority specified in subsection (a) shall expire either (1) on December 31, 1990, or (2)when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
+The authority specified in subsection (a) shall expire either (1) on December 31, 1990, or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
 
 (Pub. L. 94–579, title II, §215, as added Pub. L. 100–409, §10, Aug. 20, 1988, 102 Stat. 1092; amended Pub. L. 103–437, §16(d)(2), Nov. 2, 1994, 108 Stat. 4595.)
 

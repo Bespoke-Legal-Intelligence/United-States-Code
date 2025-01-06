@@ -22,7 +22,7 @@
 
 #### (3) Sharing of information
 
-&emsp;Other departments and agencies of the United States shall provide to the interagency group such information available to such departments and agencies as the interagency group may request, except that the requirements, including penalties for violation thereof, for preserving the confidentiality of such information which are applicable to the officials, employees, experts, or consultants of such departments and agencies shall apply in the same manner to each member of the interagency group and to any other person performing any function under this subsection.
+&emsp;Other departments and agencies of the United States shall provide to the interagencygroup such information available to such departments and agencies as the interagency group may request, except that the requirements, including penalties for violation thereof, for preserving the confidentiality of such information which are applicable to the officials, employees, experts, or consultants of such departments and agencies shall apply in the same manner to each member of the interagency group and to any other person performing any function under this subsection.
 
 #### (b) Office of Barter
 

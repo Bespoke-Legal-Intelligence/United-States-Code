@@ -12,7 +12,7 @@ The Chief Information Officer shall report to the Secretary, or to another offic
 
 #### (A) Geospatial information
 
-&emsp;&emsp;The term "geospatial information" means graphical or digital data depicting naturalor manmade physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, remote sensing data, and images.
+&emsp;&emsp;The term "geospatial information" means graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, remote sensing data, and images.
 
 #### (B) Geospatial technology
 
@@ -102,7 +102,7 @@ Executive Order 12906, referred to in subsec. (b)(2)(D)(iii), is set out as a no
 
 Pub. L. 108–458, title VIII, §8201(a), Dec. 17, 2004, 118 Stat. 3865, provided that: "Congress makes the following findings:
 
-&emsp;"(1) Geospatial technologies and geospatial data improve government capabilities to detect, plan for, prepare for, and respond to disasters in order to save lives and protect property.
+&emsp;"(1) Geospatial technologies and geospatial data improve government capabilities to detect, plan for,prepare for, and respond to disasters in order to save lives and protect property.
 
 &emsp;"(2) Geospatial data improves the ability of information technology applications and systems to enhance public security in a cost-effective manner.
 

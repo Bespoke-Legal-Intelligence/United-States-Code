@@ -86,7 +86,7 @@ Dual Status Requirement.—(1) Funds appropriated for the Department of Defense 
 
 (f)
 
-Authority for Deferral of Mandatory Separation.—The Secretary of the Army and the Secretary of the Air Force may each implement personnel policies so as to allow, at the discretion of the Secretary concerned, a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 60 and attains eligibility for an unreduced annuity (as defined in section 10218(c) of this title).
+Authority for Deferral of Mandatory Separation.—The Secretary of the Army and the Secretary of the Air Force may each implement personnel policies so as to allow, at the discretion of the Secretary concerned, a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 62.<sup>1</sup> and attains eligibility for an unreduced annuity (as defined in section 10218(c) of this title).
 
 (g)
 
@@ -100,17 +100,19 @@ Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Dis
 
 (3) Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, §514(a), Dec. 31, 2011, 125 Stat. 1394.)
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, §514(a), Dec. 31, 2011, 125 Stat. 1394; Pub. L. 118–159, div. A, title V, §511(a), Dec. 23, 2024, 138 Stat. 1875.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2024</b>—Subsec. (f). Pub. L. 118–159 substituted "62." for "60".
+
 <b>2011</b>—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 111–383, §1075(b)(52), substituted "section 115(d)" for "section 115(c)".
 
 Subsec. (d)(3). Pub. L. 111–383, §512, added par. (3).
 
-Subsec. (f). Pub. L. 112–81 inserted "Authority for" before "Deferral of Mandatory Separation" in heading,and in text, substituted "may each implement" for "shall implement", inserted ", at the discretion of the Secretary concerned," after "so as to allow", and struck out "for officers" after "mandatory removal date".
+Subsec. (f). Pub. L. 112–81 inserted "Authority for" before "Deferral of Mandatory Separation" in heading, and in text, substituted "may each implement" for "shall implement", inserted ", at the discretion of the Secretary concerned," after "so as to allow", and struck out "for officers" after "mandatory removal date".
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–417 inserted "and the Secretary of the Air Force" after "Secretary of the Army".
 
@@ -208,11 +210,13 @@ In general.—By not later than October 1, 2017, the Secretary of Defense shall 
 
 Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:
 
-&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary ofDefense in the course of reviewing all military technician positions for purposes of implementing this section.
+&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section.
 
 &emsp;"(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection.
 
 "(3)
 
 Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -62,7 +62,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;&emsp;&emsp;(iv) is open to proposals from entities that have not previously received funds under this part;
 
-&emsp;&emsp;(D) the extent to which the amount of assistance to be provided under this part to the recipient will be supplemented with resources from other public and private sources, including mainstream programs identified by the Government Accountability Office in the two reports described in section 11313(a)(7) of this title;
+&emsp;&emsp;(D) the extent to which the amount of assistance to be provided under this part tothe recipient will be supplemented with resources from other public and private sources, including mainstream programs identified by the Government Accountability Office in the two reports described in section 11313(a)(7) of this title;
 
 &emsp;&emsp;(E) demonstrated coordination by the recipient with the other Federal, State, local, private, and other entities serving individuals and families experiencing homelessness and at risk of homelessness in the planning and operation of projects;
 

@@ -16,7 +16,7 @@ The Commission shall waive a regulation adopted under subsection (a) for a limit
 
 #### (1) Commercial availability determinations
 
-&emsp;Determinations made or regulations prescribed by the Commission with respect to commercial availability to consumers of converter boxes, interactive communications equipment, and other equipment used by consumers to access multichannel video programming and other services offered over multichannel video programming systems, before February 8, 1996, shall fulfill the requirements of this section.
+&emsp;Determinations made or regulations prescribed by the Commission with respect tocommercial availability to consumers of converter boxes, interactive communications equipment, and other equipment used by consumers to access multichannel video programming and other services offered over multichannel video programming systems, before February 8, 1996, shall fulfill the requirements of this section.
 
 #### (2) Regulations
 

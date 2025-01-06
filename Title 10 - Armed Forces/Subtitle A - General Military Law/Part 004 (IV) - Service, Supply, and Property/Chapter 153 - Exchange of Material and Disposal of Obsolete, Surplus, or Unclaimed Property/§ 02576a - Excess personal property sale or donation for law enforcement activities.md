@@ -60,7 +60,7 @@ Publicly Accessible Website.—(1) The Secretary shall create and maintain a pub
 
 (g)
 
-Controlled Property.—In this section, the term "controlled property" means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, "Defense Materiel Disposition Manual", or any successor document.
+Controlled Property.—In this section, the term "controlled property" means any item assigned a demilitarization code of B, C, D, E, G,or Q under Department of Defense Manual 4160.21–M, "Defense Materiel Disposition Manual", or any successor document.
 
 (Added Pub. L. 104–201, div. A, title X, §1033(a)(1), Sept. 23, 1996, 110 Stat. 2639; amended Pub. L. 114–92, div. A, title X, §§1051(a)–(c), 1052, Nov. 25, 2015, 129 Stat. 979–981; Pub. L. 115–91, div. A, title X, §1081(a)(43), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–283, div. A, title X, §1053, Jan. 1, 2021, 134 Stat. 3850.)
 

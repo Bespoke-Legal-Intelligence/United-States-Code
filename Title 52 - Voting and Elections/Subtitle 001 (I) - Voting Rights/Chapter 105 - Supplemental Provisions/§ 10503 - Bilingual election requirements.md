@@ -32,7 +32,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 &emsp;As used in this section—
 
-&emsp;&emsp;(A) the term "voting materials" means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
+&emsp;&emsp;(A) the term "voting materials" means registration or voting notices, forms, instructions, assistance, or other materials orinformation relating to the electoral process, including ballots;
 
 &emsp;&emsp;(B) the term "limited-English proficient" means unable to speak or understand English adequately enough to participate in the electoral process;
 

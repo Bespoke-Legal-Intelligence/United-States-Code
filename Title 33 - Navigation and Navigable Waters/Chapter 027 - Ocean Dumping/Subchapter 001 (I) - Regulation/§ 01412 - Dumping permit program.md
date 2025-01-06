@@ -2,7 +2,7 @@
 
 #### (a) Environmental Protection Agency permits
 
-Except in relation to dredged material, as provided for in section 1413 of this title, and in relation to radiological, chemical, and biological warfare agents, high-level radioactive waste, and medical waste, for which no permit may be issued, the Administrator may issue permits, after notice and opportunity for public hearings, for the transportation from the United States or, in the case of an agency or instrumentality of the United States, or in the case of a vessel or aircraft registered in the United States or flying the United States flag, for the transportation from a location outside the United States, of material for the purpose of dumping it into ocean waters, or for the dumping of material into the waters described in section 1411(b) of this title, where the Administrator determines that such dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities. The Administrator shall establish and apply criteria forreviewing and evaluating such permit applications, and, in establishing or revising such criteria, shall consider, but not be limited in his consideration to, the following :
+Except in relation to dredged material, as provided for in section 1413 of this title, and in relation to radiological, chemical, and biological warfare agents, high-level radioactive waste, and medical waste, for which no permit may be issued, the Administrator may issue permits, after notice and opportunity for public hearings, for the transportation from the United States or, in the case of an agency or instrumentality of the United States, or in the case of a vessel or aircraft registered in the United States or flying the United States flag, for the transportation from a location outside the United States, of material for the purpose of dumping it into ocean waters, or for the dumping of material into the waters described in section 1411(b) of this title, where the Administrator determines that such dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities. The Administrator shall establish and apply criteria for reviewing and evaluating such permit applications, and, in establishing or revising such criteria, shall consider, but not be limited in his consideration to, the following :
 
 &emsp;(A) The need for the proposed dumping.
 
@@ -46,7 +46,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (3) Dredged material disposal sites
 
-&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
+&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction withthe Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
 
 &emsp;&emsp;(A) a baseline assessment of conditions at the site;
 

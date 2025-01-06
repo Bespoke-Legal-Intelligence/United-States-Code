@@ -82,7 +82,7 @@ Reports.—Not later than April 15 and October 15 of each calendar year while th
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'congressional defense committees' means the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives.
+&emsp;"(1) The term 'congressional defense committees' means the Committees on Armed Services and theCommittees on Appropriations of the Senate and the House of Representatives.
 
 &emsp;"(2) The term 'off-site agreement' means the agreement on the restructuring of the Army National Guard and the Army Reserve."
 
@@ -98,7 +98,7 @@ Pub. L. 103–335, title VIII, §8073, Sept. 30, 1994, 108 Stat. 2635.
 
 Pub. L. 103–139, title VIII, §8087, Nov. 11, 1993, 107 Stat. 1459.
 
-Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667,1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(l), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(l), (m)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title X, §1048(h)(2), Dec. 28, 2001, 115 Stat. 1229, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(l), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(l), (m)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title X, §1048(h)(2), Dec. 28, 2001, 115 Stat. 1229, provided that:
 
 #### "SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
@@ -178,7 +178,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 "(a)
 
-Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
+Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the forcereduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
 "(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
@@ -270,7 +270,7 @@ Chapter 30.—\[Amended section 3012(b)(1)(B) of Title 38, Veterans' Benefits.\]
 
 #### "SEC. 4420. COMMISSARY AND EXCHANGE PRIVILEGES.
 
-"The Secretary of Defense shall prescribe regulations to authorize a person who involuntarily ceases to be a member of the Selected Reserve during the force reduction transition period to continue to use commissary and exchange stores in the same manner as a member of the Selected Reserve for a period of two years beginning on the later of—
+"The Secretary of Defense shall prescribe regulations to authorize a person who involuntarily ceases to be a member of the Selected Reserve during the force reduction transition period to continue to use commissary and exchange stores in the same manner as a memberof the Selected Reserve for a period of two years beginning on the later of—
 
 &emsp;"(1) the date on which that person ceases to be a member of the Selected Reserve; or
 
@@ -290,7 +290,7 @@ Inapplicability to Certain Separations and Reassignments.—Sections 4418 throug
 
 "(c)
 
-Termination of Benefits.—The eligibility of a member of a reserve component of the Armed Forces\(after having involuntarily ceased to be a member of the Selected Reserve) to receive benefits and privileges under sections 4418 through 4420 terminates upon the involuntary separation of such member from the Armed Forces under adverse conditions, as characterized by the Secretary of the military department concerned.
+Termination of Benefits.—The eligibility of a member of a reserve component of the Armed Forces (after having involuntarily ceased to be a member of the Selected Reserve) to receive benefits and privileges under sections 4418 through 4420 terminates upon the involuntary separation of such member from the Armed Forces under adverse conditions, as characterized by the Secretary of the military department concerned.
 
 #### "SEC. 4422. READJUSTMENT BENEFITS FOR CERTAIN VOLUNTARILY SEPARATED MEMBERS OF THE RESERVE COMPONENTS.
 

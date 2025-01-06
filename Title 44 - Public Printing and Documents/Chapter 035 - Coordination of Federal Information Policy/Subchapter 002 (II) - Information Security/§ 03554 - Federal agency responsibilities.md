@@ -106,7 +106,7 @@ Agency Program.—Each agency shall develop, document, and implement an agency-w
 
 &emsp;&emsp;(C) shall include using automated tools, consistent with standards and guidelines promulgated under section 11331 of title 40;
 
-&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial actionto address any deficiencies in the information security policies, procedures, and practices of the agency;
+&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial action to address any deficiencies in the information security policies, procedures, and practices of the agency;
 
 &emsp;(7) procedures for detecting, reporting, and responding to security incidents, which—
 

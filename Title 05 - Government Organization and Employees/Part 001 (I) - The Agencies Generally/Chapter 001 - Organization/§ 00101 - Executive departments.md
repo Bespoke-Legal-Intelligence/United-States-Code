@@ -110,6 +110,24 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2025 Amendment
+
+Pub. L. 118–231, §1, Jan. 4, 2025, 138 Stat. 2829, provided that: "This Act \[enacting subchapter III of chapter 3 of this title\] may be cited as the 'Government Service Delivery Improvement Act'."
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–192, §1, Dec. 23, 2024, 138 Stat. 2660, provided that: "This Act \[amending section 8332 of this title and section 719 of Title 38, Veterans' Benefits\] may be cited as the 'No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act' or the 'No CORRUPTION Act'."
+
+Pub. L. 118–188, §1, Dec. 23, 2024, 138 Stat. 2644, provided that: "This Act \[amending sections 3302, 3304, 3330a, and 9810 of this title, sections 3008 and 6918 of Title 22, Foreign Relations and Intercourse, and section 17013 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 3304 of this title\] may be cited as the 'Chance to Compete Act of 2024'."
+
+Pub. L. 118–104, §1, Oct. 2, 2024, 138 Stat. 1586, provided that: "This Act \[amending section 552a of this title\] may be cited as the 'Congressional Budget Office Data Access Act'."
+
+Pub. L. 118–97, §1, Oct. 1, 2024, 138 Stat. 1573, provided that: "This Act \[amending section 801 of this title and enacting provisions set out as a note under section 801 of this title\] may be cited as the 'GAO Database Modernization Act of 2023'."
+
+Pub. L. 118–71, §1, July 25, 2024, 138 Stat. 1492, provided that: "This Act \[amending section 413 of this title and enacting provisions set out as notes under section 413 of this title and section 4041 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Federal Prison Oversight Act'."
+
+Pub. L. 118–38, §1, Feb. 6, 2024, 138 Stat. 13, provided that: "This Act \[enacting and amending provisions set out as notes under section 5547 of this title\] may be cited as the 'Overtime Pay for Protective Services Act of 2023'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 118–9, §1, July 25, 2023, 137 Stat. 55, provided that: "This Act \[amending section 553 of this title\] may be cited as the 'Providing Accountability Through Transparency Act of 2023'."
@@ -164,7 +182,7 @@ Pub. L. 115–160, §1, Apr. 3, 2018, 132 Stat. 1246, provided that: "This Act \
 
 Pub. L. 115–84, §1, Nov. 17, 2017, 131 Stat. 1272, provided that: "This Act \[amending sections 8432b and 8433 of this title and enacting provisions set out as notes under sections 8432b and 8433 of this title\] may be cited as the 'TSP Modernization Act of 2017'."
 
-Pub. L. 115–73, §1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: "This Act \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under sections 1212 and 2301 of this titleand section 703 of Title 38, Veterans' Benefits, and amending provisions set out as a note under section 2302 of this title\] may be cited as the 'Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017'."
+Pub. L. 115–73, §1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: "This Act \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under sections 1212 and 2301 of this title and section 703 of Title 38, Veterans' Benefits, and amending provisions set out as a note under section 2302 of this title\] may be cited as the 'Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017'."
 
 Pub. L. 115–40, §1, June 14, 2017, 131 Stat. 861, provided that: "This Act \[amending section 2302 of this title\] may be cited as the 'Follow the Rules Act'."
 
@@ -212,7 +230,7 @@ Pub. L. 112–166, §1, Aug. 10, 2012, 126 Stat. 1283, provided that: "This Act 
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–292, §1, Dec. 9, 2010, 124 Stat. 3165, provided that: "This Act \[enacting chapter 65 and section 5711 of this title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\] may be cited as the 'Telework Enhancement Act of 2010'."
+Pub. L. 111–292, §1, Dec. 9, 2010, 124 Stat. 3165, provided that: "This Act \[enacting chapter 65 and section 5711 ofthis title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\] may be cited as the 'Telework Enhancement Act of 2010'."
 
 Pub. L. 111–282, §1(a), Oct. 15, 2010, 124 Stat. 3033, provided that: "This Act \[enacting chapter 102 of this title, amending sections 5102, 5541, 6304, and 6324 of this title, enacting provisions set out as notes under sections 5102 and 10201 of this title, and amending provisions set out as notes under section 3056A of Title 18, Crimes and Criminal Procedure\] may be cited as the 'United States Secret Service Uniformed Division Modernization Act of 2010'."
 
@@ -270,7 +288,7 @@ Pub. L. 107–296, title XIII, §1301, Nov. 25, 2002, 116 Stat. 2287, provided t
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: "This Act \[amending sections 8335 and 8425 of this title\] may be cited as the 'Federal Firefighters Retirement Age Fairness Act'."
+Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: "This Act \[amending sections 8335 and 8425 of thistitle\] may be cited as the 'Federal Firefighters Retirement Age Fairness Act'."
 
 #### Prohibition Against Construction That Would Render Applicable to the Department of Transportation Provisions of Law Inconsistent With Pub. L. 89–670 Creating the Department of Transportation
 

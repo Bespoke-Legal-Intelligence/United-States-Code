@@ -44,7 +44,7 @@
 
 #### (ii) Designation of standards
 
-&emsp;&emsp;&emsp;Consistent with sections 17901 and 17902 of this title, the data and technology standards designated pursuant to this paragraph shall align with the standards and implementation specifications previously adopted by the Secretary pursuantto section 300jj–14 of this title, as applicable.
+&emsp;&emsp;&emsp;Consistent with sections 17901 and 17902 of this title, the data and technology standards designated pursuant to this paragraph shall align with the standards and implementation specifications previously adopted by the Secretary pursuant to section 300jj–14 of this title, as applicable.
 
 #### (C) Privacy and security
 

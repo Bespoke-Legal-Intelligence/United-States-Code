@@ -4,7 +4,7 @@
 
 &emsp;(1) the Nation is in a severe recession and that the sharp downturn in economic activity has driven large numbers of workers into unemployment and has reduced the incomes of many others;
 
-&emsp;(2) as a result of these adverse economic conditions the capacity of many homeowners to continue to make mortgage payments has deteriorated and may further deteriorate in the months ahead, leading to the possibility of widespread mortgage foreclosures and distress sales of homes; and
+&emsp;(2) as a result of these adverse economic conditions the capacity of many homeowners tocontinue to make mortgage payments has deteriorated and may further deteriorate in the months ahead, leading to the possibility of widespread mortgage foreclosures and distress sales of homes; and
 
 &emsp;(3) many of these homeowners could retain their homes with temporary financial assistance until economic conditions improve.
 

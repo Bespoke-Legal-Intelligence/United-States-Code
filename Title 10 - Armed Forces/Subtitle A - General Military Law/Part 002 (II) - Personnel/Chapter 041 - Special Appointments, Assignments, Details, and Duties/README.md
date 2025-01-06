@@ -6,7 +6,7 @@
 | [711a.](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md) | American National Red Cross: detail of commissioned officers. |
 | [712\.](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md) | Foreign governments: detail to assist. |
 | [713\.](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md) | State Department: assignment or detail as couriers and building inspectors. |
-| [714\.](%C2%A7%2000714%20-%20Senior%20leaders%20of%20the%20Department%20of%20Defense%20and%20other%20specified%20persons%20authority%20to%20provide%20protection%20within%20the%20United%20States.md) | Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States. |
+| [714\.](%C2%A7%2000714%20-%20Senior%20leaders%20of%20the%20Department%20of%20Defense%20and%20other%20specified%20persons%20authority%20to%20provide%20protection.md) | Senior leaders of the Department of Defense and other specified persons: authority to provide protection. |
 | [715\.](%C2%A7%2000715%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md) | Attending Physician to the Congress: grade. |
 | [716\.](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md) | Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. |
 | [717\.](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md) | Members of the armed forces: participation in international sports. |
@@ -20,6 +20,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title V, §522(a)(1), Dec. 23, 2024, 138 Stat. 1883, struck out "within the United States" after "provide protection" in item 714. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 116–283, div. A, title X, §§1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
 
@@ -175,7 +177,7 @@ Reports on Details and Fellowships of Long Duration.—Whenever a member of the 
 
 "(b)
 
-Reports on Certain Military Details and Fellowships.—If a member of the Armed Forces is assigned to a covered legislative detail or fellowship as the last tour of duty of such member before retirement or separation from the Armed Forces in contravention of the regulations of the Department of Defense, the Secretary shall submit to the congressional defensecommittees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the assignment of such member to such covered legislative detail or fellowship. The report shall include a rationale for the waiver of the regulations of the Department in order to permit the detail or fellowship.
+Reports on Certain Military Details and Fellowships.—If a member of the Armed Forces is assigned to a covered legislative detail or fellowship as the last tour of duty of such member before retirement or separation from the Armed Forces in contravention of the regulations of the Department of Defense, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the assignment of such member to such covered legislative detail or fellowship. The report shall include a rationale for the waiver of the regulations of the Department in order to permit the detail or fellowship.
 
 "(c)
 
@@ -208,7 +210,7 @@ Covered Legislative Detail or Fellowship Defined.—In this section, the term 'c
 - [&sect; 00711a - American National Red Cross detail of commissioned officers](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md)
 - [&sect; 00712 - Foreign governments detail to assist](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md)
 - [&sect; 00713 - State Department assignment or detail as couriers and building inspectors](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md)
-- [&sect; 00714 - Senior leaders of the Department of Defense and other specified persons authority to provide protection within the United States](%C2%A7%2000714%20-%20Senior%20leaders%20of%20the%20Department%20of%20Defense%20and%20other%20specified%20persons%20authority%20to%20provide%20protection%20within%20the%20United%20States.md)
+- [&sect; 00714 - Senior leaders of the Department of Defense and other specified persons authority to provide protection](%C2%A7%2000714%20-%20Senior%20leaders%20of%20the%20Department%20of%20Defense%20and%20other%20specified%20persons%20authority%20to%20provide%20protection.md)
 - [&sect; 00715 - Attending Physician to the Congress grade](%C2%A7%2000715%20-%20Attending%20Physician%20to%20the%20Congress%20grade.md)
 - [&sect; 00716 - Commissioned officers transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md)
 - [&sect; 00717 - Members of the armed forces participation in international sports](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md)

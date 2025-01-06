@@ -28,5 +28,5 @@ Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89�
 
 #### Water Resources Planning
 
-Jurisdiction, powers, or prerogatives of the International Boundary and Water Commission, United States and Mexico, unaffected by Water Resources Planning Act, see section 1962–1 of Title 42, The Public Health and Welfare.
+Jurisdiction, powers, or prerogatives of the International Boundary and Water Commission, United States and Mexico, unaffected by Water ResourcesPlanning Act, see section 1962–1 of Title 42, The Public Health and Welfare.
 

@@ -10,7 +10,7 @@ Within one year of October 12, 1982, the Secretary of Agriculture, with the coop
 
 &emsp;(3) the feasibility and appropriateness of requiring the participation in acreage set-aside programs of farms served by irrigation water and the costs of such a requirement; and
 
-&emsp;(4) any recommendations concerning how to coordinate national reclamation policy with agriculture policy to help alleviate recurring problems of surplus crops and low commodity prices.
+&emsp;(4) any recommendations concerning how to coordinate national reclamation policy with agriculture policy to help alleviate recurringproblems of surplus crops and low commodity prices.
 
 #### (b) Restrictions prohibiting delivery of irrigation water for production of excess basic agricultural commodities
 

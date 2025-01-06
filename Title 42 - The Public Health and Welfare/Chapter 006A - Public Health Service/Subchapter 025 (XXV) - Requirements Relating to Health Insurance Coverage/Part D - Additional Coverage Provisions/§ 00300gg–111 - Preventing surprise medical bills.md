@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;Under the process established pursuant to clause (i), the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall conduct audits described in such clause, with respect to a year (beginning with 2022), of a sample with respect to such year of claims data from not more than 25 group health plans and health insurance issuers offering group or individual health insurance coverage; and
+&emsp;&emsp;&emsp;&emsp;(I) shall conduct audits described in such clause, with respect to a year (beginning with 2022), of a sample with respect to such year of claims data fromnot more than 25 group health plans and health insurance issuers offering group or individual health insurance coverage; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may audit any group health plan or health insurance issuer offering group or individual health insurance coverage if the Secretary has received any complaint or other information about such plan or coverage, respectively, that involves the compliance of the plan or coverage, respectively, with either of the requirements described in subclauses (I) and (II) of such clause.
 
@@ -184,7 +184,7 @@
 
 #### (i) Nonparticipating emergency facility
 
-&emsp;&emsp;&emsp;The term "nonparticipating emergency facility" means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that does not have a contractual relationship directly or indirectly with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+&emsp;&emsp;&emsp;The term "nonparticipating emergency facility" means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or anindependent freestanding emergency department, that does not have a contractual relationship directly or indirectly with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
 
 #### (ii) Participating emergency facility
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-&emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case of such item or service furnished in a Statethat does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) <sup>2</sup> for such year and determined in accordance with rulemaking described in paragraph (2)(B)) <sup>2</sup> for such item or service; or
+&emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) <sup>2</sup> for such year and determined in accordance with rulemaking described in paragraph (2)(B)) <sup>2</sup> for such item or service; or
 
 &emsp;&emsp;&emsp;(iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act \[42 U.S.C. 1315a\], the amount that the State approves under such system for such item or service so furnished.
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case such State does not have in effect such a law with respect to such item or service, plan, and provider or facility—
 
-&emsp;&emsp;&emsp;&emsp;(I) subject to subclause (II), if the provider or facility (as applicable) and such plan or coverage agree on an amount of payment (including if such agreed on amount is the initial payment sent by the plan under subsection (a)(1)(C)(iv)(I), subsection (b)(1)(C), or section 300gg–112(a)(3)(A) of this title, as applicable, or is agreed on through open negotiations under subsection (c)(1)) with respect to such item or service, such agreed on amount; or
+&emsp;&emsp;&emsp;&emsp;(I) subject to subclause (II), if the provider or facility (as applicable) and suchplan or coverage agree on an amount of payment (including if such agreed on amount is the initial payment sent by the plan under subsection (a)(1)(C)(iv)(I), subsection (b)(1)(C), or section 300gg–112(a)(3)(A) of this title, as applicable, or is agreed on through open negotiations under subsection (c)(1)) with respect to such item or service, such agreed on amount; or
 
 &emsp;&emsp;&emsp;&emsp;(II) if such provider or facility (as applicable) and such plan or coverage enter the independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;(B) shall calculate such cost-sharing requirement as if the total amount that would have been charged for such items and services by such participating provider were equal to the recognized amount (as defined in subsection (a)(3)(H)) for such items and services, plan or coverage, and year;
 
-&emsp;&emsp;(C) not later than 30 calendar days after the bill for such services is transmitted bysuch provider, shall send to the provider an initial payment or notice of denial of payment;
+&emsp;&emsp;(C) not later than 30 calendar days after the bill for such services is transmitted by such provider, shall send to the provider an initial payment or notice of denial of payment;
 
 &emsp;&emsp;(D) shall pay a total plan or coverage payment directly, in accordance, if applicable, with the timing requirement described in subsection (c)(6), to such provider furnishing such items and services to such participant, beneficiary, or enrollee that is, with application of any initial payment under subparagraph (C), equal to the amount by which the out-of-network rate (as defined in subsection (a)(3)(K)) for such items and services involved exceeds the cost-sharing amount imposed under the plan or coverage, respectively, for such items and services (as determined in accordance with subparagraphs (A) and (B)) and year; and
 
@@ -278,7 +278,7 @@
 
 #### (B) Visit
 
-&emsp;&emsp;The term "visit" shall, with respect to items and services furnished to an individual at a health care facility, include equipment and devices, telemedicine services, imaging services, laboratory services, preoperative and postoperative services, and such other items and services as the Secretary may specify, regardless of whether or not the provider furnishing such items or services is at the facility.
+&emsp;&emsp;The term "visit" shall, with respect to items and services furnished to an individual at a health care facility, include equipment and devices, telemedicine services, imagingservices, laboratory services, preoperative and postoperative services, and such other items and services as the Secretary may specify, regardless of whether or not the provider furnishing such items or services is at the facility.
 
 #### (c) Determination of out-of-network rates to be paid by health plans; independent dispute resolution process
 
@@ -384,7 +384,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) provide notification of such selection to the provider or facility (as applicable) and the plan or issuer (as applicable) party to such determination.
 
-> An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the "certified IDR entity" with respect to such determination.
+> An entity selected pursuant to the previous sentence to make a determination described in suchsentence shall be referred to in this subsection as the "certified IDR entity" with respect to such determination.
 
 #### (5) Payment determination
 
@@ -442,7 +442,7 @@
 
 &emsp;&emsp;&emsp;A determination of a certified IDR entity under subparagraph (A)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be binding upon the parties involved, in the absence of a fraudulent claim or evidence of misrepresentation of facts presented to the IDR entity involved regarding such claim; and
+&emsp;&emsp;&emsp;&emsp;(I) shall be binding upon the parties involved, in the absence of a fraudulentclaim or evidence of misrepresentation of facts presented to the IDR entity involved regarding such claim; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall not be subject to judicial review, except in a case described in any of paragraphs (1) through (4) of section 10(a) of title 9.
 
@@ -530,7 +530,7 @@
 
 #### (B) Amount of fee
 
-&emsp;&emsp;The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equalto the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
+&emsp;&emsp;The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
 
 #### (9) Waiver authority
 
@@ -554,7 +554,7 @@ A group health plan or a health insurance issuer offering group or individual he
 
 #### (1) In general
 
-&emsp;For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group or individual health insurance coverage shall, with respect to a notification submitted under section 300gg–136 of this title by a health care provider or health care facility to the plan or issuer for a participant, beneficiary, or enrollee under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative of such participant, beneficiary, or enrollee), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant, beneficiary, or enrollee), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant, beneficiary, or enrollee (through mail or electronic means, as requested by the participant, beneficiary, or enrollee) a notification (in clear and understandable language) including the following:
+&emsp;For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group or individual health insurance coverage shall, with respect to a notification submitted under section 300gg–136 of this title by a health care provider or health care facility to the plan or issuer for a participant, beneficiary, or enrollee under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative of such participant, beneficiary, or enrollee), not later than 1 business day (or, in the case such item or servicewas so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant, beneficiary, or enrollee), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant, beneficiary, or enrollee (through mail or electronic means, as requested by the participant, beneficiary, or enrollee) a notification (in clear and understandable language) including the following:
 
 &emsp;&emsp;(A) Whether or not the provider or facility is a participating provider or a participating facility with respect to the plan or coverage with respect to the furnishing of such item or service and—
 

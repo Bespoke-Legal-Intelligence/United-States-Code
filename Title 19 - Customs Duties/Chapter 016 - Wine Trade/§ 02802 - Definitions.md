@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;(3) The term "major wine trading country" means any foreign country, or group of foreign countries, designated as such under section 2803 of this title.
 
-&emsp;(4) The phrase "nontariff barrier to (or other distortion of)", in the context of trade in United States wine, includes any measure implemented by the government of a major wine trading country that either gives a competitive advantage to the wine industry of that country or restricts the importation of United States wine into that country.
+&emsp;(4) The phrase "nontariff barrier to (or other distortion of)", in the context of trade inUnited States wine, includes any measure implemented by the government of a major wine trading country that either gives a competitive advantage to the wine industry of that country or restricts the importation of United States wine into that country.
 
 &emsp;(5) The term "Trade Representative" means the United States Trade Representative.
 

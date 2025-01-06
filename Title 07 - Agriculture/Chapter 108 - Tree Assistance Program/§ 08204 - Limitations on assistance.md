@@ -16,7 +16,7 @@ The Secretary shall promulgate regulations—
 
 &emsp;(2) promulgating such regulations as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section.
 
-(Pub. L. 107–171, title X, §10204, May 13, 2002, 116 Stat. 491; Pub. L. 110–234, title I, §1603(g)(4), May22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(4), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
+(Pub. L. 107–171, title X, §10204, May 13, 2002, 116 Stat. 491; Pub. L. 110–234, title I, §1603(g)(4), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(4), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
 
 #### <b>Editorial Notes</b>
 

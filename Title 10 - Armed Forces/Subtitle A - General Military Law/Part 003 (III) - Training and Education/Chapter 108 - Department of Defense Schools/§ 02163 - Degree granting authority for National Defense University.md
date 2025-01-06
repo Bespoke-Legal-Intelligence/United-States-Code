@@ -42,7 +42,7 @@ Subsec. (b)(4). Pub. L. 110–181, §526(a)(2), added par. (4).
 
 "(a)
 
-National War College Degree.—The President of the National Defense University, upon the recommendation of the faculty and commandant of the National War College, may confer the degree of master of science of national security strategy upon graduates of the National War College who fulfill the requirements for the degree.
+National War College Degree.—The President of the National Defense University, upon the recommendation of the faculty and commandant of theNational War College, may confer the degree of master of science of national security strategy upon graduates of the National War College who fulfill the requirements for the degree.
 
 "(b) ICAF
 

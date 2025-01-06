@@ -18,7 +18,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;An entity has "control" over another entity if—
 
-&emsp;&emsp;(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has the power to vote 25 percent or more of any class of voting securities of the other entity; or
+&emsp;&emsp;(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has the power to vote 25 percentor more of any class of voting securities of the other entity; or
 
 &emsp;&emsp;(B) the entity controls in any manner the election of a majority of the directors or trustees of the other entity.
 
@@ -56,7 +56,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (B) Affiliated groups
 
-&emsp;&emsp;If more than 1 insured from an affiliated group are named insureds on a single nonadmitted insurance contract, the term "home State" means the home State, as determined pursuant to subparagraph (A), of the member of the affiliated group that hasthe largest percentage of premium attributed to it under such insurance contract.
+&emsp;&emsp;If more than 1 insured from an affiliated group are named insureds on a single nonadmitted insurance contract, the term "home State" means the home State, as determined pursuant to subparagraph (A), of the member of the affiliated group that has the largest percentage of premium attributed to it under such insurance contract.
 
 #### (7) Independently procured insurance
 
@@ -98,7 +98,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i)(I) has a bachelor's degree or higher from an accredited college or university in risk management, business administration, finance, economics, or any other field determined by a State insurance commissioner or other State regulatory official or entity to demonstrate minimum competence in risk management; and
 
-&emsp;&emsp;&emsp;(II)(aa) has 3 years of experience in risk financing, claims administration, loss prevention, risk and insurance analysis, or purchasing commercial lines of insurance; or
+&emsp;&emsp;&emsp;(II)(aa) has 3 years of experience in risk financing, claims administration, loss prevention, risk and insurance analysis, orpurchasing commercial lines of insurance; or
 
 &emsp;&emsp;&emsp;(bb) has—
 

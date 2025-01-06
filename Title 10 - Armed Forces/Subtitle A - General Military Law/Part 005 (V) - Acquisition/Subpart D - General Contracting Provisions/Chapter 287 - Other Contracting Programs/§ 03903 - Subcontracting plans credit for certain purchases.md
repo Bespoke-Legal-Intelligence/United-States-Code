@@ -18,7 +18,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 8503(c) of title 41.
 
-(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449, §2410d; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705; Pub. L. 111–350, §5(b)(29), Jan. 4, 2011, 124 Stat. 3845; renumbered §3903, Pub. L. 116–283, div. A, title XVIII, §1838(b), Jan. 1, 2021, 134 Stat. 4242; Pub. L. 117–81, div. A, title XVII, §1701(v)(2)(A), Dec. 27, 2021, 135 Stat. 2154.)
+(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449, §2410d; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705; Pub. L. 111–350, §5(b)(29), Jan. 4, 2011, 124 Stat. 3845; renumbered §3903, Pub. L. 116–283, div. A, titleXVIII, §1838(b), Jan. 1, 2021, 134 Stat. 4242; Pub. L. 117–81, div. A, title XVII, §1701(v)(2)(A), Dec. 27, 2021, 135 Stat. 2154.)
 
 #### <b>Editorial Notes</b>
 

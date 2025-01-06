@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;The term "tertiary recovery method" means—
 
-&emsp;&emsp;(A) any method which is described in subparagraphs (1) through (9) of section 212.78(c) of the June 1979 energy regulations (as defined by section 4996(b)(8)(C) as in effect before its repeal), or
+&emsp;&emsp;(A) any method which is described in subparagraphs (1) through (9) of section 212.78(c)of the June 1979 energy regulations (as defined by section 4996(b)(8)(C) as in effect before its repeal), or
 
 &emsp;&emsp;(B) any other method to provide tertiary enhanced recovery which is approved by the Secretary for purposes of this section.
 

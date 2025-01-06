@@ -50,7 +50,7 @@ Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by P
 
 &emsp;"(A) the repeal of chapter 402 of title 18, United States Code, shall take effect on the date of enactment \[Oct. 12, 1984\];
 
-&emsp;"(B)(i) chapter 58 of title 28, United States Code, shall take effect on the date of enactment of this Act\[Oct. 12, 1984\] or October 1, 1983, whichever occurs later, and the United States Sentencing Commission shall submit the initial sentencing guidelines promulgated under section 994(a)(1) of title 28 to the Congress within 30 months of the effective date of such chapter 58; and
+&emsp;"(B)(i) chapter 58 of title 28, United States Code, shall take effect on the date of enactment of this Act \[Oct. 12, 1984\] or October 1, 1983, whichever occurs later, and the United States Sentencing Commission shall submit the initial sentencing guidelines promulgated under section 994(a)(1) of title 28 to the Congress within 30 months of the effective date of such chapter 58; and
 
 &emsp;"(ii) the sentencing guidelines promulgated pursuant to section 994(a)(1) shall not go into effect until—
 
@@ -98,7 +98,11 @@ Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by P
 
 \[Pub. L. 104–232, §3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: "Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission's functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under section 4201 of this title\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) are repealed."\]
 
-\[Pub. L. 118–15, div. A, §123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, §101(5), Nov. 17, 2023, 137 Stat. 113, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '36 years' or '36-year period' shall be deemed a reference to '36 years and 94 days' or '36-year and 94-day period', respectively."\]
+\[Pub. L. 118–83, div. A, §121, Sept. 26, 2024, 138 Stat. 1528, provided that: "During the period covered by this Act \[see section 106 of div. A of Pub. L. 118–83, 138 Stat. 1526, which is not classified to the Code\], section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, shall be applied by substituting '37' for '36' each place it appears."\]
+
+\[Pub. L. 118–42, div. G, title III, §302(b), Mar. 9, 2024, 138 Stat. 451, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '36 years and 129 days' or '36-year and 129-day period' shall be deemed a reference to '36 years and 335 days' or '36-year and 335-day period', respectively."\]
+
+\[Pub. L. 118–15, div. A, §123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, §101(5), Nov. 17, 2023, 137 Stat. 113; Pub. L. 118–35, div. A, §101(3), Jan. 19, 2024, 138 Stat. 3, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '36 years' or '36-year period' shall be deemed a reference to '36 years and 129 days' or '36-year and 129-day period period', respectively."\]
 
 \[Pub. L. 117–328, div. O, title VIII, §801(b), (c), Dec. 29, 2022, 136 Stat. 5232, provided that: "(b)
 
@@ -122,7 +126,7 @@ Effective Date.—Subsection (b) shall take effect as though enacted as part of 
 
 &emsp;\[Pub. L. 117–264, div. B, title I, §103(d), Dec. 23, 2022, 136 Stat. 4168, provided that: "Section 103 of division B of the Further Continuing Appropriations and Extensions Act, 2023 \[Pub. L. 117–229, enacting provisions set out as notes above and under section 1 of this title\] shall have no force or effect."\]
 
-\[Pub. L. 117–180, div. C, title I, §103(b), Sept. 30, 2022, 136 Stat. 2133, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '35 years' or '35-year period' shall be deemed a reference to '35 years and 46 days' or '35-year and 46-day period', respectively."\]
+\[Pub. L. 117–180, div. C, title I, §103(b), Sept. 30, 2022, 136 Stat. 2133, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C.3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '35 years' or '35-year period' shall be deemed a reference to '35 years and 46 days' or '35-year and 46-day period', respectively."\]
 
 \[Pub. L. 116–159, div. D, title II, §4202, Oct. 1, 2020, 134 Stat. 741, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '33 years' or '33-year period' shall be deemed a reference to '35 years' or '35-year period', respectively."\]
 
@@ -168,7 +172,7 @@ Pub. L. 98–473, title II, §211, Oct. 12, 1984, 98 Stat. 1987, provided that: 
 
 #### Mandatory Victim Restitution; Promulgation of Regulations by Attorney General
 
-Pub. L. 104–132, title II, §209, Apr. 24, 1996, 110 Stat. 1240, provided that: "Not later than 90 days after thedate of enactment of this subtitle \[Apr. 24, 1996\], the Attorney General shall promulgate guidelines, or amend existing guidelines, to carry out this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out above\] and the amendments made by this subtitle and to ensure that—
+Pub. L. 104–132, title II, §209, Apr. 24, 1996, 110 Stat. 1240, provided that: "Not later than 90 days after the date of enactment of this subtitle \[Apr. 24, 1996\], the Attorney General shall promulgate guidelines, or amend existing guidelines, to carry out this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out above\] and the amendments made by this subtitle and to ensure that—
 
 &emsp;"(1) in all plea agreements negotiated by the United States, consideration is given to requesting that the defendant provide full restitution to all victims of all charges contained in the indictment or information, without regard to the counts to which the defendant actually pleaded; and
 

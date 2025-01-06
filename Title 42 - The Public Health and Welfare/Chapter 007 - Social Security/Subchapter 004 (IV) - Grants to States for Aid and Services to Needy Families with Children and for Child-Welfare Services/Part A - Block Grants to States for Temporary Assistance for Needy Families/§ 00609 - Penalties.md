@@ -34,7 +34,7 @@ Subject to this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that a State has not submitted the report required by section 611(c)(1)(A)(i) of this title by May 31, 2011, or the report required by section611(c)(1)(A)(ii) of this title by August 31, 2011, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not more than 4 percent of the State family assistance grant.
+&emsp;&emsp;&emsp;If the Secretary determines that a State has not submitted the report required by section 611(c)(1)(A)(i) of this title by May 31, 2011, or the report required by section 611(c)(1)(A)(ii) of this title by August 31, 2011, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not more than 4 percent of the State family assistance grant.
 
 #### (ii) Rescission of penalty
 
@@ -68,7 +68,7 @@ Subject to this section:
 
 #### (C) Penalty based on severity of failure
 
-&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(5) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances.
+&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(5) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a writtenreport to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances.
 
 #### (4) Failure to participate in the income and eligibility verification system
 
@@ -96,7 +96,7 @@ Subject to this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "qualified State expenditures" means, with respect to a Stateand a fiscal year, the total expenditures by the State during the fiscal year, under all State programs, for any of the following with respect to eligible families:
+&emsp;&emsp;&emsp;&emsp;The term "qualified State expenditures" means, with respect to a State and a fiscal year, the total expenditures by the State during the fiscal year, under all State programs, for any of the following with respect to eligible families:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) Cash assistance, including any amount collected by the State as support pursuant to a plan approved under part D, on behalf of a family receiving assistance under the State program funded under this part, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance.
 
@@ -162,7 +162,7 @@ Subject to this section:
 
 #### (v) Source of data
 
-&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretaryshall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
 
 #### (8) Noncompliance of State child support enforcement program with requirements of part D
 
@@ -214,7 +214,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 ofthis title for a fiscal year has violated section 607(e)(2) of this title during the fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not more than 5 percent of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has violated section 607(e)(2) of this title during the fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not more than 5 percent of the State family assistance grant.
 
 #### (B) Penalty based on severity of failure
 
@@ -278,7 +278,7 @@ Subject to this section:
 
 #### (2) Exception
 
-&emsp;Paragraph (1) of this subsection shall not apply to any penalty under paragraph (6), (7), (8), (10), (12), or (13) of subsection (a) and, with respect to the penalty under paragraph (2)(B)of subsection (a), shall only apply to the extent the Secretary determines that the reasonable cause for failure to comply with a requirement of that paragraph is as a result of a one-time, unexpected event, such as a widespread data system failure or a natural or man-made disaster.
+&emsp;Paragraph (1) of this subsection shall not apply to any penalty under paragraph (6), (7), (8), (10), (12), or (13) of subsection (a) and, with respect to the penalty under paragraph (2)(B) of subsection (a), shall only apply to the extent the Secretary determines that the reasonable cause for failure to comply with a requirement of that paragraph is as a result of a one-time, unexpected event, such as a widespread data system failure or a natural or man-made disaster.
 
 #### (c) Corrective compliance plan
 
@@ -340,7 +340,7 @@ Section 603(a)(1)(D) of this title, referred to in subsec. (a)(7)(B)(v), was rep
 
 A prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added Nov. 5, 1990, Pub. L. 101–508, title V, §5052(a), 104 Stat. 1388–228, related to exclusion from AFDC unit of child for whom Federal, State, or local foster care maintenance or adoption assistance payments were made, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
-Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat.397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related to community work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
+Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related to community work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
 
 #### Amendments
 

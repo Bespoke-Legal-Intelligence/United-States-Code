@@ -18,7 +18,7 @@ In general.—The pilot program shall—
 
 &emsp;&emsp;&emsp;(i) notify the petitioner and Amtrak of receipt of the petition under subparagraph (A) and to publish in the Federal Register a notice of receipt not later than 30 days after the date of receipt;
 
-&emsp;&emsp;&emsp;(ii) establish a deadline, of not more than 120 days after the notice of receipt is published in the Federal Register under clause (i), by which both the petitioner and Amtrak, if Amtrak chooses to do so, would be required to submit a complete bid to provide intercity rail passenger transportation over the applicable route; and
+&emsp;&emsp;&emsp;(ii) establish a deadline, of not more than 120 days after the notice of receipt is published in the Federal Register underclause (i), by which both the petitioner and Amtrak, if Amtrak chooses to do so, would be required to submit a complete bid to provide intercity rail passenger transportation over the applicable route; and
 
 &emsp;&emsp;&emsp;(iii) upon selecting a winning bid, publish in the Federal Register the identity of the winning bidder, the long distance route that the bidder will operate, a detailed justification of the reasons why the Secretary selected the bid, and any other information the Secretary determines appropriate for public comment for a reasonable period of time not to exceed 30 days after the date on which the Secretary selects the bid;
 
@@ -74,7 +74,7 @@ Access to Facilities; Employees.—If the Secretary awards the right and obligat
 
 (d)
 
-Cessation of Service.—If an eligible petitioner awarded a route under this section ceases to operate the service or fails to fulfill an obligation under a contract required under subsection (b)(1)(E), the Secretary, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with this title to enforce the contract and ensure the continued provision of service, including—
+Cessation of Service.—If an eligible petitioner awarded a route under this section ceases to operate the service or fails to fulfill an obligation under a contract required under subsection (b)(1)(E), the Secretary, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with thistitle to enforce the contract and ensure the continued provision of service, including—
 
 &emsp;(1) the installment of an interim rail carrier;
 
@@ -118,7 +118,7 @@ Petitioning surface transportation board.—If Amtrak and the eligible petitione
 
 &emsp;(2)
 
-Surface transportation board determination.—If the Surface TransportationBoard determines access to Amtrak's facilities or equipment, or the provision of services by Amtrak, is necessary under paragraph (1)(A) and the operation of Amtrak's other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
+Surface transportation board determination.—If the Surface Transportation Board determines access to Amtrak's facilities or equipment, or the provision of services by Amtrak, is necessary under paragraph (1)(A) and the operation of Amtrak's other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
 
 &emsp;&emsp;(A) requires Amtrak to provide the applicable facilities, equipment, and services; and
 

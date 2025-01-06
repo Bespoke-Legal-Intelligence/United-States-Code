@@ -66,7 +66,7 @@ A claim described in this subsection is any—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the chairperson of any panel convened underthis subsection shall be the Inspector General of the Intelligence Community.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the chairperson of any panel convened under this subsection shall be the Inspector General of the Intelligence Community.
 
 #### (ii) Conflicts of interest
 

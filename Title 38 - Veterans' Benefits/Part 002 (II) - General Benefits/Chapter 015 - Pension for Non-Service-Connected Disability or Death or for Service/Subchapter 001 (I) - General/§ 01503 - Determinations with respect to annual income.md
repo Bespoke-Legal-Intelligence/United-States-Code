@@ -32,7 +32,7 @@
 
 &emsp;(7) amounts in joint accounts in banks and similar institutions acquired by reason of death of other joint owner;
 
-&emsp;(8) amounts equal to amounts paid by a veteran, veterans' spouse, or surviving spouse or by or on behalf of a veteran's child for unreimbursed medical expenses, to the extent that such amounts exceed 5 percent of the maximum annual rate of pension (including any amount of increased pension payable on account of family members but not including any amount of pension payable because a person is in need of regular aid and attendance or because a person is permanently housebound) payable to such veteran, surviving spouse, or child;
+&emsp;(8) amounts equal to amounts paid by a veteran, veterans' spouse, or surviving spouse or by or on behalf of a veteran's child for unreimbursed medical expenses, to the extent that such amounts exceed 5 percent of the maximum annual rate of pension (including any amount of increased pension payable on account of family members but not including any amount of pension payable because a person is in need of regular aid and attendance orbecause a person is permanently housebound) payable to such veteran, surviving spouse, or child;
 
 &emsp;(9) in the case of a veteran or surviving spouse pursuing a course of education or vocational rehabilitation or training, amounts equal to amounts paid by such veteran or surviving spouse for such course of education or vocational rehabilitation or training, including (A) amounts paid for tuition, fees, books, and materials, and (B) in the case of such a veteran or surviving spouse in need of regular aid and attendance, unreimbursed amounts paid for unusual transportation expenses in connection with the pursuit of such course of education or vocational rehabilitation or training, to the extent that such amounts exceed the reasonable expenses which would have been incurred by a nondisabled person using an appropriate means of transportation (public transportation, if reasonably available);
 
@@ -96,7 +96,7 @@ Subsec. (a)(4). Pub. L. 95–588, §102(a)(4), (6), added par. (4) and struck ou
 
 Subsec. (a)(5). Pub. L. 95–588, §102(a)(4), (7), redesignated par. (8) as (5) and struck out former par. (5) which related to lump sum death payments.
 
-Subsec. (a)(6). Pub. L. 95–588, §102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6) which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
+Subsec. (a)(6). Pub. L. 95–588, §102(a)(4), (9), redesignated par. (10) as (6) and struck out former par. (6)which related to the ten per cent exclusion for individuals under public or private retirement, annuity, endowment, or similar programs.
 
 Subsec. (a)(7). Pub. L. 95–588, §102(a)(11), redesignated par. (15) as (7). Former par. (7) redesignated (3).
 
@@ -192,5 +192,5 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 #### Clarification of Treatment of Payments for Purposes of Eligibility for Veterans Pension and Other Veterans Benefits
 
-Pub. L. 116–136, div. B, title X, §20010, Mar. 27, 2020, 134 Stat. 589, provided that: "Amounts paid to a person under the 2020 Recovery Rebate in the Coronavirus Aid, Relief, and Economic Security Act \[Pub. L. 116–136, see Tables for classification\] shall not be treated as income or resources for purposes of determining eligibility for pension under chapter 15 of title 38, United States Code, or any other benefit under a law administered by the Secretary of Veterans Affairs."
+Pub. L. 116–136, div. B, title X, §20010, Mar. 27, 2020, 134 Stat. 589, provided that: "Amounts paid to a personunder the 2020 Recovery Rebate in the Coronavirus Aid, Relief, and Economic Security Act \[Pub. L. 116–136, see Tables for classification\] shall not be treated as income or resources for purposes of determining eligibility for pension under chapter 15 of title 38, United States Code, or any other benefit under a law administered by the Secretary of Veterans Affairs."
 

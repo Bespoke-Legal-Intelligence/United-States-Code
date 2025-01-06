@@ -6,7 +6,7 @@ The head of each agency utilizing the Foreign Service personnel system shall dev
 
 #### (b) Emphasis on mid-levels
 
-Each plan developed pursuant to this section shall, consistent with section 7201 of title 5, place particular emphasis on achieving significant increases in the numbers of minority group members and women who are in the mid-levels of the Foreign Service.
+Each plan developed pursuant to this section shall, consistent with section 7201 of title 5,place particular emphasis on achieving significant increases in the numbers of minority group members and women who are in the mid-levels of the Foreign Service.
 
 (Pub. L. 99–93, title I, §152, Aug. 16, 1985, 99 Stat. 428; Pub. L. 100–204, title I, §185(c)(3), Dec. 22, 1987, 101 Stat. 1366.)
 
@@ -14,7 +14,7 @@ Each plan developed pursuant to this section shall, consistent with section 7201
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, and notas part of the Foreign Service Act of 1980 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 #### Amendments
 

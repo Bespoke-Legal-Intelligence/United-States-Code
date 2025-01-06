@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 103–337, §1663(b)(4)(B), substituted "section 16134 and 
 
 Subsec. (d). Pub. L. 101–189, §645(a)(1), (b)(2), substituted "A person" for "An individual" and "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
-Pub. L. 101–189, §643(a), inserted at end "However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(b)(1)(A)(ii) of this title."
+Pub. L. 101–189, §643(a), inserted at end "However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty forthe purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(b)(1)(A)(ii) of this title."
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–689, §111(b)(2), substituted "completed the requirements of" for "received", and inserted before semicolon at end ", or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension".
 

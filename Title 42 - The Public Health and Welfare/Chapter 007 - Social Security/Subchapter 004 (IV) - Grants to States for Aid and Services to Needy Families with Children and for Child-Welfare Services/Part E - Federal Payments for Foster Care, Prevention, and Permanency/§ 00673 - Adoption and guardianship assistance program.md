@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(bb) the prior adoption were treated as never having occurred; or
 
-&emsp;(ii) in the case of a child who is an applicable child for the fiscal year (as so defined), the child meets the requirements of subparagraph (A)(ii)(II), is determined eligible for adoptionassistance payments under this part with respect to a prior adoption (or who would have been determined eligible for such payments had the Adoption and Safe Families Act of 1997 been in effect at the time that such determination would have been made), and is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died.
+&emsp;(ii) in the case of a child who is an applicable child for the fiscal year (as so defined), the child meets the requirements of subparagraph (A)(ii)(II), is determined eligible for adoption assistance payments under this part with respect to a prior adoption (or who would have been determined eligible for such payments had the Adoption and Safe Families Act of 1997 been in effect at the time that such determination would have been made), and is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died.
 
 (D) In determining the eligibility for adoption assistance payments of a child in a legal guardianship arrangement described in section 671(a)(28) of this title, the placement of the child with the relative guardian involved and any kinship guardianship assistance payments made on behalf of the child shall be considered never to have been made.
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means a child for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
+&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means achild for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
 
 #### (B) Applicable age
 
@@ -307,7 +307,7 @@ Subsec. (e). Pub. L. 110–351, §402(3), added subsec. (e).
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–171 amended par. (2) generally. Prior to amendment, par. (2) contained provisions relating to criteria used for determining whether a child met the requirements of par. (2) for purposes of par. (1)(B)(ii).
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–89 inserted at end "Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to aprior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii)."
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–89 inserted at end "Any child who meets the requirements of subparagraph (C), who was determined eligible for adoption assistance payments under this part with respect to a prior adoption, who is available for adoption because the prior adoption has been dissolved and the parental rights of the adoptive parents have been terminated or because the child's adoptive parents have died, and who fails to meet the requirements of subparagraphs (A) and (B) but would meet such requirements if the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part and the prior adoption were treated as never having occurred, shall be treated as meeting the requirements of this paragraph for purposes of paragraph (1)(B)(ii)."
 
 Pub. L. 105–33, §5513(b)(3), substituted "July 16, 1996" for "June 1, 1995" wherever appearing.
 
@@ -357,7 +357,7 @@ Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior 
 
 Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted "subsection (a)(2)" for "subsection (a)(1)".
 
-Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX" after "appropriate adoptive parents without providing adoption assistance under this section".
+Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX" after"appropriate adoptive parents without providing adoption assistance under this section".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
 

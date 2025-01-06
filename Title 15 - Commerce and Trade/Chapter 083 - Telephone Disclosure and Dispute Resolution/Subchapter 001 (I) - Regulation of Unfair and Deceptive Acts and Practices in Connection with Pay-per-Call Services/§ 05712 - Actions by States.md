@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in a pattern or practice which violates any rule of the Commission under section 5711(a) of this title, the State may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such pattern or practice, to enforce compliance with such rule of the Commission, to obtain damages on behalf of their residents, or to obtain such further and other relief as the court may deem appropriate.
+Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are beingthreatened or adversely affected because any person has engaged or is engaging in a pattern or practice which violates any rule of the Commission under section 5711(a) of this title, the State may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such pattern or practice, to enforce compliance with such rule of the Commission, to obtain damages on behalf of their residents, or to obtain such further and other relief as the court may deem appropriate.
 
 #### (b) Notice
 
@@ -28,7 +28,7 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 
 (1) Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
 
-(2) In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bringactions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
+(2) In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
 
 (Pub. L. 102–556, title II, §202, Oct. 28, 1992, 106 Stat. 4190.)
 

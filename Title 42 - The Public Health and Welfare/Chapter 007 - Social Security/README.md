@@ -125,6 +125,7 @@
 | [628a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628a%20-%20Transferred.md) | Transferred. |
 | [628b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628b%20-%20National%20random%20sample%20study%20of%20child%20welfare.md) | National random sample study of child welfare. |
 | [628c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628c%20-%20Grants%20to%20States%20to%20enhance%20collaboration%20between%20State%20child%20welfare%20and%20juvenile%20justice%20systems.md) | Grants to States to enhance collaboration between State child welfare and juvenile justice systems. |
+| [628d.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628d%20-%20Effective%20implementation%20of%20the%20Indian%20Child%20Welfare%20Act%20of%201978.md) | Effective implementation of the Indian Child Welfare Act of 1978. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -149,6 +150,8 @@
 
 |  |  |
 | :--- | ---: |
+| [629k.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629k%20-%20Reduction%20of%20administrative%20burden.md) | Reduction of administrative burden. |
+| 629<i>l.</i> | Public access to State plans. |
 | [629m.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20003%20-%20Common%20Provisions/%C2%A7%2000629m%20-%20Data%20exchange%20standards%20for%20improved%20interoperability.md) | Data exchange standards for improved interoperability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -866,6 +869,7 @@
 | 1396w–5. | Addressing health care disparities. |
 | 1396w–6. | State option to provide qualifying community-based mobile crisis intervention services. |
 | 1396w–7. | Supporting access to a continuum of crisis response services under Medicaid and CHIP. |
+| 1396w–8. | Collection and reporting of comprehensive data for specified populations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

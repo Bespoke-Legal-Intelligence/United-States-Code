@@ -120,7 +120,7 @@
 
 #### (4) Disqualification of individuals on terrorist watch list
 
-&emsp;No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as a screening-eligible WTC survivor or a certified-eligible WTCsurvivor. Before determining any individual to be a screening-eligible WTC survivor under paragraph (1) or certifying any individual as a certified eligible <sup>1</sup> WTC survivor under paragraph (2), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
+&emsp;No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as a screening-eligible WTC survivor or a certified-eligible WTC survivor. Before determining any individual to be a screening-eligible WTC survivor under paragraph (1) or certifying any individual as a certified eligible <sup>1</sup> WTC survivor under paragraph (2), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
 
 #### (b) Initial health evaluation to determine eligibility for followup monitoring or treatment
 

@@ -106,7 +106,7 @@ The date of the enactment of this subsection, referred to in subsec. (f)(1), is 
 
 Subsec. (c). Pub. L. 108–357, §843(a)(2), inserted "full" before "payment" in introductory provisions.
 
-Subsec. (d) to (f). Pub. L. 108–357, §843(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 108–357, §843(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–206, §3467(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -140,7 +140,7 @@ Subsec. (c). Pub. L. 104–168, §202(a), added subsec. (c).
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title II, §41105(b), Feb. 9, 2018, 132 Stat. 157, provided that: "The amendments made by this section \[amending this section\] shall apply to agreements entered into on or after the date which is 60 days after the date of the enactment of this Act \[Feb. 9, 2018\]."
+Pub. L. 115–123, div. D, title II, §41105(b), Feb. 9, 2018, 132 Stat. 157, provided that: "The amendments made bythis section \[amending this section\] shall apply to agreements entered into on or after the date which is 60 days after the date of the enactment of this Act \[Feb. 9, 2018\]."
 
 #### Effective Date of 2006 Amendment
 

@@ -12,7 +12,7 @@
 
 #### (3) Consultation
 
-&emsp;In carrying out the duties under this section, the CMI shall consult representatives of relevant Federal agencies, and clinical and analytical experts with expertise in medicine and health care management. The CMI shall use open door forums or other mechanisms to seek input from interested parties.
+&emsp;In carrying out the duties under this section, the CMI shall consult representatives ofrelevant Federal agencies, and clinical and analytical experts with expertise in medicine and health care management. The CMI shall use open door forums or other mechanisms to seek input from interested parties.
 
 #### (4) Definitions
 
@@ -76,9 +76,9 @@
 
 &emsp;&emsp;&emsp;(x) Allowing States to test and evaluate fully integrating care for dual eligible individuals in the State, including the management and oversight of all funds under the applicable subchapters with respect to such individuals.
 
-&emsp;&emsp;&emsp;(xi) Allowing States to test and evaluate systems of all-payer payment reform forthe medical care of residents of the State, including dual eligible individuals.
+&emsp;&emsp;&emsp;(xi) Allowing States to test and evaluate systems of all-payer payment reform for the medical care of residents of the State, including dual eligible individuals.
 
-&emsp;&emsp;&emsp;(xii) Aligning nationally recognized, evidence-based guidelines of cancer care with payment incentives under subchapter XVIII in the areas of treatment planning and follow-up care planning for applicable individuals described in clause (i) or (iii) of subsection (a)(4)(A) with cancer, including the identification of gaps in applicable quality measures.
+&emsp;&emsp;&emsp;(xii) Aligning nationally recognized, evidence-based guidelines of cancer care with payment incentives under subchapter XVIII in the areas of treatment planning and follow-up care planning for applicableindividuals described in clause (i) or (iii) of subsection (a)(4)(A) with cancer, including the identification of gaps in applicable quality measures.
 
 &emsp;&emsp;&emsp;(xiii) Improving post-acute care through continuing care hospitals that offer inpatient rehabilitation, long-term care hospitals, and home health or skilled nursing care during an inpatient stay and the 30 days immediately following discharge.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(xxvi) Supporting ways to familiarize individuals with the availability of coverage under part B of subchapter XVIII for qualified psychologist services (as defined in section 1395x(ii) of this title).
 
-&emsp;&emsp;&emsp;(xxvii) Exploring ways to avoid unnecessary hospitalizations or emergency department visits for mental and behavioral health services (such as for treating depression) through use of a 24-hour, 7-day aweek help line that may inform individuals about the availability of treatment options, including the availability of qualified psychologist services (as defined in section 1395x(ii) of this title).
+&emsp;&emsp;&emsp;(xxvii) Exploring ways to avoid unnecessary hospitalizations or emergency department visits for mental and behavioral health services (such as for treating depression) through use of a 24-hour, 7-day a week help line that may inform individuals about the availability of treatment options, including the availability of qualified psychologist services (as defined in section 1395x(ii) of this title).
 
 #### (C) Additional factors for consideration
 
@@ -196,7 +196,7 @@ Taking into account the evaluation under subsection (b)(4), the Secretary may, t
 
 #### (1) Waiver authority
 
-&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
 
 #### (2) Limitations on review
 
@@ -278,7 +278,7 @@ Subsec. (c). Pub. L. 111–148, §10306(4)(C), inserted concluding provisions.
 
 Subsec. (c)(1)(B). Pub. L. 111–148, §10306(4)(A), substituted "patient care without increasing spending;" for "care and reduce spending; and".
 
-Subsec. (c)(2). Pub. L. 111–148, §10306(4)(B), substituted "reduce (or would not result in any increasein) net program spending under applicable subchapters; and" for "reduce program spending under applicable subchapters."
+Subsec. (c)(2). Pub. L. 111–148, §10306(4)(B), substituted "reduce (or would not result in any increase in) net program spending under applicable subchapters; and" for "reduce program spending under applicable subchapters."
 
 Subsec. (c)(3). Pub. L. 111–148, §10306(4)(C), added par. (3).
 

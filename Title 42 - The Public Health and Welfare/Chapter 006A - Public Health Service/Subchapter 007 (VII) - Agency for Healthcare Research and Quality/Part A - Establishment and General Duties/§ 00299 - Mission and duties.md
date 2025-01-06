@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established within the Public Health Service an agency to be known as the Agency for Healthcare Research and Quality, which shall be headed by a director appointed by the Secretary. The Secretary shall carry out this subchapter acting through the Director.
+There is established within the Public Health Service an agency to be known as the Agencyfor Healthcare Research and Quality, which shall be headed by a director appointed by the Secretary. The Secretary shall carry out this subchapter acting through the Director.
 
 #### (b) Mission
 
@@ -52,7 +52,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 #### (2) Process to ensure appropriate research
 
-&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1)are reflected in the overall portfolio of research conducted and supported by the Agency.
+&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
 
 #### (3) Office of Priority Populations
 
@@ -134,7 +134,7 @@ Objectives.—
 
 &emsp;"(C) The study shall evaluate alternative approaches to reducing medication errors in terms of their efficacy, cost-effectiveness, appropriateness in different settings and circumstances, feasibility, institutional barriers to implementation, associated risks, and the quality of evidence supporting the approach.
 
-&emsp;"(D) The study shall provide guidance to consumers, providers, payers, and other key stakeholders on high-priority strategies to achieve both short-term and long-term drug safety goals, to elucidate the goals and expected results of such initiatives andsupport the business case for them, and to identify critical success factors and key levers for achieving success.
+&emsp;"(D) The study shall provide guidance to consumers, providers, payers, and other key stakeholders on high-priority strategies to achieve both short-term and long-term drug safety goals, to elucidate the goals and expected results of such initiatives and support the business case for them, and to identify critical success factors and key levers for achieving success.
 
 &emsp;"(E) The study shall assess the opportunities and key impediments to broad nationwide implementation of medication error reductions, and to provide guidance to policy-makers and government agencies (including the Food and Drug Administration, the Centers for Medicare \& Medicaid Services, and the National Institutes of Health) in promoting a national agenda for medication error reduction.
 

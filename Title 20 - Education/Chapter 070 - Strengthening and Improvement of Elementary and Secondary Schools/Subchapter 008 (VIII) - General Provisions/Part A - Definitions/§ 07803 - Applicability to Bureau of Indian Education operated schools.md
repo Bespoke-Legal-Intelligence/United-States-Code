@@ -26,7 +26,7 @@ Section 7813, Pub. L. 89–10, title IX, §9113, as added Pub. L. 103–382, tit
 
 Section 7814, Pub. L. 89–10, title IX, §9114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3776, related to applications for grants.
 
-Section 7815, Pub. L. 89–10, title IX, §9115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3778; amended Pub. L. 105–332, §3(c)(2), Oct. 31, 1998, 112 Stat. 3125, related to authorized services and activities.
+Section 7815, Pub. L. 89–10, title IX, §9115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3778;amended Pub. L. 105–332, §3(c)(2), Oct. 31, 1998, 112 Stat. 3125, related to authorized services and activities.
 
 Section 7816, Pub. L. 89–10, title IX, §9116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3779, related to student eligibility forms.
 

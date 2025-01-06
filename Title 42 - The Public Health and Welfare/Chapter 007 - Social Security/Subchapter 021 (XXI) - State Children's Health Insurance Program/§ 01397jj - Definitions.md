@@ -32,7 +32,7 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 &emsp;(14) Home and community-based health care services and related supportive services (such as home health nursing services, home health aide services, personal care, assistance with activities of daily living, chore services, day care services, respite care services, training for family members, and minor modifications to the home).
 
-&emsp;(15) Nursing care services (such as nurse practitioner services, nurse midwife services, advanced practice nurse services, private duty nursing care, pediatric nurse services, and respiratory care services) in a home, school, or other setting.
+&emsp;(15) Nursing care services (such as nurse practitioner services, nurse midwife services,advanced practice nurse services, private duty nursing care, pediatric nurse services, and respiratory care services) in a home, school, or other setting.
 
 &emsp;(16) Abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest.
 
@@ -48,7 +48,7 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 &emsp;(22) Physical therapy, occupational therapy, and services for individuals with speech, hearing, and language disorders.
 
-&emsp;(23) Hospice care (concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition withrespect to which a diagnosis of terminal illness has been made.<sup>1</sup>
+&emsp;(23) Hospice care (concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition with respect to which a diagnosis of terminal illness has been made.<sup>1</sup>
 
 &emsp;(24) Any other medical, diagnostic, screening, preventive, restorative, remedial, therapeutic, or rehabilitative services (whether in a facility, home, school, or other setting) if recognized by State law and only if the service is—
 
@@ -154,9 +154,9 @@ For purposes of this subchapter—
 
 &emsp;&emsp;For purposes of subparagraph (A)(ii), this subparagraph applies to a child if the State determines that the annual aggregate amount of premiums and cost-sharing imposed for coverage of the family of the child would exceed 5 percent of such family's income for the year involved.
 
-#### (7) Exception to exclusion of children who are inmates of a public institution
+#### (7) Exceptions to exclusion of children who are inmates of a public institution
 
-&emsp;In the case of a child who is an inmate of a public institution, during the 30 days prior to the release of the child from such institution the child shall not be considered to be described in paragraph (2)(A) with respect to the screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) that the State is required to provide under section 1397bb(d)(2) of this title.
+&emsp;In the case of a child who is an inmate of a public institution, during the 30 days prior to the release of the child from such institution the child shall not be considered to be described in paragraph (2)(A) with respect to the screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) that the State is required to provide under section 1397bb(d)(2) of this title. At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges.
 
 #### (c) Additional definitions
 
@@ -228,20 +228,6 @@ For purposes of this subchapter:
 
 (Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, §§5121(c)(2), 5122(b), Dec. 29, 2022, 136 Stat. 5943, 5944.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022. See 2022 Amendment notes below.</i>
-
-#### Amendment of Subsection (b)(7)
-
-<i>Pub. L. 117–328, div. FF, title V, §5122(b), (c), Dec. 29, 2022, 136 Stat. 5944, provided that, effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, subsection (b)(7) of this section is amended as follows:</i>
-
-<i>(1) in the heading, by striking "Exception" and inserting "Exceptions"; and</i>
-
-<i>(2) by adding at the end the following new sentence: "At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges."</i>
-
-<i>See 2022 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -294,7 +280,7 @@ Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to referen
 
 #### Effective Date of 2022 Amendment
 
-Amendment by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+Amendment by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendarquarter that begins on or after the date that is 24 months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 
 Amendment by section 5122(b) of Pub. L. 117–328 effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, see section 5122(c) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 

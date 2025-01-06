@@ -16,7 +16,7 @@ The National Center for Education Evaluation and Regional Assistance shall be he
 
 &emsp;&emsp;(D) education technology, including software; and
 
-&emsp;&emsp;(E) those topics covered by the Educational Resources Information CenterClearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002);
+&emsp;&emsp;(E) those topics covered by the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002);
 
 &emsp;(3) make such information accessible in a user-friendly, timely, and efficient manner (including through use of a searchable Internet-based online database that shall include all topics covered in paragraph (2)(E)) to schools, institutions of higher education, educators (including early childhood educators), parents, administrators, policymakers, researchers, public and private entities (including providers of early childhood services), entities responsible for carrying out technical assistance through the Department, and the general public;
 
@@ -46,7 +46,7 @@ In carrying out subsection (a), the Evaluation and Regional Assistance Commissio
 
 #### (c) Continuation
 
-The Director shall continue awards for the support of the Educational Resources Information Center Clearinghouses and contracts for regional educational laboratories (established under subsections (f) and (h) of section 941 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f) and (h)) (as such awards were in effect on the day before November 5, 2002)) for the duration of those awards, in accordance with the terms and agreements of such awards.
+The Director shall continue awards for the support of the Educational Resources Information Center Clearinghouses and contracts for regional educational laboratories (established under subsections (f) and (h) of section 941 of theEducational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f) and (h)) (as such awards were in effect on the day before November 5, 2002)) for the duration of those awards, in accordance with the terms and agreements of such awards.
 
 #### (d) National Library of Education
 

@@ -28,7 +28,7 @@
 
 &emsp;(7) The term "preventive care" means care and treatment furnished to prevent disability or illness, including periodic examinations, immunizations, patient health education, and such other services as the Secretary determines necessary to provide effective and economical preventive health care.
 
-&emsp;(8) The term "habilitative and rehabilitative care" means such professional, counseling, and guidance services and treatment programs (other than vocational training under section 1804 of this title) as are necessary to develop, maintain, or restore, to the maximum extent practicable, the functioning of a disabled person.
+&emsp;(8) The term "habilitative and rehabilitative care" means such professional, counseling, and guidance services and treatment programs (other than vocational training under section1804 of this title) as are necessary to develop, maintain, or restore, to the maximum extent practicable, the functioning of a disabled person.
 
 &emsp;(9) The term "respite care" means care furnished on an intermittent basis for a limited period to an individual who resides primarily in a private residence when such care will help the individual to continue residing in such private residence.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In this subchapter, the terms "agent of a foreign power", "Attorney General", "contents","electronic surveillance", "foreign intelligence information", "foreign power", "person", "United States", and "United States person" have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
+In this subchapter, the terms "agent of a foreign power", "Attorney General", "contents", "electronic surveillance", "foreign intelligence information", "foreign power", "person", "United States", and "United States person" have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
 
 #### (b) Additional definitions
 
@@ -34,19 +34,29 @@ In this subchapter:
 
 &emsp;&emsp;(C) a provider of a remote computing service, as that term is defined in section 2711 of title 18;
 
-&emsp;&emsp;(D) any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored; or
+&emsp;&emsp;(D) any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
 
-&emsp;&emsp;(E) an officer, employee, or agent of an entity described in subparagraph (A), (B), (C), or (D).
+&emsp;&emsp;(E) any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
+
+&emsp;&emsp;&emsp;(i) a public accommodation facility, as that term is defined in section 1861(4) of this title;
+
+&emsp;&emsp;&emsp;(ii) a dwelling, as that term is defined in section 3602 of title 42;
+
+&emsp;&emsp;&emsp;(iii) a community facility, as that term is defined in section 1592n of title 42; or
+
+&emsp;&emsp;&emsp;(iv) a food service establishment, as that term is defined in section 1638 of title 7; or
+
+&emsp;&emsp;(F) an officer, employee, custodian, or agent of an entity described in subparagraph (A), (B), (C), (D), or (E).
 
 #### (5) Intelligence community
 
 &emsp;The term "intelligence community" has the meaning given the term in section 3003(4) of this title.
 
-(Pub. L. 95–511, title VII, §701, as added Pub. L. 110–261, title I, §101(a)(2), July 10, 2008, 122 Stat. 2437; amended Pub. L. 115–118, title II, §205(a)(5), Jan. 19, 2018, 132 Stat. 21.)
+(Pub. L. 95–511, title VII, §701, as added Pub. L. 110–261, title I, §101(a)(2), July 10, 2008, 122 Stat. 2437; amended Pub. L. 115–118, title II, §205(a)(5), Jan. 19, 2018, 132 Stat. 21; Pub. L. 118–49, §25(a), Apr. 20, 2024, 138 Stat. 893.)
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Apr. 19, 2024, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, §19(a)(1), Apr. 20, 2024, 138 Stat. 891, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective two years after Apr. 20, 2024, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -55,6 +65,12 @@ In this subchapter:
 A prior section 701 of Pub. L. 95–511 was set out as a note under section 1801 of this title, prior to repeal by Pub. L. 110–261.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(4)(D). Pub. L. 118–49, §25(a)(2), struck out "or" at end.
+
+Subsec. (b)(4)(E). Pub. L. 118–49, §25(a)(3), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Subsec. (b)(4)(F). Pub. L. 118–49, §25(a)(1), (4), redesignated subpar. (E) as (F), inserted "custodian," after "employee," and substituted "(C), (D), or (E)" for "(C), or (D)".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–118, §205(a)(5)(A), substituted "In this subchapter, the terms" for "The terms".
 
@@ -70,7 +86,7 @@ Pub. L. 115–96, div. A, §1002, Dec. 22, 2017, 131 Stat. 2045, which temporari
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Apr. 19, 2024.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, §19(a)(1), Apr. 20, 2024, 138 Stat. 891, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective two years after Apr. 20, 2024.
 
-\[Pub. L. 115–118, title II, §201(c), Jan. 19, 2018, 132 Stat. 19, provided that: "The amendments made to the FISA Amendments Act of 2008 (Public Law 110–261) by this section \[amending sections 1881 to 1881g of this title and provisions set out as notes under section 1801 of this title and section 2511 of Title 18, Crimes and Criminal Procedure\] shall take effect on December 31, 2017."\]
+\[Pub. L. 115–118, title II, §201(c), Jan. 19, 2018, 132 Stat. 19, provided that: "The amendments made to the FISAAmendments Act of 2008 (Public Law 110–261) by this section \[amending sections 1881 to 1881g of this title and provisions set out as notes under section 1801 of this title and section 2511 of Title 18, Crimes and Criminal Procedure\] shall take effect on December 31, 2017."\]
 

@@ -34,7 +34,7 @@
 
 &emsp;(D) the court shall order a permanent injunction prohibiting any infringement of the patent by the biological product involved in the infringement until a date which is not earlier than the date of the expiration of the patent that has been infringed under paragraph (2)(C), provided the patent is the subject of a final court decision, as defined in section 351(k)(6) of the Public Health Service Act, in an action for infringement of the patent under section 351(l)(6) of such Act, and the biological product has not yet been approved because of section 351(k)(7) of such Act.
 
-> The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
+> The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only remedies whichmay be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
 
 (5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
 
@@ -158,11 +158,11 @@ Exceptions.—The amendments made by this subtitle shall not abridge or affect t
 
 "(c)
 
-Retention of Other Remedies.—The amendments made by this subtitle shall not deprive a patent owner of any remedies available under subsections (a) through (f) of section 271 of title 35, United States Code, under section 337 of the Tariff Act of 1930 \[19 U.S.C. 1337\], or under any other provision of law."
+Retention of Other Remedies.—The amendments made by this subtitle shall not deprive a patent owner of any remedies available under subsections (a) through (f) of section 271 of title 35, United States Code,under section 337 of the Tariff Act of 1930 \[19 U.S.C. 1337\], or under any other provision of law."
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be supplied, of any componentor components of a patented invention after Nov. 8, 1984, see section 106(c) of Pub. L. 98–622, set out as a note under section 103 of this title.
+Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be supplied, of any component or components of a patented invention after Nov. 8, 1984, see section 106(c) of Pub. L. 98–622, set out as a note under section 103 of this title.
 
 #### Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988
 

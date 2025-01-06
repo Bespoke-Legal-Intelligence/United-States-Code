@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 105–206, §3401(c)(2), as amended by Pub. L. 105–277, �
 
 Amendment by Pub. L. 109–432 applicable to information provided on or after Dec. 20, 2006, see section 406(d) of Pub. L. 109–432, set out as a note under section 62 of this title.
 
-Pub. L. 109–280, title VIII, §857(c), Aug. 17, 2006, 120 Stat. 1020, provided that: "The amendments made by this section \[amending this section\] shall apply to any proceeding under section 7436(c) of the Internal Revenue Code of 1986 with respect to which a decision has not become final (as determined under section 7481 of such Code) before the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title VIII, §857(c), Aug. 17, 2006, 120 Stat. 1020, provided that: "The amendments made by this section \[amending this section\] shall apply to anyproceeding under section 7436(c) of the Internal Revenue Code of 1986 with respect to which a decision has not become final (as determined under section 7481 of such Code) before the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 #### Effective Date of 1998 Amendments
 

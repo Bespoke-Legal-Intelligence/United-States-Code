@@ -48,7 +48,7 @@ For purposes of section 38, the nonconventional source production credit determi
 
 #### (4) Credit reduced for energy credit
 
-&emsp;The amount allowable as a credit under subsection (a) with respect to any project for any taxable year (determined after the application of paragraphs (1), (2), and (3)) shall be reduced by the excess of—
+&emsp;The amount allowable as a credit under subsection (a) with respect to any project for any taxable year (determined after the applicationof paragraphs (1), (2), and (3)) shall be reduced by the excess of—
 
 &emsp;&emsp;(A) the aggregate amount allowed under section 38 for the taxable year or any prior taxable year by reason of the energy percentage with respect to property used in the project, over
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term "inflation adjustment factor" means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNPimplicit price deflator for calendar year 1979. The term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
+&emsp;&emsp;The term "inflation adjustment factor" means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
 
 #### (C) Reference price
 
@@ -220,7 +220,7 @@ Notwithstanding subsection (e)—
 
 &emsp;&emsp;No credit shall be allowed with respect to any coke or coke gas which is produced using steel industry fuel (as defined in section 45(c)(7)) as feedstock if a credit is allowed to any taxpayer under section 45 with respect to the production of such steel industry fuel.
 
-(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(l), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 113–295, div. A, title II, §210(a), Dec. 19, 2014, 128 Stat. 4031.)
+(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(l), Dec. 21, 2005, 119 Stat. 2611, 2637;Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 113–295, div. A, title II, §210(a), Dec. 19, 2014, 128 Stat. 4031.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -314,7 +314,7 @@ Election.—A taxpayer shall elect, at such time and in such manner as the Secre
 
 Subsec. (c)(5). Pub. L. 101–508, §11816(b)(1), struck out par. (5) "Agricultural byproduct steam" which read as follows: "Steam produced from solid agricultural byproducts which is used by the taxpayer in his trade or business shall be treated as having been sold by the taxpayer to an unrelated person on the date on which it is used."
 
-Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out "Special rules applicable to" before "Gas" in heading, redesignating former subpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
+Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out "Special rules applicable to" before "Gas" in heading, redesignating formersubpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
 
 Subsec. (d)(5), (6). Pub. L. 101–508, §11816(b)(3), (4), redesignated par. (6) as (5), substituted "subparagraph (C)" for "subparagraph (C), (D), or (E)", and struck out former par. (5) which read as follows: "In the case of a facility for the production of—
 
@@ -468,11 +468,13 @@ For applicability of amendment by section 701(c)(3) of Pub. L. 99–514 notwiths
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Inflation Adjusted Items and Reference Price for Certain Years
 
 Provisions relating to inflation adjustment of items in this section and reference price for certain years were contained in the following:
+
+<b>2023</b>—Internal Revenue Notice 2024–51.
 
 <b>2022</b>—Internal Revenue Notice 2023–49.
 

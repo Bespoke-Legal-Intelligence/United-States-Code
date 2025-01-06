@@ -58,7 +58,7 @@ Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
+Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notesunder section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
 
 #### Short Title of 2000 Amendment
 
@@ -130,7 +130,7 @@ Pub. L. 95–630, title VI, §601, Nov. 10, 1978, 92 Stat. 3683, provided that: 
 
 #### Short Title
 
-Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: "That section 12B of the Federal Reserve Act, as amended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the 'Federal Deposit Insurance Act'."
+Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: "That section 12B of the Federal Reserve Act, as amended, is hereby withdrawn as a part of that Act andis made a separate Act \[enacting this chapter\] to be known as the 'Federal Deposit Insurance Act'."
 
 #### Separability
 
@@ -208,7 +208,7 @@ Congressional Briefing.—Upon request, the head of each banking regulator shall
 
 &emsp;"(1) the Chairman of the Board of Governors of the Federal Reserve System may designate another member of the Board of Governors of the Federal Reserve System to provide such briefing;
 
-&emsp;"(2) the Chairperson of the Federal Deposit Insurance Corporation may designate another member of the Board of Directors of the Corporation to provide such briefing; and
+&emsp;"(2) the Chairperson of the Federal Deposit Insurance Corporation may designate another member ofthe Board of Directors of the Corporation to provide such briefing; and
 
 &emsp;"(3) the Chairman of the National Credit Union Administration may designate another member of the National Credit Union Administration Board to provide such briefing.
 
@@ -432,7 +432,7 @@ Pub. L. 102–242, title III, §321, Dec. 19, 1991, 105 Stat. 2370, directed Fed
 
 #### Private Reinsurance Study
 
-Pub. L. 102–242, title III, §322, Dec. 19, 1991, 105 Stat. 2370, directed Board of Directors of Federal Deposit Insurance Corporation, in consultation with Secretary of the Treasury and individuals from the private sector with expertise in private insurance, private reinsurance, depository institutions, or economics, to conduct a study of the feasibility of establishing a private reinsurance system, such study to include a demonstration project consisting of a simulation, by a sample of private reinsurers and insured depository institutions, ofthe activities required for a private reinsurance system, with a report to Congress on the study before the end of the 18-month period beginning on Dec. 19, 1991.
+Pub. L. 102–242, title III, §322, Dec. 19, 1991, 105 Stat. 2370, directed Board of Directors of Federal Deposit Insurance Corporation, in consultation with Secretary of the Treasury and individuals from the private sector with expertise in private insurance, private reinsurance, depository institutions, or economics, to conduct a study of the feasibility of establishing a private reinsurance system, such study to include a demonstration project consisting of a simulation, by a sample of private reinsurers and insured depository institutions, of the activities required for a private reinsurance system, with a report to Congress on the study before the end of the 18-month period beginning on Dec. 19, 1991.
 
 #### Purposes of 1989 Amendment
 
@@ -536,7 +536,7 @@ Annual Survey Required.—The Board of Governors of the Federal Reserve System s
 
 &emsp;"(1) certain retail banking services provided by insured depository institutions; and
 
-&emsp;"(2) the fees, if any, which are imposed by such institutions for providing any such service, includingfees imposed for not sufficient funds, deposit items returned, and automated teller machine transactions.
+&emsp;"(2) the fees, if any, which are imposed by such institutions for providing any such service, including fees imposed for not sufficient funds, deposit items returned, and automated teller machine transactions.
 
 "(b)
 
@@ -638,7 +638,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 &emsp;&emsp;"(B) the nature of any periodic reports that the Comptroller General believes should be submitted to the Congress relating to the capital condition and operations of the government-sponsored enterprises; and
 
-&emsp;"(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development,and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
+&emsp;"(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development, and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
 
 "(f)
 

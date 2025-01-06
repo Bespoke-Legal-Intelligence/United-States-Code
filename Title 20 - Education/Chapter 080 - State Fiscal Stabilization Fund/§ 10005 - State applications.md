@@ -20,7 +20,7 @@ The Governor of a State seeking a grant under section 10006 of this title shall�
 
 &emsp;(1) submit an application for consideration;
 
-&emsp;(2) describe the status of the State's progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State's proficiency targets continue making progress toward meeting the State's student academic achievement standards;
+&emsp;(2) describe the status of the State's progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroupsdescribed in section 1111(b)(2)(C)(v)(II) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State's proficiency targets continue making progress toward meeting the State's student academic achievement standards;
 
 &emsp;(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State's student academic achievement standards;
 
@@ -88,7 +88,7 @@ Section 1111 of the ESEA, referred to in subsecs. (c)(2), (3) and (d)(2), (4)(A)
 
 Section 9871 of this title, referred to in subsec. (d)(3), (4)(C), was in the original "section 6401", and was translated as meaning section 6201 of Pub. L. 110–69 to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as section 6201 by Pub. L. 111–358, title X, §1002(b)(3), Jan. 4, 2011, 124 Stat. 4048.
 
-Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is section 6112 of Pub. L. 89–10, which was classified to section 7301a of this title, prior to repeal by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is section 6112 of Pub. L. 89–10, which was classified to section 7301a of this title, prior to repeal byPub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Section 1116 of the ESEA, referred to in subsec. (d)(5), is section 1116 of Pub. L. 89–10, which was classified to section 6316 of this title, prior to repeal by Pub. L. 114–95, §5, title I, §1000(1), Dec. 10, 2015, 129 Stat. 1806, 1814, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs. Section 1000(2) of Pub. L. 114–95 renumbered section 1118 of Pub. L. 89–10 as section 1116, which is classified to section 6318 of this title. Section 6318 does not contain a subsec. (b)(7) or (8).
 

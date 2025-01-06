@@ -72,5 +72,5 @@ Subsec. (c). Pub. L. 109–58, §153(3), inserted "and the International Energy 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

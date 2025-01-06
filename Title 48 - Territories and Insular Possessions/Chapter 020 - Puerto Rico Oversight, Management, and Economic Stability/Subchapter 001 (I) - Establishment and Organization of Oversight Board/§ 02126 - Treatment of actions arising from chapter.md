@@ -14,7 +14,7 @@ Except with respect to any orders entered to remedy constitutional violations, n
 
 #### (d) Expedited consideration
 
-It shall be the duty of the applicable United States District Court, the applicable UnitedStates Court of Appeals, and, as applicable, the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under this chapter.
+It shall be the duty of the applicable United States District Court, the applicable United States Court of Appeals, and, as applicable, the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under this chapter.
 
 #### (e) Review of Oversight Board certifications
 

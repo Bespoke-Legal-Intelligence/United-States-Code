@@ -52,7 +52,7 @@ Service of notice of substantial consummation.—Not later than 14 days after th
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b)(5). Pub. L. 117–151 substituted "possession—" for "possession,", designated remainder of existing provisions as subpar. (A), struck out ", including operating the business of the debtor" after "1106(a) of this title", inserted "and" at end, and added subpar. (B).
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–151 substituted "possession—" for "possession,", designated remainder of existing provisions as subpar. (A), struck out ", including operating the business of the debtor" after"1106(a) of this title", inserted "and" at end, and added subpar. (B).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

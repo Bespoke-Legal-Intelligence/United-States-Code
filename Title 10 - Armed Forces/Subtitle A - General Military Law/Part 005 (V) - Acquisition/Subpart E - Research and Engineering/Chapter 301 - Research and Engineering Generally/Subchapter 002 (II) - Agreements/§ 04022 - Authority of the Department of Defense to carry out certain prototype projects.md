@@ -2,11 +2,11 @@
 
 (a)
 
-Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 4021 of this title, carry out prototype projects that are directly relevant to enhancing the mission effectiveness of personnel of the Department of Defense or improving platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the armed forces.
+Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Director of the Defense Innovation Unit, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 4021 of this title, carry out prototype projects that are directly relevant to enhancing the mission effectiveness of personnel of the Department of Defense or improving platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the armed forces.
 
 (2) The authority of this section—
 
-&emsp;(A) may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+&emsp;(A) may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the head of the contracting activity, or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency that—
 
 &emsp;&emsp;(i) the requirements of subsection (d) will be met; and
 
@@ -14,7 +14,7 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 &emsp;(B) may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
 
-&emsp;&emsp;(i) the Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment determines in writing that—
+&emsp;&emsp;(i) the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency, determines in writing that—
 
 &emsp;&emsp;&emsp;(I) the requirements of subsection (d) will be met; and
 
@@ -32,7 +32,7 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 &emsp;&emsp;(ii) notifies the congressional defense committees in writing of the determinations required under clause (i) at the time such authority is exercised.
 
-(3) The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.
+(3) The authority of the head of the contracting activity, director of the Defense Advanced Research Projects Agency, director of the Defense Innovation Unit, director of the Missile Defense Agency, or the senior procurement executive, as applicable, under paragraph (2) may not be delegated.
 
 (b)
 
@@ -88,11 +88,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) the Director of the Defense Advanced Research Projects Agency;
 
-&emsp;&emsp;(C) the Director of the Missile Defense Agency;
+&emsp;&emsp;(C) the Director of the Defense Innovation Unit;
 
-&emsp;&emsp;(D) the Undersecretary of Defense for Acquisition and Sustainment; or
+&emsp;&emsp;(D) the Director of the Missile Defense Agency;
 
-&emsp;&emsp;(E) the Undersecretary of Defense for Research and Engineering.
+&emsp;&emsp;(E) the Undersecretary of Defense for Acquisition and Sustainment; or
+
+&emsp;&emsp;(F) the Undersecretary of Defense for Research and Engineering.
 
 &emsp;(2) The term "nontraditional defense contractor" has the meaning given the term under section 3014 of this title.
 
@@ -114,11 +116,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(F) any combination of subparagraphs (A) through (E).
 
+&emsp;(6) The term "follow-on production contract or transaction" means a contract or transaction to produce, sustain, or otherwise implement the results of a successfully completed prototype project for continued or expanded use by the Department of Defense.
+
 (f)
 
-Follow-on Production Contracts or Transactions.—(1) A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.
+Follow-on Production Contracts or Transactions.—(1) A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions. A follow-on production award may be provided for in a transaction entered into under this section for a prototype project, awarded with respect to such a transaction as one or more separate awards, or a combination thereof.
 
-(2) A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction if—
+(2) A follow-on production contract or transaction provided for in a transaction under paragraph (1), one or more separate awards of follow-on production contracts or transactions with respect to a transaction described in such paragraph, or a combination thereof, may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction if—
 
 &emsp;(A) competitive procedures were used for the selection of parties for participation in the transaction; and
 
@@ -148,11 +152,13 @@ In general.—The Secretary of Defense or the Secretary of a military department
 
 &emsp;(2)
 
-Limits.—In carrying out prototype projects under the pilot program established under paragraph (1)—
+Limits.—(A) In carrying out prototype projects under the pilot program established under paragraph (1)—
 
-&emsp;&emsp;(A) except for projects carried out for the purpose of repairing a facility, not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
+&emsp;&emsp;(i) not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
 
-&emsp;&emsp;(B) the aggregate value of all transactions entered into under such pilot program may not exceed $300,000,000.
+&emsp;&emsp;(ii) the aggregate value of all transactions entered into under such pilot program may not exceed $300,000,000.
+
+&emsp;(B) The requirements of this paragraph shall not apply to projects carried out for the purpose of repairing a facility.
 
 &emsp;(3)
 
@@ -168,31 +174,13 @@ Sunset.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2025.
+In general.—Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2030.
 
 &emsp;&emsp;(B)
 
 Ongoing project exception.—Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).
 
-(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893, §2371b; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered §4022 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, §821(b), title XVII, §1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718; Pub. L. 118–31, div. A, title VIII, §§821, 822(a), title IX, §913(a), Dec. 22, 2023, 137 Stat. 326, 327, 367.)
-
-#### Amendment of Subsections (a) and (e)(1)
-
-<i>Pub. L. 118–31, div. A, title IX, §913(a)(3), (b), Dec. 22, 2023, 137 Stat. 367, 368, provided that, effective 180 days after Dec. 22, 2023, with additional implementation requirements, this section is amended as follows:</i>
-
-<i>(1) in subsection (a):</i>
-
-<i>(A) in paragraph (1), by inserting "the Director of the Defense Innovation Unit," after "Defense Advanced Research Projects Agency,";</i>
-
-<i>(B) in paragraph (2)(A), by inserting ", the Defense Innovation Unit," after "Defense Advanced Research Projects Agency"; and</i>
-
-<i>(C) in paragraph (3), by inserting ", Defense Innovation Unit," after "Defense Advanced Research Projects Agency"; and</i>
-
-<i>(2) in subsection (e)(1), by redesignating subparagraphs (C) through (E) as (D) through (F), respectively, and by inserting after subparagraph (B) the following new subparagraph:</i>
-
-&emsp;&emsp;<i>"(C) the Director of the Defense Innovation Unit;".</i>
-
-<i>See 2023 Amendment notes below.</i>
+(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893, §2371b; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered §4022 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, §821(b), title XVII, §1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718; Pub. L. 118–31, div. A, title VIII, §§821, 822(a), title IX,§913(a), Dec. 22, 2023, 137 Stat. 326, 327, 367; Pub. L. 118–159, div. A, title VIII, §§816–818(a), Dec. 23, 2024, 138 Stat. 1981, 1982.)
 
 #### <b>Editorial Notes</b>
 
@@ -205,6 +193,22 @@ Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L
 A prior section 4022, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of contract surgeons in an emergency, prior to repeal by Pub. L. 98–94, title IX, §932(b)(1), (f) Sept. 24, 1983, 97 Stat. 650, effective Oct. 1, 1983, with continuation provision for existing contracts.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(A). Pub. L. 118–159, §816(1)(A), substituted "head of the contracting activity" for "senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41" in introductory provisions.
+
+Subsec. (a)(2)(B)(i). Pub. L. 118–159, §816(1)(B), substituted "senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency," for "Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment" in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 118–159, §816(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency, Defense Innovation Unit, or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated."
+
+Subsec. (e)(6). Pub. L. 118–159, §817(1), added par. (6).
+
+Subsec. (f)(1). Pub. L. 118–159, §817(2)(A), inserted at end "A follow-on production award may be provided for in a transaction entered into under this section for a prototype project, awarded with respect to such a transaction as one or more separate awards, or a combination thereof."
+
+Subsec. (f)(2). Pub. L. 118–159, §817(2)(B), inserted ", one or more separate awards of follow-on production contracts or transactions with respect to a transaction described in such paragraph, or a combination thereof," after "paragraph (1)" in introductory provisions.
+
+Subsec. (i)(2). Pub. L. 118–159, §818(a)(1), inserted subpar. (A) designation before "In carrying out", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), struck out "except for projects carried out for the purpose of repairing a facility," before "not more than two prototype projects" in cl. (i) of subpar. (A) as redesignated, and added subpar. (B).
+
+Subsec. (i)(4)(A). Pub. L. 118–159, §818(a)(2), substituted "September 30, 2030" for "September 30, 2025".
 
 <b>2023</b>—Subsec. (a)(1). Pub. L. 118–31, §913(a)(3)(A)(i), inserted "the Director of the Defense Innovation Unit," after "Defense Advanced Research Projects Agency,".
 
@@ -266,7 +270,7 @@ Subsec. (b)(2). Pub. L. 115–232, §211(2), inserted "the prototype" after "car
 
 Subsec. (f)(3) to (5). Pub. L. 115–232, §211(3), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91, §864(a)(1), (2), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototypeproject", "$100,000,000" for "$50,000,000", and "$500,000,000" for "$250,000,000".
+<b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91, §864(a)(1), (2), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototype project", "$100,000,000" for "$50,000,000", and "$500,000,000" for "$250,000,000".
 
 Subsec. (a)(2)(B). Pub. L. 115–91, §864(a)(1), (3), in introductory provisions, substituted "for a transaction (for a prototype project)" for "for a prototype project" and "$500,000,000" for "$250,000,000".
 
@@ -279,6 +283,10 @@ Subsec. (d)(1)(C). Pub. L. 115–91, §864(c), substituted "provided by sources 
 Subsec. (f)(1). Pub. L. 115–91, §864(d), inserted at end "A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. A, title VIII, §818(b), Dec. 23, 2024, 138 Stat. 1982, provided that: "This section \[amending this section\] and the amendments made by this section shall apply with respect to a transaction for a prototype project under section 4022(i) of title 10, United States Code, entered into on or after the date of the enactment of this section \[Dec. 23, 2024\]."
 
 #### Effective Date of 2023 Amendment; Implementation
 
@@ -294,27 +302,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Limitation on Missile Defense Agency Production of Satellites and Ground Systems Associated With Operation of Such Satellites
 
-Pub. L. 117–81, div. A, title XVI, §1662(a), Dec. 27, 2021, 135 Stat. 2103, provided that:
-
-"(1)
-
-Production of satellites and ground systems.—The Director of the Missile Defense Agency may not authorize or obligate funding for a program of record for the production of satellites or ground systems associated with the operation of such satellites.
-
-"(2)
-
-Prototype satellites.—
-
-&emsp;"(A)
-
-Authority.—The Director, with the concurrence of the Space Acquisition Council established by section 9021 of title 10, United States Code, may authorize the production of one or more prototype satellites, consistent with the requirements of the Missile Defense Agency.
-
-&emsp;"(B)
-
-Report.—Not later than 30 days after the date on which the Space Acquisition Council concurs with the Director with respect to authorizing the production of a prototype satellite under subparagraph (A), the chair of the Council shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report explaining the reasons for such concurrence.
-
-&emsp;"(C)
-
-Obligation of funds.—The Director may not obligate funds for the production of a prototype satellite under subparagraph (A) before the date on which the Space Acquisition Council submits the report for such prototype satellite under subparagraph (B)."
+Pub. L. 117–81, div. A, title XVI, §1662(a), Dec. 27, 2021, 135 Stat. 2103, which provided that the Director of the Missile Defense Agency could not authorize or obligate funding for a program of record for the production of satellites or ground systems associated with the operation of such satellites and could authorize, with the concurrence of the Space Acquisition Council, the production of one or more prototype satellites, consistent with the requirements of the Missile Defense Agency, was repealed by Pub. L. 118–159, div. A, title XVI, §1649(b)(2), Dec. 23, 2024, 138 Stat. 2199. See section 5537 of this title.
 
 #### Relaxation of Department of Defense Other Transaction Authority Requirements Related to the National Emergency for the Coronavirus Disease 2019
 

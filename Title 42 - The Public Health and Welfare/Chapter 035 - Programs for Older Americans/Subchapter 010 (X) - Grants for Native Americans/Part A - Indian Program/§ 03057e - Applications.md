@@ -8,7 +8,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
 
-&emsp;(3) provide that the tribal organization will make such reports in such form and containing such information, as the Assistant Secretary may reasonably require, and complywith such requirements as the Assistant Secretary may impose to assure the correctness of such reports;
+&emsp;(3) provide that the tribal organization will make such reports in such form and containing such information, as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to assure the correctness of such reports;
 
 &emsp;(4) provide for periodic evaluation of activities and projects carried out under the application;
 
@@ -34,7 +34,7 @@ For the purpose of any application submitted under this part, the tribal organiz
 
 (1) The Assistant Secretary shall approve any application which complies with the provisions of subsection (a).
 
-(2) The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or other factors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
+(2) The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or otherfactors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
 
 (3) The Assistant Secretary shall approve any application that complies with the provisions of subsection (a), except that in determining whether an application complies with the requirements of subsection (a)(8), the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
 

@@ -8,7 +8,7 @@ The Director of the Office of Secondary Market Oversight shall, by regulation, e
 
 #### (A) In general
 
-&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, incomparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
+&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
 
 #### (B) Rural utility loans
 
@@ -24,7 +24,7 @@ The Director of the Office of Secondary Market Oversight shall, by regulation, e
 
 &emsp;In establishing the risk-based capital test under subsection (a)—
 
-&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
+&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on varioustypes of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
 &emsp;&emsp;(B) the Director shall conform loan data used in determining credit risk to the minimum geographic and commodity diversification standards applicable to pools of qualified loans eligible for guarantee;
 
@@ -74,7 +74,7 @@ The Director shall make copies of the statistical model or models used to implem
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

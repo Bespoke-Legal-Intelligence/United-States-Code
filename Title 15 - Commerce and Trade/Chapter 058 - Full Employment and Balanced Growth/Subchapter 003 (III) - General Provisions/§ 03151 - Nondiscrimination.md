@@ -6,7 +6,7 @@ No person in the United States shall on the ground of sex, age, race, color, rel
 
 #### (b) Noncompliance notification; remedies of Secretary of Labor
 
-Whenever the Secretary of Labor determines that a recipient of funds made available pursuant to this chapter has failed to comply with subsection (a), or an applicable regulation, the Secretary shall notify the recipient of the noncompliance and shall request such recipient to secure compliance. If within a reasonable period of time, not to exceed sixty days, the recipient fails or refuses to secure compliance, the Secretary of Labor may—
+Whenever the Secretary of Labor determines that a recipient of funds made available pursuant to this chapter has failed to comply withsubsection (a), or an applicable regulation, the Secretary shall notify the recipient of the noncompliance and shall request such recipient to secure compliance. If within a reasonable period of time, not to exceed sixty days, the recipient fails or refuses to secure compliance, the Secretary of Labor may—
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 

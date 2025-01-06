@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 88–200, §6(b), struck out provisions for exemption from 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of this title.
 
 #### Effective Date of 1964 Amendment
 

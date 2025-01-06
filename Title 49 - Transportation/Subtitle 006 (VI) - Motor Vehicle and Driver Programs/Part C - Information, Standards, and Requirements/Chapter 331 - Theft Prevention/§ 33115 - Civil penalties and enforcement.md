@@ -26,7 +26,7 @@ Chop Shop Penalty and Enforcement.—(1) A person that violates section 33114(a)
 
 (c)
 
-Civil Actions To Enforce.—(1) The Attorney General may bring a civil action in a United States district court to enjoin a violation of this chapter or the sale, offer for sale, introduction or delivery for introduction in interstate commerce, or importation into the United States, of a passenger motor vehicle containing a major part, or of a major replacement part, that is subject to the standard and is determined before the sale of the vehicle or part to a first purchaser not to conform to the standard.
+Civil Actions To Enforce.—(1) The Attorney General may bring a civil action in a United States district court to enjoin a violation of this chapter or the sale, offer for sale, introduction or delivery for introduction in interstate commerce, or importation into the United States, of a passenger motor vehicle containing a majorpart, or of a major replacement part, that is subject to the standard and is determined before the sale of the vehicle or part to a first purchaser not to conform to the standard.
 
 (2)(A) When practicable, the Secretary—
 

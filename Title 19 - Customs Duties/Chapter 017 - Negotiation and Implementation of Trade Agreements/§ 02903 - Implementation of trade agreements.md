@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(ii) neither House of the Congress adopts an extension disapproval resolution under paragraph (5) before June 1, 1991.
 
-(2) If the President is of the opinion that the fast track procedures should be extended to implementing bills described in paragraph (1)(B),the President must submit to the Congress, no later than March 1, 1991, a written report that contains a request for such extension, together with—
+(2) If the President is of the opinion that the fast track procedures should be extended to implementing bills described in paragraph (1)(B), the President must submit to the Congress, no later than March 1, 1991, a written report that contains a request for such extension, together with—
 
 &emsp;(A) a description of all trade agreements that have been negotiated under section 2902(b) or (c) of this title and the anticipated schedule for submitting such agreements to the Congress for approval;
 
@@ -114,7 +114,7 @@
 
 &emsp;(A) the requirements of section 2902(c)(3) of this title are not met with respect to the negotiation of such agreement; or
 
-&emsp;(B) the Committee on Finance of the Senate or the Committee on Ways and Means of the House of Representatives disapproves of thenegotiation of such agreement before the close of the 60-day period which begins on the date notice is provided under section 2902(c)(3)(C)(i) of this title with respect to the negotiation of such agreement.
+&emsp;(B) the Committee on Finance of the Senate or the Committee on Ways and Means of the House of Representatives disapproves of the negotiation of such agreement before the close of the 60-day period which begins on the date notice is provided under section 2902(c)(3)(C)(i) of this title with respect to the negotiation of such agreement.
 
 #### (d) Rules of House of Representatives and Senate
 

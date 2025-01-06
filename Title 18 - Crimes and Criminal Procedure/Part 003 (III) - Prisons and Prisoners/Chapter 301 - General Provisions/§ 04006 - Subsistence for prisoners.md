@@ -36,7 +36,7 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–162, §1157(1), inserted "or the Secretary of Homeland Security, as applicable," after "The Attorney General".
 
-Subsec. (b)(1). Pub. L. 109–162, §1157(2), substituted "the Department of Homeland Security" for "the Immigration and Naturalization Service", "shall be the amount billed, not to exceed the amount" for "shall not exceed the lesser of the amount", and "items and services under the Medicare program" for "items and services under—
+Subsec. (b)(1). Pub. L. 109–162, §1157(2), substituted "the Department of Homeland Security" for "the Immigration and Naturalization Service", "shall be the amount billed, not to exceed the amount" for "shallnot exceed the lesser of the amount", and "items and services under the Medicare program" for "items and services under—
 
 &emsp;"(A) the Medicare program"
 

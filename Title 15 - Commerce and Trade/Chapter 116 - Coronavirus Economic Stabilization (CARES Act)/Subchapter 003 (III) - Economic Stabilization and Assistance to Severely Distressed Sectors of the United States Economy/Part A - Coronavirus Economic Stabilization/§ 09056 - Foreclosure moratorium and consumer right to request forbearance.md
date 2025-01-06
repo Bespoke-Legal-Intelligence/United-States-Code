@@ -42,7 +42,7 @@ In this section:
 
 #### (3) Accrual of interest or fees
 
-&emsp;During a period of forbearance described in this subsection, no fees, penalties, or interest beyond the amounts scheduled or calculated as if the borrower made all contractual payments on time and in full under the terms of the mortgage contract, shall accrue on the borrower's account.
+&emsp;During a period of forbearance described in this subsection, no fees, penalties, or interestbeyond the amounts scheduled or calculated as if the borrower made all contractual payments on time and in full under the terms of the mortgage contract, shall accrue on the borrower's account.
 
 #### (c) Requirements for servicers
 
@@ -90,7 +90,7 @@ Sec. 2. <i>Policy</i>. It is the policy of the United States to minimize, to the
 
 Sec. 3. <i>Response to Public Health Risks of Evictions and Foreclosures</i>. (a) The Secretary of Health and Human Services and the Director of CDC shall consider whether any measures temporarily halting residential evictions of any tenants for failure to pay rent are reasonably necessary to prevent the further spread of COVID–19 from one State or possession into any other State or possession.
 
-(b) The Secretary of the Treasury and the Secretary of Housing and Urban Development shall identify any and all available Federal funds to provide temporary financial assistance to renters and homeowners who, as a result of the financial hardships caused by COVID–19, are struggling to meet their monthly rental or mortgage obligations.
+(b) The Secretary of the Treasury and the Secretary of Housing and Urban Development shall identify any and all available Federal funds to provide temporary financial assistance to renters and homeowners who, asa result of the financial hardships caused by COVID–19, are struggling to meet their monthly rental or mortgage obligations.
 
 (c) The Secretary of Housing and Urban Development shall take action, as appropriate and consistent with applicable law, to promote the ability of renters and homeowners to avoid eviction or foreclosure resulting from financial hardships caused by COVID–19. Such action may include encouraging and providing assistance to public housing authorities, affordable housing owners, landlords, and recipients of Federal grant funds in minimizing evictions and foreclosures.
 

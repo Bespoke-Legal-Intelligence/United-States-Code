@@ -2,7 +2,7 @@
 
 #### (a) Definition of service in the uniformed services
 
-In this section, the term "service in the uniformed services" means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.
+In this section, the term "service in the uniformed services" means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve.
 
 #### (b) Discrimination against students who serve in the uniformed services prohibited
 
@@ -48,7 +48,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;&emsp;(ii) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
-&emsp;&emsp;&emsp;(iii) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
+&emsp;&emsp;&emsp;(iii) ordered to active duty (other than for training) in support, as determined bythe Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
 
 &emsp;&emsp;&emsp;(iv) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or
 
@@ -96,7 +96,7 @@ A student's eligibility for readmission to an institution of higher education un
 
 &emsp;(3) A dropping of such person from the rolls pursuant to section 1161(b) of title 10.
 
-(Pub. L. 89–329, title IV, §484C, as added Pub. L. 110–315, title IV, §487, Aug. 14, 2008, 122 Stat. 3290; amended Pub. L. 115–232, div. A, title XII, §1204(a)(6), (b)(2), Aug. 13, 2018, 132 Stat. 2017.)
+(Pub. L. 89–329, title IV, §484C, as added Pub. L. 110–315, title IV, §487, Aug. 14, 2008, 122 Stat. 3290; amended Pub. L. 115–232, div. A, title XII, §1204(a)(6), (b)(2), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 118–159, div. E, title LVII, §5705, Dec. 23, 2024, 138 Stat. 2466.)
 
 #### <b>Editorial Notes</b>
 
@@ -119,6 +119,8 @@ Section 1091e, Pub. L. 89–329, title V, §506, as added Pub. L. 90–35, §2(c
 Section 1091f, Pub. L. 89–329, title V, §507, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 amended subsec. (a) generally. Prior to amendment, text read as follows: "In this section, the term 'service in the uniformed services' means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days."
 
 <b>2018</b>—Subsec. (c)(3)(C)(i). Pub. L. 115–232, §1204(b)(2), substituted "section 251, 252," for "section 331, 332,".
 

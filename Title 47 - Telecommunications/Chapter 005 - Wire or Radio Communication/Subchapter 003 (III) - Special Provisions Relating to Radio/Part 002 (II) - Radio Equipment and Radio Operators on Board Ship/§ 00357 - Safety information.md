@@ -2,7 +2,7 @@
 
 #### (a) Transmission of information concerning safety at sea
 
-The master of every ship of the United States, equipped with radio transmitting apparatus, which meets with dangerous ice, a dangerous derelict, a tropical storm, or any other direct danger to navigation, or encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received, shall cause to be transmitted all pertinent information relating thereto to ships in the vicinity and to the appropriate authorities on land, in accordance with rules and regulations issued by the Commission. When they consider it necessary, such authorities of the United States shall promptly bring the information received by them to the knowledge of those concerned, including interested foreign authorities.
+The master of every ship of the United States, equipped with radio transmitting apparatus, which meets with dangerous ice, a dangerous derelict, a tropical storm, or any other direct danger to navigation, or encounters subfreezing air temperatures associated with gale forcewinds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received, shall cause to be transmitted all pertinent information relating thereto to ships in the vicinity and to the appropriate authorities on land, in accordance with rules and regulations issued by the Commission. When they consider it necessary, such authorities of the United States shall promptly bring the information received by them to the knowledge of those concerned, including interested foreign authorities.
 
 #### (b) Charges for transmission of safety information
 
@@ -18,7 +18,7 @@ No charge shall be made by any ship or station in the mobile service of the Unit
 
 #### (e) Free services
 
-Notwithstanding any other provision of law, any station or carrier may render free service in connection with situations involving the safety of life and property, including hydrographic reports, weather reports, reports regarding aids to navigation and medical assistance to injured or sick persons on ships and aircraft at sea. All free service permitted by this subsection shall besubject to such rules and regulations as the Commission may prescribe, which rules may limit such free service to the extent which the Commission finds desirable in the public interest.
+Notwithstanding any other provision of law, any station or carrier may render free service in connection with situations involving the safety of life and property, including hydrographic reports, weather reports, reports regarding aids to navigation and medical assistance to injured or sick persons on ships and aircraft at sea. All free service permitted by this subsection shall be subject to such rules and regulations as the Commission may prescribe, which rules may limit such free service to the extent which the Commission finds desirable in the public interest.
 
 (June 19, 1934, ch. 652, title III, §359, formerly §357, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 195; renumbered §359, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 89–121, §9, Aug. 13, 1965, 79 Stat. 516.)
 

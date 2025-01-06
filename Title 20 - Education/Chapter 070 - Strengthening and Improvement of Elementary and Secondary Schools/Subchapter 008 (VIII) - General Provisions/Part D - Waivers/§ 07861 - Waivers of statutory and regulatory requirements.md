@@ -166,7 +166,7 @@ The Secretary shall not waive under this section any statutory or regulatory req
 
 &emsp;&emsp;(A) include in, or delete from, such request, specific academic standards, such as the Common Core State Standards developed under the Common Core State Standards Initiative or any other standards common to a significant number of States;
 
-&emsp;&emsp;(B) use specific academic assessment instruments or items, including assessmentsaligned to the standards described in subparagraph (A); or
+&emsp;&emsp;(B) use specific academic assessment instruments or items, including assessments aligned to the standards described in subparagraph (A); or
 
 &emsp;&emsp;(C) include in, or delete from, such waiver request any specific elements of—
 

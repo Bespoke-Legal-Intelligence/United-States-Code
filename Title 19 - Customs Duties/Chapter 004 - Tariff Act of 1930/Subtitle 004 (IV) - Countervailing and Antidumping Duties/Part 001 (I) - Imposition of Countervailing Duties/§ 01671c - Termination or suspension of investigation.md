@@ -56,7 +56,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (2) Certain additional requirements
 
-&emsp;Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into the United States, the administering authority may not accept an agreement under this subsection unless—
+&emsp;Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into the United States, the administering authoritymay not accept an agreement under this subsection unless—
 
 &emsp;&emsp;(A) the suppression or undercutting of price levels of domestic products by imports of that merchandise will be prevented, and
 
@@ -172,7 +172,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (1) In general
 
-&emsp;Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation andwhich is described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
+&emsp;Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
 
 #### (2) Commission investigation
 
@@ -198,7 +198,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 &emsp;&emsp;&emsp;(ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d) or (c) and (d), was first entered, or withdrawn from warehouse, for consumption,
 
-&emsp;&emsp;(B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination under section 1671b(b) of this title were made on the date of its determination under this paragraph,
+&emsp;&emsp;(B) if the investigation was not completed, resume the investigation as if its affirmativepreliminary determination under section 1671b(b) of this title were made on the date of its determination under this paragraph,
 
 &emsp;&emsp;(C) if the investigation was completed under subsection (g), issue a countervailing duty order under section 1671e(a) of this title effective with respect to entries of merchandise the liquidation of which was suspended,
 
@@ -226,7 +226,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 #### (2) Requirements for suspension agreements
 
-&emsp;Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b) or (c), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under section 1671d(b) of this title but not in the preliminaryaffirmative determination under section 1671b(a) of this title, any agreement described in paragraph (1) may be accepted within 60 days after the countervailing duty order is published under section 1671e of this title.
+&emsp;Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b) or (c), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under section 1671d(b) of this title but not in the preliminary affirmative determination under section 1671b(a) of this title, any agreement described in paragraph (1) may be accepted within 60 days after the countervailing duty order is published under section 1671e of this title.
 
 #### (3) Effect of suspension agreement on countervailing duty order
 

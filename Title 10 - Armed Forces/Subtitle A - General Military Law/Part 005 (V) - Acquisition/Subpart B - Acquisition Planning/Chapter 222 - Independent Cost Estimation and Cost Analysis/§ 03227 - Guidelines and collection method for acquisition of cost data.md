@@ -6,13 +6,13 @@ Director of Cape to Develop Guidelines and Collection Method.—The Director of 
 
 (b)
 
-Applicability to Acquisition Programs in Amount Greater Than Specified Threshold.—The program manager and contracting officer for each acquisition program in an amount greater than $100,000,000, in consultation with the cost estimating component of the relevant military department or Defense Agency, shall ensure that cost data are collected in accordance with the requirements of subsection (a).
+Applicability to Acquisition Programs in Amount Greater Than Specified Threshold.—The program manager and contracting officer for each acquisition program in an amount greater than an amount described in section 3041(c)(1) of this title, in consultation with the cost estimating component of the relevant military department or Defense Agency, shall ensure that cost data are collected in accordance with the requirements of subsection (a).
 
 (c)
 
 Limitation on Waiver Authority.—The requirement under subsection (a) may be waived only by the Director of Cost Assessment and Program Evaluation.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1812(a), (h), Jan. 1, 2021, 134 Stat. 4174, 4177.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1812(a), (h), Jan. 1, 2021, 134 Stat. 4174, 4177; Pub. L. 118–159, div. A, title VIII, §801, Dec. 23, 2024, 138 Stat. 1965.)
 
 #### <b>Editorial Notes</b>
 
@@ -25,6 +25,8 @@ The text of subsec. (g) of section 2334 of this title, which was transferred to 
 A prior section 3230, added Pub. L. 85–861, §1(69)(B), Sept. 2, 1958, 72 Stat. 1464, provided that members of Army who are detailed for duty with agencies of United States outside Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–159 substituted "an amount described in section 3041(c)(1) of this title" for "$100,000,000".
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1812(h)(1), (2)(A), redesignated subsec. (g) of section 2334 of this title as subsec. (a) of this section, substituted "
 

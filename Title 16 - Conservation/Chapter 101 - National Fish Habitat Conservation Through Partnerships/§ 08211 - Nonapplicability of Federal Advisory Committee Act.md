@@ -1,18 +1,16 @@
 ### §8211. Nonapplicability of Federal Advisory Committee Act
 
-The Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to—
+Chapter 10 of title 5 (commonly known as the "Federal Advisory Committee Act"), shall not apply to—
 
 &emsp;(1) the Board; or
 
 &emsp;(2) any Partnership.
 
-(Pub. L. 116–188, title II, §211, Oct. 30, 2020, 134 Stat. 937.)
+(Pub. L. 116–188, title II, §211, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, §207, Dec. 23, 2024, 138 Stat. 2683.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2024</b>—Pub. L. 118–198 substituted "Chapter 10 of title 5 (commonly known as the 'Federal Advisory Committee Act')," for "The Federal Advisory Committee Act (5 U.S.C. App.)" in introductory provisions.
 

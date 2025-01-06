@@ -58,7 +58,7 @@ The Secretary shall establish a national Renewable Energy Coordination Office an
 
 #### (d) Additional personnel
 
-The Secretary may assign such additional personnel for the Bureau of Land Management Renewable Energy Coordination Offices as are necessary to ensure the effective implementation of any programs administered by the offices in accordance with the multiple use mandate of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+The Secretary may assign such additional personnel for the Bureau of Land Management Renewable Energy Coordination Offices as are necessary to ensure the effective implementation ofany programs administered by the offices in accordance with the multiple use mandate of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 
 #### (e) Transfer of funds
 
@@ -106,7 +106,7 @@ The Migratory Bird Treaty Act, referred to in subsec. (c)(1)(E), is act July 3, 
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(F), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (c)(1)(I), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566,which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (c)(1)(I), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 Act of June 8, 1940, referred to in subsec. (c)(1)(J), is act June 8, 1940, ch. 278, 54 Stat. 250, popularly known as the "Bald and Golden Eagle Protection Act" and also known as the "Bald Eagle Protection Act", which is classified generally to subchapter II (§668 et seq.) of chapter 5A of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 668 of Title 16 and Tables.
 

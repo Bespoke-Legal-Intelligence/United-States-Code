@@ -96,7 +96,7 @@ The purpose of this section is to authorize the Secretary, in collaboration with
 
 &emsp;&emsp;&emsp;&emsp;(III) shorter stays in intensive restrictive placements for dual status youths; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) such other outcomes for dual status youths as the State child welfare agency and State juvenile justice agency may identify.
+&emsp;&emsp;&emsp;&emsp;(IV) such other outcomes for dual status youths as the State child welfareagency and State juvenile justice agency may identify.
 
 #### (d) Training and technical assistance
 
@@ -124,7 +124,7 @@ In this section:
 
 #### (3) State juvenile justice agency
 
-&emsp;The term "State juvenile justice agency" means the agency of the State or Indian triberesponsible for administering grant funds awarded under the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.).
+&emsp;The term "State juvenile justice agency" means the agency of the State or Indian tribe responsible for administering grant funds awarded under the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.).
 
 #### (4) State child welfare agency
 

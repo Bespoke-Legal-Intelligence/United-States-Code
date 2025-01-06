@@ -32,7 +32,7 @@
 
 (d) Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
-(e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.
+(e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 <sup>2</sup> and noncontingent, liquidated, secured debts of less than $750,000,<sup>2</sup> or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 <sup>2</sup> and noncontingent, liquidated, secured debts of less than $750,000 <sup>2</sup> may be a debtor under chapter 13 of this title.
 
 (f) Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
@@ -62,10 +62,6 @@
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, §2(1), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(6), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 117–151, §2(c), (i)(1)(A), June 21, 2022, 136 Stat. 1298, 1300.)
 
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 117–151, §2(i)(1)(A), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, subsection (e) of this section is amended to read as such subsection read on the day before June 21, 2022. See 2022 Amendment note below.</i>
-
 #### Historical and Revision Notes
 
 #### legislative statements
@@ -80,7 +76,7 @@ Section 109(e) represents a compromise between H.R. 8200 as passed by the House 
 
 This section specifies eligibility to be a debtor under the bankruptcy laws. The first criterion, found in the current Bankruptcy Act section 2a(1) \[section 11(a)(1) of former title 11\] requires that the debtor reside or have a domicile, a place of business, or property in the United States.
 
-Subsection (b) defines eligibility for liquidation under chapter 7. All persons are eligible except insurance companies, and certain banking institutions. These exclusions are contained in current law. However, the banking institution exception is expanded in light of changes in various banking laws since the current law was last amended on this point. A change is also made to clarify that the bankruptcy laws cover foreign banks and insurance companies not engaged in the banking or insurance business in the United States but having assets in the United States. Banking institutions and insurance companies engaged in business in this country are excluded from liquidation under the bankruptcy laws because they are bodies for which alternate provision is made for their liquidation under various State or Federal regulatory laws. Conversely, when a foreign bank or insurance company is not engaged in the banking or insurance business in theUnited States, then those regulatory laws do not apply, and the bankruptcy laws are the only ones available for administration of any assets found in United States.
+Subsection (b) defines eligibility for liquidation under chapter 7. All persons are eligible except insurance companies, and certain banking institutions. These exclusions are contained in current law. However, the banking institution exception is expanded in light of changes in various banking laws since the current law was last amended on this point. A change is also made to clarify that the bankruptcy laws cover foreign banks and insurance companies not engaged in the banking or insurance business in the United States but having assets in the United States. Banking institutions and insurance companies engaged in business in this country are excluded from liquidation under the bankruptcy laws because they are bodies for which alternate provision is made for their liquidation under various State or Federal regulatory laws. Conversely, when a foreign bank or insurance company is not engaged in the banking or insurance business in the United States, then those regulatory laws do not apply, and the bankruptcy laws are the only ones available for administration of any assets found in United States.
 
 The first clause of subsection (b) provides that a railroad is not a debtor except where the requirements of section 1174 are met.
 
@@ -202,7 +198,7 @@ Pub. L. 117–151, §2(i)(2), June 21, 2022, 136 Stat. 1300, provided that: "For
 
 #### Adjustment of Dollar Amounts
 
-The dollar amounts specified in this section, prior to the amendment made by Pub. L. 117–151, §2(c), were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of theUnited States pursuant to section 104 of this title as follows:
 
 By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (e), dollar amounts "419,275" and "1,257,850" were adjusted to "465,275" and "1,395,875", respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
 
@@ -223,4 +219,6 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec.
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (e), dollar amounts "250,000" and "750,000" were adjusted to "269,250" and "807,750", respectively, each time they appeared.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Adjustment of Dollar Amounts notes below.</i>
 

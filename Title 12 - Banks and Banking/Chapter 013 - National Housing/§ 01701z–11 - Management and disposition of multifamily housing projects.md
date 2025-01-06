@@ -80,7 +80,7 @@ For purposes of this section:
 
 #### (6) Low-income families and very low-income families
 
-&emsp;The terms "low-income families" and "very low-income families" shall have the meanings given the terms in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\].
+&emsp;The terms "low-income families" and "very low-income families" shall have the meaningsgiven the terms in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\].
 
 #### (7) Preexisting tenant
 
@@ -198,7 +198,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 &emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subsection (b)(2)(D) that is not subject to subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) the contract shall be sufficient to assist at least all units in the project that are covered, or were covered immediately before foreclosure on or acquisition of the project by the Secretary, by an assistance contract under any of the provisions referred to in such subsection, unless the Secretary acts pursuant to provisions of subparagraph (C); and
+&emsp;&emsp;&emsp;(i) the contract shall be sufficient to assist at least all units in the project thatare covered, or were covered immediately before foreclosure on or acquisition of the project by the Secretary, by an assistance contract under any of the provisions referred to in such subsection, unless the Secretary acts pursuant to provisions of subparagraph (C); and
 
 &emsp;&emsp;&emsp;(ii) the contract shall provide that, when a vacancy occurs in any unit in the project requiring project-based rental assistance pursuant to this subparagraph that is occupied by a family who is not eligible for assistance under such section 8 \[42 U.S.C. 1437f\], the owner shall lease the available unit to a family eligible for assistance under such section 8.
 
@@ -254,13 +254,13 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (B) Limitation for subsidized and formerly subsidized projects
 
-&emsp;&emsp;The Secretary may not take actions under this paragraph in connection with units in subsidized or formerly subsidized projectsfor more than 10 percent of the aggregate number of units in such projects disposed of by the Secretary in any fiscal year.
+&emsp;&emsp;The Secretary may not take actions under this paragraph in connection with units in subsidized or formerly subsidized projects for more than 10 percent of the aggregate number of units in such projects disposed of by the Secretary in any fiscal year.
 
 #### (3) Other assistance
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the authority provided under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may provide other assistance pursuant to subsection (f) to the owners of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure, or after sale by the Secretary, on terms that ensure that—
+&emsp;&emsp;In accordance with the authority provided under the National Housing Act \[12 U.S.C.1701 et seq.\], the Secretary may provide other assistance pursuant to subsection (f) to the owners of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure, or after sale by the Secretary, on terms that ensure that—
 
 &emsp;&emsp;&emsp;(i) at least the units in the project otherwise required to receive project-based assistance pursuant to subparagraphs (A), (B), or (D) of paragraph (1) are available to and affordable by low-income persons; and
 
@@ -316,7 +316,7 @@ In addition to the actions required under subsection (e) for a subsidized, forme
 
 &emsp;&emsp;The Secretary may take actions under subparagraph (A) only if—
 
-&emsp;&emsp;&emsp;(i) tenant-based rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] is made available to each eligible family residing in the project that is displaced as a result of such actions; and
+&emsp;&emsp;&emsp;(i) tenant-based rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] is made available to each eligible family residing in the projectthat is displaced as a result of such actions; and
 
 &emsp;&emsp;&emsp;(ii) the Secretary determines that sufficient habitable, affordable rental housing is available in the market area in which the project is located to ensure use of such assistance.
 
@@ -442,7 +442,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 &emsp;Notwithstanding any provision of law that requires competitive sales or bidding, the Secretary may carry out negotiated sales of mortgages held by the Secretary, without the competitive selection of purchasers or intermediaries, to units of general local government or State agencies, or groups of investors that include at least one such unit of general local government or State agency, if the negotiations are conducted with such agencies, except that—
 
-&emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of abeneficial interest in such mortgages, in a manner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicable mortgage insurance program, including, to the extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
+&emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of a beneficial interest in such mortgages, in a manner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicable mortgage insurance program, including, tothe extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
 
 &emsp;&emsp;(B) the sales prices for such mortgages shall be, in the determination of the Secretary, the best prices that may be obtained for such mortgages from a unit of general local government or State agency, consistent with the expectation and intention that the projects financed will be retained for use under the applicable mortgage insurance program for the life of the initial mortgage insurance contract.
 
@@ -504,9 +504,9 @@ Section 101 of the Housing and Urban Development Act of 1965, referred to in sub
 
 Section 23 of the United States Housing Act of 1937, referred to in subsecs. (b)(2)(D)(iii) and (e)(1)(D)(i)(V), was classified to section 1421b of Title 42 and was omitted from the Code following the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(2)(E), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, probably means subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, which is classified generally to subchapter II\(§4141 et seq.) of chapter 42 of this title. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(2)(E), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, probably means subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, which is classified generally to subchapter II (§4141 et seq.) of chapter 42 of this title. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of the Act is classified principally to part A (§12871 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of theAct is classified principally to part A (§12871 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (f)(9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

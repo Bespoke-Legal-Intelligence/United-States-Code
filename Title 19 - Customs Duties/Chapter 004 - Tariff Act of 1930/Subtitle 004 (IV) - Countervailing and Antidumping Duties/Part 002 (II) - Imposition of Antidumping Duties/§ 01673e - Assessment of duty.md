@@ -4,7 +4,7 @@
 
 Within 7 days after being notified by the Commission of an affirmative determination under section 1673d(b) of this title, the administering authority shall publish an antidumping duty order which—
 
-&emsp;(1) directs customs officers to assess an antidumping duty equal to the amount by which the normal value of the merchandise exceeds the export price (or the constructed exportprice) of the merchandise, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than—
+&emsp;(1) directs customs officers to assess an antidumping duty equal to the amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than—
 
 &emsp;&emsp;(A) 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption, or
 
@@ -62,7 +62,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (3) Determinations to be basis of antidumping duty
 
-&emsp;The administering authority shall publish notice in the Federal Register of the results ofits determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) applies.
+&emsp;The administering authority shall publish notice in the Federal Register of the results of its determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) applies.
 
 #### (4) Provision of business proprietary information; written comments
 

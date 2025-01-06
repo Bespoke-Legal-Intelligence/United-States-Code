@@ -148,7 +148,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13627, Sept. 25, 2012, 77 F.R. 60029, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the Trafficking Victims Protection Act of 2000, as amended (TVPA) (Public Law 106–386, Division A), and in order to strengthen protections against trafficking in persons in Federal contracting, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the Trafficking Victims Protection Act of 2000, as amended (TVPA) (Public Law 106–386, Division A), and in order to strengthen protections against trafficking in persons in Federal contracting, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. More than 20 million men, women, and children throughout the world are victims of severe forms of trafficking in persons ("trafficking" or "trafficking in persons")—defined in section 103 of the TVPA, 22 U.S.C. 7102(8) \[now 7102(11)\], to include sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age, or the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion, for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.
 
@@ -266,7 +266,7 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

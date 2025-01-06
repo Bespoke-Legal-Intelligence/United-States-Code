@@ -1,6 +1,6 @@
 ### §§921 to 935. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641
 
-Section 921, act July 9, 1952, ch. 608, pt. II, §201, 66 Stat. 482, stated purpose of reserve components, andprovided for maintenance of National Guard and Air National Guard. See sections 10102 and 10103 of Title 10, Armed Forces, and section 102 of Title 32, National Guard.
+Section 921, act July 9, 1952, ch. 608, pt. II, §201, 66 Stat. 482, stated purpose of reserve components, and provided for maintenance of National Guard and Air National Guard. See sections 10102 and 10103 of Title 10, Armed Forces, and section 102 of Title 32, National Guard.
 
 Section 922, act July 9, 1952, ch. 608, pt. II, §202, 66 Stat. 482, enumerated reserve components. See section 10101 of Title 10, Armed Forces.
 

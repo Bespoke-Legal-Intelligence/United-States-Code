@@ -26,7 +26,7 @@ Funding.—(1) The Secretary of the Navy shall use the Department of Defense Mil
 
 Expiration.—The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, §2803(f), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. A, title X, §1051(a)(25), div. B, title XXVIII, §2801(d)(1), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title VI, §613(b), Dec. 23, 2022, 136 Stat. 2623.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, §2803(f), Jan. 7,2011, 124 Stat. 4459; Pub. L. 115–91, div. A, title X, §1051(a)(25), div. B, title XXVIII, §2801(d)(1), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title VI, §613(b), Dec. 23, 2022, 136 Stat. 2623.)
 
 #### <b>Editorial Notes</b>
 

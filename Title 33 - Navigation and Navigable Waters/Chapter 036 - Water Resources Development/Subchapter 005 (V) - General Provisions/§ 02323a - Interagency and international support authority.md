@@ -10,19 +10,19 @@ The Secretary may engage in activities in support of international organizations
 
 #### (c) Use of Corps' expertise
 
-The Secretary may use the technical and managerial expertise of the Corps of Engineers to address domestic and international problems related to water resources, infrastructure development, and environmental protection and restoration.
+The Secretary may use the technical and managerial expertise, including the planning and design expertise, of the Corps of Engineers to address domestic and international problems related to water resources, infrastructure development, and environmental protection and restoration.
 
 #### (d) Funding
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2008 and each fiscal year thereafter.
+&emsp;There is authorized to be appropriated to carry out this section $2,500,000 for fiscal year 2008 and each fiscal year thereafter.
 
 #### (2) Acceptance of funds
 
 &emsp;The Secretary may accept and expend additional funds from Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to carry out this section.
 
-(Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, §2030, Nov. 8, 2007, 121 Stat. 1081; Pub. L. 113–121, title I, §1029, June 10, 2014, 128 Stat. 1230.)
+(Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, §2030, Nov. 8, 2007, 121 Stat. 1081; Pub. L. 113–121, title I, §1029, June 10, 2014, 128 Stat. 1230; Pub. L. 118–272, div. A, title II, §1243, Jan. 4, 2025, 138 Stat. 3092.)
 
 #### <b>Editorial Notes</b>
 
@@ -31,6 +31,10 @@ The Secretary may use the technical and managerial expertise of the Corps of Eng
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c). Pub. L. 118–272, §1243(1), inserted ", including the planning and design expertise," after "managerial expertise".
+
+Subsec. (d)(1). Pub. L. 118–272, §1243(2), substituted "$2,500,000" for "$1,000,000".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–121, §1029(1), substituted "Federal departments or agencies, nongovernmental organizations," for "other Federal agencies,".
 
@@ -46,7 +50,7 @@ Subsec. (b). Pub. L. 110–114, §2030(2), substituted "Department of State" for
 
 Subsec. (d). Pub. L. 110–114, §2030(3), substituted "$1,000,000 for fiscal year 2008" for "$250,000 for fiscal year 2001" and ", international organizations, or foreign governments" for "or international organizations".
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–541 substituted "There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter." for "There is authorized to be appropriated$1,000,000 to carry out this section." and inserted "out" after "carry" in second sentence.
+<b>2000</b>—Subsec. (d). Pub. L. 106–541 substituted "There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter." for "There is authorized to be appropriated $1,000,000 to carry out this section." and inserted "out" after "carry" in second sentence.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

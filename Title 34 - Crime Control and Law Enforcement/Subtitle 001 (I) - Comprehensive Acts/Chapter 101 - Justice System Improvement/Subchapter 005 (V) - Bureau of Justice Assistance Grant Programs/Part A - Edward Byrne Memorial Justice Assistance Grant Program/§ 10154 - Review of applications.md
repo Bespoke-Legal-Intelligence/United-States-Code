@@ -24,5 +24,5 @@ Another prior section 503 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 #### Effective Date
 
-Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
+Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set outas an Effective Date of 2006 Amendment note under section 10151 of this title.
 

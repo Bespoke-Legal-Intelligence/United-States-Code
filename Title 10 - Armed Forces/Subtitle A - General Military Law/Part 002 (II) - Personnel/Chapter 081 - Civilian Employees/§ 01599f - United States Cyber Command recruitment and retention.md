@@ -186,7 +186,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;&emsp;"(B)
 
-Implementation plan.—The report required under subparagraph (A) shall detail the utilization of the policies in place at the National Security Agency, as well as an implementation plan that describes the mechanisms needed to expand the use of such policies to accommodate wider participation by individuals described in such subparagraph. Such implementation plan shall detail how such individuals would be able to connect to the instructional and participatory opportunities available through the efforts, programs, initiatives, and investments accounted for in the report required under section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92 \[133 Stat. 1758\]), including the following programs:
+Implementation plan.—The report required under subparagraph (A) shall detail the utilization of the policies in place at the National Security Agency, as well as an implementation plan that describes the mechanisms needed to expand the use of such policies to accommodate wider participation by individuals described in such subparagraph. Such implementation plan shall detail how such individuals would be able to connect to the instructional and participatory opportunities available through the efforts, programs, initiatives, and investments accounted for in the report requiredunder section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92 \[133 Stat. 1758\]), including the following programs:
 
 &emsp;&emsp;&emsp;"(i) GenCyber.
 
@@ -298,7 +298,7 @@ In-progress Reviews.—Not later than six months after the date of the enactment
 
 "(i)
 
-Final Briefing.—After all of the reviews have been completed under paragraph (1) of subsection (a), after receiving all of the findings pursuant to paragraph (2) of such subsection, and not later than June 1, 2021, the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly provide to the congressional defense committees a briefing on the findings of the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary with respect to such reviews, including such recommendations as the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary may have for changes to the budget of the Department as a result of such reviews.
+Final Briefing.—After all of the reviews have been completed under paragraph (1) of subsection (a), after receiving all of the findings pursuant to paragraph (2) of such subsection, and not later than June 1, 2021, the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly provide to the congressional defense committees a briefing on the findings of the Principal Cyber Advisor, theChief Information Officer, and the Under Secretary with respect to such reviews, including such recommendations as the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary may have for changes to the budget of the Department as a result of such reviews.
 
 "(j)
 

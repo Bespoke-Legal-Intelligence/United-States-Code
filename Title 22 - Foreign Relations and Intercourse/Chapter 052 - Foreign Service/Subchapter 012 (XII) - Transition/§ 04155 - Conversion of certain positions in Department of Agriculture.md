@@ -10,7 +10,7 @@ Not later than 15 days after February 15, 1981, the Secretary of Agriculture sha
 
 #### (b) Election to convert
 
-Each employee serving in a position at the time it is designated under subsection (a) shall, not later than 120 days after notice of such designation, elect—
+Each employee serving in a position at the time it is designated under subsection (a) shall,not later than 120 days after notice of such designation, elect—
 
 &emsp;(1) to accept conversion to the Foreign Service, in which case such employee shall be converted in accordance with the provisions of subsection (c); or
 

@@ -52,7 +52,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;&emsp;&emsp;(ii) has not made a payment within 30 days after that payment is due,
 
-> &emsp;&emsp;except that, in the case of a claim filed on or after the date of the enactment of the Black Lung Benefits Revenue Act of 1981, amounts will be available under this subparagraph only for benefits accruing after the date of such initial determination, or
+> &emsp;&emsp;except that, in the case of a claim filed on or after the date of the enactment of the BlackLung Benefits Revenue Act of 1981, amounts will be available under this subparagraph only for benefits accruing after the date of such initial determination, or
 
 &emsp;&emsp;(B) there is no operator who is liable for the payment of such benefits,
 
@@ -174,6 +174,8 @@ Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–47, div. D, title I, Mar. 23, 2024, 138 Stat. 638.
+
 Pub. L. 117–328, div. H, title I, Dec. 29, 2022, 136 Stat. 4843.
 
 Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 431.
@@ -214,7 +216,7 @@ Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided 
 
 #### Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor
 
-Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: "In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions."
+Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: "In the event that the payment of benefits to miners and to eligible survivors of miners cannot bemade from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

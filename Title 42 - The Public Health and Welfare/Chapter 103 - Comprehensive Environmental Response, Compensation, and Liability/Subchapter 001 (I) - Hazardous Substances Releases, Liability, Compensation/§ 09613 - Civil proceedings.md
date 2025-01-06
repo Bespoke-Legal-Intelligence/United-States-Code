@@ -24,7 +24,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (1) Contribution
 
-&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of anyperson to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
+&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
 
 #### (2) Settlement
 
@@ -36,7 +36,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;(B) A person who has resolved its liability to the United States or a State for some or all of a response action or for some or all of the costs of such action in an administrative or judicially approved settlement may seek contribution from any person who is not party to a settlement referred to in paragraph (2).
 
-&emsp;(C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United States or the State. Any contribution action brought under this paragraph shall be governed by Federal law.
+&emsp;(C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United Statesor the State. Any contribution action brought under this paragraph shall be governed by Federal law.
 
 #### (g) Period in which action may be brought
 
@@ -74,7 +74,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (5) Actions to recover indemnification payments
 
-&emsp;Notwithstanding any other provision of this subsection, where a payment pursuant to an indemnification agreement with a response action contractor is made under section 9619 of this title, an action under section 9607 of thistitle for recovery of such indemnification payment from a potentially responsible party may be brought at any time before the expiration of 3 years from the date on which such payment is made.
+&emsp;Notwithstanding any other provision of this subsection, where a payment pursuant to an indemnification agreement with a response action contractor is made under section 9619 of this title, an action under section 9607 of this title for recovery of such indemnification payment from a potentially responsible party may be brought at any time before the expiration of 3 years from the date on which such payment is made.
 
 #### (6) Minors and incompetents
 

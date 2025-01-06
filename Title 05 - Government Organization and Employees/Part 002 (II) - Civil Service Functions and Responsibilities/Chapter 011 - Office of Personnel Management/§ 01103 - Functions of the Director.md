@@ -20,7 +20,7 @@
 
 &emsp;(6) reviewing the operations under chapter 87 of this title;
 
-&emsp;(7) aiding the President, as the President may request, in preparing such civil servicerules as the President prescribes, and otherwise advising the President on actions which may be taken to promote an efficient civil service and a systematic application of the merit system principles, including recommending policies relating to the selection, promotion, transfer, performance, pay, conditions of service, tenure, and separation of employees;
+&emsp;(7) aiding the President, as the President may request, in preparing such civil service rules as the President prescribes, and otherwise advising the President on actions which may be taken to promote an efficient civil service and a systematic application of the merit system principles, including recommending policies relating to the selection, promotion, transfer, performance, pay, conditions of service, tenure, and separation of employees;
 
 &emsp;(8) conducting, or otherwise providing for the conduct of, studies and research under chapter 47 of this title into methods of assuring improvements in personnel management; and
 

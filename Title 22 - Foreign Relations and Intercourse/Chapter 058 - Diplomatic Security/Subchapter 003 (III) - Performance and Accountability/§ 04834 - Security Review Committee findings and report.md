@@ -50,7 +50,7 @@ The Security Review Committee shall—
 
 #### (c) Personnel recommendations
 
-If in the course of conducting an investigation under section 4833 of this title, the investigative team finds reasonable cause to believe any individual described in section 4833(a)(2)(D) of this title has breached the duty of that individual orfinds lesser failures on the part of an individual in the performance of his or her duties related to the incident, it shall be reported to the Security Review Committee. If the Security Review Committee finds reasonable cause to support the determination, it shall be reported to the Secretary for appropriate action.
+If in the course of conducting an investigation under section 4833 of this title, the investigative team finds reasonable cause to believe any individual described in section 4833(a)(2)(D) of this title has breached the duty of that individual or finds lesser failures on the part of an individual in the performance of his or her duties related to the incident, it shall be reported to the Security Review Committee. If the Security Review Committee finds reasonable cause to support the determination, it shall be reported to the Secretary for appropriate action.
 
 (Pub. L. 99–399, title III, §304, Aug. 27, 1986, 100 Stat. 861; Pub. L. 100–204, title I, §156(b), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 114–323, title I, §104(a), Dec. 16, 2016, 130 Stat. 1909; Pub. L. 117–263, div. I, title XCIII, §9302(g), Dec. 23, 2022, 136 Stat. 3887.)
 

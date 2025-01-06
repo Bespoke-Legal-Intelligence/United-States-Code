@@ -10,7 +10,7 @@ Covered Countries.—The authority under subsection (a) applies with respect to 
 
 &emsp;(1) A member nation of the North Atlantic Treaty Organization (NATO).
 
-&emsp;(2) A country designated as of March 31, 1995, as a major non-NATO ally pursuant to section2350a(i)(3) of this title, as in effect on that date.
+&emsp;(2) A country designated as of March 31, 1995, as a major non-NATO ally pursuant to section 2350a(i)(3) of this title, as in effect on that date.
 
 &emsp;(3) A country in Central Europe that, as determined by the Secretary of State—
 

@@ -74,7 +74,7 @@ Subject to subsection (h), the Secretary shall establish a Medicare coverage gap
 
 &emsp;&emsp;&emsp;(i) the determination of the amount of the discounted price of an applicable drug of a manufacturer;
 
-&emsp;&emsp;&emsp;(ii) except as provided in clause (iii), the establishment of procedures under whichdiscounted prices are provided to applicable beneficiaries at pharmacies or by mail order service at the point-of-sale of an applicable drug;
+&emsp;&emsp;&emsp;(ii) except as provided in clause (iii), the establishment of procedures under which discounted prices are provided to applicable beneficiaries at pharmacies or by mail order service at the point-of-sale of an applicable drug;
 
 &emsp;&emsp;&emsp;(iii) in the case where, during the period beginning on January 1, 2011, and ending on December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
 
@@ -272,7 +272,7 @@ Subsec. (c)(1)(A)(iii). Pub. L. 111–152, §1101(b)(2)(C)(i), substituted "Janu
 
 Subsec. (c)(2). Pub. L. 111–152, §1101(b)(2)(C)(ii), substituted "2011" for "2010".
 
-Subsec. (d)(2)(B). Pub. L. 111–152, §1101(b)(2)(D), substituted "January 1, 2011, and ending on December 31, 2011" for "July 1, 2010, and ending on December 31, 2010".
+Subsec. (d)(2)(B). Pub. L. 111–152, §1101(b)(2)(D), substituted "January 1, 2011, and ending on December 31,2011" for "July 1, 2010, and ending on December 31, 2010".
 
 Subsec. (g)(1). Pub. L. 111–152, §1101(b)(2)(E)(i), substituted "a covered part D drug" for "an applicable drug" in introductory provisions.
 

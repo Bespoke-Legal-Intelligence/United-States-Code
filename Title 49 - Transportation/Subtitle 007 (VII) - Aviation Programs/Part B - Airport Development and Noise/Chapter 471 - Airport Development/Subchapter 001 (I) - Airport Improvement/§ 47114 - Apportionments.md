@@ -14,103 +14,81 @@ Amounts Apportioned to Sponsors.—
 
 &emsp;(1)
 
-Primary airports.—
+Primary and commercial service airports.—
 
 &emsp;&emsp;(A)
 
-Apportionment.—The Secretary shall apportion to the sponsor of each primary airport for each fiscal year an amount equal to—
+Primary airport apportionment.—The Secretary shall apportion to the sponsor of each primary airport for each fiscal year an amount equal to—
 
-&emsp;&emsp;&emsp;(i) $7.80 for each of the first 50,000 passenger boardings at the airport during the prior calendar year;
+&emsp;&emsp;&emsp;(i) $15.60 for each of the first 50,000 passenger boardings at the airport during the prior calendar year;
 
-&emsp;&emsp;&emsp;(ii) $5.20 for each of the next 50,000 passenger boardings at the airport during the prior calendar year;
+&emsp;&emsp;&emsp;(ii) $10.40 for each of the next 50,000 passenger boardings at the airport during the prior calendar year;
 
-&emsp;&emsp;&emsp;(iii) $2.60 for each of the next 400,000 passenger boardings at the airport during the prior calendar year;
+&emsp;&emsp;&emsp;(iii) $5.20 for each of the next 400,000 passenger boardings at the airport during the prior calendar year;
 
-&emsp;&emsp;&emsp;(iv) $.65 for each of the next 500,000 passenger boardings at the airport during the prior calendar year; and
+&emsp;&emsp;&emsp;(iv) $1.30 for each of the next 500,000 passenger boardings at the airport during the prior calendar year; and
 
-&emsp;&emsp;&emsp;(v) $.50 for each additional passenger boarding at the airport during the prior calendar year.
+&emsp;&emsp;&emsp;(v) $1.00 for each additional passenger boarding at the airport during the prior calendar year.
 
 &emsp;&emsp;(B)
 
-Minimum and maximum apportionments.—Not less than $650,000 nor more than $22,000,000 may be apportioned under subparagraph (A) of this paragraph to an airport sponsor for a primary airport for each fiscal year.
+Minimum and maximum apportionments.—Not less than $1,300,000 nor more than $22,000,000 may be apportioned under subparagraph (A) to an airport sponsor for a primary airport for each fiscal year.
 
 &emsp;&emsp;(C)
 
-Special rule.—In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more—
-
-&emsp;&emsp;&emsp;(i) the amount to be apportioned to a sponsor under subparagraph (A) shall be increased by doubling the amount that would otherwise be apportioned;
-
-&emsp;&emsp;&emsp;(ii) the minimum apportionment to a sponsor under subparagraph (B) shall be $1,000,000 rather than $650,000; and
-
-&emsp;&emsp;&emsp;(iii) the maximum apportionment to a sponsor under subparagraph (B) shall be $26,000,000 rather than $22,000,000.
+New airport.—Notwithstanding subparagraph (A), the Secretary shall apportion in the first fiscal year following the official opening of a new airport with scheduled passenger air transportation an amount equal to $1,300,000 to the sponsor of such airport.
 
 &emsp;&emsp;(D)
 
-New airports.—Notwithstanding subparagraph (A), the Secretary shall apportion on the first day of the first fiscal year following the official opening of a new airport with scheduled passenger air transportation an amount equal to the minimum amount set forth in subparagraph (B) or (C), as appropriate, to the sponsor of such airport.
+Nonprimary commercial service airport apportionment.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary shall apportion to each commercial service airport that is not a primary airport an amount equal to—
+
+&emsp;&emsp;&emsp;&emsp;(I) $60 for each of the first 2,500 passenger boardings at the airport during the prior calendar year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) $153.33 for each of the next 7,499 passenger boardings at the airport during the prior calendar year.
+
+&emsp;&emsp;&emsp;(ii)
+
+Applicability.—Paragraphs (4) and (5) of subsection (d) shall apply to funds apportioned under this subparagraph.
 
 &emsp;&emsp;(E)
 
-Use of previous fiscal year's apportionment.—Notwithstanding subparagraph (A), the Secretary may apportion to an airport sponsor in a fiscal year an amount equal to the amount apportioned to that sponsor in the previous fiscal year if the Secretary finds that—
+Public airports with military use.—Notwithstanding any other provision of law, a public airport shall be considered a primary airport in each of fiscal years 2025 through 2028 for purposes of this chapter if such airport was—
 
-&emsp;&emsp;&emsp;(i) passenger boardings at the airport fell below 10,000 in the calendar year used to calculate the apportionment;
+&emsp;&emsp;&emsp;(i) designated as a primary airport in fiscal year 2017; and
 
-&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings in the calendar year prior to the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
-
-&emsp;&emsp;&emsp;(iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
+&emsp;&emsp;&emsp;(ii) in use by an air reserve station in the calendar year used to calculate apportionments to airport sponsors in a fiscal year.
 
 &emsp;&emsp;(F)
 
-Special rule for fiscal years 2018 through 2020.—Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph <sup>1</sup> for each of fiscal years 2018 through 2020 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
-
-&emsp;&emsp;&emsp;(i) had 10,000 or more passenger boardings during calendar year 2012;
-
-&emsp;&emsp;&emsp;(ii) had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2018, 2019, or 2020, as applicable, under subparagraph (A); and
-
-&emsp;&emsp;&emsp;(iii) had scheduled air service at any point in the calendar year used to calculate the apportionment.
-
-&emsp;&emsp;(G)
-
-Limitations and waivers.—The authority to make apportionments in the manner prescribed in subparagraph (F) may be utilized no more than 3 years in a row. The Secretary may waive this limitation if the Secretary determines that an airport's enplanements are substantially close to 10,000 enplanements and the airport sponsor or affected communities are taking reasonable steps to restore enplanements above 10,000.
-
-&emsp;&emsp;(H)
-
-Minimum apportionment for commercial service airports with more than 8,000 passenger boardings in a calendar year.—Not less than $600,000 may be apportioned under subparagraph (A) for each fiscal year to each sponsor of a commercial service airport that had fewer than 10,000 passenger boardings, but at least 8,000 passenger boardings, during the prior calendar year.
-
-&emsp;&emsp;(I)
-
-Seasonal airports.—Notwithstanding section 47102, if the Secretary determines that a commercial service airport with at least 8,000 passenger boardings receives scheduled air carrier service for fewer than 6 months in the calendar year used to calculate apportionments to airport sponsors in a fiscal year, then the Secretary shall consider the airport to be a nonhub primary airport for purposes of this chapter.
-
-&emsp;&emsp;(J)
-
-Special rule for fiscal years 2022 and 2023.—Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary shall apportion in fiscal years 2022 and 2023, and for the period beginning on October 1, 2023, and ending on March 8, 2024, to the sponsor of the airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount:
+Special rule for fiscal year 2024.—Notwithstanding any other provision of this paragraph or the absence of scheduled passenger service at an airport, the Secretary shall apportion in fiscal year 2024 to the sponsor of an airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount under this paragraph:
 
 &emsp;&emsp;&emsp;(i) Calendar year 2018.
 
 &emsp;&emsp;&emsp;(ii) Calendar year 2019.
 
-&emsp;&emsp;&emsp;(iii) The prior full calendar year prior to the current fiscal year.
+&emsp;&emsp;&emsp;(iii) The prior full calendar year prior to fiscal year 2024.
 
-(2)
+&emsp;(2)
 
 Cargo airports.—
 
-&emsp;(A)
+&emsp;&emsp;(A)
 
-Apportionment.—Subject to subparagraph (D), the Secretary shall apportion an amount equal to 3.5 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds.
+Apportionment.—Subject to subparagraph (D), the Secretary shall apportion an amount equal to 4 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 25,000,000 pounds.
 
-&emsp;(B)
+&emsp;&emsp;(B)
 
 Suballocation formula.—Any funds apportioned under subparagraph (A) to sponsors of airports described in subparagraph (A) shall be allocated among those airports in the proportion that the total annual landed weight of aircraft described in subparagraph (A) landing at each of those airports bears to the total annual landed weight of those aircraft landing at all those airports.
 
-&emsp;(C)
-
-Limitation.—In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than 8 percent of the amount apportioned under subparagraph (A) may be apportioned for any one airport.
-
-&emsp;(D)
+&emsp;&emsp;(C)
 
 Distribution to other airports.—Before apportioning amounts to the sponsors of airports under subparagraph (A) for a fiscal year, the Secretary may set-aside a portion of such amounts for distribution to the sponsors of other airports, selected by the Secretary, that the Secretary finds will be served primarily by aircraft providing air transportation of only cargo.
 
-&emsp;(E)
+&emsp;&emsp;(D)
 
 Determination of landed weight.—Landed weight under this paragraph is the landed weight of aircraft landing at each airport described in subparagraph (A) during the prior calendar year.
 
@@ -132,19 +110,9 @@ Population.—The term "population" means the population stated in the latest de
 
 &emsp;(2)
 
-Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
+Apportionment.—In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 25 percent of the amount subject to apportionment for each fiscal year as follows:
 
-&emsp;&emsp;(A) 0.66 percent of the apportioned amount to Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
-
-&emsp;&emsp;(B) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the population of each of those States bears to the total population of all of those States.
-
-&emsp;&emsp;(C) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the area of each of those States bears to the total area of all of those States.
-
-&emsp;(3)
-
-Special rule.—In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 20 percent of the amount subject to apportionment for each fiscal year as follows:
-
-&emsp;&emsp;(A) To each airport, excluding primary airports but including reliever and nonprimary commercial service airports, in States the lesser of—
+&emsp;&emsp;(A) To each airport, excluding commercial service airports but including reliever airports, in States the lesser of—
 
 &emsp;&emsp;&emsp;(i) $150,000; or
 
@@ -154,27 +122,27 @@ Special rule.—In any fiscal year in which the total amount made available unde
 
 &emsp;&emsp;&emsp;(i) 0.62 percent of the remaining amount to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands.
 
-&emsp;&emsp;&emsp;(ii) Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in clause (i) in the proportion that the population of each of those States bears to the total population of all of those States.
+&emsp;&emsp;&emsp;(ii) Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding commercial service airports but including reliever airports, in States not named in clause (i) in the proportion that the population of each ofthose States bears to the total population of all of those States.
 
-&emsp;&emsp;&emsp;(iii) Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in clause (i) in the proportion that the area of each of those States bears to the total area of all of those States.
+&emsp;&emsp;&emsp;(iii) Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding commercial service airports but including reliever airports, in States not named in clause (i) in the proportion that the area of each of those States bears to the total area of all of those States.
 
-&emsp;&emsp;(C) During fiscal years 2019 and 2020—
+&emsp;&emsp;(C) An airport that has previously been listed as unclassified under the national plan of integrated airport systems that has reestablished the classified status of such airport as of the date of apportionment shall be eligible to accrue apportionment funds pursuant to subparagraph (A) so long as such airport retains such classified status.
 
-&emsp;&emsp;&emsp;(i) an airport that accrued apportionment funds under subparagraph (A) in fiscal year 2013 that is listed as having an unclassified status under the most recent national plan of integrated airport systems shall continue to accrue apportionment funds under subparagraph (A) at the same amount the airport accrued apportionment funds in fiscal year 2013, subject to the conditions of this paragraph;
+&emsp;(3)
 
-&emsp;&emsp;&emsp;(ii) notwithstanding the period of availability as described in section 47117(b), an amount apportioned to an airport under clause (i) shall be available to the airport only during the fiscal year in which the amount is apportioned; and
+Airports in noncontiguous states and territories.—
 
-&emsp;&emsp;&emsp;(iii) notwithstanding the waiver permitted under section 47117(c)(2), an airport receiving apportionment funds under clause (i) may not waive its claim to any part of the apportioned funds in order to make the funds available for a grant for another public-use airport.
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(D) An airport that re-establishes its classified status shall be eligible to accrue apportionment funds pursuant to subparagraph (A) so long as such airport retains its classified status.
+Alaska, puerto rico, and hawaii.—An amount apportioned under this subsection to Alaska, Puerto Rico, or Hawaii for airports in such State may be made available by the Secretary for any public airport in those respective jurisdictions.
+
+&emsp;&emsp;(B)
+
+Other territories.—An amount apportioned under paragraph (2)(B)(i) may be made available by the Secretary for any public-use airport in Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands if the Secretary determines that there are insufficient qualified grant applications for projects at airports that are otherwise eligible for funding under that paragraph. The Secretary shall prioritize the use of such amounts in the territory the amount was originally apportioned in.
 
 &emsp;(4)
 
-Airports in alaska, puerto rico, and hawaii.—An amount apportioned under paragraph (2) or (3) to Alaska, Puerto Rico, or Hawaii for airports in such State may be made available by the Secretary for any public airport in those respective jurisdictions.
-
-&emsp;(5)
-
-Use of state highway specifications.—The Secretary shall use the highway specifications of a State for airfield pavement construction and improvement using funds made available under this subsection at nonprimaryairports serving aircraft that do not exceed 60,000 pounds gross weight if—
+Use of state highway specifications.—The Secretary shall use the highway specifications of a State for airfield pavement construction and improvement using funds made available under this subsection or subsection (c)(1)(D) at nonprimary airports serving aircraft that do not exceed 60,000 pounds gross weight if—
 
 &emsp;&emsp;(A) such State requests the use of such specifications; and
 
@@ -184,11 +152,11 @@ Use of state highway specifications.—The Secretary shall use the highway speci
 
 &emsp;&emsp;&emsp;(ii) the life of the pavement, with necessary maintenance and upkeep, will not be shorter than it would be if constructed using Administration standards.
 
+&emsp;(5)
+
+Integrated airport system planning.—Notwithstanding any other provision of this section, funds made available under this subsection or subsection (c)(1)(D) may be used for integrated airport system planning that encompasses one or more primary airports.
+
 &emsp;(6)
-
-Integrated airport system planning.—Notwithstanding any other provision of this subsection, funds made available under this subsection may be used for integrated airport system planning that encompasses one or more primary airports.
-
-&emsp;(7)
 
 Eligibility to receive primary airport minimum apportionment amount.—Notwithstanding any other provision of this subsection, the Secretary may apportion to an airport sponsor in a fiscal year an amount equal to the minimum apportionment available under subsection (c)(1)(B) if the Secretary finds that the airport—
 
@@ -226,23 +194,23 @@ Reducing Apportionments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a charge is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to—
+In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of a medium or large hub airport for which a charge is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to—
 
 &emsp;&emsp;(A) in the case of a charge of $3.00 or less—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), 50 percent of the projected revenues from the charge in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; or
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), 40 percent of the projected revenues from the charge in the fiscal year but not by more than 40 percent of the amount that otherwise would be apportioned under this section; or
 
-&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 50 percent of the projected revenues from the charge in the fiscal year but not by more than 50 percent of the excess of—
+&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 40 percent of the projected revenues from the charge in the fiscal year but not by more than 40 percent of the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that otherwise would be apportioned under this section; over
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount equal to the amount specified in subclause (I) multiplied by the percentage of the total passenger boardings at the applicable airport that are comprised of interisland passengers; and
+&emsp;&emsp;&emsp;&emsp;(II) the amount equal to the amount specified in subclause (I) multiplied by the percentage of the total passengerboardings at the applicable airport that are comprised of interisland passengers; and
 
 &emsp;&emsp;(B) in the case of a charge of more than $3.00—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), 75 percent of the projected revenues from the charge in the fiscal year but not by more than 75 percent of the amount that otherwise would be apportioned under this section; or
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), 60 percent of the projected revenues from the charge in the fiscal year but not by more than 60 percent of the amount that otherwise would be apportioned under this section; or
 
-&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 75 percent of the projected revenues from the charge in the fiscal year but not by more than 75 percent of the excess of—
+&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 60 percent of the projected revenues from the charge in the fiscal year but not by more than 60 percent of the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that otherwise would be apportioned under this section; over
 
@@ -250,25 +218,21 @@ In general.—Subject to paragraph (3), an amount that would be apportioned unde
 
 &emsp;(2)
 
-Effective date of reduction.—A reduction in an apportionment required by paragraph (1) shall not take effect until the first fiscal year following the year in which the collection of the charge imposed under section 40117 is begun.
-
-&emsp;(3)
-
-Special rule for transitioning airports.—
+Effective date of reduction.—
 
 &emsp;&emsp;(A)
 
-In general.—Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the charge in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenues derived from such charge in the preceding fiscal year.
+New charge collection.—A reduction in an apportionment under paragraph (1) shall not take effect until the first fiscal year following the year in which the collection of the charge imposed under section 40117 has begun.
 
 &emsp;&emsp;(B)
 
-Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
+New categorization.—A reduction in an apportionment under paragraph (1) shall only be applied to an airport if such airport has been designated as a medium or large hub airport for 3 consecutive years.
 
 (g)
 
 Supplemental Apportionment for Puerto Rico and United States Territories.—The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225; Pub. L. 116–260, div. L, title IV, §422, Dec. 27, 2020, 134 Stat. 1909; Pub. L. 118–15, div. B, title II, §2201(e), Sept. 30, 2023, 137 Stat. 82; Pub. L. 118–34, title I, §101(e), Dec. 26, 2023, 137 Stat. 1113.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225; Pub. L. 116–260, div. L, title IV, §422, Dec. 27, 2020, 134 Stat. 1909; Pub. L. 118–15, div. B, title II, §2201(e), Sept. 30, 2023, 137 Stat. 82; Pub. L. 118–34, title I, §101(e), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §101(e), Mar. 8, 2024, 138 Stat. 21; Pub. L. 118–63, title VII, §§712(a), (b), 713(a), May 16, 2024, 138 Stat. 1254, 1255, 1257.)
 
 Historical and Revision Notes
 
@@ -375,9 +339,81 @@ In subsection (c)(3)(B), the words "the total of all amounts apportioned under p
 
 #### References in Text
 
-Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a)of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1). Pub. L. 118–63, §712(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to amounts apportioned to sponsors of primary airports, new airports, and seasonal airports, minimum and maximum apportionments for primary airport, special rule for total amount of $3,200,000,000 or more, use of previous fiscal year's apportionment, special rules for fiscal years 2018 through 2020 and 2022 and 2023, limitations and waivers, and minimum apportionment for commercial service airports with more than 8,000 passenger boardings in a calendar year.
+
+Subsec. (c)(1)(J). Pub. L. 118–41 substituted "May 10, 2024," for "March 8, 2024,".
+
+Subsec. (c)(2)(A). Pub. L. 118–63, §712(a)(2)(A), substituted "4 percent" for "3.5 percent" and "25,000,000 pounds" for "100,000,000 pounds".
+
+Subsec. (c)(2)(C) to (E). Pub. L. 118–63, §712(a)(2)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: "In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than 8 percent of the amount apportioned under subparagraph (A) may be apportioned for any one airport."
+
+Subsec. (d)(2). Pub. L. 118–63, §712(b)(6), redesignated par. (3) as (2). Former par. (2) struck out.
+
+Pub. L. 118–63, §712(b)(5), struck out par. (2). Text read as follows: "Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
+
+&emsp;"(A) 0.66 percent of the apportioned amount to Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
+
+&emsp;"(B) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the population of each of those States bears to the total population of all of those States.
+
+&emsp;"(C) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the area of each of those States bears to the total area of all of those States."
+
+Subsec. (d)(3). Pub. L. 118–63, §712(b)(6), redesignated par. (3) as (2).
+
+Pub. L. 118–63, §712(b)(1)(A)–(C), substituted "Apportionment" for "Special rule" in heading, "25 percent" for "20 percent" in introductory provisions, and "excluding commercial service airports but including reliever airports" for "excluding primary airports but including reliever and nonprimary commercial service airports" wherever appearing.
+
+Subsec. (d)(3)(C), (D). Pub. L. 118–63, §712(b)(1)(D), added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
+
+"(C) During fiscal years 2019 and 2020—
+
+&emsp;"(i) an airport that accrued apportionment funds under subparagraph (A) in fiscal year 2013 that is listed as having an unclassified status under the most recent national plan of integrated airport systems shall continue to accrue apportionment funds under subparagraph (A) at the same amount the airport accrued apportionment funds in fiscal year 2013, subject to the conditions of this paragraph;
+
+&emsp;"(ii) notwithstanding the period of availability as described in section 47117(b), an amount apportioned to an airport under clause (i) shall be available to the airport only during the fiscal year in which the amount is apportioned; and
+
+&emsp;"(iii) notwithstanding the waiver permitted under section 47117(c)(2), an airport receiving apportionment funds under clause (i) may not waive its claim to any part of the apportioned funds in order to make the funds available for a grant for another public-use airport.
+
+"(D) An airport that re-establishes its classified status shall be eligible to accrue apportionment funds pursuant to subparagraph (A) so long as such airport retains its classified status."
+
+Subsec. (d)(4). Pub. L. 118–63, §712(b)(6), redesignated par. (4) as (3).
+
+Pub. L. 118–63, §712(b)(2), substituted "Airports in noncontiguous states and territories" for "Airports in alaska, puerto rico, and hawaii" in heading; designated existing provisions as subpar. (A), inserted heading, and substituted "An amount apportioned under this subsection" for "An amount apportioned under paragraph (2) or (3)"; and added subpar. (B). Text quoted in directory language of amendment of the heading was editorially conformed to the style of the heading.
+
+Subsec. (d)(5). Pub. L. 118–63, §712(b)(6), redesignated par. (5) as (4).
+
+Pub. L. 118–63, §712(b)(3), inserted "or subsection (c)(1)(D)" after "under this subsection" in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 118–63, §712(b)(6), redesignated par. (6) as (5).
+
+Pub. L. 118–63, §712(b)(4), substituted "provision of this section" for "provision of this subsection" and inserted "or subsection (c)(1)(D)" after "under this subsection".
+
+Subsec. (d)(7). Pub. L. 118–63, §712(b)(6), redesignated par. (7) as (6).
+
+Subsec. (f)(1). Pub. L. 118–63, §713(a)(1)(A), substituted "sponsor of a medium or large hub airport" for "sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and" in introductory provisions.
+
+Subsec. (f)(1)(A). Pub. L. 118–63, §713(a)(1)(B), substituted "40 percent" for "50 percent" wherever appearing.
+
+Subsec. (f)(1)(B). Pub. L. 118–63, §713(a)(1)(C), substituted "60 percent" for "75 percent" wherever appearing.
+
+Subsec. (f)(2), (3). Pub. L. 118–63, §713(a)(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+"(2)
+
+Effective date of reduction.—A reduction in an apportionment required by paragraph (1) shall not take effect until the first fiscal year following the year in which the collection of the charge imposed under section 40117 is begun.
+
+"(3)
+
+Special rule for transitioning airports.—
+
+&emsp;"(A)
+
+In general.—Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the charge in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenues derived from such charge in the preceding fiscal year.
+
+&emsp;"(B)
+
+Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004."
 
 <b>2023</b>—Subsec. (c)(1)(J). Pub. L. 118–34 substituted "March 8, 2024," for "December 31, 2023,".
 
@@ -493,6 +529,10 @@ Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–63, title VII, §713(b), May 16, 2024, 138 Stat. 1257, provided that: "For an airport that increased in categorization from a small hub to a medium hub in any fiscal year beginning after the date of enactment of the FAA Reauthorization Act of 2018 (Public Law 115–254) \[Oct. 5, 2018\] and prior to the date of enactment of this Act \[May 16, 2024\], the amendment to section 47114(f)(2) of title 49, United States Code, under subsection (a)\[(2)\] shall be applied as though the airport increased in categorization from a small hub to a medium hub in the calendar year prior to the first fiscal year in which such amendment is applicable."
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -520,6 +560,4 @@ Pub. L. 107–71, title I, §119(b), Nov. 19, 2001, 115 Stat. 629, provided that
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-<i><sup>1</sup></i><i> So in original. Probably means "subparagraph (A)".</i>
 

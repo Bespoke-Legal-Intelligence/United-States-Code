@@ -22,7 +22,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (B) Payment
 
-&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the animal drug application or supplemental animal drug application.
+&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the animal drugapplication or supplemental animal drug application.
 
 #### (C) Exceptions for previously filed application or supplement
 
@@ -78,7 +78,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (B) Payment; fee due date
 
-&emsp;&emsp;The annual establishment fee shall be assessed in each fiscal year in which the animal drug product named in the applicationis assessed a fee under paragraph (2) unless the animal drug establishment listed in the application does not engage in the manufacture of the animal drug product during the fiscal year. The fee under this paragraph for a fiscal year shall be due upon the later of—
+&emsp;&emsp;The annual establishment fee shall be assessed in each fiscal year in which the animal drug product named in the application is assessed a fee under paragraph (2) unless the animal drug establishment listed in the application does not engage in the manufacture of the animal drug product during the fiscal year. The fee under this paragraph for a fiscal year shall be due upon the later of—
 
 &emsp;&emsp;&emsp;(i) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section; or
 
@@ -244,11 +244,11 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2025 
 
 #### (4) Exemption from fees
 
-&emsp;Fees under paragraphs (2), (3), and (4) of subsection (a) shall not apply with respect to anyperson who is the named applicant or sponsor of an animal drug application, supplemental animal drug application, or investigational animal drug submission if such application or submission involves the intentional genomic alteration of an animal that is intended to produce a drug, device, or biological product subject to fees under section 379h, 379j, 379j–42, or 379j–52 of this title.
+&emsp;Fees under paragraphs (2), (3), and (4) of subsection (a) shall not apply with respect to any person who is the named applicant or sponsor of an animal drug application, supplemental animal drug application, or investigational animal drug submission if such application or submission involves the intentional genomic alteration of an animal that is intended to produce a drug, device, or biological product subject to fees under section 379h, 379j, 379j–42, or 379j–52 of this title.
 
 #### (e) Effect of failure to pay fees
 
-An animal drug application or supplemental animal drug application submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
+An animal drug application or supplemental animal drug application submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animaldrug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
 #### (f) Assessment of fees
 
@@ -308,7 +308,7 @@ To qualify for consideration for a waiver or reduction under subsection (d), or 
 
 #### (j) Construction
 
-This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of animal drug applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
+This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and HumanServices, for officers, employees, and advisory committees not engaged in the process of the review of animal drug applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
 #### (k) Abbreviated new animal drug applications
 
@@ -374,7 +374,7 @@ Subsec. (c)(3). Pub. L. 115–234, §103(b)(2), amended par. (3) generally. Prio
 
 &emsp;"(B) the Secretary shall publish in the Federal Register the fees resulting from such adjustment and the supporting methodologies; and
 
-&emsp;"(C) under no circumstances shall such adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b), as adjusted for inflation under paragraph (2)."
+&emsp;"(C) under no circumstances shall such adjustment result in fee revenues for a fiscal year that are lessthan the fee revenues for that fiscal year established in subsection (b), as adjusted for inflation under paragraph (2)."
 
 Subsec. (c)(4). Pub. L. 115–234, §103(b)(3), substituted "2023" for "2018" in two places and "2024" for "2019".
 
@@ -458,7 +458,7 @@ Amendment by Pub. L. 110–316 effective Oct. 1, 2008, with fees under this subp
 
 Section to cease to be effective Oct. 1, 2028, see section 2307(a) of Pub. L. 118–15, set out as a note under section 379j–11 of this title.
 
-Pub. L. 115–234, title I, §107(a), Aug. 14, 2018, 132 Stat. 2432, which provided that section 740 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–12) would cease to be effective Oct. 1, 2023, was repealed by Pub. L. 118–15, div. B, title III, §2307(c), Sept. 30, 2023, 137 Stat. 89, effective Oct. 1, 2023.
+Pub. L. 115–234, title I, §107(a), Aug. 14, 2018, 132 Stat. 2432, which provided that section 740 of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 379j–12) would cease to be effective Oct. 1, 2023, was repealed by Pub. L. 118–15, div. B, title III, §2307(c), Sept. 30, 2023, 137 Stat. 89, effective Oct. 1, 2023.
 
 Pub. L. 113–14, title I, §107(a), June 13, 2013, 127 Stat. 464, which provided that section 740 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–12) would cease to be effective Oct. 1, 2018, was repealed by Pub. L. 115–234, title I, §107(c), Aug. 14, 2018, 132 Stat. 2432, effective Oct. 1, 2018.
 

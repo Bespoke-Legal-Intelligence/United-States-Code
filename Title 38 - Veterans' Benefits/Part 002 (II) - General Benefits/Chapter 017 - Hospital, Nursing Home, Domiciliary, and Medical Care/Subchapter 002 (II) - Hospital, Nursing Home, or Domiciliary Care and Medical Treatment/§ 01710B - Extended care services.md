@@ -16,7 +16,7 @@
 
 (b) The Secretary shall ensure that the staffing and level of extended care services provided by the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
 
-(c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless theveteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
+(c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless the veteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
 
 (2) Paragraph (1) shall not apply—
 
@@ -284,7 +284,187 @@ Report.—(1) Not later than nine months after the completion of all of the pilo
 
 &emsp;"(E) An analysis of the costs and benefits under each of those programs."
 
-#### Pilot Program Relating to Assisted Living
+#### Pilot Programs Relating to Assisted Living
+
+Pub. L. 118–210, title I, §127, Jan. 2, 2025, 138 Stat. 2734, provided that:
+
+"(a)
+
+Establishment.—Beginning not later than two years after the date of the enactment of this Act \[Jan. 2, 2025\], the Secretary of Veterans Affairs shall carry out a pilot program to assess—
+
+&emsp;"(1) the effectiveness of providing assisted living services to eligible veterans, at the election of such veterans; and
+
+&emsp;"(2) the satisfaction with the pilot program of veterans participating in such pilot program.
+
+"(b)
+
+Program Locations.—
+
+&emsp;"(1)
+
+Veterans integrated service networks.—The Secretary shall select two Veterans Integrated Service Networks of the Department of Veterans Affairs at which to carry out the pilot program under subsection (a).
+
+&emsp;"(2)
+
+Facilities.—
+
+&emsp;&emsp;"(A)
+
+In general.—Within the Veterans Integrated Service Networks selected under paragraph (1), the Secretary shall select facilities at which to carry out the pilot program under subsection (a)(1).
+
+&emsp;&emsp;"(B)
+
+Selection criteria.—In selecting facilities under subparagraph (A) at which to carry out the pilot program under subsection (a)(1), the Secretary shall ensure that—
+
+&emsp;&emsp;&emsp;"(i) the locations of such facilities are in geographically diverse areas;
+
+&emsp;&emsp;&emsp;"(ii) not fewer than one such facility serves veterans in rural or highly rural areas (as determined through the use of the Rural-Urban Commuting Areas coding system of the Department of Agriculture);
+
+&emsp;&emsp;&emsp;"(iii) not fewer than one such facility is located in each Veterans Integrated Service Network selected under paragraph (1); and
+
+&emsp;&emsp;&emsp;"(iv) not fewer than one such facility is a State home.
+
+"(c)
+
+Program Participants.—Not more than 60 eligible veterans may participate in the pilot program under subsection (a)(1) in each Veterans Integrated Service Network selected under subsection (b)(1).
+
+"(d)
+
+Provision of Assisted Living Services.—
+
+&emsp;"(1)
+
+Agreements.—In carrying out the pilot program under subsection (a)(1), the Secretary may enter into agreements for the provision of assisted living services on behalf of eligible veterans with—
+
+&emsp;&emsp;"(A) a provider participating under a State plan or waiver under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.); or
+
+&emsp;&emsp;"(B) a State home recognized and certified under subpart B of part 51 of title 38, Code of Federal Regulations, or successor regulations.
+
+&emsp;"(2)
+
+Standards.—The Secretary may not place, transfer, or admit a veteran to any facility for assisted living services under the pilot program under subsection (a)(1) unless the Secretary determines that—
+
+&emsp;&emsp;"(A) the facility meets the standards for community residential care established under sections 17.61 through 17.72 of title 38, Code of Federal Regulations, or successor regulations, and any additional standards of care as the Secretary may specify; or
+
+&emsp;&emsp;"(B) in the case of a facility that is a State home, the State home meets such standards of care as the Secretary may specify.
+
+&emsp;"(3)
+
+Inspection.—The Secretary shall inspect facilities at which veterans are placed under the pilot program under subsection (a)(1)—
+
+&emsp;&emsp;"(A) with respect to a facility that is a State home, not less frequently than annually and in the same manner as the Secretary conducts inspection of State homes under section 1742 of title 38, United States Code; and
+
+&emsp;&emsp;"(B) with respect to any other facility, not less frequently than annually and in the same manner as the Secretary conducts inspection of facilities under section 1730 of such title.
+
+&emsp;"(4)
+
+Payment to certain facilities.—
+
+&emsp;&emsp;"(A)
+
+State homes.—In the case of a facility participating in the pilot program under subsection (a)(1) that is a State home, the Secretary shall pay to the State home a per diem for each veteran participating in the pilot program at a rate agreed to by the Secretary and the State home.
+
+&emsp;&emsp;"(B)
+
+Community assisted living facilities.—In the case of a facility participating in the pilot program under subsection (a)(1) that is a community assisted living facility, the Secretary shall—
+
+&emsp;&emsp;&emsp;"(i) pay to the facility an amount that is less than the average rate paid by the Department for placement in a community nursing home in the same Veterans Integrated Service Network; and
+
+&emsp;&emsp;&emsp;"(ii) re-evaluate payment rates annually to account for current economic conditions and current costs of assisted living services.
+
+"(e)
+
+Continuity of Care.—Upon the termination of the pilot program under subsection (a)(1), the Secretary shall—
+
+&emsp;"(1) provide to all veterans participating in the pilot program at the time of such termination the option to continue to receive assisted living services at the site they were assigned to under the pilot program, at the expense of the Department; and
+
+&emsp;"(2) for such veterans who do not opt to continue to receive such services—
+
+&emsp;&emsp;"(A) ensure such veterans do not experience lapses in care; and
+
+&emsp;&emsp;"(B) provide such veterans with information on, and furnish such veterans with, other extended careservices based on their preferences and best medical interest.
+
+"(f)
+
+Determination of Quality.—The Secretary shall determine a method for assessment of quality of care provided to veterans participating in the pilot program under subsection (a)(1) and shall communicate that method to providers of services under the pilot program.
+
+"(g)
+
+Annual Report.—Not later than one year after the initiation of the pilot program under subsection (a)(1), and annually thereafter for the duration of such pilot program, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the pilot program that includes—
+
+&emsp;"(1) an identification of Veterans Integrated Services Networks and facilities of the Department participating in the pilot program and assisted living facilities and State homes at which veterans are placed under the pilot program;
+
+&emsp;"(2) the number of participants in the pilot program, disaggregated by facility;
+
+&emsp;"(3) general demographic information of participants in the pilot program, including average age, sex, and race or ethnicity;
+
+&emsp;"(4) disability status of participants in the pilot program;
+
+&emsp;"(5) an identification of any barriers or challenges to furnishing care to veterans under the pilot program, conducting oversight of the pilot program, or any other barriers or challenges;
+
+&emsp;"(6) the cost of care at each assisted living facility and State home participating in the pilot program, including an analysis of any cost savings by the Department when comparing that cost to the cost of nursing home care;
+
+&emsp;"(7) aggregated feedback from participants in the pilot program, including from veteran resident surveys and interviews; and
+
+&emsp;"(8) such other matters the Secretary considers appropriate.
+
+"(h)
+
+Final Report.—Not later than one year after the pilot program terminates under subsection (j), the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the pilot program that—
+
+&emsp;"(1) includes the matters required under paragraphs (1) through (8) of subsection (g);
+
+&emsp;"(2) includes recommendations on whether the model studied in the pilot program should be continued or adopted throughout the Department; and
+
+&emsp;"(3) indicates whether the Secretary requests action by Congress to make the pilot program permanent.
+
+"(i)
+
+Inspector General Report.—
+
+&emsp;"(1)
+
+In general.—Not later than three years after the initiation of the pilot program under subsection (a)(1), the Inspector General of the Department of Veterans Affairs shall submit to the Secretary of Veterans Affairs and the Committees on Veterans' Affairs of House of Representatives and the Senate a report on the pilot program.
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include an assessment of—
+
+&emsp;&emsp;"(A) the quality of care provided to veterans at facilities participating in the pilot program, measured pursuant to the method determined under subsection (f);
+
+&emsp;&emsp;"(B) the oversight of such facilities, as conducted by the Department, the Centers for Medicare \& Medicaid Services, State agencies, and other relevant entities; and
+
+&emsp;&emsp;"(C) such other matters as the Inspector General considers appropriate.
+
+&emsp;"(3)
+
+Plan required.—Not later than 90 days after the submission of the report under paragraph (1), the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a plan to address the deficiencies identified in the report, if any.
+
+"(j)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), the pilot program under subsection (a)(1) shall terminate on September 30, 2028.
+
+&emsp;"(2)
+
+Extension.—The Secretary may extend the duration of the pilot program for an additional two-year period if the Secretary, based on the results of the reports submitted under subsection (g), determines such an extension is appropriate.
+
+"(k)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'assisted living services' means services of a facility in providing room, board, and personal care for and supervision of residents for their health, safety, and welfare.
+
+&emsp;"(2) The term 'eligible veteran' means a veteran who is—
+
+&emsp;&emsp;"(A) receiving nursing home care paid for by the Department of Veterans Affairs, eligible to receive such care pursuant to section 1710A of title 38, United States Code, or requires a higher level of care than the domiciliary care provided by the Department of Veterans Affairs, but does not meet the requirements for nursing home level care provided by the Department pursuant to such section; and
+
+&emsp;&emsp;"(B) eligible for assisted living services, as determined by the Secretary or meets such additional criteria for eligibility for the pilot program under subsection (a)(1) as the Secretary may establish.
+
+&emsp;"(3) The term 'State home' has the meaning given that term in section 101 of title 38, United States Code."
 
 Pub. L. 106–117, title I, §103, Nov. 30, 1999, 113 Stat. 1552, as amended by Pub. L. 108–170, title I, §107, Dec. 6, 2003, 117 Stat. 2046, provided that:
 

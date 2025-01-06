@@ -36,7 +36,7 @@ For purposes of this chapter—
 
 &emsp;(7) the term "Secretary" means the Secretary of Education, or his designee;
 
-&emsp;(8) the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the NorthernMariana Islands, the Trust Territory of the Pacific Islands, the Bureau of Indian Affairs, and the Office of Overseas Schools of the Department of Defense; and
+&emsp;(8) the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Bureau of Indian Affairs, and the Office of Overseas Schools of the Department of Defense; and
 
 &emsp;(9) the term "State educational agency" has the same meaning given such term by section 198(a)(17) <sup>1</sup> of the Elementary and Secondary Education Act of 1965.
 

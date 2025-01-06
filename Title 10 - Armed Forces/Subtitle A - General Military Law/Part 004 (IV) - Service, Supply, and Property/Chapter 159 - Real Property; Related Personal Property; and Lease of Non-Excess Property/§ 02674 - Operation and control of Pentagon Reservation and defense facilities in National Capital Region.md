@@ -42,7 +42,7 @@ Authority To Charge for Provision of Certain Services and Facilities.— The Sec
 
 (e)
 
-Pentagon Reservation Maintenance Revolving Fund.—(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the "Fund"). There shall be deposited into the Fund funds collected by theSecretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
+Pentagon Reservation Maintenance Revolving Fund.—(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the "Fund"). There shall be deposited into the Fund funds collected by the Secretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
 
 (2) Subject to paragraphs (3) and (4), monies deposited into the Fund shall be available, without fiscal year limitation, for expenditure for real property management, operation, protection, construction, repair, alteration and related activities for the Pentagon Reservation.
 
@@ -58,7 +58,7 @@ Definitions.— In this section:
 
 &emsp;(1) The term "Pentagon Reservation" means the Pentagon, the Mark Center Campus, and the Raven Rock Mountain Complex.
 
-&emsp;(2) The term "National Capital Region" means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
+&emsp;(2) The term "National Capital Region" means the geographic area located within theboundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
 &emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 114–328, §2829E(d)(2), inserted heading.
 
 Subsec. (b)(1). Pub. L. 114–328, §2829E(a)(3), which directed insertion of "for the Pentagon Reservation and" after "law enforcement and security functions" and could not be executed, was repealed by Pub. L. 115–91, §1081(d)(16).
 
-Pub. L. 114–328, §952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows "The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control ofthe Department of Defense, and located in the National Capital Region. Such individuals—
+Pub. L. 114–328, §952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows "The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
 &emsp;"(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
 

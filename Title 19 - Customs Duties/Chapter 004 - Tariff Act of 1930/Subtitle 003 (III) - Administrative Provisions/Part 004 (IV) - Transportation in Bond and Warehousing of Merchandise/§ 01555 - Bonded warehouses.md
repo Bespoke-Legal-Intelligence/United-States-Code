@@ -10,7 +10,7 @@ Subject to subsection (b), buildings or parts of buildings and other enclosures 
 
 (2) A duty-free sales enterprise may be located anywhere within—
 
-&emsp;(A) the same port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), from which a purchaser of duty-free merchandise departs the customs territory; or
+&emsp;(A) the same port of entry, as established under section 1 of the Act of August 24, 1912 (37Stat. 434), from which a purchaser of duty-free merchandise departs the customs territory; or
 
 &emsp;(B) 25 statute miles from the exit point through which the purchaser of duty-free merchandise will depart the customs territory; or
 
@@ -88,7 +88,7 @@ Subject to subsection (b), buildings or parts of buildings and other enclosures 
 
 &emsp;&emsp;(B) the term "staging area" is an area controlled by the proprietor of a bonded warehouse outside of the physical parameters of the bonded warehouse in which manipulation of international travel merchandise in carts occurs;
 
-&emsp;&emsp;(C) the term "duty-free merchandise" means merchandise on which the liabilityfor payment of duty or tax imposed by reason of importation has been deferred pending exportation from the customs territory;
+&emsp;&emsp;(C) the term "duty-free merchandise" means merchandise on which the liability for payment of duty or tax imposed by reason of importation has been deferred pending exportation from the customs territory;
 
 &emsp;&emsp;(D) the term "manipulation" means the repackaging, cleaning, sorting, or removal from or placement on carts of international travel merchandise; and
 
@@ -124,7 +124,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §555, 42 Stat. 976. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of theowner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

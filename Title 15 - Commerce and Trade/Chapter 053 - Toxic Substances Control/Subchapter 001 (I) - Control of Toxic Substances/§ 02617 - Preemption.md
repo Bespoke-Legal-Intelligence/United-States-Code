@@ -26,7 +26,7 @@
 
 #### (C) Significant new use
 
-&emsp;&emsp;A statute or administrative action requiring the notification of a use of a chemical substance that the Administrator has specified as a significant new use and for which the Administrator has required notification pursuant to a rule promulgated under section 2604 of this title.
+&emsp;&emsp;A statute or administrative action requiring the notification of a use of a chemicalsubstance that the Administrator has specified as a significant new use and for which the Administrator has required notification pursuant to a rule promulgated under section 2604 of this title.
 
 #### (2) Effective date of preemption
 
@@ -118,7 +118,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (1) Discretionary exemptions
 
-&emsp;Upon application of a State or political subdivision of a State, the Administrator may, by rule, exempt from subsection (a), under suchconditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
+&emsp;Upon application of a State or political subdivision of a State, the Administrator may, by rule, exempt from subsection (a), under such conditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
 
 &emsp;&emsp;(A) compelling conditions warrant granting the waiver to protect health or the environment;
 

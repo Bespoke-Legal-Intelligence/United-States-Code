@@ -30,7 +30,7 @@ In this chapter, the term "telemarketing or email marketing"—
 
 &emsp;&emsp;(D) has been issued not less frequently than once a year,
 
-> &emsp;if the person making the solicitation does not solicit customers by telephone, email, text message, or electronic instant message, but only receives interstate telephone calls, emails, text messages, or electronic instant messages initiated by customers in response to the written materials, whether in hard copy or digital format, and in response to those interstate telephone calls, emails, text messages, or electronic instant messages does not conduct further solicitation.
+> &emsp;if the person making the solicitation does not solicit customers by telephone, email, textmessage, or electronic instant message, but only receives interstate telephone calls, emails, text messages, or electronic instant messages initiated by customers in response to the written materials, whether in hard copy or digital format, and in response to those interstate telephone calls, emails, text messages, or electronic instant messages does not conduct further solicitation.
 
 (Added Pub. L. 115–70, title IV, §402(a)(2), Oct. 18, 2017, 131 Stat. 1213.)
 

@@ -80,7 +80,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 #### (2) Secretary to define term within legislative guidelines
 
-&emsp;Within 3 months after January 12, 2007, the Secretary shall publish a definition of the term "illegal, unreported, or unregulated fishing" for purposes of this Act.
+&emsp;Within 3 months after January 12, 2007, the Secretary shall publish a definition of theterm "illegal, unreported, or unregulated fishing" for purposes of this Act.
 
 #### (3) Guidelines
 
@@ -148,5 +148,5 @@ Subsec. (d)(3)(A)(i). Pub. L. 114–81, §101(e), struck out "that has not been 
 
 #### Construction
 
-Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under section 1826i of this title.
+Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretaryconsiders necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under section 1826i of this title.
 

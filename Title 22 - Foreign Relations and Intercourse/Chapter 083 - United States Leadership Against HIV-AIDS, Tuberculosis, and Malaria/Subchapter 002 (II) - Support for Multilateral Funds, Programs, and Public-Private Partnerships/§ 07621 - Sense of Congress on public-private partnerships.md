@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) These partnerships maximize the unique capabilities of each sector while combining financial and other resources, scientific knowledge, and expertise toward common goals which neither the public nor the private sector can achieve alone.
 
-&emsp;(4) Sustaining existing public-private partnerships and building new ones are critical to the success of the international community'sefforts to combat HIV/AIDS and other infectious diseases around the globe.
+&emsp;(4) Sustaining existing public-private partnerships and building new ones are critical to the success of the international community's efforts to combat HIV/AIDS and other infectious diseases around the globe.
 
 #### (b) Sense of Congress
 

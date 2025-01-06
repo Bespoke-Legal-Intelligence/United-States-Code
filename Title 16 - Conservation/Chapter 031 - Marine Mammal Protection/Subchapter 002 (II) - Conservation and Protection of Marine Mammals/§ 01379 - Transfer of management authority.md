@@ -6,7 +6,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 #### (b) Findings prerequisite to transfer of authority; State program; implementation
 
-(1) Subject to paragraph (2) and subsection (f) of this section, the Secretary shall transfer management authority for a species of marine mammal to a State if the Secretary finds, after notice and opportunity for public comment, that the State has developed and will implement a program for the conservation and management of the species that—
+(1) Subject to paragraph (2) and subsection (f) of this section, the Secretary shall transfermanagement authority for a species of marine mammal to a State if the Secretary finds, after notice and opportunity for public comment, that the State has developed and will implement a program for the conservation and management of the species that—
 
 &emsp;(A) is consistent with the purposes, policies, and goals of this chapter and with international treaty obligations;
 
@@ -62,6 +62,8 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 &emsp;&emsp;(B) cross-examine persons presenting evidence at the hearing.
 
+
+
 > &emsp;The State agency must give public notice of the hearing and make available to the public within a reasonable time before commencing the hearing a list of the witnesses for the State and a general description of the documentation and other evidence that will be relied upon by such witnesses.
 
 &emsp;(3) The State agency, solely on the basis of the record developed at a hearing held pursuant to paragraph (2), must make a decision regarding its initial determination under paragraph (1) and shall include with the record a statement of the findings and conclusions, and the reason or basis therefor, on all material issues.
@@ -86,7 +88,7 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 &emsp;&emsp;(I) the Secretary provides opportunity for consultation between him and the State concerning such State actions or failures to act and the remedial measures that should be taken by the State, and
 
-&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, intocompliance with the provisions of this section.
+&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
 
 (B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
 
@@ -108,7 +110,7 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 &emsp;&emsp;&emsp;(III) the availability of alternative resources; and
 
-&emsp;(B) the State has adopted a statute or regulation that requires that any consumptive use of marine mammal species, other than for subsistence uses, will be authorized during a regulatory year only if the appropriate agency first makes findings, based on an administrative record before it, that—
+&emsp;(B) the State has adopted a statute or regulation that requires that any consumptive useof marine mammal species, other than for subsistence uses, will be authorized during a regulatory year only if the appropriate agency first makes findings, based on an administrative record before it, that—
 
 &emsp;&emsp;(i) such use will have no significant adverse impact upon subsistence uses of the species, and
 

@@ -10,7 +10,7 @@ The President may proclaim modifications, based on the recommendations by the Co
 
 #### (b) Lay-over period
 
-(1) The President may proclaim a modification under subsection (a) only after the expiration of the 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
+(1) The President may proclaim a modification under subsection (a) only after the expiration ofthe 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
 
 (2) The 60-day period referred to in paragraph (1) shall be computed by excluding—
 

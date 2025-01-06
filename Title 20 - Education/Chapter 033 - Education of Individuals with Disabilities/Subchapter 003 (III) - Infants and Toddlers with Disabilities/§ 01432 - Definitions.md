@@ -110,11 +110,11 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) at-risk infants and toddlers; and
 
-&emsp;&emsp;&emsp;(ii) children with disabilities who are eligible for services under section 1419 of this title and who previously received services under this subchapter until such children enter, or are eligible under State law to enter, kindergarten or elementary school, as appropriate, provided that any programs under this subchapter serving such children shall include—
+&emsp;&emsp;&emsp;(ii) children with disabilities who are eligible for services under section 1419 of this title and who previously received services under this subchapter until such children enter, or are eligible under State law toenter, kindergarten or elementary school, as appropriate, provided that any programs under this subchapter serving such children shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) an educational component that promotes school readiness and incorporates pre-literacy, language, and numeracy skills; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a written notification to parents of their rights and responsibilities in determining whether their child will continueto receive services under this subchapter or participate in preschool programs under section 1419 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) a written notification to parents of their rights and responsibilities in determining whether their child will continue to receive services under this subchapter or participate in preschool programs under section 1419 of this title.
 
 (Pub. L. 91–230, title VI, §632, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2744.)
 

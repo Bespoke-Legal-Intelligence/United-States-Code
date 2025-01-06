@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 21 by reason of subsection (g) thereof, 24 by reason of subsections (d) and (i)(1) thereof, 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, 6428, 6428A, 6428B, and 7527A over the tax imposed by subtitle A (determined without regard to such credits), and
 
-&emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return overthe amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
+&emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
 > &emsp;shall be taken into account as negative amounts of tax.
 
@@ -104,7 +104,7 @@ Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Pri
 
 Subsec. (b)(5), (6). Pub. L. 100–418, §1941(b)(2)(D), struck out pars. (5) and (6) which read as follows:
 
-"(5) The amount withheld under section 4995(a) from amounts payable to any producer for crude oil removed during any taxable period (as defined in section4996(b)(7)) which is not otherwise shown on a return by such producer shall be treated as tax shown by the producer on a return for the taxable period.
+"(5) The amount withheld under section 4995(a) from amounts payable to any producer for crude oil removed during any taxable period (as defined in section 4996(b)(7)) which is not otherwise shown on a return by such producer shall be treated as tax shown by the producer on a return for the taxable period.
 
 "(6) Any liability to pay amounts required to be withheld under section 4995(a) shall not be treated as a tax imposed by chapter 45."
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 109–432 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997,Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
 
 #### Effective Date of 1998 Amendment
 

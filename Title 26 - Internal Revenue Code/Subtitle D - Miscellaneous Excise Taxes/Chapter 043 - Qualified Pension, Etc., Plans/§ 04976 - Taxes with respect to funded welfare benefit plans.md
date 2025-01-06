@@ -20,7 +20,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) any post-retirement medical benefit or life insurance benefit provided with respect to a key employee if a separate account is required to be established for such employee under section 419A(d) and such payment is not from such account,
 
-&emsp;&emsp;(B) any post-retirement medical benefit or life insurance benefit provided with respect to an individual in whose favor discrimination is prohibited unless the plan meets the requirements of section 505(b) with respect to such benefit (whether or not such requirements apply to such plan), and
+&emsp;&emsp;(B) any post-retirement medical benefit or life insurance benefit provided with respect to an individual in whose favor discrimination is prohibited unless the plan meets the requirements of section 505(b) with respectto such benefit (whether or not such requirements apply to such plan), and
 
 &emsp;&emsp;(C) any portion of a welfare benefit fund reverting to the benefit of the employer.
 
@@ -58,7 +58,7 @@ Subsecs. (c), (d). Pub. L. 101–140 amended this section to read as if amendmen
 
 Subsec. (c). Pub. L. 100–647, §1011B(a)(27)(A), added subsec. (c) relating to tax on funded welfare benefit funds which include discriminatory employee benefit plan. Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1)(B). Pub. L. 100–647, §3021(a)(1)(C)(i), substituted "any testing year (as defined in section89(j)(13))" for "any plan year", see Codification note above.
+Subsec. (c)(1)(B). Pub. L. 100–647, §3021(a)(1)(C)(i), substituted "any testing year (as defined in section 89(j)(13))" for "any plan year", see Codification note above.
 
 Subsec. (c)(2)(A). Pub. L. 100–647, §3021(a)(1)(C)(ii), substituted "testing" for "plan" in cls. (i) and (ii), see Codification note above.
 

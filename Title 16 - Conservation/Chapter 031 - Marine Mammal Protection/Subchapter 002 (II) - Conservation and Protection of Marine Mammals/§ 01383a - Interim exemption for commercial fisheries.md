@@ -50,6 +50,8 @@
 
 &emsp;(iii) fails to ensure that a decal or other physical evidence of such exemption issued by the Secretary is displayed on or is in possession of the master of the vessel,
 
+
+
 > and the master of any such vessel engaged in such fishery, shall be deemed to have violated this subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
 
 (D) If the owner of a vessel has obtained and maintains a current and valid exemption from the Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
@@ -246,7 +248,7 @@ As used in this section—
 
 &emsp;(4) the term "vessel of the United States" has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
 
-(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995,109 Stat. 390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, §3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
+(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995, 109 Stat. 390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, §3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
 
 #### <b>Editorial Notes</b>
 
@@ -272,7 +274,7 @@ Pub. L. 103–228 substituted "May 1, 1994." for "April 1, 1994,".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1995 Amendment
 

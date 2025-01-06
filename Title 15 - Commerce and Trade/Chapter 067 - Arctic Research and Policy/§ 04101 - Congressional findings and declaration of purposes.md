@@ -12,7 +12,7 @@
 
 &emsp;(5) industrial pollution not originating in the Arctic region collects in the polar air mass, has the potential to disrupt global weather patterns, and must be controlled through international cooperation and consultation;
 
-&emsp;(6) the Arctic is a natural laboratory for research into human health and adaptation, physical and psychological, to climates of extreme cold and isolation and may provide information crucial for future defense needs;
+&emsp;(6) the Arctic is a natural laboratory for research into human health and adaptation,physical and psychological, to climates of extreme cold and isolation and may provide information crucial for future defense needs;
 
 &emsp;(7) atmospheric conditions peculiar to the Arctic make the Arctic a unique testing ground for research into high latitude communications, which is likely to be crucial for future defense needs;
 
@@ -240,7 +240,7 @@ Sec. 3. <i>Responsibilities of the Arctic Executive Steering Committee</i>. The 
 
 Sec. 4. <i>Duties of the Executive Officer</i>. The Executive Officer shall be responsible for facilitating interagency coordination efforts related to implementing the guidance and strategic priorities developed by the Steering Committee. The Executive Officer shall coordinate with the Chair and the Special Advisor on Arctic Science and Policy at the Department of State to provide regular reports to the Steering Committee on agency implementation and planning efforts for the Arctic region.
 
-Sec. 5. <i>Engagement with the State of Alaska, Alaska Native Tribal Governments, as well as other United States Stakeholders</i>. It is in the best interest of the Nation for the Federal Government to maximize transparency and promote collaboration where possible with the State of Alaska, Alaska Native tribal governments and similar Alaska Native organizations, and local, private-sector, and nonprofit-sector stakeholders. To facilitate consultation and partnerships with the State of Alaska and Alaska Native tribal governments and similar Alaska Native organizations, the Steering Committee shall:
+Sec. 5. <i>Engagement with the State of Alaska, Alaska Native Tribal Governments, as well as other United States Stakeholders</i>. It is in the best interest of the Nation for the Federal Government to maximize transparency and promote collaboration where possible with the State of Alaska, Alaska Native tribal governments and similar Alaska Native organizations, and local, private-sector,and nonprofit-sector stakeholders. To facilitate consultation and partnerships with the State of Alaska and Alaska Native tribal governments and similar Alaska Native organizations, the Steering Committee shall:
 
 (a) develop a process to improve coordination and the sharing of information and knowledge among Federal, State, local, and Alaska Native tribal governments and similar Alaska Native organizations, and private-sector and nonprofit-sector groups on Arctic issues;
 
@@ -336,7 +336,7 @@ Sec. 8. <i>Shipping Routing Measures</i>. (a) In recognition of the United State
 
 Sec. 9. <i>Oil Spill Preparedness</i>. The U.S. Coast Guard, in coordination with all relevant agencies and the State of Alaska, shall update the Area Contingency plans, the Subarea Response Plans, and the Geographic Response Strategies relevant to the Northern Bering Sea Climate Resilience Area. These plans and strategies shall be consistent with the National Contingency Plan, and shall include appropriate measures to improve local response capacity and preparedness such as spill response training opportunities for local communities, including Hazardous Waste Operations and Emergency Response training for Village Public Safety Officers and other first responders.
 
-Sec. 10. <i>Continuity of Existing Habitat Protection</i>. The area included in the Northern Bering Sea Climate Resilience Area is currently closed to commercial non-pelagic trawl gear under rules implementing the Fishery Management Plans of the Bering Sea and Aleutian Islands Management Area and the Arctic Management Area. Consistent with existing law, the National Oceanic and Atmospheric Administration, in coordination with the North Pacific Fishery Management Council, shall take such actions as are necessary to support the policy set forth in section 2 of this order, including actions to maintain the existing prohibitions on the use of commercial non-pelagic trawl gear.
+Sec. 10. <i>Continuity of Existing Habitat Protection</i>. The area included in the Northern Bering Sea Climate Resilience Area is currently closed to commercial non-pelagic trawl gear under rules implementing the FisheryManagement Plans of the Bering Sea and Aleutian Islands Management Area and the Arctic Management Area. Consistent with existing law, the National Oceanic and Atmospheric Administration, in coordination with the North Pacific Fishery Management Council, shall take such actions as are necessary to support the policy set forth in section 2 of this order, including actions to maintain the existing prohibitions on the use of commercial non-pelagic trawl gear.
 
 Sec. 11. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C)(i) review and revise as necessary the standards in effect under this subsection; and
 
-&emsp;&emsp;(ii) ensure that any such revisions in the standards will not result in the elimination of or any reduction in quality, scope, or types of health, educational, parental involvement, nutritional, social, or other services required to be provided under such standards as in effect on December 12, 2007; and
+&emsp;&emsp;(ii) ensure that any such revisions in the standards will not result in the eliminationof or any reduction in quality, scope, or types of health, educational, parental involvement, nutritional, social, or other services required to be provided under such standards as in effect on December 12, 2007; and
 
 &emsp;&emsp;(D) consult with Indian tribes, including Alaska Natives, experts in Indian, including Alaska Native, early childhood education and development, linguists, and the National Indian Head Start Directors Association on the review and promulgation of standards under paragraph (1) (including standards for language acquisition and school readiness).
 
@@ -134,7 +134,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, through regulation, shall ensure the confidentiality of any personallyidentifiable data, information, and records collected or maintained under this subchapter by the Secretary and any Head Start agency. Such regulations shall provide the policies, protections, and rights equivalent to those provided to a parent, student, or educational agency or institution under section 1232g of title 20.
+&emsp;&emsp;The Secretary, through regulation, shall ensure the confidentiality of any personally identifiable data, information, and records collected or maintained under this subchapter by the Secretary and any Head Start agency. Such regulations shall provide the policies, protections, and rights equivalent to those provided to a parent, student, or educational agency or institution under section 1232g of title 20.
 
 #### (B) Prohibition on nationwide database
 
@@ -200,7 +200,7 @@
 
 &emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
 
-&emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individualswho are knowledgeable about the development of infants and toddlers;
+&emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers;
 
 &emsp;&emsp;(I) include as part of the reviews a protocol for fiscal management that shall be used to assess compliance with program requirements for—
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;(J) include as part of the reviews of the programs, a review and assessment of whether the programs are in conformity with the eligibility requirements under section 9840(a)(1) of this title, including regulations promulgated under such section and whether the programs have met the requirements for the outreach and enrollment policies and procedures, and selection criteria, in such section, for the participation of children in programs assisted under this subchapter;
 
-&emsp;&emsp;(K) include as part of the reviews, a review and assessment of whether agencies have adequately addressed the needs of children with disabilities, including whether the agencies involved have met the 10 percent minimum enrollment requirement specified in section 9835(d) of this title and whether the agencies have made sufficient efforts to collaborate with State and local agencies providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
+&emsp;&emsp;(K) include as part of the reviews, a review and assessment of whether agencies have adequately addressed the needs of children with disabilities, including whether the agencies involved have met the 10 percent minimum enrollment requirement specified in section 9835(d) of this title and whetherthe agencies have made sufficient efforts to collaborate with State and local agencies providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
 
 &emsp;&emsp;(L) include as part of the reviews, a review and assessment of child outcomes and performance as they relate to agency-determined school readiness goals described in subsection (g)(2), consistent with subsection (b)(5).
 
@@ -358,7 +358,7 @@
 
 #### (A) Goals
 
-&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined program goals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head StartChild Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
+&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined program goals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head Start Child Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
 
 #### (B) Improvement plan
 

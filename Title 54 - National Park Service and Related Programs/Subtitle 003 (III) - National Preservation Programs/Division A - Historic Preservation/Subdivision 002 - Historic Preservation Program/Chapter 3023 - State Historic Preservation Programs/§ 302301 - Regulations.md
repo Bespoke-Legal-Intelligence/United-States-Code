@@ -28,5 +28,5 @@ Pub. L. 89–665, title I, §101(b)(1), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91�
 
 Before paragraph (1), the words "or revise" are omitted as unnecessary.
 
-In paragraph (1), the words "chief elected official" are substituted for "Governor" for clarity because thedefinition of "State" in section 300316 of the new title includes entities in which the chief elected official is not the Governor.
+In paragraph (1), the words "chief elected official" are substituted for "Governor" for clarity because the definition of "State" in section 300316 of the new title includes entities in which the chief elected official is not the Governor.
 

@@ -104,7 +104,7 @@ Subsec. (b)(4). Pub. L. 114–95, §1601(a)(2)(D), added par. (4) and struck out
 
 &emsp;"(B) shall not be subject to the Federal Advisory Committee Act, but shall otherwise follow the provisions of the Negotiated Rulemaking Act of 1990 (5 U.S.C. 561 et seq.)."
 
-Subsec. (b)(5). Pub. L. 114–95, §1601(a)(2)(E), struck out par. (5). Text read as follows: "In an emergency situation in which regulations to carry out this subchapter must be issued within a very limited time to assist State educational agencies and local educational agencies with the operation of a program under this subchapter, the Secretary may issue proposed regulations without following such process but shall, immediately thereafter and before issuing final regulations, conduct regional meetings to review such proposed regulations."
+Subsec. (b)(5). Pub. L. 114–95, §1601(a)(2)(E), struck out par. (5). Text read as follows: "In an emergency situation in which regulations to carry out this subchapter must be issued within a very limited time to assist State educational agencies and local educational agencies with the operation of a program under thissubchapter, the Secretary may issue proposed regulations without following such process but shall, immediately thereafter and before issuing final regulations, conduct regional meetings to review such proposed regulations."
 
 Subsecs. (c), (d). Pub. L. 114–95, §1601(a)(3)–(5), added subsec. (c), redesignated former subsec. (c) as (d), and in subsec. (d) substituted "this subchapter" for "this part".
 

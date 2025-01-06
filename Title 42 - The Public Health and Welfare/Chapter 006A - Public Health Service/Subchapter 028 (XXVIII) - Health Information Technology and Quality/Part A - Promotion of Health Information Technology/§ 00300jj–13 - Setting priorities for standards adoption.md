@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the date on which the HIT Advisory Committee firstmeets, the National Coordinator shall periodically convene the HIT Advisory Committee to—
+&emsp;Not later than 6 months after the date on which the HIT Advisory Committee first meets, the National Coordinator shall periodically convene the HIT Advisory Committee to—
 
 &emsp;&emsp;(A) identify priority uses of health information technology, focusing on priorities—
 

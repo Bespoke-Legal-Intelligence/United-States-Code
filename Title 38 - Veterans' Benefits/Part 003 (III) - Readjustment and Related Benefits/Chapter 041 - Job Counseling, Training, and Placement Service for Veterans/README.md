@@ -64,7 +64,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted "Advisory Com
 
 <b>1966</b>—Pub. L. 89–358, §6(a), Mar. 3, 1966, 80 Stat. 27, substituted "JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS" for "UNEMPLOYMENT BENEFITS FOR VETERANS" in chapter heading.
 
-<b>1962</b>—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted "Purpose" for "Compensation for veterans under State agreements" in item 2001, "Assignment of veterans' employment representative" for "Unemployment compensation in absence of State agreements" in item 2002, "Employees of local offices" for "Payments to States" in item 2003, "Cooperation of Federal agencies" for "Information" in item 2004, and "Estimate of funds for administration" for "Penalties" in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
+<b>1962</b>—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted "Purpose" for "Compensation forveterans under State agreements" in item 2001, "Assignment of veterans' employment representative" for "Unemployment compensation in absence of State agreements" in item 2002, "Employees of local offices" for "Payments to States" in item 2003, "Cooperation of Federal agencies" for "Information" in item 2004, and "Estimate of funds for administration" for "Penalties" in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
 
 
 ---

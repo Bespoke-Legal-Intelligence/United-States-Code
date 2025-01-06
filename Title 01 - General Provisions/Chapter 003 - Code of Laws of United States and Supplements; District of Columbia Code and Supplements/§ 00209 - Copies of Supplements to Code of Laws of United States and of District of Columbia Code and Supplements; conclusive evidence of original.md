@@ -14,5 +14,5 @@ Copies of the Code of Laws relating to the District of Columbia and copies of th
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in text on authority ofsection 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

@@ -104,7 +104,7 @@ The Farm Credit Administration may issue a directive that requires compliance wi
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section,if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
 
 #### (B) Retirement
 
@@ -118,7 +118,7 @@ This section shall not be construed to affect the provisions of this chapter tha
 
 To the extent that any provision of this section is inconsistent with any other provision of this chapter (other than section 2162 of this title), the provision of this section shall control.
 
-(Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, §206, Feb. 10, 1996, 110 Stat. 173; Pub. L. 110–234, title V, §5403(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5403(b), June 18, 2008, 122 Stat. 1664, 1916.)
+(Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat.1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, §206, Feb. 10, 1996, 110 Stat. 173; Pub. L. 110–234, title V, §5403(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5403(b), June 18, 2008, 122 Stat. 1664, 1916.)
 
 #### <b>Editorial Notes</b>
 

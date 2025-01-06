@@ -6,7 +6,7 @@ A person engaged in the business of manufacturing, importing, selling, or leasin
 
 #### (b) System installation, management, and operation
 
-A person engaged in the business of installing, managing, or operating multi-line telephone systems may not install, manage, or operate for use in the United States such a system, unless such system is configured such that a user may directly initiate a call to 9–1–1 from any station equipped with dialing facilities, without dialing any additional digit, code, prefix, or post-fix, including any trunk-access code such as the digit "9", regardless of whether the user is required to dial such a digit, code, prefix, or post-fix for other calls.
+A person engaged in the business of installing, managing, or operating multi-line telephonesystems may not install, manage, or operate for use in the United States such a system, unless such system is configured such that a user may directly initiate a call to 9–1–1 from any station equipped with dialing facilities, without dialing any additional digit, code, prefix, or post-fix, including any trunk-access code such as the digit "9", regardless of whether the user is required to dial such a digit, code, prefix, or post-fix for other calls.
 
 #### (c) On-site notification
 
@@ -36,5 +36,5 @@ This chapter, referred to in subsec. (d), was in the original "this Act", meanin
 
 #### Effective Date
 
-Pub. L. 115–127, §2(b), Feb. 16, 2018, 132 Stat. 327, provided that: "The amendment made by subsection (a)\[enacting this section\] shall apply with respect to a multi-line telephone system that is manufactured, imported, offered for first sale or lease, first sold or leased, or installed after the date that is 2 years after the date of the enactment of this Act \[Feb. 16, 2018\]."
+Pub. L. 115–127, §2(b), Feb. 16, 2018, 132 Stat. 327, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply with respect to a multi-line telephone system that is manufactured, imported, offered for first sale or lease, first sold or leased, or installed after the date that is 2 years after the date of the enactment of this Act \[Feb. 16, 2018\]."
 

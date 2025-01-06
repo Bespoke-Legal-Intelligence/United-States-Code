@@ -54,7 +54,7 @@ This subchapter does not—
 
 #### (B) Verification or acknowledgment
 
-&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
+&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to beprovided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
 
 #### (3) Effect of failure to obtain electronic consent or confirmation of consent
 
@@ -116,7 +116,7 @@ It is the specific intent of the Congress that this subchapter and subchapter II
 
 #### (j) Insurance agents and brokers
 
-An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
+An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronicsignature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
 
 &emsp;(1) the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
 
@@ -178,5 +178,5 @@ Student loans.—With respect to any records that are provided or made available
 
 #### Short Title
 
-Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: "This Act \[enacting this chapter andamending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the 'Electronic Signatures in Global and National Commerce Act'."
+Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: "This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the 'Electronic Signatures in Global and National Commerce Act'."
 

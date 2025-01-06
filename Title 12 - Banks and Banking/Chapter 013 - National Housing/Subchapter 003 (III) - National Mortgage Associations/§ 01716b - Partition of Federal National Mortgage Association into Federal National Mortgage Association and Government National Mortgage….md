@@ -8,7 +8,7 @@ The purposes of this title include the partition of the Federal National Mortgag
 
 #### References in Text
 
-This title, referred to in text, means title VIII of Pub. L. 90–448, which enacted this section, amended sections24, 378, 1431, 1436, 1464, 1716, 1717 to 1723a, 1723c and 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, section 846 of former Title 31, Money and Finance, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 612 of former Title 40, Public Buildings, Property, and Works, and sections 1452b, 3534 and 3535 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under this section and section 1721 of this title.
+This title, referred to in text, means title VIII of Pub. L. 90–448, which enacted this section, amended sections 24, 378, 1431, 1436, 1464, 1716, 1717 to 1723a, 1723c and 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, section 846 of former Title 31, Money and Finance, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 612 of former Title 40, Public Buildings, Property, and Works, and sections 1452b, 3534 and 3535 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under this section and section 1721 of this title.
 
 Section 1720 of this title, referred to in text, was repealed by Pub. L. 98–181, title I \[title IV, §483(a)\], Nov. 30, 1983, 97 Stat. 1240.
 

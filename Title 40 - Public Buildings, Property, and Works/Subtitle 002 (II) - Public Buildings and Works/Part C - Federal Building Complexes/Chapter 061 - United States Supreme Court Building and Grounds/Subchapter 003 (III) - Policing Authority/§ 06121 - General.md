@@ -48,7 +48,7 @@ Aug. 18, 1949, ch. 479, §9(c), as added Pub. L. 97–390, §1(c)(2), Dec. 29, 1
 
 In this section, the words "any State" are substituted for "any part of the United States" to eliminate unnecessary words and for consistency with section 6101 of the revised title.
 
-In subsection (a)(3), the words "federal or state law and any regulation under federal or state law" are substituted for "a law of the United States or any Stateand any regulation under such law" for consistency in the revised title.
+In subsection (a)(3), the words "federal or state law and any regulation under federal or state law" are substituted for "a law of the United States or any State and any regulation under such law" for consistency in the revised title.
 
 In subsection (b), the words "The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection" are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 13 of House Document No. 103–7.
 

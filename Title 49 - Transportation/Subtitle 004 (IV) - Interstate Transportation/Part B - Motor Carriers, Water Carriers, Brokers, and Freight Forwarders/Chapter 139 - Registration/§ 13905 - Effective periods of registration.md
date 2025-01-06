@@ -120,7 +120,7 @@ Notice; period of suspension.—The Secretary may suspend or revoke under this s
 
 (g)
 
-Mexico-Domiciled Motor Carriers.—Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposinglimitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+Mexico-Domiciled Motor Carriers.—Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposing limitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 104–287, §5(33), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 105–102, §2(10), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §206(a), Dec. 9, 1999, 113 Stat. 1763; Pub. L. 109–59, title IV, §§4104, 4303(a), Aug. 10, 2005, 119 Stat. 1716, 1761; Pub. L. 110–291, §2(b), July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, 126 Stat. 778, 782, 785, 821, 830; Pub. L. 114–94, div. A, title V, §5508(a)(3), Dec. 4, 2015, 129 Stat. 1554; Pub. L. 116–113, title III, §326(b), Jan. 29, 2020, 134 Stat. 60.)
 

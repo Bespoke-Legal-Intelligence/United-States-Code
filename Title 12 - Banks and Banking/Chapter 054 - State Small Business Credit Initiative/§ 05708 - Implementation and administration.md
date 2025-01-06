@@ -42,7 +42,7 @@ Of the amounts appropriated for fiscal year 2021 to carry out the Program, $500,
 
 &emsp;&emsp;(B) other State or Federal programs that support small businesses; and
 
-&emsp;(3) contract with legal, accounting, and financial advisory firms (with priority given tobusiness enterprises owned and controlled by socially and economically disadvantaged individuals), to provide technical assistance to business enterprises owned and controlled by socially and economically disadvantaged individuals applying to—
+&emsp;(3) contract with legal, accounting, and financial advisory firms (with priority given to business enterprises owned and controlled by socially and economically disadvantaged individuals), to provide technical assistance to business enterprises owned and controlled by socially and economically disadvantaged individuals applying to—
 
 &emsp;&emsp;(A) State programs under the Program; and
 

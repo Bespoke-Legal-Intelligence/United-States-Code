@@ -8,7 +8,7 @@ A commission is created, to be composed of the following members, who shall be a
 
 &emsp;(3) A veteran of the Civil War who served honorably in the military forces of the Confederate States of America.
 
-(Mar. 26, 1928, ch. 248, §1, 45 Stat. 367; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1,July 28, 1933; Pub. L. 86–738, §5, Sept. 8, 1960, 74 Stat. 876.)
+(Mar. 26, 1928, ch. 248, §1, 45 Stat. 367; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 86–738, §5, Sept. 8, 1960, 74 Stat. 876.)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

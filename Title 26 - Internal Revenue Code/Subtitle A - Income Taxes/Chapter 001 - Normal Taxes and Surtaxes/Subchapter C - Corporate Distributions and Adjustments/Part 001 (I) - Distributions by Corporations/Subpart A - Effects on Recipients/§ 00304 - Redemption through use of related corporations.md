@@ -40,7 +40,7 @@
 
 #### (A) Property treated as received in redemption
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, subsection (a) (and not section 351and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
+&emsp;&emsp;Except as otherwise provided in this paragraph, subsection (a) (and not section 351 and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
 
 #### (B) Certain assumptions of liability, etc.
 

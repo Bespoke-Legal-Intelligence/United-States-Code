@@ -86,7 +86,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (3) Assignment by Secretary
 
-&emsp;After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the UnitedStates. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b)).
+&emsp;After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b)).
 
 #### (4) Requirements
 
@@ -140,7 +140,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 #### (2) Annual limitation on amount of loan guarantee
 
-&emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans underthis section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may be provided in appropriation Acts for such fiscal year.
+&emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (q) Report
 
@@ -204,7 +204,7 @@ The National Housing Act, referred to in subsec. (e)(1)(A), is act June 27, 1934
 
 Subpar. (D) of section 42(i)(2) of title 26, referred to in subsec. (f)(5), was repealed by Pub. L. 110–289, div. C, title I, §3002(b)(2)(C), July 30, 2008, 122 Stat. 2880.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For completeclassification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.), referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 

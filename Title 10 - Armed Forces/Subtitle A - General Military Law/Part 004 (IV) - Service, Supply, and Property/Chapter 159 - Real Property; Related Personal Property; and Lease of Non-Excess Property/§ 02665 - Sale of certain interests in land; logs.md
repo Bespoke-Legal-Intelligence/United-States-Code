@@ -30,7 +30,7 @@
 
 (3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, §1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, §1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII,§809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, §1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, §1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes<br>1956
 
@@ -88,7 +88,7 @@ Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) gene
 
 "(2) Subject to paragraph (3), there shall be deposited into the reserve account not later than December 31 of each year, for credit to the preceding fiscal year, an amount equal to one-half of the amount (if any) remaining of the total amount received by the United States during that fiscal year as proceeds from the sale of forest products after (A) the reimbursement of appropriations of the Department of Defense under subsection (d) for expenses of production of forest products during that fiscal year, and (B) the payment to States under subsection (e) for that fiscal year.
 
-"(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) wouldcause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000."
+"(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000."
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–407, §809(a)(1), substituted "forest products produced on land owned or leased by a military department or the" for "logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or".
 

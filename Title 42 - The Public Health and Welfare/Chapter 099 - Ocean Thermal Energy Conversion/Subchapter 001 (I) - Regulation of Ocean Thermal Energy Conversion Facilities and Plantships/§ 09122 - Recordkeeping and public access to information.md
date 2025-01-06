@@ -6,7 +6,7 @@ Each licensee shall establish and maintain such records, make such reports, and 
 
 #### (b) Confidential information
 
-Any information reported to or collected by the Administrator under this chapter which isexempt from disclosure pursuant to section 552(b)(4) of title 5 (relating to trade secrets and commercial or financial information which is privileged or confidential) shall not—
+Any information reported to or collected by the Administrator under this chapter which is exempt from disclosure pursuant to section 552(b)(4) of title 5 (relating to trade secrets and commercial or financial information which is privileged or confidential) shall not—
 
 &emsp;(1) be publicly disclosed by the Administrator or by any other officer or employee of the United States, unless the Administrator has—
 
@@ -34,7 +34,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–623, §602(e)(3), substituted "(relating to trade secrets and commercial or financial information which is privileged or confidential)" for "(relating to trade secrets and confidential commercial and financial information)".
+<b>1984</b>—Subsec. (b). Pub. L. 98–623, §602(e)(3), substituted "(relating to trade secrets and commercial orfinancial information which is privileged or confidential)" for "(relating to trade secrets and confidential commercial and financial information)".
 
 Subsec. (b)(2)(B). Pub. L. 98–623, §602(e)(18), substituted "Administrator" for "administrator".
 

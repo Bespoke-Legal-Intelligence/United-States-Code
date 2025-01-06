@@ -32,7 +32,7 @@ Program Support.—The Federal Judicial Center and the Administrative Office of 
 
 #### References in Text
 
-The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is thedate of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
+The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Pub. L. 100–702, title IX, §903, Nov. 19, 1988, 102 Stat. 4663, provided that
 
 "(a)
 
-Annual Report by Director of Administrative Office of the United States Courts.—The Director of the Administrative Office of the United States Courts shall include in the annual report of the activities of the Administrative Office required under section 604(a)(3) \[28 U.S.C. 604(a)(3)\], statistical information about the implementation of chapter 44, as added by section 901 of this Act.
+Annual Report by Director of Administrative Office of the United States Courts.—The Director of the Administrative Office of the United States Courts shall include in the annual report of the activities ofthe Administrative Office required under section 604(a)(3) \[28 U.S.C. 604(a)(3)\], statistical information about the implementation of chapter 44, as added by section 901 of this Act.
 
 "(b)
 

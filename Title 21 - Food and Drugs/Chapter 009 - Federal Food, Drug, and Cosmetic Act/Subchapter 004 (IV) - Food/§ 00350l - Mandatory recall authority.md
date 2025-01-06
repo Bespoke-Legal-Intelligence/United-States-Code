@@ -8,7 +8,7 @@ If the Secretary determines, based on information gathered through the reportabl
 
 #### (1) In general
 
-&emsp;If the responsible party refuses to or does not voluntarily cease distribution or recall such article within the time and in the manner prescribed by the Secretary (if so prescribed), the Secretary may, by order require, as the Secretary deems necessary, such person to—
+&emsp;If the responsible party refuses to or does not voluntarily cease distribution or recall such article within the time and in the manner prescribed by the Secretary (if so prescribed), the Secretary may, by order require,as the Secretary deems necessary, such person to—
 
 &emsp;&emsp;(A) immediately cease distribution of such article; and
 
@@ -22,7 +22,7 @@ If the Secretary determines, based on information gathered through the reportabl
 
 #### (A) In general
 
-&emsp;&emsp;If an article of food covered by a recall order issued under paragraph (1)(B) has been distributed to a warehouse-based third party logistics provider without providing such provider sufficient information to know or reasonably determine the precise identity of the article of food covered by a recall order that is in its possession, the notice provided by the responsible party subject to the order issued under paragraph (1)(B) shall includesuch information as is necessary for the warehouse-based third party logistics provider to identify the food.
+&emsp;&emsp;If an article of food covered by a recall order issued under paragraph (1)(B) has been distributed to a warehouse-based third party logistics provider without providing such provider sufficient information to know or reasonably determine the precise identity of the article of food covered by a recall order that is in its possession, the notice provided by the responsible party subject to the order issued under paragraph (1)(B) shall include such information as is necessary for the warehouse-based third party logistics provider to identify the food.
 
 #### (B) Rules of construction
 
@@ -92,7 +92,7 @@ The authority conferred by this section to order a recall or vacate a recall ord
 
 #### (i) Effect
 
-Nothing in this section shall affect the authority of the Secretary to request or participate in a voluntary recall, or to issue an order to cease distribution or to recall under any other provision of this chapter or under the Public Health Service Act \[42 U.S.C. 201 et seq.\].
+Nothing in this section shall affect the authority of the Secretary to request or participate ina voluntary recall, or to issue an order to cease distribution or to recall under any other provision of this chapter or under the Public Health Service Act \[42 U.S.C. 201 et seq.\].
 
 #### (j) Coordinated communication
 

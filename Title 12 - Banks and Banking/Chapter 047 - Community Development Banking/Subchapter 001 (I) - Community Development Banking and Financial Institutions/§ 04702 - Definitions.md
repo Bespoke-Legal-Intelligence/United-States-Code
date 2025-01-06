@@ -80,7 +80,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (12) Indian tribe
 
-&emsp;The term "Indian tribe" means any Indian tribe, band, pueblo, nation, or other organized group or community, including any Alaska Native village or regional or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, pueblo, nation, or other organizedgroup or community, including any Alaska Native village or regional or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (13) Insured community development financial institution
 

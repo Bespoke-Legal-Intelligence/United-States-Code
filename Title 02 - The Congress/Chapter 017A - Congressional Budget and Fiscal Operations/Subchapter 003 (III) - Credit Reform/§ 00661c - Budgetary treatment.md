@@ -32,7 +32,7 @@ Subsections (b) and (e) shall not apply to a direct loan or loan guarantee progr
 
 #### (e) Modifications
 
-An outstanding direct loan (or direct loan obligation) or loan guarantee (or loan guaranteecommitment) shall not be modified in a manner that increases its costs unless budget authority for the additional cost has been provided in advance in an appropriations Act.
+An outstanding direct loan (or direct loan obligation) or loan guarantee (or loan guarantee commitment) shall not be modified in a manner that increases its costs unless budget authority for the additional cost has been provided in advance in an appropriations Act.
 
 #### (f) Reestimates
 
@@ -60,5 +60,5 @@ Subsec. (c). Pub. L. 105–33, §10117(b)(3), substituted "Subsections (b) and (
 
 Subsec. (d)(1). Pub. L. 105–33, §10117(b)(4), substituted "modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)" for "directly or indirectly alter the costs of outstanding direct loans and loan guarantees".
 
-Subsec. (e). Pub. L. 105–33, §10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources."
+Subsec. (e). Pub. L. 105–33, §10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "A direct loan obligation orloan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources."
 

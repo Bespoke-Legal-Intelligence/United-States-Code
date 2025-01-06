@@ -26,7 +26,7 @@
 
 &emsp;(B) for all purposes, is deemed to have performed service for the agency during that period, except that—
 
-&emsp;&emsp;(i) annual leave restored under this paragraph which is in excess of the maximum leave accumulation permitted by law shall be credited to a separate leave account for the employee and shall be available for useby the employee within the time limits prescribed by regulations of the Office of Personnel Management, and
+&emsp;&emsp;(i) annual leave restored under this paragraph which is in excess of the maximum leave accumulation permitted by law shall be credited to a separate leave account for the employee and shall be available for use by the employee within the time limits prescribed by regulations of the Office of Personnel Management, and
 
 &emsp;&emsp;(ii) annual leave credited under clause (i) of this subparagraph but unused and still available to the employee under regulations prescribed by the Office shall be included in the lump-sum payment under section 5551 or 5552(1) of this title but may not be retained to the credit of the employee under section 5552(2) of this title.
 
@@ -50,7 +50,7 @@
 
 (c) The Office of Personnel Management shall prescribe regulations to carry out this section. However, the regulations are not applicable to the Tennessee Valley Authority and its employees, or to the agencies specified in subsection (a)(2) of this section.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 203; amended Pub. L. 94–172, §1(a), Dec. 23, 1975, 89 Stat. 1025; Pub. L. 95–454, title VII, §702, Oct. 13, 1978, 92 Stat. 1216; Pub. L. 96–54, §2(a)(14), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2306, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–202, §101(m) \[title VI, §623(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428; Pub. L. 101–474, §5(l), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 105–261, div. A, title XI, §1104(a), Oct. 17, 1998, 112 Stat. 2141; Pub. L. 107–68, title III, §309, Nov. 12, 2001, 115 Stat. 592; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 203; amended Pub. L. 94–172, §1(a), Dec. 23, 1975, 89 Stat. 1025; Pub. L. 95–454, title VII, §702, Oct. 13, 1978, 92 Stat. 1216; Pub. L. 96–54, §2(a)(14), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2306, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–202,§101(m) \[title VI, §623(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428; Pub. L. 101–474, §5(l), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 105–261, div. A, title XI, §1104(a), Oct. 17, 1998, 112 Stat. 2141; Pub. L. 107–68, title III, §309, Nov. 12, 2001, 115 Stat. 592; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 Historical and Revision Notes
 

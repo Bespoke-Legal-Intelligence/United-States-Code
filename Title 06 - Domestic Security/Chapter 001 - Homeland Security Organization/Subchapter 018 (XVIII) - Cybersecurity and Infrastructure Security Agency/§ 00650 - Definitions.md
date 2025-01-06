@@ -16,7 +16,7 @@ Except as otherwise specifically provided, in this subchapter:
 
 #### (3) Cloud service provider
 
-&emsp;The term "cloud service provider" means an entity offering products or services related to cloud computing, as defined by the NationalInstitute of Standards and Technology in NIST Special Publication 800–145 and any amendatory or superseding document relating thereto.
+&emsp;The term "cloud service provider" means an entity offering products or services related to cloud computing, as defined by the National Institute of Standards and Technology in NIST Special Publication 800–145 and any amendatory or superseding document relating thereto.
 
 #### (4) Critical infrastructure information
 
@@ -146,7 +146,7 @@ Except as otherwise specifically provided, in this subchapter:
 
 &emsp;&emsp;(D) facilitating information sharing and operational coordination with threat response; and
 
-&emsp;&emsp;(E) providing guidance on how best to utilize Federal resources and capabilities in a timely, effective manner to speed recovery from cybersecurity risks.
+&emsp;&emsp;(E) providing guidance on how best to utilize Federal resources and capabilities in atimely, effective manner to speed recovery from cybersecurity risks.
 
 #### (21) National security system
 
@@ -166,7 +166,7 @@ Except as otherwise specifically provided, in this subchapter:
 
 #### (23) Sector Risk Management Agency
 
-&emsp;The term "Sector Risk Management Agency" means a Federal department or agency,designated by law or Presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.
+&emsp;The term "Sector Risk Management Agency" means a Federal department or agency, designated by law or Presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.
 
 #### (24) Security control
 

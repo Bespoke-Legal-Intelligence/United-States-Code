@@ -44,5 +44,5 @@ Pub. L. 117–137, §1(a)(1), substituted "Requirements" for "Requirement" in se
 
 #### Effective Date
 
-Pub. L. 105–368, title X, §1001(b), Nov. 11, 1998, 112 Stat. 3363, provided that: "Section 531 of title 38, United States Code, as added by subsection (a)(1), shall apply with respect to the assignment or designation of the name of a facility, structure, or real property of the Department of Veterans Affairs (or of a major portion thereof) after the date of the enactment of this Act \[Nov. 11, 1998\]."
+Pub. L. 105–368, title X, §1001(b), Nov. 11, 1998, 112 Stat. 3363, provided that: "Section 531 of title 38, UnitedStates Code, as added by subsection (a)(1), shall apply with respect to the assignment or designation of the name of a facility, structure, or real property of the Department of Veterans Affairs (or of a major portion thereof) after the date of the enactment of this Act \[Nov. 11, 1998\]."
 

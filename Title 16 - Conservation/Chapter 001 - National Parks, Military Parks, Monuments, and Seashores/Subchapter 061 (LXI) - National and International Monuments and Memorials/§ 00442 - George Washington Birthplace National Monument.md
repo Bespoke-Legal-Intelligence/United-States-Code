@@ -4,6 +4,8 @@ The land owned by the United States at Wakefield, Westmoreland County, Virginia,
 
 (Jan. 23, 1930, ch. 24, §§1, 2, 46 Stat. 58.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -48,7 +50,7 @@ Pub. L. 107–354, Dec. 17, 2002, 116 Stat. 2984, provided that:
 
 #### "SEC. 2. ACQUISITION OF LANDS.
 
-"Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to asthe 'Secretary') is authorized to acquire lands, or interests therein, from willing owners by donation, purchase with donated money or appropriated funds, or exchange.
+"Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the 'Secretary') is authorized to acquire lands, or interests therein, from willing owners by donation, purchase with donated money or appropriated funds, or exchange.
 
 #### "SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.
 

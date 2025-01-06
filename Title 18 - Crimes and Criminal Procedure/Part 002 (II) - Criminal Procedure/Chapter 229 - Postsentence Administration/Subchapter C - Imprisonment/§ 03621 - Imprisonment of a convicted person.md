@@ -22,7 +22,7 @@ Place of Imprisonment.—The Bureau of Prisons shall designate the place of the 
 
 &emsp;(5) any pertinent policy statement issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28.
 
-> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonmentunder this subsection is not reviewable by any court.
+> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.
 
 (c)
 
@@ -112,7 +112,7 @@ Residential sex offender treatment programs.—The Bureau of Prisons shall estab
 
 &emsp;(2)
 
-Regions.—At least 1 sex offender management program under paragraph (1)(A), and at least one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
+Regions.—At least 1 sex offender management program under paragraph (1)(A), and atleast one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
 
 &emsp;(3)
 
@@ -258,7 +258,7 @@ Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted "means a course of indi
 
 Subsec. (g). Pub. L. 110–199, §231(f), added subsec. (g).
 
-<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par.\(4). Text read as follows: "There are authorized to be appropriated to carry out this subsection—
+<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "There are authorized to be appropriated to carry out this subsection—
 
 &emsp;"(A) $13,500,000 for fiscal year 1996;
 
@@ -372,7 +372,7 @@ Exemption from notice-and-comment rulemaking requirements.—Section 553 of titl
 
 "(d)
 
-Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### GAO Report
 
@@ -380,7 +380,7 @@ Pub. L. 115–391, title I, §103, Dec. 21, 2018, 132 Stat. 5213, provided that:
 
 &emsp;"(1) Whether inmates are being assessed under the risk and needs assessment system with the frequency required under such section 3621 of title 18, United States Code.
 
-&emsp;"(2) Whether the Bureau of Prisons is able to offer recidivism reduction programs and productive activities (as such terms are defined in section 3635 of title 18, United States Code, as added by section 101(a) of this Act).
+&emsp;"(2) Whether the Bureau of Prisons is able to offer recidivism reduction programs and productive activities (as such terms are defined in section 3635 of title18, United States Code, as added by section 101(a) of this Act).
 
 &emsp;"(3) Whether the Bureau of Prisons is offering the type, amount, and intensity of recidivism reduction programs and productive activities for prisoners to earn the maximum amount of time credits for which they are eligible.
 

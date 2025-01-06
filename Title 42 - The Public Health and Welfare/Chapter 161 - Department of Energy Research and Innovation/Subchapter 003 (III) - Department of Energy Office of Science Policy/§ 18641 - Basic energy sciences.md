@@ -210,7 +210,7 @@ In carrying out chemistry-related research and development activities under this
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, entitled "Report on Facility Upgrades", including the development of experimental capabilities for high energy x-rays to reveal fundamental scientific discoveries; and
+&emsp;&emsp;&emsp;(i) provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, entitled "Report on Facility Upgrades", including the development ofexperimental capabilities for high energy x-rays to reveal fundamental scientific discoveries; and
 
 &emsp;&emsp;&emsp;(ii) ensure such upgrade enables the production and use of high energy, ultra-short pulse x-rays delivered at a high repetition rate.
 
@@ -312,7 +312,7 @@ The Director shall carry out research and development on advanced accelerator an
 
 &emsp;&emsp;In carrying out the activities authorized under paragraph (1), the Director shall select and establish up to 6 computational materials and chemical sciences centers to—
 
-&emsp;&emsp;&emsp;(i) develop open-source, robust, and validated computational codes and user-friendly software, coupled with innovative use of experimental and theoretical data, to enable the design, discovery, and development of new materials and chemical systems; and
+&emsp;&emsp;&emsp;(i) develop open-source, robust, and validated computational codes and user-friendly software, coupled with innovative use of experimental and theoretical data,to enable the design, discovery, and development of new materials and chemical systems; and
 
 &emsp;&emsp;&emsp;(ii) focus on overcoming challenges and maximizing the benefits of exascale and other high performance computing underpinned by accelerated node technologies.
 

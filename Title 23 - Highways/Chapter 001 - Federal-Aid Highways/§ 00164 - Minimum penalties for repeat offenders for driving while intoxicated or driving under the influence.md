@@ -140,7 +140,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
 
-&emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highwaysand highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
 &emsp;(7)
 

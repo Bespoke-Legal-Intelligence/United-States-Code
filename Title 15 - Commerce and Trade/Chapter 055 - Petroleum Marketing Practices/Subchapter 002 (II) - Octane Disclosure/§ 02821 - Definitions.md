@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;(14) The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-&emsp;(15) the <sup>1</sup> term "person", for purposes of applying any provision of the Federal TradeCommission Act \[15 U.S.C. 41 et seq.\] with respect to any provision of the subchapter, includes a partnership and a corporation.
+&emsp;(15) the <sup>1</sup> term "person", for purposes of applying any provision of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] with respect to any provision of the subchapter, includes a partnership and a corporation.
 
 &emsp;(16) The term "distributor" means any person who receives automotive fuel and distributes such automotive fuel to another person other than the ultimate purchaser.
 
@@ -54,7 +54,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) designated D613 in the case of cetane number,
 
-> &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled "Standard Specification for Diesel Fuel Oils" designated D975 (as in effect on October 24, 1992).
+> &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled "Standard Specification for Diesel Fuel Oils"designated D975 (as in effect on October 24, 1992).
 
 (Pub. L. 95–297, title II, §201, June 19, 1978, 92 Stat. 333; Pub. L. 102–486, title XV, §1501(a)–(c)(1), Oct. 24, 1992, 106 Stat. 2996.)
 

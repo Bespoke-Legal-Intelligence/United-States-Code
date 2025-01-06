@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) the establishment of a national registry, or network of local registries, of families willing to adopt newborns with Down syndrome or other prenatally or postnatally diagnosed conditions, and links to adoption agencies willing to place babies with Down syndrome or other prenatally or postnatally diagnosed conditions, with families willing to adopt; and
 
-&emsp;&emsp;&emsp;(v) the establishment of awareness and education programs for health care providers who provide, interpret, or inform parents of the results of prenatal tests for Down syndrome or other prenatally or postnatally diagnosed conditions, to patients, consistent with the purpose described in section 2(b)(1) <sup>1</sup> of the Prenatally and Postnatally Diagnosed Conditions Awareness Act.
+&emsp;&emsp;&emsp;(v) the establishment of awareness and education programs for health care providers who provide, interpret, or informparents of the results of prenatal tests for Down syndrome or other prenatally or postnatally diagnosed conditions, to patients, consistent with the purpose described in section 2(b)(1) <sup>1</sup> of the Prenatally and Postnatally Diagnosed Conditions Awareness Act.
 
 #### (2) Eligible entity
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;A grantee under this section shall make available to health care providers of parentswho receive a prenatal or postnatal diagnosis the following:
+&emsp;A grantee under this section shall make available to health care providers of parents who receive a prenatal or postnatal diagnosis the following:
 
 &emsp;&emsp;(A) Up-to-date, evidence-based, written information concerning the range of outcomes for individuals living with the diagnosed condition, including physical, developmental, educational, and psychosocial outcomes.
 

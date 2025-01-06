@@ -152,7 +152,7 @@
 
 #### (1) In general
 
-&emsp;No nominated area shall be designated as an enterprise zone unless the local governmentand the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of action designated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
+&emsp;No nominated area shall be designated as an enterprise zone unless the local government and the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of action designated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
 
 #### (2) Course of action
 

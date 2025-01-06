@@ -16,7 +16,7 @@ As part of the Program, the Director of the National Institute of Standards and 
 
 &emsp;(6) shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
 
-&emsp;(7) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards andTechnology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
+&emsp;(7) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
 
 #### (b) Quantum consortium
 

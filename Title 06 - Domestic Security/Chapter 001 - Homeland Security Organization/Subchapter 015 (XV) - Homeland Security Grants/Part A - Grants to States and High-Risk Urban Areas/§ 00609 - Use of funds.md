@@ -28,7 +28,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(12) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
-&emsp;(13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
+&emsp;(13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative\(including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
 
 &emsp;(14) migrating any online service (as defined in section 3 of the DOTGOV Online Trust in Government Act of 2020) <sup>1</sup> to the .gov internet domain; and
 
@@ -114,21 +114,51 @@ Upon request by the recipient of a grant under section 604, 605, or 609a of this
 
 #### (f) Equipment standards
 
-If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
+#### (1) Application requirement
 
-(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665; Pub. L. 115–278, §2(g)(7)(B), Nov. 16, 2018, 132 Stat. 4180; Pub. L. 116–260, div. U, title IX, §904(c), Dec. 27, 2020, 134 Stat. 2302; Pub. L. 117–263, div. G, title LXXI, §7101(c), Dec. 23, 2022, 136 Stat. 3619.)
+&emsp;If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
+
+#### (2) Review process
+
+&emsp;The Administrator shall implement a uniform process for reviewing applications that, in accordance with paragraph (1), contain explanations to use grants provided under section 604 or 605 of this title to purchase equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title.
+
+#### (3) Factors
+
+&emsp;In carrying out the review process under paragraph (2), the Administrator shall consider the following:
+
+&emsp;&emsp;(A) Current or past use of proposed equipment or systems by Federal agencies or the Armed Forces.
+
+&emsp;&emsp;(B) The absence of a national voluntary consensus standard for such equipment or systems.
+
+&emsp;&emsp;(C) The existence of an international consensus standard for such equipment or systems, and whether such equipment or systems meets such standard.
+
+&emsp;&emsp;(D) The nature of the capability gap identified by the applicant and how such equipment or systems will address such gap.
+
+&emsp;&emsp;(E) The degree to which such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed existing consensus standards.
+
+&emsp;&emsp;(F) Any other factor determined appropriate by the Administrator.
+
+#### (g) Review process
+
+The Administrator shall implement a uniform process for reviewing applications to use grants provided under section 604 or 605 of this title to purchase equipment or systems not included on the Authorized Equipment List maintained by the Administrator.
+
+(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665; Pub. L. 115–278, §2(g)(7)(B), Nov. 16, 2018, 132 Stat. 4180; Pub. L. 116–260, div. U, title IX, §904(c), Dec. 27, 2020, 134 Stat. 2302; Pub. L. 117–263, div. G, title LXXI, §7101(c), Dec. 23, 2022, 136 Stat. 3619; Pub. L. 118–165, §2(a), Dec. 23, 2024, 138 Stat. 2581.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Subsection (a)(10), referred to in subsec. (b)(3)(B), was redesignated subsec. (a)(11) by Pub. L. 114–190, title III, §3603(1), July 15, 2016, 130 Stat. 665.
-
 Section 3 of the DOTGOV Online Trust in Government Act of 2020, referred to in subsec. (a)(14), probably means section 903 of title IX of div. U of Pub. L. 116–260, which defines "online service" and is set out as a note under section 665 of this title.
+
+Subsection (a)(10), referred to in subsec. (b)(3)(B), was redesignated subsec. (a)(11) by Pub. L. 114–190, title III, §3603(1), July 15, 2016, 130 Stat. 665.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f). Pub. L. 118–165, §2(a)(1), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+Subsec. (g). Pub. L. 118–165, §2(a)(2), added subsec. (g).
 
 <b>2022</b>—Subsec. (c). Pub. L. 117–263, §7101(c)(1), substituted "sections 604, 605, and 609a of this title" for "sections 604 and 605 of this title".
 
@@ -140,7 +170,7 @@ Subsec. (e). Pub. L. 117–263, §7101(c)(2), substituted "section 604, 605, or 
 
 <b>2016</b>—Subsec. (a)(9) to (14). Pub. L. 114–190 added par. (9) and redesignated former pars. (9) to (13) as (10) to (14), respectively.
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–113 inserted "including by working in conjunction with a National Laboratory\(as defined in section 15801(3) of title 42)," after "plans," in introductory provisions.
+<b>2015</b>—Subsec. (a). Pub. L. 114–113 inserted "including by working in conjunction with a National Laboratory (as defined in section 15801(3) of title 42)," after "plans," in introductory provisions.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–412, §2(1)(A), substituted "The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds" for "Grants awarded under section 604 or 605 of this title may be used" in introductory provisions.
 

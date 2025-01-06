@@ -58,7 +58,7 @@ In carrying out the purposes of this chapter, the Commissioner may—
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 93–112, §12, formerly §10, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1111; renumbered §12, Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, §405(c), July 22, 2014, 128 Stat. 1637.)
+(Pub. L. 93–112, §12, formerly §10, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat.1111; renumbered §12, Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, §405(c), July 22, 2014, 128 Stat. 1637.)
 
 #### <b>Editorial Notes</b>
 

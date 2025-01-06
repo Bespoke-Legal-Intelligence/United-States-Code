@@ -142,6 +142,10 @@ Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern dayli
 
 Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: "That this Act \[amending this section\] may be cited as the 'Forest Wildfire Emergency Pay Equity Act of 1988'."
 
+#### Premium Pay Exemption for APHIS Employees Engaged in Services in Response to an Animal Disease Outbreak
+
+Pub. L. 118–42, div. B, title VII, §767, Mar. 9, 2024, 138 Stat. 115, provided that: "If services performed by APHIS employees are determined by the Administrator of the Animal and Plant Health Inspection Service to be in response to an animal disease outbreak, any premium pay that is funded, either directly or through reimbursement, shall be exempted from the aggregate of basic pay and premium pay calculated under section 5547 of title 5, United States Code, and any other provision of law limiting the aggregate amount of premium pay payable on a biweekly or calendar year basis: <i>Provided</i>, That this section shall take effect as if enacted on January 1, 2023."
+
 #### Overtime Pay Exception for Protective Services
 
 Pub. L. 118–31, div. F, title LXII, §6232, Dec. 22, 2023, 137 Stat. 983, provided that:
@@ -210,17 +214,17 @@ Sunset.—This section shall terminate on December 31, 2025."
 
 #### Premium Pay Waiver for Certain Employees Engaged in Emergency Wildland Fire Suppression Activities
 
-Pub. L. 117–43, div. B, title VII, §1701, Sept. 30, 2021, 135 Stat. 367, as amended by Pub. L. 117–103, div. HH, title VI, §601, Mar. 15, 2022, 136 Stat. 1116; Pub. L. 117–328, div. G, title IV, §440, Dec. 29, 2022, 136 Stat. 4832, provided that:
+Pub. L. 117–43, div. B, title VII, §1701, Sept. 30, 2021, 135 Stat. 367, as amended by Pub. L. 117–103, div. HH, title VI, §601, Mar. 15, 2022, 136 Stat. 1116; Pub. L. 117–328, div. G, title IV, §440, Dec. 29, 2022, 136 Stat. 4832; Pub. L. 118–42, div. E, title IV, §438, Mar. 9, 2024, 138 Stat. 295, provided that:
 
-"(a)(1) If services performed by the designated employees under paragraph (2) of this subsection at the Department of the Interior or the Department of Agriculture during 2021 or 2022 or 2023 are determined by the Secretary of the Interior or the Secretary of Agriculture, as applicable, to be primarily related to emergency wildland fire suppression activities, any premium pay for such services shall be disregarded in calculating the aggregate of such employee's basic pay and premium pay for purposes of a limitation under section 5547(a) of title 5, United States Code, or under any other provision of law, whether such employee's pay is paid on a biweekly or calendar year basis. Any Services during a given calendar year that generate payments payable in the subsequent calendar year shall be disregarded in applying this subsection.
+"(a)(1) If services performed by the designated employees under paragraph (2) of this subsection at the Department of the Interior or the Department of Agriculture during 2021 or 2022 or 2023 or 2024 are determined by the Secretary of the Interior or the Secretary of Agriculture, as applicable, to be primarily related to emergency wildland fire suppression activities, any premium pay for such services shall be disregarded in calculating the aggregate of such employee's basic pay and premium pay for purposes of a limitation under section 5547(a) of title 5, United States Code, or under any other provision of law, whether such employee's pay is paid on a biweekly or calendar year basis. Any Services \[sic\] during a given calendar year that generate payments payable in the subsequent calendar year shall be disregarded in applying this subsection\[.\]
 
-"(2) The premium pay waiver under paragraph (1) of this subsection shall apply to individuals serving as wildland firefighters and as fire management response officials, including regional fire directors, deputy regional fire directors, agency officials who directly oversee fire operations, and fire management officers, and individuals serving on incident management teams (IMTs), at the National Interagency Fire Center (NIFC), at Geographic Area Coordinating Centers (GACCs), and at Operations centers.
+"(2) The premium pay waiver under paragraph (1) of this subsection shall apply to individuals serving as wildland firefighters and as fire management response officials, including regional fire directors, deputy regional fire directors, agency officials who directly oversee fire operations, and fire management officers, andindividuals serving on incident management teams (IMTs), at the National Interagency Fire Center (NIFC), at Geographic Area Coordinating Centers (GACCs), and at Operations centers.
 
 "(3) The Departments of the Interior and Agriculture shall provide a report to Congress detailing the number of positions, including by occupation, grade, and the aggregate pay by type of pay for each individual who receives pay authorized under subsection (a)(1).
 
-"(b) Any overtime pay for services described in subsection (a) that is payable under an authority outside of title 5, United States Code, shall be disregarded in calculating any annual limit on the amount of overtime pay payable in 2021 or 2022 or 2023.
+"(b) Any overtime pay for services described in subsection (a) that is payable under an authority outside of title 5, United States Code, shall be disregarded in calculating any annual limit on the amount of overtime pay payable in 2021 or 2022 or 2023 or 2024.
 
-"(c) Any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee's aggregate pay for purposes of applying the limitation in section 5307 of title 5, United States Code, during 2021 or 2022 or 2023.
+"(c) Any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee's aggregate pay for purposes of applying the limitation in section 5307 of title 5, United States Code, during 2021 or 2022 or 2023 or 2024.
 
 "(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee's basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code, as in effect at the end of such calendar year.
 
@@ -282,7 +286,7 @@ Overtime Authority.—Any overtime that is funded for such services described in
 
 "(c)
 
-Applicability of Aggregate Limitation on Pay.—In determining whether an employee's pay exceeds the applicable annual rate of basic pay payable under section 5307 of title 5, United States Code, the head of an Executive agency shall not include pay exempted under this section.
+Applicability of Aggregate Limitation on Pay.—In determining whether an employee's pay exceeds the applicable annual rate of basic pay payable under section 5307 of title 5, United States Code, thehead of an Executive agency shall not include pay exempted under this section.
 
 "(d)
 
@@ -294,17 +298,21 @@ Effective Date.—This section shall take effect as if enacted on January 1, 202
 
 #### Overtime Pay for Protective Services
 
-Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121; Pub. L. 116–269, §2(a), Dec. 30, 2020, 134 Stat. 3323, provided that:
+Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121; Pub. L. 116–269, §2(a), Dec. 30, 2020, 134 Stat. 3323; Pub. L. 118–38, §2(a), Feb. 6, 2024, 138 Stat. 13, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
 "This Act may be cited as the 'Overtime Pay for Protective Services Act of 2016'.
 
-#### "SEC. 2. PREMIUM PAY EXCEPTION DURING 2016 THROUGH 2023 FOR PROTECTIVE SERVICES.
+#### "SEC. 2. PREMIUM PAY EXCEPTION DURING 2016 THROUGH 2028 FOR PROTECTIVE SERVICES.
 
 "(a)
 
-Definition.—In this section, the term 'covered employee' means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during any of calendar years 2016 through 2023.
+Definitions.—In this section—
+
+&emsp;"(1) the term 'covered employee' means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during any of calendar years 2016 through 2028; and
+
+&emsp;"(2) the term 'protective services' does not include routine administrative or technical work that supports the daily operations of the United States Secret Service.
 
 "(b)
 
@@ -312,7 +320,7 @@ Exception to the Limitation on Premium Pay for Protective Services.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, including section 5547(a) of title 5, United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay for a given calendar year in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay during each of calendar years 2016 through 2023, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note).
+In general.—Notwithstanding any other provision of law, including section 5547(a) of title 5, United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay for a given calendar year in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay for protective services during each of calendar years 2016 through 2028, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note).
 
 &emsp;"(2)
 
@@ -328,11 +336,13 @@ Treatment of Additional Pay.—If subsection (b) results in the payment of addit
 
 "(d)
 
-Aggregate Limit.—With respect to the application of section 5307 of title 5, United States Code, the payment of any additional premium pay to a coveredemployee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee.
+Aggregate Limit.—With respect to the application of section 5307 of title 5, United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee.
 
 "(e)
 
 Effective Date.—This section and the amendments made by this section shall take effect as if enacted on December 31, 2015."
+
+\[Pub. L. 118–38, §2(b), Feb. 6, 2024, 138 Stat. 13, provided that: "If this Act \[amending Pub. L. 114–311, set out above\] is enacted after December 31, 2023 \[Pub. L. 118–38 approved Feb. 6, 2024\], the amendments made by subsection (a) shall take effect as if enacted on December 31, 2023."\]
 
 \[Pub. L. 115–160, §2(b), Apr. 3, 2018, 132 Stat. 1246, provided that: "The amendments made by subsection (a) \[amending Pub. L. 114–311, set out above, and section 1(a)(3) \[title I, §118\] of Pub. L. 106–554, set out below\] shall take effect as if enacted on December 31, 2016."\]
 

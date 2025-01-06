@@ -8,7 +8,7 @@
 
 (2) Subsection (b) of this section does not apply to a mixed-ownership Government corporation when the corporation has no capital of the Government.
 
-(3) Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when anannual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
+(3) Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when an annual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
 
 (Pub. L. 97–258, §§1, 2(l)(2), Sept. 13, 1982, 96 Stat. 1044, 1062; Pub. L. 97–452, §1(27), Jan. 12, 1983, 96 Stat. 2478.)
 
@@ -48,7 +48,7 @@ Dec. 6, 1945, ch. 577, §303(d)(1st sentence related to §302), 59 Stat. 602.
 
 31:867(last sentence).
 
-In subsection (a), the words "After June 30, 1949" are omitted as executed. The words "Government corporation" are substituted for "corporations or agencies subject to this chapter" because of section 9101(1) of the revised title. The words "notwithstanding the provisions of any other law", "or more . . . for banking and checking purposes", and "including amounts appropriated, from whatever source derived" are omitted as surplus. The words "if the cash will be expended as provided by law" are substituted for 31:870(proviso) to eliminate unnecessary words.
+In subsection (a), the words "After June 30, 1949" are omitted as executed. The words "Government corporation" are substituted for "corporations or agencies subject to this chapter" because of section 9101(1) of the revised title. The words "notwithstanding the provisions of any other law", "or more . . . for banking and checking purposes", and "including amounts appropriated, from whatever source derived" are omitted assurplus. The words "if the cash will be expended as provided by law" are substituted for 31:870(proviso) to eliminate unnecessary words.
 
 In subsections (b) and (c), the words "banking or checking" are omitted as surplus.
 

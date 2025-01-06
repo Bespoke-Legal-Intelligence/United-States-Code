@@ -12,15 +12,17 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) under this chapter, chapter 109A, chapter 110, or section 1591; or
 
-&emsp;&emsp;(B) under State law for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
+&emsp;&emsp;(B) under State law or the Uniform Code of Military Justice for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
 
 &emsp;(2) the term "State" means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 105–314, title I, §104(a), Oct. 30, 1998, 112 Stat. 2976; amended Pub. L. 108–21, title I, §106(b), Apr. 30, 2003, 117 Stat. 655; Pub. L. 110–457, title II, §224(c), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 115–392, §11(2), Dec. 21, 2018, 132 Stat. 5255.)
+(Added Pub. L. 105–314, title I, §104(a), Oct. 30, 1998, 112 Stat. 2976; amended Pub. L. 108–21, title I, §106(b), Apr. 30, 2003, 117 Stat. 655; Pub. L. 110–457, title II, §224(c), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 115–392, §11(2), Dec. 21, 2018, 132 Stat. 5255; Pub. L. 118–159, div. A, title V, §569(5), Dec. 23, 2024, 138 Stat. 1906.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1)(B). Pub. L. 118–159 inserted "or the Uniform Code of Military Justice" after "State law".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–392, §11(2)(A), substituted "3 times" for "twice".
 

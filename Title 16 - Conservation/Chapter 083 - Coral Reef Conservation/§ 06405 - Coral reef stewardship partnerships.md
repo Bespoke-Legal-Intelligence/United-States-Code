@@ -52,7 +52,7 @@ A coral reef stewardship partnership that has identified, as the subject of its 
 
 &emsp;&emsp;A representative of a Federal agency described in subparagraph (A) may become a member of a coral reef stewardship partnership described in paragraph (1) if—
 
-&emsp;&emsp;&emsp;(i) the representative submits a request to become a member to the chairperson of the partnership referred to in paragraph (1)(A); and
+&emsp;&emsp;&emsp;(i) the representative submits a request to become a member to the chairperson ofthe partnership referred to in paragraph (1)(A); and
 
 &emsp;&emsp;&emsp;(ii) the chairperson consents to the request.
 

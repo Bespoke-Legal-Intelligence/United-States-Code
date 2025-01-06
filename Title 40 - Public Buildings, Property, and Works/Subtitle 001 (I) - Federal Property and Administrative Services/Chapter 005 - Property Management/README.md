@@ -26,6 +26,7 @@
 | [527\.](Subchapter%20002%20%28II%29%20-%20Use%20of%20Property/%C2%A7%2000527%20-%20Abandonment%2C%20destruction%2C%20or%20donation%20of%20property.md) | Abandonment, destruction, or donation of property. |
 | [528\.](Subchapter%20002%20%28II%29%20-%20Use%20of%20Property/%C2%A7%2000528%20-%20Utilization%20of%20excess%20furniture.md) | Utilization of excess furniture. |
 | [529\.](Subchapter%20002%20%28II%29%20-%20Use%20of%20Property/%C2%A7%2000529%20-%20Annual%20executive%20agency%20reports%20on%20excess%20personal%20property.md) | Annual executive agency reports on excess personal property. |
+| [530\.](Subchapter%20002%20%28II%29%20-%20Use%20of%20Property/%C2%A7%2000530%20-%20Internal%20guidance%20on%20excess%20personal%20property.md) | Internal guidance on excess personal property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -116,13 +117,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 118–99, §2(e)(3), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this analysis is amended by striking item 530. See 2024 Amendment note below.</i>
+
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–99, §2(c), (e)(3), Oct. 1, 2024, 138 Stat. 1579, added item 530 and, effective 5 years after Oct. 1, 2024, struck out such item 530 "Internal guidance on excess personal property".
+
 <b>2022</b>—Pub. L. 117–328, div. Z, §103(b), Dec. 29, 2022, 136 Stat. 5527, added item 549a.
 
 <b>2016</b>—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024Amendment
+
+Pub. L. 118–99, §2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(3) is effective on the date that is 5 years after Oct. 1, 2024.
 
 
 ---

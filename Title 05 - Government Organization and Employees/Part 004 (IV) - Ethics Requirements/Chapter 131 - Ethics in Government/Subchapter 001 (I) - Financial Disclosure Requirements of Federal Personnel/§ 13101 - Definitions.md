@@ -44,7 +44,7 @@ Honoraria.—The term "honoraria" means the plural of "honorarium" as defined in
 
 &emsp;(7)
 
-Income.—The term "income" means all income from whatever source derived, including but not limited to the following items: compensation for services, including fees,commissions, and similar items; gross income derived from business (and net income if the individual elects to include it); gains derived from dealings in property; interest; rents; royalties; dividends; annuities; income from life insurance and endowment contracts; pensions; income from discharge of indebtedness; distributive share of partnership income; and income from an interest in an estate or trust.
+Income.—The term "income" means all income from whatever source derived, including but not limited to the following items: compensation for services, including fees, commissions, and similar items; gross income derived from business (and net income if the individual elects to include it); gains derived from dealings in property; interest; rents; royalties; dividends; annuities; income from life insurance and endowment contracts; pensions; income from discharge of indebtedness; distributive share of partnership income; and income from an interest in an estate or trust.
 
 &emsp;(8)
 
@@ -110,7 +110,7 @@ Reimbursement.—The term "reimbursement" means any payment or other thing of va
 
 &emsp;(16)
 
-Relative.—The term "relative" means an individual who is related to the reporting individual, as father, mother, son, daughter, brother, sister, uncle, aunt, great aunt, great uncle, first cousin, nephew, niece, husband, wife, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, or who is the grandfather or grandmother of the spouse of the reporting individual, and shall be deemed to include the fiance or fiancee of the reporting individual.
+Relative.—The term "relative" means an individual who is related to the reportingindividual, as father, mother, son, daughter, brother, sister, uncle, aunt, great aunt, great uncle, first cousin, nephew, niece, husband, wife, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, or who is the grandfather or grandmother of the spouse of the reporting individual, and shall be deemed to include the fiance or fiancee of the reporting individual.
 
 &emsp;(17)
 

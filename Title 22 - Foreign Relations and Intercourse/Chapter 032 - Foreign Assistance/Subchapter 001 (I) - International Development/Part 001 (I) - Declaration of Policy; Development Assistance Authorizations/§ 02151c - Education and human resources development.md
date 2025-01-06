@@ -40,7 +40,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 #### (D) Marginalized children and vulnerable groups
 
-&emsp;&emsp;The term "marginalized children and vulnerable groups" includes girls, children affected by or emerging from armed conflict or humanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
+&emsp;&emsp;The term "marginalized children and vulnerable groups" includes girls, children affected by or emerging from armed conflict orhumanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
 
 #### (E) National education plan
 
@@ -194,7 +194,7 @@ Pub. L. 115–442, §6, Jan. 14, 2019, 132 Stat. 5592, provided that: "The Secre
 
 #### Reinforcing Education Accountability in Development
 
-Pub. L. 115–56, div. A, Sept. 8, 2017, 131 Stat. 1129, provided that:
+Pub. L. 115–56, div. A, Sept. 8, 2017, 131 Stat. 1129, as amended by Pub. L. 118–159, div. G, title LXXVIII, §7812(e), Dec. 23, 2024, 138 Stat. 2566, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -232,7 +232,7 @@ Other Definitions.—In this Act, the terms 'basic education', 'marginalized chi
 
 "(a)
 
-Strategy Required.—Not later than one year after the date of the enactment of this Act \[Sept. 8, 2017\], the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during the following five fiscal years to promote quality basic education in partner countries by—
+Strategy Required.—Not later than December 31, 2025, the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during the following five fiscal years to promote quality basic education in partner countries by—
 
 &emsp;"(1) seeking to equitably expand access to basic education for all children, particularly marginalized children and vulnerable groups; and
 
@@ -262,7 +262,7 @@ Elements.—The strategy required under subsection (a)—
 
 &emsp;"(2) shall seek—
 
-&emsp;&emsp;"(A) to prioritize assistance provided under this subsection to countries that are partners of theUnited States and whose populations are most in need of improved basic education, as determined by indicators such as literacy and numeracy rates;
+&emsp;&emsp;"(A) to prioritize assistance provided under this subsection to countries that are partners of the United States and whose populations are most in need of improved basic education, as determined by indicators such as literacy and numeracy rates;
 
 &emsp;&emsp;"(B) to build the capacity of relevant actors in partner countries, including in government and in civil society, to develop and implement national education plans that measurably improve basic education;
 
@@ -280,7 +280,7 @@ Elements.—The strategy required under subsection (a)—
 
 "(a)
 
-Senior Coordinator of United States International Basic Education Assistance.—There is established within the United States Agency for International Development a Senior Coordinator of United States International Basic Education Assistance (referred to in this section as the 'Senior Coordinator'). The Senior Coordinator shall be appointed by the President, shall be a current USAID employee serving in a career or noncareer position in the Senior Executive Service or at the level of a Deputy Assistant Administrator or higher, and shall serve concurrently as the Senior Coordinator.
+Senior Coordinator of United States International Basic Education Assistance.—There is established within the United States Agency for International Development a Senior Coordinator of UnitedStates International Basic Education Assistance (referred to in this section as the 'Senior Coordinator'). The Senior Coordinator shall be appointed by the President, shall be a current USAID employee serving in a career or noncareer position in the Senior Executive Service or at the level of a Deputy Assistant Administrator or higher, and shall serve concurrently as the Senior Coordinator.
 
 "(b)
 
@@ -350,7 +350,7 @@ Matters To Be Included.—The report required under subsection (a) shall include
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Authorities Under the Reinforcing Education Accountability in Development Act
 

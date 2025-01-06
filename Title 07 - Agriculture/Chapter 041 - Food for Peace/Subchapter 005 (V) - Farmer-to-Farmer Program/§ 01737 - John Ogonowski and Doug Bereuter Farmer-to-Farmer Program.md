@@ -18,7 +18,7 @@ In this section:
 
 #### (3) Middle income country
 
-&emsp;The term "middle income country" means a country that has developed economically to the point at which the country does not receive bilateral development assistance from the United States.
+&emsp;The term "middle income country" means a country that has developed economically tothe point at which the country does not receive bilateral development assistance from the United States.
 
 #### (4) Sub-Saharan African country
 

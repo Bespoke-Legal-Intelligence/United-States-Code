@@ -136,7 +136,7 @@ Section 1. <i>Policy</i>. To ensure that the Federal Government appropriately su
 
 Sec. 2. <i>Establishment of Council</i>. (a) There is hereby established, within the Department of Homeland Security for administrative purposes, the Interagency Coordinating Council on Emergency Preparedness and Individuals with Disabilities (the "Council"). The Council shall consist exclusively of the following members or their designees:
 
-&emsp;(i) the heads of executive departments, the Administrator of the Environmental Protection Agency, the Administrator of General Services, the Director of the Office of Personnel Management, and the Commissioner of Social Security; and
+&emsp;(i) the heads of executive departments, the Administrator of the Environmental Protection Agency, theAdministrator of General Services, the Director of the Office of Personnel Management, and the Commissioner of Social Security; and
 
 &emsp;(ii) any other agency head as the Secretary of Homeland Security may, with the concurrence of the agency head, designate.
 

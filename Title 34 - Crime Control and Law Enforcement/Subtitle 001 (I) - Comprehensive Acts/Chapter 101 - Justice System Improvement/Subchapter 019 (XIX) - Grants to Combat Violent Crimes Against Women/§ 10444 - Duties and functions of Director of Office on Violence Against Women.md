@@ -44,7 +44,7 @@ The Violence Against Women and Department of Justice Reauthorization Act of 2005
 
 The Violence Against Women Reauthorization Act of 2013, referred to in par. (5), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under section 10101 of this title, and Tables.
 
-The Violence Against Women Act Reauthorization Act of 2022, referred to in par. (5), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under section 10101 of this title, and Tables.
+The Violence Against Women Act Reauthorization Act of 2022, referred to in par. (5), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under section 10101 of this title, and Tables.
 
 #### Codification
 
@@ -58,7 +58,7 @@ A prior section 2004 of Pub. L. 90–351 was renumbered section 2009 and is clas
 
 <b>2022</b>—Pub. L. 117–103, §901(c)(1), substituted "Office on Violence Against Women" for "Violence Against Women Office" in section catchline.
 
-Par. (5). Pub. L. 117–103, §901(c)(2), in introductory provisions, substituted "103–322), the Violence" for "103–322) and the Violence" and ", the ViolenceAgainst Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Act Reauthorization Act of 2022, including with" for ", including with".
+Par. (5). Pub. L. 117–103, §901(c)(2), in introductory provisions, substituted "103–322), the Violence" for "103–322) and the Violence" and ", the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Act Reauthorization Act of 2022, including with" for ", including with".
 
 Par. (6)(B). Pub. L. 117–103, §901(c)(3), inserted "synchronize Federal definitions and protocols," before "and improve coordination".
 
@@ -66,7 +66,7 @@ Par. (6)(B). Pub. L. 117–103, §901(c)(3), inserted "synchronize Federal defin
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ The Secretary and the Secretary of the Department in which the Coast Guard is op
 
 &emsp;(1) scheduled onsite inspection, at least once a year, of each facility on the outer Continental Shelf which is subject to any environmental or safety regulation promulgated pursuant to this subchapter, which inspection shall include all safety equipment designed to prevent or ameliorate blowouts, fires, spillages, or other major accidents; and
 
-&emsp;(2) periodic onsite inspection without advance notice to the operator of such facility toassure compliance with such environmental or safety regulations.
+&emsp;(2) periodic onsite inspection without advance notice to the operator of such facility to assure compliance with such environmental or safety regulations.
 
 #### (d) Investigation and report on major fires, oil spills, death, or serious injury
 

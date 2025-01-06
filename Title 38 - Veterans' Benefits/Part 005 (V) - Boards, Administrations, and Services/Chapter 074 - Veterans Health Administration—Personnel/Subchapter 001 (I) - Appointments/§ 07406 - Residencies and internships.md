@@ -1,6 +1,6 @@
 ### §7406. Residencies and internships
 
-(a)(1) The Secretary may establish residencies and internships. The Secretary may appoint qualified persons to such positions without regard to civil service or classification laws, rules, or regulations.
+(a)(1) The Secretary may establish residencies and internships. The Secretary may appointqualified persons to such positions without regard to civil service or classification laws, rules, or regulations.
 
 (2) For the purposes of this section:
 

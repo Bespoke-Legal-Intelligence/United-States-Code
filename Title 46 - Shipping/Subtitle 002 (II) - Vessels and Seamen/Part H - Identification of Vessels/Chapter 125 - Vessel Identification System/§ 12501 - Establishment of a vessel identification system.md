@@ -60,7 +60,7 @@ Section effective Jan. 1, 1989, with certain exceptions and qualifications, see 
 
 #### Records and Other Information; Establishment, Centralization and Computerization
 
-Pub. L. 100–710, title I, §104(e)(2), Nov. 23, 1988, 102 Stat. 4751, provided that: "To establish, centralize, and computerize records and other information maintained under chapters 121, 125, and 313 of title 46, United StatesCode, from the effective date of this title \[Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title\] through September 30, 1993, the Secretary of Transportation shall spend (out of amounts appropriated for the Department of Transportation under an appropriations law) not less than an amount that is equal to the amounts estimated to be—
+Pub. L. 100–710, title I, §104(e)(2), Nov. 23, 1988, 102 Stat. 4751, provided that: "To establish, centralize, and computerize records and other information maintained under chapters 121, 125, and 313 of title 46, United States Code, from the effective date of this title \[Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 31301 of this title\] through September 30, 1993, the Secretary of Transportation shall spend (out of amounts appropriated for the Department of Transportation under an appropriations law) not less than an amount that is equal to the amounts estimated to be—
 
 &emsp;"(A) collected under section 9701 of title 31, United States Code, for fees paid for services and things of value provided under chapter 313 of title 46, United States Code (as enacted by section 101 of this Act), and for documenting vessels under chapter 121 of title 46; and
 

@@ -2,9 +2,9 @@
 
 (a)
 
-General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
+General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $75,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(a)(22) (including any assurance made under such section), section 47107(b) (including any assurance made under such section), or section 47133 of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -50,11 +50,11 @@ Penalties applicable to individuals and small business concerns.—
 
 (6)
 
-Failure To Collect Airport Security Badges <sup>1</sup>.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+Failure to collect airport security badges.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 
 (7)
 
-Penalties Relating to Harm to Passengers With Disabilities <sup>1</sup>.—
+Penalties relating to harm to passengers with disabilities.—
 
 &emsp;(A)
 
@@ -63,6 +63,10 @@ Penalty for bodily harm or damage to wheelchair or other mobility aid.—The amo
 &emsp;(B)
 
 Each act constitutes separate offense.—Notwithstanding paragraph (2), a separate violation of section 41705 occurs for each act of discrimination prohibited by that section.
+
+(8)
+
+Failure to Continue Offering Aviation Fuel <sup>1</sup>.—Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 47107(a)(22) (including any assurance made under such section) committed by a person, including if the person is an individual or a small business concern, shall be $5,000 for each day that the person is in violation of that section.
 
 (b)
 
@@ -96,7 +100,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) "repairman" means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary of Transportation under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator of the Federal Aviation Administration shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 42121, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary of Transportation under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator of the Federal Aviation Administration shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator of the Federal Aviation Administration under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -104,11 +108,13 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(A) the amount in controversy is more than—
 
-&emsp;&emsp;(i) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+&emsp;&emsp;(i) $400,000 if the violation was committed by any person other than an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
 
-&emsp;&emsp;(ii) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+&emsp;&emsp;(ii) $50,000 if the violation was committed by an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
 
-&emsp;&emsp;(iii) $50,000 if the violation was committed by an individual or small business concern on or after that date;
+&emsp;&emsp;(iii) $1,200,000 if the violation was committed by a person other than an individual or small business concern on or after the date of enactment of the FAA Reauthorization Act of 2024; or
+
+&emsp;&emsp;(iv) $100,000 if the violation was committed by an individual on or after the date of enactment of the FAA Reauthorization Act of 2024;
 
 &emsp;(B) the action is in rem or another action in rem based on the same violation has been brought;
 
@@ -124,9 +130,9 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator of the Federal Aviation Administration is stayed.
 
-(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator of the Federal Aviation Administration when the Administrator of the Federal Aviation Administration decides that an order of the Board under paragraph (5) will have a significant adverse impacton carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator of the Federal Aviation Administration shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator of the Federal Aviation Administration when the Administrator of the Federal Aviation Administration decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator of the Federal Aviation Administration shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(7)(A) The Administrator of the Federal Aviation Administration may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+(7)(A) The Administrator of the Federal Aviation Administration may impose a penalty on a person (except an individual acting as a pilot,flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
 
 (B) In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator of the Federal Aviation Administration shall consider only whether—
 
@@ -148,11 +154,13 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (8) The maximum civil penalty the Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, or Board may impose under this subsection is—
 
-&emsp;(A) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+&emsp;(A) $400,000 if the violation was committed by a person other than an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
 
-&emsp;(B) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+&emsp;(B) $50,000 if the violation was committed by an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
 
-&emsp;(C) $50,000 if the violation was committed by an individual or small business concern on or after that date.
+&emsp;(C) $1,200,000 if the violation was committed by a person other than an individual or small business concern on or after the date of enactment of the FAA Reauthorization Act of 2024; or
+
+&emsp;(D) $100,000 if the violation was committed by an individual on or after the date of enactment of the FAA Reauthorization Act of 2024.
 
 (9) This subsection applies only to a violation occurring after August 25, 1992.
 
@@ -196,7 +204,11 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 Small Business Concern Defined.—In this section, the term "small business concern" has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E,title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981; Pub. L. 112–95, title IV, §415(b), title VIII, §803, Feb. 14, 2012, 126 Stat. 96, 119; Pub. L. 113–188, title XV, §1501(b)(2)(B), Nov. 26, 2014, 128 Stat. 2024; Pub. L. 114–190, title II, §2205(b), July 15, 2016, 130 Stat. 631; Pub. L. 115–254, div. B, title III, §372(e), title IV, §436, div. K, title I, §1991(g)(1), Oct. 5, 2018, 132 Stat. 3312, 3344, 3643.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981; Pub. L. 112–95, title IV, §415(b), title VIII, §803, Feb. 14, 2012, 126 Stat. 96, 119; Pub. L. 113–188, title XV, §1501(b)(2)(B), Nov. 26, 2014, 128Stat. 2024; Pub. L. 114–190, title II, §2205(b), July 15, 2016, 130 Stat. 631; Pub. L. 115–254, div. B, title III, §372(e), title IV, §436, div. K, title I, §1991(g)(1), Oct. 5, 2018, 132 Stat. 3312, 3344, 3643; Pub. L. 118–63, title III, §§345, 371, title V, §§504(b), 507(a), title VII, §770(b), title XI, §1101(t), May 16, 2024, 138 Stat. 1102, 1139, 1191, 1193, 1295, 1414.)
+
+#### Amendment of Subsection (a)(1)(A)
+
+<i>Pub. L. 118–63, title V, §504(b), (d), May 16, 2024, 138 Stat. 1191, provided that, effective on the date that is 1 year after May 16, 2024, subsection (a)(1)(A) of this section is amended by striking "chapter 423" and inserting "chapter 423 (except section 42306)". See 2024 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -358,7 +370,7 @@ In subsection (f)(2), the word "imposed" is substituted for "when finally determ
 
 In subsection (g), the word "imposing" is substituted for "assessing" for consistency.
 
-In subsection (h)(2), the words "with respect thereto" are omitted as surplus. The word "Administrator" in section 901(a)(1) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) is retained on authority of 49:106(g).
+In subsection (h)(2), the words "with respect thereto" are omitted as surplus. The word "Administrator" insection 901(a)(1) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) is retained on authority of 49:106(g).
 
 #### Pub. L. 103–429
 
@@ -382,9 +394,47 @@ These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the
 
 The date of enactment of this paragraph, referred to in subsec. (a)(6), is the date of enactment of Pub. L. 110–161, which was approved Dec. 26, 2007.
 
-The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+The date of enactment of the FAA Reauthorization Act of 2024, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–63, §507(a), substituted "$75,000" for "$25,000" in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 118–63, §770(b)(1), inserted "section 47107(a)(22) (including any assurance made under such section)," after "chapter 451,".
+
+Pub. L. 118–63, §504(b), substituted "chapter 423 (except section 42306)" for "chapter 423".
+
+Subsec. (a)(6). Pub. L. 118–63, §1101(t)(1), substituted "
+
+Failure to collect airport security badges" for "
+
+Failure To Collect Airport Security Badges" in heading.
+
+Subsec. (a)(7). Pub. L. 118–63, §1101(t)(2), substituted "
+
+Penalties relating to harm to passengers with disabilities" for "
+
+Penalties Relating to Harm to Passengers With Disabilities" in heading.
+
+Subsec. (a)(8). Pub. L. 118–63, §770(b)(2), added par. (8).
+
+Subsec. (d)(2). Pub. L. 118–63, §371, inserted "section 42121," before "chapter 441".
+
+Subsec. (d)(4)(A). Pub. L. 118–63, §345(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "the amount in controversy is more than—
+
+&emsp;"(i) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+
+&emsp;"(ii) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+
+&emsp;"(iii) $50,000 if the violation was committed by an individual or small business concern on or after that date;".
+
+Subsec. (d)(8). Pub. L. 118–63, §345(2), added par. (8) and struck out former par. (8) which read as follows: "The maximum civil penalty the Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, or Board may impose under this subsection is—
+
+&emsp;"(A) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+
+&emsp;"(B) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+
+&emsp;"(C) $50,000 if the violation was committed by an individual or small business concern on or after that date."
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–254, §372(e)(1), inserted "chapter 448," after "chapter 447 (except sections 44717 and 44719–44723),".
 
@@ -426,7 +476,7 @@ Pub. L. 112–95, §803(2)(A), which directed the substitution of "chapter 449" 
 
 Subsec. (c)(1)(A). Pub. L. 112–95, §415(b), inserted "chapter 423," after "chapter 421,".
 
-Subsec. (d)(2). Pub. L. 112–95, §803(3), substituted "44723), chapter 451," for "44723) or", "section 46302" for "46302", "section 46318, section 46319, or section 47107(b)" for "46318, or 47107(b)" in first sentence , and "section 46302" for "46302", "or section 46303 of this title" for "46303,", and "any of those provisions" for "such chapter 449" in second sentence.
+Subsec. (d)(2). Pub. L. 112–95, §803(3), substituted "44723), chapter 451," for "44723) or", "section 46302" for"46302", "section 46318, section 46319, or section 47107(b)" for "46318, or 47107(b)" in first sentence , and "section 46302" for "46302", "or section 46303 of this title" for "46303,", and "any of those provisions" for "such chapter 449" in second sentence.
 
 Subsec. (f)(1)(A)(i). Pub. L. 112–95, §803(4), substituted "chapter 449" for "or chapter 449" and inserted ", or chapter 451" after "44909)".
 
@@ -546,7 +596,7 @@ Pub. L. 104–264, §1220(b), which directed amendment of par. (2) by inserting 
 
 Pub. L. 104–264, §502(c)(1), which directed amendment of par. (2) by inserting "44724," after "44718(d),", was repealed by Pub. L. 105–102.
 
-Subsec. (f)(1)(A)(i). Pub. L. 104–287, §5(77)(F), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)" for "or any of sections44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938".
+Subsec. (f)(1)(A)(i). Pub. L. 104–287, §5(77)(F), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)" for "or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938".
 
 Pub. L. 104–264, §1220(b), which directed amendment of cl. (i) by inserting "44718(d)," after "44716,", was repealed by Pub. L. 105–102.
 
@@ -577,6 +627,12 @@ Subsec. (d)(7)(D). Pub. L. 103–305, §112(c)(3), added subpar. (D).
 Subsec. (f)(1)(A)(i). Pub. L. 103–429, §6(60)(B), substituted "any of sections 44701(a)" for "section 44701(a)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Amendment by section 504(b) of Pub. L. 118–63 effective 1 year after May 16, 2024, see section 504(d) of Pub. L. 118–63, set out as an Effective Date note under section 42306 of this title.
+
+Pub. L. 118–63, title V, §507(b), May 16, 2024, 138 Stat. 1193, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to violations occurring on or after the date of enactment of this Act \[May 16, 2024\]."
 
 #### Effective Date of 2003 Amendment
 
@@ -610,17 +666,21 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see section 207(d) of Pub. L. 103–305, set out as an Effective Date note under section 41719 of this title.
 
+#### Conforming Regulations
+
+Pub. L. 118–63, title V, §507(c), May 16, 2024, 138 Stat. 1193, provided that: "The Secretary \[of Transportation\] shall revise such regulations as necessary to conform to the amendment made by subsection (a) \[amending this section\]."
+
 #### Savings Provision
 
 Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: "Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment."
 
 #### Laser Pointer Incidents
 
-Pub. L. 114–190, title II, §2104, July 15, 2016, 130 Stat. 620, provided that:
+Pub. L. 114–190, title II, §2104, July 15, 2016, 130 Stat. 620, as amended by Pub. L. 118–63, title II, §218(m), May 16, 2024, 138 Stat. 1057, provided that:
 
 "(a)
 
-In General.—Beginning 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide quarterly updates to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] regarding—
+In General.—Beginning 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide annually an annual \[sic\] briefing to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] regarding—
 
 &emsp;"(1) the number of incidents involving the beam from a laser pointer (as defined in section 39A of title 18, United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States;
 
@@ -632,7 +692,11 @@ In General.—Beginning 90 days after the date of enactment of this Act \[July 1
 
 "(b)
 
-Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000."
+Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000.
+
+"(c)
+
+Report Sunset.—Subsection (a) shall cease to be effective after September 30, 2028."
 
 <i><sup>1</sup></i><i> So in original. Words following initial word in par. heading probably should not be capitalized.</i>
 

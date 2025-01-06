@@ -18,7 +18,7 @@ Provision of Meals and Refreshments.—For purposes of section 520c of this titl
 
 (c)
 
-Recognition Items of Nominal or Modest Value.—In this section, the term "recognitionitem of nominal or modest value" means a commemorative coin, medal, trophy, badge, flag, poster, painting, or other similar item that is valued at less than $50 per item and is designed to recognize or commemorate service in the armed forces.
+Recognition Items of Nominal or Modest Value.—In this section, the term "recognition item of nominal or modest value" means a commemorative coin, medal, trophy, badge, flag, poster, painting, or other similar item that is valued at less than $50 per item and is designed to recognize or commemorate service in the armed forces.
 
 (Added Pub. L. 109–163, div. A, title V, §589(a)(1), Jan. 6, 2006, 119 Stat. 3279; amended Pub. L. 109–364, div. A, title V, §594, Oct. 17, 2006, 120 Stat. 2235.)
 

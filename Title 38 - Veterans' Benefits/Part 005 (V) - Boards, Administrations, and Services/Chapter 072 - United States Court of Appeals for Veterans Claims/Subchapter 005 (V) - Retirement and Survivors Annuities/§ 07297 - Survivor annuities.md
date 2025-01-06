@@ -22,7 +22,7 @@
 
 (c) There shall be deducted and withheld each pay period from the pay of a judge who has made an election under subsection (b) of this section a sum equal to that percentage of the judge's pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under section 376(b)(1)(B) of title 28. Amounts so deducted and withheld shall be deposited in the retirement fund. A judge who makes an election under subsection (b) of this section shall be considered by that election to agree to the deductions from the judge's pay required by this subsection.
 
-(d)(1) A judge who makes an election under subsection (b) of this section shall deposit, with interest at 3 percent per year compounded on December 31 of each year, to the credit of the retirement fund, an amount equal to 3.5 percent of the judge's pay and of the judge's basic salary, pay, or compensation for service as a Member of Congress, and for any other civilian service within the purview of section 8332 of title 5. Each such judge may elect to make such deposits in installments during the judge's period of service in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge to make such deposit, credit shall be allowed for the service rendered, but the annual annuity of the surviving spouse of such judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge, unless the surviving spouse elects to eliminate such service entirely from credit under subsection (k) of this section. However, a deposit shall not be required from a judge for any year with respect to which deductions from the judge's pay, or a deposit, were actually made (and not withdrawn) under the civil service retirement laws.
+(d)(1) A judge who makes an election under subsection (b) of this section shall deposit, with interest at 3 percent per year compounded on December 31 of each year, to the credit of the retirement fund, an amount equal to 3.5 percent of the judge's pay and of the judge's basic salary, pay, or compensation for service as a Member of Congress, and for any other civilian service within the purview of section 8332 of title 5. Each such judge may elect to make such deposits in installments during the judge's period of service in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge to make such deposit, credit shall be allowed for the service rendered, but the annual annuity of the surviving spouse of such judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed asof the date of the death of such judge, unless the surviving spouse elects to eliminate such service entirely from credit under subsection (k) of this section. However, a deposit shall not be required from a judge for any year with respect to which deductions from the judge's pay, or a deposit, were actually made (and not withdrawn) under the civil service retirement laws.
 
 (2) The interest required under the first sentence of paragraph (1) shall not be required for any period—
 
@@ -64,7 +64,7 @@
 
 (5) If a judge dies as a result of an assassination and leaves a survivor or survivors who are otherwise entitled to receive annuity payments under this section, the 18-month requirement in the matter in paragraph (1) preceding subparagraph (A) shall not apply.
 
-(g) Questions of family relationships, dependency, and disability arising under this sectionshall be determined in the same manner as such questions arising under chapter 84 of title 5 are determined.
+(g) Questions of family relationships, dependency, and disability arising under this section shall be determined in the same manner as such questions arising under chapter 84 of title 5 are determined.
 
 (h)(1) If—
 
@@ -124,7 +124,7 @@
 
 (m) Nothing contained in this section shall be construed to prevent a surviving spouse eligible therefor from simultaneously receiving an annuity under this section and any annuity to which such spouse would otherwise be entitled under any other law without regard to this section, but in computing such other annuity service used in the computation of such spouse's annuity under this section shall not be credited.
 
-(n) A judge making an election under subsection (b) of this section shall, at the time of such election, waive all benefits under the civil service retirement laws except section 8440d of title 5. Such a waiver shall be made in the same manner and shall have the same force and effect as an election filed under section 7296(d) of this title.
+(n) A judge making an election under subsection (b) of this section shall, at the time of such election, waive all benefits under the civil service retirement laws except section 8440d of title 5. Such a waiver shall be made in the samemanner and shall have the same force and effect as an election filed under section 7296(d) of this title.
 
 (o) Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors' Annuities Fund are increased pursuant to section 376(m) of title 28.
 
@@ -200,7 +200,7 @@ Subsec. (o). Pub. L. 102–40, §402(d)(1), substituted "7253(e)" for "4053(e)".
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbentchief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
+Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -10,7 +10,7 @@ The Alien Property Custodian shall not make any such waiver or compromise except
 
 #### (c) Waiver of demand where property interest not vested prior to March 10, 1928
 
-Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928, vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
+Where the Alien Property Custodian has made demand or requirement for the conveyance,transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928, vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
 
 #### (d) Construction
 
@@ -18,7 +18,7 @@ Nothing in this section shall be construed as requiring the Alien Property Custo
 
 #### (e) Received property considered part of trust
 
-All money or other property received by the Alien Property Custodian as a result of any action or proceeding (whether begun before orafter March 10, 1928, and whether or not for the enforcement of a demand or requirement as above specified) shall for the purposes of this chapter be considered as forming a part of the trust in respect of which such action or proceeding was brought, and shall be subject to return in the same manner and upon the same conditions as any other money or property in such trust, except as otherwise provided in subsection (b) of this section.
+All money or other property received by the Alien Property Custodian as a result of any action or proceeding (whether begun before or after March 10, 1928, and whether or not for the enforcement of a demand or requirement as above specified) shall for the purposes of this chapter be considered as forming a part of the trust in respect of which such action or proceeding was brought, and shall be subject to return in the same manner and upon the same conditions as any other money or property in such trust, except as otherwise provided in subsection (b) of this section.
 
 (Oct. 6, 1917, ch. 106, §29, as added Mar. 10, 1928, ch. 167, §15, 45 Stat. 274.)
 

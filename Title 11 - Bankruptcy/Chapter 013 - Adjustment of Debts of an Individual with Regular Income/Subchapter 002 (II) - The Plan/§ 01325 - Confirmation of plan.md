@@ -116,7 +116,7 @@ Subsec. (b)(2)(A)(ii). Pub. L. 111–327, §2(a)(44)(B), inserted closing parent
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–439 inserted ", other than subparagraph (A)(ii) of paragraph (2)," after "under paragraph (2)" in introductory provisions.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–8, §306(b), inserted concluding provisions at end "For purposes of paragraph (5), section 506 shall not apply to a claim described inthat paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing."
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, §306(b), inserted concluding provisions at end "For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing."
 
 Subsec. (a)(5)(B)(i). Pub. L. 109–8, §306(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the plan provides that the holder of such claim retain the lien securing such claim; and".
 
@@ -132,7 +132,7 @@ Subsec. (b)(1)(B). Pub. L. 109–8, §318(2), substituted "applicable commitment
 
 Pub. L. 109–8, §102(h)(1), inserted "to unsecured creditors" after "to make payments".
 
-Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "For purposes of this subsection, 'disposable income' means income which is received by the debtor and which is not reasonably necessary to be expended—
+Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "For purposes of this subsection, 'disposableincome' means income which is received by the debtor and which is not reasonably necessary to be expended—
 
 &emsp;"(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of 'charitable contribution' under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
 

@@ -100,7 +100,7 @@ In this section:
 
 &emsp;&emsp;(B) may, in the case of a homeowner who is not low-income, offer to replace the privately owned portion of the lead service line at the cost of replacement for that homeowner's property;
 
-&emsp;&emsp;(C) shall, in the case of a low-income homeowner, and may, for other homeowners, offer to replace the privately owned portionof the lead service line at no cost to the homeowner;
+&emsp;&emsp;(C) shall, in the case of a low-income homeowner, and may, for other homeowners, offer to replace the privately owned portion of the lead service line at no cost to the homeowner;
 
 &emsp;&emsp;(D) shall notify each customer that a planned replacement of any publicly owned portion of a lead service line that is funded by a grant made under this subsection will not be carried out unless the customer agrees to the simultaneous replacement of the privately owned portion of the lead service line;
 
@@ -190,13 +190,13 @@ Subsec. (b)(5)(B). Pub. L. 117–58, §50105(2)(A)(ii), substituted "lines" for 
 
 Subsec. (b)(6)(A). Pub. L. 117–58, §50105(2)(B)(i), struck out "any publicly owned portion of" before "the lead".
 
-Subsec. (b)(6)(C). Pub. L. 117–58, §50105(2)(B)(ii), substituted "shall, in the case of a low-income homeowner,and may, for other homeowners, offer to replace the privately owned portion of the lead service line at no cost to the homeowner;" for "may, in the case of a low-income homeowner, offer to replace the privately owned portion of the lead service line at a cost that is equal to the difference between—
+Subsec. (b)(6)(C). Pub. L. 117–58, §50105(2)(B)(ii), substituted "shall, in the case of a low-income homeowner, and may, for other homeowners, offer to replace the privately owned portion of the lead service line at no cost to the homeowner;" for "may, in the case of a low-income homeowner, offer to replace the privately owned portion of the lead service line at a cost that is equal to the difference between—
 
 &emsp;"(i) the cost of replacement; and
 
 &emsp;"(ii) the amount of assistance available to the low-income homeowner under paragraph (5);".
 
-Subsec. (b)(6)(E). Pub. L. 117–58, §50105(2)(B)(iv), substituted "feasible alternatives for reducing the concentration of lead in drinking water, such as corrosion control; and" for "other options for reducing the concentration of lead in its drinking water, including an evaluation of options for corrosion control.".
+Subsec. (b)(6)(E). Pub. L. 117–58, §50105(2)(B)(iv), substituted "feasible alternatives for reducing the concentration of lead in drinking water, such as corrosion control; and" for "other options for reducing the concentration of lead in its drinking water, including an evaluation of options for corrosion control."
 
 Subsec. (b)(6)(F). Pub. L. 117–58, §50105(2)(B)(iii), (v), added subpar. (F).
 

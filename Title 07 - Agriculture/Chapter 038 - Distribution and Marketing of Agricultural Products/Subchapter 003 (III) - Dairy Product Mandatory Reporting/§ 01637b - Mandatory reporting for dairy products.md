@@ -28,7 +28,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(A) the information referred to in paragraph (1)(A)(i) is required only with respect to those package sizes actually used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order;
 
-&emsp;&emsp;(B) the information referred to in paragraph (1)(A)(i) is required only to the extentthat the information is actually used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order;
+&emsp;&emsp;(B) the information referred to in paragraph (1)(A)(i) is required only to the extent that the information is actually used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order;
 
 &emsp;&emsp;(C) the frequency of the required reporting under paragraph (1)(A)(i) does not exceed the frequency used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order; and
 
@@ -116,7 +116,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (2) Publication
 
-&emsp;Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shall publish a report containing the information obtained under this section for the preceding week.
+&emsp;Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shallpublish a report containing the information obtained under this section for the preceding week.
 
 #### (e) Authorization of appropriations
 

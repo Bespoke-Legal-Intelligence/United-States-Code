@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator is authorized to prescribe regulations establishing the general method or methods by which proved and approved claims for losses may be adjusted and paid for any damage to or loss of property which is covered by flood insurance made available under the provisions of this chapter.
+The Administrator is authorized to prescribe regulations establishing the general method ormethods by which proved and approved claims for losses may be adjusted and paid for any damage to or loss of property which is covered by flood insurance made available under the provisions of this chapter.
 
 #### (b) Minimum annual deductible
 
@@ -52,5 +52,5 @@ Section effective 120 days following Aug. 1, 1968, or such later date prescribed
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) andsections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

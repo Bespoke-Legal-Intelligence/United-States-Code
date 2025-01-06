@@ -1,6 +1,6 @@
 ### §3030b. Recapture of payments made for multipurpose senior centers
 
-If, within 10 years after acquisition, or within 20 years after the completion of construction, ofany facility for which funds have been paid under this subchapter—
+If, within 10 years after acquisition, or within 20 years after the completion of construction, of any facility for which funds have been paid under this subchapter—
 
 &emsp;(1) the owner of the facility ceases to be a public or nonprofit private agency or organization; or
 

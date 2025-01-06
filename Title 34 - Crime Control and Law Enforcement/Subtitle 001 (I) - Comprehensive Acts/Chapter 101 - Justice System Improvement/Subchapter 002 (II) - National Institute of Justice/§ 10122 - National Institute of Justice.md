@@ -12,7 +12,7 @@ The Institute shall be headed by a Director appointed by the President. The Dire
 
 The Institute is authorized to—
 
-&emsp;(1) make grants to, or enter into cooperative agreements or contracts with, public agencies, institutions of higher education, private organizations, or individuals to conduct research, demonstrations, or special projects pertaining to the purposes described in this subchapter, and provide technical assistance and training in support of tests, demonstrations, and special projects;
+&emsp;(1) make grants to, or enter into cooperative agreements or contracts with, public agencies, institutions of higher education, private organizations, or individuals to conduct research, demonstrations, or special projects pertainingto the purposes described in this subchapter, and provide technical assistance and training in support of tests, demonstrations, and special projects;
 
 &emsp;(2) conduct or authorize multiyear and short-term research and development concerning the criminal and civil justice systems in an effort—
 

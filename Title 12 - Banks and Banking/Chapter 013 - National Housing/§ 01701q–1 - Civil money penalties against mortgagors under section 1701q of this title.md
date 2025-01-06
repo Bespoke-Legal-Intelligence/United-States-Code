@@ -32,9 +32,9 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(F) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account, the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
 
-&emsp;&emsp;(G) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for suchservices, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
+&emsp;&emsp;(G) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
-&emsp;&emsp;(H) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
+&emsp;&emsp;(H) Failure to maintain at any time the mortgaged property, equipment, buildings,plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
 
 &emsp;&emsp;(I) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 

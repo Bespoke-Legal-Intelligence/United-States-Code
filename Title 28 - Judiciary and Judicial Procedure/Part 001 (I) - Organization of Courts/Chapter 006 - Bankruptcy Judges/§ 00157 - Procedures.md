@@ -42,7 +42,7 @@
 
 (4) Non-core proceedings under section 157(b)(2)(B) of title 28, United States Code, shall not be subject to the mandatory abstention provisions of section 1334(c)(2).
 
-(5) The district court shall order that personal injury tort and wrongful death claims shall be tried in the district court in which the bankruptcy case is pending, or in the district court in the district in which the claim arose, as determined by the district court in which the bankruptcy case is pending.
+(5) The district court shall order that personal injury tort and wrongful death claims shall betried in the district court in which the bankruptcy case is pending, or in the district court in the district in which the claim arose, as determined by the district court in which the bankruptcy case is pending.
 
 (c)(1) A bankruptcy judge may hear a proceeding that is not a core proceeding but that is otherwise related to a case under title 11. In such proceeding, the bankruptcy judge shall submit proposed findings of fact and conclusions of law to the district court, and any final order or judgment shall be entered by the district judge after considering the bankruptcy judge's proposed findings and conclusions and after reviewing de novo those matters to which any party has timely and specifically objected.
 

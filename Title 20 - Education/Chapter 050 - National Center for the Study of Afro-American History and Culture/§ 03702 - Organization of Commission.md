@@ -52,7 +52,7 @@ The Commission shall elect a chairman and other officers from among its members 
 
 #### (h) Meetings
 
-The Commission shall meet at the call of the chairman or a majority of its members, but not less than two times each year. The headquarters of the Commission shall be at Wilberforce, Ohio, and the Commission shall conduct its meetingsin such city unless circumstances otherwise require.
+The Commission shall meet at the call of the chairman or a majority of its members, but not less than two times each year. The headquarters of the Commission shall be at Wilberforce, Ohio, and the Commission shall conduct its meetings in such city unless circumstances otherwise require.
 
 #### (i) Seal; bylaws; rules and regulations
 

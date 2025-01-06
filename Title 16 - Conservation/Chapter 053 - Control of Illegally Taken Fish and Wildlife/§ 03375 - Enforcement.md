@@ -32,6 +32,8 @@ Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–327, in first sentence, substituted a comma for "a reward" after "shall pay", inserted "(1) a reward" before "to any person", and added cl. (2).
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name

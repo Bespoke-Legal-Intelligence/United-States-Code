@@ -14,7 +14,7 @@ The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–3
 
 <b>2018</b>—Pub. L. 115–334 inserted "but excluding any amounts used to provide technical assistance under title X of the Agriculture Improvement Act of 2018 or an amendment made by that title" after "activities".
 
-<b>1996</b>—Pub. L. 104–127 inserted at end "After September 30, 1996, the total amount of all allotments and fund transfers from the Corporation under this section (including allotments and transfers for automated data processing or information resource management activities) for a fiscal year may not exceed the total amount of the allotments and transfers made under this section in fiscal year 1995."
+<b>1996</b>—Pub. L. 104–127 inserted at end "After September 30, 1996, the total amount of all allotments and fund transfers from the Corporation under this section (including allotments and transfers for automated data processing or information resource management activities) for a fiscal year may not exceed the total amountof the allotments and transfers made under this section in fiscal year 1995."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

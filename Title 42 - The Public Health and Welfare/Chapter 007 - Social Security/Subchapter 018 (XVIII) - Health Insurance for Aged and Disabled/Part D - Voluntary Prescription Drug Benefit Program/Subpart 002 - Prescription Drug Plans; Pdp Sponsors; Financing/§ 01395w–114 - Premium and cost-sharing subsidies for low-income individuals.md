@@ -8,7 +8,7 @@
 
 #### (A) Full premium subsidy
 
-&emsp;&emsp;An income-related premium subsidy equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).
+&emsp;&emsp;An income-related premium subsidy equal to 100 percent of the amount described insubsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).
 
 #### (B) Elimination of deductible
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;&emsp;The Secretary, jointly with the Commissioner of Social Security, shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) develop a model, simplified application form and process consistent with clause (iii) for the determination andverification of a part D eligible individual's assets or resources under this subparagraph; and
+&emsp;&emsp;&emsp;&emsp;(I) develop a model, simplified application form and process consistent with clause (iii) for the determination and verification of a part D eligible individual's assets or resources under this subparagraph; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide such form to States.
 
@@ -286,7 +286,7 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 &emsp;&emsp;(A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the month such individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
 
-&emsp;&emsp;(B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) ofthis title) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
+&emsp;&emsp;(B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
 
 &emsp;&emsp;&emsp;(i) the date that such individual was first eligible for a low-income subsidy under this part; or
 

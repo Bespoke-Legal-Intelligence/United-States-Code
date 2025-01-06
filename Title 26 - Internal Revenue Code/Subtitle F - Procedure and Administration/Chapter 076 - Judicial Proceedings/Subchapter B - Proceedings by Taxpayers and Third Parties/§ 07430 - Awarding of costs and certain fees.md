@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (B) Pro bono services
 
-&emsp;&emsp;The court may award reasonable attorneys' fees under subsection (a) in excess of the attorneys' fees paid or incurred if such fees are less than the reasonable attorneys' fees because an individual is representing the prevailing party for no fee or for a fee which (taking into account all the facts and circumstances) is no more than a nominal fee. This subparagraph shall apply only if such award is paid to such individual or such individual's employer.
+&emsp;&emsp;The court may award reasonable attorneys' fees under subsection (a) in excess ofthe attorneys' fees paid or incurred if such fees are less than the reasonable attorneys' fees because an individual is representing the prevailing party for no fee or for a fee which (taking into account all the facts and circumstances) is no more than a nominal fee. This subparagraph shall apply only if such award is paid to such individual or such individual's employer.
 
 #### (4) Prevailing party
 
@@ -196,7 +196,7 @@ For purposes of this section, in the case of—
 
 #### (2) Administrative proceedings
 
-&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Courtunder rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
+&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Court under rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
 
 #### (3) Appeal of Tax Court decision
 
@@ -372,7 +372,7 @@ Pub. L. 99–514, title XV, §1551(h), Oct. 22, 1986, 100 Stat. 2753, provided t
 
 "(1)
 
-General rule.—Except as provided in paragraph (2), the amendments made by this section \[amendingthis section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
+General rule.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
 
 "(2)
 

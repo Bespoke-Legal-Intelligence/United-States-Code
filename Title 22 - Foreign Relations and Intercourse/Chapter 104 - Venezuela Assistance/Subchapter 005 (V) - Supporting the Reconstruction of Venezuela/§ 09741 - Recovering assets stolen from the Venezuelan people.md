@@ -24,9 +24,9 @@ The President, acting through the Secretary of State and in consultation with th
 
 &emsp;The strategy required under paragraph (1) shall—
 
-&emsp;&emsp;(A) assess whether the United States or another member of the international community should establish a managed fund to hold the assets identified pursuant to subsection (a)(2) that could be returned to a future democratic government in Venezuela; and
+&emsp;&emsp;(A) assess whether the United States or another member of the international community should establish a managed fund tohold the assets identified pursuant to subsection (a)(2) that could be returned to a future democratic government in Venezuela; and
 
-&emsp;&emsp;(B) include such recommendations as the President and the Secretary of State consider appropriate for legislative or administrative action in the United States thatwould be needed to establish and manage the fund described in subparagraph (A).
+&emsp;&emsp;(B) include such recommendations as the President and the Secretary of State consider appropriate for legislative or administrative action in the United States that would be needed to establish and manage the fund described in subparagraph (A).
 
 (Pub. L. 116–94, div. J, title I, §151, Dec. 20, 2019, 133 Stat. 3039.)
 

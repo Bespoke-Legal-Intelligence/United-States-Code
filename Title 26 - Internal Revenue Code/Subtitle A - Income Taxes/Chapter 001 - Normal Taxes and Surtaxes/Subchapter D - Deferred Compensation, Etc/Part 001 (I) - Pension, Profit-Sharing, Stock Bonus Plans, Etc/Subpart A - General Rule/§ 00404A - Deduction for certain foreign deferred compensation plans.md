@@ -266,7 +266,7 @@ Revocation only with consent.—An election under this paragraph may be revoked 
 
 &emsp;"(E)
 
-Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of arefund, or the assessment of a deficiency, was not barred by any law or rule of law.
+Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
 
 "(3)
 

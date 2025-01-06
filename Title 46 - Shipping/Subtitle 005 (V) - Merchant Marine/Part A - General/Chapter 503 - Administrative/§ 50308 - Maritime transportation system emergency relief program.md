@@ -22,7 +22,7 @@ In general.—The Maritime Administrator shall determine an appropriate method f
 
 &emsp;(2)
 
-Priority.—To the extent practicable, in allocating and distributing funds under thissection, the Maritime Administrator shall give priority to applications submitted by eligible State or Tribal entities.
+Priority.—To the extent practicable, in allocating and distributing funds under this section, the Maritime Administrator shall give priority to applications submitted by eligible State or Tribal entities.
 
 (c)
 
@@ -136,7 +136,7 @@ Emergency.—The term "emergency" means a natural disaster affecting a wide area
 
 &emsp;&emsp;(D) a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) is in effect.
 
-(Added Pub. L. 116–283, div. C, title XXXV, §3505(a), Jan. 1, 2021, 134 Stat. 4402; amendedPub. L. 118–31, div. C, title XXXV, §3514(e), Dec. 22, 2023, 137 Stat. 811.)
+(Added Pub. L. 116–283, div. C, title XXXV, §3505(a), Jan. 1, 2021, 134 Stat. 4402; amended Pub. L. 118–31, div. C, title XXXV, §3514(e), Dec. 22, 2023, 137 Stat. 811.)
 
 #### <b>Editorial Notes</b>
 

@@ -40,5 +40,5 @@ In clause (1), the word "regulations" is substituted for "rules and regulations"
 
 In clause (2), the words "created by death, resignation, or otherwise" in 36:4203 are omitted as unnecessary.
 
-In clause (4), the words "be, and the same is hereby, authorized and empowered to" in 36:4205 are omittedbecause of the word "may" restated before clause (1). The words "real and personal" and "and reinvest" are omitted as unnecessary. The words "to carry out the purpose of the corporation" are substituted for "for the purpose of furthering the interests of literature and the fine arts" for consistency.
+In clause (4), the words "be, and the same is hereby, authorized and empowered to" in 36:4205 are omitted because of the word "may" restated before clause (1). The words "real and personal" and "and reinvest" are omitted as unnecessary. The words "to carry out the purpose of the corporation" are substituted for "for the purpose of furthering the interests of literature and the fine arts" for consistency.
 

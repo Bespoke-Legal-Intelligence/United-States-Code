@@ -2,7 +2,7 @@
 
 (a)
 
-Notice Required.—(1)(A) Not less frequently than once each year, the Secretary shall publish in the Federal Register notice of the formal evaluations that the Secretary plans to conduct pursuant to section 1173 of this title.
+Notice Required.—(1)(A) Not less frequently than once each year, the Secretary shallpublish in the Federal Register notice of the formal evaluations that the Secretary plans to conduct pursuant to section 1173 of this title.
 
 (B) Each notice published under subparagraph (A) shall include, for each formal evaluation referred to in the notice, an explanation as to why the military environmental exposures and adverse health outcomes that are the subject of the formal evaluation were chosen by the Secretary for formal evaluation under section 1173 of this title.
 

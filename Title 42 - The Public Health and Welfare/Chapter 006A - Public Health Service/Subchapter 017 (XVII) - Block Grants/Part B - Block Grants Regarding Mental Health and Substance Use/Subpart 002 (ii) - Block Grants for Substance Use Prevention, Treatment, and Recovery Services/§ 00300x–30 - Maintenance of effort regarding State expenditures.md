@@ -6,7 +6,7 @@ With respect to the principal agency of a State for carrying out authorized acti
 
 #### (b) Exclusion of certain funds
 
-The Secretary may exclude from the aggregate State expenditures under subsection (a), funds appropriated to the principle agency for authorized activities which are of a non-recurring nature and for a specific purpose.
+The Secretary may exclude from the aggregate State expenditures under subsection (a),funds appropriated to the principle agency for authorized activities which are of a non-recurring nature and for a specific purpose.
 
 #### (c) Waiver
 

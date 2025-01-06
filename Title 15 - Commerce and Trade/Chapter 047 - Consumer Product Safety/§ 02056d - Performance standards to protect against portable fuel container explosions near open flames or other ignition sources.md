@@ -54,7 +54,7 @@ This section may be cited as the "Portable Fuel Container Safety Act of 2020".
 
 #### (6) Future rulemaking
 
-&emsp;The Commission, at any time after publication of the consumer product safety rule required by paragraph (1), a voluntary standard is treated as a consumer product safety rule under paragraph (4), or a revision is enforceable as a consumer product safety rule under paragraph (5) <sup>1</sup> may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements or to include any additional provision that the Commission determines is reasonably necessary to protect the public against flame jetting from a portable fuel container. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
+&emsp;The Commission, at any time after publication of the consumer product safety rule required by paragraph (1), a voluntary standard is treated as a consumer product safety rule under paragraph (4), or a revision is enforceable as a consumer product safety rule under paragraph (5) <sup>1</sup> may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements or to include any additional provision that the Commission determines is reasonably necessary to protect the public against flame jetting from a portable fuel container. Any rule promulgated underthis subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
 #### (7) Action required
 
@@ -102,7 +102,7 @@ The Children's Gasoline Burn Prevention Act, referred to in subsecs. (b)(9) and 
 
 Section was enacted as the Portable Fuel Container Safety Act of 2020, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-Section is comprised of section 901 of div. FF of Pub. L. 116–260. Subsec. (c)(1) of section 901 of div. FF of Pub.L. 116–260 amended section 2 of Pub. L. 110–278, which is set out in a note under section 2056 of this title.
+Section is comprised of section 901 of div. FF of Pub. L. 116–260. Subsec. (c)(1) of section 901 of div. FF of Pub. L. 116–260 amended section 2 of Pub. L. 110–278, which is set out in a note under section 2056 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

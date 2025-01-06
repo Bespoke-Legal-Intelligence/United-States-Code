@@ -2,7 +2,7 @@
 
 #### (a) National Climate Program research activities
 
-The President, the Chairman of the Council, and the Secretary of Commerce shall ensure that relevant research activities of the National Climate Program, established by the National Climate Program Act (15 U.S.C. 2901 et seq.), are considered in developing national global change research efforts.
+The President, the Chairman of the Council, and the Secretary of Commerce shall ensure that relevant research activities of the National Climate Program, established by the National Climate Program Act (15 U.S.C. 2901 et seq.), areconsidered in developing national global change research efforts.
 
 #### (b) Availability of research findings
 

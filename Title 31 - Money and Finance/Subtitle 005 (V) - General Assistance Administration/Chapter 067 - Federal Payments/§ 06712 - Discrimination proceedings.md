@@ -44,7 +44,7 @@ Likelihood of prevailing.—An administrative law judge may not issue a prelimin
 
 (e)
 
-Basis for Review.—In a proceeding under subsections (b) through (d) on a program or activity of a unit of general local government about which a holding of discrimination has been made, the Secretary or administrative law judge may consider only whether a paymentunder this chapter was used to pay for any part of the program or activity. The holding of discrimination is conclusive. If the holding is reversed by an appellate court, the Secretary or judge shall end the proceeding.
+Basis for Review.—In a proceeding under subsections (b) through (d) on a program or activity of a unit of general local government about which a holding of discrimination has been made, the Secretary or administrative law judge may consider only whether a payment under this chapter was used to pay for any part of the program or activity. The holding of discrimination is conclusive. If the holding is reversed by an appellate court, the Secretary or judge shall end the proceeding.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1875.)
 

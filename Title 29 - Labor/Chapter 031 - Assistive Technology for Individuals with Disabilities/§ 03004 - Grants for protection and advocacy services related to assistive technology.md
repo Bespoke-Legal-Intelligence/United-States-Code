@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall make grants to the protection and advocacy system serving the American Indian consortium to provide services in accordance with this section.
+&emsp;&emsp;The Secretary shall make grants to the protection and advocacy system serving theAmerican Indian consortium to provide services in accordance with this section.
 
 #### (B) Amount of grants
 
@@ -66,7 +66,7 @@ A protection and advocacy system that receives a grant under this section shall 
 
 &emsp;(1) conducting consumer-responsive activities, including activities that will lead to increased access for individuals with disabilities to funding for assistive technology devices and assistive technology services;
 
-&emsp;(2) engaging in informal advocacy to assist in securing assistive technology devices andassistive technology services for individuals with disabilities;
+&emsp;(2) engaging in informal advocacy to assist in securing assistive technology devices and assistive technology services for individuals with disabilities;
 
 &emsp;(3) engaging in formal representation for individuals with disabilities to secure systems change, and in advocacy activities to secure assistive technology devices and assistive technology services for individuals with disabilities;
 

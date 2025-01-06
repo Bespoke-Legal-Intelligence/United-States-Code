@@ -210,7 +210,7 @@ Tenant information.—As soon as practicable after the completion of the hazard 
 
 #### Process To Identify and Address Environmental Health Hazards in Department of Defense Housing
 
-Pub. L. 116–283, div. B, title XXVIII, §2817, Jan. 1, 2021, 134 Stat. 4329, provided that: "As part of the process developed by the Secretary of Defense pursuant tosection 3053 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1943; 10 U.S.C. 2821 note) \[set out below\] to identify, record, and resolve environmental health hazards in military housing, the Secretary shall promulgate guidance regarding situations in which the presence of mold in a unit of housing under the jurisdiction of the Department of Defense (including privatized military housing) is an emergency situation requiring the relocation of the residents of the unit."
+Pub. L. 116–283, div. B, title XXVIII, §2817, Jan. 1, 2021, 134 Stat. 4329, provided that: "As part of the process developed by the Secretary of Defense pursuant to section 3053 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1943; 10 U.S.C. 2821 note) \[set out below\] to identify, record, and resolve environmental health hazards in military housing, the Secretary shall promulgate guidance regarding situations in which the presence of mold in a unit of housing under the jurisdiction of the Department of Defense (including privatized military housing) is an emergency situation requiring the relocation of the residents of the unit."
 
 Pub. L. 116–92, div. B, title XXX, §3053, Dec. 20, 2019, 133 Stat. 1943, provided that:
 
@@ -328,9 +328,11 @@ Disqualified Window Covering Defined.—In this section, the term 'disqualified 
 
 #### Repair and Maintenance of Family Housing Units
 
-Pub. L. 117–328, div. J, title I, §119, Dec. 29, 2022, 136 Stat. 4945, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
+Pub. L. 118–42, div. A, title I, §119, Mar. 9, 2024, 138 Stat. 34, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. J, title I, §119, Dec. 29, 2022, 136 Stat. 4945.
 
 Pub. L. 117–103, div. J, title I, §119, Mar. 15, 2022, 136 Stat. 535.
 
@@ -380,7 +382,7 @@ Pub. L. 100–180, div. B, subdiv. 3, title II, §2321, Dec. 4, 1987, 101 Stat. 
 
 #### Military Housing Rental Guarantee Program
 
-Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended by Pub. L. 98–407, title VIII, §806(b), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §801(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. B, title VII, §2713(a), Nov. 14, 1986, 100 Stat. 4042; Pub. L. 100–180, div. B, subdiv. 3, title I, §2307, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–189, div. B, title XXVIII, §2801, Nov. 29, 1989, 103 Stat. 1646; Pub. L. 101–510, div. B, title XXVIII, §2811, Nov. 5, 1990, 104 Stat. 1788, provided for agreements and contracts relating to military housing rental guarantee program, prior to repeal by Pub. L. 102–190, div. B, title XXVIII, §2809(b), (c), Dec. 5, 1991, 105 Stat. 1543, such repeal not to affect the validity of any contract entered into before Dec. 5, 1991, under section 802 of Pub. L. 98–115 as in effect on Dec. 4, 1991. See section 2836 of this title.
+Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended by Pub. L. 98–407, title VIII, §806(b), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §801(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. B,title VII, §2713(a), Nov. 14, 1986, 100 Stat. 4042; Pub. L. 100–180, div. B, subdiv. 3, title I, §2307, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–189, div. B, title XXVIII, §2801, Nov. 29, 1989, 103 Stat. 1646; Pub. L. 101–510, div. B, title XXVIII, §2811, Nov. 5, 1990, 104 Stat. 1788, provided for agreements and contracts relating to military housing rental guarantee program, prior to repeal by Pub. L. 102–190, div. B, title XXVIII, §2809(b), (c), Dec. 5, 1991, 105 Stat. 1543, such repeal not to affect the validity of any contract entered into before Dec. 5, 1991, under section 802 of Pub. L. 98–115 as in effect on Dec. 4, 1991. See section 2836 of this title.
 
 #### Family Housing Constructed Overseas
 
@@ -388,11 +390,11 @@ Pub. L. 98–115, title VIII, §803, Oct. 11, 1983, 97 Stat. 784, as amended by 
 
 #### Definitions
 
-Pub. L. 116–92, div. B, title XXX, §3001(a), Dec. 20, 2019, 133 Stat. 1916, provided that: "In this title \[see Tables for classification\]:
+Pub. L. 116–92, div. B, title XXX, §3001(a), Dec. 20, 2019, 133 Stat. 1916, as amended by Pub. L. 118–159, div. B, title XXVIII, §2827, Dec. 23, 2024, 138 Stat. 2258, provided that: "In this title \[see Tables for classification\]:
 
 &emsp;"(1) The term 'landlord' means an eligible entity that enters into, or has entered into, a contract as a partner with the Secretary concerned for the acquisition or construction of a housing unit under subchapter IV of chapter 169 of title 10, United States Code. The term includes any agent of the eligible entity or any subsequent lessor who owns, manages, or is otherwise responsible for a housing unit. The term does not include an entity of the Federal Government.
 
-&emsp;"(2) The term 'privatized military housing' means military housing provided under subchapter IV of chapter 169 of title 10, United States Code.
+&emsp;"(2) The term 'privatized military housing' means military housing that is not Government-owned or Government-controlled that is provided under subchapter IV of chapter 169 of title 10, United States Code.
 
 &emsp;"(3) The term 'tenant' means a member of the armed forces, including a reserve component thereof in an active status, or a dependent of a member of the armed forces who resides at a housing unit, is a party to a lease for a housing unit, or is authorized to act on behalf of the member under subchapters IV and V of chapter 169 of title 10, United States Code, in the event of the assignment or deployment of a member."
 

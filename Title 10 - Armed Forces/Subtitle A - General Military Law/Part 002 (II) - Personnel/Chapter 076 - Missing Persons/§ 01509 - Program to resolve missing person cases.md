@@ -110,7 +110,7 @@ Subsec. (f)(3). Pub. L. 113–291, §916(d)(3)(C), added par. (3).
 
 <b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
 
-<b>1999</b>—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted "November 18, 1997," for "the date of the enactment ofthe National Defense Authorization Act for Fiscal Year 1998".
+<b>1999</b>—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted "November 18, 1997," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998".
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85, §599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 

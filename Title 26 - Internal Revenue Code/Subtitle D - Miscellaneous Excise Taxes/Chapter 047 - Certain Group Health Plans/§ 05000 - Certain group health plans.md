@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Large group health plan
 
-&emsp;The term "large group health plan" means a plan of, or contributed to by, an employer or employee organization (including a self-insured plan) to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families, that covers employees of at least one employer that normally employed at least 100 employees on a typical business day during the previous calendar year. For purposes of the preceding sentence—
+&emsp;The term "large group health plan" means a plan of, or contributed to by, an employer or employee organization (including a self-insured plan) to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families, that covers employees of at least one employer thatnormally employed at least 100 employees on a typical business day during the previous calendar year. For purposes of the preceding sentence—
 
 &emsp;&emsp;(A) all employers treated as a single employer under subsection (a) or (b) of section 52 shall be treated as a single employer,
 
@@ -64,7 +64,7 @@ Pub. L. 103–66, title XIII, §13561(d)(3), Aug. 10, 1993, 107 Stat. 594, provi
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
+Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
 
 #### Effective Date
 

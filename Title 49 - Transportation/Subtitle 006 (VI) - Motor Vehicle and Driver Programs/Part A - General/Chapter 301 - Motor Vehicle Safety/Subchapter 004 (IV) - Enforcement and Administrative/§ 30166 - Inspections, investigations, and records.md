@@ -40,7 +40,7 @@ Reasonable Compensation.—When a motor vehicle (except a vehicle subject to sub
 
 (e)
 
-Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor <sup>1</sup> dealer, or rental company in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor <sup>1</sup> dealer, or rental company in addition to those imposed under subsection (f) of this section and section30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
 (f)
 
@@ -80,7 +80,7 @@ Governmental Cooperation.—The Secretary of Transportation may request a depart
 
 (j)
 
-Cooperation of Secretary.—The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, andother public and private agencies in developing a method for inspecting and testing to determine compliance with a motor vehicle safety standard.
+Cooperation of Secretary.—The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, and other public and private agencies in developing a method for inspecting and testing to determine compliance with a motor vehicle safety standard.
 
 (k)
 
@@ -122,7 +122,7 @@ Reporting elements.—
 
 Warranty and claims data.—As part of the final rule promulgated under paragraph (1), the Secretary shall require manufacturers of motor vehicles and motor vehicle equipment to report, periodically or upon request by the Secretary, information which is received by the manufacturer derived from foreign and domestic sources to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States and which concerns—
 
-&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (including death) and aggregate statistical data on property damage from alleged defects in a motor vehicle or in motor vehicle equipment; or
+&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (including death) and aggregate statistical data on property damage from alleged defects in amotor vehicle or in motor vehicle equipment; or
 
 &emsp;&emsp;&emsp;(ii) customer satisfaction campaigns, consumer advisories, recalls, or other activity involving the repair or replacement of motor vehicles or items of motor vehicle equipment.
 
@@ -206,7 +206,7 @@ Notice.—The certification requirements of this section shall be clearly stated
 
 &emsp;(3)
 
-Deadline.—Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
+Deadline.—Not later than 1 year after the date of enactment of the ComprehensiveTransportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764; Pub. L. 114–94, div. B, title XXIV, §§24109(e), 24112, Dec. 4, 2015, 129 Stat. 1707, 1709; Pub. L. 117–58, div. B, title IV, §24216(a), Nov. 15, 2021, 135 Stat. 830.)
 
@@ -330,7 +330,7 @@ In subsection (d), the words "for the purpose of inspection" and "the authority 
 
 In subsection (e), the words "establish and" are omitted as surplus. The words "This subsection does not impose" are substituted for "Nothing in this subsection shall be construed as imposing" for consistency and to eliminate unnecessary words.
 
-In subsection (f), the words "notices, bulletins, and other" are omitted as surplus. The words "with a motor vehicle safety standard prescribed under this chapter" are added for clarity. The text of 15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
+In subsection (f), the words "notices, bulletins, and other" are omitted as surplus. The words "with a motor vehicle safety standard prescribed under this chapter" are added for clarity. The text of15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
 
 In subsection (g)(1), before clause (A), the words "or on the authorization of the Secretary, any officer or employee of the Department of Transportation" are omitted as surplus because of 49:322(b). In clause (A), the words "in writing", "in such form as the Secretary may prescribe", "relating to any function of the Secretary under this subchapter", and "shall be filed with the Secretary within such reasonable period as the Secretary may prescribe" are omitted as surplus. In clause (B), the words "sit and act at such times and places" are omitted as being included in "conduct hearings". The word "records" is substituted for "such books, papers, correspondence, memorandums, contracts, agreements, or other records" for consistency in the revised title and with other titles of the United States Code.
 

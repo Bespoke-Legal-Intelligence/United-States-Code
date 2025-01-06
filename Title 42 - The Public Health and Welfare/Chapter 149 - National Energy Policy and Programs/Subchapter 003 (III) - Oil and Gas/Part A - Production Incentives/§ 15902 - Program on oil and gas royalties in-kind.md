@@ -38,7 +38,7 @@ All royalty accruing to the United States shall, on the demand of the Secretary,
 
 #### (4) Retention by the Secretary
 
-&emsp;The Secretary may, notwithstanding section 3302 of title 31, retain and use a portion of therevenues from the sale of oil and gas taken in-kind that otherwise would be deposited to miscellaneous receipts, without regard to fiscal year limitation, or may use oil or gas received as royalty taken in-kind (referred to in this paragraph as "royalty production") to pay the cost of—
+&emsp;The Secretary may, notwithstanding section 3302 of title 31, retain and use a portion of the revenues from the sale of oil and gas taken in-kind that otherwise would be deposited to miscellaneous receipts, without regard to fiscal year limitation, or may use oil or gas received as royalty taken in-kind (referred to in this paragraph as "royalty production") to pay the cost of—
 
 &emsp;&emsp;(A) transporting the royalty production;
 
@@ -124,7 +124,15 @@ The Secretary—
 
 &emsp;&emsp;(B) providing a specific recommendation on the continuation of authority to grant preferences.
 
-(Pub. L. 109–58, title III, §342, Aug. 8, 2005, 119 Stat. 697; Pub. L. 113–188, title XI, §1101, Nov. 26, 2014, 128 Stat. 2023.)
+#### (j) McAlester Army Ammunition Plant
+
+At the request of the Secretary of Defense, the Secretary shall—
+
+&emsp;(1) take in-kind royalty gas from any lease on the McAlester Army Ammunition Plant in McAlester, Oklahoma; and
+
+&emsp;(2) sell such royalty gas to the Department of Defense in accordance with subsection (h)(1), for use only at that plant, only for energy resilience purposes, and only to the extent necessary to meet the natural gas needs of that plant.
+
+(Pub. L. 109–58, title III, §342, Aug. 8, 2005, 119 Stat. 697; Pub. L. 113–188, title XI, §1101, Nov. 26, 2014, 128 Stat. 2023; Pub. L. 118–159, div. A, title XVII, §1706, Dec. 23, 2024, 138 Stat. 2209.)
 
 #### <b>Editorial Notes</b>
 
@@ -133,6 +141,8 @@ The Secretary—
 This part, referred to in subsec. (f)(1), was in the original "this subtitle", meaning subtitle E (§§341–357) of title III of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 697, which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and section 1337 of Title 43, Public Lands, and enacted provisions set out as a note under section 226 of Title 30. For complete classification of subtitle E to the Code, see Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (j). Pub. L. 118–159 added subsec. (j).
 
 <b>2014</b>—Subsecs. (e) to (j). Pub. L. 113–188 redesignated subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which required various reports on oil and gas royalties in-kind.
 

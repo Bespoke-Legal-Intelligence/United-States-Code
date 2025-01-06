@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A publication, including an article, a chapter in a book, or an official abstract of a peer-reviewed scientific publication that appears in an article and was prepared by the author or theeditors of the publication, which is reprinted in its entirety, shall not be defined as labeling when used in connection with the sale of a dietary supplement to consumers when it—
+A publication, including an article, a chapter in a book, or an official abstract of a peer-reviewed scientific publication that appears in an article and was prepared by the author or the editors of the publication, which is reprinted in its entirety, shall not be defined as labeling when used in connection with the sale of a dietary supplement to consumers when it—
 
 &emsp;(1) is not false or misleading;
 

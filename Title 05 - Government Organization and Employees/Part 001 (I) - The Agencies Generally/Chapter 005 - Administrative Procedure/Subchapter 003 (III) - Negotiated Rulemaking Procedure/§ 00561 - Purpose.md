@@ -26,7 +26,7 @@ Pub. L. 101–648, §1, Nov. 29, 1990, 104 Stat. 4969, provided that: "This Act 
 
 #### Congressional Findings
 
-Pub. L. 101–648, §2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 117–286, §4(a)(4), Dec. 27, 2022, 136Stat. 4305, provided that: "The Congress makes the following findings:
+Pub. L. 101–648, §2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 117–286, §4(a)(4), Dec. 27, 2022, 136 Stat. 4305, provided that: "The Congress makes the following findings:
 
 &emsp;"(1) Government regulation has increased substantially since the enactment of the Administrative Procedure Act \[see Short Title note set out preceding section 551 of this title\].
 

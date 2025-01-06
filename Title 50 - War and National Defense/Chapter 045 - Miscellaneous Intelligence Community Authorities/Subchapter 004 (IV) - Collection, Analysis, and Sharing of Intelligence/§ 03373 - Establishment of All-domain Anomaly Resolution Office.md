@@ -104,7 +104,7 @@ The Director of the Office, on behalf of the Secretary of Defense and the Direct
 
 #### (h) Assignment of priority
 
-The Director of National Intelligence, in consultation with and with the recommendation of the Secretary of Defense, shall assign an appropriate level of priority within the National Intelligence Priorities Framework to the requirement to understand, characterize, and respond to unidentified anomalous phenomena.
+The Director of National Intelligence, in consultation with and with the recommendation ofthe Secretary of Defense, shall assign an appropriate level of priority within the National Intelligence Priorities Framework to the requirement to understand, characterize, and respond to unidentified anomalous phenomena.
 
 #### (i) Detailees from elements of the intelligence community
 
@@ -210,7 +210,7 @@ The heads of the Central Intelligence Agency, the Defense Intelligence Agency, t
 
 #### (1) Requirement
 
-&emsp;Not later than December 31, 2022, and not less frequently than semiannually thereafteruntil December 31, 2026, the Director of the Office shall provide to the appropriate congressional committees classified briefings on unidentified anomalous phenomena.
+&emsp;Not later than December 31, 2022, and not less frequently than semiannually thereafter until December 31, 2026, the Director of the Office shall provide to the appropriate congressional committees classified briefings on unidentified anomalous phenomena.
 
 #### (2) First briefing
 
@@ -274,7 +274,7 @@ In this section:
 
 #### (6) Line organization
 
-&emsp;The term "line organization" means, with respect to a department or agency of the Federal Government, an organization that executes programs and activities to directly advance the core functions and missions of the department or agency to which the organization is subordinate, but, with respect to the Department of Defense, does not include a component of the Office of the Secretary of Defense.
+&emsp;The term "line organization" means, with respect to a department or agency of the Federal Government, an organization that executes programs and activities to directly advance the core functions and missions of thedepartment or agency to which the organization is subordinate, but, with respect to the Department of Defense, does not include a component of the Office of the Secretary of Defense.
 
 #### (7) Transmedium objects or devices
 
@@ -316,6 +316,24 @@ Subsec. (l)(2) to (6). Pub. L. 117–263, §1673(c)(3), added par. (2) and redes
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Liaison With Counter Unmanned Aerial Systems Task Force
+
+Pub. L. 118–159, div. A, title X, §1089, Dec. 23, 2024, 138 Stat. 2081, provided that:
+
+"(a)
+
+Liaison Required.—The Director of the All-Domain Anomaly Resolution Office of the Department of Defense shall designate one or more employees of the Office to act as a liaison with the Counter Unmanned Aerial Systems Task Force established under section 925 \[of Pub. L. 118—159, 10 U.S.C. 130i note\] to improve coordination of efforts and support enabling capabilities of mutual benefit.
+
+"(b)
+
+Responsibilities.—An individual designated as a liaison under subsection (a) shall have the following responsibilities:
+
+&emsp;"(1) Conducting information sharing between the Office and the Task Force on identified or suspected Unmanned Aerial Systems events, including incident reporting, incident responses, and data on technical characterization of the known or suspected threats.
+
+&emsp;"(2) Coordinating the development of technical capabilities for sensing and response to threats.
+
+&emsp;"(3) Developing coordinated tactics, techniques, and procedures for incident response."
+
 #### Limitation Regarding Independent Research and Development
 
 Pub. L. 118–31, div. A, title XVI, §1687(b), (c), Dec. 22, 2023, 137 Stat. 621, provided that:
@@ -348,7 +366,7 @@ Definitions.—In this section:
 
 #### Comptroller General of the United States Audits and Briefings on Unidentified Anomalous Phenomena Historical Record Report
 
-Pub. L. 117–263, div. F, title LXVIII, §6803, Dec. 23, 2022, 136 Stat. 3594, provided that:
+Pub. L. 117–263, div. F, title LXVIII, §6803, Dec. 23, 2022, 136 Stat. 3594, as amended by Pub. L. 118–159, div. F, title LXVIII, §6802, Dec. 23, 2024, 138 Stat. 2516, provided that:
 
 "(a)
 
@@ -364,11 +382,11 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;"(2)
 
-Provision of information.—On a quarterly basis, and as appropriate and consistent with Government Auditing Standards, the Comptroller General of the United States shall provide the Office with information on the findings of any audits conducted by the personnel identified under paragraph (1).
+Provision of information.—On a quarterly basis until the date that is 90 days after the delivery of the final volume of the Historical Record Report, and as appropriate and consistent with Government Auditing Standards, the Comptroller General of the United States shall provide the Office with information on the findings of any audits conducted by the personnel identified under paragraph (1).
 
 "(c)
 
-Verbal Briefings.—Not later than 180 days after the date of the enactment of this Act, and semiannually thereafter, the Comptroller General of the United States shall verbally brief the congressional intelligence committees, the congressional defense committees, and congressional leadership on the progress of the Office with respect to the historical record report described in section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373), as amended by section 6802, and compliance with legislative requirements.
+Verbal Briefings.—Not later than 180 days after the date of the enactment of this Act, and semiannually thereafter until the date that is 180 days after the delivery of the final volume of the Historical Record Report, the Comptroller General of the United States shall verbally brief the congressional intelligence committees, the congressional defense committees, and congressional leadership on the progress of the Office with respect to the historical record report described in section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373), as amended by section 6802, and compliance with legislative requirements.
 
 "(d)
 

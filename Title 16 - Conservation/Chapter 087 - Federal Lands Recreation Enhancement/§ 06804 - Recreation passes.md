@@ -26,7 +26,17 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
+&emsp;&emsp;The Secretaries shall sell or otherwise make available the National Parks and Federal Recreational Lands Pass—
+
+&emsp;&emsp;&emsp;(i) at all Federal recreational lands and waters at which—
+
+&emsp;&emsp;&emsp;&emsp;(I) an entrance fee or a standard amenity recreation fee is charged; and
+
+&emsp;&emsp;&emsp;&emsp;(II) such sales or distribution of the Pass is feasible;
+
+&emsp;&emsp;&emsp;(ii) at such other locations as the Secretaries consider appropriate and feasible; and
+
+&emsp;&emsp;&emsp;(iii) through a prominent link to a centralized pass sale system on the website of each of the Federal land management agencies and the websites of the relevant units and subunits of those agencies, which shall include information about where and when a National Parks and Federal Recreational Lands Pass may be used.
 
 #### (B) Use of vendors
 
@@ -48,6 +58,14 @@
 
 &emsp;The Secretary may not establish any national recreation pass, except as provided in this section.
 
+#### (10) Digital recreation passes
+
+&emsp;Not later than January 1, 2026, the Secretaries shall—
+
+&emsp;&emsp;(A) establish a digital version of the National Parks and Federal Recreational Lands Pass that is able to be stored on a mobile device, including with respect to free and discounted passes; and
+
+&emsp;&emsp;(B) upon completion of a transaction for a National Parks and Federal Recreational Lands Pass, make immediately available to the passholder a digital version of the National Parks and Federal Recreational Lands Pass established under subparagraph (A).
+
 #### (b) Free and discounted passes
 
 #### (1) Age discount
@@ -64,7 +82,7 @@
 
 &emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
 
-&emsp;&emsp;(A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term "disability" under section 12102 of title 42, if the citizen or person provides adequate proof ofthe disability and such citizenship or residency.
+&emsp;&emsp;(A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term "disability" under section 12102 of title 42, if the citizen or person provides adequate proof of the disability and such citizenship or residency.
 
 &emsp;&emsp;(B) Any veteran who provides adequate proof of military service as determined by the Secretary.
 
@@ -86,7 +104,7 @@ The Secretary may establish and charge a fee for a site-specific pass that will 
 
 #### (2) Regional multientity pass agreement
 
-&emsp;In order to establish a regional multientity pass under this subsection, the Secretary shall enter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, the sharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
+&emsp;In order to establish a regional multientity pass under this subsection, the Secretary shallenter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, the sharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
 
 #### (e) Discounted or free admission days or use
 
@@ -102,7 +120,7 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 &emsp;A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
-(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 117–81, div. A, title VI, §641, Dec. 27, 2021, 135 Stat. 1776.)
+(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 117–81, div. A, title VI, §641, Dec. 27, 2021, 135 Stat. 1776; Pub. L. 118–234, title III, §322(a), (b), Jan. 4, 2025, 138 Stat. 2910.)
 
 #### <b>Editorial Notes</b>
 
@@ -117,6 +135,10 @@ The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1)
 In subsec. (f), "section 100904 of title 54" substituted for "section 4 of the Land and Water Conservation Fund Act of 1965" in two places on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(6)(A). Pub. L. 118–234, §322(a), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible."
+
+Subsec. (a)(10). Pub. L. 118–234, §322(b), added par. (10).
 
 <b>2021</b>—Subsec. (a)(4). Pub. L. 117–81, §641(1), substituted "age discount and lifetime" for "age and disability discounted".
 
@@ -136,7 +158,7 @@ Subsec. (b)(3). Pub. L. 117–81, §641(2)(C), substituted "Annual passes" for "
 
 Pub. L. 116–283, §625(a), added par. (3).
 
-<b>2020</b>—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizenor person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder."
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder."
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–289 designated existing provisions as subpar. (A), struck out ", at a cost of $10.00," before "to any United States citizen", substituted "shall be available—" and cls. (i) and (ii) for "shall be valid for the lifetime of the pass holder.", and added subpar. (B).
 
@@ -148,7 +170,7 @@ Pub. L. 113–287, §5(d)(36)(A), made technical amendment to reference in origi
 
 #### Every Kid Outdoors Act
 
-Pub. L. 116–9, title IX, §9001, Mar. 12, 2019, 133 Stat. 829, provided that:
+Pub. L. 116–9, title IX, §9001, Mar. 12, 2019, 133 Stat. 829, as amended by Pub. L. 118–234, title II, §232, Jan. 4, 2025, 138 Stat. 2890, provided that:
 
 "(a)
 
@@ -216,7 +238,7 @@ In general.—At the request of a student, the Secretaries shall issue a pass to
 
 &emsp;&emsp;"(B)
 
-Term.—A pass described in subparagraph (A) shall be effective during the period beginning on September 1 and ending on August 31 of the following year.
+Term.—A pass described in subparagraph (A) shall be effective for a 12-month period that begins on a date determined by the Secretaries.
 
 &emsp;&emsp;"(C)
 
@@ -248,7 +270,7 @@ Reports.—The Secretary, in coordination with each Secretary described in subpa
 
 &emsp;"(5)
 
-Sunset.—The authorities provided in this section, including the reporting requirement, shall expire on the date that is 7 years after the date of enactment of this Act \[Mar. 12, 2019\]."
+Sunset.—The authorities provided in this section, including the reporting requirement, shall expire on September 30, 2031."
 
 #### America the Beautiful National Parks and Federal Recreational Lands Pass Program
 

@@ -24,7 +24,7 @@ The Congress finds the following:
 
 &emsp;(4) It is appropriate for the Congress to enact legislation to assure that the year 2000 problems described in this section do not unnecessarily disrupt interstate commerce or create unnecessary caseloads in Federal courts and to provide initiatives to help businesses prepare and be in a position to withstand the potentially devastating economic impact of such problems.
 
-&emsp;(5) Resorting to the legal system for resolution of year 2000 problems described in this section is not feasible for many businesses and individuals who already find the legal systeminaccessible, particularly small businesses and individuals who already find the legal system inaccessible, because of its complexity and expense.
+&emsp;(5) Resorting to the legal system for resolution of year 2000 problems described in this section is not feasible for many businesses and individuals who already find the legal system inaccessible, particularly small businesses and individuals who already find the legal system inaccessible, because of its complexity and expense.
 
 &emsp;(6) Concern about the potential for liability—in particular, concern about the substantial litigation expense associated with defending against even the most insubstantial lawsuits—is prompting many persons and businesses with technical expertise to avoid projects aimed at curing year 2000 computer date-change problems.
 

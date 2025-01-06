@@ -42,7 +42,7 @@ Subject to the availability of funds appropriated for this purpose, the Director
 
 &emsp;&emsp;(D) providing or brokering access to computing resources, networking, and data facilities for artificial intelligence research and development relevant to the Institute's research goals;
 
-&emsp;&emsp;(E) providing technical assistance to users, including software engineering support, for artificial intelligence research and development relevant to the Institute's research goals;
+&emsp;&emsp;(E) providing technical assistance to users, including software engineering support, forartificial intelligence research and development relevant to the Institute's research goals;
 
 &emsp;&emsp;(F) engaging in outreach and engagement to broaden participation in artificial intelligence research and the artificial intelligence workforce; and
 

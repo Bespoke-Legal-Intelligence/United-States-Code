@@ -26,7 +26,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (3) Treatment of transfers to creditors
 
-&emsp;For purposes of paragraph (1), any transfer of the other property or money received in the exchange by the corporation to its creditors in connection with the reorganization shall be treated as a distribution in pursuance of the plan of reorganization. The Secretary mayprescribe such regulations as may be necessary to prevent avoidance of tax through abuse of the preceding sentence or subsection (c)(3). In the case of a reorganization described in section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355, this paragraph shall apply only to the extent that the sum of the money and the fair market value of other property transferred to such creditors does not exceed the adjusted bases of such assets transferred (reduced by the amount of the liabilities assumed (within the meaning of section 357(c))).
+&emsp;For purposes of paragraph (1), any transfer of the other property or money received in the exchange by the corporation to its creditors in connection with the reorganization shall be treated as a distribution in pursuance of the plan of reorganization. The Secretary may prescribe such regulations as may be necessary to prevent avoidance of tax through abuse of the preceding sentence or subsection (c)(3). In the case of a reorganization described in section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355, this paragraph shall apply only to the extent that the sum of the money and the fair market value of other property transferred to such creditors does not exceed the adjusted bases of such assets transferred (reduced by the amount of the liabilities assumed (within the meaning of section 357(c))).
 
 #### (c) Treatment of distributions
 
@@ -56,7 +56,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (C) Treatment of liabilities
 
-&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject to a liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
+&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject toa liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
 
 #### (3) Treatment of certain transfers to creditors
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVIII, §1804(g)(4), Oct. 22, 1986, 100 Stat. 2806, provided that: "The amendments made by this subsection \[amending this section and section 368of this title\] shall apply to plans of reorganizations adopted after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1804(g)(4), Oct. 22, 1986, 100 Stat. 2806, provided that: "The amendments made by this subsection \[amending this section and section 368 of this title\] shall apply to plans of reorganizations adopted after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

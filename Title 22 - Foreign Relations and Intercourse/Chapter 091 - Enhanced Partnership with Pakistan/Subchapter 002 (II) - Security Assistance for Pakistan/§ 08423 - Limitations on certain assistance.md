@@ -32,7 +32,7 @@ The certification required by this subsection is a certification by the Secretar
 
 &emsp;&emsp;(A) the Letter of Offer and Acceptance PK–D–YAD signed between the Governments of the United States of America and Pakistan on September 30, 2006;
 
-&emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governmentsof the United States of America and Pakistan on September 30, 2006; and
+&emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governments of the United States of America and Pakistan on September 30, 2006; and
 
 &emsp;&emsp;(C) the Letter of Offer and Acceptance PK–D–SAF signed between the Governments of the United States of America and Pakistan on September 30, 2006.
 

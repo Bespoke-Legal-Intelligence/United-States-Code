@@ -34,7 +34,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), a State requesting assistance under this section shallestablish or designate, and maintain, a State multidisciplinary task force on children's justice (hereinafter referred to as "State task force") composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
+&emsp;Except as provided in paragraph (2), a State requesting assistance under this section shall establish or designate, and maintain, a State multidisciplinary task force on children's justice (hereinafter referred to as "State task force") composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
 
 &emsp;&emsp;(A) individuals representing the law enforcement community;
 

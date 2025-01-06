@@ -34,7 +34,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;&emsp;(B) the role of the Victim Witness Assistance Program liaison and what privileges do or do not exist between the victim and the liaison; and
 
-&emsp;&emsp;(C) the nature of communication made to the liaison in comparison to communication made to a Special Victims' Counsel or a legal assistance attorney under section 1044 of this title.
+&emsp;&emsp;(C) the nature of communication made to the liaison in comparison to communicationmade to a Special Victims' Counsel or a legal assistance attorney under section 1044 of this title.
 
 &emsp;(3) Legal consultation regarding the responsibilities and support provided to the victim by the Sexual Assault Response Coordinator, a unit or installation Sexual Assault Victim Advocate, or domestic abuse advocate, to include any privileges that may exist regarding communications between those persons and the victim.
 
@@ -62,7 +62,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;&emsp;(C) in understanding the availability of, and obtaining any protections offered by, civilian and military protecting or restraining orders; and
 
-&emsp;&emsp;(D) in understanding the eligibility and requirements for, and obtaining, any availablemilitary and veteran benefits, such as transitional compensation benefits found in section 1059 of this title, section 1408(h) of this title, and other State and Federal victims' compensation programs.
+&emsp;&emsp;(D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in section 1059 of this title, section 1408(h) of this title, and other State and Federal victims' compensation programs.
 
 &emsp;(9) Legal consultation and assistance in connection with—
 
@@ -126,7 +126,7 @@ Availability of Special Victims' Counsel.—(1) An individual described in subse
 
 (3) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
 
-(4)(A) Subject to subparagraph (B), if a Special Victims' Counsel is not available at a military installation for access by a member of the armed forces who requests access to a SpecialVictims' Counsel, a Special Victims' Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
+(4)(A) Subject to subparagraph (B), if a Special Victims' Counsel is not available at a military installation for access by a member of the armed forces who requests access to a Special Victims' Counsel, a Special Victims' Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
 
 (B) If the Secretary concerned determines that, due to exigent circumstances related to military activities, a Special Victims' Counsel cannot be made available to a member of the armed forces within the time period required by subparagraph (A), the Secretary concerned shall ensure that a Special Victims' Counsel is made available to such member as soon as is practical under such circumstances.
 
@@ -296,7 +296,7 @@ Consultation process required.—The Secretary of Defense shall establish a proc
 
 &emsp;"(2)
 
-Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial.
+Convening authority consideration of preference.—The preference expressed by the victim ofan alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial.
 
 &emsp;"(3)
 
@@ -324,7 +324,7 @@ Definitions.—In this section:
 
 #### Implementation
 
-Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title 10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 #### Enhanced Training Requirement
 

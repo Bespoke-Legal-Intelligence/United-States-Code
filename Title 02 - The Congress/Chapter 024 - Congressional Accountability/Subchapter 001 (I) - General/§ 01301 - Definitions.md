@@ -88,7 +88,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 #### (1) Coverage
 
-&emsp;With respect to the United States Commission on International Religious Freedom, theChina Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
+&emsp;With respect to the United States Commission on International Religious Freedom, the China Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
 
 &emsp;&emsp;(A) any individual who is an employee of such Commission shall be considered a covered employee for purposes of this chapter; and
 
@@ -148,7 +148,7 @@ Pub. L. 115–397, §302(b), substituted "disbursed by the Chief Administrative 
 
 Subsec. (a)(8). Pub. L. 115–397, §305(c), substituted "subparagraphs (C) through (K)" for "subparagraphs (C) through (I)".
 
-Subsec. (a)(9)(D). Pub. L. 115–397, §305(b)(2), substituted "the Office of Technology Assessment, and the John C. Stennis Center for Public Service Training and Development" for "and the Office of Technology Assessment".
+Subsec. (a)(9)(D). Pub. L. 115–397, §305(b)(2), substituted "the Office of Technology Assessment, and theJohn C. Stennis Center for Public Service Training and Development" for "and the Office of Technology Assessment".
 
 Par. (9)(E). Pub. L. 115–141, §153(a)(1)(A)(ii), added subpar. (E). Par. (9)(E) subsequently redesignated subsec. (a)(9)(E).
 

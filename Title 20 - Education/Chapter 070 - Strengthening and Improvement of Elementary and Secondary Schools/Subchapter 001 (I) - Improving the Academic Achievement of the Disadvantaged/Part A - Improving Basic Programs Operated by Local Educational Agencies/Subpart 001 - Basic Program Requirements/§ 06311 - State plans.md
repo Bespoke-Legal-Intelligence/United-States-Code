@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) developed by the State educational agency with timely and meaningful consultation with the Governor, members of the State legislature and State board of education (if the State has a State board of education), local educational agencies (including those located in rural areas), representatives of Indian tribes located in the State, teachers, principals, other school leaders, charter school leaders (if the State has charter schools), specialized instructional support personnel, paraprofessionals, administrators, other staff, and parents; and
 
-&emsp;&emsp;(B) is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (20 U.S.C. 701 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.),<sup>2</sup> the Education Sciences Reform Act of 2002 (20 U.S.C. 9501 et seq.), the Education <sup>3</sup> Technical Assistance Act of 2002 (20 U.S.C. 9601 et. seq.), the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9621 et seq.), the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.), and the Adult Education and Family Literacy Act (29 U.S.C. 3271 et seq.).
+&emsp;&emsp;(B) is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (20 U.S.C. 701 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20U.S.C. 2301 et seq.), the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.),<sup>2</sup> the Education Sciences Reform Act of 2002 (20 U.S.C. 9501 et seq.), the Education <sup>3</sup> Technical Assistance Act of 2002 (20 U.S.C. 9601 et. seq.), the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9621 et seq.), the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.), and the Adult Education and Family Literacy Act (29 U.S.C. 3271 et seq.).
 
 #### (2) Limitation
 
@@ -90,7 +90,7 @@
 
 #### (5) Public review
 
-&emsp;All written communications, feedback, and notifications under this subsection shall be conducted in a manner that is transparent and immediately made available to the public on the Department's website, including—
+&emsp;All written communications, feedback, and notifications under this subsection shall beconducted in a manner that is transparent and immediately made available to the public on the Department's website, including—
 
 &emsp;&emsp;(A) plans submitted or resubmitted by a State;
 
@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a State makes significant changes to its plan at any time, such as the adoption of new challenging State academic standards or new academic assessments undersubsection (b), or changes to its accountability system under subsection (c), such information shall be submitted to the Secretary in the form of revisions or amendments to the State plan.
+&emsp;&emsp;&emsp;If a State makes significant changes to its plan at any time, such as the adoption of new challenging State academic standards or new academic assessments under subsection (b), or changes to its accountability system under subsection (c), such information shall be submitted to the Secretary in the form of revisions or amendments to the State plan.
 
 #### (ii) Review of revised plans
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the participation in such assessments of all students;
 
-&emsp;&emsp;&emsp;&emsp;(II) the appropriate accommodations, such as interoperability with, and ability to use, assistive technology, for children with disabilities (as defined in section 602(3) of the Individuals with Disabilities Education Act (20 U.S.C. 1401(3))), including students with the most significant cognitive disabilities, and students with a disability who are provided accommodations under an Act other than the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), necessary to measure the academic achievement of such children relative to the challenging State academic standards or alternate academic achievement standards described in paragraph (1)(E); and
+&emsp;&emsp;&emsp;&emsp;(II) the appropriate accommodations, such as interoperability with, and ability to use, assistive technology, for children with disabilities (as defined in section 602(3) of the Individuals with Disabilities Education Act (20 U.S.C. 1401(3))), including students with the most significant cognitive disabilities, and students with a disability who are provided accommodations under an Act other than theIndividuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), necessary to measure the academic achievement of such children relative to the challenging State academic standards or alternate academic achievement standards described in paragraph (1)(E); and
 
 &emsp;&emsp;&emsp;&emsp;(III) the inclusion of English learners, who shall be assessed in a valid and reliable manner and provided appropriate accommodations on assessments administered to such students under this paragraph, including, to the extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency, as determined under subparagraph (G);
 
@@ -260,7 +260,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) be administered through multiple statewide interim assessments during the course of the academic year that result in a single summative score that provides valid, reliable, and transparent information on student achievement or growth;
 
-&emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in theUnited States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
+&emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in the United States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
 &emsp;&emsp;&emsp;(x) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii), regarding achievement on such assessments that allow parents, teachers, principals, and other school leaders to understand and address the specific academic needs of students, and that are provided to parents, teachers, and school leaders, as soon as is practicable after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
@@ -302,7 +302,7 @@
 
 #### (i) Alternate assessments aligned with alternate academic achievement standards
 
-&emsp;&emsp;&emsp;A State may provide for alternate assessments aligned with the challenging State academic standards and alternate academic achievement standards described in paragraph (1)(E) for students with the most significant cognitive disabilities, if the State—
+&emsp;&emsp;&emsp;A State may provide for alternate assessments aligned with the challenging State academic standards and alternate academic achievement standards described in paragraph (1)(E) for students with themost significant cognitive disabilities, if the State—
 
 &emsp;&emsp;&emsp;&emsp;(I) consistent with clause (ii), ensures that, for each subject, the total number of students assessed in such subject using the alternate assessments does not exceed 1 percent of the total number of all students in the State who are assessed in such subject;
 
@@ -444,7 +444,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) such assessment—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall measure, at a minimum, each student's academic proficiencybased on the challenging State academic standards for the student's grade level and growth toward such standards; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall measure, at a minimum, each student's academic proficiency based on the challenging State academic standards for the student's grade level and growth toward such standards; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) may measure the student's level of academic proficiency and growth using items above or below the student's grade level, including for use as part of a State's accountability system under subsection (c).
 
@@ -496,7 +496,7 @@
 
 #### (B) English learner subgroup
 
-&emsp;&emsp;With respect to a student previously identified as an English learner and for not more than 4 years after the student ceases to be identified as an English learner, a State may include the results of the student's assessments under paragraph (2)(B)(v)(I) within the English learner subgroup of the subgroups of students (as defined in subsection (c)(2)(D)) for the purposes of the State-determined accountability system.
+&emsp;&emsp;With respect to a student previously identified as an English learner and for not morethan 4 years after the student ceases to be identified as an English learner, a State may include the results of the student's assessments under paragraph (2)(B)(v)(I) within the English learner subgroup of the subgroups of students (as defined in subsection (c)(2)(D)) for the purposes of the State-determined accountability system.
 
 #### (c) Statewide accountability system
 
@@ -680,7 +680,7 @@
 
 &emsp;&emsp;&emsp;(iii) is based on a school-level needs assessment;
 
-&emsp;&emsp;&emsp;(iv) identifies resource inequities, which may include a review of local educationalagency and school-level budgeting, to be addressed through implementation of such comprehensive support and improvement plan;
+&emsp;&emsp;&emsp;(iv) identifies resource inequities, which may include a review of local educational agency and school-level budgeting, to be addressed through implementation of such comprehensive support and improvement plan;
 
 &emsp;&emsp;&emsp;(v) is approved by the school, local educational agency, and State educational agency; and
 
@@ -750,7 +750,7 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;The State educational agency, based on the State's differentiation of schools under subsection (c)(4)(C) for school year 2017–2018, shall notify local educational agencies ofany schools served by the local educational agency in which any subgroup of students, on its own, would lead to identification under subsection (c)(4)(D)(i)(I) using the State's methodology under subsection (c)(4)(D), after which notification of such schools under this paragraph shall result from differentiation of schools pursuant to subsection (c)(4)(C)(iii).
+&emsp;&emsp;The State educational agency, based on the State's differentiation of schools under subsection (c)(4)(C) for school year 2017–2018, shall notify local educational agencies of any schools served by the local educational agency in which any subgroup of students, on its own, would lead to identification under subsection (c)(4)(D)(i)(I) using the State's methodology under subsection (c)(4)(D), after which notification of such schools under this paragraph shall result from differentiation of schools pursuant to subsection (c)(4)(C)(iii).
 
 #### (3) Continued support for school and local educational agency improvement
 
@@ -880,7 +880,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;(ii) when a determination is made that it is not in such child's best interest to remain in the school of origin, the child is immediately enrolled in a new school, even if the child is unable to produce records normally required for enrollment;
 
-&emsp;&emsp;&emsp;(iii) the enrolling school shall immediately contact the school last attended byany such child to obtain relevant academic and other records; and
+&emsp;&emsp;&emsp;(iii) the enrolling school shall immediately contact the school last attended by any such child to obtain relevant academic and other records; and
 
 &emsp;&emsp;&emsp;(iv) the State educational agency will designate an employee to serve as a point of contact for child welfare agencies and to oversee implementation of the State agency responsibilities required under this subparagraph, and such point of contact shall not be the State's Coordinator for Education of Homeless Children and Youths under section 722(d)(3) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(d)(3));
 
@@ -934,7 +934,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;Nothing in paragraph (2)(N) shall be construed to—
 
-&emsp;&emsp;(A) require groups of students obtained by any entity that cross-tabulates the information provided under such paragraph to be considered subgroups of students, as definedin subsection (c)(2), for the purposes of the State accountability system under subsection (c); or
+&emsp;&emsp;(A) require groups of students obtained by any entity that cross-tabulates the information provided under such paragraph to be considered subgroups of students, as defined in subsection (c)(2), for the purposes of the State accountability system under subsection (c); or
 
 &emsp;&emsp;(B) require or prohibit States or local educational agencies from publicly reporting data in a cross-tabulated manner, in order to meet the requirements of paragraph (2)(N).
 
@@ -1064,7 +1064,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(I) placing such report card on the website of the local educational agency; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in any case in which a local educational agency does not operate awebsite, providing the information to the public in another manner determined by the local educational agency.
+&emsp;&emsp;&emsp;&emsp;(II) in any case in which a local educational agency does not operate a website, providing the information to the public in another manner determined by the local educational agency.
 
 #### (C) Minimum requirements
 
@@ -1132,7 +1132,7 @@ The Secretary shall transmit annually to the Committee on Education and the Work
 
 A State retains the right to enter into a voluntary partnership with another State to develop and implement the challenging State academic standards and assessments required under this section, except that the Secretary shall not attempt to influence, incentivize, or coerce State—
 
-&emsp;(1) adoption of the Common Core State Standards developed under the Common Core State Standards Initiative or any other academic standards common to a significantnumber of States, or assessments tied to such standards; or
+&emsp;(1) adoption of the Common Core State Standards developed under the Common Core State Standards Initiative or any other academic standards common to a significant number of States, or assessments tied to such standards; or
 
 &emsp;(2) participation in such partnerships.
 
@@ -1180,7 +1180,7 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(B), i
 
 Public Law 93–112, referred to in subsec. (b)(1)(E)(i)(V), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, known as the Rehabilitation Act of 1973, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. July 22, 2014, refers to the date of enactment of title IV (§401 et seq.) of Pub. L. 113–128, 128 Stat. 1631, which amended numerous sections in the Act. For complete classification of Pub. L. 93–112 to the Code, see Short Title note set out under section 701 of Title 29 and Tables. For complete classification of title IV of Pub. L. 113–128 to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (g)(1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generallyto parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g)(1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

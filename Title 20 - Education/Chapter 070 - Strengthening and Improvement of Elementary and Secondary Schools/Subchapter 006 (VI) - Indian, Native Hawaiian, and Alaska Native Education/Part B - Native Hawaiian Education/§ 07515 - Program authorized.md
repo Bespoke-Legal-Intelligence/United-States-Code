@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) the recruitment and preparation of Native Hawaiians, and other individuals who live in communities with a high concentration of Native Hawaiians, to become teachers;
 
-&emsp;&emsp;(H) the operation of community-based learning centers that address the needs of Native Hawaiian students, parents, families,and communities through the coordination of public and private programs and services, including—
+&emsp;&emsp;(H) the operation of community-based learning centers that address the needs of Native Hawaiian students, parents, families, and communities through the coordination of public and private programs and services, including—
 
 &emsp;&emsp;&emsp;(i) early childhood education programs;
 

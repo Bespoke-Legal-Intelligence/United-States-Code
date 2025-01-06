@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commissioner shall, in consultation with the appropriate congressional committees andthe Commercial Customs Operations Advisory Committee established under section 4316 of this title, develop and implement Centers of Excellence and Expertise throughout U.S. Customs and Border Protection that—
+The Commissioner shall, in consultation with the appropriate congressional committees and the Commercial Customs Operations Advisory Committee established under section 4316 of this title, develop and implement Centers of Excellence and Expertise throughout U.S. Customs and Border Protection that—
 
 &emsp;(1) enhance the economic competitiveness of the United States by consistently enforcing the laws and regulations of the United States at all ports of entry of the United States and by facilitating the flow of legitimate trade through increasing industry-based knowledge;
 

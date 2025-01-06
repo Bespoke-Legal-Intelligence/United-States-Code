@@ -46,7 +46,7 @@ The period during which payments are made under a grant under subsection (a) may
 
 #### (2) Use of Federal funds
 
-&emsp;With respect to any Federal amounts received by a designated research institution or consortium and available for carrying out activities for which an award under subsection (a) is authorized to be expended, the Director of the Institute may make such an award onlyif the institutions involved agree that the institutions will, before expending the award, expend the Federal amounts obtained from sources other than the award.
+&emsp;With respect to any Federal amounts received by a designated research institution or consortium and available for carrying out activities for which an award under subsection (a) is authorized to be expended, the Director of the Institute may make such an award only if the institutions involved agree that the institutions will, before expending the award, expend the Federal amounts obtained from sources other than the award.
 
 #### (f) Certain expenditures
 
@@ -78,5 +78,5 @@ Section was formerly classified to section 287c–32 of this title prior to renu
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

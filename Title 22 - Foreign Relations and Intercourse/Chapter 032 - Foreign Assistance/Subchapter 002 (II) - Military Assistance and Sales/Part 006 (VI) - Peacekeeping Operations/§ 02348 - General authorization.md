@@ -76,7 +76,7 @@ Pub. L. 94–110, Oct. 13, 1975, 89 Stat. 572, provided that:
 
 "Whereas an agreement signed on September 4, 1975, by the Government of the Arab Republic of Egypt and the Government of Israel may, when it enters into force, constitute a significant step toward peace in the Middle East;
 
-"Whereas the President of the United States on September 1, 1975, transmitted to the Government of the Arab Republic of Egypt and to the Government of Israel identical proposals for United States participation in an early-warning system, the text of which has been submitted to the Congress, providing for the assignment of no more than two hundred United States civilian personnel to carry out certain specified noncombat functions and setting forth the terms and conditions thereof;
+"Whereas the President of the United States on September 1, 1975, transmitted to the Government of theArab Republic of Egypt and to the Government of Israel identical proposals for United States participation in an early-warning system, the text of which has been submitted to the Congress, providing for the assignment of no more than two hundred United States civilian personnel to carry out certain specified noncombat functions and setting forth the terms and conditions thereof;
 
 "Whereas that proposal would permit the Government of the United States to withdraw such personnel if it concludes that their safety is jeopardized or that continuation of their role is no longer necessary; and
 

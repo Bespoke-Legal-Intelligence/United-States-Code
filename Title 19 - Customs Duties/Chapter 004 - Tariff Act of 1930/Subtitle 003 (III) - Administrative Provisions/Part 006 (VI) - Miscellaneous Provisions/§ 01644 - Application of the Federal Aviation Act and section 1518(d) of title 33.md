@@ -18,7 +18,7 @@ In subsec. (a), "section 1644a(b)(1) of this title" substituted for "section 110
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted reference to section 1509 of title 49, Appendix, for reference to section 177 of former title 49, struck out reference tothe Commissioner of Customs, and inserted reference to the Anti-Smuggling Act of 1935.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted reference to section 1509 of title 49, Appendix, for reference to section 177 of former title 49, struck out reference to the Commissioner of Customs, and inserted reference to the Anti-Smuggling Act of 1935.
 
 Subsec. (b). Pub. L. 98–473 reenacted subsec. (b) without change.
 

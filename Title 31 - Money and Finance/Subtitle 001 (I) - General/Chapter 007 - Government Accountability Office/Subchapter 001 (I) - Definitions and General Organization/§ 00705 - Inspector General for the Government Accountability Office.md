@@ -16,9 +16,41 @@ Appointment, Supervision, and Removal.—
 
 &emsp;(1) The Office of the Inspector General shall be headed by an Inspector General, who shall be appointed by the Comptroller General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Comptroller General.
 
-&emsp;(2) The Inspector General may be removed from office by the Comptroller General. The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
+&emsp;(2)(A) The Inspector General may be removed from office by the Comptroller General.
 
-&emsp;(3) The Inspector General shall be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General, and may not receive any cash award or bonus, including any award under chapter 45 of title 5.
+&emsp;(B) If the Inspector General is removed from office or is transferred to another position or location within the Government Accountability Office, the Comptroller General shall communicate in writing the substantive rationale, including detailed and case-specific reasons, for any such removal or transfer to both Houses of Congress (including to the appropriate congressional committees), not later than 30 days before the removal or transfer.
+
+&emsp;(C) If there is an open or completed inquiry into the Inspector General that relates to the removal or transfer of the Inspector General under subparagraph (A), the written communication required under subparagraph (B) shall—
+
+&emsp;&emsp;(i) identify each entity that is conducting, or that conducted, the inquiry; and
+
+&emsp;&emsp;(ii) in the case of a completed inquiry, contain the findings made during the inquiry.
+
+&emsp;(D) Nothing in this paragraph shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.
+
+&emsp;(3)(A) Subject to the other provisions of this paragraph, only the Comptroller General may place the Inspector General on non-duty status.
+
+&emsp;(B) If the Comptroller General places the Inspector General on non-duty status, the Comptroller General shall communicate in writing the substantive rationale, including detailed and case-specific reasons, for the change in status to both Houses of Congress (including to the appropriate congressional committees) not later than 15 days before the date on which the change in status takes effect, except that the Comptroller General may submit that communication not later than the date on which the change in status takes effect if—
+
+&emsp;&emsp;(i) the Comptroller General has made a determination that the continued presence of the Inspector General in the workplace poses a specific threat; and
+
+&emsp;&emsp;(ii) in the communication, the Comptroller General includes a report on the determination described in clause (i), which shall include—
+
+&emsp;&emsp;&emsp;(I) the substantive rationale, including detailed and case-specific reasons, for the determination made under clause (i);
+
+&emsp;&emsp;&emsp;(II) an identification of each entity that is conducting, or that conducted, any inquiry upon which the determination under clause (i) was made; and
+
+&emsp;&emsp;&emsp;(III) in the case of an inquiry described in subclause (II) that is completed, the findings made during that inquiry.
+
+&emsp;(C) The Comptroller General may not place the Inspector General on non-duty status during the 30-day period preceding the date on which the Inspector General is removed or transferred under paragraph (2)(A) unless the Comptroller General—
+
+&emsp;&emsp;(i) has made a determination that the continued presence of the Inspector General in the workplace poses a specific threat; and
+
+&emsp;&emsp;(ii) not later than the date on which the change in status takes effect, submits to both Houses of Congress (including to the appropriate congressional committees) a written communication that contains the information required under subparagraph (B), including the report required under clause (ii) of that subparagraph.
+
+&emsp;(D) Nothing in this paragraph may be construed to limit or otherwise modify any statutory protection that is afforded to the Inspector General or a personnel action that is otherwise authorized by law.
+
+&emsp;(4) The Inspector General shall be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General, and may not receive any cash award or bonus, including any award under chapter 45 of title 5.
 
 (c)
 
@@ -52,7 +84,7 @@ Complaints by Employees.—
 
 &emsp;(2) The Inspector General shall not, after receipt of a complaint or information from an employee, disclose the identity of the employee without the consent of the employee, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 
-&emsp;(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisalfor making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
 (e)
 
@@ -70,7 +102,15 @@ Semiannual Reports.—(1) The Inspector General shall submit semiannual reports 
 
 (f)
 
-Independence in Carrying Out Duties and Responsibilities.—The Comptroller General may not prevent or prohibit the Inspector General from carrying out any of the duties or responsibilities of the Inspector General under this section.
+Independence in Carrying Out Duties and Responsibilities.—
+
+&emsp;(1)
+
+Prohibition.—The Comptroller General may not prevent or prohibit the Inspector General from carrying out any of the duties or responsibilities of the Inspector General under this section.
+
+&emsp;(2)
+
+Budget independence.—The Comptroller General shall include the annual budget request of the Inspector General in the budget of the Government Accountability Office without change.
 
 (g)
 
@@ -78,7 +118,7 @@ Authority for Staff.—
 
 &emsp;(1)
 
-In general.—The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
+In general.—The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service.
 
 &emsp;(2)
 
@@ -91,6 +131,10 @@ Independence in appointing staff.—No individual may carry out any of the dutie
 &emsp;(4)
 
 Limitation on program responsibilities.—The Inspector General and any individual carrying out any of the duties or responsibilities of the Office of the Inspector General are prohibited from performing any program responsibilities.
+
+&emsp;(5)
+
+Legal advice.—The Inspector General shall, in accordance with applicable laws and regulations governing selections, appointments, and employment at the Government Accountability Office, obtain legal advice from a counsel reporting directly to the Inspector General or another Inspector General.
 
 (h)
 
@@ -106,9 +150,23 @@ Office Space.—The Comptroller General shall provide the Office of the Inspecto
 
 (i)
 
-Definition.—As used in this section, the term "Federal agency" means a department,agency, instrumentality, or unit thereof, of the Federal Government.
+Definition.—As used in this section, the term "Federal agency" means a department, agency, instrumentality, or unit thereof, of the Federal Government.
 
-(Added Pub. L. 110–323, §5(a), Sept. 22, 2008, 122 Stat. 3544.)
+(Added Pub. L. 110–323, §5(a), Sept. 22, 2008, 122 Stat. 3544; amended Pub. L. 118–131, §2, Nov. 25, 2024, 138 Stat. 1641.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (b)(2). Pub. L. 118–131, §2(1)(A), designated existing provisions as subpar. (A), struck out "The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress." at end of subpar. (A), and added subpars. (B) to (D).
+
+Subsecs. (b)(3), (4). Pub. L. 118–131, §2(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (f). Pub. L. 118–131, §2(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (g)(1). Pub. L. 118–131, §2(3)(A), struck out ", except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General" after "competitive service".
+
+Subsec. (g)(5). Pub. L. 118–131, §2(3)(B), added par. (5).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

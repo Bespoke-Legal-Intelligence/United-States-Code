@@ -128,7 +128,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) negative subsistence impact for the affected fishery, or if a fishery resource disaster has occurred at any time in the previous 5-year period, the most recent 5 years when no fishery resource disaster occurred;
 
-&emsp;&emsp;&emsp;&emsp;(III) if applicable, information on lost resource tax revenues assessed by local communities, such as a raw fish tax and local sourcing requirements; and
+&emsp;&emsp;&emsp;&emsp;(III) if applicable, information on lost resource tax revenues assessed by localcommunities, such as a raw fish tax and local sourcing requirements; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) if applicable and available, information on affected fishery 12-month revenue loss for charter, headboat, or processors related to the information provided under subclause (I), subject to section 1881a(b) of this title.
 
@@ -312,13 +312,25 @@
 
 #### (D) Spend plans
 
-&emsp;&emsp;To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
+&emsp;&emsp;&emsp;To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
 
-&emsp;&emsp;&emsp;(ii) Statement of work.
+&emsp;&emsp;&emsp;&emsp;(I) Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
 
-&emsp;&emsp;&emsp;(iii) Budget details.
+&emsp;&emsp;&emsp;&emsp;(II) Statement of work.
+
+&emsp;&emsp;&emsp;&emsp;(III) Budget details.
+
+#### (ii) Review
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall review a spend plan submitted under clause (i) to determine if it is complete and provide notice within 10 days.
+
+#### (II) Incomplete spend plan
+
+&emsp;&emsp;&emsp;&emsp;If the Secretary determines that a spend plan submitted under clause (i) is not complete, when providing the notice required by subclause (I), the Secretary shall provide a detailed description of the information that is necessary for the spend plan to be determined complete.
 
 #### (E) Regional contact
 
@@ -328,7 +340,13 @@
 
 #### (i) Availability
 
-&emsp;&emsp;&emsp;Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+#### (I) Timeline
+
+&emsp;&emsp;&emsp;&emsp;Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+
+#### (II) Review of completed spend plan and apportionment of funds
+
+&emsp;&emsp;&emsp;&emsp;If so requested, the Director of the Office of Management and Budget may review a completed spend plan concurrently with the Secretary. The Director of the Office of Management and Budget may not delay the timeline described in subclause (I).
 
 #### (ii) Method
 
@@ -398,7 +416,7 @@
 
 #### (ii) Assistance conditions
 
-&emsp;&emsp;&emsp;As a condition of providing assistance under this subsection with respect to a vessel under a fishing capacity reduction program, the Secretary shall—
+&emsp;&emsp;&emsp;As a condition of providing assistance under this subsection with respect to avessel under a fishing capacity reduction program, the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) prohibit the vessel from being used for fishing in Federal, State, or international waters; and
 
@@ -448,7 +466,7 @@
 
 (2) The objective of the program shall be to obtain the maximum sustained reduction in fishing capacity at the least cost and in a minimum period of time. To achieve that objective, the Secretary is authorized to pay—
 
-&emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent itsuse in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
+&emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
 
 &emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
 
@@ -470,7 +488,7 @@ In general.—Subject to the availability of funds, the Secretary shall, within 
 
 &emsp;&emsp;(i) identifying and describing the 20 fisheries in United States waters with the most severe examples of excess harvesting capacity in the fisheries, based on value of each fishery and the amount of excess harvesting capacity as determined by the Secretary;
 
-&emsp;&emsp;(ii) recommending measures for reducing such excess harvesting capacity, including the retirement of any latent fishing permits that could contribute to further excess harvesting capacity in those fisheries; and
+&emsp;&emsp;(ii) recommending measures for reducing such excess harvesting capacity, includingthe retirement of any latent fishing permits that could contribute to further excess harvesting capacity in those fisheries; and
 
 &emsp;&emsp;(iii) potential sources of funding for such measures.
 
@@ -528,7 +546,7 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 #### (3) Harvester proponents' implementation plan
 
-&emsp;The Secretary may not propose implementation regulations for a program to be paid for by an industry fee system until the harvesterproponents of the program provide to the Secretary a proposed implementation plan that, among other matters—
+&emsp;The Secretary may not propose implementation regulations for a program to be paid for by an industry fee system until the harvester proponents of the program provide to the Secretary a proposed implementation plan that, among other matters—
 
 &emsp;&emsp;(A) proposes the types and numbers of vessels or permits that are eligible to participate in the program and the manner in which the program shall proceed, taking into account—
 
@@ -550,7 +568,7 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 #### (4) Participation contracts
 
-&emsp;The Secretary shall contract with each person participating in a program, and each such contract shall, in addition to including such other matters as the Secretary deems necessary and appropriate to effectively implement each program (including penalties for contract non-performance) be consistent with the framework and implementing regulations and all other applicable law.
+&emsp;The Secretary shall contract with each person participating in a program, and each such contract shall, in addition to including suchother matters as the Secretary deems necessary and appropriate to effectively implement each program (including penalties for contract non-performance) be consistent with the framework and implementing regulations and all other applicable law.
 
 #### (5) Reduction auctions
 
@@ -560,7 +578,7 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 &emsp;Each program shall proceed by the Secretary issuing invitations to bid setting out the terms and conditions for participation consistent with the framework and implementing regulations. Each bid that the Secretary receives in response to the invitation to bid shall constitute an irrevocable offer from the bidder.
 
-(Pub. L. 94–265, title III, §312, as added Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600; amended Pub. L. 109–479, title I, §112(a), Jan. 12, 2007, 120 Stat. 3598; Pub. L. 117–328, div. S, title II, §202, Dec. 29, 2022, 136 Stat. 5261.)
+(Pub. L. 94–265, title III, §312, as added Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600; amended Pub. L. 109–479, title I, §112(a), Jan. 12, 2007, 120 Stat. 3598; Pub. L. 117–328, div. S, title II, §202, Dec. 29, 2022, 136 Stat. 5261; Pub. L. 118–229, §2, Jan. 4, 2025, 138 Stat. 2824.)
 
 #### <b>Editorial Notes</b>
 
@@ -577,6 +595,10 @@ In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), "section 53735 of title 46" s
 A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(6)(D). Pub. L. 118–229, §2(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) related to spend plans.
+
+Subsec. (a)(6)(F)(i). Pub. L. 118–229, §2(2), amended cl. (i) generally. Prior to amendment, text read as follows: "Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan."
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–328 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to fisheries disaster relief.
 
@@ -612,7 +634,7 @@ Pub. L. 109–479, title I, §112(b), Jan. 12, 2007, 120 Stat. 3601, provided th
 
 #### Budget Request for Department of Commerce
 
-Pub. L. 117–328, div. S, title II, §205(a), Dec. 29, 2022, 136 Stat. 5270, provided that: "In the budget justification materials submitted to Congress in support of the budget of the Department of Commerce for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the Secretary of Commerce shall include a separate statement of the amount for each outstanding unfunded fishery resource disasters."
+Pub. L. 117–328, div. S, title II, §205(a), Dec. 29, 2022, 136 Stat. 5270, provided that: "In the budget justification materials submitted to Congress in support of the budget of the Department of Commerce for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code),the Secretary of Commerce shall include a separate statement of the amount for each outstanding unfunded fishery resource disasters."
 
 #### Study of Federal Investment in Fisheries
 

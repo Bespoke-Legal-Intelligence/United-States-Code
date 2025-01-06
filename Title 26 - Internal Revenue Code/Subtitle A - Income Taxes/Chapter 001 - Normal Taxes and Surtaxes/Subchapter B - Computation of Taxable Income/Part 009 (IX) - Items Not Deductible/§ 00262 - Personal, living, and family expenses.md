@@ -14,7 +14,7 @@ For purposes of subsection (a), in the case of an individual, any charge (includ
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: "Except as otherwise expressly provided in this chapter, no deduction shall be allowed for personal, living, or family expenses."
+<b>1988</b>—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: "Except as otherwise expressly provided in this chapter, no deductionshall be allowed for personal, living, or family expenses."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

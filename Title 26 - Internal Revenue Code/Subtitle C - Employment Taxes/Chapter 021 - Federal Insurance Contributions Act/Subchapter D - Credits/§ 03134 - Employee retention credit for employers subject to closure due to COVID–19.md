@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (ii) Allocation rules
 
-&emsp;&emsp;&emsp;For purposes of this section, amounts treated as wages under clause (i) shall betreated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
+&emsp;&emsp;&emsp;For purposes of this section, amounts treated as wages under clause (i) shall be treated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
 
 #### (5) Recovery startup business
 

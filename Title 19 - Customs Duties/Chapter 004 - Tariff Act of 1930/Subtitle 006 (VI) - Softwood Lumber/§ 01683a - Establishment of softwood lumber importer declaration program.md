@@ -20,7 +20,7 @@ The President shall require the following information to be submitted by any per
 
 #### (c) Importer declarations
 
-Pursuant to procedures prescribed by the President, any person seeking to importsoftwood lumber or softwood lumber products described in section 1683b(a) of this title shall declare that—
+Pursuant to procedures prescribed by the President, any person seeking to import softwood lumber or softwood lumber products described in section 1683b(a) of this title shall declare that—
 
 &emsp;(1) the person has made appropriate inquiry, including seeking appropriate documentation from the exporter and consulting the determinations published by the Under Secretary for International Trade of the Department of Commerce pursuant to section 1683c(b) of this title; and
 

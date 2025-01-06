@@ -132,7 +132,7 @@ Annual reports.—Not later than 540 days after the date of enactment of this se
 
 The date of enactment of this section, referred to in subsecs. (b)(2), (c)(2), and (h)(2), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463,which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

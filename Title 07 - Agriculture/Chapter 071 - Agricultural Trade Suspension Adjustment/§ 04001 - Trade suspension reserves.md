@@ -26,7 +26,7 @@ Within thirty days after the export of any agricultural commodity to a country o
 
 (2)
 
-Applicability of certain provisions.—Subsections (c), (d), (e), and (f)(2) of section1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1), except that the references to "eligible commodities" in the subsections shall be deemed to be references to "agricultural commodities".
+Applicability of certain provisions.—Subsections (c), (d), (e), and (f)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1), except that the references to "eligible commodities" in the subsections shall be deemed to be references to "agricultural commodities".
 
 (3) Any determination by the President or the Secretary of Agriculture under this section shall be final.
 

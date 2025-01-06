@@ -2,7 +2,7 @@
 
 #### (a) General
 
-It shall be unlawful to have or possess any liquor or property intended for use in violating any provision of this chapter or regulations issued pursuant thereto, or which has been so used, and every person so having or possessing or using such liquor or property, shall be fined not more than $5,000, or imprisoned not more than 1 year, or both.
+It shall be unlawful to have or possess any liquor or property intended for use in violating any provision of this chapter or regulations issuedpursuant thereto, or which has been so used, and every person so having or possessing or using such liquor or property, shall be fined not more than $5,000, or imprisoned not more than 1 year, or both.
 
 #### (b) Cross reference
 

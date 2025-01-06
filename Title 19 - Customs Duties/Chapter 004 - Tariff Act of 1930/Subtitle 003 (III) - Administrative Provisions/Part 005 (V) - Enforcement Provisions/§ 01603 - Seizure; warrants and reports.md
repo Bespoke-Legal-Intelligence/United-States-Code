@@ -14,7 +14,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §603, 42 Stat. 984. That section was superseded by section 603 ofact June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §603, 42 Stat. 984. That section was superseded by section 603 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision requiring the collector or other person causing a seizure to be made to give information thereof to the Solicitor of the Treasury, was contained in R.S. §3083, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247. R.S. §3084 required collectors to report to the district attorney of the district in which any fine, penalty, or forfeiture might be incurred, a statement of all the facts and circumstances. Officers of customs detecting violations of the customs laws were required to report to the collectors, and the latter were required to report to the district attorneys, by act June 22, 1874, ch. 391, §15, 18 Stat. 189. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
 

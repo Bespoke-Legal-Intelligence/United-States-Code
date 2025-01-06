@@ -54,7 +54,7 @@ The Director may enter into contracts under this section with research organizat
 
 #### (4) Objectives and indicators
 
-&emsp;Before entering into a contract under this section, the Director shall design specific objectives and measurable indicators to be used to assess the particular programs or initiatives, and ongoing progress and performance, of the regional educational laboratories, in order to ensure that the educational needs of the region are being met and that the latest and best research and proven practices are being carried out as part of school improvement efforts.
+&emsp;Before entering into a contract under this section, the Director shall design specific objectives and measurable indicators to be used to assess the particular programs or initiatives, and ongoing progress and performance, of the regional educational laboratories, in order to ensure that the educational needs of the region are being met and that the latest and best research and proven practices arebeing carried out as part of school improvement efforts.
 
 #### (5) Standards
 
@@ -86,7 +86,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;(B) the National Center for Education Evaluation and Regional Assistance;
 
-&emsp;(3) developing a plan for identifying and serving the needs of the region by conducting a continuing survey of the educational needs,strengths, and weaknesses within the region, including a process of open hearings to solicit the views of schools, teachers, administrators, parents, local educational agencies, librarians, and State educational agencies within the region;
+&emsp;(3) developing a plan for identifying and serving the needs of the region by conducting a continuing survey of the educational needs, strengths, and weaknesses within the region, including a process of open hearings to solicit the views of schools, teachers, administrators, parents, local educational agencies, librarians, and State educational agencies within the region;
 
 &emsp;(4) in the event such quality applied research does not exist as determined by the regional educational laboratory or the Department, carrying out applied research projects that are designed to serve the particular educational needs (in prekindergarten through grade 16) of the region in which the regional educational laboratory is located, that reflect findings from scientifically valid research, and that result in user-friendly, replicable school-based classroom applications geared toward promoting increased student achievement, including using applied research to assist in solving site-specific problems and assisting in development activities (including high-quality and on-going professional development and effective parental involvement strategies);
 
@@ -156,7 +156,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;&emsp;&emsp;(IV) determines at the start of the contract period, subject to the requirements of this section and in consultation with the Evaluation and Regional Assistance Commissioner, the mission of the regional educational laboratory for the duration of the contract period;
 
-&emsp;&emsp;&emsp;(v) ensures that the regional educational laboratory attains and maintains a highlevel of quality in the laboratory's work and products;
+&emsp;&emsp;&emsp;(v) ensures that the regional educational laboratory attains and maintains a high level of quality in the laboratory's work and products;
 
 &emsp;&emsp;&emsp;(vi) establishes standards to ensure that the regional educational laboratory has strong and effective governance, organization, management, and administration, and employs qualified staff;
 
@@ -218,7 +218,7 @@ Nothing in this section shall be construed to require any modifications in a reg
 
 The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (b) and (c), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
-Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382,title I, §101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§8621 et seq.), B (§8651 et seq.), C (§8671 et seq.), and D (§8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
+Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§8621 et seq.), B (§8651 et seq.), C (§8671 et seq.), and D (§8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 

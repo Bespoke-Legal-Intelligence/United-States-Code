@@ -20,7 +20,7 @@ Other Transportation.—In prescribing prices under subsection (b) of this secti
 
 (d)
 
-Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretarymay prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
+Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
 
 &emsp;(1) the condition that the carrier may hold and operate under a certificate authorizing the transportation of mail only by providing necessary and adequate facilities and service for the transportation of mail.
 

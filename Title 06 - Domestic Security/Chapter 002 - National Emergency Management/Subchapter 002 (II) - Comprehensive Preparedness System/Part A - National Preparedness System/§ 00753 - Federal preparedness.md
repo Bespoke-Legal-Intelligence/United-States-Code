@@ -64,7 +64,7 @@ An operations plan developed under subsection (a)(4) shall meet the following re
 
 &emsp;&emsp;(G) The coordination of Department of Defense and National Guard support of civilian authorities.
 
-&emsp;&emsp;(H) To the extent practicable, the utilization of Department of Defense, National Air and Space Administration, National Oceanic and Atmospheric Administration, and commercial aircraft and satellite remotely sensed imagery.
+&emsp;&emsp;(H) To the extent practicable, the utilization of Department of Defense, National Air and Space Administration, National Oceanicand Atmospheric Administration, and commercial aircraft and satellite remotely sensed imagery.
 
 &emsp;&emsp;(I) The coordination and integration of support from the private sector and nongovernmental organizations.
 

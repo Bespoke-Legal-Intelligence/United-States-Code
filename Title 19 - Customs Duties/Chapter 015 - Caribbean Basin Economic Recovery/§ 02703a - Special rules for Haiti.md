@@ -168,7 +168,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-> &emsp;&emsp;&emsp;&emsp;of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of thatproducer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+> &emsp;&emsp;&emsp;&emsp;of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
 #### (III) Retroactive application of duty-free treatment
 
@@ -241,7 +241,7 @@ In this section:
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to notmore than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iii) Other preferential treatment not affected by quantitative limitation
 
@@ -413,7 +413,7 @@ In this section:
 
 #### (C) Luggage and similar items
 
-&emsp;&emsp;Any article classifiable under subheading 4202.12, 4202.22, 4202.32 or 4202.92 of the HTS that is wholly assembled in Haiti and is imported directly from Haiti or the DominicanRepublic shall enter the United States free of duty, without regard to the source of the fabric, components, or materials from which the article is made.
+&emsp;&emsp;Any article classifiable under subheading 4202.12, 4202.22, 4202.32 or 4202.92 of the HTS that is wholly assembled in Haiti and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, components, or materials from which the article is made.
 
 #### (D) Headgear
 
@@ -717,7 +717,7 @@ In this section:
 
 #### (i) Establishment
 
-&emsp;&emsp;&emsp;The Secretary of Commerce shall establish a program to provide earned import allowance certificates to any producer or entity controlling production for purposes of subparagraph (A), based on the elements described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary of Commerce shall establish a program to provide earned import allowance certificates to any producer orentity controlling production for purposes of subparagraph (A), based on the elements described in clause (ii).
 
 #### (ii) Elements
 
@@ -737,7 +737,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(V) The Secretary of Commerce may make available to each person or entity identified in documentation submitted under subclause (III) or (IV) information contained in such documentation that relates to the purchase of qualifying woven fabric or qualifying knit fabric involving such person or entity.
 
-&emsp;&emsp;&emsp;&emsp;(VI) The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to theearned import allowance certificates required under subparagraph (A)(i).<sup>2</sup>
+&emsp;&emsp;&emsp;&emsp;(VI) The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subparagraph (A)(i).<sup>2</sup>
 
 &emsp;&emsp;&emsp;&emsp;(VII) The Secretary of Commerce may reconcile discrepancies in information provided under subclause (III) or (IV) and verify the accuracy of such information.
 
@@ -763,7 +763,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain nylon filament yarn to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 
-&emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
+&emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible asqualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
 
 &emsp;&emsp;&emsp;&emsp;(III) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns covered by clause (i) or (ii) of paragraph (5)(A).
 
@@ -873,7 +873,7 @@ In this section:
 
 #### (A) Presidential certification of compliance by Haiti with requirements
 
-&emsp;&emsp;Upon the expiration of the 16-month period beginning on the date of the enactment ofthe Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, Haiti shall continue to be eligible for the preferential treatment provided under subsection (b) only if the President determines and certifies to the Congress that—
+&emsp;&emsp;Upon the expiration of the 16-month period beginning on the date of the enactment of the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, Haiti shall continue to be eligible for the preferential treatment provided under subsection (b) only if the President determines and certifies to the Congress that—
 
 &emsp;&emsp;&emsp;(i) Haiti has implemented the requirements set forth in paragraphs (2) and (3); and
 
@@ -1129,7 +1129,7 @@ Subsec. (b)(1)(A). Pub. L. 111–171, §7(2)(A), substituted "the initial applic
 
 Subsec. (b)(1)(B)(i). Pub. L. 111–171, §7(2)(B)(i), in introductory provisions, substituted "the initial applicable 1-year period and any 1-year period thereafter" for "any applicable 1-year period" and "that 1-year period" for "the applicable 1-year period".
 
-Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, §7(2)(B)(ii), struck out "applicable" after "Other" in heading andsubstituted "In any 1-year period after the initial applicable 1-year period" for "In each of the second, third, fourth, and fifth applicable 1-year periods" and "during the 1-year period" for "during the applicable 1-year period" in introductory provisions and "preceding 1-year period" for "preceding applicable 1-year period" in concluding provisions.
+Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, §7(2)(B)(ii), struck out "applicable" after "Other" in heading and substituted "In any 1-year period after the initial applicable 1-year period" for "In each of the second, third, fourth, and fifth applicable 1-year periods" and "during the 1-year period" for "during the applicable 1-year period" in introductory provisions and "preceding 1-year period" for "preceding applicable 1-year period" in concluding provisions.
 
 Subsec. (b)(1)(B)(v)(I)(aa). Pub. L. 111–171, §7(2)(B)(iii)(I), substituted "and the succeeding 8 1-year periods" for ", the second applicable 1-year period, and the third applicable 1-year period".
 
@@ -1181,7 +1181,7 @@ Subsec. (a)(8). Pub. L. 110–246, §15403(1)(A), redesignated par. (5) as (8).
 
 Subsec. (b). Pub. L. 110–246, §15402(a)(5), (b), (c), as amended by Pub. L. 110–436, §7(1), added pars. (1)(D), (2), and (3).
 
-Pub. L. 110–246, §15402(a)(4), as amended by Pub. L. 110–436, §7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted "subparagraph (A)" for "paragraph (1)" in two places, in table substituted "1.25 percent" for "1.5 percent" during the third applicable 1-year period, "1.25 percent" for "1.75 percent" during the fourth applicable 1-year period, and "1.25 percent" for "2 percent" during the fifth applicable 1-year period.
+Pub. L. 110–246, §15402(a)(4), as amended by Pub. L. 110–436, §7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted "subparagraph (A)"for "paragraph (1)" in two places, in table substituted "1.25 percent" for "1.5 percent" during the third applicable 1-year period, "1.25 percent" for "1.75 percent" during the fourth applicable 1-year period, and "1.25 percent" for "2 percent" during the fifth applicable 1-year period.
 
 Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted "that enters into force thereafter" for "that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)", amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted "U.S. Customs and Border Protection" for "The Bureau of Customs and Border Protection" in subcl. (I) and for "the Bureau of Customs and Border Protection" in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted "with respect to the United States" for "under the Bipartisan Trade Promotion Authority Act of 2002".
 
@@ -1221,7 +1221,7 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15412, May 22, 2008, 122 Stat. 1547, and Pub. L. 110–246, §4(a), title XV, §15412, June 18, 2008, 122 Stat. 1664, 2309, provided that:
 
@@ -1257,7 +1257,7 @@ Pub. L. 111–171, §2, May 24, 2010, 124 Stat. 1194, provided that: "Congress f
 
 &emsp;"(4) In recent years, however, the Government and people of Haiti had taken important steps forward to promote economic growth and development, including making strides towards establishing a competitive apparel sector.
 
-&emsp;"(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[Pub. L. 106–200, title II, see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[Pub. L. 109–432, div. D, title V, see Tables for classification\], and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 \[Pub. L. 110–234, title XV, subtitle D, part I, and Pub. L. 110–246, title XV, subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti's economic development efforts.
+&emsp;"(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[Pub. L. 106–200, title II, see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[Pub. L. 109–432, div. D, title V, see Tables for classification\], and the Haitian Hemispheric Opportunity through PartnershipEncouragement Act of 2008 \[Pub. L. 110–234, title XV, subtitle D, part I, and Pub. L. 110–246, title XV, subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti's economic development efforts.
 
 &emsp;"(6) However, the Haitian apparel sector has been hard hit by the January 12, 2010, earthquake. A number of apparel factories based in and around Port-au-Prince have been heavily damaged, including the collapse of one major apparel factory that had employed nearly 4,000 workers.
 

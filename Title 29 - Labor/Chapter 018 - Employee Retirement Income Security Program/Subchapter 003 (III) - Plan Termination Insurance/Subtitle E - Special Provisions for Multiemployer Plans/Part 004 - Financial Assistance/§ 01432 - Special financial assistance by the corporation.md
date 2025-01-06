@@ -36,7 +36,7 @@ Within 120 days of March 11, 2021, the corporation shall issue regulations or gu
 
 &emsp;(2) specify effective dates for transfers of special financial assistance following approval of an application, based on the effective date of the supporting actuarial analysis and the date on which the application is submitted; and
 
-&emsp;(3) provide for an alternate application for special financial assistance under this section, which may be used by a plan that has been approved for a partition under section 1413 of this title before March 11, 2021.
+&emsp;(3) provide for an alternate application for special financial assistance under this section,which may be used by a plan that has been approved for a partition under section 1413 of this title before March 11, 2021.
 
 #### (d) Temporary priority consideration of applications
 
@@ -68,7 +68,7 @@ Within 120 days of March 11, 2021, the corporation shall issue regulations or gu
 
 #### (3) Interest rate limit
 
-&emsp;The interest rate limit for purposes of this subsection is the rate specified in section 1083(h)(2)(C)(iii) of this title (disregarding modifications made under clause (iv) of such section) for the month in which the application for special financial assistance is filed bythe eligible multiemployer plan or the 3 preceding months, with such specified rate increased by 200 basis points.
+&emsp;The interest rate limit for purposes of this subsection is the rate specified in section 1083(h)(2)(C)(iii) of this title (disregarding modifications made under clause (iv) of such section) for the month in which the application for special financial assistance is filed by the eligible multiemployer plan or the 3 preceding months, with such specified rate increased by 200 basis points.
 
 #### (4) Changes in assumptions
 
@@ -90,11 +90,11 @@ The payment made by the corporation to an eligible multiemployer plan under this
 
 #### (1) In general
 
-&emsp;Special financial assistance under this section shall be a transfer of funds in the amount necessary as demonstrated by the plan sponsor on the application for such special financial assistance, in accordance with the requirements described in subsection (j). Special financial assistance shall be paid to such plan as soon as practicable upon approval of the application by the corporation.
+&emsp;Special financial assistance under this section shall be a transfer of funds in the amount necessary as demonstrated by the plan sponsoron the application for such special financial assistance, in accordance with the requirements described in subsection (j). Special financial assistance shall be paid to such plan as soon as practicable upon approval of the application by the corporation.
 
 #### (2) No cap
 
-&emsp;Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a of this title.
+&emsp;Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a <sup>1</sup> of this title.
 
 #### (j) Determination of amount of special financial assistance
 
@@ -120,7 +120,7 @@ The Secretary, in coordination with the Secretary of the Treasury, shall ensure 
 
 #### (l) Restrictions on the use of special financial assistance
 
-Special financial assistance received under this section and any earnings thereon may be used by an eligible multiemployer plan to make benefit payments and pay plan expenses. Specialfinancial assistance and any earnings on such assistance shall be segregated from other plan assets. Special financial assistance shall be invested by plans in investment-grade bonds or other investments as permitted by the corporation.
+Special financial assistance received under this section and any earnings thereon may be used by an eligible multiemployer plan to make benefit payments and pay plan expenses. Special financial assistance and any earnings on such assistance shall be segregated from other plan assets. Special financial assistance shall be invested by plans in investment-grade bonds or other investments as permitted by the corporation.
 
 #### (m) Conditions on plans receiving special financial assistance
 
@@ -169,4 +169,6 @@ In prescribing the application process for eligible multiemployer plans to recei
 &emsp;(3) If the corporation specifies in regulations or guidance that temporary priority consideration is available for plans which are insolvent within the meaning of section 418E of title 26 or likely to become so insolvent or for plans which have suspended benefits under section 1085(e)(9) of this title, or that availability is otherwise based on the funded status of the plan under section 1085 of this title, as permitted by subsection (d), the corporation shall consult with the Secretary of the Treasury regarding any granting of priority consideration to such plans.
 
 (Pub. L. 93–406, title IV, §4262, as added Pub. L. 117–2, title IX, §9704(b), Mar. 11, 2021, 135 Stat. 190.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

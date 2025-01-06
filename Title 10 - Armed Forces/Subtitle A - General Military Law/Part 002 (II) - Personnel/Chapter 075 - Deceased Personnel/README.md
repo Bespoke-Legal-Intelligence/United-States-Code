@@ -21,7 +21,7 @@ Pub. L. 117–263, div. A, title V, §527, Dec. 23, 2022, 136 Stat. 2572, provid
 
 "(a)
 
-Study.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall conduct a study on the notification processes of the next of kin upon the death of a member of the Armed Forces. In conducting the study, the Secretary shall identify the following elements:
+Study.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall conduct a study on the notification processes of the next of kin upon the death of a memberof the Armed Forces. In conducting the study, the Secretary shall identify the following elements:
 
 &emsp;"(1) The time it takes for such notification to occur after such death, recovery of remains, and identification of remains. Such time shall be determined through an analysis of data regarding cases involving such notifications.
 

@@ -22,7 +22,7 @@ Pub. L. 106–57, title I, §6, Sept. 29, 1999, 113 Stat. 412, provided that: "T
 
 #### Senior Counsel
 
-Pub. L. 85–75, July 1, 1957, 71 Stat. 251, provided in part that: "No more than three employees in the Office of the Legislative Counsel of the Senate may be designated as Senior Counsel, whose compensation shall be $15,500 gross per annum each."
+Pub. L. 85–75, July 1, 1957, 71 Stat. 251, provided in part that: "No more than three employees in the Officeof the Legislative Counsel of the Senate may be designated as Senior Counsel, whose compensation shall be $15,500 gross per annum each."
 
 #### Additional Senior Counsel
 
@@ -34,7 +34,7 @@ Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: "That effective
 
 Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, which provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000, was repealed by Pub. L. 116–94, div. E, title II, §212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
-Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senateshall each be paid at an annual rate of compensation of $37,620.
+Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

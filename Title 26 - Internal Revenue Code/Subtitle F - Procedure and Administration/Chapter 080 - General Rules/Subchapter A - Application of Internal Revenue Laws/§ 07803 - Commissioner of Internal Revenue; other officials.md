@@ -10,7 +10,7 @@
 
 #### (B) Term
 
-&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginning with a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
+&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginningwith a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
 
 #### (C) Vacancy
 
@@ -70,7 +70,7 @@
 
 #### (2) Duties
 
-&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shallperform such duties as may be prescribed by the Secretary, including the duty—
+&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shall perform such duties as may be prescribed by the Secretary, including the duty—
 
 &emsp;&emsp;(A) to be legal advisor to the Commissioner and the Commissioner's officers and employees;
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;(A) the Commissioner or a Deputy Commissioner shall modify, rescind, or ensure compliance with such directive not later than 90 days after the issuance of such directive, and
 
-&emsp;&emsp;(B) in the case of any directive which is modified or rescinded by a Deputy Commissioner, the National Taxpayer Advocate may (not later than 90 days after such modification or rescission) appeal to the Commissioner, and the Commissioner shall (not later than 90 days after such appeal is made) ensure compliance with such directive as issued by the National Taxpayer Advocate or provide the National Taxpayer Advocate with the reasons for any modification or rescission made or upheld by the Commissioner pursuant to such appeal.
+&emsp;&emsp;(B) in the case of any directive which is modified or rescinded by a Deputy Commissioner, the National Taxpayer Advocate may (not later than 90 days after such modification or rescission) appeal to the Commissioner, and the Commissioner shall (not later than 90 days after such appeal is made) ensure compliance with such directive asissued by the National Taxpayer Advocate or provide the National Taxpayer Advocate with the reasons for any modification or rescission made or upheld by the Commissioner pursuant to such appeal.
 
 #### (d) Additional duties of the Treasury Inspector General for Tax Administration
 
@@ -296,7 +296,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(iii) a summary of the status of such complaints and allegations; and
 
-&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including theoutcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
+&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including the outcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
 
 &emsp;(B) Clauses (iii) and (iv) of subparagraph (A) shall only apply to complaints and allegations of serious employee misconduct.
 
@@ -380,7 +380,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (B) Access to staff of Office of the Chief Counsel
 
-&emsp;&emsp;The Chief of Appeals shall have authority to obtain legal assistance and advice from the staff of the Office of the Chief Counsel. The Chief Counsel shall ensure, to the extentpracticable, that such assistance and advice is provided by staff of the Office of the Chief Counsel who were not involved in the case with respect to which such assistance and advice is sought and who are not involved in preparing such case for litigation.
+&emsp;&emsp;The Chief of Appeals shall have authority to obtain legal assistance and advice from the staff of the Office of the Chief Counsel. The Chief Counsel shall ensure, to the extent practicable, that such assistance and advice is provided by staff of the Office of the Chief Counsel who were not involved in the case with respect to which such assistance and advice is sought and who are not involved in preparing such case for litigation.
 
 #### (7) <sup>1</sup> Access to case files
 
@@ -416,7 +416,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (2) Centralized responsibility for Internal Revenue Service information technology
 
-&emsp;The Commissioner of Internal Revenue (and the Secretary) shall act through the IRS CIO with respect to all development, implementation, and maintenance of information technology for the Internal Revenue Service. Any reference in this subsection to the IRS CIO which directs the IRS CIO to take any action, or to assume any responsibility, shall be treated as a reference to the Commissioner of Internal Revenue acting through the IRS CIO.
+&emsp;The Commissioner of Internal Revenue (and the Secretary) shall act through the IRS CIO with respect to all development, implementation, and maintenance of information technology for the Internal Revenue Service. Anyreference in this subsection to the IRS CIO which directs the IRS CIO to take any action, or to assume any responsibility, shall be treated as a reference to the Commissioner of Internal Revenue acting through the IRS CIO.
 
 #### (3) General duties and responsibilities
 
@@ -470,7 +470,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;&emsp;(ii) the Criminal Investigation Division of the Internal Revenue Service, and
 
-&emsp;&emsp;&emsp;(iii) except as otherwise provided by the Secretary with respect to information technology related to matters described insubsection (b)(3)(B), the Office of the Chief Counsel.
+&emsp;&emsp;&emsp;(iii) except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, §401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, §2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008; Pub. L. 117–286, §4(b)(46), Dec. 27, 2022, 136 Stat. 4348.)
 
@@ -594,7 +594,7 @@ Pub. L. 116–25, title II, §2101(c), July 1, 2019, 133 Stat. 1010, provided th
 
 In general.—The Chief Procurement Officer of the Internal Revenue Service shall—
 
-&emsp;"(A) identify all significant IRS information technology acquisitions and provide written notification to the Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the 'IRS CIO') of each such acquisition in advance of such acquisition, and
+&emsp;"(A) identify all significant IRS information technology acquisitions and provide written notification to the Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the'IRS CIO') of each such acquisition in advance of such acquisition, and
 
 &emsp;"(B) regularly consult with the IRS CIO regarding acquisitions of information technology for the Internal Revenue Service, including meeting with the IRS CIO regarding such acquisitions upon request.
 

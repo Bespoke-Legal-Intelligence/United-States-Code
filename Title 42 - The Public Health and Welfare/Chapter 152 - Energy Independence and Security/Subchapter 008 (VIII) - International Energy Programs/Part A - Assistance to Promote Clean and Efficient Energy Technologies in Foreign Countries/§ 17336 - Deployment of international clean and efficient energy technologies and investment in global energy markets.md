@@ -52,7 +52,7 @@
 
 #### (5) Termination
 
-&emsp;The Task Force, including any working group established by the Task Force pursuantto subsection (b), shall terminate 12 years after December 19, 2007.
+&emsp;The Task Force, including any working group established by the Task Force pursuant to subsection (b), shall terminate 12 years after December 19, 2007.
 
 #### (b) Working groups
 

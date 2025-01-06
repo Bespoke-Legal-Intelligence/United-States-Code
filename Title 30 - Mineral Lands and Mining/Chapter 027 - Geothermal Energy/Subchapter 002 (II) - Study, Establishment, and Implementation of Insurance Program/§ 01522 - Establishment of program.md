@@ -18,7 +18,7 @@ For the purpose of this section—
 
 &emsp;(5) the term "other insurance" means any combination of private or public insurance other than investment insurance provided by the Secretary under this section;
 
-&emsp;(6) the term "reservoir" means the physical subsurface geologic structure which forms thenatural repository for the undisturbed geothermal resource; and
+&emsp;(6) the term "reservoir" means the physical subsurface geologic structure which forms the natural repository for the undisturbed geothermal resource; and
 
 &emsp;(7) the term "person" means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the test for United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).<sup>1</sup>
 

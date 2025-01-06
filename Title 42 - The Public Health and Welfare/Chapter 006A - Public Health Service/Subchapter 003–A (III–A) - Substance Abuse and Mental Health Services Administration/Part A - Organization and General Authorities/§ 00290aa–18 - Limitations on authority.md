@@ -1,6 +1,6 @@
 ### §290aa–18. Limitations on authority
 
-In carrying out any program of the Substance Abuse and Mental Health Services Administration whose statutory authorization is enacted or amended by this title, the Secretary of Health and Human Services shall not allocate funding, or require award recipients to prioritize, dedicate, or allocate funding, without considerationof the incidence, prevalence, or determinants of mental health or substance use issues, unless such allocation or requirement is consistent with statute, regulation, or other Federal law.
+In carrying out any program of the Substance Abuse and Mental Health Services Administration whose statutory authorization is enacted or amended by this title, the Secretary of Health and Human Services shall not allocate funding, or require award recipients to prioritize, dedicate, or allocate funding, without consideration of the incidence, prevalence, or determinants of mental health or substance use issues, unless such allocation or requirement is consistent with statute, regulation, or other Federal law.
 
 (Pub. L. 117–328, div. FF, title I, §1501, Dec. 29, 2022, 136 Stat. 5706.)
 

@@ -52,7 +52,7 @@ Subsec. (f). Pub. L. 97–35 struck out subsec. (f) which provided for terminati
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–631, §3, designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
 
-Subsec. (c). Pub. L. 95–631, §5, amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standard had been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
+Subsec. (c). Pub. L. 95–631, §5, amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standardhad been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
 
 Subsec. (d)(1). Pub. L. 95–631, §4(a)(1), inserted "subsection (b)(2) and by" after "as provided by" and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
 
@@ -162,7 +162,7 @@ Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U
 
 "(g)
 
-Regulations.—Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section and sections 7 and 9 of the Consumer Product Safety Act \[15 U.S.C. 2056, 2058\] do not apply to such issuance. Any additional or revised requirement issued by theCommission shall provide an adequate degree of protection to the public.
+Regulations.—Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section and sections 7 and 9 of the Consumer Product Safety Act \[15 U.S.C. 2056, 2058\] do not apply to such issuance. Any additional or revised requirement issued by the Commission shall provide an adequate degree of protection to the public.
 
 "(h)
 

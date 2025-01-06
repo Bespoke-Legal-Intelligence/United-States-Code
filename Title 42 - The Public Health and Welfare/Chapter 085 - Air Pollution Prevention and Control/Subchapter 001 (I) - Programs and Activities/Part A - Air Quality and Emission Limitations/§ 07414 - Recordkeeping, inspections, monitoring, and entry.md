@@ -98,7 +98,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 <i><sup>2</sup></i><i> So in original. The "and" probably should not appear.</i>
 
-<i><sup>3</sup></i><i> The period probably should be "; and".</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be "; and".</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should not be capitalized.</i>
 

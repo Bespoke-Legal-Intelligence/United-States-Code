@@ -2,13 +2,13 @@
 
 #### (a) Requests of committees
 
-The Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall, not later than 45 days after receiving a written request from the Chair or ranking minority member of the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives for any existing intelligence assessment, report, estimate, or legal opinion relating to matters within the jurisdiction of such Committee, make available to such committee such assessment, report, estimate, or legal opinion, as the case may be.
+The Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall, not later than 45 days after receiving a written request from the Chair or ranking minority member of the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives for any existing intelligence assessment, report, estimate, or legal opinion relating to matters within the jurisdiction of such Committee, make available to such committee suchassessment, report, estimate, or legal opinion, as the case may be.
 
 #### (b) Assertion of privilege
 
 #### (1) In general
 
-&emsp;In response to a request covered by subsection (a), the Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall provide to the Committee making such request the document or information covered by such request unless the President determines that such document or information shall not be provided because the President is assertinga privilege pursuant to the Constitution of the United States.
+&emsp;In response to a request covered by subsection (a), the Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall provide to the Committee making such request the document or information covered by such request unless the President determines that such document or information shall not be provided because the President is asserting a privilege pursuant to the Constitution of the United States.
 
 #### (2) Submission to Congress
 

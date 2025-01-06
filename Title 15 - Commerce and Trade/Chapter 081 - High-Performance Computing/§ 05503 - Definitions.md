@@ -42,7 +42,7 @@ Par. (9). Pub. L. 114–329, §105(d)(2), redesignated par. (7) as (9).
 
 <b>2007</b>—Par. (2). Pub. L. 110–69, §7024(a)(2)(A), inserted "and multidisciplinary teams of researchers" after "high-performance computing resources".
 
-Par. (3). Pub. L. 110–69, §7024(a)(2)(B), struck out "scientific workstations," after "technologies, including"and "(including vector supercomputers and large scale parallel systems)" after "supercomputer systems", substituted "applications" for "and applications", and inserted ", and the management of large data sets" after "systems software".
+Par. (3). Pub. L. 110–69, §7024(a)(2)(B), struck out "scientific workstations," after "technologies, including" and "(including vector supercomputers and large scale parallel systems)" after "supercomputer systems", substituted "applications" for "and applications", and inserted ", and the management of large data sets" after "systems software".
 
 Par. (4). Pub. L. 110–69, §7024(a)(2)(C), struck out "packet switched" before "data networks".
 

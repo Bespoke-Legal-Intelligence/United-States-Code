@@ -18,7 +18,7 @@
 
 (3) The Administrator may make such grant out of the sums allocated to a State under section 1285 of this title, except that in no event shall the Federal cost of any such training facilities exceed $500,000.
 
-(4) The Administrator may exempt a grant under this section from any requirement under section 1284(a)(3) of this title. Any grantee who received a grant under this section prior to enactment of the Clean Water Act of 1977 shall be eligible to have its grant increased by funds made available under such Act.
+(4) The Administrator may exempt a grant under this section from any requirement under section 1284(a)(3) of this title. Any grantee whoreceived a grant under this section prior to enactment of the Clean Water Act of 1977 shall be eligible to have its grant increased by funds made available under such Act.
 
 (June 30, 1948, ch. 758, title I, §109, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 829; amended Pub. L. 95–217, §10, Dec. 27, 1977, 91 Stat. 1568.)
 

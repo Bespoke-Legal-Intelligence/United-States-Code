@@ -52,7 +52,7 @@ Subsec. (a)(3). Pub. L. 111–203, §1093(3)(B), struck out "and shall be issued
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "and, as appropriate, with".</i>
 

@@ -68,7 +68,7 @@ From the proposals submitted, the Secretary shall select proposals for funding. 
 
 &emsp;&emsp;(C) processing technologies and design for energy efficiency, material conservation, environmental protection, or industrial productivity; and
 
-&emsp;&emsp;(D) other areas of research, which in the judgment of the Secretary, after consulting with the Board established in section 5306 of this title, further the purposes of this chapter;
+&emsp;&emsp;(D) other areas of research, which in the judgment of the Secretary, after consultingwith the Board established in section 5306 of this title, further the purposes of this chapter;
 
 &emsp;(2) represent research and development in specific areas identified in the "Metal Casting Research Priorities" developed annually by the Board pursuant to section 5306(b)(1) of this title;
 

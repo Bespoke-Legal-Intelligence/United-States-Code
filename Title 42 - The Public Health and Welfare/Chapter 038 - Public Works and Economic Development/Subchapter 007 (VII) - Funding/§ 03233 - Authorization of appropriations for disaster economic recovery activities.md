@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to amounts made available under section 3231 of this title, there are authorized tobe appropriated such sums as are necessary to carry out section 3149(c)(2) of this title, to remain available until expended.
+In addition to amounts made available under section 3231 of this title, there are authorized to be appropriated such sums as are necessary to carry out section 3149(c)(2) of this title, to remain available until expended.
 
 #### (b) Federal share
 

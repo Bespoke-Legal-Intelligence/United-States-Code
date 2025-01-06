@@ -20,7 +20,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), in the event that the United States initiates a retaliation list or takes any other action described in section 2411(c)(1)(A) or (B) of this title against the goods of a foreign country or countries because of the failure of such country or countries to implement the recommendation made pursuant to adispute settlement proceeding under the World Trade Organization, the Trade Representative shall periodically revise the list or action to affect other goods of the country or countries that have failed to implement the recommendation.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), in the event that the United States initiates a retaliation list or takes any other action described in section 2411(c)(1)(A) or (B) of this title against the goods of a foreign country or countries because of the failure of such country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, the Trade Representative shall periodically revise the list or action to affect other goods of the country or countries that have failed to implement the recommendation.
 
 #### (ii) Exception
 
@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 114–125, §602(a)(1), (b)(3), redesignated subsec. (c) as
 
 "(a)
 
-In General.—The Trade Representative shall monitor the implementation of each measure undertaken, or agreement of a kind described in clause (i),\(ii), or (iii) of section 2411(a)(2)(B) of this title that is entered into under subsection (a) or (b) of section 2411 of this title, by a foreign country—
+In General.—The Trade Representative shall monitor the implementation of each measure undertaken, or agreement of a kind described in clause (i), (ii), or (iii) of section 2411(a)(2)(B) of this title that is entered into under subsection (a) or (b) of section 2411 of this title, by a foreign country—
 
 &emsp;"(1) to enforce the rights of the United States under any trade agreement, or
 

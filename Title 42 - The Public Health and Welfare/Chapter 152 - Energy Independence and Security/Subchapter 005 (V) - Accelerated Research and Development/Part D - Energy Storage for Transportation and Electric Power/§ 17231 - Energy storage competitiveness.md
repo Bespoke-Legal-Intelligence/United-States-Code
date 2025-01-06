@@ -66,7 +66,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Council shall consist of not less than 15 individualsappointed by the Secretary, based on recommendations of the National Academy of Sciences.
+&emsp;&emsp;Subject to subparagraph (B), the Council shall consist of not less than 15 individuals appointed by the Secretary, based on recommendations of the National Academy of Sciences.
 
 #### (B) Energy storage industry
 
@@ -122,7 +122,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (3) Funding
 
-&emsp;For activities carried out under this subsection, in addition to funding activities at National Laboratories, the Secretary shall award funds to, and coordinate activities with, a range of stakeholders including the public, private, and academic sectors.
+&emsp;For activities carried out under this subsection, in addition to funding activities atNational Laboratories, the Secretary shall award funds to, and coordinate activities with, a range of stakeholders including the public, private, and academic sectors.
 
 #### (g) Applied research program
 
@@ -422,7 +422,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;Not later than 1 year after November 15, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and any other relevant committee of Congress a report containing the results of the study under clause (i), including a description of—
+&emsp;&emsp;&emsp;Not later than 1 year after November 15, 2021, the Secretary shall submit to theCommittee on Energy and Natural Resources of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and any other relevant committee of Congress a report containing the results of the study under clause (i), including a description of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the ability of relevant businesses or other entities to competitively manufacture electric drive vehicle batteries and recycle electric drive vehicle batteries in the United States;
 

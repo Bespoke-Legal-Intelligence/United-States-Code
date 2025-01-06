@@ -42,7 +42,7 @@
 
 #### (b) Research and development of new antimicrobial drugs and diagnostics
 
-The Secretary and the Director of Agricultural Research Services, consistent with the recommendations of the task force established under subsection (a), shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of research, investigations, experiments, demonstrations, and studies in the health sciences that are related to—
+The Secretary and the Director of Agricultural Research Services, consistent with the recommendations of the task force establishedunder subsection (a), shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of research, investigations, experiments, demonstrations, and studies in the health sciences that are related to—
 
 &emsp;(1) the development of new therapeutics, including vaccines and antimicrobials, against resistant pathogens;
 
@@ -100,7 +100,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (f) Monitoring at Federal health care facilities
 
-The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs andthe implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service and shall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
+The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs and the implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service and shall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
 
 #### (g) Report on antimicrobial resistance in humans and use of antimicrobial drugs
 
@@ -118,7 +118,7 @@ Not later than 1 year after December 13, 2016, and annually thereafter, the Secr
 
 #### (h) Information related to antimicrobial stewardship programs
 
-The Secretary shall, as appropriate, disseminate guidance, educational materials, or other appropriate materials related to the development and implementation of evidence-based antimicrobial stewardship programs or practices at health care facilities, such as nursing homes and other long-term care facilities, ambulatory surgical centers, dialysis centers, outpatient clinics, and hospitals, including community and rural hospitals.
+The Secretary shall, as appropriate, disseminate guidance, educational materials, or other appropriate materials related to the development and implementation of evidence-based antimicrobial stewardship programs or practicesat health care facilities, such as nursing homes and other long-term care facilities, ambulatory surgical centers, dialysis centers, outpatient clinics, and hospitals, including community and rural hospitals.
 
 #### (i) Supporting State-based activities to combat antimicrobial resistance
 
@@ -276,7 +276,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The discovery of antibiotics in the early 20th century fundamentally transformed human and veterinary medicine. Antibiotics save millions of lives each year in the United States and around the world. The rise of antibiotic-resistant bacteria, however, represents a serious threat to public health and the economy. The Centers for Disease Control and Prevention (CDC) in the Department of Health and Human Services (HHS) estimates that annually at least two million illnesses and 23,000 deaths are caused by antibiotic-resistant bacteria in the United States alone.
 
-Detecting, preventing, and controlling antibiotic resistance requires a strategic, coordinated, and sustained effort. It also depends on the engagement of governments, academia, industry, healthcare providers, the general public, and the agricultural community, as well as international partners. Success in this effort will require significant efforts to: minimize the emergence of antibiotic-resistant bacteria; preserve the efficacy of new and existing antibacterial drugs; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance efforts in public health and agriculture; develop and promote the use of new, rapid diagnostic technologies; accelerate scientific research and facilitate the development of new antibacterial drugs, vaccines, diagnostics, and other novel therapeutics; maximize the dissemination of the most up-to-date information on the appropriate and proper use of antibiotics to the general public and healthcare providers; work with the pharmaceutical industry to include information on the proper use of over-the-counter and prescription antibiotic medications for humans and animals; and improve international collaboration and capabilities for prevention, surveillance, stewardship, basic research, and drug and diagnostics development.
+Detecting, preventing, and controlling antibiotic resistance requires a strategic, coordinated, and sustained effort. It also depends on the engagement of governments, academia, industry, healthcare providers, the general public, and the agricultural community, as well as international partners. Success in this effort will require significant efforts to: minimize the emergence of antibiotic-resistant bacteria; preserve the efficacy of new and existing antibacterial drugs; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance efforts in public health and agriculture; develop and promote the use of new, rapid diagnostic technologies; accelerate scientific research and facilitate the development of new antibacterial drugs, vaccines, diagnostics, and othernovel therapeutics; maximize the dissemination of the most up-to-date information on the appropriate and proper use of antibiotics to the general public and healthcare providers; work with the pharmaceutical industry to include information on the proper use of over-the-counter and prescription antibiotic medications for humans and animals; and improve international collaboration and capabilities for prevention, surveillance, stewardship, basic research, and drug and diagnostics development.
 
 The Federal Government will work domestically and internationally to detect, prevent, and control illness and death related to antibiotic-resistant infections by implementing measures that reduce the emergence and spread of antibiotic-resistant bacteria and help ensure the continued availability of effective therapeutics for the treatment of bacterial infections.
 

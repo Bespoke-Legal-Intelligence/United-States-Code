@@ -20,7 +20,7 @@ Section 405(b), referred to in text, is section 405(b) of act June 27, 1952, ch.
 
 Pub. L. 101–649, §407(c)(4), substituted "application" for "petition" and "applicant" for "petitioner".
 
-<b>1968</b>—Pub. L. 90–633 substituted reference to exception provided in sections 1439 and 1440 of this title for reference to exception provided in sections 1438 and 1439 of this title.
+<b>1968</b>—Pub. L. 90–633 substituted reference to exception provided in sections 1439 and 1440 of this title forreference to exception provided in sections 1438 and 1439 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

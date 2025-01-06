@@ -46,7 +46,7 @@ The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov.
 
 #### Amendments
 
-<b>2021</b>—Subsec. (d). Pub. L. 117–81, §1042(1)–(3), substituted "In" for "(1) Except as provided in paragraph (2), in", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: " For purposes of this section, the term 'sensitive military operation' does not include any operation conducted within Afghanistan, Syria, or Iraq."
+<b>2021</b>—Subsec. (d). Pub. L. 117–81, §1042(1)–(3), substituted "In" for "(1) Except as provided in paragraph (2), in", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: "For purposes of this section, the term 'sensitive military operation' does not include any operation conducted within Afghanistan, Syria, or Iraq."
 
 Subsec. (d)(3). Pub. L. 117–81, §1042(4)–(6), added par. (3).
 
@@ -124,7 +124,7 @@ Elements.—The policy required by subsection (a) shall address the following:
 
 &emsp;"(4) The title and duty position of any officers and officials of the Department empowered to render a final decision on a proposal described in paragraph (3), and the conditions applicable to, and limitations on, the exercise of such decisionmaking authority by each such officer or official.
 
-&emsp;"(5) A description of the Rules of Engagement applicable to the provision of collective self-defense to designated foreign nationals, their facilities, and their property under any of the bases in domestic or international law in the circumstances enumerated in paragraph (1), and the conditions under which any such Rules of Engagement would be modified.
+&emsp;"(5) A description of the Rules of Engagement applicable to the provision of collective self-defense todesignated foreign nationals, their facilities, and their property under any of the bases in domestic or international law in the circumstances enumerated in paragraph (1), and the conditions under which any such Rules of Engagement would be modified.
 
 &emsp;"(6) A description of the process through which policy guidance pertaining to the authorization for, and the provision by members of the United States Armed Forces of, collective self-defense to designated foreign nationals, their facilities, and their property is to be disseminated to the level of tactical execution.
 

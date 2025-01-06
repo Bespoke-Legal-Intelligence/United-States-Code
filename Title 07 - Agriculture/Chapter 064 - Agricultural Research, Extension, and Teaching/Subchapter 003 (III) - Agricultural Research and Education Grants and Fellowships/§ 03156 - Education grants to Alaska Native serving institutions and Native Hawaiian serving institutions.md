@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) to strengthen institutional educational capacities, including libraries, curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, in order to respond to identified State, regional, national, or international educational needs in the food and agriculture sciences;
 
-&emsp;&emsp;(C) to attract and support undergraduate and graduate students from under represented groups in order to prepare them forcareers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level including by village elders and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
+&emsp;&emsp;(C) to attract and support undergraduate and graduate students from under represented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level including by village elders and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
 
 &emsp;&emsp;(D) to facilitate cooperative initiatives between two or more Alaska Native serving institutions, or between Alaska Native serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seed may be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
 
-(b) Anyone convicted of violating a binding cease and desist order, or of performing any act prohibited in subsection (a) of this section for the purpose of deceiving the public, shall be fined not more than $10,000 and not less than $500.
+(b) Anyone convicted of violating a binding cease and desist order, or of performing any act prohibited in subsection (a) of this section forthe purpose of deceiving the public, shall be fined not more than $10,000 and not less than $500.
 
 (c) Anyone whose business is damaged or is likely to be damaged by an act prohibited in subsection (a) of this section, or is subjected to competition in connection with which such act is performed, may have remedy by civil action.
 

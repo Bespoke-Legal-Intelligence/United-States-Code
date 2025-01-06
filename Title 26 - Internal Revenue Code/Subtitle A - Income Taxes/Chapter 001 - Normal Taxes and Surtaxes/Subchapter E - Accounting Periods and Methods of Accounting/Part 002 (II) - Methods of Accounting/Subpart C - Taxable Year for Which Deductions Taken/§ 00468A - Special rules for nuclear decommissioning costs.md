@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) Ruling amount
 
-&emsp;The term "ruling amount" means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
+&emsp;The term "ruling amount" means, with respect to any taxable year, the amount whichthe Secretary determines under paragraph (1) to be necessary to—
 
 &emsp;&emsp;(A) fund the total nuclear decommissioning costs with respect to such power plant over the estimated useful life of such power plant, and
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (B) Denial of deduction for previously deducted amounts
 
-&emsp;&emsp;No deduction shall be allowed for any transfer under this subsection of an amount for which a deduction was previously allowed to the taxpayer (or a predecessor) or a corresponding amount was not included in gross income of the taxpayer (or a predecessor). For purposes of the preceding sentence, a ratable portion of each transfershall be treated as being from previously deducted or excluded amounts to the extent thereof.
+&emsp;&emsp;No deduction shall be allowed for any transfer under this subsection of an amount for which a deduction was previously allowed to the taxpayer (or a predecessor) or a corresponding amount was not included in gross income of the taxpayer (or a predecessor). For purposes of the preceding sentence, a ratable portion of each transfer shall be treated as being from previously deducted or excluded amounts to the extent thereof.
 
 #### (C) Transfers of qualified funds
 
@@ -200,7 +200,7 @@ Subsec. (e)(1). Pub. L. 99–514, §1807(a)(4)(E)(iv), substituted "this section
 
 Subsec. (e)(2). Pub. L. 99–514, §1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
 
-&emsp;"(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect towhich a deduction is allowable under subsection (a), and
+&emsp;"(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
 
 &emsp;"(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer)."
 

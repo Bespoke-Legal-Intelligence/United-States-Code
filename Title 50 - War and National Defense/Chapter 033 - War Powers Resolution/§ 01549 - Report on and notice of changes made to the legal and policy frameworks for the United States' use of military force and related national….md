@@ -20,7 +20,7 @@
 
 #### (b) Notice required
 
-Not later than 30 days after the date on which a change is made to the legal and policy frameworks described in subsection (a)(1), the President shall notify the appropriate congressional committees of such change, including the legal, factual, and policy justification for such change.
+Not later than 30 days after the date on which a change is made to the legal and policy frameworks described in subsection (a)(1), the President shall notify the appropriate congressionalcommittees of such change, including the legal, factual, and policy justification for such change.
 
 #### (c) Form
 
@@ -40,7 +40,7 @@ In this section, the term "appropriate congressional committees" means—
 
 #### References in Text
 
-The Authorization for Use of Military Force, referred to in subsec. (a)(2)(A), is Pub. L. 107–40, Sept. 18, 2001,115 Stat. 224, which is set out as a note under section 1541 of this title.
+The Authorization for Use of Military Force, referred to in subsec. (a)(2)(A), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of this title.
 
 #### Codification
 

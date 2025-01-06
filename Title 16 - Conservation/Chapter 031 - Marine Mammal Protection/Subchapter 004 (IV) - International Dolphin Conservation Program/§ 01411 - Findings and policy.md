@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(3) United States tuna fishing vessels have led the world in the development of fishing methods to reduce dolphin mortalities in the eastern tropical Pacific Ocean and United States tuna processing companies have voluntarily promoted the marketing of tuna that is dolphin safe.
 
-&emsp;(4) Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have demonstrated their willingness to participate in appropriate multilateral agreements to reduce dolphin mortality progressively to a level approaching zero through the setting of annual limits, with the goal of eliminating dolphin mortality in that fishery. Recognition of the International Dolphin Conservation Program will assure that the existing trend of reduced dolphin mortality continues; that individual stocks of dolphins are adequately protected;and that the goal of eliminating all dolphin mortality continues to be a priority.
+&emsp;(4) Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have demonstrated their willingness to participate in appropriate multilateral agreements to reduce dolphin mortality progressively to a level approaching zero through the setting of annual limits, with the goal of eliminating dolphin mortality in that fishery. Recognition of the International Dolphin Conservation Program will assure that the existing trend of reduced dolphin mortality continues; that individual stocks of dolphins are adequately protected; and that the goal of eliminating all dolphin mortality continues to be a priority.
 
 #### (b) Policy
 
@@ -24,7 +24,7 @@ It is the policy of the United States to—
 
 &emsp;(4) secure appropriate multilateral agreements to ensure that United States tuna fishing vessels shall have continued access to productive tuna fishing grounds in the South Pacific Ocean and elsewhere; and
 
-&emsp;(5) encourage observer coverage on purse seine vessels fishing for tuna outside of the eastern tropical Pacific Ocean in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals.
+&emsp;(5) encourage observer coverage on purse seine vessels fishing for tuna outside of theeastern tropical Pacific Ocean in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals.
 
 (Pub. L. 92–522, title III, §301, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3425; amended Pub. L. 105–42, §6(b), Aug. 15, 1997, 111 Stat. 1129.)
 

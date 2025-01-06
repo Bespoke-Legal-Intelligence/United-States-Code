@@ -26,7 +26,7 @@ Rights and Liability Upon Final Disposition.—
 
 &emsp;&emsp;(A) the United States shall continue to be bound by the restriction; and
 
-&emsp;&emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurredby the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
+&emsp;&emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1833(g), (l), Jan. 1, 2021, 134 Stat. 4231, 4233.)
 

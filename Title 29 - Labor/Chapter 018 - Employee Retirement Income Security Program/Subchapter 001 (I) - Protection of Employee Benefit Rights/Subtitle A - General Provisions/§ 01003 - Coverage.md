@@ -24,7 +24,7 @@ The provisions of this subchapter shall not apply to any employee benefit plan i
 
 &emsp;(5) such plan is an excess benefit plan (as defined in section 1002(36) of this title) and is unfunded.
 
-> The provisions of part 7 of subtitle B of this subchapter shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.
+> The provisions of part 7 of subtitle B of this subchapter shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of thistitle) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.
 
 #### (c) Voluntary employee contributions to accounts and annuities
 

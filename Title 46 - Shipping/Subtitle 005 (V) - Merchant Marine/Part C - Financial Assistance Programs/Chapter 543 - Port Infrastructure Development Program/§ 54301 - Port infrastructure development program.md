@@ -62,7 +62,7 @@ Eligible projects.—The Secretary may make a grant under this subsection—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) installation of port bunkering facilities from oceangoing vessels for fuels;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(hh) electric vehicle charge or hydrogen refueling infrastructure fordrayage and medium or heavy duty trucks and locomotives that service the port and related grid upgrades; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(hh) electric vehicle charge or hydrogen refueling infrastructure for drayage and medium or heavy duty trucks and locomotives that service the port and related grid upgrades; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ii) other related port activities, including charging infrastructure, electric rubber-tired gantry cranes, and anti-idling technologies; or
 
@@ -88,11 +88,35 @@ Applications and process.—
 
 &emsp;&emsp;(A)
 
-Applications.—To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.
+Applications.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.
+
+&emsp;&emsp;&emsp;(ii)
+
+Ensuring cybersecurity.—If a covered applicant for a grant under this subsection is applying to use the grant to acquire digital infrastructure or a software component, such applicant shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) certify the facility for which a covered applicant is applying for a grant has an approved facility security plan pursuant to section 70103(c) of this title that addresses the cybersecurity risks of such digital infrastructure or software component; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if the approved facility security plan of a facility for which a covered applicant is applying for a grant does not address such cybersecurity risks, provide a brief description in the application of how such applicant will address the cybersecurity risks of such digital infrastructure or software component.
+
+&emsp;&emsp;&emsp;(iii)
+
+Update of facility security plan.—If the approved facility security plan required under section 70103(c) of this title of a facility for which a covered applicant is applying for a grant under this subsection does not address the cybersecurity risks of digital infrastructure or a software component to be acquired by such grant and such applicant provides a brief description to address such cybersecurity risks under clause (ii)(II), the covered applicant shall ensure that such security plan is updated to address the cybersecurity risks described in clause (ii)(II) in the next update required under paragraph (3)(G) of such section.
+
+&emsp;&emsp;&emsp;(iv)
+
+Covered applicant defined.—In this paragraph, the term "covered applicant" means an applicant under this subsection that is not otherwise eligible under subsection (b).
 
 &emsp;&emsp;(B)
 
 Solicitation process.—Not later than 90 days after the date that amounts are made available for grants under this subsection or subsection (b) for a fiscal year, the Secretary shall solicit grant applications for eligible projects in accordance with this subsection.
+
+&emsp;&emsp;(C)
+
+Delayed notice of funding opportunity.—If the Secretary amends a published solicitation for grant applications such that an applicant would need the information contained in the amendment to draft an application, other than an amendment of the amount of grant funding available, the Secretary shall extend the application deadline by the number of days between the initial solicitation and the amendment.
 
 &emsp;(6)
 
@@ -104,7 +128,7 @@ In general.—The Secretary may select a project described in paragraph (3) for 
 
 &emsp;&emsp;&emsp;(i) the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;
 
-&emsp;&emsp;&emsp;(ii) the project is cost effective (except in the case of a project described under subparagraph (C)); <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) the project is cost effective (except in the case of a project described under subparagraph (D));
 
 &emsp;&emsp;&emsp;(iii) the eligible applicant has authority to carry out the project;
 
@@ -120,15 +144,15 @@ Additional considerations.—In selecting projects described in paragraph (3) fo
 
 &emsp;&emsp;&emsp;(i) the utilization of non-Federal contributions;
 
-&emsp;&emsp;&emsp;(ii) the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable (except in the case of a project described under subparagraph (C)); <sup>1</sup> and
+&emsp;&emsp;&emsp;(ii) the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable (except in the case of a project described under subparagraph (D)); and
 
 &emsp;&emsp;&emsp;(iii) a port's increased resilience as a result of the project.
 
-&emsp;&emsp;(C) <sup>2</sup>
+&emsp;&emsp;(C)
 
 In general.—In selecting projects described in paragraph (3), the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements.
 
-&emsp;&emsp;(C) <sup>2</sup>
+&emsp;&emsp;(D)
 
 Noncontiguous states and territories.—The requirements under subparagraphs (A)(ii) and (B)(ii) shall not apply in the case of a project described in paragraph (3) in a noncontiguous State or territory.
 
@@ -166,7 +190,7 @@ Federal share.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Except as provided in clause (ii), the Federal share of the total costs of a project under this subsection or subsection (b) shall not exceed 80 percent.
+In general.—Except as provided in clause (ii), the Federal share of the totalcosts of a project under this subsection or subsection (b) shall not exceed 80 percent.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -178,9 +202,11 @@ Procedural safeguards.—The Secretary shall issue guidelines to establish appro
 
 &emsp;&emsp;(A) grant funds are used for the purposes for which those funds were made available;
 
-&emsp;&emsp;(B) each grantee properly accounts for all expenditures of grant funds; and
+&emsp;&emsp;(B) each grantee properly accounts for all expenditures of grant funds;
 
-&emsp;&emsp;(C) grant funds not used for such purposes and amounts not obligated or expended are returned.
+&emsp;&emsp;(C) grant funds not used for such purposes and amounts not obligated or expended are returned; and
+
+&emsp;&emsp;(D) grant contracts are approved efficiently by the Secretary, minimizing delays for minor adjustments to project scopes and budgets, including due to inflationary effects on projects.
 
 &emsp;(10)
 
@@ -202,7 +228,7 @@ Efficient use of non-federal funds.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding any other provision of law ans <sup>3</sup> subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
+In general.—Notwithstanding any other provision of law and subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
 
 &emsp;&emsp;&emsp;&emsp;(I) the grant recipient may obligate and expend non-Federal funds with respect to the project for which the grant is provided; and
 
@@ -242,10 +268,6 @@ Effect.—The obligation or expenditure of any non-Federal funds in accordance w
 
 &emsp;&emsp;(C)
 
-Additional requirement.—The Secretary shall apply the same requirements of section 117(k) of title 23, United States Code, to a port project assisted in whole or in part under this section as the Secretary does a port-related freight project under section 117 of title 23, United States Code.
-
-&emsp;&emsp;(D)
-
 Construction, repair, or alteration of vessels.—With regard to the construction, repair, or alteration of vessels, the same requirements of section 117(k) of title 23, United States Code, shall apply regardless of whether the location of contract performance is known when bids for such work are solicited.
 
 &emsp;(11)
@@ -278,7 +300,7 @@ Port.—The term "port" includes—
 
 &emsp;&emsp;&emsp;(i) any port on the navigable waters of the United States; and
 
-&emsp;&emsp;&emsp;(ii) any harbor, marine terminal, or other shore side facility used principally for the movement of goods on inland waters.
+&emsp;&emsp;&emsp;(ii) any harbor, marine terminal, or other shore side facility used principallyfor the movement of goods on inland waters (including the Great Lakes).
 
 &emsp;&emsp;(B)
 
@@ -294,7 +316,7 @@ Resilience.—The term "resilience" means the ability to anticipate, prepare for
 
 &emsp;&emsp;(E)
 
-Strategic seaport defined.—In this subsection the term "strategic seaport" means a military port or and <sup>4</sup> commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.
+Strategic seaport defined.—In this subsection the term "strategic seaport" means a military port or commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.
 
 (b)
 
@@ -406,7 +428,7 @@ Additional Authority of the Secretary.—In carrying out this section, the Secre
 
 &emsp;(3) in addition to any financial assistance provided under subsection (a) or subsection (b), provide such technical assistance to any eligible applicants as described in subsection (a)(2).
 
-(Added and amended Pub. L. 117–81, div. C, title XXXV, §3513(a), (b), Dec. 27, 2021, 135 Stat. 2240; Pub. L. 118–31, div. C, title XXXV, §§3511, 3512, 3513(b), 3514(a), Dec. 22, 2023, 137 Stat. 808–810.)
+(Added and amended Pub. L. 117–81, div. C, title XXXV, §3513(a), (b), Dec. 27, 2021, 135 Stat. 2240; Pub. L. 118–31, div. C, title XXXV, §§3511, 3512, 3513(b), 3514(a), Dec. 22, 2023, 137 Stat. 808–810; Pub. L. 118–159, div. C, title XXXV, §§3511(a)(3), (d)–(f), 3535(a), Dec. 23, 2024, 138 Stat. 2306, 2307, 2314.)
 
 #### <b>Editorial Notes</b>
 
@@ -421,6 +443,26 @@ Subsec. (a)(1) and (2) of section 3505 of Pub. L. 113–66, which were transferr
 Subsecs. (c) to (e) of section 50302 of this title, which were transferred to this section, redesignated as subsecs. (a) to (c), repsectively, and amended by Pub. L. 117–81, §3513(a)(2), (b), were based on Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564; Pub. L. 111–84, div. C, title XXXV, §3512, Oct. 28, 2009, 123 Stat. 2722; Pub. L. 113–66, div. C, title XXXV, §3505(b), Dec. 26, 2013, 127 Stat. 1086; Pub. L. 116–92, div. C, title XXXV, §3514(b), Dec. 20, 2019, 133 Stat. 1980; Pub. L. 116–283, div. C, title XXXV, §3504, Jan. 1, 2021, 134 Stat. 4399.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(5)(A). Pub. L. 118–159, §3511(f), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cls. (ii) to (iv).
+
+Subsec. (a)(5)(C). Pub. L. 118–159, §3511(d), added subpar. (C).
+
+Subsec. (a)(6)(A)(ii). Pub. L. 118–159, §3535(a)(1)(A), substituted "subparagraph (D)" for "subparagraph (C)".
+
+Subsec. (a)(6)(B)(ii). Pub. L. 118–159, §3535(a)(1)(B), substituted "subparagraph (D)" for "subparagraph (C)".
+
+Subsec. (a)(6)(C), (D). Pub. L. 118–159, §3535(a)(1)(C), redesignated subpar. (C) relating to noncontiguous states and territories as (D).
+
+Subsec. (a)(9)(D). Pub. L. 118–159, §3511(e), added subpar. (D).
+
+Subsec. (a)(10)(B)(i). Pub. L. 118–159, §3535(a)(2)(A), substituted "law and" for "law ans".
+
+Subsec. (a)(10)(C), (D). Pub. L. 118–159, §3535(a)(2)(B), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: "The Secretary shall apply the same requirements of section 117(k) of title 23, United States Code, to a port project assisted in whole or in part under this section as the Secretary does a port-related freight project under section 117 of title 23, United States Code."
+
+Subsec. (a)(12)(A)(ii). Pub. L. 118–159, §3511(a)(3), substituted "inland waters (including the Great Lakes)" for "inland waters".
+
+Subsec. (a)(12)(E). Pub. L. 118–159, §3535(a)(3), struck out "and" before "commercial port".
 
 <b>2023</b>—Subsec. (a)(3)(A)(ii)(V). Pub. L. 118–31, §3511, added subcl. (V).
 
@@ -450,7 +492,7 @@ Subsec. (b)(7)(B). Pub. L. 118–31, §3514(a)(2), which directed substitution o
 
 Subsec. (a)(2). Pub. L. 117–81, §3513(b)(1)(A), substituted "or subsection (b)" for "or subsection (d)".
 
-Subsec. (a)(3)(A)(ii)(III), (IV). Pub. L. 117–81, §3513(b)(1)(B), added subcls. (III) and (IV) and struck out former subcl. (III), which read as follows: "environmental mitigation measures and operational improvements directly related to enhancing the efficiency of ports and intermodal connections to ports; or".
+Subsec. (a)(3)(A)(ii)(III), (IV). Pub. L. 117–81, §3513(b)(1)(B), added subcls. (III) and (IV) and struckout former subcl. (III), which read as follows: "environmental mitigation measures and operational improvements directly related to enhancing the efficiency of ports and intermodal connections to ports; or".
 
 Subsec. (a)(5)(A). Pub. L. 117–81, §3513(b)(1)(C)(i), substituted "or subsection (b)" for "or subsection (d)".
 
@@ -487,12 +529,4 @@ Subsec. (b)(5)(A). Pub. L. 117–81, §3513(b)(2)(D), substituted "subsection (a
 Subsec. (c). Pub. L. 117–81, §3513(a)(2), redesignated subsec. (e) of section 50302 of this title as subsec. (c) of this section. See Codification note above.
 
 Subsec. (c)(3). Pub. L. 117–81, §3513(b)(3), substituted "subsection (a) or subsection (b)" for "subsection (c) or subsection (d)" and "subsection (a)(2)" for "subsection (c)(2)".
-
-<i><sup>1</sup></i><i> Probably means the subpar. (C) relating to noncontiguous states and territories.</i>
-
-<i><sup>2</sup></i><i> So in original. There are two subpars. (C).</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "and".</i>
-
-<i><sup>4</sup></i><i> So in original.</i>
 

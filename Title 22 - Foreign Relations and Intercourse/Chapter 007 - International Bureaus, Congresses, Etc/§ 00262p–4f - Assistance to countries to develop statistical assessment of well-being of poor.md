@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) the International Bank for Reconstruction and Development and the International Development Association have the technical and financial capability to assist borrowing country governments to develop such statistical measurement capabilities for social indicators necessary for the design and monitoring of poverty-reduction policies for such governments;
 
-&emsp;(5) availability of social indicator data is also essential to the work of such institutions, particularly in monitoring the impact of structural adjustment lending on the poor; and
+&emsp;(5) availability of social indicator data is also essential to the work of such institutions, particularly in monitoring the impact ofstructural adjustment lending on the poor; and
 
 &emsp;(6) availability of such indicators will also facilitate the measurement of progress in the alleviation of poverty by other donor agencies, public and private.
 

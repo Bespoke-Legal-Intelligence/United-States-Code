@@ -30,7 +30,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates eitheran intention to apply for asylum under section 1158 of this title or a fear of persecution.
 
 #### (ii) Claims for asylum
 
@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubtentitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubt entitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
 
 #### (B) Exception
 
@@ -236,7 +236,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### GAO Study on Operation of Expedited Removal Procedures
 
-Pub. L. 104–208, div. C, title III, §302(b), Sept. 30, 1996, 110 Stat. 3009–584, required the Comptroller General to conduct a study on the implementation and effectiveness of the expedited removal procedures under subsec. (b)(1) of this section and submit to Congress a report on the study no later than 18 months after Sept. 30, 1996.
+Pub. L. 104–208, div. C, title III, §302(b), Sept. 30, 1996, 110 Stat. 3009–584, required the Comptroller General toconduct a study on the implementation and effectiveness of the expedited removal procedures under subsec. (b)(1) of this section and submit to Congress a report on the study no later than 18 months after Sept. 30, 1996.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

@@ -76,7 +76,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) that is not less than 51 percent-owned by 1 or more socially or economically disadvantaged individuals; and
 
-&emsp;&emsp;&emsp;(ii) the management and daily business operations of which are controlled by 1 ormore socially or economically disadvantaged individuals.
+&emsp;&emsp;&emsp;(ii) the management and daily business operations of which are controlled by 1 or more socially or economically disadvantaged individuals.
 
 #### (B) Rule of construction
 
@@ -146,7 +146,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "socially or economically disadvantaged individual" means an individual who has been subjected to racial or ethnic prejudice or cultural bias (or the ability of whom to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities, as compared to others in the same line of business and competitive market area) because of the identity of the individual as a member of a group, without regard to any individual quality of the individual that is unrelated to that identity.
+&emsp;&emsp;The term "socially or economically disadvantaged individual" means an individual who has been subjected to racial or ethnicprejudice or cultural bias (or the ability of whom to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities, as compared to others in the same line of business and competitive market area) because of the identity of the individual as a member of a group, without regard to any individual quality of the individual that is unrelated to that identity.
 
 #### (B) Presumption
 

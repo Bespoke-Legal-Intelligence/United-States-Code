@@ -8,7 +8,7 @@
 | \[IV. | Repealed.\] |
 | [V.](Part%20005%20%28V%29%20-%20Carryovers/README.md) | Carryovers. |
 | [VI.](Part%20006%20%28VI%29%20-%20Treatment%20of%20Certain%20Corporate%20Interests%20as%20Stock%20or%20Indebtedness/README.md) | Treatment of certain corporate interests as stock or indebtedness. |
-| \[VII. | Repealed.\] |
+| \[VII. | Repealed.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

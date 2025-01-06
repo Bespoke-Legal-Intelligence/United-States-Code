@@ -24,7 +24,7 @@ Aug. 21, 1941, ch. 384, §4 (1st sentence), 55 Stat. 653.
 
 #### Prior Provisions
 
-A prior section 7218, act Aug. 10, 1956, ch. 1041, 70A Stat. 445; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, authorized Secretary of Navy to give special recognition to members of naval service for excellence, special service and good conduct in naval service, prior to repeal by Pub. L. 89–529, §1(3), Aug. 11, 1966, 80 Stat. 339; Pub. L. 97–295, §1(46), Oct. 12, 1982, 96 Stat. 1298.
+A prior section 7218, act Aug. 10, 1956, ch. 1041, 70A Stat. 445; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, authorized Secretary of Navy to give special recognition to members of naval service for excellence, special service and good conduct in naval service, prior to repeal by Pub. L. 89–529, §1(3), Aug. 11, 1966, 80 Stat. 339; Pub. L. 97–295, §1(46), Oct. 12, 1982, 96 Stat. 1298.
 
 Prior sections 7219 to 7221 were renumbered sections 8619 to 8621 of this title, respectively.
 

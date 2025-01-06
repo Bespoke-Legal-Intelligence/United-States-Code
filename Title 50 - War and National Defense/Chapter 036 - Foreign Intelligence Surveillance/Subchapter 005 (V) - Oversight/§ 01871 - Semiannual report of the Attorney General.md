@@ -34,9 +34,13 @@ The first report under this section shall be submitted not later than 6 months a
 
 The Attorney General shall submit to the committees of Congress referred to in subsection (a)—
 
-&emsp;(1) not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion; and
+&emsp;(1) not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion;
 
-&emsp;(2) a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008, and not previously submitted in a report under subsection (a).
+&emsp;(2) a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008, and not previously submitted in a report under subsection (a);
+
+&emsp;(3) for any hearing, oral argument, or other proceeding before the Foreign Intelligence Surveillance Court or Foreign Intelligence Surveillance Court of Review for which a court reporter produces a transcript, not later than 45 days after the government receives the final transcript or the date on which the matter of the hearing, oral argument, or other proceeding is resolved, whichever is later, a notice of the existence of such transcript. Not later than three business days after a committee referred to in subsection (a) requests to review an existing transcript, the Attorney General shall facilitate such request; and
+
+&emsp;(4) a copy of each declassified document that has undergone review under section 1872 of this title.
 
 #### (d) Protection of national security
 
@@ -54,19 +58,19 @@ In this section:
 
 &emsp;The term "Foreign Intelligence Surveillance Court of Review" means the court established under section 1803(b) of this title.
 
-(Pub. L. 95–511, title VI, §601, as added Pub. L. 108–458, title VI, §6002(a)(2), Dec. 17, 2004, 118 Stat. 3743; amended Pub. L. 110–261, title I, §§101(c)(2), 103, title IV, §403(b)(2)(B), July 10, 2008, 122 Stat. 2459, 2460, 2474; Pub. L. 114–23, title VI, §604, June 2, 2015, 129 Stat. 297.)
+(Pub. L. 95–511, title VI, §601, as added Pub. L. 108–458, title VI, §6002(a)(2), Dec. 17, 2004, 118 Stat. 3743; amended Pub. L. 110–261, title I, §§101(c)(2), 103, title IV, §403(b)(2)(B), July 10, 2008, 122 Stat. 2459, 2460, 2474; Pub. L. 114–23, title VI, §604, June 2, 2015, 129 Stat. 297; Pub. L. 118–49, §8(b), Apr. 20, 2024, 138 Stat. 874.)
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Apr. 19, 2024, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, §19(a)(2), Apr. 20, 2024, 138 Stat. 891, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective two years after the date of enactment of the Reforming Intelligence and Securing America Act, Pub. L. 118–49, which was approved Apr. 20, 2024, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c)(1), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c)(1), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, known as the Foreign Intelligence Surveillance Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 1861 of this title, referred to in subsec. (a)(1)(D), means section 1861 of this title prior to the amendment of section 1861 by Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under section 1805 of this title, which amended section 1861 of this title, effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
+Section 1861 of this title, referred to in subsec. (a)(1)(D), means section 1861 of this title prior to theamendment of section 1861 by Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under section 1805 of this title, which amended section 1861 of this title, effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
 
 Section 1801(b)(1)(C) of this title, referred to in subsec. (a)(2), was temporarily added by Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742, and provided that, as used in subchapter I of this chapter, the term "agent of a foreign power" included any person other than a United States person who "engages in international terrorism or activities in preparation therefore". Such amendment ceased to have effect on Mar. 15, 2020; see section 6001(b) of Pub. L. 108–458, set out as a Termination Date of 2004 Amendment note under section 1801 of this title.
 
@@ -76,7 +80,9 @@ A prior section 601 of Pub. L. 95–511 was renumbered section 701 and was set o
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(1). Pub. L. 114–23 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and".
+<b>2024</b>—Subsec. (c)(3), (4). Pub. L. 118–49 added pars. (3) and (4).
+
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–23 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and".
 
 <b>2008</b>—Subsec. (a)(1)(E), (F). Pub. L. 110–261, §101(c)(2), added subpars. (E) and (F).
 
@@ -90,7 +96,7 @@ Subsec. (e). Pub. L. 110–261, §103(c), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the amendments made by section 403(b)(2) are effective Apr. 19, 2024.
+Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, §19(a)(2), Apr. 20, 2024, 138 Stat. 891, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the amendments made by section 403(b)(2) are effective two years after the date of enactment of the Reforming Intelligence and Securing America Act, Pub. L. 118–49, which was approved Apr. 20, 2024.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

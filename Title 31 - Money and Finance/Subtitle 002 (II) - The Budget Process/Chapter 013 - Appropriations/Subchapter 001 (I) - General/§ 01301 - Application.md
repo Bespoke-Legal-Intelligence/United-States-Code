@@ -68,7 +68,7 @@ Pub. L. 98–359, §1, July 13, 1984, 98 Stat. 402, provided: "That this Act \[a
 
 #### Transfers From Appropriation Accounts; Salaries of Temporarily Reassigned Employees
 
-Pub. L. 105–277, div. A, §101(f) \[title V, §510\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L.106–31, title V, §5005(l), May 21, 1999, 113 Stat. 111, provided that: "Notwithstanding any other provision of law, hereafter—
+Pub. L. 105–277, div. A, §101(f) \[title V, §510\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L. 106–31, title V, §5005(l), May 21, 1999, 113 Stat. 111, provided that: "Notwithstanding any other provision of law, hereafter—
 
 &emsp;"(1) no amount may be transferred from an appropriation account for the Departments of Labor, Health and Human Services, and Education except as authorized in this or any subsequent appropriation Act, or in the Act establishing the program or activity for which funds are contained in this Act \[see Tables for classification\];
 

@@ -56,7 +56,7 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
 #### (C) Report
 
-&emsp;&emsp;The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
+&emsp;&emsp;The Deputy Attorney General shall submit an annual report to the Committee on theJudiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
 
 #### (b) Reporting
 

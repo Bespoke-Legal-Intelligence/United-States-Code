@@ -6,7 +6,7 @@ The Commission shall, within 30 days after October 18, 1990, initiate a rulemaki
 
 #### (b) Advertising duration limitations
 
-Except as provided in subsection (c), the standards prescribed under subsection (a) shall include the requirement that each commercial television broadcast licensee shall limit the duration of advertising in children's television programming to not more than 10.5 minutes perhour on weekends and not more than 12 minutes per hour on weekdays.
+Except as provided in subsection (c), the standards prescribed under subsection (a) shall include the requirement that each commercial television broadcast licensee shall limit the duration of advertising in children's television programming to not more than 10.5 minutes per hour on weekends and not more than 12 minutes per hour on weekdays.
 
 #### (c) Review of advertising duration limitations; modification
 
@@ -42,7 +42,7 @@ Pub. L. 101–437, title I, §101, Oct. 17, 1990, 104 Stat. 996, provided that: 
 
 &emsp;"(4) special safeguards are appropriate to protect children from overcommercialization on television;
 
-&emsp;"(5) television station operators and licensees should follow practices in connection with children's television programming and advertising that take into consideration the characteristics of this child audience; and
+&emsp;"(5) television station operators and licensees should follow practices in connection with children'stelevision programming and advertising that take into consideration the characteristics of this child audience; and
 
 &emsp;"(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to as the 'Commission') take the actions required by this title \[enacting sections 303a and 303b of this title\]."
 

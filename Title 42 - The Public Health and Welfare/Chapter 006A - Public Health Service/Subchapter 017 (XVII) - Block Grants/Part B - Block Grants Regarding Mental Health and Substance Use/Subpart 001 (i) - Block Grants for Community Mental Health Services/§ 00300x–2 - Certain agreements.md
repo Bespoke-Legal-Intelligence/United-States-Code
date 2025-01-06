@@ -6,7 +6,7 @@
 
 &emsp;With respect to children with a serious emotional disturbance, a funding agreement for a grant under section 300x of this title is that—
 
-&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not less than 10 percent of the grant to increase (relative to fiscal year 1992) funding for the system of integrated services described in section 300x–1(b)(9) <sup>1</sup> of this title;
+&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not lessthan 10 percent of the grant to increase (relative to fiscal year 1992) funding for the system of integrated services described in section 300x–1(b)(9) <sup>1</sup> of this title;
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 10 percent of the grant to increase (relative to fiscal year 1993) funding for such system; and
 

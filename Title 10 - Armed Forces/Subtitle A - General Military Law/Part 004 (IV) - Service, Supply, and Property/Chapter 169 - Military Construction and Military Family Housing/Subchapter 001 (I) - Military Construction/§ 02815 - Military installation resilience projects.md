@@ -36,7 +36,7 @@ Location of Projects.—Projects carried out pursuant to this section may be car
 
 &emsp;&emsp;(B) a facility described in paragraph (2); or
 
-&emsp;&emsp;(C) community infrastructure determined by the Secretary concerned to be necessaryto maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
+&emsp;&emsp;(C) community infrastructure determined by the Secretary concerned to be necessary to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 
 (e)
 

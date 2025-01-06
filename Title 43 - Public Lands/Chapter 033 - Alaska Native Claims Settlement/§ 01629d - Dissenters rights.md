@@ -66,7 +66,7 @@
 
 &emsp;(A) interest shall be paid semi-annually, beginning as of the date on which the vote described in subsection (a)(1) occurred, at the rate applicable on such date to obligations of the United States having a maturity date of one year, and
 
-&emsp;(B) the principal amount and accrued interest on such note shall be payable to the holder at a time specified by the corporation but inno event later than the date that is five years after the date of the vote described in subsection (a)(1).
+&emsp;(B) the principal amount and accrued interest on such note shall be payable to the holder at a time specified by the corporation but in no event later than the date that is five years after the date of the vote described in subsection (a)(1).
 
 #### (e) Dividend adjustment
 

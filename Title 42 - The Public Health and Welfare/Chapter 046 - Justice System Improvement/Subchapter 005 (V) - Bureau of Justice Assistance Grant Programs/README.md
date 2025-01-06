@@ -16,7 +16,7 @@ Section 3764, Pub. L. 90–351, title I, §504, formerly §604, as added Pub. L.
 
 Section 3765, Pub. L. 90–351, title I, §505, formerly §605, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1197; renumbered §505 and amended Pub. L. 98–473, title II, §608(c), Oct. 12, 1984, 98 Stat. 2087, related to criteria for award.
 
-Section 3766, Pub. L. 90–351, title I, §506, formerly §606, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1197; renumbered §506 and amended Pub. L. 98–473, title II, §608(d), Oct. 12, 1984, 98 Stat. 2087, related to period for award of discretionary grants.
+Section 3766, Pub. L. 90–351, title I, §506, formerly §606, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1197; renumbered §506 and amended Pub. L. 98–473, title II, §608(d), Oct. 12, 1984, 98 Stat. 2087, related to period for award of discretionary grants.
 
 Another prior subchapter V, consisting of sections 3751 to 3755, related to national priority grants, prior to repeal by Pub. L. 98–473, title II, §607, Oct. 12, 1984, 98 Stat. 2086.
 
@@ -84,7 +84,7 @@ A prior section 525 of title I of Pub. L. 90–351 amended section 484 of former
 
 Section 3772 of this title, Pub. L. 90–351, title I, §526, as added Pub. L. 93–415, title V, §545, Sept. 7, 1974, 88 Stat. 1143, related to acceptance of volunteer services.
 
-Section 3773 of this title, Pub. L. 90–351, title I, §527, as added Pub. L. 93–415, title V, §545, Sept. 7, 1974, 88Stat. 1143, related to administration of juvenile delinquency programs by Office of Juvenile Justice and Delinquency Prevention.
+Section 3773 of this title, Pub. L. 90–351, title I, §527, as added Pub. L. 93–415, title V, §545, Sept. 7, 1974, 88 Stat. 1143, related to administration of juvenile delinquency programs by Office of Juvenile Justice and Delinquency Prevention.
 
 Section 3774 of this title, Pub. L. 90–351, title I, §528, as added Pub. L. 93–415, title V, §545, Sept. 7, 1974, 88 Stat. 1143, authorized employment of personnel by Law Enforcement Assistance Administration.
 

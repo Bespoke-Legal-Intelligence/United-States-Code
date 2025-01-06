@@ -4,7 +4,7 @@
 
 &emsp;(1) Any employee of a humanitarian agency accredited to the armed forces, such as the American Red Cross and the United Services Organization.
 
-&emsp;(2) Any civilian performing a service directly for the Secretary because of employment byan agency under a contract with the Secretary.
+&emsp;(2) Any civilian performing a service directly for the Secretary because of employment by an agency under a contract with the Secretary.
 
 &emsp;(3) Any officer or member of a crew of a merchant vessel operated by or for the United States through the Secretary.
 

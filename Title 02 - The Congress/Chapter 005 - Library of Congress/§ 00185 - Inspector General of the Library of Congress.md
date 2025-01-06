@@ -76,7 +76,7 @@ There is an Office of Inspector General within the Library of Congress which is 
 
 #### (1) In general
 
-&emsp;Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and\(8) thereof),<sup>1</sup> and 407 of title 5 shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
+&emsp;Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof),<sup>1</sup> and 407 of title 5 shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
 
 &emsp;&emsp;(A) "Library of Congress" for "establishment"; and
 
@@ -152,7 +152,7 @@ There is an Office of Inspector General within the Library of Congress which is 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+&emsp;&emsp;&emsp;Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
 
 #### (ii) Suspension of authority
 
@@ -202,7 +202,7 @@ This section shall be effective on August 2, 2005.
 
 Section 406(a) (other than paragraphs (7) and (8) thereof) of title 5, referred to in subsec. (d)(1), probably should be a reference to section "406 (other than subsection (a)(7))" of title 5. Pub. L. 116–94, §1602(a)(2), had amended subsec. (d)(1) by substituting a reference to section "6 (other than subsection (a)(7))" of the Inspector General Act of 1978 for a reference to section "6(a) (other than paragraphs (7) and (8) thereof)" of that Act. The reference was subsequently amended by Pub. L. 117–286 to reflect the repeal of section 6 of the Act and its restatement as section 406 of title 5, but that amendment was based on the text as it existed prior to the amendment by Pub. L. 116–94. See 2019 and 2022 Amendment notes below.
 
-Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
+Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set outin the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
 
 #### Codification
 

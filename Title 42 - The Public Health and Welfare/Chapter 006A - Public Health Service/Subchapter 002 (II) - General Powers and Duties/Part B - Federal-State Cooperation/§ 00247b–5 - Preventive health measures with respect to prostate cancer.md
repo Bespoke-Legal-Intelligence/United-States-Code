@@ -82,7 +82,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (4) Coordination with other prostate cancer programs
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
 
 #### (5) Limitation on administrative expenses
 
@@ -90,7 +90,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (6) Restrictions on use of grant
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the grant will not be expended to provide inpatient hospital services for any individual.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the grant will not be expended to provide inpatient hospital services for any individual.
 
 #### (7) Records and audits
 
@@ -150,7 +150,7 @@ For purposes of this section, the term "units of local government" includes Indi
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1).
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub.L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### <b>Editorial Notes</b>
 
@@ -160,7 +160,7 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: "The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
 
 &emsp;"(1) to screen men for prostate cancer as a preventive health measure;
 

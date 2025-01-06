@@ -22,7 +22,7 @@
 
 #### (b) Certain matters
 
-In carrying out the section 351A program and the section 212 program, the Secretary of Health and Human Services and the Secretary of Agriculture shall, to the greatest extent practicable, coordinate activities to achieve the following purposes:
+In carrying out the section 351A program and the section 212 program, the Secretary of Health and Human Services and the Secretary of Agriculture shall, to the greatest extent practicable,coordinate activities to achieve the following purposes:
 
 &emsp;(1) To minimize any conflicts between the regulations issued under, and activities carried out under, such programs.
 
@@ -60,7 +60,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;With respect to the process of identification under the section 351A program and the section 212 program for names and other identifying information submitted to the Attorney General (relating to certain categories of individuals and entities), the memorandum of understanding under paragraph (1) shall provide for the development and implementation of the following:
 
-&emsp;&emsp;(A) A procedure through which a person who is required to submit information pursuant to such process makes (in addition to the submission to the Attorney General) a submission, at the option of the person, to either the agency administering the section 351A program or the agency administeringthe section 212 program, but not both, which submission satisfies the requirement of submission for both of such programs.
+&emsp;&emsp;(A) A procedure through which a person who is required to submit information pursuant to such process makes (in addition to the submission to the Attorney General) a submission, at the option of the person, to either the agency administering the section 351A program or the agency administering the section 212 program, but not both, which submission satisfies the requirement of submission for both of such programs.
 
 &emsp;&emsp;(B) A procedure for the sharing by both of such agencies of information received from the Attorney General by one of such agencies pursuant to the submission under subparagraph (A).
 
@@ -76,7 +76,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (d) Joint regulations
 
-Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
+Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements ofboth the section 351A program and the section 212 program.
 
 (Pub. L. 107–188, title II, §221, June 12, 2002, 116 Stat. 657.)
 

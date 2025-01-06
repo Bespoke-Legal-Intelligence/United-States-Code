@@ -98,13 +98,13 @@ Subsec. (a)(5). Pub. L. 111–320, §136(a)(5), substituted "child abuse and neg
 
 Subsec. (a)(6). Pub. L. 111–320, §136(a)(6), inserted a comma after "operation".
 
-Subsec. (b). Pub. L. 111–320, §136(b), substituted "low-income" for "low income" and "child abuse and neglect prevention programs." for "family resource and support programs".
+Subsec. (b). Pub. L. 111–320, §136(b), substituted "low-income" for "low income" and "child abuse and neglectprevention programs." for "family resource and support programs".
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–36, §126(1), substituted "and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for "prevention-focused, family resource and support programs" in introductory provisions.
 
 Subsec. (a)(3)(B). Pub. L. 108–36, §126(2), inserted "voluntary home visiting and" after "including".
 
-Subsec. (a)(6). Pub. L. 108–36, §126(3), added par. (6) and struck out former par. (6) which read as follows: "participate with other community-based, prevention-focused, family resource and support program granteesin the development, operation and expansion of the Statewide network."
+Subsec. (a)(6). Pub. L. 108–36, §126(3), added par. (6) and struck out former par. (6) which read as follows: "participate with other community-based, prevention-focused, family resource and support program grantees in the development, operation and expansion of the Statewide network."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

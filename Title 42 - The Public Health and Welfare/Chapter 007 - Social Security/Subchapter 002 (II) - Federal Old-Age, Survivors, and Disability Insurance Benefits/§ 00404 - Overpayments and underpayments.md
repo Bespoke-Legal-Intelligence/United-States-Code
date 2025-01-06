@@ -36,9 +36,9 @@
 
 (1) In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
 
-(2) In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
+(2) In making for purposes of this subsection any determination of whether any individual iswithout fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
 
-(3)(A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain\(subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
+(3)(A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
 
 (B) Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(1)\], an authorization provided by an individual pursuant this paragraph shall remain effective until the earlier of—
 
@@ -46,7 +46,7 @@
 
 &emsp;(ii) the express revocation by the individual of the authorization, in a written notification to the Commissioner.
 
-(C)(i) An authorization obtained by the Commissioner of Social Security pursuant this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[12 U.S.C. 3401 et seq.\] for purposes of section 1103(a) of such Act \[12 U.S.C. 3403(a)\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[12 U.S.C. 3404(a)\].
+(C)(i) An authorization obtained by the Commissioner of Social Security pursuant <sup>2</sup> this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[12 U.S.C. 3401 et seq.\] for purposes of section 1103(a) of such Act \[12 U.S.C. 3403(a)\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[12 U.S.C. 3404(a)\].
 
 (ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[12 U.S.C. 3403(b)\] shall not apply to requests by the Commissioner of Social Security pursuant to an authorization provided under this paragraph.
 
@@ -74,7 +74,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Commissioner of Social Security to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
-&emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent); or
+&emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual (and, incase there is more than one such parent, in equal parts to each such parent); or
 
 &emsp;(7) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or (6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the legal representative of the estate of the deceased individual, if any.
 
@@ -84,7 +84,7 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 #### (f) Collection of delinquent amounts
 
-(1) With respect to any deliquent <sup>2</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
+(1) With respect to any deliquent <sup>3</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
 
 (2) For purposes of paragraph (1), the term "delinquent amount" means an amount—
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 103–387 added subsec. (f).
 
 <b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–508 inserted "or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31," after "payments to such overpaid person,".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end "In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)."
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end "In making for purposes of this subsection any determination of whether any individual is without fault, theSecretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272 redesignated existing subsec. (a) as (a)(1) and pars. (1) and (2) thereof as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -226,5 +226,7 @@ Pub. L. 114–74, title VIII, §845(c), Nov. 2, 2015, 129 Stat. 619, provided th
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "delinquent".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "to".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "delinquent".</i>
 

@@ -34,7 +34,7 @@
 
 &emsp;(ii) dies in service after completing at least 20 years of service as a special agent, when an annuity is payable under section 4049 of this title.
 
-(C) For purposes of subparagraph (B), included with the years of service performed by an individual as a special agent shall be any service performed by such individual as a law enforcement officer (within the meaning of section8331(20) or section 8401(17) of title 5), or a member of the Capitol Police.
+(C) For purposes of subparagraph (B), included with the years of service performed by an individual as a special agent shall be any service performed by such individual as a law enforcement officer (within the meaning of section 8331(20) or section 8401(17) of title 5), or a member of the Capitol Police.
 
 (D)(i) In this subparagraph—
 
@@ -90,11 +90,11 @@
 
 (1)(A) Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 60), the participant shall receive a reduced annuity and provide a survivor annuity for his or her spouse under this subsection or former spouse under section 4054(b) of this title, or a combination of such annuities, as the case may be.
 
-(B) At the time of retirement, a married participant or former participant and his or her spouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse under section 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
+(B) At the time of retirement, a married participant or former participant and his or her spouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse under section 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as aformer spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
 (C) If a participant or former participant has a former spouse, the participant and such former spouse may jointly elect by spousal agreement under section 4060(b)(1) of this title to waive a survivor annuity under section 4054(b) of this title for that former spouse if the election is made (i) before the end of the 24-month period after the divorce or annulment involving that former spouse becomes final or (ii) at the time of retirement, whichever occurs first.
 
-(D) The Secretary of State may prescribe regulations under which a participant or formerparticipant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
+(D) The Secretary of State may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
 (2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
@@ -192,11 +192,11 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 > may, during the 18-month period beginning on the date of the retirement of such participant, elect to have a greater portion of the annuity of such participant so used.
 
-(2)(A) An election under subparagraph (A) or (B) of paragraph (1) of this subsection shall not be considered effective unless the amount specified in subparagraph (B) of this paragraph is deposited into the Fund before the expiration of the applicable 18-month period under paragraph (1).
+(2)(A) An election under subparagraph (A) or (B) of paragraph (1) of this subsection shall notbe considered effective unless the amount specified in subparagraph (B) of this paragraph is deposited into the Fund before the expiration of the applicable 18-month period under paragraph (1).
 
 (B) The amount to be deposited with respect to an election under this subsection is an amount equal to the sum of—
 
-&emsp;(i) the additional cost to the System which is associated with providing a survivor annuity under subsection (b) of this section and results from such election taking into account (I) the difference (for the period between thedate on which the annuity of the former participant commences and the date of the election) between the amount paid to such former participant under this part and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity, and (II) the costs associated with providing the later election; and
+&emsp;(i) the additional cost to the System which is associated with providing a survivor annuity under subsection (b) of this section and results from such election taking into account (I) the difference (for the period between the date on which the annuity of the former participant commences and the date of the election) between the amount paid to such former participant under this part and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity, and (II) the costs associated with providing the later election; and
 
 &emsp;(ii) interest on the additional cost determined under clause (i)(I) of this subparagraph computed using the interest rate specified or determined under section 4045(d)(3) of this title for the calendar year in which the amount to be deposited is determined.
 
@@ -207,10 +207,6 @@ The retirement, disability, or survivor annuity payable to any person based on t
 (5) Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the participant involved elected such annuity at the time of retiring.
 
 (Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, §587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, §2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, §322(a)(1), Sept. 30, 2002, 116 Stat. 1383; Pub. L. 112–96, title V, §5001(c)(2)(E), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, §3(d), Dec. 9, 2022, 136 Stat. 2297.)
-
-#### Applicability of Amendment
-
-<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of Title 5, Government Organization and Employees.</i>
 
 #### Amendment of Section
 
@@ -274,7 +270,7 @@ Subsec. (n). Pub. L. 99–335, §407, added subsec. (n).
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness orinjury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 
@@ -364,7 +360,7 @@ Deposit.—A deposit required by this subsection may be made by the surviving sp
 
 "(g)
 
-Limitation.—The election authorized in subsection (a) may only be made within one year after the date of enactment of this title \[Jan. 8, 1988\] in accordance with procedures prescribed by the Secretary of State.
+Limitation.—The election authorized in subsection (a) may only be made within one year after thedate of enactment of this title \[Jan. 8, 1988\] in accordance with procedures prescribed by the Secretary of State.
 
 "(h)
 

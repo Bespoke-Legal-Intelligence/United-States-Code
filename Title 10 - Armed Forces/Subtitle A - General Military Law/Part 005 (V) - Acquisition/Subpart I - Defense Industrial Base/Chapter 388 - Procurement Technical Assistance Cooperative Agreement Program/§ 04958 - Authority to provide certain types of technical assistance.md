@@ -6,7 +6,7 @@ Assistance Relating to Certain Non-defense Contracts.—The procurement technica
 
 (b)
 
-Information Relating to Assistance and Other Programs Available.—An eligible entity assisted by the Department of Defense underthis chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
+Information Relating to Assistance and Other Programs Available.—An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
 
 (c)
 

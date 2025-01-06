@@ -54,7 +54,7 @@ The total value of all orders for items or services to be provided under the pro
 
 #### (e) Payment for items and services
 
-(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers' compensation), plant and equipment costs\(including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
+(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers' compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
 
 (2) Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 
@@ -138,9 +138,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 117–328, div. C, title VIII, §8043, Dec. 29, 2022, 136 Stat. 4596, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
+Pub. L. 118–47, div. A, title VIII, §8043, Mar. 23, 2024, 138 Stat. 492, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. C, title VIII, §8043, Dec. 29, 2022, 136 Stat. 4596.
 
 Pub. L. 117–103, div. C, title VIII, §8045, Mar. 15, 2022, 136 Stat. 184.
 

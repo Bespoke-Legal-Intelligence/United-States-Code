@@ -32,7 +32,7 @@ In this part:
 
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
-(Pub. L. 93–618, title II, §291, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 946; amended Pub. L. 109–280, title XIV, §1635(f)(4), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–234, title I, §1603(g)(6), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, §4(a), title I, §1603(g)(6),June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 111–5, div. B, title I, §1881, Feb. 17, 2009, 123 Stat. 414; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §291, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 946; amended Pub. L. 109–280, title XIV, §1635(f)(4), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–234, title I, §1603(g)(6), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, §4(a), title I, §1603(g)(6), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 111–5, div. B, title I, §1881, Feb. 17, 2009, 123 Stat. 414; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Termination of Assistance
 
@@ -64,7 +64,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2009</b>—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment, text read as follows: "The term 'agricultural commodity' means any agricultural commodity (including livestock) in its raw or natural state." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Par. (2). Pub. L. 111–5, §§1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: "The term 'agricultural commodity producer' has the same meaning as the term 'person' as prescribed by regulations promulgated under section 1308(e) of title 7 (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Par. (2). Pub. L. 111–5, §§1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: "The term 'agricultural commodity producer' has the same meaning as the term 'person' asprescribed by regulations promulgated under section 1308(e) of title 7 (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Par. (7). Pub. L. 111–5, §§1881(3), 1893, temporarily added par. (7). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -102,7 +102,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17,2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective Date
 

@@ -108,7 +108,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iv) that such fee or charge may be assessed for inactivity; and
 
-&emsp;&emsp;(B) the issuer or vendor of such certificate or card informs the purchaser of such charge or fee before such certificate or card is purchased, regardless of whether the certificateor card is purchased in person, over the Internet, or by telephone.
+&emsp;&emsp;(B) the issuer or vendor of such certificate or card informs the purchaser of such charge or fee before such certificate or card is purchased, regardless of whether the certificate or card is purchased in person, over the Internet, or by telephone.
 
 #### (4) Exclusion
 

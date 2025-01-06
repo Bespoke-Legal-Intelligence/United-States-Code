@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator shall transfer, arrange for the transportation, and take other stepsnecessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A.
+&emsp;&emsp;The Administrator shall transfer, arrange for the transportation, and take other steps necessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A.
 
 #### (B) Certain commodities made available for nonemergency assistance
 
@@ -196,7 +196,7 @@ Subsec. (f)(1)(B)(iii)(III). Pub. L. 113–79, §3010(3)(B)–(D), added subcl. 
 
 Subsec. (c)(5). Pub. L. 110–246, §3017(2), added par. (5).
 
-Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programsand activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 <b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

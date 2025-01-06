@@ -8,7 +8,7 @@
 
 &emsp;(B) becomes manifest within the period, if any, prescribed in such regulations in a veteran who served on active duty in that theater of operations during that war and by reason of such service was exposed to such agent, hazard, or medicine or vaccine.
 
-(3) For purposes of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War and has an illness described in paragraph (2) shall be presumed to have been exposed by reason of such service to the agent, hazard, or medicine or vaccine associated with the illness in the regulations prescribed under this section unless there is conclusive evidence to establish that the veteran was not exposed to the agent, hazard, or medicine or vaccine by reason of such service.
+(3) For purposes of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War and has an illness described in paragraph (2) shall be presumed to have been exposed by reason of such service to the agent, hazard, or medicine or vaccine associated with the illness in the regulations prescribed under this section unless there is conclusive evidence to establishthat the veteran was not exposed to the agent, hazard, or medicine or vaccine by reason of such service.
 
 (4) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness include the signs and symptoms listed in section 1117(g) of this title.
 

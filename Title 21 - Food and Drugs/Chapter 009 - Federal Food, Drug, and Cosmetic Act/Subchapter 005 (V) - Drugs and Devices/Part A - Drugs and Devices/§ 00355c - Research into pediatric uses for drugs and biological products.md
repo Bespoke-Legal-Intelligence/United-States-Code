@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The assessments referred to in paragraph (1)(A) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
+&emsp;&emsp;The assessments referred to in paragraph (1)(A) shall contain data, gathered using appropriate formulations for each age groupfor which the assessment is required, that are adequate—
 
 &emsp;&emsp;&emsp;(i) to assess the safety and effectiveness of the drug or the biological product for the claimed indications in all relevant pediatric subpopulations; and
 
@@ -96,7 +96,7 @@
 
 #### (ii) Timing and information
 
-&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
+&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested byan applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
 
 #### (C) Annual review
 
@@ -310,7 +310,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (1) Review
 
-&emsp;Beginning not later than 30 days after September 27, 2007, the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and any significant amendments to such plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
+&emsp;Beginning not later than 30 days after September 27, 2007, the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, andany significant amendments to such plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
 
 #### (2) Activity by committee
 
@@ -322,7 +322,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (4) Review of pediatric study plans, assessments, deferrals, deferral extensions, and waivers
 
-&emsp;Consultation on initial pediatric study plans, agreed initial pediatric study plans, and assessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application orsupplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
+&emsp;Consultation on initial pediatric study plans, agreed initial pediatric study plans, and assessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application or supplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
 
 #### (5) Retrospective review of pediatric assessments, deferrals, and waivers
 
@@ -450,7 +450,7 @@ Nothing in this section provides to the Secretary any authority to require a ped
 
 #### (2) Interchangeable biosimilar biological product
 
-&emsp;A biological product that is interchangeable with a reference product under section 262 oftitle 42 shall not be considered to have a new active ingredient under this section.
+&emsp;A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.
 
 #### (m) List of primary molecular targets
 
@@ -530,7 +530,7 @@ Subsec. (m). Pub. L. 115–52, §504(a)(4), added subsec. (m).
 
 <b>2016</b>—Subsec. (e)(2)(A). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(aa), inserted "study" after "initial pediatric" in introductory and concluding provisions.
 
-Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initialpediatric study plan" for "Content of initial plan" in heading.
+Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initial pediatric study plan" for "Content of initial plan" in heading.
 
 Subsec. (e)(5). Pub. L. 114–255, §3101(a)(2)(D)(i)(II), inserted "agreed initial pediatric study" before "plan" in heading.
 

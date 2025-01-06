@@ -6,7 +6,7 @@ Award.—The head of an agency shall evaluate sealed bids and competitive propos
 
 (b)
 
-Rejection.—All sealed bids or competitive proposals received in response to a solicitationmay be rejected if the head of the agency determines that such action is in the public interest.
+Rejection.—All sealed bids or competitive proposals received in response to a solicitation may be rejected if the head of the agency determines that such action is in the public interest.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(A), (3), Jan. 1, 2021, 134 Stat. 4182.)
 
@@ -84,7 +84,7 @@ Elements.—The strategy required by subsection (a) shall, at a minimum—
 
 "(c)
 
-Contractor Comments.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31,2011\], the Under Secretary of Defense for Acquisition and Sustainment shall revise the Defense Supplement to the Federal Acquisition Regulation to require the following:
+Contractor Comments.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition and Sustainment shall revise the Defense Supplement to the Federal Acquisition Regulation to require the following:
 
 &emsp;"(1) That affected contractors are provided, in a timely manner, information on contractor performance to be included in past performance databases in accordance with subsection (a).
 

@@ -20,7 +20,7 @@ Activities funded by an award under this section may include—
 
 &emsp;(4) support for institutions of higher education or nonprofit organizations to develop, adapt, implement, and assess the impact of innovative, evidence-based strategies, policies, and approaches to policy implementation to prevent and address sex-based and sexual harassment;
 
-&emsp;(5) research on alternatives to the power dynamics, hierarchical, and dependent relationships, including but not limited to the mentor-mentee relationship, in academia that havebeen shown to create higher levels of risk for and lower levels of reporting of sex- based and sexual harassment; and
+&emsp;(5) research on alternatives to the power dynamics, hierarchical, and dependent relationships, including but not limited to the mentor-mentee relationship, in academia that have been shown to create higher levels of risk for and lower levels of reporting of sex- based and sexual harassment; and
 
 &emsp;(6) establishing a center for the ongoing compilation, management, and analysis of organizational climate survey data.
 

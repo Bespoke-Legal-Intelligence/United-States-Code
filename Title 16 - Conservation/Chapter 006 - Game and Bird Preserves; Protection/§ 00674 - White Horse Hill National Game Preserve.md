@@ -8,7 +8,7 @@ The Secretary of the Interior is authorized to inclose the Sullys Hill National 
 
 #### Codification
 
-This section was a provision of the agricultural appropriation act for the fiscal year 1915, act June 30,1914, which, in the first sentence, made an appropriation of $5,000 for the improvement of a game preserve in Sullys Hill National Park, the same to be available until expended.
+This section was a provision of the agricultural appropriation act for the fiscal year 1915, act June 30, 1914, which, in the first sentence, made an appropriation of $5,000 for the improvement of a game preserve in Sullys Hill National Park, the same to be available until expended.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

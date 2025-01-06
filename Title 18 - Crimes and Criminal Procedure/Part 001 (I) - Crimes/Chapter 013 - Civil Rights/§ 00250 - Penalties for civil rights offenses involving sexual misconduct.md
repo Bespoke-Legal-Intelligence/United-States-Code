@@ -8,7 +8,7 @@ Offense.—It shall be unlawful for any person to, in the course of committing a
 
 Penalties.—Any person who violates subsection (a) shall be—
 
-&emsp;(1) in the case of an offense involving aggravated sexual abuse, as defined in section 2241, or if the offense involved sexual abuse, as defined in section 2242, or if the offense involved an attempt to commit such aggravated sexual abuse or sexual abuse, fined under this title and imprisoned for any term of years or for life;
+&emsp;(1) in the case of an offense involving aggravated sexual abuse, as defined in section 2241,or if the offense involved sexual abuse, as defined in section 2242, or if the offense involved an attempt to commit such aggravated sexual abuse or sexual abuse, fined under this title and imprisoned for any term of years or for life;
 
 &emsp;(2) in the case of an offense involving abusive sexual contact of a child who has not attained the age of 16, of the type prohibited by section 2244(a)(5), fined under this title and imprisoned for any term of years or for life;
 

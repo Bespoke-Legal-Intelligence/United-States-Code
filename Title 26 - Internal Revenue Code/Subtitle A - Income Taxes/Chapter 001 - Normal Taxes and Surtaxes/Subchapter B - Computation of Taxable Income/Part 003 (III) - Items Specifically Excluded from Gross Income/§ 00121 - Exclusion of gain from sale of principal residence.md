@@ -26,7 +26,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Other joint returns
 
-&emsp;&emsp;If such spouses do not meet the requirements of subparagraph (A), the limitation under paragraph (1) shall be the sum of the limitations under paragraph (1) to which each spouse would be entitled if such spouses had not been married. For purposes of the preceding sentence, each spouse shall be treated as owning the property during the period that either spouse owned the property.
+&emsp;&emsp;If such spouses do not meet the requirements of subparagraph (A), the limitation under paragraph (1) shall be the sum of the limitations under paragraph (1) to which each spouse would be entitled if such spouses had not been married. For purposes of the preceding sentence, each spouse shall be treated as owning the property during theperiod that either spouse owned the property.
 
 #### (3) Application to only 1 sale or exchange every 2 years
 
@@ -206,7 +206,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "qualified official extended duty" means any extended duty while serving at a duty station which is at least 50 miles from such property or while residing under Government orders in Government quarters.
+&emsp;&emsp;&emsp;The term "qualified official extended duty" means any extended duty whileserving at a duty station which is at least 50 miles from such property or while residing under Government orders in Government quarters.
 
 #### (ii) Uniformed services
 
@@ -256,7 +256,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (10) Property acquired in like-kind exchange
 
-&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property isdetermined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
+&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
 
 #### \[(11) Repealed. Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300\]
 
@@ -286,7 +286,7 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) <sup>1</sup> in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §§212(c), 213(c)(1), 221(a)(20), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §11051(b)(3)(A), Dec. 22, 2017, 131 Stat. 2089.)
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III,§312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §§212(c), 213(c)(1), 221(a)(20), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §11051(b)(3)(A), Dec. 22, 2017, 131 Stat. 2089.)
 
 #### <b>Editorial Notes</b>
 
@@ -422,7 +422,7 @@ Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his del
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in formersection 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -542,7 +542,7 @@ Pub. L. 94–455, title XIV, §1404(b), Oct. 4, 1976, 90 Stat. 1733, provided th
 
 #### Effective Date
 
-Pub. L. 88–272, title II, §206(c), Feb. 26, 1964, 78 Stat. 40, provided that: "The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date."
+Pub. L. 88–272, title II, §206(c), Feb. 26, 1964, 78 Stat. 40, provided that: "The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date."
 
 #### Sense of Congress Concerning Tax Treatment of Principal Residence of Members of Armed Forces While Away From Home on Active Duty
 

@@ -31,6 +31,7 @@ Part II—Administrative Provisions
 - [&sect; 02395a - International agreements concerning debt relief; transmittal to congressional committees](%C2%A7%2002395a%20-%20International%20agreements%20concerning%20debt%20relief%3B%20transmittal%20to%20congressional%20committees.md)
 - [&sect; 02396 - Availability of funds](%C2%A7%2002396%20-%20Availability%20of%20funds.md)
 - [&sect; 02396a - Property Management Fund](%C2%A7%2002396a%20-%20Property%20Management%20Fund.md)
+- [&sect; 02396b - USAID Buying Power Maintenance Account](%C2%A7%2002396b%20-%20USAID%20Buying%20Power%20Maintenance%20Account.md)
 - [&sect; 02397 - Administrative expenses](%C2%A7%2002397%20-%20Administrative%20expenses.md)
 - [&sect; 02398 - Assistance to countries pursuant to other statutes](%C2%A7%2002398%20-%20Assistance%20to%20countries%20pursuant%20to%20other%20statutes.md)
 - [&sect; 02399 - Repealed. Pub. L. 94&#8211;161, title I, &sect;101(6), Dec. 20, 1975, 89 Stat. 850](%C2%A7%2002399%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93161%2C%20title%20I%2C%20%C2%A7101%286%29%2C%20Dec.%2020%2C%201975%2C%2089%20Stat.%20850.md)

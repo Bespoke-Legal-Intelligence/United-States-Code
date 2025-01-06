@@ -18,7 +18,7 @@ For the purposes of this section only, the following terms in this section are d
 
 #### (4) Medical intervention
 
-&emsp;Medical intervention is the process by which a physician provides medical diagnosis and direction for medical and/or surgical treatment options of hearing loss and/or related medical disorder associated with hearing loss.
+&emsp;Medical intervention is the process by which a physician provides medical diagnosis and direction for medical and/or surgical treatmentoptions of hearing loss and/or related medical disorder associated with hearing loss.
 
 #### (5) Audiologic rehabilitation
 
@@ -26,7 +26,7 @@ For the purposes of this section only, the following terms in this section are d
 
 #### (6) Early intervention
 
-&emsp;Early intervention (e.g., nonmedical) means providing appropriate services for the childwith hearing loss and ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, communication options and are given the opportunity to consider the full range of educational and program placements and options for their child.
+&emsp;Early intervention (e.g., nonmedical) means providing appropriate services for the child with hearing loss and ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, communication options and are given the opportunity to consider the full range of educational and program placements and options for their child.
 
 #### (b) Purposes
 

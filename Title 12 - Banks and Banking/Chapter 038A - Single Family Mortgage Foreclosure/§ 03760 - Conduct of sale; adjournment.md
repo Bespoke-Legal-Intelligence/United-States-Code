@@ -52,7 +52,7 @@
 
 #### (2) Adjournment to same or later day
 
-&emsp;The foreclosure commissioner may adjourn a foreclosure sale to a later hour the same day by announcing or posting the new time and place of the foreclosure sale, or may adjourn the foreclosure sale for not less than 9 and not more than 31 days, in which case the commissioner shall serve a notice of default and foreclosure sale revised to recite the fact that the foreclosure sale has been adjourned to a specified date, as well as any other information the foreclosure commissioner deems appropriate. Such notice shall be served by publication and mailing in accordance with section 3758 of this title, except that publication may be made on any of 3 separate days before the revised dateof foreclosure sale, and mailing may be made at any time not less than 7 days before the date to which the foreclosure sale has been adjourned.
+&emsp;The foreclosure commissioner may adjourn a foreclosure sale to a later hour the same day by announcing or posting the new time and place of the foreclosure sale, or may adjourn the foreclosure sale for not less than 9 and not more than 31 days, in which case the commissioner shall serve a notice of default and foreclosure sale revised to recite the fact that the foreclosure sale has been adjourned to a specified date, as well as any other information the foreclosure commissioner deems appropriate. Such notice shall be served by publication and mailing in accordance with section 3758 of this title, except that publication may be made on any of 3 separate days before the revised date of foreclosure sale, and mailing may be made at any time not less than 7 days before the date to which the foreclosure sale has been adjourned.
 
 #### (d) Cash deposits
 

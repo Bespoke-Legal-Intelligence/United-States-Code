@@ -6,7 +6,7 @@ The Oversight Board shall submit a budget for each fiscal year during which the 
 
 #### (b) Funding
 
-The Oversight Board shall use its powers with respect to the Territory Budget of the covered territory to ensure that sufficient funds are available to cover all expenses of the Oversight Board.
+The Oversight Board shall use its powers with respect to the Territory Budget of the coveredterritory to ensure that sufficient funds are available to cover all expenses of the Oversight Board.
 
 #### (1) Permanent funding
 

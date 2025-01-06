@@ -22,7 +22,7 @@
 
 &emsp;(E) Additional credit for experience as a physician or dentist, if appointed as a medical or dental officer in the Army or Navy or, in the case of the Air Force, with a view to designation as a medical or dental officer.
 
-(2) The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, or Marine Corps, captain in the Navy, or an equivalent grade in the Space Force.
+(2) The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, Marine Corps, or Space Force, or captain in the Navy.
 
 (3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
 
@@ -34,7 +34,7 @@
 
 &emsp;(3) service in grade for promotion eligibility.
 
-(d)(1) Constructive service may not be credited under subsection (b) for education, training, or experience obtained while serving as a commissioned officer (other than a warrant officer) on active duty or in an active status. However, in the case of an officer who completes advanced education or receives an advanced degree while on active duty or in an active status and in less than the number of years normally required to complete such advanced education or receive such advanced degree, constructive service may, subject to regulations prescribed under subsection (a)(2), be credited to the officer under subsection (b)(1)(A) to the extent that the number of years normally required to complete such advanced education or receive such advanced degree exceeds the actual number of years in which such advanced education or degree is obtained by the officer.
+(d)(1) Constructive service may not be credited under subsection (b) for education, training, or experience obtained while serving as a commissioned officer (other than a warrant officer) on active duty or in an active status. However, in the case of an officer who completes advanced education or receives an advanced degree while on active duty or in an active status and in less than the number of years normally required to complete such advanced education or receivesuch advanced degree, constructive service may, subject to regulations prescribed under subsection (a)(2), be credited to the officer under subsection (b)(1)(A) to the extent that the number of years normally required to complete such advanced education or receive such advanced degree exceeds the actual number of years in which such advanced education or degree is obtained by the officer.
 
 (2) A graduate of the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy is not entitled to service credit under this section for service performed, or education, training, or experience obtained, before graduation from such Academy.
 
@@ -46,11 +46,13 @@
 
 &emsp;(2) in the case of an officer not on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment as a regular officer.
 
-(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2846; amended Pub. L. 97–22, §3(c), July 10, 1981, 95 Stat. 125; Pub. L. 98–94, title X, §1007(c)(1), Sept. 24, 1983, 97 Stat. 662; Pub. L. 100–180, div. A, title VII, §714(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 103–160, div. A, title V, §509(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 113–66, div. A, title V, §502, Dec. 26, 2013, 127 Stat. 750; Pub. L. 115–91, div. A, title V, §512(b), Dec. 12, 2017, 131 Stat. 1377; Pub. L. 115–232, div. A, title V, §502(a), Aug. 13, 2018, 132 Stat. 1739; Pub. L. 116–283, div. A, title V, §502(a), title IX, §924(b)(1)(B), (4)(C), (14), Jan. 1, 2021, 134 Stat. 3563, 3820, 3822, 3823; Pub. L. 118–31, div. A, title XVII, §1716(b)(4), Dec. 22, 2023, 137 Stat. 633.)
+(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2846; amended Pub. L. 97–22, §3(c), July 10, 1981, 95 Stat. 125; Pub. L. 98–94, title X, §1007(c)(1), Sept. 24, 1983, 97 Stat. 662; Pub. L. 100–180, div. A, title VII, §714(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 103–160, div. A, title V, §509(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 113–66, div. A, title V, §502, Dec. 26, 2013, 127 Stat. 750; Pub. L. 115–91, div. A, title V, §512(b), Dec. 12, 2017, 131 Stat. 1377; Pub. L. 115–232, div. A, title V, §502(a), Aug. 13, 2018, 132 Stat. 1739; Pub. L. 116–283, div. A, title V, §502(a), title IX, §924(b)(1)(B), (4)(C), (14), Jan. 1, 2021, 134 Stat. 3563, 3820, 3822, 3823; Pub. L. 118–31, div. A, title XVII, §1716(b)(4), Dec. 22, 2023, 137 Stat. 633; Pub. L. 118–159, div. A, title V, §521(c)(2), Dec. 23, 2024, 138 Stat. 1881.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(2). Pub. L. 118–159 substituted "Marine Corps, or Space Force, or captain in the Navy" for "or Marine Corps, captain in the Navy, or an equivalent grade in the Space Force".
 
 <b>2023</b>—Subsecs. (a)(1), (b)(1), (f). Pub. L. 118–31 struck out "Regular" before "Space Force".
 
@@ -86,7 +88,7 @@ Subsec. (g). Pub. L. 113–66, §502(2), added subsec. (g).
 
 <b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–160, §509(a)(1), in second sentence, substituted "In determining" for "Except as provided in clause (E), in determining" and "advanced education required" for "postsecondary education in excess of four that are required".
 
-Subsec. (b)(1)(E), (F). Pub. L. 103–160, §509(a)(2), (3), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: "Additional credit of one year for advanced education in a health profession if the number of years of baccalaureate education completed by 75 percent or more of the students entering advanced training in that health profession exceeds, by one or more, the minimum number of years of preprofessional education required by a majority of institutions which award degrees in that health profession. The percentage of such persons shall be computed on an annual basis for each health profession from the data for the year in which the person being appointed, designated, or assigned was admitted to a professional school. However, a person may not receive additional credit under this clause if the amount of his baccalaureate education does not exceed, by one or more, the minimum number of years of preprofessional education required by a majority of institutions which award degrees for that health profession, determined on the basis prescribed in the preceding sentence."
+Subsec. (b)(1)(E), (F). Pub. L. 103–160, §509(a)(2), (3), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: "Additional credit of one year for advanced education in a health profession if the number of years of baccalaureate education completed by 75 percent or more of the students entering advanced training in that health profession exceeds, by one or more, the minimum number of years ofpreprofessional education required by a majority of institutions which award degrees in that health profession. The percentage of such persons shall be computed on an annual basis for each health profession from the data for the year in which the person being appointed, designated, or assigned was admitted to a professional school. However, a person may not receive additional credit under this clause if the amount of his baccalaureate education does not exceed, by one or more, the minimum number of years of preprofessional education required by a majority of institutions which award degrees for that health profession, determined on the basis prescribed in the preceding sentence."
 
 <b>1987</b>—Subsec. (b)(1)(B). Pub. L. 100–180 designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -114,7 +116,7 @@ Pub. L. 116–283, div. A, title V, §502(c), Jan. 1, 2021, 134 Stat. 3564, prov
 
 "(1)
 
-In general.—Not later than February 1, 2022, and every four years thereafter \[sic\], each Secretary of amilitary department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the use of the authorities in subparagraph (D) of section 553(b)(1) \[probably means section 533(b)(1)\] of title 10, United States Code (as amended by subsection (a)), and subparagraph (D) of section 12207(b)(1) of such title (as amended by subsection (b)) (each referred to in this subsection as a 'constructive credit authority') during the preceding fiscal year for the Armed Forces under the jurisdiction of such Secretary.
+In general.—Not later than February 1, 2022, and every four years thereafter \[sic\], each Secretary of a military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the use of the authorities in subparagraph (D) of section 553(b)(1) \[probably means section 533(b)(1)\] of title 10, United States Code (as amended by subsection (a)), and subparagraph (D) of section 12207(b)(1) of such title (as amended by subsection (b)) (each referred to in this subsection as a 'constructive credit authority') during the preceding fiscal year for the Armed Forces under the jurisdiction of such Secretary.
 
 "(2)
 

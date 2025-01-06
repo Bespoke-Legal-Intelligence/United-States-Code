@@ -30,7 +30,7 @@ Thirty per centum of the sums appropriated under section 1706 of this title for 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–82, §105(5), made technical amendment to reference to section 1706 of this title to reflect renumbering of corresponding section of original act.
+<b>1993</b>—Subsec. (d). Pub. L. 103–82, §105(5), made technical amendment to reference to section 1706 of thistitle to reflect renumbering of corresponding section of original act.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–408 substituted "jointly establish a program" for "jointly establish a pilot grant program".
 

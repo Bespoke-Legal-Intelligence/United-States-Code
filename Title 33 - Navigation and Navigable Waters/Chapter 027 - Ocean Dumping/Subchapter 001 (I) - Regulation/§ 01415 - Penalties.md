@@ -8,7 +8,7 @@ Any person who violates any provision of this subchapter, or of the regulations 
 
 In addition to any action that may be brought under subsection (a)—
 
-&emsp;(1) any person who knowingly violates any provision of this subchapter, any regulation promulgated under this subchapter, or a permit issued under this subchapter, shall be fined under title 18 or imprisoned for not more than 5 years, or both; and
+&emsp;(1) any person who knowingly violates any provision of this subchapter, any regulationpromulgated under this subchapter, or a permit issued under this subchapter, shall be fined under title 18 or imprisoned for not more than 5 years, or both; and
 
 &emsp;(2) any person who is convicted of such a violation pursuant to paragraph (1) shall forfeit to the United States—
 

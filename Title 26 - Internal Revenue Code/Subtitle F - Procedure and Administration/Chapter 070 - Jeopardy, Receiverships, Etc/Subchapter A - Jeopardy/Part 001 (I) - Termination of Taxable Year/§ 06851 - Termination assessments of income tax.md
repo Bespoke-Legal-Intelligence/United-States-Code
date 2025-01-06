@@ -8,7 +8,7 @@
 
 #### (2) Computation of tax
 
-&emsp;In the case of a current taxable year, the Secretary shall determine the tax for the period beginning on the first day of such current taxable year and ending on the date of the determination under paragraph (1) as though such period were a taxable year of the taxpayer, and shall take into account any priordetermination made under this subsection with respect to such current taxable year.
+&emsp;In the case of a current taxable year, the Secretary shall determine the tax for the period beginning on the first day of such current taxable year and ending on the date of the determination under paragraph (1) as though such period were a taxable year of the taxpayer, and shall take into account any prior determination made under this subsection with respect to such current taxable year.
 
 #### (3) Treatment of amounts collected
 

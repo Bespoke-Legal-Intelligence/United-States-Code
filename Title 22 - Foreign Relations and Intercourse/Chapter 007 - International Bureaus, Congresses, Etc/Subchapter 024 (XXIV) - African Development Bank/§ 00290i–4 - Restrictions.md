@@ -4,7 +4,7 @@
 
 &emsp;(1) subscribe to additional shares of stock of the Bank;
 
-&emsp;(2) vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which changes the purpose or functions of the Bank; or
+&emsp;(2) vote for or agree to any amendment of the agreement which increases the obligationsof the United States, or which changes the purpose or functions of the Bank; or
 
 &emsp;(3) make a loan or provide other financing to the Bank, except that funds for technical assistance may be provided to the Bank by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 

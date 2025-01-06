@@ -2,13 +2,13 @@
 
 (a) The Secretary of Defense shall submit to Congress each year, not later than five days after the date on which the President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
 
-(b)(1) The Secretary of Defense shall ensure that amounts described in subparagraph (A) ofparagraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
+(b)(1) The Secretary of Defense shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
 
 (2) Amounts referred to in paragraph (1) are the following:
 
 &emsp;(A) The amounts specified in program and budget information submitted to Congress by the Secretary in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years defense program submitted pursuant to subsection (a).
 
-&emsp;(B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included pursuant to paragraph (5) of section 1105(a) of title 31 in the budget submitted to Congress under that section for any fiscal year.
+&emsp;(B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense includedpursuant to paragraph (5) of section 1105(a) of title 31 in the budget submitted to Congress under that section for any fiscal year.
 
 (c) Nothing in this section shall be construed to prohibit the inclusion in the future-years defense program of amounts for management contingencies, subject to the requirements of subsection (b).
 
@@ -55,6 +55,36 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiy
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title X, §1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018."
+
+#### Cost Budgeting for Artificial Intelligence Data
+
+Pub. L. 118–159, div. A, title XV, §1533, Dec. 23, 2024, 138 Stat. 2145, provided that:
+
+"(a)
+
+Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering, shall develop a plan to ensure that the budgeting process for programs containing artificial intelligence components or subcomponents, including artificial intelligence support systems, models, or analysis tools, includes estimates for the types of data required to train, maintain, or improve the artificial intelligence components or subcomponents contained within such programs and estimated costs for the acquisition and sustainment of such data.
+
+"(b)
+
+Elements of Plan.—The plan required under subsection (a) shall include the following:
+
+&emsp;"(1) An assessment of the current programs of the Department of Defense containing artificial intelligence components or subcomponents, such as large language models, including the sources and costs for structured and unstructured training data for such artificial intelligence components.
+
+&emsp;"(2) An estimate of the costs associated with the data required to train, maintain, or improve artificial intelligence models or systems for programs that are ongoing or proposed as of enactment of this Act and which are not otherwise currently accounted for in a program of record.
+
+&emsp;"(3) An estimate of the costs associated with providing access to capabilities for data preparation, including tooling, indexing, and data tagging or labeling, including for the protection of data provided by the Government from unauthorized use during the algorithm training process and the ongoing control by the Government of such data during such process.
+
+&emsp;"(4) Mapping of the acquisition lifecycle for the programs described in paragraph (1) to align budgeting milestones with critical design or decision points in the budgeting and execution processes of the Department of Defense.
+
+&emsp;"(5) A framework for estimating the costs described in paragraph (2) and ensuring the costs associated with the data required to train, maintain, or improve artificial intelligence models or systems are appropriately incorporated into lifecycle sustainment estimates for future programs containing artificial intelligence components or subcomponents.
+
+"(c)
+
+Implementation.—The Secretary of Defense shall begin implementing the plan required by subsection (a) not later than 90 days after the date on which development of the plan required by subsection (a) is completed.
+
+"(d)
+
+Briefings.—Not later than 180 days after the date of the enactment of this Act, and not less frequently than once annually thereafter until 2027, the Secretary shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the implementation of the plan developed pursuant to subsection (a)."
 
 #### Budget Display for Cryptographic Modernization Activities for Certain Systems of the Department of Defense
 
@@ -292,7 +322,7 @@ Pub. L. 116–92, div. A, title III, §328, Dec. 20, 2019, 133 Stat. 1311, as am
 
 In General.—The Secretary of Defense shall include in the annual budget submission of the President under section 1105(a) of title 31, United States Code—
 
-&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, andother assets and capabilities of the Department of Defense;
+&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, and other assets and capabilities of the Department of Defense;
 
 &emsp;"(2) an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result \[of\] extreme weather events; and
 
@@ -362,7 +392,7 @@ End of Fiscal Year Report.—Not later than November 30, 2020, and annually ther
 
 &emsp;"(1) a detailed summary of funds obligated for the European Deterrence Initiative for the preceding fiscal year; and
 
-&emsp;"(2) a detailed comparison of funds obligated for the European Deterrence Initiative for the preceding fiscal year to amounts requested for the Initiative for that fiscal year in the materials submitted to Congress by the Secretary in support of the budget of the President for that fiscal year as required by subsection (c), including with respect to each of the accounts described in paragraphs (1), (2), (3), (4), and (5) of subsection (b) and the information required under each such paragraph.
+&emsp;"(2) a detailed comparison of funds obligated for the European Deterrence Initiative for the preceding fiscal year to amounts requested for the Initiative for that fiscal year in the materials submitted to Congress by the Secretary in support of the budget of the President for that fiscal year as required by subsection (c), including with respect to each of the accounts described in paragraphs (1), (2), (3), (4), and (5)of subsection (b) and the information required under each such paragraph.
 
 "(d)
 
@@ -378,7 +408,7 @@ Pub. L. 115–232, div. A, title X, §1018, Aug. 13, 2018, 132 Stat. 1951, provi
 
 #### Budget Display for Cyber Vulnerability Evaluations and Mitigation Activities for Major Weapon Systems of the Department of Defense
 
-Pub. L. 115–232, div. A, title XVI, §1637, Aug. 13, 2018, 132 Stat. 2127, which provided that, beginning in fiscalyear 2021 and in each fiscal year thereafter, the Secretary of Defense was to submit to Congress, as a part of the documentation that supported the President's annual budget for the Department of Defense, a consolidated Cyber Vulnerability Evaluation and Mitigation budget justification display for each major weapons system of the Department of Defense, was repealed by Pub. L. 118–31, div. A, title XV, §1502(a)(2)(D), Dec. 22, 2023, 137 Stat. 537.
+Pub. L. 115–232, div. A, title XVI, §1637, Aug. 13, 2018, 132 Stat. 2127, which provided that, beginning in fiscal year 2021 and in each fiscal year thereafter, the Secretary of Defense was to submit to Congress, as a part of the documentation that supported the President's annual budget for the Department of Defense, a consolidated Cyber Vulnerability Evaluation and Mitigation budget justification display for each major weapons system of the Department of Defense, was repealed by Pub. L. 118–31, div. A, title XV, §1502(a)(2)(D), Dec. 22, 2023, 137 Stat. 537.
 
 #### Budget Exhibit on Support Provided to Executive Office of the President
 
@@ -516,7 +546,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-&emsp;"(2) The term 'defense budget materials' has the meaning given that term in section 231(f) of title 10, United States Code.
+&emsp;"(2) The term 'defense budget materials' has the meaning given that term in section 231(f) of title 10, United States Code \[now 10 U.S.C. 231(h)\].
 
 &emsp;"(3) The term 'Defense intelligence element' means any of the agencies, offices, and elements of the Department of Defense included within the definition of 'intelligence community' under section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))."
 
@@ -530,7 +560,7 @@ Pub. L. 113–291, div. A, title X, §1003, Dec. 19, 2014, 128 Stat. 3482, provi
 
 &emsp;"(3) The total dollar amount, by account, of any balances (both obligated and unobligated) that have been carried forward by the Department of Defense for five years or more as of the end of the fiscal year preceding the fiscal year during which such information is submitted."
 
-\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1003 of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1003 of Pub. L. 113–291, setout above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 #### Budget Documentation Requirement
 
@@ -558,7 +588,7 @@ Elements.—The analysis required under paragraph (1) shall include the followin
 
 &emsp;&emsp;"(A) Revalidation of the distributed common ground system program requirements based on current program needs, recent operational experience, and the requirement for nonproprietary solutions that adhere to open-architecture principles.
 
-&emsp;&emsp;"(B) Market research of current commercially available tools to determine whether any such toolscould potentially satisfy the requirements described in subparagraph (A).
+&emsp;&emsp;"(B) Market research of current commercially available tools to determine whether any such tools could potentially satisfy the requirements described in subparagraph (A).
 
 &emsp;&emsp;"(C) Analysis of the competitive acquisition options for any tools identified in subparagraph (B).
 
@@ -660,7 +690,7 @@ Pub. L. 111–84, div. A, title II, §217, Oct. 28, 2009, 123 Stat. 2228, provid
 
 #### Guidance on Budget Justification Materials Describing Funding Requested for Operation, Sustainment, Modernization, and Personnel of Major Ranges and Test Facilities
 
-Pub. L. 111–84, div. A, title II, §220, Oct. 28, 2009, 123 Stat. 2229, as amended by Pub. L. 116–283, div. A, title XVIII, §1845(c)(6), Jan. 1, 2021, 134 Stat. 4247, provided that:
+Pub. L. 111–84, div. A, title II, §220, Oct. 28, 2009, 123 Stat. 2229, as amended by Pub. L. 116–283, div. A, title XVIII, §1845(c)(6), Jan. 1, 2021, 134 Stat. 4247; Pub. L. 118–159, div. B, title XXVIII, §2871(c)(2), Dec. 23, 2024, 138 Stat. 2281, provided that:
 
 "(a)
 
@@ -682,7 +712,7 @@ Applicability.—The guidance issued under subsection (a) shall apply with respe
 
 "(c)
 
-Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in sections \[sic\] 4173(i) of title 10, United States Code."
+Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in section 4173 of title 10, United States Code."
 
 #### Military Munitions Response Program and Installation Restoration Program
 
@@ -824,7 +854,7 @@ Display in budget justification materials.—As part of the budget justification
 
 #### Annual Submission of Information Regarding Information Technology Capital Assets
 
-Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, §333, Dec. 26, 2013, 127 Stat. 739, which related to annual submission of information regarding information technology capital assets, was repealed byPub. L. 114–92, div. A, title X, §1079(h), Nov. 25, 2015, 129 Stat. 1000.
+Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, §333, Dec. 26, 2013, 127 Stat. 739, which related to annual submission of information regarding information technology capital assets, was repealed by Pub. L. 114–92, div. A, title X, §1079(h), Nov. 25, 2015, 129 Stat. 1000.
 
 #### Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
 
@@ -916,7 +946,7 @@ Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provi
 
 #### Identification in President's Budget of NATO Costs
 
-Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President forfiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
+Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -926,7 +956,7 @@ Pub. L. 105–56, title VIII, §8116, Oct. 8, 1997, 111 Stat. 1245.
 
 #### Program Elements for Ballistic Missile Defense Organization
 
-Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which required that in budget justification materials submitted to Congress in support of Department of Defense budget, the amount requested for activities of the Ballistic Missile Defense Organization be set forth in accordance with specified program elements, was repealed and restated as section 223 of this title by Pub. L. 105–261, div. A, title II, §235(a)(1), (b), Oct. 17, 1998, 112 Stat. 1953.
+Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which required that in budget justification materials submitted to Congress in support of Department of Defense budget, the amount requested for activities of the Ballistic Missile Defense Organization be set forth in accordance with specified program elements, was repealed and restated as former section 223 of this title by Pub. L. 105–261, div. A, title II, §235(a)(1), (b), Oct. 17, 1998, 112 Stat. 1953.
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A Farm Credit System bank or association shall provide to a stockholder of the bank orassociation a current list of stockholders of the bank or association not later than 7 calendar days after the date on which the bank or association receives a written request for the stockholder list from the stockholder.
+&emsp;A Farm Credit System bank or association shall provide to a stockholder of the bank or association a current list of stockholders of the bank or association not later than 7 calendar days after the date on which the bank or association receives a written request for the stockholder list from the stockholder.
 
 #### (2) Conditions
 
@@ -22,7 +22,7 @@
 
 #### (2) When permissible
 
-&emsp;Alternative communications may be used, at the discretion of the requesting stockholder, if the requester agrees to defray the reasonable costs of the communication. If the requester decides to exercise this option, the institution shall provide the requester with a written estimate of the costs of handling and mailing the communication as soon as is practicable after receipt of the stockholder's request to furnish the communication.
+&emsp;Alternative communications may be used, at the discretion of the requesting stockholder, if the requester agrees to defray the reasonable costs of the communication. If the requesterdecides to exercise this option, the institution shall provide the requester with a written estimate of the costs of handling and mailing the communication as soon as is practicable after receipt of the stockholder's request to furnish the communication.
 
 (Pub. L. 92–181, title IV, §4.12A, as added Pub. L. 100–233, title IV, §420, Jan. 6, 1988, 101 Stat. 1653; amended Pub. L. 115–334, title V, §5411(21), Dec. 20, 2018, 132 Stat. 4681.)
 

@@ -124,7 +124,7 @@ A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June
 
 #### Legislative Waiver of Loan Limitations
 
-Pub. L. 116–136, div. B, title III, Mar. 27, 2020, 134 Stat. 520, provided in part: "That for the two-year period beginning with the date of enactment of this Act \[Mar. 27, 2020\], the requirements described in Section \[sic\] 301(a)(3)(A) and 302(c)(1) of Public Law 81–774 \[50 U.S.C. 4531(a)(3)(A), 4532(c)(1)\], shall be waived".
+Pub. L. 116–136, div. B, title III, Mar. 27, 2020, 134 Stat. 520, provided in part: "That for the two-year period beginning with the date of enactment of this Act \[Mar. 27, 2020\], the requirements described in Section \[sic\]301(a)(3)(A) and 302(c)(1) of Public Law 81–774 \[50 U.S.C. 4531(a)(3)(A), 4532(c)(1)\], shall be waived".
 
 #### Limitation on Cancellation of Designation of Secretary of the Air Force as Department of Defense Executive Agent
 

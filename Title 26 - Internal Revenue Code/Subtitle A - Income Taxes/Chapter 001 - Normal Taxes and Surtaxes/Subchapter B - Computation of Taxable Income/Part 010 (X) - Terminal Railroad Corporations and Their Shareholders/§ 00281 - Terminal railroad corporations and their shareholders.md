@@ -20,7 +20,7 @@
 
 #### (b) Computation of taxable income of shareholders
 
-Subject to the limitation in subsection (a)(2), in computing the taxable income of any shareholder of a terminal railroad corporation, no amount shall be considered to have been received or accrued or paid or incurred by such shareholder as a result of any discharge of liability described in subsection (a)(1)(A)(i) or as a result of any computation of charges in the manner described in subsection (a)(1)(A)(ii).
+Subject to the limitation in subsection (a)(2), in computing the taxable income of any shareholder of a terminal railroad corporation, noamount shall be considered to have been received or accrued or paid or incurred by such shareholder as a result of any discharge of liability described in subsection (a)(1)(A)(i) or as a result of any computation of charges in the manner described in subsection (a)(1)(A)(ii).
 
 #### (c) Agreement required
 
@@ -70,7 +70,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsecs. (a)(2), (d)(2), refers to the date of enactment of Pub. L. 87–870, which was approved Oct. 23, 1962.
+The date of the enactment of this section, referred to in subsecs. (a)(2) and (d)(2), refers to the date of enactment of Pub. L. 87–870, which was approved Oct. 23, 1962.
 
 #### Amendments
 

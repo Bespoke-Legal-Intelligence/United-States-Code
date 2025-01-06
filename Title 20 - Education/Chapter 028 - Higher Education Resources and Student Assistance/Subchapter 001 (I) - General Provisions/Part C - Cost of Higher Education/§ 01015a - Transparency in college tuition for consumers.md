@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Cost of attendance
 
-&emsp;The term "cost of attendance" means the average annual cost of tuition and fees, room and board, books, supplies, and transportation for an institution of higher education for a first-time, full-time undergraduate student enrolled in the institution.
+&emsp;The term "cost of attendance" means the average annual cost of tuition and fees, room and board, books, supplies, and transportation for an institution of higher education for afirst-time, full-time undergraduate student enrolled in the institution.
 
 #### (3) Net price
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (b) Calculations for public institutions
 
-In making the calculations regarding cost of attendance, net price, and tuition and fees underthis section with respect to a public institution of higher education, the Secretary shall calculate the cost of attendance, net price, and tuition and fees at such institution in the manner described in subsection (a), except that—
+In making the calculations regarding cost of attendance, net price, and tuition and fees under this section with respect to a public institution of higher education, the Secretary shall calculate the cost of attendance, net price, and tuition and fees at such institution in the manner described in subsection (a), except that—
 
 &emsp;(1) the cost of attendance, net price, and tuition and fees shall be calculated for first-time, full-time undergraduate students enrolled in the institution who are residents of the State in which such institution is located; and
 
@@ -92,7 +92,7 @@ The lists described in subsection (c)(1) shall be compiled according to the foll
 
 &emsp;&emsp;(C) A description of the steps the institution will take toward the goal of reducing costs in the areas described in subparagraph (A).
 
-&emsp;&emsp;(D) In the case of an institution that is included on the same list under subparagraph (C) or (D) of subsection (c)(1) for two or more consecutive years, a description of the progress made on the steps described in subparagraph (C) of this paragraph that were included in the institution's report for the previous year.
+&emsp;&emsp;(D) In the case of an institution that is included on the same list under subparagraph (C) or (D) of subsection (c)(1) for two or more consecutive years, a description of theprogress made on the steps described in subparagraph (C) of this paragraph that were included in the institution's report for the previous year.
 
 &emsp;&emsp;(E) If the determination of any cost increase described in subparagraph (A) is not within the exclusive control of the institution—
 
@@ -114,7 +114,7 @@ The lists described in subsection (c)(1) shall be compiled according to the foll
 
 #### (1) In general
 
-&emsp;An institution shall not be placed on a list described in subparagraph (C) or (D) of subsection (c)(1), and shall not be subject to the reporting required under subsection (e), if the dollar amount of the institution's increase intuition and fees, or net price, as applicable, is less than $600 for the three-year period described in such subparagraph.
+&emsp;An institution shall not be placed on a list described in subparagraph (C) or (D) of subsection (c)(1), and shall not be subject to the reporting required under subsection (e), if the dollar amount of the institution's increase in tuition and fees, or net price, as applicable, is less than $600 for the three-year period described in such subparagraph.
 
 #### (2) Update
 
@@ -168,7 +168,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (1) Availability of subchapter IV institution information
 
-&emsp;Not later than one year after August 14, 2008, the Secretary shall make publicly available on the College Navigator website, in simple and understandable terms, the following information about each institution of higher education that participates in programs under subchapter IV, for the most recent academic year for which satisfactory data are available:
+&emsp;Not later than one year after August 14, 2008, the Secretary shall make publicly available onthe College Navigator website, in simple and understandable terms, the following information about each institution of higher education that participates in programs under subchapter IV, for the most recent academic year for which satisfactory data are available:
 
 &emsp;&emsp;(A) A statement of the institution's mission.
 
@@ -266,7 +266,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) Availability of list of participating institutions
 
-&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in asortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV, which list shall, for each institution, include the following:
+&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in a sortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV, which list shall, for each institution, include the following:
 
 &emsp;&emsp;&emsp;(i) The tuition and fees for each of the three most recent academic years for which data are available.
 
@@ -326,7 +326,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(C) calculate an estimate of the total amount of tuition and fees to complete a program of study at such institution, based on the normal duration of such program, using the estimate calculated under subparagraph (B) for each year of the program of study;
 
-&emsp;&emsp;(D) provide the individual with the option to replace the estimated annual percentage change described in subparagraph (B)(ii) with an alternative annual percentage change specified by the individual, and calculate an estimate of tuition and fees for each year and an estimate of the total amount of tuition and fees using the alternative percentage change;
+&emsp;&emsp;(D) provide the individual with the option to replace the estimated annual percentage change described in subparagraph (B)(ii) with an alternative annual percentagechange specified by the individual, and calculate an estimate of tuition and fees for each year and an estimate of the total amount of tuition and fees using the alternative percentage change;
 
 &emsp;&emsp;(E) in the case of an institution that offers a multi-year tuition guarantee program, allow the individual to have the estimates of tuition and fees described in subparagraphs (B) and (C) calculated based on the provisions of such guarantee program for the tuition and fees charged to a student, or cohort of students, enrolled for the duration of the program of study; and
 

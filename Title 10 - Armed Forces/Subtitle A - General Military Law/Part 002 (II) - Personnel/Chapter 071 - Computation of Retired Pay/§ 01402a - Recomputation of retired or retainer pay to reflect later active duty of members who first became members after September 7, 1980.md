@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 99–348, §201(b)(2)(D), inserted heading.
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–94, §922(a)(5), substituted "according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1." for "as follows:".
 
-Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted "Before applying percentage factor, crediteach full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
+Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted "Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
 
 Subsec. (d). Pub. L. 98–94, §922(a)(6), substituted "according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1." for "as follows:".
 
@@ -106,7 +106,7 @@ Subsecs. (a) to (c). Pub. L. 96–513, §511(51)(A), substituted "after Septembe
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2011 Amendment
 

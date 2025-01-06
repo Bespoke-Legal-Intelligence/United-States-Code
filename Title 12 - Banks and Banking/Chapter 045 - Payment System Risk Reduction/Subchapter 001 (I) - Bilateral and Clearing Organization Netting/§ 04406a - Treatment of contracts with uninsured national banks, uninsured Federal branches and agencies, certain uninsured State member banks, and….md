@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(e)\] shall apply to an uninsured national bank or uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, except that for such purpose—
+Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(e)\] shall apply to an uninsured nationalbank or uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, except that for such purpose—
 
 &emsp;(1) any reference to the "Corporation as receiver" or "the receiver or the Corporation" shall refer to the receiver appointed by the Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency, or to the receiver appointed by the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] or an uninsured State member bank;
 

@@ -46,11 +46,11 @@ Pub. L. 102–484, div. A, title XIII, §1312(c), Oct. 23, 1992, 106 Stat. 2548,
 
 #### Short Title
 
-Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: "That this Act \[enacting this chapter\] may be cited asthe 'North Atlantic Treaty Organization Mutual Support Act of 1979'."
+Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: "That this Act \[enacting this chapter\] may be cited as the 'North Atlantic Treaty Organization Mutual Support Act of 1979'."
 
 #### Demonstration and Prototyping Program To Advance International Product Support Capabilities in a Contested Logistics Environment
 
-Pub. L. 118–31, div. A, title VIII, §842, Dec. 22, 2023, 137 Stat. 340, provided that:
+Pub. L. 118–31, div. A, title VIII, §842, Dec. 22, 2023, 137 Stat. 340, as amended by Pub. L. 118–159, div. A, title VIII, §821, Dec. 23, 2024, 138 Stat. 1983, provided that:
 
 "(a)
 
@@ -88,7 +88,7 @@ Elements.—In carrying out the Program, the Secretary shall do the following:
 
 "(c)
 
-Advance Planning and Preparation.—The Secretary may establish a product support arrangement, including an agreement for prepositioning or storage of materials, with a covered product support provider to enable a rapid response in a contingency operation (as defined in section 101(a) of title 10, United States Code) to the product support requirements of such contingency operation.
+Advance Planning and Preparation.—The Secretary may establish a product support arrangement, including an agreement for prepositioning or storage of materials, with a covered product support provider toenable a rapid response in a contingency operation (as defined in section 101(a) of title 10, United States Code) to the product support requirements of such contingency operation.
 
 "(d)
 
@@ -130,11 +130,15 @@ Covered nations.—The term 'covered nation' means—
 
 &emsp;&emsp;"(B) Canada;
 
-&emsp;&emsp;"(C) New Zealand;
+&emsp;&emsp;"(C) Japan;
 
-&emsp;&emsp;"(D) the United Kingdom of Great Britain and Northern Ireland; or
+&emsp;&emsp;"(D) New Zealand;
 
-&emsp;&emsp;"(E) other nations as designated as a covered nation for the purposes of this Program by the Secretary.
+&emsp;&emsp;"(E) the Republic of Korea;
+
+&emsp;&emsp;"(F) the United Kingdom of Great Britain and Northern Ireland; or
+
+&emsp;&emsp;"(G) other nations as designated as a covered nation for the purposes of this Program by the Secretary.
 
 &emsp;"(3)
 

@@ -8,7 +8,7 @@ A State that receives a grant under section 10406(a) of this title shall use gra
 
 #### (1) In general
 
-&emsp;Funds awarded to eligible entities under subsection (a) shall be used to provide shelter,supportive services, or prevention services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, which may include—
+&emsp;Funds awarded to eligible entities under subsection (a) shall be used to provide shelter, supportive services, or prevention services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, which may include—
 
 &emsp;&emsp;(A) provision, on a regular basis, of immediate shelter and related supportive services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, including paying for the operating and administrative expenses of the facilities for such shelter;
 
@@ -22,7 +22,7 @@ A State that receives a grant under section 10406(a) of this title shall use gra
 
 &emsp;&emsp;(F) provision of services for children exposed to family violence, domestic violence, or dating violence, including age-appropriate counseling, supportive services, and services for the nonabusing parent that support that parent's role as a caregiver, which may, as appropriate, include services that work with the nonabusing parent and child together;
 
-&emsp;&emsp;(G) provision of advocacy, case management services, and information and referral services, concerning issues related to family violence, domestic violence, or dating violence intervention and prevention, including—
+&emsp;&emsp;(G) provision of advocacy, case management services, and information and referralservices, concerning issues related to family violence, domestic violence, or dating violence intervention and prevention, including—
 
 &emsp;&emsp;&emsp;(i) assistance in accessing related Federal and State financial assistance programs;
 

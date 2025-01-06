@@ -28,7 +28,7 @@ Responsibilities of Chair.—Except as provided in subsection (h), the chair of 
 
 &emsp;(8) To provide assistance and advice to the Under Secretary of Defense for Acquisition and Sustainment and the Deputy Director of Land Warfare and Munitions in munitions acquisition oversight and technology advancement for Department of Defense military munitions, especially in the areas of explosives and chemical agent safety and demilitarization.
 
-&emsp;(9) To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives andchemical agent safety, storage, transportation, and demilitarization.
+&emsp;(9) To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives and chemical agent safety, storage, transportation, and demilitarization.
 
 &emsp;(10) To develop and recommend issuances to define the functions of the explosive safety board.
 
@@ -136,7 +136,7 @@ Pub. L. 115–91, §341(a)(1)–(8), designated existing provisions as subsec. (
 
 Subsec. (b). Pub. L. 115–91, §341(a)(9), added subsec. (b).
 
-<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before "The Secretaries" and struck out subsec.\(b) which read as follows: "The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress."
+<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before "The Secretaries" and struck out subsec. (b) which read as follows: "The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both" for "a joint board of officers selected by them".
 

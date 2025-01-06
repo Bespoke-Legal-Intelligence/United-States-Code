@@ -1,12 +1,14 @@
 ### §2241. Authorization of appropriations
 
-Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2022.<sup>1</sup>
+Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 <sup>1</sup> in total for the period of fiscal years 2006 through 2028.
 
-(Pub. L. 102–250, title III, §301, Mar. 5, 1992, 106 Stat. 58; Pub. L. 104–206, title II, Sept. 30, 1996, 110 Stat. 2992; Pub. L. 106–60, title II, Sept. 29, 1999, 113 Stat. 488; Pub. L. 106–377, §1(a)(2) \[title II\], Oct. 27, 2000, 114 Stat. 1441, 1441A–67; Pub. L. 107–66, title II, Nov. 12, 2001, 115 Stat. 498; Pub. L. 108–7, div. D, title II, Feb. 20, 2003, 117 Stat. 144; Pub. L. 108–137, title II, Dec. 1, 2003, 117 Stat. 1847; Pub. L. 109–234, title II, §2306(b), June 15, 2006, 120 Stat. 457; Pub. L. 111–212, title I, §404(b), July 29, 2010, 124 Stat. 2314; Pub. L. 113–235, div. D, title II, §204, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 115–141, div. D, title II, §203(b), Mar. 23, 2018, 132 Stat. 519; Pub. L. 116–260, div. D, title II, §207(b), Dec. 27, 2020, 134 Stat. 1363; Pub. L. 117–103, div. D, title II, §206(b), Mar. 15, 2022, 136 Stat. 221.)
+(Pub. L. 102–250, title III, §301, Mar. 5, 1992, 106 Stat. 58; Pub. L. 104–206, title II, Sept. 30, 1996,110 Stat. 2992; Pub. L. 106–60, title II, Sept. 29, 1999, 113 Stat. 488; Pub. L. 106–377, §1(a)(2) \[title II\], Oct. 27, 2000, 114 Stat. 1441, 1441A–67; Pub. L. 107–66, title II, Nov. 12, 2001, 115 Stat. 498; Pub. L. 108–7, div. D, title II, Feb. 20, 2003, 117 Stat. 144; Pub. L. 108–137, title II, Dec. 1, 2003, 117 Stat. 1847; Pub. L. 109–234, title II, §2306(b), June 15, 2006, 120 Stat. 457; Pub. L. 111–212, title I, §404(b), July 29, 2010, 124 Stat. 2314; Pub. L. 113–235, div. D, title II, §204, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 115–141, div. D, title II, §203(b), Mar. 23, 2018, 132 Stat. 519; Pub. L. 116–260, div. D, title II, §207(b), Dec. 27, 2020, 134 Stat. 1363; Pub. L. 117–103, div. D, title II, §206(b), Mar. 15, 2022, 136 Stat. 221; Pub. L. 118–170, §2(b), Dec. 23, 2024, 138 Stat. 2589.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–170 substituted "2028" for "2022".
 
 <b>2022</b>—Pub. L. 117–103 substituted "2022" for "2021".
 
@@ -36,7 +38,11 @@ Pub. L. 108–7 substituted "2002, and 2003" for "and 2002".
 
 #### Extension of Authorization of Appropriations
 
-Pub. L. 117–328, div. D, title II, §206(b), Dec. 29, 2022, 136 Stat. 4631, provided that: "Section 301 of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2241) shall be applied by substituting '2023' for '2022' and by substituting '$130,000,000' for '$120,000,000'."
+Pub. L. 118–42, div. D, title II, §206(b), Mar. 9, 2024, 138 Stat. 194, provided that: "Section 301 of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2241) shall be applied by substituting '2024' for '2022' and by substituting '$130,000,000' for '$120,000,000'."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. D, title II, §206(b), Dec. 29, 2022, 136 Stat. 4631.
 
 <i><sup>1</sup></i><i> See Extension of Authorization of Appropriations note below.</i>
 

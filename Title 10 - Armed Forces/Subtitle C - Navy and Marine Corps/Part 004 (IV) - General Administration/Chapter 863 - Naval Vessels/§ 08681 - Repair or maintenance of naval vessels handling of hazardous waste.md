@@ -6,7 +6,7 @@ Contractual Provisions.—The Secretary of the Navy shall ensure that each contr
 
 &emsp;(1)
 
-Identification of hazardous wastes.—A provision in which the Navy identifies thetypes and amounts of hazardous wastes that are required to be removed by the contractor from the vessel, or that are expected to be generated, during the performance of work under the contract, with such identification by the Navy to be in a form sufficient to enable the contractor to comply with Federal and State laws and regulations on the removal, handling, storage, transportation, or disposal of hazardous waste.
+Identification of hazardous wastes.—A provision in which the Navy identifies the types and amounts of hazardous wastes that are required to be removed by the contractor from the vessel, or that are expected to be generated, during the performance of work under the contract, with such identification by the Navy to be in a form sufficient to enable the contractor to comply with Federal and State laws and regulations on the removal, handling, storage, transportation, or disposal of hazardous waste.
 
 &emsp;(2)
 
@@ -56,7 +56,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is titl
 
 A prior section 8681 was renumbered section 9251 of this title.
 
-Another prior section 8681, act Aug. 10, 1956, ch. 1041, 70A Stat. 534, prescribed service to be listed in official Air Force Register, prior to repeal by Pub. L. 85–861, §36B(28), Sept. 2, 1958, 72 Stat. 1571.
+Another prior section 8681, act Aug. 10, 1956, ch. 1041, 70A Stat. 534, prescribed service to be listed in officialAir Force Register, prior to repeal by Pub. L. 85–861, §36B(28), Sept. 2, 1958, 72 Stat. 1571.
 
 #### Amendments
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title XVI, §1611(b), Nov. 29, 1989, 103 Stat. 1601, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any contract for work on a navalvessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\]."
+Pub. L. 101–189, div. A, title XVI, §1611(b), Nov. 29, 1989, 103 Stat. 1601, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\]."
 

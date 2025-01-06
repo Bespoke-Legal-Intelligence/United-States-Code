@@ -32,7 +32,7 @@ Certification Interrupted by Contingency Operation.—(1) Notwithstanding subsec
 
 (2) The Secretary concerned may treat the date on which the member was assigned to duty in connection with the contingency operation as equivalent to a certification date. In the case of a member whose certification will expire during such a duty assignment, the Secretary shall commence the next one-year certification period on the date on which the prior certification period expires.
 
-(3) A member who is paid a bonus under the authority of this subsection shall complete the certification required by subsection (c) for the foreign language for which the bonus was paidnot later than the end of the 180-day period beginning on the date on which the member is released from the assignment in connection with the contingency operation. The Secretary concerned may extend that period for a member in accordance with regulations prescribed under subsection (f).
+(3) A member who is paid a bonus under the authority of this subsection shall complete the certification required by subsection (c) for the foreign language for which the bonus was paid not later than the end of the 180-day period beginning on the date on which the member is released from the assignment in connection with the contingency operation. The Secretary concerned may extend that period for a member in accordance with regulations prescribed under subsection (f).
 
 (4) If a member fails to obtain the required certification under subsection (c) before the end of the period provided under paragraph (3), the Secretary concerned may require the member to repay all or a portion of the bonus in the manner provided in section 303a(e) of this title.
 
@@ -94,7 +94,7 @@ Subsec. (g). Pub. L. 109–163, §639(b)(1), struck out heading and text of subs
 
 "(1) The Secretary concerned may require a member who receives a bonus under this section, but who does not satisfy an eligibility requirement specified in paragraph (1), (2), (3), or (4) of subsection (a) for the entire certification period, to repay to the United States an amount which bears the same ratio to the total amount of the bonus paid to the member as the unsatisfied portion of the certification period bears to the entire certification period.
 
-"(2) An obligation to repay the United States imposed under paragraph (1) or subsection (f)(4) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered for the member less than five years after the expiration of the certification period does not discharge the memberfrom a debt arising under this paragraph. This paragraph applies to any case commenced under title 11 after the date of the enactment of this section."
+"(2) An obligation to repay the United States imposed under paragraph (1) or subsection (f)(4) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered for the member less than five years after the expiration of the certification period does not discharge the member from a debt arising under this paragraph. This paragraph applies to any case commenced under title 11 after the date of the enactment of this section."
 
 Subsec. (h). Pub. L. 109–163, §639(b)(2), redesignated subsec. (h) as (f).
 

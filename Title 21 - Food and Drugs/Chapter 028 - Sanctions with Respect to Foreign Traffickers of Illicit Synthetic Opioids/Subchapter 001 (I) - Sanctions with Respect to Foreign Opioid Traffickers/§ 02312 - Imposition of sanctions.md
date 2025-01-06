@@ -1,6 +1,6 @@
 ### §2312. Imposition of sanctions
 
-The President shall impose five or more of the sanctions described in section 2313 of this title with respect to each foreign person that is anentity, and four or more of such sanctions with respect to each foreign person that is an individual, that—
+The President shall impose five or more of the sanctions described in section 2313 of this titlewith respect to each foreign person that is an entity, and four or more of such sanctions with respect to each foreign person that is an individual, that—
 
 &emsp;(1) is identified as a foreign opioid trafficker in a report submitted under section 2311(a) of this title; or
 

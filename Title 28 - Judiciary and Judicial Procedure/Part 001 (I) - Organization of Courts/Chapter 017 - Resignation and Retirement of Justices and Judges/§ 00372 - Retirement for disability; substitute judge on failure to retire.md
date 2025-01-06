@@ -24,7 +24,7 @@ Based on title 28, U.S.C., 1940 ed., §§375b, 375c, and 375d (Aug. 5, 1939, ch.
 
 This section consolidates sections 375b, 375c, and 375d of title 28, U.S.C., 1940 ed.
 
-Section 375e of title 28, U.S.C., 1940 ed. providing that term "senior circuit judge" includes the Chief Justice of the United States Court of Appeals for the District of Columbia, and the term "judicial circuit" includesthe District of Columbia, was omitted from this revision as unnecessary. Such district is included as a judicial circuit by section 41 of this title.
+Section 375e of title 28, U.S.C., 1940 ed. providing that term "senior circuit judge" includes the Chief Justice of the United States Court of Appeals for the District of Columbia, and the term "judicial circuit" includes the District of Columbia, was omitted from this revision as unnecessary. Such district is included as a judicial circuit by section 41 of this title.
 
 Words "justice or judge of the United States" were used to describe members of all courts who hold office during good behavior. (See reviser's note under section 371 of this title.)
 
@@ -62,7 +62,7 @@ Subsec. (c)(7)(B). Pub. L. 101–650, §402(i)(1), substituted "may have engaged
 
 Subsec. (c)(8). Pub. L. 101–650, §402(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 101–650, §402(c)(1), inserted at end "Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination."
+Pub. L. 101–650, §402(c)(1), inserted at end "Upon receipt of the determination and record of proceedings inthe House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination."
 
 Subsec. (c)(11). Pub. L. 101–650, §402(e), inserted at end "No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection."
 

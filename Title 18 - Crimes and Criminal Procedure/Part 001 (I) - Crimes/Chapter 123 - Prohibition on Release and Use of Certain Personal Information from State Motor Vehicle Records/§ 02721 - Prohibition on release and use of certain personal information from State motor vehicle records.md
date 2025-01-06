@@ -6,7 +6,7 @@ In General.—A State department of motor vehicles, and any officer, employee, o
 
 &emsp;(1) personal information, as defined in 18 U.S.C. 2725(3), about any individual obtained by the department in connection with a motor vehicle record, except as provided in subsection (b) of this section; or
 
-&emsp;(2) highly restricted personal information, as defined in 18 U.S.C. 2725(4), about any individual obtained by the department in connection with a motor vehicle record, without the express consent of the person to whom such information applies, except uses permitted in subsections (b)(1), (b)(4), (b)(6), and (b)(9): <i>Pro</i><i>vided</i>, That subsection (a)(2) shall not in any way affect the use of organ donation information on an individual's driver's license or affect the administration of organ donation initiatives in the States.
+&emsp;(2) highly restricted personal information, as defined in 18 U.S.C. 2725(4), about any individual obtained by the department in connection with a motor vehicle record, without the express consent of the person to whom such information applies, except uses permitted in subsections (b)(1), (b)(4), (b)(6), and (b)(9): <i>Provided</i>, That subsection (a)(2) shall not in any way affect the use of organ donation information on an individual's driver's license or affect the administration of organ donation initiatives in the States.
 
 (b)
 
@@ -50,13 +50,13 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statementto the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
 (e)
 
 Prohibition on Conditions.—No State may condition or burden in any way the issuance of an individual's motor vehicle record as defined in 18 U.S.C. 2725(1) to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
 
-(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, §101(a) \[title III, §309(c)–(e)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
+(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, §101(a) \[title III, §309(c)–(e)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
 
 #### <b>Editorial Notes</b>
 

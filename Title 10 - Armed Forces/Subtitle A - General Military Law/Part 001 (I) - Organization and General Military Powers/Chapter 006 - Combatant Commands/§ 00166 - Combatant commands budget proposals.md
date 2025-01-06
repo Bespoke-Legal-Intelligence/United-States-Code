@@ -6,7 +6,7 @@ Combatant Command Budgets.—The Secretary of Defense shall include in the annua
 
 (b)
 
-Content of Proposals.—A budget proposal under subsection (a) for funding of activities ofa combatant command shall include funding proposals for such activities of the combatant command as the Secretary (after consultation with the Chairman of the Joint Chiefs of Staff) determines to be appropriate for inclusion. Activities of a combatant command for which funding may be requested in such a proposal include the following:
+Content of Proposals.—A budget proposal under subsection (a) for funding of activities of a combatant command shall include funding proposals for such activities of the combatant command as the Secretary (after consultation with the Chairman of the Joint Chiefs of Staff) determines to be appropriate for inclusion. Activities of a combatant command for which funding may be requested in such a proposal include the following:
 
 &emsp;(1) Joint exercises.
 

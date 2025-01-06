@@ -8,7 +8,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
-(Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
+(Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1),\(2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
 #### <b>Editorial Notes</b>
 
@@ -51,6 +51,10 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 <b>1975</b>—Subsec. (c). Pub. L. 93–644 added subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–193, §1, Dec. 23, 2024, 138 Stat. 2662, provided that: "This Act \[amending section 5106 of this title\] may be cited as the 'Jenna Quinn Law'."
 
 #### Short Title of 2015 Amendment
 
@@ -152,7 +156,7 @@ Pub. L. 93–247, §2, as added by Pub. L. 102–295, title I, §102(a), May 28,
 
 &emsp;"(B) in fiscal year 2008, an estimated 1,740 children were counted by child protection services to have died as a result of abuse or neglect; and
 
-&emsp;"(C) in fiscal year 2008, children younger than 1 year old comprised 45 percent of child maltreatment fatalities and 72 percent of child maltreatment fatalities were younger than 4 years of age;
+&emsp;"(C) in fiscal year 2008, children younger than 1 year old comprised 45 percent of child maltreatmentfatalities and 72 percent of child maltreatment fatalities were younger than 4 years of age;
 
 &emsp;"(4)(A) many of these children and their families fail to receive adequate protection and treatment; and
 

@@ -26,7 +26,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(11) Costs incurred in making any payment (commonly known as a "golden parachute payment") which is—
 
-&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
+&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to anemployee upon termination of employment; and
 
 &emsp;&emsp;(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
 
@@ -40,7 +40,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(16) <sup>1</sup> Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
 
-&emsp;(16) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year,regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+&emsp;(16) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
 &emsp;(17) Costs incurred by a contractor in connection with a congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in section 3750(c) of this title.
 
@@ -104,7 +104,7 @@ Exception for foreign-owned financial institutions.—Paragraph (1) does not app
 
 #### References in Text
 
-Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988), referred to in subsec. (d)(3), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, §7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996.Section 4 was subsequently repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988), referred to in subsec. (d)(3), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, §7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996. Section 4 was subsequently repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
 #### Codification
 

@@ -12,7 +12,7 @@ Provisions similar to those in this section were contained in Pub. L. 105–85, 
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+<b>2019</b>—Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "UnderSecretary of Defense for Acquisition, Technology, and Logistics".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

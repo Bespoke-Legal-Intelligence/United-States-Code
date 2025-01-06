@@ -112,7 +112,7 @@ Pub. L. 116–283 substituted "of Defense for Intelligence and Security" for "of
 
 <b>2019</b>—Subsec. (b)(2)(B). Pub. L. 116–92, §902(8)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
-Subsec. (b)(2)(C). Pub. L. 116–92, §1621(e)(1)(A)(vi), which directed amendment of subpar. (C) by substituting "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence", could not be executed because the words "Under Secretary of Defense for Intelligence" did not appear. Similar amendment was subsequently directed to subpar. (D) by Pub. L. 116–283, see 2021 Amendment note above.
+Subsec. (b)(2)(C). Pub. L. 116–92, §1621(e)(1)(A)(vi), which directed amendment of subpar. (C) by substituting "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence", could not be executed because the words "Under Secretary of Defense for Intelligence" did not appear. Similar amendment was subsequently directedto subpar. (D) by Pub. L. 116–283, see 2021 Amendment note above.
 
 Pub. L. 116–92, §902(8)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 

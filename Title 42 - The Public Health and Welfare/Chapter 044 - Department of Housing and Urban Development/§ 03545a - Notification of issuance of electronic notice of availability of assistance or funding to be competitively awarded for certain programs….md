@@ -8,13 +8,15 @@ The Secretary of the Department of Housing and Urban Development shall, for fisc
 
 #### Codification
 
-Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part ofthe Department of Housing and Urban Development Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 
 Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. F, title II, §216, Mar. 9, 2024, 138 Stat. 378.
 
 Pub. L. 117–328, div. L, title II, §216, Dec. 29, 2022, 136 Stat. 5175.
 

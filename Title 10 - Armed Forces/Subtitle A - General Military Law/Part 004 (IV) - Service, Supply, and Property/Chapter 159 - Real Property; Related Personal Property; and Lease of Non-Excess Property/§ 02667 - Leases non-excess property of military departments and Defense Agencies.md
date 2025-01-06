@@ -26,7 +26,7 @@ Conditions on Leases.—A lease under subsection (a)—
 
 &emsp;(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease;
 
-&emsp;(7) may not provide for a leaseback by the Secretary concerned with an annual paymentin excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount; and
+&emsp;(7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount; and
 
 &emsp;(8) shall provide that any facilities constructed on the property may be constructed using commercial standards in a manner that provides force protection safeguards appropriate to the activities conducted in, and the location of, such facilities.
 
@@ -34,7 +34,7 @@ Conditions on Leases.—A lease under subsection (a)—
 
 Types of In-Kind Consideration.—(1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
 
-&emsp;(A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned.
+&emsp;(A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned, whether or not needed for the functionality of the property or facility leased.
 
 &emsp;(B) Construction of new facilities for the Secretary concerned.
 
@@ -44,7 +44,13 @@ Types of In-Kind Consideration.—(1) In addition to any in-kind consideration a
 
 &emsp;(E) Provision of real property maintenance services for the Secretary concerned.
 
-&emsp;(F) Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate.
+&emsp;(F) Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate, which may include industrial process optimization.
+
+&emsp;(G) Refurbishment of existing industrial plant equipment on the leased property.
+
+&emsp;(H) Removal and replacement of industrial plant equipment on the leased property that is at or near end-of-life.
+
+&emsp;(I) Provision of new industrial plant equipment on the leased property (including new technology), installation of such equipment, and maintenance of such equipment, but only if the title to such equipment passes to the Federal Government.
 
 (2) In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concerned that are selected for that purpose by the Secretary concerned.
 
@@ -110,7 +116,7 @@ Deposit and Use of Proceeds.—(1)(A) The Secretary concerned shall deposit in a
 
 (E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
 
-(2) Payments for utilities and services furnished lessees pursuant to leases entered intounder this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
+(2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
 
 (3) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
@@ -124,7 +130,7 @@ Treatment of Lessee Interest in Property.—The interest of a lessee of property
 
 Special Rules for Base Closure and Realignment Property.—(1) Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section, pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
 
-(2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease interest if the Secretary concerned determines that—
+(2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair marketvalue of the lease interest if the Secretary concerned determines that—
 
 &emsp;(A) a public interest will be served as a result of the lease; and
 
@@ -194,7 +200,7 @@ Exclusion of Certain Lands.—This section does not apply to oil, mineral, or ph
 
 Leases for Education.—Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, §5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1075(b)(41), div. B, title XXVIII, §§2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, §2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, §2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, §2811, Dec. 19, 2014, 128 Stat. 3700; Pub. L. 114–92, div. B, title XXVIII, §2814, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. A, title X, §1081(a)(46), (47), div. B, title XXVIII, §§2811(e), 2835, Dec. 12, 2017, 131 Stat. 1596, 1597, 1848, 1859; Pub. L. 115–232, div. B, title XXVIII, §2802(a), Aug. 13, 2018, 132 Stat. 2261.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, §5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1075(b)(41), div. B, title XXVIII, §§2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, §2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, §2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, §2811, Dec. 19, 2014, 128 Stat. 3700; Pub. L. 114–92, div. B, title XXVIII, §2814, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. A, title X, §1081(a)(46), (47), div. B, title XXVIII, §§2811(e), 2835, Dec. 12, 2017, 131 Stat. 1596, 1597, 1848, 1859; Pub. L. 115–232, div. B, title XXVIII, §2802(a), Aug. 13, 2018, 132 Stat. 2261; Pub. L. 118–159, div. B, title XXVIII, §2844, Dec. 23, 2024, 138 Stat. 2263.)
 
 Historical and Revision Notes
 
@@ -264,7 +270,7 @@ In subsection (a), the words "considers \* \* \* United States" are substitute
 
 In subsection (a)(3), the words "excess property, as defined by section 472 of title 40" are substituted for the words "surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944 \[Act of October 3, 1944 (58 Stat. 765)\]", in 5:626s–3, 10:1270, and 34:522a, since the words "excess property" are so defined by the Federal Property and Administrative Services Act of 1949.
 
-In subsection (b)(2), the words "may give" are substituted for the first 12 words of the third sentence of 5:626s–3, 10:1270, and 34:522a. The words "if the lease is revoked to allow the United States to sell the property" are substituted for the words "in the event of the revocation of the lease in order to permit sale thereof by the Government". The words "under any other provision of law" are inserted for clarity. The words "the first right to buy" are substituted for the words "aright of first refusal". The words "but this section shall not be construed as authorizing the sale of any property unless the sale thereof is otherwise authorized by law" are omitted as surplusage, since the revised section deals only with leases of property.
+In subsection (b)(2), the words "may give" are substituted for the first 12 words of the third sentence of 5:626s–3, 10:1270, and 34:522a. The words "if the lease is revoked to allow the United States to sell the property" are substituted for the words "in the event of the revocation of the lease in order to permit sale thereof by the Government". The words "under any other provision of law" are inserted for clarity. The words "the first right to buy" are substituted for the words "a right of first refusal". The words "but this section shall not be construed as authorizing the sale of any property unless the sale thereof is otherwise authorized by law" are omitted as surplusage, since the revised section deals only with leases of property.
 
 In subsection (b)(3), the words "must permit" are substituted for the words "Each such lease shall contain a provision permitting". The words "from the lease" are omitted as surplusage.
 
@@ -283,6 +289,12 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A),
 The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1)(A). Pub. L. 118–159, §2844(1), inserted ", whether or not needed for the functionality of the property or facility leased" before period at end.
+
+Subsec. (c)(1)(F). Pub. L. 118–159, §2844(2), inserted ", which may include industrial process optimization" before period at end.
+
+Subsec. (c)(1)(G) to (I). Pub. L. 118–159, §2844(3), added subpars. (G) to (I).
 
 <b>2018</b>—Subsec. (b)(8). Pub. L. 115–232 added par. (8).
 
@@ -426,7 +438,7 @@ Subsec. (f)(1). Pub. L. 107–217, §3(b)(12)(C), inserted "subtitle I of title 
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)\], inserted "and" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "not for the time needed for public use; and".
 
-Subsec. (b)(5). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(b)(1)\], substituted "alteration, repair, or improvement," for "improvement, maintenance, protection, repair, or restoration," and struck out ", or of the entireunit or installation where a substantial part of it is leased," after "of the property leased".
+Subsec. (b)(5). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(b)(1)\], substituted "alteration, repair, or improvement," for "improvement, maintenance, protection, repair, or restoration," and struck out ", or of the entire unit or installation where a substantial part of it is leased," after "of the property leased".
 
 Subsec. (c). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(b)(3)\], added subsec. (c). Former subsec. (c) redesignated (i).
 
@@ -448,7 +460,7 @@ Subsec. (d)(3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(d)(1)\], s
 
 Subsec. (d)(3)(A). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(d)(2)\], substituted "report" for "request".
 
-Subsec. (f)(4), (5). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(b)(4)\], redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "The Secretary concerned may accept under subsection (b)(5) services of a lessee for an entire installation to be closed or realigned under a base closure law, or for any part of such installation, without regard to the requirement in subsection (b)(5) that a substantial part of the installation be leased."
+Subsec. (f)(4), (5). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(b)(4)\], redesignated par. (5) as (4) andstruck out former par. (4) which read as follows: "The Secretary concerned may accept under subsection (b)(5) services of a lessee for an entire installation to be closed or realigned under a base closure law, or for any part of such installation, without regard to the requirement in subsection (b)(5) that a substantial part of the installation be leased."
 
 Subsec. (h). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(e)\], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "In this section, the term 'base closure law' means each of the following:
 

@@ -20,7 +20,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;(6) if appropriate, has <sup>1</sup> agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction; and
 
-&emsp;(7) that has put in place investment reforms, as evidenced by the conclusion of a bilateral investment treaty with the United States, implementation of an investment sector loan with the Inter-American Development Bank, World Bank-supported investment reforms, or other measures, as appropriate.
+&emsp;(7) that has put in place investment reforms, as evidenced by the conclusion of a bilateral investment treaty with the United States, implementation of an investment sector loan with the Inter-American Development Bank,World Bank-supported investment reforms, or other measures, as appropriate.
 
 #### (b) Eligibility determinations
 
@@ -32,7 +32,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
-(Pub. L. 87–195, pt. V, §805, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amendedPub. L. 107–26, §1, Aug. 17, 2001, 115 Stat. 206; Pub. L. 115–440, §5, Jan. 14, 2019, 132 Stat. 5582.)
+(Pub. L. 87–195, pt. V, §805, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amended Pub. L. 107–26, §1, Aug. 17, 2001, 115 Stat. 206; Pub. L. 115–440, §5, Jan. 14, 2019, 132 Stat. 5582.)
 
 #### <b>Editorial Notes</b>
 

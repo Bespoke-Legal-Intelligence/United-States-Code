@@ -24,7 +24,7 @@ Pub. L. 95–515, §9, Oct. 25, 1978, 92 Stat. 1815, provided that:
 
 "(2) The provisions of this Act shall not apply to any form of legal non-parimutuel off-track betting existing in a State on May 1, 1978.
 
-"(3) The provisions of subsection (b) of section 5 of this Act \[section 3004(b) of this title\] shall not apply to any parimutuel off-track betting system existing on May 1, 1978, in a State which does not conduct parimutuel horseracing on the date of enactment of this Act \[Oct. 25, 1978\]."
+"(3) The provisions of subsection (b) of section 5 of this Act \[section 3004(b) of this title\] shall not apply toany parimutuel off-track betting system existing on May 1, 1978, in a State which does not conduct parimutuel horseracing on the date of enactment of this Act \[Oct. 25, 1978\]."
 
 #### Short Title
 

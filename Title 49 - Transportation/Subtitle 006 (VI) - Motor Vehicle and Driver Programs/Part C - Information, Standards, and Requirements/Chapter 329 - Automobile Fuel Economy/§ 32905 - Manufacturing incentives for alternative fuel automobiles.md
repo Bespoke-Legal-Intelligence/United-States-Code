@@ -18,7 +18,7 @@ Dual Fueled Automobiles.—Except as provided in subsection (d) of this section 
 
 (c)
 
-Gaseous Fuel Dedicated Automobiles.—For any model of gaseous fuel dedicated automobile manufactured by a manufacturer after model year 1992, the Administrator shall measure the fuel economy for that model based on the fuel content of the gaseous fuel used to operate the automobile. One hundred cubic feet of natural gas is deemed to contain .823 gallon equivalent of natural gas. The Secretary of Transportation shall determine the appropriate gallon equivalent of other gaseous fuels. A gallon equivalent of gaseous fuel is deemed to have a fuel content of .15 gallon of fuel.
+Gaseous Fuel Dedicated Automobiles.—For any model of gaseous fuel dedicated automobile manufactured by a manufacturer after model year 1992, the Administrator shall measure the fuel economy for that model based onthe fuel content of the gaseous fuel used to operate the automobile. One hundred cubic feet of natural gas is deemed to contain .823 gallon equivalent of natural gas. The Secretary of Transportation shall determine the appropriate gallon equivalent of other gaseous fuels. A gallon equivalent of gaseous fuel is deemed to have a fuel content of .15 gallon of fuel.
 
 (d)
 
@@ -34,7 +34,7 @@ Electric Dual Fueled Automobiles.—
 
 &emsp;(1)
 
-In general.—At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving rangerequirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
+In general.—At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving range requirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
 
 &emsp;&emsp;(A) the percentage utilization of the model on gasoline or diesel fuel, as determined by a formula based on the model's alternative fuel range, divided by the fuel economy measured under section 32904(c); and
 

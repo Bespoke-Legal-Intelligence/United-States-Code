@@ -28,7 +28,7 @@ If—
 
 &emsp;&emsp;(B) the amount of money and the fair market value of other property (other than obligations of the purchaser received with respect to the sale of such property) paid or transferred by the seller in connection with the reacquisition of such property.
 
-> &emsp;For purposes of this paragraph, the price at which real property is sold is the gross salesprice reduced by the selling commissions, legal fees, and other expenses incident to the sale of such property which are properly taken into account in determining gain or loss on such sale.
+> &emsp;For purposes of this paragraph, the price at which real property is sold is the gross sales price reduced by the selling commissions, legal fees, and other expenses incident to the sale of such property which are properly taken into account in determining gain or loss on such sale.
 
 #### (3) Gain recognized
 

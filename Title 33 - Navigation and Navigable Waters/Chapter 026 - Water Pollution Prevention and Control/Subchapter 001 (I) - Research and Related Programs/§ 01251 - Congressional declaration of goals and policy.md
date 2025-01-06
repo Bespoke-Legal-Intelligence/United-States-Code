@@ -56,6 +56,10 @@ Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–152, §1, Dec. 17, 2024, 138 Stat. 1686, provided that: "This Act \[amending section 1330 of this title\] may be cited as the 'Pensacola and Perdido Bays Estuary of National Significance Act of 2024'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–58, div. E, §50001, Nov. 15, 2021, 135 Stat. 1135, provided that: "This division \[see Tables for classification\] may be cited as the 'Drinking Water and Wastewater Infrastructure Act of 2021'."
@@ -84,7 +88,7 @@ Pub. L. 110–288, §1, July 29, 2008, 122 Stat. 2650, provided that: "This Act 
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–303, §1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: "This Act \[enacting section 1271a of this title, amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, section 1254 of this title, and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 50 of Title 20, Education\] may be cited as the 'Great Lakes and Lake Champlain Act of 2002'."
+Pub. L. 107–303, §1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: "This Act \[enacting section 1271a of thistitle, amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, section 1254 of this title, and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 50 of Title 20, Education\] may be cited as the 'Great Lakes and Lake Champlain Act of 2002'."
 
 Pub. L. 107–303, title I, §101, Nov. 27, 2002, 116 Stat. 2355, provided that: "This title \[enacting section 1271a of this title and amending section 1268 of this title\] may be cited as the 'Great Lakes Legacy Act of 2002'."
 
@@ -100,7 +104,7 @@ Pub. L. 106–457, title V, §501, Nov. 7, 2000, 114 Stat. 1973, provided that: 
 
 Pub. L. 106–457, title VI, §601, Nov. 7, 2000, 114 Stat. 1975, provided that: "This title \[enacting section 1300 of this title\] may be cited as the 'Alternative Water Sources Act of 2000'."
 
-Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: "This Act \[enacting sections 1346 and 1375a of thistitle and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the 'Beaches Environmental Assessment and Coastal Health Act of 2000'."
+Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: "This Act \[enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the 'Beaches Environmental Assessment and Coastal Health Act of 2000'."
 
 #### Short Title of 1994 Amendment
 
@@ -144,7 +148,7 @@ Pub. L. 92–500, §4, Oct. 18, 1972, 86 Stat. 896, provided that:
 
 "(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
-"(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act \[section 1282 of this title\] and in subsection (c) of section 3 of this Act."
+"(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment ofthis Act \[Oct. 18, 1972\] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act \[section 1282 of this title\] and in subsection (c) of section 3 of this Act."
 
 #### Separability
 
@@ -156,7 +160,7 @@ Pub. L. 102–567, title III, §308, Oct. 29, 1992, 106 Stat. 4286; as amended b
 
 "(a)
 
-Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 monthsafter the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
+Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
 
 &emsp;"(1) an environmental assessment of commercial shellfish growing areas in the United States, including an evaluation of the relationships between indicators of fecal contamination and human enteric pathogens;
 
@@ -220,7 +224,7 @@ Contract With Consortium.—Within 30 days after the date of enactment of this A
 
 "(d)
 
-Authorization of Appropriations.—(1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries Program Authorization Act (Public Law 98–210; 97 Stat. 1409), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program.
+Authorization of Appropriations.—(1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine FisheriesProgram Authorization Act (Public Law 98–210; 97 Stat. 1409), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program.
 
 "(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized under this section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
 
@@ -238,7 +242,7 @@ Pub. L. 100–4, §2, Feb. 4, 1987, 101 Stat. 8, provided that: "No payments may
 
 #### Seafood Processing Study; Submittal of Results to Congress not Later Than January 1, 1979
 
-Pub. L. 95–217, §74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristicsof marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
+Pub. L. 95–217, §74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
 
 #### Oversight Study
 
@@ -282,7 +286,7 @@ Pub. L. 92–500, §11, Oct. 18, 1972, 86 Stat. 899, directed President, by util
 
 #### Sex Discrimination
 
-Pub. L. 92–500, §13, Oct. 18, 1972, 86 Stat. 903, provided that: "No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under section 1281 of this title\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee."
+Pub. L. 92–500, §13, Oct. 18, 1972, 86 Stat. 903, provided that: "No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under section 1281 of this title\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial andother discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee."
 
 #### Definition of "Administrator"
 

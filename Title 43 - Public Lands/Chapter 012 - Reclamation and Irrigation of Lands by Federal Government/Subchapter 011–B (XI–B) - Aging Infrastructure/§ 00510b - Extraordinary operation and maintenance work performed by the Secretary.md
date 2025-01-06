@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary or the transferred works operating entity may carry out, in accordance with subsection (b) and consistent with existing transfer contracts, any extraordinary operation and maintenance work on a project facility thatthe Secretary determines to be reasonably required to preserve the structural safety of the project facility.
+The Secretary or the transferred works operating entity may carry out, in accordance with subsection (b) and consistent with existing transfer contracts, any extraordinary operation and maintenance work on a project facility that the Secretary determines to be reasonably required to preserve the structural safety of the project facility.
 
 #### (b) Reimbursement of costs arising from extraordinary operation and maintenance work
 

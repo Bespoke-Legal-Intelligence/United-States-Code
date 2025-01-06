@@ -50,7 +50,7 @@ Disclosures and Notifications.—Consistent with the parental rights specified i
 
 (c)
 
-Exceptions.—(1) Paragraph (5) of subsection (a) and paragraph (3) of subsection (b) shall not be effective until the day that is two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
+Exceptions.—(1) Paragraph (5) of subsection (a) and paragraph (3) of subsection (b)shall not be effective until the day that is two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 
 (2) A requirement set forth in subsection (b) shall not apply in a case in which the requirement would violate any applicable provision of a Federal or State statute or regulation.
 
@@ -81,4 +81,10 @@ Definitions.—In this section:
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Parental Right to Notice of Student Nonproficiency in Reading or Language Arts
+
+Pub. L. 118–159, div. A, title V, §599B, Dec. 23, 2024, 138 Stat. 1923, provided that: "The Secretary of Defense shall ensure that each elementary school operated by the Department of Defense Education Activity notifies the parents of any student enrolled in such school when the student does not score as grade-level proficient in reading or language arts at the end of the third grade based on the reading or language arts assessments administered under section 1111(b)(2)(B)(v)(I)(aa) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(v)(I)(aa)) or another assessment administered to all third grade students by such school."
 

@@ -82,7 +82,7 @@ Joint force development activities.—In matters relating to joint force develop
 
 Other matters.—In other matters—
 
-&emsp;&emsp;(A) recommending to the Secretary, in accordance with section 166 of this title, a budget proposal for activities of each unified and specified combatant command;
+&emsp;&emsp;(A) recommending to the Secretary, in accordance with section 166 of this title, abudget proposal for activities of each unified and specified combatant command;
 
 &emsp;&emsp;(B) providing for representation of the United States on the Military Staff Committee of the United Nations in accordance with the Charter of the United Nations; and
 
@@ -136,7 +136,7 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(iii) Identify and define levels of risk, including an identification of what constitutes "significant" risk in the judgment of the Chairman.
 
-&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which riskmight manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
+&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
 
 &emsp;&emsp;(II) for each category of risk, assess the extent to which current or future risk increases, decreases, or is stable as a result of budgetary priorities, tradeoffs, or fiscal constraints or limitations as currently estimated and applied in the current future-years defense program under section 221 of this title.
 
@@ -148,7 +148,7 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;(3)
 
-Submittal of national military strategy and risk assessment to congress.—(A) Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
+Submittal of national military strategy and risk assessment to congress.—(A)Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
 
 &emsp;(B) Not later than February 15 each year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the Risk Assessment prepared under paragraph (2) in such year.
 
@@ -190,7 +190,7 @@ Briefing Requirement.—(1) Not later than 15 days after the submission of the r
 
 &emsp;(C) if the risk assessment is not delivered at or before the time of the briefing, a timeline for when the risk assessment will be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub.L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, §1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, §901, title X, §1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§921(c), 943, title X, §1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, §1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, §311(c), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 118–31, div. A, title X, §1041(c), Dec. 22, 2023, 137 Stat. 388.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, §1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, §901, title X, §1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§921(c), 943, title X, §1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, §1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, §311(c), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 118–31, div. A, title X, §1041(c), Dec. 22, 2023, 137 Stat. 388.)
 
 #### <b>Editorial Notes</b>
 

@@ -14,7 +14,7 @@ A management official of a depository institution or a depository holding compan
 
 <b>2006</b>—Par. (1). Pub. L. 109–351 substituted "$50,000,000" for "$20,000,000".
 
-<b>1983</b>—Par. (1). Pub. L. 98–181 substituted "primary metropolitan statistical area, the same metropolitanstatistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas" for "standard metropolitan statistical area".
+<b>1983</b>—Par. (1). Pub. L. 98–181 substituted "primary metropolitan statistical area, the same metropolitan statistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas" for "standard metropolitan statistical area".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

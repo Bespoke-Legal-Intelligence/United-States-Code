@@ -6,7 +6,7 @@ An appeal by the United States shall lie to a court of appeals from a decision o
 
 An appeal by the United States shall lie to a court of appeals from a decision or order, entered by a district court of the United States, granting the release of a person charged with or convicted of an offense, or denying a motion for revocation of, or modification of the conditions of, a decision or order granting release.
 
-The appeal in all such cases shall be taken within thirty days after the decision, judgment or order has been rendered and shall be diligently prosecuted.
+The appeal in all such cases shall be taken within thirty days after the decision, judgmentor order has been rendered and shall be diligently prosecuted.
 
 The provisions of this section shall be liberally construed to effectuate its purposes.
 
@@ -18,7 +18,7 @@ The provisions of this section shall be liberally construed to effectuate its pu
 
 Based on title 18, U.S.C., 1940 ed., §682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 9, 1942, ch. 295, §1, 56 Stat. 271).
 
-The word "dismissing" was substituted for "sustaining a motion to dismiss" in two places for conciseness and clarity, there being no difference in effect ofa decision of dismissal whether made on motion or by the court sua sponte.
+The word "dismissing" was substituted for "sustaining a motion to dismiss" in two places for conciseness and clarity, there being no difference in effect of a decision of dismissal whether made on motion or by the court sua sponte.
 
 Minor changes were made to conform to Rule 12 of the Federal Rules of Criminal Procedure. The final sentence authorizing promulgation of rules is omitted as redundant.
 

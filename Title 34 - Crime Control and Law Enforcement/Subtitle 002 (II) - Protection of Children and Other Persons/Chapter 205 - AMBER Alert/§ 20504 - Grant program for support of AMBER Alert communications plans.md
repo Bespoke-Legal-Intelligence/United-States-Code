@@ -38,7 +38,7 @@ The Attorney General shall, to the maximum extent practicable, ensure the distri
 
 #### (e) Administration
 
-The Attorney General shall prescribe requirements, including application requirements, and standards to improve accountability and transparency for grants awarded under the program under subsection (a).
+The Attorney General shall prescribe requirements, including application requirements, andstandards to improve accountability and transparency for grants awarded under the program under subsection (a).
 
 #### (f) Definition of Indian tribe
 

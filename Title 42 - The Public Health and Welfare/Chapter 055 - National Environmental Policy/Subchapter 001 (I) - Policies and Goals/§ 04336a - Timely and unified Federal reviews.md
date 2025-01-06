@@ -26,7 +26,7 @@
 
 &emsp;A lead agency shall, with respect to a proposed agency action—
 
-&emsp;&emsp;(A) supervise the preparation of an environmental document if, with respect to suchproposed agency action, there is more than one participating Federal agency;
+&emsp;&emsp;(A) supervise the preparation of an environmental document if, with respect to such proposed agency action, there is more than one participating Federal agency;
 
 &emsp;&emsp;(B) request the participation of each cooperating agency at the earliest practicable time;
 
@@ -118,7 +118,7 @@ A lead agency shall prescribe procedures to allow a project sponsor to prepare a
 
 &emsp;&emsp;&emsp;(i) the date on which such agency determines that section 4336(b)(2) of this title requires the preparation of an environmental assessment with respect to such action;
 
-&emsp;&emsp;&emsp;(ii) the date on which such agency notifies the applicant that the application to establish a right-of-way for such action is complete; and
+&emsp;&emsp;&emsp;(ii) the date on which such agency notifies the applicant that the application toestablish a right-of-way for such action is complete; and
 
 &emsp;&emsp;&emsp;(iii) the date on which such agency issues a notice of intent to prepare the environmental assessment for such action.
 

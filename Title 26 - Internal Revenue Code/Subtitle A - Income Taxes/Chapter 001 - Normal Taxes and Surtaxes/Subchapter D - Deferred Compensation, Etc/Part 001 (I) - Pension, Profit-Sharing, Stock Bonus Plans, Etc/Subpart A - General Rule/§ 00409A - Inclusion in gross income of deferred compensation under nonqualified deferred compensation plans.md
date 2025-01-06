@@ -18,7 +18,7 @@
 
 #### (ii) Application only to affected participants
 
-&emsp;&emsp;&emsp;Clause (i) shall only apply with respect to all compensation deferred under theplan for participants with respect to whom the failure relates.
+&emsp;&emsp;&emsp;Clause (i) shall only apply with respect to all compensation deferred under the plan for participants with respect to whom the failure relates.
 
 #### (B) Interest and additional tax payable with respect to previously deferred compensation
 
@@ -92,7 +92,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the plan provides that compensation for services performed during a taxable year may be deferred at the participant's election only if the election todefer such compensation is made not later than the close of the preceding taxable year or at such other time as provided in regulations.
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the plan provides that compensation for services performed during a taxable year may be deferred at the participant's election only if the election to defer such compensation is made not later than the close of the preceding taxable year or at such other time as provided in regulations.
 
 #### (ii) First year of eligibility
 
@@ -158,7 +158,7 @@
 
 #### (C) Special rule for payment of taxes on deferred compensation included in income
 
-&emsp;&emsp;If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect toany compensation required to be included in gross income by reason of this paragraph—
+&emsp;&emsp;If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect to any compensation required to be included in gross income by reason of this paragraph—
 
 &emsp;&emsp;&emsp;(i) interest shall be imposed under subsection (a)(1)(B)(i)(I) on the amount of such payment in the same manner as if such payment was part of the deferred compensation to which it relates,
 
@@ -186,7 +186,7 @@
 
 #### (4) Income inclusion for offshore trusts and employer's financial health
 
-&emsp;For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subject to paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
+&emsp;For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subjectto paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
 
 #### (5) Interest on tax liability payable with respect to transferred property
 
@@ -250,7 +250,7 @@ For purposes of this section:
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
 
 &emsp;(1) providing for the determination of amounts of deferral in the case of a nonqualified deferred compensation plan which is a defined benefit plan,
 

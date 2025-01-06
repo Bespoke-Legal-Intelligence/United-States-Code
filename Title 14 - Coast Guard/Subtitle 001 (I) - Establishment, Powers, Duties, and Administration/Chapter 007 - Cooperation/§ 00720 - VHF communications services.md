@@ -16,7 +16,7 @@ Section 704(c) of the Telecommunications Act of 1996, referred to in subsec. (c)
 
 #### Codification
 
-Pub. L. 107–295, title IV, §406, Nov. 25, 2002, 116 Stat. 2116, formerly set out as a note under section 501 of this title, was redesignated as this section, transferred to appear after section 719 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, §8501(a)(2).
+Pub. L. 107–295, title IV, §406, Nov. 25, 2002, 116 Stat. 2116, formerly set out as a note under section 501 of thistitle, was redesignated as this section, transferred to appear after section 719 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, §8501(a)(2).
 
 #### Prior Provisions
 
@@ -104,7 +104,7 @@ Section 785, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552, relat
 
 Section 786, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552, related to qualifications for promotion.
 
-Section 787, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552; amended Pub. L. 91–402, §1(10), Sept. 18, 1970, 84 Stat. 841; Pub. L. 93–174, §2(7), Dec. 5, 1973, 87Stat. 692, related to failure of selection and elimination.
+Section 787, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552; amended Pub. L. 91–402, §1(10), Sept. 18, 1970, 84 Stat. 841; Pub. L. 93–174, §2(7), Dec. 5, 1973, 87 Stat. 692, related to failure of selection and elimination.
 
 Section 787a, added Pub. L. 86–559, §2(3), June 30, 1960, 74 Stat. 281, provided for elimination from active status of excessive numbers to provide a flow of promotions.
 

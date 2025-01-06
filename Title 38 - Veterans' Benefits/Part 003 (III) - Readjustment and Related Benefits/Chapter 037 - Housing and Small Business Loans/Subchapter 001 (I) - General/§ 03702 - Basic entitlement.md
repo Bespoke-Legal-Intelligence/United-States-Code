@@ -88,7 +88,7 @@
 
 <b>1994</b>—Subsec. (a)(2)(E). Pub. L. 103–446, §1201(f)(4), substituted "For the period beginning on October 28, 1992, and ending on October 27, 1999," for "For the 7-year period beginning on the date of enactment of this subparagraph,".
 
-Subsec. (b). Pub. L. 103–446, §902(1), (6), (7), in introductory provisions, substituted "loan under the following circumstances:" for "loan, if—", and in concluding provisions, substituted "paragraph (1)" for "clause (1) of the preceding sentence" and inserted at end "The authority of the Secretary under this subsection to exclude an amount of guaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4)."
+Subsec. (b). Pub. L. 103–446, §902(1), (6), (7), in introductory provisions, substituted "loan under the following circumstances:" for "loan, if—", and in concluding provisions, substituted "paragraph (1)" for "clause (1) of the preceding sentence" and inserted at end "The authority of the Secretary under this subsection to exclude an amount of guaranty or insurancehousing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4)."
 
 Subsec. (b)(1). Pub. L. 103–446, §902(2), substituted "The property" for "the property" in subpar. (A) and a period for the semicolon at end of subpar. (B).
 

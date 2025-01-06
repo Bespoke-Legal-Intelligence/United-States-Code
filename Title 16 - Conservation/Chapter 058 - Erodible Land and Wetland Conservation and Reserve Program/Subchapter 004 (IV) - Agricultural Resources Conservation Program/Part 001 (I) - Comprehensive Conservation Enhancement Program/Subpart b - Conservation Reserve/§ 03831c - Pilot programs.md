@@ -264,7 +264,7 @@
 
 #### References in Text
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(3)(F)(ii)(I), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(3)(F)(ii)(I), is subtitle A of title V of act Feb. 16,1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

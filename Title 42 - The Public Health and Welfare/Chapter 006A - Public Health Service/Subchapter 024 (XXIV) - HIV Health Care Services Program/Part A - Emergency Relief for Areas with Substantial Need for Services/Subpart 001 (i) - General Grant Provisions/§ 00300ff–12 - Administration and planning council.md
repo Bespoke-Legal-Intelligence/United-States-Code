@@ -142,7 +142,7 @@
 
 #### (6) Grievance procedures
 
-&emsp;A planning council under paragraph (1) shall develop procedures for addressing grievances with respect to funding under this subpart, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c).
+&emsp;A planning council under paragraph (1) shall develop procedures for addressing grievanceswith respect to funding under this subpart, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c).
 
 #### (7) Public deliberations
 
@@ -178,7 +178,7 @@
 
 #### (d) Process for establishing allocation priorities
 
-Promptly after the date of the submission of the report required in section 501(b) of the RyanWhite CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV/AIDS), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
+Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV/AIDS), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
 
 &emsp;(1) for establishing the number of individuals living with HIV/AIDS who are not receiving HIV-related health services; and
 
@@ -270,7 +270,7 @@ Subsec. (e). Pub. L. 106–345, §102(c), added subsec. (e).
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–146, §3(b)(1)(A)(ii), inserted at end "Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5)."
 
-Pub. L. 104–146, §3(b)(1)(A)(i), substituted "reflect in its composition the demographics of the epidemic inthe eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations." for "include representatives of—
+Pub. L. 104–146, §3(b)(1)(A)(i), substituted "reflect in its composition the demographics of the epidemic in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations." for "include representatives of—
 
 &emsp;"(A) health care providers;
 

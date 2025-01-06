@@ -162,7 +162,7 @@ Use of Other Law Enforcement Agencies.—When it is considered economical and in
 
 "(e)
 
-Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests withoutwarrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
+Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests without warrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
 
 "(f)
 
@@ -196,13 +196,135 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Protective Service of the General Services Administration, including the functions of the Administrator of General Services relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Protective Service of the General Services Administration, including the functionsof the Administrator of General Services relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Authority
 
 Pub. L. 107–296, title XVII, §1706(b)(2), Nov. 25, 2002, 116 Stat. 2318, provided that: "The Secretary may delegate authority for the protection of specific buildings to another Federal agency where, in the Secretary's discretion, the Secretary determines it necessary for the protection of that building."
 
 \[For definition of "Secretary" as used in section 1706(b)(2) of Pub. L. 107–296, set out above, see section 101(16) of Title 6, Domestic Security.\]
+
+#### Improving Federal Building Security
+
+Pub. L. 118–157, Dec. 17, 2024, 138 Stat. 1719, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Improving Federal Building Security Act of 2024'.
+
+#### "SEC. 2. RESPONDING TO SECURITY RECOMMENDATIONS.
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Agency.—The term 'agency' has the meaning given the term in section 551 of title 5, United States Code.
+
+&emsp;"(2)
+
+Facility security committee.—The term 'Facility Security Committee' means a committee that—
+
+&emsp;&emsp;"(A) consists of representatives of—
+
+&emsp;&emsp;&emsp;"(i) all Federal tenants in a specific non-military facility;
+
+&emsp;&emsp;&emsp;"(ii) the security organization for the facility; and
+
+&emsp;&emsp;&emsp;"(iii) the owning or leasing Federal tenant; and
+
+&emsp;&emsp;"(B) is responsible for addressing facility-specific security issues and approving the implementation of security measures and practices in the facility.
+
+&emsp;"(3)
+
+Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
+
+"(b)
+
+Response.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date on which the Federal Protective Service issues a security recommendation to a Facility Security Committee to improve facility security, the head of the Facility Security Committee, or a designee thereof, shall—
+
+&emsp;&emsp;"(A) respond to the Secretary—
+
+&emsp;&emsp;&emsp;"(i) indicating if the Facility Security Committee intends to adopt or reject the recommendation; and
+
+&emsp;&emsp;&emsp;"(ii) describing the financial implications of adopting or rejecting the recommendation, including if the benefits outweigh the costs; and
+
+&emsp;&emsp;"(B) if the Facility Security Committee intends to reject the recommendation, provide the Secretary a justification for accepting the risk posed by rejecting the recommendation.
+
+&emsp;"(2)
+
+Method.—The Secretary shall—
+
+&emsp;&emsp;"(A) develop a method to monitor the recommendations and responses described in paragraph (1); and
+
+&emsp;&emsp;"(B) take reasonable action to ensure Facility Security Committee responsiveness under paragraph (1).
+
+"(c)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 17, 2024\], and annually thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives a report that, for the fiscal year preceding the report, includes—
+
+&emsp;&emsp;"(A) a summary of the security recommendations issued by the Federal Protective Service to Facility Security Committees to improve facility security;
+
+&emsp;&emsp;"(B) the percentage of recommendations described in subparagraph (A) that were accepted and the percentage of such recommendations that were rejected;
+
+&emsp;&emsp;"(C) the percentage of Facility Security Committees that failed to respond to a recommendation described in subparagraph (A) in a timely manner;
+
+&emsp;&emsp;"(D) a summary of justifications provided by Facility Security Committees if a Facility Security Committee rejected a recommendation described in subparagraph (A);
+
+&emsp;&emsp;"(E) a summary of the financial implications of Facility Security Committee responses to recommendations described in subparagraph (A), including if the benefits outweigh the costs;
+
+&emsp;&emsp;"(F) an analysis of steps taken by Facility Security Committees to mitigate the risk posed by rejecting a recommendation described in subparagraph (A); and
+
+&emsp;&emsp;"(G) an analysis of any trends found among the findings in the report.
+
+&emsp;"(2)
+
+Form.—Each report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+&emsp;"(3)
+
+Briefing.—The Secretary shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives on an annual basis on the findings of the most recently submitted report under paragraph (1).
+
+"(d)
+
+Report on Surveillance Technology.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2024\], the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives an unredacted report on—
+
+&emsp;"(1) all surveillance technology recommended by the Federal Protective Service; and
+
+&emsp;"(2) any intended use of the technology described in paragraph (1).
+
+"(e)
+
+No Additional Funds.—No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
+
+"(f)
+
+Sunset and Report.—
+
+&emsp;"(1)
+
+Sunset.—This Act shall cease to be effective on the date that is 5 years after the date of enactment of this Act \[Dec. 17, 2024\].
+
+&emsp;"(2)
+
+GAO report.—Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the effectiveness of this Act.
+
+"(g)
+
+Application.—This Act shall only apply to—
+
+&emsp;"(1) General Services Administration facilities under protection of the Federal Protective Service; and
+
+&emsp;"(2) non-General Services Administration facilities that pay fees to the Federal Protective Service for protection."
 
 #### Federal Protective Service Guard Contracting Reform
 

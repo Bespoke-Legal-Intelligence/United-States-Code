@@ -52,6 +52,10 @@ A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L
 
 Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: "This title \[see Short Title of 1998 Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\]." \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
 
+#### Short Title of 2025 Amendment
+
+Pub. L. 118–272, div. B, title II, §2201, Jan. 4, 2025, 138 Stat. 3176, provided that: "This title \[see Tables for classification\] may be cited as the 'Economic Development Reauthorization Act of 2024'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–192, §1, Oct. 30, 2020, 134 Stat. 978, provided that: "This Act \[amending section 3211 of this title\] may be cited as the 'Reinvigorating Lending for the Future Act' or the 'RLF Act'."
@@ -78,7 +82,7 @@ Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: 
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: "That this Act \[enacting sections 3246 to 3246g of this title and sections 961 to 966 of Title 29, Labor, amending section 1244 of Title 20, Education, and sections 841, 842,844, 845, 849 to 851, 981, and 983 of Title 29, and enacting provisions set out as notes under sections 3304 of Title 26, Internal Revenue Code, and 4102 of Title 38, Veterans' Benefits\] may be cited as the 'Emergency Jobs and Unemployment Assistance Act of 1974'."
+Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: "That this Act \[enacting sections 3246 to 3246g of this title and sections 961 to 966 of Title 29, Labor, amending section 1244 of Title 20, Education, and sections 841, 842, 844, 845, 849 to 851, 981, and 983 of Title 29, and enacting provisions set out as notes under sections 3304 of Title 26, Internal Revenue Code, and 4102 of Title 38, Veterans' Benefits\] may be cited as the 'Emergency Jobs and Unemployment Assistance Act of 1974'."
 
 #### Short Title of 1971 Amendment
 
@@ -93,6 +97,164 @@ Pub. L. 91–123, title II, §201, Nov. 25, 1969, 83 Stat. 216, provided that: "
 Pub. L. 89–136, §1(a), as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597, provided that: "This Act \[enacting this chapter\] may be cited as the 'Public Works and Economic Development Act of 1965'."
 
 A prior section 1 of Pub. L. 89–136, which provided that Pub. L. 89–136 could be cited as the "Public Works and Economic Development Act of 1965", was repealed by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
+
+#### Denali Housing Fund
+
+Pub. L. 118–272, div. B, title II, §2252, Jan. 4, 2025, 138 Stat. 3211, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Eligible entity.—The term 'eligible entity' means—
+
+&emsp;&emsp;"(A) a nonprofit organization;
+
+&emsp;&emsp;"(B) a limited dividend organization;
+
+&emsp;&emsp;"(C) a cooperative organization;
+
+&emsp;&emsp;"(D) an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)); and
+
+&emsp;&emsp;"(E) a public entity, such as a municipality, county, district, authority, or other political subdivision of a State.
+
+&emsp;"(2)
+
+Federal cochair.—The term 'Federal Cochair' means the Federal Cochairperson of the Denali Commission.
+
+&emsp;"(3)
+
+Fund.—The term 'Fund' means the Denali Housing Fund established under subsection (b)(1).
+
+&emsp;"(4)
+
+Low-income.—The term 'low-income', with respect to a household means that the household income is less than 150 percent of the Federal poverty level for the State of Alaska.
+
+&emsp;"(5)
+
+Moderate-income.—The term 'moderate-income', with respect to a household, means that the household income is less than 250 percent of the Federal poverty level for the State of Alaska.
+
+&emsp;"(6)
+
+Secretary.—The term 'Secretary' means the Secretary of Agriculture.
+
+"(b)
+
+Denali Housing Fund.—
+
+&emsp;"(1)
+
+Establishment.—There shall be established in the Treasury of the United States the Denali Housing Fund, to be administered by the Federal Cochair.
+
+&emsp;"(2)
+
+Source and use of amounts in fund.—
+
+&emsp;&emsp;"(A)
+
+In general.—Amounts allocated to the Federal Cochair for the purpose of carrying out this section shall be deposited in the Fund.
+
+&emsp;&emsp;"(B)
+
+Uses.—The Federal Cochair shall use the Fund as a revolving fund to carry out the purposes of this section.
+
+&emsp;&emsp;"(C)
+
+Investment.—The Federal Cochair may invest amounts in the Fund that are not necessary for operational expenses in bonds or other obligations, the principal and interest of which are guaranteed by the Federal Government.
+
+&emsp;&emsp;"(D)
+
+General expenses.—The Federal Cochair may charge the general expenses of carrying out this section to the Fund.
+
+&emsp;"(3)
+
+Authorization of appropriations.—There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2025 through 2029.
+
+"(c)
+
+Purposes.—The purposes of this section are—
+
+&emsp;"(1) to encourage and facilitate the construction or rehabilitation of housing to meet the needs of low-income households and moderate-income households; and
+
+&emsp;"(2) to provide housing for public employees.
+
+"(d)
+
+Loans and Grants.—
+
+&emsp;"(1)
+
+In general.—The Federal Cochair may provide grants and loans from the Fund to eligible entities under such terms and conditions the Federal Cochair may prescribe.
+
+&emsp;"(2)
+
+Purpose.—The purpose of a grant or loan under paragraph (1) shall be for planning and obtaining federally insured mortgage financing or other financial assistance for housing construction or rehabilitation projects for low-income and moderate-income households in rural Alaska villages.
+
+"(e)
+
+Providing Amounts to States for Grants and Loans.—The Federal Cochair may provide amounts to the State of Alaska, or political subdivisions thereof, for making the grants and loans described in subsection (d).
+
+"(f)
+
+Loans.—
+
+&emsp;"(1)
+
+Limitation on available amounts.—A loan under subsection (d) for the cost of planning and obtaining financing (including the cost of preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts) of a project described in that subsection may be for not more than 90 percent of that cost.
+
+&emsp;"(2)
+
+Interest.—A loan under subsection (d) shall be made without interest, except that a loan made to an eligible entity established for profit shall bear interest at the prevailing market rate authorized for an insured or guaranteed loan for that type of project.
+
+&emsp;"(3)
+
+Payment.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Federal Cochair shall require payment of a loan made under this section under terms and conditions the Secretary may require by not later than the date of completion of the project.
+
+&emsp;&emsp;"(B)
+
+Cancellation.—For a loan other than a loan to an eligible entity established for profit, the Secretary may cancel any part of the debt with respect to a loan made under subsection (d) if the Secretary determines that a permanent loan to finance the project cannot be obtained in an amount adequate for repayment of a loan made under subsection (d).
+
+"(g)
+
+Grants.—
+
+&emsp;"(1)
+
+In general.—A grant under this section for expenses incidental to planning and obtaining financing for a project described in this section that the Federal Cochair considers unrecoverable from the proceeds of a permanent loan made to finance the project—
+
+&emsp;&emsp;"(A) may not be made to an eligible entity established for profit; and
+
+&emsp;&emsp;"(B) may not exceed 90 percent of those expenses.
+
+&emsp;"(2)
+
+Site development costs and offsite improvements.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Federal Cochair may make grants and commitments for grants under terms and conditions the Federal Cochair may require to eligible entities for reasonable site development costs and necessary offsite improvements, such as sewer and water line extensions, if the grant or commitment—
+
+&emsp;&emsp;&emsp;"(i) is essential to ensuring that housing is constructed on the site in the future; and
+
+&emsp;&emsp;&emsp;"(ii) otherwise meets the requirements for assistance under this section.
+
+&emsp;&emsp;"(B)
+
+Maximum amounts.—The amount of a grant under this paragraph may not—
+
+&emsp;&emsp;&emsp;"(i) with respect to the construction of housing, exceed 40 percent of the cost of the construction; and
+
+&emsp;&emsp;&emsp;"(ii) with respect to the rehabilitation of housing, exceed 10 percent of the reasonable value of the rehabilitation, as determined by the Federal Cochair.
+
+"(h)
+
+Information, Advice, and Technical Assistance.—The Federal Cochair may provide, or contract with public or private organizations to provide, information, advice, and technical assistance with respect to the construction, rehabilitation, and operation by nonprofit organizations of housing for low-income or moderate-income households, or for public employees, in rural Alaska villages under this section."
 
 #### Transition Provisions
 
@@ -124,7 +286,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 Pub. L. 116–260, div. D, title V, §505(c), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Denali Commission are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885; Pub. L. 117–58, div. A, title I, §11507(b), Nov. 15, 2021, 135 Stat. 586; Pub. L. 117–286, §4(a)(261), (262), Dec. 27, 2022, 136 Stat. 4334, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B,§1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885; Pub. L. 117–58, div. A, title I, §11507(b), Nov. 15, 2021, 135 Stat. 586; Pub. L. 117–286, §4(a)(261), (262), Dec. 27, 2022, 136 Stat. 4334; Pub. L. 118–272, div. B, title II, §2251, Jan. 4, 2025, 138 Stat. 3210, provided that:
 
 #### "SEC. 301. SHORT TITLE.
 
@@ -178,7 +340,7 @@ In general.—The President pro temporare \[sic\] of the Senate and the Speaker 
 
 &emsp;&emsp;"(B)
 
-Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list ofnominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
+Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
 
 &emsp;&emsp;"(C)
 
@@ -256,7 +418,7 @@ Disclosure.—Paragraph (1) shall not apply if the member—
 
 &emsp;&emsp;"(B) makes full disclosure of the financial interest; and
 
-&emsp;&emsp;"(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the designated agency ethics official for the Commission that the interest is not so substantial as to be likely to affect the integrity of the services that the Commission may expect from the member. The written determination shall specify the rationale and any evidence or support for the decision, identify steps, if any, that should be taken to mitigate any conflict of interest, and be available to the public.
+&emsp;&emsp;"(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the designated agency ethics official for the Commission that the interest is notso substantial as to be likely to affect the integrity of the services that the Commission may expect from the member. The written determination shall specify the rationale and any evidence or support for the decision, identify steps, if any, that should be taken to mitigate any conflict of interest, and be available to the public.
 
 &emsp;"(3)
 
@@ -356,13 +518,17 @@ Conditional.—With respect to conditional gifts—
 
 &emsp;&emsp;"(B) no gift shall be accepted that is conditioned on any expenditure not to be funded from the gift or from the income generated by the gift unless the expenditure has been approved by Act of Congress.
 
-"(d) The Commission, acting through the Federal Cochairperson, is authorized to enter into contracts and cooperative agreements, award grants, and make payments necessary to carry out the purposes of the Commission. With respect to funds appropriated to the Commission for fiscal year 1999, the Commission, acting through the Federal Cochairperson, is authorized to enter into contracts and cooperative agreements, award grants, and make payments to implement an interim work plan for fiscal year 1999 approved by the Commission.
+"(d) The Commission, acting through the Federal Cochairperson, is authorized to enter into contracts and cooperative agreements, award grants, enter into leases (including the lease of office space for any term), and make payments necessary to carry out the purposes of the Commission. With respect to funds appropriated to the Commission for fiscal year 1999, the Commission, acting through the Federal Cochairperson, is authorized to enter into contracts and cooperative agreements, award grants, and make payments to implement an interim work plan for fiscal year 1999 approved by the Commission.
+
+"(e)
+
+Use of Funds Toward Non-Federal Share of Certain Projects.—Notwithstanding any other provision of law regarding payment of a non-Federal share in connection with a grant-in-aid program, the Commission may use amounts made available to the Commission for the payment of such a non-Federal share for programs undertaken to carry out the purposes of the Commission.
 
 #### "SEC. 306. COMMISSION PERSONNEL MATTERS.
 
 "(a)
 
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall becompensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
 "(b)
 
@@ -404,25 +570,21 @@ Inspector General.—\[Amended section 8G of the Inspector General Act, 5 U.S.C.
 
 "(a)
 
-Rural Utilities.—In carrying out its functions under this title, the Commission shall as appropriate, provide assistance, seek to avoid duplicating services and assistance, and complement the water and sewer wastewater programs under section 306D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926d) and section 303 of the Safe Drinking Water Act Amendments of 1996 (33 U.S.C. 1263a).
-
-"(b)
-
 Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
 
 &emsp;"(1) Federal law, including the Oil Pollution Act of 1990 (104 Stat. 484) \[33 U.S.C. 2701 et seq.\]; or
 
 &emsp;"(2) State law.
 
-"(c)
+"(b)
 
 Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make interagency transfers to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shall exceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
+"(c)
+
+Solid Waste.—The Secretary of Agriculture is authorized to make direct lump sum payments, including interagency transfers, which shall remain available until expended to the Denali Commission to address deficiencies in solid waste disposal sites which threaten to contaminate rural drinking water supplies.
+
 "(d)
-
-Solid Waste.—The Secretary of Agriculture is authorized to make direct lump sum payments which shall remain available until expended to the Denali Commission to address deficiencies in solid waste disposal sites which threaten to contaminate rural drinking water supplies.
-
-"(e)
 
 Docks, Waterfront Transportation Development, and Related Infrastructure Projects.—The Secretary of Transportation is authorized to make direct lump sum payments to the Commission to construct docks, waterfront development projects, and related transportation infrastructure, provided the local community provides a ten percent non-Federal match in the form of any necessary land or planning and design funds. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
@@ -470,7 +632,7 @@ Initial members.—Except for the chairman of the Commission, of the eight initi
 
 Responsibilities.—The advisory committee shall be responsible for the following activities:
 
-&emsp;&emsp;"(A) Advising the Commission on the surface transportation needs of Alaska Native villages and rural communities, including projects for the construction of essential access routes within remote Alaska Native villages and rural communities and for the construction of roads and facilities necessary to connect isolated rural communities to a road system.
+&emsp;&emsp;"(A) Advising the Commission on the surface transportation needs of Alaska Native villages and rural communities, including projects for the construction of essential access routes within remote Alaska Native villages and rural communities andfor the construction of roads and facilities necessary to connect isolated rural communities to a road system.
 
 &emsp;&emsp;"(B) Advising the Commission on considerations for coordinatedtransportation \[sic\] planning among the Alaska Native villages, Alaska rural villages, the State of Alaska, and other government entities.
 
@@ -492,7 +654,7 @@ Allocation of Funds.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall allocate funding authorized and made available for the Denali access system program to the Commission to carry out this section.
+In general.—The Secretary of Transportation shall allocate funding authorized and made available for the Denali access system program to the Commission to carry out this section.
 
 &emsp;"(2)
 
@@ -576,7 +738,7 @@ In General.—Subject to subsection (c), for purposes of this Act \[probably mea
 
 "(b)
 
-Transfers.—Any Federal agency authorized to carry out an activity that is within the authority of the Commission may transfer to the Commission any appropriated funds for the activity.
+Transfers.—Any Federal agency authorized to carry out an activity that is within the authority ofthe Commission may transfer to the Commission any appropriated funds for the activity.
 
 "(c)
 
@@ -596,7 +758,7 @@ Treatment.—Any funds transferred to the Commission under this subsection—
 
 "(a)
 
-In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 304, $15,000,000 for each of fiscal years 2017 through 2021.
+In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 304, $35,000,000 for each of fiscal years 2025 through 2029.
 
 "(b)
 
@@ -608,7 +770,7 @@ Availability.—Any sums appropriated under the authorization contained in this 
 
 #### Lower Mississippi Delta Development Commission
 
-Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, §6025(c), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, §4(a), title VI, §6025(c), June 18, 2008, 122 Stat. 1664, 1939, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
+Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, §6025(c), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, §4(a), title VI, §6025(c), June 18, 2008, 122 Stat. 1664, 1939; Pub. L. 118–272, div. B, title II, §2253(f), Jan. 4, 2025, 138 Stat. 3213, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
 
 Prior to amendment by Pub. L. 106–554, Pub. L. 100–460 also incorporated by reference and made a part of that public law the provisions of H.R. 5378, as introduced in the House of Representatives on Sept. 26, 1988, and known as the "Lower Mississippi Delta Development Act", which contained provisions similar to those in S. 2836.
 

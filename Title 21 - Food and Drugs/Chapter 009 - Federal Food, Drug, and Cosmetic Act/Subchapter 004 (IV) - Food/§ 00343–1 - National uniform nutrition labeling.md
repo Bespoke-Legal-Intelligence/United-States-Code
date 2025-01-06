@@ -52,7 +52,7 @@ Amendment by Pub. L. 108–282 applicable to any food that is labeled on or afte
 
 #### Effective Date
 
-Pub. L. 101–535, §10(b), Nov. 8, 1990, 104 Stat. 2366, as amended by Pub. L. 102–571, title I, §107(16), title II, §202(a)(4), Oct. 29, 1992, 106 Stat. 4499, 4501, provided that:
+Pub. L. 101–535, §10(b), Nov. 8, 1990, 104 Stat. 2366, as amended by Pub. L. 102–571, title I, §107(16), title II,§202(a)(4), Oct. 29, 1992, 106 Stat. 4499, 4501, provided that:
 
 "(1)
 

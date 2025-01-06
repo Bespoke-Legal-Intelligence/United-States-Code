@@ -78,7 +78,7 @@ Pub. L. 112–154, title V, §504(c), Aug. 6, 2012, 126 Stat. 1192, provided tha
 
 "(1)
 
-In general.—The amendments made by subsection (a) \[amending this section\] shall take effect onthe date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to notification obligations of the Secretary of Veterans Affairs on or after such date.
+In general.—The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to notification obligations of the Secretary of Veterans Affairs on or after such date.
 
 "(2)
 
@@ -90,7 +90,7 @@ Amendment effective as if enacted Nov. 9, 2000, immediately after the enactment 
 
 #### Construction
 
-Pub. L. 112–154, title V, §504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\]."
+Pub. L. 112–154, title V, §504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulationsprescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\]."
 
 #### Applicability of Regulations
 

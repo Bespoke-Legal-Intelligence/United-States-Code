@@ -48,7 +48,7 @@ Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 19
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1906(d) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 #### Effective Date of 1970 Amendment
 

@@ -150,7 +150,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[June 10, 2014\], the Administrator, in consultation with the Secretary of Agriculture, shall conduct a study to determine the appropriate exemption under paragraphs (2) and (3) of subsection (b), which shall be not more than 6,000 gallons and not less than 2,500 gallons, based on a significant risk of discharge to water.
+In general.—Not later than 1 year after the date of enactment of this Act \[June 10, 2014\], the Administrator, in consultation with the Secretary of Agriculture, shall conduct a study to determine the appropriate exemption under paragraphs (2) and (3) ofsubsection (b), which shall be not more than 6,000 gallons and not less than 2,500 gallons, based on a significant risk of discharge to water.
 
 &emsp;"(2)
 

@@ -6,7 +6,7 @@ The President shall establish a Hostage Response Group, chaired by a designated 
 
 #### (b) Membership
 
-The regular members of the Hostage Response Group shall include the Director of the HostageRecovery Fusion Cell, the Hostage Recovery Fusion Cell's Family Engagement Coordinator, the Special Envoy appointed pursuant to section 1741a of this title, and representatives from the Department of the Treasury, the Department of Defense, the Department of Justice, the Federal Bureau of Investigation, the Office of the Director of National Intelligence, the Central Intelligence Agency, and other agencies as the President, from time to time, may designate.
+The regular members of the Hostage Response Group shall include the Director of the Hostage Recovery Fusion Cell, the Hostage Recovery Fusion Cell's Family Engagement Coordinator, the Special Envoy appointed pursuant to section 1741a of this title, and representatives from the Department of the Treasury, the Department of Defense, the Department of Justice, the Federal Bureau of Investigation, the Office of the Director of National Intelligence, the Central Intelligence Agency, and other agencies as the President, from time to time, may designate.
 
 #### (c) Duties
 
@@ -16,7 +16,7 @@ The Hostage Recovery Group shall—
 
 &emsp;(2) coordinate the development and implementation of United States hostage recovery policies, strategies, and procedures;
 
-&emsp;(3) receive regular updates from the Hostage Recovery Fusion Cell and the Special Envoy for Hostage Affairs on the status of United States nationals being held hostage or unlawfully or wrongfully detained abroad and measures being taken to effect safe recoveries;
+&emsp;(3) receive regular updates from the Hostage Recovery Fusion Cell and the Special Envoy for Hostage Affairs on the status of UnitedStates nationals being held hostage or unlawfully or wrongfully detained abroad and measures being taken to effect safe recoveries;
 
 &emsp;(4) coordinate the provision of policy guidance to the Hostage Recovery Fusion Cell, including reviewing recovery options proposed by the Hostage Recovery Fusion Cell and working to resolve disputes within the Hostage Recovery Fusion Cell;
 

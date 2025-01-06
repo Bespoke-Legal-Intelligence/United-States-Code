@@ -22,7 +22,7 @@ Another prior section 11431, Pub. L. 100–77, title VII, §721, July 22, 1987, 
 
 #### Amendments
 
-<b>2015</b>—Par. (2). Pub. L. 114–95, §9101(1), substituted "In any State where compulsory residency requirements or other requirements, in laws, regulations, practices, or policies, may act as a barrier to the identification of, or the enrollment, attendance, or success in school of, homeless children and youths, the State educational agency and local educational agencies in the State will review" for "In any State that has a compulsory residency requirement as a component of the State's compulsory school attendance laws or other laws, regulations, practices, or policies that may act as a barrier to the enrollment, attendance, or success in school of homeless children and youths, the State will review".
+<b>2015</b>—Par. (2). Pub. L. 114–95, §9101(1), substituted "In any State where compulsory residency requirements or other requirements, in laws, regulations, practices, or policies, may act as a barrier to the identification of,or the enrollment, attendance, or success in school of, homeless children and youths, the State educational agency and local educational agencies in the State will review" for "In any State that has a compulsory residency requirement as a component of the State's compulsory school attendance laws or other laws, regulations, practices, or policies that may act as a barrier to the enrollment, attendance, or success in school of homeless children and youths, the State will review".
 
 Par. (3). Pub. L. 114–95, §9101(2), struck out "alone" after "Homelessness".
 

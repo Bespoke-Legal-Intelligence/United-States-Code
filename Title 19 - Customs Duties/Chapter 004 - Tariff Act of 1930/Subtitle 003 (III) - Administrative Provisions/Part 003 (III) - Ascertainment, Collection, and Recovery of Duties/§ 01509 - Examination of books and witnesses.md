@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with the laws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
+In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of anyperson for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with the laws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
 
 &emsp;(1) examine, or cause to be examined, upon reasonable notice, any record (which for purposes of this section, includes, but is not limited to, any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry, except that—
 
@@ -114,7 +114,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (1) In general
 
-&emsp;After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph (2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
+&emsp;After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph\(2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
 
 #### (2) Certification
 
@@ -208,7 +208,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeatedviolations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
+&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
 (June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992; Pub. L. 116–113, title II, §209(b), Jan. 29, 2020, 134 Stat. 52.)
 

@@ -214,7 +214,7 @@ Matters to be included.—The report required by paragraph (1) shall include the
 
 &emsp;&emsp;"(B) An analysis of any barrier to implementation of such authority for the purpose of promoting increased use of NASA rocket propulsion test infrastructure."
 
-\[For definitions of terms used in section 10813 of Pub. L. 116–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+\[For definitions of terms used in section 10813 of Pub. L. 116–167, set out above, see section 10802 of Pub. L.117–167, set out as a Definitions note under section 10101 of this title.\]
 
 #### Search for Life
 
@@ -446,7 +446,7 @@ Exploration Missions.—The Administrator shall continue development of—
 
 &emsp;"(1) an uncrewed exploration mission to demonstrate the capability of both the Space Launch System and Orion as an integrated system by 2018;
 
-&emsp;"(2) subject to applicable human rating processes and requirements, a crewed exploration mission todemonstrate the Space Launch System, including the Core Stage and Exploration Upper Stages, by 2021;
+&emsp;"(2) subject to applicable human rating processes and requirements, a crewed exploration mission to demonstrate the Space Launch System, including the Core Stage and Exploration Upper Stages, by 2021;
 
 &emsp;"(3) subsequent missions beginning with Artemis III at operational flight rate sufficient to maintain safety and operational readiness using the Space Launch System and Orion to extend into cis-lunar space and eventually to Mars; and
 

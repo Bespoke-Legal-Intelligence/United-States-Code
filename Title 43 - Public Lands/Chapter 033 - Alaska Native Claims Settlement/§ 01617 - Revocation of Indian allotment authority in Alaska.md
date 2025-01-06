@@ -10,7 +10,7 @@ Any allotments approved pursuant to this section during the four years following
 
 #### (c) Relocation of allotment
 
-(1)(A) Notwithstanding any other provision of law, an allotment applicant, who had a valid application pending before the Department of the Interior on December 18, 1971, and whose application remains pending as of October 14, 1992, may amend the land description in the application of the applicant (with the advice and approval of the responsible officer of the Bureau of Indian Affairs) to describe land other than the land that the applicant originally intended to claim if—
+(1)(A) Notwithstanding any other provision of law, an allotment applicant, who had a valid application pending before the Department of the Interior on December 18, 1971, and whose application remains pending as of October 14, 1992, may amend the land description in the application of the applicant (with the advice and approval of the responsible officer of the Bureau of Indian Affairs) to describe land other than theland that the applicant originally intended to claim if—
 
 &emsp;(i) the application pending before the Department, either describes land selected by, tentatively approved to, or patented to the State of Alaska or otherwise conflicts with an interest in land granted to the State of Alaska by the United States prior to the filing of the allotment application;
 
@@ -52,7 +52,7 @@ Any allotments approved pursuant to this section during the four years following
 
 &emsp;(A) the application—
 
-&emsp;&emsp;(i) describes land selected by or conveyed by interim conveyance or patent to a NativeCorporation formed to receive benefits under this chapter; or
+&emsp;&emsp;(i) describes land selected by or conveyed by interim conveyance or patent to a Native Corporation formed to receive benefits under this chapter; or
 
 &emsp;&emsp;(ii) otherwise conflicts with an interest in land granted to a Native Corporation by the United States;
 
@@ -70,7 +70,7 @@ Any allotments approved pursuant to this section during the four years following
 
 &emsp;(C) that the proposed revision will facilitate completion of a land transfer in the State.
 
-(3)(A) On obtaining title evidence acceptable under Department of Justice title standards and acceptance of a reconveyance or relinquishment from a Native Corporation under paragraph (1), the Secretary shall issue a Native allotment certificate to the applicant for the land reconveyed or relinquished by the Native Corporation.
+(3)(A) On obtaining title evidence acceptable under Department of Justice title standards andacceptance of a reconveyance or relinquishment from a Native Corporation under paragraph (1), the Secretary shall issue a Native allotment certificate to the applicant for the land reconveyed or relinquished by the Native Corporation.
 
 (B) Any allotment revised under this section shall, when allotted, be made subject to any easement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
 
@@ -122,7 +122,7 @@ In General.—In lieu of the process for the correction of conveyance documents 
 
 "(b)
 
-Certificate of Allotment.—If the United States determines that the allotment application isvalid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act (42 U.S.C. 1634) had the land described in the allotment application been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
+Certificate of Allotment.—If the United States determines that the allotment application is valid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act (42 U.S.C. 1634) had the land described in the allotment application been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
 
 "(c)
 

@@ -48,7 +48,7 @@ Of the amounts authorized to be appropriated pursuant to subsection (h), not mor
 
 #### (A) In general
 
-&emsp;&emsp;Amounts authorized to be appropriated for each fiscal year pursuant to subsection (h) are authorized to be made available after the Secretary of State, in coordination with the Secretary of Defense, certifies not later than 1 year after December 22, 2023, and not less than annually to the appropriate committees of Congress that Taiwan has increased its defense spending relative to Taiwan's defense spending in its prior fiscal year, which includes support for an asymmetric strategy, excepting accounts in Taiwan's defense budget related to personnel expenditures, (other than military training and education and any funding related to the All-Out Defense Mobilization Agency).
+&emsp;&emsp;Amounts authorized to be appropriated for each fiscal year pursuant to subsection (h) are authorized to be made available after the Secretary of State, in coordination with the Secretary of Defense, certifies not later than 1 year after December 22, 2023, and not lessthan annually to the appropriate committees of Congress that Taiwan has increased its defense spending relative to Taiwan's defense spending in its prior fiscal year, which includes support for an asymmetric strategy, excepting accounts in Taiwan's defense budget related to personnel expenditures, (other than military training and education and any funding related to the All-Out Defense Mobilization Agency).
 
 #### (B) Waiver
 
@@ -166,7 +166,7 @@ Of the amounts authorized to be appropriated pursuant to subsection (h), not mor
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 23(c)(1) of the Arms Export Control Act (22 U.S.C. 2763), during fiscal years 2023 through 2027, theSecretary of State is authorized to make direct loans available for Taiwan pursuant to section 23 of such Act.
+&emsp;&emsp;Notwithstanding section 23(c)(1) of the Arms Export Control Act (22 U.S.C. 2763), during fiscal years 2023 through 2027, the Secretary of State is authorized to make direct loans available for Taiwan pursuant to section 23 of such Act.
 
 #### (B) Maximum obligations
 

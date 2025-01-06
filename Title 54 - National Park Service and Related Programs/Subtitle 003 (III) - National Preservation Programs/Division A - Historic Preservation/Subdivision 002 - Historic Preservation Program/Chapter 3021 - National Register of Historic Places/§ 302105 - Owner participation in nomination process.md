@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—The Secretary shall promulgate regulations requiring that before any property may be included on the National Register or designated as a National Historic Landmark, the owner of the property, or a majority of the owners of the individual properties within a district in the case of a historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property for inclusion or designation. The regulations shall include provisions to carry out this section in the case of multiple ownership of a single property.
+Regulations.—The Secretary shall promulgate regulations requiring that before anyproperty may be included on the National Register or designated as a National Historic Landmark, the owner of the property, or a majority of the owners of the individual properties within a district in the case of a historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property for inclusion or designation. The regulations shall include provisions to carry out this section in the case of multiple ownership of a single property.
 
 (b)
 

@@ -114,7 +114,7 @@ Nothing in this section affects—
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classifiedgenerally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (c)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16 and Tables.
 
@@ -148,7 +148,7 @@ Subsecs. (e)(1), (2), (f)(1), (h). Pub. L. 113–291, §3021(a)(2), substituted 
 
 Subsec. (h)(6). Pub. L. 113–291, §3021(a)(6), added par. (6) and struck out former par. (6) which read as follows: "the States of Wyoming, Montana, Colorado, Utah, and New Mexico."
 
-Subsec. (i). Pub. L. 113–291, §3021(a)(7), (8), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text read as follows: "During the period in which the Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations."
+Subsec. (i). Pub. L. 113–291, §3021(a)(7), (8), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text read as follows: "During theperiod in which the Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations."
 
 Pub. L. 113–291, §3021(a)(2), substituted "Project" for "Pilot Project".
 

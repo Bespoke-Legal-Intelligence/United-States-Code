@@ -1,6 +1,6 @@
 ### §19057. Food-energy-water research
 
-The Director shall make awards on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to—
+The Director shall make awards on a competitive basis to institutions of higher education ornon-profit organizations (or consortia of such institutions or organizations) to—
 
 &emsp;(1) support research to significantly advance our understanding of the food-energy-water system through quantitative and computational modeling, including support for relevant cyberinfrastructure;
 

@@ -74,7 +74,7 @@ Intrastate Pipeline Facilities.—In the case of an intrastate pipeline facility
 
 Covered Task Defined.—In this section, the term "covered task"—
 
-&emsp;(1) with respect to a gas pipeline facility, has the meaning such term has under section 192.801 of title 49, Code of Federal Regulations, including any subsequent modifications; and
+&emsp;(1) with respect to a gas pipeline facility, has the meaning such term has under section192.801 of title 49, Code of Federal Regulations, including any subsequent modifications; and
 
 &emsp;(2) with respect to a hazardous liquid pipeline facility, has the meaning such term has under section 195.501 of such title, including any subsequent modifications.
 

@@ -6,7 +6,7 @@ Congress finds that Venezuela's unicameral National Assembly convened on January
 
 #### (b) Sense of Congress
 
-It is the sense of Congress that Venezuela's democratically elected National Assembly is the only national level democratic institution remaining in the country.
+It is the sense of Congress that Venezuela's democratically elected National Assembly is theonly national level democratic institution remaining in the country.
 
 #### (c) Policy
 

@@ -114,7 +114,7 @@ Reporting company.—The term "reporting company"—
 
 &emsp;&emsp;&emsp;&emsp;(III) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a));
 
-&emsp;&emsp;&emsp;(iv) a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752));
+&emsp;&emsp;&emsp;(iv) a Federal credit union or a State credit union (as those terms are defined insection 101 of the Federal Credit Union Act (12 U.S.C. 1752));
 
 &emsp;&emsp;&emsp;(v) a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)) or a savings and loan holding company (as defined in section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)));
 
@@ -312,7 +312,7 @@ Reporting requirement for certain pooled investment vehicles.—Any corporation,
 
 &emsp;&emsp;(D)
 
-Reporting requirement for exempt subsidiaries.—In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall,at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
+Reporting requirement for exempt subsidiaries.—In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
 
 &emsp;&emsp;(E)
 
@@ -466,7 +466,7 @@ Appropriate protocols.—The Secretary of the Treasury shall establish by regula
 
 &emsp;&emsp;(I) require that the requesting agency receiving beneficial ownership information from the Secretary conduct an annual audit to verify that the beneficial ownership information received from the Secretary has been accessed and used appropriately, and in a manner consistent with this paragraph and provide the results of that audit to the Secretary upon request;
 
-&emsp;&emsp;(J) require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requestingand using beneficial ownership information appropriately; and
+&emsp;&emsp;(J) require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requesting and using beneficial ownership information appropriately; and
 
 &emsp;&emsp;(K) provide such other safeguards which the Secretary determines (and which the Secretary prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the beneficial ownership information.
 
@@ -548,7 +548,7 @@ In general.—Not later than March 31 of each year for 5 years beginning in 2022
 
 &emsp;&emsp;&emsp;(ii) the adequacy of appropriations for FinCEN in the current and the previous fiscal year to—
 
-&emsp;&emsp;&emsp;&emsp;(I) ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act arecompleted as efficiently, effectively, and expeditiously as possible; and
+&emsp;&emsp;&emsp;&emsp;(I) ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act are completed as efficiently, effectively, and expeditiously as possible; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
@@ -664,7 +664,7 @@ Unauthorized disclosure or use violations.—Any person that violates paragraph 
 
 &emsp;&emsp;&emsp;(ii)(I) shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both; or
 
-&emsp;&emsp;&emsp;(II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
+&emsp;&emsp;&emsp;(II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be finednot more than $500,000, imprisoned for not more than 10 years, or both.
 
 &emsp;&emsp;(C)
 

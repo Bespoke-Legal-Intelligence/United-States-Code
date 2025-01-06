@@ -10,7 +10,7 @@ In considering programs and projects to be provided assistance under this subcha
 
 &emsp;(3) the financial resources available to the applicants for assistance seeking to carry out the project, with emphasis on ensuring that projects are adequately financed to maximize the probability of successful economic development;
 
-&emsp;(4) the importance of the project or class of projects in relation to other projects or classesof projects that may be in competition for the same funds;
+&emsp;(4) the importance of the project or class of projects in relation to other projects or classes of projects that may be in competition for the same funds;
 
 &emsp;(5) the prospects that the project for which assistance is sought will improve, on a continuing rather than a temporary basis, the opportunities for employment, the average level of income, or the economic development of the area to be served by the project; and
 

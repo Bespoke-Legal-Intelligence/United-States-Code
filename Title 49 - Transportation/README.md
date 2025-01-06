@@ -13,12 +13,7 @@
 | <b>VI.</b> | <b>MOTOR VEHICLE AND DRIVER PROGRAMS</b> | <b>30101</b> |
 | <b>VII.</b> | <b>AVIATION PROGRAMS</b> | <b>40101</b> |
 | <b>VIII.</b> | <b>PIPELINES</b> | <b>60101</b> |
-| <b>IX.</b> | <b>Multimodal Freight Transportation </b><b><sup>1</sup></b> | <b>70101</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| <b>IX.</b> | <b>MULTIMODAL FREIGHT TRANSPORTATION</b> | <b>70101</b> |
 | <b>X.</b> | <b>MISCELLANEOUS</b> | <b>80101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,6 +21,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–63, title XI, §1101(a), May 16, 2024, 138 Stat. 1413, substituted "MULTIMODAL FREIGHT TRANSPORTATION" for "Multimodal Freight Transportation" in item for subtitle IX.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title VIII, §8001(b), Dec. 4, 2015, 129 Stat. 1612, substituted "Multimodal Freight Transportation . . .70101" for "\[TRANSFERRED\]" in item for subtitle IX.
 
@@ -7597,11 +7594,11 @@ Pub. L. 97–449, §6, Jan. 12, 1983, 96 Stat. 2443, provided that:
 
 Pub. L. 96–258, §2, June 3, 1980, 94 Stat. 427, provided that:
 
-"(a) Section 1 of this Act \[enacting section 11351 of this title and amending sections 10324, 10327, 10382, 10525, 10526, 10544, 10706, 10784, 10923, 11101, 11121, 11304, 11707, 11909, 11912, and 11914 of this title\] restates, without substantive change, laws enacted before April 24, 1979, that were replaced by that section. That section may not be construed as making a substantive change in the laws replaced. Laws enacted after April 23, 1979, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
+"(a) Section 1 of this Act \[enacting section 11351 of this title and amending sections 10324, 10327, 10382, 10525, 10526, 10544, 10706, 10784, 10923, 11101, 11121, 11304, 11707, 11909, 11912, and 11914 of this title\] restates, without substantive change, laws enacted before April 24, 1979, that were replaced by that section. That section may not be construed as making a substantive change in the laws replaced. Laws enacted after April 23, 1979,that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
 "(b) A reference to a law replaced by section 1 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-"(c) An order, rule, or regulation in effect under a law replaced by section 1 of this Act continues in effectunder the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(c) An order, rule, or regulation in effect under a law replaced by section 1 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
 "(d) An action taken or an offense committed under a law replaced by section 1 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
@@ -7662,8 +7659,6 @@ Pub. L. 95–473, §4(c), Oct. 17, 1978, 92 Stat. 1470, which provided that the 
 #### Effective Date of Certain Repeals
 
 Pub. L. 95–473, §4(d), Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97–449, §4(b)(3), Jan. 12, 1983, 96 Stat. 2441, provided that: "The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978."
-
-<i><sup>1</sup></i><i> So in original. Probably should be uppercase.</i>
 
 
 ---

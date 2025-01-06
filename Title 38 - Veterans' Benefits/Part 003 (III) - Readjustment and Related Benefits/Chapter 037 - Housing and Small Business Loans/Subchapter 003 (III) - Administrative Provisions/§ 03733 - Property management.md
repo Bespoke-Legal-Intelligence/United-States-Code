@@ -86,7 +86,7 @@ Subsec. (c)(2). Pub. L. 108–183, §404(b)(1)(A), struck out "of this subsectio
 
 <b>1998</b>—Subsec. (a)(6). Pub. L. 105–368, §602(e)(1)(E), substituted "Veterans Housing Benefit Program Fund established by section 3722(a)" for "Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a)".
 
-Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: "Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
+Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: "Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, withoutany reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
 &emsp;"(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
 
@@ -102,7 +102,7 @@ Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted "3710(a)" for "1810(a)"
 
 Subsec. (a)(2). Pub. L. 102–54, §2(a), added par. (2) and struck out former par. (2) which read as follows: "In carrying out paragraph (1) of this subsection, the Secretary, to the maximum extent consistent with that paragraph and with maintaining the effective functioning of the loan guaranty program under this chapter, shall minimize the number of loans made by the Secretary to finance purchases of real property from the Secretary described in that paragraph."
 
-Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales beforeOct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans' Affairs of Senate and House of Representatives.
+Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans' Affairs of Senate and House of Representatives.
 
 Subsec. (a)(6). Pub. L. 102–83, §5(c)(1), substituted "3724(a)" for "1824(a)".
 
@@ -176,7 +176,7 @@ Pub. L. 102–54, §14(g)(1), June 13, 1991, 105 Stat. 288, provided that the am
 
 Pub. L. 101–239, title V, §5003(b), Dec. 19, 1989, 103 Stat. 2137, provided that: "Subsection (e) of section 1833 \[now 3733\] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989."
 
-Pub. L. 101–237, title III, §305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], no provision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect."
+Pub. L. 101–237, title III, §305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], noprovision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect."
 
 Pub. L. 101–237, title III, §305(b)(2), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "Subsection (e) of section 1833 \[now 3733\] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989."
 

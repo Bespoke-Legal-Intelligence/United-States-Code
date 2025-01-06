@@ -64,7 +64,7 @@ Requirement.—To the extent practicable, in carrying out subparagraph (A), the 
 
 #### (b) Emergency situations
 
-The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation (including an emergency situation resulting from a cybersecurity event) affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health, including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
+The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation (including an emergency situation resulting from a cybersecurity event) affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health, including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the publichealth in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
 
 #### (c) Establishment of training programs and grants for training; training fees
 
@@ -92,7 +92,7 @@ There is authorized to be appropriated to carry out subsection (b) $35,000,000 f
 
 (1) The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations.
 
-(2) Such assistance may include circuit-rider and multi-State regional technical assistanceprograms, training, and preliminary engineering evaluations.
+(2) Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations.
 
 (3) The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State.
 
@@ -170,7 +170,7 @@ Subsec. (e)(8). Pub. L. 114–98, §4(3), added par. (8).
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–188, §403(4)(A), which directed substitution of "this subsection" for "this subparagraph", was executed by making the substitution in three places to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating toauthorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
+Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: "(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title)."
 
@@ -236,7 +236,7 @@ Pub. L. 114–322, title II, §2109(c), Dec. 16, 2016, 130 Stat. 1729, provided 
 
 Pub. L. 114–98, §2, Dec. 11, 2015, 129 Stat. 2199, provided that: "Congress finds that—
 
-&emsp;"(1) the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[see Short Title of 1996 Amendments note set out under section 201 of this title\] authorized technical assistance for small andrural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
+&emsp;"(1) the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[see Short Title of 1996 Amendments note set out under section 201 of this title\] authorized technical assistance for small and rural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
 
 &emsp;"(2) technical assistance and compliance training—
 

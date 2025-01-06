@@ -22,5 +22,5 @@ Funds in an Americas Fund shall be disbursed only pursuant to an Americas Framew
 
 #### Prior Provisions
 
-A prior section 707 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, amended section 1783 of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected section 1783.
+A prior section 707 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, amended section 1783 of this title,prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected section 1783.
 

@@ -300,7 +300,7 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 #### (II) Requirement for review
 
-&emsp;&emsp;&emsp;&emsp;Prior to any determination to suspend participation of an institution undersubclause (I), the State agency shall provide for an independent review of the proposed suspension in accordance with subclause (III).
+&emsp;&emsp;&emsp;&emsp;Prior to any determination to suspend participation of an institution under subclause (I), the State agency shall provide for an independent review of the proposed suspension in accordance with subclause (III).
 
 #### (III) Review procedure
 
@@ -372,7 +372,7 @@ Fraud or abuse.—
 
 &emsp;&emsp;(i)
 
-In general.—The State may recover funds disbursed under subparagraph (A) to an institution if the State determines that the institution has engaged in fraud or abuse with respect to the program or has submitted an invalid claim for reimbursement.
+In general.—The State may recover funds disbursed under subparagraph (A) toan institution if the State determines that the institution has engaged in fraud or abuse with respect to the program or has submitted an invalid claim for reimbursement.
 
 &emsp;&emsp;(ii)
 
@@ -458,7 +458,7 @@ Adjustments.—The factors shall be adjusted on July 1, 1997, and each July 1 th
 
 &emsp;&emsp;&emsp;&emsp;(cc)
 
-Reimbursement.—A family or group day care home shall be providedreimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title.
+Reimbursement.—A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -502,7 +502,7 @@ Simplified meal counting and reporting procedures.—The Secretary shall prescri
 
 &emsp;&emsp;&emsp;&emsp;(aa) Setting an annual percentage for each home of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under clause (ii)(III) and an annual percentage of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under subclause (I), based on the family income of children enrolled in the home in a specified month or other period.
 
-&emsp;&emsp;&emsp;&emsp;(bb) Placing a home into 1 of 2 or more reimbursement categories annually based on the percentage of children in the home whose households have incomes that meet the income eligibility guidelines under section 1758 of this title, with each such reimbursement category carrying a set of reimbursement factors such as the factors prescribed under clause (ii)(III) or subclause (I) or factors established within the range of factors prescribed under clause (ii)(III) and subclause (I).
+&emsp;&emsp;&emsp;&emsp;(bb) Placing a home into 1 of 2 or more reimbursement categories annually based on the percentage of children in the home whose households have incomes that meet the income eligibility guidelines under section 1758 of this title, with each such reimbursement category carrying a set of reimbursementfactors such as the factors prescribed under clause (ii)(III) or subclause (I) or factors established within the range of factors prescribed under clause (ii)(III) and subclause (I).
 
 &emsp;&emsp;&emsp;&emsp;(cc) Such other simplified procedures as the Secretary may prescribe.
 
@@ -570,7 +570,7 @@ Use of data from preceding school year.—In determining for a fiscal year or ot
 
 Duration of determination.—For purposes of this section, a determination that a family or group day care home is located in an area that qualifies the home as a tier I family or group day care home (as the term is defined in subparagraph (A)(ii)(I)), shall be in effect for 5 years (unless the determination is made on the basis of census data, in which case the determination shall remain in effect until more recent census data are available) unless the State agency determines that the area in which the home is located no longer qualifies the home as a tier I family or group day care home.
 
-(4) By the first day of each month of operation, the State may provide advance paymentsfor the month to each approved institution in an amount that reflects the full level of valid claims customarily received from such institution for one month's operation. In the case of a newly participating institution, the amount of the advance shall reflect the State's best estimate of the level of valid claims such institutions will submit. If the State has reason to believe that an institution will not be able to submit a valid claim covering the period for which such an advance has been made, the subsequent month's advance payment shall be withheld until the State receives a valid claim. Payments advanced to institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance payment.
+(4) By the first day of each month of operation, the State may provide advance payments for the month to each approved institution in an amount that reflects the full level of valid claims customarily received from such institution for one month's operation. In the case of a newly participating institution, the amount of the advance shall reflect the State's best estimate of the level of valid claims such institutions will submit. If the State has reason to believe that an institution will not be able to submit a valid claim covering the period for which such an advance has been made, the subsequent month's advance payment shall be withheld until the State receives a valid claim. Payments advanced to institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance payment.
 
 #### (g) Nutritional requirements for meals and snacks served in institutions and family or group day care homes
 
@@ -752,7 +752,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 (B) The guidelines shall contain provisions designed to assure that reimbursement under this subsection shall not duplicate reimbursement under part C of title III of the Older Americans Act of 1965 \[42 U.S.C. 3030e et seq.\], for the same meal served.
 
-(4) For the purpose of establishing eligibility for free or reduced price meals or supplements under this subsection, income shall include only the income of an eligible person and, if any, the spouse and dependents with whom the eligible person resides.
+(4) For the purpose of establishing eligibility for free or reduced price meals or supplementsunder this subsection, income shall include only the income of an eligible person and, if any, the spouse and dependents with whom the eligible person resides.
 
 (5) A person described in paragraph (1) shall be considered automatically eligible for free meals or supplements under this subsection, without further application or eligibility determination, if the person is—
 
@@ -954,7 +954,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;&emsp;(i) education on the importance of regular physical activity to overall health and well being; and
 
-&emsp;&emsp;&emsp;(ii) sharing of best practices for physical activity plans in child care centers andhomes as recommended by authoritative scientific organizations.
+&emsp;&emsp;&emsp;(ii) sharing of best practices for physical activity plans in child care centers and homes as recommended by authoritative scientific organizations.
 
 #### (E) Electronic media use
 
@@ -998,7 +998,7 @@ Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 
 
 The Agricultural Act of 1949, referred to in subsec. (h)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (o)(3)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218.Part C of title III of the Older Americans Act of 1965 is classified generally to part C (§3030e et seq.) of subchapter III of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (o)(3)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Part C of title III of the Older Americans Act of 1965 is classified generally to part C (§3030e et seq.) of subchapter III of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (o)(5)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -1320,7 +1320,7 @@ Subsec. (e). Pub. L. 99–500 and Pub. L. 99–591, §361, and Pub. L. 99–661,
 
 Subsec. (b). Pub. L. 97–35, §810(b), substituted provisions respecting applicability of subsec. (f), for provisions respecting applicability of subsec. (c).
 
-Subsec. (c). Pub. L. 97–35, §810(c), substituted provisions respecting applicability, determinations, etc., fornational average payment rates for free lunches and suppers, etc., for provisions respecting formula for computation of payments, and applicability of national average payment rates.
+Subsec. (c). Pub. L. 97–35, §810(c), substituted provisions respecting applicability, determinations, etc., for national average payment rates for free lunches and suppers, etc., for provisions respecting formula for computation of payments, and applicability of national average payment rates.
 
 Subsec. (f)(1). Pub. L. 97–35, §819(k), struck out authorization respecting financing the cost of meals.
 
@@ -1386,7 +1386,7 @@ Amendment by section 4002(b)(1)(B), (2)(Z) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 119(a), (b), (d)–(f), (h) of Pub. L. 108–265 effective June 30, 2004, and amendment by section 119(c), (g) of Pub. L. 108–265 effective Oct. 1, 2004, see section 502(a), (b)(2) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
+Amendment by section 119(a), (b), (d)–(f), (h) of Pub. L. 108–265 effective June 30, 2004, and amendment bysection 119(c), (g) of Pub. L. 108–265 effective Oct. 1, 2004, see section 502(a), (b)(2) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -1450,6 +1450,24 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 Pub. L. 95–166, §19, Nov. 10, 1977, 91 Stat. 1345, provided that the amendment made by that section is effective July 1, 1977.
 
+#### Regulations
+
+Pub. L. 104–193, title VII, §708(k)(3), Aug. 22, 1996, 110 Stat. 2300, provided that:
+
+"(A)
+
+Interim regulations.—Not later than January 1, 1997, the Secretary of Agriculture shall issue interim regulations to implement—
+
+&emsp;"(i) the amendments made by paragraphs (1), (3), and (4) of subsection (e) \[amending this section\]; and
+
+&emsp;"(ii) section 17(f)(3)(C) of the \[Richard B. Russell\] National School Lunch Act (42 U.S.C. 1766(f)(3)(C)).
+
+"(B)
+
+Final regulations.—Not later than July 1, 1997, the Secretary of Agriculture shall issue final regulations to implement the provisions of law referred to in subparagraph (A)."
+
+Pub. L. 101–147, title II, §204(b), Nov. 10, 1989, 103 Stat. 910, provided that: "Not later than July 1, 1990, the Secretary shall issue final regulations to implement the amendments made by subsection (a) \[amending this section\]."
+
 #### Child and Adult Care Food Program
 
 Pub. L. 117–158, §3, June 25, 2022, 136 Stat. 1311, provided that:
@@ -1482,7 +1500,7 @@ Pub. L. 117–2, title I, §1107, Mar. 11, 2021, 135 Stat. 18, provided that:
 
 "(a)
 
-Program for At-risk School Children.—Beginning on the date of enactment of this section \[Mar. 11, 2021\], notwithstanding paragraph (1)(A) of section 17(r) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(r)), during the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the Secretary shall reimburse institutions that are emergency shelters under such section 17(r) (42 U.S.C. 1766(r)) for meals and supplements served to individuals who, at the time of such service—
+Program for At-risk School Children.—Beginning on the date of enactment of this section \[Mar. 11, 2021\], notwithstanding paragraph (1)(A) of section 17(r) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(r)), during the COVID–19 public healthemergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the Secretary shall reimburse institutions that are emergency shelters under such section 17(r) (42 U.S.C. 1766(r)) for meals and supplements served to individuals who, at the time of such service—
 
 &emsp;"(1) have not attained the age of 25; and
 
@@ -1503,36 +1521,6 @@ Emergency shelter.—The term 'emergency shelter' has the meaning given the term
 &emsp;"(2)
 
 Secretary.—The term 'Secretary' means the Secretary of Agriculture."
-
-#### Implementation of 1989 Amendments
-
-Pub. L. 101–147, title I, §105(d), Nov. 10, 1989, 103 Stat. 885, provided that:
-
-"(1)
-
-Expansion; demonstration project.—The Secretary of Agriculture shall implement the amendments made by subsections (b)(1) and (b)(2) \[amending this section\] not later than July 1, 1990.
-
-"(2)
-
-Dietary requirements for adult day care food program.—Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b)(3) \[amending this section\]."
-
-#### Regulations
-
-Pub. L. 104–193, title VII, §708(k)(3), Aug. 22, 1996, 110 Stat. 2300, provided that:
-
-"(A)
-
-Interim regulations.—Not later than January 1, 1997, the Secretary of Agriculture shall issue interim regulations to implement—
-
-&emsp;"(i) the amendments made by paragraphs (1), (3), and (4) of subsection (e) \[amending this section\]; and
-
-&emsp;"(ii) section 17(f)(3)(C) of the \[Richard B. Russell\] National School Lunch Act (42 U.S.C. 1766(f)(3)(C)).
-
-"(B)
-
-Final regulations.—Not later than July 1, 1997, the Secretary of Agriculture shall issue final regulations to implement the provisions of law referred to in subparagraph (A)."
-
-Pub. L. 101–147, title II, §204(b), Nov. 10, 1989, 103 Stat. 910, provided that: "Not later than July 1, 1990, the Secretary shall issue final regulations to implement the amendments made by subsection (a) \[amending this section\]."
 
 #### Interagency Coordination To Promote Health and Wellness in Child Care Licensing
 
@@ -1608,7 +1596,7 @@ In general.—Subject to the availability of funds made available under paragrap
 
 "(2)
 
-States.—The Secretary shall provide grants under this subsection in States that have experienced a growth in the limited-English-proficient population of the States of at least 100 percent between the years 1990 and 2000, as measured by the census.
+States.—The Secretary shall provide grants under this subsection in States that have experienced agrowth in the limited-English-proficient population of the States of at least 100 percent between the years 1990 and 2000, as measured by the census.
 
 "(3)
 
@@ -1645,6 +1633,18 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 #### Study of Impact of Amendments by Pub. L. 104–193 on Program Participation and Family Day Care Licensing
 
 Pub. L. 104–193, title VII, §708(l), Aug. 22, 1996, 110 Stat. 2300, directed Secretary of Agriculture, in conjunction with Secretary of Health and Human Services, to conduct study and report to Congress not later than 2 years after Aug. 22, 1996, on impact of the amendments made by section 708 of Pub. L. 104–193, amending this section, on the number of family day care homes and day care home sponsoring organizations participating in the child and adult care food program established under this section, the number of day care homes that are licensed, certified, registered, or approved by each State in accordance with regulations issued by the Secretary, the rate of growth of such numbers, the nutritional adequacy and quality of meals served in family day care homes, and the proportion of low-income children participating in the program prior to such amendments to this section and the proportion of low-income children participating in the program after such amendments to this section, and further required each State agency participating in the child and adult care food program under this section to submit to the Secretary of Agriculture data necessary to carry out this study.
+
+#### Implementation of 1989 Amendments
+
+Pub. L. 101–147, title I, §105(d), Nov. 10, 1989, 103 Stat. 885, provided that:
+
+"(1)
+
+Expansion; demonstration project.—The Secretary of Agriculture shall implement the amendments made by subsections (b)(1) and (b)(2) \[amending this section\] not later than July 1, 1990.
+
+"(2)
+
+Dietary requirements for adult day care food program.—Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b)(3) \[amending this section\]."
 
 #### Family or Group Day Care Home Demonstration Project
 

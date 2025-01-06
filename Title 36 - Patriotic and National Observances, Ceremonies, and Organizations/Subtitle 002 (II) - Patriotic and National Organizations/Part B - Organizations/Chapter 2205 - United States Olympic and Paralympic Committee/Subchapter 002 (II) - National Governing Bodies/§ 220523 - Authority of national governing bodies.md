@@ -20,7 +20,7 @@ Authority.—For the sport that it governs, a national governing body may—
 
 (b)
 
-Replacement of National Governing Body Pursuant to Arbitration.—A nationalgoverning body may not exercise any authority under subsection (a) of this section for a particular sport after another amateur sports organization has been declared (in accordance with binding arbitration proceedings prescribed by the organic documents of the corporation) entitled to replace that national governing body as the member of the corporation for that sport.
+Replacement of National Governing Body Pursuant to Arbitration.—A national governing body may not exercise any authority under subsection (a) of this section for a particular sport after another amateur sports organization has been declared (in accordance with binding arbitration proceedings prescribed by the organic documents of the corporation) entitled to replace that national governing body as the member of the corporation for that sport.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1473; Pub. L. 105–277, div. C, title I, §142(n), Oct. 21, 1998, 112 Stat. 2681–608; Pub. L. 116–189, §4(a)(9), Oct. 30, 2020, 134 Stat. 945.)
 

@@ -114,7 +114,7 @@
 
 #### (3) Magnitude of the margin of dumping
 
-&emsp;The administering authority shall provide to the Commission the magnitude of the margin of dumping that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a margin that was determined under section 1673d of this title or under subsection (a) or (b)(1) of section 1675 of this title.
+&emsp;The administering authority shall provide to the Commission the magnitude of the margin of dumping that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a margin that was determined under section 1673d of this title orunder subsection (a) or (b)(1) of section 1675 of this title.
 
 #### (4) Special rule
 

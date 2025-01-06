@@ -110,7 +110,7 @@
 
 (2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, but for paragraph (1), such individual would otherwise be paid under subsection (b).
 
-(3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
+(3) In no event shall payment of educational assistance under this subsection for such a testexceed the amount of the individual's available entitlement under this chapter.
 
 (k)(1) In the case of an individual entitled to educational assistance under this chapter who is pursuing education or training described in subsection (a) or (c) of section 2007 of this title on a half-time or more basis, the Secretary concerned shall, at the election of the individual, pay the individual educational assistance allowance under this chapter for pursuit of such education or training as if the individual were not also eligible to receive or in receipt of educational assistance under section 2007 for pursuit of such education or training.
 
@@ -258,7 +258,7 @@ Pub. L. 101–189, div. A, title VI, §642(d), Nov. 29, 1989, 103 Stat. 1458, pr
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–525, title VII, §705(b), Oct. 19, 1984, 98 Stat. 2567, provided that: "The amendments made by this section \[amending this chapter\] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date."
+Pub. L. 98–525, title VII, §705(b), Oct. 19, 1984, 98 Stat. 2567, provided that: "The amendments made by thissection \[amending this chapter\] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date."
 
 #### Effective Date of 1980 Amendments
 
@@ -268,7 +268,7 @@ Pub. L. 96–342, title IX, §906(a)(2), Sept. 8, 1980, 94 Stat. 1117, provided 
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–107, title IV, §402(c), Nov. 9, 1979, 93 Stat. 808, provided that: "The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979."
+Pub. L. 96–107, title IV, §402(c), Nov. 9, 1979, 93 Stat. 808, provided that: "The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and 16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979."
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Selected Reserve Montgomery GI Bill
 

@@ -34,9 +34,9 @@ Director's Authority.—In addition to the limits imposed by this section, the D
 
 (f)
 
-Penalty for False Certifications.—In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
+Penalty for False Certifications.—In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall, unless the entity shows that the certification was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
 
-(Added and amended Pub. L. 112–29, §§10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, §1(m), Jan. 14, 2013, 126 Stat. 2459; Pub. L. 117–328, div. W, §107(b)(2), Dec. 29, 2022, 136 Stat. 5522.)
+(Added and amended Pub. L. 112–29, §§10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, §1(m), Jan. 14, 2013, 126 Stat. 2459; Pub. L. 117–328, div. W, §107(b)(2), Dec. 29, 2022, 136 Stat. 5522; Pub. L. 118–151, §1(2), Dec. 17, 2024, 138 Stat. 1685.)
 
 #### <b>Editorial Notes</b>
 
@@ -45,6 +45,8 @@ Penalty for False Certifications.—In addition to any other penalty available u
 Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3), (4), is classified to section 61(a) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f). Pub. L. 118–151 inserted ", unless the entity shows that the certification was made in good faith," before "be subject".
 
 <b>2022</b>—Subsec. (f). Pub. L. 117–328 added subsec. (f).
 

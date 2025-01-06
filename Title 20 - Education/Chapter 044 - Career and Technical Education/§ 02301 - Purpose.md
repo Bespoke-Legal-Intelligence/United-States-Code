@@ -64,7 +64,7 @@ Pub. L. 105–332, §1(a), Oct. 31, 1998, 112 Stat. 3076, provided that: "This A
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–392, §1(a), Sept. 25, 1990, 104 Stat. 753, provided that: "This Act \[see Tables for classification\]may be cited as the 'Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990'."
+Pub. L. 101–392, §1(a), Sept. 25, 1990, 104 Stat. 753, provided that: "This Act \[see Tables for classification\] may be cited as the 'Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990'."
 
 #### Short Title of 1968 Amendment
 

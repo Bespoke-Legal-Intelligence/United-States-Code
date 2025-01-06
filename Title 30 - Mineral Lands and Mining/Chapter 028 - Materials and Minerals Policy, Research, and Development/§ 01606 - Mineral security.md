@@ -120,13 +120,13 @@ In this section:
 
 #### (C) Required consultation
 
-&emsp;&emsp;The Secretary shall consult with the Secretaries of Defense, Commerce, Agriculture, and Energy and the United States Trade Representative in designating minerals, elements, substances, and materials as critical under this paragraph.
+&emsp;&emsp;The Secretary shall consult with the Secretaries of Defense, Commerce, Agriculture, Health and Human Services, and Energy and the United States Trade Representative in designating minerals, elements, substances, and materials as critical under this paragraph.
 
 #### (5) Subsequent review
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Secretaries of Defense, Commerce, Agriculture, and Energy and the United States Trade Representative, shall review the methodology and list under paragraph (3) and the designations under paragraph (4) at least every 3 years, or more frequently as the Secretary considers to be appropriate.
+&emsp;&emsp;The Secretary, in consultation with the Secretaries of Defense, Commerce, Agriculture, Health and Human Services, and Energy and the United States Trade Representative, shall review the methodology and list under paragraph (3) and the designations under paragraph (4) at least every 3 years, or more frequently as the Secretary considers to be appropriate.
 
 #### (B) Revisions
 
@@ -250,7 +250,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 &emsp;&emsp;(A) to develop alternatives to critical materials that do not occur in significant abundance in the United States;
 
-&emsp;&emsp;(B) to promote the efficient production, use, and recycling of critical materials, with special consideration for domestic critical materials, throughout the supply chain;
+&emsp;&emsp;(B) to promote the efficient production, use, and recycling of critical materials, withspecial consideration for domestic critical materials, throughout the supply chain;
 
 &emsp;&emsp;(C) to ensure the long-term, secure, and sustainable supply of critical materials; and
 
@@ -346,7 +346,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (B) Leadership
 
-&emsp;&emsp;If an Energy Innovation Hub authorized under section 18632 of title 42 that is focused on critical materials exists on December 27, 2020, the Secretary shall leverage the personnel and expertise of the Energy Innovation Hub to manage the Consortium for not less than 3 years following the date on which the Consortium is established.
+&emsp;&emsp;If an Energy Innovation Hub authorized under section 18632 of title 42 that is focusedon critical materials exists on December 27, 2020, the Secretary shall leverage the personnel and expertise of the Energy Innovation Hub to manage the Consortium for not less than 3 years following the date on which the Consortium is established.
 
 #### (C) Membership
 
@@ -402,7 +402,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (1) In general
 
-&emsp;The Secretary of Energy (referred to in this subsection as the "Secretary") shall supportconstruction of a Critical Materials Supply Chain Research Facility (referred to in this subsection as the "facility").
+&emsp;The Secretary of Energy (referred to in this subsection as the "Secretary") shall support construction of a Critical Materials Supply Chain Research Facility (referred to in this subsection as the "facility").
 
 #### (2) Requirements
 
@@ -474,7 +474,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 &emsp;In order to evaluate existing critical mineral policies and inform future actions that may be taken to avoid supply shortages, mitigate price volatility, and prepare for demand growth and other market shifts, the Secretary (acting through the Director of the United States Geological Survey) or a designee of the Secretary, in consultation with the Energy Information Administration, academic institutions, and others in order to maximize the application of existing competencies related to developing and maintaining computer-models and similar analytical tools, shall conduct and publish the results of an annual report that includes—
 
-&emsp;&emsp;(A) as part of the annually published Mineral Commodity Summaries from the UnitedStates Geological Survey, a comprehensive review of critical mineral production, consumption, and recycling patterns, including—
+&emsp;&emsp;(A) as part of the annually published Mineral Commodity Summaries from the United States Geological Survey, a comprehensive review of critical mineral production, consumption, and recycling patterns, including—
 
 &emsp;&emsp;&emsp;(i) the quantity of each critical mineral domestically produced during the preceding year;
 
@@ -572,7 +572,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary and the Secretary of Labor shall jointly conduct a competitive grant program under which institutions of higher education may apply for and receive 4-year grants for—
+&emsp;&emsp;The Secretary and the Secretary of Labor shall jointly conduct a competitive grantprogram under which institutions of higher education may apply for and receive 4-year grants for—
 
 &emsp;&emsp;&emsp;(i) startup costs for newly designated faculty positions in integrated critical mineral education, research, innovation, training, and workforce development programs consistent with paragraph (2);
 
@@ -614,7 +614,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2021 through 2029.
 
-(Pub. L. 116–260, div. Z, title VII, §7002, Dec. 27, 2020, 134 Stat. 2562.)
+(Pub. L. 116–260, div. Z, title VII, §7002, Dec. 27, 2020, 134 Stat. 2562; Pub. L. 118–233, §2, Jan. 4, 2025, 138 Stat. 2835.)
 
 #### <b>Editorial Notes</b>
 
@@ -627,6 +627,10 @@ An amendment made by this section, referred to in subsec. (n)(3)(A), (B), means 
 Section was enacted as part of the Energy Act of 2020, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.
 
 Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b) of section 7002 amended sections 1601 and 1602 of this title. Subsec. (l) of section 7002 amended section 15908 of Title 42, The Public Health and Welfare. Subsec. (m) of section 7002 amended sections 1602 to 1604 of this title. Subsec. (n)(1) of section 7002 repealed chapter 30 (§1801 et seq.) of this title. Subsec. (n)(2) of section 7002 amended section 5202 of Title 15, Commerce and Trade.
+
+#### Amendments
+
+<b>2025</b>—Subsec. (c)(4)(C), (5)(A). Pub. L. 118–233 inserted "Health and Human Services," after "Agriculture,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

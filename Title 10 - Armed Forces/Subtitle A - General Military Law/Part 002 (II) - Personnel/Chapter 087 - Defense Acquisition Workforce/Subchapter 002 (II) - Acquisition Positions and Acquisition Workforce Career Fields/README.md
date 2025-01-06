@@ -8,7 +8,7 @@
 | [1722b.](%C2%A7%2001722b%20-%20Special%20requirements%20for%20civilian%20employees%20in%20the%20acquisition%20field.md) | Special requirements for civilian employees in the acquisition field. |
 | [1723\.](%C2%A7%2001723%20-%20General%20education%2C%20training%2C%20and%20experience%20requirements.md) | General education, training, and experience requirements. |
 | [1724\.](%C2%A7%2001724%20-%20Contracting%20positions%20qualification%20requirements.md) | Contracting positions: qualification requirements. |
-| [1725\.](%C2%A7%2001725%20-%20Senior%20Military%20Acquisition%20Advisors.md) | Senior Military Acquisition Advisors. |
+| [1725\.](%C2%A7%2001725%20-%20Senior%20Military%20Acquisition%20Advisors.md) | Senior Military Acquisition Advisors.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -68,7 +68,7 @@ Pub. L. 97–34, §221(b)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as 
 
 Pub. L. 97–34, §221(b)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2)," after "section 44E(e)(2),".
 
-Pub. L. 97–34, §221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section382(a) of this title, inserted "to any unused credit of the corporation under section 44F(g)(2)," after "section 44E(e)(2),".
+Pub. L. 97–34, §221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused credit of the corporation under section 44F(g)(2)," after "section 44E(e)(2),".
 
 <b>1980</b>—Pub. L. 96–223, §232(b)(2)(D), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2) in text.
 

@@ -24,7 +24,7 @@ In awarding grants under this subchapter, the Director of the Bureau of Justice 
 
 &emsp;(4) provides armor vests to law enforcement officers that are uniquely fitted for such officers, including vests uniquely fitted to individual female law enforcement officers; or
 
-&emsp;(5) has not received a block grant under the Local Law Enforcement Block Grant programdescribed under the heading "Violent Crime Reduction Programs, State and Local Law Enforcement Assistance" of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
+&emsp;(5) has not received a block grant under the Local Law Enforcement Block Grant program described under the heading "Violent Crime Reduction Programs, State and Local Law Enforcement Assistance" of the Departments of Commerce, Justice, and State, the Judiciary,and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
 
 #### (d) Minimum amount
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 106–517, §3(b), amended heading and text of subsec. (g) 
 
 #### Transfer of Functions
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 10141 of this title.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] ofPub. L. 106–113, set out as a note under section 10141 of this title.
 
 #### Findings of 2000 Amendments
 

@@ -78,7 +78,7 @@ Violent entry and disorderly conduct.—An individual or group of individuals ma
 
 &emsp;&emsp;&emsp;(ii) the Library of Congress;
 
-&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
+&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptiveconduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
 
 &emsp;&emsp;(E) obstruct, or impede passage through or within, the Grounds or any of the Capitol Buildings;
 

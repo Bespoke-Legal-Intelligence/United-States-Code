@@ -36,7 +36,7 @@ Support received from the corporation.—Notwithstanding section 1342 of title 3
 
 &emsp;(2)
 
-Funds received from other sources.—The Secretary may charge fees for the support of the athletic programs of the Academy. The Secretary may accept and retain fees for services and other benefits provided incident to the operation of its athletic programs, including fees from the National Collegiate Athletic Association, fees from athletic conferences, game guarantees from other educational institutions, fees for ticketing or licensing, and other consideration provided incidental to the execution of the athletic programs of the Academy.
+Funds received from other sources.—The Secretary may charge fees for the support of the athletic programs of the Academy. The Secretary may accept and retain fees for services and other benefits provided incident to the operation of its athletic programs, including fees from the National Collegiate Athletic Association, fees from athletic conferences, game guarantees from other educational institutions, fees for ticketing or licensing, andother consideration provided incidental to the execution of the athletic programs of the Academy.
 
 &emsp;(3)
 

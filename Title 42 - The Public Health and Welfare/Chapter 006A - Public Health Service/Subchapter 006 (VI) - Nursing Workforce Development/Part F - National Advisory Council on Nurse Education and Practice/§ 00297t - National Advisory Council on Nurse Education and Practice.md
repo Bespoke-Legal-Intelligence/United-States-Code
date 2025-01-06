@@ -24,7 +24,7 @@ The Secretary shall establish an advisory council to be known as the National Ad
 
 #### (2) Appointment
 
-&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Council and each such member shall serve a 4 year term. In making such appointments, the Secretary shall ensure a fair balance between the nursing professions, a broad geographic representation of membersand a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved. A majority of the members shall be nurses.
+&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Council and each such member shall serve a 4 year term. In making such appointments, the Secretary shall ensure a fair balance between the nursing professions, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved. A majority of the members shall be nurses.
 
 #### (3) Minority representation
 

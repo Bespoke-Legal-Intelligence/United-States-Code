@@ -30,7 +30,7 @@ Any person who willfully delivers or discloses to the Secretary any list, return
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–276, §6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act \[Nov. 2, 2002\]."
+Pub. L. 107–276, §6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: "The amendment made by subsection (d)\[amending this section\] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act \[Nov. 2, 2002\]."
 
 #### Effective Date of 1998 Amendment
 

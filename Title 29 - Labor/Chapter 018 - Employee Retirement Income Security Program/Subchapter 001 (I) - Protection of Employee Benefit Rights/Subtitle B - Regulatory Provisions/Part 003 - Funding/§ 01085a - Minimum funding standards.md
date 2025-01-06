@@ -58,7 +58,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
-&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
+&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to beamortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
 
 #### (5) Interest
 
@@ -136,7 +136,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of such plan and all other plans maintained by the contributing sponsors (as defined in section 1301(a)(13) of this title) and members of such sponsors' controlled groups (as defined in section 1301(a)(14) of this title) which are covered by subchapter III (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
+&emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the currentplan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
 
 #### (6) Full funding
 
@@ -248,7 +248,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (1) In general
 
-&emsp;If a CSEC plan which has a funded current liability percentage for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the planyear, then the rate of interest charged to the funding standard account under subsection (b)(5) with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
+&emsp;If a CSEC plan which has a funded current liability percentage for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the plan year, then the rate of interest charged to the funding standard account under subsection (b)(5) with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
 
 &emsp;&emsp;(A) 175 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of such plan year), or
 
@@ -417,7 +417,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Period of lien
 
-&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required installment or other payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
+&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required installment or other payment and shall continue until the last day of the first plan yearin which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
 
 #### (C) Certain rules to apply
 
@@ -503,7 +503,7 @@ For purposes of this section—
 
 | &nbsp; | <b>If the years of participation are:</b> | <b>The applicable percentage is:</b> |
 | :--- | :---: | ---: |
-| &nbsp; | 1 | &nbsp;&nbsp;20&nbsp; |
+| &nbsp; | 1 | &nbsp;&nbsp;20  |
 | &nbsp; | 2 | &nbsp;&nbsp;40&nbsp; |
 | &nbsp; | 3 | &nbsp;&nbsp;60&nbsp; |
 | &nbsp; | 4 | &nbsp;&nbsp;80&nbsp; |
@@ -599,7 +599,7 @@ Notwithstanding any other provisions of this section—
 
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

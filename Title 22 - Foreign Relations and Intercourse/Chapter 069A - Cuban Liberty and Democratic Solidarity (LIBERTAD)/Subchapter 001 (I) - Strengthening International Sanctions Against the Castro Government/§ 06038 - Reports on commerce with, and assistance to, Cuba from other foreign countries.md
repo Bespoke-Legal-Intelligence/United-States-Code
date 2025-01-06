@@ -20,7 +20,7 @@ Each report required by subsection (a) shall, for the period covered by the repo
 
 &emsp;&emsp;(A) the amount of debt exchanged, forgiven, or reduced under the terms of each investment or operation in Cuba involving foreign nationals; and
 
-&emsp;&emsp;(B) the amount of debt owed the foreign country that has been exchanged, forgiven,or reduced in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
+&emsp;&emsp;(B) the amount of debt owed the foreign country that has been exchanged, forgiven, or reduced in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
 
 &emsp;(6) A description of the steps taken to assure that raw materials and semifinished or finished goods produced by facilities in Cuba involving foreign nationals do not enter the United States market, either directly or through third countries or parties.
 

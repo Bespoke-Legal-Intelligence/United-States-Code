@@ -54,7 +54,7 @@
 
 (g) Subsections (a) and (b) shall have no effect on the information and data that are necessary to document an agreement reached or order issued pursuant to a dispute resolution proceeding.
 
-(h) Subsections (a) and (b) shall not prevent the gathering of information for research oreducational purposes, in cooperation with other agencies, governmental entities, or dispute resolution programs, so long as the parties and the specific issues in controversy are not identifiable.
+(h) Subsections (a) and (b) shall not prevent the gathering of information for research or educational purposes, in cooperation with other agencies, governmental entities, or dispute resolution programs, so long as the parties and the specific issues in controversy are not identifiable.
 
 (i) Subsections (a) and (b) shall not prevent use of a dispute resolution communication to resolve a dispute between the neutral in a dispute resolution proceeding and a party to or participant in such proceeding, so long as such dispute resolution communication is disclosed only to the extent necessary to resolve such dispute.
 

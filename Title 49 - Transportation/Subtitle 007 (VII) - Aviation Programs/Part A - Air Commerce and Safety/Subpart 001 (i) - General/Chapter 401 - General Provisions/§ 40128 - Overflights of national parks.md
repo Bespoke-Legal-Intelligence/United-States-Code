@@ -78,7 +78,7 @@ In general.—Notwithstanding paragraph (1), a national park that has 50 or fewe
 
 &emsp;&emsp;(B)
 
-Withdrawal of exemption.—If the Director determines that an air tour management plan or voluntary agreement is necessary to protect park resources and values or park visitor use and enjoyment, the Director shall withdraw the exemption of a park under subparagraph (A).
+Withdrawal of exemption.—If the Director determines that an air tour management plan or voluntary agreement is necessary to protect park resources and valuesor park visitor use and enjoyment, the Director shall withdraw the exemption of a park under subparagraph (A).
 
 &emsp;&emsp;(C)
 
@@ -126,7 +126,7 @@ Contents.—An air tour management plan for a national park—
 
 &emsp;&emsp;(A) may prohibit commercial air tour operations over a national park in whole or in part;
 
-&emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations over a national park, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictionsfor particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
+&emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations over a national park, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictions for particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
 
 &emsp;&emsp;(C) shall apply to all commercial air tour operations over a national park that are also within ½ mile outside the boundary of a national park;
 
@@ -144,9 +144,11 @@ Procedure.—In establishing an air tour management plan for a national park or 
 
 &emsp;&emsp;(B) publish the proposed plan in the Federal Register for notice and comment and make copies of the proposed plan available to the public;
 
-&emsp;&emsp;(C) comply with the regulations set forth in sections 1501.3 and 1501.5 through 1501.8 of title 40, Code of Federal Regulations (for purposes of complying with the regulations, the Federal Aviation Administration shall be the lead agency and the National Park Service is a cooperating agency); and
+&emsp;&emsp;(C) comply with the regulations set forth in sections 1501.3 and 1501.5 through 1501.8 of title 40, Code of Federal Regulations (for purposes of complying with the regulations, the Federal Aviation Administration shall be the lead agency and the National Park Service is a cooperating agency);
 
-&emsp;&emsp;(D) solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in subparagraph (C).
+&emsp;&emsp;(D) solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in subparagraph (C); and
+
+&emsp;&emsp;(E) consult with the advisory group established under section 805 of the National Parks Air Tour Management Act of 2000 (49 U.S.C. 40128 note) and consider all advice, information, and recommendations provided by the advisory group to the Administrator and the Director.
 
 &emsp;(5)
 
@@ -294,7 +296,7 @@ Existing commercial air tour operator.—The term "existing commercial air tour 
 
 &emsp;(3)
 
-New entrant commercial air tour operator.—The term "new entrant commercial airtour operator" means a commercial air tour operator that—
+New entrant commercial air tour operator.—The term "new entrant commercial air tour operator" means a commercial air tour operator that—
 
 &emsp;&emsp;(A) applies for operating authority as a commercial air tour operator for a national park or tribal lands; and
 
@@ -348,7 +350,7 @@ Administrator.—The term "Administrator" means the Administrator of the Federal
 
 Director.—The term "Director" means the Director of the National Park Service.
 
-(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title V, §539(c), Oct. 5, 2018, 132 Stat. 3370.)
+(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title V, §539(c), Oct. 5, 2018, 132 Stat. 3370; Pub. L. 118–63, title VI, §628, May 16, 2024, 138 Stat. 1243.)
 
 #### <b>Editorial Notes</b>
 
@@ -356,9 +358,13 @@ Director.—The term "Director" means the Director of the National Park Service.
 
 The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2)(A), (3)(C), and (g)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
+Section 805 of the National Parks Air Tour Management Act of 2000, referred to in subsec. (b)(4)(E), is section 805 of title VIII of Pub. L. 106–181, which is set out in a note below.
+
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(4)(E). Pub. L. 118–63 added subpar. (E).
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–254 substituted "under part 91 of title 14," for "under part 91 of the title 14,".
 
@@ -544,7 +550,7 @@ Compliance With Other Regulations.—For purposes of section 40128 of title 49, 
 
 "(a)
 
-Quiet Technology Requirements.—Within 12 months after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall designate reasonably achievable requirements for fixed-wing and helicopter aircraft necessary for such aircraft to be considered as employing quiet aircraft technology for purposes of this section. If the Administrator determines that the Administrator will not be able to make such designation before the last day of such 12-month period, the Administrator shall transmit to Congress a report on the reasons for not meeting such time period and the expected date of such designation.
+Quiet Technology Requirements.—Within 12 months after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall designate reasonably achievable requirements for fixed-wing and helicopter aircraft necessary for such aircraft to be considered as employing quiet aircraft technology for purposes of this section. If the Administrator determines that the Administrator will not be able to make such designation before the last day of such 12-month period,the Administrator shall transmit to Congress a report on the reasons for not meeting such time period and the expected date of such designation.
 
 "(b)
 
@@ -704,7 +710,7 @@ Report to Congress.—The Secretary shall submit a report to the Congress within
 
 "(e)
 
-FAA Review of Rules.—The Administrator shall review current rules and regulations pertaining to flights of aircraft over units of the National Park System at which research is conducted under subsection (c) and over any other such units at which such a review is determined necessary by the Administrator or is requested by the Secretary. In the review under this subsection, the Administrator shall determine whetherchanges are needed in such rules and regulations on the basis of aviation safety. Not later than 180 days after the identification of the units of the National Park System for which research is to be conducted under subsection (c), the Administrator shall submit a report to Congress containing the results of the review along with recommendations for legislative and regulatory action which are needed to implement any such changes.
+FAA Review of Rules.—The Administrator shall review current rules and regulations pertaining to flights of aircraft over units of the National Park System at which research is conducted under subsection (c) and over any other such units at which such a review is determined necessary by the Administrator or is requested by the Secretary. In the review under this subsection, the Administrator shall determine whether changes are needed in such rules and regulations on the basis of aviation safety. Not later than 180 days after the identification of the units of the National Park System for which research is to be conducted under subsection (c), the Administrator shall submit a report to Congress containing the results of the review along with recommendations for legislative and regulatory action which are needed to implement any such changes.
 
 "(f)
 

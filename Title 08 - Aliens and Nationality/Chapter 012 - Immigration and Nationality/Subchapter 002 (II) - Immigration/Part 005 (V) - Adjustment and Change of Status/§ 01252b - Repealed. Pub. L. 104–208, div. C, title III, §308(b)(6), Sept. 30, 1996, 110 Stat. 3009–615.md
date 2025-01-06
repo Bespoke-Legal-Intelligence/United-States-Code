@@ -6,5 +6,5 @@ Section, act June 27, 1952, ch. 477, title II, ch. 5, §242B, as added Nov. 29, 
 
 #### Effective Date of Repeal
 
-Repeal effective, with certain transitional provisions, on the first day of the first month beginning more than180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Repeal effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 

@@ -40,7 +40,7 @@ Special Rule for High-Cost Duty Locations and Other Unique and Unusual Circumsta
 
 &emsp;(1) Meals at no cost to the member, regardless of the entitlement of the member to a basic allowance for subsistence under subsection (a).
 
-&emsp;(2) A basic allowance for subsistence at the standard rate, regardless of the entitlement ofthe member for all meals or select meals during the duty day.
+&emsp;(2) A basic allowance for subsistence at the standard rate, regardless of the entitlement of the member for all meals or select meals during the duty day.
 
 &emsp;(3) A supplemental subsistence allowance at a rate higher than the basic allowance for subsistence rates in effect under this section, regardless of the entitlement of the member for all meals or select meals during the duty day.
 
@@ -158,7 +158,7 @@ Subsec. (h)(3). Pub. L. 109–364 substituted "December 31, 2007" for "December 
 
 Subsec. (i). Pub. L. 109–163, §607(a)(1), redesignated subsec. (h) as (i).
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "The" for "On and after January 1, 2002, the",and struck out former par. (1) which read as follows: "Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "The" for "On and after January 1, 2002, the", and struck out former par. (1) which read as follows: "Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
 
 &emsp;"(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age."
 
@@ -242,7 +242,7 @@ Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537, provided that t
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by section 411 of Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by section 411 of Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1974 Amendment
 

@@ -52,7 +52,7 @@ Statutory License.—(1) A transmitting organization entitled to transmit to the
 
 &emsp;(A) whether use of the service may substitute for or may promote the sales of phonorecords or otherwise interferes with or enhances the copyright owner's traditional streams of revenue; and
 
-&emsp;(B) the relative roles of the copyright owner and the transmitting organization in the copyrighted work and the service made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, and risk.
+&emsp;(B) the relative roles of the copyright owner and the transmitting organization in the copyrighted work and the service made available to the public with respect to relative creativecontribution, technological contribution, capital investment, cost, and risk.
 
 > In establishing such rates and terms, the Copyright Royalty Judges may consider the rates and terms under voluntary license agreements described in paragraphs (2) and (3). The Copyright Royalty Judges shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by transmitting organizations entitled to obtain a statutory license under this subsection.
 
@@ -116,7 +116,7 @@ Clause (3) of section 112(a) provides that, unless preserved exclusively for arc
 
 On the other hand, if the nonprofit organization does nothing directly or indirectly to authorize, induce, or encourage others to duplicate additional copies or phonorecords of an ephemeral recording in excess of the limit of thirty, it would not be held responsible as participating in the infringement in such a case, and the unauthorized copies would not be counted against the organization's total of thirty.
 
-Unlike ephemeral recordings made under subsection (a), exchanges of recordings among instructional broadcasters are permitted. An organization that has made copies or phonorecords under subsection (b) may use one of them for purposes of its own transmissions that are exempted by section 110(2), and it may also transfer the other 29 copies to other instructional broadcasters for use in the same way.
+Unlike ephemeral recordings made under subsection (a), exchanges of recordings among instructional broadcasters are permitted. An organization that has made copies or phonorecords under subsection (b) may use one of them for purposes of its own transmissions that are exempted by section 110(2), and it may also transferthe other 29 copies to other instructional broadcasters for use in the same way.
 
 As in the case of ephemeral recordings made under section 112(a), a copy or phonorecord made for instructional broadcasting could be reused in any number of transmissions within the time limits specified in the provision. Because of the special problems of instructional broadcasters resulting from the scheduling of courses and the need to prerecord well in advance of transmission, the period of use has been extended to seven years from the date the transmission program was first transmitted to the public.
 
@@ -166,7 +166,7 @@ Subsecs. (e), (f). Pub. L. 105–304, §405(b), added subsec. (e) and redesignat
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
+Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, seesection 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
 #### Construction of 1998 Amendment
 

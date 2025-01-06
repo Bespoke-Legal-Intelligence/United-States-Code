@@ -2,7 +2,7 @@
 
 #### (1) Establishment
 
-The Attorney General shall contract with any interested Indian tribe, tribal organization, or tribal nonprofit organization to develop and maintain—
+The Attorney General shall contract with any interested Indian tribe, tribal organization, ortribal nonprofit organization to develop and maintain—
 
 &emsp;(A) a national tribal sex offender registry; and
 

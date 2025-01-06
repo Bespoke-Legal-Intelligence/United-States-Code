@@ -64,7 +64,7 @@
 
 &emsp;Individuals shall be appointed to an advisory council under paragraph (1) as follows:
 
-&emsp;&emsp;(A) Nine of the members shall be appointed by the Secretary from among the leading representatives of the health disciplines (including public health and behavioral and social sciences) relevant to the activities ofthe Administration or Center for which the advisory council is established.
+&emsp;&emsp;(A) Nine of the members shall be appointed by the Secretary from among the leading representatives of the health disciplines (including public health and behavioral and social sciences) relevant to the activities of the Administration or Center for which the advisory council is established.
 
 &emsp;&emsp;(B) Three of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, public relations, law, health policy economics, or management.
 
@@ -132,7 +132,7 @@ Section was formerly classified to section 290aa–3a of this title prior to ren
 
 #### Prior Provisions
 
-A prior section 290aa–1, act July 1, 1944, ch. 373, title V, §502, formerly Pub. L. 91–616, title I, §101, Dec. 31, 1970, 84 Stat. 1848, as amended Pub. L. 93–282, title II, §203(a), May 14, 1974, 88 Stat. 135; Pub. L. 96–180, §3, Jan. 2, 1980, 93 Stat. 1302; Pub. L. 97–35, title IX, §966(a), Aug. 13, 1981, 95 Stat. 595; renumbered §502 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(3), 97Stat. 177; Oct. 19, 1984, Pub. L. 98–509, title II, §205(b)(2), 98 Stat. 2361; Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(b)(1), 100 Stat. 3207–114, related to National Institute on Alcohol Abuse and Alcoholism, prior to repeal by Pub. L. 102–321, title I, §101(b), July 10, 1992, 106 Stat. 331. See section 285n of this title.
+A prior section 290aa–1, act July 1, 1944, ch. 373, title V, §502, formerly Pub. L. 91–616, title I, §101, Dec. 31, 1970, 84 Stat. 1848, as amended Pub. L. 93–282, title II, §203(a), May 14, 1974, 88 Stat. 135; Pub. L. 96–180, §3, Jan. 2, 1980, 93 Stat. 1302; Pub. L. 97–35, title IX, §966(a), Aug. 13, 1981, 95 Stat. 595; renumbered §502 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(3), 97 Stat. 177; Oct. 19, 1984, Pub. L. 98–509, title II, §205(b)(2), 98 Stat. 2361; Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(b)(1), 100 Stat. 3207–114, related to National Institute on Alcohol Abuse and Alcoholism, prior to repeal by Pub. L. 102–321, title I, §101(b), July 10, 1992, 106 Stat. 331. See section 285n of this title.
 
 A prior section 502 of act July 1, 1944, which was classified to section 220 of this title, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, suchcouncil is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

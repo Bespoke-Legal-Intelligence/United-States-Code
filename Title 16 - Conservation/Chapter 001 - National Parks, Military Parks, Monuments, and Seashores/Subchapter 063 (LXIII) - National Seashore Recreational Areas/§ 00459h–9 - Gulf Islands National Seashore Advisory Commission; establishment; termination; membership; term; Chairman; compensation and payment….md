@@ -22,5 +22,5 @@ The Secretary or his designee shall, from time to time, consult with the Commiss
 
 #### Termination of Advisory Commissions
 
-Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
+Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of acommission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

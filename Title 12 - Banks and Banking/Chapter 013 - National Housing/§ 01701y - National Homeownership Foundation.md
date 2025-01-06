@@ -2,7 +2,7 @@
 
 #### (a) Creation; purpose; articles of incorporation and charter; reservation of right to alter or amend charter; term; principal office; administration as charitable and educational foundation; compensation of officers and employees; contract authority; donations and grants; payment of principal and interest on borrowings
 
-(1) There is hereby created a body corporate to be known as the "National Homeownership Foundation" (hereinafter referred to as the "Foundation") to carry out a continuing program of encouraging private and public organizations at the national, community, and neighborhood levels to provide increased homeownership and housing opportunities in urban andrural areas for lower income families through such means as—
+(1) There is hereby created a body corporate to be known as the "National Homeownership Foundation" (hereinafter referred to as the "Foundation") to carry out a continuing program of encouraging private and public organizations at the national, community, and neighborhood levels to provide increased homeownership and housing opportunities in urban and rural areas for lower income families through such means as—
 
 &emsp;(A) encouraging the investment in, and sponsoring of, housing for lower income families;
 
@@ -78,9 +78,9 @@ The Foundation shall coordinate its activities and consult with the Department o
 
 #### (f) Annual report to the President and the Congress; contents
 
-(1) Not later than one hundred and twenty days after the close of each fiscal year, theFoundation shall prepare and submit to the President and to the Congress a full report of its activities during such year. Such report shall include an account of the Foundation's experiences with the efforts of private and public organizations to expand homeownership and housing opportunities for lower income families, together with such recommendations as it deems appropriate.
+(1) Not later than one hundred and twenty days after the close of each fiscal year, the Foundation shall prepare and submit to the President and to the Congress a full report of its activities during such year. Such report shall include an account of the Foundation's experiences with the efforts of private and public organizations to expand homeownership and housing opportunities for lower income families, together with such recommendations as it deems appropriate.
 
-(2) Whenever in its judgement the general unavailability of mortgage funds is sufficiently serious to deter the Foundation from carrying out its objective of expanding homeownership and housing opportunities for lower income families, the Foundation shall, in its annual report or in a separate report to the President and the Congress, state its findings and make such recommendations for alternate means of financing housing for such families as it deems appropriate.
+(2) Whenever in its judgement the general unavailability of mortgage funds is sufficiently serious to deter the Foundation from carrying out its objective of expanding homeownership and housing opportunities for lower income families,the Foundation shall, in its annual report or in a separate report to the President and the Congress, state its findings and make such recommendations for alternate means of financing housing for such families as it deems appropriate.
 
 #### (g) Audit of financial transaction; access to records; report of audit; contents of report
 

@@ -46,7 +46,7 @@ The Office shall be responsible for supervising—
 
 &emsp;&emsp;&emsp;&emsp;(II) if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
 
-&emsp;&emsp;&emsp;(ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator notlater than 45 business days after the date on which the 7(a) lender receives the report.
+&emsp;&emsp;&emsp;(ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
 
 #### (B) Extension
 
@@ -172,7 +172,7 @@ No New Waiver Authority.—Nothing in subsection (a) shall be construed as creat
 
 #### Definitions of Terms Used in Pub. L. 115–189
 
-Pub. L. 115–189, §2, June 21, 2018, 132 Stat. 1492, provided that: "In this Act \[see Short Title of 2018 Amendment note set out under section 631 of this title\], the terms 'Administration' and 'Administrator' mean the Small Business Administration and the Administrator thereof, respectively."
+Pub. L. 115–189, §2, June 21, 2018, 132 Stat. 1492, provided that: "In this Act \[see Short Title of 2018 Amendment note set out under section 631 of this title\], the terms 'Administration' and 'Administrator' mean theSmall Business Administration and the Administrator thereof, respectively."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "premises".</i>
 

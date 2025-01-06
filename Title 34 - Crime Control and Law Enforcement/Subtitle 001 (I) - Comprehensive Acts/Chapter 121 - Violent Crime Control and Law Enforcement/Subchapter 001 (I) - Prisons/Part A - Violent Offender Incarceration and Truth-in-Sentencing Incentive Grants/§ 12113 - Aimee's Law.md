@@ -10,7 +10,7 @@ Pursuant to regulations promulgated by the Attorney General hereunder, in this s
 
 #### (1) Dangerous sexual offense
 
-&emsp;The term "dangerous sexual offense" means any offense under State law for conduct that would constitute an offense under chapter 109A of title 18 had the conduct occurred in the special maritime and territorial jurisdiction of the United States or in a Federal prison.
+&emsp;The term "dangerous sexual offense" means any offense under State law for conduct thatwould constitute an offense under chapter 109A of title 18 had the conduct occurred in the special maritime and territorial jurisdiction of the United States or in a Federal prison.
 
 #### (2) Murder
 
@@ -90,7 +90,7 @@ The Attorney General shall—
 
 &emsp;The Attorney General shall submit to Congress—
 
-&emsp;&emsp;(A) a report, by not later than 6 months after January 5, 2006, that provides national estimates of the nature and extent of recidivism (with an emphasis on interstate recidivism) by State inmates convicted of murder, rape, and dangerous sexual offenses;
+&emsp;&emsp;(A) a report, by not later than 6 months after January 5, 2006, that provides nationalestimates of the nature and extent of recidivism (with an emphasis on interstate recidivism) by State inmates convicted of murder, rape, and dangerous sexual offenses;
 
 &emsp;&emsp;(B) a report, by not later than October 1, 2007, and October 1 of each year thereafter, that provides statistical analysis and criminal history profiles of interstate recidivists identified in any State applications under this section; and
 
@@ -116,7 +116,7 @@ Section was enacted as Aimee's Law and also as part of the Victims of Traffickin
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–162, §1170(1), substituted "Pursuant to regulations promulgated by the Attorney General hereunder, in this section" for "In this section" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 109–162, §1170(1), (2), substituted "Pursuant to regulations promulgated by the Attorney General hereunder, in any case" for "In any case", "a criminal-records-reporting State" for "a State" the first place appearing, and "(3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation" for "(3), theAttorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense".
+Subsec. (c)(1). Pub. L. 109–162, §1170(1), (2), substituted "Pursuant to regulations promulgated by the Attorney General hereunder, in any case" for "In any case", "a criminal-records-reporting State" for "a State" the first place appearing, and "(3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation" for "(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense".
 
 Subsec. (c)(2). Pub. L. 109–162, §1170(1), (2), substituted "Pursuant to regulations promulgated by the Attorney General hereunder, in any case" for "In any case", "a criminal-records-reporting State" for "a State", and "(3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation" for "(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense".
 

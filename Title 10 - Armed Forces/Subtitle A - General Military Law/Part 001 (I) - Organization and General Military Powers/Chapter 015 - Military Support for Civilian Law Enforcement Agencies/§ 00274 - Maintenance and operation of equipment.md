@@ -188,9 +188,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 #### Restriction on Transfer of Funds Available to Department of Defense for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 117–328, div. C, title VIII, §8051(a), Dec. 29, 2022, 136 Stat. 4599, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 118–47, div. A, title VIII, §8050(a), Mar. 23, 2024, 138 Stat. 496, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. C, title VIII, §8051(a), Dec. 29, 2022, 136 Stat. 4599.
 
 Pub. L. 117–103, div. C, title VIII, §8052(a), Mar. 15, 2022, 136 Stat. 188.
 
@@ -254,7 +256,7 @@ Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as ame
 
 #### Communications Network
 
-Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United Statesassets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
 
 #### Enhanced Drug Interdiction and Enforcement Role for National Guard
 
@@ -262,7 +264,7 @@ Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, rel
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 
-Pub. L. 99–570, title III, §3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department's performance by the General Accounting Office.
+Pub. L. 99–570, title III, §3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies,and provided for monitoring of the Department's performance by the General Accounting Office.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

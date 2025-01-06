@@ -4,7 +4,7 @@
 
 #### Inland Waterways Regional Dredge Pilot Program
 
-Pub. L. 117–263, div. H, title LXXXI, §8133, Dec. 23, 2022, 136 Stat. 3720, provided that:
+Pub. L. 117–263, div. H, title LXXXI, §8133, Dec. 23, 2022, 136 Stat. 3720, as amended by Pub. L. 118–272, div. A, title I, §1118, Jan. 4, 2025, 138 Stat. 3012, provided that:
 
 "(a)
 
@@ -22,21 +22,13 @@ Purposes.—The purposes of the pilot program shall be to—
 
 "(c)
 
-Demonstration.—
+Projects.—In awarding contracts under subsection (a), the Secretary shall consider projects that—
 
-&emsp;"(1)
+&emsp;"(1) improve navigation reliability on inland waterways that are accessible year-round;
 
-In general.—The Secretary shall, to the maximum extent practicable, award contracts for projects under subsection (a) that combine work for construction and operation and maintenance.
+&emsp;"(2) increase freight capacity on inland waterways; and
 
-&emsp;"(2)
-
-Projects.—In awarding contracts under paragraph (1), the Secretary shall consider projects that—
-
-&emsp;&emsp;"(A) improve navigation reliability on inland waterways that are accessible year-round;
-
-&emsp;&emsp;"(B) increase freight capacity on inland waterways; and
-
-&emsp;&emsp;"(C) have the potential to enhance the availability of containerized cargo on inland waterways.
+&emsp;"(3) have the potential to enhance the availability of containerized cargo on inland waterways.
 
 "(d)
 
@@ -80,7 +72,7 @@ Non-federal interest.—The term 'non-Federal interest' means any public body de
 
 "(b)
 
-Authorization of Pilot Program.—The Secretary \[of the Army\] is authorized to carry out a pilotprogram for modernization activities on the inland waterways system.
+Authorization of Pilot Program.—The Secretary \[of the Army\] is authorized to carry out a pilot program for modernization activities on the inland waterways system.
 
 "(c)
 

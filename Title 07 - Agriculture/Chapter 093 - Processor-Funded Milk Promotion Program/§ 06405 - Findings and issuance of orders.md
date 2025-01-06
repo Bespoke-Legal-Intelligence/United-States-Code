@@ -6,7 +6,7 @@ After notice and opportunity for public comment are given, as provided in sectio
 
 #### (b) Effective date
 
-Such order shall be issued and, if approved by fluid milk processors as provided in section 6413of this title, shall become effective not later than 180 days following publication of the proposed order.
+Such order shall be issued and, if approved by fluid milk processors as provided in section 6413 of this title, shall become effective not later than 180 days following publication of the proposed order.
 
 (Pub. L. 101–624, title XIX, §1999F, Nov. 28, 1990, 104 Stat. 3916.)
 

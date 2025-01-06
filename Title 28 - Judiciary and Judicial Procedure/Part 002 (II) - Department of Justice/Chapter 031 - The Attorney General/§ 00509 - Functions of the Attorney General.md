@@ -144,7 +144,7 @@ Study.—The Attorney General shall annually conduct a study of the cases under 
 
 &emsp;&emsp;"(G) the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended; and
 
-&emsp;&emsp;"(H) the number of cases referred by an eligible entity or a State or local law enforcement agency or prosecutor to the Department within the study period, the number of such cases that resulted in Federal charges being filed, the date the charges were filed, and if the Department declines to prosecute or participate in an investigation of a case so referred, the fact that it did so, and the outreach, collaboration, and support for investigations and prosecutions of violations of criminal civil rights statutes described in section 2(3), including murders and including disappearances described in section 2(4), within Federal, State, and local jurisdictions.
+&emsp;&emsp;"(H) the number of cases referred by an eligible entity or a State or local law enforcement agency or prosecutor to the Department within the study period, the number of such cases that resulted in Federal charges being filed, the date the charges were filed, and if the Department declines to prosecute or participate in an investigation of a case so referred, the fact that it did so, and the outreach, collaboration, and support for investigations and prosecutions of violations of criminal civil rightsstatutes described in section 2(3), including murders and including disappearances described in section 2(4), within Federal, State, and local jurisdictions.
 
 &emsp;"(2)
 
@@ -398,7 +398,7 @@ Pub. L. 103–317, title I, §109, Aug. 26, 1994, 108 Stat. 1735, provided that:
 
 #### Neighborhood Revitalization
 
-Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafterthe Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
+Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
@@ -444,7 +444,7 @@ Compensation.—The Special Counsel shall be paid at the basic pay payable for l
 
 #### "SEC. 2538. ASSIGNMENT OF PERSONNEL.
 
-"There shall be assigned to the Financial Institutions Fraud Unit such personnel as the Attorney General deems necessary to provide an appropriate level of enforcement activity in the area of fraud and other criminal activity in and against the financial services industry."
+"There shall be assigned to the Financial Institutions Fraud Unit such personnel as the Attorney Generaldeems necessary to provide an appropriate level of enforcement activity in the area of fraud and other criminal activity in and against the financial services industry."
 
 \[Section 2539 of Pub. L. 101–647, formerly set out in the note above, relating to financial institutions fraud task forces, was editorially reclassified as section 41501 of Title 34, Crime Control and Law Enforcement.\]
 
@@ -487,6 +487,8 @@ Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided: "That for f
 #### Uniforms and Allowances
 
 Pub. L. 101–162, title II, §203, Nov. 21, 1989, 103 Stat. 1002, provided that: "For fiscal year 1990 and hereafter, appropriations for 'Salaries and expenses, General Administration', 'Salaries and expenses, United States Marshals Service', 'Salaries and expenses, Federal Bureau of Investigation', 'Salaries and expenses, Drug Enforcement Administration', 'Salaries and expenses, Immigration and Naturalization Service', and 'Salaries and expenses, Federal Prison System', shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902)."
+
+\[Pub. L. 118–42, div. C, title II, Mar. 9, 2024, 138 Stat. 133, provided in part: "That any reference to the Department of Justice's 'General Administration' appropriations heading (including references that include its subheadings) which appears in any rule, regulation, provision, law, or other official document, shall hereafter be deemed a reference to the Department of Justice's 'Justice Operations, Management, and Accountability' appropriations heading."\]
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
@@ -548,7 +550,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 "(2) Any appropriation of funds authorized under paragraph (1) shall be—
 
-&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submittedby the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
+&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submitted by the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
 
 &emsp;"(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
@@ -586,7 +588,7 @@ Pub. L. 100–690, title IX, §9201, Nov. 18, 1988, 102 Stat. 4535, provided tha
 
 Study.—The Comptroller General of the United States shall conduct a study—
 
-&emsp;"(1) to determine the impact of additional resources to certain components of the Federal criminal justice system on other components of the system and of enhanced or new Federal criminal penalties or laws on the agencies and offices of the Department of Justice, the Federal courts, and other components of the Federal criminal justice system; and
+&emsp;"(1) to determine the impact of additional resources to certain components of the Federal criminal justice system on other components of the system and of enhanced or new Federal criminal penalties or laws on the agencies and offices of the Department ofJustice, the Federal courts, and other components of the Federal criminal justice system; and
 
 &emsp;"(2) use the data derived from the impact analysis to develop a model that can be applied by Congress and Federal agencies and departments to help determine appropriate staff and budget responses in order to maintain balance in the Federal criminal justice system and effectively implement changes in resources, laws, or penalties.
 
@@ -708,7 +710,7 @@ With this action, America will serve notice to the pusher and the peddler that t
 
 No matter how well organized they are, we will be better organized. No matter how well they have concealed their activities, we will root them out.
 
-Today, Federal investigation and enforcement of our narcotics laws are fragmented. One major element—theBureau of Narcotics—is in the Treasury Department and responsible for the control of marihuana and narcotics such as heroin. Another—the Bureau of Drug Abuse Control—is in the Department of Health, Education, and Welfare, and is responsible for the control of dangerous drugs including depressants, stimulants, and hallucinogens such as LSD.
+Today, Federal investigation and enforcement of our narcotics laws are fragmented. One major element—the Bureau of Narcotics—is in the Treasury Department and responsible for the control of marihuana and narcotics such as heroin. Another—the Bureau of Drug Abuse Control—is in the Department of Health, Education, and Welfare, and is responsible for the control of dangerous drugs including depressants, stimulants, and hallucinogens such as LSD.
 
 Neither is located in the agency which is primarily concerned with Federal law enforcement—the Department of Justice.
 
@@ -840,7 +842,7 @@ Seeking ways to intensify our counter-offensive against this menace, I am asking
 
 Funding for this effort has increased sevenfold during the past five years, from $36 million in fiscal year 1969 to $257 million in fiscal year 1974—more money is not the most pressing enforcement need at present. Nor is there a primary need for more manpower working on the problem, over 2100 new agents having already been added to the Federal drug enforcement agencies under this Administration, an increase of more than 250 percent over the 1969 level.
 
-The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a looselyconfederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
+The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
 More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
@@ -914,7 +916,7 @@ For these reasons, I am convinced that inspection activities at U.S. ports-of-en
 
 #### DECLARATIONS
 
-After investigation, I have found that each action included in Reorganization Plan No. 2 of 1973 is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive of the intention of the Congress as expressed in Section 901(a)(1): "to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;" Section 901(a)(3): "to increase the efficiency of the operations of the Government to the fullest extent practicable;" Section 901(a)(5) "to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government;" and Section 901(a)(6): "to eliminate overlapping and duplication of effort."
+After investigation, I have found that each action included in Reorganization Plan No. 2 of 1973 is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. Inparticular, the plan is responsive of the intention of the Congress as expressed in Section 901(a)(1): "to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;" Section 901(a)(3): "to increase the efficiency of the operations of the Government to the fullest extent practicable;" Section 901(a)(5) "to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government;" and Section 901(a)(6): "to eliminate overlapping and duplication of effort."
 
 As required by law, the plan has one logically consistent subject matter: consolidation of Federal drug law enforcement activities in a manner designed to increase their effectiveness.
 
@@ -978,7 +980,7 @@ Establishment of the Federal Legal Council
 
 1–103. The initial members of the Council shall serve for a term of two years. Thereafter, the agencies which compose the membership shall be designated annually by the Council and at least five positions on the Council, other than that held by the Attorney General, shall rotate annually.
 
-1–104. In addition to the above members, the Directors of the Office of Management and Budget and theOffice of Personnel Management, or their designees, shall be advisory members of the Council.
+1–104. In addition to the above members, the Directors of the Office of Management and Budget and the Office of Personnel Management, or their designees, shall be advisory members of the Council.
 
 1–105. The Attorney General shall chair the Council and provide staff for its operation. Representatives of agencies that are not members of the Council may serve on or chair subcommittees of the Council.
 

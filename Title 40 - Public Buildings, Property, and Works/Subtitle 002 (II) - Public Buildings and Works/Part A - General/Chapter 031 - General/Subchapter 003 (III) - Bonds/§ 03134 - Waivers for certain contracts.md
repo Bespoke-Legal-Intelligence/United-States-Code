@@ -6,7 +6,7 @@ Military.—The Secretary of the Army, the Secretary of the Navy, the Secretary 
 
 (b)
 
-Transportation.—The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract ismade under sections 1535 and 1536 of title 31 or subtitle V of title 46, regardless of the terms of the contracts as to payment or title.
+Transportation.—The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31 or subtitle V of title 46, regardless of the terms of the contracts as to payment or title.
 
 (c)
 
@@ -44,7 +44,7 @@ In subsection (b), the words "of any kind or nature" are omitted as unnecessary.
 
 #### References in Text
 
-An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§883a etseq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

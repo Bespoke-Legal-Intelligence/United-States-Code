@@ -36,7 +36,7 @@ Content of Agreement.—An agreement under subsection (a)—
 
 &emsp;(10) shall provide for priority of occupancy for military families;
 
-&emsp;(11) shall include a provision authorizing the Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, to take such action as the Secretary considers appropriate to protect the interests of the United States, including rendering the agreementnull and void if, in the opinion of the Secretary, the owner of the housing fails to maintain a satisfactory level of operation and maintenance;
+&emsp;(11) shall include a provision authorizing the Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, to take such action as the Secretary considers appropriate to protect the interests of the United States, including rendering the agreement null and void if, in the opinion of the Secretary, the owner of the housing fails to maintain a satisfactory level of operation and maintenance;
 
 &emsp;(12) may provide in the agreement for the rental of a child care center, civic center building, and similar type buildings constructed for the support of family housing;
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: "Section 2836 of title10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date."
+Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: "Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

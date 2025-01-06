@@ -46,7 +46,7 @@
 
 #### (3) Assignment of personnel
 
-&emsp;The Secretary shall assign to the Office for State and Local Law Enforcement permanentstaff and, as appropriate and consistent with sections 316(c)(2), 381, and 468(d) of this title, other appropriate personnel detailed from other components of the Department to carry out the responsibilities under this subsection.
+&emsp;The Secretary shall assign to the Office for State and Local Law Enforcement permanent staff and, as appropriate and consistent with sections 316(c)(2), 381, and 468(d) of this title, other appropriate personnel detailed from other components of the Department to carry out the responsibilities under this subsection.
 
 #### (4) Responsibilities
 

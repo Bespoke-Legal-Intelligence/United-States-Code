@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture shall establish, within the Department of Agriculture or through an independent contracting entity, a program of education and outreach on biobased fuels and biobased products consisting of—
+The Secretary of Agriculture shall establish, within the Department of Agriculture orthrough an independent contracting entity, a program of education and outreach on biobased fuels and biobased products consisting of—
 
 &emsp;(1) training and technical assistance programs for feedstock producers to promote producer ownership, investment, and participation in the operation of processing facilities; and
 

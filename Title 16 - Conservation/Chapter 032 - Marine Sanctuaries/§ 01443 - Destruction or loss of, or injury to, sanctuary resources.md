@@ -26,7 +26,7 @@
 
 #### (4) Limits to liability
 
-&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706 of title 46 shall limit the liability of any person under this chapter.
+&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706of title 46 shall limit the liability of any person under this chapter.
 
 #### (b) Response actions and damage assessment
 

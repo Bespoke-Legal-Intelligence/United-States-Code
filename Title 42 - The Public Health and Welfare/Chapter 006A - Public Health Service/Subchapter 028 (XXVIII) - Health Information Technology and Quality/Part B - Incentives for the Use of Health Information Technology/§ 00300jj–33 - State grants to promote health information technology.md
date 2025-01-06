@@ -104,7 +104,7 @@ The Secretary shall annually evaluate the activities conducted under this sectio
 
 #### (1) In general
 
-&emsp;For a fiscal year (beginning with fiscal year 2011), the Secretary may not make a grantunder this section to a State unless the State agrees to make available non-Federal contributions (which may include in-kind contributions) toward the costs of a grant awarded under subsection (c) in an amount equal to—
+&emsp;For a fiscal year (beginning with fiscal year 2011), the Secretary may not make a grant under this section to a State unless the State agrees to make available non-Federal contributions (which may include in-kind contributions) toward the costs of a grant awarded under subsection (c) in an amount equal to—
 
 &emsp;&emsp;(A) for fiscal year 2011, not less than $1 for each $10 of Federal funds provided under the grant;
 

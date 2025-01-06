@@ -64,7 +64,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 8752 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 8752 of this title.
 
 #### Conforming Regulations
 

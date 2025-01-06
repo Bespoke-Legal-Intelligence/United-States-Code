@@ -8,7 +8,7 @@ The Secretary shall make grants to entities (referred to in this subchapter as "
 
 In carrying out a program described in subsection (a), an entity receiving assistance under this section shall—
 
-&emsp;(1) provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical, social, emotional, and intellectual development of participating children;
+&emsp;(1) provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical,social, emotional, and intellectual development of participating children;
 
 &emsp;(2) ensure that the level of services provided to families responds to their needs and circumstances;
 
@@ -76,7 +76,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;Of the portion set aside under section 9835(a)(2)(C)(i)(I) of this title—
 
-&emsp;&emsp;&emsp;(i) not less than 50 percent shall be made available to Early Head Start agencies to use directly, which may include, at their discretion, the establishment of local or regional agreements with community experts, institutions of higher education, or private consultants, for training and technical assistance activities in order tomake program improvements identified by such agencies;
+&emsp;&emsp;&emsp;(i) not less than 50 percent shall be made available to Early Head Start agencies to use directly, which may include, at their discretion, the establishment of local or regional agreements with community experts, institutions of higher education, or private consultants, for training and technical assistance activities in order to make program improvements identified by such agencies;
 
 &emsp;&emsp;&emsp;(ii) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title, including infant and toddler specialists, to support Early Head Start agencies, consistent with subparagraph (B); and
 
@@ -136,7 +136,7 @@ The Secretary shall—
 
 &emsp;&emsp;(G) the relationship of health and well-being of pregnant women to prenatal and early child development.
 
-(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
+(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27,1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
 
 #### <b>Editorial Notes</b>
 

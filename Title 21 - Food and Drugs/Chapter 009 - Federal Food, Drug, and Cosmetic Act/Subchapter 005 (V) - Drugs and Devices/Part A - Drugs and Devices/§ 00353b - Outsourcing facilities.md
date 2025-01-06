@@ -196,7 +196,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (2) Advisory committee on compounding
 
-&emsp;Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
+&emsp;Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding,physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
 
 #### (3) Interim list
 

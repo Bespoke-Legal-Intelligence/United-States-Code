@@ -80,7 +80,7 @@ Before the award of funds for a grant under the program to a grant recipient, th
 
 An eligible entity that receives a grant under the program shall use the grant funds to carry out projects that improve the operational sustainability of 1 or more small systems through—
 
-&emsp;(1) the development of a detailed asset inventory, which may include drinking water sources, wells, storage, valves, treatment systems, distribution lines, hydrants, pumps, controls, and other essential infrastructure;
+&emsp;(1) the development of a detailed asset inventory, which may include drinking watersources, wells, storage, valves, treatment systems, distribution lines, hydrants, pumps, controls, and other essential infrastructure;
 
 &emsp;(2) the development of an infrastructure asset map, including a map that uses technology such as—
 

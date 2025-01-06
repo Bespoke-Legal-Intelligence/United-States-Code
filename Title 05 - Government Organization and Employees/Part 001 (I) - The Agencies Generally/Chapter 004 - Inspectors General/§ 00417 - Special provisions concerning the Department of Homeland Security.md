@@ -82,7 +82,7 @@ Functions.—The senior official designated under paragraph (1) shall—
 
 &emsp;&emsp;&emsp;(i) the procedure to file complaints or comments concerning civil rights and civil liberties matters; and
 
-&emsp;&emsp;&emsp;(ii) the status of corrective actions taken by the Department in response toOffice of the Inspector General reports; and
+&emsp;&emsp;&emsp;(ii) the status of corrective actions taken by the Department in response to Office of the Inspector General reports; and
 
 &emsp;&emsp;(I) inform the Officer for Civil Rights and Civil Liberties of any weaknesses, problems, and deficiencies within the Department relating to civil rights or civil liberties.
 

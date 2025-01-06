@@ -146,7 +146,21 @@ Oversight Required To Ensure Continued Benefit to Patrons.—(1) With respect to
 
 &emsp;(C) Converting the defense commissary system to a nonappropriated fund entity or instrumentality under subsection (j)(1).
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, \[div. A\], title VI, §641, Oct. 14, 2008, 122 Stat. 4493; Pub. L. 113–291, div. A, title VI, §631, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 114–328, div. A, title VI, §661(c), Dec. 23, 2016, 130 Stat. 2170; Pub. L. 115–232, div. A, title VIII, §836(e)(11), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 117–81, div. A, title VI, §631, Dec. 27, 2021, 135 Stat. 1775.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, \[div. A\], title VI, §641, Oct. 14, 2008, 122 Stat. 4493; Pub. L. 113–291, div. A, title VI, §631, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 114–328, div. A, title VI, §661(c), Dec. 23, 2016, 130 Stat. 2170; Pub. L. 115–232, div. A, title VIII, §836(e)(11), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 117–81, div. A, title VI, §631, Dec. 27, 2021, 135 Stat. 1775; Pub. L. 118–159, div. A, title VI, §641(a), Dec. 23, 2024, 138 Stat. 1938.)
+
+#### Amendment of Section
+
+<i>Pub. L. 118–159, div. A, title VI, §641, Dec. 23, 2024, 138 Stat. 1938, provided that, effective on Jan. 1, 2026, this section is amended by adding at the end the following new subsection:</i>
+
+<i>(l)</i>
+
+<i>Prohibition on Sale of Garlic From People's Republic of China.—The Secretary of Defense shall prohibit the sale at any commissary store of fresh or chilled garlic—</i>
+
+&emsp;<i>(1) classified under subheading 0703.20.00 of the Harmonized Tariff Schedule of the United States; and</i>
+
+&emsp;<i>(2) that originated from, or was processed in, the People's Republic of China.</i>
+
+<i>See 2024 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -159,6 +173,8 @@ The date of the enactment of this subsection, referred to in subsec. (j)(3)(C), 
 A prior section 2484 was renumbered section 2483 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (l). Pub. L. 118–159 added subsec. (l).
 
 <b>2021</b>—Subsec. (f). Pub. L. 116–283 substituted "section 3204(a)(5)" for "section 2304(c)(5)".
 
@@ -252,6 +268,10 @@ Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. A, title VI, §641(b), Dec. 23, 2024, 138 Stat. 1938, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2026."
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
@@ -290,9 +310,11 @@ Pub. L. 114–328, div. A, title VI, §661(g), Dec. 23, 2016, 130 Stat. 2172, pr
 
 #### Competitive Pricing of Legal Consumer Tobacco Products Sold in Department of Defense Retail Stores
 
-Pub. L. 117–328, div. C, title VIII, §8041, Dec. 29, 2022, 136 Stat. 4595, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
+Pub. L. 118–47, div. A, title VIII, §8041, Mar. 23, 2024, 138 Stat. 492, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. C, title VIII, §8041, Dec. 29, 2022, 136 Stat. 4595.
 
 Pub. L. 117–103, div. C, title VIII, §8043, Mar. 15, 2022, 136 Stat. 184.
 

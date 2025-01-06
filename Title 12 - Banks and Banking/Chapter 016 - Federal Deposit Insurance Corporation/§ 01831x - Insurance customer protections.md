@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Federal banking agencies shall prescribe and publish in final form, before the end of the 1-year period beginning on November 12, 1999, customer protection regulations (which the agencies jointly determine to be appropriate) that—
+&emsp;The Federal banking agencies shall prescribe and publish in final form, before the end of the1-year period beginning on November 12, 1999, customer protection regulations (which the agencies jointly determine to be appropriate) that—
 
 &emsp;&emsp;(A) apply to retail sales practices, solicitations, advertising, or offers of any insurance product by any depository institution or any person that is engaged in such activities at an office of the institution or on behalf of the institution; and
 
@@ -70,7 +70,7 @@ The regulations prescribed pursuant to subsection (a) shall include the followin
 
 #### (D) Meaningful disclosures
 
-&emsp;&emsp;Disclosures shall not be considered to be meaningfully provided under this paragraphif the institution or its representative states that disclosures required by this subsection were available to the customer in printed material available for distribution, where such printed material is not provided and such information is not orally disclosed to the customer.
+&emsp;&emsp;Disclosures shall not be considered to be meaningfully provided under this paragraph if the institution or its representative states that disclosures required by this subsection were available to the customer in printed material available for distribution, where such printed material is not provided and such information is not orally disclosed to the customer.
 
 #### (E) Adjustments for alternative methods of purchase
 
@@ -140,7 +140,7 @@ The regulations prescribed pursuant to subsection (a) shall include the followin
 
 #### (f) Consumer grievance process
 
-The Federal banking agencies shall jointly establish a consumer complaint mechanism, forreceiving and expeditiously addressing consumer complaints alleging a violation of regulations issued under the section, which shall—
+The Federal banking agencies shall jointly establish a consumer complaint mechanism, for receiving and expeditiously addressing consumer complaints alleging a violation of regulations issued under the section, which shall—
 
 &emsp;(1) establish a group within each regulatory agency to receive such complaints;
 
@@ -158,7 +158,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 &emsp;&emsp;(A) any authority of the Securities and Exchange Commission, any self-regulatory organization, the Municipal Securities Rulemaking Board, or the Secretary of the Treasury under any Federal securities law; or
 
-&emsp;&emsp;(B) except as provided in paragraph (2), any authority of any State insurance commission (or any agency or office performing like functions), or of any State securities commission (or any agency or office performing like functions), or other State authority under any State law.
+&emsp;&emsp;(B) except as provided in paragraph (2), any authority of any State insurance commission (or any agency or office performinglike functions), or of any State securities commission (or any agency or office performing like functions), or other State authority under any State law.
 
 #### (2) Coordination with State law
 

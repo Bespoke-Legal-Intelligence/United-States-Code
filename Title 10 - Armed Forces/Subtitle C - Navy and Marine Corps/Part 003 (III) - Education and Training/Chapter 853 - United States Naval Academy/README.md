@@ -11,7 +11,7 @@
 | [8455\.](%C2%A7%2008455%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md) | Midshipmen: allotment upon redistricting of Congressional Districts. |
 | [8456\.](%C2%A7%2008456%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md) | Midshipmen: nomination and selection to fill vacancies. |
 | [8458\.](%C2%A7%2008458%20-%20Midshipmen%20qualifications%20for%20admission.md) | Midshipmen: qualifications for admission. |
-| [8459\.](%C2%A7%2008459%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md) | Midshipmen: agreement for length of service. |
+| [8459\.](%C2%A7%2008459%20-%20Midshipmen%20service%20obligation.md) | Midshipmen: service obligation. |
 | [8460\.](%C2%A7%2008460%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md) | Midshipmen: clothing and equipment; uniform allowance. |
 | [8461\.](%C2%A7%2008461%20-%20Midshipmen%20dismissal%20for%20best%20interests%20of%20the%20service.md) | Midshipmen: dismissal for best interests of the service. |
 | [8462\.](%C2%A7%2008462%20-%20Midshipmen%20discharge%20for%20unsatisfactory%20conduct%20or%20inaptitude.md) | Midshipmen: discharge for unsatisfactory conduct or inaptitude. |
@@ -45,6 +45,8 @@
 A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneous rights and benefits in the Air Force, prior to renumbering as chapter 933 of this title.
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title V, §557(b)(1), Dec. 23, 2024, 138 Stat. 1897, substituted "service obligation" for "agreement for length of service" in item 8459. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title V, §553(b)(2), Dec. 27, 2021, 135 Stat. 1737, added item 8454a.
 
@@ -96,7 +98,7 @@ Pub. L. 108–375, div. A, title V, §544(b)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 08455 - Midshipmen allotment upon redistricting of Congressional Districts](%C2%A7%2008455%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md)
 - [&sect; 08456 - Midshipmen nomination and selection to fill vacancies](%C2%A7%2008456%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md)
 - [&sect; 08458 - Midshipmen qualifications for admission](%C2%A7%2008458%20-%20Midshipmen%20qualifications%20for%20admission.md)
-- [&sect; 08459 - Midshipmen agreement for length of service](%C2%A7%2008459%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md)
+- [&sect; 08459 - Midshipmen service obligation](%C2%A7%2008459%20-%20Midshipmen%20service%20obligation.md)
 - [&sect; 08460 - Midshipmen clothing and equipment; uniform allowance](%C2%A7%2008460%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md)
 - [&sect; 08461 - Midshipmen dismissal for best interests of the service](%C2%A7%2008461%20-%20Midshipmen%20dismissal%20for%20best%20interests%20of%20the%20service.md)
 - [&sect; 08462 - Midshipmen discharge for unsatisfactory conduct or inaptitude](%C2%A7%2008462%20-%20Midshipmen%20discharge%20for%20unsatisfactory%20conduct%20or%20inaptitude.md)

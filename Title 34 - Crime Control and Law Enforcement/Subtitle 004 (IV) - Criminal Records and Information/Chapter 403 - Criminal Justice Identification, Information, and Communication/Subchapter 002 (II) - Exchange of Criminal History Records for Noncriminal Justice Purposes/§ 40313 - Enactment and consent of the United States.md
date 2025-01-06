@@ -1,6 +1,6 @@
 ### §40313. Enactment and consent of the United States
 
-The National Crime Prevention and Privacy Compact, as set forth in section 40316 of thistitle, is enacted into law and entered into by the Federal Government. The consent of Congress is given to States to enter into the Compact.
+The National Crime Prevention and Privacy Compact, as set forth in section 40316 of this title, is enacted into law and entered into by the Federal Government. The consent of Congress is given to States to enter into the Compact.
 
 (Pub. L. 105–251, title II, §214, Oct. 9, 1998, 112 Stat. 1875.)
 

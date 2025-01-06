@@ -16,7 +16,7 @@
 
 #### (3) Penalties
 
-&emsp;Any penalty, addition to tax, or additional amount shall be determined at the partnershiplevel as if such partnership had been an individual subject to tax under chapter 1 for the reviewed year and the imputed underpayment were an actual underpayment (or understatement) for such year.
+&emsp;Any penalty, addition to tax, or additional amount shall be determined at the partnership level as if such partnership had been an individual subject to tax under chapter 1 for the reviewed year and the imputed underpayment were an actual underpayment (or understatement) for such year.
 
 #### (b) Interest and penalties with respect to adjustment year return
 

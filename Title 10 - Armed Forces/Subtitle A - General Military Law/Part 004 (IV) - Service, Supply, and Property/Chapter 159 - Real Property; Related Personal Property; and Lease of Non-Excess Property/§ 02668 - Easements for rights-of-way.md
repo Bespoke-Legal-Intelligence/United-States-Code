@@ -52,7 +52,7 @@ Notice to Department of the Interior.—Copies of instruments granting easements
 
 Disposition of Consideration.—Subsections (c) and (e) of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725;Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2822(a), (b), Oct. 17, 2006, 120 Stat. 2474, 2475; Pub. L. 110–181, div. A, title X, §1063(a)(14), Jan. 28, 2008, 122 Stat. 322.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2822(a), (b), Oct. 17, 2006, 120 Stat. 2474, 2475; Pub. L. 110–181, div. A, title X, §1063(a)(14), Jan. 28, 2008, 122 Stat. 322.)
 
 Historical and Revision Notes
 
@@ -92,7 +92,7 @@ In subsection (b), the words "for the easement" are substituted for the words "f
 
 In subsections (b) and (c), the word "easement" is substituted for the word "rights-of-way".
 
-In subsection (c), the word "terminate" is substituted for the words "annulled and forfeited". The words "and conditions" are omitted as covered by the word "terms". The words "two-year period" are substituted for the words "a period of two consecutive years". The words "of rights granted under authority hereof" are omitted as surplusage.
+In subsection (c), the word "terminate" is substituted for the words "annulled and forfeited". The words "andconditions" are omitted as covered by the word "terms". The words "two-year period" are substituted for the words "a period of two consecutive years". The words "of rights granted under authority hereof" are omitted as surplusage.
 
 #### <b>Editorial Notes</b>
 

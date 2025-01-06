@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substi
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to offenses occurring on or afterSept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
+Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Effective Date of 1994 Amendment
 

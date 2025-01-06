@@ -32,6 +32,7 @@
 | [<b>26.</b>](Chapter%20026%20-%20Food%20Safety/README.md) | <b>Food Safety</b> | <b>2101</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Food%20Safety%20Modernization/README.md) | <b>Food Safety Modernization</b> | <b>2201</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Sanctions%20with%20Respect%20to%20Foreign%20Traffickers%20of%20Illicit%20Synthetic%20Opioids/README.md) | <b>Sanctions With Respect to Foreign Traffickers of Illicit Synthetic Opioids</b> | <b>2301</b> |
+| [<b>28A.</b>](Chapter%20028A%20-%20Fentanyl%20Eradication%20and%20Narcotics%20Deterrence%20Off%20Fentanyl/README.md) | <b>Fentanyl Eradication and Narcotics Deterrence Off Fentanyl</b> | <b>2341</b> |
 | [<b>29.</b>](Chapter%20029%20-%20International%20Sports%20Doping/README.md) | <b>International Sports Doping</b> | <b>2401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,4 +71,5 @@
 - [Chapter 026 - Food Safety](Chapter%20026%20-%20Food%20Safety/README.md)
 - [Chapter 027 - Food Safety Modernization](Chapter%20027%20-%20Food%20Safety%20Modernization/README.md)
 - [Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids](Chapter%20028%20-%20Sanctions%20with%20Respect%20to%20Foreign%20Traffickers%20of%20Illicit%20Synthetic%20Opioids/README.md)
+- [Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl](Chapter%20028A%20-%20Fentanyl%20Eradication%20and%20Narcotics%20Deterrence%20Off%20Fentanyl/README.md)
 - [Chapter 029 - International Sports Doping](Chapter%20029%20-%20International%20Sports%20Doping/README.md)

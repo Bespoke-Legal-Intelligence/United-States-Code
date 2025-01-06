@@ -50,7 +50,7 @@ Promulgation.—Notwithstanding the provisions of section 121(a) of the Nuclear 
 
 &emsp;"(2)
 
-Study by national academy of sciences.—Within 90 days after the date of the enactment of this Act \[Oct. 24, 1992\], the Administrator shall contract with the National Academy of Sciences to conduct a study to provide, by not later than December 31, 1993, findings and recommendations on reasonable standards for protection of the public health and safety, including—
+Study by national academy of sciences.—Within 90 days after the date of the enactment of this Act \[Oct. 24, 1992\], the Administrator shall contract with the National Academy of Sciences to conduct astudy to provide, by not later than December 31, 1993, findings and recommendations on reasonable standards for protection of the public health and safety, including—
 
 &emsp;&emsp;"(A) whether a health-based standard based upon doses to individual members of the public from releases to the accessible environment (as that term is defined in the regulations contained in subpart B of part 191 of title 40, Code of Federal Regulations, as in effect on November 18, 1985) will provide a reasonable standard for protection of the health and safety of the general public;
 

@@ -42,7 +42,7 @@ The Director shall be accountable to the board of directors. The Director shall 
 
 (3) Each member of the board of directors shall designate in writing an official, not below the level of Assistant Secretary, to serve as the voting representative of such member on the board. Such designation shall be effective until revoked or until a date or event specified therein. Any such representative may refer for board action any matter under consideration by the designating board member, but such representative shall not count toward establishment of a quorum as described under paragraph (2).
 
-(4) The Inspector General of the corporation shall report to the board of directors, and not less than twice a year, shall attend a meeting of the board of directors to provide a report on the activities and findings of the Inspector General, including with respect to monitoring and review of the operations of the corporation.
+(4) The Inspector General of the corporation shall report to the board of directors, and not less than twice a year, shall attend a meeting ofthe board of directors to provide a report on the activities and findings of the Inspector General, including with respect to monitoring and review of the operations of the corporation.
 
 (5) The General Counsel of the corporation shall—
 
@@ -80,7 +80,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
 
-(2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
+(2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. ThePresident shall designate one member as chairman at the time of the appointment of that member.
 
 (3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee. Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).
 
@@ -124,7 +124,7 @@ This chapter, referred to in subsecs. (b)(3), (4), (8), (d)(6), and (i), was in 
 
 The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
 
-The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§3301 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23\(§3301 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 #### Codification
 
@@ -150,7 +150,7 @@ Subsec. (j). Pub. L. 112–141, §40231(b), added subsec. (j).
 
 Subsec. (k). Pub. L. 112–141, §40231(c), added subsec. (k).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted "In carrying out its functions underthis subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board" for "In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board".
+<b>2006</b>—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted "In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board" for "In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board".
 
 <b>2002</b>—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 

@@ -210,7 +210,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (4) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2010 through 2015, to remain available until expended.
+&emsp;There is authorized to be appropriated to carry out this subsection $1,000,000 for each offiscal years 2010 through 2015, to remain available until expended.
 
 #### (n) Buy American
 
@@ -298,7 +298,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (A) Reduction in price
 
-&emsp;&emsp;A school food authority may reduce the average price of a paid lunch established under this subsection if the State agency ensures that funding from non-Federal sources (other than in-kind contributions) is added to the nonprofit school food service account of the school food authority in an amount estimated to be equal to at least the difference between—
+&emsp;&emsp;A school food authority may reduce the average price of a paid lunch establishedunder this subsection if the State agency ensures that funding from non-Federal sources (other than in-kind contributions) is added to the nonprofit school food service account of the school food authority in an amount estimated to be equal to at least the difference between—
 
 &emsp;&emsp;&emsp;(i) the average price required of the school food authority for the paid lunches under paragraph (2); and
 
@@ -366,7 +366,7 @@ The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73,
 
 The Civil Rights Act of 1964, referred to in subsec. (l)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsec. (l)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
@@ -522,11 +522,11 @@ Subsec. (i). Pub. L. 101–147, §306(b)(4), struck out "(42 U.S.C. 1771 et seq.
 
 Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by Pub. L. 99–500 and 99–591, §326, and Pub. L. 99–661, §4206, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
-<b>1987</b>—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: " 'School' means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term 'nonprofit', when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
+<b>1987</b>—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: " 'School' means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term 'nonprofit', when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflectchanges in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
 
 <b>1986</b>—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted "On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
 
-Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out "except private schools whose average yearly tuition exceeds $1,500 per child," after "grade or under," was executed by striking out "except private schools whose average yearly tuition exceeds $2,000 per child," after "grade or under," to reflect the probableintent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
+Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out "except private schools whose average yearly tuition exceeds $1,500 per child," after "grade or under," was executed by striking out "except private schools whose average yearly tuition exceeds $2,000 per child," after "grade or under," to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
 Pub. L. 99–661, §4205(a)(1), substituted "$2,000" for "$1,500".
 
@@ -618,7 +618,7 @@ Pub. L. 99–500, title III, §325(c), Oct. 18, 1986, 100 Stat. 1783–361, and 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 ofPub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 

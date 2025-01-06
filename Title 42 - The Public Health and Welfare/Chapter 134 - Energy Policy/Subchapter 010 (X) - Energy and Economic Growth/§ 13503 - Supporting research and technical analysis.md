@@ -44,7 +44,7 @@
 
 #### (i) Eligible jurisdiction
 
-&emsp;&emsp;&emsp;The term "eligible jurisdiction" means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
+&emsp;&emsp;&emsp;The term "eligible jurisdiction" means a State that is determined to be eligible fora grant under this paragraph in accordance with subparagraph (D).
 
 #### (ii) EPSCoR
 
@@ -102,7 +102,7 @@
 
 #### (iii) Eligibility under NSF EPSCoR
 
-&emsp;&emsp;&emsp;At the election of the Secretary, or if the Secretary declines to establish criteriaunder clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
+&emsp;&emsp;&emsp;At the election of the Secretary, or if the Secretary declines to establish criteria under clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
 
 #### (E) Grants
 
@@ -308,7 +308,7 @@
 
 #### (ii) Grants to consortia
 
-&emsp;&emsp;&emsp;In the case of an EPSCoR grant awarded to a consortium that contains institutionsof higher education that are not located in eligible jurisdictions, the Secretary may count—
+&emsp;&emsp;&emsp;In the case of an EPSCoR grant awarded to a consortium that contains institutions of higher education that are not located in eligible jurisdictions, the Secretary may count—
 
 &emsp;&emsp;&emsp;&emsp;(I) the full amount of funds expended to provide the grant towards meeting the funding requirement in clause (iii) if the lead entity of the consortium is an institution of higher education located in an eligible jurisdiction; and
 
@@ -334,7 +334,7 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 #### (1) Facility policy
 
-&emsp;The Secretary shall develop and implement a least cost strategy for correcting facility problems, closing unneeded facilities, making facility modifications, and building new facilities at multiprogram energy laboratories.
+&emsp;The Secretary shall develop and implement a least cost strategy for correcting facility problems, closing unneeded facilities, makingfacility modifications, and building new facilities at multiprogram energy laboratories.
 
 #### (2) Facility plan
 

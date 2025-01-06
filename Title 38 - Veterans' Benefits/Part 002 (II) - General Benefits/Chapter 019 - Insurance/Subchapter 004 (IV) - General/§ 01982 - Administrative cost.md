@@ -2,7 +2,7 @@
 
 Except as provided in sections 1920(c), 1923(d), and 1955(c) of this title, the United States shall bear the cost of administration in connection with this chapter, including expenses for medical examinations, inspections when necessary, printing and binding, and for such other expenditures as are necessary in the discretion of the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, §782; renumbered §1982 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, §201(b), Jan. 26, 1996, 110 Stat. 36.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, §782; renumbered §1982 and amended Pub. L. 102–83,§§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, §201(b), Jan. 26, 1996, 110 Stat. 36.)
 
 #### <b>Editorial Notes</b>
 

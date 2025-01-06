@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;(2) The term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965.
 
-&emsp;(3) The term "regional center for the transfer of manufacturing technology" means amanufacturing extension center for the transfer of manufacturing technology and best business practices referred to in section 25(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278k).
+&emsp;(3) The term "regional center for the transfer of manufacturing technology" means a manufacturing extension center for the transfer of manufacturing technology and best business practices referred to in section 25(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278k).
 
 (Added Pub. L. 102–190, div. A, title VIII, §825(a)(1), Dec. 5, 1991, 105 Stat. 1441; amended Pub. L. 105–244, title I, §102(a)(2)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 114–329, title V, §501(e)(1), Jan. 6, 2017, 130 Stat. 3032.)
 

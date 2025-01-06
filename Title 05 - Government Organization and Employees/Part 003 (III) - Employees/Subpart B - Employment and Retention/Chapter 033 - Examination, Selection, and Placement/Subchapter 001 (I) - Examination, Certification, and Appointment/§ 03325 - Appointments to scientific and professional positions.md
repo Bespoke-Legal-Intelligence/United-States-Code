@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 110–372, §2(c)(3)(B), added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
+Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
 
 #### Effective Date of 1978 Amendment
 

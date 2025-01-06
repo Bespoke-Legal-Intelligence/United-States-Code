@@ -16,7 +16,7 @@
 
 (c) Such guidance shall include such provisions as may be necessary to ensure that small business concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
 
-(d) Such guidance shall require audit-related information reported under this chapter to be reported in an electronic form in accordance with the data standards established under chapter 64.
+(d) Such guidance shall require audit-related information reported under this chapter to bereported in an electronic form in accordance with the data standards established under chapter 64.
 
 (Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1403; Pub. L. 105–135, title VI, §604(e)(3), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 116–103, §5(a)(2), Dec. 30, 2019, 133 Stat. 3270.)
 

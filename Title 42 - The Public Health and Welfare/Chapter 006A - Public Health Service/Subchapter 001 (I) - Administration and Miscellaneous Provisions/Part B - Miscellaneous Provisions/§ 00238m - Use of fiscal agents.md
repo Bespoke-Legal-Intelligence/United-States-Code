@@ -16,7 +16,7 @@ The Secretary may enter into contracts with fiscal agents—
 
 #### (b) Contracting prerequisites
 
-(1) Contracts under subsection (a) may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competition.
+(1) Contracts under subsection (a) may be entered into without regard to section 6101 of title41 or any other provision of law requiring competition.
 
 (2) No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
 

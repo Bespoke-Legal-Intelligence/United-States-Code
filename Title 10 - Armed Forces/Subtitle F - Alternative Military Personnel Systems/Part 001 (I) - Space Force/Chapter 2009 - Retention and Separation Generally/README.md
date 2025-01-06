@@ -6,11 +6,15 @@
 | [20402\.](%C2%A7%2020402%20-%20Enlisted%20members%20standards%20and%20qualifications%20for%20retention.md) | Enlisted members: standards and qualifications for retention. |
 | [20403\.](%C2%A7%2020403%20-%20Officers%20standards%20and%20qualifications%20for%20retention.md) | Officers: standards and qualifications for retention. |
 | [20404\.](%C2%A7%2020404%20-%20Selection%20of%20officers%20for%20early%20retirement%20or%20discharge.md) | Selection of officers for early retirement or discharge. |
-| 20404\.<sup>1</sup> | Force shaping authority. |
+| [20405\.](%C2%A7%2020405%20-%20Force%20shaping%20authority.md) | Force shaping authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be "20405".</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVII, §1701(a)(49), Dec. 23, 2024, 138 Stat. 2206, renumbered item 20404 "Force shaping authority" as 20405.
 
 
 ---

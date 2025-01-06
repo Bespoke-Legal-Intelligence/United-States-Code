@@ -16,7 +16,7 @@
 
 (3) The Council shall elect a chairman from among its members.
 
-(d)(1) The Foundation shall have an Executive Director who shall be appointed by the Council and shall serve at the pleasure of the Council. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Council shall prescribe.
+(d)(1) The Foundation shall have an Executive Director who shall be appointed by the Council and shall serve at the pleasure of the Council. The Executive Director shall be responsible forthe day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Council shall prescribe.
 
 (2) The rate of compensation of the Executive Director shall be fixed by the Council.
 

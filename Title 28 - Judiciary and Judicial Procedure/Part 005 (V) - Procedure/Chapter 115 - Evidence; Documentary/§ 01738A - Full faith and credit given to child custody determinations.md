@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child because the child, a sibling, or parent of the child has been subjected to or threatened with mistreatment or abuse;
 
-&emsp;&emsp;(D)(i) it appears that no other State would have jurisdiction under subparagraph (A),\(B), (C), or (E), or another State has declined to exercise jurisdiction on the ground that the State whose jurisdiction is in issue is the more appropriate forum to determine the custody or visitation of the child, and (ii) it is in the best interest of the child that such court assume jurisdiction; or
+&emsp;&emsp;(D)(i) it appears that no other State would have jurisdiction under subparagraph (A), (B), (C), or (E), or another State has declined to exercise jurisdiction on the ground that the State whose jurisdiction is in issue is the more appropriate forum to determine the custody or visitation of the child, and (ii) it is in the best interest of the child that such court assume jurisdiction; or
 
 &emsp;&emsp;(E) the court has continuing jurisdiction pursuant to subsection (d) of this section.
 

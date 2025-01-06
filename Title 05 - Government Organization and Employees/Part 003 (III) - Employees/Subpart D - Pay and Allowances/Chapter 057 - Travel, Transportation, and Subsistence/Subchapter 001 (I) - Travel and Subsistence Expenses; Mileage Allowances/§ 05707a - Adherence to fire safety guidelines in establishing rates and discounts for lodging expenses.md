@@ -12,7 +12,7 @@
 
 (d) The Administrator of General Services shall include in each directory which lists lodging accommodations a description of the access and safety devices, including appropriate emergency alerting devices, which each listed place of public accommodation provides for guests who are hearing-impaired or visually or physically handicapped.
 
-(e) The Administrator of General Services may take any additional actions the Administratordetermines appropriate to facilitate the ability of employees traveling on official business to stay at approved places of public accommodation.
+(e) The Administrator of General Services may take any additional actions the Administrator determines appropriate to facilitate the ability of employees traveling on official business to stay at approved places of public accommodation.
 
 (f) For purposes of this section:
 
@@ -50,7 +50,7 @@ Subsec. (f). Pub. L. 105–85, §1107(b), added subsec. (f).
 
 #### Change of Name
 
-"Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in subsec. (f)(2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in subsec. (f)(2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered torefer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date
 

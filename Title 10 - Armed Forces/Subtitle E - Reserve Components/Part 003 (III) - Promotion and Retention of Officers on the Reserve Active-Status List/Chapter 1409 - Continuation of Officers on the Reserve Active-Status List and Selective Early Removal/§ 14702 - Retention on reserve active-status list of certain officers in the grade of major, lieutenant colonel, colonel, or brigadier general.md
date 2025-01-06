@@ -10,13 +10,15 @@ Retention.—Notwithstanding the provisions of section 14506, 14507, or 14508 of
 
 (b)
 
-Separation for Age.—An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.
+Separation for Age.—An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2955; amended Pub. L. 105–85, div. A, title V, §521(a), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 110–417, \[div. A\], title V, §514(b), (c)(1), Oct. 14, 2008, 122 Stat. 4441.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2955; amended Pub. L. 105–85, div. A, title V, §521(a), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 110–417, \[div. A\], title V, §514(b), (c)(1), Oct. 14, 2008, 122 Stat. 4441; Pub. L. 118–159, div. A, title V, §511(b), Dec. 23, 2024, 138 Stat. 1875.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–159 substituted "62" for "60".
 
 <b>2008</b>—Pub. L. 110–417, §514(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: "Retention on reserve active-status list of certain officers until age 60".
 

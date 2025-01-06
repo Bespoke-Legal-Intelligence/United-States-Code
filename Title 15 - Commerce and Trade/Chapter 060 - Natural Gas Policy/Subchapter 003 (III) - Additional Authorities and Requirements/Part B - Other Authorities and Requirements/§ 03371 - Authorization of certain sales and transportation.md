@@ -30,7 +30,7 @@
 
 #### (i) Maximum fair and equitable price
 
-&emsp;&emsp;&emsp;The rates and charges of any intrastate pipeline with respect to any transportation authorized under subparagraph (A), including any amount computed in accordance with the rule prescribed under clause\(ii), shall be fair and equitable and may not exceed an amount which is reasonably comparable to the rates and charges which interstate pipelines would be permitted to charge for providing similar transportation service.
+&emsp;&emsp;&emsp;The rates and charges of any intrastate pipeline with respect to any transportation authorized under subparagraph (A), including any amount computed in accordance with the rule prescribed under clause (ii), shall be fair and equitable and may not exceed an amount which is reasonably comparable to the rates and charges which interstate pipelines would be permitted to charge for providing similar transportation service.
 
 #### (ii) Commission rule
 
@@ -54,7 +54,7 @@
 
 #### (A) Maximum fair and equitable price
 
-&emsp;&emsp;The rates and charges of any intrastate pipeline with respect to any sale of natural gas authorized under paragraph (1) shall be fair and equitable and may not exceed the sum of—
+&emsp;&emsp;The rates and charges of any intrastate pipeline with respect to any sale of naturalgas authorized under paragraph (1) shall be fair and equitable and may not exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) such intrastate pipeline's weighted average acquisition cost of natural gas;
 
@@ -116,7 +116,7 @@
 
 #### (B) Verification of compliance
 
-&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastate pipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable tosuch sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
+&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastate pipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable to such sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
 
 #### (6) Termination of sales
 
@@ -134,7 +134,7 @@
 
 #### (B) Suspension pending hearing
 
-&emsp;&emsp;Prior to any hearing or determination required under subparagraph (A), upon complaint of any interested person or upon the Commission's own motion, the Commission may suspend any sale authorized under paragraph (1) if the Commission finds that it is likely that the determinations described in subparagraph (A) will be made following the hearing required under subparagraph (A).
+&emsp;&emsp;Prior to any hearing or determination required under subparagraph (A), upon complaint of any interested person or upon the Commission's own motion, the Commission may suspend any sale authorized under paragraph (1) if the Commission finds that it islikely that the determinations described in subparagraph (A) will be made following the hearing required under subparagraph (A).
 
 #### (C) Determination
 

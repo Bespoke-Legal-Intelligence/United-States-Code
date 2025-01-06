@@ -50,7 +50,7 @@ It is the policy of the United States that—
 
 &emsp;(1) to ensure the adequacy of productive capacity and supply, Federal departments and agencies that are responsible for national defense acquisition should continuously assess the capability of the domestic industrial base to satisfy production requirements under both peacetime and emergency conditions, specifically evaluating the availability of adequate production sources, including subcontractors and suppliers, materials, skilled labor, and professional and technical personnel;
 
-&emsp;(2) every effort should be made to foster cooperation between the defense and commercial sectors for research and development and for acquisition of materials, components, and equipment;
+&emsp;(2) every effort should be made to foster cooperation between the defense and commercialsectors for research and development and for acquisition of materials, components, and equipment;
 
 &emsp;(3) plans and programs to carry out the purposes of this chapter should be undertaken with due consideration for promoting efficiency and competition;
 
@@ -112,7 +112,7 @@ Act Aug. 7, 1953, ch. 339, 67 Stat. 417, provided: "That this Act may be cited a
 
 "
 
-Sec. 2. It is recognized that the continued dependence on overseas sources of supply for strategic or critical minerals and metals during periods of threatening world conflict or of political instability within those nations controlling the sources of supply of such materials gravely endangers the present and future economy and security of the United States. It is therefore declared to be the policy of the Congress that each department and agency of the Federal Government charged with responsibilities concerning the discovery, development, production, and acquisition of strategic or critical minerals and metals shall undertake to decrease further and to eliminate where possible the dependency of the United States on overseas sources of supply of each such material.
+Sec. 2. It is recognized that the continued dependence on overseas sources of supply for strategic or critical minerals and metals during periods of threatening world conflict or of political instability within those nations controlling the sources of supply of such materials gravely endangers the present and future economy and security of the United States. It is therefore declared to be the policy of the Congress that each department and agency of the Federal Government charged with responsibilities concerning the discovery, development, production, and acquisition of strategicor critical minerals and metals shall undertake to decrease further and to eliminate where possible the dependency of the United States on overseas sources of supply of each such material.
 
 "
 
@@ -122,5 +122,5 @@ Sec. 3. In accordance with the declaration of policy set forth in section 2 of t
 
 Sec. 4. In order that those persons who produce or who plan to produce under purchase programs established pursuant to Public Law 774 (Eighty-first Congress) \[50 U.S.C. 4501 et seq.\] and Public Law 96 (Eighty-second Congress) \[act July 31, 1951, ch. 275, 65 Stat. 131, see Tables for classification\] may be in position to plan their investment and production with due regard to requirements, the responsible agencies controlling such purchase programs are directed to publish at the end of each calendar quarter the amounts of each of the ores and concentrates referred to in section 3 purchased in that quarter and the total amounts of each which have been purchased under the program."
 
-\[Act Aug. 7, 1953, ch. 339, set out above, was formerly classified to sections 2181 to 2183 of the former Appendix to this title and to provisions set out as a noteunder section 2181 of the former Appendix to this title prior to editorial reclassification as this note.\]
+\[Act Aug. 7, 1953, ch. 339, set out above, was formerly classified to sections 2181 to 2183 of the former Appendix to this title and to provisions set out as a note under section 2181 of the former Appendix to this title prior to editorial reclassification as this note.\]
 

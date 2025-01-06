@@ -58,7 +58,7 @@ If any merchandise (other than sea stores or the equivalent for conveyances othe
 
 > &emsp;civil penalties may be imposed against the United States Postal Service until corrective action, satisfactory to U.S. Customs and Border Protection, is taken.
 
-(June 17, 1930, ch. 497, title IV, §436, 46 Stat. 711; Aug. 5, 1935, ch. 438, title II, §202, 49 Stat. 521; Pub. L. 99–570, title III, §3113(a), Oct. 27, 1986, 100 Stat. 3207–81; Pub. L. 103–182, title VI, §611, Dec.8, 1993, 107 Stat. 2170; Pub. L. 104–295, §21(e)(3), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 115–271, title VIII, §8007, Oct. 24, 2018, 132 Stat. 4080.)
+(June 17, 1930, ch. 497, title IV, §436, 46 Stat. 711; Aug. 5, 1935, ch. 438, title II, §202, 49 Stat. 521; Pub. L. 99–570, title III, §3113(a), Oct. 27, 1986, 100 Stat. 3207–81; Pub. L. 103–182, title VI, §611, Dec. 8, 1993, 107 Stat. 2170; Pub. L. 104–295, §21(e)(3), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 115–271, title VIII, §8007, Oct. 24, 2018, 132 Stat. 4080.)
 
 #### <b>Editorial Notes</b>
 

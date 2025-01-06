@@ -56,7 +56,7 @@ An employer that employs less than 50 employees shall not be subject to the requ
 
 #### (3) Significant expense
 
-&emsp;For purposes of paragraph (2)(A), it shall not be considered a significant expense to modifyor retrofit a locomotive or rolling stock by installing a curtain or other screening protection.
+&emsp;For purposes of paragraph (2)(A), it shall not be considered a significant expense to modify or retrofit a locomotive or rolling stock by installing a curtain or other screening protection.
 
 #### (4) Definitions
 

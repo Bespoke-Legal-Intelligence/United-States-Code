@@ -18,7 +18,7 @@ Amount.—The amount of incentive pay payable to an individual under this sectio
 
 (d)
 
-Repayment.—An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual's language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers' Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual's language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers' Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shallbe subject to the repayment provisions of section 303a(e) of this title.
 
 (e)
 

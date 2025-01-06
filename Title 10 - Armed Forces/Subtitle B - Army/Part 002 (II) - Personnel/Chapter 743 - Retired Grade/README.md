@@ -15,7 +15,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter369 of this title as this chapter and items 3961 to 3966 as 7341 to 7346, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 369 of this title as this chapter and items 3961 to 3966 as 7341 to 7346, respectively.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title V, §532(a)(2), Sept. 23, 1996, 110 Stat. 2518, added item 3963.
 

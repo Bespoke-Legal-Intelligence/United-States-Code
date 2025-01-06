@@ -87,5 +87,5 @@ Pub. L. 94–455, title XIX, §1902(a)(7)(B), Oct. 4, 1976, 90 Stat. 1805, provi
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 93–597, §6(c), Jan. 2, 1975, 88 Stat. 1953, provided that: "The amendments made by this section \[amending this section and section 1034 of this title\] shall take effect on July 1, 1973."
+Pub. L. 93–597, §6(c), Jan. 2, 1975, 88 Stat. 1953, provided that: "The amendments made by this section\[amending this section and section 1034 of this title\] shall take effect on July 1, 1973."
 

@@ -76,7 +76,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (ii) Conservation reserve enhancement program
 
-&emsp;&emsp;&emsp;The reduction in annual rental payments under clause (i) may be waived as part of the negotiation between the Secretary and an eligible partner to enter into a conservation reserve enhancement program agreement under section 3831a of this title.
+&emsp;&emsp;&emsp;The reduction in annual rental payments under clause (i) may be waived as part ofthe negotiation between the Secretary and an eligible partner to enter into a conservation reserve enhancement program agreement under section 3831a of this title.
 
 #### (C) Grasslands
 

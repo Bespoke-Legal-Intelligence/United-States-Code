@@ -66,7 +66,7 @@ Transfers.—The Secretary of Homeland Security shall transfer to—
 
 &emsp;&emsp;"(i) the Domestic Nuclear Detection Office, as in existence on the day before the date of the enactment of this Act \[Dec. 21, 2018\]; and
 
-&emsp;&emsp;"(ii) the Office of Health Affairs, as in existence on the day before the date of the enactment of this Act, except for the functions, personnel, budget authority, and assets of such office necessary to perform the functions specified in section 710 of the Homeland Security Act of 2002 \[6 U.S.C. 350\] (relating to workforce health and medical support), as added by this Act; and
+&emsp;&emsp;"(ii) the Office of Health Affairs, as in existence on the day before the date of the enactment of thisAct, except for the functions, personnel, budget authority, and assets of such office necessary to perform the functions specified in section 710 of the Homeland Security Act of 2002 \[6 U.S.C. 350\] (relating to workforce health and medical support), as added by this Act; and
 
 &emsp;"(B) the Management Directorate of the Department of Homeland Security all functions, personnel, budget authority, and assets of the Office of Health Affairs, as in existence on the day before the date of the enactment of this Act, that are necessary to perform the functions of such section 710.
 

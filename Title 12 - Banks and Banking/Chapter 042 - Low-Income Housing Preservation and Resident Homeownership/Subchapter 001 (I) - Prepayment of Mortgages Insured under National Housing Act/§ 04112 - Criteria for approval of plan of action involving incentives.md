@@ -24,7 +24,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and <sup>2</sup>
 
-&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or thedate the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
 
 &emsp;&emsp;(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
 
@@ -78,7 +78,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (B) Continued compliance
 
-&emsp;&emsp;To ensure continued compliance with the standards for a project subject to any actionunder subparagraph (A), the Secretary may also limit access of the owner to such amounts and use of such amounts for not more than the 2-year period beginning upon the determination that the project is in compliance with the standards.
+&emsp;&emsp;To ensure continued compliance with the standards for a project subject to any action under subparagraph (A), the Secretary may also limit access of the owner to such amounts and use of such amounts for not more than the 2-year period beginning upon the determination that the project is in compliance with the standards.
 
 #### (C) Removal of assistance
 
@@ -158,7 +158,7 @@ Subsec. (a)(2)(F). Pub. L. 103–327, which directed the temporary amendment of 
 
 <b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–550, §317(a)(4)(A), substituted "low-income" for "low income" after "families or persons,".
 
-Subsec. (a)(2)(G)(i). Pub. L. 102–550, §308(b), substituted ", where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs" for "by making changes in the annual authorized return under section 4104 of this title".
+Subsec. (a)(2)(G)(i). Pub. L. 102–550, §308(b), substituted ", where the owner is a priority purchaser, tothe portion of rent attributable to project oversight costs" for "by making changes in the annual authorized return under section 4104 of this title".
 
 Subsec. (c)(2). Pub. L. 102–550, §317(a)(4)(B), substituted "a hearing" for "an hearing".
 

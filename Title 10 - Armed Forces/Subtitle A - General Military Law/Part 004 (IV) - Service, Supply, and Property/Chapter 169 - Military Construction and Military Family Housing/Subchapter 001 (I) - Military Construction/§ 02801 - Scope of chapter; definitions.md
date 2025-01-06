@@ -18,7 +18,7 @@
 
 (d) This chapter (other than sections 2830,<sup>1</sup> 2835, and 2836 of this chapter) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, §1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2851(b)(4), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 110–181, div. B, title XXVIII, §2802(b), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(a), Oct. 14, 2008, 122 Stat. 4719.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, titleVI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, §1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2851(b)(4), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 110–181, div. B, title XXVIII, §2802(b), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(a), Oct. 14, 2008, 122 Stat. 4719.)
 
 #### <b>Editorial Notes</b>
 
@@ -162,7 +162,7 @@ Commencement.—The Secretary of Defense shall commence the pilot program no lat
 
 &emsp;"(2)
 
-Duration.—The pilot program shall be in effect for the fiscal year in which the Secretary commences the pilot program, as described in paragraph (1), andthe subsequent two fiscal years. Any construction commenced under the pilot program before the expiration date may continue to completion.
+Duration.—The pilot program shall be in effect for the fiscal year in which the Secretary commences the pilot program, as described in paragraph (1), and the subsequent two fiscal years. Any construction commenced under the pilot program before the expiration date may continue to completion.
 
 "(e)
 

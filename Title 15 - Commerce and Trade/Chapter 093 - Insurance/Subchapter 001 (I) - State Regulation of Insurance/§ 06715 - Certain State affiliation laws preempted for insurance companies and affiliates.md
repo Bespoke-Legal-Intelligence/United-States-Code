@@ -2,7 +2,7 @@
 
 Except as provided in section 6701(c)(2) of this title, no State may, by law, regulation, order, interpretation, or otherwise—
 
-&emsp;(1) prevent or significantly interfere with the ability of any insurer, or any affiliate of an insurer (whether such affiliate is organized as a stock company, mutual holding company, or otherwise), to become a financial holding company or to acquire control of a depository institution;
+&emsp;(1) prevent or significantly interfere with the ability of any insurer, or any affiliate of an insurer (whether such affiliate is organizedas a stock company, mutual holding company, or otherwise), to become a financial holding company or to acquire control of a depository institution;
 
 &emsp;(2) limit the amount of an insurer's assets that may be invested in the voting securities of a depository institution (or any company which controls such institution), except that the laws of an insurer's State of domicile may limit the amount of such investment to an amount that is not less than 5 percent of the insurer's admitted assets; or
 

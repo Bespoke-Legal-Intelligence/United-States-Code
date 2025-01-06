@@ -14,7 +14,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;&emsp;(D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency,<sup>1</sup> if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land; or
 
-&emsp;&emsp;(E) any portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), on the condition that if a person is determined to have committed a violationunder this subsection during a crop year, ineligibility under this subparagraph shall—
+&emsp;&emsp;(E) any portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), on the condition that if a person is determined to have committed a violation under this subsection during a crop year, ineligibility under this subparagraph shall—
 
 &emsp;&emsp;&emsp;(i) only apply to reinsurance years subsequent to the date of final determination of a violation, including all administrative appeals; and
 
@@ -42,7 +42,7 @@ The Secretary shall have, and shall not delegate to any private person or entity
 
 #### References in Text
 
-The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 

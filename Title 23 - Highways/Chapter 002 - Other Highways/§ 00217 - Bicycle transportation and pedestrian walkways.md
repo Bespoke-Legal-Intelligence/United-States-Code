@@ -10,7 +10,7 @@ Use of National Highway Performance Program Funds.—Subject to project approval
 
 (c)
 
-Use of Federal Lands Highway Funds.—Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways, Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities.
+Use of Federal Lands Highway Funds.—Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways,Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities.
 
 (d)
 
@@ -112,7 +112,7 @@ Pedestrian.—The term "pedestrian" means any person traveling by foot and any m
 
 Wheelchair.—The term "wheelchair" means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, §1446(a)(13), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, §§11133, 11525(p), Nov. 15, 2021, 135 Stat. 514, 608.)
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I,§1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, §1446(a)(13), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, §§11133, 11525(p), Nov. 15, 2021, 135 Stat. 514, 608.)
 
 #### <b>Editorial Notes</b>
 
@@ -146,7 +146,7 @@ Subsec. (h)(3). Pub. L. 105–178, §1202(a)(5), substituted "motorized wheelcha
 
 Subsec. (h)(4), (5). Pub. L. 105–178, §1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "For purposes of this section, a 'bicycle transportation facility' means new or improved lanes, paths, or shoulders for use by bicyclists,traffic control devices, shelters, and parking facilities for bicycles."
+Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "For purposes of this section, a 'bicycle transportation facility' means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles."
 
 <b>1995</b>—Subsec. (f). Pub. L. 104–59 substituted "determined in accordance with section 120(b)" for "80 percent".
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Active Transportation Infrastructure Investment Program
 
@@ -458,7 +458,7 @@ Pub. L. 105–178, title I, §1202(b), June 9, 1998, 112 Stat. 169, provided tha
 
 "(1)
 
-In general.—In implementing section 217(g) of title 23, United States Code, the Secretary, in cooperation with the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and other interested organizations, shall develop guidance on the various approaches to accommodating bicycles and pedestrian travel.
+In general.—In implementing section 217(g) of title 23, United States Code, the Secretary, in cooperation with the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and other interested organizations,shall develop guidance on the various approaches to accommodating bicycles and pedestrian travel.
 
 "(2)
 

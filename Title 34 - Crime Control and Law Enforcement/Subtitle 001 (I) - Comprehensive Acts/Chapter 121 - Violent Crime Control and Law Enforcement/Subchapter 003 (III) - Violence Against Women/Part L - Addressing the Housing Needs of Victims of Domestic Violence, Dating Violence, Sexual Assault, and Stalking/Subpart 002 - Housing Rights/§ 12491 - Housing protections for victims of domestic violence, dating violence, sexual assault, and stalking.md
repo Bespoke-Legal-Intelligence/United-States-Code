@@ -56,7 +56,7 @@ In this subpart:
 
 #### (1) In general
 
-&emsp;An applicant for or tenant of housing assisted under a covered housing program maynot be denied admission to, denied assistance under, terminated from participation in, or evicted from the housing on the basis that the applicant or tenant is or has been a victim of domestic violence, dating violence, sexual assault, or stalking, if the applicant or tenant otherwise qualifies for admission, assistance, participation, or occupancy.
+&emsp;An applicant for or tenant of housing assisted under a covered housing program may not be denied admission to, denied assistance under, terminated from participation in, or evicted from the housing on the basis that the applicant or tenant is or has been a victim of domestic violence, dating violence, sexual assault, or stalking, if the applicant or tenant otherwise qualifies for admission, assistance, participation, or occupancy.
 
 #### (2) Construction of lease terms
 
@@ -80,7 +80,7 @@ In this subpart:
 
 #### (ii) Effect of eviction on other tenants
 
-&emsp;&emsp;&emsp;If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant or resident an opportunity to establish eligibility for the covered housing program. If a tenant or resident described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant or resident a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
+&emsp;&emsp;&emsp;If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant or resident an opportunity to establisheligibility for the covered housing program. If a tenant or resident described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant or resident a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
 
 #### (C) Rules of construction
 
@@ -146,7 +146,7 @@ In this subpart:
 
 &emsp;&emsp;(C) a record of a Federal, State, tribal, territorial, or local law enforcement agency, court, or administrative agency; or
 
-&emsp;&emsp;(D) at the discretion of a public housing agency or owner or manager of housing assisted under a covered housing program, a statement or other evidence provided by an applicant or tenant.
+&emsp;&emsp;(D) at the discretion of a public housing agency or owner or manager of housing assisted under a covered housing program, astatement or other evidence provided by an applicant or tenant.
 
 #### (4) Confidentiality
 

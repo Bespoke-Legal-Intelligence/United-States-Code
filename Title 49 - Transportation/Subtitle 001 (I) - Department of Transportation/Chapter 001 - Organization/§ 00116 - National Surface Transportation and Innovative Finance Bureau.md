@@ -250,7 +250,7 @@ Transfer of funds from eliminated or consolidated offices.—The Secretary may t
 
 &emsp;&emsp;&emsp;(ii)
 
-Transfer of funds allocated to administrative costs.—The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereoftransferred to the Bureau may be transferred back to and merged with the original account.
+Transfer of funds allocated to administrative costs.—The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
 
 &emsp;(4)
 

@@ -46,7 +46,7 @@ Nothing in this section shall be construed to—
 
 &emsp;(1) alter the authority of the Secretary to approve drugs pursuant to this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as authorized prior to December 13, 2016), including the standards of evidence, and applicable conditions, for approval under such applicable chapter or Act; or
 
-&emsp;(2) confer any new rights, beyond those authorized under this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] prior to December 13, 2016, with respect to the permissibility of a sponsor referencing information contained in another application submitted under section 355(b)(1) of this title orsection 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\].
+&emsp;(2) confer any new rights, beyond those authorized under this chapter or the PublicHealth Service Act \[42 U.S.C. 201 et seq.\] prior to December 13, 2016, with respect to the permissibility of a sponsor referencing information contained in another application submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\].
 
 (June 25, 1938, ch. 675, §529A, as added Pub. L. 114–255, div. A, title III, §3012, Dec. 13, 2016, 130 Stat. 1091.)
 

@@ -30,7 +30,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 &emsp;(C) identification of measures that are necessary and appropriate to implement those provisions of the Western Convention which address the protection of wild plants.
 
-(3) No later than September 30, 1985, the Secretary and the Secretary of State shall submit areport to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remaining actions yet necessary for comprehensive and effective implementation of the Western Convention.
+(3) No later than September 30, 1985, the Secretary and the Secretary of State shall submit a report to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remaining actions yet necessary for comprehensive and effective implementation of the Western Convention.
 
 (4) The provisions of this subsection shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate resident fish or wildlife under State law or regulations.
 
@@ -54,7 +54,7 @@ Pub. L. 97–304, §5(b), Oct. 13, 1982, 96 Stat. 1422, provided that: "The amen
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 ofTitle 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Endangered Species Scientific Authority; Interim Performance of Functions of Commission
 

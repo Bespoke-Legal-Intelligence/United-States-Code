@@ -4,25 +4,25 @@
 
 #### (1) In general
 
-&emsp;Not later than 4 years after September 30, 2019, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities.
+&emsp;Not later than 4 years after September 30, 2024, the Secretary, in consultation with other relevant Federal departments and agencies, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and make publicly available, including through posting on the website of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities. Such report shall include activities and research related to the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals.
 
 #### (2) Contents
 
 &emsp;The report submitted under subsection (a) shall contain—
 
-&emsp;&emsp;(A) a description of the progress made in implementing the provisions of the Autism CARES Act of 2019;
+&emsp;&emsp;(A) a description of the progress made in implementing the provisions of the Autism CARES Act of 2024;
 
-&emsp;&emsp;(B) a description of the amounts expended on the implementation of the amendments made by the Autism CARES Act of 2019;
+&emsp;&emsp;(B) a description of the amounts expended on the implementation of the amendments made by the Autism CARES Act of 2024;
 
 &emsp;&emsp;(C) information on the incidence and prevalence of autism spectrum disorder, including available information on the prevalence of autism spectrum disorder among children and adults, and identification of any changes over time with respect to the incidence and prevalence of autism spectrum disorder;
 
-&emsp;&emsp;(D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
+&emsp;&emsp;(D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on December 23, 2024, and, as appropriate, how this age varies across population subgroups;
 
-&emsp;&emsp;(E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
+&emsp;&emsp;(E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on December 23, 2024, and, as appropriate, how this age varies across population subgroups;
 
 &emsp;&emsp;(F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, on how such average time varies across population subgroups;
 
-&emsp;&emsp;(G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how theage of the individual or other factors, such as demographic characteristics, may affect such effectiveness;
+&emsp;&emsp;(G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how the age of the individual or other factors, such as demographic characteristics, may affect such effectiveness;
 
 &emsp;&emsp;(H) information on the effectiveness and outcomes of innovative and newly developed intervention strategies for individuals with autism spectrum disorder or other developmental disabilities;
 
@@ -30,61 +30,49 @@
 
 &emsp;&emsp;(J) information on how States use home- and community-based services and other supports to ensure that individuals with autism spectrum disorder and other developmental disabilities are living, working, and participating in their community.
 
-#### (b) Report on the health and well-being of individuals with autism spectrum disorder across their lifespan
+#### (b) Report on the mental health needs of individuals with autism spectrum disorder across their lifespan
 
 #### (1) In general
 
-&emsp;Not later than 2 years after September 30, 2019, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the health and well-being of individuals with autism spectrum disorder.
+&emsp;Not later than 2 years after December 23, 2024, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the mental health needs of individuals with autism spectrum disorder.
 
 #### (2) Contents
 
 &emsp;The report submitted under paragraph (1) shall contain—
 
-&emsp;&emsp;(A) demographic factors associated with the health and well-being of individuals with autism spectrum disorder;
+&emsp;&emsp;(A) an overview of policies and programs relevant to the mental health of individuals with autism spectrum disorder across their lifespan, including an identification of existing Federal laws, regulations, policies, research, and programs; and
 
-&emsp;&emsp;(B) an overview of policies and programs relevant to the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;
+&emsp;&emsp;(B) recommendations to improve mental health outcomes and address related disparities in mental health care for individuals with autism spectrum disorder, including prevention, care coordination, and community-based services.
 
-&emsp;&emsp;(C) recommendations on establishing best practices guidelines to ensure interdisciplinary coordination between all relevant service providers receiving Federal funding;
+#### (c) Update on young adults and youth transitioning to adulthood
 
-&emsp;&emsp;(D) comprehensive approaches to improving health outcomes and well-being for individuals with autism spectrum disorder, including—
+Not later than 2 years after December 23, 2024, the Secretary, in coordination with other relevant Federal departments and agencies, as appropriate, shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an update to the report required pursuant to subsection (b) of this section, as added by section 6 of the Autism Cares Act of 2014 (Public Law 113–157), and in effect before September 30, 2019, concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.
 
-&emsp;&emsp;&emsp;(i) community-based behavioral supports and interventions;
-
-&emsp;&emsp;&emsp;(ii) nutrition, recreational, and social activities; and
-
-&emsp;&emsp;&emsp;(iii) personal safety services related to public safety agencies or the criminal justice system for such individuals; and
-
-&emsp;&emsp;(E) recommendations that seek to improve health outcomes for such individuals, including across their lifespan, by addressing—
-
-&emsp;&emsp;&emsp;(i) screening and diagnosis of children and adults;
-
-&emsp;&emsp;&emsp;(ii) behavioral and other therapeutic approaches;
-
-&emsp;&emsp;&emsp;(iii) primary and preventative care;
-
-&emsp;&emsp;&emsp;(iv) communication challenges;
-
-&emsp;&emsp;&emsp;(v) aggression, self-injury, elopement, and other behavioral issues;
-
-&emsp;&emsp;&emsp;(vi) emergency room visits and acute care hospitalization;
-
-&emsp;&emsp;&emsp;(vii) treatment for co-occurring physical and mental health conditions;
-
-&emsp;&emsp;&emsp;(viii) premature mortality;
-
-&emsp;&emsp;&emsp;(ix) medical practitioner training; and
-
-&emsp;&emsp;&emsp;(x) caregiver mental health.
-
-(July 1, 1944, ch. 373, title III, §399DD, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2828; amended Pub. L. 112–32, §2(4), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §6, Aug. 8, 2014, 128 Stat. 1834; Pub. L. 116–60, §3(d), Sept. 30, 2019, 133 Stat. 1113.)
+(July 1, 1944, ch. 373, title III, §399DD, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2828; amended Pub. L. 112–32, §2(4), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §6, Aug. 8, 2014, 128 Stat. 1834; Pub. L. 116–60, §3(d), Sept. 30, 2019, 133 Stat. 1113; Pub. L. 118–180, §3(d), Dec. 23, 2024, 138 Stat. 2617.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Autism CARES Act of 2019, referred to in subsec. (a)(2)(A), (B), is Pub. L. 116–60, Sept. 30, 2019, 133 Stat. 1110, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2019, which amended this part and section 284g of this title and enacted provisions set out as a note under section 201 of this title. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under section 201 of this title and Tables.
+The Autism CARES Act of 2024, referred to in subsec. (a)(2)(A), (B), is Pub. L. 118–180, Dec. 23, 2024, 138 Stat. 2614, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2024, which amended this part and section 284g of this title and enacted provisions set out as notes under sections 201 and 280i of this title. For complete classification of this Act to the Code, see Short Title of 2024 Amendment note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–180, §3(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: "Not later than 4 years after September 30, 2019, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities."
+
+Subsec. (a)(2)(A), (B). Pub. L. 118–180, §3(d)(1), substituted "Autism CARES Act of 2024" for "Autism CARES Act of 2019".
+
+Subsec. (a)(2)(D), (E). Pub. L. 118–180, §3(d)(1), substituted "December 23, 2024" for "September 30, 2019".
+
+Subsec. (b). Pub. L. 118–180, §3(d)(3)(A), substituted "mental health needs" for "health and well-being" in heading.
+
+Subsec. (b)(1). Pub. L. 118–180, §3(d)(3)(B), substituted "mental health needs" for "health and well-being".
+
+Pub. L. 118–180, §3(d)(1), substituted "December 23, 2024" for "September 30, 2019".
+
+Subsec. (b)(2). Pub. L. 118–180, §3(d)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) related to the content of reports submitted under par. (1).
+
+Subsec. (c). Pub. L. 118–180, §3(d)(4), added subsec. (c).
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–60, §3(d)(1)(A), substituted "September 30, 2019" for "August 8, 2014".
 

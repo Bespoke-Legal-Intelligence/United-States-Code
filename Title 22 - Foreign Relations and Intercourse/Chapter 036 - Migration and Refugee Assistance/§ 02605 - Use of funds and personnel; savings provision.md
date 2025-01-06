@@ -14,7 +14,7 @@ Funds made available for the purposes of this chapter shall be available for—
 
 &emsp;(5) expenses authorized by the Act of August 1, 1956 (70 Stat. 890–892), as amended;
 
-&emsp;(6) contracting for personal services abroad, and individuals employed by contract to perform such services shall not be considered to be employees of the United States for purposes of any law administered by the Office of Personnel Management, except that the Secretary of State may determine the applicability to such individuals of section 2(f) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2669(f)) and of any other law administered by the Secretary concerning the employment of such individuals abroad; and
+&emsp;(6) contracting for personal services abroad, and individuals employed by contract to perform such services shall not be considered tobe employees of the United States for purposes of any law administered by the Office of Personnel Management, except that the Secretary of State may determine the applicability to such individuals of section 2(f) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2669(f)) and of any other law administered by the Secretary concerning the employment of such individuals abroad; and
 
 &emsp;(7) all other expenses determined by the President to be necessary to carry out the purposes of this chapter.
 
@@ -32,7 +32,7 @@ Personnel funded pursuant to this section are authorized to provide administrati
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(3), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 

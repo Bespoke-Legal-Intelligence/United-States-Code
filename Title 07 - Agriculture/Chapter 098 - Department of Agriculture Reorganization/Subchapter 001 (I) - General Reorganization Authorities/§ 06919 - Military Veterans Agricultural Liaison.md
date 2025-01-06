@@ -128,7 +128,7 @@ In carrying out this section, the Secretary shall consult with organizations tha
 
 &emsp;Not later than 1 year after December 20, 2018, and annually thereafter, the Military Veterans Agricultural Liaison shall make publicly available and share broadly, including by posting on the website of the Department—
 
-&emsp;&emsp;(A) the report of the Military Veterans Agricultural Liaison on beginning farmer training for veterans and agricultural vocational and rehabilitation programs; and
+&emsp;&emsp;(A) the report of the Military Veterans Agricultural Liaison on beginning farmertraining for veterans and agricultural vocational and rehabilitation programs; and
 
 &emsp;&emsp;(B) the information disseminated under paragraphs (1) and (2) of subsection (b).
 

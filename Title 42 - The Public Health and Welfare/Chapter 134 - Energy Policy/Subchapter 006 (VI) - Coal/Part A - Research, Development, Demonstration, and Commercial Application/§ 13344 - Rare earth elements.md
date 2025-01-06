@@ -48,7 +48,7 @@ Not later than 1 year after December 27, 2020, and annually thereafter while the
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Secretary to carry out this subsection $140,000,000 for fiscal year 2022, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Secretary to carry out this subsection$140,000,000 for fiscal year 2022, to remain available until expended.
 
 #### (d) Critical material
 

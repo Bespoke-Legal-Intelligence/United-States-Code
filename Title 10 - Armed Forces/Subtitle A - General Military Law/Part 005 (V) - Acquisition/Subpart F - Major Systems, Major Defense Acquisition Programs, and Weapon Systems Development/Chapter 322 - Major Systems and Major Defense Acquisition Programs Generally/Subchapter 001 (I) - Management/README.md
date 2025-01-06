@@ -47,35 +47,11 @@ Required Elements.—The regulations required under subsection (a) shall incorpo
 
 #### Management of Manufacturing Risk in Major Defense Acquisition Programs
 
-Pub. L. 111–383, div. A, title VIII, §812, Jan. 7, 2011, 124 Stat. 4264, as amended by Pub. L. 112–81, div. A, title VIII, §834, Dec. 31, 2011, 125 Stat. 1506, directed the Secretary of Defense to issue, not later than 180 days after Jan. 7, 2011, comprehensive guidance on the management of manufacturing risk in major defense acquisition programs and to ensure that the acquisition workforce chapter of the annual strategic workforce plan required by former section 115b of this title included an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce and a plan of action for addressing any gaps in such knowledge and skills.
+Pub. L. 111–383, div. A, title VIII, §812, Jan. 7, 2011, 124 Stat. 4264, as amended by Pub. L. 112–81, div. A, titleVIII, §834, Dec. 31, 2011, 125 Stat. 1506, directed the Secretary of Defense to issue, not later than 180 days after Jan. 7, 2011, comprehensive guidance on the management of manufacturing risk in major defense acquisition programs and to ensure that the acquisition workforce chapter of the annual strategic workforce plan required by former section 115b of this title included an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce and a plan of action for addressing any gaps in such knowledge and skills.
 
 #### Congressional Notification of Cancellation of Major Automated Information Systems
 
-Pub. L. 109–163, div. A, title VIII, §806, Jan. 6, 2006, 119 Stat. 3373, provided that:
-
-"(a)
-
-Report Required.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not less than 60 days before cancelling a major automated information system program that has been fielded or approved to be fielded, or making a change that will significantly reduce the scope of such a program, of the proposed cancellation or change.
-
-"(b)
-
-Content.—Each notification submitted under subsection (a) with respect to a proposed cancellation or change shall include—
-
-&emsp;"(1) the specific justification for the proposed cancellation or change;
-
-&emsp;"(2) a description of the impact of the proposed cancellation or change on the ability of the Department to achieve the objectives of the program proposed for cancellation or change;
-
-&emsp;"(3) a description of the steps that the Department plans to take to achieve those objectives; and
-
-&emsp;"(4) other information relevant to the change in acquisition strategy.
-
-"(c)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'major automated information system' has the meaning given that term in Department of Defense directive 5000.1.
-
-&emsp;"(2) The term 'approved to be fielded' means having received Milestone C approval."
+Pub. L. 109–163, div. A, title VIII, §806, Jan. 6, 2006, 119 Stat. 3373, which required notification to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives prior to cancellation of a major automated information system program that had been fielded or approved to be fielded or making a change that would significantly reduce the scope of such a program, was repealed by Pub. L. 118–159, div. A, title XVII, §1701(g), Dec. 23, 2024, 138 Stat. 2207.
 
 
 ---

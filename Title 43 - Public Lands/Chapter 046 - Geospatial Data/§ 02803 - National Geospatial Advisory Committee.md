@@ -68,7 +68,7 @@ The Secretary of the Interior shall establish within the Department of the Inter
 
 #### (5) Ethical requirements
 
-&emsp;A member of the Advisory Committee may not participate in any specific-party matter (including a lease, license, permit, contract, claim, agreement, or related litigation) with the Department of the Interior in which the member has a direct financial interest.
+&emsp;A member of the Advisory Committee may not participate in any specific-party matter\(including a lease, license, permit, contract, claim, agreement, or related litigation) with the Department of the Interior in which the member has a direct financial interest.
 
 #### (6) Incumbents
 
@@ -162,7 +162,7 @@ The Advisory Committee shall—
 
 #### (4) Staff support
 
-&emsp;The Office of the Secretariat established by the Committee under section 2802(d) of this title shall provide administrative support to the Advisory Committee.
+&emsp;The Office of the Secretariat established by the Committee under section 2802(d) of thistitle shall provide administrative support to the Advisory Committee.
 
 #### (h) Applicability of FACA
 

@@ -16,7 +16,7 @@ As used in this subchapter—
 
 #### Amendments
 
-<b>2015</b>—Par. (1) to (3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+<b>2015</b>—Pars. (1) to (3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
 <b>2002</b>—Pars. (1) to (3). Pub. L. 107–110 substituted "7801" for "8801".
 

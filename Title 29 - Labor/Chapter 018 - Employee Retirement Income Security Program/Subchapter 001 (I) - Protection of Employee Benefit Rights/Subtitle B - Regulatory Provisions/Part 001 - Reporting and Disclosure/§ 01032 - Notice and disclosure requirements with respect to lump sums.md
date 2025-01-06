@@ -44,7 +44,7 @@ A plan administrator of a pension plan that amends the plan to provide a period 
 
 #### (3) Model notice
 
-&emsp;The Secretary shall issue a model notice for purposes of the notice under subsection (a)(1), including for information required under subparagraphs (C) through (F) of paragraph (1).
+&emsp;The Secretary shall issue a model notice for purposes of the notice under subsection (a)(1),including for information required under subparagraphs (C) through (F) of paragraph (1).
 
 #### (c) Notice to the Secretary and Pension Benefit Guaranty Corporation
 

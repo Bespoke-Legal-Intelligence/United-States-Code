@@ -26,7 +26,7 @@ Years.—No part of an appropriation that is deposited in the Fund pursuant to s
 
 (f)
 
-Authority to Enter Into Economic Order Quantity Contracts.—(1) The Secretary of the Navy may use funds deposited in the Fund to enter into contracts known as "economic order quantity contracts" with private shipyards and other commercial or government entities to achieve economic efficiencies based on production economies for major components or subsystems. The authority under this subsection extends to the procurement of parts, components, and systems (including weapon systems) common with and required for other nuclear powered vessels under joint economic order quantity contracts.
+Authority to Enter Into Economic Order Quantity Contracts.—(1) The Secretary of the Navy may use funds deposited in the Fund to enter into contracts known as "economic orderquantity contracts" with private shipyards and other commercial or government entities to achieve economic efficiencies based on production economies for major components or subsystems. The authority under this subsection extends to the procurement of parts, components, and systems (including weapon systems) common with and required for other nuclear powered vessels under joint economic order quantity contracts.
 
 (2) A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 
@@ -120,7 +120,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(Z) Hatches and hull penetrators.
 
-(Added Pub. L. 113–291, div. A, title X, §1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, §1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, §1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, §1022, Dec. 12, 2017, 131 Stat. 1548; Pub. L. 116–283, div. A, title X, §1023(a), Jan. 1, 2021, 134 Stat. 3840; Pub. L. 118–31, div. A, title X, §1016, Dec. 22, 2023, 137 Stat. 382.)
+(Added Pub. L. 113–291, div. A, title X, §1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, §1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, §1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, §1022, Dec. 12, 2017, 131 Stat. 1548;Pub. L. 116–283, div. A, title X, §1023(a), Jan. 1, 2021, 134 Stat. 3840; Pub. L. 118–31, div. A, title X, §1016, Dec. 22, 2023, 137 Stat. 382.)
 
 #### <b>Editorial Notes</b>
 

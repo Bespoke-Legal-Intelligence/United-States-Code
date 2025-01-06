@@ -74,7 +74,7 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is ac
 
 Provisions similar to those in this section were contained in sections 10501 and 10504 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-A prior section 10501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1359; Pub. L. 96–448, title II, §214(c)(3)–(5), Oct. 14, 1980, 94 Stat. 1915; Pub. L. 103–272, §4(j)(15), July 5, 1994, 108 Stat. 1369, related to jurisdiction of the Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10501 and 15301 of this title.
+A prior section 10501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1359; Pub. L. 96–448, title II, §214(c)(3)–(5), Oct. 14,1980, 94 Stat. 1915; Pub. L. 103–272, §4(j)(15), July 5, 1994, 108 Stat. 1369, related to jurisdiction of the Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10501 and 15301 of this title.
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Subsec. (c)(1)(B). Pub. L. 114–94, §3030(g)(1)(B), substituted "public transp
 
 Subsec. (c)(2)(A). Pub. L. 114–94, §3030(g)(2), substituted "public transportation" for " mass transportation".
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows:"Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority."
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows: "Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority."
 
 <b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
 

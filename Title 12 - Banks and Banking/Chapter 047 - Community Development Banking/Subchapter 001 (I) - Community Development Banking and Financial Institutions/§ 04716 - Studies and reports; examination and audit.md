@@ -6,7 +6,7 @@ The Fund shall conduct an annual evaluation of the activities carried out by the
 
 #### (b) Optional studies
 
-The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings ofany studies conducted pursuant to this subsection shall be included in the report required by subsection (a).
+The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a).
 
 #### (c) Native American lending study
 

@@ -62,6 +62,7 @@
 | [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md) | Appropriations for State Department; information to congressional committees. |
 | 2680–1. | Deadline for responses to questions from congressional committees. |
 | 2680–2. | Facilitating access to Department of State. |
+| 2680–3. | Responsiveness to Congressional Research Service inquiries and Congressional Budget Office inquiries. |
 | [2680a.](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md) | Compensation for disability or death. |
 | [2680b.](%C2%A7%2002680b%20-%20Special%20rules%20for%20certain%20monthly%20workers%27%20compensation%20payments%20and%20other%20payments%20for%20Department%20of%20State%20personnel%20under%20chief%20of%E2%80%A6.md) | Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of mission authority. |
 | [2681\.](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md) | International broadcasting facilities; transfer to Department of State; acquisition of property. |
@@ -146,6 +147,7 @@
 | [2734h.](%C2%A7%2002734h%20-%20Increased%20accountability%20in%20assignment%20restrictions%20and%20reviews.md) | Increased accountability in assignment restrictions and reviews. |
 | [2735\.](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md) | Foreign relations exchange programs. |
 | [2735a.](%C2%A7%2002735a%20-%20Presidential%20Envoy%20for%20the%20Abraham%20Accords%2C%20Negev%20Forum%2C%20and%20Related%20Integration%20and%20Normalization%20Fora%20and%20Agreements.md) | Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements. |
+| [2735b.](%C2%A7%2002735b%20-%20National%20Museum%20of%20American%20Diplomacy.md) | National Museum of American Diplomacy. |
 | [2736\.](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md) | Exit interviews for workforce. |
 | [2736a.](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md) | Recruitment and retention. |
 | [2736b.](%C2%A7%2002736b%20-%20Leadership%20engagement%20and%20accountability.md) | Leadership engagement and accountability. |
@@ -156,6 +158,8 @@
 | [2737\.](%C2%A7%2002737%20-%20Department%20of%20State%20paid%20Student%20Internship%20Program.md) | Department of State paid Student Internship Program. |
 | [2738\.](%C2%A7%2002738%20-%20Mid-Career%20Mentoring%20Program.md) | Mid-Career Mentoring Program. |
 | [2739\.](%C2%A7%2002739%20-%20Civil%20service%20rotational%20program.md) | Civil service rotational program. |
+| [2740\.](%C2%A7%2002740%20-%20Career%20intermission%20program%20adjustment%20to%20enhance%20retention.md) | Career intermission program adjustment to enhance retention. |
+| [2741\.](%C2%A7%2002741%20-%20Authority%20to%20pay%20for%20or%20reimburse%20for%20certain%20security%20services.md) | Authority to pay for or reimburse for certain security services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -225,6 +229,7 @@
 - [&sect; 02680 - Appropriations for State Department; information to congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md)
 - [&sect; 02680&#8211;1 - Deadline for responses to questions from congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20congressional%20committees.md)
 - [&sect; 02680&#8211;2 - Facilitating access to Department of State](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State.md)
+- [&sect; 02680&#8211;3 - Responsiveness to Congressional Research Service inquiries and Congressional Budget Office inquiries](%C2%A7%2002680%E2%80%933%20-%20Responsiveness%20to%20Congressional%20Research%20Service%20inquiries%20and%20Congressional%20Budget%20Office%20inquiries.md)
 - [&sect; 02680a - Compensation for disability or death](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md)
 - [&sect; 02680b - Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of&#8230;](%C2%A7%2002680b%20-%20Special%20rules%20for%20certain%20monthly%20workers%27%20compensation%20payments%20and%20other%20payments%20for%20Department%20of%20State%20personnel%20under%20chief%20of%E2%80%A6.md)
 - [&sect; 02681 - International broadcasting facilities; transfer to Department of State; acquisition of property](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md)
@@ -309,6 +314,7 @@
 - [&sect; 02734h - Increased accountability in assignment restrictions and reviews](%C2%A7%2002734h%20-%20Increased%20accountability%20in%20assignment%20restrictions%20and%20reviews.md)
 - [&sect; 02735 - Foreign relations exchange programs](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md)
 - [&sect; 02735a - Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements](%C2%A7%2002735a%20-%20Presidential%20Envoy%20for%20the%20Abraham%20Accords%2C%20Negev%20Forum%2C%20and%20Related%20Integration%20and%20Normalization%20Fora%20and%20Agreements.md)
+- [&sect; 02735b - National Museum of American Diplomacy](%C2%A7%2002735b%20-%20National%20Museum%20of%20American%20Diplomacy.md)
 - [&sect; 02736 - Exit interviews for workforce](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md)
 - [&sect; 02736a - Recruitment and retention](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md)
 - [&sect; 02736b - Leadership engagement and accountability](%C2%A7%2002736b%20-%20Leadership%20engagement%20and%20accountability.md)
@@ -319,3 +325,5 @@
 - [&sect; 02737 - Department of State paid Student Internship Program](%C2%A7%2002737%20-%20Department%20of%20State%20paid%20Student%20Internship%20Program.md)
 - [&sect; 02738 - Mid-Career Mentoring Program](%C2%A7%2002738%20-%20Mid-Career%20Mentoring%20Program.md)
 - [&sect; 02739 - Civil service rotational program](%C2%A7%2002739%20-%20Civil%20service%20rotational%20program.md)
+- [&sect; 02740 - Career intermission program adjustment to enhance retention](%C2%A7%2002740%20-%20Career%20intermission%20program%20adjustment%20to%20enhance%20retention.md)
+- [&sect; 02741 - Authority to pay for or reimburse for certain security services](%C2%A7%2002741%20-%20Authority%20to%20pay%20for%20or%20reimburse%20for%20certain%20security%20services.md)

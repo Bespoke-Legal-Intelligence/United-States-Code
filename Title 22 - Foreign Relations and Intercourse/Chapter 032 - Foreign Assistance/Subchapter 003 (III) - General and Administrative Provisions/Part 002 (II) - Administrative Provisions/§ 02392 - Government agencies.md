@@ -78,7 +78,7 @@ Charge of expenses to appropriation or account not affected by provisions for ac
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

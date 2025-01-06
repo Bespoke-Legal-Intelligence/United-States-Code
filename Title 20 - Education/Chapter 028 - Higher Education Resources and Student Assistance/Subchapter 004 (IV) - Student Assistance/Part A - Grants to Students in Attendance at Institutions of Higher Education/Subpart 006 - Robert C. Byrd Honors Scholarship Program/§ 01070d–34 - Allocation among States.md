@@ -20,7 +20,7 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 #### (1) Fiscal years 2000 through 2004
 
-&emsp;Notwithstanding any other provision of this subpart, in the case of students from the Freely Associated States who may be selected toreceive a scholarship under this subpart for the first time for any of the fiscal years 2000 through 2004—
+&emsp;Notwithstanding any other provision of this subpart, in the case of students from the Freely Associated States who may be selected to receive a scholarship under this subpart for the first time for any of the fiscal years 2000 through 2004—
 
 &emsp;&emsp;(A) there shall be 10 scholarships in the aggregate awarded to such students for each of the fiscal years 2000 through 2004; and
 
@@ -56,7 +56,7 @@ A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L.
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -156,7 +156,7 @@ In this section:
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expectedfrom the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
@@ -218,7 +218,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an adult beef cow, 15.7 pounds of corn per day; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any other type of weight of livestock, an amount determined by the Secretary that represents the average number of pounds of corn per day necessary to feed the livestock.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any other type of weight of livestock, an amount determined by the Secretary that representsthe average number of pounds of corn per day necessary to feed the livestock.
 
 #### (iii) Corn price per pound
 
@@ -248,7 +248,7 @@ In this section:
 
 #### (I) D2
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary,shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
 
 #### (II) D3
 
@@ -336,7 +336,7 @@ In this section:
 
 #### (A) Loss
 
-&emsp;&emsp;Subject to subparagraph (B), for fiscal year 2012 and each succeeding fiscal year,the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to provide assistance—
+&emsp;&emsp;Subject to subparagraph (B), for fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to provide assistance—
 
 &emsp;&emsp;&emsp;(i) under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
 
@@ -384,7 +384,7 @@ In this section:
 
 &emsp;Subsections (e) and (f) of section 1001 of the Food Security Act of 1985 (7 U.S.C. 1308) or any successor provisions relating to direct attribution shall apply with respect to assistance provided under this section.
 
-(Pub. L. 113–79, title I, §1501, Feb. 7, 2014, 128 Stat. 697; Pub. L. 115–123, div. B, title I, §20101(a)–(d), Feb. 9, 2018, 132 Stat. 68, 69; Pub. L. 115–334, title I, §1501(a)–(c)(1), (d), (e), title XII, §12306(h), Dec. 20, 2018, 132 Stat. 4522, 4523, 4970.)
+(Pub. L. 113–79, title I, §1501, Feb. 7, 2014, 128 Stat. 697; Pub. L. 115–123, div. B, title I,§20101(a)–(d), Feb. 9, 2018, 132 Stat. 68, 69; Pub. L. 115–334, title I, §1501(a)–(c)(1), (d), (e), title XII, §12306(h), Dec. 20, 2018, 132 Stat. 4522, 4523, 4970.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,7 +6,7 @@
 
 (c) If a person violates, or a vessel is operated in violation of, this section or a regulation or order issued under this section, the person or vessel is subject to the enforcement provisions in section 13 <sup>1</sup> of the Ports and Waterways Safety Act (33 U.S.C. 1232).
 
-(d) As used in this section "navigable waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
+(d) As used in this section "navigable waters of the United States" includes all waters of theterritorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
 (e) For purposes of this title, the term "vessel of the Armed Forces" means—
 

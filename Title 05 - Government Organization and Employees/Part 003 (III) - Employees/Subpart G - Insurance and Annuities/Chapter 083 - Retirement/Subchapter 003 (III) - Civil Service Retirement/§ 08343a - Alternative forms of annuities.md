@@ -100,7 +100,7 @@ Schedule of Payments.—The schedule of payment of any lump-sum credit subject t
 
 Exceptions.—The Office of Personnel Management shall prescribe regulations to provide that, unless the individual involved indicates otherwise by written notice to the Office (submitted at such time and in such manner as the regulations may require), this section shall not apply—
 
-&emsp;"(1) in the case of any individual who is separated from Government service involuntarily, other thanfor cause on charges of misconduct or delinquency; and
+&emsp;"(1) in the case of any individual who is separated from Government service involuntarily, other than for cause on charges of misconduct or delinquency; and
 
 &emsp;"(2) in the case of any individual as to whom the application of this section would be against equity and good conscience, due to a life-threatening affliction or other critical medical condition affecting such individual.
 

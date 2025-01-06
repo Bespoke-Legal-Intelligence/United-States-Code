@@ -1,14 +1,14 @@
 ### §10367. Water data enhancement by United States Geological Survey
 
-#### (a) National streamflow information program
+#### (a) Federal priority streamgage program
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Advisory Committee and the Panel and consistent with this section, shall proceed with implementation of the national streamflow information program, as reviewed by the National Research Council in 2004.
+&emsp;The Secretary, in consultation with the Advisory Committee and the Panel and consistent with this section, shall proceed with implementation of the Federal priority streamgage program.
 
 #### (2) Requirements
 
-&emsp;In conducting the national streamflow information program, the Secretary shall—
+&emsp;In conducting the Federal priority streamgage program, the Secretary shall—
 
 &emsp;&emsp;(A) measure streamflow and related environmental variables in nationally significant watersheds—
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) the conduct of assessments to determine the extent to which each long-term change monitored under clause (i) is related to global climate change;
 
-&emsp;&emsp;(D) integrate the national streamflow information program with data collection activities of Federal agencies and appropriate State water resource agencies (including the National Integrated Drought Information System)—
+&emsp;&emsp;(D) integrate the Federal priority streamgage program with data collection activities of Federal agencies and appropriate State water resource agencies (including the National Integrated Drought Information System)—
 
 &emsp;&emsp;&emsp;(i) to enhance the comprehensive understanding of water availability;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(iv) to improve hydrologic forecasting; and
 
-&emsp;&emsp;(E) incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the national streamflow information program to assess whether the objectives of the national streamflow information program are being adequately addressed.
+&emsp;&emsp;(E) incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the Federal priority streamgage program to assess whether the objectives of the Federal priority streamgage program are being adequately addressed.
 
 #### (3) Improved methodologies
 
@@ -48,29 +48,29 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 10 years after March 30, 2009, in accordance with subparagraph (B), the Secretary shall—
+&emsp;&emsp;Not later than 10 years after March 30, 2023, in accordance with subparagraph (B), the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) increase the number of streamgages funded by the national streamflow information program to a quantity of not less than 4,700 sites; and
 
-&emsp;&emsp;&emsp;(ii) ensure all streamgages are flood-hardened and equipped with water-quality sensors and modernized telemetry.
+&emsp;&emsp;&emsp;(ii) ensure all streamgages are flood-hardened and equipped with precipitation water-quality sensors and modernized telemetry.
 
 #### (B) Requirements of sites
 
-&emsp;&emsp;Each site described in subparagraph (A) shall conform with the National Streamflow Information Program plan as reviewed by the National Research Council.
+&emsp;&emsp;Each site described in subparagraph (A) shall conform with the Federal needs established through regular solicitation of feedback, such as that documented in the report titled "Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022" <sup>1</sup> (Open-file Report 2023–1032).
 
 #### (5) Federal share
 
-&emsp;The Federal share of the national streamgaging network established pursuant to this subsection shall be 100 percent of the cost of carrying out the national streamgaging network.
+&emsp;The Federal share of the Federal priority streamgage network established pursuant to this subsection shall be 100 percent of the cost of carrying out the Federal priority streamgage network.
 
 #### (6) Authorization of appropriations
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), there are authorized to be appropriated such sums as are necessary to operate the national streamflow information program for the period of fiscal years 2009 through 2023, to remain available until expended.
+&emsp;&emsp;Except as provided in subparagraph (B), there are authorized to be appropriated such sums as are necessary to operate the Federal priority streamgage program for the period of fiscal years 2009 through 2028, to remain available until expended.
 
 #### (B) Network enhancement funding
 
-&emsp;&emsp;There is authorized to be appropriated to carry out the network enhancements described in paragraph (4) $10,000,000 for each of fiscal years 2009 through 2019, to remain available until expended.
+&emsp;&emsp;There is authorized to be appropriated to carry out the network enhancements described in paragraph (4) $10,000,000 for each of fiscal years 2009 through 2028, to remain available until expended.
 
 #### (b) National groundwater resources monitoring
 
@@ -84,19 +84,19 @@
 
 &emsp;&emsp;(A) establish appropriate criteria for monitoring wells to ensure the acquisition of long-term, high-quality data sets, including, to the maximum extent possible, the inclusion of real-time instrumentation and reporting;
 
-&emsp;&emsp;(B) in coordination with the Advisory Committee and State and local water resource agencies—
+&emsp;&emsp;(B) in coordination with the Advisory Committee and State and local water resource agencies and Tribes—
 
 &emsp;&emsp;&emsp;(i) assess the current scope of groundwater monitoring based on the access availability and capability of each monitoring well in existence as of March 30, 2009; and
 
 &emsp;&emsp;&emsp;(ii) develop and carry out a monitoring plan that maximizes coverage for each major aquifer system that is located in the United States; and
 
-&emsp;&emsp;(C) prior to initiating any specific monitoring activities within a State after March 30, 2009, consult and coordinate with the applicable State water resource agency with jurisdiction over the aquifer that is the subject of the monitoring activities, and comply with all applicable laws (including regulations) of the State.
+&emsp;&emsp;(C) prior to initiating any specific monitoring activities within a State or Tribal lands after March 30, 2009, consult and coordinate with the applicable State water resource agency or Tribe with jurisdiction over the aquifer that is the subject of the monitoring activities, and comply with all applicable laws (including regulations) of the State.
 
 #### (3) Program objectives
 
 &emsp;In carrying out the monitoring program described in paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) provide data that is necessary for the improvement of understanding with respect to surface water and groundwater interactions;
+&emsp;&emsp;(A) provide data that is necessary for the improvement of understanding with respectto surface water and groundwater interactions;
 
 &emsp;&emsp;(B) by expanding the network of monitoring wells to reach each climate division, support the groundwater climate response network to improve the understanding of the effects of global climate change on groundwater recharge and availability; and
 
@@ -116,41 +116,13 @@
 
 #### (6) Priority
 
-&emsp;In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.
+&emsp;In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State, a Tribe or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.
 
 #### (7) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection for the period of fiscal years 2009 through 2023, to remain available until expended.
+&emsp;There are authorized to be appropriated $4,000,000 per fiscal year to carry out this subsection for the period of fiscal years 2023 through 2028, to remain available until expended.
 
-#### (c) Brackish groundwater assessment
-
-#### (1) Study
-
-&emsp;The Secretary, in consultation with State and local water resource agencies, shall conduct a study of available data and other relevant information—
-
-&emsp;&emsp;(A) to identify significant brackish groundwater resources located in the United States; and
-
-&emsp;&emsp;(B) to consolidate any available data relating to each groundwater resource identified under subparagraph (A).
-
-#### (2) Report
-
-&emsp;Not later than 2 years after March 30, 2009, the Secretary shall submit to the appropriate committees of Congress a report that includes—
-
-&emsp;&emsp;(A) a description of each—
-
-&emsp;&emsp;&emsp;(i) significant brackish aquifer that is located in the United States (including 1 or more maps of each significant brackish aquifer that is located in the United States);
-
-&emsp;&emsp;&emsp;(ii) data gap that is required to be addressed to fully characterize each brackish aquifer described in clause (i); and
-
-&emsp;&emsp;&emsp;(iii) current use of brackish groundwater that is supplied by each brackish aquifer described in clause (i); and
-
-&emsp;&emsp;(B) a summary of the information available as of March 30, 2009, with respect to each brackish aquifer described in subparagraph (A)(i) (including the known level of total dissolved solids in each brackish aquifer).
-
-#### (3) Authorization of appropriations
-
-&emsp;There is authorized to be appropriated to carry out this subsection $3,000,000 for the period of fiscal years 2009 through 2011, to remain available until expended.
-
-#### (d) Improved water estimation, measurement, and monitoring technologies
+#### (c) Improved water estimation, measurement, and monitoring technologies
 
 #### (1) Authority of Secretary
 
@@ -180,7 +152,45 @@
 
 #### (4) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2019.
+&emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2028.
 
-(Pub. L. 111–11, title IX, §9507, Mar. 30, 2009, 123 Stat. 1339.)
+(Pub. L. 111–11, title IX, §9507, Mar. 30, 2009, 123 Stat. 1339; Pub. L. 118–174, §2, Dec. 23, 2024, 138 Stat. 2602.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–174, §2(1)(A), substituted "Federal priority streamgage program" for "National streamflow information program" in heading.
+
+Subsec. (a)(1). Pub. L. 118–174, §2(1)(B), substituted "Federal priority streamgage program" for "national streamflow information program, as reviewed by the National Research Council in 2004".
+
+Subsec. (a)(2). Pub. L. 118–174, §2(1)(C), substituted "Federal priority streamgage program" for "national streamflow information program" wherever appearing.
+
+Subsec. (a)(4)(A). Pub. L. 118–174, §2(1)(D)(i)(I), substituted "2023" for "2009" in introductory provisions.
+
+Subsec. (a)(4)(A)(ii). Pub. L. 118–174, §2(1)(D)(i)(II), inserted "precipitation" before "water-quality sensors".
+
+Subsec. (a)(4)(B). Pub. L. 118–174, §2(1)(D)(ii), which directed the substitution of "Federal needs established through regular solicitation of feedback, such as that documented in the report titled 'Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022' (Open-file Report 2023–1032)." for "National Streamflow Information Program as reviewed by the National Research Council." was executed by making the substitution for "National Streamflow Information Program plan as reviewed by the National Research Council.", to reflect the probable intent of Congress.
+
+Subsec. (a)(5). Pub. L. 118–174, §2(1)(E), substituted "Federal priority streamgage network" for "national streamgaging network" in two places.
+
+Subsec. (a)(6)(A). Pub. L. 118–174, §2(1)(F)(i), substituted "Federal priority streamgage program" for "national streamflow information program" and "2028" for "2023".
+
+Subsec. (a)(6)(B). Pub. L. 118–174, §2(1)(F)(ii), substituted "2028" for "2019".
+
+Subsec. (b)(2)(B). Pub. L. 118–174, §2(2)(A)(i), inserted "and Tribes" after "agencies" in introductory provisions.
+
+Subsec. (b)(2)(C). Pub. L. 118–174, §2(2)(A)(ii), inserted "or Tribal lands" after "within a State" and "or Tribe" after "water resource agency".
+
+Subsec. (b)(6). Pub. L. 118–174, §2(2)(B), inserted ", a Tribe" after "a State".
+
+Subsec. (b)(7). Pub. L. 118–174, §2(2)(C), substituted "$4,000,000 per fiscal year" for "such sums as are necessary" and "2023 through 2028" for "2009 through 2023".
+
+Subsec. (c). Pub. L. 118–174, §2(3), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to brackish groundwater assessment study and report.
+
+Subsec. (c)(4). Pub. L. 118–174, §2(5), substituted "2028" for "2019".
+
+Subsec. (d). Pub. L. 118–174, §2(4), redesignated subsec. (d) as (c).
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Re-Prioritization of the U.S. Geological Survey Federal Priority Streamgage Network, 2022".</i>
 

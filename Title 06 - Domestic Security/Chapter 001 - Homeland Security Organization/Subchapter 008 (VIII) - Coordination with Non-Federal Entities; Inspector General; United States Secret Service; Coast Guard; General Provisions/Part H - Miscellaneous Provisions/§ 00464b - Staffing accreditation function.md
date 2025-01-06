@@ -12,7 +12,7 @@ The Center, referred to in text, means the Federal Law Enforcement Training Cent
 
 #### Codification
 
-Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not aspart of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Prior Provisions
 

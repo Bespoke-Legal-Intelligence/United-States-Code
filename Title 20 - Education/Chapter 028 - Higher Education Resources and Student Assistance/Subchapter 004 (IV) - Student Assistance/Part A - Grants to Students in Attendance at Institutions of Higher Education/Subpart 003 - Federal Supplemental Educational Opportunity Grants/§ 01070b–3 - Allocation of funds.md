@@ -46,7 +46,7 @@
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) the amount of that institution's need (as determined under subsection (c)), dividedby (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1070b(b) of this title of the fiscal year; exceeds
+&emsp;(A)(i) the amount of that institution's need (as determined under subsection (c)), divided by (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1070b(b) of this title of the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a).
 
@@ -62,15 +62,15 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish a student aid index for each income category of dependent and independentundergraduate students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 75 percent of the average cost of attendance for all undergraduate students;
 
-&emsp;(D) multiply the number of eligible dependent students in each income category by 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C), minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;(D) multiply the number of eligible dependent students in each income category by 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C), minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 
-&emsp;(F) multiply the number of eligible independent students in each income category by 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C), minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;(F) multiply the number of eligible independent students in each income category by 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C), minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(G) add the amounts determined under subparagraph (F) for each income category of independent students; and
 
@@ -95,18 +95,6 @@
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
 (Pub. L. 89–329, title IV, §413D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1330; amended Pub. L. 100–50, §4, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §403(g), (h), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(26), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(c)(1), (2), Oct. 7, 1998, 112 Stat. 1665; Pub. L. 110–315, title IV, §406(b), (c), Aug. 14, 2008, 122 Stat. 3215; Pub. L. 116–260, div. FF, title VII, §704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3199, 3200.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:</i>
-
-<i>(1) by striking "the expected family contribution" each place the term appears and inserting "the student aid index";</i>
-
-<i>(2) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and</i>
-
-<i>(3) by striking "average expected family contribution" each place the term appears and inserting "average student aid index".</i>
-
-<i>See 2020 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 

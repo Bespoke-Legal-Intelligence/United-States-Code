@@ -122,7 +122,7 @@ Pub. L. 116–211, §2, Dec. 4, 2020, 134 Stat. 1017, provided that: "Due to the
 
 &emsp;"(2) with respect to a requested payment under section 7003 of such Act—
 
-&emsp;&emsp;"(A) use the student count data relating to calculating such payment that was submitted by thelocal educational agency in the application for fiscal year 2021, provided that payments for fiscal year 2022 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2022; or
+&emsp;&emsp;"(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021, provided that payments for fiscal year 2022 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2022; or
 
 &emsp;&emsp;"(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act."
 

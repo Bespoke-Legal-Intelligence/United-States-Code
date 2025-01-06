@@ -42,7 +42,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Social insurance administrative expenses
 
-&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary MedicalInsurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
+&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
 
 #### (4) Pay annualization; offset to pay absorption
 
@@ -130,7 +130,7 @@ Par. (1). Pub. L. 100–119, §104(c)(2), struck out provisions of former subpar
 
 &emsp;"Tax Court judges survivors annuity fund (23-8115-0-7-602)."
 
-Par. (7). Pub. L. 100–119, §102(b)(4), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "The terms 'sequester' and 'sequestration' (subject to section 902(a)(4) of this title) refer to or mean the cancellation of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, and spending authority as defined in section 651(c)(2) of this title, and the reduction of obligation limitations."
+Par. (7). Pub. L. 100–119, §102(b)(4), amended par. (7) generally. Prior to amendment, par. (7) read as follows:"The terms 'sequester' and 'sequestration' (subject to section 902(a)(4) of this title) refer to or mean the cancellation of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, and spending authority as defined in section 651(c)(2) of this title, and the reduction of obligation limitations."
 
 Par. (9). Pub. L. 100–119, §102(b)(5), added par. (9).
 

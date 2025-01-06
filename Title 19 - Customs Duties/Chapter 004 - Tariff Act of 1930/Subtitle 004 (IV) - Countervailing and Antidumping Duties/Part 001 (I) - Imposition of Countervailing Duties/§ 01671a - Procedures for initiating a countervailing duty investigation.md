@@ -104,7 +104,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (E) Comments by interested parties
 
-&emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+&emsp;&emsp;Before the administering authority makes a determination with respect to initiatingan investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
 #### (5) "Domestic producers or workers" defined
 
@@ -172,7 +172,7 @@ Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

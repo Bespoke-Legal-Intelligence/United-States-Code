@@ -56,7 +56,7 @@ The President is authorized to establish a United States Microfinance Loan Facil
 
 #### (4) Full faith and credit
 
-&emsp;All guarantees issued under this section shall constitute obligations, in accordance with the terms of such guarantees, of the United States of America, and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations to the extent of the guarantee.
+&emsp;All guarantees issued under this section shall constitute obligations, in accordance with the terms of such guarantees, of the United States of America, and the full faith and credit of the United States of America ishereby pledged for the full payment and performance of such obligations to the extent of the guarantee.
 
 #### (d) Funding
 

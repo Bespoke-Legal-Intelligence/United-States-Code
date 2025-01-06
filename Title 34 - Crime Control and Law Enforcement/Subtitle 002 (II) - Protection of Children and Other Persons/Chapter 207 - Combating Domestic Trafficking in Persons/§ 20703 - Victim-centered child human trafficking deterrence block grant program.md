@@ -200,7 +200,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(vii) cooperation or referral agreements with State child welfare agencies and child advocacy centers; and
 
-&emsp;&emsp;(D) provides an assurance that, under the plan under subparagraph (C), a victim of child human trafficking shall not be required to collaborate with law enforcement officers to have access to any shelter or services provided with a grant under this section.
+&emsp;&emsp;(D) provides an assurance that, under the plan under subparagraph (C), a victim ofchild human trafficking shall not be required to collaborate with law enforcement officers to have access to any shelter or services provided with a grant under this section.
 
 #### (l) Grant accountability; specialized victims' service requirement
 

@@ -74,7 +74,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(G) Consideration of the establishment of a State institution to facilitate and assist funding a development transfer credit system.
 
-&emsp;(H) A program for State and local implementation of the plan described in this subsection in a manner that will insure the continued, uniform, consistent protection of the criticalprotection area in accord with the purposes of this section.
+&emsp;(H) A program for State and local implementation of the plan described in this subsection in a manner that will insure the continued, uniform, consistent protection of the critical protection area in accord with the purposes of this section.
 
 &emsp;(I) Pollution abatement measures, if appropriate.
 
@@ -141,7 +141,7 @@ Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted "this section" for "thi
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: "Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No laterthan September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary."
+<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: "Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary."
 
 <b>1986</b>—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

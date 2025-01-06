@@ -196,7 +196,7 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 #### (1) In general
 
-&emsp;Not later than March 1 of every other year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities carried outduring the preceding 2 fiscal years under the authority in subsection (b).
+&emsp;Not later than March 1 of every other year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities carried out during the preceding 2 fiscal years under the authority in subsection (b).
 
 #### (2) Information included
 
@@ -212,7 +212,7 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 #### (C) Amount of cash prize purses or non-cash prize awards
 
-&emsp;&emsp;The total amount of cash prize purses or non-cash prize awards awarded for each prize competition, including a description of amount of private funds contributed to the program, the sources of such funds, and the manner in which the amounts of cash prize purses or non-cash prize awards awarded and claimed were allocated among the accounts of the agency for recording as obligations and expenditures.
+&emsp;&emsp;The total amount of cash prize purses or non-cash prize awards awarded for each prize competition, including a description of amount of private funds contributed to the program, the sources of such funds, and themanner in which the amounts of cash prize purses or non-cash prize awards awarded and claimed were allocated among the accounts of the agency for recording as obligations and expenditures.
 
 #### (D) Solicitations and evaluation of submissions
 
@@ -300,7 +300,7 @@ Subsec. (p)(1). Pub. L. 114–329, §401(b)(12)(B), substituted "every other yea
 
 Subsec. (p)(2). Pub. L. 114–329, §401(b)(12)(C)(i), substituted "A report" for "The report for a fiscal year" in introductory provisions.
 
-Subsec. (p)(2)(C). Pub. L. 114–329, §401(b)(12)(C)(ii), substituted "cash prize purses or non-cash prize awards" for "cash prizes" in heading and in two places in text.
+Subsec. (p)(2)(C). Pub. L. 114–329, §401(b)(12)(C)(ii), substituted "cash prize purses or non-cash prizeawards" for "cash prizes" in heading and in two places in text.
 
 Subsec. (p)(2)(G). Pub. L. 114–329, §401(b)(12)(C)(iii), added subpar. (G).
 

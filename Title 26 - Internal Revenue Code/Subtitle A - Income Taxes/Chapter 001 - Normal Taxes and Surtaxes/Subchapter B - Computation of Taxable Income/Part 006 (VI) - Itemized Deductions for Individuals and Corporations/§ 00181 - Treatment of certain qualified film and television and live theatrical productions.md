@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A taxpayer may elect to treat the cost of any qualified film or television production, and any qualified live theatrical production, as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
+&emsp;A taxpayer may elect to treat the cost of any qualified film or television production,and any qualified live theatrical production, as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
 
 #### (2) Dollar limitation
 
@@ -206,7 +206,7 @@ Modifications.—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsections (b) and (c) \[amending this section\] shall apply to productions commencing after December 31, 2015.
+In general.—The amendments made by subsections (b) and (c) \[amending this section\] shallapply to productions commencing after December 31, 2015.
 
 &emsp;"(B)
 

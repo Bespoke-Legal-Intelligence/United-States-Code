@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-A State desiring to receive a grant under section 1433 of this title shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require. The application shall contain—
+A State desiring to receive a grant under section 1433 of this title shall submit an applicationto the Secretary at such time and in such manner as the Secretary may reasonably require. The application shall contain—
 
 &emsp;(1) a designation of the lead agency in the State that will be responsible for the administration of funds provided under section 1433 of this title;
 
@@ -72,7 +72,7 @@ The application described in subsection (a)—
 
 &emsp;&emsp;(B) will be used so as to supplement the level of State and local funds expended for infants and toddlers with disabilities and their families and in no case to supplant those State and local funds;
 
-&emsp;(6) shall provide satisfactory assurance that such fiscal control and fund accounting procedures will be adopted as may be necessary toensure proper disbursement of, and accounting for, Federal funds paid under section 1443 of this title to the State;
+&emsp;(6) shall provide satisfactory assurance that such fiscal control and fund accounting procedures will be adopted as may be necessary to ensure proper disbursement of, and accounting for, Federal funds paid under section 1443 of this title to the State;
 
 &emsp;(7) shall provide satisfactory assurance that policies and procedures have been adopted to ensure meaningful involvement of underserved groups, including minority, low-income, homeless, and rural families and children with disabilities who are wards of the State, in the planning and implementation of all the requirements of this subchapter; and
 

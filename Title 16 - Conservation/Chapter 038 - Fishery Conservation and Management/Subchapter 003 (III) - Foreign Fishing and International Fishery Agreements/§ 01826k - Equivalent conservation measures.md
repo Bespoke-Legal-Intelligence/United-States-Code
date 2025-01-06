@@ -38,7 +38,7 @@ The Secretary of State, acting in consultation with the Secretary, shall—
 
 &emsp;The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whether the government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title—
 
-&emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable tothat of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
+&emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
 
 &emsp;&emsp;(B) has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
 
@@ -106,7 +106,7 @@ Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in s
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (e)(1)(A), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (e)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Shark Finning Prohibition Act, referred to in subsec. (e)(1)(C), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
 

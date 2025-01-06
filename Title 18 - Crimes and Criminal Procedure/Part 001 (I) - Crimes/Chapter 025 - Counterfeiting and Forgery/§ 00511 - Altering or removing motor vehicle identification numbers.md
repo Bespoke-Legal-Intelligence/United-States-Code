@@ -18,7 +18,7 @@
 
 &emsp;(C) a person who restores or replaces an identification number for such vehicle or part in accordance with applicable State law; and
 
-&emsp;(D) a person who removes, obliterates, tampers with, or alters a decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act, if that person is the owner of the motor vehicle, or is authorized to remove, obliterate, tamper with or alter the decal or device by—
+&emsp;(D) a person who removes, obliterates, tampers with, or alters a decal or device affixed to a motor vehicle pursuant to the MotorVehicle Theft Prevention Act, if that person is the owner of the motor vehicle, or is authorized to remove, obliterate, tamper with or alter the decal or device by—
 
 &emsp;&emsp;(i) the owner or his authorized agent;
 

@@ -70,7 +70,7 @@ Historical and Revision Notes
 
 Section 9307 permits the Secretary to establish a Great Lakes Pilotage Advisory Committee. This Committee is to be established consistent with the Federal Advisory Committee Act (P.L. 92–463; 5 App. U.S.C.) and with the requirements imposed by section 19 \[118(e)\] of P.L. 97–322 (14 U.S.C. 631 note).
 
-Subsection (a) authorizes the Committee to review and make recommendations on Great Lakes pilotageregulation and policies and to make the recommendations available to Congress and requires the Committee to meet at the call of the Secretary.
+Subsection (a) authorizes the Committee to review and make recommendations on Great Lakes pilotage regulation and policies and to make the recommendations available to Congress and requires the Committee to meet at the call of the Secretary.
 
 Subsection (b) establishes the membership of the Committee as 3 members with 5 years of practical maritime experience appointed by the Secretary for a term of not more than 5 years. A Federal Register notice of solicitation for membership nominations for filling a position is required.
 

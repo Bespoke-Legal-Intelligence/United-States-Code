@@ -32,5 +32,5 @@ Pub. L. 104–208, §308(d)(4)(U), (e)(2)(I), substituted "removal" for "exclusi
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 

@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shownon the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -192,7 +192,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;"(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
-&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;"(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
 
@@ -300,7 +300,7 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 #### "SEC. 404. NO EFFECT ON COMPLIANCE WITH ENVIRONMENTAL LAWS.
 
-"Nothing in this Act or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
+"Nothing in this Act or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any environmental law,including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
 
 #### "SEC. 405. CONGRESSIONAL REPORTS.
 
@@ -310,7 +310,7 @@ District of Columbia.—Not later than January 31 of each year, the Mayor of the
 
 "(b)
 
-Comptroller General.—The Comptroller General shall report periodically to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\], theCommittee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on—
+Comptroller General.—The Comptroller General shall report periodically to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Accountability\], the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on—
 
 &emsp;"(1) the use and development during the previous 2 years of land for which title is conveyed and land for which administrative jurisdiction is transferred pursuant to this Act; and
 
@@ -560,7 +560,7 @@ Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amend
 
 #### Acquisition of Property for Additions to United States Capitol Grounds
 
-Pub. L. 85–429, May 29, 1958, 72 Stat. 148 and Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495, in part authorized theArchitect of the Capitol to acquire certain real property for additions to United States Capitol Grounds.
+Pub. L. 85–429, May 29, 1958, 72 Stat. 148 and Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495, in part authorized the Architect of the Capitol to acquire certain real property for additions to United States Capitol Grounds.
 
 #### <b>Other Legislative Documents</b>
 
@@ -594,7 +594,7 @@ WHEREAS, the aforesaid Additional House Office Building Act provides, in pertine
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 
-&nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
+&nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments tosuch Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
 
 &nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 
@@ -604,11 +604,11 @@ NOW, THEREFORE, in formal compliance with the aforecited provisions of the Addit
 
 #### HOUSE OFFICE BUILDING COMMISSION
 
-John W. McCormack, <i>Chairman.</i>
+John W. McCormack, <i>Chairman.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Emanuel Celler, <i>Member.</i>
+Emanuel Celler, <i>Member.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Charles E. Goodell, <i>Member.</i>
+Charles E. Goodell, <i>Member.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

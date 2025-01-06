@@ -32,7 +32,7 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 
 &emsp;(B) The obligations of the United States under international agreements.
 
-&emsp;(C) The extent of the ownership or control of the firm or subsidiary (or, if appropriate in the case of a subsidiary, of the firm that owns the subsidiary) by the foreign government or an agent or instrumentality of the foreign government.
+&emsp;(C) The extent of the ownership or control of the firm or subsidiary (or, if appropriate in thecase of a subsidiary, of the firm that owns the subsidiary) by the foreign government or an agent or instrumentality of the foreign government.
 
 &emsp;(D) Whether payments made, or information made available, to the firm or subsidiary under the contract could be used for purposes hostile to the interests of the United States.
 
@@ -40,7 +40,7 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 
 List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries of firms that the Secretary has identified as being subject to the prohibition in subsection (b).
 
-(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2).Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
+(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
 
 (B) A firm or subsidiary of a firm included on the list may request the Secretary to remove such firm or subsidiary from the list on the basis that it has been erroneously included on the list or its ownership circumstances have significantly changed. Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do not exist, the Secretary shall remove the firm or subsidiary from the list.
 
@@ -106,11 +106,81 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, providedthat: "Section 2327 of title 10, United States Code \[now 10 U.S.C. 4871\] (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2327 of title 10, United States Code \[now 10 U.S.C. 4871\] (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Measures To Increase Supply Chain Resiliency for Small Unmanned Aerial Systems
+
+Pub. L. 118–159, div. A, title I, §162, Dec. 23, 2024, 138 Stat. 1815, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish and carry out an integrated set of measures—
+
+&emsp;"(1) to identify risks in the supply chain for small unmanned aerial systems (referred to in this section as 'sUAS'); and
+
+&emsp;"(2) to increase the resiliency of such sUAS supply chain using parts supplied by domestic sources and from allies and partners of the United States.
+
+"(b)
+
+Elements.—The measures carried out under subsection (a) shall include the following:
+
+&emsp;"(1)
+
+Disassembly and analysis of commercially available foreign drone aircraft.—Not later than 90 days after the date of the enactment of this Act and not less frequently than once every three years thereafter until 2034, the Secretary of Defense shall fully disassemble a drone aircraft made by Da Jiang Innovations or a similar commercially available sUAS manufactured in a covered foreign country in order to—
+
+&emsp;&emsp;"(A) create a taxonomy for each component that categorizes the component by function, level of risk, and such other criteria as the Secretary determines appropriate; and
+
+&emsp;&emsp;"(B) help assess the risk of such components for the purposes of supply chain monitoring and visibility.
+
+&emsp;"(2)
+
+Supply chain risk framework.—Not later than 150 days after the date of the enactment of this Act and using the taxonomy developed under paragraph (1)(A), the Secretary of Defense shall develop a supply chain risk framework in order to—
+
+&emsp;&emsp;"(A) assess the risk of each sUAS component to Department of Defense networks or operations;
+
+&emsp;&emsp;"(B) for components that present a risk as determined under subparagraph (A), identify any manufacturers of such components are based in covered foreign countries and evaluate whether measures to mitigate the risk posed by such foreign-produced components are feasible or practical; and
+
+&emsp;&emsp;"(C) determine if any of the foreign companies in the sUAS supply chain should be included on the list maintained by the Department of Defense in accordance with section 1260H of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 113 note).
+
+&emsp;"(3)
+
+Resilient supply chain strategy.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\] and based on the analyses conducted under paragraphs (1) and (2), the Secretary of Defense shall develop a strategy to develop a secure and resilient domestic and allied supply chain of critical components for sUASs, which shall include—
+
+&emsp;&emsp;"(A) identification of sources of supply for sUAS components outside of a covered foreign country assessed to present a risk under paragraph (2)(A) and the total manufacturing capacity of such suppliers;
+
+&emsp;&emsp;"(B) an assessment of the total requirement for sUASs of the Department of Defense;
+
+&emsp;&emsp;"(C) a plan to increase the manufacturing capacity of alternative sources of supply that can meet the requirement specified in subparagraph (B), including estimated funding needs; and
+
+&emsp;&emsp;"(D) a description of how existing initiatives and programs of the Department of Defense may be used to create alternative sUAS sources of supply outside of a covered foreign country, including recommendations for—
+
+&emsp;&emsp;&emsp;"(i) using authorities available to the Department of Defense, such as Defense Production Act authorities, the Industrial Base Analysis and Sustainment program, loan guarantees, or other programs; and
+
+&emsp;&emsp;&emsp;"(ii) incentivizing private sector investment to grow or foster domestic or allied sourcing for components for sUASs.
+
+"(c)
+
+Report.—Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes—
+
+&emsp;"(1) a list of each component identified under subsection (b)(1), including a description of any security vulnerabilities associated with such component;
+
+&emsp;"(2) a description of the supply chain risk framework developed under subsection (b)(2);
+
+&emsp;"(3) any recommendations for the inclusion of companies on the list described in subsection (b)(2)(C); and
+
+&emsp;"(4) the full strategy developed under subsection (b)(3).
+
+"(d)
+
+Form.—The report required under subsection (c) shall be submitted in unclassified form, but may include a classified annex.
+
+"(e)
+
+Covered Foreign Country Defined.—In this section, the term 'covered foreign country' has the meaning given that term in section 848(e) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4871 note)."
 
 #### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
 

@@ -1,6 +1,6 @@
 ### §501. Government printing, binding, and blank-book work to be done at Government Publishing Office
 
-All printing, binding, and blank-book work for Congress, the Executive Office, the Judiciary, other than the Supreme Court of the United States, and every executive department, independent office and establishment of the Government, shall be done at the Government Publishing Office, except—
+All printing, binding, and blank-book work for Congress, the Executive Office, the Judiciary,other than the Supreme Court of the United States, and every executive department, independent office and establishment of the Government, shall be done at the Government Publishing Office, except—
 
 &emsp;(1) classes of work the Joint Committee on Printing considers to be urgent or necessary to have done elsewhere; and
 
@@ -120,7 +120,7 @@ Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended 
 
 "(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Publishing Office.
 
-"(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if thework is not of a continuing or repetitive nature, and, as certified by the Director of the Government Publishing Office, if the work is included in a class of work which cannot be provided more economically through the Government Publishing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
+"(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Director of the Government Publishing Office, if the work is included in a class of work which cannot be provided more economically through the Government Publishing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
 
 "(3) As used in this section, the term 'printing' includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes."
 

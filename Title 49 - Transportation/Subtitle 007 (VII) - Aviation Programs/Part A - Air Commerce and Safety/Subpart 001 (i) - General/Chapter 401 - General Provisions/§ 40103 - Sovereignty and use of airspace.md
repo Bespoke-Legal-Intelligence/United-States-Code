@@ -4,7 +4,7 @@
 
 Sovereignty and Public Right of Transit.—(1) The United States Government has exclusive sovereignty of airspace of the United States.
 
-(2) A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
+(2) A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for individuals with disabilities.
 
 (b)
 
@@ -44,7 +44,7 @@ No Exclusive Rights at Certain Facilities.—A person does not have an exclusive
 
 &emsp;(2) allowing more than one fixed-based operator to provide the services requires a reduction in space leased under an agreement existing on September 3, 1982, between the operator and the airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1101.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1101; Pub. L. 118–63, title V, §550(a), May 16, 2024, 138 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -148,6 +148,12 @@ In subsection (d), the words "including the Canal Zone" are omitted because of t
 
 In subsection (e), before clause (1), the words "any landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The word "only" is added for clarity. In clause (2), the words "on September 3, 1982" are added for clarity.
 
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–63 substituted "individuals with disabilities" for "handicapped individuals".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
@@ -161,6 +167,188 @@ National Disaster Areas.—Before the 180th day following the date of the enactm
 "(b)
 
 Exceptions.—Regulations issued pursuant to subsection (a) shall not be applicable in the case of aircraft overflights involving an emergency or a ligitimate \[sic\] scientific purpose."
+
+#### Update of FAA Standards To Allow Distribution and Use of Certain Restricted Routes and Terminal Procedures
+
+Pub. L. 118–63, title III, §331, May 16, 2024, 138 Stat. 1089, provided that:
+
+"(a)
+
+In General.—Not later than 9 months after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall update FAA \[Federal Aviation Administration\] standards to allow for the distribution and use of the Capstone Restricted Routes and Terminal Procedures by Wide Area Augmentation System-capable navigation equipment.
+
+"(b)
+
+Contents.—In updating standards under subsection (a), the Administrator shall ensure that such standards provide a means for allowing modifications and continued development of new routes and procedures proposed by air carriers operating such routes."
+
+#### Airspace Access
+
+Pub. L. 118–63, title VI, §604, May 16, 2024, 138 Stat. 1223, provided that:
+
+"(a)
+
+Coalescing Airspace.—
+
+&emsp;"(1)
+
+Review of national airspace system.—Not later than 3 years after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\], in coordination with the Secretary of Defense, shall conduct a comprehensive review of the airspace of the national airspace system, including special use airspace.
+
+&emsp;"(2)
+
+Streamlining and expediting access.—In carrying out paragraph (1), the Administrator shall identify methods to streamline, expedite, and provide greater flexibility of access to certain categories of airspace for users of the national airspace system who may not regularly have such access.
+
+"(b)
+
+Briefing.—
+
+&emsp;"(1)
+
+In general.—Not later than 3 months after the completion of review the under subsection (a), the Administrator shall brief the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] on the findings of such review and a proposed action plan to improve access to airspace for users of the national airspace system.
+
+&emsp;"(2)
+
+Contents.—In the briefing under paragraph (1), the Administrator shall include, at a minimum, the following:
+
+&emsp;&emsp;"(A) An identification of current challenges and barriers faced by airspace users in accessing certain categories of airspace, including special use airspace.
+
+&emsp;&emsp;"(B) An evaluation of existing procedures, regulations, and requirements that may impede or delay access to certain categories of airspace for certain users of the national airspace system.
+
+&emsp;&emsp;"(C) Actions for streamlining and expediting the airspace access process, including potential regulatory changes, technological advancements, and enhanced coordination among relevant stakeholders and Federal agencies.
+
+&emsp;&emsp;"(D) If determined appropriate, an implementation plan for a framework that allows for temporary access to certain categories of airspace, including special use airspace, by users of the national airspace system who do not have regular access to such airspace.
+
+&emsp;&emsp;"(E) An assessment of the impact of airspace access improvements described in paragraph (1) on the safety of, efficiency of, and economic opportunities for airspace users, including—
+
+&emsp;&emsp;&emsp;"(i) military operators;
+
+&emsp;&emsp;&emsp;"(ii) commercial operators; and
+
+&emsp;&emsp;&emsp;"(iii) general aviation operators.
+
+&emsp;"(3)
+
+Implementation and follow-up.—
+
+&emsp;&emsp;"(A)
+
+Action plan.—The Administrator shall take such actions as are necessary to implement the action plan developed pursuant to this section.
+
+&emsp;&emsp;"(B)
+
+Coordination.—In implementing the action plan under subparagraph (A), the Administrator shall coordinate with relevant stakeholders, including airspace users and the Secretary of Defense, to ensure effective implementation of such action plan, and ongoing collaboration in addressing airspace access challenges.
+
+&emsp;&emsp;"(C)
+
+Progress reports.—The Administrator shall provide to the appropriate committees of Congress periodic briefings on the implementation of the action plan developed under this subparagraph (A), including updates on—
+
+&emsp;&emsp;&emsp;"(i) the adoption of streamlined procedures;
+
+&emsp;&emsp;&emsp;"(ii) technological enhancements; and
+
+&emsp;&emsp;&emsp;"(iii) any regulatory changes necessary to improve airspace access and flexibility."
+
+#### Low-Altitude Rotorcraft and Powered-Lift Aircraft Instrument Flight Routes
+
+Pub. L. 118–63, title VI, §627(b), May 16, 2024, 138 Stat. 1243, provided that:
+
+"(1)
+
+In general.—Not later than 3 years after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall initiate a rulemaking process to establish or update, as appropriate, low altitude routes and flight procedures to ensure safe rotorcraft and powered-lift aircraft operations in the national airspace system.
+
+"(2)
+
+Requirements.—In carrying out this subsection, the Administrator shall—
+
+&emsp;"(A) incorporate instrument flight rules rotorcraft operations into the low-altitude performance based navigation procedure infrastructure;
+
+&emsp;"(B) prioritize the development of new helicopter area navigation instrument flight rules routes as part of the United States air traffic service route structure that utilize performance based navigation, such as Global Positioning System and Global Navigation Satellite System equipment; and
+
+&emsp;"(C) consider the impact of such low altitude flight routes on other airspace users and impacted communities to ensure that such routes are designed to minimize—
+
+&emsp;&emsp;"(i) the potential for conflict with existing national airspace system operations;
+
+&emsp;&emsp;"(ii) the workload of air traffic controllers; and
+
+&emsp;&emsp;"(iii) negative effects to impacted communities.
+
+"(3)
+
+Consultation.—In carrying out the rulemaking process under paragraph (1), the Administrator shall consult with—
+
+&emsp;"(A) stakeholders in the airport, heliport, rotorcraft manufacturer and operator, general aviation operator, powered-lift operator, air carrier, and performance based navigation technology manufacturer sectors;
+
+&emsp;"(B) the United States Helicopter Safety Team;
+
+&emsp;"(C) exclusive bargaining representatives of air traffic controllers certified under section 7111 of title 5, United States Code; and
+
+&emsp;"(D) other stakeholders determined appropriate by the Administrator."
+
+#### Airshow Safety Team
+
+Pub. L. 118–63, title VIII, §811, May 16, 2024, 138 Stat. 1326, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] may, as determined necessary by the Administration, coordinate with the General Aviation Joint Safety Committee to establish an Airshow Safety Team focused on airshow and aerial event safety.
+
+"(b)
+
+Objective.—The objective of the Airshow Safety Team described in subsection (a) shall be to—
+
+&emsp;"(1) serve as a mechanism for Federal Government and industry cooperation, communication, and coordination on airshow and aerial event safety; and
+
+&emsp;"(2) reduce airshow and aerial event accidents and incidents through non-regulatory, proactive safety strategies.
+
+"(c)
+
+Activities.—In carrying out the objectives pursuant to subsection (b), the Airshow Safety Team shall, at a minimum—
+
+&emsp;"(1) perform an analysis of airshow and aerial event accidents and incidents in conjunction with the Safety Analysis Team;
+
+&emsp;"(2) publish and update every 2 years after initial publication an Airshow Safety Plan that incorporates consensus based and data driven mitigation measures and non-regulatory safety strategies to improve and promote safety of the public, performers, and airport personnel; and
+
+&emsp;"(3) engage the airshow and aerial event community to—
+
+&emsp;&emsp;"(A) communicate non-regulatory, proactive safety strategies identified by the Airshow Safety Plan to mitigate incidents; and
+
+&emsp;&emsp;"(B) discuss best practices to uphold and maintain safety at events.
+
+"(d)
+
+Membership.—The Administrator may request the Airshow Safety Team be comprised of at least 10 individuals, each of whom shall have knowledge or a background in the planning, execution, operation, or management of an airshow or aerial event.
+
+"(e)
+
+Meetings.—The Airshow Safety Team shall meet at least twice a year at the direction of the co-chairs of the General Aviation Joint Safety Committee.
+
+"(f)
+
+Construction.—Nothing in this section shall be construed to require an amendment to the charter of the General Aviation Joint Safety Committee."
+
+#### Operating High-Speed Flights in High Altitude Class E Airspace
+
+Pub. L. 118–63, title X, §1011, May 16, 2024, 138 Stat. 1392, provided that:
+
+"(a)
+
+Research.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\], in consultation with the Administrator of NASA \[National Aeronautics and Space Administration\] and any other relevant stakeholders the Administrator determines appropriate, including industry and academia, shall undertake research to identify, to the maximum extent practicable, the minimum altitude above the upper boundary of Class A airspace, at or above which flights operating with speeds above Mach 1 generate sonic booms that do not produce appreciable sonic boom overpressures that reach the surface under prevailing atmospheric conditions.
+
+"(b)
+
+Hypersonic Defined.—In this section, the term 'hypersonic' means a flight operating at speeds that exceed Mach 5."
+
+#### Rulemaking Related to Operating High-Speed Flights in High Altitude Class E Airspace
+
+Pub. L. 118–63, title XI, §1108, May 16, 2024, 138 Stat. 1417, provided that:
+
+"Not later than 2 years after the date on which the Administrator \[of the Federal Aviation Administration\] identifies the minimum altitude pursuant to section 1011 \[of Pub. L. 118–63, set out as a note above\], the Administrator shall publish in the Federal Register a notice of proposed rulemaking to amend sections 91.817 and 91.818 of title 14, Code of Federal Regulations, and such other regulations as appropriate, to permit flight operations with speeds above Mach 1 at or above the minimum altitude identified under section 1011 without specific authorization, provided that such flight operations—
+
+&emsp;"(1) show compliance with airworthiness requirements;
+
+&emsp;"(2) do not produce appreciable sonic boom overpressures that reach the surface under prevailing atmospheric conditions;
+
+&emsp;"(3) have ordinary instrument flight rules clearances necessary to operate in controlled airspace; and
+
+&emsp;"(4) comply with applicable environmental requirements."
 
 #### Dynamic Airspace Pilot Program
 
@@ -272,6 +460,28 @@ Resiliency Recommendations.—Not later than 180 days after the date of enactmen
 
 #### Air Shows
 
+Pub. L. 118–63, title XI, §1115(a), May 16, 2024, 138 Stat. 1421, provided that:
+
+"(a)
+
+Required Coordination.—
+
+&emsp;"(1)
+
+In general.—On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall convene a meeting with representatives of FAA \[Federal Aviation Administration\]-approved air shows, the general aviation community, stadiums and other large outdoor events and venues or organizations that run such events, the Department of Homeland Security, and the Department of Justice—
+
+&emsp;&emsp;"(A) to identify scheduling conflicts between FAA-approved air shows and large outdoor events and venues where—
+
+&emsp;&emsp;&emsp;"(i) flight restrictions will be imposed pursuant to section 521 of division F of the Consolidated Appropriations Act, 2004 \[Pub. L. 108–199\] (49 U.S.C. 40103 note); or
+
+&emsp;&emsp;&emsp;"(ii) any other restriction will be imposed pursuant to FAA Flight Data Center Notice to Airmen 4/3621 (or any successor notice to airmen); and
+
+&emsp;&emsp;"(B) in instances where a scheduling conflict between events is identified or is found to be likely to occur, develop appropriate operational and communication procedures to ensure for the safety and security of both events.
+
+&emsp;"(2)
+
+Scheduling conflict.—If the Administrator or any other stakeholder party to the required annual coordination required in paragraph (1) identifies a scheduling conflict outside of the annual meeting at any point prior to the scheduling conflict, the Administrator shall work with impacted stakeholders to develop appropriate operational and communication procedures to ensure for the safety and security of both events."
+
 Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoor events and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts between Administration-approved air shows and large outdoor events and venues where—
 
 &emsp;"(1) flight restrictions will be imposed pursuant to section 521 of title V of division F of Public Law 108–199 (118 Stat. 343) \[set out below\]; or
@@ -296,7 +506,7 @@ Determination of Services and Support to Be Provided.—In determining the servi
 
 #### Enhanced Air Traffic Services
 
-Pub. L. 115–254, div. B, title V, §547, Oct. 5, 2018, 132 Stat. 3377, as amended by Pub. L. 118–15, div. B, title II, §2202(u), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(u), Dec. 26, 2023, 137 Stat. 1114, provided that:
+Pub. L. 115–254, div. B, title V, §547, Oct. 5, 2018, 132 Stat. 3377, as amended by Pub. L. 118–15, div. B, title II, §2202(u), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(u), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, §102(u), Mar. 8, 2024, 138 Stat. 22; Pub. L. 118–63, title VI, §610, May 16, 2024, 138 Stat. 1226, provided that:
 
 "(a)
 
@@ -316,23 +526,19 @@ Airport Selection.—The Administrator shall designate airports for participatio
 
 "(d)
 
-Definitions.—
+Definitions.—In this section:
 
 &emsp;"(1)
 
-Certain nextgen avionics.—The term 'certain NextGen avionics' means those avionics and related software designated by the Administrator after consultations with aircraft operators and manufacturers.
+Certain nextgen avionics.—The term 'certain NextGen avionics' means those avionics and baseline capabilities as recommended in the report of the NextGen Advisory Committee titled 'Minimum Capabilities List (MCL) Ad Hoc Team NAC Task 19–1 Report', issued on November 17, 2020.
 
 &emsp;"(2)
 
-Preferential basis.—The term 'preferential basis' means—
-
-&emsp;&emsp;"(A) prioritizing aircraft equipped with certain NextGen avionics during a Ground Delay Program by assigning them fewer minutes of delay relative to other aircraft based upon principles established after consultation with aircraft operators and manufacturers; or
-
-&emsp;&emsp;"(B) sequencing aircraft equipped with certain NextGen avionics ahead of other aircraft in the Traffic Flow Management System to the maximum extent consistent with safety.
+Preferential basis.—The term 'preferential basis' means prioritizing aircraft equipped with certain NextGen avionics by providing them more efficient service, shorter queuing, or priority clearances to the maximum extent possible without reducing overall capacity or safety of the national airspace system.
 
 "(e)
 
-Sunset.—The pilot program established under subsection (a) shall terminate on March 8, 2024.
+Sunset.—The pilot program established under subsection (a) shall terminate on September 30, 2028.
 
 "(f)
 
@@ -340,7 +546,7 @@ Report.—Not later than 90 days after the date on which the pilot program termi
 
 #### Maintaining Restrictions Under Certain NOTAMs
 
-Pub. L. 108–199, div. F, title V, §521, Jan. 23, 2004, 118 Stat. 343, provided that:
+Pub. L. 108–199, div. F, title V, §521, Jan. 23, 2004, 118 Stat. 343, as amended by Pub. L. 118–63, title XI, §1115(b), May 16, 2024, 138 Stat. 1421, provided that:
 
 "(a)
 
@@ -356,13 +562,15 @@ In General.—The Secretary of Transportation—
 
 &emsp;&emsp;&emsp;"(i) for operational purposes;
 
-&emsp;&emsp;&emsp;"(ii) for the transport of team members, officials of the governing body, and immediate family members and guests of such team members and officials to and from such event, stadium, or venue;
+&emsp;&emsp;&emsp;"(ii) for the transport of team members, officials of the governing body, and immediate family members and guests of (or attendees approved by) such team members and officials to and from such event, stadium, or venue;
 
 &emsp;&emsp;&emsp;"(iii) in the case of a sporting event, for the transport of equipment or parts to and from such sporting event;
 
-&emsp;&emsp;&emsp;"(iv) to permit a broadcast rights holder to provide broadcast coverage of such event, stadium, or venue; and
+&emsp;&emsp;&emsp;"(iv) to permit a broadcast rights holder to provide broadcast coverage of such event, stadium, or venue;
 
 &emsp;&emsp;&emsp;"(v) for safety and security purposes related to such event, stadium, or venue; and
+
+&emsp;&emsp;&emsp;"(vi) to permit the safe operation of an aircraft that is operated by an airshow performer in connection with an airshow, provided such aircraft is not permitted to operate directly over the stadium (or adjacent parking facilities) during the sporting event; and
 
 &emsp;&emsp;"(C) to allow the operation of an aircraft in restricted airspace to the extent necessary to arrive at or depart from an airport using standard air traffic control procedures.
 

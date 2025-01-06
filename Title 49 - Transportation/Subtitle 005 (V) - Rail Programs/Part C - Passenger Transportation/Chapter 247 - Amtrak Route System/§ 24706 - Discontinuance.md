@@ -126,7 +126,7 @@ Subsec. (b)(1). Pub. L. 114–94, §11316(n)(1)(B), struck out "section 24704 or
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted "180 days" for "90 days" and "or discontinuingservice over a route," for "24707(a) or (b) of this title," and inserted "or assume" after "agree to share".
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted "180 days" for "90 days" and "or discontinuing service over a route," for "24707(a) or (b) of this title," and inserted "or assume" after "agree to share".
 
 Subsec. (a)(2). Pub. L. 105–134, §101(c)(4), which directed substitution of "paragraph (1)" for "section 24707(a) or (b) of this title", was executed by making the substitution for "24707(a) or (b) of this title" to reflect the probable intent of Congress.
 
@@ -174,7 +174,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 &emsp;"(B) is not submitted to arbitration as described in subsection (c),
 
-> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selected under the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
+> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of theenactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selected under the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
 
 "(2) No individual shall be selected under paragraph (1) who is pecuniarily or otherwise interested in any organization of employees or any railroad.
 

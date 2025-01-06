@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [6301\.](%C2%A7%2006301%20-%20Collection%20authority.md) | Collection authority |
+| [6301\.](%C2%A7%2006301%20-%20Collection%20authority.md) | Collection authority. |
 | [6302\.](%C2%A7%2006302%20-%20Mode%20or%20time%20of%20collection.md) | Mode or time of collection. |
 | [6303\.](%C2%A7%2006303%20-%20Notice%20and%20demand%20for%20tax.md) | Notice and demand for tax. |
 | [6304\.](%C2%A7%2006304%20-%20Fair%20tax%20collection%20practices.md) | Fair tax collection practices. |

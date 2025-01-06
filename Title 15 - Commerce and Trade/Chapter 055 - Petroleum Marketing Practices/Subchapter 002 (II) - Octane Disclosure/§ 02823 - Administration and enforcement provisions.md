@@ -74,7 +74,7 @@ Pub. L. 102–486, §1501(c)(3)(A), (B), substituted "automotive fuel rating" fo
 
 Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted "automotive fuel rating" for "octane rating" and "fuel" for "gasoline" wherever appearing, "section 2821" for "section 2821(1)" in par. (3), and "automotive fuel ratings" for "octane ratings" in par. (4).
 
-Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sentence "; except that for purposes of section 5(m)(1)(A) of such Act, the term 'or knowledge fairly implied on the basis of objective circumstances' shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title".
+Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sentence "; except that for purposes ofsection 5(m)(1)(A) of such Act, the term 'or knowledge fairly implied on the basis of objective circumstances' shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

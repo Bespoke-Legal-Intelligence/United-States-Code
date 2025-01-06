@@ -130,7 +130,7 @@ Subsec. (g). Pub. L. 105–220 added subsec. (g).
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–418, §1423(a)(4), amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: "will make determinations and approvals regarding job search programs under sections 2291(c) and 2297(c) of this title, and".
 
-Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Agreements entered into under this section may be made with one or more State or local agencies including—
+Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. Prior to amendment, subsec. (e)read as follows: "Agreements entered into under this section may be made with one or more State or local agencies including—
 
 &emsp;"(1) the employment service agency of such State,
 

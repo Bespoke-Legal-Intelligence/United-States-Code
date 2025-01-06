@@ -6,7 +6,7 @@ Cost Variations Authorized; Limitation.—Except as provided in subsection (c), 
 
 (b)
 
-Scope of Work Variations Authorized; Limitation.—(1) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition. Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
+Scope of Work Variations Authorized; Limitation.—(1) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, oracquisition. Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
 (2) Except as provided in subsection (d), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may not be increased above the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
@@ -88,7 +88,7 @@ Additional Reporting Requirement for Certain Cost Increases.—(1) In addition t
 
 (g)
 
-Relation to Other Law.—Notwithstanding the authority under subsections (a) through (f),the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act").
+Relation to Other Law.—Notwithstanding the authority under subsections (a) through (f), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act").
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, §2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(2), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, §2801, Jan. 2, 2013, 126 Stat. 2146; Pub. L. 113–291, div. A, title X, §1071(f)(24), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. B, title XXVIII, §2803, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(1), 2821, Dec. 12, 2017, 131 Stat. 1843, 1853; Pub. L. 116–283, div. B, title XXVIII, §2803(a), (b), Jan. 1, 2021, 134 Stat. 4319, 4320; Pub. L. 117–81, div. B, title XXVIII, §2802, Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, §2808, Dec. 23, 2022, 136 Stat. 2996.)
 
@@ -98,7 +98,7 @@ Relation to Other Law.—Notwithstanding the authority under subsections (a) thr
 
 <b>2022</b>—Subsec. (c)(1)(D). Pub. L. 117–263 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "The Secretary concerned may not use the authority provided by subparagraph (A)—
 
-&emsp;"(i) to waive the cost limitation applicable to a military construction project with a total authorized cost greater than $500,000,000 or a military family housing project with a total authorized cost greater than $500,000,000; and
+&emsp;"(i) to waive the cost limitation applicable to a military construction project with a total authorized cost greater than $500,000,000 or a military familyhousing project with a total authorized cost greater than $500,000,000; and
 
 &emsp;"(ii) to approve an increase in the cost authorized for the project that would increase the project cost by more than 50 percent of the total authorized cost of the project."
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 111–84, §2803(2), substituted "subsection (b)(1)" for "s
 
 <b>2006</b>—Pub. L. 109–163, §2804(c)(1), substituted "Authorized cost and scope of work variations" for "Authorized cost variations" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §2804(a)(1), substituted "may be increased or decreased by not more than 25percent" for "may be increased by not more than 25 percent" and "if the Secretary concerned determines that such revised cost is required" for "if the Secretary concerned determines that such an increase in cost is required".
+Subsec. (a). Pub. L. 109–163, §2804(a)(1), substituted "may be increased or decreased by not more than 25 percent" for "may be increased by not more than 25 percent" and "if the Secretary concerned determines that such revised cost is required" for "if the Secretary concerned determines that such an increase in cost is required".
 
 Subsec. (c). Pub. L. 109–364 substituted "if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—" for "if—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
@@ -182,7 +182,7 @@ Subsec. (d). Pub. L. 109–163, §2804(a)(3), substituted "limitation on cost va
 
 <b>2001</b>—Subsec. (d). Pub. L. 107–107 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The limitation on cost increases in subsection (a) does not apply to the settlement of a contractor claim under a contract."
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress."
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concernedpromptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress."
 
 <b>1989</b>—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 

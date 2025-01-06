@@ -224,7 +224,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the end of the first fiscal year in which both the People-to-People Partnership for Peace Fund and the Joint Investment for Peace Initiative are in effect, and annually thereafter, the Administrator of the UnitedStates Agency for International Development and the Chief Executive Officer of the United States International Development Finance Corporation shall, in coordination with the Secretary of State, jointly submit to the appropriate congressional committees a report in writing that describes—
+In general.—Not later than 90 days after the end of the first fiscal year in which both the People-to-People Partnership for Peace Fund and the Joint Investment for Peace Initiative are in effect, and annually thereafter, the Administrator of the United States Agency for International Development and the Chief Executive Officer of the United States International Development Finance Corporation shall, in coordination with the Secretary of State, jointly submit to the appropriate congressional committees a report in writing that describes—
 
 &emsp;&emsp;"(A)(i) lessons learned and best practices developed from funding for projects under the People-to-People Partnership for Peace Fund during the prior fiscal year; and
 

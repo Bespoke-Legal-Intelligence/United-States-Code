@@ -24,6 +24,10 @@ Section was formerly classified to section 511 of Title 5 prior to the general r
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–191, §1, Dec. 23, 2024, 138 Stat. 2658, provided that: "This Act \[enacting section 2279l of this title\] may be cited as the 'Beagle Brigade Act of 2023'."
+
 #### Short Title of 1997 Amendment
 
 Pub. L. 105–113, §1, Nov. 21, 1997, 111 Stat. 2274, provided that: "This Act \[enacting section 2204g of this title, amending sections 1991 and 2276 of this title and section 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title\] may be cited as the 'Census of Agriculture Act of 1997'."
@@ -82,7 +86,7 @@ Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of sect
 
 "(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agriculture to dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
 
-"(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
+"(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchangeor sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
 
 "(e) All conveyances under the Act referred to in subsection (h) of section 1 hereof of national forest lands reserved from the public domain shall, upon recommendation of the Secretary of Agriculture, be made by the Secretary of the Interior."
 

@@ -14,7 +14,7 @@ The Secretary of the Interior shall make reasonable efforts to notify all person
 
 #### (d) Acceptance of claim by Secretary; time to render decision; review of initial determination
 
-(1) The Secretary shall, under regulations prescribed pursuant to section 1843(a) of this title,specify the time, form and manner in which claims must be filed.
+(1) The Secretary shall, under regulations prescribed pursuant to section 1843(a) of this title, specify the time, form and manner in which claims must be filed.
 
 (2) The Secretary may not accept any claim that does not meet the filing requirements specified under paragraph (1), and shall give a claimant whose claim is not accepted written notice of the reasons for nonacceptance. Such written notice must be given to the claimant within 30 days after the date on which the claim was filed and if the claimant does not refile an acceptable claim within 30 days after the date of such written notice, the claimant is not eligible for compensation under this subchapter for the damages concerned; except that the Secretary—
 
@@ -88,7 +88,7 @@ Subsec. (h)(1). Pub. L. 97–212, §5(7)(A), substituted provisions that the amo
 
 Subsec. (h)(2). Pub. L. 97–212, §5(7)(B), inserted provision that any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-Subsec. (i). Pub. L. 97–212, §5(8), substituted "Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant" for "Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicial review of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit".
+Subsec. (i). Pub. L. 97–212, §5(8), substituted "Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant" for "Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicialreview of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -156,5 +156,5 @@ Form.—The report under subparagraph (A) shall be published in unclassified for
 
 #### Definitions
 
-For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
+For definitions of "congressional intelligence committees" and "intelligence community" as used in this section, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
 

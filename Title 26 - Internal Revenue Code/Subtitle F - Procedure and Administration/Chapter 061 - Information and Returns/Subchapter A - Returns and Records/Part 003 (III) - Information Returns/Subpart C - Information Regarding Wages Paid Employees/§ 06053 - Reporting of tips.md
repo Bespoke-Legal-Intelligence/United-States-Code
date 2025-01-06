@@ -12,7 +12,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (1) Report to Secretary
 
-&emsp;In the case of a large food or beverage establishment, each employer shall report to the Secretary, at such time and manner as theSecretary may prescribe by regulation, the following information with respect to each calendar year:
+&emsp;In the case of a large food or beverage establishment, each employer shall report to the Secretary, at such time and manner as the Secretary may prescribe by regulation, the following information with respect to each calendar year:
 
 &emsp;&emsp;(A) The gross receipts of such establishment from the provision of food and beverages (other than nonallocable receipts).
 

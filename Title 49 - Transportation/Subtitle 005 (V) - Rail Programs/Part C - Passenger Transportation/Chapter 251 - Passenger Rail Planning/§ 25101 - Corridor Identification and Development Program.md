@@ -30,7 +30,7 @@ In General.—Not later than 180 days after the date of enactment of the Passeng
 
 (b)
 
-Eligible Entities.—The Secretary may receive proposals under this section from Amtrak, States, groups of States, entities implementing interstate compacts, regional passenger rail authorities, regional planning organizations, political subdivisions of a State, federally recognized Indian Tribes, and other public entities, as determined by the Secretary.
+Eligible Entities.—The Secretary may receive proposals under this section from Amtrak,States, groups of States, entities implementing interstate compacts, regional passenger rail authorities, regional planning organizations, political subdivisions of a State, federally recognized Indian Tribes, and other public entities, as determined by the Secretary.
 
 (c)
 
@@ -80,7 +80,7 @@ Service Development Plans.—For each corridor proposal selected for development
 
 &emsp;&emsp;&emsp;(iii) the proposed Federal funding levels;
 
-&emsp;&emsp;(B) specifies the order in which Federal funding will be sought for the capitalprojects identified under subparagraph (A), after considering the appropriate sequence and phasing of projects based on the anticipated availability of funds; and
+&emsp;&emsp;(B) specifies the order in which Federal funding will be sought for the capital projects identified under subparagraph (A), after considering the appropriate sequence and phasing of projects based on the anticipated availability of funds; and
 
 &emsp;&emsp;(C) is developed in consultation with the entities listed in subsection (e);
 

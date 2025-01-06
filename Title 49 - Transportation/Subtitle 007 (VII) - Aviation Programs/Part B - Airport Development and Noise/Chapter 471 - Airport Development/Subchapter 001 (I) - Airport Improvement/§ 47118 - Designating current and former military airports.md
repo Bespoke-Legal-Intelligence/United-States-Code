@@ -74,7 +74,7 @@ Safety-Critical Airports.—Notwithstanding any other provision of this chapter,
 
 &emsp;(2) necessary to meet the minimum safety and emergency operational requirements established under part 139 of title 14, Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–176, title I, §153, Dec. 12, 2003, 117 Stat. 2507; Pub. L. 112–95, title I, §146, Feb. 14, 2012, 126 Stat. 30; Pub. L. 115–254, div. B, title I, §137, Oct. 5, 2018, 132 Stat. 3210.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78;Pub. L. 108–176, title I, §153, Dec. 12, 2003, 117 Stat. 2507; Pub. L. 112–95, title I, §146, Feb. 14, 2012, 126 Stat. 30; Pub. L. 115–254, div. B, title I, §137, Oct. 5, 2018, 132 Stat. 3210.)
 
 Historical and Revision Notes
 

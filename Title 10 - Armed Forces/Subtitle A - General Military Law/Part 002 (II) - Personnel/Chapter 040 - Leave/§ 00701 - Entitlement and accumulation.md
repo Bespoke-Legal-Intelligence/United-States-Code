@@ -32,7 +32,7 @@
 
 (3) Excess leave retained by a member under this subsection shall be forfeited unless used before the end of the second fiscal year after the end of the fiscal year in which the service or assignment described in paragraph (2)(A) terminated.
 
-(4) In this subsection, the term "excess leave" means leave accrued by a member in excess of the number of days of leave authorized to be accumulated under subsection (b).
+(4) In this subsection, the term "excess leave" means leave accrued by a member in excess ofthe number of days of leave authorized to be accumulated under subsection (b).
 
 (f) A member who is in a missing status, as defined in section 551(2) of title 37, accumulates leave without regard to the limitations in subsections (b) and (e). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
 
@@ -98,7 +98,7 @@
 
 &emsp;(2) in the interest of national security, as determined by the Secretary of Defense.
 
-(k) A member of the armed forces who gives birth while on active duty may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+(k) A member of the armed forces who, while on active duty, gives birth, loses a pregnancy, or has a stillbirth, may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth, loss of pregnancy, or stillbirth only with the approval of a health care provider employed at a military medical treatment facility and—
 
 &emsp;(1) at the election of such member; or
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(ii) recommends such leave for the member to provide for the convalescence of the member from that condition; and
 
-&emsp;(B) the commanding officer of the member or the commander of the military medicaltreatment facility authorizes such leave for the member.
+&emsp;(B) the commanding officer of the member or the commander of the military medical treatment facility authorizes such leave for the member.
 
 (2) A member may take not more than 30 days of convalescent leave under paragraph (1) with respect to a condition described in that paragraph unless—
 
@@ -154,7 +154,7 @@
 
 (5) In this subsection, the term "military medical treatment facility" means a facility described in subsection (b), (c), or (d) of section 1073d of this title.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722; Pub. L. 114–328, div. A, title V, §521(a), Dec. 23, 2016, 130 Stat. 2113; Pub. L. 116–92, div. A, title V, §§571, 572, Dec. 20, 2019, 133 Stat. 1403; Pub. L. 117–81, div. A, title VI, §§621(a), 622(a), Dec. 27, 2021, 135 Stat. 1770, 1771; Pub. L. 117–263, div. A, title VI, §§631(a), (b), 632(a), 633(a), (b), Dec. 23, 2022, 136 Stat. 2631–2633; Pub. L. 118–31, div. A, title XVII, §1722(d)(1), title XVIII, §1801(a)(10), Dec. 22, 2023, 137 Stat. 670, 684.)
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722; Pub. L. 114–328, div. A, title V, §521(a), Dec. 23, 2016, 130 Stat. 2113; Pub. L. 116–92, div. A, title V, §§571, 572, Dec. 20, 2019, 133 Stat. 1403; Pub. L. 117–81, div. A, title VI, §§621(a), 622(a), Dec. 27, 2021, 135 Stat. 1770, 1771; Pub. L. 117–263, div. A, title VI, §§631(a), (b), 632(a), 633(a), (b), Dec. 23, 2022, 136 Stat. 2631–2633; Pub. L. 118–31, div. A, title XVII, §1722(d)(1), title XVIII, §1801(a)(10), Dec. 22, 2023, 137 Stat. 670, 684; Pub. L. 118–159, div. A, title VI, §602, Dec. 23, 2024, 138 Stat. 1931.)
 
 Historical and Revision Notes
 
@@ -199,6 +199,8 @@ In subsection (e), the words "before or after August 9, 1946" and section 31a(a)
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (k). Pub. L. 118–159, in introductory provisions, substituted ", while on active duty, gives birth, loses a pregnancy, or has a stillbirth," for "gives birth while on active duty" and "such birth, loss of pregnancy, or stillbirth" for "such birth".
 
 <b>2023</b>—Subsec. (h)(2)(D). Pub. L. 118–31, §1722(d)(1)(A)(i), added subpar. (D).
 
@@ -268,7 +270,7 @@ Subsec. (i)(9), (10). Pub. L. 117–81, §621(a)(1)(B), redesignated par. (9) as
 
 "(A) Subject to subparagraph (B), a member taking leave under paragraph (1) during a period of obligated service shall not be eligible for terminal leave, or to sell back leave, at the end such period of obligated service.
 
-"(B) Under the regulations for purposes of this subsection, the Secretary concerned may waive, whether in whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member's period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned."
+"(B) Under the regulations for purposes of this subsection, the Secretary concerned may waive, whetherin whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member's period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned."
 
 Subsecs. (j), (k). Pub. L. 117–81, §621(a)(2), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which related to leave for secondary caregivers in case of birth of child or adoption of child.
 
@@ -312,7 +314,7 @@ Subsec. (f)(2). Pub. L. 110–181, §551(b)(3), substituted "except for this par
 
 &emsp;"(A) would lose any accumulated leave in excess of 60 days at the end of that fiscal year, shall be permitted to retain such leave (not to exceed 90 days) until the end of the succeeding fiscal year; or
 
-&emsp;"(B) would lose any accumulated leave in excess of 60 days at the end of the succeeding fiscal year (otherthan by reason of subparagraph (A)), shall be permitted to retain such leave (not to exceed 90 days) until the end of the next succeeding fiscal year."
+&emsp;"(B) would lose any accumulated leave in excess of 60 days at the end of the succeeding fiscal year (other than by reason of subparagraph (A)), shall be permitted to retain such leave (not to exceed 90 days) until the end of the next succeeding fiscal year."
 
 Subsec. (g). Pub. L. 110–181, §551(c), substituted "limitations in subsections (b), (d), and (f)" for "60-day limitation in subsection (b) and the 90-day limitation in subsection (f)" in introductory provisions.
 
@@ -438,5 +440,5 @@ Authority vested by this chapter in "military departments", "the Secretary conce
 
 Pub. L. 97–39, title VII, §702, Aug. 14, 1981, 95 Stat. 943, provided that: "The amendment made by section 10 of the Military Pay and Allowances Benefits Act of 1980 (Public Law 96–579; 94 Stat. 3368) \[amending this section\] shall apply with respect to the accumulation of leave by members of the Armed Forces who after September 30, 1979, are assigned (1) to a deployable ship or mobile unit, or (2) to other duty designated after the date of the enactment of this Act \[Aug. 14, 1981\] as duty qualifying for the purpose of \[former\] section 701(f) of title 10, United States Code, as amended by that amendment."
 
-For savings provision extending period for which certain accrued leave under former subsec. (f) of this section may be retained by members of Armed Forces, see section 1115 of Pub. L. 101–510, set out as a Treatment of Accumulated Leave note under section 501 of Title 37, Pay and Allowances of the Uniformed Services.
+For savings provision extending period for which certain accrued leave under former subsec. (f) of this section may be retained by members of Armed Forces, see section 1115 of Pub. L. 101–510, set out as a Treatmentof Accumulated Leave note under section 501 of Title 37, Pay and Allowances of the Uniformed Services.
 

@@ -14,7 +14,7 @@
 
 &emsp;(A) except as provided in subparagraphs (B) and (C), pursuant to regulations prescribed by the Secretary of Defense;
 
-&emsp;(B) for persons performing service to the Federal Emergency Management Agency under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165f) and as intermittent personnel under section 306(b)(1) of such Act (42 U.S.C. 5149(b)(1)), by the Administrator of the Federal Emergency Management Agency as described in sections 327(j)(2) and 306(d)(2) of such Act (42 U.S.C. 5165f(j)(2) and 5149(d)(2)),<sup>1</sup> respectively; or
+&emsp;(B) for persons performing service to the Federal Emergency Management Agency under section 327 of the Robert T. StaffordDisaster Relief and Emergency Assistance Act (42 U.S.C. 5165f) and as intermittent personnel under section 306(b)(1) of such Act (42 U.S.C. 5149(b)(1)), by the Administrator of the Federal Emergency Management Agency as described in sections 327(j)(2) and 306(d)(2) of such Act (42 U.S.C. 5165f(j)(2) and 5149(d)(2)),<sup>1</sup> respectively; or
 
 &emsp;(C) for intermittent disaster-response appointees of the National Disaster Medical System, by the Secretary of Health and Human Services as described in section 2812(d)(3)(B) of the Public Health Service Act (42 U.S.C. 300hh–11(d)(3)(B)).
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(ii) as soon as possible after the expiration of the eight-hour period referred to in clause (i), if reporting within the period referred to in such clause is impossible or unreasonable through no fault of the person.
 
-&emsp;(B) In the case of a person who is absent from a position of employment for a period of any length for the purposes of an examination to determine the person's fitness to perform service in the uniformed services, by reporting in the manner and time referred to in subparagraph (A).
+&emsp;(B) In the case of a person who is absent from a position of employment for a period ofany length for the purposes of an examination to determine the person's fitness to perform service in the uniformed services, by reporting in the manner and time referred to in subparagraph (A).
 
 &emsp;(C) In the case of a person whose period of service in the uniformed services was for more than 30 days but less than 181 days, by submitting an application for reemployment with the employer not later than 14 days after the completion of the period of service or if submitting such application within such period is impossible or unreasonable through no fault of the person, the next first full calendar day when submission of such application becomes possible.
 
@@ -100,7 +100,7 @@
 
 (h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III,§311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829; Pub. L. 117–178, §3(b), Sept. 29, 2022, 136 Stat. 2111.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829; Pub. L. 117–178, §3(b), Sept. 29, 2022, 136 Stat. 2111.)
 
 #### <b>Editorial Notes</b>
 

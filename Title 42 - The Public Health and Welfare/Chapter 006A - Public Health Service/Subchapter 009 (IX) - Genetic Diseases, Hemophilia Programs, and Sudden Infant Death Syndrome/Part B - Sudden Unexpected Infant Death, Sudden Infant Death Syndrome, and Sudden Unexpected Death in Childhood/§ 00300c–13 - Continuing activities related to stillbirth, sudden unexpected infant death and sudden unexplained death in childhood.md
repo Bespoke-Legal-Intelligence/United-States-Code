@@ -8,7 +8,7 @@ The Secretary of Health and Human Services shall continue activities related to 
 
 &emsp;(2) disseminating information to educate the public, health care providers, and other stakeholders on stillbirth, sudden unexpected infant death and sudden unexplained death in childhood; and
 
-&emsp;(3) collaborating with the Attorney General, State and local departments of health, and other experts, as appropriate, to provide consistent information for medical examiners and coroners, law enforcement personnel, and health care providers related to death scene investigations and autopsies for sudden unexpected infant death and sudden unexplained death in childhood, in order to improve the quality and consistency of the data collected at such death scenes and to promote consistent reporting on the cause of death after autopsy to inform prevention, intervention, and other activities.
+&emsp;(3) collaborating with the Attorney General, State and local departments of health, and other experts, as appropriate, to provide consistent information for medical examiners andcoroners, law enforcement personnel, and health care providers related to death scene investigations and autopsies for sudden unexpected infant death and sudden unexplained death in childhood, in order to improve the quality and consistency of the data collected at such death scenes and to promote consistent reporting on the cause of death after autopsy to inform prevention, intervention, and other activities.
 
 #### (b) Report to Congress
 

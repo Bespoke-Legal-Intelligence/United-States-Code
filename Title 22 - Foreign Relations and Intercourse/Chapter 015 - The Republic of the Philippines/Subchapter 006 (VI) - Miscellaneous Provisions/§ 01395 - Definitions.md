@@ -4,7 +4,7 @@
 
 &emsp;(1) The term "United States", when used in a geographical sense, but not the term "continental United States", includes all Territories and possessions of the United States, other than the Philippines.
 
-&emsp;(2) The term "cordage" includes yarns, twines (including binding twine described in paragraph 1622 <sup>1</sup> of section 1201 of title 19),cords, cordage, rope and cable, tarred or untarred, wholly or in chief value of manila (abaca) or other hard fiber.
+&emsp;(2) The term "cordage" includes yarns, twines (including binding twine described in paragraph 1622 <sup>1</sup> of section 1201 of title 19), cords, cordage, rope and cable, tarred or untarred, wholly or in chief value of manila (abaca) or other hard fiber.
 
 &emsp;(3) The term "Philippine Government" means the Government of the Commonwealth of the Philippines.
 

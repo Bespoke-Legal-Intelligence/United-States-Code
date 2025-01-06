@@ -22,7 +22,7 @@ To be eligible to receive a grant under this section, the chief executive office
 
 &emsp;&emsp;(A) collect observational weather data throughout the State and provide such data to the National Weather Service and the Agricultural Weather Office;
 
-&emsp;&emsp;(B) develop methods for packaging information received from the national system for use by agricultural producers (with State Cooperative Extension Services and the private sector to serve as the primary conduit of agricultural weather forecasts and climatic information to producers); and
+&emsp;&emsp;(B) develop methods for packaging information received from the national system for use by agricultural producers (with StateCooperative Extension Services and the private sector to serve as the primary conduit of agricultural weather forecasts and climatic information to producers); and
 
 &emsp;&emsp;(C) develop programs to educate agricultural producers on how to best use weather and climate information to improve management decisions; and
 

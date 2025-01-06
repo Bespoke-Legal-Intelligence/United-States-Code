@@ -10,7 +10,7 @@ General Authority.—(1) The Administrator of the Federal Aviation Administratio
 
 (2) The cost of site preparation work associated with acquiring, establishing, or improving an air navigation facility under paragraph (1)(A) of this subsection shall be charged to amounts available for that purpose appropriated under section 48101(a) of this title. The Secretary of Transportation may make an agreement with an airport owner or sponsor (as defined in section 47102 of this title) so that the owner or sponsor will provide the work and be paid or reimbursed by the Secretary from the appropriated amounts.
 
-(3) The Secretary of Transportation may authorize a department, agency, or instrumentality of the United States Government to carry out any duty or power under this subsection with the consent of the head of the department, agency, or instrumentality.
+(3) The Secretary of Transportation may authorize a department, agency, or instrumentality of the United States Government to carryout any duty or power under this subsection with the consent of the head of the department, agency, or instrumentality.
 
 (4)
 
@@ -22,7 +22,7 @@ Establishment of program.—The Secretary shall purchase precision approach inst
 
 &emsp;(B)
 
-Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisitionunder new or existing contracts, site preparation work, installation, and related expenditures.
+Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisition under new or existing contracts, site preparation work, installation, and related expenditures.
 
 (5)
 
@@ -56,7 +56,7 @@ Transfers of Air Traffic Systems.—
 
 &emsp;(1)
 
-In general.—An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration, an eligible air traffic system or equipment that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system or equipment.
+In general.—Subject to paragraph (4), an airport in a non-contiguous State may transfer, without consideration, to the Administrator of the Federal Aviation Administration, an eligible air traffic system or equipment that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system or equipment.
 
 &emsp;(2)
 
@@ -68,9 +68,15 @@ Definition.—In this subsection, the term "eligible air traffic system or equip
 
 &emsp;&emsp;(A) an instrument landing system consisting of a glide slope and localizer (if the Administrator has determined that a satellite navigation system cannot provide a suitable approach to an airport);
 
-&emsp;&emsp;(B) an Automated Weather Observing System weather observation system; or
+&emsp;&emsp;(B) an Automated Weather Observing System weather observation system;
 
-&emsp;&emsp;(C) a Remote Communication Air/Ground and Remote Communication Outlet communications facility.
+&emsp;&emsp;(C) a Remote Communication Air/Ground and Remote Communication Outlet communications facility; or
+
+&emsp;&emsp;(D) a Medium Intensity Approach Lighting System with Runway Alignment Indicator Lights.
+
+&emsp;(4)
+
+Exception.—The requirement under paragraph (1) that an eligible air traffic system or equipment be purchased in part using a Government airport aid program, airport development aid program, or airport improvement project grant shall not apply if the air trafficsystem or equipment is installed at an airport that is categorized as a basic or local general aviation airport under the most recently published national plan of integrated airport systems under section 47103.
 
 (f)
 
@@ -92,7 +98,7 @@ Rule of construction.—Nothing in this subsection may be construed to affect—
 
 &emsp;&emsp;(B) any grant assurance that requires an airport owner or sponsor to provide land to the Administration without cost for an air traffic control facility.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title I, §153, title VII, §712, Apr. 5, 2000, 114 Stat. 87, 160; Pub. L. 115–254, div. B, title I, §147, Oct. 5, 2018, 132 Stat. 3213.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title I, §153, title VII, §712, Apr. 5, 2000, 114 Stat. 87, 160; Pub. L. 115–254, div. B, title I, §147, Oct. 5, 2018, 132 Stat. 3213; Pub. L. 118–63, title VII, §728(a), May 16, 2024, 138 Stat. 1271.)
 
 Historical and Revision Notes
 
@@ -222,6 +228,12 @@ This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of 
 
 #### Amendments
 
+<b>2024</b>—Subsec. (e)(1). Pub. L. 118–63, §728(a)(1), substituted "Subject to paragraph (4), an airport in a non-contiguous State" for "An airport".
+
+Subsec. (e)(3)(D). Pub. L. 118–63, §728(a)(2), added subpar. (D).
+
+Subsec. (e)(4). Pub. L. 118–63, §728(a)(3), added par. (4).
+
 <b>2018</b>—Subsec. (e). Pub. L. 115–254, §147(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator."
 
 Subsec. (f). Pub. L. 115–254, §147(2), added subsec. (f).
@@ -244,6 +256,10 @@ Subsec. (b). Pub. L. 103–429 inserted "Government" before "money may be expend
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–63, title VII, §728(b), May 16, 2024, 138 Stat. 1271, as amended by Pub. L. 118–83, div. B, title I, §114, Sept. 26, 2024, 138 Stat. 1537, provided that: "The amendments made by this section \[amending this section\] shall take effect beginning on December 20, 2024."
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -251,6 +267,104 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Direct-Hire Authority Utilization
+
+Pub. L. 118–63, title IV, §428, May 16, 2024, 138 Stat. 1170, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall utilize direct hire authorities (as such authorities existed on the day before the date of enactment of this Act \[May 16, 2024\]) to hire individuals on a non-competitive basis for positions related to aircraft certification and aviation safety. In utilizing such authorities, the Administrator shall take into consideration any staffing gaps in the safety workforce of the FAA \[Federal Aviation Administration\], including in positions supporting the safe integration of unmanned aircraft systems and other new airspace entrants.
+
+"(b)
+
+Congressional Briefing.—Not later than 180 days after the date of enactment of this Act, and annually thereafter through 2028, the Administrator shall brief the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] on the—
+
+&emsp;"(1) utilization of the Administrator's direct-hire authorities described in subsection (a);
+
+&emsp;"(2) utilization of the Administrator's direct-hire authorities with respect to the Unmanned Aircraft System Collegiate Training Initiative of the FAA; and
+
+&emsp;"(3) number of employees hired as a result of the utilization of such authorities by the Administrator, the relevant lines of business or offices in which such employees were hired, and the occupational series of the positions filled."
+
+#### Airport Diagram Terminology
+
+Pub. L. 118–63, title VII, §749, May 16, 2024, 138 Stat. 1283, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall update Airport Diagram Order JO 7910.4 and any related advisory circulars, policy, and guidance to ensure the clear and consistent use of terms to delineate the types of parking available to general aviation pilots.
+
+"(b)
+
+Collaboration.—In carrying out subsection (a), the Administrator shall collaborate with industry stakeholders, commercial service airports, and general aviation airports in—
+
+&emsp;"(1) facilitating basic standardization of general aviation parking terms;
+
+&emsp;"(2) accounting for the majority of uses of general aviation parking terms; and
+
+&emsp;"(3) providing clarity for chart users.
+
+"(c)
+
+IAC Specifications.—The Administrator shall encourage the Interagency Air Committee to incorporate the terms developed pursuant to subsection (a) in publications produced by the Committee."
+
+#### Pilot Program for UAS Inspections of FAA Infrastructure
+
+Pub. L. 118–63, title IX, §911, May 16, 2024, 138 Stat. 1347, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], the Secretary \[of Transportation\] shall initiate a pilot program to supplement inspection and oversight activities of the Department of Transportation with unmanned aircraft systems to increase employee safety, enhance data collection, increase the accuracy of inspections, reduce costs, and for other purposes the Secretary considers to be appropriate.
+
+"(b)
+
+Ground-based Aviation Infrastructure.—In participating in the program under subsection (a), the Administrator \[of the Federal Aviation Administration\] shall evaluate the use of unmanned aircraft systems to inspect ground-based aviation infrastructure that may require visual inspection in hard-to-reach areas, including—
+
+&emsp;"(1) navigational aids;
+
+&emsp;"(2) air traffic control towers;
+
+&emsp;"(3) radar facilities;
+
+&emsp;"(4) communication facilities; and
+
+&emsp;"(5) other air traffic control facilities.
+
+"(c)
+
+Coordination.—In carrying out subsection (b), the Administrator shall consult with the labor union certified under section 7111 of title 5, United States Code, to represent personnel responsible for the inspection of the ground-based aviation infrastructure.
+
+"(d)
+
+Briefing.—Not later than 2 years after the date of enactment of this Act, and annually thereafter untilthe termination of the pilot program under this section, the Secretary shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a briefing on the status and results of the pilot program established under subsection (a), including—
+
+&emsp;"(1) cost savings;
+
+&emsp;"(2) a description of how unmanned aircraft systems were used to supplement existing inspection, data collection, or oversight activities of Department employees, including the number of operations and types of activities performed;
+
+&emsp;"(3) efficiency or safety improvements, if any, associated with the use of unmanned aircraft systems to supplement conventional inspection, data collection, or oversight activities;
+
+&emsp;"(4) the fleet of unmanned aircraft systems maintained by the Department for the program, or an overview of the services used as part of the pilot program; and
+
+&emsp;"(5) recommendations for improving the use or efficacy of unmanned aircraft systems to supplement the Department's inspection, data collection, or oversight activities.
+
+"(e)
+
+Sunset and Incorporation Into Standard Practice.—
+
+&emsp;"(1)
+
+Sunset.—The pilot program established under subsection (a) and the briefing requirement under subsection (d) shall terminate on the date that is 4 years after the date of enactment of this Act \[May 16, 2024\].
+
+&emsp;"(2)
+
+Incorporation into standard practice.—Upon termination of the pilot program under this section, the Secretary shall assess the results and determine whether to permanently incorporate the use of unmanned aircraft systems into the regular inspection, data collection, and oversight activities of the Department.
+
+&emsp;"(3)
+
+Report to congress.—Not later than 9 months after the termination of the pilot program under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report on the final results of the pilot program and the actions taken by the Administrator under paragraph (2)."
+
+\[For definition of "unmanned aircraft system" as used in section 911 of Pub. L. 118–63, set out above, see section 44801 of this title, as made applicable by section 901 of Pub. L. 118–63, which is set out as a note below.\]
 
 #### High Performance, Sustainable, and Cost-Effective Air Traffic Control Facilities
 
@@ -261,6 +375,8 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. F, title I, Mar. 9, 2024, 138 Stat. 307.
 
 Pub. L. 117–328, div. L, title I, Dec. 29, 2022, 136 Stat. 5102.
 
@@ -326,7 +442,7 @@ Certification.—Not later than 180 days after the conclusion of work under the 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 109–115, div. A, title I, §101, Nov. 30, 2005, 119 Stat. 2401, which provided that airports may transfer to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant, provided that the FAA accept such equipment and operate andmaintain it in accordance with agency criteria, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 109–115, div. A, title I, §101, Nov. 30, 2005, 119 Stat. 2401, which provided that airports may transfer to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant, provided that the FAA accept such equipment and operate and maintain it in accordance with agency criteria, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 108–447, div. H, title I, §101, Dec. 8, 2004, 118 Stat. 3203.
 
@@ -400,9 +516,13 @@ Termination.—An employee's entitlement to quarterly retention allowance paymen
 
 "(d)
 
-Special Payment Rule.—The Administrator of the Federal Aviation Administration may make payment for the costs incurred under the program established by subsection (a) for the period between June 18, 1994, and September 30, 1994, following the end of the first full pay period that begins on or after October 1, 1994, subject to appropriations made available in fiscal year 1995.
+Special Payment Rule.—The Administrator of the Federal Aviation Administration may make payment for the costs incurred under the program established by subsection (a) for the period between June 18, 1994, and September 30, 1994, following the end of thefirst full pay period that begins on or after October 1, 1994, subject to appropriations made available in fiscal year 1995.
 
 "(e)
 
 Study of Recruitment and Retention Incentives.—The Administrator of the Federal Aviation Administration shall conduct a study of impediments that may exist to achieving appropriate air traffic controller staffing levels at hard-to-staff facilities. In conducting such study, the Administrator shall identify and evaluate the extent to which special incentives, of a financial or non-financial nature, could be useful in recruiting or retaining air traffic controllers at such facilities. The Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives not later than 180 days after the date of enactment of this Act \[May 26, 1994\] a report on (1) the results of such study, (2) planned administrative actions, and (3) any recommended legislation."
+
+#### Definitions Applicable in Pub. L. 118–63
+
+Pub. L. 118–63, title IX, §901, May 16, 2024, 138 Stat. 1341, provided that: "Except as otherwise provided, the definitions contained in section 44801 of title 49, United States Code, apply to this subtitle \[subtitle A (§§901–937) of title IX of Pub. L. 118–63, see Tables for classification\]."
 

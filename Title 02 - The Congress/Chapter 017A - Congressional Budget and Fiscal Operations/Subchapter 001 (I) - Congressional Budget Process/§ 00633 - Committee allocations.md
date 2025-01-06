@@ -36,7 +36,7 @@
 
 #### (5) Adjusting allocation of discretionary spending in the House of Representatives
 
-&emsp;(A) If a concurrent resolution on the budget is not adopted by April 15, the chairman of the Committee on the Budget of the House of Representatives shall submit to the House, assoon as practicable, an allocation under paragraph (1) to the Committee on Appropriations consistent with the discretionary spending levels in the most recently agreed to concurrent resolution on the budget for the appropriate fiscal year covered by that resolution.
+&emsp;(A) If a concurrent resolution on the budget is not adopted by April 15, the chairman of the Committee on the Budget of the House of Representatives shall submit to the House, as soon as practicable, an allocation under paragraph (1) to the Committee on Appropriations consistent with the discretionary spending levels in the most recently agreed to concurrent resolution on the budget for the appropriate fiscal year covered by that resolution.
 
 &emsp;(B) As soon as practicable after an allocation under paragraph (1) is submitted under this section, the Committee on Appropriations shall make suballocations and report those suballocations to the House of Representatives.
 
@@ -150,7 +150,7 @@ Pub. L. 101–508, §13201(b)(3)(B), substituted "total budget outlays and total
 
 Pub. L. 101–508, §13112(a)(6), struck out "the House of Representatives and" after "among each committee of".
 
-Subsec. (b)(1)(A). Pub. L. 101–508, §13201(b)(3)(C), substituted "budget outlays and new budget authority" for"budget outlays, new budget authority, and new credit authority".
+Subsec. (b)(1)(A). Pub. L. 101–508, §13201(b)(3)(C), substituted "budget outlays and new budget authority" for "budget outlays, new budget authority, and new credit authority".
 
 Subsec. (c). Pub. L. 101–508, §13207(a)(1)(A), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill or resolution, or amendment thereto".
 
@@ -170,7 +170,7 @@ Pub. L. 101–508, §13207(a)(1)(B), substituted "bill, joint resolution, amendm
 
 Pub. L. 101–508, §13201(b)(2), temporarily inserted "or new credit authority" after "new budget authority". See Effective and Termination Dates of 1990 Amendment note below.
 
-Pub. L. 101–508, §13112(a)(7), inserted "(A)" after "in excess of", substituted "under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section" for "under subsection (b) of this section", and inserted after first sentence "Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations."
+Pub. L. 101–508, §13112(a)(7), inserted "(A)" after "in excess of", substituted "under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section" for "under subsection (b) of this section", and inserted after first sentence "Subparagraph (A) shall not apply to any bill, resolution, amendment,motion, or conference report that is within the jurisdiction of the Committee on Appropriations."
 
 <b>1985</b>—Pub. L. 99–177 substituted "Committee allocations" for "Matters to be included in joint statement of managers; reports by committees" in section catchline.
 

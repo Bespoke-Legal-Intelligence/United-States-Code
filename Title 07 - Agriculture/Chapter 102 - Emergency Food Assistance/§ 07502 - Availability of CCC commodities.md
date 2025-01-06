@@ -30,7 +30,7 @@ Effective April 1, 1986, the Secretary shall submit semiannually to the Committe
 
 #### (f) Relation to other programs
 
-Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 <sup>1</sup> and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
+Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 <sup>2</sup> and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
 
 #### (g) Donations to emergency feeding organizations
 
@@ -94,5 +94,5 @@ Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the ame
 
 <i><sup>1</sup></i><i> So in original. The word "be" probably should not appear.</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

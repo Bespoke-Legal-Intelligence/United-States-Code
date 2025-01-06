@@ -48,7 +48,7 @@ Application of Presumptions for Training Duty.—When, pursuant to subsection (a
 
 (d)
 
-Symptoms of COVID–19.—For purposes of subsection (a), symptoms of COVID–19 are those symptoms that competent medical evidence demonstrates are experienced by an individual affected and directly related to COVID–19.
+Symptoms of COVID–19.—For purposes of subsection (a), symptoms of COVID–19 are thosesymptoms that competent medical evidence demonstrates are experienced by an individual affected and directly related to COVID–19.
 
 (e)
 
@@ -62,7 +62,7 @@ Medical Examinations and Opinions.—If there is a question of whether the sympt
 
 The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec.\(b)(1)(B), (2)(B), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
+The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(1)(B), (2)(B), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
 #### Codification
 

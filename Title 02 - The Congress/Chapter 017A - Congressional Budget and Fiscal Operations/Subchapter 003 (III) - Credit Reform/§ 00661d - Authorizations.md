@@ -52,7 +52,7 @@ Nothing in this subchapter shall be construed as authorizing or requiring the pu
 
 Nothing in this subchapter shall be construed to change the authority or the responsibility of a Federal agency to determine the terms and conditions of eligibility for, or the amount of assistance provided by a direct loan or a loan guarantee.
 
-(Pub. L. 93–344, title V, §505, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–613; amended Pub. L. 105–33, title X, §10117(c), Aug. 5, 1997, 111 Stat. 694; Pub. L. 113–67, div. A, title I, §122(15), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title V, §505, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104Stat. 1388–613; amended Pub. L. 105–33, title X, §10117(c), Aug. 5, 1997, 111 Stat. 694; Pub. L. 113–67, div. A, title I, §122(15), Dec. 26, 2013, 127 Stat. 1176.)
 
 #### <b>Editorial Notes</b>
 

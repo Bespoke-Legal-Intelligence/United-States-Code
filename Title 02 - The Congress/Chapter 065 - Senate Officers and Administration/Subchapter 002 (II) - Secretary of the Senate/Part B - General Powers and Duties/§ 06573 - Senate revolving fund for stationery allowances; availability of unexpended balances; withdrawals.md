@@ -24,7 +24,7 @@ contingent expenses of the senate" to reflect the probable intent of Congress.
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–304, title I, §112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by section 112(b)(3) of Pub. L. 96–304 is effective as of the close of Feb. 28, 1981.
+Pub. L. 96–304, title I, §112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by section 112(b)(3)of Pub. L. 96–304 is effective as of the close of Feb. 28, 1981.
 
 #### Effective Date of 1972 Amendment
 

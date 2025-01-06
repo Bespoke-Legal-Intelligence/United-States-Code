@@ -4,7 +4,7 @@
 
 &emsp;(1) exert every reasonable effort to make and maintain agreements concerning rates of pay, hours, and working conditions, including provision for adequate notice of any proposed change in the terms of such agreements;
 
-&emsp;(2) whenever a dispute arises over the terms or application of a collective-bargainingagreement and a conference is requested by a party or prospective party thereto, arrange promptly for such a conference to be held and endeavor in such conference to settle such dispute expeditiously; and
+&emsp;(2) whenever a dispute arises over the terms or application of a collective-bargaining agreement and a conference is requested by a party or prospective party thereto, arrange promptly for such a conference to be held and endeavor in such conference to settle such dispute expeditiously; and
 
 &emsp;(3) in case such dispute is not settled by conference, participate fully and promptly in such meetings as may be undertaken by the Service under this chapter for the purpose of aiding in a settlement of the dispute.
 

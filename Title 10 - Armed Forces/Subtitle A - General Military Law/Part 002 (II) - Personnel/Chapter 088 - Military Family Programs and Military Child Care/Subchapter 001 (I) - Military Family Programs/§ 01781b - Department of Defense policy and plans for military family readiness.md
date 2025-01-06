@@ -32,7 +32,7 @@ Elements of Policy.—The policy required under subsection (a) shall include the
 
 &emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
-(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X,§1051(a)(9), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 118–31, div. A, title XVII, §1722(k)(2), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X, §1051(a)(9), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 118–31, div. A, title XVII, §1722(k)(2), Dec. 22, 2023, 137 Stat. 673.)
 
 #### <b>Editorial Notes</b>
 

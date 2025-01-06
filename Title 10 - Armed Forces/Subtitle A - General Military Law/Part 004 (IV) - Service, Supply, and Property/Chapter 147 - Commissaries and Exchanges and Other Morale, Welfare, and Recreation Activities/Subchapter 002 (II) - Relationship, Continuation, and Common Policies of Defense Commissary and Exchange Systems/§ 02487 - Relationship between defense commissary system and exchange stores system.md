@@ -2,7 +2,7 @@
 
 (a)
 
-Separate Operation of Systems.—(1) Except as provided in paragraph (2), the defense commissary system and the exchange stores system shall be operated as separate systems of the Department of Defense.
+Separate Operation of Systems.—(1) Except as provided in paragraph (2), the defensecommissary system and the exchange stores system shall be operated as separate systems of the Department of Defense.
 
 (2) Paragraph (1) does not apply to the following:
 
@@ -18,7 +18,7 @@ Consolidation or Other Organizational Changes of Defense Retail Systems.—(1) T
 
 (c)
 
-Common Business Practices.—(1) Notwithstanding subsections (a) and (b), the Secretaryof Defense may establish common business processes, practices, and systems—
+Common Business Practices.—(1) Notwithstanding subsections (a) and (b), the Secretary of Defense may establish common business processes, practices, and systems—
 
 &emsp;(A) to exploit synergies between the defense commissary system and the exchange system; and
 

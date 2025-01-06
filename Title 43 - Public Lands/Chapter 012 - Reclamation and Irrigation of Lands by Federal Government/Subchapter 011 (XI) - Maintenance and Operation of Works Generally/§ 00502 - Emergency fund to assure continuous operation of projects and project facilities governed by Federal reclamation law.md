@@ -82,7 +82,7 @@ Fish and Wildlife.—The Secretary may make available water for the purposes of 
 
 #### "SEC. 417. CARRYOVER STORAGE AND WATER, NEW MELONES UNIT, CENTRAL VALLEY PROJECT, CALIFORNIA.
 
-"The first undesignated paragraph under the heading 'San Joaquin River Basin' in section 203 of the FloodControl Act of 1962 (Public Law 87–874, 76 Stat. 1191) is amended by inserting before the last period the following: ': <i>And provided further</i>, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year'.
+"The first undesignated paragraph under the heading 'San Joaquin River Basin' in section 203 of the Flood Control Act of 1962 (Public Law 87–874, 76 Stat. 1191) is amended by inserting before the last period the following: ': <i>And provided further</i>, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year'.
 
 #### "SEC. 418. INITIATION AND DEADLINE OF EMERGENCY DROUGHT PROGRAM.
 

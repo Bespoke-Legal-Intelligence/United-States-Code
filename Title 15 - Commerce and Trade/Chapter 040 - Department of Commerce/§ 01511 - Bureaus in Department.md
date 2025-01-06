@@ -166,7 +166,7 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 #### Sec. 4. Incidental Transfers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred to the Secretary of Commerce by this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the Department of Commerce at such time or times as the Director shall direct.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred to the Secretary of Commerce by this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferredto the Department of Commerce at such time or times as the Director shall direct.
 
 (b) Such further measures and dispositions as the Director of the Office of Management and Budget shall deem to be necessary in order to effectuate the transfers referred to in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 

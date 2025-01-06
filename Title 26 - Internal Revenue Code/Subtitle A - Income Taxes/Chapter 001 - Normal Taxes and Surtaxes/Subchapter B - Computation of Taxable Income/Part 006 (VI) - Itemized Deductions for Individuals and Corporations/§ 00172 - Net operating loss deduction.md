@@ -128,7 +128,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to—
 
 #### (c) Net operating loss defined
 
-For purposes of this section, the term "net operating loss" means the excess of the deductions allowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).
+For purposes of this section, the term "net operating loss" means the excess of the deductionsallowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).
 
 #### (d) Modifications
 
@@ -210,7 +210,7 @@ In the case of an insurance company (as defined in section 816(a)) other than a 
 
 &emsp;&emsp;<b>(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619; Pub. L. 110–343, div. C, title VII, §§706(a)(2)(D)(v), (vi), 708(a), (b), (d), Oct. 3, 2008, 122 Stat. 3922, 3924, 3925; Pub. L. 111–5, div. B, title I, §1211(a), (b), Feb. 17, 2009, 123 Stat. 335, 336; Pub. L. 111–92, §13(a), Nov. 6, 2009, 123 Stat. 2992; Pub. L. 113–295, div. A, title II, §§211(c)(1)(B), 221(a)(30)(A), (B), (41)(B), Dec. 19, 2014, 128 Stat. 4033, 4041, 4044; Pub. L. 115–97, title I, §§11011(d)(1), 13302(a)–(c)(2)(A), (d), 13305(b)(3), 14202(b)(1), Dec. 22, 2017, 131 Stat. 2071, 2121–2123, 2126, 2216; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(53), Mar. 23, 2018, 132 Stat. 1155, 1186; Pub. L. 116–136, div. A, title II, §2303(a)(1)–(2)(B), (b), (c)(2), Mar. 27, 2020, 134 Stat. 352, 353, 355.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX,§§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619; Pub. L. 110–343, div. C, title VII, §§706(a)(2)(D)(v), (vi), 708(a), (b), (d), Oct. 3, 2008, 122 Stat. 3922, 3924, 3925; Pub. L. 111–5, div. B, title I, §1211(a), (b), Feb. 17, 2009, 123 Stat. 335, 336; Pub. L. 111–92, §13(a), Nov. 6, 2009, 123 Stat. 2992; Pub. L. 113–295, div. A, title II, §§211(c)(1)(B), 221(a)(30)(A), (B), (41)(B), Dec. 19, 2014, 128 Stat. 4033, 4041, 4044; Pub. L. 115–97, title I, §§11011(d)(1), 13302(a)–(c)(2)(A), (d), 13305(b)(3), 14202(b)(1), Dec. 22, 2017, 131 Stat. 2071, 2121–2123, 2126, 2216; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(53), Mar. 23, 2018, 132 Stat. 1155, 1186; Pub. L. 116–136, div. A, title II, §2303(a)(1)–(2)(B), (b), (c)(2), Mar. 27, 2020, 134 Stat. 352, 353, 355.)
 
 #### <b>Editorial Notes</b>
 
@@ -314,7 +314,7 @@ Subsec. (d)(5). Pub. L. 113–295, §221(a)(41)(B), amended par. (5) generally. 
 
 Subsec. (g). Pub. L. 113–295, §221(a)(30)(A)(ii), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to rules relating to bad debt losses of commercial banks.
 
-Subsec. (g)(2)(F). Pub. L. 113–295, §221(a)(30)(B)(vi), struck out subpar. (F). Text read as follows: "If any of the 3 taxable years described in subparagraph (C)(ii)end on or before August 2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer's taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989."
+Subsec. (g)(2)(F). Pub. L. 113–295, §221(a)(30)(B)(vi), struck out subpar. (F). Text read as follows: "If any of the 3 taxable years described in subparagraph (C)(ii) end on or before August 2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer's taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989."
 
 Subsec. (g)(4)(B)(ii), (C). Pub. L. 113–295, §221(a)(30)(B)(vii), substituted "subsection (b)(1)(D)" for "subsection (b)(1)(E)".
 
@@ -528,7 +528,7 @@ Subsec. (b)(1)(C). Pub. L. 97–34, §207(a)(2)(A), substituted "ending after De
 
 Subsec. (b)(1)(E)(i)(II). Pub. L. 97–34, §207(a)(2)(B)(i), substituted "15" for "8".
 
-Subsec. (b)(1)(E)(ii). Pub. L. 97–34, §207(a)(2)(B)(ii), struck out designation subclause "(I)" for provisions prohibiting a loss carryback to any taxable year which is a REIT year and struck out provision formerly designated as subclause (II) directing that the number of taxable years to which a loss could be a net operating loss carryover under subparagraph (B) be increased (to a number not greater than 8) by the number of taxable years to which such loss could not be a net operating loss carryback by reason of subclause (I).
+Subsec. (b)(1)(E)(ii). Pub. L. 97–34, §207(a)(2)(B)(ii), struck out designation subclause "(I)" for provisions prohibiting a loss carryback to any taxable year which is a REIT year and struck out provision formerly designated as subclause (II) directing that the number of taxable years to which a loss could be a net operating loss carryover under subparagraph (B) be increased (toa number not greater than 8) by the number of taxable years to which such loss could not be a net operating loss carryback by reason of subclause (I).
 
 Subsec. (g)(3)(C). Pub. L. 97–34, §207(a)(2)(C), struck out subpar. (C) which provided that, in the case of a net operating loss carryover from a loss year ending after Dec. 31, 1975, subpars. (A) and (B) were to be applied by substituting "8th taxable year" for "6th taxable year" and "9th taxable year" for "7th taxable year".
 
@@ -568,7 +568,7 @@ Subsecs. (i), (j). Pub. L. 95–600, §371(b), added subsec. (i) and redesignate
 
 Subsec. (b)(1)(C). Pub. L. 94–455, §§806(b)(1), 1901(a)(29)(C)(ii), inserted "For any taxable year ending after December 31, 1975, the preceding sentence shall be applied by substituting '9 taxable years' for '7 taxable years' " after "year of such loss", substituted "subsection (g)(1)" for "subsection (j)(1)" after "as defined in" and "subsection (g)" for "subsection (j)" after "as provided in".
 
-Subsec. (b)(1)(D). Pub. L. 94–455, §§1901(a)(29)(C)(iii), 2126, substituted "subsection (h)" for "subsection (k)"after "as defined in" and "20" for "15" after "expropriation loss, to each of the".
+Subsec. (b)(1)(D). Pub. L. 94–455, §§1901(a)(29)(C)(iii), 2126, substituted "subsection (h)" for "subsection (k)" after "as defined in" and "20" for "15" after "expropriation loss, to each of the".
 
 Subsec. (b)(1)(E). Pub. L. 94–455, §1606(b), added subpar. (E).
 
@@ -762,7 +762,7 @@ Amendment by Pub. L. 108–311 effective as if included in the provisions of the
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that: "Except as provided in subsection (c)\[amending section 56 of this title and enacting provisions set out as a note under section 56 of this title\], the amendments made by this section \[amending this section and section 56 of this title\] shall apply to net operating losses for taxable years ending after December 31, 2000."
+Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that: "Except as provided in subsection (c) \[amending section 56 of this title and enacting provisions set out as a note under section 56 of this title\], the amendments made by this section \[amending this section and section 56 of this title\] shall apply to net operating losses for taxable years ending after December 31, 2000."
 
 #### Effective Date of 1998 Amendment
 
@@ -922,7 +922,7 @@ In general.—The Federal Home Loan Mortgage Corporation shall not be allowed an
 
 &emsp;"(B)
 
-Replacement obligation defined.—For purposes of subparagraph (A), the term 'replacement obligation' means any obligation to any person created after March 15, 1984, which the Secretary of the Treasury or his delegate determines replaces any equity or debt interest of a Federal Home Loan Bank or any other person in the Federal Home Loan Mortgage Corporation existing on such date. The preceding sentence shall not apply to any obligation with respect to which the Federal Home Loan Mortgage Corporation establishes that there is no tax avoidance effect."
+Replacement obligation defined.—For purposes of subparagraph (A), the term 'replacement obligation' means any obligation to any person created after March 15, 1984, which the Secretary of the Treasury or his delegate determines replaces any equity or debt interest of a Federal Home Loan Bank or any other person in the Federal Home Loan Mortgage Corporation existing on such date. The preceding sentence shall not apply to any obligation with respectto which the Federal Home Loan Mortgage Corporation establishes that there is no tax avoidance effect."
 
 Amendment by section 491(d)(5) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
@@ -1024,7 +1024,7 @@ Election to disregard application of amendments made by subsections (a
 
 In general.—If a taxpayer who has a farming loss (within the meaning of section 172(b)(1)(B)(ii) of the Internal Revenue Code of 1986) for any taxable year beginning in 2018, 2019, or 2020 makes an election under this paragraph, then—
 
-&emsp;&emsp;"(i) the amendments made by subsection (a) \[amending this section and section 860E of thistitle\] shall not apply to any taxable year beginning in 2018, 2019, or 2020, and
+&emsp;&emsp;"(i) the amendments made by subsection (a) \[amending this section and section 860E of this title\] shall not apply to any taxable year beginning in 2018, 2019, or 2020, and
 
 &emsp;&emsp;"(ii) the amendments made by subsection (b) \[amending this section\] shall not apply to any net operating loss arising in any taxable year beginning in 2018, 2019, or 2020.
 
@@ -1074,7 +1074,7 @@ Pub. L. 108–311, title IV, §403(b)(2), Oct. 4, 2004, 118 Stat. 1187, provided
 
 #### Amtrak Reform Legislation
 
-Pub. L. 105–134, title III, §301(b), Dec. 2, 1997, 111 Stat. 2585, provided that: "This Act \[see Short Title of 1997 Amendment note set out under section 20101 of Title 49, Transportation\] constitutes Amtrak reform legislation within the meaning of section 977(f)(1) of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, set out as a note below\]."
+Pub. L. 105–134, title III, §301(b), Dec. 2, 1997, 111 Stat. 2585, provided that: "This Act \[see Short Title of 1997Amendment note set out under section 20101 of Title 49, Transportation\] constitutes Amtrak reform legislation within the meaning of section 977(f)(1) of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, set out as a note below\]."
 
 #### Elective Carryback of Existing Carryovers of National Railroad Passenger Corporation
 
@@ -1230,7 +1230,7 @@ No effect on other taxpayers.—In no event shall any taxpayer other than the Co
 
 &emsp;&emsp;"(D)
 
-Waiver of limitations.—If the adjustment under subparagraph (A) is barred by the operation of any law or rule of law, such law or rule of law shall be waived solely for purposes of making such adjustment.
+Waiver of limitations.—If the adjustment under subparagraph (A) is barred by the operation of any law or rule of law, such law or rule of lawshall be waived solely for purposes of making such adjustment.
 
 &emsp;"(3)
 

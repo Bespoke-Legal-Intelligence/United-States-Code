@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, an oil spill response vessel documen
 
 &emsp;(1) an adequate number and type of oil spill response vessels documented under the laws of the United States cannot be engaged to recover oil from an oil spill in or near those waters in a timely manner, as determined by the Federal On-Scene Coordinator for a discharge or threat of a discharge of oil; and
 
-&emsp;(2) the foreign country has by its laws accorded to vessels of the United States the same privileges accorded to vessels of the foreign country under this section.
+&emsp;(2) the foreign country has by its laws accorded to vessels of the United States thesame privileges accorded to vessels of the foreign country under this section.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1638.)
 

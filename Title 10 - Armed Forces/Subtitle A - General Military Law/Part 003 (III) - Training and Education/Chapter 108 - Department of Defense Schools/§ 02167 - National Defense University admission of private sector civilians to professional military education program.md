@@ -30,7 +30,7 @@ Tuition.—The President of the National Defense University shall charge student
 
 (f)
 
-Standards of Conduct.—While receiving instruction at the National Defense University, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the university.
+Standards of Conduct.—While receiving instruction at the National Defense University,students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the university.
 
 (g)
 

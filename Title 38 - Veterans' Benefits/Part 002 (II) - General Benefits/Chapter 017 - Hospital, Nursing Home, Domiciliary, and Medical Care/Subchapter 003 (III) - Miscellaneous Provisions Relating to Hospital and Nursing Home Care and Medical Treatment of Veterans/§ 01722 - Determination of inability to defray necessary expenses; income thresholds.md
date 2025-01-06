@@ -56,7 +56,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(1) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleXIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 101–508 applicable with respect to hospital care and medi
 
 #### Effective Date of 1986 Amendment
 
-Provisions of this section as in effect on the day before Apr. 7, 1986, applicable with respect to hospital and nursing home care furnished on or after July 1, 1986, to veterans furnished such care or services on June 30, 1986, but only to the extent that such care is furnished with respect to the same episode of care for which it was furnished on June 30, 1986, see section 19011(f) ofPub. L. 99–272, set out as a note under section 1710 of this title.
+Provisions of this section as in effect on the day before Apr. 7, 1986, applicable with respect to hospital and nursing home care furnished on or after July 1, 1986, to veterans furnished such care or services on June 30, 1986, but only to the extent that such care is furnished with respect to the same episode of care for which it was furnished on June 30, 1986, see section 19011(f) of Pub. L. 99–272, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1976 Amendment
 

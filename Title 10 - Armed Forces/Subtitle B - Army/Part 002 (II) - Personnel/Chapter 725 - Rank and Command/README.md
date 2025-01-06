@@ -24,7 +24,7 @@
 
 <b>1968</b>—Pub. L. 90–329, June 4, 1968, 82 Stat. 170, substituted "Army Medical Department" for "Army Medical Service" in item 3579.
 
-Pub. L. 90–235, §5(a)(3), Jan. 2, 1968, 81 Stat. 761, struck out item 3576 "Command: when different commands of Army and Marine Corps join", and item 3578 "Command: commissioned officers of Army in same grade on duty at same place".
+Pub. L. 90–235, §5(a)(3), Jan. 2, 1968, 81 Stat. 761, struck out item 3576 "Command: when different commands of Army and Marine Corps join", and item 3578"Command: commissioned officers of Army in same grade on duty at same place".
 
 
 ---

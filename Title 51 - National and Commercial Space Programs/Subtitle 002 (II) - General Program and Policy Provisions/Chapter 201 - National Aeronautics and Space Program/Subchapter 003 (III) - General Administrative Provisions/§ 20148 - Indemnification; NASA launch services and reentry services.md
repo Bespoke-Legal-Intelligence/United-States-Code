@@ -110,7 +110,7 @@ Rules of Construction.—
 
 &emsp;(1)
 
-In general.—The authority to indemnify under this section shall not create any rights in third persons that would not otherwise exist by law.
+In general.—The authority to indemnify under this section shall not create any rightsin third persons that would not otherwise exist by law.
 
 &emsp;(2)
 

@@ -24,7 +24,7 @@ Other credits.—The Fund shall be credited with all reimbursements, advances, a
 
 &emsp;(3)
 
-Cost and capital requirements.—The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall develop a plan concerning such requirements in consultation with the Chief Financial Officer of the General Services Administration. Any change to the cost and capital requirements of the Fund for a fiscal year shall be approved by the Administrator.The Administrator shall establish rates to be charged agencies provided, or to be provided, supply of personal property and non-personal services through the Fund, in accordance with the plan.
+Cost and capital requirements.—The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall develop a plan concerning such requirements in consultation with the Chief Financial Officer of the General Services Administration. Any change to the cost and capital requirements of the Fund for a fiscal year shall be approved by the Administrator. The Administrator shall establish rates to be charged agencies provided, or to be provided, supply of personal property and non-personal services through the Fund, in accordance with the plan.
 
 &emsp;(4)
 
@@ -114,13 +114,47 @@ Reimbursement for Equipment Purchased for Congress.—The Administrator may acce
 
 (f)
 
-Transfer of Uncommitted Balances.—Following the close of each fiscal year, after making provision for a sufficient level of inventory of personal property to meet the needs of Federal agencies, the replacement cost of motor vehicles, and other anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
+Transfer of Uncommitted Balances.—Following the close of each fiscal year, after making provision for a sufficient level of inventory of personal property to meet the needs of Federal agencies, the replacement cost of motor vehicles, and other anticipated operating needsreflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 
 (g)
 
 Audits.—The Comptroller General shall audit the Fund in accordance with the provisions of chapter 35 of title 31 and report the results of the audits.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1074; Pub. L. 109–313, §3(d)–(g), (h)(2), Oct. 6, 2006, 120 Stat. 1735, 1736; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(h) <sup>1</sup>
+
+Requirement for Annual Report to Congress.—Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program within the Technology Transformation Services funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+
+&emsp;(1) An explanation of the program.
+
+&emsp;(2) Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
+
+&emsp;(3) The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
+
+&emsp;(4) A description of projects or initiatives associated with the program, including—
+
+&emsp;&emsp;(A) information about when the projects or initiatives were initiated and completed; and
+
+&emsp;&emsp;(B) funding information, to the extent practicable.
+
+&emsp;(5) Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
+
+(i) <sup>1</sup>
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Administrator.—The term "Administrator" means the Administrator of General Services.
+
+&emsp;(2)
+
+Expenditure.—The term "expenditure" means any obligation of funds from the Acquisition Services Fund for programs referenced in subsection (h).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1074; Pub. L. 109–313, §3(d)–(g), (h)(2), Oct. 6, 2006, 120 Stat. 1735, 1736; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 118–182, §2(b), Dec. 23, 2024, 138 Stat. 2624.)
+
+#### Delayed Effective Date of Amendment
+
+<i>Amendment by section 2(b) of Pub. L. 118–182 adding subsecs. (h) and (i) of this section effective on the commencement of the first fiscal year after Dec. 23, 2024. See 2024 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -202,6 +236,8 @@ In subsection (f)(2), the words "on and after June 5, 1981" are omitted as obsol
 
 #### Amendments
 
+<b>2024</b>—Subsecs. (h), (i). Pub. L. 118–182 added subsecs. (h) and (i).
+
 <b>2006</b>—Pub. L. 109–313, §3(h)(2), substituted "Acquisition Services Fund" for "General Supply Fund" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–313, §3(d), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
@@ -226,6 +262,10 @@ Surplus retained.—From any surplus generated by operation of the Fund, the Adm
 
 "Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (c)(1)(A)(i) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–182, §2(c), Dec. 23, 2024, 138 Stat. 2624, provided that: "The amendment made by this Act \[amending this section and section 323 of this title\] shall take effect on the commencement of the first fiscal year after the date of the enactment of this Act \[Dec. 23, 2024\]."
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
@@ -245,4 +285,6 @@ Transfers.—Capital assets and balances remaining in the General Supply Fund an
 "(c)
 
 Assumption of Obligations.—Any liabilities, commitments, and obligations of the General Supply Fund and the Information Technology Fund as in existence immediately before this section takes effect shall be assumed by the Acquisition Services Fund."
+
+<i><sup>1</sup></i><i> See Delayed Effective Date of Amendment note below.</i>
 

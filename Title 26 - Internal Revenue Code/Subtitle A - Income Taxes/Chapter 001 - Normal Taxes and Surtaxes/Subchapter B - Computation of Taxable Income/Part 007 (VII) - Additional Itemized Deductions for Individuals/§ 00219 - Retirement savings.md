@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of an individual, there shall be allowed as a deduction an amount equal to thequalified retirement contributions of the individual for the taxable year.
+In the case of an individual, there shall be allowed as a deduction an amount equal to the qualified retirement contributions of the individual for the taxable year.
 
 #### (b) Maximum amount of deduction
 
@@ -110,7 +110,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 #### (3) Amounts contributed under endowment contract
 
-&emsp;In the case of an endowment contract described in section 408(b), no deduction shall be allowed under this section for that portion of the amounts paid under the contract for thetaxable year which is properly allocable, under regulations prescribed by the Secretary, to the cost of life insurance.
+&emsp;In the case of an endowment contract described in section 408(b), no deduction shall be allowed under this section for that portion of the amounts paid under the contract for the taxable year which is properly allocable, under regulations prescribed by the Secretary, to the cost of life insurance.
 
 #### (4) Denial of deduction for amount contributed to inherited annuities or accounts
 
@@ -254,7 +254,7 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 &emsp;&emsp;(B) who makes deductible contributions to a trust described in section 501(c)(18).
 
-> &emsp;The determination of whether an individual is an active participant shall be made without regard to whether or not such individual's rights under a plan, trust, or contract are nonforfeitable. An eligible deferred compensation plan (within the meaning of section 457(b)) shall not be treated as a plan described in subparagraph (A)(iii).
+> &emsp;The determination of whether an individual is an active participant shall be made withoutregard to whether or not such individual's rights under a plan, trust, or contract are nonforfeitable. An eligible deferred compensation plan (within the meaning of section 457(b)) shall not be treated as a plan described in subparagraph (A)(iii).
 
 #### (6) Certain individuals not treated as active participants
 
@@ -290,7 +290,7 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I,§101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043; Pub. L. 115–97, title I, §§11002(d)(1)(S), 11051(b)(3)(C), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2090, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(55), (56), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. O, title I, §§106(a), 107(a), Dec. 20, 2019, 133 Stat. 3148; Pub. L. 116–260, div. EE, title I, §104(b)(2)(F), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(5), Mar. 11, 2021, 135 Stat. 122; Pub. L. 117–328, div. T, title I, §108(a), Dec. 29, 2022, 136 Stat. 5289.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043; Pub. L. 115–97, title I, §§11002(d)(1)(S), 11051(b)(3)(C), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2090, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(55), (56), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. O, title I, §§106(a), 107(a), Dec. 20, 2019, 133 Stat. 3148; Pub. L. 116–260, div. EE, title I, §104(b)(2)(F), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(5), Mar. 11, 2021, 135 Stat. 122; Pub. L. 117–328, div. T, title I, §108(a), Dec. 29, 2022, 136 Stat. 5289.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -446,7 +446,7 @@ Subsec. (f)(7). Pub. L. 99–514, §1102(f), added par. (7).
 
 Subsec. (g). Pub. L. 99–514, §1101(a)(1), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 99–514, §1501(d)(1)(B), which directed that subsec. (g) be amended by substituting"6652(g)" for "6652(h)", was executed by making the substitution in subsec. (h) to reflect the probable intent of Congress and the prior redesignation of former subsec. (g) as (h) by Pub. L. 99–514, §1101(a)(1).
+Subsec. (h). Pub. L. 99–514, §1501(d)(1)(B), which directed that subsec. (g) be amended by substituting "6652(g)" for "6652(h)", was executed by making the substitution in subsec. (h) to reflect the probable intent of Congress and the prior redesignation of former subsec. (g) as (h) by Pub. L. 99–514, §1101(a)(1).
 
 Pub. L. 99–514, §1101(a)(1), redesignated former subsec. (g) as (h).
 
@@ -480,7 +480,7 @@ Subsec. (f)(3)(B). Pub. L. 97–448, §103(c)(5), substituted "if the contributi
 
 <b>1982</b>—Subsec. (d)(4). Pub. L. 97–248 added par. (4).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(a), amended subsec. (a) generally, substituting in heading "Allowance of deduction" for "Deduction allowed" and in text "shall be allowed" for "is allowed", allowed as a deduction an amount equal to the qualified retirement contributions of the individual for the taxable year, eliminated part of first sentence for allowance as a deduction amounts paid in cash for the taxable year by or on behalf of the individual for his benefit—(1) to an individual retirement annuity described in section 408(a), (2) for an individual retirement annuity described in section 408(b), or (3) for a retirement bond described in section 409 (but only if the bond is not redeemed within 12 months of the date of its issuance), covered in subsec. (e)(1) and (5) of this section, and eliminated second sentence respecting employer payments, covered in subsec. (f)(5) of this section.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(a), amended subsec. (a) generally, substituting in heading "Allowanceof deduction" for "Deduction allowed" and in text "shall be allowed" for "is allowed", allowed as a deduction an amount equal to the qualified retirement contributions of the individual for the taxable year, eliminated part of first sentence for allowance as a deduction amounts paid in cash for the taxable year by or on behalf of the individual for his benefit—(1) to an individual retirement annuity described in section 408(a), (2) for an individual retirement annuity described in section 408(b), or (3) for a retirement bond described in section 409 (but only if the bond is not redeemed within 12 months of the date of its issuance), covered in subsec. (e)(1) and (5) of this section, and eliminated second sentence respecting employer payments, covered in subsec. (f)(5) of this section.
 
 Subsec. (b). Pub. L. 97–34, §311(a), in heading substituted "Maximum amount of deduction" for "Limitations and restrictions".
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–245, title I, §105(b)(3), June 17, 2008, 122 Stat. 1629, provided that: "The amendments made bythis subsection \[amending this section and section 414 of this title\] shall apply to years beginning after December 31, 2008."
+Pub. L. 110–245, title I, §105(b)(3), June 17, 2008, 122 Stat. 1629, provided that: "The amendments made by this subsection \[amending this section and section 414 of this title\] shall apply to years beginning after December 31, 2008."
 
 #### Effective Date of 2006 Amendment
 
@@ -636,7 +636,7 @@ Pub. L. 105–34, title III, §302(f), Aug. 5, 1997, 111 Stat. 829, provided tha
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1421(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996,see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Pub. L. 104–188, title I, §1427(c), Aug. 20, 1996, 110 Stat. 1802, provided that: "The amendments made by this section \[amending this section and section 408 of this title\] shall apply to taxable years beginning after December 31, 1996."
 
@@ -726,7 +726,7 @@ Amendment by section 713(d)(2) of Pub. L. 98–369 effective as if included in t
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L.97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1982 Amendment
 

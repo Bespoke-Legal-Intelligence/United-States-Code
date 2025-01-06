@@ -70,7 +70,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trustland before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
+&emsp;&emsp;The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trust land before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
 
 &emsp;&emsp;&emsp;(i) a claim payment is presented to the Secretary due to the default of the borrower on the loan; and
 
@@ -86,7 +86,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (d) Guarantee fee
 
-The Secretary shall establish and collect, at the time of issuance of the guarantee, a fee for the guarantee of loans under this section, in an amount not exceeding 3 percent of the principal obligation of the loan. The Secretary may also establish and collect annual premium payments in an amount not exceeding 1 percent of the remaining guaranteed balance (excluding the portion of the remaining balance attributable to the fee collected at the time of issuance of the guarantee). The Secretary shall establish the amount of the fees and premiums by publishing a notice in the Federal Register. The Secretary shall deposit any fees and premiums collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i).
+The Secretary shall establish and collect, at the time of issuance of the guarantee, a fee forthe guarantee of loans under this section, in an amount not exceeding 3 percent of the principal obligation of the loan. The Secretary may also establish and collect annual premium payments in an amount not exceeding 1 percent of the remaining guaranteed balance (excluding the portion of the remaining balance attributable to the fee collected at the time of issuance of the guarantee). The Secretary shall establish the amount of the fees and premiums by publishing a notice in the Federal Register. The Secretary shall deposit any fees and premiums collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i).
 
 #### (e) Liability under guarantee
 
@@ -134,7 +134,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Requirements
 
-&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
+&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States.The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
 #### (2) Limitations on liquidation
 
@@ -282,7 +282,7 @@ For purposes of this section:
 
 &emsp;(8)
 
-Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of theirstatus as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 5301 et seq.\].
+Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 5301 et seq.\].
 
 &emsp;(9) The term "trust land" means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
@@ -294,7 +294,7 @@ Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe
 
 The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, whichis classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -348,7 +348,7 @@ Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and str
 
 Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
-Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year."
+Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscalyear only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year."
 
 Subsec. (i)(5)(B). Pub. L. 104–330, §701(j)(2), inserted at end "Any amounts appropriated pursuant to this subparagraph shall remain available until expended."
 

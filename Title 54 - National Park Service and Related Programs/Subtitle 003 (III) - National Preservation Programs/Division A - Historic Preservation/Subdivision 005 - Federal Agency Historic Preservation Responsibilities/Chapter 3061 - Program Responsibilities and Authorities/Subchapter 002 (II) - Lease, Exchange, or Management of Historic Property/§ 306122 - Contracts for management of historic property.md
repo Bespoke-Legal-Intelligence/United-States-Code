@@ -1,6 +1,6 @@
 ### §306122. Contracts for management of historic property
 
-The head of any Federal agency having responsibility for the management of any historic property may, after consultation with the Council, enter into a contract for the management of the property. The contract shall contain terms and conditions that the head of the agency considers necessary or appropriate to protect the interests of the United States and ensure adequate preservation of the historic property.
+The head of any Federal agency having responsibility for the management of any historic property may, after consultation with the Council, enter into a contract for the management of the property. The contract shall contain terms and conditions that the head of the agency considers necessary or appropriate to protect theinterests of the United States and ensure adequate preservation of the historic property.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3228.)
 

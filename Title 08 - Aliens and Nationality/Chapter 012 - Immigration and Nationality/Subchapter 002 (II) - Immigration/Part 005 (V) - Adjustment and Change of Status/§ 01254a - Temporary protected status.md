@@ -18,7 +18,7 @@
 
 &emsp;(A) Upon the granting of temporary protected status under this section, the Attorney General shall provide the alien with information concerning such status under this section.
 
-&emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b), the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
+&emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b), the Attorney Generalshall promptly notify the alien of the temporary protected status that may be available under this section.
 
 &emsp;(C) If, at the time of designation of a foreign state under subsection (b), an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(A) the Attorney General finds that the alien was not in fact eligible for such status under this section,
 
-&emsp;&emsp;(B) except as provided in paragraph (4) and permitted in subsection (f)(3), the alien has not remained continuously physically present in the United States from the date the alien first was granted temporary protected status under this section, or
+&emsp;&emsp;(B) except as provided in paragraph (4) and permitted in subsection (f)(3), the alien hasnot remained continuously physically present in the United States from the date the alien first was granted temporary protected status under this section, or
 
 &emsp;&emsp;(C) the alien fails, without good cause, to register with the Attorney General annually, at the end of each 12-month period after the granting of such status, in a form and manner specified by the Attorney General.
 
@@ -170,7 +170,7 @@
 
 #### (2) Period of validity
 
-&emsp;Subject to paragraph (3), such documentation shall be valid during the initial period ofdesignation of the foreign state (or part thereof) involved and any extension of such period. The Attorney General may stagger the periods of validity of the documentation and authorization in order to provide for an orderly renewal of such documentation and authorization and for an orderly transition (under paragraph (3)) upon the termination of a designation of a foreign state (or any part of such foreign state).
+&emsp;Subject to paragraph (3), such documentation shall be valid during the initial period of designation of the foreign state (or part thereof) involved and any extension of such period. The Attorney General may stagger the periods of validity of the documentation and authorization in order to provide for an orderly renewal of such documentation and authorization and for an orderly transition (under paragraph (3)) upon the termination of a designation of a foreign state (or any part of such foreign state).
 
 #### (3) Effective date of terminations
 
@@ -212,7 +212,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 #### (2) Supermajority required
 
-&emsp;Paragraph (1) may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members duly chosen and sworn. An affirmative vote of three-fifths of the Members of the Senate duly chosen and sworn shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under paragraph (1).
+&emsp;Paragraph (1) may be waived or suspended in the Senate only by the affirmative vote ofthree-fifths of the Members duly chosen and sworn. An affirmative vote of three-fifths of the Members of the Senate duly chosen and sworn shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under paragraph (1).
 
 #### (3) Rules
 
@@ -238,7 +238,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L.101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
 #### <b>Editorial Notes</b>
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 219(j) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by section 219(j) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub.L. 103–416, set out as a note under section 1101 of this title.
 
 Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided that the amendment made by subsec. (z)(2) of section 219 is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 

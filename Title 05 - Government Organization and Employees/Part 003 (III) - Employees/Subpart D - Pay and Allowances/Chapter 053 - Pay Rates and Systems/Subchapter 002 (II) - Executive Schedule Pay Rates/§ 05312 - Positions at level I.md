@@ -140,7 +140,7 @@ Pub. L. 96–54, §2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1966 Amendment
 
@@ -228,7 +228,7 @@ For provisions limiting compensation and emoluments of Secretary of the Treasury
 
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 1977
 
-Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointedto that office after May 3, 1980, ceases to hold that office.
+Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
 
 #### Compensation and Emoluments of Attorney General; Fixing at Level in Effect on January 1, 1969
 

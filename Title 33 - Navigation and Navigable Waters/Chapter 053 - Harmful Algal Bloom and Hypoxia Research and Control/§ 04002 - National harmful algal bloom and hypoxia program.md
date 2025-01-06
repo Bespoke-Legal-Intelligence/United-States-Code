@@ -64,7 +64,7 @@ In administering the Program, the Under Secretary shall—
 
 &emsp;(9) support regional efforts to control and mitigate outbreaks through—
 
-&emsp;&emsp;(A) communication of the contents of the Action Strategy and maintenance of online data portals for other information aboutharmful algal blooms and hypoxia to State, tribal, and local stakeholders; and
+&emsp;&emsp;(A) communication of the contents of the Action Strategy and maintenance of online data portals for other information about harmful algal blooms and hypoxia to State, tribal, and local stakeholders; and
 
 &emsp;&emsp;(B) overseeing the development, review, and periodic updating of the Action Strategy;
 

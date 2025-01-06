@@ -10,7 +10,7 @@ Approved infrastructure asset.—The term "approved infrastructure asset" means�
 
 &emsp;&emsp;(A) a project (as defined in section 601(a)); and
 
-&emsp;&emsp;(B) a group of projects (as defined in section 601(a)) considered together in a singleasset concession or long-term lease to a concessionaire by 1 or more eligible entities.
+&emsp;&emsp;(B) a group of projects (as defined in section 601(a)) considered together in a single asset concession or long-term lease to a concessionaire by 1 or more eligible entities.
 
 &emsp;(2)
 
@@ -164,7 +164,7 @@ In general.—The Secretary shall ensure that, as a condition of receiving a gra
 
 &emsp;&emsp;(B) the eligible entity shall have adopted binding rules to publish all major business terms of the proposed asset concession not later than the date that is 30 days before entering into the asset concession, to enable public review, including a certification of public interest based on the results of an assessment under subparagraph (D);
 
-&emsp;&emsp;(C) the asset concession shall not result in displacement, job loss, or wage reduction for the existing workforce of the eligible entity or other public entities;
+&emsp;&emsp;(C) the asset concession shall not result in displacement, job loss, or wage reduction forthe existing workforce of the eligible entity or other public entities;
 
 &emsp;&emsp;(D) the eligible entity or the concessionaire shall carry out a value-for-money analysis, or similar assessment, to compare the aggregate costs and benefits to the eligible entity of the asset concession against alternative options to determine whether the asset concession generates additional public benefits and serves the public interest;
 

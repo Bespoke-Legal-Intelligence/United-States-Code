@@ -30,7 +30,7 @@ Section 25 of the Federal Reserve Act, referred to in text, is classified to sub
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
-<b>1990</b>—Pub. L. 101–647 substituted a comma for "or" after "Federal Reserve bank" and inserted "insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act), branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organization operating under section 25 or section 25(a) of the Federal Reserve Act," after "Federal Reserve System," and ", branch, agency, or organization," after "has been regularly deposited in the bank".
+<b>1990</b>—Pub. L. 101–647 substituted a comma for "or" after "Federal Reserve bank" and inserted "insuredbank (as defined in section 3(h) of the Federal Deposit Insurance Act), branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organization operating under section 25 or section 25(a) of the Federal Reserve Act," after "Federal Reserve System," and ", branch, agency, or organization," after "has been regularly deposited in the bank".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Treatment as expenses
 
-A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
+A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for thetaxable year in which the section 179 property is placed in service.
 
 #### (b) Limitations
 
@@ -48,7 +48,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (A) In general
 
-&emsp;&emsp;The cost of any sport utility vehicle for any taxable year which may be taken intoaccount under this section shall not exceed $25,000.
+&emsp;&emsp;The cost of any sport utility vehicle for any taxable year which may be taken into account under this section shall not exceed $25,000.
 
 #### (B) Sport utility vehicle
 
@@ -520,7 +520,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 #### Effective Date of 1984 Amendment
 

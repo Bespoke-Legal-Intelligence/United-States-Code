@@ -56,7 +56,7 @@ Department of Defense Overseas Military Facility Investment Recovery Account.—
 
 (3) Funds in the Department of Defense Overseas Facility Investment Recovery Account shall remain available until expended.
 
-(4) Not later than December 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report detailingall expenditures made from the Department of Defense Overseas Facility Investment Recovery Account during the preceding fiscal year.
+(4) Not later than December 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report detailing all expenditures made from the Department of Defense Overseas Facility Investment Recovery Account during the preceding fiscal year.
 
 (c)
 
@@ -178,7 +178,7 @@ Subsec. (b)(1). Pub. L. 112–239, §1076(f)(34)(B), struck out comma after "inc
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made bysection 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 #### Effective Date of 2015 Amendment
 
@@ -190,7 +190,7 @@ Pub. L. 113–291, div. B, title XXVIII, §2803(d), Dec. 19, 2014, 128 Stat. 369
 
 #### Repeal of 2014 Amendment
 
-Pub. L. 114–328, div. B, title XXVIII, §2811(c), Dec. 23, 2016, 130 Stat. 2716, as amended by Pub. L. 115–91, div.A, title X, §1081(d)(15), Dec. 12, 2017, 131 Stat. 1600, provided that: "Section 2803 of the Carl Levin and Howard 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) \[amending this section and section 2802 of this title and enacting provisions set out as a note under this section\] is repealed."
+Pub. L. 114–328, div. B, title XXVIII, §2811(c), Dec. 23, 2016, 130 Stat. 2716, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(15), Dec. 12, 2017, 131 Stat. 1600, provided that: "Section 2803 of the Carl Levin and Howard 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) \[amending this section and section 2802 of this title and enacting provisions set out as a note under this section\] is repealed."
 
 #### Termination of Reporting Requirements
 

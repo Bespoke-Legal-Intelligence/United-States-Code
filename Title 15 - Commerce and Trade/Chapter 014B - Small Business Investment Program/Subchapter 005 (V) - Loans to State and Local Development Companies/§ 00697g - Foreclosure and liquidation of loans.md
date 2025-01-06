@@ -72,7 +72,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (iii) Routine actions
 
-&emsp;&emsp;&emsp;In carrying out functions described in paragraph (1)(A), a qualified State or local development company may undertake routine actions not addressed in a liquidationplan without obtaining additional approval from the Administration.
+&emsp;&emsp;&emsp;In carrying out functions described in paragraph (1)(A), a qualified State or local development company may undertake routine actions not addressed in a liquidation plan without obtaining additional approval from the Administration.
 
 #### (B) Purchase of indebtedness
 
@@ -112,7 +112,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) consider an offer made by an obligor to compromise the debt for less than the full amount owing; and
 
-&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable, if the company secures the written approval of the Administration.
+&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable,if the company secures the written approval of the Administration.
 
 #### (E) Contents of notice of no decision
 
@@ -198,7 +198,7 @@ In general.—Not later than 150 days after the date of the enactment of this Ac
 
 "(2)
 
-Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect."
+Termination of pilot program.—Beginning on the date on which final regulations are issued underparagraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

@@ -97,7 +97,7 @@ Uniform Standards and Controls Required.—Not later than 180 days after the dat
 
 &emsp;"(1) establish uniform data standards, internal control requirements, independent verification and validation requirements, and business process rules for processing procurement requests, contracts, receipts, and invoices by the Department of Defense or other executive agencies, as applicable;
 
-&emsp;"(2) establish and maintain one or more approved electronic contract writing systems that conformwith the standards, requirements, and rules established pursuant to paragraph (1); and
+&emsp;"(2) establish and maintain one or more approved electronic contract writing systems that conform with the standards, requirements, and rules established pursuant to paragraph (1); and
 
 &emsp;"(3) require the use of electronic contract writing systems approved in accordance with paragraph (2) for all contracts entered into by the Department of Defense or other executive agencies, as applicable.
 

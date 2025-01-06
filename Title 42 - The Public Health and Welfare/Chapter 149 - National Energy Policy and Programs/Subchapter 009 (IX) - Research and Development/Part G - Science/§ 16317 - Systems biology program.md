@@ -144,7 +144,7 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 
 #### (6) Coordination
 
-&emsp;In coordination with the Bioenergy Technologies Office of the Department, the Secretary shall support interdisciplinary research activities to improve the capacity, efficiency,resilience, security, reliability, and affordability, of the production and use of advanced biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of advanced biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
+&emsp;In coordination with the Bioenergy Technologies Office of the Department, the Secretary shall support interdisciplinary research activities to improve the capacity, efficiency, resilience, security, reliability, and affordability, of the production and use of advanced biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of advanced biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
 
 #### (7) Funding
 

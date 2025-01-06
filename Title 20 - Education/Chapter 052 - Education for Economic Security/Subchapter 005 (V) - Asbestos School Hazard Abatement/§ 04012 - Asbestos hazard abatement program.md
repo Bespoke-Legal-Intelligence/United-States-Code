@@ -36,5 +36,5 @@ Subsec. (b). Pub. L. 101–637, §14(b)(4), inserted heading.
 
 Subsec. (b)(2). Pub. L. 101–637, §4(1), (2), substituted "educational agencies" for "agencies" and "institutions, including parent and employee organizations," for "institutions".
 
-Subsec. (b)(3). Pub. L. 101–637, §4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows:"the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and".
+Subsec. (b)(3). Pub. L. 101–637, §4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and".
 

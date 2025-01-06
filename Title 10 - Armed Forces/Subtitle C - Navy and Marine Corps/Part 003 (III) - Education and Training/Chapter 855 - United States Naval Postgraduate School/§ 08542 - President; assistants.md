@@ -4,7 +4,7 @@
 
 &emsp;(A) An active-duty officer of the Navy or Marine Corps in a grade not below the grade of captain or colonel, respectively, who is assigned or detailed to such position.
 
-&emsp;(B) A civilian individual, including an individual who was retired from the Navy or Marine Corps in a grade not below captain, or colonel, respectively, who has the qualifications appropriate to the position of Presidentand is selected by the Secretary of the Navy as the best qualified from among candidates for the position in accordance with—
+&emsp;(B) A civilian individual, including an individual who was retired from the Navy or Marine Corps in a grade not below captain, or colonel, respectively, who has the qualifications appropriate to the position of President and is selected by the Secretary of the Navy as the best qualified from among candidates for the position in accordance with—
 
 &emsp;&emsp;(i) the criteria specified in paragraph (4);
 

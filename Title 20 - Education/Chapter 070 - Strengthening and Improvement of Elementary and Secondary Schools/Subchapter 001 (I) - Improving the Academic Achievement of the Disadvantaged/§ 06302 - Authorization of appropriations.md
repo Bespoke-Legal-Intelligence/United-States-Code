@@ -30,7 +30,7 @@ For the purpose of carrying out evaluation activities related to subchapter I un
 
 #### (f) Sense of Congress regarding adjustments to authorizations of appropriations provided in this chapter for future budget agreements
 
-It is the sense of Congress that if legislation is enacted that revises the limits on discretionary spending established under section 901(c) of title 2, the levels of appropriations authorized throughout this chapter should be adjusted in a manner that is consistent with the adjustments in nonsecurity category funding provided for under the revised limits on discretionary spending.
+It is the sense of Congress that if legislation is enacted that revises the limits on discretionaryspending established under section 901(c) of title 2, the levels of appropriations authorized throughout this chapter should be adjusted in a manner that is consistent with the adjustments in nonsecurity category funding provided for under the revised limits on discretionary spending.
 
 (Pub. L. 89–10, title I, §1002, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1440; amended Pub. L. 114–95, title I, §1002, Dec. 10, 2015, 129 Stat. 1814.)
 

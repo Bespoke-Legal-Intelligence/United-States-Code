@@ -164,17 +164,17 @@ In general.—A person employed by a lead Inspector General for an overseas cont
 
 &emsp;&emsp;(B)
 
-Limitation.—No person who is first employed as described in subparagraph (A) more than 5 years after December 19, 2019,<sup>1</sup> may acquire competitive status under subparagraph (A).
+Limitation.—No person who is first employed as described in subparagraph (A) more than 10 years after December 19, 2019,<sup>1</sup> may acquire competitive status under subparagraph (A).
 
 (e)
 
-Sunset for Particular Contingency Operations.—The requirements and authorities ofthis section with respect to an overseas contingency operation shall cease at the end of the first fiscal year after the commencement or designation of the contingency operation in which the total amount appropriated for the contingency operation is less than $100,000,000.
+Sunset for Particular Contingency Operations.—The requirements and authorities of this section with respect to an overseas contingency operation shall cease at the end of the first fiscal year after the commencement or designation of the contingency operation in which the total amount appropriated for the contingency operation is less than $100,000,000.
 
 (f)
 
 Construction of Authority.—Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this chapter with respect to overseas contingency operations.
 
-(Pub. L. 117–286, §3(b), Dec. 27, 2022, 136 Stat. 4247; Pub. L. 118–31, div. A, title XI, §1106, Dec. 22, 2023, 137 Stat. 427.)
+(Pub. L. 117–286, §3(b), Dec. 27, 2022, 136 Stat. 4247; Pub. L. 118–31, div. A, title XI, §1106, Dec. 22, 2023, 137 Stat. 427; Pub. L. 118–159, div. E, title LVII, §5704, Dec. 23, 2024, 138 Stat. 2466.)
 
 #### Amendments Not Shown in Text
 
@@ -209,6 +209,8 @@ The Foreign Service Act of 1980, referred to in subsec. (d)(3)(C)(i), is Pub. L.
 December 19, 2019, referred to in subsec. (d)(5)(B), probably should be "December 20, 2019". Prior to repeal and restatement as this section, the source section referred instead to "the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020", which Act was approved Dec. 20, 2019. See Historical and Revision note above.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(5)(B). Pub. L. 118–159 substituted "10 years" for "5 years".
 
 <b>2023</b>—Subsec. (d)(5)(B). Pub. L. 118–31 substituted "5 years" for "2 years".
 

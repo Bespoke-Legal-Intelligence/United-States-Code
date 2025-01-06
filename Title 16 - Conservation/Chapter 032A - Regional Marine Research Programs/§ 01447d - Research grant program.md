@@ -6,7 +6,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 #### (b) Research grants
 
-(1) Each Board may annually submit a grant application to the Administrator of the National Oceanic and Atmospheric Administration to fund projects aimed at achieving the research priorities set forth in each research plan, including amendments thereto, developed and approved pursuant to section 1447c of this title.
+(1) Each Board may annually submit a grant application to the Administrator of the NationalOceanic and Atmospheric Administration to fund projects aimed at achieving the research priorities set forth in each research plan, including amendments thereto, developed and approved pursuant to section 1447c of this title.
 
 (2) Projects eligible for funding under this section shall include research, investigations, studies, surveys, or demonstrations with respect to—
 

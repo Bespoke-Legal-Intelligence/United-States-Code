@@ -22,7 +22,7 @@ Any agreement made pursuant to subsection (a) of this section to require the iss
 
 &emsp;(7) Any individual to whom a stamp is sold pursuant to this section shall upon request exhibit such stamp for inspection to any officer or employee of the Department of the Interior or the Department of Agriculture, or to any other person who is authorized to enforce section 670j(a) of this title.
 
-(Pub. L. 86–797, title II, §203, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1371; amendedPub. L. 100–653, title II, §201, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 112–81, div. A, title III, §312(b)(9), Dec. 31, 2011, 125 Stat. 1354.)
+(Pub. L. 86–797, title II, §203, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1371; amended Pub. L. 100–653, title II, §201, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 112–81, div. A, title III, §312(b)(9), Dec. 31, 2011, 125 Stat. 1354.)
 
 #### <b>Editorial Notes</b>
 

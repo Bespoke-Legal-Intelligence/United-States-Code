@@ -8,7 +8,7 @@
 
 #### (b) Subject matter of inspections, investigations, and audits
 
-Inspections, investigations, and audits conducted by or under the direction of the InspectorGeneral shall include the systematic review and evaluation of the administration of activities and operations of Foreign Service posts and bureaus and other operating units of the Department of State, including an examination of—
+Inspections, investigations, and audits conducted by or under the direction of the Inspector General shall include the systematic review and evaluation of the administration of activities and operations of Foreign Service posts and bureaus and other operating units of the Department of State, including an examination of—
 
 &emsp;(1) whether financial transactions and accounts are properly conducted, maintained, and reported;
 
@@ -78,7 +78,7 @@ Deadline.—The head of a Department entity shall submit to the Inspector Genera
 
 (1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
 
-(2) The Inspector General shall, not later than April 30 of each year, prepare and furnish to the Secretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—
+(2) The Inspector General shall, not later than April 30 of each year, prepare and furnish to theSecretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of activities and operations of Foreign Service posts, and bureaus and other operating units of the Department of State, which were disclosed by the Inspector General within the reporting period;
 
@@ -165,6 +165,22 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
+
+#### Periodic Inspector General Reviews of Chiefs of Mission
+
+Pub. L. 118–159, div. G, title LXXII, §7203, Dec. 23, 2024, 138 Stat. 2528, provided that:
+
+"(a)
+
+In General.—Beginning on April 1, 2025, and for a 3-year period thereafter, the Inspector General of the Department of State shall conduct management reviews of chiefs of mission, charge d'affaires, and other principal officers assigned overseas during inspection visits, when those officers have been at post more than 180 days.
+
+"(b)
+
+Disposition.—If there are serious management concerns raised and substantiated, a copy of the management review document shall be provided to the rating officer for formal discussion as part of the performance evaluation process. The management review shall remain in the employee's personnel file unless otherwise required by law. The subject of a review conducted pursuant to subsection (a) shall have the opportunity to respond to and comment on the review, and the response shall be included in the employee's file for promotion panel review.
+
+"(c)
+
+Notification Requirement in Case of Serious Management Concerns.—The Inspector General of the Department of State shall notify the Secretary \[of State\], the Deputy Secretary, and the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] within 30 days of any review in which a preponderance of evidence shows that a chief of mission, charge d'affaires, or other principal officer did not meet Department guidelines, and such behavior negatively impacted the ability to conduct operations at the mission, and which information is not otherwise submitted as part of the periodic inspection or report."
 
 #### No Grievance or Right of Action
 

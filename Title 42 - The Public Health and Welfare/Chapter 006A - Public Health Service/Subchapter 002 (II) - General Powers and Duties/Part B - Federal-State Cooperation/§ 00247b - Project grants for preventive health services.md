@@ -18,7 +18,7 @@ No grant may be made under section (a) <sup>1</sup> unless an application there
 
 &emsp;(5) assurances satisfactory to the Secretary that the applicant will provide for periodic evaluation of its program or programs;
 
-&emsp;(6) assurances satisfactory to the Secretary that the applicant will make such reports (in such form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such access thereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
+&emsp;(6) assurances satisfactory to the Secretary that the applicant will make such reports (in such form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such accessthereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
 
 &emsp;(7) assurances satisfactory to the Secretary that the applicant will comply with any other conditions imposed by this section with respect to grants; and
 
@@ -284,7 +284,7 @@ Subsec. (i). Pub. L. 93–354, §4(1), substituted "communicable and other disea
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted "under grants" after "Payments"; and redesignated former subsec. (d) as par. (2), inserted "of the Government" after "officer or employee", substituted "in detailing the personnel" for "personal services", and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted "under grants" after "Payments"; and redesignated former subsec. (d) as par. (2), inserted "of the Government" after "officer or employee", substituted "in detailing the personnel" for "personal services", and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 

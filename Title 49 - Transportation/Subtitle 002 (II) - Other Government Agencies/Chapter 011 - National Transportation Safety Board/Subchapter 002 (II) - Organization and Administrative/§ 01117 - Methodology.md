@@ -10,7 +10,7 @@ Elements.—Except as provided in subsection (c), the methodology section under 
 
 &emsp;(1) a brief summary of the Board's collection and analysis of the specific accident investigation information most relevant to the recommendation;
 
-&emsp;(2) a description of the Board's use of external information, including studies, reports, and experts, other than the findings of a specific accident investigation, if any were used to inform or support the recommendation, including a brief summary of the specific safety benefits and other effects identified by each study, report, or expert; and
+&emsp;(2) a description of the Board's use of external information, including studies, reports,and experts, other than the findings of a specific accident investigation, if any were used to inform or support the recommendation, including a brief summary of the specific safety benefits and other effects identified by each study, report, or expert; and
 
 &emsp;(3) a brief summary of any examples of actions taken by regulated entities before the publication of the safety recommendation, to the extent such actions are known to the Board, that were consistent with the recommendation.
 

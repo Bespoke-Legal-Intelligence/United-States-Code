@@ -1,46 +1,84 @@
 ### §3502. Definitions
 
-For purposes of this chapter—
+#### (a) In general
 
-&emsp;(1) The term "undeveloped coastal barrier" means—
+For purposes of this chapter:
 
-&emsp;&emsp;(A) a depositional geologic feature (such as a bay barrier, tombolo, barrier spit, or barrier island) that—
+#### (1) Coastal barrier
 
-&emsp;&emsp;&emsp;(i) is subject to wave, tidal, and wind energies, and
+&emsp;The term "coastal barrier" means—
+
+&emsp;&emsp;(A) a depositional geologic feature (such as a bay barrier, tombolo, barrier spit, bluff, or barrier island) that—
+
+&emsp;&emsp;&emsp;(i) is subject to wave, tidal, and wind energies; and
 
 &emsp;&emsp;&emsp;(ii) protects landward aquatic habitats from direct wave attack; and
 
-&emsp;&emsp;(B) all associated aquatic habitats, including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters;
+&emsp;&emsp;(B) all associated aquatic habitats including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters.
 
-> &emsp;but only if such feature and associated habitats contain few manmade structures andthese structures, and man's activities on such feature and within such habitats, do not significantly impede geomorphic and ecological processes.
+#### (2) Committees
 
-&emsp;(2) The term "Committees" means the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+&emsp;The term "Committees" means the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-&emsp;(3) The term "financial assistance" means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
+#### (3) Financial assistance
 
-&emsp;&emsp;(A) deposit or account insurance for customers of banks, savings and loan associations, credit unions, or similar institutions;
+#### (A) In general
 
-&emsp;&emsp;(B) the purchase of mortgages or loans by the Government National Mortgage Association, the Federal National Mortgage Association, or the Federal Home Loan Mortgage Corporation;
+&emsp;&emsp;The term "financial assistance" means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
 
-&emsp;&emsp;(C) assistance for environmental studies, planning, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
+&emsp;&emsp;&emsp;(i) deposit or account insurance for customers of banks, savings and loan associations, credit unions, or similar institutions;
 
-&emsp;&emsp;(D) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age survivors or disability insurance program.
+&emsp;&emsp;&emsp;(ii) the purchase of mortgages or loans by the Government National Mortgage Association, the Federal National Mortgage Association, or the Federal Home Loan Mortgage Corporation;
 
-> &emsp;Such term includes flood insurance described in section 4028 of title 42.
+&emsp;&emsp;&emsp;(iii) assistance for environmental studies, planning, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
 
-&emsp;(4) The term "Great Lakes" means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
+&emsp;&emsp;&emsp;(iv) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age survivors or disability insurance program.
 
-&emsp;(5) The term "Secretary" means the Secretary of the Interior.
+#### (B) Flood insurance
 
-&emsp;(6) The term "System" means the John H. Chafee Coastal Barrier Resources System established by section 3503(a) of this title.
+&emsp;&emsp;The term "financial assistance" includes flood insurance described in section 4028 of title 42.
 
-&emsp;(7) The term "System unit" means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
+#### (4) Great Lakes
 
-(Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396.)
+&emsp;The term "Great Lakes" means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
+
+#### (5) Otherwise Protected Area
+
+#### (A) In general
+
+&emsp;&emsp;The term "Otherwise Protected Area" means any unit of the System that, at the time of designation, was predominantly composed of areas established under Federal, State, or local law, or held by a qualified organization, primarily for wildlife refuge, wildlife sanctuary, recreational, or natural resource conservation purposes.
+
+#### (B) Qualified organization
+
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified organization" has the meaning given the term in section 170(h)(3) of title 26.
+
+#### (6) Secretary
+
+&emsp;The term "Secretary" means the Secretary of the Interior.
+
+#### (7) System
+
+&emsp;The term "System" means the John H. Chafee Coastal Barrier Resources System established under section 3503(a) of this title.
+
+#### (8) System unit
+
+&emsp;The term "System unit" means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established under section 3503(a) of this title.
+
+#### (9) Undeveloped coastal barrier
+
+&emsp;The term "undeveloped coastal barrier" means a coastal barrier the features and associated habitats of which contain few manmade structures and these structures, and man's activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes.
+
+#### (b) Savings clause
+
+Nothing in this section supersedes the official maps described in section 3503(a) of this title.
+
+(Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396; Pub. L. 118–117, title I, §101, Nov. 25, 2024, 138 Stat. 1608.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–117 amended section generally. Prior to amendment, section defined terms for this chapter.
 
 <b>2000</b>—Par. (2). Pub. L. 106–514, §4(a)(1), substituted "means the Committee on Resources" for "refers to the Committee on Merchant Marine and Fisheries".
 

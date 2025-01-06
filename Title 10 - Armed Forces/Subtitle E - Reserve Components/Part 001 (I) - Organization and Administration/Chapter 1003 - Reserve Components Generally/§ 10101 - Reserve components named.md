@@ -46,6 +46,82 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Pilot Program on the Use of Robotic Targets To Enhance the Lethality of the Reserve Components of the Army
+
+Pub. L. 118–159, div. A, title I, §112, Dec. 23, 2024, 138 Stat. 1802, provided that:
+
+"(a)
+
+Establishment.—The Secretary of the Army shall carry out a pilot program under which the Secretary incorporates the use of moving robotic target systems into live fire training provided to select infantry units of the reserve and National Guard components of the Army.
+
+"(b)
+
+Designation.—The pilot program under subsection (a) shall be known as the 'Lethality and Warfighting Enhancement Program'.
+
+"(c)
+
+Locations.—The Secretary of the Army shall select not fewer than three military installations at which to conduct the pilot program under subsection (a).
+
+"(d)
+
+Objectives.—The objectives of the pilot program under subsection (a) shall be—
+
+&emsp;"(1) to increase the lethality of the combined fighting force of the Army by providing reserve component and National Guard infantry units with the opportunity to conduct realistic live fire training on state-of-the-art moving robotic target systems; and
+
+&emsp;"(2) to demonstrate the effect of such training on small arms proficiency and lethality in ground combat operations.
+
+"(e)
+
+Selection of Participating Units.—The Secretary of the Army shall select infantry units of the reserve components of the Army to participate in the pilot program under subsection (a) taking into consideration—
+
+&emsp;"(1) the past performance of the unit;
+
+&emsp;"(2) the readiness status of the unit, with an emphasis on providing training to those units designated as preparing to deploy or at a similarly designated readiness status; and
+
+&emsp;"(3) the likelihood that a unit would be actively deployed or commanded to conduct decisive action.
+
+"(f)
+
+Commencement.—The Secretary of the Army shall commence the pilot program under subsection (a) not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(g)
+
+Termination.—The pilot program under subsection (a) shall terminate five years after the date of the enactment of this Act.
+
+"(h)
+
+Briefings.—Not later than 90 days after concluding activities under the pilot program at a military installation selected under subsection (c), the Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that includes a description of—
+
+&emsp;"(1) the manner in which the program was conducted at such installation; and
+
+&emsp;"(2) any results achieved under the program at such installation.
+
+"(i)
+
+Contract Authority.—
+
+&emsp;"(1)
+
+In general.—The Secretary of the Army is authorized to enter into one or more contracts for the procurement of moving robotic target systems for use in the pilot program under subsection (a).
+
+&emsp;"(2)
+
+Required capabilities.—Robotic target systems procured under paragraph (1) shall be capable of—
+
+&emsp;&emsp;"(A) conducting multiple realistic offensive and defensive scenarios in a single training session that are consistent with combat operations;
+
+&emsp;&emsp;"(B) operating in an unpredictable, realistic, and reactionary fashion;
+
+&emsp;&emsp;"(C) objectively scoring trainee performance;
+
+&emsp;&emsp;"(D) maneuvering across diverse geographic landscapes, including snow, ice, soft soils, extreme heat, extreme cold, wooded terrain and offroad areas;
+
+&emsp;&emsp;"(E) operating at distances greater than 100 yards from the range operator;
+
+&emsp;&emsp;"(F) surviving live fire from 6.8 mm rounds and the Next Generation Squad Weapon of the Army; and
+
+&emsp;&emsp;"(G) fully functioning in all reasonably expected weather conditions."
+
 #### Notice to Congress Before Certain Actions Regarding Units of Certain Reserve Components
 
 Pub. L. 117–263, div. A, title V, §518, Dec. 23, 2022, 136 Stat. 2567, provided that:
@@ -194,7 +270,7 @@ Duration.—The duration of the pilot program may not exceed three years.
 
 "(e)
 
-Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements ofthe pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention."
+Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment orservices by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention."
 
 #### Behavioral Health Support
 
@@ -290,7 +366,7 @@ Partnerships and access.—The office may enter into partnerships with other pub
 
 Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall have the following functions:
 
-&emsp;&emsp;"(A) To collect and analyze 'lessons learned' and suggestions from State National Guard and Reserveorganizations with existing or developing reintegration programs.
+&emsp;&emsp;"(A) To collect and analyze 'lessons learned' and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs.
 
 &emsp;&emsp;"(B) To assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations.
 
@@ -418,7 +494,7 @@ Outreach Services.—As part of the Yellow Ribbon Reintegration Program, the Off
 
 &emsp;"(13) Development of strategies and programs that recognize the need for long-term follow-up services for reintegrating members of the Armed Forces and their families for extended periods following deployments, including between deployments.
 
-&emsp;"(14) Assisting members of the Armed Forces and their families in receiving services and assistance from the Department of Veterans Affairs, including referral services.
+&emsp;"(14) Assisting members of the Armed Forces and their families in receiving services and assistancefrom the Department of Veterans Affairs, including referral services.
 
 &emsp;"(15) Resiliency training to promote comprehensive programs for members of the Armed Forces to build mental and emotional resiliency for successfully meeting the demands of the deployment cycle.
 

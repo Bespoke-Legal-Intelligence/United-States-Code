@@ -2,7 +2,7 @@
 
 In determining membership or participation in the Communist Party or any other organization defined in this Act, or knowledge of the purpose or objective of such party or organization, the jury, under instructions from the court, shall consider evidence, if presented, as to whether the accused person:
 
-&emsp;(1) Has been listed to his knowledge as a member in any book or any of the lists,records, correspondence, or any other document of the organization;
+&emsp;(1) Has been listed to his knowledge as a member in any book or any of the lists, records, correspondence, or any other document of the organization;
 
 &emsp;(2) Has made financial contribution to the organization in dues, assessments, loans, or in any other form;
 

@@ -12,7 +12,7 @@ Real Property.—Real property of the corporation is exempt from taxation if it 
 
 (b)
 
-Personal Property.—Personal property of the corporation is exempt from taxation if it is used for the purposes provided in section 151102 of this title or to produce income to be used for those purposes.
+Personal Property.—Personal property of the corporation is exempt from taxation if it isused for the purposes provided in section 151102 of this title or to produce income to be used for those purposes.
 
 (c)
 

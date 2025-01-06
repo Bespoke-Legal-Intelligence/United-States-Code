@@ -60,7 +60,7 @@ Membership.—The Council shall include the following:
 
 &emsp;&emsp;&emsp;(x) The United States Special Operations Command.
 
-&emsp;&emsp;&emsp;(xi) Such other officers or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
+&emsp;&emsp;&emsp;(xi) Such other officers or Agencies, elements, or components of the Departmentof Defense as the Secretary of Defense considers appropriate.
 
 &emsp;(4)
 

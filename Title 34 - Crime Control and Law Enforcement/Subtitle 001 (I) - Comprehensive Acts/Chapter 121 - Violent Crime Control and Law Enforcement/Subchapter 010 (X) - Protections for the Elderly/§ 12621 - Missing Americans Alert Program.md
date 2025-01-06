@@ -86,7 +86,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (B) Written approval
 
-&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
+&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costsassociated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
 
 #### (C) Report
 

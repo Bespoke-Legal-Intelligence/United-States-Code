@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) examine appropriate factors, such as environmental and occupational, that may be associated with the disease;
 
-&emsp;&emsp;(C) better outline key demographic factors (such as age, race or ethnicity, gender, and family history of individuals who are diagnosed with the disease) associated with the disease;
+&emsp;&emsp;(C) better outline key demographic factors (such as age, race or ethnicity, gender, andfamily history of individuals who are diagnosed with the disease) associated with the disease;
 
 &emsp;&emsp;(D) better examine the connection between ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS; and
 

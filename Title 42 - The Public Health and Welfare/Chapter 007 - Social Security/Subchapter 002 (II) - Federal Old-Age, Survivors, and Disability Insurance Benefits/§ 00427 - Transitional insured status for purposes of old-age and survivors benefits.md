@@ -96,7 +96,7 @@ Pub. L. 89–97, title III, §309(b), July 30, 1965, 79 Stat. 380, provided that
 
 #### Repeal of Amendment of Subsecs. (a) and (b) Prior to Effective Date
 
-Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
+Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the largerof $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

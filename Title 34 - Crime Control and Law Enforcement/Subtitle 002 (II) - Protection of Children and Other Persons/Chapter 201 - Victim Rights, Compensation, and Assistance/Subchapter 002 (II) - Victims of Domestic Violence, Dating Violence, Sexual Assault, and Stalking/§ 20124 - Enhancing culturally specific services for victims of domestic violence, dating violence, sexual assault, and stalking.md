@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Of the total amount available for grants under this section, not less than 40 percent of such funds shall be allocated for programs or projects that meaningfully address non-intimate partner relationship sexual assault.
+&emsp;&emsp;Of the total amount available for grants under this section, not less than 40 percentof such funds shall be allocated for programs or projects that meaningfully address non-intimate partner relationship sexual assault.
 
 #### (B) Alternative allocation
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) enhancing traditional services to victims of domestic violence, dating violence, sexual assault, and stalking through the leadership of culturally specific programs offering services to victims of domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;&emsp;(E) working in cooperation with the community to develop education and prevention strategies highlighting culturally specificissues and resources regarding victims of domestic violence, dating violence, sexual assault, and stalking;
+&emsp;&emsp;(E) working in cooperation with the community to develop education and prevention strategies highlighting culturally specific issues and resources regarding victims of domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;&emsp;(F) providing culturally specific programs for children exposed to domestic violence, dating violence, sexual assault, and stalking;
 
@@ -118,7 +118,7 @@ Pub. L. 117–103, §108(1)(A)(i), which directed substitution of "paragraph (2)
 
 Subsec. (a)(3), (4). Pub. L. 117–103, §108(1)(B), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 117–103, §108(2), inserted at end "Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shallhave demonstrated expertise primarily in non-intimate partner sexual assault services."
+Subsec. (b)(3). Pub. L. 117–103, §108(2), inserted at end "Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shall have demonstrated expertise primarily in non-intimate partner sexual assault services."
 
 Subsecs. (e) to (h). Pub. L. 117–103, §108(3), (4), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "The Director shall award grants for a 2-year period, with a possible extension of another 2 years to implement projects under the grant."
 

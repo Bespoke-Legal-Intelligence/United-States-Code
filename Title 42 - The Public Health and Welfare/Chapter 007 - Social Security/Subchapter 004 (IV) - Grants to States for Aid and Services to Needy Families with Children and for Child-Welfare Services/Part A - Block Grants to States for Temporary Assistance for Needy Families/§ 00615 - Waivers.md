@@ -70,7 +70,7 @@ A prior section 615, act Aug. 14, 1935, ch. 531, title IV, §415, as added Aug. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
+Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the timethe provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
 #### Effective Date
 

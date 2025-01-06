@@ -42,5 +42,5 @@ Pub. L. 104–271, §1, Oct. 9, 1996, 110 Stat. 3304, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 101–566, title I, §101, Nov. 15, 1990, 104 Stat. 2797, provided that: "This Act \[enacting this chapter\]may be referred to as the 'Spark M. Matsunaga Hydrogen Research, Development, and Demonstration Act of 1990'."
+Pub. L. 101–566, title I, §101, Nov. 15, 1990, 104 Stat. 2797, provided that: "This Act \[enacting this chapter\] may be referred to as the 'Spark M. Matsunaga Hydrogen Research, Development, and Demonstration Act of 1990'."
 

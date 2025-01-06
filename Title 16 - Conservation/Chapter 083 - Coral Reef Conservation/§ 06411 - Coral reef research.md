@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) has established management-driven national or regional coral reef research or restoration programs;
 
-&emsp;&emsp;(C) has demonstrated abilities to coordinate closely with appropriate Federal andState agencies, and other academic and nonprofit organizations; and
+&emsp;&emsp;(C) has demonstrated abilities to coordinate closely with appropriate Federal and State agencies, and other academic and nonprofit organizations; and
 
 &emsp;&emsp;(D) maintains significant local community engagement and outreach programs related to coral reef ecosystems.
 

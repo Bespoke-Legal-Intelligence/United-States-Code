@@ -100,7 +100,7 @@ Briefings and Reports.—
 
 &emsp;"(1)
 
-Implementation briefing.—Not later than one year after the date of the enactment of this Act \[Dec.29, 2022\], the Secretary shall provide the appropriate committees of Congress a briefing on—
+Implementation briefing.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary shall provide the appropriate committees of Congress a briefing on—
 
 &emsp;&emsp;"(A) the design, structure, and objectives of the pilot program required by subsection (b)(1); and
 
@@ -112,7 +112,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than four years after the date on which the Secretary commences the pilot program under subsection (b)(1), the Secretary shall submit to the appropriate committees of Congress a report on the pilot program.
+In general.—Not later than four years after the date on which the Secretary commences thepilot program under subsection (b)(1), the Secretary shall submit to the appropriate committees of Congress a report on the pilot program.
 
 &emsp;&emsp;"(B)
 

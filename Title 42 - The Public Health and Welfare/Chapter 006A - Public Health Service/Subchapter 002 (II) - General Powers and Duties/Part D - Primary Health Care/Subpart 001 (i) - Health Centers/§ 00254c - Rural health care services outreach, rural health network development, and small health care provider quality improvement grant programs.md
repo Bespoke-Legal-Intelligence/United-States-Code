@@ -56,7 +56,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (1) Grants
 
-&emsp;The Director may award grants to eligible entities to promote rural health care services outreach by improving and expanding the delivery of health care services to include new and enhanced services in rural areas, through community engagement and evidence-based or innovative, evidence-informed models. The Director may award the grants for periods of not more than 5 years.
+&emsp;The Director may award grants to eligible entities to promote rural health care servicesoutreach by improving and expanding the delivery of health care services to include new and enhanced services in rural areas, through community engagement and evidence-based or innovative, evidence-informed models. The Director may award the grants for periods of not more than 5 years.
 
 #### (2) Eligibility
 
@@ -180,7 +180,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (4) Expenditures for small health care provider quality improvement grants
 
-&emsp;In awarding a grant under this subsection, the Director shall ensure that the funds madeavailable through the grant will be used to provide services to residents of rural areas. The Director shall award not less than 50 percent of the funds made available under this subsection to providers located in and serving rural areas.
+&emsp;In awarding a grant under this subsection, the Director shall ensure that the funds made available through the grant will be used to provide services to residents of rural areas. The Director shall award not less than 50 percent of the funds made available under this subsection to providers located in and serving rural areas.
 
 #### (h) General requirements
 
@@ -254,7 +254,7 @@ Subsec. (f)(2)(C). Pub. L. 116–136, §3213(3)(B)(iv), struck out "shall" befor
 
 Subsec. (f)(3)(C)(iii). Pub. L. 116–136, §3213(3)(C)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "how the local community or region to be served will benefit from and be involved in the activities carried out by the network;".
 
-Subsec. (f)(3)(D). Pub. L. 116–136, §3213(3)(C)(ii), substituted "the rural underserved populations in the localcommunity or region" for "the local community or region".
+Subsec. (f)(3)(D). Pub. L. 116–136, §3213(3)(C)(ii), substituted "the rural underserved populations in the local community or region" for "the local community or region".
 
 Subsec. (g)(1). Pub. L. 116–136, §3213(4)(A), inserted ", including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes" after "quality improvement activities" and substituted "5 years" for "3 years".
 
@@ -314,7 +314,7 @@ Pub. L. 106–505, title IV, subtitle B, Nov. 13, 2000, 114 Stat. 2340, provided
 
 &emsp;"(7) The American Heart Association estimates that more than 50,000 deaths could be prevented each year if defibrillators were more widely available to designated responders.
 
-&emsp;"(8) Legislation should be enacted to encourage greater public access to automated external defibrillators in communities across the United States.
+&emsp;"(8) Legislation should be enacted to encourage greater public access to automated externaldefibrillators in communities across the United States.
 
 #### "SEC. 413. GRANTS.
 
@@ -350,7 +350,7 @@ Authorization of Appropriations.—There is authorized to be appropriated $25,00
 
 #### Report on Telemedicine
 
-Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later than January 10, 2001, the Secretary ofHealth and Human Services shall submit to the Congress a report that—
+Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later than January 10, 2001, the Secretary of Health and Human Services shall submit to the Congress a report that—
 
 &emsp;"(1) identifies any factors that inhibit the expansion and accessibility of telemedicine services, including factors relating to telemedicine networks;
 

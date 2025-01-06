@@ -36,14 +36,6 @@ Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Select 
 
 &emsp;(3) With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
 
-&emsp;(4)(A) Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
-
-&emsp;&emsp;(i) Beneficiaries in the active-duty family member category.
-
-&emsp;&emsp;(ii) Beneficiaries covered by section 1110b of this title.
-
-&emsp;(B) This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
-
 (d)
 
 Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in subsection (c)(1) enrolled in TRICARE Select shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years:
@@ -92,7 +84,7 @@ Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in
 
 Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Prior to 2018.—(1) Subject to paragraph (4), and in accordance with subsection (d)(2), the Secretary shall establish an annual enrollment fee for beneficiaries described in subsection (c)(2)(B) in the retired category who enroll in TRICARE Select (other than such beneficiaries covered by paragraph (3)). Such enrollment fee shall be $150 for an individual and $300 for a family.
 
-(2) For the calendar year for which the Secretary first establishes the annual enrollment fee under paragraph (1), the Secretary shall adjust the catastrophic cap amount to be $3,500 for beneficiaries described in subsection (c)(2)(B) in the retired category who are enrolled inTRICARE Select (other than such beneficiaries covered by paragraph (3)).
+(2) For the calendar year for which the Secretary first establishes the annual enrollment fee under paragraph (1), the Secretary shall adjust the catastrophic cap amount to be $3,500 for beneficiaries described in subsection (c)(2)(B) in the retired category who are enrolled in TRICARE Select (other than such beneficiaries covered by paragraph (3)).
 
 (3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjusted under paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
 
@@ -114,7 +106,19 @@ Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Pr
 
 (f)
 
-Exception to Cost-sharing Requirements for TRICARE for Life Beneficiaries.—A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICARE Standard were still being carried out by the Secretary.
+Other Exceptions to Cost-sharing Requirements.—(1) A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICAREStandard were still being carried out by the Secretary.
+
+(2)(A) Notwithstanding any other provision of this section, the cost-sharing amount under this section for any beneficiary enrolled in TRICARE Select for a service described in subparagraph (B) that is provided by a network provider is $0.
+
+(B) A service described in this subparagraph is any contraceptive method approved, cleared, or authorized under section 505, 510(k), 513(f)(2), or 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355, 360(k), 360c(f)(2), 360e), any contraceptive care (including with respect to insertion, removal, and follow up), any sterilization procedure, or any patient education or counseling service provided in connection with any such contraceptive, care, or procedure.
+
+(3)(A) Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
+
+&emsp;(i) Beneficiaries in the active-duty family member category.
+
+&emsp;(ii) Beneficiaries covered by section 1110b of this title.
+
+(B) This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 
 (g)
 
@@ -144,13 +148,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "out-of-network" means, with respect to health care services, such services provided by TRICARE-authorized civilian providers who have not entered into a contract under this chapter with a contractor under the TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, §703(a), Dec. 27, 2021, 135 Stat. 1779; Pub. L. 118–31, div. A, title VII, §701(a), Dec. 22, 2023, 137 Stat. 299.)
+(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, §703(a), Dec. 27, 2021, 135 Stat. 1779; Pub. L. 118–31, div. A, title VII, §701(a), Dec. 22, 2023, 137 Stat. 299; Pub. L. 118–159, div. A, title VII, §707(b), (d)(1), Dec. 23, 2024, 138 Stat. 1944, 1945.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (f)(3)(B), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Prior Provisions
 
@@ -159,6 +163,14 @@ A prior section 1075, added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat
 Another prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(4). Pub. L. 118–159, §707(d)(1), redesignated par. (4) of subsec. (c) as par. (3) of subsec. (f).
+
+Subsec. (f). Pub. L. 118–159, §707(b)(2), (3), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 118–159, §707(b)(1), substituted "Other Exceptions to Cost-sharing Requirements" for "Exception to Cost-sharing Requirements for TRICARE for Life Beneficiaries" in heading.
+
+Subsec. (f)(3). Pub. L. 118–159, §707(d)(1), redesignated par. (4) of subsec. (c) as par. (3) of subsec. (f).
 
 <b>2023</b>—Subsec. (c)(4). Pub. L. 118–31 added par. (4).
 
@@ -174,7 +186,7 @@ Subsec. (d)(4). Pub. L. 115–91, §739(b)(1)(A), added par. (4).
 
 #### Effective Date
 
-Section applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 1072 of this title.
+Section applicable with respect to the provision of health care under the TRICARE program beginning onJan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 1072 of this title.
 
 #### Pilot Program on Health Care Assistance System
 

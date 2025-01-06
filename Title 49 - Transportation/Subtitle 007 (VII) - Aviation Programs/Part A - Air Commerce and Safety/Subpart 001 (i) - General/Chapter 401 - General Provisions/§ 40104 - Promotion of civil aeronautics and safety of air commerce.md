@@ -2,17 +2,101 @@
 
 (a)
 
-Developing Civil Aeronautics and Safety of Air Commerce.—The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
+Developing Civil Aeronautics and Safety of Air Commerce.—The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States.
 
 (b)
 
-International Role of the FAA.—
+Airport Capacity Enhancement Projects at Congested Airports.—In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47175.
+
+(c)
+
+Educational and Professional Development.—
 
 &emsp;(1)
 
-In general.—The Administrator shall promote and achieve global improvements inthe safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator's foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
+In general.—In carrying out subsection (a), the Administrator shall support and undertake efforts to promote and support the education and professional development of current and future aerospace professionals.
 
 &emsp;(2)
+
+Educational materials.—Based on the availability of resources, the Administrator shall—
+
+&emsp;&emsp;(A) develop and distribute civil aviation information and educational materials; and
+
+&emsp;&emsp;(B) provide expertise to State and local school administrators, college and university officials, and officers of other interested organizations and entities.
+
+&emsp;(3)
+
+Content.—In developing the educational materials under paragraph (2), the Administrator shall ensure such materials, including presentations, cover topics of broad relevance, including—
+
+&emsp;&emsp;(A) ethical decision-making and the responsibilities of aerospace professionals;
+
+&emsp;&emsp;(B) managing a workforce, encouraging proper reporting of prospective safety issues, and educating employees on safety management systems; and
+
+&emsp;&emsp;(C) responsibilities as a designee or representative of the Administrator.
+
+(d)
+
+International Role and Assistance of the FAA.—
+
+&emsp;(1)
+
+In general.—In carrying out subsection (a), the Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator's foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
+
+&emsp;(2)
+
+International presence.—The Administrator shall maintain an international presence to—
+
+&emsp;&emsp;(A) assist foreign civil aviation authorities in—
+
+&emsp;&emsp;&emsp;(i) establishing robust aviation oversight practices and policies;
+
+&emsp;&emsp;&emsp;(ii) harmonizing international aviation standards for air traffic management, operator certification, aircraft certification, airports, and certificated or credentialed individuals;
+
+&emsp;&emsp;&emsp;(iii) validating and accepting foreign aircraft design and production approvals;
+
+&emsp;&emsp;&emsp;(iv) preparing for new aviation technologies, including powered-lift aircraft, products, and articles; and
+
+&emsp;&emsp;&emsp;(v) appropriately adopting continuing airworthiness information, such as airworthiness directives;
+
+&emsp;&emsp;(B) encourage the adoption of United States standards, regulations, and policies;
+
+&emsp;&emsp;(C) establish, maintain, and update bilateral or multilateral aviation safety agreements and the aviation safety information contained within such agreements;
+
+&emsp;&emsp;(D) engage in bilateral and multilateral discussions as required under paragraph (5) and provide technical assistance as described in paragraph (6); <sup>1</sup>
+
+&emsp;&emsp;(E) validate foreign aviation products and ensure reciprocal validation of products for which the United States is the state of design or production;
+
+&emsp;&emsp;(F) support accident and incident investigations, particularly such investigations that involve United States persons and certified products and such investigations where the National Transportation Safety Board is supporting an investigation pursuant to annex 13 of the International Civil Aviation Organization;
+
+&emsp;&emsp;(G) support the international safety activities of the United States aviation sector;
+
+&emsp;&emsp;(H) maintain valuable relationships with entities with aviation equities, including civil aviation authorities, other governmental bodies, non-governmental organizations, and foreign manufacturers; and
+
+&emsp;&emsp;(I) perform other activities as determined necessary by the Administrator.
+
+&emsp;(3)
+
+International offices.—In carrying out the responsibilities described in subsection (a), the Administrator—
+
+&emsp;&emsp;(A) shall maintain international offices of the Administration;
+
+&emsp;&emsp;(B) every 5 years, may review existing international offices to determine—
+
+&emsp;&emsp;&emsp;(i) the effectiveness of such offices in fulfilling the mission described in paragraph (2); and
+
+&emsp;&emsp;&emsp;(ii) the adequacy of resources and staffing to achieve the mission described in paragraph (2); and
+
+&emsp;&emsp;(C) shall establish offices to address gaps identified by the review under subparagraph (B) and in furtherance of the mission described in paragraph (2), putting an emphasis on establishing such offices—
+
+&emsp;&emsp;&emsp;(i) where international civil aviation authorities are located;
+
+&emsp;&emsp;&emsp;(ii) where regional intergovernmental organizations are located;
+
+&emsp;&emsp;&emsp;(iii) in countries that have difficulty maintaining a category 1 classification through the International Aviation Safety Assessment program; and
+
+&emsp;&emsp;&emsp;(iv) in regions that have experienced substantial growth in aviation operations or manufacturing.
+
+&emsp;(4)
 
 Bilateral and multilateral engagement; technical assistance.—The Administrator shall—
 
@@ -38,11 +122,81 @@ Bilateral and multilateral engagement; technical assistance.—The Administrator
 
 &emsp;&emsp;&emsp;(v) providing technical assistance on any other aspect of aviation safety that the Administrator determines is likely to enhance international aviation safety.
 
-(c)
+&emsp;(5)
 
-Airport Capacity Enhancement Projects at Congested Airports.—In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47175.
+Bilateral aviation safety agreements.—
 
-(d)
+&emsp;&emsp;(A)
+
+In general.—The Administrator shall negotiate, enter into, promote, enforce, evaluate the effectiveness of, and seek to update bilateral or multilateral aviation safety agreements, and the parts of such agreements, with international aviation authorities.
+
+&emsp;&emsp;(B)
+
+Purpose.—The Administrator shall seek to enter into bilateral aviation safety agreements under this section to, at a minimum—
+
+&emsp;&emsp;&emsp;(i) improve global aviation safety;
+
+&emsp;&emsp;&emsp;(ii) increase harmonization of, and reduce duplicative, requirements, processes, and approvals to advance the aviation interests of the United States;
+
+&emsp;&emsp;&emsp;(iii) ensure access to international markets for operators, service providers, and manufacturers from the United States; and
+
+&emsp;&emsp;&emsp;(iv) put in place procedures for recourse when a party to such agreements fails to meet the obligations of such party under such agreements.
+
+&emsp;&emsp;(C)
+
+Scope.—The scope of a bilateral aviation safety agreement entered into under this section shall, as appropriate, cover existing aviation users and concepts and establish a process by which bilateral aviation safety agreements can be updated to include new and novel concepts on an ongoing basis.
+
+&emsp;&emsp;(D)
+
+Contents.—Bilateral aviation safety agreements entered into under this section shall, as appropriate and consistent with United States law and regulation, include topics such as—
+
+&emsp;&emsp;&emsp;(i) airworthiness, certification, and validation;
+
+&emsp;&emsp;&emsp;(ii) maintenance;
+
+&emsp;&emsp;&emsp;(iii) operations and pilot training;
+
+&emsp;&emsp;&emsp;(iv) airspace access, efficiencies, and navigation services;
+
+&emsp;&emsp;&emsp;(v) transport category aircraft;
+
+&emsp;&emsp;&emsp;(vi) fixed-wing aircraft, rotorcraft, powered-lift aircraft, products, and articles;
+
+&emsp;&emsp;&emsp;(vii) aerodrome certification;
+
+&emsp;&emsp;&emsp;(viii) unmanned aircraft and associated elements of such aircraft;
+
+&emsp;&emsp;&emsp;(ix) flight simulation training devices;
+
+&emsp;&emsp;&emsp;(x) new or emerging technologies and technology trends; and
+
+&emsp;&emsp;&emsp;(xi) other topics as determined appropriate by the Administrator.
+
+&emsp;&emsp;(E)
+
+Rule of construction.—Bilateral or multilateral aviation safety agreements entered into under this subsection shall not be construed to diminish or alter any authority of the Administrator under any other provision of law.
+
+&emsp;(7) <sup>2</sup>
+
+Strategic plan.—The Administrator shall maintain a strategic plan for the international engagement of the Administration that includes—
+
+&emsp;&emsp;(A) all elements of the report required under section 243(b) of the FAA Reauthorization Act of 2018 (49 U.S.C. 44701 note);
+
+&emsp;&emsp;(B) measures to fulfill the mission described in paragraph (2);
+
+&emsp;&emsp;(C) initiatives to attain greater expertise among employees of the Federal Aviation Administration in issues related to dispute resolution, intellectual property, and export control laws;
+
+&emsp;&emsp;(D) policy regarding the future direction and strategy of the United States engagement with the International Civil Aviation Organization;
+
+&emsp;&emsp;(E) procedures for acceptance of mandatory airworthiness information, such as airworthiness directives, and other safety-related regulatory documents, including procedures to implement the requirements of section 44701(e)(5);
+
+&emsp;&emsp;(F) all factors, including funding and resourcing, necessary for the Administration to maintain leadership in the global activities related to aviation safety and air transportation;
+
+&emsp;&emsp;(G) establishment of, and a process to regularly track and update, metrics to measure the effectiveness of, and foreign civil aviation authority compliance with, bilateral aviation safety agreements; and
+
+&emsp;&emsp;(H) a strategic methodology to facilitate the ability of the United States aerospace industry to efficiently operate and export new aerospace technologies, products, and articles in key markets globally.
+
+(e)
 
 Promotion of United States Aerospace Standards, Products, and Services Abroad.—The Secretary shall take appropriate actions to—
 
@@ -54,7 +208,25 @@ Promotion of United States Aerospace Standards, Products, and Services Abroad.�
 
 &emsp;(4) with respect to the aeronautical safety authorities of a foreign country, streamline validation and coordination processes.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1102; Pub. L. 103–429, §6(47), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 104–264, title IV, §401(b)(1), Oct. 9, 1996, 110 Stat. 3255; Pub. L. 108–176, title III, §303, title VIII, §813, Dec. 12, 2003, 117 Stat. 2533, 2590; Pub. L. 115–254, div. B, title II, §241, title V, §539(a), Oct. 5, 2018, 132 Stat. 3257, 3370; Pub. L. 116–260, div. V, title I, §119(f)(1), (2), Dec. 27, 2020, 134 Stat. 2342.)
+(f)
+
+Travel.—The Administrator and the Secretary of Transportation shall, in carrying out the responsibilities described in subsection (a), delegate to the appropriate supervisors of offices of the Administration the ability to authorize the domestic and international travel of relevant personnel who are not in the Federal Aviation Administration Executive System, without any additional approvals required, for the purposes of—
+
+&emsp;(1) promoting aviation safety, aircraft operations, air traffic, airport, unmanned aircraft systems, aviation fuels, and other aviation standards, regulations, and initiatives adopted by the United States;
+
+&emsp;(2) facilitating the adoption of United States approaches on such aviation standards and recommended practices at the International Civil Aviation Organization;
+
+&emsp;(3) supporting the acceptance of Administration design and production approvals by other civil aviation authorities;
+
+&emsp;(4) training Administration personnel and training provided to other persons;
+
+&emsp;(5) engaging with regulated entities, including performing site visits;
+
+&emsp;(6) activities associated with subsections (c) through (e); and
+
+&emsp;(7) other activities as determined by the Administrator.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1102; Pub. L. 103–429, §6(47), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 104–264, title IV, §401(b)(1), Oct. 9, 1996, 110 Stat. 3255; Pub. L. 108–176, title III, §303, title VIII, §813, Dec. 12, 2003, 117 Stat. 2533, 2590; Pub. L. 115–254, div. B, title II, §241, title V, §539(a), Oct. 5, 2018, 132 Stat. 3257, 3370; Pub. L. 116–260, div. V, title I, §119(f)(1), (2), Dec. 27, 2020, 134 Stat. 2342; Pub. L. 118–63, title III, §§356, 357(a), 358(a)–(c)(1), (d), 359, May 16, 2024, 138 Stat. 1114–1116, 1119, 1120.)
 
 Historical and Revision Notes
 
@@ -110,7 +282,39 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1) (words after last comma), 80 Stat. 93
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Paragraph (6), referred to in subsec. (d)(2)(D), is a reference to par. (6) of subsec. (d) of this section, which does not exist, but may instead be referring to par. (6) of subsec. (e) of section 40113 of this title, which relates to technical assistance to foreign governments and was enacted by the same section of Pub. L. 118–63 that enacted subsec. (d)(2) of this section containing the reference.
+
+Section 243(b) of the FAA Reauthorization Act of 2018, referred to in subsec. (d)(7)(A), is section 243(b) of Pub. L. 115–254, which is set out in a note under section 44701 of this title.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–63, §356(1), struck out at end "In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations."
+
+Subsec. (b). Pub. L. 118–63, §356(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (d).
+
+Subsec. (c). Pub. L. 118–63, §357(a), added subsec. (c). Former subsec. (c) redesignated (b).
+
+Subsec. (d). Pub. L. 118–63, §358(a)(1), inserted "and Assistance" after "International Role" in heading.
+
+Pub. L. 118–63, §356(3), redesignated subsec. (b) as (d).
+
+Subsec. (d)(1). Pub. L. 118–63, §358(a)(2), substituted "In carrying out subsection (a), the Administrator" for "The Administrator".
+
+Subsec. (d)(2). Pub. L. 118–63, §358(a)(4), added par. (2). Former par. (2) redesignated (4).
+
+Subsec. (d)(3). Pub. L. 118–63, §358(b), added par. (3).
+
+Subsec. (d)(4). Pub. L. 118–63, §358(a)(3), redesignated par. (2) as (4).
+
+Subsec. (d)(5). Pub. L. 118–63, §358(c)(1), added par. (5).
+
+Subsec. (d)(7). Pub. L. 118–63, §358(d), added par. (7).
+
+Subsec. (e). Pub. L. 118–63, §356(2), redesignated subsec. (d) as (e).
+
+Subsec. (f). Pub. L. 118–63, §359, added subsec. (f).
 
 <b>2020</b>—Subsec. (b). Pub. L. 116–260 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -145,6 +349,24 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Support for Professional Development and Continuing Education
+
+Pub. L. 118–63, title III, §357(b), May 16, 2024, 138 Stat. 1115, provided that: "The Administrator \[of the Federal Aviation Administration\] may take such action as may be necessary to support or launch initiatives that seek to advance the professional development and continuing education of aerospace professionals."
+
+#### Validation of Powered-Lift Aircraft
+
+Pub. L. 118–63, title III, §358(c)(3), May 16, 2024, 138 Stat. 1118, provided that: "In carrying out section 40104(d) of title 49, United States Code (as amended by this Act), the Administrator \[of the Federal Aviation Administration\] shall ensure coordination with international civil aviation authorities regarding the establishment of mutual processes for efficient validation, acceptance, and working arrangements of certificates and approvals for powered-lift aircraft, products, and articles."
+
+#### Powered-Lift Aircraft
+
+Pub. L. 118–63, title III, §358(e), May 16, 2024, 138 Stat. 1119, provided that: "In developing the methodology required under section 40104(d)(7)(H) of title 49, United States Code (as added by subsection (d)), the Administrator \[of the Federal Aviation Administration\] shall—
+
+&emsp;"(1) perform an assessment of existing bilateral aviation safety agreements, implementation procedures, and other associated bilateral arrangements to determine how current and future powered-lift products and articles can utilize the most appropriate validation mechanisms and procedures;
+
+&emsp;"(2) facilitate global acceptance of the approach of the FAA \[Federal Aviation Administration\] to certification of powered-lift aircraft, products, and articles; and
+
+&emsp;"(3) consider any other information determined appropriated by the Administrator."
 
 #### International Pilot Training
 
@@ -207,4 +429,8 @@ Pub. L. 115–254, div. B, title III, §304, Oct. 5, 2018, 132 Stat. 3261, provi
 &emsp;"(2) other international organizations and fora; and
 
 &emsp;"(3) the private sector."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. No par. (6) has been enacted.</i>
 

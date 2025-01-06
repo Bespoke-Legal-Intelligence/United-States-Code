@@ -34,7 +34,7 @@ June 30, 1949, ch. 288, title III, §303B(a), (b), as added Pub. L. 98–369, ti
 
 #### Use of Lowest Price Technically Acceptable Source Selection Process
 
-Pub. L. 115–232, div. A, title VIII, §880, Aug. 13, 2018, 132 Stat. 1909, as amended by Pub. L. 116–92, div. A, title VIII, §806(a)(2), Dec. 20, 2019, 133 Stat. 1485, provided that:
+Pub. L. 115–232, div. A, title VIII, §880, Aug. 13, 2018, 132 Stat. 1909, as amended by Pub. L. 116–92, div. A, title VIII, §806(a)(2), Dec. 20, 2019, 133 Stat. 1485; Pub. L. 118–159, div. A, title VIII, §822, Dec. 23, 2024, 138 Stat. 1983, provided that:
 
 "(a)
 
@@ -58,9 +58,9 @@ Revision of Federal Acquisition Regulation.—Not later than 120 days after the 
 
 "(c)
 
-Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteria in Certain Procurements.—To the maximum extent practicable, the use of lowest price technically acceptable source selection criteria shall be avoided in the case of a procurement that is predominately for the acquisition of—
+Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteria in Certain Procurements.—To the maximum extent practicable, the use of lowest price technically acceptable sourceselection criteria shall be avoided in the case of a procurement that is predominately for the acquisition of—
 
-&emsp;"(1) information technology services, cybersecurity services, systems engineering and technical assistance services, advanced electronic testing, audit or audit readiness services, health care services and records, telecommunications devices and services, or other knowledge-based professional services;
+&emsp;"(1) information technology services, cybersecurity services, systems engineering and technical assistance services, advanced electronic testing, audit or audit readiness services, health care services and records, telecommunications devices and services, munitions response services, or other knowledge-based professional services;
 
 &emsp;"(2) personal protective equipment; or
 

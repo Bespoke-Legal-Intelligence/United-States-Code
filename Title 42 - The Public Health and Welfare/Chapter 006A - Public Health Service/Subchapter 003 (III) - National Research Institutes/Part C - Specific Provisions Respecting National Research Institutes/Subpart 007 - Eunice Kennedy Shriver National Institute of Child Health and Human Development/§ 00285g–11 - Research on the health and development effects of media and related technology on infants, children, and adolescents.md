@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (b) Activities
 
-In carrying out subsection (a), the Secretary, acting through the Director of the National Institutes of Health, shall, as appropriate, develop a research agenda to assess the effects of mediaand related technologies on infants, children, and adolescents, which may include consideration of the following, as appropriate:
+In carrying out subsection (a), the Secretary, acting through the Director of the National Institutes of Health, shall, as appropriate, develop a research agenda to assess the effects of media and related technologies on infants, children, and adolescents, which may include consideration of the following, as appropriate:
 
 &emsp;(1) The cognitive development of infants, children, and adolescents, which may include effects related to language development, learning abilities, and other areas of cognitive development.
 
@@ -32,5 +32,5 @@ Not later than 2 years after December 29, 2022, the Director of the National Ins
 
 #### Codification
 
-Section was enacted as part of the Restoring Hope for Mental Health and Well-Being Act of 2022 and also as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Restoring Hope for Mental Health and Well-Being Act of 2022 and also as part of the Health Extenders, Improving Access toMedicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, and not as part of the Public Health Service Act which comprises this chapter.
 

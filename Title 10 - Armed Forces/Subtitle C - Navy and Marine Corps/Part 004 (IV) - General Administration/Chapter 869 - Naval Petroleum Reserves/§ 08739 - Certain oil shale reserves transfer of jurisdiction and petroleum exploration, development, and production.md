@@ -60,7 +60,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), 
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (f)(1), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§1701 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 30 and Tables.
+The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (f)(1), is Pub. L. 97–451, Jan.12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§1701 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 30 and Tables.
 
 #### Prior Provisions
 

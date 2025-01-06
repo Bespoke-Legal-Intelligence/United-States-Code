@@ -106,7 +106,7 @@ Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided t
 
 "(1)
 
-In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriateinclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
+In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
 "(2)
 
@@ -134,7 +134,7 @@ Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services 
 
 Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall be solely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
 
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
+Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permittedby law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
 (b) Any members of the Advisory Council that receive compensation shall be compensated in accordance with Federal law. Committee members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. section 5701–5707).
 
@@ -302,7 +302,7 @@ Sec. 6. <i>National HIV/AIDS Strategy Federal Interagency Working Group</i>. The
 
 (b) <i>Consultation</i>. The Federal Interagency Working Group shall consult with the PACHA, as appropriate.
 
-(c) <i>Outreach</i>. The Federal Interagency Working Group shall hold regular meetings and conduct outreach with representatives of private and nonprofit organizations,State, tribal, and local governments and agencies, elected officials, and other interested persons to assist the Federal Interagency Working Group in its efforts.
+(c) <i>Outreach</i>. The Federal Interagency Working Group shall hold regular meetings and conduct outreach with representatives of private and nonprofit organizations, State, tribal, and local governments and agencies, elected officials, and other interested persons to assist the Federal Interagency Working Group in its efforts.
 
 (d) <i>Functions</i>. As part of its efforts, the Federal Interagency Working Group shall:
 
@@ -344,7 +344,7 @@ Memorandum of President of the United States, July 13, 2010, 75 F.R. 41687, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve people living with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americans from all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
+As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve people living with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americansfrom all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
 
 Today I am releasing a National HIV/AIDS Strategy for the United States (Strategy) and a National HIV/AIDS Strategy Federal Implementation Plan (Federal Implementation Plan), which identifies specific actions to be taken by Federal agencies to implement the Strategy's goals. While agencies already undertake many actions to address HIV/AIDS, successful implementation of the Strategy will require new levels of coordination, collaboration, and accountability. This will require the Federal Government to work in new ways across agency lines, as well as in enhanced and innovative partnerships with State, tribal, and local governments. Government cooperation at all levels, moreover, is not enough. Success will require the commitment of all parts of society, including businesses, faith communities, philanthropic organizations, scientific and medical communities, educational institutions, people living with HIV, and others. It is also necessary to sustain public commitment to ending the epidemic, and this calls for regular communications between governments at all levels to identify the challenges we face and report the progress we are making. To these ends, I hereby direct the following:
 
@@ -448,7 +448,7 @@ Section 1. <i>Working Group on the Intersection of HIV/AIDS, Violence Against Wo
 
 (c) The Department of State, the United States Agency for International Development, and the President's Emergency Plan for AIDS Relief Gender Technical Working Group shall act in an advisory capacity to the Working Group, providing information on lessons learned and evidence-based best practices based on their global experience addressing issues involving the intersection between HIV/AIDS and violence against women.
 
-Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group shall coordinate agency efforts to address issues involving the intersection of HIV/AIDS,violence against women and girls, and gender-related health disparities. Such efforts shall include, but not be limited to:
+Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group shall coordinate agency efforts to address issues involving the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities. Such efforts shall include, but not be limited to:
 
 (i) increasing government and public awareness of the need to address the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities, including sexual and reproductive health and access to health care;
 

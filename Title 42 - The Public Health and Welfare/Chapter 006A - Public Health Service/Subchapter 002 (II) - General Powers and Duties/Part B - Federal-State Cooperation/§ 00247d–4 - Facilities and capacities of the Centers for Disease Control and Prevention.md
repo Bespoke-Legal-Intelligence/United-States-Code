@@ -14,7 +14,7 @@
 
 #### (B) Multiyear contracting authority
 
-&emsp;&emsp;For any project of designing, constructing, equipping, or renovating any facility under subparagraph (A), the Director of the Centers for Disease Control and Prevention may enter into a single contract or related contracts that collectively include the full scope of the project, and the solicitation and contract shall contain the clause "availability of funds" found at section 52.232–18 of title 48, Code of Federal Regulations.
+&emsp;&emsp;For any project of designing, constructing, equipping, or renovating any facility under subparagraph (A), the Director of the Centers for Disease Control and Prevention mayenter into a single contract or related contracts that collectively include the full scope of the project, and the solicitation and contract shall contain the clause "availability of funds" found at section 52.232–18 of title 48, Code of Federal Regulations.
 
 #### (3) Improving the capacities of the Centers for Disease Control and Prevention
 
@@ -44,7 +44,7 @@
 
 #### (2) Requirements
 
-&emsp;The Secretary shall develop a plan to, and ensure that networks under paragraph (1)allow for the timely sharing and discussion, in a secure manner and in a form readily usable for analytical approaches, of essential, deidentified information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort. The Secretary shall ensure that the activities carried out pursuant to the previous sentence are conducted in a manner that protects personal privacy, to the extent required by applicable Federal and State information privacy or security law, at a minimum.
+&emsp;The Secretary shall develop a plan to, and ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner and in a form readily usable for analytical approaches, of essential, deidentified information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort. The Secretary shall ensure that the activities carried out pursuant to the previous sentence are conducted in a manner that protects personal privacy, to the extent required by applicable Federal and State information privacy or security law, at a minimum.
 
 #### (3) Standards
 
@@ -118,7 +118,7 @@
 
 #### (ii) Experts
 
-&emsp;&emsp;&emsp;The public meeting shall include representatives of relevant Federal agencies (including representatives from the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology); State, local, Tribal, and territorial public health officials; stakeholders with expertise in biosurveillance and situational awareness; stakeholders with expertise in capabilities relevant to biosurveillance and situational awareness, such as experts in informatics and data analytics (including experts in prediction, modeling, or forecasting); experts in State-based public health data systems; experts in standards and implementation specifications, including transaction standards; and experts in privacy and data security.
+&emsp;&emsp;&emsp;The public meeting shall include representatives of relevant Federal agencies (including representatives from the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology); State, local, Tribal, and territorial public health officials; stakeholders with expertise in biosurveillance and situational awareness; stakeholders with expertise in capabilities relevant to biosurveillanceand situational awareness, such as experts in informatics and data analytics (including experts in prediction, modeling, or forecasting); experts in State-based public health data systems; experts in standards and implementation specifications, including transaction standards; and experts in privacy and data security.
 
 #### (iii) Topics
 
@@ -174,7 +174,7 @@
 
 #### (B) Annual budget plan
 
-&emsp;&emsp;Not later than 2 years after June 24, 2019, and on an annual basis thereafter, in accordance with the strategy and implementation plan under this paragraph, the Secretary shall, taking into account recommendations provided by the National Biodefense Science Board, develop a budget plan based on the strategy and implementation plan under this section. Such budget plan shall include—
+&emsp;&emsp;Not later than 2 years after June 24, 2019, and on an annual basis thereafter, in accordance with the strategy and implementation plan under this paragraph, the Secretary shall, taking into account recommendations provided by the National Biodefense Science Board, develop a budget plan based on the strategy and implementation plan underthis section. Such budget plan shall include—
 
 &emsp;&emsp;&emsp;(i) a summary of resources previously expended to establish, improve, and utilize the nationwide public health situational awareness and biosurveillance network under paragraph (1);
 
@@ -256,7 +256,7 @@
 
 &emsp;In addition to any other personnel authorities, to carry out subsections (b) and (c), the Secretary may—
 
-&emsp;&emsp;(A) appoint highly qualified individuals to scientific or professional positions at the Centers for Disease Control and Prevention, not to exceed 30 such employees at any time (specific to positions authorized by this subsection), with expertise in capabilities relevant to biosurveillance and situationalawareness, such as experts in informatics and data analytics (including experts in prediction, modeling, or forecasting), and other related scientific or technical fields; and
+&emsp;&emsp;(A) appoint highly qualified individuals to scientific or professional positions at the Centers for Disease Control and Prevention, not to exceed 30 such employees at any time (specific to positions authorized by this subsection), with expertise in capabilities relevant to biosurveillance and situational awareness, such as experts in informatics and data analytics (including experts in prediction, modeling, or forecasting), and other related scientific or technical fields; and
 
 &emsp;&emsp;(B) compensate individuals appointed under subparagraph (A) in the same manner and subject to the same terms and conditions in which individuals appointed under 9903 <sup>2</sup> of title 5 are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
@@ -332,7 +332,7 @@ Subsec. (c)(6)(A)(vi). Pub. L. 117–328, §2211(3)(D)(iii), (v), added cl. (vi)
 
 Subsec. (c)(9). Pub. L. 117–328, §2211(3)(E), added par. (9).
 
-Subsec. (d)(2)(A). Pub. L. 117–328, §2211(4)(A)(i), inserted "deidentified" before "data, information" and", in consultation with such State or consortium of States" after "require".
+Subsec. (d)(2)(A). Pub. L. 117–328, §2211(4)(A)(i), inserted "deidentified" before "data, information" and ", in consultation with such State or consortium of States" after "require".
 
 Subsec. (d)(2)(C). Pub. L. 117–328, §2211(4)(A)(ii), inserted ", including any public-private partnerships or other partnerships entered into to improve such capacity" after "emergencies".
 
@@ -420,7 +420,7 @@ Subsec. (c)(2). Pub. L. 113–5, §204(a)(4)(C), added par. (2) and struck out f
 
 Subsec. (c)(3)(D). Pub. L. 113–5, §204(a)(4)(D), inserted "community health centers, health centers" after "of poison control,".
 
-Subsec. (c)(5)(A). Pub. L. 113–5, §204(a)(4)(E), added subpar. (A) and struck out former subpar. (A) whichread as follows: "utilize applicable interoperability standards as determined by the Secretary through a joint public and private sector process;".
+Subsec. (c)(5)(A). Pub. L. 113–5, §204(a)(4)(E), added subpar. (A) and struck out former subpar. (A) which read as follows: "utilize applicable interoperability standards as determined by the Secretary through a joint public and private sector process;".
 
 Subsec. (c)(6). Pub. L. 113–5, §204(a)(4)(F), added par. (6).
 

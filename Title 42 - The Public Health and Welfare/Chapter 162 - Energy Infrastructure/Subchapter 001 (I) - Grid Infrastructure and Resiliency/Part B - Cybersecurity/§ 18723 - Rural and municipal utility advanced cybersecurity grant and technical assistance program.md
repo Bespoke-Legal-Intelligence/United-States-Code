@@ -58,7 +58,7 @@ The objectives of the Program shall be—
 
 #### (2) Priority for grants and technical assistance
 
-&emsp;In awarding grants and providing technical assistance under the Program, the Secretary shall give priority to an eligible entity that, as determined by the Secretary—
+&emsp;In awarding grants and providing technical assistance under the Program, the Secretaryshall give priority to an eligible entity that, as determined by the Secretary—
 
 &emsp;&emsp;(A) has limited cybersecurity resources;
 

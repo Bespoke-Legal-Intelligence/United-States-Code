@@ -70,7 +70,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(C) the agreement among the recipient corporation, the lender, and the qualified trust relating to the loan meets the requirements of this section.
 
-(2) An employee stock ownership plan does not meet the requirements of this subsection unlessthe governing instrument of the plan provides that—
+(2) An employee stock ownership plan does not meet the requirements of this subsection unless the governing instrument of the plan provides that—
 
 &emsp;(A) the amount of the loan paid under paragraph (1)(A) to the qualified trust will be used to purchase qualified employer securities,
 
@@ -90,7 +90,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(E) it provides that the recipient corporation will make contributions to the qualified trust of not less than such amounts as are necessary for such trust to meet its obligation to make repayments of principal and interest on the amount of the loan received by the trust without regard to whether such contributions are deductible by the corporation under section 404 of title 26 and without regard to any other amounts the recipient corporation is obligated under law to contribute to or under the employee stock ownership plan.
 
-(4) At the close of each plan year, an employee stock ownership plan shall allocate to the accounts of participating employees that portion of the qualified employer securities the cost of which bears substantially the same ratio to the cost of all the qualified employer securities purchased under paragraph (2)(A) of this subsection as the amount of the loan principal and interest repaid by the qualified trust during that year bears to the total amount of the loan principal and interest payable by such trust during the term of such loan. Qualified employer securities allocated to the individual account of a participant during one plan year must bear substantially the same proportion to the amount of all such securities allocated to all participants in the plan as the amount of compensation paid to such participant bears to the total amount of compensation paid to all such participants during that year.
+(4) At the close of each plan year, an employee stock ownership plan shall allocate to the accounts of participating employees that portion of the qualified employer securities the cost of which bears substantially the same ratio to the cost of all the qualified employer securities purchased under paragraph (2)(A) of this subsection as the amount of the loan principal and interest repaid by the qualified trust during that year bears to the total amount of the loan principal and interest payable by such trust during the term of such loan. Qualified employer securities allocated to the individual account of a participant during one plan year must bear substantially the same proportion to the amount of all such securities allocated to all participants in the plan as the amount of compensation paid tosuch participant bears to the total amount of compensation paid to all such participants during that year.
 
 (5) For purposes of this subsection, the term—
 
@@ -124,7 +124,7 @@ In subsec. (f), "sections 1108(c) and (d), 1501, and 1502(a) of title 31" substi
 
 #### Prior Provisions
 
-A prior section 2345, Pub. L. 93–618, title II, §255, as added Pub. L. 111–5, div. B, title I, §1864(a)(3), Feb. 17, 2009, 123 Stat. 398; amended Pub. L. 111–344, title I,§101(c)(4), Dec. 29, 2010, 124 Stat. 3613; as added and amended Pub. L. 112–40, title II, §§201(b), (c), 221(b), Oct. 21, 2011, 125 Stat. 403, 410; as added and amended Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(2), June 29, 2015, 129 Stat. 374, ceased to be effective after the reversion, effective July 1, 2021, of this section to provisions in effect on Jan. 1, 2014, pursuant to section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title. Prior to reversion, section 2345 read as follows:
+A prior section 2345, Pub. L. 93–618, title II, §255, as added Pub. L. 111–5, div. B, title I, §1864(a)(3), Feb. 17, 2009, 123 Stat. 398; amended Pub. L. 111–344, title I, §101(c)(4), Dec. 29, 2010, 124 Stat. 3613; as added and amended Pub. L. 112–40, title II, §§201(b), (c), 221(b), Oct. 21, 2011, 125 Stat. 403, 410; as added and amended Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(2), June 29, 2015, 129 Stat. 374, ceased to be effective after the reversion, effective July 1, 2021, of this section to provisions in effect on Jan. 1, 2014, pursuant to section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title. Prior to reversion, section 2345 read as follows:
 
 #### "§2345. Authorization of appropriations
 

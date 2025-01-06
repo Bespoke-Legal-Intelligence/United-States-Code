@@ -136,7 +136,7 @@ The Director shall—
 
 #### (B) No reduction in retirement pay
 
-&emsp;&emsp;A Federal annuitant employed pursuant to this paragraph shall not be subject to any reduction in pay for annuity allocable to the period of actual employment under the provisions of section 8344 or 8468 of title 5 or similar provision of any other retirement system for employees.
+&emsp;&emsp;A Federal annuitant employed pursuant to this paragraph shall not be subject to anyreduction in pay for annuity allocable to the period of actual employment under the provisions of section 8344 or 8468 of title 5 or similar provision of any other retirement system for employees.
 
 #### (C) Re-employed annuitants
 
@@ -230,7 +230,7 @@ In this section:
 
 &emsp;The term "local" means—
 
-&emsp;&emsp;(A) of or pertaining to any county, parish, municipality, city, town, township, rural community, unincorporated town or village, local public authority, educational institution, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, any agency or instrumentality of a local government, or any other political subdivision of a State; and
+&emsp;&emsp;(A) of or pertaining to any county, parish, municipality, city, town, township, rural community, unincorporated town or village, local public authority, educational institution, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation underState law), regional or interstate government entity, any agency or instrumentality of a local government, or any other political subdivision of a State; and
 
 &emsp;&emsp;(B) an Indian tribe or authorized tribal organization, or in Alaska a Native village or Alaska Regional Native Corporation.
 
@@ -272,7 +272,7 @@ Government Printing Office redesignated Government Publishing Office. See sectio
 
 #### Rule of Construction
 
-Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, see section7143(f)(1) of Pub. L. 117–263, set out in a note under section 650 of this title.
+Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, see section 7143(f)(1) of Pub. L. 117–263, set out in a note under section 650 of this title.
 
 #### Standards for Measuring and Assessing the Quality and Effectiveness of Federal Law Enforcement Training
 

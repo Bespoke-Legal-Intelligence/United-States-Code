@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, acting through the Secretaries of the militarydepartments and the officers of Department of Defense agencies and offices not under the control of a Secretary of a military department, shall submit to the congressional defense committees each year, not later than 30 days after the submission of the budget of the President for the fiscal year beginning in such year under section 1105(a) of title 31, a report that includes organized tabulations of programs, projects, and activities in research, development, test, and evaluation, procurement, and military construction the total obligational authority for which was changed in the current budget year proposal compared to the prior-year projection for the current year.
+In General.—The Secretary of Defense, acting through the Secretaries of the military departments and the officers of Department of Defense agencies and offices not under the control of a Secretary of a military department, shall submit to the congressional defense committees each year, not later than 30 days after the submission of the budget of the President for the fiscal year beginning in such year under section 1105(a) of title 31, a report that includes organized tabulations of programs, projects, and activities in research, development, test, and evaluation, procurement, and military construction the total obligational authority for which was changed in the current budget year proposal compared to the prior-year projection for the current year.
 
 (b)
 

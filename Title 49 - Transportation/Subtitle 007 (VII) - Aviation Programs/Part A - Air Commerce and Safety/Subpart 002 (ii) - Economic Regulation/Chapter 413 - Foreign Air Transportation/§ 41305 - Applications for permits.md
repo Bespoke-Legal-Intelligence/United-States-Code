@@ -2,7 +2,7 @@
 
 (a)
 
-Form, Contents, Notice, Response, and Actions on Applications.—(1) A person must apply in writing to the Secretary of Transportation to be issued a permit under section 41302 of this title. The Secretary shall prescribe regulations to require that the application be—
+Form, Contents, Notice, Response, and Actions on Applications.—(1) A person mustapply in writing to the Secretary of Transportation to be issued a permit under section 41302 of this title. The Secretary shall prescribe regulations to require that the application be—
 
 &emsp;(A) verified;
 

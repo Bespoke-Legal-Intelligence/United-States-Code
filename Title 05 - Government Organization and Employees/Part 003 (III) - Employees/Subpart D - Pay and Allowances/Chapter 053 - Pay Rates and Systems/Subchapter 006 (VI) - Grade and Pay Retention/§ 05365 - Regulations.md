@@ -34,7 +34,7 @@ Amendment by Pub. L. 108–411 effective on the first day of the first applicabl
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or CoastGuard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Transfer of Functions
 

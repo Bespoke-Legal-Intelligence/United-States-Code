@@ -246,7 +246,7 @@ Subsection (b) of this section, section 4202(c) of this title, and section 4204(
 
 This chapter, referred to in subsecs. (a)(2)(A)(ii)(I) and (b)(1)(B)(ii)(IV), was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
-The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(1)(B), (3)(C), and (4)(C)(i), is title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
+The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec.\(b)(1)(B), (3)(C), and (4)(C)(i), is title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
 #### Amendments
 

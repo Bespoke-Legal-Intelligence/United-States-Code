@@ -14,7 +14,7 @@ Within three years after the date funds are made available therefor and concurre
 
 &emsp;(6) plans for the implementation of an archival system for materials, objects, and items of importance relating to the history of jazz; and
 
-&emsp;(7) guidelines for the application of cooperative agreements that will be used to assist in the management of historical park facilities and programs.
+&emsp;(7) guidelines for the application of cooperative agreements that will be used to assist inthe management of historical park facilities and programs.
 
 (Pub. L. 103–433, title XII, §1206, Oct. 31, 1994, 108 Stat. 4522.)
 

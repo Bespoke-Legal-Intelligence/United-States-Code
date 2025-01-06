@@ -4,6 +4,8 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 (Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### Codification
@@ -90,7 +92,7 @@ Pub. L. 101–628, title XIII, §1301, Nov. 28, 1990, 104 Stat. 4509, provided t
 
 Pub. L. 101–357, §1, Aug. 10, 1990, 104 Stat. 418, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Pemigewasset River Study Act of 1989'."
 
-Pub. L. 101–356, §1, Aug. 10, 1990, 104 Stat. 417, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Merrimack River Study Act of 1990'."
+Pub. L. 101–356, §1, Aug. 10, 1990, 104 Stat. 417, provided that: "This Act \[amending section 1276 of thistitle\] may be cited as the 'Merrimack River Study Act of 1990'."
 
 Pub. L. 101–306, §1, June 6, 1990, 104 Stat. 260, provided that: "This Act \[amending section 1274 of this title\] may be cited as the 'East Fork of the Jemez River and the Pecos River Wild and Scenic Rivers Addition Act of 1989'."
 

@@ -2,7 +2,7 @@
 
 #### (a) Quality measure
 
-In this subpart, the term "quality measure" means a standard for measuring the performance and improvement of population health orof health plans, providers of services, and other clinicians in the delivery of health care services.
+In this subpart, the term "quality measure" means a standard for measuring the performance and improvement of population health or of health plans, providers of services, and other clinicians in the delivery of health care services.
 
 #### (b) Identification of quality measures
 

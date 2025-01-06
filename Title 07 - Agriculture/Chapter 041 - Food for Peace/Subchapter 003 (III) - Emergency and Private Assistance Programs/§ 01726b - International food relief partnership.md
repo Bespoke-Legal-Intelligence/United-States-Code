@@ -36,11 +36,11 @@ Not more than 10 percent of the amount made available to carry out this section 
 
 #### (e) Regulations or guidelines
 
-Not later than 180 days after November 9, 2000, the Administrator, in consultation with the Secretary, shall issue such regulations or guidelines as the Administrator determines to be necessary to carry out this section, including regulations or guidelines that provide to United States nonprofit organizations eligible to receive grants under subsection (a)(1) guidance with respect to the requirements for qualified shelf-stable prepackaged foods and the quantity of the foods to be stockpiled by the organizations.
+Not later than 180 days after November 9, 2000, the Administrator, in consultation with the Secretary, shall issue such regulations or guidelines as the Administrator determines to be necessary to carry out this section, including regulationsor guidelines that provide to United States nonprofit organizations eligible to receive grants under subsection (a)(1) guidance with respect to the requirements for qualified shelf-stable prepackaged foods and the quantity of the foods to be stockpiled by the organizations.
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years2014 through 2023, to remain available until expended.
+There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
 (July 10, 1954, ch. 469, title II, §208, as added Pub. L. 106–472, title III, §310(a), Nov. 9, 2000, 114 Stat. 2075; amended Pub. L. 107–171, title III, §3008, May 13, 2002, 116 Stat. 283; Pub. L. 110–246, title III, §3013, June 18, 2008, 122 Stat. 1826; Pub. L. 113–79, title III, §3007, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, §3108, Dec. 20, 2018, 132 Stat. 4604.)
 

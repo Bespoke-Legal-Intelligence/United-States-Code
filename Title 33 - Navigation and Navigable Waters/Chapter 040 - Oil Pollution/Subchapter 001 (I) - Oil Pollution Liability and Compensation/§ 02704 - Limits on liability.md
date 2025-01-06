@@ -76,7 +76,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (1) Onshore facilities
 
-&emsp;Subject to paragraph (2), the President may establish by regulation, with respect to any class or category of onshore facility, a limit of liability under this section of less than $350,000,000, but not less than $8,000,000, takinginto account size, storage capacity, oil throughput, proximity to sensitive areas, type of oil handled, history of discharges, and other factors relevant to risks posed by the class or category of facility.
+&emsp;Subject to paragraph (2), the President may establish by regulation, with respect to any class or category of onshore facility, a limit of liability under this section of less than $350,000,000, but not less than $8,000,000, taking into account size, storage capacity, oil throughput, proximity to sensitive areas, type of oil handled, history of discharges, and other factors relevant to risks posed by the class or category of facility.
 
 #### (2) Deepwater ports and associated vessels
 

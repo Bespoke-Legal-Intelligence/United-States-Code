@@ -176,7 +176,7 @@ Use of funds.—During a covered public health emergency, the Secretary of Veter
 
 &emsp;&emsp;"(A) Assistance required for safety and survival (such as food, shelter, clothing, blankets, and hygiene items).
 
-&emsp;&emsp;"(B) Transportation required to support stability and health (such as for appointments with service providers, conducting housing searches, and obtaining food and supplies).
+&emsp;&emsp;"(B) Transportation required to support stability and health (such as for appointments with serviceproviders, conducting housing searches, and obtaining food and supplies).
 
 &emsp;&emsp;"(C) Communications equipment and services (such as tablets, smartphones, disposable phones, and related service plans) required to support stability and health (such as maintaining contact with service providers, prospective landlords, and family).
 
@@ -318,7 +318,7 @@ In general.—The term 'telehealth' means the use of electronic information and 
 
 &emsp;&emsp;"(B)
 
-Technologies.—For purposes of subparagraph (A), 'telecommunications technologies' include video conferencing, the internet, streaming media, and terrestrial and wireless communications."
+Technologies.—For purposes of subparagraph (A), 'telecommunications technologies' include video conferencing, the internet, streamingmedia, and terrestrial and wireless communications."
 
 #### Modifications to Comprehensive Service Programs for Homeless Veterans During a Public Health Emergency
 
@@ -340,7 +340,7 @@ Grants and Per Diem Payments.—(1) In the case of a public health emergency, th
 
 "(c)
 
-Participant Absence.—Notwithstanding Veterans Health Administration Handbook 1162.01(1), datedJuly 12, 2013, and amended June 30, 2014, and titled 'Grant and Per Diem (GPD) Program', or any other provision of law, for the duration of a public health emergency, the Secretary—
+Participant Absence.—Notwithstanding Veterans Health Administration Handbook 1162.01(1), dated July 12, 2013, and amended June 30, 2014, and titled 'Grant and Per Diem (GPD) Program', or any other provision of law, for the duration of a public health emergency, the Secretary—
 
 &emsp;"(1) shall waive any requirement to discharge a veteran from the grant and per diem program of the Veterans Health Administration after the veteran is absent for 14 days; and
 

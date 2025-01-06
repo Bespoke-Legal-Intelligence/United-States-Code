@@ -24,7 +24,7 @@ Factors to be considered.—In developing the list to be submitted under this su
 
 &emsp;(3)
 
-Accompanying synopsis.—Accompanying the annual listing of areas shall be a synopsis, for each report previously submitted, of the current and changed condition of the resource integrity of the area and other relevant factors, compiled as a result of continual periodic monitoring and embracing the period since the previous submission or initial report submission one year earlier.
+Accompanying synopsis.—Accompanying the annual listing of areas shall be a synopsis, for each report previously submitted, of the current and changed condition of the resource integrity of the area and other relevant factors, compiled as a result of continual periodicmonitoring and embracing the period since the previous submission or initial report submission one year earlier.
 
 &emsp;(4)
 
@@ -126,7 +126,7 @@ List of Areas That Exhibit Danger or Threats to the Integrity of Their Resources
 
 (f)
 
-Reports and Listings Printed as House Documents.—Each report and annual listing described in this section shall be printed as a House document. If adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing on receipt by the Speaker of the House of Representatives of a joint letter from the chairman of the Committee on Natural Resources of the House of Representatives and the chairman of the Committee on Energy andNatural Resources of Senate indicating that to be the case.
+Reports and Listings Printed as House Documents.—Each report and annual listing described in this section shall be printed as a House document. If adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing on receipt by the Speaker of the House of Representatives of a joint letterfrom the chairman of the Committee on Natural Resources of the House of Representatives and the chairman of the Committee on Energy and Natural Resources of Senate indicating that to be the case.
 
 (g)
 

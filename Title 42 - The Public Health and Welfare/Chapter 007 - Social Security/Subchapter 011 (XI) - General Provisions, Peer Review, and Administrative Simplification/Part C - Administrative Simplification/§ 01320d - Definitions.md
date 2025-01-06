@@ -42,7 +42,7 @@ For purposes of this part:
 
 &emsp;&emsp;(F) A Medicare supplemental policy (as defined in section 1395ss(g)(1) of this title).
 
-&emsp;&emsp;(G) A long-term care policy, including a nursing home fixed indemnity policy (unless the Secretary determines that such a policy does not provide sufficiently comprehensive coverage of a benefit so that the policy should be treated as a health plan).
+&emsp;&emsp;(G) A long-term care policy, including a nursing home fixed indemnity policy (unless the Secretary determines that such a policy does not provide sufficiently comprehensivecoverage of a benefit so that the policy should be treated as a health plan).
 
 &emsp;&emsp;(H) An employee welfare benefit plan or any other arrangement which is established or maintained for the purpose of offering or providing health benefits to the employees of 2 or more employers.
 

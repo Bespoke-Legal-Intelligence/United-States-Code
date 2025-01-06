@@ -8,13 +8,13 @@
 
 &emsp;(3) if an enlisted member of a regular component, be reenlisted in the regular grade held by him when his name was placed on the temporary disability retired list or in the next higher regular enlisted grade;
 
-&emsp;(4) if a commissioned, warrant, or enlisted Reserve, be reappointed or reenlisted as a Reserve for service in his reserve component inthe reserve grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be;
+&emsp;(4) if a commissioned, warrant, or enlisted Reserve, be reappointed or reenlisted as a Reserve for service in his reserve component in the reserve grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be;
 
 &emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when his name was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
 
 &emsp;(6) if a member of the Army, the Air Force, or the Space Force who has no regular or reserve grade, be reappointed or reenlisted in the Army, the Air Force, or the Space Force, as the case may be, in the temporary grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher temporary grade.
 
-(b) With his consent, any member of the naval service or of the Coast Guard whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, rank, or rating under section 1210(f) of this title, shall—
+(b) With his consent, any member of the naval service or of the Coast Guard whose name is onthe temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, rank, or rating under section 1210(f) of this title, shall—
 
 &emsp;(1) if he held an appointment in a commissioned grade in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher grade;
 
@@ -40,7 +40,7 @@
 
 (f) Action under this section shall be taken on a fair and equitable basis, with regard being given to the probable opportunities for advancement and promotion that the member might reasonably have had if his name had not been placed on the temporary disability retired list.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 96; Pub. L. 87–651, title I, §107(b), Sept. 7, 1962, 76 Stat. 508; Pub. L. 96–513, title V, §501(17), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 99–145, title V, §513(a)(3), Nov. 8, 1985, 99 Stat. 627; Pub. L. 107–107, div. A, titleV, §505(c)(4), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 116–283, div. A, title IX, §924(b)(24), Jan. 1, 2021, 134 Stat. 3824.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 96; Pub. L. 87–651, title I, §107(b), Sept. 7, 1962, 76 Stat. 508; Pub. L. 96–513, title V, §501(17), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 99–145, title V, §513(a)(3), Nov. 8, 1985, 99 Stat. 627; Pub. L. 107–107, div. A, title V, §505(c)(4), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 116–283, div. A, title IX, §924(b)(24), Jan. 1, 2021, 134 Stat. 3824.)
 
 Historical and Revision Notes<br>1956
 

@@ -50,7 +50,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies,and that the State will, in adopting such standards—
+&emsp;The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies, and that the State will, in adopting such standards—
 
 &emsp;&emsp;(A) take into account national standards that outline resources for optimal care of injured patients;
 

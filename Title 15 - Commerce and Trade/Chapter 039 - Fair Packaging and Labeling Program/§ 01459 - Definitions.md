@@ -6,13 +6,13 @@ For the purpose of this chapter—
 
 &emsp;(1) any meat or meat product, poultry or poultry product, or tobacco or tobacco product;
 
-&emsp;(2) any commodity subject to packaging or labeling requirements imposed by the Secretary of Agriculture pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], or the provisions of the eighth paragraph under the heading "Bureau of Animal Industry" of the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\], commonly known as the Virus-Serum-Toxin Act;
+&emsp;(2) any commodity subject to packaging or labeling requirements imposed by the Secretary of Agriculture pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], or the provisions of the eighth paragraph under the heading "Bureau of Animal Industry" of the Act of March 4, 1913 (37 Stat. 832–833; 21 U.S.C. 151–157),<sup>1</sup> commonly known as the Virus-Serum-Toxin Act;
 
-&emsp;(3) any drug subject to the provisions of section 503(b)(1) or 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(b)(1) and 356\];
+&emsp;(3) any drug subject to the provisions of section 503(b)(1) or 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)(1) and 356);
 
-&emsp;(4) any beverage subject to or complying with packaging or labeling requirements imposed under the Federal Alcohol Administration Act \[27 U.S.C. 201 et seq.\]; or
+&emsp;(4) any beverage subject to or complying with packaging or labeling requirements imposed under the Federal Alcohol Administration Act (27 U.S.C. 201 et seq.); or
 
-&emsp;(5) any commodity subject to the provisions of the Federal Seed Act \[7 U.S.C. 1551 et seq.\].
+&emsp;(5) any commodity subject to the provisions of the Federal Seed Act (7 U.S.C. 1551–1610).<sup>1</sup>
 
 (b) The term "package" means any container or wrapping in which any consumer commodity is enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does not include—
 
@@ -55,4 +55,6 @@ The Federal Seed Act, referred to in subsec. (a)(5), is act Aug. 9, 1939, ch. 61
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–628 effective 60 days after Oct. 22, 1968, see section 3 of Pub. L. 90–628, set out as a note under section 251 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

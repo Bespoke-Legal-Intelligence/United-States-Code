@@ -1,6 +1,6 @@
 ### §10222. Notice and hearing on denial or termination of grant
 
-Whenever, after reasonable notice and opportunity for a hearing on the record in accordance with section 554 of title 5, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics finds that a recipient of assistance under this chapter has failed to comply substantially with—
+Whenever, after reasonable notice and opportunity for a hearing on the record in accordancewith section 554 of title 5, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics finds that a recipient of assistance under this chapter has failed to comply substantially with—
 
 &emsp;(1) any provisions of this chapter;
 
@@ -8,7 +8,7 @@ Whenever, after reasonable notice and opportunity for a hearing on the record in
 
 &emsp;(3) any application submitted in accordance with the provisions of this chapter, or the provisions of any other applicable Federal Act;
 
-> the Director involved shall, until satisfied that there is no longer any such failure to comply, terminate payments to the recipient under thischapter, reduce payments to the recipient under this chapter by an amount equal to the amount of such payments which were not expended in accordance with this chapter, or limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply.
+> the Director involved shall, until satisfied that there is no longer any such failure to comply, terminate payments to the recipient under this chapter, reduce payments to the recipient under this chapter by an amount equal to the amount of such payments which were not expended in accordance with this chapter, or limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply.
 
 (Pub. L. 90–351, title I, §802, formerly §803, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1202; renumbered §802 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, §1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(3), title VIII, §801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(2), title XXXIII, §330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139; Pub. L. 107–273, div. C, title I, §11012, Nov. 2, 2002, 116 Stat. 1823; Pub. L. 109–162, title XI, §1155(1), Jan. 5, 2006, 119 Stat. 3113.)
 

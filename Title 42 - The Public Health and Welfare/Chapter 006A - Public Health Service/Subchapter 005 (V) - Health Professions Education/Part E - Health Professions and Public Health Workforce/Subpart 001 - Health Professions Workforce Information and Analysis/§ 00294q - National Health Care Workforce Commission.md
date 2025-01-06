@@ -180,7 +180,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (6) Study
 
-&emsp;The Commission shall study effective mechanisms for financing education and trainingfor careers in health care, including public health and allied health.
+&emsp;The Commission shall study effective mechanisms for financing education and training for careers in health care, including public health and allied health.
 
 #### (7) Recommendations
 
@@ -260,7 +260,7 @@ In this section:
 
 #### (1) Health care workforce
 
-&emsp;The term "health care workforce" includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers,health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrative health practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
+&emsp;The term "health care workforce" includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers, health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrative health practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
 
 #### (2) Health professionals
 
@@ -282,7 +282,7 @@ In this section:
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification ofthis Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -320,7 +320,7 @@ Subsec. (c)(2)(D). Pub. L. 117–286, §4(c)(40), substituted "subchapter I of c
 
 <b>2014</b>—Subsec. (d)(3)(D). Pub. L. 113–128 substituted "other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act," for "other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
 
-<b>2010</b>—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, §10501(a)(1), inserted ", including representatives ofsmall business and self-employed individuals" after "employers".
+<b>2010</b>—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, §10501(a)(1), inserted ", including representatives of small business and self-employed individuals" after "employers".
 
 Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, §10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
@@ -368,7 +368,7 @@ Health care career pathway.—The term 'healthcare career pathway' means a rigor
 
 &emsp;&emsp;"(D) provides academic and career counseling in student-to-counselor ratios that allow students to make informed decisions about academic and career options;
 
-&emsp;&emsp;"(E) meets State academic standards, State requirements for secondary school graduation and is aligned with requirements for entry into postsecondary education, and applicable industry standards; and
+&emsp;&emsp;"(E) meets State academic standards, State requirements for secondary school graduation and isaligned with requirements for entry into postsecondary education, and applicable industry standards; and
 
 &emsp;&emsp;"(F) leads to 2 or more credentials, including—
 

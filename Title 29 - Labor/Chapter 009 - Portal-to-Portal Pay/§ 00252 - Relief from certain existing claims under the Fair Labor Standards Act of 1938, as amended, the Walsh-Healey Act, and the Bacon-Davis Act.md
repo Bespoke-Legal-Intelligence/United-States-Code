@@ -14,7 +14,7 @@ For the purposes of subsection (a), an activity shall be considered as compensab
 
 #### (c) Time of employment
 
-In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act, or of the Bacon-Davis Act,<sup>1</sup> in determining the time for which an employer employed an employee there shall be counted all that time, but only that time, during which the employee engaged in activities which were compensable within the meaning of subsections (a) and (b) of this section.
+In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29U.S.C. 201 et seq.\], of the Walsh-Healey Act, or of the Bacon-Davis Act,<sup>1</sup> in determining the time for which an employer employed an employee there shall be counted all that time, but only that time, during which the employee engaged in activities which were compensable within the meaning of subsections (a) and (b) of this section.
 
 #### (d) Jurisdiction
 

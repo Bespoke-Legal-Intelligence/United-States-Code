@@ -38,7 +38,7 @@ Data on benefits received.—
 
 &emsp;&emsp;"(A) The number of workers receiving benefits under this part.
 
-&emsp;&emsp;"(B) The number of workers receiving each type of benefit, including training, trade readjustment allowances (including such allowances classified by payments under paragraphs (1) and (3) of section 2293(a) of this title, and section 2293(f) of this title, respectively) and payments under section 2318 of this title, employment and case management services, and relocation and job search allowances, and, to the extent feasible, credits for health insurance costs under section 35 of title 26.
+&emsp;&emsp;"(B) The number of workers receiving each type of benefit, including training, trade readjustment allowances (including such allowances classified bypayments under paragraphs (1) and (3) of section 2293(a) of this title, and section 2293(f) of this title, respectively) and payments under section 2318 of this title, employment and case management services, and relocation and job search allowances, and, to the extent feasible, credits for health insurance costs under section 35 of title 26.
 
 &emsp;&emsp;"(C) The average time during which such workers receive each such type of benefit.
 

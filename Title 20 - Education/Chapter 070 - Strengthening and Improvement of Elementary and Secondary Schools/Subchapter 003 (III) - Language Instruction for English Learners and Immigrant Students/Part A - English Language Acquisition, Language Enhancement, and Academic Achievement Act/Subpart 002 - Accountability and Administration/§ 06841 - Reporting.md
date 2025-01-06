@@ -6,7 +6,7 @@ Each eligible entity that receives a subgrant from a State educational agency un
 
 &emsp;(1) a description of the programs and activities conducted by the entity with funds received under subpart 1 during the 2 immediately preceding fiscal years, which shall include a description of how such programs and activities supplemented programs funded primarily with State or local funds;
 
-&emsp;(2) the number and percentage of English learners in the programs and activities who are making progress toward achieving English language proficiency, as described in section 6311(c)(4)(A)(ii) of this title, in the aggregate and disaggregated, at a minimum, by English learners with a disability;
+&emsp;(2) the number and percentage of English learners in the programs and activities who are making progress toward achieving English language proficiency, as described in section6311(c)(4)(A)(ii) of this title, in the aggregate and disaggregated, at a minimum, by English learners with a disability;
 
 &emsp;(3) the number and percentage of English learners in the programs and activities attaining English language proficiency based on State English language proficiency standards established under section 6311(b)(1)(G) <sup>1</sup> of this title by the end of each school year, as determined by the State's English language proficiency assessment under section 6311(b)(2)(G) of this title;
 

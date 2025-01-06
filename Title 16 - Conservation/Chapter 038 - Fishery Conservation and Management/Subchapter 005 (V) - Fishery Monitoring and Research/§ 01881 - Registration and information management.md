@@ -104,7 +104,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 &emsp;&emsp;The program shall take into consideration and, to the extent feasible, implement the recommendations of the National Research Council in its report Review of Recreational Fisheries Survey Methods (2006), including—
 
-&emsp;&emsp;&emsp;(i) redesigning the Survey to improve the effectiveness and appropriateness ofsampling and estimation procedures, its applicability to various kinds of management decisions, and its usefulness for social and economic analyses; and
+&emsp;&emsp;&emsp;(i) redesigning the Survey to improve the effectiveness and appropriateness of sampling and estimation procedures, its applicability to various kinds of management decisions, and its usefulness for social and economic analyses; and
 
 &emsp;&emsp;&emsp;(ii) providing for ongoing technical evaluation and modification as needed to meet emerging management needs.
 
@@ -184,7 +184,7 @@ The Secretary shall—
 
 &emsp;&emsp;(B) alternative management approaches that could be applied to recreational fisheries for which the Marine Recreational Information Program is not meeting the needs of in-season management of annual catch limits, consistent with other requirements of this chapter, until such time as the changes in subparagraph (A) are implemented.
 
-(Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605;amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, §202, Dec. 31, 2018, 132 Stat. 5359.)
+(Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605; amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, §202, Dec. 31, 2018, 132 Stat. 5359.)
 
 #### <b>Editorial Notes</b>
 

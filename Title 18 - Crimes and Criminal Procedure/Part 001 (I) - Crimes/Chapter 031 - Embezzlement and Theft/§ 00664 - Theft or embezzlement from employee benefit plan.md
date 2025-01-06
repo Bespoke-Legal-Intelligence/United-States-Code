@@ -30,7 +30,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in sect
 
 #### Effective Date
 
-Pub. L. 87–420, §19, Mar. 20, 1962, 76 Stat. 43, provided that: "The amendments made by this Act \[see Short Title note below\] shall take effect ninety days after the enactment of this Act \[Mar. 20, 1962\], except that section 13 of the Welfare and Pension Plans Disclosure Act \[section 308d of Title 29, Labor\] shall take effect one hundred eighty days after such date of enactment."
+Pub. L. 87–420, §19, Mar. 20, 1962, 76 Stat. 43, provided that: "The amendments made by this Act \[see ShortTitle note below\] shall take effect ninety days after the enactment of this Act \[Mar. 20, 1962\], except that section 13 of the Welfare and Pension Plans Disclosure Act \[section 308d of Title 29, Labor\] shall take effect one hundred eighty days after such date of enactment."
 
 #### Short Title
 

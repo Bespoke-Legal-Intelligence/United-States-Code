@@ -54,15 +54,67 @@
 
 #### (1) In general
 
-&emsp;The Secretary—
+#### (A) Non-Federal use
 
-&emsp;&emsp;(A) may permit the use of any dredged material disposal facility under the jurisdiction of, or managed by, the Secretary by a non-Federal interest if the Secretary determines that such use will not reduce the availability of the facility for project purposes; and
+&emsp;&emsp;The Secretary—
 
-&emsp;&emsp;(B) may impose fees to recover capital, operation, and maintenance costs associated with such use.
+&emsp;&emsp;&emsp;(i) at the request of a non-Federal entity, may permit the use of any dredged material disposal facility under the jurisdiction of, or managed by, the Secretary by the non-Federal entity if the Secretary determines that such use will not reduce theavailability of the facility for the authorized water resources development project on a channel in the vicinity of the disposal facility;
 
-#### (2) Use of fees
+&emsp;&emsp;&emsp;(ii) at the request of a non-Federal entity, shall permit the non-Federal entity to use a non-Federal disposal facility for the disposal of material dredged by the non-Federal entity, regardless of any connection to a Federal navigation project, if—
 
-&emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
+&emsp;&emsp;&emsp;&emsp;(I) permission for such use has been granted by the owner of the non-Federal disposal facility; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary determines that the dredged material disposal needs required to maintain, perform authorized deepening, or restore the navigability and functionality of authorized navigation channels in the vicinity of the non-Federal disposal facility for the 20-year period following the date of the request, including all planned and routine dredging operations necessary to maintain such channels for the authorized purposes during such period, can be met by the available gross capacity of other dredged material disposal facilities in the vicinity of the non-Federal disposal facility; and
+
+&emsp;&emsp;&emsp;(iii) shall impose fees to recover capital, operation, and maintenance costs associated with such uses.
+
+#### (B) Determinations
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) delegate determinations under clauses (i) and (ii)(II) of subparagraph (A) to the District Commander of the district in which the relevant disposal facility is located; and
+
+&emsp;&emsp;&emsp;(ii) make such determinations not later than 90 days after receiving the applicable request.
+
+#### (2) Fees
+
+#### (A) Use
+
+&emsp;&emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
+
+#### (B) Reduction in amount
+
+&emsp;&emsp;In collecting any fee under this subsection, the Secretary shall reduce the amount imposed under paragraph (1)(A)(iii) to account for improvements made to the non-Federal disposal facility by the non-Federal entity to recover the capacity of the non-Federal disposal facility.
+
+#### (3) Disposition studies
+
+#### (A) Requirement
+
+&emsp;&emsp;Upon request by the owner of a non-Federal disposal facility, the Secretary shall carry out a disposition study of the non-Federal disposal facility, in accordance with section 578b of this title, if—
+
+&emsp;&emsp;&emsp;(i) the Secretary has not used the non-Federal disposal facility for the disposal of dredged material during the 20-year period preceding the date of the request; and
+
+&emsp;&emsp;&emsp;(ii) the Secretary determines that the non-Federal disposal facility is not needed for such use by the Secretary during the 20-year period following the date of the request.
+
+#### (B) Conclusive presumptions
+
+&emsp;&emsp;For purposes of carrying out a disposition study required under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) consider the non-Federal disposal facility to be a separable element of a project; and
+
+&emsp;&emsp;&emsp;(ii) consider a Federal interest in the non-Federal disposal facility to no longer exist.
+
+#### (4) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Gross capacity
+
+&emsp;&emsp;The term "gross capacity" means the total quantity of dredged material that may be placed in a dredged material disposal facility, taking into consideration any additional capacity that can be constructed at the facility.
+
+#### (B) Non-Federal disposal facility
+
+&emsp;&emsp;The term "non-Federal disposal facility" means a dredged material disposal facility under the jurisdiction of, or managed by, the Secretary that is owned by a non-Federal entity.
 
 #### (c) Dredged material facility
 
@@ -76,7 +128,7 @@
 
 #### (3) Multiple projects
 
-&emsp;If appropriate, the Secretary may combine portions of separate water resources projectswith appropriate combined cost-sharing among the various water resources projects in a partnership agreement for a facility under this subsection if the facility serves to manage dredged material from multiple water resources projects located in the geographic region of the facility.
+&emsp;If appropriate, the Secretary may combine portions of separate water resources projects with appropriate combined cost-sharing among the various water resources projects in a partnership agreement for a facility under this subsection if the facility serves to manage dredged material from multiple water resources projects located in the geographic region of the facility.
 
 #### (4) Specified Federal funding sources and cost sharing
 
@@ -146,9 +198,9 @@
 
 #### (E) Budget Act compliance
 
-&emsp;&emsp;Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extentand in such amounts as are provided in appropriation Acts.
+&emsp;&emsp;Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, §2005, Nov. 8, 2007, 121 Stat. 1071; Pub. L. 116–260, div. AA, title I, §145, Dec. 27, 2020, 134 Stat. 2654.)
+(Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, §2005, Nov. 8, 2007, 121 Stat. 1071; Pub. L. 116–260, div. AA, title I, §145, Dec. 27, 2020, 134 Stat. 2654; Pub. L.118–272, div. A, title I, §1119(a), Jan. 4, 2025, 138 Stat. 3012.)
 
 #### <b>Editorial Notes</b>
 
@@ -161,6 +213,16 @@ The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Con
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (b)(1). Pub. L. 118–272, §1119(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary—
+
+&emsp;"(A) may permit the use of any dredged material disposal facility under the jurisdiction of, or managed by, the Secretary by a non-Federal interest if the Secretary determines that such use will not reduce the availability of the facility for project purposes; and
+
+&emsp;"(B) may impose fees to recover capital, operation, and maintenance costs associated with such use."
+
+Subsec. (b)(2). Pub. L. 118–272, §1119(a)(2), substituted "Fees" for "Use of fees" in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
+
+Subsec. (b)(3), (4). Pub. L. 118–272, §1119(a)(3), added pars. (3) and (4).
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §145(1), inserted "or replacement capacity" after "Additional capacity" in heading.
 
@@ -179,6 +241,14 @@ Subsec. (d)(1). Pub. L. 110–114, §2005(3), inserted "and maintenance" after "
 Subsec. (d)(2)(A). Pub. L. 110–114, §2005(3), inserted "and maintenance" after "operation" and "processing, treatment, contaminant reduction, or" after "of a dredged material".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Savings Provision
+
+Pub. L. 118–272, div. A, title I, §1119(b), Jan. 4, 2025, 138 Stat. 3014, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] shall affect—
+
+&emsp;"(1) an agreement between the Secretary \[of the Army\] and a non-Federal interest that is in effect on the date of enactment of this Act \[Jan. 4, 2025\], except that, upon request by the non-Federal interest party to such agreement, the Secretary and the non-Federal interest may modify such agreement; or
+
+&emsp;"(2) the inclusion in an agreement between the Secretary and a non-Federal interest entered into after the date of enactment of this Act of a dredged material disposal facility that is included in an agreement between the Secretary and a non-Federal interest in effect on the date of enactment of this Act, unless the non-Federal interest is notified and agrees."
 
 #### "Secretary" Defined
 

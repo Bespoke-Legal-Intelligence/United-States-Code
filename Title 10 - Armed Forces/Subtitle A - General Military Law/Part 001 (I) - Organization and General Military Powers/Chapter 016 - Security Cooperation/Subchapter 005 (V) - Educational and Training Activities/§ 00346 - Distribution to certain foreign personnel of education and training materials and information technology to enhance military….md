@@ -94,7 +94,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(B) A description of the current capabilities of the military forces of friendly foreign countries to support mission training through distributed simulation activities with the United States Armed Forces.
 
-&emsp;&emsp;"(C) A description of the manner in which the Department intends to use mission training throughdistributed simulation activities to support implementation of the National Defense Strategy, including in areas of responsibility of the United States European Command and the United States Indo-Pacific Command.
+&emsp;&emsp;"(C) A description of the manner in which the Department intends to use mission training through distributed simulation activities to support implementation of the National Defense Strategy, including in areas of responsibility of the United States European Command and the United States Indo-Pacific Command.
 
 &emsp;&emsp;"(D) Any recommendation of the Secretary of Defense for legislative proposals or policy guidance regarding the use of mission training through distributed simulation activities.
 

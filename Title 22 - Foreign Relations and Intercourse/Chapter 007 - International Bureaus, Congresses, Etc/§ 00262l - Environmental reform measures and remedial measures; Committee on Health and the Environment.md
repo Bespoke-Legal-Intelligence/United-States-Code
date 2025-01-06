@@ -16,7 +16,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;&emsp;(iii) institution of a regular program of monitoring all ongoing projects to ensure that contract conditions and general bank policies to protect the environment and indigenous peoples are fully complied with;
 
-&emsp;&emsp;(C) create career and other institutional incentives for all professionally trainedbank staff to incorporate environmental and natural resources concerns into project planning and country programming activities;
+&emsp;&emsp;(C) create career and other institutional incentives for all professionally trained bank staff to incorporate environmental and natural resources concerns into project planning and country programming activities;
 
 &emsp;(2) vigorously promote changes in these institutions in their preparation of projects and country programs that will prompt staff and encourage borrower countries to—
 
@@ -58,7 +58,7 @@ The Secretaries of Treasury and State, and the Administrator of the Agency for I
 
 #### (c) Additional initiatives
 
-The Secretary of the Treasury and the Secretary of State shall regularly undertake and continue diplomatic and other initiatives, in addition to those mentioned in subsection (a)(5), to discuss measures to improve the environmental performance of the Multilateral DevelopmentBanks with the representatives to these institutions, and with ministries from which they receive their instructions, of borrower and donor nations. In particular, joint efforts shall be undertaken with borrowers and donors to ensure cooperative implementation of the reforms described above.
+The Secretary of the Treasury and the Secretary of State shall regularly undertake and continue diplomatic and other initiatives, in addition to those mentioned in subsection (a)(5), to discuss measures to improve the environmental performance of the Multilateral Development Banks with the representatives to these institutions, and with ministries from which they receive their instructions, of borrower and donor nations. In particular, joint efforts shall be undertaken with borrowers and donors to ensure cooperative implementation of the reforms described above.
 
 #### (d) Special meetings of Boards of Governors
 
@@ -76,7 +76,7 @@ In the report of the Secretary of the Treasury required by subsection (e), regar
 
 The Administrator of the Agency for International Development in conjunction with the Secretaries of Treasury and State shall—
 
-&emsp;(1) instruct overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
+&emsp;(1) instruct overseas missions of the Agency for International Development and embassiesof the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
 
 &emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories of projects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
 

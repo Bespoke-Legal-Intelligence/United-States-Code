@@ -154,7 +154,7 @@ Subsec. (f)(1)(H). Pub. L. 111–282, §2(b)(3), added subpar. (H) relating to a
 
 <b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted "closure of, and any realignment with respect to," for "closure of", and added subpar. (B).
 
-Pub. L. 103–337, §341(c), substituted "the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation" for "the closure of an installation".
+Pub. L. 103–337, §341(c), substituted "the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990\(part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation" for "the closure of an installation".
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 

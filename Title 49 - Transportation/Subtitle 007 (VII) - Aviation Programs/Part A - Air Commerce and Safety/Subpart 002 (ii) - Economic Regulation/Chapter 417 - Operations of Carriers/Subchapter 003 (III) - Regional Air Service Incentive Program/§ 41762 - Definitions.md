@@ -16,7 +16,7 @@ Capital reserve subsidy amount.—The term "capital reserve subsidy amount" mean
 
 &emsp;(4)
 
-Commuter air carrier.—The term "commuter air carrier" means an air carrier that primarily operates aircraft designed to have amaximum passenger seating capacity of 75 or less in accordance with published flight schedules.
+Commuter air carrier.—The term "commuter air carrier" means an air carrier that primarily operates aircraft designed to have a maximum passenger seating capacity of 75 or less in accordance with published flight schedules.
 
 &emsp;(5)
 

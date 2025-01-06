@@ -92,7 +92,7 @@ Purpose.—The working group shall—
 
 &emsp;"(2) examine Federal and State laws and regulations governing such policies, procedures, and practices and any applicable environmental laws; and
 
-&emsp;"(3) within 90 days after the date of enactment of the \[this\] Act \[Jan. 28, 2008\], submit a plan to the Committee on Armed Services and the Committee on Commerce, Science and Transportation of the Senate and the Committee on Armed Services of the House of Representatives to improve and harmonize practices for storage and disposal of such vessels, including the interim transportation of such vessels.
+&emsp;"(3) within 90 days after the date of enactment of the \[this\] Act \[Jan. 28, 2008\], submit a plan to the Committee on Armed Services and the Committee onCommerce, Science and Transportation of the Senate and the Committee on Armed Services of the House of Representatives to improve and harmonize practices for storage and disposal of such vessels, including the interim transportation of such vessels.
 
 "(d)
 

@@ -38,7 +38,7 @@ In subsection (c) the words "or if because the whole has been appropriated to th
 
 #### Prior Provisions
 
-A prior section 8853, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1538; amended Pub. L. 86–559, §1(75), June 30, 1960, 74 Stat. 280; Pub. L. 98–94, title X, §1016(c), Sept. 24, 1983, 97 Stat. 668, related to computation of years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14706 of this title.
+A prior section 8853, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1538; amended Pub. L. 86–559, §1(75), June 30, 1960, 74 Stat. 280; Pub. L. 98–94, title X,§1016(c), Sept. 24, 1983, 97 Stat. 668, related to computation of years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14706 of this title.
 
 #### Amendments
 

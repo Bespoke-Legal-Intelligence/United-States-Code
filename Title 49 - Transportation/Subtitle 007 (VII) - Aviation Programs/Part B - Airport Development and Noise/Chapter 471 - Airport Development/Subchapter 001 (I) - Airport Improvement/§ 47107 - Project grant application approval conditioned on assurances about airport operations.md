@@ -34,11 +34,11 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;(9) appropriate action will be taken to ensure that terminal airspace required to protect instrument and visual operations to the airport (including operations at established minimum flight altitudes) will be cleared and protected by mitigating existing, and preventing future, airport hazards;
 
-&emsp;(10) appropriate action, including the adoption of zoning laws, has been or will be taken to the extent reasonable to restrict the use of land next to or near the airport to uses thatare compatible with normal airport operations;
+&emsp;(10) appropriate action, including the adoption of zoning laws, has been or will be taken to the extent reasonable to restrict the use of land next to or near the airport to uses that are compatible with normal airport operations;
 
 &emsp;(11) each of the airport's facilities developed with financial assistance from the United States Government and each of the airport's facilities usable for the landing and taking off of aircraft always will be available without charge for use by Government aircraft in common with other aircraft, except that if the use is substantial, the Government may be charged a reasonable share, proportionate to the use, of the cost of operating and maintaining the facility used;
 
-&emsp;(12) the airport owner or operator will provide, without charge to the Government, property interests of the sponsor in land or water areas or buildings that the Secretary decides are desirable for, and that will be used for, constructing at Government expense, facilities for carrying out activities related to air traffic control or navigation;
+&emsp;(12) the airport owner or operator will provide, without charge to the Government, property interests of the sponsor in land or water areas or buildings that the Secretary decides are desirable for, and that will be used for,constructing at Government expense, facilities for carrying out activities related to air traffic control or navigation;
 
 &emsp;(13) the airport owner or operator will maintain a schedule of charges for use of facilities and services at the airport—
 
@@ -54,11 +54,11 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(A) the plan will be in a form the Secretary prescribes;
 
-&emsp;&emsp;(B) the Secretary will review and approve or disapprove only those portions of the plan (or any subsequent revision to the plan) that materially impact the safe and efficient operation of aircraft at, to, or from the airport or that would adversely affect the safety of people or property on the ground adjacent to the airport as a result of aircraft operations, or that adversely affect the value of prior Federal investments to a significant extent;
+&emsp;&emsp;(B) subject to subsection (x), the Secretary will review and approve or disapprove the plan and any revision or modification of the plan before the plan, revision, or modification takes effect;
 
 &emsp;&emsp;(C) the owner or operator will not make or allow any alteration in the airport or any of its facilities unless the alteration—
 
-&emsp;&emsp;&emsp;(i) is outside the scope of the Secretary's review and approval authority as set forth in subparagraph (B); or
+&emsp;&emsp;&emsp;(i) is outside the scope of the Secretary's review and approval authority as set forth in subsection (x); or
 
 &emsp;&emsp;&emsp;(ii) complies with the portions of the plan approved by the Secretary; and
 
@@ -78,13 +78,23 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(B) all services and property provided to other units of government and the amount of compensation received for provision of each such service and property;
 
-&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable, intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
+&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable, intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation;
 
-&emsp;(21) if the airport owner or operator and a person who owns an aircraft agree that a hangar is to be constructed at the airport for the aircraft at the aircraft owner's expense, the airport owner or operator will grant to the aircraft owner for the hangar a long-term lease that is subject to such terms and conditions on the hangar as the airport owner or operator may impose.
+&emsp;(21) if the airport owner or operator and a person who owns an aircraft agree that a hangar is to be constructed at the airport for the aircraft at the aircraft owner's expense, the airport owner or operator will grant to the aircraft owner for the hangar a long-term lease that is subject to such terms and conditions on the hangar as the airport owner or operator may impose; and
+
+&emsp;(22) the airport owner or operator may not restrict or prohibit the sale or self-fueling of any 100-octane low lead aviation gasoline for purchase or use by operators of general aviation aircraft if such aviation gasoline was available at such airport at any time during calendar year 2022, until the earlier of—
+
+&emsp;&emsp;(A) December 31, 2030; or
+
+&emsp;&emsp;(B) the date on which the airport or any retail fuel seller at such airport makes available an unleaded aviation gasoline that—
+
+&emsp;&emsp;&emsp;(i) has been authorized for use by the Administrator of the Federal Aviation Administration as a replacement for 100-octane low lead aviation gasoline for use in nearly all piston-engine aircraft and engine models; and
+
+&emsp;&emsp;&emsp;(ii) meets either an industry consensus standard or other standard that facilitates the safe use, production, and distribution of such unleaded aviation gasoline, as determined appropriate by the Administrator.
 
 (b)
 
-Written Assurances on Use of Revenue.—(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that local taxes on aviation fuel (except taxes in effect on December 30, 1987) and the revenues generated by a public airport will be expended for the capital or operating costs of—
+Written Assurances on Use of Revenue.—(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development projectonly if the Secretary receives written assurances, satisfactory to the Secretary, that local taxes on aviation fuel (except taxes in effect on December 30, 1987) and the revenues generated by a public airport will be expended for the capital or operating costs of—
 
 &emsp;(A) the airport;
 
@@ -324,7 +334,7 @@ Administrative action.—The Secretary may withhold any amount from funds that w
 
 &emsp;(4)
 
-Civil action.—If a sponsor fails to pay an amount specified under paragraph (3) during the 180-day period beginning on the date of notification and the Secretary is unable to withhold a sufficient amount under paragraph (3), the Secretary, acting through the Administrator, may initiate a civil action under which the sponsor shall be liable for civil penalty in an amount equal to the illegal diversion in question plus interest (as determined under subsection (n)).
+Civil action.—If a sponsor fails to pay an amount specified under paragraph (3) during the 180-day period beginning on the date of notification and the Secretary is unable to withhold a sufficient amount under paragraph (3), the Secretary, acting through the Administrator, may initiate a civil action under which the sponsor shall be liable for civil penalty in an amount equal to double the illegal diversion in question plus interest (as determined under subsection (n)).
 
 &emsp;(5)
 
@@ -352,7 +362,7 @@ Interest.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), the Secretary, acting through the Administrator, shall charge a minimum annual rate of interest on the amount of any illegal diversion of revenues referred to in subsection (m) in an amount equal to the average investment interest rate for tax and loan accounts of the Department of the Treasury (as determined by the Secretary of the Treasury) for the applicable calendar year, rounded to the nearest whole percentage point.
+In general.—Except as provided in paragraph (2), the Secretary, acting through the Administrator, shall charge a minimum annual rate of interest on the amount of any illegal diversion of revenues referred to in subsection (m) in an amount equal to double the average investment interest rate for tax and loan accounts of the Department of the Treasury (as determined by the Secretary of the Treasury) for the applicable calendar year, rounded to the nearest whole percentage point.
 
 &emsp;(2)
 
@@ -404,7 +414,7 @@ Competitive access.—On February 1 and August 1 of each year, an airport that d
 
 &emsp;(3)
 
-Sunset provision.—This subsection shall cease to be effective beginning March 9, 2024.
+Sunset provision.—This subsection shall cease to be effective beginning October 1, 2028.
 
 (s)
 
@@ -456,17 +466,21 @@ In general.—Notwithstanding subsection (a)(13), an airport owner or operator w
 
 Covered lease defined.—In this subsection, the term "covered lease" means a lease—
 
-&emsp;&emsp;(A) originally entered into before the date of enactment of this subsection;
+&emsp;&emsp;(A) originally entered into before October 7, 2016;
 
 &emsp;&emsp;(B) under which a nominal lease rate is provided;
 
 &emsp;&emsp;(C) under which the lessee is a Federal or State government entity; and
 
-&emsp;&emsp;(D) that supports the operation of military aircraft by the Air Force or Air National Guard—
+&emsp;&emsp;(D) that—
 
-&emsp;&emsp;&emsp;(i) at the airport; or
+&emsp;&emsp;&emsp;(i) supports the operation of military aircraft by the Air Force or Air National Guard—
 
-&emsp;&emsp;&emsp;(ii) remotely from the airport.
+&emsp;&emsp;&emsp;&emsp;(I) at the airport; or
+
+&emsp;&emsp;&emsp;&emsp;(II) remotely from the airport; or
+
+&emsp;&emsp;&emsp;(ii) is for the use of nonaeronautical land or facilities of the airport by the National Guard.
 
 (u)
 
@@ -494,31 +508,81 @@ Community Use of Airport Land.—
 
 &emsp;(1)
 
-In general.—Notwithstanding subsection (a)(13), and subject to paragraph (2), the sponsor of a public-use airport shall not be considered to be in violation of this subtitle, or to be found in violation of a grant assurance made under this section, or under any other provision of law, as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor has entered into an agreement, including a revised agreement, with a local government providing for the use of airport property for an interim compatible recreational purpose at below fair market value.
+In general.—Notwithstanding subsections (a)(13), (b), and (c) and section 47133, and subject to paragraph (2), the sponsor of a public-use airport shall not be considered to be in violation of this subtitle, or to be found in violation of a grant assurance made under this section, or under any other provision of law, as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor has—
+
+&emsp;&emsp;(A) entered into an agreement, including a revised agreement, with a local government providing for the use of airport property for an interim compatible recreational purpose at below fair market value; or
+
+&emsp;&emsp;(B) permanently restricted the use of airport property to compatible recreational and public park use without paying or otherwise obtaining payment of fair market value for the property.
 
 &emsp;(2)
 
-Restrictions.—This subsection shall apply only—
+Restrictions.—
 
-&emsp;&emsp;(A) to an agreement regarding airport property that was initially entered into before the publication of the Federal Aviation Administration's Policy and Procedures Concerning the Use of Airport Revenue, dated February 16, 1999;
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) if the agreement between the sponsor and the local government is subordinate to any existing or future agreements between the sponsor and the Secretary, including agreements related to a grant assurance under this section;
+Interim compatible recreational purpose.—Paragraph (1) shall apply, with respect to a sponsor that has taken the action described in subparagraph (A) of such paragraph, only—
 
-&emsp;&emsp;(C) to airport property that was acquired under a Federal airport development grant program;
+&emsp;&emsp;&emsp;(i) to an agreement regarding airport property that was initially entered into before the publication of the Federal Aviation Administration's Policy and Procedures Concerning the Use of Airport Revenue, dated February 16, 1999;
 
-&emsp;&emsp;(D) if the airport sponsor has provided a written statement to the Administrator that the property made available for a recreational purpose will not be needed for any aeronautical purpose during the next 10 years;
+&emsp;&emsp;&emsp;(ii) if the agreement between the sponsor and the local government is subordinate to any existing or future agreements between the sponsor and the Secretary, including agreements related to a grant assurance under this section;
 
-&emsp;&emsp;(E) if the agreement includes a term of not more than 2 years to prepare the airport property for the interim compatible recreational purpose and not more than 10 years of use for that purpose;
+&emsp;&emsp;&emsp;(iii) to airport property that was purchased using funds from a Federal grant for acquiring land issued prior to January 1, 1989;
 
-&emsp;&emsp;(F) if the recreational purpose will not impact the aeronautical use of the airport;
+&emsp;&emsp;&emsp;(iv) if the airport sponsor has provided a written statement to the Administrator that the property made available for a recreational purpose will not be needed for any aeronautical purpose during the next 10 years;
 
-&emsp;&emsp;(G) if the airport sponsor provides a certification that the sponsor is not responsible for preparation, start-up, operations, maintenance, or any other costs associated with the recreational purpose; and
+&emsp;&emsp;&emsp;(v) if the agreement includes a term of not more than 2 years to prepare the airport property for the interim compatible recreational purpose and not more than 10 years of use for that purpose;
 
-&emsp;&emsp;(H) if the recreational purpose is consistent with Federal land use compatibility criteria under section 47502.
+&emsp;&emsp;&emsp;(vi) if the recreational purpose will not impact the aeronautical use of the airport;
+
+&emsp;&emsp;&emsp;(vii) if the airport sponsor provides a certification that the sponsor is not responsible for preparation, startup, operations, maintenance, or any other costs associated with the recreational purpose; and
+
+&emsp;&emsp;&emsp;(viii) if the recreational purpose is consistent with Federal land use compatibility criteria under section 47502.
+
+&emsp;&emsp;(B)
+
+Recreational use.—Paragraph (1) shall apply, with respect to a sponsor thathas taken the action described in subparagraph (B) of such paragraph, only—
+
+&emsp;&emsp;&emsp;(i) to airport property that was purchased using funds from a Federal grant for acquiring land issued prior to January 1, 1989;
+
+&emsp;&emsp;&emsp;(ii) to airport property that has been continuously leased or licensed through a written agreement with a governmental entity or non-profit entity for recreational or public park uses since July 1, 2003;
+
+&emsp;&emsp;&emsp;(iii) if the airport sponsor has provided a written statement to the Administrator that the recreational or public park use does not impact the aeronautical use of the airport and that the property to be permanently restricted for recreational or public park use is not needed for any aeronautical use at the time the written statement is provided and is not expected to be needed for any aeronautical use at any time after such statement is provided;
+
+&emsp;&emsp;&emsp;(iv) if the airport sponsor provides a certification to the Administrator that the sponsor is not responsible for operations, maintenance, or any other costs associated with the recreational or public park use;
+
+&emsp;&emsp;&emsp;(v) if the recreational purpose is consistent with Federal land use compatibility criteria under section 47502; and
+
+&emsp;&emsp;&emsp;(vi) if the airport sponsor will—
+
+&emsp;&emsp;&emsp;&emsp;(I) lease the property to a local government entity or non-profit entity to operate and maintain the property at no cost to the airport sponsor; or
+
+&emsp;&emsp;&emsp;&emsp;(II) transfer title to the property to a local government entity subject to a permanent deed restriction ensuring compatible airport use under regulations issued pursuant to section 47502.
 
 &emsp;(3)
 
+Revenue from certain sales of airport property.—Notwithstanding any other provision of law, an airport sponsor leasing or selling a portion of airport property as described in paragraph (2)(B)(vi) may—
+
+&emsp;&emsp;(A) lease or sell such portion of airport property for less than fair market value; and
+
+&emsp;&emsp;(B) subject to the requirements of subsection (b), retain the revenue from the lease or sale of such portion of airport property for use in accordance with section 47133.
+
+&emsp;(4)
+
+Secretary review and approval.—Notwithstanding any other provision of law, and subject to the sponsor providing a written statement certifying such sponsor meets the requirements under this subsection, no actions permitted under this subsection shall require the review or approval of the Secretary of Transportation.
+
+&emsp;(5)
+
 Statutory construction.—Nothing in this subsection may be construed as permitting a diversion of airport revenue for the capital or operating costs associated with the community use of airport land.
+
+&emsp;(6)
+
+Aeronautical use; aeronautical purpose defined.—In this subsection, the terms "aeronautical use" and "aeronautical purpose"—
+
+&emsp;&emsp;(A) mean all activities that involve or are directly related to the operation of aircraft, including activities that make the operation of aircraft possible and safe;
+
+&emsp;&emsp;(B) include services located at an airport that are directly and substantially related to the movement of passengers, baggage, mail, and cargo; and
+
+&emsp;&emsp;(C) do not include any uses of an airport that are not described in subparagraph (A) or (B), including any aviation-related uses that do not need to be located at an airport, such as flight kitchens and airline reservation centers.
 
 (w)
 
@@ -530,7 +594,7 @@ In general.—The Secretary of Transportation may approve an application under t
 
 &emsp;&emsp;(A) a lactation area in the sterile area of each passenger terminal building of the airport; and
 
-&emsp;&emsp;(B) a baby changing table in at least one men's and at least one women's restroom ineach passenger terminal building of the airport.
+&emsp;&emsp;(B) a baby changing table in at least one men's and at least one women's restroom in each passenger terminal building of the airport.
 
 &emsp;(2)
 
@@ -582,7 +646,109 @@ Definition.—In this section, the term—
 
 &emsp;&emsp;(B) "sterile area" has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(d), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(d), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(d), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(d), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(e), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(e), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§135, 136(a), title IV, §404, Feb. 14, 2012, 126 Stat. 22, 23, 85; Pub. L. 113–188, title XV, §1501(b)(1), (2)(A), Nov. 26, 2014, 128 Stat. 2023, 2024; Pub. L. 114–55, title I, §102(a), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(a), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(a), July 15, 2016, 130 Stat. 617; Pub. L. 114–238, §1, Oct. 7, 2016, 130 Stat. 972; Pub. L. 115–63, title I, §102(a), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(i), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–141, div. M, title I, §102(a), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§131, 132(a), 163(d), 185, Oct. 5, 2018, 132 Stat. 3203–3205, 3224, 3234; Pub. L. 116–190, §2, Oct. 30, 2020, 134 Stat. 974; Pub. L. 118–15, div. B, title II, §2202(e), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(e), Dec. 26, 2023, 137 Stat. 1113.)
+(x)
+
+Scope of Airport Layout Plan Review and Approval Authority of Secretary.—
+
+&emsp;(1)
+
+Authority over projects on land acquired without federal assistance.—For purposes of subsection (a)(16)(B), with respect to any project proposed on land acquired by an airport owner or operator without Federal assistance, the Secretary may review and approve or disapprove only the portions of the plan (or any subsequent revision to the plan) that—
+
+&emsp;&emsp;(A) materially impact the safe and efficient operation of aircraft at, to, or from the airport;
+
+&emsp;&emsp;(B) adversely affect the safety of people or property on the ground as a result of aircraft operations; or
+
+&emsp;&emsp;(C) adversely affect the value of prior Federal investments to a significant extent.
+
+&emsp;(2)
+
+Limitation on non-aeronautical review.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary may not require an airport to seek approval for (including in the submission of an airport layout plan), or directly or indirectly regulate or place conditions on (including through any grant assurance), any project that is not subject to paragraph (1).
+
+&emsp;&emsp;(B)
+
+Review and approval authority.—If only a portion of a project proposed by an airport owner or operator is subject to the review and approval of the Secretary under subsection (a)(16)(B), the Secretary shall not extend review and approval authority to other non-aeronautical portions of the project.
+
+&emsp;(3)
+
+Notice.—
+
+&emsp;&emsp;(A)
+
+In general.—An airport owner or operator shall submit to the Secretary a notice of intent to proceed with a proposed project (or a portion thereof) that is outside of the review and approval authority of the Secretary, as described in this subsection, if the project was not on the most recently submitted airport layout plan of the airport.
+
+&emsp;&emsp;(B)
+
+Failure to object.—If not later than 45 days after receiving the notice of intent described in subparagraph (A), the Secretary fails to object to such notice, the proposed project (or portion thereof) shall be deemed as being outside the scope of the review and approval authority of the Secretary under subsection (a)(16)(B).
+
+(y)
+
+Universal Changing Station.—
+
+&emsp;(1)
+
+In general.—In fiscal year 2030 and each fiscal year thereafter, the Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will install or maintain (in compliance with the requirements of section 35.133 of title 28, Code of Federal Regulations), as applicable—
+
+&emsp;&emsp;(A) at least 1 private, single-use room with a universal changing station that—
+
+&emsp;&emsp;&emsp;(i) meets the standards established under paragraph (2)(A); and
+
+&emsp;&emsp;&emsp;(ii) is accessible to all individuals for purposes of use by an individual with a disability in each passenger terminal building of the airport; and
+
+&emsp;&emsp;(B) signage at or near the entrance to the changing station indicating the location of the changing station.
+
+&emsp;(2)
+
+Standards required.—Not later than 2 years after the date of enactment of this subsection, the United States Access Board shall—
+
+&emsp;&emsp;(A) establish—
+
+&emsp;&emsp;&emsp;(i) comprehensive accessible design standards for universal changing tables; and
+
+&emsp;&emsp;&emsp;(ii) standards on the privacy, accessibility, and sanitation equipment of the room in which such table is located, required to be installed, or maintained under this subsection; and
+
+&emsp;&emsp;(B) in establishing the standards under subparagraph (A), consult with entities with appropriate expertise relating to the use of universal changing stations used by individuals with disabilities.
+
+&emsp;(3)
+
+Applicability.—
+
+&emsp;&emsp;(A)
+
+Airport size.—The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.
+
+&emsp;&emsp;(B)
+
+Special rule.—The requirement in paragraph (1) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the universal changing station to be located in the sterile area of the building.
+
+&emsp;(4)
+
+Exception.—Upon application by an airport sponsor, the Secretary may determine that a universal changing station in existence before the date of enactment of the FAA Reauthorization Act of 2024, complies with the requirements of paragraph (1) (including the standards established under paragraph (2)(A)), notwithstanding the absence of 1 or more of the standards or characteristics required under such paragraph.
+
+&emsp;(5)
+
+Definition.—In this section:
+
+&emsp;&emsp;(A)
+
+Disability.—The term "disability" has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
+
+&emsp;&emsp;(B)
+
+Sterile area.—The term "sterile area" has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
+
+&emsp;&emsp;(C)
+
+Universal changing station.—The term "universal changing station" means auniversal or adult changing station that meets the standards established by the United States Access Board under paragraph (2)(A).
+
+&emsp;&emsp;(D)
+
+United states access board.—The term "United States Access Board" means the Architectural and Transportation Barriers Compliance Board established under section 502(a)(1) of the Rehabilitation Act of 1973 (29 U.S.C. 792(a)(1)).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(d), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(d), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(d), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(d), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(e), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(e), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§135, 136(a), title IV, §404, Feb. 14, 2012, 126 Stat. 22, 23, 85; Pub. L. 113–188, title XV, §1501(b)(1), (2)(A), Nov. 26, 2014, 128 Stat. 2023, 2024; Pub. L. 114–55, title I, §102(a), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(a), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(a), July 15, 2016, 130 Stat. 617; Pub. L. 114–238, §1, Oct. 7, 2016, 130 Stat. 972; Pub. L. 115–63, title I, §102(a), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(i), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–141, div. M, title I, §102(a), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§131, 132(a), 163(d), 185, Oct. 5, 2018, 132 Stat. 3203–3205, 3224, 3234; Pub. L. 116–190, §2, Oct. 30, 2020, 134 Stat. 974; Pub. L. 118–15, div. B, title II, §2202(e), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(e), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §102(e), Mar. 8, 2024, 138 Stat. 21; Pub. L. 118–63, title VII, §§703(a), 704–706, 743(b), 770(a), 774(a), May 16, 2024, 138 Stat. 1248, 1249, 1280, 1295, 1297.)
 
 Historical and Revision Notes
 
@@ -840,9 +1006,39 @@ The enactment of the FAA Modernization and Reform Act of 2012, referred to in su
 
 The date of enactment of this paragraph, referred to in subsec. (s)(3), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
 
-The date of enactment of this subsection, referred to in subsec. (t)(2)(A), is the date of enactment of Pub. L. 114–238, which was approved Oct. 7, 2016.
+The date of enactment of this subsection, referred to in subsec. (y)(2), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
+
+The date of enactment of the FAA Reauthorization Act of 2024, referred to in subsec. (y)(4), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(16)(B). Pub. L. 118–63, §743(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "the Secretary will review and approve or disapprove only those portions of the plan (or any subsequent revision to the plan) that materially impact the safe and efficient operation of aircraft at, to, or from the airport or that would adversely affect the safety of people or property on the ground adjacent to the airport as a result of aircraft operations, or that adversely affect the value of prior Federal investments to a significant extent;".
+
+Subsec. (a)(16)(C)(i). Pub. L. 118–63, §743(b)(1)(B), substituted "subsection (x)" for "subparagraph (B)".
+
+Subsec. (a)(22). Pub. L. 118–63, §770(a), added par. (22).
+
+Subsec. (m)(4). Pub. L. 118–63, §703(a)(1), substituted "an amount equal to double" for "an amount equal to".
+
+Subsec. (n)(1). Pub. L. 118–63, §703(a)(2), substituted "an amount equal to double" for "an amount equal to".
+
+Subsec. (r)(3). Pub. L. 118–63, §704, substituted "October 1, 2028" for "May 11, 2024".
+
+Pub. L. 118–41 substituted "May 11, 2024" for "March 9, 2024".
+
+Subsec. (t)(2)(A). Pub. L. 118–63, §705(1), substituted "October 7, 2016" for "the date of enactment of this subsection".
+
+Subsec. (t)(2)(D). Pub. L. 118–63, §705(2), added subpar. (D) and struck out former subpar. (D) which read as follows: "that supports the operation of military aircraft by the Air Force or Air National Guard—
+
+&emsp;"(i) at the airport; or
+
+&emsp;"(ii) remotely from the airport."
+
+Subsec. (v). Pub. L. 118–63, §706, amended subsec. (v) generally. Prior to amendment, subsec. (v) related to community use of airport land.
+
+Subsec. (x). Pub. L. 118–63, §743(b)(2), added subsec. (x).
+
+Subsec. (y). Pub. L. 118–63, §774(a), added subsec. (y).
 
 <b>2023</b>—Subsec. (r)(3). Pub. L. 118–34 substituted "March 9, 2024" for "January 1, 2024".
 
@@ -1006,6 +1202,10 @@ Subsec. (l). Pub. L. 103–305, §112(a), added subsec. (l).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–63, title VII, §703(b), May 16, 2024, 138 Stat. 1248, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply to any illegal diversion of airport revenues (as described in section 47107(m) of title 49, United States Code) that occurred prior to the date of enactment of this Act \[May 16, 2024\]."
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
@@ -1124,9 +1324,9 @@ In General.—Congress finds that—
 
 &emsp;"(2) a grant recipient that uses airport revenue for purposes that are not airport related in a manner inconsistent with chapter 471 of title 49, United States Code, illegally diverts airport revenues;
 
-&emsp;"(3) any diversion of airport revenues in violation of the condition referred to in paragraph (1) undermines the interest of the United States in promoting a strong national air transportation system that is responsive to the needs of airport users;
+&emsp;"(3) any diversion of airport revenues in violation of the condition referred to in paragraph (1) undermines the interest of the United States in promotinga strong national air transportation system that is responsive to the needs of airport users;
 
-&emsp;"(4) the Secretary and the Administrator have not enforced airport revenue diversion rules adequatelyand must have additional regulatory tools to increase enforcement efforts; and
+&emsp;"(4) the Secretary and the Administrator have not enforced airport revenue diversion rules adequately and must have additional regulatory tools to increase enforcement efforts; and
 
 &emsp;"(5) sponsors who have been found to have illegally diverted airport revenues—
 

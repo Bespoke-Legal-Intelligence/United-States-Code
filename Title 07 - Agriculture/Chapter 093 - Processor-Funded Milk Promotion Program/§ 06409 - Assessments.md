@@ -26,7 +26,7 @@ Such assessments shall not—
 
 #### (3) Verification
 
-&emsp;Remittances shall be verified by market administrators and State regulatory officials,and local and State Agricultural Stabilization and Conservation Service offices, as provided by the Secretary.
+&emsp;Remittances shall be verified by market administrators and State regulatory officials, and local and State Agricultural Stabilization and Conservation Service offices, as provided by the Secretary.
 
 #### (d) Limitation on assessments
 

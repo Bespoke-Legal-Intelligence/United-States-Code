@@ -12,7 +12,7 @@
 
 (ii) The Secretary shall not have any authority given expressly to diplomatic or consular officers.
 
-(4) The Secretary is authorized to promulgate such rules and regulations as may be necessary to carry out the functions of the Secretary of State and the Department of State. Unless otherwise specified in law, the Secretary may delegate authority to perform any of the functions of the Secretary or the Department to officers and employees under the direction and supervision of the Secretary. The Secretary may delegate the authority to redelegate any such functions.
+(4) The Secretary is authorized to promulgate such rules and regulations as may be necessary to carry out the functions of the Secretary ofState and the Department of State. Unless otherwise specified in law, the Secretary may delegate authority to perform any of the functions of the Secretary or the Department to officers and employees under the direction and supervision of the Secretary. The Secretary may delegate the authority to redelegate any such functions.
 
 #### (b) Under Secretaries
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(ii) Preparing the statements and reports to Congress required under section 2304 of this title.
 
-&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
+&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
 
 &emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(iv) Ensuring the inclusion of human rights and women's participation issues in law enforcement programs, in consultation with the Assistant Secretary for Democracy, Human Rights, and Labor, and other senior officials in regional and thematic bureaus and offices.
 
-&emsp;&emsp;&emsp;(v) Combating, in conjunction with other relevant bureaus of the Department ofState and other United States Government agencies, all forms of transnational organized crime, including human trafficking, illicit trafficking in arms, wildlife, and cultural property, migrant smuggling, corruption, money laundering, the illicit smuggling of bulk cash, the licit use of financial systems for malign purposes, and other new and emerging forms of crime.
+&emsp;&emsp;&emsp;(v) Combating, in conjunction with other relevant bureaus of the Department of State and other United States Government agencies, all forms of transnational organized crime, including human trafficking, illicit trafficking in arms, wildlife, and cultural property, migrant smuggling, corruption, money laundering, the illicit smuggling of bulk cash, the licit use of financial systems for malign purposes, and other new and emerging forms of crime.
 
 &emsp;&emsp;&emsp;(vi) Identifying and responding to global corruption, including strengthening the capacity of foreign government institutions responsible for addressing financial crimes and engaging with multilateral organizations responsible for monitoring and supporting foreign governments' anti-corruption efforts.
 
@@ -166,7 +166,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (B) Duties described
 
-&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser tothe Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
+&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
 
 #### (3) Rank and status of Ambassador
 
@@ -284,7 +284,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 &emsp;&emsp;&emsp;(ii) to lead, coordinate, and execute, in coordination with other relevant bureaus and offices, the Department of State's diplomatic cyberspace, and cybersecurity efforts (including efforts related to data privacy, data flows, internet governance, information and communications technology standards, and other issues that the Secretary has assigned to the Bureau);
 
-&emsp;&emsp;&emsp;(iii) to coordinate with relevant Federal agencies and the Office of the NationalCyber Director to ensure the diplomatic and foreign policy aspects of the cyber strategy in section 9501 of the Department of State Authorization Act of 2022 \[22 U.S.C. 10301\] and any other subsequent strategy are implemented in a manner that is fully integrated with the broader strategy;
+&emsp;&emsp;&emsp;(iii) to coordinate with relevant Federal agencies and the Office of the National Cyber Director to ensure the diplomatic and foreign policy aspects of the cyber strategy in section 9501 of the Department of State Authorization Act of 2022 \[22 U.S.C. 10301\] and any other subsequent strategy are implemented in a manner that is fully integrated with the broader strategy;
 
 &emsp;&emsp;&emsp;(iv) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally;
 
@@ -546,7 +546,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 #### (6) Effective date
 
-&emsp;The restrictions under this subsection shall apply only to persons who are appointed by the President to the positions referenced in this subsection on or after 120 days after December 23, 2022.
+&emsp;The restrictions under this subsection shall apply only to persons who are appointed bythe President to the positions referenced in this subsection on or after 120 days after December 23, 2022.
 
 #### (7) Sunset
 
@@ -762,13 +762,25 @@ Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended b
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
 
+#### Needs-Based Childcare Subsidies Enrollment Period
+
+Pub. L. 118–159, div. G, title LXXI, §7111, Dec. 23, 2024, 138 Stat. 2526, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Department \[of State\] and USAID \[United States Agency for International Development\] shall—
+
+&emsp;"(1) issue and maintain guidance on how to apply for any program authorized under section 630 of the Treasury and General Government Appropriations Act, 2002 (Public Law 107–67; 115 Stat. 552) \[former 40 U.S.C. 490b–1, see 40 U.S.C. 590(g)\]; and
+
+&emsp;"(2) consider using maximum flexibilities to accept applications throughout the year or in accordance with Qualifying Life Event changes (as defined by the Federal Employees Health Benefits Program (FEHB))."
+
+#### Leveraging Approved Technology for Administrative Efficiencies
+
+Pub. L. 118–159, div. G, title LXXIII, §7305, Dec. 23, 2024, 138 Stat. 2543, provided that: "The Secretary \[of State\] and Administrator \[of the United States Agency for International Development\] shall ensure appropriate and secure technological solutions are authorized and available for employee use, where feasible, to promote technological fluency in the workforce, including the integration of secure tools in the evaluation process to ensure performance management standards while maximizing efficiency."
+
 #### Authorization
 
 Pub. L. 118–31, div. F, title LXI, §6107(b), Dec. 22, 2023, 137 Stat. 967, provided that: "The Secretary \[of State\] is authorized to hire additional, permanent, dedicated staff for the Office of Authentications."
 
 #### Special Hiring Authority
 
-Pub. L. 118–31, div. F, title LXII, §6202(c), Dec. 22, 2023, 137 Stat. 972, provided that: "For an initial period of not more than 3 years after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary \[of State\] may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code,up to 80 candidates directly to positions in the competitive service at the Department \[of State\], as defined in section 2102 of that title, in the following occupational series: 25 candidates under 1560 Data Science, 25 candidates under 2210 Information Technology Management, and 30 candidates under 0201 Human Resources Management."
+Pub. L. 118–31, div. F, title LXII, §6202(c), Dec. 22, 2023, 137 Stat. 972, provided that: "For an initial period of not more than 3 years after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary \[of State\] may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, up to 80 candidates directly to positions in the competitive service at the Department \[of State\], as defined in section 2102 of that title, in the following occupational series: 25 candidates under 1560 Data Science, 25 candidates under 2210 Information Technology Management, and 30 candidates under 0201 Human Resources Management."
 
 #### Extending Paths to Service for Paid Student Interns
 
@@ -806,7 +818,7 @@ Implementation Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\], the Secretary shall submit to the appropriate committees of Congress an implementation plan that outlines strategies for—
+In general.—Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\],the Secretary shall submit to the appropriate committees of Congress an implementation plan that outlines strategies for—
 
 &emsp;&emsp;"(A) advancing the goals described in subsection (a)(2);
 
@@ -882,15 +894,31 @@ Pub. L. 118–31, div. F, title LXIV, §6410, Dec. 22, 2023, 137 Stat. 1006, pro
 
 #### Notification of Revocation of Clearances
 
-Pub. L. 118–31, div. F, title LXVII, §6710, Dec. 22, 2023, 137 Stat. 1020, provided that:
+Pub. L. 118–31, div. F, title LXVII, §6710, Dec. 22, 2023, 137 Stat. 1020, as amended by Pub. L. 118–159, div. G, title LXXV, §7505, Dec. 23, 2024, 138 Stat. 2546, provided that:
 
 "(a)
 
-In General.—With respect to any covered official whose security clearance is suspended or revoked, the Secretary \[of State\] shall—
+Notification.—
 
-&emsp;"(1) submit to the Chair and Ranking Member of the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House ofRepresentatives, and the Minority Leader of the House of Representatives a notification not later than 15 days after the suspension or revocation of such clearance; and
+&emsp;"(1)
 
-&emsp;"(2) brief the Chair and Ranking Member of the appropriate congressional committees, the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives not later than 30 days after such suspension or revocation on the present employment status of such individual and whether the job duties of such individual have changed since such suspension or revocation.
+In general.—With respect to any covered official whose security clearance is suspended or revoked, the Secretary \[of State\] shall—
+
+&emsp;&emsp;"(A) submit to the Chair and Ranking Member of the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives a notification not later than 15 days after the suspension or revocation of such clearance; and
+
+&emsp;&emsp;"(B) brief the Chair and Ranking Member of the appropriate congressional committees, the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives not later than 30 days after such suspension or revocation on—
+
+&emsp;&emsp;&emsp;"(A) \[sic\] the present employment status of the covered official and whether the job duties of the covered official have changed since such suspension or revocation;
+
+&emsp;&emsp;&emsp;"(B) the basis for such suspension or revocation, including a complete description;
+
+&emsp;&emsp;&emsp;"(C) the investigation of the covered official and the results of such investigation; and
+
+&emsp;&emsp;&emsp;"(D) any negative fallout or impacts for the Department of State, the United States Government, or national security of the United States as a result of the actions for which the security clearance was suspended or revoked..\[sic\]
+
+&emsp;"(2)
+
+Submission to intelligence committees.—To the extent the basis for any suspension or revocation of a security clearance is premised on the unauthorized release of intelligence (as defined by section 3(1) of the National Security Act of 1947 (50 U.S.C. 3003(1)), the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives shall be an appropriate congressional committee for the purposes of this section.
 
 "(b)
 
@@ -972,13 +1000,13 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 #### Additional Paid Leave To Address Employee Hardships Resulting From Coronavirus
 
-Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, provided that: "Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: <i>Provided</i>, That this authority shall apply to leave taken since January 29,2020, and may be provided abroad and domestically: <i>Provided further</i>, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
+Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, provided that: "Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: <i>Provided</i>, That this authority shall apply to leave taken since January 29, 2020, and may be provided abroad and domestically: <i>Provided further</i>, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
 
 \[For definition of "coronavirus" as used in section 21007 of Pub. L. 116–136, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
 
 #### Oaths of Office Administered Remotely
 
-Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriate verification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
+Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>,That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriate verification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 
@@ -1138,7 +1166,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 "(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of Stateas the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the 'Adviser'). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
 "(b)
 
@@ -1185,6 +1213,18 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
+#### Delegation of Authority Under Section 1(j)(4) of the State Department Basic Authorities Act of 1956
+
+Memorandum of President of the United States, Feb. 8, 2024, 89 F.R. 14367, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State the functions and authority vested in the President by section 1(j)(4) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(j)(4)) to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives the justification required in conjunction with the renewal of a temporary appointment pursuant to section 1(j)(3) of such Act (22 U.S.C. 2651a(j)(3)).
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
 

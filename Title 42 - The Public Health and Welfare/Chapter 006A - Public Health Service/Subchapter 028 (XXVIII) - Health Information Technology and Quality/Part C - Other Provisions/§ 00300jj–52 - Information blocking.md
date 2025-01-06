@@ -44,7 +44,7 @@
 
 #### (7) Clarification
 
-&emsp;In carrying out this section, the Secretary shall ensure that health care providers are not penalized for the failure of developers of health information technology or other entities offering health information technology tosuch providers to ensure that such technology meets the requirements to be certified under this subchapter.
+&emsp;In carrying out this section, the Secretary shall ensure that health care providers are not penalized for the failure of developers of health information technology or other entities offering health information technology to such providers to ensure that such technology meets the requirements to be certified under this subchapter.
 
 #### (b) Inspector General authority
 
@@ -96,7 +96,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Office of the Inspector General, if such Office determines that a consultation regarding the health privacy and security rules promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) will resolve an information blocking claim, may refer such instances of information blocking to the Office for Civil Rights of the Department of Health and Human Services for resolution.
+&emsp;&emsp;The Office of the Inspector General, if such Office determines that a consultation regarding the health privacy and securityrules promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) will resolve an information blocking claim, may refer such instances of information blocking to the Office for Civil Rights of the Department of Health and Human Services for resolution.
 
 #### (B) Limitation on liability
 
@@ -164,7 +164,7 @@
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), is section 6 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406 of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4218, 4361.
+Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), is section 6 of Pub. L. 95–452,which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406 of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4218, 4361.
 
 #### Amendments
 

@@ -116,11 +116,11 @@
 
 #### (III) Firms submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;&emsp;The establishment shall support its claim that it meets the definition under subclause (I) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subclause (I). The establishment, and each of such affiliates, shall certify thatthe information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the establishment shall certify that the establishment has no affiliates.
+&emsp;&emsp;&emsp;&emsp;The establishment shall support its claim that it meets the definition under subclause (I) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subclause (I). The establishment, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the establishment shall certify that the establishment has no affiliates.
 
 #### (IV) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;&emsp;In the case of an establishment that has not previously submitted a Federal income tax return, the establishment and each of its affiliates shall demonstrate that it meets the definition under subclause (I) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the establishment or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the establishment or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the establishment's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The establishment shall also submit a statement signed by the head of the establishment's firm or by its chief financial officer that the establishment has submitted certifications for all of its affiliates, or that the establishment has no affiliates.
+&emsp;&emsp;&emsp;&emsp;In the case of an establishment that has not previously submitted a Federalincome tax return, the establishment and each of its affiliates shall demonstrate that it meets the definition under subclause (I) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the establishment or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the establishment or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the establishment's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The establishment shall also submit a statement signed by the head of the establishment's firm or by its chief financial officer that the establishment has submitted certifications for all of its affiliates, or that the establishment has no affiliates.
 
 #### (V) Request for waiver
 
@@ -191,7 +191,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by 0.60; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–VA–MD–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by 0.40.
+&emsp;&emsp;&emsp;&emsp;(II) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–VA–MD–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of thepreceding 4 years of available data multiplied by 0.40.
 
 #### (ii) Limitations
 
@@ -279,7 +279,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) For fiscal year 2027:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $1,020,000 if the 4 goals for fiscal year 2023 are met and one or more ofthe 4 goals for fiscal year 2024 are not met.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $1,020,000 if the 4 goals for fiscal year 2023 are met and one or more of the 4 goals for fiscal year 2024 are not met.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) $3,906,000 if the 4 goals for fiscal year 2024 are met.
 
@@ -383,7 +383,7 @@
 
 #### (B) Notice to Congress
 
-&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall providenotice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
 
 #### (d) Small businesses; fee waiver and fee reduction regarding premarket approval fees
 
@@ -479,7 +479,7 @@
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscalyear because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, de novo classification requests, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, de novo classification requests, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (3) Limitation
 
@@ -553,7 +553,7 @@ In any case where the Secretary does not receive payment of a fee assessed under
 
 #### (j) Written requests for refunds
 
-To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
+To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to theSecretary a written request for such refund not later than 180 days after such fee is due.
 
 #### (k) Construction
 
@@ -723,7 +723,7 @@ Subsec. (i)(2)(C). Pub. L. 112–144, §203(f)(2)(B), added subpar. (C).
 
 Subsec. (i)(3). Pub. L. 112–144, §203(f)(3), amended par. (3) generally. Prior to amendment, par. (3) authorized appropriations for fiscal years 2008 to 2012.
 
-Subsec. (i)(4). Pub. L. 112–144, §203(f)(4), substituted "fiscal years 2013, 2014, and 2015" for "fiscal years 2008, 2009, and 2010", "fiscal year 2016" for "fiscal year 2011","June 30, 2016" for "June 30, 2011", "the cumulative amount appropriated pursuant to" for "the amount of fees specified in aggregate in", and "fiscal year 2017" for "fiscal year 2012" and struck out "aggregate amount in" before "excess shall be credited".
+Subsec. (i)(4). Pub. L. 112–144, §203(f)(4), substituted "fiscal years 2013, 2014, and 2015" for "fiscal years 2008, 2009, and 2010", "fiscal year 2016" for "fiscal year 2011", "June 30, 2016" for "June 30, 2011", "the cumulative amount appropriated pursuant to" for "the amount of fees specified in aggregate in", and "fiscal year 2017" for "fiscal year 2012" and struck out "aggregate amount in" before "excess shall be credited".
 
 Subsecs. (j) to (l). Pub. L. 112–144, §203(d)(1), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
@@ -789,7 +789,7 @@ Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to
 
 Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
 
-Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary mayassess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
+Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 

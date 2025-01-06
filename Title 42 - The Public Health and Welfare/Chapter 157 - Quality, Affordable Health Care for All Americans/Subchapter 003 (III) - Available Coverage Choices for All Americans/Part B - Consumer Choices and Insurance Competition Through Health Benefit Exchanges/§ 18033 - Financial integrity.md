@@ -34,7 +34,7 @@
 
 #### (B) <sup>2</sup> Damages
 
-&emsp;&emsp;Notwithstanding paragraph (1) of section 3729(a) of title 31, and subject to paragraph\(2) of such section, the civil penalty assessed under the False Claims Act on any person found liable under such Act as described in subparagraph (A) shall be increased by not less than 3 times and not more than 6 times the amount of damages which the Government sustains because of the act of that person.
+&emsp;&emsp;Notwithstanding paragraph (1) of section 3729(a) of title 31, and subject to paragraph (2) of such section, the civil penalty assessed under the False Claims Act on any person found liable under such Act as described in subparagraph (A) shall be increased by not less than 3 times and not more than 6 times the amount of damages which the Government sustains because of the act of that person.
 
 #### (b) GAO oversight
 

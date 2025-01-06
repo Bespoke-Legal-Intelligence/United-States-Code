@@ -58,7 +58,7 @@ In this section:
 
 #### (1) Increase
 
-&emsp;The Director may increase the amount of monthly compensation paid to a covered employee under section 8105 of title 5. Subject to paragraph (2), the Director may determine the amount of each such increase by taking into account—
+&emsp;The Director may increase the amount of monthly compensation paid to a covered employee under section 8105 of title 5. Subject toparagraph (2), the Director may determine the amount of each such increase by taking into account—
 
 &emsp;&emsp;(A) the severity of the qualifying injury;
 
@@ -162,7 +162,7 @@ Pub. L. 117–46, §2(c), Oct. 8, 2021, 135 Stat. 392, provided that: "Payment u
 
 \[For definition of "qualifying injury" as used in section 2(c) of Pub. L. 117–46, set out above, see section 2(a) of Pub. L. 117–46, set out below.\]
 
-Pub. L. 116–92, div. E, title LXIV, §6412(c), Dec. 20, 2019, 133 Stat. 2198, provided that: "Section 19A of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3519b\], as added by subsection (a), shall apply with respect to—
+Pub. L. 116–92, div. E, title LXIV, §6412(c), Dec. 20, 2019, 133 Stat. 2198, provided that: "Section 19A of theCentral Intelligence Agency Act of 1949 \[50 U.S.C. 3519b\], as added by subsection (a), shall apply with respect to—
 
 &emsp;"(1) payments made to covered employees (as defined in such section) under section 8105 of title 5, United States Code, beginning on or after the date of the enactment of this Act \[Dec. 20, 2019\]; and
 
@@ -258,5 +258,5 @@ Covered individual.—The term 'covered individual' has the meaning given such t
 
 &emsp;"(5)
 
-Qualifying injury.—The term 'qualifying injury' has the meaning given such term in subsection (d)(1) of section 19 \[probably should be "19A"\] of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3519) \[50 U.S.C. 3519b\], as added by subsection (b)."
+Qualifying injury.—The term 'qualifying injury' has the meaning given such term in subsection\(d)(1) of section 19 \[probably should be "19A"\] of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3519) \[50 U.S.C. 3519b\], as added by subsection (b)."
 

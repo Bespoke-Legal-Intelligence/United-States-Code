@@ -56,7 +56,7 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services; and
 
-&emsp;(4) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(4) dispose of property under subsection (a)(3) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -64,7 +64,7 @@ Acquisition Management System.—
 
 &emsp;(1)
 
-In general.—In consultation with such non-governmental experts in acquisition management systems as the Administrator may employ, and notwithstanding provisions of Federal acquisition law, the Administrator shall develop and implement an acquisition management system for the Administration that addresses the unique needs of the agency and, at a minimum, provides for—
+In general.—In consultation with such non-governmental experts in acquisition management systems as the Administrator may employ, and notwithstanding provisions of Federal acquisition law, the Administrator shall develop, implement, and periodically update an acquisition management system for the Administration that addresses the unique needs of the agency and, at a minimum, provides for—
 
 &emsp;&emsp;(A) more timely and cost-effective acquisitions of equipment, services, property, and materials; and
 
@@ -72,13 +72,13 @@ In general.—In consultation with such non-governmental experts in acquisition 
 
 &emsp;(2)
 
-Applicability of federal acquisition law.—The following provisions of Federal acquisition law shall not apply to the new acquisition management system developed and implemented pursuant to paragraph (1):
+Applicability of federal acquisition law.—The following provisions of Federal acquisition law shall not apply to the acquisition management system developed, implemented, and periodically updated pursuant to paragraph (1):
 
 &emsp;&emsp;(A) Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;&emsp;(B) Division B (except sections 1704 and 2303) of subtitle I of title 41.
 
-&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system, the term "executive agency" is deemed to refer to the Federal Aviation Administration.
+&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355). However, section 4705 of title 41 shall apply to the acquisition management system developed, implemented, and periodically updated pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system, the term "executive agency" is deemed to refer to the Federal Aviation Administration.
 
 &emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
@@ -90,41 +90,51 @@ Applicability of federal acquisition law.—The following provisions of Federal 
 
 &emsp;(3)
 
-Certain provisions of division b (except sections 1704 and 2303) of subtitle i of title 41.—Notwithstanding paragraph (2)(B), chapter 21 of title 41 shall apply to the new acquisition management system developed and implemented under paragraph (1) with the following modifications:
+Certain provisions of division b (except sections 1704 and 2303) of subtitle i of title 41.—Notwithstanding paragraph (2)(B), chapter 21 of title 41 shall apply to the acquisition management system developed, implemented, and periodically updated under paragraph (1) with the following modifications:
 
 &emsp;&emsp;(A) Sections 2101 and 2106 of title 41 shall not apply.
 
-&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purpose and intent of the Office of Federal Procurement Policy Act.<sup>1</sup>
+&emsp;&emsp;(B) The Administrator shall adopt definitions for the acquisition management system that are consistent with the purpose and intent of the Office of Federal Procurement Policy Act, as in effect on October 9, 1996.
 
-&emsp;&emsp;(C) After the adoption of those definitions, the criminal, civil, and administrative remedies provided under the Office of Federal Procurement Policy Act <sup>1</sup> apply to the acquisition management system.
+&emsp;&emsp;(C) After the adoption of those definitions, the criminal, civil, and administrative remedies provided under division B of subtitle I of title 41 apply to the acquisition management system.
 
-&emsp;&emsp;(D) In the administration of the acquisition management system, the Administrator may take adverse personnel action under section 27(e)(3)(A)(iv) of the Office of Federal Procurement Policy Act <sup>1</sup> in accordance with the procedures contained in the Administration's personnel management system.
+&emsp;&emsp;(D) In the administration of the acquisition management system, the Administrator may take adverse personnel action under section 2105(c)(1)(D) of title 41 in accordance with the procedures contained in the Administration's personnel management system.
 
 &emsp;(4)
 
-Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office of Dispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
+Commercial products and services.—In implementing and updating the acquisition management system pursuant to paragraph (1), the Administrator shall, whenever possible—
+
+&emsp;&emsp;(A) describe the requirements with respect to a solicitation for the procurement of supplies or services in terms of—
+
+&emsp;&emsp;&emsp;(i) functions to be performed;
+
+&emsp;&emsp;&emsp;(ii) performance required; or
+
+&emsp;&emsp;&emsp;(iii) essential physical and system characteristics;
+
+&emsp;&emsp;(B) ensure that commercial services or commercial products may be procured to fulfill such solicitation, or to the extent that commercial products suitable to meet the needs of the Administration are not available, ensure that nondevelopmental items other than commercial products may be procured to fulfill such solicitation;
+
+&emsp;&emsp;(C) provide offerors of commercial services, commercial products, and nondevelopmental items other than commercial products an opportunity to compete in any solicitation for the procurement of supplies or services;
+
+&emsp;&emsp;(D) revise the procurement policies, practices, and procedures of the Administration to reduce any impediments to the acquisition of commercial products and commercial services;
+
+&emsp;&emsp;(E) ensure that any procurement of new equipment takes into account the life cycle, reliability, performance, service support, and costs to guarantee the acquisition of equipment that is of high quality and reliability resulting in greater performance and cost-related benefits; and
+
+&emsp;&emsp;(F) ensure that procurement officials—
+
+&emsp;&emsp;&emsp;(i) acquire commercial services, commercial products, or nondevelopmental items other than commercial products to meet the needs of the Administration;
+
+&emsp;&emsp;&emsp;(ii) in a solicitation for the procurement of supplies or services, state the specifications for such supplies or services in terms that enable and encourage bidders and offerors to supply commercial services or commercial products, or to the extent that commercial products suitable to meet the needs of the Administration are not available, to supply nondevelopmental items other than commercial products;
+
+&emsp;&emsp;&emsp;(iii) require that prime contractors and subcontractors at all levels under contracts with the Administration incorporate commercial services, commercial products, or nondevelopmental items other than commercial products as components of items supplied to the Administration;
+
+&emsp;&emsp;&emsp;(iv) modify procurement requirements in appropriate circumstances to ensure that such requirements can be met by commercial services or commercial products, or to the extent that commercial products suitable to meet the needs of the Administration are not available, nondevelopmental items other than commercial products; and
+
+&emsp;&emsp;&emsp;(v) require training of appropriate personnel in the acquisition of commercial products and commercial services.
 
 &emsp;(5)
 
-Annual report on the purchase of foreign manufactured articles.—
-
-&emsp;&emsp;(A)
-
-Report.—(i) Not later than 90 days after the end of the fiscal year, the Secretary of Transportation shall submit a report to Congress on the dollar amount of acquisitions subject to the Buy American Act made by the agency from entities that manufacture the articles, materials, or supplies outside of the United States in such fiscal year.
-
-&emsp;&emsp;(ii) The report required by clause (i) shall only include acquisitions with total value exceeding the micro-purchase level.
-
-&emsp;&emsp;(B)
-
-Contents.—The report required by subparagraph (A) shall separately indicate—
-
-&emsp;&emsp;&emsp;(i) the dollar value of any articles, materials, or supplies purchased that were manufactured outside of the United States; and
-
-&emsp;&emsp;&emsp;(ii) a summary of the total procurement funds spent on goods manufactured in the United States versus funds spent on goods manufactured outside of the United States.
-
-&emsp;&emsp;(C)
-
-Availability of report.—The Secretary shall make the report under subparagraph (A) publicly available on the agency's website not later than 30 days after submission to Congress.
+Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office of Dispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
 
 (e)
 
@@ -142,7 +152,7 @@ Exception.—Paragraph (1) shall not apply to any portion of a proposal of an of
 
 Proposal defined.—In this subsection, the term "proposal" means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44; Pub. L. 115–254, div. B, title V, §544, Oct. 5, 2018, 132 Stat. 3374.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44; Pub. L. 115–254, div. B, title V, §544, Oct. 5, 2018, 132 Stat. 3374; Pub. L. 118–63, title II, §§218(b), 228, title XI, §1101(e), (f), May 16, 2024, 138 Stat. 1055, 1062, 1413.)
 
 Historical and Revision Notes
 
@@ -218,13 +228,31 @@ The Small Business Act, referred to in subsec. (d)(2)(D), is Pub. L. 85–536, �
 
 The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 
-The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (d)(3)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
-
-The Office of Federal Procurement Policy Act, referred to in subsec. (d)(3)(B)–(D), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, which was classified principally to chapter 7 (§401 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated in division B (§1101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 27(e)(3)(A)(iv) of the Act was repealed and restated as section 2105(c)(1)(D) of Title 41. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
-
-The Buy American Act, referred to in subsec. (d)(5)(A), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Office of Federal Procurement Policy Act, referred to in subsec. (d)(3)(B), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, which was classified principally to chapter 7 (§401 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated indivision B (§1101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(4). Pub. L. 118–63, §1101(e), substituted "subsection (a)(3)" for "subsection (a)(2)".
+
+Subsec. (d)(1). Pub. L. 118–63, §228(1), substituted ", implement, and periodically update" for "and implement".
+
+Subsec. (d)(2). Pub. L. 118–63, §228(2), in introductory provisions and subpar. (C), substituted "the acquisition management system developed, implemented, and periodically updated" for "the new acquisition management system developed and implemented".
+
+Subsec. (d)(3). Pub. L. 118–63, §228(3)(A), in introductory provisions, struck out "new" before "acquisition" and substituted ", implemented, and periodically updated" for "and implemented".
+
+Subsec. (d)(3)(B). Pub. L. 118–63, §1101(f)(1), inserted ", as in effect on October 9, 1996" after "Policy Act".
+
+Pub. L. 118–63, §228(3)(B), substituted "The Administrator" for "Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator".
+
+Subsec. (d)(3)(C). Pub. L. 118–63, §1101(f)(2), substituted "division B of subtitle I of title 41" for "the Office of Federal Procurement Policy Act".
+
+Subsec. (d)(3)(D). Pub. L. 118–63, §1101(f)(3), substituted "section 2105(c)(1)(D) of title 41" for "section 27(e)(3)(A)(iv) of the Office of Federal Procurement Policy Act".
+
+Subsec. (d)(4). Pub. L. 118–63, §228(5), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (d)(5). Pub. L. 118–63, §228(4), redesignated par. (4) as (5). Former par. (5) struck out.
+
+Pub. L. 118–63, §218(b), struck out par. (5) which related to annual reports on the purchase of foreign manufactured articles.
 
 <b>2018</b>—Subsec. (d)(5). Pub. L. 115–254 added par. (5).
 
@@ -286,7 +314,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -421,6 +449,4 @@ Expiration of Authority.—The authority to conduct the test under subsection (a
 "(i)
 
 Rule of Construction.—Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the test conducted pursuant to subsection (a)."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,8 +1,8 @@
 ### §6809. Sunset provision
 
-The authority of the Secretary to carry out this chapter shall terminate September 30, 2019.
+The authority of the Secretary to carry out this chapter shall terminate September 30, 2031.
 
-(Pub. L. 108–447, div. J, title VIII, §810, Dec. 8, 2004, 118 Stat. 3389; Pub. L. 113–235, div. F, title IV, §422, Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–53, div. B, §134, Sept. 30, 2015, 129 Stat. 509, renumbered div. B, Pub. L. 114–113, §8(3), Dec. 18, 2015, 129 Stat. 2245; Pub. L. 114–223, div. C, §133, Sept. 29, 2016, 130 Stat. 914; Pub. L. 115–56, div. D, §131, Sept. 8, 2017, 131 Stat. 1145.)
+(Pub. L. 108–447, div. J, title VIII, §810, Dec. 8, 2004, 118 Stat. 3389; Pub. L. 113–235, div. F, title IV, §422, Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–53, div. B, §134, Sept. 30, 2015, 129 Stat. 509, renumbered div. B, Pub. L. 114–113, §8(3), Dec. 18, 2015, 129 Stat. 2245; Pub. L. 114–223, div. C, §133, Sept. 29, 2016, 130 Stat. 914; Pub. L. 115–56, div. D, §131, Sept. 8, 2017, 131 Stat. 1145; Pub. L. 118–234, title III, §311(e), Jan. 4, 2025, 138 Stat. 2898.)
 
 #### <b>Editorial Notes</b>
 
@@ -11,6 +11,8 @@ The authority of the Secretary to carry out this chapter shall terminate Septemb
 This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–234 substituted "2031" for "2019".
 
 <b>2017</b>—Pub. L. 115–56 substituted "September 30, 2019" for "September 30, 2018".
 
@@ -24,9 +26,11 @@ This chapter, referred to in text, was in the original "this Act", and was trans
 
 #### Recreation Fees
 
-Pub. L. 117–328, div. G, title IV, §421, Dec. 29, 2022, 136 Stat. 4826, provided that: "Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting 'October 1, 2024' for 'September 30, 2019'."
+Pub. L. 118–42, div. E, title IV, §421, Mar. 9, 2024, 138 Stat. 290, provided that: "Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809)shall be applied by substituting 'October 1, 2025' for 'September 30, 2019'."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title IV, §421, Dec. 29, 2022, 136 Stat. 4826.
 
 Pub. L. 117–103, div. G, title IV, §421, Mar. 15, 2022, 136 Stat. 415.
 

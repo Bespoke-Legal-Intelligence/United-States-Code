@@ -16,7 +16,7 @@ The portion of area VII–A, as designated on the map referred to in section 460
 
 #### (c) Boundaries of area VII–A
 
-Area VII–A includes the bed of the railroad tracks forming the northern and northwestern boundaries of this area and extends to the northern edge of the bed of the railroad tracks forming the southern boundaries of this area.
+Area VII–A includes the bed of the railroad tracks forming the northern and northwesternboundaries of this area and extends to the northern edge of the bed of the railroad tracks forming the southern boundaries of this area.
 
 #### (d) Inclusion in area I–D
 

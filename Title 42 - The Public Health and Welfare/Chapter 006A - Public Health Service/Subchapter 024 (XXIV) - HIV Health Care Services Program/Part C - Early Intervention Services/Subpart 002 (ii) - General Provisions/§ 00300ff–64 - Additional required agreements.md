@@ -44,7 +44,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (d) Maintenance of support
 
-The Secretary may not make a grant under this part unless the applicant for the grant agrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
+The Secretary may not make a grant under this part unless the applicant for the grantagrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
 
 #### (e) Requirements regarding imposition of charges for services
 
@@ -76,7 +76,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and of paragraph (2) regarding limitations on the maximum amount of charges; and
 
-&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing theamount of the charge, subject to such provisions.
+&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
 
 #### (4) Applicability of limitation on amount of charge
 
@@ -108,7 +108,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
 
-&emsp;(3) the applicant will not expend more than 10 percent of the grant for administrative expenses with respect to the grant, including planning and evaluation, except that the costs of a clinical quality management program under paragraph (5) may not be considered administrative expenses for purposes of such limitation;
+&emsp;(3) the applicant will not expend more than 10 percent of the grant for administrative expenses with respect to the grant, including planning and evaluation, except that the costsof a clinical quality management program under paragraph (5) may not be considered administrative expenses for purposes of such limitation;
 
 &emsp;(4) the applicant will submit evidence that the proposed program is consistent with the statewide coordinated statement of need and agree to participate in the ongoing revision of such statement of need; and
 
@@ -148,7 +148,7 @@ Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted "10 percent" for "7.
 
 Subsec. (g)(5). Pub. L. 106–345, §322(1)(B), (2), (3), added par. (5).
 
-Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: "A State may not use amounts received under a grantawarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services."
+Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: "A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services."
 
 <b>1996</b>—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted "7.5 percent including planning and evaluation" for "5 percent".
 

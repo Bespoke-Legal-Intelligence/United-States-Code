@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) describing the extent to which the requirements of applicable United Nations Security Council resolutions to de-register any vessel owned, controlled, or operated by or on behalf of the Government of North Korea have been implemented by other foreign countries;
 
-&emsp;&emsp;(C) describing the compliance of the Islamic Republic of Iran with the sanctionsmandated in applicable United Nations Security Council resolutions;
+&emsp;&emsp;(C) describing the compliance of the Islamic Republic of Iran with the sanctions mandated in applicable United Nations Security Council resolutions;
 
 &emsp;&emsp;(D) identifying vessels, aircraft, and conveyances owned or controlled by the Reconnaissance General Bureau of the Workers' Party of Korea; and
 
@@ -56,7 +56,7 @@ Each report required under subsection (a) shall include specific findings with r
 
 #### (d) Seizure and forfeiture
 
-A vessel, aircraft, or conveyance used to facilitate any of the activities described in section 9214(a) of this title under the jurisdiction of the United States may be seized and forfeited, or subject to forfeiture, under—
+A vessel, aircraft, or conveyance used to facilitate any of the activities described in section9214(a) of this title under the jurisdiction of the United States may be seized and forfeited, or subject to forfeiture, under—
 
 &emsp;(1) chapter 46 of title 18; or
 

@@ -40,7 +40,7 @@ The Coordination Office shall—
 
 #### (c) Funding
 
-Funds necessary to carry out the activities of the Coordination Office shall be made available each fiscal year by the Federal departments and agencies described in section 8813(b) of this title, as determined by the Director of the Office of Science and Technology Policy.
+Funds necessary to carry out the activities of the Coordination Office shall be made availableeach fiscal year by the Federal departments and agencies described in section 8813(b) of this title, as determined by the Director of the Office of Science and Technology Policy.
 
 (Pub. L. 115–368, title I, §102, Dec. 21, 2018, 132 Stat. 5094; Pub. L. 117–81, div. F, title LXVI, §6606(c)(2), Dec. 27, 2021, 135 Stat. 2444.)
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 38, in the case of an eligible employer, the small employer pensionplan startup cost credit determined under this section for any taxable year is an amount equal to 50 percent of the qualified startup costs paid or incurred by the taxpayer during the taxable year.
+For purposes of section 38, in the case of an eligible employer, the small employer pension plan startup cost credit determined under this section for any taxable year is an amount equal to 50 percent of the qualified startup costs paid or incurred by the taxpayer during the taxable year.
 
 #### (b) Dollar limitation
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified startup costs" means any ordinary and necessary expenses of an eligible employer which are paid or incurred in connection with—
+&emsp;&emsp;The term "qualified startup costs" means any ordinary and necessary expenses of aneligible employer which are paid or incurred in connection with—
 
 &emsp;&emsp;&emsp;(i) the establishment or administration of an eligible employer plan, or
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (B) Credit phase-in
 
-&emsp;&emsp;In the case of any eligible employer which had for the preceding taxable year more than 50 employees, the amount determinedunder paragraph (1) (without regard to this subparagraph) shall be reduced by an amount equal to the product of—
+&emsp;&emsp;In the case of any eligible employer which had for the preceding taxable year more than 50 employees, the amount determined under paragraph (1) (without regard to this subparagraph) shall be reduced by an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the amount otherwise so determined under paragraph (1), multiplied by
 
@@ -145,6 +145,10 @@ For purposes of this section—
 &emsp;For purposes of this subsection, whether an employer is an eligible employer and the number of employees of an employer shall be determined under the rules of subsection (c), except that paragraph (2) thereof shall only apply to the taxable year during which the eligible employer plan to which this section applies is established with respect to the eligible employer.
 
 (Added Pub. L. 107–16, title VI, §619(a), June 7, 2001, 115 Stat. 108; amended Pub. L. 107–147, title IV, §411(n)(1), Mar. 9, 2002, 116 Stat. 48; Pub. L. 116–94, div. O, title I, §104(a), Dec. 20, 2019, 133 Stat. 3147; Pub. L. 117–328, div. T, title I, §§102(a)–(c), 111(a), Dec. 29, 2022, 136 Stat. 5277, 5278, 5293.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### <b>Editorial Notes</b>
 

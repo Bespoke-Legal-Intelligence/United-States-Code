@@ -106,7 +106,7 @@ Subject to subsections (c) and (d), payment under this part may be made for inpa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was lessthan, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall be reduced, or increased, respectively, by the amount of such excess or deficit.
+&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was less than, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall be reduced, or increased, respectively, by the amount of such excess or deficit.
 
 #### (ii) Limitation on carryforward
 

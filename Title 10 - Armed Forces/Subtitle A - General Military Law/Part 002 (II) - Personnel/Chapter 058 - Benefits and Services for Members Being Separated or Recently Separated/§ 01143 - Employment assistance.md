@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Skills Verification.—(1) The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skillsand experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—(1) The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
 
 (2) In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by paragraph (1), the Secretary of Defense shall—
 
@@ -62,7 +62,7 @@ a) <sup>1</sup> The Secretary concerned may carry out one or more programs to p
 
 (6) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551,Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, §561(a), Dec. 23, 2022, 136 Stat. 2598; Pub. L. 118–31, div. A, title V, §572(a), Dec. 22, 2023, 137 Stat. 275.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, §561(a), Dec. 23, 2022, 136 Stat. 2598; Pub. L. 118–31, div. A, title V, §572(a), Dec. 22, 2023, 137 Stat. 275.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,6 +130,46 @@ Pub. L. 117–263, div. A, title V, §561(b), Dec. 23, 2022, 136 Stat. 2598, pro
 
 &emsp;"(2) develop a funding plan for Skillbridge that includes funding lines across the future-years defense program under section 221 of title 10, United States Code."
 
+#### Military Training and Competency Records
+
+Pub. L. 118–159, div. A, title V, §574, Dec. 23, 2024, 138 Stat. 1909, provided that:
+
+"(a)
+
+Competency Records.—
+
+&emsp;"(1)
+
+In general.—The Secretary of a military department shall provide, to each member of a covered Armed Force under the jurisdiction of such Secretary, a document that outlines the training and qualifications acquired by the member while serving in such covered Armed Force. Such document shall be known as a 'competency record'.
+
+&emsp;"(2)
+
+Format and contents.—The Secretary of Defense shall develop a standardized format for competency records, which shall include, at a minimum, the following information:
+
+&emsp;&emsp;"(A) Relevant personal details about the member.
+
+&emsp;&emsp;"(B) Description of training courses, certifications, and qualifications obtained.
+
+&emsp;&emsp;"(C) Date and duration of each completed training.
+
+&emsp;&emsp;"(D) Authorized signatures and other necessary authentication.
+
+&emsp;"(3)
+
+Availability.—A competency record shall be provided to a member upon the separation or retirement of such member from a covered Armed Force.
+
+"(b)
+
+Implementation.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish the necessary regulations, procedures, and timelines for the implementation of this section.
+
+"(c)
+
+Report.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation and usefulness of competency records and any recommendations of the Secretary for improving competency records. The report shall include feedback and recommendations from States and other employers regarding the usability and accuracy of the information in the competency records.
+
+"(d)
+
+Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, or Space Force."
+
 #### Authority To Expand Eligibility for the United States Military Apprenticeship Program
 
 Pub. L. 115–91, div. A, title V, §546, Dec. 12, 2017, 131 Stat. 1397, provided that:
@@ -180,7 +220,7 @@ Exclusion.—The program manager may not be a staffing agency.
 
 "(d)
 
-Eligible Civilian Employment Staffing Agencies.—In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be usedfor the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate.
+Eligible Civilian Employment Staffing Agencies.—In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be used for the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate.
 
 "(e)
 
@@ -334,7 +374,7 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Purpose.—The purpose of this subtitle is to provide additional means by which the Secretary of Defense can manage the drawdown of the Armed Forces and to provide additional forms of assistance to members of the Armed Forces who are forced or induced to leave military service by reason of the drawdown of the Armed Forces, thereby facilitating the Secretary's ability to achieve end strength reductions caused by the drawdown.
+Purpose.—The purpose of this subtitle is to provide additional means by which the Secretary of Defense can manage the drawdown of the Armed Forces and to provide additional forms of assistance to members of the Armed Forces who are forced or induced toleave military service by reason of the drawdown of the Armed Forces, thereby facilitating the Secretary's ability to achieve end strength reductions caused by the drawdown.
 
 #### "SEC. 4483. DEFINITIONS.
 
@@ -352,7 +392,7 @@ Establishment.—Not later than 60 days after the date of enactment of this Act 
 
 "(b)
 
-State Agencies.—(1) The implementing official may enter into contracts or agreements with State approving agencies, as designated pursuant to section3671(a) of title 38, United States Code, or other State agencies to carry out any duty of the implementing official under this subtitle. Payment may be made to such agencies pursuant to any such contract or agreement for reasonable and necessary expenses of salary and travel incurred by employees of such agencies in carrying out such duties. Each such payment may be made only from funds available to the implementing official pursuant to section 4495(a)(3).
+State Agencies.—(1) The implementing official may enter into contracts or agreements with State approving agencies, as designated pursuant to section 3671(a) of title 38, United States Code, or other State agencies to carry out any duty of the implementing official under this subtitle. Payment may be made to such agencies pursuant to any such contract or agreement for reasonable and necessary expenses of salary and travel incurred by employees of such agencies in carrying out such duties. Each such payment may be made only from funds available to the implementing official pursuant to section 4495(a)(3).
 
 "(2) Each State approving agency or other State agency with which a contract or agreement is entered into under this section shall submit to the implementing official on a monthly or quarterly basis, as determined by the agency, a report containing a certification of such expenses for the period covered by the report. The report shall be submitted in the form and manner required by such official.
 
@@ -642,7 +682,7 @@ Case Manager.—(1) The implementing official shall provide for a program under 
 
 &emsp;"(B) the eligible person has an in-person interview with the case manager not later than 60 days after entering into a program of training under this subtitle; and
 
-&emsp;"(C) periodic (not less frequent than monthly) contact is maintained with each such eligible person for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the eligible person to appropriate counseling, if necessary, (iii) facilitating the eligible person's successful completion of such program, and (iv) following up with the employer and the eligible person in order to determine the eligible person's progress in the program and the outcome regarding the eligible person's participation in and successful completion of the program.
+&emsp;"(C) periodic (not less frequent than monthly) contact is maintained with each such eligible person for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the eligible person to appropriate counseling, if necessary, (iii) facilitating the eligible person's successful completion of such program, and (iv) following up with the employer and the eligible person in order to determine the eligibleperson's progress in the program and the outcome regarding the eligible person's participation in and successful completion of the program.
 
 "(2) No case manager shall be assigned pursuant to paragraph (1)(A)—
 
@@ -664,7 +704,7 @@ Case Manager Required.—Before an eligible person who voluntarily terminates fr
 
 "(a)
 
-In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shalljointly provide for an outreach and public information program—
+In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall jointly provide for an outreach and public information program—
 
 &emsp;"(A) to inform eligible persons about the employment and job training opportunities available under this subtitle and under other provisions of law; and
 
@@ -706,7 +746,7 @@ In General.—(1) Of the amounts authorized to be appropriated in section 301 \[
 
 "(b)
 
-Availability of Deobligated Funds.—Notwithstanding any other provision of law, any funds made available pursuant to this section for a fiscal year which are obligated for the purpose of making payments under section 4487 on behalf of an eligible person (including funds so obligated which previously had been obligated for such purpose on behalf of another eligible person and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the implementing official for obligation for such purpose. The further obligation of such funds by such official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+Availability of Deobligated Funds.—Notwithstanding any other provision of law, any funds made available pursuant to this section for a fiscal year which are obligated for the purpose of making payments under section 4487 on behalf of an eligible person (including funds so obligated which previously had been obligated for such purpose on behalf of another eligible person and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the implementing official for obligation for such purpose. The further obligation of suchfunds by such official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### "SEC. 4496. TIME PERIODS FOR APPLICATION AND INITIATION OF TRAINING.
 
@@ -730,5 +770,5 @@ Publication in the Federal Register.—If the transfer described in subsection (
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be "(A)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(1)(A)".</i>
 

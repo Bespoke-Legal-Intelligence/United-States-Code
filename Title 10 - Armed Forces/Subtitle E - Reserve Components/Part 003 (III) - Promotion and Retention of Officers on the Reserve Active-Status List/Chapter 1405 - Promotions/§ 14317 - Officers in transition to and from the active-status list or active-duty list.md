@@ -26,7 +26,7 @@ Officers Selected for Position Vacancies.—(1) Except as provided in subsection
 
 &emsp;(B) has been ordered to or is serving on active duty in support of a contingency operation.
 
-(2) If, under this subsection, the name of an officer is removed from a list of officers recommended for promotion, the officer shall be treated as if the officer had not been considered for promotion or examined for Federal recognition.
+(2) If, under this subsection, the name of an officer is removed from a list of officers recommended for promotion, the officer shall betreated as if the officer had not been considered for promotion or examined for Federal recognition.
 
 (e)
 
@@ -42,7 +42,7 @@ Officers Ordered to Active Duty in Time of War or National Emergency.—(1) A re
 
 (4) Consideration of an officer for promotion under this subsection shall be under regulations prescribed by the Secretary of the military department concerned.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, §1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, §1073(a)(68), Nov. 18, 1997, 111 Stat. 1904; Pub. L.108–136, div. A, title V, §512(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 110–417, \[div. A\], title V, §513, Oct. 14, 2008, 122 Stat. 4441.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, §1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, §1073(a)(68), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title V, §512(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 110–417, \[div. A\], title V, §513, Oct. 14, 2008, 122 Stat. 4441.)
 
 #### <b>Editorial Notes</b>
 

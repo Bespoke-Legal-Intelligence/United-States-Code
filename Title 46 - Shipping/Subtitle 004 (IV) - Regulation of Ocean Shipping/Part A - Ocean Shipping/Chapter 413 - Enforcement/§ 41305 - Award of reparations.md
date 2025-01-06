@@ -10,7 +10,7 @@ Basic Amount.—If the complaint was filed within the period specified in sectio
 
 (c)
 
-Additional Amounts.—On a showing that the injury was caused by an activity prohibited by section subsection <sup>1</sup> (b) or (c) of section 41102, paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
+Additional Amounts.—On a showing that the injury was caused by an activity prohibited by subsection (b) or (c) of section 41102, paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
 
 (d)
 
@@ -20,7 +20,7 @@ Difference Between Rates.—If the injury was caused by an activity prohibited b
 
 Attorney Fees.—In any action brought under section 41301, the prevailing party may be awarded reasonable attorney fees.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1546; Pub. L. 113–281, title IV, §402, Dec. 18, 2014, 128 Stat. 3056; Pub. L. 117–146, §§12, 15(c), June 16, 2022, 136 Stat. 1279.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1546; Pub. L. 113–281, title IV, §402, Dec. 18, 2014, 128 Stat. 3056; Pub. L. 117–146, §§12, 15(c), June 16, 2022, 136 Stat. 1279; Pub. L. 118–159, div. C, title XXXV, §3535(g), Dec. 23, 2024, 138 Stat. 2315.)
 
 Historical and Revision Notes
 
@@ -44,6 +44,8 @@ In subsection (b), the words "within the period specified in section 41301(a) of
 
 #### Amendments
 
+<b>2024</b>—Subsec. (c). Pub. L. 118–159 substituted "subsection" for "section subsection".
+
 <b>2022</b>—Subsec. (c). Pub. L. 117–146, §15(c)(1), substituted "paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105" for "41104(3) or (6), or 41105(1) or (3) of this title".
 
 Pub. L. 117–146, §12, substituted "subsection (b) or (c) of section 41102" for "41102(b)".
@@ -53,6 +55,4 @@ Subsec. (d). Pub. L. 117–146, §15(c)(2), substituted "subparagraph (A) or (B)
 <b>2014</b>—Subsec. (b). Pub. L. 113–281, §402(1), struck out ", plus reasonable attorney fees" before period at end.
 
 Subsec. (e). Pub. L. 113–281, §402(2), added subsec. (e).
-
-<i><sup>1</sup></i><i> So in original.</i>
 

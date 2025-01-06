@@ -20,7 +20,7 @@ Identification.—The Administrator \[of the Federal Emergency Management Agency
 
 &emsp;"(2)
 
-Guidance.—The Administrator of the Federal Highway Administration, in coordination with the Administrator, shall revise existing guidance or issuenew guidance as appropriate for State, local, and Indian tribal governments regarding the design, construction, maintenance, and repair of evacuation routes.
+Guidance.—The Administrator of the Federal Highway Administration, in coordination with the Administrator, shall revise existing guidance or issue new guidance as appropriate for State, local, and Indian tribal governments regarding the design, construction, maintenance, and repair of evacuation routes.
 
 "(b)
 

@@ -52,7 +52,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (2) Enrollment by State
 
-&emsp;Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j), unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
+&emsp;Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordancewith subsection (j), unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
 
 #### (g) Coverage amount
 
@@ -90,7 +90,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 #### (1) Filing
 
-&emsp;If a participating financial institution charges off all or part of an enrolled loan, suchparticipating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
+&emsp;If a participating financial institution charges off all or part of an enrolled loan, such participating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
 
 &emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the terms of the applicable participation agreement; and
 
@@ -120,7 +120,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (n) Denial of claims
 
-A participating State may deny a claim if a representation or warranty made by the participating financial institution to the participating State at the time that the loan was filed for enrollment or at the time that the claim was submitted was known by the participating financial institution to be false.
+A participating State may deny a claim if a representation or warranty made by the participating financial institution to the participatingState at the time that the loan was filed for enrollment or at the time that the claim was submitted was known by the participating financial institution to be false.
 
 #### (o) Subsequent recovery of claim amount
 
@@ -188,7 +188,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (3) Conditions for terminating special authority
 
-&emsp;If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
+&emsp;If the Fund determines that the inclusion in a participation agreement of the provisionsauthorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
 
 (Pub. L. 103–325, title II, §255, Sept. 23, 1994, 108 Stat. 2207.)
 

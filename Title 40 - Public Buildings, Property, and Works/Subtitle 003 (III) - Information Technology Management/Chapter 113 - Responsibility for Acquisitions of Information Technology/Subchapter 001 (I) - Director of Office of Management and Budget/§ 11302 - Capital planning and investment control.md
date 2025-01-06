@@ -24,7 +24,7 @@ Definitions.—In this subsection:
 
 &emsp;(2)
 
-Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
+Analyzing, tracking, and evaluating capital investments.—As part of the budgetprocess, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
 
 &emsp;(3)
 
@@ -32,7 +32,7 @@ Public availability.—
 
 &emsp;&emsp;(A)
 
-In general.—The Director shall make available to the public a list of each major information technology investment, without regard to whether the investments are for new information technology acquisitions orfor operations and maintenance of existing information technology, including data on cost, schedule, and performance.
+In general.—The Director shall make available to the public a list of each major information technology investment, without regard to whether the investments are for new information technology acquisitions or for operations and maintenance of existing information technology, including data on cost, schedule, and performance.
 
 &emsp;&emsp;(B)
 
@@ -190,7 +190,7 @@ Definition.—In this section—
 
 OMB Directive.—The Director shall issue a directive to require the Chief Information Officer of each executive agency to develop a comprehensive software licensing policy, which shall—
 
-&emsp;"(1) identify clear roles, responsibilities, and central oversight authority within the executive agency for managing enterprise software license agreements and commercial software licenses; and
+&emsp;"(1) identify clear roles, responsibilities, and central oversight authority within the executive agencyfor managing enterprise software license agreements and commercial software licenses; and
 
 &emsp;"(2) require the Chief Information Officer of each executive agency to—
 

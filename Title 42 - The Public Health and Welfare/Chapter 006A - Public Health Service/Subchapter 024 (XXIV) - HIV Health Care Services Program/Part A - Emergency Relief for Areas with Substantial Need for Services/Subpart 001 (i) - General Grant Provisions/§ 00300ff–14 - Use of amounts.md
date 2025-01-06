@@ -98,7 +98,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;&emsp;(A) Federal, State, or local funds are otherwise inadequate for the early intervention services the entity proposes to provide; and
 
-&emsp;&emsp;(B) the entity will expend funds pursuant to such paragraph to supplement and notsupplant other funds available to the entity for the provision of early intervention services for the fiscal year involved.
+&emsp;&emsp;(B) the entity will expend funds pursuant to such paragraph to supplement and not supplant other funds available to the entity for the provision of early intervention services for the fiscal year involved.
 
 #### (f) Priority for women, infants, children, and youth
 
@@ -124,7 +124,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursementavailable from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 #### (B) Determination
 
@@ -196,13 +196,13 @@ A prior section 2604 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §105, amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
 
-Subsecs. (h)(1), (2), (5)(A) and (i). Pub. L. 109–415, §107(b), substituted "this subpart" for "this part".
+Subsecs. (h)(1), (2), (5)(A), (i). Pub. L. 109–415, §107(b), substituted "this subpart" for "this part".
 
 <b>2000</b>—Subsec. (b)(1). Pub. L. 106–345, §121(a)(1), substituted "HIV-related services, as follows:" for "HIV-related—" in introductory provisions.
 

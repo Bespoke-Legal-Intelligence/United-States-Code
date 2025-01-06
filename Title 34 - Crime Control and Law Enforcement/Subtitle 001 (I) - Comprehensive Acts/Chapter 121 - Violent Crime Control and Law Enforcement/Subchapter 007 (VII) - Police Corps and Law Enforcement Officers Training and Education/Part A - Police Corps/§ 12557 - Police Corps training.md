@@ -12,7 +12,7 @@
 
 #### (b) Training sessions
 
-A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
+A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16 weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
 
 #### (c) Further training
 
@@ -46,7 +46,7 @@ Section was formerly classified to section 14097 of Title 42, The Public Health 
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–273 substituted "$400" for "$250".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director."
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "A participant in aState Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director."
 
 Subsec. (c). Pub. L. 105–277, §138(a)(2), substituted "The Police Corps" for "The 16 weeks of Police Corps".
 

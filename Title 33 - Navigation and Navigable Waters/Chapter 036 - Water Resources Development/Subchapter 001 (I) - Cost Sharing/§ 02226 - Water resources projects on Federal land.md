@@ -6,7 +6,7 @@ Subject to subsection (b), the Secretary may carry out an authorized water resou
 
 #### (b) MOU required
 
-The Secretary may carry out a project pursuant to subsection (a) only after the non-Federal interest has entered into a memorandum of understanding with the Federal agency that includes such terms and conditions as the Secretary determines to be necessary.
+The Secretary may carry out a project pursuant to subsection (a) only after the non-Federalinterest has entered into a memorandum of understanding with the Federal agency that includes such terms and conditions as the Secretary determines to be necessary.
 
 #### (c) Applicability
 

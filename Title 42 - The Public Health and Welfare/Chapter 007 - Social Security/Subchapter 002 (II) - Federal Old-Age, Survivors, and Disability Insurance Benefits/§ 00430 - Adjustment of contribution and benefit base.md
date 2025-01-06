@@ -16,7 +16,7 @@ The amount of such contribution and benefit base shall (subject to subsection (c
 
 #### (c) Amount of base for period prior to initial cost-of-living benefit increase
 
-For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the "contribution and benefit base" with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be$13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning)—
+For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the "contribution and benefit base" with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be $13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning)—
 
 &emsp;(A) in 1978 shall be $17,700,
 
@@ -68,7 +68,7 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §10208(b)(1)(B), as amended by Pub. L. 10
 
 Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)" for "change".
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369, in last sentence which was repealed by Pub. L. 98–76, substituted "3(a) or 3(f)(3)" for "3(a) or (3)(f)(3)" in the original, whichhad been translated as "section 231b(a) or (f)(3) of title 45".
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, in last sentence which was repealed by Pub. L. 98–76, substituted "3(a) or 3(f)(3)" for "3(a) or (3)(f)(3)" in the original, which had been translated as "section 231b(a) or (f)(3) of title 45".
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted "December" for "June".
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Cost-of-Living Increase in Benefits
 
-For purposes of subsec. (a) of this section, the increase in benefits provided by section 2 of Pub. L. 93–233, revising benefits table of section 415(a) of this title and amending sections 427(a), (b) and 428(b)(1), (2), (c)(3)(A), (B) of this title considered an increase under section 415(i) of this title, see section 3(i) of Pub. L. 93–233, set out as a note under section 415 of this title.
+For purposes of subsec. (a) of this section, the increase in benefits provided by section 2 of Pub. L. 93–233, revising benefits table of section 415(a) of this title and amending sections 427(a), (b) and 428(b)(1), (2),\(c)(3)(A), (B) of this title considered an increase under section 415(i) of this title, see section 3(i) of Pub. L. 93–233, set out as a note under section 415 of this title.
 
 #### <b>Executive Documents</b>
 
@@ -242,7 +242,7 @@ For purposes of subsec. (a) of this section, the increase in benefits provided b
 
 <b>1997</b>—By notice of the Commissioner of Social Security, Oct. 18, 1996, 61 F.R. 55346, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1997 is $65,400.
 
-<b>1996</b>—By notice of the Commissioner of Social Security, Oct. 18, 1995, 60 F.R. 54751, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1996 is $62,700.
+<b>1996</b>—By notice of the Commissioner of Social Security, Oct. 18, 1995, 60 F.R. 54751, it was determined andannounced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1996 is $62,700.
 
 <b>1995</b>—By notice of the Secretary of Health and Human Services, Oct. 25, 1994, 59 F.R. 54464, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1995 is $61,200.
 

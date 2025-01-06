@@ -82,7 +82,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Cyber incident.—The term "cyber incident" means actions taken through the use of computer networks that result in an actual or potentially adverse effect on an information system or the information residing therein.
+Cyber incident.—The term "cyber incident" means actions taken through the use ofcomputer networks that result in an actual or potentially adverse effect on an information system or the information residing therein.
 
 &emsp;(2)
 

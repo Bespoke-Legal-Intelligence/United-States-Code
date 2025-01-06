@@ -8,7 +8,7 @@ The Secretary shall, without charge to a State receiving payments under section 
 
 #### (1) In general
 
-&emsp;Upon the request of a State receiving payments under section 300d–11(a) of this title, theSecretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the State in carrying out section 300d–11(b) of this title and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
+&emsp;Upon the request of a State receiving payments under section 300d–11(a) of this title, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the State in carrying out section 300d–11(b) of this title and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
 
 #### (2) Reduction in payments
 

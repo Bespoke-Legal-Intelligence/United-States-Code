@@ -82,7 +82,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 
-Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: "Section 2536 of title 10, United States Code \[now 10 U.S.C. 4874\], as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
+Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: "Section 2536 of title 10,United States Code \[now 10 U.S.C. 4874\], as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
 
 #### Removal of National Interest Determination Requirements for Certain Entities
 

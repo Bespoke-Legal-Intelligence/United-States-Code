@@ -20,7 +20,7 @@ Except for the Commandant, any individual adjudicating an appeal or waiver of a 
 
 A prior section 562 was renumbered section 1102 of this title.
 
-Another prior section 562, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, §27, 64 Stat. 407, related to deck courts, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+Another prior section 562, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, §27, 64 Stat. 407, relatedto deck courts, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
 

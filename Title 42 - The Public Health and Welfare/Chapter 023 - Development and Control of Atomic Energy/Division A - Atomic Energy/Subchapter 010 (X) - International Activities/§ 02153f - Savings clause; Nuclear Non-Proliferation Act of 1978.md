@@ -8,7 +8,7 @@
 
 > shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed as the case may be, by the parties thereto or by any court of competent jurisdiction.
 
-(b) Nothing in this Act shall affect the procedures or requirements applicable to agreements for cooperation entered into pursuant to sections 2121(c), 2164(b), or 2164(c) of this title or arrangements pursuant thereto as it was in effect immediately prior to March 10, 1978.
+(b) Nothing in this Act shall affect the procedures or requirements applicable to agreementsfor cooperation entered into pursuant to sections 2121(c), 2164(b), or 2164(c) of this title or arrangements pursuant thereto as it was in effect immediately prior to March 10, 1978.
 
 (Pub. L. 95–242, title VI, §603(a), (b), Mar. 10, 1978, 92 Stat. 152.)
 
@@ -16,7 +16,7 @@
 
 #### References in Text
 
-This Act, referred to in text, means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978,92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
+This Act, referred to in text, means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
 
 #### Codification
 

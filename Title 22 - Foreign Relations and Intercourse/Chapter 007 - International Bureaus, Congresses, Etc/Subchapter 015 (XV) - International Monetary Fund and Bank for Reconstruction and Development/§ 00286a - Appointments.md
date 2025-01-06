@@ -28,7 +28,7 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–435 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–564, §2(1), amended subsec. (c) generally to provide that the Governor serve ascouncillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d).
+<b>1976</b>—Subsec. (c). Pub. L. 94–564, §2(1), amended subsec. (c) generally to provide that the Governor serve as councillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d).
 
 Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 

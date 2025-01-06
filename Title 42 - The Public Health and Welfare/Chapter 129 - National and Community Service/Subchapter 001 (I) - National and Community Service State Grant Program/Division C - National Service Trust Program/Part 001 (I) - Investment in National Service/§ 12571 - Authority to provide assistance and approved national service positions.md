@@ -126,7 +126,7 @@ The Corporation shall—
 
 &emsp;(3) subject to the availability of appropriations and quality service opportunities, implement the plan described in paragraph (1).
 
-(Pub. L. 101–610, title I, §121, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 788;amended Pub. L. 111–13, title I, §1301, Apr. 21, 2009, 123 Stat. 1484.)
+(Pub. L. 101–610, title I, §121, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 788; amended Pub. L. 111–13, title I, §1301, Apr. 21, 2009, 123 Stat. 1484.)
 
 #### <b>Editorial Notes</b>
 
@@ -182,9 +182,11 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 #### Overall Minimum Share Requirement
 
-Pub. L. 117–328, div. H, title IV, §402, Dec. 29, 2022, 136 Stat. 4900, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
+Pub. L. 118–47, div. D, title IV, §402, Mar. 23, 2024, 138 Stat. 695, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title IV, §402, Dec. 29, 2022, 136 Stat. 4900.
 
 Pub. L. 117–103, div. H, title IV, §402, Mar. 15, 2022, 136 Stat. 488.
 

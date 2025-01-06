@@ -112,7 +112,7 @@ The text of subsec. (g) of section 2433 of this title, which was transferred to 
 
 Pub. L. 116–283, §1850(h)(1), transferred subsec. (e) of section 2433 of this title to this section, struck out subsec. designation, and redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively.
 
-Subsec. (a). Pub. L. 116–283, §1850(h)(2)(A), (B), inserted subsec. heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, inserted par. (1) heading, and substituted "Except as provided in paragraph (2)," for "Except as provided in subparagraph (B)," in par. (1).
+Subsec. (a). Pub. L. 116–283, §1850(h)(2)(A), (B), inserted subsec. heading, redesignated subpars. (A) and\(B) as pars. (1) and (2), respectively, inserted par. (1) heading, and substituted "Except as provided in paragraph (2)," for "Except as provided in subparagraph (B)," in par. (1).
 
 Subsec. (a)(1). Pub. L. 116–283, §1850(h)(2)(C), as amended by Pub. L. 117–81, §1701(o)(6)(E)(iv), substituted "under section 4374 of this title" for "under subsection (d)", "section 4351(e)" for "section 2432(e)", and "section 4351(f)" for "section 2432(f)".
 

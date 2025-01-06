@@ -10,7 +10,7 @@ As used in this chapter—
 
 (d) The term "range condition" means the quality of the land reflected in its ability in specific vegetative areas to support various levels of productivity in accordance with range management objectives and the land use planning process, and relates to soil quality, forage values (whether seasonal or year round), wildlife habitat, watershed and plant communities, the present state of vegetation of a range site in relation to the potential plant community for that site, and the relative degree to which the kinds, proportions, and amounts of vegetation in a plant community resemble that of the desired community for that site.
 
-(e) The term "native vegetation" means those plant species, communities, or vegetative associations which are endemic to a given area and which would normally be identified with a healthy and productive range condition occurring as a result of the natural vegetative process of the area.
+(e) The term "native vegetation" means those plant species, communities, or vegetative associations which are endemic to a given area andwhich would normally be identified with a healthy and productive range condition occurring as a result of the natural vegetative process of the area.
 
 (f) The term "range improvement" means any activity or program on or relating to rangelands which is designed to improve production of forage; change vegetative composition; control patterns of use; provide water; stabilize soil and water conditions; and provide habitat for livestock and wildlife. The term includes, but is not limited to, structures, treatment projects, and use of mechanical means to accomplish the desired results.
 

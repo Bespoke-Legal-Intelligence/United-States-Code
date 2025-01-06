@@ -56,7 +56,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 
 
 <b>1976</b>—Subsecs. (d), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1972</b>—Pub. L. 92–606 substituted provisions relating to individual income taxes in Guam and their sharing by the United States and Guam, for provisions relating to payment to Guam and American Samoa of proceeds of tax on coconut and other vegetable oils.
+<b>1972</b>—Pub. L. 92–606 substituted provisions relating to individual income taxes in Guam and their sharing bythe United States and Guam, for provisions relating to payment to Guam and American Samoa of proceeds of tax on coconut and other vegetable oils.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

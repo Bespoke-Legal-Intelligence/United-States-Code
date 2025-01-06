@@ -12,7 +12,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, orregulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 #### (b) Recordkeeping regulations
 
@@ -146,7 +146,7 @@ Section effective on first day of seventh calendar month which begins after Oct.
 
 #### Regulations
 
-Pub. L. 102–550, title XV, §1515(c), Oct. 28, 1992, 106 Stat. 4059, provided that: "The initial final regulations prescribed pursuant to section 21(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1829b(b)(3)\] (as added by subsection (a)(2) of this section) shall take effect before January 1, 1994."
+Pub. L. 102–550, title XV, §1515(c), Oct. 28, 1992, 106 Stat. 4059, provided that: "The initial final regulationsprescribed pursuant to section 21(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1829b(b)(3)\] (as added by subsection (a)(2) of this section) shall take effect before January 1, 1994."
 
 #### Additional Criminal Penalties
 

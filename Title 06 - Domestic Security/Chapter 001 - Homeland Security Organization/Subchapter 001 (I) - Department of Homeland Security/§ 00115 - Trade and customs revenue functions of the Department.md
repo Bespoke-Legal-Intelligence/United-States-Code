@@ -30,7 +30,7 @@
 
 &emsp;The study shall include an analysis of—
 
-&emsp;&emsp;(A) the extent to which the customs revenue functions carried out by the former United States Customs Service have been consolidated with other functions of the Department (including the assignment of noncustoms revenue functions to personnel responsible for customs revenue collection), discontinued, or diminished following the transfer of the United States Customs Service to the Department;
+&emsp;&emsp;(A) the extent to which the customs revenue functions carried out by the formerUnited States Customs Service have been consolidated with other functions of the Department (including the assignment of noncustoms revenue functions to personnel responsible for customs revenue collection), discontinued, or diminished following the transfer of the United States Customs Service to the Department;
 
 &emsp;&emsp;(B) the extent to which staffing levels or resources attributable to customs revenue functions have decreased since the transfer of the United States Customs Service to the Department; and
 
@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days beforefinalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days before finalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
 
 #### (B) Exception
 

@@ -122,7 +122,7 @@ Qualifying event involving medicare entitlement.—In the case of an event descr
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\])" before ", or" at end.
 
-Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted "at any time during the first 60 days of continuationcoverage under this part" for "at the time of a qualifying event described in section 1163(2) of this title".
+Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this part" for "at the time of a qualifying event described in section 1163(2) of this title".
 
 <b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months."
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 111–5 applicable to periods of coverage which would (with
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L.104–191 set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31, 1989, see section 1704(g)(2) of Pub. L. 104–188, set out as a note under section 4980B of Title 26.
 

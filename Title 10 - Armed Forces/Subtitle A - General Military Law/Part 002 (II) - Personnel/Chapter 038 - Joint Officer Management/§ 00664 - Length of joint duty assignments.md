@@ -44,7 +44,7 @@ Accrued Joint Experience.—For the purposes of subsection (d)(2), the Secretary
 
 Constructive Credit.—The Secretary of Defense may award constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in subsection (d)(1). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5),Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446; Pub. L. 114–328, div. A, title V, §510, Dec. 23, 2016, 130 Stat. 2110; Pub. L. 115–232, div. A, title X, §1081(a)(9), Aug. 13, 2018, 132 Stat. 1983.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446; Pub. L. 114–328, div. A, title V, §510, Dec. 23, 2016, 130 Stat. 2110; Pub. L. 115–232, div. A, title X, §1081(a)(9), Aug. 13, 2018, 132 Stat. 1983.)
 
 #### <b>Editorial Notes</b>
 
@@ -222,7 +222,7 @@ Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as am
 
 #### Length of Joint Duty Assignments
 
-Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: "Subsection (a) of section 664 oftitle 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered."
+Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: "Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered."
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

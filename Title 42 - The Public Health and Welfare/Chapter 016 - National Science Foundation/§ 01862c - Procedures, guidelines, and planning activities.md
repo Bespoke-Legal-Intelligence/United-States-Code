@@ -50,7 +50,7 @@ The Director, after gathering appropriate information and after considering comm
 
 #### (e) Report
 
-The Director shall prepare and submit, not later than June 15, 1989, a report containing the comprehensive plan required by subsection (d) of this section to the Committee on Labor and Human Resources and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+The Director shall prepare and submit, not later than June 15, 1989, a report containing the comprehensive plan required by subsection (d) of this section to the Committee on Labor andHuman Resources and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (f) Final guidelines
 

@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;(D) The plan sponsor reasonably believes that the benefits provided by the expatriate health plan satisfy a standard at least actuarially equivalent to the level provided for in section 36B(c)(2)(C)(ii) of title 26.
 
-&emsp;&emsp;(E) If the plan or coverage provides dependent coverage of children, the plan or coverage makes such dependent coverage available for adult children until the adult child turns 26 years of age, unless such individual is the child of a child receiving dependent coverage.
+&emsp;&emsp;(E) If the plan or coverage provides dependent coverage of children, the plan or coverage makes such dependent coverage available for adult children until the adultchild turns 26 years of age, unless such individual is the child of a child receiving dependent coverage.
 
 &emsp;&emsp;(F) The plan or coverage—
 
@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;(A)(i) whose skills, qualifications, job duties, or expertise is of a type that has caused his or her employer to transfer or assign him or her to the United States for a specific and temporary purpose or assignment tied to his or her employment; and
 
-&emsp;&emsp;(ii) in connection with such transfer or assignment, is reasonably determined by the plan sponsor to require access to health insurance and other related services and support in multiple countries, and is offered other multinational benefits on a periodicbasis (such as tax equalization, compensation for cross border moving expenses, or compensation to enable the expatriate to return to their home country);
+&emsp;&emsp;(ii) in connection with such transfer or assignment, is reasonably determined by the plan sponsor to require access to health insurance and other related services and support in multiple countries, and is offered other multinational benefits on a periodic basis (such as tax equalization, compensation for cross border moving expenses, or compensation to enable the expatriate to return to their home country);
 
 &emsp;&emsp;(B) who is working outside of the United States for a period of at least 180 days in a consecutive 12-month period that overlaps with the plan year; or
 
@@ -130,7 +130,7 @@ Unless otherwise specified, this Act shall take effect on December 16, 2014, and
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsecs. (a), (c), and (d)(2)(F)(i), (G), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 9010 of the Act was set out as a note preceding section 4001 of Title 26, Internal Revenue Code, prior to repeal by Pub. L. 116–94, div. N, title I, §502(a), Dec. 20, 2019, 133 Stat. 3119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsecs. (a), (c), and (d)(2)(F)(i), (G), is Pub.L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 9010 of the Act was set out as a note preceding section 4001 of Title 26, Internal Revenue Code, prior to repeal by Pub. L. 116–94, div. N, title I, §502(a), Dec. 20, 2019, 133 Stat. 3119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
 The Health Care and Education Reconciliation Act of 2010, referred to in subsecs. (a) and (d)(2)(G), is Pub. L. 111–152, Mar. 30, 2010, 124 Stat. 1029. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1305 of this title and Tables.
 

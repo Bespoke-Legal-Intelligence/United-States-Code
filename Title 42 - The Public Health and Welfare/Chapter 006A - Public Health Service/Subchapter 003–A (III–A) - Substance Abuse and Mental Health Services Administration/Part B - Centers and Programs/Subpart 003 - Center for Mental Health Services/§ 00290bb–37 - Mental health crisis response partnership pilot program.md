@@ -22,7 +22,7 @@ In awarding grants under this section, the Secretary shall prioritize applicatio
 
 #### (1) Initial report
 
-&emsp;Not later than September 30, 2024, the Secretary shall submit to Congress a report onsteps taken by States, localities, territories, Indian Tribes, and Tribal organizations prior to December 29, 2022, to strengthen the partnerships among mental health providers, substance use disorder treatment providers, primary care physicians, mental health and substance use disorder crisis teams, paramedics, law enforcement officers, and other first responders.
+&emsp;Not later than September 30, 2024, the Secretary shall submit to Congress a report on steps taken by States, localities, territories, Indian Tribes, and Tribal organizations prior to December 29, 2022, to strengthen the partnerships among mental health providers, substance use disorder treatment providers, primary care physicians, mental health and substance use disorder crisis teams, paramedics, law enforcement officers, and other first responders.
 
 #### (2) Progress reports
 

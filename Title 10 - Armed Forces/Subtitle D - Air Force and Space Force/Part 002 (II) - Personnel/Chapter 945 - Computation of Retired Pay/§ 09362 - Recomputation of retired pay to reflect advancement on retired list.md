@@ -72,7 +72,7 @@ Pub. L. 98–94, §922(a)(13), inserted "The amount recomputed, if not a multipl
 
 <b>1980</b>—Pub. L. 96–513 in heading for column 1 of table substituted "after September 7, 1980" for "on or after the date of the enactment of the Department of Defense Authorization Act, 1981".
 
-Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons after date of enactment of Department of Defense Authorization Act, 1981.
+Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to personsafter date of enactment of Department of Defense Authorization Act, 1981.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

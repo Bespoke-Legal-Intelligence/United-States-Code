@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "catchment area", with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, §723, Dec. 23, 2016, 130 Stat. 2229; Pub. L. 116–92, div. A, title VII, §702(b)(1), (2)(A), Dec. 20, 2019, 133 Stat. 1436; Pub. L. 117–81, div. A, title VII, §703(b), Dec. 27, 2021, 135 Stat. 1779.)
+(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amendedPub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, §723, Dec. 23, 2016, 130 Stat. 2229; Pub. L. 116–92, div. A, title VII, §702(b)(1), (2)(A), Dec. 20, 2019, 133 Stat. 1436; Pub. L. 117–81, div. A, title VII, §703(b), Dec. 27, 2021, 135 Stat. 1779.)
 
 #### <b>Editorial Notes</b>
 

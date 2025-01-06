@@ -42,7 +42,7 @@ A prior section 374 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–616, §203(1), substituted "No grant may be made under this part" for "No grant may be made under section 273 or 274a of this title".
 
-Subsec. (b). Pub. L. 101–616, §203(2), redesignated par. (2) as (1) and substituted "section 273(a)(1)" for "section 273", struck out former par. (1) which set forth factors in considering applications for section 273 grants, redesignated par. (3) as (2) and substituted "section 273(a)(2)" for "paragraphs (2) and (3) of section 273(a)", and added par. (3).
+Subsec. (b). Pub. L. 101–616, §203(2), redesignated par. (2) as (1) and substituted "section 273(a)(1)" for "section 273", struck out former par. (1) which set forth factorsin considering applications for section 273 grants, redesignated par. (3) as (2) and substituted "section 273(a)(2)" for "paragraphs (2) and (3) of section 273(a)", and added par. (3).
 
 Subsec. (c). Pub. L. 101–616, §203(3), inserted "or contract" after "grant" wherever appearing and "and contracts" after "grants" wherever appearing.
 

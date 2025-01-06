@@ -62,7 +62,7 @@ Pub. L. 103–238, §1, Apr. 30, 1994, 108 Stat. 532, provided that: "This Act \
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–587, title III, §3001, Nov. 4, 1992, 106 Stat. 5059, provided that: "This title \[enacting subchapter Vof this chapter, amending sections 1362, 1372, 1379, and 1382 of this title and section 183c of Title 46, Appendix, Shipping, and enacting provisions set out as notes under sections 1421 and 1421a of this title\] may be cited as the 'Marine Mammal Health and Stranding Response Act'."
+Pub. L. 102–587, title III, §3001, Nov. 4, 1992, 106 Stat. 5059, provided that: "This title \[enacting subchapter V of this chapter, amending sections 1362, 1372, 1379, and 1382 of this title and section 183c of Title 46, Appendix, Shipping, and enacting provisions set out as notes under sections 1421 and 1421a of this title\] may be cited as the 'Marine Mammal Health and Stranding Response Act'."
 
 Pub. L. 102–523, §1, Oct. 26, 1992, 106 Stat. 3425, provided that: "This Act \[enacting subchapter IV of this chapter and amending sections 952, 953, 973r, and 1362 of this title\] may be cited as the 'International Dolphin Conservation Act of 1992'."
 

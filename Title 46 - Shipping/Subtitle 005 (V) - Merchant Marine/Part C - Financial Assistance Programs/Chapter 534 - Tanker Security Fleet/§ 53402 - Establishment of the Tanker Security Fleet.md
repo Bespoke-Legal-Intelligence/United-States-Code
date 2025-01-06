@@ -44,7 +44,7 @@ Vessels owned by a section 50501 citizen, or united states citizen trust, and ch
 
 &emsp;&emsp;(A) during the period of an operating agreement under this chapter that applies to the vessel, the vessel will be—
 
-&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 of this title or that is a United States citizen trust; and
+&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 ofthis title or that is a United States citizen trust; and
 
 &emsp;&emsp;&emsp;(ii) demise chartered to a person—
 
@@ -116,7 +116,7 @@ In general.—The Commandant of the Coast Guard may rely on a certification from
 
 &emsp;&emsp;(B)
 
-Foreign classification society.—The Commandant of the Coast Guard may accept certification from a foreign classification society under subparagraph (A) only—
+Foreign classification society.—The Commandant of the Coast Guard may acceptcertification from a foreign classification society under subparagraph (A) only—
 
 &emsp;&emsp;&emsp;(i) to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
 

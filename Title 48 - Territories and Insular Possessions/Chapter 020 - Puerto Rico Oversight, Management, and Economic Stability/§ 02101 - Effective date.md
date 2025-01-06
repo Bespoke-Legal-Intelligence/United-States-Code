@@ -22,7 +22,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 #### Short Title of 2022 Amendment
 
-Pub. L. 117–82, §1, Jan. 20, 2022, 136 Stat. 3, provided that: "This Act \[enacting section 2178 of this title\] may be cited as the 'Puerto Rico Recovery Accuracy in Disclosures Act of 2021' or 'PRRADA'."
+Pub. L. 117–82, §1, Jan. 20, 2022, 136 Stat. 3, provided that: "This Act \[enacting section 2178 of this title\] maybe cited as the 'Puerto Rico Recovery Accuracy in Disclosures Act of 2021' or 'PRRADA'."
 
 #### Short Title
 

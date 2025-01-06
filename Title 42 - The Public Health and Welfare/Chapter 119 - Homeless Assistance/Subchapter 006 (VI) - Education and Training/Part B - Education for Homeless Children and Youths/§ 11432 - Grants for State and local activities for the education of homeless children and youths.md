@@ -102,7 +102,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;(ii)(I) provide assistance to the parent or guardian of each homeless child or youth (or, in the case of an unaccompanied youth, the youth) to exercise the right to attend the parent's or guardian's (or youth's) choice of schools, as provided in subsection (g)(3)(A); and
 
-&emsp;&emsp;&emsp;(II) coordinate with the local educational agency with jurisdiction for theschool selected by the parent or guardian (or youth), to provide transportation and other necessary services;
+&emsp;&emsp;&emsp;(II) coordinate with the local educational agency with jurisdiction for the school selected by the parent or guardian (or youth), to provide transportation and other necessary services;
 
 &emsp;&emsp;&emsp;(iii) ensure that the parent or guardian (or, in the case of an unaccompanied youth, the youth) shall receive the information required by this subparagraph in a manner and form understandable to such parent or guardian (or youth), including, if necessary and to the extent feasible, in the native language of such parent or guardian (or youth); and
 
@@ -114,7 +114,7 @@ Grants under this section shall be used for the following:
 
 #### (D) School ineligibility
 
-&emsp;&emsp;A separate school described in subparagraph (B) that fails to meet the standards, regulations, and mandates described in subparagraph (C)(iv)(II) shall not be eligible to receive funds under this part for programs carried out in such school after the first date of such failure.
+&emsp;&emsp;A separate school described in subparagraph (B) that fails to meet the standards,regulations, and mandates described in subparagraph (C)(iv)(II) shall not be eligible to receive funds under this part for programs carried out in such school after the first date of such failure.
 
 #### (E) Local educational agency requirements
 
@@ -202,7 +202,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;(2) develop and carry out the State plan described in subsection (g);
 
-&emsp;(3) collect data for and transmit to the Secretary, at such time and in such manner as the Secretary may reasonably require, a report containing information necessary to assess the educational needs of homeless children and youths within the State, including data necessary for the Secretary to fulfill the responsibilities under section 11434(h) of this title;
+&emsp;(3) collect data for and transmit to the Secretary, at such time and in such manner as theSecretary may reasonably require, a report containing information necessary to assess the educational needs of homeless children and youths within the State, including data necessary for the Secretary to fulfill the responsibilities under section 11434(h) of this title;
 
 &emsp;(4) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—
 
@@ -242,7 +242,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(i) homeless children have access to public preschool programs, administered by the State educational agency or local educational agency, as provided to other children in the State;
 
-&emsp;&emsp;&emsp;(ii) youths described in section 11434a(2) of this title and youths separated from public schools are identified and accordedequal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and
+&emsp;&emsp;&emsp;(ii) youths described in section 11434a(2) of this title and youths separated from public schools are identified and accorded equal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and
 
 &emsp;&emsp;&emsp;(iii) homeless children and youths who meet the relevant eligibility criteria do not face barriers to accessing academic and extracurricular activities, including magnet school, summer school, career and technical education, advanced placement, online learning, and charter school programs, if such programs are available at the State and local levels.
 
@@ -310,7 +310,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(ii) consider student-centered factors related to the child's or youth's best interest, including factors related to the impact of mobility on achievement, education, health, and safety of homeless children and youth, giving priority to the request of the child's or youth's parent or guardian or (in the case of an unaccompanied youth) the youth;
 
-&emsp;&emsp;&emsp;(iii) if, after conducting the best interest determination based on consideration of the presumption in clause (i) and the student-centered factors in clause (ii), the local educational agency determines that it is not in the child's or youth's best interest to attend the school of origin or the school requested by the parent or guardian, or (in the case of an unaccompanied youth) the youth, provide the child's or youth's parent or guardian or the unaccompanied youth with a written explanation of the reasons for its determination, in a manner and form understandable to such parent, guardian, or unaccompanied youth, including information regarding the right to appeal under subparagraph (E); and
+&emsp;&emsp;&emsp;(iii) if, after conducting the best interest determination based on consideration of the presumption in clause (i) and the student-centered factors in clause (ii), thelocal educational agency determines that it is not in the child's or youth's best interest to attend the school of origin or the school requested by the parent or guardian, or (in the case of an unaccompanied youth) the youth, provide the child's or youth's parent or guardian or the unaccompanied youth with a written explanation of the reasons for its determination, in a manner and form understandable to such parent, guardian, or unaccompanied youth, including information regarding the right to appeal under subparagraph (E); and
 
 &emsp;&emsp;&emsp;(iv) in the case of an unaccompanied youth, ensure that the local educational agency liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, gives priority to the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
 
@@ -358,7 +358,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (G) Privacy
 
-&emsp;&emsp;Information about a homeless child's or youth's living situation shall be treated as astudent education record, and shall not be deemed to be directory information, under section 1232g of title 20.
+&emsp;&emsp;Information about a homeless child's or youth's living situation shall be treated as a student education record, and shall not be deemed to be directory information, under section 1232g of title 20.
 
 #### (H) Contact information
 
@@ -434,7 +434,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(v) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
 
-&emsp;&emsp;&emsp;(vi) public notice of the educational rights of homeless children and youths isdisseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;
+&emsp;&emsp;&emsp;(vi) public notice of the educational rights of homeless children and youths is disseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;
 
 &emsp;&emsp;&emsp;(vii) enrollment disputes are mediated in accordance with paragraph (3)(E);
 

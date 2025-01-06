@@ -20,7 +20,7 @@ In carrying out this section, Sector Risk Management Agencies shall—
 
 #### (c) Responsibilities
 
-Consistent with applicable law, Presidential directives, Federal regulations, and strategic guidance from the Secretary, each Sector Risk Management Agency shall utilize its specialized expertise regarding its designated critical infrastructure sector or subsector of such sector and authorities under applicable law to—
+Consistent with applicable law, Presidential directives, Federal regulations, and strategicguidance from the Secretary, each Sector Risk Management Agency shall utilize its specialized expertise regarding its designated critical infrastructure sector or subsector of such sector and authorities under applicable law to—
 
 &emsp;(1) support sector risk management, in coordination with the Director, including—
 

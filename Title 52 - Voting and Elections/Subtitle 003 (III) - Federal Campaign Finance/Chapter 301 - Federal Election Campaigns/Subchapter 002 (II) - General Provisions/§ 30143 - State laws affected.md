@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), the provisions of this Act, and of rules prescribed under this Act, supersede and preempt any provision of State law with respect to election to Federal office.
+Subject to subsection (b), the provisions of this Act, and of rules prescribed under this Act,supersede and preempt any provision of State law with respect to election to Federal office.
 
 #### (b) State and local committees of political parties
 

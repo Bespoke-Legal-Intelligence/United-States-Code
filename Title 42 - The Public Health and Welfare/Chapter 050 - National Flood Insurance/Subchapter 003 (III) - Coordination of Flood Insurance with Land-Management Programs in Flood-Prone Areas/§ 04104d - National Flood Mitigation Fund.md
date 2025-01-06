@@ -50,7 +50,7 @@ This chapter, referred to in subsec. (d), was in the original a reference to "th
 
 #### Codification
 
-September 23, 1994, referred to in subsec. (g), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
+September 23, 1994, referred to in subsec. (g), was in the original "the date of enactment of this Act", whichwas translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -30,7 +30,7 @@ Requirements.—The uniform application required under subsection (a) shall meet
 
 &emsp;&emsp;(A) a copy of—
 
-&emsp;&emsp;&emsp;(i) the articles of incorporation filed on behalf of the institution or establishmentor proof of licensing to operate as an educational institution or training establishment in the State where the institution or establishment is located; and
+&emsp;&emsp;&emsp;(i) the articles of incorporation filed on behalf of the institution or establishment or proof of licensing to operate as an educational institution or training establishment in the State where the institution or establishment is located; and
 
 &emsp;&emsp;&emsp;(ii) the financial position of the institution or establishment, as prepared by an appropriate third-party entity; or
 
@@ -56,7 +56,7 @@ Requirements.—The uniform application required under subsection (a) shall meet
 
 (c)
 
-Requirements for State Approving Agencies.—During the approval process with respect to a uniform application submitted by an educational institution or training establishment, a State approving agency, or the Secretary when acting in the role of a State approving agency, shall contact the Secretary of Education to determine whether the course of education subject to such approval process has withdrawn, or been denied or suspended, from receiving for benefits under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
+Requirements for State Approving Agencies.—During the approval process with respect to a uniform application submitted by an educational institution or training establishment, a State approving agency, or the Secretary whenacting in the role of a State approving agency, shall contact the Secretary of Education to determine whether the course of education subject to such approval process has withdrawn, or been denied or suspended, from receiving for benefits under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
 
 (d)
 

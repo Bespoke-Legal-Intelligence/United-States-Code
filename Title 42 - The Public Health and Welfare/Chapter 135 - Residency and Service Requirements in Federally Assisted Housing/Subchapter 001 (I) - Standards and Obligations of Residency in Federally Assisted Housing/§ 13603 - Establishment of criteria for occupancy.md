@@ -46,7 +46,7 @@
 
 #### (7) Reports
 
-&emsp;Not later than 3 months after October 28, 1992, the task force shall submit to the Secretary and the Congress a preliminary reportdescribing its initial actions. Not later than 6 months after October 28, 1992, the task force shall submit a report to the Secretary and the Congress, which shall include—
+&emsp;Not later than 3 months after October 28, 1992, the task force shall submit to the Secretary and the Congress a preliminary report describing its initial actions. Not later than 6 months after October 28, 1992, the task force shall submit a report to the Secretary and the Congress, which shall include—
 
 &emsp;&emsp;(A) a description of its findings; and
 

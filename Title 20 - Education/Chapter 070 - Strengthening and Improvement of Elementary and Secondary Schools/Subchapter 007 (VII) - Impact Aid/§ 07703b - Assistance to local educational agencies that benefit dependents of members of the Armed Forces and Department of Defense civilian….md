@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
 
-&emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
+&emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools ofthe local educational agency is the result of one or more of the following:
 
 &emsp;&emsp;&emsp;(i) The global rebasing plan of the Department of Defense.
 
@@ -48,7 +48,7 @@
 
 #### (B) Per-student rate
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall beequal to the dollar amount obtained by dividing—
+&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall be equal to the dollar amount obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount of funds made available for that fiscal year to provide assistance under this subsection; by
 

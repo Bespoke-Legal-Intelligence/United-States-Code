@@ -4,7 +4,7 @@
 
 (b) The needs of civilian law enforcement officials for information shall, to the maximum extent practicable, be taken into account in the planning and execution of military training or operations.
 
-(c) The Secretary of Defense shall ensure, to the extent consistent with national security, that intelligence information held by the Department of Defense and relevant to drug interdiction or other civilian law enforcement matters is provided promptly to appropriate civilian law enforcement officials.
+(c) The Secretary of Defense shall ensure, to the extent consistent with national security,that intelligence information held by the Department of Defense and relevant to drug interdiction or other civilian law enforcement matters is provided promptly to appropriate civilian law enforcement officials.
 
 (Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115, §371; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; renumbered §271, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
@@ -70,7 +70,7 @@ In general.—Not later than March 31 of each year, the Secretary of Defense sha
 
 Elements.—Each report submitted under subparagraph (A) shall include each of the following:
 
-&emsp;&emsp;&emsp;"(i) A description of the military training and operational activities of each military componentleveraged, pursuant to section 271 of title 10, United States Code, to support the border security mission of the Department of Homeland Security at the southern border of the United States.
+&emsp;&emsp;&emsp;"(i) A description of the military training and operational activities of each military component leveraged, pursuant to section 271 of title 10, United States Code, to support the border security mission of the Department of Homeland Security at the southern border of the United States.
 
 &emsp;&emsp;&emsp;"(ii) For each activity described in clause (i), each of the following, identified by component:
 
@@ -158,5 +158,5 @@ Definitions.—(1) In this section, the term 'transnational organized crime' has
 
 "(2) For purposes of applying the definition of transnational organized crime under paragraph (1) to this section, the term 'illegal means', as it appears in such definition, includes the trafficking of money, human trafficking, illicit financial flows, illegal trade in natural resources and wildlife, trade in illegal drugs and weapons, and other forms of illegal means determined by the Secretary of Defense."
 
-\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of suchsection, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
+\[Pub. L. 112–81, div. A, title X, §1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: "The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[Pub. L. 108–136, set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346)."\]
 

@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;(1) the term "Commission for Environmental Cooperation" means the commission established by Part Three of the North American Agreement on Environmental Cooperation; and
 
-&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the NorthAmerican Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
 (Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
@@ -112,7 +112,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 Sec. 3. NATIONAL ADVISORY COMMITTEE. The EPA Administrator shall utilize a National Advisory Committee as provided under Article 17 of the Environmental Cooperation Agreement.
 
-Sec. 4. UNITED STATES CONTRIBUTIONS TO THE COMMISSION FOR ENVIRONMENTAL COOPERATION. In accordance with section 532(a)(2) of the NAFTA Implementation Act \[19 U.S.C. 3472(a)(2)\], the EPA is designated as the agency authorized to make the contributions of the United States from funds available for such contributions to the annual budget of the Commission for Environmental Cooperation.
+Sec. 4. UNITED STATES CONTRIBUTIONS TO THE COMMISSION FOR ENVIRONMENTAL COOPERATION. In accordance with section 532(a)(2) of the NAFTA Implementation Act \[19 U.S.C. 3472(a)(2)\], theEPA is designated as the agency authorized to make the contributions of the United States from funds available for such contributions to the annual budget of the Commission for Environmental Cooperation.
 
 Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 

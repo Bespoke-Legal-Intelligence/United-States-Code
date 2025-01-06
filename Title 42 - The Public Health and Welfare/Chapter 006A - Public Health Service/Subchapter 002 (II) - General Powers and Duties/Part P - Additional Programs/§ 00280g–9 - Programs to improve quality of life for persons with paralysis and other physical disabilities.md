@@ -36,7 +36,7 @@ The Secretary may award grants in accordance with the following:
 
 &emsp;(1) To State and local health and disability agencies for the purpose of—
 
-&emsp;&emsp;(A) establishing a population-based database that may be used for longitudinal andother research on paralysis and other disabling conditions;
+&emsp;&emsp;(A) establishing a population-based database that may be used for longitudinal and other research on paralysis and other disabling conditions;
 
 &emsp;&emsp;(B) developing comprehensive paralysis and other physical disability action plans and activities focused on the items listed in subsection (b)(4);
 

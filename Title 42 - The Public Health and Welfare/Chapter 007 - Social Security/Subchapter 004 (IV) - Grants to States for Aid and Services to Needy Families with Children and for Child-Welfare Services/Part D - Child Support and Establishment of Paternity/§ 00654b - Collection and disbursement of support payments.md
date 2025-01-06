@@ -38,7 +38,7 @@ The State disbursement unit shall use automated procedures, electronic processes
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the State disbursement unit shall distribute all amounts payable under section 657(a) of this title within 2 business days after receipt from the employer or other source of periodic income, if sufficient information identifying the payee is provided. The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursement unit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.
+&emsp;Except as provided in paragraph (2), the State disbursement unit shall distribute all amounts payable under section 657(a) of this title within 2 business days after receipt from the employer or other source of periodic income, if sufficient information identifying the payee is provided. The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursementunit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.
 
 #### (2) Permissive retention of arrearages
 

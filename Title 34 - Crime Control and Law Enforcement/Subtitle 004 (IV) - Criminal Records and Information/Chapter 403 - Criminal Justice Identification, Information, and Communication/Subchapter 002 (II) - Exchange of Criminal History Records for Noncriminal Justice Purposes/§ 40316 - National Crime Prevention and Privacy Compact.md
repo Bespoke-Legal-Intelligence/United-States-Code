@@ -172,7 +172,7 @@ The Director of the FBI shall—
 
 &emsp;&emsp;(B) information from Party States that is available from the FBI through the III System, but is not available from the Party State through the III System;
 
-&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records for criminal justice purposes has priority over exchange for noncriminal justice purposes; and
+&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminaljustice purposes described in Article IV, and ensure that the exchange of such records for criminal justice purposes has priority over exchange for noncriminal justice purposes; and
 
 &emsp;(4) modify or enter into user agreements with Nonparty State criminal history record repositories to require them to establish record request procedures conforming to those prescribed in Article V.
 
@@ -322,7 +322,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (2) Quorum
 
-&emsp;A majority of the Council or any committee of the Council shall constitute a quorum ofthe Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.
+&emsp;A majority of the Council or any committee of the Council shall constitute a quorum of the Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.
 
 #### (e) Rules, procedures, and standards
 
@@ -330,7 +330,7 @@ The Council shall make available for public inspection and copying at the Counci
 
 #### (f) Assistance from FBI
 
-The Council may request from the FBI such reports, studies, statistics, or other information or materials as the Council determines to be necessary to enable the Council to perform its duties under this Compact. The FBI, to the extent authorized by law, may provide such assistance or information upon such a request.
+The Council may request from the FBI such reports, studies, statistics, or other informationor materials as the Council determines to be necessary to enable the Council to perform its duties under this Compact. The FBI, to the extent authorized by law, may provide such assistance or information upon such a request.
 
 #### (g) Committees
 

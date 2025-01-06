@@ -1,6 +1,6 @@
 ### §6763. Federal funding prohibited
 
-The Association may not receive, accept, or borrow any amounts from the Federal Government to pay for, or reimburse,<sup>1</sup> the Associationfor, the costs of establishing or operating the Association.
+The Association may not receive, accept, or borrow any amounts from the Federal Government to pay for, or reimburse,<sup>1</sup> the Association for, the costs of establishing or operating the Association.
 
 (Pub. L. 106–102, title III, §333, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 27.)
 

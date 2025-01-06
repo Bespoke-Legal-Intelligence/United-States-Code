@@ -1,6 +1,6 @@
 ### §558. Income tax deferment
 
-Notwithstanding any other provision of law, a Federal income tax return of, or the payment of a Federal income tax by, a member of a uniformed service who, at the time the return or payment would otherwise become due, is in a missing status, does not become due until the earlier of the following dates—
+Notwithstanding any other provision of law, a Federal income tax return of, or the payment of a Federal income tax by, a member of a uniformed service who, at the time the return or payment would otherwise become due, is in amissing status, does not become due until the earlier of the following dates—
 
 &emsp;(1) the fifteenth day of the third month in which he ceased (except by reason of death or incompetency) being in a missing status, unless before the end of that fifteenth day he is again in a missing status; or
 

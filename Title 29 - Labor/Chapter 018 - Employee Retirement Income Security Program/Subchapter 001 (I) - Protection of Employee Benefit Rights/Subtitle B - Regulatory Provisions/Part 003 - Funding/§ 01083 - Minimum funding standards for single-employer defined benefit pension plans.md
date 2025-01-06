@@ -50,7 +50,7 @@ For purposes of this section:
 
 #### (B) Shortfall installment
 
-&emsp;&emsp;The shortfall amortization installment for any plan year in the 7-plan-year period under subparagraph (A) with respect to any shortfall amortization base is the annual installment determined under subparagraph (A) for that year for that base.
+&emsp;&emsp;The shortfall amortization installment for any plan year in the 7-plan-year periodunder subparagraph (A) with respect to any shortfall amortization base is the annual installment determined under subparagraph (A) for that year for that base.
 
 #### (C) Segment rates
 
@@ -72,7 +72,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first 2 plan years in the 9-plan-year period beginning with the election year, interest on the shortfall amortization base of the plan for the election year (determined using the effective interest rate for the plan for the election year), and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 planyears (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of the last 7 plan years in such 9-plan-year period, the amounts necessary to amortize the remaining balance of the shortfall amortization base of the plan for the election year in level annual installments over such last 7 plan years (using the segment rates under subparagraph (C) for the election year).
 
 #### (iii) 15-year amortization
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (1) Determination of waiver amortization charge
 
-&emsp;The waiver amortization charge (if any) for a plan for any plan year is the aggregate total of the waiver amortization installments for such plan year with respect to the waiver amortization bases for each of the 5 preceding plan years.
+&emsp;The waiver amortization charge (if any) for a plan for any plan year is the aggregate totalof the waiver amortization installments for such plan year with respect to the waiver amortization bases for each of the 5 preceding plan years.
 
 #### (2) Waiver amortization installment
 
@@ -478,7 +478,7 @@ For purposes of this section—
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
-&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
+&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall bereduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
 
 #### (C) Decrease
 
@@ -508,7 +508,7 @@ For purposes of this section—
 
 #### (8) Adjustments for investment experience
 
-&emsp;In determining the prefunding balance or the funding standard carryover balance of aplan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary of the Treasury, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
+&emsp;In determining the prefunding balance or the funding standard carryover balance of a plan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary of the Treasury, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
 
 #### (9) Elections
 
@@ -632,7 +632,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available. Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.
+&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clausewith respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available. Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.
 
 #### (II) Applicable minimum percentage; applicable maximum percentage
 
@@ -716,7 +716,7 @@ For purposes of this section—
 
 #### (II) Disposition
 
-&emsp;&emsp;&emsp;&emsp;Any mortality table submitted to the Secretary of the Treasury for approval under this subparagraph shall be treated as in effect as of the 1st day of the period described in clause (i) unless the Secretary of the Treasury, during the 180-day period beginning on the date of suchsubmission, disapproves of such table and provides the reasons that such table fails to meet the requirements of clause (iii). The 180-day period shall be extended upon mutual agreement of the Secretary of the Treasury and the plan sponsor.
+&emsp;&emsp;&emsp;&emsp;Any mortality table submitted to the Secretary of the Treasury for approval under this subparagraph shall be treated as in effect as of the 1st day of the period described in clause (i) unless the Secretary of the Treasury, during the 180-day period beginning on the date of such submission, disapproves of such table and provides the reasons that such table fails to meet the requirements of clause (iii). The 180-day period shall be extended upon mutual agreement of the Secretary of the Treasury and the plan sponsor.
 
 #### (D) Separate mortality tables for the disabled
 
@@ -756,7 +756,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of such plan and all other plans maintained by the contributing sponsors (as defined in section 1301(a)(13) of this title) and members of such sponsors' controlled groups (as defined in section 1301(a)(14) of this title) which are covered by subchapter III (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
-&emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
+&emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account anychanges in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
 #### (i) Special rules for at-risk plans
 
@@ -788,7 +788,7 @@ For purposes of this section—
 
 #### (2) Target normal cost of at-risk plans
 
-&emsp;In the case of a plan which is in at-risk status for a plan year, the target normal cost ofthe plan for such plan year shall be equal to the sum of—
+&emsp;In the case of a plan which is in at-risk status for a plan year, the target normal cost of the plan for such plan year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the excess of—
 
@@ -975,7 +975,7 @@ For purposes of this section—
 
 #### (iii) Plan with alternate valuation date
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall prescribe regulations for the application ofthis paragraph in the case of a plan which has a valuation date other than the first day of the plan year.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall prescribe regulations for the application of this paragraph in the case of a plan which has a valuation date other than the first day of the plan year.
 
 #### (F) Quarterly contributions not to include certain increased contributions
 
@@ -1027,7 +1027,7 @@ For purposes of this section—
 
 #### (iii) Disbursements from the plan
 
-&emsp;&emsp;&emsp;The term "disbursements from the plan" means all disbursements from the trust, including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
+&emsp;&emsp;&emsp;The term "disbursements from the plan" means all disbursements from the trust,including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
 
 #### (iv) Adjusted disbursements
 
@@ -1223,7 +1223,7 @@ In the case of a qualified transfer (as defined in section 420 of title 26), any
 
 Section 106 of the Pension Protection Act of 2006, referred to in subsec. (c)(2)(D)(iv)(I), is section 106 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Section 1055(g)(3)(B)(iii)(I) of this title, referred to in subsec. (h)(2)(F), was redesignated section1055(g)(3)(B)(iii) of this title by Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.
+Section 1055(g)(3)(B)(iii)(I) of this title, referred to in subsec. (h)(2)(F), was redesignated section 1055(g)(3)(B)(iii) of this title by Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.
 
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

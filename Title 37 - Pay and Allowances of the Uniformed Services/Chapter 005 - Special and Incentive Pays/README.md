@@ -123,7 +123,7 @@ Pub. L. 114–328, div. A, title VI, §633(d)(2), Dec. 23, 2016, 130 Stat. 2163,
 
 <b>2013</b>—Pub. L. 113–66, div. A, title VI, §617(b), Dec. 26, 2013, 127 Stat. 782, added item 336.
 
-<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(c)(2), Jan. 7, 2011, 124 Stat. 4372, added item 312 and struck out former item 312 "Special pay: nuclear-qualified officers extending period of active duty".
+<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(c)(2), Jan. 7, 2011, 124 Stat. 4372, added item 312 and struck outformer item 312 "Special pay: nuclear-qualified officers extending period of active duty".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title VI, §§619(b)(2), 620(b)(2), 651(c)(2)(B), Oct. 14, 2008, 122 Stat. 4489, 4491, 4497, added items 302c–1, 316a, and 373 and struck out former item 373 "Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met".
 
@@ -133,7 +133,7 @@ Pub. L. 110–181, div. A, title VI, §661(d), Jan. 28, 2008, 122 Stat. 178, ame
 
 Pub. L. 109–163, div. A, title VI, §§629(d)(2), 631(c), 632(c)(2), 634(c)(2), 639(e)(2), 640(f)(2), 641(b), 642(c), 687(e)(2), Jan. 6, 2006, 119 Stat. 3297, 3299, 3300, 3302, 3303, 3305, 3306, 3336, added items 327 and 328, substituted "Special pay: general provisions" for "Special pay: health professionals; general provisions" in item 303a, "Special pay: bonus for affiliation or enlistment in the Selected Reserve" for "Special pay: bonus for enlistment in the Selected Reserve" in item 308c, "Special pay: members of the Selected Reserve assigned to certain high priority units" for "Special pay: enlisted members of the Selected Reserve assigned to certain high priority units" in item 308d, "Special pay: affiliation bonus for officers in the Selected Reserve" for "Special pay: bonus for certain initial service of officers in the Selected Reserve" in item 308j, "Special pay: bonus for members with foreign language proficiency" for "Special pay and bonus for members with foreign language proficiency" in item 316, and "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units" for "Special pay: retention incentives for members qualified in a critical military skill" in item 323, and struck out item 308e "Special pay: bonus for reserve affiliation agreement" and item 312a "Special pay: nuclear-trained and qualified enlisted members".
 
-<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, addeditem 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, added item 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VI, §§621(a)(2)(B), 624(b), 625(b), Nov. 24, 2003, 117 Stat. 1505–1507, added items 305b and 326 and substituted "qualified members" for "qualified enlisted members" in item 314.
 

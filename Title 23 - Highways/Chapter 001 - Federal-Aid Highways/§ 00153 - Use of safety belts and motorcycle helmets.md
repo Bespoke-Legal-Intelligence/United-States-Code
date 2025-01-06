@@ -52,7 +52,7 @@ Eligibility for Grants.—
 
 &emsp;(1)
 
-General rule.—A State is eligible in a fiscal year for a grant under this section only if the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State implements in such fiscal year a traffic safety program described in subsection (b).
+General rule.—A State is eligible in a fiscal year for a grant under this section only if the State enters into such agreements withthe Secretary as the Secretary may require to ensure that the State implements in such fiscal year a traffic safety program described in subsection (b).
 
 &emsp;(2)
 

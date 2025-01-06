@@ -34,7 +34,7 @@ Subsec. (b)(2). Pub. L. 94–283, §115(f)(2), struck out references to sections
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–155, title III, §313(b), Mar. 27, 2002, 116 Stat. 106, provided that: "The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title\]."
+Pub. L. 107–155, title III, §313(b), Mar. 27, 2002, 116 Stat. 106, provided that: "The amendment made by thissection \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title\]."
 
 #### Effective Date
 

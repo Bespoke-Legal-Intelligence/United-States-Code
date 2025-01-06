@@ -10,7 +10,7 @@ Powers.—To carry out its duties under this subtitle, the Appalachian Regional 
 
 &emsp;(3) request the head of any federal department or agency to detail to temporary duty with the Commission personnel within the administrative jurisdiction of the head of the department or agency that the Commission may need for carrying out its functions, each detail to be without loss of seniority, pay, or other employee status;
 
-&emsp;(4) arrange for the services of personnel from any state or local government, subdivision or agency of a state or local government, or intergovernmental agency;
+&emsp;(4) arrange for the services of personnel from any state or local government, subdivision oragency of a state or local government, or intergovernmental agency;
 
 &emsp;(5)(A) make arrangements, including contracts, with any participating state government for inclusion in a suitable retirement and employee benefit system of Commission personnel who may not be eligible for, or continue in, another governmental retirement or employee benefit system; or
 

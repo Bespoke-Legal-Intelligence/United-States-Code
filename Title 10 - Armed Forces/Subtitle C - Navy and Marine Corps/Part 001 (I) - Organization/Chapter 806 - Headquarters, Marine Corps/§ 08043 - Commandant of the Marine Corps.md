@@ -1,6 +1,6 @@
 ### §8043. Commandant of the Marine Corps
 
-(a)(1) There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of fouryears from the general officers of the Marine Corps. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of four years from the general officers of the Marine Corps. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as Commandant of the Marine Corps only if—
 
@@ -50,7 +50,7 @@ Provisions similar to those in this section were contained in section 5201 of th
 
 #### Amendments
 
-<b>2021</b>—Subsec. (e)(5). Pub. L. 116–283, §1847(e)(6)(B), which directed substitution of ", 3103, and 4274" for "and 2547", was repealed by Pub. L. 117–81, §1701(r)(1)(B).
+<b>2021</b>—Subsec. (e)(5). Pub. L. 116–283, §1847(e)(6)(B), which directed substitution of ", 3103, and 4274" for"and 2547", was repealed by Pub. L. 117–81, §1701(r)(1)(B).
 
 Pub. L. 116–283, §1808(d)(3), as added by Pub. L. 117–81, §1701(r)(2), substituted "and 3104" for "and 2547".
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 115–232, §809(a), substituted "section 8013(f)" for "sec
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

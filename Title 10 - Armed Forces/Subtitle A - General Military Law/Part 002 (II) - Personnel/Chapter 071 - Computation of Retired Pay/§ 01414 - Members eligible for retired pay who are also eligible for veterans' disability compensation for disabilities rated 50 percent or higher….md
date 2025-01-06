@@ -24,11 +24,11 @@ Disability Retirees.—
 
 &emsp;(1)
 
-Career retirees.—The retired pay of a member retired under chapter 61 of this title with 20 years or more of service otherwise creditable under section 1405 of this title, or at least 20 years of service computed under section 12732 of this title, at the time of the member's retirement is subject to reduction under sections 5304 and 5305 of title 38, but only tothe extent that the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+Career retirees.—The retired pay of a member retired under chapter 61 of this title with 20 years or more of service otherwise creditable under section 1405 of this title, or at least 20 years of service computed under section 12732 of this title, at the time of the member's retirement is subject to reduction under sections 5304 and 5305 of title 38, but only to the extent that the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
 &emsp;(2)
 
-Disability retirees with less than 20 years of service.—Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of service otherwise creditable under section 1405 of this title, or with less than 20 years of service computed under section 12732 of this title, at the time of the member's retirement.
+Disability retirees with less than 20 years of service.—Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of serviceotherwise creditable under section 1405 of this title, or with less than 20 years of service computed under section 12732 of this title, at the time of the member's retirement.
 
 (c)
 
@@ -198,7 +198,7 @@ Subsec. (c). Pub. L. 108–375, §642(b), inserted "that pursuant to the second 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as anote under section 1401a of this title. Amendment did not take effect pursuant to section 631(d)(2) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under section 1401a of this title.
+Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under section 1401a of this title. Amendment did not take effect pursuant to section 631(d)(2) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under section 1401a of this title.
 
 #### Effective Date of 2008 Amendment
 

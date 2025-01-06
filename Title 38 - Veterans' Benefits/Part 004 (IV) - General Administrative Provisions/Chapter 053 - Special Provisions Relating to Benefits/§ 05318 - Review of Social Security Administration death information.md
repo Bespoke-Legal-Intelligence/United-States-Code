@@ -10,7 +10,7 @@
 
 (b) The Social Security Administration death information referred to in subsection (a) of this section is death information available to the Secretary from or through the Commissioner of Social Security, including death information available to the Commissioner from a State, pursuant to a memorandum of understanding entered into by the Secretary and the Commissioner. Any such memorandum of understanding shall include safeguards to assure that information made available under it is not used for unauthorized purposes or improperly disclosed.
 
-(Added Pub. L. 101–508, title VIII, §8053(b)(1), Nov. 5, 1990, 104 Stat. 1388–352, §3118; renumbered §5318, Pub. L. 102–40, title IV, §402(b)(1), May 7,1991, 105 Stat. 238; Pub. L. 108–183, title VII, §708(c)(4)(A), (B)(i), Dec. 16, 2003, 117 Stat. 2674.)
+(Added Pub. L. 101–508, title VIII, §8053(b)(1), Nov. 5, 1990, 104 Stat. 1388–352, §3118; renumbered §5318, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 108–183, title VII, §708(c)(4)(A), (B)(i), Dec. 16, 2003, 117 Stat. 2674.)
 
 #### <b>Editorial Notes</b>
 

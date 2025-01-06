@@ -8,7 +8,7 @@
 
 (2) An aggrieved person may commence a civil action under this subsection whether or not a complaint has been filed under section 3610(a) of this title and without regard to the status of any such complaint, but if the Secretary or a State or local agency has obtained a conciliation agreement with the consent of an aggrieved person, no action may be filed under this subsection by such aggrieved person with respect to the alleged discriminatory housing practice which forms the basis for such complaint except for the purpose of enforcing the terms of such an agreement.
 
-(3) An aggrieved person may not commence a civil action under this subsection with respect to an alleged discriminatory housing practice which forms the basis of a charge issued by the Secretary if an administrative law judge hascommenced a hearing on the record under this subchapter with respect to such charge.
+(3) An aggrieved person may not commence a civil action under this subsection with respect to an alleged discriminatory housing practice which forms the basis of a charge issued by the Secretary if an administrative law judge has commenced a hearing on the record under this subchapter with respect to such charge.
 
 #### (b) Appointment of attorney by court
 
@@ -30,7 +30,7 @@ Relief granted under this section shall not affect any contract, sale, encumbran
 
 #### (e) Intervention by Attorney General
 
-Upon timely application, the Attorney General may intervene in such civil action, if the Attorney General certifies that the case is of general public importance. Upon such intervention the Attorney General may obtain such relief as would be available to the Attorney General under section 3614(e) of this title in a civil action to which such section applies.
+Upon timely application, the Attorney General may intervene in such civil action, if theAttorney General certifies that the case is of general public importance. Upon such intervention the Attorney General may obtain such relief as would be available to the Attorney General under section 3614(e) of this title in a civil action to which such section applies.
 
 (Pub. L. 90–284, title VIII, §813, as added Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1633.)
 

@@ -14,7 +14,7 @@ The program authorized in subsection (a) shall include the following:
 
 #### (2) Geothermal systems reservoir modeling
 
-&emsp;Research, development, and demonstration of models of geothermal reservoir performance and enhanced geothermal systems reservoir stimulation technologies and techniques, with an emphasis on accurately modeling fluid andheat flow, permeability evolution, geomechanics, geochemistry, seismicity, and operational performance over time, including collaboration with industry and field validation.
+&emsp;Research, development, and demonstration of models of geothermal reservoir performance and enhanced geothermal systems reservoir stimulation technologies and techniques, with an emphasis on accurately modeling fluid and heat flow, permeability evolution, geomechanics, geochemistry, seismicity, and operational performance over time, including collaboration with industry and field validation.
 
 #### (c) Coordination
 

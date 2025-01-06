@@ -24,7 +24,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies or designated entities of States—
 
-&emsp;&emsp;&emsp;(i) to develop, maintain, and improve data collection systems related to newborn, infant, and young child hearingscreening, evaluation (including audiologic, medical, and language acquisition evaluations), diagnosis, and intervention services;
+&emsp;&emsp;&emsp;(i) to develop, maintain, and improve data collection systems related to newborn, infant, and young child hearing screening, evaluation (including audiologic, medical, and language acquisition evaluations), diagnosis, and intervention services;
 
 &emsp;&emsp;&emsp;(ii) to conduct applied research related to newborn, infant, and young child hearing screening, evaluation, and intervention programs and outcomes;
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 &emsp;For the purpose of carrying out subsection (b)(2), there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders such sums as may be necessary for fiscal years 2011 through 2015.
 
-(July 1, 1944, ch. 373, title III, §399M, as added Pub. L. 106–310, div. A, title VII, §702, Oct. 17, 2000, 114 Stat. 1121; amended Pub. L. 111–337, §2, Dec. 22, 2010, 124 Stat. 3588; Pub. L. 115–71, §2, Oct. 18, 2017, 131 Stat. 1218; Pub. L. 117–241, §2, Dec. 20, 2022, 136 Stat. 2332.)
+(July 1, 1944, ch. 373, title III, §399M, as added Pub. L. 106–310, div. A, title VII, §702, Oct. 17,2000, 114 Stat. 1121; amended Pub. L. 111–337, §2, Dec. 22, 2010, 124 Stat. 3588; Pub. L. 115–71, §2, Oct. 18, 2017, 131 Stat. 1218; Pub. L. 117–241, §2, Dec. 20, 2022, 136 Stat. 2332.)
 
 #### <b>Editorial Notes</b>
 
@@ -214,7 +214,7 @@ Subsec. (e)(6). Pub. L. 115–71, §2(f)(3), redesignated par. (6) as (5).
 
 Subsec. (f)(1). Pub. L. 115–71, §2(g)(1), substituted "$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022." for "such sums as may be necessary for fiscal years 2011 through 2015."
 
-Subsec. (f)(2). Pub. L. 115–71, §2(g)(2), substituted "$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022." for "such sums as may be necessary for fiscal years 2011 through 2015."
+Subsec. (f)(2). Pub. L. 115–71, §2(g)(2), substituted "$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022." for "such sums as may be necessary for fiscal years 2011 through 2015."
 
 <b>2010</b>—Pub. L. 111–337, §2(1), substituted "newborns and infants" for "infants" in section catchline.
 
@@ -252,5 +252,5 @@ Pub. L. 106–310, div. A, title VII, §701, Oct. 17, 2000, 114 Stat. 1120, prov
 
 &emsp;"(4) All newborn and infant hearing screening programs and systems should include a component for audiologic rehabilitation, medical and early intervention options that ensures linkage to any new and existing state-wide systems of intervention and rehabilitative services for newborns and infants with hearing loss.
 
-&emsp;"(5) Public policy in regard to newborn and infant hearing screening and intervention should be based on applied research and the recognition that newborns, infants, toddlers, and children who are deaf or hard-of-hearing have unique language, learning, and communication needs, and should be the result of consultation with pertinent public and private sectors."
+&emsp;"(5) Public policy in regard to newborn and infant hearing screening and intervention should be basedon applied research and the recognition that newborns, infants, toddlers, and children who are deaf or hard-of-hearing have unique language, learning, and communication needs, and should be the result of consultation with pertinent public and private sectors."
 

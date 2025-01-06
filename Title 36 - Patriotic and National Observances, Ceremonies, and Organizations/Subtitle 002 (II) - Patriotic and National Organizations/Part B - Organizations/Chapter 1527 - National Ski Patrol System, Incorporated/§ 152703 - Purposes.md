@@ -4,7 +4,7 @@ The purposes of the corporation are—
 
 &emsp;(1) to promote, in every way, patriotic, scientific, educational, and civic improvement activities and public safety in skiing, by such means as the dissemination of information and the formation of volunteer local patrols consisting of competent skiers trained in first aid for the purpose of preventing accidents and rendering speedy assistance to individuals sustaining accidents; and
 
-&emsp;(2) to solicit contributions of money, services, and other property for, and generally to encourage and assist in carrying out these purposes in every way.
+&emsp;(2) to solicit contributions of money, services, and other property for, and generally toencourage and assist in carrying out these purposes in every way.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1418.)
 

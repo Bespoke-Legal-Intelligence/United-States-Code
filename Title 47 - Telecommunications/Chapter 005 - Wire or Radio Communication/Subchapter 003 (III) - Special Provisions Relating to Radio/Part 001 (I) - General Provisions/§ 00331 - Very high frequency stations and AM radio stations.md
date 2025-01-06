@@ -8,7 +8,7 @@ It shall be the policy of the Federal Communications Commission to allocate chan
 
 It shall be the policy of the Commission, in any case in which the licensee of an existing AM daytime-only station located in a community with a population of more than 100,000 persons that lacks a local full-time aural station licensed to that community and that is located within a Class I station primary service area notifies the Commission that such licensee seeks to provide full-time service, to ensure that such a licensee is able to place a principal community contour signal over its entire community of license 24 hours a day, if technically feasible.
 
-(June 19, 1934, ch. 652, title III, §331, as added Pub. L. 97–248, title III, §355, Sept. 3, 1982, 96 Stat. 641; amended Pub. L. 102–243, §4, Dec. 20, 1991, 105 Stat. 2402; Pub. L. 103–414, title III, §303(a)(18), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 115–141, div. P, title IV, §402(i)(5), Mar. 23, 2018, 132 Stat. 1089.)
+(June 19, 1934, ch. 652, title III, §331, as added Pub. L. 97–248, title III, §355, Sept. 3, 1982, 96 Stat. 641; amended Pub. L. 102–243, §4, Dec. 20, 1991, 105 Stat. 2402; Pub. L. 103–414, title III,§303(a)(18), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 115–141, div. P, title IV, §402(i)(5), Mar. 23, 2018, 132 Stat. 1089.)
 
 #### <b>Editorial Notes</b>
 

@@ -42,7 +42,7 @@ Review by agency head or mayor.—The agency head or Mayor may review the admini
 
 &emsp;(3)
 
-Review by secretary.—The Secretary shall review all pertinent facts in the matter and may conduct any investigation the Secretary considers necessary in order to affirmor reject the recommendation. The decision of the Secretary is final.
+Review by secretary.—The Secretary shall review all pertinent facts in the matter and may conduct any investigation the Secretary considers necessary in order to affirm or reject the recommendation. The decision of the Secretary is final.
 
 &emsp;(4)
 

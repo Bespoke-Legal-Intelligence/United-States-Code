@@ -30,9 +30,15 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board;
 
-&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board; and
+&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board;
 
-&emsp;(J) notwithstanding section 1343 of title 31, acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter.
+&emsp;(J) notwithstanding section 1343 of title 31, acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter; and
+
+&emsp;(K) notwithstanding section 3301 of title 41, acquire training on emerging transportation technologies if such training—
+
+&emsp;&emsp;(i) is required for an ongoing investigation; and
+
+&emsp;&emsp;(ii) meets the criteria under section 3304(a)(7)(A) of title 41.
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
@@ -62,7 +68,7 @@ In general.—Subject to the requirements of this section and notwithstanding pa
 
 &emsp;(2)
 
-Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), for work performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
+Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), forwork performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
 
 &emsp;(3)
 
@@ -72,11 +78,67 @@ Limitation on total amount of overtime pay.—The Board may not make overtime pa
 
 Basic pay defined.—In this subsection, the term "basic pay" includes any applicable locality-based comparability payment under section 5304 of title 5 (or similar provision of law) and any special rate of pay under section 5305 of title 5 (or similar provision of law).
 
+(h)
+
+Strategic Workforce Plan.—
+
+&emsp;(1)
+
+In general.—The Board shall develop a strategic workforce plan that addresses the immediate and long-term workforce needs of the Board with respect to carrying out the authorities and duties of the Board under this chapter.
+
+&emsp;(2)
+
+Aligning the workforce to strategic goals.—In developing the strategic workforce plan under paragraph (1), the Board shall take into consideration—
+
+&emsp;&emsp;(A) the current state and capabilities of the Board, including a high-level review of mission requirements, structure, workforce, and performance of the Board;
+
+&emsp;&emsp;(B) the significant workforce trends, needs, issues, and challenges with respect to the Board and the transportation industry;
+
+&emsp;&emsp;(C) with respect to employees involved in transportation safety work, the needs, issues, and challenges, including accident severity and risk, posed by each mode of transportation, and how the Board's staffing for each transportation mode reflects these aspects;
+
+&emsp;&emsp;(D) the workforce policies, strategies, performance measures, and interventions to mitigate succession risks that guide the workforce investment decisions of the Board;
+
+&emsp;&emsp;(E) a workforce planning strategy that identifies workforce needs, including the knowledge, skills, and abilities needed to recruit and retain skilled employees at the Board;
+
+&emsp;&emsp;(F) a workforce management strategy that is aligned with the mission of the Board, including plans for continuity of leadership and knowledge sharing;
+
+&emsp;&emsp;(G) an implementation system that addresses workforce competency gaps, particularly in mission-critical occupations; and
+
+&emsp;&emsp;(H) a system for analyzing and evaluating the performance of the Board's workforce management policies, programs, and activities.
+
+&emsp;(3)
+
+Planning period.—The strategic workforce plan developed under paragraph (1) shall address a 5-year forecast period, but may include planning for longer periods based on information about emerging technologies or safety trends in transportation.
+
+&emsp;(4)
+
+Plan updates.—The Board shall update the strategic workforce plan developed under paragraph (1) not less than once every 5 years.
+
 &emsp;(5)
 
-Annual report.—Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
+Relationship to strategic plan.—The strategic workforce plan developed under paragraph (1) may be developed separately from, or incorporated into, the strategic plan required under section 306 of title 5.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 111–350, §5(o)(2), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 115–254, div. C, §1112(c)–(e), Oct. 5, 2018, 132 Stat. 3437, 3438.)
+&emsp;(6)
+
+Availability.—The strategic workforce plan under paragraph (1) and the strategic plan required under section 306 of title 5 shall be—
+
+&emsp;&emsp;(A) submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;(B) made available to the public on a website of the Board.
+
+(i)
+
+Non-accident-related Travel Budget.—
+
+&emsp;(1)
+
+In general.—The Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for each Board member.
+
+&emsp;(2)
+
+Notification.—The Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of any non-accident-related travel budget overrun for any Board member not later than 30 days of such overrun becoming known to the Board.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 111–350, §5(o)(2), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 115–254, div. C, §1112(c)–(e), Oct. 5, 2018, 132 Stat. 3437, 3438; Pub. L. 118–63, title XII, §§1204(a), 1205–1207(a), May 16, 2024, 138 Stat. 1422–1424.)
 
 Historical and Revision Notes
 
@@ -154,7 +216,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(b)(6), 88 Stat. 2170; July 19, 1988, Pub. 
 
 Jan. 3, 1975, Pub. L. 93–633, §304(b)(12), 88 Stat. 2171; July 19, 1988, Pub. L. 100–372, §4, 102 Stat. 876; Nov. 28, 1990, Pub. L. 101–641, §6, 104 Stat. 4656.
 
-In subsection (a)(1), the words "sit and act at such times and places" are omitted as unnecessary. The word "necessary" is substituted for "as the Board or such officer or employee deems advisable" because it is more accurate.
+In subsection (a)(1), the words "sit and act at such times and places" are omitted as unnecessary. The word "necessary" is substituted for "as the Board orsuch officer or employee deems advisable" because it is more accurate.
 
 In subsection (a)(2), the words "the witness would have been" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
@@ -192,6 +254,14 @@ GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under
 
 #### Amendments
 
+<b>2024</b>—Subsec. (b)(1)(K). Pub. L. 118–63, §1204(a), added subpar. (K).
+
+Subsec. (g)(5). Pub. L. 118–63, §1205, struck out par. (5). Text read as follows: "Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2)."
+
+Subsec. (h). Pub. L. 118–63, §1206, added subsec. (h).
+
+Subsec. (i). Pub. L. 118–63, §1207(a), added subsec. (i).
+
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1112(e), substituted "subpoena" for "subpena".
 
 Subsec. (b)(1)(J). Pub. L. 115–254, §1112(c), added subpar. (J).
@@ -222,7 +292,7 @@ Pub. L. 108–168, §4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109�
 
 "(a)
 
-In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of section 1113(b)(1)(B) of title 49, United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation.
+In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of section 1113(b)(1)(B) of title 49, United States Code, for investigations conducted under section1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation.
 
 "(b)
 
@@ -234,5 +304,5 @@ Report on Usage.—On July 1 of each year, as part of the annual report required
 
 #### Travel Budgets
 
-Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: "The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel."
+Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, which required the Chairman of the National Transportation Safety Board to establish annual fiscal year budgets for non-accident-related travel expenditures for Board members to be approved by the Board and submitted to the appropriate congressional committees with detailed travel reports, was repealed by Pub. L. 118–63, title XII, §1207(b), May 16, 2024, 138 Stat. 1424.
 

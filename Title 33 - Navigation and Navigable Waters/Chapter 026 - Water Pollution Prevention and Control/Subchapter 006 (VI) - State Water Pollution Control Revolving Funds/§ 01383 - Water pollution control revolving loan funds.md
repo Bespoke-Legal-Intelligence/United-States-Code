@@ -52,7 +52,7 @@ Except as otherwise limited by State law and provided in subsection (k), a water
 
 &emsp;&emsp;(A) such loans are made at or below market interest rates, including interest free loans, at terms not to exceed the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan;
 
-&emsp;&emsp;(B) annual principal and interest payments will commence not later than 1 year after completion of any project and all loans will be fully amortized upon the expiration of the term of the loan;
+&emsp;&emsp;(B) annual principal and interest payments will commence not later than 1 year aftercompletion of any project and all loans will be fully amortized upon the expiration of the term of the loan;
 
 &emsp;&emsp;(C) the recipient of a loan will establish a dedicated source of revenue for repayment of loans;
 
@@ -162,7 +162,7 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year, of the amount of the capitalization grant received by theState under this subchapter, the total amount of additional subsidization made available by a State under paragraph (1)—
+&emsp;&emsp;&emsp;For each fiscal year, of the amount of the capitalization grant received by the State under this subchapter, the total amount of additional subsidization made available by a State under paragraph (1)—
 
 &emsp;&emsp;&emsp;&emsp;(I) may not exceed 30 percent; and
 
@@ -210,7 +210,7 @@ Subsec. (j). Pub. L. 115–270, §4107(a)(2), added subsec. (j).
 
 Subsec. (i)(1)(A). Pub. L. 114–322, §5012(2), inserted "in assistance to a municipality or intermunicipal, interstate, or State agency" before "to benefit" in introductory provisions.
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance."
+<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5003(1), added subsec. (c) and struck out former subsec. (c). Prior toamendment, text read as follows: "The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance."
 
 Subsec. (d)(1)(A). Pub. L. 113–121, §5003(2)(A)(i), substituted "the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan" for "20 years".
 

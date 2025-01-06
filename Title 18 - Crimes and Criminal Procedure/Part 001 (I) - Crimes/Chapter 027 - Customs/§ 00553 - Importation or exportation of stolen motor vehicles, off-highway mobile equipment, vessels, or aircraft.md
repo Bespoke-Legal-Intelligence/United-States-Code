@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) in the case of any other vehicle or equipment covered by this section, means a number or symbol assigned to the vehicle or equipment, or part thereof, by the manufacturer primarily for the purpose of identifying such vehicle, equipment, or part.
 
-(Added Pub. L. 98–547, title III, §301(a), Oct. 25, 1984, 98 Stat. 2771; amended Pub. L. 100–690, title VII, §7021, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 102–519, title I, §102, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 103–272, §5(e)(5), July 5, 1994, 108 Stat. 1374.)
+(Added Pub. L. 98–547, title III, §301(a), Oct. 25, 1984, 98 Stat. 2771; amended Pub. L. 100–690, title VII, §7021, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 102–519, title I, §102, Oct. 25, 1992, 106 Stat. 3385;Pub. L. 103–272, §5(e)(5), July 5, 1994, 108 Stat. 1374.)
 
 #### <b>Editorial Notes</b>
 

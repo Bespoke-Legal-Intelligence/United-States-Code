@@ -16,7 +16,7 @@
 
 > &emsp;that if the barge is not removed it will be removed at the owner's or operator's expense.
 
-(2) The United States, and any officer or employee of the United States is not liable to an owner or operator for damages resulting from removal of an abandoned barge under this chapter.
+(2) The United States, and any officer or employee of the United States is not liable to an owner or operator for damages resulting fromremoval of an abandoned barge under this chapter.
 
 (b) The owner or operator of an abandoned barge is liable, and an abandoned barge is liable in rem, for all expenses that the United States incurs in removing an abandoned barge under this chapter.
 

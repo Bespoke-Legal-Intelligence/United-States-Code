@@ -36,7 +36,7 @@ It is the sense of Congress that—
 
 &emsp;(2) information from law enforcement and the intelligence community is also important in assisting efforts by these social media companies to identify foreign information warfare operations;
 
-&emsp;(3) these analytic efforts should be organized in such a fashion as to meet the highest standards of ethics, confidentiality, and privacy protection of the people of the United States,while still allowing timely research access to relevant data;
+&emsp;(3) these analytic efforts should be organized in such a fashion as to meet the highest standards of ethics, confidentiality, and privacy protection of the people of the United States, while still allowing timely research access to relevant data;
 
 &emsp;(4) these analytic efforts should be undertaken as soon as possible to facilitate countering ongoing state or state-backed foreign information warfare operations and to aid in preparations for the United States Presidential and congressional elections in 2020 and beyond;
 
@@ -54,7 +54,7 @@ It is the sense of Congress that—
 
 &emsp;The functions described in this paragraph are the following:
 
-&emsp;&emsp;(A) Acting as a convening and sponsoring authority for cooperative social media data analysis of foreign threat networks involving social media companies and third-party experts, nongovernmental organizations, data journalists, Federally funded research and development centers, academic researchers, traditional media, and international counterparts, as appropriate.
+&emsp;&emsp;(A) Acting as a convening and sponsoring authority for cooperative social media data analysis of foreign threat networks involving social media companies and third-party experts, nongovernmental organizations, data journalists, Federally funded researchand development centers, academic researchers, traditional media, and international counterparts, as appropriate.
 
 &emsp;&emsp;(B) Facilitating analysis of foreign influence operation, within and across the individual social media platforms as well as hacking and leaking campaigns, and other tactics, and related unlawful activities that fund or subsidize such operations.
 
@@ -122,7 +122,7 @@ The Director of the Center shall—
 
 &emsp;&emsp;&emsp;(i) The patterns, tools, and techniques of foreign malign influence campaigns across all platforms on social media by a covered foreign country targeting a regularly scheduled general election for Federal office.
 
-&emsp;&emsp;&emsp;(ii) Inauthentic accounts and "bot" networks across platforms, including the scale to which such accounts or networks exist, how platforms currently act to remove such accounts or networks, and what percentage of such accounts or networks have been removed during the period covered by the report.
+&emsp;&emsp;&emsp;(ii) Inauthentic accounts and "bot" networks across platforms, including the scale to which such accounts or networks exist, how platforms currently act to remove such accounts or networks, and what percentage of such accounts or networkshave been removed during the period covered by the report.
 
 &emsp;&emsp;&emsp;(iii) The estimated reach and impact of intentional or weaponized disinformation by inauthentic accounts and "bot" networks, including an analysis of amplification by users and algorithmic distribution.
 

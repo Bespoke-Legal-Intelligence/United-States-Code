@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Energy shall conduct a scholarship and fellowship program for the purpose of enabling individuals to qualify for employment in environmental restoration and waste management positions in the Department of Energy.The scholarship and fellowship program shall be known as the "Marilyn Lloyd Scholarship and Fellowship Program".
+The Secretary of Energy shall conduct a scholarship and fellowship program for the purpose of enabling individuals to qualify for employment in environmental restoration and waste management positions in the Department of Energy. The scholarship and fellowship program shall be known as the "Marilyn Lloyd Scholarship and Fellowship Program".
 
 #### (b) Eligibility
 
@@ -66,7 +66,7 @@ Not later than January 1, 1993, the Secretary of Energy shall submit to Congress
 
 Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,000,000 may be used for the purpose of carrying out this section.
 
-(Pub. L. 102–190, div. C, title XXXI, §3132, Dec. 5, 1991, 105 Stat. 1572; Pub. L. 103–337, div. C, titleXXXI, §3156(b)(1), Oct. 5, 1994, 108 Stat. 3092; Pub. L. 105–244, title I, §102(a)(13)(F), Oct. 7, 1998, 112 Stat. 1620.)
+(Pub. L. 102–190, div. C, title XXXI, §3132, Dec. 5, 1991, 105 Stat. 1572; Pub. L. 103–337, div. C, title XXXI, §3156(b)(1), Oct. 5, 1994, 108 Stat. 3092; Pub. L. 105–244, title I, §102(a)(13)(F), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### <b>Editorial Notes</b>
 

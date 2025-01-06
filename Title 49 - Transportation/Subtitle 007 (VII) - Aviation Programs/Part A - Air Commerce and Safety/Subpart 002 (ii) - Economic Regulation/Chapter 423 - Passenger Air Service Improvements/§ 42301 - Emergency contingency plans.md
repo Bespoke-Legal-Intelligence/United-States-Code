@@ -38,7 +38,7 @@ Deplaning following an excessive tarmac delay.—For purposes of paragraph (2)(C
 
 &emsp;&emsp;(A) A passenger shall have the option to deplane an aircraft and return to the airport terminal when there is an excessive tarmac delay.
 
-&emsp;&emsp;(B) The option described in subparagraph (A) shall be offered to a passenger even if a flight in covered air transportation is diverted to a commercial airport other than the originally scheduled airport.
+&emsp;&emsp;(B) The option described in subparagraph (A) shall be offered to a passenger even if aflight in covered air transportation is diverted to a commercial airport other than the originally scheduled airport.
 
 &emsp;&emsp;(C) In providing the option described in subparagraph (A), the air carrier shall begin to return the aircraft to a suitable disembarkation point—
 

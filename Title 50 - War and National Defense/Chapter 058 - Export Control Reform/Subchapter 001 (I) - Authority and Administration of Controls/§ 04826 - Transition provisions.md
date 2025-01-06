@@ -12,7 +12,7 @@ This subchapter shall not affect any administrative or judicial proceedings comm
 
 #### (1) State sponsors of terrorism
 
-&emsp;Any determination that was made under section 6(j) of the Export Administration Act of 1979 (as in effect on the day before August 13, 2018, and as continued in effect pursuant to the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) shall continue in effect as if the determination had been made under section 4813(c) of this title.
+&emsp;Any determination that was made under section 6(j) of the Export Administration Act of 1979 (as in effect on the day before August 13, 2018, and as continued in effect pursuant to the International Emergency Economic PowersAct \[50 U.S.C. 1701 et seq.\]) shall continue in effect as if the determination had been made under section 4813(c) of this title.
 
 #### (2) Reference
 

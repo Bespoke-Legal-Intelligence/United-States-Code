@@ -6,7 +6,7 @@ Limitation on Prototype Project Duration.—A prototype project shall be complet
 
 (b)
 
-Merit-based Selection Process.—A prototype project shall be selected by the service acquisition executive of the military department concerned through a merit-based selection process that identifies the most promising, innovative, and cost-effective prototypes that address one or more of the elements set forth in subsection (c)(1) of section 4422 of this title and are expected to be successfully demonstrated in a relevant environment.
+Merit-based Selection Process.—A prototype project shall be selected by the service acquisition executive of the military department concerned through a merit-based selectionprocess that identifies the most promising, innovative, and cost-effective prototypes that address one or more of the elements set forth in subsection (c)(1) of section 4422 of this title and are expected to be successfully demonstrated in a relevant environment.
 
 (c)
 
@@ -30,13 +30,15 @@ Funding Limit.—(1) Each prototype project may not exceed a total amount of $10
 
 (e)
 
-Related Prototype Authorities.—Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note). In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4022 or any other section of this title related to prototyping.
+Related Prototype Authorities.—Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 3602 of this title. In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4022 or any other section of this title related to prototyping.
 
-(Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2258, §2447c; renumbered §4423 and amended Pub. L. 116–283, div. A, title XVIII, §1851(c)(1), (3), Jan. 1, 2021, 134 Stat. 4272, 4273; Pub. L. 117–263, div. A, title X, §1081(a)(5), Dec. 23, 2022, 136 Stat. 2797.)
+(Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2258, §2447c; renumbered §4423 and amended Pub. L. 116–283, div. A, title XVIII, §1851(c)(1), (3), Jan. 1, 2021, 134 Stat. 4272, 4273; Pub. L. 117–263, div. A, title X, §1081(a)(5), Dec. 23, 2022, 136 Stat. 2797; Pub. L. 118–159, div. A, title VIII, §804(c)(4), Dec. 23, 2024, 138 Stat. 1968.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e). Pub. L. 118–159 substituted "section 3602 of this title" for "section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note)".
 
 <b>2022</b>—Subsec. (e). Pub. L. 117–263 substituted "section 4022" for "section 4003".
 

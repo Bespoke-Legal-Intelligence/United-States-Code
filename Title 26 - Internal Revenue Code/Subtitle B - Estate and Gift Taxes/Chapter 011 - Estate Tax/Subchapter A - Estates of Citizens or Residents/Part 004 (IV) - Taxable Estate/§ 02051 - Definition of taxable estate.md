@@ -1,6 +1,6 @@
 ### §2051. Definition of taxable estate
 
-For purposes of the tax imposed by section 2001, the value of the taxable estate shall be determined by deducting from the value of the gross estate the deductions provided for in this part.
+For purposes of the tax imposed by section 2001, the value of the taxable estate shall be determined by deducting from the value of thegross estate the deductions provided for in this part.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 388; Pub. L. 95–600, title VII, §702(r)(2), Nov. 6, 1978, 92 Stat. 2938.)
 

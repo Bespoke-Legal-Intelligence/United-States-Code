@@ -124,7 +124,7 @@ In this section:
 
 &emsp;The purposes of the Subcommittee shall be—
 
-&emsp;&emsp;(A) to advise and assist the National Science and Technology Council, includingthe Committee on Homeland and National Security of the National Science and Technology Council, on United States policies, procedures, and plans relating to critical minerals, including—
+&emsp;&emsp;(A) to advise and assist the National Science and Technology Council, including the Committee on Homeland and National Security of the National Science and Technology Council, on United States policies, procedures, and plans relating to critical minerals, including—
 
 &emsp;&emsp;&emsp;(i) Federal research, development, and deployment efforts to optimize methods for extractions, concentration, separation, and purification of conventional, secondary, and unconventional sources of critical minerals, including research that prioritizes end-to-end integration of mining and recycling techniques and the end-use target for critical minerals;
 
@@ -152,7 +152,7 @@ In this section:
 
 &emsp;&emsp;(C) assess the end-to-end lifecycle of critical minerals, including for mining, usage, recycling, and end-use material and technology requirements;
 
-&emsp;&emsp;(D) examine, and provide recommendations for, options for accessing and developing critical minerals through investment and trade with allies and partners of the United States;
+&emsp;&emsp;(D) examine, and provide recommendations for, options for accessing and developing critical minerals through investmentand trade with allies and partners of the United States;
 
 &emsp;&emsp;(E) evaluate and provide recommendations to incentivize the development and use of advances in science and technology in the private industry;
 
@@ -184,7 +184,7 @@ In this section:
 
 &emsp;&emsp;(A) the processing or recycling of critical minerals in the United States; or
 
-&emsp;&emsp;(B) the development of critical minerals and metals in the United States
+&emsp;&emsp;(B) the development of critical minerals and metals in the United States <sup>3</sup>
 
 #### (2) Limitation on grant awards
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (4) Secondary recovery
 
-&emsp;In awarding grants under paragraph (1), the Secretary shall seek to award not less than 30 percent of the total amount of grants awardedduring the fiscal year for projects relating to secondary recovery of critical minerals and metals.
+&emsp;In awarding grants under paragraph (1), the Secretary shall seek to award not less than 30 percent of the total amount of grants awarded during the fiscal year for projects relating to secondary recovery of critical minerals and metals.
 
 #### (5) Domestic priority
 
@@ -233,4 +233,6 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "or".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -12,7 +12,7 @@ Each instance of complementary access to a location in the United States under t
 
 #### (2) Time of notification
 
-&emsp;The notice under paragraph (1) shall be submitted to such owner, operator, occupant, or agent as soon as possible after the United States Government has received notification that the IAEA seeks complementary access. Notices may be posted prominently at the location if the United States Government is unable to provide actual written notice to such owner, operator, occupant, or agent.
+&emsp;The notice under paragraph (1) shall be submitted to such owner, operator, occupant, oragent as soon as possible after the United States Government has received notification that the IAEA seeks complementary access. Notices may be posted prominently at the location if the United States Government is unable to provide actual written notice to such owner, operator, occupant, or agent.
 
 #### (3) Content of notice
 
@@ -26,7 +26,7 @@ Each instance of complementary access to a location in the United States under t
 
 &emsp;&emsp;&emsp;(iii) the activities that will be carried out during the complementary access;
 
-&emsp;&emsp;&emsp;(iv) the time and date that the complementary access is expected to begin,and the anticipated period covered by the complementary access; and
+&emsp;&emsp;&emsp;(iv) the time and date that the complementary access is expected to begin, and the anticipated period covered by the complementary access; and
 
 &emsp;&emsp;&emsp;(v) the names and titles of the inspectors.
 

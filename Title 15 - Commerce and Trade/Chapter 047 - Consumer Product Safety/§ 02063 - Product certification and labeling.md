@@ -4,7 +4,7 @@
 
 (1)
 
-General conformity certification.—Except as provided in paragraphs (2) and (3), every manufacturer of a product which is subject to a consumer product safety rule under this chapter or similar rule, ban, standard, or regulation under any other Act enforced by the Commission and which is imported for consumption or warehousing or distributed in commerce (andthe private labeler of such product if such product bears a private label) shall issue a certificate which—
+General conformity certification.—Except as provided in paragraphs (2) and (3), every manufacturer of a product which is subject to a consumer product safety rule under this chapter or similar rule, ban, standard, or regulation under any other Act enforced by the Commission and which is imported for consumption or warehousing or distributed in commerce (and the private labeler of such product if such product bears a private label) shall issue a certificate which—
 
 &emsp;(A) shall certify, based on a test of each product or upon a reasonable testing program, that such product complies with all rules, bans, standards, or regulations applicable to the product under this chapter or any other Act enforced by the Commission; and
 
@@ -98,7 +98,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;(2) The cohort information (including the batch, run number, or other identifying characteristic) of the product.
 
-&emsp;(3) A suitable identification of the manufacturer of the consumer product, unless the product bears a private label in which case it shall identify the private labeler and shall also contain a code mark which will permit the seller of such product to identify the manufacturer thereof to the purchaser upon his request.
+&emsp;(3) A suitable identification of the manufacturer of the consumer product, unless the product bears a private label in which case it shall identify the private labeler and shall alsocontain a code mark which will permit the seller of such product to identify the manufacturer thereof to the purchaser upon his request.
 
 &emsp;(4) In the case of a consumer product subject to a consumer product safety rule, a certification that the product meets all applicable consumer product safety standards and a specification of the standards which are applicable.
 
@@ -160,7 +160,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (i) Consideration; alternative requirements
 
-&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirements under this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule, ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
+&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirementsunder this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule, ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
 
 #### (ii) Exemption
 
@@ -212,7 +212,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (I) Ordinary book
 
-&emsp;&emsp;&emsp;&emsp;The term "ordinary book" means a book printed on paper or cardboard, printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or has educational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
+&emsp;&emsp;&emsp;&emsp;The term "ordinary book" means a book printed on paper or cardboard, printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or haseducational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
 
 #### (II) Ordinary paper-based printed materials
 

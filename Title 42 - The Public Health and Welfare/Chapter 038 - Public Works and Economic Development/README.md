@@ -29,7 +29,7 @@
 | [3145\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003145%20-%20Supplementary%20grants.md) | Supplementary grants. |
 | [3146\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003146%20-%20Regulations%20on%20relative%20needs%20and%20allocations.md) | Regulations on relative needs and allocations. |
 | [3147\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003147%20-%20Grants%20for%20training%2C%20research%2C%20and%20technical%20assistance.md) | Grants for training, research, and technical assistance. |
-| [3148\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003148%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93373%2C%20title%20II%2C%20%C2%A7206%28a%29%2C%20Oct.%2027%2C%202004%2C%20118%20Stat.%201761.md) | Repealed. |
+| [3148\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003148%20-%20Investment%20priorities.md) | Investment priorities. |
 | [3149\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003149%20-%20Grants%20for%20economic%20adjustment.md) | Grants for economic adjustment. |
 | [3150\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003150%20-%20Changed%20project%20circumstances.md) | Changed project circumstances. |
 | [3151\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003151%20-%20Use%20of%20funds%20in%20projects%20constructed%20under%20projected%20cost.md) | Use of funds in projects constructed under projected cost. |
@@ -39,7 +39,11 @@
 | [3154a.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154a%20-%20Performance%20awards.md) | Performance awards. |
 | [3154b.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154b%20-%20Planning%20performance%20awards.md) | Planning performance awards. |
 | [3154c.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154c%20-%20Direct%20expenditure%20or%20redistribution%20by%20recipient.md) | Direct expenditure or redistribution by recipient. |
-| [3154d.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154d%20-%20Brightfields%20demonstration%20program.md) | Brightfields demonstration program. |
+| [3154d.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154d%20-%20Renewable%20energy%20program.md) | Renewable energy program. |
+| [3154e.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154e%20-%20Workforce%20training%20grants.md) | Workforce training grants. |
+| [3154f.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154f%20-%20Congressional%20notification%20requirements.md) | Congressional notification requirements. |
+| [3154g.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154g%20-%20High-speed%20broadband%20deployment%20initiative.md) | High-speed broadband deployment initiative. |
+| [3154h.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Public%20Works%20and%20Economic%20Development/%C2%A7%2003154h%20-%20Critical%20Supply%20Chain%20Site%20Development%20grant%20program.md) | Critical Supply Chain Site Development grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +79,9 @@
 | [3195\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003195%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93373%2C%20title%20V%2C%20%C2%A7502%28a%29%2C%20Oct.%2027%2C%202004%2C%20118%20Stat.%201768.md) | Repealed. |
 | [3196\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003196%20-%20Performance%20evaluations%20of%20grant%20recipients.md) | Performance evaluations of grant recipients. |
 | [3197\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003197%20-%20Notification%20of%20reorganization.md) | Notification of reorganization. |
+| [3198\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003198%20-%20Office%20of%20Tribal%20Economic%20Development.md) | Office of Tribal Economic Development. |
+| [3199\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003199%20-%20Office%20of%20Disaster%20Recovery%20and%20Resilience.md) | Office of Disaster Recovery and Resilience. |
+| [3200\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2003200%20-%20Technical%20Assistance%20Liaisons.md) | Technical Assistance Liaisons. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -104,7 +111,7 @@
 | [3231\.](Subchapter%20007%20%28VII%29%20-%20Funding/%C2%A7%2003231%20-%20General%20authorization%20of%20appropriations.md) | General authorization of appropriations. |
 | [3232\.](Subchapter%20007%20%28VII%29%20-%20Funding/%C2%A7%2003232%20-%20Authorization%20of%20appropriations%20for%20defense%20conversion%20activities.md) | Authorization of appropriations for defense conversion activities. |
 | [3233\.](Subchapter%20007%20%28VII%29%20-%20Funding/%C2%A7%2003233%20-%20Authorization%20of%20appropriations%20for%20disaster%20economic%20recovery%20activities.md) | Authorization of appropriations for disaster economic recovery activities. |
-| [3234\.](Subchapter%20007%20%28VII%29%20-%20Funding/%C2%A7%2003234%20-%20Funding%20for%20grants%20for%20planning%20and%20grants%20for%20administrative%20expenses.md) | Funding for grants for planning and grants for administrative expenses. |
+| [3234\.](Subchapter%20007%20%28VII%29%20-%20Funding/%C2%A7%2003234%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93272%2C%20div.%20B%2C%20title%20II%2C%20%C2%A72236%28b%29%2C%20Jan.%204%2C%202025%2C%20138%20Stat.%203201.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

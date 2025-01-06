@@ -18,7 +18,7 @@
 
 &emsp;(3) consult with and advise Federal agencies as to areas of science and technology research and development with potential for commercial utilization.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V, §501(11), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 106–404, §6(2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V,§501(11), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 106–404, §6(2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ Ex. Ord. No. 9865, June 14, 1947, 12 F.R. 3907, as amended by Ex. Ord. No. 10096
 
 6\. There shall be exempted from the provisions of this order (a) all inventions within the jurisdiction of the Atomic Energy Commission except in such cases as the said Commission specifically authorizes the inclusion of an invention under the terms of this order; and (b) all other inventions officially classified as secret or confidential for reasons of the national security. Nothing in this order shall supersede the declassification policies and procedures established by Executive Orders Nos. 9568 of June 8, 1945, 9604 of August 25, 1945, and 9809 of December 12, 1946.
 
-\[Atomic Energy Commission abolished and all functions transferred to Administrator of Energy Research and Development Administration (unless otherwise specifically provided) by section 5814 of Title 42, The Public Health and Welfare. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.\]
+\[Atomic Energy Commission abolished and all functions transferred to Administrator of Energy Researchand Development Administration (unless otherwise specifically provided) by section 5814 of Title 42, The Public Health and Welfare. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.\]
 
 #### Ex. Ord. No. 10096. Uniform Government Patent Policy for Inventions by Government Employees
 
@@ -120,7 +120,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 (e) To perform such other or further functions or duties as may from time to time be prescribed by the President or by statute.
 
-5\. The functions and duties of the Secretary of Commerce and the Department of Commerce under the provisions of Executive Order No. 9865 of June 14, 1947 \[set out above\] are hereby transferred to the Chairman and the whole or any part of such functions and duties may be delegated by him to any Government agency or officer: <i>Provided</i>, That said Executive Order No. 9865 shallnot be deemed to be amended or affected by any provision of this Executive order other than this paragraph 5.
+5\. The functions and duties of the Secretary of Commerce and the Department of Commerce under the provisions of Executive Order No. 9865 of June 14, 1947 \[set out above\] are hereby transferred to the Chairman and the whole or any part of such functions and duties may be delegated by him to any Government agency or officer: <i>Provided</i>, That said Executive Order No. 9865 shall not be deemed to be amended or affected by any provision of this Executive order other than this paragraph 5.
 
 6\. Each Government agency shall take all steps appropriate to effectuate this order, including the promulgation of necessary regulations which shall not be inconsistent with this order or with regulations issued pursuant to paragraph 4(b) hereof.
 

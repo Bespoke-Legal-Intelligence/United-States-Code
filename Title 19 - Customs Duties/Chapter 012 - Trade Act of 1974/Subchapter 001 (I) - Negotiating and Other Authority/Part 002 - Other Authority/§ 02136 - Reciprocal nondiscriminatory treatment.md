@@ -2,7 +2,7 @@
 
 #### (a) Direct and indirect imports
 
-Except as otherwise provided in this chapter or in any other provision of law, any duty or other import restriction or duty-free treatment proclaimed in carrying out any trade agreement under this subchapter shall apply to products of all foreign countries, whether imported directly or indirectly.
+Except as otherwise provided in this chapter or in any other provision of law, any duty orother import restriction or duty-free treatment proclaimed in carrying out any trade agreement under this subchapter shall apply to products of all foreign countries, whether imported directly or indirectly.
 
 #### (b) Presidential determination of whether major industrial countries have made substantially equivalent concessions to the United States
 

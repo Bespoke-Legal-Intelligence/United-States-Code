@@ -84,7 +84,7 @@ In subsection (d), the words "through the Quartermaster Corps" are omitted, sinc
 
 In subsection (e), the first 37 words are substituted for 5:150j (33 words after 3d semicolon of 1st par.). The word "may" is substituted for the word "shall have the authority".
 
-In subsection (f), the words "Soldiers' Home" are inserted, since, as provided in section 9713 of this title, the Home is now the place where the mentioned articles are sent.
+In subsection (f), the words "Soldiers' Home" are inserted, since, as provided in section 9713 of this title,the Home is now the place where the mentioned articles are sent.
 
 #### <b>Editorial Notes</b>
 

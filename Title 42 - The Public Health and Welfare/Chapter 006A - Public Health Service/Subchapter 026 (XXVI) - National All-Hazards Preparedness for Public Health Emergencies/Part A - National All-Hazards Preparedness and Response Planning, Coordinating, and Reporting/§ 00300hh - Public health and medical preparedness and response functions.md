@@ -24,7 +24,7 @@ The Secretary shall submit a written report each fiscal year to the Committee on
 
 &emsp;(4) any challenges in preparing for or responding to such threats, as appropriate.
 
-(July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596; amended Pub. L. 109–417, titleI, §101(2), Dec. 19, 2006, 120 Stat. 2832; Pub. L. 117–328, div. FF, title II, §2103(b)(1), (d), Dec. 29, 2022, 136 Stat. 5711, 5714.)
+(July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596; amended Pub. L. 109–417, title I, §101(2), Dec. 19, 2006, 120 Stat. 2832; Pub. L. 117–328, div. FF, title II, §2103(b)(1), (d), Dec. 29, 2022, 136 Stat. 5711, 5714.)
 
 #### <b>Editorial Notes</b>
 
@@ -74,7 +74,7 @@ Requirements.—In carrying out activities pursuant to subparagraph (A), the Sec
 
 &emsp;"(2)
 
-Data use agreements with external entities.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Preparedness and Response, may update memoranda of understanding, data use agreements, or other applicable agreements and contracts to improve appropriate access, exchange, and use of public health data between the Centers for Disease Control and Prevention and the Office of the Assistant Secretary for Preparedness and Response and external entities, including State, Tribal, and territorial health departments, laboratories, hospitals and other health care providers, electronic health records vendors, and other entities, as applicable and appropriate, in order to prepare for, identify, monitor, and respond to declared or potential public health emergencies.
+Data use agreements with external entities.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Preparedness and Response, may update memoranda of understanding,data use agreements, or other applicable agreements and contracts to improve appropriate access, exchange, and use of public health data between the Centers for Disease Control and Prevention and the Office of the Assistant Secretary for Preparedness and Response and external entities, including State, Tribal, and territorial health departments, laboratories, hospitals and other health care providers, electronic health records vendors, and other entities, as applicable and appropriate, in order to prepare for, identify, monitor, and respond to declared or potential public health emergencies.
 
 &emsp;"(3)
 

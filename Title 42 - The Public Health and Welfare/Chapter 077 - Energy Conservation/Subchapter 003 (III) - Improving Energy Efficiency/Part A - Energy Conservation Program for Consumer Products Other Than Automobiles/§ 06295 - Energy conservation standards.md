@@ -1467,11 +1467,11 @@ External power supplies.—Not later than 2 years after August 8, 2005, the Secr
 
 Battery chargers.—Not later than July 1, 2011, the Secretary shall issue a final rule that prescribes energy conservation standards for battery chargers or classes of battery chargers or determine that no energy conservation standard is technically feasible and economically justified.
 
-(ii) For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
+&emsp;(ii) For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
 
-&emsp;(I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t); and
+&emsp;&emsp;(I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t); and
 
-&emsp;(II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
+&emsp;&emsp;(II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
 
 (2) The Secretary and the Administrator shall collaborate and develop programs (including programs under section 6294a of this title and other voluntary industry agreements or codes of conduct) that are designed to reduce standby mode energy use.
 

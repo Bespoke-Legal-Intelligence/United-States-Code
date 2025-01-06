@@ -228,7 +228,7 @@ Criteria.—In making grants under this section, the Attorney General shall give
 
 &emsp;&emsp;"(A) A program focusing on—
 
-&emsp;&emsp;&emsp;"(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and youngadults who have had or are likely to have contact with the juvenile justice system;
+&emsp;&emsp;&emsp;"(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and young adults who have had or are likely to have contact with the juvenile justice system;
 
 &emsp;&emsp;&emsp;"(ii) fostering positive relationships between program participants and supportive adults in the community; and
 
@@ -324,7 +324,7 @@ Young adult.—The term 'young adult' means an individual who is 18 through 24 y
 
 "(g)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 through 2009, to remain available until expended."
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section$50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 through 2009, to remain available until expended."
 
 #### National Police Athletic/Activities League Youth Enrichment
 
@@ -362,7 +362,7 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 &emsp;"(4) Based on PAL chapter demographics, approximately 85 percent of the youths who benefit from PAL programs live in inner cities and urban areas.
 
-&emsp;"(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters rarely receive direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations.PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
+&emsp;"(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters rarely receive direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations. PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
 
 &emsp;"(6) Today's youth face far greater risks than did their parents and grandparents. Law enforcement statistics demonstrate that youth between the ages of 12 and 18 are at risk of committing violent acts and being victims of violent acts between the hours of 3 p.m. and 8 p.m.
 

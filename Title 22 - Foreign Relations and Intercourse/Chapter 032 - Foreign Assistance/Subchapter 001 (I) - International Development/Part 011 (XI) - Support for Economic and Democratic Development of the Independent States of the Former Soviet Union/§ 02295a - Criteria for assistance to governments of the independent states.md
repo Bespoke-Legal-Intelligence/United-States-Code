@@ -132,7 +132,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Transfer of Functions
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred toSecretary of State, see sections 6531 and 6532 of this title.
 
 #### Ineligibility for Assistance of Institutions Withholding Certain Documents of United States Nationals
 
@@ -140,7 +140,7 @@ Pub. L. 102–511, title II, §202, Oct. 24, 1992, 106 Stat. 3331, provided that
 
 "(a)
 
-Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the formerSoviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] if—
+Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] if—
 
 &emsp;"(1) on the date of enactment of this Act \[Oct. 24, 1992\], there is outstanding a final judgment by a court of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and
 

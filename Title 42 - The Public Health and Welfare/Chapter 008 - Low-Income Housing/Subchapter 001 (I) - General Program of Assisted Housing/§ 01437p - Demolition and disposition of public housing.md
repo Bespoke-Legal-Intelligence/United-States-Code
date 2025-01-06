@@ -132,7 +132,7 @@ Of the amounts appropriated for tenant-based assistance under section 1437f of t
 
 #### References in Text
 
-The Uniform Relocation and Real Property Acquisition Policies Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance andReal Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+The Uniform Relocation and Real Property Acquisition Policies Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Subsec. (c). Pub. L. 100–242, §121(c), designated existing provisions as par.
 
 Pub. L. 100–242, §112(b)(9), substituted "contributions authorized under section 1437c" for "annual contributions authorized under section 1437c(c)".
 
-Subsec. (d). Pub. L. 100–242, §121(d), added subsec. (d) and struck out former subsec. (d) which read as follows: "The provisions of this section shall not apply to the conveyance of units in a public housing project for the purpose of providing homeownership opportunities for lower income families capable of assuming the responsibilities of homeownership."
+Subsec. (d). Pub. L. 100–242, §121(d), added subsec. (d) and struck out former subsec. (d) which read as follows: "The provisions of this section shall not apply to theconveyance of units in a public housing project for the purpose of providing homeownership opportunities for lower income families capable of assuming the responsibilities of homeownership."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

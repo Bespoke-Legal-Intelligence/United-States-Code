@@ -122,11 +122,111 @@ Pub. L. 117–40, §1, Sept. 24, 2021, 135 Stat. 337, provided that: "This Act \
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–101, §1, May 9, 2014, 128 Stat. 1146, provided that: "This Act \[amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the 'Digital Accountability and Transparency Act of 2014' or the 'DATA Act'."
+Pub. L. 113–101, §1, May 9, 2014, 128 Stat. 1146, provided that: "This Act \[amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the 'DigitalAccountability and Transparency Act of 2014' or the 'DATA Act'."
 
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided that: "This chapter \[chapter 2 (§§6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section\] may be cited as the 'Government Funding Transparency Act of 2008'."
+
+#### Grant Transparency
+
+Pub. L. 118–140, Dec. 11, 2024, 138 Stat. 1657, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Grant Transparency Act of 2023'.
+
+#### "SEC. 2. NOTICES OF FUNDING OPPORTUNITY TRANSPARENCY.
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Agency.—The term 'agency'—
+
+&emsp;&emsp;"(A) has the meaning given the term 'Executive agency' in section 105 of title 5, United States Code; and
+
+&emsp;&emsp;"(B) does not include the Government Accountability Office.
+
+&emsp;"(2)
+
+Competitive grant.—The term 'competitive grant' means a discretionary award (as defined in section 200.1 of title 2, Code of Federal Regulations) awarded by an agency—
+
+&emsp;&emsp;"(A) through a grant agreement or cooperative agreement under which the agency makes payment in cash or in kind to a recipient to carry out a public purpose authorized by law; and
+
+&emsp;&emsp;"(B) the recipient of which is selected from a pool of applicants through the use of merit-based selection procedures for the purpose of allocating funds authorized under a grant program of the agency.
+
+&emsp;"(3)
+
+Evaluation or selection criteria.—The term 'evaluation or selection criteria' means standards or principles for judging, evaluating, or selecting an application for a competitive grant.
+
+&emsp;"(4)
+
+Notice of funding opportunity.—The term 'notice of funding opportunity' has the meaning given the term in section 200.1 of title 2, Code of Federal Regulations.
+
+&emsp;"(5)
+
+Rating system.—The term 'rating system'—
+
+&emsp;&emsp;"(A) means a system of evaluation of competitive grant applications to determine how such applications advance through the selection process; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) a merit criteria rating rubric;
+
+&emsp;&emsp;&emsp;"(ii) an evaluation of merit criteria;
+
+&emsp;&emsp;&emsp;"(iii) a methodology to evaluate and rate based on a point scale; and
+
+&emsp;&emsp;&emsp;"(iv) an evaluation to determine whether a competitive grant application meets evaluation or selection criteria.
+
+"(b)
+
+Transparency Requirements.—Each notice of funding opportunity issued by an agency for a competitive grant shall include—
+
+&emsp;"(1) a description of any rating system and evaluation and selection criteria the agency uses to assess applications for the competitive grant;
+
+&emsp;"(2) a statement of whether the agency uses a weighted scoring method and a description of any weighted scoring method the agency uses for the competitive grant, including the amount by which the agency weights each criterion; and
+
+&emsp;"(3) any other qualitative or quantitative merit-based approach the agency uses to evaluate an application for the competitive grant.
+
+"(c)
+
+Applications; Data Elements.—
+
+&emsp;"(1)
+
+In general.—The Director of the Office of Management and Budget, in coordination with the Executive department designated under section 6402(a)(1) of title 31, United States Code, shall develop data elements relating to grant applications to ensure common reporting by each agency with respect to applications received in response to each notice of funding opportunity of the agency.
+
+&emsp;"(2)
+
+Contents.—The data elements developed under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) the number of applications received; and
+
+&emsp;&emsp;"(B) the city and State of each organization that submitted an application.
+
+"(d)
+
+Rule of Construction.—With respect to a particular competitive grant, nothing in this Act shall be construed to supersede any requirement with respect to a notice of funding opportunity for the competitive grant in a law that authorizes the competitive grant.
+
+"(e)
+
+No Additional Funds.—No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
+
+"(f)
+
+Effective Date.—
+
+&emsp;"(1)
+
+In general.—This Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 11, 2024\].
+
+&emsp;"(2)
+
+No retroactive effect.—This Act shall not apply to a notice of funding opportunity issued before the date of enactment of this Act \[Dec. 11, 2024\]."
 
 #### Reporting on Use of Funds
 
@@ -164,7 +264,7 @@ Pub. L. 116–136, div. B, title V, §15011, Mar. 27, 2020, 134 Stat. 540, provi
 
 &emsp;"(D) detailed information on any level of subcontracts or subgrants awarded by the covered recipient or its subcontractors or subgrantees, to include the data elements required to comply with the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\] (31 U.S.C. 6101 note) allowing aggregate reporting on awards below $50,000 or to individuals, as prescribed by the Director of the Office of Management and Budget.
 
-"(3) Not later than 30 days after the end of each calendar quarter, the Committee, in consultation with the agency that made large covered funds available to any covered recipient shall make the information in reports submitted under paragraph (2) publicly available by posting the information on the website established under section 15010(g).
+"(3) Not later than 30 days after the end of each calendar quarter, the Committee, in consultation with theagency that made large covered funds available to any covered recipient shall make the information in reports submitted under paragraph (2) publicly available by posting the information on the website established under section 15010(g).
 
 "(4)(A) Each agency, in coordination with the Committee and the Director of the Office of Management and Budget shall provide user-friendly means for covered recipients to meet requirements of this subsection.
 
@@ -700,7 +800,7 @@ Consultation.—The Director and the Secretary shall consult with public and pri
 
 "(a)
 
-In General.—The Director, in consultation with relevant Federal agencies, recipients of Federal awards, including State and local governments, and institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)), shall review the information required to be reported by recipients of Federal awards to identify—
+In General.—The Director, in consultation with relevant Federal agencies, recipients of Federal awards,including State and local governments, and institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)), shall review the information required to be reported by recipients of Federal awards to identify—
 
 &emsp;"(1) common reporting elements across the Federal Government;
 
@@ -898,7 +998,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (b) Send to the agency designated pursuant to Section 5 identifying information concerning debarred and suspended participants in affected programs, participants who have agreed to exclusion from participation, and participants declared ineligible under applicable law, including Executive Orders. This information shall be included in the list to be maintained pursuant to Section 5.
 
-(c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
+(c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particulartransaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
 Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 

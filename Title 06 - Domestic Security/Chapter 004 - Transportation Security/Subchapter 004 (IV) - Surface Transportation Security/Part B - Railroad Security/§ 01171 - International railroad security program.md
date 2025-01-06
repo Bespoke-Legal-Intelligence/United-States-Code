@@ -40,7 +40,7 @@ In this section:
 
 #### (1) International supply chain
 
-&emsp;The term "international supply chain" means the end-to-end process for shipping goods to or from the United States, beginningat the point of origin (including manufacturer, supplier, or vendor) through a point of distribution to the destination.
+&emsp;The term "international supply chain" means the end-to-end process for shipping goods to or from the United States, beginning at the point of origin (including manufacturer, supplier, or vendor) through a point of distribution to the destination.
 
 #### (2) Radiation detection equipment
 

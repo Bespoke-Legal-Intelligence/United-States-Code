@@ -36,7 +36,7 @@ Grant proposal.—To be eligible to receive a grant under this subsection, a cen
 
 &emsp;(3)
 
-Criteria for award of grants.—Subject to the appropriation of funds to carry out thissection, the Secretary shall award grants under this subsection to centers of excellence based on—
+Criteria for award of grants.—Subject to the appropriation of funds to carry out this section, the Secretary shall award grants under this subsection to centers of excellence based on—
 
 &emsp;&emsp;(A) an determination of the merits of a grant proposal submitted under paragraph (2) to develop, offer, or improve career and technical education or training programs to be made available to United States maritime industry workers;
 

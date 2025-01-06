@@ -12,7 +12,7 @@ The updated National Biodefense Implementation Plan shall—
 
 &emsp;(2) describe roles, responsibilities, and processes for decisionmaking, including decisions regarding use of resources for effective risk management across the enterprise;
 
-&emsp;(3) describe resource plans for each department and agency with responsibility for biodefense to support implementation of the strategy within the jurisdiction of such department or agency, including for the Biodefense Coordination Team, as appropriate;
+&emsp;(3) describe resource plans for each department and agency with responsibility for biodefense to support implementation of thestrategy within the jurisdiction of such department or agency, including for the Biodefense Coordination Team, as appropriate;
 
 &emsp;(4) describe guidance and methods for analyzing the data collected from agencies to include non-Federal resources and capabilities to the extent practicable; and
 

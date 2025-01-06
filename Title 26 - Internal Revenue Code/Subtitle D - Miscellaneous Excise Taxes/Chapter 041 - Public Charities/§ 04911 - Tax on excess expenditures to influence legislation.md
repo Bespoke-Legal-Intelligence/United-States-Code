@@ -131,7 +131,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) if the expenditure limits of section 501(h)(1) are exceeded, each such organization as to which an election under section 501(h) is effective for such year shall be treated as an organization which is not described in section 501(c)(3) by reason of the application of 501(h), and
 
-&emsp;&emsp;(D) subparagraphs (C) and (D) of subsection (d)(2), paragraph (3) or subsection\(d), and clause (i) of subsection (e)(1)(C) shall be applied as if such affiliated group were one organization.
+&emsp;&emsp;(D) subparagraphs (C) and (D) of subsection (d)(2), paragraph (3) or subsection (d), and clause (i) of subsection (e)(1)(C) shall be applied as if such affiliated group were one organization.
 
 #### (2) Definition of affiliation
 

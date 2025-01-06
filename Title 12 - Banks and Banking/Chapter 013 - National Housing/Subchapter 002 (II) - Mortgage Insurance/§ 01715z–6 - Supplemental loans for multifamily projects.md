@@ -22,7 +22,7 @@ To be eligible for insurance under this section, a supplemental loan shall—
 
 #### (c) Applicability of other provisions of law
 
-The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term "mortgage" shall be construed to refer to the term "loan" as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligation of the Special Risk Insurance Fund.
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term "mortgage" shall be construed to refer to the term "loan" as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shallbe insured under and shall be the obligation of the Special Risk Insurance Fund.
 
 #### (d) Authorization to insure loans for improvements or additions; terms and conditions; limitation on amount
 
@@ -52,7 +52,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (3) The provisions of subsection (c) shall apply to loans insured under this subsection.
 
-(4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals totenants and a reasonable return on the investment.
+(4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
 
 #### (f) Repealed. Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885
 

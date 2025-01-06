@@ -120,7 +120,7 @@ Sec. 3. <i>Membership and Operation of the Council</i>. (a) The Council shall co
 
 (i) the Secretary of the Treasury and the Secretary of Education, who may designate a senior official from each of their respective departments to perform their Council duties; and
 
-(ii) not more than 22 members appointed by the President from among individuals not employed by the Federal Government, up to three of whom shall be selected by the President on the basis of their experience in academia or similar research experience related to financial education and financial access.
+(ii) not more than 22 members appointed by the President from among individuals not employed by the Federal Government, up to three of whom shall be selectedby the President on the basis of their experience in academia or similar research experience related to financial education and financial access.
 
 (b) Members of the Council shall include individuals with relevant backgrounds, such as financial services providers, consumers, access advocates, and educators. Members of the Council appointed by the President pursuant to subsection (a)(ii) of this section, may serve as representatives of individual industries, trade groups, public interest groups, or other organizations. The composition of the Council shall reflect the views of diverse stakeholders.
 
@@ -212,7 +212,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. To contribute to the Nation's future financial stability and increase upward economic mobility, it is the policy of the Federal Government to promote financial capability among young Americans and encourage building the financial capability of young people at an early stage in schools, families, communities, and the workplace. By starting early, young people can begin to learn the difference between wants and needs, the importance and power of saving, and the positive and productive role money can play in their lives. Having a basic understanding of money management from an early age will make our young people better equipped to tackle more complex financial decisions in their transition to adulthood, when critical decisions about financing higher education and saving for retirement can have lasting consequences for financial security. Strengthening the financial capability of our young people is an investment in our Nation's economic prosperity.
 
-Financial capability is the capacity, based on knowledge, skills, and access, to manage financial resources prudently and effectively. Efforts to improve financial capability, which should be based on evidence of effectiveness, empower individuals to make informed choices, plan and set goals, avoid pitfalls, know where to seek help, and take other actions to better their present and long-term financial well-being.
+Financial capability is the capacity, based on knowledge, skills, and access, to manage financial resourcesprudently and effectively. Efforts to improve financial capability, which should be based on evidence of effectiveness, empower individuals to make informed choices, plan and set goals, avoid pitfalls, know where to seek help, and take other actions to better their present and long-term financial well-being.
 
 Sec. 2. <i>Establishment of the Council</i>. There is established within the Department of the Treasury the President's Advisory Council on Financial Capability for Young Americans (Council).
 

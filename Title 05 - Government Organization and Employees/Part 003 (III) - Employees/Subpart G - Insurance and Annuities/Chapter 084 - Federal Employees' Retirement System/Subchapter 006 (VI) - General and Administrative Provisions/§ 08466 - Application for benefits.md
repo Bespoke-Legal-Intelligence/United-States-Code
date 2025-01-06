@@ -34,5 +34,5 @@ Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and
 
 #### Regulations
 
-Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under section 8331 of this title.
+Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section3(b) of Pub. L. 116–126, set out as a note under section 8331 of this title.
 

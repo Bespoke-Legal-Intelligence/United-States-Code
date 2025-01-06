@@ -94,7 +94,7 @@ The President may exercise all authorities provided under sections 203 and 205 o
 
 #### (2) Good defined
 
-&emsp;In this paragraph, the term "good" means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+&emsp;In this paragraph, the term "good" means any article, natural or manmade substance,material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
 #### (i) Definitions
 

@@ -50,7 +50,7 @@ The Secretary, in cooperation and consultation with the States, shall develop a 
 
 #### (1) In general
 
-&emsp;For the purpose of assisting the Corps in carrying out duties under this section, during apublic health emergency, the Secretary may appoint selected individuals to serve as intermittent personnel of such Corps in accordance with applicable civil service laws and regulations. In all other cases, members of the Corps are subject to the laws of the State in which the activities of the Corps are undertaken.
+&emsp;For the purpose of assisting the Corps in carrying out duties under this section, during a public health emergency, the Secretary may appoint selected individuals to serve as intermittent personnel of such Corps in accordance with applicable civil service laws and regulations. In all other cases, members of the Corps are subject to the laws of the State in which the activities of the Corps are undertaken.
 
 #### (2) Applicable protections
 

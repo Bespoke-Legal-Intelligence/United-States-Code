@@ -2,7 +2,7 @@
 
 #### (a) Conditions; exceptions; persons liable; amount of recovery; subrogation; assignment
 
-In any case in which the United States is authorized or required by law to furnish or pay for hospital, medical, surgical, or dental care and treatment (including prostheses and medical appliances) to a person who is injured or suffers a disease, after the effective date of this Act, under circumstances creating a tort liability upon some third person (other than or in addition to the United States and except employers of seamen treated under the provisions of section 249 of this title) to pay damages therefor, the United States shall have a right to recover (independent of the rights of the injured or diseased person) from said third person, or that person's insurer, the reasonable value of the care and treatment so furnished, to be furnished, paid for, or to be paid for and shall, as to this right be subrogated to any right or claim that the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors has against such third person to the extent of the reasonable value of the care and treatment so furnished, to be furnished, paid for, or to be paid for. The head of the department or agency of the United States furnishing such care or treatment may also require the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors, as appropriate, to assign his claim or cause of action against the third person to the extent of that right or claim.
+In any case in which the United States is authorized or required by law to furnish or pay for hospital, medical, surgical, or dental care and treatment (including prostheses and medical appliances) to a person who is injured or suffers a disease, after the effective date of this Act, under circumstances creating a tort liability upon some third person (other than or in addition to the United States and except employers of seamen treated under the provisions of section 249 of this title) to pay damages therefor, the United States shall have a right to recover\(independent of the rights of the injured or diseased person) from said third person, or that person's insurer, the reasonable value of the care and treatment so furnished, to be furnished, paid for, or to be paid for and shall, as to this right be subrogated to any right or claim that the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors has against such third person to the extent of the reasonable value of the care and treatment so furnished, to be furnished, paid for, or to be paid for. The head of the department or agency of the United States furnishing such care or treatment may also require the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors, as appropriate, to assign his claim or cause of action against the third person to the extent of that right or claim.
 
 #### (b) Recovery of cost of pay for member of uniformed services unable to perform duties
 
@@ -18,7 +18,7 @@ If a member of the uniformed services is injured, or contracts a disease, under 
 
 &emsp;(B) the cost to the United States of the pay of the member as described in subsection (b) shall be deemed to have been pay lost by the member as a result of the injury or disease; and
 
-&emsp;(C) the United States shall be subrogated to any right or claim that the injured or diseased member or the member's guardian, personalrepresentative, estate, dependents, or survivors have under a policy, contract, agreement, or arrangement referred to in paragraph (1) to the extent of the reasonable value of the care and treatment and the total amount of the pay deemed lost under subparagraph (B).
+&emsp;(C) the United States shall be subrogated to any right or claim that the injured or diseased member or the member's guardian, personal representative, estate, dependents, or survivors have under a policy, contract, agreement, or arrangement referred to in paragraph (1) to the extent of the reasonable value of the care and treatment and the total amount of the pay deemed lost under subparagraph (B).
 
 #### (d) Enforcement procedure; intervention; joinder of parties; State or Federal court proceedings
 
@@ -42,7 +42,7 @@ For the purposes of this section:
 
 &emsp;(2) The term "tortious conduct" includes any tortious omission.
 
-&emsp;(3) The term "pay", with respect to a member of the uniformed services, means basic pay, special pay, and incentive pay that the member is authorized to receive under title 37 or any other law providing pay for service in the uniformed services.
+&emsp;(3) The term "pay", with respect to a member of the uniformed services, means basicpay, special pay, and incentive pay that the member is authorized to receive under title 37 or any other law providing pay for service in the uniformed services.
 
 &emsp;(4) The term "Secretary concerned" means—
 
@@ -86,7 +86,7 @@ Subsecs. (f), (g). Pub. L. 104–201, §1075(a)(5), added subsecs. (f) and (g).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title X, §1075(c), Sept. 23, 1996, 110 Stat. 2663, provided that: "The authority to collect pursuant to the amendments made by this section \[amending this section\] shall apply to expenses described in the first section of Public Law 87–693 \[this section\] (as amended by this section) that are incurred, or are to be incurred, by the United States on or afterthe date of the enactment of this Act \[Sept. 23, 1996\], whether the event from which the claim arises occurs before, on, or after that date."
+Pub. L. 104–201, div. A, title X, §1075(c), Sept. 23, 1996, 110 Stat. 2663, provided that: "The authority to collect pursuant to the amendments made by this section \[amending this section\] shall apply to expenses described in the first section of Public Law 87–693 \[this section\] (as amended by this section) that are incurred, or are to be incurred, by the United States on or after the date of the enactment of this Act \[Sept. 23, 1996\], whether the event from which the claim arises occurs before, on, or after that date."
 
 #### Effective Date
 

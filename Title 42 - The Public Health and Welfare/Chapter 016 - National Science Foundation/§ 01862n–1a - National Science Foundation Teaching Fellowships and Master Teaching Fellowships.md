@@ -54,7 +54,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor's degrees in their field and working toward a master's degree—
 
-&emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools;
+&emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training toprepare individuals to become master teachers in elementary and secondary schools;
 
 &emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
 

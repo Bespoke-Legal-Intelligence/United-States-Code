@@ -5,7 +5,7 @@ Subpart A—Effects on Recipients
 | [331\.](%C2%A7%2000331%20-%20Gain%20or%20loss%20to%20shareholder%20in%20corporate%20liquidations.md) | Gain or loss to shareholder in corporate liquidations. |
 | [332\.](%C2%A7%2000332%20-%20Complete%20liquidations%20of%20subsidiaries.md) | Complete liquidations of subsidiaries. |
 | \[333. | Repealed.\] |
-| [334\.](%C2%A7%2000334%20-%20Basis%20of%20property%20received%20in%20liquidations.md) | Basis of property received in liquidations. |
+| [334\.](%C2%A7%2000334%20-%20Basis%20of%20property%20received%20in%20liquidations.md) | Basis of property received in liquidations.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

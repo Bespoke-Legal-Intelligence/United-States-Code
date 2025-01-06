@@ -10,7 +10,7 @@ Amounts deposited under subsection (a) shall be available to the Secretary of th
 
 #### (c) Transfer of funds
 
-For the purposes of coordination and processing of geothermal leases and geothermal useauthorizations on Federal land the Secretary of the Interior may authorize the expenditure or transfer of such funds as are necessary to the Forest Service.
+For the purposes of coordination and processing of geothermal leases and geothermal use authorizations on Federal land the Secretary of the Interior may authorize the expenditure or transfer of such funds as are necessary to the Forest Service.
 
 (Pub. L. 109–58, title II, §234, Aug. 8, 2005, 119 Stat. 671.)
 

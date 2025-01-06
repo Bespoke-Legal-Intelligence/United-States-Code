@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) benefits provided under such plan with respect to such provider or facility are terminated because of a change in the terms of the participation of such provider or facility in such plan; or
 
-&emsp;&emsp;(C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connectionwith such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
+&emsp;&emsp;(C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connection with such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
 
 > &emsp;the plan shall meet the requirements of paragraph (2) with respect to such individual.
 

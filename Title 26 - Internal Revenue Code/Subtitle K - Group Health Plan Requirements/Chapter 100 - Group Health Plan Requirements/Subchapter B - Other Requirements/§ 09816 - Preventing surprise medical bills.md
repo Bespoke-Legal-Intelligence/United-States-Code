@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;The term "qualifying payment amount" means, subject to clauses (ii) and (iii), with respect to a sponsor of a group health plan—
 
-&emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022, the median of the contracted rates recognized by the plan (determined with respect to all such plans of such sponsor that are offered within the same insurance market (specified in subclause (I), (II), or (III) of clause (iv)) as the plan) as the total maximum payment (including the cost-sharing amount imposed for such item or service and the amount to be paid by the plan) under such plans on January 31, 2019 for the same or a similar item or service that is provided by a provider in the same or similar specialty and provided in the geographic region in which the item or service is furnished, consistent with the methodology established by the Secretary under paragraph (2)(B), increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over 2019, such percentage increase over 2020, and such percentage increase over 2021; and
+&emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022, the median of the contracted rates recognized by the plan (determined with respect to all such plans of such sponsor that are offered within the same insurance market (specified in subclause (I), (II), or (III) of clause (iv)) as the plan) as the total maximum payment (including the cost-sharing amount imposed for such item or service and the amount to be paid by the plan) under such plans on January 31, 2019 for the same or a similar item or service that is provided by a provider in the same or similar specialty and provided in the geographic region in which the item or service is furnished, consistent with the methodology established by the Secretary under paragraph (2)(B), increased by the percentage increase in the consumer price index forall urban consumers (United States city average) over 2019, such percentage increase over 2020, and such percentage increase over 2021; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished during 2023 or a subsequent year, the qualifying payment amount determined under this clause for such an item or service furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
 
@@ -220,7 +220,7 @@
 
 &emsp;&emsp;The term "out-of-network rate" means, with respect to an item or service furnished in a State during a year to a participant or beneficiary of a group health plan receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
 
-&emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
+&emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State lawwith respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
 &emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case such State does not have in effect such a law with respect to such item or service, plan, and provider or facility—
 
@@ -276,7 +276,7 @@
 
 #### (B) Visit
 
-&emsp;&emsp;The term "visit" shall, with respect to items and services furnished to an individual at a health care facility, include equipment and devices, telemedicine services, imaging services, laboratory services, preoperative and postoperative services, and such other items and services as the Secretary may specify, regardless of whether or not the provider furnishing such items or services is at the facility.
+&emsp;&emsp;The term "visit" shall, with respect to items and services furnished to an individual at a health care facility, include equipmentand devices, telemedicine services, imaging services, laboratory services, preoperative and postoperative services, and such other items and services as the Secretary may specify, regardless of whether or not the provider furnishing such items or services is at the facility.
 
 #### (c) Determination of out-of-network rates to be paid by health plans; independent dispute resolution process
 
@@ -388,7 +388,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after the date of selection of the certified IDR entity with respect to a determination for a qualified IDR item or service, the certified IDR entity shall—
+&emsp;&emsp;Not later than 30 days after the date of selection of the certified IDR entity with respect to a determination for a qualified IDRitem or service, the certified IDR entity shall—
 
 &emsp;&emsp;&emsp;(i) taking into account the considerations specified in subparagraph (C), select one of the offers submitted under subparagraph (B) to be the amount of payment for such item or service determined under this subsection for purposes of subsection (a)(1) or (b)(1), as applicable; and
 
@@ -432,7 +432,7 @@
 
 #### (D) Prohibition on consideration of certain factors
 
-&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 2799B–1 of the Public Health Service Act or 2799B–2 of such Act (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor,including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
+&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 2799B–1 of the Public Health Service Act or 2799B–2 of such Act (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
 
 #### (E) Effects of determination
 
@@ -446,7 +446,7 @@
 
 #### (ii) Suspension of certain subsequent IDR requests
 
-&emsp;&emsp;&emsp;In the case of a determination of a certified IDR entity under subparagraph (A), with respect to an initial notification submitted under paragraph (1)(B) with respect to qualified IDR items and services and the two parties involved with such notification, the party that submitted such notification may not submit during the 90-day period following such determination a subsequent notification under such paragraph involving the same other party to such notification with respect to such an item or service that was the subject of such initial notification.
+&emsp;&emsp;&emsp;In the case of a determination of a certified IDR entity under subparagraph (A), with respect to an initial notification submitted under paragraph (1)(B) with respect to qualified IDR items and services andthe two parties involved with such notification, the party that submitted such notification may not submit during the 90-day period following such determination a subsequent notification under such paragraph involving the same other party to such notification with respect to such an item or service that was the subject of such initial notification.
 
 #### (iii) Subsequent submission of requests permitted
 

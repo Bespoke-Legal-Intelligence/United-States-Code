@@ -74,7 +74,7 @@ The duties of each RECC Working Group shall include—
 
 &emsp;(4) coordinating the establishment of Federal, State, local, and tribal support services and networks designed to address the immediate and critical human needs in responding to natural disasters, acts of terrorism, and other man-made disasters.
 
-(Pub. L. 107–296, title XVIII, §1805, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1439; amended Pub. L. 115–278, §2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
+(Pub. L. 107–296, title XVIII, §1805, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat.1439; amended Pub. L. 115–278, §2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
 #### <b>Editorial Notes</b>
 

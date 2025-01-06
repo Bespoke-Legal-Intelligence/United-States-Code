@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall carry out under the Initiative a program to support, and discoverfundamental knowledge relevant to, carbon materials and carbon ore processing research.
+&emsp;&emsp;The Director shall carry out under the Initiative a program to support, and discover fundamental knowledge relevant to, carbon materials and carbon ore processing research.
 
 #### (B) Activities
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) methods of improving the structural, physical, and chemical properties of carbon-based materials or other valuable materials from raw coal, coal-waste, or other solid carbon materials and their recyclability;
 
-&emsp;&emsp;&emsp;&emsp;(III) overcoming the challenges and maximizing the benefits of commercially extracting, producing, or improving coal-derived carbon and resulting products; and
+&emsp;&emsp;&emsp;&emsp;(III) overcoming the challenges and maximizing the benefits of commercially extracting, producing, or improvingcoal-derived carbon and resulting products; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) identifying novel pathways and materials for carbon storage and conversion into useful products.
 

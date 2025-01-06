@@ -1,6 +1,6 @@
 ### §3556. Order of restitution
 
-The court, in imposing a sentence on a defendant who has been found guilty of an offense shallorder restitution in accordance with section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section.
+The court, in imposing a sentence on a defendant who has been found guilty of an offense shall order restitution in accordance with section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 99–646, §20(b), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–132, title II, §202, Apr. 24, 1996, 110 Stat. 1227.)
 
@@ -8,7 +8,7 @@ The court, in imposing a sentence on a defendant who has been found guilty of an
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132 substituted "shall order restitution" for "may order restitution" and "section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section" for "sections 3663 and 3664".
+<b>1996</b>—Pub. L. 104–132 substituted "shall order restitution" for "may order restitution" and "section 3663A,and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section" for "sections 3663 and 3664".
 
 <b>1986</b>—Pub. L. 99–646 substituted "may order restitution in accordance with sections 3663 and 3664" for "under this title, or an offense under section 902(h), (i), (j), or (n) of the Federal Aviation Act of 1958 (49 U.S.C. 1472), may order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant make restitution to any victim of the offense in accordance with the provisions of sections 3663 and 3664".
 

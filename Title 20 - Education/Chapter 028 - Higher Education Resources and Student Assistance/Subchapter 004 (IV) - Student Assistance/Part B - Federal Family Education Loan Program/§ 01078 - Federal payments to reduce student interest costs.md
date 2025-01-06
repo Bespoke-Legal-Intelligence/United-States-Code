@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) have provided to the lender at the time of application for a loan made, insured, or guaranteed under this part, the student's driver's number, if any.
 
-&emsp;(B) For the purpose of clause (ii) of subparagraph (A), a student shall qualify for a portion of an interest payment under paragraph (1) if the eligible institution has determined and documented the student's amount of need for a loan based on the student's estimated cost of attendance, estimated financial assistance, and, for the purpose of an interest payment pursuant to this section, expected family contribution (as determined under part F), subject to the provisions of subparagraph (D).
+&emsp;(B) For the purpose of clause (ii) of subparagraph (A), a student shall qualify for a portion of an interest payment under paragraph (1) if the eligible institution has determined and documented the student's amount of need for a loan based on the student's estimated cost of attendance, estimated financial assistance, and, for the purpose of an interest payment pursuant to this section, student aid index (as determined under part F), subject to the provisions of subparagraph (D).
 
 &emsp;(C) For the purpose of this paragraph—
 
@@ -50,7 +50,7 @@
 
 &emsp;(D) An eligible institution may not, in carrying out the provisions of subparagraphs (A) and (B) of this paragraph, provide a statement which certifies the eligibility of any student to receive any loan under this part in excess of the maximum amount applicable to such loan.
 
-&emsp;(E) For the purpose of subparagraphs (B) and (C) of this paragraph, any loan obtained by a student under section 1078–1 <sup>1</sup> or 1078–8 of this title or a parent under section 1078–2 of this title or under any State-sponsored or private loan program for an academic year for which the determination is made may be used to offset the expected family contribution of the student for that year.
+&emsp;(E) For the purpose of subparagraphs (B) and (C) of this paragraph, any loan obtained by a student under section 1078–1 <sup>1</sup> or 1078–8 of this title or a parent under section 1078–2 of this title or under any State-sponsored or private loan program for an academic year for which the determination is made may be used to offset the student aid index of the student for that year.
 
 #### (3) Amount of interest subsidy
 
@@ -884,16 +884,6 @@ If a nonprofit private institution or organization—
 
 (Pub. L. 89–329, title IV, §428, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1367; amended Pub. L. 100–50, §10(a)–(c), (e)–(m), June 3, 1987, 101 Stat. 341–343; Pub. L. 100–203, title III, §§3001(b), 3002(b), 3003, Dec. 22, 1987, 101 Stat. 1330–38, 1330–39; Pub. L. 100–369, §§5(b)(2), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, 103 Stat. 2111, 2116, 2118; Pub. L. 101–508, title III, §§3002, 3004(b), Nov. 5, 1990, 104 Stat. 1388–25, 1388–27; Pub. L. 102–26, §9, Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §§601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, 105 Stat. 1065, 1066, 1068; Pub. L. 102–325, title IV, §§411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, 106 Stat. 510, 516–525, 527–529; Pub. L. 103–66, title IV, §§4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, 107 Stat. 354, 355, 358, 359, 367–370; Pub. L. 103–82, title I, §102(c)(1), Sept. 21, 1993, 107 Stat. 823; Pub. L. 103–208, §2(c)(11)–(28), Dec. 20, 1993, 107 Stat. 2462–2465; Pub. L. 103–382, title III, §355(a), Oct. 20, 1994, 108 Stat. 3967; Pub. L. 105–33, title VI, §§6101(b), 6104(2), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §417(a)–(c)(1)(A), (2)–(k), Oct. 7, 1998, 112 Stat. 1682–1690; Pub. L. 107–314, div. A, title VI, §651(b), Dec. 2, 2002, 116 Stat. 2579; Pub. L. 109–171, title VIII, §§8004(b)(2), 8005(b), 8007(a), 8008(a), 8009(b)(1), 8014(a)(1), (b)(1), (c)(1), (d), (e), (j)(1)–(3), Feb. 8, 2006, 120 Stat. 158, 160, 162, 164, 168–171; Pub. L. 110–84, title II, §202(a), title III, §§301, 302(b)(1), 303(a), Sept. 27, 2007, 121 Stat. 791, 796, 797; Pub. L. 110–227, §§3(b), 5(a), May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title I, §103(b)(4), title IV, §§422(a)(1), (b)–(g)(1), (h)–(j), 424(b), 432(b)(2), 438(a)(2), Aug. 14, 2008, 122 Stat. 3088, 3227–3231, 3233, 3246, 3258; Pub. L. 110–350, §2, Oct. 7, 2008, 122 Stat. 3947; Pub. L. 111–39, title IV, §402(a)(1), (b)(1), (f)(1), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2204, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 112–74, div. F, title III, §309(d)(1), Dec. 23, 2011, 125 Stat. 1101; Pub. L. 114–113, div. H, title III, §311, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–245, div. B, title III, §309(c), Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–259, title II, §202(b)(1), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §704(1), (6), Dec. 27, 2020, 134 Stat. 3199, 3200.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (6), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:</i>
-
-<i>(1) by striking "the expected family contribution" each place the term appears and inserting "the student aid index"; and</i>
-
-<i>(2) in subsection (a)(2)(B), by striking "expected family contribution" and inserting "student aid index".</i>
-
-<i>See 2020 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -1002,7 +992,7 @@ Subsec. (b)(3). Pub. L. 110–315, §422(d), amended par. (3) generally. Prior t
 
 &emsp;"(A) offer, directly or indirectly, premiums, payments, or other inducements to any educational institution or its employees in order to secure applicants for loans under this part;
 
-&emsp;"(B) offer, directly or indirectly, any premium, incentive payment, or other inducement to any lender, or any agent, employee, or independent contractor of any lender or guaranty agency, in order to administer or market loans made under this part (other than a loan made under section 1078–8 of this title or a loan made as part of a guaranty agency's lender-of-last-resort program) for the purpose of securing thedesignation of that guaranty agency as the insurer of such loans;
+&emsp;"(B) offer, directly or indirectly, any premium, incentive payment, or other inducement to any lender, or any agent, employee, or independent contractor of any lender or guaranty agency, in order to administer or market loans made under this part (other than a loan made under section 1078–8 of this title or a loan made as part of a guaranty agency's lender-of-last-resort program) for the purpose of securing the designation of that guaranty agency as the insurer of such loans;
 
 &emsp;"(C) conduct unsolicited mailings of student loan application forms to students enrolled in secondary school or a postsecondary institution, or to parents of such students, except that applications may be mailed to borrowers who have previously received loans guaranteed under this part by the guaranty agency; or
 
@@ -1402,7 +1392,7 @@ Subsec. (e)(1). Pub. L. 103–66, §4041(b)(1), amended heading, designated exis
 
 Subsec. (e)(2). Pub. L. 103–66, §4041(b)(2)(A), in introductory provisions, substituted "with which the Secretary has an agreement under paragraph (1)(B)" for "in a State".
 
-Subsec. (e)(2)(A). Pub. L. 103–208, §2(c)(27), redesignated former cl. (i), subcl. (I) as (i) and former cl. (i),subcl. (II) as (ii) and struck out cl. (i) designation following subpar. (A) designation. See Codification note above.
+Subsec. (e)(2)(A). Pub. L. 103–208, §2(c)(27), redesignated former cl. (i), subcl. (I) as (i) and former cl. (i), subcl. (II) as (ii) and struck out cl. (i) designation following subpar. (A) designation. See Codification note above.
 
 Pub. L. 103–66, §4041(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such student is either a resident of such State or is accepted for enrollment in or is attending an eligible institution in such State; and".
 
@@ -1468,7 +1458,7 @@ Subsec. (b)(1)(M). Pub. L. 102–325, §416(e)(1), amended subpar. (M) generally
 
 Subsec. (b)(1)(N). Pub. L. 102–325, §416(f), substituted "except in the case of students who are studying outside the United States in a program of study abroad that is approved for credit by the home institution at which the student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney;" for "except in the case of attendance at an institution outside the United States, the funds shall be delivered directly to the student;".
 
-Subsec. (b)(1)(T). Pub. L. 102–325, §416(g), amended subpar. (T) generally. Prior to amendment, subpar. (T) read as follows: "provides no restrictions with respectto eligible institutions (other than nonresidential correspondence schools) which are more onerous than eligibility requirements for institutions under the Federal student loan insurance program as in effect on January 1, 1985, unless—
+Subsec. (b)(1)(T). Pub. L. 102–325, §416(g), amended subpar. (T) generally. Prior to amendment, subpar. (T) read as follows: "provides no restrictions with respect to eligible institutions (other than nonresidential correspondence schools) which are more onerous than eligibility requirements for institutions under the Federal student loan insurance program as in effect on January 1, 1985, unless—
 
 &emsp;"(i) that institution is ineligible under regulations for the emergency action, limitation, suspension, or termination of eligible institutions under the Federal student loan insurance program or is ineligible pursuant to criteria issued under the student loan insurance program which are substantially the same as regulations with respect to such eligibility issued under the Federal student loan insurance program; or
 
@@ -1546,7 +1536,7 @@ Subsec. (c)(6)(D). Pub. L. 102–164, §605(b)(2), struck out subpar. (D) which 
 
 Subsec. (c)(1)(A). Pub. L. 101–508, §3002(a)(1), struck out before period at end of first sentence ", including the administrative costs of supplemental preclaim assistance for default prevention as defined in paragraph (6)(C)".
 
-Subsec. (c)(6)(C). Pub. L. 101–508, §3002(a)(2)–(5), in introductory provisions of cl. (i), substituted "subsection (l) of this section" for "this paragraph", in cl. (i)(I), substituted "generally comparable in intensiveness to the level of preclaims assistance performed, prior to the 120th day of delinquency, by the guaranty agency as of October 16, 1990" for "required or permitted under paragraph (2)(A) of this subsection and subsection (f) of this section", in cl. (ii), substituted "payment under subsection (l) of this section" for "reimbursement" and "described in division (i)(I) of this subparagraph" for "which the guaranty agency is required or permitted to provide pursuant to paragraph (2)(A) of this subsectionand subsection (f) of this section", and in cl. (iv), struck out first sentence which read as follows: "The costs for each delinquent loan associated with carrying out this subparagraph may not exceed 2 percent of the outstanding principal balance of each such loan subject to the supplemental preclaims assistance authorized by this subparagraph or $100, whichever is less."
+Subsec. (c)(6)(C). Pub. L. 101–508, §3002(a)(2)–(5), in introductory provisions of cl. (i), substituted "subsection (l) of this section" for "this paragraph", in cl. (i)(I), substituted "generally comparable in intensiveness to the level of preclaims assistance performed, prior to the 120th day of delinquency, by the guaranty agency as of October 16, 1990" for "required or permitted under paragraph (2)(A) of this subsection and subsection (f) of this section", in cl. (ii), substituted "payment under subsection (l) of this section" for "reimbursement" and "described in division (i)(I) of this subparagraph" for "which the guaranty agency is required or permitted to provide pursuant to paragraph (2)(A) of this subsection and subsection (f) of this section", and in cl. (iv), struck out first sentence which read as follows: "The costs for each delinquent loan associated with carrying out this subparagraph may not exceed 2 percent of the outstanding principal balance of each such loan subject to the supplemental preclaims assistance authorized by this subparagraph or $100, whichever is less."
 
 Subsec. (l). Pub. L. 101–508, §3002(b), added subsec. (l).
 
@@ -1554,7 +1544,7 @@ Subsec. (l). Pub. L. 101–508, §3002(b), added subsec. (l).
 
 Subsec. (b)(1)(M)(i). Pub. L. 101–239, §2002(a)(2), inserted before semicolon at end ", except that no borrower shall be eligible for a deferment under this clause, or loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program".
 
-Subsec. (b)(1)(O). Pub. L. 101–239, §2004(b)(3), amended subpar. (O) generally, substituting requirement that student loans be disbursed in accordance with section 1078–7 of this title for provisions requiring that certain loans be disbursed directly by lender in 2 or more installments, none exceeding more than one-half of the loan, or in installments pursuant to escrow provisions in subsec. (i).
+Subsec. (b)(1)(O). Pub. L. 101–239, §2004(b)(3), amended subpar. (O) generally, substituting requirement that student loans be disbursed in accordance with section1078–7 of this title for provisions requiring that certain loans be disbursed directly by lender in 2 or more installments, none exceeding more than one-half of the loan, or in installments pursuant to escrow provisions in subsec. (i).
 
 Subsec. (b)(1)(T)(i). Pub. L. 101–239, §2006(b)(1), inserted "emergency action," after "regulations for the".
 
@@ -1642,7 +1632,7 @@ Pub. L. 112–74, div. F, title III, §309(d)(2), Dec. 23, 2011, 125 Stat. 1101,
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), except as otherwise provided, see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
-Pub. L. 111–39, title IV, §402(a)(2), July 1, 2009, 123 Stat. 1940, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective as if enacted as part of the amendment in \[former\] section 303(a) of the College Cost Reduction and Access Act (Public Law 110–84) \[amending this section\], shall take effect on October 1, 2012, and shall apply with respect to loans made on or after such date."
+Pub. L. 111–39, title IV, §402(a)(2), July 1, 2009, 123 Stat. 1940, provided that: "The amendment made byparagraph (1) \[amending this section\] shall be effective as if enacted as part of the amendment in \[former\] section 303(a) of the College Cost Reduction and Access Act (Public Law 110–84) \[amending this section\], shall take effect on October 1, 2012, and shall apply with respect to loans made on or after such date."
 
 #### Effective Date of 2008 Amendment
 
@@ -1780,11 +1770,11 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section effective Oct. 17, 1987, with subsection (b)(1)(M) (except cls. (viii), (ix), and (x)) applicable onlyto loans to new borrowers made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, or disbursed on or after July 1, 1987, subsection (b)(1)(A) and (B) applicable with respect only to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, and subsection (b)(1)(H) applicable with respect only to loans for which the borrower files an application on or after July 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
+Section effective Oct. 17, 1987, with subsection (b)(1)(M) (except cls. (viii), (ix), and (x)) applicable only to loans to new borrowers made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, or disbursed on or after July 1, 1987, subsection (b)(1)(A) and (B) applicable with respect only to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, and subsection (b)(1)(H) applicable with respect only to loans for which the borrower files an application on or after July 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
 
 #### Construction of 2006 Amendment
 
-Pub. L. 109–171, title VIII, §8007(e), Feb. 8, 2006, 120 Stat. 161, provided that: "Nothing in the amendments made by this section \[amending this section and sections 1087e, 1087dd, and 1088 of this title\] shall be construed to authorize any refunding of any repayment of a loan."
+Pub. L. 109–171, title VIII, §8007(e), Feb. 8, 2006, 120 Stat. 161, provided that: "Nothing in the amendmentsmade by this section \[amending this section and sections 1087e, 1087dd, and 1088 of this title\] shall be construed to authorize any refunding of any repayment of a loan."
 
 #### Review of Inducements Limitations
 

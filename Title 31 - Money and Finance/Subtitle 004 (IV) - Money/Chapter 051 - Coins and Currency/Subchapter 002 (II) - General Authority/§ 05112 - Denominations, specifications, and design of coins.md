@@ -26,7 +26,7 @@
 
 &emsp;(12) A $25 coin of an appropriate size and thickness, as determined by the Secretary, that weighs 1 troy ounce and contains .9995 fine palladium.
 
-(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. Thedollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
+(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
@@ -128,7 +128,7 @@ Transition provision.—Notwithstanding subparagraph (A), the Secretary may cont
 
 &emsp;&emsp;(C)
 
-Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during the 10-year period referred to in subparagraph (A) in which—
+Flexibility with regard to placement of inscriptions.—Notwithstandingsubsection (d)(1), the Secretary may select a design for quarter dollars issued during the 10-year period referred to in subparagraph (A) in which—
 
 &emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollars; and
 
@@ -180,7 +180,7 @@ Standards.—Because it is important that the Nation's coinage and currency bear
 
 &emsp;&emsp;(E)
 
-Prohibition on certain representations.—No head and shoulders portrait orbust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
+Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
 
 &emsp;(5)
 
@@ -234,7 +234,7 @@ Exception.—If the Secretary determines, based on independent, market-based res
 
 &emsp;&emsp;(C)
 
-Designated recipient organization defined.—For purposes of this paragraph, the term "designated recipient organization" means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
+Designated recipient organization defined.—For purposes of this paragraph,the term "designated recipient organization" means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
 (n)
 
@@ -294,7 +294,7 @@ Inscriptions of "liberty".—Notwithstanding the second sentence of subsection (
 
 &emsp;&emsp;(E)
 
-Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a livingformer or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
+Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a living former or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
 
 &emsp;&emsp;(F)
 
@@ -358,7 +358,7 @@ First Spouse Bullion Coin Program.—
 
 &emsp;(1)
 
-In general.—During the same period described in subsection (n), the Secretary shall issue bullion coins under this subsection that are emblematic of the spouse of each such President.
+In general.—During the same period described in subsection (n), the Secretary shallissue bullion coins under this subsection that are emblematic of the spouse of each such President.
 
 &emsp;(2)
 
@@ -556,7 +556,7 @@ Gold Bullion Coins.—
 
 &emsp;(1)
 
-In general.—Not later than 6 months after the date of enactment of the Presidential $1 Coin Act of 2005, the Secretary shall commence striking and issuing for sale such number of $50 gold bullion and proof coins as the Secretary may determine to be appropriate, in such quantities, as the Secretary, in the Secretary's discretion, may prescribe.
+In general.—Not later than 6 months after the date of enactment of the Presidential$1 Coin Act of 2005, the Secretary shall commence striking and issuing for sale such number of $50 gold bullion and proof coins as the Secretary may determine to be appropriate, in such quantities, as the Secretary, in the Secretary's discretion, may prescribe.
 
 &emsp;(2)
 
@@ -682,7 +682,7 @@ Reverse design selection.—The designs selected for the reverse of the coins de
 
 &emsp;&emsp;&emsp;&emsp;(VII) code talkers who served the United States Armed Forces during World War I and World War II; and
 
-&emsp;&emsp;&emsp;(iv) in the case of a design depicting the contribution of an individual Native American to the development of the United States and the history of the United States, shall not depict the individual in a size such that the coin could be considered to be a "2-headed" coin.
+&emsp;&emsp;&emsp;(iv) in the case of a design depicting the contribution of an individual Native American to the development of the UnitedStates and the history of the United States, shall not depict the individual in a size such that the coin could be considered to be a "2-headed" coin.
 
 &emsp;&emsp;(E)
 
@@ -1028,7 +1028,7 @@ Design.—Coins minted and issued under this subsection shall bear designs on th
 
 &emsp;&emsp;(B) the reverse shall bear a high-relief version of the reverse design of the 1907 American Institute of Architects medal; and
 
-&emsp;&emsp;(C) the coin shall bear such other inscriptions, including "Liberty", "In God We Trust", "United States of America", the denomination and weight of the coin and thefineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
+&emsp;&emsp;(C) the coin shall bear such other inscriptions, including "Liberty", "In God We Trust", "United States of America", the denomination and weight of the coin and the fineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
 
 &emsp;(7)
 
@@ -1234,7 +1234,7 @@ Single prominent american woman on each quarter dollar.—The design on the reve
 
 &emsp;&emsp;(D)
 
-Issuance of quarter dollars emblematic of up to five prominent american women each year.—The designs for the quarter dollars issued during each year ofthe period of issuance described under paragraph (4) shall be emblematic of up to five prominent American women.
+Issuance of quarter dollars emblematic of up to five prominent american women each year.—The designs for the quarter dollars issued during each year of the period of issuance described under paragraph (4) shall be emblematic of up to five prominent American women.
 
 &emsp;&emsp;(E)
 
@@ -1292,7 +1292,7 @@ In general.—
 
 &emsp;&emsp;(B)
 
-Quarter dollars.—The Secretary may issue quarter dollars in 2026 with up to five different designs emblematic of the United States semiquincentennial. One of the quarter dollar designs must be emblematic of a woman's or women's contribution to the birth of the Nation or the Declaration of Independence or any other monumental moments in American History.
+Quarter dollars.—The Secretary may issue quarter dollars in 2026 with up to five different designs emblematic of the UnitedStates semiquincentennial. One of the quarter dollar designs must be emblematic of a woman's or women's contribution to the birth of the Nation or the Declaration of Independence or any other monumental moments in American History.
 
 &emsp;&emsp;(C)
 
@@ -1344,7 +1344,7 @@ Single sport on each quarter dollar.—The design on the reverse side of each qu
 
 &emsp;&emsp;(D)
 
-Issuance of quarter dollars emblematic of up to five sports each year.—Thedesigns for the quarter dollars issued during each year of the period referred to in paragraph (5) shall be emblematic of up to five sports.
+Issuance of quarter dollars emblematic of up to five sports each year.—The designs for the quarter dollars issued during each year of the period referred to in paragraph (5) shall be emblematic of up to five sports.
 
 &emsp;&emsp;(E)
 
@@ -1508,7 +1508,7 @@ Marketing and educational campaign.—In an effort to advance the collecting of 
 
 &emsp;(6)
 
-Quality of medals.—It is the sense of Congress that the medals authorized under subsection (z) be produced in high relief and, if feasible and cost effective, with surface treatments such as frosting and colorization.
+Quality of medals.—It is the sense of Congress that the medals authorized undersubsection (z) be produced in high relief and, if feasible and cost effective, with surface treatments such as frosting and colorization.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, §73001(1), Dec. 4, 2015, 129 Stat. 1785; Pub. L. 115–91, div. A, title VIII, §885, Dec. 12, 2017, 131 Stat. 1505; Pub. L. 115–197, §2, July 20, 2018, 132 Stat. 1515; Pub. L. 115–232, div. A, title X, §1081(e)(1), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–330, §§2–6, Jan. 13, 2021, 134 Stat. 5101–5106.)
 
@@ -1620,7 +1620,7 @@ In subsection (c), the words "a different weight and alloy of copper and zinc" a
 
 In subsection (d)(1), the words "an impression emblematic of liberty" in 31:324 are omitted as obsolete. The words "The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle" are substituted for "and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted", and the words "The emblem on the obverse side of the dollar is" are substituted for "The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side" in 31:324b–1, to eliminate unnecessary words. The words "Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964" in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
 
-In subsection (d)(2), the word "Secretary" is substituted for "engraver", "Director of the Mint", and "Director of the Mint . . . with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The word "dies" is substituted for "from the original dies already authorized all the working dies required for use in the coinage of the several mints" and "original dies" to eliminate unnecessary words. The word "inscription" is substituted for "legend" for consistency in the section. The words "<i>Provided</i>, That no change be made in the diameter of any coin" are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words "procure services under section 3109 of title 5 in carrying out this paragraph" are substituted for "engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art" to eliminate unnecessary words. The words "who shall be paid for such service from the contingent appropriation for the mint at Philadelphia" are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
+In subsection (d)(2), the word "Secretary" is substituted for "engraver", "Director of the Mint", and "Director of the Mint . . . with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The word "dies" is substituted for "from the original dies already authorized all the working dies required for use in the coinage of the several mints" and "original dies" to eliminate unnecessary words. The word "inscription" is substituted for "legend" for consistency in the section. The words "<i>Provided</i>, That no change be made in the diameter of any coin" are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words "procureservices under section 3109 of title 5 in carrying out this paragraph" are substituted for "engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art" to eliminate unnecessary words. The words "who shall be paid for such service from the contingent appropriation for the mint at Philadelphia" are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
 
 In subsection (e)(2), the words "80 percent" are substituted for "eight hundred parts" in 31:391(d), and the words "20 percent" are substituted for "two hundred parts", for consistency in the revised title and with other titles of the Code. The words "that are metallurgically bonded to" are added for clarity and consistency with subsection (b). In clause (4), the words "the late President of the United States" in 31:324b are omitted as unnecessary. Clause (6) is added because 31:324 applies to coins minted under this subsection.
 
@@ -1744,7 +1744,7 @@ Subsec. (l)(4)(A)(ii). Pub. L. 108–15, §103(d)(1), substituted "Citizens Coin
 
 Subsec. (b). Pub. L. 105–124, §4(c), struck out "dollar," before "half dollar" in first sentence and inserted after fourth sentence "The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997."
 
-Subsec. (d)(1). Pub. L. 105–124, §4(d), substituted "The Secretary of the Treasury, in consultation with theCongress, shall select appropriate designs for the obverse and reverse sides of the dollar coin." for "The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony."
+Subsec. (d)(1). Pub. L. 105–124, §4(d), substituted "The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin." for "The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony."
 
 Subsec. (l). Pub. L. 105–124, §3, added subsec. (l).
 
@@ -1792,7 +1792,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(e)\], Sept. 30, 19
 
 #### Effective Date of 1985 Amendments
 
-Pub. L. 99–185, §3, Dec. 17, 1985, 99 Stat. 1179, provided that: "This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986."
+Pub. L. 99–185, §3, Dec. 17, 1985, 99 Stat. 1179, provided that: "This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued orsold under section 5112(i) of title 31, United States Code, before October 1, 1986."
 
 Pub. L. 99–61, title II, §205, July 9, 1985, 99 Stat. 117, provided that: "This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of section 5112 of title 31, United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act \[set out as a note below\] have been sold, whichever is earlier."
 
@@ -1998,7 +1998,7 @@ Minimizing Conversion Costs.—In preparing and submitting the reports required 
 
 "(e)
 
-Fraud Prevention.—The reports required under this section shall make no recommendation for a specification change that would facilitate or allow the use of a coin with a lesser value produced, minted, or issued by another country, or the use of any token or other easily or regularly produced metal device of minimal value, in the place of a circulating coin produced by the Secretary.
+Fraud Prevention.—The reports required under this section shall make no recommendation for a specification change that would facilitate or allow the use of a coin with a lesser value produced, minted, or issuedby another country, or the use of any token or other easily or regularly produced metal device of minimal value, in the place of a circulating coin produced by the Secretary.
 
 "(f)
 
@@ -2198,7 +2198,7 @@ Reverse.—If the Secretary of the Treasury elects to change the reverse of the 
 
 &emsp;"(3)
 
-Other inscriptions.—5-cent coins issued during 2003, 2004, and 2005 shall continue to meet all other requirements for inscriptions and designations applicable to circulating coins under section 5112(d)(1) of title 31, United States Code."
+Other inscriptions.—5-cent coins issued during 2003, 2004, and 2005 shall continue to meet all other requirements for inscriptions and designationsapplicable to circulating coins under section 5112(d)(1) of title 31, United States Code."
 
 #### Study and Report of Impact on United States Silver Market of the American Eagle Silver Bullion Program
 
@@ -2294,7 +2294,7 @@ Order of issuance.—Each State will be honored by a coin in the order of that S
 
 &emsp;"(3)
 
-Number of coins.—Of the quarter dollar coins issued during each year of the program, the Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollar coins which shall be issued with each of the designs selected for such year.
+Number of coins.—Of the quarter dollar coins issued during each year of the program, the Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the numberof quarter dollar coins which shall be issued with each of the designs selected for such year.
 
 &emsp;"(4)
 
@@ -2391,6 +2391,10 @@ Pub. L. 99–185, §2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: "The Secr
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 118–143, Dec. 11, 2024, 138 Stat. 1663.—FIFA World Cup 2026.
+
+Pub. L. 118–109, Nov. 25, 2024, 138 Stat. 1597.—Working Dogs.
 
 Pub. L. 118–10, July 26, 2023, 137 Stat. 56.—United States Marine Corps 250th Anniversary.
 

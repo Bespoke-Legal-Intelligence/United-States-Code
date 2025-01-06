@@ -18,7 +18,7 @@
 
 #### (2) Functions
 
-&emsp;The functions referred to in paragraph (1) are those functions performed by the following personnel, and associated support staff, of U.S. Customs and Border Protection on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
+&emsp;The functions referred to in paragraph (1) are those functions performed by the followingpersonnel, and associated support staff, of U.S. Customs and Border Protection on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
 
 #### (c) New personnel
 
@@ -42,7 +42,7 @@ The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 
 
 The Trade Agreements Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
-The North American Free Trade Area Implementation Act, referred to in subsec. (a)(2), probably meansthe North American Free Trade Agreement Implementation Act, Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note under section 3301 of Title 19, Customs Duties, and Tables.
+The North American Free Trade Area Implementation Act, referred to in subsec. (a)(2), probably means the North American Free Trade Agreement Implementation Act, Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note under section 3301 of Title 19, Customs Duties, and Tables.
 
 The Uruguay Round Agreements Act, referred to in subsec. (a)(2), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 19, Customs Duties, and Tables.
 

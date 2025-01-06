@@ -6,9 +6,47 @@ The Secretary shall coordinate activities relating to the preparation and implem
 
 #### (b) Meetings
 
-To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+#### (1) In general
 
-(Pub. L. 89–136, title I, §103, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3601; amended Pub. L. 108–373, title I, §104, Oct. 27, 2004, 118 Stat. 1759.)
+&emsp;To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+
+#### (2) Regional commissions
+
+#### (A) In general
+
+&emsp;&emsp;In addition to meetings described in paragraph (1), not later than 1 year after January 4, 2025, and not less frequently than every 2 years thereafter, the Secretary shall convene a meeting with the Regional Commissions in furtherance of subsection (a).
+
+#### (B) Attendees
+
+&emsp;&emsp;The attendees for a meeting convened under this paragraph shall consist of—
+
+&emsp;&emsp;&emsp;(i) the Secretary, acting through the Assistant Secretary of Commerce for Economic Development, serving as Chair;
+
+&emsp;&emsp;&emsp;(ii) the Federal Cochairpersons of the Regional Commissions, or their designees; and
+
+&emsp;&emsp;&emsp;(iii) the State Cochairpersons of the Regional Commissions, or their designees.
+
+#### (C) Purpose
+
+&emsp;&emsp;The purposes of a meeting convened under this paragraph shall include—
+
+&emsp;&emsp;&emsp;(i) to enhance coordination between the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
+
+&emsp;&emsp;&emsp;(ii) to reduce duplication of efforts by the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
+
+&emsp;&emsp;&emsp;(iii) to develop best practices and strategies for fostering regional economic development; and
+
+&emsp;&emsp;&emsp;(iv) any other purposes as determined appropriate by the Secretary.
+
+#### (D) Report
+
+&emsp;&emsp;Where applicable and pursuant to subparagraph (C), not later than 1 year after a meeting under this paragraph, the Secretary shall prepare and make publicly available a report detailing, at a minimum—
+
+&emsp;&emsp;&emsp;(i) the planned actions by the Economic Development Administration and the Regional Commissions to enhance coordination or reduce duplication of efforts and a timeline for implementing those actions; and
+
+&emsp;&emsp;&emsp;(ii) any best practices and strategies developed.
+
+(Pub. L. 89–136, title I, §103, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3601; amended Pub. L. 108–373, title I, §104, Oct. 27, 2004, 118 Stat. 1759; Pub. L. 118–272, div. B, title II, §2212, Jan. 4, 2025, 138 Stat. 3178.)
 
 #### <b>Editorial Notes</b>
 
@@ -20,13 +58,15 @@ A prior section 3134, Pub. L. 89–136, title I, §104, Aug. 26, 1965, 79 Stat. 
 
 Prior sections 3135 to 3137 were repealed by Pub. L. 105–393, §102(a).
 
-Section 3135, Pub. L. 89–136, title I, §105, Aug. 26, 1965, 79 Stat. 554; Pub. L. 91–123, title III, §301(2), Nov. 25, 1969, 83 Stat. 219; Pub. L. 91–304, §1(a), July 6, 1970, 84 Stat. 375; Pub. L. 92–65, title I, §103, Aug. 5, 1971, 85 Stat. 166; Pub. L. 93–46, §1, June 18, 1973, 87 Stat. 96; Pub. L. 93–423, §1, Sept. 27, 1974, 88 Stat. 1158; Pub. L. 94–487, title I, §105, Oct. 12, 1976, 90 Stat. 2331; Pub. L. 96–506, §1(2), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, §1821(a)(1), Aug. 13, 1981, 95 Stat. 766, authorized appropriations to carry out this subchapter from fiscal year ending June 30, 1966, to fiscal year ending Sept. 30, 1982.
+Section 3135, Pub. L. 89–136, title I, §105, Aug. 26, 1965, 79 Stat. 554; Pub. L. 91–123, title III, §301(2), Nov. 25, 1969, 83 Stat. 219; Pub. L. 91–304, §1(a), July 6, 1970, 84 Stat. 375; Pub. L. 92–65, title I, §103, Aug. 5, 1971, 85 Stat. 166; Pub. L. 93–46, §1, June 18, 1973, 87 Stat. 96; Pub. L. 93–423, §1, Sept. 27, 1974, 88 Stat. 1158; Pub. L.94–487, title I, §105, Oct. 12, 1976, 90 Stat. 2331; Pub. L. 96–506, §1(2), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, §1821(a)(1), Aug. 13, 1981, 95 Stat. 766, authorized appropriations to carry out this subchapter from fiscal year ending June 30, 1966, to fiscal year ending Sept. 30, 1982.
 
 Section 3136, Pub. L. 89–136, title I, §106, Aug. 26, 1965, 79 Stat. 554; 1966 Reorg. Plan No. 2, §1(h)(3), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, §2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, conditioned use of financial assistance for sewer or other waste disposal facilities upon certification by Administrator of Environmental Protection Agency.
 
 Section 3137, Pub. L. 89–136, title I, §107, as added Pub. L. 94–487, title I, §106, Oct. 12, 1976, 90 Stat. 2332, authorized increase in amount of grant for construction cost increases after grant had been made.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (b). Pub. L. 118–272 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations."
 
 <b>2004</b>—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, inserted "Indian tribes," after "districts,", and added subsec. (b).
 

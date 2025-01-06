@@ -44,11 +44,11 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (2) Exception
 
-&emsp;The President may provide for the transportation of excess defense articles without charge to a country for the costs of such transportation if—
+&emsp;The President may provide for the transportation of excess defense articles withoutcharge to a country for the costs of such transportation if—
 
 &emsp;&emsp;(A) it is determined that it is in the national interest of the United States to do so;
 
-&emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating to international military education and training) or section 23 of the Arms Export ControlAct (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
+&emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating to international military education and training) or section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
 
 &emsp;&emsp;(C) the total weight of the transfer does not exceed 50,000 pounds; and
 

@@ -1,0 +1,92 @@
+### §1352. Demands by foreign officials for bribes
+
+(a)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Foreign official.—The term "foreign official" means—
+
+&emsp;&emsp;(A)(i) any official or employee of a foreign government or any department, agency, or instrumentality thereof; or
+
+&emsp;&emsp;(ii) any senior foreign political figure, as defined in section 1010.605 of title 31, Code of Federal Regulations, or any successor regulation;
+
+&emsp;&emsp;(B) any official or employee of a public international organization;
+
+&emsp;&emsp;(C) any person acting in an official capacity for or on behalf of—
+
+&emsp;&emsp;&emsp;(i) a government, department, agency, or instrumentality described in subparagraph (A)(i); or
+
+&emsp;&emsp;&emsp;(ii) a public international organization.
+
+&emsp;(2)
+
+Public international organization.—The term "public international organization" means—
+
+&emsp;&emsp;(A) an organization that is designated by Executive order pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288); or
+
+&emsp;&emsp;(B) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of the order in the Federal Register.
+
+(b)
+
+Prohibition of Demand for a Bribe.—
+
+&emsp;(1)
+
+Offense.—It shall be unlawful for any foreign official or person selected to be a foreign official to corruptly demand, seek, receive, accept, or agree to receive or accept, directly or indirectly, anything of value personally or for any other person or nongovernmental entity, by making use of the mails or any means or instrumentality of interstate commerce—
+
+&emsp;&emsp;(A) from—
+
+&emsp;&emsp;&emsp;(i) any person (as defined in section 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–3), except that that definition shall be applied without regard to whether the person is an offender) while the foreign official or person selected to be a foreign official, or a person acting on behalf of the foreign official or person selected to be a foreign official, is in the territory of the United States;
+
+&emsp;&emsp;&emsp;(ii) an issuer (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))), or any officer, director, employee, or agent of an issuer or any stockholder thereof acting on behalf of the issuer; or
+
+&emsp;&emsp;&emsp;(iii) a domestic concern (as defined in section 104 of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2)), or any officer, director, employee, or agent of a domestic concern or any stockholder thereof acting on behalf of the domestic concern; and
+
+&emsp;&emsp;(B) in return for—
+
+&emsp;&emsp;&emsp;(i) being influenced in the performance of any act or decision of the foreign official or person selected to be a foreign official in the official capacity of the foreign official or person selected to be a foreign official;
+
+&emsp;&emsp;&emsp;(ii) being induced to do or omit to do any act in violation of the lawful duty of the foreign official or person selected to be a foreign official;
+
+&emsp;&emsp;&emsp;(iii) conferring any improper advantage; or
+
+&emsp;&emsp;&emsp;(iv) using the influence of the foreign official or person selected to be a foreign official with a foreign government or instrumentality thereof to affect or influence any act or decision of that government or instrumentality,
+
+> &emsp;&emsp;in connection with obtaining or retaining business for or with, or directing business to, any person.
+
+&emsp;(2)
+
+Penalties.—Any person who violates paragraph (1) shall be fined not more than $250,000 or 3 times the monetary equivalent of the thing of value, imprisoned for not more than 15 years, or both.
+
+&emsp;(3)
+
+Jurisdiction.—An offense under paragraph (1) shall be subject to extraterritorial Federal jurisdiction.
+
+&emsp;(4)
+
+Report.—Not later than 1 year after the date of enactment of this section, and annually thereafter, the Attorney General, in consultation with the Secretary of State as relevant, shall submit to the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives, and post on the publicly available website of the Department of Justice, a report—
+
+&emsp;&emsp;(A) focusing, in part, on demands by foreign officials for bribes from entities domiciled or incorporated in the United States, and the efforts of foreign governments to prosecute such cases;
+
+&emsp;&emsp;(B) addressing United States diplomatic efforts to protect entities domiciled or incorporated in the United States from foreign bribery, and the effectiveness of those efforts in protecting such entities;
+
+&emsp;&emsp;(C) summarizing major actions taken under this section in the previous year, including enforcement actions taken and penalties imposed;
+
+&emsp;&emsp;(D) evaluating the effectiveness of the Department of Justice in enforcing this section; and
+
+&emsp;&emsp;(E) detailing what resources or legislative action the Department of Justice needs to ensure adequate enforcement of this section.
+
+&emsp;(5)
+
+Rule of construction.—This subsection shall not be construed as encompassing conduct that would violate section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) or section 104 or 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2; 15 U.S.C. 78dd–3) whether pursuant to a theory of direct liability, conspiracy, complicity, or otherwise.
+
+(Added Pub. L. 118–78, §2(b)(1), July 30, 2024, 138 Stat. 1512.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of enactment of this section, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 118–78, which was approved July 30, 2024.
+

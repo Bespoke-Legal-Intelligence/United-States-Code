@@ -46,7 +46,7 @@ Applications for grants under this section shall be submitted to the Secretary i
 
 #### (1) Sufficient evidence of firm funding commitments
 
-&emsp;The Secretary may not make a grant under this section for conversion activities unless an application for a grant submitted pursuant to subsection (c) contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility or service-enriched housing, which may be provided by third parties.
+&emsp;The Secretary may not make a grant under this section for conversion activities unless anapplication for a grant submitted pursuant to subsection (c) contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility or service-enriched housing, which may be provided by third parties.
 
 #### (2) Required evidence
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) includes the position of service coordinator, which may be funded as an operating expense of the property;
 
-&emsp;&emsp;(C) provides separate dwelling units for residents, each of which contains a full kitchen and bathroom and which includes common rooms and other facilities appropriate for the provision of supportive services to the residents of the housing; and
+&emsp;&emsp;(C) provides separate dwelling units for residents, each of which contains a fullkitchen and bathroom and which includes common rooms and other facilities appropriate for the provision of supportive services to the residents of the housing; and
 
 &emsp;&emsp;(D) provides residents with control over health care and supportive services decisions, including the right to accept, decline, or choose such services, and to have the choice of provider; and
 

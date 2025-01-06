@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The last sentence of section 3109 of title 5, referred to in subsec. (a), probably means the last sentence of section 3109(b) of title 5, which was the last sentence of that section when the reference was enacted. Since then, section 3109 of title 5 has been amended to add subsecs. (c) to (e) at the end.
+The last sentence of section 3109 of title 5, referred to in subsec. (a), probably means the last sentence of section 3109(b) of title 5, which was the last sentence ofthat section when the reference was enacted. Since then, section 3109 of title 5 has been amended to add subsecs. (c) to (e) at the end.
 
 #### Codification
 

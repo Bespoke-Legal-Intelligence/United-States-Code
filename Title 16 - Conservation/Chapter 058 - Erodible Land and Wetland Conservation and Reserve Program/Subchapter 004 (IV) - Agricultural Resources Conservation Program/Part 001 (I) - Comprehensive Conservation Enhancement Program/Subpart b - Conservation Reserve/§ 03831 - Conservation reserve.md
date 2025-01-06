@@ -14,7 +14,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;(ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II; and
 
-&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding December 20, 2018, on the condition that the Secretaryshall consider to be planted cropland enrolled in the conservation reserve program;
+&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program;
 
 &emsp;(2) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
 
@@ -60,7 +60,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;&emsp;(ii) a contour grass sod strip established and maintained as part of an approved conservation plan;
 
-&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, salt tolerant vegetation, field borders, or practices to benefit State or federally identified wellhead protection areas;
+&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanentwildlife habitat, windbreaks, shelterbelts, salt tolerant vegetation, field borders, or practices to benefit State or federally identified wellhead protection areas;
 
 &emsp;&emsp;(D) the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; or
 
@@ -132,7 +132,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 &emsp;&emsp;&emsp;&emsp;(I) may assist in the restoration of threatened or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
-&emsp;&emsp;&emsp;&emsp;(II) may assist in preventing a species from being listed as a threatened or endangered species under the EndangeredSpecies Act of 1973 (16 U.S.C. 1531 et seq.); or
+&emsp;&emsp;&emsp;&emsp;(II) may assist in preventing a species from being listed as a threatened or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); or
 
 &emsp;&emsp;&emsp;&emsp;(III) improves or creates wildlife habitat corridors.
 
@@ -408,7 +408,7 @@ Subsec. (f)(1). Pub. L. 110–246, §2104, substituted "the Chesapeake Bay Regio
 
 Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: "For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities."
 
-Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreagein conservation reserve during 2002 through 2007 calendar years.
+Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
 
 Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 

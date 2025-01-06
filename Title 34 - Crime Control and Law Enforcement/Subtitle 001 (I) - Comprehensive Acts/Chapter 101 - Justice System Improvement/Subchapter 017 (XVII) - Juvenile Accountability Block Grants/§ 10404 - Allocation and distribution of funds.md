@@ -72,7 +72,7 @@ If under this section a unit of local government is allocated less than $10,000 
 
 #### (1) In general
 
-&emsp;If a State does not qualify or apply for funds reserved for allocation under subsection (a) by the application deadline established by the Attorney General, the Attorney General shall reserve not more than 75 percent of the allocation that the State would have received under subsection (a) for such fiscal year to provide grants to specially qualified units which meet the requirements for funding under section 10403 of this title.
+&emsp;If a State does not qualify or apply for funds reserved for allocation under subsection (a) bythe application deadline established by the Attorney General, the Attorney General shall reserve not more than 75 percent of the allocation that the State would have received under subsection (a) for such fiscal year to provide grants to specially qualified units which meet the requirements for funding under section 10403 of this title.
 
 #### (2) Award basis
 

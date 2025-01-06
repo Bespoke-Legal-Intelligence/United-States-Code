@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term "American folklife" means the traditional expressive culture shared within the various groups in the United States: familial, ethnic, occupational, religious, regional;expressive culture includes a wide range of creative and symbolic forms such as custom, belief, technical skill, language, literature, art, architecture, music, play, dance, drama, ritual, pageantry, handicraft; these expressions are mainly learned orally, by imitation, or in performance, and are generally maintained without benefit of formal instruction or institutional direction;
+&emsp;(1) the term "American folklife" means the traditional expressive culture shared within the various groups in the United States: familial, ethnic, occupational, religious, regional; expressive culture includes a wide range of creative and symbolic forms such as custom, belief, technical skill, language, literature, art, architecture, music, play, dance, drama, ritual, pageantry, handicraft; these expressions are mainly learned orally, by imitation, or in performance, and are generally maintained without benefit of formal instruction or institutional direction;
 
 &emsp;(2) the term "Board" means the Board of Trustees of the Center;
 

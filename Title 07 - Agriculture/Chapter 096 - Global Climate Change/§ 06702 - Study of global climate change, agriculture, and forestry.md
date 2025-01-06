@@ -34,7 +34,7 @@ The Secretary shall conduct a study on the emissions of methane, nitrous oxide, 
 
 &emsp;(2) determine the manner in which the nitrous oxide, methane, and nonmethane hydrocarbon emissions from temperate and tropical forest systems will respond due to climate change; and
 
-&emsp;(3) identify and address alternative management strategies for temperate and tropicalforests that may mitigate any negative effects of global climate change.
+&emsp;(3) identify and address alternative management strategies for temperate and tropical forests that may mitigate any negative effects of global climate change.
 
 #### (c) Reports
 

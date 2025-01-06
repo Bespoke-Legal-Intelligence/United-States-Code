@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement shall become effective with respect to the United States before the close of the first 120 days (excluding any days in a period for which the Congress is adjourned sine die) after the date on which the Presidenttransmits to the House of Representatives and to the Senate a document setting forth the text of such governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement. A copy of the document shall be delivered to each House of Congress on the same day and shall be delivered to the Clerk of the House of Representatives, if the House is not in session, and to the Secretary of the Senate, if the Senate is not in session.
+No governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement shall become effective with respect to the United States before the close of the first 120 days (excluding any days in a period for which the Congress is adjourned sine die) after the date on which the President transmits to the House of Representatives and to the Senate a document setting forth the text of such governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement. A copy of the document shall be delivered to each House of Congress on the same day and shall be delivered to the Clerk of the House of Representatives, if the House is not in session, and to the Secretary of the Senate, if the Senate is not in session.
 
 #### (b) Referral to committees
 
@@ -136,7 +136,7 @@ Exemption From Chapter 10
 
 of Title 5
 
-, United States Code.—Chapter 10 of title 5, United StatesCode, shall not apply to an advisory body established pursuant to this section.
+, United States Code.—Chapter 10 of title 5, United States Code, shall not apply to an advisory body established pursuant to this section.
 
 "(e)
 
@@ -162,7 +162,7 @@ Pub. L. 100–350, §1, June 27, 1988, 102 Stat. 660, provided that extension of
 
 #### Governing International Fishery Agreements With Iceland and the European Economic Community
 
-Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) \[this section\]—
+Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[titleII, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) \[this section\]—
 
 &emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
 
@@ -194,7 +194,7 @@ Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 32
 
 #### Extension of International Fishery Agreements
 
-Pub. L. 100–66, §1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the UnitedStates and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
+Pub. L. 100–66, §1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
 
 Pub. L. 98–364, title I, §106, July 17, 1984, 98 Stat. 442, provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in section 2(a)(7) of Pub. L. 95–6, formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
 

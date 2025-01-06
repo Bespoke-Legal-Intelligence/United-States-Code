@@ -42,7 +42,7 @@ Amounts in the Trust shall be available—
 
 #### (5) Notification of individual
 
-&emsp;The Corporation upon disbursing the national service educational award, the summer of service educational award, or the silver scholar educational award, as applicable, shall notify the individual of the amount paid for each outstanding loan and the date of payment.
+&emsp;The Corporation upon disbursing the national service educational award, the summerof service educational award, or the silver scholar educational award, as applicable, shall notify the individual of the amount paid for each outstanding loan and the date of payment.
 
 #### (6) Authority to aggregate payments
 
@@ -104,7 +104,7 @@ Amounts in the Trust shall be available—
 
 #### (5) Refund rules
 
-&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b). Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
+&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and thecrediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b). Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
 
 #### (6) Maximum award
 

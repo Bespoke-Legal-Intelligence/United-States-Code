@@ -2,7 +2,7 @@
 
 (a)
 
-Selection of Prototype Project for Production and Rapid Fielding.—A weapon system component or technology prototype project may be selected by the service acquisition executive of the military department concerned for a follow-on production contract or other transactionwithout the use of competitive procedures, notwithstanding the requirements of sections 3201 through 3205 of this title, if—
+Selection of Prototype Project for Production and Rapid Fielding.—A weapon system component or technology prototype project may be selected by the service acquisition executive of the military department concerned for a follow-on production contract or other transaction without the use of competitive procedures, notwithstanding the requirements of sections 3201 through 3205 of this title, if—
 
 &emsp;(1) the follow-on production project addresses a high priority warfighter need or reduces the costs of a weapon system;
 

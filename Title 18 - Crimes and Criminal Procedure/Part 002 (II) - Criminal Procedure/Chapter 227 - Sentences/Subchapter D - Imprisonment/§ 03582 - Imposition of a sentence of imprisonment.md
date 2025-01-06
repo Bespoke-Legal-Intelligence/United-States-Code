@@ -90,9 +90,9 @@ Annual report.—Not later than 1 year after December 21, 2018, and once every y
 
 &emsp;&emsp;(G) for each request, the time elapsed between the date the request was received by the warden and the final decision, categorized by the criteria relied on as the grounds for a reduction in sentence;
 
-&emsp;&emsp;(H) for each request, the number of prisoners who died while their request was pending and, for each, the amount of time thathad elapsed between the date the request was received by the Bureau of Prisons, categorized by the criteria relied on as the grounds for a reduction in sentence;
+&emsp;&emsp;(H) for each request, the number of prisoners who died while their request was pending and, for each, the amount of time that had elapsed between the date the request was received by the Bureau of Prisons, categorized by the criteria relied on as the grounds for a reduction in sentence;
 
-&emsp;&emsp;(I) the number of Bureau of Prisons notifications to attorneys, partners, and family members of their right to visit a terminally ill defendant as required under paragraph (2)(A)(ii) and, for each, whether a visit occurred and how much time elapsed between the notification and the visit;
+&emsp;&emsp;(I) the number of Bureau of Prisons notifications to attorneys, partners, and family members of their right to visit a terminally ill defendant as required under paragraph\(2)(A)(ii) and, for each, whether a visit occurred and how much time elapsed between the notification and the visit;
 
 &emsp;&emsp;(J) the number of visits to terminally ill prisoners that were denied by the Bureau of Prisons due to security or other concerns, and the reasons given for each denial; and
 

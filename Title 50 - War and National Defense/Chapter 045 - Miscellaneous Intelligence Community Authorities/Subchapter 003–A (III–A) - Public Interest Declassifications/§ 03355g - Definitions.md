@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (2) Classified material or record
 
-&emsp;The terms "classified material" and "classified record" include any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microfilm, sound recording, videotape, machine readable records, and other documentary material, regardless of physical form or characteristics, that has been determined pursuant to Executive order to require protection against unauthorized disclosure in the interests of the national security of the United States.
+&emsp;The terms "classified material" and "classified record" include any correspondence,memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microfilm, sound recording, videotape, machine readable records, and other documentary material, regardless of physical form or characteristics, that has been determined pursuant to Executive order to require protection against unauthorized disclosure in the interests of the national security of the United States.
 
 #### (3) Declassification
 

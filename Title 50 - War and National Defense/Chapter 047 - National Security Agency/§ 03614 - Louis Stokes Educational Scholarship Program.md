@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The purpose of this section is to establish an undergraduate and graduate training program,which may lead to a baccalaureate or graduate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
+The purpose of this section is to establish an undergraduate and graduate training program, which may lead to a baccalaureate or graduate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
 
 #### (b) Assignment for training
 
@@ -28,7 +28,7 @@ The National Security Agency may pay, directly or by reimbursement to program pa
 
 &emsp;&emsp;(iii) by the Agency for the failure of the program participant to maintain such level of academic standing in the educational course of training as the Director of the National Security Agency shall have specified in the agreement of the program participant under this subsection; and
 
-&emsp;(D) to reimburse the United States if, after completing the educational course of training for which the program participant is assigned, the program participant's employment with the Agency is terminated either by the Agency due to misconduct by the program participant or by the program participant voluntarily, prior to the program participant's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the program participant's pay and allowances) provided to the program participant as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
+&emsp;(D) to reimburse the United States if, after completing the educational course of trainingfor which the program participant is assigned, the program participant's employment with the Agency is terminated either by the Agency due to misconduct by the program participant or by the program participant voluntarily, prior to the program participant's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the program participant's pay and allowances) provided to the program participant as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
 
 (2) Subject to paragraph (3), the obligation to reimburse the United States under an agreement described in paragraph (1), including interest due on such obligation, is for all purposes a debt owing the United States.
 
@@ -36,7 +36,7 @@ The National Security Agency may pay, directly or by reimbursement to program pa
 
 (B) The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
 
-(C) The Secretary of Defense shall permit an <sup>1</sup> program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant's employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
+(C) The Secretary of Defense shall permit a program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant's employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
 
 #### (e) Recruitment of individuals
 
@@ -54,7 +54,7 @@ The Secretary of Defense may issue such regulations as may be necessary to imple
 
 The undergraduate and graduate training program established under this section shall be known as the Louis Stokes Educational Scholarship Program.
 
-(Pub. L. 86–36, §16, as added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, §312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664; Pub. L. 118–31, div. G, title IX, §7901(i), Dec. 22, 2023, 137 Stat. 1107.)
+(Pub. L. 86–36, §16, as added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, §312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664; Pub. L. 118–31, div. G, title IX, §7901(i), Dec. 22, 2023, 137 Stat. 1107; Pub. L. 118–159, div. F, title LXIX, §6902(b), Dec. 23, 2024, 138 Stat. 2517.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +63,8 @@ The undergraduate and graduate training program established under this section s
 Section was formerly classified in a note under section 402 of this title prior to editorial reclassification as this section.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(3)(C). Pub. L. 118–159 substituted "a program participant" for "an program participant".
 
 <b>2023</b>—Subsec. (d)(1). Pub. L. 118–31 substituted "program participant must" for "program participant, must".
 
@@ -91,6 +93,4 @@ Subsec. (e). Pub. L. 111–259, §312(d), struck out par. (2) designation before
 Subsec. (e)(2). Pub. L. 111–259, §312(a)(3), inserted "and graduate" after "undergraduate".
 
 Subsec. (h). Pub. L. 111–259, §312(a)(4), added subsec. (h).
-
-<i><sup>1</sup></i><i> So in original.</i>
 

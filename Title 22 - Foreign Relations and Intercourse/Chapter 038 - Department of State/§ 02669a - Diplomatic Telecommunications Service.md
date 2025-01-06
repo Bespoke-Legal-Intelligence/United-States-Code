@@ -6,7 +6,7 @@ In fiscal year 1995 and each succeeding fiscal year—
 
 &emsp;(1) the Secretary of State shall provide funds for the operation of the Diplomatic Telecommunications Service (DTS) in a sufficient amount to sustain the current level of support services being provided by the DTS, and no portion of such amount may be reprogrammed or transferred for any other purpose;
 
-&emsp;(2) all funds for the operation and enhancement of the DTS shall be directly available for use by the Diplomatic Telecommunications Service Program Office (DTS–PO); and
+&emsp;(2) all funds for the operation and enhancement of the DTS shall be directly available foruse by the Diplomatic Telecommunications Service Program Office (DTS–PO); and
 
 &emsp;(3) the DTS–PO financial management officer shall be provided direct access to the Department of State financial management system to independently monitor and control the obligation and expenditure of all funds for the operation and enhancement of the DTS.
 
@@ -48,7 +48,7 @@ Within 60 days after August 26, 1994, the Secretary of State and the Director of
 
 #### (d) DTS planning report
 
-Not later than January 15, 1995, the Secretary of State and the Director of the DTS–PO shallsubmit to the Committees on Appropriations a DTS planning report. The report shall include—
+Not later than January 15, 1995, the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations a DTS planning report. The report shall include—
 
 &emsp;(1) a detailed plan for carrying out the pilot program required by subsection (c), including an estimate of the funds required for such purpose; and
 

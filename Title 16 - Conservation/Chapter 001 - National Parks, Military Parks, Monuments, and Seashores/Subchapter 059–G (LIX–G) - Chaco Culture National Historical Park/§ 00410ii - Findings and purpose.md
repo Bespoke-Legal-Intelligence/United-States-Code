@@ -10,7 +10,7 @@
 
 &emsp;(4) in light of the national significance of the Chacoan sites and the urgent need to protect them, continued cooperation between Federal agencies and private corporations is necessary to provide for development in the San Juan Basin in a manner compatible with preservation and archeological research.
 
-(b) It is the purpose of this subchapter to recognize the unique archeological resources associated with the prehistoric Chacoan culture in the San Juan Basin and surrounding areas; to provide for the preservation and interpretationof these resources; and to facilitate research activities associated with these resources.
+(b) It is the purpose of this subchapter to recognize the unique archeological resources associated with the prehistoric Chacoan culture in the San Juan Basin and surrounding areas; to provide for the preservation and interpretation of these resources; and to facilitate research activities associated with these resources.
 
 (Pub. L. 96–550, title V, §501, Dec. 19, 1980, 94 Stat. 3227; Pub. L. 104–11, §2, May 18, 1995, 109 Stat. 158.)
 

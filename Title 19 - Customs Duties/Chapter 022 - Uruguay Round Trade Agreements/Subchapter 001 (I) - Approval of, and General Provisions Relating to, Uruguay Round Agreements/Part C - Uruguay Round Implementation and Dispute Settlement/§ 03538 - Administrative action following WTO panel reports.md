@@ -16,7 +16,7 @@
 
 #### (3) Consultations on request for Commission determination
 
-&emsp;If a majority of the Commissioners issues an affirmative report under paragraph (1), theTrade Representative shall consult with the congressional committees concerning the matter.
+&emsp;If a majority of the Commissioners issues an affirmative report under paragraph (1), the Trade Representative shall consult with the congressional committees concerning the matter.
 
 #### (4) Commission determination
 
@@ -42,7 +42,7 @@
 
 #### (3) Consultations before implementation
 
-&emsp;Before the administering authority implements any determination under paragraph (2), the Trade Representative shall consult with the administering authority and the congressional committees with respect to such determination.
+&emsp;Before the administering authority implements any determination under paragraph (2),the Trade Representative shall consult with the administering authority and the congressional committees with respect to such determination.
 
 #### (4) Implementation of determination
 

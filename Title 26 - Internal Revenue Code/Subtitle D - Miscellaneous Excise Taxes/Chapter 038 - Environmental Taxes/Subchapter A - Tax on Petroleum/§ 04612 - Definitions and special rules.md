@@ -94,7 +94,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount of the credit determined under this subsection for any taxable year with respect to any taxpayer shall not exceed the excess of—
+&emsp;&emsp;&emsp;The amount of the credit determined under this subsection for any taxable yearwith respect to any taxpayer shall not exceed the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount determined under clause (ii), over
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Under regulations approved by the Secretary of Defense, the Secretary concerned may provide voluntary separation pay and benefits in accordance with this section to eligible members of the armed forces who are voluntarily separated from active duty in the armed forces.
+In General.—Under regulations approved by the Secretary of Defense, the Secretary concerned may provide voluntary separation pay and benefits in accordance with this section to eligible members of the armed forces who arevoluntarily separated from active duty in the armed forces.
 
 (b)
 
@@ -106,7 +106,7 @@ Repayment for Members Who Return to Active Duty.—(1) Except as provided in par
 
 &emsp;(B) in the course of such duty, incurs a service-connected disability rated as total under section 1155 of title 38.
 
-(5) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines thatrecovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
+(5) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 
 (k)
 

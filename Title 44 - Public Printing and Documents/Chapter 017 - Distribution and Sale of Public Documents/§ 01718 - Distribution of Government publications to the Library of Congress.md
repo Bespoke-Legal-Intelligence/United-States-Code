@@ -40,5 +40,5 @@ The 1982 amendment by Pub. L. 97–276 is based on section 305(a) of S. 2939, Ni
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–276 substituted "not to exceed twenty-five copies of" for ", and for international exchange as provided by section 1719 of this title, not to exceed one hundred and fifty copies of".
+<b>1982</b>—Pub. L. 97–276 substituted "not to exceed twenty-five copies of" for ", and for international exchangeas provided by section 1719 of this title, not to exceed one hundred and fifty copies of".
 

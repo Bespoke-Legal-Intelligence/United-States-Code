@@ -116,7 +116,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;&emsp;(i) such payment shall be based on the market value of the eligible frequencies, the timeliness with which the eligible Federal entity clears its use of such frequencies, and the need for such frequencies in order for the entity to conduct its essential missions;
 
-&emsp;&emsp;&emsp;(ii) the eligible Federal entity shall use such payment for the purposes specified inclauses (i) through (v) of section 923(g)(3)(A) of this title to achieve comparable capability of systems affected by the reallocation of eligible frequencies from Federal use to exclusive non-Federal use or to shared use;
+&emsp;&emsp;&emsp;(ii) the eligible Federal entity shall use such payment for the purposes specified in clauses (i) through (v) of section 923(g)(3)(A) of this title to achieve comparable capability of systems affected by the reallocation of eligible frequencies from Federal use to exclusive non-Federal use or to shared use;
 
 &emsp;&emsp;&emsp;(iii) such payment may not be made if the amount remaining in the Fund after such payment will be less than 10 percent of the winning bids in the auction of the spectrum with respect to which the Federal entity is incurring relocation or sharing costs; and
 
@@ -178,7 +178,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (ii) Criteria for review
 
-&emsp;&emsp;&emsp;In considering whether to approve or disapprove a plan under this subparagraph, the Technical Panel shall consider whether—
+&emsp;&emsp;&emsp;In considering whether to approve or disapprove a plan under this subparagraph,the Technical Panel shall consider whether—
 
 &emsp;&emsp;&emsp;&emsp;(I) the activities that the Federal entity will conduct with the payment will—
 

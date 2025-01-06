@@ -242,7 +242,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviewsof applications received under subsection (e)(1).
+&emsp;The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
 
 #### (2) Applicability of chapter 10 of title 5
 
@@ -466,7 +466,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the Administrator of FEMA shall convene a meeting of qualified members of national fire service organizations and, at the discretion of the Administrator of FEMA, qualified members of emergency medical service organizations to obtain recommendations regarding the following:
+&emsp;&emsp;For each fiscal year, the Administrator of FEMA shall convene a meeting of qualifiedmembers of national fire service organizations and, at the discretion of the Administrator of FEMA, qualified members of emergency medical service organizations to obtain recommendations regarding the following:
 
 &emsp;&emsp;&emsp;(i) Criteria for the awarding of grants under this section.
 
@@ -544,15 +544,7 @@ If an applicant for a grant under this section is applying for such grant to pur
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section—
-
-&emsp;&emsp;(A) $750,000,000 for fiscal year 2013; and
-
-&emsp;&emsp;(B) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
-
-&emsp;&emsp;&emsp;(i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
-
-&emsp;&emsp;&emsp;(ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in clause (i).
+&emsp;There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2024 through 2028.
 
 #### (2) Administrative expenses
 
@@ -564,9 +556,9 @@ If an applicant for a grant under this section is applying for such grant to pur
 
 #### (r) Sunset of authorities
 
-The authority to award assistance and grants under this section shall expire on September 30, 2024.
+The authority to award assistance and grants under this section shall expire on September 30, 2030.
 
-(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, §421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, §205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, §3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, §1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, §3, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 117–286, §4(a)(68), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, §421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, §205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, §3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, §1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, §3, Jan. 3, 2018, 131 Stat. 2239; Pub. L. 117–286, §4(a)(68), Dec. 27, 2022, 136 Stat. 4313; Pub. L. 118–67, div. A, §3, July 9, 2024, 138 Stat. 1447.)
 
 #### <b>Editorial Notes</b>
 
@@ -575,6 +567,10 @@ The authority to award assistance and grants under this section shall expire on 
 Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classified to section 2230 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (q)(1). Pub. L. 118–67, §3(b), substituted "to carry out this section $750,000,000 for each of fiscal years 2024 through 2028" for "to carry out this section—" and subpars. (A) and (B) which related to amount of appropriations authorized for 2013 to 2023.
+
+Subsec. (r). Pub. L. 118–67, §3(a), substituted "2030" for "2024".
 
 <b>2022</b>—Subsec. (f)(2). Pub. L. 117–286, §4(a)(68)(A), substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
@@ -654,7 +650,7 @@ Subsec. (e)(1). Pub. L. 108–169, §205(c)(2), inserted at end "Of the amounts 
 
 Subsec. (e)(2). Pub. L. 108–169, §205(a)(2), struck out "operate the office established under subsection (b)(2) of this section and" before "make grants and provide assistance under this section."
 
-<b>2001</b>—Subsec. (b)(3). Pub. L. 107–107, §1061(b), (c), substituted "the grant funds for one or more of the following purposes:" for "the grant funds—" in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for "; or" at end of subpar. (M), inserted "(including response to a terrorism incident or use of a weapon of mass destruction)" after "emergency response" in subpar. (B), substituted ", monitoring, and response to a terrorism incident or use of a weapon of mass destruction" for "and monitoring" in subpar. (H), and inserted ", including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction" after "equipment for firefighting personnel" in subpar. (I).
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–107, §1061(b), (c), substituted "the grant funds for one or more of the following purposes:" for "the grant funds—" in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for "; or" at end of subpar. (M), inserted "(including response to a terrorism incident oruse of a weapon of mass destruction)" after "emergency response" in subpar. (B), substituted ", monitoring, and response to a terrorism incident or use of a weapon of mass destruction" for "and monitoring" in subpar. (H), and inserted ", including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction" after "equipment for firefighting personnel" in subpar. (I).
 
 Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for the purposes of this section amounts as follows:
 

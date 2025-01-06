@@ -24,7 +24,7 @@ In this chapter:
 
 #### (5) Commission
 
-&emsp;The term "Commission" means the United States Commission on International Religious Freedom established in section 6431(a) of this title.
+&emsp;The term "Commission" means the United States Commission on International ReligiousFreedom established in section 6431(a) of this title.
 
 #### (6) Country Reports on Human Rights Practices
 

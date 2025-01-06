@@ -18,7 +18,7 @@ In addition to contracting for the purchase or lease of vehicles when conducting
 
 #### (e) Cost-sharing and use of American materials for demonstrations
 
-When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts forpurposes of carrying out demonstrations under this chapter without regard to the provisions of chapter 83 of title 41.
+When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of chapter 83 of title 41.
 
 (Pub. L. 94–413, §8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, §602, Feb. 25, 1978, 92 Stat. 92.)
 

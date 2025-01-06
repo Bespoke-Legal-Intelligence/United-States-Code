@@ -20,7 +20,7 @@ The Assistant Secretary for Preparedness and Response, in consultation with the 
 
 &emsp;&emsp;(C) protocols or best practices for the safety and personal protection of workers who handle human remains and health care workers (including with respect to protective equipment and supplies, waste management processes, and decontamination), sharing of specialized experience among the health care workforce, behavioral health, psychological resilience, and training of the workforce, as applicable;
 
-&emsp;&emsp;(D) in a manner that allows for disease containment (within the meaning of section 300hh–1(b)(2)(B) of this title), coordinated medical triage, treatment, and transportation of patients, based on patient medical need (including patients in rural areas), to the appropriate hospitals or health care facilities within the regional system or, as applicable and appropriate, between systems in different States or regions; and
+&emsp;&emsp;(D) in a manner that allows for disease containment (within the meaning of section300hh–1(b)(2)(B) of this title), coordinated medical triage, treatment, and transportation of patients, based on patient medical need (including patients in rural areas), to the appropriate hospitals or health care facilities within the regional system or, as applicable and appropriate, between systems in different States or regions; and
 
 &emsp;&emsp;(E) the needs of children and other at-risk individuals;
 

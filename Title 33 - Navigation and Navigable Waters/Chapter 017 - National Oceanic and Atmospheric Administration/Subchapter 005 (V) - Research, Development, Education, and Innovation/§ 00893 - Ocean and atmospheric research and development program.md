@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Director of the National Science Foundation and the Administrator of the National Aeronautics and Space Administration, shall establish a coordinated program of ocean, coastal, Great Lakes, and atmospheric research and development, in collaboration with academic institutions and other nongovernmental entities, that shall focus on the development of advanced technologies and analytical methods that will promote United States leadership in ocean and atmospheric science and competitiveness in the applied uses of such knowledge.
+The Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Director of the National Science Foundation and the Administrator of the National Aeronautics and Space Administration, shall establish a coordinated program of ocean,coastal, Great Lakes, and atmospheric research and development, in collaboration with academic institutions and other nongovernmental entities, that shall focus on the development of advanced technologies and analytical methods that will promote United States leadership in ocean and atmospheric science and competitiveness in the applied uses of such knowledge.
 
 #### (b) Oceanic and atmospheric research and development program
 
@@ -12,7 +12,7 @@ The Administrator shall implement programs and activities—
 
 &emsp;(2) to promote United States leadership in oceanic and atmospheric science and competitiveness in the applied uses of such knowledge, including for the development and expansion of economic opportunities; and
 
-&emsp;(3) to advance ocean, coastal, Great Lakes, and atmospheric research and development, including potentially transformational research, in collaboration with other relevant Federal agencies, academic institutions, theprivate sector, and nongovernmental programs, consistent with NOAA's mission to understand, observe, and model the Earth's atmosphere and biosphere, including the oceans, in an integrated manner.
+&emsp;(3) to advance ocean, coastal, Great Lakes, and atmospheric research and development, including potentially transformational research, in collaboration with other relevant Federal agencies, academic institutions, the private sector, and nongovernmental programs, consistent with NOAA's mission to understand, observe, and model the Earth's atmosphere and biosphere, including the oceans, in an integrated manner.
 
 #### (c) Report
 

@@ -8,7 +8,7 @@ The Commission shall—
 
 &emsp;(2) conduct such continuing studies and investigations of deaths, injuries, diseases, other health impairments, and economic losses resulting from accidents involving consumer products as it deems necessary;
 
-&emsp;(3) following publication of a notice of proposed rulemaking for a product safety ruleunder any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
+&emsp;(3) following publication of a notice of proposed rulemaking for a product safety rule under any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
 
 &emsp;(4) to the extent practicable and appropriate (taking into account the resources and priorities of the Commission), assist public and private organizations or groups of manufacturers, administratively and technically, in the development of product safety standards and test methods.
 
@@ -100,7 +100,7 @@ Center for Fire Research.—At the request of the Consumer Product Safety Commis
 
 Commission.—The Consumer Product Safety Commission shall—
 
-&emsp;"(1) design and implement a study to collect baseline and followup data about the characteristics ofcigarettes, products ignited, and smokers involved in fires, and
+&emsp;"(1) design and implement a study to collect baseline and followup data about the characteristics of cigarettes, products ignited, and smokers involved in fires, and
 
 &emsp;"(2) develop information on societal costs of cigarette-ignited fires.
 
@@ -176,7 +176,7 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 
 "(b) Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Interagency Committee to provide such information, the Chairman of the Interagency Committee shall notify the person who provided the information of such a request in writing.
 
-"(c) The Interagency Committee shall, on the vote of a majority of its members, adopt reasonable procedures to protect the confidentiality of trade secret and confidential information, as defined in this section.
+"(c) The Interagency Committee shall, on the vote of a majority of its members, adopt reasonable proceduresto protect the confidentiality of trade secret and confidential information, as defined in this section.
 
 "Sec. 7. As used in this Act, the terms 'cigarettes' and 'little cigars' have the meanings given such terms by section 3 of the Federal Cigarette Labeling and Advertising Act \[15 U.S.C. 1332\]."
 

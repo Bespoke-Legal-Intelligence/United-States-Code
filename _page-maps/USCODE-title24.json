@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-2023-title24",
+ "package": "USCODE-2024-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1757,10 +1757,14 @@
    "id": "24_401",
    "marks": [
     [
-     "L",
-     84,
-     "[Page 33]",
-     true
+     "I",
+     90,
+     [
+      [
+       511,
+       "[Page 33]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/§ 00401 - Definitions.md",
@@ -1782,17 +1786,21 @@
    "id": "24_411",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 34]",
-     true
+     "I",
+     46,
+     [
+      [
+       280,
+       "[Page 34]"
+      ]
+     ]
     ],
     [
      "I",
-     114,
+     110,
      [
       [
-       108,
+       111,
        "[Page 35]"
       ]
      ]
@@ -1809,7 +1817,7 @@
    "marks": [
     [
      "L",
-     18,
+     12,
      "[Page 36]",
      true
     ]
@@ -1828,7 +1836,7 @@
      8,
      [
       [
-       321,
+       90,
        "[Page 37]"
       ]
      ]
@@ -1844,10 +1852,14 @@
    "id": "24_413a",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 38]",
-     true
+     "I",
+     22,
+     [
+      [
+       175,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413a - Oversight of health care provided to residents.md",
@@ -1864,7 +1876,7 @@
      20,
      [
       [
-       281,
+       133,
        "[Page 39]"
       ]
      ]
@@ -1880,10 +1892,14 @@
    "id": "24_415",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 40]",
-     true
+     "I",
+     22,
+     [
+      [
+       143,
+       "[Page 40]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Chief Operating Officer.md",
@@ -1896,21 +1912,17 @@
    "id": "24_416",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       94,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 41]",
+     true
     ],
     [
      "I",
      82,
      [
       [
-       218,
+       113,
        "[Page 42]"
       ]
      ]
@@ -2100,6 +2112,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2023-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2024-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

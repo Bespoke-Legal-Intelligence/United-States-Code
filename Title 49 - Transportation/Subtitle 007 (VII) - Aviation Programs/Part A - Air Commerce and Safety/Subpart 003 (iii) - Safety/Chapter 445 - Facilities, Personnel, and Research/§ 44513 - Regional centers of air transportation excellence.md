@@ -60,7 +60,7 @@ Allocating Amounts.—The Administrator shall allocate amounts made available to
 
 (h)
 
-Annual Report.—The Administrator shall transmit annually to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at the time of the President's budget request a report that lists—
+Annual Report.—The Administrator shall transmit annually to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate atthe time of the President's budget request a report that lists—
 
 &emsp;(1) the research projects that have been initiated by each center in the preceding year;
 

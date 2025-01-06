@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 114–328, §633(c), amended subsec. (d) generally. Prior t
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title VI, §633(e), Dec. 23, 2016, 130 Stat. 2163, provided that: "The amendments madeby this section \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments providing for section 356 of title 37, United States Code, to which the amendments made by this section relate."
+Pub. L. 114–328, div. A, title VI, §633(e), Dec. 23, 2016, 130 Stat. 2163, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments providing for section 356 of title 37, United States Code, to which the amendments made by this section relate."
 
 #### Effective Date; Implementation
 

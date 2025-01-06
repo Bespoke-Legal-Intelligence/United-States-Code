@@ -82,7 +82,7 @@ Whoever knowingly violates subsection (a) shall be fined not more than $1,000,00
 
 #### (B) Confinement criteria
 
-&emsp;&emsp;In issuing rules under subparagraph (A), the Corporation shall include a requirementthat the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
+&emsp;&emsp;In issuing rules under subparagraph (A), the Corporation shall include a requirement that the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
 
 &emsp;&emsp;&emsp;(i) is calculated based on the time an individual spent incarcerated as a punishment or a sanction, not as pretrial detention; and
 

@@ -182,7 +182,7 @@
 
 #### (1) Certain progress expenditure rules made applicable
 
-&emsp;Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on theday before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+&emsp;Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
 
 #### (2) Special rule for property financed by subsidized energy financing or private activity bonds
 
@@ -274,7 +274,7 @@ For purposes of section 50, if the Secretary determines that the greenhouse gas 
 
 &emsp;&emsp;A facility shall be treated as part of a qualified low-income residential building project if—
 
-&emsp;&emsp;&emsp;(i) such facility is installed on a residential rental building which participates in acovered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup>1</sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
+&emsp;&emsp;&emsp;(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup>1</sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
 
 &emsp;&emsp;&emsp;(ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -344,7 +344,7 @@ Not later than January 1, 2025, the Secretary shall issue guidance regarding imp
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
-The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

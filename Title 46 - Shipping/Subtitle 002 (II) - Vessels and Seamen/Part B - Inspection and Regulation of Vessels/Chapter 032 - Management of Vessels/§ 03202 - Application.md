@@ -66,7 +66,7 @@ Foreign Voyages and Foreign Vessels.—" for "
 
 Mandatory Application.—" in heading.
 
-Subsecs. (b) to (d). Pub. L. 111–281, §610(a)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and\(c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted "subsection (c)" for "subsection (b)".
+Subsecs. (b) to (d). Pub. L. 111–281, §610(a)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted "subsection (c)" for "subsection (b)".
 
 Subsec. (d)(4). Pub. L. 111–281, §610(a)(5), inserted "that is not described in subsection (b) of this section" after "connecting waters".
 

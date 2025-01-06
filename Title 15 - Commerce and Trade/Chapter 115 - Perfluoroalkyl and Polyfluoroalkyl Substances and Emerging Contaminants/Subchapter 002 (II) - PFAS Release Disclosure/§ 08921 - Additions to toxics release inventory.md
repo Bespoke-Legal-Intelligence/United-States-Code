@@ -144,7 +144,7 @@ In this section, the term "toxics release inventory" means the list of toxic che
 
 #### (1) In general
 
-&emsp;Prior to including on the toxics release inventory pursuant to subsection (b)(1), (c)(1), or (d)(3) any perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl or polyfluoroalkyl substances the chemical identity of which is subject to a claim of a person of protection from disclosure under subsection (a) of section 552 of title 5, pursuant to subsection (b)(4) of that section, the Administrator shall—
+&emsp;Prior to including on the toxics release inventory pursuant to subsection (b)(1), (c)(1), or (d)(3) any perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl orpolyfluoroalkyl substances the chemical identity of which is subject to a claim of a person of protection from disclosure under subsection (a) of section 552 of title 5, pursuant to subsection (b)(4) of that section, the Administrator shall—
 
 &emsp;&emsp;(A) review any such claim of protection from disclosure; and
 

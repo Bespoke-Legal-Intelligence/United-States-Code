@@ -66,7 +66,7 @@ The Secretary, without delegation, may renew a declaration as necessary.
 
 #### (2) Expenditure of funds
 
-&emsp;Any expenditure from the Fund for the purpose of paragraph (1)(B) shall be made from amounts available in the Fund, and amounts available in the Fund shall be in addition to any other appropriations available to the Cybersecurity and Infrastructure Security Agency for such purpose.
+&emsp;Any expenditure from the Fund for the purpose of paragraph (1)(B) shall be made fromamounts available in the Fund, and amounts available in the Fund shall be in addition to any other appropriations available to the Cybersecurity and Infrastructure Security Agency for such purpose.
 
 (Pub. L. 107–296, title XXII, §2233, as added Pub. L. 117–58, div. G, title VI, §70602(a), Nov. 15, 2021, 135 Stat. 1268.)
 

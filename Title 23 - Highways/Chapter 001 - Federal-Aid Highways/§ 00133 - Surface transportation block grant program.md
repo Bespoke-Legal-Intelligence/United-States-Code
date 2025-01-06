@@ -50,7 +50,7 @@ Eligible Projects.—Funds apportioned to a State under section 104(b)(2) for th
 
 &emsp;(13) Projects and strategies designed to support congestion pricing, including electronic toll collection and travel demand management strategies and programs.
 
-&emsp;(14) Projects and strategies designed to reduce the number of wildlife-vehicle collisions,including project-related planning, design, construction, monitoring, and preventative maintenance.
+&emsp;(14) Projects and strategies designed to reduce the number of wildlife-vehicle collisions, including project-related planning, design, construction, monitoring, and preventative maintenance.
 
 &emsp;(15) The installation of electric vehicle charging infrastructure and vehicle-to-grid infrastructure.
 
@@ -308,7 +308,7 @@ Prioritization.—The competitive process described in subparagraph (B) shall in
 
 Continuation of certain recreational trails projects.—For each fiscal year, a State shall—
 
-&emsp;&emsp;(A) obligate an amount of funds set aside under this subsection equal to the amount of the funds apportioned to the State for fiscal year 2009 under section 104(h)(2), as in effect on the day before the date of enactment of MAP–21, for projects relating to recreational trails under section 206;
+&emsp;&emsp;(A) obligate an amount of funds set aside under this subsection equal to the amount ofthe funds apportioned to the State for fiscal year 2009 under section 104(h)(2), as in effect on the day before the date of enactment of MAP–21, for projects relating to recreational trails under section 206;
 
 &emsp;&emsp;(B) return 1 percent of those funds to the Secretary for the administration of that program; and
 
@@ -508,7 +508,7 @@ Subsec. (e)(1). Pub. L. 117–58, §11109(a)(4), substituted "fiscal years 2022 
 
 Subsec. (f)(1). Pub. L. 117–58, §11109(a)(5)(A), inserted "or low water crossing (as defined by the Secretary)" after "a highway bridge" and after "other than a bridge".
 
-Subsec. (f)(2)(A). Pub. L. 117–58, §11109(a)(5)(B), substituted "activities described in paragraphs (1)(A) and (10) of subsection (b) for off-system bridges, projects and activities described in subsection (b)(1)(A) for the replacement of low water crossings with bridges, and projects and activities described in subsection (b)(10) for low water crossings (as defined by the Secretary)," for "activities described in subsection (b)(2) for off-system bridges" and "20 percent" for "15 percent".
+Subsec. (f)(2)(A). Pub. L. 117–58, §11109(a)(5)(B), substituted "activities described in paragraphs (1)(A) and (10) of subsection (b) for off-system bridges, projects and activities described in subsection (b)(1)(A) for the replacement of low water crossings with bridges, andprojects and activities described in subsection (b)(10) for low water crossings (as defined by the Secretary)," for "activities described in subsection (b)(2) for off-system bridges" and "20 percent" for "15 percent".
 
 Subsec. (f)(3). Pub. L. 117–58, §11109(a)(5)(C), in introductory provisions, substituted "bridge, rehabilitation of a bridge, or replacement of a low water crossing (as defined by the Secretary) with a bridge" for "bridge or rehabilitation of a bridge" and inserted "or, in the case of a replacement of a low water crossing with a bridge, is determined by the Secretary on completion to have improved the safety of the location" after "no longer a deficient bridge".
 
@@ -664,7 +664,7 @@ Subsec. (f)(1). Pub. L. 109–59, §1113(d), substituted "2004 through 2006" for
 
 Subsec. (b)(2). Pub. L. 105–178, §1108(a)(2), substituted ", including vehicles and facilities, whether publicly or privately owned, that are used to provide intercity passenger service by bus" for "and publicly owned intracity or intercity bus terminals and facilities".
 
-Subsec. (b)(3). Pub. L. 105–178, §1108(a)(3), substituted "bicycle" for "and bicycle" and inserted before period at end ", and the modification of public sidewalks to comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.)".
+Subsec. (b)(3). Pub. L. 105–178, §1108(a)(3), substituted "bicycle" for "and bicycle" and inserted before period at end ", and the modification of public sidewalks tocomply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.)".
 
 Subsec. (b)(4). Pub. L. 105–178, §1108(a)(4), substituted "Highway and transit safety infrastructure" for "Highway and transit safety".
 
@@ -678,7 +678,7 @@ Subsec. (d)(3)(D). Pub. L. 105–178, §1108(b)(1), substituted "Hawaii and Alas
 
 Subsec. (d)(5)(C). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of the amount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter forprojects not subject to review by the Secretary under this chapter."
+Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of the amount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter for projects not subject to review by the Secretary under this chapter."
 
 Subsec. (e)(3)(A). Pub. L. 105–178, §1108(d), struck out at end "Payments shall not exceed the Federal share of costs incurred as of the date the State requests payments."
 
@@ -736,7 +736,7 @@ Pub. L. 114–94, div. A, title I, §1109(a), Dec. 4, 2015, 129 Stat. 1338, prov
 
 &emsp;"(1) the benefits of the surface transportation block grant program accrue principally to the residents of each State and municipality where the funds are obligated;
 
-&emsp;"(2) decisions about how funds should be obligated are best determined by the States and municipalities to respond to unique local circumstances and implement the most efficient solutions; and
+&emsp;"(2) decisions about how funds should be obligated are best determined by the States and municipalitiesto respond to unique local circumstances and implement the most efficient solutions; and
 
 &emsp;"(3) reforms of the program to promote flexibility will enhance State and local control over transportation decisions."
 

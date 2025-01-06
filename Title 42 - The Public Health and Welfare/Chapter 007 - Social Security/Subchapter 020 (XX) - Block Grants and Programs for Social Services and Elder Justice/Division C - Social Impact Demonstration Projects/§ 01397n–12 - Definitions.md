@@ -22,7 +22,7 @@ In this division:
 
 &emsp;The term "social impact partnership model" means a method of financing social services in which—
 
-&emsp;&emsp;(A) Federal funds are awarded to a State or local government only if a State or localgovernment achieves certain outcomes agreed on by the State or local government and the Secretary; and
+&emsp;&emsp;(A) Federal funds are awarded to a State or local government only if a State or local government achieves certain outcomes agreed on by the State or local government and the Secretary; and
 
 &emsp;&emsp;(B) the State or local government coordinates with service providers, investors (if applicable to the project), and (if necessary) an intermediary to identify—
 

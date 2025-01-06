@@ -260,7 +260,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;Not later than 180 days after the date on which a proposal is selected to be carried out, the Secretary shall create, in collaboration with the interested persons, an implementation work plan and budget to implement the proposal that includes—
 
-&emsp;&emsp;(A) a description of the manner in which the proposal would be implemented to achieve ecological and community economic benefit, including capacity building to accomplish restoration;
+&emsp;&emsp;(A) a description of the manner in which the proposal would be implemented toachieve ecological and community economic benefit, including capacity building to accomplish restoration;
 
 &emsp;&emsp;(B) a business plan that addresses—
 

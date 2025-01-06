@@ -28,7 +28,7 @@ Grants.—(1) In awarding grants for purposes of conducting programs described i
 
 Training and Technical Assistance.—(1) The Secretary of Labor shall provide training and technical assistance to entities seeking a grant or contract under this section and recipients of a grant or contract under this section regarding the planning, development, and provision of services for which the grant or contract is awarded, including before and during the grant application or contract award period.
 
-(2) The training and technical assistance provided under paragraph (1) shall include outreachand assistance specifically designed for entities serving regions and populations underserved by the programs conducted under this section.
+(2) The training and technical assistance provided under paragraph (1) shall include outreach and assistance specifically designed for entities serving regions and populations underserved by the programs conducted under this section.
 
 (3) The Secretary of Labor may provide training and technical assistance under paragraph (1) directly or through grants or contracts with such public or nonprofit private entities as that Secretary considers appropriate.
 
@@ -138,9 +138,9 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 #### References in Text
 
-The Native American Housing Assistance and Self Determination Act of 1996, referred to in subsec. (a)(3), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self Determination Act of 1996, referred to in subsec. (a)(3), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsecs. (b)(2), (g), and (h)(2), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
+The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsecs. (b)(2), (g)(1), and (h)(2), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
 
 #### Prior Provisions
 

@@ -40,7 +40,7 @@ General Definitions.—In this part—
 
 &emsp;(9) "airport" means a landing area used regularly by aircraft for receiving or discharging passengers or cargo.
 
-&emsp;(10) "all-cargo air transportation" means the transportation by aircraft in interstate airtransportation of only property or only mail, or both.
+&emsp;(10) "all-cargo air transportation" means the transportation by aircraft in interstate air transportation of only property or only mail, or both.
 
 &emsp;(11) "appliance" means an instrument, equipment, apparatus, a part, an appurtenance, or an accessory used, capable of being used, or intended to be used, in operating or controlling aircraft in flight, including a parachute, communication equipment, and another mechanism installed in or attached to aircraft during flight, and not a part of an aircraft, aircraft engine, or propeller.
 
@@ -120,7 +120,7 @@ General Definitions.—In this part—
 
 &emsp;(27) "intrastate air transportation" means the transportation by a common carrier of passengers or property for compensation, entirely in the same State, by turbojet-powered aircraft capable of carrying at least 30 passengers.
 
-&emsp;(28) "landing area" means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even whenfacilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
+&emsp;(28) "landing area" means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even when facilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
 
 &emsp;(29) "large hub airport" means a commercial service airport (as defined in section 47102) that has at least 1.0 percent of the passenger boardings.
 
@@ -188,15 +188,17 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) laws, regulations, orders, directives, agreements, and licenses;
 
-&emsp;&emsp;(C) published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation; and
+&emsp;&emsp;(C) published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation;
 
-&emsp;&emsp;(D) trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control.
+&emsp;&emsp;(D) trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control; and
+
+&emsp;&emsp;(E) systems, software, and hardware operated, owned, and maintained by third parties that support or directly provide air navigation information and air traffic management services with Administration approval.
 
 (b)
 
 Limited Definition.—In subpart II of this part, "control" means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–95, title II, §205, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. B, title III, §355(a), Oct. 5, 2018, 132 Stat. 3305.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–95, title II, §205, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. B, title III, §355(a), Oct. 5, 2018, 132 Stat. 3305; Pub. L. 118–63, title II, §215, May 16, 2024, 138 Stat. 1054.)
 
 Historical and Revision Notes
 
@@ -464,6 +466,8 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(47)(E). Pub. L. 118–63 added subpar. (E).
+
 <b>2018</b>—Subsec. (a)(41)(F). Pub. L. 115–254 added subpar. (F).
 
 <b>2012</b>—Subsec. (a)(4). Pub. L. 112–95 added subpars. (B) to (D), redesignated former subpar. (D) as (E) and substituted "any structure, equipment," for "another structure" and "; and" for period at end, added subpar. (F), and struck out former subpars. (B) and (C) which read as follows:
@@ -476,7 +480,7 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 <b>2003</b>—Subsec. (a)(15)(C). Pub. L. 108–176, §807, inserted "which is under the actual control of citizens of the United States," before "and in which".
 
-Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37),\(38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
+Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
 
 <b>2000</b>—Subsec. (a)(37). Pub. L. 106–181, §702(a), amended par. (37) generally, revising and restating provisions defining "public aircraft" to include references to qualifications found in section 40125(b) and (c).
 

@@ -38,7 +38,7 @@ For purposes of this section, the term "functions" does not include any quaranti
 
 #### (3) Effective administration
 
-&emsp;The Secretary, in consultation with the Secretary of Agriculture, may issue such directives and guidelines as are necessary to ensure the effective use of personnel of the Department of Homeland Security to carry out thefunctions transferred pursuant to subsection (a).
+&emsp;The Secretary, in consultation with the Secretary of Agriculture, may issue such directives and guidelines as are necessary to ensure the effective use of personnel of the Department of Homeland Security to carry out the functions transferred pursuant to subsection (a).
 
 #### (e) Transfer agreement
 

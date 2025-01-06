@@ -30,7 +30,7 @@ Section 235 of the Comprehensive Crime Control Act of 1984, referred to in subse
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted "Probation System" for "Parole Commission".
 
-Subsec. (b). Pub. L. 98–473 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with reference to an offender transferred to the United States to serve a sentence of imprisonment or who at the time of transfer is on parole as they have with reference to an offender convicted in a court of the United States except as otherwise provided in this chapter or in the pertinent treaty. Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4216; and 4218 of this title shall be applicable."
+Subsec. (b). Pub. L. 98–473 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with reference to an offender transferred to the United States to serve a sentence of imprisonment orwho at the time of transfer is on parole as they have with reference to an offender convicted in a court of the United States except as otherwise provided in this chapter or in the pertinent treaty. Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4216; and 4218 of this title shall be applicable."
 
 Subsec. (c). Pub. L. 98–473 struck out subsec. (c) which read as follows: "An offender transferred to the United States to serve a sentence of imprisonment may be released on parole at such time as the Parole Commission may determine."
 

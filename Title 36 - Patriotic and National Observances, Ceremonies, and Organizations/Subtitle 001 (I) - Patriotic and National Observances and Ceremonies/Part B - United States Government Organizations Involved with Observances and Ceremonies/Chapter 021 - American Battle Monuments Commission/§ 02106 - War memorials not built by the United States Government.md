@@ -18,7 +18,7 @@ Control, Administration, and Maintenance of War Memorials.—(1) The Commission 
 
 (c)
 
-Arrangements for Repair or Long-Term Maintenance of Memorials.—In assuming responsibility for a war memorial under subsection (b)(1) or (2) of this section, the Commission may arrange with the sponsors of the memorial to provide for repair or long-term maintenance of the memorial. An amount transferred to the Commission for the purpose of this subsection shall be deposited by the Commission in the fund established under subsection (d) of this section.
+Arrangements for Repair or Long-Term Maintenance of Memorials.—In assuming responsibility for a war memorial under subsection (b)(1) or (2) of this section, the Commission may arrange with the sponsors of the memorial to provide for repair or long-term maintenance of the memorial. An amount transferred to the Commission for the purpose of this subsection shall be deposited by the Commission inthe fund established under subsection (d) of this section.
 
 (d)
 

@@ -80,6 +80,7 @@
 | 579d–2. | Deauthorization of inactive projects. |
 | [579e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579e%20-%20Access%20to%20real%20estate%20data.md) | Access to real estate data. |
 | [579f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579f%20-%20Budgetary%20evaluation%20metrics%20and%20transparency%3B%20public%20participation.md) | Budgetary evaluation metrics and transparency; public participation. |
+| [579g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579g%20-%20Annual%20reports.md) | Annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -110,6 +111,8 @@
 | [597\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000597%20-%20Acquisition%20of%20lands%20for%20water%20resource%20development%20projects%3B%20information%20as%20to%20probable%20timing%20for%20acquisition%3B%20public%20meetings%E2%80%A6.md) | Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations. |
 | [598\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598%20-%20Resettlement%20of%20displaced%20families%2C%20individuals%2C%20and%20business%20concerns.md) | Resettlement of displaced families, individuals, and business concerns. |
 | [598a.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598a%20-%20Property%20acquisition.md) | Property acquisition. |
+| [598b.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598b%20-%20Minimum%20real%20estate%20interest.md) | Minimum real estate interest. |
+| [598c.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598c%20-%20Easements%20for%20hurricane%20and%20storm%20damage%20reduction%20projects.md) | Easements for hurricane and storm damage reduction projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

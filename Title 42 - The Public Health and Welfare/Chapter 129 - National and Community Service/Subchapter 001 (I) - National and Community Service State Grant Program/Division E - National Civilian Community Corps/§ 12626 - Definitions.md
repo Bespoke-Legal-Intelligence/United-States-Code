@@ -20,7 +20,7 @@ In this division:
 
 #### (5) Corps members
 
-&emsp;The term "Corps members" means persons receiving training and participating inprojects under the National Civilian Community Corps Program.
+&emsp;The term "Corps members" means persons receiving training and participating in projects under the National Civilian Community Corps Program.
 
 #### (6) Director
 
@@ -78,7 +78,7 @@ Corps camp.—The term 'Corps camp' means the facility or central location estab
 
 > Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 111–13, §1516(2)(B), (D), redesignated par. (4) as (5) and substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program". Former par. (5) redesignated (6).
+Par. (5). Pub. L. 111–13, §1516(2)(B), (D), redesignated par. (4) as (5) and substituted "National Civilian Community Corps Program" for "Civilian CommunityCorps Demonstration Program". Former par. (5) redesignated (6).
 
 Par. (6). Pub. L. 111–13, §1516(2)(B), (E), redesignated par. (5) as (6) and inserted "National" before "Civilian Community Corps". Former par. (6) redesignated (7).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Assistant Director for Emergency Communications, and in cooperation with the Department of National Communications System (as appropriate), shall, in cooperation with State, local, and tribal governments, Federal departments and agencies, emergency response providers, and the private sector, develop not later than 180 days after the completion of the baseline assessment under section 573 of this title, and periodically update, a National Emergency Communications Plan to provide recommendations regarding how the United States should—
+The Secretary, acting through the Assistant Director for Emergency Communications, and incooperation with the Department of National Communications System (as appropriate), shall, in cooperation with State, local, and tribal governments, Federal departments and agencies, emergency response providers, and the private sector, develop not later than 180 days after the completion of the baseline assessment under section 573 of this title, and periodically update, a National Emergency Communications Plan to provide recommendations regarding how the United States should—
 
 &emsp;(1) support and promote the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters; and
 
@@ -28,7 +28,7 @@ The National Emergency Communications Plan shall—
 
 &emsp;(6) identify how Federal departments and agencies that respond to natural disasters, acts of terrorism, and other man-made disasters can work effectively with State, local, and tribal governments, in all States, and with other entities;
 
-&emsp;(7) identify obstacles to deploying interoperable emergency communications capabilities nationwide and recommend short-term andlong-term measures to overcome those obstacles, including recommendations for multijurisdictional coordination among Federal, State, local, and tribal governments;
+&emsp;(7) identify obstacles to deploying interoperable emergency communications capabilities nationwide and recommend short-term and long-term measures to overcome those obstacles, including recommendations for multijurisdictional coordination among Federal, State, local, and tribal governments;
 
 &emsp;(8) recommend goals and timeframes for the deployment of emergency, command-level communications systems based on new and existing equipment across the United States and develop a timetable for the deployment of interoperable emergency communications systems nationwide;
 

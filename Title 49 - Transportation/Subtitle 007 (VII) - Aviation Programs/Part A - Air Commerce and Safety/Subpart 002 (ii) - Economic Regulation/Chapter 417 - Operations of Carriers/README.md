@@ -8,7 +8,7 @@
 | [41702\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041702%20-%20Interstate%20air%20transportation.md) | Interstate air transportation. |
 | [41703\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041703%20-%20Navigation%20of%20foreign%20civil%20aircraft.md) | Navigation of foreign civil aircraft. |
 | [41704\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041704%20-%20Transporting%20property%20not%20to%20be%20transported%20in%20aircraft%20cabins.md) | Transporting property not to be transported in aircraft cabins. |
-| [41705\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041705%20-%20Discrimination%20against%20handicapped%20individuals.md) | Discrimination against handicapped individuals. |
+| [41705\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041705%20-%20Discrimination%20against%20individuals%20with%20disabilities.md) | Discrimination against individuals with disabilities. |
 | [41706\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041706%20-%20Prohibitions%20against%20smoking%20on%20passenger%20flights.md) | Prohibitions against smoking on passenger flights. |
 | [41707\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041707%20-%20Incorporating%20contract%20terms%20into%20written%20instrument.md) | Incorporating contract terms into written instrument. |
 | [41708\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041708%20-%20Reports.md) | Reports. |
@@ -30,6 +30,14 @@
 | [41724\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041724%20-%20Musical%20instruments.md) | Musical instruments. |
 | [41725\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041725%20-%20Prohibition%20on%20certain%20cell%20phone%20voice%20communications.md) | Prohibition on certain cell phone voice communications. |
 | [41726\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041726%20-%20Strollers.md) | Strollers. |
+| [41727\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041727%20-%20Passenger%20Rights%201.md) | Passenger rights.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [41728\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041728%20-%20Airline%20passengers%20with%20disabilities%20bill%20of%20rights.md) | Airline passengers with disabilities bill of rights. |
+| [41729\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041729%20-%20COVID%E2%80%9319%20vaccination%20status.md) | COVID–19 vaccination status. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,20 +49,20 @@
 | [41732\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041732%20-%20Basic%20essential%20air%20service.md) | Basic essential air service. |
 | [41733\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041733%20-%20Level%20of%20basic%20essential%20air%20service.md) | Level of basic essential air service. |
 | [41734\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041734%20-%20Ending%2C%20suspending%2C%20and%20reducing%20basic%20essential%20air%20service.md) | Ending, suspending, and reducing basic essential air service. |
-| [41735\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041735%20-%20Enhanced%20essential%20air%20service.md) | Enhanced essential air service. |
+| \[41735. | Repealed.\] |
 | [41736\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041736%20-%20Air%20transportation%20to%20noneligible%20places.md) | Air transportation to noneligible places. |
 | [41737\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041737%20-%20Compensation%20guidelines%2C%20limitations%2C%20and%20claims.md) | Compensation guidelines, limitations, and claims. |
 | [41738\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041738%20-%20Fitness%20of%20air%20carriers.md) | Fitness of air carriers. |
 | [41739\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041739%20-%20Air%20carrier%20obligations.md) | Air carrier obligations. |
-| [41740\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041740%20-%20Joint%20proposals.md) | Joint proposals. |
+| \[41740. | Repealed.\] |
 | [41741\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041741%20-%20Insurance.md) | Insurance. |
 | [41742\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041742%20-%20Essential%20air%20service%20authorization.md) | Essential air service authorization. |
 | [41743\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041743%20-%20Airports%20not%20receiving%20sufficient%20service.md) | Airports not receiving sufficient service. |
-| [41744\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041744%20-%20Preservation%20of%20basic%20essential%20air%20service%20at%20single%20carrier%20dominated%20hub%20airports.md) | Preservation of basic essential air service at single carrier dominated hub airports. |
+| \[41744. | Repealed.\] |
 | [41745\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041745%20-%20Community%20and%20regional%20choice%20programs.md) | Community and regional choice programs. |
 | [41746\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041746%20-%20Tracking%20service.md) | Tracking service. |
 | \[41747. | Repealed.\] |
-| [41748\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041748%20-%20Marketing%20program.md) | Marketing program. |
+| \[41748. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,6 +84,10 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–63, title V, §561(g), (i), (j), (l), May 16, 2024, 138 Stat. 1216, 1217, which directed amendment of the analysis for subchapter II of this chapter by striking out items 41735 "Enhanced essential air service", 41740 "Joint proposals", 41744 "Preservation of basic essential air service at single carrier dominated hub airports", and 41748 "Marketing program", was executed to the analysis for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 118–63, title V, §§510(c), 550(d), title XI, §1107(b), May 16, 2024, 138 Stat. 1194, 1212, 1417, substituted "Discrimination against individuals with disabilities" for "Discrimination against handicapped individuals" in item 41705 and added items 41727 to 41729.
+
 <b>2018</b>—Pub. L. 115–254, div. B, title IV, §§403(b), 412(b), title V, §539(e), Oct. 5, 2018, 132 Stat. 3329, 3332, 3370, added items 41725 and 41726 and substituted "rules" for "Rules" in item 41718.
 
 <b>2012</b>—Pub. L. 112–95, title IV, §403(b), Feb. 14, 2012, 126 Stat. 85, which directed amendment of analysis for "such subchapter", meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
@@ -93,6 +105,8 @@ Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, s
 <b>1994</b>—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
 
 Pub. L. 103–305, title II, §§206(b), 207(b), Aug. 23, 1994, 108 Stat. 1587, 1588, added items 41714 and 41715.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

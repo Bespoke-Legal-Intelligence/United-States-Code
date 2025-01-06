@@ -20,7 +20,7 @@
 
 &emsp;(9) to conduct evaluation programs which study the effectiveness of new approaches, techniques, systems, programs, and devices employed to improve the corrections system;
 
-&emsp;(10) to receive from any Federal department or agency such statistics, data, program reports, and other material as the Institute deems necessary to carry out its functions. Each such department or agency is authorized to cooperate with the Institute and shall, to the maximum extent practicable, consult with and furnish information to the Institute;
+&emsp;(10) to receive from any Federal department or agency such statistics, data, program reports, and other material as the Institute deems necessary to carry out its functions.Each such department or agency is authorized to cooperate with the Institute and shall, to the maximum extent practicable, consult with and furnish information to the Institute;
 
 &emsp;(11) to arrange with and reimburse the heads of Federal departments and agencies for the use of personnel, facilities, or equipment of such departments and agencies;
 
@@ -28,7 +28,7 @@
 
 &emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
 
-&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 oftitle 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
+&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 

@@ -4,7 +4,7 @@
 
 #### (g) Fraud or misrepresentation
 
-No payment may be made under any guaranty, insurance, or reinsurance issued pursuant to this subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
+No payment may be made under any guaranty, insurance, or reinsurance issued pursuant tothis subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
 #### (h) to (k) Repealed. Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513
 
@@ -36,7 +36,7 @@ No payment may be made under any guaranty, insurance, or reinsurance issued purs
 
 Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 <sup>1</sup> of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(Pub. L. 87–195, pt. I, §237, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 814; amended Pub. L. 93–390, §2(4), Aug. 27, 1974, 88 Stat. 767; Pub. L. 95–268, §§5, 6, Apr. 24, 1978, 92 Stat. 215; Pub. L. 97–65, §6, Oct. 16, 1981, 95 Stat. 1023; Pub. L. 99–204, §§4(b), 6(b), 9(b)(2), Dec. 23, 1985, 99 Stat. 1670, 1671, 1673; Pub. L. 100–461, titleV, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §105, Oct. 28, 1992, 106 Stat. 3652; Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.)
+(Pub. L. 87–195, pt. I, §237, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 814; amended Pub. L. 93–390, §2(4), Aug. 27, 1974, 88 Stat. 767; Pub. L. 95–268, §§5, 6, Apr. 24, 1978, 92 Stat. 215; Pub. L. 97–65, §6, Oct. 16, 1981, 95 Stat. 1023; Pub. L. 99–204, §§4(b), 6(b), 9(b)(2), Dec. 23, 1985, 99 Stat. 1670, 1671, 1673; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §105, Oct. 28, 1992, 106 Stat. 3652; Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.)
 
 #### <b>Editorial Notes</b>
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 100–461 is based on section 110(c) of title I of H.R. 526
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (a) to (f), (h) to (k), (o). Pub. L. 115–254 repealed subsecs. (a) to (f), (h) to (k), and (o) which related to scope, protection of interest, guaranties as obligations backed by full faith and credit of United States, fees, maximum term of obligation, limitations on amounts, limits of obligation, claims settlement, presumption of compliance, balance of payments, and use of local currencies, respectively.
+<b>2018</b>—Subsecs. (a) to (f), (h) to (k), (o). Pub. L. 115–254 repealed subsecs. (a) to (f), (h) to (k), and (o) which related to scope, protection of interest, guaranties as obligations backed by full faith and credit of United States, fees, maximum term of obligation, limitations on amounts, limits of obligation, claims settlement,presumption of compliance, balance of payments, and use of local currencies, respectively.
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced."
 

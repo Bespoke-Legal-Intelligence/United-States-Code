@@ -36,7 +36,7 @@ Use of Public Agencies.—In carrying out this subchapter, the Secretary shall a
 
 (d)
 
-Facilities.—The Secretary may plan, design, and construct a new facility or modify anexisting facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $1,500,000 for planning, design, or construction may be made only if 60 days prior notice of the planning, design, or construction is provided to the Committees on Science, Space, and Technology and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. The notice shall include—
+Facilities.—The Secretary may plan, design, and construct a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $1,500,000 for planning, design, or construction may be made only if 60 days prior notice of the planning, design, or construction is provided to the Committees on Science, Space, and Technology and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. The notice shall include—
 
 &emsp;(1) a brief description of the facility being planned, designed, or constructed;
 

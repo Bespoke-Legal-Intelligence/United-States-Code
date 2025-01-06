@@ -6,7 +6,7 @@ Except as provided in subsection (b), the Secretary shall ensure that laboratory
 
 #### (b) Exception for national security laboratories
 
-This section shall not apply to the national security laboratories with respect to which section 3119 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) applies.
+This section shall not apply to the national security laboratories with respect to which section 3119 <sup>1</sup> of the National Defense AuthorizationAct for Fiscal Year 2017 (Public Law 114–328) applies.
 
 (Pub. L. 115–246, title I, §104, Sept. 28, 2018, 132 Stat. 3132.)
 

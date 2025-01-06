@@ -112,7 +112,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 (B) Not later than 1 year after August 8, 2005, and not less than once every 4 years thereafter, the task force shall submit to Congress and the President a report, in unclassified form with a classified annex if necessary, providing recommendations, including recommendations for appropriate regulatory and legislative changes, for—
 
-&emsp;(i) a list of additional radiation sources that should be required to be secured under thischapter, based on the potential attractiveness of the sources to terrorists and the extent of the threat to public health and safety of the sources, taking into consideration—
+&emsp;(i) a list of additional radiation sources that should be required to be secured under this chapter, based on the potential attractiveness of the sources to terrorists and the extent of the threat to public health and safety of the sources, taking into consideration—
 
 &emsp;&emsp;(I) radiation source radioactivity levels;
 

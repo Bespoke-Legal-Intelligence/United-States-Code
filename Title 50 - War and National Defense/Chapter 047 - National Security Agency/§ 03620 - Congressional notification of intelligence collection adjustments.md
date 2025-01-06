@@ -2,7 +2,7 @@
 
 #### (a) Notification
 
-Not later than 30 days after the date on which the Director of the National Security Agency determines the occurrence of an intelligence collection adjustment, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a notification of the intelligence collection adjustment.
+Not later than 30 days after the date on which the Director of the National Security Agency determines the occurrence of an intelligence collection adjustment, the Director shall submit to the congressional intelligence committees,the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a notification of the intelligence collection adjustment.
 
 #### (b) Definitions
 

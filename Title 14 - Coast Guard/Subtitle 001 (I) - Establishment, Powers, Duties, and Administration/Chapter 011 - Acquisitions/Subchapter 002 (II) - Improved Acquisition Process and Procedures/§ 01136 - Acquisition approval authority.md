@@ -4,7 +4,7 @@ Nothing in this subchapter shall be construed as altering or diminishing in any 
 
 &emsp;(1) manage and administer department procurements, including procurements by department components, as required by section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341); or
 
-&emsp;(2) manage department acquisition activities and act as the Acquisition Decision Authority with regard to the review or approval of a Coast Guard Level 1 or Level 2 acquisition project or program, as required by section 16 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 414) and related implementing regulations and directives.
+&emsp;(2) manage department acquisition activities and act as the Acquisition Decision Authority with regard to the review or approval of a Coast Guard Level 1 or Level 2 acquisition project or program, as required by section 16 <sup>1</sup> of the Office of Federal Procurement PolicyAct (41 U.S.C. 414) and related implementing regulations and directives.
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2948, §576; renumbered §1136, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
 

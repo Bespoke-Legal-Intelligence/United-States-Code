@@ -6,7 +6,7 @@ In the case of a participant who is a part-time student—
 
 &emsp;(2) a stipend may not be paid for any month during which the participant is not actually attending the course of training in which the participant is enrolled; and
 
-&emsp;(3) the Secretary may extend the period for which a scholarship may be awarded to theparticipant to a maximum of six school years if the Secretary determines that the extension would be in the best interest of the United States.
+&emsp;(3) the Secretary may extend the period for which a scholarship may be awarded to the participant to a maximum of six school years if the Secretary determines that the extension would be in the best interest of the United States.
 
 (Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 522, §4314; renumbered §7614, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

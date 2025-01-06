@@ -10,13 +10,15 @@
 
 |  |  |
 | :--- | ---: |
-| [205\.](%C2%A7%2000205%20-%20Missile%20Defense%20Agency.md) | Missile Defense Agency. |
+| \[205. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 205 "Missile Defense Agency". Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1676(c)(2), Dec. 12, 2017, 131 Stat. 1773, added item 205.
 
@@ -47,4 +49,4 @@ Pub. L. 105–85, div. A, title II, §235(b), Nov. 18, 1997, 111 Stat. 1665, add
 - [&sect; 00202 - Repealed. Pub. L. 105&#8211;107, title V, &sect;503(c), Nov. 20, 1997, 111 Stat. 2262](%C2%A7%2000202%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93107%2C%20title%20V%2C%20%C2%A7503%28c%29%2C%20Nov.%2020%2C%201997%2C%20111%20Stat.%202262.md)
 - [&sect; 00203 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(d)(1), Dec. 23, 2016, 130 Stat. 2102](%C2%A7%2000203%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28d%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202102.md)
 - [&sect; 00204 - Renumbered &sect;3848](%C2%A7%2000204%20-%20Renumbered%20%C2%A73848.md)
-- [&sect; 00205 - Missile Defense Agency](%C2%A7%2000205%20-%20Missile%20Defense%20Agency.md)
+- [&sect; 00205 - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000205%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)

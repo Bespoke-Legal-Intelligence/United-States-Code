@@ -6,9 +6,9 @@ In General.—The authority of the Secretary of Transportation to provide insura
 
 (b)
 
-Insurance of United States Government Property.—The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after March 8, 2024.
+Insurance of United States Government Property.—The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after September 30, 2028.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, title I, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588; Pub. L. 106–6, §6, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(f), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title VII, §711, Apr. 5, 2000, 114 Stat. 160; Pub. L. 108–11, title IV, §4001(c),Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(d), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 110–181, div. A, title III, §378, Jan. 28, 2008, 122 Stat. 85; Pub. L. 113–46, div. A, §154, Oct. 17, 2013, 127 Stat. 565; Pub. L. 113–66, div. A, title X, §1093, Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–76, div. L, title I, §119E(c), Jan. 17, 2014, 128 Stat. 582; Pub. L. 113–164, §148(c), Sept. 19, 2014, 128 Stat. 1874; Pub. L. 113–235, div. L, §102(c), Dec. 16, 2014, 128 Stat. 2767; Pub. L. 114–328, div. A, title X, §1046, Dec. 23, 2016, 130 Stat. 2395; Pub. L. 116–92, div. A, title III, §374, Dec. 20, 2019, 133 Stat. 1332; Pub. L. 117–328, div. Q, §103(b)(2), Dec. 29, 2022, 136 Stat. 5252; Pub. L. 118–15, div. B, title II, §2202(a), Sept. 30, 2023, 137 Stat. 82; Pub. L. 118–34, title I, §102(a), Dec. 26, 2023, 137 Stat. 1113.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, title I, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588; Pub. L. 106–6, §6, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(f), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title VII, §711, Apr. 5, 2000, 114 Stat. 160; Pub. L. 108–11, title IV, §4001(c), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(d), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 110–181, div. A, title III, §378, Jan. 28, 2008, 122 Stat. 85; Pub. L. 113–46, div. A, §154, Oct. 17, 2013, 127 Stat. 565; Pub. L. 113–66, div. A, title X, §1093, Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–76, div. L, title I, §119E(c), Jan. 17, 2014, 128 Stat. 582; Pub. L. 113–164, §148(c), Sept. 19, 2014, 128 Stat. 1874; Pub. L. 113–235, div. L, §102(c), Dec. 16, 2014, 128 Stat. 2767; Pub. L. 114–328, div. A, title X, §1046, Dec. 23, 2016, 130 Stat. 2395; Pub. L. 116–92, div. A, title III, §374, Dec. 20, 2019, 133 Stat. 1332; Pub. L. 117–328, div. Q, §103(b)(2), Dec. 29, 2022, 136 Stat. 5252; Pub. L. 118–15, div. B, title II, §2202(a), Sept. 30, 2023, 137 Stat. 82; Pub. L. 118–34, title I, §102(a), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §102(a), Mar. 8, 2024, 138 Stat. 21; Pub. L. 118–63, title I, §104(a), May 16, 2024, 138 Stat. 1034.)
 
 Historical and Revision Notes
 
@@ -31,6 +31,10 @@ The words "is not effective after" are substituted for "shall expire at the term
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–63 substituted "September 30, 2028" for "May 10, 2024".
+
+Pub. L. 118–41 substituted "May 10, 2024" for "March 8, 2024".
 
 <b>2023</b>—Subsec. (b). Pub. L. 118–34 substituted "March 8, 2024" for "December 31, 2023".
 
@@ -88,5 +92,5 @@ Pub. L. 105–85, div. A, title X, §1088(b), Nov. 18, 1997, 111 Stat. 1921, pro
 
 #### Continuation of Aviation Insurance Laws
 
-Pub. L. 102–581, title IV, §404, Oct. 31, 1992, 106 Stat. 4898, provided that: "Notwithstanding any other provision of law, the provisions of title XIII of the Federal Aviation Act of 1958 \[now this chapter\] and all insurance policies issued by the Secretary of Transportation under such title, as in effect on September 30, 1992, shall be treated as having continued in effect until the date of the enactment of this Act \[Oct. 31, 1992\]."
+Pub. L. 102–581, title IV, §404, Oct. 31, 1992, 106 Stat. 4898, provided that: "Notwithstanding any other provision of law, the provisions of title XIII of the Federal Aviation Act of 1958 \[now this chapter\] and all insurance policies issued by the Secretary of Transportationunder such title, as in effect on September 30, 1992, shall be treated as having continued in effect until the date of the enactment of this Act \[Oct. 31, 1992\]."
 

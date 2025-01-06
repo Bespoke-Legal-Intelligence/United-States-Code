@@ -22,7 +22,7 @@
 
 &emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the Selected Reserve of the participating uniformed services who are not otherwise described by subparagraph (A).
 
-> Such single level dollar amounts shall be used for the purposes of subsection (b). The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.
+> Such single level dollar amounts shall be used for the purposes of subsection (b). The Secretaryof Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.
 
 (2) If at the time of any such valuation there has been a change in benefits under the uniformed services retiree health care programs for medicare-eligible beneficiaries that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
 

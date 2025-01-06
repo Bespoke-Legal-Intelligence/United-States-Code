@@ -14,7 +14,7 @@ A request under subsection (a) shall specify the rule or rules to be waived or m
 
 #### (d) Consideration of requests
 
-In considering a request, the Secretary shall weigh the extent to which the proposed change is likely to further job creation, community development, or economic revitalization within the enterprise zone against the effect the change is likely to have on the underlying purposes of applicable statutes in the geographic area thatwould be affected by the change. The Secretary shall approve the request whenever the Secretary finds, in the discretion of the Secretary, that the public interest that the proposed change would serve in furthering such job creation, community development or economic revitalization outweighs the public interest that continuation of the rule unchanged would serve in furthering such underlying purposes. The Secretary shall not approve any request to waive or modify a rule if that waiver or modification would—
+In considering a request, the Secretary shall weigh the extent to which the proposed change is likely to further job creation, community development, or economic revitalization within the enterprise zone against the effect the change is likely to have on the underlying purposes of applicable statutes in the geographic area that would be affected by the change. The Secretary shall approve the request whenever the Secretary finds, in the discretion of the Secretary, that the public interest that the proposed change would serve in furthering such job creation, community development or economic revitalization outweighs the public interest that continuation of the rule unchanged would serve in furthering such underlying purposes. The Secretary shall not approve any request to waive or modify a rule if that waiver or modification would—
 
 &emsp;(1) directly violate a statutory requirement; or
 
@@ -26,7 +26,7 @@ If a request is disapproved, the Secretary shall inform the requesting governmen
 
 #### (f) Period for determination
 
-The Secretary shall discharge the responsibilities of the Secretary under this section in an expeditious manner, and shall make a determination on requests not later than 90 days after their receipt.
+The Secretary shall discharge the responsibilities of the Secretary under this section in anexpeditious manner, and shall make a determination on requests not later than 90 days after their receipt.
 
 #### (g) Applicable procedures
 

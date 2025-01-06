@@ -74,7 +74,7 @@ Revisions to cost methodology policy.—
 
 &emsp;&emsp;&emsp;(i)
 
-Requirement to revise and update.—Subject to rules and procedures established pursuant to clause (iii), not later than March 31, 2022, the Committee shall revise and update the cost methodology policy required and previously approved under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 20901 <sup>1</sup> note). The Committee shall implement a revised cost methodology policy during fiscal year 2023. Not later than 30 days after the adoption of the revised cost methodology policy, the Committee shall submit a report documenting and explaining any changes to the cost methodology policy and plans for implementation of such policy, including a description of the improvements to the accounting information provided by Amtrak to the States, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The revised cost methodology policy shall ensure that States will be responsible for costs attributable to the provision of service for their routes.
+Requirement to revise and update.—Subject to rules and procedures established pursuant to clause (iii), not later than March 31, 2022, the Committee shall revise and update the cost methodology policy required and previously approved under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 20901 <sup>1</sup> note). The Committee shallimplement a revised cost methodology policy during fiscal year 2023. Not later than 30 days after the adoption of the revised cost methodology policy, the Committee shall submit a report documenting and explaining any changes to the cost methodology policy and plans for implementation of such policy, including a description of the improvements to the accounting information provided by Amtrak to the States, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The revised cost methodology policy shall ensure that States will be responsible for costs attributable to the provision of service for their routes.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -226,7 +226,7 @@ Consultation.—In developing a new State-supported route, Amtrak shall consult 
 
 &emsp;(2)
 
-State commitments.—Notwithstanding any other provision of law, before beginningconstruction necessary for, or beginning operation of, a State-supported route that is initiated on or after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, Amtrak shall enter into a memorandum of understanding, or otherwise secure an agreement, with each State that would be providing funding for such route for sharing—
+State commitments.—Notwithstanding any other provision of law, before beginning construction necessary for, or beginning operation of, a State-supported route that is initiated on or after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, Amtrak shall enter into a memorandum of understanding, or otherwise secure an agreement, with each State that would be providing funding for such route for sharing—
 
 &emsp;&emsp;(A) ongoing operating costs and capital costs in accordance with the cost methodology policy referred to in subsection (a)(7) then in effect; or
 
@@ -324,9 +324,7 @@ Subsec. (f)(2). Pub. L. 117–58, §22211(e)(2), substituted "As applicable, bas
 
 Subsec. (f)(3). Pub. L. 117–58, §22211(e)(3), added par. (3).
 
-Subsecs. (g) to (l). Pub. L. 117–58, §22211(f), added subsecs. (g) to (j) and redesignated former subsecs. (g) and (h) as (k) and (l
-
-), respectively.
+Subsecs. (g) to (l). Pub. L. 117–58, §22211(f), added subsecs. (g) to (j) and redesignated former subsecs. (g) and (h) as (k) and (l), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

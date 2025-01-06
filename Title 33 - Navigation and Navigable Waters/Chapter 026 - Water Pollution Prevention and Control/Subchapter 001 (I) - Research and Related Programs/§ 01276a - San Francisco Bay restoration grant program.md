@@ -104,7 +104,7 @@ In this section:
 
 #### (1) Administrative expenses
 
-&emsp;Of the amount made available to carry out this section for a fiscal year, the Director maynot use more than 5 percent to pay administrative expenses incurred in carrying out this section.
+&emsp;Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
 
 #### (2) Prohibition
 

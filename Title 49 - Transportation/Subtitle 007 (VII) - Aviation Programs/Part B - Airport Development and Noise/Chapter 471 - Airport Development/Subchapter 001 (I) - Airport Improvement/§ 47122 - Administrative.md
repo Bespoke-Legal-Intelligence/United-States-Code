@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The Secretary of Transportation may take action the Secretary considers necessary to carry out this subchapter, including conducting investigations and public hearings, prescribing regulations and procedures, and issuing orders.
+General.—The Secretary of Transportation may take action the Secretary considersnecessary to carry out this subchapter, including conducting investigations and public hearings, prescribing regulations and procedures, and issuing orders.
 
 (b)
 

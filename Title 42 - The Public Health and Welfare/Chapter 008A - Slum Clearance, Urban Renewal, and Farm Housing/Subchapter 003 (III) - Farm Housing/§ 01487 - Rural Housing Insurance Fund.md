@@ -16,7 +16,7 @@ The Secretary may use the Rural Housing Insurance Fund for the purpose of making
 
 (1) The Secretary may, in conformity with subsections (a), (b), and (m), insure the payment of principal and interest on loans made by lenders other than the United States, and on loans made from or otherwise acquired by the Rural Housing Insurance Fund which are sold by the Secretary. Any contract of insurance executed by the Secretary hereunder shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or material misrepresentation of which the holder has actual knowledge. In connection with loans insured under this section, the Secretary may take liens running to the United States notwithstanding the fact that the notes evidencing such loans may be held by lenders other than the United States. Notes evidencing such loans shall be freely assignable, but the Secretary shall not be bound by any such assignment until notice thereof is given to and acknowledged by him.
 
-(2) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by an agreement by the Secretary to pay to the holder of such loan (through an agreement to purchase such loan or through such other means as the Secretary determines to be appropriate) the difference between therate of interest paid by the borrower of such loan and the market rate of interest (as determined by the Secretary) on obligations having comparable periods to maturity on the date of such sale.
+(2) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by an agreement by the Secretary to pay to the holder of such loan (through an agreement to purchase such loan or through such other means as the Secretary determines to be appropriate) the difference between the rate of interest paid by the borrower of such loan and the market rate of interest (as determined by the Secretary) on obligations having comparable periods to maturity on the date of such sale.
 
 (3) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by agreements for the benefit of the borrower under the loan that provide that—
 
@@ -68,7 +68,7 @@ The Secretary may also utilize the Fund—
 
 #### (k) Sale of loans as sale of assets
 
-Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c) and (g), shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
+Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c)and (g), shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
 
 #### (l) Commitments to make or insure loans to lenders, builders, or sellers; terms and conditions
 
@@ -104,7 +104,7 @@ Section 1441a(c) of title 12, referred to in subsec. (n), was repealed by Pub. L
 
 <b>1988</b>—Subsec. (j)(7). Pub. L. 100–242 added par. (7).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–272, §3006(a), inserted provision requiring any loan made and sold after Apr. 7,1986, to be sold to the public and not to Federal Financing Bank unless required to service transactions between Secretary and Bank occurring on or before such date.
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §3006(a), inserted provision requiring any loan made and sold after Apr. 7, 1986, to be sold to the public and not to Federal Financing Bank unless required to service transactions between Secretary and Bank occurring on or before such date.
 
 Subsec. (d). Pub. L. 99–272, §3006(b), (c), designated existing provisions as par. (1), and added pars. (2) to (4).
 

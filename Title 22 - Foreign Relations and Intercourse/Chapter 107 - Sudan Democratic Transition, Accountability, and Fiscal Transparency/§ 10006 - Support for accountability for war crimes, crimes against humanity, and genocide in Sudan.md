@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress that the Secretary of State should conduct robust diplomatic engagement to promote accountability and provide technical support to ensure that credible, transparent, and independent investigations ofgross violations of human rights perpetrated by the Government of Sudan under former President Omar al-Bashir and the Transitional Military Council since June 30, 1989.
+It is the sense of Congress that the Secretary of State should conduct robust diplomatic engagement to promote accountability and provide technical support to ensure that credible, transparent, and independent investigations of gross violations of human rights perpetrated by the Government of Sudan under former President Omar al-Bashir and the Transitional Military Council since June 30, 1989.
 
 #### (b) In general
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law (other than the Trafficking Victims P
 
 #### (c) Authorization of appropriations
 
-Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $10,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
+Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $10,000,000 is authorized to be appropriatedfor each such fiscal year to carry out this section.
 
 (Pub. L. 116–283, div. A, title XII, §1267, Jan. 1, 2021, 134 Stat. 3971.)
 

@@ -17,7 +17,7 @@
 
 #### Pilot Program for Streamlined Technology Transition From the SBIR and STTR Programs of the Department of Defense
 
-Pub. L. 115–91, div. A, title XVII, §1710, Dec. 12, 2017, 131 Stat. 1810, authorized the Secretary of Defense toestablish a pilot program under which the Department was to award multiple award contracts to certain small business concerns for the purchase of technologies, supplies, or services that the small business concern had developed through the SBIR or STTR program, and provided that such pilot program would terminate on Sept. 30, 2023.
+Pub. L. 115–91, div. A, title XVII, §1710, Dec. 12, 2017, 131 Stat. 1810, authorized the Secretary of Defense to establish a pilot program under which the Department was to award multiple award contracts to certain small business concerns for the purchase of technologies, supplies, or services that the small business concern had developed through the SBIR or STTR program, and provided that such pilot program would terminate on Sept. 30, 2023.
 
 #### Mentor-Protege Pilot Program
 

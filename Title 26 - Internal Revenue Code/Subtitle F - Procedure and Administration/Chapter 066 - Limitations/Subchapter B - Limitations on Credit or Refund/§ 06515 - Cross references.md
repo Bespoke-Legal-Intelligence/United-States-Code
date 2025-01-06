@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;<b>(5) Deficiency dividends of a regulated investment company or real estate investment trust, see section 860.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 813; Pub. L. 94–455, title XVI, §1601(f)(3), title XIX, §1901(b)(36)(D), (37)(E), Oct. 4, 1976, 90 Stat. 1746, 1802, 1803; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(10), Sept. 3, 1982, 96 Stat. 668; Pub. L. 101–508, title XI, §11801(c)(17)(C), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 114–74, title XI, §1101(f)(8), Nov. 2, 2015, 129 Stat. 638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 813; Pub. L. 94–455, title XVI, §1601(f)(3), title XIX, §1901(b)(36)(D), (37)(E), Oct. 4, 1976, 90 Stat. 1746, 1802, 1803; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(10), Sept. 3, 1982, 96 Stat. 668; Pub. L.101–508, title XI, §11801(c)(17)(C), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 114–74, title XI, §1101(f)(8), Nov. 2, 2015, 129 Stat. 638.)
 
 #### <b>Editorial Notes</b>
 

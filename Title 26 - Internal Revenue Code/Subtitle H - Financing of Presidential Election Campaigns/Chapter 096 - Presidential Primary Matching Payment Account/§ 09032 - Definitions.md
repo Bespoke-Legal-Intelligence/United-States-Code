@@ -42,7 +42,7 @@ For purposes of this chapter—
 
 &emsp;(10) The term "State" means each State of the United States and the District of Columbia.
 
-(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, §115(c)(2), title III, §306(b)(1), May 11, 1976, 90 Stat. 495, 500; Pub. L. 110–172, §11(a)(42)(C), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, §115(c)(2), title III, §306(b)(1), May 11, 1976, 90Stat. 495, 500; Pub. L. 110–172, §11(a)(42)(C), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### <b>Editorial Notes</b>
 

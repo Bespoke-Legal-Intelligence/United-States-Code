@@ -236,7 +236,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 1212(a)(3) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
+Amendment by section 1212(a)(3) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006,see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
 
 Pub. L. 109–280, title XII, §1232(c), Aug. 17, 2006, 120 Stat. 1099, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 17, 2006\]."
 

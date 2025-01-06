@@ -119,6 +119,42 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Pilot Program for Overseas Work-Period for DOD Competitive Service Positions
+
+Pub. L. 118–159, div. A, title XI, §1106, Dec. 23, 2024, 138 Stat. 2088, provided that:
+
+"(a)
+
+In General.—The 5-year limitation on competitive service employment in a foreign area in Department of Defense Instruction 1400.25, titled 'DoD Civilian Personnel Management System: Employment in Foreign Areas and Employee Return Rights' and issued on July 26, 2012 (or a successor instruction), may be extended by the first 0-6 in the employees chain of command for one additional 5 year term.
+
+"(b)
+
+Extension.—An extension request under subsection (a) shall not require a business case, or similar, analysis to justify the additional foreign area extension.
+
+"(c)
+
+Report.—Not later than December 31, 2025, and yearly after that for the next 5 years, the Secretary of Defense shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the following:
+
+&emsp;"(1) The impact of this section on recruiting and retaining civilian competitive service employees at the Department of Defense.
+
+&emsp;"(2) The total number of—
+
+&emsp;&emsp;"(A) Department employees that were able to remain in positions as a result of this section; and
+
+&emsp;&emsp;"(B) Department positions that were not open for initial appointments as a result of this section.
+
+&emsp;"(3) The grade and classification of Department positions affected by this section.
+
+&emsp;"(4) Any other information the Secretary deems appropriate.
+
+"(d)
+
+Foreign Area Defined.—In this section, the term 'foreign area' means any location that is not within a nonforeign area (as that term is defined in section 591.205 of title 5, Code of Federal Regulations, or any successor regulation).
+
+"(e)
+
+Sunset.—The authority under this section shall expire on the date that is 2 years after the date of the enactment of this Act \[Dec. 23, 2024\]."
+
 #### Diversity, Equity, and Inclusion Personnel Grade Cap
 
 Pub. L. 118–31, div. A, title XI, §1101, Dec. 22, 2023, 137 Stat. 426, provided that:
@@ -140,6 +176,30 @@ Covered Duties.—The duties referred to in subsection (a) are as follows:
 "(c)
 
 Applicability to Current Employees.—Any civilian employee appointed to a position with duties described in subsection (b) who is paid annual pay at a rate that exceeds the amount allowed under subsection (a) shall be reassigned to another position not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\]."
+
+#### Authorization To Pay a Living Quarters Allowance for Civilian Employees of the Department of Defense Stationed in Guam
+
+Pub. L. 118–31, div. A, title XI, §1102, Dec. 22, 2023, 137 Stat. 426, as amended by Pub. L. 118–159, div. A, title XI, §1103, Dec. 23, 2024, 138 Stat. 2087, provided that:
+
+"(a)
+
+Allowance.—When Government owned or rented quarters are not otherwise provided without charge to a covered employee, the Secretary of Defense may grant to a covered employee one or more of the following allowances:
+
+&emsp;"(1) A living quarters allowance for rent, heat, light, fuel, gas, electricity, and water. The Secretary is authorized to pay such allowance by reimbursement or by advance payments.
+
+&emsp;"(2) Under unusual circumstances, as determined by the Secretary, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs, alterations, and improvements to the privately leased residence in Guam of a covered employee—
+
+&emsp;&emsp;"(A) the expenses are administratively approved in advance; and
+
+&emsp;&emsp;"(B) the duration and terms of the lease justify payment of the expenses by the Government.
+
+"(b)
+
+Covered Employee Defined.—In this section, the term 'covered employee' means any civilian employee of the Department of Defense whose permanent duty station is located in Guam and who has been deemed by the Secretary of Defense to be employed in a position with critical shortages.
+
+"(c)
+
+Sunset.—The authority under this section shall terminate on January 1, 2034."
 
 #### Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions
 
@@ -233,7 +293,7 @@ In general.—The positions in the Department described in this subsection are p
 
 &emsp;&emsp;"(A)(i) at any defense industrial base facility (as that term is defined in section 2208(u)(3) of title 10, United States Code) that is part of the core logistics capabilities (as described in section 2464(a) of such title); or
 
-&emsp;&emsp;"(ii) at any Major Range and Test Facility Base (as that term is defined in section 196(i) of such title) \[now 10 U.S.C. 4173(i)\]; and
+&emsp;&emsp;"(ii) at any Major Range and Test Facility Base (as that term is defined in section 196(i) of such title) \[now 10 U.S.C. 4173(j)\]; and
 
 &emsp;&emsp;"(B) that have been certified by the Secretary of the military department concerned as lacking sufficient numbers of potential applicants.
 
@@ -367,7 +427,7 @@ Eligibility for dod assignment.—Subject to subsection (e), an individual eligi
 
 &emsp;&emsp;"(B) either—
 
-&emsp;&emsp;&emsp;"(i) expects to be awarded a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work not later than 180 days after the date on which the individual submits an application for participation in the fellows program;
+&emsp;&emsp;&emsp;"(i) expects to be awarded a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work not later than 180 days after the date onwhich the individual submits an application for participation in the fellows program;
 
 &emsp;&emsp;&emsp;"(ii) possesses a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work; or
 
@@ -411,7 +471,7 @@ Consultation.—The Secretary may consult with the heads of the agencies, compon
 
 #### John S. McCain Strategic Defense Fellows Program
 
-Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, §906, Dec. 20, 2019, 133 Stat. 1559; Pub. L. 117–81, div. A, title IX, §906, Dec. 27, 2021, 135 Stat. 1872; Pub. L. 118–31, div. A, title XI, §1113, Dec. 22, 2023, 137 Stat. 430, provided that:
+Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, §906, Dec. 20, 2019, 133 Stat. 1559; Pub. L. 117–81, div. A, title IX, §906, Dec. 27, 2021, 135 Stat. 1872; Pub. L. 118–31, div. A, title XI, §1113, Dec. 22, 2023, 137 Stat. 430; Pub. L. 118–159, div. A, title XI, §1112, Dec. 23, 2024, 138 Stat. 2090, provided that:
 
 "(a)
 
@@ -503,7 +563,7 @@ In general.—An individual who participates in the fellows program shall be app
 
 &emsp;"(2)
 
-Position requirements.—Each year, the head of each Department of Defense Component shall submit to the Secretary of Defense placement opportunities for participants in the fellows program. Such placement opportunities shall provide for leadership development and potential commencement of a career track toward a position of senior leadership in the Department. The Secretary of Defense, in coordination with the heads of Department of Defense Components, shall establish qualification requirements for the appointment of participants under paragraph (1).
+Position requirements.—Each year, the head of each Department of Defense Component shall submit to the Secretary of Defense placement opportunities for participants in the fellows program. Such placement opportunities shall provide for leadership development and potential commencement of a career track toward a position of senior leadership in the Department. The Secretary of Defense, in coordination with the heads of Department of Defense Components, shall establish qualification requirements for the appointment of participants under paragraph (1) and subsection (f)(2).
 
 &emsp;"(3)
 
@@ -538,6 +598,30 @@ In general.—The Secretary of Defense shall ensure that participants in the fel
 &emsp;&emsp;"(B) are provided appropriate employment opportunities for competitive and excepted service positions in the Department upon successful completion of the fellows program.
 
 &emsp;"(2)
+
+Noncompetitive appointment or conversion.—
+
+&emsp;&emsp;"(A)
+
+In general.—Upon a participant's successful completion of the fellows program, the Secretary may, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, noncompetitively appoint or convert the participant into a vacant competitive or excepted service position in the Department, if the Secretary determines that such appointment or conversion will contribute to the development of highly qualified future senior leaders for the Department.
+
+&emsp;&emsp;"(B)
+
+Grade.—The Secretary may appoint or convert a participant under subparagraph (A) into a position at or below the level of GS–13 of the General Schedule or an equivalent position for which the participant is qualified without regard to any minimum time-in-grade requirements.
+
+&emsp;&emsp;"(C)
+
+Consent.—Before converting an individual to the competitive service under this paragraph, the Secretary shall notify and receive written consent from the individual of the individual's change in status.
+
+&emsp;"(3)
+
+Appointment of former participants.—The Secretary may use the authority provided by paragraph (2) for a participant—
+
+&emsp;&emsp;"(A) not later than one year after the date of the participant's successful completion of the fellows program; or
+
+&emsp;&emsp;"(B) in the case of a participant who entered the fellows program before the date of the enactment of this subparagraph, not later than one year after such date of enactment.
+
+&emsp;"(4)
 
 Publication of selection.—The Secretary shall publish, on an Internet website of the Department available to the public, the names of the individuals selected to participate in the fellows program.
 
@@ -647,7 +731,7 @@ Performance awards.—Individuals serving with the Department as cybersecurity o
 
 &emsp;"(4)
 
-Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitmentand retention of highly skilled and productive cybersecurity and legal professionals to and with the Department.
+Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitment and retention of highly skilled and productive cybersecurity and legal professionals to and with the Department.
 
 "(g)
 
@@ -811,7 +895,7 @@ Pub. L. 114–328, div. A, title XI, §1106, Dec. 23, 2016, 130 Stat. 2447, as a
 
 "(a)
 
-Hiring Authority.—Without regard to sections 3309 through 3318, 3327, and 3330 of title 5, United States Code, the Secretary of Defense may recruit and appoint qualified recent graduates and current post-secondary students to competitive service positions in professional and administrative occupations within the Department of Defense.
+Hiring Authority.—Without regard to sections 3309 through 3318, 3327, and 3330 of title 5, United States Code, the Secretary of Defense may recruit and appoint qualified recent graduates and current post-secondarystudents to competitive service positions in professional and administrative occupations within the Department of Defense.
 
 "(b)
 
@@ -863,11 +947,11 @@ Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, as a
 
 #### Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation
 
-Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, §1107(a), Dec. 20, 2019, 133 Stat. 1597; Pub. L. 118–31, div. A, title XI, §1107, Dec. 22, 2023, 137 Stat. 427, provided that:
+Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, §1107(a), Dec. 20, 2019, 133 Stat. 1597; Pub. L. 118–31, div. A, title XI, §1107, Dec. 22, 2023, 137 Stat. 427; Pub. L. 118–159, div. A, title XI, §1111(a), Dec. 23, 2024, 138 Stat. 2089, provided that:
 
 "(a)
 
-Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2028, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
+Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2030, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
 
 "(b)
 
@@ -893,7 +977,7 @@ In General.—Notwithstanding chapter 33 of title 5, United States Code, or any 
 
 "(b)
 
-Waiver of Age Requirement.—In determining the eligibility of a time-limited employee under this section to be examined for or appointed in the competitive service, the Office of Personnel Management or other examining agency shall waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.
+Waiver of Age Requirement.—In determining the eligibility of a time-limited employee under thissection to be examined for or appointed in the competitive service, the Office of Personnel Management or other examining agency shall waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.
 
 "(c)
 
@@ -969,7 +1053,7 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 &emsp;"(1) shall ensure that the authority in subsection (a) is utilized to build government capabilities that are needed to perform inherently governmental functions, functions closely associated with inherently governmental functions, and other critical functions;
 
-&emsp;"(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilianemployees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
+&emsp;"(2) shall include a mechanism to ensure that follow-on funding to provide compensation for civilian employees of the Department to perform functions described in paragraph (1) is provided from appropriate accounts; and
 
 &emsp;"(3) may establish additional criteria and levels of approval within the Department for the utilization of funds to provide compensation for civilian employees of the Department pursuant to subsection (a).
 

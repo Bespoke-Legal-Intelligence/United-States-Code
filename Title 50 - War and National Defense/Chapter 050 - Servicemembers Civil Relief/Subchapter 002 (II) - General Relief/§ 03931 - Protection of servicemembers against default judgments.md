@@ -20,7 +20,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (3) Defendant's military status not ascertained by affidavit
 
-&emsp;If based upon the affidavits filed in such an action, the court is unable to determine whether the defendant is in military service, the court, before entering judgment, may require the plaintiff to file a bond in an amount approved by the court. If the defendant is laterfound to be in military service, the bond shall be available to indemnify the defendant against any loss or damage the defendant may suffer by reason of any judgment for the plaintiff against the defendant, should the judgment be set aside in whole or in part. The bond shall remain in effect until expiration of the time for appeal and setting aside of a judgment under applicable Federal or State law or regulation or under any applicable ordinance of a political subdivision of a State. The court may issue such orders or enter such judgments as the court determines necessary to protect the rights of the defendant under this chapter.
+&emsp;If based upon the affidavits filed in such an action, the court is unable to determine whether the defendant is in military service, the court, before entering judgment, may require the plaintiff to file a bond in an amount approved by the court. If the defendant is later found to be in military service, the bond shall be available to indemnify the defendant against any loss or damage the defendant may suffer by reason of any judgment for the plaintiff against the defendant, should the judgment be set aside in whole or in part. The bond shall remain in effect until expiration of the time for appeal and setting aside of a judgment under applicable Federal or State law or regulation or under any applicable ordinance of a political subdivision of a State. The court may issue such orders or enter such judgments as the court determines necessary to protect the rights of the defendant under this chapter.
 
 #### (4) Satisfaction of requirement for affidavit
 
@@ -28,7 +28,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (c) Penalty for making or using false affidavit
 
-A person who makes or uses an affidavit permitted under subsection (b) (or a statement, declaration, verification, or certificate as authorized under subsection (b)(4)) knowing it to be false, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
+A person who makes or uses an affidavit permitted under subsection (b) (or a statement,declaration, verification, or certificate as authorized under subsection (b)(4)) knowing it to be false, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
 #### (d) Stay of proceedings
 

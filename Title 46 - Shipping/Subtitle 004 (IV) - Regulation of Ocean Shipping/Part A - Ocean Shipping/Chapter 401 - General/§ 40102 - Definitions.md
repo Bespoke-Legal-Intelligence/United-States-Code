@@ -90,7 +90,7 @@ Conference.—The term "conference"—
 
 Controlled carrier.—The term "controlled carrier" means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
 
-&emsp;&emsp;(A) a majority of the interest in the carrier is owned or controlled in any manner by that government, an agency of that government, or a public or private person controlled by that government; or
+&emsp;&emsp;(A) a majority of the interest in the carrier is owned or controlled in any manner bythat government, an agency of that government, or a public or private person controlled by that government; or
 
 &emsp;&emsp;(B) that government has the right to appoint or disapprove the appointment of a majority of the directors, the chief operating officer, or the chief executive officer of the carrier.
 
@@ -202,7 +202,7 @@ Through rate.—The term "through rate" means the single amount charged by a com
 
 &emsp;(26)
 
-Through transportation.—The term "through transportation" means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
+Through transportation.—The term "through transportation" means continuous transportation between origin and destinationfor which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523; Pub. L. 115–282, title VII, §704, Dec. 4, 2018, 132 Stat. 4294.)
 

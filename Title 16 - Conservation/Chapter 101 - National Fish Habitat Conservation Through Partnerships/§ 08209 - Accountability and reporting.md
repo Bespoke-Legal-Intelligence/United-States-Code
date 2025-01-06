@@ -1,50 +1,52 @@
 ### §8209. Accountability and reporting
 
-#### (a) Reporting
+#### (a) In general
 
-#### (1) In general
+Not later than 5 years after October 30, 2020, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report describing the progress of this chapter.
 
-&emsp;Not later than 5 years after October 30, 2020, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report describing the progress of this chapter.
+#### (b) Contents
 
-#### (2) Contents
+Each report submitted under subsection (a) shall include—
 
-&emsp;Each report submitted under paragraph (1) shall include—
+&emsp;(1) an estimate of the number of acres, stream miles, or acre-feet, or other suitable measures of fish habitat, that was maintained or improved by Partnerships under this chapter during the 5-year period ending on the date of submission of the report;
 
-&emsp;&emsp;(A) an estimate of the number of acres, stream miles, or acre-feet, or other suitable measures of fish habitat, that was maintained or improved by Partnerships under this chapter during the 5-year period ending on the date of submission of the report;
+&emsp;(2) a description of the public access to fish habitats established or improved under this chapter during that 5-year period;
 
-&emsp;&emsp;(B) a description of the public access to fish habitats established or improved under this chapter during that 5-year period;
+&emsp;(3) a description of the improved opportunities for public recreational fishing achieved under this chapter;
 
-&emsp;&emsp;(C) a description of the improved opportunities for public recreational fishing achieved under this chapter; and
+&emsp;(4) a description of the status of fish habitats in the United States as identified by Partnerships; and
 
-&emsp;&emsp;(D) an assessment of the status of fish habitat conservation projects carried out with funds provided under this chapter during that period, disaggregated by year, including—
+&emsp;(5) an assessment of the status of fish habitat conservation projects carried out with funds provided under this chapter during that period, disaggregated by year, including—
 
-&emsp;&emsp;&emsp;(i) a description of the fish habitat conservation projects recommended by the Board under section 8205(b) of this title;
+&emsp;&emsp;(A) a description of the fish habitat conservation projects recommended by the Board under section 8205(b) of this title;
 
-&emsp;&emsp;&emsp;(ii) a description of each fish habitat conservation project approved by the Secretary under section 8205(f) of this title, in order of priority for funding;
+&emsp;&emsp;(B) a description of each fish habitat conservation project approved by the Secretary under section 8205(f) of this title, in order of priority for funding;
 
-&emsp;&emsp;&emsp;(iii) a justification for—
+&emsp;&emsp;(C) a justification for—
 
-&emsp;&emsp;&emsp;&emsp;(I) the approval of each fish habitat conservation project; and
+&emsp;&emsp;&emsp;(i) the approval of each fish habitat conservation project; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the order of priority for funding of each fish habitat conservation project;
+&emsp;&emsp;&emsp;(ii) the order of priority for funding of each fish habitat conservation project;
 
-&emsp;&emsp;&emsp;(iv) a justification for any rejection of a fish habitat conservation project recommended by the Board under section 8205(b) of this title that was based on a factor other than the criteria described in section 8205(c) of this title; and
+&emsp;&emsp;(D) a justification for any rejection of a fish habitat conservation project recommended by the Board under section 8205(b) of this title that was based on a factor other than the criteria described in section 8205(c) of this title; and
 
-&emsp;&emsp;&emsp;(v) an accounting of expenditures by Federal, State, or local governments, Indian Tribes, or other entities to carry out fish habitat conservation projects under this chapter.
+&emsp;&emsp;(E) an accounting of expenditures by Federal, State, or local governments, Indian Tribes, or other entities to carry out fish habitat conservation projects under this chapter.
 
-#### (b) Status and trends report
+(Pub. L. 116–188, title II, §209, Oct. 30, 2020, 134 Stat. 935; Pub. L. 118–198, title II, §205, Dec. 23, 2024, 138 Stat. 2682.)
 
-Not later than December 31, 2021, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report that includes—
+#### <b>Editorial Notes</b>
 
-&emsp;(1) a status of all Partnerships designated under this chapter;
+#### Amendments
 
-&emsp;(2) a description of the status of fish habitats in the United States as identified by designated Partnerships; and
+<b>2024</b>—Subsec. (a). Pub. L. 118–198, §205(2)(A), inserted subsec. (a) designation and heading and struck out former subsec. (a) designation and heading "Reporting" and former par. (1) designation and heading "In general" before "Not later than".
 
-&emsp;(3) enhancements or reductions in public access as a result of—
+Subsec. (a)(2). Pub. L. 118–198, §205(2)(B), redesignated par. (2) of subsec. (a) as subsec. (b) and realigned margins.
 
-&emsp;&emsp;(A) the activities of the Partnerships; or
+Subsec. (b). Pub. L. 118–198, §205(1), (2)(B), (3)(A), (B), redesignated par. (2) of subsec. (a) as subsec. (b) and subpars. (A), (B), (C), and (D) of former par. (2) of subsec. (a) as pars. (1), (2), (3), and (5), respectively, of subsec. (b), realigned margins, substituted "subsection (a)" for "paragraph (1)" in introductory provisions, and struck out former subsec. (b) which authorized the Board to submit status and trends report to appropriate congressional committees.
 
-&emsp;&emsp;(B) any other activities carried out pursuant to this chapter.
+Subsec. (b)(4). Pub. L. 118–198, §205(3)(C), (D), added par. (4).
 
-(Pub. L. 116–188, title II, §209, Oct. 30, 2020, 134 Stat. 935.)
+Subsec. (b)(5). Pub. L. 118–198, §205(3)(E)(i), redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, and realigned margins.
+
+Subsec. (b)(5)(C). Pub. L. 118–198, §205(3)(E)(ii), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and realigned margins.
 

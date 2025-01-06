@@ -262,7 +262,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. (a) America's cybersecurity workforce is a strategic asset that protects the American people, the homeland, and the American way of life. The National Cyber Strategy, the President's 2018 Management Agenda, and Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) \[set out above\], each emphasize \[sic\] that a superior cybersecurity workforce will promote American prosperity and preserve peace. America's cybersecurity workforce is a diverse group of practitioners who govern, design, defend, analyze, administer, operate, and maintain the data, systems, and networks on which our economy and way of life depend. Whether they are employed in the public or private sectors, they are guardians of our national and economic security.
 
-(b) The United States Government must enhance the workforce mobility of America's cybersecurity practitioners to improve America's national cybersecurity. During their careers, America's cybersecurity practitioners will serve in various roles for multiple and diverse entities. United States Government policy must facilitate the seamless movement of cybersecuritypractitioners between the public and private sectors, maximizing the contributions made by their diverse skills, experiences, and talents to our Nation.
+(b) The United States Government must enhance the workforce mobility of America's cybersecurity practitioners to improve America's national cybersecurity. During their careers, America's cybersecurity practitioners will serve in various roles for multiple and diverse entities. United States Government policy must facilitate the seamless movement of cybersecurity practitioners between the public and private sectors, maximizing the contributions made by their diverse skills, experiences, and talents to our Nation.
 
 (c) The United States Government must support the development of cybersecurity skills and encourage ever-greater excellence so that America can maintain its competitive edge in cybersecurity. The United States Government must also recognize and reward the country's highest-performing cybersecurity practitioners and teams.
 
@@ -338,7 +338,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

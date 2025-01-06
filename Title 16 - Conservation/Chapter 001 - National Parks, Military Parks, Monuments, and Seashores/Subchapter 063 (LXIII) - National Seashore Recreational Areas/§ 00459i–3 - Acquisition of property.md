@@ -6,7 +6,7 @@ With the exception of any property deemed necessary by the Secretary for visitor
 
 #### (b) Commercial use prohibition; termination of use and occupancy upon tender of compensation
 
-A right of use and occupancy retained or enjoyed pursuant to this section may be terminated with respect to the entire property by the Secretary upon his determination that the property or any portion thereof has ceased to be used for noncommercial residential purposes andupon tender to the holder of a right an amount equal to the fair market value, as of the date of tender, of that portion of the right which remains unexpired on the date of termination.
+A right of use and occupancy retained or enjoyed pursuant to this section may be terminated with respect to the entire property by the Secretary upon his determination that the property or any portion thereof has ceased to be used for noncommercial residential purposes and upon tender to the holder of a right an amount equal to the fair market value, as of the date of tender, of that portion of the right which remains unexpired on the date of termination.
 
 #### (c) "Improved property" defined
 

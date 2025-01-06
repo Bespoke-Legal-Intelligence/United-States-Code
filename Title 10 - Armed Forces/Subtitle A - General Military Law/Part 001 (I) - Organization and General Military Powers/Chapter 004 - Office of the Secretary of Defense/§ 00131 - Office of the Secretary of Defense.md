@@ -180,7 +180,7 @@ Amendment by section 1847(e)(6)(A) of Pub. L. 116–283 effective Jan. 1, 2022, 
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendmentmade by section 910(c)(1) was effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328, was repealed by Pub. L. 116–283, div. A, title IX, §901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(c)(1) was effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328, was repealed by Pub. L. 116–283, div. A, title IX, §901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 Pub. L. 115–91, div. A, title X, §1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A), (D) is effective as of Dec. 23, 2016.
 
@@ -272,7 +272,7 @@ Executive Agent for National Mobilization.—The Secretary of Defense shall desi
 
 &emsp;"(1) developing, managing, and coordinating policy and plans that address the full spectrum of military mobilization readiness, including full mobilization of personnel from volunteers to other persons inducted into the Armed Forces under the Military Selective Service Act (50 U.S.C. 3801 et seq.);
 
-&emsp;"(2) providing Congress and the Selective Service System with updated requirements and timelines for obtaining inductees in the event of a national emergency requiring mass mobilization and induction ofpersonnel under the Military Selective Service Act for training and service in the Armed Forces; and
+&emsp;"(2) providing Congress and the Selective Service System with updated requirements and timelines for obtaining inductees in the event of a national emergency requiring mass mobilization and induction of personnel under the Military Selective Service Act for training and service in the Armed Forces; and
 
 &emsp;"(3) providing Congress with a plan, developed in coordination with the Selective Service System, to induct large numbers of volunteers who may respond to a national call for volunteers during an emergency.
 
@@ -402,7 +402,7 @@ Covered individuals and positions.—The individuals and positions specified in 
 
 &emsp;"(A) In the case of the individual serving as Director of Defense Research and Engineering, the position of Assistant Secretary of Defense for Research and Engineering.
 
-&emsp;"(B) In the case of the individual serving as Director of Operational Energy Plans and Programs, the position of Assistant Secretary of Defense for Operational Energy Plans and Programs.
+&emsp;"(B) In the case of the individual serving as Director of Operational Energy Plans and Programs, theposition of Assistant Secretary of Defense for Operational Energy Plans and Programs.
 
 &emsp;"(C) In the case of the individual serving as Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, the position of Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs."
 

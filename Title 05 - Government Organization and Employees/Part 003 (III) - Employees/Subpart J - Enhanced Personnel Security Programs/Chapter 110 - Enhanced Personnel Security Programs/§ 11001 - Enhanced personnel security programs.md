@@ -46,7 +46,7 @@ In general.—The enhanced personnel security program of an agency shall require
 
 &emsp;&emsp;(B)
 
-Scope of reviews.—Except for a covered individual who is subject to more frequent reviews to ensure the continued eligibility of the covered individual to access classified information and hold a sensitive position, the reviews under subparagraph (A) shall consist of random or aperiodic checks of covered individuals, such that each covered individual is subject to at least 2 reviews during the 5-year period beginning on the date on which the agency implements the enhanced personnel security program of an agency, and during each 5-year period thereafter.
+Scope of reviews.—Except for a covered individual who is subject to more frequent reviews to ensure the continued eligibility of the covered individual to access classified information and hold a sensitive position, the reviews under subparagraph (A) shall consist of random or aperiodic checks of covered individuals, such that each covered individual is subject to at least 2 reviews during the 5-year period beginning on the date on which the agency implements the enhanced personnel security program ofan agency, and during each 5-year period thereafter.
 
 &emsp;&emsp;(C)
 
@@ -58,7 +58,7 @@ Results.—The head of an agency shall take appropriate action if a review under
 
 &emsp;(3)
 
-Information for covered individuals.—The head of an agency shall ensure that eachcovered individual is adequately advised of the types of relevant security or counterintelligence information the covered individual is required to report to the head of the agency.
+Information for covered individuals.—The head of an agency shall ensure that each covered individual is adequately advised of the types of relevant security or counterintelligence information the covered individual is required to report to the head of the agency.
 
 &emsp;(4)
 

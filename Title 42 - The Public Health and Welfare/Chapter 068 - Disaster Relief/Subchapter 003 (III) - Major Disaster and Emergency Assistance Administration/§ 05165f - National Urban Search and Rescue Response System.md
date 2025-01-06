@@ -104,7 +104,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (A) In general
 
-&emsp;&emsp;Subject to such terms and conditions as the Administrator may impose by regulation, the Administrator shall make payments to the sponsoring agency of a task force to be used to reimburse each employer of a System member on the task force for compensation paid by the employer to an employee filling a position normally filled by the System member for any period during which the System member is appointed into Federal service under subsection (f)(1).
+&emsp;&emsp;Subject to such terms and conditions as the Administrator may impose by regulation, the Administrator shall make payments to the sponsoring agency of a task force to be used to reimburse each employer of a System member on the task force for compensation paid by the employer to anemployee filling a position normally filled by the System member for any period during which the System member is appointed into Federal service under subsection (f)(1).
 
 #### (B) Limitation
 
@@ -118,7 +118,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (1) In general
 
-&emsp;A System member who is appointed into Federal service under subsection (f)(1) and whosuffers personal injury, illness, disability, or death as a result of a personal injury sustained while acting in the scope of such appointment, shall, for the purposes of subchapter I of chapter 81 of title 5, be treated as though the member were an employee (as defined by section 8101 of that title) who had sustained the injury in the performance of duty.
+&emsp;A System member who is appointed into Federal service under subsection (f)(1) and who suffers personal injury, illness, disability, or death as a result of a personal injury sustained while acting in the scope of such appointment, shall, for the purposes of subchapter I of chapter 81 of title 5, be treated as though the member were an employee (as defined by section 8101 of that title) who had sustained the injury in the performance of duty.
 
 #### (2) Election of benefits
 

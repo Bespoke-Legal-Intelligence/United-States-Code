@@ -24,7 +24,7 @@ Real property interests conveyed pursuant to this chapter to a Native individual
 
 #### (f) Stocks of Regional and Village Corporations exempt from estate taxes; period of exemption
 
-Until January 1, 1992, stock of any Regional Corporation organized pursuant to section 1606 of this title, including the right to receive distributions under subsection 1606(j) of this title, and stock of any Village Corporation organized pursuant to section 1607 of this title shall not be includable in the gross estate of a decedentunder sections 2031 and 2033, or any successor provisions, of title 26.
+Until January 1, 1992, stock of any Regional Corporation organized pursuant to section 1606 of this title, including the right to receive distributions under subsection 1606(j) of this title, and stock of any Village Corporation organized pursuant to section 1607 of this title shall not be includable in the gross estate of a decedent under sections 2031 and 2033, or any successor provisions, of title 26.
 
 #### (g) Resource information or analysis; professional or technical services
 
@@ -64,7 +64,7 @@ The Johnson-O'Malley Act of April 16, 1934, as amended (25 U.S.C. 452), referred
 
 Public Law 815, 81st Congress (64 Stat. 967), referred to in subsec. (e), is act Sept. 23, 1950, ch. 995, as amended generally by Pub. L. 85–620, title I, §101, Aug. 12, 1958, 72 Stat. 548, which was classified generally to chapter 19 (§631 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-Public Law 874, 81st Congress (64 Stat. 1100), referred to in subsec. (e), is act Sept. 30, 1950, ch. 1124, 64 Stat.1100, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Public Law 874, 81st Congress (64 Stat. 1100), referred to in subsec. (e), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

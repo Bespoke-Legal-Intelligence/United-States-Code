@@ -20,9 +20,13 @@ The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–170, §1, Dec. 23, 2024, 138 Stat. 2589, provided that: "This Act \[amending sections 2214 and 2241 of this title\] may be cited as the 'Drought Preparedness Act'."
+
 #### Short Title
 
-Pub. L. 102–250, §1, Mar. 5, 1992, 106 Stat. 53, provided that: "This Act \[enacting this chapter\] may be cited asthe 'Reclamation States Emergency Drought Relief Act of 1991'."
+Pub. L. 102–250, §1, Mar. 5, 1992, 106 Stat. 53, provided that: "This Act \[enacting this chapter\] may be cited as the 'Reclamation States Emergency Drought Relief Act of 1991'."
 
 #### <b>Executive Documents</b>
 
@@ -174,7 +178,7 @@ Sec. 6. <i>Regional Coordination and Implementation</i>.
 
 Sec. 7. <i>Definitions</i>. (a) "Agencies" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies.
 
-(b) "Critical infrastructure" has the meaning provided in section 1016(e) of the USA Patriot Act of 2001 (42 U.S.C. 5195c(e)), namely, systems and assets, whether physical or virtual, so vital to the United Statesthat the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
+(b) "Critical infrastructure" has the meaning provided in section 1016(e) of the USA Patriot Act of 2001 (42 U.S.C. 5195c(e)), namely, systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
 
 (c) "Drought" has the meaning provided in section 2(1) of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d note), namely, a deficiency in precipitation that leads to a deficiency in surface or subsurface water supplies (including rivers, streams, wetlands, groundwater, soil moisture, reservoir supplies, lake levels, and snow pack); and that causes or may cause substantial economic or social impacts or substantial physical damage or injury to individuals, property, or the environment.
 

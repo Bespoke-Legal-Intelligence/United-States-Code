@@ -64,7 +64,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (6) Appropriate committees of Congress
 
-&emsp;For purposes of this section, the term "appropriate committees of Congress" means theCommittees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate.
+&emsp;For purposes of this section, the term "appropriate committees of Congress" means the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
 #### (7) Voting and reporting requirements
 
@@ -192,7 +192,7 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (b)(10), 
 
 #### Codification
 
-In subsec. (d)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)"on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -276,7 +276,7 @@ Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provide
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
-Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The Medicare Payment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
 
 &emsp;"(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
 

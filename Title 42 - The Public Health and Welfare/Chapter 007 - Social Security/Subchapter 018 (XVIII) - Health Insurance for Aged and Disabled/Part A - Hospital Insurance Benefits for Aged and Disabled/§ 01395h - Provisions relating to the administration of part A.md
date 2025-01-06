@@ -192,7 +192,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 Amendment by section 203(f) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(1)(B) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L.100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(1)(B) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
@@ -262,7 +262,7 @@ Pub. L. 100–203, title IV, §4031(b), (c), Dec. 22, 1987, 101 Stat. 1330–76,
 
 #### Amendments to Agreements and Contracts Necessary To Implement Section 4032(a), (b) of Pub. L. 100–203
 
-Pub. L. 100–203, title IV, §4032(c)(2), Dec. 22, 1987, 101 Stat. 1330–77, provided that: "The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 \[42 U.S.C. 1395h\] and contracts under section 1842 of the Social Security Act \[42 U.S.C. 1395u\], and regulations, to such extent as may be necessary to implement theamendments made by subsections (a) and (b) \[amending this section\] on a timely basis."
+Pub. L. 100–203, title IV, §4032(c)(2), Dec. 22, 1987, 101 Stat. 1330–77, provided that: "The Secretary of Health and Human Services shall provide for such timelyamendments to agreements under section 1816 \[42 U.S.C. 1395h\] and contracts under section 1842 of the Social Security Act \[42 U.S.C. 1395u\], and regulations, to such extent as may be necessary to implement the amendments made by subsections (a) and (b) \[amending this section\] on a timely basis."
 
 #### Replacement of Agency, Organization, or Carrier Processing Medicare Claims; Number of Agreements and Contracts Authorized for Fiscal Years 1985 Through 1993
 

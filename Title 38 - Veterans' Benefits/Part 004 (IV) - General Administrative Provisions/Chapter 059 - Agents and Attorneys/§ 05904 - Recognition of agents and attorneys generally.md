@@ -64,7 +64,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 (d)
 
-Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or attorney have entered into a fee agreement described in paragraph (2), the total fee payable to the agent or attorney may not exceed 20 percentof the total amount of any past-due benefits awarded on the basis of the claim.
+Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or attorney have entered into a fee agreement described in paragraph (2), the total fee payable to the agent or attorney may not exceed 20 percent of the total amount of any past-due benefits awarded on the basis of the claim.
 
 (2)(A) A fee agreement referred to in paragraph (1) is one under which the total amount of the fee payable to the agent or attorney—
 
@@ -156,7 +156,7 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secret
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, setout as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date of 2006 Amendment
 

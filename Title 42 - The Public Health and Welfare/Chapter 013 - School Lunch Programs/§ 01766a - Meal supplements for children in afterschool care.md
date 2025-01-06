@@ -18,7 +18,7 @@
 
 #### (b) Eligible children
 
-Reimbursement may be provided under this section only for supplements served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in section 1760(d)(1)(A) of this title.
+Reimbursement may be provided under this section only for supplements served to school children who are not more than 18 years of age, except that the age limitation provided by thissubsection shall not apply to a child described in section 1760(d)(1)(A) of this title.
 
 #### (c) Reimbursement
 

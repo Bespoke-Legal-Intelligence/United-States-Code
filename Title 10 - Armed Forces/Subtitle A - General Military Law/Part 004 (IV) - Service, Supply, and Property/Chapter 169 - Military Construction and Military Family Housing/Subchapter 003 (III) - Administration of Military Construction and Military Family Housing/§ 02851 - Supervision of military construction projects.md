@@ -58,7 +58,7 @@ Report on Supervision of Large Military Construction Projects.—Before the awar
 
 (e)
 
-Annual Report on Schedule Delays.—Not later than March 1 of each year (beginning with 2018), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on each military construction project or military family housing project for which, as of the end of the most recent fiscal year, the estimated completion date is more than 1 year later than the completion date proposed at the time the contract for the project was awarded.
+Annual Report on Schedule Delays.—Not later than March 1 of each year (beginning with 2018), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on eachmilitary construction project or military family housing project for which, as of the end of the most recent fiscal year, the estimated completion date is more than 1 year later than the completion date proposed at the time the contract for the project was awarded.
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506; Pub. L. 111–383, div. B, title XXVIII, §2801, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 115–91, div. B, title XXVIII, §2822, Dec. 12, 2017, 131 Stat. 1855; Pub. L. 117–81, div. B, title XXVIII, §2801(a), Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, §2806(a), Dec. 23, 2022, 136 Stat. 2995.)
 
@@ -108,5 +108,5 @@ Pub. L. 109–163, div. B, title XXVIII, §2803(b), Jan. 6, 2006, 119 Stat. 3506
 
 #### Identification of Requirements To Reduce Backlog in Maintenance and Repair of Defense Facilities
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repairneeds of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
+Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
 

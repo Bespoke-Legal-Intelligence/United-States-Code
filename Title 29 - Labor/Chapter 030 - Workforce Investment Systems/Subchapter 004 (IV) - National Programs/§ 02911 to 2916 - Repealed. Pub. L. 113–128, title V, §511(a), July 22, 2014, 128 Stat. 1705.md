@@ -4,7 +4,7 @@ Section 2911, Pub. L. 105–220, title I, §166, Aug. 7, 1998, 112 Stat. 1021; P
 
 Provisions similar to those formerly contained in section 2911 were contained in sections 1671 and 1673 of this title prior to repeal by Pub. L. 105–220.
 
-Section 2912, Pub. L. 105–220, title I, §167, Aug. 7, 1998, 112 Stat. 1025; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, related to migrant and seasonal farmworker programs. See section 3222 of this title.
+Section 2912, Pub. L. 105–220, title I, §167, Aug. 7, 1998, 112 Stat. 1025; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, relatedto migrant and seasonal farmworker programs. See section 3222 of this title.
 
 Section 2913, Pub. L. 105–220, title I, §168, Aug. 7, 1998, 112 Stat. 1027; Pub. L. 109–233, title IV, §402(e)(4), June 15, 2006, 120 Stat. 411, related to veterans' workforce investment programs.
 

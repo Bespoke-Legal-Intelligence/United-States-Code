@@ -2,7 +2,7 @@
 
 #### (a) Immunity
 
-A provider or user of Next Generation 9–1–1 services, a public safety answering point, and the officers, directors, employees, vendors, agents, and authorizing government entity (if any) of such provider, user, or public safety answering point, shall have immunity and protection from liability under Federal and State law to the extent provided in subsection (b) with respect to—
+A provider or user of Next Generation 9–1–1 services, a public safety answering point, and the officers, directors, employees, vendors, agents, and authorizing government entity (if any) of such provider, user, or public safety answering point, shall have immunity and protection from liability under Federal and State lawto the extent provided in subsection (b) with respect to—
 
 &emsp;(1) the release of subscriber information related to emergency calls or emergency services;
 
@@ -20,7 +20,7 @@ The scope and extent of the immunity and protection from liability afforded unde
 
 #### References in Text
 
-Section 615b of this title, referred to in subsec. (b), was in the original a reference to section 6 of the Wireless Communications and Public Safety Act of 1999, Pub. L. 106–81, and was translated as if it had been a reference to section 7 of Pub. L. 106–81, which is classified to section 615b of this title, to reflect the probable intent of Congress and the renumbering of section 6 of Pub. L. 106–81 as section 7 by Pub. L. 110–283, title I, §101(1), July 23, 2008, 122 Stat. 2620. Pub. L. 110–283, titleI, §101(3), July 23, 2008, 122 Stat. 2620 enacted a new section 6 of the Wireless Communications and Public Safety Act of 1999 which is classified to section 215a–1 of this title, but that section does not contain definitions.
+Section 615b of this title, referred to in subsec. (b), was in the original a reference to section 6 of the Wireless Communications and Public Safety Act of 1999, Pub. L. 106–81, and was translated as if it had been a reference to section 7 of Pub. L. 106–81, which is classified to section 615b of this title, to reflect the probable intent of Congress and the renumbering of section 6 of Pub. L. 106–81 as section 7 by Pub. L. 110–283, title I, §101(1), July 23, 2008, 122 Stat. 2620. Pub. L. 110–283, title I, §101(3), July 23, 2008, 122 Stat. 2620 enacted a new section 6 of the Wireless Communications and Public Safety Act of 1999 which is classified to section 215a–1 of this title, but that section does not contain definitions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

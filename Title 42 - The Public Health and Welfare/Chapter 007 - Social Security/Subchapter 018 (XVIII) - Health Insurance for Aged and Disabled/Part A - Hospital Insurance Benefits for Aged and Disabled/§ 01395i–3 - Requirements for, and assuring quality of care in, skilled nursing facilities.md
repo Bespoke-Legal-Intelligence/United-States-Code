@@ -432,25 +432,11 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;A skilled nursing facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident (consistent with requirements established under subsection (f)(5)).
 
-#### (B) Required notices
-
-&emsp;&emsp;If a change occurs in—
-
-&emsp;&emsp;&emsp;(i) the persons with an ownership or control interest (as defined in section 1320a–3(a)(3) of this title) in the facility,
-
-&emsp;&emsp;&emsp;(ii) the persons who are officers, directors, agents, or managing employees (as defined in section 1320a–5(b) of this title) of the facility,
-
-&emsp;&emsp;&emsp;(iii) the corporation, association, or other company responsible for the management of the facility, or
-
-&emsp;&emsp;&emsp;(iv) the individual who is the administrator or director of nursing of the facility,
-
-> &emsp;&emsp;the skilled nursing facility must provide notice to the State agency responsible for the licensing of the facility, at the time of the change, of the change and of the identity of each new person, company, or individual described in the respective clause.
-
-#### (C) <sup>4</sup> Skilled nursing facility administrator
+#### (B) Skilled nursing facility administrator
 
 &emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4).
 
-#### (C) <sup>4</sup> Availability of survey, certification, and complaint investigation reports
+#### (C) Availability of survey, certification, and complaint investigation reports
 
 &emsp;&emsp;A skilled nursing facility must—
 
@@ -480,7 +466,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;(A) establish and maintain an infection control program designed to provide a safe, sanitary, and comfortable environment in which residents reside and to help prevent the development and transmission of disease and infection, and
 
-&emsp;&emsp;(B) be designed, constructed, equipped, and maintained in a manner to protect the health and safety of residents, personnel, and the general public.
+&emsp;&emsp;(B) be designed, constructed, equipped, and maintained in a manner to protect thehealth and safety of residents, personnel, and the general public.
 
 #### (4) Miscellaneous
 
@@ -530,7 +516,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (5) Specification of resident assessment instrument
 
-&emsp;Effective July 1, 1990, the State shall specify the instrument to be used by nursing facilitiesin the State in complying with the requirement of subsection (b)(3)(A)(iii). Such instrument shall be—
+&emsp;Effective July 1, 1990, the State shall specify the instrument to be used by nursing facilities in the State in complying with the requirement of subsection (b)(3)(A)(iii). Such instrument shall be—
 
 &emsp;&emsp;(A) one of the instruments designated under subsection (f)(6)(B), or
 
@@ -548,7 +534,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;For purposes of subsections (b)(5) and (e)(1)(A), the Secretary shall establish, by not later than September 1, 1988—
 
-&emsp;&emsp;&emsp;(i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents' rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training,<sup>5</sup> (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
+&emsp;&emsp;&emsp;(i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents' rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training,<sup>4</sup> (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
 &emsp;&emsp;&emsp;(ii) requirements for the approval of nurse aide competency evaluation programs, including requirement relating to the areas to be covered in such a program, including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, residents' rights, and procedures for determination of competency;
 
@@ -560,7 +546,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>6</sup> basis during the period in which the nurse aide is so employed.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>5</sup> basis during the period in which the nurse aide is so employed.
 
 #### (B) Approval of certain programs
 
@@ -578,7 +564,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(b) has been subject to an extended (or partial extended) survey under subsection (g)(2)(B)(i) or section 1396r(g)(2)(B)(i) of this title, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, orhas been subject to a remedy described in clause (i) or (iii) of subsection (h)(2)(B), subsection (h)(4), section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) of subsection (h)(2)(B), subsection (h)(4), section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(II) offered by or in a skilled nursing facility unless the State makes the determination, upon an individual's completion of the program, that the individual is competent to provide nursing and nursing-related services in skilled nursing facilities.
 
@@ -646,7 +632,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement <sup>7</sup> of this chapter.
+&emsp;&emsp;The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement <sup>6</sup> of this chapter.
 
 #### (B) Periodic surveys
 
@@ -708,7 +694,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey not later than 15 months after the date of the previous standard survey conducted underthis subparagraph. The Statewide average interval between standard surveys of skilled nursing facilities under this subsection shall not exceed 12 months.
+&emsp;&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey not later than 15 months after the date of the previous standard survey conducted under this subparagraph. The Statewide average interval between standard surveys of skilled nursing facilities under this subsection shall not exceed 12 months.
 
 #### (II) Special surveys
 
@@ -772,7 +758,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (C) Remedies for substandard performance
 
-&emsp;&emsp;If the Secretary finds, on the basis of such surveys, that a State has failed to performsurveys as required under paragraph (2) or that a State's survey and certification performance otherwise is not adequate, the Secretary shall provide for an appropriate remedy, which may include the training of survey teams in the State.
+&emsp;&emsp;If the Secretary finds, on the basis of such surveys, that a State has failed to perform surveys as required under paragraph (2) or that a State's survey and certification performance otherwise is not adequate, the Secretary shall provide for an appropriate remedy, which may include the training of survey teams in the State.
 
 #### (D) Special surveys of compliance
 
@@ -838,7 +824,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;(B) do not immediately jeopardize the health or safety of its residents, the State may recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(ii).
 
-> &emsp;If a State finds that a skilled nursing facility meets the requirements of subsections (b), (c), and (d), but, as of a previous period, did notmeet such requirements, the State may recommend a civil money penalty under paragraph (2)(B)(ii) for the days in which it finds that the facility was not in compliance with such requirements.
+> &emsp;If a State finds that a skilled nursing facility meets the requirements of subsections (b), (c), and (d), but, as of a previous period, did not meet such requirements, the State may recommend a civil money penalty under paragraph (2)(B)(ii) for the days in which it finds that the facility was not in compliance with such requirements.
 
 #### (2) Secretarial authority
 
@@ -944,7 +930,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (5) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not beconstrued as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV), and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV), and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
 
 #### (6) Sharing of information
 
@@ -956,7 +942,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall ensure that the Department of Health and Human Services includes, as part of the information provided for comparison of nursing homes on the official Internet website of the Federal Government for Medicare beneficiaries (commonly referred to as the "Nursing Home Compare" Medicare website) (or a successor website), the following information in a manner that is prominent, updated on a timely basis, easily accessible, readily understandable to consumers of long-term care services, and searchable:
+&emsp;&emsp;The Secretary shall ensure that the Department of Health and Human Services includes, as part of the information provided for comparison of nursing homes on the official Internet website of the Federal Government for Medicare beneficiaries (commonlyreferred to as the "Nursing Home Compare" Medicare website) (or a successor website), the following information in a manner that is prominent, updated on a timely basis, easily accessible, readily understandable to consumers of long-term care services, and searchable:
 
 &emsp;&emsp;&emsp;(i) Staffing data for each facility (including resident census data and data on the hours of care provided per resident per day) based on data submitted under section 1320a–7j(g) of this title, including information on staffing turnover and tenure, in a format that is clearly understandable to consumers of long-term care services and allows such consumers to compare differences in staffing between facilities and State and national averages for the facilities. Such format shall include—
 
@@ -980,7 +966,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to such instances of violations or crimes committed inside of the facility that were the violations or crimes of abuse, neglect, and exploitation, criminal sexual abuse, or other violations or crimes that resulted in serious bodily injury; and
 
-&emsp;&emsp;&emsp;&emsp;(III) <sup>8</sup> the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
+&emsp;&emsp;&emsp;&emsp;(III) <sup>7</sup> the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
 
 #### (B) Deadline for provision of information
 
@@ -1027,10 +1013,6 @@ Where requirements or obligations under this section are identical to those prov
 In addition to amounts otherwise available, there is appropriated to the Secretary, out of any monies in the Treasury not otherwise appropriated, $250,000,000, to remain available until expended, for purposes of allocating such amount among the States (including the District of Columbia and each territory of the United States) for such a State to establish and implement a strike team that will be deployed to a skilled nursing facility in the State with diagnosed or suspected cases of COVID–19 among residents or staff for the purposes of assisting with clinical care, infection control, or staffing during the emergency period described in section 1320b–5(g)(1)(B) of this section and the 1-year period immediately following the end of such emergency period.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(l)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401; Pub. L. 111–148, title VI, §§6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, 124 Stat. 702, 704, 706, 709, 713, 719, 720; Pub. L. 113–185, §2(c)(4)(B), Oct. 6, 2014, 128 Stat. 1966; Pub. L. 117–2, title IX, §9402, Mar. 11, 2021, 135 Stat. 127.)
-
-#### Amendment of Subsection (d)(1)
-
-<i>Pub. L. 111–148, title VI, §6101(c)(1)(A), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) relating to skilled nursing facility administrator as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -1254,9 +1236,9 @@ Subsec. (h)(6). Pub. L. 100–360, §411(l)(7)(B), inserted "by such facilities"
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title VI, §6101(c)(2), Mar. 23, 2010, 124 Stat. 702, provided that: "The amendments made by paragraph (1) \[amending this section and section 1396r of this title\] shall take effect on the date on which the Secretary \[of Health and Human Services\] makes the information described in subsection (b)(1) \[probably means subsec. (b) of section 6101, which is set out as a note under section 1320a–3 of this title\] available to the public under such subsection."
+Pub. L. 111–148, title VI, §6101(c)(2), Mar. 23, 2010, 124 Stat. 702, provided that: "The amendments made by paragraph (1) \[amending this section and section 1396r of this title\] shall take effect on the date on which the Secretary \[of Health and Human Services\] makes the information described in subsection (b)(1) \[probably means subsec. (b) of section 6101, which is set out as a note under section 1320a–3 of this title\] available to the public under such subsection." \[The Centers for Medicare and Medicaid Services made the information described in subsec. (b) of section 6101 of Pub. L. 111–148 available to the public on Nov. 21, 2024.\]
 
-Pub. L. 111–148, title VI, §6103(a)(2)(B), Mar. 23, 2010, 124 Stat. 706, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\]."
+Pub. L. 111–148, title VI, §6103(a)(2)(B), Mar. 23, 2010, 124 Stat. 706, provided that: "The amendment made bythis paragraph \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
 Pub. L. 111–148, title VI, §6103(c)(3), Mar. 23, 2010, 124 Stat. 710, provided that: "The amendments made by this subsection \[amending this section and section 1396r of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
@@ -1312,7 +1294,7 @@ Pub. L. 101–508, title IV, §4008(h)(1)(F)(ii), Nov. 5, 1990, 104 Stat. 1388�
 
 &emsp;"(ee) pursuant to State action, was closed or had its residents transferred.
 
-"(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[42 U.S.C. 1395i–3(f)(2)(B)(iii)(I)\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described insubclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility."
+"(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[42 U.S.C. 1395i–3(f)(2)(B)(iii)(I)\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility."
 
 Pub. L. 101–508, title IV, §4008(h)(1)(H), Nov. 5, 1990, 104 Stat. 1388–48, provided that: "Except as provided in subparagraph (F) \[amending this section and enacting provisions set out as a note above\], the amendments made by this subsection \[probably means this paragraph, amending this section\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\]."
 
@@ -1514,7 +1496,7 @@ Study.—The Secretary of Health and Human Services shall provide for—
 
 &emsp;"(A) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying skilled nursing facilities for compliance with the conditions and requirements of sections 1819 and 1861(j) of the Social Security Act \[42 U.S.C. 1395i–3, 1395x(j)\] and nursing facilities for compliance with the conditions of section 1919 of such Act \[42 U.S.C. 1396r\], and
 
-&emsp;"(B) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying renal dialysis facilities for compliance with the conditions and requirements ofsection 1881(b) of the Social Security Act \[42 U.S.C. 1395rr(b)\].
+&emsp;"(B) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying renal dialysis facilities for compliance with the conditions and requirements of section 1881(b) of the Social Security Act \[42 U.S.C. 1395rr(b)\].
 
 "(2)
 
@@ -1532,7 +1514,7 @@ Pub. L. 101–239, title VI, §6901(b)(2), Dec. 19, 1989, 103 Stat. 2298, provid
 
 Pub. L. 101–239, title VI, §6901(b)(4)(B)–(D), Dec. 19, 1989, 103 Stat. 2299, provided that:
 
-"(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[42 U.S.C. 1395i–3(b)(5)(A), 1396r(b)(5)(A)\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[42 U.S.C. 1395i–3(e)(1)(A), 1396r(e)(1)(A)\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for '75 hours' in sections 1819(f)(2) and 1919(f)(2) of such Act \[42 U.S.C. 1395i–3(f)(2), 1396r(f)(2)\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+"(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) ofthe Social Security Act \[42 U.S.C. 1395i–3(b)(5)(A), 1396r(b)(5)(A)\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[42 U.S.C. 1395i–3(e)(1)(A), 1396r(e)(1)(A)\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for '75 hours' in sections 1819(f)(2) and 1919(f)(2) of such Act \[42 U.S.C. 1395i–3(f)(2), 1396r(f)(2)\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 "(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 
@@ -1552,13 +1534,11 @@ Pub. L. 100–203, title IV, §4205, Dec. 22, 1987, 101 Stat. 1330–182, provid
 
 <i><sup>3</sup></i><i> So in original. Probably should be "credit".</i>
 
-<i><sup>4</sup></i><i> So in original. Two subpars. (C) have been enacted. See Amendment of Subsection (d)(1) note below.</i>
+<i><sup>4</sup></i><i> So in original. A closing parenthesis probably should appear before the comma.</i>
 
-<i><sup>5</sup></i><i> So in original. A closing parenthesis probably should appear before the comma.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "pro rata".</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be "pro rata".</i>
+<i><sup>6</sup></i><i> So in original. Probably should be "requirements".</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be "requirements".</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be cl. (vi).</i>
+<i><sup>7</sup></i><i> So in original. Probably should be cl. (vi).</i>
 

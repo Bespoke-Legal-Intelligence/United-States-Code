@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The 1992 UMWA Benefit Plan shall only provide health benefits coverage to any eligible beneficiary who is not eligible for benefits under the Combined Fund and shall not provide such coverage to any other individual.
+&emsp;The 1992 UMWA Benefit Plan shall only provide health benefits coverage to any eligiblebeneficiary who is not eligible for benefits under the Combined Fund and shall not provide such coverage to any other individual.
 
 #### (2) Eligible beneficiary
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;(B) The provision of a security (in the form of a bond, letter of credit, or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator.
 
-&emsp;&emsp;(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.
+&emsp;&emsp;(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligibleand potentially eligible beneficiaries attributable to the operator.
 
 #### (2) Adjustments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Repay Education Loans.—For purposes of maintaining adequate numbers of chaplains in the Selected Reserve, the Secretary concerned may repay a loan that was obtained by a person who—
+Authority to Repay Education Loans.—For purposes of maintaining adequate numbersof chaplains in the Selected Reserve, the Secretary concerned may repay a loan that was obtained by a person who—
 
 &emsp;(1) satisfies the requirements for accessioning and commissioning of chaplains, as prescribed in regulations;
 

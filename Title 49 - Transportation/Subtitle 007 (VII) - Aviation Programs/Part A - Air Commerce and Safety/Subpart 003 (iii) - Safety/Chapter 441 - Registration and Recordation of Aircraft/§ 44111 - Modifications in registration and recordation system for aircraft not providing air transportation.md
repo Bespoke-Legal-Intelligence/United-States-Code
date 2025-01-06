@@ -142,7 +142,7 @@ Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided th
 
 &emsp;"(3) The efforts of such Administration in assessing and defining the appropriate relationship of such Administration's informational assistance resources (including the El Paso Intelligence Center and the Law Enforcement Assistance Unit of the Aeronautical Center of such Administration).
 
-&emsp;"(4) The progress made in issuing guidelines on (A) the reporting of aviation sensitive drug-related information, and (B) the development, in coordination with the Drug Enforcement Administration of the Department of Justice and the United States Customs Service, of training and educational policies to assist employees of such Administration to better understand (i) the trafficking of controlled substances (as defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]), and (ii) the role of such Administration with respect to such trafficking.
+&emsp;"(4) The progress made in issuing guidelines on (A) the reporting of aviation sensitive drug-related information, and (B) the development, in coordination with the Drug Enforcement Administration of theDepartment of Justice and the United States Customs Service, of training and educational policies to assist employees of such Administration to better understand (i) the trafficking of controlled substances (as defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]), and (ii) the role of such Administration with respect to such trafficking.
 
 &emsp;"(5) The progress made in improving and expanding such Administration's role in the El Paso Intelligence Center."
 

@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principles in the Bureau of Land Management, "Manual of Surveying Instructions" (1973).
 
-(2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
+(2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river orstream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
 
 (3) The Secretary is not required to determine the navigability of a lake, river, or stream which because of its size or width is required to be meandered or to compute the acreage of the land beneath such lake, river, or stream or to describe such land in any conveyance document.
 
@@ -34,7 +34,7 @@ For the purposes of this section, the terms "navigable" and "navigability" means
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L.92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
@@ -50,7 +50,7 @@ August 16, 1988, referred to in subsec. (b)(1), was in the original "the date of
 
 <b>1988</b>—Pub. L. 100–395 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (h).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–644 substituted "eight years after the date of execution" for "six years after the date of execution" in two places and "nine years after December 2, 1980" for "seven years after December 2, 1980" in two places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–644 substituted "eight years after the date of execution" for "six years after the date of execution" in two places and "nine yearsafter December 2, 1980" for "seven years after December 2, 1980" in two places.
 
 Pub. L. 99–258 substituted "six years after the date of execution" for "five years after the date of execution" in two places.
 

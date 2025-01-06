@@ -56,7 +56,7 @@ In this section:
 
 &emsp;&emsp;The term "Federal real property" does not include—
 
-&emsp;&emsp;&emsp;(i) real property held in trust by the Federal Government for the benefit of 1 ormore Indian Tribes or individual Indians; or
+&emsp;&emsp;&emsp;(i) real property held in trust by the Federal Government for the benefit of 1 or more Indian Tribes or individual Indians; or
 
 &emsp;&emsp;&emsp;(ii) restricted land owned by an Indian Tribe or individual Indians.
 

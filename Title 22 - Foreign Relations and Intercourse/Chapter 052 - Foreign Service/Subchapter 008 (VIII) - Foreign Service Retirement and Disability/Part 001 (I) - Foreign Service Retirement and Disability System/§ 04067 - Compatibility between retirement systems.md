@@ -174,7 +174,7 @@ Sec. 5. <i>Recomputation at Age 62 of Credit for Military Service of Current Ann
 
 (d) For purposes of this section, the term "determination month" means—
 
-(1) the first month the individual described in subsection (a) is entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor); or
+(1) the first month the individual described in subsection (a) is entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor); or
 
 (2) the first day of the month following the month in which this Order is issued \[Oct. 17, 1983\] in the case of any individual so entitled to such benefits for such month.
 

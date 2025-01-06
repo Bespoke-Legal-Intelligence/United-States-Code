@@ -2,7 +2,7 @@
 
 (a)
 
-Insurance and Reinsurance.—(1) Subject to subsection (c) of this section and section 44305(a) of this title, the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any risk from the operation of an American aircraft or foreign-flag aircraft.
+Insurance and Reinsurance.—(1) Subject to subsection (c) of this section and section 44305(a) of this title, the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any riskfrom the operation of an American aircraft or foreign-flag aircraft.
 
 (2) An aircraft may be insured or reinsured for not more than its reasonable value as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. Insurance or reinsurance may be provided only when the Secretary decides that the insurance cannot be obtained on reasonable terms from an insurance carrier.
 
@@ -16,7 +16,7 @@ In general.—The Secretary may reimburse an air carrier for the increase in the
 
 &emsp;(2)
 
-Payment from revolving fund.—A reimbursement under this subsection shall be paidfrom the revolving fund established by section 44307.
+Payment from revolving fund.—A reimbursement under this subsection shall be paid from the revolving fund established by section 44307.
 
 &emsp;(3)
 
@@ -70,7 +70,7 @@ Amount.—Insurance provided by the Secretary under this subsection shall be for
 
 Terms and conditions.—Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(c), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(a), Dec. 16, 2009, 123 Stat. 3042; Pub. L. 111–153, §5(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(c), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(c), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(c), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title VII, §701, Feb. 14, 2012, 126 Stat. 118; Pub. L. 113–46, div. A, §152, Oct. 17, 2013, 127 Stat. 565; Pub. L. 113–76, div. L, title I, §119E(a), Jan. 17, 2014, 128 Stat. 582; Pub. L. 113–164, §148(a), Sept. 19, 2014, 128 Stat. 1874; Pub. L. 113–235, div. L, §102(a), Dec. 16, 2014, 128 Stat. 2767.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(c), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(a), Dec. 16, 2009, 123 Stat. 3042; Pub. L. 111–153, §5(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(c), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(c), Sept. 16,2011, 125 Stat. 358; Pub. L. 112–91, §5(c), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title VII, §701, Feb. 14, 2012, 126 Stat. 118; Pub. L. 113–46, div. A, §152, Oct. 17, 2013, 127 Stat. 565; Pub. L. 113–76, div. L, title I, §119E(a), Jan. 17, 2014, 128 Stat. 582; Pub. L. 113–164, §148(a), Sept. 19, 2014, 128 Stat. 1874; Pub. L. 113–235, div. L, §102(a), Dec. 16, 2014, 128 Stat. 2767.)
 
 Historical and Revision Notes
 
@@ -200,7 +200,7 @@ Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d)
 
 Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviationinsurance industry." for "as determined by the Secretary."
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry." for "as determined by the Secretary."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -282,7 +282,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 1\. Determine that the continuation of U.S. air transportation is necessary in the interest of air commerce, national security, and the foreign policy of the United States.
 
-2\. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificated air carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, United States Code, until January 15, 2014, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
+2\. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificatedair carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, United States Code, until January 15, 2014, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
 
 3\. Delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(c), to extend this approval and determination through December 31, 2014, or until any date prior to December 31, 2014, provided that the Congress further extends the date contained in section 44310 and further provided that he not use this delegation to extend this determination and approval beyond the dates authorized under any such provision of law with an ending effective date prior to December 31, 2014.
 

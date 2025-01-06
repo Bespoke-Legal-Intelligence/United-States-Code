@@ -134,7 +134,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delaware that are associated with the purposes of historical park.
+&emsp;Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delawarethat are associated with the purposes of historical park.
 
 #### (2) Requirements
 
@@ -152,7 +152,7 @@ The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1
 
 #### Codification
 
-In subsec. (c)(5)(B), "section 100502 of title 54" substituted for "section 12(b) of the National Park SystemGeneral Authorities Act (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (c)(5)(B), "section 100502 of title 54" substituted for "section 12(b) of the National Park System General Authorities Act (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 Section is comprised of section 3033 of Pub. L. 113–291. Subsec. (e) of section 3033 of Pub. L. 113–291 amended section 7302(f) of the Omnibus Public Land Management Act of 2009, Pub. L. 111–11, which was classified to section 469n(f) of this title prior to repeal and restatement as section 311105 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287. See Amendment Not Shown in Text note under section 311105 of Title 54.
 

@@ -104,7 +104,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 #### (8) Biennial evaluation
 
-&emsp;Each regional center which receives financial assistance under this subsection shall be evaluated biennially by an evaluation panel appointed by the Secretary. Each evaluation panel shall be composed of private experts, none of whom shall be connected with the center involved, and of Federal officials. Each evaluation panel shall measure the involved center's performance against the objective specified in paragraph (3). The Secretary shall not continue to provide funding to a regional center unless its evaluation is overall positive.
+&emsp;Each regional center which receives financial assistance under this subsection shall beevaluated biennially by an evaluation panel appointed by the Secretary. Each evaluation panel shall be composed of private experts, none of whom shall be connected with the center involved, and of Federal officials. Each evaluation panel shall measure the involved center's performance against the objective specified in paragraph (3). The Secretary shall not continue to provide funding to a regional center unless its evaluation is overall positive.
 
 #### (9) Continuing support
 

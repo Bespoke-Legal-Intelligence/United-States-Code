@@ -26,7 +26,7 @@ The Director shall—
 
 &emsp;&emsp;(A) for the production of critical radioactive and stable isotopes, including the development of techniques to produce isotopes, that the Secretary determines are needed and of sufficient quality and quantity for research, medical, industrial, or related purposes;
 
-&emsp;&emsp;(B) for the production of critical radioactive and stable isotopes that are in shortsupply or projected to be in short supply in the future, including byproducts, surplus materials, and related isotope services;
+&emsp;&emsp;(B) for the production of critical radioactive and stable isotopes that are in short supply or projected to be in short supply in the future, including byproducts, surplus materials, and related isotope services;
 
 &emsp;&emsp;(C) to maintain and enhance the infrastructure required to produce and supply critical radioactive and stable isotope products and related services;
 

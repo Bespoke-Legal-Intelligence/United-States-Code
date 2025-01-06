@@ -122,7 +122,7 @@ Sec. 202. <i>Determinations</i>. Except as provided in section 201(e) of this or
 
 (c) by the Secretary of Homeland Security with respect to all other national defense programs, including civil defense and continuity of Government.
 
-Sec. 203. <i>Maximizing Domestic Energy Supplies</i>. The authorities of the President under section 101(c)(1)–(2) of the Act, 50 U.S.C. App. 2071(c)(1)–(2) \[now 50 U.S.C. 4511(c)(1)–(2)\], are delegated to the Secretary of Commerce, with the exception that the authority to make findings that materials (including equipment), services, and facilities are critical and essential, as described in section 101(c)(2)(A) of the Act, 50 U.S.C. App. 2071(c)(2)(A) \[now 50 U.S.C. 4511(c)(2)(A)\], is delegated to the Secretary of Energy.
+Sec. 203. <i>Maximizing Domestic Energy Supplies</i>. The authorities of the President under section 101(c)(1)–(2) ofthe Act, 50 U.S.C. App. 2071(c)(1)–(2) \[now 50 U.S.C. 4511(c)(1)–(2)\], are delegated to the Secretary of Commerce, with the exception that the authority to make findings that materials (including equipment), services, and facilities are critical and essential, as described in section 101(c)(2)(A) of the Act, 50 U.S.C. App. 2071(c)(2)(A) \[now 50 U.S.C. 4511(c)(2)(A)\], is delegated to the Secretary of Energy.
 
 Sec. 204. <i>Chemical and Biological Warfare</i>. The authority of the President conferred by section 104(b) of the Act, 50 U.S.C. App. 2074(b) \[now 50 U.S.C. 4514(b)\], is delegated to the Secretary of Defense. This authority may not be further delegated by the Secretary.
 
@@ -148,7 +148,7 @@ Sec. 305. <i>Determinations and Findings</i>. (a) Pursuant to budget authority p
 
 Sec. 306. <i>Strategic and Critical Materials</i>. The Secretary of Defense, and the Secretary of the Interior in consultation with the Secretary of Defense as the National Defense Stockpile Manager, are each delegated the authority of the President under section 303(a)(1)(B) of the Act, 50 U.S.C. App. 2093(a)(1)(B) \[now 50 U.S.C. 4533(a)(1)(B)\], to encourage the exploration, development, and mining of strategic and critical materials and other materials.
 
-Sec. 307. <i>Substitutes</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(g) ofthe Act, 50 U.S.C. App. 2093(g) \[now 50 U.S.C. 4533(g)\], to make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other resources to aid the national defense.
+Sec. 307. <i>Substitutes</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(g) of the Act, 50 U.S.C. App. 2093(g) \[now 50 U.S.C. 4533(g)\], to make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other resources to aid the national defense.
 
 Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(e) of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to:
 
@@ -160,7 +160,7 @@ Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in 
 
 Sec. 309. <i>Defense Production Act Fund</i>. The Secretary of Defense is designated the Defense Production Act Fund Manager, in accordance with section 304(f) of the Act, 50 U.S.C. App. 2094(f) \[50 U.S.C. 4534(f)\], and shall carry out the duties specified in section 304 of the Act, in consultation with the agency heads having approved, and appropriated funds for, projects under title III of the Act \[50 U.S.C. 4531 et seq.\].
 
-Sec. 310. <i>Critical Items</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 107(b)(1) of the Act, 50 U.S.C. App. 2077(b)(1) \[now 50 U.S.C. 4517(b)(1)\], to take appropriate action to ensure that critical components, critical technology items, essential materials, and industrial resources are available from reliable sources when needed to meet defense requirements during peacetime, graduated mobilization, and national emergency. Appropriate action may include restricting contract solicitations to reliable sources, restricting contract solicitations to domestic sources (pursuant to statutory authority), stockpiling critical components, and developing substitutes for critical components or critical technology items.
+Sec. 310. <i>Critical Items</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 107(b)(1) of the Act, 50 U.S.C. App. 2077(b)(1) \[now 50U.S.C. 4517(b)(1)\], to take appropriate action to ensure that critical components, critical technology items, essential materials, and industrial resources are available from reliable sources when needed to meet defense requirements during peacetime, graduated mobilization, and national emergency. Appropriate action may include restricting contract solicitations to reliable sources, restricting contract solicitations to domestic sources (pursuant to statutory authority), stockpiling critical components, and developing substitutes for critical components or critical technology items.
 
 Sec. 311. <i>Strengthening Domestic Capability</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 107(a) of the Act, 50 U.S.C. App. 2077(a) \[now 50 U.S.C. 4517(a)\], to utilize the authority of title III of the Act \[50 U.S.C. 4531 et seq.\] or any other provision of law to provide appropriate incentives to develop, maintain, modernize, restore, and expand the productive capacities of domestic sources for critical components, critical technology items, materials, and industrial resources essential for the execution of the national security strategy of the United States.
 
@@ -208,7 +208,7 @@ Sec. 601. <i>Secretary of Labor</i>. (a) The Secretary of Labor, in coordination
 
 #### PART VII—DEFENSE PRODUCTION ACT COMMITTEE
 
-Sec. 701. <i>The Defense Production Act Committee</i>. (a) The Defense Production Act Committee (Committee) shall be composed of the following members, in accordance with section 722(b) of the Act, 50 U.S.C. App. 2171(b) \[now 50 U.S.C. 4567(b)\]:
+Sec. 701. <i>The Defense Production Act Committee</i>. (a) The Defense Production Act Committee (Committee) shallbe composed of the following members, in accordance with section 722(b) of the Act, 50 U.S.C. App. 2171(b) \[now 50 U.S.C. 4567(b)\]:
 
 (1) The Secretary of State;
 

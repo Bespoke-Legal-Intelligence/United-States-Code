@@ -36,7 +36,7 @@ The first sentence is superfluous in view of other sections of this title govern
 
 Provisions for maintenance of offices by the clerks at certain cities were omitted. (See Reviser's Note under sections 452 and 751 of this title.)
 
-Provisions for furnishing rooms and accommodations at Durham, Rockingham, and Winston-Salem were omitted as obsolete upon advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in such places.
+Provisions for furnishing rooms and accommodations at Durham, Rockingham, and Winston-Salem wereomitted as obsolete upon advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in such places.
 
 The provisions respecting court accommodations at Bryson City and Shelby were omitted as covered by section 142 of this title.
 

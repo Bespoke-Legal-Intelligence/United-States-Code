@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) the term "border patrol agent" means an individual who is appointed to a position assigned to the Border Patrol Enforcement classification series 1896 or any successor series, consistent with classification standards established by the Office of Personnel Management;
 
-&emsp;(3) the term "level 1 border patrol rate of pay" means the hourly rate of pay equal to 1.25 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent;
+&emsp;(3) the term "level 1 border patrol rate of pay" means the hourly rate of pay equal to1.25 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent;
 
 &emsp;(4) the term "level 2 border patrol rate of pay" means the hourly rate of pay equal to 1.125 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent; and
 
@@ -50,7 +50,7 @@ Assignment in lieu of election.—Notwithstanding subparagraph (A)—
 
 &emsp;&emsp;&emsp;(iii) if at any time U.S. Customs and Border Protection concludes that a border patrol agent is unable to perform overtime on a daily basis in accordance with this section, U.S. Customs and Border Protection shall assign the border patrol agent to the basic border patrol rate of pay until such time as U.S. Customs and Border Protection determines that the border patrol agent is able to perform scheduled overtime on a daily basis;
 
-&emsp;&emsp;&emsp;(iv) unless the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 indicates that, in order to more adequately fulfill the operational requirements of U.S. Customs and Border Protection, such border patrol agents should be allowed to elect or be assigned to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay,a border patrol agent shall be assigned to the basic border patrol rate of pay if the agent works—
+&emsp;&emsp;&emsp;(iv) unless the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 indicates that, in order to more adequately fulfill the operational requirements of U.S. Customs and Border Protection, such border patrol agents should be allowed to elect or be assigned to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay, a border patrol agent shall be assigned to the basic border patrol rate of pay if the agent works—
 
 &emsp;&emsp;&emsp;&emsp;(I) at U.S. Customs and Border Protection headquarters;
 
@@ -94,7 +94,7 @@ Pay assignment continuity.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 1 year after the date of enactment of the Border Patrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which the border patrol agent has been assigned during the course of the career of the border patrol agent.
+In general.—Not later than 1 year after the date of enactment of the Border Patrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level towhich the border patrol agent has been assigned during the course of the career of the border patrol agent.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -132,7 +132,7 @@ Level 1 border patrol rate of pay.—For a border patrol agent who is assigned t
 
 &emsp;&emsp;(B) for paid hours of regular time described in subparagraph (A)(i), the border patrol agent shall receive pay at the level 1 border patrol rate of pay;
 
-&emsp;&emsp;(C) compensation for the hours of regularly scheduled overtime work described in subparagraph (A)(ii) is provided indirectly through the 25 percent supplement withinthe level 1 border patrol rate of pay, and the border patrol agent may not receive for such hours—
+&emsp;&emsp;(C) compensation for the hours of regularly scheduled overtime work described in subparagraph (A)(ii) is provided indirectly through the 25 percent supplement within the level 1 border patrol rate of pay, and the border patrol agent may not receive for such hours—
 
 &emsp;&emsp;&emsp;(i) any compensation in addition to the compensation under subparagraph (B) under this section or any other provision of law; or
 
@@ -314,7 +314,7 @@ The date of enactment of this section, referred to in subsec. (b)(1)(A), (C), is
 
 Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(D)(iv), (E)(ii), is section 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
 
-The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec.\(b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
+The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
 
 GS–12, referred to in subsec. (h), is contained in the General Schedule which is set out under section 5332 of this title.
 

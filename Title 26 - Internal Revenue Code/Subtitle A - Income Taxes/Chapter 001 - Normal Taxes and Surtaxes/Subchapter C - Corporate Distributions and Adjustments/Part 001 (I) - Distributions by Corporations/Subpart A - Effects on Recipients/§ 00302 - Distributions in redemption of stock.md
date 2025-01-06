@@ -28,7 +28,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 > &emsp;&emsp;is less than 80 percent of—
 
-&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bearsto all of the voting stock of the corporation at such time.
+&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bears to all of the voting stock of the corporation at such time.
 
 > &emsp;&emsp;For purposes of this paragraph, no distribution shall be treated as substantially disproportionate unless the shareholder's ownership of the common stock of the corporation (whether voting or nonvoting) after and before redemption also meets the 80 percent requirement of the preceding sentence. For purposes of the preceding sentence, if there is more than one class of common stock, the determinations shall be made by reference to fair market value.
 

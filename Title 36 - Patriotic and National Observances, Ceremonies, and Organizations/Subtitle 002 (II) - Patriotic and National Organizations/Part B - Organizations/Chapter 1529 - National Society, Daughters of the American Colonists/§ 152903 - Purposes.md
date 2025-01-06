@@ -16,7 +16,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(7) to engage in volunteer service and make contributions to veterans hospitals; and
 
-&emsp;(8) to perform other charitable activities, including the national presidents' projects, as may be provided in the articles of incorporation or bylaws of the corporation.
+&emsp;(8) to perform other charitable activities, including the national presidents' projects, asmay be provided in the articles of incorporation or bylaws of the corporation.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1420; Pub. L. 105–354, §1(10), Nov. 3, 1998, 112 Stat. 3244.)
 

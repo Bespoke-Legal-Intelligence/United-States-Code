@@ -56,13 +56,13 @@ Subsec. (a)(2). Pub. L. 118–31, §860(1)(B), inserted "support the integration
 
 Subsec. (b)(1). Pub. L. 118–31, §860(2)(A), inserted "primarily major defense acquisition programs, but also other" after "candidate proposals in support of".
 
-Subsec. (b)(2). Pub. L. 118–31, §860(2)(B), substituted "by each Office of Small Business Programs of eachmilitary department" for "by each military department".
+Subsec. (b)(2). Pub. L. 118–31, §860(2)(B), substituted "by each Office of Small Business Programs of each military department" for "by each military department".
 
 Subsec. (d)(2). Pub. L. 118–31, §860(3), substituted "$6,000,000" for "$3,000,000".
 
 <b>2021</b>—Pub. L. 116–283, §1842(b), as amended by Pub. L. 117–81, §1701(q)(1), (u)(3)(B), renumbered section 2359a of this title as this section.
 
-Subsec. (b)(5). Pub. L. 117–81, §1701(d)(8), which directed the substitution of "section 4004" for "section 2302e", could not be executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
+Subsec. (b)(5). Pub. L. 117–81, §1701(d)(8), which directed the substitution of "section 4004" for "section2302e", could not be executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
 
 Pub. L. 116–283, §1883(b)(2), substituted "section 4004" for "section 2302e".
 
@@ -94,69 +94,5 @@ Pub. L. 117–81, div. A, title II, §213(b), Dec. 27, 2021, 135 Stat. 1589, pro
 
 #### Pilot Program To Accelerate the Procurement and Fielding of Innovative Technologies
 
-Pub. L. 117–81, div. A, title VIII, §834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, §845, Dec. 23, 2022, 136 Stat. 2720, provided that:
-
-"(a)
-
-Pilot Program.—Subject to availability of appropriations, the Secretary of Defense shall establish a competitive, merit-based pilot program to accelerate the procurement and fielding of innovative technologies by, with respect to such technologies—
-
-&emsp;"(1) reducing acquisition or life-cycle costs;
-
-&emsp;"(2) addressing technical risks;
-
-&emsp;"(3) improving the timeliness and thoroughness of test and evaluation outcomes; and
-
-&emsp;"(4) rapidly implementing such technologies to directly support defense missions.
-
-"(b)
-
-Guidelines.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary shall issue guidelines for the operation of the pilot program established under this section. At a minimum such guidelines shall provide for the following:
-
-&emsp;"(1) The issuance of one or more solicitations for proposals by the Department of Defense in support of the pilot program, with a priority established for technologies developed by small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)) or nontraditional defense contractors (as defined under section 2302 of title 10, United States Code \[see 10 U.S.C. 3014\]).
-
-&emsp;"(2) A process for—
-
-&emsp;&emsp;"(A) the review of proposals received in response to a solicitation issued under paragraph (1) by the Secretary of Defense and by each Secretary of a military department;
-
-&emsp;&emsp;"(B) the merit-based selection of the most promising cost-effective proposals; and
-
-&emsp;&emsp;"(C) the procurement of goods or services offered by such a proposal through contracts, cooperative agreements, other transaction authority, or by another appropriate process.
-
-"(c)
-
-Maximum Amount.—The total amount of funding provided for any proposal selected for an award under the pilot program established under this section shall not exceed $50,000,000, unless the Secretary (or designee of the Secretary) approves a greater amount of funding.
-
-"(d)
-
-Data Collection.—
-
-&emsp;"(1)
-
-Plan required before implementation.—The Secretary of Defense may not provide funding under this section until the date on which the Secretary—
-
-&emsp;&emsp;"(A) completes a plan for carrying out the data collection required under paragraph (2); and
-
-&emsp;&emsp;"(B) submits the plan to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
-
-&emsp;"(2)
-
-Data collection required.—The Secretary of Defense shall collect and analyze data on the pilot program established under this section for the purposes of—
-
-&emsp;&emsp;"(A) developing and sharing best practices for achieving the objectives of the pilot program;
-
-&emsp;&emsp;"(B) providing information on the implementation of the pilot program and related policy issues; and
-
-&emsp;&emsp;"(C) reporting to the congressional defense committees as required under subsection (e).
-
-"(e)
-
-Biannual Reports.—Not later than March 1 and September 1 of each year beginning after the date of the enactment of this Act until the termination of the pilot program established under this section, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot program.
-
-"(f)
-
-Congressional Notification.—The Secretary of Defense shall notify the congressional defense committees within 30 days after funding has been provided for a proposal selected for an award under the pilot program established under this section.
-
-"(g)
-
-Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2027."
+Pub. L. 117–81, div. A, title VIII, §834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, §845, Dec. 23, 2022, 136 Stat. 2720, which authorized the Secretary of Defense to establish a competitive, merit-based pilot program to accelerate the procurement and fielding of innovative technologies and required the Secretary to issue guidelines for the operation of such pilot program, was repealed by Pub. L. 118–159, div. A, title VIII, §861(b), Dec. 23, 2024, 138 Stat. 2000. See section 3604 of this title.
 

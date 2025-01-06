@@ -24,10 +24,6 @@ The responsible person shall identify on the label of a cosmetic product each fr
 
 (June 25, 1938, ch. 675, §609, as added Pub. L. 117–328, div. FF, title III, §3502, Dec. 29, 2022, 136 Stat. 5854.)
 
-#### Delayed Effective Date of Subsection (a)
-
-<i>For delayed effective date of subsection (a) of this section, see Effective Date of 2022 Amendment note below.</i>
-
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2022 Amendment

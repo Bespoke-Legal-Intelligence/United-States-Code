@@ -114,7 +114,7 @@ Acts or Omissions.â€”The acts or omissions referred to under subsection (a) areâ
 
 &emsp;"(7) willful misuse of the provisions of section 6103 of the Internal Revenue Code of 1986 for the purpose of concealing information from a congressional inquiry;
 
-&emsp;"(8) willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or beforethe date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect;
+&emsp;"(8) willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or before the date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect;
 
 &emsp;"(9) willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and
 

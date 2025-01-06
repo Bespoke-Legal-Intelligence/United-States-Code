@@ -278,7 +278,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries andtheir representatives, and other relevant stakeholders.
+&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
 
 #### (ii) Procedures
 
@@ -308,7 +308,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (iv) Continuation of benefits pending appeal
 
-&emsp;&emsp;&emsp;The unified procedures under clause (i) shall, with respect to all benefits under parts A and B and subchapter XIX subject to appeal under such procedures, incorporate provisions under current law and implementing regulations that provide continuation of benefits pending appeal under this subchapter and subchapter XIX.
+&emsp;&emsp;&emsp;The unified procedures under clause (i) shall, with respect to all benefits under parts A and B and subchapter XIX subject to appeal under such procedures, incorporate provisions under current law andimplementing regulations that provide continuation of benefits pending appeal under this subchapter and subchapter XIX.
 
 #### (C) Requirement for unified grievances and appeals
 
@@ -324,7 +324,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both thespecialized MA plan and the Medicaid managed care organization.
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
 
 #### (ii) Suspension of enrollment for failure to meet requirements during initial period
 
@@ -370,7 +370,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (C) Requirement
 
-&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take intoaccount the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
+&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take into account the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
 
 #### (g) Special rules for senior housing facility plans
 
@@ -524,7 +524,7 @@ Subsec. (c)(5). Pub. L. 108–173, §221(d)(2), added par. (5).
 
 Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
 
-<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section1395w–21(a)(2)(A) of this title" in introductory provisions.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section 1395w–21(a)(2)(A) of this title" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -36,7 +36,7 @@ If industry associations or standard-setting organizations fail to issue technic
 
 #### (1) Petition
 
-&emsp;A telecommunications carrier proposing to install or deploy, or having installed or deployed, any equipment, facility, or service prior to the effective date of section 1002 of this title may petition the Commission for 1 or more extensions of the deadline for complying with the assistance capability requirements under section 1002 of this title.
+&emsp;A telecommunications carrier proposing to install or deploy, or having installed or deployed, any equipment, facility, or serviceprior to the effective date of section 1002 of this title may petition the Commission for 1 or more extensions of the deadline for complying with the assistance capability requirements under section 1002 of this title.
 
 #### (2) Grounds for extension
 

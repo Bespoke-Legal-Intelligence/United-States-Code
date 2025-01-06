@@ -38,13 +38,13 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 &emsp;(B) may, by regulation, prescribe a period of time, not to exceed one year, from the time an officer is placed on the active-duty list during which the officer shall be ineligible for consideration for promotion; and
 
-&emsp;(C) may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened.
+&emsp;(C) may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened or an approved retirement date.
 
 (3)(A) The Secretary of Defense may authorize the Secretaries of the military departments to preclude from consideration by selection boards for promotion to the grade of brigadier general or rear admiral (lower half) officers in the grade of colonel or, in the case of the Navy, captain who—
 
 &emsp;(i) have been considered and not selected for promotion to the grade of brigadier general or rear admiral (lower half) by at least two selection boards; and
 
-&emsp;(ii) are determined, in accordance with standards and procedures prescribed pursuant to subparagraph (B), as not being exceptionally well qualified for promotion.
+&emsp;(ii) are determined, in accordance with standards and procedures prescribed pursuantto subparagraph (B), as not being exceptionally well qualified for promotion.
 
 (B) If the Secretary of Defense authorizes the Secretaries of the military departments to have the authority described in subparagraph (A), the Secretary shall prescribe by regulation the standards and procedures for the exercise of such authority. Those regulations shall apply uniformly among the military departments and shall include the following provisions:
 
@@ -80,17 +80,21 @@ Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) T
 
 (2) The Secretary concerned may only approve a request under paragraph (1) if—
 
-&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
 
 &emsp;(B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
 
 &emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179; Pub. L. 115–232, div. A, title V, §505(a), Aug. 13, 2018, 132 Stat. 1742; Pub. L. 116–283, div. A, title IX, §924(b)(3)(E), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–81, div. A, title V, §502, Dec. 27, 2021, 135 Stat. 1680; Pub. L. 118–31, div. A, title XVII, §1722(b)(3), Dec. 22, 2023, 137 Stat. 668.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179; Pub. L. 115–232, div. A, title V, §505(a), Aug. 13, 2018, 132 Stat. 1742; Pub. L. 116–283, div. A, title IX, §924(b)(3)(E), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–81, div. A, title V, §502, Dec. 27, 2021, 135 Stat. 1680; Pub. L. 118–31, div. A, title XVII, §1722(b)(3), Dec. 22, 2023, 137 Stat. 668; Pub. L. 118–159, div. A, title V, §§503(b), 505(a)(1), Dec. 23, 2024, 138 Stat. 1868, 1869.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(2)(C). Pub. L. 118–159, §503(b), inserted "or an approved retirement date" after "an established separation date that is within 90 days after the date the board is convened".
+
+Subsec. (e)(2)(A). Pub. L. 118–159, §505(a)(1), inserted "training," after "Department," and substituted "assignment, education, or training" for "assignment or education".
 
 <b>2023</b>—Subsec. (a). Pub. L. 118–31 substituted "or Marine Corps" for "Marine Corps, or Space Force" wherever appearing.
 
@@ -210,5 +214,5 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 

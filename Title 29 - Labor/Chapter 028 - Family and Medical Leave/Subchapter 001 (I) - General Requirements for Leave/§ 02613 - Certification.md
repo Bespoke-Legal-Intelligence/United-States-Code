@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An employer may require that a request for leave under subparagraph (C) or (D) of paragraph (1) or paragraph (3) of section 2612(a) of this title be supported by a certification issued by the health care provider of the eligible employee or of the son, daughter, spouse, or parent of the employee, or of the next of kin of an individual in the case of leave taken under such paragraph (3), as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employer.
+An employer may require that a request for leave under subparagraph (C) or (D) of paragraph (1) or paragraph (3) of section 2612(a) of this title be supported by a certification issued by the health care provider of the eligible employee or of the son, daughter, spouse, or parent of the employee, or of the next of kin of an individualin the case of leave taken under such paragraph (3), as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employer.
 
 #### (b) Sufficient certification
 
@@ -38,7 +38,7 @@ Certification provided under subsection (a) shall be sufficient if it states—
 
 #### (1) In general
 
-&emsp;In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided undersubsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
+&emsp;In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided under subsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
 
 #### (2) Finality
 

@@ -74,7 +74,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Manner and effect of election
 
-&emsp;The election authorized under this subsection shall be made in accordance with suchregulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
+&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
 
 #### (d) Bond defined
 
@@ -144,7 +144,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1951(b)(5)(A)(iv), struck out "or (iii)" aft
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (c)(1). Pub. L. 94–455, §1901(b)(1)(E)(v), substituted "In the case of bonds the interest on which is not excludible from gross income, this section shall apply only if the taxpayer has so elected" for "This section shall apply with respect to the following classesof taxpayers with respect to the following classes of bonds only if the taxpayer has elected to have this section apply" after "election permitted", and struck out subpars. (A) and (B) relating to partially tax-exempt, and wholly taxable, bonds.
+Subsec. (c)(1). Pub. L. 94–455, §1901(b)(1)(E)(v), substituted "In the case of bonds the interest on which is not excludible from gross income, this section shall apply only if the taxpayer has so elected" for "This section shall apply with respect to the following classes of taxpayers with respect to the following classes of bonds only if the taxpayer has elected to have this section apply" after "election permitted", and struck out subpars. (A) and (B) relating to partially tax-exempt, and wholly taxable, bonds.
 
 Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" in three places after "Secretary".
 
@@ -182,7 +182,7 @@ Pub. L. 99–514, title XVIII, §1803(a)(11)(C), Oct. 22, 1986, 100 Stat. 2795, 
 
 "(i) The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after September 27, 1985.
 
-"(ii) In the case of a taxpayer with respect to whom an election is in effect on the date of the enactment of this Act \[Oct. 22, 1986\] under section 171(c) of the Internal Revenue Code of 1954 \[now 1986\], such election shall apply to obligations issued after September 27, 1985, only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations."
+"(ii) In the case of a taxpayer with respect to whom an election is in effect on the date of the enactment of this Act \[Oct. 22, 1986\] under section 171(c) of the Internal Revenue Code of 1954 \[now 1986\], such election shall apply to obligations issued after September 27, 1985, only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of theTreasury or his delegate) to have such election apply with respect to such obligations."
 
 Pub. L. 99–514, title XVIII, §1803(a)(12)(B), Oct. 22, 1986, 100 Stat. 2796, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges after May 6, 1986."
 

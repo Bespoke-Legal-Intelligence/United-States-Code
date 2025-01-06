@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (4) Taxable period
 
-&emsp;The term "taxable period" means any year beginning before July 1, 2029, and the periodwhich begins on July 1, 2029, and ends at the close of September 30, 2029.
+&emsp;The term "taxable period" means any year beginning before July 1, 2029, and the period which begins on July 1, 2029, and ends at the close of September 30, 2029.
 
 #### (5) Customary use
 
@@ -132,7 +132,7 @@ Amendment by section 513(c), (e) of Pub. L. 97–424 effective July 1, 1984, see
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1904(c) of Pub. L. 94–455 effective on first day of first month which begins more than90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(c) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1961 Amendment
 

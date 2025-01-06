@@ -102,7 +102,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 "(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property,records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 "(7)
 
@@ -136,7 +136,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;"(B)
 
-Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
+Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not beenenacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
 
 &emsp;"(C)
 
@@ -188,7 +188,7 @@ Report.—Not later than 1 year after the effective date of this Act \[for gener
 
 "(d)
 
-Pilot Program.—From amounts made available to carry out this section, the Corporation shall developand carry out a pilot program based on the findings and plan in the report submitted under subsection (c).
+Pilot Program.—From amounts made available to carry out this section, the Corporation shall develop and carry out a pilot program based on the findings and plan in the report submitted under subsection (c).
 
 "(e)
 
@@ -302,7 +302,7 @@ Definition.—The term 'transition period' means the period beginning on October
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
-On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and CommunityService. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
+On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
 In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 
@@ -366,7 +366,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (ii) exchange information and ideas with interested individuals and organizations on ways to expand and improve volunteer service and civic participation;
 
-(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools andyouth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
+(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools and youth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
 
 (iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
 

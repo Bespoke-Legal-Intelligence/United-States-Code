@@ -2,7 +2,7 @@
 
 #### (a) Time limit; value of reserved right
 
-Owners of improved property acquired by the Secretary may reserve for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a term that is not more than twenty-five years. The value of the reserved right shall be deducted from the fair market value paid for the property.
+Owners of improved property acquired by the Secretary may reserve for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a term that is not more than twenty-five years. The value of thereserved right shall be deducted from the fair market value paid for the property.
 
 #### (b) Termination of right; compensation
 

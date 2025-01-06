@@ -32,6 +32,16 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 
 "(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under section 10281 of this title\] shall take effect on October 1, 1984."
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–159, div. E, title LII, §5201, Dec. 23, 2024, 138 Stat. 2433, provided that: "This subtitle \[subtitle A (§§5201–5203) of title LII of div. E of Pub. L. 118–159, amending section 20942 of this title, section 405 of Title 5, Government Organization and Employees, sections 3801 to 3803, 3806, and 3808 of Title 31, Money and Finance, and section 7105 of Title 41, Public Contracts, and enacting and amending provisions set out as notes under section 3801 of Title 31\] may be cited as the 'Law Enforcement And \[sic\] Victim Support Act of 2024'."
+
+Pub. L. 118–72, §1, July 30, 2024, 138 Stat. 1503, provided that: "This Act \[amending section 40701 of this title\] may be cited as the 'Debbie Smith Act of 2023'."
+
+Pub. L. 118–65, §1, June 17, 2024, 138 Stat. 1439, provided that: "This Act \[amending sections 11292, 11293, 11295a, and 11297 of this title\] may be cited as the 'Missing Children's Assistance Reauthorization Act of 2023'."
+
+Pub. L. 118–64, §1, May 24, 2024, 138 Stat. 1435, provided that: "This Act \[amending sections 10381 and 10384 of this title\] may be cited as the 'Recruit and Retain Act'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 117–347, §1, Jan. 5, 2023, 136 Stat. 6199, provided that: "This Act \[see Tables for classification\] may be cited as the 'Abolish Trafficking Reauthorization Act of 2022'."
@@ -74,7 +84,7 @@ Pub. L. 117–103, div. W, title XV, §1501, Mar. 15, 2022, 136 Stat. 951, provi
 
 Pub. L. 117–61, §1, Nov. 18, 2021, 135 Stat. 1474, provided that: "This Act \[amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under section 10281 of this title\] may be cited as the 'Protecting America's First Responders Act of 2021'."
 
-Pub. L. 117–60, §1, Nov. 18, 2021, 135 Stat. 1470, provided that: "This Act \[enacting chapter 509 of thistitle\] may be cited as the 'Confidentiality Opportunities for Peer Support Counseling Act' or the 'COPS Counseling Act'."
+Pub. L. 117–60, §1, Nov. 18, 2021, 135 Stat. 1470, provided that: "This Act \[enacting chapter 509 of this title\] may be cited as the 'Confidentiality Opportunities for Peer Support Counseling Act' or the 'COPS Counseling Act'."
 
 Pub. L. 117–27, §1, July 22, 2021, 135 Stat. 301, provided that: "This Act \[amending sections 20101 to 20103 of this title\] may be cited as the 'VOCA Fix to Sustain the Crime Victims Fund Act of 2021'."
 
@@ -190,7 +200,7 @@ Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \
 
 Pub. L. 113–4, §1, Mar. 7, 2013, 127 Stat. 54, provided that: "This Act \[see Tables for classification\] may be cited as the 'Violence Against Women Reauthorization Act of 2013'."
 
-Pub. L. 113–4, title X, §1001, Mar. 7, 2013, 127 Stat. 127, provided that: "This title \[amending section 40701 of this title and enacting provisions set out as notes under section 40701 of this title\] may be cited as the 'Sexual Assault Forensic Evidence Reporting Act of 2013' or the 'SAFER Act of 2013'."
+Pub. L. 113–4, title X, §1001, Mar. 7, 2013, 127 Stat. 127, provided that: "This title \[amending section 40701 of this title and enacting provisions set out as notesunder section 40701 of this title\] may be cited as the 'Sexual Assault Forensic Evidence Reporting Act of 2013' or the 'SAFER Act of 2013'."
 
 Pub. L. 112–253, §1, Jan. 10, 2013, 126 Stat. 2407, provided that: "This Act \[enacting sections 40741 to 40744 of this title and amending section 40701 of this title\] may be cited as the 'Katie Sepich Enhanced DNA Collection Act of 2012'."
 
@@ -202,7 +212,7 @@ Pub. L. 112–189, §1, Oct. 5, 2012, 126 Stat. 1435, provided that: "This Act \
 
 #### Short Title of 2010 Act
 
-Pub. L. 111–341, §1, Dec. 22, 2010, 124 Stat. 3606, provided that: "This Act \[amending provisions set out asa note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2010'."
+Pub. L. 111–341, §1, Dec. 22, 2010, 124 Stat. 3606, provided that: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2010'."
 
 Pub. L. 111–143, §1, Mar. 1, 2010, 124 Stat. 41, provided that: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2009'."
 
@@ -416,7 +426,7 @@ Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: "That this Act \
 
 #### Short Title of 1974 Act
 
-Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[see Tables for classification\] may becited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
+Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[see Tables for classification\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
 
 Pub. L. 93–415, title II, §220, as added by Pub. L. 115–385, title II, §204(c)(2), Dec. 21, 2018, 132 Stat. 5131, provided that: "This part \[part B (§§220–223) of title II of Pub. L. 93–415, enacting part B of subchapter II of chapter 111 of this title\] may be cited as the 'Charles Grassley Juvenile Justice and Delinquency Prevention Program'."
 

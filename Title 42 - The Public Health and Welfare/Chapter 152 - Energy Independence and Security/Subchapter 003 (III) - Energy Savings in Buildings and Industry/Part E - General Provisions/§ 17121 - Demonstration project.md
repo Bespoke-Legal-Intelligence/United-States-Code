@@ -92,7 +92,7 @@ Not later than 1 year after December 19, 2007, and annually thereafter through S
 
 &emsp;(1) the Federal Director and the Commercial Director shall submit to the Secretary a report that describes the status of the demonstration projects; and
 
-&emsp;(2) each University at which a demonstration project under this section is conductedshall submit to the Secretary a report that describes the status of the demonstration projects under this section.
+&emsp;(2) each University at which a demonstration project under this section is conducted shall submit to the Secretary a report that describes the status of the demonstration projects under this section.
 
 #### (f) Authorization of appropriations
 

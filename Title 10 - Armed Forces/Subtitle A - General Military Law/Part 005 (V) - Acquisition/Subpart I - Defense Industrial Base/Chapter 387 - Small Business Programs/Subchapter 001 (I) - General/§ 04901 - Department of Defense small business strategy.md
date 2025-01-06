@@ -50,6 +50,134 @@ Section 801 of the National Defense Authorization Act for Fiscal Year 2018, refe
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Accessibility and Clarity in Covered Notices for Small Business Concerns
+
+Pub. L. 118–159, div. A, title VIII, §875, Dec. 23, 2024, 138 Stat. 2014, provided that:
+
+"(a)
+
+In General.—Each covered notice shall be written in a manner—
+
+&emsp;"(1) such that a small business concern can easily understand the intent of the covered notice; and
+
+&emsp;"(2) that—
+
+&emsp;&emsp;"(A) is clear, concise, and well-organized; and
+
+&emsp;&emsp;"(B) to the maximum extent practicable, follows other best practices appropriate to the subject or field of the covered notice and the intended audience of the covered notice.
+
+"(b)
+
+Inclusion of Key Words in Covered Notices.—Each covered notice shall, to the maximum extent practicable, include key words in the description of the covered notice such that a small business concern seeking contract opportunities using the single Government-wide point of entry described under section 1708 of title 41, United States Code, can easily identify and understand such covered notice.
+
+"(c)
+
+Rulemaking.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall issue rules to carry out this section.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered notice.—The term 'covered notice' means a notice that—
+
+&emsp;&emsp;"(A) the Secretary of Defense or a Secretary of a military department publishes on SAM.gov (or any successor website) marketing Federal contract opportunities; and
+
+&emsp;&emsp;"(B) pertains to small business concerns, such as a sources sought notice or a solicitation restricted to competition among small business concerns.
+
+&emsp;"(2)
+
+Small business concern.—The term 'small business concern' has the meaning given the term under section 3 of the Small Business Act (15 U.S.C. 632)."
+
+#### Small Business Bill of Rights
+
+Pub. L. 118–159, div. A, title VIII, §876, Dec. 23, 2024, 138 Stat. 2015, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense, acting through the Small Business Integration Group in the Department of Defense led by the Under Secretary of Defense for Acquisition and Sustainment, shall develop a Small Business Bill of Rights for the Department of Defense and its components.
+
+"(b)
+
+Purpose.—The Small Business Integration Group in the Department of Defense shall design the Small Business Bill of Rights required under subsection (a) to ensure a healthy partnership between the Department of Defense and the defense industrial base and to encourage small businesses to contract with the Department by ensuring customer service issues and conflicts between the Department and small businesses related to acquisitions by the Department are resolved in an expeditious manner and that small businesses are aware of their rights to assistance under Federal law in resolving such issues.
+
+"(c)
+
+Content.—The Bill of Rights required under subsection (a) shall do the following:
+
+&emsp;"(1) Authorize the Director of Small Business Programs of the Department to establish a resolution process to which all Department of Defense components, members of the small business professional workforce of the Department, and other relevant officials and organizations of the Department, must adhere.
+
+&emsp;"(2) Authorize the Director of Small Business Programs of the Department, each Director of Small Business Programs of a military department, and members of the small business professional workforce of the Department of Defense to—
+
+&emsp;&emsp;"(A) request assistance from members of the acquisition workforce in their component of the Department with the customer service issues and conflicts described in subsection (b);
+
+&emsp;&emsp;"(B) require a \[sic\] timely responses from such members; and
+
+&emsp;&emsp;"(C) establish a framework for implementation by the components of the Department, members of the small business professional workforce, and other relevant officials and organizations of the Department providing for fair and reasonable resolution of complaints by small business for issues between small businesses and the Department.
+
+&emsp;"(3) Ensure that small businesses are informed of—
+
+&emsp;&emsp;"(A) the rights of small businesses to assistance under the Small Business Regulatory Enforcement Fairness Act \[title II of Pub. L. 104–121\] (5 U.S.C. 601 note), the Small Business Act (15 U.S.C. 631 et seq.), chapter 388 of title 10, United States Code, and any other applicable law;
+
+&emsp;&emsp;"(B) how to contact each task and delivery ombudsman designated under section 3406(g) of title 10, United States Code;
+
+&emsp;&emsp;"(C) how to contact the Office of Small Business Programs of the Department of Defense and the Office of Small Business Programs of each military department; and
+
+&emsp;&emsp;"(D) how to contact each advocate for competition in the Department of Defense designated pursuant to section 1705(a) of title 41, United States Code.
+
+&emsp;"(4) Establish guidance—
+
+&emsp;&emsp;"(A) for the acquisition workforce of the Department of Defense on the rights of small businesses under Federal law and the regulations issued thereunder, including the Federal Acquisition Regulation and FAR and the Defense Federal Acquisition Regulation Supplement;
+
+&emsp;&emsp;"(B) on the duties and authorities of the task and delivery ombudsmans designated under section 3406(g) of title 10, United States Code, and the advocates for competition in the Department of Defense designated pursuant to section 1705(a) of title 41, United States Code; and
+
+&emsp;&emsp;"(C) on a reasonable and practical timeline, as determined by the Undersecretary of Defense for Acquisition and Sustainment, for contracting officers of the Department to response to an inquiry from the Office of Small Business Programs of the Department of Defense or the Office of Small Business Programs of each military department.
+
+&emsp;"(5) Coordinate assistance under the Bill of Rights with other regulatory compliance assistance to small business concerns, current and desired sets of authorities, roles, and responsibilities across the Offices of Small Business Programs of the Department of Defense, APEX Accelerators, members of the small business professional workforce of the Department of Defense, and other relevant officials or organizations of the Department.
+
+"(d)
+
+Annual Briefings.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], and annually thereafter, the Director of Small Business Programs of the Department shall provide to the Secretary of Defense and the Committees on ArmedServices of the House of Representatives and the Senate a briefing on the annual metrics collected under paragraph (2) for the year covered by the report.
+
+&emsp;"(2)
+
+Collection of annual metrics.—
+
+&emsp;&emsp;"(A) The Office of Small Business Programs of the Department of Defense shall—
+
+&emsp;&emsp;&emsp;"(i) develop annual metrics on the submission of complaints by contractors of the Department of Defense pursuant to the Small Business Bill of Rights required under subsection (a);
+
+&emsp;&emsp;&emsp;"(ii) provide each component of the Department such annual metrics; and
+
+&emsp;&emsp;&emsp;"(iii) collect and consolidate such annual metrics submitted to the Office under subparagraph (B).
+
+&emsp;&emsp;"(B) Each component of the Department of Defense shall collect and submit to the Office of Small Business Programs of the Department of Defense the annual metrics.
+
+"(e)
+
+Implementation Briefing.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Under Secretary of Defense for Acquisition and Sustainment shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing detailing the Small Business Bill of Rights required under subsection (a) and the plan to implement such Small Business Bill of Rights.
+
+"(f)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Director of Small Business Programs of the Department' means the Director of Small Business Programs in the Department of Defense appointed under section 144 of title 10, United States Code;
+
+&emsp;"(2) the term 'Director of Small Business Programs of a military department' means—
+
+&emsp;&emsp;"(A) the Director of Small Business Programs in the Department of the Army appointed under section 7024 of title 10, United States Code;
+
+&emsp;&emsp;"(B) the Director of Small Business Programs in the Department of the Navy appointed under section 8028 of such title; or
+
+&emsp;&emsp;"(C) the Director of Small Business Programs in the Department of the Air Force appointed under section 9024 of such title; and
+
+&emsp;"(3) the term 'military department' has the meaning given such term in section 101(a) of title 10, United States Code."
+
 #### Small Business Integration Working Group
 
 Pub. L. 117–263, div. A, title VIII, §874, Dec. 23, 2022, 136 Stat. 2741, provided that:
@@ -58,7 +186,7 @@ Pub. L. 117–263, div. A, title VIII, §874, Dec. 23, 2022, 136 Stat. 2741, pro
 
 In General.—Not later than 60 days after the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall issue a charter to establish a small business integration working group that—
 
-&emsp;"(1) ensures the integration and synchronization of the activities of the military departments and othercomponents of the Department of Defense with respect to small business concerns; and
+&emsp;"(1) ensures the integration and synchronization of the activities of the military departments and other components of the Department of Defense with respect to small business concerns; and
 
 &emsp;"(2) convenes not fewer than four times per year.
 

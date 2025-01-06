@@ -142,7 +142,7 @@ Subsec. (a)(26), (27). Pub. L. 109–162, §1156(4), added pars. (26) and (27).
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: " 'unit of local government' means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;".
 
-Subsec. (a)(17). Pub. L. 105–244, which directed amendment of par. (17) of this section by substituting "1001" for "1141(a)", was executed to subsec. (a)(17) of this section, to reflect the probable intent of Congress.
+Subsec. (a)(17). Pub. L. 105–244, which directed amendment of par. (17) of this section by substituting "1001"for "1141(a)", was executed to subsec. (a)(17) of this section, to reflect the probable intent of Congress.
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §330001(h)(13), substituted "Columbia, and" for "Columbia and,".
 

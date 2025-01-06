@@ -10,7 +10,7 @@ Pursuant to article 10.10 of the USMCA (as defined in section 4502 of this title
 
 This subchapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under section 4301 of this title and Tables.
 
-The amendments made by this title, referred to in text, mean the amendments made by title IV of Pub. L.114–125, Feb. 24, 2016, 130 Stat. 155. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under section 4301 of this title and Tables.
+The amendments made by this title, referred to in text, mean the amendments made by title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under section 4301 of this title and Tables.
 
 #### Amendments
 

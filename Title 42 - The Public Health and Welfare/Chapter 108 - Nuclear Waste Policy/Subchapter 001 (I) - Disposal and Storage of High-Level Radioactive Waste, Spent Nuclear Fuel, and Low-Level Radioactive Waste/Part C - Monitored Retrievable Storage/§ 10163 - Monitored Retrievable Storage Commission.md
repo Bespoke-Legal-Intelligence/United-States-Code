@@ -6,7 +6,7 @@
 
 (B) Members of the MRS Commission shall be appointed not later than 30 days after December 22, 1987, from among persons who as a result of training, experience and attainments are exceptionally well qualified to evaluate the need for a monitored retrievable storage facility as a part of the Nation's nuclear waste management system.
 
-(C) The MRS Commission shall prepare a report on the need for a monitored retrievable storage facility as a part of a national nuclear waste management system that achieves the purposes of this chapter. In preparing the report under this subparagraph, the MRS Commission shall—
+(C) The MRS Commission shall prepare a report on the need for a monitored retrievablestorage facility as a part of a national nuclear waste management system that achieves the purposes of this chapter. In preparing the report under this subparagraph, the MRS Commission shall—
 
 &emsp;(i) review the status and adequacy of the Secretary's evaluation of the systems advantages and disadvantages of bringing such a facility into the national nuclear waste disposal system;
 

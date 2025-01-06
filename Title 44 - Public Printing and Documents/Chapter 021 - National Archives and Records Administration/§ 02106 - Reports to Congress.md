@@ -6,7 +6,7 @@ The Archivist shall submit to the Congress, in January of each year and at such 
 
 &emsp;(2) research projects and publications undertaken by Commission grantees, and by Trust Fund grantees, including detailed information concerning the receipt and use of all appropriated and nonappropriated funds;
 
-&emsp;(3) by account, the moneys, securities, and other personal property received and held bythe National Archives Trust Fund Board, and of its operations, including a listing of the purposes for which funds are transferred to the National Archives and Records Administration for expenditure to other Federal agencies; and
+&emsp;(3) by account, the moneys, securities, and other personal property received and held by the National Archives Trust Fund Board, and of its operations, including a listing of the purposes for which funds are transferred to the National Archives and Records Administration for expenditure to other Federal agencies; and
 
 &emsp;(4) the matters specified in section 2904(c)(8) of this title.
 

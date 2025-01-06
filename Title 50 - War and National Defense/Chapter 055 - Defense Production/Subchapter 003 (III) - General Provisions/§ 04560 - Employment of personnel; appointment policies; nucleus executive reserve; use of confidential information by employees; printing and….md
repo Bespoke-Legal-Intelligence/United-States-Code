@@ -10,7 +10,7 @@
 
 &emsp;(i) So far as possible, operations under this chapter shall be carried on by full-time, salaried employees of the Government, and appointments under this authority shall be to advisory or consultative positions only.
 
-&emsp;(ii) Appointments to positions other than advisory or consultative may be made under this authority only when the requirements of the position are such that the incumbent must personally possess outstanding experience and ability not obtainable on a full-time, salaried basis.
+&emsp;(ii) Appointments to positions other than advisory or consultative may be made under this authority only when the requirements ofthe position are such that the incumbent must personally possess outstanding experience and ability not obtainable on a full-time, salaried basis.
 
 (3) Appointees under this subsection shall, when policy matters are involved, be limited to advising appropriate full-time salaried Government officials who are responsible for making policy decisions.
 
@@ -138,7 +138,7 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 &emsp;(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title; and
 
-&emsp;(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
+&emsp;(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer ofthe United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out under section 761 of Title 15, Commerce and Trade.
 

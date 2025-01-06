@@ -24,7 +24,7 @@ In this section:
 
 &emsp;&emsp;(A) benefit heads of the elements of the intelligence community in identifying commercial emerging technologies and associated capabilities to address critical mission needs of elements of the intelligence community;
 
-&emsp;&emsp;(B) provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.
+&emsp;&emsp;(B) provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.<sup>1</sup>
 
 &emsp;&emsp;(C) facilitate the transition of potential prototypes and solutions to critical mission needs of the intelligence community from research and prototype projects to production; and
 
@@ -72,7 +72,7 @@ The Unit shall not abrogate or otherwise constrain any element of the intelligen
 
 #### (1) In general
 
-&emsp;In addition to the Director of the Intelligence Community Innovation Unit, the Unit shall be composed of not more than 50 full-time equivalent positions.
+&emsp;In addition to the Director of the Intelligence Community Innovation Unit, the Unitshall be composed of not more than 50 full-time equivalent positions.
 
 #### (2) Staff with certain expertise
 
@@ -113,4 +113,6 @@ The Director of National Intelligence shall take such steps as may be necessary 
 The authorities and requirements of this section shall terminate on the date that is 5 years after the date of the establishment of the Unit.
 
 (July 26, 1947, ch. 343, title I, §103L, as added Pub. L. 118–31, div. G, title V, §7502, Dec. 22, 2023, 137 Stat. 1079.)
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

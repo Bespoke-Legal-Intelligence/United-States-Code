@@ -158,7 +158,7 @@ Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act
 
 #### Codification
 
-In subsec. (a), "section 524(a)(2) and (3) of title 40" substituted for "section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))", in subsecs.(b)(2)(A)(ii) and (f)(1), "section 550(a)–(d) of title 40" substituted for "paragraphs (1)and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))", in subsecs. (d)(4)(A) and (f)(3)(A), "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)", in subsec. (f)(3)(A), "section 550 of title 40" substituted for "section 203(k) of such Act", meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), "section 550 of title 40" substituted for "section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))", and, in subsec. (i)(2), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), "section 524(a)(2) and (3) of title 40" substituted for "section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))", in subsecs.(b)(2)(A)(ii) and (f)(1), "section 550(a)–(d) of title 40" substituted for "paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))", in subsecs. (d)(4)(A) and (f)(3)(A), "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)", in subsec. (f)(3)(A), "section 550 of title 40" substituted for "section 203(k) of such Act", meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), "section 550 of title 40" substituted for "section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))", and, in subsec. (i)(2), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Reporting Requirement.—
 
 &emsp;"(1)
 
-In general.—If any head of a department, agency, or other element of the Department makes adetermination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year.
+In general.—If any head of a department, agency, or other element of the Department makes a determination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year.
 
 &emsp;"(2)
 

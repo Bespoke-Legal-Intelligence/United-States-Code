@@ -98,7 +98,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (A) In general
 
-&emsp;&emsp;Subject to any terms and conditions that the Secretary may require (including the requirements described in subparagraph (B)), the Secretary may, at the request of the State of Vermont, convey to the State, by quitclaim deed, without consideration, any land or interest in land acquired in the State under the Forest Legacy Program.
+&emsp;&emsp;Subject to any terms and conditions that the Secretary may require (including the requirements described in subparagraph (B)), the Secretary may, at the request of the State of Vermont, convey to the State, byquitclaim deed, without consideration, any land or interest in land acquired in the State under the Forest Legacy Program.
 
 #### (B) Requirements
 

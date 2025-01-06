@@ -38,7 +38,7 @@
 
 &emsp;(vi) Any health profession performed by officers in the Veterinary Corps of the Army or by officers designated as a veterinary officer.
 
-(3) The amount of constructive service credit credited to an officer under this subsection maynot exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of colonel or as a reserve officer of the Navy in the grade of captain.
+(3) The amount of constructive service credit credited to an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of colonel or as a reserve officer of the Navy in the grade of captain.
 
 (4) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer or assignment to or designation in an officer category in which advanced education or training or special experience is required.
 

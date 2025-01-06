@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Sept. 19, 1951, ch. 407, §102 (less (a)), 65 Stat. 327.
 
-In subsection (a), the word "person" is substituted for the words "officer of the United States". The words "until a successor is appointed" are omitted as surplusage.
+In subsection (a), the word "person" is substituted for the words "officer of the United States". The words"until a successor is appointed" are omitted as surplusage.
 
 Subsection (b) is substituted for 5:626–1(c) and states the effect of section 8544(b) of this title.
 

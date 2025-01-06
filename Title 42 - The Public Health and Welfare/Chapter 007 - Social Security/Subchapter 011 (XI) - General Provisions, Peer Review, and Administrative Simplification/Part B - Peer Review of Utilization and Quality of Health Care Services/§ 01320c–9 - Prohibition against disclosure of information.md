@@ -54,7 +54,7 @@ Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (e), was repeal
 
 #### Prior Provisions
 
-A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1438; amended Oct. 25, 1977, Pub. L. 95–142, §5(e), (o)(3), 91 Stat. 1189, 1191; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2113(g), 95 Stat. 795, enumerated obligations of health care practitioners and providers of health care services, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1438; amended Oct. 25, 1977, Pub. L. 95–142, §5(e), (o)(3), 91 Stat. 1189, 1191; Aug. 13, 1981, Pub.L. 97–35, title XXI, §2113(g), 95 Stat. 795, enumerated obligations of health care practitioners and providers of health care services, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 

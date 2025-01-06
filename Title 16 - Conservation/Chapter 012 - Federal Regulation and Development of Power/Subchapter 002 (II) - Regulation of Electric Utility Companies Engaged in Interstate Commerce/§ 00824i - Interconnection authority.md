@@ -62,7 +62,7 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities
 
-For provisions requiring the Federal Energy Regulatory Commission to conduct a study and report toCongress on whether the benefits of this section and section 824a–3 of this title should be applied to hydroelectric power facilities utilizing new dams or diversions, within the meaning of section 824a–3(k) of this title, see section 8(d) of Pub. L. 99–495, set out as a note under section 824a–3 of this title.
+For provisions requiring the Federal Energy Regulatory Commission to conduct a study and report to Congress on whether the benefits of this section and section 824a–3 of this title should be applied to hydroelectric power facilities utilizing new dams or diversions, within the meaning of section 824a–3(k) of this title, see section 8(d) of Pub. L. 99–495, set out as a note under section 824a–3 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

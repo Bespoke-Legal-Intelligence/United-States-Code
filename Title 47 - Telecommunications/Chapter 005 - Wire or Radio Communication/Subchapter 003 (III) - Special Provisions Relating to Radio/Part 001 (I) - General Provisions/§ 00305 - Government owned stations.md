@@ -2,7 +2,7 @@
 
 #### (a) Frequencies; compliance with regulations; stations on vessels
 
-Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to each class by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
+Radio stations belonging to and operated by the United States shall not be subject to theprovisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to each class by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
 
 #### (b) Call letters
 
@@ -36,7 +36,7 @@ In subsec. (c), "subchapter II of chapter 5, and chapter 7, of title 5" substitu
 
 #### Transfer of Functions
 
-For transfer of functions of United States Shipping Board Bureau and United States Shipping Board Merchant Fleet Corporation, see Ex. Ord. No. 6166, set out under section 901 of Title 5, Government Organization and Employees, act June 29, 1936, ch. 858, title II, §§203,204, title IX, §904, 49 Stat. 1987, 2016, and Reorg. Plan No. 6 of 1949, Reorg. Plan No. 21 of 1950, and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
+For transfer of functions of United States Shipping Board Bureau and United States Shipping Board Merchant Fleet Corporation, see Ex. Ord. No. 6166, set out under section 901 of Title 5, Government Organization and Employees, act June 29, 1936, ch. 858, title II, §§203, 204, title IX, §904, 49 Stat. 1987, 2016, and Reorg. Plan No. 6 of 1949, Reorg. Plan No. 21 of 1950, and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1970</b>
 
@@ -64,7 +64,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 4. Performance of Functions of Director
 
-(a) The Director may appoint employees necessary for the work of the Office under the classified civil service and fix their compensation in accordance with the classification laws.
+(a) The Director may appoint employees necessary for the work of the Office under the classified civilservice and fix their compensation in accordance with the classification laws.
 
 (b) The Director may from time to time make such provisions as he shall deem appropriate authorizing the performance of any function transferred to him hereunder by any other officer, or by any organizational entity or employee, of the Office.
 
@@ -98,7 +98,7 @@ In addition to the functions which are transferred to it by the reorganization p
 
 The new Office of Telecommunications Policy would play three essential roles:
 
-1\. It would serve as the President's principal adviser on telecommunications policy, helping to formulate government policies concerning a wide range of domestic and international telecommunications issues and helping to develop plans and programs which take full advantage of the nation's technological capabilities. The speed of economic and technological advance in our time means that new questions concerning communications are constantly arising, questions on whichthe government must be well informed and well advised. The new Office will enable the President and all government officials to share more fully in the experience, the insights, and the forecasts of government and non-government experts.
+1\. It would serve as the President's principal adviser on telecommunications policy, helping to formulate government policies concerning a wide range of domestic and international telecommunications issues and helping to develop plans and programs which take full advantage of the nation's technological capabilities. The speed of economic and technological advance in our time means that new questions concerning communications are constantly arising, questions on which the government must be well informed and well advised. The new Office will enable the President and all government officials to share more fully in the experience, the insights, and the forecasts of government and non-government experts.
 
 2\. The Office of Telecommunications Policy would help formulate policies and coordinate operations for the Federal government's own vast communications systems. It would, for example, set guidelines for the various departments and agencies concerning their communications equipment and services. It would regularly review the ability of government communications systems to meet the security needs of the nation and to perform effectively in time of emergency. The Office would direct the assignment of those portions of the radio spectrum which are reserved for government use, carry out responsibilities conferred on the President by the Communications Satellite Act, advise State and local governments, and provide policy direction for the National Communications System.
 
@@ -110,7 +110,7 @@ The reorganization provided for in this plan make necessary the appointment and 
 
 This plan should result in the more efficient operation of the government. It is not practical, however, to itemize or aggregate the exact expenditure reductions which will result from this action.
 
-The public interest requires that government policies concerning telecommunications be formulated with as much sophistication and vision as possible. This reorganization plan—and the executive order which would follow it—are necessary instruments if the government is to respond adequately to the challenges and opportunities presented by the rapid pace of change in communications. I urge that the Congress allow this plan to become effective so that these necessary reforms can be accomplished.
+The public interest requires that government policies concerning telecommunications be formulated with asmuch sophistication and vision as possible. This reorganization plan—and the executive order which would follow it—are necessary instruments if the government is to respond adequately to the challenges and opportunities presented by the rapid pace of change in communications. I urge that the Congress allow this plan to become effective so that these necessary reforms can be accomplished.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -164,7 +164,7 @@ Radio Frequencies
 
 2–101. The authority of the President to assign frequencies to radio stations or to classes of radio stations belonging to and operated by the United States, including the authority to amend, modify, or revoke such assignments, was transferred to the Secretary of Commerce.
 
-2–102. This authority, which was originally vested in the President by Section 305(a) of the CommunicationsAct of 1934, as amended (47 U.S.C. 305(a)), was transferred and assigned to the Director of the Office of Telecommunications Policy by Section 1 of Reorganization Plan No. 1 of 1970 and Section 3 of Executive Order No. 11556.
+2–102. This authority, which was originally vested in the President by Section 305(a) of the Communications Act of 1934, as amended (47 U.S.C. 305(a)), was transferred and assigned to the Director of the Office of Telecommunications Policy by Section 1 of Reorganization Plan No. 1 of 1970 and Section 3 of Executive Order No. 11556.
 
 2–103. The authority to assign frequencies to radio stations is subject to the authority to dispose of appeals from frequency assignments as set forth in Section 3–2 of this Order.
 
@@ -320,7 +320,7 @@ Department of State
 
 (a) Exercise the supervision provided for in Section 201(a)(4) of the Communications Satellite Act of 1962, as amended (47 U.S.C. 721(a)(4)), be responsible, although the Secretary of Commerce is the chief point of liaison, for instructing the Communications Satellite Corporation in its role as the designated United States representative to the International Telecommunications Satellite Organization; and direct the foreign relations of the United States with respect to actions under the Communications Satellite Act of 1962, as amended \[section 701 et seq. of this title\].
 
-(b) Coordinate, in accordance with the applicable interagency agreements, the performance of these functions with the Secretary of Commerce, the Federal Communications Commission, other concerned Executive agencies, and the Communications Satellite Corporation (see 47 U.S.C. 731–735). The Corporation and other concerned Executive agencies shall provide theSecretary of State with such assistance, documents, and other cooperation as will enable the Secretary to carry out these functions.
+(b) Coordinate, in accordance with the applicable interagency agreements, the performance of these functions with the Secretary of Commerce, the Federal Communications Commission, other concerned Executive agencies, and the Communications Satellite Corporation (see 47 U.S.C. 731–735). The Corporation and other concerned Executive agencies shall provide the Secretary of State with such assistance, documents, and other cooperation as will enable the Secretary to carry out these functions.
 
 #### 5–3.
 

@@ -16,7 +16,7 @@ For purposes of this subchapter and subchapter II, the levels of new budget auth
 
 #### (c) Maximum deficit amount point of order in Senate
 
-It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider a conference report on that concurrent resolution, if—
+It shall not be in order in the Senate to consider any concurrent resolution on the budgetfor a fiscal year, or to consider any amendment to that concurrent resolution, or to consider a conference report on that concurrent resolution, if—
 
 &emsp;(1) the level of total outlays for the first fiscal year set forth in that concurrent resolution or conference report exceeds; or
 

@@ -18,7 +18,7 @@ The provisions of this chapter shall not apply to any person solely by reason of
 
 &emsp;(1) not otherwise a natural-gas company; or
 
-&emsp;(2) subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
+&emsp;(2) subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdictionover the sale, sale for resale, or transportation of vehicular natural gas.
 
 (June 21, 1938, ch. 556, §1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, §404(a)(1), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, §311(a), Aug. 8, 2005, 119 Stat. 685.)
 

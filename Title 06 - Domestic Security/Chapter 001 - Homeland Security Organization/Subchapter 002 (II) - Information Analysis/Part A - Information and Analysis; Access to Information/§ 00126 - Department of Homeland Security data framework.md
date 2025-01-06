@@ -76,7 +76,7 @@ Not later than 2 years after December 19, 2018, the Secretary of Homeland Securi
 
 #### (3) Value added
 
-&emsp;The Secretary of Homeland Security shall annually brief Congress on component use ofthe data framework required under this section to support operations that disrupt terrorist activities and incidents in the homeland.
+&emsp;The Secretary of Homeland Security shall annually brief Congress on component use of the data framework required under this section to support operations that disrupt terrorist activities and incidents in the homeland.
 
 #### (g) Definitions
 

@@ -60,7 +60,7 @@ Required elements.—A program under subsection (a) shall include elements that 
 
 &emsp;(3)
 
-Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
+Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided tothe foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
 
 &emsp;(4)
 
@@ -96,7 +96,7 @@ Notice and Wait on Activities Under Programs.—Not later than 15 days before in
 
 &emsp;(5) Information, including the amount, type, and purpose, on the security assistance provided the foreign country during the three preceding fiscal years pursuant to authorities under this title, the Foreign Assistance Act of 1961, and any other train and equip authorities of the Department of Defense.
 
-&emsp;(6) A description of the elements of the theater security cooperation plan of the geographic combatant command concerned, andof the interagency integrated country strategy, that will be advanced by the program.
+&emsp;(6) A description of the elements of the theater security cooperation plan of the geographic combatant command concerned, and of the interagency integrated country strategy, that will be advanced by the program.
 
 &emsp;(7) In the case of a program described in subsection (d)(3), each of the following:
 
@@ -132,15 +132,7 @@ Sole source of funds.—Amounts for programs carried out pursuant to subsection 
 
 &emsp;(2)
 
-Availability of funds for programs across fiscal years.—
-
-&emsp;&emsp;(A)
-
-In general.—Amounts available in a fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the second fiscal year thereafter.
-
-&emsp;&emsp;(B)
-
-Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
+Availability of funds for programs across fiscal years.—Amounts made available in fiscal year 2025 or any subsequent fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the third fiscal year thereafter.
 
 (h)
 
@@ -192,7 +184,7 @@ Notification.—Not later than 72 hours after the Secretary of Defense enters in
 
 &emsp;&emsp;(F) Any other matter relating to the agreement, as determined by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, §1202(c), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XII, §1203(b), (c), Dec. 22, 2023, 137 Stat. 441, 442.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, §1202(c), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XII, §1203(b), (c), Dec. 22, 2023, 137 Stat. 441, 442; Pub. L. 118–159, div. A, title XII, §1201(a), Dec. 23, 2024, 138 Stat. 2093.)
 
 #### <b>Editorial Notes</b>
 
@@ -205,6 +197,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pu
 A prior section 333 was renumbered section 253 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (g)(2). Pub. L. 118–159 amended par. (2) generally. Prior to amendment, par. (2) related to availability of funds for programs across fiscal years.
 
 <b>2023</b>—Subsecs. (h), (i). Pub. L. 118–31 added subsecs. (h) and (i).
 
@@ -454,11 +448,11 @@ Covered foreign military partner.—The term 'covered foreign military partner' 
 
 #### Guidance
 
-Pub. L. 114–328, div. A, title XII, §1241(d)(4), Dec. 23, 2016, 130 Stat. 2504, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall prescribe, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], initial policy guidance on roles, responsibilities, and processes in connection with programs and activities authorized by section 333 of title 10, United States Code, as so added. Not later than 270 days after the date of the enactment of this Act, the Secretary shall prescribe, and submit to the congressional defense committees, final policy guidance on roles, responsibilities, and processes in connection with such programs and activities."
+Pub. L. 114–328, div. A, title XII, §1241(d)(4), Dec. 23, 2016, 130 Stat. 2504, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall prescribe, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], initial policy guidance on roles, responsibilities, and processes in connection with programs and activities authorized by section 333 of title 10, United States Code, as so added.Not later than 270 days after the date of the enactment of this Act, the Secretary shall prescribe, and submit to the congressional defense committees, final policy guidance on roles, responsibilities, and processes in connection with such programs and activities."
 
 #### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
 
-Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, §1243, Jan. 1, 2021, 134 Stat. 3947; Pub. L. 117–81, div. A, title XII, §1233, Dec. 27, 2021, 135 Stat. 1974; Pub. L. 118–31, div. A, title XII, §1249, Dec. 22, 2023, 137 Stat. 464, provided that:
+Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, §1243, Jan. 1, 2021, 134 Stat. 3947; Pub. L. 117–81, div. A, title XII, §1233, Dec. 27, 2021, 135 Stat. 1974; Pub. L. 118–31, div. A, title XII, §1249, Dec. 22, 2023, 137 Stat. 464; Pub. L. 118–159, div. A, title XIII, §1302, Dec. 23, 2024, 138 Stat. 2110, provided that:
 
 "(a)
 
@@ -495,6 +489,8 @@ In general.—Training may be provided under subsection (a) to the national secu
 &emsp;&emsp;"(B) Countries that became a member of the North Atlantic Treaty Organization after January 1, 1999.
 
 &emsp;&emsp;"(C) The Republic of Kosovo.
+
+&emsp;&emsp;"(D) The Republic of Cyprus.
 
 &emsp;"(2)
 
@@ -564,7 +560,7 @@ Incremental Expenses Defined.—In this section, the term 'incremental expenses'
 
 "(h)
 
-Termination of Authority.—The authority under this section shall terminate on December 31, 2026. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2026."
+Termination of Authority.—The authority under this section shall terminate on December 31, 2027. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2027."
 
 #### Indo-Pacific Maritime Security Initiative; Indo-Pacific Maritime Domain Awareness Initiative
 
@@ -588,7 +584,7 @@ Purposes.—The purposes of the Initiative are as follows:
 
 &emsp;"(3) To provide a comprehensive understanding of the maritime domain in the Indo-Pacific region, including by facilitating information sharing among such allies and partners."
 
-Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, §1241, Dec. 27, 2021, 135 Stat. 1976; Pub. L. 117–263, div. A, title XII, §1252, Dec. 23, 2022, 136 Stat. 2850, provided that:
+Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, §1241, Dec. 27, 2021, 135 Stat. 1976; Pub. L. 117–263, div. A, title XII, §1252, Dec. 23, 2022, 136 Stat. 2850; Pub. L. 118–159, div. A, title XIII, §1312, Dec. 23, 2024, 138 Stat. 2112, provided that:
 
 "(a)
 
@@ -598,9 +594,17 @@ Assistance and Training.—
 
 In general.—The Secretary of Defense is authorized, with the concurrence of the Secretary of State, with the primary goal of increasing multilateral maritime security cooperation and maritime domain awareness of foreign countries in the area of responsibility of the United States Indo-Pacific Command—
 
-&emsp;&emsp;"(A) to provide assistance to national military or other security forces of such countries that have among their functional responsibilities maritime security missions; and
+&emsp;&emsp;"(A) to provide assistance to—
 
-&emsp;&emsp;"(B) to provide training to ministry, agency, and headquarters level organizations for such forces.
+&emsp;&emsp;&emsp;"(i) the national military or other security forces of any such country that has among its functional responsibilities a maritime security mission; and
+
+&emsp;&emsp;&emsp;"(ii) any other national-level governmental organization of such a country that has among its functional responsibilities a maritime domain awareness mission, for purposes of helping to achieve the maritime domain awareness objectives of such country if such assistance directly contributes to the integration of a maritime domain awareness activity with the national military or other security forces described in clause (i); and
+
+&emsp;&emsp;"(B) to provide training to—
+
+&emsp;&emsp;&emsp;"(i) ministry, agency, and headquarters-level organizations for such forces; or
+
+&emsp;&emsp;&emsp;"(ii) other national-level governmental organizations described in paragraph (A)(ii).
 
 &emsp;"(2)
 
@@ -670,7 +674,7 @@ Notice to Congress on Assistance and Training.—
 
 In general.—Not later than 15 days before exercising the authority under subsection (a) or (e) with respect to a recipient foreign country, the Secretary of Defense shall submit to the appropriate committees of Congress a notification containing the following:
 
-&emsp;&emsp;"(A) The recipient foreign country, the specific unit or units whose capacity to engage in activities under a program of assistance or training to be provided under subsection (a) will be built under the program, and the amount, type, and purpose of the support to be provided.
+&emsp;&emsp;"(A) The recipient foreign country, the specific unit or units or national-level governmental organization whose capacity to engage in activities under a program of assistance or training to be provided under subsection (a) will be built under the program, and the amount, type, and purpose of the support to be provided.
 
 &emsp;&emsp;"(B) A detailed justification of the program for the provision of the assistance or training concerned, its relationship to United States security interests, and an explanation of the manner in which such assistance or training will increase multilateral maritime security cooperation or maritime domain awareness.
 

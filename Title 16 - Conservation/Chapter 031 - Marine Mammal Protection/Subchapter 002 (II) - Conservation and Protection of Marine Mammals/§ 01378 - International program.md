@@ -20,6 +20,8 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;&emsp;(D) discussions with those countries participating, or likely to participate, in the International Dolphin Conservation Program, for the purpose of identifying sources of funds needed for research and other measures promoting effective protection of dolphins, other marine species, and the marine ecosystem;
 
+
+
 &emsp;(3) encourage such other agreements to promote the purposes of this chapter with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of marine mammals;
 
 &emsp;(4) initiate the amendment of any existing international treaty for the protection and conservation of any species of marine mammal to which the United States is a party in order to make such treaty consistent with the purposes and policies of this chapter;
@@ -58,7 +60,7 @@ The Secretary shall include a description of the annual results of discussions i
 
 <b>1997</b>—Subsecs. (a)(2)(C), (D). Pub. L. 105–42 added subpars. (C) and (D).
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–711, §4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercialfishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;".
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–711, §4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;".
 
 Subsec. (c). Pub. L. 100–711, §4(c), added subsec. (c).
 

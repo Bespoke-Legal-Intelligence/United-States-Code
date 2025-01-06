@@ -12,7 +12,7 @@
 
 #### Prior Provisions
 
-A prior section 308d, added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 1980, 94 Stat. 1092, related to special pay and to a bonus for enlistment, reenlistment, or extension of enlistment in elements of the Ready Reserve other than the Selected Reserve, prior to repeal by Pub. L. 98–94, title X, §1011(b)(1), Sept. 24, 1983, 97 Stat. 664, effective Oct. 1, 1983. See sections 308g and 308h of this title.
+A prior section 308d, added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 1980, 94 Stat. 1092, related to specialpay and to a bonus for enlistment, reenlistment, or extension of enlistment in elements of the Ready Reserve other than the Selected Reserve, prior to repeal by Pub. L. 98–94, title X, §1011(b)(1), Sept. 24, 1983, 97 Stat. 664, effective Oct. 1, 1983. See sections 308g and 308h of this title.
 
 #### Amendments
 

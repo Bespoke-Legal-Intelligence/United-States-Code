@@ -70,7 +70,7 @@ Pub. L. 108–332, §2, Oct. 16, 2004, 118 Stat. 1282, provided that: "Congress 
 
 &emsp;"(2) During the last 3 months of 2003 and the first 3 months of 2004, there were numerous instances of anti-Semitic violence around the world, including the following incidents:
 
-&emsp;&emsp;"(A) In Putrajaya, Malaysia, on October 16, 2003, former Prime Minister Mahatir Mohammad toldthe 57 national leaders assembled for the Organization of the Islamic Conference that Jews 'rule the world by proxy', and called for a 'final victory' by the world's 1.3 billion Muslims, who, he said, 'cannot be defeated by a few million Jews.'.
+&emsp;&emsp;"(A) In Putrajaya, Malaysia, on October 16, 2003, former Prime Minister Mahatir Mohammad told the 57 national leaders assembled for the Organization of the Islamic Conference that Jews 'rule the world by proxy', and called for a 'final victory' by the world's 1.3 billion Muslims, who, he said, 'cannot be defeated by a few million Jews.'.
 
 &emsp;&emsp;"(B) In Istanbul, Turkey, on November 15, 2003, simultaneous car bombs exploded outside two synagogues filled with worshippers, killing 24 people and wounding more than 250 people.
 

@@ -54,7 +54,7 @@ In this section:
 
 #### (2) Public access to NEPA reports
 
-&emsp;The Secretary shall make each annual report required under paragraph (1) publicly available (including on a publicly available website).
+&emsp;The Secretary shall make each annual report required under paragraph (1) publiclyavailable (including on a publicly available website).
 
 (Pub. L. 117–263, div. H, title LXXXI, §8134, Dec. 23, 2022, 136 Stat. 3721.)
 
@@ -62,7 +62,7 @@ In this section:
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55\(§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Codification
 

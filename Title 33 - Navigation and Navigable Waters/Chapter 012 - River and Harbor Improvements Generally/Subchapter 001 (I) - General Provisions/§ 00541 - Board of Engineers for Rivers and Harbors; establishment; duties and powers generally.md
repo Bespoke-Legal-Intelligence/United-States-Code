@@ -4,7 +4,7 @@ There shall be organized in the office of the Chief of Engineers, United States 
 
 The board shall have authority, with the approval of the Chief of Engineers, to rent quarters, if necessary, for the proper transaction of its business, and to employ such civil employees as may, in the opinion of the Chief of Engineers, be required for properly transacting the business assigned to it, and the necessary expenses of the board shall be paid from allotments made by the Chief of Engineers from any appropriations made by Congress for the work or works to which the duties of the board pertain.
 
-(June 13, 1902, ch. 1079, §3, 32 Stat. 372; Mar. 4, 1913, ch. 144, §4, 37 Stat. 827; Feb. 10, 1932, ch. 26, 47 Stat. 42; Pub. L. 103–437, §12(a), Nov. 2, 1994, 108 Stat. 4590.)
+(June 13, 1902, ch. 1079, §3, 32 Stat. 372; Mar. 4, 1913, ch. 144, §4, 37 Stat. 827; Feb. 10, 1932, ch. 26,47 Stat. 42; Pub. L. 103–437, §12(a), Nov. 2, 1994, 108 Stat. 4590.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,7 +28,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities
 
-Pub. L. 102–580, title II, §223, Oct. 31, 1992, 106 Stat. 4837, provided that: "The Board of Engineers for Riversand Harbors, established by section 3 of the River and Harbor Act of June 13, 1902 (33 U.S.C. 541), shall cease to exist on the 180th day following the date of the enactment of this Act \[Oct. 31, 1992\]. The Secretary may reassign to other elements within the Department of the Army such duties and responsibilities of the Board as the Secretary determines to be necessary."
+Pub. L. 102–580, title II, §223, Oct. 31, 1992, 106 Stat. 4837, provided that: "The Board of Engineers for Rivers and Harbors, established by section 3 of the River and Harbor Act of June 13, 1902 (33 U.S.C. 541), shall cease to exist on the 180th day following the date of the enactment of this Act \[Oct. 31, 1992\]. The Secretary may reassign to other elements within the Department of the Army such duties and responsibilities of the Board as the Secretary determines to be necessary."
 
 #### Waterways Commission
 

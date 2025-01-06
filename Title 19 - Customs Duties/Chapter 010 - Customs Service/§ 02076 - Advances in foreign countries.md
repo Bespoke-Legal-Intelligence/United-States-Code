@@ -36,7 +36,7 @@ May 14, 1935, ch. 110, 49 Stat. 222.
 
 #### Change of Name
 
-The Bureau of Customs was redesignated the United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+The Bureau of Customs was redesignated the United States Customs Service by Treasury Department Order165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

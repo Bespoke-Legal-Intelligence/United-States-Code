@@ -244,7 +244,7 @@ In general.—Except as provided in subparagraph (B), this section \[amending se
 
 &emsp;"(B)
 
-Existing vacancies.—If, as of the date of enactment of this Act, an individual is performing the functions and duties of an Inspector General temporarily in an acting capacity, this section, and the amendments made by this section, shall take effect with respect to that Inspector General position on the date that is 30 days after the date of enactment of this Act."
+Existing vacancies.—If, as of the date of enactment of this Act, an individual is performing the functions and duties of an Inspector General temporarily in an acting capacity, this section, and theamendments made by this section, shall take effect with respect to that Inspector General position on the date that is 30 days after the date of enactment of this Act."
 
 #### Construction
 

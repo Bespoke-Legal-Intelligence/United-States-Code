@@ -20,7 +20,7 @@ The Director of the Office of Science and Technology Policy, acting through the 
 
 #### (b) Requirements
 
-In developing policy guidelines under subsection (a)(2), the Director of the Office of Science and Technology Policy shall include guidelines that require, to the extent practicable—
+In developing policy guidelines under subsection (a)(2), the Director of the Office of Science and Technology Policy shall includeguidelines that require, to the extent practicable—
 
 &emsp;(1) recipients to submit to the Federal research agency or agencies from which the recipients receive funding reports relating to—
 

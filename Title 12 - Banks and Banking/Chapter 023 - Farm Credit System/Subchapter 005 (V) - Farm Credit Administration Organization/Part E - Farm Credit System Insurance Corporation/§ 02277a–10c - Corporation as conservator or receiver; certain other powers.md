@@ -80,7 +80,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;The Corporation may, as conservator or receiver—
 
-&emsp;&emsp;&emsp;&emsp;(I) exercise all powers and authorities specifically granted to conservators or receivers, respectively, under this section and such incidental powers as shall be necessary to carry out such powers; and
+&emsp;&emsp;&emsp;&emsp;(I) exercise all powers and authorities specifically granted to conservators orreceivers, respectively, under this section and such incidental powers as shall be necessary to carry out such powers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) take any action authorized by this section, which the Corporation determines is in the best interests of—
 
@@ -142,7 +142,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against aSystem institution is filed with the Corporation as receiver, the Corporation shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
+&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against a System institution is filed with the Corporation as receiver, the Corporation shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
 
 #### (ii) Extension of time
 
@@ -168,7 +168,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (B) Allowance of proven claims
 
-&emsp;&emsp;The receiver shall allow any claim received on or before the date specified in the notice published under paragraph (3)(B)(i) by the receiver from any claimant which is proved to the satisfaction of the receiver.
+&emsp;&emsp;The receiver shall allow any claim received on or before the date specified in the notice published under paragraph (3)(B)(i) bythe receiver from any claimant which is proved to the satisfaction of the receiver.
 
 #### (C) Disallowance of claims filed after end of filing period
 
@@ -306,7 +306,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (C) Rulemaking authority of Corporation
 
-&emsp;&emsp;The Corporation may prescribe such rules, including definitions of terms, as it deemsappropriate to establish a single uniform interest rate for or to make payments of post insolvency interest to creditors holding proven claims against the receivership estates of System institutions following satisfaction by the receiver of the principal amount of all creditor claims.
+&emsp;&emsp;The Corporation may prescribe such rules, including definitions of terms, as it deems appropriate to establish a single uniform interest rate for or to make payments of post insolvency interest to creditors holding proven claims against the receivership estates of System institutions following satisfaction by the receiver of the principal amount of all creditor claims.
 
 #### (11) Priority of expenses and claims
 
@@ -636,7 +636,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (A) In general
 
-&emsp;&emsp;If the conservator or receiver repudiates any contract that meets the requirements ofparagraphs (1) through (4) of section 2277a–10(d) of this title for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
+&emsp;&emsp;If the conservator or receiver repudiates any contract that meets the requirements of paragraphs (1) through (4) of section 2277a–10(d) of this title for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
 
 &emsp;&emsp;&emsp;(i) treat the contract as terminated by such repudiation; or
 
@@ -886,7 +886,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (F) Clarification
 
-&emsp;&emsp;No provision of law shall be construed as limiting the right or power of the Corporation, or authorizing any court or agency to limit or delay, in any manner, the right or power of the Corporation to transfer any qualified financial contract in accordance with paragraphs (9) and (10) or to disaffirm or repudiate any such contract in accordance with paragraph (1).
+&emsp;&emsp;No provision of law shall be construed as limiting the right or power of the Corporation, or authorizing any court or agency tolimit or delay, in any manner, the right or power of the Corporation to transfer any qualified financial contract in accordance with paragraphs (9) and (10) or to disaffirm or repudiate any such contract in accordance with paragraph (1).
 
 #### (G) Walkaway clauses not effective
 
@@ -948,7 +948,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;&emsp;(II) all claims of such person or any affiliate of such person against such System institution under any such contract (other than any claim which, under the terms of any such contract, is subordinated to the claims of general unsecured creditors of such System institution);
 
-&emsp;&emsp;&emsp;&emsp;(III) all claims of such System institution against such person or any affiliateof such person under any such contract; and
+&emsp;&emsp;&emsp;&emsp;(III) all claims of such System institution against such person or any affiliate of such person under any such contract; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) all property securing or any other credit enhancement for any contract described in subclause (I) or any claim described in subclause (II) or (III) under any such contract; or
 
@@ -956,7 +956,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (C) Transfer to foreign bank, foreign financial institution, or branch or agency of a foreign bank or financial institution
 
-&emsp;&emsp;In transferring any qualified financial contracts and related claims and property under subparagraph (B)(i), the conservator or receiver for the System institution shall not make such transfer to a foreign bank, financial institution organized under the laws of a foreign country, or a branch or agency of a foreign bank or financial institution unless, under the law applicable to such bank, financial institution, branch or agency, to the qualified financial contracts, and to any netting contract, any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts, the contractual rights of the parties to such qualified financial contracts, netting contracts, security agreements or arrangements, or other credit enhancements are enforceable substantially to the same extent as permitted under this section.
+&emsp;&emsp;In transferring any qualified financial contracts and related claims and property under subparagraph (B)(i), the conservator or receiver for the System institution shall not make such transfer to a foreign bank, financial institution organized under the laws of a foreign country, or a branch or agency of a foreign bank or financial institution unless, under the law applicable to such bank, financial institution, branch or agency, to the qualified financial contracts, and to any netting contract, any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts, the contractual rights of the parties to such qualified financial contracts,netting contracts, security agreements or arrangements, or other credit enhancements are enforceable substantially to the same extent as permitted under this section.
 
 #### (D) Transfer of contracts subject to the rules of a clearing organization
 
@@ -1104,7 +1104,7 @@ Except as provided in this section, no court may take any action, except at the 
 
 &emsp;&emsp;&emsp;(ii) acting based on a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed by that receiver or conservator; or
 
-&emsp;&emsp;&emsp;(iii) acting based on a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by a System institution or an affiliate of a System institution in connection with assistance provided under section 2277a–10(a) of this title; and
+&emsp;&emsp;&emsp;(iii) acting based on a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or inpart by a System institution or an affiliate of a System institution in connection with assistance provided under section 2277a–10(a) of this title; and
 
 &emsp;&emsp;(C) for, as determined under the applicable State law—
 
@@ -1230,7 +1230,7 @@ In any proceeding related to any claim against a System institution's director, 
 
 &emsp;&emsp;&emsp;(iv) has been, continuously from the time of its execution, an official record of such System bank in default;
 
-&emsp;&emsp;(I) notwithstanding subsection <sup>2</sup> 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between aSystem bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
+&emsp;&emsp;(I) notwithstanding subsection <sup>2</sup> 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
 
 &emsp;&emsp;(J) except with the prior approval of the Corporation and the concurrence of the Farm Credit Administration, a bridge System bank may not, in any transaction or series of transactions, issue capital stock or be a party to any merger, consolidation, disposition of substantially all of the assets or liabilities of the bridge System bank, sale or exchange of capital stock, or similar transaction, or change its charter.
 
@@ -1246,7 +1246,7 @@ In any proceeding related to any claim against a System institution's director, 
 
 #### (B) Operating funds in lieu of capital
 
-&emsp;&emsp;Upon the organization of a bridge System bank, and thereafter, as the Corporation may, in its discretion, determine to be necessary or advisable, the Corporation may make available to the bridge System bank, upon such terms and conditions and in such form and amounts as the Corporation may in its discretion determine, funds for the operation of the bridge System bank in lieu of capital.
+&emsp;&emsp;Upon the organization of a bridge System bank, and thereafter, as the Corporationmay, in its discretion, determine to be necessary or advisable, the Corporation may make available to the bridge System bank, upon such terms and conditions and in such form and amounts as the Corporation may in its discretion determine, funds for the operation of the bridge System bank in lieu of capital.
 
 #### (C) Authority to issue capital stock
 
@@ -1288,7 +1288,7 @@ In any proceeding related to any claim against a System institution's director, 
 
 #### (B) Charter conversion
 
-&emsp;&emsp;Following the sale of a majority or all of the capital stock of the bridge System bankas provided in paragraph (9)(B), the Farm Credit Administration Board may amend the charter of the bridge System bank to reflect the termination of the status of the bridge System bank as such, whereupon the System bank shall remain a System bank, with all of the rights, powers, and privileges thereof, subject to all laws and regulations applicable thereto.
+&emsp;&emsp;Following the sale of a majority or all of the capital stock of the bridge System bank as provided in paragraph (9)(B), the Farm Credit Administration Board may amend the charter of the bridge System bank to reflect the termination of the status of the bridge System bank as such, whereupon the System bank shall remain a System bank, with all of the rights, powers, and privileges thereof, subject to all laws and regulations applicable thereto.
 
 #### (C) Assumption of liabilities and sale of assets
 

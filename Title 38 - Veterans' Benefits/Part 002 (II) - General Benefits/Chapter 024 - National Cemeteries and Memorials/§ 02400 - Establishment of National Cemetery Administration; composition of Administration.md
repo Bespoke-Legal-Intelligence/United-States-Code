@@ -1,6 +1,6 @@
 ### §2400. Establishment of National Cemetery Administration; composition of Administration
 
-(a) There shall be within the Department a National Cemetery Administration responsiblefor the interment of deceased servicemembers and veterans. The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs, who shall perform such functions as may be assigned by the Secretary.
+(a) There shall be within the Department a National Cemetery Administration responsible for the interment of deceased servicemembers and veterans. The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs, who shall perform such functions as may be assigned by the Secretary.
 
 (b) The national cemeteries and other facilities under the control of the National Cemetery Administration shall consist of—
 
@@ -74,7 +74,7 @@ Agreement.—Beginning on the date that is 180 days after the date on which the 
 
 "(b)
 
-Maintenance by National Cemetery Administration.—If the Mare Island Naval Cemetery is transferred to the Secretary of Veterans Affairs pursuant tosubsection (a), the National Cemetery Administration shall maintain the cemetery in the same manner as other cemeteries under the jurisdiction of the National Cemetery Administration.
+Maintenance by National Cemetery Administration.—If the Mare Island Naval Cemetery is transferred to the Secretary of Veterans Affairs pursuant to subsection (a), the National Cemetery Administration shall maintain the cemetery in the same manner as other cemeteries under the jurisdiction of the National Cemetery Administration.
 
 "(c)
 
@@ -284,7 +284,7 @@ Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: "Th
 
 #### Transfer of Pershing Hall to Department of Veterans Affairs
 
-Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, §3(o), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, §308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
+Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, §3(o), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, §308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
 
 "(a)
 
@@ -314,7 +314,7 @@ Leases.—(1) The Secretary may enter into agreements as the Secretary determine
 
 Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be administered by the Secretary of Veterans Affairs.
 
-"(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretarymay determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
+"(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretary may determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
 
 "(3) The Pershing Hall Memorial Fund, established in the Treasury of the United States pursuant to section 2 of the Act of June 28, 1935 (Public Law 74–171; 49 Stat. 426) \[former 36 U.S.C. 491\], is hereby abolished and the corpus of the fund, including accrued interest, is transferred to the Pershing Hall Revolving Fund.
 

@@ -114,7 +114,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (55) Yampa, Colorado: The segment within the boundaries of the Dinosaur National Monument.
 
-(56) Dolores, Colorado: The segment of the main stem from Rico upstream to its source, including its headwaters; the West Dolores from its source, including its headwaters, downstream to its confluence with the main stem; and the segment from the west boundary, section 2, township 38 north, range 16 west, NMPM, below the proposed McPhee Dam, downstream to the Colorado-Utah border, excluding the segment from one mile above Highway 90 to the confluence of the San Miguel River.
+(56) Dolores, Colorado: The segment of the main stem from Rico upstream to its source, including its headwaters; the West Dolores from its source, including its headwaters, downstream to its confluence with the main stem; and the segment from the west boundary, section 2, township 38 north, range 16 west, NMPM,below the proposed McPhee Dam, downstream to the Colorado-Utah border, excluding the segment from one mile above Highway 90 to the confluence of the San Miguel River.
 
 (57) Snake, Washington, Oregon, and Idaho: The segment from an eastward extension of the north boundary of section 1, township 5 north, range 47 east, Willamette meridian, downstream to the town of Asotin, Washington.
 
@@ -192,7 +192,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (94)
 
-Klickitat, Washington: The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 (12 Stat. 951), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: <i>Provided</i>, That said study shall be carried on in consultation with the Yakima Indian Nation <sup>1</sup> and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
+Klickitat, Washington: The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 (12 Stat. 951), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: <i>Provided</i>, That said study shall be carried on in consultation with the Yakima Indian Nation <sup>1</sup>and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
 
 (95)
 
@@ -470,7 +470,7 @@ Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticu
 
 Nashua river, massachusetts.—The following segments:
 
-&emsp;(A) The approximately 19-mile segment of the mainstem of the Nashua River from theconfluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
+&emsp;(A) The approximately 19-mile segment of the mainstem of the Nashua River from the confluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
 
 &emsp;(B) The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
 
@@ -494,7 +494,7 @@ Kissimmee river, florida.—The restored segment of the Kissimmee River, beginni
 
 #### (b) Studies and reports
 
-(1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>3</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
+(1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>3</sup> namedin paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
@@ -530,7 +530,7 @@ Kissimmee river, florida.—The restored segment of the Kissimmee River, beginni
 
 &emsp;(i) prepare the study in cooperation and consultation with appropriate Federal, State, regional, and local agencies, including but not limited to, the Pennsylvania Department of Environmental Resources, the New Jersey Department of Environmental Protection and Energy, the Delaware and Lehigh Navigation Canal National Heritage Corridor Commission, and the Delaware and Raritan Canal Commission; and
 
-&emsp;(ii) consider previous plans for the protection of affected cultural, recreational, and natural resources (including water supply and water quality) and existing State and local regulations, so as to avoid unnecessary duplication.
+&emsp;(ii) consider previous plans for the protection of affected cultural, recreational, andnatural resources (including water supply and water quality) and existing State and local regulations, so as to avoid unnecessary duplication.
 
 (C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, New Jersey, to the Southern <sup>8</sup> boundary of Bucks County, Pennsylvania.
 
@@ -588,7 +588,7 @@ Report requirements.—In assessing the potential additions to the wild and scen
 
 &emsp;&emsp;&emsp;(III) the authority of State and local governments to manage the activities described in subclauses (I) and (II);
 
-&emsp;&emsp;(ii) identify any authorities that, in a case in which an area studied under paragraph\(142), (143), or (144) of subsection (a) is designated under this chapter—
+&emsp;&emsp;(ii) identify any authorities that, in a case in which an area studied under paragraph (142), (143), or (144) of subsection (a) is designated under this chapter—
 
 &emsp;&emsp;&emsp;(I) would authorize or require the Secretary of the Interior—
 
@@ -632,7 +632,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 #### References in Text
 
-Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(13), probably means section 5of Pub. L. 102–249, Mar. 3, 1992, 106 Stat. 50, known as the Michigan Scenic Rivers Act of 1991, which is not classified to the Code.
+Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(13), probably means section 5 of Pub. L. 102–249, Mar. 3, 1992, 106 Stat. 50, known as the Michigan Scenic Rivers Act of 1991, which is not classified to the Code.
 
 #### Codification
 

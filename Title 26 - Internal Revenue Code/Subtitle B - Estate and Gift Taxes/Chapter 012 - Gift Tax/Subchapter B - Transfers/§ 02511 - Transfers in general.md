@@ -18,7 +18,7 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 > which are owned and held by such nonresident shall be deemed to be property situated within the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, §109(b), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 107–16, title V, §511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, §411(g)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 111–312, title III, §302(e), Dec. 17, 2010, 124 Stat. 3302.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, §109(b), Nov. 13, 1966, 80 Stat. 1575;Pub. L. 107–16, title V, §511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, §411(g)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 111–312, title III, §302(e), Dec. 17, 2010, 124 Stat. 3302.)
 
 #### <b>Editorial Notes</b>
 
@@ -30,7 +30,7 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–16 added subsec. (c).
 
-<b>1966</b>—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debtobligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
+<b>1966</b>—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debt obligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

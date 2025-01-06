@@ -144,7 +144,7 @@ Pub. L. 114–92, §802(d)(4)(D), substituted "sections 171 and 2547" for "secti
 
 <b>1962</b>—Subsec. (d)(4). Pub. L. 87–651 substituted "under section 124 of this title" for "pursuant to section 202(j) of the National Security Act of 1947, as amended".
 
-<b>1958</b>—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercise supervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
+<b>1958</b>—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercisesupervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

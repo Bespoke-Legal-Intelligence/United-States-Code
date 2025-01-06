@@ -50,7 +50,7 @@ This section may be cited as the "HELP Commission Act".
 
 &emsp;(L) analyze whether United States development assistance should be used as a means to achieve United States foreign policy objectives;
 
-&emsp;(M) analyze how the United States can evaluate the performance of its development assistance programs not only against economic indicators, but in other ways, including how to measure the success of United States development assistance in democratization efforts; and evaluate the existing foreign assistance framework to ascertain the degree of coordination, or lack thereof, of the disparate foreign development programs as administered by the various Federal agencies, to identify and assess the redundancies of programs andorganizational structures engaged in foreign assistance, and to recommend revisions to authorizing legislation for foreign assistance that would seek to reconcile competing foreign policy and foreign aid goals; and
+&emsp;(M) analyze how the United States can evaluate the performance of its development assistance programs not only against economic indicators, but in other ways, including how to measure the success of United States development assistance in democratization efforts; and evaluate the existing foreign assistance framework to ascertain the degree of coordination, or lack thereof, of the disparate foreign development programs as administered by the various Federal agencies, to identify and assess the redundancies of programs and organizational structures engaged in foreign assistance, and to recommend revisions to authorizing legislation for foreign assistance that would seek to reconcile competing foreign policy and foreign aid goals; and
 
 &emsp;(N) study any other areas that the Commission considers necessary relating to United States development assistance.
 
@@ -110,7 +110,7 @@ This section may be cited as the "HELP Commission Act".
 
 (5) The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purposes of this section. Each trip must be approved by a majority of the Commission.
 
-(6) Upon the request of the Commission, the head of any Federal department or agency maydetail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this section. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
+(6) Upon the request of the Commission, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this section. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
 
 #### (f) Report of Commission
 
@@ -146,7 +146,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (1) Not later than April 1, 2004, and April 1 of each third year thereafter, the President shall transmit to the Congress a report that analyzes, on a country-by-country basis, the impact and effectiveness of United States economic assistance furnished to each country during the preceding 3 fiscal years. The report shall include the following for each recipient country:
 
-&emsp;(A) An analysis of the impact of United States economic assistance during the preceding 3 fiscal years on economic development in that country, with a discussion of the United States interests that were served by the assistance. The analysis shall be done on a sector-by-sector basis to the extent possible and shall identify any economic policy reforms that were promoted by the assistance. The analysis shall—
+&emsp;(A) An analysis of the impact of United States economic assistance during the preceding 3 fiscal years on economic developmentin that country, with a discussion of the United States interests that were served by the assistance. The analysis shall be done on a sector-by-sector basis to the extent possible and shall identify any economic policy reforms that were promoted by the assistance. The analysis shall—
 
 &emsp;&emsp;(i) include a description, quantified to the extent practicable, of the specific objectives the United States sought to achieve in providing economic assistance for that country; and
 

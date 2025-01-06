@@ -6,7 +6,7 @@ Not later than September 30, 2016, and annually thereafter, the Commissioner and
 
 &emsp;&emsp;(A) The number of referrals, during the preceding year, from U.S. Customs and Border Protection to U.S. Immigration and Customs Enforcement relating to infringement of intellectual property rights.
 
-&emsp;&emsp;(B) The number of investigations relating to the infringement of intellectual property rights referred by U.S. Immigration and Customs Enforcement to a United States attorney for prosecution and the United States attorneys to which those investigations were referred.
+&emsp;&emsp;(B) The number of investigations relating to the infringement of intellectual propertyrights referred by U.S. Immigration and Customs Enforcement to a United States attorney for prosecution and the United States attorneys to which those investigations were referred.
 
 &emsp;&emsp;(C) The number of such investigations accepted by each such United States attorney and the status or outcome of each such investigation.
 

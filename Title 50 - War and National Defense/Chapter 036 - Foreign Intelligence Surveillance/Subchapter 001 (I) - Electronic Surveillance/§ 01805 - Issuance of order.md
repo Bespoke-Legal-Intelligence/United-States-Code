@@ -52,7 +52,7 @@ Specifications.—
 
 Special directions for certain orders.—
 
-&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court withinten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
 
 &emsp;&emsp;(A) the nature and location of each new facility or place at which the electronic surveillance is directed;
 
@@ -62,15 +62,15 @@ Special directions for certain orders.—
 
 &emsp;&emsp;(D) the total number of electronic surveillances that have been or are being conducted under the authority of the order.
 
-#### (d) Duration of order; extensions; review of circumstances under which information was acquired, retained or disseminated
+#### (d) Duration of order; review of circumstances under which information was acquired, retained or disseminated; review of application denial; same judge to hear extension applications
 
-(1) An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for the period specified in the application or for 120 days, whichever is less.
+(1) An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for the period specified in the application or for one year, whichever is less.
 
-(2) Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in paragraph (5), (6), or (7) of section 1801(a) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for a period not to exceed 1 year.
+(2) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
-(3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
+(3) A denial of the application made under section 1804 of this title may be reviewed as provided in section 1803 of this title.
 
-(4) A denial of the application made under section 1804 of this title may be reviewed as provided in section 1803 of this title.
+(5) <sup>3</sup> An extension of an order issued under this subchapter for surveillance targeted against a United States person, to the extent practicable and absent exigent circumstances, shall be granted or denied by the same judge who issued the original order unless the term of such judge has expired or such judge is otherwise no longer serving on the court.
 
 #### (e) Emergency orders
 
@@ -164,13 +164,13 @@ Certifications made by the Attorney General pursuant to section 1802(a) of this 
 
 #### (i) Bar to legal action
 
-No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a courtorder or request for emergency assistance under this chapter for electronic surveillance or physical search.
+No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
 
 #### (j) Pen registers and trap and trace devices
 
 In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title.
 
-(Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203; Pub. L. 110–261, title I, §§105(a), 110(c)(1), July 10, 2008, 122 Stat. 2461, 2466; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §§701(a), 705(a), (c), June 2, 2015, 129 Stat. 298, 300; Pub. L. 115–118, title II, §205(b)(2), Jan. 19, 2018, 132 Stat. 22; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143.)
+(Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1),Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203; Pub. L. 110–261, title I, §§105(a), 110(c)(1), July 10, 2008, 122 Stat. 2461, 2466; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §§701(a), 705(a), (c), June 2, 2015, 129 Stat. 298, 300; Pub. L. 115–118, title II, §205(b)(2), Jan. 19, 2018, 132 Stat. 22; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143; Pub. L. 118–49, §§5(a), 6(g)(1), Apr. 20, 2024, 138 Stat. 868, 873.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,13 +180,21 @@ Section 1804(a)(7)(E) of this title, referred to in subsec. (a)(4), was redesign
 
 Section 1804(d) of this title, referred to in subsec. (a)(4), was redesignated section 1804(c) of this title by Pub. L. 110–261, title I, §104(3), July 10, 2008, 122 Stat. 2461.
 
-This chapter, referred to in subsecs. (d), (f)(1), and (i), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (d)(1), (f)(1), and (i), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, known as the Foreign Intelligence Surveillance Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 
 As originally enacted, Pub. L. 107–56, §225, amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both Pub. L. 107–108, §314(a)(2)(C), and Pub. L. 107–273, §4005(c), made amendments retroactive to the date of enactment of Pub. L. 107–56 which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(1)(A). Pub. L. 118–49, §6(g)(1)(A)(i), which directed the substitution of "against a foreign power" for "against a foreign power, as defined in section 1801(a), (1), (2), or (3) of this title," was executed by making the substitution for "against a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title," to reflect the probable intent of Congress.
+
+Subsec. (d)(1)(B). Pub. L. 118–49, §6(g)(1)(A)(ii), substituted "one year" for "120 days".
+
+Subsec. (d)(2) to (4). Pub. L. 118–49, §6(g)(1)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in paragraph (5), (6), or (7) of section 1801(a) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for a period not to exceed 1 year."
+
+Subsec. (d)(5). Pub. L. 118–49, §5(a), added par. (5).
 
 <b>2019</b>—Pub. L. 116–69 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
 
@@ -226,13 +234,13 @@ Specifications.—An order approving an electronic surveillance under this secti
 
 &emsp;"(1) specify—".
 
-Subsec. (c)(1)(A). Pub. L. 109–177, §108(a)(2)(A), substituted "specific target of the electronic surveillance identified or described in the application pursuant to section 1804(a)(3) of this title" for "target of the electronic surveillance".
+Subsec. (c)(1)(A). Pub. L. 109–177, §108(a)(2)(A), substituted "specific target of the electronic surveillanceidentified or described in the application pursuant to section 1804(a)(3) of this title" for "target of the electronic surveillance".
 
 Subsec. (c)(1)(F). Pub. L. 109–177, §108(b)(2), substituted period for "; and" at end.
 
 Subsec. (c)(2). Pub. L. 109–177, §108(b)(3), inserted par. heading and substituted "An order approving an electronic surveillance under this section shall direct" for "direct" in introductory provisions.
 
-Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, Pub. L. 112–14,Pub. L. 114–23, §705(a), (c), and Pub. L. 116–69, amended par. (2), effective Mar. 15, 2020, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
+Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, Pub. L. 112–14, Pub. L. 114–23, §705(a), (c), and Pub. L. 116–69, amended par. (2), effective Mar. 15, 2020, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
 
 Subsec. (c)(2)(B). Pub. L. 109–177, §108(a)(2)(B), substituted "where the Court finds, based upon specific facts provided in the application," for "where the Court finds".
 
@@ -313,4 +321,6 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. There is no par. (4).</i>
 

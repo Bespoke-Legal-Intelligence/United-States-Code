@@ -1,6 +1,6 @@
 ### §8035. Vice Chief of Naval Operations
 
-(a) There is a Vice Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate, from officers onthe active-duty list in the line of the Navy serving in grades above captain and eligible to command at sea.
+(a) There is a Vice Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate, from officers on the active-duty list in the line of the Navy serving in grades above captain and eligible to command at sea.
 
 (b) The Vice Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade.
 

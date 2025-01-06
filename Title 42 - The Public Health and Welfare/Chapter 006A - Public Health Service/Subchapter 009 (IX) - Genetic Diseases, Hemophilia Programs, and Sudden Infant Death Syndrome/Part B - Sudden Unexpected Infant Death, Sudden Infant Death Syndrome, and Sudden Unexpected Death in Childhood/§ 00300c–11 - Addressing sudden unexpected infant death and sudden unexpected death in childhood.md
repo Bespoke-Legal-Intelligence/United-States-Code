@@ -4,7 +4,7 @@
 
 The Secretary may develop, support, or maintain programs or activities to address sudden unexpected infant death and sudden unexpected death in childhood, including by—
 
-&emsp;(1) continuing to support the Sudden Unexpected Infant Death and Sudden Death in the Young Case Registry of the Centers for Disease Control and Prevention and other fatality case reporting systems that include data pertaining to sudden unexpected infant death and sudden unexpected death in childhood, as appropriate, including such systems supported by the Health Resources and Services Administration, in order to—
+&emsp;(1) continuing to support the Sudden Unexpected Infant Death and Sudden Death in the Young Case Registry of the Centers for Disease Control and Prevention and other fatality case reporting systems that include data pertaining to sudden unexpected infant death andsudden unexpected death in childhood, as appropriate, including such systems supported by the Health Resources and Services Administration, in order to—
 
 &emsp;&emsp;(A) increase the number of States and jurisdictions participating in such registries or systems; and
 
@@ -28,7 +28,7 @@ The Secretary may develop, support, or maintain programs or activities to addres
 
 &emsp;&emsp;(D) increasing the voluntary inclusion, in registries established for the purpose of conducting research on sudden unexpected infant death and sudden unexpected death in childhood, of samples of tissues or genetic materials from autopsies that have been collected pursuant to Federal or State law and for which the parent or guardian has provided informed consent for inclusion in such registries;
 
-&emsp;&emsp;(E) disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpectedinfant death or sudden unexpected death in childhood; or
+&emsp;&emsp;(E) disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpected infant death or sudden unexpected death in childhood; or
 
 &emsp;&emsp;(F) providing information, referrals, or peer or follow-up support services to families who have experienced sudden unexpected infant death or sudden unexpected death in childhood.
 
@@ -64,7 +64,7 @@ In this section:
 
 #### (3) Sudden unexpected death in childhood
 
-&emsp;The term "sudden unexpected death in childhood" means the sudden death of a child who is at least 1 year of age but not more than 17 years of age that, when first discovered, did not have an obvious cause. Such term includes such deaths that are explained, as well as deaths that remain unexplained (which are known as sudden unexplained death in childhood).
+&emsp;The term "sudden unexpected death in childhood" means the sudden death of a child whois at least 1 year of age but not more than 17 years of age that, when first discovered, did not have an obvious cause. Such term includes such deaths that are explained, as well as deaths that remain unexplained (which are known as sudden unexplained death in childhood).
 
 #### (4) Sudden unexplained death in childhood
 

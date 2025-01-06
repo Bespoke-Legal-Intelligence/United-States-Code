@@ -154,7 +154,7 @@ For purposes of this section, an eligible consortium is a consortium that—
 
 &emsp;&emsp;(C) encouraging eligible consortia to leverage institutions of higher education serving populations historically underrepresented in STEM, including historically Black Colleges and Universities, Tribal Colleges or Universities, and minority-serving institutions to significantly benefit an area or region; and
 
-&emsp;&emsp;(D) encouraging proposals from eligible consortia that would significantly benefit anarea or region whose economy significantly relies on or has recently relied on coal, oil, or natural gas production or development.
+&emsp;&emsp;(D) encouraging proposals from eligible consortia that would significantly benefit an area or region whose economy significantly relies on or has recently relied on coal, oil, or natural gas production or development.
 
 #### (3) Relation to certain grant awards
 
@@ -228,7 +228,7 @@ For purposes of this section, an eligible consortium is a consortium that—
 
 #### (2) Use of funds
 
-&emsp;Grants or cooperative agreements awarded under paragraph (1) to a regional technologyand innovation hub may be used by the regional technology and innovation hub to support any of the following activities, consistent with the most current regional innovation strategy of the regional technology and innovation hub, which may have been developed with or without financial assistance received under subsection (e) of this section:
+&emsp;Grants or cooperative agreements awarded under paragraph (1) to a regional technology and innovation hub may be used by the regional technology and innovation hub to support any of the following activities, consistent with the most current regional innovation strategy of the regional technology and innovation hub, which may have been developed with or without financial assistance received under subsection (e) of this section:
 
 #### (A) Workforce development activities
 
@@ -422,7 +422,7 @@ In selecting an eligible consortium that submitted an application under subsecti
 
 &emsp;&emsp;(B) establish standards for the performance of the regional technology and innovation hub that are based on the metrics developed under subparagraph (A); and
 
-&emsp;&emsp;(C) prior to any award made under a subsequent performance period in subsection (f) and every 2 years thereafter until Federal financial assistance under this section for the regional technology and innovation hub is discontinued, conduct an assessment of the regional technology and innovation hub to confirm whether the performance of the regional technology and innovation hub is meeting the standards for performance established under subparagraph (B) of this paragraph.
+&emsp;&emsp;(C) prior to any award made under a subsequent performance period in subsection (f)and every 2 years thereafter until Federal financial assistance under this section for the regional technology and innovation hub is discontinued, conduct an assessment of the regional technology and innovation hub to confirm whether the performance of the regional technology and innovation hub is meeting the standards for performance established under subparagraph (B) of this paragraph.
 
 #### (2) Final reports by recipients of strategy implementation grants and cooperative agreements
 

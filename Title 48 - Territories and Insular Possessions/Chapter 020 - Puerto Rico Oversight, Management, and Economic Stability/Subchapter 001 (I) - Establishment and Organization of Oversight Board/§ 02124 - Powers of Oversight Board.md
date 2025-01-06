@@ -46,7 +46,7 @@ The Oversight Board may accept, use, and dispose of gifts, bequests, or devises 
 
 #### (1) In general
 
-&emsp;The Oversight Board may issue subpoenas requiring the attendance and testimony ofwitnesses and the production of books, records, correspondence, memoranda, papers, documents, electronic files, metadata, tapes, and materials of any nature relating to any matter under investigation by the Oversight Board. Jurisdiction to compel the attendance of witnesses and the production of such materials shall be governed by the statute setting forth the scope of personal jurisdiction exercised by the covered territory, or in the case of Puerto Rico, 32 L.P.R.A. App. III. R. 4. 7., as amended.
+&emsp;The Oversight Board may issue subpoenas requiring the attendance and testimony of witnesses and the production of books, records, correspondence, memoranda, papers, documents, electronic files, metadata, tapes, and materials of any nature relating to any matter under investigation by the Oversight Board. Jurisdiction to compel the attendance of witnesses and the production of such materials shall be governed by the statute setting forth the scope of personal jurisdiction exercised by the covered territory, or in the case of Puerto Rico, 32 L.P.R.A. App. III. R. 4. 7., as amended.
 
 #### (2) Failure to obey a subpoena
 
@@ -62,7 +62,7 @@ The Executive Director may enter into such contracts as the Executive Director c
 
 #### (h) Authority to enforce certain laws of the covered territory
 
-The Oversight Board shall ensure the purposes of this chapter are met, including by ensuring the prompt enforcement of any applicable laws of the covered territory prohibiting public sector employees from participating in a strike or lockout. In the application of this subsection, with respect to Puerto Rico, the term "applicable laws" refers to 3 L.P.R.A. 1451q and 3 L.P.R.A. 1451r, as amended.
+The Oversight Board shall ensure the purposes of this chapter are met, including by ensuringthe prompt enforcement of any applicable laws of the covered territory prohibiting public sector employees from participating in a strike or lockout. In the application of this subsection, with respect to Puerto Rico, the term "applicable laws" refers to 3 L.P.R.A. 1451q and 3 L.P.R.A. 1451r, as amended.
 
 #### (i) Voluntary agreement certification
 

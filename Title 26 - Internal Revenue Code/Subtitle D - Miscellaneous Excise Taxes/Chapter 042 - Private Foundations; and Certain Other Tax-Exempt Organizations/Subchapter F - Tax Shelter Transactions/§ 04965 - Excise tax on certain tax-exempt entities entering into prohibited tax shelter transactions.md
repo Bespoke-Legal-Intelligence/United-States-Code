@@ -118,7 +118,7 @@ The Secretary is authorized to promulgate regulations which provide guidance reg
 
 The tax imposed by this section is in addition to any other tax, addition to tax, or penalty imposed under this title.
 
-(Added Pub. L. 109–222, title V, §516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172,§11(a)(30), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. B, title I, §102(e)(3), Dec. 19, 2014, 128 Stat. 4062.)
+(Added Pub. L. 109–222, title V, §516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172, §11(a)(30), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. B, title I, §102(e)(3), Dec. 19, 2014, 128 Stat. 4062.)
 
 #### <b>Editorial Notes</b>
 

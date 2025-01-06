@@ -46,7 +46,7 @@ Annual Naval Vessel Construction Plan.—(1) The annual naval vessel constructio
 
 &emsp;&emsp;&emsp;(II) the termination of the production program for the ship without a new or modified production program to replace it; and
 
-&emsp;&emsp;(ii) in the case of any such production program for which a replacement production program is proposed, a detailed schedule for the replacement production program with planned decision points, solicitations, and contract awards.
+&emsp;&emsp;(ii) in the case of any such production program for which a replacement production program is proposed, a detailed schedule forthe replacement production program with planned decision points, solicitations, and contract awards.
 
 (3) In developing annual naval vessel construction plans for purposes of subsection (a)(1), the Secretary of the Navy shall take into consideration the most recent biennial report on shipbuilder training and the defense industrial base required by section 8693 of this title.
 
@@ -78,6 +78,24 @@ Limitation on Availability of Funds for Fiscal Years Without Plan and Certificat
 
 (g)
 
+Reduction in Battle Force Ships.—If the plan and certification under subsection (a) for a fiscal year include a proposed reduction in the number of battle force ships proposed to be procured during that fiscal year or during the any of the subsequent nine fiscal years, as compared to the number of such ships proposed in the plan and certification for the preceding fiscal year for that fiscal year and the subsequent nine fiscal years, the Secretary of Defense shall provide to the congressional defense committees, by not later than 15 days after the date of the submission of the plan and certification under subsection (a), a briefing that includes each of the following:
+
+&emsp;(1) An identification of each specific ship for which funds are not requested in the budget for that fiscal year and an identification of any funds that were allocated to each such ship, for any prior fiscal year including funds for—
+
+&emsp;&emsp;(A) research, development, test, and evaluation;
+
+&emsp;&emsp;(B) advance procurement;
+
+&emsp;&emsp;(C) advanced construction; and
+
+&emsp;&emsp;(D) economic order quantity.
+
+&emsp;(2) If a shipyard is identified in relation to a ship identified under paragraph (1), the projected change in workload at the shipyard as a result of the reduction of the ship.
+
+&emsp;(3) The projected change in the estimated value of any major subcontracted components or sequence critical material as a result of the reduction of the ship.
+
+(h)
+
 Definitions.—In this section:
 
 &emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
@@ -92,11 +110,13 @@ Definitions.—In this section:
 
 &emsp;(6) The term "expected service life" means the number of years a naval vessel is expected to be in service.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547; Pub. L. 115–232, div. A, title X, §1011, Aug. 13, 2018, 132 Stat. 1947; Pub. L. 116–283, div. A, title X, §§1021, 1081(a)(13), Jan. 1, 2021, 134 Stat. 3839, 3871; Pub. L. 117–81, div. A, title X, §1011(a), Dec. 27, 2021, 135 Stat. 1889; Pub. L. 117–263, div. A, title III, §352(a), title X, §1021, Dec. 23, 2022, 136 Stat. 2533, 2763; Pub. L. 118–31, div. A, title X, §1015, title XVIII, §1801(a)(3), Dec. 22, 2023, 137 Stat. 382, 683.)
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547; Pub. L. 115–232, div. A, title X, §1011, Aug. 13, 2018, 132 Stat. 1947; Pub. L. 116–283, div. A, title X, §§1021, 1081(a)(13), Jan. 1, 2021, 134 Stat. 3839, 3871; Pub. L. 117–81, div. A, title X, §1011(a), Dec. 27, 2021, 135 Stat. 1889; Pub. L. 117–263, div. A, title III, §352(a), title X, §1021, Dec. 23, 2022, 136 Stat. 2533, 2763; Pub. L. 118–31, div. A, title X, §1015, title XVIII, §1801(a)(3), Dec. 22, 2023, 137 Stat. 382, 683; Pub. L. 118–159, div. A, title X, §1021, Dec. 23, 2024, 138 Stat. 2052.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (g), (h). Pub. L. 118–159 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2023</b>—Pub. L. 118–31, §1801(a)(3)(A), substituted "plans and certifications" for "plan and certification" in section catchline.
 
@@ -164,7 +184,7 @@ Subsec. (b)(2)(B). Pub. L. 113–66, §1021(a)(2)(A), inserted "and capabilities
 
 Subsec. (b)(2)(D). Pub. L. 113–66, §1021(a)(2)(B), added subpar. (D).
 
-Subsec. (c). Pub. L. 113–66, §1021(b), added subsec. (c) and struck out former subsec. (c). Text read as follows: "If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands."
+Subsec. (c). Pub. L. 113–66, §1021(b), added subsec. (c) and struck out former subsec. (c). Text read as follows: "If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscalyear an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands."
 
 Subsecs. (e), (f). Pub. L. 112–239 added subsec. (e) and redesignated former subsec. (e) as (f).
 

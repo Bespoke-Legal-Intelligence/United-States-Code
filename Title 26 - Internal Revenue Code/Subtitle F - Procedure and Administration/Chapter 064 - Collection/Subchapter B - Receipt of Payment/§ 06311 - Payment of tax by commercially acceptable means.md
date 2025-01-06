@@ -2,7 +2,7 @@
 
 #### (a) Authority to receive
 
-It shall be lawful for the Secretary to receive for internal revenue taxes (or in payment for internal revenue stamps) any commercially acceptable means that the Secretary deems appropriate to the extent and under the conditionsprovided in regulations prescribed by the Secretary.
+It shall be lawful for the Secretary to receive for internal revenue taxes (or in payment for internal revenue stamps) any commercially acceptable means that the Secretary deems appropriate to the extent and under the conditions provided in regulations prescribed by the Secretary.
 
 #### (b) Ultimate liability
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 105–34 effective on the day 9 months after Aug. 5, 1997, 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title IV, §448(b), July 18, 1984, 98 Stat. 818, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title IV, §448(b), July 18, 1984, 98 Stat. 818, provided that: "The amendments made bysubsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Regulations
 

@@ -46,7 +46,7 @@ Any State which desires to do so may enter into and participate in an agreement 
 
 #### (2) Maximum benefit entitlement
 
-&emsp;In paragraph (1), the term "maximum benefit entitlement" means the amount of regular unemployment compensation payable to an individual with respect to the individual's benefit year.
+&emsp;In paragraph (1), the term "maximum benefit entitlement" means the amount of regularunemployment compensation payable to an individual with respect to the individual's benefit year.
 
 #### (d) Payments to States
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchaptersXIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(1), (2)(A), is section 205 of Pub. L. 91–373, which is set out in a note under section 3304 of Title 26, Internal Revenue Code.
 
@@ -194,7 +194,7 @@ Pub. L. 116–260, div. N, title II, §261(c), Dec. 27, 2020, 134 Stat. 1962, pr
 
 #### Technical Correction for the Commonwealth of Northern Mariana Islands
 
-Commonwealth Only Transitional Workers to be considered qualified aliens under section 1641 of Title 8, Aliens and Nationality, for purposes of eligibility for a benefit under this section, see section 265 of div. N of Pub. L. 116–260, set out as a note under section 9021 of this title.
+Commonwealth Only Transitional Workers to be considered qualified aliens under section 1641 of Title 8,Aliens and Nationality, for purposes of eligibility for a benefit under this section, see section 265 of div. N of Pub. L. 116–260, set out as a note under section 9021 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

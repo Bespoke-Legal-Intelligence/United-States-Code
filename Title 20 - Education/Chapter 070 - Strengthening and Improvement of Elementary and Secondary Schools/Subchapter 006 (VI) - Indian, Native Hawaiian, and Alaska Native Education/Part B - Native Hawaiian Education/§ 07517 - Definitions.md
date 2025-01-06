@@ -54,7 +54,7 @@ In this part:
 
 &emsp;&emsp;(B) has Native Hawaiians in substantive and policymaking positions within the organization; and
 
-&emsp;&emsp;(C) is recognized by the Governor of Hawaii for the purpose of planning, conducting, or administering programs (or portions of programs) for the benefit of Native Hawaiians.
+&emsp;&emsp;(C) is recognized by the Governor of Hawaii for the purpose of planning, conducting, or administering programs (or portions ofprograms) for the benefit of Native Hawaiians.
 
 #### (7) Office of Hawaiian Affairs
 

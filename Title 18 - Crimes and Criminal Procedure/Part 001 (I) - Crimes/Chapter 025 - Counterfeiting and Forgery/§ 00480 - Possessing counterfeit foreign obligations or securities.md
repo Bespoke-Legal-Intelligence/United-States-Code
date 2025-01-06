@@ -2,7 +2,7 @@
 
 Whoever, within the United States, knowingly and with intent to defraud, possesses or delivers any false, forged, or counterfeit bond, certificate, obligation, security, treasury note, bill, promise to pay, bank note, or bill issued by a bank or corporation of any foreign country, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §375(c), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994,108 Stat. 2147; Pub. L. 107–56, title III, §375(c), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 

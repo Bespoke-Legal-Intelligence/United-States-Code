@@ -8,7 +8,7 @@
 
 (2) After the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received by a member of the uniformed services for any month to less than one-third of the member's pay for that month.
 
-(3)(A) If the indebtedness of a member of the uniformed services to the United States is dueto the overpayment of pay or allowances to the member through no fault of the member, the amount of the overpayment shall be recovered in monthly installments. The amount deducted from the pay of the member for a month to recover the overpayment amount may not exceed 15 percent of the member's pay for that month unless the member requests or consents to collection of the overpayment at an accelerated rate.
+(3)(A) If the indebtedness of a member of the uniformed services to the United States is due to the overpayment of pay or allowances to the member through no fault of the member, the amount of the overpayment shall be recovered in monthly installments. The amount deducted from the pay of the member for a month to recover the overpayment amount may not exceed 15 percent of the member's pay for that month unless the member requests or consents to collection of the overpayment at an accelerated rate.
 
 (B) In all cases described in subparagraph (A), the Secretary concerned shall provide a reasonable opportunity for the member to request a delay in the imposition of the repayment requirement to recover the indebtedness. Before beginning collection efforts, the Secretary concerned shall consider the reasons provided by the member for the requested delay, including the financial ability of the member to repay the indebtedness, and the hardship that immediate collection would impose on the member and the member's dependents.
 
@@ -174,7 +174,7 @@ Subsec. (d). Pub. L. 116–283, §925(k)(2)(A)(i), (B)(ii), substituted ", the 
 
 Subsec. (e). Pub. L. 116–283, §925(k)(2)(A)(ii), substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
-Subsec. (f). Pub. L. 116–283, §925(k)(2)(A)(i), (B)(iii), substituted ", the Air Force, or the Space Force" for "or the Air Force" and "the officer's" for "his" and substituted "the officer" for "he" in two places.
+Subsec. (f). Pub. L. 116–283, §925(k)(2)(A)(i), (B)(iii), substituted ", the Air Force, or the Space Force" for"or the Air Force" and "the officer's" for "his" and substituted "the officer" for "he" in two places.
 
 Subsec. (g). Pub. L. 116–283, §925(k)(2)(A)(i), substituted ", the Air Force, or the Space Force" for "or the Air Force".
 

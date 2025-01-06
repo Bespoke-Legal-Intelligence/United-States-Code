@@ -2,7 +2,7 @@
 
 The President, or any officer of the United States to whom the President may delegate authority under this section, may from time to time prescribe such rules and regulations and impose such conditions on the receipt of financial aid as may be necessary to carry out this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §633; Pub. L. 94–581, title II, §210(a)(15), Oct. 21, 1976, 90 Stat. 2863; renumbered §1733, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §633; Pub. L. 94–581, title II, §210(a)(15), Oct. 21, 1976,90 Stat. 2863; renumbered §1733, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### <b>Editorial Notes</b>
 

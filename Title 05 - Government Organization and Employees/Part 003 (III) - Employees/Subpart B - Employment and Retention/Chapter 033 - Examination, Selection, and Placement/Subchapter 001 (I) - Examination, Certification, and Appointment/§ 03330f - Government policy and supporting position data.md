@@ -200,7 +200,7 @@ Responsibility of Agencies.—
 
 &emsp;(1)
 
-Provision of information.—Each agency shall comply with the instructions and guidance issued by the Director to carry out this section, and, upon request of the Director, shall provide appropriate assistance to the Director to ensure the successful operation of the covered website in the manner and within the timeframe specified by the Director under subsection (f)(2).
+Provision of information.—Each agency shall comply with the instructions and guidance issued by the Director to carry out thissection, and, upon request of the Director, shall provide appropriate assistance to the Director to ensure the successful operation of the covered website in the manner and within the timeframe specified by the Director under subsection (f)(2).
 
 &emsp;(2)
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(v) implementation practices, including disclosure methods and phase-in of compliance;
 
-&emsp;&emsp;&emsp;(vi) the safety and security of benchmarking tools offered by government agencies, and the resiliency of those tools against cyber attacks; and
+&emsp;&emsp;&emsp;(vi) the safety and security of benchmarking tools offered by governmentagencies, and the resiliency of those tools against cyber attacks; and
 
 &emsp;&emsp;&emsp;(vii) international experiences with regard to building benchmarking and disclosure laws and data aggregation for multitenant buildings.
 

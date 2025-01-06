@@ -6,7 +6,7 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### (b) Cost sharing
 
-Not more than 60 percent of the aggregate cost of restoring the Plains High School (referred toin section 410hhhh (b)(2)(E) of this title) may be provided from appropriated Federal funds. The remaining 40 percent, non-Federal share of such cost may be in the form of cash, goods, or services, fairly valued.
+Not more than 60 percent of the aggregate cost of restoring the Plains High School (referred to in section 410hhhh (b)(2)(E) of this title) may be provided from appropriated Federal funds. The remaining 40 percent, non-Federal share of such cost may be in the form of cash, goods, or services, fairly valued.
 
 (Pub. L. 100–206, §7, Dec. 23, 1987, 101 Stat. 1437; Pub. L. 116–341, §2(b)(4), (5), Jan. 13, 2021, 134 Stat. 5132.)
 

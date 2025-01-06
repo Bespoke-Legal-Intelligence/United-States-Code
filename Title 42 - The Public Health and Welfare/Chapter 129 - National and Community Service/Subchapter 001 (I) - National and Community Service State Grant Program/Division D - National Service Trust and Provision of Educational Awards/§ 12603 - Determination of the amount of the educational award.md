@@ -18,7 +18,7 @@ An individual described in section 12602(a) of this title who successfully compl
 
 #### (e) Amount for silver scholars
 
-An individual described in section 12602(a) of this title who successfully completes a required silver scholar term shall receive a silver scholar educational award having a value of $1,000.
+An individual described in section 12602(a) of this title who successfully completes a requiredsilver scholar term shall receive a silver scholar educational award having a value of $1,000.
 
 (Pub. L. 101–610, title I, §147, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 819; amended Pub. L. 111–13, title I, §1404, Apr. 21, 2009, 123 Stat. 1515.)
 

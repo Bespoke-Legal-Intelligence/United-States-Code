@@ -9,10 +9,6 @@
 
 #### <b>Editorial Notes</b>
 
-#### Amendments
-
-<b>1987</b>—Pub. L. 100–203, title X, §10714(d), Dec. 22, 1987, 101 Stat. 1330–471, added item 4912.
-
 #### Prior Provisions
 
 The provisions of a prior chapter 41, Interest Equalization Tax, were set out as follows:
@@ -27,7 +23,7 @@ The subject matter of the prior provisions is as follows:
 
 Section 4911, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 809; amended Pub. L. 89–243, §§2, 3(a)(1), (b), Oct. 9, 1965, 79 Stat. 954; Pub. L. 90–59, §§2, 3(a), July 31, 1967, 81 Stat. 145; Pub. L. 91–50, Aug. 2, 1969, 83 Stat. 86; Pub. L. 91–65, §2, Aug. 25, 1969, 83 Stat. 105; Pub. L. 91–128, §§2, 3, Nov. 26, 1969, 83 Stat. 261, 262; Pub. L. 92–9, §2, Apr. 1, 1971, 85 Stat. 13; Pub. L. 93–17, §2, Apr. 10, 1973, 87 Stat. 12, imposed a tax on each acquisition by a United States person of stock of a foreign issuer or a debt obligation of a foreign obligor, if such obligation had a period remaining to maturity of 1 year or more and provided for modification of tax rate by executive order, rate tables, rates during interim period, rules and regulations, persons liable for tax, and termination date, that no tax shall be imposed on any acquisition made after June 30, 1974.
 
-Section 4912, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 810; amended Pub. L. 89–243, §4(m)(3), Oct. 9, 1965, 79 Stat. 963; Pub. L. 90–59, §5(a)(1), July 31, 1967, 81 Stat. 157; Pub. L. 91–128, §4(a)(1), Nov. 26, 1969, 83 Stat. 263; Pub. L. 92–9, §3(a)(1), Apr. 1, 1971, 85 Stat. 14; Pub. L. 93–17, §3(e), Apr. 10, 1973, 87 Stat. 17, defined term "acquisition" and provided special rules to be applied to certain transfers to foreign trusts, foreign corporations and partnerships, foreign branches, acquisitions from domestic corporations or partnerships formed or availed of to obtain funds for foreign issuer or obligor, and reorganization exchanges.
+Section 4912, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 810; amended Pub. L. 89–243, §4(m)(3), Oct. 9, 1965, 79 Stat. 963; Pub. L. 90–59, §5(a)(1), July 31, 1967, 81 Stat. 157; Pub. L. 91–128, §4(a)(1), Nov. 26, 1969, 83 Stat. 263; Pub. L. 92–9, §3(a)(1), Apr. 1, 1971, 85 Stat. 14; Pub. L. 93–17, §3(e), Apr. 10, 1973, 87 Stat. 17, defined term "acquisition" and provided special rules to be applied to certain transfers to foreign trusts, foreign corporations and partnerships, foreign branches, acquisitionsfrom domestic corporations or partnerships formed or availed of to obtain funds for foreign issuer or obligor, and reorganization exchanges.
 
 Section 4913, added Pub. L. 88–563, §2(a), Sept. 12, 1964, 78 Stat. 812, imposed general and special limitations on tax on certain acquisitions relating to stock or debt obligations acquired by surrender, extensions, renewals, and exercises, transfers which are deemed acquisitions and acquisitions by certain domestic corporations and partnerships.
 
@@ -50,6 +46,10 @@ Section 4921, added Pub. L. 92–9, §3(i)(1), Apr. 1, 1971, 85 Stat. 21, relate
 Section 4922, added Pub. L. 93–17, §3(d)(1), Apr. 10, 1973, 87 Stat. 15, related to exclusion for certain issues to finance new or additional direct investment in the United States, qualification for exclusion, and loss of entitlement to exclusion by subsequent noncompliance.
 
 Section 4931, added Pub. L 88–563, §2(a), Sept. 2, 1964, 78 Stat. 839; amended Pub. L. 89–243, §§3(e)(1), 4(a)(4), (o), Oct. 9, 1965, 79 Stat. 955, 956, 964; Pub. L. 89–809, title II, §215(a), Nov. 13, 1966, 80 Stat. 1587, Pub. L. 90–59, §3(b)(1), July 31, 1967, 81 Stat. 145, related to the standby authority of the President to impose, by Executive order, tax on acquisitions by commercial banks of debt obligations of foreign obligors, made provision for exclusions concerning export loans, foreign currency loans by foreign branches, preexisting commitments, and provided for prescription of regulations by the Secretary.
+
+#### Amendments
+
+<b>1987</b>—Pub. L. 100–203, title X, §10714(d), Dec. 22, 1987, 101 Stat. 1330–471, added item 4912.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

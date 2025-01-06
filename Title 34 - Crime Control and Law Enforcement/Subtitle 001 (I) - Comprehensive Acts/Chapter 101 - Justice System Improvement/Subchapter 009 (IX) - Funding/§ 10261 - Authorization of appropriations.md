@@ -8,7 +8,7 @@
 
 (4) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subchapter XI of this chapter.
 
-(5) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 ofpart B) <sup>3</sup> (other than subpart 1 of part B of subchapter V) of this chapter.
+(5) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 of part B) <sup>3</sup> (other than subpart 1 of part B of subchapter V) of this chapter.
 
 (6) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>4</sup> 1994 and 1995 to carry out subpart 1 of part B of subchapter V of this chapter.
 
@@ -120,7 +120,7 @@
 
 (27) There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 and 2018, and $330,000,000 for each of fiscal years 2019 through 2023.
 
-(28) There are authorized to be appropriated to carry out section 10741(a)(4) <sup>1</sup> of subchapter XL$5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
+(28) There are authorized to be appropriated to carry out section 10741(a)(4) <sup>1</sup> of subchapter XL $5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
 
 (b) Funds appropriated for any fiscal year may remain available for obligation until expended.
 
@@ -320,7 +320,7 @@ Subsec. (a)(20). Pub. L. 103–322, §50001(c)(2), added par. (20).
 
 Subsec. (a)(21). Pub. L. 103–322, §210201(c)(2), added par. (21).
 
-Subsec. (a)(22). Pub. L. 103–322, §210302(c)(3)(B), which directed amendment of this section by adding at theend a new par. (22), was executed by adding par. (22) at the end of subsec. (a) to reflect the probable intent of Congress.
+Subsec. (a)(22). Pub. L. 103–322, §210302(c)(3)(B), which directed amendment of this section by adding at the end a new par. (22), was executed by adding par. (22) at the end of subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 103–322, §330001(h)(14), substituted "such subchapter" for "such subchapters".
 
@@ -390,7 +390,7 @@ Pub. L. 109–162, §4, as added by Pub. L. 109–271, §1(b), Aug. 12, 2006, 12
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 210302(c)(3) of Pub. L. 103–322 effective 60 days after Sept. 13, 1994, see section 210302(c)(4) of Pub. L. 103–322, set out as an Effective Date note under section 10511 of this title.
+Amendment by section 210302(c)(3) of Pub. L. 103–322 effective 60 days after Sept. 13, 1994, see section210302(c)(4) of Pub. L. 103–322, set out as an Effective Date note under section 10511 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -360,7 +360,7 @@ For purposes of this section:
 
 #### (iii) Information from Secretary of the Treasury
 
-&emsp;&emsp;&emsp;Financial information made available to the Secretary under section 6103(l)(19) of the Internal Revenue Code of 1986 in order to verify the eligibility of individuals who provide such certification.
+&emsp;&emsp;&emsp;Financial information made available to the Secretary under section 6103(l)(19) ofthe Internal Revenue Code of 1986 in order to verify the eligibility of individuals who provide such certification.
 
 #### (C) Verification in cases of medicaid enrollees
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) to have payment made of any annual enrollment fee charged under subsection (c)(2) for enrollment under the program; and
 
-&emsp;&emsp;(B) to have payment made, up to the amount specified in paragraph (2), under such endorsed program of 90 percent (or 95 percent in the case of a special transitional assistance eligible individual) of the costsincurred for covered discount card drugs obtained through the program taking into account the negotiated price (if any) for the drug under the program.
+&emsp;&emsp;(B) to have payment made, up to the amount specified in paragraph (2), under such endorsed program of 90 percent (or 95 percent in the case of a special transitional assistance eligible individual) of the costs incurred for covered discount card drugs obtained through the program taking into account the negotiated price (if any) for the drug under the program.
 
 #### (2) Limitation on dollar amount
 
@@ -472,7 +472,7 @@ For purposes of this section:
 
 #### (B) American Indians
 
-&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section to ensure that, for purposes of providing transitional assistance, pharmacies operated by the Indian Health Service, Indian tribes and tribal organizations, and urban Indian organizations (as defined in section 1603 oftitle 25) have the opportunity to participate in the pharmacy networks of at least two endorsed programs in each of the 50 States and the District of Columbia where such a pharmacy operates.
+&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section to ensure that, for purposes of providing transitional assistance, pharmacies operated by the Indian Health Service, Indian tribes and tribal organizations, and urban Indian organizations (as defined in section 1603 of title 25) have the opportunity to participate in the pharmacy networks of at least two endorsed programs in each of the 50 States and the District of Columbia where such a pharmacy operates.
 
 #### (6) No impact on benefits under other programs
 
@@ -512,7 +512,7 @@ For purposes of this section:
 
 #### (A) Submission
 
-&emsp;&emsp;Each prescription drug card sponsor that seeks endorsement of a prescription drug discount card program under this section shall submit to the Secretary, at such time and in such manner as the Secretary may specify, an application containing such information as the Secretary may require.
+&emsp;&emsp;Each prescription drug card sponsor that seeks endorsement of a prescription drugdiscount card program under this section shall submit to the Secretary, at such time and in such manner as the Secretary may specify, an application containing such information as the Secretary may require.
 
 #### (B) Approval; compliance with applicable requirements
 
@@ -546,7 +546,7 @@ For purposes of this section:
 
 #### (5) Grievance mechanism
 
-&emsp;Each prescription drug card sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor carries out the endorsed discount card program) and enrollees in endorseddiscount card programs of the sponsor under this section in a manner similar to that required under section 1395w–22(f) of this title.
+&emsp;Each prescription drug card sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor carries out the endorsed discount card program) and enrollees in endorsed discount card programs of the sponsor under this section in a manner similar to that required under section 1395w–22(f) of this title.
 
 #### (6) Confidentiality of enrollee records
 
@@ -582,7 +582,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an organization that is offering a plan under part C or enrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
+&emsp;&emsp;In the case of an organization that is offering a plan under part C or enrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization mayelect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
 
 #### (B) Special rules
 

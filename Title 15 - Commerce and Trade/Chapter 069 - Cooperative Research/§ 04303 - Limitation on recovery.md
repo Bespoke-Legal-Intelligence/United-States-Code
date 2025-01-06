@@ -40,7 +40,7 @@ Subsections (a), (b), and (c) shall not be construed to modify the liability und
 
 #### (f) Applicability
 
-This section shall be applicable only if the challenged conduct of a person defending against a claim is not in violation of any decree or order, entered or issued after October 11, 1984, in any case or proceeding under the antitrust laws or any State law similar to the antitrustlaws challenging such conduct as part of a joint venture, or of a standards development activity engaged in by a standards development organization.
+This section shall be applicable only if the challenged conduct of a person defending against a claim is not in violation of any decree or order, entered or issued after October 11, 1984, in any case or proceeding under the antitrust laws or any State law similar to the antitrust laws challenging such conduct as part of a joint venture, or of a standards development activity engaged in by a standards development organization.
 
 (Pub. L. 98–462, §4, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, §3(e)(1), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §105, June 22, 2004, 118 Stat. 663.)
 

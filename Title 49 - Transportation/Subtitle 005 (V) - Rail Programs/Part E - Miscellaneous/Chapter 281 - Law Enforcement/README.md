@@ -32,7 +32,7 @@ Pub. L. 106–570, title III, Dec. 27, 2000, 114 Stat. 3043, provided that:
 
 &emsp;"(1) rail transportation is an essential component of the North American intermodal transportation system;
 
-&emsp;"(2) the development of economically strong and socially stable communities in the western United States and Canada was encouraged significantly by government policies promoting the development of integrated transcontinental, interstate and interprovincial rail systems in the States, territories and provinces of the two countries;
+&emsp;"(2) the development of economically strong and socially stable communities in the western UnitedStates and Canada was encouraged significantly by government policies promoting the development of integrated transcontinental, interstate and interprovincial rail systems in the States, territories and provinces of the two countries;
 
 &emsp;"(3) United States and Canadian federal support for the completion of new elements of the transcontinental, interstate and interprovincial rail systems was halted before rail connections were established to the State of Alaska and the Yukon Territory;
 
@@ -134,7 +134,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—The Agreement should provide for the Commission to study and assess, on the basis of all available relevant information, the feasibility and advisability of linking the rail system in Alaska to the North American continental rail system through the continuation of the rail system in Alaska from its northeastern terminus to a connection with the continental rail system in Canada.
+In general.—The Agreement should provide for the Commission to study and assess, on the basisof all available relevant information, the feasibility and advisability of linking the rail system in Alaska to the North American continental rail system through the continuation of the rail system in Alaska from its northeastern terminus to a connection with the continental rail system in Canada.
 
 &emsp;"(2)
 

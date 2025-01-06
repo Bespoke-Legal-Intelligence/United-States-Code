@@ -70,7 +70,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (A) Organizations
 
-&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) with respect to which the vacancy exists.
+&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominatedby organizations representing the type of individuals described in subsection (b)(1) with respect to which the vacancy exists.
 
 #### (B) Nominations
 
@@ -110,7 +110,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 
-> &emsp;The National Assessment of Educational Progress data shall not be released prior to therelease of the reports described in subparagraph (J).
+> &emsp;The National Assessment of Educational Progress data shall not be released prior to the release of the reports described in subparagraph (J).
 
 #### (2) Delegation
 

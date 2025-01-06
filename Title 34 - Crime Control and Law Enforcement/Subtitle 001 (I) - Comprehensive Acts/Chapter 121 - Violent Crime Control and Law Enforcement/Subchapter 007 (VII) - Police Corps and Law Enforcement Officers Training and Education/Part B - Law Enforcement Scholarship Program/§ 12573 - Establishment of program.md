@@ -36,7 +36,7 @@
 
 #### (3) Non-Federal share
 
-&emsp;The non-Federal share of the cost of scholarships and student employment provided under this part shall be supplied from sources other than the Federal Government.
+&emsp;The non-Federal share of the cost of scholarships and student employment provided underthis part shall be supplied from sources other than the Federal Government.
 
 #### (c) Responsibilities of Director
 

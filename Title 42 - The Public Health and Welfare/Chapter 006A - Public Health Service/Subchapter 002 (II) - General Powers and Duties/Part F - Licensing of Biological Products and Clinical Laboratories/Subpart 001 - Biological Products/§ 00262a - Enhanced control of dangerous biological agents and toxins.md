@@ -126,7 +126,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (B) Other persons
 
-&emsp;&emsp;Regulations under subsections (b) and (c) shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is a restricted person or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
+&emsp;&emsp;Regulations under subsections (b) and (c) shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is a restricted person or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person whoseeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
 
 #### (7) Review
 
@@ -142,7 +142,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Ex parte review
 
-&emsp;&emsp;&emsp;During a review under clause (i), the Secretary may consider information relevant to the review ex parte to the extent that disclosure of the information couldcompromise national security or an investigation by any law enforcement agency.
+&emsp;&emsp;&emsp;During a review under clause (i), the Secretary may consider information relevant to the review ex parte to the extent that disclosure of the information could compromise national security or an investigation by any law enforcement agency.
 
 #### (iii) Final agency action
 
@@ -250,7 +250,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (3) Other exemptions
 
-&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title, to any of the information specified in paragraph (1).
+&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title,to any of the information specified in paragraph (1).
 
 #### (4) Rule of construction
 
@@ -400,7 +400,7 @@ Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided th
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A ofthe Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
 
 #### Improving Research and Development of Medical Countermeasures for Novel Pathogens
 
@@ -600,7 +600,7 @@ Thereafter, the Panel shall continue to provide technical advice concerning the 
 
 (iv) If the Panel is unable to reach consensus on recommendations for an issue within its charge, the matter shall be resolved through the interagency policy committee process led by the National Security Staff.
 
-(v) The Secretaries of Health and Human Services and Agriculture and the Attorney General shall reportto the Assistant to the President for Homeland Security and Counterterrorism on the consideration and implementation of Panel recommendations concerning the SAP, including a rationale for failure to implement any recommendations.
+(v) The Secretaries of Health and Human Services and Agriculture and the Attorney General shall report to the Assistant to the President for Homeland Security and Counterterrorism on the consideration and implementation of Panel recommendations concerning the SAP, including a rationale for failure to implement any recommendations.
 
 (vi) The Panel shall be chartered for a period of 4 years subject to renewal through the interagency policy committee process led by the National Security Staff.
 

@@ -30,7 +30,7 @@ For the purpose of this chapter—
 
 &emsp;(14) "developer" means (A) any person who offers to sell or sells his interest in a cooperative or condominium unit not previously conveyed, or (B) any successor of such person who offers to sell or sells his interests in units in a cooperative or condominium project and who has the authority to exercise special developer control in the project including the right to: add, convert, or withdraw real estate from the cooperative or condominium project, and maintain sales offices, management offices and rental units; exercise easements through common elements for the purpose of making improvements within the cooperative or condominium; or exercise control of the owners' association;
 
-&emsp;(15) "interstate commerce" means trade, traffic, transportation, communication, or exchange among the States, or between any foreign country and a State, or any transaction which affects such trade, traffic, transportation, communication, or exchange;
+&emsp;(15) "interstate commerce" means trade, traffic, transportation, communication, or exchange among the States, or between any foreign country and a State, or any transactionwhich affects such trade, traffic, transportation, communication, or exchange;
 
 &emsp;(16) "lease" includes any agreement or arrangement containing a condominium or cooperative unit owner's obligation, individually, collectively, or through an association to make payments for a leasehold interest or for other rights to use or possess real estate, or personal property (which rights may include the right to receive services with respect to such real estate or personal property), except a lease does not include mortgages or other such agreements for the purchase of real estate;
 

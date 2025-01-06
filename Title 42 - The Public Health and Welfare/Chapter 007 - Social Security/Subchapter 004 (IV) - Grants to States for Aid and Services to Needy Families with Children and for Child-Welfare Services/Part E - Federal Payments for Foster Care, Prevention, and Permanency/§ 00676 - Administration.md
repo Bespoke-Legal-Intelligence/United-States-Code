@@ -12,7 +12,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (1) Authority
 
-&emsp;The Secretary shall provide technical assistance and implementation services that arededicated to improving services and permanency outcomes for Indian children and their families through the provision of assistance described in paragraph (2).
+&emsp;The Secretary shall provide technical assistance and implementation services that are dedicated to improving services and permanency outcomes for Indian children and their families through the provision of assistance described in paragraph (2).
 
 #### (2) Assistance provided
 
@@ -46,7 +46,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (C) Implementation authority
 
-&emsp;&emsp;The Secretary may provide the technical assistance and implementation services described in subparagraph (A) either directly or through a grant or contract with public or private organizations knowledgeable and experienced in the field of Indian tribal affairs and child welfare.
+&emsp;&emsp;The Secretary may provide the technical assistance and implementation services described in subparagraph (A) either directlyor through a grant or contract with public or private organizations knowledgeable and experienced in the field of Indian tribal affairs and child welfare.
 
 #### (3) Appropriation
 

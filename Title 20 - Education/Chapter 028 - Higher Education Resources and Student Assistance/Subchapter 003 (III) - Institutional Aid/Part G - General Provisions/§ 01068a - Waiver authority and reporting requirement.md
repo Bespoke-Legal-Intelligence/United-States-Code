@@ -46,7 +46,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;&emsp;&emsp;(iv) the use of the funding formula developed pursuant to section 1063b(f)(3) of this title;
 
-&emsp;&emsp;(B) waive or modify any statutory or regulatory provision to ensure that affected institutions that were receiving assistance under this subchapter at the time of a Gulf hurricane disaster are not adversely affected by any formula calculation for fiscal year 2009 or for any of the four succeeding fiscal years, as necessary; and
+&emsp;&emsp;(B) waive or modify any statutory or regulatory provision to ensure that affected institutions that were receiving assistanceunder this subchapter at the time of a Gulf hurricane disaster are not adversely affected by any formula calculation for fiscal year 2009 or for any of the four succeeding fiscal years, as necessary; and
 
 &emsp;&emsp;(C) make available to each affected institution an amount that is not less than the amount made available to such institution under this subchapter for fiscal year 2006, except that for any fiscal year for which the funds appropriated for payments under this subchapter are less than the appropriated level for fiscal year 2006, the amount made available to such institutions shall be ratably reduced among the institutions receiving funds under this subchapter.
 

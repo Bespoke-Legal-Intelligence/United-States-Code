@@ -242,7 +242,7 @@ Performance Measures.—
 
 &emsp;(1)
 
-In general.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives making recommendations on the establishment of performance measures for grants under this section. Such report shall be developed in consultation with national nonprofit organizations that provide technical assistance and advocacy on issues related to transportation services for seniors and individuals with disabilities.
+In general.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shallsubmit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives making recommendations on the establishment of performance measures for grants under this section. Such report shall be developed in consultation with national nonprofit organizations that provide technical assistance and advocacy on issues related to transportation services for seniors and individuals with disabilities.
 
 &emsp;(2)
 

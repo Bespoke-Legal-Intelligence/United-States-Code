@@ -28,7 +28,7 @@ Components of Program.—The program of education for which such a grant is made
 
 &emsp;(1) Multidisciplinary instruction that encompasses the total manufacturing engineering enterprise and that may include—
 
-&emsp;&emsp;(A) manufacturing engineering education and training through classroom activities, laboratory activities, thesis projects, individual or team projects, internships, cooperative work-study programs, and interactions with industrial facilities, consortia, or such other activities and organizations in the United States and foreign countries as the Secretary considers appropriate;
+&emsp;&emsp;(A) manufacturing engineering education and training through classroom activities,laboratory activities, thesis projects, individual or team projects, internships, cooperative work-study programs, and interactions with industrial facilities, consortia, or such other activities and organizations in the United States and foreign countries as the Secretary considers appropriate;
 
 &emsp;&emsp;(B) faculty development programs;
 
@@ -112,5 +112,5 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Implementation of Grant Program; Priority in Funding
 
-Pub. L. 102–190, div. A, title VIII, §825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: "Within one year after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code \[now 10 U.S.C. 4843\] (as added by subsection (a)), to institutions of higher education throughout the United States."
+Pub. L. 102–190, div. A, title VIII, §825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: "Within one year after thedate of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code \[now 10 U.S.C. 4843\] (as added by subsection (a)), to institutions of higher education throughout the United States."
 

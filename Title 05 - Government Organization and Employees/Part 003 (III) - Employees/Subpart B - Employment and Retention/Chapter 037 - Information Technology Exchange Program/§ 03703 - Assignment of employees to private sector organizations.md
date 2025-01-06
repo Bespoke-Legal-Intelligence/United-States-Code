@@ -28,7 +28,7 @@ In general.—The head of each agency shall take such actions as may be necessar
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term "small business concern" means a business concern that satisfies the definitions and standards specified by the Administrator of the Small Business Administration under section 3(a)(2) of the Small Business Act (as from time to time amended by the Administrator);
+&emsp;&emsp;(A) the term "small business concern" means a business concern that satisfies the definitions and standards specified by theAdministrator of the Small Business Administration under section 3(a)(2) of the Small Business Act (as from time to time amended by the Administrator);
 
 &emsp;&emsp;(B) the term "year" refers to the 12-month period beginning on the date of the enactment of this chapter, and each succeeding 12-month period in which any assignments under this chapter may be made; and
 

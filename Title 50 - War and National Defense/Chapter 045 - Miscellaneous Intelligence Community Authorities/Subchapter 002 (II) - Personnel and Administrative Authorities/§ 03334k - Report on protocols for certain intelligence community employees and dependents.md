@@ -82,7 +82,7 @@ In this section:
 
 #### (2) Covered employee
 
-&emsp;The term "covered employee" means an individual who is an employee, assignee, ordetailee of an element of the intelligence community.
+&emsp;The term "covered employee" means an individual who is an employee, assignee, or detailee of an element of the intelligence community.
 
 #### (3) Covered individual
 
@@ -102,5 +102,5 @@ In this section:
 
 #### Definitions
 
-For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
+For definitions of "congressional intelligence committees" and "intelligence community" as used in this section, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
 

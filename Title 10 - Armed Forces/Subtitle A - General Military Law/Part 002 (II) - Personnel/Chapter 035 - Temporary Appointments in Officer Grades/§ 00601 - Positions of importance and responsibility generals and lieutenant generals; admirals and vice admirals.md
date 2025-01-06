@@ -10,7 +10,7 @@
 
 &emsp;(3) while hospitalized, beginning on the day of the hospitalization and ending on the day he is discharged from the hospital, but not for more than 180 days;
 
-&emsp;(4) at the discretion of the Secretary of Defense, while the officer is awaiting orders after being relieved from the position designated under subsection (a) or by law to carry one of those grades, but not for more than 60 days beginning on the day the officer is relieved from the position, unless, during such period, the officer is placed under orders to another position designated under subsection (a) or by law to carry one of those grades, in which case paragraph (2) will also apply to the officer; and
+&emsp;(4) at the discretion of the Secretary of Defense, while the officer is awaiting orders after being relieved from the position designated under subsection (a) or by law to carry one of those grades, but not for more than 60 days beginning on the day the officer is relieved from the position, unless, during such period, the officer is placed under orders to another position designated under subsection (a) or by lawto carry one of those grades, in which case paragraph (2) will also apply to the officer; and
 
 &emsp;(5) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but—
 
@@ -70,7 +70,7 @@ Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted "under subsection (a) o
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title V, §502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\]."
+Pub. L. 102–190, div. A, title V, §502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effecton the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\]."
 
 #### Effective Date of 1981 Amendment
 

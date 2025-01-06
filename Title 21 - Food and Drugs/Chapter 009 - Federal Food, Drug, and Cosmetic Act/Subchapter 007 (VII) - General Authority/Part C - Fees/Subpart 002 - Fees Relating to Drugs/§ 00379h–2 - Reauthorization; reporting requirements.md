@@ -58,7 +58,7 @@
 
 &emsp;The Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hiredas agreed upon in the letters described in section 1001(b) of the Prescription Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379h of this title, and the number of full-time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 1001(b) of the Prescription Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379h of this title, and the number of full-time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
 &emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of human drug applications, including identifying—
 
@@ -112,11 +112,11 @@ For each fiscal year for which fees are collected under this subpart, the Secret
 
 #### (2) Participation in congressional hearing
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Food andDrug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (e) Public availability
 
-The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+The Secretary shall make the reports required under subsections (a) and (b) available to thepublic on the Internet Web site of the Food and Drug Administration.
 
 #### (f) Reauthorization
 

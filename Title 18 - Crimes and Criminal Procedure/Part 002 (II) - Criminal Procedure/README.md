@@ -1,4 +1,4 @@
-### <b>PART II—CRIMINAL PROCEDURE</b>
+## PART II—CRIMINAL PROCEDURE
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |

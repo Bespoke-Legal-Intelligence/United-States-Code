@@ -22,7 +22,7 @@ For purposes of this chapter, the term "qualified alien" means an alien who, at 
 
 &emsp;(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980), or
 
-&emsp;(8) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of this title, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title (relating to the Medicaid program).
+&emsp;(8) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of this title.
 
 #### (c) Treatment of certain battered aliens as qualified aliens
 
@@ -62,7 +62,7 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms "battery" and "extreme cruelty", and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, §211(a), Dec. 23, 2008, 122 Stat. 5063; Pub. L. 116–260, div. CC, title II, §208(c), Dec. 27, 2020, 134 Stat. 2985.)
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, §211(a), Dec. 23, 2008, 122 Stat. 5063; Pub. L. 116–260, div. CC, title II, §208(c), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, §209(f)(3), Mar. 9, 2024, 138 Stat. 445.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ This chapter, referred to in text, was in the original "this title" meaning titl
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III,§307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, §203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
 
@@ -81,6 +81,8 @@ Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in s
 Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (c)(1)(B)(iii), is section 309 of title III of div. C of Pub. L. 104–208, which is set out as a note under section 1101 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(8). Pub. L. 118–42 struck out ", but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title (relating to the Medicaid program)" before period at end.
 
 <b>2020</b>—Subsec. (b)(8). Pub. L. 116–260 added par. (8).
 

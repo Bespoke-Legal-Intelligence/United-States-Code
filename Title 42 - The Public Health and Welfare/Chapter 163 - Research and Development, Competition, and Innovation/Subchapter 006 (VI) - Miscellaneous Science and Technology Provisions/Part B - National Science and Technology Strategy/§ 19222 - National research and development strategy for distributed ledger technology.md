@@ -164,7 +164,7 @@ In this section:
 
 &emsp;Subject to the availability of appropriations, the Director of the National Science Foundation shall make awards, on a competitive basis, to institutions of higher education, including minority-serving institutions, or nonprofit organizations (or consortia of such institutions or organizations) to support research, including interdisciplinary research, on distributed ledger technologies, their applications, and other issues that impact or are caused by distributed ledger technologies, which may include research on—
 
-&emsp;&emsp;(A) the implications on trust, transparency, privacy, accessibility, accountability, and energy consumption of different consensus mechanisms and hardware choices, and approaches for addressing these implications;
+&emsp;&emsp;(A) the implications on trust, transparency, privacy, accessibility, accountability, and energy consumption of different consensus mechanisms and hardwarechoices, and approaches for addressing these implications;
 
 &emsp;&emsp;(B) approaches for improving the security, privacy, resiliency, interoperability, performance, and scalability of distributed ledger technologies and their applications, which may include decentralized networks;
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (3) Consideration of national distributed ledger technology research and development strategy
 
-&emsp;In making awards under paragraph (1), the Director of the National Science Foundationshall take into account the national strategy, as described in subsection (b)(4).
+&emsp;In making awards under paragraph (1), the Director of the National Science Foundation shall take into account the national strategy, as described in subsection (b)(4).
 
 #### (4) Fundamental research
 

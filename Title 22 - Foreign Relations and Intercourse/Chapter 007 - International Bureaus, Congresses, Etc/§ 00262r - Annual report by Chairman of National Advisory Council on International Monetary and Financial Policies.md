@@ -74,7 +74,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 &emsp;The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
 
-(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L.105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L. 105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
 
 #### <b>Editorial Notes</b>
 
@@ -100,7 +100,7 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services ofHouse of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Contents of Reports; Applicability of Statutory Requirements
 
@@ -212,7 +212,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 "(h)
 
-Termination.—The Commission shall terminate 6 months after the first meeting of the Commission, which shall be not later than 30 days after the appointment of all members of the Commission.
+Termination.—The Commission shall terminate 6 months after the first meeting of the Commission,which shall be not later than 30 days after the appointment of all members of the Commission.
 
 "(i)
 

@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Sept. 19, 1951, ch. 407, §302, 65 Stat. 329; Apr. 1, 1954, ch. 127, §7, 68 Stat. 48.
 
-In subsection (b), the words "holding appointments or enlisted in the Regular Air Force as now or hereafterprovided by law", "and such other persons as are now or may hereafter be specified by law", and "commissioned \* \* \* warrant officers" are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
+In subsection (b), the words "holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law", "and such other persons as are now or may hereafter be specified by law", and "commissioned \* \* \* warrant officers" are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
 
 #### <b>Editorial Notes</b>
 

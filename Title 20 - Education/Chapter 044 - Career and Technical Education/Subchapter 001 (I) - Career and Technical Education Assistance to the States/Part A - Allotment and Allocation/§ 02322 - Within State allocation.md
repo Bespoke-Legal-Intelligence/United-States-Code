@@ -64,7 +64,7 @@ From amounts made available under subsection (a)(1) to carry out this subsection
 
 A prior section 2322, Pub. L. 88–210, title I, §112, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3086, related to allocations within States, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2322, Pub. L. 88–210, title I, §112, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2443;amended Pub. L. 99–159, title VII, §703, Nov. 22, 1985, 99 Stat. 905; Pub. L. 101–392, title I, §112, Sept. 25, 1990, 104 Stat. 765; Pub. L. 102–367, title VI, §601(b)(1), Sept. 7, 1992, 106 Stat. 1102, related to State councils on vocational education, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2322, Pub. L. 88–210, title I, §112, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2443; amended Pub. L. 99–159, title VII, §703, Nov. 22, 1985, 99 Stat. 905; Pub. L. 101–392, title I, §112, Sept. 25, 1990, 104 Stat. 765; Pub. L. 102–367, title VI, §601(b)(1), Sept. 7, 1992, 106 Stat. 1102, related to State councils on vocational education, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
 

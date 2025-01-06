@@ -66,7 +66,7 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;(B) an assurance that, in awarding grants or entering into contracts to carry out its R.E.A.Ch. initiative, the State will give priority to organizations that—
 
-&emsp;&emsp;&emsp;(i) are described in section 9902(1) of this title, except where significant geographic portions of the State are not served by such entities;
+&emsp;&emsp;&emsp;(i) are described in section 9902(1) of this title, except where significant geographicportions of the State are not served by such entities;
 
 &emsp;&emsp;&emsp;(ii) the Secretary has determined have a record of successfully providing services under the Low-Income Home Energy Assistance Program; and
 

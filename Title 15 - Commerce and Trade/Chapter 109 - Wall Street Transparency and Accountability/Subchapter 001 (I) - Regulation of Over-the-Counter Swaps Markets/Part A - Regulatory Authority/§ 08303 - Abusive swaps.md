@@ -8,7 +8,7 @@ The Commodity Futures Trading Commission or the Securities and Exchange Commissi
 
 &emsp;&emsp;(B) security-based swap (as defined in section 1a of title 7); and
 
-&emsp;(2) issue a report with respect to any types of swaps or security-based swaps that theCommodity Futures Trading Commission or the Securities and Exchange Commission determines to be detrimental to—
+&emsp;(2) issue a report with respect to any types of swaps or security-based swaps that the Commodity Futures Trading Commission or the Securities and Exchange Commission determines to be detrimental to—
 
 &emsp;&emsp;(A) the stability of a financial market; or
 

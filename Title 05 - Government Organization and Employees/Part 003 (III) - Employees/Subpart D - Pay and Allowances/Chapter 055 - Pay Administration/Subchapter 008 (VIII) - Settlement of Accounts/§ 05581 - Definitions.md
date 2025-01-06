@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(E) amounts due as refund of pay deductions for United States savings bonds;
 
-&emsp;&emsp;(F) payment for accumulated and current accrued annual or vacation leave equal to the pay the deceased employee would have received had he lived and remained in the service until the end of the period of annual or vacation leave;
+&emsp;&emsp;(F) payment for accumulated and current accrued annual or vacation leave equal tothe pay the deceased employee would have received had he lived and remained in the service until the end of the period of annual or vacation leave;
 
 &emsp;&emsp;(G) amounts of checks drawn for pay and allowances which were not delivered by the Government to the employee during his lifetime;
 

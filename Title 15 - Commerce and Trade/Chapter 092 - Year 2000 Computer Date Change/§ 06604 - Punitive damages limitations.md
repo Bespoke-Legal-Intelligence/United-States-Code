@@ -38,7 +38,7 @@ Punitive damages in a Y2K action may not be awarded against a government entity.
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), punitive damages in a Y2K action may not be awarded against an instituion <sup>1</sup> of higher education as defined in section 1001(a) of title 20.
+&emsp;Subject to paragraph (2), punitive damages in a Y2K action may not be awarded againstan instituion <sup>1</sup> of higher education as defined in section 1001(a) of title 20.
 
 #### (2) Exception
 

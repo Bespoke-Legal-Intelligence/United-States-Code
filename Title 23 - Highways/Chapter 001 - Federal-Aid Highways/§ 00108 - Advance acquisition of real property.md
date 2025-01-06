@@ -32,7 +32,7 @@ Eligibility for reimbursement.—Subject to paragraph (3), funds apportioned to 
 
 &emsp;(3)
 
-Terms and conditions.—The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation block grant program funds, if the State demonstrates to the Secretary and the Secretary finds that—
+Terms and conditions.—The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursementout of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation block grant program funds, if the State demonstrates to the Secretary and the Secretary finds that—
 
 &emsp;&emsp;(A) any land acquired, and relocation assistance provided, complied with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970;
 
@@ -124,7 +124,7 @@ Development.—Real property interests acquired under this subsection may not be
 
 &emsp;(7)
 
-Reimbursement.—If Federal-aid reimbursement is made for real property interests acquired early under this section and the real property interests are not subsequently incorporated into a project eligible for surface transportation funds within the time allowed by subsection (a)(2), the Secretary shall offset the amount reimbursed against funds apportioned to the State.
+Reimbursement.—If Federal-aid reimbursement is made for real property interests acquired early under this section and the realproperty interests are not subsequently incorporated into a project eligible for surface transportation funds within the time allowed by subsection (a)(2), the Secretary shall offset the amount reimbursed against funds apportioned to the State.
 
 &emsp;(8)
 

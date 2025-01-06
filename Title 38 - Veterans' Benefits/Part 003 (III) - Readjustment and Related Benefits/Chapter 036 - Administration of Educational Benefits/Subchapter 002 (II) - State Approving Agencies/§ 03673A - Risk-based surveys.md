@@ -32,13 +32,15 @@ Database.—The Secretary, in partnership with the State approving agencies unde
 
 (d)
 
-Notice.—To the maximum amount feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than one business day of notice to an educational institution before conducting a targeted risk-based survey of the institution under this section.
+Notice.—To the maximum amount feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than two business days of notice to an educational institution before conducting a targeted risk-based survey of the institution under this section.
 
-(Added Pub. L. 116–315, title I, §1013(a)(1), Jan. 5, 2021, 134 Stat. 4942; amended Pub. L. 117–16, §7(a)(3), (b)(1), June 8, 2021, 135 Stat. 285; Pub. L. 117–333, §12(a), Jan. 5, 2023, 136 Stat. 6134.)
+(Added Pub. L. 116–315, title I, §1013(a)(1), Jan. 5, 2021, 134 Stat. 4942; amended Pub. L. 117–16, §7(a)(3), (b)(1), June 8, 2021, 135 Stat. 285; Pub. L. 117–333, §12(a), Jan. 5, 2023, 136 Stat. 6134; Pub. L. 118–210, title II, §204, Jan. 2, 2025, 138 Stat. 2763.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (d). Pub. L. 118–210 substituted "two business days" for "one business day".
 
 <b>2023</b>—Subsec. (d). Pub. L. 117–333 added subsec. (d).
 
@@ -47,4 +49,10 @@ Notice.—To the maximum amount feasible, the Secretary, or a State approving ag
 Subsec. (a). Pub. L. 117–16, §7(a)(3)(A), struck out "searchable" before "risk-based survey".
 
 Subsec. (c). Pub. L. 117–16, §7(a)(3)(B), inserted "searchable" before "database".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Deadline for Risk-Based Surveys Database
+
+Pub. L. 118–210, title II, §206(d), Jan. 2, 2025, 138 Stat. 2764, provided that: "The Secretary of Veterans Affairs shall establish the database required under section 3673A(c) of title 38, United States Code, by not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2025\]."
 

@@ -108,7 +108,7 @@ In selecting applicants for grants under the Program, the Secretary shall give p
 
 &emsp;(2) would be carried out in a location with limited access to natural gas pipelines;
 
-&emsp;(3) would include the use or retrofitting (or both) of existing sawmill facilities located in a location where the average annual unemployment rate exceeded the national average unemployment rate by more than 1 percent during the previous calendar year; or
+&emsp;(3) would include the use or retrofitting (or both) of existing sawmill facilities located in alocation where the average annual unemployment rate exceeded the national average unemployment rate by more than 1 percent during the previous calendar year; or
 
 &emsp;(4) would be carried out in a location where the project will aid with forest restoration.
 
@@ -120,7 +120,7 @@ In selecting applicants for grants under the Program, the Secretary shall give p
 
 #### (2) Funding for innovative wood product facilities
 
-&emsp;Not more than 25 percent of funds provided as grants under the Program for a fiscal yearmay go to applicants proposing innovative wood product facilities, unless the Secretary has received an insufficient number of qualified proposals for community wood energy systems.
+&emsp;Not more than 25 percent of funds provided as grants under the Program for a fiscal year may go to applicants proposing innovative wood product facilities, unless the Secretary has received an insufficient number of qualified proposals for community wood energy systems.
 
 #### (h) Funding
 

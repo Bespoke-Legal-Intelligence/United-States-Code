@@ -18,7 +18,7 @@ If the Secretary determines that an entity which received a grant, contract, loa
 
 (2) If the Secretary makes, with respect to an entity which has received a grant, contract, loan, or loan guarantee under this subchapter, a determination described in subsection (a), the Secretary may, in addition to any other remedies available to him, bring a civil action in the United States district court for the district in which such entity is located to enforce its compliance with the assurances it furnished respecting the provision of basic and supplemental health services or its organization or operation, as the case may be, which assurances were made in connection with its application under this subchapter for the grant, contract, loan, or loan guarantee.
 
-(July 1, 1944, ch. 373, title XIII, §1312, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 931;amended Pub. L. 94–460, title I, §111, Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–559, §12(a)(2), Nov. 1, 1978, 92 Stat. 2140; Pub. L. 97–35, title IX, §949(a), Aug. 13, 1981, 95 Stat. 578.)
+(July 1, 1944, ch. 373, title XIII, §1312, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 931; amended Pub. L. 94–460, title I, §111, Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–559, §12(a)(2), Nov. 1, 1978, 92 Stat. 2140; Pub. L. 97–35, title IX, §949(a), Aug. 13, 1981, 95 Stat. 578.)
 
 #### <b>Editorial Notes</b>
 

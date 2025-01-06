@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) to continue to serve as a full-time employee in the Veterans Health Administration for one year (hereinafter in this subchapter referred to as the "period of obligated service") after completion of the course for which the participant received tuition reimbursement.
 
-(d) Tuition reimbursement provided to a participant in the Tuition Reimbursement Program may not exceed $2,000 per year (adjusted in accordance with section 7631 of this title).
+(d) Tuition reimbursement provided to a participant in the Tuition Reimbursement Programmay not exceed $2,000 per year (adjusted in accordance with section 7631 of this title).
 
 (e) The Secretary may arrange with an educational institution pursuant to which such an institution would provide a course or courses at a Department health-care facility to participants in the Tuition Reimbursement Program. Under such an arrangement, the Secretary may agree to pay to the institution an amount not in excess of an amount determined by multiplying the number of participants in such a course by the amount of tuition reimbursement each participant would receive for enrolling and successfully completing such course.
 

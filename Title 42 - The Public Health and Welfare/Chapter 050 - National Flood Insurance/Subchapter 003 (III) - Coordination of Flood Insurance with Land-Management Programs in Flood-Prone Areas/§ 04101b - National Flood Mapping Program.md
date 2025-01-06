@@ -126,7 +126,7 @@ In updating and maintaining maps under this section, the Administrator shall—
 
 &emsp;&emsp;(C) educating property owners regarding the benefits and costs of maintaining or acquiring flood insurance, including, where applicable, lower-cost preferred risk policies under the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.) for such properties and the contents of such properties;
 
-&emsp;&emsp;(D) educating property owners about flood map revisions and the process available tosuch owners to appeal proposed changes in flood elevations through their community, including by notifying local radio and television stations; and
+&emsp;&emsp;(D) educating property owners about flood map revisions and the process available to such owners to appeal proposed changes in flood elevations through their community, including by notifying local radio and television stations; and
 
 &emsp;&emsp;(E) encouraging property owners to maintain or acquire flood insurance coverage.
 

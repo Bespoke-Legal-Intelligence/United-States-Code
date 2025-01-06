@@ -22,7 +22,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(i) a nonbank financial company supervised by the Board under title I; <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) an insured bank (other than an institution described in subparagraphs <sup>2</sup> (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)) <sup>3</sup> or a savings association;
+&emsp;&emsp;&emsp;(ii) an insured bank (other than an institution described in subparagraphs <sup>2</sup> (D),\(F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)) <sup>3</sup> or a savings association;
 
 &emsp;&emsp;&emsp;(iii) an affiliate of an insured bank (other than an institution described in subparagraphs <sup>2</sup> (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)) <sup>3</sup> or an affiliate of a savings association;
 
@@ -78,7 +78,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) an assessment of the consolidated capital and liquidity of the supervised securities holding company;
 
-&emsp;&emsp;&emsp;&emsp;(III) a report by an independent auditor attesting to the compliance of thesupervised securities holding company with the internal risk management and internal control objectives of the supervised securities holding company; and
+&emsp;&emsp;&emsp;&emsp;(III) a report by an independent auditor attesting to the compliance of the supervised securities holding company with the internal risk management and internal control objectives of the supervised securities holding company; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) a report concerning the extent to which the supervised securities holding company or affiliate has complied with the provisions of this section and any regulations prescribed and orders issued under this section.
 

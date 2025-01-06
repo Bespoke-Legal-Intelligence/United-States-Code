@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 <b>1995</b>—Subsecs. (b), (c). Pub. L. 104–66 redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Comptroller General of the United States shall inspect each such audit and submit a report of that inspection to the Congress."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–246 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Funds may not be made available to the United Nations High Commissioner for Refugees under this chapter or any other Act unless by June 1, 1986, the High Commissioner provides for—
+<b>1990</b>—Subsec. (a). Pub. L. 101–246 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Funds may not be made available to the United Nations High Commissioner for Refugees under thischapter or any other Act unless by June 1, 1986, the High Commissioner provides for—
 
 &emsp;"(1) annual program audits by an independent consultant, as selected by the Executive Committee of the United Nations High Commissioner for Refugees, to determine the use of such funds, including audits of the use of such funds by private and voluntary organizations; and
 

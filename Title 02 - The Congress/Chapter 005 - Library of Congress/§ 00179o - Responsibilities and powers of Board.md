@@ -12,7 +12,7 @@ The Board shall consider, for inclusion in the National Film Registry, nominatio
 
 #### (1) In general
 
-&emsp;The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
+&emsp;The Board may, for the purpose of carrying out its duties, hold such hearings, sit and actat such times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
 
 #### (2) Service on Foundation
 

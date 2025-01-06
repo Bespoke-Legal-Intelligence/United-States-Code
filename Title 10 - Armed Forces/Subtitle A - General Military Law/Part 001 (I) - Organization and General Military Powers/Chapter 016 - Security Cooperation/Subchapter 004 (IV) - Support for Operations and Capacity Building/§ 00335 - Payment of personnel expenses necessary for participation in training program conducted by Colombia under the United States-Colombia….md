@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may pay the expendable training supplies, travel, subsistence, and similar personnel expenses of, and special compensation for, the following thatthe Secretary considers necessary for participation in the training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security:
+Authority.—The Secretary of Defense may pay the expendable training supplies, travel, subsistence, and similar personnel expenses of, and special compensation for, the following that the Secretary considers necessary for participation in the training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security:
 
 &emsp;(1) Defense personnel of friendly foreign governments.
 

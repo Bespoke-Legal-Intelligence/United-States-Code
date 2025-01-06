@@ -30,15 +30,25 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;(12) coordinating and integrating all research, development, demonstration, testing, and evaluation activities of the Department;
 
-&emsp;(13) coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs; and
+&emsp;(13) coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs;
 
-&emsp;(14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.
+&emsp;(14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department; and
 
-(Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163; Pub. L. 109–347, title V, §501(b)(2), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(1)(C), Aug. 3, 2007, 121 Stat. 334; Pub. L. 115–278, §2(g)(3)(A), Nov. 16, 2018, 132 Stat. 4178.)
+&emsp;(15) carrying out, in coordination with the Drug Enforcement Administration, research, development, testing, evaluation, and cost-benefit analyses to improve the safety, effectiveness, and efficiency of equipment and the effectiveness and efficiency of reference libraries for use by Federal, State, local, Tribal, and territorial law enforcement agencies for the accurate detection of drugs, such as fentanyl and xylazine, including—
+
+&emsp;&emsp;(A) portable equipment that can detect and identify drugs with minimal or no handling of the sample;
+
+&emsp;&emsp;(B) equipment that can separate complex mixtures containing low concentrations of drugs and high concentrations of cutting agents into their component parts to enable signature extraction for field identification and detection; and
+
+&emsp;&emsp;(C) technologies that use machine learning or artificial intelligence (as defined in section 9401 of title 15) and other techniques to predict whether the substances in a sample are controlled substance analogues or other new psychoactive substances not yet included in available reference libraries.
+
+(Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163; Pub. L. 109–347, title V, §501(b)(2), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(1)(C), Aug. 3, 2007, 121 Stat. 334; Pub. L. 115–278, §2(g)(3)(A), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 118–186, §2, Dec. 23, 2024, 138 Stat. 2636.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Par. (15). Pub. L. 118–186 added par. (15).
 
 <b>2018</b>—Par. (2). Pub. L. 115–278, §2(g)(3)(A)(i), substituted "biological," for "biological,,".
 
@@ -49,4 +59,24 @@ Par. (5)(A). Pub. L. 115–278, §2(g)(3)(A)(i), substituted "biological," for "
 <b>2007</b>—Par. (3). Pub. L. 110–53 substituted "Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection" for "Under Secretary for Information Analysis and Infrastructure Protection".
 
 <b>2006</b>—Pars. (2), (5)(A). Pub. L. 109–347 struck out "radiological, nuclear" after "biological,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rule of Construction
+
+Pub. L. 118–186, §4, Dec. 23, 2024, 138 Stat. 2637, provided that: "Nothing in this Act \[amending this section and enacting provisions set out as a note below\] may be construed to limit the authority of agencies currently managing, overseeing, or otherwise involved in drug equipment and reference libraries."
+
+#### Requirements
+
+Pub. L. 118–186, §3, Dec. 23, 2024, 138 Stat. 2637, provided that: "In carrying out section 302(15) of the Homeland Security Act of 2002 \[6 U.S.C. 182(15)\], as added by section 2, the Under Secretary for Science and Technology shall—
+
+&emsp;"(1) follow the recommendations, guidelines, and best practices described in the Artificial Intelligence Risk Management Framework (NIST AI 100–1) or any successor document published by the National Institute of Standards and Technology; and
+
+&emsp;"(2) establish the Directorate of Science and Technology's research, development, testing, evaluation, and cost-benefit analysis priorities under such section 302(15) based on the latest available information, including specific drugs identified as threats in—
+
+&emsp;&emsp;"(A) the latest Homeland Threat Assessment published by the Department of Homeland Security;
+
+&emsp;&emsp;"(B) the latest State and Territory Report on Enduring and Emerging Threats published by the Drug Enforcement Administration; or
+
+&emsp;&emsp;"(C) any successor documents."
 

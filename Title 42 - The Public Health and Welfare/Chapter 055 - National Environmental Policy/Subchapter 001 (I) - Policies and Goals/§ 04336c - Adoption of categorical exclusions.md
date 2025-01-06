@@ -4,7 +4,7 @@ An agency may adopt a categorical exclusion listed in another agency's NEPA proc
 
 &emsp;(1) identify the categorical exclusion listed in another agency's NEPA procedures that covers a category of proposed actions or related actions;
 
-&emsp;(2) consult with the agency that established the categorical exclusion to ensure that theproposed adoption of the categorical exclusion to a category of actions is appropriate;
+&emsp;(2) consult with the agency that established the categorical exclusion to ensure that the proposed adoption of the categorical exclusion to a category of actions is appropriate;
 
 &emsp;(3) identify to the public the categorical exclusion that the agency plans to use for its proposed actions; and
 

@@ -12,7 +12,7 @@ Requirements.—The program shall ensure that—
 
 &emsp;(2) historic property under the jurisdiction or control of the agency is managed and maintained in a way that considers the preservation of their historic, archeological, architectural, and cultural values in compliance with section 306108 of this title and gives special consideration to the preservation of those values in the case of property designated as having national significance;
 
-&emsp;(3) the preservation of property not under the jurisdiction or control of the agency but potentially affected by agency actions is given full consideration in planning;
+&emsp;(3) the preservation of property not under the jurisdiction or control of the agency butpotentially affected by agency actions is given full consideration in planning;
 
 &emsp;(4) the agency's preservation-related activities are carried out in consultation with other Federal, State, and local agencies, Indian tribes, Native Hawaiian organizations carrying out historic preservation planning activities, and the private sector; and
 

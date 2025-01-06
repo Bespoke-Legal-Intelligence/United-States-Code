@@ -35,7 +35,7 @@
 
 &emsp;(2) Those serving in a joint duty assignment for purposes of chapter 38 of this title, except that the number of officers who may be excluded under this paragraph may not exceed the number equal to 20 percent of the number of officers authorized for the Marine Corps in subsection (a).
 
-(e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of general officers authorized under subsection (a).
+(e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade becauseof a reduction in the number of general officers authorized under subsection (a).
 
 (2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 

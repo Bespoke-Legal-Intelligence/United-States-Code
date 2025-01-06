@@ -6,7 +6,7 @@ Compliance Regulations.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), not later than 180 days after the date of enactment of this section, a part 135 certificate holder providing air ambulance services shall comply, whenever medical personnel are onboard the aircraft, with regulations pertaining to weather minimums and flight and duty time under part 135.
+In general.—Except as provided in paragraph (2), a part 135 certificate holder providing air ambulance services shall comply, whenever medical personnel are onboard the aircraft, with regulations pertaining to weather minimums and flight and duty time under part 135.
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ Final Rule.—Not later than June 1, 2012, the Administrator shall issue a final
 
 (c)
 
-Matters To Be Addressed.—In conducting the rulemaking proceeding under subsection (b), the Administrator shall address the following:
+Matters To Be Addressed.—In conducting the rulemaking proceeding under subsection (b), the Administrator shall consider, or address through other means, the following:
 
 &emsp;(1) Flight request and dispatch procedures, including performance-based flight dispatch procedures.
 
@@ -40,7 +40,7 @@ Matters To Be Addressed.—In conducting the rulemaking proceeding under subsect
 
 (d)
 
-Minimum Requirements.—In issuing a final rule under subsection (b), the Administrator, at a minimum, shall provide for the following:
+Minimum Requirements.—In issuing a final rule under subsection (b), the Administrator, at a minimum, shall consider, or address through other means, the following:
 
 &emsp;(1)
 
@@ -58,11 +58,11 @@ Operational control center.—The Administrator shall ensure that a part 135 cer
 
 (e)
 
-Subsequent Rulemaking.—
+Subsequent Actions.—
 
 &emsp;(1)
 
-In general.—Upon completion of the rulemaking required under subsection (b), the Administrator shall conduct a follow-on rulemaking to address the following:
+In general.—Upon completion of the rulemaking required under subsection (b), the Administrator shall address through a follow-on rulemaking, or through such other means that the Administrator considers appropriate, the following:
 
 &emsp;&emsp;(A) Pilot training standards, including—
 
@@ -80,13 +80,9 @@ In general.—Upon completion of the rulemaking required under subsection (b), t
 
 &emsp;&emsp;&emsp;&emsp;(IV) use of flight simulation training devices and line-oriented flight training.
 
-&emsp;&emsp;(B) Use of safety equipment that should be worn or used by flight crewmembers andmedical personnel on a flight, including the possible use of shoulder harnesses, helmets, seatbelts, and fire resistant clothing to enhance crash survivability.
+&emsp;&emsp;(B) Use of safety equipment that should be worn or used by flight crewmembers and medical personnel on a flight, including the possible use of shoulder harnesses, helmets, seatbelts, and fire resistant clothing to enhance crash survivability.
 
 &emsp;(2)
-
-Deadlines.—Not later than 180 days after the date of issuance of a final rule under subsection (b), the Administrator shall initiate the rulemaking under this subsection.
-
-&emsp;(3)
 
 Limitation on construction.—Nothing in this subsection shall be construed to require the Administrator to propose or finalize any rule that would derogate or supersede the rule required to be finalized under subsection (b).
 
@@ -102,11 +98,21 @@ Part 135.—The term "part 135" means part 135 of title 14, Code of Federal Regu
 
 Part 135 certificate holder.—The term "part 135 certificate holder" means a person holding an operating certificate issued under part 119 of title 14, Code of Federal Regulations, that is authorized to conduct civil helicopter air ambulance operations under part 135.
 
-(Added Pub. L. 112–95, title III, §306(a), Feb. 14, 2012, 126 Stat. 58.)
+(Added Pub. L. 112–95, title III, §306(a), Feb. 14, 2012, 126 Stat. 58; amended Pub. L. 118–63, title III, §301(a), May 16, 2024, 138 Stat. 1066.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The date of enactment of this section, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–63, §301(a)(1), struck out "not later than 180 days after the date of enactment of this section," after "paragraph (2),".
+
+Subsec. (c). Pub. L. 118–63, §301(a)(2), substituted "consider, or address through other means, the following" for "address the following" in introductory provisions.
+
+Subsec. (d). Pub. L. 118–63, §301(a)(3), substituted "consider, or address through other means, the following" for "provide for the following" in introductory provisions.
+
+Subsec. (e). Pub. L. 118–63, §301(a)(4)(A), substituted "Subsequent Actions" for "Subsequent Rulemaking" in heading.
+
+Subsec. (e)(1). Pub. L. 118–63, §301(a)(4)(B), substituted "shall address through a follow-on rulemaking, or through such other means that the Administrator considers appropriate, the following:" for "shall conduct a follow-on rulemaking to address the following:" in introductory provisions.
+
+Subsec. (e)(2), (3). Pub. L. 118–63, §301(a)(4)(C), (D), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than 180 days after the date of issuance of a final rule under subsection (b), the Administrator shall initiate the rulemaking under this subsection."
 

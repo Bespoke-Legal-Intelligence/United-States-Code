@@ -6,7 +6,7 @@ Within 120 days of July 29, 1975, the Secretary shall appoint and organize a Nat
 
 #### (b) Membership
 
-The Council shall consist of fifteen members, at least twelve of whom shall be members of the governing boards of migrant health centers or other entities assisted under section 254b <sup>1</sup> of this title. Of such twelve members who are members of such governing boards, at least nine shall be chosen from among those members of such governing boards who are being served by such centers or grantees and who are familiar with the delivery of health care to migratory agricultural workers and seasonal agricultural workers. The remaining three Council members shall be individuals qualified by training and experience in the medical sciences or in the administration of health programs.
+The Council shall consist of fifteen members, at least twelve of whom shall be members of the governing boards of migrant health centers or other entities assisted under section 254b <sup>1</sup> ofthis title. Of such twelve members who are members of such governing boards, at least nine shall be chosen from among those members of such governing boards who are being served by such centers or grantees and who are familiar with the delivery of health care to migratory agricultural workers and seasonal agricultural workers. The remaining three Council members shall be individuals qualified by training and experience in the medical sciences or in the administration of health programs.
 
 #### (c) Terms of office
 
@@ -130,7 +130,7 @@ Pub. L. 93–348, title II, §211(b), July 12, 1974, 88 Stat. 352, as amended by
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–423, §9, Sept. 19, 1972, 86 Stat. 687, provided that: "This Act and the amendments made by this Act\[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactment of this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register."
+Pub. L. 92–423, §9, Sept. 19, 1972, 86 Stat. 687, provided that: "This Act and the amendments made by this Act \[see Short Title of 1972 Amendment note under section 201 of this title\] shall take effect sixty days after the date of enactment of this Act \[Sept. 19, 1972\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register."
 
 #### Effective Date of 1971 Amendment
 

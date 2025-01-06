@@ -4,7 +4,7 @@
 
 Policy Required.—(1) Not later than September 30, 2012, the Secretary shall develop and implement a centralized and comprehensive policy on the reporting and tracking of sexual assault incidents and other safety incidents that occur at each medical facility of the Department, including—
 
-&emsp;(A) suspected, alleged, attempted, or confirmed cases of sexual assault, regardless of whether such assaults lead to prosecution or conviction;
+&emsp;(A) suspected, alleged, attempted, or confirmed cases of sexual assault, regardless ofwhether such assaults lead to prosecution or conviction;
 
 &emsp;(B) criminal and purposefully unsafe acts;
 

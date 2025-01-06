@@ -118,7 +118,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (A) In general
 
-&emsp;&emsp;If a taxpayer makes an election under this paragraph, this section shall not apply to any plant produced in any farming business carried on by such taxpayer.
+&emsp;&emsp;If a taxpayer makes an election under this paragraph, this section shall not apply toany plant produced in any farming business carried on by such taxpayer.
 
 #### (B) Certain persons not eligible
 
@@ -362,7 +362,7 @@ For purposes of this section—
 
 #### (3) Coordination with section 481
 
-&emsp;Any change in method of accounting made pursuant to this subsection shall be treatedfor purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+&emsp;Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
 
 #### (j) Regulations
 
@@ -404,7 +404,7 @@ Subsecs. (i), (j). Pub. L. 115–97, §13102(b)(1), added subsec. (i) and redesi
 
 <b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–170 substituted "1221(a)(1)" for "1221(1)".
 
-<b>1989</b>—Subsec. (h)(3)(D). Pub. L. 101–239 substituted "corporations" for "personal service corporations" in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (h)(3)(D). Pub. L. 101–239 substituted "corporations" for "personal service corporations" inheading and amended text generally. Prior to amendment, text read as follows:
 
 "(i)
 
@@ -450,7 +450,7 @@ Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesigna
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendment made by this subsection \[amending this section\] shallapply to interest costs paid or accrued after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendment made by this subsection \[amending this section\] shall apply to interest costs paid or accrued after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 
@@ -498,7 +498,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1008(b)(1)–(4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1008(b)(1)–(4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6026(d), Nov. 10, 1988, 102 Stat. 3693, as amended by Pub. L. 101–239, title VII, §7816(d)(2), Dec. 19, 1989, 103 Stat. 2421, provided that:
 
@@ -556,7 +556,7 @@ Transitional rule for capitalization of interest and taxes.—
 
 &emsp;"(A)
 
-Transition property exempted from interest capitalization.—Section 263A of the InternalRevenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
+Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
 
 &emsp;&emsp;"(i) to which the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) \[set out as a note under section 168 of this title\], and
 

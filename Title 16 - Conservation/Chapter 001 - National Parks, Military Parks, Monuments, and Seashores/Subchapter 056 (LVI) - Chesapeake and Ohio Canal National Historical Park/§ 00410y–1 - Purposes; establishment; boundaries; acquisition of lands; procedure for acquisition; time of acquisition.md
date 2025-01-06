@@ -10,7 +10,7 @@
 
 > The exact boundaries of the park shall be established, published, and otherwise publicized within eighteen months after January 8, 1971, and the owners of property other than property lying between the canal and the Potomac River shall be notified within said period as to the extent of their property included in the park.
 
-(b) Within the boundaries of the park, the Secretary is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, or exchange, but he shall refrain from acquiring, for two years from January 8, 1971, any lands designated on the boundary map for acquisition by any State if he hasnegotiated and consummated a written cooperative agreement with such State pursuant to subsection (a) of this section.
+(b) Within the boundaries of the park, the Secretary is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, or exchange, but he shall refrain from acquiring, for two years from January 8, 1971, any lands designated on the boundary map for acquisition by any State if he has negotiated and consummated a written cooperative agreement with such State pursuant to subsection (a) of this section.
 
 (Pub. L. 91–664, §3, Jan. 8, 1971, 84 Stat. 1978; Pub. L. 103–437, §6(g), Nov. 2, 1994, 108 Stat. 4585.)
 

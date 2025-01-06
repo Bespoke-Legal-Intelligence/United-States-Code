@@ -46,7 +46,7 @@
 
 #### (5) Exclusive means of review
 
-&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e). For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms "judicial review" and "jurisdiction to review" include habeas corpus review pursuant to section 2241 of title 28, or any other habeas corpus provision, sections 1361 and 1651 of such title, and reviewpursuant to any other provision of law (statutory or nonstatutory).
+&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e). For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms "judicial review" and "jurisdiction to review" include habeas corpus review pursuant to section 2241 of title 28, or any other habeas corpus provision, sections 1361 and 1651 of such title, and review pursuant to any other provision of law (statutory or nonstatutory).
 
 #### (b) Requirements for review of orders of removal
 
@@ -96,7 +96,7 @@ With respect to review of an order of removal under subsection (a)(1), the follo
 
 #### (B) Transfer if issue of fact
 
-&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appeals finds that a genuine issue of material fact about the petitioner's nationality is presented, the court shall transfer the proceeding to the district court of the United States for the judicial district in which the petitioner resides for a new hearing on the nationality claim and a decision on that claim as if an action had been brought in the district court under section 2201 of title 28.
+&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appealsfinds that a genuine issue of material fact about the petitioner's nationality is presented, the court shall transfer the proceeding to the district court of the United States for the judicial district in which the petitioner resides for a new hearing on the nationality claim and a decision on that claim as if an action had been brought in the district court under section 2201 of title 28.
 
 #### (C) Limitation on determination
 
@@ -200,7 +200,7 @@ A court may review a final order of removal only if—
 
 #### (D) Expeditious consideration of cases
 
-&emsp;&emsp;It shall be the duty of the District Court, the Court of Appeals, and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possibleextent the disposition of any case considered under this paragraph.
+&emsp;&emsp;It shall be the duty of the District Court, the Court of Appeals, and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any case considered under this paragraph.
 
 #### (4) Decision
 
@@ -228,7 +228,7 @@ A court may review a final order of removal only if—
 
 Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612,3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### <b>Editorial Notes</b>
 
@@ -326,7 +326,7 @@ Subsec. (e). Pub. L. 100–525 struck out "or from September 23, 1950, whichever
 
 <b>1986</b>—Subsec. (i). Pub. L. 99–603 added subsec. (i).
 
-<b>1984</b>—Subsec. (h). Pub. L. 98–473, which directed that "supervised release," be inserted after "parole,", wasexecuted by inserting "supervised release," after "Parole," to reflect the probable intent of Congress.
+<b>1984</b>—Subsec. (h). Pub. L. 98–473, which directed that "supervised release," be inserted after "parole,", was executed by inserting "supervised release," after "Parole," to reflect the probable intent of Congress.
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–116, §18(h)(1)(A), substituted "(18), or (19)" for "or (18)" in provision following par. (4).
 
@@ -376,7 +376,7 @@ Amendment by section 219(h) of Pub. L. 103–416 effective as if included in the
 
 Pub. L. 103–416, title II, §224(c), Oct. 25, 1994, 108 Stat. 4324, provided that: "The amendments made by this section \[amending this section and section 1252a of this title\] shall apply to all aliens whose adjudication of guilt or guilty plea is entered in the record after the date of enactment of this Act \[Oct. 25, 1994\]."
 
-Pub. L. 103–322, title II, §20301(b), Sept. 13, 1994, 108 Stat. 1824, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1994."
+Pub. L. 103–322, title II, §20301(b), Sept. 13, 1994, 108 Stat. 1824, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect October 1, 1994."
 
 #### Effective Date of 1991 Amendment
 
@@ -412,7 +412,7 @@ Limits on discretionary relief for failure to appear in asylum hearing.—Subsec
 
 Consolidation of relief in judicial review.—The amendments made by subsection (b) \[amending section 1105a of this title\] shall apply to final orders of deportation entered on or after January 1, 1991."
 
-Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportation proceedings for which noticehas been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
+Amendment by section 603(b)(2) of Pub. L. 101–649 not applicable to deportation proceedings for which notice has been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -448,7 +448,7 @@ Pub. L. 109–13, div. B, title I, §106(d), May 11, 2005, 119 Stat. 311, provid
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Authority To Accept Certain Assistance
 

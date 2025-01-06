@@ -20,9 +20,9 @@ Based on 44 U.S. Code, 1964 ed., §5 (Jan. 12, 1895, ch. 23, §3, 28 Stat. 601; 
 
 Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, as amended by Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
-"Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct;
+"Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly usedfor more than a century in documents, books, and other publications are self-destructing and will continue to self destruct;
 
-"Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, andscholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration;
+"Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, and scholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration;
 
 "Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions;
 

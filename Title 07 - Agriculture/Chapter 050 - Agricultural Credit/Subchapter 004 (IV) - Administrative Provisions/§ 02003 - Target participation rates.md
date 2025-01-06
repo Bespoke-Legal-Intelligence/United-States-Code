@@ -12,7 +12,7 @@
 
 #### (3) Gender
 
-&emsp;With respect to gender, target participation rates shall take into consideration the numberof current and potential socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in the State.
+&emsp;With respect to gender, target participation rates shall take into consideration the number of current and potential socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in the State.
 
 #### (b) Reservation and allocation
 
@@ -66,7 +66,7 @@ For definition of "this chapter", referred to in subsecs. (c)(2), see note set o
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(2). Pub. L. 107–171 substituted "Any funds reserved and allocated under this paragraph but not used within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State." for "Any funds reserved and allocated for purposes of this paragraph, but not used shall be reallocated within such State."
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–171 substituted "Any funds reserved and allocated under this paragraph but not used within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocatedwithin the State." for "Any funds reserved and allocated for purposes of this paragraph, but not used shall be reallocated within such State."
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–127 added subsec. (f).
 
@@ -86,5 +86,5 @@ Subsec. (e). Pub. L. 101–624, §2501(f)(4), added subsec. (e).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (d) of this section is listed on page 44), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (d) of this section is listed on page 44), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

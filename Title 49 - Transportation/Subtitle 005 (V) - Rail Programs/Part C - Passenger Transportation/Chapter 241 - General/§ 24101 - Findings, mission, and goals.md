@@ -104,7 +104,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §102; added Sept. 29, 1979, Pub
 
 45:501a(14) (last sentence).
 
-In this part, the word "Amtrak" is substituted for "National Railroad Passenger Corporation", and the words "Amtrak Commuter" are substituted for "Amtrak Commuter Services Corporation", to reflect the more current and commonly used names of the entities. The words "rail transportation" are substituted for "rail service" and "rail services", the word "transportation" is substituted for "service" where appropriate, and the word "authority" is substituted for "agency", as being more appropriate and for consistency in the revised title and with other titles of the United States Code. The words "rail carrier" are substituted for "railroad" because of the definitions of "rail carrier" and "railroad" in 49:10102.
+In this part, the word "Amtrak" is substituted for "National Railroad Passenger Corporation", and the words "Amtrak Commuter" are substituted for "Amtrak Commuter Services Corporation", to reflect the more current and commonly used names of the entities. The words "rail transportation" are substituted for "rail service" and "rail services", the word "transportation" is substituted for "service" where appropriate, and the word "authority" is substituted for "agency", as being more appropriate and for consistency in the revised title and with other titles of the United StatesCode. The words "rail carrier" are substituted for "railroad" because of the definitions of "rail carrier" and "railroad" in 49:10102.
 
 In subsection (a), the words "The Congress finds that the" and "The Congress further finds that" are omitted as surplus.
 
@@ -186,7 +186,7 @@ In General.—The Amtrak Board of Directors—
 
 &emsp;"(3) shall, not later than 90 days after the end of each fiscal year through fiscal year 2013—
 
-&emsp;&emsp;"(A) submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report that allocates all of Amtrak's revenues and costs to each of its routes, each of its lines of business, and each major activity within each route and line of business activity, including—
+&emsp;&emsp;"(A) submit to the Committee on Transportation and Infrastructure of the House of Representativesand the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report that allocates all of Amtrak's revenues and costs to each of its routes, each of its lines of business, and each major activity within each route and line of business activity, including—
 
 &emsp;&emsp;&emsp;"(i) train operations;
 
@@ -294,7 +294,7 @@ Methodology Development.—Not later than 180 days after the date of enactment o
 
 Considerations.—Amtrak shall require the independent entity, in developing the methodologies described in subsection (a), to consider—
 
-&emsp;"(1) the current and expected performance and service quality of intercity rail passenger transportationoperations, including cost recovery, on-time performance, ridership, on-board services, stations, facilities, equipment, and other services;
+&emsp;"(1) the current and expected performance and service quality of intercity rail passenger transportation operations, including cost recovery, on-time performance, ridership, on-board services, stations, facilities, equipment, and other services;
 
 &emsp;"(2) the connectivity of a route with other routes;
 

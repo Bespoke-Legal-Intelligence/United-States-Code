@@ -70,5 +70,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 #### Training of General Purpose Forces of the United States Armed Forces With Military and Other Security Forces of Friendly Foreign Countries
 
-Pub. L. 113–66, div. A, title XII, §1203, Dec. 26, 2013, 127 Stat. 894, related to the training of general purposeforces of the armed forces of the United States with military and other security forces of friendly foreign countries, prior to repeal by Pub. L. 114–328, div. A, title XII, §1244(c), Dec. 23, 2016, 130 Stat. 2518.
+Pub. L. 113–66, div. A, title XII, §1203, Dec. 26, 2013, 127 Stat. 894, related to the training of general purpose forces of the armed forces of the United States with military and other security forces of friendly foreign countries, prior to repeal by Pub. L. 114–328, div. A, title XII, §1244(c), Dec. 23, 2016, 130 Stat. 2518.
 

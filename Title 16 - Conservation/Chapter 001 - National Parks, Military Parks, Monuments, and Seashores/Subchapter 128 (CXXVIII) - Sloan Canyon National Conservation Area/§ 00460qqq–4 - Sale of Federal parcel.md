@@ -24,6 +24,8 @@ Of the gross proceeds from the conveyance of land under subsection (a)—
 
 (Pub. L. 107–282, title VI, §606, Nov. 6, 2002, 116 Stat. 2012.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### References in Text

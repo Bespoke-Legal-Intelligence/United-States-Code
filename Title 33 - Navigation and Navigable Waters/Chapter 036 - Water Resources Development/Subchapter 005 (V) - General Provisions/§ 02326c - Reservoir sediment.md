@@ -12,7 +12,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(2) ensure that the non-Federal interest or commercial entity will indemnify the United States for, or has entered into an agreement approved by the Secretary to address, any adverse impact to the dam as a result of such services; and
 
-&emsp;(3) require the non-Federal interest or commercial entity, prior to initiating the services and upon completion of the services, to conduct sediment surveys to determine the pre- and post-services sediment profile and sediment quality.
+&emsp;(3) require the non-Federal interest or commercial entity, prior to initiating the servicesand upon completion of the services, to conduct sediment surveys to determine the pre- and post-services sediment profile and sediment quality.
 
 #### (c) Limitation
 
@@ -26,7 +26,7 @@ In carrying out this section, the Secretary shall—
 
 #### (d) Disposition of removed sediment
 
-In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and theCorps of Engineers may not seek any compensation for the value of the sediment.
+In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and the Corps of Engineers may not seek any compensation for the value of the sediment.
 
 #### (e) Congressional notification
 

@@ -58,5 +58,5 @@ Pub. L. 101–237, title I, §115(b), Dec. 18, 1989, 103 Stat. 2066, provided th
 
 #### Rule of Construction
 
-Amendment by Pub. L. 117–168 not to be construed to apply subsec. (a) of this section to decisions of the Board of Veterans' Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
+Amendment by Pub. L. 117–168 not to be construed to apply subsec. (a) of this section to decisions of theBoard of Veterans' Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 

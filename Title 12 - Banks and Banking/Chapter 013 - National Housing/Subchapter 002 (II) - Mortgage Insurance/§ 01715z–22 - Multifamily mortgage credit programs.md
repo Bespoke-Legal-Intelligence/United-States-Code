@@ -38,11 +38,11 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (E) Underwriting standards
 
-&emsp;&emsp;The Secretary shall allow any qualified participating entity to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection, except as provided in this section, without further review by the Secretary, except that the Secretary may impose additional underwritingcriteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss. Any financing permitted on property insured under this subsection other than the first mortgage shall be expressly subordinate to the insured mortgage.
+&emsp;&emsp;The Secretary shall allow any qualified participating entity to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection, except as provided in this section, without further review by the Secretary, except that the Secretary may impose additional underwriting criteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss. Any financing permitted on property insured under this subsection other than the first mortgage shall be expressly subordinate to the insured mortgage.
 
 #### (F) Authority of Secretary
 
-&emsp;&emsp;The Secretary, upon request of a qualified participating entity, may insure or reinsure and make commitments to insure or reinsure under this section any mortgage, advance, loan, or pool of mortgages otherwise eligible under this section, pursuant to a risk-sharing agreement providing that the qualified participating entity will carry out (under a delegation or otherwise, and with or without compensation, but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, issuance of commitments, approval of insurance of advances, cost certification, servicing, property disposition, or other functions as the Secretary shall approve as consistent with the purpose of this section. All appraisals of property for mortgage insurance under this section shall be completed by a Certified General Appraiser in accordance with the Uniform Standards of Professional Appraisal Practice.
+&emsp;&emsp;The Secretary, upon request of a qualified participating entity, may insure or reinsure and make commitments to insure or reinsure under this section any mortgage, advance, loan, or pool of mortgages otherwise eligible under this section, pursuant to a risk-sharing agreement providing that the qualified participating entity will carry out (under a delegation or otherwise, and with or without compensation, but subject to audit, exception, or review requirements) suchcredit approval, appraisal, inspection, issuance of commitments, approval of insurance of advances, cost certification, servicing, property disposition, or other functions as the Secretary shall approve as consistent with the purpose of this section. All appraisals of property for mortgage insurance under this section shall be completed by a Certified General Appraiser in accordance with the Uniform Standards of Professional Appraisal Practice.
 
 #### (G) Disclosure of records
 
@@ -90,7 +90,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (10) Certification of subsidy layering compliance
 
-&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing creditagency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shall not be any greater than is necessary to provide affordable housing.
+&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing credit agency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shall not be any greater than is necessary to provide affordable housing.
 
 #### (11) Implementation
 
@@ -100,7 +100,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a specific program in conjunction with qualified housing finance agencies (including entities established by States that provide mortgage insurance) to provide Federal credit enhancement for loans for affordable multifamily housing through a system of risk-sharing agreements with such agencies.
+&emsp;The Secretary shall carry out a specific program in conjunction with qualified housing finance agencies (including entities established by States that provide mortgage insurance) toprovide Federal credit enhancement for loans for affordable multifamily housing through a system of risk-sharing agreements with such agencies.
 
 #### (2) Program requirements
 
@@ -166,7 +166,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
+&emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that wouldotherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
 
 &emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only after consultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
 
@@ -204,7 +204,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (C) Certification of subsidy layering compliance
 
-&emsp;&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing credit agency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shallnot be any greater than is necessary to provide affordable housing.
+&emsp;&emsp;The requirements of section 3545(d) of title 42 may be satisfied in connection with a commitment to insure a mortgage under this subsection by a certification by a housing credit agency (including an entity established by a State that provides mortgage insurance) to the Secretary that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which a mortgage is to be insured shall not be any greater than is necessary to provide affordable housing.
 
 #### (10) Definitions
 

@@ -2,7 +2,7 @@
 
 #### (a) Duty of States; status of projects; title to property
 
-To maintain fish-restoration and management projects established under the provisions of this chapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
+To maintain fish-restoration and management projects established under the provisions of thischapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
 
 #### (b) Funding requirements
 
@@ -52,7 +52,7 @@ Within 12 months after the completion of the national plan under subsection (d)(
 
 #### (f) Pumpout stations and waste reception facilities
 
-Amounts apportioned to States under section 777c of this title may be used to pay not morethan 75 percent of the costs of constructing, renovating, operating, or maintaining pumpout stations and waste reception facilities (as those terms are defined in the Clean Vessel Act of 1992).
+Amounts apportioned to States under section 777c of this title may be used to pay not more than 75 percent of the costs of constructing, renovating, operating, or maintaining pumpout stations and waste reception facilities (as those terms are defined in the Clean Vessel Act of 1992).
 
 #### (g) Surveys
 

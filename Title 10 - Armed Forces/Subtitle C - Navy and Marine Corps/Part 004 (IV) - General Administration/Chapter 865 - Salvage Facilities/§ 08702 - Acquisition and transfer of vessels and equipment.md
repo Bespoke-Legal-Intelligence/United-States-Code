@@ -20,7 +20,7 @@ Reference to Authority To Advance Funds for Immediate Salvage Operations.—For 
 
 <b>2021</b>—Subsec. (c). Pub. L. 116–283, §1876(c), which directed striking the first two words of the subsec. heading, striking the text of subsec. (c) and inserting the text of par. (2) of section 2307(g) of this title, and substituting "this subsection" for "this paragraph" in the second sentence thereof, was repealed by Pub. L. 117–81, §1701(n)(3), effective as if included in title XVIII of Pub. L. 116–283.
 
-Pub. L. 116–283, §1834(i)(5), as added by Pub. L. 117–81, §1701(n)(2), which directed substitution of "section 3808(b)" for "section 2307(g)(2)" in section 8702(c), without specifying the Code title to be amended, was executed to subsec. (c) of this section to reflect the probable intent of Congress.
+Pub. L. 116–283, §1834(i)(5), as added by Pub. L. 117–81, §1701(n)(2), which directed substitution of "section3808(b)" for "section 2307(g)(2)" in section 8702(c), without specifying the Code title to be amended, was executed to subsec. (c) of this section to reflect the probable intent of Congress.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7362 of this title as this section.
 

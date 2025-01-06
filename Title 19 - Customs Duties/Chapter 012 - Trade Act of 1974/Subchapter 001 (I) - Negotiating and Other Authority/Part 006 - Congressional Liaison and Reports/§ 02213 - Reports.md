@@ -378,7 +378,7 @@ Detail of government employees.—Any Federal Government employee may be detaile
 
 &emsp;"(5)
 
-Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at ratesfor individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;"(6)
 

@@ -2,7 +2,7 @@
 
 #### (a) Preservation and protection of security, lien, or priority of lien securing loan
 
-The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority ofthe lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
+The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
 
 #### (b) Operation or lease of realty
 
@@ -48,7 +48,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), any conveyance of real property under this subsection shall include all of the interest of the United States in the property, including mineral rights.
+&emsp;&emsp;Subject to subparagraph (B), any conveyance of real property under this subsectionshall include all of the interest of the United States in the property, including mineral rights.
 
 #### (B) Conservation
 
@@ -116,7 +116,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(I) the Secretary acquires property under this chapter that is located within an Indian reservation; and
 
-&emsp;(II) the borrower-owner is the Indian tribe that has jurisdiction over the reservation in which the real property is located or the borrower-owner is a member of such Indian tribe;
+&emsp;(II) the borrower-owner is the Indian tribe that has jurisdiction over the reservation inwhich the real property is located or the borrower-owner is a member of such Indian tribe;
 
 > the Secretary shall dispose of or administer the property only as provided for in this subparagraph.
 
@@ -314,7 +314,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 &emsp;The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
+(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
 
 #### <b>Editorial Notes</b>
 
@@ -372,7 +372,7 @@ Subsec. (e)(1)(B). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar.
 
 Subsec. (e)(1)(C). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
 
-Subsec. (e)(1)(D). Pub. L. 104–127, §638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted "(A)" for "(D)" in concluding provisions, in cl. (iii)(I), substituted "subparagraph (A)" for "subparagraphs (C)(i), (C)(ii), and (D)", and added cl. (v) and struck out former cl. (v) which read as follows: "If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe thathas jurisdiction over the reservation in which the real property is located of—
+Subsec. (e)(1)(D). Pub. L. 104–127, §638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted "(A)" for "(D)" in concluding provisions, in cl. (iii)(I), substituted "subparagraph (A)" for "subparagraphs (C)(i), (C)(ii), and (D)", and added cl. (v) and struck out former cl. (v) which read as follows: "If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
 
 &emsp;"(I) the sale;
 
@@ -424,7 +424,7 @@ Subsec. (g)(3). Pub. L. 104–127, §639(3), (4), redesignated par. (6) as (3), 
 
 &emsp;"(D) ensure that access to other portions of the property for farming and other uses is provided."
 
-Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: "The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands."
+Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck outformer par. (4) which read as follows: "The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands."
 
 Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as follows: "If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
 
@@ -436,7 +436,7 @@ Subsec. (g)(6), (7). Pub. L. 104–127, §639(4), (5), redesignated pars. (6) an
 
 Subsec. (g)(8). Pub. L. 104–127, §639(3), struck out par. (8) which read as follows: "Notwithstanding the limitations described under paragraphs (3) and (4), the limitations may be voluntarily, knowingly waived by any person with respect to real property described in paragraph (3) or (4)."
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–554, §16, in fourth sentence, inserted "(A)" after "shall be" and "or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administrationunder an annual lease or a lease with an option to purchase, with a preference for sale" before period at end.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–554, §16, in fourth sentence, inserted "(A)" after "shall be" and "or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale" before period at end.
 
 Subsec. (e)(1)(A)(i). Pub. L. 102–552, which, in amending directory language of Pub. L. 102–237, §501(f)(1), directed the substitution of "the borrower-owner (as defined in subparagraph (F))" for "borrower-owner (as defined in subparagraph (F))", was executed by making the substitution in text which did not contain a closing parenthesis after "(F)", to reflect the probable intent of Congress. See 1991 Amendment note below.
 

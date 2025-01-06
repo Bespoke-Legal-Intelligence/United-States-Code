@@ -130,7 +130,7 @@ av
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreementmay be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
+&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreement may be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
 
 &nbsp;
 
@@ -393,7 +393,7 @@ nc
 
 #### (i) Packaging materials and containers for retail sale
 
-Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materialsused in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
 
 #### (j) Packing materials and containers for shipment
 
@@ -519,7 +519,7 @@ In this section:
 
 &emsp;&emsp;(G) catalysts and solvents; and
 
-&emsp;&emsp;(H) any other goods that are not incorporated into the good but the use of which in the production of the good can reasonably be demonstrated to be a part of that production.
+&emsp;&emsp;(H) any other goods that are not incorporated into the good but the use of which inthe production of the good can reasonably be demonstrated to be a part of that production.
 
 #### (9) Material
 
@@ -651,7 +651,7 @@ In this section:
 
 &emsp;&emsp;(v) Notwithstanding section 4013(a)(2) of this title, a proclamation made under clause (iii) shall take effect on the date on which the text of the proclamation is published in the Federal Register.
 
-&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric,yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries.
+&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries.
 
 #### (D) Deemed approval of request
 

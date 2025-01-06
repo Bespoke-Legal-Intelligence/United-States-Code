@@ -5,7 +5,7 @@
 | [4751\.](%C2%A7%2004751%20-%20Determinations%20and%20decisions.md) | Determinations and decisions. |
 | [4752\.](%C2%A7%2004752%20-%20Remission%20of%20liquidated%20damages.md) | Remission of liquidated damages. |
 | [4753\.](%C2%A7%2004753%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md) | Supplies: identification of supplier and sources. |
-| [4754\.](%C2%A7%2004754%20-%20Management%20of%20purchase%20cards.md) | Management of purchase cards. |
+| [4754\.](%C2%A7%2004754%20-%20Management%20of%20purchase%20cards.md) | Management of purchase cards.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -137,7 +137,7 @@ Consultation.—To carry out the duties described in subsection (c), the Panel m
 
 "(e)
 
-Authority.—To carry out the duties described in subsection (c), the Panel may request documentationor other information needed from the AbilityOne Commission, central nonprofit agencies, and qualified nonprofit agencies.
+Authority.—To carry out the duties described in subsection (c), the Panel may request documentation or other information needed from the AbilityOne Commission, central nonprofit agencies, and qualified nonprofit agencies.
 
 "(f)
 

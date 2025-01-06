@@ -6,7 +6,7 @@ Accommodation of Needs for Electric Energy.—This chapter does not require or a
 
 (b)
 
-Availability of Revenue From Sales.—Revenue received by a federal agency pursuant to section 17902 of this title from the sale of electric energy generated from a facility of that agency is available to the agency without fiscalyear limitation to purchase fuel and for operation, maintenance, and other costs associated with that facility.
+Availability of Revenue From Sales.—Revenue received by a federal agency pursuant to section 17902 of this title from the sale of electric energy generated from a facility of that agency is available to the agency without fiscal year limitation to purchase fuel and for operation, maintenance, and other costs associated with that facility.
 
 (c)
 

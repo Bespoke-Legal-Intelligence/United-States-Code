@@ -60,7 +60,7 @@ Pub. L. 92–463, §3, Oct. 6, 1972, 86 Stat. 770; Pub. L. 105–153, §2(a), De
 
 #### Short Title of 1997 Act
 
-Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: "This Act \[see Tables for classification\]may be cited as the 'Federal Advisory Committee Act Amendments of 1997'."
+Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Advisory Committee Act Amendments of 1997'."
 
 #### Short Title of 1972 Act
 

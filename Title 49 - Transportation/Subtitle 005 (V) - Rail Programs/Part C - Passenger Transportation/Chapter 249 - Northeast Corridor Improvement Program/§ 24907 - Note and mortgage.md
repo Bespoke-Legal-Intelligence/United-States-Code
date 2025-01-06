@@ -40,7 +40,7 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, §704(e)–(g); added Oct. 19, 1976
 
 In subsection (a), the words "In order . . . protect and", "securing such expenditure", "infringe upon or", and "the authority conferred upon the National Railroad Passenger Corporation by" are omitted as surplus.
 
-In subsections (b) and (c), the words "note" and "agreement" are substituted for "agreement, security, or obligation" for consistency because the Secretary of Transportation gets only notes and mortgage agreements under the source provisions restated in subsection (a) of this section.
+In subsections (b) and (c), the words "note" and "agreement" are substituted for "agreement, security, or obligation" for consistency because the Secretary ofTransportation gets only notes and mortgage agreements under the source provisions restated in subsection (a) of this section.
 
 In subsection (b), the words "obtained by the Secretary" and "the provisions of subtitle IV of title 49, the Securities Act of 1933 (15 U.S.C. 77a et seq.), and . . . other" are omitted as surplus. The words "has the same" are substituted for "shall enjoy all of the" for clarity. The words "conveyance or" are omitted, and the word "transfer" is substituted for "conveyances", for consistency in this subtitle. The words "(including section 303(e) thereof \[45 U.S.C. 743(e)\])" are omitted as surplus. The words "section 303(b)" are substituted for "section 306(b)" to correct a mistake in section 217(c) of the Rail Transportation Improvement Act (Public Law 94–555, 90 Stat. 2628).
 

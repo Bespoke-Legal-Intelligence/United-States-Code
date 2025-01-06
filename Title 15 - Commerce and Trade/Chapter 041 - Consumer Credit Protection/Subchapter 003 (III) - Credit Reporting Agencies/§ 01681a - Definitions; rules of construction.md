@@ -170,7 +170,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;&emsp;&emsp;(iii) in the case of consent under clause (i) or (ii) given orally, is provided written confirmation of that consent by the person making the communication, not later than 3 business days after the receipt of the consent by that person;
 
-&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making thecommunication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
+&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
 
 &emsp;&emsp;(C) the person who makes the communication—
 
@@ -208,7 +208,7 @@ Fraud alert; active duty alert.—The terms "fraud alert" and "active duty alert
 
 &emsp;(3)
 
-Identity theft.—The term "identity theft" means a fraud committed using the identifying information of another person, subject to such further definition as the Bureau may prescribe, by regulation.
+Identity theft.—The term "identity theft" means a fraud committed using the identifying information of another person,subject to such further definition as the Bureau may prescribe, by regulation.
 
 &emsp;(4)
 
@@ -420,7 +420,7 @@ Pub. L. 108–159, title IV, §411(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
+Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act\[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
 
 #### Effective Date of 1996 Amendment
 

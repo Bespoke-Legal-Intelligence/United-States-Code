@@ -22,7 +22,7 @@ In this section:
 
 #### (b) In general
 
-Except as provided in subsection (c) of this section, the establishment of an Oversight Board for Puerto Rico (i.e., the enactment of this chapter) in accordance with section 2121 of this title operates with respect to a Liability as a stay, applicable to all entities (as such term is defined in section 101 of title 11), of—
+Except as provided in subsection (c) of this section, the establishment of an OversightBoard for Puerto Rico (i.e., the enactment of this chapter) in accordance with section 2121 of this title operates with respect to a Liability as a stay, applicable to all entities (as such term is defined in section 101 of title 11), of—
 
 &emsp;(1) the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against the Government of Puerto Rico that was or could have been commenced before the enactment of this chapter, or to recover a Liability Claim against the Government of Puerto Rico that arose before the enactment of this chapter;
 
@@ -58,7 +58,7 @@ Except as provided in subsections (e), (f), and (g) the stay under subsection (b
 
 &emsp;&emsp;&emsp;(ii) six months after the establishment of an Oversight Board for Puerto Rico as established by section 2121(b) of this title;
 
-&emsp;&emsp;(B) the date that is 75 days after the date in subparagraph (A) if the Oversight Board delivers a certification to the Governor that, in the Oversight Board's sole discretion, an additional 75 days are needed to seek to complete a voluntary process under subchapter VI of this chapter with respect to the government of the Commonwealth ofPuerto Rico or any of its territorial instrumentalities; or
+&emsp;&emsp;(B) the date that is 75 days after the date in subparagraph (A) if the Oversight Board delivers a certification to the Governor that, in the Oversight Board's sole discretion, an additional 75 days are needed to seek to complete a voluntary process under subchapter VI of this chapter with respect to the government of the Commonwealth of Puerto Rico or any of its territorial instrumentalities; or
 
 &emsp;&emsp;(C) the date that is 60 days after the date in subparagraph (A) if the district court to which an application has been submitted under subparagraph <sup>1</sup> 2231(m)(1)(D) of this title determines, in the exercise of the court's equitable powers, that an additional 60 days are needed to complete a voluntary process under subchapter VI of this chapter with respect to the government of the Commonwealth of Puerto Rico or any of its territorial instrumentalities; or
 
@@ -142,7 +142,7 @@ Congress finds the following:
 
 &emsp;(3) The current fiscal emergency has also affected the long-term economic stability of Puerto Rico by contributing to the accelerated outmigration of residents and businesses.
 
-&emsp;(4) A comprehensive approach to fiscal, management, and structural problems and adjustments that exempts no part of the Government of Puerto Rico is necessary, involving independent oversight and a Federal statutory authority for the Government of Puerto Rico to restructure debts in a fair and orderly process.
+&emsp;(4) A comprehensive approach to fiscal, management, and structural problems and adjustments that exempts no part of the Government of Puerto Rico is necessary, involving independent oversight and a Federal statutoryauthority for the Government of Puerto Rico to restructure debts in a fair and orderly process.
 
 &emsp;(5) Additionally, an immediate—but temporary—stay is essential to stabilize the region for the purposes of resolving this territorial crisis.
 

@@ -44,7 +44,7 @@ Pub. L. 114–329, title I, §105(a), Jan. 6, 2017, 130 Stat. 2976, provided tha
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: "This Act \[enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Next Generation Internet Research Act of 1998'."
+Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: "This Act \[enacting section 5513 of thistitle, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Next Generation Internet Research Act of 1998'."
 
 #### Short Title
 

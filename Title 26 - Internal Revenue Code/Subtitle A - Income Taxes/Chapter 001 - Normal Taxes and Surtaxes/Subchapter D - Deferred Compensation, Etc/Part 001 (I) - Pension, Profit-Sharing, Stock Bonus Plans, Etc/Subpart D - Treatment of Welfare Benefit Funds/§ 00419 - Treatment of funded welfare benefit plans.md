@@ -202,7 +202,7 @@ Pub. L. 98–369, div. A, title V, §511(e), July 18, 1984, 98 Stat. 862, as ame
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this subpart\] shall apply to contributions paid or accrued after December 31, 1985, in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this subpart\] shall apply to contributions paid or accrued after December 31, 1985, in taxable years ending after such date.
 
 "(2)
 

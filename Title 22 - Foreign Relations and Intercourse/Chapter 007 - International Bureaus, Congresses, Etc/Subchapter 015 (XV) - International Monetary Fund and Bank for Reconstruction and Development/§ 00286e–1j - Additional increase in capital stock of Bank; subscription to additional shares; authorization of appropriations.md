@@ -6,7 +6,7 @@
 
 &emsp;(2) to subscribe on behalf of the United States to twelve thousand four hundred and fifty-three additional shares of the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-(b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $1,502,267,655 for payment by the Secretary of the Treasury.
+(b) In order to pay for the increase in the United States subscription to the Bank providedfor in this section, there are authorized to be appropriated, without fiscal year limitation, $1,502,267,655 for payment by the Secretary of the Treasury.
 
 (July 31, 1945, ch. 339, §51, as added Pub. L. 99–190, §101(i) \[title I, (a)\], Dec. 19, 1985, 99 Stat. 1291, 1294.)
 

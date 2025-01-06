@@ -12,7 +12,7 @@ Not later than April 15 of each year, the President shall submit to the appropri
 
 &emsp;(4) a detailed assessment of the adherence of other nations to obligations undertaken in all arms control, nonproliferation, and disarmament agreements or commitments, including the Missile Technology Control Regime, to which the United States is a participating state, including information on actions taken by each nation with regard to the size, structure, and disposition of its military forces in order to comply with arms control, nonproliferation, or disarmament agreements or commitments, and shall include, in the case of each agreement or commitment about which compliance questions exist—
 
-&emsp;&emsp;(A) a description of each significant issue raised and efforts made and contemplated with the other participating state to seek resolution of the difficulty;
+&emsp;&emsp;(A) a description of each significant issue raised and efforts made and contemplatedwith the other participating state to seek resolution of the difficulty;
 
 &emsp;&emsp;(B) an assessment of damage, if any, to the United States security and other interests; and
 
@@ -30,7 +30,7 @@ Not later than April 15 of each year, the President shall submit to the appropri
 
 #### (b) Classification of report
 
-The report required by this section shall be submitted in unclassified form, with classifiedannexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
+The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
 
 #### (c) Reporting consecutive noncompliance
 
@@ -74,7 +74,7 @@ Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance 
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–92 amended subsec. (e) generally. Prior to amendment, text read as follows: "Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section."
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–66, §1247(a)(1), substituted "the appropriate congressional committees" for "the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate" in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §1247(a)(1), substituted "the appropriate congressional committees"for "the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate" in introductory provisions.
 
 Subsec. (c). Pub. L. 113–66, §1247(a)(2), substituted "appropriate congressional committees" for "Congress".
 
@@ -174,7 +174,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Select Committee on Intelligence, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence, the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence, the Committee on Foreign Affairs, theCommittee on Armed Services, and the Committee on Appropriations of the House of Representatives.
 
 &emsp;"(2)
 
@@ -308,7 +308,7 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 
 #### Requirement for Transmittal of Summaries
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, providedthat: "Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly."
 
 #### Transmission of Executive Branch Reports Providing Congress With Classified Summaries of Arms Control Developments
 

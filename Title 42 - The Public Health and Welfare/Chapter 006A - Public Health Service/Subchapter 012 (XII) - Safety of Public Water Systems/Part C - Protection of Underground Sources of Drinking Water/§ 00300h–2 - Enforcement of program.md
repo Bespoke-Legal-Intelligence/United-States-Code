@@ -58,7 +58,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) shall be b
 
 &emsp;(B) after a court, in an action brought under paragraph (6), has entered a final judgment in favor of the Administrator,
 
-> the Administrator may request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus costs, attorneys' fees, and interest at currently prevailing rates from the date the order is effective or the date of such final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
+> the Administrator may request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus costs, attorneys' fees, and interest at currently prevailing rates from the date the orderis effective or the date of such final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
 (8) The Administrator may, in connection with administrative proceedings under this subsection, issue subpoenas compelling the attendance and testimony of witnesses and subpoenas duces tecum, and may request the Attorney General to bring an action to enforce any subpoena under this section. The district courts shall have jurisdiction to enforce such subpoenas and impose sanction.
 

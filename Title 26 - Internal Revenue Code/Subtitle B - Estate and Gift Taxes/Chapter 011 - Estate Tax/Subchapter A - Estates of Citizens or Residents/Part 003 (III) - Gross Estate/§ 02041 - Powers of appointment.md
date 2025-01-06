@@ -12,7 +12,7 @@ The value of the gross estate shall include the value of all property—
 
 &emsp;&emsp;(B) by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive;
 
-> &emsp;but the failure to exercise such a power or the complete release of such a power shall not be deemed an exercise thereof. If a general power of appointment created on or before October 21, 1942, has been partially released so that it is no longer a general power of appointment, the exercise of such power shall not be deemed to be the exercise of a general power of appointment if—
+> &emsp;but the failure to exercise such a power or the complete release of such a power shall not bedeemed an exercise thereof. If a general power of appointment created on or before October 21, 1942, has been partially released so that it is no longer a general power of appointment, the exercise of such power shall not be deemed to be the exercise of a general power of appointment if—
 
 &emsp;&emsp;&emsp;(i) such partial release occurred before November 1, 1951, or
 
@@ -20,7 +20,7 @@ The value of the gross estate shall include the value of all property—
 
 #### (2) Powers created after October 21, 1942
 
-&emsp;To the extent of any property with respect to which the decedent has at the time of his death a general power of appointment created after October 21, 1942, or with respect to which the decedent has at any time exercised or released such a power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive. For purposes of this paragraph (2), the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effectonly on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised.
+&emsp;To the extent of any property with respect to which the decedent has at the time of his death a general power of appointment created after October 21, 1942, or with respect to which the decedent has at any time exercised or released such a power of appointment by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive. For purposes of this paragraph (2), the power of appointment shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the exercise of the power takes effect only on the expiration of a stated period after its exercise, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised.
 
 #### (3) Creation of another power in certain cases
 
@@ -66,7 +66,7 @@ For purposes of subsection (a)—
 
 &emsp;For purposes of this section, a power of appointment created by a will executed on or before October 21, 1942, shall be considered a power created on or before such date if the person executing such will dies before July 1, 1949, without having republished such will, by codicil or otherwise, after October 21, 1942.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 385; Pub. L. 87–834, §18(a)(2)(H), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(b)(4)(A), Oct. 4, 1976, 90 Stat. 1894.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 385; Pub. L. 87–834, §18(a)(2)(H), Oct. 16, 1962, 76 Stat. 1052;Pub. L. 94–455, title XX, §2009(b)(4)(A), Oct. 4, 1976, 90 Stat. 1894.)
 
 #### <b>Editorial Notes</b>
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Definitions
 
-&emsp;Except as provided in paragraph (2), terms used in this section have the same respectivemeanings as when used in sections 409 and 4978.
+&emsp;Except as provided in paragraph (2), terms used in this section have the same respective meanings as when used in sections 409 and 4978.
 
 #### (2) Special rules relating to tax imposed by reason of paragraph (3) or (4) of subsection (a)
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 107–16, §656(c)(2), amended heading and text of subsec. 
 
 Subsec. (e). Pub. L. 107–16, §656(c)(3), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "Terms used in this section have the same respective meaning as when used in section 4978."
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(15), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved."
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(15), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved."
 
 Subsec. (c). Pub. L. 105–34, §1530(c)(16), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The tax imposed by this section shall be paid by—
 
@@ -138,5 +138,5 @@ Pub. L. 99–514, title XVIII, §1854(a)(9)(D), Oct. 22, 1986, 100 Stat. 2878, p
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

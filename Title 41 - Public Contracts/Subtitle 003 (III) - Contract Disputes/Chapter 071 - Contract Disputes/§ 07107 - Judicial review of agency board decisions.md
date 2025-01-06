@@ -22,7 +22,7 @@ Tennessee valley authority.—Notwithstanding paragraph (1), a decision of the b
 
 &emsp;(3)
 
-Review of arbitration.—An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, exceptthat the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
+Review of arbitration.—An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, except that the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
 
 (b)
 
@@ -44,7 +44,7 @@ Remand.—In an appeal by a contractor or the Federal Government from the decisi
 
 (d)
 
-Consolidation.—If 2 or more actions arising from one contract are filed in the United States Court of Federal Claims and one or more agency boards, for the convenience of parties or witnesses or in the interest of justice, the United States Court of Federal Claims may order the consolidation of the actions in that court or transfer any actions to or among the agency boards involved.
+Consolidation.—If 2 or more actions arising from one contract are filed in the United States Court of Federal Claims and one or more agency boards, for the convenience of parties or witnesses or in the interest of justice, theUnited States Court of Federal Claims may order the consolidation of the actions in that court or transfer any actions to or among the agency boards involved.
 
 (e)
 

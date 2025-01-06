@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order to improve accountability with respect to defense articles and defense services sold, leased, or exported under this chapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), the President shall establish a program which provides for the end-use monitoring of such articles and services.
+&emsp;In order to improve accountability with respect to defense articles and defense services sold, leased, or exported under this chapter or the Foreign Assistance Act of 1961 (22 U.S.C.2151 et seq.), the President shall establish a program which provides for the end-use monitoring of such articles and services.
 
 #### (2) Requirements of program
 

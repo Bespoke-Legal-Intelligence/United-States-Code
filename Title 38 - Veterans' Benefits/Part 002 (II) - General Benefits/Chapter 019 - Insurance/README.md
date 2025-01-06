@@ -134,7 +134,7 @@ Pub. L. 100–322, title III, §331(a)(2), (b)(2), May 20, 1988, 102 Stat. 536, 
 
 <b>1979</b>—Pub. L. 96–128, title III, §§302(b), 303(b), Nov. 28, 1979, 93 Stat. 986, added items 726 and 761.
 
-<b>1974</b>—Pub. L. 93–289, §§2(b), 9(b), May 24, 1974, 88 Stat. 165, 172, added items 777, 778, and 779 and substituted "Veterans' Special Life Insurance" for "Veterans' special term insurance" in item 723.
+<b>1974</b>—Pub. L. 93–289, §§2(b), 9(b), May 24, 1974, 88 Stat. 165, 172, added items 777, 778, and 779 and substituted"Veterans' Special Life Insurance" for "Veterans' special term insurance" in item 723.
 
 <b>1971</b>—Pub. L. 92–188, §3, Dec. 15, 1971, 85 Stat. 645, substituted "Payment or use of dividends" for "Dividends to pay premiums" in item 707.
 

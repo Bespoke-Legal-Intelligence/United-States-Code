@@ -36,7 +36,7 @@ The Under Secretary shall prioritize providing assistance under subsection (a) f
 
 #### (d) Outreach
 
-The Under Secretary, in coordination with the Secretary, the Administrator of the Maritime Administration, and the Director of the United States Fish and Wildlife Service, as appropriate,shall conduct coordinated outreach to ports to provide information with respect to—
+The Under Secretary, in coordination with the Secretary, the Administrator of the Maritime Administration, and the Director of the United States Fish and Wildlife Service, as appropriate, shall conduct coordinated outreach to ports to provide information with respect to—
 
 &emsp;(1) how to apply for assistance under subsection (a);
 
@@ -62,7 +62,7 @@ In this section, the term "eligible entity" means—
 
 &emsp;(1) a port authority for a port;
 
-&emsp;(2) a State, regional, local, or Tribal government, or an Alaska Native or Native Hawaiian entity that has jurisdiction over a maritime port authority or a port;
+&emsp;(2) a State, regional, local, or Tribal government, or an Alaska Native or Native Hawaiianentity that has jurisdiction over a maritime port authority or a port;
 
 &emsp;(3) an academic institution, research institution, or nonprofit organization working in partnership with a port; or
 

@@ -6,13 +6,13 @@ It is unlawful to act in violation of the MARPOL Protocol, Annex IV to the Antar
 
 #### (b) Investigations; subpenas: issuance by Secretary, enforcement; action by Secretary; information to party
 
-Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and theproduction of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
+Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
 
 #### (c) Ship inspections; reports to Secretary; additional action
 
 (1) This subsection applies to inspections relating to possible violations of Annex I or Annex II to the Convention, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol, or of this chapter by any seagoing ship referred to in section 1902(a)(2) of this title.
 
-(2) While at a port or terminal subject to the jurisdiction of the United States, a ship to which the MARPOL Protocol or the Antarctic Protocol applies may be inspected by the Secretary—
+(2) While at a port or terminal subject to the jurisdiction of the United States, a ship towhich the MARPOL Protocol or the Antarctic Protocol applies may be inspected by the Secretary—
 
 &emsp;(A) to verify whether or not the ship has discharged a harmful substance in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter; or
 

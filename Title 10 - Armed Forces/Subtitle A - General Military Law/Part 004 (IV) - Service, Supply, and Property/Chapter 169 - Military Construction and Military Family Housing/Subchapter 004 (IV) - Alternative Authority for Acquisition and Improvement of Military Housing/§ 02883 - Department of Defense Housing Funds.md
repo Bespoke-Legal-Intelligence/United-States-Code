@@ -24,7 +24,7 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition, improvement, or construction of military family housing.
 
-&emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of thistitle for the purpose of carrying out activities under this subchapter with respect to military family housing.
+&emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military family housing.
 
 &emsp;(D) Income derived from any activities under this subchapter with respect to military family housing, including interest on loans made under section 2873 of this title, income and gains realized from investments under section 2875 of this title, and any return of capital invested as part of such investments.
 
@@ -36,7 +36,7 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(A) Amounts authorized for and appropriated to that Fund.
 
-&emsp;(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition or construction of military unaccompanied housing.
+&emsp;(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, insuch amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition or construction of military unaccompanied housing.
 
 &emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military unaccompanied housing.
 

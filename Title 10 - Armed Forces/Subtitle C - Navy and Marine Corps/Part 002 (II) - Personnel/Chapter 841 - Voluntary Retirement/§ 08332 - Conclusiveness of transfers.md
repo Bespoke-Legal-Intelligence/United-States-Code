@@ -12,7 +12,7 @@ When a member of the naval service is transferred by the Secretary of the Navy�
 
 > the transfer is conclusive for all purposes. Each member so transferred is entitled, when not on active duty, to retainer pay or retired pay from the date of transfer in accordance with his grade and number of years of creditable service as determined by the Secretary. The Secretary may correct any error or omission in his determination as to a member's grade and years of creditable service. When such a correction is made, the member is entitled, when not on active duty, to retainer pay or retired pay in accordance with his grade and number of years of creditable service, as corrected, from the date of transfer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 397, §6332; Pub. L. 85–583, §1(7), Aug. 1, 1958, 72 Stat. 480; Pub. L. 85–861, §33(a)(33), Sept. 2, 1958, 72 Stat. 1566; renumbered §8332, Pub. L. 115–232, div. A, title VIII, §807(b)(15), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 397, §6332; Pub. L. 85–583, §1(7), Aug. 1, 1958, 72 Stat. 480; Pub. L.85–861, §33(a)(33), Sept. 2, 1958, 72 Stat. 1566; renumbered §8332, Pub. L. 115–232, div. A, title VIII, §807(b)(15), Aug. 13, 2018, 132 Stat. 1836.)
 
 Historical and Revision Notes
 
@@ -34,7 +34,7 @@ June 25, 1938, ch. 690, §202 (provisos), 52 Stat. 1178.
 
 July 9, 1952, ch. 608, §803 (3d sentence), 66 Stat. 505.
 
-The words "when not on active duty, to retainer pay or retired pay" are substituted for the words "pay and allowances". The pay and allowances of a member on active duty are covered by the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). When not on active duty a member of the Fleet Reserve receives retainer pay and a retired member receives retired pay without allowances, the provision for allowances for retired members having been repealed as pointed out in the note on the preceding section. In the last sentence the words "from the date of transfer" are added to make it clear that a correction is retroactive to that date. TheCourt of Claims has so held (<i>Dugan v. United States</i> (1943), 100 Ct. Cl. 7).
+The words "when not on active duty, to retainer pay or retired pay" are substituted for the words "pay and allowances". The pay and allowances of a member on active duty are covered by the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). When not on active duty a member of the Fleet Reserve receives retainer pay and a retired member receives retired pay without allowances, the provision for allowances for retired members having been repealed as pointed out in the note on the preceding section. In the last sentence the words "from the date of transfer" are added to make it clear that a correction is retroactive to that date. The Court of Claims has so held (<i>Dugan v. United States</i> (1943), 100 Ct. Cl. 7).
 
 #### <b>Editorial Notes</b>
 

@@ -158,7 +158,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary determines that the portion of the bid submitted under subsection (b) that is attributable to basic prescription drug coverage is supported by the actuarial bases provided under such subsection and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8)(C) of this title) for benefits provided under that plan, less the sum (determined on a monthly per capita basis) of the actuarial value of the reinsurance payments under section 1395w–115(b) of this title.
+&emsp;&emsp;&emsp;The Secretary determines that the portion of the bid submitted under subsection (b) that is attributable to basic prescription drug coverage is supported by the actuarial bases provided under such subsection and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8)(C) of thistitle) for benefits provided under that plan, less the sum (determined on a monthly per capita basis) of the actuarial value of the reinsurance payments under section 1395w–115(b) of this title.
 
 #### (ii) Supplemental coverage
 
@@ -206,7 +206,7 @@
 
 #### (A) Limited risk plan
 
-&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which thePDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
+&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
 
 #### (B) Full risk plan
 
@@ -236,7 +236,7 @@
 
 #### (iv) Timing
 
-&emsp;&emsp;&emsp;The Secretary shall approve a fallback prescription drug plan for a PDP region in a manner so that, if there are any fallback service areas in the region for a year, the fallback prescription drug plan is offered at the same time as prescription drug plans would otherwise be offered.
+&emsp;&emsp;&emsp;The Secretary shall approve a fallback prescription drug plan for a PDP region in a manner so that, if there are any fallback service areas in the region for a year, thefallback prescription drug plan is offered at the same time as prescription drug plans would otherwise be offered.
 
 #### (V) <sup>2</sup> No national fallback plan
 
@@ -280,7 +280,7 @@
 
 #### (i) Costs
 
-&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered bythe entity through mechanisms such as generic substitution and price discounts.
+&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered by the entity through mechanisms such as generic substitution and price discounts.
 
 #### (ii) Quality programs
 
@@ -308,7 +308,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), a contract approved for a fallback prescription drug plan for fallback service areas for a PDP region under this section shall be for a period of 3 years (except as may be renewed after a subsequent bidding process).
+&emsp;&emsp;&emsp;Subject to clause (ii), a contract approved for a fallback prescription drug plan for fallback service areas for a PDPregion under this section shall be for a period of 3 years (except as may be renewed after a subsequent bidding process).
 
 #### (ii) Limitation
 

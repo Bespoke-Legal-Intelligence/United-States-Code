@@ -42,7 +42,7 @@ Conditions of conveyance.—If the Secretary approves the conveyance of a histor
 
 &emsp;&emsp;(C)
 
-Conditions of sale.—If the Secretary approves the sale of a historic light station described in subparagraph (A), the sale shall be subject to the conditions set forth in paragraphs (1) to (4) and (8) of subsection (a), and subsection (b), of section 305104 of this title and any other terms or conditions thatthe Secretary considers necessary to protect the resources of the System unit or wildlife refuge.
+Conditions of sale.—If the Secretary approves the sale of a historic light station described in subparagraph (A), the sale shall be subject to the conditions set forth in paragraphs (1) to (4) and (8) of subsection (a), and subsection (b), of section 305104 of this title and any other terms or conditions that the Secretary considers necessary to protect the resources of the System unit or wildlife refuge.
 
 &emsp;&emsp;(D)
 

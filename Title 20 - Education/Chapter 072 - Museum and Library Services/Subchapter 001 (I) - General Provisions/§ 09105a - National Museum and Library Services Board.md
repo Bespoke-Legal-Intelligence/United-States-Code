@@ -42,7 +42,7 @@ There is established within the Institute a board to be known as the "National M
 
 &emsp;&emsp;&emsp;&emsp;(I) resources that, collectively, are broadly representative of the curatorial, conservation, educational, and cultural resources of the United States; or
 
-&emsp;&emsp;&emsp;&emsp;(II) museums that, collectively, are broadly representative of various types of museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
+&emsp;&emsp;&emsp;&emsp;(II) museums that, collectively, are broadly representative of various typesof museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
 
 &emsp;&emsp;&emsp;(ii) the remainder shall be individuals recognized for their broad knowledge, expertise, or experience in museums or commitment to museums.
 
@@ -122,7 +122,7 @@ A majority of the voting members of the Museum and Library Services Board shall 
 
 The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title.
 
-(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, §2(r), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–410, §4, Dec. 31, 2018, 132 Stat. 5413.)
+(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993;amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, §2(r), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–410, §4, Dec. 31, 2018, 132 Stat. 5413.)
 
 #### <b>Editorial Notes</b>
 
@@ -166,5 +166,5 @@ Subsec. (i). Pub. L. 111–340, §104(4), substituted "coordinate the developmen
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

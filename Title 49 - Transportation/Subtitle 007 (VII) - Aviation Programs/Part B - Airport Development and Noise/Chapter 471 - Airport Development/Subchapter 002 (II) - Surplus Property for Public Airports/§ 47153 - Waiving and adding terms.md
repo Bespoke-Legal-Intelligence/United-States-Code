@@ -16,9 +16,19 @@ Waivers and Inclusion of Additional Terms on Request.—On request of the Secret
 
 (c)
 
-Public Notice Before Waiver.—Notwithstanding subsections (a) and (b), before the Secretary may waive any term imposed under this section that an interest in land be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such term.
+Restrictions on Waiver.—Notwithstanding subsections (a) and (b), the Secretary may not waive any term under this section that an interest in land be used for an aeronautical purpose unless—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1280; Pub. L. 106–181, title I, §§125(d), 135(d)(3), Apr. 5, 2000, 114 Stat. 76, 85.)
+&emsp;(1) the Secretary provides public notice not less than 30 days before the issuance of a waiver; and
+
+&emsp;(2) the Secretary determines that such waiver—
+
+&emsp;&emsp;(A) will not significantly impair the aeronautical purpose of an airport;
+
+&emsp;&emsp;(B) will not result in the permanent closure of an airport (unless the Secretary determines that the waiver will directly facilitate the construction of a replacement airport); or
+
+&emsp;&emsp;(C) is necessary to protect or advance the civil aviation interests of the United States.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1280; Pub. L. 106–181, title I, §§125(d), 135(d)(3), Apr. 5, 2000, 114 Stat. 76, 85; Pub. L. 118–63, title VII, §719(b)(2), May 16, 2024, 138 Stat. 1261.)
 
 Historical and Revision Notes
 
@@ -52,13 +62,15 @@ Oct. 1, 1949, ch. 589, §4, 63 Stat. 700; Aug. 23, 1958, Pub. L. 85–726, §140
 
 Oct. 3, 1944, ch. 479, 58 Stat. 765, §13(g)(3); added July 30, 1947, ch. 404, §2, 61 Stat. 680; Aug. 23, 1958, Pub. L. 85–726, §1402(c), 72 Stat. 807.
 
-In subsection (a), before clause (1), the words "Notwithstanding any other provision of law" and "further" are omitted as surplus. The word "waive" is substituted for "grant releases from" and "and to convey, quitclaim, or release any right or interest reserved to the United States by" to eliminate unnecessary words. The words "a term of a gift of an interest in property under this subchapter" are substituted for "any of the terms, conditions, reservations, and restrictions contained in . . . any such instrument of disposal" for clarity and consistency. In clause (1), the words "transferred by such instrument" are omitted as surplus. In clause (2), the text of 50 App.:1622c (last proviso) is omitted as executed. The words "protect or" are omitted as surplus.
+In subsection (a), before clause (1), the words "Notwithstanding any other provision of law" and "further"are omitted as surplus. The word "waive" is substituted for "grant releases from" and "and to convey, quitclaim, or release any right or interest reserved to the United States by" to eliminate unnecessary words. The words "a term of a gift of an interest in property under this subchapter" are substituted for "any of the terms, conditions, reservations, and restrictions contained in . . . any such instrument of disposal" for clarity and consistency. In clause (1), the words "transferred by such instrument" are omitted as surplus. In clause (2), the text of 50 App.:1622c (last proviso) is omitted as executed. The words "protect or" are omitted as surplus.
 
 In subsection (b), the words "In making any disposition of surplus property under this subsection" are omitted as surplus. The words "Secretary of a military department" are substituted for "the Secretary of the Army, or the Secretary of the Navy" for consistency with other titles of the United States Code and to eliminate unnecessary words. The words "Secretary of the Army" are substituted for "Secretary of War" in section 13(g)(3) of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). The Secretary of the Air Force is included in "Secretary of a military department" because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). The word "waive" is substituted for "omit from the instrument of disposal" to eliminate unnecessary words and for consistency in this subchapter. The words "conditions, reservations, and restrictions" are omitted as surplus.
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–63 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Notwithstanding subsections (a) and (b), before the Secretary may waive any term imposed under this section that an interest in land be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such term."
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–181, §135(d)(3), substituted "conveyance" for "gift" in introductory provisions and subpar. (B) and "conveyed" for "given" in subpar. (A).
 

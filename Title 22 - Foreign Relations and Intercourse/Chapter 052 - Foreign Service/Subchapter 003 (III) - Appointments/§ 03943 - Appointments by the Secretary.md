@@ -34,7 +34,7 @@ Pilot Program.—Not later than 180 days after the date of the enactment of this
 
 &emsp;"(5) includes, as part of the required initial training, a class or module that specifically prepares participants in such pilot program for life in the Foreign Service, including conveying to such participants essential elements of the practical knowledge that is normally acquired during a Foreign Service officer's initial assignments\[;\]
 
-&emsp;"(6) includes an annual assessment of the progress of such pilot program by a review board consisting of Department \[of State\] officials with appropriate expertise, including employees of the Foreign Service, in order to evaluate such pilot program's success;
+&emsp;"(6) includes an annual assessment of the progress of such pilot program by a review board consisting ofDepartment \[of State\] officials with appropriate expertise, including employees of the Foreign Service, in order to evaluate such pilot program's success;
 
 &emsp;"(7) does not include the use of Foreign Service-Limited or other noncareer Foreign Service hiring authorities; and
 

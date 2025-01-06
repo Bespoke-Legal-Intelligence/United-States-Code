@@ -40,7 +40,7 @@ As part of the annual application required by subsection (a), the chief executiv
 
 &emsp;&emsp;&emsp;(ii) an amount equal to 60 percent of the State median income;
 
-> &emsp;&emsp;except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;
+> &emsp;&emsp;except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the Statemay give priority to those households with the highest home energy costs or needs in relation to household income;
 
 &emsp;(3) conduct outreach activities designed to assure that eligible households, especially households with elderly individuals or disabled individuals, or both, and households with high home energy burdens, are made aware of the assistance available under this subchapter, and any similar energy-related assistance available under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\] or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
 
@@ -64,7 +64,7 @@ As part of the annual application required by subsection (a), the chief executiv
 
 &emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, including providing for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
 
-&emsp;(8) provide assurances that (A) the State will not exclude households described in clause\(2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
+&emsp;(8) provide assurances that (A) the State will not exclude households described in clause (2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
 
 &emsp;(9) provide that—
 
@@ -128,7 +128,7 @@ The State shall expend funds in accordance with the State plan under this subcha
 
 #### (e) Conduct of audits
 
-Each State shall, in carrying out the requirements of subsection (b)(10), obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
+Each State shall, in carrying out the requirements of subsection (b)(10), obtain financial and compliance audits of any funds which the Statereceives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
 
 #### (f) Payments or assistance not to be deemed income or resources for any purpose under Federal or State law; determination of excess shelter expense deduction
 
@@ -210,9 +210,9 @@ The Food and Nutrition Act of 2008, referred to in subsecs. (b)(2)(A)(iii) and (
 
 Section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans' Benefits.
 
-Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Subtitle B of title VI, referred to in subsecs. (b)(3), (4) and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6) and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Energy Conservation and Production Act, referred to in subsec. (b)(4), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1142. Title IV of the Energy Conservation and Production Act is classified principally to subchapter III (§6851 et seq.) of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
@@ -308,7 +308,7 @@ Subsec. (c)(3). Pub. L. 99–425, §504(d), added par. (3).
 
 Subsec. (f). Pub. L. 99–425, §504(e), designated existing provisions as par. (1), substituted "provided directly to, or indirectly for the benefit of" for "provided to", and added par. (2).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–558, §605(a)(9), inserted at end "The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.".
+<b>1984</b>—Subsec. (b). Pub. L. 98–558, §605(a)(9), inserted at end "The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter."
 
 Subsec. (b)(1). Pub. L. 98–558, §605(a)(1), substituted "section" for "subsection".
 
@@ -394,7 +394,7 @@ Applicability.—This section applies to programs under the United States Housin
 
 "(d)
 
-Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5))."
+Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utilityallowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5))."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

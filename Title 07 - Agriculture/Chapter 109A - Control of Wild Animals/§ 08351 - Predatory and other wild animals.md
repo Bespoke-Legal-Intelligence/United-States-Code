@@ -76,7 +76,7 @@ Assistance.—The Secretary may provide financial assistance to agricultural pro
 
 "(d)
 
-Coordination.—The Secretary shall ensure that the Natural Resources Conservation Service and the Animal and Plant Health Inspection Service coordinatefor purposes of this section through State technical committees established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)).
+Coordination.—The Secretary shall ensure that the Natural Resources Conservation Service and the Animal and Plant Health Inspection Service coordinate for purposes of this section through State technical committees established under section 1261(a) of the Food Security Act of 1985 (16 U.S.C. 3861(a)).
 
 "(e)
 

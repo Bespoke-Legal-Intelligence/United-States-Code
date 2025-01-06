@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and othersupplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile) in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
+&emsp;The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile) in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
 
 #### (2) Threat-based review
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iii) such contents are in working condition or usable, as applicable, and are ready for deployment, which may include conducting maintenance services on such contents of the stockpile and disposing of such contents that are no longer in working condition, or usable, as applicable;
 
-&emsp;&emsp;(E) devise plans for effective and timely supply-chain management of the stockpile, in consultation with the Director of the Centers for Disease Control and Prevention, the Assistant Secretary for Preparedness and Response, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of Veterans Affairs, and the heads of other appropriate Federal agencies; State, local, Tribal, and territorial agencies; and the public and private health care infrastructure, as applicable, taking into account the manufacturing capacity and other available sources of products and appropriate alternatives to supplies in the stockpile;
+&emsp;&emsp;(E) devise plans for effective and timely supply-chain management of the stockpile, in consultation with the Director of the Centers for Disease Control and Prevention, the Assistant Secretary for Preparedness andResponse, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of Veterans Affairs, and the heads of other appropriate Federal agencies; State, local, Tribal, and territorial agencies; and the public and private health care infrastructure, as applicable, taking into account the manufacturing capacity and other available sources of products and appropriate alternatives to supplies in the stockpile;
 
 &emsp;&emsp;(F) deploy the stockpile at the discretion of the Secretary, in consultation with, or at the request of, the Secretary of Homeland Security, to respond to an actual or potential emergency;
 
@@ -208,7 +208,7 @@
 
 #### (C) Notice to Congress
 
-&emsp;&emsp;The Secretary and the Secretary of Homeland Security shall send to Congress, not later than March 15 of each year, all current material threat determinations and shall promptly notify the Committee on Health,Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives that a determination has been made pursuant to subparagraph (A) or (B).
+&emsp;&emsp;The Secretary and the Secretary of Homeland Security shall send to Congress, not later than March 15 of each year, all current material threat determinations and shall promptly notify the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives that a determination has been made pursuant to subparagraph (A) or (B).
 
 #### (D) Assuring access to threat information
 
@@ -218,7 +218,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Homeland Security Secretary, shall assess on an ongoing basis the availability and appropriateness of specific countermeasures to address specific threats identified under paragraph (2).
+&emsp;&emsp;The Secretary, in consultation with the Homeland Security Secretary, shall assess on an ongoing basis the availability and appropriateness of specific countermeasures toaddress specific threats identified under paragraph (2).
 
 #### (B) Information
 
@@ -332,7 +332,7 @@
 
 #### (VII) Sales exclusivity
 
-&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor is the exclusive supplier of the product to the Federal Government for a specified period of time, not to exceed the term of the contract, on the condition that the vendor is able to satisfy the needs of the Government. During the agreed period of sales exclusivity, the vendor shall not assign its rights of sales exclusivity to another entity or entities without approval by the Secretary. Such a sales exclusivity provision in such a contract shall constitute a valid basis for a sole source procurement under section 3304(a)(1) of title 41.
+&emsp;&emsp;&emsp;&emsp;The contract may provide that the vendor is the exclusive supplier of the product to the Federal Government for a specified period of time, not to exceed the term of the contract, on the condition that the vendor is able to satisfy the needs of the Government. During the agreed period of sales exclusivity, the vendor shall not assign its rights of salesexclusivity to another entity or entities without approval by the Secretary. Such a sales exclusivity provision in such a contract shall constitute a valid basis for a sole source procurement under section 3304(a)(1) of title 41.
 
 #### (VIII) Warm based surge capacity
 
@@ -400,7 +400,7 @@
 
 #### (III) Applicable government-wide regulations
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall implement this clause in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations apply to procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall implement this clause in accordance with government-wide regulations implementing such section 3304(a)(1) (including requirements that offers be solicited from as many potential sources as is practicable under the circumstances, that required notices be published, and that submitted offers be considered), as such regulations applyto procurements for which an agency has authority to use procedures other than competitive procedures when the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency.
 
 #### (v) Premium provision in multiple award contracts
 
@@ -448,7 +448,7 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 &emsp;(1) a physical accumulation (at one or more locations) of the supplies described in subsection (a); or
 
-&emsp;(2) a contractual agreement between the Secretary and a vendor or vendors underwhich such vendor or vendors agree to provide to such Secretary supplies described in subsection (a).
+&emsp;(2) a contractual agreement between the Secretary and a vendor or vendors under which such vendor or vendors agree to provide to such Secretary supplies described in subsection (a).
 
 #### (f) Authorization of appropriations
 
@@ -464,7 +464,7 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 #### (1) Authorization of appropriations
 
-&emsp;In addition to amounts appropriated to the special reserve fund prior to March 13, 2013, there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out section 247d–7e of this title (relating to the Biomedical Advanced Research and Development Authority), $7,100,000,000 for the period of fiscal years 2019 through 2028, to remain available until expended.
+&emsp;In addition to amounts appropriated to the special reserve fund prior to March 13, 2013,there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out section 247d–7e of this title (relating to the Biomedical Advanced Research and Development Authority), $7,100,000,000 for the period of fiscal years 2019 through 2028, to remain available until expended.
 
 #### (2) Use of special reserve fund for advanced research and development
 
@@ -578,7 +578,7 @@ Waiver.—The Secretary may, upon the request of a State, waive the requirement 
 
 #### (A) State reports
 
-&emsp;&emsp;Each entity receiving an award under paragraph (1) shall update, as appropriate, the plan established pursuant to paragraph (2)(A)(i) and submit to the Secretary an annual report on implementation of such plan, including any changes to the contents of the stockpile supported under such award. The Secretary shall use information obtained from such reports to inform the maintenance and management of the Strategic National Stockpile pursuant to subsection (a).
+&emsp;&emsp;Each entity receiving an award under paragraph (1) shall update, as appropriate,the plan established pursuant to paragraph (2)(A)(i) and submit to the Secretary an annual report on implementation of such plan, including any changes to the contents of the stockpile supported under such award. The Secretary shall use information obtained from such reports to inform the maintenance and management of the Strategic National Stockpile pursuant to subsection (a).
 
 #### (B) Reports to Congress
 
@@ -622,7 +622,7 @@ In subsec. (c)(7)(B)(iii)(II)(cc), "Section 4706 of title 41" substituted for "S
 
 In subsec. (c)(7)(B)(iii)(II)(ee), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(B)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority ofPub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(7)(B)(iv)(III), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -706,7 +706,7 @@ Subsec. (c)(6). Pub. L. 114–255, §3085(2)(D), substituted "Recommendations fo
 
 Subsec. (c)(6)(A). Pub. L. 114–255, §3085(2)(C), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary and the Homeland Security Secretary shall notify the appropriate congressional committees of each decision of the President to approve a recommendation under subparagraph (A). Such notice shall include an explanation of the decision to make available the special reserve fund as defined in subsection (h) for procurement of such a countermeasure, including, where available, the number of, nature of, and other information concerning potential suppliers of such countermeasure, and whether other potential suppliers of the same or similar countermeasures were considered and rejected for procurement under this section and the reasons therefor."
 
-Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A). Text of former subpar. (A) read as follows: "In the case of a security countermeasure that the Secretary has, in accordance with paragraphs (3) and (5), determined to be appropriate for procurement under this subsection, the Homeland Security Secretary and the Secretary shall jointly submit to the President, in coordination with the Director of the Office of Management and Budget, a recommendation that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure."
+Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A). Text offormer subpar. (A) read as follows: "In the case of a security countermeasure that the Secretary has, in accordance with paragraphs (3) and (5), determined to be appropriate for procurement under this subsection, the Homeland Security Secretary and the Secretary shall jointly submit to the President, in coordination with the Director of the Office of Management and Budget, a recommendation that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure."
 
 Subsec. (c)(6)(B). Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (D) as (B) and struck out former subpar. (B). Text of former subpar. (B) read as follows: "The special reserve fund as defined in subsection (h) is available for a procurement of a security countermeasure only if the President has approved a recommendation under subparagraph (A) regarding the countermeasure."
 
@@ -774,7 +774,7 @@ Subsec. (c)(4)(A). Pub. L. 109–417, §406(2)(C), inserted "not developed or" a
 
 Subsec. (c)(5)(B)(i). Pub. L. 109–417, §406(2)(D), substituted "to meet the stockpile needs" for "to meet the needs of the stockpile".
 
-Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted "cost" for "costs" in subpar. heading, struck out cl. (i) designation and heading before "The Homeland", and struck out heading and text of cl. (ii). Text read as follows: "The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section."
+Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted "cost" for "costs" in subpar. heading, struck out cl. (i) designation and heading before "The Homeland", and struck out heading and text of cl. (ii). Textread as follows: "The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section."
 
 Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: "The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government."
 
@@ -940,133 +940,7 @@ Sunset.—The authority to enter into new contracts under this section shall cea
 
 #### First Responder Anthrax Preparedness
 
-Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, provided that:
-
-#### "SECTION 1. SHORT TITLE.
-
-"This Act may be cited as the 'First Responder Anthrax Preparedness Act'.
-
-#### "SEC. 2. VOLUNTARY PRE-EVENT ANTHRAX VACCINATION PILOT PROGRAM FOR EMERGENCY RESPONSE PROVIDERS.
-
-"(a)
-
-Pilot Program.—
-
-&emsp;"(1)
-
-Establishment.—The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall carry out a pilot program to provide eligible anthrax vaccines from the Strategic National Stockpile under section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)) that will be nearing the end of their labeled dates of use at the time such vaccines are made available to States for administration to emergency response providers who would be at high risk of exposure to anthrax if such an attack should occur and who voluntarily consent to such administration.
-
-&emsp;"(2)
-
-Determination.—The Secretary of Health and Human Services shall determine whether an anthrax vaccine is eligible to be provided to the Secretary of Homeland Security for the pilot program described in paragraph (1) based on—
-
-&emsp;&emsp;"(A) a determination that the vaccine is not otherwise allotted for other purposes;
-
-&emsp;&emsp;"(B) a determination that the provision of the vaccine will not reduce, or otherwise adversely affect, the capability to meet projected requirements for this product during a public health emergency, including a significant reduction of available quantities of vaccine in the Strategic National Stockpile; and
-
-&emsp;&emsp;"(C) such other considerations as determined appropriate by the Secretary of Health and Human Services.
-
-&emsp;"(3)
-
-Preliminary requirements.—Before implementing the pilot program required under this subsection, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall—
-
-&emsp;&emsp;"(A) establish a communication platform for the pilot program;
-
-&emsp;&emsp;"(B) develop and deliver education and training for the pilot program;
-
-&emsp;&emsp;"(C) conduct economic analysis of the pilot program, including a preliminary estimate of total costs and expected benefits;
-
-&emsp;&emsp;"(D) create a logistical platform for the anthrax vaccine request process under the pilot program;
-
-&emsp;&emsp;"(E) establish goals and desired outcomes for the pilot program; and
-
-&emsp;&emsp;"(F) establish a mechanism to reimburse the Secretary of Health and Human Services for—
-
-&emsp;&emsp;&emsp;"(i) the costs of shipment and transportation of such vaccines provided to the Secretary of Homeland Security from the Strategic National Stockpile under such pilot program, including staff time directly supporting such shipment and transportation; and
-
-&emsp;&emsp;&emsp;"(ii) the amount, if any, by which the warehousing costs of the Strategic National Stockpile are increased in order to operate such pilot program.
-
-&emsp;"(4)
-
-Location.—
-
-&emsp;&emsp;"(A)
-
-In general.—In carrying out the pilot program required under this subsection, the Secretary of Homeland Security shall select not fewer than 2 nor more than 5 States for voluntary participation in the pilot program.
-
-&emsp;&emsp;"(B)
-
-Requirement.—Each State that participates in the pilot program under this subsection shall ensure that such participation is consistent with the All-Hazards Public Health Emergency Preparedness and Response Plan of the State developed under section 319C–1 of the Public Health Service Act (42 U.S.C. 247d–3a).
-
-&emsp;"(5)
-
-Guidance for selection.—To ensure that participation in the pilot program under this subsection strategically increases State and local response readiness in the event of an anthrax release, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall provide guidance to participating States and units of local government on identifying emergency response providers who are at high risk of exposure to anthrax.
-
-&emsp;"(6)
-
-Distribution of information.—The Secretary of Homeland Security shall require that each State that participates in the pilot program under this subsection submit a written certification to the Secretary of Homeland Security stating that each emergency response provider within the State that participates in the pilot program is provided with disclosures and educational materials designated by the Secretary of Health and Human Services, which may include—
-
-&emsp;&emsp;"(A) materials regarding the associated benefits and risks of any vaccine provided under the pilot program, and of exposure to anthrax;
-
-&emsp;&emsp;"(B) additional material consistent with the Centers for Disease Control and Prevention's clinical guidance; and
-
-&emsp;&emsp;"(C) notice that the Federal Government is not obligated to continue providing anthrax vaccine after the date on which the pilot program ends.
-
-&emsp;"(7)
-
-Memorandum of understanding.—Before implementing the pilot program under this subsection, the Secretary of Homeland Security shall enter into a memorandum of understanding with the Secretary of Health and Human Services to—
-
-&emsp;&emsp;"(A) define the roles and responsibilities of each Department for the pilot program; and
-
-&emsp;&emsp;"(B) establish other performance metrics and policies for the pilot program, as appropriate.
-
-&emsp;"(8)
-
-Report.—
-
-&emsp;&emsp;"(A)
-
-In general.—Notwithstanding subsection (c), not later than 1 year after the date on which the initial vaccines are administered under this section, and annually thereafter until 1 year after the completion of the pilot program under this section, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall submit to the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the progress and results of the pilot program, including—
-
-&emsp;&emsp;&emsp;"(i) a detailed tabulation of the costs to administer the program, including—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) total costs for management and administration;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) total costs to ship vaccines;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) total number of full-time equivalents allocated to the program; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) total costs to the Strategic National Stockpile;
-
-&emsp;&emsp;&emsp;"(ii) the number and percentage of eligible emergency response providers, as determined by each pilot location, that volunteer to participate;
-
-&emsp;&emsp;&emsp;"(iii) the degree to which participants complete the vaccine regimen;
-
-&emsp;&emsp;&emsp;"(iv) the total number of doses of vaccine administered; and
-
-&emsp;&emsp;&emsp;"(v) recommendations to improve initial and recurrent participation in the pilot program.
-
-&emsp;&emsp;"(B)
-
-Final report.—The final report required under subparagraph (A) shall—
-
-&emsp;&emsp;&emsp;"(i) consider whether the pilot program required under this subsection should continue after the date described in subsection (c); and
-
-&emsp;&emsp;&emsp;"(ii) include—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an analysis of the costs and benefits of continuing the program to provide anthrax vaccines to emergency response providers;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an explanation of the economic, health, and other risks and benefits of administering vaccines through the pilot program rather than post-event treatment; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) in the case of a recommendation under clause (i) to continue the pilot program after the date described in subsection (c), a plan under which the pilot program could be continued.
-
-"(b)
-
-Deadline for Implementation.—Not later than 1 year after the date of enactment of this Act \[Dec. 14,2016\], the Secretary of Homeland Security shall begin implementing the pilot program under this section.
-
-"(c)
-
-Sunset.—The authority to carry out the pilot program under this section shall expire on the date that is 5 years after the date of enactment of this Act \[Dec. 14, 2016\]."
+Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, known as the First Responder Anthrax Preparedness Act, which required the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, to carry out a pilot program to provide from the Strategic National Stockpile eligible anthrax vaccines nearing end of their labeled dates of use to consenting emergency response providers at high risk of exposure to anthrax if an attack should occur, expired on the date that is 5 years after Dec. 14, 2016.
 
 #### Stockpile Functions Transferred
 
@@ -1096,7 +970,7 @@ Pub. L. 107–188, title I, §127, June 12, 2002, 116 Stat. 615, provided that:
 
 "(a)
 
-In General.—Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, 42 U.S.C. 247d–6b\], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
+In General.—Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, 42 U.S.C. 247d–6b\], the President, subject to subsections\(b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
 
 "(b)
 
@@ -1220,7 +1094,7 @@ Sec. 2. <i>Maximizing Domestic Production in Procurement</i>. (a) Agencies shall
 
 (i) where the head of the agency determines in writing, with respect to a specific contract or order, that (1) their application would be inconsistent with the public interest; (2) the relevant Essential Medicines, Medical Countermeasures, and Critical Inputs are not produced in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality; or (3) their application would cause the cost of the procurement to increase by more than 25 percent, unless applicable law requires a higher percentage, in which case such higher percentage shall apply;
 
-(ii) with respect to the procurement of items that are necessary to respond to any public health emergencydeclared under section 319 of the Public Health Service Act (42 U.S.C. 247d), any major disaster or emergency declared under the Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), or any national emergency declared under the National Emergencies Act (50 U.S.C. 1601 et seq.).
+(ii) with respect to the procurement of items that are necessary to respond to any public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), any major disaster or emergency declared under the Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), or any national emergency declared under the National Emergencies Act (50 U.S.C. 1601 et seq.).
 
 (g) To the maximum extent permitted by law, any public interest determination made pursuant to section 2(f)(i)(1) of this order shall be construed to maximize the procurement and use of Essential Medicines and Medical Countermeasures produced in the United States.
 

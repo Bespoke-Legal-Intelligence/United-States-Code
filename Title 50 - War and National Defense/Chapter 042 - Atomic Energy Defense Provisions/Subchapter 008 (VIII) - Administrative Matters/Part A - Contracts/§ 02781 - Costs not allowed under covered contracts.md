@@ -40,7 +40,7 @@ In this section, "covered contract" means a contract for an amount more than $10
 
 #### (d) Effective date
 
-Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
+Subsection (a) shall apply with respect to costs incurred under a covered contract on orafter 30 days after the regulations required by subsection (b) are issued.
 
 (Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, §3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 113–66, div. C, title XXXI, §3146(i)(1), Dec. 26, 2013, 127 Stat. 1081.)
 

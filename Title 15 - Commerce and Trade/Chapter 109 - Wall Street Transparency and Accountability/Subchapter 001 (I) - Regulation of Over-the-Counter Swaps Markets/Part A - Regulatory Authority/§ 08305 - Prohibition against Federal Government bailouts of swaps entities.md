@@ -102,7 +102,7 @@ The prohibition in subsection (a) shall be effective 2 years following the date 
 
 #### (A) FDIC insured institutions
 
-&emsp;&emsp;All swaps entities that are FDIC insured institutions that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
+&emsp;&emsp;All swaps entities that are FDIC insured institutions that are put into receivership ordeclared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
 
 #### (B) Institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12
 

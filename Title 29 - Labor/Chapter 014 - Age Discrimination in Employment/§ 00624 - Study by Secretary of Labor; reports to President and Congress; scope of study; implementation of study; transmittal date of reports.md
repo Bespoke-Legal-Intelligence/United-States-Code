@@ -28,5 +28,5 @@ Section 3(a) of the Age Discrimination in Employment Act Amendments of 1978, ref
 
 #### Study To Analyze Potential Consequences of Elimination of Mandatory Retirement on Institutions of Higher Education
 
-Pub. L. 99–592, §6(c), Oct. 31, 1986, 100 Stat. 3344, required the Equal Employment Opportunity Commission, not later than 12 months after Oct. 31, 1986, to enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education and to report the results of the study, with recommendations, to the President and to Congress not later than 5 years after Oct. 31, 1986.
+Pub. L. 99–592, §6(c), Oct. 31, 1986, 100 Stat. 3344, required the Equal Employment Opportunity Commission, not later than 12 months after Oct. 31, 1986, to enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education and toreport the results of the study, with recommendations, to the President and to Congress not later than 5 years after Oct. 31, 1986.
 

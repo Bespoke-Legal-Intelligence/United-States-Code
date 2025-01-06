@@ -23,7 +23,7 @@
 | \[2676, 2677. Renumbered or Repealed.\] |  |
 | [2678\.](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md) | Feral horses and burros: removal from military installations. |
 | [2679\.](%C2%A7%2002679%20-%20Installation-support%20services%20intergovernmental%20support%20agreements.md) | Installation-support services: intergovernmental support agreements. |
-| \[2680. | Repealed.\] |
+| [2680\.](%C2%A7%2002680%20-%20Minimum%20capital%20investment%20for%20facilities%20sustainment%2C%20restoration%2C%20and%20modernization%20for%20military%20departments.md) | Minimum capital investment for facilities sustainment, restoration, and modernization for military departments. |
 | \[2681. | Renumbered.\] |
 | [2682\.](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md) | Facilities for defense agencies. |
 | [2683\.](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md) | Relinquishment of legislative jurisdiction; minimum drinking age on military installations. |
@@ -45,9 +45,13 @@
 | [2694d.](%C2%A7%2002694d%20-%20Participation%20in%20pollutant%20banks%20and%20water%20quality%20trading.md) | Participation in pollutant banks and water quality trading. |
 | [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
 | [2696\.](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md) | Real property: transfer between armed forces and screening requirements for other Federal use. |
-| [2697\.](%C2%A7%2002697%20-%20Acceptance%20and%20use%20of%20landing%20fees%20charged%20for%20use%20of%20domestic%20military%20airfields%20by%20civil%20aircraft.md) | Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft. |
+| [2697\.](%C2%A7%2002697%20-%20Acceptance%20and%20use%20of%20landing%20fees%20charged%20for%20use%20of%20military%20airfields%20by%20civil%20aircraft.md) | Acceptance and use of landing fees charged for use of military airfields by civil aircraft. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendment of Analysis
+
+<i>Pub. L. 118–159, div. B, title XXVIII, §2846(b), Dec. 23, 2024, 138 Stat. 2264, provided</i><i>that, eff. Oct. 1, 2027, this analysis is amended by inserting "domestic" before "military airfields" in item 2697. See 2024 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -58,6 +62,10 @@ This section makes necessary clerical amendments to chapter analysis.
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. B, title XXVIII, §2846(b)(1), Dec. 23, 2024, 138 Stat. 2264, inserted "domestic" before "military airfields" in item 2697. Amendment was made pursuant to operation of section 102 of this title.
+
+Pub. L. 118–159, div. B, title XXVIII, §§2841(a), 2846(a)(1), Dec. 23, 2024, 138 Stat. 2262, 2264, added item 2680 and struck out "domestic" before "military airfields" in item 2697. Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title III, §311(a), Dec. 22, 2023, 137 Stat. 213, added item 2693. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -73,7 +81,7 @@ Pub. L. 116–283, div. A, title XXVIII, §2822(b)(3), Jan. 1, 2021, 134 Stat. 4
 
 <b>2014</b>—Pub. L. 113–291, div. A, title III, §351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
 
-<b>2011</b>—Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464,struck out item 2680 "Leases: land for special operations activities" and added item 2697.
+<b>2011</b>—Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 "Leases: land for special operations activities" and added item 2697.
 
 <b>2009</b>—Pub. L. 111–84, div. B, title XXVIII, §2822(a)(2), Oct. 28, 2009, 123 Stat. 2666, added item 2687a.
 
@@ -117,7 +125,7 @@ Pub. L. 100–180, div. A, title XI, §1112(b)(3), Dec. 4, 1987, 101 Stat. 1147,
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted "Fuel sources for heating systems" for "Restriction on fuel sources for new heating systems" in item 2690 and added item 2693.
 
-Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a "Sale and replacement of nonexcess real property", eff. Oct. 1, 1986.
+Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985,99 Stat. 988, struck out item 2667a "Sale and replacement of nonexcess real property", eff. Oct. 1, 1986.
 
 <b>1985</b>—Pub. L. 99–167, title VIII, §810(b)(2), Dec. 3, 1985, 99 Stat. 990, substituted "$200,000" for "$100,000" in item 2672.
 
@@ -375,7 +383,7 @@ Use of Fluorine-free Foam at Military Installations.—
 
 &emsp;"(1)
 
-Military specification.—Not later than January 31, 2023, the Secretary of the Navy shall publisha military specification for a fluorine-free fire-fighting agent for use at all military installations and ensure that such agent is available for use by not later than October 1, 2023.
+Military specification.—Not later than January 31, 2023, the Secretary of the Navy shall publish a military specification for a fluorine-free fire-fighting agent for use at all military installations and ensure that such agent is available for use by not later than October 1, 2023.
 
 &emsp;"(2)
 
@@ -797,7 +805,7 @@ Credentialed Transportation Workers With Secret Clearance.—TWIC-carrying trans
 - [&sect; 02677 - Repealed. Pub. L. 110&#8211;181, div. B, title XXVIII, &sect;2822(b)(1), Jan. 28, 2008, 122 Stat. 544](%C2%A7%2002677%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20544.md)
 - [&sect; 02678 - Feral horses and burros removal from military installations](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md)
 - [&sect; 02679 - Installation-support services intergovernmental support agreements](%C2%A7%2002679%20-%20Installation-support%20services%20intergovernmental%20support%20agreements.md)
-- [&sect; 02680 - Repealed. Pub. L. 111&#8211;383, div. B, title XXVIII, &sect;2814(a), Jan. 7, 2011, 124 Stat. 4464](%C2%A7%2002680%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93383%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72814%28a%29%2C%20Jan.%207%2C%202011%2C%20124%20Stat.%204464.md)
+- [&sect; 02680 - Minimum capital investment for facilities sustainment, restoration, and modernization for military departments](%C2%A7%2002680%20-%20Minimum%20capital%20investment%20for%20facilities%20sustainment%2C%20restoration%2C%20and%20modernization%20for%20military%20departments.md)
 - [&sect; 02681 - Renumbered &sect;4175](%C2%A7%2002681%20-%20Renumbered%20%C2%A74175.md)
 - [&sect; 02682 - Facilities for defense agencies](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md)
 - [&sect; 02683 - Relinquishment of legislative jurisdiction; minimum drinking age on military installations](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md)
@@ -820,4 +828,4 @@ Credentialed Transportation Workers With Secret Clearance.—TWIC-carrying trans
 - [&sect; 02694d - Participation in pollutant banks and water quality trading](%C2%A7%2002694d%20-%20Participation%20in%20pollutant%20banks%20and%20water%20quality%20trading.md)
 - [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
 - [&sect; 02696 - Real property transfer between armed forces and screening requirements for other Federal use](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md)
-- [&sect; 02697 - Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft](%C2%A7%2002697%20-%20Acceptance%20and%20use%20of%20landing%20fees%20charged%20for%20use%20of%20domestic%20military%20airfields%20by%20civil%20aircraft.md)
+- [&sect; 02697 - Acceptance and use of landing fees charged for use of military airfields by civil aircraft](%C2%A7%2002697%20-%20Acceptance%20and%20use%20of%20landing%20fees%20charged%20for%20use%20of%20military%20airfields%20by%20civil%20aircraft.md)

@@ -86,7 +86,7 @@ Pub. L. 99–335, title III, §311, June 6, 1986, 100 Stat. 608, provided that:
 
 "(a)
 
-Initial Appointment of Members.—Section 8472(c) of title 5, United States Code (as added by section 101(a) of this Act) shall not apply to the members of the Federal Retirement Thrift Investment Board first appointed to such Board.
+Initial Appointment of Members.—Section 8472(c) of title 5, United States Code (as added by section 101(a) of this Act) shall not apply to the membersof the Federal Retirement Thrift Investment Board first appointed to such Board.
 
 "(b)
 

@@ -86,7 +86,7 @@ In this section:
 
 #### (B) Considerations
 
-&emsp;&emsp;In making the determination under this paragraph, the Secretary shall consider theresults of the assessment conducted under subsection (g)(2)(A) and any other relevant information.
+&emsp;&emsp;In making the determination under this paragraph, the Secretary shall consider the results of the assessment conducted under subsection (g)(2)(A) and any other relevant information.
 
 #### (2) Establishment
 
@@ -468,7 +468,7 @@ In this section:
 
 #### (ii) Aggregated release
 
-&emsp;&emsp;&emsp;Information described in clause (i) may be released to the public if the information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied or is the subject of the particular information.
+&emsp;&emsp;&emsp;Information described in clause (i) may be released to the public if the information has been transformed into a statistical oraggregate form that does not allow the identification of the person who supplied or is the subject of the particular information.
 
 #### (2) Exception
 
@@ -508,7 +508,7 @@ Act of August 30, 1890, referred to in subsec. (f)(2)(C)(vi), is act Aug. 30, 18
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-Section 1003 of the American Rescue Plan Act of 2021, referred to in subsec. (i)(2)(A), is section 1003 of Pub. L.117–2, title I, Mar. 11, 2021, 135 Stat. 12, which is not classified to the Code.
+Section 1003 of the American Rescue Plan Act of 2021, referred to in subsec. (i)(2)(A), is section 1003 of Pub. L. 117–2, title I, Mar. 11, 2021, 135 Stat. 12, which is not classified to the Code.
 
 #### Codification
 

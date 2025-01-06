@@ -6,7 +6,7 @@ No employer shall discharge or in any manner discriminate against any employee w
 
 &emsp;(1) received a credit under section 36B of title 26 or a subsidy under section 18071 of title 42; <sup>1</sup>
 
-&emsp;(2) provided, caused to be provided, or is about to provide or cause to be provided to the employer, the Federal Government, or the attorney general of a State information relatingto any violation of, or any act or omission the employee reasonably believes to be a violation of, any provision of this title <sup>1</sup> (or an amendment made by this title); <sup>1</sup>
+&emsp;(2) provided, caused to be provided, or is about to provide or cause to be provided to the employer, the Federal Government, or the attorney general of a State information relating to any violation of, or any act or omission the employee reasonably believes to be a violation of, any provision of this title <sup>1</sup> (or an amendment made by this title); <sup>1</sup>
 
 &emsp;(3) testified or is about to testify in a proceeding concerning such violation;
 

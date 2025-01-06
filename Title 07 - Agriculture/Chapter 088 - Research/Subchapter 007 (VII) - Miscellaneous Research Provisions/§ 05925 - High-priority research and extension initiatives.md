@@ -170,7 +170,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (15) Laying hen and turkey research program
 
-&emsp;Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternativehousing systems under extreme seasonal weather conditions.
+&emsp;Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternative housing systems under extreme seasonal weather conditions.
 
 #### (16) Chronic wasting disease
 
@@ -356,7 +356,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;&emsp;&emsp;(i) assign an individual to serve in the Office of the Chief Scientist as a Honeybee and Pollinator Research Coordinator who shall be responsible for leading the efforts of the Chief Scientist in carrying out such subparagraph;
 
-&emsp;&emsp;&emsp;(ii) implement and coordinate pollinator health research efforts of the Department,as recommended by the Pollinator Health Task Force;
+&emsp;&emsp;&emsp;(ii) implement and coordinate pollinator health research efforts of the Department, as recommended by the Pollinator Health Task Force;
 
 &emsp;&emsp;&emsp;(iii) establish annual strategic priorities and goals for the Department for native and managed pollinator research;
 
@@ -480,7 +480,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §7614(b)(2)(C), designated first and second sentences as pars. (1) and (3), respectively, inserted headings, and added par. (2).
 
-Subsec. (d)(8). Pub. L. 115–334, §7209(1)(A), substituted, in heading, "Alfalfa seed and alfalfa forage systems" for "Alfalfa and forage", and in text, substituted "alfalfa seed and alfalfa forage systems" for "alfalfa and forage" and "alfalfa seed and other alfalfa forage" for "alfalfa and other forages, and".
+Subsec. (d)(8). Pub. L. 115–334, §7209(1)(A), substituted, in heading, "Alfalfa seed and alfalfa forage systems" for "Alfalfa and forage", and in text, substituted "alfalfa seed and alfalfa forage systems" for "alfalfa andforage" and "alfalfa seed and other alfalfa forage" for "alfalfa and other forages, and".
 
 Subsec. (d)(11) to (20). Pub. L. 115–334, §7209(1)(B), added pars. (11) to (20).
 
@@ -584,7 +584,7 @@ Research required.—The Secretary of Agriculture shall establish and carry out 
 
 Preference.—In making grants under this subsection, the Secretary may give preference to those colleges and universities that, as of November 28, 1990, are conducting research described in this subsection."
 
-Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struck out heading and text of former subsec. (g). Text read as follows: "The Secretary shall make research and extension grants available for the development of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
+Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struck out heading and text of former subsec. (g). Text read as follows: "The Secretary shall make research and extension grants available for thedevelopment of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
 
 &emsp;"(1) with a high concentration of small farm operations; and
 
@@ -680,7 +680,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. Within 180 days of the da
 
 (a) <i>Pollinator Research Action Plan</i>. The Strategy shall include an Action Plan (Plan) to focus Federal efforts on understanding, preventing, and recovering from pollinator losses. The Plan shall be informed by research on relevant topics and include:
 
-(i) studies of the health of managed honey bees and native bees, including longitudinal studies, to determine the relative contributions of, and mitigation strategies for, different stressors leading to species declines and colony collapse disorder, including exposure to pesticides, poor nutrition, parasites and other pests, toxins, loss of habitat and reduced natural forage, pathogens, and unsustainable management practices;
+(i) studies of the health of managed honey bees and native bees, including longitudinal studies, to determine the relative contributions of, and mitigation strategies for, different stressors leading to species declines and colony collapse disorder, including exposure to pesticides, poor nutrition, parasites and other pests,toxins, loss of habitat and reduced natural forage, pathogens, and unsustainable management practices;
 
 (ii) plans for expanded collection and sharing of data related to pollinator losses, technologies for continuous monitoring of honey bee hive health, and use of public-private partnerships, as appropriate, to provide information on the status and trends of managed hive losses;
 
@@ -724,7 +724,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (l) The Environmental Protection Agency shall assess the effect of pesticides, including neonicotinoids, on bee and other pollinator health and take action, as appropriate, to protect pollinators; engage State and tribal environmental, agricultural, and wildlife agencies in the development of State and tribal pollinator protection plans; encourage the incorporation of pollinator protection and habitat planting activities into green infrastructure and Superfund projects; and expedite review of registration applications for new products targeting pests harmful to pollinators.
 
-(m) Executive departments and agencies shall, as appropriate, take immediate measures to support pollinators during the 2014 growing season and thereafter. These measures may include planting pollinator-friendly vegetation and increasing flower diversity in plantings, limiting mowing practices, and avoiding the use of pesticides in sensitive pollinator habitats through integrated vegetation and pest management practices.
+(m) Executive departments and agencies shall, as appropriate, take immediate measures to support pollinators during the 2014 growing season and thereafter. These measures may include planting pollinator-friendly vegetation and increasing flower diversity in plantings, limiting mowing practices, and avoiding the useof pesticides in sensitive pollinator habitats through integrated vegetation and pest management practices.
 
 Sec. 4. <i>General Provisions</i>. (a) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
 

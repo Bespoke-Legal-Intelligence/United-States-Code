@@ -10,7 +10,7 @@ The Secretary shall permit fishing on lands and waters under his jurisdiction wi
 
 #### (c) Preparation of management plan; submission to Congress; amendment of plan
 
-After notice and opportunity for public hearing, the Secretary shall prepare a management plan for the park. The Secretary shall submitsuch plan to the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate within three years after October 27, 1986. Such plan may be amended from time to time. The plan shall include, but not be limited to, provisions related to grazing within the park to the extent permitted under subsection (e) and provisions providing for the appropriate management of fish and wildlife and fishing within the park in accordance with subsection (b). Such provisions shall be adopted only after consultation with the appropriate State agency having jurisdiction over fish and wildlife.
+After notice and opportunity for public hearing, the Secretary shall prepare a management plan for the park. The Secretary shall submit such plan to the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate within three years after October 27, 1986. Such plan may be amended from time to time. The plan shall include, but not be limited to, provisions related to grazing within the park to the extent permitted under subsection (e) and provisions providing for the appropriate management of fish and wildlife and fishing within the park in accordance with subsection (b). Such provisions shall be adopted only after consultation with the appropriate State agency having jurisdiction over fish and wildlife.
 
 #### (d) Withdrawal of lands from mining and mineral leasing
 
@@ -49,6 +49,8 @@ Nothing in this subchapter shall be construed to establish a new express or impl
 In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for the interpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
 
 (Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+
 
 #### <b>Editorial Notes</b>
 

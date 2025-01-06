@@ -58,7 +58,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;&emsp;(iii) the sale of annuities, investments, long-term care insurance, or any other type of financial or insurance product;
 
-&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage and which are not required to obtain the mortgage; and
+&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage andwhich are not required to obtain the mortgage; and
 
 &emsp;&emsp;(D) meets any additional requirements prescribed by the Secretary;
 

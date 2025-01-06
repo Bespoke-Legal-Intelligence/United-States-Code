@@ -15,3 +15,5 @@ subpart 2—promoting safe and stable families
 - [&sect; 00629g - Discretionary and targeted grants](%C2%A7%2000629g%20-%20Discretionary%20and%20targeted%20grants.md)
 - [&sect; 00629h - Entitlement funding for State courts to assess and improve handling of proceedings relating to foster care and adoption](%C2%A7%2000629h%20-%20Entitlement%20funding%20for%20State%20courts%20to%20assess%20and%20improve%20handling%20of%20proceedings%20relating%20to%20foster%20care%20and%20adoption.md)
 - [&sect; 00629i - Grants for programs for mentoring children of prisoners](%C2%A7%2000629i%20-%20Grants%20for%20programs%20for%20mentoring%20children%20of%20prisoners.md)
+- [&sect; 00629k - Reduction of administrative burden](%C2%A7%2000629k%20-%20Reduction%20of%20administrative%20burden.md)
+- [&sect; 00629l - Public access to State plans](%C2%A7%2000629l%20-%20Public%20access%20to%20State%20plans.md)

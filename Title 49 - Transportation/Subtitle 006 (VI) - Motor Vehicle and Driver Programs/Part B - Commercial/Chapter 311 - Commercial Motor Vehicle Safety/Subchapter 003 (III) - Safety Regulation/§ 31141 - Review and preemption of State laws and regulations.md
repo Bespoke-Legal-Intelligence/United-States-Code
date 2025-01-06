@@ -42,7 +42,7 @@ Additional or more stringent regulations.—If the Secretary decides a State law
 
 &emsp;(5)
 
-Consideration of effect on interstate commerce.—In deciding under paragraph (4) whether a State law or regulation will cause an unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
+Consideration of effect on interstate commerce.—In deciding under paragraph (4)whether a State law or regulation will cause an unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
 
 (d)
 

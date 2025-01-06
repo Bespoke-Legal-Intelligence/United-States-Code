@@ -4,7 +4,7 @@
 
 There is hereby established the Gettysburg National Military Park Advisory Commission (hereafter in sections 430g–8 to 430g–10 of this title referred to as the "Advisory Commission"). The Advisory Commission shall be composed of eleven members, as follows:
 
-&emsp;(1) One member representing each of the local governments from the four townships surrounding the park and the Borough of Gettysburg, appointed by the Secretary.
+&emsp;(1) One member representing each of the local governments from the four townshipssurrounding the park and the Borough of Gettysburg, appointed by the Secretary.
 
 &emsp;(2) One member representing the Adams County, Pennsylvania government, appointed by the Secretary.
 

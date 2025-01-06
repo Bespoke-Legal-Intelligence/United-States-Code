@@ -18,5 +18,5 @@ Not later than 1 year after December 21, 2018, and annually thereafter, the Exec
 
 #### Codification
 
-Section was enacted as part of the Trafficking Victims Protection Act of 2017, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Trafficking Victims Protection Act of 2017, and not as part of theHomeland Security Act of 2002 which comprises this chapter.
 

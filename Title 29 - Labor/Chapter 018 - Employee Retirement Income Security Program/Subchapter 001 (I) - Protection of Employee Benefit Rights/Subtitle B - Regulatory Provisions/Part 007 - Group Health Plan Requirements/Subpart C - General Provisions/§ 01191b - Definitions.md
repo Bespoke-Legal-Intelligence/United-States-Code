@@ -6,7 +6,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term "group health plan" means an employee welfare benefit plan to the extent that the plan provides medical care (as defined in paragraph (2) and including items and services paid for as medical care) to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise. Such term shall notinclude any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26).
+&emsp;The term "group health plan" means an employee welfare benefit plan to the extent that the plan provides medical care (as defined in paragraph (2) and including items and services paid for as medical care) to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise. Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26).
 
 #### (2) Medical care
 
@@ -192,7 +192,7 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–255 applicable to plan years beginning after Dec. 31, 2016, see section 18001(b)(3) of Pub. L. 114–255, set out as a note under section 1167 of this title.
+Amendment by Pub. L. 114–255 applicable to plan years beginning after Dec. 31, 2016, see section18001(b)(3) of Pub. L. 114–255, set out as a note under section 1167 of this title.
 
 #### Effective Date of 2008 Amendment
 

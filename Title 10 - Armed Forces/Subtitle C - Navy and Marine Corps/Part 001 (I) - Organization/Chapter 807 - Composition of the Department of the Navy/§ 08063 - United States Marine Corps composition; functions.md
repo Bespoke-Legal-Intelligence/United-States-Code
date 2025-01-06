@@ -6,7 +6,7 @@
 
 (c) The Marine Corps is responsible, in accordance with integrated joint mobilization plans, for the expansion of peacetime components of the Marine Corps to meet the needs of war.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 278, §5013; renumbered §5063, Pub. L. 99–433, title V, §511(b)(3), Oct. 1, 1986, 100 Stat. 1043; renumbered §8063, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 278, §5013; renumbered §5063, Pub. L. 99–433, title V,§511(b)(3), Oct. 1, 1986, 100 Stat. 1043; renumbered §8063, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 

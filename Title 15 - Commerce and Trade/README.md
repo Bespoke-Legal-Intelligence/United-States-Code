@@ -155,6 +155,7 @@
 | [<b>120.</b>](Chapter%20120%20-%20Minority%20Business%20Development/README.md) | <b>Minority Business Development</b> | <b>9501</b> |
 | [<b>121.</b>](Chapter%20121%20-%20Flood%20Level%20Observation%2C%20Operations%2C%20and%20Decision%20Support/README.md) | <b>Flood Level Observation, Operations, and Decision Support</b> | <b>9701</b> |
 | [<b>122.</b>](Chapter%20122%20-%20Travel%20and%20Tourism/README.md) | <b>Travel and Tourism</b> | <b>9801</b> |
+| [<b>123.</b>](Chapter%20123%20-%20Protecting%20Americans%27%20Data%20from%20Foreign%20Adversaries/README.md) | <b>Protecting Americans' Data From Foreign Adversaries</b> | <b>9901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -315,3 +316,4 @@
 - [Chapter 120 - Minority Business Development](Chapter%20120%20-%20Minority%20Business%20Development/README.md)
 - [Chapter 121 - Flood Level Observation, Operations, and Decision Support](Chapter%20121%20-%20Flood%20Level%20Observation%2C%20Operations%2C%20and%20Decision%20Support/README.md)
 - [Chapter 122 - Travel and Tourism](Chapter%20122%20-%20Travel%20and%20Tourism/README.md)
+- [Chapter 123 - Protecting Americans' Data from Foreign Adversaries](Chapter%20123%20-%20Protecting%20Americans%27%20Data%20from%20Foreign%20Adversaries/README.md)

@@ -108,7 +108,7 @@ Sec. 4. <i>Orders of Succession Not Requiring Presidential Action</i>. (a) Each 
 
 (b) Each agency described in subsection 4(a) of this order shall update and revise its order of succession as necessary. Before implementing any revisions to its order of succession, such agency shall send the proposed revisions to the Counsel to the President for review and comment.
 
-(c) Not later than 30 days from the date of this order, and not later than 7 days from the issuance date of any subsequent final revision to an existing order of succession, each agency described in subsection 4(a) of this order shall provide a copy of its order of succession to the Counsel to the President, the Assistant to the President for Homeland Security and Counterterrorism, and the Director of the Office of Management and Budget.
+(c) Not later than 30 days from the date of this order, and not later than 7 days from the issuance date of any subsequent final revision to an existing order of succession, each agency described in subsection 4(a) of this order shall provide a copy of its order of succession to the Counsel to the President, the Assistant to thePresident for Homeland Security and Counterterrorism, and the Director of the Office of Management and Budget.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -362,7 +362,7 @@ Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, super
 
 Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96337.
 
-Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805, revoked by Memorandum of President of the United States, §3, Dec. 23, 2016, 81 F.R. 96337.
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805, revoked by Memorandum ofPresident of the United States, §3, Dec. 23, 2016, 81 F.R. 96337.
 
 Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revoked by Memorandum of President of the United States, §3, Oct. 17, 2014, 79 F.R. 63805.
 

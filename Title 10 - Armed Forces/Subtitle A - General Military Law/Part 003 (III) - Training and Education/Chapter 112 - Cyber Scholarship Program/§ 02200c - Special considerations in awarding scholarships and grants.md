@@ -2,7 +2,7 @@
 
 (a)
 
-Centers of Academic Excellence in Cyber Education.—In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—
+Centers of Academic Excellence in Cyber Education.—In the selection of a recipient for the award of a scholarship or grant underthis chapter, consideration shall be given to whether—
 
 &emsp;(1) in the case of a scholarship, the institution at which the recipient pursues a degree is a Center of Academic Excellence in Cyber Education; and
 

@@ -106,7 +106,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(B) may be otherwise adulterated or misbranded,
 
-> the manufacturer shall promptly notify the Secretary of such knowledge. If the Secretary determines that the infant formula presents a risk to human health, the manufacturer shall immediately take all actions necessary to recall shipments of such infant formula from all wholesale and retail establishments, consistent with recall regulations and guidelines issued by the Secretary.
+> the manufacturer shall promptly notify the Secretary of such knowledge. If the Secretary determines that the infant formula presents a risk to human health, the manufacturer shall immediately take all actions necessary to recall shipments of such infant formula from all wholesale and retail establishments, consistent with recallregulations and guidelines issued by the Secretary.
 
 (2) For purposes of paragraph (1), the term "knowledge" as applied to a manufacturer means (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
 
@@ -270,7 +270,7 @@ NUTRIENTS
 
 &emsp;In this subsection, the term "specialty infant formula" means infant formula described in subsection (h)(1).
 
-(June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777; Pub. L. 117–328, div. FF, title III, §3401(c), (g)(1)–(4), (6), (l), Dec. 29, 2022, 136 Stat. 5838, 5840, 5841, 5845.)
+(June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27,1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777; Pub. L. 117–328, div. FF, title III, §3401(c), (g)(1)–(4), (6), (l), Dec. 29, 2022, 136 Stat. 5838, 5840, 5841, 5845.)
 
 #### <b>Editorial Notes</b>
 

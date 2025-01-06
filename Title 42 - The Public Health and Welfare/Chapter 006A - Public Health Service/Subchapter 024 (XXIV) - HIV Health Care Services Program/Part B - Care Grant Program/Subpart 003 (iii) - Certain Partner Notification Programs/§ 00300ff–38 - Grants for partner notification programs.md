@@ -20,7 +20,7 @@ For purposes of subsection (a), the laws or regulations of a State are in accord
 
 &emsp;&emsp;(B) The State does not inform partners of the identity of the infected individuals involved.
 
-&emsp;&emsp;(C) Counseling and testing for HIV/AIDS are made available to the partners and to infected individuals, and such counseling includes information on modes of transmissionfor the disease, including information on prenatal and perinatal transmission and preventing transmission.
+&emsp;&emsp;(C) Counseling and testing for HIV/AIDS are made available to the partners and to infected individuals, and such counseling includes information on modes of transmission for the disease, including information on prenatal and perinatal transmission and preventing transmission.
 
 &emsp;&emsp;(D) Counseling of infected individuals and their partners includes the provision of information regarding therapeutic measures for preventing and treating the deterioration of the immune system and conditions arising from the disease, and the provision of other prevention-related information.
 
@@ -52,7 +52,7 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

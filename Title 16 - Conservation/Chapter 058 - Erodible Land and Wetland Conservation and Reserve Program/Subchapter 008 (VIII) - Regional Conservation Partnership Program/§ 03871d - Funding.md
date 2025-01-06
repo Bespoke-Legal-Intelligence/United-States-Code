@@ -58,7 +58,7 @@ Of the funds made available for the program under subsection (a), the Secretary 
 
 Subsec. (c). Pub. L. 115–334, §2705(2)–(4)(A), redesignated subsec. (d) as (c), struck out "and acres" after "funds" and "and reserved for the program under subsection (c)" after "under subsection (a)" in introductory provisions, and struck out former subsec. (c) which related to reservation of additional funding and acres for each of fiscal years 2014 through 2018.
 
-Subsec. (c)(1). Pub. L. 115–334, §2705(4)(B), substituted "50 percent of the funds to projects based on a State ormultistate competitive process administered by the Secretary at the local level with the advice of the applicable State technical committees" for "25 percent of the funds and acres to projects based on a State competitive process administered by the State Conservationist, with the advice of the State technical committee" and inserted "and" at end.
+Subsec. (c)(1). Pub. L. 115–334, §2705(4)(B), substituted "50 percent of the funds to projects based on a State or multistate competitive process administered by the Secretary at the local level with the advice of the applicable State technical committees" for "25 percent of the funds and acres to projects based on a State competitive process administered by the State Conservationist, with the advice of the State technical committee" and inserted "and" at end.
 
 Subsec. (c)(2), (3). Pub. L. 115–334, §2705(4)(C)–(E), redesignated par. (3) as (2), substituted "50 percent of the funds" for "35 percent of the funds and acres", and struck out former par. (2) which read as follows: "40 percent of the funds and acres to projects based on a national competitive process to be established by the Secretary; and".
 

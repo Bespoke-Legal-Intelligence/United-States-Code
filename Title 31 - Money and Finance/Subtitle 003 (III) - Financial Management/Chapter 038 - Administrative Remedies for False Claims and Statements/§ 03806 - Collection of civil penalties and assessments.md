@@ -12,7 +12,23 @@
 
 (f) The Attorney General shall have exclusive authority to compromise or settle any penalty or assessment the determination of which is the subject of a pending petition pursuant to section 3805 of this title or a pending action to recover such penalty or assessment pursuant to this section.
 
-(g)(1) Except as provided in paragraph (2) of this subsection, any amount of penalty or assessment collected under this chapter shall be deposited as miscellaneous receipts in the Treasury of the United States.
+(g)(1)(A) Except as provided in paragraph (2)—
+
+&emsp;(i) any amount collected under this chapter shall be credited first to reimburse the authority or other Federal entity that expended costs in support of the investigation or prosecution of the action, including any court or hearing costs; and
+
+&emsp;(ii) amounts reimbursed under clause (i) shall—
+
+&emsp;&emsp;(I) be deposited in—
+
+&emsp;&emsp;&emsp;(aa) the appropriations account of the authority or other Federal entity from which the costs described in subparagraph (A) were obligated;
+
+&emsp;&emsp;&emsp;(bb) a similar appropriations account of the authority or other Federal entity; or
+
+&emsp;&emsp;&emsp;(cc) if the authority or other Federal entity expended nonappropriated funds, another appropriate account; and
+
+&emsp;&emsp;(II) remain available until expended.
+
+(B) Any amount remaining after reimbursements described in subparagraph (A) shall be deposited as miscellaneous receipts in the Treasury of the United States.
 
 (2)(A) Any amount of a penalty or assessment imposed by the United States Postal Service under this chapter shall be deposited in the Postal Service Fund established by section 2003 of title 39.
 
@@ -24,7 +40,7 @@
 
 (E) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part B of title XVIII of the Social Security Act shall be deposited in the Federal Supplementary Medical Insurance Trust Fund.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1945; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1945; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 118–159, div. E, title LII, §5203(d), Dec. 23, 2024, 138 Stat. 2440.)
 
 #### <b>Editorial Notes</b>
 
@@ -33,6 +49,8 @@
 The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§401 et seq.) and parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (g)(1). Pub. L. 118–159 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except as provided in paragraph (2) of this subsection, any amount of penalty or assessment collected under this chapter shall be deposited as miscellaneous receipts in the Treasury of the United States."
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 

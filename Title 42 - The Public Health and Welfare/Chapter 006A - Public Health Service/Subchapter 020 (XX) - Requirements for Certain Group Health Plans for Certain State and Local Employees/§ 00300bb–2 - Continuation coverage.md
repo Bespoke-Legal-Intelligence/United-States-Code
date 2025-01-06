@@ -26,7 +26,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (iv) Special rule for TAA-eligible individuals
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title with respect to a covered employee who is (as of the date that the period of coverage would, but for this clause or clause (v), otherwise terminate under clause (i) or (ii)) a TAA-eligible individual (as defined in section 300bb–5(b)(4)(B) of this title), the period of coverage shall not terminate by reason of clause (i) or (ii), as the case maybe, before the later of the date specified in such clause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title with respect to a covered employee who is (as of the date that the period of coverage would, but for this clause or clause (v), otherwise terminate under clause (i) or (ii)) a TAA-eligible individual (as defined in section 300bb–5(b)(4)(B) of this title), the period of coverage shall not terminate by reason of clause (i) or (ii), as the case may be, before the later of the date specified in such clause or the date on which such individual ceases to be such a TAA-eligible individual. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (v) Medicare entitlement followed by qualifying event
 
@@ -48,7 +48,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 &emsp;&emsp;The date on which the qualified beneficiary first becomes, after the date of the election—
 
-&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], or subchapter XXV of this chapter), or
+&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) whichdoes not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], or subchapter XXV of this chapter), or
 
 &emsp;&emsp;&emsp;(ii) entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 

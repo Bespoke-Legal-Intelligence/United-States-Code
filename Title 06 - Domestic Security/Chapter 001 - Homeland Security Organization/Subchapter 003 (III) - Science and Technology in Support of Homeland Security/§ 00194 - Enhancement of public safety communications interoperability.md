@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(H) establish coordinated guidance for Federal grant programs for public safety interoperable communications;
 
-&emsp;&emsp;(I) provide technical assistance to State and local public safety agencies regarding planning, acquisition strategies, interoperability architectures, training, and otherfunctions necessary to achieve public safety communications interoperability;
+&emsp;&emsp;(I) provide technical assistance to State and local public safety agencies regarding planning, acquisition strategies, interoperability architectures, training, and other functions necessary to achieve public safety communications interoperability;
 
 &emsp;&emsp;(J) develop and disseminate best practices to improve public safety communications interoperability; and
 
@@ -208,7 +208,7 @@ Pub. L. 114–120, title II, §212, Feb. 8, 2016, 130 Stat. 42, provided that:
 
 "(a)
 
-In General.—If the Secretary of Homeland Security determines that there are at least two communications systems described under paragraph (1)(B) and certified under paragraph (2), the Secretary shall establish and carry out a pilot program across not less than three components of the Department of Homeland Security to assess the effectiveness of a communications system that—
+In General.—If the Secretary of Homeland Security determines that there are at least two communications systems described under paragraph (1)(B) and certified under paragraph (2), the Secretary shall establish and carry out a pilot program across not less thanthree components of the Department of Homeland Security to assess the effectiveness of a communications system that—
 
 &emsp;"(1) provides for—
 

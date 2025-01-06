@@ -25,6 +25,38 @@
 
 <b>1987</b>—Pub. L. 100–180, div. A, title III, §319(a)(2), Dec. 4, 1987, 101 Stat. 1077, added item 4415.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Plan for Additional Skill Identifiers for Army Mountain Warfare School
+
+Pub. L. 118–159, div. A, title X, §1086, Dec. 23, 2024, 138 Stat. 2079, provided that:
+
+"(a)
+
+Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Army shall develop and implement a plan to establish. \[sic\] with regards to courses at the Army Mountain Warfare School, each of the following:
+
+&emsp;"(1) Additional skill identifiers for—
+
+&emsp;&emsp;"(A) enlisted members who complete the—
+
+&emsp;&emsp;&emsp;"(i) Advanced Military Mountaineer Course (Summer);
+
+&emsp;&emsp;&emsp;"(ii) Advanced Military Mountaineer Course (Winter);
+
+&emsp;&emsp;&emsp;"(iii) Rough Terrain Evacuation Course; or
+
+&emsp;&emsp;&emsp;"(iv) Mountain Rifleman Course;
+
+&emsp;&emsp;"(B) warrant officers who complete the Basic Military Mountaineer Course; and
+
+&emsp;&emsp;"(C) enlisted members and warrant officers who complete the Mountain Planner Course.
+
+&emsp;"(2) New skill identifiers for commissioned officers who complete the Basic Military Mountaineer Course or the Mountain Planner Course.
+
+"(b)
+
+Briefing on Plan.—Not later than 30 days after the date on which the Secretary completes the plan under subsection (a), the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the plan and the implementation of the plan."
+
 
 ---
 

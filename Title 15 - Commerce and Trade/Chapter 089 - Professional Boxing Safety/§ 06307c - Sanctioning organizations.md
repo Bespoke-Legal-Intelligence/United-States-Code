@@ -24,7 +24,7 @@ A sanctioning organization shall not be entitled to receive any compensation, di
 
 #### (1) Federal Trade Commission filing
 
-&emsp;A sanctioning organization shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match unless, not later than January 31 of each year, it submits to the Federal Trade Commission and to the ABC—
+&emsp;A sanctioning organization shall not be entitled to receive any compensation directly orindirectly in connection with a boxing match unless, not later than January 31 of each year, it submits to the Federal Trade Commission and to the ABC—
 
 &emsp;&emsp;(A) a complete description of the organization's ratings criteria, policies, and general sanctioning fee schedule;
 

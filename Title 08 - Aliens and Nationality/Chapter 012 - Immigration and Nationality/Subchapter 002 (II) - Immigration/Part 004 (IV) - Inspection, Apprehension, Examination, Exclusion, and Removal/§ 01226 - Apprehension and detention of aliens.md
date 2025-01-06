@@ -54,7 +54,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;(B) to officials of the Department of State for use in its automated visa lookout system.
 
-(3) Upon the request of the governor or chief executive officer of any State, the Service shall provide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
+(3) Upon the request of the governor or chief executive officer of any State, the Service shallprovide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
 
 #### (e) Judicial review
 
@@ -72,7 +72,7 @@ Subsecs. (a) to (d). Pub. L. 104–208, §371(b)(5), substituted "An immigration
 
 <b>1991</b>—Subsec. (e)(1). Pub. L. 102–232 substituted "upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)" for "upon completion of the alien's sentence for such conviction".
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–649, §603(a)(12), substituted "has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of section 1182(a) of this title" for "is afflicted with a disease specified in section 1182(a)(6) of this title, or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs\(1) to (4) or (5) of section 1182(a) of this title" and struck out at end "If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in section 1182(a)(6) of this title, the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of section 1183 of this title may be invoked."
+<b>1990</b>—Subsec. (d). Pub. L. 101–649, §603(a)(12), substituted "has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of section 1182(a) of this title" for "is afflicted with a disease specified in section 1182(a)(6) of this title, or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of section 1182(a) of this title" and struck out at end "If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in section 1182(a)(6) of this title, the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of section 1183 of this title may be invoked."
 
 Subsec. (e). Pub. L. 101–649, §504(b), added subsec. (e).
 

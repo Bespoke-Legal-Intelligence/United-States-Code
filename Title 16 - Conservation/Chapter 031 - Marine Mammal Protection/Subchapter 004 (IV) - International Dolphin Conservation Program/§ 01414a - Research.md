@@ -34,7 +34,7 @@
 
 &emsp;Research carried out under paragraph (1) may include—
 
-&emsp;&emsp;(A) projects to devise cost-effective fishing methods and gear so as to reduce, with thegoal of eliminating, the incidental mortality and serious injury of marine mammals in connection with commercial purse seine fishing in the eastern tropical Pacific Ocean;
+&emsp;&emsp;(A) projects to devise cost-effective fishing methods and gear so as to reduce, with the goal of eliminating, the incidental mortality and serious injury of marine mammals in connection with commercial purse seine fishing in the eastern tropical Pacific Ocean;
 
 &emsp;&emsp;(B) projects to develop cost-effective methods of fishing for mature yellowfin tuna without setting nets on dolphins or other marine mammals;
 
@@ -44,7 +44,7 @@
 
 #### (c) Authorization of appropriations
 
-(1) There are authorized to be appropriated to the Secretary the following amounts, to be used by the Secretary to carry out the research described in subsection (a):
+(1) There are authorized to be appropriated to the Secretary the following amounts, to be usedby the Secretary to carry out the research described in subsection (a):
 
 &emsp;(A) $4,000,000 for fiscal year 1998.
 

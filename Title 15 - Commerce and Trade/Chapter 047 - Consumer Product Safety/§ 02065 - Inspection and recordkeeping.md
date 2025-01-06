@@ -20,7 +20,7 @@ Upon request by an officer or employee duly designated by the Commission—
 
 &emsp;(2) every manufacturer shall identify by name, address, or such other identifying information as the officer or employee may request—
 
-&emsp;&emsp;(A) each retailer or distributor to which the manufacturer directly supplied a given consumer product (or other product or substance over which the Commission has jurisdiction under this chapter or any other Act);
+&emsp;&emsp;(A) each retailer or distributor to which the manufacturer directly supplied a givenconsumer product (or other product or substance over which the Commission has jurisdiction under this chapter or any other Act);
 
 &emsp;&emsp;(B) each subcontractor involved in the production or fabrication of such product or substance; and
 

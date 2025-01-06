@@ -2,7 +2,7 @@
 
 #### (a) Carriage obligations
 
-Each cable operator shall carry, on the cable system of that operator, the signals of local commercial television stations and qualified low power stations as provided by this section. Carriage of additional broadcast television signals on such system shall be at the discretion of such operator, subject to section 325(b) of this title.
+Each cable operator shall carry, on the cable system of that operator, the signals of localcommercial television stations and qualified low power stations as provided by this section. Carriage of additional broadcast television signals on such system shall be at the discretion of such operator, subject to section 325(b) of this title.
 
 #### (b) Signals required
 
@@ -46,7 +46,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (7) Signal availability
 
-&emsp;Signals carried in fulfillment of the requirements of this section shall be provided to every subscriber of a cable system. Such signals shall be viewable via cable on all television receivers of a subscriber which are connected to a cable system by a cable operator or for which a cable operator provides a connection. If a cable operator authorizes subscribers to install additional receiver connections, but does not provide the subscriber with such connections, or with the equipment and materials for such connections, the operator shall notify such subscribers of all broadcast stations carried on the cable system which cannot be viewed via cable without a converter box and shall offer to sell or lease such a converter box to such subscribers at rates in accordance with section 543(b)(3) of this title.
+&emsp;Signals carried in fulfillment of the requirements of this section shall be provided toevery subscriber of a cable system. Such signals shall be viewable via cable on all television receivers of a subscriber which are connected to a cable system by a cable operator or for which a cable operator provides a connection. If a cable operator authorizes subscribers to install additional receiver connections, but does not provide the subscriber with such connections, or with the equipment and materials for such connections, the operator shall notify such subscribers of all broadcast stations carried on the cable system which cannot be viewed via cable without a converter box and shall offer to sell or lease such a converter box to such subscribers at rates in accordance with section 543(b)(3) of this title.
 
 #### (8) Identification of signals carried
 

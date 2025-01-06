@@ -104,7 +104,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Prior Provisions
 
-A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.Q04
+A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

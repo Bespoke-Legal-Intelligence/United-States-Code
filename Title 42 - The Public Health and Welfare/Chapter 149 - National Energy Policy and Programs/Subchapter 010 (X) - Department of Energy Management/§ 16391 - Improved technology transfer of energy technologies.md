@@ -178,7 +178,7 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 <b>2022</b>—Subsec. (a)(6), (7). Pub. L. 117–167, §10722, added pars. (6) and (7).
 
-<b>2021</b>—Subsecs. (f) to (i). Pub. L. 117–58, §41201(i), formerly §41201(g), as renumbered by Pub. L. 117–167,§10723(3), redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
+<b>2021</b>—Subsecs. (f) to (i). Pub. L. 117–58, §41201(i), formerly §41201(g), as renumbered by Pub. L. 117–167, §10723(3), redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §9001(1), added subsec. (a) through par. (4)(B) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization."
 

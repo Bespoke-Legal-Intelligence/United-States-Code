@@ -6,7 +6,7 @@ Activities currently performed by personnel under the direction of the Secretary
 
 #### (b) Major maintenance contracts allowed
 
-This section does not prohibit contracting out major maintenance or other functions which are currently contracted out or studying services not directly connected with project maintenance and operations.
+This section does not prohibit contracting out major maintenance or other functions which arecurrently contracted out or studying services not directly connected with project maintenance and operations.
 
 #### (c) Exclusion
 
@@ -29,6 +29,20 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 <b>2018</b>—Pub. L. 115–270 inserted "navigation and" before "hydroelectric facilities" in section catchline, designated first sentence as subsec. (a), inserted heading, and inserted "navigation or" before "hydroelectric", designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Remote Operations at Corps Dams
+
+Pub. L. 118–272, div. A, title I, §1149, Jan. 4, 2025, 138 Stat. 3039, provided that: "During the 6-year period beginning on the date of enactment of this Act \[Jan. 4, 2025\], with respect to a water resources development project owned, operated, or managed by the Corps of Engineers, the Secretary \[of the Army\] is authorized to use remote operation activities at a navigation or hydroelectric power generating facility at such project as a replacement for activities performed, as of the date of enactment of this Act, by personnel under the direction of the Secretary at such project, only after the Secretary provides written notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate that—
+
+&emsp;"(1) use of the remote operation activities—
+
+&emsp;&emsp;"(A) does not affect activities described in section 314 of the Water Resources Development Act of 1990 (33 U.S.C. 2321);
+
+&emsp;&emsp;"(B) will address any cyber and physical security risks to such project in accordance with applicable Federal law and agency guidance; and
+
+&emsp;&emsp;"(C) is necessary to increase the availability and capacity, as applicable, of such project, including a project on a lower use waterway; and
+
+&emsp;"(2) the remote operation activities were developed under a public process that included engagement with such personnel and other stakeholders who may be affected by the use of such activities."
 
 #### "Secretary" Defined
 

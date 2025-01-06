@@ -30,7 +30,7 @@ Each report under subsection (a) shall include the following:
 
 &emsp;(4) A description of the means (including program management, audits, examinations, and other means) used by the United States during the fiscal year preceding the submission of the report to ensure that assistance provided under the Program is fully accounted for, that such assistance is being used for its intended purpose, and that such assistance is being used efficiently and effectively, including—
 
-&emsp;&emsp;(A) if such assistance consisted of equipment, a description of the current location of such equipment and the current condition of such equipment;
+&emsp;&emsp;(A) if such assistance consisted of equipment, a description of the current locationof such equipment and the current condition of such equipment;
 
 &emsp;&emsp;(B) if such assistance consisted of contracts or other services, a description of the status of such contracts or services and the methods used to ensure that such contracts and services are being used for their intended purpose;
 
@@ -52,11 +52,15 @@ Each report under subsection (a) shall include the following:
 
 &emsp;&emsp;(F) any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under the Program.
 
-(Pub. L. 113–291, div. A, title XIII, §1343, Dec. 19, 2014, 128 Stat. 3605.)
+#### (d) Termination date
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+The requirement to submit the report under subsection (a) shall terminate on January 1, 2030.
 
-#### Termination of Reporting Requirements
+(Pub. L. 113–291, div. A, title XIII, §1343, Dec. 19, 2014, 128 Stat. 3605; Pub. L. 118–159, div. A, title XVI, §1652(b), Dec. 23, 2024, 138 Stat. 2201.)
 
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (d). Pub. L. 118–159 added subsec. (d).
 

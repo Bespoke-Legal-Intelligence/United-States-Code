@@ -6,7 +6,7 @@ Not later than 180 days after January 1, 2021, the President shall submit to Con
 
 &emsp;(1) the availability of appropriations for that purpose; and
 
-&emsp;(2) a determination made under the plan pursuant to such title III that such technologiesare essential to the national defense and that domestic industrial capabilities are insufficient to meet these needs.
+&emsp;(2) a determination made under the plan pursuant to such title III that such technologies are essential to the national defense and that domestic industrial capabilities are insufficient to meet these needs.
 
 #### (b) Coordination
 

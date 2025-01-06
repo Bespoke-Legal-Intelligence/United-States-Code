@@ -1,6 +1,6 @@
 # Printed pages - Title 03 - The President
 
-GPO's 2023 edition (laws in effect as of 2024-01-03), from its printed page marks. The exact position of
+GPO's 2024 edition (laws in effect as of 2025-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title3.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

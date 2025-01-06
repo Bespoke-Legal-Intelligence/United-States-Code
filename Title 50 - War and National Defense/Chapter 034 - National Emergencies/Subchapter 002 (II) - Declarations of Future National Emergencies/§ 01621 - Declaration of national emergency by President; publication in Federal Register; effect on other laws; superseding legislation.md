@@ -2,7 +2,7 @@
 
 (a) With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency. Such proclamation shall immediately be transmitted to the Congress and published in the Federal Register.
 
-(b) Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms,referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
+(b) Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms, referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
 
 (Pub. L. 94–412, title II, §201, Sept. 14, 1976, 90 Stat. 1255.)
 
@@ -32,17 +32,19 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Sept. 7, 2023, 88 F.R. 62433, provided:
+Notice of President of the United States, dated Sept. 9, 2024, 89 F.R. 74101, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2023. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2024. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 7, 2023, 88 F.R. 62433.
 
 Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897.
 
@@ -186,7 +188,7 @@ I, DONALD J. TRUMP, President of the United States of America, find that foreign
 
 Accordingly, I hereby order:
 
-Section 1. <i>Prohibitions and Implementation</i>. (a) The following actions are prohibited: any acquisition, importation, transfer, or installation of any bulk-power system electric equipment (transaction) by any person, or with respect to any property, subject to the jurisdiction of the United States, where the transaction involves any property in which any foreign country or a national thereof has any interest (including through an interest in a contract for the provision of the equipment), where the transaction was initiated after the date of this order \[May 1, 2020\], and where the Secretary of Energy (Secretary), in coordination with the Director of the Office of Management and Budget and in consultation with the Secretary of Defense, the Secretary of Homeland Security, the Director of National Intelligence, and, as appropriate, the heads of other executive departments and agencies (agencies), has determined that:
+Section 1. <i>Prohibitions and Implementation</i>. (a) The following actions are prohibited: any acquisition, importation, transfer, or installation of any bulk-power system electric equipment (transaction) by any person, or with respect to any property, subject to the jurisdiction of the United States, where the transaction involves any property in which any foreign country or a national thereof has any interest (including through an interest in a contract for the provision of the equipment), where the transaction was initiated after the date of this order \[May 1, 2020\], and where the Secretary of Energy (Secretary), in coordination with the Director of the Office of Management and Budget and in consultation with the Secretary of Defense, the Secretary of Homeland Security, the Director of NationalIntelligence, and, as appropriate, the heads of other executive departments and agencies (agencies), has determined that:
 
 (i) the transaction involves bulk-power system electric equipment designed, developed, manufactured, or supplied, by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary; and
 

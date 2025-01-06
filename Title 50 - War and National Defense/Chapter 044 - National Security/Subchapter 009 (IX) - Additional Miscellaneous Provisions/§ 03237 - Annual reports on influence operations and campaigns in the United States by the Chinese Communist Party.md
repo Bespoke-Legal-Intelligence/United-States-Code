@@ -14,7 +14,7 @@ Each report under subsection (a) shall include the following:
 
 &emsp;(3) A description of the efforts by the United Front Work Department and subsidiary organizations of the United Front Work Department to target, coerce, and influence foreign populations, particularly those of ethnic Chinese descent.
 
-&emsp;(4) An assessment of attempts by the Chinese Embassy, consulates, and organizations affiliated with the Chinese Communist Party (including, at a minimum, the United Front Work Department) to influence the United States-based Chinese Student Scholar Associations.
+&emsp;(4) An assessment of attempts by the Chinese Embassy, consulates, and organizations affiliated with the Chinese Communist Party (including, at a minimum, the United Front Work Department) to influence the UnitedStates-based Chinese Student Scholar Associations.
 
 &emsp;(5) A description of the evolution of the role of the United Front Work Department under the leadership of the President of China.
 

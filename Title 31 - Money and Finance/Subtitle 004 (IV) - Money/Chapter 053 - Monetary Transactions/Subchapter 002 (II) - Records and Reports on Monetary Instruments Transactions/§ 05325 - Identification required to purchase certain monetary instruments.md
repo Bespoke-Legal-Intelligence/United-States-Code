@@ -10,7 +10,7 @@ In General.—No financial institution may issue or sell a bank check, cashier's
 
 &emsp;&emsp;(B) records the method of verification in accordance with regulations which the Secretary of the Treasury shall prescribe; or
 
-&emsp;(2) the individual furnishes the financial institution with such forms of identification as the Secretary of the Treasury may require in regulations which the Secretary shall prescribe and the financial institution verifies and records such information in accordance with regulations which such Secretary shall prescribe.
+&emsp;(2) the individual furnishes the financial institution with such forms of identification asthe Secretary of the Treasury may require in regulations which the Secretary shall prescribe and the financial institution verifies and records such information in accordance with regulations which such Secretary shall prescribe.
 
 (b)
 

@@ -2,7 +2,25 @@
 
 (a)
 
-In General.—There are authorized to be appropriated for the purposes of this chapter $111,400,000 for fiscal year 2019, $112,400,000 for fiscal year 2020, $113,400,000 for fiscal year 2021, and $114,400,000 for fiscal year 2022. Such sums shall remain available until expended.
+In General.—
+
+&emsp;(1)
+
+Authorizations.—There is authorized to be appropriated for purposes of this chapter—
+
+&emsp;&emsp;(A) $140,000,000 for fiscal year 2024;
+
+&emsp;&emsp;(B) $145,000,000 for fiscal year 2025;
+
+&emsp;&emsp;(C) $148,000,000 for fiscal year 2026;
+
+&emsp;&emsp;(D) $151,000,000 for fiscal year 2027; and
+
+&emsp;&emsp;(E) $154,000,000 for fiscal year 2028.
+
+&emsp;(2)
+
+Availability.—Amounts authorized under paragraph (1) shall remain available until expended.
 
 (b)
 
@@ -30,7 +48,7 @@ Receipts credited as offsetting collections.—Notwithstanding section 3302 of t
 
 Refunds.—The Board may refund any fee paid by mistake or any amount paid in excess of that required.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 108–168, §2, Dec. 6, 2003, 117 Stat. 2032; Pub. L. 109–443, §8(a), (b)(1), (c), Dec. 21, 2006, 120 Stat. 3300; Pub. L. 115–254, div. C, §1103, Oct. 5, 2018, 132 Stat. 3429.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 108–168, §2, Dec. 6, 2003, 117 Stat. 2032; Pub. L. 109–443, §8(a), (b)(1), (c), Dec. 21, 2006, 120 Stat. 3300; Pub. L. 115–254, div. C, §1103, Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–63, title XII, §1202, May 16, 2024, 138 Stat. 1422.)
 
 Historical and Revision Notes
 
@@ -66,6 +84,8 @@ In subsection (b)(2), the words "amounts equal to amounts expended annually out 
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a). Pub. L. 118–63 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 2019 through 2022.
+
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended."
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–443, §8(a), struck out "and" after "2005," and substituted "2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008." for "2006."
@@ -84,7 +104,7 @@ Subsecs. (c), (d). Pub. L. 108–168, §2(c), added subsecs. (c) and (d).
 
 "(a)
 
-In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 forfiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
+In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 for fiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
 
 "(b)
 

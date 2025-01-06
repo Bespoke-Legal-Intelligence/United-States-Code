@@ -40,7 +40,7 @@ A prior section 522 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208, a
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162 substituted "section 3755" for "section 3756" in introductory provisions and "an assessment of the impact of such activities on meeting the purposes of part A" for "an assessment of the impact of such activities on meeting the needs identified in the State strategy submitted under section 3753 of this title" in par. (1).
+<b>2006</b>—Subsec. (a). Pub. L. 109–162 substituted "section 3755" for "section 3756" in introductory provisions and"an assessment of the impact of such activities on meeting the purposes of part A" for "an assessment of the impact of such activities on meeting the needs identified in the State strategy submitted under section 3753 of this title" in par. (1).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

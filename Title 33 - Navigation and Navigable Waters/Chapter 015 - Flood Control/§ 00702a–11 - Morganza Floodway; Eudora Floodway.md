@@ -8,7 +8,7 @@ The United States, irrespective of other provisions of law, may, within the disc
 
 Said Morganza floodway shall not be operated until the Wax Lake outlet has been put into operative condition.
 
-The fuseplug levees at the head of the Atchafalaya Basin on the east side of the Atchafalaya River shall be reconstructed to the 1928 grade and section.
+The fuseplug levees at the head of the Atchafalaya Basin on the east side of theAtchafalaya River shall be reconstructed to the 1928 grade and section.
 
 The United States may, in the discretion of the Chief of Engineers, acquire all flowage rights, flowage easements, rights-of-way for levee foundations, and titles in fee simple as herein provided, either by voluntary acquisition or in accordance with the condemnation proceedings by the Secretary of the Army as provided for in section 702d of this title.
 

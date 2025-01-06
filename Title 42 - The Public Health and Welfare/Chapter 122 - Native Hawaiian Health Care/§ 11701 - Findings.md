@@ -24,7 +24,7 @@ The Congress finds that:
 
 &emsp;(9) In a message to Congress on December 18, 1893, then President Grover Cleveland reported fully and accurately on these illegal actions, and acknowledged that by these acts, described by the President as acts of war, the government of a peaceful and friendly people was overthrown, and the President concluded that a "substantial wrong has thus been done which a due regard for our national character as well as the rights of the injured people required that we should endeavor to repair".
 
-&emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii,promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
+&emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii, promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
 
 &emsp;(11) In 1898, the United States annexed Hawaii through the Newlands Resolution without the consent of or compensation to the indigenous people of Hawaii or their sovereign government who were thereby denied the mechanism for expression of their inherent sovereignty through self-government and self-determination, their lands and ocean resources.
 
@@ -66,7 +66,7 @@ Act of June 20, 1938, referred to in par. (14), is act June 20, 1938, ch. 530, 5
 
 An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (15) and (16), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Native American Programs Act of 1974, referred to in par. (19), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see section 2991 of this title and Tables.
+The Native American Programs Act of 1974, referred to in par. (19), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of this title. For complete classificationof this Act to the Code, see section 2991 of this title and Tables.
 
 The American Indian Religious Freedom Act, referred to in par. (19), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of this title and Tables.
 

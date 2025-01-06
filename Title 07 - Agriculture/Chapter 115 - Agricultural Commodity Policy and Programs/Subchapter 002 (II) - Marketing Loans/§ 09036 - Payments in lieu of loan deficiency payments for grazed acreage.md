@@ -30,7 +30,7 @@
 
 #### (2) Grazing of triticale acreage
 
-&emsp;The amount of a payment made under this section to a producer on a farm described insubsection (a)(2) shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 9035(c) of this title in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
 

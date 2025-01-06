@@ -11,6 +11,7 @@
 | [1707\.](%C2%A7%2001707%20-%20Multinational%20economic%20embargoes%20against%20governments%20in%20armed%20conflict%20with%20the%20United%20States.md) | Multinational economic embargoes against governments in armed conflict with the United States. |
 | [1708\.](%C2%A7%2001708%20-%20Actions%20to%20address%20economic%20or%20industrial%20espionage%20in%20cyberspace.md) | Actions to address economic or industrial espionage in cyberspace. |
 | [1709\.](%C2%A7%2001709%20-%20Imposition%20of%20sanctions%20with%20respect%20to%20theft%20of%20trade%20secrets%20of%20United%20States%20persons.md) | Imposition of sanctions with respect to theft of trade secrets of United States persons. |
+| [1710\.](%C2%A7%2001710%20-%20Confronting%20asymmetric%20and%20malicious%20cyber%20activities.md) | Confronting asymmetric and malicious cyber activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,3 +29,4 @@
 - [&sect; 01707 - Multinational economic embargoes against governments in armed conflict with the United States](%C2%A7%2001707%20-%20Multinational%20economic%20embargoes%20against%20governments%20in%20armed%20conflict%20with%20the%20United%20States.md)
 - [&sect; 01708 - Actions to address economic or industrial espionage in cyberspace](%C2%A7%2001708%20-%20Actions%20to%20address%20economic%20or%20industrial%20espionage%20in%20cyberspace.md)
 - [&sect; 01709 - Imposition of sanctions with respect to theft of trade secrets of United States persons](%C2%A7%2001709%20-%20Imposition%20of%20sanctions%20with%20respect%20to%20theft%20of%20trade%20secrets%20of%20United%20States%20persons.md)
+- [&sect; 01710 - Confronting asymmetric and malicious cyber activities](%C2%A7%2001710%20-%20Confronting%20asymmetric%20and%20malicious%20cyber%20activities.md)

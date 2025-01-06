@@ -80,7 +80,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service;
 
-&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or suchpositions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
+&emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
 
 &emsp;(13) bolster the public awareness of and recruitment efforts for the wide range of service opportunities for citizens of all ages, regardless of socioeconomic status or geographic location, through a variety of methods, including—
 
@@ -114,11 +114,11 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(19) where practicable, provide application materials in languages other than English for individuals with limited English proficiency who wish to participate in a national service program;
 
-&emsp;(20) collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title); <sup>2</sup>
+&emsp;(20) collaborate with the training and technical assistance programs described in divisionK with respect to the activities described in section 12657(b) of this title); <sup>1</sup>
 
 &emsp;(21) coordinate the clearinghouses described in section 12653o of this title;
 
-&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
+&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>2</sup>
 
 &emsp;(23) identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
 
@@ -140,7 +140,7 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 &emsp;(5) disseminate, without regard to the provisions of section 3204 of title 39, data and information, in such form as the Chief Executive Officer shall determine to be appropriate to public agencies, private organizations, and the general public;
 
-&emsp;(6) collect or compromise all obligations to or held by the Chief Executive Officer and alllegal or equitable rights accruing to the Chief Executive Officer in connection with the payment of obligations in accordance with chapter 37 of title 31 (commonly known as the "Federal Claims Collection Act of 1966");
+&emsp;(6) collect or compromise all obligations to or held by the Chief Executive Officer and all legal or equitable rights accruing to the Chief Executive Officer in connection with the payment of obligations in accordance with chapter 37 of title 31 (commonly known as the "Federal Claims Collection Act of 1966");
 
 &emsp;(7) file a civil action in any court of record of a State having general jurisdiction or in any district court of the United States, with respect to a claim arising under this chapter;
 
@@ -242,7 +242,7 @@ The Chief Executive Officer may conduct a campaign to solicit funds to conduct o
 
 #### References in Text
 
-Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
+Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, popularlyknown as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
 
 This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
@@ -310,7 +310,9 @@ Amendment by section 203(a)(1)(B), (3) of Pub. L. 103–82 effective Apr. 4, 199
 
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
 
-<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> So in original.</i>
 

@@ -14,7 +14,7 @@ In this section, the term "covered national emergency" means the following:
 
 #### (b) In general
 
-The Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency,and the Director of the National Geospatial-Intelligence Agency shall each establish continuity of operations plans for use in the case of covered national emergencies for the element of the intelligence community concerned.
+The Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-Intelligence Agency shall each establish continuity of operations plans for use in the case of covered national emergencies for the element of the intelligence community concerned.
 
 #### (c) Submission to Congress
 
@@ -52,5 +52,5 @@ The National Emergencies Act, referred to in subsec. (a)(3), is Pub. L. 94–412
 
 #### Definitions
 
-For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 2 of div. W of Pub. L. 116–260, set out as a note under section 3003 of this title.
+For definitions of "congressional intelligence committees" and "intelligence community" as used in this section, see section 2 of div. W of Pub. L. 116–260, set out as a note under section 3003 of this title.
 

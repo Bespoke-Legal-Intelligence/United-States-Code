@@ -134,7 +134,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 "(a)
 
-Research Utilization and Commercialization Management Activities.—The Administrator of theNational Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
+Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
 
 "(b)
 
@@ -222,7 +222,7 @@ Sec. 110. (a) The Administrator shall set and collect reasonable user fees for t
 
 "
 
-Sec. 111. No later than September 30, 1988, the Administrator shall submit a detailed plan for collecting reimbursements for the utilization of the space station under section 110, including the services to be offered, the methodology and bases by which prices will be charged, and the estimated revenues.
+Sec. 111. No later than September 30, 1988, the Administrator shall submit a detailed plan for collectingreimbursements for the utilization of the space station under section 110, including the services to be offered, the methodology and bases by which prices will be charged, and the estimated revenues.
 
 "
 

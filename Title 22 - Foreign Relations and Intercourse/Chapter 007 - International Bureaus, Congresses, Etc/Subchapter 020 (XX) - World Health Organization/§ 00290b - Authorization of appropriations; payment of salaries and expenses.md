@@ -2,7 +2,7 @@
 
 There are hereby authorized to be appropriated to the Department of State for contribution to the working capital fund of the organization the sum of $560,000 and as annual appropriations the following:
 
-&emsp;(a) such sums as may be necessary for the payment by the United States of its share of the expenses of the Organization as apportioned by the Health Assembly in accordance with article 56 of the constitution of the Organization, except that payments by the United States for any fiscal year of the Organization after 1958 shall not exceed 331/3 per centum of the total assessments of active members of the Organization for such fiscal year; and
+&emsp;(a) such sums as may be necessary for the payment by the United States of its share of the expenses of the Organization as apportioned by the Health Assembly in accordance with article 56 of the constitution of the Organization, except that payments by the UnitedStates for any fiscal year of the Organization after 1958 shall not exceed 331/3 per centum of the total assessments of active members of the Organization for such fiscal year; and
 
 &emsp;(b) such additional sums, not to exceed $83,000 for the fiscal year beginning July 1, 1947, as may be necessary to pay the expenses incident to participation by the United States in the activities of the Organization, including—
 

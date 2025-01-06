@@ -38,7 +38,7 @@
 
 &emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests exclusion from consideration.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1495; amended Pub. L. 103–337, div. A, title V, §§501(a), 541(b)(3), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 104–201, div. A, title V, §506(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 106–65, div. A, title V, §505, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 117–263, div. A, title V, §508(a), Dec. 23, 2022, 136 Stat. 2559.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1495; amended Pub. L. 103–337, div. A, title V, §§501(a), 541(b)(3), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 104–201, div. A, title V, §506(b), Sept. 23, 1996, 110 Stat. 2512; Pub.L. 106–65, div. A, title V, §505, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 117–263, div. A, title V, §508(a), Dec. 23, 2022, 136 Stat. 2559.)
 
 #### <b>Editorial Notes</b>
 

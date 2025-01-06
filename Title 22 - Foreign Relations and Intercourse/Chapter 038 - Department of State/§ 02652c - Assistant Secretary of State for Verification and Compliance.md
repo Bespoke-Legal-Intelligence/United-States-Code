@@ -54,7 +54,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### (3) Relationship to the intelligence community
 
-&emsp;The Assistant Secretary shall be the principal policy community representative to the intelligence community on verification and compliance matters.
+&emsp;The Assistant Secretary shall be the principal policy community representative to theintelligence community on verification and compliance matters.
 
 #### (4) Reporting responsibilities
 

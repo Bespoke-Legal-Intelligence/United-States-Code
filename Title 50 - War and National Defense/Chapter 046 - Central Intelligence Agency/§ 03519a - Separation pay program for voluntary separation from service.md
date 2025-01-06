@@ -10,7 +10,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
 
-&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
+&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would beeligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
 #### (b) Establishment of program
 
@@ -86,7 +86,7 @@ Section was enacted as part of the Central Intelligence Agency Voluntary Separat
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(d), amended par. (1) generally. Prior to amendment, par. (1) read: "the term 'Director' means the Director of Central Intelligence; and".
 
-Subsecs. (f) to (h). Pub. L. 108–487, §401(a), redesignated subsecs. (g) and (h) as (f) and (g), respectively,and struck out former subsec. (f), which related to termination of payments under this section.
+Subsecs. (f) to (h). Pub. L. 108–487, §401(a), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which related to termination of payments under this section.
 
 Subsec. (i). Pub. L. 108–487, §401(b)(1), struck out subsec. (i) which related to remittance of funds.
 

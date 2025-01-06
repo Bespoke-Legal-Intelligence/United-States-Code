@@ -24,7 +24,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 (2) If the Secretary prescribes or has prescribed under section 5103(b), 5104, 5110, or 5112 of this title or prior comparable provision of law a regulation or standard related to a subject referred to in paragraph (1) of this subsection, a State, political subdivision of a State, or Indian tribe may prescribe, issue, maintain, and enforce only a law, regulation, standard, or order about the subject that is substantively the same as a provision of this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall decide on and publish in the Federal Register the effective date of section 5103(b) of this title for any regulation or standard about any of those subjects that the Secretary prescribes. The effective date may not be earlier than 90 days after the Secretary prescribes the regulation or standard nor later than the last day of the 2-year period beginning on the date the Secretary prescribes the regulation or standard.
 
-(3) If a State, political subdivision of a State, or Indian tribe imposes a fine or penalty the Secretary decides is appropriate for a violation related to a subject referred to in paragraph (1) of this subsection, an additional fine or penalty may not be imposed by any other authority.
+(3) If a State, political subdivision of a State, or Indian tribe imposes a fine or penalty theSecretary decides is appropriate for a violation related to a subject referred to in paragraph (1) of this subsection, an additional fine or penalty may not be imposed by any other authority.
 
 (c)
 

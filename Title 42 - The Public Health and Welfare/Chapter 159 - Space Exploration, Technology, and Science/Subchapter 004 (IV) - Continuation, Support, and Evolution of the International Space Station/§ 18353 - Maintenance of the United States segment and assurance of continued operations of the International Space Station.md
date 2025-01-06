@@ -62,7 +62,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (d) Utilization of research facilities and capabilities
 
-Utilization of research facilities and capabilities aboard the ISS (other than exploration-related research and technology development facilities and capabilities, and associated ground support and logistics), shall be planned, managed, and supported as provided in section 18354 of this title. Exploration-related research andtechnology development facilities, capabilities, and associated ground support and logistics shall be planned, managed, and supported by the appropriate NASA organizations and officials in a manner that does not interfere with other activities under section 18354 of this title.
+Utilization of research facilities and capabilities aboard the ISS (other than exploration-related research and technology development facilities and capabilities, and associated ground support and logistics), shall be planned, managed, and supported as provided in section 18354 of this title. Exploration-related research and technology development facilities, capabilities, and associated ground support and logistics shall be planned, managed, and supported by the appropriate NASA organizations and officials in a manner that does not interfere with other activities under section 18354 of this title.
 
 #### (e) Space Shuttle mission to ISS
 
@@ -102,7 +102,7 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 #### References in Text
 
-Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended by section 114(b) of Pub. L. 114–90, which substituted references to "2024" for references to "2020" in other provisions throughout this subchapter. See also section 70907 of Title 51, National and Commercial Space Programs, as amended by section 114(b) of Pub. L. 114–90.
+Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended by section 114(b) of Pub. L. 114–90, which substituted references to "2024" for references to "2020" in other provisions throughout this subchapter. See also section 70907 of Title 51, Nationaland Commercial Space Programs, as amended by section 114(b) of Pub. L. 114–90.
 
 Section 101(2)(B), referred to in subsec. (e)(4), is Pub. L. 111–267, title I, §101(2)(B), Oct. 11, 2010, 124 Stat. 2809, which is not classified to the Code.
 

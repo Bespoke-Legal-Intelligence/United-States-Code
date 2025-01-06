@@ -20,7 +20,7 @@ Eligibility.—Under regulations prescribed by the Secretary of Defense, a membe
 
 Special Pay Amount.—(1) Except as provided in paragraph (2), the amount of special pay authorized by subsection (a) for qualifying service during a day or portion of a day shall be the amount equal to 1/30th of the maximum monthly amount of special pay payable to a member as specified in paragraph (3).
 
-(2) In the case of a member who is exposed to hostile fire or a hostile mine explosion event in or for a day or portion of a day, the Secretary concerned may, at the election of the Secretary, pay the member special pay under subsection (a) for such service in an amount not to exceed the maximum monthly amount of special pay payable to a member as specified in paragraph (3).
+(2) In the case of a member who is exposed to hostile fire or a hostile mine explosion event inor for a day or portion of a day, the Secretary concerned may, at the election of the Secretary, pay the member special pay under subsection (a) for such service in an amount not to exceed the maximum monthly amount of special pay payable to a member as specified in paragraph (3).
 
 (3) The maximum monthly amount of special pay payable to a member under this subsection for any month is $225.
 
@@ -32,7 +32,7 @@ Continuation During Hospitalization.—(1) A member described in paragraph (2) m
 
 &emsp;(A) is injured or wounded under the circumstances described in subsection (a)(2)(C) and is hospitalized for the treatment of the injury or wound; or
 
-&emsp;(B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary ofDefense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
+&emsp;(B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
 
 (d)
 
@@ -180,7 +180,7 @@ Specified Area.—The area referred to in subsection (a) is the Mediterranean Se
 
 #### Rates of Pay for Fiscal Year 2004
 
-Pub. L. 108–106, title I, §1104, Nov. 6, 2003, 117 Stat. 1214, provided that: "From October 1, 2003, through September 30, 2004, (a) the rates of pay authorized by section 310(a) of title 37, United States Code, shall be $225; and (b) the rates of pay authorized by section 427(a)(1) of title 37, United States Code, shall be $250."
+Pub. L. 108–106, title I, §1104, Nov. 6, 2003, 117 Stat. 1214, provided that: "From October 1, 2003, through September 30, 2004, (a) the rates of pay authorized by section 310(a) of title 37, United States Code, shall be $225;and (b) the rates of pay authorized by section 427(a)(1) of title 37, United States Code, shall be $250."
 
 #### Retroactive Authorization for Imminent Danger Pay for Service in Connection With Operation Enduring Freedom
 

@@ -38,7 +38,7 @@ Source of Funds.—(1) Amounts for the activities of the Readjustment Counseling
 
 (2) Amounts for activities of the Readjustment Counseling Service, including the operations of its Vet Centers, shall not be allocated through the Veterans Equitable Resource Allocation system.
 
-(3) In each budget request submitted for the Department of Veterans Affairs by the President to Congress under section 1105 of title 31, the budget request for the Readjustment Counseling Service shall be listed separately.
+(3) In each budget request submitted for the Department of Veterans Affairs by the Presidentto Congress under section 1105 of title 31, the budget request for the Readjustment Counseling Service shall be listed separately.
 
 (e)
 
@@ -262,7 +262,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;&emsp;"(B)
 
-Reporting requirement.—In each of the first two annual reports submitted under section7309(e) of title 38, United States Code, after the date of the enactment of this Act, the Secretary shall include a description of the actions taken by the Secretary to carry out subparagraph (A).
+Reporting requirement.—In each of the first two annual reports submitted under section 7309(e) of title 38, United States Code, after the date of the enactment of this Act, the Secretary shall include a description of the actions taken by the Secretary to carry out subparagraph (A).
 
 &emsp;"(2)
 

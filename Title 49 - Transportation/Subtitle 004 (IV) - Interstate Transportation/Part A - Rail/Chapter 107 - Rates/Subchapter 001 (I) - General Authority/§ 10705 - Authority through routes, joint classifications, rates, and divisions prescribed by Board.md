@@ -2,7 +2,7 @@
 
 (a)(1) The Board may, and shall when it considers it desirable in the public interest, prescribe through routes, joint classifications, joint rates, the division of joint rates, and the conditions under which those routes must be operated, for a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
 
-(2) The Board may require a rail carrier to include in a through route substantially less than the entire length of its railroad and any intermediate railroad operated with it under common management or control if that intermediaterailroad lies between the terminals of the through route only when—
+(2) The Board may require a rail carrier to include in a through route substantially less than the entire length of its railroad and any intermediate railroad operated with it under common management or control if that intermediate railroad lies between the terminals of the through route only when—
 
 &emsp;(A) required under section 10741, 10742, or 11102 of this title;
 

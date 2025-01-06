@@ -4,7 +4,7 @@
 
 (1) Using the sums appropriated pursuant to section 9834 of this title for a fiscal year, the Secretary shall allocate such sums in accordance with paragraphs (2) through (5).
 
-(2)(A) The Secretary shall determine an amount for each fiscal year for each State that is equal to the amount received through base grants for the prior fiscal year by the HeadStart agencies (including Early Head Start agencies) in the State that are not described in clause (ii) or (iii) of subparagraph (B).
+(2)(A) The Secretary shall determine an amount for each fiscal year for each State that is equal to the amount received through base grants for the prior fiscal year by the Head Start agencies (including Early Head Start agencies) in the State that are not described in clause (ii) or (iii) of subparagraph (B).
 
 (B) The Secretary shall reserve for each fiscal year such sums as are necessary—
 
@@ -14,9 +14,9 @@
 
 &emsp;(iii) to provide an amount for the migrant and seasonal Head Start programs, on a nationwide basis, that is equal to the amount provided nationwide for base grants for such programs under this subchapter for the prior fiscal year, by allotting to each Head Start agency administering a migrant or seasonal Head Start program an amount equal to that agency's base grant for the prior fiscal year;
 
-&emsp;(iv) to provide an amount for each of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands of the United States (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year;
+&emsp;(iv) to provide an amount for each of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, and the Virgin Islands of the United States (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year;
 
-&emsp;(v) to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year; and
+&emsp;(v) if a base grant has been established through appropriations for the Federated States of Micronesia or the Republic of the Marshall Islands, to provide an amount for that jurisdiction (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year; and
 
 &emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal Head Start programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(aa) provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the cost of living increase described in clause (i); and
 
-&emsp;&emsp;&emsp;(bb) subject to subparagraph (B), with any portion of the remaining amount that is not used under item (aa), provide equal amounts for Indian Head Start programs (including Early Head Start programs), and for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
+&emsp;&emsp;&emsp;(bb) subject to subparagraph (B), with any portion of the remaining amount thatis not used under item (aa), provide equal amounts for Indian Head Start programs (including Early Head Start programs), and for migrant and seasonal Head Start programs, to increase enrollment in the programs involved; and
 
 &emsp;(iii) if the remaining amount is not sufficient to carry out clause (ii) for the fiscal year involved, use that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage of the cost of living increase described in clause (i).
 
@@ -104,7 +104,7 @@
 
 &emsp;(i) a portion that is less than 10 percent may be reserved by the Secretary to provide funding to Head Start agencies (including Early Head Start agencies) that demonstrate the greatest need for additional funding for such activities, as determined by the Secretary; and
 
-&emsp;(ii) a portion that is not less than 90 percent shall be reserved by the Secretary to allot, to each Head Start agency (including each Early Head Start agency), an amount that bears thesame ratio to such portion as the number of enrolled children served by the agency involved bears to the number of enrolled children served by all the Head Start agencies (including Early Head Start agencies), except that the Secretary shall account for the additional costs of serving children in Early Head Start programs and may consider whether an agency is providing a full-day program or whether an agency is providing a full-year program.
+&emsp;(ii) a portion that is not less than 90 percent shall be reserved by the Secretary to allot, to each Head Start agency (including each Early Head Start agency), an amount that bears the same ratio to such portion as the number of enrolled children served by the agency involved bears to the number of enrolled children served by all the Head Start agencies (including Early Head Start agencies), except that the Secretary shall account for the additional costs of serving children in Early Head Start programs and may consider whether an agency is providing a full-day program or whether an agency is providing a full-year program.
 
 (D) The Secretary shall fund expansion of Head Start programs (including Early Head Start programs) using the amount reserved under subparagraph (A)(ii) or subparagraph (B)(i)(II), as appropriate, of which the Secretary shall—
 
@@ -158,7 +158,7 @@
 
 &emsp;(iii) Employing additional qualified classroom staff to reduce the child-to-teacher ratio in the classroom and additional qualified family service workers to reduce the family-to-staff ratio for those workers.
 
-&emsp;(iv) Ensuring that Head Start programs have qualified staff that promote the language skills and literacy growth of children and that provide children with a variety of skills thathave been identified, through scientifically based reading research, as predictive of later reading achievement.
+&emsp;(iv) Ensuring that Head Start programs have qualified staff that promote the language skills and literacy growth of children and that provide children with a variety of skills that have been identified, through scientifically based reading research, as predictive of later reading achievement.
 
 &emsp;(v) Increasing hours of program operation, including—
 
@@ -178,7 +178,7 @@
 
 &emsp;(A) The term "base grant", used with respect to a fiscal year, means the amount of permanent ongoing funding (other than funding described in sections 9840a(g)(2)(A)(i) of this title and paragraph (2)(C)(i)(II)(aa)) provided to a Head Start agency (including an Early Head Start agency) under this subchapter for that fiscal year.
 
-&emsp;(B) The term "cost-of-living increase", used with respect to an agency for a fiscal year, means an increase in the funding for that agency, based on the percentage change in the Consumer Price Index for All Urban Consumers (issued by the Bureau of Labor Statistics) for the prior fiscal year, calculated on the amount of the base grant for that agency for the prior fiscal year.
+&emsp;(B) The term "cost-of-living increase", used with respect to an agency for a fiscal year, means an increase in the funding for that agency, based on the percentage change in theConsumer Price Index for All Urban Consumers (issued by the Bureau of Labor Statistics) for the prior fiscal year, calculated on the amount of the base grant for that agency for the prior fiscal year.
 
 &emsp;(C) For the purposes of this subsection, the term "State" does not include Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
@@ -210,7 +210,7 @@ No programs shall be approved for assistance under this subchapter unless the Se
 
 (3) Such policies and procedures shall require Head Start agencies to provide timely referral to and collaborate with the State or local agency providing services under section 619 or part C of the Individuals with Disabilities Education Act to ensure the provision of special education and related services and early intervention services, and the coordination of programmatic efforts, to meet the special needs of such children.
 
-(4) The Secretary shall establish policies and procedures to provide Head Start agencies with waivers of the requirements of paragraph (1) for not more than 3 years. Such policies and procedures shall require Head Start agencies, in order to receive such waivers, to provide evidence demonstrating that the Head Start agencies aremaking reasonable efforts on an annual basis to comply with the requirements of that paragraph.
+(4) The Secretary shall establish policies and procedures to provide Head Start agencies with waivers of the requirements of paragraph (1) for not more than 3 years. Such policies and procedures shall require Head Start agencies, in order to receive such waivers, to provide evidence demonstrating that the Head Start agencies are making reasonable efforts on an annual basis to comply with the requirements of that paragraph.
 
 (5) Nothing in this subsection shall be construed to limit or create a right to a free appropriate public education under the Individuals with Disabilities Education Act.
 
@@ -232,7 +232,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 (1) For the purpose of expanding Head Start programs <sup>1</sup> the Secretary shall take into consideration—
 
-&emsp;(A) the quality of the applicant's programs (including Head Start and other child care or child development programs) in existence on the date of the allocation, including, in the case of Head Start programs in existence on the date of the allocation, the extent to which such programs meet or exceed standards described in section 9836a(a)(1) of this title and other requirements under this subchapter, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter);
+&emsp;(A) the quality of the applicant's programs (including Head Start and other child care or child development programs) in existence on the date of the allocation, including, in the case of Head Start programs in existence onthe date of the allocation, the extent to which such programs meet or exceed standards described in section 9836a(a)(1) of this title and other requirements under this subchapter, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter);
 
 &emsp;(B) the applicant's capacity to expand services (including, in the case of Head Start programs in existence on the date of the allocation, whether the applicant accomplished any prior expansions in an effective and timely manner);
 
@@ -266,7 +266,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 (3)(A) In the event that the amount appropriated to carry out the program under this subchapter for a fiscal year does not exceed the amount appropriated for the prior fiscal year, or is not sufficient to maintain services comparable to the services provided under this subchapter during the prior fiscal year, a Head Start agency may negotiate with the Secretary a reduced funded enrollment level without a reduction in the amount of the grant received by the agency under this subchapter, if such agency can reasonably demonstrate that such reduced funded enrollment level is necessary to maintain the quality of services.
 
-(B) In accordance with this paragraph, the Secretary shall set up a process for Head Startagencies to negotiate the reduced funded enrollment levels referred to in subparagraph (A) for the fiscal year involved.
+(B) In accordance with this paragraph, the Secretary shall set up a process for Head Start agencies to negotiate the reduced funded enrollment levels referred to in subparagraph (A) for the fiscal year involved.
 
 (C) In the event described in subparagraph (A), the Secretary shall be required to notify Head Start agencies of their ability to negotiate the reduced funded enrollment levels if such an agency can reasonably demonstrate that such reduced funded enrollment level is necessary to maintain the quality of services.
 
@@ -284,7 +284,7 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 #### (k) Flexibility in hours of service requirement
 
-(1) The Secretary shall allow center-based Head Start programs the flexibility to satisfy the total number of hours of service required by the regulations in effect on May 18, 1994, to be provided to children in Head Start programs so long as such agencies do not—
+(1) The Secretary shall allow center-based Head Start programs the flexibility to satisfy the total number of hours of service required by the regulations in effect on May 18, 1994, to beprovided to children in Head Start programs so long as such agencies do not—
 
 &emsp;(A) provide less than 3 hours of service per day;
 
@@ -332,7 +332,7 @@ Nothing in this subchapter shall be construed to require a State to establish a 
 
 All curricula funded under this subchapter shall be based on scientifically valid research, and be age and developmentally appropriate. The curricula shall reflect all areas of child development and learning and be aligned with the Head Start Child Outcomes Framework. Parents shall have the opportunity to examine any such curricula or instructional materials funded under this subchapter.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(l)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(l)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367; Pub. L. 118–42, div. G, title II, §209(b)(6)(B), Mar. 9, 2024, 138 Stat. 443.)
 
 #### <b>Editorial Notes</b>
 
@@ -345,6 +345,10 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (m)(3), is Pu
 This subchapter, referred to in subsec. (j), was in the original "this Act" and was translated as reading "this subchapter", meaning subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(B)(iv). Pub. L. 118–42, §209(b)(6)(B)(i), inserted "the Republic of Palau," before "and the Virgin Islands".
+
+Subsec. (a)(2)(B)(v). Pub. L. 118–42, §209(b)(6)(B)(ii), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: "to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year; and".
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–134, §6(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to distribution of appropriations, allotment requirements, and priorities for Head Start funds.
 
@@ -370,7 +374,7 @@ Subsec. (g)(2)(G), (H). Pub. L. 110–134, §6(d)(2)(F), added subpars. (G) and 
 
 "(G) the extent to which the applicant proposes to foster partnerships with other service providers in a manner that will enhance the resource capacity of the applicant; and
 
-"(H) the extent to which the applicant, in providing services, plans to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Startprogram operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency."
+"(H) the extent to which the applicant, in providing services, plans to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency."
 
 Subsec. (g)(3), (4). Pub. L. 110–134, §6(d)(1), (4), added par. (3) and struck out former pars. (3) and (4) which read as follows:
 
@@ -434,7 +438,7 @@ Subsec. (a)(4)(A). Pub. L. 105–285, §106(a)(3)(A), substituted "1998" for "19
 
 Subsec. (a)(4)(B). Pub. L. 105–285, §106(a)(3)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-"(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of therelative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
+"(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
 
 "(ii) 662/3 percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States."
 
@@ -456,7 +460,7 @@ Subsec. (a)(6). Pub. L. 105–285, §106(a)(5), designated existing provisions a
 
 Subsec. (d). Pub. L. 105–285, §106(b)(2), which directed striking out "(as defined in section 1401(a) of title 20)", was executed by striking out "(as defined in section 1401(a)(1) of title 20)" after "children with disabilities" to reflect the probable intent of Congress.
 
-Pub. L. 105–285, §106(b)(1), (3), substituted "1999" for "1982" and inserted at end "Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419).".
+Pub. L. 105–285, §106(b)(1), (3), substituted "1999" for "1982" and inserted at end "Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)."
 
 Subsec. (g)(2)(A). Pub. L. 105–285, §106(c)(1)(A), inserted before semicolon at end ", and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter)".
 

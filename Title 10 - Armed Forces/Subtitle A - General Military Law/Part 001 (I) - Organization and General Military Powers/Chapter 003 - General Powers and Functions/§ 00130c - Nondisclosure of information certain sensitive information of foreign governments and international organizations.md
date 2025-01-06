@@ -2,7 +2,7 @@
 
 (a)
 
-Exemption From Disclosure.—The national security official concerned (as defined in subsection (h)) may withhold from public disclosure otherwise required by law sensitive information of foreign governments in accordance with this section.
+Exemption From Disclosure.—The national security official concerned (as defined insubsection (h)) may withhold from public disclosure otherwise required by law sensitive information of foreign governments in accordance with this section.
 
 (b)
 

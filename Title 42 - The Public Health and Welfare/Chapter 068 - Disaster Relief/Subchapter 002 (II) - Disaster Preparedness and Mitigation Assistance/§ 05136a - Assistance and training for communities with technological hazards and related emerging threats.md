@@ -10,7 +10,7 @@ The Administrator shall carry out subsection (a) in accordance with—
 
 &emsp;(1) the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
 
-&emsp;(2) section 5196g of title 42; and
+&emsp;(2) section 5196g of this title; and
 
 &emsp;(3) the Post-Katrina Emergency Management Reform Act of 2006 (Public Law 109–295; 120 Stat. 1394).
 

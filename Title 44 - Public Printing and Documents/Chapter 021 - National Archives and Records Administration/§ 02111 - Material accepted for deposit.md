@@ -30,6 +30,8 @@ A prior section 2111 was renumbered section 2115 of this title.
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(5), substituted "Archivist" for "Administrator of General Services" in provisions preceding par. (1), and substituted "Archivist" for "Administrator" in par. (1).
 
+Pub. L. 98–497, §102(a)(1), renumbered section 2107 of this title as this section.
+
 <b>1978</b>—Pub. L. 95–591 inserted provision excluding Presidential records which are subject to provisions of chapter 22 of this title from application of this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
@@ -60,7 +62,7 @@ Sec. 101. (a) Notwithstanding any other law or any agreement or understanding ma
 
 &emsp;"(3) were recorded during the period beginning January 20, 1969, and ending August 9, 1974.
 
-"(b)(1) Notwithstanding any other law or any agreement or understanding made pursuant to section 2111 of title 44, United States Code, the Archivist shall receive, retain, or make reasonable efforts to obtain, complete possession and control of all papers, documents, memorandums, transcripts, and other objects and materials which constitute the Presidential historical materials of Richard M. Nixon, covering the period beginning January 20, 1969, and ending August 9, 1974.
+"(b)(1) Notwithstanding any other law or any agreement or understanding made pursuant to section 2111 of title 44, United States Code, the Archivist shall receive, retain, or make reasonable efforts to obtain, complete possession and control of all papers, documents, memorandums, transcripts, and other objects and materials which constitute the Presidential historical materialsof Richard M. Nixon, covering the period beginning January 20, 1969, and ending August 9, 1974.
 
 "(2) For purposes of this subsection, the term 'historical materials' has the meaning given it by section 2101 of title 44, United States Code.
 
@@ -102,7 +104,7 @@ Sec. 104. (a) The Archivist shall, within ninety days after the date of enactmen
 
 &emsp;"(7) the need to give to Richard M. Nixon, or his heirs, for his sole custody and use, tape recordings and other materials which are not likely to be related to the need described in paragraph (1) and are not otherwise of general historical significance.
 
-"(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to eachHouse of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded.
+"(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to each House of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded.
 
 "(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7).
 

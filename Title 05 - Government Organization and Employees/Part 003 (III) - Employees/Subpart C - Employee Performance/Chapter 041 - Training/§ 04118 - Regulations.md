@@ -14,7 +14,7 @@
 
 &emsp;(6) the interchange of training information among the agencies;
 
-&emsp;(7) the submission of reports by the agencies on results and effects of training programs and plans and economies resulting therefrom, including estimates of costs of training;
+&emsp;(7) the submission of reports by the agencies on results and effects of training programs andplans and economies resulting therefrom, including estimates of costs of training;
 
 &emsp;(8) requirements and limitations necessary with respect to payments and reimbursements in accordance with section 4109 of this title; and
 

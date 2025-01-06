@@ -6,7 +6,7 @@
 
 (c) Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
 
-(Added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 515; amended Pub. L. 89–501, title IV, §401, July 13, 1966, 80 Stat. 278; Pub. L. 98–525, title XIV, §1405(1), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–433, title I, §103, title III, §301(b)(1), title V, §514(c)(1), Oct. 1, 1986, 100 Stat. 996, 1022, 1055; Pub. L. 101–510, div. A, title XIII, §1301(3), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(A), (b)(6), Jan. 1, 2021, 134 Stat. 3821, 3822.)
+(Added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 515; amended Pub. L. 89–501, title IV, §401, July 13, 1966, 80 Stat. 278; Pub. L. 98–525, title XIV, §1405(1), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–433, title I, §103, title III, §301(b)(1), title V, §514(c)(1), Oct. 1, 1986, 100 Stat. 996, 1022,1055; Pub. L. 101–510, div. A, title XIII, §1301(3), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(A), (b)(6), Jan. 1, 2021, 134 Stat. 3821, 3822.)
 
 Historical and Revision Notes
 

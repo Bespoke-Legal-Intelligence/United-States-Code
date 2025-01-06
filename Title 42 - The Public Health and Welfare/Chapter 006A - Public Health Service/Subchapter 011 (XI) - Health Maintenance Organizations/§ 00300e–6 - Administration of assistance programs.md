@@ -2,7 +2,7 @@
 
 #### (a) Recordkeeping; audit and examination
 
-(1) Each recipient of a loan or loan guarantee under this subchapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of the loan (directly made or guaranteed), the total cost of the undertaking in connection with which the loan was given or used, the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of a loan or loan guarantee under this subchapter shall keep such records as the Secretary shall prescribe, including recordswhich fully disclose the amount and disposition by such recipient of the proceeds of the loan (directly made or guaranteed), the total cost of the undertaking in connection with which the loan was given or used, the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary, or any of his duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of a loan or loan guarantee under this subchapter which relate to such assistance.
 
@@ -22,7 +22,7 @@ An entity which provides health services to a defined population on a prepaid ba
 
 > An entity which provides health services to a defined population on a prepaid basis and which has members who are enrolled under the health benefits program authorized by chapter 89 of title 5, may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title.
 
-(July 1, 1944, ch. 373, title XIII, §1307, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 926;amended Pub. L. 94–460, title I, §§109(b)(1), 112, Oct. 8, 1976, 90 Stat. 1950, 1953; Pub. L. 97–35, title IX, §943(d), Aug. 13, 1981, 95 Stat. 576; Pub. L. 99–660, title VIII, §803(a), (b)(2), Nov. 14, 1986, 100 Stat. 3799, 3800.)
+(July 1, 1944, ch. 373, title XIII, §1307, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 926; amended Pub. L. 94–460, title I, §§109(b)(1), 112, Oct. 8, 1976, 90 Stat. 1950, 1953; Pub. L. 97–35, title IX, §943(d), Aug. 13, 1981, 95 Stat. 576; Pub. L. 99–660, title VIII, §803(a), (b)(2), Nov. 14, 1986, 100 Stat. 3799, 3800.)
 
 #### <b>Editorial Notes</b>
 

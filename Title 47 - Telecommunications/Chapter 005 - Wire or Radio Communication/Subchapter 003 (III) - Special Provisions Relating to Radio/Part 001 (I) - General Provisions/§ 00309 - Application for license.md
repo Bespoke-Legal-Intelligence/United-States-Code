@@ -88,7 +88,7 @@ General authority.—Except as provided in paragraph (5), if there is more than 
 
 (3)(A) The Commission shall establish rules and procedures to ensure that, in the administration of any system of random selection under this subsection used for granting licenses or construction permits for any media of mass communications, significant preferences will be granted to applicants or groups of applicants, the grant to which of the license or permit would increase the diversification of ownership of the media of mass communications. To further diversify the ownership of the media of mass communications, an additional significant preference shall be granted to any applicant controlled by a member or members of a minority group.
 
-(B) The Commission shall have authority to require each qualified applicant seeking a significant preference under subparagraph (A) to submit to the Commission such information as may be necessary to enable the Commission tomake a determination regarding whether such applicant shall be granted such preference. Such information shall be submitted in such form, at such times, and in accordance with such procedures, as the Commission may require.
+(B) The Commission shall have authority to require each qualified applicant seeking a significant preference under subparagraph (A) to submit to the Commission such information as may be necessary to enable the Commission to make a determination regarding whether such applicant shall be granted such preference. Such information shall be submitted in such form, at such times, and in accordance with such procedures, as the Commission may require.
 
 (C) For purposes of this paragraph:
 
@@ -112,7 +112,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (1) General authority
 
-&emsp;If, consistent with the obligations described in paragraph (6)(E), mutually exclusive applications are accepted for any initial license or construction permit, then, except as provided in paragraph (2), the Commission shall grant the license or permit to a qualified applicant through a system of competitive bidding that meets the requirements of this subsection.
+&emsp;If, consistent with the obligations described in paragraph (6)(E), mutually exclusive applications are accepted for any initial license orconstruction permit, then, except as provided in paragraph (2), the Commission shall grant the license or permit to a qualified applicant through a system of competitive bidding that meets the requirements of this subsection.
 
 #### (2) Exemptions
 
@@ -224,7 +224,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), cash proceeds attributable to the auction of any eligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)) shall be deposited in the Spectrum Relocation Fund established under section 118 of such Act \[47 U.S.C. 928\], and shall be available in accordance with that section.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), cash proceeds attributable to the auction of anyeligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)) shall be deposited in the Spectrum Relocation Fund established under section 118 of such Act \[47 U.S.C. 928\], and shall be available in accordance with that section.
 
 #### (ii) Certain other proceeds
 
@@ -414,7 +414,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(i) The Commission shall—
 
-&emsp;&emsp;&emsp;(I) ensure that, as licenses for analog television service expire pursuant to subparagraph (A), each licensee shall cease using electromagnetic spectrum assigned to such service according to the Commission's direction; and
+&emsp;&emsp;&emsp;(I) ensure that, as licenses for analog television service expire pursuant to subparagraph (A), each licensee shall cease usingelectromagnetic spectrum assigned to such service according to the Commission's direction; and
 
 &emsp;&emsp;&emsp;(II) reclaim and organize the electromagnetic spectrum in a manner consistent with the objectives described in paragraph (3) of this subsection.
 
@@ -552,7 +552,7 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(2) treat the persons filing such applications as the only persons eligible to be qualified bidders for purposes of such proceeding; and
 
-&emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
+&emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter anagreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
 (June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22; Pub. L. 111–4, §§2(b)(2), 5, Feb. 11, 2009, 123 Stat. 112, 114; Pub. L. 112–96, title VI, §§6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, 126 Stat. 223, 224, 230, 245, 252; Pub. L. 114–74, title X, §1007, Nov. 2, 2015, 129 Stat. 624; Pub. L. 115–141, div. P, title I, §101(b), title IV, §402(h)(2), (i)(4), title V, §512(a), Mar. 23, 2018, 132 Stat. 1081, 1089, 1097; Pub. L. 117–58, div. I, §90008(c)(1), Nov. 15, 2021, 135 Stat. 1350; Pub. L. 117–180, div. C, title I, §101, Sept. 30, 2022, 136 Stat. 2133; Pub. L. 117–229, div. B, title I, §101, Dec. 16, 2022, 136 Stat. 2309; Pub. L. 117–328, div. O, title IX, §901, Dec. 29, 2022, 136 Stat. 5232.)
 
@@ -686,7 +686,7 @@ Uses to which bidding may apply.—A use of the electromagnetic spectrum is desc
 
 &emsp;"(B) a system of competitive bidding will promote the objectives described in paragraph (3)."
 
-Subsec. (j)(3). Pub. L. 105–33, §3002(a)(1)(B)(i), inserted after second sentence of introductory provisions "TheCommission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round."
+Subsec. (j)(3). Pub. L. 105–33, §3002(a)(1)(B)(i), inserted after second sentence of introductory provisions "The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round."
 
 Subsec. (j)(3)(E). Pub. L. 105–33, §3002(a)(1)(B)(ii)–(iv), added subpar. (E).
 
@@ -780,6 +780,110 @@ Pub. L. 86–752, §4(d)(1)–(3), Sept. 13, 1960, 74 Stat. 892, provided that:
 
 "(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection."
 
+#### Auction of AWS–3 Bands
+
+Pub. L. 118–159, div. E, title LIV, §§5402–5404, Dec. 23, 2024, 138 Stat. 2449, 2450, provided that:
+
+#### "SEC. 5402. DEFINITIONS.
+
+"In this title \[amending section 1603 of this title and enacting provisions set out as a note under section 609 of this title\]:
+
+&emsp;"(1)
+
+Commission.—The term 'Commission' means the Federal Communications Commission.
+
+&emsp;"(2)
+
+Covered auction.—The term 'covered auction' means a system of competitive bidding conducted under section 5403 \[of Pub. L. 118–159, set out below\].
+
+#### "SEC. 5403. FCC AUCTION OF CERTAIN LICENSES.
+
+"(a)
+
+FCC Auction of Certain Licenses.—Not later than 18 months after the date of enactment of this Act \[Dec. 23, 2024\], the Commission shall initiate systems of competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) to grant licenses for spectrum in the inventory of the Commission as of the date of enactment of this Act in the bands of frequencies referred to by the Commission as the 'AWS–3 bands', consistent with existing regulations to protect Federal Government operations.
+
+"(b)
+
+Completion of Auctions.—The Commission shall complete the systems of competitive bidding described in subsection (a), including receiving payments, processing applications, and granting licenses, without regard to whether the authority of the Commission under paragraph (11) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) has expired.
+
+#### "SEC. 5404. SPECTRUM AUCTION TRUST FUND.
+
+"(a)
+
+Establishment.—
+
+&emsp;"(1)
+
+In general.—There is established in the Treasury of the United States a fund to be known as the 'Spectrum Auction Trust Fund' (referred to in this section as the 'Fund') for the purposes described in subsection (b).
+
+&emsp;"(2)
+
+Amounts available until expended.—Amounts deposited in the Fund shall remain available until expended.
+
+"(b)
+
+Deposit of Proceeds.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of law, except section 309(j)(8)(B) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(B)), the proceeds (including deposits and upfront payments from successful bidders) from any covered auction shall be deposited or available in accordance with this subsection.
+
+&emsp;"(2)
+
+Treasury reimbursement.—Notwithstanding any other provision of law, an aggregate total amount of $3,300,000,000 of the proceeds of covered auctions shall be deposited in the Fund as follows:
+
+&emsp;&emsp;"(A) 50 percent of those amounts, but not more than $3,080,000,000 cumulatively, shall be transferred to the general fund of the Treasury to reimburse the amount borrowed under subsection (c)(1).
+
+&emsp;&emsp;"(B) 50 percent of those amounts, but not more than $220,000,000 cumulatively, shall be transferred to the general fund of the Treasury to reimburse the amount borrowed under subsection (d)(1).
+
+&emsp;"(3)
+
+Distribution.—If the maximum amount permitted under any subparagraph of paragraph (2) is reached, whether through covered auction proceeds or appropriations to the program specified in that subparagraph, any remaining proceeds from the amount of proceeds of covered auctions described in that paragraph shall be deposited pro rata based on the original distribution to all subparagraphs of paragraph (2) for which the maximum amount permitted has not been met.
+
+&emsp;"(4)
+
+Extra amounts.—
+
+&emsp;&emsp;"(A)
+
+In general.—After the amounts required to be made available by paragraphs (2) and (3) are so made available, any remaining amounts up to $280,000,000 shall be made available to the Secretary of Commerce to carry out section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3722a).
+
+&emsp;&emsp;"(B)
+
+Limitation.—The Secretary of Commerce may not use any funds made available under subparagraph (A) in a manner that may result in outlays on or after December 31, 2033.
+
+&emsp;&emsp;"(C)
+
+Deficit reduction.—After the amounts required to be made available by subparagraph (A) are so made available, any remaining amounts shall be deposited in the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
+
+"(c)
+
+FCC Borrowing Authority.—
+
+&emsp;"(1)
+
+In general.—Subject to the limitation under paragraph (2), not later than 90 days after the date of enactment of this Act \[Dec. 23, 2024\], the Commission may borrow from the Treasury of the United States an amount not to exceed $3,080,000,000 to carry out the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601 et seq.).
+
+&emsp;"(2)
+
+Limitation.—The Commission may not use any funds borrowed under this subsection in a manner that may result in outlays on or after December 31, 2033.
+
+"(d)
+
+Department of Commerce Borrowing Authority.—
+
+&emsp;"(1)
+
+In general.—Subject to the limitation under paragraph (2), not later than 90 days after the date of enactment of this Act, the Secretary of Commerce may borrow from the Treasury of the United States an amount not to exceed $220,000,000 to carry out section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3722a).
+
+&emsp;"(2)
+
+Limitation.—The Secretary of Commerce may not use any funds borrowed under this subsection in a manner that may result in outlays on or after December 31, 2033.
+
+"(e)
+
+Reporting Requirement.—Not later than 2 years after the date of enactment of this Act, and annually thereafter until funds are fully expended, the head of an agency that receives funds under subsection (b)(4)(A), (c)(1), or (d)(1) shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the uses of the amounts received by that agency head under the applicable subsection."
+
 #### 5G Spectrum Authority Licensing Enforcement
 
 Pub. L. 118–27, Dec. 19, 2023, 137 Stat. 132, provided that:
@@ -798,7 +902,7 @@ Pub. L. 111–4, §4, Feb. 11, 2009, 123 Stat. 113, provided that:
 
 "(a)
 
-Permissive Early Termination Under Existing Requirements.—Nothing in this Act \[amending this section and section 337 of this title, enacting provisions set out as notes under this section and section 609 of this title, and amending provisions set out as notes under this section\] is intended to prevent a licensee of a television broadcast station from terminating the broadcasting of such station's analog television signal (and continuing to broadcast exclusively in the digital television service) prior to the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[section 3002(b) of Pub. L. 109–171, set out below\] for termination of all licenses for full-power television stations in the analog television service (as amended by section 2 of this Act) so long as such prior termination is conducted in accordance with the Federal Communications Commission's requirements in effect on the date of enactment of this Act \[Feb. 11, 2009\], including the flexible procedures established in the Matter of Third Periodic Review of the Commission's Rules and Policies Affecting the Conversion to Digital Television (FCC 07–228, MB Docket No. 07–91, released December 31, 2007).
+Permissive Early Termination Under Existing Requirements.—Nothing in this Act \[amending this section and section 337 of this title, enacting provisions set out as notes under this section and section 609 of this title, and amending provisions set out as notes under this section\] is intended to prevent a licensee of a television broadcast station from terminating the broadcasting of such station's analog television signal (and continuing to broadcast exclusively in the digital television service) prior to the date established by law under section 3002(b) of the Digital Television Transition and Public Safety Act of 2005 \[section 3002(b) ofPub. L. 109–171, set out below\] for termination of all licenses for full-power television stations in the analog television service (as amended by section 2 of this Act) so long as such prior termination is conducted in accordance with the Federal Communications Commission's requirements in effect on the date of enactment of this Act \[Feb. 11, 2009\], including the flexible procedures established in the Matter of Third Periodic Review of the Commission's Rules and Policies Affecting the Conversion to Digital Television (FCC 07–228, MB Docket No. 07–91, released December 31, 2007).
 
 "(b)
 
@@ -1112,7 +1216,7 @@ Establishment.—The Assistant Secretary shall make payments of not to exceed $6
 
 "(b)
 
-Eligible Stations.—For purposes of this section, the term 'eligible low-power television station'means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
+Eligible Stations.—For purposes of this section, the term 'eligible low-power television station' means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
 
 &emsp;"(1) that is itself broadcasting exclusively in analog format; and
 

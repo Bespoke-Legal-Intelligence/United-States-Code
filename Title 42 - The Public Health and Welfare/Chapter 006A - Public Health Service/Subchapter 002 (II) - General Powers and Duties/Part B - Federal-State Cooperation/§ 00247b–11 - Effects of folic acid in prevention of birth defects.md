@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and intensify programs (directly or through grants or contracts) for the following purposes:
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall expand and intensify programs (directly or through grants or contracts) for the following purposes:
 
 &emsp;(1) To provide education and training for health professionals and the general public for purposes of explaining the effects of folic acid in preventing birth defects and for purposes of encouraging each woman of reproductive capacity (whether or not planning a pregnancy) to consume on a daily basis a dietary supplement that provides an appropriate level of folic acid.
 

@@ -54,7 +54,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 #### Amendments
 
-<b>2019</b>—Subsec. (c). Pub. L. 116–33 substituted "is a refinance" for "is refinanced" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+<b>2019</b>—Subsec. (c). Pub. L. 116–33 substituted "is a refinance" for "is refinanced" in introductory provisions,added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
 "(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
 

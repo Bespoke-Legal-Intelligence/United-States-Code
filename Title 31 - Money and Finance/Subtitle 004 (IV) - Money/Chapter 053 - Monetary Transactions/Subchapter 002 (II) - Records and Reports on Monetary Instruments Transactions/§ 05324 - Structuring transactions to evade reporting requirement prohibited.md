@@ -22,7 +22,7 @@ Domestic Coin and Currency Transactions Involving Nonfinancial Trades or Busines
 
 (c)
 
-International Monetary Instrument Transactions.—No person shall, for the purpose of evading the reporting requirements of section 5316—
+International Monetary Instrument Transactions.—No person shall, for the purposeof evading the reporting requirements of section 5316—
 
 &emsp;(1) fail to file a report required by section 5316, or cause or attempt to cause a person to fail to file such a report;
 
@@ -64,7 +64,7 @@ Subsec. (a)(2). Pub. L. 107–56, §353(c)(4), inserted ", to file a report or 
 
 Subsecs. (b) to (d). Pub. L. 107–56, §365(b)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330017(a)(2) and Pub. L. 103–325, §413(a)(2), amended subsec. (a), introductory provisions, identically, substituting "section5313(a) or 5325 or any regulation prescribed under any such section" for "section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325" and striking out "with respect to such transaction" before dash.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330017(a)(2) and Pub. L. 103–325, §413(a)(2), amended subsec. (a), introductory provisions, identically, substituting "section 5313(a) or 5325 or any regulation prescribed under any such section" for "section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325" and striking out "with respect to such transaction" before dash.
 
 Subsec. (a)(1), (2). Pub. L. 103–322, §330017(a)(2)(A) and Pub. L. 103–325, §413(a)(2)(A), amended pars. (1) and (2) identically, substituting "section 5313(a) or 5325 or any regulation prescribed under any such section" for "section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325".
 

@@ -34,7 +34,7 @@ Section 1013(a) of title 5 (relating to termination) shall not apply to the Coun
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2), (b), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2), (b), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 1143(b) of this title, referred to in subsec. (b), was omitted from the Code.
 
@@ -52,7 +52,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

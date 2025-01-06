@@ -42,7 +42,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 (1) The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) <sup>1</sup> of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) <sup>1</sup> of this title, pursuant to section 760a <sup>1</sup> of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 753 <sup>1</sup> of this title.
 
-(2) Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
+(2) Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price togetherwith an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
 
 (Pub. L. 93–275, §5, May 7, 1974, 88 Stat. 98; Pub. L. 94–385, title I, §102, Aug. 14, 1976, 90 Stat. 1127.)
 

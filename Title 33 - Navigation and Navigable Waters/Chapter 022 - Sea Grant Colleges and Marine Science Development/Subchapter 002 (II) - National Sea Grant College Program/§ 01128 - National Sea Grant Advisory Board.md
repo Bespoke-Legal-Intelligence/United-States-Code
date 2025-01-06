@@ -52,7 +52,7 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 #### Amendments
 
-<b>2020</b>—Subsec. (b)(2). Pub. L. 116–221, §5, substituted "Periodic" for "Biennial" in heading, substituted "The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report." for "The Board shall report to the Congress every two years on the state of the national sea grant college program." in first sentence, and inserted "and provide a summary of research conducted under the program" after "section 1123(c) of this title" in second sentence. Former third sentence redesignated subsec. (b)(3).
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–221, §5, substituted "Periodic" for "Biennial" in heading, substituted "The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report." for "The Board shall report to the Congress every two years on the state of the national sea grant college program." in first sentence, and inserted "and provide a summary of research conducted under the program" after "section1123(c) of this title" in second sentence. Former third sentence redesignated subsec. (b)(3).
 
 Subsec. (b)(3). Pub. L. 116–221, §11(2), designated third sentence of subsec. (b)(2) as par. (3) and inserted heading.
 

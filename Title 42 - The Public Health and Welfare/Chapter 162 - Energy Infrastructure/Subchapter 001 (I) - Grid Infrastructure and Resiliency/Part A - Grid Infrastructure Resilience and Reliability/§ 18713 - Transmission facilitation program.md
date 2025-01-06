@@ -86,7 +86,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (2) Borrowing authority
 
-&emsp;The Secretary of the Treasury may, without further appropriation and without fiscal year limitation, loan to the Secretary on such terms as may be fixed by the Secretary and the Secretary of the Treasury, such sums as, in the judgment of the Secretary, are from time to time required for the purpose of carrying out the program, not to exceed, in the aggregate (including deferred interest), $2,500,000,000 in outstanding repayable balances at any 1 time.
+&emsp;The Secretary of the Treasury may, without further appropriation and without fiscal yearlimitation, loan to the Secretary on such terms as may be fixed by the Secretary and the Secretary of the Treasury, such sums as, in the judgment of the Secretary, are from time to time required for the purpose of carrying out the program, not to exceed, in the aggregate (including deferred interest), $2,500,000,000 in outstanding repayable balances at any 1 time.
 
 #### (3) Authorization of appropriations
 
@@ -212,7 +212,7 @@ There is established a program, to be known as the "Transmission Facilitation Pr
 
 #### (g) Interest rate on loans
 
-The rate of interest to be charged in connection with any loan made by the Secretary to aneligible entity under subsection (e)(1)(B) shall be fixed by the Secretary, taking into consideration market yields on outstanding marketable obligations of the United States of comparable maturities as of the date of the loan.
+The rate of interest to be charged in connection with any loan made by the Secretary to an eligible entity under subsection (e)(1)(B) shall be fixed by the Secretary, taking into consideration market yields on outstanding marketable obligations of the United States of comparable maturities as of the date of the loan.
 
 #### (h) Public-private partnerships
 
@@ -262,7 +262,7 @@ Prior to taking action to facilitate an eligible project under subparagraph (A),
 
 #### (3) Federal facilities
 
-&emsp;For purposes of cost recovery under subsection (d)(4) and repayment of a loan issued under subsection (e)(1)(B), each eligible project facilitated by the Secretary under this section shall be treated as separate and distinct from—
+&emsp;For purposes of cost recovery under subsection (d)(4) and repayment of a loan issuedunder subsection (e)(1)(B), each eligible project facilitated by the Secretary under this section shall be treated as separate and distinct from—
 
 &emsp;&emsp;(A) each other eligible project; and
 
@@ -314,7 +314,7 @@ Prior to taking action to facilitate an eligible project under subparagraph (A),
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (f)(4)(D), is act June 10, 1920, ch. 285, 41 Stat. 1063, whichis classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (f)(4)(D), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

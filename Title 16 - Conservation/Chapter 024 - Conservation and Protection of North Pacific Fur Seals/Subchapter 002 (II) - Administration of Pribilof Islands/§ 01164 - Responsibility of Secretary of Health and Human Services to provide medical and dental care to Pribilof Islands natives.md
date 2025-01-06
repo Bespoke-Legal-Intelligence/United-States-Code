@@ -4,6 +4,8 @@ The Secretary of Health and Human Services shall provide medical and dental care
 
 (Pub. L. 89–702, title II, §204, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 839.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### References in Text

@@ -24,7 +24,7 @@ Waiver.—The Secretary of Defense shall waive the payment of costs required by 
 
 &emsp;(3) the Secretary determines, in accordance with section 552(a)(4)(A)(iii) of title 5, that such a waiver is in the interests of the United States.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub.L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, §2328; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278; renumbered §3794, Pub. L. 116–283, div. A, title XVIII, §1833(o)(2), Jan. 1, 2021, 134 Stat. 4234; Pub. L. 117–81, div. A, title XVII, §1701(b)(12)(B), Dec. 27, 2021, 135 Stat. 2134.)
+(Added Pub. L. 99–500, §101(c) \[title X, §954(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §954(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, §2328; Pub. L. 99–661, div. A, title IX, formerly title IV, §954(a)(1), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(a)(7)(A), (B)(i), Apr. 21, 1987, 101 Stat. 278; renumbered §3794, Pub. L. 116–283, div. A, title XVIII, §1833(o)(2), Jan. 1, 2021, 134 Stat. 4234; Pub. L. 117–81, div. A, title XVII, §1701(b)(12)(B), Dec. 27, 2021, 135 Stat. 2134.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,7 +66,7 @@ Subsec. (c)(3). Pub. L. 100–26, §7(a)(7)(A)(iii), substituted "section 552(a)
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 

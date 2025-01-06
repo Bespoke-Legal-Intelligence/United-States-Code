@@ -28,7 +28,7 @@ Requested Information on Crashworthiness, Damage Susceptibility, and Repair and 
 
 (c)
 
-Disclosure.—In distributing information received under this section, the Secretary may disclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.
+Disclosure.—In distributing information received under this section, the Secretary maydisclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1036.)
 

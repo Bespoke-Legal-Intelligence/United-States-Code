@@ -60,7 +60,7 @@ Rule of Construction.—Notwithstanding any other provision of law, there is no 
 
 (c)
 
-Agreement Violation.—Participants in an agreement found by the Commission to violate subsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.
+Agreement Violation.—Participants in an agreement found by the Commission to violatesubsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.
 
 (d)
 

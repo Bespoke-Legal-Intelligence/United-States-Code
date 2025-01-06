@@ -24,7 +24,7 @@ Statement To Be Included.—(1) Under regulations prescribed by the Secretary co
 
 (d)
 
-States Not Recognizing Advance Medical Directives.—Subsection (a) does not make an advance medical directive enforceable in a State that does not otherwise recognize and enforceadvance medical directives under the laws of the State.
+States Not Recognizing Advance Medical Directives.—Subsection (a) does not make an advance medical directive enforceable in a State that does not otherwise recognize and enforce advance medical directives under the laws of the State.
 
 (e)
 

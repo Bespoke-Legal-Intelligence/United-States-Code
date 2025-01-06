@@ -18,9 +18,9 @@
 
 &emsp;&emsp;(F) $36,472,442,775 for fiscal year 2020.
 
-#### (2) Funding for 10-year pediatric research initiative through Common Fund
+#### (2) Funding for pediatric research initiative
 
-&emsp;For the purpose of carrying out section 282(b)(7)(B)(ii) of this title, there is authorized to be appropriated to the Common Fund, out of the 10-Year Pediatric Research Initiative Fund described in section 9008 of title 26, and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $12,600,000 for each of fiscal years 2014 through 2023.
+&emsp;For the purpose of carrying out section 282(b)(7)(B)(ii) of this title, there is authorized to be appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives, out of the Pediatric Research Initiative Fund described in section 9008 of title 26, and in addition to amounts otherwise made available under paragraph (1) of this subsection, $12,600,000 for each of fiscal years 2024 through 2028.
 
 #### (b) Office of the Director
 
@@ -32,7 +32,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (A) Account
 
-&emsp;&emsp;For the purpose of allocations under section 282(b)(7)(B) of this title (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
+&emsp;&emsp;For the purpose of allocations under section 282(b)(7)(B)(i) of this title (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
 
 #### (B) Reservation
 
@@ -66,7 +66,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (A) Limitation
 
-&emsp;&emsp;With respect to the total amount appropriated under subsection (a) for fiscal year 2008 or any subsequent fiscal year, if the head of a national research institute or national center fails to submit the report required by subparagraph (B) for the preceding fiscal year, the amount made available for the institute or center for the fiscal year involved may not exceed the amount made available for the institute or center for fiscal year 2006.
+&emsp;&emsp;With respect to the total amount appropriated under subsection (a) for fiscal year2008 or any subsequent fiscal year, if the head of a national research institute or national center fails to submit the report required by subparagraph (B) for the preceding fiscal year, the amount made available for the institute or center for the fiscal year involved may not exceed the amount made available for the institute or center for fiscal year 2006.
 
 #### (B) Reporting
 
@@ -74,7 +74,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (C) Determination
 
-&emsp;&emsp;For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
+&emsp;&emsp;For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B)(i) of this title shall be included.
 
 #### (D) Verification of amounts
 
@@ -92,11 +92,15 @@ Of the total amount appropriated under subsection (a)(1) for a fiscal year, the 
 
 This section may not be construed as affecting the authorities of the Director of NIH under section 281 of this title.
 
-(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073.)
+(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073; Pub. L. 118–228, §2(1), (2), Jan. 4, 2025, 138 Stat. 2822.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(2). Pub. L. 118–228, §2(1), struck out "10-year" before "pediatric" and "through Common Fund" after "initiative" in heading, and in text substituted "to the Division of Program Coordination, Planning, and Strategic Initiatives" for "to the Common Fund" and "2024 through 2028" for "2014 through 2023", and struck out "10-Year" before "Pediatric Research Initiative Fund" and "and reserved under subsection (c)(1)(B)(i) of this section" after "paragraph (1) of this subsection".
+
+Subsec. (c)(1)(A), (2)(C). Pub. L. 118–228, §2(2), substituted "section 282(b)(7)(B)(i)" for "section 282(b)(7)(B)".
 
 <b>2016</b>—Subsec. (a)(1)(D) to (F). Pub. L. 114–255, §2001, added subpars. (D) to (F).
 
@@ -126,7 +130,7 @@ Section applicable only with respect to amounts appropriated for fiscal year 200
 
 #### Supplement, Not Supplant; Prohibition Against Transfer
 
-Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that: "Funds appropriated pursuant to section402A(a)(2) of the Public Health Service Act \[42 U.S.C. 282a(a)(2)\], as added by subsection (b)—
+Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that: "Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act \[42 U.S.C. 282a(a)(2)\], as added by subsection (b)—
 
 &emsp;"(1) shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
 

@@ -30,7 +30,7 @@ Whenever the Secretary of the Treasury (after consultation with the Secretary of
 
 #### Prior Provisions
 
-A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644, related to conditions of additionalcredit allowance. For further details, see Prior Law note set out preceding section 1101 of this title.
+A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644, related to conditions of additional credit allowance. For further details, see Prior Law note set out preceding section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "to in".</i>
 

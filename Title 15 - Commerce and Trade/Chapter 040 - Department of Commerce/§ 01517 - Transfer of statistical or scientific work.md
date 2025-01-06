@@ -20,7 +20,7 @@ Section is based on section 12 of act Feb. 14, 1903, as originally enacted. Sect
 
 Department of Defense substituted for Departments of the Army and Navy by act July 26, 1947, as amended Aug. 10, 1949.
 
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerceand that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 #### Meteorological Satellite (METSAT) and Associated Ground Systems; Expenditure of Funds To Develop Proposals To Transfer Ownership to Private Entities Prohibited
 
@@ -82,7 +82,7 @@ Section 1. (a) The following programs and activities are hereby transferred to t
 
 (b) All of the power and authority of the transferor Departments conferred by law which is related to or incidental to, in support of, or necessary for, the operation of the programs and activities transferred by subsection (a) above, may be utilized by the Secretary of Commerce for the operation of those programs and activities.
 
-Sec. 2. (a) Such personnel and positions and so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed,used, held, authorized, affected, available, or to be made available in connection with the operation of the programs and activities transferred by section 1 hereof from the Department of Defense and the Department of Transportation as the Director of the Office of Management and Budget shall determine shall be transferred from those Departments to the Department of Commerce at such time or times as the Director shall direct.
+Sec. 2. (a) Such personnel and positions and so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, authorized, affected, available, or to be made available in connection with the operation of the programs and activities transferred by section 1 hereof from the Department of Defense and the Department of Transportation as the Director of the Office of Management and Budget shall determine shall be transferred from those Departments to the Department of Commerce at such time or times as the Director shall direct.
 
 (b) Subject to the direction of the Director of the Office of Management and Budget, the appropriate officers of the Government shall make necessary administrative arrangements for the assumption by the Secretary of Commerce of the programs and activities so transferred.
 

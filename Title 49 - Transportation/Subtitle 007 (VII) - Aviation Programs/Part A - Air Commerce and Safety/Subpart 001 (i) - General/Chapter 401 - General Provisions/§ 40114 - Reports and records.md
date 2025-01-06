@@ -68,7 +68,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), the word "Administrator" in section 313(b) of the Federal Aviation Act of 1958 (PublicLaw 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
+In subsection (a), the word "Administrator" in section 313(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
 
 In subsection (a)(1), the words "otherwise", "requirement in the premises", and "shall be entered of record" are omitted as surplus.
 

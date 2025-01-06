@@ -18,7 +18,7 @@ Any person may file with the Secretary a petition proposing the issuance of an o
 
 #### (1) In general
 
-&emsp;If the Secretary determines that the information in a new dietary ingredient notification submitted under this section for an article purported to be a new dietary ingredient is inadequate to establish that a dietary supplement containing such article will reasonably be expected to be safe because the article may be, or may contain, an anabolic steroid or an analogue of an anabolic steroid, the Secretary shall notify the Drug Enforcement Administration of such determination. Such notification by the Secretary shall include, at a minimum, the name of the dietary supplement or article, the name of the person or persons who marketed the product or made the submission of information regarding the article to the Secretary under this section, and any contact information for such person or persons that the Secretary has.
+&emsp;If the Secretary determines that the information in a new dietary ingredient notification submitted under this section for an article purported to be a new dietary ingredient is inadequate to establish that a dietary supplement containing such article will reasonablybe expected to be safe because the article may be, or may contain, an anabolic steroid or an analogue of an anabolic steroid, the Secretary shall notify the Drug Enforcement Administration of such determination. Such notification by the Secretary shall include, at a minimum, the name of the dietary supplement or article, the name of the person or persons who marketed the product or made the submission of information regarding the article to the Secretary under this section, and any contact information for such person or persons that the Secretary has.
 
 #### (2) Definitions
 
@@ -30,7 +30,7 @@ Any person may file with the Secretary a petition proposing the issuance of an o
 
 #### (d) "New dietary ingredient" defined
 
-For purposes of this section, the term "new dietary ingredient" means a dietary ingredientthat was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
+For purposes of this section, the term "new dietary ingredient" means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
 
 (June 25, 1938, ch. 675, §413, as added Pub. L. 103–417, §8, Oct. 25, 1994, 108 Stat. 4331; amended Pub. L. 111–353, title I, §113(a), Jan. 4, 2011, 124 Stat. 3920.)
 

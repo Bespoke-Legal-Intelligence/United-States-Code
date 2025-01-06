@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, a health care professional who is a 
 
 &emsp;&emsp;(D) in the course of providing services that are within the scope of the license, registration, or certification of the professional, as defined by the State of licensure, registration, or certification; and
 
-&emsp;(3) prior to the rendering of such act or omission, was authorized by the State's authorization of deploying such State's Emergency System for Advance Registration ofVolunteer Health Professionals described in section 247d–7b of this title or the Medical Reserve Corps established under section 300hh–15 of this title, to provide health care services,
+&emsp;(3) prior to the rendering of such act or omission, was authorized by the State's authorization of deploying such State's Emergency System for Advance Registration of Volunteer Health Professionals described in section 247d–7b of this title or the Medical Reserve Corps established under section 300hh–15 of this title, to provide health care services,
 
 > shall be subject only to the State liability laws of the State in which such act or omission occurred, in the same manner and to the same extent as a similar health care professional who is a resident of such State would be subject to such State laws, except with respect to the licensure, registration, and certification of such individual.
 

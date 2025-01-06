@@ -12,7 +12,7 @@ The certificate of commendation presented to a current or former employee under 
 
 For purposes of this section, the term "Department of Energy" includes any predecessor agency of the Department of Energy.
 
-(Pub. L. 107–314, div. D, title XLVI, §4605, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; renumbered Pub. L. 107–314, div. D, title XLVI, §4605, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 113–66, div. C, title XXXI, §3146(g)(5), Dec. 26, 2013, 127 Stat. 1079.)
+(Pub. L. 107–314, div. D, title XLVI, §4605, formerly Pub. L. 106–398, §1 \[div. C, title XXXI,§3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; renumbered Pub. L. 107–314, div. D, title XLVI, §4605, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 113–66, div. C, title XXXI, §3146(g)(5), Dec. 26, 2013, 127 Stat. 1079.)
 
 #### <b>Editorial Notes</b>
 

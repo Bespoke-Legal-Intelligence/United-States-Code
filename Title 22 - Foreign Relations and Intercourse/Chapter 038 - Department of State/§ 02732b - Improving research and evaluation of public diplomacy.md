@@ -40,7 +40,7 @@ The Secretary, acting through the Director of Research and Evaluation appointed 
 
 #### (4) Guidance and training
 
-&emsp;Not later than 1 year after the appointment of the Director pursuant to paragraph (1), the Director shall develop guidance and training, including curriculum for use by the Foreign Service Institute, for all public diplomacy officers of the Department regarding the reading and interpretation of public diplomacy program and activity evaluation findings to ensure that such findings and related lessonslearned are implemented in the planning and evaluation of all public diplomacy programs and activities of the Department.
+&emsp;Not later than 1 year after the appointment of the Director pursuant to paragraph (1), the Director shall develop guidance and training, including curriculum for use by the Foreign Service Institute, for all public diplomacy officers of the Department regarding the reading and interpretation of public diplomacy program and activity evaluation findings to ensure that such findings and related lessons learned are implemented in the planning and evaluation of all public diplomacy programs and activities of the Department.
 
 #### (c) Prioritizing research and evaluation
 

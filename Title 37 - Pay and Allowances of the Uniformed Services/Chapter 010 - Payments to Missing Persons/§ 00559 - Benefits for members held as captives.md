@@ -158,7 +158,7 @@ Attorney Fees.—Notwithstanding any contract, the representative of a person ma
 
 "(h)
 
-Outreach.—The Secretary of the Navy shall take such actions as are necessary to ensure that the benefits and eligibility for benefits under this sectionare widely publicized by means designed to provide actual notice of the availability of the benefits in a timely manner to the maximum number of eligible persons practicable.
+Outreach.—The Secretary of the Navy shall take such actions as are necessary to ensure that the benefits and eligibility for benefits under this section are widely publicized by means designed to provide actual notice of the availability of the benefits in a timely manner to the maximum number of eligible persons practicable.
 
 "(i)
 

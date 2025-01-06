@@ -220,7 +220,7 @@ In general.—The amendments made by this section \[amending sections 291, 812, 
 
 "(2)
 
-Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) \[set out above\] made on or before such date or to refinance loans described in this paragraph if—
+Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as ineffect on the day before the date of the enactment of this Act) \[set out above\] made on or before such date or to refinance loans described in this paragraph if—
 
 &emsp;"(A) the refinancing loans meet the requirements of section 133 of such Code (as so in effect),
 

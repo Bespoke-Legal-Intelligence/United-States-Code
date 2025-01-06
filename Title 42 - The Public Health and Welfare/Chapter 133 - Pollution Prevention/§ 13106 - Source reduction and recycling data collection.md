@@ -20,7 +20,7 @@ The toxic chemical source reduction and recycling report required under subsecti
 
 &emsp;&emsp;(C) Substitution of raw materials.
 
-&emsp;&emsp;(D) Improvement in management, training, inventory control, materials handling, or other general operational phases of industrial facilities.
+&emsp;&emsp;(D) Improvement in management, training, inventory control, materials handling,or other general operational phases of industrial facilities.
 
 &emsp;(4) The amount expected to be reported under paragraph <sup>2</sup> (1) and (2) for the two calendar years immediately following the calendar year for which the report is filed. Such amount shall be expressed as a percentage change from the amount reported in paragraphs (1) and (2).
 

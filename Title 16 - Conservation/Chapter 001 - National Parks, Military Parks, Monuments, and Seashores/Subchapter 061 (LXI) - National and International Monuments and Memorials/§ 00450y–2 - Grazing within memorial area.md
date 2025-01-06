@@ -6,6 +6,8 @@ Grazing of livestock within the memorial area to the extent now permitted within
 
 (Aug. 18, 1941, ch. 365, §3, 55 Stat. 631; Pub. L. 94–429, §3(f), Sept. 28, 1976, 90 Stat. 1342.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### Amendments

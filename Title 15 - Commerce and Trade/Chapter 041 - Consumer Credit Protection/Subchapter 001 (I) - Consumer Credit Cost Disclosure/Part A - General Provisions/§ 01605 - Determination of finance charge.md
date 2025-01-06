@@ -56,7 +56,7 @@ The following items, when charged in connection with any extension of credit sec
 
 #### (f) Tolerances for accuracy
 
-In connection with credit transactions not under an open end credit plan that are secured by real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
+In connection with credit transactions not under an open end credit plan that are securedby real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
 
 &emsp;(1) shall be treated as being accurate for purposes of this subchapter if the amount disclosed as the finance charge—
 

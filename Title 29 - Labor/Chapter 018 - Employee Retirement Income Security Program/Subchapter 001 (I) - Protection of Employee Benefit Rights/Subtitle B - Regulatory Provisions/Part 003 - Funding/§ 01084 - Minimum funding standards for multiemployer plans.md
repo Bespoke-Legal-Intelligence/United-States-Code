@@ -20,7 +20,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
 
-&emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfundedpast service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(iii) separately, with respect to each plan year, the net experience loss (if any) under the plan, over a period of 15 plan years, and
 
@@ -60,7 +60,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
-&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
+&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other suchparagraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
 
 #### (6) Interest
 
@@ -80,7 +80,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(i) shall be eliminated by an offsetting credit or charge (as the case may be), but
 
-&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized inequal annual installments (until fully amortized) over 30 plan years.
+&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized in equal annual installments (until fully amortized) over 30 plan years.
 
 > &emsp;&emsp;The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 1423(a) <sup>1</sup> of this title as of the end of the last plan year that the plan was in reorganization.
 
@@ -124,7 +124,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;&emsp;(I) no extension of the amortization period under clause (i) shall be allowed under subsection (d), and
 
-&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year before the election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
+&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year beforethe election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
 
 #### (iii) Net investment losses
 
@@ -196,7 +196,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(iii) by substituting "this subparagraph or subparagraph (A)" for "this subparagraph and subparagraph (A) both" in subparagraph (B)(iii).
 
-> &emsp;&emsp;The preceding sentence shall not apply to a plan to which special financial assistance is granted under section 1432 of this title. For purposes of the application of this subparagraph, the Secretary of the Treasury shall rely on the plan sponsor's calculations of plan losses unless such calculations are clearly erroneous.
+> &emsp;&emsp;The preceding sentence shall not apply to a plan to which special financial assistance isgranted under section 1432 of this title. For purposes of the application of this subparagraph, the Secretary of the Treasury shall rely on the plan sponsor's calculations of plan losses unless such calculations are clearly erroneous.
 
 #### (c) Additional rules
 
@@ -362,7 +362,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (ii) Use of prior year valuation
 
-&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
+&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date withinthe plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
 
 #### (iii) Adjustments
 
@@ -432,7 +432,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (B) Consideration of relevant information
 
-&emsp;&emsp;The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
+&emsp;&emsp;The Secretary of the Treasury shall consider any relevant information provided by aperson to whom notice was given under paragraph (1).
 
 (Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302; Pub. L. 113–235, div. O, title I, §§101(b)(1), 108(a)(3)(B), Dec. 16, 2014, 128 Stat. 2774, 2787; Pub. L. 113–295, div. A, title I, §171(b), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 117–2, title IX, §9703(a)(1), Mar. 11, 2021, 135 Stat. 188.)
 
@@ -516,7 +516,7 @@ Use of shortfall method not to preclude other options.—Nothing in this subsect
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
-For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
+For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 ofPub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

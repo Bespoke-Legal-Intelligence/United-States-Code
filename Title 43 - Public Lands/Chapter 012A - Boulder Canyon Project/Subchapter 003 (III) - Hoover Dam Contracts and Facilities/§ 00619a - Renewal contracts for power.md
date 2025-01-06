@@ -260,7 +260,7 @@ Totals
 
 728,853
 
-(C) To the Arizona Power Authority and the Colorado River Commission of Nevada and to purchasers in the State of California eligible toenter into such contracts under section 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\], contracts for delivery commencing October 1, 2017, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
+(C) To the Arizona Power Authority and the Colorado River Commission of Nevada and to purchasers in the State of California eligible to enter into such contracts under section 5 of the Boulder Canyon Project Act \[43 U.S.C. 617d\], contracts for delivery commencing October 1, 2017, of such energy generated at Hoover Dam as is available respectively to the States of Arizona, Nevada, and California in excess of 4,501.001 million kilowatthours in any year of operation (hereinafter called excess energy) in accordance with the following table:
 
 Schedule C
 
@@ -352,7 +352,7 @@ Totals
 
 226,352
 
-(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as "new allottees") for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term "the marketing area for the Boulder City Area Projects" shall have the same meaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28, 1984 (49 Federal Register 50582 et seq.) (referred to in this section as the "Criteria").
+(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as "new allottees") for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term "the marketing area for the Boulder City Area Projects" shall have the samemeaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28, 1984 (49 Federal Register 50582 et seq.) (referred to in this section as the "Criteria").
 
 (C)(i) Within 36 months of December 20, 2011, the Secretary of Energy shall allocate through the Western Area Power Administration (referred to in this section as "Western"), for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 66.7 percent of the Schedule D contingent capacity and firm energy to new allottees that are located within the marketing area for the Boulder City Area Projects and that are—
 
@@ -410,7 +410,7 @@ The provisions of this section constitute an exercise by the Congress of the rig
 
 #### (f) Court challenges; disputes and disagreements
 
-(1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon projectis barred unless the complaint is filed within one year after December 20, 2011, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action. Any claim that actions taken by any administrative agency of the United States violates any right under this subchapter or the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\] or the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\] is barred unless suit asserting such claim is filed in a Federal court of competent jurisdiction within one year after final refusal of such agency to correct the action complained of.
+(1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon project is barred unless the complaint is filed within one year after December 20, 2011, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action. Any claim that actions taken by any administrative agency of the United States violates any right under this subchapter or the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\] or the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\] is barred unless suit asserting such claim is filed in a Federal court of competent jurisdiction within one year after final refusal of such agency to correct the action complained of.
 
 (2) Any contract entered into pursuant to this section or section 107 of this Act \[42 U.S.C. 7133 note\] shall contain provisions by which any dispute or disagreement as to interpretation or performance of the provisions of this subchapter or of applicable regulations or of the contract may be determined by arbitration or court proceedings. The Secretary of Energy or the Secretary of the Interior, as the case may be, if authorized to act for the United States in such arbitration or court proceedings and, except as provided in paragraph (1) of this subsection, jurisdiction is conferred upon any district court of the United States of proper venue to determine the dispute.
 
@@ -436,7 +436,7 @@ Section 107 of this Act, referred to in subsec. (f)(2), is section 107 of Pub. L
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 112–72, §2(a), substituted "contract for delivery commencing October 1, 2017" for "renewal contract for delivery commencing June 1, 1987", inserted Schedule A, and struck out former Schedule A relating to long term contingent capacity and associated firm energy reserved for renewal contract offers to current Boulder Canyon project contractors.
+<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 112–72, §2(a), substituted "contract for delivery commencing October 1, 2017" for "renewal contract for delivery commencingJune 1, 1987", inserted Schedule A, and struck out former Schedule A relating to long term contingent capacity and associated firm energy reserved for renewal contract offers to current Boulder Canyon project contractors.
 
 Subsec. (a)(1)(B). Pub. L. 112–72, §2(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to contract offers to purchasers in Arizona, Nevada, and California eligible to enter into such contracts under 43 U.S.C. 617d, for delivery commencing June 1, 1987, of capacity resulting from the uprating program and associated firm energy as provided in former Schedule B with certain provisos.
 
@@ -464,7 +464,7 @@ Subsec. (d). Pub. L. 112–72, §2(j), amended subsec. (d) generally. Prior to a
 
 Subsec. (e). Pub. L. 112–72, §2(l), struck out "the renewal of" before "contracts for electrical energy" in first sentence and substituted "October 1, 2017, and ending September 30, 2067" for "June 1, 1987, and ending September 30, 2017" in second sentence.
 
-Pub. L. 112–72, §2(k), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: "Notwithstanding any other provisions of the law,funds advanced by non-Federal purchasers for use in the uprating program shall be deposited in the Colorado River Dam Fund and shall be available for the uprating program."
+Pub. L. 112–72, §2(k), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: "Notwithstanding any other provisions of the law, funds advanced by non-Federal purchasers for use in the uprating program shall be deposited in the Colorado River Dam Fund and shall be available for the uprating program."
 
 Subsec. (f). Pub. L. 112–72, §2(k), redesignated subsec. (h) as (f) and struck out former subsec. (f) which read as follows: "Those amounts advanced by non-Federal purchasers shall be financially integrated as capital costs with other project costs for rate-setting purposes, and shall be returned to those purchasers advancing funds throughout the contract period through credits which include interest costs incurred by such purchasers for funds contributed to the Secretary of the Interior for the uprating program."
 

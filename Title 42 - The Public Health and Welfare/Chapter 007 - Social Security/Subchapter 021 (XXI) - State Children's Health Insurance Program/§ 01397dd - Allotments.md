@@ -126,7 +126,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Annual average wages per employee
 
-&emsp;&emsp;For purposes of subparagraph (A), the "annual average wages per employee" for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years beforethe beginning of the calendar year in which such fiscal year begins.
+&emsp;&emsp;For purposes of subparagraph (A), the "annual average wages per employee" for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the calendar year in which such fiscal year begins.
 
 #### (4) Floors and ceilings in State allotments
 
@@ -294,7 +294,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For each month beginning during the period beginning on October 1, 2017, andending March 31, 2018, subject to the succeeding subclauses of this clause, the Secretary shall redistribute any amounts available for redistribution under paragraph (1) for fiscal year 2018, to each State that is an emergency shortfall State (as defined in subclause (II)) for the month such amount as the Secretary determines will eliminate the estimated shortfall described in subclause (II) for such State for the month (as may be adjusted under subparagraph (C)) before the Secretary may redistribute such amounts to any shortfall State that is not an emergency shortfall State. In the case of any amounts redistributed under this subclause to a State that is not an emergency shortfall State, such amounts shall be determined in accordance with clause (i).
+&emsp;&emsp;&emsp;&emsp;For each month beginning during the period beginning on October 1, 2017, and ending March 31, 2018, subject to the succeeding subclauses of this clause, the Secretary shall redistribute any amounts available for redistribution under paragraph (1) for fiscal year 2018, to each State that is an emergency shortfall State (as defined in subclause (II)) for the month such amount as the Secretary determines will eliminate the estimated shortfall described in subclause (II) for such State for the month (as may be adjusted under subparagraph (C)) before the Secretary may redistribute such amounts to any shortfall State that is not an emergency shortfall State. In the case of any amounts redistributed under this subclause to a State that is not an emergency shortfall State, such amounts shall be determined in accordance with clause (i).
 
 #### (II) Emergency shortfall State defined
 
@@ -396,7 +396,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (ii) Fiscal year 1999 allotment
 
-&emsp;&emsp;&emsp;Of the amounts allotted to a State pursuant to this subsection for fiscal year 1999 that were not expended by the State by the end of fiscal year 2001, the amount specified in subparagraph (B) for fiscal year 1999 for such State shall remain available for expenditure by the State through the end of fiscal year 2004.
+&emsp;&emsp;&emsp;Of the amounts allotted to a State pursuant to this subsection for fiscal year 1999 that were not expended by the State bythe end of fiscal year 2001, the amount specified in subparagraph (B) for fiscal year 1999 for such State shall remain available for expenditure by the State through the end of fiscal year 2004.
 
 #### (iii) Fiscal year 2000 allotment
 
@@ -454,7 +454,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Shortfall State described
 
-&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of March 31, 2007, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which theSecretary estimates, on a monthly basis using the most recent data available to the Secretary as of March 31, 2007, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the State's allotments for each of fiscal years 2005 and 2006 that was not expended by the end of fiscal year 2006;
 
@@ -582,7 +582,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Shortfall States described
 
-&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of November 30, 2007, that the Federal share amount of the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
+&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of November 30,2007, that the Federal share amount of the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that will not be expended by the end of fiscal year 2007;
 
@@ -644,7 +644,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (1) Appropriation; allotment authority
 
-&emsp;For the purpose of providing additional allotments described in subparagraphs (A) and (B) of paragraph (3), there is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary, not to exceed $275,000,000 for the first 2 quarters of fiscal year 2009.
+&emsp;For the purpose of providing additional allotments described in subparagraphs (A) and\(B) of paragraph (3), there is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary, not to exceed $275,000,000 for the first 2 quarters of fiscal year 2009.
 
 #### (2) Shortfall States described
 
@@ -658,7 +658,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (3) Allotments
 
-&emsp;In addition to the allotments provided under subsections (b) and (c), subject to paragraph\(4), of the amount available for the additional allotments under paragraph (1) for the first 2 quarters of fiscal year 2009, the Secretary shall allot—
+&emsp;In addition to the allotments provided under subsections (b) and (c), subject to paragraph (4), of the amount available for the additional allotments under paragraph (1) for the first 2 quarters of fiscal year 2009, the Secretary shall allot—
 
 &emsp;&emsp;(A) to each shortfall State described in paragraph (2) not described in subparagraph (B) such amount as the Secretary determines will eliminate the estimated shortfall described in such paragraph for the State; and
 
@@ -850,7 +850,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;&emsp;(ii) the extent to which such additional expenditures are projected to exceed the allotment of the State or District for the year,
 
-> &emsp;subject to paragraph (5), the amount of the allotment of the State or District under thissubsection for such fiscal year shall be increased by the excess amount described in subparagraph (B)(i). A State or District may only obtain an increase under this paragraph for an allotment for fiscal year 2010, fiscal year 2012, fiscal year 2014, fiscal year 2016, fiscal year 2018, fiscal year 2020, fiscal year 2022, fiscal year 2024, fiscal year 2026, or fiscal year 2028.
+> &emsp;subject to paragraph (5), the amount of the allotment of the State or District under this subsection for such fiscal year shall be increased by the excess amount described in subparagraph (B)(i). A State or District may only obtain an increase under this paragraph for an allotment for fiscal year 2010, fiscal year 2012, fiscal year 2014, fiscal year 2016, fiscal year 2018, fiscal year 2020, fiscal year 2022, fiscal year 2024, fiscal year 2026, or fiscal year 2028.
 
 #### (8) Adjustment of fiscal year 2010 allotments to account for changes in projected spending for certain previously approved expansion programs
 
@@ -910,7 +910,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (C) Full year amount based on rebased amount
 
-&emsp;&emsp;The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amountof allotments available under this section to the State in fiscal year 2028 (including payments made to the State under subsection (n) for fiscal year 2028 as well as amounts redistributed to the State in fiscal year 2028), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2029.
+&emsp;&emsp;The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2028 (including payments made to the State under subsection (n) for fiscal year 2028 as well as amounts redistributed to the State in fiscal year 2028), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2029.
 
 #### (D) First half ratio
 
@@ -972,7 +972,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, fiscal years 2018 through 2022, or fiscal years 2024 through 2028 (or a semi-annual allotment period for fiscal year 2015, 2017, 2023, or 2027), exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter\(including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
+&emsp;&emsp;If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, fiscal years 2018 through 2022, or fiscal years 2024 through 2028 (or a semi-annual allotment period for fiscal year 2015, 2017, 2023, or 2027), exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the amount by which such average monthly caseload exceeds such target number of enrollees; and
 
@@ -1010,7 +1010,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280; Pub. L. 115–96, div. C, title II, §3201(a)–(b)(2), (c)(1), Dec. 22, 2017, 131 Stat. 2050,2051; Pub. L. 115–120, div. C, §3002(a)(1), (b)(1), (c), (d)(2), Jan. 22, 2018, 132 Stat. 31–34; Pub. L. 115–123, div. E, title I, §50101(a), (b)(1), (c), Feb. 9, 2018, 132 Stat. 172, 174; Pub. L. 117–2, title IX, §9821(c), Mar. 11, 2021, 135 Stat. 220; Pub. L. 117–328, div. FF, title V, §5111(a), (b)(1), (c)(5), Dec. 29, 2022, 136 Stat. 5938, 5939.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280; Pub. L. 115–96, div. C, title II, §3201(a)–(b)(2), (c)(1), Dec. 22, 2017, 131 Stat. 2050, 2051; Pub. L. 115–120, div. C, §3002(a)(1), (b)(1), (c), (d)(2), Jan. 22, 2018, 132 Stat. 31–34; Pub. L. 115–123, div. E, title I, §50101(a), (b)(1), (c), Feb. 9, 2018, 132 Stat. 172, 174; Pub. L. 117–2, title IX, §9821(c), Mar. 11, 2021, 135 Stat. 220; Pub. L. 117–328, div. FF, title V, §5111(a), (b)(1), (c)(5), Dec. 29, 2022, 136 Stat. 5938, 5939.)
 
 #### <b>Editorial Notes</b>
 
@@ -1108,7 +1108,7 @@ Subsec. (m)(10). Pub. L. 115–120, §3002(b)(1)(E), amended par. (10) generally
 
 Subsec. (m)(11). Pub. L. 115–123, §50101(b)(1)(E), added par. (11).
 
-Subsec. (n)(2)(A)(ii). Pub. L. 115–123, §50101(c)(1)(A), substituted "2018 through 2022, and 2024 through 2026"for "and 2018 through 2022" and "2023, and 2027" for "and 2023".
+Subsec. (n)(2)(A)(ii). Pub. L. 115–123, §50101(c)(1)(A), substituted "2018 through 2022, and 2024 through 2026" for "and 2018 through 2022" and "2023, and 2027" for "and 2023".
 
 Pub. L. 115–120, §3002(c)(1)(A), substituted "2010 through 2014, 2016, and 2018 through 2022" for "2010, 2011, 2012, 2013, 2014, and 2016" and "fiscal years 2015, 2017, and 2023" for "fiscal year 2015 and fiscal year 2017".
 
@@ -1276,7 +1276,7 @@ Subsec. (h)(6). Pub. L. 110–28, §7001(b)(4), inserted "or allotted" after "re
 
 Subsec. (i). Pub. L. 110–92 added subsec. (i).
 
-Subsec. (j) to (l). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (l).
+Subsecs. (j) to (l). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (l).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–171, §6101(b)(1), inserted "subject to subsection (d)," after "under this section," in introductory provisions.
 
@@ -1388,7 +1388,7 @@ Pub. L. 109–171, title VI, §6101(c), Feb. 8, 2006, 120 Stat. 131, provided th
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–74, §1(a)(4), Aug. 15, 2003, 117 Stat. 895, provided that: "This subsection \[amending this section\], and the amendments made by this subsection, shall be effective as if this subsection had been enacted on September 30, 2002, and amounts under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) from allotments for fiscal years 1998 through 2000 are availablefor expenditure on and after October 1, 2002, under the amendments made by this subsection as if this subsection had been enacted on September 30, 2002."
+Pub. L. 108–74, §1(a)(4), Aug. 15, 2003, 117 Stat. 895, provided that: "This subsection \[amending this section\], and the amendments made by this subsection, shall be effective as if this subsection had been enacted on September 30, 2002, and amounts under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) from allotments for fiscal years 1998 through 2000 are available for expenditure on and after October 1, 2002, under the amendments made by this subsection as if this subsection had been enacted on September 30, 2002."
 
 #### Effective Date of 2000 Amendment
 

@@ -68,7 +68,7 @@ If the option price of a share of stock acquired by an individual pursuant to a 
 
 An option for which an election is made under section 83(i) with respect to the stock received in connection with its exercise shall not be considered as granted pursuant an employee stock purchase plan.
 
-(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 67; amended Pub. L. 94–455, titleXIV, §1402(b)(1)(E), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title X, §1001(b)(5), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title XI, §1114(b)(13), Oct. 22, 1986, 100 Stat. 2451; Pub. L. 101–508, title XI, §11801(c)(9)(D), (E), Nov. 5, 1990, 104 Stat. 1388–525; Pub. L. 108–357, title II, §251(c), Oct. 22, 2004, 118 Stat. 1459; Pub. L. 113–295, div. A, title II, §221(a)(56), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 115–97, title I, §13603(c)(1)(B), Dec. 22, 2017, 131 Stat. 2164.)
+(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 67; amended Pub. L. 94–455, title XIV, §1402(b)(1)(E), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title X, §1001(b)(5), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title XI, §1114(b)(13), Oct. 22, 1986, 100 Stat. 2451; Pub. L. 101–508, title XI, §11801(c)(9)(D), (E), Nov. 5, 1990, 104 Stat. 1388–525; Pub. L. 108–357, title II, §251(c), Oct. 22, 2004, 118 Stat. 1459; Pub. L. 113–295, div. A, title II, §221(a)(56), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 115–97, title I, §13603(c)(1)(B), Dec. 22, 2017, 131 Stat. 2164.)
 
 #### <b>Editorial Notes</b>
 
@@ -100,7 +100,7 @@ Pub. L. 94–455, §1402(b)(1)(E), provided that "6 months" would be changed to 
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
+Amendment by Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stockunits settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under section 83 of this title.
 
 #### Effective Date of 2014 Amendment
 

@@ -42,7 +42,7 @@
 
 &emsp;thence in a southerly direction paralleling Old County Road at a distance of 300 feet to the east of the easterly right-of-way line of said road to a point 600 feet south of the southerly right-of-way line of Prince Valley Road;
 
-&emsp;thence in a generally westerly direction, crossing Old County Road and the New York, New Haven, and Hartford Railroad right-of-way to the southern extremity of the town landing and beach in the Ryder Beach area,and continuing to a point in Cape Cod Bay a quarter of a mile offshore from the mean low-water line of Cape Cod Bay;
+&emsp;thence in a generally westerly direction, crossing Old County Road and the New York, New Haven, and Hartford Railroad right-of-way to the southern extremity of the town landing and beach in the Ryder Beach area, and continuing to a point in Cape Cod Bay a quarter of a mile offshore from the mean low-water line of Cape Cod Bay;
 
 &emsp;thence turning and running along a line a quarter of a mile offshore of and parallel to the mean low-water line of Cape Cod Bay in a general southerly and easterly direction rounding Jeremy Point and thence in a general northerly direction along a line a quarter of a mile offshore of and parallel to the mean low-water line on the westerly side of Wellfleet Harbor, to a point one quarter of a mile due north of the mean low-water line at the eastern tip of Great Island as depicted on the United States Geological Survey Wellfleet quadrangle sheet (1958);
 
@@ -104,7 +104,7 @@
 
 &emsp;thence generally southerly along the thread of channel of the said tributary passing westerly and southwesterly around Pochet Island and thence southwesterly into Little Pleasant Bay passing to westerly of the northerly tip of Sampson Island, the westerly tip of Money Head, and the southwesterly tip of Hog Island following in general the centerline of Little Pleasant Bay to Pleasant Bay;
 
-&emsp;thence generally southeasterly in Pleasant Bay along a line passing midway between Sipson Island and Nauset Beach to a point onthe Chatham-Orleans town line one-quarter of a mile westerly of the mean low-water line of Pleasant Bay on the westerly shore of Nauset Beach;
+&emsp;thence generally southeasterly in Pleasant Bay along a line passing midway between Sipson Island and Nauset Beach to a point on the Chatham-Orleans town line one-quarter of a mile westerly of the mean low-water line of Pleasant Bay on the westerly shore of Nauset Beach;
 
 &emsp;thence generally southerly in Pleasant Bay in the town of Chatham along a line a quarter of a mile offshore of and parallel to the said mean low-water line of Pleasant Bay on the westerly shore of Nauset Beach to a point a quarter of a mile south of the mean low-water line of the southern tip of Nauset Beach;
 

@@ -6,7 +6,7 @@ Any person who is found by the Secretary, after notice and an opportunity for a 
 
 #### (b) Review of civil penalty
 
-Any person against whom a civil penalty is assessed under subsection (a) or against whom a permit sanction is imposed under subsection (g) (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such order. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
+Any person against whom a civil penalty is assessed under subsection (a) or against whom a permit sanction is imposed under subsection (g) (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such order. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or suchpenalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
 #### (c) Action upon failure to pay assessment
 
@@ -26,7 +26,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 #### (g) Permit sanctions
 
-(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of avessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
+(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
 
 &emsp;(i) revoke any permit issued with respect to such vessel or person, with or without prejudice to the issuance of subsequent permits;
 
@@ -53,6 +53,8 @@ For the purposes of conducting any hearing under this section, the Secretary may
 #### Amendment of Subsection (a)
 
 <i>Pub. L. 116–340, §3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that, effective five years after Jan. 13, 2021, subsection (a) of this section is amended by striking "or section 1870" after "section 1857".</i>
+
+
 
 #### <b>Editorial Notes</b>
 

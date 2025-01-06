@@ -86,7 +86,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;(A) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
 
-&emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
+&emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefitpayable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
 > The provisions of this paragraph shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations shall provide for the application of the preceding provisions of this paragraph to all employee pension benefit plans subject to this subsection and may provide for the application of such provisions, in the case of any such employee, with respect to any period of time within a plan year.
 
@@ -152,7 +152,7 @@ Market rate of return.—The Secretary of the Treasury may provide by regulation
 
 &emsp;&emsp;(ii)
 
-Special rule for plan conversions.—If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
+Special rule for plan conversions.—If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall betreated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
 
 &emsp;&emsp;(iii)
 
@@ -320,7 +320,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 #### (m) Voluntary retirement incentive plans
 
-Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirementthat are reduced or eliminated on the basis of age, if—
+Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
 &emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -346,7 +346,7 @@ The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (i
 
 <b>2015</b>—Subsec. (l)(1)(B)(i)(I). Pub. L. 114–95 substituted "section 7801 of title 20)" for "section 7801 of title 20".
 
-<b>2008</b>—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end "In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter."
+<b>2008</b>—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end "In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated asa market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter."
 
 <b>2006</b>—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
 
@@ -540,7 +540,7 @@ Reasonable notice.—The term 'reasonable notice' means, with respect to notice 
 
 "(d)
 
-Discrimination in Employee Pension Benefit Plans.—Nothing in this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\], or the amendments made by this title, shall be construed as limiting the prohibitions against discrimination that are set forth in section 4(j) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(j)\] (as redesignated by section 103(2) of this Act).
+Discrimination in Employee Pension Benefit Plans.—Nothing in this title \[amending this section and section 630 of this title and enacting provisions setout as notes under this section and section 621 of this title\], or the amendments made by this title, shall be construed as limiting the prohibitions against discrimination that are set forth in section 4(j) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(j)\] (as redesignated by section 103(2) of this Act).
 
 "(e)
 

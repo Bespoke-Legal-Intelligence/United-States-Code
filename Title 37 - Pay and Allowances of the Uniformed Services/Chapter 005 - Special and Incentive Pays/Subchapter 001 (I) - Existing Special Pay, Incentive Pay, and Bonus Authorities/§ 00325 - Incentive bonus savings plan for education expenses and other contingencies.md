@@ -60,7 +60,7 @@ Relationship to Other Special Pays.—The benefit authorized under this section 
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L.107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
+(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
 
 #### <b>Editorial Notes</b>
 

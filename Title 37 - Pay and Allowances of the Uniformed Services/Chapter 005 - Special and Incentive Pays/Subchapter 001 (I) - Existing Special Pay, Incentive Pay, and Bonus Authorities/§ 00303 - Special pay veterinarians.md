@@ -68,7 +68,7 @@ In subsection (b), the words "disability retirement pay" are omitted as covered 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(1)\], substituted "who is an officer in the Biomedical Sciences Corps and holds a degree in veterinary medicine" for "who is designated as a veterinary officer".
+<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(1)\], substituted "who is an officer in theBiomedical Sciences Corps and holds a degree in veterinary medicine" for "who is designated as a veterinary officer".
 
 Subsec. (a)(2)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(2)\], added subpar. (B) and struck out former subpar. (B) which read as follows: "of a Reserve component of the Air Force, of the Army or the Air Force without specification of component, or of the National Guard, who is designated as a veterinary officer of the Army or the Air Force, as the case may be; or".
 
@@ -78,7 +78,7 @@ Subsec. (a)(2)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(2)\], ad
 
 <b>1987</b>—Pub. L. 100–180 substituted semicolon for comma at end of par. (2)(A) and "; or" for ", or" at end of par. (2)(B).
 
-Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), semicolon for comma at end of par.\(1)(A), "; or" for ", or" at end of par. (1)(B), period for semicolon at end of par. (1)(C), and period for "; and" at end of par. (2); and directed substitution of semicolon for comma at end of par. (1)(B) which could not be executed because no comma appeared at end of par. (1)(B).
+Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), semicolon for comma at end of par. (1)(A), "; or" for ", or" at end of par. (1)(B), period for semicolon at end of par. (1)(C), and period for "; and" at end of par. (2); and directed substitution of semicolon for comma at end of par. (1)(B) which could not be executed because no comma appeared at end of par. (1)(B).
 
 <b>1980</b>—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 

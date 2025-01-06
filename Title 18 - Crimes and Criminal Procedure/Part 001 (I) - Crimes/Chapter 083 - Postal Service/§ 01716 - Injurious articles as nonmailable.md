@@ -26,7 +26,7 @@
 
 (h) Any advertising, promotional, or sales matter which solicits or induces the mailing of anything declared nonmailable by this section is likewise nonmailable unless such matter contains wrapping or packaging instructions which are in accord with regulations promulgated by the Postal Service.
 
-(i)(1) Any ballistic knife shall be subject to the same restrictions and penalties provided under subsection (g) for knives described in the first sentence of that subsection.
+(i)(1) Any ballistic knife shall be subject to the same restrictions and penalties provided undersubsection (g) for knives described in the first sentence of that subsection.
 
 (2) As used in this subsection, the term "ballistic knife" means a knife with a detachable blade that is propelled by a spring-operated mechanism.
 

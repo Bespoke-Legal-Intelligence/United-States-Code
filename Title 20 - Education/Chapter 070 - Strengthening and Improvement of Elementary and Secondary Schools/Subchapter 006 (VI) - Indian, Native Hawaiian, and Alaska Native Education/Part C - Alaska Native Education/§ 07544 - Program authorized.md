@@ -124,7 +124,7 @@
 
 There are authorized to be appropriated to carry out this section $31,453,000 for each of fiscal years 2017 through 2020.
 
-(Pub. L. 89–10, title VI, §6304, formerly title VII, §7304, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1943; amended Pub. L.108–11, title II, §2504, Apr. 16, 2003, 117 Stat. 599; renumbered title VI, §6304, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6004(c), Dec. 10, 2015, 129 Stat. 2046, 2068; Pub. L. 115–224, title III, §302(3), July 31, 2018, 132 Stat. 1623.)
+(Pub. L. 89–10, title VI, §6304, formerly title VII, §7304, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1943; amended Pub. L. 108–11, title II, §2504, Apr. 16, 2003, 117 Stat. 599; renumbered title VI, §6304, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6004(c), Dec. 10, 2015, 129 Stat. 2046, 2068; Pub. L. 115–224, title III, §302(3), July 31, 2018, 132 Stat. 1623.)
 
 #### <b>Editorial Notes</b>
 

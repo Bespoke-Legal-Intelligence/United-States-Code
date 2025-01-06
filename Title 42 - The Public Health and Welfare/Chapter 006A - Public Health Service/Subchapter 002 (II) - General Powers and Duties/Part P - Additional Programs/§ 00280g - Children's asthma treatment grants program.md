@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) To provide access to quality medical care for children who live in areas that have a high prevalence of asthma and who lack access to medical care.
 
-&emsp;&emsp;(B) To provide on-site education to parents, children, health care providers, andmedical teams to recognize the signs and symptoms of asthma, and to train them in the use of medications to treat asthma and prevent its exacerbations.
+&emsp;&emsp;(B) To provide on-site education to parents, children, health care providers, and medical teams to recognize the signs and symptoms of asthma, and to train them in the use of medications to treat asthma and prevent its exacerbations.
 
 &emsp;&emsp;(C) To decrease preventable trips to the emergency room by making medication available to individuals who have not previously had access to treatment or education in the management of asthma.
 
@@ -46,7 +46,7 @@
 
 #### (b) Coordination with other children's programs
 
-An eligible entity shall identify in the plan submitted as part of an application for a grant under this section how the entity will coordinate operations and activities under the grant with—
+An eligible entity shall identify in the plan submitted as part of an application for a grantunder this section how the entity will coordinate operations and activities under the grant with—
 
 &emsp;(1) other programs operated in the State that serve children with asthma, including any such programs operated under title V, XIX, or XXI of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq., 1397aa et seq.\]; and
 
@@ -190,7 +190,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 etseq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: "The amendments made by this section\[amending this section\] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act \[Oct. 30, 2004\]."
+Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: "The amendments made by this section \[amending this section\] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act \[Oct. 30, 2004\]."
 
 #### Findings of 2004 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the "Hazardous Substance Superfund" (hereinafter in this section referred to as the "Superfund"), consisting of such amounts as may be—
+There is established in the Treasury of the United States a trust fund to be known as the"Hazardous Substance Superfund" (hereinafter in this section referred to as the "Superfund"), consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Superfund as provided in this section,
 
@@ -70,7 +70,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (B) Final repayment
 
-&emsp;&emsp;No advance shall be made to the Superfund after December 31, 2032, and all advances tosuch Fund shall be repaid on or before such date.
+&emsp;&emsp;No advance shall be made to the Superfund after December 31, 2032, and all advances to such Fund shall be repaid on or before such date.
 
 #### (C) Rate of interest
 
@@ -148,7 +148,7 @@ Superfund treated as continuation of old trust fund.—The Hazardous Substance S
 
 Pub. L. 117–328, div. G, title IV, §443(b), (c), Dec. 29, 2022, 136 Stat. 4833, provided that:
 
-"(b) For this fiscal year \[Fiscal Year 2023\] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in theTreasury under subsection (b)(1) of such section shall be available, without further appropriation, to remain available until expended, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.): <i>Provided</i>, That the amount provided by this subsection is designated by the Congress as being for an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022.
+"(b) For this fiscal year \[Fiscal Year 2023\] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section shall be available, without further appropriation, to remain available until expended, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.): <i>Provided</i>, That the amount provided by this subsection is designated by the Congress as being for an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022.
 
 "(c) Expenditures made pursuant to section 613 of title VI of division J of Public Law 117–58 \[see below\] shall be charged to the appropriation in subsection (b)."
 

@@ -16,7 +16,7 @@ Covered Health Care Services.—Health care services described in this subsectio
 
 (c)
 
-Exception Based on Medical Necessity.—Pursuant to such regulations as the Secretary shall prescribe to carry out this section, the Secretary may furnish more than seven days of health care services described in subsection (b), and may furnish transportation necessary to receive such services, to a newborn child based onmedical necessity if the child is in need of additional care, including if the child has been discharged or released from a hospital and requires readmittance to ensure the health and welfare of the child.
+Exception Based on Medical Necessity.—Pursuant to such regulations as the Secretary shall prescribe to carry out this section, the Secretary may furnish more than seven days of health care services described in subsection (b), and may furnish transportation necessary to receive such services, to a newborn child based on medical necessity if the child is in need of additional care, including if the child has been discharged or released from a hospital and requires readmittance to ensure the health and welfare of the child.
 
 (d)
 
@@ -34,7 +34,7 @@ Transportation.—(1) Transportation furnished under subsection (a) to, from, or
 
 Reimbursement or Payment for Health Care Services or Transportation.—(1) Pursuant to regulations the Secretary shall prescribe to establish rates of reimbursement and any limitations thereto under this section, the Secretary shall directly reimburse a covered entity for health care services or transportation services provided under this section, unless the cost of the services or transportation is covered by an established agreement or contract. If such an agreement or contract exists, its negotiated payment terms shall apply.
 
-(2)(A) Reimbursement or payment by the Secretary under this section on behalf of an individual to a covered entity shall, unless rejected and refunded by the covered entity within 30 days of receipt, extinguish any liability on the part of the individual for the health care services or transportation covered by such payment.
+(2)(A) Reimbursement or payment by the Secretary under this section on behalf of an individual to a covered entity shall, unless rejected and refunded by the covered entity within 30 days of receipt, extinguish any liability on thepart of the individual for the health care services or transportation covered by such payment.
 
 (B) Neither the absence of a contract or agreement between the Secretary and a covered entity nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirements of subparagraph (A).
 

@@ -28,7 +28,7 @@ There is hereby imposed a tax on—
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the tax imposed by subsection (a) on any imported taxable product shall be the amount of tax which would have been imposed by subsection (a) on the ozone-depleting chemicals used as materials in the manufacture or production of such product if such ozone-depleting chemicals had been sold in the United States on the date of the sale of such imported taxable product.
+&emsp;&emsp;The amount of the tax imposed by subsection (a) on any imported taxable product shall be the amount of tax which would have been imposed by subsection (a) on the ozone-depleting chemicals used as materials in the manufacture or production of such productif such ozone-depleting chemicals had been sold in the United States on the date of the sale of such imported taxable product.
 
 #### (B) Certain rules to apply
 
@@ -66,7 +66,7 @@ Subsec. (b)(1)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to ame
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1931(d), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made bythis section \[amending this section and section 4682 of this title\] shall apply to taxable chemicals sold or used on or after January 1, 1993."
+Pub. L. 102–486, title XIX, §1931(d), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made by this section \[amending this section and section 4682 of this title\] shall apply to taxable chemicals sold or used on or after January 1, 1993."
 
 #### Effective Date of 1990 Amendment
 

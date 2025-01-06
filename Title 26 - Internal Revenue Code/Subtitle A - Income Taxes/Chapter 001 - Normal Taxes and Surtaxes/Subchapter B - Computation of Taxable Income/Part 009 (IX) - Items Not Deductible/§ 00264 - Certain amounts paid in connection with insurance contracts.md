@@ -86,7 +86,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;For purposes of this subsection, the term "20-percent owner" means—
 
-&emsp;&emsp;(A) if the taxpayer is a corporation, any person who owns directly 20 percent or more of the outstanding stock of the corporation or stock possessing 20 percent or more of thetotal combined voting power of all stock of the corporation, or
+&emsp;&emsp;(A) if the taxpayer is a corporation, any person who owns directly 20 percent or more of the outstanding stock of the corporation or stock possessing 20 percent or more of the total combined voting power of all stock of the corporation, or
 
 &emsp;&emsp;(B) if the taxpayer is not a corporation, any person who owns 20 percent or more of the capital or profits interest in the taxpayer.
 
@@ -218,7 +218,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;This subsection shall not apply to an insurance company subject to tax under subchapter L, and subparagraph (A) shall be applied without regard to any member of an affiliated group which is an insurance company.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100 Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
 
 #### <b>Editorial Notes</b>
 

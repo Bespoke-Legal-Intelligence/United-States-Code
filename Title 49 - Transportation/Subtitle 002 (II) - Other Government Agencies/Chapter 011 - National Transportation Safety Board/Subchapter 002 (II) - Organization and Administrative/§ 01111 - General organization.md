@@ -90,7 +90,7 @@ In general.—Notwithstanding section 552b of title 5, a majority of the members
 
 &emsp;&emsp;(B)
 
-Disclosure of nonpublic collaborative discussions.—Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion ofa meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
+Disclosure of nonpublic collaborative discussions.—Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion of a meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
 
 &emsp;&emsp;&emsp;(i) a list of the individuals present at the meeting; and
 
@@ -199,6 +199,10 @@ Subsecs. (i), (j). Pub. L. 109–443, §9(d)(4), (5), added subsec. (i) and rede
 <b>2000</b>—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Drug-Free Workplace
+
+Pub. L. 118–63, title XII, §1218, May 16, 2024, 138 Stat. 1431, provided that: "Not later than 12 months after the date of enactment of this Act \[May 16, 2024\], the National Transportation Safety Board shall implement a drug testing program applicable to Board employees, including employees in safety or security sensitive positions, in accordance with Executive Order No. 12564 (51 Fed. Reg. 32889)."
 
 #### Utilization Plan
 

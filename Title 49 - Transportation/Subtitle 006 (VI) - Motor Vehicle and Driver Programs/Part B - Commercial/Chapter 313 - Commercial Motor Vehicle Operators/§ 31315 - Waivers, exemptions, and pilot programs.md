@@ -2,7 +2,7 @@
 
 (a)
 
-Waivers.—The Secretary may grant a waiver that relieves a person from compliance in whole or in part with a regulation issued under this chapter or section 31136 if the Secretary determines that it is in the public interest to grant the waiver and that the waiver is likely to achieve a level of safety that is equivalent to, or greater than, the level of safety that would be obtained in the absence of the waiver—
+Waivers.—The Secretary may grant a waiver that relieves a person from compliance inwhole or in part with a regulation issued under this chapter or section 31136 if the Secretary determines that it is in the public interest to grant the waiver and that the waiver is likely to achieve a level of safety that is equivalent to, or greater than, the level of safety that would be obtained in the absence of the waiver—
 
 &emsp;(1) for a period not in excess of 3 months;
 
@@ -84,7 +84,7 @@ Pilot Programs.—
 
 &emsp;(1)
 
-In general.—The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribed under this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish a detailed description of each pilot program, including the exemptions to be considered, and provide notice and an opportunity for public comment before the effective date of the program.
+In general.—The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribedunder this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish a detailed description of each pilot program, including the exemptions to be considered, and provide notice and an opportunity for public comment before the effective date of the program.
 
 &emsp;(2)
 

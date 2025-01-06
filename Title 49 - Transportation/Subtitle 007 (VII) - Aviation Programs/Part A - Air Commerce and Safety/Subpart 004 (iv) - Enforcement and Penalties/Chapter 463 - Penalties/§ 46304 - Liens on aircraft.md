@@ -80,7 +80,7 @@ In subsection (c)(3), the words "under a civil action in rem" are substituted fo
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–254 substituted "or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator".
+<b>2018</b>—Subsec. (b). Pub. L. 115–254 substituted "or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of theFederal Aviation Administration" for "or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator".
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176 struck out ", (2), or (3)" after "section 46301(a)(1)(A)–(C)".
 

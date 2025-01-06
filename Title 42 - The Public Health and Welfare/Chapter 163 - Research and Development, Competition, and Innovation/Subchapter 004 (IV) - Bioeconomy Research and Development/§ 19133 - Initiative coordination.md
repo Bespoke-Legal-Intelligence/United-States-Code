@@ -58,7 +58,7 @@ Beginning with fiscal year 2023 and every five years thereafter for ten years, t
 
 &emsp;The President shall establish an Initiative Coordination Office, with a Director and full-time staff, which shall—
 
-&emsp;&emsp;(A) provide technical and administrative support to the interagency committee and the advisory committee established under subsection (a) and section 19134 of this title;
+&emsp;&emsp;(A) provide technical and administrative support to the interagency committee andthe advisory committee established under subsection (a) and section 19134 of this title;
 
 &emsp;&emsp;(B) serve as the point of contact on Federal engineering biology activities for government organizations, academia, industry, professional societies, State governments, interested citizen groups, and others to exchange technical and programmatic information;
 

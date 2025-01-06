@@ -48,11 +48,11 @@ The serving of notice to, or service of process upon, the agent required under s
 
 #### (d) Notice to Members of Congress
 
-The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grantis made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
 
 #### (e) Coordination of international efforts
 
-Any efforts of the Foundation carried out in a foreign country, and any grants provided to an individual or entity in a foreign country, shall be made only with the concurrence of the Secretary of State, in consultation, as appropriate, with the Administrator of the United States Agency for International Development.
+Any efforts of the Foundation carried out in a foreign country, and any grants provided to anindividual or entity in a foreign country, shall be made only with the concurrence of the Secretary of State, in consultation, as appropriate, with the Administrator of the United States Agency for International Development.
 
 #### (f) Consultation With NOAA
 

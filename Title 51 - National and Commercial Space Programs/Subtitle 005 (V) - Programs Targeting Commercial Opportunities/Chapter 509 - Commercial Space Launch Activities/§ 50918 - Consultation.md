@@ -64,7 +64,7 @@ In subsection (c), before clause (1), the words "the head of" and "executive" ar
 
 #### Streamline Commercial Space Launch Activities
 
-Pub. L. 114–92, div. A, title XVI, §1617, Nov. 25, 2015, 129 Stat. 1106, as amended by Pub. L. 115–232, div. A, title XVI, §1606, Aug. 13, 2018, 132 Stat. 2107, provided that:
+Pub. L. 114–92, div. A, title XVI, §1617, Nov. 25, 2015, 129 Stat. 1106, as amended by Pub. L. 115–232, div. A,title XVI, §1606, Aug. 13, 2018, 132 Stat. 2107, provided that:
 
 "(a)
 

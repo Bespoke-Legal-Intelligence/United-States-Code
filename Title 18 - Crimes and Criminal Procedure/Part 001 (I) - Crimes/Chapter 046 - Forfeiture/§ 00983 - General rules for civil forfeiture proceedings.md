@@ -88,7 +88,7 @@ Representation.—
 
 &emsp;&emsp;(ii) whether the claim appears to be made in good faith.
 
-&emsp;(2)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the property subject to forfeiture is real property that is being used by the person as a primary residence, thecourt, at the request of the person, shall insure that the person is represented by an attorney for the Legal Services Corporation with respect to the claim.
+&emsp;(2)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the property subject to forfeiture is real property that is being used by the person as a primary residence, the court, at the request of the person, shall insure that the person is represented by an attorney for the Legal Services Corporation with respect to the claim.
 
 &emsp;(B)(i) At appropriate times during a representation under subparagraph (A), the Legal Services Corporation shall submit a statement of reasonable attorney fees and costs to the court.
 
@@ -208,7 +208,7 @@ Release Of Seized Property.—
 
 &emsp;(2) A claimant seeking release of property under this subsection must request possession of the property from the appropriate official, and the request must set forth the basis on which the requirements of paragraph (1) are met.
 
-&emsp;(3)(A) If not later than 15 days after the date of a request under paragraph (2) the property has not been released, the claimant may file a petition in the district court in which the complaint has been filed or, if no complaint has been filed, in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
+&emsp;(3)(A) If not later than 15 days after the date of a request under paragraph (2) the propertyhas not been released, the claimant may file a petition in the district court in which the complaint has been filed or, if no complaint has been filed, in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
 
 &emsp;(B) The petition described in subparagraph (A) shall set forth—
 
@@ -306,7 +306,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days afterthe date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -358,7 +358,7 @@ Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: "The am
 
 #### Effective Date
 
-Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
+Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr.25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Anti-Terrorist Forfeiture Protection
 

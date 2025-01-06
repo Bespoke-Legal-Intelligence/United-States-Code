@@ -3,13 +3,15 @@
 | Sec. |  |
 | :--- | ---: |
 | [2271\.](%C2%A7%2002271%20-%20Management%20of%20space%20programs%20joint%20program%20offices%20and%20officer%20management%20programs.md) | Management of space programs: joint program offices and officer management programs. |
+| §2271a. | Space Contractor Responsibility Watch List. |
 | [2272\.](%C2%A7%2002272%20-%20Space%20science%20and%20technology%20strategy%20coordination.md) | Space science and technology strategy: coordination. |
 | [2273\.](%C2%A7%2002273%20-%20Policy%20regarding%20assured%20access%20to%20space%20national%20security%20payloads.md) | Policy regarding assured access to space: national security payloads. |
 | [2273a.](%C2%A7%2002273a%20-%20Space%20Rapid%20Capabilities%20Office.md) | Space Rapid Capabilities Office. |
 | [2274\.](%C2%A7%2002274%20-%20Space%20situational%20awareness%20services%20and%20information%20provision%20to%20non-United%20States%20Government%20entities.md) | Space situational awareness services and information: provision to non-United States Government entities. |
-| [2275\.](%C2%A7%2002275%20-%20Reports%20on%20integration%20of%20acquisition%20and%20capability%20delivery%20schedules%20for%20segments%20of%20major%20satellite%20acquisition%20programs%20and%20funding%E2%80%A6.md) | Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs. |
+| \[2275. | Repealed.\] |
 | [2275a.](%C2%A7%2002275a%20-%20Requirements%20for%20protection%20of%20satellites.md) | Requirements for protection of satellites. |
-| [2275b.](%C2%A7%2002275b%20-%20Requirements%20for%20appropriate%20classification%20guidance.1.md) | Requirements for appropriate classification guidance. |
+| [2275b.](%C2%A7%2002275b%20-%20Requirements%20for%20appropriate%20classification%20guidance.md) | Requirements for appropriate classification guidance. |
+| [2275c.](%C2%A7%2002275c%20-%20Space%20Force%20satellite%20ground%20systems.md) | Space Force satellite ground systems. |
 | [2276\.](%C2%A7%2002276%20-%20Commercial%20space%20launch%20cooperation.md) | Commercial space launch cooperation. |
 | [2276a.](%C2%A7%2002276a%20-%20Special%20authority%20for%20provision%20of%20space%20launch%20support%20services%20to%20increase%20space%20launch%20capacity.md) | Special authority for provision of space launch support services to increase space launch capacity. |
 | [2277\.](%C2%A7%2002277%20-%20Disclosure%20of%20National%20Security%20Space%20Launch%20program%20contract%20pricing%20terms.md) | Disclosure of National Security Space Launch program contract pricing terms. |
@@ -25,6 +27,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §§1601(a), 1603, Dec. 23, 2024, 138 Stat. 2157, 2160, added items 2271a and2275c and struck out item 2275 "Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs". Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title XVI, §§1602, 1603, Dec. 22, 2023, 137 Stat. 584, added items 2275b and 2276a. Amendments were made pursuant to operation of section 102 of this title.
 
@@ -58,13 +62,15 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02271 - Management of space programs joint program offices and officer management programs](%C2%A7%2002271%20-%20Management%20of%20space%20programs%20joint%20program%20offices%20and%20officer%20management%20programs.md)
+- [&sect; 02271a - Space Contractor Responsibility Watch List](%C2%A7%2002271a%20-%20Space%20Contractor%20Responsibility%20Watch%20List.md)
 - [&sect; 02272 - Space science and technology strategy coordination](%C2%A7%2002272%20-%20Space%20science%20and%20technology%20strategy%20coordination.md)
 - [&sect; 02273 - Policy regarding assured access to space national security payloads](%C2%A7%2002273%20-%20Policy%20regarding%20assured%20access%20to%20space%20national%20security%20payloads.md)
 - [&sect; 02273a - Space Rapid Capabilities Office](%C2%A7%2002273a%20-%20Space%20Rapid%20Capabilities%20Office.md)
 - [&sect; 02274 - Space situational awareness services and information provision to non-United States Government entities](%C2%A7%2002274%20-%20Space%20situational%20awareness%20services%20and%20information%20provision%20to%20non-United%20States%20Government%20entities.md)
-- [&sect; 02275 - Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding&#8230;](%C2%A7%2002275%20-%20Reports%20on%20integration%20of%20acquisition%20and%20capability%20delivery%20schedules%20for%20segments%20of%20major%20satellite%20acquisition%20programs%20and%20funding%E2%80%A6.md)
+- [&sect; 02275 - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1603(b), Dec. 23, 2024, 138 Stat. 2160](%C2%A7%2002275%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71603%28b%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202160.md)
 - [&sect; 02275a - Requirements for protection of satellites](%C2%A7%2002275a%20-%20Requirements%20for%20protection%20of%20satellites.md)
-- [&sect; 02275b - Requirements for appropriate classification guidance.1](%C2%A7%2002275b%20-%20Requirements%20for%20appropriate%20classification%20guidance.1.md)
+- [&sect; 02275b - Requirements for appropriate classification guidance](%C2%A7%2002275b%20-%20Requirements%20for%20appropriate%20classification%20guidance.md)
+- [&sect; 02275c - Space Force satellite ground systems](%C2%A7%2002275c%20-%20Space%20Force%20satellite%20ground%20systems.md)
 - [&sect; 02276 - Commercial space launch cooperation](%C2%A7%2002276%20-%20Commercial%20space%20launch%20cooperation.md)
 - [&sect; 02276a - Special authority for provision of space launch support services to increase space launch capacity](%C2%A7%2002276a%20-%20Special%20authority%20for%20provision%20of%20space%20launch%20support%20services%20to%20increase%20space%20launch%20capacity.md)
 - [&sect; 02277 - Disclosure of National Security Space Launch program contract pricing terms](%C2%A7%2002277%20-%20Disclosure%20of%20National%20Security%20Space%20Launch%20program%20contract%20pricing%20terms.md)

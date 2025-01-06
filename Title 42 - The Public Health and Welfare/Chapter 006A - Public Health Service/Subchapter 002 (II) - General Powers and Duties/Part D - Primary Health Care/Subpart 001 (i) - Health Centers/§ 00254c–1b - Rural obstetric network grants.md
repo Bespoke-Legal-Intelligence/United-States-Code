@@ -34,7 +34,7 @@ In this section:
 
 #### (3) Indian Tribes; Tribal organization
 
-&emsp;The terms "Indian Tribe" and "Tribal organization" have the meanings given the terms"Indian tribe" and "tribal organization" in section 5304 of title 25.
+&emsp;The terms "Indian Tribe" and "Tribal organization" have the meanings given the terms "Indian tribe" and "tribal organization" in section 5304 of title 25.
 
 #### (4) Maternity care health professional target area
 

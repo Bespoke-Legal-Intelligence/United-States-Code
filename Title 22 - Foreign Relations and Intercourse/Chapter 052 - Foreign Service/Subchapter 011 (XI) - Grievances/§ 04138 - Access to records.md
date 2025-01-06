@@ -12,7 +12,7 @@ In considering a grievance, the Board shall have access to any agency record as 
 
 &emsp;(B) The Board may request access to any other agency record which the Board determines may be relevant and material to the grievance.
 
-&emsp;(2) Any agency shall make available to the Board any agency record requested under paragraph (1) unless the head or deputy head of such agency personally certifies in writing to the Board that disclosure of the record to the Board and the grievant would adversely affect the foreign policy or national security of the United States or that such disclosure is prohibited by law. If such a certification is made with respect to any record, the agency shall supply to the Board a summary or extract of such record unless the reasons specified in the preceding sentence preclude such a summary or extract.
+&emsp;(2) Any agency shall make available to the Board any agency record requested under paragraph (1) unless the head or deputy headof such agency personally certifies in writing to the Board that disclosure of the record to the Board and the grievant would adversely affect the foreign policy or national security of the United States or that such disclosure is prohibited by law. If such a certification is made with respect to any record, the agency shall supply to the Board a summary or extract of such record unless the reasons specified in the preceding sentence preclude such a summary or extract.
 
 #### (c) Access by grievant
 

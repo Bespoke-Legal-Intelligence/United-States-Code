@@ -44,7 +44,7 @@
 
 #### (C) Grants and contracts
 
-&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly orthrough the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
+&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly or through the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
 
 #### (b) Advice to the Federal Government
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(i) the preparedness of the health care (including mental health care) system to respond to public health emergencies as they relate to at-risk individuals;
 
-&emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocols to meet the special needs of at-risk individuals; and
+&emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocolsto meet the special needs of at-risk individuals; and
 
 &emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 of this title to meet the emergency health security of at-risk individuals.
 
@@ -120,7 +120,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (3) Use of funds
 
-&emsp;The Centers established or maintained under this subsection shall use funds awarded underthis subsection to carry out activities to advance public health preparedness and response capabilities, which may include—
+&emsp;The Centers established or maintained under this subsection shall use funds awarded under this subsection to carry out activities to advance public health preparedness and response capabilities, which may include—
 
 &emsp;&emsp;(A) identifying, translating, and disseminating promising research findings or strategies into evidence-informed or evidence-based practices to inform preparedness for, and responses to, chemical, biological, radiological, or nuclear threats, including emerging infectious diseases, and other public health emergencies, which may include conducting research related to public health preparedness and response systems;
 
@@ -128,7 +128,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 &emsp;&emsp;(C) utilizing and expanding relevant technological and analytical capabilities to inform public health and medical preparedness and response efforts;
 
-&emsp;&emsp;(D) expanding activities, including through public-private partnerships, related to public health preparedness and response, including participation in drills and exercises and training public health experts, as appropriate; and
+&emsp;&emsp;(D) expanding activities, including through public-private partnerships, relatedto public health preparedness and response, including participation in drills and exercises and training public health experts, as appropriate; and
 
 &emsp;&emsp;(E) providing technical assistance and expertise that relies on evidence-based practices, as applicable, related to responses to public health emergencies, as appropriate, to State, local, and Tribal health departments and other entities pursuant to paragraph (2)(A).
 
@@ -188,7 +188,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2008 and each subsequent fiscal year.
 
-(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title III, §§301(d), (e), 304, Dec. 19, 2006, 120 Stat. 2854, 2855, 2859; Pub. L. 113–5, title II, §203(a), Mar. 13, 2013, 127 Stat. 175; Pub. L. 117–328, div. FF, title II, §2231(a), Dec. 29, 2022, 136 Stat. 5752.)
+(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title III, §§301(d), (e), 304, Dec. 19, 2006, 120 Stat. 2854, 2855, 2859; Pub. L. 113–5, title II, §203(a), Mar. 13, 2013, 127 Stat. 175; Pub. L. 117–328, div. FF, title II, §2231(a), Dec. 29, 2022, 136 Stat. 5752.)
 
 #### <b>Editorial Notes</b>
 
@@ -284,7 +284,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;"(C) the characteristics that may render a rural community uniquely vulnerable to a biological attack, including distance, lack of emergency transport, hospital or laboratory capacity, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
 
-&emsp;"(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[42 U.S.C. 254b\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
+&emsp;"(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[42 U.S.C. 254b\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration ofFederal or State public health networks, workforce deficits, or other relevant characteristics;
 
 &emsp;"(E) the recommendations of the Secretary with respect to additional legislative authority that the Secretary determines is necessary to effectively strengthen rural communities, or medically underserved populations (as defined in section 330 of such Act); and
 

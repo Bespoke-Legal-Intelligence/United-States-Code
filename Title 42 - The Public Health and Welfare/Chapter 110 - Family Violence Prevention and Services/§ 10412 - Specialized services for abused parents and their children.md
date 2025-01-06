@@ -8,7 +8,7 @@
 
 #### (2) Grants
 
-&emsp;The Secretary may make grants to eligible entities through the program established under paragraph (1) for periods of not more than 2 years. If the Secretary determines that an entity has received such a grant and been successful in meeting the objectives of the grant application submitted under subsection (c), the Secretary may renew the grant for 1 additional period of not more than 2 years.
+&emsp;The Secretary may make grants to eligible entities through the program establishedunder paragraph (1) for periods of not more than 2 years. If the Secretary determines that an entity has received such a grant and been successful in meeting the objectives of the grant application submitted under subsection (c), the Secretary may renew the grant for 1 additional period of not more than 2 years.
 
 #### (b) Eligible entities
 
@@ -58,7 +58,7 @@ Each entity receiving a grant under this section shall submit a performance repo
 
 #### Prior Provisions
 
-A prior section 10412, Pub. L. 98–457, title III, §312, Oct. 9, 1984, 98 Stat. 1764; Pub. L. 102–295, title III, §318, May 28, 1992, 106 Stat. 208; Pub. L. 108–36, title IV, §408,June 25, 2003, 117 Stat. 827, related to authority of Secretary, construction with State and local law, and funding for evaluation, monitoring, and other administrative costs, prior to the general amendment of this chapter by Pub. L. 111–320.
+A prior section 10412, Pub. L. 98–457, title III, §312, Oct. 9, 1984, 98 Stat. 1764; Pub. L. 102–295, title III, §318, May 28, 1992, 106 Stat. 208; Pub. L. 108–36, title IV, §408, June 25, 2003, 117 Stat. 827, related to authority of Secretary, construction with State and local law, and funding for evaluation, monitoring, and other administrative costs, prior to the general amendment of this chapter by Pub. L. 111–320.
 
 A prior section 312 of Pub. L. 98–457, which was classified to section 10411 of this title, was repealed by section 303(a) of Pub. L. 100–294.
 

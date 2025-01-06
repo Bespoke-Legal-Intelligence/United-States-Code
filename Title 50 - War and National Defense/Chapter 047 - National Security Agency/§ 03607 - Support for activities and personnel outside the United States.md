@@ -30,7 +30,7 @@ Members of the Armed Forces may not receive benefits under both subsection (b)(1
 
 Regulations issued pursuant to subsection (b)(1) shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
-(Pub. L. 86–36, §9, as added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1977; amended Pub. L. 97–89, title VI, §601, Dec. 4, 1981, 95 Stat. 1154; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L.102–496, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3253.)
+(Pub. L. 86–36, §9, as added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1977; amended Pub. L. 97–89, title VI, §601, Dec. 4, 1981, 95 Stat. 1154; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 102–496, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3253.)
 
 #### <b>Editorial Notes</b>
 

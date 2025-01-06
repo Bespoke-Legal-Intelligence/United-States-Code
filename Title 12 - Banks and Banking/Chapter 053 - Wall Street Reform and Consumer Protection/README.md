@@ -240,18 +240,25 @@
 
 #### Part F—Transfer of Functions and Personnel; Transitional Provisions
 
-|  |  |  |
-| :--- | ---: | ---: |
-| [5581\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005581%20-%20Transfer%20of%20consumer%20financial%20protection%20functions.md) |  | Transfer of consumer financial protection functions. |
-| [5582\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005582%20-%20Designated%20transfer%20date.md) |  | Designated transfer date. |
-| [5583\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005583%20-%20Savings%20provisions.md) |  | Savings provisions. |
-| [5584\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005584%20-%20Transfer%20of%20certain%20personnel.md) |  | Transfer of certain personnel. |
-| [5585\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005585%20-%20Incidental%20transfers.md) |  | Incidental transfers. |
-| [5586\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005586%20-%20Interim%20authority%20of%20the%20Secretary.md) |  | Interim authority of the Secretary. |
-| [5587\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005587%20-%20Transition%20oversight.md) | Transition oversight. | Part G—Regulatory Improvements |
-| [5601\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20G%20-%20Regulatory%20Improvements/%C2%A7%2005601%20-%20Remittance%20transfers.md) |  | Remittance transfers. |
-| [5602\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20G%20-%20Regulatory%20Improvements/%C2%A7%2005602%20-%20Reverse%20mortgage%20study%20and%20regulations.md) |  | Reverse mortgage study and regulations. |
-| [5603\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20G%20-%20Regulatory%20Improvements/%C2%A7%2005603%20-%20Review%2C%20report%2C%20and%20program%20with%20respect%20to%20exchange%20facilitators.md) |  | Review, report, and program with respect to exchange facilitators. |
+|  |  |
+| :--- | ---: |
+| [5581\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005581%20-%20Transfer%20of%20consumer%20financial%20protection%20functions.md) | Transfer of consumer financial protection functions. |
+| [5582\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005582%20-%20Designated%20transfer%20date.md) | Designated transfer date. |
+| [5583\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005583%20-%20Savings%20provisions.md) | Savings provisions. |
+| [5584\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005584%20-%20Transfer%20of%20certain%20personnel.md) | Transfer of certain personnel. |
+| [5585\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005585%20-%20Incidental%20transfers.md) | Incidental transfers. |
+| [5586\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005586%20-%20Interim%20authority%20of%20the%20Secretary.md) | Interim authority of the Secretary. |
+| [5587\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20F%20-%20Transfer%20of%20Functions%20and%20Personnel%3B%20Transitional%20Provisions/%C2%A7%2005587%20-%20Transition%20oversight.md) | Transition oversight. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Regulatory Improvements
+
+|  |  |
+| :--- | ---: |
+| [5601\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20G%20-%20Regulatory%20Improvements/%C2%A7%2005601%20-%20Remittance%20transfers.md) | Remittance transfers. |
+| [5602\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20G%20-%20Regulatory%20Improvements/%C2%A7%2005602%20-%20Reverse%20mortgage%20study%20and%20regulations.md) | Reverse mortgage study and regulations. |
+| [5603\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Consumer%20Financial%20Protection/Part%20G%20-%20Regulatory%20Improvements/%C2%A7%2005603%20-%20Review%2C%20report%2C%20and%20program%20with%20respect%20to%20exchange%20facilitators.md) | Review, report, and program with respect to exchange facilitators. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

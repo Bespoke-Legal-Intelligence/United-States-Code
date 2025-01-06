@@ -38,7 +38,7 @@ Memorandum of understanding.—Based upon the evaluation required under paragrap
 
 &emsp;(5)
 
-State and local consultation.—In carrying out this subsection, the InteragencyCommittee shall consult with appropriate State and local environmental, pipeline safety, and emergency response officials, and such other officials as the Interagency Committee considers appropriate.
+State and local consultation.—In carrying out this subsection, the Interagency Committee shall consult with appropriate State and local environmental, pipeline safety, and emergency response officials, and such other officials as the Interagency Committee considers appropriate.
 
 (b)
 

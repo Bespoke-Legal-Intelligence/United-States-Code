@@ -4,7 +4,7 @@
 
 Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the other administering Secretaries, shall establish an effective, efficient, integrated pharmacy benefits program under this chapter (hereinafter in this section referred to as the "pharmacy benefits program").
 
-(2)(A) The pharmacy benefits program shall include a uniform formulary of pharmaceutical agents, which shall assure the availability of pharmaceutical agents in the complete range of therapeutic classes. The selection for inclusion on the uniform formulary of particular pharmaceutical agents in each therapeutic class shall be based on the relative clinical and cost effectiveness of the agents in such class. With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.
+(2)(A) The pharmacy benefits program shall include a uniform formulary of pharmaceutical agents, which shall assure the availability of pharmaceutical agents in the complete range oftherapeutic classes. The selection for inclusion on the uniform formulary of particular pharmaceutical agents in each therapeutic class shall be based on the relative clinical and cost effectiveness of the agents in such class. With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.
 
 (B) In considering the relative clinical effectiveness of agents under subparagraph (A), the Secretary shall presume inclusion in a therapeutic class of a pharmaceutical agent, unless the Pharmacy and Therapeutics Committee established under subsection (b) finds that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other drugs included on the uniform formulary.
 
@@ -20,7 +20,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 &emsp;(iii) the national mail-order pharmacy program.
 
-(F)(i) The Secretary may implement procedures to place selected over-the-counter drugs on the uniform formulary and to make such drugs available to eligible covered beneficiaries.An over-the-counter drug may be included on the uniform formulary only if the Pharmacy and Therapeutics Committee established under subsection (b) finds that the over-the-counter drug is cost effective and clinically effective. If the Pharmacy and Therapeutics Committee recommends an over-the-counter drug for inclusion on the uniform formulary, the drug shall be considered to be in the same therapeutic class of pharmaceutical agents, as determined by the Committee, as similar prescription drugs.
+(F)(i) The Secretary may implement procedures to place selected over-the-counter drugs on the uniform formulary and to make such drugs available to eligible covered beneficiaries. An over-the-counter drug may be included on the uniform formulary only if the Pharmacy and Therapeutics Committee established under subsection (b) finds that the over-the-counter drug is cost effective and clinically effective. If the Pharmacy and Therapeutics Committee recommends an over-the-counter drug for inclusion on the uniform formulary, the drug shall be considered to be in the same therapeutic class of pharmaceutical agents, as determined by the Committee, as similar prescription drugs.
 
 (ii) Regulations prescribed by the Secretary to carry out clause (i) shall include the following with respect to over-the-counter drugs included on the uniform formulary:
 
@@ -62,7 +62,11 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (C) Notwithstanding subparagraphs (A) and (B), the cost-sharing amounts under this subsection for a dependent of a member of the uniformed services who dies while on active duty, a member retired under chapter 61 of this title, or a dependent of a member retired under such chapter shall be equal to the cost-sharing amounts, if any, for 2017.
 
-(7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appealsprocess for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
+(D) Notwithstanding subparagraphs (A), (B), and (C), the Secretary may selectively waive or reduce cost-sharing amounts under this subsection for a dependent of a member of the uniformed services described in section 1074(c)(3)(B) of this title if the dependent is enrolled in the TRICARE Prime Remote program and accompanies the member to the duty assignment of the member at the expense of the Federal Government.
+
+(E) Notwithstanding subparagraphs (A), (B), and (C), the cost-sharing amount under this subsection for any prescription contraceptive on the uniform formulary provided through a retail pharmacy described in paragraph (2)(E)(ii) or through the national mail-order pharmacy program is $0.
+
+(7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
 
 (8) In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before October 5, 1999, and stabilized the medical condition of the beneficiary.
 
@@ -132,7 +136,7 @@ Sharing of Information With State Prescription Drug Monitoring Programs.—(1) T
 
 &emsp;(B) applicable to designated controlled substance prescriptions under the pharmacy benefits program.
 
-(3)(A) The Secretary shall establish appropriate procedures for the bi-directional sharing of patient-specific information regarding prescriptions for designated controlled substances between the program and State prescription drug monitoring programs.
+(3)(A) The Secretary shall establish appropriate procedures for the bi-directional sharing of patient-specific information regarding prescriptions for designated controlled substancesbetween the program and State prescription drug monitoring programs.
 
 (B) The purpose of sharing of information under this paragraph shall be to prevent misuse and diversion of opioid medications and other designated controlled substances.
 
@@ -164,7 +168,7 @@ Definitions.—In this section:
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§702(a), (b)(1), 714, title X, §1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595; Pub. L. 115–232, div. A, title VII, §715(a), Aug. 13, 2018, 132 Stat. 1813; Pub. L. 116–92, div. A, title VII, §713(a), (b), Dec. 20, 2019, 133 Stat. 1446.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§702(a), (b)(1), 714, title X, §1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595; Pub. L. 115–232, div. A, title VII, §715(a), Aug. 13, 2018, 132 Stat. 1813; Pub. L. 116–92, div. A, title VII, §713(a), (b), Dec. 20, 2019, 133 Stat. 1446; Pub. L. 118–159, div. A, title VII, §§702, 707(a), Dec. 23, 2024, 138 Stat. 1942, 1944.)
 
 #### <b>Editorial Notes</b>
 
@@ -177,6 +181,10 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(6)(D). Pub. L. 118–159, §702, added subpar. (D).
+
+Subsec. (a)(6)(E). Pub. L. 118–159, §707(a), added subpar. (E).
 
 <b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §713(b), substituted "under subsection (j)" for "under subsection (h)".
 
@@ -204,7 +212,7 @@ Subsec. (a)(6)(A)(ii)(III). Pub. L. 114–92, §702(a)(2)(B), substituted "$49" 
 
 Subsec. (a)(6)(C)(i). Pub. L. 114–92, §702(b)(1), substituted "Beginning October 1, 2016," for "Beginning October 1, 2013,".
 
-Subsec. (a)(6)(C)(ii). Pub. L. 114–92, §702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: "If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more."
+Subsec. (a)(6)(C)(ii). Pub. L. 114–92, §702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: "If the amount of the increase otherwise providedfor a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more."
 
 <b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §702(a), substituted "the national mail-order pharmacy program" for "at least one of the means described in paragraph (2)(E)" and "shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6)." for "may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary."
 
@@ -344,7 +352,7 @@ Comptroller general report.—
 
 &emsp;&emsp;"(A)
 
-In general.—If the Secretary carries out the pilot program under subsection (a)(1), not laterthan March 1, 2025, the Comptroller General of the United States shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+In general.—If the Secretary carries out the pilot program under subsection (a)(1), not later than March 1, 2025, the Comptroller General of the United States shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
 
 &emsp;&emsp;"(B)
 
@@ -838,7 +846,7 @@ Pub. L. 106–65, div. A, title VII, §701(b), Oct. 5, 1999, 113 Stat. 680, dire
 
 #### Reports Required
 
-Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to submit reports to Congress, not later than Apr. 1 and Oct. 1 of fiscal years 2000 and 2001, on the implementation of the uniform formulary required under subsec. (a) ofthis section, the results of a survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors, the operation of the Pharmacy Data Transaction Service required by subsec. (e) of this section, and any other actions taken by the Secretary to improve management of the pharmacy benefits program under this section.
+Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to submit reports to Congress, not later than Apr. 1 and Oct. 1 of fiscal years 2000 and 2001, on the implementation of the uniform formulary required under subsec. (a) of this section, the results of a survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors, the operation of the Pharmacy Data Transaction Service required by subsec. (e) of this section, and any other actions taken by the Secretary to improve management of the pharmacy benefits program under this section.
 
 #### Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries
 

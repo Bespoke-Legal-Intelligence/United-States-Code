@@ -70,7 +70,7 @@ In subsection (c), the words "an office" are substituted for "official apartment
 
 #### Washington Aqueduct
 
-Pub. L. 117–263, div. H, title LXXXI, §8146, Dec. 23, 2022, 136 Stat. 3729, provided that:
+Pub. L. 117–263, div. H, title LXXXI, §8146, Dec. 23, 2022, 136 Stat. 3729, as amended by Pub. L. 118–272, div. A, title III, §1350, Jan. 4, 2025, 138 Stat. 3159, provided that:
 
 "(a)
 
@@ -140,9 +140,9 @@ Other conditions.—Each contract entered into under paragraph (1) shall—
 
 Customer Defined.—In this section, the term 'customer' means—
 
-&emsp;"(1) the District of Columbia;
+&emsp;"(1) the District of Columbia Water and Sewer Authority;
 
 &emsp;"(2) Arlington County, Virginia; and
 
-&emsp;"(3) Fairfax County, Virginia."
+&emsp;"(3) the Fairfax County Water Authority, Virginia."
 

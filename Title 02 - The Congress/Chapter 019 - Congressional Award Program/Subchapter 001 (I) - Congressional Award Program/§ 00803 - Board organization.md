@@ -28,7 +28,7 @@
 
 (B) Members of the Board shall not be subject to the limitation on reappointment in subparagraph (A) during their period of service as Chairman of the Board and may be reappointed to an additional full term after termination of such Chairmanship.
 
-(3)(A) Notwithstanding paragraph (1) or (2), the term of each member of the Board shallbegin on October 1 of the even numbered year which would otherwise apply with one-half of the Board positions having terms which begin in each even numbered year.
+(3)(A) Notwithstanding paragraph (1) or (2), the term of each member of the Board shall begin on October 1 of the even numbered year which would otherwise apply with one-half of the Board positions having terms which begin in each even numbered year.
 
 (B) Subparagraph (A) shall apply to appointments made to the Board on or after July 7, 2010.
 
@@ -130,5 +130,5 @@ Pub. L. 100–674, §3, Nov. 17, 1988, 102 Stat. 3998, provided that: "Not later
 
 #### Exceptional Terms for Certain Board Members
 
-Pub. L. 98–33, §2, May 25, 1983, 97 Stat. 195, relating to exceptional terms for certain individuals appointed to the Congressional Award Board, was repealed by Pub. L. 99–161, §5, Nov. 25, 1985, 99 Stat. 936.
+Pub. L. 98–33, §2, May 25, 1983, 97 Stat. 195, relating to exceptional terms for certain individuals appointed tothe Congressional Award Board, was repealed by Pub. L. 99–161, §5, Nov. 25, 1985, 99 Stat. 936.
 

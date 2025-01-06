@@ -10,7 +10,7 @@ Sale.—Whoever, in or affecting interstate or foreign commerce, knowingly sells
 
 &emsp;(2)
 
-Use.—Whoever, in or affecting interstate or foreign commerce, being a nonqualifying user makes unauthorized use of a traffic signal preemption transmitter shall be fined under this title, or imprisoned not more than 6 months, or both.
+Use.—Whoever, in or affecting interstate or foreign commerce, being a nonqualifying user makes unauthorized use of a traffic signal preemption transmitter shall be fined underthis title, or imprisoned not more than 6 months, or both.
 
 (b)
 

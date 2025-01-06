@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—After notice and an opportunity for a hearing, the Secretary of Transportation may decide that a pipeline facility is hazardous if the Secretary decides that—
+General Authority.—After notice and an opportunity for a hearing, the Secretary ofTransportation may decide that a pipeline facility is hazardous if the Secretary decides that—
 
 &emsp;(1) operation of the facility is or would be hazardous to life, property, or the environment; or
 
@@ -54,7 +54,7 @@ Effect of collective bargaining agreements.—An action taken by an operator und
 
 Waiver of Notice and Hearing in Emergency.—The Secretary may waive the requirements for notice and an opportunity for a hearing under this section and issue expeditiously an order under this section if the Secretary decides failure to issue the order expeditiously will result in likely serious harm to life, property, or the environment. An order under this subsection shall provide an opportunity for a hearing as soon as practicable after the order is issued.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1317; Pub. L. 103–429, §6(76), Oct. 31, 1994, 108 Stat.4388; Pub. L. 107–355, §§8(a), 10(b), Dec. 17, 2002, 116 Stat. 2993, 2995.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1317; Pub. L. 103–429, §6(76), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 107–355, §§8(a), 10(b), Dec. 17, 2002, 116 Stat. 2993, 2995.)
 
 Historical and Revision Notes
 

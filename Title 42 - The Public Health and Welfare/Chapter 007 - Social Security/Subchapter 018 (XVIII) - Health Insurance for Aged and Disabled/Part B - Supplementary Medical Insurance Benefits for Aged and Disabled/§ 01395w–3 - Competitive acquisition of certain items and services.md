@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of the competitive acquisition programs under this section—
 
-&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicableas a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
+&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary shall conduct the competition for such round in a manner so that it occurs in 2009 with respect to the same items and services and the same areas, except as provided in subclauses (III) and (IV);
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) shall provide, by not later than 45 days (in the case of the first round of the competitive acquisition programs as described in subparagraph (B)(i)(I)) or 90 days (in the case of a subsequent round of such programs) after the covered document review date, for notice to the bidder of all such documents that are missing as of the covered document review date; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may not reject the bid on the basis that any covered document is missing or has not been submitted on a timely basis, if all such missing documents identified in the notice provided to the bidder under subclause (I) are submitted to the Secretary not later than 10 business days after the date of such notice.
+&emsp;&emsp;&emsp;&emsp;(II) may not reject the bid on the basis that any covered document is missing orhas not been submitted on a timely basis, if all such missing documents identified in the notice provided to the bidder under subclause (I) are submitted to the Secretary not later than 10 business days after the date of such notice.
 
 #### (ii) Covered document review date
 
@@ -98,7 +98,7 @@
 
 #### (iv) Covered document defined
 
-&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submittedby a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
+&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
 #### (G) Requiring bid bonds for bidding entities
 
@@ -138,7 +138,7 @@
 
 #### (D) Lymphedema compression treatment items
 
-&emsp;&emsp;Lymphedema compression treatment items (as defined in section 1395x(mmm) of this title) for which payment would otherwise be made under section 1395m(z) of this title.
+&emsp;&emsp;Lymphedema compression treatment items (as defined in section 1395x(mmm) ofthis title) for which payment would otherwise be made under section 1395m(z) of this title.
 
 #### (3) Exception authority
 
@@ -156,7 +156,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to items or services included within a particular HCPCS code, the Secretary may establish a process for certainitems and services under which a physician may prescribe a particular brand or mode of delivery of an item or service within such code if the physician determines that use of the particular item or service would avoid an adverse medical outcome on the individual, as determined by the Secretary.
+&emsp;&emsp;With respect to items or services included within a particular HCPCS code, the Secretary may establish a process for certain items and services under which a physician may prescribe a particular brand or mode of delivery of an item or service within such code if the physician determines that use of the particular item or service would avoid an adverse medical outcome on the individual, as determined by the Secretary.
 
 #### (B) No effect on payment amount
 
@@ -240,7 +240,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may limit the number of contractors in a competitive acquisition area to the number needed to meet projected demand for items and services covered under the contracts. In awarding contracts, the Secretary shall take into account the ability of bidding entities to furnish items or services in sufficient quantities to meet the anticipated needs of individuals for such itemsor services in the geographic area covered under the contract on a timely basis.
+&emsp;&emsp;The Secretary may limit the number of contractors in a competitive acquisition area to the number needed to meet projected demand for items and services covered under the contracts. In awarding contracts, the Secretary shall take into account the ability of bidding entities to furnish items or services in sufficient quantities to meet the anticipated needs of individuals for such items or services in the geographic area covered under the contract on a timely basis.
 
 #### (B) Multiple winners
 
@@ -358,7 +358,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements established under subparagraphs (A) and (B);
 
-&emsp;&emsp;&emsp;&emsp;(II) the right of the individual to purchase diabetic testing strip products from another mail order supplier of such products or a retail pharmacy if the entity is not able to furnish the brand of such product that is compatible with the home blood glucose monitor selected by the individual; and
+&emsp;&emsp;&emsp;&emsp;(II) the right of the individual to purchase diabetic testing strip products from another mail order supplier of suchproducts or a retail pharmacy if the entity is not able to furnish the brand of such product that is compatible with the home blood glucose monitor selected by the individual; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the right of the individual to return diabetic testing strip products furnished to the individual by the entity.
 
@@ -456,7 +456,7 @@ Subsec. (c)(4). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA"
 
 <b>2019</b>—Subsec. (a)(2)(A). Pub. L. 116–94 inserted ", complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes)" after "group 3 or higher" and substituted "such complex rehabilitative power wheelchairs, complex rehabilitative manual wheelchairs, and certain manual wheelchairs" for "such wheelchairs".
 
-<b>2018</b>—Subsec. (b)(10)(A). Pub. L. 115–123, §50414(a)(1)(A), substituted "With respect to bids to furnish such types of products on or after January 1, 2019, the volume for such types of products shall be determined by the Secretary through the use of multiplesources of data (from mail order and non-mail order Medicare markets), including market-based data measuring sales of diabetic testing strip products that are not exclusively sold by a single retailer from such markets." for "The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes."
+<b>2018</b>—Subsec. (b)(10)(A). Pub. L. 115–123, §50414(a)(1)(A), substituted "With respect to bids to furnish such types of products on or after January 1, 2019, the volume for such types of products shall be determined by the Secretary through the use of multiple sources of data (from mail order and non-mail order Medicare markets), including market-based data measuring sales of diabetic testing strip products that are not exclusively sold by a single retailer from such markets." for "The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes."
 
 Subsec. (b)(10)(C) to (E). Pub. L. 115–123, §50414(a)(1)(B), added subpars. (C) to (E).
 
@@ -528,7 +528,7 @@ Pub. L. 116–94, div. N, title I, §106(b), Dec. 20, 2019, 133 Stat. 3101, prov
 
 "(1)
 
-In general.—Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, during the period beginning on January 1, 2020, and ending on June 30, 2021, use information on the payment determined under the competitive acquisition programs under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) to adjust the payment amount that would otherwise be recognized under section 1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for wheelchair accessories (including seating systems) and seat and back cushions when furnished in connection with complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes).
+In general.—Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, during the period beginning on January1, 2020, and ending on June 30, 2021, use information on the payment determined under the competitive acquisition programs under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) to adjust the payment amount that would otherwise be recognized under section 1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for wheelchair accessories (including seating systems) and seat and back cushions when furnished in connection with complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes).
 
 "(2)
 
@@ -552,7 +552,7 @@ Pub. L. 108–173, title III, §302(b)(3), Dec. 8, 2003, 117 Stat. 2230, as amen
 
 "(A)
 
-Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[42 U.S.C. 1395w–3\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer tosection 154 of the Medicare Improvements for Patients and Providers Act of 2008, Pub. L. 110–275\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
+Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[42 U.S.C. 1395w–3\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, Pub. L. 110–275\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
 
 "(B)
 

@@ -24,7 +24,7 @@ Limitation on Promotions Under Other Authority.—Except as otherwise provided b
 
 (e)
 
-Disclosure of Board Recommendations.—The recommendations of a selection board maybe disclosed only in accordance with regulations prescribed by the Secretary of Defense. Those recommendations may not be disclosed to a person not a member of the board (or a member of the administrative staff designated by the Secretary of the Air Force to assist the board) until the written report of the recommendations of the board, required by section 617 of this title, is signed by each member of the board.
+Disclosure of Board Recommendations.—The recommendations of a selection board may be disclosed only in accordance with regulations prescribed by the Secretary of Defense. Those recommendations may not be disclosed to a person not a member of the board (or a member of the administrative staff designated by the Secretary of the Air Force to assist the board) until the written report of the recommendations of the board, required by section 617 of this title, is signed by each member of the board.
 
 (f)
 

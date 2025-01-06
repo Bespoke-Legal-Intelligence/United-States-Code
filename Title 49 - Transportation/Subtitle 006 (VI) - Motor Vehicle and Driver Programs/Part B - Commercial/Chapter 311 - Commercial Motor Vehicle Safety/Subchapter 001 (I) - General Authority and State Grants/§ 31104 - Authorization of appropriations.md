@@ -96,7 +96,7 @@ Deductions for Program Support.—On October 1 of each fiscal year, or as soon a
 
 (d)
 
-Grants and Cooperative Agreements as Contractual Obligations.—The approval of a financial assistance agreement by the Secretary under section 31102, 31103, or 31313 is a contractual obligation of the Federal Government for payment of the Federal Government's share of costs in carrying out the provisions of the grant or cooperative agreement.
+Grants and Cooperative Agreements as Contractual Obligations.—The approval of a financial assistance agreement by the Secretary under section 31102, 31103, or 31313 is a contractual obligation of the Federal Government forpayment of the Federal Government's share of costs in carrying out the provisions of the grant or cooperative agreement.
 
 (e)
 
@@ -424,7 +424,7 @@ Subsec. (j). Pub. L. 105–178, §4003(g)(4), redesignated subsec. (j) as (h).
 
 Amendment by sections 5103(c)(1) and 5105(a), (c) of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
-Amendment by section 5101(c) of Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition provision, seesection 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under section 31102 of this title.
+Amendment by section 5101(c) of Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under section 31102 of this title.
 
 #### Effective and Termination Dates of 2012 Amendment
 

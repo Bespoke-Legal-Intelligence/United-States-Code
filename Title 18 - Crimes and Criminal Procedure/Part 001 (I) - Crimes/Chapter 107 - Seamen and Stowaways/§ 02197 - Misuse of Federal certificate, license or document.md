@@ -8,7 +8,7 @@ Whoever forges, counterfeits, or steals, or attempts to forge, counterfeit, or s
 
 Whoever, without authority, prints or manufactures any blank form of such certificate, license, or document, or
 
-Whoever possesses without lawful excuse, and with intent unlawfully to use the same, any blank form of such certificate, license, or document; or
+Whoever possesses without lawful excuse, and with intent unlawfully to use the same, anyblank form of such certificate, license, or document; or
 
 Whoever, in any manner, transfers or negotiates such transfer of, any blank form of such certificate, license, or document, or any such altered, forged, counterfeit, or stolen certificate, license, or document, or any such certificate, license, or document to which the party transferring or receiving the same is not lawfully entitled—
 

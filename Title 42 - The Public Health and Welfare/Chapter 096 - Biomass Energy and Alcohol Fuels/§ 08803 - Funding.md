@@ -44,7 +44,7 @@ Financial assistance may be provided under this chapter only to the extent provi
 
 The Energy Security Reserve established in the Treasury of the United States under title II of the Act entitled "An Act making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1980, and for other purposes" (Public Law 96–126; 93 Stat. 970), referred to in subsec. (a), was established by Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, which is set out as a note under section 5915 of this title.
 
-This chapter, referred to in subsecs. (c)(1) and (d), was in the original "this title", meaning title II of Pub. L.96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1) and (d), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 #### Amendments
 

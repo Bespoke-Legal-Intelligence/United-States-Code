@@ -38,7 +38,7 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under section 500
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–141 substituted "subparagraph (B)(i), (B)(ii)," for "subparagraph (B)".
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–10 substituted "September 30 of each fiscal year (or a later date specified by the Secretary concerned for the fiscal year)" for "September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013".
+<b>2015</b>—Subsec. (a). Pub. L. 114–10 substituted "September 30 of each fiscal year (or a later date specified by the Secretary concerned for the fiscal year)" for"September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013".
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–40 substituted "2013" for "2012".
 

@@ -88,7 +88,7 @@ Participating state.—The term "participating State" means a State that has com
 
 &emsp;(8)
 
-Unified carrier registration agreement.—The terms "unified carrier registration agreement" and "UCR agreement" mean theinterstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
+Unified carrier registration agreement.—The terms "unified carrier registration agreement" and "UCR agreement" mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
 
 &emsp;(9)
 
@@ -154,7 +154,7 @@ State agencies.—Five directors from the professional staffs of State agencies 
 
 &emsp;&emsp;&emsp;(iii)
 
-Motor carrier industry.—Five directors from the motor carrier industry. At least 1 of the appointees under this clause shall be a representative of a national trade association representing the general motor carrier of property industry. At least 1 of the appointees under this clause shall represent a motor carrier that falls within the smallest fleet fee bracket.
+Motor carrier industry.—Five directors from the motor carrier industry. At least 1 of the appointees under thisclause shall be a representative of a national trade association representing the general motor carrier of property industry. At least 1 of the appointees under this clause shall represent a motor carrier that falls within the smallest fleet fee bracket.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -258,7 +258,7 @@ Representation on subcommittees.—Except for the industry advisory subcommittee
 
 &emsp;(6)
 
-Delegation of authority.—The board may contract with any person or any agency of a State to perform administrative functions required under the unified carrier registration agreement, but may not delegate its decision or policy-making responsibilities.
+Delegation of authority.—The board may contract with any person or any agency of a State to perform administrative functionsrequired under the unified carrier registration agreement, but may not delegate its decision or policy-making responsibilities.
 
 &emsp;(7)
 
@@ -354,11 +354,11 @@ Fees.—(A) Fees charged—
 
 &emsp;(2)
 
-Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
+Determination of ownership or operation.—For purposes of this subsection, acommercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
 
 &emsp;(3)
 
-Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates on its most recently filed MCS–150 or the totalnumber of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
+Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates on its most recently filed MCS–150 or the total number of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
 
 &emsp;(4)
 
@@ -420,7 +420,7 @@ Relief.—Subject to section 1341 of title 28, the court, on a proper showing sh
 
 Enforcement by states.—Nothing in this section—
 
-&emsp;&emsp;(A) prohibits a participating State from issuing citations and imposing reasonable fines and penalties pursuant to the applicable laws and regulations of the State on any motor carrier, motor private carrier, freight forwarder, broker, or leasing company for failure to—
+&emsp;&emsp;(A) prohibits a participating State from issuing citations and imposing reasonablefines and penalties pursuant to the applicable laws and regulations of the State on any motor carrier, motor private carrier, freight forwarder, broker, or leasing company for failure to—
 
 &emsp;&emsp;&emsp;(i) submit information documents as required under subsection (d)(2); or
 

@@ -8,13 +8,13 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for"recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization for Lease of Forest Service Sites
 
-Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided that:
+Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, as amended by Pub. L. 118–234, title I, §151, Jan. 4, 2025, 138 Stat. 2866, provided that:
 
 "(a)
 
@@ -68,7 +68,7 @@ Facility or improvement.—The term 'facility or improvement' includes—
 
 &emsp;&emsp;"(C) a research station or laboratory;
 
-&emsp;&emsp;"(D) a dwelling;
+&emsp;&emsp;"(D) a dwelling or multiunit dwelling;
 
 &emsp;&emsp;"(E) a warehouse;
 
@@ -96,7 +96,7 @@ Authorization.—The Secretary may lease an administrative site that is under th
 
 "(c)
 
-Identification of Eligible Sites.—A regional forester, in consultation with forest supervisors in the region, may submit to the Secretary a recommendation for administrative sites in the region that the regional forester considers eligible for leasing under this section.
+Identification of Eligible Sites.—A regional forester, in consultation with forest supervisors in the region, may submit to the Chief of the Forest Service, or their designee a recommendation for administrative sites in the region that the regional forester considers eligible for leasing under this section.
 
 "(d)
 
@@ -146,11 +146,19 @@ Form of consideration.—The consideration referred to in subparagraph (A) may b
 
 &emsp;&emsp;&emsp;"(ii) in-kind, including—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the construction of new facilities or improvements, the title to which shall be transferred by the lessee to the Secretary;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the construction of new facilities or improvements, such as housing, the title to which shall be transferred by the lessee to the Secretary;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) other services relating to activities that occur on the administrative site, as determined by the Secretary; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) other services relating to activities that occur on the administrative site, as determined by the Secretary; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) services occurring off the administrative site that—
+
+&emsp;&emsp;&emsp;"(aa) occur at another administrative site in the same unit in which the administrative site is located or a different unit of the National Forest System;
+
+&emsp;&emsp;&emsp;"(bb) benefit the National Forest System; and
+
+&emsp;&emsp;&emsp;"(cc) support activities occurring within the unit of the National Forest System in which the administrative site is located; or
 
 &emsp;&emsp;&emsp;"(iii) any combination of the consideration described in clauses (i) and (ii).
 
@@ -182,6 +190,28 @@ Conditions.—The lease of an administrative site under this section shall be su
 
 Right of first refusal.—Subject to terms and conditions that the Secretary determines to be necessary, the Secretary shall offer to lease an administrative site to the municipality or county in which the administrative site is located before seeking to lease the administrative site to any other person.
 
+&emsp;"(6)
+
+Lease term.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term of a lease of an administrative site under this section shall be not more than 100 years.
+
+&emsp;&emsp;"(B)
+
+Reauthorization of use.—A lease of an administrative site under this section shall include a provision for reauthorization of the use if the—
+
+&emsp;&emsp;&emsp;"(i) use of the administrative site, at the time of reauthorization, is still being used for the purposes authorized;
+
+&emsp;&emsp;&emsp;"(ii) use to be authorized under the new lease is consistent with the applicable land management plan; and
+
+&emsp;&emsp;&emsp;"(iii) lessee is in compliance with all the terms of the existing lease.
+
+&emsp;&emsp;"(C)
+
+Savings.—A reauthorization of use under subparagraph (B) may include new terms in the use, as determined by the Chief of the Forest Service, or their designee.
+
 "(f)
 
 Relation to Other Laws.—
@@ -200,7 +230,7 @@ In general.—Notwithstanding any provision of law relating to the mitigation or
 
 &emsp;&emsp;"(B)
 
-Procedures.—With respect to an administrative site to be leased under this section that haslead-based paint or asbestos-containing building materials, the Secretary shall—
+Procedures.—With respect to an administrative site to be leased under this section that has lead-based paint or asbestos-containing building materials, the Secretary shall—
 
 &emsp;&emsp;&emsp;"(i) provide notice to the person to which the administrative site will be leased of the presence of the lead-based paint or asbestos-containing building material; and
 
@@ -222,7 +252,7 @@ Compliance with local laws.—A person that leases an administrative site under 
 
 "(g)
 
-Prohibition.—No agency of the Federal Government shall make any cash payments to a leaseholder relating to the use or occupancy of any administrative site or facility that has been improved under this section.
+Prohibition.—No agency of the Federal Government shall make any cash payments relating to the use or occupancy of any administrative site or facility that has been improved or constructed under this section.
 
 "(h)
 
@@ -252,11 +282,11 @@ Expiration of Authority.—
 
 &emsp;"(1)
 
-In general.—The authority of the Secretary to make a lease of an administrative site under this section expires on October 1, 2023.
+In general.—The authority of the Secretary to make a lease of an administrative site under this section expires on October 1, 2028.
 
 &emsp;"(2)
 
-Effect on lease agreement.—Paragraph (1) shall not affect the authority of the Secretary to carry out this section in the case of any lease agreement that was entered into by the Secretary before October 1, 2023."
+Effect on lease agreement.—Paragraph (1) shall not affect the authority of the Secretary to carry out this section in the case of any lease agreement that was entered into by the Secretary before October 1, 2028."
 
 \[For definition of "National Forest System" as used in section 8623 of Pub. L. 115–334, set out above, see section 8601 of Pub. L. 115–334, set out below.\]
 
@@ -506,9 +536,11 @@ Use.—Amounts deposited under paragraph (1) shall be available to the Secretary
 
 Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
-\[Pub. L. 117–328, div. G, title IV, §418, Dec. 29, 2022, 136 Stat. 4825, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2023' for 'September 30, 2019'."\]
+\[Pub. L. 118–42, div. E, title IV, §418, Mar. 9, 2024, 138 Stat. 289, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2024' for 'September 30, 2019'."\]
 
 \[Similar provisions were contained in the following prior appropriation acts:
+
+\[Pub. L. 117–328, div. G, title IV, §418, Dec. 29, 2022, 136 Stat. 4825.\]
 
 \[Pub. L. 117–103, div. G, title IV, §418, Mar. 15, 2022, 136 Stat. 414.\]
 
@@ -520,7 +552,7 @@ Brokerage Services.—The Secretary may use the proceeds from the conveyance of 
 
 #### Conveyance of Excess Forest Service Structures
 
-Pub. L. 107–63, title III, §329, Nov. 5, 2001, 115 Stat. 471, as amended by Pub. L. 108–7, div. F, title III, §325, Feb. 20, 2003, 117 Stat. 275; Pub. L. 108–108, title III, §322, Nov. 10, 2003, 117 Stat. 1307; Pub. L. 108–447, div. E, title III, §322, Dec. 8, 2004, 118 Stat. 3098, which gave the Secretary of Agriculture temporary and limited authority to convey excess structures located on National Forest System lands and to use the proceeds from those conveyances for certain maintenance and rehabilitation activities, was repealed, effective Sept. 30, 2006, by Pub. L. 109–54, title V, §503(g), Aug. 2, 2005, 119 Stat. 561, which also provided that the Secretary could complete any conveyance initiated before the effective date of the repeal.
+Pub. L. 107–63, title III, §329, Nov. 5, 2001, 115 Stat. 471, as amended by Pub. L. 108–7, div. F, title III, §325, Feb. 20, 2003, 117 Stat. 275; Pub. L. 108–108, title III, §322, Nov. 10, 2003, 117 Stat. 1307; Pub. L. 108–447, div. E, title III, §322, Dec. 8, 2004, 118 Stat. 3098, which gave the Secretary of Agriculture temporary and limited authority to convey excess structures located on National Forest System lands and to use the proceeds from those conveyances for certain maintenance and rehabilitation activities, was repealed, effective Sept. 30, 2006, by Pub.L. 109–54, title V, §503(g), Aug. 2, 2005, 119 Stat. 561, which also provided that the Secretary could complete any conveyance initiated before the effective date of the repeal.
 
 #### Definition of National Forest System
 

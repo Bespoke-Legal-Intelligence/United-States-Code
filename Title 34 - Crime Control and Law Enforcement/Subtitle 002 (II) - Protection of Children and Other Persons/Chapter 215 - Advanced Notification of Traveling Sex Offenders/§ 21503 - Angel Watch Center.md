@@ -46,7 +46,7 @@ The Center shall consist of the following:
 
 &emsp;&emsp;(A) determine if individuals traveling abroad are listed on the National Sex Offender Registry;
 
-&emsp;&emsp;(B) review the United States Marshals Service's National Sex Offender Targeting Center case management system or other system that provides access to a list of individuals who have provided advanced notice of international travel to identify any individual who meets the criteria described in subparagraph (A) and is not in a system reviewed pursuant to this subparagraph; and
+&emsp;&emsp;(B) review the United States Marshals Service's National Sex Offender TargetingCenter case management system or other system that provides access to a list of individuals who have provided advanced notice of international travel to identify any individual who meets the criteria described in subparagraph (A) and is not in a system reviewed pursuant to this subparagraph; and
 
 &emsp;&emsp;(C) provide a list of individuals identified under subparagraph (B) to the United States Marshals Service's National Sex Offender Targeting Center to determine compliance with title I of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).<sup>1</sup>
 
@@ -112,7 +112,7 @@ The Center shall consist of the following:
 
 &emsp;&emsp;(D) the number of transmissions made under subparagraphs (A),(B), and (C) of paragraph (3) and the countries to which they are transmitted, respectively;
 
-&emsp;&emsp;(E) whether the information was transmitted to the destination country beforescheduled commencement of sex offender travel; and
+&emsp;&emsp;(E) whether the information was transmitted to the destination country before scheduled commencement of sex offender travel; and
 
 &emsp;&emsp;(F) any other information deemed necessary and appropriate by the Secretary of Homeland Security.
 
@@ -126,7 +126,7 @@ The Center shall consist of the following:
 
 &emsp;&emsp;&emsp;(ii) ensure that any complaint is promptly reviewed; and
 
-&emsp;&emsp;&emsp;(iii) in the case of a complaint that involves a notification sent by another Federal Government entity, notify the individual of the contact information for the appropriate entity and forward the complaint to the appropriate entity for prompt review and response pursuant to this section.
+&emsp;&emsp;&emsp;(iii) in the case of a complaint that involves a notification sent by another Federal Government entity, notify the individual of the contact information for the appropriate entity and forward the complaint to the appropriate entity for promptreview and response pursuant to this section.
 
 #### (B) Response to complaints
 

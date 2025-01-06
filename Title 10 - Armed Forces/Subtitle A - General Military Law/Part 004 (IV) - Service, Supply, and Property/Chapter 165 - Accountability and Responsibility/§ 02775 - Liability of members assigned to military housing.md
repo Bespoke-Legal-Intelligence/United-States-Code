@@ -12,7 +12,7 @@
 
 (b) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may establish limitations on liability under this section, including (in the case of liability under subsection (a)(1)) different limitations based upon the degree of abuse or negligence involved, and may compromise or waive a claim of the United States under this section.
 
-(c)(1) The Secretary concerned may deduct from a member's pay an amount sufficient to pay for the cost of any repair or replacement made necessary as the result of any abuse or negligence referred to in subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2), for which the member is liable. Regulations implementing this section may also provide for the collection of amounts owed under this section by any other authorized means.
+(c)(1) The Secretary concerned may deduct from a member's pay an amount sufficient to pay for the cost of any repair or replacementmade necessary as the result of any abuse or negligence referred to in subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2), for which the member is liable. Regulations implementing this section may also provide for the collection of amounts owed under this section by any other authorized means.
 
 (2) The final determination of an amount to be deducted from the pay of an officer of an armed force in accordance with regulations prescribed under this section shall be deemed to be a special order authorizing such deduction for the purposes of section 1007 of title 37.
 
@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 99–661, §1343(a)(19)(B), inserted a comma after "Secreta
 
 Subsec. (e). Pub. L. 99–661, §1343(a)(19)(C), substituted "with respect to the Coast Guard when it" for "when the Coast Guard".
 
-<b>1985</b>—Pub. L. 99–167, §802(d)(1), substituted "assigned to military housing" for "for damage to housing andrelated equipment and furnishings" in section catchline.
+<b>1985</b>—Pub. L. 99–167, §802(d)(1), substituted "assigned to military housing" for "for damage to housing and related equipment and furnishings" in section catchline.
 
 Subsec. (a). Pub. L. 99–167, §802(a), (b)(1), designated existing provisions as par. (1), and in par. (1) as so designated, inserted "and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy", and added par. (2).
 

@@ -32,7 +32,7 @@ Prior section 3001 was renumbered section 5101 of this title.
 
 #### Department of Veterans Affairs High Technology Pilot Program
 
-Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 116–315, title IV, §4302, Jan. 5, 2021, 134 Stat. 5017; Pub. L. 117–103, div. DD, §101, Mar. 15, 2022, 136 Stat. 1111, provided that:
+Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 116–315, title IV, §4302, Jan. 5, 2021, 134 Stat. 5017; Pub. L. 117–103, div. DD, §101, Mar. 15, 2022, 136 Stat. 1111; Pub. L. 118–210, title II, §212(b), Jan. 2, 2025, 138 Stat. 2772, provided that:
 
 "(a)
 
@@ -80,7 +80,7 @@ Tuition reimbursement.—In entering into contracts to carry out the pilot progr
 
 &emsp;&emsp;"(A) completes a program of education offered by the provider; and
 
-&emsp;&emsp;"(B) does not find full-time meaningful employment in the field of study of the program within the180-day period beginning on the date the student completes the program.
+&emsp;&emsp;"(B) does not find full-time meaningful employment in the field of study of the program within the 180-day period beginning on the date the student completes the program.
 
 &emsp;"(6)
 
@@ -96,19 +96,27 @@ Experts.—The Secretary shall determine whether instructors are experts under p
 
 "(d)
 
-Housing Stipend.—The Secretary shall pay to each eligible veteran (not including an individual described in the second sentence of subsection (b)) who is enrolled in a high technology program of education under the pilot program on a full-time or part-time basis a monthly housing stipend equal to the product—
+Housing Stipend.—
 
-&emsp;"(1) of—
+&emsp;"(1)
 
-&emsp;&emsp;"(A) in the case of a veteran pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution where the individual physically participates in a majority of classes; or
+In general.—Except as provided under paragraph (2), the Secretary shall pay to each eligible veteran (not including an individual described in the second sentence of subsection (b)) who is enrolled in a high technology program of education under the pilot program on a full-time or part-time basis a monthly housing stipend equal to the product—
 
-&emsp;&emsp;"(B) in the case of a veteran pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the national average of the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5, multiplied by
+&emsp;&emsp;"(A) of—
 
-&emsp;"(2) the lesser of—
+&emsp;&emsp;&emsp;"(i) in the case of a veteran pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution where the individual physically participates in a majority of classes; or
 
-&emsp;&emsp;"(A) 1.0; or
+&emsp;&emsp;&emsp;"(ii) in the case of a veteran pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the national average of the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5, multiplied by
 
-&emsp;&emsp;"(B) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
+&emsp;&emsp;"(B) the lesser of—
+
+&emsp;&emsp;&emsp;"(i) 1.0; or
+
+&emsp;&emsp;&emsp;"(ii) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
+
+&emsp;"(2)
+
+Bar to dual eligibility.—No covered individual may receive a housing stipend under this subsection for any month if such individual is in receipt of a housing stipend under chapter 33 of title 38, United States Code, for that month.
 
 "(e)
 
@@ -174,11 +182,9 @@ Authorization of Appropriations.—Funds shall be made available to carry out th
 
 &emsp;"(5) For fiscal year 2023, $45,000,000.
 
-&emsp;"(6) For fiscal year 2024, $45,000,000.
-
 "(h)
 
-Termination.—The authority to carry out a pilot program under this section shall terminate on the date that is 5 years after the date on which the Secretary first enters into a contract under this section.
+Termination.—The Secretary may not, under this section, pay a provider for a high technology program of education that begins after September 30, 2024.
 
 "(i)
 

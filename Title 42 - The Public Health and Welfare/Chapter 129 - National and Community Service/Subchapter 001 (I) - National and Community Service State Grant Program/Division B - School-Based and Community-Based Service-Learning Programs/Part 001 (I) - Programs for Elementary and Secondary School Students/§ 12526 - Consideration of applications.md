@@ -18,7 +18,7 @@ If the Corporation rejects an application submitted by a State, territory, or In
 
 #### Prior Provisions
 
-A prior section 12526, Pub. L. 101–610, title I, §114, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 829, related to preparation, submission, and approval of local applications, prior to the general amendment of this part by Pub. L. 111–13.
+A prior section 12526, Pub. L. 101–610, title I, §114, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107Stat. 829, related to preparation, submission, and approval of local applications, prior to the general amendment of this part by Pub. L. 111–13.
 
 Another prior section 12526, Pub. L. 101–610, title I, §116, Nov. 16, 1990, 104 Stat. 3138; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, prescribed Federal and local project contributions, prior to repeal by Pub. L. 103–82, §103(a)(2).
 

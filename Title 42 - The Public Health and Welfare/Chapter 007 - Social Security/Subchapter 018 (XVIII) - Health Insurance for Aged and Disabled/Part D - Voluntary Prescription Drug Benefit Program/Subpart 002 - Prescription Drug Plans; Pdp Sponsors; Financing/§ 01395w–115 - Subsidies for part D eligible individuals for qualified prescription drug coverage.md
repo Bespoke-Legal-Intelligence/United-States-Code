@@ -142,7 +142,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (ii) Costs above second threshold upper limits
 
-&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are greater than the second threshold upper limit of the risk corridor for the plan for the year, the Secretary shall increase the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount equal to the sum of—
+&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are greater than the second threshold upper limit ofthe risk corridor for the plan for the year, the Secretary shall increase the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 50 percent (or, for 2006 and 2007, 75 percent or 90 percent if the conditions described in clause (iii) are met for the year) of the difference between the second threshold upper limit and the first threshold upper limit; and
 
@@ -168,7 +168,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;&emsp;(I) 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit and the second threshold lower limit; and
 
-&emsp;&emsp;&emsp;&emsp;(II) 80 percent of the difference between the second threshold upper limitof the risk corridor and such adjusted allowable risk corridor costs.
+&emsp;&emsp;&emsp;&emsp;(II) 80 percent of the difference between the second threshold upper limit of the risk corridor and such adjusted allowable risk corridor costs.
 
 #### (3) Establishment of risk corridors
 
@@ -324,7 +324,7 @@ Subsec. (b)(1). Pub. L. 117–169, §11201(b)(1), inserted dash after "equal to"
 
 Subsec. (b)(2). Pub. L. 117–169, §11201(b)(2), designated existing provisions as subpar. (A) and inserted heading, substituted "Subject to subparagraph (B), for purposes" for "For purposes", and added subpar. (B).
 
-Subsec. (b)(3). Pub. L. 117–169, §11201(b)(3), substituted "Subject to paragraph (2)(B), for purposes" for "For purposes" and inserted "(or, with respect to 2025 and subsequent years, in the case of an applicable drug, asdefined in section 1395w–114c(g)(2) of this title, by a manufacturer)" after "by the individual or under the plan".
+Subsec. (b)(3). Pub. L. 117–169, §11201(b)(3), substituted "Subject to paragraph (2)(B), for purposes" for "For purposes" and inserted "(or, with respect to 2025 and subsequent years, in the case of an applicable drug, as defined in section 1395w–114c(g)(2) of this title, by a manufacturer)" after "by the individual or under the plan".
 
 Subsec. (f)(2)(A)(i). Pub. L. 117–169, §11001(b)(1)(H)(ii), inserted "or part E of subchapter XI" after "this section".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary concerned, when evaluating the life-cycle designed cost of a covered military construction project, shall include as a facility requirement the long-term consideration of energy security and energy resilience that would ensure that the resulting facility is capable of continuing to perform its missions, during the life of the facility, in the event of a natural or human-caused disaster, an attack, or any other unplanned event that would otherwise interfere with the ability of the facility to perform its missions.
+In General.—(1) The Secretary concerned, when evaluating the life-cycle designed cost of acovered military construction project, shall include as a facility requirement the long-term consideration of energy security and energy resilience that would ensure that the resulting facility is capable of continuing to perform its missions, during the life of the facility, in the event of a natural or human-caused disaster, an attack, or any other unplanned event that would otherwise interfere with the ability of the facility to perform its missions.
 
 (2) A facility requirement under paragraph (1) shall not be weighed, for cost purposes, against other facility requirements in determining the design of the facility.
 

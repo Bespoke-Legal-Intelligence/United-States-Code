@@ -6,9 +6,9 @@
 
 &emsp;(2) where the individual elects to construct a housing unit on land acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the total cost to the individual of the housing unit and the land necessary for such housing unit, or (B) 50 percent of the cost to the individual of the housing unit plus the full amount of the unpaid balance, if any, of the cost to the individual of the land necessary for such housing unit;
 
-&emsp;(3) where the individual elects to remodel a dwelling which is not adapted to the requirements of such individual's disability, acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the individual of such remodeling; or (B) 50 percent of the cost to the individual of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the individual of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the individual of such dwelling and the necessary land upon which it is situated; and
+&emsp;(3) where the individual elects to remodel a dwelling which is not adapted to the requirements of such individual's disability, acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the individual of such remodeling; or (B) 50 percentof the cost to the individual of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the individual of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the individual of such dwelling and the necessary land upon which it is situated; and
 
-&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to theindividual of such housing unit and the necessary land upon which it is situated.
+&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the individual of such housing unit and the necessary land upon which it is situated.
 
 (b) Except as provided in section 2104(b) of this title, the assistance authorized by section 2101(b) of this title shall be limited to the lesser of—
 
@@ -76,7 +76,7 @@
 
 (5) The Secretary shall waive recovery under this subsection of any overpayment to a person described in paragraph (2)(A), or a dependent or survivor of such person, that arises from administrative error described in paragraph (7)(A).
 
-(6) Nothing in this subsection shall be construed as precluding the imposition of any civil or criminal liability under this title or any other law.
+(6) Nothing in this subsection shall be construed as precluding the imposition of any civilor criminal liability under this title or any other law.
 
 (7) The Secretary shall prescribe in regulations what constitutes an overpayment for the purposes of this subsection, which, at a minimum, shall include—
 

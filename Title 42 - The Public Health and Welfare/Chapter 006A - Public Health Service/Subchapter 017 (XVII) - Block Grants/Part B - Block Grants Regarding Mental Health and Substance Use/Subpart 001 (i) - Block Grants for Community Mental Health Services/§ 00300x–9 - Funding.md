@@ -74,7 +74,7 @@ Section 300x–11, act July 1, 1944, ch. 373, title XIX, §1925, formerly §1920
 
 Section 300x–12, act July 1, 1944, ch. 373, title XIX, §1926, formerly §1920D, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3796; renumbered §1926 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (5), 102 Stat. 4203; Aug. 16, 1989, Pub. L. 101–93, §2(o)(2), 103 Stat. 609; Nov. 28, 1990, Pub. L. 101–639, §3(c), 104 Stat. 4602, related to enforcement of requirement of developing State comprehensive mental health services plans.
 
-Section 300x–13, act July 1, 1944, ch. 373, title XIX, §1927, formerly §1920E, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3797; renumbered §1927, Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), 102 Stat. 4203, related to development of model standards for provision of care to chronically mentally ill persons.
+Section 300x–13, act July 1, 1944, ch. 373, title XIX, §1927, formerly §1920E, as added Nov. 14, 1986, Pub. L.99–660, title V, §502(2), 100 Stat. 3797; renumbered §1927, Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), 102 Stat. 4203, related to development of model standards for provision of care to chronically mentally ill persons.
 
 #### Amendments
 

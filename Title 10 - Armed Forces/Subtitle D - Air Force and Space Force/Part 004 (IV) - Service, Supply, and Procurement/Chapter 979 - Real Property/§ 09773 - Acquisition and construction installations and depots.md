@@ -38,7 +38,7 @@
 
 (e) The Secretary may, by purchase, gift, lease, or otherwise, acquire at desired locations bombing and machine gun ranges necessary for practice by, and the training of, tactical units.
 
-(f) At each installation or depot established under this section, the Secretary shall removeor remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
+(f) At each installation or depot established under this section, the Secretary shall remove or remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
 
 (g) The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
 
@@ -82,7 +82,7 @@ Aug. 12, 1935, ch. 511, §§1–3, 49 Stat. 610.
 
 10:1343c (2d sentence).
 
-In subsection (a), the word "shall" is substituted for the words "is authorized and directed to". The words "Territories, Commonwealths," are substituted for the word "Alaska" to make it clear that the section covers all territory of the United States. The words "Air Force" are substituted for the words "General Headquarters Air Force and the Air Corps components of our overseas garrisons".
+In subsection (a), the word "shall" is substituted for the words "is authorized and directed to". The words "Territories, Commonwealths," are substituted for theword "Alaska" to make it clear that the section covers all territory of the United States. The words "Air Force" are substituted for the words "General Headquarters Air Force and the Air Corps components of our overseas garrisons".
 
 In subsection (b), the words "to provide", "to permit", "in addition", and "incident to the concentration of" are omitted as surplusage.
 
@@ -113,4 +113,48 @@ Subsec. (c)(3), (4). Pub. L. 116–283, §923(e)(17)(A)(iv)(II), inserted "or th
 Subsec. (f). Pub. L. 116–283, §923(e)(17)(A)(v), substituted "installation" for "air base".
 
 <b>2006</b>—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out "Territories," before "Commonwealths, possessions,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Plan and Requirements for Fielding Air Base Air Defense Sites at Air Force Installations
+
+Pub. L. 118–159, div. A, title I, §152, Dec. 23, 2024, 138 Stat. 1813, provided that:
+
+"(a)
+
+Plan Required.—The Secretary of the Air Force, in consultation with the Commander of the United States Northern Command, the Commander of United States European Command, and the Commander of United States Indo-Pacific Command, shall develop and implement a plan to support the fielding of air base air defense sites at Air Force installations and other priority sites identified by the Secretary.
+
+"(b)
+
+Air Base Air Defense Site Requirements.—Each air base air defense site fielded under the plan required under subsection (a) shall have the following capabilities:
+
+&emsp;"(1) Expeditionary mobile protection for dispersed air bases.
+
+&emsp;"(2) Fixed protection for primary air bases.
+
+&emsp;"(3) Ground-based protection systems that incorporate kinetic and non-kinetic capabilities.
+
+&emsp;"(4) Counter-unmanned aircraft systems.
+
+&emsp;"(5) Counter-fixed and Counter-rotary wing aircraft capabilities.
+
+&emsp;"(6) Counter-cruise missile capabilities.
+
+&emsp;"(7) Interoperability with joint command and control networks.
+
+&emsp;"(8) 360-degree active and passive sensors.
+
+&emsp;"(9) Systems and software that enable reduced staffing.
+
+"(c)
+
+Fielding Requirement.—Pursuant to the plan developed under subsection (a), the Secretary shall—
+
+&emsp;"(1) by not later than September 30, 2027, field a total of not fewer than four air base air defense sites, of which not fewer than two such sites shall be located in the United States; and
+
+&emsp;"(2) in each of fiscal years 2028 through 2031, field at least four air base air defense sites per year, of which not fewer than two of the sites fielded each year shall be located in the United States.
+
+"(d)
+
+Report.—Not later than March 1, 2025, the Secretary of the Air Force shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plan required under subsection (a)."
 

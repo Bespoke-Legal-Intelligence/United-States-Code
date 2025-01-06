@@ -6,7 +6,7 @@ The Secretary may make funds available to cooperators and grantees under this su
 
 #### (b) Coordination of cooperative aid and grants with other aid and grant authorities
 
-To avoid duplication, the Secretary shall coordinate cooperative aid and grants under thissubchapter with cooperative aid and grants the Secretary makes under any other authority.
+To avoid duplication, the Secretary shall coordinate cooperative aid and grants under this subchapter with cooperative aid and grants the Secretary makes under any other authority.
 
 #### (c) Dissemination of knowledge and technology developed from research activities; cooperation with specified entities
 
@@ -33,6 +33,8 @@ This subchapter shall be construed as supplementing all other laws relating to t
 For the purposes of this subchapter, the terms "United States" and "State" shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
 
 (Pub. L. 95–307, §6, June 30, 1978, 92 Stat. 355.)
+
+
 
 #### <b>Editorial Notes</b>
 

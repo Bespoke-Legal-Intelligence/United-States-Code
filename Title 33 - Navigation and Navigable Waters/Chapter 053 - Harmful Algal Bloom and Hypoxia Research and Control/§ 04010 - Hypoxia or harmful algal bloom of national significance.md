@@ -12,7 +12,7 @@
 
 #### (C) Donations
 
-&emsp;&emsp;Notwithstanding any other provision of law, an appropriate Federal official may accept donations of funds, services, facilities, materials, or equipment that the appropriate Federal official considers necessary for the purposes described in subparagraph (A). Any funds donated to an appropriate Federal official under this paragraph may be expended without further appropriation and without fiscal year limitation.
+&emsp;&emsp;Notwithstanding any other provision of law, an appropriate Federal official may accept donations of funds, services, facilities,materials, or equipment that the appropriate Federal official considers necessary for the purposes described in subparagraph (A). Any funds donated to an appropriate Federal official under this paragraph may be expended without further appropriation and without fiscal year limitation.
 
 #### (2) Determinations
 

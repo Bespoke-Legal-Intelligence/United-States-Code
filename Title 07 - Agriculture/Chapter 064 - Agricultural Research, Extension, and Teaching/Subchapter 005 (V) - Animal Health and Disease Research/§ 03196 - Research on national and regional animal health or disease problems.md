@@ -32,7 +32,7 @@ In the case of multiyear grants, the Secretary shall distribute funds to grant r
 
 #### (f) Applicability of chapter 10 of title 5
 
-Chapter 10 of title 5 and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+Chapter 10 of title 5 and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panelor board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
 (Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7108, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7119, 7120, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §§7119, 7120, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 117–286, §4(a)(37), Dec. 27, 2022, 136 Stat. 4309.)
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted "as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annuallyfor the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems".
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1430(a), substituted "as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems".
 
 Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 

@@ -88,7 +88,7 @@ The term of an obligation shall require full repayment over a period not to exce
 
 #### (C) Forbearance
 
-&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligation for the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
+&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligationfor the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
 
 #### (2) Subrogation
 
@@ -266,7 +266,7 @@ For each project selected for a guarantee under this subchapter, the Secretary s
 
 #### (2) Partnerships authorized
 
-&emsp;In carrying out a project receiving a loan guarantee under this subchapter, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
+&emsp;In carrying out a project receiving a loan guarantee under this subchapter, State energyfinancing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
 
 (Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877; Pub. L. 116–260, div. Z, title IX, §9010(a), Dec. 27, 2020, 134 Stat. 2603; Pub. L. 117–58, div. D, title IV, §40401(a)(1), (3), (c)(2), Nov. 15, 2021, 135 Stat. 1033, 1034, 1037; Pub. L. 117–169, title V, §§50141(f), 50144(d), Aug. 16, 2022, 136 Stat. 2044, 2045; Pub. L. 117–328, div. D, title III, §308, Dec. 29, 2022, 136 Stat. 4645.)
 

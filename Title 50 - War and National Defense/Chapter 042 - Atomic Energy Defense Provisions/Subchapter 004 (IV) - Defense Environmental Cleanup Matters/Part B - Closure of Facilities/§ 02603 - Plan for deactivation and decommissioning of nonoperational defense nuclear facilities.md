@@ -72,7 +72,7 @@ In this section:
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §3114(1), substituted "every four years beginning in 2025" for "during each even-numbered year beginning in 2016".
 
-Subsec. (c). Pub. L. 117–263, §3114(2), substituted "2025" for "2016", "2029" for "2019", and "determinesare nonoperational as of September 30, 2024." for "determines—
+Subsec. (c). Pub. L. 117–263, §3114(2), substituted "2025" for "2016", "2029" for "2019", and "determines are nonoperational as of September 30, 2024." for "determines—
 
 &emsp;"(1) are nonoperational as of September 30, 2015; and
 

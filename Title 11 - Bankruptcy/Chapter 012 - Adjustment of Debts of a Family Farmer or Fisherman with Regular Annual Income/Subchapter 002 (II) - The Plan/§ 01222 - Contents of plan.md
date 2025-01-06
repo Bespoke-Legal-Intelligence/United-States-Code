@@ -68,7 +68,7 @@ Subsec. (b)(11), (12). Pub. L. 109–8, §213(4), added par. (11) and redesignat
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–72, div. B, §1005(c), Oct. 26, 2017, 131 Stat. 1234, provided that: "The amendments made by thissection \[enacting section 1232 of this title and amending this section and sections 1228 and 1229 of this title\] shall apply to—
+Pub. L. 115–72, div. B, §1005(c), Oct. 26, 2017, 131 Stat. 1234, provided that: "The amendments made by this section \[enacting section 1232 of this title and amending this section and sections 1228 and 1229 of this title\] shall apply to—
 
 &emsp;"(1) any bankruptcy case—
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to a
 
 #### Effective Dates
 
-Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as aRepeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 

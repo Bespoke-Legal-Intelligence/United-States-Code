@@ -4,7 +4,7 @@ In fulfilling the responsibilities under section 3506(h) of title 44, the head o
 
 &emsp;(1) establish goals for improving the efficiency and effectiveness of agency operations and, as appropriate, the delivery of services to the public through the effective use of information technology;
 
-&emsp;(2) prepare an annual report, to be included in the executive agency's budget submissionto Congress, on the progress in achieving the goals;
+&emsp;(2) prepare an annual report, to be included in the executive agency's budget submission to Congress, on the progress in achieving the goals;
 
 &emsp;(3) ensure that performance measurements—
 

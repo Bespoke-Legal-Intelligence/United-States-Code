@@ -1,6 +1,6 @@
 ### §§176 to 181. Repealed. Aug. 1, 1956, ch. 807, 70 Stat. 774
 
-Act Aug. 1, 1956, repealed sections 176 to 181 effective upon the date which the President determined to be appropriate for the relinquishment of jurisdiction of the United States in Morocco. Jurisdiction of the UnitedStates in Morocco was relinquished by memorandum of President Eisenhower dated Sept. 15, 1956. Notice was given to Morocco on Oct. 6, 1956, and all pending cases were disposed of by 1960. See Bulletin of the State Department Vol. 35:909, page 844.
+Act Aug. 1, 1956, repealed sections 176 to 181 effective upon the date which the President determined to be appropriate for the relinquishment of jurisdiction of the United States in Morocco. Jurisdiction of the United States in Morocco was relinquished by memorandum of President Eisenhower dated Sept. 15, 1956. Notice was given to Morocco on Oct. 6, 1956, and all pending cases were disposed of by 1960. See Bulletin of the State Department Vol. 35:909, page 844.
 
 Section 176, R.S. §4128, related to the exercise of judicial duties by the Secretary of State in the absence of a minister.
 

@@ -82,7 +82,7 @@ To be eligible to receive a grant under this section, an eligible entity shall d
 
 #### (1) In general
 
-&emsp;An eligible entity or a subgrantee of an eligible entity that offers a restorative practices program with funds awarded under this section shall ensure that such program—
+&emsp;An eligible entity or a subgrantee of an eligible entity that offers a restorative practicesprogram with funds awarded under this section shall ensure that such program—
 
 &emsp;&emsp;(A) includes set practices and procedures for screening the suitability of any individual who committed a harm based on—
 
@@ -168,7 +168,7 @@ There are authorized to be appropriated to the Director such sums as may be nece
 
 #### Effective Date
 
-Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) ofdiv. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

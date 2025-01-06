@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (4) Early childhood educator
 
-&emsp;The term "early childhood educator" means an individual with primary responsibility for the education of children in an early childhood education program.
+&emsp;The term "early childhood educator" means an individual with primary responsibility forthe education of children in an early childhood education program.
 
 #### (5) Educational service agency
 
@@ -120,7 +120,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) In the case of—
 
-&emsp;&emsp;&emsp;&emsp;(I) an elementary school, the school serves students not less than 60 percent of whom are eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act; or
+&emsp;&emsp;&emsp;&emsp;(I) an elementary school, the school serves students not less than 60 percent of whom are eligible for a free or reducedprice school lunch under the Richard B. Russell National School Lunch Act; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any other school that is not an elementary school, the other school serves students not less than 45 percent of whom are eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act.
 
@@ -204,7 +204,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) whose graduates exhibit strong performance on State-determined qualifying assessments for new teachers through—
 
-&emsp;&emsp;&emsp;(i) demonstrating that 80 percent or more of the graduates of the program who intend to enter the field of teaching have passed all of the applicable State qualification assessments for new teachers, which shall include an assessment of each prospective teacher's subject matter knowledge in the content area in which the teacher intends to teach; or
+&emsp;&emsp;&emsp;(i) demonstrating that 80 percent or more of the graduates of the program who intend to enter the field of teaching have passed all of the applicable State qualification assessments for new teachers,which shall include an assessment of each prospective teacher's subject matter knowledge in the content area in which the teacher intends to teach; or
 
 &emsp;&emsp;&emsp;(ii) being ranked among the highest-performing teacher preparation programs in the State as determined by the State—
 
@@ -350,7 +350,7 @@ Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2015</b>—Par. (3). Pub. L. 114–95, §9215(oo)(2)(A), substituted "The term 'core academic subjects' meansEnglish, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography" for "The term 'core academic subjects' has the meaning given the term in section 7801 of this title".
+<b>2015</b>—Par. (3). Pub. L. 114–95, §9215(oo)(2)(A), substituted "The term 'core academic subjects' means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography" for "The term 'core academic subjects' has the meaning given the term in section 7801 of this title".
 
 Par. (5). Pub. L. 114–95, §9215(oo)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 

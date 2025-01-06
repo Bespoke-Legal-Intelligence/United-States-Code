@@ -2,7 +2,7 @@
 
 (a)
 
-Schedule of Fees.—The Administrator shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
+Schedule of Fees.—The Administrator of the Federal Aviation Administration shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
 
 &emsp;(1) Air traffic control and related services provided to aircraft other than military and civilian aircraft of the United States Government or of a foreign government that neither take off from, nor land in, the United States.
 
@@ -14,7 +14,7 @@ Establishment and Adjustment of Fees.—
 
 &emsp;(1)
 
-In general.—In establishing and adjusting fees under this section, the Administratorshall ensure that the fees are reasonably related to the Administration's costs, as determined by the Administrator, of providing the services rendered.
+In general.—In establishing and adjusting fees under this section, the Administrator shall ensure that the fees are reasonably related to the Administration's costs, as determined by the Administrator, of providing the services rendered.
 
 &emsp;(2)
 
@@ -50,15 +50,17 @@ Production-Certification Related Service Defined.—In this section, the term "p
 
 Adjustment of Fees.—In addition to adjustments under subsection (b), the Administrator may periodically adjust the fees established under this section.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19; Pub. L. 115–254, div. B, title V, §539(k), Oct. 5, 2018, 132 Stat. 3371.)
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19; Pub. L. 115–254, div. B, title V, §539(k), Oct. 5, 2018, 132 Stat. 3371; Pub. L. 118–63, title XI, §1101(r), May 16, 2024, 138 Stat. 1414.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
+A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug.23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–63 substituted "The Administrator of the Federal Aviation Administration shall establish" for "The Administrator shall establish" in introductory provisions.
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254 substituted "United States Government" for "United States government".
 
@@ -98,7 +100,7 @@ Applicability and effect of certain law.—Notwithstanding section 141(d)(1) of 
 
 &emsp;"(2)
 
-Adoption and legalization.—The interim final rule and final rule referred to in subsection (a), including the fees issued pursuant to those rules, are adopted, legalized, and confirmed as fully to all intents and purposes as if the same had, by prior Act ofCongress, been specifically adopted, authorized, and directed as of the date those rules were originally issued.
+Adoption and legalization.—The interim final rule and final rule referred to in subsection (a), including the fees issued pursuant to those rules, are adopted, legalized, and confirmed as fully to all intents and purposes as if the same had, by prior Act of Congress, been specifically adopted, authorized, and directed as of the date those rules were originally issued.
 
 &emsp;"(3)
 

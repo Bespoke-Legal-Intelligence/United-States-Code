@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The running of the period of limitations provided in section 6501 or 6502 on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+&emsp;The running of the period of limitations provided in section 6501 or 6502 on the making ofassessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (2) Corporation joining in consolidated income tax return
 
@@ -62,7 +62,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 #### (1) In general
 
-&emsp;If any designated summons is issued by the Secretary to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated industry case program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
+&emsp;If any designated summons is issued by the Secretary to a corporation (or to any otherperson to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated industry case program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
 
 &emsp;&emsp;(A) during any judicial enforcement period—
 
@@ -200,7 +200,7 @@ Subsec. (i). Pub. L. 96–589, §6(a), added subsec. (i) and redesignated former
 
 Pub. L. 96–596, §2(a)(4)(E), redesignated subsec. (j), relating to cross references, as (i). See Codification note set out above.
 
-Subsec. (j). Pub. L. 96–589, §6(a), (i)(11), redesignated former subsec. (i), relating to cross references, as (j), and in par. (2) of subsec. (j) as so redesignated, struck out reference to bankruptcy. See Codification note set out above.
+Subsec. (j). Pub. L. 96–589, §6(a), (i)(11), redesignated former subsec. (i), relating to cross references, as (j),and in par. (2) of subsec. (j) as so redesignated, struck out reference to bankruptcy. See Codification note set out above.
 
 Pub. L. 96–596, §2(a)(4)(E), redesignated former subsec. (j), relating to cross references, as (i). See Codification note set out above.
 
@@ -260,7 +260,7 @@ Pub. L. 116–25, title I, §1207(d), July 1, 2019, 133 Stat. 991, provided that
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec.31, 2017, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1235(d) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
 
-Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6213 of this title.
+Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity andFiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6213 of this title.
 
 #### Effective Date of 1984 Amendment
 

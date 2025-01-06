@@ -2,7 +2,7 @@
 
 #### (a) Use of Commodity Credit Corporation
 
-Except as otherwise provided in this chapter, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this chapter.
+Except as otherwise provided in this chapter, the Secretary shall use the funds, facilities, andauthorities of the Commodity Credit Corporation to carry out this chapter.
 
 #### (b) Determinations by Secretary
 

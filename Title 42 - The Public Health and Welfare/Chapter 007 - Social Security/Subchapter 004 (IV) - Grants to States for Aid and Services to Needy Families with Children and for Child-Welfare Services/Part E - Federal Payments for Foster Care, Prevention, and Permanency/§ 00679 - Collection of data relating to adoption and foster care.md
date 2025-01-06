@@ -2,7 +2,7 @@
 
 #### (a) Advisory Committee on Adoption and Foster Care Information
 
-(1) Not later than 90 days after October 21, 1986, the Secretary shall establish an Advisory Committee on Adoption and Foster Care Information (in this section referred to as the "Advisory Committee") to study the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
+(1) Not later than 90 days after October 21, 1986, the Secretary shall establish an AdvisoryCommittee on Adoption and Foster Care Information (in this section referred to as the "Advisory Committee") to study the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
 
 (2) The study required by paragraph (1) shall—
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior tothe expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

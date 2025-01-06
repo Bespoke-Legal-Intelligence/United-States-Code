@@ -26,7 +26,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 &emsp;&emsp;&emsp;(iii) examine the likely levels of children's, pregnant women's, and others' exposure to phthalates, based on a reasonable estimation of normal and foreseeable use and abuse of such products;
 
-&emsp;&emsp;&emsp;(iv) consider the cumulative effect of total exposure to phthalates, both from children's products and from other sources, such as personal care products;
+&emsp;&emsp;&emsp;(iv) consider the cumulative effect of total exposure to phthalates, both fromchildren's products and from other sources, such as personal care products;
 
 &emsp;&emsp;&emsp;(v) review all relevant data, including the most recent, best-available, peer-reviewed, scientific studies of these phthalates and phthalate alternatives that employ objective data collection practices or employ other objective methods;
 
@@ -82,7 +82,7 @@ A violation of subsection (a) or (b)(1) or any rule promulgated by the Commissio
 
 #### (f) Treatment as consumer product safety standards; effect on State laws
 
-Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall be considered consumer product safety standards under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\]. Nothing in this section or the Consumer Product Safety Act (15 U.S.C. 2051 et seq.) shall be construed to preempt or otherwise affect any State requirement with respect to any phthalate alternative not specifically regulated in a consumer product safety standard under the Consumer Product Safety Act.
+Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall be considered consumer product safety standards under theConsumer Product Safety Act \[15 U.S.C. 2051 et seq.\]. Nothing in this section or the Consumer Product Safety Act (15 U.S.C. 2051 et seq.) shall be construed to preempt or otherwise affect any State requirement with respect to any phthalate alternative not specifically regulated in a consumer product safety standard under the Consumer Product Safety Act.
 
 #### (g) Definitions
 
@@ -122,7 +122,7 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 #### References in Text
 
-August 12, 2011, referred to in subsec. (c), was in the original "the date of enactment of this Act", which wastranslated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
+August 12, 2011, referred to in subsec. (c), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
 
 The Consumer Product Safety Act, referred to in subsec. (f), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 

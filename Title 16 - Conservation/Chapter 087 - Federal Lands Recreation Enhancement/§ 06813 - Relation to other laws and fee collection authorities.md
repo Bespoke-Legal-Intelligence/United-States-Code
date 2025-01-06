@@ -6,7 +6,7 @@ Nothing in this chapter shall authorize Federal hunting or fishing licenses or f
 
 #### (b) Relation to revenue allocation laws
 
-Amounts collected under this chapter, and the existence of a fee management agreement with agovernmental entity under section 6805(a) of this title, may not be taken into account for the purposes of any of the following laws:
+Amounts collected under this chapter, and the existence of a fee management agreement with a governmental entity under section 6805(a) of this title, may not be taken into account for the purposes of any of the following laws:
 
 &emsp;(1) The sixth paragraph under the heading "
 
@@ -78,7 +78,7 @@ The Secure Rural Schools and Community Self-Determination Act of 2000, referred 
 
 The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§460l–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
 
-The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act tothe Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 Section 4(e) of the Southern Nevada Public Land Management Act of 1998, referred to in subsec. (b)(14), is section 4(e) of Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2345, which is not classified to the Code.
 

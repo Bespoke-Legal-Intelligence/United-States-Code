@@ -32,7 +32,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 (3)(A) Upon the assessment of a penalty pursuant to section 1375(a) of this title, all marine mammals and marine mammal products or other cargo seized in connection therewith may be proceeded against in any court of competent jurisdiction and forfeited to the Secretary for disposition by him in such manner as he deems appropriate.
 
-(B) Upon conviction for violation of section 1375(b) of this title, all marine mammals and marine mammal products seized in connection therewith shall be forfeited to the Secretary for disposition by him in such manner as he deems appropriate. Any other property or item so seized may, at the discretion of the court, be forfeited to the United States or otherwise disposed of.
+(B) Upon conviction for violation of section 1375(b) of this title, all marine mammals and marine mammal products seized in connection therewith shall be forfeited to the Secretary fordisposition by him in such manner as he deems appropriate. Any other property or item so seized may, at the discretion of the court, be forfeited to the United States or otherwise disposed of.
 
 (4) If with respect to any marine mammal or marine mammal product or other cargo so seized—
 

@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A) and January 1, 2019, for PAC providers described inclause (i) of such subsection, the Secretary shall require PAC providers to submit to the Secretary, under the applicable reporting provisions and through the use of PAC assessment instruments, the standardized patient assessment data described in subparagraph (B). The Secretary shall require such data be submitted with respect to admission and discharge of an individual (and may be submitted more frequently as the Secretary deems appropriate).
+&emsp;&emsp;Beginning not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A) and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall require PAC providers to submit to the Secretary, under the applicable reporting provisions and through the use of PAC assessment instruments, the standardized patient assessment data described in subparagraph (B). The Secretary shall require such data be submitted with respect to admission and discharge of an individual (and may be submitted more frequently as the Secretary deems appropriate).
 
 #### (B) Standardized patient assessment data described
 
@@ -282,7 +282,7 @@
 
 #### (i) Expedited procedures
 
-&emsp;&emsp;&emsp;For purposes of satisfying subparagraph (A), the Secretary may use expedited procedures, such as ad-hoc reviews, as necessary, in the case of a quality measurespecified under subsection (c) or a resource use or other measure specified in subsection (d) required with respect to data submissions under the applicable reporting provisions during the 1-year period before the specified application date applicable to such a measure and provider involved.
+&emsp;&emsp;&emsp;For purposes of satisfying subparagraph (A), the Secretary may use expedited procedures, such as ad-hoc reviews, as necessary, in the case of a quality measure specified under subsection (c) or a resource use or other measure specified in subsection (d) required with respect to data submissions under the applicable reporting provisions during the 1-year period before the specified application date applicable to such a measure and provider involved.
 
 #### (ii) Option to waive provisions
 
@@ -306,7 +306,7 @@
 
 #### (2) Opportunity to review
 
-&emsp;The procedures under paragraph (1) shall ensure, including through a process consistent with the process applied under section 1395ww(b)(3)(B)(viii)(VII) of this title for similar purposes, that a PAC provider has the opportunity to review and submit corrections to the data and information that is to be made public with respect to the provider prior to such data being made public.
+&emsp;The procedures under paragraph (1) shall ensure, including through a process consistent with the process applied under section 1395ww(b)(3)(B)(viii)(VII) of this title for similar purposes, that a PAC provider has the opportunity to review and submit corrections to the data and information that is to be madepublic with respect to the provider prior to such data being made public.
 
 #### (3) Timing
 
@@ -426,7 +426,7 @@ Report.—Not later than 5 years after the date of the enactment of this Act, th
 
 &emsp;"(C)
 
-Examination of data in conducting studies.—In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how suchdata sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
+Examination of data in conducting studies.—In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
 
 &emsp;"(D)
 
@@ -470,5 +470,5 @@ Funding.—There are hereby appropriated to the Secretary from the Federal Hospi
 
 "(3)
 
-Strategic plan for accessing race and ethnicity data.—Not later than 18 months after the date of the enactment of this Act \[Oct. 6, 2014\], the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures under subsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.)."
+Strategic plan for accessing race and ethnicity data.—Not later than 18 months after the dateof the enactment of this Act \[Oct. 6, 2014\], the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures under subsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.)."
 

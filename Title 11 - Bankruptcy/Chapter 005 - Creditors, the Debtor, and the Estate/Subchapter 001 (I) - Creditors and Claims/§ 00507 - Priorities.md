@@ -86,9 +86,9 @@
 
 (c) For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
 
-(d) An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
+(d) An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8) excluding subparagraph (F), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, §§350, 449, July 10, 1984, 98 Stat. 358, 374; Pub. L. 101–647, title XXV, §2522(d), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 103–394, title I, §108(c), title II, §207, title III, §304(c), title V, §501(b)(3), (d)(11), Oct. 22, 1994, 108 Stat. 4112, 4123, 4132, 4142, 4145; Pub. L. 109–8, title II, §§212, 223, title VII, §§705, 706, title XIV, §1401, title XV, §1502(a)(1), Apr. 20, 2005, 119 Stat. 51, 62, 126, 214, 216; Pub. L. 111–203, title XI, §1101(b), July 21, 2010, 124 Stat. 2115; Pub. L. 111–327, §2(a)(15), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–260, div. FF, title X, §1001(i), Dec. 27, 2020, 134 Stat. 3221.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, §§350, 449, July 10, 1984, 98 Stat. 358, 374; Pub. L. 101–647, title XXV, §2522(d), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 103–394, title I, §108(c), title II, §207, title III, §304(c), title V, §501(b)(3), (d)(11), Oct. 22, 1994, 108 Stat. 4112, 4123, 4132, 4142, 4145; Pub. L. 109–8, title II, §§212, 223, title VII, §§705, 706, title XIV, §1401, title XV, §1502(a)(1), Apr. 20, 2005, 119 Stat. 51, 62, 126, 214, 216; Pub. L. 111–203, title XI, §1101(b), July 21, 2010, 124 Stat. 2115; Pub. L. 111–327, §2(a)(15), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–260, div. FF, title X, §1001(i), Dec. 27, 2020, 134 Stat. 3221; Pub. L. 118–42, div. C, title V, §544(a), Mar. 9, 2024, 138 Stat. 178.)
 
 #### Historical and Revision Notes
 
@@ -116,7 +116,7 @@ Second. "Involuntary gap" claims: "Involuntary gap" creditors are granted second
 
 Third. Certain taxes on prepetition wages: Wage claims entitled to third priority are for compensation which does not exceed $2,000 and was earned during the 90 days before the filing of the bankruptcy petition or the cessation of the debtor's business. Certain employment taxes receive third priority in payment from the estate along with the payment of wages to which the taxes relate. In the case of wages earned before the filing of the petition, but paid by the trustee (rather than by the debtor) after the filing of the petition, claims or the employees' share of the employment taxes (withheld income taxes and the employees' share of the social security or railroad retirement tax) receive third priority to the extent the wage claims themselves are entitled to this priority.
 
-In the case of wages earned from and paid by the debtor before the filing of the petition, the employer'sshare of the employment taxes on these wages paid by the debtor receives sixth priority or, if not entitled to that priority, are treated only as general claims. Under the House amendment, the employer's share of employment taxes on wages earned by employees of the debtor, but paid by the trustee after the filing of the bankruptcy petition, will also receive sixth priority to the extent that claims for the wages receive third priority. To the extent the claims for wages do not receive third priority, but instead are treated only as general claims, claims for the employer's share of the employment taxes attributable to those wages will also be treated as general claims. In calculating the amounts payable as general wage claims, the trustee must pay the employer's share of employment taxes on such wages.
+In the case of wages earned from and paid by the debtor before the filing of the petition, the employer's share of the employment taxes on these wages paid by the debtor receives sixth priority or, if not entitled to that priority, are treated only as general claims. Under the House amendment, the employer's share of employment taxes on wages earned by employees of the debtor, but paid by the trustee after the filing of the bankruptcy petition, will also receive sixth priority to the extent that claims for the wages receive third priority. To the extent the claims for wages do not receive third priority, but instead are treated only as general claims, claims for the employer's share of the employment taxes attributable to those wages will also be treated as general claims. In calculating the amounts payable as general wage claims, the trustee must pay the employer's share of employment taxes on such wages.
 
 Sixth priority. The House amendment modifies the provisions of both the House bill and Senate amendment in the case of sixth priority taxes. Under the amendment, the following Federal, State and local taxes are included in the sixth priority:
 
@@ -142,7 +142,7 @@ This category also includes the liability under section 3505 of the Internal Rev
 
 Sixth. The employer's share of employment taxes on wages paid before the petition and on third-priority wages paid postpetition by the estate. The priority rules under the House amendment governing employment taxes can thus be summarized as follows: Claims for the employees' shares of employment taxes attributable to wages both earned and paid before the filing of the petition are to receive sixth priority. In the case of employee wages earned, but not paid, before the filing of the bankruptcy petition, claims for the employees' share of employment taxes receive third priority to the extent the wages themselves receive third priority. Claims which relate to wages earned before the petition, but not paid before the petition (and which are not entitled to the third priority under the rule set out above), will be paid as general claims. Since the related wages will receive no priority, the related employment taxes would also be paid as nonpriority general claims.
 
-The employer's share of the employment taxes on wages earned and paid before the bankruptcy petition will receive sixth priority to the extent the return for these taxes was last due (including extensions of time) within 3 years before the filing of the petition, or was due after the petition was filed. Older tax claims of this nature will be payable as general claims. In the case of wages earned by employees before the petition, but actually paid by the trustee (as claims against the estate) after the title 11 case commenced, the employer's share of the employment taxes on third priority wages will be payable as sixth priority claims and the employer's taxes on prepetition wages which are treated only as general claims will be payable only as general claims. In calculating the amounts payable as general wage claims, the trustee must pay the employer's share of employment taxes on such wages. The House amendment thus deletes the provision of the Senate amendment that certain employer taxes receive third priority and are to be paid immediately after payment of third priority wages and the employees' shares of employment taxes on those wages.
+The employer's share of the employment taxes on wages earned and paid before the bankruptcy petition will receive sixth priority to the extent the return forthese taxes was last due (including extensions of time) within 3 years before the filing of the petition, or was due after the petition was filed. Older tax claims of this nature will be payable as general claims. In the case of wages earned by employees before the petition, but actually paid by the trustee (as claims against the estate) after the title 11 case commenced, the employer's share of the employment taxes on third priority wages will be payable as sixth priority claims and the employer's taxes on prepetition wages which are treated only as general claims will be payable only as general claims. In calculating the amounts payable as general wage claims, the trustee must pay the employer's share of employment taxes on such wages. The House amendment thus deletes the provision of the Senate amendment that certain employer taxes receive third priority and are to be paid immediately after payment of third priority wages and the employees' shares of employment taxes on those wages.
 
 In the case of employment taxes relating to wages earned and paid after the petition, both the employees' shares and the employer's share will receive first priority as administration expenses of the estate.
 
@@ -170,7 +170,7 @@ Paragraph (3) expands and increases the wage priority found in current section 6
 
 The employer's share, the employment tax and the employer's share of the social security or railroad retirement tax on third priority compensation, is also included in the third priority category, but only if, and to the extent that the wages and related trust fund taxes have first been paid in full. Because of the claimants urgent need for their wages in the typical cases, the employer's taxes should not be paid before the wage claims entitled to priority, as well as the related trust fund taxes, are fully paid.
 
-Paragraph (4) overrules <i>United States v. Embassy Restaurant</i>, 359 U.S. 29 (1958), which held that fringe benefits were not entitled to wage priority status. The bill recognizes the realities of labor contract negotiations, where fringe benefits may be substituted for wage demands. The priority granted is limited to claims for contributions to employee benefit plans such as pension plans, health or life insurance plans, and others, arising from services rendered within 120 days before the commencement of the case or the date of cessation of the debtor's business, whichever occurs first. The dollar limit placed on the total of all contributions payable under this paragraph is equal to the differencebetween the maximum allowable priority under paragraph (3), $1,800, times the number of employees covered by the plan less the actual distributions under paragraph (3) with respect to these employees.
+Paragraph (4) overrules <i>United States v. Embassy Restaurant</i>, 359 U.S. 29 (1958), which held that fringe benefits were not entitled to wage priority status. The bill recognizes the realities of labor contract negotiations, where fringe benefits may be substituted for wage demands. The priority granted is limited to claims for contributions to employee benefit plans such as pension plans, health or life insurance plans, and others, arising from services rendered within 120 days before the commencement of the case or the date of cessation of the debtor's business, whichever occurs first. The dollar limit placed on the total of all contributions payable under this paragraph is equal to the difference between the maximum allowable priority under paragraph (3), $1,800, times the number of employees covered by the plan less the actual distributions under paragraph (3) with respect to these employees.
 
 Paragraph (5) is a new priority for consumer creditors—those who have deposited money in connection with the purchase, lease, or rental of property, or the purchase of services, for their personal, family, or household use, that were not delivered or provided. The priority amount is not to exceed $600. In order to reach only those persons most deserving of this special priority, it is limited to individuals whose adjustable gross income from all sources derived does not exceed $20,000. See Senate Hearings, testimony of Prof. Vern Countryman, at pp. 848–849. The income of the husband and wife should be aggregated for the purposes of the $20,000 limit if either or both spouses assert such a priority claim.
 
@@ -194,7 +194,7 @@ The priority rules under the bill governing employment taxes can be summarized a
 
 Also covered by this sixth priority are property taxes required to be assessed within 3 years before the filing of the petition (§507(a)(6)(E)).
 
-Taxes attributable to a tentative carryback adjustment received by the debtor before the petition was filed, such as a "quickie refund" received under section6411 of the Internal Revenue Code \[title 26\] (§507(a)(6)(F)) are included. However, the tax claim against the debtor will rein a prepetition loss year for which the tax return was last due, including extensions, within 3 years before the petition was filed.
+Taxes attributable to a tentative carryback adjustment received by the debtor before the petition was filed, such as a "quickie refund" received under section 6411 of the Internal Revenue Code \[title 26\] (§507(a)(6)(F)) are included. However, the tax claim against the debtor will rein a prepetition loss year for which the tax return was last due, including extensions, within 3 years before the petition was filed.
 
 Taxes resulting from a recapture, occasioned by a transfer during bankruptcy, of a tax credit or deduction taken during an earlier tax year (§507(a)(6)(G)) are included. A typical example occurs when there is a sale by the trustee of depreciable property during the case and depreciation deductions taken in prepetition years are subject to recapture under section 1250 of the Code \[title 26\].
 
@@ -219,6 +219,8 @@ Subsection (b) also provides that a claim arising from an erroneous refund or cr
 Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is classified to section 343(3) of Title 12, Banks and Banking.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d). Pub. L. 118–42 inserted "excluding subparagraph (F)" after "(a)(8)".
 
 <b>2020</b>—Subsec. (d). Pub. L. 116–260, §1001(i)(2), inserted ", (a)(8)" after "(a)(7)" and struck out "or subparagraphs (A) through (E) and (G) of subsection (a)(8)" after "(a)(9)" and "or subparagraph" after "such subsection".
 
@@ -246,7 +248,7 @@ Subsec. (a)(5)(B)(ii). Pub. L. 109–8, §1502(a)(1)(A)(i), substituted "paragra
 
 Subsec. (a)(6). Pub. L. 109–8, §212(2), (7), redesignated par. (5) as (6) and substituted "Sixth" for "Fifth" in introductory provisions. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 109–8, §212(1), (2), (8), redesignated par. (6) as (7), substituted "Seventh" for "Sixth", and struck out former par. (7) which read as follows: "Seventh, allowed claims for debts to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
+Subsec. (a)(7). Pub. L. 109–8, §212(1), (2), (8), redesignated par. (6) as (7), substituted "Seventh" for "Sixth", and struck out former par. (7) which read as follows: "Seventh, allowed claims for debts to a spouse, formerspouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
 
 &emsp;"(A) is assigned to another entity, voluntarily, by operation of law, or otherwise; or
 
@@ -308,6 +310,14 @@ Subsec. (c). Pub. L. 98–353, §449(b), substituted "has the same priority" for
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–42, div. C, title V, §544(b), Mar. 9, 2024, 138 Stat. 178, provided that:
+
+"(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 9, 2024\].
+
+"(2) The amendment made by subsection (a) shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. FF, title X, §1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that the amendment made by section 1001(i)(2) is effective on the date that is 1 year after Dec. 27, 2020.
@@ -340,7 +350,7 @@ Amendment by sections 212, 223, 705, 706, and 1502(a)(1) of Pub. L. 109–8 effe
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -352,7 +362,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(4), dollar amount "13,650" wasadjusted to "15,150"; in subsec. (a)(5)(B)(i), dollar amount "13,650" was adjusted to "15,150"; in subsec. (a)(6), dollar amount "6,725" was adjusted to "7,475"; and, in subsec. (a)(7), dollar amount "3,025" was adjusted to "3,350". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(4), dollar amount "13,650" was adjusted to "15,150"; in subsec. (a)(5)(B)(i), dollar amount "13,650" was adjusted to "15,150"; in subsec. (a)(6), dollar amount "6,725" was adjusted to "7,475"; and, in subsec. (a)(7), dollar amount "3,025" was adjusted to "3,350". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount "12,850" was adjusted to "13,650"; in subsec. (a)(5)(B)(i), dollar amount "12,850" was adjusted to "13,650"; in subsec. (a)(6)(B) \[sic\], dollar amount "6,325" was adjusted to "6,725"; and, in subsec. (a)(7), dollar amount "2,850" was adjusted to "3,025".
 

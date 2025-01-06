@@ -226,7 +226,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §501(8), (9); added Dec. 22, 197
 
 In this chapter, the word "model" is substituted for "model type" for consistency in this part.
 
-In subsection (a)(3), before clause (A), the words "except as provided in section 32908 of this title" are added for clarity. The word "line" is added for consistency in the revised title and with other titles of the United States Code. The words "or rails" are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001 (related to 15:2011) is omitted because 15:2011 is outsidethe scope of the restatement. See section 4(c) of the bill.
+In subsection (a)(3), before clause (A), the words "except as provided in section 32908 of this title" are added for clarity. The word "line" is added for consistency in the revised title and with other titles of the United States Code. The words "or rails" are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001 (related to 15:2011) is omitted because 15:2011 is outside the scope of the restatement. See section 4(c) of the bill.
 
 In subsection (a)(4), the words " 'automobile manufactured by a manufacturer' includes" are substituted for "Any reference in this subchapter to automobiles manufactured by a manufacturer shall be deemed—(1) to include" to eliminate unnecessary words. The word "every" is substituted for "all" because of the restatement. The words "but does not include" are substituted for "to exclude" for consistency. The words "manufactured by the person" are substituted for "manufactured (within the meaning of paragraph (1))" to eliminate unnecessary words.
 
@@ -420,7 +420,7 @@ Regulations.—Notwithstanding the requirements of section 553 of title 5, Unite
 
 &emsp;"(2) establish procedures for the reimbursement of dealers participating in the Program to be made through electronic transfer of funds for the amount of the vouchers as soon as practicable but no longer than 10 days after the submission of information supporting the eligible transaction, as deemed appropriate by the Secretary;
 
-&emsp;"(3) require the dealer to use the voucher in addition to any other rebate or discount advertised by the dealer or offered by the manufacturer for the new fuel efficient automobile and prohibit the dealer fromusing the voucher to offset any such other rebate or discount;
+&emsp;"(3) require the dealer to use the voucher in addition to any other rebate or discount advertised by the dealer or offered by the manufacturer for the new fuel efficient automobile and prohibit the dealer from using the voucher to offset any such other rebate or discount;
 
 &emsp;"(4) require dealers to disclose to the person trading in an eligible trade-in vehicle the best estimate of the scrappage value of such vehicle and to permit the dealer to retain $50 of any amounts paid to the dealer for scrappage of the automobile as payment for any administrative costs to the dealer associated with participation in the Program;
 
@@ -504,7 +504,7 @@ For purposes of taxation.—A voucher issued under the program or any payment ma
 
 Definitions.—As used in this section—
 
-&emsp;"(1) the term 'passenger automobile' means a passenger automobile, as defined in section 32901(a)(18) of title 49, United States Code, that has a combined fuel economy value of at least 22 miles per gallon;
+&emsp;"(1) the term 'passenger automobile' means a passenger automobile, as defined in section 32901(a)(18) oftitle 49, United States Code, that has a combined fuel economy value of at least 22 miles per gallon;
 
 &emsp;"(2) the term 'category 1 truck' means a nonpassenger automobile, as defined in section 32901(a)(17) of title 49, United States Code, that has a combined fuel economy value of at least 18 miles per gallon, except that such term does not include a category 2 truck;
 
@@ -514,7 +514,7 @@ Definitions.—As used in this section—
 
 &emsp;"(5) the term 'combined fuel economy value' means—
 
-&emsp;&emsp;"(A) with respect to a new fuel efficient automobile, the number, expressed in miles per gallon, centered below the words 'Combined Fuel Economy'on the label required to be affixed or caused to be affixed on a new automobile pursuant to subpart D of part 600 of title 40, Code of Federal Regulations;
+&emsp;&emsp;"(A) with respect to a new fuel efficient automobile, the number, expressed in miles per gallon, centered below the words 'Combined Fuel Economy' on the label required to be affixed or caused to be affixed on a new automobile pursuant to subpart D of part 600 of title 40, Code of Federal Regulations;
 
 &emsp;&emsp;"(B) with respect to an eligible trade-in vehicle, the equivalent of the number described in subparagraph (A), and posted under the words 'Estimated New EPA MPG' and above the word 'Combined' for vehicles of model year 1984 through 2007, or posted under the words 'New EPA MPG' and above the word 'Combined' for vehicles of model year 2008 or later on the fueleconomy.gov website of the Environmental Protection Agency for the make, model, and year of such vehicle; or
 

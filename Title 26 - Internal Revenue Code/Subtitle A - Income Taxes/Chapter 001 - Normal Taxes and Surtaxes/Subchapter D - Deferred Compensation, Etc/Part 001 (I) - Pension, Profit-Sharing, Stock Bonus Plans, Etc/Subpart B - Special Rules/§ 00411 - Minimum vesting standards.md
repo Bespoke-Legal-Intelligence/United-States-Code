@@ -68,7 +68,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) Suspension of benefits upon reemployment of retiree
 
-&emsp;&emsp;A right to an accrued benefit derived from employer contributions shall not be treatedas forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—
+&emsp;&emsp;A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—
 
 &emsp;&emsp;&emsp;(i) in the case of a plan other than a multi-employer plan, by the employer who maintains the plan under which such benefits were being paid; and
 
@@ -84,7 +84,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
 
-&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accruedbenefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
 &emsp;&emsp;&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant before September 2, 1974 if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
@@ -110,7 +110,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (4) Service included in determination of nonforfeitable percentage
 
-&emsp;In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), allof an employee's years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
+&emsp;In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), all of an employee's years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
 
 &emsp;&emsp;(A) years of service before age 18;
 
@@ -138,7 +138,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) General rule
 
-&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (C), the term "year of service" means a calendar year, plan year, or other 12-consecutive month period designated by the plan (and not prohibited under regulations prescribed by the Secretary of Labor) during which the participant has completed 1,000 hours of service.
+&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (C), the term"year of service" means a calendar year, plan year, or other 12-consecutive month period designated by the plan (and not prohibited under regulations prescribed by the Secretary of Labor) during which the participant has completed 1,000 hours of service.
 
 #### (B) Hours of service
 
@@ -264,7 +264,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (D) Accrued benefit attributable to employee contributions
 
-&emsp;&emsp;The accrued benefit of an employee shall not be less than the amount determinedunder subsection (c)(2)(B) with respect to the employee's accumulated contributions.
+&emsp;&emsp;The accrued benefit of an employee shall not be less than the amount determined under subsection (c)(2)(B) with respect to the employee's accumulated contributions.
 
 #### (8) Normal retirement age
 
@@ -394,7 +394,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (F) Certain insured defined benefit plans
 
-&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), a defined benefit plan satisfies therequirements of this paragraph if such plan—
+&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), a defined benefit plan satisfies the requirements of this paragraph if such plan—
 
 &emsp;&emsp;&emsp;(i) is funded exclusively by the purchase of insurance contracts, and
 
@@ -520,7 +520,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (ii) Special rule for plan conversions
 
-&emsp;&emsp;&emsp;If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall betreated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
+&emsp;&emsp;&emsp;If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
 
 #### (iii) Rate of benefit accrual
 
@@ -668,7 +668,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (5) Treatment of voluntary employee contributions
 
-&emsp;In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
+&emsp;In the case of a defined benefit plan which permits voluntary employee contributions,the portion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
 
 #### (6) Accrued benefit not to be decreased by amendment
 
@@ -948,7 +948,7 @@ Subsec. (b)(1). Pub. L. 99–509, §9202(b)(1), substituted "Defined benefit pla
 
 Subsec. (b)(2) to (4). Pub. L. 99–509, §9202(b)(2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (d)(1)(A), (B). Pub. L. 99–514, §1114(b)(10), substituted "highly compensated employees (within themeaning of section 414(q))" for "officers, shareholders, or highly compensated".
+Subsec. (d)(1)(A), (B). Pub. L. 99–514, §1114(b)(10), substituted "highly compensated employees (within the meaning of section 414(q))" for "officers, shareholders, or highly compensated".
 
 Subsec. (d)(4). Pub. L. 99–514, §1113(b), repealed par. (4) which provided that a class year plan satisfied the requirements of subsec. (a)(2) if it provided that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year were nonforfeitable not later than the end of the 5th plan year following the plan year for which such contributions were made.
 
@@ -1164,7 +1164,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 7861(a)(5)(A), (6)(A) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
 
-Pub. L. 101–239, title VII, §7871(a)(4), Dec. 19, 1989, 103 Stat. 2435, provided that: "The amendments made by this subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
+Pub. L. 101–239, title VII, §7871(a)(4), Dec. 19, 1989, 103 Stat. 2435, provided that: "The amendments made bythis subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
 
 Pub. L. 101–239, title VII, §7871(b)(3), Dec. 19, 1989, 103 Stat. 2435, provided that: "The amendments made by this subsection \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
 
@@ -1228,7 +1228,7 @@ Reduction in accrued benefits.—
 
 In general.—If a plan—
 
-&emsp;&emsp;"(i) adopts a plan amendment before the close of the first plan year beginning on or after January 1, 1989, which provides for the calculation of the present value of the accrued benefits in the mannerprovided by the amendments made by this section, and
+&emsp;&emsp;"(i) adopts a plan amendment before the close of the first plan year beginning on or after January 1, 1989, which provides for the calculation of the present value of the accrued benefits in the manner provided by the amendments made by this section, and
 
 &emsp;&emsp;"(ii) the plan reduces the accrued benefits for any plan year to which such plan amendment applies in accordance with such plan amendment,
 
@@ -1250,7 +1250,7 @@ Pub. L. 99–514, title XVIII, §1898(a)(1)(C), Oct. 22, 1986, 100 Stat. 2942, p
 
 Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-Amendment by section 9202(b) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, and amendment by section 9203(b)(2) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204(a), (b) of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of Title 29, Labor.
+Amendment by section 9202(b) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, and amendment by section 9203(b)(2) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204(a), (b) of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of Title 29, Labor.
 
 #### Effective Date of 1984 Amendment
 
@@ -1302,7 +1302,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 #### Construction of 2006 Amendment
 
-Pub. L. 109–280, title VII, §701(d), Aug. 17, 2006, 120 Stat. 991, as amended by Pub. L. 110–458, title I,§107(c)(1), Dec. 23, 2008, 122 Stat. 5107, provided that: "Nothing in the amendments made by this section \[amending this section and sections 623, 1053, and 1054 of Title 29, Labor\] shall be construed to create an inference with respect to—
+Pub. L. 109–280, title VII, §701(d), Aug. 17, 2006, 120 Stat. 991, as amended by Pub. L. 110–458, title I, §107(c)(1), Dec. 23, 2008, 122 Stat. 5107, provided that: "Nothing in the amendments made by this section \[amending this section and sections 623, 1053, and 1054 of Title 29, Labor\] shall be construed to create an inference with respect to—
 
 &emsp;"(1) the treatment of applicable defined benefit plans or conversions to applicable defined benefit plans under sections 204(b)(1)(H) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(b)(1)(H)\], 4(i)(1) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(i)(1)\], and 411(b)(1)(H) of the Internal Revenue Code of 1986, as in effect before such amendments, or
 
@@ -1316,7 +1316,7 @@ Pub. L. 116–260, div. EE, title II, §209, Dec. 27, 2020, 134 Stat. 3066, prov
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Provisions Relating to Plan Amendments
 
@@ -1404,7 +1404,7 @@ Amendments to Which Section Applies.—
 
 In general.—This section shall apply to any amendment to any plan or annuity contract which is made—
 
-&emsp;&emsp;"(A) pursuant to any amendment made by this title \[enacting sections 9811 and 9812 of this title, amending sections 101, 401 to 404, 408, 409, 410, 412, 414, 415, 512, 664, 674, 2055, 2056, 4947, 4972, 4975, 4978, 4979A, 4980D, 9801, 9802, and 9831 of this title, sections 1021, 1022, 1024, 1026 to 1028, 1056, 1082, 1107,1108, and 1132 of Title 29, Labor, and section 1320b–14 of Title 42, The Public Health and Welfare, renumbering sections 9804 to 9806 of this title as sections 9831 to 9833, respectively, of this title, and amending provisions set out as a note under section 412 of this title\] or subtitle H of title X \[§§1071–1075, amending this section, sections 72, 132, 417, 457, 691, 2013, 2053, 4975, and 6018 of this title, and sections 1053 to 1055 of Title 29 and repealing section 4980A of this title\], and
+&emsp;&emsp;"(A) pursuant to any amendment made by this title \[enacting sections 9811 and 9812 of this title, amending sections 101, 401 to 404, 408, 409, 410, 412, 414, 415, 512, 664, 674, 2055, 2056, 4947, 4972, 4975, 4978, 4979A, 4980D, 9801, 9802, and 9831 of this title, sections 1021, 1022, 1024, 1026 to 1028, 1056, 1082, 1107, 1108, and 1132 of Title 29, Labor, and section 1320b–14 of Title 42, The Public Health and Welfare, renumbering sections 9804 to 9806 of this title as sections 9831 to 9833, respectively, of this title, and amending provisions set out as a note under section 412 of this title\] or subtitle H of title X \[§§1071–1075, amending this section, sections 72, 132, 417, 457, 691, 2013, 2053, 4975, and 6018 of this title, and sections 1053 to 1055 of Title 29 and repealing section 4980A of this title\], and
 
 &emsp;&emsp;"(B) before the first day of the first plan year beginning on or after January 1, 1999.
 
@@ -1432,7 +1432,7 @@ Pub. L. 104–188, title I, §1449(d), Aug. 20, 1996, 110 Stat. 1814, provided t
 
 &emsp;"(2) within 1 year after the date of the enactment of this Act \[Aug. 20, 1996\], a plan amendment is adopted which repeals the amendment referred to in paragraph (1),
 
-> the amendment referred to in paragraph (1) shall not be taken into account in applying section 767(d)(3)(A) of the Uruguay Round Agreements Act, as amended by subsection (a)."
+> the amendment referred to in paragraph (1) shall not be taken into account in applying section 767(d)(3)(A) ofthe Uruguay Round Agreements Act, as amended by subsection (a)."
 
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefits
 

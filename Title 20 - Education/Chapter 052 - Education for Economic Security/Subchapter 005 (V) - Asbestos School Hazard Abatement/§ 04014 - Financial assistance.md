@@ -174,5 +174,5 @@ Subsec. (g)(4)(B)(ii). Pub. L. 100–368, §6(b)(2), substituted "section 2646(d
 
 #### Financial Assistance To Carry Out Inspections for Asbestos-Containing Material
 
-Pub. L. 99–519, §4(b), Oct. 22, 1986, 100 Stat. 2989, provided that, notwithstanding subsec. (c) of this section, for fiscal years 1988 and 1989 the Administrator would provide financial assistance under this section in the form of grants to States or local educational agencies to carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
+Pub. L. 99–519, §4(b), Oct. 22, 1986, 100 Stat. 2989, provided that, notwithstanding subsec. (c) of this section, for fiscal years 1988 and 1989 the Administrator would provide financial assistance under this section in the form of grants to States or local educational agenciesto carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
 

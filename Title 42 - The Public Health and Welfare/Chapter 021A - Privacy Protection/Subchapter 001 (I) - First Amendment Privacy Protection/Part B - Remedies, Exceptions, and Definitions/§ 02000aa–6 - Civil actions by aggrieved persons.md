@@ -10,7 +10,7 @@ A person aggrieved by a search for or seizure of materials in violation of this 
 
 #### (b) Good faith defense
 
-It shall be a complete defense to a civil action brought under paragraph (2) of subsection (a) that the officer or employee had a reasonable good faith belief in the lawfulness of his conduct.
+It shall be a complete defense to a civil action brought under paragraph (2) of subsection (a) that the officer or employee had a reasonablegood faith belief in the lawfulness of his conduct.
 
 #### (c) Official immunity
 

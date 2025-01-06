@@ -10,7 +10,7 @@ In general.—The Secretary of Transportation shall issue a determination as to 
 
 &emsp;&emsp;(A) a written request for such determination is filed with the Secretary by such owner or operator; or
 
-&emsp;&emsp;(B) a written complaint requesting such determination is filed with the Secretary byan affected air carrier or foreign air carrier within 60 days after such carrier receives written notice of the establishment or increase of such fee.
+&emsp;&emsp;(B) a written complaint requesting such determination is filed with the Secretary by an affected air carrier or foreign air carrier within 60 days after such carrier receives written notice of the establishment or increase of such fee.
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ In general.—Any fee increase or newly established fee which is the subject of 
 
 &emsp;&emsp;(B)
 
-Referral or credit.—Any amounts paid under this subsection by a complainant air carrier or foreign air carrier to the airport under protest shall be subject to refund or credit to the air carrier or foreign air carrier in accordance with directions in the final order of the Secretary within 30 days of such order.
+Referral or credit.—Any amounts paid under this subsection by a complainant air carrier or foreign air carrier to the airport under protest shall be subject to refundor credit to the air carrier or foreign air carrier in accordance with directions in the final order of the Secretary within 30 days of such order.
 
 &emsp;&emsp;(C)
 
@@ -114,7 +114,7 @@ These set out the date of enactment of 49:47129.
 
 #### Prior Provisions
 
-A prior section 47129 was renumbered section 47131 of this title.
+A prior section 47129 was renumbered section 47131 of this title and was subsequently repealed.
 
 #### Amendments
 

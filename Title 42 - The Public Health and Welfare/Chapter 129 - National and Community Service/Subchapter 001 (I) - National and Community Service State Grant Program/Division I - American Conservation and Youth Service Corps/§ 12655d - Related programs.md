@@ -2,7 +2,7 @@
 
 An activity administered under the authority of the Secretary of Health and Human Services, that is operated for the same purpose as a program eligible to be carried out under this division, is encouraged to use services available under this division.
 
-(Pub. L. 101–610, title I, §199E, formerly §125, Nov. 16, 1990, 104 Stat. 3144; renumbered §199E,Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788.)
+(Pub. L. 101–610, title I, §199E, formerly §125, Nov. 16, 1990, 104 Stat. 3144; renumbered §199E, Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788.)
 
 #### <b>Editorial Notes</b>
 

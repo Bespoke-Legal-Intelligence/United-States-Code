@@ -2,7 +2,7 @@
 
 #### (a) Form, content, and assurances
 
-An application for a grant for a demonstration project for services under this subchapter shall be in such form and contain such information as the Secretary may require, and shall include—
+An application for a grant for a demonstration project for services under this subchapter shallbe in such form and contain such information as the Secretary may require, and shall include—
 
 &emsp;(1) an identification of the incidence of adolescent pregnancy and related problems;
 
@@ -50,7 +50,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;&emsp;(iii) to seek such reimbursement on the basis of the full amount of fees for services without application of any discount; and
 
-&emsp;(C) assurances that the applicant has submitted or will submit to the Secretary such reports as the Secretary may require to determine compliance with this paragraph;
+&emsp;(C) assurances that the applicant has submitted or will submit to the Secretary suchreports as the Secretary may require to determine compliance with this paragraph;
 
 &emsp;(17) assurances that the applicant will make maximum use of funds available under subchapter VIII of this chapter;
 
@@ -90,7 +90,7 @@ An application for a grant for a demonstration project for services under this s
 
 #### (b) Evaluations: amount, conduct, and technical assistance
 
-(1) Each grantee which receives funds for a demonstration project for services under thissubchapter shall expend at least 1 per centum but not in excess of 5 per centum of the amounts received under this subchapter for the conduct of evaluations of the services supported under this subchapter. The Secretary may, for a particular grantee upon good cause shown, waive the provisions of the preceding sentence with respect to the amounts to be expended on evaluations, but may not waive the requirement that such evaluations be conducted.
+(1) Each grantee which receives funds for a demonstration project for services under this subchapter shall expend at least 1 per centum but not in excess of 5 per centum of the amounts received under this subchapter for the conduct of evaluations of the services supported under this subchapter. The Secretary may, for a particular grantee upon good cause shown, waive the provisions of the preceding sentence with respect to the amounts to be expended on evaluations, but may not waive the requirement that such evaluations be conducted.
 
 (2) Evaluations required by paragraph (1) shall be conducted by an organization or entity which is independent of the grantee providing services supported under this subchapter. To assist in conducting the evaluations required by paragraph (1), each grantee shall develop a working relationship with a college or university located in the grantee's State which will provide or assist in providing monitoring and evaluation of services supported under this subchapter unless no college or university in the grantee's State is willing or has the capacity to provide or assist in providing such monitoring and assistance.
 

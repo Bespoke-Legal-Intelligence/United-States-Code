@@ -50,7 +50,7 @@
 
 &emsp;(iv) providing training (including graduate, pre-service, and in-service training) for independent living and rehabilitation research personnel and other independent living and rehabilitation personnel;
 
-&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications forpractice and identifies potential new areas of research; and
+&emsp;(v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications for practice and identifies potential new areas of research; and
 
 &emsp;(vi) developing practical applications for the research findings of the Centers.
 
@@ -354,7 +354,7 @@ Subsec. (b)(2)(B)(iv). Pub. L. 113–128, §435(2)(B)(ii)(V), inserted "independ
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read asfollows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
+Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read as follows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iv) as (v).
 
@@ -408,7 +408,7 @@ Subsec. (b)(10). Pub. L. 113–128, §435(2)(G), redesignated par. (12) as (10).
 
 Subsec. (b)(11). Pub. L. 113–128, §435(2)(H)(i), substituted "employment needs, opportunities, and outcomes (including those relating to self-employment, supported employment, and telecommuting) of individuals with disabilities, including" for "employment needs of individuals with disabilities, including" in introductory provisions.
 
-Pub. L. 113–128, §435(2)(F), (G), redesignated par. (13) as (11) and struck out former par. (11) which read as follows: "Research grants may be used to conduct a model research and demonstration project designed to assess the feasibility of establishing a center for producing and distributing to individuals who are deaf or hard of hearing captioned video cassettes providing a broad range of educational, cultural, scientific, and vocational programming."
+Pub. L. 113–128, §435(2)(F), (G), redesignated par. (13) as (11) and struck out former par. (11) which read as follows: "Research grants may be used to conduct a modelresearch and demonstration project designed to assess the feasibility of establishing a center for producing and distributing to individuals who are deaf or hard of hearing captioned video cassettes providing a broad range of educational, cultural, scientific, and vocational programming."
 
 Subsec. (b)(11)(B). Pub. L. 113–128, §435(2)(H)(ii), inserted "and employment related" after "the employment".
 

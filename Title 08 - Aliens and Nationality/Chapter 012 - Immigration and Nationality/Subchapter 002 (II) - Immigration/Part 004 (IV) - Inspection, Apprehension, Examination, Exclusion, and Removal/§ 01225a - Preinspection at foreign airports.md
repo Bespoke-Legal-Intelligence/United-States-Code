@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 108–458, §7206(a), inserted "and immigration security in
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Exchange of Terrorist Information and Increased Preinspection at Foreign Airports
 

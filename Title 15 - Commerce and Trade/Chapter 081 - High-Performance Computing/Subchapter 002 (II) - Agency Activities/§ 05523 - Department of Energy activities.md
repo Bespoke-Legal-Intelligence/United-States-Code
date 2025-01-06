@@ -6,7 +6,7 @@ As part of the Program described in subchapter I, the Secretary of Energy shallâ
 
 &emsp;(2) provide computing and networking infrastructure support, includingâ€”
 
-&emsp;&emsp;(A) the provision of high-end computing systems that are among the most advancedin the world in terms of performance in solving scientific and engineering problems; and
+&emsp;&emsp;(A) the provision of high-end computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
 
 &emsp;&emsp;(B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
 

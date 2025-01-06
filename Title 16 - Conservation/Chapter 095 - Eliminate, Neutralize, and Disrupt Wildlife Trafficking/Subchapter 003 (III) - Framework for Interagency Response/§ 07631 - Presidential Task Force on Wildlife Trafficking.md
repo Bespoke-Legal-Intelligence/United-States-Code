@@ -18,7 +18,7 @@ In addition to the functions required by Executive Order 13648 (78 Fed. Reg. 406
 
 &emsp;&emsp;(B) to enable local governments to develop and use such technologies;
 
-&emsp;(6) consider programs and initiatives that address the expansion of the illegal wildlife trade to digital platforms, including the use of digital currency and payment platforms for transactions by collaborating with the private sector, academia, and nongovernmental organizations, including social media, e-commerce, and search engine companies, as appropriate;
+&emsp;(6) consider programs and initiatives that address the expansion of the illegal wildlife trade to digital platforms, including the use ofdigital currency and payment platforms for transactions by collaborating with the private sector, academia, and nongovernmental organizations, including social media, e-commerce, and search engine companies, as appropriate;
 
 &emsp;(7)(A) implement interventions to address the drivers of poaching, trafficking, and demand for illegal wildlife and wildlife products in focus countries and countries of concern;
 

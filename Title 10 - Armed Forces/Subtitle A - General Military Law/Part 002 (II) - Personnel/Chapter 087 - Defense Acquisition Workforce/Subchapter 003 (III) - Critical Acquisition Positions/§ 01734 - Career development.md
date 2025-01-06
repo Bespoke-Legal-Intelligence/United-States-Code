@@ -38,7 +38,7 @@ Waiver of Assignment Period.—(1) With respect to a person assigned to a critic
 
 Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the acquisition workforce serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
 
-(2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
+(2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for thepurpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
 
 (f)
 
@@ -112,5 +112,5 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Job Referral System Deadline
 
-Pub. L. 101–510, div. A, title XII, §1209(e), Nov. 5, 1990, 104 Stat. 1666, provided that: "Not later than October 1, 1991, the Secretary of Defense shall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202)."
+Pub. L. 101–510, div. A, title XII, §1209(e), Nov. 5, 1990, 104 Stat. 1666, provided that: "Not later than October 1,1991, the Secretary of Defense shall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202)."
 

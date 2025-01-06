@@ -2,7 +2,7 @@
 
 For purposes of this part—
 
-&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
+&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government orgovernmental agency or instrumentality, or to an organization.
 
 &emsp;(2) The term "lessee" means a natural person who leases or is offered a consumer lease.
 

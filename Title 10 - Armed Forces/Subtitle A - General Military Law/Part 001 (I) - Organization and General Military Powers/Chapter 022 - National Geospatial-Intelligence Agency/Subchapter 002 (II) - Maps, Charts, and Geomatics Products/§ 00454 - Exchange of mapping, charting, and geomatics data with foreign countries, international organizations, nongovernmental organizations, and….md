@@ -8,7 +8,7 @@ Foreign Countries and International Organizations.—The Secretary of Defense ma
 
 Nongovernmental Organizations and Academic Institutions.—The Secretary may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geomatics data, supplies, and services relating to areas outside of the United States to a nongovernmental organization or an academic institution engaged in geospatial information research or production of such areas pursuant to an agreement for the production or exchange of such data.
 
-(Added Pub. L. 99–569, title VI, §601(a), Oct. 27, 1986, 100 Stat. 3202, §2795; renumbered §454 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 112–81, div. A, title IX, §923(a), (b)(1), Dec. 31, 2011, 125 Stat. 1539; Pub. L. 116–283, div. A, title XVI, §1621(c)(1), Jan. 1, 2021, 134 Stat. 4053.)
+(Added Pub. L. 99–569, title VI, §601(a), Oct. 27, 1986, 100 Stat. 3202, §2795; renumbered §454 andamended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 112–81, div. A, title IX, §923(a), (b)(1), Dec. 31, 2011, 125 Stat. 1539; Pub. L. 116–283, div. A, title XVI, §1621(c)(1), Jan. 1, 2021, 134 Stat. 4053.)
 
 #### <b>Editorial Notes</b>
 

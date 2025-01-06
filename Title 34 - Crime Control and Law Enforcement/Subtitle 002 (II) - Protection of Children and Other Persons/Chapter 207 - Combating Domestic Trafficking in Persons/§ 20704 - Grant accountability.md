@@ -16,7 +16,7 @@ All covered grants shall be subject to the following accountability provisions:
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General thatthe audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
 
 #### (C) Mandatory exclusion
 
@@ -52,7 +52,7 @@ All covered grants shall be subject to the following accountability provisions:
 
 #### (A) Limitation
 
-&emsp;&emsp;No amounts transferred to the Department of Justice under this title,<sup>1</sup> or the amendments made by this title,<sup>1</sup> may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this title,<sup>1</sup> or the amendments made by this title,<sup>1</sup> to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;No amounts transferred to the Department of Justice under this title,<sup>1</sup> or the amendments made by this title,<sup>1</sup> may be used bythe Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this title,<sup>1</sup> or the amendments made by this title,<sup>1</sup> to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (B) Written approval
 

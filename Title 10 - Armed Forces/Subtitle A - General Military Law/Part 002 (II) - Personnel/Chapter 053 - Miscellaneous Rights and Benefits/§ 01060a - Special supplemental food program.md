@@ -34,7 +34,7 @@ Rebate Agreements With Food Producers.—(1) In the administration of the progra
 
 (3) The period covered by a contract entered into under this subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
 
-(4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to theappropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
+(4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to the appropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
 
 (f)
 
@@ -102,13 +102,43 @@ Subsec. (f)(4). Pub. L. 106–65, §674(d), added par. (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Pilot Program To Increase Access to Food on Military Installations of the Army
+
+Pub. L. 118–159, div. A, title VI, §654, Dec. 23, 2024, 138 Stat. 1939, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Army shall implement a pilot program to increase access to food on military installations of the Army for members of the Army who reside on such military installations.
+
+"(b)
+
+Access.—Food made available under the program under this section shall be accessible with a common access card (or other means determined appropriate by the Secretary) at dining facilities, commissaries, exchanges, restaurants, and other locations where such members can obtain food.
+
+"(c)
+
+Termination.—The pilot program under this section shall terminate five years after the date of the enactment of this Act.
+
+"(d)
+
+Briefing.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a briefing on the implementation of the program under this section. Such briefing shall include the following elements:
+
+&emsp;"(1) The milestones and timeline to complete such implementation.
+
+&emsp;"(2) Resources, including software, hardware, and personnel, necessary for such implementation.
+
+&emsp;"(3) A description of potential barriers to implementation of the program, particularly for remote or rural military installations, or installations located in geographic areas with limited access to food.
+
+&emsp;"(4) Policies or regulations of the Department of the Army that the Secretary determines necessary for such implementation.
+
+&emsp;"(5) Recommendations of the Secretary regarding legislation necessary for such implementation."
+
 #### Food Insecurity Among Military Families: Data Collection; Training; Report
 
 Pub. L. 117–263, div. A, title VI, §645, Dec. 23, 2022, 136 Stat. 2637, provided that:
 
 "(a)
 
-Data Collection.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], theUnder Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—
+Data Collection.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—
 
 &emsp;"(1) develop a survey, in collaboration with the Department of Agriculture, to determine how many members of the Armed Forces serving on active duty, and dependents of such members, are food insecure;
 

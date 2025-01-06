@@ -1,6 +1,6 @@
 ### §103103. Amounts provided by private entities for utility services
 
-Notwithstanding any other provision of law, amounts provided to the Service by private entities for utility services shall be credited to the appropriate account and remain available until expended.
+Notwithstanding any other provision of law, amounts provided to the Service by private entities for utility services shall be credited to theappropriate account and remain available until expended.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3165.)
 

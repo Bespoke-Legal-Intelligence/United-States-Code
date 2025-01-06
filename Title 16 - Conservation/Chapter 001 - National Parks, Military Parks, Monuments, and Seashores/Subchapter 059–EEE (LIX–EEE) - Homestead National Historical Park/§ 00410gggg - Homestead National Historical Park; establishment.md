@@ -22,7 +22,7 @@ Section was formerly classified to section 450u of this title.
 
 #### Change of Name
 
-Pub. L. 116–328, §1(b), Jan. 13, 2021, 134 Stat. 5099, provided that: "Any reference in a law, map, regulation, document, paper, or other record of the United States to the unit of the National Park System known as 'The Homestead National Monument of America' shall be considered to be a reference to the 'Homestead National Historical Park'."
+Pub. L. 116–328, §1(b), Jan. 13, 2021, 134 Stat. 5099, provided that: "Any reference in a law, map, regulation,document, paper, or other record of the United States to the unit of the National Park System known as 'The Homestead National Monument of America' shall be considered to be a reference to the 'Homestead National Historical Park'."
 
 #### Homestead National Monument of America Additions
 

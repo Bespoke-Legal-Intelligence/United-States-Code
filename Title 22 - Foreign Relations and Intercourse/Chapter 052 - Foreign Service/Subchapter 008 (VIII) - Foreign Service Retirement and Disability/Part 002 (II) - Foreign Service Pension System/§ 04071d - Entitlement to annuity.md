@@ -32,7 +32,7 @@
 
 (4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
-(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(g)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
+(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall notbe subject to section 8415(g)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
 
 (6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 

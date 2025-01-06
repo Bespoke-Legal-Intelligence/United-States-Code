@@ -54,5 +54,5 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Administration of Chapter With Respect to Federal Contracts, Grants, or Loans
 
-For provisions concerning the administration of this chapter with respect to Federal contracts, grants, or loans, see Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out as a note under section 7606 of Title 42, The Public Health and Welfare.
+For provisions concerning the administration of this chapter with respect to Federal contracts, grants, orloans, see Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out as a note under section 7606 of Title 42, The Public Health and Welfare.
 

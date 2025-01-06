@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible for financial assistance under this part, a passenger air carrier or a contractor shall enter into an agreement with the Secretary, or otherwise certify in such form and manner as the Secretary shall prescribe, that the passenger air carrier or contractor shall—
+To be eligible for financial assistance under this part, a passenger air carrier or a contractorshall enter into an agreement with the Secretary, or otherwise certify in such form and manner as the Secretary shall prescribe, that the passenger air carrier or contractor shall—
 
 &emsp;(1) refrain from conducting involuntary furloughs or reducing pay rates and benefits until—
 

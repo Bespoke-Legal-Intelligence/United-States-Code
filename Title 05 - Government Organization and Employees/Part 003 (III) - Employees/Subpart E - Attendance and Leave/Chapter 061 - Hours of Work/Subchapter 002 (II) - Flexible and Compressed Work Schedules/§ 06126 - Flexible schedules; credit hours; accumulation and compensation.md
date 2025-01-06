@@ -1,6 +1,6 @@
 ### §6126. Flexible schedules; credit hours; accumulation and compensation
 
-(a) Subject to any limitation prescribed by the Office of Personnel Management or the agency, a full-time employee on a flexible schedule can accumulate not more than 24 credit hours, and a part-time employee can accumulate not more than one-fourth of the hours in such employee's biweekly basic work requirement, for carryoverfrom a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
+(a) Subject to any limitation prescribed by the Office of Personnel Management or the agency, a full-time employee on a flexible schedule can accumulate not more than 24 credit hours, and a part-time employee can accumulate not more than one-fourth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
 
 (b) Any employee who is on a flexible schedule program under section 6122 of this title and who is no longer subject to such a program shall be paid at such employee's then current rate of basic pay for—
 

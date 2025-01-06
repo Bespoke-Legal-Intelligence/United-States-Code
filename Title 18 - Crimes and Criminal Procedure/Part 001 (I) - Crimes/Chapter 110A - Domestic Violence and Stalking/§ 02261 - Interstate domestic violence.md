@@ -30,7 +30,7 @@ Penalties.—A person who violates this section or section 2261A shall be fined 
 
 &emsp;(6) Whoever commits the crime of stalking in violation of a temporary or permanent civil or criminal injunction, restraining order, no-contact order, or other order described in section 2266 of title 18, United States Code, shall be punished by imprisonment for not less than 1 year.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1926; amended Pub. L. 104–201, div. A, title X, §1069(b)(1), (2), Sept. 23, 1996, 110Stat. 2656; Pub. L. 106–386, div. B, title I, §1107(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §§114(b), 116(a), 117(a), Jan. 5, 2006, 119 Stat. 2988, 2989; Pub. L. 113–4, title I, §107(a), Mar. 7, 2013, 127 Stat. 77.)
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1926; amended Pub. L. 104–201, div. A, title X, §1069(b)(1), (2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 106–386, div. B, title I, §1107(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §§114(b), 116(a), 117(a), Jan. 5, 2006, 119 Stat. 2988, 2989; Pub. L. 113–4, title I, §107(a), Mar. 7, 2013, 127 Stat. 77.)
 
 #### <b>Editorial Notes</b>
 

@@ -62,7 +62,7 @@ Inclusions.—The notice under paragraph (1) shall include—
 
 &emsp;(3)
 
-Report.—Not later than 18 months after the date of enactment of this subsection, theSecretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an advanced crash-avoidance technology information and rating system, in accordance with subsection (a).
+Report.—Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an advanced crash-avoidance technology information and rating system, in accordance with subsection (a).
 
 (f)
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Regulations
 
-Pub. L. 112–252, §1, Jan. 10, 2013, 126 Stat. 2406, provided in part that: "any regulations promulgated undersuch subsection \[former subsec. (c) of this section\] shall have no force or effect."
+Pub. L. 112–252, §1, Jan. 10, 2013, 126 Stat. 2406, provided in part that: "any regulations promulgated under such subsection \[former subsec. (c) of this section\] shall have no force or effect."
 
 #### New Car Assessment Program; Updates
 

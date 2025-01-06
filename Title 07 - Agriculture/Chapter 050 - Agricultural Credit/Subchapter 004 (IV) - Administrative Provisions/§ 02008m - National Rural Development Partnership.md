@@ -38,7 +38,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A panel consisting of representatives of the Coordinating Committee and State rural development councils shall be established to lead and coordinate the strategic operation, policies, and practices of the Partnership.
+&emsp;&emsp;A panel consisting of representatives of the Coordinating Committee and State ruraldevelopment councils shall be established to lead and coordinate the strategic operation, policies, and practices of the Partnership.
 
 #### (B) Annual reports
 
@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;(A) to cooperate with States to implement the Partnership;
 
-&emsp;&emsp;(B) to provide States with the technical and administrative support necessary toplan and implement tailored rural development strategies to meet local needs;
+&emsp;&emsp;(B) to provide States with the technical and administrative support necessary to plan and implement tailored rural development strategies to meet local needs;
 
 &emsp;&emsp;(C) to ensure that the head of each agency with rural responsibilities designates a senior-level agency official to represent the agency on the Coordinating Committee and directs appropriate field staff to participate fully with the State rural development council within the jurisdiction of the field staff; and
 

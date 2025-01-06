@@ -24,7 +24,7 @@ Determinations required.—The Secretary may not enter into an agreement under t
 
 &emsp;&emsp;(B) the interstate participation agreement would not adversely affect the oversight responsibilities of intrastate pipeline transportation by the State authority;
 
-&emsp;&emsp;(C) the State is carrying out a program demonstrated to promote preparedness andrisk prevention activities that enable communities to live safely with pipelines;
+&emsp;&emsp;(C) the State is carrying out a program demonstrated to promote preparedness and risk prevention activities that enable communities to live safely with pipelines;
 
 &emsp;&emsp;(D) the State meets the minimum standards for State one-call notification set forth in chapter 61; and
 

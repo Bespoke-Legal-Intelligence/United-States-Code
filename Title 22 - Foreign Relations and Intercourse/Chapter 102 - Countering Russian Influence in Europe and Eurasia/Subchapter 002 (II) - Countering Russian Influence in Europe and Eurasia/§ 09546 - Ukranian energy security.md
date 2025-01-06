@@ -46,7 +46,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(F) the implementation of primary gas law including pricing, tariff structure, and legal regulatory implementation;
 
-&emsp;&emsp;(G) privatization of government owned energy companies through credible legal frameworks and a transparent process compliant with international best practices;
+&emsp;&emsp;(G) privatization of government owned energy companies through credible legalframeworks and a transparent process compliant with international best practices;
 
 &emsp;&emsp;(H) procurement and transport of emergency fuel supplies, including reverse pipeline flows from Europe;
 
@@ -126,7 +126,7 @@ The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pu
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of thistitle, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Caucasus;".</i>
 

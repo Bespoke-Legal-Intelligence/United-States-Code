@@ -26,7 +26,7 @@ In carrying out its duties under section 211(g)(4) of title 6, the National Targ
 
 #### (1) Issuance
 
-&emsp;In carrying out its duties under section 211(g)(4) of title 6 and based upon the application of the targeted risk assessment methodologies and standards established under subsection (a), the Executive Director of the National Targeting Center may issue Trade Alerts to directors of United States ports ofentry directing further inspection, or physical examination or testing, of specific merchandise to ensure compliance with all applicable customs and trade laws of the United States and regulations administered by U.S. Customs and Border Protection.
+&emsp;In carrying out its duties under section 211(g)(4) of title 6 and based upon the application of the targeted risk assessment methodologies and standards established under subsection (a), the Executive Director of the National Targeting Center may issue Trade Alerts to directors of United States ports of entry directing further inspection, or physical examination or testing, of specific merchandise to ensure compliance with all applicable customs and trade laws of the United States and regulations administered by U.S. Customs and Border Protection.
 
 #### (2) Determinations not to implement Trade Alerts
 

@@ -22,7 +22,7 @@
 
 #### (b) Terms and conditions
 
-The President shall establish the terms and conditions, including the amount to be paid bythe eligible country, under which such country's qualified debt may be sold under this section.
+The President shall establish the terms and conditions, including the amount to be paid by the eligible country, under which such country's qualified debt may be sold under this section.
 
 #### (c) Appropriations requirement
 

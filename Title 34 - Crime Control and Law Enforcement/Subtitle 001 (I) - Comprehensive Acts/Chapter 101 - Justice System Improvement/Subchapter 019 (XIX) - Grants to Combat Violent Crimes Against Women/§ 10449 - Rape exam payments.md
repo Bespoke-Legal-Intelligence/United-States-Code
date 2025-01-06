@@ -44,7 +44,7 @@ A State or Indian tribal government may use Federal grant funds under this subch
 
 &emsp;&emsp;(A) certifies that its judicial administrative policies and practices include notification to domestic violence offenders of the requirements delineated in section 922(g)(8) and (g)(9) of title 18 and any applicable related Federal, State, or local laws; or
 
-&emsp;&emsp;(B) gives the Attorney General assurances that its judicial administrative policies and practices will be in compliance with the requirements of subparagraph (A) within the later of—
+&emsp;&emsp;(B) gives the Attorney General assurances that its judicial administrative policies andpractices will be in compliance with the requirements of subparagraph (A) within the later of—
 
 &emsp;&emsp;&emsp;(i) the period ending on the date on which the next session of the State legislature ends; or
 

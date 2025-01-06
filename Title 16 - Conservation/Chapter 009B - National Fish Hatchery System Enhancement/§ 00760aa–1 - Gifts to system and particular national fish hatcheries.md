@@ -18,7 +18,7 @@ In furtherance of the purposes of this chapter, the Secretary of the Interior ma
 
 #### (B) Matching
 
-&emsp;&emsp;Subject to the availability of appropriations and the requirements of the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+&emsp;&emsp;Subject to the availability of appropriations and the requirements of the Fish andWildlife Coordination Act (16 U.S.C. 661 et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
 (Pub. L. 109–360, §3, Oct. 16, 2006, 120 Stat. 2059.)
 

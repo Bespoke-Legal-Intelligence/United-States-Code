@@ -6,7 +6,7 @@ Not later than 6 months after receiving an application in accordance with sectio
 
 #### (b) Considerations in awarding agreement
 
-In determining whether to enter into an agreement for a social impact partnership project (the application for which was submitted under section 1397n–1 of this title) the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships and the head of any Federal agency administering asimilar intervention or serving a population similar to that served by the project, shall consider each of the following:
+In determining whether to enter into an agreement for a social impact partnership project (the application for which was submitted under section 1397n–1 of this title) the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships and the head of any Federal agency administering a similar intervention or serving a population similar to that served by the project, shall consider each of the following:
 
 &emsp;(1) The recommendations made by the Commission on Social Impact Partnerships.
 
@@ -74,7 +74,7 @@ Not later than 30 days after entering into an agreement under this section the S
 
 #### (e) Authority to transfer administration of agreement
 
-The Secretary may transfer to the head of another Federal agency the authority to administer (including making payments under) an agreement entered into under subsection (c), and any funds necessary to do so.
+The Secretary may transfer to the head of another Federal agency the authority to administer (including making payments under) anagreement entered into under subsection (c), and any funds necessary to do so.
 
 #### (f) Requirement on funding used to benefit children
 

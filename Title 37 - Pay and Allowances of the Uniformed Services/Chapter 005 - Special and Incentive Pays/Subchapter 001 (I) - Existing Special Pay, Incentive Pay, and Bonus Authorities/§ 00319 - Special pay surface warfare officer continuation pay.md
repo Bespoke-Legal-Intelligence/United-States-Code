@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Surface Warfare Officer Defined.—In this section, the term "eligible surface warfare officer" means an officer of the Regular Navy or Navy Reserve on active duty who—
+Eligible Surface Warfare Officer Defined.—In this section, the term "eligible surface warfare officer" means an officer of theRegular Navy or Navy Reserve on active duty who—
 
 &emsp;(1) is qualified and serving as a surface warfare officer;
 

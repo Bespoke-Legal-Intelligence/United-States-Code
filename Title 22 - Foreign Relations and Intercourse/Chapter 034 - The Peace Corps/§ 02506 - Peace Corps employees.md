@@ -20,7 +20,7 @@
 
 &emsp;(B) in an established merit system in the excepted service,
 
-> if such individual (i) served satisfactorily under the authority of this subsection, as certified bythe President, for not less than thirty-six months on a continuous basis without a break in service of more than three days, and (ii) is qualified for the position in question.
+> if such individual (i) served satisfactorily under the authority of this subsection, as certified by the President, for not less than thirty-six months on a continuous basis without a break in service of more than three days, and (ii) is qualified for the position in question.
 
 (5) Except as provided in paragraph (6), the Director of the Peace Corps may make appointments or assignments of United States citizens under paragraph (2) for periods of more than five years only in the case of individuals whose performance as employees of the Peace Corps has been exceptional and only in order to achieve one or more of the following purposes:
 
@@ -74,7 +74,7 @@
 
 In each country or area in which volunteers serve abroad, the President may appoint an employee or a volunteer as a Peace Corps representative to have direction of other employees of the Peace Corps abroad and to oversee the activities carried on under this chapter in such country or area. Unless a representative is a volunteer, the compensation, allowances and benefits, and other terms and conditions of service of each such representative, shall be the same as those of a person appointed, or assigned pursuant to paragraph (1) or (2) of subsection (a) of this section, except that any such representative may, notwithstanding any provision of law, be removed by the President in his discretion.
 
-(Pub. L. 87–293, title I, §7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, §1001(l), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–200, §4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, §5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, §302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, §1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§5(1), 6, Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title I, §104, Oct. 9, 2018, 132 Stat. 3653.)
+(Pub. L. 87–293, title I, §7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, §1001(l), Oct. 11, 1962, 76 Stat.865; Pub. L. 88–200, §4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, §5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, §302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, §1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§5(1), 6, Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title I, §104, Oct. 9, 2018, 132 Stat. 3653.)
 
 #### <b>Editorial Notes</b>
 
@@ -158,7 +158,7 @@ Pub. L. 108–7, div. E, title II, Feb. 20, 2003, 117 Stat. 171.
 
 #### Reports to Congress
 
-Pub. L. 99–83, title XI, §1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of theSenate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
+Pub. L. 99–83, title XI, §1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
 
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 

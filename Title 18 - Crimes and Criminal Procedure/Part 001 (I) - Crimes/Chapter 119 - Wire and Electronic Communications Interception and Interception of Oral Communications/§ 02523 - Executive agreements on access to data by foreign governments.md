@@ -248,7 +248,7 @@ Revisions to Agreement.—A revision to an agreement under this section shall be
 
 (g)
 
-Publication.—Any determination or certification under subsection (b) regarding an executive agreement under this section, including any termination or renewal of such an agreement, shall be published in the Federal Register as soon as is reasonably practicable.
+Publication.—Any determination or certification under subsection (b) regarding an executive agreement under this section, includingany termination or renewal of such an agreement, shall be published in the Federal Register as soon as is reasonably practicable.
 
 (h)
 

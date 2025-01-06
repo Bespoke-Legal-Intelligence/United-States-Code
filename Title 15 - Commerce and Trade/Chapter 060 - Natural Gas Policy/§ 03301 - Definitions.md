@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 #### (B) Marker well
 
-&emsp;&emsp;The term "completion location", when used with reference to any marker well,means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
+&emsp;&emsp;The term "completion location", when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
 
 #### (8) Proration unit
 
@@ -120,7 +120,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(IV) to the user by the producer and transported under any certificate, granted pursuant to section 7(c) of the Natural Gas Act \[15 U.S.C. 717f(c)\], if such certificate was specifically granted for the transportation of that natural gas for such user;
 
-&emsp;&emsp;&emsp;(ii) natural gas for which abandonment of service was granted before November 9,1978, under section 7 of the Natural Gas Act \[15 U.S.C. 717f\]; and
+&emsp;&emsp;&emsp;(ii) natural gas for which abandonment of service was granted before November 9, 1978, under section 7 of the Natural Gas Act \[15 U.S.C. 717f\]; and
 
 &emsp;&emsp;&emsp;(iii) natural gas which, but for this clause, would be committed or dedicated to interstate commerce under subparagraph (A)(ii) by reason of the action of any person (including any successor in interest thereof, other than by means of any reversion of a leasehold interest), if on May 31, 1978—
 
@@ -214,7 +214,7 @@ For purposes of this chapter—
 
 #### (36) Prudhoe Bay Unit of Alaska
 
-&emsp;The term "Prudhoe Bay Unit of Alaska" means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977,and referred to as the "affected area" in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
+&emsp;The term "Prudhoe Bay Unit of Alaska" means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977, and referred to as the "affected area" in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
 
 #### (37) Antitrust laws
 
@@ -232,7 +232,7 @@ Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(
 
 The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
-The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13,14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 

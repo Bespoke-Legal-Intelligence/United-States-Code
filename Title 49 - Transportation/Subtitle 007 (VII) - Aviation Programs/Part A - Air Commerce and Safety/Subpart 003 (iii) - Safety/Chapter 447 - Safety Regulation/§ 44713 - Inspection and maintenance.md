@@ -134,7 +134,7 @@ In subsection (d)(2), the words "Not later than September 18, 1989" and "final" 
 
 #### Change of Name
 
-"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" insubsec. (d)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (d)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 

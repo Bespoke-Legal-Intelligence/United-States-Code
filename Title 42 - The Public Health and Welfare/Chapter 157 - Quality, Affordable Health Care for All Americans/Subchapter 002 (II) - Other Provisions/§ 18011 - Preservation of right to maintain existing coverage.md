@@ -36,7 +36,7 @@
 
 #### (ii) Adult child coverage
 
-&emsp;&emsp;&emsp;For plan years beginning before January 1, 2014, the provisions of section 2714 of the Public Health Service Act \[42 U.S.C.300gg–14\] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan that is a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26) other than such grandfathered health plan.
+&emsp;&emsp;&emsp;For plan years beginning before January 1, 2014, the provisions of section 2714 of the Public Health Service Act \[42 U.S.C. 300gg–14\] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan that is a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26) other than such grandfathered health plan.
 
 #### (5) Application of additional provisions
 
@@ -66,7 +66,7 @@ In this title,<sup>1</sup> the term "grandfathered health plan" means any group 
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-This subtitle, referred to in subsecs. (a)(2), (4)(B), (c), and (d), is subtitle C (§§1201–1255) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 154, which enacted this subchapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitle C to the Code, see Tables.
+This subtitle, referred to in subsecs. (a)(2), (4)(B), (c), and (d), is subtitle C (§§1201–1255) of title I of Pub. L.111–148, Mar. 23, 2010, 124 Stat. 154, which enacted this subchapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitle C to the Code, see Tables.
 
 Subtitle A, referred to in subsecs. (a)(2), (3), (c), and (d), is subtitle A (§§1001–1004) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. For complete classification of subtitle A to the Code, see Tables.
 

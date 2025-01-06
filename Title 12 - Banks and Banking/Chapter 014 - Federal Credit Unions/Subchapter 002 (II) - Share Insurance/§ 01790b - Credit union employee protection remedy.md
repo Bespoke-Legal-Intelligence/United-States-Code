@@ -8,7 +8,7 @@
 
 #### (2) Employees of the Administration
 
-&emsp;The Administration may not discharge or otherwise discriminate against any employee (including any employee of the National Credit Union Central Liquidity Facility) with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Administration or the Attorney General regarding any possible violation of any law or regulation by—
+&emsp;The Administration may not discharge or otherwise discriminate against any employee\(including any employee of the National Credit Union Central Liquidity Facility) with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Administration or the Attorney General regarding any possible violation of any law or regulation by—
 
 &emsp;&emsp;(A) any credit union or the Administration;
 

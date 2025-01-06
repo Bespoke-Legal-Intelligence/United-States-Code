@@ -68,7 +68,7 @@ Subsec. (a). Pub. L. 111–148, §10203(b)(2)(A), inserted "and the offering of 
 
 Pub. L. 111–148, §2003(a)(1)(B), (C), struck out "under age 19" after "all individuals" and inserted ", in the case of an individual under age 19," after "(and".
 
-Pub. L. 111–148, §2003(a)(1)(A), which directed substitution of "shall" for "may elect to", was not executed because of Pub. L. 111–148, §10203(b)(2)(B), set out as a note under this section.
+Pub. L. 111–148, §2003(a)(1)(A), which directed substitution of "shall" for "may elect to", was not executedbecause of Pub. L. 111–148, §10203(b)(2)(B), set out as a note under this section.
 
 Subsec. (c). Pub. L. 111–148, §2003(a)(2), struck out "under age 19" after "by the individual".
 
@@ -92,7 +92,7 @@ Section effective Apr. 1, 2009, and applicable to child health assistance and me
 
 #### Effect of Certain Amendment by Pub. L. 111–148
 
-Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: "This Act shall be appliedwithout regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect."
+Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: "This Act shall be applied without regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect."
 
 <i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 

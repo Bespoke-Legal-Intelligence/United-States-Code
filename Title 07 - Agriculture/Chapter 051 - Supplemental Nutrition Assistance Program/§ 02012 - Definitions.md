@@ -152,7 +152,7 @@ Card.—The term "EBT card" means an electronic benefit transfer card issued und
 
 (r) "State" means the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservations of an Indian tribe whose tribal organization meets the requirements of this chapter for participation as a State agency.
 
-(s) "State agency" means (1) the agency of State government, including the local officesthereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title.
+(s) "State agency" means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title.
 
 (t) "Supplemental nutrition assistance program" means the program operated pursuant to this chapter.
 
@@ -372,7 +372,7 @@ Pub. L. 97–35, §§101, 102, inserted provisions relating to treatment as a gr
 
 Subsec. (m). Pub. L. 97–35, §116(a)(1), struck out reference to Puerto Rico.
 
-Subsec. (o). Pub. L. 97–98, §§1303, 1304, substituted in cl. (2) "Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska" for "Alaska and Hawaii to reflect the cost of food in those States", in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
+Subsec. (o). Pub. L. 97–98, §§1303, 1304, substituted in cl. (2) "Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska" for "Alaska and Hawaii to reflect the cost of food in those States", in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of suchdiet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
 
 Pub. L. 97–35, §§103, 116(a)(1) struck out applicability to Puerto Rico in clause (3), substituted provisions respecting adjustments on Apr. 1, 1982, for provisions respecting adjustments on Jan. 1, 1982, in cl. (6), and added cls. (7) to (9).
 
@@ -438,7 +438,7 @@ Pub. L. 110–234, title IV, §4115(d), May 22, 2008, 122 Stat. 1110, and Pub. L
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4001(b) and 4115(b)(1) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -460,7 +460,7 @@ Amendment by Pub. L. 103–66 effective, and to be implemented beginning on, Sep
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -588,7 +588,7 @@ Pub. L. 97–35, title I, §117, Aug. 13, 1981, 95 Stat. 366, provided that: "Ex
 
 Pub. L. 96–58, §10, Aug. 14, 1979, 93 Stat. 392, provided that:
 
-"(a) The provisions of sections 2 and 3 of this Act \[amending this section and sections 2014 of this section\] shall be implemented in all States by January 1, 1980, and shall not affect the rights or liabilities of the Secretary, States, and applicant or participant households, under the Food Stamp Act of 1977 \[this chapter\] in effect on July 1, 1979 \[now the Food and Nutrition Act of 2008\], until implemented.
+"(a) The provisions of sections 2 and 3 of this Act \[amending this section and sections 2014 of this section\] shall be implemented in all States by January 1, 1980,and shall not affect the rights or liabilities of the Secretary, States, and applicant or participant households, under the Food Stamp Act of 1977 \[this chapter\] in effect on July 1, 1979 \[now the Food and Nutrition Act of 2008\], until implemented.
 
 "(b) Notwithstanding any other provision of law, the Secretary of Agriculture shall issue final regulations implementing the provisions of sections 4 through 6 of this Act \[amending sections 2015 and 2025 of this title\] within one hundred and fifty days after the date of enactment of this Act \[Aug. 14, 1979\].
 
@@ -602,7 +602,7 @@ Pub. L. 95–113, title XIII, §1302(b), Sept. 29, 1977, 91 Stat. 979, provided 
 
 #### Effective Date of 1974 Amendment
 
-Amendment of section 8(a) of Pub. L. 93–233 by section 1(a), (b) of Pub. L. 93–335, effective July 1, 1974, seesection 1(c) of Pub. L. 93–335, set out as a note under section 1382 of Title 42, The Public Health and Welfare. See Repeals note below.
+Amendment of section 8(a) of Pub. L. 93–233 by section 1(a), (b) of Pub. L. 93–335, effective July 1, 1974, see section 1(c) of Pub. L. 93–335, set out as a note under section 1382 of Title 42, The Public Health and Welfare. See Repeals note below.
 
 #### Effective Date of 1972 Amendment
 
@@ -674,7 +674,7 @@ Pub. L. 103–225, title II, §205, Mar. 25, 1994, 108 Stat. 109, as amended by 
 
 #### Report on Impact on Retail Food Stores
 
-Pub. L. 103–225, title II, §206, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(B), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "Not later than 18 months after the date of enactment of this Act \[Mar. 25, 1994\], the Secretary of Agriculture shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the impact of the amendments made by sections 201 and 202 \[amending this section and section 2018 of this title\] on the involvement of retailfood stores in the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), including a description of—
+Pub. L. 103–225, title II, §206, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(B), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "Not later than 18 months after the date of enactment of this Act \[Mar. 25, 1994\], the Secretary of Agriculture shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the impact of the amendments made by sections 201 and 202 \[amending this section and section 2018 of this title\] on the involvement of retail food stores in the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), including a description of—
 
 &emsp;"(1) the numbers and types of stores that were newly authorized to participate in the supplemental nutrition assistance program after implementation of the amendments;
 

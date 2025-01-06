@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—A person engaged in the business of salvaging, dismantling, recycling, or repairing passenger motor vehicles may not knowingly sell in commerce or transfer or install a major part marked with an identification number without—
+General Requirements.—A person engaged in the business of salvaging, dismantling,recycling, or repairing passenger motor vehicles may not knowingly sell in commerce or transfer or install a major part marked with an identification number without—
 
 &emsp;(1) first establishing, through a procedure the Attorney General by regulation prescribes in consultation with the Secretary of Transportation under section 33109 of this title, that the major part has not been reported as stolen; and
 
@@ -26,7 +26,7 @@ Nonapplication.—(1) Subsection (a) of this section does not apply to a person 
 
 (c)
 
-Regulations.—The Attorney General shall prescribe regulations to carry out this section.The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.
+Regulations.—The Attorney General shall prescribe regulations to carry out this section. The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1086.)
 

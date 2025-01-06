@@ -132,7 +132,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 #### (1) In general
 
-&emsp;The purpose of this subsection is to require the Secretary to carry out a program under which eligible assets (as such term is defined in paragraph (2)) shall be made available for sale in a manner that promotes the revitalization, through expanded homeownership opportunities, of revitalization areas. Notwithstanding the authority under the last sentence of subsection (g), the Secretary shall disposeof all eligible assets under the program and shall establish the program in accordance with the requirements under this subsection.
+&emsp;The purpose of this subsection is to require the Secretary to carry out a program under which eligible assets (as such term is defined in paragraph (2)) shall be made available for sale in a manner that promotes the revitalization, through expanded homeownership opportunities, of revitalization areas. Notwithstanding the authority under the last sentence of subsection (g), the Secretary shall dispose of all eligible assets under the program and shall establish the program in accordance with the requirements under this subsection.
 
 #### (2) Eligible assets
 
@@ -216,13 +216,13 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 &emsp;&emsp;&emsp;(i) The plan has as its primary purpose the expansion of home ownership in, and the revitalization of, the asset control area, established pursuant to paragraph (4)(B)(i) by the purchaser, in which the eligible asset is located.
 
-&emsp;&emsp;&emsp;(ii) Under the plan, the preferred purchaser has established, and agreed to meet, specific performance goals for increasing the rate of home ownership for eligible assets in the asset control area that are under the purchaser's control. The plan shall provide that the Secretary may waive or modify such goals or deadlines only upon a determination by the Secretary that a good faith effort has beenmade in complying with the goals through the homeownership plan and that exceptional neighborhood conditions prevented attainment of the goal.
+&emsp;&emsp;&emsp;(ii) Under the plan, the preferred purchaser has established, and agreed to meet, specific performance goals for increasing the rate of home ownership for eligible assets in the asset control area that are under the purchaser's control. The plan shall provide that the Secretary may waive or modify such goals or deadlines only upon a determination by the Secretary that a good faith effort has been made in complying with the goals through the homeownership plan and that exceptional neighborhood conditions prevented attainment of the goal.
 
 &emsp;&emsp;&emsp;(iii) Under the plan, the preferred purchaser has established rehabilitation standards that meet or exceed the standards for housing quality established under subparagraph (B)(iii) by the Secretary, and has agreed that each asset property for an eligible asset purchased will be rehabilitated in accordance with such standards.
 
 #### (B) Non-preferred purchasers
 
-&emsp;&emsp;Under the program under this subsection, the Secretary may sell an eligible asset to a purchaser who is not a preferred purchaser only pursuant to a binding agreement by the purchaser that complies with the following requirements:
+&emsp;&emsp;Under the program under this subsection, the Secretary may sell an eligible asset to apurchaser who is not a preferred purchaser only pursuant to a binding agreement by the purchaser that complies with the following requirements:
 
 &emsp;&emsp;&emsp;(i) The purchaser has agreed to meet specific performance goals established by the Secretary for home ownership of the asset properties for the eligible assets purchased by the purchaser, except that the Secretary may, by including a provision in the sale agreement required under paragraph (7), provide for a lower rate of home ownership in sales involving exceptional circumstances.
 
@@ -288,7 +288,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 #### (F) Housing quality
 
-&emsp;&emsp;The sale agreement shall provide for compliance of the eligible assets purchased withthe rehabilitation standards established under paragraph (5)(A)(iii) or the minimum standards for housing quality established under paragraph (5)(B)(ii), as applicable, and shall specify such standards.
+&emsp;&emsp;The sale agreement shall provide for compliance of the eligible assets purchased with the rehabilitation standards established under paragraph (5)(A)(iii) or the minimum standards for housing quality established under paragraph (5)(B)(ii), as applicable, and shall specify such standards.
 
 #### (G) Performance goals and sanctions
 
@@ -372,7 +372,7 @@ In the event that any mortgagee under a mortgage insured under section 1709 of t
 
 #### (l) Nullification of right of redemption of single family mortgagors
 
-(1) Whenever the Secretary or a contract mortgagee (pursuant to its contract with the Secretary) forecloses on a Secretary-held single family mortgage in any Federal or State court or pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to the interests senior to the interests of the Secretary or the contract mortgagee, as the case may be. Notwithstanding any State law to the contrary, there shall be no right of redemption (including in all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with a Secretary-held single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
+(1) Whenever the Secretary or a contract mortgagee (pursuant to its contract with the Secretary) forecloses on a Secretary-held single family mortgage in any Federal or State courtor pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to the interests senior to the interests of the Secretary or the contract mortgagee, as the case may be. Notwithstanding any State law to the contrary, there shall be no right of redemption (including in all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with a Secretary-held single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
 
 (2) The following actions shall be taken in order to verify title in the purchaser at the foreclosure sale:
 
@@ -406,7 +406,7 @@ This chapter, referred to in subsecs. (g) and (h), was in the original "this Act
 
 #### Codification
 
-In subsec. (g), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes" on authorityof Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -414,7 +414,7 @@ In subsec. (g), "section 6101 of title 41" substituted for "section 3709 of the 
 
 Pub. L. 111–22, §203(c)(1), (2), inserted "or faces imminent default, as defined by the Secretary" after "default" and "support for borrower housing counseling, partial claims, borrower incentives, preforeclosure sale," after "loan modification,".
 
-<b>2004</b>—Subsec. (h)(2). Pub. L. 108–447, §221(1)(A), substituted "following categories of assets of the Secretary, unless the Secretary determines at any time that the asset property is economically or otherwise infeasible to rehabilitate or that the best use of the asset property is as open space (including park land)" for "following assets of the Secretary" in introductory provisions.
+<b>2004</b>—Subsec. (h)(2). Pub. L. 108–447, §221(1)(A), substituted "following categories of assets of the Secretary, unless the Secretary determines at any time that the asset property is economically or otherwise infeasible to rehabilitate or that the best use of the asset property is as open space (including park land)" for"following assets of the Secretary" in introductory provisions.
 
 Subsec. (h)(2)(B)(ii). Pub. L. 108–447, §221(1)(B), inserted "except for mortgages insured under or made pursuant to sections 1715z, 1715z–12, or 1715z–20 of this title" after "chapter".
 
@@ -460,7 +460,7 @@ Subsec. (c). Pub. L. 102–550, §516(a)(2), added subsec. (c) and struck out fo
 
 Subsec. (d). Pub. L. 102–550, §516(a)(3), (4), in first sentence, substituted "issued in the name of" for "executed in the name of" and "and shall be negotiable, and, if in book entry form, transferable, in the manner described by the Secretary in regulations" for ", shall be signed by the Secretary by either his written or engraved signature, and shall be negotiable" and in fifth sentence, substituted "and, in the case of debentures issued in certificated registered form, such guaranty" for "and such guaranty".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–235, §136(a), inserted after third sentence "As a condition of the receipt of such benefits, the mortgagee shall maintain or assure the maintenance of the mortgaged property (in such manner as the Secretary shall by regulation provide) during the period beginning on the taking of the possession or other acquisition of the mortgaged property by the mortgagee and ending on conveyance to the Secretary or other disposition of the mortgaged property in accordance with this section, and funds expended by the mortgagee in meeting such obligation shall be included, to the extent provided in this subsection or in subsection (k) of this section, in debentures or other insurance payment pursuant to this section."
+<b>1989</b>—Subsec. (a). Pub. L. 101–235, §136(a), inserted after third sentence "As a condition of the receipt of such benefits, the mortgagee shall maintain or assure the maintenance of the mortgaged property (in such manner as the Secretary shall by regulation provide) during the period beginning on the taking of the possession or other acquisition of the mortgaged propertyby the mortgagee and ending on conveyance to the Secretary or other disposition of the mortgaged property in accordance with this section, and funds expended by the mortgagee in meeting such obligation shall be included, to the extent provided in this subsection or in subsection (k) of this section, in debentures or other insurance payment pursuant to this section."
 
 Subsec. (g). Pub. L. 101–235, §136(b), inserted after first sentence "The Secretary shall, by regulation, carry out a program of sales of such properties and shall develop and implement appropriate credit terms and standards to be used in carrying out the program."
 
@@ -500,7 +500,7 @@ Subsec. (c). Pub. L. 88–560, §105(a)(4), increased limitation on the differen
 
 Subsec. (d). Pub. L. 88–560, §105(a)(5), substituted ": <i>Provided</i>, That debentures issued pursuant to claims for insurance filed on or after September 2, 1964 shall be dated as of the date of default or as of such later date as the Commissioner, in his discretion, may establish by regulation. The debentures" for ", except that debentures issued pursuant to the provisions of section 1715k(f), 1715l(g), and 1715x of this title may be dated as of the date the mortgage is assigned (or the property is conveyed) to the Commissioner, and" in second sentence.
 
-Subsec. (e). Pub. L. 88–560, §105(a)(6)(A), designated existing provisions as par. (1), substituted "Subject to paragraph (2), the certificate" for "The certificate", and added par. (2).
+Subsec. (e). Pub. L. 88–560, §105(a)(6)(A), designated existing provisions as par. (1), substituted "Subject toparagraph (2), the certificate" for "The certificate", and added par. (2).
 
 Subsec. (f). Pub. L. 88–560, §105(a)(7)–(11), designated introductory par. as par. (1) and substituted "If, after deducting (in such manner and amount as the Commissioner shall determine to be equitable and in accordance with sound accounting practice) the expenses incurred by the Commissioner, the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith exceed the face value" for "If the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith, after deducting all expenses incurred by the Commissioner in handling, dealing with, and disposing of such property and in collecting such claims, exceeds the face value"; redesignated former par. (1) as (i) and inserted proviso; redesignated former par. (2) as (ii); designated concluding par. as par. (2) and inserted proviso; and added par. (3), respectively.
 
@@ -562,7 +562,7 @@ Pub. L. 104–99, title IV, §407(c), Jan. 26, 1996, 110 Stat. 46, as amended by
 
 #### Effective Date of 1954 Amendment
 
-Act Aug. 2, 1954, ch. 649, title I, §112(e), 68 Stat. 593, provided that: "This section \[amending this section and sections 1713, 1748b, and 1750c of this title\] shall not apply in any case where the mortgage involved was insured or the commitment for such insurance was issued prior to the effective date of the Housing Act of 1954 \[Aug. 2, 1954\]."
+Act Aug. 2, 1954, ch. 649, title I, §112(e), 68 Stat. 593, provided that: "This section \[amending this section andsections 1713, 1748b, and 1750c of this title\] shall not apply in any case where the mortgage involved was insured or the commitment for such insurance was issued prior to the effective date of the Housing Act of 1954 \[Aug. 2, 1954\]."
 
 #### Regulations
 

@@ -78,7 +78,7 @@ The following activities shall be carried out under the racetrack safety program
 
 #### (A) In general
 
-&emsp;&emsp;Not later than one year after the program effective date, and after notice and an opportunity for public comment in accordance with section 3053 of this title, the Authority, in consultation with the Commission, shall develop and maintain a nationwide database of racehorse safety, performance, health, and injury information for the purpose of conducting an epidemiological study.
+&emsp;&emsp;Not later than one year after the program effective date, and after notice and an opportunity for public comment in accordancewith section 3053 of this title, the Authority, in consultation with the Commission, shall develop and maintain a nationwide database of racehorse safety, performance, health, and injury information for the purpose of conducting an epidemiological study.
 
 #### (B) Collection of information
 

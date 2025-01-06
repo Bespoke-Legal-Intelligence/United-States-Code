@@ -10,7 +10,7 @@
 | [8764\.](%C2%A7%2008764%20-%20Devices%20and%20trophies%20transfer%20to%20other%20agencies.md) | Devices and trophies: transfer to other agencies. |
 | [8765\.](%C2%A7%2008765%20-%20Obsolete%20material%20and%20articles%20of%20historical%20interest%20loan%20or%20gift.md) | Obsolete material and articles of historical interest: loan or gift. |
 | [8766\.](%C2%A7%2008766%20-%20Loan%20or%20gift%20of%20articles%20to%20ships%27%20sponsors%20and%20donors.md) | Loan or gift of articles to ships' sponsors and donors. |
-| [8767\.](%C2%A7%2008767%20-%20Equipment%20for%20instruction%20in%20seamanship%20loan%20to%20military%20schools.md) | Equipment for instruction in seamanship: loan to military schools. |
+| [8767\.](%C2%A7%2008767%20-%20Equipment%20for%20instruction%20in%20seamanship%20loan%20to%20military%20schools.md) | Equipment for instruction in seamanship: loan to military schools.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

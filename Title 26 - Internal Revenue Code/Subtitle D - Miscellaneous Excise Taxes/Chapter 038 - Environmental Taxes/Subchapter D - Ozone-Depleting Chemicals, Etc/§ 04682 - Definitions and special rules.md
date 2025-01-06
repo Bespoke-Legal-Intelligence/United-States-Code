@@ -52,7 +52,7 @@ For purposes of this subchapter, the term "ozone-depletion factor" means, with r
 | CFC–113 | 0\.8&nbsp;&nbsp; |
 | CFC–114 | 1\.0&nbsp;&nbsp; |
 | CFC–115 | 0\.6&nbsp;&nbsp; |
-| Halon-1211 | 3\.0&nbsp;&nbsp; |
+| Halon-1211 | 3\.0   |
 | Halon-1301 | 10\.0&nbsp;&nbsp; |
 | Halon-2402 | 6\.0&nbsp;&nbsp; |
 | Carbon tetrachloride | 1\.1&nbsp;&nbsp; |
@@ -98,7 +98,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(I) for a use by the purchaser which meets the requirements of clause (i), or
 
-&emsp;&emsp;&emsp;&emsp;(II) for resale by the purchaser to a second purchaser for a use by the secondpurchaser which meets the requirements of clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) for resale by the purchaser to a second purchaser for a use by the second purchaser which meets the requirements of clause (i).
 
 > &emsp;&emsp;Clause (ii) shall apply only if the manufacturer, producer, and importer, and the 1st and 2d purchasers (if any), meet such registration requirements as may be prescribed by the Secretary.
 
@@ -132,7 +132,7 @@ For purposes of this subchapter—
 
 #### (ii) 1986 export percentage
 
-&emsp;&emsp;&emsp;A person's 1986 export percentage is the percentage equal to the ozone-depletion factor adjusted pounds of ozone-depleting chemicals manufactured or produced by such person during 1986 which were exported during 1986, divided by the ozone-depletion factor adjusted pounds of all ozone-depleting chemicals manufactured or produced by such person during 1986. The percentage determined under the preceding sentence shall be computed by taking into account the sum of such person's direct 1986 exports (as determined by the Environmental Protection Agency) and such person's indirect 1986 exports (as allocated to such person by such Agency in determining such person's consumption and production rights for ozone-depleting chemicals).
+&emsp;&emsp;&emsp;A person's 1986 export percentage is the percentage equal to the ozone-depletion factor adjusted pounds of ozone-depleting chemicals manufactured or produced by such person during 1986 which were exported during 1986, divided by the ozone-depletion factor adjusted pounds of all ozone-depleting chemicals manufactured or produced by such person during 1986.The percentage determined under the preceding sentence shall be computed by taking into account the sum of such person's direct 1986 exports (as determined by the Environmental Protection Agency) and such person's indirect 1986 exports (as allocated to such person by such Agency in determining such person's consumption and production rights for ozone-depleting chemicals).
 
 #### (C) Separate application of limit for newly listed chemicals
 
@@ -228,7 +228,7 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L.102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### <b>Editorial Notes</b>
 

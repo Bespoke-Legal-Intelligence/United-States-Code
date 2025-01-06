@@ -8,7 +8,7 @@
 
 #### (2) Coordination
 
-&emsp;The Directors referred to in paragraph (1) shall jointly coordinate the programs referred to in such paragraph and consult with the Muscular Dystrophy Interagency Coordinating Committee established under section 6 of the MD–CARE Act.<sup>1</sup>
+&emsp;The Directors referred to in paragraph (1) shall jointly coordinate the programs referred to in such paragraph and consult with theMuscular Dystrophy Interagency Coordinating Committee established under section 6 of the MD–CARE Act.<sup>1</sup>
 
 #### (3) Allocations by Director of NIH
 
@@ -142,7 +142,7 @@ Subsec. (e)(2)(D). Pub. L. 113–166, §2(4)(B), inserted "and new clinical inte
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–361, §2(b)(1), inserted "the National Heart, Lung, and Blood Institute," after "the Eunice Kennedy Shriver National Institute of Child Health and Human Development,".
 
-Subsec. (b)(1). Pub. L. 110–361, §2(b)(2), inserted at end "Such centers of excellence shall be known as the 'Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers'."
+Subsec. (b)(1). Pub. L. 110–361, §2(b)(2), inserted at end "Such centers of excellence shall be known as the 'PaulD. Wellstone Muscular Dystrophy Cooperative Research Centers'."
 
 Subsec. (f). Pub. L. 110–361, §2(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to reports.
 

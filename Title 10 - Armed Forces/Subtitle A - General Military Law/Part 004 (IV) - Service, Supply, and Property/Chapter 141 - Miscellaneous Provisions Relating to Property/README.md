@@ -12,7 +12,8 @@
 | [2389\.](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md) | Ensuring safety regarding insensitive munitions. |
 | [2390\.](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md) | Prohibition on the sale of certain defense articles from the stocks of the Department of Defense. |
 | [2391\.](%C2%A7%2002391%20-%20Military%20base%20reuse%20studies%20and%20community%20planning%20assistance.md) | Military base reuse studies and community planning assistance. |
-| \[2392 to 2395. Renumbered.\] |  |
+| [2392\.](%C2%A7%2002392%20-%20Process%20for%20strategic%20basing%20actions%20for%20the%20Department%20of%20the%20Air%20Force.md) | Process for strategic basing actions for the Department of the Air Force. |
+| \[2393 to 2395. Renumbered.\] |  |
 | [2396\.](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20public%20utility%20services%2C%20and%20pay%20and%20supplies%E2%80%A6.md) | Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries. |
 | \[2397 to 2410s. Repealed, Renumbered, or Transferred.\] |  |
 
@@ -21,6 +22,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. B, title XXVIII, §2803(a), Dec. 23, 2024, 138 Stat. 2247, added item 2392. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4293, amended analysis generally, substituting items 2385 to 2396 for former items 2381 to 2410s, and directed amendment of chapter heading by substituting "PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS" which was executed by substituting "MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "MISCELLANEOUS PROCUREMENT PROVISIONS" to reflect the probable intent of Congress.
 
@@ -141,7 +144,7 @@ Certification.—Not later than 90 days after the date of the enactment of this 
 - [&sect; 02389 - Ensuring safety regarding insensitive munitions](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md)
 - [&sect; 02390 - Prohibition on the sale of certain defense articles from the stocks of the Department of Defense](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md)
 - [&sect; 02391 - Military base reuse studies and community planning assistance](%C2%A7%2002391%20-%20Military%20base%20reuse%20studies%20and%20community%20planning%20assistance.md)
-- [&sect; 02392 - Renumbered &sect;4653](%C2%A7%2002392%20-%20Renumbered%20%C2%A74653.md)
+- [&sect; 02392 - Process for strategic basing actions for the Department of the Air Force](%C2%A7%2002392%20-%20Process%20for%20strategic%20basing%20actions%20for%20the%20Department%20of%20the%20Air%20Force.md)
 - [&sect; 02393 - Renumbered &sect;4654](%C2%A7%2002393%20-%20Renumbered%20%C2%A74654.md)
 - [&sect; 02394 - Renumbered &sect;2922a](%C2%A7%2002394%20-%20Renumbered%20%C2%A72922a.md)
 - [&sect; 02394a - Renumbered &sect;2922b](%C2%A7%2002394a%20-%20Renumbered%20%C2%A72922b.md)

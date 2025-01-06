@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(2) According to data obtained by the Federal Bureau of Investigation, the incidence of such violence increased in 2019, the most recent year for which data is available.
 
-&emsp;(3) In 1990, Congress enacted the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) <sup>1</sup> to provide the Federal Government, law enforcement agencies, and the public with data regarding the incidence of hate crime. The Hate Crime Statistics Act and the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act (division E of PublicLaw 111–84; 123 Stat. 2835) <sup>1</sup> have enabled Federal authorities to understand and, where appropriate, investigate and prosecute hate crimes.
+&emsp;(3) In 1990, Congress enacted the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) <sup>1</sup> to provide the Federal Government, law enforcement agencies, and the public with data regarding the incidence of hate crime. The Hate Crime Statistics Act and the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act (division E of Public Law 111–84; 123 Stat. 2835) <sup>1</sup> have enabled Federal authorities to understand and, where appropriate, investigate and prosecute hate crimes.
 
 &emsp;(4) A more complete understanding of the national problem posed by hate crime is in the public interest and supports the Federal interest in eradicating bias-motivated violence referenced in section 249(b)(1)(C) of title 18.
 
@@ -216,7 +216,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) establishing a liaison with formal community-based organizations or leaders; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) conducting public meetings or educational forums on the impact of hate crime, services available to hate crime victims, and the relevant Federal, State, and local laws pertaining to hate crime; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) conducting public meetings or educational forums on the impact of hate crime, services available to hatecrime victims, and the relevant Federal, State, and local laws pertaining to hate crime; and
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of hate crime trainings for agency personnel, including the duration of the trainings, conducted by the agency during the reporting period.
 

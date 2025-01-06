@@ -66,6 +66,40 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 
 Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
 
+#### Expenditures on Leased Facilities and Real Property of the Department of Defense
+
+Pub. L. 118–159, div. B, title XXVIII, §2850, Dec. 23, 2024, 138 Stat. 2269, provided that:
+
+"(a)
+
+In General.—Not later than five years after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall reduce expenditures on facilities leased by the Department of Defense by 25 percent.
+
+"(b)
+
+Real Property Management.—The Secretary of Defense shall—
+
+&emsp;"(1) publish guidance with respect to—
+
+&emsp;&emsp;"(A) standards for maximum office space design for new construction, including space reconfigurations; and
+
+&emsp;&emsp;"(B) desired average occupancy standards for existing Department of Defense facilities;
+
+&emsp;"(2) validate utilization rates for existing office space owned or leased by the Department prior to approving significant land acquisitions for the Department; and
+
+&emsp;"(3) use building utilization rates to validate new construction requirements, including efforts of the Department with respect to reconfiguration.
+
+"(c)
+
+Annual Briefing.—Not later than March 31, 2025, and annually thereafter until 2027, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on—
+
+&emsp;"(1) the capacity of real property owned or leased by the Department of Defense;
+
+&emsp;"(2) the average utilization rates for such real property;
+
+&emsp;"(3) the size and cost of facilities leased by the Department; and
+
+&emsp;"(4) the plan of the Secretary to satisfy the requirement under subsection (a)."
+
 #### Prohibition on Display of Unapproved Flags
 
 Pub. L. 118–31, div. A, title X, §1052, Dec. 22, 2023, 137 Stat. 395, provided that:
@@ -162,7 +196,7 @@ Standards Required.—Beginning not later than one year after the date of the en
 
 &emsp;"(2) the minimum staffing requirement for any firefighting vehicle responding to a structural building emergency at a military installation is not less than four firefighters per vehicle; and
 
-&emsp;"(3) the minimum staffing requirement for any firefighting vehicle responding to an aircraft or airfieldincident at a military installation is not less than three firefighters per vehicle.
+&emsp;"(3) the minimum staffing requirement for any firefighting vehicle responding to an aircraft or airfield incident at a military installation is not less than three firefighters per vehicle.
 
 "(b)
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(G) specify the State agency or tribally designated official to be designated as responsible for the administration of programs and activities relating to family violence, domestic violence, and dating violence, that are carried out by the State or Indian tribe under this chapter, and for coordination of related programs within the jurisdiction of the State or Indian tribe;
 
-&emsp;&emsp;(H) provide an assurance that the State or Indian tribe has a law or procedure to bar an abuser from a shared household or a household of the abused person, which may include eviction laws or procedures, where appropriate; and
+&emsp;&emsp;(H) provide an assurance that the State or Indian tribe has a law or procedure to bar anabuser from a shared household or a household of the abused person, which may include eviction laws or procedures, where appropriate; and
 
 &emsp;&emsp;(I) meet such requirements as the Secretary reasonably determines are necessary to carry out the objectives and provisions of this chapter.
 

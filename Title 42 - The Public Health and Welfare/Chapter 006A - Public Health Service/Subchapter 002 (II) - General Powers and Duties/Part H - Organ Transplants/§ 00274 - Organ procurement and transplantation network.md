@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide for the continued operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b). The Secretary mayaward grants, contracts, or cooperative agreements, as the Secretary determines appropriate, for purposes of carrying out this section.
+The Secretary shall provide for the continued operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b). The Secretary may award grants, contracts, or cooperative agreements, as the Secretary determines appropriate, for purposes of carrying out this section.
 
 #### (b) Composition
 
@@ -68,7 +68,7 @@ Clarification.—In adopting and using standards of quality under paragraph (2)(
 
 The Secretary shall establish procedures for—
 
-&emsp;(1) receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
+&emsp;(1) receiving from interested persons critical comments relating to the manner in which theOrgan Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
@@ -78,7 +78,7 @@ The Secretary shall establish procedures for—
 
 #### Prior Provisions
 
-A prior section 274, act July 1, 1944, ch. 373, title III, §372, as added July 28, 1956, ch. 772, title II, §201, 70Stat. 710; amended June 25, 1959, Pub. L. 86–70, §31(b)(2)–(4), 73 Stat. 148, related to grants to Alaska for a mental health program and payment for construction of hospital facilities, prior to the general revision of this part by section 201 of Pub. L. 98–507.
+A prior section 274, act July 1, 1944, ch. 373, title III, §372, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 710; amended June 25, 1959, Pub. L. 86–70, §31(b)(2)–(4), 73 Stat. 148, related to grants to Alaska for a mental health program and payment for construction of hospital facilities, prior to the general revision of this part by section 201 of Pub. L. 98–507.
 
 Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, §1, 70 Stat. 960, which related to functions of National Library of Medicine, was renumbered section 382 and classified to section 276 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
@@ -148,5 +148,5 @@ In General.—The Secretary of Health and Human Services shall request that the 
 
 "(b)
 
-Limitation on Funding.—The increase provided for in the amendment made by section 2 \[amending this section\] shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act \[Oct. 15, 2008\] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a)."
+Limitation on Funding.—The increase provided for in the amendment made by section 2 \[amending this section\] shall not apply with respect to contracts entered into under section 372(a) of the Public HealthService Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act \[Oct. 15, 2008\] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a)."
 

@@ -14,3 +14,4 @@
 - [&sect; 00527 - Abandonment, destruction, or donation of property](%C2%A7%2000527%20-%20Abandonment%2C%20destruction%2C%20or%20donation%20of%20property.md)
 - [&sect; 00528 - Utilization of excess furniture](%C2%A7%2000528%20-%20Utilization%20of%20excess%20furniture.md)
 - [&sect; 00529 - Annual executive agency reports on excess personal property](%C2%A7%2000529%20-%20Annual%20executive%20agency%20reports%20on%20excess%20personal%20property.md)
+- [&sect; 00530 - Internal guidance on excess personal property](%C2%A7%2000530%20-%20Internal%20guidance%20on%20excess%20personal%20property.md)

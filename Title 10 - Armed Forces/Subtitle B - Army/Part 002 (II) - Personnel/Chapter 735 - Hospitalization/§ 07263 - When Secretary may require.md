@@ -2,7 +2,7 @@
 
 The Secretary of the Army may order the hospitalization, medical and surgical treatment, and domiciliary care, for as long as necessary, of any member of the Army on active duty, and may incur obligations with respect thereto, whether or not the member incurred an injury, illness, or disease in line of duty, except in the case of a member treated in a private hospital, or by a civilian physician, while on leave of absence for more than 24 hours.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 215, §3723; Pub. L. 99–661, div. A, title VI, §604(f)(1)(D), Nov. 14, 1986, 100 Stat. 3878; Pub. L. 100–180, div. A, title XII, §1231(16), Dec. 4, 1987, 101 Stat. 1161; renumbered §7263, Pub. L. 115–232, div. A, title VIII, §808(b)(10), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 215, §3723; Pub. L. 99–661, div. A, title VI, §604(f)(1)(D), Nov. 14,1986, 100 Stat. 3878; Pub. L. 100–180, div. A, title XII, §1231(16), Dec. 4, 1987, 101 Stat. 1161; renumbered §7263, Pub. L. 115–232, div. A, title VIII, §808(b)(10), Aug. 13, 2018, 132 Stat. 1838.)
 
 Historical and Revision Notes
 

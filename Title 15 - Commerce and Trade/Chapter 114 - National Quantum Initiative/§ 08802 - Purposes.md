@@ -10,7 +10,7 @@ The purpose of this chapter is to ensure the continued leadership of the United 
 
 &emsp;&emsp;(C) to address basic research knowledge gaps, including computational research gaps;
 
-&emsp;&emsp;(D) to promote the further development of facilities and centers available for quantum information science and technology research, testing and education; and
+&emsp;&emsp;(D) to promote the further development of facilities and centers available for quantuminformation science and technology research, testing and education; and
 
 &emsp;&emsp;(E) to stimulate research on and promote more rapid development of quantum-based technologies;
 

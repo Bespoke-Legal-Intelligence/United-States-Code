@@ -6,7 +6,7 @@ On entry into force of the Convention for the United States, a vessel of at leas
 
 #### (b) Content of declaration
 
-The declaration must contain a clear statement that the antifouling system on the vessel complies with the Convention. The Secretary may prescribe the form and other requirements of the declaration.
+The declaration must contain a clear statement that the antifouling system on the vesselcomplies with the Convention. The Secretary may prescribe the form and other requirements of the declaration.
 
 (Pub. L. 111–281, title X, §1022, Oct. 15, 2010, 124 Stat. 3026.)
 

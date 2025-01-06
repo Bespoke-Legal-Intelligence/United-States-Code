@@ -6,7 +6,7 @@
 
 &emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—
 
-&emsp;&emsp;(A) the average outstanding insured obligations issued by the bank for the calendar year, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in paragraph (2), multiplied by 0.0020; and
+&emsp;&emsp;(A) the average outstanding insured obligations issued by the bank for the calendaryear, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in paragraph (2), multiplied by 0.0020; and
 
 &emsp;&emsp;(B) the product obtained by multiplying—
 
@@ -80,7 +80,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;(1) all loans or investments made by any production credit association, or any other association making direct loans under authority provided under section 2279b of this title, that is able to make such loans or investments because such association is receiving, or has received, funds provided through the insured System bank;
 
-&emsp;(2) all loans or investments made by any bank, company, institution, corporation, union, or association described in section 2015(b)(1)(B) of this title, that is able to make such loans or investments because such entity is receiving, or has received, funds provided through the insured System bank; and
+&emsp;(2) all loans or investments made by any bank, company, institution, corporation, union, or association described in section2015(b)(1)(B) of this title, that is able to make such loans or investments because such entity is receiving, or has received, funds provided through the insured System bank; and
 
 &emsp;(3) all loans or investments made by such insured System bank (other than loans made to any party described in paragraph (1) or (2)).
 
@@ -130,7 +130,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporationstock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 107–171 applicable with respect to determinations of prem
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System InsuranceCorporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1988 Amendment
 

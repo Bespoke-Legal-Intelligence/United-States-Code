@@ -78,7 +78,7 @@ The Secretary shall establish a program to demonstrate the technical and economi
 
 #### (4) Project selection
 
-&emsp;The Secretary shall solicit proposals for clean energy projects and select clean energy project finalists in consultation with the Secretary of the Interior, the Administrator of the Environmental Protection Agency, and the Secretary of Labor.
+&emsp;The Secretary shall solicit proposals for clean energy projects and select clean energyproject finalists in consultation with the Secretary of the Interior, the Administrator of the Environmental Protection Agency, and the Secretary of Labor.
 
 #### (5) Compatibility with existing operations
 
@@ -114,5 +114,5 @@ The Mining Law of 1872, referred to in subsec. (a)(3)(B), is act May 10, 1872, c
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or anamendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

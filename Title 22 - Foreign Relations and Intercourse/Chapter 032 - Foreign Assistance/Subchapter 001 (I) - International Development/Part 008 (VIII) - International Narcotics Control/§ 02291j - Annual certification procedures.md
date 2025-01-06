@@ -4,7 +4,7 @@
 
 #### (1) Bilateral assistance
 
-&emsp;Fifty percent of the United States assistance allocated each fiscal year in the report required by section 2413 of this title for each major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title shall be withheld from obligation and expenditure, except as provided in subsection (b). This paragraph shall not apply with respect to a country if the President determines that its application to that country would be contrary to the national interest of the United States, except that any such determination shall not take effect until at least 15 days after the President submits written notification of that determination to the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+&emsp;Fifty percent of the United States assistance allocated each fiscal year in the report required by section 2413 of this title for each major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title shall be withheld from obligation and expenditure, except asprovided in subsection (b). This paragraph shall not apply with respect to a country if the President determines that its application to that country would be contrary to the national interest of the United States, except that any such determination shall not take effect until at least 15 days after the President submits written notification of that determination to the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
 #### (2) Multilateral assistance
 
@@ -50,7 +50,7 @@ Subsection (e) shall apply if, within 30 calendar days after receipt of a certif
 
 If the President does not make a certification under subsection (b) with respect to a country or the Congress enacts a joint resolution disapproving such certification, then until such time as the conditions specified in subsection (f) are satisfied—
 
-&emsp;(1) funds may not be obligated for United States assistance for that country, and funds previously obligated for United States assistance for that country may not be expended for the purpose of providing assistance for that country; and
+&emsp;(1) funds may not be obligated for United States assistance for that country, and funds previously obligated for United States assistance for that country may not be expended forthe purpose of providing assistance for that country; and
 
 &emsp;(2) the requirement to vote against multilateral development bank assistance pursuant to subsection (a)(2) shall apply with respect to that country, without regard to the date specified in that subsection.
 
@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 103–447, §101(g)(1)(D), substituted "that such country m
 
 Subsec. (d). Pub. L. 103–447, §101(g)(1)(E), substituted "30 calendar days" for "45 calendar days".
 
-Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted "Senate procedures" for "Congressional review procedures" in heading, struck out designation and headingof par. (1), and struck out heading and text of par. (2). Text read as follows: "For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives."
+Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted "Senate procedures" for "Congressional review procedures" in heading, struck out designation and heading of par. (1), and struck out heading and text of par. (2). Text read as follows: "For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives."
 
 Subsec. (h). Pub. L. 103–447, §101(g)(1)(G), struck out "for fiscal years 1993 and 1994" after "drug producing countries" in heading and substituted "November 1" for "January 1" in text.
 
@@ -124,7 +124,7 @@ Subsec. (i). Pub. L. 103–447, §101(g)(1)(H), amended heading and text of subs
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Certification for Major Illicit Drug Producing and Drug Transit Countries
 

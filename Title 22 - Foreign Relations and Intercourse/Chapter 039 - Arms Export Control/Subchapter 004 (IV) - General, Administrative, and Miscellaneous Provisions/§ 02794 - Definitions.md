@@ -20,7 +20,7 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(D) any component or part of any article listed in this paragraph,
 
-> &emsp;but does not include merchant vessels or (as defined by the Atomic Energy Act of 1954 \[42U.S.C. 2011 et seq.\]) source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), byproduct material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data;
+> &emsp;but does not include merchant vessels or (as defined by the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]) source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), byproduct material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data;
 
 &emsp;(4) "defense service", except as provided in paragraph (7) of this section, means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States, any service, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
 
@@ -28,7 +28,7 @@ For purposes of this chapter, the term—
 
 &emsp;(6) "major defense equipment" means any item of significant military equipment on the United States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
 
-&emsp;(7) "defense articles and defense services" means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
+&emsp;(7) "defense articles and defense services" means, with respect to commercial exportssubject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
 
 &emsp;(8) "design and construction services" means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency;
 

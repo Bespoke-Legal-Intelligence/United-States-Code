@@ -34,7 +34,7 @@ This Act, referred to in subsec. (a), is Pub. L. 107–84, Dec. 18, 2001, 115 St
 
 #### Codification
 
-Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and Education Amendments of 2001, also known as the MD–CARE Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and Education Amendments of 2001, also known as the MD–CARE Act,and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 

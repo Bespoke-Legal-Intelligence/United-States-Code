@@ -28,6 +28,204 @@ In this section, before clause (1), the words "and from time to time revise" are
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Low Lead Aviation Fuel in Alaska
+
+Pub. L. 118–63, title VII, §771(a), May 16, 2024, 138 Stat. 1296, provided that:
+
+"(1)
+
+Prohibition on restriction of fuel usage or availability.—The Administrator of the Federal Aviation Administration and the Administrator of the Environmental Protection Agency shall not restrict the continued use or availability of 100-octane low lead aviation gasoline in the State of Alaska until the earlier of—
+
+&emsp;"(A) December 31, 2032; or
+
+&emsp;"(B) 6 months after the date on which the Administrator of the Federal Aviation Administration finds that an unleaded aviation fuel is widely commercially available at airports throughout the State of Alaska that—
+
+&emsp;&emsp;"(i) has been authorized for use by the Administrator of the Federal Aviation Administration as a replacement for 100-octane low lead aviation gasoline; and
+
+&emsp;&emsp;"(ii) meets either an industry consensus standard or other standard that facilitates and ensures the safe use, production, and distribution of such unleaded aviation fuel.
+
+"(2)
+
+Savings clause.—Nothing in this section shall limit the authority of the Administrator of the Federal Aviation Administration or the Administrator of the Environmental Protection Agency to address the endangerment to public health and welfare posed by lead emissions—
+
+&emsp;"(A) in the United States outside of the State of Alaska; or
+
+&emsp;"(B) within the State of Alaska after the date specified in paragraph (1)."
+
+#### Eagle Initiative
+
+Pub. L. 118–63, title VIII, §827, May 16, 2024, 138 Stat. 1333, provided that:
+
+"(a)
+
+EAGLE Initiative.—
+
+&emsp;"(1)
+
+In general.—The Administrator \[of the Federal Aviation Administration\] shall continue to partner with industry and other Federal Government stakeholders in carrying out the Eliminate Aviation Gasoline Lead Emissions Initiative (in this section referred to as the 'EAGLE Initiative') through the end of 2030.
+
+&emsp;"(2)
+
+FAA \[Federal Aviation Administration\] responsibilities.—In collaborating with industry and other Government stakeholders to carry out the EAGLE Initiative, the Administrator shall take such actions as may be necessary under the authority of the Administrator to facilitate—
+
+&emsp;&emsp;"(A) the safe elimination of the use of leaded aviation gasoline by piston-engine aircraft by the end of 2030 without adversely affecting the safe and efficient operation of the piston-engine aircraft fleet;
+
+&emsp;&emsp;"(B) the approval of the use of unleaded alternatives to leaded aviation gasoline for use in all piston-engine aircraft types and piston-engine models;
+
+&emsp;&emsp;"(C) the implementation of the requirements of section 47107(a)(22) of title 49, United States Code, as added by this Act, as such requirements relate to the continued availability of aviation gasoline;
+
+&emsp;&emsp;"(D) efforts to make unleaded aviation gasoline that is approved for use in piston-engine aircraft and engines widely available for purchase and use at airports in the National Plan of Integrated Airport Systems; and
+
+&emsp;&emsp;"(E) the development of a transition plan to safely enable the transition of the piston-engine general aviation aircraft fleet to unleaded aviation gasoline by 2030, to the extent practicable.
+
+&emsp;"(3)
+
+Activities.—In carrying out the responsibilities of the Administrator pursuant to paragraph (2), the Administrator shall, at a minimum—
+
+&emsp;&emsp;"(A) maintain a fleet authorization process for the efficient approval or authorization of eligible piston-engine aircraft and engine models to operate safely using qualified unleaded aviation gasolines;
+
+&emsp;&emsp;"(B) review, update, and prioritize, as soon as practicable, certification processes and projects, as necessary, for aircraft engines and modifications to such engines to operate with unleaded aviation gasoline;
+
+&emsp;&emsp;"(C) seek to facilitate programs that accelerate the creation, evaluation, qualification, deployment, and use of unleaded aviation gasolines;
+
+&emsp;&emsp;"(D) carry out, in partnership with the general aviation community, an ongoing campaign for training and educating aircraft owners and operators on how to safely transition to unleaded aviation gasoline;
+
+&emsp;&emsp;"(E) evaluate aircraft and aircraft engines to ensure that such aircraft and aircraft engines can safely operate with unleaded aviation gasoline candidates during cold weather conditions; and
+
+&emsp;&emsp;"(F) facilitate the development of agency policies and processes, as appropriate, to support the deployment of necessary infrastructure at airports to enable the distribution and storage of unleaded aviation gasolines.
+
+&emsp;"(4)
+
+Consultation and collaboration with relevant stakeholders.—In carrying out the EAGLE Initiative, the Administrator shall continue to consult and collaborate, as appropriate, with relevant stakeholders, including—
+
+&emsp;&emsp;"(A) general aviation aircraft engine, aircraft propulsion, and aircraft airframe manufacturers;
+
+&emsp;&emsp;"(B) general aviation aircraft users, aircraft owners, aircraft pilots, and aircraft operators;
+
+&emsp;&emsp;"(C) airports and fixed-base operators;
+
+&emsp;&emsp;"(D) State, local, and Tribal aviation officials;
+
+&emsp;&emsp;"(E) representatives of the petroleum industry, including developers, refiners, producers, and distributors of unleaded aviation gasolines; and
+
+&emsp;&emsp;"(F) air carriers and commercial operators operating under part 135 of title 14, Code of Federal Regulations.
+
+&emsp;"(5)
+
+Report to congress.—
+
+&emsp;&emsp;"(A)
+
+Initial report.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report that—
+
+&emsp;&emsp;&emsp;"(i) contains an updated strategic plan for maintaining a fleet authorization process for the efficient approval and authorization of eligible piston-engine aircraft and engine models to operate using unleaded aviation gasolines in a manner that ensures safety;
+
+&emsp;&emsp;&emsp;"(ii) describes the structure and involvement of all FAA offices that have responsibilities described in paragraph (2); and
+
+&emsp;&emsp;&emsp;"(iii) identifies policy initiatives, regulatory initiatives, or legislative initiatives needed to improve and enhance the timely and safe transition to unleaded aviation gasoline for the piston-engine aircraft fleet.
+
+&emsp;&emsp;"(B)
+
+Annual briefing.—Not later than 1 year after the date on which the Administrator submits the initial report under subparagraph (A), and annually thereafter through 2030, the Administrator shall brief the appropriate committees of Congress on activities and progress of the EAGLE Initiative.
+
+&emsp;&emsp;"(C)
+
+Sunset.—Subparagraph (B) shall cease to be effective after December 31, 2030.
+
+"(b)
+
+Transition Plan to Unleaded Aviation Gasoline.—
+
+&emsp;"(1)
+
+In general.—In developing the transition plan under subsection (a)(2)(E), the Administrator may, at a minimum, assess the following:
+
+&emsp;&emsp;"(A) Efforts undertaken by the EAGLE Initiative, including progress towards—
+
+&emsp;&emsp;&emsp;"(i) safely eliminating the use of leaded aviation gasoline by piston-engine aircraft by the end of 2030 without adversely affecting the safe and efficient operation of the piston-engine aircraft fleet;
+
+&emsp;&emsp;&emsp;"(ii) approving the use of unleaded alternatives to leaded aviation gasoline for use in all piston-engine aircraft types and piston-engine models; and
+
+&emsp;&emsp;&emsp;"(iii) facilitating efforts to make approved unleaded aviation gasoline that is approved for use in piston-engine aircraft and engines widely available at airports for purchase and use in the National Plan of Integrated Airport Systems.
+
+&emsp;&emsp;"(B) The evaluation and development of necessary airport infrastructure, including fuel storage and dispensing facilities, to support the distribution and storage of unleaded aviation gasoline.
+
+&emsp;&emsp;"(C) The establishment of best practices for piston-engine aircraft owners and operators, airport operators and personnel, aircraft maintenance technicians, and other appropriate personnel for protecting against exposure to lead containment when—
+
+&emsp;&emsp;&emsp;"(i) conducting fueling operations;
+
+&emsp;&emsp;&emsp;"(ii) disposing of inspected gasoline samples;
+
+&emsp;&emsp;&emsp;"(iii) performing aircraft maintenance; and
+
+&emsp;&emsp;&emsp;"(iv) conducting engine run-ups.
+
+&emsp;&emsp;"(D) Efforts to address supply chain and other logistical barriers inhibiting the timely distribution of unleaded aviation gasoline to airports.
+
+&emsp;&emsp;"(E) Outreach efforts to educate and update piston-engine aircraft owners and operators, airport operators, and other members of the general aviation community on the potential benefits, availability, and safety of unleaded aviation gasoline.
+
+&emsp;"(2)
+
+Publication; guidance.—Upon completion of developing such transition plan, the Administrator shall—
+
+&emsp;&emsp;"(A) make the plan available to the public on an appropriate website of the FAA; and
+
+&emsp;&emsp;"(B) provide guidance supporting the implementation of the transition plan.
+
+&emsp;"(3)
+
+Collaboration with eagle initiative.—In supporting the development of such transition plan and issuing associated guidance pertaining to the implementation of such transition plan, the Administrator shall consult and collaborate with individuals carrying out the EAGLE Initiative.
+
+&emsp;"(4)
+
+Unleaded aviation gasoline communication materials.—The Administrator may collaborate with individuals carrying out the EAGLE Initiative to jointly develop and continuously update websites, brochures, and other communication materials associated with such transition plan to clearly convey the availability of unleaded aviation gasoline at airports.
+
+&emsp;"(5)
+
+Briefing to congress.—Not later than 60 days after the publication of such transition plan, the Administrator shall brief the appropriate committees of Congress on such transition plan and any agency efforts or actions pertaining to the implementation of such transition plan.
+
+&emsp;"(6)
+
+Savings clause.—Nothing in this section shall be construed to delay or alter the ongoing work of the EAGLE Initiative established by the Administrator in 2022."
+
+#### Limitations for Certain Cargo Aircraft
+
+Pub. L. 118–63, title XI, §1105, May 16, 2024, 138 Stat. 1416, provided that:
+
+"(a)
+
+In General.—The standards adopted by the Administrator of the Environmental Protection Agency in part 1030 of title 40, Code of Federal Regulations, and the requirements in part 38 of title 14, Code of Federal Regulations, that were finalized by the Administrator of the FAA \[Federal Aviation Administration\] under the final rule titled 'Airplane Fuel Efficiency Certification', and published on February 16, 2024 (89 Fed. Reg. 12634) in part 38 of title 14, Code of Federal Regulations, shall not apply to any covered airplane before the date that is 5 years after January 1, 2028.
+
+"(b)
+
+Operational Limitation.—The Administrator \[of the Federal Aviation Administration\] shall limit to domestic use or international operations, consistent with relevant international agreements and standards, the operation of any covered airplane that—
+
+&emsp;"(1) does not meet the standards and requirements described in subsection (a); and
+
+&emsp;"(2) received an original certificate of airworthiness issued by the Administrator on or after January 1, 2028.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered airplane.—The term 'covered airplane' means an airplane that—
+
+&emsp;&emsp;"(A) is a subsonic jet that is a purpose-built freighter;
+
+&emsp;&emsp;"(B) has a maximum takeoff mass greater than 180,000 kilograms but not greater than 240,000 kilograms; and
+
+&emsp;&emsp;"(C) has a type design certificated prior to January 1, 2023.
+
+&emsp;"(2)
+
+Purpose-built freighter.—The term 'purpose-built freighter' means any airplane that—
+
+&emsp;&emsp;"(A) was configured to carry cargo rather than passengers prior to receiving an original certificate of airworthiness; and
+
+&emsp;&emsp;"(B) is configured to carry cargo rather than passengers."
+
 #### Aviation Fuel
 
 Pub. L. 115–254, div. B, title V, §565, Oct. 5, 2018, 132 Stat. 3385, provided that:
@@ -52,5 +250,5 @@ Timing.—The Administrator shall adopt the process described in subsection (a)(
 
 "(c)
 
-Type Certification.—Existing regulatory mechanisms by which an unleaded aviation gasoline can be approved for use in an engine or aircraft by Type or Supplemental Type Certificate for individual aircraftand engine types or by Approved Model List Supplemental Type Certificate providing coverage for a broad range of applicable types of aircraft or engines identified in the application shall continue to be fully available as a means of approving and bringing an unleaded aviation gasoline into general use in the United States. Such approvals shall be issued when the Administrator finds that the aircraft or engine performs properly and meets the applicable regulations and minimum standards under the normal certification process."
+Type Certification.—Existing regulatory mechanisms by which an unleaded aviation gasoline can be approved for use in an engine or aircraft by Type or Supplemental Type Certificate for individual aircraft and engine types or by Approved Model List Supplemental Type Certificate providing coverage for a broad range of applicable types of aircraft or engines identified in the application shall continue to be fully available as a means of approving and bringing an unleaded aviation gasoline into general use in the United States. Such approvals shall be issued when the Administrator finds that the aircraft or engine performs properly and meets the applicable regulations and minimum standards under the normal certification process."
 

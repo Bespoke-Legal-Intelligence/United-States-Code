@@ -14,7 +14,7 @@ The failure of potato producers and importers to approve an amendment to any pla
 
 #### (d) Penalties for disclosure of confidential information, ballots and reports
 
-The ballots and other information or reports which reveal or tend to reveal the vote of anyproducer or his production of potatoes, or any importer or the volume of potatoes imported by such importer, shall be held strictly confidential and shall not be disclosed. Any officer or employee of the Department of Agriculture violating the provisions hereof shall upon conviction be subject to the penalties provided in section 2619(c) of this title.
+The ballots and other information or reports which reveal or tend to reveal the vote of any producer or his production of potatoes, or any importer or the volume of potatoes imported by such importer, shall be held strictly confidential and shall not be disclosed. Any officer or employee of the Department of Agriculture violating the provisions hereof shall upon conviction be subject to the penalties provided in section 2619(c) of this title.
 
 (Pub. L. 91–670, title III, §314, Jan. 11, 1971, 84 Stat. 2046; Pub. L. 97–244, §4, Aug. 26, 1982, 96 Stat. 311; Pub. L. 101–624, title XIX, §1944, Nov. 28, 1990, 104 Stat. 3868.)
 
@@ -36,5 +36,5 @@ Subsec. (d). Pub. L. 101–624, §1944(4), inserted ", or any importer or the v
 
 #### Construction of 1982 Referendum on Amendments to Plan
 
-Pub. L. 98–171, §2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: "The failure of potato producers in December 1982 to approve amendments to the plan issued under this title \[probably means title III of Pub. L. 91–670 which is classified to this chapter\] shall not be deemed to invalidate the plan."
+Pub. L. 98–171, §2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: "The failure of potato producers in December 1982 to approve amendments to the plan issuedunder this title \[probably means title III of Pub. L. 91–670 which is classified to this chapter\] shall not be deemed to invalidate the plan."
 

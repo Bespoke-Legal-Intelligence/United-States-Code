@@ -10,7 +10,7 @@ Precautions by Military Judges.—
 
 &emsp;(1)
 
-Precautions in admitting classified information into evidence.—The military judge in a trial by military commission, in order to prevent unnecessary disclosure of classified information, may order admission into evidence of only part of a writing, recording, or photograph, or may order admission into evidence of the whole writing, recording, or photograph with excision of some or all of the classified information contained therein, unless the whole ought in fairness be considered.
+Precautions in admitting classified information into evidence.—The military judge in a trial by military commission, in order to prevent unnecessary disclosure of classified information, may order admission into evidenceof only part of a writing, recording, or photograph, or may order admission into evidence of the whole writing, recording, or photograph with excision of some or all of the classified information contained therein, unless the whole ought in fairness be considered.
 
 &emsp;(2)
 

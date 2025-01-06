@@ -20,7 +20,7 @@ To be eligible to receive financial assistance under subsection (b), an eligible
 
 #### (d) Priority
 
-In providing financial assistance under subsection (b), the Secretary shall give priority consideration to projects on the basis of, as determined by the Secretary—
+In providing financial assistance under subsection (b), the Secretary shall give priorityconsideration to projects on the basis of, as determined by the Secretary—
 
 &emsp;(1) the expected greenhouse gas emissions reductions to be achieved by carrying out the project;
 
@@ -70,7 +70,7 @@ Section was enacted as part of Pub. L. 117–169, and not as part of the Energy 
 
 Pub. L. 117–169, title V, §50111, Aug. 16, 2022, 136 Stat. 2033, provided that:
 
-"In this subtitle \[subtitle A (§§50111–50173) of title V of Pub. L. 117–169, enacting this section, sections 16517, 18715 to 18715b, and 18795 to 18795b of this title, andamending sections 16511, 16512, and 17013 of this title and section 3502 of Title 25, Indians\]:
+"In this subtitle \[subtitle A (§§50111–50173) of title V of Pub. L. 117–169, enacting this section, sections 16517, 18715 to 18715b, and 18795 to 18795b of this title, and amending sections 16511, 16512, and 17013 of this title and section 3502 of Title 25, Indians\]:
 
 &emsp;"(1)
 

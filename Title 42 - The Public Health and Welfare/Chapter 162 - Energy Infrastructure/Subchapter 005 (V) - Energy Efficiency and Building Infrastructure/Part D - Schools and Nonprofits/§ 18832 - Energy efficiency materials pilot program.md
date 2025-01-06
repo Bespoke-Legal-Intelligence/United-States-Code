@@ -12,7 +12,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "energy-efficiency material" means a material (including a product, equipment, or system) the installation of which results in a reduction in use by a nonprofit organization of energy or fuel.
+&emsp;&emsp;The term "energy-efficiency material" means a material (including a product,equipment, or system) the installation of which results in a reduction in use by a nonprofit organization of energy or fuel.
 
 #### (B) Inclusions
 

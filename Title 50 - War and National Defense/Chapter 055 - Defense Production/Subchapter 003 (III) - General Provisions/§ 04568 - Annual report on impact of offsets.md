@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(D) a summary of offset arrangements concluded during the reporting period for which information has been furnished pursuant to subsection (c); and
 
-&emsp;&emsp;(E) a summary and analysis of any bilateral and multilateral negotiations relating to the use of offsets completed during the reporting period.
+&emsp;&emsp;(E) a summary and analysis of any bilateral and multilateral negotiations relatingto the use of offsets completed during the reporting period.
 
 #### (2) Alternative findings or recommendations
 
@@ -272,7 +272,7 @@ Period of Appointment; Vacancies.—Members shall be appointed for the life of t
 
 "(f)
 
-Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
+Initial Meeting.—Not later than 30 days after the date on which all members of the Commission havebeen appointed, the Commission shall hold its first meeting.
 
 "(g)
 
@@ -412,7 +412,7 @@ Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department
 
 (c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
 
-(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) ofPublic Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
+(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) of Public Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
 
 \[
 

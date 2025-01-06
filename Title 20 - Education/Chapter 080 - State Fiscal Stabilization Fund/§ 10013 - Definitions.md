@@ -8,7 +8,7 @@ Except as otherwise provided in this chapter, as used in this chapter—
 
 &emsp;&emsp;(A) that serves not fewer than 10,000 children from families with incomes below the poverty line; or
 
-&emsp;&emsp;(B) for which not less than 20 percent of the children served by the agency are from families with incomes below the poverty line;
+&emsp;&emsp;(B) for which not less than 20 percent of the children served by the agency are fromfamilies with incomes below the poverty line;
 
 &emsp;(3) the term "institution of higher education" has the meaning given such term in section 1001 of this title;
 

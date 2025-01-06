@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(D) support research and development to aid in the qualification of advanced fuels, including fabrication techniques;
 
-&emsp;&emsp;(E) support activities that address near-term challenges in modeling and simulation to enable accelerated design of and licensing of advanced nuclear reactors, including the identification of tools and methodologies for validating such modeling and simulation efforts;
+&emsp;&emsp;(E) support activities that address near-term challenges in modeling and simulation to enable accelerated design of and licensing of advanced nuclear reactors, including theidentification of tools and methodologies for validating such modeling and simulation efforts;
 
 &emsp;&emsp;(F) develop technologies, including technologies to manage, reduce, or reuse nuclear waste;
 
@@ -124,7 +124,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a program of research, development, demonstration, andcommercial application to develop nuclear integrated energy systems, composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies and in which not less than 1 such subsystem is a nuclear energy system, to—
+&emsp;The Secretary shall carry out a program of research, development, demonstration, and commercial application to develop nuclear integrated energy systems, composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies and in which not less than 1 such subsystem is a nuclear energy system, to—
 
 &emsp;&emsp;(A) reduce greenhouse gas emissions in both the power and nonpower sectors; and
 

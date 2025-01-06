@@ -96,7 +96,7 @@ Pub. L. 116–283, div. A, title V, §578, Jan. 1, 2021, 134 Stat. 3649, provide
 
 Study on Performance Measures.—The Secretary of Defense shall conduct a study to determine additional performance measures to evaluate the effectiveness of the Credentialing Opportunities On-Line programs (in this section referred to as the 'COOL programs') of each Armed Force in connecting members of the Armed Forces with professional credential programs. The study shall include the following:
 
-&emsp;"(1) The percentage of members of the Armed Force concerned described in section 1142(a) of title 10, United States Code, who participate in a professionalcredential program through the COOL program of the Armed Force concerned.
+&emsp;"(1) The percentage of members of the Armed Force concerned described in section 1142(a) of title 10, United States Code, who participate in a professional credential program through the COOL program of the Armed Force concerned.
 
 &emsp;"(2) The percentage of members of the Armed Force concerned described in paragraph (1) who have completed a professional credential program described in that paragraph.
 
@@ -226,7 +226,7 @@ Construction of Authorities.—Nothing in this section may be construed to—
 
 &emsp;"(1) authorize an officer or employee of the Federal Government to create, endorse, or otherwise incentivize a particular curriculum or degree track; or
 
-&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content, curriculum, and related activities of a State or educational institution."
+&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content,curriculum, and related activities of a State or educational institution."
 
 #### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
 

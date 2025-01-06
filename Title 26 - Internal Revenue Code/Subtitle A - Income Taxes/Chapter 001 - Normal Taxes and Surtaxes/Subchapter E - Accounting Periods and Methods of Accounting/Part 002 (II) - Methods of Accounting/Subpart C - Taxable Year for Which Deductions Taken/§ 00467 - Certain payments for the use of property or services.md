@@ -164,11 +164,11 @@ Under regulations prescribed by the Secretary, rules comparable to the rules of 
 
 #### (g) Comparable rules for services
 
-Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to whichsection 404 or 404A (or any other provision specified in regulations) applies.
+Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.
 
 #### (h) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposesof this section, including regulations providing for the application of this section in the case of contingent payments.
 
 (Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
 

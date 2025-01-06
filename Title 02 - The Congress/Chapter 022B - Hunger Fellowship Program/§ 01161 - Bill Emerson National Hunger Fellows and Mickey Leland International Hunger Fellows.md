@@ -78,7 +78,7 @@ In this subsection: <sup>1</sup>
 
 #### (A) In general
 
-&emsp;&emsp;The Fellowship Programs shall provide experience and training to develop the skills necessary to train fellows to carry out the purposes described in subsection (c)(2), including—
+&emsp;&emsp;The Fellowship Programs shall provide experience and training to develop the skills necessary to train fellows to carry out thepurposes described in subsection (c)(2), including—
 
 &emsp;&emsp;&emsp;(i) training in direct service programs for the hungry and other anti-hunger programs in conjunction with community-based organizations through a program of field placement; and
 
@@ -190,7 +190,7 @@ There are authorized to be appropriated to the Secretary such sums as are necess
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

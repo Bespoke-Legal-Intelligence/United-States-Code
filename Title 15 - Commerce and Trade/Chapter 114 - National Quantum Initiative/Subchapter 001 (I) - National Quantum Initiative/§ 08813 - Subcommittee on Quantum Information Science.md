@@ -44,7 +44,7 @@ The Subcommittee shall—
 
 &emsp;(5) assess the global outlook for quantum information science research and development efforts;
 
-&emsp;(6) evaluate opportunities for international cooperation with strategic allies on researchand development in quantum information science and technology; and
+&emsp;(6) evaluate opportunities for international cooperation with strategic allies on research and development in quantum information science and technology; and
 
 &emsp;(7) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced quantum information science research portfolio and an appropriate level of research effort.
 

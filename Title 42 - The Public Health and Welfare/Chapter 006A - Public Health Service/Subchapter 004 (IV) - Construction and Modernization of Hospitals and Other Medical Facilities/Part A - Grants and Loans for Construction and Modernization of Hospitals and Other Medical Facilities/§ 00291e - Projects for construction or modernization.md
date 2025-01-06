@@ -46,7 +46,7 @@ In subsec. (a) (5), "sections 3141–3144, 3146, and 3147 of title 40" substitut
 
 #### Prior Provisions
 
-A prior section 291e, act July 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041;amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, authorized Surgeon General to prescribe general regulations, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291c of this title.
+A prior section 291e, act July 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, authorized Surgeon General to prescribe general regulations, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291c of this title.
 
 A prior section 291h(a), (c), act July 1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §8, 63 Stat. 901, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 

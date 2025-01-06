@@ -1,6 +1,6 @@
 ### §7928. Privacy
 
-The Secretary shall require an assurance that each grantee receiving funds under this chapterunderstands the importance of privacy protections for students and is aware of the responsibilities of the grantee under section 1232g of this title (commonly known as the "Family Education Rights and Privacy Act of 1974").
+The Secretary shall require an assurance that each grantee receiving funds under this chapter understands the importance of privacy protections for students and is aware of the responsibilities of the grantee under section 1232g of this title (commonly known as the "Family Education Rights and Privacy Act of 1974").
 
 (Pub. L. 89–10, title VIII, §8548, as added Pub. L. 114–95, title VIII, §8040, Dec. 10, 2015, 129 Stat. 2121.)
 

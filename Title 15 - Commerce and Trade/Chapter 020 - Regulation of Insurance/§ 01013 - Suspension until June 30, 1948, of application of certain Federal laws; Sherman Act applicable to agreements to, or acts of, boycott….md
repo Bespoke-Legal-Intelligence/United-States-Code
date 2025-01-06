@@ -32,7 +32,7 @@
 
 &emsp;(C) the term "historical loss data" means information respecting claims paid, or reserves held for claims reported, by any person engaged in the business of insurance; and
 
-&emsp;(D) the term "loss development factor" means an adjustment to be made to reservesheld for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
+&emsp;(D) the term "loss development factor" means an adjustment to be made to reserves held for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
 
 (Mar. 9, 1945, ch. 20, §3, 59 Stat. 34; July 25, 1947, ch. 326, 61 Stat. 448; Pub. L. 116–327, §2(a), Jan. 13, 2021, 134 Stat. 5097.)
 

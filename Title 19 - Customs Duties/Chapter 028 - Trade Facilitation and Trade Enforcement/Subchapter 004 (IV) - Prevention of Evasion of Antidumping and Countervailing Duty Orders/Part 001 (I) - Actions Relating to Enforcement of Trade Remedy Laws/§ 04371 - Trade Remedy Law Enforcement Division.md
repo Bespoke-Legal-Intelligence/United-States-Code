@@ -34,7 +34,7 @@ The duties of the Director of the Trade Remedy Law Enforcement Division shall in
 
 &emsp;(1) directing the trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion;
 
-&emsp;(2) facilitating, promoting, and coordinating cooperation and the exchange of information between U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, and other relevant Federal agencies regarding evasion;
+&emsp;(2) facilitating, promoting, and coordinating cooperation and the exchange of informationbetween U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, and other relevant Federal agencies regarding evasion;
 
 &emsp;(3) notifying on a timely basis the administering authority (as defined in section 1677(1) of this title) and the Commission (as defined in section 1677(2) of this title) of any finding, determination, civil action, or criminal action taken by U.S. Customs and Border Protection or other Federal agency regarding evasion;
 

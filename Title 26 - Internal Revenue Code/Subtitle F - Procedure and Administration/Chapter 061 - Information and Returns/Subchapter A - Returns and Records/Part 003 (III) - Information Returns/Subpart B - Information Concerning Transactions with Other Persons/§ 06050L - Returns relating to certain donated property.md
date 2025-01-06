@@ -28,7 +28,7 @@
 
 #### (A) Charitable deduction property
 
-&emsp;&emsp;The term "charitable deduction property" means any property (other than publiclytraded securities) contributed in a contribution for which a deduction was claimed under section 170 if the claimed value of such property (plus the claimed value of all similar items of property donated by the donor to 1 or more donees) exceeds $5,000.
+&emsp;&emsp;The term "charitable deduction property" means any property (other than publicly traded securities) contributed in a contribution for which a deduction was claimed under section 170 if the claimed value of such property (plus the claimed value of all similar items of property donated by the donor to 1 or more donees) exceeds $5,000.
 
 #### (B) Publicly traded securities
 

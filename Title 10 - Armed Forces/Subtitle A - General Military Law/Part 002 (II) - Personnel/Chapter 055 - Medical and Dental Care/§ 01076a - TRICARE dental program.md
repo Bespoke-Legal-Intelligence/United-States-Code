@@ -30,7 +30,7 @@ In general.—The plans established under this section shall be administered und
 
 &emsp;(2)
 
-Premium sharing plans.—Effective as of January 1, 2026, the regulations prescribed pursuant to paragraph (1) shall include, with respect to premium sharing plans referred to in subsection (d)(1), the following elements:
+Premium sharing plans.—Effective as of January 1, 2027, the regulations prescribed pursuant to paragraph (1) shall include, with respect to premium sharing plans referred to in subsection (d)(1), the following elements:
 
 &emsp;&emsp;(A) A third party administrator shall manage the administrative features of such plans, including eligibility, enrollment, plan change and premium payment processes, submission of qualifying life events changes, and address changes.
 
@@ -98,23 +98,23 @@ Premiums.—
 
 Premium sharing plans.—(A) The dental insurance plan established under subsection (a)(1) and the dental benefits plans established under subsection (a)(3) are premium sharing plans.
 
-&emsp;(B) Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. During the period preceding January 1, 2026, the member's share of the premium charge may not exceed $20 per month for the enrollment.
+&emsp;(B) Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. During the period preceding January 1, 2027, the member's share of the premium charge may not exceed $20 per month for the enrollment.
 
-&emsp;(C) Effective as of January 1 of each year during the period preceding January 1, 2026, the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
+&emsp;(C) Effective as of January 1 of each year during the period preceding January 1, 2027, the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
 
 &emsp;&emsp;(i) the percent by which the rates of basic pay of members of the uniformed services are increased on such date; or
 
 &emsp;&emsp;(ii) the sum of one-half percent and the percent computed under section 5303(a) of title 5 for the increase in rates of basic pay for statutory pay systems for pay periods beginning on or after such date.
 
-&emsp;(D) During the period preceding January 1, 2026, the Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
+&emsp;(D) During the period preceding January 1, 2027, the Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
 
-&emsp;(E) Beginning on January 1, 2026, the amount of the premium required under subparagraph (A)—
+&emsp;(E) Beginning on January 1, 2027, the amount of the premium required under subparagraph (A)—
 
 &emsp;&emsp;(i) for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3)), the Secretary's share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
 
 &emsp;&emsp;(ii) for non-standard option plans, shall be equal to the amount determined under clause (i) plus 100 percent of the additional premium amount applicable to such non-standard option plan.
 
-&emsp;(F) Beginning on January 1, 2026, the Secretary of Defense shall reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
+&emsp;(F) Beginning on January 1, 2027, the Secretary of Defense shall reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
 
 &emsp;(2)
 
@@ -134,13 +134,13 @@ Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to par
 
 &emsp;(B) in the case of care described in subsection (c)(2), pay 20 percent of the charges for the care; and
 
-&emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the chargesfor the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
+&emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the charges for the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
 
 (2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the charges would facilitate or ensure the readiness of a unit or individual for deployment.
 
 (B) The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
 
-(3) Beginning on January 1, 2026, the Secretary of Defense shall reduce copayments required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
+(3) Beginning on January 1, 2027, the Secretary of Defense shall reduce copayments required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
 
 (f)
 
@@ -160,7 +160,7 @@ Authority Subject to Appropriations.—The authority of the Secretary of Defense
 
 (j)
 
-Limitation on Reduction of Benefits.—During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reduce benefits provided under a standard option plan under this section, until—
+Limitation on Reduction of Benefits.—During the period preceding January 1, 2027, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2027, the Secretary may not reduce benefits provided under a standard option plan under this section, until—
 
 &emsp;(1) the Secretary provides notice of the Secretary's intent to reduce such benefits to the Committees on Armed Services of the Senate and the House of Representatives; and
 
@@ -194,9 +194,9 @@ Definitions.—In this section:
 
 &emsp;(1) The term "non-standard option plan" means a high option dental insurance plan that includes covered services in addition to, or provides greater coverage with respect to, services covered under a standard option plan.
 
-&emsp;(2) The term "standard option plan" means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2026.
+&emsp;(2) The term "standard option plan" means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2027.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L.116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, §701(a), Dec. 23, 2022, 136 Stat. 2644; Pub. L. 118–31, div. A, title XVIII, §1801(a)(12), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L.106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, §701(a), Dec. 23, 2022, 136 Stat. 2644; Pub. L. 118–31, div. A, title XVIII, §1801(a)(12), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title VII, §704(a), Dec. 23, 2024, 138 Stat. 1942.)
 
 #### <b>Editorial Notes</b>
 
@@ -205,6 +205,8 @@ Definitions.—In this section:
 A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents' dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159 substituted "January 1, 2027" for "January 1, 2026" wherever appearing.
 
 <b>2023</b>—Subsec. (d)(1)(E)(i). Pub. L. 118–31 substituted "subsection (e)(3))" for "subsection (e)(3)".
 
@@ -268,11 +270,11 @@ Pub. L. 116–283, §711(b), amended subsec. (b) generally. Prior to amendment, 
 
 #### Rulemaking
 
-Pub. L. 117–263, div. A, title VII, §701(b), Dec. 23, 2022, 136 Stat. 2646, provided that: "Pursuant to the authority under section 1076a(b)(1) of title 10, United States Code, as amended by subsection (a), the Secretary of Defense shall—
+Pub. L. 117–263, div. A, title VII, §701(b), Dec. 23, 2022, 136 Stat. 2646, as amended by Pub. L. 118–159, div. A, title VII, §704(b)(1), Dec. 23, 2024, 138 Stat. 1942, provided that: "Pursuant to the authority under section 1076a(b)(1) of title 10, United States Code, as amended by subsection (a), the Secretary of Defense shall—
 
-&emsp;"(1) not later than January 1, 2025, prescribe an interim final rule to carry out the amendments made by subsection (a) \[amending this section\]; and
+&emsp;"(1) not later than January 1, 2026, prescribe an interim final rule to carry out the amendments made by subsection (a) \[amending this section\]; and
 
-&emsp;"(2) after prescribing the interim final rule under subparagraph (A) \[sic; probably should be "paragraph (1)"\] and considering public comments with respect to such interim final rule, prescribe a final rule, effective on January 1, 2026, to carry out such amendments."
+&emsp;"(2) after prescribing the interim final rule under subparagraph (A) \[sic; probably should be "paragraph (1)"\] and considering public comments with respect to such interim final rule, prescribe a final rule, effective on January 1, 2027, to carry out such amendments."
 
 #### Transition of Administration of TRICARE Dental Plans
 

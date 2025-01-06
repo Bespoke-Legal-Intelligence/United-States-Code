@@ -64,7 +64,7 @@ A prior section 6735, Pub. L. 89–10, title II, §2365, as added Pub. L. 107–
 
 A prior section 6736, Pub. L. 89–10, title II, §2366, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668, which related to limitation on liability for teachers, was renumbered section 8556 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7946 of this title.
 
-A prior section 6737, Pub. L. 89–10, title II, §2367, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1670, which related to allocation of responsibility for noneconomic loss, was renumbered section 8557 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7947 of this title.
+A prior section 6737, Pub. L. 89–10, title II, §2367, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115Stat. 1670, which related to allocation of responsibility for noneconomic loss, was renumbered section 8557 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7947 of this title.
 
 A prior section 6738, Pub. L. 89–10, title II, §2368, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1670, which set out effective date, was renumbered section 8558 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7948 of this title.
 

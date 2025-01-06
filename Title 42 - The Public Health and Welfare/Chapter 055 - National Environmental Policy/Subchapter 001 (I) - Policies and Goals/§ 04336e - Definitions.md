@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "major Federal action" means an action that the agency carrying out suchaction determines is subject to substantial Federal control and responsibility.
+&emsp;&emsp;The term "major Federal action" means an action that the agency carrying out such action determines is subject to substantial Federal control and responsibility.
 
 #### (B) Exclusion
 
@@ -62,7 +62,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) loans, loan guarantees, or other forms of financial assistance where a Federal agency does not exercise sufficient control and responsibility over the subsequent use of such financial assistance or the effect of the action;
 
-&emsp;&emsp;&emsp;(iv) business loan guarantees provided by the Small Business Administration pursuant to section 7(a) or (b) and <sup>1</sup> of the Small Business Act ( U.S.C. 636(a)),<sup>2</sup> or title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
+&emsp;&emsp;&emsp;(iv) business loan guarantees provided by the Small Business Administration pursuant to section 7(a) or (b) and <sup>1</sup> of the SmallBusiness Act ( U.S.C. 636(a)),<sup>2</sup> or title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
 
 &emsp;&emsp;&emsp;(v) bringing judicial or administrative civil or criminal enforcement actions;
 

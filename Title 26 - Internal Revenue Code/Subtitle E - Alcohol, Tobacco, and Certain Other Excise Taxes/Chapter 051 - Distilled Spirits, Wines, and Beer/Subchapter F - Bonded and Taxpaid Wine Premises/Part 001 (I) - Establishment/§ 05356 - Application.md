@@ -1,6 +1,6 @@
 ### §5356. Application
 
-The application required by this part shall disclose, as regulations issued by the Secretary shall provide, such information as may be necessary to enable the Secretary to determine the location and extent of the premises, the type of operations to be conducted on such premises, and whether the operations will be in conformity with law and regulations.
+The application required by this part shall disclose, as regulations issued by the Secretaryshall provide, such information as may be necessary to enable the Secretary to determine the location and extent of the premises, the type of operations to be conducted on such premises, and whether the operations will be in conformity with law and regulations.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

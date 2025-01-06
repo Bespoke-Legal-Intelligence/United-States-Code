@@ -6,7 +6,7 @@ Information acquired from a physical search conducted pursuant to this subchapte
 
 #### (b) Notice of search and identification of property seized, altered, or reproduced
 
-Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the search conducted pursuant to this chapter and shallidentify any property of such person seized, altered, or reproduced during such search.
+Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the search conducted pursuant to this chapter and shall identify any property of such person seized, altered, or reproduced during such search.
 
 #### (c) Statement for disclosure
 
@@ -32,7 +32,7 @@ Whenever any State or political subdivision thereof intends to enter into eviden
 
 #### (g) In camera and ex parte review by district court
 
-Whenever a court or other authority is notified pursuant to subsection (d) or (e), or whenever a motion is made pursuant to subsection (f), or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to a physical search authorized by this subchapter or to discover, obtain, or suppress evidence or information obtained or derived from a physical search authorized by this subchapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority shall, notwithstanding any other provision of law, if the Attorney General files an affidavit under oath that disclosure or any adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the physical search as may be necessary to determine whether the physical search of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the physical search, or may require the Attorney General to provide to the aggrieved person a summary of such materials, only where such disclosure is necessary to make an accurate determination of the legality of the physical search.
+Whenever a court or other authority is notified pursuant to subsection (d) or (e), or whenever a motion is made pursuant to subsection\(f), or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to a physical search authorized by this subchapter or to discover, obtain, or suppress evidence or information obtained or derived from a physical search authorized by this subchapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority shall, notwithstanding any other provision of law, if the Attorney General files an affidavit under oath that disclosure or any adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the physical search as may be necessary to determine whether the physical search of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the physical search, or may require the Attorney General to provide to the aggrieved person a summary of such materials, only where such disclosure is necessary to make an accurate determination of the legality of the physical search.
 
 #### (h) Suppression of evidence; denial of motion
 
@@ -44,7 +44,7 @@ Orders granting motions or requests under subsection (h), decisions under this s
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
-(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> ofthis title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
+(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
 
 &emsp;(A) the fact of the application;
 
@@ -72,7 +72,7 @@ Orders granting motions or requests under subsection (h), decisions under this s
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, known as the Foreign Intelligence Surveillance Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
@@ -80,7 +80,7 @@ Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated s
 
 <b>2023</b>—Subsec. (k)(1). Pub. L. 117–347, §323(a)(1)(A), repealed Pub. L. 107–296, §899. See 2002 Amendment note below.
 
-<b>2008</b>—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted "sabotage, international terrorism, or the international proliferation of weapons of mass destruction" for "sabotage or international terrorism".
+<b>2008</b>—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted "sabotage, international terrorism, or theinternational proliferation of weapons of mass destruction" for "sabotage or international terrorism".
 
 Subsec. (k)(2). Pub. L. 110–261, §107(c)(2), substituted "1823(a)(6)" for "1823(a)(7)".
 

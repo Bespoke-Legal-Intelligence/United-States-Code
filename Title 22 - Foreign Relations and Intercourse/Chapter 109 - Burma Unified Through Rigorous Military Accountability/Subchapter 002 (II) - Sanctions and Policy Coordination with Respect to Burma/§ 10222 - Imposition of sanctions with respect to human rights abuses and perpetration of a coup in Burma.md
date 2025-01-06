@@ -58,7 +58,7 @@ The sanctions described in this subsection are the following:
 
 #### (1) Property blocking
 
-&emsp;The President may exercise all powers granted to the President by the InternationalEmergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+&emsp;The President may exercise all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (2) Foreign exchange
 
@@ -148,7 +148,7 @@ The President may, on a case-by-case basis waive the application of sanctions or
 
 #### (2) Penalties
 
-&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated under this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
+&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated under this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
 
 #### (i) Report
 
@@ -166,5 +166,5 @@ Not later than 90 days after December 23, 2022, and annually thereafter for 8 ye
 
 The International Emergency Economic Powers Act, referred to in subsec. (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (d)(3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (d)(3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For completeclassification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 

@@ -6,7 +6,7 @@ In General.—After the end of the 1-year period beginning on the date the first
 
 (b)
 
-Special Preference.—Special preference shall be given to applications submitted to the Secretary which demonstrate collaborative efforts of two or more State and local law enforcement agencies or prosecutors who have a history of Federal, State, and local cooperative law enforcement and prosecutorial efforts in responding to such criminal activity.
+Special Preference.—Special preference shall be given to applications submitted to the Secretary which demonstrate collaborative efforts of two or more State and local law enforcement agencies or prosecutors who have a historyof Federal, State, and local cooperative law enforcement and prosecutorial efforts in responding to such criminal activity.
 
 (Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2948.)
 

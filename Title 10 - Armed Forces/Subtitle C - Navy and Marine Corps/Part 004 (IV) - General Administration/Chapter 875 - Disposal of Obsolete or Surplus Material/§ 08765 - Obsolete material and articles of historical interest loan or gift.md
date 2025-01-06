@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give,without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
+Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give, without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
 
 &emsp;(1) A State, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof.
 
@@ -94,7 +94,7 @@ Subsection (d) is added to note the existence of a later act, codified in §2572
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–217, as amended by Pub. L. 107–314, substituted "section 121 of title 40" for "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1043(a)(1), inserted heading and substituted introductory provisions for provisions which read as follows: "Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—".
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1043(a)(1), inserted heading and substituted introductory provisions forprovisions which read as follows: "Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—".
 
 Subsec. (a)(1) to (12). Pub. L. 107–107, §1043(a)(2), capitalized the first letter after the paragraph designation in each of pars. (1) to (12), substituted a period for a semicolon at end of pars. (1) to (10) and a period for "; or" at end of par. (11), substituted "a foreign war" for "World War I or World War II" in par. (5) and "servicemen's monument" for "soldiers' monument" in par. (6), and inserted "or memorial" after "museum" in par. (8).
 

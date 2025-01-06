@@ -48,7 +48,7 @@ Pub. L. 117–328, div. V, title III, §302, Dec. 29, 2022, 136 Stat. 5506, prov
 
 "(a)
 
-Outreach Requirement.—The Secretary of Veterans Affairs shall conduct outreach regarding the Veterans Justice Outreach Program to justice-involved veterans, military and veterans service organizations, and relevant stakeholders in the criminal justice community, including officials from local law enforcement, court, and jail systems and others as determined appropriate by the Secretary. Such outreach—
+Outreach Requirement.—The Secretary of Veterans Affairs shall conduct outreach regarding the Veterans Justice Outreach Program to justice-involved veterans, military and veterans service organizations,and relevant stakeholders in the criminal justice community, including officials from local law enforcement, court, and jail systems and others as determined appropriate by the Secretary. Such outreach—
 
 &emsp;"(1) shall be designed—
 
@@ -320,7 +320,7 @@ Close personal relationships.—In this paragraph, the term 'close personal rela
 
 &emsp;"(2)
 
-Intimate partner violence.—The term 'intimate partner violence' includes physical violence, sexual violence, stalking, and psychological aggression, including coercive tactics by a current or former intimate partner."
+Intimate partner violence.—The term 'intimate partner violence' includes physical violence,sexual violence, stalking, and psychological aggression, including coercive tactics by a current or former intimate partner."
 
 #### Pilot Program on Information Sharing Between Department of Veterans Affairs and Designated Relatives and Friends of Veterans Regarding Assistance and Benefits Available to the Veterans
 
@@ -570,9 +570,9 @@ Contents.—The report submitted under paragraph (1) shall include the following
 
 &emsp;&emsp;&emsp;"(i) The status of the efforts of the Secretary to hire Veterans Justice Outreach Specialists pursuant to subsection (a)(1), including the total number of Veterans Justice Outreach Specialists hired by the Secretary pursuant to such subsection and the number that the Secretary expects to hire pursuant to such subsection.
 
-&emsp;&emsp;&emsp;"(ii) The total number of Veterans Justice Outreach Specialists assigned to each Department of Veterans Affairs medical center that participates in the Veterans Justice Outreach Program, including the number of Veterans Justice OutreachSpecialists hired under subsection (a)(1) disaggregated by Department of Veterans Affairs medical center.
+&emsp;&emsp;&emsp;"(ii) The total number of Veterans Justice Outreach Specialists assigned to each Department of Veterans Affairs medical center that participates in the Veterans Justice Outreach Program, including the number of Veterans Justice Outreach Specialists hired under subsection (a)(1) disaggregated by Department of Veterans Affairs medical center.
 
-&emsp;&emsp;&emsp;"(iii) The total number of eligible Department of Veterans Affairs medical centers that sought placement of a Veterans Justice Outreach Specialist under subsection (a)(1), how many Veterans Justice Outreach Specialists each such center sought, and how many of such medical centers received no placement of a Veterans Justice Outreach Specialist under subsection (a)(1).
+&emsp;&emsp;&emsp;"(iii) The total number of eligible Department of Veterans Affairs medical centers that soughtplacement of a Veterans Justice Outreach Specialist under subsection (a)(1), how many Veterans Justice Outreach Specialists each such center sought, and how many of such medical centers received no placement of a Veterans Justice Outreach Specialist under subsection (a)(1).
 
 &emsp;&emsp;&emsp;"(iv) For each eligible Department of Veterans Affairs medical center—
 
@@ -678,5 +678,5 @@ Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct 
 
 "(b)
 
-Information in Agent Orange Registry.—The Secretary of Veterans Affairs shall take reasonable actions to organize and update the information contained in the Department of Veterans Affairs Agent Orange Registry in a manner that enables the Secretary promptly to notify a veteran of any increased health risk for such veteran resulting from exposure of such veteran to dioxin or any other toxic agent referred to in subsection (a) during Vietnam-era service in the Republic of Vietnam whenever the Secretary determines, on the basis of physical examination or other pertinent information, that such veteran is subject to such an increased health risk."
+Information in Agent Orange Registry.—The Secretary of Veterans Affairs shall take reasonable actions to organize and update the information contained in the Department of Veterans Affairs Agent Orange Registry in a manner that enables the Secretary promptly to notify a veteran of any increased healthrisk for such veteran resulting from exposure of such veteran to dioxin or any other toxic agent referred to in subsection (a) during Vietnam-era service in the Republic of Vietnam whenever the Secretary determines, on the basis of physical examination or other pertinent information, that such veteran is subject to such an increased health risk."
 

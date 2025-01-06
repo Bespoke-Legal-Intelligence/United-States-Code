@@ -62,7 +62,7 @@
 
 #### (4) Adjustment by Secretary
 
-&emsp;The Secretary may, through a rulemaking under section 553 of title 5, adjust the format and type sizes for the label statements required by this section; the text, format, and type sizes of any required tar, nicotine yield,or other constituent (including smoke constituent) disclosures; or the text, format, and type sizes for any other disclosures required under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]. The text of any such label statements or disclosures shall be required to appear only within the 20 percent area of cigarette advertisements provided by paragraph (2). The Secretary shall promulgate regulations which provide for adjustments in the format and type sizes of any text required to appear in such area to ensure that the total text required to appear by law will fit within such area.
+&emsp;The Secretary may, through a rulemaking under section 553 of title 5, adjust the format and type sizes for the label statements required by this section; the text, format, and type sizes of any required tar, nicotine yield, or other constituent (including smoke constituent) disclosures; or the text, format, and type sizes for any other disclosures required under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]. The text of any such label statements or disclosures shall be required to appear only within the 20 percent area of cigarette advertisements provided by paragraph (2). The Secretary shall promulgate regulations which provide for adjustments in the format and type sizes of any text required to appear in such area to ensure that the total text required to appear by law will fit within such area.
 
 #### (c) Marketing requirements
 
@@ -88,7 +88,7 @@
 
 #### (d) <sup>1</sup> Graphic label statements
 
-Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.
+Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretarydetermines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.
 
 #### (d) <sup>1</sup> Change in required statements
 
@@ -150,7 +150,7 @@ Pub. L. 99–92, §11(c), Aug. 16, 1985, 99 Stat. 403, provided that:
 
 &emsp;"(A) on and after the date of the enactment of this Act \[Aug. 16, 1985\] a manufacturer or importer of cigarettes may apply to the Federal Trade Commission to have the label rotation specified in section 4(c)(2) of the Federal Cigarette Labeling and Advertising Act \[subsec. (c)(2) of this section\], as amended by subsection (a), apply to its brand styles of cigarettes and the Commission may take action on such an application, and
 
-&emsp;"(B) a manufacturer or importer of cigarettes may elect to have the amendments apply at an earlier date or dates selected by the manufacturer or importer.
+&emsp;"(B) a manufacturer or importer of cigarettes may elect to have the amendments apply at an earlierdate or dates selected by the manufacturer or importer.
 
 "(2) The Federal Trade Commission may, upon application of a manufacturer or importer of cigarettes with an approved application under section 4(c)(2) of the Federal Cigarette Labeling and Advertising Act \[subsec. (c)(2) of this section\], as amended by subsection (a), extend the effective date specified in paragraph (1) to January 11, 1986. The Commission may approve an application for such an extension only if the Commission determines that the effective date specified in such paragraph (1) would cause unreasonable economic hardship to the applicant. Section 4 of the Federal Cigarette Labeling and Advertising Act \[this section\], as in effect before October 12, 1985, shall apply with respect to a manufacturer or importer with an application approved under this paragraph."
 

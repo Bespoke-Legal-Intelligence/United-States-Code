@@ -20,7 +20,7 @@
 
 &emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to this section (other than the District of Columbia) in accordance with—
 
-&emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimumproportionate share for the State of Wyoming and the District of Columbia; and
+&emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimum proportionate share for the State of Wyoming and the District of Columbia; and
 
 &emsp;&emsp;&emsp;(ii) for fiscal year 1998 and each subsequent fiscal year, a formula that allocates to each State the proportional share of the State needs identified in the most recent survey conducted pursuant to subsection (h), except that the minimum proportionate share provided to each State shall be the same as the minimum proportionate share provided under clause (i).
 
@@ -36,7 +36,7 @@
 
 #### (i) New system capacity
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
+&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. Allfunds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
 
 #### (ii) Operator certification
 
@@ -54,7 +54,7 @@
 
 #### (C) Sale of bonds
 
-&emsp;&emsp;Funds may also be used by a public water system as a source of revenue (restricted solely to interest earnings of the applicable State loan fund) or security for payment of the principal and interest on revenue or general obligation bonds issued by the State to provide matching funds under subsection (e),if the proceeds of the sale of the bonds will be deposited in the State loan fund.
+&emsp;&emsp;Funds may also be used by a public water system as a source of revenue (restricted solely to interest earnings of the applicable State loan fund) or security for payment of the principal and interest on revenue or general obligation bonds issued by the State to provide matching funds under subsection (e), if the proceeds of the sale of the bonds will be deposited in the State loan fund.
 
 #### (D) Water treatment loans
 
@@ -236,7 +236,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (e) State contribution
 
-Each agreement under subsection (a) shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grantto be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
+Each agreement under subsection (a) shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
 
 #### (f) Types of assistance
 
@@ -270,7 +270,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 #### (1) Combined financial administration
 
-&emsp;Notwithstanding subsection (c), a State may (as a convenience and to avoid unnecessary administrative costs) combine, in accordance with State law, the financial administration of a State loan fund established under this section with the financial administration of any other revolving fund established by the State if otherwise not prohibited by the law under which the State loan fund was established and if the Administrator determines that—
+&emsp;Notwithstanding subsection (c), a State may (as a convenience and to avoid unnecessary administrative costs) combine, in accordance with State law, the financial administration of a State loan fund established under this section with the financial administration of any other revolving fund established by the Stateif otherwise not prohibited by the law under which the State loan fund was established and if the Administrator determines that—
 
 &emsp;&emsp;(A) the grants under this section, together with loan repayments and interest, will be separately accounted for and used solely for the purposes specified in subsection (a); and
 
@@ -348,7 +348,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 #### (1) In general
 
-&emsp;1½ percent of the amounts appropriated annually to carry out this section may be used by the Administrator to make grants to Indian Tribes, Alaska Native villages, and, for the purpose of carrying out paragraph (5), intertribal consortia or tribal organizations, that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. Except as otherwise provided, the grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2).
+&emsp;1½ percent of the amounts appropriated annually to carry out this section may be used by the Administrator to make grants to Indian Tribes, Alaska Native villages, and, for the purpose of carrying out paragraph (5),intertribal consortia or tribal organizations, that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. Except as otherwise provided, the grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2).
 
 #### (2) Use of funds
 
@@ -378,7 +378,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 #### (j) Other areas
 
-Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. Thegrants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
+Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
 
 #### (k) Other authorized activities
 
@@ -402,7 +402,7 @@ Of the funds annually available under this section for grants to States, the Adm
 
 #### (2) Limitation
 
-&emsp;For each fiscal year, the total amount of assistance provided and expenditures made by a State under this subsection may not exceed 15 percent of the amount of the capitalization grant received by the State for that year and may not exceed 10 percent of that amount for any one of the following activities:
+&emsp;For each fiscal year, the total amount of assistance provided and expenditures made by a State under this subsection may not exceed 15 percent of the amount of the capitalization grant received by the State for that year andmay not exceed 10 percent of that amount for any one of the following activities:
 
 &emsp;&emsp;(A) To acquire land or conservation easements pursuant to paragraph (1)(A)(i).
 
@@ -472,7 +472,7 @@ The Administrator shall—
 
 &emsp;&emsp;(B) programs in place to assist with the completion of applications for assistance through such State loan funds;
 
-&emsp;&emsp;(C) incentives provided to public water systems that partner with small public water systems to assist with the application process for assistance through such State loan funds;
+&emsp;&emsp;(C) incentives provided to public water systems that partner with small public water systems to assist with the applicationprocess for assistance through such State loan funds;
 
 &emsp;&emsp;(D) practices to ensure that amounts in such State loan funds are used to provide loans, loan guarantees, or other authorized assistance in a timely fashion;
 
@@ -678,7 +678,7 @@ Supplemented intended use plans.—
 
 &emsp;&emsp;"(A)
 
-Obligation of amounts.—Not later than 30 days after the date on which an eligible State submits to the Administrator a supplemental intended use plan under section 1452(b) of the Safe Drinking Water Act (42 U.S.C. 300j–12(b)), from funds made available under paragraph (1), the Administrator shall obligate to such eligible State such amounts as are appropriate to address the needs identified in such supplemental intended use plan for the purpose described in subsection (b)(1).
+Obligation of amounts.—Not later than 30 days after the date on which an eligible State submits to the Administrator a supplemental intended use plan under section 1452(b) of the Safe Drinking Water Act (42 U.S.C. 300j–12(b)), from funds made available under paragraph (1), the Administrator shall obligate to such eligible State such amounts as are appropriate to address the needs identified insuch supplemental intended use plan for the purpose described in subsection (b)(1).
 
 &emsp;&emsp;"(B)
 
@@ -758,7 +758,7 @@ In general.—Using funds provided pursuant to subsection (d), an eligible State
 
 &emsp;&emsp;"(B)
 
-Inclusion.—Assistance provided under subparagraph (A) may include additional subsidizationunder section 1452(d)(1) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(1)), as described in paragraph (1)(B).
+Inclusion.—Assistance provided under subparagraph (A) may include additional subsidization under section 1452(d)(1) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(1)), as described in paragraph (1)(B).
 
 &emsp;&emsp;"(C)
 

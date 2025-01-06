@@ -38,7 +38,7 @@ Reduction of Annuity for Retired Employee.—(1) The Secretary may order that th
 
 &emsp;&emsp;(ii) in the case of a proposed order to which an individual does not respond, not later than 15 business days after the Secretary provides notice to the individual under subparagraph (B)(i).
 
-(2) Upon the issuance of an order by the Secretary under paragraph (1), the individual shall have an opportunity to appeal the order to the Director of the Office of Personnel Management before the date that is seven business days after the date of such issuance.
+(2) Upon the issuance of an order by the Secretary under paragraph (1), the individual shall have an opportunity to appeal the order to theDirector of the Office of Personnel Management before the date that is seven business days after the date of such issuance.
 
 (3) The Director of the Office of Personnel Management shall make a final decision with respect to an appeal under paragraph (2) within 30 business days of receiving the appeal.
 
@@ -52,9 +52,9 @@ Lump-Sum Annuity Credit.—Any individual with respect to whom an annuity is red
 
 (e)
 
-Spouse or Children Exception.—(1) The Secretary, in consultation with the Director ofthe Office of Personnel Management, shall prescribe regulations that may provide for the payment to the spouse or children of any individual referred to in subsection (a) or (b) of any amounts which (but for this subsection) would otherwise have been nonpayable by reason of such subsections.
+Spouse or Children Exception.—(1) The Secretary, in consultation with the Director of the Office of Personnel Management, shall prescribe regulations that may provide for the payment to the spouse or children of any individual referred to in subsection (a) or (b) of any amounts which (but for this subsection) would otherwise have been nonpayable by reason of such subsections.
 
-(2) Regulations prescribed under paragraph (1) shall be consistent with the requirements of section 8332(o)(5) and 8411(l)(5) of title 5, as the case may be.
+(2) Regulations prescribed under paragraph (1) shall be consistent with the requirements of section 8332(o)(6) and 8411(l)(5) of title 5, as the case may be.
 
 (f)
 
@@ -66,13 +66,17 @@ Definitions.—In this section:
 
 &emsp;(3) The term "service" has the meaning given such term in section 8331(12) or section 8401(26) of title 5, as the case may be.
 
-(Added Pub. L. 115–41, title II, §203(a)(1), June 23, 2017, 131 Stat. 873.)
+(Added Pub. L. 115–41, title II, §203(a)(1), June 23, 2017, 131 Stat. 873; amended Pub. L. 118–192, §2(b), Dec. 23, 2024, 138 Stat. 2661.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior sections 719 and 720 were renumbered sections 1919 and 1920 of this title, respectively.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (e)(2). Pub. L. 118–192 substituted "section 8332(o)(6)" for "section 8332(o)(5)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

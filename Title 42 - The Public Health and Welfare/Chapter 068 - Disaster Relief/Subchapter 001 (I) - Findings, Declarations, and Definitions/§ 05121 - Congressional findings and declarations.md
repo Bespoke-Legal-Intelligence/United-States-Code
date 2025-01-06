@@ -24,7 +24,7 @@
 
 &emsp;(7) identifying and improving the climate and natural hazard resilience of vulnerable communities.
 
-(Pub. L. 93–288, title I, §101, May 22, 1974, 88 Stat. 143; Pub. L. 100–707, title I, §103(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 117–255, §2, Dec. 20, 2022, 136 Stat. 2363.)
+(Pub. L. 93–288, title I, §101, May 22, 1974, 88 Stat. 143; Pub. L. 100–707, title I, §103(a), Nov. 23, 1988,102 Stat. 4689; Pub. L. 117–255, §2, Dec. 20, 2022, 136 Stat. 2363.)
 
 #### <b>Editorial Notes</b>
 
@@ -55,6 +55,10 @@ Division Applicability.—Except as otherwise expressly provided, the authoritie
 #### Effective Date
 
 Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–44, §1, Mar. 18, 2024, 138 Stat. 455, provided that: "This Act \[amending section 5177 of this title and enacting provisions set out as a note under section 5177 of this title\] may be cited as the 'Disaster Assistance Deadlines Alignment Act'."
 
 #### Short Title of 2022 Amendment
 
@@ -100,7 +104,7 @@ Pub. L. 111–351, §1, Jan. 4, 2011, 124 Stat. 3863, provided that: "This Act \
 
 Pub. L. 109–308, §1, Oct. 6, 2006, 120 Stat. 1725, provided that: "This Act \[amending sections 5170b, 5196, and 5196b of this title\] may be cited as the 'Pets Evacuation and Transportation Standards Act of 2006'."
 
-Pub. L. 109–218, §1, Apr. 20, 2006, 120 Stat. 333, provided that: "This Act \[amending section 5150 of this title\] may be cited as the 'Local Community Recovery Act of 2006'."
+Pub. L. 109–218, §1, Apr. 20, 2006, 120 Stat. 333, provided that: "This Act \[amending section 5150 of this title\]may be cited as the 'Local Community Recovery Act of 2006'."
 
 #### Short Title of 2005 Amendment
 
@@ -162,7 +166,7 @@ Implementation.—To the extent practicable, the Administrator shall deliver the
 
 #### Report on State Management of Small Disasters Initiative
 
-Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that not later than 3 years after Oct. 30, 2000, the President would submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including recommendations concerning State administration of parts of the program.
+Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that not later than 3 years after Oct. 30,2000, the President would submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including recommendations concerning State administration of parts of the program.
 
 #### Study Regarding Cost Reduction
 
@@ -174,7 +178,7 @@ Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, required the
 
 #### National Drought Policy
 
-Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat.1170, known as the "National Drought Policy Act of 1998", established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
+Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, known as the "National Drought Policy Act of 1998", established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 

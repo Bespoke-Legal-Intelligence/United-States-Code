@@ -10,7 +10,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;Where, on the lapse of time, on the occurrence of an event or contingency, or on the failure of an event or contingency to occur, an interest passing to the surviving spouse will terminate or fail, no deduction shall be allowed under this section with respect to such interest—
 
-&emsp;&emsp;(A) if an interest in such property passes or has passed (for less than an adequate and full consideration in money or money's worth) from the decedent to any person other than such surviving spouse (or the estate of such spouse); and
+&emsp;&emsp;(A) if an interest in such property passes or has passed (for less than an adequate and full consideration in money or money'sworth) from the decedent to any person other than such surviving spouse (or the estate of such spouse); and
 
 &emsp;&emsp;(B) if by reason of such passing such person (or his heirs or assigns) may possess or enjoy any part of such property after such termination or failure of the interest so passing to the surviving spouse;
 
@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particularasset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -230,7 +230,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(7)(C). Pub. L. 105–34, §1311(a), inserted "(or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033)" after "section 2039".
+<b>1997</b>—Subsec. (b)(7)(C). Pub. L. 105–34, §1311(a), inserted "(or, in the case of an interest in an annuityarising under the community property laws of a State, included in the gross estate of the decedent under section 2033)" after "section 2039".
 
 Subsec. (b)(8). Pub. L. 105–34, §1530(c)(8), amended par. (8) generally. Prior to amendment, par. (8) read as follows:
 
@@ -334,7 +334,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending section 2523 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11701(l)(1) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11701(l)(1) of Pub. L. 101–508 effective, except as otherwise provided, as if included inthe provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 Amendment by section 11702(g)(5) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
@@ -430,7 +430,7 @@ Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, 
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-Pub. L. 101–239, title VII, §7815(d)(14), Dec. 19, 1989, 103 Stat. 2418, provided that: "In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act\[Pub. L. 100–647, enacting section 2056A of this title and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply."
+Pub. L. 101–239, title VII, §7815(d)(14), Dec. 19, 1989, 103 Stat. 2418, provided that: "In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act \[Pub. L. 100–647, enacting section 2056A of this title and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply."
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 

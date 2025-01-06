@@ -62,7 +62,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (A) Establishment
 
-&emsp;&emsp;The Council shall establish or designate a committee, which shall be known as the "Interagency Ocean Observation Committee".
+&emsp;&emsp;The Council shall establish or designate a committee, which shall be known as the"Interagency Ocean Observation Committee".
 
 #### (B) Duties
 

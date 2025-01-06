@@ -4,7 +4,7 @@ Each reserve warrant officer of the Army, Navy, Air Force, or Marine Corps who i
 
 &emsp;(1) be transferred to the Retired Reserve if the warrant officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve; or
 
-&emsp;(2) be discharged if the warrant officer is not qualified for transfer to the Retired Reserve orhas requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
+&emsp;(2) be discharged if the warrant officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
 (Added Pub. L. 107–107, div. A, title V, §517(e)(1), Dec. 28, 2001, 115 Stat. 1095.)
 

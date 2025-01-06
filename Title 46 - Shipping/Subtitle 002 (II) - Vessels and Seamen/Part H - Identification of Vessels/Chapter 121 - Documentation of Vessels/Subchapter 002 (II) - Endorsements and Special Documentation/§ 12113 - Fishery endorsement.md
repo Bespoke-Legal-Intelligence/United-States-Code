@@ -106,7 +106,7 @@ Regulations.—Regulations to implement this subsection shall conform to the ext
 
 &emsp;(3)
 
-Transfer of ownership.—Transfers of ownership and control of vessels subject to subsection (c) or (d), which are 100 feet or greater in registered length, shall be rigorously scrutinized for violations of those provisions, with particular attention given to—
+Transfer of ownership.—Transfers of ownership and control of vessels subject to subsection (c) or (d), which are 100 feet orgreater in registered length, shall be rigorously scrutinized for violations of those provisions, with particular attention given to—
 
 &emsp;&emsp;(A) leases, charters, mortgages, financing, and similar arrangements;
 

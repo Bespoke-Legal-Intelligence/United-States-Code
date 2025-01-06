@@ -12,7 +12,7 @@
 
 #### (2) Proceeds
 
-&emsp;The funds received from the sale of stamps under this subchapter by the Department ofthe Interior shall be deposited in the Migratory Bird Conservation Fund in accordance with section 718d of this title.
+&emsp;The funds received from the sale of stamps under this subchapter by the Department of the Interior shall be deposited in the Migratory Bird Conservation Fund in accordance with section 718d of this title.
 
 #### (3) Minimum and maximum values
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;The Department of the Interior, pursuant to regulations promulgated by the Secretary, shall provide for the redemption, on or before the 30th day of June of each year, of unused stamps issued for the year under this subchapter that—
 
-&emsp;&emsp;&emsp;(i) were sold on consignment to any person authorized by the Secretary to sell stamps on consignment (including retail dealers for resale to customers); and
+&emsp;&emsp;&emsp;(i) were sold on consignment to any person authorized by the Secretary to sellstamps on consignment (including retail dealers for resale to customers); and
 
 &emsp;&emsp;&emsp;(ii) have not been resold by any such person.
 

@@ -34,7 +34,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &nbsp;&nbsp;&nbsp;"notice
 
-"This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group."
+"This policy is issued by your risk retention group. Your risk retention group may not besubject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group."
 
 &emsp;(2) require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
 
@@ -100,7 +100,7 @@ Nothing in this section shall be construed to affect the authority of any Federa
 
 #### (f) State powers to enforce State laws
 
-(1) Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of suchState with respect to which a risk retention group is not exempt under this chapter.
+(1) Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
 
 (2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
 

@@ -20,7 +20,7 @@ The Secretary—
 
 #### (3) Funding
 
-&emsp;Subject to the availability of appropriations, if the Secretary delegates functions to a Stateunder this subsection, the Secretary shall provide to that State sufficient funds to carry out the delegated functions.
+&emsp;Subject to the availability of appropriations, if the Secretary delegates functions to a State under this subsection, the Secretary shall provide to that State sufficient funds to carry out the delegated functions.
 
 #### (c) Provision of guidance and notification materials to ammonium nitrate facilities
 

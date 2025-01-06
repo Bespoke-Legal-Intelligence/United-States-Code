@@ -60,7 +60,7 @@ Map of Marine Highway Program Routes.—
 
 &emsp;(1)
 
-In general.—The Maritime Administrator shall make publicly available a map showing the location of marine highway routes, including such routes along the coasts, in the inland waterways, and at sea and update that map when a marine highway route is designated or modified pursuant to subsection (b).
+In general.—The Maritime Administrator shall make publicly available a map showing the location of marine highway routes, including such routes along the coasts,in the inland waterways, and at sea and update that map when a marine highway route is designated or modified pursuant to subsection (b).
 
 &emsp;(2)
 
@@ -266,7 +266,7 @@ Pilot program.—Beginning on the date that is 120 days after the date of the co
 
 "(3)
 
-Final report.—Not later than 90 days after the completion of the pilot program under paragraph (3), the Administrator shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a briefing on the lessons learned from the pilot program, any recommendations based on feedback from maritime stakeholders, States, Indian Tribes, nonprofit organizations, and other stakeholders, and recommendations for establishing future marine highways in the United States."
+Final report.—Not later than 90 days after the completion of the pilot program under paragraph (3), the Administrator shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a briefing on thelessons learned from the pilot program, any recommendations based on feedback from maritime stakeholders, States, Indian Tribes, nonprofit organizations, and other stakeholders, and recommendations for establishing future marine highways in the United States."
 
 #### Deadline for Public Availability of Map
 

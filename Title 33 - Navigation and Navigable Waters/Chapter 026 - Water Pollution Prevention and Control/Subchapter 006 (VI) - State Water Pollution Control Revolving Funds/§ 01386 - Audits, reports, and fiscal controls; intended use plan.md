@@ -12,7 +12,7 @@ Each State electing to establish a water pollution control revolving fund under 
 
 #### (b) Annual Federal audits
 
-The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the Government Accountability Office, including chapter 75 of title 31.
+The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by theAdministrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the Government Accountability Office, including chapter 75 of title 31.
 
 #### (c) Intended use plan
 
@@ -34,7 +34,7 @@ Beginning the first fiscal year after the receipt of payments under this subchap
 
 #### (e) Annual Federal oversight review
 
-The Administrator shall conduct an annual oversight review of each State plan preparedunder subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
+The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
 
 #### (f) Applicability of subchapter II provisions
 

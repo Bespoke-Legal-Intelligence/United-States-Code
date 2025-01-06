@@ -30,7 +30,7 @@ The counsel <sup>1</sup> may delegate authority for the performance of any func
 
 #### (f) Attorney-client relationship
 
-The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.
+The Counsel and other employees of the Office shall maintain the attorney-client relationshipwith respect to all communications between them and any Member, officer, or employee of the Senate.
 
 (Pub. L. 95–521, title VII, §701, Oct. 26, 1978, 92 Stat. 1875; Pub. L. 116–94, div. E, title II, §212(a)(3)(I), Dec. 20, 2019, 133 Stat. 2776.)
 
@@ -58,7 +58,7 @@ Pub. L. 95–521, title VII, §717, Oct. 26, 1978, 92 Stat. 1885, provided that:
 
 #### Separability
 
-Pub. L. 95–521, title VII, §715, Oct. 26, 1978, 92 Stat. 1884, provided that: "If any part of this title or anyamendment made by this title \[enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby."
+Pub. L. 95–521, title VII, §715, Oct. 26, 1978, 92 Stat. 1884, provided that: "If any part of this title or any amendment made by this title \[enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby."
 
 #### Increases in Compensation
 

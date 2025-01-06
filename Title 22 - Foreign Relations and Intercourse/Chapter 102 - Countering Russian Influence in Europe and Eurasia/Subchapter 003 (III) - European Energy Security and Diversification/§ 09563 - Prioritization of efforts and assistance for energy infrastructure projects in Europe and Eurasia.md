@@ -100,7 +100,7 @@ The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018,
 
 #### Codification
 
-Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also aspart of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
+Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
 Section is comprised of section 2004 of Pub. L. 116–94. Subsec. (d) of section 2004 of Pub. L. 116–94 amended sections 2421 and 9543 of this title.
 

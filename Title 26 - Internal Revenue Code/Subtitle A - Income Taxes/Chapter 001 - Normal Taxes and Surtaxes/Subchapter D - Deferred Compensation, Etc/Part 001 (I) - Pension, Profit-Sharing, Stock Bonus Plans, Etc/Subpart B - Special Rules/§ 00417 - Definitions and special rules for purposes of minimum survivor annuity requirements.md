@@ -190,7 +190,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraphs (1) and (2), the present value shall not be less than thepresent value calculated by using the applicable mortality table and the applicable interest rate.
+&emsp;&emsp;For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
 
 #### (B) Applicable mortality table
 
@@ -220,7 +220,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;&emsp;(i) the first day of the first period for which an amount is payable as an annuity, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
+&emsp;&emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day onwhich all events have occurred which entitle the participant to such benefit.
 
 #### (B) Special rule for disability benefits
 
@@ -272,7 +272,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "survivor annuity percentage" means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat.948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### <b>Editorial Notes</b>
 
@@ -300,7 +300,7 @@ Subsec. (g). Pub. L. 109–280, §1004(a)(2), added subsec. (g).
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–147, §411(r)(1)(A), substituted "exceed the amount that can be distributed without the participant's consent under section 411(a)(11)" for "exceed the dollar limit under section 411(a)(11)(A)".
 
-Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted "exceeds the amount that can be distributed without the participant's consent under section 411(a)(11)" for "exceeds the dollar limit under section 411(a)(11)(A)".
+Subsec. (e)(2)(A). Pub. L. 107–147, §411(r)(1)(B), substituted "exceeds the amount that can be distributedwithout the participant's consent under section 411(a)(11)" for "exceeds the dollar limit under section 411(a)(11)(A)".
 
 <b>1997</b>—Subsec. (e)(1), (2). Pub. L. 105–34 substituted "dollar limit" for "$3,500" in headings of pars. (1) and (2) and "the dollar limit under section 411(a)(11)(A)" for "$3,500" in text of pars. (1) and (2)(A).
 

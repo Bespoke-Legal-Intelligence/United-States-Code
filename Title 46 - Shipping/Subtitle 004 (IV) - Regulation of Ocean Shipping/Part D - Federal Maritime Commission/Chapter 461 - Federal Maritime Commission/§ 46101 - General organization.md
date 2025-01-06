@@ -80,7 +80,7 @@ Delegation.—The Chairman may designate officers and employees under the Chairm
 
 Seal.—The Commission shall have a seal which shall be judicially recognized.
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1488, §301; Pub. L. 113–281, title IV, §403(a), Dec. 18, 2014, 128 Stat. 3056; Pub. L. 114–120, title IV, §402, Feb. 8, 2016, 130 Stat. 67; renumbered §46101 and amended Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(a)(3), (b)(1), Jan. 1, 2021, 134 Stat. 4765; Pub. L. 117–263, div. K, title CXVIII, §11801(a), Dec. 23, 2022, 136 Stat. 4163.)
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1488, §301; Pub. L. 113–281, title IV, §403(a), Dec. 18, 2014, 128 Stat. 3056; Pub. L. 114–120, title IV, §402, Feb. 8, 2016, 130 Stat. 67; renumbered §46101 and amended Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(a)(3), (b)(1), Jan. 1, 2021, 134Stat. 4765; Pub. L. 117–263, div. K, title CXVIII, §11801(a), Dec. 23, 2022, 136 Stat. 4163.)
 
 Historical and Revision Notes
 

@@ -142,7 +142,7 @@ The date of the enactment of the Victims of Terrorism Compensation Act \[title V
 
 Section 802 of the Victims of Terrorism Compensation Act \[Pub. L. 99–399\], referred to in subsec. (d)(2), is set out as a note below.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. Titles IV and V of the Act are classified to subchapters IV (§3971 et seq.) and V (§3991 et seq.), respectively, of chapter 50 of Title 50. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 3914, 3915, 3917, 3991, 4000, and 4022, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. Titles IV and V of the Act are classified to subchapters IV (§3971 et seq.) andV (§3991 et seq.), respectively, of chapter 50 of Title 50. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 3914, 3915, 3917, 3991, 4000, and 4022, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -182,7 +182,7 @@ Definition.—For the purpose of this subsection, 'pay and allowances' has the m
 
 #### Regulations
 
-Pub. L. 99–399, title VIII, §807, Aug. 27, 1986, 100 Stat. 889, provided that: "Any regulation required by thistitle or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\]."
+Pub. L. 99–399, title VIII, §807, Aug. 27, 1986, 100 Stat. 889, provided that: "Any regulation required by this title or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\]."
 
 #### Effective Date of Entitlements
 

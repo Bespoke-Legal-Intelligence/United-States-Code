@@ -96,7 +96,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 
-&emsp;(H) administer the National Ombudsman Resource Center established under section 3012(a)(18) of this title and make recommendations to the Assistant Secretary regarding theoperation of the National Ombudsman Resource Center;
+&emsp;(H) administer the National Ombudsman Resource Center established under section 3012(a)(18) of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
 
 &emsp;(I) advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
 
@@ -194,7 +194,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (9) The director shall coordinate, as appropriate, all research and evaluation authorities under this chapter.
 
-(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527; Pub. L. 114–144, §§3(a), 9(2), Apr. 19, 2016, 130 Stat. 335, 352; Pub. L. 116–131, title I, §127(a), Mar. 25, 2020, 134 Stat. 252.)
+(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527; Pub. L. 114–144, §§3(a), 9(2), Apr. 19, 2016, 130 Stat. 335, 352; Pub. L. 116–131, title I, §127(a), Mar. 25, 2020, 134 Stat. 252.)
 
 #### <b>Editorial Notes</b>
 
@@ -238,7 +238,7 @@ Subsec. (c)(3)(B). Pub. L. 102–375, §§201(b)(1), 904(a)(3)(A), (B), inserted
 
 Subsec. (c)(3)(E). Pub. L. 102–375, §904(a)(3)(A), (C), substituted "this chapter" for "the chapter" and inserted "individuals who are" after "older".
 
-Subsec. (c)(3)(F). Pub. L. 102–375, §201(b)(2), inserted before semicolon ", including information (compiledwith assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans".
+Subsec. (c)(3)(F). Pub. L. 102–375, §201(b)(2), inserted before semicolon ", including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans".
 
 Subsec. (c)(3)(G). Pub. L. 102–375, §904(a)(3)(A), inserted "individuals who are" before "Native Americans".
 

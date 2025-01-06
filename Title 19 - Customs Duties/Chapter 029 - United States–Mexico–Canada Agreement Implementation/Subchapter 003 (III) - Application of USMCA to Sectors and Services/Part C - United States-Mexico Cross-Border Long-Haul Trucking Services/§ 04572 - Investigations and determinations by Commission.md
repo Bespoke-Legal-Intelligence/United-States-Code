@@ -8,7 +8,7 @@ Upon the filing of a petition by an interested party described in subparagraph (
 
 &emsp;(2) whether a person of Mexico who has received a grant of authority on or after the date of entry into force of the USMCA and retains such grant of authority is causing or threatens to cause material harm to a United States long-haul trucking services industry; or
 
-&emsp;(3) whether, with respect to a person of Mexico who has received a grant of authority before the date of entry into force of the USMCA and retains such grant of authority, there has been a change in circumstances such that such person of Mexico is causing or threatens tocause material harm to a United States long-haul trucking services industry.
+&emsp;(3) whether, with respect to a person of Mexico who has received a grant of authority before the date of entry into force of the USMCA and retains such grant of authority, there has been a change in circumstances such that such person of Mexico is causing or threatens to cause material harm to a United States long-haul trucking services industry.
 
 #### (b) Transmission of petition, request, or resolution
 

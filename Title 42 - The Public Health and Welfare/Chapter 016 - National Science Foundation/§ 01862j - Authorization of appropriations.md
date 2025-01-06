@@ -12,7 +12,7 @@ Sections 2 through 4, referred to in text, is sections 2 to 4 of Pub. L. 102–4
 
 #### Codification
 
-Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

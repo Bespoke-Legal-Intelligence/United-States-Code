@@ -6,13 +6,13 @@ Congress makes the following findings:
 
 &emsp;(2) The Government of North Korea attempts to control all information, artistic expression, academic works, and media activity inside North Korea and strictly curtails freedom of speech and access to foreign broadcasts.
 
-&emsp;(3) The Government of North Korea subjects all its citizens to systematic, intensive political and ideological indoctrination in support of the cult of personality glorifying Kim Jong Il and the late Kim Il Sung that approaches the level of a state religion.
+&emsp;(3) The Government of North Korea subjects all its citizens to systematic, intensive political and ideological indoctrination in support of the cult of personality glorifying Kim JongIl and the late Kim Il Sung that approaches the level of a state religion.
 
 &emsp;(4) The Government of North Korea divides its population into categories, based on perceived loyalty to the leadership, which determines access to food, employment, higher education, place of residence, medical facilities, and other resources.
 
 &emsp;(5) According to the Department of State, "\[t\]he \[North Korean\] Penal Code is \[d\]raconian, stipulating capital punishment and confiscation of assets for a wide variety of 'crimes against the revolution,' including defection, attempted defection, slander of the policies of the Party or State, listening to foreign broadcasts, writing 'reactionary' letters, and possessing reactionary printed matter".
 
-&emsp;(6) The Government of North Korea executes political prisoners, opponents of the regime, some repatriated defectors, some members ofunderground churches, and others, sometimes at public meetings attended by workers, students, and schoolchildren.
+&emsp;(6) The Government of North Korea executes political prisoners, opponents of the regime, some repatriated defectors, some members of underground churches, and others, sometimes at public meetings attended by workers, students, and schoolchildren.
 
 &emsp;(7) The Government of North Korea holds an estimated 200,000 political prisoners in camps that its State Security Agency manages through the use of forced labor, beatings, torture, and executions, and in which many prisoners also die from disease, starvation, and exposure.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;(23) Between 1994 and 2003, South Korea has admitted approximately 3,800 North Korean refugees for domestic resettlement, a number that is small in comparison with the total number of North Korean escapees but far greater than the number legally admitted in any other country.
 
-&emsp;(24) Although the principal responsibility for North Korean refugee resettlement naturally falls to the Government of South Korea, the United States should play a leadership role in focusing international attention on the plight of these refugees, and formulating international solutions to that profound humanitarian dilemma.
+&emsp;(24) Although the principal responsibility for North Korean refugee resettlement naturally falls to the Government of South Korea, the United States should play a leadership role in focusing international attention on the plightof these refugees, and formulating international solutions to that profound humanitarian dilemma.
 
 &emsp;(25) In addition to infringing the rights of its own citizens, the Government of North Korea has been responsible in years past for the abduction of numerous citizens of South Korea and Japan, whose condition and whereabouts remain unknown.
 
@@ -162,5 +162,5 @@ Pub. L. 110–346, §3, Oct. 7, 2008, 122 Stat. 3940, provided that: "It is the 
 
 &emsp;&emsp;"(B) fulfill its obligations pursuant to the 1951 United Nations Convention Relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, and the 1995 Agreement on the Upgrading of the UNHCR Mission in the People's Republic of China to UNHCR Branch Office in the People's Republic of China; and
 
-&emsp;&emsp;"(C) allow the United Nations High Commissioner for Refugees (UNHCR) unimpeded access to North Koreans inside China to determine whether they are refugees and whether they require assistance."
+&emsp;&emsp;"(C) allow the United Nations High Commissioner for Refugees (UNHCR) unimpeded access to NorthKoreans inside China to determine whether they are refugees and whether they require assistance."
 

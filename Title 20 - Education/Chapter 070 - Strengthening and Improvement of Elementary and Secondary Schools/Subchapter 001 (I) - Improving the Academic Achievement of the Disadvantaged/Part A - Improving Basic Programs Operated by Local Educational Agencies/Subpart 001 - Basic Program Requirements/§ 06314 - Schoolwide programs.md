@@ -74,7 +74,7 @@ An eligible school operating a schoolwide program shall develop a comprehensive 
 
 &emsp;&emsp;&emsp;&emsp;(II) preparation for and awareness of opportunities for postsecondary education and the workforce, which may include career and technical education programs and broadening secondary school students' access to coursework to earn postsecondary credit while still in high school (such as Advanced Placement, International Baccalaureate, dual or concurrent enrollment, or early college high schools);
 
-&emsp;&emsp;&emsp;&emsp;(III) implementation of a schoolwide tiered model to prevent and address problem behavior, and early interveningservices, coordinated with similar activities and services carried out under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+&emsp;&emsp;&emsp;&emsp;(III) implementation of a schoolwide tiered model to prevent and address problem behavior, and early intervening services, coordinated with similar activities and services carried out under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
 &emsp;&emsp;&emsp;&emsp;(IV) professional development and other activities for teachers, paraprofessionals, and other school personnel to improve instruction and use of data from academic assessments, and to recruit and retain effective teachers, particularly in high-need subjects; and
 
@@ -130,7 +130,7 @@ Subsec. (b). Pub. L. 114–95, §1008(2), added subsec. (b) and struck out forme
 
 Subsecs. (c) to (e). Pub. L. 114–95, §1008(3), added subsecs. (c) to (e) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "A school that is eligible for a schoolwide program under this section may use funds made available under this part to establish or enhance prekindergarten programs for children below the age of 6, such as Even Start programs or Early Reading First programs."
 
-<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted "the Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
+<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted "the Carl D. Perkins Career and Technical EducationAct of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

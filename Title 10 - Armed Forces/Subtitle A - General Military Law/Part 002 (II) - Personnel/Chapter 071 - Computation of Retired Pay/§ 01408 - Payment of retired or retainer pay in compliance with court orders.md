@@ -14,7 +14,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) any administrative or judicial tribunal of a State competent to enter orders for support or maintenance (including a State agency administering a program under a State plan approved under part D of title IV of the Social Security Act), and, for purposes of this subparagraph, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
-&emsp;(2) The term "court order" means a final decree of divorce, dissolution, annulment, or legal separation issued by a court, or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution,annulment, or legal separation, or a court ordered, ratified, or approved property settlement incident to such previously issued decree), or a support order, as defined in section 453(p) of the Social Security Act (42 U.S.C. 653(p)), which—
+&emsp;(2) The term "court order" means a final decree of divorce, dissolution, annulment, or legal separation issued by a court, or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution, annulment, or legal separation, or a court ordered, ratified, or approved property settlement incident to such previously issued decree), or a support order, as defined in section 453(p) of the Social Security Act (42 U.S.C. 653(p)), which—
 
 &emsp;&emsp;(A) is issued in accordance with the laws of the jurisdiction of that court;
 
@@ -80,7 +80,7 @@ Effective Service of Process.—For the purposes of this section—
 
 (c)
 
-Authority for Court To Treat Retired Pay as Property of the Member and Spouse.—\(1) Subject to the limitations of this section, a court may treat disposable retired pay payable to a member for pay periods beginning after June 25, 1981, either as property solely of the member or as property of the member and his spouse in accordance with the law of the jurisdiction of such court. A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member's spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member's spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member's spouse or former spouse.
+Authority for Court To Treat Retired Pay as Property of the Member and Spouse.—(1) Subject to the limitations of this section, a court may treat disposable retired pay payable to a member for pay periods beginning after June 25, 1981, either as property solely of the member or as property of the member and his spouse in accordance with the law of the jurisdiction of such court. A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member's spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member's spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member's spouse or former spouse.
 
 (2) Notwithstanding any other provision of law, this section does not create any right, title, or interest which can be sold, assigned, transferred, or otherwise disposed of (including by inheritance) by a spouse or former spouse. Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member's spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services.
 
@@ -146,7 +146,7 @@ Limitations.—(1) The total amount of the disposable retired pay of a member pa
 
 (f)
 
-Immunity of Officers and Employees of United States.—(1) The United States and any officer or employee of the United States shall not be liable with respect to any payment made from retired pay to any member, spouse, or former spouse pursuant to a court order that is regular on its face if such payment is made in accordance with this section and the regulations prescribed pursuant to subsection (i).
+Immunity of Officers and Employees of United States.—(1) The United States and anyofficer or employee of the United States shall not be liable with respect to any payment made from retired pay to any member, spouse, or former spouse pursuant to a court order that is regular on its face if such payment is made in accordance with this section and the regulations prescribed pursuant to subsection (i).
 
 (2) An officer or employee of the United States who, under regulations prescribed pursuant to subsection (i), has the duty to respond to interrogatories shall not be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or because of, any disclosure of information made by him in carrying out any of his duties which directly or indirectly pertain to answering such interrogatories.
 
@@ -184,9 +184,9 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (6) Notwithstanding any other provision of law, a member or former member of the armed forces referred to in paragraph (2)(A) shall have no ownership interest in, or claim against, any amount payable under this section to a spouse or former spouse, or to a dependent child, of the member or former member.
 
-(7)(A) If a former spouse receiving payments under this subsection with respect to a memberor former member referred to in paragraph (2)(A) marries again after such payments begin, the eligibility of the former spouse to receive further payments under this subsection shall terminate on the date of such marriage.
+(7)(A) If a former spouse receiving payments under this subsection with respect to a member or former member referred to in paragraph (2)(A) marries again after such payments begin, the eligibility of the former spouse to receive further payments under this subsection shall terminate on the date of such marriage.
 
-(B) A person's eligibility to receive payments under this subsection that is terminated under subparagraph (A) by reason of remarriage shall be resumed in the event of the termination of that marriage by the death of that person's spouse or by annulment or divorce. The resumption of payments shall begin as of the first day of the month in which that marriage is so terminated. The monthly amount of the payments shall be the amount that would have been paid if the continuity of the payments had not been interrupted by the marriage.
+(B) A person's eligibility to receive payments under this subsection that is terminated under subparagraph (A) by reason of remarriage shall be resumed in the event of the termination of that marriage by the death of that person's spouse or by annulment or divorce. The resumption of payments shall begin as of the first day of the month in which that marriage is so terminated. The monthly amount of the paymentsshall be the amount that would have been paid if the continuity of the payments had not been interrupted by the marriage.
 
 (8) Payments in accordance with this subsection shall be made out of funds in the Department of Defense Military Retirement Fund established by section 1461 of this title or, in the case of the Coast Guard, out of funds appropriated to the Department of Homeland Security for payment of retired pay for the Coast Guard.
 
@@ -234,7 +234,7 @@ Garnishment To Satisfy a Judgment Rendered for Physically, Sexually, or Emotiona
 
 &emsp;(B) provides in the nature of garnishment for the enforcement of a judgment rendered against the member for physically, sexually, or emotionally abusing a child.
 
-(5) For purposes of this subsection, a judgment rendered for physically, sexually, or emotionally abusing a child is any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of an individual under 18 years of age, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence.
+(5) For purposes of this subsection, a judgment rendered for physically, sexually, or emotionallyabusing a child is any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of an individual under 18 years of age, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence.
 
 (6) If the Secretary concerned is served with more than one court order with respect to the retired pay of a member, the disposable retired pay of the member shall be available to satisfy such court orders on a first-come, first-served basis, subject to the order of precedence specified in paragraph (2), with any such process being satisfied out of such monies as remain after the satisfaction of all such processes which have been previously served.
 
@@ -388,7 +388,7 @@ Pub. L. 101–510, §555(f)(2), substituted "retired pay" for "retired or retain
 
 Subsec. (e)(1). Pub. L. 101–510, §555(d)(1), substituted "payable under all court orders pursuant to subsection (c)" for "payable under subsection (d)".
 
-Subsec. (e)(4)(B). Pub. L. 101–510, §555(d)(2), substituted "the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act (42 U.S.C. 662) to be remuneration foremployment that is payable by the United States" for "the disposable retired or retainer pay payable to such member".
+Subsec. (e)(4)(B). Pub. L. 101–510, §555(d)(2), substituted "the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act (42 U.S.C. 662) to be remuneration for employment that is payable by the United States" for "the disposable retired or retainer pay payable to such member".
 
 Subsec. (f). Pub. L. 101–510, §555(g)(6), inserted heading.
 
@@ -464,7 +464,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by section 362(c) of Pub. L. 104–193 effective six months after Aug. 22, 1996, see section 362(d) of Pub. L. 104–193, set out as a note under section 659 of Title 42, The Public Health and Welfare.
 
-For effective date of amendment by section 363(c)(1)–(3) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42.
+For effective date of amendment by section 363(c)(1)–(3) of Pub. L. 104–193, see section 395(a)–(c) ofPub. L. 104–193, set out as a note under section 654 of Title 42.
 
 Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 

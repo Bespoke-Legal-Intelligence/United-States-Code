@@ -12,11 +12,11 @@ The study shall—
 
 &emsp;(2) review historical and projected requirements for, patterns of availability and use of, and reasons for historical patterns concerning the availability of firming power;
 
-&emsp;(3) assess the wind energy resource potential on tribal land and projected cost savingsthrough a blend of wind and hydropower over a 30-year period;
+&emsp;(3) assess the wind energy resource potential on tribal land and projected cost savings through a blend of wind and hydropower over a 30-year period;
 
 &emsp;(4) determine seasonal capacity needs and associated transmission upgrades for integration of tribal wind generation and identify costs associated with these activities;
 
-&emsp;(5) include an independent tribal engineer and a Western Area Power Administration customer representative as study team members; and
+&emsp;(5) include an independent tribal engineer and a Western Area Power Administrationcustomer representative as study team members; and
 
 &emsp;(6) incorporate, to the extent appropriate, the results of the Dakotas Wind Transmission study prepared by the Western Area Power Administration.
 

@@ -8,7 +8,7 @@ On or before June 10 of each year, the Committee on Appropriations of the House 
 
 #### Codification
 
-Section was formerly classified to section 1328 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1328 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 

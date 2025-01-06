@@ -120,7 +120,7 @@ Section 7101(a) provides the authority for the establishment of licenses and cer
 
 Subsection (b) authorizes the Secretary to issue licenses and certificates of registry based on tonnage, means of propulsion, horsepower, vessel operating area, and other reasonable standards.
 
-Subsection (c) authorizes the Secretary to issue licenses to masters, mates, engineers, pilots, operators, and radio officers when found qualified as to age, character, habits of life, experience, professional qualifications, and physical fitness. These qualifying standardsmust by necessity be reasonable and related to the rigors of the profession.
+Subsection (c) authorizes the Secretary to issue licenses to masters, mates, engineers, pilots, operators, and radio officers when found qualified as to age, character, habits of life, experience, professional qualifications, and physical fitness. These qualifying standards must by necessity be reasonable and related to the rigors of the profession.
 
 Subsection (d) requires the Secretary to establish, when possible, suitable career patterns and service for and other qualifying requirements appropriate to the particular service or industry for the individuals so engaged.
 

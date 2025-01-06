@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) Collect and store high-quality, donated biospecimens and associated clinical and demographic information on children, adolescents, and young adults diagnosed with cancer in the United States, focusing on children, adolescents, and young adults with cancer enrolled in clinical trials for whom current treatments are least effective. Activities under this subparagraph may include storage of biospecimens and associated clinical and demographic data at existing biorepositories supported by the National Cancer Institute, such as collected samples of both solid tumor cancer and paired samples.
 
-&emsp;&emsp;(B) Maintain an interoperable, secure, and searchable database on stored biospecimens and associated clinical and demographic data from children, adolescents, and young adults with cancer for the purposes of research by scientists and qualified health care professionals.
+&emsp;&emsp;(B) Maintain an interoperable, secure, and searchable database on stored biospecimensand associated clinical and demographic data from children, adolescents, and young adults with cancer for the purposes of research by scientists and qualified health care professionals.
 
 &emsp;&emsp;(C) Establish and implement procedures for evaluating applications for access to such biospecimens and clinical and demographic data from researchers and other qualified health care professionals.
 

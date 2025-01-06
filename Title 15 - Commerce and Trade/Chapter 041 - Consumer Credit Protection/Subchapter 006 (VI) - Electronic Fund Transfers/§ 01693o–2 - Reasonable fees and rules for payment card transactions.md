@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the fraud prevention and data security costs expended by each party involved in electronic debit transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
 
-&emsp;&emsp;&emsp;&emsp;(V) the costs of fraudulent transactions absorbed by each party involved in such transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
+&emsp;&emsp;&emsp;&emsp;(V) the costs of fraudulent transactions absorbed by each party involvedin such transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
 
 &emsp;&emsp;&emsp;&emsp;(VI) the extent to which interchange transaction fees have in the past reduced or increased incentives for parties involved in electronic debit transactions to reduce fraud on such transactions; and
 
@@ -108,7 +108,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which aperson uses a general-use prepaid card, or an electronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
+&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or an electronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
 
 &emsp;&emsp;&emsp;(i) A fee for an overdraft, including a shortage of funds or a transaction processed for an amount exceeding the account balance.
 

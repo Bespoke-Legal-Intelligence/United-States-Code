@@ -124,7 +124,7 @@ In general.—Not later than March 1, 2008, the Secretary shall ensure that all 
 
 #### (6) <sup>1</sup> Authorization of appropriations
 
-&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated $16,500,000 for the period of fiscal years 2007 through 2009 and $18,000,000 for the period of fiscal years 2012 through 2014.
+&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated$16,500,000 for the period of fiscal years 2007 through 2009 and $18,000,000 for the period of fiscal years 2012 through 2014.
 
 (July 1, 1944, ch. 373, title III, §317P, as added Pub. L. 106–554, §1(a)(1) \[title V, §516(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72; amended Pub. L. 109–475, §2, Jan. 12, 2007, 120 Stat. 3565; Pub. L. 111–324, §1, Dec. 22, 2010, 124 Stat. 3536.)
 
@@ -132,7 +132,7 @@ In general.—Not later than March 1, 2008, the Secretary shall ensure that all 
 
 #### References in Text
 
-Johanna's Law, referred to in section catchline and subsec. (d), is Pub. L. 109–475, Jan. 12, 2007, 120 Stat.3565, also known as the Gynecologic Cancer Education and Awareness Act of 2005, which amended this section. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 201 of this title and Tables.
+Johanna's Law, referred to in section catchline and subsec. (d), is Pub. L. 109–475, Jan. 12, 2007, 120 Stat. 3565, also known as the Gynecologic Cancer Education and Awareness Act of 2005, which amended this section. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 201 of this title and Tables.
 
 The effective date of this section, referred to in subsecs. (a)(2) and (b)(2), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 

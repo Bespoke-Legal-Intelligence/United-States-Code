@@ -60,13 +60,13 @@ Anything-as-a-service Defined.—In this section, the term 'anything-as-a-servic
 
 #### Development of Procurement Administrative Lead Time
 
-Pub. L. 115–91, div. A, title VIII, §886, Dec. 12, 2017, 131 Stat. 1505, provided that:
+Pub. L. 115–91, div. A, title VIII, §886, Dec. 12, 2017, 131 Stat. 1505, as amended by Pub. L. 118–159, div. A, title XVII, §1701(d)(1), Dec. 23, 2024, 138 Stat. 2207, provided that:
 
 "(a)
 
 In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall develop, make available for public comment, and finalize—
 
-&emsp;"(1) a definition of the term 'Procurement Administrative Lead Time' or 'PALT', to be applied Department of Defense-wide, that describes the amount of time from the date on which a solicitation is issued to the date of an initial award of a contract or task order of the Department of Defense; and
+&emsp;"(1) a definition of the term 'procurement administrative lead time' or 'PALT', to be applied Department of Defense-wide, that describes the amount of time from the date on which a solicitation is issued to the date of an initial award of a contract or task order of the Department of Defense; and
 
 &emsp;"(2) a plan for measuring and publicly reporting data on PALT for Department of Defense contracts and task orders above the simplified acquisition threshold.
 
@@ -88,7 +88,7 @@ Coordination.—In developing the definition of PALT, the Secretary shall coordi
 
 "(d)
 
-Use of Existing Procurement Data Systems.—In developing the plan for measuring and publicly reporting data on PALT required by subsection (a), the Secretary shall, to the maximum extent practicable, rely on the information contained in the Federal procurement data system established pursuant to section 1122(a)(4) of title 41, United States Code, including any modifications to that system."
+Use of Existing Procurement Data Systems.—In developing the plan for measuring and publicly reporting data on PALT required by subsection (a), theSecretary shall, to the maximum extent practicable, rely on the information contained in the Federal procurement data system established pursuant to section 1122(a)(4) of title 41, United States Code, including any modifications to that system."
 
 
 ---

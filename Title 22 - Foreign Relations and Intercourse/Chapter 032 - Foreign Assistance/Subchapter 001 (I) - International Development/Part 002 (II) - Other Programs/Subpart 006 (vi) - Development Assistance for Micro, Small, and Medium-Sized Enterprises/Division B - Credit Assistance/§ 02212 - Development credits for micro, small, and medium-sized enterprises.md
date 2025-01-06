@@ -34,7 +34,7 @@ The Administrator of the Agency shall establish criteria for determining which f
 
 #### (d) Additional requirement
 
-Assistance provided under this section may only be used to support programs for micro, small, and medium-sized enterprises and households and may not be used to support programsnot directly related to the purposes described in subsection (b).
+Assistance provided under this section may only be used to support programs for micro, small, and medium-sized enterprises and households and may not be used to support programs not directly related to the purposes described in subsection (b).
 
 #### (e) Procurement provision
 
@@ -50,7 +50,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 &emsp;Amounts authorized to be available under paragraph (1) shall be made available to cover the subsidy cost, as defined in section 661a(5) of title 2, for activities under this section.
 
-(Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a), (b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927; Pub. L. 115–428, §4(f), Jan. 9, 2019, 132 Stat. 5514.)
+(Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a),\(b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927; Pub. L. 115–428, §4(f), Jan. 9, 2019, 132 Stat. 5514.)
 
 #### <b>Editorial Notes</b>
 
@@ -190,7 +190,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;"(B) The United States should seek to improve coordination among G–7 countries in the support of the microenterprise sector in order to leverage the investment of the United States with that of other donor nations.
 
-&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the UnitedStates can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
+&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the United States can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
 
 #### Purposes of 2000 Amendment
 

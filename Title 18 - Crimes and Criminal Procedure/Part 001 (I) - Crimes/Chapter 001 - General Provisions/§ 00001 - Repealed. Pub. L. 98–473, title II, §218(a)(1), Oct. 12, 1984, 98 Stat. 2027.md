@@ -8,6 +8,16 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–78, §1, July 30, 2024, 138 Stat. 1512, provided that: "This Act \[enacting section 1352 of this title and amending section 201 of this title\] may be cited as the 'Foreign Extortion Prevention Technical Corrections Act'."
+
+Pub. L. 118–77, §1, July 30, 2024, 138 Stat. 1510, provided that: "This Act \[amending section 3663A of this title\] may be cited as the 'Victims' Voices Outside and Inside the Courtroom Effectiveness Act' or the 'Victims' VOICES Act'."
+
+Pub. L. 118–59, §1, May 7, 2024, 138 Stat. 1014, provided that: "This Act \[amending sections 2258A and 2258B of this title and enacting provisions set out as notes under sections 2258A and 2258B of this title\] may be cited as the 'Revising Existing Procedures On Reporting via Technology Act' or the 'REPORT Act'."
+
+Pub. L. 118–42, div. G, title III, §302(a), Mar. 9, 2024, 138 Stat. 451, provided that: "This section \[enacting provisions set out as a note under section 3551 of this title\] may be cited as the 'United States Parole Commission Additional Extension Act of 2024'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 118–31, div. E, title LI, §5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: "This section \[amending sections 2423 and 2427 of this title and enacting provisions set out as a note under section 2423 of this title\] may be cited as the 'Preventing Child Sex Abuse Act of 2023'."
@@ -114,7 +124,7 @@ Pub. L. 113–12, §1, June 3, 2013, 127 Stat. 448, provided that: "This Act \[a
 
 Pub. L. 112–269, §1, Jan. 14, 2013, 126 Stat. 2442, provided that: "This Act \[amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Foreign and Economic Espionage Penalty Enhancement Act of 2012'."
 
-Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of thistitle\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
+Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of this title\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
 
 Pub. L. 112–257, §1, Jan. 10, 2013, 126 Stat. 2413, provided that: "This Act \[amending section 3056 of this title\] may be cited as the 'Former Presidents Protection Act of 2012'."
 
@@ -166,7 +176,7 @@ Pub. L. 110–340, §1, Oct. 3, 2008, 122 Stat. 3735, provided that: "This Act \
 
 Pub. L. 110–326, title I, §101, Sept. 26, 2008, 122 Stat. 3560, provided that: "This title \[amending section 3056 of this title and enacting provisions set out as a note under section 3056 of this title\] may be cited as the 'Former Vice President Protection Act of 2008'."
 
-Pub. L. 110–326, title II, §201, Sept. 26, 2008, 122 Stat. 3560, provided that: "This title \[amending sections 1030, 2332b, and 3663 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Identity Theft Enforcement and Restitution Act of 2008'."
+Pub. L. 110–326, title II, §201, Sept. 26, 2008, 122 Stat. 3560, provided that: "This title \[amending sections 1030, 2332b, and 3663 of this title and amending provisionslisted in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Identity Theft Enforcement and Restitution Act of 2008'."
 
 Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: "This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007'."
 

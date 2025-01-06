@@ -18,7 +18,7 @@
 
 &emsp;(3) it is not for personal injury or death of such a member or civilian officer or employee whose injury or death is incident to his service;
 
-&emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee; or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
+&emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act ofthe claimant, his agent, or his employee; or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
 
 &emsp;(5) it is substantiated as prescribed in regulations of the Secretary concerned.
 
@@ -32,7 +32,7 @@
 
 (f) For the purposes of this section, a member of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with the Navy or Marine Corps shall be treated as if he were a member of that armed force.
 
-(g) Under regulations prescribed by the Secretary concerned, an officer or employee underthe jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
+(g) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
@@ -162,7 +162,7 @@ Subsec. (g). Pub. L. 93–336, §1(3), substituted "$5,000" for "$2,500".
 
 Subsec. (d). Pub. L. 91–312, §2(b), substituted "$15,000" for "$5,000" wherever appearing.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–525, §1, substituted "Secretary concerned" for "Secretary of a military department", and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of theCoast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
+<b>1968</b>—Subsec. (a). Pub. L. 90–525, §1, substituted "Secretary concerned" for "Secretary of a military department", and authorized the Chief Legal Officer of the Coast Guard to settle claims, settlement of claims for damage or loss to personal property in possession of the Coast Guard, and settlements when the torts are caused by civilian officers or employees and members of the Coast Guard when acting within scope of employment or otherwise incident to noncombat activities of the Coast Guard.
 
 Subsec. (b)(4). Pub. L. 90–522, §1(1), authorized application of local law in determining effect of claimant's contributory negligence.
 

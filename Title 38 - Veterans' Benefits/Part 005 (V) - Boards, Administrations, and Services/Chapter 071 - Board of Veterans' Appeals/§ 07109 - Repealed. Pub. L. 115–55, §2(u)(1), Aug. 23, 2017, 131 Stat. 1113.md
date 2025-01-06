@@ -1,6 +1,6 @@
 ### \[§7109. Repealed. Pub. L. 115–55, §2(u)(1), Aug. 23, 2017, 131 Stat. 1113\]
 
-Section, added Pub. L. 87–671, §1, Sept. 19, 1962, 76 Stat. 557, §4009; amended Pub. L. 100–687, div. A, title I,§103(b), Nov. 18, 1988, 102 Stat. 4107; renumbered §7109, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to advisory medical opinions from one or more independent medical experts who are not employees of the Department.
+Section, added Pub. L. 87–671, §1, Sept. 19, 1962, 76 Stat. 557, §4009; amended Pub. L. 100–687, div. A, title I, §103(b), Nov. 18, 1988, 102 Stat. 4107; renumbered §7109, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to advisory medical opinions from one or more independent medical experts who are not employees of the Department.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

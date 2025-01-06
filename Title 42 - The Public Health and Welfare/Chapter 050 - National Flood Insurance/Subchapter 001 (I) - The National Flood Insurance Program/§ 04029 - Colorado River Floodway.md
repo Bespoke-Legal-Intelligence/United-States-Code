@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (b), was in the original a reference to "th
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–325 substituted "regulated lending institution or Federal agency lender" for "federally supervised, approved, regulated or insured financial institution".
+<b>1994</b>—Subsec. (d). Pub. L. 103–325 substituted "regulated lending institution or Federal agency lender" for"federally supervised, approved, regulated or insured financial institution".
 
 <b>1988</b>—Pub. L. 100–242 inserted section catchline.
 

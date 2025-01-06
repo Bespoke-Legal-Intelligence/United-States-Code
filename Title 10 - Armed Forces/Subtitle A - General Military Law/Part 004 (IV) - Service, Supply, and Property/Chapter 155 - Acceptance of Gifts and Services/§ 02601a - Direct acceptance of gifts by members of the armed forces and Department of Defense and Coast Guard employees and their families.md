@@ -20,7 +20,7 @@ Regulations Governing Acceptance of Gifts.—(1) The Secretary of Defense (and t
 
 (b)
 
-Covered Members.—This section applies to a member of the armed forces who, while performing active duty, full-time National Guardduty, or inactive-duty training on or after September 11, 2001, incurred an injury or illness—
+Covered Members.—This section applies to a member of the armed forces who, while performing active duty, full-time National Guard duty, or inactive-duty training on or after September 11, 2001, incurred an injury or illness—
 
 &emsp;(1) as described in section 1413a(e)(2) of this title;
 

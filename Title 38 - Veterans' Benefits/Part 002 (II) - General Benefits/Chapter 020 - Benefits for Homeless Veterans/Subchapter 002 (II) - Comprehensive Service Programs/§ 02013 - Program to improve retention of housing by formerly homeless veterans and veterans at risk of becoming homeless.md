@@ -28,7 +28,7 @@ Grants.—(1) The Secretary shall carry out the program through the award of gra
 
 (3) The Secretary shall require each recipient of a grant awarded under this subsection to submit to the Secretary a report that describes the services provided or coordinated with amounts under such grant.
 
-(Added Pub. L. 114–315, title VII, §712(a)(1)(B), Dec. 16, 2016, 130 Stat. 1586; amended Pub. L. 117–328, div. U, title III, §302, Dec. 29, 2022, 136 Stat. 5466.)
+(Added Pub. L. 114–315, title VII, §712(a)(1)(B), Dec. 16, 2016, 130 Stat. 1586; amended Pub. L.117–328, div. U, title III, §302, Dec. 29, 2022, 136 Stat. 5466.)
 
 #### <b>Editorial Notes</b>
 

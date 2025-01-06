@@ -28,7 +28,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1015(b)(2)(B), amended par. (1) generally. 
 
 &emsp;"(B) an amount equal to 50 percent of the interest payable under section 6601 with respect to such portion for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax or, if earlier, the date of the payment of the tax."
 
-Subsec. (g). Pub. L. 100–647, §1015(b)(3), inserted at end "If any penalty is imposed under subsection (a) by reason of the preceding sentence, only the portion of the underpayment which is attributable to the failure described in the preceding sentence shall be taken into account in determining the amount of the penalty under subsection (a)."
+Subsec. (g). Pub. L. 100–647, §1015(b)(3), inserted at end "If any penalty is imposed under subsection (a) by reason of the preceding sentence, only the portion of the underpayment which is attributable to the failuredescribed in the preceding sentence shall be taken into account in determining the amount of the penalty under subsection (a)."
 
 <b>1986</b>—Pub. L. 99–514, §1503(d)(1), substituted "Additions to tax for negligence and fraud" for "Failure to pay tax" in section catchline.
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 91–172, §943(c)(6), inserted "or pay tax" after "such re
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 #### Effective Date of 1988 Amendment
 

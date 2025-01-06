@@ -22,7 +22,7 @@ Gross income does not include amounts received as prizes and awards made primari
 
 #### (2) Excess deduction award
 
-&emsp;If the cost to the employer of the employee achievement award received by the taxpayer exceeds the amount allowable as a deduction to the employer, then gross income includes the greater of—
+&emsp;If the cost to the employer of the employee achievement award received by the taxpayerexceeds the amount allowable as a deduction to the employer, then gross income includes the greater of—
 
 &emsp;&emsp;(A) an amount equal to the portion of the cost to the employer of the award that is not allowable as a deduction to the employer (but not in excess of the value of the award), or
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
 
 #### Change of Name
 
-References to the United States Olympic Committee deemed to refer to the United States Olympic andParalympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Effective Date of 2021 Amendment
 
@@ -114,7 +114,7 @@ Coordination with section 199a.—No deduction shall be allowed under section 19
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–239, §2(b), Oct. 7, 2016, 130 Stat. 973, provided that: "The amendment made by this section \[amending this section\] shall apply to prizes and awards received after December 31, 2015."
+Pub. L. 114–239, §2(b), Oct. 7, 2016, 130 Stat. 973, provided that: "The amendment made by this section\[amending this section\] shall apply to prizes and awards received after December 31, 2015."
 
 #### Effective Date of 1986 Amendment
 

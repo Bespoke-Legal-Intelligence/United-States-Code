@@ -2,7 +2,7 @@
 
 #### (a) Initial report
 
-Not later than April 30, 1982, the President shall transmit to the Speaker of the House ofRepresentatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b).
+Not later than April 30, 1982, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date whichcontains the information specified in subsection (b).
 
 #### (b) Annual report; content
 

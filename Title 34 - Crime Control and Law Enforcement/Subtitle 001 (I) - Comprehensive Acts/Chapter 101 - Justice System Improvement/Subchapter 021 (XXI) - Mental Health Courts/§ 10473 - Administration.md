@@ -20,7 +20,7 @@ In addition to any other requirements that may be specified by the Attorney Gene
 
 &emsp;(2) explain the applicant's inability to fund the program adequately without Federal assistance;
 
-&emsp;(3) certify that the Federal support provided will be used to supplement, and not supplant, State, Indian tribal, and local sources of funding that would otherwise be available;
+&emsp;(3) certify that the Federal support provided will be used to supplement, and not supplant,State, Indian tribal, and local sources of funding that would otherwise be available;
 
 &emsp;(4) identify related governmental or community initiatives which complement or will be coordinated with the proposal;
 

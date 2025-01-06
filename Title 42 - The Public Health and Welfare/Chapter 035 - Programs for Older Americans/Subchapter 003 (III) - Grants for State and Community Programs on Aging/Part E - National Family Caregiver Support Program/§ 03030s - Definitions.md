@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 114–144, §4(k)(2)(B), substituted "this part," for "this
 
 #### Short Title
 
-For short title of this part as the "National Family Caregiver Support Act", see section 371 of Pub. L. 89–73,set out as a Short Title note under section 3001 of this title.
+For short title of this part as the "National Family Caregiver Support Act", see section 371 of Pub. L. 89–73, set out as a Short Title note under section 3001 of this title.
 
 #### Recognize, Assist, Include, Support, and Engage Family Caregivers
 
@@ -282,7 +282,7 @@ Sec. 2. <i>Increasing Compensation and Improving Job Quality for Family Caregive
 
 (i) the Secretary of Health and Human Services, through the Administrator for the Centers for Medicare and Medicaid Services (CMS), shall issue guidance to States on ways to use enhanced funding to better connect home- and community-based workers who provide services to Medicaid beneficiaries;
 
-(ii) the Secretary of Health and Human Services shall implement strategies to encourage comparability of compensation and benefits between staff employed by Head Start grant recipients and elementary school teachers;
+(ii) the Secretary of Health and Human Services shall implement strategies to encourage comparability ofcompensation and benefits between staff employed by Head Start grant recipients and elementary school teachers;
 
 (iii) the Secretary of Health and Human Services shall expand efforts to improve care workers' access to health insurance; and
 
@@ -332,7 +332,7 @@ Sec. 2. <i>Increasing Compensation and Improving Job Quality for Family Caregive
 
 (ii) the Secretary of Labor shall work with community and other local partners to expand culturally and linguistically appropriate community outreach and education efforts to domestic child care and long-term care workers in order to combat their exploitation; and
 
-(iii) the Chair of the Equal Employment Opportunity Commission is encouraged to work with the Attorney General, the Secretary of Labor, and the Secretary of Homeland Security to develop materials addressing the employment rights of non-citizen domestic child care and long-term care workers who are legally eligible to work.
+(iii) the Chair of the Equal Employment Opportunity Commission is encouraged to work with the AttorneyGeneral, the Secretary of Labor, and the Secretary of Homeland Security to develop materials addressing the employment rights of non-citizen domestic child care and long-term care workers who are legally eligible to work.
 
 (g) To improve data and information on the care workforce:
 
@@ -384,7 +384,7 @@ Sec. 4. <i>Expanding Options for Families by Building the Supply of Care</i>. (a
 
 (iii) The Secretary of Education shall update a guide for schools and districts to expand high-quality early learning programming using Federal funds so that more preschoolers are fully prepared to succeed in school.
 
-(iv) The Secretary of Education and the Secretary of Health and Human Services shall identify and disseminate evidence-based practices for serving children with disabilities and their families in high-quality early childhood education programs, including Head Start. The Secretaries shall also take steps to ensure that services are inclusive of children with disabilities and their families; highlight any resources that are available to aid in that effort, including for preschool-aged children with disabilities under section 619 of the Individuals with Disabilities Education Act (IDEA) \[20 U.S.C. 1419\] and for infants and toddlers with disabilities and their families under Part C of the IDEA \[20 U.S.C. 1431 et seq.\]; and provide information to support all early childhood programs in meeting their obligations under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\] and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
+(iv) The Secretary of Education and the Secretary of Health and Human Services shall identify and disseminate evidence-based practices for serving children with disabilities and their families in high-quality early childhood education programs, including Head Start. The Secretaries shall also take steps to ensure that services are inclusive of children with disabilities and their families; highlight any resources that are available to aid in that effort, including for preschool-aged children with disabilities under section 619 of the Individuals with Disabilities Education Act (IDEA) \[20 U.S.C. 1419\] and for infants and toddlers with disabilities and their families under Part C of the IDEA \[20 U.S.C. 1431 et seq.\]; and provide information to supportall early childhood programs in meeting their obligations under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\] and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
 
 (v) The Director of the Bureau of Consumer Financial Protection is encouraged to consider developing financial guidance resources that support families during their care planning.
 

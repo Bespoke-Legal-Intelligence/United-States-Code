@@ -6,7 +6,7 @@ For the purpose described in subsection (b), the Secretary, acting through the C
 
 #### (b) Authorized activities
 
-A funding agreement for a grant under subsection (a) is that, subject to section 300x–31 ofthis title, the State involved will expend the grant only for the purpose of carrying out the plan developed in accordance with section 300x–32(b) of this title and for planning, carrying out, and evaluating activities to prevent, treat, and provide recovery support services for substance use disorders and for related activities authorized in section 300x–24 of this title.
+A funding agreement for a grant under subsection (a) is that, subject to section 300x–31 of this title, the State involved will expend the grant only for the purpose of carrying out the plan developed in accordance with section 300x–32(b) of this title and for planning, carrying out, and evaluating activities to prevent, treat, and provide recovery support services for substance use disorders and for related activities authorized in section 300x–24 of this title.
 
 (July 1, 1944, ch. 373, title XIX, §1921, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 388; amended Pub. L. 114–255, div. B, title VIII, §8002(a), Dec. 13, 2016, 130 Stat. 1229; Pub. L. 117–328, div. FF, title I, §1242, Dec. 29, 2022, 136 Stat. 5678.)
 

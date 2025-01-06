@@ -66,7 +66,7 @@ Emergencies and Revocations.—Nothing in this section diminishes or modifies th
 
 (d)
 
-Participation by State Authority.—In carrying out this section, the Secretary mayprovide for consultation by a State that has in effect a certification under section 60105. To the extent that a demonstration project comprises an intrastate natural gas pipeline or an intrastate hazardous liquid pipeline facility, the Secretary may make an agreement with the State agency to carry out the duties of the Secretary for approval and administration of the project.
+Participation by State Authority.—In carrying out this section, the Secretary may provide for consultation by a State that has in effect a certification under section 60105. To the extent that a demonstration project comprises an intrastate natural gas pipeline or an intrastate hazardous liquid pipeline facility, the Secretary may make an agreement with the State agency to carry out the duties of the Secretary for approval and administration of the project.
 
 (e)
 
@@ -82,5 +82,5 @@ Report.—Not later than March 31, 2000, the Secretary shall transmit to the Con
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National andCommercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

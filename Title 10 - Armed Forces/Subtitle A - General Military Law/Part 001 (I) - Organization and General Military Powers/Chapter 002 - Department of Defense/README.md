@@ -27,7 +27,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. A, title X, §1061(a)(2), Dec. 27, 2021, 135 Stat. 1909, which effectively directed the renumbering of the second item 118a ("Quadrennial quality of life review") as 118b, could not be executed because there was no second item 118a after the renumbering of another item 118a ("National Defense Sustainment and Logistics Review") as 118b by Pub. L. 117–81, §§311(b)(2)(A), 1081(a)(3). See note below.
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1061(a)(2), Dec. 27, 2021, 135 Stat. 1909, which effectively directed the renumbering of the second item 118a ("Quadrennial quality of life review") as 118b, could not be executed because there was no second item 118a after the renumbering of another item 118a ("National DefenseSustainment and Logistics Review") as 118b by Pub. L. 117–81, §§311(b)(2)(A), 1081(a)(3). See note below.
 
 Pub. L. 117–81, div. A, title III, §311(b)(2)(A), title X, §1081(a)(3), Dec. 27, 2021, 135 Stat. 1625, 1919, made similar amendments, resulting in the renumbering of item 118a "National Defense Sustainment and Logistics Review" as 118b. Amendment by section 1081(a)(3) to be treated as applying before amendment by section 311(b)(2)(A), see section 1081(d) of Pub. L. 117–81, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
 

@@ -8,7 +8,7 @@ There is designated as the Norbeck Wildlife Preserve such areas, not exceeding f
 
 #### Codification
 
-As enacted by act June 5, 1920, this section authorized the President to designate areas not exceeding 30,000 acres, but by amendment by act June 7, 1924, the President was authorized, upon recommendation of the Secretary of Agriculture, to enlarge the area by proclamation to embrace a total of not to exceed 46,000 acres and the provisions of sections 676 to 678 of this title, apply with equal force to the additional area.
+As enacted by act June 5, 1920, this section authorized the President to designate areas not exceeding 30,000acres, but by amendment by act June 7, 1924, the President was authorized, upon recommendation of the Secretary of Agriculture, to enlarge the area by proclamation to embrace a total of not to exceed 46,000 acres and the provisions of sections 676 to 678 of this title, apply with equal force to the additional area.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

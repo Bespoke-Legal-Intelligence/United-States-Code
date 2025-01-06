@@ -50,7 +50,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 #### (2) Abrogation of agreements
 
-&emsp;The Commission may abrogate any agreement or memorandum of understanding with another agency if the Commission determines that the other agency has failed to maintain in confidence any information provided under such agreement or memorandum of understanding, or has used any such information for purposes other than those set forth in such agreement or memorandum of understanding.
+&emsp;The Commission may abrogate any agreement or memorandum of understanding withanother agency if the Commission determines that the other agency has failed to maintain in confidence any information provided under such agreement or memorandum of understanding, or has used any such information for purposes other than those set forth in such agreement or memorandum of understanding.
 
 #### (3) Additional rules against disclosure
 

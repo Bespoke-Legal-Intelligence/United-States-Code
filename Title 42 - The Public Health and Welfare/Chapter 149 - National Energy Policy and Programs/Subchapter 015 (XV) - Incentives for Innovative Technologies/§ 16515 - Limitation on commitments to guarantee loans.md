@@ -10,7 +10,7 @@
 
 &emsp;(3) any other policies, procedures, or information necessary to implement title XVII of the Energy Policy Act of 2005.
 
-(c) The Secretary of Energy shall enter into an arrangement with an independent auditor for annual evaluations of the program under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\]. In addition to the independent audit, the Comptroller General shall conduct a review every three years of the Department's execution of the program under title XVII of the Energy Policy Act of 2005. The results of the independent audit and the Comptroller General's review shall be provided directly to the Committees on Appropriations of the House of Representatives and the Senate.
+(c) The Secretary of Energy shall enter into an arrangement with an independent auditor for annual evaluations of the program under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\]. In addition to the independent audit, the Comptroller General shall conduct a review every three years of the Department'sexecution of the program under title XVII of the Energy Policy Act of 2005. The results of the independent audit and the Comptroller General's review shall be provided directly to the Committees on Appropriations of the House of Representatives and the Senate.
 
 (d) The Secretary of Energy shall promulgate final regulations for loan guarantees under title XVII of the Energy Policy Act of 2005 \[42 U.S.C. 16501 et seq.\] within 6 months of February 15, 2007.
 

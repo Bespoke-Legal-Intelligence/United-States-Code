@@ -12,7 +12,7 @@ Certificate of Recordation.—The Register of Copyrights shall, upon receipt of 
 
 Recordation as Constructive Notice.—Recordation of a document in the Copyright Office gives all persons constructive notice of the facts stated in the recorded document, but only if—
 
-&emsp;(1) the document, or material attached to it, specifically identifies the work to which itpertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and
+&emsp;(1) the document, or material attached to it, specifically identifies the work to which it pertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and
 
 &emsp;(2) registration has been made for the work.
 
@@ -72,9 +72,9 @@ Deposit of Copies in Library of Congress.—In the case of public domain compute
 
 "(d)
 
-Regulations.—The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established by the Register are subject to the approval of the Librarian of Congress."
+Regulations.—The Register of Copyrights is authorized to establish regulations not inconsistent withlaw for the administration of the functions of the Register under this section. All regulations established by the Register are subject to the approval of the Librarian of Congress."
 
 #### Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
 
-Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan.1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of Pub. L. 94–553, set out as a note under section 410 of this title.
+Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan. 1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of Pub. L. 94–553, set out as a note under section 410 of this title.
 

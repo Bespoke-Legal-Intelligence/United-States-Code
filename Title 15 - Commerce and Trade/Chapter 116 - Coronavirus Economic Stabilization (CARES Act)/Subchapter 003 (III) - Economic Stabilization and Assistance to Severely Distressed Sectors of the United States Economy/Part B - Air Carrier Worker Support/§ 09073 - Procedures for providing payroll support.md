@@ -32,7 +32,7 @@ The Secretary shall provide financial assistance under this part—
 
 #### (c) Pro rata authority
 
-The Secretary shall have the authority to reduce, on a pro rata basis, the amounts due to air carriers and contractors under the applicable paragraph of section 9072 of this title in order to address any shortfall in assistance that would otherwise be provided under such section.
+The Secretary shall have the authority to reduce, on a pro rata basis, the amounts due to air carriers and contractors under the applicableparagraph of section 9072 of this title in order to address any shortfall in assistance that would otherwise be provided under such section.
 
 #### (d) Audits
 

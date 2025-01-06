@@ -34,6 +34,8 @@ In this subchapter:
 
 <b>2004</b>—Pars. (1), (2). Pub. L. 108–400 substituted "McInnis" for "Colorado".
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment

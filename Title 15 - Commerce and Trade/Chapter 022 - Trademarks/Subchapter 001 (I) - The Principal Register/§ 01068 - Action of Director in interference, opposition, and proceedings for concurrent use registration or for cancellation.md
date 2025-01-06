@@ -16,7 +16,7 @@ Act Feb. 20, 1905, ch. 592, §§7, 13, 33 Stat. 726, 728.
 
 <b>1999</b>—Pub. L. 106–113 substituted "Director" for "Commissioner" in two places.
 
-<b>1988</b>—Pub. L. 100–667 substituted "the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respectto the register" for "or restrict", and "may refuse" for "or may refuse", and inserted provisions that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+<b>1988</b>—Pub. L. 100–667 substituted "the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register" for "or restrict", and "may refuse" for "or may refuse", and inserted provisions that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

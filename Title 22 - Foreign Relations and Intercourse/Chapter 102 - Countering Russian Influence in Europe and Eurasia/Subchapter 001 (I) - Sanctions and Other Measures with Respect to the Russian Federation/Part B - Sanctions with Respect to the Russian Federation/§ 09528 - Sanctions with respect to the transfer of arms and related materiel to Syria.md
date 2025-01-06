@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) acquire or develop destabilizing numbers and types of advanced conventional weapons;
 
-&emsp;&emsp;(D) acquire significant defense articles, defense services, or defense information (as such terms are defined under the Arms Export Control Act (22 U.S.C. 2751 et seq.)); or
+&emsp;&emsp;(D) acquire significant defense articles, defense services, or defense information (assuch terms are defined under the Arms Export Control Act (22 U.S.C. 2751 et seq.)); or
 
 &emsp;&emsp;(E) acquire items designated by the President for purposes of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)).
 

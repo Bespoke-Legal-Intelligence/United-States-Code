@@ -144,7 +144,7 @@ An award under subsection (b) shall apply to—
 
 &emsp;&emsp;&emsp;(ii) 25 years;
 
-&emsp;&emsp;(C) may be subject to a deferral in repayment for not more than 5 years after thedate on which the eligible project carried out using funds from the loan first begins operations, as determined by the Secretary;
+&emsp;&emsp;(C) may be subject to a deferral in repayment for not more than 5 years after the date on which the eligible project carried out using funds from the loan first begins operations, as determined by the Secretary;
 
 &emsp;&emsp;(D) shall be made by the Federal Financing Bank; and
 
@@ -182,7 +182,7 @@ The Secretary shall, in making awards or loans to those manufacturers that have 
 
 #### (i) Appointment and pay of personnel
 
-(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
+(1) The Secretary may use direct hiring authority pursuant to section 3304(b)(3) of title 5 to appoint such professional and administrativepersonnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such <sup>3</sup> title 5.
 
@@ -220,7 +220,7 @@ Not later than 2 years after November 15, 2021, and every 3 years thereafter, th
 
 &emsp;(7) any other metrics the Secretary determines appropriate.
 
-(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578; Pub. L. 111–85, title III, §312(a), Oct. 28, 2009, 123 Stat. 2874; Pub. L. 117–58, div. D, title IV, §40401(b), Nov. 15, 2021, 135 Stat. 1034; Pub. L. 117–169, title V, §50142(c), Aug. 16, 2022, 136 Stat. 2044; Pub. L. 117–328, div. D, title III, §308, Dec. 29, 2022, 136 Stat. 4645.)
+(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578; Pub. L. 111–85, title III, §312(a), Oct. 28, 2009, 123 Stat. 2874; Pub. L. 117–58, div. D, title IV, §40401(b), Nov. 15, 2021, 135 Stat. 1034; Pub. L. 117–169, title V, §50142(c), Aug. 16, 2022, 136 Stat. 2044; Pub. L. 117–328, div. D, title III, §308, Dec. 29, 2022, 136 Stat. 4645; Pub. L. 118–188, §2(a)(2)(D), Dec. 23, 2024, 138 Stat. 2645.)
 
 #### <b>Editorial Notes</b>
 
@@ -235,6 +235,8 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is se
 In subsec. (i)(3), "section 1901 of title 41" substituted for "section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (i)(1). Pub. L. 118–188 substituted "3304(b)(3)" for "3304(a)(3)".
 
 <b>2022</b>—Subsec. (d)(1). Pub. L. 117–169 struck out "a total of not more than $25,000,000,000 in" after "to provide".
 

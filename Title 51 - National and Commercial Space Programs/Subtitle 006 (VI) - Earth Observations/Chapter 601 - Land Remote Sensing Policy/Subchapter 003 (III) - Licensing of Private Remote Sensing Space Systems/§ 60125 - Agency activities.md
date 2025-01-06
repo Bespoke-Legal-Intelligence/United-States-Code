@@ -22,7 +22,7 @@ Applicability.—This section does not apply to activities carried out under sub
 
 (e)
 
-Effect on FCC Authority.—Nothing in this subchapter shall affect the authority of the Federal Communications Commission pursuant to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
+Effect on FCC Authority.—Nothing in this subchapter shall affect the authority of theFederal Communications Commission pursuant to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3416.)
 

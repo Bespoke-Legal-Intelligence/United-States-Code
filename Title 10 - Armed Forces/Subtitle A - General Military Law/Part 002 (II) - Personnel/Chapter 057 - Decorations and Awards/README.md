@@ -64,7 +64,7 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
-<b>1965</b>—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+<b>1965</b>—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards formembers of armed forces for suggestions, inventions, or scientific achievements.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -166,7 +166,7 @@ Pub. L. 109–364, div. A, title V, §557, Oct. 17, 2006, 120 Stat. 2219, provid
 
 "(a)
 
-Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of themilitary departments for awarding decorations to members of the Armed Forces.
+Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
 
 "(b)
 
@@ -292,27 +292,27 @@ Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of
 
 Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for each succeeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
-Sec. 4. The Defense Superior Service Medal or device may be awarded posthumously, and when so awarded,may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
+Sec. 4. The Defense Superior Service Medal or device may be awarded posthumously, and when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11926. Vice Presidential Service Badge
 
-Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, §56, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13373, §1, Mar. 10, 2005, 70 F.R. 12579, provided:
+Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, §56, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13373, §1, Mar. 10, 2005, 70 F.R. 12579; Ex. Ord. No. 14131, §2, Dec. 20, 2024, 89 F.R. 105377, provided:
 
-By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me as President of the United States of America, and as Commander inChief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
+Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the United States Uniformed Services who have been assigned to duty in the Office of the Vice President for a period of at least 1 year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least 1 year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
 
-Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Vice President's designee (with the concurrence of the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers), by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President and, in the case of members of the commissioned corps of the National Oceanic and Atmospheric Administration or the commissioned corps of the Public Health Service so assigned, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively.
+Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Vice President's designee (with the concurrence of the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers), by the Secretary of the military department concerned, or, when the Coast Guard is not operating as a service in the Navy, by the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President and, in the case of members of the Commissioned Corps of the National Oceanic and Atmospheric Administration or the Commissioned Corps of the Public Health Service so assigned, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively.
 
 Sec. 3. The Vice Presidential Service Badge shall be accompanied by a certificate, the design of which is attached hereto and is made a part of this Order. The Vice Presidential Service Badge shall consist of a white enameled disc surrounded by 27 gold rays radiating from the center, 115/16 inches in diameter overall. Superimposed on the white disc shall be a gold color device taken from the seal of the Vice President of the United States. The overall design of the badge shall be as shown at the top of the certificate which accompanies the Badge and which is attached to this Order.
 
-Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of the uniform of an individual both during and after his assignment to duty in the Office of the Vice President.
+Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of the uniform of an individual both during and after their assignment to duty in the Office of the Vice President.
 
 Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously. No award shall be made to an individual under this Order based on a period of service with respect to which, in whole or in part, the individual was awarded the Presidential Service Badge.
 
-Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
+Sec. 6. Notwithstanding the provisions of sections 1 and 2 of this order, any member of the United States Uniformed Services, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers, is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on their uniform commencing on the first day of such duty and thereafter while assigned to such duty.
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
@@ -346,13 +346,13 @@ Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumou
 
 #### Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge
 
-Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 13286, §31, Feb. 28, 2003, 68 F.R. 10625, provided:
+Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 13286, §31, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 14131, §1, Dec. 20, 2024, 89 F.R. 105377, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
-Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
+Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate (Certificate) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States to members of the United States Uniformed Services who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (EOP). The Certificate shall be awarded by the Secretary of the military department concerned, or, when the Coast Guard is not operating as a service in the Navy, by the Secretary of Homeland Security, and, in the case of members of the Commissioned Corps of the National Oceanic and Atmospheric Administration or the Commissioned Corps of the Public Health Service, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively. The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least 1 year, subsequent to January 21, 1989.
 
-Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge ("Badge") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
+Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (Badge) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the United States Uniformed Services who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
 Sec. 3. Only one Certificate may be awarded to an individual.
 
@@ -396,7 +396,7 @@ Ex. Ord. No. 13306, May 28, 2003, 68 F.R. 33337, provided:
 
 By the authority vested in me as President and as Commander in Chief by the Constitution and the laws of the United States of America, it is ordered as follows:
 
-Section 1. <i>Establishment of the Award</i>. In order to encourage love of country, service to the people of the United States, and support for our Armed Forces, and in order to recognize the unique and lifelong service of Bob Hope to the United States Armed Forces and to the Nation through his unwavering patriotism and dedication to maintaining the morale of the troops he entertained for nearly six decades, and on the occasion of his 100th birthday, there is hereby established the Bob Hope American Patriot Award (Award).
+Section 1. <i>Establishment of the Award</i>. In order to encourage love of country, service to the people of the United States, and support for our Armed Forces, and in order to recognize the unique and lifelong service of Bob Hope to the United States Armed Forces and to the Nation through his unwavering patriotism and dedication to maintaining the morale of the troops he entertained for nearly six decades, and on the occasion of his100th birthday, there is hereby established the Bob Hope American Patriot Award (Award).
 
 Sec. 2. <i>Granting and Presentation of the Award.</i>
 
@@ -462,7 +462,7 @@ Sec. 5. <i>Distinguished Flying Cross.</i>
 
 (iii) between September 3, 1945, and twelve o'clock noon on December 31, 1946 (the date and time World War II hostilities were terminated pursuant to Proclamation 2714 of December 31, 1946 \[50 U.S.C. note prec. 1\]), no award shall be made unless the award recommendation was made on or before June 30, 1947;
 
-(iv) between July 2, 1926, and September 10, 2001, with the exception of a qualifying act or achievement authorized pursuant to paragraphs (ii) or (iii) of this subsection, no award shall be made more than 3 years after the date of the qualifying act or achievement unless the award recommendation was made within 2 years of the qualifying act or achievement; or
+(iv) between July 2, 1926, and September 10, 2001, with the exception of a qualifying act or achievement authorized pursuant to paragraphs (ii) or (iii) of this subsection, no award shall be made more than 3 years after the date of the qualifying act or achievement unlessthe award recommendation was made within 2 years of the qualifying act or achievement; or
 
 (v) on or after September 11, 2001, no award shall be made except in accordance with any time limitations established in regulations by the Secretary of the military department concerned or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 

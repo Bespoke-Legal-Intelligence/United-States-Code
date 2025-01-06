@@ -62,5 +62,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–498, title XVI, §1601(a)(2), Oct. 17, 1986, 100 Stat. 1612, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1986."
+Pub. L. 99–498, title XVI, §1601(a)(2), Oct. 17, 1986, 100 Stat. 1612, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect on October 1, 1986."
 

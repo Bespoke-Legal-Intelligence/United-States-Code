@@ -26,7 +26,7 @@
 
 &emsp;Not later than 18 months after August 8, 2005, the Secretary shall develop and implement best management practices to—
 
-&emsp;&emsp;(A) improve the administration of the onshore oil and gas leasing program under theMineral Leasing Act (30 U.S.C. 181 et seq.); and
+&emsp;&emsp;(A) improve the administration of the onshore oil and gas leasing program under the Mineral Leasing Act (30 U.S.C. 181 et seq.); and
 
 &emsp;&emsp;(B) ensure timely action on oil and gas leases and applications for permits to drill on land otherwise available for leasing.
 

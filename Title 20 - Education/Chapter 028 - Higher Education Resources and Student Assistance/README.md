@@ -41,7 +41,7 @@
 | [1015a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015a%20-%20Transparency%20in%20college%20tuition%20for%20consumers.md) | Transparency in college tuition for consumers. |
 | [1015b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015b%20-%20Textbook%20information.md) | Textbook information. |
 | [1015c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015c%20-%20Database%20of%20student%20information%20prohibited.md) | Database of student information prohibited. |
-| [1015d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015d%20-%20In-State%20tuition%20rates%20for%20members%20of%20the%20armed%20forces%20on%20active%20duty%2C%20spouses%2C%20and%20dependent%20children.md) | In-State tuition rates for members of the armed forces on active duty, spouses, and dependent children. |
+| [1015d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015d%20-%20In-State%20tuition%20rates%20for%20members%20of%20qualifying%20Federal%20service.md) | In-State tuition rates for members of qualifying Federal service. |
 | [1015e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015e%20-%20State%20higher%20education%20information%20system%20pilot%20program.md) | State higher education information system pilot program. |
 | [1015f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015f%20-%20State%20commitment%20to%20affordable%20college%20education.md) | State commitment to affordable college education. |
 
@@ -463,7 +463,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1070h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20A%20-%20Grants%20to%20Students%20in%20Attendance%20at%20Institutions%20of%20Higher%20Education/Subpart%20010%20-%20Scholarships%20for%20Veteran%27s%20Dependents/%C2%A7%2001070h%20-%20Scholarships%20for%20veteran%27s%20dependents.md) | Scholarships for veteran's dependents. |
+| [1070h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20A%20-%20Grants%20to%20Students%20in%20Attendance%20at%20Institutions%20of%20Higher%20Education/Subpart%20010%20-%20Scholarships%20for%20Veteran%27s%20Dependents/%C2%A7%2001070h%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93103%2C%20div.%20R%2C%20%C2%A7103%28c%29%282%29%2C%20Mar.%2015%2C%202022%2C%20136%20Stat.%20821.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -570,15 +570,15 @@
 | :--- | ---: |
 | [1087kk.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087kk%20-%20Amount%20of%20need.md) | Amount of need. |
 | 1087<i>ll.</i> | Cost of attendance. |
-| [1087mm.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087mm%20-%20Family%20contribution.md) | Family contribution. |
-| [1087nn.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087nn%20-%20Determination%20of%20expected%20family%20contribution%3B%20data%20elements.md) | Determination of expected family contribution; data elements. |
-| 1087<i>oo.</i> | Family contribution for dependent students. |
-| [1087pp.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087pp%20-%20Family%20contribution%20for%20independent%20students%20without%20dependents%20other%20than%20a%20spouse.md) | Family contribution for independent students without dependents other than a spouse. |
-| [1087qq.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087qq%20-%20Family%20contribution%20for%20independent%20students%20with%20dependents%20other%20than%20a%20spouse.md) | Family contribution for independent students with dependents other than a spouse. |
+| [1087mm.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087mm%20-%20Special%20rules%20for%20student%20aid%20index.md) | Special rules for student aid index. |
+| [1087nn.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087nn%20-%20Determination%20of%20student%20aid%20index.md) | Determination of student aid index. |
+| 1087<i>oo.</i> | Student aid index for dependent students. |
+| [1087pp.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087pp%20-%20Student%20aid%20index%20for%20independent%20students%20without%20dependents%20other%20than%20a%20spouse.md) | Student aid index for independent students without dependents other than a spouse. |
+| [1087qq.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087qq%20-%20Student%20aid%20index%20for%20independent%20students%20with%20dependents%20other%20than%20a%20spouse.md) | Student aid index for independent students with dependents other than a spouse. |
 | [1087rr.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087rr%20-%20Regulations%3B%20updated%20tables.md) | Regulations; updated tables. |
-| [1087ss.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087ss%20-%20Simplified%20needs%20test.md) | Simplified needs test. |
+| [1087ss.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087ss%20-%20Eligible%20applicants%20exempt%20from%20asset%20reporting.md) | Eligible applicants exempt from asset reporting. |
 | [1087tt.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087tt%20-%20Discretion%20of%20student%20financial%20aid%20administrators.md) | Discretion of student financial aid administrators. |
-| [1087uu.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20Federal%20programs.md) | Disregard of student aid in other Federal programs. |
+| [1087uu.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20programs.md) | Disregard of student aid in other programs. |
 | 1087uu–1. | Native American students. |
 | 1087uu–2. | Special rules for independent students. |
 | [1087vv.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087vv%20-%20Definitions.md) | Definitions. |
@@ -592,7 +592,7 @@
 | [1088\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001088%20-%20Definitions.md) | Definitions. |
 | [1088a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001088a%20-%20Clock%20and%20credit%20hour%20treatment%20of%20diploma%20nursing%20schools.md) | Clock and credit hour treatment of diploma nursing schools. |
 | [1089\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001089%20-%20Master%20calendar.md) | Master calendar. |
-| [1090\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001090%20-%20Forms%20and%20regulations.md) | Forms and regulations. |
+| [1090\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001090%20-%20Free%20Application%20for%20Federal%20Student%20Aid.md) | Free Application for Federal Student Aid. |
 | [1091\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091%20-%20Student%20eligibility.md) | Student eligibility. |
 | [1091a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091a%20-%20Statute%20of%20limitations%2C%20and%20State%20court%20judgments.md) | Statute of limitations, and State court judgments. |
 | [1091b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091b%20-%20Institutional%20refunds.md) | Institutional refunds. |
@@ -603,7 +603,7 @@
 | [1092c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092c%20-%20Simplification%20of%20lending%20process%20for%20borrowers.md) | Simplification of lending process for borrowers. |
 | [1092d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092d%20-%20Scholarship%20fraud%20assessment%20and%20awareness%20activities.md) | Scholarship fraud assessment and awareness activities. |
 | [1092e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092e%20-%20College%20access%20initiative.md) | College access initiative. |
-| [1092f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092f%20-%20Early%20awareness%20of%20financial%20aid%20eligibility.md) | Early awareness of financial aid eligibility. |
+| [1092f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092f%20-%20Early%20awareness%20and%20outreach%20of%20financial%20aid%20eligibility.md) | Early awareness and outreach of financial aid eligibility. |
 | [1093\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093%20-%20Distance%20education%20demonstration%20programs.md) | Distance education demonstration programs. |
 | [1093a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093a%20-%20Articulation%20agreements.md) | Articulation agreements. |
 | [1094\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094%20-%20Program%20participation%20agreements.md) | Program participation agreements. |

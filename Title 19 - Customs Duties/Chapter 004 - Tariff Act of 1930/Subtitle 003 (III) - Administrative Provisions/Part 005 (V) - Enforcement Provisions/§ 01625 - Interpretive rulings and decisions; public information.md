@@ -44,7 +44,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Study and Report Relating to Timeliness of Prospective Rulings
 
-Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent towhich the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
+Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent to which the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

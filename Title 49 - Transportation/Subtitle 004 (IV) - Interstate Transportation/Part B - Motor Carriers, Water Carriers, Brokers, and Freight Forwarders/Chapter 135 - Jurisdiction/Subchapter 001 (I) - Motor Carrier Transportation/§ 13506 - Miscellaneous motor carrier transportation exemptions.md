@@ -72,7 +72,7 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 &emsp;&emsp;(B) that in transporting passengers over a route between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State, the transportation is exempt from jurisdiction under this part only if the motor carrier operating the motor vehicle also is lawfully providing intrastate transportation of passengers over the entire route under the laws of each State through which the route runs;
 
-&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers bymotor vehicle under an application pending, or registration issued, under this part;
+&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part;
 
 &emsp;(3) the emergency towing of an accidentally wrecked or disabled motor vehicle; or
 

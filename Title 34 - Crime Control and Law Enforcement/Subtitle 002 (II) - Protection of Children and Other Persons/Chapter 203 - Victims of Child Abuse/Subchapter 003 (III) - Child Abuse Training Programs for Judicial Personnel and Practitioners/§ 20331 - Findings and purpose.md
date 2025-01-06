@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) a large number of juvenile and family courts are inundated with increasing numbers of cases due to increased reports of abuse and neglect, increasing drug-related maltreatment, and insufficient court resources;
+&emsp;(1) a large number of juvenile and family courts are inundated with increasing numbersof cases due to increased reports of abuse and neglect, increasing drug-related maltreatment, and insufficient court resources;
 
 &emsp;(2) the amendments made to the Social Security Act \[42 U.S.C. 301 et seq.\] by the Adoption Assistance and Child Welfare Act of 1980 make substantial demands on the courts handling abuse and neglect cases, but provide no assistance to the courts to meet those demands;
 

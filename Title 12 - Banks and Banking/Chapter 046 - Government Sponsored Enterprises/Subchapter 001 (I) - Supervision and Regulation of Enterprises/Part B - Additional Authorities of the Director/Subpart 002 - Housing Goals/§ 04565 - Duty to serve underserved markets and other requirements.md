@@ -12,7 +12,7 @@
 
 #### (B) Affordable housing preservation
 
-&emsp;&emsp;The enterprise shall develop loan products and flexible underwriting guidelines to facilitate a secondary market to preserve housing affordable to very low-, low-, and moderate-income families, including housing projects subsidized under\_\_<sup>2</sup>
+&emsp;&emsp;The enterprise shall develop loan products and flexible underwriting guidelines to facilitate a secondary market to preserve housing affordable to very low-, low-, andmoderate-income families, including housing projects subsidized under\_\_<sup>2</sup>
 
 &emsp;&emsp;&emsp;(i) the project-based and tenant-based rental assistance programs under section 1437f of title 42;
 

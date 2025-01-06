@@ -76,7 +76,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 effective on 90th day after Sept. 2, 1974, see section 1051(d) of Pub. L. 93–406,set out as a note under section 7802 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 93–406 effective on 90th day after Sept. 2, 1974, see section 1051(d) of Pub. L. 93–406, set out as a note under section 7802 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1969 Amendment
 

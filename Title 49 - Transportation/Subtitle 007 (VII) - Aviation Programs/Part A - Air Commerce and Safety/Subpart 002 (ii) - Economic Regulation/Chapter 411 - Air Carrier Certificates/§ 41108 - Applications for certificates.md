@@ -10,7 +10,7 @@ Form, Contents, and Proof of Service.—To be issued a certificate of public con
 
 (b)
 
-Notice, Response, and Actions on Applications.—(1) When an application is filed, the Secretary shall post a notice of the application in the office of the Secretary and give notice of the application to other persons as required by regulations of the Secretary. An interested person may file a response with the Secretary opposing or supporting the issuance of the certificate. Not later than 90 days after the application is filed, the Secretary shall—
+Notice, Response, and Actions on Applications.—(1) When an application is filed, the Secretary shall post a notice of the application in the office of the Secretary and give notice of the application to other persons as required byregulations of the Secretary. An interested person may file a response with the Secretary opposing or supporting the issuance of the certificate. Not later than 90 days after the application is filed, the Secretary shall—
 
 &emsp;(A) provide an opportunity for a public hearing on the application;
 
@@ -95,4 +95,32 @@ In subsection (b)(5), the word "particular" is omitted as surplus. The words "by
 In subsection (c)(1), the words "In any determination as to whether or not" are omitted as surplus. The word "provide" is substituted for "perform" for consistency in the revised title. The word "properly" is omitted as surplus. The word "comply" is substituted for "conform" for consistency in the revised title.
 
 In subsection (c)(2), the words "In any determination as to whether" are omitted as surplus. The reference is to section 41102(b)(2), rather than 41102(a), of the revised title to reflect the termination of authority under 49 App.:1551(a)(1)(A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Part 135 Air Carrier Certificate Backlog
+
+Pub. L. 118–63, title VIII, §818, May 16, 2024, 138 Stat. 1328, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall take such actions as may be necessary to achieve the goal of reducing thebacklog of air carrier certificate applications under part 135 of title 14, Code of Federal Regulations, to—
+
+&emsp;"(1) not later than 1 year after the date of enactment of this Act \[May 16, 2024\], maintain an average application acceptance or rejection time of less than 60 days; and
+
+&emsp;"(2) not later than 2 years after the date of enactment of this Act, maintain an average application acceptance or rejection time of less than 30 days.
+
+"(b)
+
+Measures.—In meeting the goal under subsection (a), the Administrator may—
+
+&emsp;"(1) assign, as appropriate, additional personnel or support staff, including on a temporary basis, to review, adjudicate, and approve applications;
+
+&emsp;"(2) improve and expand promotion of existing applicant resources which could improve the quality of applications submitted to decrease the need for Administration applicant coordination and communications; and
+
+&emsp;"(3) take into consideration any third-party entity that assisted in the preparation of an application for an air carrier certificate under part 135 of title 14, Code of Federal Regulations.
+
+"(c)
+
+Congressional Briefing.—Beginning 6 months after the date of enactment of this Act, and not less than every 6 months thereafter until the Administrator complies with the requirements under subsection (a)(2), the Administrator shall provide a briefing to \[the\] appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] on the status of the backlog of air carrier certificate applications under part 135 of title 14, Code of Federal Regulations, \[and\] any measures the Administrator has put in place under subsection (b)."
 

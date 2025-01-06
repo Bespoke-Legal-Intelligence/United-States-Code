@@ -10,7 +10,7 @@ No agricultural commodity, food procured outside of the United States, food vouc
 
 #### (b) Impact on local farmers and economy
 
-The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities, the use of food procured outside of the United States, food vouchers, and cash transfers for food, and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy within the recipient country.
+The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities, the useof food procured outside of the United States, food vouchers, and cash transfers for food, and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy within the recipient country.
 
 #### (c) Transshipment
 
@@ -188,5 +188,5 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Delegation of Functions
 
-Functions of President under subsec. (j) of this section delegated to Secretary of State by section 4(b) ofEx. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+Functions of President under subsec. (j) of this section delegated to Secretary of State by section 4(b) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 

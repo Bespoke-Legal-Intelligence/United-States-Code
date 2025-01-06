@@ -66,7 +66,7 @@ The Secretary, in making awards under this section, shall give consideration toâ
 
 #### (3) Annual report
 
-&emsp;Not later than 1 year after December 31, 2018, and annually thereafter, the Secretary shall submit an annual report to Congress onthe data collected under this subsection in a manner that, at a minimum, prevents the disclosure of individually identifiable information consistent with all applicable privacy laws and regulations.
+&emsp;Not later than 1 year after December 31, 2018, and annually thereafter, the Secretary shall submit an annual report to Congress on the data collected under this subsection in a manner that, at a minimum, prevents the disclosure of individually identifiable information consistent with all applicable privacy laws and regulations.
 
 #### (f) Sharing best practices
 

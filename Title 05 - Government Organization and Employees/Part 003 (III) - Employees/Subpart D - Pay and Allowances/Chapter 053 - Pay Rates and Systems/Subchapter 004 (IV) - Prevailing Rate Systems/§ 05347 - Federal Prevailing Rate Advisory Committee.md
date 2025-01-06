@@ -24,7 +24,7 @@
 
 (f) The Committee shall meet at the call of the Chairman. However, a special meeting shall be called by the Chairman if 5 members make a written request to the Chairman to call a special meeting to consider matters within the purview of the Committee.
 
-(g)(1) Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitledto pay from the Government of the United States for services rendered to the Committee.
+(g)(1) Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitled to pay from the Government of the United States for services rendered to the Committee.
 
 (2) The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shall be subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
 

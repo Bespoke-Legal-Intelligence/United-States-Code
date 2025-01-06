@@ -60,7 +60,7 @@ For purposes of this section, the terms "inspect", "inspection", "return", and "
 
 For purposes of this section—
 
-&emsp;(1) any information obtained under section 3406 (including information with respect toany payee certification failure under subsection (d) thereof) shall be treated as return information, and
+&emsp;(1) any information obtained under section 3406 (including information with respect to any payee certification failure under subsection (d) thereof) shall be treated as return information, and
 
 &emsp;(2) any inspection or use of such information other than for purposes of meeting any requirement under section 3406 or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103 shall be treated as a violation of section 6103.
 

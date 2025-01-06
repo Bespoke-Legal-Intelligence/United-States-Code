@@ -148,7 +148,7 @@ Subsec. (f). Pub. L. 101–508, §11318(c), substituted heading for one which re
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–690 added subsec. (f).
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "information is required" for "information is furnished" inheading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -188,7 +188,7 @@ Pub. L. 98–369, div. A, title I, §146(d), July 18, 1984, 98 Stat. 687, provid
 
 #### Regulations
 
-Pub. L. 103–322, title II, §20415(c), Sept. 13, 1994, 108 Stat. 1833, provided that: "The Secretary of the Treasury or the Secretary's delegate shall prescribe temporary regulations under the amendments made by this section \[amending this section and section 6724 of this title\] within 90 days after the date of enactment of this Act \[Sept. 13, 1994\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994,published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
+Pub. L. 103–322, title II, §20415(c), Sept. 13, 1994, 108 Stat. 1833, provided that: "The Secretary of the Treasury or the Secretary's delegate shall prescribe temporary regulations under the amendments made by this section \[amending this section and section 6724 of this title\] within 90 days after the date of enactment of this Act \[Sept. 13, 1994\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
 
 #### Reports on Uses Made of Currency Transaction Reports
 

@@ -52,7 +52,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "perfluoroalkyl substance" means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
 
-&emsp;(2) The term "polyfluoroalkyl substance" means a man-made chemical containing a mixof fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+&emsp;(2) The term "polyfluoroalkyl substance" means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
 
 (Added Pub. L. 117–81, div. A, title III, §341(a), Dec. 27, 2021, 135 Stat. 1641; amended Pub. L. 117–263, div. A, title III, §341(b), Dec. 23, 2022, 136 Stat. 2529; Pub. L. 118–31, div. A, title III, §331, Dec. 22, 2023, 137 Stat. 221.)
 

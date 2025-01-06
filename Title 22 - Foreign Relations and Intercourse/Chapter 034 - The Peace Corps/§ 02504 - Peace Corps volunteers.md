@@ -6,7 +6,7 @@ The President may enroll in the Peace Corps for service abroad qualified citizen
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
-Volunteers shall be provided with such living, travel, and leave allowances, and such housing,transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances as the President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
+Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances as the President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
 
 #### (c) Readjustment allowances
 
@@ -28,7 +28,7 @@ The Director of the Peace Corps shall consult with health experts outside the Pe
 
 &emsp;(A) for the purposes of section 816(a) of the Foreign Service Act of 1980 \[22 U.S.C. 4056(a)\] and every other Act establishing a retirement system for civilian employees of any United States Government agency; and
 
-&emsp;(B) except as otherwise determined by the President, for the purposes of determining seniority, reduction in force, and layoff rights, leave entitlement, and other rights and privileges based upon length of service under the laws administered by the Office of Personnel Management, the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and every other Act establishing or governing terms and conditions of service of civilian employees of the United States Government: <i>Provided</i>, That service of a volunteer shall not be credited toward completion of any probationary or trial period or completion of any service requirement for career appointment.
+&emsp;(B) except as otherwise determined by the President, for the purposes of determining seniority, reduction in force, and layoff rights, leave entitlement, and other rights and privileges based upon length of service under the laws administered by the Office of Personnel Management, the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and every other Act establishing or governing terms and conditions of service of civilian employees of the United States Government: <i>Provided</i>, That service of a volunteer shall not be credited toward completion of any probationary or trial period orcompletion of any service requirement for career appointment.
 
 (2) For the purposes of paragraph (1)(A) of this subsection, volunteers and volunteer leaders shall be deemed to be receiving compensation during their service at the respective rates of readjustment allowances payable under subsection (c) and section 2505(1) of this title.
 
@@ -88,7 +88,7 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 (2) If the Peace Corps has performed or engaged another entity to perform a root cause analysis or similar report that describes the cause or root cause of a volunteer death, the President shall provide the Inspector General of the Peace Corps with—
 
-&emsp;(A) a copy of all information provided to such entity at the time such information is provided to such entity or used by the Peace Corps to perform the analysis;
+&emsp;(A) a copy of all information provided to such entity at the time such information isprovided to such entity or used by the Peace Corps to perform the analysis;
 
 &emsp;(B) a copy of any report or study received from the entity or used by the Peace Corps to perform the analysis; and
 
@@ -96,7 +96,7 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 (3) If a volunteer dies, the Peace Corps shall take reasonable measures, in accordance with local laws, to preserve any information or material, in any medium or format, that may be relevant to determining the cause or root cause of the death of the volunteer, including personal effects, medication, and other tangible items belonging to the volunteer, as long as such measures do not interfere with the legal procedures of the host country if the government of the host country is exercising jurisdiction over the investigation of such death. The Inspector General of the Peace Corps shall be provided an opportunity to inspect such items before their final disposition.
 
-(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> the Inspector General ofthe Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
+(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
 
 (5) For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
 
@@ -150,7 +150,7 @@ Subsec. (l). Pub. L. 112–57, §3, inserted "and counsel may be employed and co
 
 Subsec. (h). Pub. L. 106–30, §2(b)(2), substituted "section 3342 of title 31, section 5732 and" for "the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),".
 
-Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted "section 3331 of title 5." for "section 1757 of the RevisedStatutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates."
+Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted "section 3331 of title 5." for "section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates."
 
 <b>1997</b>—Subsec. (e). Pub. L. 105–12 inserted at end "Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997."
 
@@ -214,7 +214,7 @@ Subsec. (k). Pub. L. 88–200, §2(f), added subsec. (k).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant toobligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1985 Amendment
 
@@ -320,7 +320,7 @@ Functions of President under this section, except those under subsec. (f)(1)(B),
 
 Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Civil Service Act (22 Stat. 403) \[see, generally, section 1101 et seq. of Title 5, Government Organization and Employers\], and section 1753 of the Revised Statutes \[section 3301 of Title 5\], and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Civil Service Act (22 Stat. 403) \[see, generally, section 1101 etseq. of Title 5, Government Organization and Employers\], and section 1753 of the Revised Statutes \[section 3301 of Title 5\], and as President of the United States, it is hereby ordered as follows:
 
 Section 1. Under such regulations as the Office of Personnel Management may prescribe, the head of any agency in the Executive Branch may appoint in the competitive service any person who is certified by the Director of the Peace Corps as having served satisfactorily as a Volunteer or Volunteer Leader under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\] and who passes such examination as the Office of Personnel Management may prescribe. Any person so appointed shall, upon completion of the prescribed probationary period, acquire a competitive status.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Notwithstanding section 46502 of title 49 or sections 32, 1030, 1367 and chapters 119 and 206 oftitle 18, the Secretary and the Attorney General may, for their respective Departments, take, and may authorize personnel with assigned duties that include the security or protection of people, facilities, or assets, to take such actions as are described in subsection (b)(1) that are necessary to mitigate a credible threat (as defined by the Secretary or the Attorney General, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
+Notwithstanding section 46502 of title 49 or sections 32, 1030, 1367 and chapters 119 and 206 of title 18, the Secretary and the Attorney General may, for their respective Departments, take, and may authorize personnel with assigned duties that include the security or protection of people, facilities, or assets, to take such actions as are described in subsection (b)(1) that are necessary to mitigate a credible threat (as defined by the Secretary or the Attorney General, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
 
 #### (b) Actions described
 
@@ -42,7 +42,7 @@ Any unmanned aircraft system or unmanned aircraft described in subsection (a) th
 
 #### (1) In general
 
-&emsp;The Secretary, the Attorney General, and the Secretary of Transportation may prescribe regulations and shall issue guidance in the respective areas of each Secretary or the Attorney General to carry out this section.
+&emsp;The Secretary, the Attorney General, and the Secretary of Transportation may prescriberegulations and shall issue guidance in the respective areas of each Secretary or the Attorney General to carry out this section.
 
 #### (2) Coordination
 
@@ -68,7 +68,7 @@ The regulations or guidance issued to carry out actions authorized under subsect
 
 &emsp;&emsp;(A) is necessary to investigate or prosecute a violation of law;
 
-&emsp;&emsp;(B) would support the Department of Defense, a Federal law enforcement agency, orthe enforcement activities of a regulatory agency of the Federal Government in connection with a criminal or civil investigation of, or any regulatory, statutory, or other enforcement action relating to an action described in subsection (b)(1);
+&emsp;&emsp;(B) would support the Department of Defense, a Federal law enforcement agency, or the enforcement activities of a regulatory agency of the Federal Government in connection with a criminal or civil investigation of, or any regulatory, statutory, or other enforcement action relating to an action described in subsection (b)(1);
 
 &emsp;&emsp;(C) is between the Department of Homeland Security and the Department of Justice in the course of a security or protection operation of either agency or a joint operation of such agencies; or
 
@@ -104,7 +104,7 @@ The Secretary and the Attorney General shall submit to Congress, as a part of th
 
 &emsp;&emsp;(E) a description of instances in which communications intercepted or acquired during the course of operations of an unmanned aircraft system were held for more than 180 days or shared outside of the Department of Justice or the Department of Homeland Security;
 
-&emsp;&emsp;(F) how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; <sup>2</sup>
+&emsp;&emsp;(F) how the Secretary, the Attorney General, and the Secretary of Transportationhave informed the public as to the possible use of authorities under this section; <sup>2</sup>
 
 &emsp;&emsp;(G) how the Secretary, the Attorney General, and the Secretary of Transportation have engaged with Federal, State, and local law enforcement agencies to implement and use such authorities.
 
@@ -132,7 +132,7 @@ Nothing in this section may be construed to—
 
 #### (i) Termination
 
-The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on February 3, 2024.
+The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on March 14, 2025.
 
 #### (j) Scope of authority
 
@@ -176,7 +176,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) protection of penal, detention, and correctional facilities and operations conducted by the Federal Bureau of Prisons; or
 
-&emsp;&emsp;&emsp;&emsp;(III) protection of the buildings and grounds leased, owned, or operated by or for the Department of Justice, and the provision of security for Federal courts, as specified in section 566(a) of title 28;
+&emsp;&emsp;&emsp;&emsp;(III) protection of the buildings and grounds leased, owned, or operated by orfor the Department of Justice, and the provision of security for Federal courts, as specified in section 566(a) of title 28;
 
 &emsp;&emsp;&emsp;(iii) missions authorized to be performed by the Department of Homeland Security or the Department of Justice, acting together or separately, consistent with governing statutes, regulations, and orders issued by the Secretary or the Attorney General, respectively, pertaining to—
 
@@ -222,7 +222,7 @@ In this section:
 
 &emsp;&emsp;(B) an evaluation of current Federal and <sup>7</sup> State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
 
-&emsp;&emsp;(C) an evaluation of the knowledge of, efficiency of, and effectiveness of current procedures and resources available to owners of critical infrastructure and domestic large hub airports when they believe a threat from unmanned aircraft systems is present and what additional actions, if any, the Department of Homeland Security or the Department of Transportation could implement under existing authorities to assist these entities to counter the threat identified in subparagraph (A);
+&emsp;&emsp;(C) an evaluation of the knowledge of, efficiency of, and effectiveness of current procedures and resources available to owners of critical infrastructure and domestic largehub airports when they believe a threat from unmanned aircraft systems is present and what additional actions, if any, the Department of Homeland Security or the Department of Transportation could implement under existing authorities to assist these entities to counter the threat identified in subparagraph (A);
 
 &emsp;&emsp;(D) an assessment of what, if any, additional authorities are needed by each Department and law enforcement to counter the threat identified in subparagraph (A); and
 
@@ -232,7 +232,7 @@ In this section:
 
 &emsp;The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
 
-(Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, §2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, §601, Nov. 17, 2023, 137 Stat. 123.)
+(Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, §2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, §601, Nov. 17, 2023, 137 Stat. 123; Pub. L. 118–35, div. B, title III, §301, Jan. 19, 2024, 138 Stat. 7; Pub. L. 118–41, title III, §301, Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XI, §1112, May 16, 2024, 138 Stat. 1419; Pub. L. 118–83, div. B, title I, §101, Sept. 26, 2024, 138 Stat. 1534; Pub. L. 118–158, div. E, §5102, Dec. 21, 2024, 138 Stat. 1771.)
 
 #### <b>Editorial Notes</b>
 
@@ -245,6 +245,16 @@ Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated 
 This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (i). Pub. L. 118–158 substituted "March 14, 2025" for "December 20, 2024".
+
+Pub. L. 118–83 substituted "December 20, 2024" for "October 1, 2024".
+
+Pub. L. 118–63 substituted "October 1, 2024" for "May 11, 2024".
+
+Pub. L. 118–41 substituted "May 11, 2024" for "March 9, 2024".
+
+Pub. L. 118–35 substituted "March 9, 2024" for "February 3, 2024".
 
 <b>2023</b>—Subsec. (i). Pub. L. 118–22 substituted "February 3, 2024" for "November 18, 2023".
 

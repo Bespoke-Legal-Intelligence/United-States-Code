@@ -18,7 +18,7 @@ For the purpose of this subchapter—
 
 &emsp;(4) the term "child" means—
 
-&emsp;&emsp;(A) an unmarried dependent child under 18 years of age, including (i) an adopted child, (ii) a stepchild but only if the stepchild livedwith the employee, Member, or annuitant in a regular parent-child relationship, (iii) a recognized natural child, and (iv) a child who lived with and for whom a petition of adoption was filed by an employee, Member, or annuitant and who is adopted by the widow or widower of the employee, Member, or annuitant after the death of such employee, Member, or annuitant;
+&emsp;&emsp;(A) an unmarried dependent child under 18 years of age, including (i) an adopted child, (ii) a stepchild but only if the stepchild lived with the employee, Member, or annuitant in a regular parent-child relationship, (iii) a recognized natural child, and (iv) a child who lived with and for whom a petition of adoption was filed by an employee, Member, or annuitant and who is adopted by the widow or widower of the employee, Member, or annuitant after the death of such employee, Member, or annuitant;
 
 &emsp;&emsp;(B) such unmarried dependent child regardless of age who is incapable of self-support because of mental or physical disability incurred before age 18; or
 

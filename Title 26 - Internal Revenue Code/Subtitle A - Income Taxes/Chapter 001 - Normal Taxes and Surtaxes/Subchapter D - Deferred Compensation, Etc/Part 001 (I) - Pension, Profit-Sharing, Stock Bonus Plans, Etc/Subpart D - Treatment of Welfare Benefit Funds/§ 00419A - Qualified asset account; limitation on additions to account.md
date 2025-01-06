@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (B) Special rule for certain new plans
 
-&emsp;&emsp;In the case of any new plan for which SUB or severance pay benefits are not availableto any key employee, the Secretary shall, by regulations, provide for an interim amount to be taken into account under paragraph (1).
+&emsp;&emsp;In the case of any new plan for which SUB or severance pay benefits are not available to any key employee, the Secretary shall, by regulations, provide for an interim amount to be taken into account under paragraph (1).
 
 #### (4) Limitation on amounts to be taken into account
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (iii) SUB or severance pay benefits
 
-&emsp;&emsp;&emsp;In the case of SUB or severance pay benefits, the safe harbor limit for any taxable year is the amount determined under paragraph (3).
+&emsp;&emsp;&emsp;In the case of SUB or severance pay benefits, the safe harbor limit for any taxableyear is the amount determined under paragraph (3).
 
 #### (iv) Long-term disability or life insurance benefits
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (1) Reserve must be nondiscriminatory
 
-&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement andthat post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (2) Limitation on amount of life insurance benefits
 

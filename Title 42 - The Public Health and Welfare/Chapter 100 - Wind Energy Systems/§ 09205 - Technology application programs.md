@@ -26,7 +26,7 @@ In carrying out his duties under this chapter, the Secretary is authorized to en
 
 #### (e) Procedure for direct grants for large systems; limitation of amount
 
-In carrying out his duties under this chapter, the Secretary shall, within six months of September 8, 1980, establish procedures to allow any public or private entity wishing to install a large wind energy system to apply for and, uponmeeting such terms and conditions as the Secretary may prescribe, to receive a direct grant for a portion of the total purchase and installation cost of such wind energy system: <i>Provided</i>, That grants for the portion of such cost in the case of large wind energy systems shall not exceed (A) 50 per centum of such cost during the first six years of the program under this subsection, and (B) 25 per centum of such cost during the seventh or eighth year of the program.
+In carrying out his duties under this chapter, the Secretary shall, within six months of September 8, 1980, establish procedures to allow any public or private entity wishing to install a large wind energy system to apply for and, upon meeting such terms and conditions as the Secretary may prescribe, to receive a direct grant for a portion of the total purchase and installation cost of such wind energy system: <i>Provided</i>, That grants for the portion of such cost in the case of large wind energy systems shall not exceed (A) 50 per centum of such cost during the first six years of the program under this subsection, and (B) 25 per centum of such cost during the seventh or eighth year of the program.
 
 #### (f) Procedure for loans for small or large systems; limitation of amount; term; interest; prepayment; other terms and conditions
 
@@ -38,7 +38,7 @@ In carrying out his duties under this chapter, the Secretary shall, within six m
 
 #### (g) Funds for Federal agency systems; projects and activities for technology applications of systems
 
-(1) In carrying out his duties under this chapter, the Secretary is authorized to provide funds for the accelerated procurement and installation of small and large wind energy systems by Federal agencies.
+(1) In carrying out his duties under this chapter, the Secretary is authorized to provide fundsfor the accelerated procurement and installation of small and large wind energy systems by Federal agencies.
 
 (2) The Secretary is authorized to enter into arrangements with appropriate Federal agencies, including the Water and Power Resources Services and the Federal power marketing agencies for large wind energy systems, to carry out such projects and activities as may be appropriate for the broad technology applications of small and large wind energy systems which are suitable and effective for use by such Federal agencies.
 

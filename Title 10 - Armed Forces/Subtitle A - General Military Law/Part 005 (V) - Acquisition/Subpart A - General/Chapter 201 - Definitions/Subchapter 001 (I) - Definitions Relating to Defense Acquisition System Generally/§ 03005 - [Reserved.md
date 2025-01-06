@@ -6,7 +6,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, §1701(i)(1)(C), amended Pub. L. 116–283, §1806(a)(1), which enacted this section, by adding section 3005 designation and heading "\[Reserved\]" and striking out former section 3005 heading and catchline "Service chief concerned".
+<b>2021</b>—Pub. L. 117–81, §1701(i)(1)(C), amended Pub. L. 116–283, §1806(a)(1), which enacted this section, by adding section 3005 designation and heading "\[Reserved\]"and striking out former section 3005 heading and catchline "Service chief concerned".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original "this Act
 
 #### Codification
 
-In subsec. (b)(3), "chapter 3001 of title 36" substituted for "the Act of January 5, 1905, as amended (33 Stat. 599)" on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+In subsec. (b)(3), "chapter 3001 of title 36" substituted for "the Act of January 5, 1905, as amended (33 Stat.599)" on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Prior Provisions
 

@@ -82,7 +82,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 903 of Pub. L.
 
 #### Establishment of Interagency Group
 
-For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter 10 of the United States-Mexico-Canada Agreement, see section 4582(c)(2) of this title.
+For provisions establishing an interagency group within the interagency organization established underthis section, relating to the implementation of chapter 10 of the United States-Mexico-Canada Agreement, see section 4582(c)(2) of this title.
 
 For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapters 18 and 19 of the United States-Canada Free-Trade Agreement, see section 405 of Pub. L. 100–449, set out in a note under section 2112 of this title.
 

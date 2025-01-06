@@ -52,7 +52,7 @@ To be eligible to receive a grant under the program, an eligible entity shall su
 
 &emsp;(2) an identification of the natural hazard risk of the area where the proposed project is to be located or potential cybersecurity vulnerability, as applicable, to be addressed by the proposed project;
 
-&emsp;(3) documentation prepared by a Federal, State, regional, or local government agency of the natural hazard risk of the area where the proposed project is to be located or potential cybersecurity vulnerability, as applicable, of the area where the proposed project is to be located;
+&emsp;(3) documentation prepared by a Federal, State, regional, or local government agency ofthe natural hazard risk of the area where the proposed project is to be located or potential cybersecurity vulnerability, as applicable, of the area where the proposed project is to be located;
 
 &emsp;(4) a description of any recent natural hazard risk of the area where the proposed project is to be located or potential cybersecurity vulnerabilities that have affected the publicly owned treatment works;
 

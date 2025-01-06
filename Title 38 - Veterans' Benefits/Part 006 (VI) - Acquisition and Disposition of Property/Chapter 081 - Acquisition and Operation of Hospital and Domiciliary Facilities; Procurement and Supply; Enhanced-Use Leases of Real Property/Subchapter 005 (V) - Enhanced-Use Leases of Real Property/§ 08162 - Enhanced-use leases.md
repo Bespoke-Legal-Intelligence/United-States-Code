@@ -98,7 +98,7 @@ Subsec. (b)(1). Pub. L. 112–154, §211(c)(1)(A), substituted "If the Secretary
 
 "(A) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
 
-"(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnishservices to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A)."
+"(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnish services to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A)."
 
 Subsec. (b)(3). Pub. L. 112–154, §211(c)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 

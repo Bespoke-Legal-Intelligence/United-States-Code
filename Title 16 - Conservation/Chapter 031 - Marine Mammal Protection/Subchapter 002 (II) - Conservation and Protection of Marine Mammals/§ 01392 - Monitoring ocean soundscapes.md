@@ -30,7 +30,7 @@ An activity may not be carried out under this section if the Secretary of Defens
 
 #### (e) Funding
 
-From funds otherwise appropriated to the Under Secretary, $1,500,000 is authorized for eachof fiscal years 2023 through 2028 to carry out this section.
+From funds otherwise appropriated to the Under Secretary, $1,500,000 is authorized for each of fiscal years 2023 through 2028 to carry out this section.
 
 (Pub. L. 117–263, div. K, title CXIII, §11305, Dec. 23, 2022, 136 Stat. 4077.)
 

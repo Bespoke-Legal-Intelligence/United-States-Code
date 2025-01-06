@@ -116,5 +116,5 @@ Pub. L. 115–265, title II, §209, Oct. 11, 2018, 132 Stat. 3747, provided that
 
 #### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
 
-Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: "The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise."
+Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: "The Commandant of theCoast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise."
 

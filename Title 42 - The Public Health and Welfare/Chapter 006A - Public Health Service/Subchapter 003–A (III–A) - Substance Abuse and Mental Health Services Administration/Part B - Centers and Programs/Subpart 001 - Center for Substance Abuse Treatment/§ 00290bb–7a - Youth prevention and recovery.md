@@ -104,7 +104,7 @@ The Secretary of Health and Human Services (referred to in this section as the "
 
 &emsp;&emsp;(A) prevention of substance misuse and abuse by children, adolescents, and young adults, which may include primary prevention;
 
-&emsp;&emsp;(B) recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer mentoring, and recovery coaching; or
+&emsp;&emsp;(B) recovery support services for children, adolescents, and young adults, which mayinclude counseling, job training, linkages to community-based services, family support groups, peer mentoring, and recovery coaching; or
 
 &emsp;&emsp;(C) treatment or referrals for treatment of substance use disorders, which may include the use of medication-assisted treatment, as appropriate.
 

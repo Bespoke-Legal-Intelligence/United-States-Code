@@ -4,7 +4,7 @@
 
 Studies.—The Secretary of Transportation shall study—
 
-&emsp;(1) the methods of encouraging the development and implementation of new concepts for the carriage of cargo in the domestic and foreign commerce of the United States; and
+&emsp;(1) the methods of encouraging the development and implementation of new concepts forthe carriage of cargo in the domestic and foreign commerce of the United States; and
 
 &emsp;(2) the economic and technological aspects of the use of cargo containers as a method of carrying out the policy in section 50101 of this title.
 

@@ -10,7 +10,7 @@ Establishment and access.—If, in the case of a solicitation for a contract iss
 
 &emsp;(2)
 
-Redacted information.—Information exempt from disclosure under section 552 of title5 may be redacted in a file established pursuant to paragraph (1) unless an applicable protective order provides otherwise.
+Redacted information.—Information exempt from disclosure under section 552 of title 5 may be redacted in a file established pursuant to paragraph (1) unless an applicable protective order provides otherwise.
 
 (b)
 

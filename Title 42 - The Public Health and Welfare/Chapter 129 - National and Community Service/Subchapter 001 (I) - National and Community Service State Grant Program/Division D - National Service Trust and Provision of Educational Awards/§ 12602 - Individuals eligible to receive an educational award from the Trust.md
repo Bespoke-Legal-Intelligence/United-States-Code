@@ -14,7 +14,7 @@ An individual shall receive a national service educational award, summer of serv
 
 &emsp;&emsp;(ii) completed at least 15 percent of the required term of service described in subsection (b) for the approved national service position;
 
-&emsp;(C) for a summer of service educational award, successfully completed the required term of service described in subsection (b)(2) in an approved summer of service position, as certified through a process determined by the Corporation through regulations consistent with section 12592(f) of this title; or
+&emsp;(C) for a summer of service educational award, successfully completed the requiredterm of service described in subsection (b)(2) in an approved summer of service position, as certified through a process determined by the Corporation through regulations consistent with section 12592(f) of this title; or
 
 &emsp;(D) for a silver scholar educational award, successfully completed the required term of service described in subsection (b)(3) in an approved silver scholar position, as certified through a process determined by the Corporation through regulations consistent with section 12592(f) of this title; and
 
@@ -42,7 +42,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such awardafter the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
+&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
 
 #### (2) Exception
 
@@ -121,7 +121,7 @@ Subsec. (a)(3), (4). Pub. L. 111–13, §1402(2)(B), (C), redesignated par. (4) 
 
 &emsp;"(A) has received a high school diploma, or the equivalent of such diploma;
 
-&emsp;"(B) is enrolled at an institution of higher education on the basis of meeting the standard describedin paragraph (1) or (2) of subsection (a) of section 1091 of title 20 and meets the requirements of subsection (a) of such section; or
+&emsp;"(B) is enrolled at an institution of higher education on the basis of meeting the standard described in paragraph (1) or (2) of subsection (a) of section 1091 of title 20 and meets the requirements of subsection (a) of such section; or
 
 &emsp;"(C) has received a waiver described in section 12591(c) of this title; and".
 

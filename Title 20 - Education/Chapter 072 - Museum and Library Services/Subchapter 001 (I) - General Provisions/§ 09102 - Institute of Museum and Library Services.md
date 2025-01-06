@@ -44,7 +44,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §704\], Sept. 30, 199
 
 #### References to National Commission on Libraries and Information Science Construed To Be References to Institute of Museum and Library Services
 
-Pub. L. 111–340, title IV, §401(d), Dec. 22, 2010, 124 Stat. 3605, provided that: "Any reference to the National Commission on Libraries and Information Science in any Federal law, Executive Order, rule, delegation ofauthority, or document shall be construed to refer to the Institute of Museum and Library Services when the reference regards functions transferred under subsection (b) \[set out as a note above\]."
+Pub. L. 111–340, title IV, §401(d), Dec. 22, 2010, 124 Stat. 3605, provided that: "Any reference to the National Commission on Libraries and Information Science in any Federal law, Executive Order, rule, delegation of authority, or document shall be construed to refer to the Institute of Museum and Library Services when the reference regards functions transferred under subsection (b) \[set out as a note above\]."
 
 #### Transition and Transfer of Funds
 

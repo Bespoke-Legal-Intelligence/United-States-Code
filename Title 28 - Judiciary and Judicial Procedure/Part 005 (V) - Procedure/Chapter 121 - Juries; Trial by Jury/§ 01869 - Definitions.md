@@ -52,7 +52,7 @@ Subsec. (h). Pub. L. 95–572, §3(b), struck out "by pardon or amnesty" after "
 
 Subsecs. (j) to (l). Pub. L. 95–572, §4, added subsecs. (j) to (l).
 
-<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out "race and occupation of a potential juror", and in information to be contained in the form, struck out "race, color" and "occupation"from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
+<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out "race and occupation of a potential juror", and in information to be contained in the form, struck out "race, color" and "occupation" from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
 
 <b>1970</b>—Subsec. (f). Pub. L. 91–358 substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia.
 

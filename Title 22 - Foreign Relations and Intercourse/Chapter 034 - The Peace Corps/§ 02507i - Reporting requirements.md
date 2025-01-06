@@ -8,7 +8,7 @@ The President shall annually through September 30, 2018, submit to the Committee
 
 &emsp;(2) other crimes against volunteers;
 
-&emsp;(3) the number of arrests, prosecutions, and incarcerations for crimes involving PeaceCorps volunteers for every country in which volunteers serve; and
+&emsp;(3) the number of arrests, prosecutions, and incarcerations for crimes involving Peace Corps volunteers for every country in which volunteers serve; and
 
 &emsp;(4) the annual rate of early termination of volunteers, including demographic data associated with such early termination.
 

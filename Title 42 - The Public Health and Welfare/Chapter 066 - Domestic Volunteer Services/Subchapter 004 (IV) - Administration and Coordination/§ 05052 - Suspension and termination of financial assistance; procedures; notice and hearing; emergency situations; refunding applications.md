@@ -6,7 +6,7 @@
 
 &emsp;(2) an application for refunding under this chapter may not be denied unless the recipient has been given (A) notice at least 75 days before the denial of such application of the possibility of such denial and the grounds for any such denial, and (B) opportunity to show cause why such action should not be taken;
 
-&emsp;(3) in any case where an application for refunding is denied for failure to comply with the terms and conditions of the grant or contract award, the recipient shall be afforded an opportunity for an informal hearing before an impartial hearing officer, who has been agreed to by the recipient and the Agency; and
+&emsp;(3) in any case where an application for refunding is denied for failure to comply with the terms and conditions of the grant or contract award, the recipient shall be afforded anopportunity for an informal hearing before an impartial hearing officer, who has been agreed to by the recipient and the Agency; and
 
 &emsp;(4) assistance under this chapter shall not be terminated for failure to comply with applicable terms and conditions unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing.
 

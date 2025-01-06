@@ -168,7 +168,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) In general
 
-&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firmor upon any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person of such firm, if the Board finds that—
+&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firm or upon any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person of such firm, if the Board finds that—
 
 &emsp;&emsp;&emsp;(i) the firm has failed reasonably to supervise an associated person, either as required by the rules of the Board relating to auditing or quality control standards, or otherwise, with a view to preventing violations of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission under this Act, or professional standards; and
 

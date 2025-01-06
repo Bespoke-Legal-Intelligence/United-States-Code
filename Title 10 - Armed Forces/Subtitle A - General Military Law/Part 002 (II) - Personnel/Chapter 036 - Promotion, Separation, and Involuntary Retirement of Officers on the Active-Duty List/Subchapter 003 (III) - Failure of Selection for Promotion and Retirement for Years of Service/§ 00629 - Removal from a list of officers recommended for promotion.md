@@ -22,11 +22,11 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (d)
 
-Administrative Removal.—Under regulations prescribed by the Secretary concerned, if an officer on the active-duty list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer's name shall be administratively removed from the list of officers recommended for promotion by a selection board.
+Administrative Removal.—Under regulations prescribed by the Secretary concerned, if an officer on the active-duty list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer's name shall be administratively removed from the listof officers recommended for promotion by a selection board.
 
 (e)
 
-Continued Eligibility for Promotion.—(1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, uponsuch promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
+Continued Eligibility for Promotion.—(1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
 
 (2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
 

@@ -34,7 +34,7 @@ Representation by the Secretary.—The Secretary of Agriculture shall represent 
 
 #### Administrative Supplies for International Organizations
 
-Act Aug. 4, 1947, ch. 479, 61 Stat. 752, provided for the procurement and furnishing of administrative suppliesby the Treasury Department to international organizations until July 1, 1948. This act was popularly known as the "International Organizations Procurement Act of 1947."
+Act Aug. 4, 1947, ch. 479, 61 Stat. 752, provided for the procurement and furnishing of administrative supplies by the Treasury Department to international organizations until July 1, 1948. This act was popularly known as the "International Organizations Procurement Act of 1947."
 
 #### Public International Organizations Designated by Statute
 

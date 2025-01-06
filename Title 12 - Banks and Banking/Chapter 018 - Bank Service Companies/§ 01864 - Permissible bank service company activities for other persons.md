@@ -30,7 +30,7 @@ A bank service company may perform—
 
 #### (f) Geographic location
 
-Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks or savings associations to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company mayperform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under section 1843(c)(8) of this title as of the day before November 12, 1999.
+Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks or savings associations to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company may perform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under section 1843(c)(8) of this title as of the day before November 12, 1999.
 
 (Pub. L. 87–856, §4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 97–457, §32(b)(2), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, §102(b)(2), Nov. 12, 1999, 113 Stat. 1342; Pub. L. 109–351, title VI, §602(b)(3), Oct. 13, 2006, 120 Stat. 1979.)
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 109–351, §602(b)(3)(B), inserted "or State savings assoc
 
 Subsec. (d). Pub. L. 109–351, §602(b)(3)(C), inserted "or Federal savings association" after "national bank" wherever appearing.
 
-Subsec. (e). Pub. L. 109–351, §602(b)(3)(D), inserted heading and amended text generally. Prior to amendment, text read as follows: "A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services."
+Subsec. (e). Pub. L. 109–351, §602(b)(3)(D), inserted heading and amended text generally. Prior to amendment, text read as follows: "A bank service companythat has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services."
 
 Subsec. (f). Pub. L. 109–351, §602(b)(3)(E), inserted "or savings associations" after "location of banks".
 

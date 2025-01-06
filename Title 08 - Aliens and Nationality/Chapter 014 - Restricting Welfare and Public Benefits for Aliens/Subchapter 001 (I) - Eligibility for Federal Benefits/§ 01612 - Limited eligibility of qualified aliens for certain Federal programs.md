@@ -48,7 +48,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A),during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.
+&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.
 
 #### (II) Redetermination criteria
 
@@ -154,7 +154,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C. 1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C.1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
 
@@ -170,7 +170,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declarationunder penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
 
 #### (bb) Exception for children
 
@@ -183,6 +183,10 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 #### (ii) Special rule in case of pending or approved naturalization application
 
 &emsp;&emsp;&emsp;With respect to eligibility for benefits for the specified program described in paragraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act \[8 U.S.C. 1447(b)\], or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
+
+#### (N) Exception for citizens of Freely Associated States
+
+&emsp;&emsp;With respect to eligibility for benefits for any specified Federal program, paragraph (1) shall not apply to any individual who lawfully resides in the United States in accordance with section 141 of the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
 #### (3) "Specified Federal program" defined
 
@@ -266,9 +270,9 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
-#### (G) Medicaid exception for citizens of freely associated states
+#### (G) Exception for citizens of Freely Associated States
 
-&emsp;&emsp;With respect to eligibility for benefits for the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program), paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.
+&emsp;&emsp;With respect to eligibility for benefits for any designated Federal program, paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.
 
 #### (3) "Designated Federal program" defined
 
@@ -286,7 +290,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567; Pub. L. 116–260, div. CC, title II, §208(a), Dec. 27, 2020, 134 Stat. 2985.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567; Pub. L. 116–260, div. CC, title II, §208(a), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, §209(f)(1), Mar. 9, 2024, 138 Stat. 445.)
 
 #### <b>Editorial Notes</b>
 
@@ -319,6 +323,10 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(N). Pub. L. 118–42, §209(f)(1)(A), added subpar. (N).
+
+Subsec. (b)(2)(G). Pub. L. 118–42, §209(f)(1)(B), substituted "Exception for" for "Medicaid exception for" in heading and "any designated Federal program" for "the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program)" in text.
 
 <b>2020</b>—Subsec. (b)(2)(G). Pub. L. 116–260 added subpar. (G).
 
@@ -364,7 +372,7 @@ Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
 &emsp;"(iii) an alien's deportation is withheld under section 243(h) of such Act."
 
-Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of suchAct (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
+Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, §5562, substituted "section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)" for "section 243(h) of such Act".
 
 Subsec. (a)(2)(A)(i)(V). Pub. L. 105–33, §5306(a)(1), added subcl. (V).
 
@@ -452,7 +460,7 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IVof the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

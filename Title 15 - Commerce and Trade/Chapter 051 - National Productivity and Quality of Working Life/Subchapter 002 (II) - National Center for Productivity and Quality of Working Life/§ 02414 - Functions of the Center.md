@@ -32,7 +32,7 @@ The Center shall—
 
 &emsp;(5) recommend to the President, the Congress, the appropriate agencies and departments of the Federal Government, and State and local governments, any legislation, revisions of regulations, policies, practices, and procedures which result from the activities carried out under clause (4) of this section;
 
-&emsp;(6) encourage, support, and initiate efforts in the public or private sector specifically designed to improve cooperation between laborand management in the achievement of continued productivity growth: <i>Provided, however</i>, That no activities of the Center involving consideration of issues included in a specific labor-management agreement shall be undertaken without the consent and cooperation of the parties to that agreement;
+&emsp;(6) encourage, support, and initiate efforts in the public or private sector specifically designed to improve cooperation between labor and management in the achievement of continued productivity growth: <i>Provided, however</i>, That no activities of the Center involving consideration of issues included in a specific labor-management agreement shall be undertaken without the consent and cooperation of the parties to that agreement;
 
 &emsp;(7) encourage departments and agencies of the Federal Government to initiate, stimulate, and support efforts in both the public and private sectors of the United States to improve the rate of productivity growth;
 

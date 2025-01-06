@@ -1,12 +1,14 @@
 ### §1636i. Termination of authority
 
-The authority provided by this subchapter terminates on September 30, 2023.
+The authority provided by this subchapter terminates on September 30, 2024.
 
-(Aug. 14, 1946, ch. 966, title II, §260, as added Pub. L. 109–296, §1(a), Oct. 5, 2006, 120 Stat. 1464; amended Pub. L. 111–239, §2(a)(1), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, §101(a), Sept. 30, 2015, 129 Stat. 513; Pub. L. 117–103, div. O, title III, §301(a), Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–328, div. A, title VII, §776(a), Dec. 29, 2022, 136 Stat. 4509.)
+(Aug. 14, 1946, ch. 966, title II, §260, as added Pub. L. 109–296, §1(a), Oct. 5, 2006, 120 Stat. 1464; amended Pub. L. 111–239, §2(a)(1), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, §101(a), Sept. 30, 2015, 129 Stat. 513; Pub. L. 117–103, div. O, title III, §301(a), Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–328, div. A, title VII, §776(a), Dec. 29, 2022, 136 Stat. 4509; Pub. L. 118–42, div. B, title VII, §793(a), Mar. 9, 2024, 138 Stat. 120.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–42 substituted "2024" for "2023".
 
 <b>2022</b>—Pub. L. 117–328 substituted "2023" for "2022".
 
@@ -19,6 +21,8 @@ Pub. L. 117–103 substituted "2022" for "2020".
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Mandatory Livestock Reporting Extension
+
+Pub. L. 118–83, div. A, §§106(3), 120, Sept. 26, 2024, 138 Stat. 1526, 1528, as amended by Pub. L. 118–158, div. A, §101(1), Dec. 21, 2024, 138 Stat. 1723, extended the termination date for authority provided by this subchapter from September 30, 2024, to Mar. 14, 2025.
 
 Pub. L. 116–260, div. O, title IV, §401, Dec. 27, 2020, 134 Stat. 2149, extended the termination date for authority provided by this subchapter from September 30, 2020, to September 30, 2021.
 

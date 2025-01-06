@@ -66,7 +66,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Evaluation of programs
 
-&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate forthe revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
+&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
 #### (h) Office of Mine Safety and Health
 
@@ -112,7 +112,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (6) Annual report
 
-&emsp;Not later than 1 year after the establishment of the Office under this subsection, and annually thereafter, the Director of the Institute shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that, with respect to the year involved, describes the new mine safety technologies and equipment that have been studied, tested, and certified for use, and with respect to those instances of technologies and equipment that have been considered but not yet certified for use, the reasons therefore.
+&emsp;Not later than 1 year after the establishment of the Office under this subsection, andannually thereafter, the Director of the Institute shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that, with respect to the year involved, describes the new mine safety technologies and equipment that have been studied, tested, and certified for use, and with respect to those instances of technologies and equipment that have been considered but not yet certified for use, the reasons therefore.
 
 #### (7) Authorization of appropriations
 

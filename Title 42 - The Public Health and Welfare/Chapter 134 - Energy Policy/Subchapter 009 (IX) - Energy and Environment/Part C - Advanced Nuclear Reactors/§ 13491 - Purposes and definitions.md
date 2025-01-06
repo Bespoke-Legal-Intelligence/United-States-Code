@@ -20,7 +20,7 @@ For purposes of this part—
 
 &emsp;(2) the term "Commission" means the Nuclear Regulatory Commission;
 
-&emsp;(3) the term "standardized design" means a design for a nuclear power plant that may be utilized for a multiple number of units or a multiple number of sites; and
+&emsp;(3) the term "standardized design" means a design for a nuclear power plant that may beutilized for a multiple number of units or a multiple number of sites; and
 
 &emsp;(4) the term "certification" means approval by the Commission of a standardized design.
 

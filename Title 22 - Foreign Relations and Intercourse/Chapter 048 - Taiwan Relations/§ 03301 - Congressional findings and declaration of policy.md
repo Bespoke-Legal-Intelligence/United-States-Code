@@ -26,7 +26,7 @@ It is the policy of the United States—
 
 #### (c) Human rights
 
-Nothing contained in this chapter shall contravene the interest of the United States in human rights, especially with respect to the human rights of all the approximately eighteen million inhabitants of Taiwan. The preservation and enhancement of the human rights of all the people on Taiwan are hereby reaffirmed as objectives of the United States.
+Nothing contained in this chapter shall contravene the interest of the United States in human rights, especially with respect to thehuman rights of all the approximately eighteen million inhabitants of Taiwan. The preservation and enhancement of the human rights of all the people on Taiwan are hereby reaffirmed as objectives of the United States.
 
 (Pub. L. 96–8, §2, Apr. 10, 1979, 93 Stat. 14.)
 
@@ -43,6 +43,30 @@ Pub. L. 116–260, div. FF, title III, §311, Dec. 27, 2020, 134 Stat. 3099, pro
 #### Short Title
 
 Pub. L. 96–8, §1, Apr. 10, 1979, 93 Stat. 14, provided that: "This Act \[enacting this chapter\] may be cited as the 'Taiwan Relations Act'."
+
+#### Improving Multilateral Cooperation To Improve the Security of Taiwan
+
+Pub. L. 118–159, div. E, title LI, §5121(a), (b), Dec. 23, 2024, 138 Stat. 2428, provided that:
+
+"(a)
+
+Short Titles.—This section \[enacting this note and provisions not set out in the Code\] may be cited as the 'Building Options for the Lasting Security of Taiwan through European Resolve Act' or the 'BOLSTER Act'.
+
+"(b)
+
+Consultations With European Governments Regarding Sanctions Against the PRC Under Certain Circumstances.—The head of the Office of Sanctions Coordination at the Department of State, in consultation with the Director of the Office of Foreign Assets Control at the Department of the Treasury, shall engage in regular consultations with the International Special Envoy for the Implementation of European Union Sanctions and appropriate government officials of European countries, including the United Kingdom, to develop coordinated plans and share information on independent plans to impose sanctions and other economic measures against the People's Republic of China (PRC), as appropriate, if the PRC is found to be involved in—
+
+&emsp;"(1) overthrowing or dismantling the governing institutions in Taiwan;
+
+&emsp;"(2) occupying any territory controlled or administered by Taiwan as of the date of the enactment of this Act \[Dec. 23, 2024\]; or
+
+&emsp;"(3) taking significant action against Taiwan, including—
+
+&emsp;&emsp;"(A) creating a naval blockade or other quarantine of Taiwan;
+
+&emsp;&emsp;"(B) seizing the outer lying islands of Taiwan; or
+
+&emsp;&emsp;"(C) initiating a cyberattack that threatens civilian or military infrastructure in Taiwan."
 
 #### Statement of Policy and Sense of Congress on the Taiwan Relations Act
 
@@ -100,7 +124,7 @@ Statement of Policy.—It is the policy of the United States—
 
 &emsp;"(1) that the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.) and the Six Assurances provided by the United States to Taiwan in July 1982 are the foundation for United States-Taiwan relations;
 
-&emsp;"(2) to fully pursue the deepening of the extensive, close, and friendly relations of the United States and Taiwan pursuant to the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.), the intent of which is to facilitate greater cooperation and the broadening and deepening of United States-Taiwan relations;
+&emsp;"(2) to fully pursue the deepening of the extensive, close, and friendly relations of the United States and Taiwan pursuant to the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.), the intent of whichis to facilitate greater cooperation and the broadening and deepening of United States-Taiwan relations;
 
 &emsp;"(3) that the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.) shall be implemented and executed, consistent with the Six Assurances, to address evolving political, security, and economic dynamics and circumstances;
 

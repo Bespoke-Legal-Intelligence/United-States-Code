@@ -28,7 +28,7 @@ The Secretary shall establish a manufacturer discount program (in this section r
 
 #### (ii) 2026 and subsequent years
 
-&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this sectionwith respect to plan year 2026 or a subsequent plan year, the manufacturer shall enter into such agreement not later than a calendar quarter or semi-annual deadline established by the Secretary.
+&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this section with respect to plan year 2026 or a subsequent plan year, the manufacturer shall enter into such agreement not later than a calendar quarter or semi-annual deadline established by the Secretary.
 
 #### (2) Provision of appropriate data
 
@@ -192,7 +192,7 @@ In this section:
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the term "specified drug" means, with respectto a specified manufacturer, for 2021, an applicable drug that is produced, prepared, propagated, compounded, converted, or processed by the manufacturer.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the term "specified drug" means, with respect to a specified manufacturer, for 2021, an applicable drug that is produced, prepared, propagated, compounded, converted, or processed by the manufacturer.
 
 #### (bb) Aggregation rule
 
@@ -262,7 +262,7 @@ In this section:
 
 #### (III) Limitation
 
-&emsp;&emsp;&emsp;&emsp;The term "specified small manufacturer" shall not include a manufacturer described in subclause (I) if such manufacturer is acquired after 2021 by another manufacturer that is not a specified small manufacturer, effective at the beginning of the plan year immediately following such acquisition or, in the caseof an acquisition before 2025, effective January 1, 2025.
+&emsp;&emsp;&emsp;&emsp;The term "specified small manufacturer" shall not include a manufacturer described in subclause (I) if such manufacturer is acquired after 2021 by another manufacturer that is not a specified small manufacturer, effective at the beginning of the plan year immediately following such acquisition or, in the case of an acquisition before 2025, effective January 1, 2025.
 
 #### (iii) Specified small manufacturer percent
 

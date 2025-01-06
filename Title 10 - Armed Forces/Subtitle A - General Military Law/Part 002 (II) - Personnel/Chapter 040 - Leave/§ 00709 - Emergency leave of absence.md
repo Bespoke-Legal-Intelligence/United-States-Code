@@ -24,7 +24,7 @@ Qualifying Emergency.—In this section, the term "qualifying emergency", with r
 
 &emsp;&emsp;(B) any other hardship that the Secretary concerned determines appropriate for purposes of this section; and
 
-&emsp;(2) is verified to the Secretary's satisfaction based upon information or opinion from a source in addition to the member that the Secretary considers to be objective and reliable.
+&emsp;(2) is verified to the Secretary's satisfaction based upon information or opinion from asource in addition to the member that the Secretary considers to be objective and reliable.
 
 (d)
 

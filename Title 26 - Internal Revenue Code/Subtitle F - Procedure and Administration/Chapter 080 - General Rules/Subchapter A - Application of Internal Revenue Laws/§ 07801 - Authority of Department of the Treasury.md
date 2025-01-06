@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted "or section 301(f) of title 3
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1964 Amendment
 
@@ -117,6 +117,8 @@ Pub. L. 114–113, div. Q, title IV, §402, Dec. 18, 2015, 129 Stat. 3117, provi
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–47, div. B, title I, Mar. 23, 2024, 138 Stat. 527.
 
 Pub. L. 117–328, div. E, title I, Dec. 29, 2022, 136 Stat. 4656.
 
@@ -296,7 +298,7 @@ In General.—The Commissioner of Internal Revenue shall develop and implement a
 
 &emsp;"(3) establish organizational units serving particular groups of taxpayers with similar needs; and
 
-&emsp;"(4) ensure an independent appeals function within the Internal Revenue Service, including the prohibition in the plan of ex parte communications between appeals officers and other Internal Revenue Service employees to the extent that such communicationsappear to compromise the independence of the appeals officers.
+&emsp;"(4) ensure an independent appeals function within the Internal Revenue Service, including the prohibition in the plan of ex parte communications between appeals officers and other Internal Revenue Service employees to the extent that such communications appear to compromise the independence of the appeals officers.
 
 "(b)
 
@@ -326,7 +328,7 @@ Suits not affected.—The provisions of this section shall not affect suits comm
 
 &emsp;"(5)
 
-Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section.
+Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unitof the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section.
 
 &emsp;"(6)
 
@@ -776,7 +778,7 @@ Sec. 3. <i>Functions</i>. (a) The Board shall directly support the Secretary's o
 
 (c) The Board shall prepare semiannual reports to the President and to the Congress, which shall be transmitted by the Secretary of the Treasury.
 
-Sec. 4. <i>Administration</i>. To the extent permitted by law and subject to the availability of appropriations, the Secretary shall provide the Board administrative services, facilities, staff, and such other financial supportservices as may be necessary for the performance of its functions under this order.
+Sec. 4. <i>Administration</i>. To the extent permitted by law and subject to the availability of appropriations, the Secretary shall provide the Board administrative services, facilities, staff, and such other financial support services as may be necessary for the performance of its functions under this order.
 
 Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Internal Revenue Service and is not intended, and shall not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 

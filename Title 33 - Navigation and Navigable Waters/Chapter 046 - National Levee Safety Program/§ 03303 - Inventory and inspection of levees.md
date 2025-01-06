@@ -48,7 +48,7 @@
 
 #### (2) No Federal interest
 
-&emsp;The inventory and inspection under paragraph (1) does not create a Federal interest in the construction, operation, or maintenance of any levee that is included in the inventory or inspected under this subsection.
+&emsp;The inventory and inspection under paragraph (1) does not create a Federal interest inthe construction, operation, or maintenance of any levee that is included in the inventory or inspected under this subsection.
 
 #### (3) Review criteria
 

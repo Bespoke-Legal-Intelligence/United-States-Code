@@ -14,7 +14,7 @@ In General.—Under regulations prescribed by the Secretary of the Air Force, ea
 
 (b)
 
-Summary of Records Withheld in Interest of National Security.—When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to theextent that the interest of national security permits, be furnished a summary of the record so withheld.
+Summary of Records Withheld in Interest of National Security.—When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
 (Added Pub. L. 118–31, div. A, title XVII, §1719, Dec. 22, 2023, 137 Stat. 661.)
 

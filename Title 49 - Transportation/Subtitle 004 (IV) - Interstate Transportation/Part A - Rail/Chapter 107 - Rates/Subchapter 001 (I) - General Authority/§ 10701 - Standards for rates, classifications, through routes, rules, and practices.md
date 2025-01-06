@@ -6,7 +6,7 @@
 
 (c) Except as provided in subsection (d) of this section and unless a rate is prohibited by a provision of this part, a rail carrier providing transportation subject to the jurisdiction of the Board under this part may establish any rate for transportation or other service provided by the rail carrier.
 
-(d)(1) If the Board determines, under section 10707 of this title, that a rail carrier has market dominance over the transportation to which a particular rate applies, the rate established by such carrier for such transportation must be reasonable.
+(d)(1) If the Board determines, under section 10707 of this title, that a rail carrier has market dominance over the transportation to which a particular rate applies, the rate established bysuch carrier for such transportation must be reasonable.
 
 (2) In determining whether a rate established by a rail carrier is reasonable for purposes of this section, the Board shall give due consideration to—
 

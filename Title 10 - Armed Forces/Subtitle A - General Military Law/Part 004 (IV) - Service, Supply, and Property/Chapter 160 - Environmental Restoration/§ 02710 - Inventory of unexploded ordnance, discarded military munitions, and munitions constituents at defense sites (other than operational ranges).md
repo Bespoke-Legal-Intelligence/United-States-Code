@@ -12,7 +12,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
-&emsp;(D) Any restrictions or other land use controls currently in place at the defense sitethat might affect the potential for public and environmental exposure to the unexploded ordnance, discarded military munitions, or munitions constituents.
+&emsp;(D) Any restrictions or other land use controls currently in place at the defense site that might affect the potential for public and environmental exposure to the unexploded ordnance, discarded military munitions, or munitions constituents.
 
 (b)
 

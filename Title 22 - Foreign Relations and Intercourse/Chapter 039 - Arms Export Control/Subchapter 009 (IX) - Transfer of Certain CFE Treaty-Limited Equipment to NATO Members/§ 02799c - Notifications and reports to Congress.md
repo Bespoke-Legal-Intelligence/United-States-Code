@@ -12,7 +12,7 @@ Not later than February 1 each year, the President shall submit to the Committee
 
 &emsp;(2) describes how those transfers further the purposes described in paragraphs (1) through (3) of section 2799 of this title; and
 
-&emsp;(3) lists, on a country-by-country basis, all transfers to another country of conventionalarmaments and equipment limited by the CFE Treaty—
+&emsp;(3) lists, on a country-by-country basis, all transfers to another country of conventional armaments and equipment limited by the CFE Treaty—
 
 &emsp;&emsp;(A) by each NATO/CFE country (other than the United States) in implementing the CFE Treaty, and
 

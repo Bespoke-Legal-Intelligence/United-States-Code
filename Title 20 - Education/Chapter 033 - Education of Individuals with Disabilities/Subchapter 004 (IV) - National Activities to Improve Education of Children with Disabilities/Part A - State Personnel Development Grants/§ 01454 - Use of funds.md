@@ -152,7 +152,7 @@ Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1
 
 A prior section 1454, Pub. L. 91–230, title VI, §654, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 128, related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1454, Pub. L. 91–230, title VI, §653, formerly §654, Apr. 13, 1970, 84 Stat. 187; Pub. L.93–380, title VI, §620(2), Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, §6, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, §13, Dec. 2, 1983, 97 Stat. 1374; renumbered §653 and amended Pub. L. 99–457, title III, §316, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 101–476, title VI, §603, Oct. 30, 1990, 104 Stat. 1140, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1454, Pub. L. 91–230, title VI, §653, formerly §654, Apr. 13, 1970, 84 Stat. 187; Pub. L. 93–380, title VI, §620(2), Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, §6, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, §13, Dec. 2, 1983, 97 Stat. 1374; renumbered §653 and amended Pub. L. 99–457, title III, §316, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 101–476, title VI, §603, Oct. 30, 1990, 104 Stat. 1140, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
 #### Amendments
 

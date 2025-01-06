@@ -52,7 +52,7 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 #### (1) Federal share
 
-&emsp;The Federal share of the cost of each project shall be not greater than 25 percent.
+&emsp;The Federal share of the cost of each project shall be not greater than 33.3 percent.
 
 #### (2) Non-Federal share
 
@@ -70,11 +70,13 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 &emsp;&emsp;&emsp;The non-Federal share required to be paid for a project carried out in Latin America or the Caribbean may be paid in cash or in kind.
 
-(Pub. L. 106–247, §5, July 20, 2000, 114 Stat. 594; Pub. L. 109–363, title III, §302(d), (e), Oct. 17, 2006, 120 Stat. 2076.)
+(Pub. L. 106–247, §5, July 20, 2000, 114 Stat. 594; Pub. L. 109–363, title III, §302(d), (e), Oct. 17, 2006, 120 Stat. 2076; Pub. L. 118–51, §2(a), Apr. 24, 2024, 138 Stat. 1005.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(1). Pub. L. 118–51 substituted "33.3 percent" for "25 percent".
 
 <b>2006</b>—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted "Canada," after "United States,".
 

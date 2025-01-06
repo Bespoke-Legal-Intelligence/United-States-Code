@@ -42,7 +42,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (1) Consistency with State and local requirements
 
-&emsp;Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment inprograms conducted under subsection (c) are consistent with the requirements of applicable State and local law and regulations.
+&emsp;Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment in programs conducted under subsection (c) are consistent with the requirements of applicable State and local law and regulations.
 
 #### (2) Academic standards
 

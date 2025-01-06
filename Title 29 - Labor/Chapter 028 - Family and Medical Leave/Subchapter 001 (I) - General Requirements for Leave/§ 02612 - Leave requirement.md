@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) Because of the placement of a son or daughter with the employee for adoption or foster care.
 
-&emsp;&emsp;(C) In order to care for the spouse, or a son, daughter, or parent, of the employee, if such spouse, son, daughter, or parent has a serious health condition.
+&emsp;&emsp;(C) In order to care for the spouse, or a son, daughter, or parent, of the employee, ifsuch spouse, son, daughter, or parent has a serious health condition.
 
 &emsp;&emsp;(D) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
 
@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Leave under subparagraph (A) or (B) of subsection (a)(1) shall not be taken by an employee intermittently or on a reduced leave schedule unless the employee and the employer of the employee agree otherwise. Subject to paragraph (2), subsection (e)(2), and subsection (b)(5) or (f) (as appropriate) of section 2613 of this title, leave under subparagraph (C) or (D) of subsection (a)(1) or under subsection (a)(3) may be taken intermittently or on a reduced leave schedule when medically necessary. Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule. The taking of leaveintermittently or on a reduced leave schedule pursuant to this paragraph shall not result in a reduction in the total amount of leave to which the employee is entitled under subsection (a) beyond the amount of leave actually taken.
+&emsp;Leave under subparagraph (A) or (B) of subsection (a)(1) shall not be taken by an employee intermittently or on a reduced leave schedule unless the employee and the employer of the employee agree otherwise. Subject to paragraph (2), subsection (e)(2), and subsection (b)(5) or (f) (as appropriate) of section 2613 of this title, leave under subparagraph (C) or (D) of subsection (a)(1) or under subsection (a)(3) may be taken intermittently or on a reduced leave schedule when medically necessary. Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule. The taking of leave intermittently or on a reduced leave schedule pursuant to this paragraph shall not result in a reduction in the total amount of leave to which the employee is entitled under subsection (a) beyond the amount of leave actually taken.
 
 #### (2) Alternative position
 
@@ -66,7 +66,7 @@ Except as provided in subsection (d), leave granted under subsection (a) (other 
 
 #### (B) Serious health condition
 
-&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
+&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accruedpaid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
 
 #### (3) Special rule for GAO employees
 

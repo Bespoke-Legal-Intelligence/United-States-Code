@@ -78,7 +78,7 @@ Pub. L. 113–146, title VII, §707(d), Aug. 7, 2014, 128 Stat. 1801, provided a
 
 #### Establishment of Expedited Review Process
 
-Pub. L. 113–146, title VII, §707(b), Aug. 7, 2014, 128 Stat. 1800, related to the establishment by the Merit Systems Protection Board of a process to conduct expedited reviews in accordance with former subsec. (d) of this section.
+Pub. L. 113–146, title VII, §707(b), Aug. 7, 2014, 128 Stat. 1800, related to the establishment by the MeritSystems Protection Board of a process to conduct expedited reviews in accordance with former subsec. (d) of this section.
 
 #### Temporary Exemption From Certain Limitation on Initiation of Removal From Senior Executive Service
 

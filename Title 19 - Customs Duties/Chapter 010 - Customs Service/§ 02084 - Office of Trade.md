@@ -6,7 +6,7 @@ There is established in U.S. Customs and Border Protection an Office of Trade.
 
 #### (b) Executive Assistant Commissioner
 
-There shall be at the head of the Office of Trade an Executive Assistant Commissioner, who shall report to the Commissioner of U.S. Customs and Border Protection.
+There shall be at the head of the Office of Trade an Executive Assistant Commissioner,who shall report to the Commissioner of U.S. Customs and Border Protection.
 
 #### (c) Duties
 
@@ -40,7 +40,7 @@ The Office of Trade shall—
 
 #### (A) Transfer
 
-&emsp;&emsp;Not later than 30 days after February 24, 2016, the Commissioner of U.S. Customs and Border Protection shall transfer the assets, functions, personnel, and liabilities of theOffice of International Trade to the Office of Trade established under subsection (b).<sup>1</sup>
+&emsp;&emsp;Not later than 30 days after February 24, 2016, the Commissioner of U.S. Customs and Border Protection shall transfer the assets, functions, personnel, and liabilities of the Office of International Trade to the Office of Trade established under subsection (b).<sup>1</sup>
 
 #### (B) Elimination
 
@@ -74,7 +74,7 @@ In this section, the terms "customs and trade laws of the United States", "trade
 
 #### Prior Provisions
 
-A prior section 4 of act March 3, 1927, was classified to section 281c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Subsection (a) of section 4 was transferred to section 163 of Title 21, Food and Drugs, prior to the omission of section 163 from the Code on the authority of Reorg. Plan No. 1 of 1968, eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, set out in the Appendix to Title 5.
+A prior section 4 of act March 3, 1927, was classified to section 281c of Title 5 prior to the general revisionand enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Subsection (a) of section 4 was transferred to section 163 of Title 21, Food and Drugs, prior to the omission of section 163 from the Code on the authority of Reorg. Plan No. 1 of 1968, eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, set out in the Appendix to Title 5.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

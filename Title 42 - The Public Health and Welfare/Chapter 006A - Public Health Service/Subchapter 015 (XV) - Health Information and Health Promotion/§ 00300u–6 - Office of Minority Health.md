@@ -76,7 +76,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (A) Proficiency in speaking English
 
-&emsp;&emsp;The Deputy Assistant Secretary shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9).
+&emsp;&emsp;The Deputy Assistant Secretary shall consult with the Director of the Office of International and Refugee Health, the Director ofthe Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9).
 
 #### (B) Health professions education regarding health disparities
 
@@ -144,7 +144,7 @@ A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as adde
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10334(a)(1)(A), amended text of subsec. (a) generally. Prior to amendment, text read as follows: "There is established an Office of Minority Health within the Office of Public Health and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section."
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10334(a)(1)(A), amended text of subsec. (a) generally. Prior to amendment, text read as follows: "There is established an Office of Minority Health within the Office of PublicHealth and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section."
 
 Subsec. (h). Pub. L. 111–148, §10334(a)(1)(B), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h), which consisted only of a par. (1), read as follows:
 
@@ -182,7 +182,7 @@ Pub. L. 101–557, title IV, §401(a)(2), Nov. 15, 1990, 104 Stat. 2771, provide
 
 #### Transfer of Functions
 
-Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: "There are transferred to the Office of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under theauthority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law."
+Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: "There are transferred to the Office of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under the authority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law."
 
 #### Termination of Advisory Committees
 

@@ -16,7 +16,7 @@ The Secretary acting through the Institute may designate National Alcohol Resear
 
 &emsp;&emsp;(E) the applicant has the capacity to conduct courses on alcohol problems and research on alcohol problems for undergraduate and graduate students, and for medical and osteopathic, nursing, social work, and other specialized graduate students; and
 
-&emsp;&emsp;(F) the applicant has the capacity to conduct programs of continuing education insuch medical, legal, and social service fields as the Secretary may require.<sup>1</sup>
+&emsp;&emsp;(F) the applicant has the capacity to conduct programs of continuing education in such medical, legal, and social service fields as the Secretary may require.<sup>1</sup>
 
 &emsp;(2) the application contains a detailed five-year plan for research relating to alcoholism and other alcohol problems.
 
@@ -30,7 +30,7 @@ The Secretary shall, under such conditions as the Secretary may reasonably requi
 
 #### References in Text
 
-Section 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292o and 295p of this title.
+Section 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702,relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292o and 295p of this title.
 
 #### Codification
 

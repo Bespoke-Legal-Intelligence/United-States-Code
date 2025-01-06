@@ -44,7 +44,7 @@ The Secretary concerned may make a decision to approve a project submitted by a 
 
 #### (B) No administrative appeal or judicial review
 
-&emsp;&emsp;Notwithstanding any other provision of law, a decision by the Secretary concerned to reject a proposed project shall not be subject to administrative appeal or judicial review.
+&emsp;&emsp;Notwithstanding any other provision of law, a decision by the Secretary concernedto reject a proposed project shall not be subject to administrative appeal or judicial review.
 
 #### (C) Notice of rejection
 

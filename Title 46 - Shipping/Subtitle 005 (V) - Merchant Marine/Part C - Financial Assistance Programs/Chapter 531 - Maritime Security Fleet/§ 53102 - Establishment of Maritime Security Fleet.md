@@ -102,7 +102,7 @@ Certificate of inspection.—A vessel used to provide oceangoing transportation 
 
 &emsp;&emsp;(A) the vessel is classed by and designed in accordance with the rules of the American Bureau of Shipping, or another classification society accepted by the Secretary;
 
-&emsp;&emsp;(B) the vessel complies with applicable international agreements and associated guidelines, as determined by the country in which the vessel was documented immediately before becoming documented under chapter 121; and
+&emsp;&emsp;(B) the vessel complies with applicable international agreements and associatedguidelines, as determined by the country in which the vessel was documented immediately before becoming documented under chapter 121; and
 
 &emsp;&emsp;(C) that country has not been identified by the Secretary as inadequately enforcing international vessel regulations as to that vessel.
 

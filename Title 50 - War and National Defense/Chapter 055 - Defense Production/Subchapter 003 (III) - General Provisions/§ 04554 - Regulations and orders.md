@@ -50,5 +50,5 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 &emsp;(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25,1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 

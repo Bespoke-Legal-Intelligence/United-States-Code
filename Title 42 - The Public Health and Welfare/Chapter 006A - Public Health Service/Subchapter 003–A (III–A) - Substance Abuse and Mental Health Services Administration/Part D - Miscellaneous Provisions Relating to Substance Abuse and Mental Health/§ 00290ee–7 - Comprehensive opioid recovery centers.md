@@ -16,7 +16,7 @@ The Secretary shall award grants on a competitive basis to eligible entities to 
 
 #### (c) Minimum number of Centers
 
-The Secretary shall allocate the amounts made available under subsection (j) such thatnot fewer than 10 grants may be awarded. Not more than one grant shall be made to entities in a single State for any one period.
+The Secretary shall allocate the amounts made available under subsection (j) such that not fewer than 10 grants may be awarded. Not more than one grant shall be made to entities in a single State for any one period.
 
 #### (d) Application
 
@@ -56,7 +56,7 @@ Each Center shall, at a minimum, carry out the following activities directly, th
 
 &emsp;&emsp;(B) Provide the full continuum of treatment services, including—
 
-&emsp;&emsp;&emsp;(i) all drugs and devices approved or cleared under the Federal Food, Drug, and Cosmetic Act and all biological products licensed under section 262 of this title to treat substance use disorders or reverse overdoses, pursuant to Federal and State law;
+&emsp;&emsp;&emsp;(i) all drugs and devices approved or cleared under the Federal Food, Drug, and Cosmetic Act and all biological productslicensed under section 262 of this title to treat substance use disorders or reverse overdoses, pursuant to Federal and State law;
 
 &emsp;&emsp;&emsp;(ii) medically supervised withdrawal management, that includes patient evaluation, stabilization, and readiness for and entry into treatment;
 
@@ -90,7 +90,7 @@ Each Center shall, at a minimum, carry out the following activities directly, th
 
 &emsp;Each Center shall carry out outreach activities regarding the services offered through the Centers, which may include—
 
-&emsp;&emsp;(A) training and supervising outreach staff, as appropriate, to work with State and local health departments, health care providers, the Indian Health Service, State and local educational agencies, schools funded by the Indian Bureau of Education, institutions of higher education, State and local workforce development boards, State and local community action agencies, public safety officials, first responders, Indian Tribes, child welfare agencies, as appropriate, and other community partners andthe public, including patients, to identify and respond to community needs;
+&emsp;&emsp;(A) training and supervising outreach staff, as appropriate, to work with State and local health departments, health care providers, the Indian Health Service, State and local educational agencies, schools funded by the Indian Bureau of Education, institutions of higher education, State and local workforce development boards, State and local community action agencies, public safety officials, first responders, Indian Tribes, child welfare agencies, as appropriate, and other community partners and the public, including patients, to identify and respond to community needs;
 
 &emsp;&emsp;(B) ensuring that the entities described in subparagraph (A) are aware of the services of the Center; and
 

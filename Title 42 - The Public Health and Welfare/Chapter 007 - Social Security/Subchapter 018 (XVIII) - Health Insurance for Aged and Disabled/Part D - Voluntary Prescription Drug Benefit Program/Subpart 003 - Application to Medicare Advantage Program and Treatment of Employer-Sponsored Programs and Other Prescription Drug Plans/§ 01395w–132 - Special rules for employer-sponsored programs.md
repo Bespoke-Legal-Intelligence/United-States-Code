@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(ii) that is supplemental to the benefits provided under a prescription drug plan or an MA–PD plan, including benefits to retirees who are not covered under a qualified retiree prescription drug plan but who are enrolled in such a prescription drug plan or MA–PD plan; or
 
-&emsp;&emsp;(D) preventing employers to provide for flexibility in benefit design and pharmacy access provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
+&emsp;&emsp;(D) preventing employers to provide for flexibility in benefit design and pharmacyaccess provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
 
 #### (b) Application of MA waiver authority
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 #### (C) Church plans
 
-&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) bya church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
+&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125; amended Pub. L. 111–152, title I, §1101(b)(4), Mar. 30, 2010, 124 Stat. 1039; Pub. L. 117–108, title I, §101(b)(4), Apr. 6, 2022, 136 Stat. 1137; Pub. L. 117–169, title I, §11201(e)(5), Aug. 16, 2022, 136 Stat. 1891.)
 

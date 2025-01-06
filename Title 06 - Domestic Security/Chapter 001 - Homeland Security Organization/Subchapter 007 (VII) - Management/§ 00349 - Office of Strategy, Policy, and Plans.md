@@ -46,7 +46,7 @@ The Under Secretary for Strategy, Policy, and Plans shall—
 
 &emsp;&emsp;(A) the term "career employee" means any employee (as such term is defined in section 2105 of title 5), but does not include a political appointee; and
 
-&emsp;&emsp;(B) the term "political appointee" means any employee who occupies a position whichhas been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
+&emsp;&emsp;(B) the term "political appointee" means any employee who occupies a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
 
 #### (e) Coordination by Department components
 
@@ -78,7 +78,7 @@ To ensure consistency with the policy priorities of the Department, the head of 
 
 #### (2) Duties
 
-&emsp;At the direction of the Secretary, the Assistant Secretary established under paragraph (1) shall be responsible for policy formulation regarding matters relating to economic security and trade, as such matters relate to the mission and the operations of the Department.
+&emsp;At the direction of the Secretary, the Assistant Secretary established under paragraph (1)shall be responsible for policy formulation regarding matters relating to economic security and trade, as such matters relate to the mission and the operations of the Department.
 
 #### (3) Additional responsibilities
 

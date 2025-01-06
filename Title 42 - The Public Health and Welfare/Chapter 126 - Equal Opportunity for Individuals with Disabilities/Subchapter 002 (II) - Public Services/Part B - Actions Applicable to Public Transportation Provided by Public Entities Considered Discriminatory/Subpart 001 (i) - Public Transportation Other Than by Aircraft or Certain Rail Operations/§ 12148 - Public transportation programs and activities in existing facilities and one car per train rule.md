@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;With respect to existing facilities used in the provision of designated public transportation services, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to operate a designated public transportation program or activity conductedin such facilities so that, when viewed in the entirety, the program or activity is readily accessible to and usable by individuals with disabilities.
+&emsp;With respect to existing facilities used in the provision of designated public transportation services, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to operate a designated public transportation program or activity conducted in such facilities so that, when viewed in the entirety, the program or activity is readily accessible to and usable by individuals with disabilities.
 
 #### (2) Exception
 

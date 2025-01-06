@@ -38,7 +38,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 #### (4) Report to Congress
 
-&emsp;By October 1, 1993, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the plan adopted under paragraph (3), including the implementation schedule for the plan.
+&emsp;By October 1, 1993, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the plan adopted underparagraph (3), including the implementation schedule for the plan.
 
 #### (e) Proof of compliance with FCC licensing requirements
 

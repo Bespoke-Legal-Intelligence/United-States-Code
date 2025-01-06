@@ -10,7 +10,7 @@
 
 &emsp;(C) chapter 59 (other than section 5925, 5928, 5941(a)(2), or 5948).
 
-(b)(1) Any amount which is not paid to an employee in a calendar year because of the limitation under subsection (a) shall be paid to suchemployee in a lump sum at the beginning of the following calendar year.
+(b)(1) Any amount which is not paid to an employee in a calendar year because of the limitation under subsection (a) shall be paid to such employee in a lump sum at the beginning of the following calendar year.
 
 (2) Any amount paid under this subsection in a calendar year shall be taken into account for purposes of appying <sup>2</sup> the limitations under subsection (a) with respect to such calendar year.
 

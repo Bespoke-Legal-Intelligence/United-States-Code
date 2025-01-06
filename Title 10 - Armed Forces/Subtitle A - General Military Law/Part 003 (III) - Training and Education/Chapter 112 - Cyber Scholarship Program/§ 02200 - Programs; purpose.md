@@ -88,7 +88,7 @@ Amount of assistance.—(A) Each scholarship under the Program shall be in such 
 
 &emsp;"(2)
 
-Support for internship activities.—The financial assistance for a person under this section may also be provided to support internship activities of the person in the Department of Defense and combat support agencies in periods between the academic years leading to the degree or specialized program certification for which assistance is provided the person under the Program.
+Support for internship activities.—The financial assistance for a person under this sectionmay also be provided to support internship activities of the person in the Department of Defense and combat support agencies in periods between the academic years leading to the degree or specialized program certification for which assistance is provided the person under the Program.
 
 &emsp;"(3)
 
@@ -316,7 +316,7 @@ In general.—The Secretary of Defense shall select institutions of higher learn
 
 &emsp;"(2)
 
-Consideration of senior military colleges.—In selecting institutions of higher learning underparagraph (1), the Secretary shall consider the senior military colleges with Reserve Officers' Training Corps programs.
+Consideration of senior military colleges.—In selecting institutions of higher learning under paragraph (1), the Secretary shall consider the senior military colleges with Reserve Officers' Training Corps programs.
 
 "(c)
 

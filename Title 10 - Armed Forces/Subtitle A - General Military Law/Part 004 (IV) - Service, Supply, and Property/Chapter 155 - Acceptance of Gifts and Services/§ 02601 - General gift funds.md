@@ -4,7 +4,7 @@
 
 General Authority to Accept Gifts.—(1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
 
-(2)(A) Notwithstanding section 1342 of title 31, the Secretary concerned may accept a gift of services for a military museum program from a nonprofit entity established for the purpose of supporting a military museum program. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
+(2)(A) Notwithstanding section 1342 of title 31, the Secretary concerned may accept a gift of services for a military museum program or a professional military education institution from a nonprofit entity established for the purpose of supporting a military museum program or a professional military education institution. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
 
 (B) For the use and benefit of a military museum program, the Secretary concerned may solicit from a bona fide collector a gift of books, manuscripts, works of art, historical artifacts, drawings, plans, models, or condemned or obsolete combat materiel.
 
@@ -20,7 +20,7 @@ Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and
 
 &emsp;(D) survivors of such members or employees who are killed.
 
-(2) The Secretary concerned may not accept a gift of services from a foreign government or international organization under this subsection. A gift of real property, personal property, or money from a foreign government or international organization may be acceptedunder this subsection only if the gift is not designated for a specific individual.
+(2) The Secretary concerned may not accept a gift of services from a foreign government or international organization under this subsection. A gift of real property, personal property, or money from a foreign government or international organization may be accepted under this subsection only if the gift is not designated for a specific individual.
 
 (3) The Secretary of Defense shall prescribe regulations specifying the conditions that may be attached to a gift, devise, or bequest accepted under this subsection.
 
@@ -98,9 +98,9 @@ Definitions.—In this section:
 
 &emsp;(1) The term "Secretary concerned" includes the Secretary of Defense.
 
-&emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequestof real property or personal property under subsection (a) or (b).
+&emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, §2812, Nov. 25, 2015, 129 Stat. 1174; Pub. L. 116–283, div. B, title XXVIII, §2821, Jan. 1, 2021, 134 Stat. 4330.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, §2812, Nov. 25, 2015, 129 Stat. 1174; Pub. L. 116–283, div. B, title XXVIII, §2821, Jan. 1, 2021, 134 Stat. 4330; Pub. L. 118–159, div. A, title V, §556, Dec. 23, 2024, 138 Stat. 1896.)
 
 Historical and Revision Notes
 
@@ -139,6 +139,8 @@ In subsection (d), the words "or any part thereof deposited in the Treasury purs
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(A). Pub. L. 118–159 inserted "or a professional military education institution" after "museum program" in two places.
 
 <b>2021</b>—Subsec. (e). Pub. L. 116–283, §2821(a)(1), struck out "Real" before "Property" in heading.
 

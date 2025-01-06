@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) suspension of preferential tariff treatment under the USMCA with respect to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the textile or apparel good that is the subject of a verification described in subparagraph (C)(i), if the Secretary determines that there is insufficient information to support the claim for preferential tariff treatment; or
+&emsp;&emsp;&emsp;&emsp;(I) the textile or apparel good that is the subject of a verification described insubparagraph (C)(i), if the Secretary determines that there is insufficient information to support the claim for preferential tariff treatment; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any textile or apparel good exported or produced by a person that is the subject of a verification described in subparagraph (C)(ii) if the Secretary of the Treasury determines that there is insufficient information to support the claim for preferential tariff treatment made with respect to that good;
 

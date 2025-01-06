@@ -20,7 +20,7 @@ General Limitations.—A State may not allow by any means the operation, on any 
 
 Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, Kansas, and Oregon.—In addition to the vehicles allowed under subsection (b) of this section—
 
-&emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
+&emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with thesingle axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
 
 &emsp;(2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
@@ -46,7 +46,7 @@ Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, Kansas, and Oregon.—I
 
 (d)
 
-Additional Limitations.—(1) A commercial motor vehicle combination whose operation in a State is not prohibited under subsections (b) and (c) of this section may continue to operate in the State on highways described in subsection (b) only if at least in compliance with all State laws, regulations, limitations, and conditions, including routing-specific and configuration-specific designations and all other restrictions in force in the State on June 1, 1991. However, subject to regulations prescribed by the Secretary under subsection (g)(2) of this section, the State may make minor adjustments of atemporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
+Additional Limitations.—(1) A commercial motor vehicle combination whose operation in a State is not prohibited under subsections (b) and (c) of this section may continue to operate in the State on highways described in subsection (b) only if at least in compliance with all State laws, regulations, limitations, and conditions, including routing-specific and configuration-specific designations and all other restrictions in force in the State on June 1, 1991. However, subject to regulations prescribed by the Secretary under subsection (g)(2) of this section, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
 
 (2) This section does not prevent a State from further restricting in any way or prohibiting the operation of any commercial motor vehicle combination subject to this section, except that a restriction or prohibition shall be consistent with this section and sections 31113(a) and (b) and 31114 of this title.
 
@@ -62,7 +62,7 @@ List of State Length Limitations.—(1) Not later than February 16, 1992, each S
 
 (3) A law or regulation may not be included on the list submitted by a State or published by the Secretary merely because it authorized, or could have authorized, by permit or otherwise, the operation of commercial motor vehicle combinations not in actual operation on a regular or periodic basis before June 2, 1991.
 
-(4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and Defense Highways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
+(4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and DefenseHighways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
 
 (5) On the Secretary's own motion or on request by any person (including a State), the Secretary shall review the list published under paragraph (4) of this subsection. If the Secretary decides there is reason to believe a mistake was made in the accuracy of the list, the Secretary shall begin a proceeding to decide whether a mistake was made. If the Secretary decides there was a mistake, the Secretary shall publish the correction.
 
@@ -165,6 +165,18 @@ Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
 <b>1995</b>—Subsec. (c). Pub. L. 104–59 substituted "Alaska, and Iowa" for "and Alaska" in heading and added par. (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Pub. L. 118–154, §1(b), (c), Dec. 17, 2024, 138 Stat. 1691, provided that:
+
+"(b)
+
+Designation.—United States Route 20 in each of the States of Oregon, Idaho, Montana, Wyoming, Nebraska, Iowa, Illinois, Indiana, Ohio, Pennsylvania, New York, and Massachusetts shall be known and designated as the 'National Medal of Honor Highway'.
+
+"(c)
+
+References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the highway referred to in subsection (b) shall be deemed to be a reference to the 'National Medal of Honor Highway'."
 
 #### Effective Date of 2015 Amendment
 

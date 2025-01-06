@@ -44,7 +44,7 @@ Electronic cigarette defined.—In this section, the term "electronic cigarette"
 
 Regulations.—The Secretary shall prescribe such regulations as are necessary to carry out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114 Stat. 159; Pub. L. 112–95, title IV, §401(a), Feb. 14, 2012, 126 Stat. 83; Pub. L. 115–254, div. B, title IV, §409, Oct. 5, 2018, 132 Stat. 3331.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114Stat. 159; Pub. L. 112–95, title IV, §401(a), Feb. 14, 2012, 126 Stat. 83; Pub. L. 115–254, div. B, title IV, §409, Oct. 5, 2018, 132 Stat. 3331.)
 
 Historical and Revision Notes
 

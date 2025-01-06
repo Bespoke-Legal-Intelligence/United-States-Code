@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (4) Date of recordal
 
-&emsp;The term "date of recordal" means the date on which a request for extension of protection, filed after an international registration is granted, is recorded on the International Register.
+&emsp;The term "date of recordal" means the date on which a request for extension of protection,filed after an international registration is granted, is recorded on the International Register.
 
 #### (5) Declaration of bona fide intention to use the mark in commerce
 

@@ -92,7 +92,7 @@ In this section:
 
 #### (3) U.S. Customs and Border Protection personnel
 
-&emsp;The term "U.S. Customs and Border Protection personnel" means import specialists, auditors, and other appropriate employees of the U.S. Customs and Border Protection.
+&emsp;The term "U.S. Customs and Border Protection personnel" means import specialists,auditors, and other appropriate employees of the U.S. Customs and Border Protection.
 
 #### (4) U.S. Immigration and Customs Enforcement personnel
 

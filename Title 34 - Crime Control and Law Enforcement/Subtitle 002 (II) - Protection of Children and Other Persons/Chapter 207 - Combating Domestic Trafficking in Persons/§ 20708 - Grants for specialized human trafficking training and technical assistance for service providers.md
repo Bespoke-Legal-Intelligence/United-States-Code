@@ -76,7 +76,7 @@ A grant awarded under this section shall be used to—
 
 There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
-(Pub. L. 109–164, title II, §208, formerly Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, §10(a), Dec. 21, 2018, 132 Stat. 5254; renumbered §208 of Pub. L. 109–164 and amended Pub. L. 117–347, title I, §§101(a), 106(a), Jan. 5, 2023, 136 Stat. 6200, 6204.)
+(Pub. L. 109–164, title II, §208, formerly Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, §10(a), Dec. 21,2018, 132 Stat. 5254; renumbered §208 of Pub. L. 109–164 and amended Pub. L. 117–347, title I, §§101(a), 106(a), Jan. 5, 2023, 136 Stat. 6200, 6204.)
 
 #### <b>Editorial Notes</b>
 

@@ -30,12 +30,15 @@
 | [5318\.](%C2%A7%2005318%20-%20Review%20of%20Social%20Security%20Administration%20death%20information.md) | Review of Social Security Administration death information. |
 | [5319\.](%C2%A7%2005319%20-%20Limitations%20on%20access%20to%20financial%20records.md) | Limitations on access to financial records. |
 | [5320\.](%C2%A7%2005320%20-%20Threshold%20for%20reporting%20debts%20to%20consumer%20reporting%20agencies.md) | Threshold for reporting debts to consumer reporting agencies. |
+| [5321\.](%C2%A7%2005321%20-%20Benefits%20helpline.md) | Benefits helpline. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. E, title L, §5002(b), Dec. 23, 2024, 138 Stat. 2409, added item 5321.
 
 <b>2022</b>—Pub. L. 117–328, div. U, title II, §§252(a)(2), 255(b)(4), Dec. 29, 2022, 136 Stat. 5463, 5465, added items 5302B and 5314A.
 
@@ -144,3 +147,4 @@ Progress reports.—If the Secretary has not submitted each notice required by p
 - [&sect; 05318 - Review of Social Security Administration death information](%C2%A7%2005318%20-%20Review%20of%20Social%20Security%20Administration%20death%20information.md)
 - [&sect; 05319 - Limitations on access to financial records](%C2%A7%2005319%20-%20Limitations%20on%20access%20to%20financial%20records.md)
 - [&sect; 05320 - Threshold for reporting debts to consumer reporting agencies](%C2%A7%2005320%20-%20Threshold%20for%20reporting%20debts%20to%20consumer%20reporting%20agencies.md)
+- [&sect; 05321 - Benefits helpline](%C2%A7%2005321%20-%20Benefits%20helpline.md)

@@ -28,7 +28,7 @@ A prior section 300b–3, act July 1, 1944, ch. 373, title XI, §1104, as added 
 
 <b>1981</b>—Subsec. (a)(4), (5). Pub. L. 97–35, §2193(b)(2), redesignated par. (5) as (4). Former par. (4), which related to testing and counseling requirements, was struck out.
 
-Subsec. (b). Pub. L. 97–35, §2193(b)(3), struck out subsec. (b) which related to grants and contracts under section 300b of this title. Former subsec. (c) was redesignated (b) and, as so redesignated, struck out reference to section 300b of this title.
+Subsec. (b). Pub. L. 97–35, §2193(b)(3), struck out subsec. (b) which related to grants and contracts undersection 300b of this title. Former subsec. (c) was redesignated (b) and, as so redesignated, struck out reference to section 300b of this title.
 
 Subsec. (c). Pub. L. 97–35, §2193(b)(3), redesignated subsec. (c) as (b).
 

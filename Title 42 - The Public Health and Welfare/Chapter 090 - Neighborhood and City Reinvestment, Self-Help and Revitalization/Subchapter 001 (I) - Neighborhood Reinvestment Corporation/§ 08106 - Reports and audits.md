@@ -28,11 +28,11 @@ The corporation shall conduct or require each grantee or contractor to provide f
 
 <b>2004</b>—Subsecs. (c), (d). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out at end "The financial transactions of the corporation shall beaudited by the General Accounting Office at least once during each three years."
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out at end "The financial transactions of the corporation shall be audited by the General Accounting Office at least once during each three years."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Demonstration Program of Mutual Housing Associations; Report to Congress
 
-Pub. L. 96–399, title III, §316, Oct. 8, 1980, 94 Stat. 1645, directed submission to Congress, not later than Sept. 30, 1981, of report by Neighborhood Reinvestment Corporation, in conjunction with the National Consumer Cooperative Bank and the Secretary of Housing and Urban Development, on the findings, conclusions, and legislative recommendations reached as a result of the national demonstration program of mutual housing associations.
+Pub. L. 96–399, title III, §316, Oct. 8, 1980, 94 Stat. 1645, directed submission to Congress, not later than Sept.30, 1981, of report by Neighborhood Reinvestment Corporation, in conjunction with the National Consumer Cooperative Bank and the Secretary of Housing and Urban Development, on the findings, conclusions, and legislative recommendations reached as a result of the national demonstration program of mutual housing associations.
 

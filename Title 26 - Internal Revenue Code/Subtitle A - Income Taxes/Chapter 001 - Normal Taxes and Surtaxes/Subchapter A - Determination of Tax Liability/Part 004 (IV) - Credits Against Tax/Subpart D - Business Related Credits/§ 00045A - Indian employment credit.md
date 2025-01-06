@@ -156,7 +156,7 @@ For purposes of this section—
 
 This section shall not apply to taxable years beginning after December 31, 2021.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §304(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §114(a), title II, §216(a), Dec. 19, 2014, 128 Stat. 4014, 4034; Pub. L. 114–113, div. Q, title I, §161(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–123, div. D, title I, §40301(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 116–94, div. Q, title I, §111(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, §135(a), Dec. 27, 2020, 134 Stat. 3053.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a),Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §304(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §114(a), title II, §216(a), Dec. 19, 2014, 128 Stat. 4014, 4034; Pub. L. 114–113, div. Q, title I, §161(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–123, div. D, title I, §40301(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 116–94, div. Q, title I, §111(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, §135(a), Dec. 27, 2020, 134 Stat. 3053.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -222,7 +222,7 @@ Pub. L. 114–113, div. Q, title I, §161(b), Dec. 18, 2015, 129 Stat. 3066, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §114(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §114(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013."
 
 Pub. L. 113–295, div. A, title II, §216(b), Dec. 19, 2014, 128 Stat. 4034, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432\] to which it relates."
 
@@ -252,5 +252,5 @@ Amendment by Pub. L. 104–188 applicable to individuals who begin work for the 
 
 #### Effective Date
 
-Section applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 38 of this title.
+Section applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, setout as an Effective Date of 1993 Amendment note under section 38 of this title.
 

@@ -68,7 +68,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 &emsp;&emsp;(B) determine a single country-wide subsidy rate to be applied to all exporters and producers.
 
-> &emsp;The individual countervailable subsidy rates determined under subparagraph (A) shall be used to determine the all-others rate under section 1671d(c)(5) of this title.
+> &emsp;The individual countervailable subsidy rates determined under subparagraph (A) shall beused to determine the all-others rate under section 1671d(c)(5) of this title.
 
 #### (f) Adjustment of antidumping duty in certain proceedings relating to imports from nonmarket economy countries
 

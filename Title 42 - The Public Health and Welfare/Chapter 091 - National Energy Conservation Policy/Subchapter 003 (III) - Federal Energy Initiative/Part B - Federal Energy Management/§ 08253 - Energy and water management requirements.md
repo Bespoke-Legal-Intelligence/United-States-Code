@@ -129,7 +129,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (3) Plan
 
-&emsp;Not later than 180 days after the date on which guidelines are updated under paragraph\(2)(C), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
+&emsp;Not later than 180 days after the date on which guidelines are updated under paragraph (2)(C), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
 
 &emsp;&emsp;(A) how the agency will designate personnel primarily responsible for achieving the requirements; and
 
@@ -515,7 +515,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Best practices
 
-&emsp;&emsp;The Chief Information Officers Council established under section 3603 of title 44, shall recommend best practices for the attainment of the performance goals established under subparagraph (A), which shall include,to the extent applicable by law, consideration by a Federal agency of the use of—
+&emsp;&emsp;The Chief Information Officers Council established under section 3603 of title 44, shall recommend best practices for the attainment of the performance goals established under subparagraph (A), which shall include, to the extent applicable by law, consideration by a Federal agency of the use of—
 
 &emsp;&emsp;&emsp;(i) energy savings performance contracting; and
 
@@ -619,7 +619,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(i) in conducting portfolio-wide facility energy and water resilience planning and project integration;
 
-&emsp;&emsp;&emsp;(ii) in building new construction and major renovations to meet the sustainable design and energy and water performance standards required under this section;
+&emsp;&emsp;&emsp;(ii) in building new construction and major renovations to meet the sustainabledesign and energy and water performance standards required under this section;
 
 &emsp;&emsp;&emsp;(iii) in developing guidelines for—
 
@@ -655,7 +655,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 This chapter, referred to in subsecs. (c)(1)(A)(iii), (f)(1)(F)(ii), and (i)(3)(A)(i), (B)(iii)(II), was in the original "this Act", meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 
-The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 #### Amendments
 
@@ -715,7 +715,7 @@ Subsec. (h). Pub. L. 116–260, §1004, added subsec. (h).
 
 Subsec. (i). Pub. L. 116–260, §1012, added subsec. (i).
 
-<b>2012</b>—Subsec. (e)(3), (4). Pub. L. 112–210, §8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: "Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable."
+<b>2012</b>—Subsec. (e)(3), (4). Pub. L. 112–210, §8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: "Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how theagency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable."
 
 Subsec. (f). Pub. L. 112–210, §9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
 
@@ -783,7 +783,7 @@ Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided th
 
 #### Survey of Energy Saving Potential
 
-Pub. L. 100–615, §3, Nov. 5, 1988, 102 Stat. 3189, which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effective energy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by Pub. L. 102–486, title I, §152(i)(3), Oct. 24, 1992, 106 Stat. 2851.
+Pub. L. 100–615, §3, Nov. 5, 1988, 102 Stat. 3189, which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effectiveenergy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by Pub. L. 102–486, title I, §152(i)(3), Oct. 24, 1992, 106 Stat. 2851.
 
 <i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
 

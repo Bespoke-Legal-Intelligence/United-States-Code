@@ -56,7 +56,7 @@ Another section 764 of act July 1, 1944, is classified to section 294s of this t
 
 #### Prior Provisions
 
-A prior section 294t, act July 1, 1944, ch. 373, title VII, §751, as added Oct. 12, 1976, Pub. L. 94–484, title IV,§408(b)(1), 90 Stat. 2281; amended Dec. 19, 1977, Pub. L. 95–215, §5, 91 Stat. 1506; Nov. 9, 1978, Pub. L. 95–623, §12(c), 92 Stat. 3457; Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; July 10, 1979, Pub. L. 96–32, §7(i), 93 Stat. 84, which related to National Health Service Corps Scholarships Program, was renumbered section 338A of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254l of this title.
+A prior section 294t, act July 1, 1944, ch. 373, title VII, §751, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2281; amended Dec. 19, 1977, Pub. L. 95–215, §5, 91 Stat. 1506; Nov. 9, 1978, Pub. L. 95–623, §12(c), 92 Stat. 3457; Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; July 10, 1979, Pub. L. 96–32, §7(i), 93 Stat. 84, which related to National Health Service Corps Scholarships Program, was renumbered section 338A of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254l of this title.
 
 A prior section 294u, act July 1, 1944, ch. 373, title VII, §752, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2284; amended Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; Sept. 29, 1979, Pub. L. 96–76, title II, §202(a), (b), 93 Stat. 582, which related to obligated service under contract, was renumbered section 338B of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254m of this title, and subsequently renumbered section 338C of act July 1, 1944, by Pub. L. 100–177.
 
@@ -76,7 +76,7 @@ Section 294z, act July 1, 1944, ch. 373, title VII, §758, as added Oct. 12, 197
 
 Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, established a Lister Hill scholarship program of grants for family practice of medicine.
 
-Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323, related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
+Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323,related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
 
 Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2325, related to a loan repayment program regarding service on faculties of certain health professions schools. See section 293b of this title.
 

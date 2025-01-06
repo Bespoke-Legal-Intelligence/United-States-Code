@@ -30,7 +30,7 @@ Section was enacted as part of the Fighting Emerging Narcotics Through Additiona
 
 #### Rule of Construction
 
-Nothing in subtitle C (§§5551–5558) of title LV of div. E of Pub. L. 117–263, or the amendments made by that subtitle, to be construed as affecting the prioritization of extradition requests, see section 5557 of Pub. L. 117–263, set out as a note under section 2291l of this title.
+Nothing in subtitle C (§§5551–5558) of title LV of div. E of Pub. L. 117–263, or the amendments made by thatsubtitle, to be construed as affecting the prioritization of extradition requests, see section 5557 of Pub. L. 117–263, set out as a note under section 2291l of this title.
 
 #### Definitions
 

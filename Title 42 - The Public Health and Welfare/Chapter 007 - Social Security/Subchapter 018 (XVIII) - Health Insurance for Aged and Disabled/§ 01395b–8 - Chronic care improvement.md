@@ -16,7 +16,7 @@
 
 #### (B) Chronic care improvement organization
 
-&emsp;&emsp;The term "chronic care improvement organization" means an entity that has entered into an agreement under subsection (b) or (c) to provide, directly or through contracts with subcontractors, a chronic careimprovement program under this section. Such an entity may be a disease management organization, health insurer, integrated delivery system, physician group practice, a consortium of such entities, or any other legal entity that the Secretary determines appropriate to carry out a chronic care improvement program under this section.
+&emsp;&emsp;The term "chronic care improvement organization" means an entity that has entered into an agreement under subsection (b)or (c) to provide, directly or through contracts with subcontractors, a chronic care improvement program under this section. Such an entity may be a disease management organization, health insurer, integrated delivery system, physician group practice, a consortium of such entities, or any other legal entity that the Secretary determines appropriate to carry out a chronic care improvement program under this section.
 
 #### (C) Care management plan
 

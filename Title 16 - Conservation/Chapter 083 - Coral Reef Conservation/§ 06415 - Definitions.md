@@ -16,7 +16,7 @@ In this chapter:
 
 #### (4) Conservation
 
-&emsp;The term "conservation" means the use of methods and procedures necessary to preserveor sustain native corals and associated species as diverse, viable, and self-perpetuating coral reef ecosystems with minimal impacts from invasive species, including—
+&emsp;The term "conservation" means the use of methods and procedures necessary to preserve or sustain native corals and associated species as diverse, viable, and self-perpetuating coral reef ecosystems with minimal impacts from invasive species, including—
 
 &emsp;&emsp;(A) all activities associated with resource management, such as monitoring, assessment, protection, restoration, sustainable use, management of habitat, and maintenance or augmentation of genetic diversity;
 

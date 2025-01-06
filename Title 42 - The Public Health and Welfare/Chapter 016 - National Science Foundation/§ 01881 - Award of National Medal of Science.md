@@ -70,7 +70,7 @@ Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the Pr
 
 (d) The President shall from time to time designate one of the members of the Committee as Chairman thereof.
 
-(e) Of the persons first designated as members of the Committee under the provisions of subsection (b) of this Section, four shall be designated to serve until December 31, 1966, four shall be designated to serve until December 31, 1967, and four shall be designated to serve until December 31, 1968.
+(e) Of the persons first designated as members of the Committee under the provisions of subsection (b) ofthis Section, four shall be designated to serve until December 31, 1966, four shall be designated to serve until December 31, 1967, and four shall be designated to serve until December 31, 1968.
 
 Sec. 3. <i>Preliminary Procedure</i>. (a) The Committee shall receive, on behalf of the President, (1) the recommendations made by the National Academy of Sciences respecting the award of the Medal pursuant to the provisions of Section 2(a) of the Act \[subsec. (a) of this section\], and (2) such similar recommendations as may be made by any other nationally representative scientific or engineering organization or other qualified source. Each such recommendation shall include or be accompanied by such appropriate supporting material as the Committee may from time to time specify.
 

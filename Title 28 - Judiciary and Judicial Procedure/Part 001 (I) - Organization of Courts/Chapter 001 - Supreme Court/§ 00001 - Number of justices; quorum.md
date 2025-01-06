@@ -12,6 +12,12 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–203, §1, Dec. 23, 2024, 138 Stat. 2693, provided that: "This Act \[amending section 133 of this title and enacting provisions set out as a note under section 133 of this title\] may be cited as the 'Federal Judiciary Stabilization Act of 2024'."
+
+Pub. L. 118–73, §1, July 30, 2024, 138 Stat. 1504, provided that: "This Act \[amending sections 124 and 128 of this title\] may be cited as the 'Improving Access to Our Courts Act'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 117–354, §1, Jan. 5, 2023, 136 Stat. 6270, provided that: "This Act \[enacting section 540D of this title and section 20306 of Title 34, Crime Control and Law Enforcement, amending sections 20301 to 20305 of Title 34, and repealing section 20306 of Title 34\] may be cited as the 'Respect for Child Survivors Act'."
@@ -22,7 +28,7 @@ Pub. L. 117–252, §1, Dec. 20, 2022, 136 Stat. 2359, provided that: "This Act 
 
 #### Short Title of 2021 Amendment
 
-Pub. L. 116–325, §1, Jan. 12, 2021, 134 Stat. 5086, provided that: "This Act \[amending sections 375, 589a, and 1930 of this title and section 330 of Title 11, Bankruptcy, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and section 330 of Title 11\] may be cited as the 'Bankruptcy Administration Improvement Act of 2020'."
+Pub. L. 116–325, §1, Jan. 12, 2021, 134 Stat. 5086, provided that: "This Act \[amending sections 375, 589a, and 1930 of this title and section 330 of Title 11, Bankruptcy, and enacting provisions set out as notes under sections152, 589a, and 1930 of this title and section 330 of Title 11\] may be cited as the 'Bankruptcy Administration Improvement Act of 2020'."
 
 #### Short Title of 2019 Amendment
 
@@ -30,7 +36,7 @@ Pub. L. 116–73, §1, Nov. 26, 2019, 133 Stat. 1154, provided that: "This Act \
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–332, §1, Dec. 19, 2018, 132 Stat. 4487, provided that: "This Act \[amending section 1631 of thistitle\] may be cited as the 'Protecting Access to the Courts for Taxpayers Act'."
+Pub. L. 115–332, §1, Dec. 19, 2018, 132 Stat. 4487, provided that: "This Act \[amending section 1631 of this title\] may be cited as the 'Protecting Access to the Courts for Taxpayers Act'."
 
 #### Short Title of 2017 Amendment
 
@@ -148,7 +154,7 @@ Pub. L. 100–702, title VII, §701, Nov. 19, 1988, 102 Stat. 4654, provided tha
 
 Pub. L. 100–694, §1, Nov. 18, 1988, 102 Stat. 4563, provided that: "This Act \[enacting section 831c–2 of Title 16, Conservation, amending sections 2671, 2674, and 2679 of this title, and enacting provisions set out as notes under sections 2671 and 2679 of this title\] may be cited as the 'Federal Employees Liability Reform and Tort Compensation Act of 1988'."
 
-Pub. L. 100–659, §1, Nov. 15, 1988, 102 Stat. 3910, provided that: "This Act \[enacting section 377 of this title and section 8440a of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under sections 376 and 377 of this title\] may be cited as the 'Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988'."
+Pub. L. 100–659, §1, Nov. 15, 1988, 102 Stat. 3910, provided that: "This Act \[enacting section 377 of this title and section 8440a of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title5, and enacting provisions set out as notes under sections 376 and 377 of this title\] may be cited as the 'Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988'."
 
 #### Short Title of 1987 Amendment
 
@@ -216,7 +222,7 @@ Pub. L. 94–554, §1, Oct. 19, 1976, 90 Stat. 2603, provided: "That this Act \[
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–271, title I, §101, June 2, 1970, 84 Stat. 274, provided that: "This title \[enacting sections 256 and 257 of this title, amending sections 253 to 255, 1541, 1582, 2601, 2602, and 2631 to 2639 of this title, repealing sections 1583 and 2640 to 2642 of this title, and enacting provisions set out as a note under section 256 of this title\] may be cited as 'The Customs Courts Act of 1970'."
+Pub. L. 91–271, title I, §101, June 2, 1970, 84 Stat. 274, provided that: "This title \[enacting sections 256 and 257 of this title, amending sections 253 to 255, 1541, 1582, 2601, 2602, and 2631 to 2639 of this title, repealing sections 1583 and 2640 to 2642 of this title, and enacting provisions set out as a note under section 256 of thistitle\] may be cited as 'The Customs Courts Act of 1970'."
 
 #### Short Title of 1966 Amendment
 
@@ -224,7 +230,7 @@ Pub. L. 89–504, title II, §201, July 18, 1966, 80 Stat. 293, provided that: "
 
 #### Short Title of 1964 Amendment
 
-Pub. L. 88–426, title IV, §401, Aug. 14, 1964, 78 Stat. 433, provided that: "This title \[amending sections 5, 44, 135, 173, 213, 252, 603, and 792 of this title, section 867 of Title 10, Armed Forces, section 68 of former Title 11, Bankruptcy, and section 7443 of Title 26, Internal Revenue Code, and enacting provisions set out as notes undersections 603, 604 and 753 of this title\] may be cited as the 'Federal Judicial Salary Act of 1964'."
+Pub. L. 88–426, title IV, §401, Aug. 14, 1964, 78 Stat. 433, provided that: "This title \[amending sections 5, 44, 135, 173, 213, 252, 603, and 792 of this title, section 867 of Title 10, Armed Forces, section 68 of former Title 11, Bankruptcy, and section 7443 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 603, 604 and 753 of this title\] may be cited as the 'Federal Judicial Salary Act of 1964'."
 
 #### Gifts to the United States Supreme Court
 

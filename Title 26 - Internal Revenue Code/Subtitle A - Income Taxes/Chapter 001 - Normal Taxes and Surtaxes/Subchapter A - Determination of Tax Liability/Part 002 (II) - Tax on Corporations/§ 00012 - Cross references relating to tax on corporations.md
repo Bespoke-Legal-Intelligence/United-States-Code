@@ -72,7 +72,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 234(c) of Pub. L. 88–272, set out as a note under section 1503 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 234(c) ofPub. L. 88–272, set out as a note under section 1503 of this title.
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 

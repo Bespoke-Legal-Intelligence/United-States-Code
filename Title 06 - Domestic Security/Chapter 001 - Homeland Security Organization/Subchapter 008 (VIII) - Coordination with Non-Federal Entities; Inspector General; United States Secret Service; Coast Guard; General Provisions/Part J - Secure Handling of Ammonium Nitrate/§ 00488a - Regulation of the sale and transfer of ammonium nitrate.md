@@ -84,7 +84,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (1) In general
 
-&emsp;Notwithstanding section 552 of title 5 or the USA PATRIOT ACT (Public Law 107–56; 115 Stat. 272), and except as provided in paragraph (2), the Secretary may not disclose to any person any information obtained under this part.
+&emsp;Notwithstanding section 552 of title 5 or the USA PATRIOT ACT (Public Law 107–56; 115Stat. 272), and except as provided in paragraph (2), the Secretary may not disclose to any person any information obtained under this part.
 
 #### (2) Exception
 

@@ -118,7 +118,7 @@ No Royalty Fee Required for Certain Secondary Transmissions.—A satellite carri
 
 (d)
 
-Noncompliance With Reporting and Regulatory Requirements.—Notwithstanding subsection (a), the willful or repeated secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a primary transmission embodying a performance or display of a work made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided under sections 502 through 506, if the satellite carrier has not complied with the reporting requirements of subsection (b) or with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast signals.
+Noncompliance With Reporting and Regulatory Requirements.—Notwithstanding subsection (a), the willful or repeated secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a primary transmission embodying a performance or display of a work made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided under sections 502 through 506, if the satellite carrier hasnot complied with the reporting requirements of subsection (b) or with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast signals.
 
 (e)
 
@@ -190,7 +190,7 @@ County of license.—In addition to the area described in subparagraph (A), a st
 
 &emsp;&emsp;(C)
 
-Designated market area.—For purposes of subparagraph (A), the term "designated market area" means a designated market area, as determined by NielsenMedia Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
+Designated market area.—For purposes of subparagraph (A), the term "designated market area" means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
 
 &emsp;&emsp;(D)
 
@@ -254,7 +254,7 @@ Subsec. (f)(1). Pub. L. 111–175, §103(e)(2)(A), substituted "section 119, sub
 
 Subsec. (f)(1)(B). Pub. L. 111–175, §103(e)(1)(A), substituted "$250" for "$5".
 
-Subsec. (f)(2). Pub. L. 111–175, §103(e)(2)(A), substituted "section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to" for "section 119 or" in introductory provisions.
+Subsec. (f)(2). Pub. L. 111–175, §103(e)(2)(A), substituted "section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a),or subject to" for "section 119 or" in introductory provisions.
 
 Subsec. (f)(2)(A)(ii), (B)(ii). Pub. L. 111–175, §103(e)(1)(B), substituted "$2,500,000" for "$250,000".
 
@@ -264,7 +264,7 @@ Subsec. (j)(1). Pub. L. 111–175, §103(f)(1), substituted "that contracts" for
 
 Subsec. (j)(3). Pub. L. 111–175, §103(f)(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (j)(4). Pub. L. 111–175, §103(f)(3), redesignated par. (3) as (4) and inserted "non-network station;" after"Network station;" in heading and " 'non-network station'," after " 'network station'," in text. Former par. (4) redesignated (6).
+Subsec. (j)(4). Pub. L. 111–175, §103(f)(3), redesignated par. (3) as (4) and inserted "non-network station;" after "Network station;" in heading and " 'non-network station'," after " 'network station'," in text. Former par. (4) redesignated (6).
 
 Subsec. (j)(5). Pub. L. 111–175, §103(f)(5), added par. (5). Former par. (5) redesignated (7).
 

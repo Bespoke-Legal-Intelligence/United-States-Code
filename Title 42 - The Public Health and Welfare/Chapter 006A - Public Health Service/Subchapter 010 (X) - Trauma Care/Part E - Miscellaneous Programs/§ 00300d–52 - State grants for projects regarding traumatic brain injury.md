@@ -90,7 +90,7 @@ The Secretary may make a grant under subsection (a) only if an application for t
 
 &emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with traumatic brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
 
-&emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by aState or American Indian consortium plan supported by its advisory council; and
+&emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by a State or American Indian consortium plan supported by its advisory council; and
 
 &emsp;&emsp;(G) develop capacity within targeted communities.
 

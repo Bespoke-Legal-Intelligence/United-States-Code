@@ -6,11 +6,11 @@ There is hereby established a program to be known as the "Energy Employees Occup
 
 #### (b) Purpose of program
 
-The purpose of the compensation program is to provide for timely, uniform, and adequate compensation of covered employees and, where applicable, survivors of such employees, suffering from illnesses incurred by such employeesin the performance of duty for the Department of Energy and certain of its contractors and subcontractors.
+The purpose of the compensation program is to provide for timely, uniform, and adequate compensation of covered employees and, where applicable, survivors of such employees, suffering from illnesses incurred by such employees in the performance of duty for the Department of Energy and certain of its contractors and subcontractors.
 
 #### (c) Eligibility for compensation
 
-The eligibility of covered employees for compensation under the compensation program shall be determined in accordance with the provisions of part B as may be modified by a law enacted after the date of the submittal of the proposal for legislation required by section 7384f of this title.
+The eligibility of covered employees for compensation under the compensation programshall be determined in accordance with the provisions of part B as may be modified by a law enacted after the date of the submittal of the proposal for legislation required by section 7384f of this title.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–497.)
 

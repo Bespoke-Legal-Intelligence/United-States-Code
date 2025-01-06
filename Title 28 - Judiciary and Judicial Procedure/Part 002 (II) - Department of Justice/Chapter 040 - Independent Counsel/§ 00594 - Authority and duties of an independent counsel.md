@@ -100,7 +100,7 @@ Reports by Independent Counsel.—
 
 Required reports.—An independent counsel shall—
 
-&emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
+&emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and withrespect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
 
 &emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
@@ -210,7 +210,7 @@ In general.—An independent counsel shall—
 
 &emsp;&emsp;(B)
 
-Liability for invalid certification.—An employee making a certification undersubparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under section 3528 of title 31.
+Liability for invalid certification.—An employee making a certification under subparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under section 3528 of title 31.
 
 &emsp;&emsp;(C)
 

@@ -92,7 +92,7 @@ Congress—
 
 #### (ii) Exception for certain countries
 
-&emsp;&emsp;&emsp;If the Secretary of the Treasury determines that the NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall not apply to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran if an exception under paragraph (4)(D) of section 8513a(d) of this title applies to the country with primary jurisdiction over the foreign financial institution at the time of the transaction or the provision of the service.
+&emsp;&emsp;&emsp;If the Secretary of the Treasury determines that the NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall not apply to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran if an exception under paragraph (4)(D) of section 8513a(d) of this title applies to thecountry with primary jurisdiction over the foreign financial institution at the time of the transaction or the provision of the service.
 
 #### (iii) Rule of construction
 

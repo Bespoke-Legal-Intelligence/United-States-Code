@@ -14,19 +14,31 @@ Use by Federal Government.—
 
 &emsp;(1)
 
-Secretary of defense authority.—With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2), the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+Secretary of defense authority.—With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L) of such subsection when the Coast Guard is operating as a service in the Navy, the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 
 &emsp;(2)
 
-Director of national intelligence authority.—With respect to a covered author who produces a covered work in the course ofemployment at the covered institution described in subsection (d)(2)(M),<sup>1</sup> the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+Secretary of the department in which the coast guard is operating when it is notoperating as a service in the navy authority.—With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(L), the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+&emsp;(3)
+
+Director of national intelligence authority.—With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M), the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+&emsp;(4)
+
+Secretary of transportation authority.—With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(N), the Secretary of Transportation may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 
 (d)
 
 Definitions.—In this section:
 
-&emsp;(1) The term "covered author" means a civilian member of the faculty of a covered institution.
+&emsp;(1)
 
-&emsp;(2) The term "covered institution" means the following:
+Covered author.—The term "covered author" means a civilian member of the faculty of a covered institution.
+
+&emsp;(2)
+
+Covered institution.—The term "covered institution" means the following:
 
 &emsp;&emsp;(A) National Defense University.
 
@@ -40,7 +52,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(F) Naval War College.
 
-&emsp;&emsp;(G) Naval Post Graduate School.
+&emsp;&emsp;(G) Naval Postgraduate School.
 
 &emsp;&emsp;(H) Marine Corps University.
 
@@ -52,21 +64,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(L) United States Coast Guard Academy.
 
-&emsp;&emsp;(M) <sup>2</sup> United States Merchant Marine Academy.
+&emsp;&emsp;(M) National Intelligence University.
 
-&emsp;&emsp;(M) <sup>2</sup> National Intelligence University.
+&emsp;&emsp;(N) United States Merchant Marine Academy.
 
-&emsp;(3) The term "covered Secretary" <sup>3</sup> means—
+&emsp;(3)
 
-&emsp;&emsp;(A) the Secretary of Transportation, with respect to the United States Merchant Marine Academy;
+Covered work.—The term "covered work" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
 
-&emsp;&emsp;(B) the Secretary of Homeland Security, with respect to the United States Coast Guard Academy; or
-
-&emsp;&emsp;(C) the Secretary of Defense, with respect to any other covered institution under paragraph (2).
-
-&emsp;(4) The term "covered work" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, §544, Dec. 20, 2019, 133 Stat. 1376; Pub. L. 117–263, div. C, title XXXV, §3514, div. F, title LXIII, §6306, Dec. 23, 2022, 136 Stat. 3068, 3504.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, §544, Dec. 20, 2019, 133 Stat. 1376; Pub. L. 117–263, div. C, title XXXV, §3514, div. F, title LXIII, §6306, Dec. 23, 2022, 136 Stat. 3068, 3504; Pub. L. 118–159, div. F, title LXIX, §6902(e), Dec. 23, 2024, 138 Stat. 2518.)
 
 #### Historical and Revision Notes
 
@@ -100,6 +106,8 @@ Retention of a saving clause has been urged on the ground that the present statu
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159 amended section generally. Prior to amendment, section related to copyright protection for United States Government works.
+
 <b>2022</b>—Subsec. (b). Pub. L. 117–263, §3514(1), substituted "Certain Works" for "Certain of Works" in heading.
 
 Subsec. (c). Pub. L. 117–263, §6306(2), added subsec. (c) and struck out former subsec. (c). Text read as follows: "A covered Secretary may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
@@ -116,9 +124,9 @@ Subsec. (d)(3), (4). Pub. L. 117–263, §3514(4)(B), (C), added par. (3) and re
 
 <b>2019</b>—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
 
-<i><sup>1</sup></i><i> So in original. There are two subpars. designated (M) in subsec. (d)(2).</i>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-<i><sup>2</sup></i><i> So in original. There are two subpars. (M).</i>
+#### Coordination With Other Amendments Made by Division F of Pub. L. 118–159
 
-<i><sup>3</sup></i><i> Term does not appear in section after amendment by section 6306(2) of Pub. L. 117–263. See 2022 Amendment notes for subsec. (c) below.</i>
+Pub. L. 118–159, div. F, title LXIX, §6902(f), Dec. 23, 2024, 138 Stat. 2519, provided that: "For purposes of applying amendments made by provisions of this division \[div. F of Pub. L. 118–159, see Tables for classification\] other than this section, the amendments made by this section \[amending this section and sections 3024, 3033, 3232a, 3234, 3244, 3304, and 3614 of Title 50, War and National Defense\] shall be treated as having been enacted immediately before any such amendments by other provisions of this division."
 

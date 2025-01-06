@@ -38,7 +38,7 @@ Jurisdiction over certain blocked assets transferred from Attorney General to Se
 
 Ex. Ord. No. 9760, July 23, 1946, 11 F.R. 7999, provided:
 
-1\. The Secretary of State is authorized and empowered as he deems necessary in the national interest to direct, manage, supervise, or control diplomatic and consular property within the United States owned or controlled by Germany or Japan, including all assets on the premises of such property.
+1\. The Secretary of State is authorized and empowered as he deems necessary in the national interest todirect, manage, supervise, or control diplomatic and consular property within the United States owned or controlled by Germany or Japan, including all assets on the premises of such property.
 
 2\. The Alien Property Custodian shall not exercise any power and authority conferred upon him by any other Executive order with respect to diplomatic and consular property within the United States owned or controlled by Germany or Japan except so far as the Secretary of State releases his authority over such diplomatic and consular property under this order and so notifies the Alien Property Custodian in writing.
 

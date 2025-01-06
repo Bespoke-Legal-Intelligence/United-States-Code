@@ -218,7 +218,7 @@ User fee activities and amounts.—Section 664 of title 46 \[14\], United States
 
 &emsp;"(4)
 
-Conditions of public ports of the united states.—Section 308(c) of title 49, United States Code.
+Conditions of public ports of the united states.—Section 308(c) \[now 308(b)\] of title 49, United States Code.
 
 &emsp;"(5)
 
@@ -626,7 +626,7 @@ Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: "S
 
 &emsp;"(2) Section 47103 of such title.
 
-&emsp;"(3) Section 47131 of such title."
+&emsp;"(3) \[Former\] Section 47131 of such title."
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 

@@ -50,7 +50,7 @@ The section is enlarged to cover officers of the Air Force under authority of §
 
 In subsection (a) the words "at the request of the Secretary of the Army and the Secretary of the Treasury" are omitted as surplusage. The words "to receive instruction" are inserted after the listing of the services and the words "attendance and" are omitted. The word "grades" is substituted for the word "ranks".
 
-In subsection (c) the words "rules and" are omitted. The words "who are officers of the naval service" are substituted for the words "of the United States Navy", since officers of the Marine Corps are occasionally ordered to attend the Postgraduate School on the same basis as officers of the Navy.
+In subsection (c) the words "rules and" are omitted. The words "who are officers of the naval service" are substituted for the words "of the United States Navy",since officers of the Marine Corps are occasionally ordered to attend the Postgraduate School on the same basis as officers of the Navy.
 
 #### <b>Editorial Notes</b>
 
@@ -125,4 +125,110 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Pilot Program To Provide Graduate Education Opportunities for Enlisted Members of the Army and Navy
+
+Pub. L. 118–159, div. A, title V, §559D, Dec. 23, 2024, 138 Stat. 1900, provided that:
+
+"(a)
+
+Authority.—The Secretary of the Navy and the Secretary of the Army may jointly conduct a pilot program (referred to in this section as the 'Program') under which certain enlisted personnel of the covered Armed Forces may enroll in a master's degree program at the Naval Postgraduate School.
+
+"(b)
+
+Program Requirements.—The Secretaries concerned may carry out the Program—
+
+&emsp;"(1) in accordance with this section;
+
+&emsp;"(2) in accordance with such regulations as may be prescribed by the Secretary of Defense for purposes of the Program; and
+
+&emsp;"(3) in a manner consistent with the Graduate Education Program–Enlisted pilot program of the Marine Corps.
+
+"(c)
+
+Eligibility of Participants.—The Secretaries concerned shall establish criteria for determining the eligibility of enlisted members of the covered Armed Forces for participation in the Program.
+
+"(d)
+
+Selection of Participants.—Selection of a member for the Program shall be based on consideration of—
+
+&emsp;"(1) the eligibility criteria established under subsection (c);
+
+&emsp;"(2) professional performance;
+
+&emsp;"(3) promotion potential;
+
+&emsp;"(4) retention potential;
+
+&emsp;"(5) academic background, capabilities, and accomplishments;
+
+&emsp;"(6) the needs of the Navy and Army; and
+
+&emsp;"(7) input from the component within each covered Armed Force with primary responsibility for determining the duty assignments of enlisted members.
+
+"(e)
+
+Post-participation Service.—Subject to such terms, conditions, and exceptions as the Secretaries concerned may establish, an enlisted member who receives a master's degree under the Program shall serve for a period of not less than two years in a duty assignment that is relevant to the degree obtained by the member under the Program.
+
+"(f)
+
+Framework for Filling Billets.—In conjunction with selecting enlisted members for participation in the Program as described in subsection (d), the Secretaries concerned shall establish a framework for assigning enlisted personnel who are not participating in the Program—
+
+&emsp;"(1) to fill the billets of the members participating in the Program while such members are completing a course of study at the Naval Postgraduate School; and
+
+&emsp;"(2) to fill the billets of members who received a master's degree under the Program while such members are engaged in post-participation service as described in subsection (e).
+
+"(g)
+
+Identification of Degree Programs.—The Secretaries concerned shall coordinate with the President of the Naval Postgraduate School to identify specific master's degree programs offered by the School in which Program participants may enroll. In identifying such programs, the Secretaries shall consider—
+
+&emsp;"(1) the needs of the Navy and Army;
+
+&emsp;"(2) the capacity of the Naval Postgraduate School; and
+
+&emsp;"(3) the extent to which enrollment in a specific program is expected to have a positive effect on the career trajectories of participants.
+
+"(h)
+
+Information Dissemination.—The Secretaries concerned shall take such actions as are necessary to notify and inform enlisted members about the Program.
+
+"(i)
+
+Report.—Before the expiration of the six-year period described in subsection (j), the Secretaries concerned, in coordination with the Secretary of Defense, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes—
+
+&emsp;"(1) an assessment of whether and to what extent the Program has met the needs of the covered Armed Forces and had positive effects on participating enlisted members, including with respect to—
+
+&emsp;&emsp;"(A) career trajectory, including potential pay increases;
+
+&emsp;&emsp;"(B) retention;
+
+&emsp;&emsp;"(C) recruitment;
+
+&emsp;&emsp;"(D) job performance;
+
+&emsp;&emsp;"(E) merit-based promotions and merit-based promotion reorder; and
+
+&emsp;&emsp;"(F) compatibility with the objectives outlined in the 2022 National Defense Strategy to modernize the Armed Services, spur innovation, and outpace and outthink adversaries of the United States;
+
+&emsp;"(2) the recommendations of the Secretaries regarding whether the Program should be extended or made permanent;
+
+&emsp;"(3) an assessment of the funding and capabilities that may be needed to make the Program permanent; and
+
+&emsp;"(4) any other matters the Secretaries determine to be relevant.
+
+"(j)
+
+Sunset.—The Program shall terminate six years after the date on which the Program commences under this section.
+
+"(k)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered Armed Force' means the Army or Navy.
+
+&emsp;"(2) The term 'Secretary concerned' means—
+
+&emsp;&emsp;"(A) the Secretary of the Army, with respect to matters concerning the Army; and
+
+&emsp;&emsp;"(B) the Secretary of the Navy, with respect to matters concerning the Navy."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Disbursement of Travel Allowances Directly to Creditors.—(1) The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of the armed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts of expenses of official travel that are charged by the employee or member on the Defense travel card.
+Disbursement of Travel Allowances Directly to Creditors.—(1) The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of thearmed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts of expenses of official travel that are charged by the employee or member on the Defense travel card.
 
 (2) The Secretary of Defense may waive the requirement for a direct payment to a travel card issuer under paragraph (1) in any case the Secretary determines appropriate.
 
@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 Exclusion of Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–81, div. A, title VI, §603(e), Dec. 27, 2021, 135 Stat. 1767.)
+(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948;Pub. L. 117–81, div. A, title VI, §603(e), Dec. 27, 2021, 135 Stat. 1767.)
 
 #### <b>Editorial Notes</b>
 

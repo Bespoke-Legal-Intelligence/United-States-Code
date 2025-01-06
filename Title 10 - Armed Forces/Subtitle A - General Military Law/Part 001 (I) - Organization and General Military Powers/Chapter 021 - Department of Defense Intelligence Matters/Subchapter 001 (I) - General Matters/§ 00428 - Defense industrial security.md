@@ -10,7 +10,7 @@ Consistency With Executive Orders and Directives.—The Secretary shall carry ou
 
 (c)
 
-Performance of Industrial Security Functions for Other Agencies.—The Secretary may perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
+Performance of Industrial Security Functions for Other Agencies.—The Secretarymay perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
 
 (d)
 
@@ -38,6 +38,98 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Establishment of Pilot Program for Access to Shared Classified Commercial Infrastructure
+
+Pub. L. 118–159, div. A, title VIII, §874, Dec. 23, 2024, 138 Stat. 2012, provided that:
+
+"(a)
+
+Pilot Program Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish a pilot program on streamlining access for small business concerns and institutions of higher learning to shared classified commercial infrastructure—
+
+&emsp;"(1) to expand access to secret or collateral accredited facilities and sensitive compartmented information facilities and special access program facilities to securely perform work under existing classified contracts;
+
+&emsp;"(2) to reduce the cost and administrative requirements for a facility to receive and maintain accreditation and certification as an accredited facility;
+
+&emsp;"(3) to increase opportunities for small business concerns and institutions of higher learning to have access to and compete for classified contracts; and
+
+&emsp;"(4) to identify policy barriers that prevent components of the Department of Defense from more broadly using shared classified commercial infrastructure and prototyping proposed solutions.
+
+"(b)
+
+Designation of Principal Civilian Official.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall designate an existing civilian official of the Department of Defense who shall be responsible for the administration of the pilot program established under subsection (a).
+
+&emsp;"(2)
+
+Responsibilities.—The responsibilities of the civilian official designated under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) To seek to enter into a contact or other agreement with one or more private entities—
+
+&emsp;&emsp;&emsp;"(i) for access for contractors and components of the Department of Defense to shared classified commercial infrastructure; and
+
+&emsp;&emsp;&emsp;"(ii) to facilitate the use of such infrastructure by covered small business concerns and institutions of higher learning.
+
+&emsp;&emsp;"(B) In consultation with the Office of the Director of National Intelligence, to coordinate with the Director of the Defense Counterintelligence and Security Agency, the Director of the Defense Intelligence Agency, and the Director of the Defense Information Systems Agency to update or prescribe policies and regulations governing the process and timelines pertaining to how shared commercial classified infrastructure may obtain relevant facility authorizations and access to secure information technology networks from the Department of Defense.
+
+&emsp;&emsp;"(C) To make recommendations to the Secretary of Defense regarding the modernization, streamlining, and acceleration of the approval process of the Department of Defense for contacts, subcontracts, and co-use or joint use agreements for shared classified commercial infrastructure.
+
+&emsp;&emsp;"(D) The development and maintenance of metrics tracking the outcomes of each request made under the pilot program for the accreditation of shared commercial classified infrastructure as an accredited facility.
+
+"(c)
+
+Requirements.—
+
+&emsp;"(1)
+
+Policies and regulations.—As part of the pilot program established under subsection (a), the Director of the Defense Counterintelligence and Security Agency, the Director of the Defense Intelligence Agency, and the Director of the Defense Information Systems Agency shall each update or prescribe policies and regulations governing the processes and timelines pertaining to how shared commercial classified infrastructure may obtain relevant facility sponsorship, associated authorizations and accreditation, and access to relevant secure information technology networks from the Department of Defense.
+
+&emsp;"(2)
+
+Modernization, streamlining, and acceleration.—The Secretary of Defense shall ensure that the pilot program established under subsection (a) includes efforts to modernize, streamline, and accelerate the approval process of the Department of Defense for shared, co-use, and joint use agreements to facilitate the access of small business concerns and institutions of higher learning performing under contracts or other agreements with the Department to classified environments.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, a report on the pilot program established under subsection (a)—
+
+&emsp;&emsp;"(A) after the establishment of such pilot program, but not later than two years after the establishment of such pilot program; and
+
+&emsp;&emsp;"(B) after the termination of such pilot program pursuant to subsection (e), but not later than 120 days after such termination.
+
+&emsp;"(2)
+
+Contents.—Each report submitted pursuant to paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A list of each request made under the pilot program for the accreditation of a facility as an accredited facility, including the date on which the request was made to the civilian official designated under subsection (b) and to the relevant facility accreditation agency.
+
+&emsp;&emsp;"(B) A list of the total number of personnel authorized to conduct inspections under the pilot program for the accreditation and certification of facilities as accredited facilities.
+
+&emsp;&emsp;"(C) Actions taken by the civilian official designated under subsection (b) to streamline the process of the Department of Defense for approval of co-use and joint use agreements to facilitate the access of small business concerns and institutions of higher learning performing under contracts or other agreements with the Department to classified environments, including any updated or new policies or guidance issued as a result of the pilot program.
+
+&emsp;&emsp;"(D) A list of all unutilized and currently accredited sensitive compartmented information facilities owned and operated by the Department of Defense that are located within 25 miles of a facility described in subsection (a)(1).
+
+&emsp;&emsp;"(E) A list of the metrics or other measures used by the Department of Defense to assess the benefits to the Department from the pilot program established under subsection (a), and any other metrics the Secretary of Defense deems appropriate.
+
+"(e)
+
+Termination.—The authority to carry out the pilot program required by subsection (a) and the requirements of this section shall terminate on September 30, 2030.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'institution of higher learning' has the meaning given such term in section 3452(f) of title 38, United States Code.
+
+&emsp;"(2) The term 'shared commercial classified infrastructure' means fully managed, shared, classified infrastructure (including physical facilities), and associated services that are operated by a private third-party for the benefit of appropriately cleared government and contractor personnel who have limited or constrained access to secret collateral and sensitive compartmented information facilities.
+
+&emsp;"(3) The term 'small business concern' has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632)."
+
 #### Pilot Program for Department of Defense Controlled Unclassified Information in the Hands of Industry
 
 Pub. L. 115–232, div. A, title X, §1048, Aug. 13, 2018, 132 Stat. 1961, provided that:
@@ -58,7 +150,7 @@ Program Requirements.—The pilot program under subsection (a) shall have the fo
 
 &emsp;"(2) The use, in consultation with the Chief of Information Officer of the Department, of a capability or means for assessing industry compliance with Department cybersecurity standards.
 
-&emsp;"(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership,control, or influence company can be mitigated and how such mitigation could be enforced.
+&emsp;"(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership, control, or influence company can be mitigated and how such mitigation could be enforced.
 
 "(c)
 

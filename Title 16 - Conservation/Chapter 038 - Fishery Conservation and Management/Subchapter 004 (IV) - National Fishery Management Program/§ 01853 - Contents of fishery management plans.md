@@ -32,7 +32,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
-&emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—
+&emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, ofthe conservation and management measures on, and possible mitigation measures for—
 
 &emsp;&emsp;(A) participants in the fisheries and fishing communities affected by the plan or amendment;
 
@@ -92,7 +92,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(4) prohibit, limit, condition, or require the use of specified types and quantities of fishing gear, fishing vessels, or equipment for such vessels, including devices which may be required to facilitate enforcement of the provisions of this chapter;
 
-&emsp;(5) incorporate (consistent with the national standards, the other provisions of this chapter, and any other applicable law) the relevant fishery conservation and management measures of the coastal States nearest to the fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;
+&emsp;(5) incorporate (consistent with the national standards, the other provisions of this chapter,and any other applicable law) the relevant fishery conservation and management measures of the coastal States nearest to the fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;
 
 &emsp;(6) establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
 
@@ -206,7 +206,7 @@ Subsec. (b)(10) to (12). Pub. L. 104–297, §108(c)(5)–(7), added pars. (10) 
 
 Subsec. (c). Pub. L. 104–297, §108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title."
 
-Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck out former subsecs. (d) relating toconfidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
+Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck out former subsecs. (d) relating to confidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
 
 <b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–627, §109(a)(1), inserted before semicolon at end ", to prevent overfishing, and to protect, restore, and promote the long-term health and stability of the fishery".
 
@@ -239,6 +239,8 @@ Subsec. (e). Pub. L. 97–453, §6(3), added subsec. (e).
 <b>1978</b>—Subsec. (a)(4)(C). Pub. L. 95–354, §5(2), added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 95–354, §5(3), inserted provisions relating to estimated processing capacity of, and the actual processing utilized by, United States fish processors.
+
+
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

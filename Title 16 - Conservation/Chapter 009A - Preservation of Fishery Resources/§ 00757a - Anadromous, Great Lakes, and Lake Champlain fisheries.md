@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 91–249, §1(b), added subsec. (c).
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–372, title III, §301, Dec. 19, 2002, 116 Stat. 3094, provided that: "This title \[amending this section,sections 757d, 971h, 4101, 4107, and 5610 of this title, and provisions set out as a note under section 857–19 of Title 33, Navigation and Navigable Waters\] may be cited as the 'Fisheries Conservation Act of 2002'."
+Pub. L. 107–372, title III, §301, Dec. 19, 2002, 116 Stat. 3094, provided that: "This title \[amending this section, sections 757d, 971h, 4101, 4107, and 5610 of this title, and provisions set out as a note under section 857–19 of Title 33, Navigation and Navigable Waters\] may be cited as the 'Fisheries Conservation Act of 2002'."
 
 #### Short Title of 1991 Amendment
 

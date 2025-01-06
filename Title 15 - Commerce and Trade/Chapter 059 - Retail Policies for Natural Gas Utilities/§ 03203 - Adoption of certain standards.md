@@ -52,7 +52,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;&emsp;(ii) providing to utilities incentives for the successful management of energy efficiency programs, such as allowing utilities to retain a portion of the cost-reducing benefits accruing from the programs;
 
-&emsp;&emsp;&emsp;(iii) promoting the impact on adoption of energy efficiency as 1 of the goals of retailrate design, recognizing that energy efficiency must be balanced with other objectives; and
+&emsp;&emsp;&emsp;(iii) promoting the impact on adoption of energy efficiency as 1 of the goals of retail rate design, recognizing that energy efficiency must be balanced with other objectives; and
 
 &emsp;&emsp;&emsp;(iv) adopting rate designs that encourage energy efficiency for each customer class.
 

@@ -126,7 +126,7 @@ Agency Head Determinations.—A Federal agency may participate in a Performance 
 
 "(e)
 
-Transfer Authority.—For the purpose of carrying out the Pilot in accordance with the Performance Partnership Agreement, and subject to the written approval of the Director of the Office of Management and Budget, the head of each participating Federal agencymay transfer Federal discretionary funds that are being used in the Pilot to an account of the lead Federal administering agency that includes Federal discretionary funds that are being used in the Pilot. Subject to the waiver authority under subsection (f), such transferred funds shall remain available for the same purposes for which such funds were originally appropriated: <i>Provided</i>, That such transferred funds shall remain available for obligation by the Federal Government until the expiration of the period of availability for those Federal discretionary funds (which are being used in the Pilot) that have the longest period of availability, except that any such transferred funds shall not remain available beyond September 30, 2018.
+Transfer Authority.—For the purpose of carrying out the Pilot in accordance with the Performance Partnership Agreement, and subject to the written approval of the Director of the Office of Management and Budget, the head of each participating Federal agency may transfer Federal discretionary funds that are being used in the Pilot to an account of the lead Federal administering agency that includes Federal discretionary funds that are being used in the Pilot. Subject to the waiver authority under subsection (f), such transferred funds shall remain available for the same purposes for which such funds were originally appropriated: <i>Provided</i>, That such transferred funds shall remain available for obligation by the Federal Government until the expiration of the period of availability for those Federal discretionary funds (which are being used in the Pilot) that have the longest period of availability, except that any such transferred funds shall not remain available beyond September 30, 2018.
 
 "(f)
 
@@ -200,7 +200,7 @@ Sec. 3. <i>Membership and Operation of the Working Group.</i>
 
 Sec. 4. <i>Functions of the Working Group</i>. Consistent with the policy set forth in section 1 of this order, the Working Group shall:
 
-(a) identify and engage key government and private or nonprofit organizations that can play a role in improving the coordination and effectiveness of programs serving and engaging youth, such as faith-based andother community organizations, businesses, volunteers, and other key constituencies;
+(a) identify and engage key government and private or nonprofit organizations that can play a role in improving the coordination and effectiveness of programs serving and engaging youth, such as faith-based and other community organizations, businesses, volunteers, and other key constituencies;
 
 (b) develop a new Federal website on youth, built upon the <i>Community Guide to Helping America's Youth</i>, with the first phase of this website to be launched within 10 months of the date of this order, by:
 

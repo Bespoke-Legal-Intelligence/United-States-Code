@@ -10,7 +10,7 @@ The chief executive of a jurisdiction desiring a grant under this section shall,
 
 #### (c) Bonus payments for prompt compliance
 
-A jurisdiction that, as determined by the Attorney General, has substantially implemented this subchapter not later than 2 years after July 27, 2006, is eligible for a bonus payment. The Attorney General may make such a payment under the SOMA program for the first fiscal year beginning after that determination. The amount of the payment shall be—
+A jurisdiction that, as determined by the Attorney General, has substantially implementedthis subchapter not later than 2 years after July 27, 2006, is eligible for a bonus payment. The Attorney General may make such a payment under the SOMA program for the first fiscal year beginning after that determination. The amount of the payment shall be—
 
 &emsp;(1) 10 percent of the total received by the jurisdiction under the SOMA program for the preceding fiscal year, if that implementation is not later than 1 year after July 27, 2006; and
 

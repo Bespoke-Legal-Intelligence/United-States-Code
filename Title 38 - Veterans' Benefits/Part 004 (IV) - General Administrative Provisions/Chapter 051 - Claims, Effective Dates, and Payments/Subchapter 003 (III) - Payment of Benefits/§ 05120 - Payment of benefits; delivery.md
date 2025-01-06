@@ -44,7 +44,7 @@ Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "ad
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(65)(A), substituted "the payee's" for "his", and "the payee" for "he" and "him" in third sentence.
 
-Subsec. (b). Pub. L. 99–576, §701(65)(B), substituted "such person" for "he", "surviving spouse" for "widow", "the surviving spouse" for "she" in two places, "to the surviving spouse" for "to her", and "by the" for "by her" in first sentence.
+Subsec. (b). Pub. L. 99–576, §701(65)(B), substituted "such person" for "he", "surviving spouse" for "widow", "the surviving spouse" for "she" in twoplaces, "to the surviving spouse" for "to her", and "by the" for "by her" in first sentence.
 
 Subsec. (f). Pub. L. 99–570 added subsec. (f).
 

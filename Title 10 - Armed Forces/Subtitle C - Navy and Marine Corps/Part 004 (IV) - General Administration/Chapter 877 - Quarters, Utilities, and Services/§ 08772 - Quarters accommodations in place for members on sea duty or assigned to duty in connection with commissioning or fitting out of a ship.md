@@ -142,7 +142,7 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title VI, §607(c), Dec. 5, 1991, 105 Stat. 1375, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to members of the uniformed services who perform sea duty on or after October 1, 1991."
+Pub. L. 102–190, div. A, title VI, §607(c), Dec. 5, 1991, 105 Stat. 1375, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to members of the uniformed services who perform sea duty on or after October 1, 1991."
 
 #### Effective Date of 1986 Amendment
 

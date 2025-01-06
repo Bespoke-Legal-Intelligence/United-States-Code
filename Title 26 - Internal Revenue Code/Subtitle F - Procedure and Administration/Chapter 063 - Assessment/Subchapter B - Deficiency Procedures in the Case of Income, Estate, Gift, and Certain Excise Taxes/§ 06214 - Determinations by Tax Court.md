@@ -92,7 +92,7 @@ Amendment by Pub. L. 98–369 applicable with respect to interest accruing after
 
 #### Effective Date of 1980 Amendments
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 

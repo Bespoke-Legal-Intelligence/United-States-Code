@@ -44,7 +44,7 @@ The Executive Director of Homeland Security shall—
 
 &emsp;To carry out the program established under paragraph (1), the Secretary may—
 
-&emsp;&emsp;(A) enter into 1 or more cooperative agreements or contracts with Federal, State, orlocal authorities that have analysis and intelligence capabilities and expertise relating to the defense of the food and agriculture critical infrastructure sector; and
+&emsp;&emsp;(A) enter into 1 or more cooperative agreements or contracts with Federal, State, or local authorities that have analysis and intelligence capabilities and expertise relating to the defense of the food and agriculture critical infrastructure sector; and
 
 &emsp;&emsp;(B) carry out any other activity under any other authority of the Secretary that is appropriate to engage the authorities described in subparagraph (A) for the defense of the food and agriculture critical infrastructure sector, as determined by the Secretary.
 

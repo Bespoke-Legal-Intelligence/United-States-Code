@@ -2,7 +2,7 @@
 
 Cargo ships of three hundred gross tons and upward but less than one thousand six hundred gross tons may, in lieu of the radiotelegraph station prescribed by section 354 of this title, be equipped with a radiotelephone station complying with the following requirements:
 
-(a) The radiotelephone station shall be in the upper part of the ship, so located that it is sheltered to the greatest possible extent from noise which might impair the correct reception of messages and signals, and, unless such station is situated on the bridge, there shall be efficient communication with the bridge.
+(a) The radiotelephone station shall be in the upper part of the ship, so located that it is sheltered to the greatest possible extent from noise which might impair the correct reception of messages and signals, and, unless such station issituated on the bridge, there shall be efficient communication with the bridge.
 
 (b) The radiotelephone installation shall be capable of transmitting and receiving on the frequencies, and using the classes of emission, designated by the Commission pursuant to law for the purposes of distress and safety of navigation.
 
@@ -24,5 +24,5 @@ Subsec. (b). Pub. L. 89–121 substituted "on the frequencies, and using the cla
 
 Subsec. (c). Pub. L. 89–121 substituted "radiotelephone installation" for "transmitter" and inserted provisions requiring the installation to be capable of receiving clearly perceptible signals over the minimum normal range.
 
-Subsec. (d). Pub. L. 89–121 substituted "a main source of electrical energy" for "a source of energy", "at least six continuous hours" for "at least six hours continuously", and "installations made on or after November19, 1952, a reserve source of electrical energy" for "in installations an emergency source of energy".
+Subsec. (d). Pub. L. 89–121 substituted "a main source of electrical energy" for "a source of energy", "at least six continuous hours" for "at least six hours continuously", and "installations made on or after November 19, 1952, a reserve source of electrical energy" for "in installations an emergency source of energy".
 

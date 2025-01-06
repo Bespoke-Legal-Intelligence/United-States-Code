@@ -24,7 +24,7 @@ Backup Preservation.—(1) A governmental entity acting under section 2703(b)(2)
 
 Customer Challenges.—(1) Within fourteen days after notice by the governmental entity to the subscriber or customer under subsection (a)(2) of this section, such subscriber or customer may file a motion to quash such subpoena or vacate such court order, with copies served upon the governmental entity and with written notice of such challenge to the service provider. A motion to vacate a court order shall be filed in the court which issued such order. A motion to quash a subpoena shall be filed in the appropriate United States district court or State court. Such motion or application shall contain an affidavit or sworn statement—
 
-&emsp;(A) stating that the applicant is a customer or subscriber to the service from which thecontents of electronic communications maintained for him have been sought; and
+&emsp;(A) stating that the applicant is a customer or subscriber to the service from which the contents of electronic communications maintained for him have been sought; and
 
 &emsp;(B) stating the applicant's reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiry or that there has not been substantial compliance with the provisions of this chapter in some other respect.
 

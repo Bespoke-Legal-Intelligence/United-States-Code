@@ -76,7 +76,7 @@ Any contracts entered into between the United States and a foreign country under
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
-The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
+The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countrieswhich are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
 
 #### (h) Reciprocal quality assurance, inspection, contract administrative services, and contract audit defense services; catalog data and services
 
@@ -186,7 +186,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961,75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 
@@ -296,7 +296,7 @@ Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO stand
 
 Subsec. (e)(2). Pub. L. 97–113, §104, authorized reduction or waiver of charges for use and nonrecurring research, development, and production costs respecting sales significantly advancing United States interests in standardization with Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries.
 
-<b>1980</b>—Subsec. (a)(3). Pub. L. 96–533, §115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education andtraining assistance, of additional costs incurred by the United States Government in furnishing the training.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–533, §115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
 
 Subsec. (c). Pub. L. 96–533, §102, designated existing provision as par. (1), substituted "training and advising that may engage United States personnel in combat activities" for "training, advising, or otherwise providing assistance regarding combat activities", and added par. (2).
 
@@ -361,6 +361,50 @@ Pub. L. 104–164, title I, §152(c), July 21, 1996, 110 Stat. 1439, provided th
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Improvements to Defense Acquisition Workforce for Foreign Military Sales
+
+Pub. L. 118–159, div. A, title XII, §1210(b), (c), Dec. 23, 2024, 138 Stat. 2098, provided that:
+
+"(b)
+
+Foreign Military Sales Continuous Process Improvement Board.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary of Defense shall establish a Foreign Military Sales Continuous Process Improvement Board (in this section referred to as the 'Board') to serve as an enduring governance structure within the Department of Defense that reports to the Secretary on matters relating to the foreign military sales process so as to enhance accountability and continuous improvement within the Department, including the objectives of—
+
+&emsp;&emsp;"(A) improving the understanding, among officials of the Department, of ally and partner requirements;
+
+&emsp;&emsp;"(B) enabling efficient reviews for release of technology;
+
+&emsp;&emsp;"(C) providing ally and partner countries with relevant priority equipment;
+
+&emsp;&emsp;"(D) accelerating acquisition and contracting support;
+
+&emsp;&emsp;"(E) expanding the capacity of the defense industrial base;
+
+&emsp;&emsp;"(F) working with other departments and agencies to promote broad United States Government support; and
+
+&emsp;&emsp;"(G) any other matters determined by the Secretary to be relevant to the Board.
+
+&emsp;"(2)
+
+Membership.—The Board shall be composed of not fewer than seven members, each of whom shall have expertise in security cooperation, security assistance, defense acquisition, business process reform, or any disciplines the Secretary determines to be important to the functioning of the Board.
+
+&emsp;"(3)
+
+Sunset.—This subsection shall terminate on December 31, 2030.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'defense acquisition workforce' means the Department of Defense acquisition workforce described in chapter 87 of title 10, United States Code.
+
+&emsp;"(2) The term 'nonprofit organization' means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from tax under section 501(a) of such Code\[.\]
+
+&emsp;"(3) The term 'security cooperation workforce' has the meaning given the term in section 384 of title 10, United States Code."
 
 #### Notional Milestones and Standard Timelines for Contracts for Foreign Military Sales
 
@@ -438,7 +482,7 @@ Process for Gathering Input.—The Secretary of Defense shall establish a proces
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set outas a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

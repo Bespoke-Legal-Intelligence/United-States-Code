@@ -1,6 +1,6 @@
 ### §8712. Annual accounting; special contingency reserve
 
-A policy purchased under this chapter shall provide for an accounting to the Office of Personnel Management not later than 90 days after the end of each policy year. The accountingshall set forth, in a form approved by the Office—
+A policy purchased under this chapter shall provide for an accounting to the Office of Personnel Management not later than 90 days after the end of each policy year. The accounting shall set forth, in a form approved by the Office—
 
 &emsp;(1) the amounts of premiums actually accrued under the policy from its date of issue to the end of the policy year;
 

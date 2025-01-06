@@ -4,7 +4,7 @@
 
 The corporation shall be under the direction of a board of directors made up of the following members:
 
-&emsp;(1) the Chairman of the Federal Home Loan Bank Board or a member of the Federal Home Loan Bank Board to be designated by the Chairman;
+&emsp;(1) the Chairman of the Federal Home Loan Bank Board or a member of the Federal HomeLoan Bank Board to be designated by the Chairman;
 
 &emsp;(2) the Secretary of Housing and Urban Development;
 

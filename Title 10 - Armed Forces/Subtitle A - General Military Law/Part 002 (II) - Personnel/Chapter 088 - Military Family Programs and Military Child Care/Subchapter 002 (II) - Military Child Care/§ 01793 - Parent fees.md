@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in thecase of children who attend the centers on a regular basis, the fees shall be based on family income.
+In General.—The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in the case of children who attend the centers on a regular basis, the fees shall be based on family income.
 
 (b)
 
@@ -14,13 +14,23 @@ Family Discount.—In the case of a family with two or more children attending a
 
 (d)
 
-Child Care Employee Discount.—The Secretary of Defense may, to support recruitment and retention initiatives, charge a child care employee, whose child attends a military child development center, a reduced fee for such attendance.
+Child Care Employee Discount.—In order to support recruitment and retention initiatives, the Secretary of Defense shall charge reduced fees for the attendance, at a military child development center, of the children of a child care employee as follows:
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 116–283, div. A, title V, §585(a), Jan. 1, 2021, 134 Stat. 3654; Pub. L. 117–263, div. A, title VI, §642, Dec. 23, 2022, 136 Stat. 2634.)
+&emsp;(1) For the first child, no fee.
+
+&emsp;(2) For each other child, a fee equal to or less than a fee discounted under subsection (c).
+
+(e)
+
+Prohibition of Concurrent Discounts.—A family may not receive discounts under subsections (c) and (d) concurrently.
+
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 116–283, div. A, title V, §585(a), Jan. 1, 2021, 134 Stat. 3654; Pub. L. 117–263, div. A, title VI, §642, Dec. 23, 2022, 136 Stat. 2634; Pub. L. 118–159, div. A, title VI, §633, Dec. 23, 2024, 138 Stat. 1937.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (d), (e). Pub. L. 118–159 added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "The Secretary of Defense may, to support recruitment and retention initiatives, charge a child care employee, whose child attends a military child development center, a reduced fee for such attendance."
 
 <b>2022</b>—Subsec. (d). Pub. L. 117–263 added subsec. (d).
 

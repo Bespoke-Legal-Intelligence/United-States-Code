@@ -2,7 +2,7 @@
 
 #### (a) Federal Trade Commission
 
-The Federal Trade Commission shall be authorized to enforce compliance with this subchapter, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another Government agency under any of paragraphs (1) through (5) of subsection (b), subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\]. For purpose of theexercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter, in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
+The Federal Trade Commission shall be authorized to enforce compliance with this subchapter, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another Government agency under any of paragraphs (1) through (5) of subsection (b), subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\]. For purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter, in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
 #### (b) Applicable provisions of law
 
@@ -26,7 +26,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 &emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act\(12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (c) Agency powers
 
@@ -78,7 +78,7 @@ Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6
 
 Subsec. (d). Pub. L. 111–203, §1089(4), substituted "Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter" for "Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter". See Codification note above.
 
-<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted "Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board" for "Interstate Commerce Commission with respect to any common carrier subject to those Acts".
+<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted "Secretary of Transportation, with respect to all carrierssubject to the jurisdiction of the Surface Transportation Board" for "Interstate Commerce Commission with respect to any common carrier subject to those Acts".
 
 <b>1992</b>—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 

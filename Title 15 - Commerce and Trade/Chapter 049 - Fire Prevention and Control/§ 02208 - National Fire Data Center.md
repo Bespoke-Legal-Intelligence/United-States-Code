@@ -6,7 +6,7 @@ The Administrator shall operate, directly or through contracts or grants, an int
 
 &emsp;(1) information on the frequency, causes, spread, and extinguishment of fires;
 
-&emsp;(2) information on the number of injuries and deaths resulting from fires, including themaximum available information on the specific causes and nature of such injuries and deaths, categorized by the type of fire, and information on property losses;
+&emsp;(2) information on the number of injuries and deaths resulting from fires, including the maximum available information on the specific causes and nature of such injuries and deaths, categorized by the type of fire, and information on property losses;
 
 &emsp;(3) information on the occupational hazards faced by firefighters, including the causes of deaths and injuries arising, directly and indirectly, from firefighting activities, including—
 
@@ -44,7 +44,7 @@ The Administrator shall insure dissemination to the maximum extent possible of f
 
 #### (d) National Fire Incident Reporting System update
 
-The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
+The Administrator shall update the National Fire Incident Reporting System to ensure thatthe information in the system is available, and can be updated, through the Internet and in real time.
 
 #### (e) Medical privacy of firefighters
 

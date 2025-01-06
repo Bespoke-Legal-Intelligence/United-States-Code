@@ -36,7 +36,33 @@ Standard and Scope of Review.—In a case reviewed by the Court under this secti
 
 Rehearings.—If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, §1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, §1082, Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, §541(a), Aug. 13, 2018, 132 Stat. 1761.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, §1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, §1082, Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, §541(a), Aug. 13, 2018, 132 Stat. 1761; Pub. L. 118–159, div. A, title V, §567(a), Dec. 23, 2024, 138 Stat. 1905.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 118–159, div. A, title V, §567, Dec. 23, 2024, 138 Stat. 1905, provided that, effective 180 days after Dec. 23, 2024, and applicable with respect to any civilian judge of the United States Court of Military Commission Review who will have served as such a judge for a period of 10 or more years as of 180 days after Dec. 23, 2024, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (6)—</i>
+
+<i>(A) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately;</i>
+
+<i>(B) by striking "The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)" and inserting the following: "(A) The term of an appellate military judge assigned or appointed to the Court under this subsection"; and</i>
+
+<i>(C) by adding at the end the following new subparagraph:</i>
+
+<i>"(B) The term of a civilian judge of the Court appointed under paragraph (3) shall expire on the date that is 10 years after the date on which the judge was appointed."; and</i>
+
+<i>(2) by adding at the end the following new paragraph:</i>
+
+<i>"(7) Judges of the Court may be removed from office by the President (in the case of a judge appointed under paragraph (3)) or the Secretary of Defense (in the case of an appellate military judge assigned under paragraph (2)) upon notice and hearing, for—</i>
+
+&emsp;<i>"(A) neglect of duty;</i>
+
+&emsp;<i>"(B) misconduct; or</i>
+
+&emsp;<i>"(C) mental or physical disability."</i>
+
+<i>See 2024 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -46,6 +72,10 @@ A prior section 950f, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments
 
+<b>2024</b>—Subsec. (b)(6). Pub. L. 118–159, §567(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and realigned margins; substituted "The term of an appellate military judge assigned or appointed to the Court under this subsection" for "The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)"; and added subpar. (B).
+
+Subsec. (b)(7). Pub. L. 118–159, §567(a)(2), added par. (7).
+
 <b>2018</b>—Subsec. (b)(6). Pub. L. 115–232 added par. (6).
 
 <b>2017</b>—Subsec. (b)(5). Pub. L. 115–91 added par. (5).
@@ -54,7 +84,19 @@ A prior section 950f, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. A, title V, §567(b), Dec. 23, 2024, 138 Stat. 1905, provided that:
+
+"(1)
+
+In general.—The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(2)
+
+Applicability to existing civilian judges.—The term of any civilian judge of the United States Court of Military Commission Review who will have served as such a judge for a period of 10 or more years as of the effective date described in paragraph (1) shall expire on such effective date."
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–232, div. A, title V, §541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of theenactment of this Act \[Aug. 13, 2018\] and each judge assigned or appointed to that court on or after such date."
+Pub. L. 115–232, div. A, title V, §541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of the enactment of this Act \[Aug. 13, 2018\] and each judge assigned or appointed to that court on or after such date."
 

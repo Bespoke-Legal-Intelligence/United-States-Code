@@ -14,7 +14,7 @@
 | Commander | Lieutenant colonel | 28 years. |
 | Lieutenant commander | Major | 20 years. |
 
-(2) Notwithstanding the first sentence of paragraph (1), the Secretary may defer the retirement or discharge of such number of officers serving in the grade of lieutenant commander as are necessary to maintain the authorized officerstrength of the Ready Reserve, but the duration of such deferment for any individual officer may not be in excess of five years.
+(2) Notwithstanding the first sentence of paragraph (1), the Secretary may defer the retirement or discharge of such number of officers serving in the grade of lieutenant commander as are necessary to maintain the authorized officer strength of the Ready Reserve, but the duration of such deferment for any individual officer may not be in excess of five years.
 
 (3) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of an officer serving in the permanent grade of lieutenant commander or commander in the Navy Reserve or in the permanent grade of major or lieutenant colonel in the Marine Corps Reserve for a period of time which does not exceed the amount of service in an active status which was credited to the officer at the time of his original appointment or thereafter under any provision of law, if the officer can complete at least 20 years of service as computed under section 12732 of this title during the period of such deferment.
 
@@ -156,5 +156,5 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 

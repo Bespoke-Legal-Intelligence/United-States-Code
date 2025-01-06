@@ -4,7 +4,7 @@
 
 #### (1) United States law to prevail in conflict
 
-&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any such provision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
+&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any such provision to any person or circumstance, thatis inconsistent with any law of the United States shall have effect.
 
 #### (2) Construction
 
@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to anyperson or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (B) Procedures governing action
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(ii) any State law regulating or taxing the business of insurance; and
 
-&emsp;&emsp;(B) the terms "dispute settlement panel" and "Appellate Body" have the meaningsgiven those terms in section 3531 of this title.
+&emsp;&emsp;(B) the terms "dispute settlement panel" and "Appellate Body" have the meanings given those terms in section 3531 of this title.
 
 #### (c) Effect of agreement with respect to private remedies
 

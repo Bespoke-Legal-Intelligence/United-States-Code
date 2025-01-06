@@ -30,7 +30,7 @@
 
 &emsp;(B) personnel of local business concerns and business concerns with establishments located in the community serve as consultants, lecturers, teaching assistants, or teachers of mathematics, science, or computer science in the elementary and secondary schools within the State;
 
-&emsp;(C) training and retraining is furnished to elementary and secondary school teachers of mathematics, science, and computer science under a cooperative arrangement between the State or local educational agency and appropriate business concerns;
+&emsp;(C) training and retraining is furnished to elementary and secondary school teachers of mathematics, science, and computer scienceunder a cooperative arrangement between the State or local educational agency and appropriate business concerns;
 
 &emsp;(D) secondary school students observe, participate, and work in local business concerns and business concerns with establishments located in the community; and
 

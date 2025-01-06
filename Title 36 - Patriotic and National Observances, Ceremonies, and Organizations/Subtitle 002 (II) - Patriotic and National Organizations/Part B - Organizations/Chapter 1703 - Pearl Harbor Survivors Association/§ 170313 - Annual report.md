@@ -24,5 +24,5 @@ Oct. 7, 1985, Pub. L. 99–119, §12, 99 Stat. 500.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 205 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L.104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 205 of House Document No. 103–7.
 

@@ -30,7 +30,7 @@ In this section, the term "project of national significance"—
 
 &emsp;&emsp;(G) increase awareness of and access to the Disability Funds-Financial Assistance funding provided by the Community Development Financial Institutions Fund that supports acquisition of assistive technology; and
 
-&emsp;&emsp;(H) increase awareness of and access to assistive technology, such as through models described in subclauses (I) through (IV) of section 3003(e)(2)(A)(iii) of this title and other Federally funded disability programs.
+&emsp;&emsp;(H) increase awareness of and access to assistive technology, such as through models described in subclauses (I) through (IV) ofsection 3003(e)(2)(A)(iii) of this title and other Federally funded disability programs.
 
 #### (b) Projects authorized
 

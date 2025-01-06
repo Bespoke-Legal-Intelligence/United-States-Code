@@ -6,7 +6,7 @@
 
 &emsp;(A) the wages to be paid the eligible veteran or person (i) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 per centum of the wages paid for the job for which the veteran or person is to be trained, and (ii) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
 
-&emsp;(B) there is reasonable certainty that the job for which the eligible veteran or person is to be trained will be available to the veteran or person at the end of the training period.
+&emsp;(B) there is reasonable certainty that the job for which the eligible veteran or person is tobe trained will be available to the veteran or person at the end of the training period.
 
 (2) The requirement under paragraph (1)(A)(ii) shall not apply with respect to a training establishment operated by the United States or by a State or local government.
 
@@ -32,7 +32,7 @@
 
 &emsp;(9) That the course meets such other criteria as may be established by the State approving agency.
 
-(d)(1) The Secretary may conduct a pilot program under which the Secretary operates a program of training on the job under this section for a period (notwithstanding subsection (c)(2))of up to three years in duration to train employees of the Department to become qualified adjudicators of claims for compensation, dependency and indemnity compensation, and pension.
+(d)(1) The Secretary may conduct a pilot program under which the Secretary operates a program of training on the job under this section for a period (notwithstanding subsection (c)(2)) of up to three years in duration to train employees of the Department to become qualified adjudicators of claims for compensation, dependency and indemnity compensation, and pension.
 
 (2)(A) Not later than three years after the implementation of the pilot project, the Secretary shall submit to Congress an initial report on the pilot project. The report shall include an assessment of the usefulness of the program in recruiting and retaining of personnel of the Department as well as an assessment of the value of the program as a training program.
 

@@ -2,7 +2,7 @@
 
 #### (a) Deputy Administrators
 
-The President may appoint, by and with the advice and consent of the Senate, not more than 4 Deputy Administrators to assist the Administrator in carrying out this subchapter.
+The President may appoint, by and with the advice and consent of the Senate, not more than4 Deputy Administrators to assist the Administrator in carrying out this subchapter.
 
 #### (b) United States Fire Administration
 

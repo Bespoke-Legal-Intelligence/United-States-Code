@@ -22,7 +22,7 @@ In any case in which the Bureau of Justice Assistance (hereinafter in this subch
 
 #### (b) Benefits for permanent and total disability
 
-In accordance with regulations issued pursuant to this subchapter, in any case in which theBureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, a benefit shall be payable to the public safety officer (if living on the date on which the determination is made) in the same amount that would be payable, as of the date such injury was sustained (including as adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a): <i>Provided</i>, That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary.
+In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, a benefit shall be payable to the public safety officer (if living on the date on which the determination is made) in the same amount that would be payable, as of the date such injury was sustained (including as adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a): <i>Provided</i>, That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary.
 
 #### (c) Interim benefit payment
 
@@ -228,7 +228,7 @@ Subsec. (n). Pub. L. 112–239, §1086(b)(1)(B)(v), added subsec. (n).
 
 <b>2006</b>—Subsec. (a)(4). Pub. L. 109–162, §1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer's most recently executed life insurance policy, provided that such individual survived such officer; or".
 
-Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus CrimeControl and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
+Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
 
 Subsec. (m). Pub. L. 109–162, §1164(c), added subsec. (m).
 

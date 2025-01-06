@@ -72,7 +72,7 @@ Subsection (a) shall cease to be effective on the date that is 5 years after Jul
 
 #### (g) Coordination
 
-The Secretary shall ensure timely and effective internal coordination and alignment amongthe field investigators of the Food and Drug Administration and the staff of the Center for Drug Evaluation and Research's Office of Compliance and Drug Shortage Program regarding—
+The Secretary shall ensure timely and effective internal coordination and alignment among the field investigators of the Food and Drug Administration and the staff of the Center for Drug Evaluation and Research's Office of Compliance and Drug Shortage Program regarding—
 
 &emsp;(1) the reviews of reports shared pursuant to section 374(b)(2) of this title; and
 

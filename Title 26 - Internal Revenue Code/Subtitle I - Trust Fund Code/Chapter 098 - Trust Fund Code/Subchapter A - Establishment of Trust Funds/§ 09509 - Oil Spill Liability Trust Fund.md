@@ -80,7 +80,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;&emsp;Interest on advances made pursuant to this subsection shall be—
 
-&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to thecurrent average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
+&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
 
 &emsp;&emsp;&emsp;(ii) compounded annually.
 
@@ -102,7 +102,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
 
-(Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573; Pub. L. 117–263, div. K, title CXIII, §11312, Dec. 23, 2022, 136 Stat. 4086.)
+(Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub.L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573; Pub. L. 117–263, div. K, title CXIII, §11312, Dec. 23, 2022, 136 Stat. 4086.)
 
 #### <b>Editorial Notes</b>
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 99–509, title VIII, §8033(c)(1), Oct. 21, 1986, 100 Stat. 1961, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the commencement date (as defined in section 4611 of the Internal Revenue Code of 1954 \[now 1986\], as amended by this part)."
+Pub. L. 99–509, title VIII, §8033(c)(1), Oct. 21, 1986, 100 Stat. 1961, provided that: "The amendments made bythis section \[enacting this section\] shall take effect on the commencement date (as defined in section 4611 of the Internal Revenue Code of 1954 \[now 1986\], as amended by this part)."
 
 \[For purposes of section 8033(c) of Pub. L. 99–509, set out as notes above and below, the commencement date is Jan. 1, 1990, see section 7505(d)(1) of Pub. L. 101–239, set out as an Effective Date of 1986 Amendment note under section 4611 of this title.\]
 

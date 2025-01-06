@@ -106,7 +106,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### References in Text
 
-The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (g), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§5401 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (g), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (j)(1)(D), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 

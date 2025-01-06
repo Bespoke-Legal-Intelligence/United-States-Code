@@ -258,7 +258,7 @@ Project.—The term "project" means—
 
 &emsp;&emsp;(B) a multimodal project.
 
-(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L. 115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
+(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L.115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
 
 #### <b>Editorial Notes</b>
 

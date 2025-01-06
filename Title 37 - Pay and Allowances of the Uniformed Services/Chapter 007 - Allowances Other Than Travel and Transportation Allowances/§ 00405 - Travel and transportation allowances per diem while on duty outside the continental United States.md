@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 108–375, §605(b)(1), substituted "outside of the contine
 
 Subsec. (d). Pub. L. 108–375, §605(a), added subsec. (d).
 
-<b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a perdiem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
+<b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a per diem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–261 struck out subsec. (c) which authorized the Secretary concerned to make a lump-sum payment for nonrecurring expenses to certain members of the uniformed services authorized to receive per diem allowances under subsec. (a).
 

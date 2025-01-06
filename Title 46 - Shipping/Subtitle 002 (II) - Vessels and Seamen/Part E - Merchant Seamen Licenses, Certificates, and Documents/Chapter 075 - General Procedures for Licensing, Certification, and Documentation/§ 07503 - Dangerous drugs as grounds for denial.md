@@ -1,6 +1,6 @@
 ### §7503. Dangerous drugs as grounds for denial
 
-A license, certificate of registry, or merchant mariner's document authorized to be issuedunder this part may be denied to an individual who—
+A license, certificate of registry, or merchant mariner's document authorized to be issued under this part may be denied to an individual who—
 
 &emsp;(1) within 10 years before applying for the license, certificate, or document, has been convicted of violating a dangerous drug law of the United States or of a State; or
 

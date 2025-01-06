@@ -26,17 +26,17 @@ A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to com
 
 #### Use of Middle Tier Acquisition Program for Proliferated Warfighter Space Architecture of the Space Development Agency
 
-Pub. L. 118–31, div. A, title XVI, §1608, Dec. 22, 2023, 137 Stat. 587, provided that:
+Pub. L. 118–31, div. A, title XVI, §1608, Dec. 22, 2023, 137 Stat. 587, as amended by Pub. L. 118–159, div. A, title VIII, §804(c)(6), title XVII, §1701(b), Dec. 23, 2024, 138 Stat. 1969, 2206, provided that:
 
 "(a)
 
-In General.—The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following tranches of the of the \[sic\] proliferated warfighter space architecture of the Agency:
+In General.—The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following tranches of the proliferated warfighter space architecture of the Agency:
 
-&emsp;"(1) Tranch \[sic\] 1.
+&emsp;"(1) Tranche 1.
 
-&emsp;"(2) Tranch \[sic\] 2.
+&emsp;"(2) Tranche 2.
 
-&emsp;"(3) Tranch \[sic\] 3.
+&emsp;"(3) Tranche 3.
 
 "(b)
 
@@ -72,11 +72,11 @@ Waiver.—The Space Acquisition Council may waive the requirements of subsection
 
 "(e)
 
-Middle Tier Acquisition Program Defined.—In this section, the term 'middle tier acquisition program' means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.) in a manner consistent with Department of Defense Instruction 5000.80, titled 'Operation of the Middle Tier of Acquisition (MTA)' and issued on December 30, 2019 (or a successor instruction)."
+Middle Tier Acquisition Program Defined.—In this section, the term 'middle tier acquisition program' means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 3602 of title 10, United States Code\[,\] in a manner consistent with Department of Defense Instruction 5000.80, titled 'Operation of the Middle Tier of Acquisition (MTA)' and issued on December 30, 2019 (or a successor instruction)."
 
 #### Matters Relating to Space-Based Ground and Airborne Moving Target Indication Systems
 
-Pub. L. 118–31, div. A, title XVI, §1684, Dec. 22, 2023, 137 Stat. 618, provided that:
+Pub. L. 118–31, div. A, title XVI, §1684, Dec. 22, 2023, 137 Stat. 618, as amended by Pub. L. 118–159, div. A, title XVI, §1654, Dec. 23, 2024, 138 Stat. 2201, provided that:
 
 "(a)
 
@@ -88,9 +88,25 @@ In General.—The Secretary of the Air Force shall be responsible for presenting
 
 "(b)
 
-Milestone Decision Authority.—The Secretary of the Air Force, in consultation with the Director of National Intelligence, shall be milestone decision authority (as defined in section 4204 of title 10, United States Code) for Milestone A approval (as defined in section 4211 of such title) for space-related acquisition programs for ground and airborne moving target indication systems described in subsection (a) that are primarily or fully funded within the military intelligence program.
+Milestone Decision Authority.—
+
+&emsp;"(1)
+
+In general.—The Secretary of the Air Force, in consultation with the Director of National Intelligence, shall be the milestone decision authority (as defined in section 4204 of title 10, United States Code) for space-related acquisition programs for ground and airborne moving target indication systems described in subsection (a) that are primarily or fully funded within the military intelligence program.
+
+&emsp;"(2)
+
+Appointment of program executive officer.—The service acquisition executive for the Air Force for space systems and programs shall appoint a program executive officer, and designate an office, for the acquisition of space-based air and moving target indication systems.
 
 "(c)
+
+Initial Operational Capability.—Not later than May 31, 2025, the Chairman of the Joint Chiefs of Staff shall—
+
+&emsp;"(1) designate a date by which the space-based ground moving target indication system will achieve initial operational capability; and
+
+&emsp;"(2) notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of such date.
+
+"(d)
 
 Working Group.—
 
@@ -298,7 +314,7 @@ Report.—Not later than January 31, 2021, the Chief of Space Operations, in coo
 
 "(d)
 
-Commercial Space Domain Awareness Services Defined.—In this section, the term 'commercial space domain awareness services' means space domain awareness data, processing software, and analytics derived from best-in-breed commercial capabilities to address warfighter requirements in low-Earth orbit and fill gaps in current space domain capabilities of the Space Force, including commercial capabilities to—
+Commercial Space Domain Awareness Services Defined.—In this section, the term 'commercial space domain awareness services' means space domain awareness data, processing software, and analytics derived from best-in-breed commercial capabilities to address warfighter requirements in low-Earth orbit and fillgaps in current space domain capabilities of the Space Force, including commercial capabilities to—
 
 &emsp;"(1) provide conjunction and maneuver alerts;
 
@@ -396,7 +412,7 @@ Procedures.—The Secretary of the Air Force shall ensure that the satellite des
 
 &emsp;"(5)
 
-Withholding of funds.—The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Forcefor the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1).
+Withholding of funds.—The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Force for the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1).
 
 "(b)
 
@@ -430,7 +446,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of the Air F
 
 &emsp;"(1) expand on complementary efforts within the Air Force that promote the adoption of a resilient enterprise ground architecture that is responsive to new and changing threats and can rapidly integrate new capabilities to make the warfighting force of the United States more resilient in a contested battlespace; and
 
-&emsp;"(2) prioritize the swift transition of space ground architecture to a common platform and leverage commercial capabilities in concurrence with the 2015 intent memorandum of the Commander of the Air Force Space Command.
+&emsp;"(2) prioritize the swift transition of space ground architecture to a common platform and leveragecommercial capabilities in concurrence with the 2015 intent memorandum of the Commander of the Air Force Space Command.
 
 "(b)
 
@@ -540,55 +556,11 @@ Pub. L. 115–232, div. A, title XVI, §1611, Aug. 13, 2018, 132 Stat. 2112, pro
 
 #### Air Force Space Contractor Responsibility Watch List
 
-Pub. L. 115–91, div. A, title XVI, §1612, Dec. 12, 2017, 131 Stat. 1729, provided that:
-
-"(a)
-
-In General.—The Commander of the Air Force Space and Missile Systems Center shall establish and maintain a watch list of contractors with a history of poor performance on space procurement contracts or research, development, test, and evaluation space program contracts.
-
-"(b)
-
-Basis for Inclusion on List.—
-
-&emsp;"(1)
-
-Determination.—The Commander may place a contractor on the watch list established under subsection (a) upon determining that the ability of the contractor to perform a contract specified in such subsection is uncertain because of any of the following issues:
-
-&emsp;&emsp;"(A) Poor performance or award fee scores below 50 percent.
-
-&emsp;&emsp;"(B) Financial concerns.
-
-&emsp;&emsp;"(C) Felony convictions or civil judgements.
-
-&emsp;&emsp;"(D) Security or foreign ownership and control issues.
-
-&emsp;"(2)
-
-Discretion of the commander.—The Commander shall be responsible for determining which contractors to place on the watch list, whether an entire company or a specific division should be included, and when to remove a contractor from the list.
-
-"(c)
-
-Effect of Listing.—
-
-&emsp;"(1)
-
-Prime contracts.—The Commander may not solicit an offer from, award a contract to, execute an engineering change proposal with, or exercise an option on any space program of the Air Force with a contractor included on the list established under subsection (a) without the prior approval of the Commander.
-
-&emsp;"(2)
-
-Subcontracts.—A prime contractor on a contract entered into with the Air Force Space and Missile Systems Center may not enter into a subcontract valued in excess of $3,000,000 or five percent of the prime contract value, whichever is lesser, with a contractor included on the watch list established under subsection (a) without the prior approval of the Commander.
-
-"(d)
-
-Request for Removal From List.—A contractor may submit to the Commander a written request for removal from the watch list, including evidence that the contractor has resolved the issue that was the basis for inclusion on the list.
-
-"(e)
-
-Rule of Construction.—Nothing in this section shall be construed as preventing the suspension or debarment of a contractor, but inclusion on the watch list shall not be construed as a punitive measure or de facto suspension or debarment of a contractor."
+Pub. L. 115–91, div. A, title XVI, §1612, Dec. 12, 2017, 131 Stat. 1729, which required the Commander of the Air Force Space and Missile Systems Center to establish and maintain a space contractor responsibility watch list, was repealed by Pub. L. 118–159, div. A, title XVI, §1601(b), Dec. 23, 2024, 138 Stat. 2158. See section 2271a of this title.
 
 #### Briefings on the National Space Defense Center
 
-Pub. L. 115–31, div. N, title VI, §605(e)(2), May 5, 2017, 131 Stat. 832, as amended by Pub. L. 116–283, div. A, title XVI, §1604(c)(2), (3), Jan. 1, 2021, 134 Stat. 4043, 4044, provided that: "The Director of the National Reconnaissance Office and the Commander of the United States Space Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\], shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the National Space Defense Center to begin 30 days after the date of the enactment of this Act \[May 5, 2017\]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter."
+Pub. L. 115–31, div. N, title VI, §605(e)(2), May 5, 2017, 131 Stat. 832, as amended by Pub. L. 116–283, div. A, title XVI, §1604(c)(2), (3), Jan. 1, 2021, 134 Stat. 4043, 4044, provided that: "The Director of the National Reconnaissance Office and the Commander of the United States Space Command, in coordination with the Director ofNational Intelligence and Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\], shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the National Space Defense Center to begin 30 days after the date of the enactment of this Act \[May 5, 2017\]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter."
 
 \[Pub. L. 115–31, div. N, title VI, §605(a), May 5, 2017, 131 Stat. 830, provided that: "In this section \[enacting provisions set out as a note above\], the term 'appropriate committees of Congress' means the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\], the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives."\]
 
@@ -706,7 +678,7 @@ Pub. L. 113–291, div. A, title XVI, §1608, Dec. 19, 2014, 128 Stat. 3626, as 
 
 "(a)
 
-In General.—Except as provided by subsections (b) and (c), beginning on the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense may not award or renew a contract for the procurement of property or services for space launch activities under the evolved expendable launch vehicle program \[now the National Security Space Launch program\] if such contract carries out such space launch activities using rocket engines designed or manufactured in the Russian Federation.
+In General.—Except as provided by subsections (b) and (c), beginning on the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense may not award or renew a contract for the procurement of property or services for space launch activities under the evolved expendable launch vehicle program \[nowthe National Security Space Launch program\] if such contract carries out such space launch activities using rocket engines designed or manufactured in the Russian Federation.
 
 "(b)
 
@@ -746,7 +718,7 @@ Sense of Congress.—It is the Sense of Congress that the United States should p
 
 "(b)
 
-Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence,shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
+Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
 
 "(c)
 
@@ -820,39 +792,7 @@ Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, requir
 
 #### Space Personnel Career Fields
 
-Pub. L. 108–136, div. A, title V, §547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
-
-"(a)
-
-Strategy Required.—The Secretary of Defense shall develop a strategy for the Department of Defense that will—
-
-&emsp;"(1) promote the development of space personnel career fields within each of the military departments; and
-
-&emsp;"(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable.
-
-"(b)
-
-Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:
-
-&emsp;"(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy.
-
-&emsp;"(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments.
-
-&emsp;"(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to section 8084 \[now 9084\] of title 10, United States Code, to establish for Air Force officers a career field for space.
-
-"(c)
-
-Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
-
-"(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
-
-&emsp;"(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems.
-
-&emsp;"(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—
-
-&emsp;&emsp;"(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and
-
-&emsp;&emsp;"(ii) progress made in integrating the space career fields of the military departments."
+Pub. L. 108–136, div. A, title V, §547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, required the Secretary of Defense to develop a strategy to promote the development of space personnel career fields and required reports regarding the strategy to be submitted by the Secretary of Defense and the Comptroller General to Congress in 2004 and 2005.
 
 #### Comptroller General Assessment of Implementation of Recommendations of Space Commission
 

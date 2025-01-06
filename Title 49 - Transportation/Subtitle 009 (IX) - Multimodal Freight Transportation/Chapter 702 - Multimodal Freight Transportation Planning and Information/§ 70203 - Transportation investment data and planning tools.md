@@ -16,7 +16,7 @@ In General.—Not later than 1 year after the date of enactment of this section,
 
 &emsp;&emsp;(E) other tools to assist in effective transportation planning;
 
-&emsp;(2) identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assist in making transportation investment decisions; and
+&emsp;(2) identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assistin making transportation investment decisions; and
 
 &emsp;(3) at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
 

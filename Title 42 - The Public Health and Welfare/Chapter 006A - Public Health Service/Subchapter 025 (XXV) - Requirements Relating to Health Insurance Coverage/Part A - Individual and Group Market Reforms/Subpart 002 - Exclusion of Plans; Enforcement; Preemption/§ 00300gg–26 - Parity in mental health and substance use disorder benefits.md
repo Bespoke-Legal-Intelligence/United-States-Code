@@ -40,7 +40,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health and substance use disorder benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respectto mental health and substance use disorder benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
 
 #### (3) Financial requirements and treatment limitations
 
@@ -94,7 +94,7 @@
 
 #### (ii) Nonquantitative treatment limitations
 
-&emsp;&emsp;&emsp;To the extent that any example described in clause (i) involves a finding of compliance or noncompliance with regard to any requirement for nonquantitative treatment limitations, the example shall provide sufficient detail to fully explain such finding, including a full description of the criteria involved for approving medical and surgical benefits and the criteria involved for approving mental health and substance use disorder benefits.
+&emsp;&emsp;&emsp;To the extent that any example described in clause (i) involves a finding of compliance or noncompliance with regardto any requirement for nonquantitative treatment limitations, the example shall provide sufficient detail to fully explain such finding, including a full description of the criteria involved for approving medical and surgical benefits and the criteria involved for approving mental health and substance use disorder benefits.
 
 #### (iii) Access to additional information regarding compliance
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 12 months after December 13, 2016, the Secretary, the Secretary ofLabor, and the Secretary of the Treasury shall issue guidance to group health plans and health insurance issuers offering group or individual health insurance coverage to assist such plans and issuers in satisfying the requirements of this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
+&emsp;&emsp;Not later than 12 months after December 13, 2016, the Secretary, the Secretary of Labor, and the Secretary of the Treasury shall issue guidance to group health plans and health insurance issuers offering group or individual health insurance coverage to assist such plans and issuers in satisfying the requirements of this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
 
 #### (B) Disclosure
 
@@ -136,7 +136,7 @@
 
 #### (C) Nonquantitative treatment limitations
 
-&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods, processes, strategies, evidentiary standards, and other factors that group health plans and health insurance issuers offering group or individual health insurance coverage may use regarding the development and application of nonquantitative treatment limitations to ensure compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, (and any regulations promulgated pursuant to such respective section), including—
+&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods, processes, strategies, evidentiary standards, and other factors that group health plans and health insurance issuers offering group or individual health insurance coverage may use regarding the development and applicationof nonquantitative treatment limitations to ensure compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, (and any regulations promulgated pursuant to such respective section), including—
 
 &emsp;&emsp;&emsp;(i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to both medical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;(viii) examples of methods of reaching appropriate coverage determinations for which there is an indirect relationship between the covered mental health or substance use disorder benefit and a traditional covered medical and surgical benefit, such as residential treatment or hospitalizations involving voluntary or involuntary commitment; and
 
-&emsp;&emsp;&emsp;(ix) additional illustrative examples of methods, processes, strategies, evidentiary standards, and other factors for which the Secretary determines that additional guidance is necessary to improve compliancewith this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
+&emsp;&emsp;&emsp;(ix) additional illustrative examples of methods, processes, strategies, evidentiary standards, and other factors for which the Secretary determines that additional guidance is necessary to improve compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
 
 #### (D) Public comment
 
@@ -232,7 +232,7 @@
 
 #### (ii) Guidance and regulations
 
-&emsp;&emsp;&emsp;Not later than 18 months after December 27, 2020, the Secretary shall finalize any draft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
+&emsp;&emsp;&emsp;Not later than 18 months after December 27, 2020, the Secretary shall finalize anydraft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
 
 #### (iii) State
 
@@ -256,7 +256,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a group health plan or a health insurance issuer offering group or individual health insurance coverage, if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determined and certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, theprovisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
+&emsp;&emsp;With respect to a group health plan or a health insurance issuer offering group or individual health insurance coverage, if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determined and certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
 
 #### (B) Applicable percentage
 
@@ -286,7 +286,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of any prior election of the cost-exemption under this paragraph by such plan (or coverage);
 
-&emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
+&emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medicaland surgical benefits and mental health and substance use disorder benefits under the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
 
@@ -354,7 +354,7 @@ Subsec. (c)(2)(A). Pub. L. 111–148, §1563(c)(4)(C)(ii), formerly §1562(c)(4)
 
 Subsec. (a)(1), (2). Pub. L. 110–343, §512(b)(7), substituted "mental health or substance use disorder benefits" for "mental health benefits" wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
-Pub. L. 110–343, §512(b)(6), substituted "mental health and substance use disorder benefits" for "mental health benefits" wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
+Pub. L. 110–343, §512(b)(6), substituted "mental health and substance use disorder benefits" for "mentalhealth benefits" wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
 
 Subsec. (a)(3) to (5). Pub. L. 110–343, §512(b)(1), added pars. (3) to (5).
 
@@ -436,7 +436,7 @@ Rule of construction.—Nothing in this subsection shall be construed to limit t
 
 #### Clarification of Existing Parity Rules
 
-Pub. L. 114–255, div. B, title XIII, §13007, Dec. 13, 2016, 130 Stat. 1287, provided that: "If a group health plan or a health insurance issuer offering group or individual health insurance coverage provides coverage for eating disorder benefits, including residential treatment, such group health plan or health insurance issuer shall provide such benefits consistent with the requirements of section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), and section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\]."
+Pub. L. 114–255, div. B, title XIII, §13007, Dec. 13, 2016, 130 Stat. 1287, provided that: "If a group health plan ora health insurance issuer offering group or individual health insurance coverage provides coverage for eating disorder benefits, including residential treatment, such group health plan or health insurance issuer shall provide such benefits consistent with the requirements of section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), and section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\]."
 
 #### Assuring Coordination
 

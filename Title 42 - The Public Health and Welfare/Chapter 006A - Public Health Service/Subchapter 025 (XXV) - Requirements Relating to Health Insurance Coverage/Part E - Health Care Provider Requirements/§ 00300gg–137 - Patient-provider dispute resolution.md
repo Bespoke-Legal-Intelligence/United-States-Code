@@ -26,7 +26,7 @@ The Secretary shall establish a fee to participate in the patient-provider dispu
 
 #### (d) Certification
 
-The Secretary shall establish or recognize a process to certify entities under this subparagraph.<sup>1</sup> Such process shall ensure that an entity so certified satisfies at least the criteria specified in section 300gg–111(c) of this title.
+The Secretary shall establish or recognize a process to certify entities under this subparagraph.<sup>1</sup> Such process shall ensure that an entityso certified satisfies at least the criteria specified in section 300gg–111(c) of this title.
 
 (July 1, 1944, ch. 373, title XXVII, §2799B–7, as added Pub. L. 116–260, div. BB, title I, §112, Dec. 27, 2020, 134 Stat. 2867.)
 

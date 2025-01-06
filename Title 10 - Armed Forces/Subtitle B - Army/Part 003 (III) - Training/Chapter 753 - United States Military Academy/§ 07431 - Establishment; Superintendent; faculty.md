@@ -134,7 +134,7 @@ A prior section 7431 was renumbered section 8731 of this title.
 
 <b>1978</b>—Pub. L. 95–551 substituted "Establishment; Superintendent; faculty" for "Superintendent; faculty; adjutant; chaplain" in section catchline.
 
-Subsec. (a). Pub. L. 95–551 substituted provision establishing in the Department of the Army a Military Academy located at West Point, New York, for instruction and preparation of cadets for military service and providing that the organization of the Academy be prescribed by the Secretary of the Army for provision describing the faculty of the Academy as consisting of aSuperintendent, a Dean of the Academic Board, a Commandant of Cadets, two permanent professors in each of nine enumerated academic fields, one permanent professor in each of the fields of Law, Ordnance, and Physical education, a professor of Military Hygiene, an adjutant, a registrar, a chaplain, and a director of music.
+Subsec. (a). Pub. L. 95–551 substituted provision establishing in the Department of the Army a Military Academy located at West Point, New York, for instruction and preparation of cadets for military service and providing that the organization of the Academy be prescribed by the Secretary of the Army for provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, two permanent professors in each of nine enumerated academic fields, one permanent professor in each of the fields of Law, Ordnance, and Physical education, a professor of Military Hygiene, an adjutant, a registrar, a chaplain, and a director of music.
 
 Subsec. (b). Pub. L. 95–551 substituted provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, twenty-two permanent professors, a chaplain, and a director of admissions for provision making an officer, upon becoming the senior commissioned officer of the Medical Corps on active duty at the Academy, the professor of Military Hygiene.
 
@@ -158,7 +158,7 @@ Pub. L. 117–81, div. A, title V, §559A, Dec. 27, 2021, 135 Stat. 1742, provid
 
 "(a)
 
-Regulations Required.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense, after consultation with the Secretaries of the military departments and the Superintendent of each military service academy, shall prescribe regulations that include the option to preserve parental guardianship rights of a cadet or midshipman who becomes pregnant or fathers a child while attending a military service academy, consistent with the individual and academic responsibilities of such cadet or midshipman.
+Regulations Required.—Not later than one year after the date of the enactment of this Act \[Dec. 27,2021\], the Secretary of Defense, after consultation with the Secretaries of the military departments and the Superintendent of each military service academy, shall prescribe regulations that include the option to preserve parental guardianship rights of a cadet or midshipman who becomes pregnant or fathers a child while attending a military service academy, consistent with the individual and academic responsibilities of such cadet or midshipman.
 
 "(b)
 
@@ -189,6 +189,24 @@ Military Service Academy Defined.—In this section, the term 'military service 
 &emsp;"(2) The United States Naval Academy.
 
 &emsp;"(3) The United States Air Force Academy."
+
+#### Service Academies: Referral of Applicants to the Senior Military Colleges and Units of the Senior Reserve Officer Training Corps
+
+Pub. L. 118–159, div. A, title V, §559C, Dec. 23, 2024, 138 Stat. 1900, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish a system whereby a covered individual may elect to have the Secretary share information regarding such covered individual with a senior military college or a unit of the Senior Reserve Officer Training Corps.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered individual' means an individual who applied for an appointment as a cadet or midshipman at a Service Academy.
+
+&emsp;"(2) The term 'senior military college' means a school specified in section 2111a of title 10, United States Code.
+
+&emsp;"(3) The term 'Service Academy' has the meaning given such term in section 347 of title 10, United States Code."
 
 #### Pilot Program on Cardiac Screening at Certain Military Service Academies
 

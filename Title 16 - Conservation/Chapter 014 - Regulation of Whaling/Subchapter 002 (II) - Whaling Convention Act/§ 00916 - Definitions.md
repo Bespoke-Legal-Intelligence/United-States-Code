@@ -60,7 +60,7 @@ Pub. L. 96–60, title IV, §405, Aug. 15, 1979, 93 Stat. 403, provided that:
 
 &emsp;"(6) the United Nations Governing Council for Environment Programs in 1973 and 1974 confirmed such call for a ten-year moratorium, and the Council continues to support ongoing efforts relating to whale conservation;
 
-&emsp;"(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented bythe International Whaling Commission, is not providing adequate protection to whales;
+&emsp;"(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented by the International Whaling Commission, is not providing adequate protection to whales;
 
 &emsp;"(8) the data-gathering structure established under the International Whaling Commission has not provided all the available data necessary for sound whale conservation;
 

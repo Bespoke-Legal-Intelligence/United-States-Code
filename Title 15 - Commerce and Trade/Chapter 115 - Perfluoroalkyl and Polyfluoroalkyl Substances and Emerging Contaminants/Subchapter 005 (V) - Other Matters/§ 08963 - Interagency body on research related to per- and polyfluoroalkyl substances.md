@@ -72,7 +72,7 @@ The interagency working group established under subsection (a) shall—
 
 &emsp;&emsp;&emsp;(iii) methods to safely destroy or degrade PFAS;
 
-&emsp;&emsp;(D) establishes goals, priorities, and metrics for federally funded PFAS researchand development that takes into account the current state of research and development identified in subparagraph (A) and the challenges identified in subparagraph (C); and
+&emsp;&emsp;(D) establishes goals, priorities, and metrics for federally funded PFAS research and development that takes into account the current state of research and development identified in subparagraph (A) and the challenges identified in subparagraph (C); and
 
 &emsp;&emsp;(E) an implementation plan for Federal agencies and, for each update to the strategic plan under this paragraph, a description of how Federal agencies have been following the implementation plan.
 

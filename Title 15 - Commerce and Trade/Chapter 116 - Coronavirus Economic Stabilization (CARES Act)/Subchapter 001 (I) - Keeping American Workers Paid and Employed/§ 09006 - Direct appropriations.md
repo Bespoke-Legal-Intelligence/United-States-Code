@@ -18,7 +18,7 @@ There is appropriated, out of amounts in the Treasury not otherwise appropriated
 
 &emsp;(5) $10,000,000 under the heading "Department of Commerce—Minority Business Development Agency" for minority business centers of the Minority Business Development Agency to provide technical assistance to small business concerns;
 
-&emsp;(6) $10,000,000,000 under the heading "Small Business Administration—Emergency EIDL Grants" shall be for carrying out section 9009 of this title;
+&emsp;(6) $10,000,000,000 under the heading "Small Business Administration—Emergency EIDLGrants" shall be for carrying out section 9009 of this title;
 
 &emsp;(7) $17,000,000,000 under the heading "Small Business Administration—Business Loans Program Account, CARES Act" shall be for carrying out section 9011 of this title; and
 

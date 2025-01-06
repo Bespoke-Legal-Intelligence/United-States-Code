@@ -64,7 +64,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (1) In general
 
-&emsp;In addition to any payments which it is otherwise required to make, the Department of Justice and the Department of Homeland Security shall, for each fiscal year with respect to which it makes any voluntary separation incentive payments under this section, remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund the amount required under paragraph (2).
+&emsp;In addition to any payments which it is otherwise required to make, the Department ofJustice and the Department of Homeland Security shall, for each fiscal year with respect to which it makes any voluntary separation incentive payments under this section, remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund the amount required under paragraph (2).
 
 #### (2) Amount required
 
@@ -72,7 +72,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (A) First method
 
-&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additionalcosts to the retirement systems under title 5 (payable out of the Civil Service Retirement and Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
+&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additional costs to the retirement systems under title 5 (payable out of the Civil Service Retirement and Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
 
 #### (B) Second method
 

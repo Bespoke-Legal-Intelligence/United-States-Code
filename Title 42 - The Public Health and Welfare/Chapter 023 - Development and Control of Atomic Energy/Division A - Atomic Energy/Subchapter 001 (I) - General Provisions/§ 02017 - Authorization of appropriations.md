@@ -28,7 +28,7 @@ Funds authorized to be appropriated for any construction project to be used in c
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724,60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 88–72 struck out "hereafter" after "Funds" and inserted "
 
 <b>1962</b>—Subsecs. (c), (d). Pub. L. 87–615 added subsecs. (c) and (d).
 
-<b>1957</b>—Pub. L. 85–79 designated first sentence as introductory clause of subsec. (a) and as (a)(1), inserted proviso to (a)(1), added (a)(2), by designating second sentence as subsec. (b), and struck out former sentence which provided that "Funds appropriated to the Commission shall, if obligated by contract during the fiscal year for which appropriated, remain available for expenditure for four years following the expiration of the fiscal year for which appropriated.".
+<b>1957</b>—Pub. L. 85–79 designated first sentence as introductory clause of subsec. (a) and as (a)(1), inserted proviso to (a)(1), added (a)(2), by designating second sentence as subsec. (b), and struck out former sentence which provided that "Funds appropriated to the Commission shall, if obligated by contract during the fiscal year for which appropriated, remain available for expenditure for four years following the expiration of the fiscal year for which appropriated."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

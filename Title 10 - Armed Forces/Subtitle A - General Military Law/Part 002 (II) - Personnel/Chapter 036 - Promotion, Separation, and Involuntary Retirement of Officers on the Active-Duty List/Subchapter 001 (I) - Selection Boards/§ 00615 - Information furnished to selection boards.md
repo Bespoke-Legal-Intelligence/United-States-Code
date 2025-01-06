@@ -34,7 +34,7 @@
 
 &emsp;(B) the information is provided to the later selection board in accordance with paragraph (2) or (3), as applicable.
 
-(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
+(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer is furnished to a selection board, the Secretary ofthe military department concerned shall ensure—
 
 &emsp;(i) that such information is made available to such officer; and
 
@@ -149,6 +149,66 @@ Amendment by Pub. L. 99–433 effective with respect to selection boards convene
 #### Effective Date
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+#### Pilot Program on Peer and Subordinate Assessments of Certain Officers
+
+Pub. L. 118–159, div. A, title V, §509F, Dec. 23, 2024, 138 Stat. 1874, provided that:
+
+"(a)
+
+Establishment.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary concerned shall implement, in a covered Armed Force, a five-year pilot program, pursuant to which—
+
+&emsp;"(1) an officer described in subsection (b) shall be assessed by peers and subordinates; and
+
+&emsp;"(2) the results of such assessments may be available to a command selection or command qualification board concerned; and
+
+&emsp;"(3) the command selection or command qualification board may consider such results in determining whether to recommend such officer for such selection or qualification.
+
+"(b)
+
+Covered Officers.—An officer described in this subsection is a regular officer—
+
+&emsp;"(1) eligible for consideration for command;
+
+&emsp;"(2) in grade O-5 or O-6; and
+
+&emsp;"(3) in a career field—
+
+&emsp;&emsp;"(A) specified in subsection (c); or
+
+&emsp;&emsp;"(B) determined by the Secretary concerned.
+
+"(c)
+
+Covered Career Fields.—The career fields specified in this subsection are the following:
+
+&emsp;"(1) In the Navy, surface warfare, submarine warfare, special warfare, or explosive ordnance disposal.
+
+&emsp;"(2) In the Marine Corps, infantry, logistics, or field artillery.
+
+&emsp;"(3) In the Air Force, operations or logistics.
+
+&emsp;"(4) In the Space Force, space operations.
+
+"(d)
+
+Selection of Assessors.—The Secretary concerned may select an individual to assess an officer under the pilot program if the Secretary determines such individual has worked with the officer closely enough to have an informed opinion regarding the officer's leadership abilities. An officer may not have any input regarding the selection of an individual who shall assess such officer.
+
+"(e)
+
+Report.—Not later than three months after the termination of a pilot program, a Secretary concerned shall submit to the Committees on Armed Services of the House of Representatives and Senate a report regarding the pilot program. Elements of each such report shall include the following:
+
+&emsp;"(1) The determination of the Secretary concerned whether the pilot program improved the command selection or command qualification process of the covered Armed Force.
+
+&emsp;"(2) The rationale and findings of the Secretary concerned in determining whether to use such assessments in the command selection or command qualification process of such covered Armed Force.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, or Space Force.
+
+&emsp;"(2) The terms 'regular' and 'Secretary concerned' have the meanings given such term in section 101 of title 10, United States Code."
 
 #### Exclusion of Official Photographs of Members From Records Furnished to Promotion Selection Boards
 

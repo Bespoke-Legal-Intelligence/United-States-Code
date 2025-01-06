@@ -26,7 +26,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (c) Permanent exemption for cogeneration
 
-After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order,grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
 
 &emsp;(1) finds that the petitioner has demonstrated that economic and other benefits of cogeneration are unobtainable unless petroleum or natural gas, or both, are used in such facility, and
 
@@ -84,7 +84,7 @@ Subsec. (g). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (g) which relate
 
 Subsec. (h). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (h) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of petroleum for intermediate load powerplants.
 
-Subsec. (i). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretaryof Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
+Subsec. (i). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
 Subsec. (j). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
 

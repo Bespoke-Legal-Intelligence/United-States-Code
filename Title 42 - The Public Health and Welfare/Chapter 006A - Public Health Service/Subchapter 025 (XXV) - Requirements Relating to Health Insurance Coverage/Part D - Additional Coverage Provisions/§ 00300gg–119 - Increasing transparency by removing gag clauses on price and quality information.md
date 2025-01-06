@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) providing provider-specific price or quality of care information, through a consumer engagement tool or any other means, to referring providers, enrollees, or individuals eligible to become enrollees of the plan or coverage; or
 
-&emsp;&emsp;(B) sharing, for plan design, plan administration, and plan, financial, legal, and quality improvement activities, data described in subparagraph (A) with a business associate as defined in section 160.103 of title 45, Code of Federal Regulations (or successor regulations), consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
+&emsp;&emsp;(B) sharing, for plan design, plan administration, and plan, financial, legal, and quality improvement activities, data described in subparagraph (A) with a business associate as defined in section 160.103 of title 45, Code of Federal Regulations (or successor regulations), consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portabilityand Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
 
 #### (3) Clarification regarding public disclosure of information
 

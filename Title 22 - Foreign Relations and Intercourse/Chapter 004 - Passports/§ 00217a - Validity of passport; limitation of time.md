@@ -8,7 +8,7 @@ A passport shall be valid for a period of ten years from the date of issue, exce
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–241 substituted provision that a passport be valid for a period of ten years from issuance and that the Secretary of State could limit the period to less than ten years in an individual case or on a general basis by regulation for provision that a passport be limited to a period of not more than five years, that the Secretary of State could limit the passport to a shorter period, and that a valid passport outstanding as of the effective date of Pub. L. 90–428 be valid for a period of five years from the date of issue, except where such passport was limited to a shorter period by the Secretary.
+<b>1982</b>—Pub. L. 97–241 substituted provision that a passport be valid for a period of ten years from issuance and that the Secretary of State could limit the period to less than ten years in an individual case or on a generalbasis by regulation for provision that a passport be limited to a period of not more than five years, that the Secretary of State could limit the passport to a shorter period, and that a valid passport outstanding as of the effective date of Pub. L. 90–428 be valid for a period of five years from the date of issue, except where such passport was limited to a shorter period by the Secretary.
 
 <b>1968</b>—Pub. L. 90–428 substituted provisions that passport be limited to a period of not more than five years, though the Secretary of State may limit it to a shorter period and provisions as to the length of validity of passports outstanding as of the effective date of Pub. L. 90–428 for provisions that a passport or passport visa be limited to a period of three years, that a passport be renewed pursuant to regulations of the Secretary for a period not to exceed two years, provided that the final date of expiration not be more than five years from the original date of issue, that the Secretary be authorized to limit the validity of a passport, passport visa, or period of renewal of a passport to less than two years, and that the charge for the issue of an original passport be $9.00 and the charge for the renewal be $5.00.
 
@@ -27,6 +27,10 @@ Pub. L. 97–241, title I, §116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided th
 #### Effective Date of 1968 Amendment
 
 Pub. L. 90–428, §4, July 26, 1968, 82 Stat. 446, provided that: "This Act \[amending this section and sections 213 and 214 of this title\] shall take effect on the thirtieth day following the date of its enactment \[July 26, 1968\]."
+
+#### Revision to Date of Expiration of United States Passports
+
+Pub. L. 118–159, div. G, title LXXV, §7507(c), Dec. 23, 2024, 138 Stat. 2547, provided that: "The Secretary \[of State\] may take such actions as may be necessary to provide for the date of expiration of each United States passport issued or renewed on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 23, 2024\] to be the same date as the date of birth of the applicant or holder of the passport."
 
 #### Notification of Passport Expiration
 

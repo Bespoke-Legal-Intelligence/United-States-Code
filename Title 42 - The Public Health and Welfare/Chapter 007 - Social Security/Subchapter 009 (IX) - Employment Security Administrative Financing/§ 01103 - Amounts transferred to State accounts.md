@@ -46,7 +46,7 @@
 
 &emsp;(C) the money is withdrawn and the expenses are incurred after such date of enactment,
 
-&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under suchappropriation at any time to an amount which does not exceed, at any such time, the amount by which—
+&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
 
 &emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b), exceeds
 
@@ -148,7 +148,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(A) uses a base period that includes the most recently completed calendar quarter before the start of the benefit year for purposes of determining eligibility for unemployment compensation; or
 
-&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefit year, eligibility shall be determined using a base period that includes such calendar quarter.
+&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefityear, eligibility shall be determined using a base period that includes such calendar quarter.
 
 (3) The State law of a State meets the requirements of this paragraph if such State law includes provisions to carry out at least 2 of the following subparagraphs:
 
@@ -170,7 +170,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;&emsp;&emsp;(II) due to a change in location of the spouse's employment.
 
-&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized underthe Workforce Investment Act of 1998,<sup>1</sup> except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998,<sup>1</sup> except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
 
 &emsp;(ii) Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual's place of employment, for entry into a high-demand occupation.
 
@@ -206,7 +206,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 #### (g) Special transfer in fiscal year 2009 for administration
 
-(1) In addition to any other amounts, the Secretary of the Treasury shall transfer from theemployment security administration account to the account of each State in the Unemployment Trust Fund, within 30 days after February 17, 2009, the amount determined with respect to such State under paragraph (2).
+(1) In addition to any other amounts, the Secretary of the Treasury shall transfer from the employment security administration account to the account of each State in the Unemployment Trust Fund, within 30 days after February 17, 2009, the amount determined with respect to such State under paragraph (2).
 
 (2) The amount to be transferred under this subsection to a State account shall (as determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury) be equal to the amount obtained by multiplying $500,000,000 by the same ratio as determined under subsection (f)(1)(B) with respect to such State.
 
@@ -272,7 +272,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (B) There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in subparagraph (A) and such sums shall not be required to be repaid.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093; Pub. L. 111–5, div. B, title II, §2003(a), Feb. 17, 2009, 123 Stat. 439; Pub. L. 111–92, §7(a), Nov. 6, 2009, 123 Stat. 2987; Pub. L. 116–127, div. D, §4102(a), Mar. 18, 2020, 134 Stat. 192; Pub. L. 116–136, div. A, title II, §2103(b), title III, §3603, Mar. 27, 2020, 134 Stat. 317, 410; Pub. L. 116–151, §2(a), Aug. 3, 2020, 134 Stat. 680; Pub. L. 116–260, div. N, title II, §§202, 264(a), Dec. 27, 2020, 134 Stat. 1952, 1964; Pub. L. 117–2, title IX, §9012, Mar. 11, 2021, 135 Stat. 118.)
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987,101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093; Pub. L. 111–5, div. B, title II, §2003(a), Feb. 17, 2009, 123 Stat. 439; Pub. L. 111–92, §7(a), Nov. 6, 2009, 123 Stat. 2987; Pub. L. 116–127, div. D, §4102(a), Mar. 18, 2020, 134 Stat. 192; Pub. L. 116–136, div. A, title II, §2103(b), title III, §3603, Mar. 27, 2020, 134 Stat. 317, 410; Pub. L. 116–151, §2(a), Aug. 3, 2020, 134 Stat. 680; Pub. L. 116–260, div. N, title II, §§202, 264(a), Dec. 27, 2020, 134 Stat. 1952, 1964; Pub. L. 117–2, title IX, §9012, Mar. 11, 2021, 135 Stat. 118.)
 
 #### <b>Editorial Notes</b>
 

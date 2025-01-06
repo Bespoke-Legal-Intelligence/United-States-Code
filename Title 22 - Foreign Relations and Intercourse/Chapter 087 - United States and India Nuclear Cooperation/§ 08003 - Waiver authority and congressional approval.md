@@ -32,7 +32,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;(A) the enactment and effective enforcement of comprehensive export control legislation and regulations;
 
-&emsp;&emsp;(B) harmonization of its export control laws, regulations, policies, and practices with the guidelines and practices of the Missile Technology Control Regime (MTCR) and the NSG; and
+&emsp;&emsp;(B) harmonization of its export control laws, regulations, policies, and practiceswith the guidelines and practices of the Missile Technology Control Regime (MTCR) and the NSG; and
 
 &emsp;&emsp;(C) adherence to the MTCR and the NSG in accordance with the procedures of those regimes for unilateral adherence.
 
@@ -392,7 +392,7 @@ In addition, pursuant to the authority vested in me by the Constitution and the 
 
 5\. India is working with and supporting United States and international efforts to prevent the spread of enrichment and reprocessing technology to any state that does not already possess full-scale, functioning enrichment or reprocessing plants;
 
-6\. India is taking the necessary steps to secure nuclear and other sensitive materials and technology, including through (A) the enactment and effective enforcement of comprehensive export control legislation and regulations; (B) harmonization of its export control laws, regulations, policies, and practices with the guidelines and practices of the Missile Technology Control Regime (MTCR) and the Nuclear Suppliers Group (NSG); and (C) adherence to the MTCR and the NSG inaccordance with the procedures of those regimes for unilateral adherence; and
+6\. India is taking the necessary steps to secure nuclear and other sensitive materials and technology, including through (A) the enactment and effective enforcement of comprehensive export control legislation and regulations; (B) harmonization of its export control laws, regulations, policies, and practices with the guidelines and practices of the Missile Technology Control Regime (MTCR) and the Nuclear Suppliers Group (NSG); and (C) adherence to the MTCR and the NSG in accordance with the procedures of those regimes for unilateral adherence; and
 
 7\. The NSG has decided by consensus to permit supply to India of nuclear items covered by the guidelines of the NSG.
 

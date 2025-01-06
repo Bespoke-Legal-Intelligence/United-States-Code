@@ -1,10 +1,10 @@
 ### §8414. Early retirement
 
-(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
+(a)(1) A member of the Senior Executive Service who is removed from the Senior ExecutiveService for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
-(3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed fromsuch service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+(3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
 (b)(1) Except as provided in paragraphs (2) and (3), an employee who—
 
@@ -76,7 +76,7 @@
 
 &emsp;(A) The employee is separated from the service voluntarily during a period in which the organization within the Department of Defense in which the employee is serving is undergoing a major organizational adjustment.
 
-&emsp;(B) The employee has been employed continuously by the Department of Defense formore than 30 days before the date on which the head of the employee's organization requests the determinations required under subparagraph (A).
+&emsp;(B) The employee has been employed continuously by the Department of Defense for more than 30 days before the date on which the head of the employee's organization requests the determinations required under subparagraph (A).
 
 &emsp;(C) The employee is serving under an appointment that is not limited by time.
 
@@ -120,10 +120,6 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–321; Pub. L. 107–296, title XIII, §§1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, 116 Stat. 2295, 2297; Pub. L. 117–225, §3(b)(2)(A)(i), Dec. 9, 2022, 136 Stat. 2295.)
 
-#### Applicability of Amendment
-
-<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of this title.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Amendments
@@ -162,7 +158,7 @@ Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted "for fa
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of this title.
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or afterthe date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of this title.
 
 #### Effective Date of 2002 Amendment
 

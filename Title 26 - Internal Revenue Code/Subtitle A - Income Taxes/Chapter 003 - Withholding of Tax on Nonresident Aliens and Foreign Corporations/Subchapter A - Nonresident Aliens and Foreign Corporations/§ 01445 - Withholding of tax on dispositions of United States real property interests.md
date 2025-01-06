@@ -62,7 +62,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent, transferee's agent, or qualified substitute that such affidavit or statement is false, or
 
-&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
+&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee orqualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
 
 #### (8) Applicable wash sales transactions
 
@@ -334,7 +334,7 @@ Pub. L. 99–514, §1810(f)(4), amended par. (1) generally. Prior to amendment, 
 
 Subsec. (e)(2). Pub. L. 99–514, §311(b)(4), substituted "34 percent" for "28 percent".
 
-Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted "The preceding sentence shall not apply if, as of the date ofthe distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B)."
+Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted "The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B)."
 
 Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted "section 897" for "section 897(g)".
 

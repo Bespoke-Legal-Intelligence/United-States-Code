@@ -2,13 +2,13 @@
 
 The specific choices on the methods of complying with the requirements of this subchapter shall be left to the discretion of the State.
 
-(Pub. L. 107–252, title III, §305, Oct. 29, 2002, 116 Stat. 1714.)
+(Pub. L. 107–252, title III, §306, formerly §305, Oct. 29, 2002, 116 Stat. 1714; renumbered §306, Pub. L. 118–106, §2(a)(1), Oct. 4, 2024, 138 Stat. 1591.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 107–252,Oct. 29, 2002, 116 Stat. 1704, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
 
 #### Codification
 

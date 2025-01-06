@@ -46,7 +46,7 @@ The Advisory Committee shall—
 
 &emsp;(1) provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under section 293k of this title;
 
-&emsp;(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title;
+&emsp;(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, areport describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title;
 
 &emsp;(3) develop, publish, and implement performance measures for programs under this part;
 

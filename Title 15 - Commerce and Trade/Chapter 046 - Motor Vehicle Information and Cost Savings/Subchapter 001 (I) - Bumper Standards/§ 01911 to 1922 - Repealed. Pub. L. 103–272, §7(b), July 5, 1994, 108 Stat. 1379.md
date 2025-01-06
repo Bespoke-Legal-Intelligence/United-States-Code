@@ -8,7 +8,7 @@ Section 1913, Pub. L. 92–513, title I, §103, Oct. 20, 1972, 86 Stat. 950, rel
 
 Section 1914, Pub. L. 92–513, title I, §104, Oct. 20, 1972, 86 Stat. 950, related to powers of Secretary in carrying out this subchapter. See sections 32502, 32505, and 32509 of Title 49.
 
-Section 1915, Pub. L. 92–513, title I, §105, Oct. 20, 1972, 86 Stat. 952, related to determination of compliance by manufacturer with bumper standards. See sections 32504 and 32505 of Title 49.
+Section 1915, Pub. L. 92–513, title I, §105, Oct. 20, 1972, 86 Stat. 952, related to determination of compliance bymanufacturer with bumper standards. See sections 32504 and 32505 of Title 49.
 
 Section 1916, Pub. L. 92–513, title I, §106, Oct. 20, 1972, 86 Stat. 952, related to prohibited acts with respect to bumper standards and exemptions from compliance with such standards. See section 32506 of Title 49.
 

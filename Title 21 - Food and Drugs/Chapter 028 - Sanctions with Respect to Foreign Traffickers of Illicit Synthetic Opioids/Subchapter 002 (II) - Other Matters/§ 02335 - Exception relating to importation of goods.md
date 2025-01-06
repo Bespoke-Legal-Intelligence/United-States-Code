@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The authorities and requirements to impose sanctions under this chapter shall not include the authority or a requirement to impose sanctions on the importation of goods.
+The authorities and requirements to impose sanctions under this chapter shall not includethe authority or a requirement to impose sanctions on the importation of goods.
 
 #### (b) Good defined
 

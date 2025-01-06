@@ -42,7 +42,7 @@
 
 (g) This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §421\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 113–80, §2, Feb. 12, 2014, 128 Stat. 1006.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II,§203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §421\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 113–80, §2, Feb. 12, 2014, 128 Stat. 1006.)
 
 Historical and Revision Notes
 

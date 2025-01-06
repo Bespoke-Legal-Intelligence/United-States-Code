@@ -14,7 +14,7 @@
 
 &emsp;The Secretary shall keep the appropriate congressional committees fully and currently informed as such strategies are developed.
 
-#### (b) Omitted
+#### (b) to (d) Omitted or repealed
 
 (Pub. L. 110–53, title XXI, §2121, Aug. 3, 2007, 121 Stat. 531; Pub. L. 118–31, div. F, title LXVII, §6707(b)(3), Dec. 22, 2023, 137 Stat. 1018.)
 
@@ -22,7 +22,7 @@
 
 #### Codification
 
-Section is comprised of section 2121 of Pub. L. 110–53. Subsecs. (b) and (d) of section 2121 of Pub. L. 110–53 amended section 665(c) of Pub. L. 107–228, which is set out as a note under section 2151n of this title. Subsec. (c) of section 2121 was repealed by section 6707(b)(3) of Pub. L. 118–31.
+Section is comprised of section 2121 of Pub. L. 110–53. Subsecs. (b) and (d) of section 2121 of Pub. L. 110–53 amended section 665(c) of Pub. L. 107–228, which is set out as a note under section 2151n of this title. Subsec. (c) of section 2121 of Pub. L. 110–53 was repealed by Pub. L. 118–31, see 2023 Amendment note below.
 
 #### Amendments
 

@@ -1,4 +1,4 @@
-### <b>PART IV—PATENT COOPERATION TREATY</b>
+## PART IV—PATENT COOPERATION TREATY
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |

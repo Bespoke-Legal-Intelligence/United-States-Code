@@ -6,7 +6,7 @@ Secretary of Veterans Affairs.—In accordance with the provisions of subchapter
 
 &emsp;(1) Ensuring that the Department adopts a Department-wide information security program and otherwise complies with the provisions of subchapter III of chapter 35 of title 44 and other related information security requirements.
 
-&emsp;(2) Ensuring that information security protections are commensurate with the risk and magnitude of the potential harm to Department information and information systems resulting from unauthorized access, use, disclosure, disruption, modification, or destruction.
+&emsp;(2) Ensuring that information security protections are commensurate with the risk andmagnitude of the potential harm to Department information and information systems resulting from unauthorized access, use, disclosure, disruption, modification, or destruction.
 
 &emsp;(3) Ensuring that information security management processes are integrated with Department strategic and operational planning processes.
 
@@ -52,7 +52,7 @@ Assistant Secretary for Information and Technology.—The Assistant Secretary fo
 
 &emsp;(10) Requiring any key official of the Department who is so notified to report to the Assistant Secretary with respect to an action to be taken in response to any compliance failure or policy violation reported by the Assistant Secretary.
 
-&emsp;(11) Ensuring that the Chief Information Officers and Information Security Officers of the Department comply with all cyber security directives and mandates, and ensuring that these staff members have all necessary authority and means to direct full compliance with such directives and mandates relating to the acquisition, operation, maintenance, or use of information technology resources from all facility staff.
+&emsp;(11) Ensuring that the Chief Information Officers and Information Security Officers of the Department comply with all cyber security directives and mandates, and ensuring that these staff members have all necessary authority and means to direct full compliance with such directives and mandates relating tothe acquisition, operation, maintenance, or use of information technology resources from all facility staff.
 
 &emsp;(12) Establishing the VA National Rules of Behavior for appropriate use and protection of the information which is used to support Department missions and functions.
 
@@ -106,7 +106,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;&emsp;(B) organizational managers have all necessary authority and means to direct full compliance with such orders from the Assistant Secretary.
 
-&emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protectionof the information which is used to support Department missions and functions on an annual basis.
+&emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions on an annual basis.
 
 (f)
 

@@ -20,7 +20,7 @@
 
 &emsp;(9) the establishment of such an institute is an appropriate investment by the people of this Nation to advance the history, science, art, and practice of international peace and the resolution of conflicts among nations without the use of violence.
 
-(b) It is the purpose of this chapter to establish an independent, nonprofit, national institute to serve the people and the Government through the widest possible range of education and training, basic and applied research opportunities, and peace information services on the means to promote international peace and the resolution of conflicts among the nations and peoples of the world without recourse to violence.
+(b) It is the purpose of this chapter to establish an independent, nonprofit, national institute to serve the people and the Government through the widest possible range of education and training, basic and applied research opportunities, and peace information services on the means to promote international peace and the resolution of conflicts among the nations andpeoples of the world without recourse to violence.
 
 (Pub. L. 98–525, title XVII, §1702, Oct. 19, 1984, 98 Stat. 2649.)
 

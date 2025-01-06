@@ -28,7 +28,7 @@
 
 &emsp;(B) assume liability to pay any member accounts in, or similar liabilities of, any noninsured credit union or institution;
 
-&emsp;(C) transfer assets to any noninsured credit union or institution in consideration of the assumption of liabilities for any portion of the member accounts in such insured credit union; or
+&emsp;(C) transfer assets to any noninsured credit union or institution in consideration of the assumption of liabilities for any portion of themember accounts in such insured credit union; or
 
 &emsp;(D) convert into a noninsured credit union or institution.
 
@@ -268,7 +268,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 &emsp;&emsp;&emsp;(i) conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant's age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual's <sup>2</sup> offense to the responsibilities of the applicable position;
 
-&emsp;&emsp;&emsp;(ii) consider the individual's employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educationalprograms, and other relevant mitigating evidence; and
+&emsp;&emsp;&emsp;(ii) consider the individual's employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
 
 &emsp;&emsp;&emsp;(iii) consider any additional information the Board determines necessary for safety and soundness.
 
@@ -298,7 +298,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 &emsp;&emsp;&emsp;&emsp;(II) wrongfully takes property belonging to another in violation of a criminal statute;
 
-&emsp;&emsp;&emsp;(ii) includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
+&emsp;&emsp;&emsp;(ii) includes an offense that Federal, State, or local law defines as dishonest, orfor which dishonesty is an element of the offense; and
 
 &emsp;&emsp;&emsp;(iii) does not include—
 
@@ -328,7 +328,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 (1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
 
-(2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has beenpaid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
+(2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
 #### (h) Emergency merger
 
@@ -368,7 +368,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
-Paragraph (1)(B), referred to in subsec. (d)(4)(A)(iii), (5)(C)(i)(I), probably should be a reference to "paragraph (2)", meaning par. (2) of subsec. (d). See similar provisions in section 1829(c)(1)(C) and (f)(3)(B)(i) of this title, which refer to offenses described in subsec. (a)(2) of that section, which correspond to those listed in subsec. (d)(2) of this section.
+Paragraph (1)(B), referred to in subsec. (d)(4)(A)(iii), (5)(C)(ii)(I), probably should be a reference to "paragraph (2)", meaning par. (2) of subsec. (d). See similar provisions in section 1829(c)(1)(C) and (f)(3)(B)(i) of this title, which refer to offenses described in subsec. (a)(2) of that section, which correspond to those listed in subsec. (d)(2) of this section.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(5)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

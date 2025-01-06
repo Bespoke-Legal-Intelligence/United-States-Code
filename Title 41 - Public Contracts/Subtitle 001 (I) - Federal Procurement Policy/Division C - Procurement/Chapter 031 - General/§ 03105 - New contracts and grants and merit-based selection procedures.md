@@ -32,7 +32,7 @@ Requirements for Awarding New Contract or New Grant.—A provision of law may no
 
 (d)
 
-Exception.—This section does not apply to a contract or grant that calls on the National Academy of Sciences to investigate, examine, or experiment on a subject of science or art of significance to an executive agency and to report on those matters to Congress or an agency of the Federal Government.
+Exception.—This section does not apply to a contract or grant that calls on the National Academy of Sciences to investigate, examine, orexperiment on a subject of science or art of significance to an executive agency and to report on those matters to Congress or an agency of the Federal Government.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3744.)
 

@@ -22,7 +22,7 @@
 
 &emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a person who is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
-&emsp;(6) for any person in connection with the acquisition or attempted acquisition of any firearm or ammunition from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, knowingly to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive such importer, manufacturer, dealer, or collector with respect to any fact material to the lawfulness of the sale or other disposition of such firearm or ammunition under the provisions of this chapter;
+&emsp;(6) for any person in connection with the acquisition or attempted acquisition of any firearm or ammunition from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, knowingly to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likelyto deceive such importer, manufacturer, dealer, or collector with respect to any fact material to the lawfulness of the sale or other disposition of such firearm or ammunition under the provisions of this chapter;
 
 &emsp;(7) for any person to manufacture or import armor piercing ammunition, unless—
 
@@ -68,7 +68,21 @@
 
 > &emsp;and containing blank spaces for the attachment of a true copy of any permit or other information required pursuant to such statute or published ordinance;
 
-&emsp;(2) the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; and
+&emsp;(2) the transferor has—
+
+&emsp;&emsp;(A) prior to the shipment or delivery of the firearm, forwarded a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, by—
+
+&emsp;&emsp;&emsp;(i) registered or certified mail (return receipt requested); or
+
+&emsp;&emsp;&emsp;(ii) verified electronic notification; and
+
+&emsp;&emsp;(B)(i) with respect to a delivery method described in subparagraph (A)(i)—
+
+&emsp;&emsp;&emsp;(I) received a return receipt evidencing delivery of the statement; or
+
+&emsp;&emsp;&emsp;(II) had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; or
+
+&emsp;&emsp;(ii) with respect to a delivery method described in subparagraph (A)(ii), received a return receipt evidencing delivery of the statement; and
 
 &emsp;(3) the transferor has delayed shipment or delivery for a period of at least seven days following receipt of the notification of the acceptance or refusal of delivery of the statement.
 
@@ -196,7 +210,7 @@
 
 > &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a "Security Exemplar" which contains 3.7 ounces of material type 17–4 PH stainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
 
-(3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining andtesting such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
+(3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
 
 (4) The Attorney General shall permit the conditional importation of a firearm by a licensed importer or licensed manufacturer, for examination and testing to determine whether or not the unconditional importation of such firearm would violate this subsection.
 
@@ -322,7 +336,7 @@
 
 &emsp;&emsp;(ii) is not a fugitive from justice;
 
-&emsp;&emsp;(iii) is not an unlawful user of or addicted to any controlled substance (as defined insection 102 of the Controlled Substances Act);
+&emsp;&emsp;(iii) is not an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act);
 
 &emsp;&emsp;(iv) has not been adjudicated as a mental defective or been committed to a mental institution;
 
@@ -450,7 +464,7 @@
 
 &emsp;(A) a temporary transfer of a handgun or ammunition to a juvenile or to the possession or use of a handgun or ammunition by a juvenile if the handgun and ammunition are possessed and used by the juvenile—
 
-&emsp;&emsp;(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, ora course of instruction in the safe and lawful use of a handgun;
+&emsp;&emsp;(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, or a course of instruction in the safe and lawful use of a handgun;
 
 &emsp;&emsp;(ii) with the prior written consent of the juvenile's parent or guardian who is not prohibited by Federal, State, or local law from possessing a firearm, except—
 
@@ -582,13 +596,13 @@ Defined term.—As used in this paragraph, the term "qualified civil liability a
 
 #### <b>\[APPENDIX A Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000\]</b>
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688; Pub. L. 117–103, div. W, title XI, §1104(b), Mar. 15, 2022, 136 Stat. 921; Pub. L. 117–159, div. A, title II, §§12001(a)(1), (3), 12004(b), June 25, 2022, 136 Stat. 1322, 1324, 1329.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688; Pub. L. 117–103, div. W, title XI, §1104(b), Mar. 15, 2022, 136 Stat. 921; Pub. L. 117–159, div. A, title II, §§12001(a)(1), (3), 12004(b), June 25, 2022, 136 Stat. 1322, 1324, 1329; Pub. L. 118–159, div. E, title LII, §5211(b), Dec. 23, 2024, 138 Stat. 2444.)
 
 #### Amendment of Section
 
 <i>For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Effective and Termination Dates of 2022 Amendment note below.</i>
 
-<i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (p) of this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -613,6 +627,8 @@ Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(i
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is classified to section 40901 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(2). Pub. L. 118–159 added par. (2) and struck out former par. (2) which read as follows: "the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; and".
 
 <b>2022</b>—Subsec. (d). Pub. L. 117–159, §12004(b)(3), in concluding provisions, substituted "This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925." for "This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter."
 
@@ -688,7 +704,7 @@ Subsec. (w)(4). Pub. L. 104–294, §603(e), substituted "section 923(i) of this
 
 Subsec. (x). Pub. L. 104–294, §603(f)(1), amended directory language of Pub. L. 103–322, §110201(a). See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–322, §110106, which added Appendix A specifying firearms that were not prohibited by subsec.\(v)(1) at end of section, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, §110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(9). Pub. L. 103–322, §110514, added par. (9).
 
@@ -750,7 +766,7 @@ Subsec. (a)(7), (8). Pub. L. 99–408 added pars. (7) and (8).
 
 Subsec. (b)(2). Pub. L. 99–308, §102(4)(A), struck out "or ammunition" after "firearm" in two places.
 
-Subsec. (b)(3)(A). Pub. L. 99–308, §102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) "shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee's place of business is located if the purchaser's State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee's business premises,".
+Subsec. (b)(3)(A). Pub. L. 99–308, §102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which providedthat par. (3) "shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee's place of business is located if the purchaser's State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee's business premises,".
 
 Subsec. (b)(3)(B), (C). Pub. L. 99–308, §102(4)(C), (D), inserted "and" before "(B)" and struck out cl. (C), which provided that par. (3) "shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail".
 
@@ -870,7 +886,7 @@ Pub. L. 104–294, title VI, §603(i)(2), Oct. 11, 1996, 110 Stat. 3504, which p
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Amendment by sections 110102(a), 110103(a), and 110106 of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
+Amendment by sections 110102(a), 110103(a), and 110106 of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994,see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
 
 Pub. L. 103–322, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3524 of Pub. L. 101–647 took effect.
 
@@ -880,13 +896,13 @@ Amendment by section 1702(b)(1) of Pub. L. 101–647 applicable to conduct engag
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
-Pub. L. 100–649, §2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that:
+Pub. L. 100–649, §2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656; Pub. L. 118–42, div. G, title III, §301, Mar. 9, 2024, 138 Stat. 451, provided that:
 
 "(1)
 
 Effective date.—This Act and the amendments made by this Act \[amending this section and sections 924 and 925 of this title and enacting provisions set out as notes under this section, section 921 of this title, and section 1356 of former Title 49, Transportation\] shall take effect on the 30th day beginning after the date of the enactment of this Act \[Nov. 10, 1988\].
 
-"(2) Sunset.—Effective 35 years after the effective date of this Act—
+"(2) Sunset.—Effective on March 8, 2031—
 
 &emsp;"(A) subsection (p) of section 922 of title 18, United States Code, is hereby repealed;
 
@@ -960,7 +976,7 @@ Pub. L. 112–55, div. B, title V, §511, Nov. 18, 2011, 125 Stat. 632, which pr
 
 #### Availability of Violent Crime Reduction Trust Fund To Fund Activities Authorized by Brady Handgun Violence Prevention Act and National Child Protection Act of 1993
 
-Pub. L. 103–322, title XXI, §210603(a), Sept. 13, 1994, 108 Stat. 2074, which provided that certain amounts authorized in sections 40103(b), 40302(2), and 40901(k) of Title 34, Crime Control and Law Enforcement, may be appropriated from the Violent Crime Reduction Trust Fund, was repealed by Pub. L. 109–162, title XI, §1154(b)(4), Jan. 5, 2006, 119 Stat. 3113.
+Pub. L. 103–322, title XXI, §210603(a), Sept. 13, 1994, 108 Stat. 2074, which provided that certain amounts authorized in sections 40103(b), 40302(2), and 40901(k) of Title 34, Crime Control and Law Enforcement, may beappropriated from the Violent Crime Reduction Trust Fund, was repealed by Pub. L. 109–162, title XI, §1154(b)(4), Jan. 5, 2006, 119 Stat. 3113.
 
 #### National Instant Criminal Background Check System
 
@@ -986,7 +1002,7 @@ Pub. L. 101–647, title XVII, §1702(b)(5), Nov. 29, 1990, 104 Stat. 4845, prov
 
 #### Identification of Felons and Other Persons Ineligible To Purchase Handguns
 
-Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, which required the Attorney General to develop a system to identify felons and other persons ineligible to purchase firearms, was editorially reclassified and isset out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, which required the Attorney General to develop a system to identify felons and other persons ineligible to purchase firearms, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 

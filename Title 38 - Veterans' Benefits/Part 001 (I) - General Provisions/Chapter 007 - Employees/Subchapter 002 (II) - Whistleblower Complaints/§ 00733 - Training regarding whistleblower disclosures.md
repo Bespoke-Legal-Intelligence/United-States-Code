@@ -2,7 +2,7 @@
 
 (a)
 
-Training.—Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> shall provide to each employee of the Department training regarding whistleblower disclosures, including—
+Training.—Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> shall provide to each employee of the Departmenttraining regarding whistleblower disclosures, including—
 
 &emsp;(1) an explanation of each method established by law in which an employee may file a whistleblower disclosure;
 

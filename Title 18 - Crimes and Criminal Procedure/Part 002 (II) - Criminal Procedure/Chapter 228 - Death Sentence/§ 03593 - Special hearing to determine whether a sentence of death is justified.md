@@ -8,11 +8,11 @@ Notice by the Government.—If, in a case involving an offense described in sect
 
 &emsp;(2) setting forth the aggravating factor or factors that the government, if the defendant is convicted, proposes to prove as justifying a sentence of death.
 
-> The factors for which notice is provided under this subsection may include factors concerningthe effect of the offense on the victim and the victim's family, and may include oral testimony, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim and the victim's family, and any other relevant information. The court may permit the attorney for the government to amend the notice upon a showing of good cause.
+> The factors for which notice is provided under this subsection may include factors concerning the effect of the offense on the victim and the victim's family, and may include oral testimony, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim and the victim's family, and any other relevant information. The court may permit the attorney for the government to amend the notice upon a showing of good cause.
 
 (b)
 
-Hearing Before a Court or Jury.—If the attorney for the government has filed a notice as required under subsection (a) and the defendant is found guilty of or pleads guilty to an offense described in section 3591, the judge who presided at the trial or before whom the guilty plea was entered, or another judge if that judge is unavailable, shall conduct a separate sentencing hearing to determine the punishment to be imposed. The hearing shall be conducted—
+Hearing Before a Court or Jury.—If the attorney for the government has filed a noticeas required under subsection (a) and the defendant is found guilty of or pleads guilty to an offense described in section 3591, the judge who presided at the trial or before whom the guilty plea was entered, or another judge if that judge is unavailable, shall conduct a separate sentencing hearing to determine the punishment to be imposed. The hearing shall be conducted—
 
 &emsp;(1) before the jury that determined the defendant's guilt;
 

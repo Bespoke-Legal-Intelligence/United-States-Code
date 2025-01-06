@@ -40,7 +40,7 @@ Annual report.—The Advisory Board shall provide an annual report on its activi
 
 (c)
 
-Advisory Board Membership.—Members of the Advisory Board shall be appointed on a staggered basis by the Secretary for a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than 7 individuals appointed from among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a Service concession. Of the 7 members of the Advisory Board—
+Advisory Board Membership.—Members of the Advisory Board shall be appointed on a staggered basis by the Secretary for a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than 7 individuals appointedfrom among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a Service concession. Of the 7 members of the Advisory Board—
 
 &emsp;(1) one member shall be privately employed in the hospitality industry and have both broad knowledge of hotel or food service management and experience in the parks and recreation concession business;
 

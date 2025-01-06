@@ -14,7 +14,7 @@ Transfers From Civilian to Military Control.—When the President considers it n
 
 (d)
 
-Vessel Charters to Other Departments.—On a reimbursable or nonreimbursable basis, as determined by the Secretary of Transportation, the Secretary may charter or otherwise make available a vessel under the jurisdiction of the Secretary to any other department, upon the request by the Secretary of the Department that receives the vessel. The prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense.
+Vessel Charters to Other Departments.—On a reimbursable or nonreimbursablebasis, as determined by the Secretary of Transportation, the Secretary may charter or otherwise make available a vessel under the jurisdiction of the Secretary to any other department, upon the request by the Secretary of the Department that receives the vessel. The prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1565; Pub. L. 110–181, div. C, title XXXV, §3515, Jan. 28, 2008, 122 Stat. 595.)
 

@@ -24,7 +24,7 @@
 
 (5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654,Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, §925(e)(2), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 117–81, div. A, title XVII, §1702(f)(2), Dec. 27, 2021, 135 Stat. 2157.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, §925(e)(2), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 117–81, div. A, title XVII, §1702(f)(2), Dec. 27, 2021, 135 Stat. 2157.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,7 @@ The words "the armed forces" are substituted for the words "the Army, the Navy, 
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2)(B), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to insubsec. (d)(2)(B), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Ex. Ord. No. 10113, Feb. 24, 1950, 15 F.R. 1065, as amended by Ex. Ord. No. 1328
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces, it is ordered as follows:
 
-1\. The Secretary of Defense with respect to enlisted men of the Army, the Navy, the Air Force, the Marine Corps, the Naval Reserve \[now Navy Reserve\], the Marine Corps Reserve, the National Guard, the Air National Guard, the National Guard of the United States, the Air National Guard of the United States, the Organized Reserve Corps \[Army Reserve\] and the Air Force Reserve, and the Secretary of Homeland Security with respect to enlisted men of the Coast Guard and the Coast Guard Reserve, are hereby authorized and directed, after appropriate consultation with the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\], to perform the functions vested in the President by section 505 of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress) \[this section\], relative to prescribing the quantity and kind of clothing which shall be furnished annually to enlisted men of the aforesaid services and relative to prescribing the amount of the cash allowance to be paid to such enlisted men in any case in which clothing is not so furnished to them.
+1\. The Secretary of Defense with respect to enlisted men of the Army, the Navy, the Air Force, the Marine Corps, the Naval Reserve \[now Navy Reserve\], the Marine Corps Reserve, the National Guard, the Air National Guard, the National Guard of the United States, the Air National Guard of the United States, the Organized Reserve Corps \[Army Reserve\] and the Air Force Reserve, and the Secretary of Homeland Security with respect to enlisted men of the Coast Guard and the Coast Guard Reserve, are hereby authorized and directed, after appropriate consultation with the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\], to perform the functions vested in the President by section 505 of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress) \[this section\], relative to prescribing the quantity and kind of clothing which shall be furnished annually to enlisted men of the aforesaid services and relative to prescribing theamount of the cash allowance to be paid to such enlisted men in any case in which clothing is not so furnished to them.
 
 2\. The quantity and kind of clothing, and any cash allowances in lieu thereof, prescribed by the Secretary of Homeland Security hereunder with respect to the Coast Guard and the Coast Guard Reserve shall, so far as practicable, be in conformity with those prescribed by the Secretary of Defense with respect to the Navy and Naval Reserve \[now Navy Reserve\], respectively.
 

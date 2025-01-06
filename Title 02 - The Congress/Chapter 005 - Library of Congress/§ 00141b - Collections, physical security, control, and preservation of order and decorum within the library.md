@@ -2,7 +2,7 @@
 
 #### (a) Establishment of regulations
 
-The Librarian of Congress shall establish standards and regulations for the physical security, control, and preservation of the Library of Congress collections and property, and for themaintenance of suitable order and decorum within Library of Congress.
+The Librarian of Congress shall establish standards and regulations for the physical security, control, and preservation of the Library of Congress collections and property, and for the maintenance of suitable order and decorum within Library of Congress.
 
 #### (b) Treatment of security systems
 

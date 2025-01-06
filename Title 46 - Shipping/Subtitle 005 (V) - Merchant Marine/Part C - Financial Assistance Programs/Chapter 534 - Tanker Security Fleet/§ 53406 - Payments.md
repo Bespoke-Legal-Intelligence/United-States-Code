@@ -2,11 +2,35 @@
 
 (a)
 
-Annual Payment.—Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b).
+Annual Payments.—
+
+&emsp;(1)
+
+In general.—Subject to the availability of appropriations and the other provisions of this section, the Secretary shall pay to a program participant for an operating agreement under this chapter, for each vessel that is covered by the operating agreement, an amount equal to—
+
+&emsp;&emsp;(A) $8,160,000 for each of fiscal years 2025 and 2026;
+
+&emsp;&emsp;(B) $8,380,000 for each of fiscal years 2027 and 2028;
+
+&emsp;&emsp;(C) $8,606,000 for each of fiscal years 2029 and 2030;
+
+&emsp;&emsp;(D) $8,839,000 for each of fiscal years 2031 and 2032;
+
+&emsp;&emsp;(E) $9,078,000 for each of fiscal years 2033 and 2034;
+
+&emsp;&emsp;(F) $9,323,000 for each of fiscal years 2035 and 2036;
+
+&emsp;&emsp;(G) $9,574,000 for each of fiscal years 2037 and 2038; and
+
+&emsp;&emsp;(H) $9,833,000 for each of fiscal years 2039 and 2040.
+
+&emsp;(2)
+
+Timing.—The amount payable to a program participant under paragraph (1) for a fiscal year shall be paid in 12 equal monthly installments at the end of each month during that fiscal year. The amount payable for any fiscal year may not be reduced except as provided by this section or section 51307(b).
 
 (b)
 
-Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which thevessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 (c)
 
@@ -48,11 +72,13 @@ Limitation on application.—Paragraph (1) shall not apply to a program particip
 
 Participates in a noncontiguous trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4415; amended Pub. L. 117–263, div. C, title XXXV, §3517(b)(3), Dec. 23, 2022, 136 Stat. 3074.)
+(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4415; amended Pub. L. 117–263, div. C, title XXXV, §3517(b)(3), Dec. 23, 2022, 136 Stat. 3074; Pub. L. 118–159, div. C, title XXXV, §3531(b), Dec. 23, 2024, 138 Stat. 2312.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 amended subsec. (a) generally. Prior to amendment, text read as follows: "Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b)."
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263 inserted "or section 51307(b)" after "this section".
 

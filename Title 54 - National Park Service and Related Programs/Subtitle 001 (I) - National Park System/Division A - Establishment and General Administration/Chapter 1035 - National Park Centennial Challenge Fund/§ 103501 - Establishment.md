@@ -16,7 +16,7 @@ Use of Funds.—Funds collected and deposited into the National Park Centennial 
 
 &emsp;(2) may not be used to acquire lands or interest in lands; and
 
-&emsp;(3) may only be used if matched, on at least a 1-to-1 basis, by non-Federal donations (including funds and fairly valued durable goods and materials) to the Service for signature projects or programs.
+&emsp;(3) may only be used if matched, on at least a 1-to-1 basis, by non-Federal donations (including funds and fairly valued durable goodsand materials) to the Service for signature projects or programs.
 
 (d)
 

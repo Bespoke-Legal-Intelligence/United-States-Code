@@ -100,7 +100,7 @@ In this subchapter, the following definitions apply:
 
 #### (12) Rehabilitation
 
-&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, or removal of a dam that is carried out to meet applicable State dam safety and security standards.
+&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, or removal of adam that is carried out to meet applicable State dam safety and security standards.
 
 #### (13) State
 
@@ -114,11 +114,15 @@ In this subchapter, the following definitions apply:
 
 &emsp;The term "State dam safety program" means a State dam safety program approved and assisted under section 467f(e) of this title.
 
-#### (16) United States
+#### (16) Underserved community
+
+&emsp;The term "underserved community" means a community with a population of less than 50,000 that has a median household income of less than 80 percent of the statewide median household income.
+
+#### (17) United States
 
 &emsp;The term "United States", when used in a geographical sense, means all of the States.
 
-(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, §3001(a), June 10, 2014, 128 Stat. 1282; Pub. L. 114–322, title IV, §5006(a), Dec. 16, 2016, 130 Stat. 1892; Pub. L. 116–260, div. AA, title I, §132(a), Dec. 27, 2020, 134 Stat. 2645.)
+(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, §3001(a), June 10, 2014, 128 Stat. 1282; Pub. L. 114–322, title IV, §5006(a), Dec. 16, 2016, 130 Stat. 1892; Pub. L. 116–260, div. AA, title I, §132(a), Dec. 27, 2020, 134 Stat. 2645; Pub. L. 118–272, div. A, title I, §1132(a), Jan. 4, 2025, 138 Stat. 3021.)
 
 #### <b>Editorial Notes</b>
 
@@ -129,6 +133,8 @@ A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
 
 #### Amendments
+
+<b>2025</b>—Pars. (16), (17). Pub. L. 118–272 added par. (16) and redesignated former par. (16) as (17).
 
 <b>2020</b>—Par. (4)(A)(iii). Pub. L. 116–260, §132(a)(1)(A)(i), added cl. (iii) and struck out former cl. (iii) which read as follows: "has an emergency action plan approved by the relevant State dam safety agency; and".
 
@@ -186,7 +192,7 @@ Pub. L. 92–367, §1, as added by Pub. L. 104–303, title II, §215(c)(1), Oct
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the FederalEmergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -198,7 +198,7 @@ Project Requirements.—A project may not be approved for the pilot program unle
 
 &emsp;"(2)(A) Not less than 50 percent of the costs of the project are to be provided by non-Federal sources.
 
-&emsp;"(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shall include cash, personnel, services, equipment, and other resources expended on the project.
+&emsp;"(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shallinclude cash, personnel, services, equipment, and other resources expended on the project.
 
 &emsp;"(ii) No funds or other resources expended before the start of the project or outside the project's scope of work may be credited toward the costs provided by non-Federal sources to the project.
 

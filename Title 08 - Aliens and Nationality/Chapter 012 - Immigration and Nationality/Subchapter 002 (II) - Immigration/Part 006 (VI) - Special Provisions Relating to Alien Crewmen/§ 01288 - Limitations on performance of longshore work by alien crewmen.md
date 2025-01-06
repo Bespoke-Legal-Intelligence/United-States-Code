@@ -32,7 +32,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
-&emsp;&emsp;(i) the performance of the activity by alien crewmen is permitted under the prevailing practice of the particular port as of the date of filing of the attestation and that the use of alien crewmen for such activity—
+&emsp;&emsp;(i) the performance of the activity by alien crewmen is permitted under the prevailing practice of the particular port as of the dateof filing of the attestation and that the use of alien crewmen for such activity—
 
 &emsp;&emsp;&emsp;(I) is not during a strike or lockout in the course of a labor dispute, and
 
@@ -66,7 +66,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the Attorney General shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
 
-(ii) If the Secretary of Labor finds, after notice and opportunity for a hearing, that, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in subparagraph (B)(i), the Secretary shall notify the Attorney General of such finding and, thereafter, the attestation described in paragraph (1) shall be required of the employer for the performance of the particular activity.
+(ii) If the Secretary of Labor finds, after notice and opportunity for a hearing, that, in the case described in the last sentence of paragraph\(1), the performance of the particular activity is not described in subparagraph (B)(i), the Secretary shall notify the Attorney General of such finding and, thereafter, the attestation described in paragraph (1) shall be required of the employer for the performance of the particular activity.
 
 (F) A finding by the Secretary of Labor under this paragraph that the performance of an activity by alien crewmen is not permitted under the prevailing practice of a local port shall preclude for one year the filing of a subsequent attestation concerning such activity in the port under paragraph (1).
 
@@ -120,7 +120,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
-&emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
+&emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner,agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
 (5)(A) Except as otherwise provided by subparagraph (B), subsection (c)(3) and subparagraphs (A) through (E) of subsection (c)(4) shall apply to attestations filed under this subsection.
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date
 
-Section applicable to services performed on or after 180 days after Nov. 29, 1990, see section 203(d) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.
+Section applicable to services performed on or after 180 days after Nov. 29, 1990, see section 203(d) of Pub. L.101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.
 
 #### Regulations
 

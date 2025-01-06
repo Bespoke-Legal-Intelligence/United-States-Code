@@ -34,7 +34,7 @@ A producer or handler seeking certification under this chapter shall submit an o
 
 #### (c) Livestock plan
 
-An organic livestock plan shall contain provisions designed to foster the organic production of livestock consistent with the purposes of this chapter.
+An organic livestock plan shall contain provisions designed to foster the organic productionof livestock consistent with the purposes of this chapter.
 
 #### (d) Mixed crop livestock production
 

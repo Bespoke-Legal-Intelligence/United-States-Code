@@ -40,7 +40,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–334, §6408(1), substituted "Alaska, a consortium formed pursuant to section 325of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), and Native villages (as defined in section 1602 of title 43) for" for "Alaska for".
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §6408(1), substituted "Alaska, a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), and Native villages (as defined in section 1602 of title 43) for" for "Alaska for".
 
 Subsec. (b). Pub. L. 115–334, §6408(2), inserted "for any grant awarded under subsection (a)" before period at end.
 

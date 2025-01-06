@@ -8,5 +8,5 @@ Section, Pub. L. 93–618, title II, §288, as added Pub. L. 111–5, div. B, ti
 
 #### "§2397a. Sense of Congress
 
-"It is the sense of Congress that the Secretaries of Labor, Commerce, and Agriculture should apply the provisions of part 2 (relating to adjustment assistance for workers), part 3 (relating to adjustment assistance for firms), part 4 (relating to adjustment assistance for communities), and part 6 (relating to adjustment assistance for farmers), respectively, with the utmost regard for the interests of workers, firms, communities, and farmers petitioning for benefits under such parts."
+"It is the sense of Congress that the Secretaries of Labor, Commerce, and Agriculture should apply the provisions of part 2 (relating to adjustment assistancefor workers), part 3 (relating to adjustment assistance for firms), part 4 (relating to adjustment assistance for communities), and part 6 (relating to adjustment assistance for farmers), respectively, with the utmost regard for the interests of workers, firms, communities, and farmers petitioning for benefits under such parts."
 

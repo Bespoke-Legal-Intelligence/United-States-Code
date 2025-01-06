@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (e) De minimis exception for third party settlement organizations
 
-A third party settlement organization shall not be required to report any information undersubsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
+A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
 
 #### (f) Statements to be furnished to persons with respect to whom information is required
 
@@ -160,7 +160,7 @@ Clarification.—The amendment made by subsection (b) \[amending this section\] 
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title II, §41117(b), Feb. 9, 2018, 132 Stat. 162, provided that: "The amendment made by this section \[amending this section\] shall apply to returns for calendar years beginning after December 31, 2017."
+Pub. L. 115–123, div. D, title II, §41117(b), Feb. 9, 2018, 132 Stat. 162, provided that: "The amendment made bythis section \[amending this section\] shall apply to returns for calendar years beginning after December 31, 2017."
 
 #### Effective Date
 

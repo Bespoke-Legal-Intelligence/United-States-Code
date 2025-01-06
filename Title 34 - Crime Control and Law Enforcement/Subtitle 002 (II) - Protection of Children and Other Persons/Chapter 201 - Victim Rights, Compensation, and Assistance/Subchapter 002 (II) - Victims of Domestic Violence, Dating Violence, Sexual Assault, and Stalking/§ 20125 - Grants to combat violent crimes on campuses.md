@@ -26,7 +26,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(3) To provide prevention and education programming about domestic violence, dating violence, sexual assault, and stalking, including technological abuse and reproductive and sexual coercion, that is age-appropriate, culturally relevant, ongoing, delivered in multiple venues on campus, accessible, promotes respectful nonviolent behavior as a social norm, and engages men and boys. Such programming should be developed in partnership or collaboratively with experts in intimate partner and sexual violence prevention and intervention.
 
-&emsp;(4) To develop, enlarge, or strengthen victim services programs and population specific services on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, dating violence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any victim service providers in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph, regardless of whether the services are provided by the institutionor in coordination with community victim service providers.
+&emsp;(4) To develop, enlarge, or strengthen victim services programs and population specific services on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, dating violence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any victim service providers in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph, regardless of whether the services are provided by the institution or in coordination with community victim service providers.
 
 &emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims' options on and off campus to bring disciplinary or other legal action, including assistance to victims in immigration matters.
 
@@ -124,7 +124,7 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 In this section the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 109–162, title III, §304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758; Pub. L. 113–4, title III, §303, Mar. 7, 2013, 127 Stat. 87; Pub. L. 117–103, div. W, title III, §303(a), Mar. 15, 2022, 136 Stat. 866.)
+(Pub. L. 109–162, title III, §304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758; Pub. L. 113–4,title III, §303, Mar. 7, 2013, 127 Stat. 87; Pub. L. 117–103, div. W, title III, §303(a), Mar. 15, 2022, 136 Stat. 866.)
 
 #### <b>Editorial Notes</b>
 
@@ -160,7 +160,7 @@ Subsec. (d)(3)(D). Pub. L. 117–103, §303(a)(4)(A)(ii), added subpar. (D) and 
 
 Subsec. (d)(4)(C). Pub. L. 117–103, §303(a)(4)(B), inserted "sexual orientation, gender identity," after "sex,".
 
-Subsec. (e). Pub. L. 117–103, §303(a)(5), substituted "$15,000,000 for each of fiscal years 2023 through 2027, of which not less than 10 percent shall be made availablefor grants to historically Black colleges and universities" for "$12,000,000 for each of fiscal years 2014 through 2018".
+Subsec. (e). Pub. L. 117–103, §303(a)(5), substituted "$15,000,000 for each of fiscal years 2023 through 2027, of which not less than 10 percent shall be made available for grants to historically Black colleges and universities" for "$12,000,000 for each of fiscal years 2014 through 2018".
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 113–4, §303(1)(A), substituted "stalking on campuses," for "stalking on campuses, and" and "crimes on" for "crimes against women on" and inserted ", and to develop and strengthen prevention education and awareness programs" before period at end.
 

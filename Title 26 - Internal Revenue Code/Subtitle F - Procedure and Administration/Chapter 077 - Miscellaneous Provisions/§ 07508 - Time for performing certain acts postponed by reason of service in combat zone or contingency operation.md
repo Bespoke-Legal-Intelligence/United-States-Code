@@ -2,7 +2,7 @@
 
 #### (a) Time to be disregarded
 
-In the case of an individual serving in the Armed Forces of the United States, or serving insupport of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
+In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
 
 &emsp;(1) Whether any of the following acts was performed within the time prescribed therefor:
 
@@ -40,7 +40,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 #### (2) Special rules
 
-&emsp;If an individual is entitled to the benefits of subsection (a) with respect to any return and such return is timely filed (determined after the application of such subsection), subsections (b)(3) and (e) of section 6611 shall not apply.
+&emsp;If an individual is entitled to the benefits of subsection (a) with respect to any return andsuch return is timely filed (determined after the application of such subsection), subsections (b)(3) and (e) of section 6611 shall not apply.
 
 #### (c) Application to spouse
 
@@ -58,7 +58,7 @@ The period of service in the area or contingency operation referred to in subsec
 
 #### (2) Action taken before ascertainment of right to benefits
 
-&emsp;The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior tosuch assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
+&emsp;The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior to such assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
 
 #### (3) Collection period after assessment not extended as a result of hospitalization
 
@@ -136,7 +136,7 @@ Subsecs. (f), (g). Pub. L. 102–2, §1(a), (c)(2), added subsecs. (f) and (g).
 
 <b>1976</b>—Pub. L. 94–455, §1906(a)(51)(A), substituted "by reason of service in combat zone" for "by reason of war" in section catchline.
 
-Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted "United States" for "States of the Unionand the District of Columbia" in two places after "hospitalized outside the" and "hospitalization outside the", and struck out "or his delegate" after "Secretary".
+Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted "United States" for "States of the Union and the District of Columbia" in two places after "hospitalized outside the" and "hospitalization outside the", and struck out "or his delegate" after "Secretary".
 
 Subsec. (b). Pub. L. 94–569 substituted "taxable year beginning" for "taxable year beginning more than 2 years after" in provisions preceding par. (1), substituted "after January 2, 1978" for "the date of the enactment of this subsection" in par. (1), and substituted "more than 2 years after the date designated" for "the date designated" in par. (2).
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 #### Effective Date of 1975 Amendment
 

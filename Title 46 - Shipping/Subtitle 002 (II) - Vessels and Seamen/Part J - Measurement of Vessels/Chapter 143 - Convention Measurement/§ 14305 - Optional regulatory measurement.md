@@ -34,7 +34,7 @@
 
 (b) As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8503(a)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–263, div. K, title CXV, §11503(f)(1), Dec. 23, 2022, 136 Stat. 4131.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925; Pub. L. 116–283, div.G, title LVXXXV \[LXXXV\], §8503(a)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–263, div. K, title CXV, §11503(f)(1), Dec. 23, 2022, 136 Stat. 4131.)
 
 #### Historical and Revision Notes
 
@@ -68,7 +68,7 @@ The International Convention for the Safety of Life at Sea: IMCO Resolution A.49
 
 &emsp;"(a) In respect of the requirements of Regulation 3 of Chapter IV of the 1974 SOLAS Convention for ships the keels of which are laid before 18 July 1994, the Administration may continue to apply the interim scheme, in which case the above-mentioned entry should be made in the Radio-telephony Certificate only; and
 
-&emsp;"(b) In respect of the regulations for cargo ships of less than 1,600 tons gross tonnage (as measured under national systems), the keels of which are laid after 31December 1985, the Administration may continue to apply the interim scheme until 18 July 1984."
+&emsp;"(b) In respect of the regulations for cargo ships of less than 1,600 tons gross tonnage (as measured under national systems), the keels of which are laid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1984."
 
 The International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978: IMO Resolution A.540 (XIII) of November 17, 1983, provides "that the revised interim scheme for tonnage measurement for certain ships adopted by resolution A.494 (XII), \[described above\] should also be applicable in respect of the provision of the International Convention, and Watchkeeping for Seafarers, 1978."
 

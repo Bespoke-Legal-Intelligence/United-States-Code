@@ -128,7 +128,7 @@ In carrying out subsection (b), each Director of a national research institute�
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 117–81 substituted "section 3861" for "section 2354" in concluding provisions.
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–255, §2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.".
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, §2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH."
 
 Subsec. (b)(1)(C) to (M). Pub. L. 114–255, §2036(c), added par. (C) and redesignated former pars. (C) to (L) as (D) to (M), respectively.
 

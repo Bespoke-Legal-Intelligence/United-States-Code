@@ -102,7 +102,7 @@ Value Added Determination.—If a manufacturer or allied supplier requests infor
 
 &emsp;(3) The manufacturer or allied supplier may determine that the value added in the United States and/or Canada is 70 percent or more only if it has a good faith basis to make that determination.
 
-&emsp;(4) A manufacturer and its allied suppliers may, on a combined basis, make value added determinations for no more than 10 percent, by value, of a carline's total parts content from outside suppliers.
+&emsp;(4) A manufacturer and its allied suppliers may, on a combined basis, make value addeddeterminations for no more than 10 percent, by value, of a carline's total parts content from outside suppliers.
 
 &emsp;(5) Value added determinations made by a manufacturer or allied supplier under this paragraph shall have the same effect as if they were made by the outside supplier.
 
@@ -118,7 +118,7 @@ Dealer Requirement.—Each dealer engaged in the sale or distribution of a new p
 
 (g)
 
-Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label requiredunder subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
+Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
 
 (h)
 
@@ -188,7 +188,7 @@ In subsection (a)(5), the words "in such a condition" are omitted as surplus.
 
 In subsection (a)(6), the words "United States/Canadian origin" are substituted for "U.S./Canadian origin" for consistency with the defined term restated in the revised section. The word "foreign" is omitted as being included in "foreign content".
 
-In subsection (a)(9), before subclause (A), the words "originated in the United States and Canada" and "U.S./Canadian origin" are omitted as unnecessary because of the defined term "of United States/Canadian origin". In subclause (A), the words "passenger motor vehicle equipment whose purchase price contains" are substituted for "the purchase price of automotive equipment which contains" for clarity. In subclause (B), the words "that part of the individual passenger motor vehicle equipment whose purchase price the manufacturer determines remains after subtracting the total of the purchase price of all material of foreign content purchased from outside suppliers" are substituted for "the manufacturer shall determine the foreign content of any passenger motor vehicle equipment supplied by the allied supplier by adding up the purchase price of all foreign material purchased from outside suppliers that comprise the individual passenger motor vehicle equipment and subtracting such purchase price from the total purchase price of such equipment" for clarity.
+In subsection (a)(9), before subclause (A), the words "originated in the United States and Canada" and "U.S./Canadian origin" are omitted as unnecessary because of the defined term "of United States/Canadian origin". In subclause (A), the words "passenger motor vehicle equipment whose purchase price contains" are substituted for "the purchase price of automotive equipment which contains" for clarity. In subclause (B), the words "that part of the individual passenger motor vehicle equipment whose purchase price themanufacturer determines remains after subtracting the total of the purchase price of all material of foreign content purchased from outside suppliers" are substituted for "the manufacturer shall determine the foreign content of any passenger motor vehicle equipment supplied by the allied supplier by adding up the purchase price of all foreign material purchased from outside suppliers that comprise the individual passenger motor vehicle equipment and subtracting such purchase price from the total purchase price of such equipment" for clarity.
 
 In subsection (a)(10), the word "person" is substituted for "anyone" for clarity and consistency in the revised title.
 

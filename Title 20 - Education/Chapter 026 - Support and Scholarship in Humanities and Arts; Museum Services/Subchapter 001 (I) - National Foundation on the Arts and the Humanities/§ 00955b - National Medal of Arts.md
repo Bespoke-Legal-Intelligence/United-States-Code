@@ -30,5 +30,5 @@ Funds made available to the National Endowment for the Arts shall be used to car
 
 #### Codification
 
-Section was enacted as part of the National Foundation on the Arts and the Humanities Act Amendments of 1983, and not as part of the National Foundation on the Arts and the Humanities Act of 1965 which comprises this subchapter.
+Section was enacted as part of the National Foundation on the Arts and the Humanities Act Amendmentsof 1983, and not as part of the National Foundation on the Arts and the Humanities Act of 1965 which comprises this subchapter.
 

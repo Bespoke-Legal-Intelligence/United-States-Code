@@ -18,7 +18,7 @@ Each rural business investment company that participates in the program establis
 
 &emsp;&emsp;(B) the aggregate amount of leverage that rural business investment companies have received from the Federal Government during the previous fiscal year;
 
-&emsp;&emsp;(C) the aggregate number of each type of leveraged instruments used by rural businessinvestment companies during the previous fiscal year and how each number compares to previous fiscal years;
+&emsp;&emsp;(C) the aggregate number of each type of leveraged instruments used by rural business investment companies during the previous fiscal year and how each number compares to previous fiscal years;
 
 &emsp;&emsp;(D) the number of rural business investment company licenses surrendered and the number of rural business investment companies placed in liquidation during the previous fiscal year, identifying the amount of leverage each rural business investment company has received from the Federal Government and the type of leverage instruments each rural business investment company has used;
 

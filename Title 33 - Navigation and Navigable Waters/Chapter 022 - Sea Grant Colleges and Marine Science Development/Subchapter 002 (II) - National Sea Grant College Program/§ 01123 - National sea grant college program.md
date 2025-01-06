@@ -36,7 +36,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;(E) accept donations of money and, notwithstanding section 1342 of title 31, of voluntary and uncompensated services;
 
-&emsp;(F) accept funds from other Federal departments and agencies, including agencies within the Administration, to pay for and add to grants made and contracts entered into by the Secretary; and
+&emsp;(F) accept funds from other Federal departments and agencies, including agencies within the Administration, to pay for and add togrants made and contracts entered into by the Secretary; and
 
 &emsp;(G) promulgate such rules and regulations as may be necessary and appropriate.
 
@@ -44,7 +44,7 @@ The national sea grant college program shall consist of the financial assistance
 
 (1) The Secretary shall appoint, as the Director of the National Sea Grant College Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5.
 
-(2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition toany other duty prescribed by law or assigned by the Secretary, the Director shall—
+(2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
 
 &emsp;(A) facilitate and coordinate the development of a strategic plan under subsection (c)(1);
 

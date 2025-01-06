@@ -14,7 +14,7 @@
 
 #### Codification
 
-Section was formerly classified to section 1973c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notesbelow reflect the classification of such sections prior to their editorial reclassification to this title.
+Section was formerly classified to section 1973c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Section was formerly classified to section 1294 of the former Appendix to this t
 
 War Shipping Administration terminated as of Sept. 1, 1946, and functions, powers, duties, etc., transferred to United States Maritime Commission for period Sept. 1, 1946, to Dec. 31, 1946, for purpose of liquidating Administration, by act July 8, 1946, ch. 543, title II, §202, 60 Stat. 501.
 
-Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
+Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat.151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
 
 #### Vessel Operations Under Revolving Fund
 

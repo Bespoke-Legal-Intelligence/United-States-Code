@@ -2,7 +2,7 @@
 
 #### (a) Carryover authority
 
-Of the sums made available to an eligible institution under this subpart for a fiscal year,not more than 10 percent may, at the discretion of the institution, remain available for expenditure during the succeeding fiscal year to carry out the program under this subpart.
+Of the sums made available to an eligible institution under this subpart for a fiscal year, not more than 10 percent may, at the discretion of the institution, remain available for expenditure during the succeeding fiscal year to carry out the program under this subpart.
 
 #### (b) Carryback authority
 

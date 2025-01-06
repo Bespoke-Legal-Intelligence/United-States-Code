@@ -122,7 +122,7 @@ Report on Pilot Program.—
 
 &emsp;"(1)
 
-In general.—If the Secretary conducts the pilot program under this section, not later than 90 days after the date on which the Secretary completes the conduct of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+In general.—If the Secretary conducts the pilot program under this section, not later than 90days after the date on which the Secretary completes the conduct of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
 
 &emsp;"(2)
 
@@ -412,7 +412,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an annual report on the effectiveness of the health risk management demonstration project in improving the health risk measures of military health system beneficiaries enrolled in the demonstration project. The first report shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and subsequent reports shall be submitted for each year of the demonstration project with the final report being submitted not later than 90 days after the termination of the demonstration project.
+In general.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an annual report on the effectiveness of the health risk management demonstration project in improving the health risk measures of military health system beneficiaries enrolled in the demonstration project. The first report shall be submitted not later than one year afterthe date of the enactment of this Act \[Oct. 14, 2008\], and subsequent reports shall be submitted for each year of the demonstration project with the final report being submitted not later than 90 days after the termination of the demonstration project.
 
 &emsp;"(2)
 
@@ -478,7 +478,7 @@ Consultation Requirements.—The Secretary of Defense shall develop the pilot pr
 
 "(d)
 
-Selection of Military Installation.—The pilot program may be implemented at two or more militaryinstallations selected by the Secretary of Defense. At least one of the selected military installations shall meet the following criteria:
+Selection of Military Installation.—The pilot program may be implemented at two or more military installations selected by the Secretary of Defense. At least one of the selected military installations shall meet the following criteria:
 
 &emsp;"(1) The military installation has members of the Armed Forces on active duty and members of reserve components of the Armed Forces that use the installation as a training and operational base, with members routinely deploying in support of the global war on terrorism.
 
@@ -512,7 +512,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §731\], Oct. 30, 2000, 114 Stat
 
 #### Teleradiology Demonstration Project
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §732\], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, authorized the Secretary of Defense to conduct a demonstration project during the 2-year period beginning on Oct. 30, 2000, under which a military medical treatment facility and each clinic supported by such facility would be linked by a digital radiology network through which digital radiology X-rays could be sent electronically from clinics to the military medical treatment facility.
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §732\], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, authorized the Secretaryof Defense to conduct a demonstration project during the 2-year period beginning on Oct. 30, 2000, under which a military medical treatment facility and each clinic supported by such facility would be linked by a digital radiology network through which digital radiology X-rays could be sent electronically from clinics to the military medical treatment facility.
 
 #### Joint Telemedicine and Telepharmacy Demonstration Projects by the Department of Defense and Department of Veterans Affairs
 

@@ -982,7 +982,7 @@ Section 15(j) of the Railroad Retirement Act of 1974, referred to in subsec. (c)
 
 Section 1322 of the Patient Protection and Affordable Care Act, referred to in subsec. (c)(29)(A), (B)(ii), is classified to section 18042 of Title 42, The Public Health and Welfare.
 
-The Federal Credit Union Act, referred to in subsec. (l)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (l)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (l)(2), (3), are classified to former section 1441a and section 1441b, respectively, of Title 12, Banks and Banking. Section 21A of the Act was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 

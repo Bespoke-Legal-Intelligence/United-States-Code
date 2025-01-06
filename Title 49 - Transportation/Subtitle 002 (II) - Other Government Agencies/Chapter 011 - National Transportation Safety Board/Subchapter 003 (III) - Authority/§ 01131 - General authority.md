@@ -6,9 +6,21 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 &emsp;(A) an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
 
-&emsp;(B) a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
+&emsp;(B) a highway accident, including a railroad grade crossing accident, the Board selects, concurrent with any State investigation, in which case the Board and the relevant State agencies shall coordinate to ensure both the Board and State agencies have timely access to the information needed to conduct each such investigation, including any criminal and enforcement activities conducted by the relevant State agency;
 
-&emsp;(C) a railroad accident in which there is a fatality or substantial property damage, or that involves a passenger train;
+&emsp;(C) a railroad—
+
+&emsp;&emsp;(i) accident in which there is a fatality or substantial property damage, except—
+
+&emsp;&emsp;&emsp;(I) a grade crossing accident or incident, unless selected by the Board; or
+
+&emsp;&emsp;&emsp;(II) an accident or incident involving a trespasser, unless selected by the Board; or
+
+&emsp;&emsp;(ii) accident or incident that involves a passenger train, except in any case in which such accident or incident resulted in no fatalities or serious injuries to the passengers or crewmembers of such train, and—
+
+&emsp;&emsp;&emsp;(I) was a grade crossing accident or incident, unless selected by the Board; or
+
+&emsp;&emsp;&emsp;(II) such accident or incident involved a trespasser, unless selected by the Board;
 
 &emsp;(D) a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
 
@@ -52,9 +64,17 @@ Accidents Involving Public Aircraft.—The Board, in furtherance of its investig
 
 (e)
 
-Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
+Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public—
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §9(b), (c), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 115–254, div. C, §1113(b), Oct. 5, 2018, 132 Stat. 3438; Pub. L. 117–263, div. K, title CXVI, §11601(c)(3), Dec. 23, 2022, 136 Stat. 4146.)
+&emsp;(1) in electronic form at no cost in a publicly accessible database on a website of the Board; and
+
+&emsp;(2) if the electronic form required in paragraph (1) is not printable, in printed form upon a reasonable request at a reasonable cost.
+
+(f)
+
+Timeliness of Reports.—If any accident report under subsection (e) is not completed within 2 years from the date of the accident, the Board shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report identifying such accident report and the reasons for which such report has not been completed. The Board shall report progress toward completion of the accident report to each such Committees every 90 days thereafter, until such time as the accident report is completed.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §9(b), (c), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 115–254, div. C, §1113(b), Oct. 5, 2018, 132 Stat. 3438; Pub. L. 117–263, div. K, title CXVI, §11601(c)(3), Dec. 23, 2022, 136 Stat. 4146; Pub. L. 118–63, title XII, §§1210–1212, May 16, 2024, 138 Stat. 1425, 1426.)
 
 Historical and Revision Notes
 
@@ -128,7 +148,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(2), 88 Stat. 2168; July 19, 1988, Pub. 
 
 In this section, the word "conditions" is omitted as being included in "circumstances". The words "head of the department in which the Coast Guard is operating" are substituted for "Secretary of the department in which the Coast Guard is operating" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1)(A), the words "the Board has authority to investigate under section 1132 of this title" are substituted for "which is within the scope of the functions, powers, and duties transferred from the Civil Aeronautics Board under section 1655(d) of this Appendix pursuant to title VII of the Federal Aviation Act of 1958, as amended \[49 App. U.S.C. 1441 et seq.\]" because of the restatement.
+In subsection (a)(1)(A), the words "the Board has authority to investigate under section 1132 of this title" are substituted for "which is within the scope of the functions, powers, and duties transferred from the Civil Aeronautics Board under section 1655(d) of this Appendix pursuant to title VII of the Federal Aviation Act of1958, as amended \[49 App. U.S.C. 1441 et seq.\]" because of the restatement.
 
 In subsection (a)(1)(F), before subclause (i), the word "decides" is substituted for "in the judgment of" for clarity. The word "individuals" is substituted for "people" for consistency in the revised title. In subclause (iii), the words "the investigation of" are added as being more precise.
 
@@ -147,6 +167,14 @@ In subsection (d), the words "in writing" in 49 App.:1903(a)(2) are omitted as s
 Presidential Proclamation No. 5928, referred to in subsec. (a)(1)(E), is set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(B). Pub. L. 118–63, §1210(a), substituted "selects, concurrent with any State investigation, in which case the Board and the relevant State agencies shall coordinate to ensure both the Board and State agencies have timely access to the information needed to conduct each such investigation, including any criminal and enforcement activities conducted by the relevant State agency" for "selects in cooperation with a State".
+
+Subsec. (a)(1)(C). Pub. L. 118–63, §1210(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "a railroad accident in which there is a fatality or substantial property damage, or that involves a passenger train;".
+
+Subsec. (e). Pub. L. 118–63, §1211, substituted "public—" and pars. (1) and (2) for "public at reasonable cost."
+
+Subsec. (f). Pub. L. 118–63, §1212, added subsec. (f).
 
 <b>2022</b>—Subsec. (a)(1)(E). Pub. L. 117–263 substituted "section 116" for "section 2101(46)".
 
@@ -176,11 +204,37 @@ Pub. L. 103–411, §3(d), Oct. 25, 1994, 108 Stat. 4237, provided that: "The am
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Air Safety Investigators
+
+Pub. L. 118–63, title XII, §1222, May 16, 2024, 138 Stat. 1432, provided that:
+
+"(a)
+
+Removal of FAA \[Federal Aviation Administration\] Medical Certificate Requirement.—Not later than 60 days after the date of enactment of this Act \[May 16, 2024\], the Director of the Office of Personnel Management, in consultation with the Administrator \[of the Federal Aviation Administration\] and the Chairman of the National Transportation Safety Board, shall take such actions as may be necessary to revise the eligibility requirements for the Air Safety Investigating Series 1815 occupational series (and any similar occupational series relating to transportation accident investigating) to remove any requirement that an individual hold a current medical certificate issued by the Administrator.
+
+"(b)
+
+Updates to Other Requirements.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act, the Director, in coordination with the Administrator and Chairman, shall take such actions as may be necessary to update and revise experiential, educational, and other eligibility requirements for the Air Safety Investigating Series 1815 occupational series (and any similar occupational series relating to transportation accident investigating).
+
+&emsp;"(2)
+
+Considerations.—In updating the requirements under paragraph (1), the Director shall consider—
+
+&emsp;&emsp;"(A) the direct relationship between any requirement and the duties expected to be performed by the position;
+
+&emsp;&emsp;"(B) changes in the skills and tools necessary to perform transportation accident investigations; and
+
+&emsp;&emsp;"(C) such other considerations as the Director, Administrator, or Chairman determines appropriate."
+
 #### Revision of 1977 Agreement
 
 Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 
-Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: "Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\]."
+Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: "Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau ofInvestigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\]."
 
 #### Memorandum of Understanding
 

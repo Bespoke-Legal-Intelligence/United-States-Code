@@ -42,7 +42,7 @@ A prior section 506 of Pub. L. 89–136 was classified to section 3186 of this t
 
 #### Amendments
 
-2004–Subsec. (c). Pub. L. 108–373, §503(a), struck out "after the effective date of the Economic Development Administration Reform Act of 1998" after "assistance to the grantee".
+2004–Subsec. (c). Pub. L. 108–373, §503(a), struck out "after the effective date of the Economic DevelopmentAdministration Reform Act of 1998" after "assistance to the grantee".
 
 Subsec. (d)(2). Pub. L. 108–373, §503(b), inserted "program performance," after "applied research,".
 

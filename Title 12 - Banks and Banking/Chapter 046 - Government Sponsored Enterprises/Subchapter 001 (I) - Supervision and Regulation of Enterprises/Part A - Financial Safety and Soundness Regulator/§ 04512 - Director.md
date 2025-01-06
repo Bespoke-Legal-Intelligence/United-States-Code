@@ -34,7 +34,7 @@ There is established the position of the Director of the Agency, who shall be th
 
 #### (2) Functions
 
-&emsp;The Deputy Director of the Division of Enterprise Regulation shall have such functions, powers, and duties with respect to the oversight of the enterprises as the Director shall prescribe.
+&emsp;The Deputy Director of the Division of Enterprise Regulation shall have such functions,powers, and duties with respect to the oversight of the enterprises as the Director shall prescribe.
 
 #### (d) Deputy Director of the Division of Federal Home Loan Bank Regulation
 

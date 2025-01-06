@@ -6,7 +6,7 @@ Action and Jurisdiction.—Any national of the United States injured in his or h
 
 (b)
 
-Estoppel Under United States Law.—A final judgment or decree rendered in favor of the United States in any criminal proceeding under section 1116, 1201, 1203, or 2332 of this title or section 46314, 46502, 46505, or 46506 of title 49 shall estop the defendant from denying the essentialallegations of the criminal offense in any subsequent civil proceeding under this section.
+Estoppel Under United States Law.—A final judgment or decree rendered in favor of the United States in any criminal proceeding under section 1116, 1201, 1203, or 2332 of this title or section 46314, 46502, 46505, or 46506 of title 49 shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding under this section.
 
 (c)
 
@@ -90,7 +90,7 @@ Elements of comprehensive process.—The comprehensive process developed under p
 
 &emsp;&emsp;"(B) Not later than 120 days after the date of enactment of this Act, the Secretary of State, or a designee of the Secretary, shall meet (and make every effort to continue to meet on a regular basis thereafter) with any national of the United States, or a representative of a national of the United States, who has a covered claim and has informed the Department of State of the covered claim using the method established pursuant to subparagraph (A) to discuss the status of the covered claim, including the status of any settlement discussions with the Palestinian Authority or the Palestine Liberation Organization.
 
-&emsp;&emsp;"(C) Not later than 180 days after the date of enactment of this Act, the Secretary of State, or adesignee of the Secretary, shall make every effort to meet (and make every effort to continue to meet on a regular basis thereafter) with representatives of the Palestinian Authority and the Palestine Liberation Organization to discuss the covered claims identified pursuant to subparagraph (A) and potential settlement of the covered claims.
+&emsp;&emsp;"(C) Not later than 180 days after the date of enactment of this Act, the Secretary of State, or a designee of the Secretary, shall make every effort to meet (and make every effort to continue to meet on a regular basis thereafter) with representatives of the Palestinian Authority and the Palestine Liberation Organization to discuss the covered claims identified pursuant to subparagraph (A) and potential settlement of the covered claims.
 
 &emsp;"(3)
 
@@ -172,7 +172,7 @@ Findings.—Congress finds the following:
 
 "(b)
 
-Purpose.—The purpose of this Act \[enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending this section and section 1605 of Title 28, and enacting provisions set out as notes under this section, section 1 of this title, and section 1605B of Title 28\] is to provide civil litigants with the broadest possible basis, consistent with the Constitution of the United States, to seek relief against persons, entities, and foreign countries, wherever acting and wherever they may be found, that have provided material support, directly or indirectly, to foreign organizations or persons that engage in terrorist activities against the United States."
+Purpose.—The purpose of this Act \[enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending this section and section 1605 of Title 28, and enacting provisions set out as notes under this section, section 1 of this title, and section 1605B of Title 28\] is to provide civil litigants with the broadest possiblebasis, consistent with the Constitution of the United States, to seek relief against persons, entities, and foreign countries, wherever acting and wherever they may be found, that have provided material support, directly or indirectly, to foreign organizations or persons that engage in terrorist activities against the United States."
 
 #### Effect on Foreign Sovereign Immunities Act
 

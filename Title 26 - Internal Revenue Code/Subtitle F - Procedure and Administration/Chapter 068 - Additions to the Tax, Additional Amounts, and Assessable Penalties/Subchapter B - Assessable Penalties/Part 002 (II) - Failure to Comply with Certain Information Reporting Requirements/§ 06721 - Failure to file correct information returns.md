@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(iii) no single amount reported for tax withheld on the information return differs from the correct amount by more than $25,
 
-> &emsp;&emsp;then no correction shall be required and, for purposes of this section, such return shall betreated as having been filed with all of the correct required information.
+> &emsp;&emsp;then no correction shall be required and, for purposes of this section, such return shall be treated as having been filed with all of the correct required information.
 
 #### (B) Exception
 
@@ -114,7 +114,7 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 &emsp;&emsp;&emsp;(i) $25,000, or
 
-&emsp;&emsp;&emsp;(ii) the amount of cash (within the meaning of section 6050I(d)) received in such transaction (or related transactions) to the extent the amount of such cash does not exceed $100,000, or
+&emsp;&emsp;&emsp;(ii) the amount of cash (within the meaning of section 6050I(d)) received insuch transaction (or related transactions) to the extent the amount of such cash does not exceed $100,000, or
 
 &emsp;&emsp;(D) in the case of a return required to be filed under section 6050V, 10 percent of the value of the benefit of any contract with respect to which information is required to be included on the return, and
 
@@ -210,7 +210,7 @@ Subsec. (f). Pub. L. 111–240, §2102(f), added subsec. (f).
 
 <b>1990</b>—Subsec. (e)(2). Pub. L. 101–508 inserted "6050I," after "6050H," and struck out "or" at end of subpar. (A), substituted "or" for "and" at end of subpar. (B), and added subpar. (C).
 
-<b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a) stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
+<b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a)stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
 
 <b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–690 inserted "(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)" after "reported".
 

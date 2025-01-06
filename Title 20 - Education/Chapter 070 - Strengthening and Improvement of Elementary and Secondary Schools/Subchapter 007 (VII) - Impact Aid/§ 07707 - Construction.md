@@ -54,13 +54,13 @@
 
 &emsp;In approving applications from local educational agencies for emergency grants and modernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
 
-&emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
+&emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants fromlocal educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
 &emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
 &emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
-&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grantsfrom local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 #### (3) Eligibility requirements
 
@@ -110,7 +110,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or a modernization grant under subparagraph (B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
+&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or a modernization grant under subparagraph\(B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
 
 #### (ii) School described
 
@@ -248,7 +248,7 @@
 
 Pub. L. 114–95, §7001(d)(4), made technical amendment to references in original act which appear in text as references to section 7703(a)(1)(C) of this title wherever appearing.
 
-Pub. L. 114–95, §7001(d)(3), made technical amendment to references in original act which appear in text as references to section 7703(a)(1) of this title wherever appearing.
+Pub. L. 114–95, §7001(d)(3), made technical amendment to references in original act which appear in text asreferences to section 7703(a)(1) of this title wherever appearing.
 
 Subsec. (a)(1). Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in original act which appears in text as reference to section 7703(b) of this title.
 
@@ -268,7 +268,7 @@ Subsec. (a)(4). Pub. L. 114–95, §7007(1)(B), made technical amendment to refe
 
 Subsec. (b)(3)(A)(i)(III). Pub. L. 114–95, §7001(d)(8), made technical amendment to reference in original act which appears in text as reference to section 7703(b)(2) of this title.
 
-Subsec. (b)(3)(C)(i)(I). Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in original act whichappears in introductory provisions as reference to section 7703(b) of this title.
+Subsec. (b)(3)(C)(i)(I). Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in original act which appears in introductory provisions as reference to section 7703(b) of this title.
 
 Subsec. (b)(3)(C)(i)(I)(cc). Pub. L. 114–95, §7007(2)(A), added item (cc).
 

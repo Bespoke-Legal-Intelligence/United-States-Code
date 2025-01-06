@@ -2,7 +2,7 @@
 
 Section 1261, act Sept. 3, 1954, ch. 1257, title III, §324, 68 Stat. 1161, related to discharge of second lieutenants. See sections 14503 and 14907 of Title 10, Armed Forces, and section 323 of Title 32, National Guard.
 
-Section 1262, acts Sept. 3, 1954, ch. 1257, title III, §325, 68 Stat. 1161; June 30, 1955, ch. 247, §9, 69 Stat. 222, provided for discharge or transfer to Retired Reserve of first lieutenants, captains, and majors. See section 14501 et seq. of Title 10, Armed Forces.
+Section 1262, acts Sept. 3, 1954, ch. 1257, title III, §325, 68 Stat. 1161; June 30, 1955, ch. 247, §9, 69 Stat. 222, provided for discharge or transfer to Retired Reserve offirst lieutenants, captains, and majors. See section 14501 et seq. of Title 10, Armed Forces.
 
 Section 1263, act Sept. 3, 1954, ch. 1257, title III, §326, 68 Stat. 1161, prescribed maximum age for discharge or transfer to Retired Reserve. See sections 14508 to 14512 of Title 10.
 

@@ -18,7 +18,7 @@ Agencies.—The Office of Personnel Management shall make publicly available on 
 
 &emsp;(2)
 
-Office of personnel management.—The Office of Personnel Management shall make publicly available on the Internet links to the websites where the information described in paragraph (1) is displayed.
+Office of personnel management.—The Office of Personnel Management shall makepublicly available on the Internet links to the websites where the information described in paragraph (1) is displayed.
 
 (c)
 

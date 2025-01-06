@@ -92,13 +92,13 @@ Sunset of Exemption Authority Under Hyde Act.—\[Amended section 8003 of this t
 
 "(a)
 
-Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—Congress declares that it is the understanding of the United States that the provisions of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy have the meanings conveyed in the authoritative representations provided by the President and his representatives to the Congress and its committees prior to September 20, 2008, regarding the meaning and legal effect of the Agreement.
+Declarations of Policy Relating to Meaning and Legal Effect of Agreement.—Congress declaresthat it is the understanding of the United States that the provisions of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy have the meanings conveyed in the authoritative representations provided by the President and his representatives to the Congress and its committees prior to September 20, 2008, regarding the meaning and legal effect of the Agreement.
 
 "(b)
 
 Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and Technology to India.—Congress makes the following declarations of policy:
 
-&emsp;"(1) Pursuant to section 103(a)(6) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8002(a)(6)), in the event that nuclear transfers to India are suspended or terminated pursuant to title I of such Act (22 U.S.C. 8001 et seq.), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other United States law, it is the policy of the United States to seek to prevent the transfer to India of nuclear equipment, materials, or technology from other participating governments inthe Nuclear Suppliers Group (NSG) or from any other source.
+&emsp;"(1) Pursuant to section 103(a)(6) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8002(a)(6)), in the event that nuclear transfers to India are suspended or terminated pursuant to title I of such Act (22 U.S.C. 8001 et seq.), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other United States law, it is the policy of the United States to seek to prevent the transfer to India of nuclear equipment, materials, or technology from other participating governments in the Nuclear Suppliers Group (NSG) or from any other source.
 
 &emsp;"(2) Pursuant to section 103(b)(10) of the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8002(b)(10)), any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
 

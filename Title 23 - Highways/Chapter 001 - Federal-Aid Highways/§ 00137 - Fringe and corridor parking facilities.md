@@ -46,7 +46,7 @@ Subsec. (f)(1). Pub. L. 105–178, §1103(l)(3)(B), substituted "section 104(b)(
 
 <b>1970</b>—Pub. L. 91–605 substituted "Fringe and corridor parking facilities" for "Limitation on authorization of appropriations for certain purposes" in section catchline.
 
-Subsec. (a). Pub. L. 91–605 substituted provisions permitting the Secretary to approve construction of publicly owned parking facilities under the Federal-aid urban system for provisions limiting authorization of appropriations under section 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing these sections and provisions frombeing construed as authority for any appropriations not specifically authorized in these sections and provisions.
+Subsec. (a). Pub. L. 91–605 substituted provisions permitting the Secretary to approve construction of publicly owned parking facilities under the Federal-aid urban system for provisions limiting authorization of appropriations under section 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing these sections and provisions from being construed as authority for any appropriations not specifically authorized in these sections and provisions.
 
 Subsec. (b). Pub. L. 91–605 substituted provisions preventing project approval by the Secretary unless the State or political subdivision thereof where the project is located can construct, maintain, and operate the facility, unless the Secretary has entered into an agreement with the State or political subdivision governing the financing, maintenance, and operation of the facility, and unless the Secretary has approved design standards for construction of the facility for provisions limiting authorization of appropriations under sections 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing appropriations to carry out these sections and provisions unless they are specific as to the amount authorized and as to the fiscal year.
 
@@ -104,7 +104,7 @@ Survey and Comparative Assessment.—
 
 &emsp;"(1)
 
-In general.—Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\], in consultation with relevant State motor carrier safety personnel, shall conduct a survey of each State—
+In general.—Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b)of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\], in consultation with relevant State motor carrier safety personnel, shall conduct a survey of each State—
 
 &emsp;&emsp;"(A) to evaluate the capability of the State to provide adequate parking and rest facilities for commercial motor vehicles engaged in interstate transportation;
 

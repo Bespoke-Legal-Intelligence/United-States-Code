@@ -56,7 +56,7 @@
 
 #### (4) Treatment of aliens arriving in the United States
 
-&emsp;In the case of an alien who is arriving in the United States and with respect to whom proceedings under section 1229a of this title are (or would otherwise be) initiated at the time of such alien's arrival, paragraph (1) shall not apply. Nothing in this paragraph shall be construed as preventing such an alien from withdrawing the application for admission in accordance with section 1225(a)(4) of this title.
+&emsp;In the case of an alien who is arriving in the United States and with respect to whom proceedings under section 1229a of this title are (or would otherwise be) initiated at the timeof such alien's arrival, paragraph (1) shall not apply. Nothing in this paragraph shall be construed as preventing such an alien from withdrawing the application for admission in accordance with section 1225(a)(4) of this title.
 
 #### (b) At conclusion of proceedings
 

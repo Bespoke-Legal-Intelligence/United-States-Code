@@ -148,9 +148,11 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;(A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act \[42 U.S.C. 1104(a)\]),
 
-&emsp;(B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act \[42 U.S.C. 1104(g)\]) under title XII of such Act \[42 U.S.C. 1321 et seq.\] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act \[42 U.S.C. 1323\], and
+&emsp;(B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act \[42 U.S.C. 1104(g)\]) under title XII of such Act \[42 U.S.C. 1321 et seq.\] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act \[42 U.S.C. 1323\],
 
-&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account, and
+
+&emsp;(D) any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act \[45 U.S.C. 360\]) for the purpose of carrying out the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], and funds appropriated or transferred to or otherwise deposited in such Account,
 
 > shall not be subject to reduction.
 
@@ -184,7 +186,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (6) Certain authority not to be limited
 
-&emsp;Nothing in this joint resolution shall limit or reduce, in any way, any appropriation thatprovides the Commodity Credit Corporation with budget authority to cover the Corporation's net realized losses.
+&emsp;Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation's net realized losses.
 
 #### (k) Effects of sequestration
 
@@ -218,17 +220,23 @@ This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§20
 
 Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
+The Railroad Unemployment Insurance Act, referred to in subsec. (i)(1)(D), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
+<b>2024</b>—Subsec. (i)(1)(D). Pub. L. 118–159, §5701(a)(2), repealed Pub. L. 116–260, §235(c). See 2020 Amendment note below.
+
 <b>2022</b>—Subsec. (g)(2)(B)(ii). Pub. L. 117–263 substituted "sections 403b and 405" for "sections 403a and 475".
 
 Subsec. (h)(4)(G). Pub. L. 117–168 added subpar. (G).
 
-<b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–260, §235(a), temporarily added subpar. (D) which read as follows: "any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act \[45 U.S.C. 360\]) for the purpose of carrying out the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], and funds appropriated or transferred to or otherwise deposited in such Account,". See Effective and Termination Dates of 2020 Amendment note below.
+<b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–260, §235(c), which directed the repeal of the amendment made by section 235(a) of Pub. L. 116–260, was repealed by Pub. L. 118–159, §5701(a)(2).
+
+Pub. L. 116–260, §235(a), added subpar. (D).
 
 <b>2013</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
@@ -296,7 +304,7 @@ Subsec. (b). Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this 
 
 Pub. L. 101–508, §13101(d)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (h).
 
-Subsec. (c). Pub. L. 101–508, §13101(d)(4), inserted after first sentence "No State's matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage."
+Subsec. (c). Pub. L. 101–508, §13101(d)(4), inserted after first sentence "No State's matching payments from theFederal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage."
 
 Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "section 902 of this title".
 
@@ -362,23 +370,21 @@ Subsec. (l). Pub. L. 100–119, §102(b)(3), amended subsec. (l) generally, stri
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. E, title LVII, §5701(b), Dec. 23, 2024, 138 Stat. 2461, provided that: "The amendments made by subsection (a) \[amending and repealing provisions set out as notes below\] shall apply as if enacted on the day before the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates."
+
+\[The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under section 1621 of Title 50, War and National Defense.\]
+
 #### Effective and Termination Dates of 2020 Amendment
 
-Pub. L. 116–260, div. N, title II, §235(b), Dec. 27, 2020, 134 Stat. 1959, provided that: "The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) \[amending this section\]—
+Pub. L. 116–260, div. N, title II, §235(b), Dec. 27, 2020, 134 Stat. 1959, as amended by Pub. L. 118–159, div. E, title LVII, §5701(a)(1), Dec. 23, 2024, 138 Stat. 2461, provided that: "The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) \[amending this section\] shall take effect 7 days after the date of enactment of the Continued Assistance to Rail Workers Act of 2020 \[Dec. 27, 2020\]."
 
-&emsp;"(1) shall take effect 7 days after the date of the enactment of this Act \[Dec. 27, 2020\]; and
-
-&emsp;"(2) shall apply only to obligations incurred during the period beginning on the effective date described in paragraph (1) and ending on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act \[Pub. L. 94–412\] (50 U.S.C. 1601 et seq.) terminates." \[The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under section 1621 of Title 50, War and National Defense.\]
-
-\[For definition of "coronavirus" as used in section 235(b) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.\]
-
-Pub. L. 116–260, div. N, title II, §235(c), Dec. 27, 2020, 134 Stat. 1959, provided that: "The amendments made by subsection (a) \[amending this section\] shall be repealed on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act \[Pub. L. 94–412\] (50 U.S.C. 1601 et seq.) terminates." \[The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under section 1621 of Title 50, War and National Defense.\]
-
-\[For definition of "coronavirus" as used in section 235(c) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.\]
+Pub. L. 116–260, div. N, title II, §235(c), Dec. 27, 2020, 134 Stat. 1959, which provided that the amendments made by section 235(a) of Pub. L. 116–260 to this section would be repealed 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act terminated, was repealed by Pub. L. 118–159, div. E, title LVII, §5701(a)(2), Dec. 23, 2024, 138 Stat. 2461. See Effective Date of 2024 Amendment note above.
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 2010 Amendment
 

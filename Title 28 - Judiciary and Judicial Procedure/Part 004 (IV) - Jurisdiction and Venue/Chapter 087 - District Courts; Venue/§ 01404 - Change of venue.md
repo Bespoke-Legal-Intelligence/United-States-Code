@@ -22,7 +22,7 @@ Subsection (a) was drafted in accordance with the doctrine of forum non convenie
 
 Sections 143, 172, 177, and 181 of title 28, U.S.C., 1940 ed., relating to the district courts of Arizona, Montana, New Mexico, and Ohio, contained special provisions similar to subsection (b), applicable to those States. To establish uniformity, the general language of such subsection has been drafted and the special provisions of those sections omitted.
 
-Subsection (b) is based upon section 163 of title 28, U.S.C., 1940 ed., which applied only to the district of Maine. This revised subsection extends to all judicial districts and permits transfer of cases between divisions. Criminal cases may be transferred pursuant toRules 19–21 of the new Federal Rules of Criminal Procedure, and the criminal provisions of said section 163 are therefore omitted.
+Subsection (b) is based upon section 163 of title 28, U.S.C., 1940 ed., which applied only to the district of Maine. This revised subsection extends to all judicial districts and permits transfer of cases between divisions. Criminal cases may be transferred pursuant to Rules 19–21 of the new Federal Rules of Criminal Procedure, and the criminal provisions of said section 163 are therefore omitted.
 
 #### <b>Editorial Notes</b>
 

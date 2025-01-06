@@ -8,7 +8,7 @@ In General.—The Secretary shall carry out a program, to be known as the "Solid
 
 &emsp;(2) systemically integrate and coordinate efforts to assist veterans, including efforts—
 
-&emsp;&emsp;(A) to proactively reach out to newly separated veterans to inform them of their eligibility for programs of and benefits provided by the Department; and
+&emsp;&emsp;(A) to proactively reach out to newly separated veterans to inform them of their eligibility for programs of and benefits provided by the Department, including how to enroll in the system of annual patient enrollment established and operated under section 1705 of this title and the ability to seek care and services under sections 1703 and 1710 of this title; and
 
 &emsp;&emsp;(B) to connect veterans in crisis to resources that address their immediate needs.
 
@@ -44,5 +44,11 @@ Activities of the Solid Start Program.—(1) The Secretary, in coordination with
 
 &emsp;(B) The term "veterans service organization" means an organization recognized by the Secretary for the representation of veterans under section 5902 of this title.
 
-(Added Pub. L. 117–205, §2(a), Oct. 17, 2022, 136 Stat. 2232.)
+(Added Pub. L. 117–205, §2(a), Oct. 17, 2022, 136 Stat. 2232; amended Pub. L. 118–210, title I, §102(b), Jan. 2, 2025, 138 Stat. 2710.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2025</b>—Subsec. (a)(2)(A). Pub. L. 118–210 inserted ", including how to enroll in the system of annual patient enrollment established and operated under section 1705 of this title and the ability to seek care and services under sections 1703 and 1710 of this title" before "; and".
 

@@ -240,7 +240,7 @@ Not later than 1 year after December 17, 2004, the Secretary of Homeland Securit
 
 #### (D) Implementation
 
-&emsp;&emsp;Not later than 2 years after December 26, 2007, the Secretary shall establish a phased-implementation of a biometric-based international registered traveler program in conjunction with the United States Visitor and Immigrant Status Indicator Technology entry and exit system, other pre-screeninginitiatives, and the Visa Waiver Program at United States airports with the highest volume of international travelers.
+&emsp;&emsp;Not later than 2 years after December 26, 2007, the Secretary shall establish a phased-implementation of a biometric-based international registered traveler program in conjunction with the United States Visitor and Immigrant Status Indicator Technology entry and exit system, other pre-screening initiatives, and the Visa Waiver Program at United States airports with the highest volume of international travelers.
 
 #### (E) Participation
 

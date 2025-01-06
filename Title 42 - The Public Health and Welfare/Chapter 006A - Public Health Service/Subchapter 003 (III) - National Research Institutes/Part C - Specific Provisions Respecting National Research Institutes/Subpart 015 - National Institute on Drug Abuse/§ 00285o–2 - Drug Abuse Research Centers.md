@@ -22,7 +22,7 @@ The Director of the Institute may designate National Drug Abuse Research Centers
 
 #### (b) Grants
 
-The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, orrepair of any building. For the purposes of the preceding sentence, the term "construction" has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
+The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term "construction" has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
 
 #### (c) Drug abuse and addiction research
 
@@ -54,7 +54,7 @@ The Director of the Institute shall, under such conditions as the Secretary may 
 
 &emsp;The Director shall promptly disseminate research results under this subsection to Federal, State, and local entities involved in combating drug abuse and addiction.
 
-(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794; Pub. L. 109–482, title I, §103(b)(34), Jan. 15, 2007, 120 Stat. 3688.)
+(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug.26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794; Pub. L. 109–482, title I, §103(b)(34), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### <b>Editorial Notes</b>
 

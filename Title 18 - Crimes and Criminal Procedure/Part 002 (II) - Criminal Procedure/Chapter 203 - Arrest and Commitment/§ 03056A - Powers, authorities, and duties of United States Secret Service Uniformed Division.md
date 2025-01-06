@@ -8,7 +8,7 @@
 
 &emsp;(3) The Treasury Building and grounds.
 
-&emsp;(4) The President, the Vice President (or other officer next in the order of succession to the Office of President), the President-elect, the Vice President-elect, and their immediate families.
+&emsp;(4) The President, the Vice President (or other officer next in the order of succession to the Office of President), the President-elect,the Vice President-elect, and their immediate families.
 
 &emsp;(5) Foreign diplomatic missions located in the metropolitan area of the District of Columbia.
 
@@ -80,7 +80,7 @@ Pub. L. 109–177, title VI, §606, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 #### Conversion to New Salary Schedule
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §905\], Dec. 21, 2000, 114 Stat. 2763, 2763A–306, as amended by Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, provided that:
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §905\], Dec. 21, 2000, 114 Stat. 2763, 2763A–306, as amended by Pub. L.111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, provided that:
 
 "(a)
 
@@ -128,7 +128,7 @@ Adjustment To Take Into Account General Schedule Adjustments During Transition.�
 
 "(f)
 
-Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled 'An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia', approved August4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code)."
+Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled 'An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia', approved August 4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code)."
 
 \[Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) \[div. B, title IX, §905(a)(1)\] of Pub. L. 106–554, set out above, by striking out "the Secretary of Treasury" and all that followed through "United States Secret Service Uniformed Division, and", was executed by striking out "the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and" to reflect the probable intent of Congress.
 

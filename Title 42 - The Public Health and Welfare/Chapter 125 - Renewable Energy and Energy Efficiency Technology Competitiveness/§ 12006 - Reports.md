@@ -54,7 +54,7 @@ Subsec. (b)(1). Pub. L. 102–486, §1202(c)(1), inserted "three-year" before "m
 
 Subsec. (b)(4). Pub. L. 102–486, §2303(b), inserted before period at end "and the plan developed under section 5905 of this title".
 
-Subsec. (b)(5), (6). Pub. L. 102–486, §1202(c)(2), added pars. (5) and (6) and struck out former par. (5) which read as follows: "The plan shall accompany the President's annual budget submission to the Congress."
+Subsec. (b)(5), (6). Pub. L. 102–486, §1202(c)(2), added pars. (5) and (6) and struck out former par. (5) whichread as follows: "The plan shall accompany the President's annual budget submission to the Congress."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

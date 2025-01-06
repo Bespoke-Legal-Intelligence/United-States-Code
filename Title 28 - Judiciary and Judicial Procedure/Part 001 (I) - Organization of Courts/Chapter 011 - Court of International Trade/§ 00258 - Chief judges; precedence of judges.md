@@ -20,7 +20,7 @@
 
 (b) The chief judge shall have precedence and preside at any session of the court which such judge attends. Other judges of the court shall have precedence and preside according to the seniority of their commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age.
 
-(c) If the chief judge desires to be relieved of the duties as chief judge while retaining active status as a judge of the court, the chief judgemay so certify to the Chief Justice of the United States, and thereafter the chief judge of the court shall be such other judge of the court who is qualified to serve or act as chief judge under subsection (a).
+(c) If the chief judge desires to be relieved of the duties as chief judge while retaining active status as a judge of the court, the chief judge may so certify to the Chief Justice of the United States, and thereafter the chief judge of the court shall be such other judge of the court who is qualified to serve or act as chief judge under subsection (a).
 
 (d) If a chief judge is temporarily unable to perform the duties as such, such duties shall be performed by the judge of the court in active service, able and qualified to act, who is next in precedence.
 

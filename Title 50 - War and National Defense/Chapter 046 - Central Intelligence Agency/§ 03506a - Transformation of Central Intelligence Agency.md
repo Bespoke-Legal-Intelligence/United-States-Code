@@ -36,7 +36,7 @@ Pub. L. 108–458, title I, §1011(b), Dec. 17, 2004, 118 Stat. 3661, provided t
 
 &emsp;"(1) the human intelligence officers of the intelligence community have performed admirably and honorably in the face of great personal dangers;
 
-&emsp;"(2) during an extended period of unprecedented investment and improvements in technical collection means, the human intelligence capabilities of the United States have not received the necessary and commensurate priorities;
+&emsp;"(2) during an extended period of unprecedented investment and improvements in technical collection means, the human intelligence capabilities of theUnited States have not received the necessary and commensurate priorities;
 
 &emsp;"(3) human intelligence is becoming an increasingly important capability to provide information on the asymmetric threats to the national security of the United States;
 

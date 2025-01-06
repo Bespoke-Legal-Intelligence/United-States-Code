@@ -30,7 +30,7 @@ Discharge.—When the director of the facility in which a person is hospitalized
 
 &emsp;(2) his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall—
 
-&emsp;&emsp;(A) order that he be conditionally discharged under a prescribed regimen of medical, psychiatric, or psychological care or treatment that has been prepared for him, that has been certified to the court as appropriate by the director of the facility in which he is committed, and that has been found by the court to be appropriate; and
+&emsp;&emsp;(A) order that he be conditionally discharged under a prescribed regimen of medical, psychiatric, or psychological care ortreatment that has been prepared for him, that has been certified to the court as appropriate by the director of the facility in which he is committed, and that has been found by the court to be appropriate; and
 
 &emsp;&emsp;(B) order, as an explicit condition of release, that he comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment.
 

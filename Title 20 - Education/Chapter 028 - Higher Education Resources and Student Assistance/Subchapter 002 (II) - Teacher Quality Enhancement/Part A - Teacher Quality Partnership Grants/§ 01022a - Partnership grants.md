@@ -112,7 +112,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(III) possess skills to analyze student academic achievement data and other measures of student learning, and use such data and measures to improve classroom instruction;
 
-&emsp;&emsp;&emsp;&emsp;(IV) possess teaching skills and an understanding of effective instructional strategies across all applicable contentareas that enable general education and special education teachers and early childhood educators to—
+&emsp;&emsp;&emsp;&emsp;(IV) possess teaching skills and an understanding of effective instructional strategies across all applicable content areas that enable general education and special education teachers and early childhood educators to—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the specific learning needs of all students, including students with disabilities, students who are limited English proficient, students who are gifted and talented, students with low literacy levels and, as applicable, children in early childhood education programs; and
 
@@ -244,7 +244,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(vi) The development of admissions goals and priorities—
 
-&emsp;&emsp;&emsp;&emsp;(I) that are aligned with the hiring objectives of the local educational agency partnering with the program, as well as the instructional initiatives and curriculum of such agency, in exchange for a commitment by such agency to hire qualified graduates from the teaching residency program; and
+&emsp;&emsp;&emsp;&emsp;(I) that are aligned with the hiring objectives of the local educational agencypartnering with the program, as well as the instructional initiatives and curriculum of such agency, in exchange for a commitment by such agency to hire qualified graduates from the teaching residency program; and
 
 &emsp;&emsp;&emsp;&emsp;(II) which may include consideration of applicants who reflect the communities in which they will teach as well as consideration of individuals from underrepresented populations in the teaching profession.
 
@@ -302,7 +302,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (II) Other terms and conditions
 
-&emsp;&emsp;&emsp;&emsp;Any other terms and conditions specified by the eligible partnership may include reasonable provisions for pro-rata repayment of the stipend or salary described in clause (i) or for deferral of a teaching resident's service obligation required by clause (iii), on grounds ofhealth, incapacitation, inability to secure employment in a school served by the eligible partnership, being called to active duty in the Armed Forces of the United States, or other extraordinary circumstances.
+&emsp;&emsp;&emsp;&emsp;Any other terms and conditions specified by the eligible partnership may include reasonable provisions for pro-rata repayment of the stipend or salary described in clause (i) or for deferral of a teaching resident's service obligation required by clause (iii), on grounds of health, incapacitation, inability to secure employment in a school served by the eligible partnership, being called to active duty in the Armed Forces of the United States, or other extraordinary circumstances.
 
 #### (III) Use of repayments
 
@@ -378,7 +378,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (g) Partnership with digital education content developer
 
-An eligible partnership that receives a grant under this section may use grant funds providedto carry out the activities described in subsection (d) or (e), or both, to partner with a television public broadcast station, as defined in section 397(6) of title 47, or another entity that develops digital educational content, for the purpose of improving the quality of pre-baccalaureate teacher preparation programs or to enhance the quality of preservice training for prospective teachers.
+An eligible partnership that receives a grant under this section may use grant funds provided to carry out the activities described in subsection (d) or (e), or both, to partner with a television public broadcast station, as defined in section 397(6) of title 47, or another entity that develops digital educational content, for the purpose of improving the quality of pre-baccalaureate teacher preparation programs or to enhance the quality of preservice training for prospective teachers.
 
 #### (h) Evaluation and reporting
 

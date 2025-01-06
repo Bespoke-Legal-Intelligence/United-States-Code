@@ -34,7 +34,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(5) The plan shall provide that the State agency will—
 
-&emsp;&emsp;(A) afford an opportunity for a hearing upon request, in accordance with published procedures, to any area agency on aging submitting a plan under this subchapter, to any provider of (or applicant to provide) services;
+&emsp;&emsp;(A) afford an opportunity for a hearing upon request, in accordance with publishedprocedures, to any area agency on aging submitting a plan under this subchapter, to any provider of (or applicant to provide) services;
 
 &emsp;&emsp;(B) issue guidelines applicable to grievance procedures required by section 3026(a)(10) of this title; and
 
@@ -106,7 +106,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(A) identify the number of low-income minority older individuals in the State, including the number of low-income minority older individuals with limited English proficiency; and
 
-&emsp;&emsp;(B) describe the methods used to satisfy the service needs of the low-income minorityolder individuals described in subparagraph (A), including the plan to meet the needs of low-income minority older individuals with limited English proficiency.
+&emsp;&emsp;(B) describe the methods used to satisfy the service needs of the low-income minority older individuals described in subparagraph (A), including the plan to meet the needs of low-income minority older individuals with limited English proficiency.
 
 &emsp;(15) The plan shall provide assurances that, if a substantial number of the older individuals residing in any planning and service area in the State are of limited English-speaking ability, then the State will require the area agency on aging for each such planning and service area—
 
@@ -164,7 +164,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) to provide multigenerational activities, such as opportunities for older individuals to serve as mentors or advisers in child care, youth day care, educational assistance, at-risk youth intervention, juvenile delinquency treatment, and family support programs.
 
-&emsp;(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X, tocomprehensive counseling services, and to legal assistance.
+&emsp;(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X, to comprehensive counseling services, and to legal assistance.
 
 &emsp;(25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
@@ -218,7 +218,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 &emsp;(3) in the administration of the plan there is a failure to comply substantially with any such provision of subsection (a),
 
-> the Assistant Secretary shall notify such State agency that no further payments from its allotments under section 3024 of this title and section 3028 of this title will be made to the State (or, in the Assistant Secretary's discretion, that further payments to the State will be limited to projects under or portions of the State plan not affected by such failure), until the Assistant Secretary is satisfied that there will no longerbe any failure to comply. Until the Assistant Secretary is so satisfied, no further payments shall be made to such State from its allotments under section 3024 of this title and section 3028 of this title (or payments shall be limited to projects under or portions of the State plan not affected by such failure). The Assistant Secretary shall, in accordance with regulations the Assistant Secretary shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency or political subdivision of such State submitting an approved plan in accordance with the provisions of this section. Any such payment shall be matched in the proportions specified in section 3024 of this title.
+> the Assistant Secretary shall notify such State agency that no further payments from its allotments under section 3024 of this title and section 3028 of this title will be made to the State (or, in the Assistant Secretary's discretion, that further payments to the State will be limited to projects under or portions of the State plan not affected by such failure), until the Assistant Secretary is satisfied that there will no longer be any failure to comply. Until the Assistant Secretary is so satisfied, no further payments shall be made to such State from its allotments under section 3024 of this title and section 3028 of this title (or payments shall be limited to projects under or portions of the State plan not affected by such failure). The Assistant Secretary shall, in accordance with regulations the Assistant Secretary shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency or political subdivision of such State submitting an approved plan in accordance with the provisions of this section. Any such payment shall be matched in the proportions specified in section 3024 of this title.
 
 #### (e) Appeal
 
@@ -232,13 +232,13 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 Neither a State, nor a State agency, may require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
 
-(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §306, title VIII, §801(c)(4), Nov. 13, 2000, 114 Stat. 2242, 2292; Pub. L. 109–365, title III, §307, Oct. 17, 2006, 120 Stat. 2544; Pub. L. 114–144, §4(e), Apr. 19, 2016, 130 Stat. 339; Pub. L. 116–131, title I, §118(c), title II, §§206(2), 207(b), Mar. 25, 2020, 134 Stat. 247, 256, 257.)
+(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138,140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §306, title VIII, §801(c)(4), Nov. 13, 2000, 114 Stat. 2242, 2292; Pub. L. 109–365, title III, §307, Oct. 17, 2006, 120 Stat. 2544; Pub. L. 114–144, §4(e), Apr. 19, 2016, 130 Stat. 339; Pub. L. 116–131, title I, §118(c), title II, §§206(2), 207(b), Mar. 25, 2020, 134 Stat. 247, 256, 257.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Prior Provisions
 
@@ -314,7 +314,7 @@ Subsec. (a)(19). Pub. L. 106–501, §306(9), (17), redesignated par. (30) as (1
 
 Subsec. (a)(20). Pub. L. 106–501, §306(17), redesignated par. (32) as (20). Former par. (20) redesignated (14).
 
-Subsec. (a)(21). Pub. L. 106–501, §306(11), (18), added par. (21) and struck out former par. (21) which read asfollows: "The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter."
+Subsec. (a)(21). Pub. L. 106–501, §306(11), (18), added par. (21) and struck out former par. (21) which read as follows: "The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter."
 
 Subsec. (a)(22). Pub. L. 106–501, §801(c)(4)(A), substituted "3026(a)(8)" for "3026(a)(20)".
 
@@ -528,7 +528,7 @@ Subsec. (a)(20). Pub. L. 100–175, §182(k)(20), inserted "The plan shall", and
 
 Subsec. (a)(20)(A). Pub. L. 100–175, §155(e)(2)(A), substituted "sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title" for "section 3026(a)(2)(A) of this title".
 
-Subsec. (a)(21). Pub. L. 100–175, §129(e), amended par. (21) generally. Prior to amendment, par. (21) read as follows: "provide that the State agency, from funds allotted under section 3024(a) of this title for part B will use an amount equal to an amount not less than 1 percent of such allotment or $20,000, whichever is greater, for the purpose of carrying out the provisions of clause (12), except that (A) the requirement of this clause shall not apply in any fiscal year in which a State spends from State or local sources an amount equal to the amount required to be spent by this clause; and (B) the provisions of this clause shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands."
+Subsec. (a)(21). Pub. L. 100–175, §129(e), amended par. (21) generally. Prior to amendment, par. (21) read as follows: "provide that the State agency, from funds allotted under section 3024(a) of this title for part B will use an amount equal to an amount not less than 1 percent of such allotment or $20,000, whichever is greater, for the purpose of carrying out the provisions of clause (12), except that (A) the requirement of this clauseshall not apply in any fiscal year in which a State spends from State or local sources an amount equal to the amount required to be spent by this clause; and (B) the provisions of this clause shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands."
 
 Subsec. (a)(22). Pub. L. 100–175, §130(b), added par. (22).
 

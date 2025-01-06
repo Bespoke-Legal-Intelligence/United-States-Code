@@ -2,7 +2,7 @@
 
 #### (a) Report of the Attorney General
 
-Not later than 1 year after October 13, 2008, and annually thereafter, the Attorney General shall submit a report to Congress on actions taken to carry out sections 30103 to 30106 of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annual reports shall be submitted by May 1st of each fiscal year thereafter. The report required under this subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include the following:
+Not later than 1 year after October 13, 2008, and annually thereafter, the Attorney Generalshall submit a report to Congress on actions taken to carry out sections 30103 to 30106 of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annual reports shall be submitted by May 1st of each fiscal year thereafter. The report required under this subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include the following:
 
 &emsp;(1) With respect to grants issued under section 30103 of this title, the number and identity of State and local law enforcement grant applicants, the number of grants issued, the dollar value of each grant, including a break down of such value showing how the recipient used the funds, the specific purpose of each grant, and the reports from recipients of the grants on the efficacy of the program supported by the grant. The Department of Justice shall use the information provided by the grant recipients to produce a statement for each individual grant. Such statement shall state whether each grantee has accomplished the purposes of the grant as established in section 30103(b) of this title. Those grantees not in compliance with the requirements of sections 30103 to 30106 of this title shall be subject, but not limited to, sanctions as described in the Financial Guide issued by the Office of Justice Programs at the Department of Justice.
 
@@ -58,7 +58,7 @@ Not later than 1 year after October 13, 2008, and annually thereafter, the Attor
 
 #### (b) Initial report of the Attorney General
 
-The first report required to be submitted by the Attorney General under subsection (a) shall include a summary of the efforts, activities, and resources the Department of Justice has allocated in the 5 years prior to October 13, 2008, as well as the 1-year period following such date, to the enforcement, investigation, and prosecution of intellectual property crimes, including—
+The first report required to be submitted by the Attorney General under subsection (a) shall include a summary of the efforts, activities, and resources the Department of Justice has allocated in the 5 years prior to October 13, 2008, aswell as the 1-year period following such date, to the enforcement, investigation, and prosecution of intellectual property crimes, including—
 
 &emsp;(1) a review of the policies and efforts of the Department of Justice related to the prevention and investigation of intellectual property crimes, including efforts at the Office of Justice Programs, the Criminal Division of the Department of Justice, the Executive Office of United States Attorneys, the Office of the Attorney General, the Office of the Deputy Attorney General, the Office of Legal Policy, and any other agency or bureau of the Department of Justice whose activities relate to intellectual property;
 
@@ -126,7 +126,7 @@ The first report required to be submitted by the Director of the Federal Bureau 
 
 &emsp;&emsp;&emsp;(iii) the sentence and the statutory maximum for such crime, as well as the average sentence imposed for such crime; and
 
-&emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution ofintellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
+&emsp;(4) a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
 
 (Pub. L. 110–403, title IV, §404, Oct. 13, 2008, 122 Stat. 4274.)
 

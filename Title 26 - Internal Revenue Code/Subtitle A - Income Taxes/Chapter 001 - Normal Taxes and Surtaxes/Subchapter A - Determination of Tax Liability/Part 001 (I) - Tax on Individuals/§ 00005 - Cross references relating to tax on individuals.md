@@ -74,7 +74,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 Amendment by section 401(b)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 3 of this title.
 
-Pub. L. 95–600, title IV, §421(g), Nov. 6, 1978, 92 Stat. 2877, provided that: "The amendments made by this section \[enacting section 55 of this title and amending this section and sections 57, 58, 443, 511, 666, 871, 877, 904, 6015, 6362, and 6654 of this title\] shall apply to taxable years beginning after December 31, 1978, except that the amendment made by paragraph (1) of subsection (b) \[amending section 57 of this title\] shall apply to sales and exchanges made after July 26, 1978, in taxable years ending after such date."
+Pub. L. 95–600, title IV, §421(g), Nov. 6, 1978, 92 Stat. 2877, provided that: "The amendments made by this section \[enacting section 55 of this title and amending this section and sections 57, 58, 443, 511, 666, 871, 877, 904, 6015, 6362, and 6654 of this title\] shall apply to taxable years beginning after December 31, 1978, except that the amendment made by paragraph (1) of subsection (b)\[amending section 57 of this title\] shall apply to sales and exchanges made after July 26, 1978, in taxable years ending after such date."
 
 #### Effective Date of 1969 Amendment
 
@@ -92,7 +92,7 @@ Pub. L. 88–272, title II, §232(g), Feb. 26, 1964, 78 Stat. 112, as amended by
 
 "(1)
 
-General rule.—Except as provided in paragraph (2), the amendments made by this section \[enactingsections 1301 to 1305, amending this section and sections 4, 72, 144, 402, 403, 6511, and omitting former sections 1301 to 1307 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.
+General rule.—Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1301 to 1305, amending this section and sections 4, 72, 144, 402, 403, 6511, and omitting former sections 1301 to 1307 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.
 
 "(2)
 

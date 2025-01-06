@@ -98,7 +98,7 @@ A collaborative applicant designated as a high-performing community under this s
 
 #### References in Text
 
-The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to HousingAct of 2009, referred to in subsec. (a)(3), is the effective date under section 1503 of title V of div. B of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (a)(3), is the effective date under section 1503 of title V of div. B of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Prior Provisions
 

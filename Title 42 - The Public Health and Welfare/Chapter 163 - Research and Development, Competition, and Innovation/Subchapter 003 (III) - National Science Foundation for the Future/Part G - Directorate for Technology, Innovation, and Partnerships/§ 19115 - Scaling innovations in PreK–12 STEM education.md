@@ -50,7 +50,7 @@ Each award made under this section shall be for a duration of no more than 5 yea
 
 #### (g) Annual meeting
 
-The Director shall encourage and facilitate an annual meeting of the Centers, as appropriate,to foster collaboration among the Centers and to further disseminate the results of the Centers' supported activities.
+The Director shall encourage and facilitate an annual meeting of the Centers, as appropriate, to foster collaboration among the Centers and to further disseminate the results of the Centers' supported activities.
 
 #### (h) Existing programs
 

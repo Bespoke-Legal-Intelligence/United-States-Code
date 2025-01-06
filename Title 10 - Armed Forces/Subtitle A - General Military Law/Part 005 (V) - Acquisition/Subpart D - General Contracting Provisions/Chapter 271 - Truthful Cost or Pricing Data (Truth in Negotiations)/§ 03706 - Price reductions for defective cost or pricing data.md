@@ -60,7 +60,7 @@ The text of subsec. (e) of section 2306a of this title, which was transferred to
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1831(g)(1), transferred subsec. (e) of section 2306a of this title to this section, struckout subsec. (e) designation and heading "Price Reductions for Defective Cost or Pricing Data" at beginning, and redesignated pars. (1) to (4) as subsecs. (a) to (d), resepectively.
+<b>2021</b>—Pub. L. 116–283, §1831(g)(1), transferred subsec. (e) of section 2306a of this title to this section, struck out subsec. (e) designation and heading "Price Reductions for Defective Cost or Pricing Data" at beginning, and redesignated pars. (1) to (4) as subsecs. (a) to (d), resepectively.
 
 Subsec. (a). Pub. L. 116–283, §1831(g)(2), after redesignation of section 2306a(e)(1) of this title as subsec. (a) of this section, inserted subsec. heading, redesignated subpar. (A) as par. (1), inserted heading, and substituted "section 3702(b) of this title" for "subsection (a)(2)", and redesignated subpar. (B) as par. (2), inserted heading, and substituted "of this chapter" for "of this section".
 

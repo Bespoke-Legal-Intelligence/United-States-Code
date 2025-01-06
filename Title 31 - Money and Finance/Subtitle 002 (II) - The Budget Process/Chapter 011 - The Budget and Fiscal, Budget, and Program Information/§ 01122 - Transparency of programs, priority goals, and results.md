@@ -28,13 +28,15 @@ Website and program inventory.—The Director of the Office of Management and Bu
 
 &emsp;&emsp;&emsp;(ii) for each program identified in the program inventory, the information required under paragraph (3);
 
-&emsp;&emsp;(C) make the information in the program inventory required under subparagraph (B) available as an open Government data asset; and
+&emsp;&emsp;(C) make the information required to be included on the single website under subparagraph (A) and the information in the program inventory required under subparagraph (B) available as an open Government data asset;
 
 &emsp;&emsp;(D) at a minimum—
 
 &emsp;&emsp;&emsp;(i) update the information required to be included on the single website under subparagraph (A) on a quarterly basis; and
 
-&emsp;&emsp;&emsp;(ii) update the program inventory required under subparagraph (B) on an annual basis.
+&emsp;&emsp;&emsp;(ii) update the program inventory required under subparagraph (B) on an annual basis; and
+
+&emsp;&emsp;(E) ensure that the website described in subparagraph (A) conforms with the requirements for websites under section 3(a) of the 21st Century Integrated Digital Experience Act (44 U.S.C. 3501 note).
 
 &emsp;(3)
 
@@ -48,7 +50,7 @@ Information.—Information for each program identified in the program inventory 
 
 &emsp;&emsp;(D) for each program activity that is part of a program—
 
-&emsp;&emsp;&emsp;(i) a description of the purposes of the program activity and the contribution of the program activity to the mission and goals of the agency;
+&emsp;&emsp;&emsp;(i) a description of the purposes of the program activity and the contribution ofthe program activity to the mission and goals of the agency;
 
 &emsp;&emsp;&emsp;(ii) a consolidated view for the current fiscal year and each of the 2 fiscal years before the current fiscal year of—
 
@@ -84,7 +86,11 @@ Information.—Information for each program identified in the program inventory 
 
 Archiving.—The Director of the Office of Management and Budget shall—
 
-&emsp;&emsp;(A) archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and
+&emsp;&emsp;(A) archive and preserve—
+
+&emsp;&emsp;&emsp;(i) the information included in the program inventory required under paragraph (2)(B), including the information described in paragraph (3), after the end of the period during which that information is made available; and
+
+&emsp;&emsp;&emsp;(ii) the information included in the single website under paragraph (2)(A) in accordance with subsections (b) and (c) after the end of the period during which such information is made available on the website; and
 
 &emsp;&emsp;(B) make information archived in accordance with subparagraph (A) publicly available as an open Government data asset.
 
@@ -122,7 +128,11 @@ Transparency of Agency Priority Goals and Results.—The head of each agency req
 
 &emsp;&emsp;(E) how the agency has compensated for such limitations if needed to reach the required level of accuracy;
 
-&emsp;(6) the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;
+&emsp;(6) the results achieved toward the agency priority goals established under section 1120(b)—
+
+&emsp;&emsp;(A) during the most recent quarter and overall trend data for each quarter compared to the planned level of performance; and
+
+&emsp;&emsp;(B) at the end of the 2-year agency priority goal period compared to the overall planned level of performance;
 
 &emsp;(7) an assessment of whether relevant organizations, program activities, regulations, policies, and other activities are contributing as planned;
 
@@ -142,7 +152,11 @@ Transparency of Federal Government Priority Goals and Results.—The Director of
 
 &emsp;(4) an identification of the lead Government official for each Federal Government performance goal;
 
-&emsp;(5) the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;
+&emsp;(5) the results achieved toward the priority goals developed under section 1120(a)(1)—
+
+&emsp;&emsp;(A) during the most recent quarter and overall trend data for each quarter compared to the planned level of performance; and
+
+&emsp;&emsp;(B) at the end of the 4-year Federal Government priority goal period compared to the overall planned level of performance;
 
 &emsp;(6) an identification of the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities that contribute to each Federal Government priority goal;
 
@@ -156,17 +170,29 @@ Transparency of Federal Government Priority Goals and Results.—The Director of
 
 Information.—The information made available under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
 
-(Added Pub. L. 111–352, §7, Jan. 4, 2011, 124 Stat. 3876; amended Pub. L. 116–283, div. H, title XCVI, §9601(a), (c)(1), Jan. 1, 2021, 134 Stat. 4823, 4827.)
+(Added Pub. L. 111–352, §7, Jan. 4, 2011, 124 Stat. 3876; amended Pub. L. 116–283, div. H, title XCVI, §9601(a), (c)(1), Jan. 1, 2021, 134 Stat. 4823, 4827; Pub. L. 118–190, §3, Dec. 23, 2024, 138 Stat. 2654.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+Section 3(a) of the 21st Century Integrated Digital Experience Act, referred to in subsec. (a)(2)(E), is section 3(a) of Pub. L. 115–336, which is set out in a note under section 3501 of Title 44, Public Printing and Documents.
 
 The Foundations for Evidence-Based Policymaking Act of 2018, referred to in subsec. (a)(3)(D)(iii), is Pub. L. 115–435, Jan. 14, 2019, 132 Stat. 5529. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under section 101 of Title 5, Government Organization and Employees, and Tables.
 
 Section 2(b) of the Federal Funding Accountability and Transparency Act of 2006, referred to in subsec. (a)(3)(D)(vii)(VI), is section 2(b) of Pub. L. 109–282, which is set out in a note under section 6101 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(C). Pub. L. 118–190, §3(1)(A)(i)(I), inserted "required to be included on the single website under subparagraph (A) and the information" before "in the program inventory".
+
+Subsec. (a)(2)(E). Pub. L. 118–190, §3(1)(A)(i)(II)–(iii), added subpar. (E).
+
+Subsec. (a)(4)(A). Pub. L. 118–190, §3(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: "archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and".
+
+Subsec. (b)(6). Pub. L. 118–190, §3(2), added par. (6) and struck out former par. (6) which read as follows: "the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;".
+
+Subsec. (c)(5). Pub. L. 118–190, §3(3), added par. (5) and struck out former par. (5) which read as follows: "the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;".
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §9601(a)(2), added par. (1). Former par. (1) redesignated (2).
 

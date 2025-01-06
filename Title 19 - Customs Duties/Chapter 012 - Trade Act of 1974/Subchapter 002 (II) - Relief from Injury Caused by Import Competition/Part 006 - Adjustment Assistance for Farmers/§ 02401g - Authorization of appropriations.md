@@ -28,7 +28,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
-Subsec. (a). Pub. L. 114–27, §§403(d)(3), 406, temporarily substituted "fiscal years 2015 through 2021" for "fiscal years 2012 and 2013, and $22,500,000 for the 3-month period beginning on October 1, 2013, and endingon December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
+Subsec. (a). Pub. L. 114–27, §§403(d)(3), 406, temporarily substituted "fiscal years 2015 through 2021" for "fiscal years 2012 and 2013, and $22,500,000 for the 3-month period beginning on October 1, 2013, and ending on December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 

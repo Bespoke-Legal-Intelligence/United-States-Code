@@ -70,7 +70,7 @@ Employer alert of positive test result.—In establishing the clearinghouse, the
 
 &emsp;(4)
 
-Archive capability.—In establishing the clearinghouse, the Secretary shall develop a process for archiving all clearinghouse recordsfor the purposes of auditing and evaluating the timeliness, accuracy, and completeness of data in the clearinghouse.
+Archive capability.—In establishing the clearinghouse, the Secretary shall develop a process for archiving all clearinghouse records for the purposes of auditing and evaluating the timeliness, accuracy, and completeness of data in the clearinghouse.
 
 &emsp;(5)
 
@@ -212,7 +212,7 @@ Data quality and security standards for reporting and releasing.—The Secretary
 
 &emsp;&emsp;(B) the release of data from the clearinghouse is timely, accurate, and released to the appropriate authorized user under this section; and
 
-&emsp;&emsp;(C) an individual with a record in the clearinghouse has a cause of action for any inappropriate use of information included in the clearinghouse.
+&emsp;&emsp;(C) an individual with a record in the clearinghouse has a cause of action for anyinappropriate use of information included in the clearinghouse.
 
 &emsp;(6)
 

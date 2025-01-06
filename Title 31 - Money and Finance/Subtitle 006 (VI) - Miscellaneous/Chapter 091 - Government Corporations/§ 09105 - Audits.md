@@ -126,7 +126,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office
 
-Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: "That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government AccountabilityOffice then available and remain available until expended".
+Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: "That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
 

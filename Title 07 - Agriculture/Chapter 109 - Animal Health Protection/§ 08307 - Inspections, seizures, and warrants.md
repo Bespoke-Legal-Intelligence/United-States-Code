@@ -8,7 +8,7 @@ The activities authorized by this section shall be carried out consistent with g
 
 The Secretary may stop and inspect, without a warrant, any person or means of conveyance moving—
 
-&emsp;(1) into the United States, to determine whether the person or means of conveyance iscarrying any animal or article regulated under this chapter;
+&emsp;(1) into the United States, to determine whether the person or means of conveyance is carrying any animal or article regulated under this chapter;
 
 &emsp;(2) in interstate commerce, on probable cause to believe that the person or means of conveyance is carrying any animal or article regulated under this chapter; or
 

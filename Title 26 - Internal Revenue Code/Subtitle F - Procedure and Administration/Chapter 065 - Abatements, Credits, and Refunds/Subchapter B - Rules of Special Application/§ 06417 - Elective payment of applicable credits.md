@@ -36,7 +36,7 @@ The term "applicable credit" means each of the following:
 
 #### (1) In general
 
-&emsp;In the case of any applicable credit determined with respect to any facility or property held directly by a partnership or S corporation, any election under subsection (a) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such subsection (in such manner as the Secretary may provide) with respect to such credit—
+&emsp;In the case of any applicable credit determined with respect to any facility or propertyheld directly by a partnership or S corporation, any election under subsection (a) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such subsection (in such manner as the Secretary may provide) with respect to such credit—
 
 &emsp;&emsp;(A) the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;No election may be made under subparagraph (B), (C), or (D) with respect to any taxable year beginning after December 31, 2032.
+&emsp;&emsp;&emsp;No election may be made under subparagraph (B), (C), or (D) with respect to anytaxable year beginning after December 31, 2032.
 
 #### (2) Application
 
@@ -260,7 +260,7 @@ The date of the enactment of this section, referred to in subsec. (d)(3)(A)(i)(I
 
 #### Prior Provisions
 
-A prior section 6417, act Aug. 16, 1954, ch. 736, 68A Stat. 801, related to a tax credit or refund to any person who has sold to a State, or a political subdivision thereof, any article containing any oil, combination, or mixture, upon the processing of which a tax has been paid under former section 4511, and to a refund to the exporter of the tax paid under former subchapter B of chapter 37, prior to repeal by Pub. L. 94–455, title XIX, §1906(a)(25), (d)(1), Oct. 4, 1976, 90 Stat. 1827, 1835, effective on the first day of the first month beginning more than 90 days after Oct. 4, 1976.
+A prior section 6417, act Aug. 16, 1954, ch. 736, 68A Stat. 801, related to a tax credit or refund to any person who has sold to a State, or a political subdivision thereof, any article containing any oil, combination, or mixture, upon the processing of which a tax has been paid under former section 4511, and to a refund to the exporter of the tax paid under former subchapter B ofchapter 37, prior to repeal by Pub. L. 94–455, title XIX, §1906(a)(25), (d)(1), Oct. 4, 1976, 90 Stat. 1827, 1835, effective on the first day of the first month beginning more than 90 days after Oct. 4, 1976.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -18,7 +18,7 @@ Convening.—(1) Any special selection review board convened under this section 
 
 (c)
 
-Information Considered.—(1) In reviewing a person and recommending whether the recommendation for promotion of the personshould be sustained under this section, a special selection review board convened under this section shall be furnished and consider the following:
+Information Considered.—(1) In reviewing a person and recommending whether the recommendation for promotion of the person should be sustained under this section, a special selection review board convened under this section shall be furnished and consider the following:
 
 &emsp;(A) The record and information concerning the person furnished in accordance with section 14107(a)(2) of this title to the promotion board that recommended the person for promotion.
 
@@ -58,11 +58,11 @@ Consideration.—(1) In considering the record and information on a person under
 
 (4) The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
 
-&emsp;(A) ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+&emsp;(A) ranks in the upper half of an order of merit created by the special selection review board or ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
 
 &emsp;(B) is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
 
-(5) A recommendation for promotion of a person may be sustained under this section only by a vote of a majority of the members of the special selection review board.
+(5) A recommendation for promotion of a person may be sustained under this section only bya vote of a majority of the members of the special selection review board.
 
 (6) If a special selection review board does not sustain a recommendation for promotion of a person under this section, the person shall be considered to have failed of selection for promotion.
 
@@ -76,7 +76,7 @@ Reports.—(1) Each special selection review board convened under this section s
 
 Appointment of Persons.—(1) If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with section 14308 of this title.
 
-(2) A person who is appointed to the next higher grade as described in paragraph (1) shall, uponthat appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the reserve active-status list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
+(2) A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the reserve active-status list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
 
 (g)
 
@@ -88,11 +88,13 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 Promotion Board Defined.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 14101(a) of this title.
 
-(Added Pub. L. 116–283, div. A, title V, §505(b)(1), Jan. 1, 2021, 134 Stat. 3569; amended Pub. L. 118–31, div. A, title V, §507(b), Dec. 22, 2023, 137 Stat. 242.)
+(Added Pub. L. 116–283, div. A, title V, §505(b)(1), Jan. 1, 2021, 134 Stat. 3569; amended Pub. L. 118–31, div. A, title V, §507(b), Dec. 22, 2023, 137 Stat. 242; Pub. L. 118–159, div. A, title V, §506(b), Dec. 23, 2024, 138 Stat. 1871.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(4)(A). Pub. L. 118–159 inserted "ranks in the upper half of an order of merit created by the special selection review board or" before "ranks on an order of merit created by the special selection review board as better qualified".
 
 <b>2023</b>—Subsec. (a)(2)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under section 14308(a) of this title."
 

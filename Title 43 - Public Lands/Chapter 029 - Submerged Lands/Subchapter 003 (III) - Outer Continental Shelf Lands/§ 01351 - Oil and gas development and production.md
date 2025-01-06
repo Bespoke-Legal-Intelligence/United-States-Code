@@ -70,7 +70,7 @@ If approval of a development and production plan is not found to be a major Fede
 
 &emsp;(i) under subparagraph (C) or (D) of paragraph (1); or
 
-&emsp;(ii) under subparagraph (B) of paragraph (1) with respect to a lease issued before approval of a coastal zone management program pursuant to the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\], and such approval occurs after the lessee has submitted a plan to the Secretary,
+&emsp;(ii) under subparagraph (B) of paragraph (1) with respect to a lease issued before approvalof a coastal zone management program pursuant to the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\], and such approval occurs after the lessee has submitted a plan to the Secretary,
 
 > the term of the lease shall be duly extended, and at any time within five years after such disapproval, the lessee may reapply for approval of the same or a modified plan, and the Secretary shall approve, disapprove, or require modifications of such plan in accordance with this subsection.
 

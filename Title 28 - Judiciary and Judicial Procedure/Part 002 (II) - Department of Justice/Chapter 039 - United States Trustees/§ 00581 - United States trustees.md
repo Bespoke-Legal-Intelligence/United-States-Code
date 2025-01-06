@@ -42,7 +42,7 @@
 
 &emsp;(20) The judicial districts established for the States of Kansas, New Mexico, and Oklahoma.
 
-&emsp;(21) The judicial districts established for the States of Alabama, Florida, and Georgia and for the Commonwealth of Puerto Rico and the Virgin Islands of the United States.
+&emsp;(21) The judicial districts established for the States of Alabama, Florida, and Georgia andfor the Commonwealth of Puerto Rico and the Virgin Islands of the United States.
 
 (b) Each United States trustee shall be appointed for a term of five years. On the expiration of his term, a United States trustee shall continue to perform the duties of his office until his successor is appointed and qualifies.
 
@@ -98,7 +98,7 @@ Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of t
 
 "(b)
 
-Term of Office.—Notwithstanding section 581(b) of title 28, United States Code, as in effect before the effective date of this Act, the term of office of any United States trustee serving in such office on the dateof the enactment of this Act \[Oct. 27, 1986\] shall expire—
+Term of Office.—Notwithstanding section 581(b) of title 28, United States Code, as in effect before the effective date of this Act, the term of office of any United States trustee serving in such office on the date of the enactment of this Act \[Oct. 27, 1986\] shall expire—
 
 &emsp;"(1) 2 years after the expiration date of such term of office under such section, as so in effect, or
 
@@ -326,7 +326,7 @@ Amendments inapplicable.—For purposes of paragraph (1), the amendments made by
 
 &emsp;"(3)
 
-Rule of construction regarding fees for cases.—This Act \[see Short Title of 1986 Amendmentnote below\] and the amendments made by section 117(4) of this Act \[amending section 1930 of this title\] shall not be construed to require the payment of a fee under paragraph (6) of section 1930(a) of title 28, United States Code, in a case under title 11 of the United States Code for any conduct or period occurring before such paragraph becomes effective in the district in which such case is pending.
+Rule of construction regarding fees for cases.—This Act \[see Short Title of 1986 Amendment note below\] and the amendments made by section 117(4) of this Act \[amending section 1930 of this title\] shall not be construed to require the payment of a fee under paragraph (6) of section 1930(a) of title 28, United States Code, in a case under title 11 of the United States Code for any conduct or period occurring before such paragraph becomes effective in the district in which such case is pending.
 
 #### "SEC. 303. CERTIFICATION OF JUDICIAL DISTRICTS; NOTICE AND PUBLICATION OF CERTIFICATION.
 
@@ -418,7 +418,7 @@ Establishment of Project.—Not later than 1 year after the effective date of th
 
 &emsp;"(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 
-&emsp;"(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
+&emsp;"(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 
 "(b)
 
@@ -508,7 +508,7 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102,1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
+Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
 
 #### Bankruptcy Crimes
 

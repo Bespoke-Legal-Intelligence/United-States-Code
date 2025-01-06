@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the California desert environment and its resources, including certain rare and endangered species of wildlife, plants, and fishes, and numerous archeological and historic sites, are seriously threatened by air pollution, inadequate Federal management authority, and pressures of increased use, particularly recreational use, which are certain to intensify because of the rapidly growing population of southern California;
 
-&emsp;(4) the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant <sup>1</sup> toconserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
+&emsp;(4) the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant <sup>1</sup> to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 

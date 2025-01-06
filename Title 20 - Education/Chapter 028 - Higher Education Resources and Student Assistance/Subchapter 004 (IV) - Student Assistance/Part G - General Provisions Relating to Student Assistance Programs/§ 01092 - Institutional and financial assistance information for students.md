@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(ii) a summary of the penalties for violation of Federal copyright laws; and
 
-&emsp;&emsp;(iii) a description of the institution's policies with respect to unauthorized peer-to-peer file sharing, including disciplinary actions that are taken against students whoengage in unauthorized distribution of copyrighted materials using the institution's information technology system;
+&emsp;&emsp;(iii) a description of the institution's policies with respect to unauthorized peer-to-peer file sharing, including disciplinary actions that are taken against students who engage in unauthorized distribution of copyrighted materials using the institution's information technology system;
 
 &emsp;(Q) student body diversity at the institution, including information on the percentage of enrolled, full-time students who—
 
@@ -90,7 +90,7 @@
 
 (ii) The requirements of clause (i) shall not apply to two-year, degree-granting institutions of higher education until academic year 2011-2012.
 
-(B)(i) In order to assist two-year degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e), the Secretary, in consultation with the Commissioner for Education Statistics, shall, not later than 90 days after August 14, 2008, convene a group of representatives from diverse institutions of higher education, experts in the field of higher education policy, state <sup>1</sup> higher education officials, students, and other stakeholders in the higher education community, to develop recommendations regarding the accurate calculation and reporting of the information required to be disseminated or reported under paragraph (1)(L) and subsection (e) by two-year, degree-granting institutions of highereducation. In developing such recommendations, the group of representatives shall consider the mission and role of two-year degree-granting institutions of higher education, and may recommend additional or alternative measures of student success for such institutions in light of the mission and role of such institutions.
+(B)(i) In order to assist two-year degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e), the Secretary, in consultation with the Commissioner for Education Statistics, shall, not later than 90 days after August 14, 2008, convene a group of representatives from diverse institutions of higher education, experts in the field of higher education policy, state <sup>1</sup> higher education officials, students, and other stakeholders in the higher education community, to develop recommendations regarding the accurate calculation and reporting of the information required to be disseminated or reported under paragraph (1)(L) and subsection (e) by two-year, degree-granting institutions of higher education. In developing such recommendations, the group of representatives shall consider the mission and role of two-year degree-granting institutions of higher education, and may recommend additional or alternative measures of student success for such institutions in light of the mission and role of such institutions.
 
 (ii) The Secretary shall widely disseminate the recommendations required under this subparagraph to two-year, degree-granting institutions of higher education, the public, and the authorizing committees not later than 18 months after the first meeting of the group of representatives convened under clause (i).
 
@@ -160,7 +160,7 @@
 
 #### (c) Financial assistance information personnel
 
-Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a). The Secretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
+Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining informationas specified in subsection (a). The Secretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
 
 #### (d) Departmental publication of descriptions of assistance programs
 
@@ -228,7 +228,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies, when the victim of such crime elects or is unable to make such a report.
 
-&emsp;(D) A description of the type and frequency of programs designed to inform students andemployees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
+&emsp;(D) A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
 
 &emsp;(E) A description of programs designed to inform students and employees about the prevention of crimes.
 
@@ -286,7 +286,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (ii) If new information about an entry into a log becomes available to a police or security department, then the new information shall be recorded in the log not later than two business days after the information becomes available to the police or security department.
 
-(iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or thesafety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
+(iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or the safety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
 
 (5) On an annual basis, each institution participating in any program under this subchapter, other than a foreign institution of higher education, shall submit to the Secretary a copy of the statistics required to be made available under paragraph (1)(F). The Secretary shall—
 
@@ -392,13 +392,73 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee's rights and options, as described in clauses (ii) through (vii) of subparagraph (B).
 
-(9) The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+(9)(A) Each institution participating in any program under this subchapter, other than a foreign institution of higher education, shall develop, in accordance with the institution's statement of policy relating to hazing under paragraph (1)(K), a report (which shall be referred to as the "Campus Hazing Transparency Report") summarizing findings concerning any student organization (except that this shall only apply to student organizations that are established or recognized by the institution) found to be in violation of an institution's standards of conduct relating to hazing, as defined by the institution, (hereinafter referred to in this paragraph as a "hazing violation") that requires the institution to—
 
-(10) Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
+&emsp;(i) beginning July 1, 2025, collect information with respect to hazing incidents at the institution;
 
-(11) The Secretary shall report to the appropriate committees of Congress each institution of higher education that the Secretary determines is not in compliance with the reporting requirements of this subsection.
+&emsp;(ii) not later than 12 months after December 23, 2024, make the Campus Hazing Transparency Report publicly available on the public website of the institution; and
 
-(12) For purposes of reporting the statistics with respect to crimes described in paragraph (1)(F), an institution of higher education shall distinguish, by means of separate categories, any criminal offenses that occur—
+&emsp;(iii) not less frequently than 2 times each year, update the Campus Hazing Transparency Report to include, for the period beginning on the date on which the Report was last published and ending on the date on which such update is submitted, each incident involving a student organization for which a finding of responsibility is issued relating to a hazing violation, including—
+
+&emsp;&emsp;(I) the name of such student organization;
+
+&emsp;&emsp;(II) a general description of the violation that resulted in a finding of responsibility, including whether the violation involved the abuse or illegal use of alcohol or drugs, the findings of the institution, and any sanctions placed on the student organization by the institution, as applicable; and
+
+&emsp;&emsp;(III) the dates on which—
+
+&emsp;&emsp;&emsp;(aa) the incident was alleged to have occurred;
+
+&emsp;&emsp;&emsp;(bb) the investigation into the incident was initiated;
+
+&emsp;&emsp;&emsp;(cc) the investigation ended with a finding that a hazing violation occurred; and
+
+&emsp;&emsp;&emsp;(dd) the institution provided notice to the student organization that the incident resulted in a hazing violation.
+
+(B) The Campus Hazing Transparency Report may include—
+
+&emsp;(i) to satisfy the requirements of this paragraph, information that—
+
+&emsp;&emsp;(I) is included as part of a report published by the institution; and
+
+&emsp;&emsp;(II) meets the requirements of the Campus Hazing Transparency Report; and
+
+&emsp;(ii) any additional information—
+
+&emsp;&emsp;(I) determined by the institution to be necessary; or
+
+&emsp;&emsp;(II) reported as required by State law.
+
+(C) The Campus Hazing Transparency Report shall not include any personally identifiable information, including any information that would reveal personally identifiable information, about any individual student in accordance with section 444 of the General Education Provisions Act \[20 U.S.C. 1232g\] (commonly known as the "Family Educational Rights and Privacy Act of 1974").
+
+(D) The institution shall publish, in a prominent location on the public website of the institution, the Campus Hazing Transparency Report, including—
+
+&emsp;(i) a statement notifying the public of the annual availability of statistics on hazing pursuant to the report required under paragraph (1)(F), including a link to such report;
+
+&emsp;(ii) information about the institution's policies relating to hazing under paragraph (1)(K) and applicable local, State, and Tribal laws on hazing; and
+
+&emsp;(iii) the information included in each update required under subparagraph (A)(iii), which shall be maintained for a period of 5 calendar years from the date of publication of such update.
+
+(E) The institution may include, as part of the publication of the Campus Hazing Transparency Report under subparagraph (D), a description of the purposes of, and differences between—
+
+&emsp;(i) the report required under paragraph (1)(F); and
+
+&emsp;(ii) the Campus Hazing Transparency Report required under this paragraph.
+
+(F) For purposes of this paragraph, the definition of "campus" under paragraph (6)(A)(ii) shall not apply.
+
+(G) An institution described in subparagraph (A) is not required to—
+
+&emsp;(i) develop the Campus Hazing Transparency Report under this subsection until such institution has a finding of a hazing violation; or
+
+&emsp;(ii) update the Campus Hazing Transparency Report in accordance with clause (iii) of subparagraph (A) for a period described in such clause if such institution does not have a finding of a hazing violation for such period.
+
+(10) The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+
+(11) Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
+
+(12) The Secretary shall report to the appropriate committees of Congress each institution of higher education that the Secretary determines is not in compliance with the reporting requirements of this subsection.
+
+(13) For purposes of reporting the statistics with respect to crimes described in paragraph (1)(F), an institution of higher education shall distinguish, by means of separate categories, any criminal offenses that occur—
 
 &emsp;(A) on campus;
 
@@ -408,9 +468,9 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(D) in dormitories or other residential facilities for students on campus.
 
-(13) Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title.
+(14) Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title.
 
-(14)(A) Nothing in this subsection may be construed to—
+(15)(A) Nothing in this subsection may be construed to—
 
 &emsp;(i) create a cause of action against any institution of higher education or any employee of such an institution for any civil liability; or
 
@@ -418,15 +478,15 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (B) Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity, except with respect to an action to enforce this subsection.
 
-(15) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
+(16) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
 
-(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
+(17)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
 
 (B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.
 
-(17) No officer, employee, or agent of an institution participating in any program under this subchapter shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
+(18) No officer, employee, or agent of an institution participating in any program under this subchapter shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
 
-(18) This subsection may be cited as the "Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act".
+(19) This subsection may be cited as the "Jeanne Clery Campus Safety Act".
 
 #### (g) Data required
 
@@ -468,7 +528,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Special rule
 
-&emsp;For the purposes of paragraph (1)(G), if a coach has responsibilities for more than one team and the institution does not allocatesuch coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
+&emsp;For the purposes of paragraph (1)(G), if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
 #### (3) Disclosure of information to students and public
 
@@ -550,7 +610,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(A) make the statistics submitted under paragraph (1)(A) to the Secretary available to the public; and
 
-&emsp;&emsp;(B) in coordination with nationally recognized fire organizations and representativesof institutions of higher education, representatives of associations of institutions of higher education, and other organizations that represent and house a significant number of students—
+&emsp;&emsp;(B) in coordination with nationally recognized fire organizations and representatives of institutions of higher education, representatives of associations of institutions of higher education, and other organizations that represent and house a significant number of students—
 
 &emsp;&emsp;&emsp;(i) identify exemplary fire safety policies, procedures, programs, and practices, including the installation, to the technical standards of the National Fire Protection Association, of fire detection, prevention, and protection technologies in student housing, dormitories, and other buildings;
 
@@ -620,15 +680,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(B) to create a cause of action against any institution of higher education or any employee of the institution for any civil liability.
 
-#### (k) Notice to students concerning penalties for drug violations
-
-#### (1) Notice upon enrollment
-
-&emsp;Each institution of higher education shall provide to each student, upon enrollment, a separate, clear, and conspicuous written notice that advises the student of the penalties under section 1091(r) of this title.
-
-#### (2) Notice after loss of eligibility
-
-&emsp;An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, or work-study assistance under this subchapter as a result of the penalties listed under section 1091(r)(1) of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title.
+#### (k) Repealed. Pub. L. 116–260, div. FF, title VII, §702(n)(1)(C), Dec. 27, 2020, 134 Stat. 3186
 
 #### (l) Entrance counseling for borrowers
 
@@ -704,11 +756,67 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;The Secretary shall summarize the information received from institutions of higher education under paragraph (1) in a report and transmit such report annually to the authorizing committees.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951; Pub. L. 113–4, title III, §304(a), Mar. 7, 2013, 127 Stat. 89; Pub. L. 116–251, §3, Dec. 22, 2020, 134 Stat. 1129; Pub. L. 116–260, div. FF, title VII, §702(n)(1)(C), Dec. 27, 2020, 134 Stat. 3186.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951; Pub. L. 113–4, title III, §304(a), Mar. 7, 2013, 127 Stat. 89; Pub. L. 116–251, §3, Dec. 22, 2020, 134 Stat. 1129; Pub. L. 116–260, div. FF, title VII, §702(n)(1)(C), Dec. 27, 2020, 134 Stat. 3186; Pub. L. 118–173, §§2(a)(1), (2), (4)–(b), 3, 4, Dec. 23, 2024, 138 Stat. 2597–2599, 2601.)
 
-#### Amendment of Subsection (k)
+#### Amendment of Subsection (f)
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(n)(1)(C), (2), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsection (k). See 2020 Amendment note below.</i>
+<i>Pub. L. 118–173, §2(a)(1), (2), (4)–(c), Dec. 23, 2024, 138 Stat. 2597–2599, provided that, effective on the date that is 6 months after Dec. 23, 2024, and applicable with respect to the annual security report required under subsection (f)(1) of this section for the calendar year that is 2 years after such date of enactment, including any data collected on or after such effective date, and any subsequent report required under such section, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1)—</i>
+
+<i>(A) in subparagraph (F)—</i>
+
+<i>(i) in clause (i)(IX), by striking "and" after the semicolon;</i>
+
+<i>(ii) in clause (ii), by striking "and" after the semicolon;</i>
+
+<i>(iii) in clause (iii), by striking the period at the end and inserting "; and"; and</i>
+
+<i>(iv) by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(iv) of hazing incidents that were reported to campus security authorities or local police agencies."; and</i>
+
+<i>(B) by inserting after subparagraph (J) the following:</i>
+
+&emsp;<i>"(K) A statement of current policies relating to hazing (as defined by the institution), how to report incidents of such hazing, and the process used to investigate such incidents of hazing, and information on applicable local, State, and Tribal laws on hazing (as defined by such local, State, and Tribal laws).</i>
+
+&emsp;<i>"(L) A statement of policy regarding prevention and awareness programs related to hazing (as defined by the institution) that includes a description of research-informed campus-wide prevention programs designed to reach students, staff, and faculty, which includes—</i>
+
+&emsp;&emsp;<i>"(i) the information referred to in subparagraph (K); and</i>
+
+&emsp;&emsp;<i>"(ii) primary prevention strategies intended to stop hazing before hazing occurs, which may include skill building for bystander intervention, information about ethical leadership, and the promotion of strategies for building group cohesion without hazing.";</i>
+
+<i>(2) in paragraph (6)(A)—</i>
+
+<i>(A) by adding at the end the following:</i>
+
+&emsp;<i>"(vi) The term 'hazing', for purposes of reporting statistics on hazing incidents under paragraph (1)(F)(iv), means any intentional, knowing, or reckless act committed by a person (whether individually or in concert with other persons) against another person or persons regardless of the willingness of such other person or persons to participate, that—</i>
+
+&emsp;&emsp;<i>"(I) is committed in the course of an initiation into, an affiliation with, or the maintenance of membership in, a student organization; and</i>
+
+&emsp;&emsp;<i>"(II) causes or creates a risk, above the reasonable risk encountered in the course of participation in the institution of higher education or the organization (such as the physical preparation necessary for participation in an athletic team), of physical or psychological injury including—</i>
+
+&emsp;&emsp;&emsp;<i>"(aa) whipping, beating, striking, electronic shocking, placing of a harmful substance on someone's body, or similar activity;</i>
+
+&emsp;&emsp;&emsp;<i>"(bb) causing, coercing, or otherwise inducing sleep deprivation, exposure to the elements, confinement in a small space, extreme calisthenics, or other similar activity;</i>
+
+&emsp;&emsp;&emsp;<i>"(cc) causing, coercing, or otherwise inducing another person to consume food, liquid, alcohol, drugs, or other substances;</i>
+
+&emsp;&emsp;&emsp;<i>"(dd) causing, coercing, or otherwise inducing another person to perform sexual acts;</i>
+
+&emsp;&emsp;&emsp;<i>"(ee) any activity that places another person in reasonable fear of bodily harm through the use of threatening words or conduct;</i>
+
+&emsp;&emsp;&emsp;<i>"(ff) any activity against another person that includes a criminal violation of local, State, Tribal, or Federal law; and</i>
+
+&emsp;&emsp;&emsp;<i>"(gg) any activity that induces, causes, or requires another person to perform a duty or task that involves a criminal violation of local, State, Tribal, or Federal law."; and</i>
+
+<i>(B) by further adding at the end the following:</i>
+
+&emsp;<i>"(vii) The term 'student organization', for purposes of reporting under paragraph (1)(F)(iv) and paragraph (9)(A), means an organization at an institution of higher education (such as a club, society, association, varsity or junior varsity athletic team, club sports team, fraternity, sorority, band, or student government) in which two or more of the members are students enrolled at the institution of higher education, whether or not the organization is established or recognized by the institution."; and</i>
+
+<i>(3) in paragraph (7), by inserting after the second sentence the following: "For hazing incidents referred to in clause (iv) of paragraph (1)(F), such statistics shall be compiled per each single hazing incident and in accordance with the definition of the term 'hazing' in paragraph (6)(A)(vi), and if the same person or persons commit more than one hazing act, and the time and place intervals separating each such act are insignificant, such acts shall be reported as a single hazing incident."</i>
+
+<i>See 2024 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -731,6 +839,22 @@ A prior section 1092, Pub. L. 89–329, title IV, §485, as added Pub. L. 96–3
 Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, Nov. 8, 1965, 79 Stat. 1255; renumbered §508 and amended Pub. L. 90–35, §§2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f)(1)(F)(iv). Pub. L. 118–173, §2(a)(1), added cl. (iv).
+
+Subsec. (f)(1)(K), (L). Pub. L. 118–173, §2(b), added subpars. (K) and (L).
+
+Subsec. (f)(6)(A)(vi). Pub. L. 118–173, §2(a)(4), added cl. (vi).
+
+Subsec. (f)(6)(A)(vii). Pub. L. 118–173, §2(a)(5), added cl. (vii).
+
+Subsec. (f)(7). Pub. L. 118–173, §2(a)(2), inserted "For hazing incidents referred to in clause (iv) of paragraph (1)(F), such statistics shall be compiled per each single hazing incident and in accordance with the definition of the term 'hazing' in paragraph (6)(A)(vi), and if the same person or persons commit more than one hazing act, and the time and place intervals separating each such act are insignificant, such acts shall be reported as a single hazing incident." before "Such statistics shall not identify".
+
+Subsec. (f)(9) to (18). Pub. L. 118–173, §3, added par. (9) and redesignated former pars. (9) to (17) as (10) to (18), respectively. Former par. (18) redesignated (19).
+
+Subsec. (f)(19). Pub. L. 118–173, §4, substituted "Jeanne Clery Campus Safety Act" for "Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act".
+
+Pub. L. 118–173, §3, redesignated par. (18) as (19).
 
 <b>2020</b>—Subsec. (b)(1)(A)(viii), (x). Pub. L. 116–251, which directed amendment of subsec. (b) of this section by striking out "and" after semicolon in cl. (viii) and adding cl. (x), was executed to subsec. (b)(1)(A) of this section to reflect the probable intent of Congress.
 
@@ -756,7 +880,7 @@ Subsec. (f)(9). Pub. L. 113–4, §304(a)(6), substituted "The Secretary, in con
 
 Subsec. (f)(16). Pub. L. 113–4, §304(a)(7), added par. (16) and struck out former par. (16) which read as follows: "The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies."
 
-Subsec. (f)(17). Pub. L. 113–4, §304(a)(8), added par. (17) and struck out former par. (17) which read as follows: "Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent ofan institution, participating in any program under this subchapter to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection."
+Subsec. (f)(17). Pub. L. 113–4, §304(a)(8), added par. (17) and struck out former par. (17) which read as follows: "Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection."
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §407(b)(5)(A)(i)(I), substituted "commonly known as the 'Family Educational Rights and Privacy Act of 1974' " for "also referred to as the Family Educational Rights and Privacy Act of 1974" in introductory provisions.
 
@@ -824,7 +948,7 @@ Subsec. (f)(5)(A). Pub. L. 110–315, §103(b)(11), substituted "authorizing com
 
 Subsec. (f)(15) to (18). Pub. L. 110–315, §488(e)(2), (3), added pars. (15) to (17) and redesignated former par. (15) as (18).
 
-Subsec. (g)(4)(B) to (D). Pub. L. 110–315, §488(f), redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out "and the report to Congress described in subparagraph (B)" after "subparagraph (A)" in subpar. (B) and "the information reported under subparagraph\(B) and" after "availability of" in subpar. (C), and struck out former subpar. (B) which read as follows: "The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
+Subsec. (g)(4)(B) to (D). Pub. L. 110–315, §488(f), redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out "and the report to Congress described in subparagraph (B)" after "subparagraph (A)" in subpar. (B) and "the information reported under subparagraph (B) and" after "availability of" in subpar. (C), and struck out former subpar. (B) which read as follows: "The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
 
 &emsp;"(i) summarize the information and identify trends in the information;
 
@@ -872,7 +996,7 @@ Subsec. (d). Pub. L. 105–244, §486(c), designated existing provisions as par.
 
 Subsec. (e)(2). Pub. L. 105–244, §486(d)(1), substituted "the student's parents, guidance" for "his parents, his guidance" and inserted at end "If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach."
 
-Subsec. (e)(9). Pub. L. 105–244, §486(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "This subsection shall not be effective until the first July 1 that follows, by more than 270 days, the date on which the Secretary first prescribes final regulations pursuant to this subsection. The reports required by this subsection shall be due on that July 1 and each succeeding July 1 and shall cover the 1-year period ending August 31 of the preceding year."
+Subsec. (e)(9). Pub. L. 105–244, §486(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "This subsection shall not be effective until thefirst July 1 that follows, by more than 270 days, the date on which the Secretary first prescribes final regulations pursuant to this subsection. The reports required by this subsection shall be due on that July 1 and each succeeding July 1 and shall cover the 1-year period ending August 31 of the preceding year."
 
 Subsec. (f)(1)(F). Pub. L. 105–244, §486(e)(1)(A), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
 
@@ -1024,6 +1148,14 @@ Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence "In addi
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–173, §2(c), Dec. 23, 2024, 138 Stat. 2599, provided that: "The amendments made by this section \[amending this section\] shall—
+
+&emsp;"(1) take effect on the date that is 6 months after the date of enactment of this Act \[Dec. 23, 2024\]; and
+
+&emsp;"(2) apply with respect to the annual security report required under section 485(f)(1) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(1)) for the calendar year that is 2 years after such date of enactment, including any data collected on or after such effective date, and any subsequent report required under such section."
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
@@ -1098,6 +1230,14 @@ Subsec. (b) of this section applicable only to periods of enrollment beginning o
 
 Pub. L. 101–542, title IV, §401(a), Nov. 8, 1990, 104 Stat. 2388, provided that: "The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\]."
 
+#### Rule of Construction
+
+Pub. L. 118–173, §5, Dec. 23, 2024, 138 Stat. 2601, provided that: "Nothing in this Act \[amending this section and enacting provisions set out as notes under this section\], or an amendment made by this Act, shall be construed to affect the rights (including remedies and procedures) available to persons under the First Amendment of the Constitution of the United States or rights to due process."
+
+#### Beginning of Compilation of Hazing Statistics
+
+Pub. L. 118–173, §2(a)(3), Dec. 23, 2024, 138 Stat. 2597, provided that: "Not later than January 1 of the first year after the date of enactment of this Act \[Dec. 23, 2024\], each eligible institution participating in any program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), other than a foreign institution of higher education, shall begin to collect statistics on hazing incidents for the purpose of complying with clause (iv) of section 485(f)(1)(F) of such Act \[20 U.S.C. 1092(f)(1)(F)(iv)\], as added by paragraph (1) of this subsection."
+
 #### Model Institution Financial Aid Offer Form
 
 Pub. L. 110–315, title IV, §484, Aug. 14, 2008, 122 Stat. 3286, provided that:
@@ -1106,7 +1246,7 @@ Pub. L. 110–315, title IV, §484, Aug. 14, 2008, 122 Stat. 3286, provided that
 
 Model Format.—The Secretary of Education shall—
 
-&emsp;"(1) not later than six months after the date of enactment of the Higher Education Opportunity Act\[Aug. 14, 2008\], convene a group of students, families of students, secondary school guidance counselors, representatives of institutions of higher education (including financial aid administrators, registrars, and business officers), and nonprofit consumer groups for the purpose of offering recommendations for improvements that—
+&emsp;"(1) not later than six months after the date of enactment of the Higher Education Opportunity Act \[Aug. 14, 2008\], convene a group of students, families of students, secondary school guidance counselors, representatives of institutions of higher education (including financial aid administrators, registrars, and business officers), and nonprofit consumer groups for the purpose of offering recommendations for improvements that—
 
 &emsp;&emsp;"(A) can be made to financial aid offer forms; and
 
@@ -1258,7 +1398,7 @@ Memorandum of President of the United States, Jan. 22, 2014, 79 F.R. 4385, provi
 
 The prevalence of rape and sexual assault at our Nation's institutions of higher education is both deeply troubling and a call to action. Studies show that about one in five women is a survivor of attempted or completed sexual violence while in college. In addition, a substantial number of men experience sexual violence during college. Although schools have made progress in addressing rape and sexual assault, more needs to be done to ensure safe, secure environments for students of higher education.
 
-There are a number of Federal laws aimed at making our campuses safer, and the Departments of Education and Justice have been working to enforce them. Among other requirements, institutions of higher education participating in Federal student financial assistance programs (institutions), including colleges, universities, community colleges, graduate and professional schools, for-profit schools, trade schools, and career and technical schools, must provide students with information on programs aimed at preventing rape and sexual assault, and on procedures for students to reporting rape and sexual assault. Institutions must also adopt and publish grievance procedures that provide for the prompt and equitable resolution of rape and sexual assault complaints, and investigate reports of rape and sexual assault and take swift action to prevent theirrecurrence. Survivors of rape and sexual assault must also be provided with information on how to access the support and services they need. Reports show, however, that institutions' compliance with these Federal laws is uneven and, in too many cases, inadequate. Building on existing enforcement efforts, we must strengthen and address compliance issues and provide institutions with additional tools to respond to and address rape and sexual assault.
+There are a number of Federal laws aimed at making our campuses safer, and the Departments of Education and Justice have been working to enforce them. Among other requirements, institutions of higher education participating in Federal student financial assistance programs (institutions), including colleges, universities, community colleges, graduate and professional schools, for-profit schools, trade schools, and career and technical schools, must provide students with information on programs aimed at preventing rape and sexual assault, and on procedures for students to reporting rape and sexual assault. Institutions must also adopt and publish grievance procedures that provide for the prompt and equitable resolution of rape and sexual assault complaints, and investigate reports of rape and sexual assault and take swift action to prevent their recurrence. Survivors of rape and sexual assault must also be provided with information on how to access the support and services they need. Reports show, however, that institutions' compliance with these Federal laws is uneven and, in too many cases, inadequate. Building on existing enforcement efforts, we must strengthen and address compliance issues and provide institutions with additional tools to respond to and address rape and sexual assault.
 
 Therefore, I am directing the Office of the Vice President and the White House Council on Women and Girls to lead an interagency effort to address campus rape and sexual assault, including coordinating Federal enforcement efforts by executive departments and agencies (agencies) and helping institutions meet their obligations under Federal law. To these ends, it is hereby ordered as follows:
 
@@ -1336,7 +1476,7 @@ Memorandum for the Secretary of the Treasury\[, and\] the Secretary of Education
 
 A college education is the single most important investment that Americans can make in their futures. College remains a good investment, resulting in higher earnings and a lower risk of unemployment. Unfortunately, for many low- and middle-income families, college is slipping out of reach. Over the past three decades, the average tuition at a public four-year college has more than tripled, while a typical family's income has increased only modestly. More students than ever are relying on loans to pay for college. Today, 71 percent of those earning a bachelor's degree graduate with debt, which averages $29,400. While most students are able to repay their loans, many feel burdened by debt, especially as they seek to start a family, buy a home, launch a business, or save for retirement.
 
-Over the past several years, my Administration has worked to ensure that college remains affordable and student debt is manageable, including through raisingthe maximum Pell Grant award by nearly $1,000, creating the American Opportunity Tax Credit, and expanding access to student loan repayment plans, where monthly obligations are calibrated to a borrower's income and debt. These income-driven repayment plans, like my Pay As You Earn plan, which caps a Federal student loan borrower's payments at 10 percent of income, can be an effective tool to help individuals manage their debt, and pursue their careers while avoiding consequences of defaulting on a Federal student loan, such as a damaged credit rating, a tax refund offset, or garnished wages.
+Over the past several years, my Administration has worked to ensure that college remains affordable and student debt is manageable, including through raising the maximum Pell Grant award by nearly $1,000, creating the American Opportunity Tax Credit, and expanding access to student loan repayment plans, where monthly obligations are calibrated to a borrower's income and debt. These income-driven repayment plans, like my Pay As You Earn plan, which caps a Federal student loan borrower's payments at 10 percent of income, can be an effective tool to help individuals manage their debt, and pursue their careers while avoiding consequences of defaulting on a Federal student loan, such as a damaged credit rating, a tax refund offset, or garnished wages.
 
 While my Administration has made significant strides in expanding repayment options available to borrowers and building awareness of income-driven repayment plans, more needs to be done. Currently, not all student borrowers of Federal Direct Loans can cap their monthly loan payments at 10 percent of income, and too many struggling borrowers are still unaware of the options available to them to help responsibly manage their debt.
 
@@ -1376,7 +1516,7 @@ My Administration has taken historic action to ensure that college remains affor
 
 College remains an excellent investment, and student loans enable many who could not otherwise do so to access further education. However, there is more work to do to help students repay their loans responsibly. In 2013, college graduates owed an average of $28,400 in Federal and private loans. More than one in eight Federal borrowers default on their loans within 3 years of leaving school. My Administration has already put in place significant protections that ensure borrowers with credit cards and mortgages are treated fairly. We can and should do much more to give students affordable ways to meet their responsibilities and repay their loans.
 
-Now is the time for stronger protections for the more than 40 million Americans with student loan debt. All student loan borrowers should have access to an efficient and responsive complaint and feedback system that holds loan servicers accountable and promotes transparency, the information and flexibility they needto repay their loan responsibly and avoid default, and protections to ensure that they will be treated fairly even if they struggle to repay their loans.
+Now is the time for stronger protections for the more than 40 million Americans with student loan debt. All student loan borrowers should have access to an efficient and responsive complaint and feedback system that holds loan servicers accountable and promotes transparency, the information and flexibility they need to repay their loan responsibly and avoid default, and protections to ensure that they will be treated fairly even if they struggle to repay their loans.
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
@@ -1388,7 +1528,7 @@ Section 1. <i>State-of-the-Art Complaint and Feedback System.</i>
 
 Sec. 2. <i>Helping Borrowers Repay Their Loans and Avoid Default.</i>
 
-(a) <i>Higher Standards for Federal Direct Loan Servicing</i>. By January 1, 2016, the Secretary of Education shall require all Federal Direct student loan servicers to provide enhanced disclosures to borrowers and strengthened consumer protections. These disclosures and consumer protections shall be improved throughout the loan repayment process, and shall include disclosures to borrowers regarding loan transfers from one servicer to another and notifications when borrowers become delinquent or have incomplete applications to change repayment plans. As soon as practicable, the Secretary shall direct all Federal Direct student loan servicers to apply prepayments to loans with the highest interest rate to ensure consistency across servicers, unless otherwise instructed by borrowers.
+(a) <i>Higher Standards for Federal Direct Loan Servicing</i>. By January 1, 2016, the Secretary of Education shall require all Federal Direct student loan servicers to provide enhanced disclosures to borrowers and strengthened consumer protections. These disclosures and consumer protections shall be improved throughout the loan repayment process, and shall include disclosures to borrowers regarding loan transfers from one servicer to another and notifications when borrowers become delinquent or have incomplete applications to change repayment plans. As soon as practicable, the Secretary shall direct all Federal Direct student loan servicers toapply prepayments to loans with the highest interest rate to ensure consistency across servicers, unless otherwise instructed by borrowers.
 
 (b) <i>Regular Review of Student Loan Performance and Borrower Trends</i>. The Director of the Office of Management and Budget and the Secretary of Education shall convene quarterly an interagency task force consisting of the Department of the Treasury, Department of Education, Office of Management and Budget, and Domestic Policy Council to monitor trends in the student loan portfolio, budget costs, and borrower assistance efforts. No later than August 1, 2015, the task force shall review recommendations for the Department of Education from its members and the Consumer Financial Protection Bureau on best practices in performance-based contracting to better ensure that servicers help borrowers responsibly make affordable monthly payments on their student loans.
 
@@ -1406,7 +1546,7 @@ Sec. 3. <i>Fair Treatment for Struggling and Distressed Borrowers.</i>
 
 (b) <i>Providing Clarity on the Rights of Borrowers in Bankruptcy</i>. By July 1, 2015, the Secretary of Education shall issue information highlighting factors the courts have used in their determination of undue hardship, to assist parties who must determine whether to contest an undue hardship discharge in bankruptcy of a Federal student loan.
 
-(c) <i>Protecting Social Security Benefits for Borrowers with Disabilities</i>. By July 1, 2015, the Secretary of Education and the Director of the Office of Management and Budget, in consultation with the Commissioner of Social Security, shall develop a plan to identify Federal student loan borrowers who receive Social Security Disability Insurance (SSDI) and determine which beneficiaries qualify for a total and permanent disability discharge of their student loans under the Higher Education Act of 1965. The plan shall specify a process forthe Secretary of Education to stop collection on qualified borrowers in order to ensure that SSDI benefits are not reduced to repay student loans that are eligible for discharge. In addition, the Secretary of Education and the Director of the Office of Management and Budget, in consultation with the Commissioner of Social Security, shall identify the best way to communicate with other SSDI recipients who hold student loans about their repayment options, including income-driven plans, and assist them in entering those plans.
+(c) <i>Protecting Social Security Benefits for Borrowers with Disabilities</i>. By July 1, 2015, the Secretary of Education and the Director of the Office of Management and Budget, in consultation with the Commissioner of Social Security, shall develop a plan to identify Federal student loan borrowers who receive Social Security Disability Insurance (SSDI) and determine which beneficiaries qualify for a total and permanent disability discharge of their student loans under the Higher Education Act of 1965. The plan shall specify a process for the Secretary of Education to stop collection on qualified borrowers in order to ensure that SSDI benefits are not reduced to repay student loans that are eligible for discharge. In addition, the Secretary of Education and the Director of the Office of Management and Budget, in consultation with the Commissioner of Social Security, shall identify the best way to communicate with other SSDI recipients who hold student loans about their repayment options, including income-driven plans, and assist them in entering those plans.
 
 (d) <i>Debt Collection Pilot Program</i>. By July 1, 2016, the Secretary of the Treasury, in consultation with the Secretary of Education, shall report to the President, through the Director of the Domestic Policy Council and the Director of the Office of Management and Budget, on the initial findings of an ongoing pilot program that uses the Department of the Treasury's Bureau of the Fiscal Service to collect on a sample of defaulted Federal student loan debts to help determine how to improve the collection process for defaulted Federal student loans.
 

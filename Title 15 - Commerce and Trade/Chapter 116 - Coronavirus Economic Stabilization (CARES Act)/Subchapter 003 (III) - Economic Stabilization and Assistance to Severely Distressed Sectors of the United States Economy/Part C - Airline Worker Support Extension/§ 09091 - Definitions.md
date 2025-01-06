@@ -36,7 +36,7 @@ Unless otherwise specified, the definitions in section 40102(a) of title 49 shal
 
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat.2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 #### Codification
 

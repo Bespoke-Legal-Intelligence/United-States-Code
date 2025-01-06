@@ -1,6 +1,6 @@
 ### §701. Uniforms, arms, and equipment to be same as Army or Air Force
 
-So far as practicable, the same types of uniforms, arms, and equipment as are issued to the Army shall be issued to the Army National Guard, and the same types of uniforms, arms, and equipment as are issued to the Air Force shall be issued to the Air National Guard.
+So far as practicable, the same types of uniforms, arms, and equipment as are issued to the Army shall be issued to the Army National Guard, and the same types of uniforms, arms,and equipment as are issued to the Air Force shall be issued to the Air National Guard.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 612.)
 

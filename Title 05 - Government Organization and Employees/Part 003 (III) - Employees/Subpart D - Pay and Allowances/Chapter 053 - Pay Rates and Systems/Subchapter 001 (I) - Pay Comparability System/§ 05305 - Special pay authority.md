@@ -38,7 +38,7 @@
 
 &emsp;(2) Then, if (in addition to the change in pay schedule) the move also involves any personnel action or other change requiring a rate adjustment under any other provision of law, rule, or regulation, apply the applicable rate adjustment provisions, treating the rate determined under paragraph (1) as if it were the rate last received by the employee before the rate adjustment.
 
-(j) A rate determined under a schedule of special rates established under this section shall be considered to be part of basic pay for purposes of subchapter III of chapter 83, chapter 84, chapter 87, subchapter V of chapter 55, and section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
+(j) A rate determined under a schedule of special rates established under this section shall be considered to be part of basic pay for purposes of subchapter III of chapter 83, chapter 84, chapter 87, subchapter V of chapter 55, and section 5941, and for such other purposes as may be expresslyprovided for by law or as the Office of Personnel Management may by regulation prescribe.
 
 (Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, §202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, §301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
 
@@ -116,7 +116,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 
 
 &emsp;"(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\]."
 
-Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104 Stat. 1427, 1465, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309; Pub. L. 108–411, title I, §101(b), title III, §301(b), Oct. 30, 2004, 118 Stat. 2309, 2317, provided that:
+Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104 Stat. 1427, 1465, as amended by Pub. L.102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309; Pub. L. 108–411, title I, §101(b), title III, §301(b), Oct. 30, 2004, 118 Stat. 2309, 2317, provided that:
 
 #### "SEC. 401. SHORT TITLE.
 
@@ -160,7 +160,7 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 | "GS–9 | Step 2&nbsp;&nbsp; |
 | "GS–10 | Step 2&nbsp;&nbsp; |
 
-"(c) The higher minimum rates and corresponding higher rates for each step rate of each designated grade shall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law) and shall be basic pay for all purposes. The rates shall be adjusted at the time of adjustments in the GeneralSchedule to maintain the step linkage set forth in subsection (b)(2).
+"(c) The higher minimum rates and corresponding higher rates for each step rate of each designated grade shall apply to every law enforcement officer in the designated grades (except in the case of any law enforcement officer for whom a higher rate is authorized under section 5305 of title 5, United States Code, as amended by section 101 of this Act, or similar provision of law) and shall be basic pay for all purposes. The rates shall be adjusted at the time of adjustments in the General Schedule to maintain the step linkage set forth in subsection (b)(2).
 
 "(d) Any interim entry-level adjustment under section 209 of this Act \[section 529 \[title II, §209\] of Pub. L. 101–509, set out as a note above\] which a law enforcement officer is receiving shall be eliminated on the day before the effective date of the higher minimum rates under subsection (b)(1).
 

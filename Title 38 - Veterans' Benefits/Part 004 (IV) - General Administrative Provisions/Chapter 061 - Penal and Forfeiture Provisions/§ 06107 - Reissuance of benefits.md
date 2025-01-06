@@ -20,17 +20,27 @@ Reissuance of Misused Benefits in Other Cases.—(1) In any case not covered by 
 
 (c)
 
-Limitation on Total Amount Paid.—The total of the amounts paid to a beneficiary (or a beneficiary's successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
+Reissuance of Amounts in the Case of a Deceased Beneficiary.—(1) If a beneficiary described in subsection (a) predeceases a payment under subsection (a) or (b), the Secretary shall pay such benefits, subject to paragraph (2), to an individual or entity in accordance with section 5121 of this title.
+
+(2) The Secretary may not make a payment under this subsection to a fiduciary who misused benefits of the beneficiary.
 
 (d)
 
-Recoupment of Amounts Reissued.—In any case in which the Secretary reissues a benefit payment (in whole or in part) under subsection (a) or (b), the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.
+Limitation on Total Amount Paid.—The total of the amounts paid to a beneficiary (or a beneficiary's successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
 
-(Added Pub. L. 108–454, title V, §503(a)(1), Dec. 10, 2004, 118 Stat. 3619; amended Pub. L. 116–315, title VII, §7005(a), Jan. 5, 2021, 134 Stat. 5059.)
+(e)
+
+Recoupment of Amounts Reissued.—In any case in which the Secretary reissues a benefit payment (in whole or in part) under this section, the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.
+
+(Added Pub. L. 108–454, title V, §503(a)(1), Dec. 10, 2004, 118 Stat. 3619; amended Pub. L. 116–315, title VII, §7005(a), Jan. 5, 2021, 134 Stat. 5059; Pub. L. 118–114, §2, Nov. 25, 2024, 138 Stat. 1605.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (c), (d). Pub. L. 118–114, §2(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 118–114, §2(1), (3), redesignated subsec. (d) as (e) and substituted "this section" for "subsection (a) or (b)".
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 116–315, §7005(a)(1), substituted "In any case not covered by subsection (a) in which a fiduciary" for "In any case in which a fiduciary described in paragraph (2)".
 

@@ -10,7 +10,7 @@
 
 (4) Any individual described in section 2402(a)(5) of this title who is buried in a veterans' cemetery owned by a State or a veterans' cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization.
 
-(5) Any individual who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
+(5) Any individual who at the time of death was entitled to retired pay under chapter 1223 oftitle 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
 (b)(1) The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under section 2403 of this title, a veterans' cemetery owned by a State, a veterans' cemetery of a tribal organization or on land owned by or held in trust for a tribal organization, or, in the case of a veteran, in a State, local, or private cemetery.
 
@@ -18,9 +18,9 @@
 
 &emsp;(A) A veteran.
 
-&emsp;(B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's death if such death occurs before October 1, 2024.
+&emsp;(B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's death if such death occurs before September 30, 2032.
 
-&emsp;(C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child's death if such death occurs before October 1, 2024.
+&emsp;(C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child's death if such death occurs before September 30, 2032.
 
 (3) For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual's remains—
 
@@ -66,13 +66,11 @@
 
 (C) A deceased individual described in this subparagraph is a deceased individual who—
 
-&emsp;(i) served in the Armed Forces on or after April 6, 1917;
+&emsp;(i) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (except that subparagraph (B)(i) of such paragraph shall notapply) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
 
-&emsp;(ii) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+&emsp;(ii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 2732 of title 14 (including posthumously).
 
-&emsp;(iii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14 (including posthumously).
-
-(D) In this paragraph, the term "medal of honor recipient" means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14.
+(D) In this paragraph, the term "medal of honor recipient" means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 2732 of title 14.
 
 (e)(1)(A) The Secretary of Veterans Affairs may provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration, or in a cemetery that is the subject of a grant to a State or a tribal organization under section 2408 of this title, in which remains are interred in a casket.
 
@@ -156,15 +154,25 @@
 
 (k) In this section, the term "tribal organization" has the meaning given such term in section 3765 of this title.
 
-(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, §2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§401(a), (b), 402, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 110–389, title VIII, §810(a), Oct. 10, 2008, 122 Stat. 4190; Pub. L. 111–275, title V, §502(d)(3), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 112–260, title I, §101(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 114–273, §2, Dec. 14, 2016, 130 Stat. 1400; Pub. L. 114–315, title III, §301, Dec. 16, 2016, 130 Stat. 1550; Pub. L. 115–136, §1, Mar. 16, 2018, 132 Stat. 343; Pub. L. 115–184, §2, June 15, 2018, 132 Stat. 1483; Pub. L. 115–232, div. A, title VIII, §809(n)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–407, title II, §§201, 202(a), Dec. 31, 2018, 132 Stat. 5372; Pub. L. 116–283, div. A, title IX, §926(a)(38), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§2203(a), 2204(a), 2207(a), Jan. 5, 2021, 134 Stat. 4985, 4986, 4988.)
+(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, §2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§401(a), (b), 402, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 110–389, title VIII, §810(a), Oct. 10, 2008, 122 Stat. 4190; Pub. L. 111–275, title V, §502(d)(3), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 112–260, title I, §101(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 114–273, §2, Dec. 14, 2016, 130 Stat. 1400; Pub. L. 114–315, title III, §301, Dec. 16, 2016, 130 Stat. 1550; Pub. L. 115–136, §1, Mar. 16, 2018, 132 Stat. 343; Pub. L. 115–184, §2, June 15, 2018, 132 Stat. 1483; Pub. L. 115–232, div. A, title VIII, §809(n)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–407, title II, §§201, 202(a), Dec. 31, 2018, 132 Stat. 5372; Pub. L. 116–283, div. A, title IX, §926(a)(38), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§2203(a), 2204(a), 2207(a), Jan. 5, 2021, 134 Stat. 4985, 4986, 4988; Pub. L. 118–83, div. B, title III, §311, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 118–134, §2, Nov. 25, 2024, 138 Stat. 1646; Pub. L. 118–271, §2, Jan. 4, 2025, 138 Stat. 2991.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 491 of title 14, referred to in subsec. (d)(5)(C)(iii), (D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
-
 #### Amendments
+
+<b>2025</b>—Subsec. (b)(2)(B), (C). Pub. L. 118–271 substituted "September 30, 2032" for "September 30, 2025".
+
+<b>2024</b>—Subsec. (b)(2)(B), (C). Pub. L. 118–83 substituted "September 30, 2025" for "October 1, 2024".
+
+Subsec. (d)(5)(C)(i). Pub. L. 118–134, §2(a)(1), (3), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: "served in the Armed Forces on or after April 6, 1917;".
+
+Subsec. (d)(5)(C)(ii). Pub. L. 118–134, §2(a)(3), (b), redesignated cl. (iii) as (ii) and substituted "section 2732" for "section 491". Former cl. (ii) redesignated (i).
+
+Pub. L. 118–134, §2(a)(2), inserted "(except that subparagraph (B)(i) of such paragraph shall not apply)" after "paragraph (4)".
+
+Subsec. (d)(5)(C)(iii). Pub. L. 118–134, §2(a)(3), redesignated cl. (iii) as (ii).
+
+Subsec. (d)(5)(D). Pub. L. 118–134, §2(b), substituted "section 2732" for "section 491".
 
 <b>2021</b>—Subsec. (b)(4)(A). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
@@ -210,7 +218,7 @@ Subsec. (f). Pub. L. 115–407, §201(3), designated existing provisions as par.
 
 Subsec. (i). Pub. L. 115–407, §201(4), added subsec. (i).
 
-<b>2016</b>—Subsec. (d)(4). Pub. L. 114–315, §301(1), added par. (4) and struck out former par. (4) which read as follows: "In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by theSecretary to signify the deceased's status as a veteran, to be attached to a headstone or marker furnished at private expense."
+<b>2016</b>—Subsec. (d)(4). Pub. L. 114–315, §301(1), added par. (4) and struck out former par. (4) which read as follows: "In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased's status as a veteran, to be attached to a headstone or marker furnished at private expense."
 
 Subsec. (d)(5). Pub. L. 114–315, §301(2), added par. (5).
 
@@ -308,7 +316,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "2403" for "1003" in concl
 
 <b>1989</b>—Subsecs. (a) to (c). Pub. L. 101–237, §313(b)(1), substituted "Secretary" for "Administrator".
 
-Subsec. (d). Pub. L. 101–237, §501, substituted "cost of acquiring" for "actual costs incurred by or on behalf of such person in acquiring" in first sentence, insertedafter first sentence "The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.", and substituted "this subsection" for "the preceding sentence" in last sentence.
+Subsec. (d). Pub. L. 101–237, §501, substituted "cost of acquiring" for "actual costs incurred by or on behalf of such person in acquiring" in first sentence, inserted after first sentence "The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.", and substituted "this subsection" for "the preceding sentence" in last sentence.
 
 Pub. L. 101–237, §313(b)(1), substituted "Secretary" and "Secretary's" for "Administrator" and "Administrator's", respectively, wherever appearing.
 
@@ -358,7 +366,7 @@ Pub. L. 110–389, title VIII, §810(b), Oct. 10, 2008, 122 Stat. 4190, provided
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 110–157, title II, §203(b), Dec. 26, 2007, 121 Stat. 1833, provided that: "Notwithstanding subsection (d) of section 502 of the Veterans Education and Benefits Expansion Act of 2001 (Public Law 107–103; 115 Stat. 995; 38 U.S.C. 2306 note) or any other provision of law, the amendments made by that section and by subsections (a), (b), (c), (d), and (f) of section 402 of the Veterans Benefits, Health Care, and Information Technology Act of 2006 (Public Law 109–461; 120 Stat. 3429) \[amending this section\] shall take effect as of November 1, 1990, and shall apply with respect to headstones and markers for the graves of individuals dying on or after that date."
+Pub. L. 110–157, title II, §203(b), Dec. 26, 2007, 121 Stat. 1833, provided that: "Notwithstanding subsection (d) of section 502 of the Veterans Education and Benefits Expansion Act of 2001 (Public Law 107–103; 115 Stat. 995; 38 U.S.C. 2306 note) or any other provision of law, the amendments made by that section and by subsections (a), (b), (c), (d), and (f) of section 402 of the Veterans Benefits, Health Care, and Information Technology Actof 2006 (Public Law 109–461; 120 Stat. 3429) \[amending this section\] shall take effect as of November 1, 1990, and shall apply with respect to headstones and markers for the graves of individuals dying on or after that date."
 
 Pub. L. 109–461, title IV, §401(c), Dec. 22, 2006, 120 Stat. 3429, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to individuals dying after the date of the enactment of this Act \[Dec. 22, 2006\]."
 
@@ -407,6 +415,4 @@ Pub. L. 93–43, §10(c), June 18, 1973, 87 Stat. 88, provided that: "Clause (2)
 #### Continuation of Authority
 
 Pub. L. 110–92, §162, as added by Pub. L. 110–149, §2, Dec. 21, 2007, 121 Stat. 1819, provided that: "Notwithstanding section 106 \[121 Stat. 990\], the authority provided by section 2306(d)(3) of title 38, United States Code, shall continue in effect through September 30, 2008."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

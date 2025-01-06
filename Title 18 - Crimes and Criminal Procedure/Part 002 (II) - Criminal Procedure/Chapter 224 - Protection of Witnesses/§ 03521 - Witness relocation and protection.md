@@ -1,6 +1,6 @@
 ### §3521. Witness relocation and protection
 
-(a)(1) The Attorney General may provide for the relocation and other protection of a witness or a potential witness for the Federal Government or for a State government in an official proceeding concerning an organized criminal activity or other serious offense, if the Attorney General determines that an offense involving a crime of violence directed at the witness with respect to that proceeding, an offense set forth in chapter 73 of this title directed at the witness, or a State offense that is similar in nature to either such offense, is likely to be committed. The Attorney General may also provide for the relocation and other protection of the immediate family of, or a person otherwise closely associated with, such witness or potential witness if the family or person may also be endangered on account of the participation of the witness in the judicial proceeding.
+(a)(1) The Attorney General may provide for the relocation and other protection of a witness or a potential witness for the Federal Government or for a State government in an official proceeding concerning an organized criminal activity or other serious offense, if the Attorney General determines that an offense involving a crime of violence directed at the witness withrespect to that proceeding, an offense set forth in chapter 73 of this title directed at the witness, or a State offense that is similar in nature to either such offense, is likely to be committed. The Attorney General may also provide for the relocation and other protection of the immediate family of, or a person otherwise closely associated with, such witness or potential witness if the family or person may also be endangered on account of the participation of the witness in the judicial proceeding.
 
 (2) The Attorney General shall issue guidelines defining the types of cases for which the exercise of the authority of the Attorney General contained in paragraph (1) would be appropriate.
 
@@ -64,7 +64,7 @@
 
 (f) The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminating such protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
 
-(Added Pub. L. 98–473, title II, §1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, §3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L.105–119, title I, §115(a)(9), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 109–177, title V, §506(a)(7), Mar. 9, 2006, 120 Stat. 248.)
+(Added Pub. L. 98–473, title II, §1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, §3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 105–119, title I, §115(a)(9), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 109–177, title V, §506(a)(7), Mar. 9, 2006, 120 Stat. 248.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,7 +86,7 @@ Pub. L. 105–119, title I, §115(c), Nov. 26, 1997, 111 Stat. 2467, provided th
 
 &emsp;"(1) subparagraphs (A), (B), and (C) of subsection (a)(8) \[amending sections 3563, 3583, 4042, and 4209 of this title and enacting provisions set out as a note under section 951 of Title 10\] shall take effect 1 year after the date of the enactment of this Act; and
 
-&emsp;"(2) States shall have 3 years from such date of enactment to implement amendments made by this Act \[probably should be "this section"\] which impose new requirements under the \[former\] Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act \[42 U.S.C. 14071 et seq.\], and the Attorney General may grant an additional 2 years to a State that is making good faith efforts to implement these amendments."
+&emsp;"(2) States shall have 3 years from such date of enactment to implement amendments made by this Act \[probably should be "this section"\] which impose newrequirements under the \[former\] Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act \[42 U.S.C. 14071 et seq.\], and the Attorney General may grant an additional 2 years to a State that is making good faith efforts to implement these amendments."
 
 #### Effective Date
 

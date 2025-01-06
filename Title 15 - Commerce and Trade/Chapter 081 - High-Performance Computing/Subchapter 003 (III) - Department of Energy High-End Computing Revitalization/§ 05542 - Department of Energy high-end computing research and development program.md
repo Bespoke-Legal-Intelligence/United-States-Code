@@ -62,7 +62,7 @@ The program shall—
 
 #### (B) Selection of partners
 
-&emsp;&emsp;The Secretary shall select the partnerships with the computing facilities of the Department under subparagraph (A) through a competitive, peer-review process.
+&emsp;&emsp;The Secretary shall select the partnerships with the computing facilities of theDepartment under subparagraph (A) through a competitive, peer-review process.
 
 #### (3) Codesign and application development
 

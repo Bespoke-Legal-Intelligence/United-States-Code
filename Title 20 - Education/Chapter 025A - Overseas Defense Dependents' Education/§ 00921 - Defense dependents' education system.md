@@ -34,15 +34,21 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
-(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343, Dec. 2, 2002, 116 Stat. 2515.)
+#### (e) Meal programs
+
+In addition to carrying out the requirement under section 1769b of title 42 to administer lunch programs in certain dependents' schools, the Secretary of Defense may administer a school breakfast program for students attending a school of the defense dependents' education system.
+
+(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343,Dec. 2, 2002, 116 Stat. 2515; Pub. L. 118–159, div. A, title V, §594(b), Dec. 23, 2024, 138 Stat. 1919.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title", meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, known as the Defense Dependents' Education Act of 1978, which enacted thischapter, section 489 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, known as the Defense Dependents' Education Act of 1978, which enacted this chapter, section 489 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e). Pub. L. 118–159 added subsec. (e).
 
 <b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
 
@@ -126,7 +132,7 @@ Pub. L. 110–181, div. B, title XXVIII, §2879, Jan. 28, 2008, 122 Stat. 564, p
 
 "(a)
 
-Report Required.—Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the conditions of schools under the jurisdiction of the Department of Defense Education Activity.
+Report Required.—Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the conditions ofschools under the jurisdiction of the Department of Defense Education Activity.
 
 "(b)
 

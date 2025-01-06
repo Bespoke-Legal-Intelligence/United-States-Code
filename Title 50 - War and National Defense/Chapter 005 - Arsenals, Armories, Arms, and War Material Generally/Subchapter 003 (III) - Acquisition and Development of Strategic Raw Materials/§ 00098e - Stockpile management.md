@@ -38,7 +38,7 @@ Except as provided in subsections (c) and (d), acquisition of strategic and crit
 
 #### (d) Waiver; notification of proposed disposal of materials
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons fornot complying with any provision of such subsection.
 
 (2) Materials in the stockpile may be disposed of under subsection (a)(6) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
@@ -118,7 +118,7 @@ Subsec. (f). Pub. L. 117–81, §1412, added subsec. (f).
 
 <b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–85, in first sentence, substituted "strategic and critical materials from the stockpile shall be made in accordance with the next sentence" for "materials from the stockpile shall be made by formal advertising or competitive negotiation procedures".
+<b>1997</b>—Subsec. (b). Pub. L. 105–85, in first sentence, substituted "strategic and critical materials from thestockpile shall be made in accordance with the next sentence" for "materials from the stockpile shall be made by formal advertising or competitive negotiation procedures".
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §3312(b), substituted "45 days" for "thirty days".
 
@@ -136,7 +136,7 @@ Pub. L. 104–106, §1502(e)(1)(B), substituted "such congressional committees" 
 
 Subsec. (c)(1). Pub. L. 101–510, §3301(b)(2), inserted "under subsection (a)(1)" after "the acquisition" and "under subsection (a)(5) or (a)(6)" after "the disposal".
 
-Subsec. (c)(2). Pub. L. 101–510, §3301(b)(3), substituted "(the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorizedby law)" for ", the disposition of which is authorized by law," and "of upgrading, refining" for "of refining".
+Subsec. (c)(2). Pub. L. 101–510, §3301(b)(3), substituted "(the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law)" for ", the disposition of which is authorized by law," and "of upgrading, refining" for "of refining".
 
 Subsec. (c)(3), (4). Pub. L. 101–510, §3301(a), added par. (3) and redesignated former par. (3) as (4).
 

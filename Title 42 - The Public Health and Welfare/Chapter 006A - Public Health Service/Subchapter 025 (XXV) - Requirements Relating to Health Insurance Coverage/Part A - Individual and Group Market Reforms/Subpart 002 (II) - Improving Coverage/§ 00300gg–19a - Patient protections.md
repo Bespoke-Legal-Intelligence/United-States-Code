@@ -2,7 +2,7 @@
 
 #### (a) Choice of health care professional
 
-If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee of a participating primary care provider, then the plan or issuer shall permit each participant, beneficiary, and enrollee to designate any participating primary care provider who is available to accept such individual.
+If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee ofa participating primary care provider, then the plan or issuer shall permit each participant, beneficiary, and enrollee to designate any participating primary care provider who is available to accept such individual.
 
 #### (b) Coverage of emergency services
 
@@ -64,7 +64,7 @@ If a group health plan, or a health insurance issuer offering group or individua
 
 #### (B) Obstetrical and gynecological care
 
-&emsp;&emsp;A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
+&emsp;&emsp;A group health plan or health insurance issuer described in paragraph (2) shall treatthe provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
 
 #### (2) Application of paragraph
 

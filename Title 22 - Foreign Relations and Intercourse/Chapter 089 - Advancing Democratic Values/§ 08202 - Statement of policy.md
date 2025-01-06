@@ -12,7 +12,7 @@ It is the policy of the United States—
 
 &emsp;(5) to use instruments of United States influence to support, promote, and strengthen democratic principles, practices, and values, including the right to free, fair, and open elections, secret balloting, and universal suffrage, including by—
 
-&emsp;&emsp;(A) providing appropriate support to individuals, nongovernmental organizations, and movements located in nondemocratic countries that aspire to live in freedom and establish full democracy in such countries; and
+&emsp;&emsp;(A) providing appropriate support to individuals, nongovernmental organizations, andmovements located in nondemocratic countries that aspire to live in freedom and establish full democracy in such countries; and
 
 &emsp;&emsp;(B) providing political, economic, and other support to foreign countries and individuals, nongovernmental organizations, and movements that are willingly undertaking a transition to democracy; and
 

@@ -80,7 +80,7 @@ Special rule.—Before September 30, 2025, if a public authority establishes pro
 
 &emsp;&emsp;(B)
 
-Other low emission and energy-efficient vehicles.—Before September 30, 2019, the public authority may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the authority for use of the facility and the authority—
+Other low emission and energy-efficient vehicles.—Before September 30, 2019,the public authority may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the authority for use of the facility and the authority—
 
 &emsp;&emsp;&emsp;(i) establishes a program that addresses the selection of vehicles under this paragraph; and
 
@@ -312,7 +312,7 @@ Subsec. (f)(5). Pub. L. 114–94, §1411(b)(6)(C), (E), added par. (5) and struc
 
 "(A)
 
-In general.—The term 'State agency', as used with respect to a HOV facility, means an agency of aState or local government having jurisdiction over the operation of the facility.
+In general.—The term 'State agency', as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
 
 "(B)
 

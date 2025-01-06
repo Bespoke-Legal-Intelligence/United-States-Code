@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(iii) the Government Accountability Office; and
 
-&emsp;(D) "disclosure" means a formal or informal communication or transmission, but does notinclude a communication concerning policy decisions that lawfully exercise discretionary authority unless the employee or applicant providing the disclosure reasonably believes that the disclosure evidences—
+&emsp;(D) "disclosure" means a formal or informal communication or transmission, but does not include a communication concerning policy decisions that lawfully exercise discretionary authority unless the employee or applicant providing the disclosure reasonably believes that the disclosure evidences—
 
 &emsp;&emsp;(i) any violation of any law, rule, or regulation; or
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
-> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs;
+> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is notspecifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs;
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
@@ -140,7 +140,7 @@
 
 &emsp;(14) access the medical record of another employee or an applicant for employment as a part of, or otherwise in furtherance of, any conduct described in paragraphs (1) through (13).
 
-> This subsection shall not be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who discloses information to Congress. For purposes of paragraph (8), (i) any presumption relating to the performance of a duty by an employee whose conduct is the subject of a disclosure as defined under subsection (a)(2)(D) may be rebutted by substantial evidence, and (ii) a determination as to whether an employee or applicant reasonably believes that such employee or applicant has disclosed information that evidences any violation of law, rule, regulation, gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety shall be made by determining whether a disinterested observer with knowledge of the essential facts known to and readily ascertainable by the employee or applicant could reasonably conclude that the actions of the Government evidence such violations, mismanagement, waste, abuse, or danger.
+> This subsection shall not be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who discloses information to Congress. For purposes of paragraph (8), (i) any presumption relating to the performance of a duty by an employee whose conduct is the subject of a disclosure as defined under subsection (a)(2)(D) may be rebutted by substantial evidence, and (ii) a determination as to whether an employee or applicant reasonably believes that such employee or applicant has disclosed information that evidences any violation of law, rule, regulation, gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety shall be made by determining whether a disinterested observer with knowledge of the essential facts known to and readily ascertainable bythe employee or applicant could reasonably conclude that the actions of the Government evidence such violations, mismanagement, waste, abuse, or danger.
 
 (c)(1) In this subsection—
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;&emsp;(II) the Inspector General of an agency;
 
-&emsp;&emsp;&emsp;(III) Congress (including any committee of Congress with respect to informationthat is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods); or
+&emsp;&emsp;&emsp;(III) Congress (including any committee of Congress with respect to information that is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods); or
 
 &emsp;&emsp;&emsp;(IV) another employee of the agency who is designated to receive such a disclosure.
 
@@ -230,7 +230,7 @@
 
 (2) If a disclosure is made during the normal course of duties of an employee, the principal job function of whom is to regularly investigate and disclose wrongdoing (referred to in this paragraph as the "disclosing employee"), the disclosure shall not be excluded from subsection (b)(8) if the disclosing employee demonstrates that an employee who has the authority to take, direct other individuals to take, recommend, or approve any personnel action with respect to the disclosing employee took, failed to take, or threatened to take or fail to take a personnel action with respect to the disclosing employee in reprisal for the disclosure made by the disclosing employee.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, §2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73,title I, §§103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, §1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618; Pub. L. 116–92, div. E, title LVII, §5721, Dec. 20, 2019, 133 Stat. 2175; Pub. L. 116–283, div. A, title XI, §1138, Jan. 1, 2021, 134 Stat. 3905.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, §2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73, title I, §§103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, §1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618; Pub. L. 116–92, div. E, title LVII, §5721, Dec. 20, 2019, 133 Stat. 2175; Pub. L. 116–283, div. A, title XI, §1138, Jan. 1, 2021, 134 Stat. 3905.)
 
 #### <b>Editorial Notes</b>
 
@@ -278,7 +278,7 @@ Subsec. (f)(2). Pub. L. 115–91, §1097(c)(1)(B)(ii), added par. (2) and struck
 
 Subsec. (a)(2)(C)(i). Pub. L. 112–199, §101(b)(1)(B), inserted "or section 2302(b)(9)(A)(i), (B), (C), or (D)" after "(b)(8)".
 
-Subsec. (a)(2)(C)(ii). Pub. L. 112–199, §105, added cl. (ii) and struck out former cl. (ii) which read as follows: "the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or".
+Subsec. (a)(2)(C)(ii). Pub. L. 112–199, §105, added cl. (ii) and struck out former cl. (ii) which read as follows:"the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or".
 
 Subsec. (a)(2)(D). Pub. L. 112–199, §102, added subpar. (D).
 
@@ -360,7 +360,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
+Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201,set out as a note under section 193 of Title 10, Armed Forces.
 
 Pub. L. 104–197, title III, §315(c), Sept. 16, 1996, 110 Stat. 2416, provided that: "This section \[amending this section and section 3303 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Sept. 16, 1996\]."
 
@@ -380,7 +380,7 @@ Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: "This s
 
 #### Agency Websites
 
-Pub. L. 112–199, title I, §104(b)(2), Nov. 27, 2012, 126 Stat. 1467, provided that: "Agencies making use of anynondisclosure policy, form, or agreement shall also post the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions."
+Pub. L. 112–199, title I, §104(b)(2), Nov. 27, 2012, 126 Stat. 1467, provided that: "Agencies making use of any nondisclosure policy, form, or agreement shall also post the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions."
 
 #### Nondisclosure Policy, Form, or Agreement in Effect Before the Effective Date
 
@@ -456,7 +456,7 @@ In General.—
 
 &emsp;"(1)
 
-Requirement.—Each agreement in Standard Forms 312 and 4414 of the Government and any other nondisclosure policy, form, or agreement of the Government shall contain the following statement: 'These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.'.
+Requirement.—Each agreement in Standard Forms 312 and 4414 of the Government and any other nondisclosure policy, form, or agreement of the Government shall contain the following statement:'These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.'.
 
 &emsp;"(2)
 
@@ -520,7 +520,7 @@ Memorandum of President of the United States, June 2, 2010, 75 F.R. 32247, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-For far too long, many of our Government's hard-working, dedicated LGBT employees have been denied equal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
+For far too long, many of our Government's hard-working, dedicated LGBT employees have been deniedequal access to the basic rights and benefits their colleagues enjoy. This kind of systemic inequality undermines the health, well-being, and security not just of our Federal workforce, but also of their families and communities. That is why, last June, I directed the heads of executive departments and agencies (agencies), in consultation with the Office of Personnel Management (OPM), to conduct a thorough review of the benefits they provide and to identify any that could be extended to LGBT employees and their partners and families. Although legislative action is necessary to provide full equality to LGBT Federal employees, the agencies have identified a number of benefits that can be extended under existing law. OPM, in consultation with the Department of Justice, has provided me with a report recommending that all of the identified benefits be extended.
 
 Accordingly, I hereby direct the following:
 
@@ -538,7 +538,7 @@ Section 1. <i>Immediate Actions To Extend Benefits</i>. Agencies should immediat
 
 (v) clarify that under appropriate circumstances, employees' same-sex domestic partners and their children qualify as dependents for purposes of evacuation payments made under 5 U.S.C. 5522–5523; Folio: 1632 \[sic\]
 
-(vi) amend its guidance on implementing President Clinton's April 11, 1997, memorandum to heads of executive departments and agencies on "Expanded Familyand Medical Leave Policies" to specify that the 24 hours of unpaid leave made available to Federal employees in connection with (i) school and early childhood educational activities; (ii) routine family medical purposes; and (iii) elderly relatives' health or care needs, may be used to meet the needs of an employee's same-sex domestic partner or the same-sex domestic partner's children; and
+(vi) amend its guidance on implementing President Clinton's April 11, 1997, memorandum to heads of executive departments and agencies on "Expanded Family and Medical Leave Policies" to specify that the 24 hours of unpaid leave made available to Federal employees in connection with (i) school and early childhood educational activities; (ii) routine family medical purposes; and (iii) elderly relatives' health or care needs, may be used to meet the needs of an employee's same-sex domestic partner or the same-sex domestic partner's children; and
 
 (vii) clarify that employees' same-sex domestic partners qualify as dependents for purposes of calculating the extra allowance payable under 5 U.S.C. 5942a to assist employees stationed on Johnston Island, subject to any limitations applicable to spouses.
 

@@ -60,7 +60,7 @@ For the purposes of this section, the term "gift" includes a bequest or devise.
 
 #### (g) Regulations
 
-The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
+The Director, in consultation with the Director of the Office of Government Ethics, shallissue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
 
 &emsp;(1) the avoidance of any prohibited conflict of interest or appearance of impropriety; and
 

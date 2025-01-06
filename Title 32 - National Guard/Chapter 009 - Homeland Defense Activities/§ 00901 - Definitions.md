@@ -214,7 +214,7 @@ Joint Briefings.—Not later than 300 days after the date of the enactment of th
 
 &emsp;"(3) Any update by the Secretary of Homeland Security to the National Cyber Incident Response Plan pursuant to subsection (d).
 
-&emsp;"(4) How the Department of Defense, including the National Guard, and the Department of Homeland Security, including the Cybersecurity and Infrastructure Security Agency and the Federal EmergencyManagement Agency, will collaborate with each other and with relevant law enforcement, State governments, and other non-Federal entities when responding to and recovering from significant cyber incidents.
+&emsp;"(4) How the Department of Defense, including the National Guard, and the Department of Homeland Security, including the Cybersecurity and Infrastructure Security Agency and the Federal Emergency Management Agency, will collaborate with each other and with relevant law enforcement, State governments, and other non-Federal entities when responding to and recovering from significant cyber incidents.
 
 "(f)
 

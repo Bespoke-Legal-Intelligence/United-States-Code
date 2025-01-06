@@ -14,7 +14,7 @@ Covered Government Support Contractor Defined.—In this subchapter, the term "c
 
 &emsp;&emsp;(C) that the covered Government support contractor will take all reasonable steps to protect the proprietary and nonpublic nature of the technical data furnished to the covered Government support contractor during the program or effort for the period of time in which the Government is restricted from disclosing the technical data outside of the Government;
 
-&emsp;&emsp;(D) that a breach of that contract by the covered Government support contractor with regard to a third party's ownership or rights in such technical data may subject the covered Government support contractor—
+&emsp;&emsp;(D) that a breach of that contract by the covered Government support contractorwith regard to a third party's ownership or rights in such technical data may subject the covered Government support contractor—
 
 &emsp;&emsp;&emsp;(i) to criminal, civil, administrative, and contractual actions in law and equity for penalties, damages, and other appropriate remedies by the United States; and
 

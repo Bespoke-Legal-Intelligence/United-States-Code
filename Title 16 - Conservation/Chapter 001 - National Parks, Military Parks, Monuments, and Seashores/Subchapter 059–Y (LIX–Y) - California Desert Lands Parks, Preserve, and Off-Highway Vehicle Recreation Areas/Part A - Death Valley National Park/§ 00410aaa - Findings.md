@@ -24,7 +24,7 @@ The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964,
 
 #### Short Title
 
-Pub. L. 103–433, §1, Oct. 31, 1994, 108 Stat. 4471, as amended by Pub. L. 116–9, title I, §1458(a), Mar. 12, 2019, 133 Stat. 718, provided that: "Sections 1, 2, and 3, titles I through IX, and titles XIII and XIV of this Act \[enacting this subchapter, part E of subchapter LIX–Y of this chapter, subchapters CXLII and CXLIII of this chapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, provisions set out asnotes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'California Desert Protection Act of 1994'."
+Pub. L. 103–433, §1, Oct. 31, 1994, 108 Stat. 4471, as amended by Pub. L. 116–9, title I, §1458(a), Mar. 12, 2019, 133 Stat. 718, provided that: "Sections 1, 2, and 3, titles I through IX, and titles XIII and XIV of this Act \[enacting this subchapter, part E of subchapter LIX–Y of this chapter, subchapters CXLII and CXLIII of this chapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'California Desert Protection Act of 1994'."
 
 #### Timbisha Shoshone Homeland
 
@@ -162,7 +162,7 @@ Limitations on impact on mining claims.—Nothing in this Act shall be construed
 
 "(c)
 
-Legal Descriptions.—Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management.
+Legal Descriptions.—Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal descriptionand in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management.
 
 "(d)
 
@@ -198,7 +198,7 @@ Mesquite use area.—The area generally depicted on the map entitled 'Mesquite U
 
 &emsp;&emsp;"(B)
 
-Buffer area.—An area of approximately 1,500 acres, as generally depicted on the map entitled 'Buffer Area' numbered Map \#8 and dated April 12, 2000. The National Park Service shall restrict visitor use of this area to protect the privacy of the Tribe and to provide an opportunity for the Tribeto conduct community affairs without undue disruption from the public.
+Buffer area.—An area of approximately 1,500 acres, as generally depicted on the map entitled 'Buffer Area' numbered Map \#8 and dated April 12, 2000. The National Park Service shall restrict visitor use of this area to protect the privacy of the Tribe and to provide an opportunity for the Tribe to conduct community affairs without undue disruption from the public.
 
 &emsp;&emsp;"(C)
 

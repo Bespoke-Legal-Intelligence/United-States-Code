@@ -66,7 +66,7 @@ In this chapter, the following definitions apply:
 
 #### (5) Health care facility
 
-&emsp;The term "health care facility" means a facility in which medical care, diagnosis, or treatment is provided on an inpatient or outpatient basis. Such term does not include facilities at an arena, stadium, or practice facility, or temporary facilities existing for events where athletes or athletic teams may compete.
+&emsp;The term "health care facility" means a facility in which medical care, diagnosis, or treatment is provided on an inpatient or outpatient basis. Such term does not include facilities at an arena, stadium, or practice facility, or temporary facilities existing for eventswhere athletes or athletic teams may compete.
 
 #### (6) Institution of higher education
 

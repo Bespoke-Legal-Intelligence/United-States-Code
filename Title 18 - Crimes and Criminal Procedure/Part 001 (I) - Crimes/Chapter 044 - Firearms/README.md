@@ -56,7 +56,7 @@ Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226, added chapter 44
 
 #### Tracing of Firearms in Connection With Criminal Investigations
 
-Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, which requires Federal law enforcement agencies to ensure that all firearms recovered after Jan. 16, 2013, in the course of criminal investigations and taken into Federal custody are traced through the Bureau of Alcohol, Tobacco, Firearms, andExplosives at the earliest time practicable, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
+Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, which requires Federal law enforcement agencies to ensure that all firearms recovered after Jan. 16, 2013, in the course of criminal investigations and taken into Federal custody are traced through the Bureau of Alcohol, Tobacco, Firearms, and Explosives at the earliest time practicable, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
 
 #### Promoting Smart Gun Technology
 

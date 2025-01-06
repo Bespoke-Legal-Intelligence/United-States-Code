@@ -42,7 +42,7 @@ Pub. L. 105–119, title I, §115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, as am
 
 &emsp;"(II) inform such persons concerning registration obligations; and
 
-&emsp;"(III) track and ensure compliance with registration requirements by such persons during any periodof parole, probation, or other conditional release or supervision related to the offense.
+&emsp;"(III) track and ensure compliance with registration requirements by such persons during any period of parole, probation, or other conditional release or supervision related to the offense.
 
 "(iii) The procedures and requirements established by the Secretary under this subparagraph shall, to the maximum extent practicable, be consistent with those specified for Federal offenders under the Sex Offender Registration and Notification Act.
 

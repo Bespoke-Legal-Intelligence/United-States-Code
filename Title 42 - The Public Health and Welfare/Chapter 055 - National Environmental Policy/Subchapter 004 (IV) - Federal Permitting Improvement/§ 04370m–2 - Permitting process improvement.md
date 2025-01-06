@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) information on the status of mitigation measures that were agreed to as part of the environmental review and permitting process, including whether and when the mitigation measures have been fully implemented; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) a description of the status of any litigation to which the agency is a party that is directly related to the project, including, if practicable, any judicial document made available on an electronic docket maintained by a Federal, State, or local court;
+&emsp;&emsp;&emsp;&emsp;(VI) a description of the status of any litigation to which the agency is a party that is directly related to the project, including, if practicable, any judicial document made available on an electronicdocket maintained by a Federal, State, or local court;
 
 &emsp;&emsp;&emsp;(ii) any document described in clause (i) that is not available by hyperlink on another website; and
 
@@ -246,7 +246,7 @@
 
 #### (iii) Final resolution
 
-&emsp;&emsp;&emsp;Any action taken by the Director of the Office of Management and Budget in the resolution of a dispute under clause (ii) shall—
+&emsp;&emsp;&emsp;Any action taken by the Director of the Office of Management and Budget in theresolution of a dispute under clause (ii) shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) be final and conclusive; and
 
@@ -290,7 +290,7 @@
 
 #### (E) Consistency with other time periods
 
-&emsp;&emsp;A permitting timetable established under subparagraph (A) shall be consistent with any other relevant time periods establishedunder Federal law and shall not prevent any cooperating or participating agency from discharging any obligation under Federal law in connection with the project.
+&emsp;&emsp;A permitting timetable established under subparagraph (A) shall be consistent with any other relevant time periods established under Federal law and shall not prevent any cooperating or participating agency from discharging any obligation under Federal law in connection with the project.
 
 #### (F) Conforming to permitting timetables
 

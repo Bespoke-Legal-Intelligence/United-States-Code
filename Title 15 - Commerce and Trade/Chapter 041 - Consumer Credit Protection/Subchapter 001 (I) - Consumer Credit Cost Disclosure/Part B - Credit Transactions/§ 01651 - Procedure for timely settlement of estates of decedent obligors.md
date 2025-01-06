@@ -1,6 +1,6 @@
 ### §1651. Procedure for timely settlement of estates of decedent obligors
 
-The Bureau, in consultation with the Bureau <sup>1</sup> and each other agency referred to in section 1607(a) of this title, shall prescribe regulations to require any creditor, with respect to any credit card account under an open end consumer credit plan, to establish procedures to ensure that any administrator of an estate of any deceased obligor with respect to such account can resolve outstanding credit balances in a timely manner.
+The Bureau, in consultation with the Bureau <sup>1</sup> and each other agency referred to in section 1607(a) of this title, shall prescribe regulationsto require any creditor, with respect to any credit card account under an open end consumer credit plan, to establish procedures to ensure that any administrator of an estate of any deceased obligor with respect to such account can resolve outstanding credit balances in a timely manner.
 
 (Pub. L. 90–321, title I, §140A, as added Pub. L. 111–24, title V, §504(a), May 22, 2009, 123 Stat. 1756; amended Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 

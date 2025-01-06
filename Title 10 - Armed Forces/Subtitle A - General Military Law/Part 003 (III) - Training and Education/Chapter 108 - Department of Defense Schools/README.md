@@ -7,18 +7,21 @@
 | [2163\.](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md) | Degree granting authority for National Defense University. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
 | [2164a.](%C2%A7%2002164a%20-%20Rights%20of%20parents%20of%20children%20attending%20schools%20operated%20by%20the%20Department%20of%20Defense%20Education%20Activity.md) | Rights of parents of children attending schools operated by the Department of Defense Education Activity. |
+| [2164b.](%C2%A7%2002164b%20-%20Eligibility%20of%20certain%20dependents%20for%20enrollment%20in%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Eligibility of certain dependents for enrollment in domestic dependent elementary and secondary schools. |
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
 | \[2166. | Renumbered.\] |
 | [2167\.](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md) | National Defense University: admission of private sector civilians to professional military education program. |
 | [2167a.](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md) | Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction. |
 | [2168\.](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20or%20Bachelor%20of%20Arts%20in%20foreign%20language.md) | Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language. |
-| [2169\.](%C2%A7%2002169%20-%20School%20of%20Nursing%20establishment.md) | School of Nursing: establishment.<br> |
+| [2169\.](%C2%A7%2002169%20-%20School%20of%20Nursing%20establishment.md) | School of Nursing: establishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title V, §595(a), Dec. 23, 2024, 138 Stat. 1919, added item 2164b. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title V, §589(a), Dec. 22, 2023, 137 Stat. 284, added item 2164a. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -86,7 +89,7 @@ Finding.—Congress finds that it is in the national interest of the United Stat
 
 "(b)
 
-Military Education and Training Programs.—The Secretary of each military department shall give due consideration to according a high priority to the attendance of military personnel of Poland, Hungary, and the Czech Republic at professional military education schools and training programs in the United States, including the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the National Defense University, the war colleges of the Armed Forces, the command and general staff officer courses of the Armed Forces, and other schools and training programs of the Armed Forces that admit personnel of foreign armed forces."
+Military Education and Training Programs.—The Secretary of each military department shall give due consideration to according a high priority to the attendance of military personnel of Poland, Hungary, and the Czech Republic at professional military education schools and training programs in the United States, including the United States Military Academy,the United States Naval Academy, the United States Air Force Academy, the National Defense University, the war colleges of the Armed Forces, the command and general staff officer courses of the Armed Forces, and other schools and training programs of the Armed Forces that admit personnel of foreign armed forces."
 
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools
 
@@ -116,6 +119,7 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 - [&sect; 02163 - Degree granting authority for National Defense University](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02164a - Rights of parents of children attending schools operated by the Department of Defense Education Activity](%C2%A7%2002164a%20-%20Rights%20of%20parents%20of%20children%20attending%20schools%20operated%20by%20the%20Department%20of%20Defense%20Education%20Activity.md)
+- [&sect; 02164b - Eligibility of certain dependents for enrollment in domestic dependent elementary and secondary schools](%C2%A7%2002164b%20-%20Eligibility%20of%20certain%20dependents%20for%20enrollment%20in%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
 - [&sect; 02166 - Renumbered &sect;343](%C2%A7%2002166%20-%20Renumbered%20%C2%A7343.md)
 - [&sect; 02167 - National Defense University admission of private sector civilians to professional military education program](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md)

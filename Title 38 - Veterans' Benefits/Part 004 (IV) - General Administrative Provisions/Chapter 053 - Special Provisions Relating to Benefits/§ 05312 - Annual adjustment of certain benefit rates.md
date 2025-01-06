@@ -12,7 +12,7 @@
 
 (2) Whenever such rates and income limitations are so increased, the Secretary may round such rates and income limitations in such manner as the Secretary considers equitable and appropriate for ease of administration.
 
-(Added Pub. L. 95–588, title III, §305(a), Nov. 4, 1978, 92 Stat. 2507, §3112; amended Pub. L. 97–295, §4(76), Oct. 12, 1982, 96 Stat. 1311; renumbered §5312, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–204, title IV, §421(c), Sept. 26, 1996, 110 Stat. 2926; Pub. L. 108–454, title V, §506, Dec. 10, 2004, 118 Stat. 3622.)
+(Added Pub. L. 95–588, title III, §305(a), Nov. 4, 1978, 92 Stat. 2507, §3112; amended Pub. L. 97–295, §4(76), Oct. 12, 1982, 96 Stat. 1311; renumbered §5312, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–204, title IV, §421(c), Sept. 26, 1996, 110 Stat.2926; Pub. L. 108–454, title V, §506, Dec. 10, 2004, 118 Stat. 3622.)
 
 #### <b>Editorial Notes</b>
 

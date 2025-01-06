@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) there is no single, simple solution to the problem of homelessness because of the different subpopulations of the homeless, the different causes of and reasons for homelessness, and the different needs of homeless individuals;
 
-&emsp;(5) due to the record increase in homelessness, States, units of local government, and private voluntary organizations have been unable to meet the basic human needs of all the homeless and, in the absence of greater Federal assistance, will be unable to protect the lives and safety of all the homeless in need of assistance; and
+&emsp;(5) due to the record increase in homelessness, States, units of local government, and private voluntary organizations have been unable to meet the basic human needs of all the homeless and, in the absence of greater Federal assistance, will be unable to protect thelives and safety of all the homeless in need of assistance; and
 
 &emsp;(6) the Federal Government has a clear responsibility and an existing capacity to fulfill a more effective and responsible role to meet the basic human needs and to engender respect for the human dignity of the homeless.
 
@@ -58,7 +58,7 @@ Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: "This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: "This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this titleto sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the 'Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992'."
+Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: "This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the 'Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992'."
 
 #### Short Title of 1990 Amendment
 

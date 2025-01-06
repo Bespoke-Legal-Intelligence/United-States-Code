@@ -30,7 +30,7 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 &emsp;(1) be a public or private nonprofit entity; and
 
-&emsp;(2) in the case of a grant made under subsection (a)(1), demonstrate to the Secretary that the decline referred to in such subsectionoccurred, or will occur, within 2 years of the date the application was filed for such grant.
+&emsp;(2) in the case of a grant made under subsection (a)(1), demonstrate to the Secretary that the decline referred to in such subsection occurred, or will occur, within 2 years of the date the application was filed for such grant.
 
 #### (d) Uses
 
@@ -80,7 +80,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 #### (1) Nationally competitive application process
 
-&emsp;The Secretary shall develop a nationally competitive application process to award grants under this section. The process shall include criteria for evaluating applications, including population, median household income, and the severity of the decline, or imminent decline, in quantity or quality of water.
+&emsp;The Secretary shall develop a nationally competitive application process to awardgrants under this section. The process shall include criteria for evaluating applications, including population, median household income, and the severity of the decline, or imminent decline, in quantity or quality of water.
 
 #### (2) Timing of review of applications
 
@@ -118,7 +118,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 &emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584;amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, §6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6008, June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6007, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, §6407(a), Dec. 20, 2018, 132 Stat. 4759.)
+(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, §6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6008, June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6007, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, §6407(a), Dec. 20, 2018, 132 Stat. 4759.)
 
 #### <b>Editorial Notes</b>
 

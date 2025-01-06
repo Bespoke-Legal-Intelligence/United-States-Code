@@ -60,7 +60,7 @@ To be eligible to receive a grant under this section, an entity shall submit an 
 
 &emsp;&emsp;(F) establishes a system of referral to Federal, State, and local departments or agencies related to pension and other retirement benefits;
 
-&emsp;&emsp;(G) provides a sufficient number of staff positions (including volunteer positions) to ensure information, counseling, referral, and assistance regarding pension and other retirement benefits;
+&emsp;&emsp;(G) provides a sufficient number of staff positions (including volunteer positions) toensure information, counseling, referral, and assistance regarding pension and other retirement benefits;
 
 &emsp;&emsp;(H) provides training programs for staff members, including volunteer staff members, of pension and other retirement benefits programs;
 

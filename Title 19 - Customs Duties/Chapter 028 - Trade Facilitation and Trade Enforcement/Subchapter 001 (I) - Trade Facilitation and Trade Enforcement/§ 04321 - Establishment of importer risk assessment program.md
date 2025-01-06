@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;(A) an individual who is not a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; or
 
-&emsp;&emsp;(B) a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the UnitedStates) or in the Virgin Islands of the United States.
+&emsp;&emsp;(B) a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
 
 (Pub. L. 114–125, title I, §115, Feb. 24, 2016, 130 Stat. 143.)
 

@@ -21,7 +21,7 @@
 
 <b>2023</b>—Pub. L. 118–31, div. A, title V, §515(b), Dec. 22, 2023, 137 Stat. 249, added item 510.
 
-<b>2004</b>—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted "National Guard Youth Challenge" for "National Guard Challenge" in item 509.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted "National GuardYouth Challenge" for "National Guard Challenge" in item 509.
 
 <b>1997</b>—Pub. L. 105–85, div. A, title X, §1076(b), Nov. 18, 1997, 111 Stat. 1914, added item 509.
 

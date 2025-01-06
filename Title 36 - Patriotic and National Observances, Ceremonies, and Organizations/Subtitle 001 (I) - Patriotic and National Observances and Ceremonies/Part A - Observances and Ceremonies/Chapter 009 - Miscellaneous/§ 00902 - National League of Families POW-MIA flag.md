@@ -88,7 +88,7 @@ Dec. 5, 1991, Pub. L. 102–190, title X, §1084(a)–(c), (e), 105 Stat. 1482, 
 
 Dec. 5, 1991, Pub. L. 102–190, title X, §1084(d), 105 Stat. 1483.
 
-In subsection (b), the text of section 1084(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190, 105 Stat. 1483) is omitted as executed.
+In subsection (b), the text of section 1084(c) of the National Defense Authorization Act for Fiscal Years 1992and 1993 (Public Law 102–190, 105 Stat. 1483) is omitted as executed.
 
 #### Pub. L. 105–354
 

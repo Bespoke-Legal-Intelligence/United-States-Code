@@ -54,7 +54,7 @@ In this chapter:
 
 &emsp;(10) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(11) The term "sequestration" means the long-term separation, isolation, or removal ofgreenhouse gases from the atmosphere, including through a biological or geologic method such as reforestation or an underground reservoir.
+&emsp;(11) The term "sequestration" means the long-term separation, isolation, or removal of greenhouse gases from the atmosphere, including through a biological or geologic method such as reforestation or an underground reservoir.
 
 &emsp;(12) The term "tribal energy development organization" means—
 

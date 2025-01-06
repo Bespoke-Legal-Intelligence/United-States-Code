@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) tree plantings and ground covers such as low growing dense perennial turfgrass sod in urban areas and communities can aid in reducing carbon dioxide emissions, mitigating the heat island effect, and reducing energy consumption, thus contributing to efforts to reduce global warming trends;
 
-&emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areas and communities can contribute to the social well-being and promote a sense of community in these areas; and
+&emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areasand communities can contribute to the social well-being and promote a sense of community in these areas; and
 
 &emsp;(7) strengthened research, education, technical assistance, and public information and participation in tree planting and maintenance programs for trees and complementary ground covers for urban and community forests are needed to provide for the protection and expansion of tree cover and open space in urban areas and communities.
 
@@ -54,7 +54,7 @@ The Secretary is authorized to provide financial, technical, and related assista
 
 The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
 
-&emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species,number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
+&emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species, number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
 
 &emsp;(2) assist State and local organizations (including community associations and schools) in organizing and conducting urban and community forestry projects and programs;
 
@@ -74,7 +74,7 @@ The Secretary, in cooperation with State foresters and State extension directors
 
 #### (e) Procurement of plant materials
 
-The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
+The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials andmay procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
 
 #### (f) Challenge cost-share program
 
@@ -206,7 +206,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (6) Detail of personnel
 
-&emsp;Upon request of the Council, the Secretary is authorized to detail, on a reimbursablebasis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
+&emsp;Upon request of the Council, the Secretary is authorized to detail, on a reimbursable basis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
 
 #### (h) Definitions
 

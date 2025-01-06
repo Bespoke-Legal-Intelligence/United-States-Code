@@ -62,7 +62,7 @@
 
 &emsp;Each Assistant Director appointed pursuant to paragraph (1) may exercise the authority assigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
 
-(Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat.882; amended Pub. L. 110–409, §4(a)(4), Oct. 14, 2008, 122 Stat. 4304; Pub. L. 111–13, title I, §1705, Apr. 21, 2009, 123 Stat. 1547; Pub. L. 112–166, §2(p), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 117–286, §4(b)(87), Dec. 27, 2022, 136 Stat. 4352.)
+(Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 882; amended Pub. L. 110–409, §4(a)(4), Oct. 14, 2008, 122 Stat. 4304; Pub. L. 111–13, title I, §1705, Apr. 21, 2009, 123 Stat. 1547; Pub. L. 112–166, §2(p), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 117–286, §4(b)(87), Dec. 27, 2022, 136 Stat. 4352.)
 
 #### <b>Editorial Notes</b>
 

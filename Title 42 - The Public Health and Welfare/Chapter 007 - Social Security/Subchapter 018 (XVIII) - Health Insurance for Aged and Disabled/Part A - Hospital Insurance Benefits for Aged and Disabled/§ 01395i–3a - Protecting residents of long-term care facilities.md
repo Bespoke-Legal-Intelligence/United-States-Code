@@ -44,7 +44,7 @@
 
 #### (B) Use of funds
 
-&emsp;A grant awarded under subparagraph (A) shall be used for the purpose of designing and implementing complaint investigations systems that—
+&emsp;A grant awarded under subparagraph (A) shall be used for the purpose of designing andimplementing complaint investigations systems that—
 
 &emsp;&emsp;(i) promptly prioritize complaints in order to ensure a rapid response to the most serious and urgent complaints;
 

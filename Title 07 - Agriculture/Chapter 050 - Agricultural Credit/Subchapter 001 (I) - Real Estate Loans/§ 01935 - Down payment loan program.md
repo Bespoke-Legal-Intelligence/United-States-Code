@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to eligible farmers or ranchers for down payments on farm ownership loans.
+&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish,within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to eligible farmers or ranchers for down payments on farm ownership loans.
 
 #### (2) Administration
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) be junior only to such interests in the farm or ranch as may be conveyed at the time of acquisition to the person (including a lender) from whom the borrower obtained a loan used to acquire the farm or ranch; and
 
-&emsp;&emsp;(C) require the borrower to obtain the permission of the Secretary before the borrowermay grant an additional security interest in the farm or ranch.
+&emsp;&emsp;(C) require the borrower to obtain the permission of the Secretary before the borrower may grant an additional security interest in the farm or ranch.
 
 #### (c) Limitations
 
@@ -104,7 +104,7 @@ In this section, the term "eligible farmer or rancher" means—
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

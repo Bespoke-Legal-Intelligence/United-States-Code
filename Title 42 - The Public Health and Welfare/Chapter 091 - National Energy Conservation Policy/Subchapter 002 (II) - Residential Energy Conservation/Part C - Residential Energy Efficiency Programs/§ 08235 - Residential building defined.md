@@ -1,6 +1,6 @@
 ### §8235. "Residential building" defined
 
-As used in this part, the term "residential building" means any building used as a residence which is not a new building to which final standards under sections 6833(a) and 6834 <sup>1</sup> of this title apply and which has a system for heating, cooling, or both.
+As used in this part, the term "residential building" means any building used as a residence which is not a new building to which final standards under sections 6833(a) and 6834 <sup>1</sup> of thistitle apply and which has a system for heating, cooling, or both.
 
 (Pub. L. 95–619, title II, §261, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 746.)
 

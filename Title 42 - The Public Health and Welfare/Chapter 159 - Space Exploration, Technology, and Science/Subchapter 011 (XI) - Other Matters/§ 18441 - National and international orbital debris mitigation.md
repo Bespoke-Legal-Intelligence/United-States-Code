@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 #### (1) In general
 
-&emsp;The Administrator shall, in consultation with such other departments and agencies of the Federal Government as the Administrator considers appropriate, continue and strengthen discussions with the representatives ofother space-faring countries, within the Inter-Agency Space Debris Coordination Committee and elsewhere, to deal with this orbital debris mitigation.
+&emsp;The Administrator shall, in consultation with such other departments and agencies of the Federal Government as the Administrator considers appropriate, continue and strengthen discussions with the representatives of other space-faring countries, within the Inter-Agency Space Debris Coordination Committee and elsewhere, to deal with this orbital debris mitigation.
 
 #### (2) Interagency effort
 

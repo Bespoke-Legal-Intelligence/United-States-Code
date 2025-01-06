@@ -6,7 +6,7 @@
 | [30502\.](%C2%A7%2030502%20-%20National%20Motor%20Vehicle%20Title%20Information%20System.md) | National Motor Vehicle Title Information System. |
 | [30503\.](%C2%A7%2030503%20-%20State%20participation.md) | State participation. |
 | [30504\.](%C2%A7%2030504%20-%20Reporting%20requirements.md) | Reporting requirements. |
-| [30505\.](%C2%A7%2030505%20-%20Penalties%20and%20enforcement.md) | Penalties and enforcement.<br> |
+| [30505\.](%C2%A7%2030505%20-%20Penalties%20and%20enforcement.md) | Penalties and enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

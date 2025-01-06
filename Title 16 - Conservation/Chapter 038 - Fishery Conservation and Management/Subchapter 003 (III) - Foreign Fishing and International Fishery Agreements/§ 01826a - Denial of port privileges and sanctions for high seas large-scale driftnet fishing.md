@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) upon receipt of notification of the identification of a nation under paragraph (1)(A) or a negative certification under section 1826j(d) of this title or section 1826k(c) of this title; or
 
-&emsp;&emsp;&emsp;(ii) if the consultations with the government of a nation under paragraph (2) are not satisfactorily concluded within ninety days, shall direct the Secretary of the Treasury to prohibit the importation into the United States of fish and fish products and sport fishing equipment (as that term is defined in section 4162 of title 26) from that nation.
+&emsp;&emsp;&emsp;(ii) if the consultations with the government of a nation under paragraph (2) arenot satisfactorily concluded within ninety days, shall direct the Secretary of the Treasury to prohibit the importation into the United States of fish and fish products and sport fishing equipment (as that term is defined in section 4162 of title 26) from that nation.
 
 #### (B) Implementation of prohibition
 
@@ -98,7 +98,7 @@ Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act,
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, text read as follows:"The Secretary of the Treasury shall, in accordance with international law—
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary of the Treasury shall, in accordance with international law—
 
 &emsp;"(A) withhold or revoke the clearance required by section 60105 of title 46 for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 1826j(d) of this title or section 1826k(c) of this title; and
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(vii) 20 percent in fiscal year 2029,
 
-> &emsp;&emsp;of the amounts appropriated to the Foundation for research and related activities, andscience, mathematics, and engineering education and human resources programs and activities, excluding those amounts made available for polar research and operations support (and operations and maintenance of research facilities), shall be awarded to EPSCoR institutions.
+> &emsp;&emsp;of the amounts appropriated to the Foundation for research and related activities, and science, mathematics, and engineering education and human resources programs and activities, excluding those amounts made available for polar research and operations support (and operations and maintenance of research facilities), shall be awarded to EPSCoR institutions.
 
 #### (B) Scholarships
 
@@ -68,7 +68,7 @@
 
 #### (E) Consortia
 
-&emsp;&emsp;In the case of an award to a consortium, the Director may count the entire award toward meeting the funding requirements of subparagraph (A) if the lead entity of the consortium is located in an EPSCoR institution
+&emsp;&emsp;In the case of an award to a consortium, the Director may count the entire award toward meeting the funding requirements of subparagraph (A) if the lead entity of the consortium is located in an EPSCoR institution <sup>1</sup>
 
 #### (F) Annual reporting
 
@@ -102,7 +102,7 @@
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;Not later than December 31, 2028, the Director shall report to Congress regarding any new eligibility criteria determined under clause (i), any changes to jurisdictional eligibility based on such criteria, and the necessity and practicality of continuing or modifying the requirement under subparagraph (A) given any such changes to eligibility. The report shall include an analysis of options to support regions in non-EPSCoR jurisdictions, adjacent to EPSCoR jurisdictions, that historically receive disproportionately low levelsof funding from the Foundation, including, if appropriate, options to expand the EPSCoR program or to establish new programs.
+&emsp;&emsp;&emsp;Not later than December 31, 2028, the Director shall report to Congress regarding any new eligibility criteria determined under clause (i), any changes to jurisdictional eligibility based on such criteria, and the necessity and practicality of continuing or modifying the requirement under subparagraph (A) given any such changes to eligibility. The report shall include an analysis of options to support regions in non-EPSCoR jurisdictions, adjacent to EPSCoR jurisdictions, that historically receive disproportionately low levels of funding from the Foundation, including, if appropriate, options to expand the EPSCoR program or to establish new programs.
 
 #### (b) Fostering STEM research diversity and capacity program
 
@@ -217,4 +217,6 @@ August 9, 2022, referred to in subsec. (a)(3)(G)(ii), (iii), was in the original
 #### Codification
 
 Section is comprised of section 10325 of div. B of Pub. L. 117–167. Subsec. (a)(2) of section 10325 of div. B of Pub. L. 117–167 amended section 1862p–9 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

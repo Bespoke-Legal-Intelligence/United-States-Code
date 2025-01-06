@@ -34,7 +34,7 @@ Models of Care.—(1) Each report under subsection (a) shall include an analysis
 
 (2) The analysis under paragraph (1) shall include the following:
 
-&emsp;(A) The number of facilities of the Department that fall into each delivery of care modeldescribed in such paragraph, disaggregated by Veterans Integrated Service Network and State.
+&emsp;(A) The number of facilities of the Department that fall into each delivery of care model described in such paragraph, disaggregated by Veterans Integrated Service Network and State.
 
 &emsp;(B) A description of the criteria used by the Department to determine which such model is most appropriate for each facility of the Department.
 

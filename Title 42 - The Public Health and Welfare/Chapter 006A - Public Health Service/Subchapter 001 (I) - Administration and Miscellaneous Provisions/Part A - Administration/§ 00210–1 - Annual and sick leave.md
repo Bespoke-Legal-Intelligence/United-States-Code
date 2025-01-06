@@ -18,7 +18,7 @@ For purposes of this section the term "accumulated annual leave" means unused ac
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–328, §2225(a)(1), substituted "Ready Reserve Corps" for "Reserve Corps" and struck out ": <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days" after "allowances".
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §2225(a)(1), substituted "Ready Reserve Corps" for "Reserve Corps"and struck out ": <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days" after "allowances".
 
 Subsec. (b). Pub. L. 117–328, §2225(a)(2), added subsec. (b).
 

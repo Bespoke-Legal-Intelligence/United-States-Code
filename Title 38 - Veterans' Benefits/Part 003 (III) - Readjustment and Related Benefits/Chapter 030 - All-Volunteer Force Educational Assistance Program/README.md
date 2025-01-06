@@ -261,7 +261,7 @@ Veterans who do not find employment.—In the case of a veteran referred to in s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Secretary shall not make a payment to the educational institution under paragraph (1)(C); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the educational institution may not seek payment from the veteran for any amount thatwould have been payable under paragraph (1)(C) had the veteran found employment during such 180-day period.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the educational institution may not seek payment from the veteran for any amount that would have been payable under paragraph (1)(C) had the veteran found employment during such 180-day period.
 
 &emsp;"(3)
 

@@ -14,7 +14,7 @@ Quantity to Procure.—
 
 (b)
 
-Opinion of Offeror With Respect to Quantity to Be Procured.—Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and theunit price for supplies procured in each recommended quantity.
+Opinion of Offeror With Respect to Quantity to Be Procured.—Each solicitationfor a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
 
 (Added Pub. L. 98–525, title XII, §1233(a), Oct. 19, 1984, 98 Stat. 2600, §2384a; renumbered §3242 and amended Pub. L. 116–283, div. A, title XVIII, §1813(c), Jan. 1, 2021, 134 Stat. 4179; Pub. L. 117–81, div. A, title XVII, §1701(b)(5), Dec. 27, 2021, 135 Stat. 2133.)
 

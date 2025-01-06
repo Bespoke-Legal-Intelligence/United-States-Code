@@ -28,7 +28,7 @@ Responsibilities of Designated Statistical Agencies.—The head of each of the D
 
 &emsp;&emsp;(C) implementing appropriate measures to assure the physical and electronic security of confidential data;
 
-&emsp;&emsp;(D) establishing a system of records that identifies individuals accessing confidential data and the project for which the data were required; and
+&emsp;&emsp;(D) establishing a system of records that identifies individuals accessing confidentialdata and the project for which the data were required; and
 
 &emsp;&emsp;(E) being prepared to document their compliance with safeguard principles to other agencies authorized by law to monitor such compliance.
 
@@ -74,7 +74,7 @@ General use.—Business data provided by a Designated Statistical Agency pursuan
 
 &emsp;(2)
 
-Publication.—Publication of business data acquired by a Designated StatisticalAgency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
+Publication.—Publication of business data acquired by a Designated Statistical Agency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
 
 (e)
 

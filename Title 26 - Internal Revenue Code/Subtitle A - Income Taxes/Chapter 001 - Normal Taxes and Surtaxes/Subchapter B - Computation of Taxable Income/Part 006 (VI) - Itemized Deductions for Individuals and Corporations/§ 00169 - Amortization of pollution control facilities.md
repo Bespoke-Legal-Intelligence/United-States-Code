@@ -106,7 +106,7 @@ Section 302(b) of the Clean Air Act, referred to in subsec. (d)(2), formerly cla
 
 #### Prior Provisions
 
-A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amortization of grain-storage facilities,prior to the reorganization of part VI of subchapter B of chapter 1 of this title by Pub. L. 91–172.
+A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amortization of grain-storage facilities, prior to the reorganization of part VI of subchapter B of chapter 1 of this title by Pub. L. 91–172.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In determining whether to take action under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\] with respect to imports from a USMCA country, the President shall determine whether—
+In determining whether to take action under chapter 1 of title II of the Trade Act of 1974 \[19U.S.C. 2251 et seq.\] with respect to imports from a USMCA country, the President shall determine whether—
 
 &emsp;(1) imports from such country, considered individually, account for a substantial share of total imports; or
 
@@ -34,7 +34,7 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 
 Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
 
-(Pub. L. 116–113, title III, §302, formerly Pub. L. 103–182, title III, §312, Dec. 8, 1993, 107 Stat. 2107;renumbered §302 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §502(c), Jan. 29, 2020, 134 Stat. 70.)
+(Pub. L. 116–113, title III, §302, formerly Pub. L. 103–182, title III, §312, Dec. 8, 1993, 107 Stat. 2107; renumbered §302 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §502(c), Jan. 29, 2020, 134 Stat. 70.)
 
 #### <b>Editorial Notes</b>
 

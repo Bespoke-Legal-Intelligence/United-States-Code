@@ -18,7 +18,7 @@ It is the sense of Congress that improving computer programming language profici
 
 &emsp;The goals of the positions described in paragraph (1) shall be—
 
-&emsp;&emsp;(A) to fulfill the critical need of the Department to recruit and retain employeesfor cybersecurity, digital, and technology positions;
+&emsp;&emsp;(A) to fulfill the critical need of the Department to recruit and retain employees for cybersecurity, digital, and technology positions;
 
 &emsp;&emsp;(B) to actively recruit relevant candidates from academic institutions, the private sector, and related industries;
 
@@ -38,7 +38,7 @@ It is the sense of Congress that improving computer programming language profici
 
 Not later than 1 year after December 23, 2022, and annually thereafter for the following 5 years, the Secretary shall submit a report to the appropriate congressional committees that includes—
 
-&emsp;(1) a list of the hiring authorities available to the Department to recruit and retain personnel with backgrounds in cybersecurity, engineering, data science, application development, artificial intelligence, critical and emerging technology, and technology and digital policy;
+&emsp;(1) a list of the hiring authorities available to the Department to recruit and retain personnel with backgrounds in cybersecurity, engineering, data science, application development, artificial intelligence, critical andemerging technology, and technology and digital policy;
 
 &emsp;(2) a list of which hiring authorities described in paragraph (1) have been used during the previous 5 years;
 

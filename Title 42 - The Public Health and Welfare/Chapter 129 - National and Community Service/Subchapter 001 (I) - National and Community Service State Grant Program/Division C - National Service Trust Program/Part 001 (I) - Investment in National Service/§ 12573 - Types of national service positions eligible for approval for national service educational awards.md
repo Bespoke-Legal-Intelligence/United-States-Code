@@ -22,7 +22,7 @@ The Corporation may approve of any of the following service positions as an appr
 
 &emsp;(8) Such other national service positions as the Corporation considers to be appropriate.
 
-(Pub. L. 101–610, title I, §123, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 794;amended Pub. L. 111–13, title I, §1303, Apr. 21, 2009, 123 Stat. 1499.)
+(Pub. L. 101–610, title I, §123, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 794; amended Pub. L. 111–13, title I, §1303, Apr. 21, 2009, 123 Stat. 1499.)
 
 #### <b>Editorial Notes</b>
 

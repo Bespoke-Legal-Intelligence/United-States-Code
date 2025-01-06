@@ -14,7 +14,7 @@ Georgia is divided into three judicial districts to be known as the Northern, Mi
 
 &emsp;&emsp;Court for the Atlanta Division shall be held at Atlanta.
 
-&emsp;&emsp;(3) The Rome Division comprises the counties of Bartow, Catoosa, Chattooga,Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield.
+&emsp;&emsp;(3) The Rome Division comprises the counties of Bartow, Catoosa, Chattooga, Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield.
 
 &emsp;&emsp;Court for the Rome Division shall be held at Rome.
 
@@ -120,7 +120,7 @@ Subsec. (c)(6). Pub. L. 98–620, §408(c), substituted "Statesboro" for "Swains
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–657 effective 90 days after Nov. 14, 1986, and not to affect any action commencedbefore and pending on such effective date, or to affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on such date, see section 4 of Pub. L. 99–657, set out as a note under section 121 of this title.
+Amendment by Pub. L. 99–657 effective 90 days after Nov. 14, 1986, and not to affect any action commenced before and pending on such effective date, or to affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on such date, see section 4 of Pub. L. 99–657, set out as a note under section 121 of this title.
 
 #### Effective Date of 1984 Amendment
 

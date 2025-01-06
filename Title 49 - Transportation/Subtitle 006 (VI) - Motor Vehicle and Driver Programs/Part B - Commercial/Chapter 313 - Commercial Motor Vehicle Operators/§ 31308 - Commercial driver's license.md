@@ -70,7 +70,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub.L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Deadline for Issuance of Regulations
 

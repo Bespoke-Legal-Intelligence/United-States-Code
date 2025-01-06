@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Barrier
 
-&emsp;The term "barrier" includes a natural or constructed topographical feature that prevents unpermitted access by children to aswimming pool, and, with respect to a hot tub, a lockable cover.
+&emsp;The term "barrier" includes a natural or constructed topographical feature that prevents unpermitted access by children to a swimming pool, and, with respect to a hot tub, a lockable cover.
 
 #### (3) Commission
 

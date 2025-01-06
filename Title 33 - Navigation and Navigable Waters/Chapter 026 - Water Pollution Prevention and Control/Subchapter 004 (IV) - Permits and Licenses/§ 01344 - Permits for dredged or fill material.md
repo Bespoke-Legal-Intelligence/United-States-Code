@@ -36,7 +36,7 @@ The term "Secretary" as used in this section means the Secretary of the Army, ac
 
 &emsp;(E) for the purpose of construction or maintenance of farm roads or forest roads, or temporary roads for moving mining equipment, where such roads are constructed and maintained, in accordance with best management practices, to assure that flow and circulation patterns and chemical and biological characteristics of the navigable waters are not impaired, that the reach of the navigable waters is not reduced, and that any adverse effect on the aquatic environment will be otherwise minimized;
 
-&emsp;(F) resulting from any activity with respect to which a State has an approved programunder section 1288(b)(4) of this title which meets the requirements of subparagraphs (B) and (C) of such section,
+&emsp;(F) resulting from any activity with respect to which a State has an approved program under section 1288(b)(4) of this title which meets the requirements of subparagraphs (B) and (C) of such section,
 
 > is not prohibited by or otherwise subject to regulation under this section or section 1311(a) or 1342 of this title (except for effluent standards or prohibitions under section 1317 of this title).
 
@@ -84,7 +84,7 @@ The term "Secretary" as used in this section means the Secretary of the Army, ac
 
 (2) If, with respect to a State program submitted under subsection (g)(1) of this section, the Administrator determines that such State—
 
-&emsp;(A) has the authority set forth in paragraph (1) of this subsection, the Administrator shallapprove the program and so notify (i) such State and (ii) the Secretary, who upon subsequent notification from such State that it is administering such program, shall suspend the issuance of permits under subsections (a) and (e) of this section for activities with respect to which a permit may be issued pursuant to such State program; or
+&emsp;(A) has the authority set forth in paragraph (1) of this subsection, the Administrator shall approve the program and so notify (i) such State and (ii) the Secretary, who upon subsequent notification from such State that it is administering such program, shall suspend the issuance of permits under subsections (a) and (e) of this section for activities with respect to which a permit may be issued pursuant to such State program; or
 
 &emsp;(B) does not have the authority set forth in paragraph (1) of this subsection, the Administrator shall so notify such State, which notification shall also describe the revisions or modifications necessary so that such State may resubmit such program for a determination by the Administrator under this subsection.
 

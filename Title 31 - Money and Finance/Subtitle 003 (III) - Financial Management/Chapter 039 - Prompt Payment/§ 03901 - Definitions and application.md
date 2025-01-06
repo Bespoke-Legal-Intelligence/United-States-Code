@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency has actually accepted such property or services before such 7th day; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial product for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
+&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of abrand-name commercial product for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
 
 &emsp;&emsp;(B) on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
 
@@ -38,7 +38,7 @@
 
 (2) A claim for an interest penalty not paid under this chapter may be filed in the same manner as claims are filed with respect to contracts to provide property or services for the District of Columbia Courts.
 
-(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year orafter a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
+(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year or after a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
 
 (B) If a claim for an interest penalty is filed in the manner described in paragraph (2) and interest is not available for such claims under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts, interest will accrue under this chapter as provided in paragraph (A) and from the date the claim is filed until the date the claim is paid.
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, and amendment by section 2(c)(1) of Pub. L. 100–496 applicable with respect to all obligations incurred on or after Jan. 1, 1989, see section 14(a), (c) of Pub. L. 100–496, set out as a note under section 3902 of this title.
+Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, and amendment by section 2(c)(1) of Pub. L. 100–496 applicable with respect to all obligations incurred on or after Jan. 1, 1989, see section14(a), (c) of Pub. L. 100–496, set out as a note under section 3902 of this title.
 
 #### Short Title of 1988 Amendment
 

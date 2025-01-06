@@ -40,7 +40,7 @@ The President shall insure that all programs under the authority of the Bureau s
 
 (1) The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
 
-(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchangesor activities, to the extent that such programs are consistent with the purposes of this chapter.
+(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
 
 #### (e) Office of Citizen Exchanges
 
@@ -94,7 +94,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 &emsp;(F) To conduct a survey of private sector international exchange activities and develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 
-&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and programmanagement for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
+&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
 
 (7) All reports prepared by the Working Group shall be submitted to the President, through the Secretary of State, acting through the Under Secretary of State for Public Diplomacy.
 

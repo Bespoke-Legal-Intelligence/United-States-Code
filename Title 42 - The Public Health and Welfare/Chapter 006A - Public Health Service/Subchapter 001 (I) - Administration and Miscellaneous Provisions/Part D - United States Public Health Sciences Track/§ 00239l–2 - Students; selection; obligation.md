@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Medical, dental, physician assistant, pharmacy, behavioral and mental health, publichealth, and nursing students at the Track shall be selected under procedures prescribed by the Surgeon General. In so prescribing, the Surgeon General shall consider the recommendations of the National Health Care Workforce Commission.
+&emsp;Medical, dental, physician assistant, pharmacy, behavioral and mental health, public health, and nursing students at the Track shall be selected under procedures prescribed by the Surgeon General. In so prescribing, the Surgeon General shall consider the recommendations of the National Health Care Workforce Commission.
 
 #### (2) Priority
 

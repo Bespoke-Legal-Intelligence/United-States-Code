@@ -26,7 +26,7 @@ Par. (3). Pub. L. 110–114, §5017(a)(3), inserted "through cooperative agreeme
 
 #### Short Title
 
-Pub. L. 106–457, §1(a), Nov. 7, 2000, 114 Stat. 1957, provided that: "This Act \[enacting this chapter, sections1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and section 277d–43 of Title 22\] may be cited as the 'Estuaries and Clean Waters Act of 2000'."
+Pub. L. 106–457, §1(a), Nov. 7, 2000, 114 Stat. 1957, provided that: "This Act \[enacting this chapter, sections 1273 and 1300 of this title, and sections 277d–43 to 277d–46 of Title 22, Foreign Relations and Intercourse, amending sections 1263a, 1267, 1269, 1324, and 1330 of this title, and enacting provisions set out as notes under this section, sections 1251 and 1267 of this title, and section 277d–43 of Title 22\] may be cited as the 'Estuaries and Clean Waters Act of 2000'."
 
 Pub. L. 106–457, title I, §101, Nov. 7, 2000, 114 Stat. 1958, provided that: "This title \[enacting this chapter\] may be cited as the 'Estuary Restoration Act of 2000'."
 
@@ -56,7 +56,7 @@ Purpose.—The purpose of the project shall be to establish a network of strateg
 
 "(c)
 
-Management Agreement.—To establish, operate, and implement the project, the Secretary of Commerce and the Secretary of the Interior may enter into a management agreement with a university-based consortium.
+Management Agreement.—To establish, operate, and implement the project, the Secretary of Commerce and the Secretary of the Interior may enter intoa management agreement with a university-based consortium.
 
 "(d)
 

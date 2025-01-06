@@ -50,7 +50,7 @@ Relationship to Existing Law.—The requirements of this section—
 
 #### Codification
 
-Text of section, as added by Pub. L. 115–91, is based on text of section 1005 of Pub. L. 114–92, div. A, title X, Nov. 25, 2015, 129 Stat. 961, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(e)(4), Dec. 12, 2017, 131 Stat. 1541.
+Text of section, as added by Pub. L. 115–91, is based on text of section 1005 of Pub. L. 114–92, div. A, title X, Nov. 25, 2015, 129 Stat. 961, which was formerly set outas a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(e)(4), Dec. 12, 2017, 131 Stat. 1541.
 
 #### Amendments
 
@@ -84,11 +84,11 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 #### Audit Requirement for Department of Defense Components
 
-Pub. L. 118–31, div. A, title X, §1004, Dec. 22, 2023, 137 Stat. 379, provided that:
+Pub. L. 118–31, div. A, title X, §1004, Dec. 22, 2023, 137 Stat. 379, as amended by Pub. L. 118–159, div. A, title X, §1004, Dec. 23, 2024, 138 Stat. 2047, provided that:
 
 "(a)
 
-In General.—During fiscal year 2024, and during each of the nine fiscal years thereafter, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b).
+In General.—During each of fiscal years 2024 through 2034, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b).
 
 "(b)
 

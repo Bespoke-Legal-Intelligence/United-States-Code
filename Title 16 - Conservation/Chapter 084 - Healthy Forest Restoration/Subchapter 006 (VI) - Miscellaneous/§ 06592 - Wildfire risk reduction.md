@@ -210,7 +210,7 @@ Subject to the availability of appropriations, not later than 180 days after Nov
 
 #### (1) Establishment
 
-&emsp;Subject to the availability of appropriations, not later than 180 days after November 15, 2021, the Secretary of Agriculture shall, using amounts made available under subsection (c)(12), establish a program, which shall be separate from the program established under section 5133 of title 42, under which the Secretary of Agriculture, in cooperation with the States, shall award grants to at-risk communities, including Indian Tribes—
+&emsp;Subject to the availability of appropriations, not later than 180 days after November 15, 2021, the Secretary of Agriculture shall, using amounts made available under subsection\(c)(12), establish a program, which shall be separate from the program established under section 5133 of title 42, under which the Secretary of Agriculture, in cooperation with the States, shall award grants to at-risk communities, including Indian Tribes—
 
 &emsp;&emsp;(A) to develop or revise a community wildfire protection plan; and
 
@@ -248,7 +248,7 @@ Subject to the availability of appropriations, not later than 180 days after Nov
 
 #### (ii) Waiver
 
-&emsp;&emsp;&emsp;The Secretary of Agriculture may waive the cost-sharing requirement under clause\(i) for a project that serves an underserved community.
+&emsp;&emsp;&emsp;The Secretary of Agriculture may waive the cost-sharing requirement under clause (i) for a project that serves an underserved community.
 
 #### (C) Eligibility
 

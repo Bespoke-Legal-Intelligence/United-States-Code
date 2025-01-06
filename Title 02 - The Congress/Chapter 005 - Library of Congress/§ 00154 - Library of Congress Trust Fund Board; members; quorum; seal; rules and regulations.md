@@ -22,7 +22,7 @@ Section is comprised of first par. of section 1 of act Mar. 3, 1925. Second par.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–481, title II, §202, Nov. 9, 2000, 114 Stat. 2191, provided that: "The amendments made by this title \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\]."
+Pub. L. 106–481, title II, §202, Nov. 9, 2000, 114 Stat. 2191, provided that: "The amendments made by thistitle \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\]."
 
 #### Short Title
 

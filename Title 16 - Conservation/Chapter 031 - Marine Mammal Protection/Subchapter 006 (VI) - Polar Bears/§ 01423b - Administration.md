@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the United States Fish and Wildlif
 
 #### (1) Other government resources
 
-&emsp;The Secretary may utilize by agreement, with or without reimbursement, the personnel, services, and facilities of any other Federal agency, any State agency, or the Alaska Nanuuq Commission for purposes of carrying out this subchapter or the Agreement.
+&emsp;The Secretary may utilize by agreement, with or without reimbursement, the personnel,services, and facilities of any other Federal agency, any State agency, or the Alaska Nanuuq Commission for purposes of carrying out this subchapter or the Agreement.
 
 #### (2) Other powers and authorities
 

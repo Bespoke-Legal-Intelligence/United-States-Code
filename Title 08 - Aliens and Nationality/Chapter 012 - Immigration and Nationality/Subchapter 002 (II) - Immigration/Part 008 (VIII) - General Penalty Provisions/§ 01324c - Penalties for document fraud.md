@@ -6,7 +6,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(1) to forge, counterfeit, alter, or falsely make any document for the purpose of satisfying a requirement of this chapter or to obtain a benefit under this chapter,
 
-&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of this chapter or to obtain a benefit under this chapter,
+&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of thischapter or to obtain a benefit under this chapter,
 
 &emsp;(3) to use or attempt to use or to provide or attempt to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of satisfying a requirement of this chapter or obtaining a benefit under this chapter,
 
@@ -82,7 +82,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 (1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f)) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
 
-(2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for notmore than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
+(2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
 
 #### (f) Falsely make
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 104–208, §212(b), added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], asadded by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(g)(10)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

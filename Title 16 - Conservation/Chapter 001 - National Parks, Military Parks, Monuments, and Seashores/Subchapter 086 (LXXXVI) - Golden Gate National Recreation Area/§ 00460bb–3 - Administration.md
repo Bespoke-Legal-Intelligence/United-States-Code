@@ -10,7 +10,7 @@ The Secretary may enter into cooperative agreements with any Federal agency, the
 
 #### (c) Water resource developments
 
-The authority of the Army to undertake or contribute to water resource developments, including shore erosion control, beach protection, and navigation improvements on land and/or waters within the recreation area shall be exercised in accordance with plans which are mutually acceptable to the Secretary and the Secretary of the Army and which are consistent with both the purpose of this subchapter and the purpose of existing statutes dealing with water and related resource development.
+The authority of the Army to undertake or contribute to water resource developments, including shore erosion control, beach protection, and navigation improvements on land and/or waters within the recreation area shall be exercised in accordance with plans which are mutually acceptable to the Secretary and the Secretary of the Army and which are consistentwith both the purpose of this subchapter and the purpose of existing statutes dealing with water and related resource development.
 
 #### (d) Transportation system; study for coordinated public and private system
 

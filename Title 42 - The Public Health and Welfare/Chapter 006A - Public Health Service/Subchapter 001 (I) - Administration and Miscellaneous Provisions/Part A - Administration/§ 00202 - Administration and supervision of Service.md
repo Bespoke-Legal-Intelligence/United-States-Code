@@ -56,7 +56,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 #### Sec. 4. Incidental Transfers
 
-As he may deem necessary in order to carry out the provisions of this reorganization plan, the Secretarymay from time to time effect transfers within the Department of Health, Education, and Welfare of any of the records, property, personnel and unexpended balances (available or to be made available) of appropriations, allocations, and other funds of the Department which relate to functions affected by this reorganization plan.
+As he may deem necessary in order to carry out the provisions of this reorganization plan, the Secretary may from time to time effect transfers within the Department of Health, Education, and Welfare of any of the records, property, personnel and unexpended balances (available or to be made available) of appropriations, allocations, and other funds of the Department which relate to functions affected by this reorganization plan.
 
 \[The Secretary and Department of Health, Education, and Welfare were redesignated the Secretary and Department of Health and Human Services, respectively, by 20 U.S.C. 3508.\]
 
@@ -180,7 +180,7 @@ Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended by Ex. Ord. No. 1260
 
 By virtue of the authority vested in me by Section 301 of Title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act (58 Stat. 682), as amended \[42 U.S.C. 201 et seq.\]:
+Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested inthe President under the Public Health Service Act (58 Stat. 682), as amended \[42 U.S.C. 201 et seq.\]:
 
 (a) The authority under Section 203 (42 U.S.C. 204): to appoint commissioned officers of the Reserve Corps \[now Ready Reserve Corps\].
 

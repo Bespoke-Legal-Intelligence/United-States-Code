@@ -618,7 +618,7 @@ The requirements of subsections (d), (e), (f), and (i) (other than subsection (i
 
 #### (i) Training for agency employees
 
-&emsp;&emsp;&emsp;The Administrator shall administer training and education programs for employees of the Environmental Protection Agency, relating to the regulatory responsibilities and policies established by this Act, including programs—
+&emsp;&emsp;&emsp;The Administrator shall administer training and education programs for employees of the Environmental Protection Agency, relating to the regulatory responsibilities and policies established by this subchapter, including programs—
 
 &emsp;&emsp;&emsp;&emsp;(I) for improving the scientific, technical, and administrative skills of officers and employees authorized to administer programs under this subchapter;
 

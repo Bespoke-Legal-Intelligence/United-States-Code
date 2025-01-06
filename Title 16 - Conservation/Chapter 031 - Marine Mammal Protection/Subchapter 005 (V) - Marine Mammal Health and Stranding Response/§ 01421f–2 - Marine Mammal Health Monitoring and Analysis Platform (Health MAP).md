@@ -72,7 +72,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall m
 
 #### (1) In general
 
-&emsp;For the purposes of carrying out this section, the Secretary may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests without any further approval or administrative action.
+&emsp;For the purposes of carrying out this section, the Secretary may solicit, accept, receive, hold, administer, and use gifts, devises,and bequests without any further approval or administrative action.
 
 #### (2) Monetary donations
 

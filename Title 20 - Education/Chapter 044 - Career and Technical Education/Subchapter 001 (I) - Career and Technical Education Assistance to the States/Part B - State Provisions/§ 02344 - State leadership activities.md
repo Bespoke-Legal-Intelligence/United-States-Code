@@ -26,7 +26,7 @@ The State leadership activities described in subsection (a) may include—
 
 &emsp;(3) establishing statewide articulation agreements aligned to approved programs of study;
 
-&emsp;(4) establishing statewide industry or sector partnerships among local educational agencies, institutions of higher education, adult education providers, Indian Tribes and Tribalorganizations that may be present in the State, employers, including small businesses, and parents, as appropriate to—
+&emsp;(4) establishing statewide industry or sector partnerships among local educational agencies, institutions of higher education, adult education providers, Indian Tribes and Tribal organizations that may be present in the State, employers, including small businesses, and parents, as appropriate to—
 
 &emsp;&emsp;(A) develop and implement programs of study aligned to State and local economic and education needs, including, as appropriate, in-demand industry sectors and occupations;
 
@@ -84,7 +84,7 @@ The State leadership activities described in subsection (a) may include—
 
 &emsp;(11) the creation, evaluation, and support of competency-based curricula;
 
-&emsp;(12) support for the development, implementation, and expansion of programs of study or career pathways in areas declared to be in astate of emergency under section 5191 of title 42;
+&emsp;(12) support for the development, implementation, and expansion of programs of study or career pathways in areas declared to be in a state of emergency under section 5191 of title 42;
 
 &emsp;(13) partnering with qualified intermediaries to improve training, the development of public-private partnerships, systems development, capacity-building, and scalability of the delivery of high-quality career and technical education;
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 

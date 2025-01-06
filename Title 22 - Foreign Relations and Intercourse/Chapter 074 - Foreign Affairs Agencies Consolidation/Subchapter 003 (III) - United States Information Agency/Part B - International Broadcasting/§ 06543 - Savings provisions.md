@@ -32,7 +32,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (1) Substitution of parties
 
-&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to a suit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
+&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to asuit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
 
 #### (2) Liability of the Board
 
@@ -52,7 +52,7 @@ Reference in any other Federal law, Executive order, rule, regulation, or delega
 
 #### References in Text
 
-For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), (d)(1), (e), and (f), meaning the effective date of title XIII of subdiv. A of div. G of Pub.L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
+For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), (d)(1), (e), and (f), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
 
 This part, referred to in subsecs. (b) to (e), was in the original "this chapter", meaning chapter 3 (§§1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 

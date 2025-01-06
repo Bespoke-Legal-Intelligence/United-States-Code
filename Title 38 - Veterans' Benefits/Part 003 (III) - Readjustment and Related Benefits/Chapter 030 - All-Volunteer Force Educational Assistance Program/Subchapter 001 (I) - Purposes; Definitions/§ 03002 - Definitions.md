@@ -16,9 +16,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(ii) a preparatory course for a test that is required or used for admission to a graduate school; and
 
-&emsp;(C) in the case of an individual who is not serving on active duty, includes (i) a full-timeprogram of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
+&emsp;(C) in the case of an individual who is not serving on active duty, includes (i) a full-time program of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
 
-(4) The term "Selected Reserve" means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
+(4) The term "Selected Reserve" means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the AirNational Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
 (5) The term "Secretary of Defense" means the Secretary of Defense, except that it means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
@@ -90,11 +90,11 @@ Pub. L. 101–510, div. A, title V, §563(b), Nov. 5, 1990, 104 Stat. 1575, as a
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–689, title I, §108(c), Nov. 18, 1988, 102 Stat. 4170, provided that: "The amendments made by thissection \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989."
+Pub. L. 100–689, title I, §108(c), Nov. 18, 1988, 102 Stat. 4170, provided that: "The amendments made by this section \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989."
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Election of Benefits Under 1996 Amendments
 

@@ -8,7 +8,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) Member affiliations
 
-&emsp;Except as provided in paragraph (3), in order to ensure the independence and integrity of the Commission, the Commission may not compensate any nongovernmental agency, project, or person related to or affiliated with any member of the Commission, whether in that member's direct employ or not. Staff employed by the Commission may not serve in the employ of any nongovernmental agency, project, or person related to or affiliated with any member of the Commission while employed by the Commission.
+&emsp;Except as provided in paragraph (3), in order to ensure the independence and integrity ofthe Commission, the Commission may not compensate any nongovernmental agency, project, or person related to or affiliated with any member of the Commission, whether in that member's direct employ or not. Staff employed by the Commission may not serve in the employ of any nongovernmental agency, project, or person related to or affiliated with any member of the Commission while employed by the Commission.
 
 #### (2) Staff compensation
 

@@ -8,7 +8,7 @@
 
 &emsp;(1) On the date of receipt by the Court, if the notice is delivered.
 
-&emsp;(2) On the date of the United States Postal Service postmark stamped on the cover inwhich the notice is posted, if the notice is properly addressed to the Court and is mailed.
+&emsp;(2) On the date of the United States Postal Service postmark stamped on the cover in which the notice is posted, if the notice is properly addressed to the Court and is mailed.
 
 (d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 

@@ -30,7 +30,7 @@ Limitation on Applicability of Waivers to Products Produced in Certain Foreign C
 
 &emsp;(1) a foreign country is a party to an agreement with the United States and pursuant to that agreement the head of an agency of the United States has waived the requirements of this section, and
 
-&emsp;(2) the foreign country has violated the terms of the agreement by discriminating against products covered by this section that are produced in the United States and are covered by the agreement,
+&emsp;(2) the foreign country has violated the terms of the agreement by discriminatingagainst products covered by this section that are produced in the United States and are covered by the agreement,
 
 > the provisions of subsection (b) shall not apply to products produced in that foreign country.
 
@@ -70,7 +70,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (h), is Pu
 
 #### Codification
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L.103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
 
 #### Prior Provisions
 
@@ -102,9 +102,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Buy America Waiver Notification and Annual Reports
 
-Pub. L. 117–328, div. L, title I, §122, Dec. 29, 2022, 136 Stat. 5116, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall post on a website any waivers granted under the Buy America requirements."
+Pub. L. 118–42, div. F, title I, §122, Mar. 9, 2024, 138 Stat. 321, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall post on a website any waivers granted under the Buy America requirements."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. L, title I, §122, Dec. 29, 2022, 136 Stat. 5116.
 
 Pub. L. 117–103, div. L, title I, §122, Mar. 15, 2022, 136 Stat. 704.
 

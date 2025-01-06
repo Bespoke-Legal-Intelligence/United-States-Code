@@ -42,7 +42,7 @@ In return for a contract entered into by an owner or operator under the conserva
 
 &emsp;&emsp;&emsp;&emsp;(II) emergency grazing on all practices during the primary nesting season if payments are authorized for a county under the livestock forage disaster program under clause (ii) of section 9081(c)(3)(D) of title 7, at 50 percent of the normal carrying capacity determined under clause (i) of that section, adjusted to the site-specific plan;
 
-&emsp;&emsp;&emsp;&emsp;(III) emergency haying on certain practices, outside the primary nestingseason, if payments are authorized for a county under the livestock forage disaster program under clause (ii) of section 9081(c)(3)(D) of title 7, on not more than 50 percent of contract acres, as identified in the site-specific plan;
+&emsp;&emsp;&emsp;&emsp;(III) emergency haying on certain practices, outside the primary nesting season, if payments are authorized for a county under the livestock forage disaster program under clause (ii) of section 9081(c)(3)(D) of title 7, on not more than 50 percent of contract acres, as identified in the site-specific plan;
 
 &emsp;&emsp;&emsp;&emsp;(IV) grazing of all practices, outside the primary nesting season, if included as a mid-contract management practice under section 3832(a)(5) of this title;
 
@@ -120,7 +120,7 @@ For eligible land described in section 3831(b)(3) of this title, the Secretary s
 
 #### (1) In general
 
-&emsp;Beginning on the date that is 1 year before the date of termination of a contract under the program, the Secretary shall allow anowner or operator to make conservation and land improvements for economic use that facilitate maintaining protection of enrolled land after expiration of the contract.
+&emsp;Beginning on the date that is 1 year before the date of termination of a contract under the program, the Secretary shall allow an owner or operator to make conservation and land improvements for economic use that facilitate maintaining protection of enrolled land after expiration of the contract.
 
 #### (2) Conservation plan
 

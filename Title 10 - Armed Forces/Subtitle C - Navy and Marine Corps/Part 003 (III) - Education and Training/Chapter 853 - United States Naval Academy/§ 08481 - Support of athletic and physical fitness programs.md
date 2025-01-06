@@ -64,7 +64,7 @@ Conditions.—The authority provided in this section with respect to the Associa
 
 Association Defined.—In this section, the term "Association" means the Naval Academy Athletic Association.
 
-(Added Pub. L. 112–239, div. A, title V, §542(a), Jan. 2, 2013, 126 Stat. 1735, §6981; renumbered §8481 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 112–239, div. A, title V, §542(a), Jan. 2, 2013, 126 Stat. 1735, §6981; renumbered§8481 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 #### <b>Editorial Notes</b>
 

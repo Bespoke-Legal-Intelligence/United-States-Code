@@ -172,7 +172,7 @@ In this section:
 
 #### (2) In-kind contributions
 
-&emsp;The Secretary may apply to the non-Federal share of a project conducted with a grantunder this section the amount of funds, and the fair market value of property and services, provided by non-Federal sources and used for the project.
+&emsp;The Secretary may apply to the non-Federal share of a project conducted with a grant under this section the amount of funds, and the fair market value of property and services, provided by non-Federal sources and used for the project.
 
 (Pub. L. 92–522, title IV, §408, as added Pub. L. 106–555, title II, §202(a)(2), Dec. 21, 2000, 114 Stat. 2767; amended Pub. L. 117–263, div. J, title CIV, §10406(a), (b), Dec. 23, 2022, 136 Stat. 3984, 3987.)
 
@@ -184,7 +184,7 @@ A prior section 408 of Pub. L. 92–522 was renumbered section 409, and is class
 
 #### Amendments
 
-<b>2022</b>—Pub. L. 117–263, §10406(a)(1), substituted "Marine Mammal Rescue and Response Grant Program and Rapid Response Fund" for "John H. Prescott Marine Mammal Rescue Assistance Grant Program" in section catchline.
+<b>2022</b>—Pub. L. 117–263, §10406(a)(1), substituted "Marine Mammal Rescue and Response Grant Program andRapid Response Fund" for "John H. Prescott Marine Mammal Rescue Assistance Grant Program" in section catchline.
 
 Subsecs. (a) to (d). Pub. L. 117–263, §10406(a)(2), (4), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to authorization of the John H. Prescott Marine Mammal Rescue Assistance Grant Program, grant applications, required consultations, and limitation of the grant amount, respectively.
 

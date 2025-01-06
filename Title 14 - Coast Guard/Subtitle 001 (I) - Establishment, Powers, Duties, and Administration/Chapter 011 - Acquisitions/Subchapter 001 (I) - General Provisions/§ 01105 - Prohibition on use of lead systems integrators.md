@@ -24,7 +24,7 @@ Limitation on Financial Interest in Subcontractors.—Neither an entity performi
 
 &emsp;(2) the procurement was awarded by an entity performing lead systems integrator functions or a subcontractor through full and open competition;
 
-&emsp;(3) the procurement was awarded by a subcontractor through a process over which the entity performing lead systems integrator functions or a Tier 1 subcontractor exercised no control; or
+&emsp;(3) the procurement was awarded by a subcontractor through a process over which the entity performing lead systems integratorfunctions or a Tier 1 subcontractor exercised no control; or
 
 &emsp;(4) the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
 

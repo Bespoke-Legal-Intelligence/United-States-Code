@@ -22,7 +22,7 @@
 
 #### (C) Waiver of certain provisions
 
-&emsp;&emsp;In order to promote competition, in carrying out the program the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this section, other than provisions relating to confidentiality ofinformation and such other provisions as the Secretary determines appropriate.
+&emsp;&emsp;In order to promote competition, in carrying out the program the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this section, other than provisions relating to confidentiality of information and such other provisions as the Secretary determines appropriate.
 
 #### (D) Exclusion authority
 
@@ -102,7 +102,7 @@
 
 #### (C) Selecting physician defined
 
-&emsp;&emsp;For purposes of this section, the term "selecting physician" means, with respect to a contractor and category and competitive acquisition area, a physician who has elected this section to apply and has selected toapply under this section such contractor for such category and area.
+&emsp;&emsp;For purposes of this section, the term "selecting physician" means, with respect to a contractor and category and competitive acquisition area, a physician who has elected this section to apply and has selected to apply under this section such contractor for such category and area.
 
 #### (b) Program requirements
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;Under the contract—
 
-&emsp;&emsp;&emsp;(i) the contractor shall comply with a code of conduct, specified or recognized bythe Secretary, that includes standards relating to conflicts of interest; and
+&emsp;&emsp;&emsp;(i) the contractor shall comply with a code of conduct, specified or recognized by the Secretary, that includes standards relating to conflicts of interest; and
 
 &emsp;&emsp;&emsp;(ii) the contractor shall comply with all applicable provisions relating to prevention of fraud and abuse, including compliance with applicable guidelines of the Department of Justice and the Inspector General of the Department of Health and Human Services.
 
@@ -360,7 +360,7 @@ Pub. L. 109–432, div. B, title I, §108(b), Dec. 20, 2006, 120 Stat. 2983, pro
 
 #### Report
 
-Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provided that: "Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[42 U.S.C. 1395w–3b\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugsand biologicals, the range of choices of contractors available to physicians, the satisfaction of physicians and of individuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[42 U.S.C. 1395w–3a\], as added by subsection (c)."
+Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provided that: "Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[42 U.S.C. 1395w–3b\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugs and biologicals, the range of choices of contractors available to physicians, the satisfaction of physicians and of individuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[42 U.S.C. 1395w–3a\], as added by subsection (c)."
 
 #### Application of 2003 Amendment to Physician Specialties
 

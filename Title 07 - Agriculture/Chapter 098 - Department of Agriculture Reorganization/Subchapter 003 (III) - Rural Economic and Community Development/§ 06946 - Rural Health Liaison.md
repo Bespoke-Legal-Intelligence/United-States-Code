@@ -8,7 +8,7 @@ The Secretary shall establish in the Department the position of Rural Health Lia
 
 The Rural Health Liaison shall—
 
-&emsp;(1) in consultation with the Secretary of Health and Human Services, coordinate the role of the Department with respect to rural health;
+&emsp;(1) in consultation with the Secretary of Health and Human Services, coordinate therole of the Department with respect to rural health;
 
 &emsp;(2) integrate across the Department the strategic planning and activities relating to rural health;
 

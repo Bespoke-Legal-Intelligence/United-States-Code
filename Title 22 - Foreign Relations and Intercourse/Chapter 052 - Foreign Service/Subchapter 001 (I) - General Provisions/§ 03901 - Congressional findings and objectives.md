@@ -42,9 +42,9 @@
 
 Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
 
-The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
+The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision ofthe laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17,1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Sec. 3. Section 2 of Executive Order No. 10624, as amended, is amended as follow
 
 (a) In clause (1), strike out "Title II of the Overseas Differentials and Allowances Act" and insert in lieu thereof "subchapter III of chapter 59 of title 5 of the United States Code";
 
-(b) Clause (2) is amended to read as follows: "so much of the authority vested in the Secretary of State by chapter 9 of Title I of the Foreign Service Act of 1980 \[22 U.S.C. 4081 et seq.\], as relates to allowances and benefits under the said chapter 9 of title I;"
+(b) Clause (2) is amended to read as follows: "so much of the authority vested in the Secretary of State by chapter 9 of Title I of the Foreign Service Act of 1980\[22 U.S.C. 4081 et seq.\], as relates to allowances and benefits under the said chapter 9 of title I;"
 
 Sec. 4. Executive Order No. 10903 is amended as follows:
 

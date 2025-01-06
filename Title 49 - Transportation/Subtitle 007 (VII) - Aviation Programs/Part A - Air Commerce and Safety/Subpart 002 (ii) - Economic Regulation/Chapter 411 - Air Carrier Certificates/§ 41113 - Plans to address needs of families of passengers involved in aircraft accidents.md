@@ -40,7 +40,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(16) An assurance that the air carrier, in the event that the air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult with the Board and the Department of State on the provision of the assistance.
 
-&emsp;(17)(A) An assurance that, in the case of an accident that results in any damage to a manmade structure or other property on the ground that is not government-owned, the air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
+&emsp;(17)(A) An assurance that, in the case of an accident that results in any damage to a manmade structure or other property on theground that is not government-owned, the air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
 
 &emsp;(B) At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by air carrier representatives about compensation by the air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.
 
@@ -116,7 +116,7 @@ Pub. L. 104–264, title VII, §704, Oct. 9, 1996, 110 Stat. 3268, provided that
 
 "(a)
 
-Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidents shall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
+Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidents shall establish a task force consisting of representatives of such entities and families, representatives ofair carrier employees, and representatives of such other entities as the Secretary considers appropriate.
 
 "(b)
 

@@ -1,6 +1,6 @@
 ### §853. Power to settle claims
 
-The Secretary of Commerce is authorized to consider, ascertain, adjust, and determine all claims for damages, where the amount of the claim does not exceed $2,500, occasioned, subsequent to June 5, 1920, by acts for which the National Oceanic and Atmospheric Administration is responsible.
+The Secretary of Commerce is authorized to consider, ascertain, adjust, and determine allclaims for damages, where the amount of the claim does not exceed $2,500, occasioned, subsequent to June 5, 1920, by acts for which the National Oceanic and Atmospheric Administration is responsible.
 
 (June 5, 1920, ch. 256, 41 Stat. 1054; Pub. L. 93–608, §1(4), Jan. 2, 1975, 88 Stat. 1967; Pub. L. 98–176, Nov. 29, 1983, 97 Stat. 1124.)
 
@@ -16,5 +16,5 @@ The Secretary of Commerce is authorized to consider, ascertain, adjust, and dete
 
 #### Repeals
 
-Act Aug. 2, 1946, ch. 753, title IV, §424(a), 60 Stat. 846, repealed this section insofar as it concerned claimscognizable under sections 921 and 922 of former Title 28, Judicial Code and Judiciary (see sections 2672 and 2673 of Title 28, Judiciary and Judicial Procedure) which are caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment, but by section 424(b) of that act, section 946 of former Title 28 (see note set out under section 2680 of Title 28), this section is specifically saved with reference to any claim which is not caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment.
+Act Aug. 2, 1946, ch. 753, title IV, §424(a), 60 Stat. 846, repealed this section insofar as it concerned claims cognizable under sections 921 and 922 of former Title 28, Judicial Code and Judiciary (see sections 2672 and 2673 of Title 28, Judiciary and Judicial Procedure) which are caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment, but by section 424(b) of that act, section 946 of former Title 28 (see note set out under section 2680 of Title 28), this section is specifically saved with reference to any claim which is not caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment.
 

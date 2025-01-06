@@ -22,7 +22,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;(5) Under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], by the Securities and Exchange Commission with respect to investment advisers registered with the Commission under such Act.
 
-&emsp;(6) Under State insurance law, in the case of any person engaged in providing insurance, by the applicable State insurance authority of the State in which the person is domiciled, subject to section 6701 of this title.
+&emsp;(6) Under State insurance law, in the case of any person engaged in providing insurance, bythe applicable State insurance authority of the State in which the person is domiciled, subject to section 6701 of this title.
 
 &emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal Trade Commission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
 
@@ -54,7 +54,7 @@ The terms used in subsection (a)(1) that are not defined in this subchapter or o
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§1021–1029A) and E (§§1051–1058) of the Act are classified generally to parts B (§5511 et seq.) and E (§5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-This subchapter, referred to in subsecs. (a), (c), and (d), was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally tothis subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a), (c), and (d), was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
 
@@ -90,5 +90,5 @@ Subsec. (b)(1). Pub. L. 111–203, §1093(5), inserted ", other than the Bureau
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

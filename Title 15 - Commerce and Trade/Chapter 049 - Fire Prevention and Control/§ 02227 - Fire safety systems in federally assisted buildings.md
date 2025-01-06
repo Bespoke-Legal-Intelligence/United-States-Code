@@ -42,7 +42,7 @@ For purposes of this section, the following definitions apply:
 
 #### (b) Federal employee office buildings
 
-(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless duringthe period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
+(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 (B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
@@ -60,7 +60,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(E) a Federal employee office building that is owned or managed by the Resolution Trust Corporation.
 
-> Nothing in this subsection shall require the installation of an automatic sprinkler system or equivalent level of safety by reason of the leasing, after October 26, 1992, of space below the sixth floor in a Federal employee office building.
+> Nothing in this subsection shall require the installation of an automatic sprinkler system orequivalent level of safety by reason of the leasing, after October 26, 1992, of space below the sixth floor in a Federal employee office building.
 
 (3) No Federal funds may be used for the renovation of a Federal employee office building of 6 or more stories that is owned by the Federal Government unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the renovation of any other Federal employee office building that is owned by the Federal Government unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(I) that is newly constructed after October 26, 1992; and
 
-&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencementof such construction, to provide housing assistance for the newly constructed property.
+&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
 
 (iii) Clause (i) shall not apply to any multifamily property for which, before October 26, 1992, a binding commitment is made to provide housing assistance for the new construction of the property or for the newly constructed property.
 
@@ -106,7 +106,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(II) for which (a) housing assistance is used for such rebuilding, or (b) a binding commitment is made, before commencement of such rebuilding, to provide housing assistance for the rebuilt property.
 
-(C) After the expiration of the 180-day period beginning on October 26, 1992, housing assistance may not be used in connection with any other dwelling unit, unless the unit is protected by a hard-wired or battery-operated smoke detector. For purposes of this subparagraph, housing assistance shall be considered to be used in connection with a particular dwelling unit only if such assistance is provided (i) for the particular unit, in the case of assistance provided on a unit-by-unit basis, or (ii) for the multifamily property in which the unit is located, in the case of assistance provided on a structure-by-structure basis.
+(C) After the expiration of the 180-day period beginning on October 26, 1992, housing assistance may not be used in connection with any other dwelling unit, unless the unit is protected by a hard-wired or battery-operated smoke detector. For purposes of this subparagraph, housing assistance shall be considered to be used in connection with a particular dwelling unit only if such assistance is provided (i) for the particularunit, in the case of assistance provided on a unit-by-unit basis, or (ii) for the multifamily property in which the unit is located, in the case of assistance provided on a structure-by-structure basis.
 
 #### (d) Regulations
 

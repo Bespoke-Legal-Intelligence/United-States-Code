@@ -30,7 +30,7 @@ The Secretary may carry out this section in a manner that recognizes the differe
 
 #### (1) In general
 
-&emsp;The Secretary may establish a requirement that an eligible institution receiving a grant under this section shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the grant.
+&emsp;The Secretary may establish a requirement that an eligible institution receiving a grantunder this section shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the grant.
 
 #### (2) Waivers
 

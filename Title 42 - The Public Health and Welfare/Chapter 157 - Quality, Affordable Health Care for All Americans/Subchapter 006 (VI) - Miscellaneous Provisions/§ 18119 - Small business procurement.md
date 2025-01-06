@@ -12,5 +12,5 @@ This Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 11
 
 #### Codification
 
-Another section 1563 of Pub. L. 111–148 enacted section 18120 of this title, section 9815 of Title 26, InternalRevenue Code, and section 1185d of Title 29, Labor, and amended sections 300gg–1 to 300gg–3, 300gg–9, 300gg–11, 300gg–12, 300gg–21 to 300gg–23, 300gg–25 to 300gg–28, 300gg–62, and 300gg–91 of this title.
+Another section 1563 of Pub. L. 111–148 enacted section 18120 of this title, section 9815 of Title 26, Internal Revenue Code, and section 1185d of Title 29, Labor, and amended sections 300gg–1 to 300gg–3, 300gg–9, 300gg–11, 300gg–12, 300gg–21 to 300gg–23, 300gg–25 to 300gg–28, 300gg–62, and 300gg–91 of this title.
 

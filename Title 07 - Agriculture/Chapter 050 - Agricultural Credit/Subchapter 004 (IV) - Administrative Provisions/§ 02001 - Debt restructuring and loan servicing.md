@@ -12,7 +12,7 @@ The Secretary shall modify delinquent farmer program loans made or insured under
 
 To be eligible to obtain assistance under subsection (a)—
 
-&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a);
+&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make thedelinquent loan current, the borrower shall not be eligible for assistance under subsection (a);
 
 &emsp;(2) the borrower must have acted in good faith with the Secretary in connection with the loan as defined in regulations issued by the Secretary;
 
@@ -190,7 +190,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 #### (I) Term of reamortization
 
-&emsp;&emsp;&emsp;&emsp;The term of a reamortization under this subparagraph may not exceed 25 years from the date of the original amortization agreement.
+&emsp;&emsp;&emsp;&emsp;The term of a reamortization under this subparagraph may not exceed 25years from the date of the original amortization agreement.
 
 #### (II) No reduction or principal or unpaid interest due
 
@@ -206,7 +206,7 @@ No foreclosure or other similar actions shall be taken to liquidate any loan det
 
 &emsp;(1) until the borrower has been given the opportunity to appeal such decision; and
 
-&emsp;(2) if the borrower appeals, the appeals process has been completed, and a determinationhas been made that the loan is ineligible for restructuring.
+&emsp;(2) if the borrower appeals, the appeals process has been completed, and a determination has been made that the loan is ineligible for restructuring.
 
 #### (h) Time limits for restructuring
 
@@ -268,7 +268,7 @@ The Secretary may not use the authority provided by this section to reduce or te
 
 The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
 
-(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, §1(a) \[title VIII, §818(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58; Pub. L. 107–171, title V, §5314, May 13, 2002, 116 Stat. 347.)
+(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub.L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, §1(a) \[title VIII, §818(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58; Pub. L. 107–171, title V, §5314, May 13, 2002, 116 Stat. 347.)
 
 #### <b>Editorial Notes</b>
 

@@ -24,7 +24,7 @@ Whenever, in the judgment of the Administrator or as identified under section 13
 
 The establishment of effluent limitations under this section shall not operate to delay the application of any effluent limitation established under section 1311 of this title.
 
-(June 30, 1948, ch. 758, title III, §302, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 846;amended Pub. L. 100–4, title III, §308(e), Feb. 4, 1987, 101 Stat. 39.)
+(June 30, 1948, ch. 758, title III, §302, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, §308(e), Feb. 4, 1987, 101 Stat. 39.)
 
 #### <b>Editorial Notes</b>
 

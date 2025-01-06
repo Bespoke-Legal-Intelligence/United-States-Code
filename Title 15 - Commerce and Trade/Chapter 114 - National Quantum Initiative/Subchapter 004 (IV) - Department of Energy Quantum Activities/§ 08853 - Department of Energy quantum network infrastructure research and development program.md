@@ -38,7 +38,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;&emsp;(D) transducers for quantum sources and signals between optical wavelength regimes, including telecommunications regimes and quantum computer-relevant domains, including microwaves;
 
-&emsp;&emsp;(E) development of quantum memory buffers and small-scale quantum computers that are compatible with photon-based quantum bits in the optical or telecommunications wavelengths;
+&emsp;&emsp;(E) development of quantum memory buffers and small-scale quantum computers thatare compatible with photon-based quantum bits in the optical or telecommunications wavelengths;
 
 &emsp;&emsp;(F) long-range entanglement distribution, including allowing entanglement-based protocols between small- and large <sup>1</sup> scale quantum processors, at the terrestrial and space-based level using quantum repeaters and optical or laser communications;
 

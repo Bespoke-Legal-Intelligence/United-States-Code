@@ -42,7 +42,7 @@ Briefing.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary and the Administrator shall provide to the appropriate congressional committees a briefing on the review conducted under subsection (a), including the status of such review and any actions taken or planned to be taken to improve and streamline the regulations, rules, directives, orders, and policies described in such subsection.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], theSecretary and the Administrator shall provide to the appropriate congressional committees a briefing on the review conducted under subsection (a), including the status of such review and any actions taken or planned to be taken to improve and streamline the regulations, rules, directives, orders, and policies described in such subsection.
 
 &emsp;"(2)
 

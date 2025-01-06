@@ -54,7 +54,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (f) to (g). Pub. L. 104–164 added subsecs. (f) to (g).
+<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–164 added subsecs. (f) to (h).
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–513 added subsec. (e).
 
@@ -89,6 +89,8 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 #### Similar Provisions
 
 Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts:
+
+Pub. L. 118–47, div. F, title VII, §7035(b)(3), Mar. 23, 2024, 138 Stat. 795.
 
 Pub. L. 117–328, div. K, title VII, §7035(b)(3), Dec. 29, 2022, 136 Stat. 5037.
 

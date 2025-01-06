@@ -66,7 +66,7 @@ Pub. L. 110–314, §217(b)(1)(A)(ii)(I), which directed amendment of subsec. (c
 
 Subsec. (a)(3). Pub. L. 101–608, §115(a)(3), added par. (3).
 
-<b>1981</b>—Subsecs. (b) to (d). Pub. L. 97–35 added subsec. (b), redesignated former subsec. (b) as (c), substituted "the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed" for "the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered", and redesignated subsec. (c) as (d).
+<b>1981</b>—Subsecs. (b) to (d). Pub. L. 97–35 added subsec. (b), redesignated former subsec. (b) as (c), substituted"the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed" for "the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered", and redesignated subsec. (c) as (d).
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–631 made violation of section 2068(a)(10) of this title a separate offense.
 

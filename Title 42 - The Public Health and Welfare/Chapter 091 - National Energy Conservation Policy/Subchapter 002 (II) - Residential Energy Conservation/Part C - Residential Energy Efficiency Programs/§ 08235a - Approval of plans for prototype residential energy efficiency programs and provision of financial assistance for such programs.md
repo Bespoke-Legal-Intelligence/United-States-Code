@@ -30,7 +30,7 @@ Any contract entered into by a public utility under subsection (a)(1) shall requ
 
 &emsp;&emsp;(D) the savings in energy costs that are likely to result from the adoption of such suggested energy conservation techniques;
 
-&emsp;(2) the supply and installation, with the approval of the owner of the residential building,in such building in a timely manner of the energy conservation measures which are as specified in the contract and which the owner or occupant was informed (pursuant to the inspection under paragraph (1)) would be supplied and installed in such building; and
+&emsp;(2) the supply and installation, with the approval of the owner of the residential building, in such building in a timely manner of the energy conservation measures which are as specified in the contract and which the owner or occupant was informed (pursuant to the inspection under paragraph (1)) would be supplied and installed in such building; and
 
 &emsp;(3) a written warranty that at a minimum any defect in materials, manufacture, design, or installation of any energy conservation measures supplied and installed pursuant to paragraph (2), found not later than one year after the date of installation, will be remedied without charge and within a reasonable period of time.
 

@@ -14,7 +14,7 @@ The Attorney General shall award grants to States for the purpose of enhancing t
 
 &emsp;&emsp;(B) To develop and implement appropriate standards and qualifications for State and local prosecutors who litigate State capital cases.
 
-&emsp;&emsp;(C) To assess the performance of State and local prosecutors who litigate State capital cases, provided that such assessment shall not include participation by the assessor in the trial of any specific capital case.
+&emsp;&emsp;(C) To assess the performance of State and local prosecutors who litigate State capitalcases, provided that such assessment shall not include participation by the assessor in the trial of any specific capital case.
 
 &emsp;&emsp;(D) To identify and implement any potential legal reforms that may be appropriate to minimize the potential for error in the trial of capital cases.
 

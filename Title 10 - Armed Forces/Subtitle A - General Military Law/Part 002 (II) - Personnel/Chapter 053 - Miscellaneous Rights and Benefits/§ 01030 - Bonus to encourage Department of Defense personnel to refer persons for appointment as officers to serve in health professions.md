@@ -34,7 +34,7 @@ Certain Referrals Ineligible.—
 
 &emsp;(1)
 
-Referral of immediate family.—A member of the armed forces or civilian employee of a military department or the Department of Defense may not be paid a bonusunder subsection (a) for the referral of an immediate family member.
+Referral of immediate family.—A member of the armed forces or civilian employee of a military department or the Department of Defense may not be paid a bonus under subsection (a) for the referral of an immediate family member.
 
 &emsp;(2)
 

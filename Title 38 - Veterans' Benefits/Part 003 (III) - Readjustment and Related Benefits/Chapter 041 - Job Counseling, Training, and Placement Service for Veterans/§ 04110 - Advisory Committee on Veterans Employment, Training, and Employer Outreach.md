@@ -78,7 +78,7 @@
 
 &emsp;(F) any recommendations for legislation, administrative action, and other action that the advisory committee considers appropriate.
 
-(2) In addition to the annual reports made under paragraph (1), the advisory committee may make recommendations to the Secretary of Labor with respect to the employment andtraining needs of veterans at such times and in such manner as the advisory committee determines appropriate.
+(2) In addition to the annual reports made under paragraph (1), the advisory committee may make recommendations to the Secretary of Labor with respect to the employment and training needs of veterans at such times and in such manner as the advisory committee determines appropriate.
 
 (g) Within 60 days after receiving each annual report referred to in subsection (f)(1), the Secretary of Labor shall transmit to Congress a copy of the report together with any comments concerning the report that the Secretary considers appropriate.
 

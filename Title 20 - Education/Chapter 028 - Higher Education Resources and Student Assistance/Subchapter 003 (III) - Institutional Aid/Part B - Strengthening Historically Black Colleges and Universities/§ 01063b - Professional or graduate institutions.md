@@ -156,7 +156,7 @@ No institution that is eligible for and receives an award under section 1102a, 1
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end "Any funds awarded for such five-year grant period that are obligated during such five-year period may beexpended during the 10-year period beginning on the first day of such five-year period."
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end "Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period."
 
 Subsec. (c)(5). Pub. L. 110–315, §311(b)(1), substituted "establishing or improving" for "establish or improve".
 
@@ -184,7 +184,7 @@ Subsec. (g). Pub. L. 110–315, §311(e), substituted "2008" for "1998" in two p
 
 Subsec. (h). Pub. L. 110–315, §311(f), added subsec. (h).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted "in mathematics, engineering, or the physical or natural sciences" after "graduate education opportunities".
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted "in mathematics, engineering, or the physicalor natural sciences" after "graduate education opportunities".
 
 Subsec. (a)(2). Pub. L. 105–244, §304(b)(1)(A)(ii), substituted "$1,000,000 may" for "$500,000 may" and ", except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f), the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement." for "except that the Morehouse School of Medicine shall receive at least $3,000,000."
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

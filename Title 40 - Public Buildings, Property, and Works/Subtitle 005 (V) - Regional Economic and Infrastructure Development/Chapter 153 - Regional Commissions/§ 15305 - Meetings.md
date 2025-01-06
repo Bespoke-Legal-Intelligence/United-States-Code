@@ -6,13 +6,17 @@ Initial Meeting.—Each Commission shall hold an initial meeting not later than 
 
 (b)
 
-Annual Meeting.—Each Commission shall conduct at least 1 meeting each year with the Federal Cochairperson and at least a majority of the State members present.
+Annual Meeting.—Each Commission shall conduct at least 1 meeting each year with—
+
+&emsp;(1) the Federal Cochairperson; and
+
+&emsp;(2) at least a majority of the State members or alternate State members (including designees) present in-person or via electronic means.
 
 (c)
 
 Additional Meetings.—Each Commission shall conduct additional meetings at such times as it determines and may conduct such meetings by electronic means.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235; amended Pub. L. 118–272, div. B, title II, §2242(d), Jan. 4, 2025, 138 Stat. 3203.)
 
 #### <b>Editorial Notes</b>
 
@@ -23,6 +27,10 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2025</b>—Subsec. (b). Pub. L. 118–272 substituted "with—" and pars. (1) and (2) for "with the Federal Cochairperson and at least a majority of the State members present."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

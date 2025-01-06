@@ -18,7 +18,7 @@
 
 #### (4) Length of process
 
-&emsp;The Commission shall seek to ensure that the expedited process under this section willresult in a final decision on an application for a license by not later than 2 years after receipt of a completed application for the license.
+&emsp;The Commission shall seek to ensure that the expedited process under this section will result in a final decision on an application for a license by not later than 2 years after receipt of a completed application for the license.
 
 #### (b) Dam safety
 
@@ -32,7 +32,7 @@
 
 #### (c) Interagency communications
 
-Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to an application for a license for a qualifying facility under this section, and interagency communications relating to licensing process coordination pursuant to this section, shall not—
+Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to an application for a license for a qualifying facility under this section,and interagency communications relating to licensing process coordination pursuant to this section, shall not—
 
 &emsp;(1) be considered to be ex parte communications under Commission rules; or
 

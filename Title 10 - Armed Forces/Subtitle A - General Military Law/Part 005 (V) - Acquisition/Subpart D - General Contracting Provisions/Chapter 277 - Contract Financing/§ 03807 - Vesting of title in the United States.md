@@ -8,7 +8,7 @@ If a contract paid by a method authorized under section 3801(a) of this title pr
 
 #### Codification
 
-The text of subsec. (h) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1834(h), was based on Pub. L. 105–85, div. A, title VIII, §802(2), Nov. 18, 1997, 111 Stat. 1831.
+The text of subsec. (h) of section 2307 of this title, which was transferred to this section and amended byPub. L. 116–283, §1834(h), was based on Pub. L. 105–85, div. A, title VIII, §802(2), Nov. 18, 1997, 111 Stat. 1831.
 
 #### Amendments
 

@@ -32,7 +32,7 @@ Pub. L. 109–425, §1, Dec. 20, 2006, 120 Stat. 2910, provided that:
 
 "(a)
 
-In General.—Attorneys employed by the Department of Justice (including assistant United States attorneys) shall be eligible for compensatory time off for travel under section 5550b of title 5, United States Code, without regard to any provision of section 115 of the Departments of Commerce, Justice, and State, theJudiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113 and reenacted by section 111 of the Department of Justice Appropriations Act, 2001 (as enacted into law by appendix B of Public Law 106–553) \[set out as a note under section 5541 of this title\]).
+In General.—Attorneys employed by the Department of Justice (including assistant United States attorneys) shall be eligible for compensatory time off for travel under section 5550b of title 5, United States Code, without regard to any provision of section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113 and reenacted by section 111 of the Department of Justice Appropriations Act, 2001 (as enacted into law by appendix B of Public Law 106–553) \[set out as a note under section 5541 of this title\]).
 
 "(b)
 

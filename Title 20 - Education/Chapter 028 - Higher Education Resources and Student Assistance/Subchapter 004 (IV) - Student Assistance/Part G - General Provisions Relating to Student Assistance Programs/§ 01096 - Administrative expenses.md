@@ -36,7 +36,7 @@ Pub. L. 102–325, §446(c), which directed amendment identical to amendment by 
 
 Subsec. (b). Pub. L. 102–325, §493(b), designated existing provisions as par. (1) and added par. (2).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–50 made technical amendment to reference to section 1087–57 of this title to correct reference to corresponding section of original Act, requiring no change in text.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50 made technical amendment to reference to section 1087–57 of this titleto correct reference to corresponding section of original Act, requiring no change in text.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–603 inserted provision directing the Secretary to pay the costs incurred by institutions of higher education in implementing and operating the immigration status verification system under section 1091(c) of this title.
 

@@ -20,7 +20,7 @@ A prior section 3223, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to aut
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1812(d), transferred subsec. (c) of section 2334 of this title to this section and struck out subsec. (c) designation and heading "Review of Cost Estimates, Cost Analyses, and Records of the Military Departments and Defense Agencies" at beginning.
+<b>2021</b>—Pub. L. 116–283, §1812(d), transferred subsec. (c) of section 2334 of this title to this section and struckout subsec. (c) designation and heading "Review of Cost Estimates, Cost Analyses, and Records of the Military Departments and Defense Agencies" at beginning.
 
 Par. (2). Pub. L. 117–81 substituted "under this chapter" for "under this section".
 

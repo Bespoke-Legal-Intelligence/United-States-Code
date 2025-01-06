@@ -48,7 +48,7 @@ An entity that receives a grant under subsection (a) during a fiscal year shall,
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General to carry out this section$15,000,000 for each of fiscal years 2019 through 2023.
+There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 110–199, title II, §211, Apr. 9, 2008, 122 Stat. 679; Pub. L. 114–255, div. B, title XIV, §14009(b), Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–391, title V, §502(f)(1), Dec. 21, 2018, 132 Stat. 5230.)
 
@@ -64,7 +64,7 @@ Section was formerly classified to section 17531 of Title 42, The Public Health 
 
 Subsec. (a). Pub. L. 115–391, §502(f)(1)(B), struck out "mentoring and other" before "transitional services".
 
-Subsec. (b)(2). Pub. L. 115–391, §502(f)(1)(C), added par. (2) and struck out former par. (2) which read as follows: "transitional services to assist in the reintegration of offenders into the community, including mental health care; and".
+Subsec. (b)(2). Pub. L. 115–391, §502(f)(1)(C), added par. (2) and struck out former par. (2) which read as follows: "transitional services to assist in the reintegration ofoffenders into the community, including mental health care; and".
 
 Subsec. (f). Pub. L. 115–391, §502(f)(1)(D), substituted "this section $15,000,000 for each of fiscal years 2019 through 2023." for "this section $15,000,000 for each of fiscal years 2009 and 2010."
 

@@ -22,5 +22,5 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
-<b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted "to the congressional committees specified in subsection (b)" for"to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives", and added subsec. (b).
+<b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted "to the congressional committees specified in subsection (b)" for "to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives", and added subsec. (b).
 

@@ -56,7 +56,7 @@ In this part:
 
 #### (10) United States
 
-&emsp;The term "United States", in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+&emsp;The term "United States", in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the VirginIslands of the United States, and any other territory or possession of the United States.
 
 (Pub. L. 113–79, title I, §1401, Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–123, div. F, §60101(b)(1)(A), Feb. 9, 2018, 132 Stat. 311; Pub. L. 115–334, title I, §§1401(k)(2), 1404(b)(2), Dec. 20, 2018, 132 Stat. 4516, 4521.)
 
@@ -68,7 +68,7 @@ In this part:
 
 Par. (4). Pub. L. 115–123 redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text read as follows: "The term 'consecutive 2-month period' refers to the 2-month period consisting of the months of January and February, March and April, May and June, July and August, September and October, or November and December, respectively."
 
-Pars. (5), (6). Pub. L. 115–334, §1401(k)(2)(A), added pars. (5) and (6) and struck out former pars. (5) and (6)which defined the terms "margin protection program" and "margin protection program payment", respectively.
+Pars. (5), (6). Pub. L. 115–334, §1401(k)(2)(A), added pars. (5) and (6) and struck out former pars. (5) and (6) which defined the terms "margin protection program" and "margin protection program payment", respectively.
 
 Pub. L. 115–123, §60101(b)(1)(A)(ii), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 

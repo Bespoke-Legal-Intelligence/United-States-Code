@@ -8,7 +8,7 @@ A nonbank financial company supervised by the Board of Governors shall be treate
 
 #### References in Text
 
-The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov.10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 #### Amendments
 

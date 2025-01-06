@@ -50,7 +50,7 @@
 
 &emsp;(2) a technician may, at any time, be separated from his technician employment for cause by the adjutant general of the jurisdiction concerned;
 
-&emsp;(3) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensation shall be accomplished by the adjutant general of the jurisdiction concerned;
+&emsp;(3) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensationshall be accomplished by the adjutant general of the jurisdiction concerned;
 
 &emsp;(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;
 
@@ -134,7 +134,7 @@ In subsection (d), the words "one commissioned officer \* \* \* in a grade bel
 
 In subsection (e), the words "Funds appropriated by Congress" are substituted for the words "Funds hereafter appropriated under the provisions of this title for the support of", in 32:42, and "such moneys", in 32:42a. The words "are in addition to" are substituted for the words "shall be supplemental to", in 32:42, and "may be used as supplemental to", in 32:42a.
 
-In subsection (f), the words "authorized to be employed under this section" are substituted for the words "authorized to be employed". The words "person to employ them" are substituted for the words "by whom they shall be employed". The words "by regulations" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
+In subsection (f), the words "authorized to be employed under this section" are substituted for thewords "authorized to be employed". The words "person to employ them" are substituted for the words "by whom they shall be employed". The words "by regulations" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
 #### <b>Editorial Notes</b>
 
@@ -220,7 +220,7 @@ Pub. L. 90–486, §11, Aug. 13, 1968, 82 Stat. 760, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 90–486, §1, Aug. 13, 1968, 82 Stat. 755, provided: "That this Act \[amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5,Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the 'National Guard Technicians Act of 1968'."
+Pub. L. 90–486, §1, Aug. 13, 1968, 82 Stat. 755, provided: "That this Act \[amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the 'National Guard Technicians Act of 1968'."
 
 #### Military Education for Army National Guard Civilian Technicians
 
@@ -316,7 +316,7 @@ Pub. L. 90–486, §8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 "(a) Except as provided in section 709(g) of title 32, United States Code, the Secretary concerned shall fix the rate of basic compensation of positions existing on the date of enactment of this Act \[Aug. 13, 1968\] in accordance with the General Schedule set forth in section 5332, or under the appropriate prevailing rate schedule in accordance with section 5341 of title 5, United States Code, as applicable. In fixing such rate—
 
-&emsp;"(1) If the technician is receiving a rate of basic compensation which is less than the minimum rate of the appropriate grade of the General Schedule, or which is less than the minimum rate of the appropriate grade or compensation level of the appropriate prevailing rate schedule, as applicable, in which his position is placed, his basic compensation shall be increased to that minimum rate.
+&emsp;"(1) If the technician is receiving a rate of basic compensation which is less than the minimum rate ofthe appropriate grade of the General Schedule, or which is less than the minimum rate of the appropriate grade or compensation level of the appropriate prevailing rate schedule, as applicable, in which his position is placed, his basic compensation shall be increased to that minimum rate.
 
 &emsp;"(2) If the technician is receiving a rate of basic compensation which is equal to a rate of the appropriate grade of the General Schedule, or which is equal to a rate of the appropriate grade or compensation level under the appropriate prevailing rate schedule, as applicable, in which his position is placed, he shall receive basic compensation at that rate of the General Schedule, or at that rate under the prevailing rate schedule, as applicable.
 
@@ -328,7 +328,7 @@ Pub. L. 90–486, §8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 &emsp;&emsp;"(B) he is entitled to receive basic compensation at a higher rate,
 
-> &emsp;but, when any such position becomes vacant, the rate of basic compensation of any subsequent appointeethereto shall be fixed in the manner provided by applicable law and regulation.
+> &emsp;but, when any such position becomes vacant, the rate of basic compensation of any subsequent appointee thereto shall be fixed in the manner provided by applicable law and regulation.
 
 "(b) The conversion of positions and employees to appropriate grades of the General Schedule set forth in section 5332 of title 5, United States Code, and the initial adjustment of rates of basic compensation of those positions and technicians, provided for by this Act \[see Short Title note above\], shall not be considered to be transfers or promotions within the meaning of section 5334(b) of title 5, United States Code, and the regulations issued thereunder.
 

@@ -24,7 +24,7 @@ Grants to States.—(1) In cooperation with the States and not later than Januar
 
 &emsp;(A) conduct a review of systems used by the States to compile and maintain information about the titling of automobiles; and
 
-&emsp;(B) determine for each State the cost of making titling information maintained by that State available to the operator to meet the requirements of section 30502(d) of this title.
+&emsp;(B) determine for each State the cost of making titling information maintained bythat State available to the operator to meet the requirements of section 30502(d) of this title.
 
 (2) The Attorney General may make reasonable and necessary grants to participating States to be used in making titling information maintained by those States available to the operator.
 

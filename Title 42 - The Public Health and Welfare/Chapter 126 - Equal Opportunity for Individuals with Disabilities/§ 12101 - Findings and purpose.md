@@ -54,7 +54,7 @@ Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: "This Act \[enacting sections 12103 and12205a of this title, amending this section, sections 12102, 12111 to 12114, 12201, and 12206 to 12213 of this title, section 705 and former section 706 of Title 29, Labor, and enacting provisions set out as notes under this section and section 705 of Title 29\] may be cited as the 'ADA Amendments Act of 2008'."
+Pub. L. 110–325, §1, Sept. 25, 2008, 122 Stat. 3553, provided that: "This Act \[enacting sections 12103 and 12205a of this title, amending this section, sections 12102, 12111 to 12114, 12201, and 12206 to 12213 of this title, section 705 and former section 706 of Title 29, Labor, and enacting provisions set out as notes under this section and section 705 of Title 29\] may be cited as the 'ADA Amendments Act of 2008'."
 
 #### Short Title
 
@@ -78,7 +78,7 @@ Findings.—Congress finds that—
 
 &emsp;"(5) the holding of the Supreme Court in Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002) further narrowed the broad scope of protection intended to be afforded by the ADA;
 
-&emsp;"(6) as a result of these Supreme Court cases, lower courts have incorrectly found in individual cases that people with a range of substantially limiting impairments are not people with disabilities;
+&emsp;"(6) as a result of these Supreme Court cases, lower courts have incorrectly found in individual cases thatpeople with a range of substantially limiting impairments are not people with disabilities;
 
 &emsp;"(7) in particular, the Supreme Court, in the case of Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002), interpreted the term 'substantially limits' to require a greater degree of limitation than was intended by Congress; and
 

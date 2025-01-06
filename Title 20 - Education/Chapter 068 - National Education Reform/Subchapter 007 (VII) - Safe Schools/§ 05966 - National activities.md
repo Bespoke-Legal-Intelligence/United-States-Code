@@ -18,7 +18,7 @@
 
 #### (2) Special rule
 
-&emsp;The Secretary may carry out the activities described in paragraph (1) directly, through interagency agreements, or through grants, contracts or cooperative agreements.
+&emsp;The Secretary may carry out the activities described in paragraph (1) directly, throughinteragency agreements, or through grants, contracts or cooperative agreements.
 
 #### (b) National model city
 

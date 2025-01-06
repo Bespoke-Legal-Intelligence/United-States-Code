@@ -70,7 +70,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (ii) Equivalent service
 
-&emsp;&emsp;&emsp;If a private entity which operates a fixed route system and which is not subject to section 12184 of this title purchases orleases a vehicle with a seating capacity of 16 passengers or less (including the driver) for use on such system after the effective date of this subparagraph that is not readily accessible to or usable by individuals with disabilities, it shall be considered discrimination for such entity to fail to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities.
+&emsp;&emsp;&emsp;If a private entity which operates a fixed route system and which is not subject to section 12184 of this title purchases or leases a vehicle with a seating capacity of 16 passengers or less (including the driver) for use on such system after the effective date of this subparagraph that is not readily accessible to or usable by individuals with disabilities, it shall be considered discrimination for such entity to fail to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities.
 
 #### (C) Demand responsive system
 

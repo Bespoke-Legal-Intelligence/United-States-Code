@@ -20,7 +20,7 @@ As used in this subchapter:
 
 #### (4) Associate degree school of nursing
 
-&emsp;The term "associate degree school of nursing" means a department, division, or otheradministrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
+&emsp;The term "associate degree school of nursing" means a department, division, or other administrative unit in a junior college, community college, college, or university which provides primarily or exclusively a two-year program of education in professional nursing and allied subjects leading to an associate degree in nursing or to an equivalent degree, but only if such program, or such unit, college, or university is accredited.
 
 #### (5) Diploma school of nursing
 
@@ -90,7 +90,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

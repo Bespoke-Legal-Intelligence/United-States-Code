@@ -24,7 +24,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 #### (2) Jurisdiction to enforce
 
-&emsp;If, after 120 days after a decision of the Tax Court has become final, the Secretary has failed to refund the overpayment determined by the Tax Court, together with the interestthereon as provided in subchapter B of chapter 67, then the Tax Court, upon motion by the taxpayer, shall have jurisdiction to order the refund of such overpayment and interest. An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
+&emsp;If, after 120 days after a decision of the Tax Court has become final, the Secretary has failed to refund the overpayment determined by the Tax Court, together with the interest thereon as provided in subchapter B of chapter 67, then the Tax Court, upon motion by the taxpayer, shall have jurisdiction to order the refund of such overpayment and interest. An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
 
 #### (3) Limit on amount of credit or refund
 

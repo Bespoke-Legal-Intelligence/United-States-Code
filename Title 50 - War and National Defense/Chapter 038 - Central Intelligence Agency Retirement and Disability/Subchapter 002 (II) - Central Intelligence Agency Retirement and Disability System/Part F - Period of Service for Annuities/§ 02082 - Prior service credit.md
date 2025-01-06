@@ -155,13 +155,13 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 &emsp;(B) the date on which the participant making the deposit first becomes an employee of the Federal Government,
 
-> shall include interest on such amount computed and compounded annually beginning on the date of expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e) of title 5.
+> shall include interest on such amount computed and compounded annually beginning on the date of expiration of the two-year period. The interest rate that is applicable in computing interestin any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e) of title 5.
 
 (3) Any payment received by the Director under this subsection shall be deposited in the Treasury of the United States to the credit of the fund.
 
 (4) The provisions of section 2031(l) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
 
-(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat.3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659; Pub. L. 106–346, §101(a) \[title V, §505(c)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 116–92, div. E, title LXII, §6202(a)(2)(A)(ii), (c), Dec. 20, 2019, 133 Stat. 2185, 2186.)
+(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659; Pub. L. 106–346, §101(a) \[title V, §505(c)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 116–92, div. E, title LXII, §6202(a)(2)(A)(ii), (c), Dec. 20, 2019, 133 Stat. 2185, 2186.)
 
 #### <b>Editorial Notes</b>
 

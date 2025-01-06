@@ -90,7 +90,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
+&emsp;If a signatory jurisdiction has approved and committed to implement all or substantiallyall aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
 
 &emsp;&emsp;(A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
 
@@ -236,11 +236,13 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(3) for fiscal year 2023, $91,000,000;
 
-&emsp;(4) for fiscal year 2024, $91,500,000; and
+&emsp;(4) for fiscal year 2024, $91,500,000;
 
-&emsp;(5) for fiscal year 2025, $92,000,000.
+&emsp;(5) for fiscal year 2025, $92,000,000; and
 
-(June 30, 1948, ch. 758, title I, §117, as added Pub. L. 100–4, title I, §103, Feb. 4, 1987, 101 Stat. 10; amended Pub. L. 106–457, title II, §203, Nov. 7, 2000, 114 Stat. 1967; Pub. L. 114–322, title IV, §5007, Dec. 16, 2016, 130 Stat. 1896; Pub. L. 116–188, title I, §109, Oct. 30, 2020, 134 Stat. 920.)
+&emsp;(6) for each of fiscal years 2026 through 2030, $92,000,000.
+
+(June 30, 1948, ch. 758, title I, §117, as added Pub. L. 100–4, title I, §103, Feb. 4, 1987, 101 Stat. 10; amended Pub. L. 106–457, title II, §203, Nov. 7, 2000, 114 Stat. 1967; Pub. L. 114–322, title IV, §5007, Dec. 16, 2016, 130 Stat. 1896; Pub. L. 116–188, title I, §109, Oct. 30, 2020, 134 Stat. 920; Pub. L. 118–198, title I, §108, Dec. 23, 2024, 138 Stat. 2681.)
 
 #### <b>Editorial Notes</b>
 
@@ -249,6 +251,8 @@ There are authorized to be appropriated to carry out this section—
 November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 106–457, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (j)(6). Pub. L. 118–198 added par. (6).
 
 <b>2020</b>—Subsec. (j). Pub. L. 116–188 added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended."
 
@@ -260,7 +264,7 @@ November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the
 
 #### Chesapeake Watershed Investments for Landscape Defense
 
-Pub. L. 116–188, title I, §111, Oct. 30, 2020, 134 Stat. 921, provided that:
+Pub. L. 116–188, title I, §111, Oct. 30, 2020, 134 Stat. 921, as amended by Pub. L. 118–198, title I, §110, Dec. 23, 2024, 138 Stat. 2681, provided that:
 
 "(a)
 
@@ -464,7 +468,7 @@ Authorization of Appropriations.—
 
 &emsp;"(1)
 
-In general.—There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2025.
+In general.—There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2030.
 
 &emsp;"(2)
 
@@ -770,7 +774,7 @@ Sec. 206. <i>Strengthen Accountability</i>. The Committee, in collaboration with
 
 #### PART 3—Restore Chesapeake Bay Water Quality
 
-Sec. 301. <i>Water Pollution Control Strategies</i>. In preparing the report required by subsection 202(a) of this order, the Administrator of the EPA (Administrator) shall, after consulting with appropriate State agencies, examine how to make full use of its authorities under the Clean Water Act to protect and restore the Chesapeake Bay and its tributary waters and, as appropriate, shall consider revising any guidance and regulations.The Administrator shall identify pollution control strategies and actions authorized by the EPA's existing authorities to restore the Chesapeake Bay that:
+Sec. 301. <i>Water Pollution Control Strategies</i>. In preparing the report required by subsection 202(a) of this order, the Administrator of the EPA (Administrator) shall, after consulting with appropriate State agencies, examine how to make full use of its authorities under the Clean Water Act to protect and restore the Chesapeake Bay and its tributary waters and, as appropriate, shall consider revising any guidance and regulations. The Administrator shall identify pollution control strategies and actions authorized by the EPA's existing authorities to restore the Chesapeake Bay that:
 
 (a) establish a clear path to meeting, as expeditiously as practicable, water quality and environmental restoration goals for the Chesapeake Bay;
 
@@ -850,7 +854,7 @@ Sec. 801. The Secretaries of Commerce and the Interior shall, to the extent perm
 
 #### PART 9—Living Resources Protection and Restoration
 
-Sec. 901. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, identify and prioritize critical living resources of the ChesapeakeBay and its watershed, conduct collaborative research and habitat protection activities that address expected outcomes for these species, and develop a report addressing these topics as required in section 202 of this order. The Secretaries of Commerce and the Interior shall coordinate agency activities related to living resources in estuarine waters to ensure maximum benefit to the Chesapeake Bay resources.
+Sec. 901. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, identify and prioritize critical living resources of the Chesapeake Bay and its watershed, conduct collaborative research and habitat protection activities that address expected outcomes for these species, and develop a report addressing these topics as required in section 202 of this order. The Secretaries of Commerce and the Interior shall coordinate agency activities related to living resources in estuarine waters to ensure maximum benefit to the Chesapeake Bay resources.
 
 #### PART 10—Exceptions
 

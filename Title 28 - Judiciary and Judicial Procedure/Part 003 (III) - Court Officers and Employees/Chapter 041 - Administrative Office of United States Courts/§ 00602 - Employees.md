@@ -48,7 +48,7 @@ Pub. L. 95–539, §10, Oct. 28, 1978, 92 Stat. 2045, provided that:
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Administrative Office of United States Courts Personnel
 
@@ -90,7 +90,7 @@ Pub. L. 101–474, §§1–4, 6, Oct. 30, 1990, 104 Stat. 1097–1099, 1101, pro
 
 &emsp;"(8) prohibit personnel practices prohibited under section 2302(b) of title 5, United States Code;
 
-&emsp;"(9) prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; the Director must promulgate regulations providing procedures for resolving complaints of discrimination by employees and applicants for employment;
+&emsp;"(9) prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; the Director must promulgate regulations providingprocedures for resolving complaints of discrimination by employees and applicants for employment;
 
 &emsp;"(10) provide for the basic pay of not more than 5 percent of the authorized positions of the Administrative Office (excluding the positions referred to in section 603 of title 28, United States Code) to be set at rates not to exceed the rate of basic pay for positions at level IV of the Executive Schedule; the aggregate pay (including basic pay and incentive awards) of any individual whose basic pay is set under this subsection may not exceed the salary of the Director; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 58c(e) of title 19 and section 1451 of title 19, the Commissioner of U.S.Customs and Border Protection, upon the request of any entity, may enter into a fee agreement with such entity under which—
+Notwithstanding section 58c(e) of title 19 and section 1451 of title 19, the Commissioner of U.S. Customs and Border Protection, upon the request of any entity, may enter into a fee agreement with such entity under which—
 
 &emsp;(1) U.S. Customs and Border Protection shall provide services described in subsection (b) at a United States port of entry or any other facility at which U.S. Customs and Border Protection provides or will provide such services;
 
@@ -58,7 +58,7 @@ The Commissioner of U.S. Customs and Border Protection, at the request of an ent
 
 #### (f) Port of entry size
 
-The Commissioner of U.S. Customs and Border Protection shall ensure that each fee agreement proposal is given equal consideration regardless of the size of the port of entry.
+The Commissioner of U.S. Customs and Border Protection shall ensure that each fee agreementproposal is given equal consideration regardless of the size of the port of entry.
 
 #### (g) Denied application
 

@@ -52,7 +52,7 @@ Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted " 'Assistant Secretary' m
 
 Par. (4). Pub. L. 99–502, §9(b)(2)(C), substituted "Cooperative Research Centers" for "Centers for Industrial Technology".
 
-Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted "owned, leased, or otherwiseused by a Federal agency and funded" for "owned and funded", and struck out former par. (6) which defined "Board" to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
+Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted "owned, leased, or otherwise used by a Federal agency and funded" for "owned and funded", and struck out former par. (6) which defined "Board" to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
 
 Pars. (7) to (12). Pub. L. 99–502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 

@@ -114,7 +114,7 @@ Strategic Plan.—If the Administrator decides to grant the request by Amtrak un
 
 "(d)
 
-Notices.—The Administrator shall notify the appropriate committees of Congress \[Committees onCommerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of any decision made under subsection (a) and the details of the strategic plan under subsection (c).
+Notices.—The Administrator shall notify the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of any decision made under subsection (a) and the details of the strategic plan under subsection (c).
 
 "(e)
 

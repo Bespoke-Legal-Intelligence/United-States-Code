@@ -10,7 +10,7 @@ Suspension of Prohibition.—Whenever the Secretary of Transportation believes t
 
 (c)
 
-Termination of Suspension.—Whenever the Secretary believes that adequate shipping facilities are being provided to those ports by vessels documented under the laws of the United States, and certifies that fact to the Board, theBoard may order the termination of the suspension.
+Termination of Suspension.—Whenever the Secretary believes that adequate shipping facilities are being provided to those ports by vessels documented under the laws of the United States, and certifies that fact to the Board, the Board may order the termination of the suspension.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1673.)
 

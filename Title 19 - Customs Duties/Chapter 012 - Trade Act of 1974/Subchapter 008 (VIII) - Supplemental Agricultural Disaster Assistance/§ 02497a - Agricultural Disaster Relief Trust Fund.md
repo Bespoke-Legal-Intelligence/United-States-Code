@@ -16,7 +16,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (3) Limitation on transfers to Agricultural Disaster Relief Trust Fund
 
-&emsp;No amount may be appropriated to the Agricultural Disaster Relief Trust Fund on and after the date of any expenditure from the Agricultural Disaster Relief Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;No amount may be appropriated to the Agricultural Disaster Relief Trust Fund on andafter the date of any expenditure from the Agricultural Disaster Relief Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this subchapter or in a revenue Act, and
 

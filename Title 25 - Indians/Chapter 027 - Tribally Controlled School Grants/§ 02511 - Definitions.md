@@ -12,11 +12,11 @@ In this chapter:
 
 #### (3) Indian
 
-&emsp;The term "Indian" means a member of an Indian tribe, and includes individuals who areeligible for membership in a tribe, and the child or grandchild of such an individual.
+&emsp;The term "Indian" means a member of an Indian tribe, and includes individuals who are eligible for membership in a tribe, and the child or grandchild of such an individual.
 
 #### (4) Indian tribe
 
-&emsp;The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including an Alaska Native Village Corporation or Regional Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, or other organized groupor community, including an Alaska Native Village Corporation or Regional Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (5) Local educational agency
 

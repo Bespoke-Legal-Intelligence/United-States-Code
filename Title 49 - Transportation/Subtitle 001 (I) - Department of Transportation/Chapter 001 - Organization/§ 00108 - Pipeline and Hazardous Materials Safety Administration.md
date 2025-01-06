@@ -10,7 +10,7 @@ Safety as Highest Priority.—In carrying out its duties, the Administration sha
 
 (c)
 
-Administrator.—The head of the Administration shall be the Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in pipeline safety, hazardous materials safety, or other transportation safety. The Administrator shall report directly to the Secretary of Transportation.
+Administrator.—The head of the Administration shall be the Administrator who shall beappointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in pipeline safety, hazardous materials safety, or other transportation safety. The Administrator shall report directly to the Secretary of Transportation.
 
 (d)
 
@@ -156,7 +156,7 @@ Pub. L. 108–426, §2(b), Nov. 30, 2004, 118 Stat. 2424, provided that: "The au
 
 For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see section 4(b) of Pub. L. 108–426, set out as a note under former section 112 of this title.
 
-Pub. L. 108–426, §7, Nov. 30, 2004, 118 Stat. 2428, provided that: "The Secretary shall provide for the orderly transfer of duties and powers under this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\], including the amendments made by thisAct, as soon as practicable but not later than 90 days after the date of enactment of this Act \[Nov. 30, 2004\]."
+Pub. L. 108–426, §7, Nov. 30, 2004, 118 Stat. 2428, provided that: "The Secretary shall provide for the orderly transfer of duties and powers under this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\], including the amendments made by this Act, as soon as practicable but not later than 90 days after the date of enactment of this Act \[Nov. 30, 2004\]."
 
 #### Reports
 

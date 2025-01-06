@@ -2,7 +2,7 @@
 
 Section 1841, Pub. L. 87–794, title II, §221, Oct. 11, 1962, 76 Stat. 874, made provision for the giving of advice by the Tariff Commission \[now the United States International Trade Commission\] concerning trade agreements. See section 2151 of this title.
 
-Section 1842, Pub. L. 87–794, title II, §222, Oct. 11, 1962, 76 Stat. 875, made provision for the giving of advice byother sources concerning trade agreements. See section 2152 of this title.
+Section 1842, Pub. L. 87–794, title II, §222, Oct. 11, 1962, 76 Stat. 875, made provision for the giving of advice by other sources concerning trade agreements. See section 2152 of this title.
 
 Section 1843, Pub. L. 87–794, title II, §223, Oct. 11, 1962, 76 Stat. 875, provided for public hearings in connection with proposed trade agreements. See section 2153 of this title.
 

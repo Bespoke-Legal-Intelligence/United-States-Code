@@ -16,7 +16,7 @@ Delivery of Software and Related Materials.—Any noncommercial computer softwar
 
 &emsp;(1) include computer software delivered in a useable, digital format;
 
-&emsp;(2) not rely on external or additional software code or data, unless such software code or data is included in the items to be delivered; and
+&emsp;(2) not rely on external or additional software code or data, unless such software codeor data is included in the items to be delivered; and
 
 &emsp;(3) in the case of negotiated terms that do not allow for the inclusion of dependent software code or data, sufficient documentation to support maintenance and understanding of interfaces and software revision history.
 

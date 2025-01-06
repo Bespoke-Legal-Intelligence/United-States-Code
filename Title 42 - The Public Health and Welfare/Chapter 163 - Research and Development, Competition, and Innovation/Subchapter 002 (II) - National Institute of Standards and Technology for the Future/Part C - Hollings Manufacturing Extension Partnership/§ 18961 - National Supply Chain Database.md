@@ -114,7 +114,7 @@ The Director, acting through the Hollings Manufacturing Extension Partnership pr
 
 &emsp;&emsp;(B) may not be made available pursuant to any Federal, State, local, or Tribal authority pursuant to any Federal, State, local, or Tribal law requiring public disclosure of information or records; and
 
-&emsp;&emsp;(C) may not, without the written consent of the private sector entity submitting suchinformation, be used directly by the Director, or any other Federal, State, or local authority in any civil enforcement action brought by a Federal, State, Tribal, or local authority.
+&emsp;&emsp;(C) may not, without the written consent of the private sector entity submitting such information, be used directly by the Director, or any other Federal, State, or local authority in any civil enforcement action brought by a Federal, State, Tribal, or local authority.
 
 #### (2) Express statement
 

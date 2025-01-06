@@ -46,5 +46,5 @@ Public Law 87–483, referred to in subsecs. (b) and (c)(2)(A), is Pub. L. 87–
 
 #### Termination Date
 
-Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11,set out as an Agreement note under section 620 of this title.
+Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
 

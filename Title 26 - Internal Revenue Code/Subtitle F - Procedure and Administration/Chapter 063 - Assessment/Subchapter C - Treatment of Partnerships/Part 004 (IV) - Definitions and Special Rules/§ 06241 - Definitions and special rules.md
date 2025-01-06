@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 #### (B) Suspension of period of limitation for filing for judicial review
 
-&emsp;&emsp;The running of the period specified in section 6234 shall, in a case under title 11 of theUnited States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.
+&emsp;&emsp;The running of the period specified in section 6234 shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.
 
 #### (7) Treatment where partnership ceases to exist
 
@@ -108,7 +108,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided by the Secretary, in the case of any controlled foreign corporation (as defined in section 957 or 953(c)(1)) which is a partner of a partnership, each United States shareholder (as defined in section 951(b) or 953(c)(1)) with respect to such controlled foreign corporation shall be treated for purposes of this subchapter as a partner of such partnership. For purposes of the preceding sentence, any distributive share of any such United States shareholder with respect to such partnership shall, except as otherwise provided by the Secretary, be equal to such United States shareholder's pro rata share with respect to such controlled foreign corporation (determined under rules similar to the rules of section 951(a)(2)).
+&emsp;&emsp;Except as otherwise provided by the Secretary, in the case of any controlled foreign corporation (as defined in section 957 or 953(c)(1)) which is a partner of a partnership, each United States shareholder (as defined in section 951(b) or 953(c)(1)) with respect to such controlled foreign corporation shall be treated for purposes of this subchapter as a partner of such partnership. For purposes of the preceding sentence, any distributive share of any such United States shareholderwith respect to such partnership shall, except as otherwise provided by the Secretary, be equal to such United States shareholder's pro rata share with respect to such controlled foreign corporation (determined under rules similar to the rules of section 951(a)(2)).
 
 #### (B) Passive foreign investment companies
 

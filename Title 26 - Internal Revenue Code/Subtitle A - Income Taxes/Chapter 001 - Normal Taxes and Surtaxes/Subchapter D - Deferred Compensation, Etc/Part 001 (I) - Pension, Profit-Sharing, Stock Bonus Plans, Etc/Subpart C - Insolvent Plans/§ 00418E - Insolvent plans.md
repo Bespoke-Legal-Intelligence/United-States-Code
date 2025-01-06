@@ -72,7 +72,7 @@ For purposes of this section, for a plan year—
 
 #### (5) Unpaid benefits
 
-&emsp;If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary, to the extent possible taking into account the plan's total available resources in that insolvency year.
+&emsp;If, by the end of an insolvency year, any benefit has not been paid at the resource benefitlevel, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary, to the extent possible taking into account the plan's total available resources in that insolvency year.
 
 #### (6) Retroactive payments
 

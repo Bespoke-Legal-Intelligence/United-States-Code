@@ -24,7 +24,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;It shall be the duty of the Secretary of the Treasury to invest such portion of the TrustFund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States. For such purpose, such obligations may be acquired (i) on original issue at the issue price, or (ii) by purchase of outstanding obligations at the market price.
+&emsp;&emsp;It shall be the duty of the Secretary of the Treasury to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States. For such purpose, such obligations may be acquired (i) on original issue at the issue price, or (ii) by purchase of outstanding obligations at the market price.
 
 #### (B) Sale of obligations
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
+The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certainprojects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
 
 #### (b) Availability of financial assistance
 
@@ -34,7 +34,7 @@ No assistance may be made available under this section unless the Secretary has 
 
 &emsp;(5) the management of the project is being conducted by persons who meet minimum levels of competency and experience prescribed by the Secretary;
 
-&emsp;(6) the project is being operated and managed in accordance with a management-improvement-and-operating plan which is designed to reduce the operating costs of the project, which has been approved by the Secretary, and which includes the following: (A) a detailed maintenance schedule; (B) a schedule for correcting past deficiencies in maintenance, repairs, and replacements; (C) a plan to upgrade the project to meet cost-effective energy efficiency standards prescribed by the Secretary; (D) a plan to improve financial and management control systems; (E) a detailed annual operating budget taking into account such standards for operating costs in the area as may be determined by the Secretary; and (F) such other requirements as the Secretary may determine; except that the Secretary may excuse an owner from compliance withthe plan requirement set forth in this paragraph in any case in which such owner seeks only assistance for capital improvements under this section; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved;
+&emsp;(6) the project is being operated and managed in accordance with a management-improvement-and-operating plan which is designed to reduce the operating costs of the project, which has been approved by the Secretary, and which includes the following: (A) a detailed maintenance schedule; (B) a schedule for correcting past deficiencies in maintenance, repairs, and replacements; (C) a plan to upgrade the project to meet cost-effective energy efficiency standards prescribed by the Secretary; (D) a plan to improve financial and management control systems; (E) a detailed annual operating budget taking into account such standards for operating costs in the area as may be determined by the Secretary; and (F) such other requirements as the Secretary may determine; except that the Secretary may excuse an owner from compliance with the plan requirement set forth in this paragraph in any case in which such owner seeks only assistance for capital improvements under this section; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved;
 
 &emsp;(7) all reasonable attempts have been made to take all appropriate actions and provide suitable housing for project residents;
 
@@ -46,7 +46,7 @@ No assistance may be made available under this section unless the Secretary has 
 
 #### (e) Consultation with local officials
 
-Prior to making assistance available to a project, the Secretary shall consult with the appropriate officials of the unit of local government in which such project is located and seek assurances that—
+Prior to making assistance available to a project, the Secretary shall consult with the appropriate officials of the unit of local governmentin which such project is located and seek assurances that—
 
 &emsp;(1) the community in which the project is located is or will provide essential services to the project in keeping with the community's general level of such services;
 
@@ -162,7 +162,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (1) Set-aside
 
-&emsp;In providing, and contracting to provide, assistance for capital improvements under this section, in each fiscal year the Secretary shall set aside an amount, as determined by the Secretary, for projects that are eligible for incentives under section 224(b) of the EmergencyLow Income Housing Preservation Act of 1987, as such section existed before November 28, 1990. The Secretary may make such assistance available on a noncompetitive basis.
+&emsp;In providing, and contracting to provide, assistance for capital improvements under this section, in each fiscal year the Secretary shall set aside an amount, as determined by the Secretary, for projects that are eligible for incentives under section 224(b) of the Emergency Low Income Housing Preservation Act of 1987, as such section existed before November 28, 1990. The Secretary may make such assistance available on a noncompetitive basis.
 
 #### (2) General rules for allocation
 
@@ -228,7 +228,7 @@ The Housing and Community Development Act of 1992, referred to in subsec. (n)(2)
 
 Another subsec. (k) of section 201 of Pub. L. 95–557 amended section 1715z–1 of this title.
 
-Section was enacted as part of the Housing and Community Development Amendments of 1978, and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Amendments of 1978, and not aspart of the National Housing Act which comprises this chapter.
 
 #### Amendments
 
@@ -494,7 +494,7 @@ In General.—Each comprehensive needs assessment submitted under this title for
 
 "(b)
 
-Projects for the Elderly.—Each comprehensive needs assessment for a covered multifamily housing property for the elderly shall include, in addition tothe information required under subsection (a), the following information with respect to the property:
+Projects for the Elderly.—Each comprehensive needs assessment for a covered multifamily housing property for the elderly shall include, in addition to the information required under subsection (a), the following information with respect to the property:
 
 &emsp;"(1) A description of the supportive service needs of such residents and any supportive services provided to elderly residents of the property.
 
@@ -582,11 +582,11 @@ Amount of Assistance.—The Secretary may fund all or only a portion of the need
 
 #### Capital Assessment Study
 
-Pub. L. 101–235, title II, §204(c), Dec. 15, 1989, 103 Stat. 2040, as amended by Pub. L. 101–625, title V, §583, Nov. 28, 1990, 104 Stat. 4249, directed Secretary of Housing and Urban Development to conduct a study to determine physical renovation needs of Nation's federally-assisted multifamily housing inventory that is distressed, to estimate cost of correcting deficiencies andsubsequently maintaining that inventory in adequate physical condition, and to establish criteria to determine what housing qualifies as distressed, with such criteria to include factors such as serious deficiencies in original design, deferred maintenance, physical deterioration or obsolescence of major systems and other serious deficiencies in physical plant of a project, such study to examine and assess adequacy of existing tools that are available to the Secretary for modernization efforts including mortgage insurance for rehabilitation loans, operating assistance and capital improvement loans under the Flexible Subsidy Program, with a detailed examination and assessment of Flexible Subsidy Program required, and rental assistance, and not later than Mar. 1, 1992, to submit to Congress a detailed report setting forth findings as a result of the study.
+Pub. L. 101–235, title II, §204(c), Dec. 15, 1989, 103 Stat. 2040, as amended by Pub. L. 101–625, title V, §583, Nov. 28, 1990, 104 Stat. 4249, directed Secretary of Housing and Urban Development to conduct a study to determine physical renovation needs of Nation's federally-assisted multifamily housing inventory that is distressed, to estimate cost of correcting deficiencies and subsequently maintaining that inventory in adequate physical condition, and to establish criteria to determine what housing qualifies as distressed, with such criteria to include factors such as serious deficiencies in original design, deferred maintenance, physical deterioration or obsolescence of major systems and other serious deficiencies in physical plant of a project, such study to examine and assess adequacy of existing tools that are available to the Secretary for modernization efforts including mortgage insurance for rehabilitation loans, operating assistance and capital improvement loans under the Flexible Subsidy Program, with a detailed examination and assessment of Flexible Subsidy Program required, and rental assistance, and not later than Mar. 1, 1992, to submit to Congress a detailed report setting forth findings as a result of the study.
 
 #### National Commission on Severely Distressed Public Housing
 
-Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to be most severely distressed, provided for membership, functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
+Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to be most severely distressed, provided for membership,functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
 
 #### Multifamily Housing Capital Improvements Assistance; Regulations for Implementation of Program
 

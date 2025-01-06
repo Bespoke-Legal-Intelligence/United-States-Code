@@ -108,7 +108,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;The term "WTC-related musculoskeletal disorder" means a chronic or recurrent disorder of the musculoskeletal system caused by heavy lifting or repetitive strain on the joints or musculoskeletal system occurring during rescue or recovery efforts in the NewYork City disaster area in the aftermath of the September 11, 2001, terrorist attacks.
+&emsp;&emsp;The term "WTC-related musculoskeletal disorder" means a chronic or recurrent disorder of the musculoskeletal system caused by heavy lifting or repetitive strain on the joints or musculoskeletal system occurring during rescue or recovery efforts in the New York City disaster area in the aftermath of the September 11, 2001, terrorist attacks.
 
 #### (5) Cancer
 
@@ -222,7 +222,7 @@
 
 #### (B) Procedures for review, certification, and appeal
 
-&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinations under subparagraph (A). Such rule shall provide for—
+&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinationsunder subparagraph (A). Such rule shall provide for—
 
 &emsp;&emsp;&emsp;(i) the timely review of such a determination by a physician panel with appropriate expertise for the condition and recommendations to the WTC Program Administrator;
 
@@ -234,7 +234,7 @@
 
 #### (C) Inclusion in list of health conditions
 
-&emsp;&emsp;If the WTC Program Administrator provides certification under subparagraph (B)(iii) for coverage of a condition, the Administrator may, pursuant to subsection\(a)(6), add the condition to the list in subsection (a)(3).
+&emsp;&emsp;If the WTC Program Administrator provides certification under subparagraph (B)(iii) for coverage of a condition, the Administrator may, pursuant to subsection (a)(6), add the condition to the list in subsection (a)(3).
 
 #### (D) Conditions already declined for inclusion in list
 
@@ -284,7 +284,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a rate higher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
+&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a ratehigher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
 
 #### (B) Pharmaceuticals
 

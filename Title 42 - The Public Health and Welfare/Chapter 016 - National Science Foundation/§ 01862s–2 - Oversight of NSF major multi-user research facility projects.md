@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) clarify the roles and responsibilities of all organizations, including offices, panels, committees, and directorates, involved in supporting a major multi-user research facility project, including the role of the Major Research Equipment and Facilities Construction Panel;
 
-&emsp;&emsp;(C) establish policies and procedures for the planning, management, and oversight of a major multi-user research facility project at each phase of the life-cycle of the major multi-user research facility project;
+&emsp;&emsp;(C) establish policies and procedures for the planning, management, and oversight of a major multi-user research facility projectat each phase of the life-cycle of the major multi-user research facility project;
 
 &emsp;&emsp;(D) ensure that policies for estimating and managing costs and schedules are consistent with the best practices described in the Government Accountability Office Cost Estimating and Assessment Guide, the Government Accountability Office Schedule Assessment Guide, and the Office of Management and Budget Uniform Guidance (2 C.F.R. Part 200);
 

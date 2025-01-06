@@ -14,7 +14,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
 
-&emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
+&emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academyand any other midshipman on active duty in the naval service.
 
 &emsp;(8) The term "military" refers to any or all of the armed forces.
 
@@ -46,7 +46,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(17) The term "covered offense" means—
 
-&emsp;&emsp;(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;
+&emsp;&emsp;(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), the standalone offense of child pornography punishable under section 934 (article 134), or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned;
 
 &emsp;&emsp;(B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under section 881 of this title (article 81);
 
@@ -57,16 +57,6 @@ In this chapter (the Uniform Code of Military Justice):
 &emsp;(18) The term "special trial counsel" means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, §533, Dec. 27, 2021, 135 Stat. 1695; Pub. L. 117–263, div. A, title V, §541(a)(1), (b)(1), Dec. 23, 2022, 136 Stat. 2579, 2580.)
-
-#### Amendment of Paragraph (17)(A)
-
-<i>Pub. L. 117–263, div. A, title V, §541(b), Dec. 23, 2022, 136 Stat. 2580, provided that, effective Jan. 1, 2025, and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended:</i>
-
-<i>(1) by striking "or"; and</i>
-
-<i>(2) by striking "of this title" and inserting ", or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned".</i>
-
-<i>See 2022 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -186,7 +176,7 @@ Pub. L. 114–328, div. E, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2967, a
 
 "(a)
 
-In General.—Except as otherwise provided in this division \[div. E (§§5001–5542) of Pub. L. 114–328, see Tables for classification\], the amendments made by this division \[enacting, amending, and transferring numerous sections throughout this chapter\] shall take effect on the date designated by the President \[Jan. 1, 2019, with certain conditions and exceptions, see Ex. Ord. No. 13825, set out below\], which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act \[Dec. 23, 2016\].
+In General.—Except as otherwise provided in this division \[div. E (§§5001–5542) of Pub. L. 114–328, see Tables for classification\], the amendments made by this division \[enacting, amending, and transferring numerous sections throughout this chapter\] shall take effect on the date designated by the President \[Jan. 1, 2019, with certain conditions and exceptions, see Ex.Ord. No. 13825, set out below\], which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act \[Dec. 23, 2016\].
 
 "(b)
 
@@ -262,11 +252,11 @@ Pub. L. 104–106, div. A, title XI, §1101, Feb. 10, 1996, 110 Stat. 461, provi
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–661, div. A, title VIII, §801(a), Nov. 14, 1986, 100 Stat. 3905, provided that: "This title \[enacting section 850a of this title, amending sections 802, 803, 806,825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title\] may be cited as the 'Military Justice Amendments of 1986'."
+Pub. L. 99–661, div. A, title VIII, §801(a), Nov. 14, 1986, 100 Stat. 3905, provided that: "This title \[enacting section 850a of this title, amending sections 802, 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title\] may be cited as the 'Military Justice Amendments of 1986'."
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–209, §1(a), Dec. 6, 1983, 97 Stat. 1393, provided that: "This Act \[enacting sections 912a of this title and section 1259 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 802, 806, 815, 816, 825, 826, 827, 829, 834, 838, 842, 849, 854, 857, 860 to 867, 869, 870, 871, 876a, 936, 1552, and 1553 of this title, and section 2101 of Title 28, and enacting provisions set out as notes under sections 801, 867, and 869 of this title and amending provisions set out as a note under section 706 of this title\] may be cited as the 'Military Justice Act of 1983'."
+Pub. L. 98–209, §1(a), Dec. 6, 1983, 97 Stat. 1393, provided that: "This Act \[enacting sections 912a of thistitle and section 1259 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 802, 806, 815, 816, 825, 826, 827, 829, 834, 838, 842, 849, 854, 857, 860 to 867, 869, 870, 871, 876a, 936, 1552, and 1553 of this title, and section 2101 of Title 28, and enacting provisions set out as notes under sections 801, 867, and 869 of this title and amending provisions set out as a note under section 706 of this title\] may be cited as the 'Military Justice Act of 1983'."
 
 #### Short Title of 1981 Amendment
 
@@ -354,7 +344,7 @@ Handling, storage, and return.—The committee shall handle and store all record
 
 &emsp;"(3)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the committee shall submit to the Secretary of Defense, and to the Committees on Armed Services of the Senate and the House of Representatives, a report setting forth the results of the reviews and assessments required by paragraph (1). The report shall include such recommendations for legislative or administrative action as the committee considers appropriate in light of such results.
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], thecommittee shall submit to the Secretary of Defense, and to the Committees on Armed Services of the Senate and the House of Representatives, a report setting forth the results of the reviews and assessments required by paragraph (1). The report shall include such recommendations for legislative or administrative action as the committee considers appropriate in light of such results.
 
 &emsp;"(4)
 
@@ -580,7 +570,7 @@ Certification.—A certification described in this subsection is a written certi
 
 &emsp;&emsp;"(D) has agreed to share with the United States any information that is related to the individual;
 
-&emsp;"(3) if the country to which the individual is to be transferred is a country to which the United States transferred an individual who was detained at United States Naval Station, Guantanamo Bay, Cuba, at any time after September 11, 2001, and such transferred individual subsequently engaged in any terrorist activity, the Secretary has—
+&emsp;"(3) if the country to which the individual is to be transferred is a country to which the United States transferred an individual who was detained at United States Naval Station, Guantanamo Bay, Cuba, at any time after September 11, 2001, and such transferredindividual subsequently engaged in any terrorist activity, the Secretary has—
 
 &emsp;&emsp;"(A) considered such circumstances; and
 
@@ -666,7 +656,7 @@ Notice Required.—The Secretary of Defense shall submit to the appropriate cong
 
 Assessments Required.—Prior to any transfer referred to under subsection (a), the Secretary shall ensure that an assessment is conducted as follows:
 
-&emsp;"(1) In the case of the proposed transfer of such an individual by reason of the individual being released,an assessment of the threat posed by the individual and the security environment of the country to which the individual is to be transferred.
+&emsp;"(1) In the case of the proposed transfer of such an individual by reason of the individual being released, an assessment of the threat posed by the individual and the security environment of the country to which the individual is to be transferred.
 
 &emsp;"(2) In the case of the proposed transfer of such an individual to a country other than Afghanistan for the purpose of the prosecution of the individual, an assessment regarding the capacity, willingness, and historical track record of the country with respect to prosecuting similar cases, including a review of the primary evidence against the individual to be transferred and any significant admissibility issues regarding such evidence that are expected to arise in connection with the prosecution of the individual.
 
@@ -870,7 +860,7 @@ In General.—Not later than 90 days after the date of the enactment of this Act
 
 "(b)
 
-Elements of Procedures.—The procedures required by this section shall provide for the following in the case of any unprivileged enemy belligerent who will be held in long-term detention under the law of war pursuant to the Authorization for Use of Military Force:
+Elements of Procedures.—The procedures required by this section shall provide for the following inthe case of any unprivileged enemy belligerent who will be held in long-term detention under the law of war pursuant to the Authorization for Use of Military Force:
 
 &emsp;"(1) A military judge shall preside at proceedings for the determination of status of an unprivileged enemy belligerent.
 
@@ -978,7 +968,7 @@ Limitation on delegation.—
 
 &emsp;&emsp;"(A)
 
-In general.—The waiver authority under paragraph (1) may not be delegated to any official below the level of the Deputy Secretary of Defense, except in the case of a waiver for an individual interrogation that is based on military exigencies, in which case the delegation of the waiver authority shall be done pursuant to regulations that the Secretary of Defense shall prescribe but in no instance may the latter delegation be below the level of combatant commander of the theater in which the individual is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility within that theater.
+In general.—The waiver authority under paragraph (1) may not be delegated to any officialbelow the level of the Deputy Secretary of Defense, except in the case of a waiver for an individual interrogation that is based on military exigencies, in which case the delegation of the waiver authority shall be done pursuant to regulations that the Secretary of Defense shall prescribe but in no instance may the latter delegation be below the level of combatant commander of the theater in which the individual is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility within that theater.
 
 &emsp;&emsp;"(B)
 
@@ -1166,7 +1156,7 @@ Additional Matters To Be Included in Initial Report.—The first report submitte
 
 &emsp;"(1) A description of the process that was previously used for screening the detainees described by subsection (c)(4) prior to their release or transfer from detention at Naval Station Guantanamo Bay, Cuba.
 
-&emsp;"(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activitiesafter release or transfer from Naval Station Guantanamo Bay.
+&emsp;"(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activities after release or transfer from Naval Station Guantanamo Bay.
 
 &emsp;"(3) An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer."
 
@@ -1276,7 +1266,7 @@ Review of decisions of combatant status review tribunals of propriety of detenti
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of any final decision of a Combatant Status Review Tribunal that an alien is properly detained as an enemy combatant.
+In general.—Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of anyfinal decision of a Combatant Status Review Tribunal that an alien is properly detained as an enemy combatant.
 
 &emsp;&emsp;"(B)
 
@@ -1388,7 +1378,7 @@ Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, 
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 30, 2005\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 30, 2005\], the Secretary of Defense shall submit to the Committeeon Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
 &emsp;&emsp;"(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary of Defense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
 
@@ -1508,7 +1498,7 @@ Required Policies.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall ensure that policies are prescribed regarding procedures for military and civilian personnel of the Department of Defense and contractor personnel of theDepartment of Defense in Iraq that are intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, ensure that all personnel of Iraqi military forces who are trained by Department of Defense personnel and contractor personnel of the Department of Defense receive training regarding the international obligations and laws applicable to the humane detention of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
+In general.—The Secretary of Defense shall ensure that policies are prescribed regarding procedures for military and civilian personnel of the Department of Defense and contractor personnel of the Department of Defense in Iraq that are intended to ensure that members of the Armed Forces, and allpersons acting on behalf of the Armed Forces or within facilities of the Armed Forces, ensure that all personnel of Iraqi military forces who are trained by Department of Defense personnel and contractor personnel of the Department of Defense receive training regarding the international obligations and laws applicable to the humane detention of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
 
 &emsp;"(2)
 
@@ -1921,6 +1911,12 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Amendments to the Manual for Courts-Martial, United States
 
 Additions and amendments to the Manual for Courts-Martial, United States, prescribed by Ex. Ord. No. 12473, Apr. 13, 1984, 49 F.R. 17152, were contained in the following:
+
+#### Amendments to the Manual for Courts-Martial, United States
+
+Additions and amendments to the Manual for Courts-Martial, United States, prescribed by Ex. Ord. No. 12473, Apr. 13, 1984, 49 F.R. 17152, were contained in the following:
+
+<b>2024</b>—Ex. Ord. No. 14130, Dec. 20, 2024, 89 F.R. 105343.
 
 <b>2023</b>—Ex. Ord. No. 14103, July 28, 2023, 88 F.R. 50535.
 

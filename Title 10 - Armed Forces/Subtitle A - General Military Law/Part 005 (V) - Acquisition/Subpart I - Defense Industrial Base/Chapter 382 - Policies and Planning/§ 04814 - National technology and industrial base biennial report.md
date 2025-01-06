@@ -20,7 +20,7 @@ The Secretary of Defense shall transmit to the Committee on Armed Services of th
 
 &emsp;&emsp;(C) any other steps necessary to foster and safeguard the national technology and industrial base.
 
-&emsp;(4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
+&emsp;(4) Identification of each program designed to sustain specific essential technological andindustrial capabilities and processes of the national technology and industrial base.
 
 &emsp;(5) A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or chapter 385 of this title, including—
 

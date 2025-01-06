@@ -4,7 +4,7 @@
 
 (b) Any other direct appeal to the Supreme Court which is authorized by law, from a decision of a district court in any civil action, suit or proceeding, shall be taken within thirty days from the judgment, order or decree, appealed from, if interlocutory, and within sixty days if final.
 
-(c) Any other appeal or any writ of certiorari intended to bring any judgment or decree in a civil action, suit or proceeding before the Supreme Court for review shall be taken or applied for within ninety days after the entry of such judgment or decree. A justice of the Supreme Court, for good cause shown, may extend the time for applying for a writ of certiorari for a period not exceeding sixty days.
+(c) Any other appeal or any writ of certiorari intended to bring any judgment or decree in a civil action, suit or proceeding before the Supreme Court for review shall be taken or applied for within ninety days after the entry of such judgment or decree. A justice of the SupremeCourt, for good cause shown, may extend the time for applying for a writ of certiorari for a period not exceeding sixty days.
 
 (d) The time for appeal or application for a writ of certiorari to review the judgment of a State court in a criminal case shall be as prescribed by rules of the Supreme Court.
 
@@ -12,23 +12,15 @@
 
 (f) In any case in which the final judgment or decree of any court is subject to review by the Supreme Court on writ of certiorari, the execution and enforcement of such judgment or decree may be stayed for a reasonable time to enable the party aggrieved to obtain a writ of certiorari from the Supreme Court. The stay may be granted by a judge of the court rendering the judgment or decree or by a justice of the Supreme Court, and may be conditioned on the giving of security, approved by such judge or justice, that if the aggrieved party fails to make application for such writ within the period allotted therefor, or fails to obtain an order granting his application, or fails to make his plea good in the Supreme Court, he shall answer for all damages and costs which the other party may sustain by reason of the stay.
 
-(g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.
+(g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces, or the decision of a Court of Criminal Appeals that the United States Court of Appeals for the Armed Forces refuses to grant a petition to review, shall be as prescribed by rules of the Supreme Court.
 
 (June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §106, 63 Stat. 104; Pub. L. 98–209, §10(b), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 100–352, §5(b), June 27, 1988, 102 Stat. 663; Pub. L. 103–337, div. A, title IX, §924(d)(1)(C), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 118–31, div. A, title V, §533(a)(2)(B), Dec. 22, 2023, 137 Stat. 261.)
-
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 118–31, div. A, title V, §533(a)(2)(B), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (g) of this section is amended to read as follows:</i>
-
-<i>"(g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces, or the decision of a Court of Criminal Appeals that the United States Court of Appeals for the Armed Forces refuses to grant a petition to review, shall be as prescribed by rules of the Supreme Court."</i>
-
-<i>See 2023 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, §2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, §6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§1, 8 (a, b, d), 43 Stat. 938, 940;Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
+Based on title 28, U.S.C., 1940 ed., §§47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, §2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, §6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
 
 Section consolidates section 350 of title 28, U.S.C., 1940 ed., with those portions of sections 47, 47a, 349a, 380, and 380a, of said title 28, section 29, of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., respective time for taking direct appeal. (For disposition of other provisions of said sections, see Distribution Table.)
 

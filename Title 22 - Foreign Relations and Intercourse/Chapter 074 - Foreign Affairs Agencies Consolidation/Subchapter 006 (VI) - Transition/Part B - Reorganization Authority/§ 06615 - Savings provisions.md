@@ -26,7 +26,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (4) Regulations
 
-&emsp;The Secretary is authorized to promulgate regulations providing for the orderly transfer of proceedings continued under this subsection to the Department.
+&emsp;The Secretary is authorized to promulgate regulations providing for the orderly transferof proceedings continued under this subsection to the Department.
 
 #### (c) No effect on judicial or administrative proceedings
 
@@ -46,7 +46,7 @@ If, before the effective date of any subchapter of this chapter, any Federal age
 
 #### (f) Reviewability of orders and actions under transferred functions
 
-Orders and actions of the Secretary in the exercise of functions transferred under any subchapter of this chapter shall be subject to judicial review to the same extent and in the samemanner as if such orders and actions had been by the Federal agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by any subchapter of this chapter shall apply to the exercise of such function by the Secretary.
+Orders and actions of the Secretary in the exercise of functions transferred under any subchapter of this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Federal agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by any subchapter of this chapter shall apply to the exercise of such function by the Secretary.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XVI, §1615, Oct. 21, 1998, 112 Stat. 2681–800.)
 

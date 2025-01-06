@@ -10,7 +10,7 @@ It shall be the duty of any owner, agent, consignee, master, or commanding offic
 
 #### (c) Departure; submission of list; exceptions
 
-Before the departure of any vessel or aircraft from any port in the United States, it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof, to deliver to an immigration officer at that port (1) a list containing the names of all alien employees whowere not employed thereon at the time of the arrival at that port but who will leave such port thereon at the time of the departure of such vessel or aircraft and the names of those, if any, who have been paid off or discharged, and of those, if any, who have deserted or landed at that port, or (2) in the discretion of the Attorney General, such a list containing so much of such information, or such additional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
+Before the departure of any vessel or aircraft from any port in the United States, it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof, to deliver to an immigration officer at that port (1) a list containing the names of all alien employees who were not employed thereon at the time of the arrival at that port but who will leave such port thereon at the time of the departure of such vessel or aircraft and the names of those, if any, who have been paid off or discharged, and of those, if any, who have deserted or landed at that port, or (2) in the discretion of the Attorney General, such a list containing so much of such information, or such additional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
 
 #### (d) Violations
 
@@ -34,7 +34,7 @@ The Attorney General is authorized to prescribe by regulations the circumstances
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

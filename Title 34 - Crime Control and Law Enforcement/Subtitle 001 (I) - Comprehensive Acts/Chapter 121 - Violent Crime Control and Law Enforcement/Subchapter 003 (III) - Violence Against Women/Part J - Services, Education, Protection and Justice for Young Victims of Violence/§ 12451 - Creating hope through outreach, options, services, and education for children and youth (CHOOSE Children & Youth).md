@@ -28,7 +28,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, sex trafficking, or female genital mutilation or cutting;
 
-&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence,sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
+&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
 
 &emsp;&emsp;(C) provide confidential support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
 
@@ -74,7 +74,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;&emsp;&emsp;(VI) healthy relationship skills, in school, in the community, or in health care settings;
 
-&emsp;&emsp;&emsp;(ii) community-based collaboration and training for individuals with influence on youth, such as parents, teachers, coaches, healthcare providers, faith leaders, older teens, and mentors;
+&emsp;&emsp;&emsp;(ii) community-based collaboration and training for individuals with influence onyouth, such as parents, teachers, coaches, healthcare providers, faith leaders, older teens, and mentors;
 
 &emsp;&emsp;&emsp;(iii) education and outreach to change environmental factors contributing to domestic violence, dating violence, sexual assault, and stalking; and
 
@@ -156,7 +156,7 @@ A prior section 41201 of title IV of Pub. L. 103–322, as added Pub. L. 109–1
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b)(1). Pub. L. 117–103, §302(1)(A)(i), substituted "target youth, including youth in underserved populations, who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking" for "target youth who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking" in introductory provisions.
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–103, §302(1)(A)(i), substituted "target youth, including youth in underservedpopulations, who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking" for "target youth who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking" in introductory provisions.
 
 Subsec. (b)(1)(D), (E). Pub. L. 117–103, §302(1)(A)(ii)–(iv), added subpars. (D) and (E).
 

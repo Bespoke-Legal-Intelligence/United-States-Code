@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) "auction company" means a person taking possession of a motor vehicle owned by another to sell at an auction.
 
-&emsp;(2) "dealer" means a person that sold at least 5 motor vehicles during the prior 12months to buyers that in good faith bought the vehicles other than for resale.
+&emsp;(2) "dealer" means a person that sold at least 5 motor vehicles during the prior 12 months to buyers that in good faith bought the vehicles other than for resale.
 
 &emsp;(3) "distributor" means a person that sold at least 5 motor vehicles during the prior 12 months for resale.
 

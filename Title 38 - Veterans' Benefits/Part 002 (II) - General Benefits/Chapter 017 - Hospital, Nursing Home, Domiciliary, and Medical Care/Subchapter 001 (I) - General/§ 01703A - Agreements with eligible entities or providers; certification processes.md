@@ -2,7 +2,7 @@
 
 (a)
 
-Agreements Authorized.—(1)(A) When hospital care, a medical service, or an extended care service required by a covered individual who is entitled to such care or service under this chapter is not feasibly available to the covered individual from a facility of the Department or through a contract or sharing agreement entered into pursuant to another provision of law, the Secretary may furnish such care or service to such covered individual through an agreement under this section with an eligible entity or provider to provide such hospital care, medical service, or extended care service.
+Agreements Authorized.—(1)(A) When hospital care, a medical service, or an extended care service required by a covered individual who is entitled to such care or service under this chapter is not feasibly available to the coveredindividual from a facility of the Department or through a contract or sharing agreement entered into pursuant to another provision of law, the Secretary may furnish such care or service to such covered individual through an agreement under this section with an eligible entity or provider to provide such hospital care, medical service, or extended care service.
 
 (B) An agreement entered into under this section to provide hospital care, a medical service, or an extended care service shall be known as a "Veterans Care Agreement".
 
@@ -60,7 +60,7 @@ Terms of Veterans Care Agreements.—(1) Pursuant to regulations promulgated und
 
 &emsp;(A) to accept payment at the rates established in regulations prescribed under this section;
 
-&emsp;(B) that payment by the Secretary under this section on behalf of a covered individual to a provider of services or care shall, unless rejected and refunded by the provider within 30 days of receipt, constitute payment in full and extinguish any liability on the part of thecovered individual for the treatment or care provided, and no provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate this requirement;
+&emsp;(B) that payment by the Secretary under this section on behalf of a covered individual to a provider of services or care shall, unless rejected and refunded by the provider within 30 days of receipt, constitute payment in full and extinguish any liability on the part of the covered individual for the treatment or care provided, and no provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate this requirement;
 
 &emsp;(C) to provide only the care and services authorized by the Department under this section and to obtain the prior written consent of the Department to furnish care or services outside the scope of such authorization;
 

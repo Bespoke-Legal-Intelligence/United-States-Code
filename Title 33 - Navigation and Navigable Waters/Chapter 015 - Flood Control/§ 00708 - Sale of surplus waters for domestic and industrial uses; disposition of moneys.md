@@ -14,7 +14,7 @@ The Secretary of the Army is authorized to make contracts with States, municipal
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Repeals
 
@@ -32,5 +32,5 @@ Pub. L. 114–322, title I, §1174, Dec. 16, 2016, 130 Stat. 1673, provided that
 
 #### Transfer of Functions
 
-For transfer of certain personal property and functions relating thereto, insofar as they pertain to Air Force, from Secretary of the Army and Department ofthe Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order No. 39, eff. May 18, 1949, and 40 \[App. B (98)\], July 22, 1949.
+For transfer of certain personal property and functions relating thereto, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order No. 39, eff. May 18, 1949, and 40 \[App. B (98)\], July 22, 1949.
 

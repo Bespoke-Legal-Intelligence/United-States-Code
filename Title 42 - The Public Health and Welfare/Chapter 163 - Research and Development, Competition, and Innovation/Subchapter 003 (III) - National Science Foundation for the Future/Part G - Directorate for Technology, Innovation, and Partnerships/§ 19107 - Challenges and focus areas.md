@@ -84,7 +84,7 @@ At the conclusion of the annual review and update process required by subsection
 
 #### (g) Detailed description
 
-The National Science Foundation shall, in coordination with the Office of Management andBudget, submit as part of their annual budget requests to Congress, a detailed description of the activities to be funded under this part, including an explanation of how the requested funding is complementary and not redundant of programs, efforts, and infrastructure undertaken or supported by other relevant Federal agencies.
+The National Science Foundation shall, in coordination with the Office of Management and Budget, submit as part of their annual budget requests to Congress, a detailed description of the activities to be funded under this part, including an explanation of how the requested funding is complementary and not redundant of programs, efforts, and infrastructure undertaken or supported by other relevant Federal agencies.
 
 #### (h) National Academies
 

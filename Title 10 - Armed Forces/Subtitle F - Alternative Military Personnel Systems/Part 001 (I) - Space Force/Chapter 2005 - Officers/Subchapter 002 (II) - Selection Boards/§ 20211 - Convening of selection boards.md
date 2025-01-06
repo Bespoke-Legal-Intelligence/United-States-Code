@@ -6,7 +6,7 @@ In General.—Whenever the needs of the service require, the Secretary of the Ai
 
 (b)
 
-Exception for Officers in Grade of First Lieutenant.—Subsection (a) does not require the convening of a selection board in the case of Space Force officers in the permanent grade of first lieutenant when the Secretary of the Air Force recommends for promotion to the grade of captain under section 20238(a)(4)(A) <sup>1</sup> of this title all such officers whom the Secretary finds to be fully qualified for promotion.
+Exception for Officers in Grade of First Lieutenant.—Subsection (a) does not require the convening of a selection board in the case of Space Force officers in the permanent grade of first lieutenant when the Secretary of the Air Force recommends for promotion to the grade of captain under section 20239(c)(4)(A) of this title all such officers whom the Secretary finds to be fully qualified for promotion.
 
 (c)
 
@@ -16,13 +16,11 @@ Selection Boards for Early Retirement or Discharge.—The Secretary of the Air F
 
 Regulations.—The convening of selection boards under subsection (a) shall be under regulations prescribed by the Secretary of the Defense.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634; amended Pub. L. 118–159, div. A, title V, §521(n), Dec. 23, 2024, 138 Stat. 1882.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 20238(a) of this title, referred to in subsec. (b), does not contain a par. (4). However, section 20239(c) of this title relates to promotion of first lieutenants on an all-fully-qualified officers list and does contain a par. (4) defining such a list and containing subpars. (A) and (B).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2024</b>—Subsec. (b). Pub. L. 118–159 substituted "20239(c)(4)(A)" for "20238(a)(4)(A)".
 

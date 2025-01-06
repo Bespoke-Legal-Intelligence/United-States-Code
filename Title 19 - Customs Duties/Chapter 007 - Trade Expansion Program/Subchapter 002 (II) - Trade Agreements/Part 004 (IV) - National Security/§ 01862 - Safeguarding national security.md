@@ -126,7 +126,7 @@ Pub. L. 100–418, title I, §1501(d), Aug. 23, 1988, 102 Stat. 1259, provided t
 
 "(1) Except as otherwise provided under this subsection, the amendments made by this section \[amending this section and repealing section 1863 of this title\] shall apply with respect to investigations initiated under section 232(b) of the Trade Expansion Act of 1962 \[19 U.S.C. 1862(b)\] on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
-"(2) The provisions of subsection (c) of section 232 of the Trade Expansion Act of 1962, as amended by this section, shall apply with respect to any report submitted by the Secretary of Commerce to the President under section 232(b) of such Act after the date of enactment of this Act.
+"(2) The provisions of subsection (c) of section 232 of the Trade Expansion Act of 1962, as amended by this section, shall apply with respect to any report submitted by the Secretary of Commerce to the Presidentunder section 232(b) of such Act after the date of enactment of this Act.
 
 "(3) By no later than the date that is 90 days after the date of enactment of this Act, the President shall make the determinations described in section 232(c)(1)(A) of the Trade Expansion Act of 1962, as amended by this section, with respect to any report—
 
@@ -214,7 +214,7 @@ Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459, formerly set out as a note und
 
 #### Executive Order No. 12538
 
-Ex. Ord. No. 12538, Nov. 15, 1985, 50 F.R. 47527, which related to imports of refined petroleum products fromLibya, was revoked by Ex. Ord. No. 13357, Sept. 20, 2004, 69 F.R. 56665, listed in a table under section 1701 of Title 50, War and National Defense.
+Ex. Ord. No. 12538, Nov. 15, 1985, 50 F.R. 47527, which related to imports of refined petroleum products from Libya, was revoked by Ex. Ord. No. 13357, Sept. 20, 2004, 69 F.R. 56665, listed in a table under section 1701 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> So in original. There are two subsecs. designated (d). Second subsec. (d) probably should be designated (e).</i>
 

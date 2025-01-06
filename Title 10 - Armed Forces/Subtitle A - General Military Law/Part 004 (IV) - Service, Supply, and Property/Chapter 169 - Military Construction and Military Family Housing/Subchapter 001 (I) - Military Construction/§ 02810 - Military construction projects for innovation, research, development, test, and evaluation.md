@@ -28,11 +28,63 @@ Budget Justification Display.—The Secretary of Defense shall include with the 
 
 Application to Military Construction Projects.—This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
 
-(Added Pub. L. 117–263, div. B, title XXVIII, §2805(a), Dec. 23, 2022, 136 Stat. 2994.)
+(e)
+
+Annual Five-year Plans on Improvement of Innovation Infrastructure.—
+
+&emsp;(1)
+
+Submission.—Along with the budget for each fiscal year submitted by the President pursuant to section 1105(a) of title 31, each Secretary of a military department and the Secretary of Defense shall submit to the congressional defense committees a plan that describes the objectives of that Secretary to improve innovation infrastructure during the five fiscal years following the fiscal year for which such budget is submitted.
+
+&emsp;(2)
+
+Elements.—Each plan submitted by a Secretary of a military department under paragraph (1) shall include the following:
+
+&emsp;&emsp;(A) With respect to the five-year period covered by the plan, an identification of the major lines of effort, milestones, and investment goals of the Secretary over such period relating to the improvement of innovation infrastructure and a description of how such goals support such goals, including the use of—
+
+&emsp;&emsp;&emsp;(i) military construction, facilities restoration and modernization funds;
+
+&emsp;&emsp;&emsp;(ii) the defense lab modernization program under section 2805(d) of this title; and
+
+&emsp;&emsp;&emsp;(iii) military construction projects for innovation, research, development, test, and evaluation under this section.
+
+&emsp;&emsp;(B) The estimated costs of necessary innovation infrastructure improvements and a description of how such costs would be addressed by the Department of Defense budget request submitted during the same year as the plan and the applicable future-years defense program.
+
+&emsp;&emsp;(C) Information regarding the plan of the Secretary to initiate such environmental and engineering studies as may be necessary to carry out planned innovation infrastructure improvements.
+
+&emsp;&emsp;(D) Detailed information regarding how innovation infrastructure improvement projects will be paced and sequenced to ensure continuous operations.
+
+&emsp;(3)
+
+Incorporation of results-oriented management practices.—Each plan under subsection (a) shall incorporate the leading results-oriented management practices identified in the report of the Comptroller General of the United States titled "Actions Needed to Improve Poor Conditions of Facilities and Equipment that Affect Maintenance Timeliness and Efficiency" (GAO–19–242), or any successor report, including—
+
+&emsp;&emsp;(A) analytically based goals;
+
+&emsp;&emsp;(B) results-oriented metrics;
+
+&emsp;&emsp;(C) the identification of required resources, risks, and stakeholders; and
+
+&emsp;&emsp;(D) regular reporting on progress to decision makers.
+
+&emsp;(4)
+
+Innovative infrastructure defined.—In this subsection, the term "innovation infrastructure" includes laboratories, test and evaluation ranges, and any other infrastructure whose primary purpose is research, development, test, and evaluation.
+
+(Added Pub. L. 117–263, div. B, title XXVIII, §2805(a), Dec. 23, 2022, 136 Stat. 2994; amended Pub. L. 118–159, div. B, title XXVIII, §2806(a), Dec. 23, 2024, 138 Stat. 2249.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 2810, added Pub. L. 99–499, title II, §211(b)(1), Oct. 17, 1986, 100 Stat. 1725, related to military construction projects for environmental response actions, prior to repeal by Pub. L. 107–314, div. A, title III, §313(b), Dec. 2, 2002, 116 Stat. 2507.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (e). Pub. L. 118–159 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Deadline
+
+Pub. L. 118–159, div. B, title XXVIII, §2806(b), Dec. 23, 2024, 138 Stat. 2250, provided that: "The first plan required under subsection (e) of such section \[meaning 10 U.S.C. 2810\] (as amended by subsection (a)) shall be submitted as part of the annual budget submission of the President to Congress pursuant to section 1105(a) of title 31, United States Code, for fiscal year 2027."
 

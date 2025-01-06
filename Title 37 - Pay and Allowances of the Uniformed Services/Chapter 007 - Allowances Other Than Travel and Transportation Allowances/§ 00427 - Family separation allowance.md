@@ -36,7 +36,7 @@ Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to anothe
 
 (3) Section 421 of this title does not apply to bar the entitlement to an allowance under this section. Except as provided in paragraph (2), not more than one monthly allowance may be paid with respect to a married couple under this section.
 
-(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 7, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, §1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, §623(b), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 110–417, \[div. A\], title VI, §604(a), Oct. 14, 2008, 122 Stat. 4483; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–283, div. A, title VI, §615, Jan. 1, 2021, 134 Stat. 3675; ; Pub. L. 117–263, div. A, title VI, §626(h)(4), Dec. 23, 2022, 136 Stat. 2629; Pub. L. 118–31, div. A, title VI, §626(a), Dec. 22, 2023, 137 Stat. 294.)
+(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 7, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, §1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, §623(b), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 110–417, \[div. A\], title VI, §604(a), Oct. 14, 2008, 122 Stat. 4483; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–283, div. A, title VI, §615, Jan. 1, 2021, 134 Stat. 3675; ; Pub. L. 117–263, div. A, title VI, §626(h)(4), Dec. 23, 2022, 136 Stat.2629; Pub. L. 118–31, div. A, title VI, §626(a), Dec. 22, 2023, 137 Stat. 294.)
 
 #### <b>Editorial Notes</b>
 
@@ -124,7 +124,7 @@ Pub. L. 91–529 inserted provisions authorizing payment of an allowance under t
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 2008 Amendment
 
@@ -184,7 +184,7 @@ Pub. L. 102–25, title III, §302, Apr. 6, 1991, 105 Stat. 80, provided that:
 
 "(a)
 
-Increased Rate.—In lieu of the family separation allowance specified in section 427(b)(1) of title 37,United States Code, the family separation allowance payable under that section shall be $75 for each month during the period described in subsection (b).
+Increased Rate.—In lieu of the family separation allowance specified in section 427(b)(1) of title 37, United States Code, the family separation allowance payable under that section shall be $75 for each month during the period described in subsection (b).
 
 "(b)
 

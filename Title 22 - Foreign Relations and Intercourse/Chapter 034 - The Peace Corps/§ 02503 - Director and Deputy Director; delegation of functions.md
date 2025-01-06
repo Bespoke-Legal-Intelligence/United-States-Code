@@ -20,7 +20,7 @@ The President may exercise any functions vested in him by this chapter through t
 
 #### (d) Prohibition on performance of services more usefully performed by other agencies
 
-Except with the approval of the Secretary of State, the Peace Corps shall not be assigned toperform services which could more usefully be performed by other available agencies of the United States Government in the country concerned.
+Except with the approval of the Secretary of State, the Peace Corps shall not be assigned to perform services which could more usefully be performed by other available agencies of the United States Government in the country concerned.
 
 (Pub. L. 87–293, title I, §4, Sept. 22, 1961, 75 Stat. 612; Pub. L. 88–426, title III, §305(27), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–352, §2, July 24, 1970, 84 Stat. 464; Pub. L. 97–113, title VI, §601(d)(1), Dec. 29, 1981, 95 Stat. 1541.)
 
@@ -88,5 +88,5 @@ Transfer to President of the United States of functions conferred upon Director 
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 

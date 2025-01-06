@@ -10,7 +10,7 @@ Upon the filing of an application for registration and payment of the prescribed
 
 (2) After notification under paragraph (1), the applicant shall have a period of 6 months in which to reply or amend the application, or such shorter time that is not less than 60 days, as prescribed by the Director by regulation. If the applicant fails to reply or amend or appeal within the relevant time period, including any extension under paragraph (3), the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the application may be revived and such time may be extended. The Director may prescribe a fee to accompany any request to revive.
 
-(3) The Director shall provide, by regulation, for extensions of time to respond to the examiner for any time period under paragraph (2) that is less than 6 months. The Director shall allow the applicant to obtain extensions of timeto reply or amend aggregating 6 months from the date of notification under paragraph (1) when the applicant so requests. However, the Director may set by regulation the time for individual periods of extension, and prescribe a fee, by regulation, for any extension request. Any request for extension shall be filed on or before the date on which a reply or amendment is due under paragraph (1).
+(3) The Director shall provide, by regulation, for extensions of time to respond to the examiner for any time period under paragraph (2) that is less than 6 months. The Director shall allow the applicant to obtain extensions of time to reply or amend aggregating 6 months from the date of notification under paragraph (1) when the applicant so requests. However, the Director may set by regulation the time for individual periods of extension, and prescribe a fee, by regulation, for any extension request. Any request for extension shall be filed on or before the date on which a reply or amendment is due under paragraph (1).
 
 #### (c) Republication of marks registered under prior acts
 
@@ -36,7 +36,7 @@ Acts Feb. 20, 1905, ch. 592, §6, 33 Stat. 726; Mar. 2, 1907, ch. 2573, §2, 34 
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–330 substituted "unintentional" for "unavoidable" in last sentence.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667 substituted "prescribed fee" for "fee herein provided", and "entitled to registration, or would be entitled to registration upon the acceptance of the statement of use required by section 1051(d) of this title, the" for "entitled to registration, the".
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 substituted "prescribed fee" for "fee herein provided", and "entitled toregistration, or would be entitled to registration upon the acceptance of the statement of use required by section 1051(d) of this title, the" for "entitled to registration, the".
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 

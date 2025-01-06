@@ -14,7 +14,7 @@ As used in this chapter:
 
 &emsp;(6) The term "Outer Continental Shelf" has the same meaning as such term has under section 1331 of title 43.
 
-&emsp;(7) The term "international energy program" means the Agreement on an International Energy Program, signed by the United States on November 18, 1974, including (A) the annex entitled "Emergency Reserves", (B) any amendment to such Agreement whichincludes another nation as a party to such Agreement, and (C) any technical or clerical amendment to such Agreement.
+&emsp;(7) The term "international energy program" means the Agreement on an International Energy Program, signed by the United States on November 18, 1974, including (A) the annex entitled "Emergency Reserves", (B) any amendment to such Agreement which includes another nation as a party to such Agreement, and (C) any technical or clerical amendment to such Agreement.
 
 &emsp;(8) The term "severe energy supply interruption" means a national energy supply shortage which the President determines—
 

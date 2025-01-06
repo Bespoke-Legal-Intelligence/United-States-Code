@@ -26,7 +26,7 @@ Congress finds as follows:
 
 &emsp;(1) The publicly owned Piedras Blancas Light Station has nationally recognized historical structures that should be preserved for present and future generations.
 
-&emsp;(2) The coastline adjacent to the Light Station is internationally recognized as having significant wildlife and marine habitat that provides critical information to research institutions throughout the world.
+&emsp;(2) The coastline adjacent to the Light Station is internationally recognized as havingsignificant wildlife and marine habitat that provides critical information to research institutions throughout the world.
 
 &emsp;(3) The Light Station tells an important story about California's coastal prehistory and history in the context of the surrounding region and communities.
 
@@ -144,7 +144,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, seeShort Title note set out under section 470aa of Title 16 and Tables.
 
 The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 

@@ -10,7 +10,7 @@ The Corporation shall provide, directly or through grants or contracts, for the 
 
 #### (b) Comparisons
 
-The Corporation shall provide for inclusion in the evaluations required under subsection (a), where appropriate, comparisons of participants in such programs with individuals who have not participated in such programs.
+The Corporation shall provide for inclusion in the evaluations required under subsection (a),where appropriate, comparisons of participants in such programs with individuals who have not participated in such programs.
 
 #### (c) Conducting evaluations
 
@@ -88,7 +88,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (ii) Characteristics
 
-&emsp;&emsp;&emsp;The entity shall determine, for the year covered by the evaluation, the total number of participants in the programs, and the number of participants within the programs in each State, by sex, age, economic background, education level, ethnic group, disability classification, and geographic region.
+&emsp;&emsp;&emsp;The entity shall determine, for the year covered by the evaluation, the total number of participants in the programs, and the number of participants within the programs in each State, by sex, age, economic background, education level, ethnic group,disability classification, and geographic region.
 
 #### (iii) Categories
 

@@ -62,5 +62,5 @@ The General Schedule, referred to in subsec. (b)(2)(B)(ii), is set out under sec
 
 #### Definitions
 
-For definitions of "Secretary", "Department", and "appropriate congressional committees" as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
+For definitions of "Secretary", "Department", and "appropriate congressional committees" as used in thissection, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
 

@@ -1,6 +1,6 @@
 ### §3382. Involuntary separation for retirement
 
-An air traffic controller who is eligible for immediate retirement under section 8336 of this title may be separated involuntarily from the service if the Secretary determines that the separation of the controller is necessary in the interest of—
+An air traffic controller who is eligible for immediate retirement under section 8336 of thistitle may be separated involuntarily from the service if the Secretary determines that the separation of the controller is necessary in the interest of—
 
 &emsp;(1) aviation safety;
 

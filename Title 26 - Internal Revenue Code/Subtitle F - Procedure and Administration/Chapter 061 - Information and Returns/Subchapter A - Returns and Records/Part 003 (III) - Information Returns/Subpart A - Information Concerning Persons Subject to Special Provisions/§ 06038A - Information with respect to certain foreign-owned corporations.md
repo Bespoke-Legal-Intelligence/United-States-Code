@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (1) Agreement to treat corporation as agent
 
-&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
+&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purposeother than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
 
 #### (2) Rules where information not furnished
 
@@ -200,7 +200,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1245(b)(4), amended par. (2) generally. Prio
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to base erosion payments (as defined in section 59A(d) of this title)paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under section 26 of this title.
+Amendment by Pub. L. 115–97 applicable to base erosion payments (as defined in section 59A(d) of this title) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendment
 

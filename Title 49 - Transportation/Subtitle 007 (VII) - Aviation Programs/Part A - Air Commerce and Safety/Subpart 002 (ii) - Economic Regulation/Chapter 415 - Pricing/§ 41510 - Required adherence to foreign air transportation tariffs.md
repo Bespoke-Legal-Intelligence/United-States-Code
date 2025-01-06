@@ -14,7 +14,7 @@ Prohibited Actions by Air Carriers, Foreign Air Carriers, and Ticket Agents.—A
 
 Prohibited Actions by Any Person.—A person may not knowingly—
 
-&emsp;(1) pay compensation for foreign air transportation of property that is different from the price specified in the tariff in effect for that transportation; or
+&emsp;(1) pay compensation for foreign air transportation of property that is different fromthe price specified in the tariff in effect for that transportation; or
 
 &emsp;(2) solicit, accept, or receive—
 

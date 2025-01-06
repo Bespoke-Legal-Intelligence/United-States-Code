@@ -190,7 +190,7 @@ Solicitation of Proposals.—
 
 &emsp;"(1)
 
-In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall issue a request for proposals for projects for the financing, design, construction, operation, and maintenance of a high-speed intercity passenger rail system operating within a high-speed rail corridor, including—
+In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall issue a request forproposals for projects for the financing, design, construction, operation, and maintenance of a high-speed intercity passenger rail system operating within a high-speed rail corridor, including—
 
 &emsp;&emsp;"(A) the Northeast Corridor;
 

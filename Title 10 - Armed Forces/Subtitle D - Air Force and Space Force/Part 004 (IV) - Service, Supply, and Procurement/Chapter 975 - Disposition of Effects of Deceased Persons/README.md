@@ -4,7 +4,7 @@
 | :--- | ---: |
 | \[9711. | Repealed.\] |
 | [9712\.](%C2%A7%2009712%20-%20Disposition%20of%20effects%20of%20deceased%20persons%20by%20summary%20court-martial.md) | Disposition of effects of deceased persons by summary court-martial. |
-| \[9713. | Repealed.\] |
+| \[9713. | Repealed.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -62,5 +62,5 @@ Act June 30, 1950, ch. 445, §4, 64 Stat. 319, provided that: "This Act \[see Ta
 
 #### Separability
 
-Act June 19, 1951, ch. 144, title I, §5, 65 Stat. 88, provided that: "If any provisions of this Act \[see Tables for classification\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
+Act June 19, 1951, ch. 144, title I, §5, 65 Stat. 88, provided that: "If any provisions of this Act \[see Tables forclassification\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
 

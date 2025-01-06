@@ -14,7 +14,7 @@ No provision of this subchapter shall be exercised or interpreted to require act
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see section 4501 of this title and Tables.
 
 #### Codification
 

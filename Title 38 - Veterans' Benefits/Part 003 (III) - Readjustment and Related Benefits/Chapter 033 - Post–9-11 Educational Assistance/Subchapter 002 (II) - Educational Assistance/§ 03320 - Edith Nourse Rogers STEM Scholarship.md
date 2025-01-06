@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the limitation under subsection (f), the Secretary shall provideadditional benefits to eligible individuals selected by the Secretary under this section. Such benefits shall be known as the "Edith Nourse Rogers STEM Scholarship".
+In General.—Subject to the limitation under subsection (f), the Secretary shall provide additional benefits to eligible individuals selected by the Secretary under this section. Such benefits shall be known as the "Edith Nourse Rogers STEM Scholarship".
 
 (b)
 
@@ -62,7 +62,7 @@ Priority.—(1) If the Secretary determines that there are insufficient funds av
 
 &emsp;(C) Individuals who are enrolled in a dual-degree program leading to both an undergraduate and graduate degree in a field referred to in subsection (b)(4)(A)(i).
 
-&emsp;(D) Individuals who have earned an undergraduate degree and are enrolled in a covered clinical training program for health care professionals.
+&emsp;(D) Individuals who have earned an undergraduate degree and are enrolled in a coveredclinical training program for health care professionals.
 
 &emsp;(E) Individuals who have earned a graduate degree and are enrolled in a covered clinical training program for health care professionals.
 

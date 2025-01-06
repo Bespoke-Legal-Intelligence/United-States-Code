@@ -18,7 +18,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Monthly transfers
 
-&emsp;The amounts transferred by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the AsbestosTrust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such paragraph. Adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were more or less than the amounts required to be transferred.
+&emsp;The amounts transferred by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Asbestos Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such paragraph. Adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were more or less than the amounts required to be transferred.
 
 #### (c) Management of Trust Fund
 
@@ -26,7 +26,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Asbestos Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States and may be acquired—
+&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Asbestos Trust Fund asis not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States and may be acquired—
 
 &emsp;&emsp;&emsp;(i) on original issue at the issue price, or
 

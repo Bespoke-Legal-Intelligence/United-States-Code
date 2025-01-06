@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishment of a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
 
-&emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategies for the long-term protection of the source water of community water systems.
+&emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategiesfor the long-term protection of the source water of community water systems.
 
 #### (B) Funding
 
@@ -80,7 +80,7 @@
 
 &emsp;The State may approve a petition if the petition meets the requirements established under subsection (a). The notice of approval shall, at a minimum, include for informational purposes—
 
-&emsp;&emsp;(A) an identification of technical, financial, or other assistance that the State will provide to assist in addressing the drinking water contaminants that may be addressed by a petition based on—
+&emsp;&emsp;(A) an identification of technical, financial, or other assistance that the State willprovide to assist in addressing the drinking water contaminants that may be addressed by a petition based on—
 
 &emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petition with respect to the other water quality needs identified by the State;
 
@@ -122,7 +122,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator may make a grant to each State that establishes a program under this section that is approved under paragraph\(2). The amount of each grant shall not exceed 50 percent of the cost of administering the program for the year in which the grant is available.
+&emsp;The Administrator may make a grant to each State that establishes a program under this section that is approved under paragraph (2). The amount of each grant shall not exceed 50 percent of the cost of administering the program for the year in which the grant is available.
 
 #### (2) Approval
 
@@ -164,7 +164,7 @@ Nothing in this section—
 
 &emsp;(2) precludes a community water system, municipal or local government, or political subdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
 
-(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675; amended Pub. L. 115–270, title II, §2016, Oct. 23, 2018, 132 Stat. 3856; Pub. L. 117–58, div. E, title I, §50103, Nov. 15, 2021, 135 Stat. 1137.)
+(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110Stat. 1675; amended Pub. L. 115–270, title II, §2016, Oct. 23, 2018, 132 Stat. 3856; Pub. L. 117–58, div. E, title I, §50103, Nov. 15, 2021, 135 Stat. 1137.)
 
 #### <b>Editorial Notes</b>
 

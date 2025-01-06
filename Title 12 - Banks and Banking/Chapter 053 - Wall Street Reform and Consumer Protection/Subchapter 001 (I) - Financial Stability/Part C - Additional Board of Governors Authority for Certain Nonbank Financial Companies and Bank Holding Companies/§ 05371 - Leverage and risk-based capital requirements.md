@@ -16,7 +16,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "generally applicable risk-based capital requirements" means—
 
-&emsp;&emsp;(A) the risk-based capital requirements, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
+&emsp;&emsp;(A) the risk-based capital requirements, as established by the appropriate Federal banking agencies to apply to insured depositoryinstitutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
 
 &emsp;&emsp;(B) includes the regulatory capital components in the numerator of those capital requirements, the risk-weighted assets in the denominator of those capital requirements, and the required ratio of the numerator to the denominator.
 
@@ -128,7 +128,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
+&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of thissection (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
 
 #### (2) Rule of construction on Board's authority
 
@@ -152,7 +152,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, whichis classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -270,7 +270,7 @@ Changes Required to Small Bank Holding Company Policy Statement on Assessment of
 
 Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the revision under subsection (b) if the Board determines that such action is warranted for supervisory purposes."
 
-\[For definition of "bank holding company" as used in section 207(a)–(c) of Pub. L. 115–174, set out above, seesection 2 of Pub. L. 115–174, set out as a note under section 5365 of this title.\]
+\[For definition of "bank holding company" as used in section 207(a)–(c) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a note under section 5365 of this title.\]
 
 #### Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
 

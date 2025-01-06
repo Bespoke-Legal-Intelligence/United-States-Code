@@ -14,7 +14,7 @@ The Administrator of the United States Agency for International Development, uti
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to improve global health by requiring the United States to participate in negotiations for advance market commitments for the development of future vaccines, including potential vaccines for HIV/AIDS, tuberculosis, and malaria.
+&emsp;The purpose of this subsection is to improve global health by requiring the United Statesto participate in negotiations for advance market commitments for the development of future vaccines, including potential vaccines for HIV/AIDS, tuberculosis, and malaria.
 
 #### (2) Negotiation requirement
 

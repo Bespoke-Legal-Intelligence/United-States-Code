@@ -1491,6 +1491,18 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–168, §1, Dec. 23, 2024, 138 Stat. 2586, provided that: "This Act \[amending sections 4980H, 6055, 6056, and 6501 of this title and enacting provisions set out as notes under sections 4980H, 6055, and 6501 of this title\] may be cited as the 'Employer Reporting Improvement Act'."
+
+Pub. L. 118–167, §1, Dec. 23, 2024, 138 Stat. 2584, provided that: "This Act \[amending sections 6055 and 6056 of this title and enacting provisions set out as a note under section 6055 of this title\] may be cited as the 'Paperwork Burden Reduction Act'."
+
+Pub. L. 118–146, §1, Dec. 12, 2024, 138 Stat. 1673, provided that: "This Act \[amending section 170 of this title and enacting provisions set out as a note under section 170 of this title\] may be cited as the 'VSO Equal Tax Treatment Act' or as the 'VETT Act'."
+
+Pub. L. 118–60, §1, May 10, 2024, 138 Stat. 1018, provided that: "This Act \[amending section 9502 of this title\] may be cited as the 'Airport and Airway Extension Act of 2024, Part II'."
+
+Pub. L. 118–41, §1, Mar. 8, 2024, 138 Stat. 20, provided that: "This Act \[amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, section 124n of Title 6, Domestic Security, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and section 50905 of Title 51, National and Commercial Space Programs, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2024'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 118–34, §1(a), Dec. 26, 2023, 137 Stat. 1112, provided that: "This Act \[amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and section 50905 of Title 51, National and Commercial Space Programs, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2023, Part II'."
@@ -1533,7 +1545,7 @@ Pub. L. 114–239, §1, Oct. 7, 2016, 130 Stat. 973, provided that: "This Act \[
 
 Pub. L. 114–184, §1, June 30, 2016, 130 Stat. 536, provided that: "This Act \[amending sections 6103 and 7213 of this title and enacting provisions set out as a note under section 6103 of this title\] may be cited as the 'Recovering Missing Children Act'."
 
-Pub. L. 114–141, §1(a), Mar. 30, 2016, 130 Stat. 322, provided that: "This Act \[amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2016'."
+Pub. L. 114–141, §1(a), Mar. 30, 2016, 130 Stat. 322, provided that: "This Act \[amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title49\] may be cited as the 'Airport and Airway Extension Act of 2016'."
 
 #### Short Title of 2015 Amendment
 
@@ -1589,7 +1601,7 @@ Pub. L. 112–27, §1, Aug. 5, 2011, 125 Stat. 270, provided that: "This Act \[a
 
 Pub. L. 112–21, §1, June 29, 2011, 125 Stat. 233, provided that: "This Act \[amending sections 4081, 4261, 4271 and 9502 of this title and sections 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2011, Part III'."
 
-Pub. L. 112–16, §1, May 31, 2011, 125 Stat. 218, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2011, Part II'."
+Pub. L. 112–16, §1, May 31, 2011, 125 Stat. 218, provided that: "This Act \[amending sections 4081, 4261, 4271, and9502 of this title and sections 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2011, Part II'."
 
 Pub. L. 112–9, §1, Apr. 14, 2011, 125 Stat. 36, provided that: "This Act \[amending sections 36B and 6041 of this title and enacting provisions set out as notes under sections 36B and 6041 of this title\] may be cited as the 'Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpayments Act of 2011'."
 
@@ -1599,7 +1611,7 @@ Pub. L. 112–7, §1, Mar. 31, 2011, 125 Stat. 31, provided that: "This Act \[am
 
 Pub. L. 111–329, §1, Dec. 22, 2010, 124 Stat. 3566, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part IV'."
 
-Pub. L. 111–325, §1(a), Dec. 22, 2010, 124 Stat. 3537, provided that: "This Act \[amending sections 267, 302, 316,562, 851, 852, 853, 853A, 854, 855, 860, 871, 1212, and 4982 of this title, repealing section 6697 of this title, and enacting provisions set out as notes under sections 267, 316, 562, 851, 852, 854, 855, 860, 1212, and 4982 of this title\] may be cited as the 'Regulated Investment Company Modernization Act of 2010'."
+Pub. L. 111–325, §1(a), Dec. 22, 2010, 124 Stat. 3537, provided that: "This Act \[amending sections 267, 302, 316, 562, 851, 852, 853, 853A, 854, 855, 860, 871, 1212, and 4982 of this title, repealing section 6697 of this title, and enacting provisions set out as notes under sections 267, 316, 562, 851, 852, 854, 855, 860, 1212, and 4982 of this title\] may be cited as the 'Regulated Investment Company Modernization Act of 2010'."
 
 Pub. L. 111–312, §1(a), Dec. 17, 2010, 124 Stat. 3296, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010'."
 
@@ -1673,7 +1685,7 @@ Pub. L. 110–234, title XV, §15001(a), May 22, 2008, 122 Stat. 1484, and Pub. 
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
-Pub. L. 110–190, §1, Feb. 28, 2008, 122 Stat. 643, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 47104 and 48103 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 41731 of Title 49, and amending provisions set out as notes under sections 41731 and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2008'."
+Pub. L. 110–190, §1, Feb. 28, 2008, 122 Stat. 643, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 47104 and 48103 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section41731 of Title 49, and amending provisions set out as notes under sections 41731 and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2008'."
 
 Pub. L. 110–185, §1(a), Feb. 13, 2008, 122 Stat. 613, provided that: "This Act \[amending this section, sections 168, 179, 1400L, 1400N, 6211, 6213, and 6428 of this title, and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 168, 179, and 6428 of this title\] may be cited as the 'Economic Stimulus Act of 2008'."
 
@@ -1685,7 +1697,7 @@ Pub. L. 110–166, §1, Dec. 26, 2007, 121 Stat. 2461, provided that: "This Act 
 
 Pub. L. 110–142, §1, Dec. 20, 2007, 121 Stat. 1803, provided that: "This Act \[enacting sections 139B and 6699 of this title, amending sections 42, 108, 121, 163, 216, 6103, and 6698 of this title, and enacting provisions set out as notes under sections 42, 108, 121, 139B, 163, 216, 6103, 6655, 6698, and 6699 of this title\] may be cited as the 'Mortgage Forgiveness Debt Relief Act of 2007'."
 
-Pub. L. 110–28, title VIII, §8201(a), May 25, 2007, 121 Stat. 190, provided that: "This subtitle \[subtitle B (§§8201–8248) of title VIII of Pub. L. 110–28, enacting section 6676 of this title, amending this section, sections38, 45B, 51, 179, 641, 761, 1361, 1362, 1368, 1400N, 1402, 6060, 6103, 6107, 6l09, 6330, 6404, 6503, 6657, 6694 to 6696, 7407, 7427, 7528, and 7701 of this title, and section 411 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 38, 45B, 51, 179, 641, 761, 1361, 1362, 6060, 6330, 6404, 6657, and 6676 of this title, and amending provisions set out as a note under section 6655 of this title\] may be cited as the 'Small Business and Work Opportunity Tax Act of 2007'."
+Pub. L. 110–28, title VIII, §8201(a), May 25, 2007, 121 Stat. 190, provided that: "This subtitle \[subtitle B (§§8201–8248) of title VIII of Pub. L. 110–28, enacting section 6676 of this title, amending this section, sections 38, 45B, 51, 179, 641, 761, 1361, 1362, 1368, 1400N, 1402, 6060, 6103, 6107, 6l09, 6330, 6404, 6503, 6657, 6694 to 6696, 7407, 7427, 7528, and 7701 of this title, and section 411 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 38, 45B, 51, 179, 641, 761, 1361, 1362, 6060, 6330, 6404, 6657, and 6676 of this title, and amending provisions set out as a note under section 6655 of this title\] may be cited as the 'Small Business and Work Opportunity Tax Act of 2007'."
 
 #### Short Title of 2006 Amendment
 
@@ -1729,7 +1741,7 @@ Pub. L. 107–181, §1, May 20, 2002, 116 Stat. 583, provided that: "This Act \[
 
 Pub. L. 107–147, §1(a), Mar. 9, 2002, 116 Stat. 21, provided that: "This Act \[see Tables for classification\] may be cited as the 'Job Creation and Worker Assistance Act of 2002'."
 
-Pub. L. 107–134, §1(a), Jan. 23, 2002, 115 Stat. 2427, provided that: This Act \[enacting sections 139 and 5891 of this title and section 1148 of Title 29, Labor, amending sections 5, 101, 104, 140, 642, 692, 2011, 2053, 2201, 6013, 6081, 6103, 6105, 6161, 6404, 7213, 7508, and 7508A of this title and section 1302 of Title 29, enacting provisions set out as notes under sections 101, 108, 139, 501, 642, 692, 2011, 5891, 6081, and 6103 of this title, section 401 of Title 42, The Public Health and Welfare, and section 40101 of Title 49, Transportation, and amending provisions set out as a note under section 40101 of Title 49\] may be cited as the 'Victims of Terrorism Tax Relief Act of 2001'."
+Pub. L. 107–134, §1(a), Jan. 23, 2002, 115 Stat. 2427, provided that: This Act \[enacting sections 139 and 5891 of this title and section 1148 of Title 29, Labor, amending sections 5, 101, 104, 140, 642, 692, 2011, 2053, 2201, 6013, 6081, 6103, 6105, 6161, 6404, 7213, 7508, and 7508A of this title and section 1302 of Title 29, enacting provisions set out as notes under sections 101, 108, 139, 501, 642, 692, 2011, 5891, 6081, and 6103 of this title, section 401 of Title 42, The Public Health and Welfare, and section 40101 of Title 49, Transportation, and amending provisions set out as a note under section 40101 of Title 49\] may becited as the 'Victims of Terrorism Tax Relief Act of 2001'."
 
 #### Short Title of 2001 Amendment
 
@@ -1745,7 +1757,7 @@ Pub. L. 106–554, §1(a)(7) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–
 
 Pub. L. 106–519, §1(a), Nov. 15, 2000, 114 Stat. 2423, provided that: "This Act \[enacting sections 114 and 941 to 943 of this title, amending sections 56, 275, 864, 903 and 999 of this title, and repealing sections 921 to 927 of this title\] may be cited as the 'FSC Repeal and Extraterritorial Income Exclusion Act of 2000'."
 
-Pub. L. 106–476, title IV, §4001, Nov. 9, 2000, 114 Stat. 2176, provided that: "This title \[enacting sections 1681 to 1681b of Title 19, Customs Duties, amending sections5704, 5754, and 5761 of this title, and enacting provisions set out as notes under sections 5704 and 5761 of this title and section 1681 of Title 19\] may be cited as the 'Imported Cigarette Compliance Act of 2000'."
+Pub. L. 106–476, title IV, §4001, Nov. 9, 2000, 114 Stat. 2176, provided that: "This title \[enacting sections 1681 to 1681b of Title 19, Customs Duties, amending sections 5704, 5754, and 5761 of this title, and enacting provisions set out as notes under sections 5704 and 5761 of this title and section 1681 of Title 19\] may be cited as the 'Imported Cigarette Compliance Act of 2000'."
 
 #### Short Title of 1999 Amendment
 
@@ -1791,7 +1803,7 @@ Pub. L. 103–152, §1, Nov. 24, 1993, 107 Stat. 1516, provided that: "This Act 
 
 Pub. L. 103–66, title XIII, §13001(a), Aug. 10, 1993, 107 Stat. 416, provided that: "This chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\] may be cited as the 'Revenue Reconciliation Act of 1993'."
 
-Pub. L. 103–6, §1, Mar. 4, 1993, 107 Stat. 33, provided that: "This Act \[enacting provisions set out as notes under section 3304 of this title, section 31 of Title 2, The Congress, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of this title and section 352 of Title 45\] may be cited as the 'Emergency Unemployment Compensation Amendments of 1993'."
+Pub. L. 103–6, §1, Mar. 4, 1993, 107 Stat. 33, provided that: "This Act \[enacting provisions set out as notes under section 3304 of this title, section 31 of Title 2, The Congress, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304of this title and section 352 of Title 45\] may be cited as the 'Emergency Unemployment Compensation Amendments of 1993'."
 
 #### Short Title of 1992 Amendment
 
@@ -1801,7 +1813,7 @@ Pub. L. 102–318, §1, July 3, 1992, 106 Stat. 290, provided that: "This Act \[
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–240, title VIII, §8001(a), Dec. 18, 1991, 105 Stat. 2203, provided that: "This title \[enacting section9511 of this title, amending sections 4041, 4051, 4071, 4081, 4091, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, 9503, and 9504 of this title and section 460l–11 of Title 16, Conservation, and enacting provisions set out as notes under section 9503 of this title, section 101 of Title 23, Highways, and section 1601 of former Title 49, Transportation\] may be cited as the 'Surface Transportation Revenue Act of 1991'."
+Pub. L. 102–240, title VIII, §8001(a), Dec. 18, 1991, 105 Stat. 2203, provided that: "This title \[enacting section 9511 of this title, amending sections 4041, 4051, 4071, 4081, 4091, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, 9503, and 9504 of this title and section 460l–11 of Title 16, Conservation, and enacting provisions set out as notes under section 9503 of this title, section 101 of Title 23, Highways, and section 1601 of former Title 49, Transportation\] may be cited as the 'Surface Transportation Revenue Act of 1991'."
 
 Pub. L. 102–227, §1(a), Dec. 11, 1991, 105 Stat. 1686, provided that: "This Act \[amending sections 25, 28, 41, 42, 48, 51, 57, 120, 127, 143, 144, 162, 864, and 6655 of this title and enacting provisions set out as notes under sections 25, 28, 42, 51, 120, 127, 143, 144, 162, 864, and 6655 of this title\] may be cited as the 'Tax Extension Act of 1991'."
 
@@ -1847,7 +1859,7 @@ Pub. L. 98–369, div. A (§§5–1082), §5(a), July 18, 1984, 98 Stat. 494, pr
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–135, §1, Oct. 24, 1983, 97 Stat. 857, provided that: "This Act \[amending section 3306 of this title and sections 1323 and 1397b of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3304 and 3306 of this title and section 1323 of Title 42, and amending provisions set out as notes under section 3304 of this title\] may be cited as the 'Federal Supplemental Compensation Amendments of 1983'."
+Pub. L. 98–135, §1, Oct. 24, 1983, 97 Stat. 857, provided that: "This Act \[amending section 3306 of this title and sections 1323 and 1397b of Title 42, The Public Health and Welfare, enacting provisions set out as notes undersections 3304 and 3306 of this title and section 1323 of Title 42, and amending provisions set out as notes under section 3304 of this title\] may be cited as the 'Federal Supplemental Compensation Amendments of 1983'."
 
 Pub. L. 98–76, title II, §201, Aug. 12, 1983, 97 Stat. 419, provided that: "This title \[enacting sections 3321 to 3323 and 6050G of this title, amending sections 72, 86, 105, 3201, 3202, 3211, 3221, 3231, 6157, 6201, 6317, 6513, and 6601 of this title and section 430 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 72, 105, 3201, 3321, and 6302 of this title and section 231n of Title 45, Railroads\] may be cited as the 'Railroad Retirement Revenue Act of 1983'."
 
@@ -1903,7 +1915,7 @@ Pub. L. 96–39, title VIII, §801(a), July 26, 1979, 93 Stat. 273, provided tha
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–618, §1(a), Nov. 9, 1978, 92 Stat. 3174, provided that: "This Act \[enacting sections 44C, 124, and 4064 of this title, amending sections 39, 46 to 48, 56, 57, 167, 263, 465, 613, 613A, 614, 751, 1016, 1254, 4041, 4063, 4081, 4092, 4093, 4217, 4221, 4222, 4293, 4483, 6096, 6401, 6412, 6416, 6421, 6424, 6427, 6504, and 6675 of this title, redesignatingsection 124 of this title as section 125, enacting provisions set out as notes under sections 39, 44C, 48, 124, 167, 263, 613, 613A, 4041, 4063, 4064, 4081, 4093, and 4221 of this title, and amending provisions set out as notes under section 57 of this title and section 120 of Title 23, Highways\] may be cited as the 'Energy Tax Act of 1978'."
+Pub. L. 95–618, §1(a), Nov. 9, 1978, 92 Stat. 3174, provided that: "This Act \[enacting sections 44C, 124, and 4064 of this title, amending sections 39, 46 to 48, 56, 57, 167, 263, 465, 613, 613A, 614, 751, 1016, 1254, 4041, 4063, 4081, 4092, 4093, 4217, 4221, 4222, 4293, 4483, 6096, 6401, 6412, 6416, 6421, 6424, 6427, 6504, and 6675 of this title, redesignating section 124 of this title as section 125, enacting provisions set out as notes under sections 39, 44C, 48, 124, 167, 263, 613, 613A, 4041, 4063, 4064, 4081, 4093, and 4221 of this title, and amending provisions set out as notes under section 57 of this title and section 120 of Title 23, Highways\] may be cited as the 'Energy Tax Act of 1978'."
 
 Pub. L. 95–615, §1, Nov. 8, 1978, 92 Stat. 3097, provided that: "This Act \[probably meaning sections 1 to 8 of Pub. L. 95–615, amending section 167 of this title, enacting provisions set out as notes under sections 61, 62, and 911 of this title, and amending provisions set out as notes under sections 117, 167, 382, 401, and 911 of this title\] may be cited as the 'Tax Treatment Extension Act of 1977'."
 
@@ -2057,7 +2069,7 @@ General Principles Concerning Use of Funds.—The President and the heads of Fed
 
 #### Transitional Rules for Taxable Years Which Include May 6, 2003
 
-Pub. L. 108–27, title III, §301(c), May 28, 2003, 117 Stat. 759, provided that: "For purposes of applying section1(h) of the Internal Revenue Code of 1986 in the case of a taxable year which includes May 6, 2003—
+Pub. L. 108–27, title III, §301(c), May 28, 2003, 117 Stat. 759, provided that: "For purposes of applying section 1(h) of the Internal Revenue Code of 1986 in the case of a taxable year which includes May 6, 2003—
 
 &emsp;"(1) The amount of tax determined under subparagraph (B) of section 1(h)(1) of such Code shall be the sum of—
 
@@ -2135,7 +2147,7 @@ Determinations by OMB.—As soon as practicable after the date of the enactment 
 
 "(b)
 
-Coordination with Federal Agencies.—As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], each Federal agency that administers an applicable Federal benefit program shall, in accordance with such guidelines as are issued by the Director pursuant to this section, make an initial determination of whether, and the extent to which, the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries of an applicable Federal benefit program administered by such agency. Not later than 30 days after such date, the head of such agency shall submit a report to the Director and toeach House of the Congress of such determination, together with a complete description of the nature of the shortfall.
+Coordination with Federal Agencies.—As soon as practicable after the date of the enactment of this Act \[Dec. 21, 2000\], each Federal agency that administers an applicable Federal benefit program shall, in accordance with such guidelines as are issued by the Director pursuant to this section, make an initial determination of whether, and the extent to which, the CPI computation error for 1999 has or will result in a shortfall in payments to beneficiaries of an applicable Federal benefit program administered by such agency. Not later than 30 days after such date, the head of such agency shall submit a report to the Director and to each House of the Congress of such determination, together with a complete description of the nature of the shortfall.
 
 "(c)
 
@@ -2215,7 +2227,7 @@ Pub. L. 105–277, div. J, title IV, §4002(i)(2), Oct. 21, 1998, 112 Stat. 2681
 
 &emsp;"(I) the value of the interests of the regulated investment company in such partnership is 35 percent or more of the value of such company's total assets, or
 
-&emsp;"(II) the value of the interests of the regulated investment company in such partnership and all other qualified partnerships is 90 percent or more of the value of such company's total assets."
+&emsp;"(II) the value of the interests of the regulated investment company in such partnership and all otherqualified partnerships is 90 percent or more of the value of such company's total assets."
 
 #### Capital Gain Distribution by Trust
 
@@ -2229,7 +2241,7 @@ Pub. L. 105–34, title III, §311(e), Aug. 5, 1997, 111 Stat. 835, as amended b
 
 In general.—A taxpayer other than a corporation may elect to treat—
 
-&emsp;&emsp;"(A) any readily tradable stock (which is a capital asset) held by such taxpayer on January 1, 2001,and not sold before the next business day after such date, as having been sold on such next business day for an amount equal to its closing market price on such next business day (and as having been reacquired on such next business day for an amount equal to such closing market price), and
+&emsp;&emsp;"(A) any readily tradable stock (which is a capital asset) held by such taxpayer on January 1, 2001, and not sold before the next business day after such date, as having been sold on such next business day for an amount equal to its closing market price on such next business day (and as having been reacquired on such next business day for an amount equal to such closing market price), and
 
 &emsp;&emsp;"(B) any other capital asset or property used in the trade or business (as defined in section 1231(b) of the Internal Revenue Code of 1986) held by the taxpayer on January 1, 2001, as having been sold on such date for an amount equal to its fair market value on such date (and as having been reacquired on such date for an amount equal to such fair market value).
 
@@ -2319,7 +2331,7 @@ Pub. L. 99–514, title III, §302(c), Oct. 22, 1986, 100 Stat. 2218, which rela
 
 #### Coordination With Other Provisions
 
-Pub. L. 99–509, title VIII, §8081, Oct. 21, 1986, 100 Stat. 1965, provided that: "Nothing in any provision of this Act \[see Tables for classifications\] (other than this title) shall be construed as—
+Pub. L. 99–509, title VIII, §8081, Oct. 21, 1986, 100 Stat. 1965, provided that: "Nothing in any provision of thisAct \[see Tables for classifications\] (other than this title) shall be construed as—
 
 &emsp;"(1) imposing any tax (or exempting any person or property from any tax),
 
@@ -2399,7 +2411,11 @@ act.—The term '1997 Act' means the Taxpayer Relief Act of 1997 (Public Law 105
 
 #### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 4611, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+<b>2025</b>—Revenue Procedure 2024–40.
+
+<b>2024</b>—Revenue Procedure 2023–34.
 
 <b>2023</b>—Revenue Procedure 2022–38.
 

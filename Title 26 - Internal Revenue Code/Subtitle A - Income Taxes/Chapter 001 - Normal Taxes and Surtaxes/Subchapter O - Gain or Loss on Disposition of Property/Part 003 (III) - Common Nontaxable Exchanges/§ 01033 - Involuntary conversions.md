@@ -46,7 +46,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (i) Control
 
-&emsp;&emsp;&emsp;The term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of allclasses of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+&emsp;&emsp;&emsp;The term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
 #### (ii) Disposition of the converted property
 
@@ -118,7 +118,7 @@ For purposes of this subtitle, if livestock are destroyed by or on account of di
 
 #### (B) Further extension by Secretary
 
-&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as theSecretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
+&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as the Secretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
 
 #### (f) Replacement of livestock with other farm property in certain cases
 
@@ -190,7 +190,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (4) Principal residence
 
-&emsp;For purposes of this subsection, the term "principal residence" has the same meaning aswhen used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
+&emsp;For purposes of this subsection, the term "principal residence" has the same meaning as when used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
 
 #### (i) Replacement property must be acquired from unrelated person in certain cases
 
@@ -252,9 +252,9 @@ Subsecs. (j) to (l). Pub. L. 113–295, §221(a)(77), redesignated subsecs. (k) 
 
 Subsec. (h)(1). Pub. L. 110–343, §706(a)(2)(D)(i), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "If the taxpayer's principal residence or any of its contents is compulsorily or involuntarily converted as a result of a Presidentially declared disaster—".
 
-Subsec. (h)(2). Pub. L. 110–343, §706(a)(2)(D)(ii), substituted "investment located in a disaster area and compulsorily or involuntarily converted as a result ofa federally declared disaster" for "investment is compulsorily or involuntarily converted as a result of a Presidentially declared disaster".
+Subsec. (h)(2). Pub. L. 110–343, §706(a)(2)(D)(ii), substituted "investment located in a disaster area and compulsorily or involuntarily converted as a result of a federally declared disaster" for "investment is compulsorily or involuntarily converted as a result of a Presidentially declared disaster".
 
-Subsec. (h)(3). Pub. L. 110–343, §706(a)(2)(D)(iii), amended par. (3) generally. Prior to amendment, par. (3) defined "Presidentially declared disaster" for purposes of subsec. (h).
+Subsec. (h)(3). Pub. L. 110–343, §706(a)(2)(D)(iii), amended par. (3) generally. Prior to amendment, par.\(3) defined "Presidentially declared disaster" for purposes of subsec. (h).
 
 <b>2005</b>—Subsecs. (k), (l). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (l).
 
@@ -414,11 +414,11 @@ Pub. L. 94–455, title XXI, §2140(b), Oct. 4, 1976, 90 Stat. 1932, as amended 
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title IX, §915(b), Dec. 30, 1969, 83 Stat. 723, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal RevenueCode of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\]."
+Pub. L. 91–172, title IX, §915(b), Dec. 30, 1969, 83 Stat. 723, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\]."
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 

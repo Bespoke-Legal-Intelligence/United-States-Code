@@ -14,7 +14,7 @@ Criminal Penalties.—Whoever—
 
 &emsp;(1) certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $1,000,000 or imprisoned not more than 10 years, or both; or
 
-&emsp;(2) willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.
+&emsp;(2) willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport withall the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.
 
 (Added Pub. L. 107–204, title IX, §906(a), July 30, 2002, 116 Stat. 806.)
 

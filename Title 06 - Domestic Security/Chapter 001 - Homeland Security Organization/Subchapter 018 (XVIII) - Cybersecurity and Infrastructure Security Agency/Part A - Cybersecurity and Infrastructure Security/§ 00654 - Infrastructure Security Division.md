@@ -8,7 +8,7 @@
 
 #### (2) Executive Assistant Director
 
-&emsp;The Infrastructure Security Division shall be headed by an Executive Assistant Directorfor Infrastructure Security (in this section referred to as "the Executive Assistant Director"), who shall—
+&emsp;The Infrastructure Security Division shall be headed by an Executive Assistant Director for Infrastructure Security (in this section referred to as "the Executive Assistant Director"), who shall—
 
 &emsp;&emsp;(A) be at the level of Assistant Secretary within the Department;
 

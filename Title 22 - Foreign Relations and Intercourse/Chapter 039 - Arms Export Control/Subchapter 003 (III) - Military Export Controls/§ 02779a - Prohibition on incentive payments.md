@@ -54,7 +54,7 @@ Subsec. (d)(3)(B)(ii). Pub. L. 106–113, §1000(a)(7) \[title XII, §1246(b)\],
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.
+Functions of President under this section delegated to Secretary of State by Memorandum of President ofthe United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

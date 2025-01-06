@@ -10,7 +10,7 @@
 
 (3) Notwithstanding paragraph (1), exempted operational files shall continue to be subject to search and review for information concerning—
 
-&emsp;(A) United States citizens or aliens lawfully admitted for permanent residence who haverequested information on themselves pursuant to the provisions of section 552 or 552a of title 5;
+&emsp;(A) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 or 552a of title 5;
 
 &emsp;(B) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5; or
 
@@ -48,7 +48,7 @@
 
 &emsp;(iv)(I) When a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, NGA shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in paragraph (2).
 
-&emsp;(II) The court may not order NGA to review the content of any exempted operational file or files in order to make the demonstration required under subclause (I), unless the complainant disputes NGA's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
+&emsp;(II) The court may not order NGA to review the content of any exempted operational fileor files in order to make the demonstration required under subclause (I), unless the complainant disputes NGA's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
@@ -66,7 +66,7 @@
 
 (3) A complainant that alleges that NGA has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 
-&emsp;(A) Whether NGA has conducted the review required by paragraph (1) before the expirationof the 10-year period beginning on December 3, 1999, or before the expiration of the 10-year period beginning on the date of the most recent review.
+&emsp;(A) Whether NGA has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on December 3, 1999, or before the expiration of the 10-year period beginning on the date of the most recent review.
 
 &emsp;(B) Whether NGA, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 

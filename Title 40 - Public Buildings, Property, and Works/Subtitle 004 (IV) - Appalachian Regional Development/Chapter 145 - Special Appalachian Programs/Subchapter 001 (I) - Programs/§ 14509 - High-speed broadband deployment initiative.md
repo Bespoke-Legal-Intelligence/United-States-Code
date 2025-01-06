@@ -34,11 +34,11 @@ Sources of Assistance.—Subject to subsection (c), a grant provided under this 
 
 (e)
 
-Federal Share.—Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may beused to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+Federal Share.—Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
 
 (f)
 
-Request for Data.—Before making a grant for a project or activity described in subsection (b)(2), the Appalachian Regional Commission shall request from the Federal Communications Commission, the National Telecommunications and Information Administration, the Economic Development Administration, and the Department of Agriculture data on—
+Request for Data.—Before making a grant for a project or activity described in subsection (b)(2), the Appalachian Regional Commissionshall request from the Federal Communications Commission, the National Telecommunications and Information Administration, the Economic Development Administration, and the Department of Agriculture data on—
 
 &emsp;(1) the level and extent of broadband service that exists in the area proposed to be served by the broadband service-related infrastructure; and
 

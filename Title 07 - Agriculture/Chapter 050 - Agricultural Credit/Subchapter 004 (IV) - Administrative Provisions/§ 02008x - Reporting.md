@@ -64,7 +64,7 @@ In this section, the term "farm loan" means—
 
 &emsp;&emsp;(A) prepare a comprehensive review of all reports submitted under subsection (b)(2);
 
-&emsp;&emsp;(B) identify trends within data outlined in subsection (b)(1), including the extent to which target annual participation rates for beginning and socially disadvantaged farmers (as defined by the Secretary) are being met for each loan type; and
+&emsp;&emsp;(B) identify trends within data outlined in subsection (b)(1), including the extent towhich target annual participation rates for beginning and socially disadvantaged farmers (as defined by the Secretary) are being met for each loan type; and
 
 &emsp;&emsp;(C) provide specific actions the Department will take to improve the performance of direct and guaranteed loans with respect to underserved producers and any recommendations the Secretary may make for further congressional action.
 

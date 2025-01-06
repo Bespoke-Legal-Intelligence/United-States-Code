@@ -14,7 +14,7 @@
 
 (2) If an individual has not attained the age of 18 years, is mentally incompetent, or is physically unable to sign a form, a form filed under paragraph (1) for the individual may be signed by a court-appointed representative, a person who is responsible for the care of the individual, including a spouse or other relative, or an attorney in fact or agent authorized to act on behalf of the individual under a durable power of attorney. If the individual is in the care of an institution, the manager or principal officer of the institution may sign the form.
 
-(b)(1) A claim by a surviving spouse or child for compensation or dependency and indemnity compensation shall also be considered to be a claim for death pension and accrued benefits, and a claim by a surviving spouse or child for death pension shall be considered to be a claim for death compensation (or dependency and indemnity compensation) and accrued benefits.
+(b)(1) A claim by a surviving spouse or child for compensation or dependency and indemnitycompensation shall also be considered to be a claim for death pension and accrued benefits, and a claim by a surviving spouse or child for death pension shall be considered to be a claim for death compensation (or dependency and indemnity compensation) and accrued benefits.
 
 (2) A claim by a parent for compensation or dependency and indemnity compensation shall also be considered to be a claim for accrued benefits.
 
@@ -26,7 +26,7 @@
 
 (d)(1) The Secretary shall publish in a central location on the internet website of the Department—
 
-&emsp;(A) the disability benefit questionnaire forms of the Department for the submittal of evidence from non-Department medical providers regarding a disability of a claimant, including any form or process that replaces any such disability benefit questionnaire form; and
+&emsp;(A) the disability benefit questionnaire forms of the Department for the submittal of evidence from non-Department medical providers regarding a disability of a claimant, including any form or process that replaces any such disability benefit questionnaire form, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the completion of examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary; and
 
 &emsp;(B) details about the process used by the Department for submittal of evidence described in subparagraph (A).
 
@@ -44,6 +44,16 @@
 
 (3) The Secretary may waive any interagency approval process required to approve a modification to a disability benefit questionnaire form if such requirement only applies by reason of the forms being made public.
 
+(4)(A) The Secretary may exclude from publication under clauses (i) and (ii) of paragraph (1)(A) <sup>1</sup> any form described in subparagraph (B) of this paragraph that the Secretary determines could not reasonably be completed to a clinically acceptable standard by someone not an employee or a contractor of the Department.
+
+(B) A form described in this subparagraph is a form that—
+
+&emsp;(i) was available or in use at any time after the date of the enactment of the Veterans Benefits Improvement Act of 2024; and
+
+&emsp;(ii) has not been published under paragraph (1).
+
+(C) The Secretary shall include on the same internet website as the website on which forms are published under paragraph (1)(A) a list of forms that have been excluded from publication pursuant to subparagraph (A), and for each such form, a justification for the exclusion of the form from publication.
+
 (e) In this section:
 
 &emsp;(1) The term "mentally incompetent" with respect to an individual means that the individual lacks the mental capacity—
@@ -54,11 +64,15 @@
 
 &emsp;(2) The term "TIN" has the meaning given the term in section 7701(a)(41) of the Internal Revenue Code of 1986.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3001; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, §8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered §5101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, §708(c)(2), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 112–154, title V, §502(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 114–315, title I, §101(a), Dec. 16, 2016, 130 Stat. 1538; Pub. L. 116–315, title II, §§2006(a), 2202(b)(1)(E), Jan. 5, 2021, 134 Stat. 4975, 4985.)
+&emsp;(3) The term "covered non-Department provider" means a medical provider who is not an employee of the Department and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary pursuant to a contract with the Department.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3001; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, §8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered §5101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, §708(c)(2), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 112–154, title V, §502(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 114–315, title I, §101(a), Dec. 16, 2016, 130 Stat. 1538; Pub. L. 116–315, title II, §§2006(a), 2202(b)(1)(E), Jan. 5, 2021, 134 Stat. 4975, 4985; Pub. L. 118–196, §2, Dec. 23, 2024, 138 Stat. 2671.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+The date of the enactment of the Veterans Benefits Improvement Act of 2024, referred to in subsec. (d)(4)(B)(i), is the date of enactment of Pub. L. 118–196, which was approved Dec. 23, 2024.
 
 Section 7701(a)(41) of the Internal Revenue Code of 1986, referred to in subsec. (e)(2), is classified to section 7701(a)(41) of Title 26, Internal Revenue Code.
 
@@ -67,6 +81,12 @@ Section 7701(a)(41) of the Internal Revenue Code of 1986, referred to in subsec.
 Prior section 5101 was renumbered section 8301 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(1)(A). Pub. L. 118–196, §2(1)(A), inserted ", including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the completion of examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary" after "any such disability benefit questionnaire form".
+
+Subsec. (d)(4). Pub. L. 118–196, §2(1)(B), added par. (4).
+
+Subsec. (e)(3). Pub. L. 118–196, §2(2), added par. (3).
 
 <b>2021</b>—Subsec. (a)(1)(B)(i). Pub. L. 116–315, §2202(b)(1)(E), substituted "2303" for "2302".
 
@@ -116,9 +136,85 @@ Pub. L. 112–154, title V, §502(b), Aug. 6, 2012, 126 Stat. 1191, provided tha
 
 Pub. L. 116–315, title II, §2006(e), Jan. 5, 2021, 134 Stat. 4977, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes below\] or section 5101(d) of such title \[title 38\], as added by subsection (a), may be construed to require the Secretary \[of Veterans Affairs\] to develop any new information technology system or otherwise require the Secretary to make any significant changes to the internet website of the Department."
 
+#### Modernization of Department of Veterans Affairs Disability Benefit Questionnaires
+
+Pub. L. 118–210, title III, §306, Jan. 2, 2025, 138 Stat. 2793, provided that:
+
+"(a)
+
+Requirement for Transmission of Certain Information in Machine-readable Format.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 180 days after enactment of this Act \[Jan. 2, 2025\], the Secretary of Veterans Affairs shall require all disability benefit questionnaire data collected in the course of medical disability examinations made by covered non-Department providers to be transmitted to the Department in a machine-readable format.
+
+&emsp;"(2)
+
+Issuance of standards.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall issue standards for the transmission of disability benefit questionnaire data in a machine-readable format as required under paragraph (1).
+
+&emsp;"(3)
+
+Updates.—In making updates to disability benefit questionnaires after the date specified in paragraph (1), the Secretary shall—
+
+&emsp;&emsp;"(A) ensure that the updates are made in a manner that allows for the data collected under the questionnaires to be in a machine-readable format as of the date on which the update goes into effect; and
+
+&emsp;&emsp;"(B) not later than 30 days before an update goes into effect, notify the covered non-Department providers (or the contractor performing a contract under section 504 of the Veterans\['\] Benefits Improvement\[s\] Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note)\[set out below\]) described in such paragraph of such updates.
+
+"(b)
+
+Plan for Information Technology System Modification.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a plan to modify the information technology systems and processes of the Department to enable a non-Department health care professional, assigned to or selected by a claimant, to transmit to the Department, in a machine-readable format, disability benefit questionnaire data, including complete disability benefit questionnaires rather than partial questionnaires or elements of medical evidence.
+
+"(c)
+
+Public Availability of Information.—The Secretary shall make publicly available on the internet website of the Department referred to in section 5101(d) of title 38, United States Code—
+
+&emsp;"(1) a description of the standards issued under subsection (a)(2); and
+
+&emsp;"(2) the plan required under subsection (b).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'claimant' has the meaning given such term in section 5100 of title 38, United States Code.
+
+&emsp;"(2) The term 'covered non-Department provider' means a health care provider who—
+
+&emsp;&emsp;"(A) is not an employee of the Department of Veterans Affairs; and
+
+&emsp;&emsp;"(B) pursuant to a contract under section 504 of the Veterans\['\] Benefits Improvement\[s\] Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note)\[set out below\], as amended by sections 304 and 305, examines a claimant for a medical disability."
+
+#### Improvement of Provision of Medical Disability Examinations by Contractors
+
+Pub. L. 118–196, §3, Dec. 23, 2024, 138 Stat. 2672, provided that:
+
+"(a)
+
+Report on Improving Reimbursement for Travel Relating to Medical Disability Examinations.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Veterans Affairs, after consulting with the Secretary of State and the Commissioner of the Social Security Administration, shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the efforts of the Secretary to reimburse veterans for expenses incurred traveling to a facility of the Department or of a covered non-Department provider incident to an examination with respect to the medical disability of the veteran for purposes of benefits under the laws administered by the Secretary, regardless of whether the facility is located inside or outside the United States.
+
+"(b)
+
+Communication by Non-Department Providers Providing Medical Disability Examinations With Individuals and Organizations Designated for Preparation, Presentation, and Prosecution of Claims.—Any contract entered into by the Secretary of Veterans Affairs after the date of the enactment of this Act under which a covered non-Department provider agrees to provide examinations with respect to medical disability for applicants for benefits under the laws administered by the Secretary, shall include a requirement that every communication from the covered non-Department provider to such an applicant regarding the scheduling of a covered medical disability examination be contemporaneously transmitted to any person or organization—
+
+&emsp;"(1) designated by the applicant by a power of attorney filed with the Secretary; and
+
+&emsp;"(2) recognized under sections 5902, 5903, and 5904 of title 38, United States Code, for the preparation, presentation, and prosecution of claims.
+
+"(c)
+
+Department of Veterans Affairs Outreach Regarding Contact Information for Contractors Providing Covered Medical Disability Examinations.—Not later than 120 days after the date of enactment of this Act, the Secretary of Veterans Affairs, in partnership with veterans service organizations and such other stakeholders as the Secretary considers relevant and appropriate, shall implement an outreach program to provide veterans with the following information:
+
+&emsp;"(1) Contact information for covered non-Department providers that provide examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary, including the telephone numbers such providers may use to contact veterans.
+
+&emsp;"(2) Notice of the requirement for a veteran to provide personally identifiable information to such a provider when contacted in order to verify the identity of the veteran.
+
+"(d)
+
+Covered Non-Department Provider.—In this section, the term 'covered non-Department provider' means a medical provider who is not an employee of the Department of Veterans Affairs and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary of Veterans Affairs pursuant to a contract with the Department."
+
 #### Temporary Halt on Elimination of Medical Examiner Positions in Department of Veterans Affairs
 
-Pub. L. 116–315, title II, §2002(b), Jan. 5, 2021, 134 Stat. 4968, provided that: "The Secretary of Veterans Affairs shall temporarily suspend the efforts of the Secretaryin effect on the day before the date of the enactment of this Act \[Jan. 5, 2021\] to eliminate medical examiner positions in the Department of Veterans Affairs until the number of individuals awaiting a medical examination with respect to medical disability of the individuals for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits is equal to or less than the number of such individuals who were awaiting such a medical examination with respect to such purposes on March 1, 2020."
+Pub. L. 116–315, title II, §2002(b), Jan. 5, 2021, 134 Stat. 4968, provided that: "The Secretary of Veterans Affairs shall temporarily suspend the efforts of the Secretary in effect on the day before the date of the enactment of this Act \[Jan. 5, 2021\] to eliminate medical examiner positions in the Department of Veterans Affairs until the number of individuals awaiting a medical examination with respect to medical disability of the individuals for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits is equal to or less than the number of such individuals who were awaiting such a medical examination with respect to such purposes on March 1, 2020."
 
 #### Initial Form
 
@@ -218,7 +314,7 @@ Pub. L. 115–55, §§3–6, Aug. 23, 2017, 131 Stat. 1116–1127, provided that
 
 "(a)
 
-Plan Required.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 2017\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress and the ComptrollerGeneral of the United States a comprehensive plan for—
+Plan Required.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 2017\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress and the Comptroller General of the United States a comprehensive plan for—
 
 &emsp;"(1) the processing of appeals of decisions on legacy claims that the Secretary considers pending;
 
@@ -316,7 +412,7 @@ Review by Comptroller General of the United States.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the Comptroller General of the United States receivesthe plan required by subsection (a), the Comptroller General shall—
+In general.—Not later than 90 days after the Comptroller General of the United States receives the plan required by subsection (a), the Comptroller General shall—
 
 &emsp;&emsp;"(A) assess such plan; and
 
@@ -606,7 +702,7 @@ Termination of Authority.—The Secretary of Veterans Affairs may not carry out 
 
 &emsp;&emsp;"(Q) The average number of times claimants submit to the Secretary different claims with respect to the same condition, such as an initial claim and a supplemental claim.
 
-&emsp;&emsp;"(R) The number of cases each year in which a claimant inappropriately tried to take simultaneous actions, such as filing a supplemental claim while a higher-level review is pending, what actions the Secretary took in response, and how long it took on average to take those actions.
+&emsp;&emsp;"(R) The number of cases each year in which a claimant inappropriately tried to take simultaneous actions, such as filing a supplemental claim while a higher-level review is pending, what actionsthe Secretary took in response, and how long it took on average to take those actions.
 
 &emsp;&emsp;"(S) In the case that the Secretary develops and implements a policy under section 5104C(a)(2)(D) of such title, as amended by section 2(h)(1), the number of actions withdrawn and new actions taken pursuant to such policy.
 
@@ -952,11 +1048,25 @@ Physician described.—A physician described in this paragraph is a physician wh
 
 Report.—Not later than four years after the date of the enactment of this Act \[Dec. 16, 2003\], the Secretary shall submit to Congress a report on the use of the authority provided in subsection (a). The Secretary shall include in the report an assessment of the effect of examinations under that authority on the cost, timeliness, and thoroughness of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary."
 
-#### Pilot Program for Use of Contract Physicians for Disability Examinations
+#### Pilot Program for Use of Contract Health Care Professionals for Disability Examinations
+
+Pub. L. 118–210, title III, §304(b), (c), Jan. 2, 2025, 138 Stat. 2792, provided that:
+
+"(b)
+
+Remedies.—The Secretary of Veterans Affairs shall take such actions as the Secretary considers appropriate to ensure compliance with section 504(c) of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), as amended by subsection (a).
+
+"(c)
+
+Annual Report.—Not later than one year after the date of the enactment of this Act \[Jan. 2, 2025\] and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on—
+
+&emsp;"(1) the conduct of the pilot program established under section 504 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note); and
+
+&emsp;"(2) the actions of the Secretary under subsection (b)."
 
 Pub. L. 116–315, title II, §2002(f), Jan. 5, 2021, 134 Stat. 4969, provided that: "The Secretary shall take such actions as may be necessary to hold accountable the providers of medical examinations pursuant to contracts under section 504 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note) who are underperforming in the meeting of the needs of veterans through the performance of medical examinations pursuant to such contracts."
 
-Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, §241, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title I, §109(a)(2), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–141, div. J, title II, §256, Mar. 23, 2018, 132 Stat. 826; Pub. L. 115–407, title VII, §702(b), Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–315, title II, §2002(a)(1), (4), Jan. 5, 2021, 134 Stat. 4967, 4968, provided that:
+Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, §241, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title I, §109(a)(2), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–141, div. J, title II, §256, Mar. 23, 2018, 132 Stat. 826; Pub. L. 115–407, title VII, §702(b), Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–315, title II, §2002(a)(1), (4), Jan. 5, 2021, 134 Stat. 4967, 4968; Pub. L. 118–19, §1, Oct. 6, 2023, 137 Stat. 106; Pub. L. 118–210, title III, §§304(a), (d), 305(a), Jan. 2, 2025, 138 Stat. 2792, provided that:
 
 "(a)
 
@@ -980,7 +1090,7 @@ Licensure of Contract Health Care Professionals.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any law regarding the licensure of health care professionals, a health care professional described in paragraph (2) may conduct an examination pursuant to a contract entered into under subsection (a) at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, so long as the examination is within the scope of the authorized duties under such contract.
+In general.—Notwithstanding any law regarding the licensure of health care professionals, only a health care professional described in paragraph (2) may conduct an examination pursuant to a contract entered into under subsection (a) at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, so long as the examination is within the scope of the authorized duties under such contract.
 
 &emsp;"(2)
 
@@ -998,7 +1108,13 @@ Source of Funds.—Expenses of carrying out the pilot program under this section
 
 "(e)
 
-Report to Congress.—Not later than three years after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall submit to the Congress a report on the effect of the use of the authority provided by subsection (a) on the cost, timeliness, and thoroughness of medical disability examinations."
+Report to Congress.—Not later than three years after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall submit to the Congress a report on the effect of the use of the authority provided by subsection (a) on the cost, timeliness, and thoroughness of medical disability examinations.
+
+"(f)
+
+Certain Information Provided to Health Care Professional.—The Secretary shall provide to a health care professional who performs an examination under subsection (a), or a contractor performing a contract under such subsection, the contact information of any agent or attorney recognized by the Secretary under chapter 59 of title 38, United States Code, with regards to a claim for benefits that gives rise to such examination."
+
+\[Pub. L. 118–210, title III, §305(b), Jan. 2, 2025, 138 Stat. 2792, provided that: "The amendment made by this section \[amending section 504 of Pub. L. 104–275, set outabove\] shall apply to an examination described in subsection (a) of such section that is performed on or after the date of the enactment of this Act \[Jan. 2, 2025\]."\]
 
 \[Pub. L. 116–315, title II, §2002(a)(2), Jan. 5, 2021, 134 Stat. 4967, provided that: "The purpose of the amendment made by paragraph (1) \[amending section 504 of Pub. L. 104–275, set out above\] is to expand the license portability for physicians assistants, nurse practitioners, audiologists, and psychologists to supplement the capacity of employees of the Department to provide medical examinations described in subsection (b) \[set out as a note above\]."\]
 
@@ -1013,4 +1129,6 @@ Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, as amended by
 #### Veterans' Claims Adjudication Commission
 
 Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L. 104–275, title V, §503(a), Oct. 9, 1996, 110 Stat. 3341, established Veterans' Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims for veterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
+
+<i><sup>1</sup></i><i> So in original. Subpar. (A) of par. (1) does not contain clauses.</i>
 

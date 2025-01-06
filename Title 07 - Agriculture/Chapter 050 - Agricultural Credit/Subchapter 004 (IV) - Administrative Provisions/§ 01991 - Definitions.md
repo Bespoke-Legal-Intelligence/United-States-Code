@@ -12,7 +12,7 @@
 
 &emsp;(5) The term "contract of insurance" includes a contract of guarantee.
 
-&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the NorthernMariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
+&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
 
 &emsp;(7) The term "joint operation" means a joint farming operation in which two or more farmers work together sharing equally or unequally land, labor, equipment, expenses, and income.
 
@@ -144,7 +144,7 @@ Administration.—In carrying out this subparagraph, the Under Secretary for Rur
 
 &emsp;&emsp;(E)
 
-Exclusions.—Notwithstanding any other provision of this paragraph, in determining which census blocks in an urbanized area are not in a rural area (as defined in this paragraph), the Secretary shall exclude any cluster of census blocks that would otherwise be considered not in a rural area only because the cluster is adjacent to not more than 2 census blocks that are otherwise considered not in a rural area under this paragraph.
+Exclusions.—Notwithstanding any other provision of this paragraph, in determining which census blocks in an urbanized area are not in a rural area (as defined in this paragraph), the Secretary shall exclude any cluster of census blocks that would otherwise be considered not in a rural area onlybecause the cluster is adjacent to not more than 2 census blocks that are otherwise considered not in a rural area under this paragraph.
 
 &emsp;&emsp;(F)
 
@@ -178,7 +178,7 @@ Appeals.—A program applicant may appeal an estimate made under clause (i)(I) b
 
 &emsp;&emsp;(G)
 
-Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is noturban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
+Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
 
 &emsp;&emsp;(H)
 
@@ -224,7 +224,7 @@ Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), i
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -334,7 +334,7 @@ Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, 
 
 #### Construction of 1990 Amendment
 
-Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[titleIII of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
+Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
 
 #### <b>Executive Documents</b>
 

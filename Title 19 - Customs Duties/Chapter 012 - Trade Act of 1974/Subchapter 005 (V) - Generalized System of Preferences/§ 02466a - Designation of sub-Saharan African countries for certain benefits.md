@@ -140,7 +140,7 @@ Subsec. (c). Pub. L. 108–274, §7(a)(2)(B), substituted "subchapter—" for "s
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] take effect on the date of the enactment of this Act \[June 29, 2015\]and apply with respect to any article described in section 503(b)(1)(B) through (G) of the Trade Act of 1974 \[19 U.S.C. 2463(b)(1)(B) through (G)\] that is the growth, product, or manufacture of a beneficiary sub-Saharan African country and that is imported into the customs territory of the United States on or after the date that is 30 days after such date of enactment."
+Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] take effect on the date of the enactment of this Act \[June 29, 2015\] and apply with respect to any article described in section 503(b)(1)(B) through (G) of the Trade Act of 1974 \[19 U.S.C. 2463(b)(1)(B) through (G)\] that is the growth, product, or manufacture of a beneficiary sub-Saharan African country and that is imported into the customs territory of the United States on or after the date that is 30 days after such date of enactment."
 
 \[For definition of "beneficiary sub-Saharan African country" as used in section 104(d) of Pub. L. 114–27, set out above, see section 112 of Pub. L. 114–27, set out as a note under section 3701 of this title.\]
 
@@ -174,7 +174,7 @@ Sec. 2. <i>Reducing Poverty and Eliminating Hunger</i>. The U.S. Trade Represent
 
 Sec. 3. <i>General Provisions</i>. (a) In exercising authority delegated by or performing functions assigned in this order, officers of the United States:
 
-(i) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (C) recommend for congressional consideration such measures as the President may judge necessary or expedient; and (D) supervise the executive branch; and
+(i) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (C) recommend for congressionalconsideration such measures as the President may judge necessary or expedient; and (D) supervise the executive branch; and
 
 (ii) may redelegate authority delegated by this order and may further assign functions assigned by this order to officers of any other department or agency within the executive branch to the extent permitted by law, and such redelegation or further assignment shall be published in the Federal Register.
 

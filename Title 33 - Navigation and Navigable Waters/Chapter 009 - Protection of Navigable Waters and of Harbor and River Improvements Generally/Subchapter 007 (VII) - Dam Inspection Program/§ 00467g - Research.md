@@ -30,7 +30,7 @@ A prior section 9 of Pub. L. 92–367 was classified to section 467h of this tit
 
 <b>2014</b>—Pub. L. 113–121 substituted "Administrator" for "Director" in introductory provisions of subsec. (a) and in subsec. (b).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–310, §4(1), in introductory provisions, substituted "in cooperation with the Board" for "in cooperation with ICODS" and inserted "and support" after "develop".
+<b>2002</b>—Subsec. (a). Pub. L. 107–310, §4(1), in introductory provisions, substituted "in cooperation with theBoard" for "in cooperation with ICODS" and inserted "and support" after "develop".
 
 Subsec. (a)(3), (4). Pub. L. 107–310, §4(2)–(4), added pars. (3) and (4).
 

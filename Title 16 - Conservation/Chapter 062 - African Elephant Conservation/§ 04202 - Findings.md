@@ -16,7 +16,7 @@ The Congress finds the following:
 
 &emsp;(7) Although some African countries have effective African elephant conservation programs, many do not have sufficient resources to properly manage, conserve, and protect their elephant populations.
 
-&emsp;(8) The United States, as a party to CITES and a large market for worked ivory, sharesresponsibility for supporting and implementing measures to stop the illegal trade in African elephant ivory and to provide for the conservation of the African elephant.
+&emsp;(8) The United States, as a party to CITES and a large market for worked ivory, shares responsibility for supporting and implementing measures to stop the illegal trade in African elephant ivory and to provide for the conservation of the African elephant.
 
 &emsp;(9) There is no evidence that sport hunting is part of the poaching that contributes to the illegal trade in African elephant ivory, and there is evidence that the proper utilization of well-managed elephant populations provides an important source of funding for African elephant conservation programs.
 

@@ -34,7 +34,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (ii) Special continuation and transition rule
 
-&emsp;&emsp;&emsp;If a State that applied for and received an allotment under this section for fiscalyear 2010 pursuant to subsection (j) meets the specifications established in the State's application under subsection (c) for fiscal year 2011, then the Secretary shall make an allotment to such State for fiscal year 2011 that is not less than the allotment made pursuant to subsection (j) to such State for fiscal year 2010 under this section (as this section was in effect on the day before August 14, 2008).
+&emsp;&emsp;&emsp;If a State that applied for and received an allotment under this section for fiscal year 2010 pursuant to subsection (j) meets the specifications established in the State's application under subsection (c) for fiscal year 2011, then the Secretary shall make an allotment to such State for fiscal year 2011 that is not less than the allotment made pursuant to subsection (j) to such State for fiscal year 2010 under this section (as this section was in effect on the day before August 14, 2008).
 
 #### (iii) Priority
 
@@ -108,7 +108,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(vi) A description of the steps the State will take to ensure that students who receive grants under this section persist to degree completion.
 
-&emsp;&emsp;&emsp;(vii) An assurance that the State has a method in place, such as acceptance of the automatic zero expected family contribution determination described in section1087ss(c) of this title, to identify eligible low-income students and award State grant aid to such students.
+&emsp;&emsp;&emsp;(vii) An assurance that the State has a method in place, such as acceptance of the automatic zero student aid index determination described in section 1087ss(c) <sup>1</sup> of this title, to identify eligible low-income students and award State grant aid to such students.
 
 &emsp;&emsp;&emsp;(viii) An assurance that the State will provide notification to eligible low-income students that grants under this section are—
 
@@ -200,7 +200,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (ii) Out-of-State institutions
 
-&emsp;&emsp;&emsp;If a State provides grants through another program under this subpart to students attending institutions of higher education located in another State, grantsawarded under this section may be used at institutions of higher education located in another State.
+&emsp;&emsp;&emsp;If a State provides grants through another program under this subpart to students attending institutions of higher education located in another State, grants awarded under this section may be used at institutions of higher education located in another State.
 
 #### (2) Early notification
 
@@ -220,7 +220,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;&emsp;(III) an explanation that student and family eligibility for, and participation in, other Federal means-tested programs may indicate eligibility for a grant for access and persistence and other student aid programs;
 
-&emsp;&emsp;&emsp;&emsp;(IV) a nonbinding estimate of the total amount of financial aid that a low-income student with a similar income level may expect to receive, including an estimate of the amount of a grant for access and persistence and an estimate of the amount of grants, loans, and all other available types of aid from the major Federal and State financial aid programs;
+&emsp;&emsp;&emsp;&emsp;(IV) a nonbinding estimate of the total amount of financial aid that a low-income student with a similar income level may expect to receive, including an estimate of the amount of a grant for access and persistence and an estimate of the amount of grants, loans, and allother available types of aid from the major Federal and State financial aid programs;
 
 &emsp;&emsp;&emsp;&emsp;(V) an explanation that in order to be eligible for a grant for access and persistence, at a minimum, a student shall—
 
@@ -252,7 +252,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;(A) Meets not less than two of the following criteria, with priority given to students meeting all of the following criteria:
 
-&emsp;&emsp;&emsp;(i) Has an expected family contribution equal to zero, as determined under part F, or a comparable alternative based upon the State's approved criteria in section 1070c–2(b)(4) of this title.
+&emsp;&emsp;&emsp;(i) Has a student aid index equal to zero, as determined under part F, or a comparable alternative based upon the State's approved criteria in section 1070c–2(b)(4) of this title.
 
 &emsp;&emsp;&emsp;(ii) Qualifies for the State's maximum undergraduate award, as authorized under section 1070c–2(b) of this title.
 
@@ -290,7 +290,7 @@ Each State receiving an allotment under this section for a fiscal year shall pro
 
 #### (i) Special rule
 
-Notwithstanding subsection (h), for purposes of determining a State's share of the cost of the authorized activities described in subsection (d), the State shall consider only those expenditures from non-Federal sources that exceed the State's total expenditures for need-based grants, scholarships, and work-study assistance for fiscal year 1999 (including any such assistance provided under this subpart).
+Notwithstanding subsection (h), for purposes of determining a State's share of the cost of theauthorized activities described in subsection (d), the State shall consider only those expenditures from non-Federal sources that exceed the State's total expenditures for need-based grants, scholarships, and work-study assistance for fiscal year 1999 (including any such assistance provided under this subpart).
 
 #### (j) Continuation and transition
 
@@ -302,17 +302,11 @@ Not later than three years after August 14, 2008, and annually thereafter, the S
 
 (Pub. L. 89–329, title IV, §415E, as added Pub. L. 105–244, title IV, §407(c)(2), Oct. 7, 1998, 112 Stat. 1666; amended Pub. L. 106–554, §1(a)(1) \[title III, §316(2), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47; Pub. L. 110–315, title IV, §407(c), Aug. 14, 2008, 122 Stat. 3216; Pub. L. 111–39, title IV, §401(a)(6), July 1, 2009, 123 Stat. 1938; Pub. L. 116–260, div. FF, title VII, §704(3), (5), Dec. 27, 2020, 134 Stat. 3200.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(3), (5), Dec. 27, 2020, 134 Stat. 3137, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:</i>
-
-<i>(1) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and</i>
-
-<i>(2) in subsection (c)(1)(B)(vii), by striking "automatic zero expected family contribution" and inserting "automatic zero student aid index".</i>
-
-<i>See 2020 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 1087ss of this title, referred to in subsec. (c)(1)(B)(vii), was generally amended by Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152, and, as so amended, no longer contains a subsec. (c).
 
 #### Prior Provisions
 
@@ -346,5 +340,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

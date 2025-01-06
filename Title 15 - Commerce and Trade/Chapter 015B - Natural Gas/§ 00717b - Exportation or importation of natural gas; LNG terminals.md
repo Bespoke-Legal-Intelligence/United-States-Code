@@ -64,7 +64,7 @@ Except as specifically provided in this chapter, nothing in this chapter affects
 
 &emsp;(A) means a base, camp, post, range, station, yard, center, or homeport facility for any ship or other activity under the jurisdiction of the Department of Defense, including any leased facility, that is located within a State, the District of Columbia, or any territory of the United States; and
 
-&emsp;(B) does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects, as determined by the Secretary of Defense.
+&emsp;(B) does not include any facility used primarily for civil works, rivers and harborsprojects, or flood control projects, as determined by the Secretary of Defense.
 
 (2) The Commission shall enter into a memorandum of understanding with the Secretary of Defense for the purpose of ensuring that the Commission coordinate and consult <sup>2</sup> with the Secretary of Defense on the siting, construction, expansion, or operation of liquefied natural gas facilities that may affect an active military installation.
 

@@ -50,7 +50,7 @@ Transfer of right.—Except for any transfer to the patent owner, the right to a
 
 &emsp;&emsp;(C)
 
-Restriction on sites.—A defense under this section, when acquired by a person as part of an assignment or transfer described in subparagraph (B), may only be asserted for uses at sites where the subject matter that would otherwise infringe a claimed invention is in use before the later of the effective filing date of the claimed invention orthe date of the assignment or transfer of such enterprise or line of business.
+Restriction on sites.—A defense under this section, when acquired by a person as part of an assignment or transfer describedin subparagraph (B), may only be asserted for uses at sites where the subject matter that would otherwise infringe a claimed invention is in use before the later of the effective filing date of the claimed invention or the date of the assignment or transfer of such enterprise or line of business.
 
 &emsp;(2)
 

@@ -60,7 +60,7 @@ The Director of the Institute of Education Sciences, shall, on a biennial basis,
 
 #### (e) Evaluation activities authorized elsewhere
 
-If, under any other provision of this chapter, funds are authorized to be reserved or used for evaluation activities with respect to a program, the Secretary may not reserve additional funds under this section for the evaluation of that program.
+If, under any other provision of this chapter, funds are authorized to be reserved or used for evaluation activities with respect to a program, the Secretary may not reserve additional fundsunder this section for the evaluation of that program.
 
 (Pub. L. 89–10, title VIII, §8601, formerly title IX, §9601, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1985; renumbered title VIII, §8601, and amended Pub. L. 114–95, title VIII, §§8001(a)(10), 8042, Dec. 10, 2015, 129 Stat. 2088, 2089, 2122.)
 

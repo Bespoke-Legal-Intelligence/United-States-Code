@@ -64,7 +64,7 @@ Pub. L. 114–94, div. G, title LXXXIX, §89001, Dec. 4, 2015, 129 Stat. 1799, p
 
 Pub. L. 111–319, §1, Dec. 18, 2010, 124 Stat. 3457, provided that: "This Act \[amending section 1681m of this title and enacting provisions set out as a note under section 1681m of this title\] may be cited as the 'Red Flag Program Clarification Act of 2010'."
 
-Pub. L. 111–203, title XIV, §1400(a), July 21, 2010, 124 Stat. 2136, provided that: "This title \[see Tables forclassification\] may be cited as the 'Mortgage Reform and Anti-Predatory Lending Act'."
+Pub. L. 111–203, title XIV, §1400(a), July 21, 2010, 124 Stat. 2136, provided that: "This title \[see Tables for classification\] may be cited as the 'Mortgage Reform and Anti-Predatory Lending Act'."
 
 #### Short Title of 2009 Amendment
 
@@ -94,7 +94,7 @@ Pub. L. 105–347, §1, Nov. 2, 1998, 112 Stat. 3208, provided that: "This Act \
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: "This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681o, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the 'Consumer Credit Reporting Reform Act of 1996'."
+Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: "This chapter \[chapter 1\(§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681o, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the 'Consumer Credit Reporting Reform Act of 1996'."
 
 #### Short Title of 1995 Amendments
 
@@ -126,7 +126,7 @@ Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: "
 
 #### Short Title of 1976 Amendments
 
-Pub. L. 94–240, §1, Mar. 23, 1976, 90 Stat. 257, provided that: "This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of thistitle, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the 'Consumer Leasing Act of 1976'."
+Pub. L. 94–240, §1, Mar. 23, 1976, 90 Stat. 257, provided that: "This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the 'Consumer Leasing Act of 1976'."
 
 Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: "This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the 'Equal Credit Opportunity Act Amendments of 1976'."
 

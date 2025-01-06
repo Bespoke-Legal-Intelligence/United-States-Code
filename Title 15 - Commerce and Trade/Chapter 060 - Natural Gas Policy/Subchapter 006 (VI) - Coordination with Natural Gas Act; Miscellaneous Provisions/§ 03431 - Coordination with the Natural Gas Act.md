@@ -32,7 +32,7 @@
 
 #### (B) Natural-gas company
 
-&emsp;&emsp;For purposes of the Natural Gas Act \[15 U.S.C. 717 et seq.\], the term "natural-gas company" (as defined in section 2(6) of such Act \[15 U.S.C. 717a(6)\]) shall not include any person by reason of, or with respect to, any transportation of natural gas if the provisions of the Natural Gas Act and the jurisdiction of the Commission under the Natural Gas Act do not apply to such transportation by reason of subparagraph (A) of this paragraph.
+&emsp;&emsp;For purposes of the Natural Gas Act \[15 U.S.C. 717 et seq.\], the term "natural-gas company" (as defined in section 2(6) of such Act \[15 U.S.C. 717a(6)\]) shall not include any person by reason of, or with respect to, any transportation of natural gas if the provisions of the Natural Gas Act and the jurisdiction of the Commission under the Natural Gas Act do not apply to such transportationby reason of subparagraph (A) of this paragraph.
 
 #### (b) Charges deemed just and reasonable
 
@@ -96,7 +96,7 @@ Subsec. (a)(1)(C). Pub. L. 101–60, §3(b)(7)(C), (D), redesignated subpar. (D)
 
 Subsec. (a)(1)(D). Pub. L. 101–60, §3(b)(7)(C), redesignated subpar. (D) as (C).
 
-Subsec. (a)(1)(E). Pub. L. 101–60, §3(b)(7)(B), struck out subpar. (E), "Certain additional natural gas", which read as follows: "For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of July 25, 1989, and which is not subject to a maximum lawful price under part A of subchapter I of this chapter by reason of section 3331(f) of this title, effective as of the date such gas ceases to be subject to such maximum lawful price."
+Subsec. (a)(1)(E). Pub. L. 101–60, §3(b)(7)(B), struck out subpar. (E), "Certain additional natural gas", which read as follows: "For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of July 25, 1989, and which is not subject to a maximum lawful price under part A of subchapter I of this chapter by reason of section 3331(f) ofthis title, effective as of the date such gas ceases to be subject to such maximum lawful price."
 
 Pub. L. 101–60, §3(a)(7)(A), substituted "Certain additional natural gas" for "Alaskan natural gas" in heading and amended text generally. Prior to amendment, text read as follows: "Subparagraph (B)(ii) and (iii) shall not apply with respect to natural gas produced from the Prudhoe Bay unit of Alaska and transported through the transportation system approved under the Alaska Natural Gas Transportation Act of 1976."
 

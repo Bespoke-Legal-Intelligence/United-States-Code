@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in this section, terms used in this section shall have the same meaning as when used in section 7702.
 
-(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239, title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763,2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239, title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
 
 #### <b>Editorial Notes</b>
 
@@ -162,7 +162,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Special rule where death benefit increases by more than $150,000.—If the death benefit under the contract increases by more than $150,000 over the death benefit under the contract in effect on October 20, 1988, the rules of section 7702A(c)(3) of the 1986 Code (as added by this section) shall apply in determining whether such contract is issued on or after June 21, 1988. The preceding sentence shall not apply in the case of a contract which, as of June 21, 1988, required at least 7 level annual premium payments and under which the policyholder makes at least 7 level annual premium payments.
+Special rule where death benefit increases by more than $150,000.—If the death benefit under the contract increases by more than $150,000 over the death benefit under the contract in effect on October 20, 1988, the rules of section 7702A(c)(3) of the 1986 Code (asadded by this section) shall apply in determining whether such contract is issued on or after June 21, 1988. The preceding sentence shall not apply in the case of a contract which, as of June 21, 1988, required at least 7 level annual premium payments and under which the policyholder makes at least 7 level annual premium payments.
 
 "(3)
 

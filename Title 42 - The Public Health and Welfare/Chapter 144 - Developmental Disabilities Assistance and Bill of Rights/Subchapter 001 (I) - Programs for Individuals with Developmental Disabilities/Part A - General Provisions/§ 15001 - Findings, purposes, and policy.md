@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) there is a need to ensure that services, supports, and other assistance are provided in a culturally competent manner, that ensures that individuals from racial and ethnic minority backgrounds are fully included in all activities provided under this subchapter;
 
-&emsp;(9) family members, friends, and members of the community can play an important role in enhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
+&emsp;(9) family members, friends, and members of the community can play an important role inenhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
 
 &emsp;(10) current research indicates that 88 percent of individuals with developmental disabilities live with their families or in their own households;
 
@@ -146,7 +146,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(4) For more than 36 years, Special Olympics has encouraged skill, sharing, courage, and joy through year-round sports training and athletic competition for children and adults with intellectual disabilities.
 
-&emsp;"(5) Special Olympics provides year-round sports training and competitive opportunities to 1,500,000 athletes with intellectual disabilities in 26 sports and plans to expand the joy of participation through sport to hundreds of thousands of people with intellectual disabilities within the United States and worldwide over the next 5 years.
+&emsp;"(5) Special Olympics provides year-round sports training and competitive opportunities to 1,500,000 athletes with intellectual disabilities in 26 sports and plans to expand the joy of participation throughsport to hundreds of thousands of people with intellectual disabilities within the United States and worldwide over the next 5 years.
 
 &emsp;"(6) Special Olympics has demonstrated its ability to provide a major positive effect on the quality of life of people with intellectual disabilities, improving their health and physical well-being, building their confidence and self-esteem, and giving them a voice to become active and productive members of their communities.
 

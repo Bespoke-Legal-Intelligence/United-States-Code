@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) a Congressional Research Service Report; or
 
-&emsp;&emsp;&emsp;(ii) a Congressional Research Service Authorization of Appropriations Product and Appropriations Product, which is available for general congressional access on the CRS Congressional Intranet.
+&emsp;&emsp;&emsp;(ii) a Congressional Research Service Authorization of Appropriations Product andAppropriations Product, which is available for general congressional access on the CRS Congressional Intranet.
 
 #### (B) Exclusions
 

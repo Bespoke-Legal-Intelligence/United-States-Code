@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The Secretary may grant a reasonable extension of time for filing any return, declaration, statement, or other document required by thistitle or by regulations. Except in the case of taxpayers who are abroad, no such extension shall be for more than 6 months.
+The Secretary may grant a reasonable extension of time for filing any return, declaration, statement, or other document required by this title or by regulations. Except in the case of taxpayers who are abroad, no such extension shall be for more than 6 months.
 
 #### (b) Automatic extension for corporation income tax returns
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 #### Modification of Due Dates by Regulation
 
-Pub. L. 114–41, title II, §2006(b), July 31, 2015, 129 Stat. 458, as amended by Pub. L. 114–94, div. C, title XXXII, §32104(a), Dec. 4, 2015, 129 Stat. 1738, provided that: "In the case of returns for taxable years beginning after December 31, 2015, the Secretary of the Treasury, or the Secretary's designee, shall modify appropriate regulations to provide as follows:
+Pub. L. 114–41, title II, §2006(b), July 31, 2015, 129 Stat. 458, as amended by Pub. L. 114–94, div. C, title XXXII,§32104(a), Dec. 4, 2015, 129 Stat. 1738, provided that: "In the case of returns for taxable years beginning after December 31, 2015, the Secretary of the Treasury, or the Secretary's designee, shall modify appropriate regulations to provide as follows:
 
 &emsp;"(1) The maximum extension for the returns of partnerships filing Form 1065 shall be a 6-month period ending on September 15 for calendar year taxpayers.
 

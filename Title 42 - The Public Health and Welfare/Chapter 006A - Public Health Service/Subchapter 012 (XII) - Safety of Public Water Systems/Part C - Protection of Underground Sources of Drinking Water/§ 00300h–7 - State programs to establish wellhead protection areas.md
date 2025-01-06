@@ -36,7 +36,7 @@ After the date 3 years after June 19, 1986, no State shall receive funds authori
 
 #### (e) "Wellhead protection area" defined
 
-As used in this section, the term "wellhead protection area" means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a). Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well orwellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
+As used in this section, the term "wellhead protection area" means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a). Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
 
 #### (f) Prohibitions
 
@@ -60,7 +60,7 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 #### (1) In general
 
-&emsp;In addition to the provisions of subsection (a) of this section, States in which there are more than 2,500 active wells at which annular injection is used as of January 1, 1986, shall include in their State program a certification that a State program exists and is being adequately enforced that provides protection from contaminants which may have any adverse effect on the health of persons and which are associated with the annular injection or surface disposal of brines associated with oil and gas production.
+&emsp;In addition to the provisions of subsection (a) of this section, States in which there are more than 2,500 active wells at which annular injection is used as of January 1, 1986, shall include in their State program a certification that a State program exists and is being adequately enforced that provides protectionfrom contaminants which may have any adverse effect on the health of persons and which are associated with the annular injection or surface disposal of brines associated with oil and gas production.
 
 #### (2) "Annular injection" defined
 
@@ -101,9 +101,9 @@ Unless the State program is disapproved under this section, the Administrator sh
 
 The Federal Water Pollution Control Act, referred to in subsec. (f)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat.997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Amendments
 

@@ -156,7 +156,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 #### (1) In general
 
-&emsp;Based on the strategy developed under subsection (c)(1), the technology inventory conducted under subsection (e)(1), the greenhouse gas intensity reducing technology study report submitted under subsection (e)(2), and reports under subsection (f)(3), if any, the Committee shall develop recommendations that would provide for the removal of domestic barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices.
+&emsp;Based on the strategy developed under subsection (c)(1), the technology inventory conducted under subsection (e)(1), the greenhousegas intensity reducing technology study report submitted under subsection (e)(2), and reports under subsection (f)(3), if any, the Committee shall develop recommendations that would provide for the removal of domestic barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices.
 
 #### (2) Requirements
 

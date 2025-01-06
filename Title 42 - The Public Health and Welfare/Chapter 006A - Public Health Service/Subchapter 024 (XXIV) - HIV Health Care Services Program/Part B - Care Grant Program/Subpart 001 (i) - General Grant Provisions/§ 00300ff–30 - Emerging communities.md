@@ -24,7 +24,7 @@ A State that desires a grant under this section shall, as part of the State appl
 
 &emsp;(2) a demonstration of the existing commitment of local resources, both financial and in-kind;
 
-&emsp;(3) a demonstration that the State will maintain HIV-related activities at a level that is equal to not less than the level of such activities in the State for the 1-year period preceding the fiscal year for which the State is applying to receive a grant under section 300ff–21 of this title;
+&emsp;(3) a demonstration that the State will maintain HIV-related activities at a level that is equal to not less than the level of such activities in the State for the 1-year period preceding the fiscal year for which the State isapplying to receive a grant under section 300ff–21 of this title;
 
 &emsp;(4) a demonstration of the ability of the State to utilize such supplemental financial resources in a manner that is immediately responsive and cost effective;
 

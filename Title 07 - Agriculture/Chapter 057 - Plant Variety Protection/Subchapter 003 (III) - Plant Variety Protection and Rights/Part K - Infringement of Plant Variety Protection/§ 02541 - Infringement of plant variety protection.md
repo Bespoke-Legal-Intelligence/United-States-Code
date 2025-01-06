@@ -98,7 +98,7 @@ Subsec. (a)(9), (10). Pub. L. 103–349, §9(1)(F), redesignated pars. (7) and (
 
 Subsecs. (b) to (e). Pub. L. 103–349, §9(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
-Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted "theofficial capacity of the officer or employee" for "his official capacity".
+Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted "the official capacity of the officer or employee" for "his official capacity".
 
 <b>1992</b>—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
 

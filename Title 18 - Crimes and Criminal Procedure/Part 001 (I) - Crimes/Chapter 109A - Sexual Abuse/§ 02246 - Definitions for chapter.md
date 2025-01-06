@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(3) the term "sexual contact" means the intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person;
 
-&emsp;(4) the term "serious bodily injury" means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, orprotracted loss or impairment of the function of a bodily member, organ, or mental faculty;
+&emsp;(4) the term "serious bodily injury" means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty;
 
 &emsp;(5) the term "official detention" means—
 
@@ -52,5 +52,5 @@ Par. (2)(D). Pub. L. 103–322, §40502, added subpar. (D).
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 

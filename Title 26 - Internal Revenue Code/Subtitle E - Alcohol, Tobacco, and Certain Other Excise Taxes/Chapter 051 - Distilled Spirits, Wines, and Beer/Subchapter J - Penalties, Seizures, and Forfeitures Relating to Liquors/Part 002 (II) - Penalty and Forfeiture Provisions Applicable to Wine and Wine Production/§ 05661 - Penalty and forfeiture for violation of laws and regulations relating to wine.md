@@ -6,7 +6,7 @@ Whoever, with intent to defraud the United States, fails to pay any tax imposed 
 
 #### (b) Other offenses
 
-Any proprietor of premises subject to the provisions of subchapter F, or any employee or agent of such proprietor, or any other person, who otherwise than with intent to defraud the United States violates or fails to comply with any provision of subchapter F or subpart C of part I of subchapter A, or regulations issued pursuant thereto, or who aids or abets in any such violation, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
+Any proprietor of premises subject to the provisions of subchapter F, or any employee or agent of such proprietor, or any other person, who otherwise than with intent to defraud the United States violates or fails to comply with any provision of subchapter F or subpart C of part I of subchapter A, or regulations issued pursuant thereto, or who aids or abets in any such violation, shall be fined not more than $1,000, orimprisoned not more than 1 year, or both, for each such offense.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1407.)
 

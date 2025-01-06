@@ -110,7 +110,7 @@ The purposes of this section are—
 
 #### (6) Technical assistance
 
-&emsp;The Attorney General shall provide technical assistance to recipients of grants underthis subsection by entering into a cooperative agreement or contract with a national, nonprofit, nongovernmental organization or organizations whose primary focus and expertise is in addressing sexual assault within culturally specific communities.
+&emsp;The Attorney General shall provide technical assistance to recipients of grants under this subsection by entering into a cooperative agreement or contract with a national, nonprofit, nongovernmental organization or organizations whose primary focus and expertise is in addressing sexual assault within culturally specific communities.
 
 #### (7) Reporting
 
@@ -158,7 +158,7 @@ The purposes of this section are—
 
 #### (4) Application
 
-&emsp;Each eligible entity desiring a grant under this subsection shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General determines to be essential to carry out the purposes of this section.
+&emsp;Each eligible entity desiring a grant under this subsection shall submit an application tothe Attorney General at such time, in such manner, and containing such information as the Attorney General determines to be essential to carry out the purposes of this section.
 
 #### (5) First-time applicants
 
@@ -240,7 +240,7 @@ Subsec. (f)(1). Pub. L. 113–4, §201(b), substituted "$40,000,000 to remain av
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 

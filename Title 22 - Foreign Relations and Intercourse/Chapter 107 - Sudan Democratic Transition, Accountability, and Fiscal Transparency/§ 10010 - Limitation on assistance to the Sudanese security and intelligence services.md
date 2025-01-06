@@ -32,7 +32,7 @@ The President may not provide assistance (other than assistance authorized under
 
 &emsp;&emsp;(C) are under civilian oversight, subject to the rule of law, and are not undertaking actions to undermine a civilian-led transitional government or an elected civilian government;
 
-&emsp;&emsp;(D) have refrained from targeted attacks against religious or ethnic minority groups, have negotiated in good faith during the peace process and constructively participated in the implementation of any resulting peace agreements, and do not impede inclusive political participation;
+&emsp;&emsp;(D) have refrained from targeted attacks against religious or ethnic minority groups,have negotiated in good faith during the peace process and constructively participated in the implementation of any resulting peace agreements, and do not impede inclusive political participation;
 
 &emsp;&emsp;(E) allow unfettered humanitarian access by United Nations organizations and specialized agencies and domestic and international humanitarian organizations to civilian populations in conflict-affected areas;
 

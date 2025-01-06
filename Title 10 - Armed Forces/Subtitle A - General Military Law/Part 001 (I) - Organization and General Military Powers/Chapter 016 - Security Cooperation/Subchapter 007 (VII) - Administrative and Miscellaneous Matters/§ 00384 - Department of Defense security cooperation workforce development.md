@@ -2,7 +2,7 @@
 
 (a)
 
-Program Required.—The Secretary of Defense shall carry out a program to be known as the "Department of Defense Security Cooperation Workforce Development Program" (in this section referred to as the "Program") to oversee the development and management of a professional workforce supporting security cooperation programs and activities of the Department of Defense, including—
+Program Required.—The Secretary of Defense shall carry out a program to be known asthe "Department of Defense Security Cooperation Workforce Development Program" (in this section referred to as the "Program") to oversee the development and management of a professional workforce supporting security cooperation programs and activities of the Department of Defense, including—
 
 &emsp;(1) assessment, planning, monitoring, execution, evaluation, and administration of such programs and activities under this chapter; and
 
@@ -68,7 +68,7 @@ Reporting.—The Secretary of Defense shall ensure that, not less frequently tha
 
 &emsp;(3)
 
-Security cooperation workforce management information system.—The Secretary of Defense, acting through the Director of the Defense Security Cooperation Agency, shallprescribe regulations to ensure that each military department, the Office of the Secretary of Defense, and each combatant command, Defense Agency, Department of Defense Field Activity, and unit of the National Guard provides standardized information and data to the Secretary on persons serving in positions within the security cooperation workforce.
+Security cooperation workforce management information system.—The Secretary of Defense, acting through the Director of the Defense Security Cooperation Agency, shall prescribe regulations to ensure that each military department, the Office of the Secretary of Defense, and each combatant command, Defense Agency, Department of Defense Field Activity, and unit of the National Guard provides standardized information and data to the Secretary on persons serving in positions within the security cooperation workforce.
 
 (e)
 
@@ -230,7 +230,7 @@ Elements.—Each report under paragraph (1) shall—
 
 &emsp;&emsp;(D) produce a comparison between competency proficiency levels against target proficiency levels at enterprise and individual levels to identify competency gaps and gap closure strategies, for competencies needed at the time of the report and in the future;
 
-&emsp;&emsp;(E) identify any exceptions and waivers granted with respect to the application of qualification, assignment, and tenure policies, procedures, and practices to persons, billets or positions;
+&emsp;&emsp;(E) identify any exceptions and waivers granted with respect to the application ofqualification, assignment, and tenure policies, procedures, and practices to persons, billets or positions;
 
 &emsp;&emsp;(F) indicate relative promotion rates for security cooperation workforce personnel;
 

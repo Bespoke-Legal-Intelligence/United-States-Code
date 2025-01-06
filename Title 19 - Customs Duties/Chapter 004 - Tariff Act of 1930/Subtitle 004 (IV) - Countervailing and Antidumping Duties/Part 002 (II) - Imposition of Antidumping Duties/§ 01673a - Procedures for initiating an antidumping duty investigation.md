@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) the domestic producers or workers who support the petition account for at least 25 percent of the total production of the domestic like product, and
 
-&emsp;&emsp;&emsp;(ii) the domestic producers or workers who support the petition account for more than 50 percent of the production of the domestic like product produced by that portion of the industry expressing support for or opposition to the petition.
+&emsp;&emsp;&emsp;(ii) the domestic producers or workers who support the petition account for morethan 50 percent of the production of the domestic like product produced by that portion of the industry expressing support for or opposition to the petition.
 
 #### (B) Certain positions disregarded
 

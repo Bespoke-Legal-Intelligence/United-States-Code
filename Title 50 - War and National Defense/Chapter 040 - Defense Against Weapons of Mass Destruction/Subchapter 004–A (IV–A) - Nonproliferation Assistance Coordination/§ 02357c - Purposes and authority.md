@@ -12,7 +12,7 @@
 
 #### (2) Program monitoring and coordination
 
-&emsp;The coordination mechanism established pursuant to section 2357b of this title should have primary continuing responsibility within the executive branch of the Government for—
+&emsp;The coordination mechanism established pursuant to section 2357b of this title shouldhave primary continuing responsibility within the executive branch of the Government for—
 
 &emsp;&emsp;(A) United States nonproliferation and threat reduction efforts, and particularly such efforts in the independent states of the former Soviet Union; and
 
@@ -20,7 +20,7 @@
 
 #### (b) Authority
 
-In carrying out the responsibilities described in subsection (a), the coordination mechanismestablished pursuant to section 2357b of this title should have, at a minimum, the authority to—
+In carrying out the responsibilities described in subsection (a), the coordination mechanism established pursuant to section 2357b of this title should have, at a minimum, the authority to—
 
 &emsp;(1) establish such subcommittees and working groups as it deems necessary;
 

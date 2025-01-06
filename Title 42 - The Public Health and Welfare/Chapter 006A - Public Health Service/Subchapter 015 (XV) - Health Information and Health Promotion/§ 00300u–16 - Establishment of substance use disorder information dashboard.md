@@ -42,7 +42,7 @@ Pub. L. 115–271, title VII, §7023, Oct. 24, 2018, 132 Stat. 4012, provided th
 
 "(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), in coordination with the Administrator of the Drug Enforcement Administration and the Director of the Office of National DrugControl Policy, shall develop or identify existing national indicators (referred to in this section as the 'national milestones') to measure success in curtailing the opioid crisis, with the goal of significantly reversing the incidence and prevalence of opioid misuse and abuse, and opioid-related morbidity and mortality in the United States within 5 years of such date of enactment.
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), in coordination with the Administrator of the Drug Enforcement Administration and the Director of the Office of National Drug Control Policy, shall develop or identify existing national indicators (referred to in this section as the 'national milestones') to measure success in curtailing the opioid crisis, with the goal of significantly reversing the incidence and prevalence of opioid misuse and abuse, and opioid-related morbidity and mortality in the United States within 5 years of such date of enactment.
 
 "(b)
 

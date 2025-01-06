@@ -38,7 +38,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (2) Services
 
-&emsp;Services provided with a grant under this section shall consist of services appropriate in assisting eligible persons to enhance theirquality of life, enable such individuals to more fully participate in community life, and delay or prevent the placement of such individuals in hospitals or other institutions.
+&emsp;Services provided with a grant under this section shall consist of services appropriate in assisting eligible persons to enhance their quality of life, enable such individuals to more fully participate in community life, and delay or prevent the placement of such individuals in hospitals or other institutions.
 
 #### (c) Use of grants
 
@@ -104,7 +104,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
 

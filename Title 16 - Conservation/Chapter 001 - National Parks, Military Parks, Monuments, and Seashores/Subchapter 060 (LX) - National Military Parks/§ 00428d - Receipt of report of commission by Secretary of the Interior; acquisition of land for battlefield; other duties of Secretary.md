@@ -8,7 +8,7 @@ Upon receipt of the report of said commission the Secretary of the Interior is a
 
 #### Amendments
 
-<b>1930</b>—Act Feb. 18, 1930, inserted "military" between "national" and "park", authorized construction ofroads and walks, planting of trees and shrubs, restoration and care of grounds, including portions of Fort Donelson and Confederate water batteries, and inserted "and the establishment of the national military park" in proviso.
+<b>1930</b>—Act Feb. 18, 1930, inserted "military" between "national" and "park", authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including portions of Fort Donelson and Confederate water batteries, and inserted "and the establishment of the national military park" in proviso.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

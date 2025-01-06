@@ -8,7 +8,7 @@
 
 (3) The President may select one or more Federal agencies that make loans or guarantee the repayment of loans to assist in carrying out the community adjustment and investment program, and may transfer the funds received from the Bank to such agency or agencies for the purpose of assisting in carrying out the community adjustment and investment program.
 
-(4)(A) Each Federal agency selected by the President to assist in carrying out the community adjustment and investment program shall use the funds transferred to it by the President from the Bank to pay for the costs of direct and guaranteed loans, as defined in section 661a of title 2, and, as appropriate, other costs associated with such loans, all subject to the restrictions and limitations that apply to such agency's existing loan or loan guarantee program.
+(4)(A) Each Federal agency selected by the President to assist in carrying out the community adjustment and investment program shalluse the funds transferred to it by the President from the Bank to pay for the costs of direct and guaranteed loans, as defined in section 661a of title 2, and, as appropriate, other costs associated with such loans, all subject to the restrictions and limitations that apply to such agency's existing loan or loan guarantee program.
 
 (B) Funds transferred to an agency under subparagraph (A) shall be in addition to the amount of funds authorized in any appropriations Act to be expended by that agency for its loan or loan guarantee program.
 
@@ -92,7 +92,7 @@ The President shall appoint an ombudsman to provide the public with an opportuni
 
 #### (d) Reporting requirement
 
-The President shall submit to the appropriate congressional committees an annual report on the community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount of the loans made or guaranteed during the 12-month period ending on the day before the date of the report.
+The President shall submit to the appropriate congressional committees an annual report on the community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount ofthe loans made or guaranteed during the 12-month period ending on the day before the date of the report.
 
 (Pub. L. 103–182, title V, §543, Dec. 8, 1993, 107 Stat. 2167; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149; Pub. L. 117–286, §4(a)(163), Dec. 27, 2022, 136 Stat. 4323.)
 
@@ -130,5 +130,5 @@ Functions of President under subsec. (a)(1) to (3) of this section delegated to 
 
 #### Community Adjustment and Investment Program Finance Committee
 
-For provisions establishing the Community Adjustment and Investment Program Finance Committee toassist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§7–9, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
+For provisions establishing the Community Adjustment and Investment Program Finance Committee to assist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§7–9, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
 

@@ -32,7 +32,7 @@ In general.—A carrier providing transportation of a shipment of household good
 
 &emsp;&emsp;(B)
 
-Calculation of prorated charges.—For purposes of subparagraph (A)(iii), the prorated percentage of the charges shall be the percentage of the total charges due to the carrier as described in clause (i) or (ii) of subparagraph (A) that is equal to the percentage of the weight of that portion of the shipment delivered to the total weight of the shipment.
+Calculation of prorated charges.—For purposes of subparagraph (A)(iii), the prorated percentage of the charges shall be the percentage of the total charges due to the carrier as described in clause (i) or (ii) ofsubparagraph (A) that is equal to the percentage of the weight of that portion of the shipment delivered to the total weight of the shipment.
 
 &emsp;&emsp;(C)
 

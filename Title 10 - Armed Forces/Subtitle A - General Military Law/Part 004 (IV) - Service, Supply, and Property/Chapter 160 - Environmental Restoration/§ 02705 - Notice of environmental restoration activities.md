@@ -80,7 +80,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 &emsp;(F) The provision of advice and guidance regarding additional technical assistance for which the community or individual, as the case may be, may be eligible.
 
-(4) In this subsection, the term "covered source" means a private sector source, a Federaldepartment or agency other than the Department of Defense (pursuant to a Federal interagency agreement), or a nonprofit entity (pursuant to a cooperative agreement entered into with such entity).
+(4) In this subsection, the term "covered source" means a private sector source, a Federal department or agency other than the Department of Defense (pursuant to a Federal interagency agreement), or a nonprofit entity (pursuant to a cooperative agreement entered into with such entity).
 
 (f)
 
@@ -138,7 +138,7 @@ Subsec. (h). Pub. L. 108–136, §1043(c)(5), struck out heading and text of sub
 
 &emsp;"(3) Section 2687 of this title."
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section."
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section."
 
 Subsec. (d)(3). Pub. L. 104–106, §324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3)."
 

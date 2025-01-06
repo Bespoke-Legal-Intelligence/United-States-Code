@@ -20,7 +20,7 @@ Each annuity is stated as an annual amount, 1/12 of which, rounded to the next l
 
 &emsp;&emsp;(C) a participant who serves 3 days or less in the month of retirement;
 
-> &emsp;shall commence on the day after separation from the Agency or the day after pay ceases and the service and age or disability requirements for title to annuity are met.
+> &emsp;shall commence on the day after separation from the Agency or the day after pay ceasesand the service and age or disability requirements for title to annuity are met.
 
 #### (3) Other annuities
 

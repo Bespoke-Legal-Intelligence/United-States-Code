@@ -10,7 +10,7 @@ In recognition of the importance of and need for obtaining and maintaining infor
 
 &emsp;(3) data on the changes that have occurred in the status and condition of those resources resulting from various past uses, including the impact of farming technologies, techniques, and practices;
 
-&emsp;(4) data on current Federal, State, and tribal laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
+&emsp;(4) data on current Federal, State, and tribal laws, policies, programs, rights, regulations,ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
 
 &emsp;(5) data on the costs and benefits of alternative soil and water conservation practices;
 
@@ -62,7 +62,7 @@ Subsecs. (d), (e). Pub. L. 110–246, §2804(b)(2)–(4), added subsec. (d), red
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### <b>Executive Documents</b>
 

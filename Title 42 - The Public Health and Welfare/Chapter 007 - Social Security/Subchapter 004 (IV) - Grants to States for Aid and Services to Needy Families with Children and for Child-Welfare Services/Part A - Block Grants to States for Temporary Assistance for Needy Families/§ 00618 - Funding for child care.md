@@ -18,7 +18,7 @@
 
 #### (B) Allotments to States
 
-&emsp;&emsp;The total amount available for payments to States under this paragraph, as determined under subparagraph (A), shall be allotted among the States based on the formula used for determining the amount ofFederal payments to each State under section 603(n) of this title (as in effect before October 1, 1995).
+&emsp;&emsp;The total amount available for payments to States under this paragraph, as determined under subparagraph (A), shall be allotted among the States based on the formula used for determining the amount of Federal payments to each State under section 603(n) of this title (as in effect before October 1, 1995).
 
 #### (C) Federal matching of State expenditures exceeding historical expenditures
 
@@ -78,7 +78,7 @@
 
 #### (2) Use for certain populations
 
-&emsp;A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance tofamilies who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
+&emsp;A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance to families who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
 
 #### (c) Application of Child Care and Development Block Grant Act of 1990
 

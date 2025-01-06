@@ -74,7 +74,7 @@ The Council shall carry out the following duties and responsibilities:
 
 &emsp;(6) To consult, as appropriate, with other elements of the intelligence community that conduct analysis of climate change or climate security and elements of the Federal Government that are not elements of the intelligence community that conduct analysis of climate change or climate security, for the purpose of sharing information about ongoing efforts and avoiding duplication of existing efforts.
 
-&emsp;(7) To work with elements of the intelligence community that conduct analysis of climate change or climate security and elements of the Federal Government that are not elements of the intelligence community that conduct analysis of climate change or climate security—
+&emsp;(7) To work with elements of the intelligence community that conduct analysis of climate change or climate security and elements ofthe Federal Government that are not elements of the intelligence community that conduct analysis of climate change or climate security—
 
 &emsp;&emsp;(A) to exchange appropriate data between such elements, establish processes, procedures and practices for the routine exchange of such data, discuss the implementation of such processes; and
 

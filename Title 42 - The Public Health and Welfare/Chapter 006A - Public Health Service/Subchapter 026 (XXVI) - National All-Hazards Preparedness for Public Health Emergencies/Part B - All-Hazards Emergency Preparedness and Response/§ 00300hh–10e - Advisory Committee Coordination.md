@@ -6,7 +6,7 @@ The Secretary shall coordinate duties and activities authorized under sections 3
 
 #### (b) Coordination and alignment
 
-The Secretary, acting through the employee designated pursuant to section 300hh–16 of thistitle, shall align preparedness and response programs or activities to address similar, dual, or overlapping needs of children, seniors, and individuals with disabilities, and any challenges in preparing for and responding to such needs.
+The Secretary, acting through the employee designated pursuant to section 300hh–16 of this title, shall align preparedness and response programs or activities to address similar, dual, or overlapping needs of children, seniors, and individuals with disabilities, and any challenges in preparing for and responding to such needs.
 
 #### (c) Notification
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Within 75 days after the date of its preliminary determination under section 1673b(b) ofthis title, the administering authority shall make a final determination of whether the subject merchandise is being, or is likely to be, sold in the United States at less than its fair value.
+&emsp;Within 75 days after the date of its preliminary determination under section 1673b(b) of this title, the administering authority shall make a final determination of whether the subject merchandise is being, or is likely to be, sold in the United States at less than its fair value.
 
 #### (2) Extension of period for determination
 
@@ -136,7 +136,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (d) Publication of notice of determinations
 
-Whenever the administering authority or the Commission makes a determination under thissection, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
+Whenever the administering authority or the Commission makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
 
 #### (e) Correction of ministerial errors
 

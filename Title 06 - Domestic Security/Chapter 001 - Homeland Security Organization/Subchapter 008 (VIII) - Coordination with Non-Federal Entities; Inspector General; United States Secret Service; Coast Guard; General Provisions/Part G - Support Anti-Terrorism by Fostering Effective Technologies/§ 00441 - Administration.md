@@ -24,7 +24,7 @@ The Secretary may designate anti-terrorism technologies that qualify for protect
 
 #### (c) Regulations
 
-The Secretary may issue such regulations, after notice and comment in accordance with section 553 of title 5, as may be necessary to carry out this part.
+The Secretary may issue such regulations, after notice and comment in accordance withsection 553 of title 5, as may be necessary to carry out this part.
 
 (Pub. L. 107–296, title VIII, §862, Nov. 25, 2002, 116 Stat. 2238.)
 

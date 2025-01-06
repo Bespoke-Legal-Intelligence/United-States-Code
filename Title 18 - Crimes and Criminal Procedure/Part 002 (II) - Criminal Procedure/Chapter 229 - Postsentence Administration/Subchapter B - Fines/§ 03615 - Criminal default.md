@@ -1,6 +1,6 @@
 ### §3615. Criminal default
 
-Whoever, having been sentenced to pay a fine, willfully fails to pay the fine, shall be fined not more than twice the amount of the unpaid balance of the fine or $10,000, whichever is greater, imprisoned not more than one year, or both.
+Whoever, having been sentenced to pay a fine, willfully fails to pay the fine, shall be fined notmore than twice the amount of the unpaid balance of the fine or $10,000, whichever is greater, imprisoned not more than one year, or both.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2006.)
 

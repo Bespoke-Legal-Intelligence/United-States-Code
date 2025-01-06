@@ -42,7 +42,7 @@
 
 #### (5) Determinations not subject to judicial review
 
-&emsp;Notwithstanding any other provision of law, any determination made by the administering authority under paragraph (2) shall not be subject to judicial review.
+&emsp;Notwithstanding any other provision of law, any determination made by the administeringauthority under paragraph (2) shall not be subject to judicial review.
 
 #### (b) Monitoring by Commission
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall ensure that not less than 1 comprehensive center is established in each of the 10 geographic regions served by the regional educational laboratories established under section 941(h) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such provision existed on the day before November 5, 2002); and
 
-&emsp;&emsp;(B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\] in the population served by the local entity or consortium of such entities.
+&emsp;&emsp;(B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\] inthe population served by the local entity or consortium of such entities.
 
 #### (b) Eligible applicants
 
@@ -40,7 +40,7 @@
 
 #### (d) Allocation
 
-Each comprehensive center established under this section shall allocate such center's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, localeducational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the center.
+Each comprehensive center established under this section shall allocate such center's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, local educational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the center.
 
 #### (e) Scope of work
 
@@ -72,7 +72,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;&emsp;&emsp;(iii) the facilitation of communication between education experts, school officials, teachers, parents, and librarians, as appropriate; and
 
-&emsp;&emsp;(B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, <sup>1</sup> and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\],, <sup>1</sup> to schools, educators, parents, and policymakers within the region in which the center is located; and
+&emsp;&emsp;(B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, <sup>1</sup> and particularly assisting those schools implementing comprehensive support and improvement andtargeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\],, <sup>1</sup> to schools, educators, parents, and policymakers within the region in which the center is located; and
 
 &emsp;&emsp;(C) developing teacher and school leader inservice and preservice training models that illustrate best practices in the use of technology in different content areas.
 

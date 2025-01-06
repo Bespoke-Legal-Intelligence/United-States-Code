@@ -16,7 +16,7 @@ The Ombudsman shall—
 
 &emsp;(1) on an annual basis, conduct a survey of analytic objectivity among officers and employees of the Agency;
 
-&emsp;(2) implement a procedure by which any officer or employee of the Agency may submit to the Office a complaint alleging politicization, bias, lack of objectivity, or other issues relating to a failure of tradecraft in analysis conducted by the Agency;
+&emsp;(2) implement a procedure by which any officer or employee of the Agency may submit tothe Office a complaint alleging politicization, bias, lack of objectivity, or other issues relating to a failure of tradecraft in analysis conducted by the Agency;
 
 &emsp;(3) except as provided in paragraph (4), upon receiving a complaint submitted pursuant to paragraph (2), take reasonable action to investigate the complaint, make a determination as to whether the incident described in the complaint involved politicization, bias, or lack of objectivity, and prepare a report that—
 

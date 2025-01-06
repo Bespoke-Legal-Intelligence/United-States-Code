@@ -76,9 +76,297 @@ Rulemaking.—Not later than 18 months after the date on which the plan required
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 332(a) and (b) of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §341(b)(2), Oct. 5, 2018, 132 Stat. 3287. The dates in subsec. (a)(1) and (3) to (5) reflect those enacted by Pub. L. 112–95, which all precede the date of the enactment of this section by Pub. L. 115–254. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out below.
+Provisions similar to those in this section were contained in section 332(a) and (b) of Pub. L. 112–95, whichwas set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §341(b)(2), Oct. 5, 2018, 132 Stat. 3287. The dates in subsec. (a)(1) and (3) to (5) reflect those enacted by Pub. L. 112–95, which all precede the date of the enactment of this section by Pub. L. 115–254. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out below.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Part 107 Waiver Improvements
+
+Pub. L. 118–63, title IX, §908, May 16, 2024, 138 Stat. 1343, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall adopt a performance- and risk-based approach in reviewing requests for certificates of waiver under section 107.200 of title 14, Code of Federal Regulations.
+
+"(b)
+
+Standardization of Waiver Application.—
+
+&emsp;"(1)
+
+In general.—In carrying out subsection (a), the Administrator shall improve the process to submit requests for certificates of waiver described in subsection (a).
+
+&emsp;"(2)
+
+Format.—In carrying out paragraph (1), the Administrator may not require the use of open-ended descriptive prompts that are required to be filled out by an applicant, except to provide applicants the ability to provide the FAA \[Federal Aviation Administration\] with information for an unusual or irregular operation.
+
+&emsp;"(3)
+
+Data.—
+
+&emsp;&emsp;"(A)
+
+In general.—In carrying out paragraph (1), the Administrator shall leverage data gathered from previous requests for certificates of waivers.
+
+&emsp;&emsp;"(B)
+
+Considerations.—In carrying out subparagraph (A), the Administrator shall safely use—
+
+&emsp;&emsp;&emsp;"(i) big data analytics; and
+
+&emsp;&emsp;&emsp;"(ii) machine learning.
+
+"(c)
+
+Consideration of Property Access.—
+
+&emsp;"(1)
+
+In general.—In determining whether to issue a certificate of waiver under section 107.200 of title 14, Code of Federal Regulations, the Administrator shall—
+
+&emsp;&emsp;"(A) consider whether the waiver applicant has control over access to all real property on the ground within the area of operation; and
+
+&emsp;&emsp;"(B) recognize and account for the safety enhancements of such controlled access.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in this subsection shall be construed to influence the extent to which the Administrator considers a lack of control over access to all real property on the ground within an area of operation as affecting the safety of an operation intended to be conducted under such certificate of waiver.
+
+"(d)
+
+Public Availability of Waivers.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall publish all certificates of waiver issued under section 107.200 of title 14, Code of Federal Regulations, on the website of the FAA, including, with respect to each issued certificate of waiver—
+
+&emsp;&emsp;"(A) the terms, conditions, and limitations; and
+
+&emsp;&emsp;"(B) the class of airspace and any restrictions related to operating near airports or heliports.
+
+&emsp;"(2)
+
+Publication.—In carrying out paragraph (1), the Administrator shall ensure that published information is made available in a manner that prevents inappropriate disclosure of proprietary information.
+
+"(e)
+
+Precedential Use of Previously Approved Waivers.—
+
+&emsp;"(1)
+
+Waiver approval precedent.—If the Administrator determines, using criteria for a particular waiver, that an application for a certificate of waiver issued under section 107.200 of title 14, Code of Federal Regulations, is substantially similar (or is comprised of elements that are substantially similar) to an application for a certificate of waiver that the Administrator has previously approved, the Administrator may streamline, as appropriate, the approval of applications for such a particular waiver.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in paragraph (1) shall be construed to preclude an applicant for a certificate of waiver from applying to modify a condition or remove a limitation of such certificate.
+
+"(f)
+
+Modification of Waivers.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall establish an expedited review process for a request to modify or renew certificates of waiver previously issued under section 107.200 of title 14, Code of Federal Regulations, as appropriate.
+
+&emsp;"(2)
+
+Use of review process.—The review process established under paragraph (1) shall be used to modify or renew certificates of waiver that cover operations that are substantially similar in all material facts to operations covered under a previously issued certificate of waiver."
+
+\[For definition of "certificate of waiver" as used in section 908 of Pub. L. 118–63, set out above, see section 44801 of this title, as made applicable by section 901 of Pub. L. 118–63, which is set out as a note under section 44502 of this title.\]
+
+#### Drone Infrastructure Inspection Grant Program
+
+Pub. L. 118–63, title IX, §912, May 16, 2024, 138 Stat. 1348, provided that:
+
+"(a)
+
+Authority.—Not later than 270 days after the date of enactment of this Act \[May 16, 2024\], the Secretary \[of Transportation\] shall establish an unmanned aircraft system infrastructure inspection grant program to provide grants to governmental entities to facilitate the use of small unmanned aircraft systems to support more efficient inspection, operation, construction, maintenance, and repair of an element of critical infrastructure to improve worker safety related to projects.
+
+"(b)
+
+Use of Grant Amounts.—A governmental entity may use a grant provided under this section to—
+
+&emsp;"(1) purchase or lease small unmanned aircraft systems;
+
+&emsp;"(2) support the operational capabilities of small unmanned aircraft systems used by the governmental entity;
+
+&emsp;"(3) contract for services performed using a small unmanned aircraft system in circumstances in which the governmental entity does not have the resources or expertise to safely carry out or assist in carrying out the activities described under subsection (a); and
+
+&emsp;"(4) support the program management capability of the governmental entity to use or contract the use of a small unmanned aircraft system, as described in paragraph (3).
+
+"(c)
+
+Application.—To be eligible to receive a grant under this section, a governmental entity shall submit to the Secretary an application at such time, in such form, and containing such information as the Secretary may require, including an assurance that the governmental entity or any contractor of the governmental entity, will comply with relevant Federal regulations.
+
+"(d)
+
+Selection of Applicants.—In selecting an application for a grant under this section, the Secretary shall prioritize applications that propose to—
+
+&emsp;"(1) carry out a project in a variety of communities, including urban, suburban, rural, Tribal, or any other type of community; and
+
+&emsp;"(2) address a safety risk in the inspection, operation, construction, maintenance, or repair of an element of critical infrastructure.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed to interfere with an agreement between a governmental entity and a labor union, including the requirements of section 5333(b) of title 49, United States Code.
+
+"(f)
+
+Report to Congress.—Not later than 2 years after the first grant is provided under this section, the Secretary shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report that evaluates the program carried out under this section that includes—
+
+&emsp;"(1) a description of the number of grants provided under this section;
+
+&emsp;"(2) the amount of each grant provided under this section;
+
+&emsp;"(3) the activities carried out with a grant provided under this section; and
+
+&emsp;"(4) the effectiveness of such activities in meeting the objectives described in subsection (a).
+
+"(g)
+
+Funding.—
+
+&emsp;"(1)
+
+Federal share.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), the Federal share of the cost of a project carried out using a grant provided under this section shall not exceed 50 percent of the total project cost.
+
+&emsp;&emsp;"(B)
+
+Waiver.—The Secretary may increase the Federal share under subparagraph (A) to up to 75 percent for a project carried out using a grant provided under this section by a governmental entity if such entity—
+
+&emsp;&emsp;&emsp;"(i) submits a written application to the Secretary requesting an increase in the Federal share; and
+
+&emsp;&emsp;&emsp;"(ii) demonstrates that the additional assistance is necessary to facilitate the acceptance and full use of a grant under this section, such as alleviating economic hardship, meeting additional workforce needs, or any other uses that the Secretary determines to be appropriate.
+
+&emsp;"(2)
+
+Authorization of appropriations.—Out of amounts authorized to be appropriated under section 106(k) of title 49, United States Code, the following amounts are authorized to carry out this section:
+
+&emsp;&emsp;"(A) $12,000,000 for fiscal year 2025.
+
+&emsp;&emsp;"(B) $12,000,000 for fiscal year 2026.
+
+&emsp;&emsp;"(C) $12,000,000 for fiscal year 2027.
+
+&emsp;&emsp;"(D) $12,000,000 for fiscal year 2028.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Critical infrastructure.—The term 'critical infrastructure' has the meaning given such term in subsection (e) of the Critical Infrastructures Protection Act of 2001 (42 U.S.C. 5195c(e)).
+
+&emsp;"(2)
+
+Element of critical infrastructure.—The term 'element of critical infrastructure' means a critical infrastructure facility or asset, including public bridges, tunnels, roads, highways, dams, electric grid, water infrastructure, communication systems, pipelines, or other related facilities or assets, as determined by the Secretary.
+
+&emsp;"(3)
+
+Governmental entity.—The term 'governmental entity' means—
+
+&emsp;&emsp;"(A) a State, the District of Columbia, the Commonwealth of Puerto Rico, a territory of the United States, or a political subdivision thereof;
+
+&emsp;&emsp;"(B) a unit of local government;
+
+&emsp;&emsp;"(C) a Tribal government;
+
+&emsp;&emsp;"(D) a metropolitan planning organization; or
+
+&emsp;&emsp;"(E) a consortia of more than 1 of the entities described in subparagraphs (A) through (D).
+
+&emsp;"(4)
+
+Project.—The term 'project' means a project for the inspection, operation, construction, maintenance, or repair of an element of critical infrastructure, including mitigating environmental hazards to such infrastructure."
+
+\[For definitions of terms used in section 912 of Pub. L. 118–63, set out above, see section 44801 of this title, as made applicable by section 901 of Pub. L. 118–63, which is set out as a note under section 44502 of this title.\]
+
+#### UAS Integration Strategy
+
+Pub. L. 118–63, title IX, §921, May 16, 2024, 138 Stat. 1354, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall implement the recommendations made by—
+
+&emsp;"(1) the Comptroller General \[of the United States\] to the Secretary \[of Transportation\] contained in the report of the Government Accountability Office titled 'Drones: FAA Should Improve Its Approach to Integrating Drones into the National Airspace System', issued in January 2023 (GAO–23–105189); and
+
+&emsp;"(2) the inspector general of the Department of Transportation to the Administrator contained in the audit report of the inspector general titled 'FAA Made Progress Through Its UAS Integration Pilot Program, but FAA and Industry Challenges Remain To Achieve Full UAS Integration', issued in April 2022 (Project ID: AV2022027).
+
+"(b)
+
+Briefing.—Not later than 12 months after the date of enactment of this Act \[May 16, 2024\], and annually thereafter through 2028, the Administrator shall provide a briefing to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] that—
+
+&emsp;"(1) provides a status update on the—
+
+&emsp;&emsp;"(A) implementation of the recommendations described in subsection (a);
+
+&emsp;&emsp;"(B) implementation of statutory provisions related to unmanned aircraft system integration under subtitle B \[§§341–384\] of title III of division B of the FAA Reauthorization Act of 2018 (Public Law 115–254) \[see Tables for classification\]; and
+
+&emsp;&emsp;"(C) actions taken by the Administrator to implement recommendations related to safe integration of unmanned aircraft systems into the national airspace system included in aviation rulemaking committee reports published after the date of enactment of the FAA Reauthorization Act of 2018 (Public Law 115–254) \[Oct. 5, 2018\];
+
+&emsp;"(2) provides a description of steps taken to achieve the safe integration of such systems into the national airspace system, including milestones and performance metrics to track results;
+
+&emsp;"(3) provides the costs of executing the integration described in paragraph (2), including any estimates of future Federal resources or investments required to complete such integration; and
+
+&emsp;"(4) identifies any regulatory or policy changes required to execute the integration described in paragraph (2)."
+
+\[For definition of "unmanned aircraft system" as used in section 921 of Pub. L. 118–63, set out above, see section 44801 of this title, as made applicable by section 901 of Pub. L. 118–63, which is set out as a note under section 44502 of this title.\]
+
+#### Third-Party Service Approvals
+
+Pub. L. 118–63, title IX, §932, May 16, 2024, 138 Stat. 1367, provided that:
+
+"(a)
+
+Approval Process.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall establish procedures, which may include a rulemaking, to approve third-party service suppliers, including third-party service suppliers of unmanned aircraft system traffic management, to support the safe integration and commercial operation of unmanned aircraft systems.
+
+"(b)
+
+Acceptance of Standards.—In establishing the approval process required under subsection (a), the Administrator shall ensure that, to the maximum extent practicable, industry consensus standards, such as ASTM International Standard F3548–21, titled 'UAS Traffic Management (UTM) UAS Service Supplier (USS) Interoperability', are included as an acceptable means of compliance for third-party services.
+
+"(c)
+
+Approvals.—In establishing the approval process required under subsection (a), the Administrator shall—
+
+&emsp;"(1) define and implement criteria and conditions for the approval and oversight of third-party service suppliers that—
+
+&emsp;&emsp;"(A) could have a direct or indirect impact on air traffic services in the national airspace system; and
+
+&emsp;&emsp;"(B) require FAA \[Federal Aviation Administration\] oversight; and
+
+&emsp;"(2) establish procedures by which unmanned aircraft systems can use the capabilities and services of third-party service suppliers to support operations.
+
+"(d)
+
+Harmonization.—In carrying out this section, the Administrator shall seek to harmonize, to the extent practicable and advisable, any requirements and guidance for the development, use, and operation of third-party capabilities and services, including UTM, with similar requirements and guidance of other civil aviation authorities.
+
+"(e)
+
+Coordination.—In carrying out this section, the Administrator shall consider any relevant information provided by the Administrator of the National Aeronautics and Space Administration regarding research and development efforts the National Aeronautics and Space Administration may have conducted related to the use of UTM providers.
+
+"(f)
+
+Third-party Service Supplier Defined.—In this section, the term 'third-party service supplier' means an entity other than the FAA that provides a distributed service that affects the safety or efficiency of the national airspace system, including UAS service suppliers, supplemental data service providers, and infrastructure providers, such as providers of ground-based surveillance, command-and-control, and information exchange to another party.
+
+"(g)
+
+Rules of Construction.—
+
+&emsp;"(1)
+
+Beyond visual line of sight operations.—Nothing in this section shall be construed to prevent or prohibit beyond visual line of sight operations of unmanned aircraft systems, or other types of operations, through the use of technologies other than third-party capabilities and services.
+
+&emsp;"(2)
+
+Airspace.—Nothing in this section shall be construed to alter the authorities provided under section 40103 of title 49, United States Code."
+
+\[For definitions of "unmanned aircraft system" and "UTM" as used in section 932 of Pub. L. 118–63, set out above, see section 44801 of this title, as made applicable by section 901 of Pub. L. 118–63, which is set out as a note under section 44502 of this title.\]
 
 #### Drone Advisory Committee for the 21st Century
 
@@ -290,7 +578,7 @@ Pub. L. 115–254, div. B, title III, §352, Oct. 5, 2018, 132 Stat. 3304, provi
 
 "(a)
 
-Transparency.—Not later than 30 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall publish on the FAA \[Federal Aviation Administration\] website a representative sample of the safety justifications, offered by applicants for small unmanned aircraft system waivers and airspace authorizations, that have been approved by the Administration for each regulation waived or class of airspace authorized, except that any published justification shall not reveal proprietary or commercially sensitive information.
+Transparency.—Not later than 30 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall publish on the FAA \[Federal Aviation Administration\] website a representative sample of the safety justifications, offered by applicants for small unmanned aircraft system waivers and airspace authorizations, that have been approved by the Administration for each regulation waived or class of airspace authorized, exceptthat any published justification shall not reveal proprietary or commercially sensitive information.
 
 "(b)
 
@@ -324,7 +612,7 @@ Best Practices.—The Administrator shall develop best practices for the use of 
 
 #### Treatment of Unmanned Aircraft Operating Underground
 
-Pub. L. 115–254, div. B, title III, §354, Oct. 5, 2018, 132 Stat. 3305, provided that: "An unmanned aircraft system that is operated underground for mining purposes shall not be subject to regulation or enforcement bythe FAA \[Federal Aviation Administration\] under title 49, United States Code."
+Pub. L. 115–254, div. B, title III, §354, Oct. 5, 2018, 132 Stat. 3305, provided that: "An unmanned aircraft system that is operated underground for mining purposes shall not be subject to regulation or enforcement by the FAA \[Federal Aviation Administration\] under title 49, United States Code."
 
 #### Prohibition Regarding Weapons
 
@@ -570,7 +858,7 @@ Restoration of Rules for Registration and Marking of Unmanned Aircraft.—The ru
 
 #### UAS Safety
 
-Pub. L. 114–190, title II, subtitle B, July 15, 2016, 130 Stat. 628, as amended by Pub. L. 115–254, div. B, title III, §§346(b)(3), 369, 383(b)(2), Oct. 5, 2018, 132 Stat. 3295, 3311, 3322, provided that:
+Pub. L. 114–190, title II, subtitle B, July 15, 2016, 130 Stat. 628, as amended by Pub. L. 115–254, div. B, title III, §§346(b)(3), 369, 383(b)(2), Oct. 5, 2018, 132 Stat. 3295, 3311, 3322; Pub. L. 118–63, title IX, §929(a), May 16, 2024, 138 Stat. 1365, provided that:
 
 #### "SEC. 2201. DEFINITIONS.
 
@@ -656,7 +944,7 @@ Utility Restoration.—The Administrator shall enter into agreements with the Se
 
 "(c)
 
-Definition of Utility.—In this section, the term 'utility' shall at a minimum include the definition insection 3(4) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602(4)).
+Definition of Utility.—In this section, the term 'utility' shall at a minimum include the definition in section 3(4) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602(4)).
 
 #### "SEC. 2205. INTERFERENCE WITH WILDFIRE SUPPRESSION, LAW ENFORCEMENT, OR EMERGENCY RESPONSE EFFORT BY OPERATION OF UNMANNED AIRCRAFT.
 
@@ -748,7 +1036,7 @@ Updates.—Not later than 180 days after the date of establishment of the pilot 
 
 "(a)
 
-Applications for Designation.—Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Secretary of Transportation shall establish a process to allow applicants to petition the Administrator of the Federal Aviation Administration to prohibit or restrict the operation of an unmanned aircraft in close proximity to a fixed site facility.
+Applications for Designation.—Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Secretary of Transportation shall establish a process to allow applicants to petition the Administrator of the Federal Aviation Administration to prohibit or restrict, including temporarily, the operation of an unmanned aircraft in close proximity to a fixed site facility.
 
 "(b)
 
@@ -776,7 +1064,7 @@ Considerations.—Only the following may be considered fixed site facilities:
 
 &emsp;&emsp;&emsp;"(iii) Amusement parks.
 
-&emsp;&emsp;&emsp;"(iv) Other locations that warrant such restrictions.
+&emsp;&emsp;&emsp;"(iv) State prisons.
 
 &emsp;"(2)
 
@@ -825,6 +1113,18 @@ Deadlines.—
 &emsp;"(1) Not later than March 31, 2019, the Administrator shall publish a notice of proposed rulemaking to carry out the requirements of this section.
 
 &emsp;"(2) Not later than 12 months after publishing the notice of proposed rulemaking under paragraph (1), the Administrator shall issue a final rule.
+
+"(f)
+
+Deadlines.—
+
+&emsp;"(1) Not later than 90 days after the date of enactment of the FAA Reauthorization Act of 2024 \[May 16, 2024\], the Administrator shall publish a notice of proposed rulemaking to carry out the requirements of this section.
+
+&emsp;"(2) Not later than 16 months after publishing the notice of proposed rulemaking under paragraph (1), the Administrator shall issue a final rule based on the notice of proposed rulemaking published under paragraph (1).
+
+"(g)
+
+Definition of State Prison.—In this section, the term 'State prison' means an institution under State jurisdiction, including a State Department of Corrections, the primary use of which is for the confinement of individuals convicted of a felony.
 
 #### "SEC. 2210. OPERATIONS ASSOCIATED WITH CRITICAL INFRASTRUCTURE.
 
@@ -928,7 +1228,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[July 1
 
 "(a)
 
-Study.—Not later than 30 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Academies to study the potential use of probabilistic assessments of risks by the Administration to streamline the integration ofunmanned aircraft systems into the national airspace system, including any research and development necessary.
+Study.—Not later than 30 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Academies to study the potential use of probabilistic assessments of risks by the Administration to streamline the integration of unmanned aircraft systems into the national airspace system, including any research and development necessary.
 
 "(b)
 
@@ -1030,7 +1330,7 @@ In general.—The term 'test range' means a defined geographic area where resear
 
 &emsp;&emsp;"(B)
 
-Inclusions.—The term 'test range' includes any of the 6 test ranges established by the Administrator of the Federal Aviation Administration under section 332(c), as in effect on the day before the date of enactment of this subparagraph \[July 15, 2016\], and any public entity authorized by the Federal Aviation Administration as an unmannedaircraft system flight test center before January 1, 2009.
+Inclusions.—The term 'test range' includes any of the 6 test ranges established by the Administrator of the Federal Aviation Administration under section 332(c), as in effect on the day before the date of enactment of this subparagraph \[July 15, 2016\], and any public entity authorized by the Federal Aviation Administration as an unmanned aircraft system flight test center before January 1, 2009.
 
 &emsp;"(8)
 
@@ -1124,7 +1424,7 @@ As UAS are integrated into the NAS, the Federal Government will take steps to en
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish transparent principles that govern the Federal Government's use of UAS in the NAS, and to promote the responsible use of this technology in the private and commercial sectors, it is hereby ordered as follows:
 
-Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permitsindividuals to seek access to and amendment of records.
+Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permits individuals to seek access to and amendment of records.
 
 (a) <i>Privacy Protections</i>. Particularly in light of the diverse potential uses of UAS in the NAS, expected advancements in UAS technologies, and the anticipated increase in UAS use in the future, the Federal Government shall take steps to ensure that privacy protections and policies relative to UAS continue to keep pace with these developments. Accordingly, agencies shall, prior to deployment of new UAS technology and at least every 3 years, examine their existing UAS policies and procedures relating to the collection, use, retention, and dissemination of information obtained by UAS, to ensure that privacy, civil rights, and civil liberties are protected. Agencies shall update their policies and procedures, or issue new policies and procedures, as necessary. In addition to requiring compliance with the Privacy Act in applicable circumstances, agencies that collect information through UAS in the NAS shall ensure that their policies and procedures with respect to such information incorporate the following requirements:
 
@@ -1246,7 +1546,7 @@ Sec. 3. <i>Implementation</i>. (a) To implement the Program, the Secretary or th
 
 (iv) the location of critical infrastructure;
 
-(v) the involvement of commercial entities in the proposal, and their ability to advance objectives thatmay serve the public interest as a result of further integration of UAS into the NAS;
+(v) the involvement of commercial entities in the proposal, and their ability to advance objectives that may serve the public interest as a result of further integration of UAS into the NAS;
 
 (vi) the involvement of affected communities in, and their support for, participating in the Program;
 

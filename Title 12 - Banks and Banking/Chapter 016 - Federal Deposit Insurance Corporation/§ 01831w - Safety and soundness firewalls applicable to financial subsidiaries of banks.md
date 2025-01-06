@@ -32,7 +32,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) This chapter
 
-&emsp;No provision of this section shall be construed as superseding the authority of theFederal Deposit Insurance Corporation to review subsidiary activities under section 1831a of this title.
+&emsp;No provision of this section shall be construed as superseding the authority of the Federal Deposit Insurance Corporation to review subsidiary activities under section 1831a of this title.
 
 #### (2) Federal Reserve Act
 

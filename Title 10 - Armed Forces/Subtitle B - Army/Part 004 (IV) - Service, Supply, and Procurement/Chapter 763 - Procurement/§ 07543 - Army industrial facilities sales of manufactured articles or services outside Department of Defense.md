@@ -34,7 +34,7 @@ Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title
 
 Additional Requirements.—The regulations shall also—
 
-&emsp;(1) require that the authority to sell articles or services under the regulations be exercised at the level of the commander of the major subordinate command of the Army with responsibility over the facility concerned;
+&emsp;(1) require that the authority to sell articles or services under the regulations be exercised at the level of the commander of the majorsubordinate command of the Army with responsibility over the facility concerned;
 
 &emsp;(2) authorize a purchaser of articles or services to use advance incremental funding to pay for the articles or services; and
 

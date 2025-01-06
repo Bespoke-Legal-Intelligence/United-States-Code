@@ -40,7 +40,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State education agencies <sup>1</sup> (as defined in section 7801 of title 20), State child care lead agencies (designated under section 9858b of this title), and other relevant State agencies <sup>2</sup>
 
-&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring ordue to bioterrorism, consistent with the requirements of this section;
+&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
 
 &emsp;&emsp;&emsp;(x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
@@ -124,7 +124,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (4) Notification of failures
 
-&emsp;The Secretary shall develop and implement a process to notify entities that are determined by the Secretary to have failed to meet the requirements of paragraph (1) or (2). Such process shall provide such entities with the opportunity to correct such noncompliance. An entity that fails to correct such noncompliance shall be subject to paragraph (5).
+&emsp;The Secretary shall develop and implement a process to notify entities that are determined by the Secretary to have failed to meetthe requirements of paragraph (1) or (2). Such process shall provide such entities with the opportunity to correct such noncompliance. An entity that fails to correct such noncompliance shall be subject to paragraph (5).
 
 #### (5) Withholding of amounts from entities that fail to achieve benchmarks or submit influenza plan
 
@@ -160,7 +160,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (8) Waive or reduce withholding
 
-&emsp;The Secretary may waive or reduce the withholding described in paragraph (6), for asingle entity or for all entities in a fiscal year, if the Secretary determines that mitigating conditions exist that justify the waiver or reduction.
+&emsp;The Secretary may waive or reduce the withholding described in paragraph (6), for a single entity or for all entities in a fiscal year, if the Secretary determines that mitigating conditions exist that justify the waiver or reduction.
 
 #### (h) Funding
 
@@ -256,7 +256,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (C) Finding with respect to District of Columbia
 
-&emsp;&emsp;The Secretary shall consider the District of Columbia to have a significant unmet need for purposes of subparagraph (A), and to face a particularly high degree of risk for such purposes, on the basis of the concentration of entities of national significance located within the District.
+&emsp;&emsp;The Secretary shall consider the District of Columbia to have a significant unmetneed for purposes of subparagraph (A), and to face a particularly high degree of risk for such purposes, on the basis of the concentration of entities of national significance located within the District.
 
 #### (6) Funding of local entities
 
@@ -292,7 +292,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;Each entity receiving funds under this section or section 247d–3b of this title shall, notless often than once every 2 years, audit its expenditures from amounts received under this section or section 247d–3b of this title. Such audits shall be conducted by an entity independent of the agency administering a program funded under this section or section 247d–3b of this title in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the entity shall submit a copy of that audit report to the Secretary.
+&emsp;&emsp;Each entity receiving funds under this section or section 247d–3b of this title shall, not less often than once every 2 years, audit its expenditures from amounts received under this section or section 247d–3b of this title. Such audits shall be conducted by an entity independent of the agency administering a program funded under this section or section 247d–3b of this title in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the entity shall submit a copy of that audit report to the Secretary.
 
 #### (B) Repayment
 
@@ -318,7 +318,7 @@ The Secretary shall compile the data submitted under this section and make such 
 
 &emsp;&emsp;(A) a review of evidence-based benchmarks and objective standards, and associated metrics and targets;
 
-&emsp;&emsp;(B) a discussion of changes to any evidence-based benchmarks and objective standards, and the effect of such changes on the ability to track whether entities are meeting or making progress toward the goals under this section and, to the extent practicable, the applicable goals of the National Health Security Strategy under section 300hh–1 of this title;
+&emsp;&emsp;(B) a discussion of changes to any evidence-based benchmarks and objectivestandards, and the effect of such changes on the ability to track whether entities are meeting or making progress toward the goals under this section and, to the extent practicable, the applicable goals of the National Health Security Strategy under section 300hh–1 of this title;
 
 &emsp;&emsp;(C) a description of amounts received by eligible entities described in subsection (b) and section 247d–3b(b) of this title, and amounts received by subrecipients and the effect of such funding on meeting evidence-based benchmarks and objective standards; and
 
@@ -388,7 +388,7 @@ Subsec. (b)(2)(D). Pub. L. 113–5, §204(b), substituted "section 247d–4(c)(3
 
 Subsec. (f)(2) to (4). Pub. L. 113–5, §202(a)(3), inserted "and" at end of par. (2), substituted period for "; and" at end of par. (3), and struck out par. (4) which read as follows: "disseminate such recommendations and guidance, including through expanding existing lessons learned information systems to create a single Internet-based point of access for sharing and distributing medical and public health best practices and lessons learned from drills, exercises, disasters, and other emergencies."
 
-Subsec. (g)(1)(A). Pub. L. 113–5, §202(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "include outcome goals representing operational achievement of the National Preparedness Goals developed under section 300hh–1(b) of this title; and".
+Subsec. (g)(1)(A). Pub. L. 113–5, §202(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "include outcome goals representing operational achievement of the National PreparednessGoals developed under section 300hh–1(b) of this title; and".
 
 Subsec. (g)(2)(A). Pub. L. 113–5, §202(a)(4)(B), inserted at end "The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1)."
 
@@ -428,7 +428,7 @@ Subsec. (i)(4)(D). Pub. L. 109–417, §201(4)(C), substituted "fiscal year 2006
 
 Subsec. (i)(5)(A). Pub. L. 109–417, §201(4)(D), in introductory provisions, substituted "fiscal year 2007" for "fiscal year 2003" and struck out "(A)(i)(I)" after "paragraph (1)".
 
-Subsec. (i)(6). Pub. L. 109–417, §201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: "For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of publichealth, hospitals (including children's hospitals), clinics, health centers, or primary care facilities, or consortia of such entities."
+Subsec. (i)(6). Pub. L. 109–417, §201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: "For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children's hospitals), clinics, health centers, or primary care facilities, or consortia of such entities."
 
 Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 

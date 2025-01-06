@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligible country to exchange a new obligation for outstanding obligations.
+&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement enteredinto under paragraph (1) with an eligible country to exchange a new obligation for outstanding obligations.
 
 #### (B) Additional requirement
 

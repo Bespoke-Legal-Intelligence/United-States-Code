@@ -48,7 +48,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. My Administration is dedicated to advancing American kidney health. The state of care for patients with chronic kidney disease and end-stage renal disease (ESRD) is unacceptable: too many at-risk patients progress to late-stage kidney failure; the mortality rate is too high; current treatment options are expensive and do not produce an acceptable quality of life; and there are not enough kidneys donated to meet the current demand for transplants.
 
-Kidney disease was the ninth-leading cause of death in the United States in 2017. Approximately 37 million Americans have chronic kidney disease and more than 726,000 have ESRD. More than 100,000 Americans begin dialysis each year to treat ESRD. Twenty percent die within a year; fifty percent die within 5 years. Currently, nearly 100,000 Americans are on the waiting list to receive a kidney transplant.
+Kidney disease was the ninth-leading cause of death in the United States in 2017. Approximately 37 million Americans have chronic kidney disease and more than 726,000 have ESRD. More than 100,000 Americans begin dialysis each year to treat ESRD. Twenty percent diewithin a year; fifty percent die within 5 years. Currently, nearly 100,000 Americans are on the waiting list to receive a kidney transplant.
 
 Sec. 2. <i>Policy</i>. It is the policy of the United States to:
 

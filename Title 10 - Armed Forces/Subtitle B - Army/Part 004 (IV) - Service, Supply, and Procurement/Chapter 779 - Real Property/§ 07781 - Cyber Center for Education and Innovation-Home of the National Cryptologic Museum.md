@@ -14,7 +14,7 @@ Acceptance Authority.—
 
 &emsp;(1)
 
-Acceptance of facility.—If the Foundation constructs the Center pursuant to an agreement with the Foundation under subsection (b), upon satisfactory completion of the Center's construction or any phase thereof, as determined by the Secretary, and upon full satisfaction by the Foundation of any other obligations pursuant to such agreement, the Secretary may accept the Center (or any phase thereof) from the Foundation, and all right, title, and interest in the Center or such phase shall vest in the United States.
+Acceptance of facility.—If the Foundation constructs the Center pursuant to anagreement with the Foundation under subsection (b), upon satisfactory completion of the Center's construction or any phase thereof, as determined by the Secretary, and upon full satisfaction by the Foundation of any other obligations pursuant to such agreement, the Secretary may accept the Center (or any phase thereof) from the Foundation, and all right, title, and interest in the Center or such phase shall vest in the United States.
 
 &emsp;(2)
 

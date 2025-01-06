@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;(2) The term "facility" includes any (A) interest in land, (B) armory, readiness center, or other structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
 
-&emsp;(3) The terms "armory" and "readiness center" mean a structure that houses one or moreunits of a reserve component and is used for training and administering those units. Such terms include a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
+&emsp;(3) The terms "armory" and "readiness center" mean a structure that houses one or more units of a reserve component and is used for training and administering those units. Such terms include a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2232; Pub. L. 85–861, §1(36), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(1), July 12, 1982, 96 Stat. 170; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §18232, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
 

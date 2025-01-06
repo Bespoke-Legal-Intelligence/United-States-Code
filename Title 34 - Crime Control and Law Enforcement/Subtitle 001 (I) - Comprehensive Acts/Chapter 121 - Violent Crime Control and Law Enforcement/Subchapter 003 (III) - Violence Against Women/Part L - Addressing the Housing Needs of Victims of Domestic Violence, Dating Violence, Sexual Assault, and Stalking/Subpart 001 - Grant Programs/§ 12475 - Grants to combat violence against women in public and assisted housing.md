@@ -90,7 +90,7 @@ Each eligible entity seeking a grant under this section shall submit an applicat
 
 #### (A) In general
 
-&emsp;&emsp;All information provided to any housing agency, assisted housing provider, tribally designated housing entity, owner, or manager pursuant to paragraph (1), including the fact that an individual is a victim of domestic violence, dating violence, sexual assault, or stalking, shall be retained in confidence by such agency, and shall neither be entered into any shared database, nor provided to any related housing agency, assisted housing provider, tribally designated housing entity, owner, or manager, except to the extent that disclosure is—
+&emsp;&emsp;All information provided to any housing agency, assisted housing provider, tribally designated housing entity, owner, or manager pursuant to paragraph (1), including the fact that an individual is a victim of domestic violence, dating violence, sexual assault, or stalking, shall be retained in confidence by such agency, and shall neither be entered into any shared database, nor provided toany related housing agency, assisted housing provider, tribally designated housing entity, owner, or manager, except to the extent that disclosure is—
 
 &emsp;&emsp;&emsp;(i) requested or consented to by the individual in writing; or
 

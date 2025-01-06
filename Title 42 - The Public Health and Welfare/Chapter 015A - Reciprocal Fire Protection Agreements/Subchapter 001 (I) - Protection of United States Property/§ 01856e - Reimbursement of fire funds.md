@@ -26,7 +26,7 @@ The Secretary may prescribe the terms and conditions determined to be necessary 
 
 #### (e) Effect on prior reimbursements
 
-Any acceptance of funds or reimbursements made by the Secretary before February 7, 2014, that otherwise would have been authorizedunder this section shall be considered to have been made in accordance with this section.
+Any acceptance of funds or reimbursements made by the Secretary before February 7, 2014, that otherwise would have been authorized under this section shall be considered to have been made in accordance with this section.
 
 (Pub. L. 113–79, title VIII, §8304, Feb. 7, 2014, 128 Stat. 924.)
 

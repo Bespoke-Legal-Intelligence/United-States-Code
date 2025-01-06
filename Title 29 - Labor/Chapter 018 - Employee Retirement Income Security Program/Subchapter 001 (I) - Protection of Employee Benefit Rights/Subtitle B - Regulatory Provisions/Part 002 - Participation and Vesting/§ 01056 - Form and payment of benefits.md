@@ -10,7 +10,7 @@ Each pension plan shall provide that unless the participant otherwise elects, th
 
 &emsp;(3) the participant terminates his service with the employer.
 
-> In the case of a plan which provides for the payment of an early retirement benefit, such plan shall provide that a participant who satisfied the service requirements for such early retirement benefit, but separated from the service (with any nonforfeitable right to an accrued benefit) before satisfying the age requirement for such early retirement benefit, is entitled upon satisfaction of such age requirement to receive a benefit not less than the benefit to which he would be entitled at the normal retirementage, actuarially reduced under regulations prescribed by the Secretary of the Treasury.
+> In the case of a plan which provides for the payment of an early retirement benefit, such plan shall provide that a participant who satisfied the service requirements for such early retirement benefit, but separated from the service (with any nonforfeitable right to an accrued benefit) before satisfying the age requirement for such early retirement benefit, is entitled upon satisfaction of such age requirement to receive a benefit not less than the benefit to which he would be entitled at the normal retirement age, actuarially reduced under regulations prescribed by the Secretary of the Treasury.
 
 #### (b) Decrease in plan benefits by reason of increases in benefit levels under Social Security Act or Railroad Retirement Act of 1937
 
@@ -72,7 +72,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) in the case of any payment before a participant has separated from service, on or after the date on which the participant attains (or would have attained) the earliest retirement age,
 
-&emsp;(II) as if the participant had retired on the date on which such payment is to begin undersuch order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
+&emsp;(II) as if the participant had retired on the date on which such payment is to begin under such order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
 
 &emsp;(III) in any form in which such benefits may be paid under the plan to the participant (other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
 
@@ -176,7 +176,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(v) the amount of the qualified preretirement survivor annuity under the plan is equal to the amount of the survivor annuity payable under the minimum-required qualified joint and survivor annuity.
 
-(B) For purposes of this paragraph, the term "minimum-required qualified joint and survivor annuity" means the qualified joint and survivor annuity which is the actuarial equivalent of the participant's accrued benefit (within the meaning of section 1002(23) of this title) and under which the survivor annuity is 50 percent of the amount of the annuity which is payable during the joint lives of the participant and the spouse.
+(B) For purposes of this paragraph, the term "minimum-required qualified joint and survivor annuity" means the qualified joint and survivorannuity which is the actuarial equivalent of the participant's accrued benefit (within the meaning of section 1002(23) of this title) and under which the survivor annuity is 50 percent of the amount of the annuity which is payable during the joint lives of the participant and the spouse.
 
 #### (e) Limitation on distributions other than life annuities paid by plan
 
@@ -212,7 +212,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) In general
 
-&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitledto an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
+&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
 
 &emsp;&emsp;&emsp;(i) is less than 60 percent, or
 
@@ -254,7 +254,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (C) Exception for certain benefit increases
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant's compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
+&emsp;&emsp;Subparagraph (A) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant's compensation, butonly if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
 
 #### (3) Limitations on accelerated benefit distributions
 
@@ -280,7 +280,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to whichthe limitations under either subparagraph (A) or (B) or this subparagraph applies.
+&emsp;&emsp;&emsp;&emsp;The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to which the limitations under either subparagraph (A) or (B) or this subparagraph applies.
 
 #### (II) Treatment of beneficiaries
 
@@ -318,7 +318,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the adjusted funding target attainment percentage shall be determined by treating as an asset of the plan any security provided by a plan sponsor in a form meeting the requirements of clause (ii).
+&emsp;&emsp;&emsp;For purposes of this subsection, the adjusted funding target attainment percentage shall be determined by treating as anasset of the plan any security provided by a plan sponsor in a form meeting the requirements of clause (ii).
 
 #### (ii) Form of security
 
@@ -352,7 +352,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iii), in any case in which a benefit limitation under paragraph (1), (2), (3), or (4) would (but for this subparagraph and determined without regard to paragraph (1)(B), (2)(B), or (4)(B))apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this chapter as having made an election under section 1083(f) of this title to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
+&emsp;&emsp;&emsp;Subject to clause (iii), in any case in which a benefit limitation under paragraph (1), (2), (3), or (4) would (but for this subparagraph and determined without regard to paragraph (1)(B), (2)(B), or (4)(B)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this chapter as having made an election under section 1083(f) of this title to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
 
 #### (ii) Exception for insufficient funding balances
 
@@ -382,7 +382,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;(i) a benefit limitation under paragraph (1), (2), (3), or (4) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such paragraph to apply to the plan with respect to such preceding plan year, and
 
-&emsp;&emsp;&emsp;(ii) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
+&emsp;&emsp;&emsp;(ii) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actualadjusted funding target attainment percentage of the plan for the current plan year,
 
 > &emsp;&emsp;until the enrolled actuary so certifies, such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.
 
@@ -412,7 +412,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (C) Application to plans which are fully funded without regard to reductions for funding balances
 
-&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), thefunding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
+&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
 
 #### (10) Secretarial authority for plans with alternate valuation date
 
@@ -494,7 +494,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;Subparagraphs (A) through (F) of paragraph (4) shall not apply to protect a participant or beneficiary who is culpable. For purposes of this paragraph, a participant or beneficiary is culpable if the individual bears responsibility for the overpayment (such as through misrepresentations or omissions that led to the overpayment), or if the individual knew that the benefit payment or payments were materially in excess of the correct amount. Notwithstanding the preceding sentence, an individual is not culpable merely because the individual believed the benefit payment or payments were or might be in excess of the correct amount, if the individual raised that question with an authorized plan representative and was told the payment or payments were not in excess of the correct amount.
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047; Pub. L. 117–328, div. T, title III, §§301(a), 339(b), Dec. 29, 2022, 136 Stat. 5335, 5375.)
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10),title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047; Pub. L. 117–328, div. T, title III, §§301(a), 339(b), Dec. 29, 2022, 136 Stat. 5335, 5375.)
 
 #### <b>Editorial Notes</b>
 

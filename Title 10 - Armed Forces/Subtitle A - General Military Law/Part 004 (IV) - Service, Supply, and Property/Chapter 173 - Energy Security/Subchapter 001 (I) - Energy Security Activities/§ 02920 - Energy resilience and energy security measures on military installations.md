@@ -52,9 +52,9 @@ Testing and Measuring.—(1)(A) The Secretary of Defense shall require the Secre
 
 (C) The Secretary of Defense shall—
 
-&emsp;(i) provide uniform policy for the military departments and the Defense Agencies with respect to conducting black start exercises; and
+&emsp;(i) provide uniform policy for the military departments and the Defense Agencies withrespect to conducting black start exercises; and
 
-&emsp;(ii) establish a schedule of black start exercises for the military departments and the Defense Agencies, with each military department and Defense Agency scheduled to conduct such an exercise on a number of installations each year sufficient to allow that military department or Defense Agency to meet the goals of this section, but in any event not fewer than five installations each year for each military department through fiscal year 2027.
+&emsp;(ii) establish a schedule of black start exercises for the military departments and the Defense Agencies, with each military department and Defense Agency scheduled to conduct such an exercise on a number of installations each year sufficient to allow that military department or Defense Agency to meet the goals of this section, but in any event not fewer than five installations each year for each military department through fiscal year 2032.
 
 (D)(i) Except as provided in clause (ii), the Secretary of each military department shall, notwithstanding any other provision of law, conduct black start exercises in accordance with the schedule provided for in subparagraph (C)(ii), with any such exercise not to last longer than five days.
 
@@ -74,7 +74,7 @@ Exception.—This section does not apply to fuels used in aircraft, vessels, or 
 
 (g)
 
-Report.—If by the end of fiscal year 2029, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
+Report.—If by the end of fiscal year 2027, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
 
 &emsp;(1) the projected shortfall;
 
@@ -116,7 +116,15 @@ Definitions.—In this section:
 
 &emsp;(5) The term "installation" has the meaning given the term "military installation" in section 2801(c)(4) of this title.
 
-(Added Pub. L. 116–283, div. A, title III, §316(a), Jan. 1, 2021, 134 Stat. 3516.)
+(Added Pub. L. 116–283, div. A, title III, §316(a), Jan. 1, 2021, 134 Stat. 3516; amended Pub. L. 118–159, div. A, title III, §§313, 314(a), Dec. 23, 2024, 138 Stat. 1851.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (d)(2)(C)(ii). Pub. L. 118–159, §313, substituted "2032" for "2027".
+
+Subsec. (g). Pub. L. 118–159, §314(a), substituted "2027" for "2029" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -144,7 +152,7 @@ Definitions.—In this section:
 
 &emsp;"(A)
 
-Areawide contract.—The term 'areawide contract' means a contract entered into between the General Services Administration and a utility service supplier under section 501 of title 40, United States Code, to procure the utility service needs of Federal agencies within the franchise territory of the supplier.
+Areawide contract.—The term 'areawide contract' means a contract entered into between theGeneral Services Administration and a utility service supplier under section 501 of title 40, United States Code, to procure the utility service needs of Federal agencies within the franchise territory of the supplier.
 
 &emsp;"(B)
 

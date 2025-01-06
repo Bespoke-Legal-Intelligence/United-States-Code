@@ -30,7 +30,7 @@ In this subchapter:
 
 &emsp;The term "hydrographic services" means—
 
-&emsp;&emsp;(A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, shoreline, geodetic, geospatial, geomagnetic, and tide, water level, and current information, including the production of nautical charts, nautical information databases, hydrodynamic forecast and datum transformation models, and other products derived from hydrographic data;
+&emsp;&emsp;(A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, shoreline, geodetic, geospatial, geomagnetic, and tide, water level, and current information, including the production of nautical charts, nautical information databases, hydrodynamic forecast and datum transformation models,and other products derived from hydrographic data;
 
 &emsp;&emsp;(B) the development of nautical information systems; and
 

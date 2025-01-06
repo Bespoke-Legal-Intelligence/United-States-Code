@@ -174,7 +174,7 @@ In general.—An Indian tribe, in any manner that the Indian tribe considers to 
 
 &emsp;&emsp;(B)
 
-Exception.—Notwithstanding subparagraph (A), if, pursuant to subsection (d), anIndian tribe receives a discretionary or competitive grant from the Secretary or receives State apportioned funds, the Indian tribe shall use the funds for the purpose for which the funds were originally authorized.
+Exception.—Notwithstanding subparagraph (A), if, pursuant to subsection (d), an Indian tribe receives a discretionary or competitive grant from the Secretary or receives State apportioned funds, the Indian tribe shall use the funds for the purpose for which the funds were originally authorized.
 
 &emsp;(2)
 
@@ -486,7 +486,7 @@ Effect of circulars, policies, manuals, guidance, and rules.—Unless expressly 
 
 The date of enactment of MAP–21, referred to in subsec. (d)(2)(C)(ii)(II)(aa)(BB), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
-The date of enactment of the FAST Act, referred to in subsecs. (d)(2)(C)(ii)(II)(bb) and (n)(1)(A), is the dateof enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of enactment of the FAST Act, referred to in subsecs. (d)(2)(C)(ii)(II)(bb) and (n)(1)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 

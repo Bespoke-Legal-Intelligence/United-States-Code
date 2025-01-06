@@ -2,9 +2,9 @@
 
 (a) The Office of Personnel Management shall administer this subchapter. Except as otherwise specifically provided herein, the Office shall perform, or cause to be performed, such acts and prescribe such regulations as are necessary and proper to carry out this subchapter.
 
-(b) Applications under this subchapter shall be in such form as the Office prescribes. Agencies shall support the applications by such certificates as the Office considers necessary to the determination of the rights of applicants. The Office shall adjudicate all claims under this subchapter.
+(b) Applications under this subchapter shall be in such form as the Office prescribes. Agenciesshall support the applications by such certificates as the Office considers necessary to the determination of the rights of applicants. The Office shall adjudicate all claims under this subchapter.
 
-(c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability ordependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
+(c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
 
 (d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual or of the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
 #### Regulations; Effective Date of 1996 Amendment
 

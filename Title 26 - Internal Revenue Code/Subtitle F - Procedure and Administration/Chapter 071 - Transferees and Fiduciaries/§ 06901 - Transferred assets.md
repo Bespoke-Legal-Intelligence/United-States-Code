@@ -40,7 +40,7 @@ The period of limitations for assessment of any such liability of a transferee o
 
 #### (2) Transferee of transferee
 
-&emsp;In the case of the liability of a transferee of a transferee, within 1 year after the expirationof the period of limitation for assessment against the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
+&emsp;In the case of the liability of a transferee of a transferee, within 1 year after the expiration of the period of limitation for assessment against the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
 
 > except that if, before the expiration of the period of limitation for the assessment of the liability of the transferee, a court proceeding for the collection of the tax or liability in respect thereof has been begun against the initial transferor or the last preceding transferee, respectively, then the period of limitation for assessment of the liability of the transferee shall expire 1 year after the return of execution in the court proceeding.
 
@@ -64,7 +64,7 @@ For purposes of this section, if any person is deceased, or is a corporation whi
 
 #### (f) Suspension of running of period of limitations
 
-The running of the period of limitations upon the assessment of the liability of a transferee or fiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during which the Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+The running of the period of limitations upon the assessment of the liability of a transferee or fiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during whichthe Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (g) Address for notice of liability
 

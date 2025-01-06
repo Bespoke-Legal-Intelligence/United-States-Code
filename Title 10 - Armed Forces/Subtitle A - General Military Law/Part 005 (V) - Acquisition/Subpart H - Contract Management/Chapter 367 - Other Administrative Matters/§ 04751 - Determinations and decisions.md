@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 116–283, §1864(c)(2), substituted "section 3531(a), 3803
 
 &emsp;"(4) clearly indicate why the application of section 2313(b) of this title to a contract or subcontract with a foreign contractor or foreign subcontractor would not be in the public interest.
 
-> Such a finding is final and shall be kept available in the agency for at least six years after the date of thedetermination or decision. A copy of the finding shall be submitted to the General Accounting Office with each contract to which it applies."
+> Such a finding is final and shall be kept available in the agency for at least six years after the date of the determination or decision. A copy of the finding shall be submitted to the General Accounting Office with each contract to which it applies."
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 inserted "this" after "2305 of".
 

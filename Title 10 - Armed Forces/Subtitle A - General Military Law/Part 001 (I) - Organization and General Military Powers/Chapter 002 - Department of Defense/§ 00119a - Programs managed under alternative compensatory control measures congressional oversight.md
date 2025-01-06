@@ -100,7 +100,7 @@ Limitation on Initiation of Programs Under Accms.—
 
 &emsp;(1)
 
-Notice and wait.—Except as provided in paragraph (2), a program to be managed underalternative compensatory control measures in the Department may not be initiated until—
+Notice and wait.—Except as provided in paragraph (2), a program to be managed under alternative compensatory control measures in the Department may not be initiated until—
 
 &emsp;&emsp;(A) the congressional defense committees are notified of the program; and
 

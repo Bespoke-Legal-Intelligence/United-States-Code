@@ -90,7 +90,7 @@ Coordination.—Selection of performance targets by a State shall be coordinated
 
 &emsp;&emsp;&emsp;(ii)
 
-Public transportation performance targets.—In areas not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d) of title 49.
+Public transportation performance targets.—In areas not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers ofpublic transportation to ensure consistency with sections 5326(c) and 5329(d) of title 49.
 
 &emsp;&emsp;(C)
 
@@ -218,7 +218,7 @@ Financial plan.—The statewide transportation plan may include—
 
 &emsp;(6)
 
-Selection of projects from illustrative list.—A State shall not be required to select any project from the illustrative list ofadditional projects included in the financial plan described in paragraph (5).
+Selection of projects from illustrative list.—A State shall not be required to select any project from the illustrative list of additional projects included in the financial plan described in paragraph (5).
 
 &emsp;(7)
 
@@ -376,7 +376,7 @@ Transportation improvement program approval.—Every 4 years, a transportation i
 
 &emsp;(8)
 
-Planning finding.—A finding shall be made by the Secretary at least every 4 years that the transportation planning process through which statewide transportation plans and programs are developed is consistent with this section and section 134.
+Planning finding.—A finding shall be made by the Secretary at least every 4 yearsthat the transportation planning process through which statewide transportation plans and programs are developed is consistent with this section and section 134.
 
 &emsp;(9)
 
@@ -524,7 +524,7 @@ Subsec. (i). Pub. L. 114–94, §1104(e)(3), substituted "paragraphs (5)(D) and 
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to statewide transportation planning for provisions relating to, in subsec. (a), development of plans and programs by each State, in subsec. (b), coordination of State with Federal planning, in subsec. (c), scope of planning process, in subsec. (d), additional minimum requirements for each State to consider, in subsec. (e), development of a long-range transportation plan, in subsec. (f), development of a State transportation improvement program, in subsec. (g), funding, in subsec. (h), treatment of certain State laws as congestion management systems, and, in subsec. (i), review of plans and programs under the National Environmental Policy Act of 1969.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems."
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the Stateshall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems."
 
 Subsec. (b). Pub. L. 105–178, §1204(b), inserted "and sections 5303 through 5305 of title 49" after "section 134 of this title".
 
@@ -538,7 +538,7 @@ Subsec. (d). Pub. L. 105–178, §1204(d), reenacted heading without change and 
 
 &emsp;"(3) The concerns of Indian tribal governments having jurisdiction over lands within the boundaries of the State."
 
-Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan.In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
+Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
 
 Subsec. (f). Pub. L. 105–178, §1204(f), amended heading and text of subsec. (f) generally. Prior to amendment, text related to transportation improvement programs, including program development, requirement for inclusion of certain projects for State transportation improvement program, project selection for areas less than 50,000 population, and requirement of biennial review and approval.
 
@@ -624,7 +624,7 @@ Required Activities.—The Secretary \[of Transportation\] shall use funds made 
 
 &emsp;"(2) develop methods to demonstrate a wide spectrum of TRANSIMS applications to support local, metropolitan, statewide transportation planning, including integrating highway and transit operational considerations into the transportation Planning process, and estimating the effects of induced travel demand and transit ridership in making transportation conformity determinations where applicable;
 
-&emsp;"(3) provide training and technical assistance with respect to the implementation and application ofTRANSIMS to States, local governments, and metropolitan planning organizations with responsibility for travel modeling;
+&emsp;"(3) provide training and technical assistance with respect to the implementation and application of TRANSIMS to States, local governments, and metropolitan planning organizations with responsibility for travel modeling;
 
 &emsp;"(4) to further develop TRANSIMS for additional applications, including—
 

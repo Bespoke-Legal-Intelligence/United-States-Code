@@ -230,7 +230,7 @@ Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstandi
 
 &emsp;"(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
 
-&emsp;&emsp;"(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or
+&emsp;&emsp;"(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act,and thereafter his entitlement is as prescribed by that section as added by this Act; or
 
 &emsp;&emsp;"(B) at the rate prescribed by section 301a(b) of that title, as added by this Act;
 
@@ -248,7 +248,7 @@ Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: "A yearly repo
 
 #### Delegation of Functions
 
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and HumanServices, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
 
 #### Executive Order No. 11800
 

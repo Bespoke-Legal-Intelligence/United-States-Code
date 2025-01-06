@@ -46,11 +46,11 @@
 
 &emsp;&emsp;The individual—
 
-&emsp;&emsp;&emsp;(i) worked or volunteered onsite in rescue, recovery, debris cleanup, or related support services in lower Manhattan (south of Canal St.), the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning on September 11, 2001, and ending on September 14, 2001, for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001, or for at least 80 hours during the period beginning on September 11, 2001, and ending on July 31, 2002;
+&emsp;&emsp;&emsp;(i) worked or volunteered onsite in rescue, recovery, debris cleanup, or relatedsupport services in lower Manhattan (south of Canal St.), the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning on September 11, 2001, and ending on September 14, 2001, for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001, or for at least 80 hours during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
 &emsp;&emsp;&emsp;(ii)(I) was a member of the Police Department of New York City (whether active or retired) or a member of the Port Authority Police of the Port Authority of New York and New Jersey (whether active or retired) who participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.), including Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning September 11, 2001, and ending on September 14, 2001;
 
-&emsp;&emsp;&emsp;(II) participated onsite in rescue, recovery, debris cleanup, or related services at Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least oneday during the period beginning on September 11, 2001, and ending on July 31, 2002;
+&emsp;&emsp;&emsp;(II) participated onsite in rescue, recovery, debris cleanup, or related services at Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least one day during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
 &emsp;&emsp;&emsp;(III) participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.) for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001; or
 
@@ -150,7 +150,7 @@
 
 <b>2023</b>—Subsec. (a)(2)(C)(i)(III), (IV). Pub. L. 118–31, §1851(a)(2)(A), added subcls. (III) and (IV).
 
-Subsec. (a)(4)(A). Pub. L. 118–31, §1851(a)(2)(B), substituted "Limit" for "In general" in subpar. heading, designated existing provisions as cl. (i) and inserted cl. heading, inserted "or subclause (III) or (IV) of paragraph (2)(C)(i)" after "or (2)(A)(ii)", and added cl. (ii).
+Subsec. (a)(4)(A). Pub. L. 118–31, §1851(a)(2)(B), substituted "Limit" for "In general" in subpar. heading,designated existing provisions as cl. (i) and inserted cl. heading, inserted "or subclause (III) or (IV) of paragraph (2)(C)(i)" after "or (2)(A)(ii)", and added cl. (ii).
 
 Subsec. (a)(4)(B)(i)(II). Pub. L. 118–31, §1851(c)(1), substituted "this subchapter" for "sections 300mm–61 and 300mm–62 of this title".
 

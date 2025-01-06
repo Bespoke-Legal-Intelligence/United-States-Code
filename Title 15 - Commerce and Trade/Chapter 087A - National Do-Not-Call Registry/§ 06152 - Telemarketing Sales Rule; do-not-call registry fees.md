@@ -98,7 +98,7 @@ No person may enter into or participate in an arrangement (as such term is used 
 
 #### (2) Limitation
 
-&emsp;No amount shall be collected as a fee under this section for any fiscal year except to the extent provided in advance by appropriations Acts.
+&emsp;No amount shall be collected as a fee under this section for any fiscal year except to theextent provided in advance by appropriations Acts.
 
 (Pub. L. 108–10, §2, Mar. 11, 2003, 117 Stat. 557; Pub. L. 110–188, §2, Feb. 15, 2008, 122 Stat. 635.)
 

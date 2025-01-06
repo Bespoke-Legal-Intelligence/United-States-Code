@@ -26,5 +26,5 @@ Not less than 30 days before each meeting of the Task Force, the program offices
 
 #### References in Text
 
-This title, referred to in subsec. (c), means title C of division J of Pub. L. 117–263, which enacted this chapterand sections 6401 to 6415 of this title, amended section 7504 of this title, repealed sections 6401 to 6409 of this title, and enacted provisions set out as a note under section 6401 of this title. For complete classification of title C to the Code, see Tables.
+This title, referred to in subsec. (c), means title C of division J of Pub. L. 117–263, which enacted this chapter and sections 6401 to 6415 of this title, amended section 7504 of this title, repealed sections 6401 to 6409 of this title, and enacted provisions set out as a note under section 6401 of this title. For complete classification of title C to the Code, see Tables.
 

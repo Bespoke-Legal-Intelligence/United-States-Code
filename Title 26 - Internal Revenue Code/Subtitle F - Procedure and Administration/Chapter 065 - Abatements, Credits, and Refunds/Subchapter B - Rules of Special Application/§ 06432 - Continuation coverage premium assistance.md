@@ -92,7 +92,7 @@ The Secretary shall issue such regulations, or other guidance, forms, instructio
 
 Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (a)(1), is section 9501(a)(1) of title IX of Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 127, which is set out as a note under section 4980B of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2)(A)(ii), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (g)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(2)(A)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -112,5 +112,5 @@ Pub. L. 117–2, title IX, §9501(b)(1)(C), Mar. 11, 2021, 135 Stat. 136, provid
 
 #### Premium Assistance for COBRA Benefits
 
-Pub. L. 111–5, div. B, title III, §3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, §1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, §3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, §3(a), (b), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031, related to premium assistance for COBRA continuation coverage.
+Pub. L. 111–5, div. B, title III, §3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B,§1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, §3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, §3(a), (b), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031, related to premium assistance for COBRA continuation coverage.
 

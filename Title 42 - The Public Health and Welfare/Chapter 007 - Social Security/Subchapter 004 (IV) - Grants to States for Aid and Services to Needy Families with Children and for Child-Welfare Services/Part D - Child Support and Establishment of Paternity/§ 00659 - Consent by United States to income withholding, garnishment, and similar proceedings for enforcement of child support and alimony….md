@@ -36,7 +36,7 @@ If a governmental entity specified in subsection (a) receives notice or is serve
 
 &emsp;(2) allocation of moneys due or payable to an individual among claimants under section 666(b) of this title shall be governed by section 666(b) of this title and the regulations prescribed under such section; and
 
-&emsp;(3) such moneys as remain after compliance with paragraphs (1) and (2) shall be available to satisfy any other such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
+&emsp;(3) such moneys as remain after compliance with paragraphs (1) and (2) shall be available to satisfy any other such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remainafter the satisfaction of all such processes which have been previously served.
 
 #### (e) No requirement to vary pay cycles
 
@@ -274,7 +274,7 @@ Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in 
 
 Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate with the Federal Parent Locator Service, established under 42 U.S.C. 653, by providing complete, timely and accurate information that will assist in locating noncustodial parents and their employers.
 
-Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offsetpurposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(o)–(u).
+Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(o)–(u).
 
 (b) All Federal agencies shall inform current and prospective employees that crossmatches are routinely made between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
 
@@ -306,7 +306,7 @@ Sec. 402. <i>Additional Federal Agency Actions</i>. (a) OPM and HHS shall jointl
 
 Sec. 501. <i>Internal Management</i>. This order is intended only to improve the internal management of the executive branch with regard to child support enforcement and shall not be interpreted to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its officers, or any other person.
 
-Sec. 502. <i>Sovereignty of the United States Government</i>. This order is intended only to provide that the Federal Government has elected to require Federal agencies to adhere to the same standards as are applicable to all other employers in the Nation and shall not be interpreted as subjecting the Federal Government to any State law or requirement. This order should not be construed as a waiver of the sovereign immunity of the United States Government or of any existing statutory or regulatory provisions, including 42 U.S.C. 659, 662, and 665; 5 CFR Part 581; 42 CFR Part 21, Subpart C; 32 CFR Part 54; and 32 CFR Part 81.
+Sec. 502. <i>Sovereignty of the United States Government</i>. This order is intended only to provide that the Federal Government has elected to require Federal agencies to adhere to the same standards as are applicable to all other employers in the Nation and shall not be interpreted as subjecting the Federal Government to anyState law or requirement. This order should not be construed as a waiver of the sovereign immunity of the United States Government or of any existing statutory or regulatory provisions, including 42 U.S.C. 659, 662, and 665; 5 CFR Part 581; 42 CFR Part 21, Subpart C; 32 CFR Part 54; and 32 CFR Part 81.
 
 Sec. 503. <i>Defense and Security.</i>
 

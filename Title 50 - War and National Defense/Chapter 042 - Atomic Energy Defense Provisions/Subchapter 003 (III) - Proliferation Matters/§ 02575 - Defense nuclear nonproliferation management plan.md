@@ -2,7 +2,7 @@
 
 #### (a) Plan required
 
-The Administrator shall develop and annually update a five-year management plan for activities associated with the defense nuclear nonproliferation programs of the Administration to prevent and counter the proliferation of materials, technology, equipment, and expertise related to nuclear and radiological weapons in order to minimize and address the risk of nuclear terrorism and the proliferation of such weapons.
+The Administrator shall develop and annually update a five-year management plan for activities associated with the defense nuclear nonproliferation programs of the Administration toprevent and counter the proliferation of materials, technology, equipment, and expertise related to nuclear and radiological weapons in order to minimize and address the risk of nuclear terrorism and the proliferation of such weapons.
 
 #### (b) Submission to Congress
 
@@ -60,7 +60,7 @@ The plan required by subsection (a) shall include, with respect to each defense 
 
 &emsp;&emsp;&emsp;(iii) emergency management, including international capacity building.
 
-&emsp;(10) A threat assessment, carried out by the intelligence community (as defined in section 3003(4) of this title), with respect to the risk of nuclear and radiological proliferation and terrorism and a description of how each activity carried out under the program will counter the threat during the five-year period beginning on the date on which the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be, is submitted and, as appropriate, in the longer term.
+&emsp;(10) A threat assessment, carried out by the intelligence community (as defined in section 3003(4) of this title), with respect to the risk of nuclear and radiological proliferation and terrorism and a description of how each activity carried out under the program will counter the threat during the five-year period beginning on the date on which the summary required by paragraph (1) of subsection (b) or the reportrequired by paragraph (2) of that subsection, as the case may be, is submitted and, as appropriate, in the longer term.
 
 &emsp;(11) A plan for funding the program during that five-year period.
 

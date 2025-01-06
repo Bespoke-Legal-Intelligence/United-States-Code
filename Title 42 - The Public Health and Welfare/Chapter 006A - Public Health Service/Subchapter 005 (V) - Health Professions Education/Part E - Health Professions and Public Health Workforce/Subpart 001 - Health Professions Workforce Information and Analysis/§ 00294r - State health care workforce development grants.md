@@ -74,7 +74,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 &emsp;The Administration shall—
 
-&emsp;&emsp;(A) competitively award implementation grants to State partnerships to enable such partnerships to implement activities that will result in a coherent and comprehensive plan for health workforce development thatwill address current and projected workforce demands within the State; and
+&emsp;&emsp;(A) competitively award implementation grants to State partnerships to enable such partnerships to implement activities that will result in a coherent and comprehensive plan for health workforce development that will address current and projected workforce demands within the State; and
 
 &emsp;&emsp;(B) inform the Commission and Congress about the awards made.
 
@@ -118,7 +118,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (A) In general
 
-&emsp;&emsp;A State partnership that receives an implementation grant may reserve not less than 60 percent of the grant funds to make grants to be competitively awarded by the State partnership, consistent with State procurement rules, to encourage regional partnerships to address health care workforce development needs and to promote innovative health care workforce career pathway activities, including career counseling, learning, and employment.
+&emsp;&emsp;A State partnership that receives an implementation grant may reserve not lessthan 60 percent of the grant funds to make grants to be competitively awarded by the State partnership, consistent with State procurement rules, to encourage regional partnerships to address health care workforce development needs and to promote innovative health care workforce career pathway activities, including career counseling, learning, and employment.
 
 #### (B) Eligible partnership duties
 

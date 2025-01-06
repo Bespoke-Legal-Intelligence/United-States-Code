@@ -202,7 +202,7 @@ Project sponsor.—The term "project sponsor" means the Federal land management 
 
 &emsp;(2)
 
-Environmental review to be completed by federal highway administration.—The Federal Highway Administration may prepare an environmental document pursuant to the implementing procedures of the Federal Highway Administration to comply with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) if—
+Environmental review to be completed by federal highway administration.—TheFederal Highway Administration may prepare an environmental document pursuant to the implementing procedures of the Federal Highway Administration to comply with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) if—
 
 &emsp;&emsp;(A) requested by a project sponsor; and
 

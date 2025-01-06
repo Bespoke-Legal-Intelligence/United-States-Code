@@ -98,7 +98,7 @@ In making awards under subsection (d)(2) for pediatric research consortia, the D
 
 &emsp;(1) consider pediatric rare diseases or conditions, or those related to birth defects; and
 
-&emsp;(2) conduct or coordinate one or more multisite clinical trials of therapies for, or approaches to, the prevention, diagnosis, ortreatment of one or more pediatric rare diseases or conditions.
+&emsp;(2) conduct or coordinate one or more multisite clinical trials of therapies for, or approaches to, the prevention, diagnosis, or treatment of one or more pediatric rare diseases or conditions.
 
 #### (f) Transfer of funds
 
@@ -128,7 +128,7 @@ Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should appear at end of subcl. (III).</i>
 

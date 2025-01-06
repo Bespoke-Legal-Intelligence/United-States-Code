@@ -34,11 +34,11 @@
 
 (E) Recipients of grants or contracts made pursuant to this paragraph shall agree to submit a report to the Secretary detailing the results and benefits of the technology demonstration proposed, as required by the Secretary.
 
-(c)(1) In carrying out the responsibilities of the Secretary under this section, the Secretary is authorized to enter into 1 or more cooperative research and development agreements (as defined by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C.3710a)), and 1 or more funding agreements (as defined by section 201(b) of title 35, United States Code), with United States companies for the purpose of—
+(c)(1) In carrying out the responsibilities of the Secretary under this section, the Secretary is authorized to enter into 1 or more cooperative research and development agreements (as defined by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)), and 1 or more funding agreements (as defined by section 201(b) of title 35, United States Code), with United States companies for the purpose of—
 
 &emsp;(A) conducting research to overcome technical and other barriers to the development and construction of practicable high-speed ground transportation systems and to help advance the basic generic technologies needed for these systems; and
 
-&emsp;(B) transferring the research and basic generic technologies described in subparagraph (A) to industry in order to help create a viable commercial high-speed ground transportation industry within the United States.
+&emsp;(B) transferring the research and basic generic technologies described in subparagraph\(A) to industry in order to help create a viable commercial high-speed ground transportation industry within the United States.
 
 (2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
 
@@ -98,7 +98,7 @@
 
 &emsp;(E) an examination of the significant unresolved technical issues surrounding the design, engineering, construction, and operation of high-speed ground transportation systems, including the potential for the use of existing rights-of-way;
 
-&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from the full-scale development of high-speed ground transportation systems; and
+&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use,health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from the full-scale development of high-speed ground transportation systems; and
 
 &emsp;(G) any other technical assessments the Secretary considers important for carrying out this section.
 

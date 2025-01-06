@@ -64,7 +64,7 @@ Amount.—The amount determined under this subparagraph is—
 
 &emsp;&emsp;(i) in the case of a violation involving a transaction, the amount of the transaction, or
 
-&emsp;&emsp;(ii) in the case of a violation involving a failure to report the existence of an account or any identifying information required to be provided with respect to an account, the balance in the account at the time of the violation.
+&emsp;&emsp;(ii) in the case of a violation involving a failure to report the existence of an account or any identifying information required tobe provided with respect to an account, the balance in the account at the time of the violation.
 
 (6)
 
@@ -114,7 +114,7 @@ In general.—The Secretary of the Treasury shall delegate, in accordance with s
 
 &emsp;(2)
 
-Authority of agencies.—Subject to any term or condition imposed by the Secretary of the Treasury under paragraph (3), the provisions of this section shall apply to an appropriate Federal banking agency to which is delegated any authority of the Secretary underthis section in the same manner such provisions apply to the Secretary.
+Authority of agencies.—Subject to any term or condition imposed by the Secretary of the Treasury under paragraph (3), the provisions of this section shall apply to an appropriate Federal banking agency to which is delegated any authority of the Secretary under this section in the same manner such provisions apply to the Secretary.
 
 &emsp;(3)
 
@@ -272,7 +272,7 @@ Subsec. (a)(5)(A). Pub. L. 102–550, §1535(a)(2), inserted "or any person will
 
 Subsec. (a)(6). Pub. L. 102–550, §1561(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "
 
-Negligence.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter."
+Negligence.—The Secretary of the Treasurymay impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter."
 
 Subsec. (a)(7). Pub. L. 102–550, §1511(b), added par. (7).
 

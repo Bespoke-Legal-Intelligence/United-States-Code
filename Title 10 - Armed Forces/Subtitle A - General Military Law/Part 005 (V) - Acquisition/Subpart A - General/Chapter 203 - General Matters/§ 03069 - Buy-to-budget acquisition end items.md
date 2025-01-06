@@ -42,7 +42,7 @@ Definitions.—(1) For the purposes of this section, a quantity of an end item s
 
 &emsp;(A) The term "end item" means a production product assembled, completed, and ready for issue or deployment.
 
-&emsp;(B) The term "head of an agency" means the Secretary of Defense, the Secretary of theArmy, the Secretary of the Navy, and the Secretary of the Air Force.
+&emsp;(B) The term "head of an agency" means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
 
 (Added Pub. L. 107–314, div. A, title VIII, §801(a)(1), Dec. 2, 2002, 116 Stat. 2600, §2308; amended Pub. L. 108–136, div. A, title X, §1043(b)(11), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 114–328, div. A, title VIII, §852, Dec. 23, 2016, 130 Stat. 2296; renumbered §3069 and amended Pub. L. 116–283, div. A, title XVIII, §1807(f), Jan. 1, 2021, 134 Stat. 4159.)
 

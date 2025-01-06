@@ -2,7 +2,7 @@
 
 (a) When two or more persons are the breeders, one person (or the successor of the person) may apply, naming the others.
 
-(b) The Secretary, after such notice as the Secretary may prescribe, may issue a certificateof plant variety protection to the applicant and such of the other breeders (or their successors in interest) as may have subsequently joined in the application.
+(b) The Secretary, after such notice as the Secretary may prescribe, may issue a certificate of plant variety protection to the applicant and such of the other breeders (or their successors in interest) as may have subsequently joined in the application.
 
 (Pub. L. 91–577, title II, §53, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, §13(g), Oct. 6, 1994, 108 Stat. 3143.)
 

@@ -70,7 +70,7 @@ In accordance with subsection (f), after an appraisal investigation is submitted
 
 #### (2) Inclusions
 
-&emsp;To minimize the cost of a rural water supply project to a non-Federal project entity, theSecretary shall include in the criteria methods to scale the level of effort needed to complete the appraisal investigation relative to the total size and cost of the proposed rural water supply project.
+&emsp;To minimize the cost of a rural water supply project to a non-Federal project entity, the Secretary shall include in the criteria methods to scale the level of effort needed to complete the appraisal investigation relative to the total size and cost of the proposed rural water supply project.
 
 #### (e) Review of appraisal investigation
 

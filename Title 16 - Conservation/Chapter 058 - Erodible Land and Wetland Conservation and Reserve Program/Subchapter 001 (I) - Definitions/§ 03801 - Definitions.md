@@ -20,7 +20,7 @@ Conservation plan.—The term "conservation plan" means the document that—
 
 &emsp;&emsp;(B) describes the conservation system applicable to the highly erodible cropland and describes the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule; and
 
-&emsp;&emsp;(C) is approved by the local soil conservation district, in consultation with the local committees established under section 590h(b)(5) of this title and the Secretary, or by the Secretary.
+&emsp;&emsp;(C) is approved by the local soil conservation district, in consultation with the localcommittees established under section 590h(b)(5) of this title and the Secretary, or by the Secretary.
 
 &emsp;(4)
 
@@ -94,7 +94,7 @@ Equations.—Not later than 60 days after the date of enactment of this subparag
 
 Indian tribe.—The term "Indian tribe" has the meaning given the term in section 5304(e) of title 25.
 
-&emsp;(15) The term "in-kind commodities" means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV.
+&emsp;(15) The term "in-kind commodities" means commodities that are normally produced onland that is the subject of an agreement entered into under subchapter IV.
 
 &emsp;(16)
 
@@ -176,7 +176,7 @@ This Act, referred to in subsec. (a)(27), is Pub. L. 99–198, Dec. 23, 1985, 99
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -230,7 +230,7 @@ Pub. L. 110–234, title II, §2904, May 22, 2008, 122 Stat. 1091, and Pub. L. 1
 
 "(a)
 
-Issuance.—Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Secretaryof Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
+Issuance.—Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
 
 "(b)
 
@@ -350,7 +350,7 @@ Permanent Administration.—Effective beginning on the termination date describe
 
 Pub. L. 110–234, title II, §2903(a), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, §4(a), title II, §2903(a), June 18, 2008, 122 Stat. 1664, 1819, provided that: "Except as otherwise provided by an amendment made by this title \[see Tables for classification\], the Secretary of Agriculture shall continue to carry out any program or activity covered by title XII of the Food Security Act (16 U.S.C. 3801 et seq.) until September 30, 2008, using the provisions of law applicable to the program or activity as they existed on the day before the date of the enactment of this Act \[June 18, 2008\] and using funds made available under such title for fiscal year 2008 for the program or activity."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Reform and Assessment of Conservation Programs
 

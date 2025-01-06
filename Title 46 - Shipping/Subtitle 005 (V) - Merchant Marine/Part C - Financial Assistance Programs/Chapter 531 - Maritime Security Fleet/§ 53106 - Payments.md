@@ -12,13 +12,23 @@ In general.—The Secretary, subject to the availability of appropriations and t
 
 &emsp;&emsp;(B) $8,233,463 for fiscal year 2021;
 
-&emsp;&emsp;(C) $5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;
+&emsp;&emsp;(C) $5,300,000 for each of fiscal years 2022, 2023,,<sup>1</sup> and 2024;
 
-&emsp;&emsp;(D) $5,800,000 for each of fiscal years 2026, 2027, and 2028;
+&emsp;&emsp;(D) $6,500,000 for each of fiscal years 2025 and 2026;
 
-&emsp;&emsp;(E) $6,300,000 for each of fiscal years 2029, 2030, and 2031; and
+&emsp;&emsp;(E) $6,675,500 for each of fiscal years 2027 and 2028;
 
-&emsp;&emsp;(F) $6,800,000 for each of fiscal years 2032, 2033, 2034, and 2035.
+&emsp;&emsp;(F) $6,855,000 for each of fiscal years 2029and 2030;
+
+&emsp;&emsp;(G) $7,040,000 for each of fiscal years 2031 and 2032;
+
+&emsp;&emsp;(H) $7,230,000 for each of fiscal years 2033 and 2034;
+
+&emsp;&emsp;(I) $7,426,000 for each of fiscal years 2035 and 2036;
+
+&emsp;&emsp;(J) $7,626,000 for each of fiscal years 2037 and 2038; and
+
+&emsp;&emsp;(K) $7,832,000 for each of fiscal years 2039 and 2040.
 
 &emsp;(2)
 
@@ -50,7 +60,7 @@ Reductions in Payments.—With respect to payments under this chapter for a vess
 
 &emsp;(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
 
-&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, with days during which the vessel isdrydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
 
 (e)
 
@@ -68,11 +78,29 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, §3502(c), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, §3501(b), Jan. 1, 2021, 134 Stat. 4397; Pub. L. 117–263, div. C, title XXXV, §3517(b)(1), Dec. 23, 2022, 136 Stat. 3074.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, §3502(c), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, §3501(b), Jan. 1, 2021, 134 Stat. 4397; Pub. L. 117–263, div. C, title XXXV, §3517(b)(1), Dec. 23, 2022, 136 Stat. 3074; Pub. L. 118–159, div. C, title XXXV, §3502(c), Dec. 23, 2024, 138 Stat. 2304.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(C). Pub. L. 118–159, §3502(c)(1), substituted ", and 2024" for "2024, and 2025".
+
+Subsec. (a)(1)(D). Pub. L. 118–159, §3502(c)(3), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (a)(1)(E). Pub. L. 118–159, §3502(c)(4), substituted "$6,675,500" for "$5,800,000" and "2026, 2027," for "2027".
+
+Pub. L. 118–159, §3502(c)(2), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+
+Subsec. (a)(1)(F). Pub. L. 118–159, §3502(c)(5), substituted "$6,855,000" for "$6,300,000" and "and 2030;" for ", 2030, and 2031; and".
+
+Pub. L. 118–159, §3502(c)(2), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G).
+
+Subsec. (a)(1)(G). Pub. L. 118–159, §3502(c)(6), substituted "$7,040,000" for "$6,800,000" and "2032;" for "2032, 2033, 2034, and 2035.", and inserted "2031 and" before "2032".
+
+Pub. L. 118–159, §3502(c)(2), redesignated subpar. (F) as (G).
+
+Subsec. (a)(1)(H) to (K). Pub. L. 118–159, §3502(c)(7), added subpars. (H) to (K).
 
 <b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 inserted "or section 51307(b)" after "this section".
 
@@ -102,7 +130,7 @@ Subsec. (f). Pub. L. 112–239, §3508(f)(3), struck out subsec. (f). Text read 
 
 <b>2011</b>—Subsec. (a)(1)(C). Pub. L. 111–383 substituted "for each of fiscal years 2012 though 2025" for "for each fiscal years 2012, 2013, 2014, and 2015".
 
-<b>2006</b>—Subsec. (d)(1). Pub. L. 109–304, §13(a)(5)(A), substituted "section 55302(a), 55304, 55305, or 55314 of thistitle, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)".
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–304, §13(a)(5)(A), substituted "section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10" for "section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)".
 
 Subsec. (d)(2). Pub. L. 109–304, §13(a)(5)(B), substituted "section 55302(a), 55305, or 55314 of this title" for "section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f),".
 
@@ -115,4 +143,6 @@ Subsec. (f). Pub. L. 109–364 added subsec. (f).
 #### Effective Date of 2013 Amendment
 
 Amendment by section 3508(f)(2) of Pub. L. 112–239 effective Dec. 31, 2014, see section 3508(j)(2) of Pub. L. 112–239, set out as a note under section 53101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Second comma probably should not appear.</i>
 

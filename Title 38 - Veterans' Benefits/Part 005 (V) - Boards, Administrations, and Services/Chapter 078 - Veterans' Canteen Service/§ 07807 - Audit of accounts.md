@@ -2,7 +2,7 @@
 
 The Service shall maintain a set of accounts which shall be audited by the Comptroller General in accordance with the provisions of chapter 35 of title 31.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, §4207; Pub. L. 93–604, title VII, §704, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 97–295, §4(89), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 97–452, §2(e)(3), Jan. 12, 1983, 96 Stat. 2479; renumbered §7807 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, §4207; Pub. L. 93–604, title VII, §704, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 97–295, §4(89), Oct. 12, 1982, 96Stat. 1312; Pub. L. 97–452, §2(e)(3), Jan. 12, 1983, 96 Stat. 2479; renumbered §7807 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
 
 #### <b>Editorial Notes</b>
 

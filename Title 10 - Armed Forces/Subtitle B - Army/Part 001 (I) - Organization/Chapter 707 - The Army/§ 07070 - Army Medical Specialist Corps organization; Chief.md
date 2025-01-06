@@ -14,7 +14,7 @@
 
 (b) The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above captain and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed.
 
-(c) Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
+(c) Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers inthe Chiropractic Section of the Army Medical Specialist Corps.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 169, §3070; Pub. L. 85–155, title I, §101(2), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(2), (3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(2), (3), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(B), Nov. 8, 1967, 81 Stat. 374; Pub. L. 102–190, div. A, title V, §551(a), Dec. 5, 1991, 105 Stat. 1370; Pub. L. 102–484, div. A, title V, §505(a), Oct. 23, 1992, 106 Stat. 2404; Pub. L. 114–328, div. A, title V, §502(p)(1), (2), Dec. 23, 2016, 130 Stat. 2103; renumbered §7070, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
@@ -76,7 +76,7 @@ Subsec. (c). Pub. L. 90–130 struck out provisions entitling each assistant chi
 
 Subsec. (c). Pub. L. 89–609, §1(3), combined second and third sentences, substituting ", and" for period at end of second sentence and introductory word "She" to third sentence, substituted "An assistant chief" for "She" in fourth sentence, and in fifth sentence substituted "the regular grade held" and "in the section" for "her regular grade" and "in her section", respectively, and struck out "and the pay and allowances" before "of a lieutenant colonel".
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–649, §6(b)(2), struck out provisions which authorized the pay and allowances ofa colonel for Chief of the Army Medical Specialist Corps.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649, §6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
 
 Subsec. (c). Pub. L. 87–649, §6(b)(3), struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
 

@@ -1,0 +1,4 @@
+### §1662a. Repealed. Pub. L. 118–232, §1, Jan. 4, 2025, 138 Stat. 2834
+
+Section, Pub. L. 98–213, §12, Dec. 8, 1983, 97 Stat. 1462, provided that amendments or modifications to the constitution of American Samoa, as approved pursuant to Executive Order 10264 as in effect Jan. 1, 1983, could be made only by Congress.
+

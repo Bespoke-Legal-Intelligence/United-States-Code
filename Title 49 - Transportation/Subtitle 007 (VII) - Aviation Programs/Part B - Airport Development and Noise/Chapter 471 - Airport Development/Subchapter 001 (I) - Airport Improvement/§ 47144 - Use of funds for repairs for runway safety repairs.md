@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may make project grants under this subchapter to an airport described in subsection (b) from funds under section 47114 apportioned to that airport or funds available for discretionary grants to that airport under section 47115 to conduct airport development to repair the runway safety area of the airport damaged as a result ofa natural disaster in order to maintain compliance with the regulations of the Federal Aviation Administration relating to runway safety areas, without regard to whether construction of the runway safety area damaged was carried out using amounts the airport received under this subchapter.
+In General.—The Secretary of Transportation may make project grants under this subchapter to an airport described in subsection (b) from funds under section 47114 apportioned to that airport or funds available for discretionary grants to that airport under section 47115 to conduct airport development to repair the runway safety area of the airport damaged as a result of a natural disaster in order to maintain compliance with the regulations of the Federal Aviation Administration relating to runway safety areas, without regard to whether construction of the runway safety area damaged was carried out using amounts the airport received under this subchapter.
 
 (b)
 
@@ -14,7 +14,7 @@ Airports Described.—An airport is described in this subsection if—
 
 &emsp;(3) the runway safety area of the airport was damaged as a result of a natural disaster;
 
-&emsp;(4) the airport was denied funding under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 4121 et seq.) <sup>1</sup> with respect to the disaster;
+&emsp;(4) the airport was denied funding under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) with respect to the disaster;
 
 &emsp;(5) the operator of the airport has exhausted all legal remedies, including legal action against any parties (or insurers thereof) whose action or inaction may have contributed to the need for the repair of the runway safety area;
 
@@ -22,7 +22,7 @@ Airports Described.—An airport is described in this subsection if—
 
 &emsp;(7) the cost of repairing or replacing the runway safety area is reasonable in relation to the anticipated operational benefit of repairing the runway safety area, as determined by the Administrator of the Federal Aviation Administration.
 
-(Added Pub. L. 115–31, div. K, title I, §119F(a), May 5, 2017, 131 Stat. 734.)
+(Added Pub. L. 115–31, div. K, title I, §119F(a), May 5, 2017, 131 Stat. 734; amended Pub. L. 118–63, title XI, §1101(w), May 16, 2024, 138 Stat. 1414.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,5 +34,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Section 119F(a) of Pub. L. 115–31, which directed amendment of "subchapter I of chapter 471" by adding at the end this section, was executed by adding this section at the end of subchapter I of chapter 471 of this title to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+<b>2024</b>—Subsec. (b)(4). Pub. L. 118–63 substituted "(42 U.S.C. 5121 et seq.)" for "(42 U.S.C. 4121 et seq.)".
 

@@ -14,6 +14,7 @@ subpart 2—other provisions
 - [&sect; 07906a - Prohibition against Federal mandates, direction, or control](%C2%A7%2007906a%20-%20Prohibition%20against%20Federal%20mandates%2C%20direction%2C%20or%20control.md)
 - [&sect; 07907 - Prohibitions on Federal Government and use of Federal funds](%C2%A7%2007907%20-%20Prohibitions%20on%20Federal%20Government%20and%20use%20of%20Federal%20funds.md)
 - [&sect; 07908 - Armed Forces recruiter access to students and student recruiting information](%C2%A7%2007908%20-%20Armed%20Forces%20recruiter%20access%20to%20students%20and%20student%20recruiting%20information.md)
+- [&sect; 07908a - Military recruiter access to secondary school campuses](%C2%A7%2007908a%20-%20Military%20recruiter%20access%20to%20secondary%20school%20campuses.md)
 - [&sect; 07909 - Prohibition on federally sponsored testing](%C2%A7%2007909%20-%20Prohibition%20on%20federally%20sponsored%20testing.md)
 - [&sect; 07910 - Limitations on national testing or certification for teachers, principals, or other school leaders](%C2%A7%2007910%20-%20Limitations%20on%20national%20testing%20or%20certification%20for%20teachers%2C%20principals%2C%20or%20other%20school%20leaders.md)
 - [&sect; 07910a - Prohibition on requiring State participation](%C2%A7%2007910a%20-%20Prohibition%20on%20requiring%20State%20participation.md)

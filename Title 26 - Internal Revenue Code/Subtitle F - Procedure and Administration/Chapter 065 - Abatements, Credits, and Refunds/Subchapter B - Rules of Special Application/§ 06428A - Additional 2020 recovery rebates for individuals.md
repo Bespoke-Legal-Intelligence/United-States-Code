@@ -144,7 +144,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 &emsp;&emsp;&emsp;&emsp;(II) payments made pursuant to section 1619(a) (42 U.S.C. 1382h(a)) or subsections (a)(4), (a)(7), or (p)(7) of section 1631 (42 U.S.C. 1383) of such Act, and
 
-&emsp;&emsp;&emsp;&emsp;(III) State supplementary payments of the type referred to in section 1616(a) ofsuch Act (42 U.S.C. 1382e(a)) (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner under an agreement referred to in such section 1616(a) (or section 212(a) of Public Law 93–66).
+&emsp;&emsp;&emsp;&emsp;(III) State supplementary payments of the type referred to in section 1616(a) of such Act (42 U.S.C. 1382e(a)) (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner under an agreement referred to in such section 1616(a) (or section 212(a) of Public Law 93–66).
 
 #### (ii) Exception
 
@@ -206,7 +206,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 #### (6) Notice to taxpayer
 
-&emsp;As soon as practicable after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, the Secretary shall send notice by mail to such taxpayer's last known address. Such notice shall indicate the method bywhich such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
+&emsp;As soon as practicable after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, the Secretary shall send notice by mail to such taxpayer's last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
 
 #### (g) Identification number requirement
 
@@ -288,7 +288,7 @@ Mirror code possession.—The Secretary of the Treasury shall pay to each posses
 
 &emsp;"(B)
 
-Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect insuch possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.
 
 "(2)
 

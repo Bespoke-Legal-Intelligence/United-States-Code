@@ -24,7 +24,7 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 
 #### References in Text
 
-Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (b), is section 721(a) of act Sept. 8, 1950, ch. 932, as added by Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425, which is classified to section 4565(a) of Title 50, War and National Defense. Section 721(a) of the Act was struck out, and a new section 721(a) was added, by Pub. L. 110–49, §2, July 26, 2007, 121 Stat. 246. As so added, section 721(a) does not refer to investigations by the President or the President's designee.
+Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (b), is section 721(a) of act Sept.8, 1950, ch. 932, as added by Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425, which is classified to section 4565(a) of Title 50, War and National Defense. Section 721(a) of the Act was struck out, and a new section 721(a) was added, by Pub. L. 110–49, §2, July 26, 2007, 121 Stat. 246. As so added, section 721(a) does not refer to investigations by the President or the President's designee.
 
 #### Amendments
 

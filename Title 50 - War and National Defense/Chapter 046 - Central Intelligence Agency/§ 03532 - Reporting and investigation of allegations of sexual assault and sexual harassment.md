@@ -80,7 +80,7 @@ Any person making a report containing an allegation of a sexual assault or sexua
 
 #### (3) Maintenance of privilege
 
-&emsp;The privilege is maintained by the victim. A victim may authorize the Sexual Harassment/Assault Response and Prevention Office employee who received the communication to assert the privilege on his or her behalf, with confidentiality. The Sexual Harassment/Assault Response and Prevention Office employee who received the communication may assert the privilege on behalf of the victim.The authority of such Sexual Harassment/Assault Response and Prevention Office employee to so assert the privilege is presumed in the absence of evidence to the contrary.
+&emsp;The privilege is maintained by the victim. A victim may authorize the Sexual Harassment/Assault Response and Prevention Office employee who received the communication to assert the privilege on his or her behalf, with confidentiality. The Sexual Harassment/Assault Response and Prevention Office employee who received the communication may assert the privilege on behalf of the victim. The authority of such Sexual Harassment/Assault Response and Prevention Office employee to so assert the privilege is presumed in the absence of evidence to the contrary.
 
 #### (4) Exceptions
 
@@ -170,7 +170,7 @@ Any person making a report containing an allegation of a sexual assault or sexua
 
 #### (2) Restricted reports
 
-&emsp;In the case of restricted reports under subsection (d), the Sexual Harassment/Assault Response and Prevention Office shall notify any victims known to have filed a restricted report against an individual known to be the subject of at least one unrestricted allegation of sexual assault or sexual harassment by another reporter that another allegation has been made against the same individual who is the alleged subject of the victim's report atthe time of the victim's initial report or any time thereafter upon receipt of any subsequent unrestricted report under subsection (c) or a common perpetrator notice under paragraph (1) of this subsection.
+&emsp;In the case of restricted reports under subsection (d), the Sexual Harassment/Assault Response and Prevention Office shall notify any victims known to have filed a restricted report against an individual known to be the subject of at least one unrestricted allegation of sexual assault or sexual harassment by another reporter that another allegation has been made against the same individual who is the alleged subject of the victim's report at the time of the victim's initial report or any time thereafter upon receipt of any subsequent unrestricted report under subsection (c) or a common perpetrator notice under paragraph (1) of this subsection.
 
 #### (h) Applicability
 
@@ -232,5 +232,5 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(2)(D), is Pub. L. 88–
 
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (d)(2)(D), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(2)(D), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(2)(D), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally tosubchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

@@ -22,5 +22,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Presentation of Flag for Prior Recipients of Medal of Honor
 
-President to provide for the presentation of the Medal of Honor Flag to living recipients of the Medal of Honor as expeditiously as possible after Oct. 17, 2006, and for posthumous presentation to survivors of deceased recipients upon written application therefor, see section 555(b) of Pub. L. 109–364, set out as a note under section 7285 of this title.
+President to provide for the presentation of the Medal of Honor Flag to living recipients of the Medalof Honor as expeditiously as possible after Oct. 17, 2006, and for posthumous presentation to survivors of deceased recipients upon written application therefor, see section 555(b) of Pub. L. 109–364, set out as a note under section 7285 of this title.
 

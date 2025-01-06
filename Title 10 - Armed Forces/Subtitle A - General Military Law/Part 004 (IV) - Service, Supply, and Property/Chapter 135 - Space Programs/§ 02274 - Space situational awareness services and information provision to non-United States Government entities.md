@@ -58,7 +58,7 @@ Immunity.—The United States, any agencies and instrumentalities thereof, and a
 
 Notice of Concerns of Disclosure of Information.—If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
 
-(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, \[div. A\], title IX, §911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, §912(a), Oct. 28, 2009, 123 Stat. 2429; Pub.L. 115–232, div. A, title XVI, §1604(a), Aug. 13, 2018, 132 Stat. 2106.)
+(Added Pub. L. 108–136, div. A, title IX, §913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, §912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, \[div. A\], title IX, §911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, §912(a), Oct. 28, 2009, 123 Stat. 2429; Pub. L. 115–232, div. A, title XVI, §1604(a), Aug. 13, 2018, 132 Stat. 2106.)
 
 #### <b>Editorial Notes</b>
 
@@ -70,7 +70,7 @@ A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 designated existing provisions as par. (1), substituted "Except as provided by paragraph (2), the Secretary of Defense may" for "The Secretary of Defense may", and added par. (2).
 
-<b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section related to space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government.
+<b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section related to space surveillancenetwork: pilot program for provision of satellite tracking support to entities outside United States Government.
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted "September 30, 2010" for "September 30, 2009".
 

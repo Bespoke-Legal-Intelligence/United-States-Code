@@ -14,7 +14,7 @@ A direct loan (including a microloan, as defined by the Secretary) may be made u
 
 &emsp;(5) paying loan closing costs;
 
-&emsp;(6) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State under a plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer orrancher is likely to suffer substantial economic injury in complying with the standard;
+&emsp;(6) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State under a plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer or rancher is likely to suffer substantial economic injury in complying with the standard;
 
 &emsp;(7) training a limited-resource borrower receiving a loan under section 1934 of this title in maintaining records of farming and ranching operations;
 
@@ -76,7 +76,7 @@ A loan may be guaranteed under this subchapter only for—
 
 &emsp;&emsp;(B) $5,000; or
 
-&emsp;&emsp;(C) the amount needed to provide for the basic family needs of the borrower and the borrower's immediate family for 3 calendar months.
+&emsp;&emsp;(C) the amount needed to provide for the basic family needs of the borrower and theborrower's immediate family for 3 calendar months.
 
 #### (e) Valuation of local or regional crops
 
@@ -154,5 +154,5 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Construction of 1991 Amendment
 
-Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law."
+Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade ActAmendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law."
 

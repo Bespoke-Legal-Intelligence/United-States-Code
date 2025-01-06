@@ -40,7 +40,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(C) granting to such individual official authorization or license to engage in a rescue activity, or in the provision of emergency medical services, as a member of a rescue squad, or as a member of an ambulance crew that is (or is a part of) the agency or entity that is sponsoring the individual's enrollment or admission;
 
-&emsp;(3) "blind" means an individual who has central visual acuity of 20/200 or less in the better eye with the use of a correcting lens or whose eye is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees;
+&emsp;(3) "blind" means an individual who has central visual acuity of 20/200 or less in the better eye with the use of a correcting lens or whose eye is accompanied by a limitation in the fields of vision such that the widest diameterof the visual field subtends an angle no greater than 20 degrees;
 
 &emsp;(4) "catastrophic injury" means an injury, the direct and proximate result of which is to permanently render an individual functionally incapable (including through a directly and proximately resulting neurocognitive disorder), based on the state of medicine on the date on which the claim is determined by the Bureau, of performing work, including sedentary work: Provided, That, if it appears that a claimant may be functionally capable of performing work—
 
@@ -104,7 +104,7 @@ As used in this subchapter—
 
 &emsp;(14) "public safety officer" means—
 
-&emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actionsoutside of jurisdiction taken by any such law enforcement officer or firefighter, to have been taken while serving such public agency in such capacity, in any case in which the principal legal officer of such public agency, and the head of such agency, together, certify that such actions—
+&emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actions outside of jurisdiction taken by any such law enforcement officer or firefighter, to have been taken while serving such public agency in such capacity, in any case in which the principal legal officer of such public agency, and the head of such agency, together, certify that such actions—
 
 &emsp;&emsp;&emsp;(i) were not unreasonable;
 
@@ -150,7 +150,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) managing the immediate consequences of a radiological release or exposure.
 
-(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 116–22, title III, §301(d)(2), June 24, 2019, 133 Stat. 933; Pub. L. 116–283, div. C, title XXXI, §3142, Jan. 1, 2021, 134 Stat. 4386; Pub. L. 117–61, §3, Nov. 18, 2021, 135 Stat. 1475; Pub. L. 117–172, §4(b), Aug. 16, 2022, 136 Stat. 2101.)
+(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 116–22, title III, §301(d)(2), June 24, 2019, 133 Stat.933; Pub. L. 116–283, div. C, title XXXI, §3142, Jan. 1, 2021, 134 Stat. 4386; Pub. L. 117–61, §3, Nov. 18, 2021, 135 Stat. 1475; Pub. L. 117–172, §4(b), Aug. 16, 2022, 136 Stat. 2101.)
 
 #### <b>Editorial Notes</b>
 
@@ -160,7 +160,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Codification
 
-Par. (14)(F) of this section, which was originally enacted as par. (9)(E) by section 301(d)(2) of Pub. L. 116–22,ceased to have force or effect on Oct. 1, 2021. Prior to being omitted, par. (14)(F) included within the definition of public safety officer an individual appointed to the National Disaster Medical System under section 300hh–11 of Title 42, The Public Health and Welfare, performing official duties of the Department of Health and Human Services that were related to responding to a public health emergency, potential public health emergency, or other activities for which the National Disaster Medical System was activated and that were determined by the Secretary of Health and Human Services to be hazardous.
+Par. (14)(F) of this section, which was originally enacted as par. (9)(E) by section 301(d)(2) of Pub. L. 116–22, ceased to have force or effect on Oct. 1, 2021. Prior to being omitted, par. (14)(F) included within the definition of public safety officer an individual appointed to the National Disaster Medical System under section 300hh–11 of Title 42, The Public Health and Welfare, performing official duties of the Department of Health and Human Services that were related to responding to a public health emergency, potential public health emergency, or other activities for which the National Disaster Medical System was activated and that were determined by the Secretary of Health and Human Services to be hazardous.
 
 Section was formerly classified to section 3796b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 

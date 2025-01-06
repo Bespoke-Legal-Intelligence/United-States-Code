@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to any United States firm which is competing for, orhas been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
+The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to any United States firm which is competing for, or has been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
 
 &emsp;(1) certify to the Secretary that such assistance is not otherwise reasonably and expeditiously available; and
 
@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) United States
 
-&emsp;The term "United States", when used in a geographical sense, means the several States of the United States and the District of Columbia.
+&emsp;The term "United States", when used in a geographical sense, means the several Statesof the United States and the District of Columbia.
 
 (Pub. L. 100–676, §9, Nov. 17, 1988, 102 Stat. 4024; Pub. L. 101–640, title III, §318(c), Nov. 28, 1990, 104 Stat. 4642.)
 

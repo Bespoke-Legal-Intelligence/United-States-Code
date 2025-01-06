@@ -80,7 +80,7 @@ Meetings.—The Council shall meet not less frequently than quarterly, as well a
 
 "(6)
 
-Briefings.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\] and every 180 days thereafter for four years, the Council shall brief the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and Committee on Energy and Commerce of the House of Representatives on the actions and activities of the Council."
+Briefings.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\] and every 180 days thereafter for four years, the Councilshall brief the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and Committee on Energy and Commerce of the House of Representatives on the actions and activities of the Council."
 
 \[Nothing in section 7116(a) of Pub. L. 117–263, set out above, to be construed to affect or diminish the authority otherwise granted to any other officer of the Department of Homeland Security, see section 7116(c) of Pub. L. 117–263, set out as a note under section 349 of this title.\]
 

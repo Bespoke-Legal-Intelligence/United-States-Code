@@ -32,7 +32,7 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### (C) Practitioner
 
-&emsp;&emsp;For purposes of subparagraph (B), the term "practitioner" means any individual in good standing who is regulated under section 330 of title 31, United States Code.
+&emsp;&emsp;For purposes of subparagraph (B), the term "practitioner" means any individual in goodstanding who is regulated under section 330 of title 31, United States Code.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724; Pub. L. 116–25, title II, §2302, July 1, 2019, 133 Stat. 1013.)
 

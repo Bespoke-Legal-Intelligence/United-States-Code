@@ -40,7 +40,7 @@ Establishment and Transmission of List of Approved Annuity Brokers.—Not later 
 
 "(b)
 
-Authority To Select Annuity Broker for Structured Settlements.—In any structured settlement that is not negotiated exclusively through the Civil Division of the Department of Justice, the United States Attorney (or his designee) involved in any settlement negotiations shall have the exclusive authority to select an annuity broker from the list of such brokers established by the Attorney General, provided that all documents related to any settlement comply with Department of Justice requirements."
+Authority To Select Annuity Broker for Structured Settlements.—In any structured settlement that is not negotiated exclusively through the Civil Division of the Department of Justice, the United States Attorney (or his designee) involved in any settlement negotiations shall have the exclusive authority to select an annuity broker from the list of such brokers established by the Attorney General, providedthat all documents related to any settlement comply with Department of Justice requirements."
 
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
@@ -90,7 +90,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (e) <i>Sanctions</i>. Litigation counsel shall take steps to seek sanctions against opposing counsel and opposing parties where appropriate.
 
-(1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petition the court to impose sanctions against those responsible for abusive practices.
+(1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petitionthe court to impose sanctions against those responsible for abusive practices.
 
 (2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motions for sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
 
@@ -142,7 +142,7 @@ Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do N
 
 (J) specifies whether State courts have jurisdiction under the law and, if so, whether and under what conditions an action would be removable to Federal court;
 
-(K) specifies whether administrative proceedings are to be required before parties may file suit in court and,if so, describes those proceedings and requires the exhaustion of administrative remedies;
+(K) specifies whether administrative proceedings are to be required before parties may file suit in court and, if so, describes those proceedings and requires the exhaustion of administrative remedies;
 
 (L) sets forth the standards governing the assertion of personal jurisdiction, if any;
 
@@ -176,7 +176,7 @@ Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do N
 
 Sec. 4. <i>Principles to Promote Just and Efficient Administrative Adjudications.</i>
 
-(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States, entitled "Case Management as a Tool for Improving Agency Adjudication," as contained in 1 C.F.R. 305.86-7 (1991).
+(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States,entitled "Case Management as a Tool for Improving Agency Adjudication," as contained in 1 C.F.R. 305.86-7 (1991).
 
 (b) <i>Improvements in Administrative Adjudication</i>. All Federal agencies should review their administrative adjudicatory processes and develop specific procedures to reduce delay in decision-making, to facilitate self-representation where appropriate, to expand non-lawyer counseling and representation where appropriate, and to invest maximum discretion in fact-finding officers to encourage appropriate settlement of claims as early as possible.
 
@@ -204,7 +204,7 @@ Sec. 8. <i>Scope.</i>
 
 (b) <i>Application of Notice Provision</i>. Notice pursuant to subsection (a) of section 1 is not required (1) in any action to seize or forfeit assets subject to forfeiture or in any action to seize property; (2) in any bankruptcy, insolvency, conservatorship, receivership, or liquidation proceeding; (3) when the assets that are the subject of the action or that would satisfy the judgment are subject to flight, dissipation, or destruction; (4) when the defendant is subject to flight; (5) when, as determined by litigation counsel, exigent circumstances make providing such notice impracticable or such notice would otherwise defeat the purpose of the litigation, such as in actions seeking temporary restraining orders or preliminary injunctive relief; or (6) in those limited classes of cases where the Attorney General determines that providing such notice would defeat the purpose of the litigation.
 
-(c) <i>Additional Guidance as to Scope</i>. The Attorney General shall have the authority to issue further guidanceas to the scope of this order, except section 3, consistent with the purposes of this order.
+(c) <i>Additional Guidance as to Scope</i>. The Attorney General shall have the authority to issue further guidance as to the scope of this order, except section 3, consistent with the purposes of this order.
 
 Sec. 9. <i>Conflicts with Other Rules</i>. Nothing in this order shall be construed to require litigation counsel or any agency to act in a manner contrary to the Federal Rules of Civil Procedure \[28 U.S.C. App.\], Tax Court Rules of Practice and Procedure, State or Federal law, other applicable rules of practice or procedure, or court order.
 

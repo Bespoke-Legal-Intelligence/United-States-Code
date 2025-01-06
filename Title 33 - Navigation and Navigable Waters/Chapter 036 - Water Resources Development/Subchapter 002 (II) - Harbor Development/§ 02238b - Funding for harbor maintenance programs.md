@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;(J) For fiscal year 2024, 95 percent of the total amount of harbor maintenance taxes received in fiscal year 2023.
 
-&emsp;&emsp;(K) For fiscal year 2025, and each fiscal year thereafter, 100 percent of the total amount of harbor maintenance taxes received in the previous fiscal year.
+&emsp;&emsp;(K) For fiscal year 2025, and each fiscal year thereafter, 100 percent of the totalamount of harbor maintenance taxes received in the previous fiscal year.
 
 #### (2) Use of amounts
 

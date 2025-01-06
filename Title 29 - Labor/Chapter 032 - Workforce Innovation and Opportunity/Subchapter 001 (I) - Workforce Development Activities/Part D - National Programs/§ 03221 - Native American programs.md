@@ -34,7 +34,7 @@ As used in this section:
 
 #### (c) Program authorized
 
-Every 4 years, the Secretary shall, on a competitive basis, make grants to, or enter into contracts or cooperative agreements with, Indian tribes, tribal organizations, Alaska Native entities, Indian-controlled organizations serving Indians, or Native Hawaiian organizations to carry out the authorized activities described in subsection (d).
+Every 4 years, the Secretary shall, on a competitive basis, make grants to, or enter into contracts or cooperative agreements with, Indian tribes, tribal organizations, Alaska Native entities, Indian-controlled organizations serving Indians, or Native Hawaiian organizations to carryout the authorized activities described in subsection (d).
 
 #### (d) Authorized activities
 
@@ -76,7 +76,7 @@ In order to receive a grant or enter into a contract or cooperative agreement un
 
 #### (f) Consolidation of funds
 
-Each entity receiving assistance under subsection (c) may consolidate such assistance withassistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).<sup>1</sup>
+Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).<sup>1</sup>
 
 #### (g) Nonduplicative and nonexclusive services
 
@@ -118,7 +118,7 @@ Nothing in this section shall be construed—
 
 &emsp;The Secretary shall consult with the entities described in subsection (c) in—
 
-&emsp;&emsp;(A) establishing regulations to carry out this section, including regulations relating to the performance accountability measures for entities receiving assistance under this section; and
+&emsp;&emsp;(A) establishing regulations to carry out this section, including regulations relatingto the performance accountability measures for entities receiving assistance under this section; and
 
 &emsp;&emsp;(B) developing a funding distribution plan that takes into consideration previous levels of funding (prior to July 22, 2014) to such entities.
 

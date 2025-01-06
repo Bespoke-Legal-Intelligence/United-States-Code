@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (2) Qualified health plan expenses
 
-&emsp;For purposes of this subsection, the term "qualified health plan expenses" meansamounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
+&emsp;For purposes of this subsection, the term "qualified health plan expenses" means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
 
 #### (3) Allocation rules
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (B) Registered apprenticeship program
 
-&emsp;&emsp;The term "registered apprenticeship program" means an apprenticeship registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.) that meets the standards of subpart A of part 29 and part 30 of title 29, Code of Federal Regulations.
+&emsp;&emsp;The term "registered apprenticeship program" means an apprenticeship registered under the Act of August 16, 1937 (commonlyknown as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.) that meets the standards of subpart A of part 29 and part 30 of title 29, Code of Federal Regulations.
 
 #### (C) Apprenticeship program contribution rate
 

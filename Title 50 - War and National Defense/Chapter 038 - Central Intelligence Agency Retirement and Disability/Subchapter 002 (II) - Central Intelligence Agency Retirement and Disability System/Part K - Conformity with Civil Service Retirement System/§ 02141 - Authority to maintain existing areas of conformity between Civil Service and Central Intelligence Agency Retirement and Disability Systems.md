@@ -12,7 +12,7 @@
 
 #### (2) Extension to CIARDS
 
-&emsp;Any such order shall extend such provision of law so that it applies in like manner with respect to such Central Intelligence Agency Retirement and Disability System participants, former participants, or survivors.
+&emsp;Any such order shall extend such provision of law so that it applies in like manner withrespect to such Central Intelligence Agency Retirement and Disability System participants, former participants, or survivors.
 
 #### (3) Legal status
 

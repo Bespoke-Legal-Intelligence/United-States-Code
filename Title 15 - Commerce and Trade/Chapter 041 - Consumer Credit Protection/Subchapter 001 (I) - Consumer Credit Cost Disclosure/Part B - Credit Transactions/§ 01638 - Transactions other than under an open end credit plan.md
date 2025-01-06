@@ -34,7 +34,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the "total sale price", using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "total sale price" shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "totalsale price" shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
@@ -56,7 +56,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(16) In the case of a variable rate residential mortgage loan for which an escrow or impound account will be established for the payment of all applicable taxes, insurance, and assessments—
 
-&emsp;&emsp;(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount ofsuch initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and
+&emsp;&emsp;(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount of such initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and
 
 &emsp;&emsp;(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.
 
@@ -72,7 +72,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
-(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
+(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup>shall be in addition to the other disclosures required by subsection (a), and shall—
 
 &emsp;(i) state in conspicuous type size and format, the following: "You are not required to complete this agreement merely because you have received these disclosures or signed a loan application."; and
 
@@ -118,7 +118,7 @@ In general.—In the case of any consumer credit transaction secured by a first 
 
 &emsp;(B)
 
-Assessment value.—The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
+Assessment value.—The amount taken into account under subparagraph (A) for thepayment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
@@ -214,7 +214,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(M) that the borrower—
 
-&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IVof the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
+&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
 
 &emsp;&emsp;&emsp;(ii) may obtain additional information concerning such assistance from their institution of higher education or the website of the Department of Education;
 
@@ -418,7 +418,7 @@ Variable interest rates.—Subparagraph (C) of section 128(b)(2) of the Truth in
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1980 Amendment
 

@@ -142,7 +142,7 @@ Elements.—The strategic plan required by subsection (a) shall—
 
 "(a)
 
-In General.—Commencing not later than 18 months after the date of the enactment of this Act \[June 7, 2022\], the Secretary of Veterans Affairs shall carry out a pilot program to provide telescreening mammography services for veterans who live in—
+In General.—Commencing not later than 18 months after the date of the enactment of this Act\[June 7, 2022\], the Secretary of Veterans Affairs shall carry out a pilot program to provide telescreening mammography services for veterans who live in—
 
 &emsp;"(1) States where the Department of Veterans Affairs does not offer breast imaging services at a facility of the Department; or
 

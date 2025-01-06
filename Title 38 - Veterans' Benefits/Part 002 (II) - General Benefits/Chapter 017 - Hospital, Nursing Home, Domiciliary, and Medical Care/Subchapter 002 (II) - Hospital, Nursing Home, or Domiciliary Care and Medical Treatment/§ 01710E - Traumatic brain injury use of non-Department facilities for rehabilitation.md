@@ -20,7 +20,7 @@ Authorities of State Protection and Advocacy Systems.—Nothing in subtitle C of
 
 (d)
 
-Standards.—The Secretary may not provide treatment or services as described in subsection (a) at a non-Department facility under such subsection unless such facility maintains standards for the provision of such treatment or services established by an independent, peer-reviewed organization that accredits specialized rehabilitation programs for adults with traumatic brain injury.
+Standards.—The Secretary may not provide treatment or services as described in subsection (a) at a non-Department facility under such subsection unless such facility maintainsstandards for the provision of such treatment or services established by an independent, peer-reviewed organization that accredits specialized rehabilitation programs for adults with traumatic brain injury.
 
 (Added Pub. L. 110–181, div. A, title XVII, §1703(a), Jan. 28, 2008, 122 Stat. 489; amended Pub. L. 111–163, title V, §509, May 5, 2010, 124 Stat. 1162; Pub. L. 112–154, title I, §107(c), Aug. 6, 2012, 126 Stat. 1173.)
 
@@ -28,7 +28,7 @@ Standards.—The Secretary may not provide treatment or services as described in
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Actprobably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 #### Amendments
 

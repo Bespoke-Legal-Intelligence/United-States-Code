@@ -24,7 +24,7 @@ The Center shall—
 
 &emsp;&emsp;(B) interoperable emergency communications;
 
-&emsp;(3) consider, in preparing the strategic assessment under paragraph (2), the goals statedin the National Emergency Communications Plan under section 572 of this title; and
+&emsp;(3) consider, in preparing the strategic assessment under paragraph (2), the goals stated in the National Emergency Communications Plan under section 572 of this title; and
 
 &emsp;(4) perform such other functions as are provided in the Emergency Communications Preparedness Center (ECPC) Charter described in subsection (b)(1).<sup>1</sup>
 

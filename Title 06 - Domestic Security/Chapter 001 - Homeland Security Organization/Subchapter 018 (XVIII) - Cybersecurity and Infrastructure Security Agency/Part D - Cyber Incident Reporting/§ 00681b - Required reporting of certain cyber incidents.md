@@ -34,7 +34,7 @@
 
 #### (A) Reporting of covered cyber incident with ransom payment
 
-&emsp;&emsp;If a covered entity is the victim of a covered cyber incident and makes a ransompayment prior to the 72 hour requirement under paragraph (1), such that the reporting requirements under paragraphs (1) and (2) both apply, the covered entity may submit a single report to satisfy the requirements of both paragraphs in accordance with procedures established in the final rule issued pursuant to subsection (b).
+&emsp;&emsp;If a covered entity is the victim of a covered cyber incident and makes a ransom payment prior to the 72 hour requirement under paragraph (1), such that the reporting requirements under paragraphs (1) and (2) both apply, the covered entity may submit a single report to satisfy the requirements of both paragraphs in accordance with procedures established in the final rule issued pursuant to subsection (b).
 
 #### (B) Substantially similar reported information
 
@@ -112,7 +112,7 @@ The final rule issued pursuant to subsection (b) shall be composed of the follow
 
 &emsp;&emsp;&emsp;&emsp;(II) an operational technology system or process; or
 
-&emsp;&emsp;&emsp;(iii) unauthorized access or disruption of business or industrial operations due toloss of service facilitated through, or caused by, a compromise of a cloud service provider, managed service provider, or other third-party data hosting provider or by a supply chain compromise;
+&emsp;&emsp;&emsp;(iii) unauthorized access or disruption of business or industrial operations due to loss of service facilitated through, or caused by, a compromise of a cloud service provider, managed service provider, or other third-party data hosting provider or by a supply chain compromise;
 
 &emsp;&emsp;(B) consider—
 
@@ -150,7 +150,7 @@ The final rule issued pursuant to subsection (b) shall be composed of the follow
 
 &emsp;&emsp;(E) The name and other information that clearly identifies the covered entity impacted by the covered cyber incident, including, as applicable, the State of incorporation or formation of the covered entity, trade names, legal names, or other identifiers.
 
-&emsp;&emsp;(F) Contact information, such as telephone number or electronic mail address, that the Agency may use to contact the covered entity or an authorized agent of such covered entity, or, where applicable, the service provider of such covered entity acting with the express permission of, and at the direction of, the covered entity to assist with compliance with the requirements of this part.
+&emsp;&emsp;(F) Contact information, such as telephone number or electronic mail address, that the Agency may use to contact the covered entity or an authorized agent of such covered entity, or, where applicable, the service provider of such covered entity acting with theexpress permission of, and at the direction of, the covered entity to assist with compliance with the requirements of this part.
 
 &emsp;(5) A clear description of the specific required contents of a report pursuant to subsection (a)(2), which shall be the following information, to the extent applicable and available, with respect to a ransom payment:
 
@@ -224,7 +224,7 @@ The final rule issued pursuant to subsection (b) shall be composed of the follow
 
 #### (1) In general
 
-&emsp;The Agency shall conduct an outreach and education campaign to inform likely covered entities, entities that offer or advertise as a service to customers to make or facilitate ransom payments on behalf of covered entities impacted by ransomware attacks and other appropriate entities of the requirements of paragraphs (1), (2), and (3) of subsection (a).
+&emsp;The Agency shall conduct an outreach and education campaign to inform likely covered entities, entities that offer or advertise as aservice to customers to make or facilitate ransom payments on behalf of covered entities impacted by ransomware attacks and other appropriate entities of the requirements of paragraphs (1), (2), and (3) of subsection (a).
 
 #### (2) Elements
 

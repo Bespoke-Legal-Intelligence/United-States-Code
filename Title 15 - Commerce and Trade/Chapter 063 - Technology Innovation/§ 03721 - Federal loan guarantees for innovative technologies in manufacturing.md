@@ -46,7 +46,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (A) In general
 
-&emsp;&emsp;If a borrower defaults (as defined in regulations promulgated by the Secretary andspecified in the loan guarantee) on the obligation, the holder of the loan guarantee shall have the right to demand payment of the unpaid amount from the Secretary.
+&emsp;&emsp;If a borrower defaults (as defined in regulations promulgated by the Secretary and specified in the loan guarantee) on the obligation, the holder of the loan guarantee shall have the right to demand payment of the unpaid amount from the Secretary.
 
 #### (B) Payment required
 
@@ -142,7 +142,7 @@ The Secretary shall issue final regulations before making any loan guarantees un
 
 #### (2) Report
 
-&emsp;The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of theHouse of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+&emsp;The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 #### (n) Report to Congress
 

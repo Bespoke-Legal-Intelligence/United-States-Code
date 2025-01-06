@@ -34,7 +34,7 @@ After January 1, 2008, the head of a Federal agency may not grant or renew a sec
 
 #### (1) In general
 
-&emsp;After January 1, 2008, absent an express written waiver granted in accordance withparagraph (2), the head of a Federal agency may not grant or renew a security clearance described in paragraph (3) for a covered person who—
+&emsp;After January 1, 2008, absent an express written waiver granted in accordance with paragraph (2), the head of a Federal agency may not grant or renew a security clearance described in paragraph (3) for a covered person who—
 
 &emsp;&emsp;(A) has been convicted in any court of the United States of a crime, was sentenced to imprisonment for a term exceeding 1 year, and was incarcerated as a result of that sentence for not less than 1 year;
 

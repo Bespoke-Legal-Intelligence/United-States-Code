@@ -68,6 +68,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—STOP HARBORING IRANIAN PETROLEUM
+
+|  |  |
+| :--- | ---: |
+| [8571\.](Subchapter%20006%20%28VI%29%20-%20Stop%20Harboring%20Iranian%20Petroleum/%C2%A7%2008571%20-%20Statement%20of%20policy.md) | Statement of policy. |
+| [8572\.](Subchapter%20006%20%28VI%29%20-%20Stop%20Harboring%20Iranian%20Petroleum/%C2%A7%2008572%20-%20Imposition%20of%20sanctions%20with%20respect%20to%20Iranian%20petroleum.md) | Imposition of sanctions with respect to Iranian petroleum. |
+| [8573\.](Subchapter%20006%20%28VI%29%20-%20Stop%20Harboring%20Iranian%20Petroleum/%C2%A7%2008573%20-%20Report%20on%20Iranian%20petroleum%20and%20petroleum%20products%20exports.md) | Report on Iranian petroleum and petroleum products exports. |
+| [8574\.](Subchapter%20006%20%28VI%29%20-%20Stop%20Harboring%20Iranian%20Petroleum/%C2%A7%2008574%20-%20Strategy%20to%20counter%20role%20of%20the%20People%27s%20Republic%20of%20China%20in%20evasion%20of%20sanctions%20with%20respect%20to%20Iran.md) | Strategy to counter role of the People's Republic of China in evasion of sanctions with respect to Iran. |
+| [8575\.](Subchapter%20006%20%28VI%29%20-%20Stop%20Harboring%20Iranian%20Petroleum/%C2%A7%2008575%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -79,3 +91,4 @@
 - [Subchapter 003 (III) - Prevention of Diversion of Certain Goods, Services, and Technologies to Iran](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Diversion%20of%20Certain%20Goods%2C%20Services%2C%20and%20Technologies%20to%20Iran/README.md)
 - [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)
 - [Subchapter 005 (V) - Masih Alinejad Harassment and Unlawful Targeting](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/README.md)
+- [Subchapter 006 (VI) - Stop Harboring Iranian Petroleum](Subchapter%20006%20%28VI%29%20-%20Stop%20Harboring%20Iranian%20Petroleum/README.md)

@@ -16,7 +16,7 @@ Congress finds as follows:
 
 &emsp;(6) Research suggests that sexual assault victims who receive counseling support are more likely to report their attack to the police and to participate in the prosecution of the offender.
 
-&emsp;(7) Due in part to the combined efforts of law enforcement officials at the local, State, andFederal level, as well as the efforts of the Rape, Abuse \& Incest National Network (RAINN) and its affiliated rape crisis centers across the United States, sexual violence in America has fallen by more than half since 1994.
+&emsp;(7) Due in part to the combined efforts of law enforcement officials at the local, State, and Federal level, as well as the efforts of the Rape, Abuse \& Incest National Network (RAINN) and its affiliated rape crisis centers across the United States, sexual violence in America has fallen by more than half since 1994.
 
 &emsp;(8) RAINN, a 501(c)(3) nonprofit corporation headquartered in the District of Columbia, has since 1994 provided help to victims of sexual assault and educated the public about sexual assault prevention, prosecution, and recovery.
 
@@ -90,7 +90,7 @@ There is authorized to be appropriated to the Administrator to carry out this se
 
 #### References in Text
 
-The Victims of Crime Act, referred to in subsec. (a)(5), probably means the Victims of Crime Act of 1984,which is chapter XIV of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2170, and which is classified principally to chapter 201 (§20101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
+The Victims of Crime Act, referred to in subsec. (a)(5), probably means the Victims of Crime Act of 1984, which is chapter XIV of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2170, and which is classified principally to chapter 201 (§20101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
 
 The Violence Against Women Act, referred to in subsec. (a)(5), probably means the Violence Against Women Act of 1994, which is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 

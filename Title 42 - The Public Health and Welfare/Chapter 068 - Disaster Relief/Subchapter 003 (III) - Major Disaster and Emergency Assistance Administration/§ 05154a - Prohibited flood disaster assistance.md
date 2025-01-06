@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (3) Property described
 
-&emsp;For purposes of paragraph (1), a property is described in this paragraph if it is personal, commercial, or residential property for which Federal disaster relief assistance made available in a flood disaster area has been provided, prior to the date on which the property istransferred, for repair, replacement, or restoration of the property, if such assistance was conditioned upon obtaining flood insurance in accordance with applicable Federal law with respect to such property.
+&emsp;For purposes of paragraph (1), a property is described in this paragraph if it is personal, commercial, or residential property for which Federal disaster relief assistance made available in a flood disaster area has been provided, prior to the date on which the property is transferred, for repair, replacement, or restoration of the property, if such assistance was conditioned upon obtaining flood insurance in accordance with applicable Federal law with respect to such property.
 
 #### (c) Omitted
 

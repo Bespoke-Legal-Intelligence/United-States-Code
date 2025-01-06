@@ -22,7 +22,7 @@ The Secretary shall establish, maintain, and operate a program with respect to i
 
 #### (d) Data bank on clinical trials and treatments
 
-(1) After consultation with the Commissioner of Food and Drugs, the AIDS Research Advisory Committee established under section 300cc–3 of this title, and the Director of the Office of AIDS Research, the Secretary shall, in carrying out subsection (a), establish a data bank of information on clinical trials and treatments with respect to infection with the etiologic agent foracquired immune deficiency syndrome (hereafter in this section referred to as the "Data Bank").
+(1) After consultation with the Commissioner of Food and Drugs, the AIDS Research Advisory Committee established under section 300cc–3 of this title, and the Director of the Office of AIDS Research, the Secretary shall, in carrying out subsection (a), establish a data bank of information on clinical trials and treatments with respect to infection with the etiologic agent for acquired immune deficiency syndrome (hereafter in this section referred to as the "Data Bank").
 
 (2) In carrying out paragraph (1), the Secretary shall collect, catalog, store, and disseminate the information described in such paragraph. The Secretary shall disseminate such information through information systems available to individuals infected with the etiologic agent for acquired immune deficiency syndrome, to other members of the public, to health care providers, and to researchers.
 
@@ -34,7 +34,7 @@ The Data Bank shall include the following:
 
 &emsp;(2) Information pertaining to experimental treatments for acquired immune deficiency syndrome that may be available under a treatment investigational new drug application that has been submitted to the Food and Drug Administration pursuant to part 312 of title 21, Code of Federal Regulations. The Data Bank shall also include information pertaining to the results of clinical trials of such treatments, with the consent of the sponsor, of such experimental treatments, including information concerning potential toxicities or adverse effects associated with the use or administration of such experimental treatment.
 
-(July 1, 1944, ch. 373, title XXIII, §2317, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3071; amended Pub. L. 100–690, title II, §2617(c), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(19), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XX, §2008(d)(4), June 10, 1993, 107 Stat. 212.)
+(July 1, 1944, ch. 373, title XXIII, §2317, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3071; amended Pub. L. 100–690, title II,§2617(c), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(19), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XX, §2008(d)(4), June 10, 1993, 107 Stat. 212.)
 
 #### <b>Editorial Notes</b>
 

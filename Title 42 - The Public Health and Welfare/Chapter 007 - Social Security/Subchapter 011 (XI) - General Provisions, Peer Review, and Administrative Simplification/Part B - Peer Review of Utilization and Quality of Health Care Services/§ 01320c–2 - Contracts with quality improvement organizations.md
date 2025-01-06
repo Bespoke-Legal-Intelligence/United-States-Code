@@ -30,7 +30,7 @@ Each contract with an organization under this section shall provide that—
 
 &emsp;(4) the Secretary shall include in the contract negotiated objectives against which the organization's performance will be judged, and negotiated specifications for use of regional norms, or modifications thereof based on national norms, for performing review functions under the contract; and
 
-&emsp;(5) reimbursement shall be made to the organization on a monthly basis, with payments for any month being made consistent with the Federal Acquisition Regulation.
+&emsp;(5) reimbursement shall be made to the organization on a monthly basis, with paymentsfor any month being made consistent with the Federal Acquisition Regulation.
 
 > In evaluating the performance of quality improvement organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
 
@@ -84,13 +84,13 @@ Subsec. (b)(3)(A). Pub. L. 112–40, §261(b)(1)(D)(i), struck out ", or associ
 
 Subsec. (b)(3)(B). Pub. L. 112–40, §261(b)(1)(D)(ii)(II), struck out "or associations" after "one or more of such facilities".
 
-Pub. L. 112–40, §261(b)(1)(D)(ii)(I), which directed striking out "or association of such facilities", was executed by striking out "or association of facilities" after "facility", to reflect the probable intent of Congress.
+Pub. L. 112–40, §261(b)(1)(D)(ii)(I), which directed striking out "or association of such facilities", was executed by striking out "or association of facilities"after "facility", to reflect the probable intent of Congress.
 
 Subsec. (b)(4). Pub. L. 112–40, §261(b)(3)(A), added par. (4).
 
 Subsec. (c). Pub. L. 112–40, §261(a)(2)(C), substituted "quality improvement" for "utilization and quality control peer review" in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, ormay subcontract for the performance of all or some of such functions".
+Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, or may subcontract for the performance of all or some of such functions".
 
 Subsec. (c)(3). Pub. L. 112–40, §261(b)(2), substituted "five years and shall be renewable for terms of five years" for "three years and shall be renewable on a triennial basis".
 
@@ -162,7 +162,7 @@ Pub. L. 100–203, title IV, §4094(d)(2), Dec. 22, 1987, 101 Stat. 1330–137, 
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–509, title IX, §9352(c)(1), Oct. 21, 1986, 100 Stat. 2044, provided that: "The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\] not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\]."
+Pub. L. 99–509, title IX, §9352(c)(1), Oct. 21, 1986, 100 Stat. 2044, provided that: "The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section1395h of this title\] not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\]."
 
 Pub. L. 99–272, title IX, §9402(c)(2), Apr. 7, 1986, 100 Stat. 200, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\]."
 

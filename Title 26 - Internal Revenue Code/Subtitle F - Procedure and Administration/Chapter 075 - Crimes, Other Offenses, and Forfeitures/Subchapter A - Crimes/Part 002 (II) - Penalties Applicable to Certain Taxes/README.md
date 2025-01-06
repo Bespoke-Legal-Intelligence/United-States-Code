@@ -26,7 +26,7 @@ Pub. L. 100–418, title I, §1941(b)(3)(F), Aug. 23, 1988, 102 Stat. 1324, stru
 
 <b>1980</b>—Pub. L. 96–223, title I, §101(e)(2), Apr. 2, 1980, 94 Stat. 252, added item 7241.
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §§1904(b)(7)(B)(ii), (8)(D)(ii), (9)(B)(ii), (10)(F)(ii), 1952(n)(2)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1818, 1846, struck out items 7233 "Failure to pay, or attempt to evade payment of, tax on cotton futures, and other violations", 7234 "Violation of laws relating to oleomargarine or adulterated butter operations", 7235 "Violation of laws relating to adulterated butter and process or renovated butter", 7239 "Violations of laws relating to white phosphorus matches", and 7241 "Penalty for fraudulent equalization tax certificates".
+<b>1976</b>—Pub. L. 94–455, title XIX, §§1904(b)(7)(B)(ii), (8)(D)(ii), (9)(B)(ii), (10)(F)(ii), 1952(n)(2)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1818, 1846, struck out items 7233 "Failure to pay, or attempt to evade payment of, tax on cotton futures, and other violations", 7234 "Violation of laws relating to oleomargarine or adulterated butter operations", 7235 "Violation of laws relating toadulterated butter and process or renovated butter", 7239 "Violations of laws relating to white phosphorus matches", and 7241 "Penalty for fraudulent equalization tax certificates".
 
 <b>1974</b>—Pub. L. 93–490, §3(b)(2), Oct. 26, 1974, 88 Stat. 1467, struck out item 7236 "Violation of laws relating to filled cheese".
 

@@ -52,7 +52,7 @@ In this chapter:
 
 #### (13) United States
 
-&emsp;The term "United States", when used as a geographic reference, means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+&emsp;The term "United States", when used as a geographic reference, means the several Statesof the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
 &emsp;&emsp;(A) the territorial sea and the overlying airspace;
 

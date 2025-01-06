@@ -44,7 +44,7 @@ Conditions.—
 
 &emsp;(1)
 
-In general.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),<sup>2</sup> and no transaction entered into under subsection (a), provides for researchthat duplicates research being conducted under existing programs carried out by the Coast Guard.
+In general.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),<sup>2</sup> and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
 
 &emsp;(2)
 

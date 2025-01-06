@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 112–239, §651(a), struck out subsec. (c). Text read as f
 
 <b>2004</b>—Pub. L. 108–375 renumbered section 2492 of this title as this section.
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–314 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of Defense shall notify Congress of any change proposed or made to any of the host nation laws or any of the treaty obligations of the United States, and any changed conditions within host nations, if the change would necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States."
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of Defense shall notifyCongress of any change proposed or made to any of the host nation laws or any of the treaty obligations of the United States, and any changed conditions within host nations, if the change would necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "October 17, 1998" for "the date of the enactment of this section".
 

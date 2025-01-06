@@ -18,7 +18,7 @@ Section was not enacted as part of the Federal Credit Union Act which comprises 
 
 #### Transfer of Functions
 
-"National Credit Union Administration Board" and "Board" substituted in text for "Director of the Bureau of Federal Credit Unions" and "Director", respectively, pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
+"National Credit Union Administration Board" and "Board" substituted in text for "Director of the Bureau of Federal Credit Unions" and "Director", respectively,pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
 
 #### Repeals; Revocation of Organization Certificates Issued Under District of Columbia Credit Unions Act
 

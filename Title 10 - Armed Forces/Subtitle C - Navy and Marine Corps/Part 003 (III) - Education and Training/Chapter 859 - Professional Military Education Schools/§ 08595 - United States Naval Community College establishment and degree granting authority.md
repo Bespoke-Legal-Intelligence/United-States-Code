@@ -58,7 +58,7 @@ Congressional notification requirements.—
 
 &emsp;&emsp;&emsp;(ii) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree or credential granting authority.
 
-&emsp;&emsp;(B) Upon any modification or redesignation of existing degree or credential granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of theSecretary of Education on the proposed modification or redesignation.
+&emsp;&emsp;(B) Upon any modification or redesignation of existing degree or credential granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
 
 &emsp;&emsp;(C) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Naval Community College to award any new or existing degree or credential.
 

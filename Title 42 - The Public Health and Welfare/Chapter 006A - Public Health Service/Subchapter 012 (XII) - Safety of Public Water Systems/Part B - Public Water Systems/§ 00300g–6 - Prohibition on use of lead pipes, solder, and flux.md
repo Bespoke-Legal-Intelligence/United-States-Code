@@ -100,7 +100,7 @@ If the Administrator determines that a State is not enforcing the requirements o
 
 #### (A) In general
 
-&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
+&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
 
 #### (B) Alternative requirement
 

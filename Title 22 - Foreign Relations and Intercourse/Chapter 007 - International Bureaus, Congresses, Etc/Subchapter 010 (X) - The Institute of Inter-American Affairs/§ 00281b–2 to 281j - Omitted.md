@@ -16,7 +16,7 @@ Section 281e, act Aug. 5, 1947, ch. 498, §6, 61 Stat. 782, provided that Instit
 
 Section 281f, act Aug. 5, 1947, ch. 498, §7, 61 Stat. 782, authorized officers and employees of Institute of Inter-American Affairs to hold offices upon approval of Institute, with governments or governmental agencies of other American Republics.
 
-Section 281g, act Aug. 5, 1947, ch. 498, §8, 61 Stat. 782, authorized Secretary of State to detail employees ofDepartment of State to Institute of Inter-American Affairs.
+Section 281g, act Aug. 5, 1947, ch. 498, §8, 61 Stat. 782, authorized Secretary of State to detail employees of Department of State to Institute of Inter-American Affairs.
 
 Section 281h, act Aug. 5, 1947, ch. 498, §9, 61 Stat. 783, provided that principal office of Institute of Inter-American Affairs be located in District of Columbia, with branch offices any place in United States or other American Republics.
 

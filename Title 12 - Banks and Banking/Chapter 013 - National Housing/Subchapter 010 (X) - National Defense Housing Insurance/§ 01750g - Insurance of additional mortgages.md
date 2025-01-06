@@ -16,7 +16,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates will be the value of the property or project when the proposed improvements are completed: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project exclusive of off-site public utilities and streets and organization and legal expenses; and
 
-&emsp;&emsp;(C) not to exceed $8,100 per family unit (or $7,200 per family unit if the number of rooms in such property or project does not equal orexceed four per family unit) for such part of such property or project as may be attributable to dwelling use: <i>Provided</i>, That the Secretary may by regulation increase such dollar amount limitations by not exceeding $900 in any geographical area where he finds that cost levels so require.
+&emsp;&emsp;(C) not to exceed $8,100 per family unit (or $7,200 per family unit if the number of rooms in such property or project does not equal or exceed four per family unit) for such part of such property or project as may be attributable to dwelling use: <i>Provided</i>, That the Secretary may by regulation increase such dollar amount limitations by not exceeding $900 in any geographical area where he finds that cost levels so require.
 
 &emsp;(3) The mortgagor shall enter into the agreement required by section 1715r of this title.
 

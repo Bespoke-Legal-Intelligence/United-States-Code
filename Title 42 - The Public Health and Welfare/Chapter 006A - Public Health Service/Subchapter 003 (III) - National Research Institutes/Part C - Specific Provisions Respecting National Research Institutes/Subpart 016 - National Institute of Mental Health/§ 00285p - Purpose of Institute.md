@@ -10,7 +10,7 @@ The research program established under this subpart shall include support for bi
 
 #### (c) Collaboration
 
-The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
+The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results ofsuch research to health professionals and the general public.
 
 #### (d) Information with respect to suicide
 

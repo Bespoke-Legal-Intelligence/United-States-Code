@@ -54,7 +54,7 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Sanctions imposed pursuant to paragraph (1) shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution if the President determines and reports to Congress, not later than 90 days after the date on which the President makes the determination required by subparagraph (B), and every 180 days thereafter, that the country with primary jurisdiction over the foreign financial institution—
+&emsp;&emsp;&emsp;Sanctions imposed pursuant to paragraph (1) shall not apply with respect to afinancial transaction described in clause (ii) conducted or facilitated by a foreign financial institution if the President determines and reports to Congress, not later than 90 days after the date on which the President makes the determination required by subparagraph (B), and every 180 days thereafter, that the country with primary jurisdiction over the foreign financial institution—
 
 &emsp;&emsp;&emsp;&emsp;(I) has significantly reduced reduced <sup>1</sup> its volume of crude oil purchases from Iran during the period beginning on the date on which the President submitted the last report with respect to the country under this subparagraph; or
 
@@ -68,7 +68,29 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;&emsp;&emsp;(II) any funds owed to Iran as a result of such trade are credited to an account located in the country with primary jurisdiction over the foreign financial institution.
 
-#### (5) Waiver
+#### (5) Applicability of sanctions with respect to Chinese financial institutions
+
+#### (A) In general
+
+&emsp;&emsp;For the purpose of paragraph (1)(A), a "significant financial transaction" shall include, based on relevant facts and circumstances, any transaction—
+
+&emsp;&emsp;&emsp;(i) by a Chinese financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of petroleum or petroleum products from Iran; and
+
+&emsp;&emsp;&emsp;(ii) by a foreign financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of Iranian unmanned aerial vehicles (UAVs), UAV parts, or related systems.
+
+#### (B) Determination required
+
+&emsp;&emsp;Not later than 180 days after April 24, 2024, and every year thereafter for 5 years, the President shall—
+
+&emsp;&emsp;&emsp;(i) determine whether any—
+
+&emsp;&emsp;&emsp;&emsp;(I) Chinese financial institution has engaged in a significant financial transaction as described in paragraph (1)(A)(i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) financial institution has engaged in a significant financial transaction as described in paragraph (1)(A)(ii); and
+
+&emsp;&emsp;&emsp;(ii) transmit the determination under clause (i) to the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+#### (6) Waiver
 
 &emsp;The President may waive the imposition of sanctions under paragraph (1) for a period of not more than 120 days, and may renew that waiver for additional periods of not more than 120 days, if the President—
 
@@ -146,7 +168,7 @@ In this section:
 
 &emsp;The term "United States person" means—
 
-&emsp;&emsp;(A) a natural person who is a citizen or resident of the United States or a national ofthe United States (as defined in section 1101(a) of title 8); and
+&emsp;&emsp;(A) a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8); and
 
 &emsp;&emsp;(B) an entity that is organized under the laws of the United States or a jurisdiction within the United States.
 
@@ -154,7 +176,7 @@ In this section:
 
 The provisions of this section shall terminate on the date that is 30 days after the date on which the President submits to Congress the certification described in section 8551(a) of this title.
 
-(Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, §1250, Jan. 2, 2013, 126 Stat. 2016.)
+(Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, §1250, Jan. 2, 2013, 126 Stat. 2016; Pub. L. 118–50, div. S, §2, Apr. 24, 2024, 138 Stat. 1003.)
 
 #### <b>Editorial Notes</b>
 
@@ -167,6 +189,8 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c) and
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(5), (6). Pub. L. 118–50 added par. (5) and redesignated former par. (5) as (6).
 
 <b>2013</b>—Subsec. (d)(5)(B)(ii), (iii). Pub. L. 112–239 added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -215,6 +239,10 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2025–01, Nov. 7, 2024, 89 F.R. 92025.
+
+Determination of President of the United States, No. 2024–04, May 8, 2024, 89 F.R. 46015.
 
 Determination of President of the United States, No. 2024–01, Nov. 11, 2023, 88 F.R. 82775.
 

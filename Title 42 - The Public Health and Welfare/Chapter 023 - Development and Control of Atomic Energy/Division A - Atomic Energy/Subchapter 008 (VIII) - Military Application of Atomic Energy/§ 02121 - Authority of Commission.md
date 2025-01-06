@@ -74,7 +74,7 @@ Requirement for Panel.—The Secretary of Defense, in consultation with the Secr
 
 "(b)
 
-Composition and Administration of Panel.—(1) The panel shall consist of private citizens of the United States with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons.
+Composition and Administration of Panel.—(1) The panel shall consist of private citizens of the UnitedStates with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons.
 
 "(2) The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including selection of a panel chairman.
 
@@ -196,7 +196,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 &emsp;"(2) only if the test is conducted during the period covered by the report.
 
-"(d)(1) Not later than March 1, of each year beginning after 1992, the President shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in classified andunclassified forms, a report containing the following matters:
+"(d)(1) Not later than March 1, of each year beginning after 1992, the President shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in classified and unclassified forms, a report containing the following matters:
 
 &emsp;"(A) A schedule for resumption of the Nuclear Testing Talks with Russia.
 

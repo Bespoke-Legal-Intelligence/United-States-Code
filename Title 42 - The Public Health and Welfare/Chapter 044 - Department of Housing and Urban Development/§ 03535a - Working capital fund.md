@@ -12,7 +12,7 @@ This heading, referred to in text, refers to the heading "
 
 working capital fund" of title II of div. L of the Consolidated Appropriations Act, 2016, Pub. L. 114–113, which is classified to this section.
 
-The amounts made available in this title for salaries and expenses under the headings "Executive Offices", "Administrative Support Offices", "Program Office Salaries and Expenses", and "Government National Mortgage Association", referred to in text, refer to the amounts made available under those headings in title II of div. L of the Consolidated Appropriations Act, 2016, Pub. L. 114–113, which are not classified to the Code.
+The amounts made available in this title for salaries and expenses under the headings "Executive Offices", "Administrative Support Offices", "Program Office Salaries and Expenses", and "Government NationalMortgage Association", referred to in text, refer to the amounts made available under those headings in title II of div. L of the Consolidated Appropriations Act, 2016, Pub. L. 114–113, which are not classified to the Code.
 
 #### Codification
 

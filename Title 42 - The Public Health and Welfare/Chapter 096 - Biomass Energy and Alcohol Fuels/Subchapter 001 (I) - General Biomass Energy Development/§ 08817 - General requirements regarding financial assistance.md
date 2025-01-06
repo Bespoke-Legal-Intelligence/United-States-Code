@@ -8,7 +8,7 @@
 
 &emsp;(B) applies new technologies which expand the possible feedstocks, produces new forms of biomass energy, or produces biomass fuel using improved or new technologies.
 
-> Nothing in this paragraph shall be construed to exclude financial assistance for any project which does not use such a fuel or apply such a technology.
+> Nothing in this paragraph shall be construed to exclude financial assistance for any projectwhich does not use such a fuel or apply such a technology.
 
 (2)(A) Financial assistance under this subchapter shall be available for a biomass energy project only if the Secretary concerned finds that the Btu content of the motor fuels to be used in the facility involved to produce the biomass fuel will not exceed the Btu content of the biomass fuel produced in the facility.
 
@@ -76,7 +76,7 @@ Subject to the conditions of any contract for financial assistance, such contrac
 
 #### (h) Deposit of amounts received by Secretary concerned
 
-All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
+All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in theTreasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
 
 (Pub. L. 96–294, title II, §217, June 30, 1980, 94 Stat. 693.)
 

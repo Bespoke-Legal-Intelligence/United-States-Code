@@ -6,7 +6,7 @@ Any person who is found by the Secretary, after notice and an opportunity for a 
 
 #### (b) Judicial review of assessment; procedures applicable
 
-Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of the order and by simultaneously serving a copy of the complaint by certified mail on the Secretary, the Attorney General of the United States, and the appropriate UnitedStates Attorney. The Secretary shall promptly file in the court a certified copy of the record upon which the violation was found or the penalty imposed. The findings and order of the Secretary shall be set aside or modified by the court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
+Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of the order and by simultaneously serving a copy of the complaint by certified mail on the Secretary, the Attorney General of the United States, and the appropriate United States Attorney. The Secretary shall promptly file in the court a certified copy of the record upon which the violation was found or the penalty imposed. The findings and order of the Secretary shall be set aside or modified by the court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
 #### (c) Failure to pay assessment of civil penalty; recovery by Attorney General
 

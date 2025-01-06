@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) with respect to individuals undergoing treatment for substance use disorders, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
 
-&emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects,the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
+&emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects, the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
 
 &emsp;&emsp;(C) the State will, subject to paragraph (5), carry out such projects only in geographic areas of the State that have the greatest need for the projects.
 
@@ -46,7 +46,7 @@
 
 &emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this title for fiscal year 1991 in compliance with section 300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
 
-&emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including a negative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
+&emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including anegative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
 
 #### (5) Requirement regarding rural areas
 
@@ -94,7 +94,7 @@
 
 &emsp;A funding agreement for a grant under section 300x–21 of this title for a State is that the grant will not be expended to make payment for any service provided for purposes of compliance with this section to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
 
-&emsp;&emsp;(A) under any State compensation program, under any insurance policy, or under any Federal or State health benefits program (including the program established in title XVIII of the Social Security Act \[42U.S.C. 1395 et seq.\] and the program established in title XIX of such Act \[42 U.S.C. 1396 et seq.\]); or
+&emsp;&emsp;(A) under any State compensation program, under any insurance policy, or under any Federal or State health benefits program (including the program established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the program established in title XIX of such Act \[42 U.S.C. 1396 et seq.\]); or
 
 &emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
 

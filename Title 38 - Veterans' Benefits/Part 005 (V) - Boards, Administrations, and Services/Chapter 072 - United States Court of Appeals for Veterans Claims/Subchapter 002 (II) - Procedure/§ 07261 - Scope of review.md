@@ -28,7 +28,7 @@
 
 (d) When a final decision of the Board of Veterans' Appeals is adverse to a party and the sole stated basis for such decision is the failure of the party to comply with any applicable regulation prescribed by the Secretary, the Court shall review only questions raised as to compliance with and the validity of the regulation.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4115, §4061; amended Pub. L. 101–237, title VI, §602(c), Dec. 18, 1989, 103 Stat. 2095; renumbered §7261, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §401(a), (b), Dec. 6, 2002, 116 Stat. 2832.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4115, §4061; amended Pub. L. 101–237, title VI, §602(c), Dec. 18, 1989, 103 Stat.2095; renumbered §7261, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §401(a), (b), Dec. 6, 2002, 116 Stat. 2832.)
 
 #### <b>Editorial Notes</b>
 

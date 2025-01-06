@@ -38,7 +38,7 @@ Section was formerly classified to section 60a–1 of this title prior to editor
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–103, §213(a)(2)(A)(i), in concluding provisions, substituted ", subject to section 4575(f) of this title." for "and adjust the rates of such personnel by such amounts as necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators."
 
-Subsecs. (d) to (f). Pub. L. 117–103, §213(a)(2)(A)(ii), (iii), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: "No rate of pay shall be adjusted under the provisions of this section to an amount in excess of the rate of basic pay for level III of the Executive Schedule contained in section 5314 of title 5, except in cases in which it is necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the LegislativeBranch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators."
+Subsecs. (d) to (f). Pub. L. 117–103, §213(a)(2)(A)(ii), (iii), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: "No rate of pay shall be adjusted under the provisions of this section to an amount in excess of the rate of basic pay for level III of the Executive Schedule contained in section 5314 of title 5, except in cases in which it is necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators."
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–94, §212(a)(2)(A)(i)(II), in concluding provisions, struck out "and with such exceptions as may be necessary to provide for appropriate pay relationships between positions" after "as practicable" and substituted "to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators." for "to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions."
 
@@ -84,9 +84,9 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Order of the President Pro Tempore of the United States Senate
 
-#### December 28, 2022
+#### March 25, 2024
 
-By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 (2 U.S.C. 4571) and section 212(a)(1)(B) of the Legislative Branch Appropriations Act, 2020 (2 U.S.C. 4575a), and the amendments made by section 213 of division I of the Consolidated Appropriations Act, 2022 \[Pub. L. 117–103, amending this section and sections 4573 and 4575 of this title\] in order to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 (5 U.S.C. 5318 note; Public Law 101–194) and the amendments made by such section \[amending section 4501 of this title, section 104 of Title 3, The President, section 5318 of Title 5, Government Organization and Employees, and section 461 of Title 28, Judiciary and Judicial Procedure\]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2023, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code,
+By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 (2 U.S.C. 4571) and section 212(a)(1)(B) of the Legislative Branch Appropriations Act, 2020 (2 U.S.C. 4575a), in order to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 (5 U.S.C. 5318 note; Public Law 101–194) and the amendments made by such section \[amending section 4501 of this title, section 104 of Title 3, The President, section 5318 of Title 5, Government Organization and Employees, and section 461 of Title 28, Judiciary and Judicial Procedure\]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2024, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code,
 
 > it is hereby—
 
@@ -98,11 +98,11 @@ Section 1. For purposes of this Order—
 
 &emsp;(1) the term "employee" includes an officer (other than a United States Senator); and
 
-&emsp;(2) pursuant to the authority under the amendments made by section 213 of division I of the Consolidated Appropriations Act, 2022, the term "annual rate for level II" means the annual rate of basic pay for level II of the Executive Schedule under section 5313 of title 5, United States Code, including any adjustment to such rate after the date of this Order \[Dec. 28, 2022\].
+&emsp;(2) the term "annual rate for level II" means the annual rate of basic pay for level II of the Executive Schedule under section 5313 of title 5, United States Code, including any adjustment to such rate after the date of this Order \[Mar. 25, 2024\].
 
 #### rate of pay for statutory employees
 
-Sec. 2. (a) The annual rates of compensation of the Secretary of the Senate, the Sergeant at Arms and Doorkeeper, and the Legislative Counsel shall each be equal to the annual rate for level II.
+Sec. 2. (a) The annual rates of compensation of the Secretary of the Senate, the Sergeant at Arms andDoorkeeper, and the Legislative Counsel shall each be equal to the annual rate for level II.
 
 (b) The annual rates of compensation of the Secretary for the Majority and the Secretary for the Minority shall each be equal to the annual rate for level II.
 
@@ -140,7 +140,7 @@ Sec. 4. (a) The following individuals are authorized to increase the annual rate
 
 &emsp;(12) The appointing authority of any Senate entity not referred to under paragraphs (1) through (11), for any employee under its jurisdiction.
 
-(b) No officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the annual rate for level II.
+(b) No officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate that is in excess of the annual rate for level II.
 
 #### committee staffs
 
@@ -152,17 +152,17 @@ Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch A
 
 Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 4575), and to the other provisions of this Order, each Senator is authorized to increase the annual rate of compensation of any employee in the office of the Senator.
 
-(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2022, increased by an additional 4.86 percent.
+(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2023, increased by an additional 5.31 percent.
 
-(c)(1) The figure "$3,293" referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 4575(d)(2)) (as provided in section 6(c) of the Order of the President pro tempore of March 15, 2022) shall be deemed to be the figure "$3,454".
+(c)(1) The figure "$3,454" referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 4575(d)(2)) (as provided in section 6(c) of the Order of the President pro tempore of December 28, 2022) shall be deemed to be the figure "$3,638".
 
 (2) The maximum annual rate of compensation for an employee described in subsection (a) shall be the annual rate for level II.
 
-(d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 \[Pub. L. 95–94\] (2 U.S.C. 4575 note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $636,300.
+(d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 \[Pub. L. 95–94\] (2 U.S.C. 4575 note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $665,700.
 
 #### general limitation
 
-Sec. 7. (a) The figure "$3,293" referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 4575(f)) (as provided in section 7(a) of the Order of the President pro tempore of March 15, 2022) shall be deemed to be the figure "$3,454".
+Sec. 7. (a) The figure "$3,454" referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 4575(f)) (as provided in section 7(a) of the Order of the President pro tempore of December 28, 2022) shall be deemed to be the figure "$3,638".
 
 (b) The maximum annual rate of compensation for an employee described in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 4575(f)) shall be the annual rate for level II.
 
@@ -172,7 +172,7 @@ Sec. 8. In order for an employee to receive the increase in the annual rate of c
 
 #### dual compensation
 
-Sec. 9. The figure "$39,603" referred to in section 5533(c)(1) of title 5, United States Code (as provided in section 9 of the Order of the President pro tempore of March 15, 2022) shall be deemed to be the figure "$41,528".
+Sec. 9. The figure "$41,528" referred to in section 5533(c)(1) of title 5, United States Code (as provided in section 9 of the Order of the President pro tempore of December 28, 2022) shall be deemed to be the figure "$43,733".
 
 #### office of the senate legal counsel
 
@@ -184,13 +184,15 @@ Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall b
 
 #### effective date
 
-Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2023.
+Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2024.
 
-Patrick Leahy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Patty Murray&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i>President pro tempore</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Orders of the President pro tempore of the Senate were issued on the following dates:
+
+Dec. 28, 2022, eff. Jan. 1, 2023.
 
 Mar. 15, 2022, eff. Jan. 1, 2022.
 
@@ -320,7 +322,7 @@ Pub. L. 88–426, title II, §202(f), (g), Aug. 14, 1964, 78 Stat. 414, provided
 
 Pub. L. 87–793, title VI, §1005(c), (d), Oct. 11, 1962, 76 Stat. 867, provided that:
 
-"(c) Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of the elected officers of the Senate (except the Presiding Officer of the Senate), the Legislative Counsel of the Senate, the Official Reporters of Debates of the Senate, theParliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 7 per centum.
+"(c) Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of the elected officers of the Senate (except the Presiding Officer of the Senate), the Legislative Counsel of the Senate, the Official Reporters of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 7 per centum.
 
 "(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading 'SENATE' in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended to read as follows:
 

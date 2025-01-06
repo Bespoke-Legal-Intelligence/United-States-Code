@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a chemical substance in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including any such research or analysis for the development of a product,
 
-> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
+> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance ofrecords or submission of reports, or both, is necessary for the effective enforcement of this chapter.
 
 > The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b), the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
@@ -44,7 +44,7 @@
 
 (B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
-(C) Not later than 180 days after June 22, 2016, and not less frequently than once every 10 yearsthereafter, the Administrator, after consultation with the Administrator of the Small Business Administration, shall—
+(C) Not later than 180 days after June 22, 2016, and not less frequently than once every 10 years thereafter, the Administrator, after consultation with the Administrator of the Small Business Administration, shall—
 
 &emsp;(i) review the adequacy of the standards prescribed under subparagraph (B); and
 
@@ -116,7 +116,7 @@ In general.—Not later than 1 year after June 22, 2016, the Administrator, by r
 
 &emsp;&emsp;(ii)
 
-Active substances.—The Administrator shall designate chemical substancesfor which notices are received under clause (i) to be active substances on the list published under paragraph (1).
+Active substances.—The Administrator shall designate chemical substances for which notices are received under clause (i) to be active substances on the list published under paragraph (1).
 
 &emsp;&emsp;(iii)
 
@@ -202,7 +202,7 @@ In general.—Any person that intends to manufacture or process for a nonexempt 
 
 &emsp;&emsp;(ii)
 
-Confidential chemical identity.—If a person submitting a notice under clause (i) for an inactive substance on the confidential portion of the list published under paragraph (1) seeks to maintain an existing claim for protection against disclosure of the specificchemical identity of the inactive substance as confidential, the person shall, consistent with the requirements of section 2613 of this title—
+Confidential chemical identity.—If a person submitting a notice under clause (i) for an inactive substance on the confidential portion of the list published under paragraph (1) seeks to maintain an existing claim for protection against disclosure of the specific chemical identity of the inactive substance as confidential, the person shall, consistent with the requirements of section 2613 of this title—
 
 &emsp;&emsp;&emsp;(I) in the notice submitted under clause (i), assert the claim; and
 
@@ -362,7 +362,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### "SEC. 3. PUBLICATION OF INFORMATION.
 
-"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
+"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
 
 &emsp;"(1) review the information submitted under section 2 for accuracy, or
 

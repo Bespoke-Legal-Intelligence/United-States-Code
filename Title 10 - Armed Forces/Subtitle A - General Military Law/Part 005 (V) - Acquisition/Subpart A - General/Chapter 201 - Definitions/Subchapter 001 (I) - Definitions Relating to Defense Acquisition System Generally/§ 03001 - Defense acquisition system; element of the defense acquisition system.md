@@ -40,7 +40,7 @@ A prior section 3001 was renumbered section 7001 of this title.
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1806(a)(2), redesignated par. (2) of section 2545 of this title as subsec. (a) of this section, inserted heading and realigned margin, substituted "In this part, the term" for "The term", and inserted dash after "means", par. (1) designation before "the workforce", par. (2) designation before "the management", and par. (3) designation before "the statutory,".
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1806(a)(2), redesignated par. (2) of section 2545 of this title as subsec. (a) of this section, inserted heading and realigned margin, substituted "In this part, the term" for "The term", and inserted dash after "means", par. (1) designationbefore "the workforce", par. (2) designation before "the management", and par. (3) designation before "the statutory,".
 
 Subsec. (b). Pub. L. 116–283, §1806(a)(3), redesignated par. (3) of section 2545 of this title as subsec. (b) of this section, inserted heading and realigned margin, substituted "In this part, the term" for "The term", "workforce;" for "workforce,", and "functions;" for "functions,", and inserted dash after "organization that", par. (1) designation before "employs", par. (2) designation before "carries out", and par. (3) designation before "focuses".
 

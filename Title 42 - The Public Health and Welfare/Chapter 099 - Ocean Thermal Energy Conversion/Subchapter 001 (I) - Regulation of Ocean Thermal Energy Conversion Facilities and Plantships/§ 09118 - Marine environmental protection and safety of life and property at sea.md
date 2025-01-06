@@ -36,7 +36,7 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 &emsp;&emsp;(ii) the President makes a specific finding, with respect to the particular vessel, platform, or moored, fixed or standing structure, that application of this requirement would not be consistent with the national interest.
 
-(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shallbe deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 (46 U.S.C. 911–984).
+(3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 (46 U.S.C. 911–984).
 
 (4) For the purposes of this subsection the term "ocean thermal energy conversion facility" refers only to an ocean thermal energy conversion facility which has major components other than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
 
@@ -52,7 +52,7 @@ Subject to recognized principles of international law, the Secretary of the depa
 
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
-The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, "vessel of the United States", was subsequently repealed by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509. For a definition of "vessel of the United States" as that term applies to Title 46, see section 116 of Title 46.
+The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, "vessel of the United States", was subsequently repealed by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509. For a definition of"vessel of the United States" as that term applies to Title 46, see section 116 of Title 46.
 
 #### Amendments
 

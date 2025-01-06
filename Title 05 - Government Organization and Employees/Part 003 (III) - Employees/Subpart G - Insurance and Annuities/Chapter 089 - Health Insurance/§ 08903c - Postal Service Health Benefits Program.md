@@ -420,7 +420,7 @@ Pub. L. 117–108, title I, §101(d)(5), Apr. 6, 2022, 136 Stat. 1138, provided 
 
 "(A)
 
-Inter-agency agreement.—The Commissioner of Social Security shall enter into an agreement with the Director of the Office under which the Director pays the Commissioner from the Postal Service administrative reserve the full costs (including systems and administrative costs) of providing the information described in subsection (c)(3) \[of Pub. L. 117–108, set out in a note above\] for the purpose set forth in subsection (c)(3)(B).
+Inter-agency agreement.—The Commissioner of Social Security shall enter into an agreement with the Director of the Office under which the Director pays the Commissioner from the Postal Service administrative reserve the full costs (including systems and administrative costs) of providing the information described in subsection (c)(3) \[of section 101 of Pub. L. 117–108, set out in a note above\] for the purpose set forth in subsection (c)(3)(B).
 
 "(B)
 

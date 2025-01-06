@@ -2,7 +2,7 @@
 
 #### (a) Law enforcement training program
 
-(1) In order to provide for and encourage training, research, and development for the purpose of improving fish and wildlife law enforcement and developing new methods for the prevention, detection, and reduction of violation of fish and wildlife laws, and the apprehension of violators of such laws, the Secretary of the Interior and the Secretary of Commerce may each—
+(1) In order to provide for and encourage training, research, and development for the purpose of improving fish and wildlife law enforcementand developing new methods for the prevention, detection, and reduction of violation of fish and wildlife laws, and the apprehension of violators of such laws, the Secretary of the Interior and the Secretary of Commerce may each—
 
 &emsp;(A) establish and conduct national training programs to provide, at the request of any State, training for State fish and wildlife law enforcement personnel;
 
@@ -44,7 +44,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior and th
 
 &emsp;&emsp;(B) to pay costs associated with—
 
-&emsp;&emsp;&emsp;(i) shipping items referred to in paragraph (1) to and from the place of storage,sale, or temporary or final disposal, including temporary or permanent loan;
+&emsp;&emsp;&emsp;(i) shipping items referred to in paragraph (1) to and from the place of storage, sale, or temporary or final disposal, including temporary or permanent loan;
 
 &emsp;&emsp;&emsp;(ii) storage of the items, including inventory of, and security for, the items;
 

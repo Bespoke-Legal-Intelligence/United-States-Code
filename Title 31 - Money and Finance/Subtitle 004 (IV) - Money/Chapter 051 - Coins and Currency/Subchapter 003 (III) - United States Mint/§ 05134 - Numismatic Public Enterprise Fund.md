@@ -356,7 +356,7 @@ In general.—As soon as practicable after the end of fiscal year 1992, the Secr
 
 &emsp;&emsp;"(ii) to provide working capital for Mint numismatic operations and programs; and
 
-&emsp;"(B) all numismatic receivables, and the numismatic operations and programs (including liabilities and other obligations) of the United States Mint, and the land and buildings of the San Francisco Mint, the Old San Francisco Mint, and the West Point Mint, capitalized at current book value as carried in the Mint combined statement of financial condition.
+&emsp;"(B) all numismatic receivables, and the numismatic operations and programs (including liabilitiesand other obligations) of the United States Mint, and the land and buildings of the San Francisco Mint, the Old San Francisco Mint, and the West Point Mint, capitalized at current book value as carried in the Mint combined statement of financial condition.
 
 "(2)
 

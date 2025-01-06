@@ -90,3 +90,4 @@
 - [&sect; 00579d&#8211;2 - Deauthorization of inactive projects](%C2%A7%2000579d%E2%80%932%20-%20Deauthorization%20of%20inactive%20projects.md)
 - [&sect; 00579e - Access to real estate data](%C2%A7%2000579e%20-%20Access%20to%20real%20estate%20data.md)
 - [&sect; 00579f - Budgetary evaluation metrics and transparency; public participation](%C2%A7%2000579f%20-%20Budgetary%20evaluation%20metrics%20and%20transparency%3B%20public%20participation.md)
+- [&sect; 00579g - Annual reports](%C2%A7%2000579g%20-%20Annual%20reports.md)

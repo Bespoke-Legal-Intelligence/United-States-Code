@@ -60,6 +60,8 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
+
+
 &emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
 &emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notes and depicted on the plat of mineral survey number 887, Oregon; and

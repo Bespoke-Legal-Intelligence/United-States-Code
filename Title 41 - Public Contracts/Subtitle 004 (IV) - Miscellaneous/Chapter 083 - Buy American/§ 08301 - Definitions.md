@@ -46,7 +46,7 @@ In paragraph (2), the words "when used in a geographical sense" are omitted as u
 
 #### Build America, Buy America
 
-Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, as amended by Pub. L. 117–167, div. B, title II, §10254, Aug. 9, 2022, 136 Stat. 1502, provided that:
+Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, as amended by Pub. L. 117–167, div. B, title II, §10254, Aug. 9, 2022, 136 Stat. 1502; Pub. L. 118–159, div. A, title XVII, §1704, Dec. 23, 2024, 138 Stat. 2208, provided that:
 
 #### <b>"Subtitle A—Build America, Buy America</b>
 
@@ -136,7 +136,7 @@ Infrastructure.—The term 'infrastructure' includes, at a minimum, the structur
 
 &emsp;&emsp;"(B) public transportation;
 
-&emsp;&emsp;"(C) dams, ports, harbors, and other maritime facilities;
+&emsp;&emsp;"(C) dams, ports, harbors, and other maritime facilities (except vessels which are oceanographic research vessels operated by academic institutions);
 
 &emsp;&emsp;"(D) intercity passenger and freight railroads;
 
@@ -336,7 +336,7 @@ Secretary.—The term 'Secretary' means the Secretary of Transportation.
 
 Technical Assistance Partnership.—Not later than 90 days after the date of the enactment of this Act \[Nov. 15, 2021\], the Secretary shall enter into a technical assistance partnership with the Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology—
 
-&emsp;"(1) to ensure the development of a domestic supply base to support intermodal transportation in the United States, such as intercity high speed rail transportation, public transportation systems, highway construction or reconstruction, airport improvement projects, and other infrastructure projects under the jurisdiction of the Secretary;
+&emsp;"(1) to ensure the development of a domestic supply base to support intermodal transportation in theUnited States, such as intercity high speed rail transportation, public transportation systems, highway construction or reconstruction, airport improvement projects, and other infrastructure projects under the jurisdiction of the Secretary;
 
 &emsp;"(2) to ensure compliance with Buy America laws that apply to a project that receives assistance from the Federal Highway Administration, the Federal Transit Administration, the Federal Railroad Administration, the Federal Aviation Administration, or another office or modal administration of the Secretary of Transportation;
 
@@ -542,7 +542,7 @@ Review of reciprocal procurement memoranda of understanding.—The Made in Ameri
 
 "(e)
 
-Report on Use of Made in America Laws.—The Made in America Director shall submit to the relevant congressional committees a summary of each report on the use of Made in America Laws received by the Made in America Director pursuant to section 11 of Executive Order 14005, dated January 25, 2021 (relating to ensuring the future is made in all of America by all of America's workers) \[set out below\] not later than 90 days after the date of the enactment of this Act or receipt of the reports required under section 11 of such Executive Order, whichever is later.
+Report on Use of Made in America Laws.—The Made in America Director shall submit to the relevant congressional committees a summary of each report on the use of Made in America Laws received by the Madein America Director pursuant to section 11 of Executive Order 14005, dated January 25, 2021 (relating to ensuring the future is made in all of America by all of America's workers) \[set out below\] not later than 90 days after the date of the enactment of this Act or receipt of the reports required under section 11 of such Executive Order, whichever is later.
 
 "(f)
 
@@ -672,7 +672,7 @@ Buy american waiver.—The term 'Buy American waiver' refers to an exception to 
 
 &emsp;"(1) every executive agency should maximize, through terms and conditions of Federal financial assistance awards and Federal procurements, the use of goods, products, and materials produced in the United States and contracts for outsourced government service contracts to be performed by United States nationals;
 
-&emsp;"(2) every executive agency should scrupulously monitor, enforce, and comply with Buy American laws, to the extent they apply, and minimize the use of waivers; and
+&emsp;"(2) every executive agency should scrupulously monitor, enforce, and comply with Buy Americanlaws, to the extent they apply, and minimize the use of waivers; and
 
 &emsp;"(3) every executive agency should use available data to routinely audit its compliance with Buy American laws.
 
@@ -874,7 +874,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act, the Director of theOffice of Management and Budget, in consultation with the covered Secretaries, shall submit to the chairs and ranking members of the appropriate congressional committees a report on the procurement of personal protective equipment.
+In general.—Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the covered Secretaries, shall submit to the chairs and ranking members of the appropriate congressional committees a report on the procurement of personal protective equipment.
 
 &emsp;"(2)
 
@@ -886,7 +886,7 @@ Elements.—The report required under paragraph (1) shall include the following 
 
 &emsp;&emsp;"(C) Recommendations for congressional action required to implement the United States Government's procurement strategy.
 
-&emsp;&emsp;"(D) A determination whether all notifications, amendments, and other necessary actions have been completed to bring the United States existing international obligations into conformity with the statutory requirements of this subtitle.
+&emsp;&emsp;"(D) A determination whether all notifications, amendments, and other necessary actions havebeen completed to bring the United States existing international obligations into conformity with the statutory requirements of this subtitle.
 
 "(f)
 
@@ -1060,11 +1060,11 @@ Sec. 4. <i>Updating and Centralizing the Made in America Waiver Process</i>. (a)
 
 (d) When a granting agency is obligated by law to act more quickly than the review procedures established in this section allow, the head of the agency shall notify the Made in America Director as soon as possible and, to the extent practicable, comply with the requirements set forth in this section. Nothing in this section shall be construed as displacing agencies' authorities or responsibilities under law.
 
-Sec. 5. <i>Accounting for Sources of Cost Advantage</i>. To the extent permitted by law, before granting a waiver in the public interest, the relevant granting agency shall assess whether a significant portion of the cost advantage of a foreign-sourced product is the result of the use of dumped steel, iron, or manufactured goods or the use of injuriously subsidized steel, iron, or manufactured goods. The granting agency may consult withthe International Trade Administration in making this assessment if the granting agency deems such consultation to be helpful. The granting agency shall integrate any findings from the assessment into its waiver determination as appropriate.
+Sec. 5. <i>Accounting for Sources of Cost Advantage</i>. To the extent permitted by law, before granting a waiver in the public interest, the relevant granting agency shall assess whether a significant portion of the cost advantage of a foreign-sourced product is the result of the use of dumped steel, iron, or manufactured goods or the use of injuriously subsidized steel, iron, or manufactured goods. The granting agency may consult with the International Trade Administration in making this assessment if the granting agency deems such consultation to be helpful. The granting agency shall integrate any findings from the assessment into its waiver determination as appropriate.
 
 Sec. 6. <i>Promoting Transparency in Federal Procurement</i>. (a) The Administrator of General Services shall develop a public website that shall include information on all proposed waivers and whether those waivers have been granted. The website shall be designed to enable manufacturers and other interested parties to easily identify proposed waivers and whether those waivers have been granted. The website shall also provide publicly available contact information for each granting agency.
 
-(b) The Director of OMB, through the Made in America Director, shall promptly report to the Administrator of General Services all proposed waivers, along with the associated descriptions and justifications discussed in section 4(b) of this order, and whether those waivers have been granted. Not later than 5 days after receiving this information, the Administrator of General Services shall, to the extent permitted by law and consistent with national security and executive branch confidentiality interests, make this information available to the public by posting it on the website established under this section.
+(b) The Director of OMB, through the Made in America Director, shall promptly report to the Administrator of General Services all proposed waivers, along with the associated descriptions and justifications discussed in section 4(b) of this order, and whether those waivers have been granted. Not later than 5 days afterreceiving this information, the Administrator of General Services shall, to the extent permitted by law and consistent with national security and executive branch confidentiality interests, make this information available to the public by posting it on the website established under this section.
 
 Sec. 7. <i>Supplier Scouting</i>. To the extent appropriate and consistent with applicable law, agencies shall partner with the Hollings Manufacturing Extension Partnership (MEP), discussed in the Manufacturing Extension Partnership Improvement Act (title V of Public Law 114–329) \[see 15 U.S.C. 278k\], to conduct supplier scouting in order to identify American companies, including small- and medium-sized companies, that are able to produce goods, products, and materials in the United States that meet Federal procurement needs.
 
@@ -1192,7 +1192,7 @@ Sec. 7. <i>Improving the Waiver Process</i>. (a) Under the Bayh-Dole Act, agenci
 
 (d) The Secretary of Commerce, through the Director of NIST and in consultation with the Interagency Working Group for Bayh-Dole, the NSTC Lab-to-Market Subcommittee, and the Made in America Director, shall provide guidance to agencies on the factors and considerations that should be weighed in determining whether domestic manufacturing is not commercially feasible. Guidance shall be designed to help applicants understand the factors an agency will consider when evaluating a waiver application, and should ensure that a determination of the commercial feasibility of manufacturing abroad is not based on substandard or unacceptable working conditions. Within 90 days of the date of this order, the Secretary of Commerce, through the Director of NIST, shall make the guidance available for public comment.
 
-(e) Within 90 days of the date of this order, the Secretary of Commerce, through the Director of NIST andin consultation with the Interagency Working Group for Bayh-Dole, shall develop common waiver application questions for use by all agencies.
+(e) Within 90 days of the date of this order, the Secretary of Commerce, through the Director of NIST and in consultation with the Interagency Working Group for Bayh-Dole, shall develop common waiver application questions for use by all agencies.
 
 (i) The common waiver application questions should include as relevant criteria, as appropriate and consistent with applicable law:
 
@@ -1208,7 +1208,7 @@ Sec. 7. <i>Improving the Waiver Process</i>. (a) Under the Bayh-Dole Act, agenci
 
 &emsp;(F) the conditions under which the subject invention would be manufactured abroad, including unionization of workplaces, health and safety standards, labor and wage laws, and environmental impacts.
 
-(ii) Given the need to maintain agency flexibility, the heads of agencies identified in section 3(a) of this order may add questions to the common waiver application questions, but they should do so sparingly and only as needed to accomplish the policy set forth in this order within their respective agencies' existing authorities.
+(ii) Given the need to maintain agency flexibility, the heads of agencies identified in section 3(a) of this ordermay add questions to the common waiver application questions, but they should do so sparingly and only as needed to accomplish the policy set forth in this order within their respective agencies' existing authorities.
 
 (f) The heads of agencies identified in section 3(a) of this order shall adopt the common waiver application questions, to the extent consistent with applicable law.
 

@@ -22,7 +22,7 @@ Nominators.—Nominations for competitive appointments for the positions allocat
 
 &emsp;(5) The Panama Canal Commission may nominate—
 
-&emsp;&emsp;(A) residents, or sons or daughters of residents, of an area or installation in Panama and made available to the United States under the Panama Canal Treaty of 1977, the agreements relating to and implementing that Treaty, signed September 7, 1977, and the Agreement Between the United States of America and the Republic of Panama Concerning Air Traffic Control and Related Services, concluded January 8, 1979; and
+&emsp;&emsp;(A) residents, or sons or daughters of residents, of an area or installation in Panamaand made available to the United States under the Panama Canal Treaty of 1977, the agreements relating to and implementing that Treaty, signed September 7, 1977, and the Agreement Between the United States of America and the Republic of Panama Concerning Air Traffic Control and Related Services, concluded January 8, 1979; and
 
 &emsp;&emsp;(B) sons or daughters of personnel of the United States Government and the Panama Canal Commission residing in Panama.
 

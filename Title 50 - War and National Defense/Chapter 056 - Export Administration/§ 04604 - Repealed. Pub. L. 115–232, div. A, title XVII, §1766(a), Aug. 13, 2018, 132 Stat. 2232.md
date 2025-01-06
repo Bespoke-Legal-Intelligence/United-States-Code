@@ -62,7 +62,7 @@ Classification.—Each report under subsections (d) and (e) shall be submitted i
 
 "(g)
 
-Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the Assistant Secretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the abilityof the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
+Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the Assistant Secretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the ability of the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
 
 "(h)
 
@@ -94,7 +94,7 @@ Additional Information on Exports to Certain Countries.—In the case of exports
 
 Covered Countries.—For purposes of subsection (b), the countries specified in this subsection are—
 
-&emsp;"(1) the countries listed as 'Computer Tier 3' eligible countries in section 740.7(d) of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997; and
+&emsp;"(1) the countries listed as 'Computer Tier 3' eligible countries in section 740.7(d) of title 15 of the Codeof Federal Regulations, as in effect on June 10, 1997; and
 
 &emsp;"(2) the countries listed in section 740.7(e) of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997.
 

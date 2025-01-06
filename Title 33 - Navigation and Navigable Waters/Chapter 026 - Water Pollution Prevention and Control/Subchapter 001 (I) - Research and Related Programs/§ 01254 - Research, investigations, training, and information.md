@@ -40,7 +40,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 &emsp;&emsp;(B) to provide technical assistance and training for rural, small, and tribal publicly owned treatment works and decentralized wastewater treatment systems to enable such treatment works and systems to protect water quality and achieve and maintain compliance with the requirements of this chapter; and
 
-&emsp;&emsp;(C) to disseminate information to rural, small, and tribal municipalities and municipalities that meet the affordability criteria established under section 1383(i)(2) of this title by the State in which the municipality is located with respect to planning, design, construction, and operation of publicly owned treatment works and decentralized wastewater treatment systems.
+&emsp;&emsp;(C) to disseminate information to rural, small, and tribal municipalities and municipalities that meet the affordability criteria established under section 1383(i)(2) of this title by the State in which the municipality is located with respect to planning, design,construction, and operation of publicly owned treatment works and decentralized wastewater treatment systems.
 
 #### (c) Research and studies on harmful effects of pollutants; cooperation with Secretary of Health and Human Services
 
@@ -54,7 +54,7 @@ In carrying out the provisions of this section the Administrator shall develop a
 
 &emsp;(2) Improved methods and procedures to identify and measure the effects of pollutants, including those pollutants created by new technological developments; and
 
-&emsp;(3) Methods and procedures for evaluating the effects on water quality of augmentedstreamflows to control pollution not susceptible to other means of prevention, reduction, or elimination.
+&emsp;(3) Methods and procedures for evaluating the effects on water quality of augmented streamflows to control pollution not susceptible to other means of prevention, reduction, or elimination.
 
 #### (e) Field laboratory and research facilities
 
@@ -92,7 +92,7 @@ The Administrator, in cooperation with the Secretary of the Department in which 
 
 &emsp;(2) publish from time to time the results of such activities; and
 
-&emsp;(3) from time to time, develop and publish in the Federal Register specifications and othertechnical information on the various chemical compounds used in the control of oil and hazardous substances spills.
+&emsp;(3) from time to time, develop and publish in the Federal Register specifications and other technical information on the various chemical compounds used in the control of oil and hazardous substances spills.
 
 > In carrying out this subsection, the Administrator may enter into contracts with, or make grants to, public or private agencies and organizations and individuals.
 
@@ -118,13 +118,13 @@ In carrying out the provisions of this section relating to the conduct by the Ad
 
 #### (n) Comprehensive studies of effects of pollution on estuaries and estuarine zones
 
-(1) The Administrator shall, in cooperation with the Secretary of the Army, the Secretary of Agriculture, the Water Resources Council, and with other appropriate Federal, State, interstate, or local public bodies and private organizations, institutions, and individuals, conduct and promote, and encourage contributions to, continuing comprehensive studies of the effects of pollution, including sedimentation, in the estuaries and estuarine zones of the United States on fish and wildlife, on sport and commercial fishing, on recreation, on water supply and water power, and on other beneficial purposes. Such studies shall also consider the effect of demographic trends, the exploitation of mineral resources and fossil fuels, land and industrial development, navigation, flood and erosion control, and other uses of estuaries and estuarine zones upon the pollution of the waters therein.
+(1) The Administrator shall, in cooperation with the Secretary of the Army, the Secretary of Agriculture, the Water Resources Council,and with other appropriate Federal, State, interstate, or local public bodies and private organizations, institutions, and individuals, conduct and promote, and encourage contributions to, continuing comprehensive studies of the effects of pollution, including sedimentation, in the estuaries and estuarine zones of the United States on fish and wildlife, on sport and commercial fishing, on recreation, on water supply and water power, and on other beneficial purposes. Such studies shall also consider the effect of demographic trends, the exploitation of mineral resources and fossil fuels, land and industrial development, navigation, flood and erosion control, and other uses of estuaries and estuarine zones upon the pollution of the waters therein.
 
 (2) In conducting such studies, the Administrator shall assemble, coordinate, and organize all existing pertinent information on the Nation's estuaries and estuarine zones; carry out a program of investigations and surveys to supplement existing information in representative estuaries and estuarine zones; and identify the problems and areas where further research and study are required.
 
 (3) The Administrator shall submit to Congress, from time to time, reports of the studies authorized by this subsection but at least one such report during any six-year period. Copies of each such report shall be made available to all interested parties, public and private.
 
-(4) For the purpose of this subsection, the term "estuarine zones" means an environmental system consisting of an estuary and those transitional areas which are consistently influencedor affected by water from an estuary such as, but not limited to, salt marshes, coastal and intertidal areas, bays, harbors, lagoons, inshore waters, and channels, and the term "estuary" means all or part of the mouth of a river or stream or other body of water having unimpaired natural connection with open sea and within which the sea water is measurably diluted with fresh water derived from land drainage.
+(4) For the purpose of this subsection, the term "estuarine zones" means an environmental system consisting of an estuary and those transitional areas which are consistently influenced or affected by water from an estuary such as, but not limited to, salt marshes, coastal and intertidal areas, bays, harbors, lagoons, inshore waters, and channels, and the term "estuary" means all or part of the mouth of a river or stream or other body of water having unimpaired natural connection with open sea and within which the sea water is measurably diluted with fresh water derived from land drainage.
 
 #### (o) Methods of reducing total flow of sewage and unnecessary water consumption; reports
 
@@ -146,7 +146,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 (4)
 
-Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
+Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes andtechniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
 
 #### (r) Research grants to colleges and universities
 
@@ -258,7 +258,7 @@ Applicability.—The Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)) 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Columbia River Basin System; Protection From Oil Spills and Discharges; Criteria for Evaluation and Report to Congress by Commandant of Coast Guard in Consultation With Federal, Etc., Agencies
 

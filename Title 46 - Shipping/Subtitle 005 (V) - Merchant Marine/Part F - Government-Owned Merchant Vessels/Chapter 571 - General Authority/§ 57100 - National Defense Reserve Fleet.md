@@ -8,7 +8,7 @@ Fleet Components.—The Secretary of Transportation shall maintain a National De
 
 Permitted Uses.—Except as otherwise provided by law, a vessel in the fleet may be used—
 
-&emsp;(1) for an account of an agency of the United States Government in a period during which vessels may be requisitioned under section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242); <sup>1</sup> or
+&emsp;(1) for an account of an agency of the United States Government in a period during which vessels may be requisitioned under chapter 563; or
 
 &emsp;(2) on the request of the Secretary of Defense, and in accordance with memoranda of agreement between the Secretary of Transportation and the Secretary of Defense, for—
 
@@ -16,7 +16,7 @@ Permitted Uses.—Except as otherwise provided by law, a vessel in the fleet may
 
 &emsp;&emsp;(B) defense sealift functions for which other sealift assets are not reasonably available; and
 
-&emsp;&emsp;(C) support of the deployment of the United States armed forces in a militarycontingency, for military contingency operations, or for civil contingency operations upon orders from the National Command Authority;
+&emsp;&emsp;(C) support of the deployment of the United States armed forces in a military contingency, for military contingency operations, or for civil contingency operations upon orders from the National Command Authority;
 
 &emsp;(3) for otherwise lawfully permitted storage or transportation of non-defense-related cargo as directed by the Secretary of Transportation with the concurrence of the Secretary of Defense;
 
@@ -78,7 +78,7 @@ Exemption From Tank Vessel Construction Standards.—Vessels in the National Def
 
 (f)
 
-Use of NDRF Vessels for Civil Contingency Operations and Promotional and Media Events.—With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration's mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
+Use of NDRF Vessels for Civil Contingency Operations and Promotional and MediaEvents.—With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration's mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
 
 &emsp;(1)
 
@@ -86,7 +86,7 @@ Availability.—The availability of NDRF or Ready Reserve Force (RRF) resources 
 
 &emsp;(2)
 
-Interference.—Whether the such <sup>2</sup> use of vessels will support the mission of the Maritime Administration and not significantly interfere with NDRF vessel maintenance, repair, safety, readiness, and resource availability.
+Interference.—Whether the use of such of <sup>1</sup> vessels will support the mission of the Maritime Administration and not significantly interfere with NDRF vessel maintenance, repair, safety, readiness, and resource availability.
 
 &emsp;(3)
 
@@ -104,19 +104,19 @@ Other matters.—Any other matters the Maritime Administrator considers appropri
 
 Vessel Status.—A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be an obsolete vessel shall remain a vessel within the meaning of that term in section 3 of title 1, United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
 
-(Added and amended Pub. L. 115–91, div. C, title XXXV, §3502(a)(3), (b)(6), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. A, title VIII, §809(q), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 118–31, div. C, title XXXV, §3514(j)(2), Dec. 22, 2023, 137 Stat. 811.)
+(Added and amended Pub. L. 115–91, div. C, title XXXV, §3502(a)(3), (b)(6), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. A, title VIII, §809(q), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 118–31, div. C, title XXXV, §3514(j)(2), Dec. 22, 2023, 137 Stat. 811; Pub. L. 118–159, div. C, title XXXV, §3535(c), Dec. 23, 2024, 138 Stat. 2314.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902 of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to this title prior to repeal and restatement as chapter 563 of this title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
 
 #### Codification
 
 Section, as added and amended by Pub. L. 115–91, is based on act Mar. 8, 1946, ch. 82, §11, 60 Stat. 49; June 28, 1947, ch. 161, §1, 61 Stat. 190; Feb. 27, 1948, ch. 78, §1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, §1, 63 Stat. 349; June 30, 1950, ch. 427, §2, 64 Stat. 308; Pub. L. 97–31, §12(157), Aug. 6, 1981, 95 Stat. 167; Pub. L. 101–115, §6, Oct. 13, 1989, 103 Stat. 693; Pub. L. 101–225, title III, §307(12), Dec. 12, 1989, 103 Stat. 1925; Pub. L. 102–241, §57, Dec. 19, 1991, 105 Stat. 2234; Pub. L. 102–587, title VI, §6205(a), Nov. 4, 1992, 106 Stat. 5094; Pub. L. 104–106, div. A, title X, §1014(b), Feb. 10, 1996, 110 Stat. 424; Pub. L. 104–239, §9, Oct. 8, 1996, 110 Stat. 3133; Pub. L. 109–364, div. C, title XXXV, §3503, Oct. 17, 2006, 120 Stat. 2516; Pub. L. 110–181, div. C, title XXXV, §§3513, 3516, Jan. 28, 2008, 122 Stat. 594, 595; Pub. L. 112–81, div. C, title XXXV, §3502, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–213, title IV, §410, Dec. 20, 2012, 126 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3504, Dec. 23, 2016, 130 Stat. 2776, which was formerly classified to section 4405 of Title 50, War and National Defense, before being transferred to this chapter and renumbered as this section.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–159, §3535(c)(1), substituted "chapter 563" for "section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242)".
+
+Subsec. (f)(2). Pub. L. 118–159, §3535(c)(2), substituted "the use of such" for "the such use".
 
 <b>2023</b>—Subsec. (g). Pub. L. 118–31 substituted "an obsolete vessel" for "of insufficient value to remain in the National Defense Reserve Fleet".
 
@@ -148,15 +148,19 @@ Pub. L. 118–31, div. C, title XXXV, §3535, Dec. 22, 2023, 137 Stat. 835, prov
 
 #### Recapitalization of National Defense Reserve Fleet
 
-Pub. L. 117–263, div. C, title XXXV, §3546, Dec. 23, 2022, 136 Stat. 3100, as amended by Pub. L. 118–31, div. C, title XXXV, §3532, Dec. 22, 2023, 137 Stat. 827, provided that:
+Pub. L. 117–263, div. C, title XXXV, §3546, Dec. 23, 2022, 136 Stat. 3100, as amended by Pub. L. 118–31, div. C, title XXXV, §3532, Dec. 22, 2023, 137 Stat. 827; Pub. L. 118–159, div. C, title XXXV, §3533, Dec. 23, 2024, 138 Stat. 2313, provided that:
 
 "(a)
 
-In General.—Subject to the availability of appropriations made specifically available for reimbursements to the Ready Reserve Force, Maritime Administration account of the Department of Transportation for programs, projects, activities, and expenses related to the National Defense Reserve Fleet, the Secretary of the Navy, in consultation with the Chief of Naval Operations and the Commandant of the Coast Guard, shall—
+In General.—
 
-&emsp;"(1) complete the design of a sealift vessel for the National Defense Reserve Fleet to allow for the construction of such vessel to begin in fiscal year 2025; and
+&emsp;"(1)
 
-&emsp;"(2) seek to enter into an agreement with an appropriate vessel construction manager under which the vessel construction manager shall enter into a contract for the construction of not more than ten such vessels in accordance with this section.
+Vessel construction.—Subject to the availability of appropriations, the Secretary of Transportation, in consultation with the Chief of Naval Operations and the Commandant of the Coast Guard, shall complete the design of a sealift vessel for the National Defense Reserve Fleet to allow for the construction of such vessel to begin in fiscal year 2025.
+
+&emsp;"(2)
+
+Agreement with vessel construction manager.—Notwithstanding section 8679 of title 10, United States Code, and subject to the availability of appropriations made specifically available for reimbursements to the Ready Reserve Force, Maritime Administration account of the Department of Transportation for programs, projects, activities, and expenses related to the National Defense Reserve Fleet, the Secretary of the Transportation, in consultation with the Secretary of the Navy, shall seek to enter into an agreement with an appropriate vessel construction manager under which the vessel construction manager shall enter into a contract for the construction of not more than ten such vessels in accordance with this section.
 
 "(b)
 
@@ -168,7 +172,7 @@ Design Standards and Construction Practices.—Subject to subsection (b), a vess
 
 "(d)
 
-Consultation With Other Federal Entities.—The Secretary of the Navy shall consult and coordinate with the Secretary of Transportation and may consult with the heads of other appropriate Federal agencies regarding the vessel described in subsection (a) and activities associated with such vessel.
+Consultation With Other Federal Entities.—The Secretary of Transportation shall consult and coordinate with the Secretary of the Navy and may consult with the heads of other appropriate Federal agencies regarding the vessel described in subsection (a) and activities associated with such vessel.
 
 "(e)
 
@@ -216,7 +220,5 @@ Reports.—The Secretary shall submit to the Congress—
 
 &emsp;"(2) a final report on that effectiveness no later than 6 months after the termination of all contracts awarded pursuant to this section."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

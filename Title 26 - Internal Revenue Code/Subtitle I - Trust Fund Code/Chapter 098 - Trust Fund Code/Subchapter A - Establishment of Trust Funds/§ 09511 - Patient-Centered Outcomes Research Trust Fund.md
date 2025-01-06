@@ -94,7 +94,7 @@ The Secretary of the Treasury shall be a trustee of the PCORTF.
 
 #### (C) Requirements
 
-&emsp;&emsp;Of the amounts transferred under subparagraph (A) with respect to a fiscal year, the Secretary of Health and Human Services shall distribute—
+&emsp;&emsp;Of the amounts transferred under subparagraph (A) with respect to a fiscal year, theSecretary of Health and Human Services shall distribute—
 
 &emsp;&emsp;&emsp;(i) 80 percent to the Office of Communication and Knowledge Transfer of the Agency for Healthcare Research and Quality (or any other relevant office designated by Agency for Healthcare Research and Quality) to carry out the activities described in section 937 of the Public Health Service Act; and
 

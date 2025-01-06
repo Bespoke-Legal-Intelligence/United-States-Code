@@ -26,7 +26,7 @@ Funds made available for adult education and literacy activities under this subc
 
 #### (3) Decrease in Federal support
 
-&emsp;If the amount made available for adult education and literacy activities under this subchapter for a fiscal year is less than the amount made available for adult education and literacy activities under this subchapter for the preceding fiscal year, then the fiscal effort per student and the aggregate expenditures of an eligible agency required in order to avoid a reduction under paragraph (1)(B) shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+&emsp;If the amount made available for adult education and literacy activities under this subchapter for a fiscal year is less than the amount made available for adult education and literacy activities under this subchapterfor the preceding fiscal year, then the fiscal effort per student and the aggregate expenditures of an eligible agency required in order to avoid a reduction under paragraph (1)(B) shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 #### (4) Waiver
 

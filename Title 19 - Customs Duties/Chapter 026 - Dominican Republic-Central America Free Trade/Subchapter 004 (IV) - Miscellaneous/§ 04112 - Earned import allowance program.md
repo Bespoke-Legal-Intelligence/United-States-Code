@@ -20,7 +20,7 @@
 
 &emsp;The elements referred to in paragraph (1) are the following:
 
-&emsp;&emsp;(A) One credit shall be issued to a producer or an entity controlling production for every two square meter equivalents of qualifying fabric that the producer or entity controlling production can demonstrate that it has purchased for the manufacture in an eligible country of articles like or similar to any article eligible for preferential treatment under subsection (a). The Secretary of Commerce shall, if requested by a producer orentity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits may be deposited.
+&emsp;&emsp;(A) One credit shall be issued to a producer or an entity controlling production for every two square meter equivalents of qualifying fabric that the producer or entity controlling production can demonstrate that it has purchased for the manufacture in an eligible country of articles like or similar to any article eligible for preferential treatment under subsection (a). The Secretary of Commerce shall, if requested by a producer or entity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits may be deposited.
 
 &emsp;&emsp;(B) Such producer or entity controlling production may redeem credits issued under subparagraph (A) for earned import allowance certificates reflecting such number of earned credits as the producer or entity may request and has available.
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;(3) the term "eligible country" means the Dominican Republic; and
 
-&emsp;(4) the term "qualifying fabric" means woven fabric of cotton wholly formed in the United States from yarns wholly formed in the United States and certified by the producer or entity controlling production as being suitable for use in the manufacture of apparel items such as trousers, bib and brace overalls, breeches and shorts, skirts and divided skirts or pants, all the foregoing of cotton, except that—
+&emsp;(4) the term "qualifying fabric" means woven fabric of cotton wholly formed in theUnited States from yarns wholly formed in the United States and certified by the producer or entity controlling production as being suitable for use in the manufacture of apparel items such as trousers, bib and brace overalls, breeches and shorts, skirts and divided skirts or pants, all the foregoing of cotton, except that—
 
 &emsp;&emsp;(A) fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifying fabric because the fabric contains nylon filament yarn with respect to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) a limited appointment of a career candidate for the minimum time needed to resolve a grievance, claim, investigation, or complaint not otherwise provided for in this section.
 
-(c)(1) Except as provided in paragraph (2) noncareer employees who have served for 5 consecutive years under a limited appointment under this section may be reappointed to a subsequent noncareer limited appointment if there is at least a 1-year break in service before such new appointment.
+(c)(1) Except as provided in paragraph (2) noncareer employees who have served for 5 consecutive years under a limited appointment under this section may be reappointed to a subsequentnoncareer limited appointment if there is at least a 1-year break in service before such new appointment.
 
 (2) The Secretary may waive the 1-year break requirement under paragraph (1) in cases of special need.
 

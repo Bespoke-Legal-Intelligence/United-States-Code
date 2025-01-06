@@ -10,7 +10,7 @@ The term "agency" includes any department, independent establishment, commission
 
 #### Historical and Revision Notes
 
-This section defines the terms "department" and "agency" of the United States. The word "department" appears 57 times in title 18, U.S.C., 1940 ed., and the word "agency" 14 times. It was considered necessary to define clearly these words in order to avoid possible litigation as to the scope or coverage of a given section containing such words. (See <i>United States v. Germaine</i>, 1878, 99 U.S. 508, 25 L. Ed. 482, for definition of words "department" or "head of department.")
+This section defines the terms "department" and "agency" of the United States. The word "department"appears 57 times in title 18, U.S.C., 1940 ed., and the word "agency" 14 times. It was considered necessary to define clearly these words in order to avoid possible litigation as to the scope or coverage of a given section containing such words. (See <i>United States v. Germaine</i>, 1878, 99 U.S. 508, 25 L. Ed. 482, for definition of words "department" or "head of department.")
 
 The phrase "corporation in which the United States has a proprietary interest" is intended to include those governmental corporations in which stock is not actually issued, as well as those in which stock is owned by the United States. It excludes those corporations in which the interest of the Government is custodial or incidental.
 

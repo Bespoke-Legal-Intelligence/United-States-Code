@@ -70,7 +70,7 @@ Subject to the availability of funds to carry out this section, the Director sha
 
 #### (B) Ability
 
-&emsp;&emsp;Awards of scholarships under this subsection shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to award one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States recipients' places of permanent residence.
+&emsp;&emsp;Awards of scholarships under this subsection shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantiallyequal ability, and there are not sufficient scholarships available to award one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States recipients' places of permanent residence.
 
 #### (3) Omitted
 

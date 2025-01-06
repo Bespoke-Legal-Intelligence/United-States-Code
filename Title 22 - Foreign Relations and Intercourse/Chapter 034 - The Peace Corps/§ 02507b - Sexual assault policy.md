@@ -6,7 +6,7 @@ The President shall develop and implement a comprehensive sexual assault policy 
 
 &emsp;(1) includes a system for restricted and unrestricted reporting of sexual assault;
 
-&emsp;(2) mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safeenvironment and accompanying victims through the in-country response at the request of the victim;
+&emsp;(2) mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safe environment and accompanying victims through the in-country response at the request of the victim;
 
 &emsp;(3) requires any employee of the Peace Corps to immediately contact a Victim's Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c);
 
@@ -66,7 +66,7 @@ The President shall train all staff outside the United States regarding the sexu
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(3). Pub. L. 115–256, §303(1), substituted "any employee of the Peace Corps" for "SARLs" and "Victim's Advocate" for "Victim Advocate" and inserted "and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)" before semicolon at end.
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–256, §303(1), substituted "any employee of the Peace Corps" for "SARLs" and "Victim's Advocate" for "Victim Advocate" and inserted "and require the Peace Corps to designate the staff at each post who shall be responsiblefor providing the services described in subsection (c)" before semicolon at end.
 
 Subsec. (a)(7) to (10). Pub. L. 115–256, §303(2)–(4), added pars. (7) to (10).
 

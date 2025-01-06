@@ -14,7 +14,7 @@ In this subchapter and subchapter V of this chapter:
 
 &emsp;(6) The term "Fund" means the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund established under section 2883(a) of this title.
 
-&emsp;(7) The term "housing document" means a document developed by the Secretary of Defense under section 2890 of this title and known as the Military Housing Privatization Initiative Tenant Bill of Rights or the Military Housing Privatization Initiative Tenant Responsibilities.
+&emsp;(7) The term "housing document" means a document developed by the Secretary of Defense under section 2890 of this title and known as the Military Housing PrivatizationInitiative Tenant Bill of Rights or the Military Housing Privatization Initiative Tenant Responsibilities.
 
 &emsp;(8) The term "housing unit" means a unit of family housing or military unaccompanied housing acquired or constructed under this subchapter.
 

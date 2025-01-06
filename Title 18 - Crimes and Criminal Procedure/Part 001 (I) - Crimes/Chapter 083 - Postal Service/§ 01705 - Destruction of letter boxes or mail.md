@@ -1,6 +1,6 @@
 ### §1705. Destruction of letter boxes or mail
 
-Whoever willfully or maliciously injures, tears down or destroys any letter box or other receptacle intended or used for the receipt or delivery of mail on any mail route, or breaks open the same or willfully or maliciously injures, defaces or destroys any mail deposited therein, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever willfully or maliciously injures, tears down or destroys any letter box or other receptacle intended or used for the receipt or deliveryof mail on any mail route, or breaks open the same or willfully or maliciously injures, defaces or destroys any mail deposited therein, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, §38, 63 Stat. 95; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title III, §3002(a)(2), Nov. 2, 2002, 116 Stat. 1805.)
 

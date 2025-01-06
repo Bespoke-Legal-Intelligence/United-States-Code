@@ -1,6 +1,6 @@
 ### §1623. False declarations before grand jury or court
 
-(a) Whoever under oath (or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code) in any proceeding before or ancillary to any court or grand jury of the United States knowingly makes any false material declaration or makes or uses any other information, including any book, paper, document, record, recording, or other material, knowing the same to contain any false material declaration, shall be fined under this title or imprisoned not more than five years, or both.
+(a) Whoever under oath (or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code) in any proceeding before or ancillary to any court or grand jury of the United States knowingly makes any false material declaration or makes or uses any other information, including any book, paper, document, record, recording, or other material, knowing the same to contain any false material declaration, shall be fined under this title or imprisoned not more than five years or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803), imprisoned not more than ten years, or both.
 
 (b) This section is applicable whether the conduct occurred within or without the United States.
 
@@ -12,15 +12,17 @@
 
 > In any prosecution under this section, the falsity of a declaration set forth in the indictment or information shall be established sufficient for conviction by proof that the defendant while under oath made irreconcilably contradictory declarations material to the point in question in any proceeding before or ancillary to any court or grand jury. It shall be a defense to an indictment or information made pursuant to the first sentence of this subsection that the defendant at the time he made each declaration believed the declaration was true.
 
-(d) Where, in the same continuous court or grand jury proceeding in which a declaration is made, the person making the declaration admits such declaration to be false, such admission shall bar prosecution under this section if, at the time the admission is made, the declaration has not substantially affected the proceeding, or it has not become manifest that such falsity has been or will be exposed.
+(d) Where, in the same continuous court or grand jury proceeding in which a declaration is made, the person making the declaration admits such declaration to be false, such admissionshall bar prosecution under this section if, at the time the admission is made, the declaration has not substantially affected the proceeding, or it has not become manifest that such falsity has been or will be exposed.
 
 (e) Proof beyond a reasonable doubt under this section is sufficient for conviction. It shall not be necessary that such proof be made by any particular number of witnesses or by documentary or other type of evidence.
 
-(Added Pub. L. 91–452, title IV, §401(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 94–550, §6, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 91–452, title IV, §401(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 94–550, §6, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 118–49, §13(d), Apr. 20, 2024, 138 Stat. 882.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–49 inserted "or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803), imprisoned not more than ten years" before ", or both".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 

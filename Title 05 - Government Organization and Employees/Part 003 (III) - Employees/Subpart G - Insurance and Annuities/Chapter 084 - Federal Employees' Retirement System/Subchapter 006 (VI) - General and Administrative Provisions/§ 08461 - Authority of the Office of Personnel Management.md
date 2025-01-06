@@ -6,7 +6,7 @@
 
 (c) The Office shall adjudicate all claims under the provisions of this chapter administered by the Office.
 
-(d) The Office shall determine questions of disability and dependency arising under the provisions of this chapter administered by the Office. Except to the extent provided under subsection (e), the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under the provisions of this chapter administered by the Office. The Office may suspend or deny annuity for failure to submit to examination.
+(d) The Office shall determine questions of disability and dependency arising under the provisions of this chapter administered by the Office.Except to the extent provided under subsection (e), the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under the provisions of this chapter administered by the Office. The Office may suspend or deny annuity for failure to submit to examination.
 
 (e)(1) Subject to paragraph (2), an administrative action or order affecting the rights or interests of an individual or of the United States under the provisions of this chapter administered by the Office may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
 
@@ -130,5 +130,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 
-For provisions relating to the deductions and contributions required with respect to individuals electing under section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+For provisions relating to the deductions and contributions required with respect to individuals electingunder section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 

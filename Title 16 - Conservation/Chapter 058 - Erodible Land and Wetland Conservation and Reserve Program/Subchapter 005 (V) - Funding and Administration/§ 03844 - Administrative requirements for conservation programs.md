@@ -52,7 +52,7 @@
 
 #### (A) Release and disclosure for enforcement
 
-&emsp;&emsp;The Secretary may release or disclose to the Attorney General information coveredby paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
+&emsp;&emsp;The Secretary may release or disclose to the Attorney General information covered by paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
 
 #### (B) Disclosure to cooperating persons and agencies
 
@@ -148,7 +148,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (A) Shelterbelts and windbreaks
 
-&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that issubject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
+&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
 
 #### (B) Wet and saturated soils
 
@@ -196,7 +196,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 &emsp;&emsp;On completion of the review the Secretary shall revise application forms and processes, as necessary, to ensure that—
 
-&emsp;&emsp;&emsp;(i) all required application information is essential for the efficient, effective, and accountable implementation of conservation programs;
+&emsp;&emsp;&emsp;(i) all required application information is essential for the efficient, effective, andaccountable implementation of conservation programs;
 
 &emsp;&emsp;&emsp;(ii) conservation program applicants are not required to provide information that is readily available to the Secretary through existing information systems of the Department of Agriculture;
 

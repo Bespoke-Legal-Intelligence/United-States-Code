@@ -202,7 +202,7 @@
 
 #### (D) Grouped reviews
 
-&emsp;&emsp;The Commission, in consultation with the administering authority, may group ordersor suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
+&emsp;&emsp;The Commission, in consultation with the administering authority, may group orders or suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
 
 #### (6) Special transition rules
 
@@ -242,7 +242,7 @@
 
 #### (D) Issue date for transition orders
 
-&emsp;&emsp;For purposes of this subsection, a transition order shall be treated as issued on the date the WTO Agreement enters into force with respect to the United States, if such order is based on an investigation conducted by both the administering authority and the Commission.
+&emsp;&emsp;For purposes of this subsection, a transition order shall be treated as issued on thedate the WTO Agreement enters into force with respect to the United States, if such order is based on an investigation conducted by both the administering authority and the Commission.
 
 #### (7) Exclusions from computations
 
@@ -370,7 +370,7 @@ Pub. L. 109–280, title XIV, §1632(a), Aug. 17, 2006, 120 Stat. 1165, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### <b>Executive Documents</b>
 

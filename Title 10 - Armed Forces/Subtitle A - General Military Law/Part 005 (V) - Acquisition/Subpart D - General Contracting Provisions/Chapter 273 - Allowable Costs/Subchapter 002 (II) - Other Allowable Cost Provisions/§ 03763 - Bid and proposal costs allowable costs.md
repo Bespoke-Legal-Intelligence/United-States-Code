@@ -14,7 +14,7 @@ Goal for Reimbursable Bid and Proposal Costs.—The Secretary shall establish a 
 
 (d)
 
-Panel.—(1) If the Department of Defense exceeds the goal established under subsection (c) for a fiscal year, within 180 days after exceeding the goal, the Secretary shall establish an advisory panel. The panel shall be supported by the Defense Acquisition University and the National Defense University, including administrative support.
+Panel.—(1) If the Department of Defense exceeds the goal established under subsection (c)for a fiscal year, within 180 days after exceeding the goal, the Secretary shall establish an advisory panel. The panel shall be supported by the Defense Acquisition University and the National Defense University, including administrative support.
 
 (2) The panel shall be composed of nine individuals who are recognized experts in acquisition and procurement policy appointed by the Secretary. In making such appointments, the Secretary shall ensure that the members of the panel reflect diverse experiences in the public and private sector.
 

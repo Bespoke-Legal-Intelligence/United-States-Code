@@ -26,7 +26,7 @@ In this section, the term "medically necessary leave of absence" means, with res
 
 &emsp;&emsp;(A) is a dependent child, under the terms of the plan, of a participant or beneficiary under the plan; and
 
-&emsp;&emsp;(B) was enrolled in the plan, on the basis of being a student at a postsecondary educational institution (as described in subsection (a)), immediately before the first dayof the medically necessary leave of absence involved.
+&emsp;&emsp;(B) was enrolled in the plan, on the basis of being a student at a postsecondary educational institution (as described in subsection (a)), immediately before the first day of the medically necessary leave of absence involved.
 
 #### (3) Certification by physician
 

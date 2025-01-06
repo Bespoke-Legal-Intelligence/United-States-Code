@@ -6,7 +6,7 @@
 
 &emsp;(B) the placement of a minor child with the member for adoption or long-term foster care.
 
-(2)(A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under subparagraph (A) <sup>2</sup> to be taken after the one-year period described in subparagraph (A) <sup>2</sup> inthe case of a member described in subsection (b) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in subparagraph (A) <sup>2</sup> as a result of—
+(2)(A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under subparagraph (A) <sup>2</sup> to be taken after the one-year period described in subparagraph (A) <sup>2</sup> in the case of a member described in subsection (b) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in subparagraph (A) <sup>2</sup> as a result of—
 
 &emsp;(i) operational requirements;
 
@@ -22,9 +22,45 @@
 
 &emsp;(2) the individual ready reserve who is entitled to compensation under section 206 of title 37 when attending or participating in a sufficient number of periods of inactive-duty training during a year to count the year as a qualifying year of creditable service toward eligibility for retired pay.
 
-(Added Pub. L. 118–31, div. A, title VI, §601(a)(1), Dec. 22, 2023, 137 Stat. 288.)
+(Added Pub. L. 118–31, div. A, title VI, §601(a)(1), Dec. 22, 2023, 137 Stat. 288; amended Pub. L. 118–159, div. A, title VI, §603(a), (b)(1), Dec. 23, 2024, 138 Stat. 1931.)
+
+#### Amendment of Section
+
+<i>Pub. L. 118–159, div. A, title VI, §603(a), (b)(1), (c), Dec. 23, 2024, 138 Stat. 1931, provided that, effective Oct. 1, 2025, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2)—</i>
+
+<i>(A) by striking "subparagraph (A)" each place it appears and inserting "paragraph (1)"; and</i>
+
+<i>(B) in subparagraph (B)—</i>
+
+<i>(i) by striking "clause (i)" and inserting "subparagraph (A)"; and</i>
+
+<i>(ii) by striking ".;" and inserting a period; and</i>
+
+<i>(2) in subsection (b), in the matter preceding paragraph (1), by striking "is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who".</i>
+
+<i>See 2024 Amendment notes below.</i>
+
+#### Renumbering of Section
+
+<i>Pub. L. 118–159, div. A, title VI, §603(b)(2), (c), Dec. 23, 2024, 138 Stat. 1931, provided that, effective Oct. 1, 2025, this section is renumbered section 710a of this title.</i>
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–159, §603(b)(1)(A), substituted "paragraph (1)" for "subparagraph (A)" wherever appearing.
+
+Subsec. (a)(2)(B). Pub. L. 118–159, §603(b)(1)(B), substituted "subparagraph (A)" for "clause (i)" and a period for ".;" at end.
+
+Subsec. (b). Pub. L. 118–159, §603(a), struck out "is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who" after "described in this subsection" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. A, title VI, §603(c), Dec. 23, 2024, 138 Stat. 1931, provided that:"The amendments made by this section \[amending and renumbering this section\] shall take effect on October 1, 2025."
 
 #### Effective Date
 

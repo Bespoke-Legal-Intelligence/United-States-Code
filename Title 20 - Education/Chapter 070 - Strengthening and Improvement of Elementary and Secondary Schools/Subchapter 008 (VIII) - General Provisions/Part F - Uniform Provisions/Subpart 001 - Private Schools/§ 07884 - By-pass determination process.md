@@ -52,7 +52,7 @@ Any determination by the Secretary under this section shall continue in effect u
 
 #### (c) Payment from State allotment
 
-When the Secretary arranges for services pursuant to this section, the Secretary shall, afterconsultation with the appropriate public and private school officials, pay the cost of those services, including the administrative costs of arranging for those services, from the appropriate allocation or allocations under this chapter.
+When the Secretary arranges for services pursuant to this section, the Secretary shall, after consultation with the appropriate public and private school officials, pay the cost of those services, including the administrative costs of arranging for those services, from the appropriate allocation or allocations under this chapter.
 
 #### (d) Prior determination
 

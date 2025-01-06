@@ -44,7 +44,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 &emsp;&emsp;The following need not include a notice that the institution is not federally insured:
 
-&emsp;&emsp;&emsp;(i) Any sign, document, or other item that contains the name of the depositoryinstitution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution's products or services or information otherwise promoting the institution.
+&emsp;&emsp;&emsp;(i) Any sign, document, or other item that contains the name of the depository institution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution's products or services or information otherwise promoting the institution.
 
 &emsp;&emsp;&emsp;(ii) Small utilitarian items that do not mention deposit products or insurance if inclusion of the notice would be impractical.
 
@@ -60,7 +60,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (B) New depositors obtained through a conversion or merger
 
-&emsp;&emsp;With respect to a depositor at a federally insured depository institution that converts to, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
+&emsp;&emsp;With respect to a depositor at a federally insured depository institution that convertsto, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
 
 &emsp;&emsp;&emsp;(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
 

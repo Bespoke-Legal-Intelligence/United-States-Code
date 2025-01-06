@@ -6,7 +6,7 @@ Calculation.—The district court shall calculate interest required to be paid u
 
 &emsp;(1)
 
-Period of not more than one year.—Where the period for which interest is owed is not more than one year, interest shall be calculated from the date of taking at an annual rate equal to the weekly average one-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the date of taking.
+Period of not more than one year.—Where the period for which interest is owed isnot more than one year, interest shall be calculated from the date of taking at an annual rate equal to the weekly average one-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the date of taking.
 
 &emsp;(2)
 

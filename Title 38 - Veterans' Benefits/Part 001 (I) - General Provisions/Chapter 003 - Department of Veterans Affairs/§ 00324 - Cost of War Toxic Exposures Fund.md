@@ -54,7 +54,7 @@ The Congressional Budget Act of 1974, referred to in subsec. (d)(1)(C), (3), is 
 
 The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (d)(1)(D), is title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to chapter 20A (§931 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 931 of Title 2 and Tables.
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (d)(2), is Pub. L.93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 

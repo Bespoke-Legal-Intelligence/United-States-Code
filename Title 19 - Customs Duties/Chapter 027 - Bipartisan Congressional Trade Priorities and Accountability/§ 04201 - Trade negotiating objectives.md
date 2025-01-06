@@ -64,7 +64,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(iv) improve import check processes, including testing methodologies and procedures, and certification requirements,
 
-> &emsp;&emsp;while recognizing that countries may put in place measures to protect human, animal, or plant life or health in a manner consistent with their international obligations, including the WTO Agreement on the Application of Sanitary and Phytosanitary Measures (referred to in section 3511(d)(3) of this title);
+> &emsp;&emsp;while recognizing that countries may put in place measures to protect human, animal, orplant life or health in a manner consistent with their international obligations, including the WTO Agreement on the Application of Sanitary and Phytosanitary Measures (referred to in section 3511(d)(3) of this title);
 
 &emsp;&emsp;(B) reducing or eliminating, by a date certain, tariffs or other charges that decrease market opportunities for United States exports—
 
@@ -96,7 +96,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(v) restrictive rules in the administration of tariff rate quotas;
 
-&emsp;&emsp;(J) eliminating practices that adversely affect trade in perishable or cyclical products, while improving import relief mechanismsto recognize the unique characteristics of perishable and cyclical agriculture;
+&emsp;&emsp;(J) eliminating practices that adversely affect trade in perishable or cyclical products, while improving import relief mechanisms to recognize the unique characteristics of perishable and cyclical agriculture;
 
 &emsp;&emsp;(K) ensuring that import relief mechanisms for perishable and cyclical agriculture are as accessible and timely to growers in the United States as those mechanisms that are used by other countries;
 
@@ -122,7 +122,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (4) Foreign investment
 
-&emsp;Recognizing that United States law on the whole provides a high level of protection for investment, consistent with or greater than the level required by international law, the principal negotiating objectives of the United States regarding foreign investment are to reduce or eliminate artificial or trade distorting barriers to foreign investment, while ensuring that foreign investors in the United States are not accorded greater substantive rights with respect to investment protections than United States investors in the United States, and to secure for investors important rights comparable to those that would be available under United States legal principles and practice, by—
+&emsp;Recognizing that United States law on the whole provides a high level of protection for investment, consistent with or greater than the level required by international law, the principal negotiating objectives of the United States regarding foreign investment are to reduce or eliminate artificial or trade distorting barriers to foreign investment, while ensuringthat foreign investors in the United States are not accorded greater substantive rights with respect to investment protections than United States investors in the United States, and to secure for investors important rights comparable to those that would be available under United States legal principles and practice, by—
 
 &emsp;&emsp;(A) reducing or eliminating exceptions to the principle of national treatment;
 
@@ -164,7 +164,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(A) to further promote adequate and effective protection of intellectual property rights, including through—
 
-&emsp;&emsp;&emsp;(i)(I) ensuring accelerated and full implementation of the Agreement on Trade-Related Aspects of Intellectual PropertyRights referred to in section 3511(d)(15) of this title, particularly with respect to meeting enforcement obligations under that agreement; and
+&emsp;&emsp;&emsp;(i)(I) ensuring accelerated and full implementation of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title, particularly with respect to meeting enforcement obligations under that agreement; and
 
 &emsp;&emsp;&emsp;(II) ensuring that the provisions of any trade agreement governing intellectual property rights that is entered into by the United States reflect a standard of protection similar to that found in United States law;
 
@@ -192,7 +192,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(i) electronically delivered goods and services receive no less favorable treatment under trade rules and commitments than like products delivered in physical form; and
 
-&emsp;&emsp;&emsp;(ii) the classification of such goods and services ensures the most liberal trade treatment possible, fully encompassing both existing and new trade;
+&emsp;&emsp;&emsp;(ii) the classification of such goods and services ensures the most liberal tradetreatment possible, fully encompassing both existing and new trade;
 
 &emsp;&emsp;(C) to ensure that governments refrain from implementing trade-related measures that impede digital trade in goods and services, restrict cross-border data flows, or require local storage or processing of data;
 
@@ -262,7 +262,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;&emsp;(I) its statutes or regulations implementing internationally recognized core labor standards (as defined in section 4210(17) of this title), in a manner affecting trade or investment between the United States and that party, where the waiver or derogation would be inconsistent with one or more such standards, or
 
-&emsp;&emsp;&emsp;&emsp;(II) its environmental laws in a manner that weakens or reduces the protections afforded in those laws and in a manner affecting trade or investment between the United States and that party, except as provided in its law and provided not inconsistent with its obligations under common multilateral environmental agreements (as defined in section 4210(6) of this title) or other provisions of the trade agreement specifically agreed upon, and
+&emsp;&emsp;&emsp;&emsp;(II) its environmental laws in a manner that weakens or reduces the protections afforded in those laws and in a manner affecting trade or investment between the United States and that party, except as provided in its law and provided not inconsistent with its obligations undercommon multilateral environmental agreements (as defined in section 4210(6) of this title) or other provisions of the trade agreement specifically agreed upon, and
 
 &emsp;&emsp;&emsp;(iii) does not fail to effectively enforce its environmental or labor laws, through a sustained or recurring course of action or inaction,
 
@@ -376,7 +376,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (18) Border taxes
 
-&emsp;The principal negotiating objective of the United States regarding border taxes is to obtain a revision of the rules of the World Trade Organization with respect to the treatment of border adjustments for internal taxes to redress the disadvantage to countries relying primarily on direct taxes for revenue rather than indirect taxes.
+&emsp;The principal negotiating objective of the United States regarding border taxes is to obtain a revision of the rules of the World Trade Organization with respect to the treatment ofborder adjustments for internal taxes to redress the disadvantage to countries relying primarily on direct taxes for revenue rather than indirect taxes.
 
 #### (19) Textile negotiations
 
@@ -502,5 +502,5 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[For delegation of authority and functions under section 103(a)(1)(A) and (b)(1) of Pub. L. 114–26, notwithstanding section 1(b)(ii) of Ex. Ord. No. 13701, set out above, see Memorandum of President of the United States, Jan. 29, 2016, 81 F.R. 5571, set out as a note under section 4202 of this title.\]
+\[For delegation of authority and functions under section 103(a)(1)(A) and (b)(1) of Pub. L. 114–26, notwithstanding section 1(b)(ii) of Ex. Ord. No. 13701, set out above, see Memorandum of President of the UnitedStates, Jan. 29, 2016, 81 F.R. 5571, set out as a note under section 4202 of this title.\]
 

@@ -28,7 +28,7 @@
 
 &emsp;(3) The term "Federal court facility" means the courtroom, judges' chambers, witness rooms, jury deliberation rooms, attorney conference rooms, prisoner holding cells, offices of the court clerks, the United States attorney, and the United States marshal, probation and parole offices, and adjoining corridors of any court of the United States.
 
-(h) Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (e) shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convicted of an offense under subsection (a) or (e) with respect to a Federal facility if such notice is not so posted at such facility, unless such personhad actual notice of subsection (a) or (e), as the case may be.
+(h) Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (e) shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convicted of an offense under subsection (a) or (e) with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (e), as the case may be.
 
 (Added Pub. L. 100–690, title VI, §6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, §2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, §60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, §603(t), (u), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–56, title VIII, §811(b), Oct. 26, 2001, 115 Stat. 381; Pub. L. 110–177, title II, §203, Jan. 7, 2008, 121 Stat. 2537.)
 

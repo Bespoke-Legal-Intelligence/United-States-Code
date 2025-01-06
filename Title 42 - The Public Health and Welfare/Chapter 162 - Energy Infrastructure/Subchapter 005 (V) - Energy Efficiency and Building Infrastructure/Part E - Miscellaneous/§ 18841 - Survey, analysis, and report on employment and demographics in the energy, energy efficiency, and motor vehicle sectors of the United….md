@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) uses a representative, stratified sampling of businesses in the United States; and
 
-&emsp;&emsp;(C) is designed to elicit a comparable number of responses from businesses in each State and with the same North American Industry Classification System codes as were received for the 2016 and 2017 reports entitled "U.S. Energy and Employment Report".
+&emsp;&emsp;(C) is designed to elicit a comparable number of responses from businesses in eachState and with the same North American Industry Classification System codes as were received for the 2016 and 2017 reports entitled "U.S. Energy and Employment Report".
 
 #### (3) Consultation
 

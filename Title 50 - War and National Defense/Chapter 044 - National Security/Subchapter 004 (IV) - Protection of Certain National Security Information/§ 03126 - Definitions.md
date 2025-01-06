@@ -20,7 +20,7 @@ For the purposes of this subchapter:
 
 &emsp;&emsp;(C) an individual, other than a United States citizen, whose past or present intelligence relationship to the United States is classified information and who is a present or former agent of, or a present or former informant or source of operational assistance to, an intelligence agency.
 
-&emsp;(5) The term "intelligence agency" means the elements of the intelligence community,as that term is defined in section 3003(4) of this title.
+&emsp;(5) The term "intelligence agency" means the elements of the intelligence community, as that term is defined in section 3003(4) of this title.
 
 &emsp;(6) The term "informant" means any individual who furnishes information to an intelligence agency in the course of a confidential relationship protecting the identity of such individual from public disclosure.
 

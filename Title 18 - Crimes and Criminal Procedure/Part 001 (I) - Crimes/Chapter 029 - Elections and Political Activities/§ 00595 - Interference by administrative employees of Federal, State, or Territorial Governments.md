@@ -16,7 +16,7 @@ Words "or agency thereof" and words "or any department or agency thereof" were i
 
 Words "or by the District of Columbia or any agency or instrumentality thereof" were inserted upon authority of section 61n of title 18, U.S.C., 1940 ed., which provided that for the purposes of this section, "persons employed in the government of the District of Columbia shall be deemed to be employed in the executive branch of the Government of the United States."
 
-After "State" the words "Territory, or Possession of the United States" were inserted in two places upon authority of section 61s of title 18, U.S.C., 1940 ed., which defined "State," as used in this section, as "any State, Territory, or possession of the United States."
+After "State" the words "Territory, or Possession of the United States" were inserted in two places uponauthority of section 61s of title 18, U.S.C., 1940 ed., which defined "State," as used in this section, as "any State, Territory, or possession of the United States."
 
 The punishment provision was derived from section 61g of title 18, U.S.C., 1940 ed., which, by reference, made this punishment applicable to this section.
 

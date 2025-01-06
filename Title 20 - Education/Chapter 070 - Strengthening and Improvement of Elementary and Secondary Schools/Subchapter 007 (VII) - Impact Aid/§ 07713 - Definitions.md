@@ -174,7 +174,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) equipment, machinery, and utilities necessary or appropriate for school purposes.
 
-(Pub. L. 89–10, title VII, §7013, formerly title VIII, §8013, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3769; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387; renumbered titleVII, §7013, and amended Pub. L. 114–95, title VII, §§7001(c)(2), 7012, Dec. 10, 2015, 129 Stat. 2074, 2087.)
+(Pub. L. 89–10, title VII, §7013, formerly title VIII, §8013, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3769; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387; renumbered title VII, §7013, and amended Pub. L. 114–95, title VII, §§7001(c)(2), 7012, Dec. 10, 2015, 129 Stat. 2074, 2087.)
 
 #### <b>Editorial Notes</b>
 

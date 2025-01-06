@@ -1,4 +1,4 @@
-### <b>PART I—UNITED STATES PATENT AND TRADEMARK OFFICE</b>
+## PART I—UNITED STATES PATENT AND TRADEMARK OFFICE
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |

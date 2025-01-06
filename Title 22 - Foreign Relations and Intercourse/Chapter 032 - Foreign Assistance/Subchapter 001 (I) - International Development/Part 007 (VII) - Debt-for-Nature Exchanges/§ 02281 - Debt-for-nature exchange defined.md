@@ -4,7 +4,7 @@ For purpose of this part, the term "debt-for-nature exchange" means the cancella
 
 &emsp;(1) that government's making available local currencies (including through the issuance of bonds) which are used only for eligible projects involving the conservation or protection of the environment in that country (as described in section 2283 of this title); or
 
-&emsp;(2) that government's financial resource or policy commitment to take certain specified actions to ensure the restoration, protection, or sustainable use of natural resources within that country; or
+&emsp;(2) that government's financial resource or policy commitment to take certain specifiedactions to ensure the restoration, protection, or sustainable use of natural resources within that country; or
 
 &emsp;(3) a combination of assets and actions under both paragraphs (1) and (2).
 

@@ -54,7 +54,7 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 
 #### Effective Date
 
-Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a noteunder section 8440e of Title 5, Government Organization and Employees.
+Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a note under section 8440e of Title 5, Government Organization and Employees.
 
 #### Pilot Program on Contributions to Thrift Savings Plan for Initial Enlistees in the Army
 

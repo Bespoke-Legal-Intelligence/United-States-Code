@@ -90,7 +90,7 @@ The requirements described in subsections (c), (d), and (e) shall apply to permi
 
 #### (h) Limitation
 
-This section shall not preclude the submission to the Secretary, acting through the Chief of Engineers, of a physical copy of a permit application or a request for a jurisdictional determination.
+This section shall not preclude the submission to the Secretary, acting through the Chief ofEngineers, of a physical copy of a permit application or a request for a jurisdictional determination.
 
 (Pub. L. 110–114, title II, §2040, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, §1134(a), Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, §8226, Dec. 23, 2022, 136 Stat. 3764.)
 

@@ -160,7 +160,7 @@ Regulations and guidance.—The Secretary of Transportation may apply some or al
 
 (i)
 
-Amtrak Grant Reporting.—The Secretary of Transportation shall determine the varyinglevels of detail and information that will be included in reports for operations, services, program, projects, program income, cash on hand, and other activities within each of the grant categories described in subsection (c)(2).
+Amtrak Grant Reporting.—The Secretary of Transportation shall determine the varying levels of detail and information that will be included in reports for operations, services, program, projects, program income, cash on hand, and other activities within each of the grant categories described in subsection (c)(2).
 
 (j)
 

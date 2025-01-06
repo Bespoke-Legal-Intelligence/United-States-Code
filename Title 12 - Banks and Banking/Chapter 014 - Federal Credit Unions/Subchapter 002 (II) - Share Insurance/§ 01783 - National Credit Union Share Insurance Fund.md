@@ -2,7 +2,7 @@
 
 #### (a) Creation; use of fund
 
-There is hereby created in the Treasury of the United States a National Credit Union Share Insurance Fund which shall be used by the Board as a revolving fund for carrying out the purposes of this subchapter. Money in the fund shall be available upon requisition by the Board, without fiscal year limitation, for making payments of insurance under section 1787 of this title, for providing assistance and making expenditures under section 1788 of this title in connection with the liquidation or threatened liquidation of insured credit unions, and for such administrative and other expenses incurred in carrying out the purposes of this subchapter as it may determine to be proper.
+There is hereby created in the Treasury of the United States a National Credit Union Share Insurance Fund which shall be used by the Board as a revolving fund for carrying out the purposes of this subchapter. Money in the fund shall be available upon requisition by the Board, without fiscal year limitation, for making payments of insurance under section 1787 of this title, for providing assistance and making expenditures under section 1788 of this title in connection with the liquidation or threatened liquidation ofinsured credit unions, and for such administrative and other expenses incurred in carrying out the purposes of this subchapter as it may determine to be proper.
 
 #### (b) Deposit of deposits and premium charges, fees and penalties
 
@@ -26,7 +26,7 @@ Temporary increases authorized.—
 
 &emsp;(A)
 
-Recommendations for increase.—During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to theamount so determined to be necessary, not to exceed $30,000,000,000.
+Recommendations for increase.—During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to the amount so determined to be necessary, not to exceed $30,000,000,000.
 
 &emsp;(B)
 

@@ -12,7 +12,7 @@
 
 (3) Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred by either this chapter or subchapter I of chapter 81.
 
-(b) If an individual is entitled to an annuity under subchapter II, IV, or V, and the individual receives a lump-sum payment for compensation under section 8135 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Department of Labor, shall be refunded to that Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
+(b) If an individual is entitled to an annuity under subchapter II, IV, or V, and the individual receives a lump-sum payment for compensation under section 8135 based on the disability or death of the same person, so much of the compensation as has been paid for a period extendedbeyond the date payment of the annuity commences, as determined by the Department of Labor, shall be refunded to that Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
 
 &emsp;(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
 

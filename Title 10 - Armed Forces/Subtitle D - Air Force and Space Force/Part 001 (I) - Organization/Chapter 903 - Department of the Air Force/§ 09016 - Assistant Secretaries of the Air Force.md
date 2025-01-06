@@ -14,7 +14,7 @@
 
 (4)(A) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Air Force.
 
-(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Air Force for Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management.The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Air Force for Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
 
 (5)(A) One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
 
@@ -34,17 +34,17 @@
 
 &emsp;&emsp;(I) The Space Rapid Capabilities Office under section 2273a of this title.
 
-&emsp;&emsp;(II) The Space and Missile Systems Center.
+&emsp;&emsp;(II) The Space Systems Command.
 
 &emsp;&emsp;(III) The Space Development Agency with respect to acquisition decisions.
 
 &emsp;(v) Advise and synchronize acquisition projects for all space systems and programs of the Air Force, including projects for space systems and programs responsibility for which is transferred to the Assistant Secretary pursuant to section 956(b)(3) of the United States Space Force Act.
 
-&emsp;(vi) Effective as of the date specified in section 957(d) of such Act, and in accordance with such section 957, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs anddischarge any senior procurement executive duties and authorities assigned by the Secretary of the Air Force pursuant to section 9014(c)(6) of this title.
+&emsp;(vi) Effective as of the date specified in section 957(d) of such Act, and in accordance with such section 957, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs and discharge any senior procurement executive duties and authorities assigned by the Secretary of the Air Force pursuant to section 9014(c)(6) of this title.
 
 (C) The Assistant Secretary of the Air Force for Space Acquisition and Integration shall have a Principal Military Deputy for Space Acquisition and Integration, who shall be an officer of the Space Force on active duty. The Principal Military Deputy for Space Acquisition and Integration shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy for Space Acquisition and Integration shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Air Force for Space Acquisition and Integration, the Principal Military Deputy for Space Acquisition and Integration may serve as Acting Assistant Secretary for Space Acquisition and Integration for a period of not more than one year.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058, §8016; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996; Pub. L. 110–181, div. A, title IX, §908(c), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, §502(ii), title VIII, §802(c), title IX, §934(a), Dec. 23, 2016, 130 Stat. 2105, 2249, 2365; Pub. L. 115–91, div. A, title IX, §921(c), Dec. 12, 2017, 131 Stat. 1524; renumbered §9016, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title VIII, §861(j)(16), title IX, §§911(c), 956(b)(1), Dec. 20, 2019, 133 Stat. 1520, 1559, 1565; Pub. L. 116–283, div. A, title XVI, §1601(c), Jan. 1, 2021, 134 Stat. 4042; Pub. L. 117–81, div. A, title IX, §905(a)(2)(B), (b)(2), title XVI, §1602(a)(2), (b)(2), Dec. 27, 2021, 135 Stat. 1872, 2076, 2077; Pub. L. 118–31, div. A, title XVI, §1604, Dec. 22, 2023, 137 Stat. 586.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058, §8016; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996; Pub. L. 110–181, div. A, title IX, §908(c), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, §502(ii), title VIII, §802(c), title IX, §934(a), Dec. 23, 2016, 130 Stat. 2105, 2249, 2365; Pub. L. 115–91, div. A, title IX, §921(c), Dec. 12, 2017, 131 Stat. 1524; renumbered §9016, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title VIII, §861(j)(16), title IX, §§911(c), 956(b)(1), Dec. 20, 2019, 133 Stat. 1520, 1559, 1565; Pub. L. 116–283, div. A, title XVI, §1601(c), Jan. 1, 2021, 134 Stat. 4042; Pub. L. 117–81, div. A, title IX, §905(a)(2)(B), (b)(2), title XVI, §1602(a)(2), (b)(2), Dec. 27, 2021, 135 Stat. 1872, 2076, 2077; Pub. L. 118–31, div. A, title XVI, §1604, Dec. 22, 2023, 137 Stat. 586; Pub. L. 118–159, div. A, title V, §521(i), Dec. 23, 2024, 138 Stat. 1882.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +59,8 @@ Section 956(b)(3) of the United States Space Force Act and section 957 of that A
 Provisions similar to those in this section were contained in section 3013 of this title prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(6)(B)(iv)(II). Pub. L. 118–159 substituted "Space Systems Command" for "Space and Missile Systems Center".
 
 <b>2023</b>—Subsec. (b)(6)(C). Pub. L. 118–31 added subpar. (C).
 
@@ -110,7 +112,47 @@ For applicability of appointment qualifications imposed by section 921 of Pub. L
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VII, §702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendmentsmade by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order."
+Pub. L. 100–456, div. A, title VII, §702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendments made by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order."
+
+#### Senior Advisor for Space Command, Control, and Integration
+
+Pub. L. 118–159, div. A, title XVI, §1607, Dec. 23, 2024, 138 Stat. 2162, provided that:
+
+"(a)
+
+Designation.—Not later than 30 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Assistant Secretary of the Air Force for Space Acquisition and Integration, acting as the service acquisition executive for the Air Force for space systems and programs, shall designate from among qualified officers and employees of the Department of Defense a Senior Advisor for Space Command, Control, and Integration.
+
+"(b)
+
+Responsibilities.—The Senior Advisor shall be responsible for conducting oversight of all acquisition efforts within the authority of the Assistant Secretary with respect to developing, upgrading, deploying, and sustaining space command, control, and integration to meet the space command, control, and integration requirements of the combatant commands, including by monitoring system-level integration of each of the following:
+
+&emsp;"(1) Space domain sensors.
+
+&emsp;"(2) Space catalog.
+
+&emsp;"(3) Target recognition.
+
+&emsp;"(4) Weapons system selection and control.
+
+&emsp;"(5) Battle damage assessment.
+
+&emsp;"(6) Associated communications among elements of the space control and command architecture of the Department of Defense.
+
+"(c)
+
+Notification.—Not later than 10 days after the date on which a designation is made under subsection (a), the Assistant Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of such designation.
+
+"(d)
+
+Annual Review.—Not later than June 30 of each year, the Space Acquisition Council established by section 9021 of title 10, United States Code, shall review whether the requirements of the United States Space Command with respect to space command, control, and integration are being fulfilled.
+
+"(e)
+
+Annual Briefing.—At the same time as the submission of each budget of the President under section 1105(a) of title 31, United States Code, through fiscal year 2029, the Assistant Secretary, in consultation with the Commander of the United States Space Command, shall provide to the congressional defense committees a briefing on the status of all space command, control, and integration activities to support the missions of the Armed Forces. The briefing shall include—
+
+&emsp;"(1) accomplishments achieved in the year prior to the submission of the respective budget; and
+
+&emsp;"(2) actions to meet the requirements of the United States Space Command with respect to space command, control, and integration that will be taken during the period covered by the most recent future-years defense program submitted under section 221 of title 10, United States Code, as of the date of the briefing."
 
 #### Assistant Secretary of the Air Force for Space Acquisition and Integration
 
@@ -130,7 +172,7 @@ References.—Any reference to the Principal Assistant to the Secretary of the A
 
 #### Transfer of Acquisition Projects for Space Systems and Programs
 
-Pub. L. 116–92, div. A, title IX, §956(b)(3), Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 117–81, div. A, title IX, §905(a)(2)(A), title XVI, §1602(b)(3), Dec. 27, 2021, 135 Stat. 1871, 2077, provided that: "Effective on the date specified in section 957(d), the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of section 9016(b) of title 10, United States Code (as added by this subsection), responsibility for architecture and integration of any acquisition projects for space systems and programs of the Armed Forces that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of the day before the date specified in section 957(d)."
+Pub. L. 116–92, div. A, title IX, §956(b)(3), Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 117–81, div. A, title IX, §905(a)(2)(A), title XVI, §1602(b)(3), Dec. 27, 2021, 135Stat. 1871, 2077, provided that: "Effective on the date specified in section 957(d), the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of section 9016(b) of title 10, United States Code (as added by this subsection), responsibility for architecture and integration of any acquisition projects for space systems and programs of the Armed Forces that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of the day before the date specified in section 957(d)."
 
 \[Pub. L. 117–81, div. A, title XVI, §1602(b)(3), Dec. 27, 2021, 135 Stat. 2077, which directed substitution of "of the Armed Forces" for "of the Air Force", was executed by making the substitution after "space systems and programs" to reflect the probable intent of Congress.\]
 

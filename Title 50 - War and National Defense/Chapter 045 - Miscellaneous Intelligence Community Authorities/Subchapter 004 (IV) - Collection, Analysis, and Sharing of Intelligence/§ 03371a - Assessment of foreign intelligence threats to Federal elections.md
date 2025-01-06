@@ -66,5 +66,5 @@ Not later than 90 days before any regularly scheduled Federal election occurring
 
 #### Definitions
 
-For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definitions of "congressional intelligence committees" and "intelligence community" as used in thissection, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) individuals with mental illness are vulnerable to abuse and serious injury;
 
-&emsp;(2) family members of individuals with mental illness play a crucial role in being advocates for the rights of individuals with mentalillness where the individuals are minors, the individuals are legally competent and choose to involve the family members, and the individuals are legally incompetent and the legal guardians, conservators, or other legal representatives are members of the family;
+&emsp;(2) family members of individuals with mental illness play a crucial role in being advocates for the rights of individuals with mental illness where the individuals are minors, the individuals are legally competent and choose to involve the family members, and the individuals are legally incompetent and the legal guardians, conservators, or other legal representatives are members of the family;
 
 &emsp;(3) individuals with mental illness are subject to neglect, including lack of treatment, adequate nutrition, clothing, health care, and adequate discharge planning; and
 

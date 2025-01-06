@@ -10,3 +10,9 @@ Each list may include items that are not related to the AUKUS partnership but ma
 
 (Pub. L. 118–31, div. A, title XIII, §1342, Dec. 22, 2023, 137 Stat. 509.)
 
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions and authorities vested in the President under this section delegated to Secretary of State, in consultation with Secretaries of Defense and Energy, by Memorandum of President of the United States, §1(c)(ii), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
+

@@ -10,7 +10,7 @@
 
 &emsp;(3) a United States officer or employee sued in an official capacity; or
 
-&emsp;(4) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which theUnited States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that officer or employee.
+&emsp;(4) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which the United States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that officer or employee.
 
 (c) The district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause. In addition, if the district court finds—
 

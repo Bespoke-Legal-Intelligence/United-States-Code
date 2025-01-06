@@ -24,7 +24,7 @@
 
 > such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
 
-(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
+(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, inthe ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
 
 &emsp;(A) not later than 45 days after the date of receipt of such goods by the debtor; or
 
@@ -58,11 +58,11 @@
 
 #### legislative statements
 
-Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
+Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the courtto grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
 
 #### senate report no. 95–989
 
-The trustee's rights and powers under certain of the avoiding powers are limited by section 546. First, if an interest holder against whom the trustee would haverights still has, under applicable nonbankruptcy law, and as of the date of the petition, the opportunity to perfect his lien against an intervening interest holder, then he may perfect his interest against the trustee. If applicable law requires seizure for perfection, then perfection is by notice to the trustee instead. The rights granted to a creditor under this subsection prevail over the trustee only if the transferee has perfected the transfer in accordance with applicable law, and that perfection relates back to a date that is before the commencement of the case.
+The trustee's rights and powers under certain of the avoiding powers are limited by section 546. First, if an interest holder against whom the trustee would have rights still has, under applicable nonbankruptcy law, and as of the date of the petition, the opportunity to perfect his lien against an intervening interest holder, then he may perfect his interest against the trustee. If applicable law requires seizure for perfection, then perfection is by notice to the trustee instead. The rights granted to a creditor under this subsection prevail over the trustee only if the transferee has perfected the transfer in accordance with applicable law, and that perfection relates back to a date that is before the commencement of the case.
 
 The phrase "generally applicable law" relates to those provisions of applicable law that apply both in bankruptcy cases and outside of bankruptcy cases. For example, many State laws, under the Uniform Commercial Code, permit perfection of a purchase-money security interest to relate back to defeat an earlier levy by another creditor if the former was perfected within ten days of delivery of the property. U.C.C. §9–301(2). Such perfection would then be able to defeat an intervening hypothetical judicial lien creditor on the date of the filing of the petition. The purpose of the subsection is to protect, in spite of the surprise intervention of a bankruptcy petition, those whom State law protects by allowing them to perfect their liens or interests as of an effective date that is earlier than the date of perfection. It is not designed to give the States an opportunity to enact disguised priorities in the form of liens that apply only in bankruptcy cases.
 
@@ -130,7 +130,7 @@ Subsec. (e). Pub. L. 99–554, §283(l), inserted a comma after "stockbroker".
 
 Subsec. (b). Pub. L. 98–353, §461(b), substituted "a trustee under sections 544, 545, and" for "the trustee under sections 544, 545, or".
 
-Subsec. (c). Pub. L. 98–353, §§351(1), 461(c)(1)–(4), substituted "Except as provided in subsection (d) of thissection, the" for "The", substituted "a trustee" for "the trustee", struck out "right" before "or common-law", inserted "of goods that has sold goods to the debtor" after "seller", and struck out "of goods to the debtor" after "business,".
+Subsec. (c). Pub. L. 98–353, §§351(1), 461(c)(1)–(4), substituted "Except as provided in subsection (d) of this section, the" for "The", substituted "a trustee" for "the trustee", struck out "right" before "or common-law", inserted "of goods that has sold goods to the debtor" after "seller", and struck out "of goods to the debtor" after "business,".
 
 Subsec. (c)(2). Pub. L. 98–353, §461(c)(5)(A), inserted "the" after "if" in provisions preceding subpar. (A).
 

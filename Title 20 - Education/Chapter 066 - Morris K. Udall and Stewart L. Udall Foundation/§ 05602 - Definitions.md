@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 &emsp;(12) the term "Trust Fund" means the Morris K. Udall and Stewart L. Udall Trust Fund established in section 5606 of this title.
 
-(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, §2, Feb. 11, 1998, 112 Stat. 8; Pub.L. 105–244, title I, §102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 111–90, §4, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, §302(a), Dec. 20, 2019, 133 Stat. 3186.)
+(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, §2, Feb. 11, 1998, 112 Stat. 8; Pub. L. 105–244, title I, §102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 111–90, §4, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, §302(a), Dec. 20, 2019, 133 Stat. 3186.)
 
 #### <b>Editorial Notes</b>
 

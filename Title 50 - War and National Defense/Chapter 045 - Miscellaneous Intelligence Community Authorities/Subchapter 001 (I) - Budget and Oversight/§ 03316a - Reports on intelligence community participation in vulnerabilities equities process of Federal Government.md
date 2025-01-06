@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Vulnerabilities Equities Process
 
-&emsp;The term "Vulnerabilities Equities Process" means the interagency review of vulnerabilities, pursuant to theVulnerabilities Equities Policy and Process document or any successor document.
+&emsp;The term "Vulnerabilities Equities Process" means the interagency review of vulnerabilities, pursuant to the Vulnerabilities Equities Policy and Process document or any successor document.
 
 #### (3) Vulnerability
 
@@ -78,5 +78,5 @@ In this section:
 
 #### Definitions
 
-For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definitions of "congressional intelligence committees" and "intelligence community" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

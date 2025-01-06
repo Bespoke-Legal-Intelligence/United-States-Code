@@ -6,7 +6,7 @@ The Secretary of State shall publish annually, on a publicly accessible website,
 
 #### (b) Classified list
 
-The Secretary of State shall provide to the appropriate congressional committees a classified list of countries where the government is making limited or no efforts to comply with minimum standards set forth in section 10503 of this title, and are not achieving meaningful progress on combating corruption. Such list shall include a brief description of each country's lack of progress or justification for being on such list.
+The Secretary of State shall provide to the appropriate congressional committees a classified list of countries where the government is making limited or no efforts to comply with minimum standards set forth in section 10503 of this title, and are not achieving meaningful progresson combating corruption. Such list shall include a brief description of each country's lack of progress or justification for being on such list.
 
 #### (c) Annual update
 
@@ -24,7 +24,7 @@ The Secretary of State shall provide an annual update in a classified setting to
 
 #### (e) Exception to publication
 
-The Secretary may, in specific instances where the Secretary determines the inclusion of specific countries on the public list required by subsection (a) would not be in the national interests of the United States, submit the information required by subsection (a) about such specific countries in a classified manner in writing to the appropriate congressional committees, together with a justification for why publication would not be in the national interest. The justification, if applicable, shall be submittedthe same date as the public list required by subsection (a).
+The Secretary may, in specific instances where the Secretary determines the inclusion of specific countries on the public list required by subsection (a) would not be in the national interests of the United States, submit the information required by subsection (a) about such specific countries in a classified manner in writing to the appropriate congressional committees, together with a justification for why publication would not be in the national interest. The justification, if applicable, shall be submitted the same date as the public list required by subsection (a).
 
 (Pub. L. 118–31, div. E, title LIV, §5403, Dec. 22, 2023, 137 Stat. 944.)
 

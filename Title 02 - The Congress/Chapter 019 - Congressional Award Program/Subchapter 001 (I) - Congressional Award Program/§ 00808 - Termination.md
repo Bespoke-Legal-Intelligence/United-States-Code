@@ -24,7 +24,7 @@ The Board shall terminate October 1, 2023.
 
 <b>1990</b>—Pub. L. 101–525 amended section generally, substituting present provision for provisions which had: in subsec. (a) directed that the Board terminate on Nov. 15, 1989; in subsec. (b) provided for alternative termination dates; in subsec. (c) required reports to Congress; in subsecs. (d) and (e) required certification of compliance and verification of information, respectively; and in subsec. (f) mandated dissolution of corporations established by the Board prior to its termination.
 
-<b>1988</b>—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: "The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under section 806(g) of this title. The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board."
+<b>1988</b>—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: "The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actionsas may be required to provide for the dissolution of any corporation established by the Board under section 806(g) of this title. The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board."
 
 <b>1985</b>—Pub. L. 99–161 substituted "on November 16, 1988" for "six years after November 16, 1979".
 

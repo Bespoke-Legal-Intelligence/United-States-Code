@@ -28,7 +28,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) National Forest System land; or
 
-&emsp;&emsp;&emsp;(ii) public land (as defined in section 1702 of title 43).
+&emsp;&emsp;&emsp;(ii) public land (as defined in section 1702 of title 43); or
+
+&emsp;&emsp;&emsp;(iii) National Park System land; or
+
+&emsp;&emsp;&emsp;(iv) National Wildlife Refuge Land.
 
 #### (B) Exclusions
 
@@ -56,7 +60,7 @@ In this section:
 
 &emsp;&emsp;The term "forest, rangeland, and watershed restoration services" does not include—
 
-&emsp;&emsp;&emsp;(i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System or Bureau of Land Management managed road that is—
+&emsp;&emsp;&emsp;(i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System, Bureau of Land Management, National Park Service, or National Wildlife Refuge managed road that is—
 
 &emsp;&emsp;&emsp;&emsp;(I) necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
 
@@ -122,15 +126,19 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Funds received from the sale of timber by a Governor of a State under a good neighbor agreement shall be retained and used by the Governor—
+&emsp;&emsp;&emsp;Funds received from the sale of timber by a Governor, Indian Tribe, or countyunder a good neighbor agreement shall be retained and used by the Governor, Indian Tribe, or county, as applicable—
 
-&emsp;&emsp;&emsp;&emsp;(I) to carry out authorized restoration services on Federal land under the good neighbor agreement; and
+&emsp;&emsp;&emsp;&emsp;(I) to carry out authorized restoration services on <sup>1</sup> under the good neighbor agreement; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services on Federal land within the State under other good neighbor agreements.
+&emsp;&emsp;&emsp;&emsp;(II) if there are funds remaining after carrying out clause (i),<sup>2</sup> to carry out—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) authorized restoration services under other good neighbor agreements; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) authorized recreation services under the Good Neighbor Authority for Recreation Act.
 
 #### (ii) Termination of effectiveness
 
-&emsp;&emsp;&emsp;The authority provided by this subparagraph terminates effective October 1, 2023.
+&emsp;&emsp;&emsp;The authority provided under this subparagraph terminates effective October 1, 2028.
 
 #### (3) Retention of NEPA responsibilities
 
@@ -138,21 +146,35 @@ In this section:
 
 #### (4) Receipts
 
-&emsp;Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System land or Bureau of Land Management land, as applicable.
+&emsp;Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System, Bureau of Land Management, National Park System, or U.S. Fish and Wildlife Service land, as applicable.
 
-(Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, §212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877; Pub. L. 117–328, div. G, title IV, §439, Dec. 29, 2022, 136 Stat. 4832.)
+(Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, §212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877; Pub. L. 117–328, div. G, title IV, §439, Dec. 29, 2022, 136 Stat. 4832; Pub. L. 118–42, div. E, title IV, §443, Mar. 9, 2024, 138 Stat. 297; Pub. L. 118–234, title III, §351(b)(3)(B), Jan. 4, 2025, 138 Stat. 2916.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
+The Good Neighbor Authority for Recreation Act, referred to in subsec. (b)(2)(C)(i)(II)(bb), probably means section 351 of Pub. L. 118–234, which is classified to section 8571 of this title and defines "authorized recreation services". Section 351 of Pub. L. 118–234 contains the heading "Good neighbor authority for recreation", but no Short Title was enacted.
+
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Codification
 
+Pub. L. 118–42, §443, which directed amendment of section 8206 of the "Agriculture Act of 2014", was executed to this section, which is section 8206 of the Agricultural Act of 2014, to reflect the probable intent of Congress.
+
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (b)(2)(C). Pub. L. 118–234 amended subpar. (C) generally. Prior to amendment, subpar. (C) related to treatment of revenue received from sale of timber by a Governor of a State under a good neighbor agreement, and such authority terminated Oct. 1, 2024.
+
+<b>2024</b>—Subsec. (a)(3)(A)(iii), (iv). Pub. L. 118–42, §443(1), added cls. (iii) and (iv). See Codification note above.
+
+Subsec. (a)(4)(B)(i). Pub. L. 118–42, §443(2), (3), in introductory provisions, substituted a comma for "or" before "Bureau of Land Management" and inserted ", National Park Service, or National Wildlife Refuge" after "Bureau of Land Management". See Codification note above.
+
+Subsec. (b)(2)(C)(ii). Pub. L. 118–42, §443(4), substituted "2024" for "2023". See Codification note above.
+
+Subsec. (b)(4). Pub. L. 118–42, §443(5), (6), substituted a comma for "land or" before "Bureau of Land Management" and inserted ", National Park System, or U.S. Fish and Wildlife Service" after "Bureau of Land Management". See Codification note above.
 
 <b>2022</b>—Subsec. (a)(4)(B)(i). Pub. L. 117–328 inserted "or Bureau of Land Management managed" after "National Forest System" in introductory provisions.
 
@@ -204,11 +226,15 @@ Subsec. (a)(10). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (9) as (1
 
 Subsec. (b)(1)(A). Pub. L. 115–334, §8624(b)(2)(A), inserted "or county" after "Governor".
 
-Subsec. (b)(2)(A). Pub. L. 115–334, §8624(b)(2)(B), substituted "good neighbor agreement" for "cooperativeagreement or contract entered into under subsection (a)".
+Subsec. (b)(2)(A). Pub. L. 115–334, §8624(b)(2)(B), substituted "good neighbor agreement" for "cooperative agreement or contract entered into under subsection (a)".
 
 Subsec. (b)(2)(C). Pub. L. 115–334, §8624(c), added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 115–334, §8624(b)(2)(C), inserted "or county" after "Governor".
 
 Subsec. (b)(4). Pub. L. 115–334, §8624(b)(2)(D), added par. (4).
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subclause (I)".</i>
 

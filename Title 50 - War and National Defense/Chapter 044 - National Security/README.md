@@ -32,6 +32,7 @@
 | [3034a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034a%20-%20Functional%20Managers%20for%20the%20intelligence%20community.md) | Functional Managers for the intelligence community. |
 | [3034b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034b%20-%20Intelligence%20Community%20Chief%20Data%20Officer.md) | Intelligence Community Chief Data Officer. |
 | [3034c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034c%20-%20Intelligence%20Community%20Innovation%20Unit.md) | Intelligence Community Innovation Unit. |
+| [3034d.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003034d%20-%20National%20Intelligence%20Management%20Council.md) | National Intelligence Management Council. |
 | [3035\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003035%20-%20Central%20Intelligence%20Agency.md) | Central Intelligence Agency. |
 | [3036\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003036%20-%20Director%20of%20the%20Central%20Intelligence%20Agency.md) | Director of the Central Intelligence Agency. |
 | [3037\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003037%20-%20Deputy%20Director%20of%20the%20Central%20Intelligence%20Agency.md) | Deputy Director of the Central Intelligence Agency. |
@@ -52,6 +53,7 @@
 | [3048\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003048%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md) | Detail of intelligence community personnel—Intelligence Community Assignment Program. |
 | [3049\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003049%20-%20Non-reimbursable%20detail%20of%20other%20personnel.md) | Non-reimbursable detail of other personnel. |
 | [3049a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003049a%20-%20Special%20pay%20authority%20for%20science%2C%20technology%2C%20engineering%2C%20or%20mathematics%20positions%20and%20positions%20requiring%20banking%20or%20financial%E2%80%A6.md) | Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise. |
+| [3049b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003049b%20-%20Enabling%20intelligence%20community%20integration.md) | Enabling intelligence community integration. |
 | [3050\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003050%20-%20Annual%20report%20on%20hiring%20and%20retention%20of%20minority%20employees.md) | Annual report on hiring and retention of minority employees. |
 | [3051\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003051%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93259%2C%20title%20III%2C%20%C2%A7347%28c%29%2C%20Oct.%207%2C%202010%2C%20124%20Stat.%202698.md) | Repealed. |
 | [3052\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2003052%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md) | Limitation on establishment or operation of diplomatic intelligence support centers. |
@@ -214,6 +216,7 @@
 | [3227a.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227a%20-%20Degree-granting%20authority.md) | Degree-granting authority. |
 | [3227b.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227b%20-%20Reporting.md) | Reporting. |
 | [3227c.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227c%20-%20Continued%20applicability%20of%20the%20Federal%20Advisory%20Committee%20Act%20to%20the%20Board%20of%20Visitors.md) | Continued applicability of the Federal Advisory Committee Act to the Board of Visitors. |
+| [3227d.](Subchapter%20008%20%28VIII%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/Part%20D%20-%20National%20Intelligence%20University/%C2%A7%2003227d%20-%20National%20Intelligence%20University%20acceptance%20of%20grants.md) | National Intelligence University acceptance of grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

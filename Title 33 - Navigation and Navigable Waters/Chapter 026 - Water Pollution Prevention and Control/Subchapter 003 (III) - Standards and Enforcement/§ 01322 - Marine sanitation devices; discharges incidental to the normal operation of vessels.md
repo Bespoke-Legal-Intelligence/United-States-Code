@@ -56,7 +56,7 @@ In this section, the term—
 
 #### (b) Federal standards of performance
 
-(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as "standards") which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety andthe marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
+(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as "standards") which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
 (2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
@@ -118,11 +118,11 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 #### (i) Jurisdiction to restrain violations; contempts
 
-The district courts of the United States shall have jurisdictions to restrain violations of subsection (g)(1) of this section and subsections (h)(1) through (3) of this section. Actions to restrain such violations shall be brought by, and in, the name of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+The district courts of the United States shall have jurisdictions to restrain violations of subsection (g)(1) of this section and subsections\(h)(1) through (3) of this section. Actions to restrain such violations shall be brought by, and in, the name of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretaryof the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
@@ -272,7 +272,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (D) Petition for review
 
-&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standard under paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forth in paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
+&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standard under paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forthin paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
 
 #### (6) Effect on other laws
 
@@ -342,7 +342,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (9) Enforcement
 
-&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k), against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
+&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k), against anyagency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
 
 #### (o) Management practices for recreational vessels
 
@@ -360,7 +360,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator, in consultation with the Secretary of the department in whichthe Coast Guard is operating, the Secretary of Commerce, and interested States, shall determine the discharges incidental to the normal operation of a recreational vessel for which it is reasonable and practicable to develop management practices to mitigate adverse impacts on the waters of the United States.
+&emsp;&emsp;&emsp;The Administrator, in consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall determine the discharges incidental to the normal operation of a recreational vessel for which it is reasonable and practicable to develop management practices to mitigate adverse impacts on the waters of the United States.
 
 #### (ii) Promulgation
 
@@ -458,7 +458,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (6) Prohibition relating to recreational vessels
 
-&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the watersof the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
+&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
 #### (p) Uniform national standards for discharges incidental to normal operation of vessels
 
@@ -672,7 +672,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (U) Render nonviable
 
-&emsp;&emsp;The term "render nonviable", with respect to an organism in ballast water, means the action of a ballast water management system that renders the organism permanently incapable of reproduction following treatment.
+&emsp;&emsp;The term "render nonviable", with respect to an organism in ballast water, means theaction of a ballast water management system that renders the organism permanently incapable of reproduction following treatment.
 
 #### (V) Saltwater flush
 
@@ -768,7 +768,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (B) Nonindigenous Aquatic Nuisance Prevention and Control Act regulations
 
-&emsp;&emsp;Notwithstanding section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, all regulations promulgated by the Secretary pursuant to section 1101 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4711) (as in effect on the day before December 4, 2018), including the regulations contained in subparts C and D of part 151 of title 33, Code of Federal Regulations, and subpart 162.060 of part 162 of title 46, Code of Federal Regulations (as in effect on the day before December 4, 2018), shall remain in force and effect until the applicable date described in subparagraph (C).
+&emsp;&emsp;Notwithstanding section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, allregulations promulgated by the Secretary pursuant to section 1101 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4711) (as in effect on the day before December 4, 2018), including the regulations contained in subparts C and D of part 151 of title 33, Code of Federal Regulations, and subpart 162.060 of part 162 of title 46, Code of Federal Regulations (as in effect on the day before December 4, 2018), shall remain in force and effect until the applicable date described in subparagraph (C).
 
 #### (C) Repeal on existence of final, effective, and enforceable requirements
 
@@ -858,7 +858,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (iii) Minimum requirements
 
-&emsp;&emsp;&emsp;Subject to subparagraph (D)(ii)(II), the combination of any equipment or best management practice comprising a marinepollution control device shall not be less stringent than the following provisions of the Vessel General Permit:
+&emsp;&emsp;&emsp;Subject to subparagraph (D)(ii)(II), the combination of any equipment or best management practice comprising a marine pollution control device shall not be less stringent than the following provisions of the Vessel General Permit:
 
 &emsp;&emsp;&emsp;&emsp;(I) All requirements contained in parts 2.1 and 2.2 (relating to effluent limits and related requirements), including with respect to waters subject to Federal protection, in whole or in part, for conservation purposes.
 
@@ -922,7 +922,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (II) Effect of failure to concur
 
-&emsp;&emsp;&emsp;&emsp;A failure by the Secretary to concur with the Administrator under clause (i) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under subclause (I) shall not prevent the Administrator from issuing the relevant order, subject to the condition that the Administrator shall include in the administrative record of the issuance—
+&emsp;&emsp;&emsp;&emsp;A failure by the Secretary to concur with the Administrator under clause (i) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under subclause (I) shall not prevent the Administrator from issuing the relevant order, subjectto the condition that the Administrator shall include in the administrative record of the issuance—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) documentation of the request submitted under subclause (I); and
 
@@ -1004,11 +1004,11 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) if information becomes available that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the Administrator determines was not reasonably available when the Administrator promulgated the existing requirement of the Vessel General Permit, or that the Secretary determines was not reasonably available when the Secretary promulgated the existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or the applicable existing requirement under this subparagraph, as applicable (including subsequent scarcity or unavailability of materials used to control the relevant discharge); and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the Administrator determines was not reasonably available whenthe Administrator promulgated the existing requirement of the Vessel General Permit, or that the Secretary determines was not reasonably available when the Secretary promulgated the existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or the applicable existing requirement under this subparagraph, as applicable (including subsequent scarcity or unavailability of materials used to control the relevant discharge); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) would have justified the application of a less-stringent requirement at the time of promulgation; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the Administrator determines that a material technical mistake or misinterpretation of law occurredwhen promulgating an existing requirement of the Vessel General Permit, or if the Secretary determines that a material mistake or misinterpretation of law occurred when promulgating an existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or this subsection.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating an existing requirement of the Vessel General Permit, or if the Secretary determines that a material mistake or misinterpretation of law occurred when promulgating an existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.) or this subsection.
 
 #### (D) Data availability
 
@@ -1092,7 +1092,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (ii) Draft policy
 
-&emsp;&emsp;&emsp;Not later than 180 days after December 4, 2018, the Secretary, in coordination with the Administrator, shall publish a draft policy letter, based on the best available science, describing type-approval testingmethods and protocols for ballast water management systems, if any, that—
+&emsp;&emsp;&emsp;Not later than 180 days after December 4, 2018, the Secretary, in coordination with the Administrator, shall publish a draft policy letter, based on the best available science, describing type-approval testing methods and protocols for ballast water management systems, if any, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) render nonviable organisms in ballast water; and
 
@@ -1268,7 +1268,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clauses (ii) through (v) and paragraph (10), effectivebeginning on the date on which the requirements promulgated by the Secretary under subparagraphs (A), (B), and (C) of paragraph (5) with respect to every discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection are final, effective, and enforceable, no State, political subdivision of a State, or interstate agency may adopt or enforce any law, regulation, or other requirement of the State, political subdivision, or interstate agency with respect to any such discharge.
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) through (v) and paragraph (10), effective beginning on the date on which the requirements promulgated by the Secretary under subparagraphs (A), (B), and (C) of paragraph (5) with respect to every discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection are final, effective, and enforceable, no State, political subdivision of a State, or interstate agency may adopt or enforce any law, regulation, or other requirement of the State, political subdivision, or interstate agency with respect to any such discharge.
 
 #### (ii) Identical or lesser State laws
 
@@ -1346,7 +1346,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(I) any discharge that is subject to regulation under this subsection;
 
-&emsp;&emsp;&emsp;&emsp;(II) any discharge incidental to the normal operation of a vessel from asmall vessel or fishing vessel, regardless of whether that discharge is subject to regulation under this subsection; or
+&emsp;&emsp;&emsp;&emsp;(II) any discharge incidental to the normal operation of a vessel from a small vessel or fishing vessel, regardless of whether that discharge is subject to regulation under this subsection; or
 
 &emsp;&emsp;&emsp;&emsp;(III) any discharge described in paragraph (2)(B)(ii).
 
@@ -1440,7 +1440,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) may include the preliminary views, if any, of the Great Lakes Commission on the propriety of the proposed enhanced standard of performance or other requirement;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) shall be submitted, in writing, to the Governor of each Great Lakes State and the Director of the Great Lakes National Program Office and published on the internet website ofthe Great Lakes National Program Office; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) shall be submitted, in writing, to the Governor of each Great Lakes State and the Director of the Great Lakes National Program Office and published on the internet website of the Great Lakes National Program Office; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(EE) except as provided in clause (iii), shall not be taken into consideration, or provide a basis for review, by the Administrator or the Secretary for purposes of that clause.
 
@@ -1582,7 +1582,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (VI) Action on approval
 
-&emsp;&emsp;&emsp;&emsp;On approval by the Administrator and the Secretary of a proposed standard ofperformance or other requirement under subclause (IV)(bb)—
+&emsp;&emsp;&emsp;&emsp;On approval by the Administrator and the Secretary of a proposed standard of performance or other requirement under subclause (IV)(bb)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the Administrator shall establish, by regulation, the proposed standard or requirement within the Great Lakes System in lieu of any comparable standard or other requirement promulgated under paragraph (4); and
 
@@ -1712,7 +1712,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) prohibition of the discharge would protect and enhance the quality of the specified waters within the State;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) adequate facilities for the safe and sanitary removal and treatment of the discharge are reasonably available for the water and all vessels to which the prohibition would apply;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) adequate facilities for the safe and sanitary removal and treatment ofthe discharge are reasonably available for the water and all vessels to which the prohibition would apply;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the discharge can be safely collected and stored until a vessel reaches a discharge facility or other location; and
 
@@ -1726,7 +1726,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (aa) Request
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator shall submit to the Secretary a request for writtenconcurrence with respect to a prohibition under subclause (I).
+&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator shall submit to the Secretary a request for written concurrence with respect to a prohibition under subclause (I).
 
 #### (bb) Effect of failure to concur
 
@@ -2004,7 +2004,7 @@ Grant Program.—
 
 &emsp;"(1)
 
-Matching grants.—The Secretary of the Interior may obligate an amount not to exceed theamount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2) \[now 16 U.S.C. 777c(b)(3)\], as amended by this Act), to make grants to—
+Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2) \[now 16 U.S.C. 777c(b)(3)\], as amended by this Act), to make grants to—
 
 &emsp;&emsp;"(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 
@@ -2082,7 +2082,7 @@ Notification.—Not later than one month after the guidance issued under subsect
 
 &emsp;&emsp;"(B) includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa; and
 
-&emsp;&emsp;"(C) does not include a State for which the ratio of the number of recreational vessels in the State numbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one.
+&emsp;&emsp;"(C) does not include a State for which the ratio of the number of recreational vessels in the Statenumbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one.
 
 &emsp;"(2) 'coastal waters' means—
 

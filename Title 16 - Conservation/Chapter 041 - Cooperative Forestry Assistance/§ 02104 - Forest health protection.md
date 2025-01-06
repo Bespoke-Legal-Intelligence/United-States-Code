@@ -40,7 +40,7 @@ Operations under this section to prevent, retard, control, or suppress insects o
 
 #### (d) Contribution by entity
 
-No money appropriated to implement this section shall be expended to prevent, retard, control, or suppress insects or diseases affecting trees on non-Federal land until the entity having ownership of or jurisdiction over the affected land contributes, or agrees to contribute, to the work to be done in the amount and in themanner determined appropriate by the Secretary.
+No money appropriated to implement this section shall be expended to prevent, retard, control, or suppress insects or diseases affecting trees on non-Federal land until the entity having ownership of or jurisdiction over the affected land contributes, or agrees to contribute, to the work to be done in the amount and in the manner determined appropriate by the Secretary.
 
 #### (e) Allotments to other agencies
 
@@ -62,7 +62,7 @@ The Secretary may, in the Secretary's discretion, and out of any money appropria
 
 #### (g) Partnerships
 
-The Secretary, by contract or cooperative agreement, may provide financial assistance through the Forest Service to State foresters or equivalent State officials, and private forestry and other organizations, to monitor forest health and protect the forest lands of the United States. The Secretary shall require contribution by the non-Federal entity in the amount and in the manner determined appropriate. Such non-Federal share may be in the form of cash, services, or equipment, as determined appropriate by the Secretary.
+The Secretary, by contract or cooperative agreement, may provide financial assistancethrough the Forest Service to State foresters or equivalent State officials, and private forestry and other organizations, to monitor forest health and protect the forest lands of the United States. The Secretary shall require contribution by the non-Federal entity in the amount and in the manner determined appropriate. Such non-Federal share may be in the form of cash, services, or equipment, as determined appropriate by the Secretary.
 
 #### (h) Authorization of appropriations
 
@@ -110,7 +110,7 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Sta
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
-Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L.107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, §434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, §428, Mar. 11, 2009, 123 Stat. 749, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, §434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, §428, Mar. 11, 2009, 123 Stat. 749, provided that:
 
 "
 
@@ -214,7 +214,7 @@ Prohibition on use of certain funds.—The Secretary may not conduct the pilot p
 
 &emsp;"(3)
 
-Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for theadministration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest to perform the resource management activities described in subsection (d).
+Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for the administration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest to perform the resource management activities described in subsection (d).
 
 &emsp;"(4)
 

@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "exposure tracking record system"—
 
-&emsp;&emsp;(A) means any system, program, or pilot program used by the Secretary of Veterans Affairs or the Secretary of Defense to track how veterans or members of the Armed Forces have been exposed to various occupational or environmental hazards; and
+&emsp;&emsp;(A) means any system, program, or pilot program used by the Secretary of VeteransAffairs or the Secretary of Defense to track how veterans or members of the Armed Forces have been exposed to various occupational or environmental hazards; and
 
 &emsp;&emsp;(B) includes the Individual Longitudinal Exposure Record, or successor system.
 

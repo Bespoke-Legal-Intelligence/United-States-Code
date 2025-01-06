@@ -76,7 +76,7 @@ The Governance Board shall have the following duties with respect to the DTS–P
 
 &emsp;(6) To approve or disapprove the nomination of the Director of the DTS–PO by the Executive Agent with a majority vote of the Governance Board.
 
-&emsp;(7) To recommend to the Executive Agent the replacement of the Director of the DTS–PO with a majority vote of the Governance Board.
+&emsp;(7) To recommend to the Executive Agent the replacement of the Director of theDTS–PO with a majority vote of the Governance Board.
 
 #### (f) National security interests
 

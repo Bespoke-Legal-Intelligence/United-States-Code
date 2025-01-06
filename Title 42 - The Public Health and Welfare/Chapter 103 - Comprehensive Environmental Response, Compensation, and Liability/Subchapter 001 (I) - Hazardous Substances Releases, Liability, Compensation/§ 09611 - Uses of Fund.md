@@ -26,7 +26,7 @@ Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of 
 
 #### (1) In general
 
-&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 oftitle 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
+&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 of title 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
 
 #### (2) Limitation on payment of natural resource claims
 
@@ -118,7 +118,7 @@ Except in a situation requiring action to avoid an irreversible loss of natural 
 
 #### (j) Use of Post-closure Liability Fund
 
-The President shall use the money in the Post-closure Liability Fund for any of the purposes specified in subsection (a) of this section withrespect to a hazardous waste disposal facility for which liability has transferred to such fund under section 9607(k) of this title, and, in addition, for payment of any claim or appropriate request for costs of response, damages, or other compensation for injury or loss under section 9607 of this title or any other State or Federal law, resulting from a release of a hazardous substance from such a facility.
+The President shall use the money in the Post-closure Liability Fund for any of the purposes specified in subsection (a) of this section with respect to a hazardous waste disposal facility for which liability has transferred to such fund under section 9607(k) of this title, and, in addition, for payment of any claim or appropriate request for costs of response, damages, or other compensation for injury or loss under section 9607 of this title or any other State or Federal law, resulting from a release of a hazardous substance from such a facility.
 
 #### (k) Inspector General
 
@@ -204,7 +204,7 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 #### References in Text
 
-Title II of Public Law 99–160 (relating to payment to the Hazardous Substances Trust Fund), referred to in subsec. (a), is title II of Pub. L. 99–160, Nov. 25, 1985, 99 Stat. 914. Provisions of title II relating to the Hazardous Substance Response Trust Fund are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Title II of Public Law 99–160 (relating to payment to the Hazardous Substances Trust Fund), referred to insubsec. (a), is title II of Pub. L. 99–160, Nov. 25, 1985, 99 Stat. 914. Provisions of title II relating to the Hazardous Substance Response Trust Fund are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Intervention on the High Seas Act, referred to in subsec. (a)(1), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§1471 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 33 and Tables.
 
@@ -256,7 +256,7 @@ Subsec. (c). Pub. L. 99–499, §§111(d), 207(d)(2), in par. (1), substituted "
 
 Subsec. (e)(2). Pub. L. 99–499, §111(e), inserted at end "No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances."
 
-Subsec. (e)(3). Pub. L. 99–499, §111(f), inserted before the period at end "; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party".
+Subsec. (e)(3). Pub. L. 99–499, §111(f), inserted before the period at end "; except that money in the Fundshall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party".
 
 Subsec. (f). Pub. L. 99–499, §207(d)(3), inserted "or Indian tribe".
 

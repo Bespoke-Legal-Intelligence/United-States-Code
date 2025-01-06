@@ -102,7 +102,7 @@ The advisory council shall meet at the call of the chair or on the request of th
 
 #### (h) Staff
 
-The Director shall make available to the advisory council such staff, information, and otherassistance as it may require to carry out its functions.
+The Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions.
 
 #### (i) Orientation and training
 

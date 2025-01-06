@@ -10,7 +10,7 @@ Except as provided under subsection (d) or in accordance with the procedures und
 
 #### (b) Post closing notification
 
-Not less than 45 days before the closing of any United States consular or diplomatic post abroad, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Not less than 45 days before the closing of any United States consular or diplomatic postabroad, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 #### (c) Reprogramming treatment
 
@@ -42,5 +42,5 @@ Provisions similar to this section were contained in Pub. L. 100–204, title I,
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, seesection 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

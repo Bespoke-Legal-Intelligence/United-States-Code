@@ -74,7 +74,7 @@
 
 #### (4) Special rule
 
-&emsp;In the case of an institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and has fewer than 10 scores reported on any singleinitial teacher certification or licensure assessment during an academic year, the institution shall collect and publish information, as required under paragraph (1)(B), with respect to an average pass rate and scaled score on each State certification or licensure assessment taken over a three-year period.
+&emsp;In the case of an institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and has fewer than 10 scores reported on any single initial teacher certification or licensure assessment during an academic year, the institution shall collect and publish information, as required under paragraph (1)(B), with respect to an average pass rate and scaled score on each State certification or licensure assessment taken over a three-year period.
 
 #### (b) State report card on the quality of teacher preparation
 

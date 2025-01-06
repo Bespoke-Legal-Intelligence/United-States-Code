@@ -8,7 +8,7 @@ In order to provide for maximum efficiency in the administration of the flood in
 
 &emsp;(2) Receiving from the Administrator, disbursing, and accounting for funds in making such payments.
 
-&emsp;(3) Making such audits of the records of any insurance company or other insurer, insuranceagent or broker, or insurance adjustment organization as may be necessary to assure that proper payments are made.
+&emsp;(3) Making such audits of the records of any insurance company or other insurer, insurance agent or broker, or insurance adjustment organization as may be necessary to assure that proper payments are made.
 
 &emsp;(4) Placing reinsurance coverage on insurance provided by such program.
 

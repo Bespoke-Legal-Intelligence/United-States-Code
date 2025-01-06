@@ -22,7 +22,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
 
-&emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, orchange of use for which a notice is required by subsection (b), in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
+&emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b), in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
 
 > the amount which the United States is entitled to recover under paragraph (1) with respect to a facility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly 90-day Treasury bill auction rate.
 
@@ -54,7 +54,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 The right of recovery of the United States under subsection (a) shall not constitute a lien on any facility with respect to which funds have been paid under this subchapter.
 
-(July 1, 1944, ch. 373, title XVI, §1622, formerly §1631, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2269; amended Pub. L. 94–278, title XI, §1106(c), Apr. 22, 1976, 90 Stat. 416; renumbered §1622 and amended Pub. L. 96–79, title II, §§202(b), 203(c), Oct. 4, 1979, 93 Stat. 632, 635; Pub. L. 98–369, div. B. title III, §2381(b), July 18, 1984, 98 Stat. 1114.)
+(July 1, 1944, ch. 373, title XVI, §1622, formerly §1631, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88Stat. 2269; amended Pub. L. 94–278, title XI, §1106(c), Apr. 22, 1976, 90 Stat. 416; renumbered §1622 and amended Pub. L. 96–79, title II, §§202(b), 203(c), Oct. 4, 1979, 93 Stat. 632, 635; Pub. L. 98–369, div. B. title III, §2381(b), July 18, 1984, 98 Stat. 1114.)
 
 #### <b>Editorial Notes</b>
 

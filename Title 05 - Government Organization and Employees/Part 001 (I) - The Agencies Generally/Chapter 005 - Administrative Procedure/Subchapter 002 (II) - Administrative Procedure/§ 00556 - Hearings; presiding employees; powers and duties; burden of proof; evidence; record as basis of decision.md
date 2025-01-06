@@ -10,7 +10,7 @@
 
 &emsp;(3) one or more administrative law judges appointed under section 3105 of this title.
 
-> This subchapter does not supersede the conduct of specified classes of proceedings, in whole or in part, by or before boards or other employees specially provided for by or designated under statute. The functions of presiding employees and of employees participating in decisions in accordance with section 557 of this title shall be conducted in an impartial manner. A presiding or participating employee may at any time disqualify himself. On the filing in good faith of a timely and sufficient affidavit of personal bias or other disqualification of a presiding or participating employee, the agency shall determine the matter as a part of the record and decision in the case.
+> This subchapter does not supersede the conduct of specified classes of proceedings, in whole or inpart, by or before boards or other employees specially provided for by or designated under statute. The functions of presiding employees and of employees participating in decisions in accordance with section 557 of this title shall be conducted in an impartial manner. A presiding or participating employee may at any time disqualify himself. On the filing in good faith of a timely and sufficient affidavit of personal bias or other disqualification of a presiding or participating employee, the agency shall determine the matter as a part of the record and decision in the case.
 
 (c) Subject to published rules of the agency and within its powers, employees presiding at hearings may—
 

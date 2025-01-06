@@ -8,7 +8,7 @@ Not later than 180 days after April 18, 2017, the Under Secretary shall submit t
 
 The report required by subsection (a) shall include, with respect to the most recently completed fiscal year, the following:
 
-&emsp;(1) The total number of full-time equivalent employees at the National Weather Service,disaggregated by each equivalent level of the General Schedule.
+&emsp;(1) The total number of full-time equivalent employees at the National Weather Service, disaggregated by each equivalent level of the General Schedule.
 
 &emsp;(2) The total number of full-time equivalent contractors at the National Weather Service, disaggregated by each equivalent level of the General Schedule that most closely approximates their duties.
 

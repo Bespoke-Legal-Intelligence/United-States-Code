@@ -28,7 +28,7 @@
 
 (ii) The percentage specified in this clause is 80 percent.
 
-(iii) For purposes of clause (i), a system described in this clause is a system that has been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 (Public Law 100–485; 102 Stat. 2343) for the purpose of developing a system that meets the requirements of sections 654(16) of this title (as in effect on and after September 30, 1995) and 654a of this title, including systems that have received funding for such purpose pursuant to a waiver under section 1315(a) of this title.
+(iii) For purposes of clause (i), a system described in this clause is a system that has been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of1988 (Public Law 100–485; 102 Stat. 2343) for the purpose of developing a system that meets the requirements of sections 654(16) of this title (as in effect on and after September 30, 1995) and 654a of this title, including systems that have received funding for such purpose pursuant to a waiver under section 1315(a) of this title.
 
 (4)(A)(i) If—
 
@@ -84,7 +84,7 @@
 
 &emsp;(i) The term "penalty amount" means, with respect to a failure of a State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title—
 
-&emsp;&emsp;(I) 4 percent of the penalty base, in the case of the 1st fiscal year in which such a failure by the State occurs (regardless of whether a penalty is imposed in that fiscal year under this paragraph with respect to the failure), except as provided in subparagraph (C)(ii) of this paragraph;
+&emsp;&emsp;(I) 4 percent of the penalty base, in the case of the 1st fiscal year in which such a failure by the State occurs (regardless of whether a penalty is imposed in that fiscalyear under this paragraph with respect to the failure), except as provided in subparagraph (C)(ii) of this paragraph;
 
 &emsp;&emsp;(II) 8 percent of the penalty base, in the case of the 2nd such fiscal year;
 
@@ -104,7 +104,7 @@
 
 #### (b) Estimate of amounts payable; installment payments
 
-(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in suchquarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
+(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
 (2) Subject to subsection (d), the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
@@ -126,7 +126,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 (4) Amounts expended by a State in carrying out a special project assisted under this section shall be considered, for purposes of section 658(b) <sup>2</sup> of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), to have been expended for the operation of the State's plan approved under section 654 of this title.
 
-(5) There is authorized to be appropriated the sum of $7,000,000 for fiscal year 1985, $12,000,000 for fiscal year 1986, and $15,000,000 for each fiscal year thereafter, to be used by the Secretary in making grants under this subsection.
+(5) There is authorized to be appropriated the sum of $7,000,000 for fiscal year 1985, $12,000,000for fiscal year 1986, and $15,000,000 for each fiscal year thereafter, to be used by the Secretary in making grants under this subsection.
 
 #### (f) Direct Federal funding to Indian tribes and tribal organizations
 
@@ -138,7 +138,7 @@ The Secretary may make direct payments under this part to an Indian tribe or tri
 
 #### References in Text
 
-The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat.2343. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
+The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 
 Section 658(b) of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), referred to in subsec. (e)(4), was in the original a reference to "section 458(b)", meaning section 458(b) of act of Aug. 14, 1935, as amended by section 5(a) of Pub. L. 98–378, which was classified to section 658(b) of this title. Pub. L. 105–200, title II, §201(f)(1), (2)(A), July 16, 1998, 112 Stat. 657, 658, repealed section 458 and renumbered section 458A of the act of Aug. 14, 1935, as section 458, which is classified to section 658a of this title.
 
@@ -184,7 +184,7 @@ Subsec. (e)(1). Pub. L. 104–193, §395(d)(1)(E), substituted "noncustodial par
 
 Subsec. (a)(1)(C). Pub. L. 100–485, §112(a), added subpar. (C).
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out ", beginning with the quarter commencing July 1, 1975," after "for each quarter", substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the total amounts expended by the State during the quarter for the operation of the plan approved under section 654 of this title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted "subparagraph (A)" for "clause (1) or (2)", and inserted "(including in such sums the full cost of the hardware components of such system)" and ", or meets such requirements without regard to clause (D) thereof".
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out ", beginning with the quarter commencing July 1, 1975," after "for each quarter", substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the total amounts expended by the State during the quarter for the operation of the plan approved under section 654 ofthis title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted "subparagraph (A)" for "clause (1) or (2)", and inserted "(including in such sums the full cost of the hardware components of such system)" and ", or meets such requirements without regard to clause (D) thereof".
 
 Subsec. (a)(2). Pub. L. 98–378, §4(a)(6), added par. (2). Former par. (2) was struck out.
 

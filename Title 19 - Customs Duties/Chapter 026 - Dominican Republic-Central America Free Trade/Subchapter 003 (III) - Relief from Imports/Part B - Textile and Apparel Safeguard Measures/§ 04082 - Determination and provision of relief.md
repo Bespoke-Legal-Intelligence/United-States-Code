@@ -16,7 +16,7 @@
 
 #### (3) Deadline for determination
 
-&emsp;The President shall make the determination under paragraph (1) no later than 30 days after the completion of any consultations held pursuant to article 3.23.4 of the Agreement.
+&emsp;The President shall make the determination under paragraph (1) no later than 30 days afterthe completion of any consultations held pursuant to article 3.23.4 of the Agreement.
 
 #### (b) Provision of relief
 

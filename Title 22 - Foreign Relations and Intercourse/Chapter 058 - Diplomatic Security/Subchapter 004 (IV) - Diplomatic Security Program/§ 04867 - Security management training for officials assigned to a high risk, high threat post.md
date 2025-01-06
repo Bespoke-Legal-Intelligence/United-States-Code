@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Officials described in subsection (c) who are assigned to a high risk, high threat post shall receive security training described in subsection (b) on a mandatory basis in order to improve the ability of such officials to make security-related management decisions.
+Officials described in subsection (c) who are assigned to a high risk, high threat post shallreceive security training described in subsection (b) on a mandatory basis in order to improve the ability of such officials to make security-related management decisions.
 
 #### (b) Security training described
 

@@ -24,7 +24,7 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 #### Submission of Specific Legislative Recommendations to Congress by January 1, 1967, to Implement Report on Age Discrimination
 
-Pub. L. 89–601, title VI, §606, Sept. 23, 1966, 80 Stat. 845, directed the Secretary of Labor to submit to the Congress not later than Jan. 1, 1967 his specific legislative recommendations for implementing the conclusions and recommendations contained in his report on age discrimination in employment made pursuant to provisions of this section prior to its amendment in 1972.
+Pub. L. 89–601, title VI, §606, Sept. 23, 1966, 80 Stat. 845, directed the Secretary of Labor to submit to theCongress not later than Jan. 1, 1967 his specific legislative recommendations for implementing the conclusions and recommendations contained in his report on age discrimination in employment made pursuant to provisions of this section prior to its amendment in 1972.
 
 #### <b>Executive Documents</b>
 

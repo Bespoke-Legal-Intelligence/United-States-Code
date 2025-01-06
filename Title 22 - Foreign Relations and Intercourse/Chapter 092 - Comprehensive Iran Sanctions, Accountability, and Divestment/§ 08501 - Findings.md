@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(9) Black market proliferation networks continue to flourish in the Middle East, allowing countries like Iran to gain access to sensitive dual-use technologies.
 
-&emsp;(10) Economic sanctions imposed pursuant to the provisions of this Act, the Iran Sanctions Act of 1996, as amended by this Act, and the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
+&emsp;(10) Economic sanctions imposed pursuant to the provisions of this Act, the Iran Sanctions Act of 1996, as amended by this Act, and the International Emergency Economic PowersAct (50 U.S.C. 1701 et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
 
 (Pub. L. 111–195, §2, July 1, 2010, 124 Stat. 1313.)
 
@@ -52,9 +52,15 @@ This Act, referred to in par. (10), is Pub. L. 111–195, July 1, 2010, 124 Stat
 
 The Iran Sanctions Act of 1996, as amended by this Act, referred to in par. (10), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 111–195, which is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec.28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–50, div. J, §1, Apr. 24, 2024, 138 Stat. 963, provided that: "This division \[enacting subchapter VI of this chapter\] may be cited as the 'Stop Harboring Iranian Petroleum Act' or the 'SHIP Act'."
+
+Pub. L. 118–50, div. S, §1, Apr. 24, 2024, 138 Stat. 1003, provided that: "This division \[amending section 8513a of this title\] may be cited as the 'Iran-China Energy Sanctions Act of 2023'."
 
 #### Short Title of 2022 Amendment
 
@@ -63,6 +69,432 @@ Pub. L. 117–328, div. AA, title II, §201, Dec. 29, 2022, 136 Stat. 5529, prov
 #### Short Title
 
 Pub. L. 111–195, §1(a), July 1, 2010, 124 Stat. 1312, provided that: "This Act \[enacting this chapter, amending sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacting provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amending provisions set out as notes under section 1701 of Title 50\] may be cited as the 'Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010'."
+
+#### Mahsa Amini Human Rights and Security Accountability
+
+Pub. L. 118–50, div. L, Apr. 24, 2024, 138 Stat. 976, provided that:
+
+#### "SEC. 1. SHORT TITLE.
+
+"This division may be cited as the 'Mahsa Amini Human rights and Security Accountability Act' or the 'MAHSA Act'.
+
+#### "SEC. 2. IMPOSITION OF SANCTIONS ON IRAN'S SUPREME LEADER'S OFFICE, ITS APPOINTEES, AND ANY AFFILIATED PERSONS.
+
+"(a)
+
+Findings.—Congress finds the following:
+
+&emsp;"(1) The Supreme Leader is an institution of the Islamic Republic of Iran.
+
+&emsp;"(2) The Supreme Leader holds ultimate authority over Iran's judiciary and security apparatus, including the Ministry of Intelligence and Security, law enforcement forces under the Interior Ministry, the Islamic Revolutionary Guard Corps (IRGC), and the Basij, a nationwide volunteer paramilitary group subordinate to the IRGC, all of which have engaged in human rights abuses in Iran. Additionally the IRGC, a United States designated Foreign Terrorist Organization, which reports to the Supreme Leader, continues to perpetrate terrorism around the globe, including attempts to kill and kidnap American citizens on United States soil.
+
+&emsp;"(3) The Supreme Leader appoints the head of Iran's judiciary. International observers continue to criticize the lack of independence of Iran's judicial system and maintained that trials disregarded international standards of fairness.
+
+&emsp;"(4) The revolutionary courts, created by Iran's former Supreme Leader Ruhollah Khomeini, within Iran's judiciary, are chiefly responsible for hearing cases of political offenses, operate in parallel to Iran's criminal justice system and routinely hold grossly unfair trials without due process, handing down predetermined verdicts and rubberstamping executions for political purpose.
+
+&emsp;"(5) The Iranian security and law enforcement forces engage in serious human rights abuse at the behest of the Supreme Leader.
+
+&emsp;"(6) Iran's President, Ebrahim Raisi, sits at the helm of the most sanctioned cabinet in Iranian history which includes internationally sanctioned rights violators. Raisi has supported the recent crackdown on protestors and is a rights violator himself, having served on a 'death commission' in 1988 that led to the execution of several thousand political prisoners in Iran. He most recently served as the head of Iran's judiciary, a position appointed by Iran's current Supreme Leader Ali Khamenei, and may likely be a potential candidate to replace Khamenei as Iran's next Supreme Leader.
+
+&emsp;"(7) On September 16, 2022, a 22-year-old woman, Mahsa Amini, died in the detention of the Morality Police after being beaten and detained for allegedly transgressing discriminatory dress codes for women. This tragic incident triggered widespread, pro-women's rights, pro-democracy protests across all of Iran's 31 provinces, calling for the end to Iran's theocratic regime.
+
+&emsp;"(8) In the course of the protests, the Iranian security forces' violent crackdown includes mass arrests, well documented beating of protestors, throttling of the internet and telecommunications services, and shooting protestors with live ammunition. Iranian security forces have reportedly killed hundreds of protestors and other civilians, including women and children, and wounded many more.
+
+&emsp;"(9) Iran's Supreme Leader is the leader of the 'Axis of Resistance', which is a network of Tehran's terror proxy and partner militias materially supported by the Islamic Revolutionary Guard Corps that targets the United States as well as its allies and partners.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the United States shall stand with and support the people of Iran in their demand for fundamental human rights;
+
+&emsp;"(2) the United States shall continue to hold the Islamic Republic of Iran, particularly the Supreme Leader and President, accountable for abuses of human rights, corruption, and export of terrorism; and
+
+&emsp;"(3) Iran must immediately end its gross violations of internationally recognized human rights.
+
+"(c)
+
+In General.—
+
+&emsp;"(1)
+
+Determination and report required.—Not later than 90 days after the date of the enactment of this division \[Apr. 24, 2024\], and annually thereafter, the President shall—
+
+&emsp;&emsp;"(A) determine whether each foreign person described in subsection (d) meets the criteria for imposition of sanctions under one or more of the sanctions programs and authorities listed in paragraph (2);
+
+&emsp;&emsp;"(B) impose applicable sanctions against any foreign person determined to meet the criteria for imposition of sanctions pursuant to subparagraph (A) under the sanctions programs and authorities listed in subparagraph (A) or (F) of subsection (c)(2) and pursue applicable sanctions against any foreign person determined to meet the criteria for imposition of sanctions pursuant to subparagraph (A) under the sanctions programs and authorities listed in subparagraph (B), (C), (D), or (E) of subsection (c)(2); and
+
+&emsp;&emsp;"(C) submit to the appropriate congressional committees a report in unclassified form, with a classified annex provided separately if needed, containing—
+
+&emsp;&emsp;&emsp;"(i) a list of all foreign persons described in subsection (d) that meet the criteria for imposition of sanctions under one or more of the sanctions programs and authorities listed in paragraph (2); and
+
+&emsp;&emsp;&emsp;"(ii) for each foreign person identified pursuant to clause (i)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a list of each sanctions program or authority listed in paragraph (2) for which the person meets the criteria for imposition of sanctions;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a statement which, if any, of the sanctions authorized by any of the sanctions programs and authorities identified pursuant to subclause (I) have been imposed or will be imposed within 30 days of the submission of the report; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) with respect to which any of the sanctions authorized by any of the sanctions programs and authorities identified pursuant to subclause (I) have not been imposed and will not be imposed within 30 days of the submission of the report, the specific authority under which otherwise applicable sanctions are being waived, have otherwise been determined not to apply, or are not being imposed and a complete justification of the decision to waive or otherwise not apply the sanctions authorized by such sanctions programs and authorities.
+
+&emsp;"(2)
+
+Sanctions listed.—The sanctions listed in this paragraph are the following:
+
+&emsp;&emsp;"(A) Sanctions described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8514(c)).
+
+&emsp;&emsp;"(B) Sanctions applicable with respect to a person pursuant to Executive Order 13553 (50 U.S.C. 1701 note; relating to blocking property of certain persons with respect to serious human rights abuses by the Government of Iran).
+
+&emsp;&emsp;"(C) Sanctions applicable with respect to a person pursuant to Executive Order 13224 (50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism).
+
+&emsp;&emsp;"(D) Sanctions applicable with respect to a person pursuant to Executive Order 13818 \[50 U.S.C. 1701 note\] (relating to blocking the property of persons involved in serious human rights abuse or corruption).
+
+&emsp;&emsp;"(E) Sanctions applicable with respect to a person pursuant to Executive Order 13876 \[50 U.S.C. 1701 note\] (relating to imposing sanctions with respect to Iran).
+
+&emsp;&emsp;"(F) Penalties and visa bans applicable with respect to a person pursuant to section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2021 \[div. K of Pub. L. 116–260; former 8 U.S.C. 1182 note\].
+
+&emsp;"(3)
+
+Form of determination.—The determination required by paragraph (1) shall be provided in an unclassified form but may contain a classified annex provided separately containing additional contextual information pertaining to justification for the issuance of any waiver issued, as described in paragraph (1)(C)(ii). The unclassified portion of such determination shall be made available on a publicly available internet website of the Federal Government.
+
+"(d)
+
+Foreign Persons Described.—The foreign persons described in this subsection are the following:
+
+&emsp;"(1) The Supreme Leader of Iran and any official in the Office of the Supreme Leader of Iran.
+
+&emsp;"(2) The President of Iran and any official in the Office of the President of Iran or the President's cabinet, including cabinet ministers and executive vice presidents.
+
+&emsp;"(3) Any entity, including foundations and economic conglomerates, overseen by the Office of the Supreme Leader of Iran which is complicit in financing or resourcing of human rights abuses or support for terrorism.
+
+&emsp;"(4) Any official of any entity owned or controlled by the Supreme Leader of Iran or the Office of the Supreme Leader of Iran.
+
+&emsp;"(5) Any person determined by the President—
+
+&emsp;&emsp;"(A) to be a person appointed by the Supreme Leader of Iran, the Office of the Supreme Leader of Iran, the President of Iran, or the Office of the President of Iran to a position as a state official of Iran, or as the head of any entity located in Iran or any entity located outside of Iran that is owned or controlled by one or more entities in Iran;
+
+&emsp;&emsp;"(B) to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of any person whose property and interests in property are blocked pursuant to any sanctions program or authority listed in subsection (c)(2);
+
+&emsp;&emsp;"(C) to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly any person whose property and interests in property are blocked pursuant to any sanctions program or authority listed in subsection (c)(2); or
+
+&emsp;&emsp;"(D) to be a member of the board of directors or a senior executive officer of any person whose property and interests in property are blocked pursuant to any sanctions program or authority listed in subsection (c)(2).
+
+"(e)
+
+Congressional Oversight.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after receiving a request from the chairman and ranking member of one of the appropriate congressional committees with respect to whether a foreign person meets the criteria of a person described in subsection (d)(5), the President shall—
+
+&emsp;&emsp;"(A) determine if the person meets such criteria; and
+
+&emsp;&emsp;"(B) submit an unclassified report, with a classified annex provided separately if needed, to such chairman and ranking member with respect to such determination that includes a statement of whether or not the President imposed or intends to impose sanctions with respect to the person pursuant to any sanctions program or authority listed in subsection (c)(2).
+
+&emsp;"(2)
+
+Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Affairs, and the Committee on Financial Services of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+#### "SEC. 3. SEVERABILITY.
+
+"If any provision of this division, or the application of such provision to any person or circumstance, is found to be unconstitutional, the remainder of this division, or the application of that provision to other persons or circumstances, shall not be affected."
+
+\[Memorandum of President of the United States, §3, Sept. 13, 2024, 89 F.R. 77757, provided:
+
+\[(a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State:
+
+\[(i) the functions and authorities vested in the President by sections 2(c)(1)(A) and 2(c)(1)(B) of the Mahsa Amini Human Rights and Security Accountability Act (Division L of Public Law 118–50) (the "MAHSA Act") \[set out above\], with respect to sanctions listed in sections 2(c)(2)(A), 2(c)(2)(B), 2(c)(2)(C), 2(c)(2)(D), and 2(c)(2)(E) of the MAHSA Act; and
+
+\[(ii) the functions and authorities vested in the President by section 2(c)(1)(C) of the MAHSA Act.
+
+\[(b) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by sections 2(c)(1)(A) and 2(c)(1)(B) of the MAHSA Act, with respect to sanctions listed in sections 2(c)(2)(C) and 2(c)(2)(F) of the MAHSA Act.
+
+\[(c) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by section 2(d)(5)(A) of the MAHSA Act, and to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by sections 2(d)(5)(B), 2(d)(5)(C), and 2(d)(5)(D) of the MAHSA Act.
+
+&emsp;\[J.R. Biden, Jr.\]
+
+#### Holding Iranian Leaders Accountable
+
+Pub. L. 118–50, div. R, Apr. 24, 2024, 138 Stat. 997, provided that:
+
+#### "SEC. 1. SHORT TITLE.
+
+"This division may be cited as the 'Holding Iranian Leaders Accountable Act of 2024'.
+
+#### "SEC. 2. FINDINGS.
+
+"The Congress finds the following:
+
+&emsp;"(1) Iran is characterized by high levels of official and institutional corruption, and substantial involvement by Iran's security forces, particularly the Islamic Revolutionary Guard Corps (IRGC), in the economy.
+
+&emsp;"(2) The Department of Treasury in 2019 designated the Islamic Republic of Iran's financial sector as a jurisdiction of primary money laundering concern, concluding, 'Iran has developed covert methods for accessing the international financial system and pursuing its malign activities, including misusing banks and exchange houses, operating procurement networks that utilize front or shell companies, exploiting commercial shipping, and masking illicit transactions using senior officials, including those at the Central Bank of Iran (CBI).'.
+
+&emsp;"(3) In June 2019, the Financial Action Task Force (FATF) urged all jurisdictions to require increased supervisory examination for branches and subsidiaries of financial institutions based in Iran. The FATF later called upon its members to introduce enhanced relevant reporting mechanisms or systematic reporting of financial transactions, and require increased external audit requirements, for financial groups with respect to any of their branches and subsidiaries located in Iran.
+
+&emsp;"(4) According to the State Department's 'Country Reports on Terrorism' in 2021, 'Iran continued to be the leading state sponsor of terrorism, facilitating a wide range of terrorist and other illicit activities around the world. Regionally, Iran supported acts of terrorism in Bahrain, Iraq, Lebanon, Syria, and Yemen through proxies and partner groups such as Hizballah and Hamas.'.
+
+#### "SEC. 3. REPORT ON FINANCIAL INSTITUTIONS AND ASSETS CONNECTED TO CERTAIN IRANIAN OFFICIALS.
+
+"(a)
+
+Financial Institutions and Assets Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this division \[Apr. 24, 2024\], and every 2 years thereafter, the President shall submit a report to the appropriate Members of Congress containing—
+
+&emsp;&emsp;"(A) the estimated total funds or assets that are under direct or indirect control by each of the natural persons described under subsection (b), and a description of such funds or assets, except that the President may limit coverage of the report to not fewer than 5 of such natural persons in order to meet the submission deadline described under this paragraph;
+
+&emsp;&emsp;"(B) a description of how such funds or assets were acquired, and how they have been used or employed;
+
+&emsp;&emsp;"(C) a list of any non-Iranian financial institutions that—
+
+&emsp;&emsp;&emsp;"(i) maintain an account in connection with funds or assets described in subparagraph (A); or
+
+&emsp;&emsp;&emsp;"(ii) knowingly provide significant financial services to a natural person covered by the report; and
+
+&emsp;&emsp;"(D) a description of any illicit or corrupt means employed to acquire or use such funds or assets.
+
+&emsp;"(2)
+
+Exemptions.—The requirements described under paragraph (1) may not be applied with respect to a natural person or a financial institution, as the case may be, if the President determines:
+
+&emsp;&emsp;"(A) The funds or assets described under subparagraph (A) of paragraph (1) were acquired through legal or noncorrupt means.
+
+&emsp;&emsp;"(B) The natural person has agreed to provide significant cooperation to the United States for an important national security or law enforcement purpose with respect to Iran.
+
+&emsp;&emsp;"(C) A financial institution that would otherwise be listed in the report required by paragraph (1) has agreed to—
+
+&emsp;&emsp;&emsp;"(i) no longer maintain an account described under subparagraph (C)(i) of paragraph (1);
+
+&emsp;&emsp;&emsp;"(ii) no longer provide significant financial services to a natural person covered by the report; or
+
+&emsp;&emsp;&emsp;"(iii) provide significant cooperation to the United States for an important national security or law enforcement purpose with respect to Iran.
+
+&emsp;"(3)
+
+Waiver.—The President may waive for up to 1 year at a time any requirement under paragraph (1) with respect to a natural person or a financial institution after reporting in writing to the appropriate Members of Congress that the waiver is in the national interest of the United States, with a detailed explanation of the reasons therefor.
+
+"(b)
+
+Persons Described.—The natural persons described in this subsection are the following:
+
+&emsp;"(1) The Supreme Leader of Iran.
+
+&emsp;"(2) The President of Iran.
+
+&emsp;"(3) The members of the Council of Guardians.
+
+&emsp;"(4) The members of the Expediency Council.
+
+&emsp;"(5) The Minister of Intelligence and Security.
+
+&emsp;"(6) The Commander and the Deputy Commander of the IRGC.
+
+&emsp;"(7) The Commander and the Deputy Commander of the IRGC Ground Forces.
+
+&emsp;"(8) The Commander and the Deputy Commander of the IRGC Aerospace Force.
+
+&emsp;"(9) The Commander and the Deputy Commander of the IRGC Navy.
+
+&emsp;"(10) The Commander of the Basij-e Mostaz'afin.
+
+&emsp;"(11) The Commander of the Qods Force.
+
+&emsp;"(12) The Commander in Chief of the Police Force.
+
+&emsp;"(13) The head of the IRGC Joint Staff.
+
+&emsp;"(14) The Commander of the IRGC Intelligence.
+
+&emsp;"(15) The head of the IRGC Imam Hussein University.
+
+&emsp;"(16) The Supreme Leader's Representative at the IRGC.
+
+&emsp;"(17) The Chief Executive Officer and the Chairman of the IRGC Cooperative Foundation.
+
+&emsp;"(18) The Commander of the Khatam-al-Anbia Construction Head Quarter.
+
+&emsp;"(19) The Chief Executive Officer of the Basij Cooperative Foundation.
+
+&emsp;"(20) The head of the Political Bureau of the IRGC.
+
+&emsp;"(21) The senior leadership as determined by the President of the following groups:
+
+&emsp;&emsp;"(A) Hizballah.
+
+&emsp;&emsp;"(B) Hamas.
+
+&emsp;&emsp;"(C) Palestinian Islamic Jihad.
+
+&emsp;&emsp;"(D) Kata'ib Hizballah.
+
+"(c)
+
+Form of Report; Public Availability.—
+
+&emsp;"(1)
+
+Form.—The report required under subsection (a) and any waiver under subsection (a)(3) shall be submitted in unclassified form but may contain a classified annex.
+
+&emsp;"(2)
+
+Public availability.—The Secretary shall make the unclassified portion of such report public if the Secretary notifies the appropriate Members of Congress that the publication is in the national interest of the United States and would substantially promote—
+
+&emsp;&emsp;"(A) deterring or sanctioning official corruption in Iran;
+
+&emsp;&emsp;"(B) holding natural persons or financial institutions listed in the report accountable to the people of Iran;
+
+&emsp;&emsp;"(C) combating money laundering or the financing of terrorism; or
+
+&emsp;&emsp;"(D) achieving any other strategic objective with respect to the Government of Iran.
+
+&emsp;"(3)
+
+Format of publicly available reports.—If the Secretary makes the unclassified portion of a report public pursuant to paragraph (2), the Secretary shall make it available to the public on the website of the Department of the Treasury—
+
+&emsp;&emsp;"(A) in English, Farsi, Arabic, and Azeri; and
+
+&emsp;&emsp;"(B) in precompressed, easily downloadable versions that are made available in all appropriate formats.
+
+"(d)
+
+Report and Briefing on Iranian Assets and Licenses.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date of the enactment of this division \[Apr. 24, 2024\], the Secretary of the Treasury shall submit to the appropriate members of Congress a report and provide to the appropriate congressional committees a briefing—
+
+&emsp;&emsp;"(A) identifying—
+
+&emsp;&emsp;&emsp;"(i) all assets of the Government of Iran or covered persons valued at more than $5,000,000 and blocked by the United States pursuant to any provision of law; and
+
+&emsp;&emsp;&emsp;"(ii) for each such asset—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the country in which the asset is held;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the financial institution in which the asset is held; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the approximate value of the asset; and
+
+&emsp;&emsp;"(B) setting forth a list of all general licenses, specific licenses, action letters, comfort letters, statements of licensing policy, answers to frequently asked questions, or other exemptions issued by the Secretary with respect to sanctions relating to Iran that are in effect as of the date of the report.
+
+&emsp;"(2)
+
+Form.—
+
+&emsp;&emsp;"(A)
+
+Assets.—The report and briefing required by paragraph (1) shall be submitted or provided, as the case may be, in unclassified form.
+
+&emsp;&emsp;"(B)
+
+Exemptions.—The report and briefing required by paragraph (1) shall be submitted or provided, as the case may be, in classified form.
+
+&emsp;"(3)
+
+Covered person defined.—In this section, the term 'covered person' means—
+
+&emsp;&emsp;"(A) an individual who is a citizen or national of Iran and is acting on behalf of the Government of Iran;
+
+&emsp;&emsp;"(B) an entity organized under the laws of Iran or otherwise subject to the jurisdiction of the Government of Iran; and
+
+&emsp;&emsp;"(C) an individual or entity that provides material, tactical, operational, developmental, or financial support to—
+
+&emsp;&emsp;&emsp;"(i) the Islamic Revolutionary Guard Corps;
+
+&emsp;&emsp;&emsp;"(ii) any agency or instrumentality of the armed forces of Iran;
+
+&emsp;&emsp;&emsp;"(iii) any agency or instrumentality related to the nuclear program of Iran; or
+
+&emsp;&emsp;&emsp;"(iv) any organization designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189), including Hamas, Hezbollah, Palestinian Islamic Jihad, alQa'ida, and al-Shabaab.
+
+#### "SEC. 4. RESTRICTIONS ON CERTAIN FINANCIAL INSTITUTIONS.
+
+"(a)
+
+In General.—Not later than the date that is 90 days after submitting a report described under section 3(a)(1), the Secretary shall undertake the following with respect to a financial institution that is described under section 3(a)(1)(C) and listed in the report:
+
+&emsp;"(1) If the financial institution is a United States financial institution, require the closure of any account described in section 3(a)(1)(C)(i), and prohibit the provision of significant financial services, directly or indirectly, to a natural person covered by the report.
+
+&emsp;"(2) If the financial institution is a foreign financial institution, actively seek the closure of any account described in section 3(a)(1)(C)(i), and the cessation of significant financial services to a natural person covered by the report, using any existing authorities of the Secretary, as appropriate.
+
+"(b)
+
+Suspension.—The Secretary may suspend the application of subsection (a) with respect to a financial institution upon reporting to the appropriate Members of Congress that the suspension is in the national interest of the United States, with a detailed explanation of the reasons therefor.
+
+#### "SEC. 5. EXCEPTIONS FOR NATIONAL SECURITY; IMPLEMENTATION AUTHORITY.
+
+"The following activities shall be exempt from requirements under sections 3 and 4:
+
+&emsp;"(1) Any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
+
+&emsp;"(2) The admission of an alien to the United States if such admission is necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or under the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations of the United States.
+
+&emsp;"(3) The conduct or facilitation of a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran, including engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes or transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes.
+
+#### "SEC. 6. SUNSET.
+
+"The provisions of this division shall have no force or effect on the earlier of—
+
+&emsp;"(1) the date that is 5 years after the date of enactment of this division \[Apr. 24, 2024\]; or
+
+&emsp;"(2) 30 days after the Secretary reports in writing to the appropriate Members of Congress that—
+
+&emsp;&emsp;"(A) Iran is not a jurisdiction of primary money laundering concern; or
+
+&emsp;&emsp;"(B) the Government of Iran is providing significant cooperation to the United States for the purpose of preventing acts of international terrorism, or for the promotion of any other strategic objective that is important to the national interest of the United States, as specified in the report by the Secretary.
+
+#### "SEC. 7. DEFINITIONS.
+
+"For purposes of this division:
+
+&emsp;"(1)
+
+Appropriate members of congress.—The term 'appropriate Members of Congress' means the Speaker and Minority Leader of the House of Representatives, the Majority Leader and Minority Leader of the Senate, the Chairman and Ranking Member of the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives, and the Chairman and Ranking Member of the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+&emsp;"(2)
+
+Financial institution.—The term 'financial institution' means a United States financial institution or a foreign financial institution.
+
+&emsp;"(3)
+
+Foreign financial institution.—The term 'foreign financial institution' has the meaning given that term in section 561.308 of title 31, Code of Federal Regulations.
+
+&emsp;"(4)
+
+Funds.—The term 'funds' means—
+
+&emsp;&emsp;"(A) cash;
+
+&emsp;&emsp;"(B) equity;
+
+&emsp;&emsp;"(C) any other asset whose value is derived from a contractual claim, including bank deposits, bonds, stocks, a security as defined in section 2(a) of the Securities Act of 1933 (15 U.S.C. 77b(a)), or a security or an equity security as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)); and
+
+&emsp;&emsp;"(D) anything else that the Secretary determines appropriate.
+
+&emsp;"(5)
+
+Knowingly.—The term 'knowingly' with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+&emsp;"(6)
+
+Secretary.—The term 'Secretary' means the Secretary of the Treasury.
+
+&emsp;"(7)
+
+United states financial institution.—The term 'United States financial institution' has the meaning given the term 'U.S. financial institution' under section 561.309 of title 31, Code of Federal Regulations."
+
+\[Memorandum of President of the United States, §8, Sept. 13, 2024, 89 F.R. 77759, provided:
+
+\[(a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 3(a) of the Holding Iranian Leaders Accountable Act of 2024 (Division R of Public Law 118–50) (the "Holding Iranian Leaders Accountable Act") \[set out above\].
+
+\[(b) I hereby delegate to the Secretary of State the functions and authorities vested in the President by section 3(a)(3) of the Holding Iranian Leaders Accountable Act.
+
+&emsp;\[J.R. Biden, Jr.\]
 
 #### <b>Executive Documents</b>
 
@@ -114,7 +546,7 @@ I hereby delegate functions vested in the President by CISADA, as follows:
 
 • section 304 \[124 Stat. 1349\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 401(b) \[22 U.S.C. 8551(b)\] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
+• section 401(b) \[22 U.S.C. 8551(b)\] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to theSecretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
 
 Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provisions.
 

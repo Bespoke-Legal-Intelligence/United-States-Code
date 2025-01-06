@@ -210,7 +210,7 @@ Systemic safety improvement.—The term "systemic safety improvement" means an i
 
 Vulnerable road user.—The term "vulnerable road user" means a nonmotorist—
 
-&emsp;&emsp;(A) with a fatality analysis reporting system person attribute code that is included in the definition of the term "number of non-motorized fatalities" in section 490.205 of title 23, Code of Federal Regulations (or successor regulations); or
+&emsp;&emsp;(A) with a fatality analysis reporting system person attribute code that is included inthe definition of the term "number of non-motorized fatalities" in section 490.205 of title 23, Code of Federal Regulations (or successor regulations); or
 
 &emsp;&emsp;(B) described in the term "number of non-motorized serious injuries" in that section.
 
@@ -250,7 +250,7 @@ Identification and analysis of highway safety problems and opportunities.—As p
 
 &emsp;&emsp;(A) have in place a safety data system with the ability to perform safety problem identification and countermeasure analysis—
 
-&emsp;&emsp;&emsp;(i) to improve the timeliness, accuracy, completeness, uniformity, integration, andaccessibility of the safety data on all public roads, including non-State-owned public roads and roads on tribal land in the State;
+&emsp;&emsp;&emsp;(i) to improve the timeliness, accuracy, completeness, uniformity, integration, and accessibility of the safety data on all public roads, including non-State-owned public roads and roads on tribal land in the State;
 
 &emsp;&emsp;&emsp;(ii) to evaluate the effectiveness of data improvement efforts;
 
@@ -422,7 +422,7 @@ Definition of data improvement activities.—In this subsection, the following d
 
 &emsp;&emsp;(A)
 
-In general.—The term "data improvement activities" means a project or activity to further the capacity of a State to make more informed and effective safety infrastructure investment decisions.
+In general.—The term "data improvement activities" means a project or activityto further the capacity of a State to make more informed and effective safety infrastructure investment decisions.
 
 &emsp;&emsp;(B)
 
@@ -612,7 +612,7 @@ Subsec. (a)(4)(B)(vi). Pub. L. 117–58, §11111(a)(1)(A)(ii), inserted "or a gr
 
 Subsec. (a)(4)(B)(viii). Pub. L. 117–58, §11111(a)(1)(A)(iii), added cl. (viii) and struck out former cl. (viii) which read as follows: "Construction of a traffic calming feature."
 
-Subsec. (a)(4)(B)(xxvi). Pub. L. 117–58, §11111(a)(1)(A)(iv), added cl. (xxvi) and struck out former cl. (xxvi) which read as follows: "Pedestrian hybrid beacons."
+Subsec. (a)(4)(B)(xxvi). Pub. L. 117–58, §11111(a)(1)(A)(iv), added cl. (xxvi) and struck outformer cl. (xxvi) which read as follows: "Pedestrian hybrid beacons."
 
 Subsec. (a)(4)(B)(xxvii) to (xxix). Pub. L. 117–58, §11111(a)(1)(A)(v), added cls. (xxvii) to (xxix) and struck out former cls. (xxvii) and (xxviii) which read as follows:
 
@@ -736,7 +736,7 @@ Establishment of Research Plan.—The Administrator shall establish a research p
 
 Vulnerable Road User Assessments.—The Administrator shall—
 
-&emsp;"(1) review each vulnerable road user safety assessment submitted by a State under section 148(l) of title 23, United States Code, and other relevant sources of data to determine what, if any, standard definitions and methods should be developed through guidance to enable a State to collect pedestrian injury and fatality data; and
+&emsp;"(1) review each vulnerable road user safety assessment submitted by a State under section 148(l) of title 23, United States Code, and other relevant sources of data to determine what, if any, standarddefinitions and methods should be developed through guidance to enable a State to collect pedestrian injury and fatality data; and
 
 &emsp;"(2) in the first progress update under subsection (d)(2), provide—
 
@@ -886,5 +886,5 @@ Use of manual.—Use of the manual shall be voluntary and the manual shall not e
 
 #### Transition
 
-Pub. L. 109–59, title I, §1401(d), formerly §1401(e), Aug. 10, 2005, 119 Stat. 1227, renumbered §1401(d) by Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577, provided for different methods of obligating funds to States for highway safety improvement programs both before and after the second fiscal year beginning Aug. 10, 2005.
+Pub. L. 109–59, title I, §1401(d), formerly §1401(e), Aug. 10, 2005, 119 Stat. 1227, renumbered §1401(d) by Pub. L.110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577, provided for different methods of obligating funds to States for highway safety improvement programs both before and after the second fiscal year beginning Aug. 10, 2005.
 

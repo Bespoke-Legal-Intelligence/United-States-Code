@@ -26,7 +26,7 @@ In general.—Whoever knowingly and unlawfully—
 
 &emsp;(2)
 
-Threats.—Whoever, under circumstances in which the threat may reasonably be believed, threatens to commit an offense under paragraph (1) shall be punished as prescribed in subsection (c). Whoever demands possession of or access to radioactive material, a device or a nuclear facility by threat or by use of force shall be punished as prescribed in subsection (c).
+Threats.—Whoever, under circumstances in which the threat may reasonably be believed, threatens to commit an offense under paragraph (1) shall be punished as prescribedin subsection (c). Whoever demands possession of or access to radioactive material, a device or a nuclear facility by threat or by use of force shall be punished as prescribed in subsection (c).
 
 &emsp;(3)
 
@@ -40,7 +40,7 @@ Jurisdiction.—Conduct prohibited by subsection (a) is within the jurisdiction 
 
 &emsp;(2) the prohibited conduct takes place outside of the United States and—
 
-&emsp;&emsp;(A) is committed by a national of the United States, a United States corporationor legal entity or a stateless person whose habitual residence is in the United States;
+&emsp;&emsp;(A) is committed by a national of the United States, a United States corporation or legal entity or a stateless person whose habitual residence is in the United States;
 
 &emsp;&emsp;(B) is committed on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46) or on board an aircraft that is registered under United States law, at the time the offense is committed; or
 
@@ -112,7 +112,7 @@ Definitions.—As used in this section, the term—
 
 Section 831(f) of this title, referred to in subsec. (e)(3), (7), (9), was redesignated section 831(g) by Pub. L. 114–23, title VIII, §812(d), June 2, 2015, 129 Stat. 312.
 
-Section 1502(19) of title 33, referred to in subsec. (e)(13), probably should be a reference to section 3(19) of the Deepwater Port Act of 1974, which is classified to section 1502(19) of Title 33, Navigation and Navigable Waters.
+Section 1502(19) of title 33, referred to in subsec. (e)(13), probably should be a reference to section 3(19) ofthe Deepwater Port Act of 1974, which is classified to section 1502(19) of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

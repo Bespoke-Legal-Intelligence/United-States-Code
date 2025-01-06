@@ -1,6 +1,6 @@
 ### §1052. Minimum participation standards
 
-(a)(1)(A) No pension plan may require, as a condition of participation in the plan, that anemployee complete a period of service with the employer or employers maintaining the plan extending beyond the later of the following dates—
+(a)(1)(A) No pension plan may require, as a condition of participation in the plan, that an employee complete a period of service with the employer or employers maintaining the plan extending beyond the later of the following dates—
 
 &emsp;(i) the date on which the employee attains the age of 21; or
 
@@ -30,7 +30,7 @@
 
 (b)(1) Except as otherwise provided in paragraphs (2), (3), and (4), all years of service with the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of subsection (a)(1).
 
-(2) In the case of any employee who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title) under a plan to which the service requirements of clause (i) of subsection (a)(1)(B) apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
+(2) In the case of any employee who has any 1-year break in service (as defined in section1053(b)(3)(A) of this title) under a plan to which the service requirements of clause (i) of subsection (a)(1)(B) apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
 
 (3) In computing an employee's period of service for purposes of subsection (a)(1) in the case of any participant who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3)) after his return.
 
@@ -78,41 +78,35 @@
 
 &emsp;(ii) the number of days for which there was such an absence.
 
+(c)
+
+Special Rule for Certain Part-time Employees.—
+
+&emsp;(1)
+
+In general.—A pension plan that includes either a qualified cash or deferred arrangement (as defined in section 401(k) of title 26) or a salary reduction agreement (as described in section 403(b) of title 26) shall not require, as a condition of participation in the arrangement or agreement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
+
+&emsp;&emsp;(A) the period permitted under subsection (a)(1) (determined without regard to subparagraph (B)(i) thereof); or
+
+&emsp;&emsp;(B) the first 24-month period—
+
+&emsp;&emsp;&emsp;(i) consisting of 2 consecutive 12-month periods during each of which the employee has at least 500 hours of service; and
+
+&emsp;&emsp;&emsp;(ii) by the close of which the employee has met the requirement of subsection (a)(1)(A)(i).
+
+&emsp;(2)
+
+Exception.—Paragraph (1)(B) shall not apply to any employee described in section 410(b)(3) of title 26.
+
+&emsp;(3)
+
+Coordination with time of participation rules.—In the case of employees who are eligible to participate in the arrangement or agreement solely by reason of paragraph (1)(B), or by reason of such paragraph and section 401(k)(2)(D)(ii) of title 26, the rules of subsection (a)(4) shall apply to such employees.
+
+&emsp;(4) 12
+
+\-month period.—For purposes of this subsection, 12-month periods shall be determined in the same manner as under the last sentence of subsection (a)(3)(A), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.
+
 (Pub. L. 93–406, title I, §202, Sept. 2, 1974, 88 Stat. 853; Pub. L. 98–397, title I, §102(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1426, 1427; Pub. L. 99–509, title IX, §9203(a)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §1113(e)(3), Oct. 22, 1986, 100 Stat. 2448; Pub. L. 101–239, title VII, §§7861(a)(2), 7891(a)(1), 7892(a), 7894(c)(2), Dec. 19, 1989, 103 Stat. 2430, 2445, 2447, 2449; Pub. L. 117–328, div. T, title I, §125(a)(1), Dec. 29, 2022, 136 Stat. 5314.)
-
-#### Amendment of Section
-
-<i>Pub. L. 117–328, div. T, title I, §125(a)(1), (f)(1), Dec. 29, 2022, 136 Stat. 5314, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, this section is amended by adding at the end the following new subsection:</i>
-
-<i>"(c)</i>
-
-<i>Special Rule for Certain Part-time Employees.—</i>
-
-&emsp;<i>"(1)</i>
-
-<i>In general.—A pension plan that includes either a qualified cash or deferred arrangement (as defined in section 401(k) of title 26) or a salary reduction agreement (as described in section 403(b) of title 26) shall not require, as a condition of participation in the arrangement or agreement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—</i>
-
-&emsp;&emsp;<i>"(A) the period permitted under subsection (a)(1) (determined without regard to subparagraph (B)(i) thereof); or</i>
-
-&emsp;&emsp;<i>"(B) the first 24-month period—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) consisting of 2 consecutive 12-month periods during each of which the employee has at least 500 hours of service; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) by the close of which the employee has met the requirement of subsection (a)(1)(A)(i).</i>
-
-&emsp;<i>"(2)</i>
-
-<i>Exception.—Paragraph (1)(B) shall not apply to any employee described in section 410(b)(3) of title 26.</i>
-
-&emsp;<i>"(3)</i>
-
-<i>Coordination with time of participation rules.—In the case of employees who are eligible to participate in the arrangement or agreement solely by reason of paragraph (1)(B), or by reason of such paragraph and section 401(k)(2)(D)(ii) of title 26, the rules of subsection (a)(4) shall apply to such employees.</i>
-
-&emsp;<i>"(4) 12</i>
-
-<i>-month period.—For purposes of this subsection, 12-month periods shall be determined in the same manner as under the last sentence of subsection (a)(3)(A), except that 12-month periods beginning before January 1, 2023, shall not be taken into account."</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -156,7 +150,7 @@ Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7861(a)(2) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set outas a note under section 106 of Title 26, Internal Revenue Code.
+Amendment by section 7861(a)(2) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

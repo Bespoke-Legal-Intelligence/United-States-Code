@@ -10,7 +10,7 @@
 
 &emsp;(2) The product of—
 
-&emsp;&emsp;(A) the level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) determined using all the methodsand assumptions approved for the most recent (as of the first day of the current fiscal year) actuarial valuation under section 1465(c)(1)(B) of this title (except that any statutory change in the military retirement and survivor benefit systems that is effective after the date of that valuation and on or before the first day of the current fiscal year shall be used in such determination); and
+&emsp;&emsp;(A) the level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) determined using all the methods and assumptions approved for the most recent (as of the first day of the current fiscal year) actuarial valuation under section 1465(c)(1)(B) of this title (except that any statutory change in the military retirement and survivor benefit systems that is effective after the date of that valuation and on or before the first day of the current fiscal year shall be used in such determination); and
 
 &emsp;&emsp;(B) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) accrued for that month by members of the Selected Reserve of the armed forces for service not otherwise described in paragraph (1)(B).
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) the Retired Pay appropriation for the Coast Guard.
 
-(c)(1) At the beginning of each fiscal year the Secretary of the Treasury shall promptly pay into the Fund from the General Fund of the Treasury the amount certified to the Secretary by the Secretary of Defense under paragraph (3). Such payment shall be the contribution to the Fund for that fiscal year required by sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3) of this title.
+(c)(1) At the beginning of each fiscal year the Secretary of the Treasury shall promptly pay into the Fund from the General Fund of the Treasury the amount certified to the Secretary by the Secretary of Defense under paragraph (3). Such payment shall be the contribution to theFund for that fiscal year required by sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3) of this title.
 
 (2) At the beginning of each fiscal year the Secretary of Defense shall determine the sum of the following:
 

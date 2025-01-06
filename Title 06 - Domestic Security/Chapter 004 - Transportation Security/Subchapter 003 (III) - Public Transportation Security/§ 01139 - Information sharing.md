@@ -50,7 +50,7 @@ The Comptroller General shall report, not less than 3 years after August 3, 2007
 
 #### References in Text
 
-Section 1203, referred to in subsec. (c), is section 1203 of title XII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 383, which amended section 114 of Title 49, Transportation,and enacted provisions set out as a note under section 114 of Title 49.
+Section 1203, referred to in subsec. (c), is section 1203 of title XII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 383, which amended section 114 of Title 49, Transportation, and enacted provisions set out as a note under section 114 of Title 49.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

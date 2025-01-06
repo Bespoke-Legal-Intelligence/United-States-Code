@@ -104,7 +104,7 @@ For purposes of this section—
 
 | <b>If the applicable election year of the partnership or S corporation begins during:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
-| 1987 | 25&nbsp;&nbsp; |
+| 1987 | 25   |
 | 1988 | 50&nbsp;&nbsp; |
 | 1989 | 75&nbsp;&nbsp; |
 | 1990 or thereafter | 100\. |
@@ -155,7 +155,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection or in regulations prescribed by theSecretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
+&emsp;Except as otherwise provided in this subsection or in regulations prescribed by the Secretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
 
 #### (2) Due date
 
@@ -193,7 +193,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub. L. 99–514, which is set out as a note under section 1378 of this title.
+Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub.L. 99–514, which is set out as a note under section 1378 of this title.
 
 #### Amendments
 
@@ -235,7 +235,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31,1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 Pub. L. 101–239, title VII, §7821(b), Dec. 19, 1989, 103 Stat. 2424, provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
 

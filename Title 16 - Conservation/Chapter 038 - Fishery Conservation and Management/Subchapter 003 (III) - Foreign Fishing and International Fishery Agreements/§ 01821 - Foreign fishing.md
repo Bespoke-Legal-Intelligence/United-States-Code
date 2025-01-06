@@ -22,7 +22,7 @@ Foreign fishing described in subsection (a) may be conducted pursuant to an inte
 
 Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a "governing international fishery agreement". Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
-&emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulationspromulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
+&emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
 
 &emsp;(2) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by the requirement that—
 
@@ -44,7 +44,7 @@ Foreign fishing described in subsection (a) may be conducted pursuant to an inte
 
 &emsp;&emsp;(F) agents be appointed and maintained within the United States who are authorized to receive and respond to any legal process issued in the United States with respect to such owner or operator; and
 
-&emsp;&emsp;(G) responsibility be assumed, in accordance with any requirements prescribed by the Secretary, for the reimbursement of United States citizens for any loss of, or damage to, their fishing vessels, fishing gear, or catch which is caused by any fishing vessel of that nation;
+&emsp;&emsp;(G) responsibility be assumed, in accordance with any requirements prescribed by the Secretary, for the reimbursement of United States citizens for any loss of, ordamage to, their fishing vessels, fishing gear, or catch which is caused by any fishing vessel of that nation;
 
 > &emsp;and will abide by any other monitoring, compliance, or enforcement requirement related to fishery conservation and management which is included in such agreement.
 
@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such applicationif the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -160,7 +160,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 #### (h) Full observer coverage program
 
-(1)(A) Except as provided in paragraph (2), the Secretary shall establish a program under which a United States observer will be stationed aboard each foreign fishing vessel while that vessel is engaged in fishing within the exclusive economic zone.
+(1)(A) Except as provided in paragraph (2), the Secretary shall establish a program under whicha United States observer will be stationed aboard each foreign fishing vessel while that vessel is engaged in fishing within the exclusive economic zone.
 
 (B) The Secretary shall by regulation prescribe minimum health and safety standards that shall be maintained aboard each foreign fishing vessel with regard to the facilities provided for the quartering of, and the carrying out of observer functions by, United States observers.
 
@@ -194,7 +194,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
 
-(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
+(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30,1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
 
 #### Amendment of Section
 
@@ -268,7 +268,7 @@ Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone
 
 Subsec. (e)(1)(A). Pub. L. 98–623, §404(2)(A), substituted "may make allocations to foreign nations from" for "shall determine the allocation among foreign nations of".
 
-Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted "both United States fish and fishery products" for "United States fish or fishery products" and inserted ", particularly fish and fishery products for which the foreign nation has requested an allocation".
+Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted "both United States fish and fishery products"for "United States fish or fishery products" and inserted ", particularly fish and fishery products for which the foreign nation has requested an allocation".
 
 Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting "in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation" for "in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen".
 
@@ -328,7 +328,7 @@ Pub. L. 108–219, title IV, §401, Apr. 13, 2004, 118 Stat. 616, provided that:
 
 "(a)
 
-In General.—Notwithstanding anything to the contrary in section 201, 204, or 307(2) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821, 1824, and 1857(2)), foreign fishing may be conducted pursuant to the Treaty between the Government of the United States of America and the Government of Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges, signed at Washington May 26, 1981, including its Annexes and any amendments thereto.
+In General.—Notwithstanding anything to the contrary in section 201, 204, or 307(2) of the Magnuson-Stevens Fishery Conservation and Management Act (16U.S.C. 1821, 1824, and 1857(2)), foreign fishing may be conducted pursuant to the Treaty between the Government of the United States of America and the Government of Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges, signed at Washington May 26, 1981, including its Annexes and any amendments thereto.
 
 "(b)
 

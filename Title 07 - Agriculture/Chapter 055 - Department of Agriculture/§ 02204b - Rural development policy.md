@@ -2,7 +2,7 @@
 
 #### (a) Coordination of nationwide rural development program using services of executive branch departments and agencies and State and local governments
 
-The Secretary of Agriculture shall provide leadership within the executive branch for, and shall assume responsibility for coordinating, anationwide rural development program using the services of executive branch departments and agencies, including, but not limited to, the agencies, bureaus, offices, and services of the Department of Agriculture, in coordination with rural development programs of State and local governments.
+The Secretary of Agriculture shall provide leadership within the executive branch for, and shall assume responsibility for coordinating, a nationwide rural development program using the services of executive branch departments and agencies, including, but not limited to, the agencies, bureaus, offices, and services of the Department of Agriculture, in coordination with rural development programs of State and local governments.
 
 #### (b) Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments
 
@@ -54,7 +54,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 (5) The rural development strategy and the annual updates to the strategy shall be transmitted to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry by January 31 of the calendar year immediately preceding the beginning of the appropriate fiscal year.
 
-(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of thePresident for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year of the rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
+(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of the President for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year of the rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
 
 #### (d) Strategy implementation; goals
 
@@ -102,7 +102,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Simplified, Uniform Application for Assistance From All Federal Rural Development Programs
 
-Pub. L. 104–127, title VII, §762, Apr. 4, 1996, 110 Stat. 1148, provided that: "Not later than 1 year after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
+Pub. L. 104–127, title VII, §762, Apr. 4, 1996, 110 Stat. 1148, provided that: "Not later than 1 year after thedate of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
 
 &emsp;"(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[former 7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 

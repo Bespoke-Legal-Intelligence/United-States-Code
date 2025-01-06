@@ -24,7 +24,7 @@ Nothing in this section shall be construed—
 
 Section 1(a) of the Classified Information Procedures Act, referred to in subsec.(a), is section 1(a) of Pub. L. 95–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-This subchapter, referred to in subsecs. (a) and (b)(1), was in the original "this subtitle", meaning subtitle A (§§7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (b)(1), was in the original "this subtitle", meaning subtitle A\(§§7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 #### <b>Executive Documents</b>
 

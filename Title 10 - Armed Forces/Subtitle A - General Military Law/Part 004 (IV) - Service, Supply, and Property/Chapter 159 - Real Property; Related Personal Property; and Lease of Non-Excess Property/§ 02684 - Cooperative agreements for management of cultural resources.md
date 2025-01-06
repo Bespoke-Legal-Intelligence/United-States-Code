@@ -10,7 +10,7 @@ Authorized Cultural Resources Sites.—To be covered by a cooperative agreement 
 
 &emsp;(1) on a military installation; or
 
-&emsp;(2) on a site outside of a military installation, but only if the cooperative agreement will directly relieve or eliminate current or anticipated restrictions that would or might restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on a military installation.
+&emsp;(2) on a site outside of a military installation, but only if the cooperative agreement will directly relieve or eliminate current or anticipated restrictions that would or mightrestrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on a military installation.
 
 (c)
 
@@ -24,7 +24,7 @@ Cultural Resource Defined.—In this section, the term "cultural resource" means
 
 &emsp;(2) Cultural items, as that term is defined in section 2(3) of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001(3)).
 
-&emsp;(3) An archaeological resource, as that term is defined in section 3(1) of the ArchaeologicalResources Protection Act of 1979 (16 U.S.C. 470bb(1)).
+&emsp;(3) An archaeological resource, as that term is defined in section 3(1) of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470bb(1)).
 
 &emsp;(4) An archaeological artifact collection and associated records covered by section 79 of title 36, Code of Federal Regulations.
 

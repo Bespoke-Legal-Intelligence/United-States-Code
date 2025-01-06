@@ -30,7 +30,7 @@
 | [2151n.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151n%20-%20Human%20rights%20and%20development%20assistance.md) | Human rights and development assistance. |
 | 2151n–1. | Repealed. |
 | 2151n–2. | Human Rights and Democracy Fund. |
-| [2151o.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151o%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28a%29%283%29%28B%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201505.md) | Repealed. |
+| 2151<i>o.</i> | Repealed. |
 | [2151p.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151p%20-%20Environmental%20and%20natural%20resources.md) | Environmental and natural resources. |
 | 2151p–1. | Tropical forests. |
 | [2151q.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151q%20-%20Endangered%20species.md) | Endangered species. |
@@ -247,7 +247,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part VI—Central America Democracy, Peace, and Development Initiative.
+#### Part VI—Central America Democracy, Peace, and Development Initiative
 
 |  |  |
 | :--- | ---: |
@@ -295,9 +295,10 @@
 | [2291j.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20008%20%28VIII%29%20-%20International%20Narcotics%20Control/%C2%A7%2002291j%20-%20Annual%20certification%20procedures.md) | Annual certification procedures. |
 | 2291j–1. | International drug control certification procedures. |
 | [2291k.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20008%20%28VIII%29%20-%20International%20Narcotics%20Control/%C2%A7%2002291k%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71112%28b%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20724.md) | Repealed. |
-| [2291l.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20008%20%28VIII%29%20-%20International%20Narcotics%20Control/%C2%A7%2002291l%20-%20Prioritization%20of%20efforts%20of%20the%20Department%20of%20State%20to%20combat%20international%20trafficking%20in%20covered%20synthetic%20drugs.md) | Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs. |
+| 2291<i>l.</i> | Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs. |
 | [2291m.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20008%20%28VIII%29%20-%20International%20Narcotics%20Control/%C2%A7%2002291m%20-%20Program%20to%20provide%20assistance%20to%20build%20the%20capacity%20of%20foreign%20law%20enforcement%20agencies%20with%20respect%20to%20covered%20synthetic%20drugs.md) | Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs. |
 | [2291n.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20008%20%28VIII%29%20-%20International%20Narcotics%20Control/%C2%A7%2002291n%20-%20Exchange%20program%20on%20demand%20reduction%20matters%20relating%20to%20illicit%20use%20of%20covered%20synthetic%20drugs.md) | Exchange program on demand reduction matters relating to illicit use of covered synthetic drugs. |
+| 2291<i>o.</i> | Fentanyl reporting and authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -569,6 +570,7 @@
 | [2395a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002395a%20-%20International%20agreements%20concerning%20debt%20relief%3B%20transmittal%20to%20congressional%20committees.md) | International agreements concerning debt relief; transmittal to congressional committees. |
 | [2396\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002396%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | [2396a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002396a%20-%20Property%20Management%20Fund.md) | Property Management Fund. |
+| [2396b.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002396b%20-%20USAID%20Buying%20Power%20Maintenance%20Account.md) | USAID Buying Power Maintenance Account. |
 | [2397\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002397%20-%20Administrative%20expenses.md) | Administrative expenses. |
 | [2398\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002398%20-%20Assistance%20to%20countries%20pursuant%20to%20other%20statutes.md) | Assistance to countries pursuant to other statutes. |
 | 2399 to 2399a. | Repealed or Transferred. |

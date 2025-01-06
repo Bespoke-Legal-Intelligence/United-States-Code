@@ -30,7 +30,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Codification
 
-Pub. L. 117–103, div. W, title VI, §602, which directed the addition of this section to chapter 2 of subtitle N of title IV of the Violence Against Women Act of 1994\(34 U.S.C. 12491 et seq.), was executed by adding this section to chapter 2 of subtitle N of title IV of the Violent Crime Control and Law Enforcement Act of 1994 to reflect the probable intent of Congress.
+Pub. L. 117–103, div. W, title VI, §602, which directed the addition of this section to chapter 2 of subtitle N of title IV of the Violence Against Women Act of 1994 (34 U.S.C. 12491 et seq.), was executed by adding this section to chapter 2 of subtitle N of title IV of the Violent Crime Control and Law Enforcement Act of 1994 to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

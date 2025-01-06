@@ -18,7 +18,7 @@ Minor changes were made in phraseology and surplusage was omitted.
 
 Remaining provisions of said sections 662, 662c, and 662d of title 18, U.S.C., 1940 ed., are incorporated in sections 752, 3182, 3183, and 3187 of this title.
 
-The words "or the Department of Justice as the case may be" were added at the end of the second paragraph in conformity with the appropriation acts of recent years. See for example act July 5, 1946, ch. 541, title II, 60 Stat. 460.
+The words "or the Department of Justice as the case may be" were added at the end of the second paragraph in conformity with the appropriation acts of recentyears. See for example act July 5, 1946, ch. 541, title II, 60 Stat. 460.
 
 #### <b>Editorial Notes</b>
 

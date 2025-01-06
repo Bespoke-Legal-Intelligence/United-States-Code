@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
-> &emsp;In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need and is not in excess of the amount required to satisfy such financial need, and that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee's certification, and for procedures for addressing cases of employee misrepresentation.
+> &emsp;In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certificationby the employee that the distribution is on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need and is not in excess of the amount required to satisfy such financial need, and that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee's certification, and for procedures for addressing cases of employee misrepresentation.
 
 #### (12) Nondiscrimination requirements
 
@@ -192,15 +192,25 @@
 
 &emsp;&emsp;&emsp;(ii) all employees of the organization may elect to have the employer make contributions of more than $200 pursuant to a salary reduction agreement if any employee of the organization may elect to have the organization make contributions for such contracts pursuant to such agreement.
 
-> &emsp;&emsp;For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or a qualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week. The fact that the employer offers matching contributions on account of qualified student loan payments as described in section 401(m)(13) shall not be taken into account in determining whether the arrangement satisfies the requirements of clause (ii) (and any regulation thereunder).<sup>1</sup> A plan shall not fail to satisfy clause (ii) solely by reason of offering a de minimis financial incentive (not derived from plan assets) to employees to elect to have the employer make contributions pursuant to a salary reduction agreement.
+> &emsp;&emsp;For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or a qualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4) and section 202(c) of the Employee Retirement Income Security Act of 1974, there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week. The fact that the employer offers matching contributions on account of qualified student loan payments as described in section 401(m)(13) shall not be taken into account in determining whether the arrangement satisfies the requirements of clause (ii) (and any regulation thereunder). A plan shall not fail to satisfy clause (ii) solely by reason of offering a de minimis financial incentive (not derived from plan assets) to employees to elect to have the employer make contributions pursuant to a salary reduction agreement.
 
 #### (B) Church
 
-&emsp;&emsp;For purposes of paragraph (1)(D), the term "church" has the meaning given to such term by section 3121(w)(3)(A). Such termshall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+&emsp;&emsp;For purposes of paragraph (1)(D), the term "church" has the meaning given to such term by section 3121(w)(3)(A). Such term shall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
 
 #### (C) State and local governmental plans
 
 &emsp;&emsp;For purposes of paragraph (1)(D), the requirements of subparagraph (A)(i) (other than those relating to section 401(a)(17)) shall not apply to a governmental plan (within the meaning of section 414(d)) maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof).
+
+#### (D) Rules relating to certain part-time employees
+
+#### (i) <sup>1</sup> In general
+
+&emsp;&emsp;&emsp;In the case of employees who are eligible to participate in the agreement solely by reason of section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974—
+
+&emsp;&emsp;&emsp;&emsp;(I) notwithstanding section 401(a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the plan, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the employer may elect to exclude such employees from the application of subsections (a)(4), (k)(3), (k)(12), (k)(13), and (m)(2) of section 401 and section 410(b).
 
 #### (13) Trustee-to-trustee transfers to purchase permissive service credit
 
@@ -330,24 +340,6 @@ Premiums paid by an employer for an annuity contract which is not subject to sub
 
 #### Amendment of Section
 
-<i>Pub. L. 117–328, div. T, title I, §125(a)(2)(A), (B)(i), (f)(1), Dec. 29, 2022, 136 Stat. 5314–5316,</i><i>provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b)(12) of this section is amended as follows:</i>
-
-<i>(1) in the last sentence of subparagraph (A), by inserting "and section 202(c) of the Employee Retirement Income Security Act of 1974" after "under section 410(b)(4)"; and</i>
-
-<i>(2) by adding at the end the following new subparagraph:</i>
-
-#### <i>"(D) Rules relating to certain part-time employees</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"In the case of employees who are eligible to participate in the agreement solely by reason of section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) notwithstanding section 401(a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the plan, and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) the employer may elect to exclude such employees from the application of subsections (a)(4), (k)(3), (k)(12), (k)(13), and (m)(2) of section 401 and section 410(b)."</i>
-
-<i>See 2022 Amendment notes below.</i>
-
 <i>Pub. L. 117–328, div. T, title III, §334(b)(2)–(4), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, this section is amended as follows:</i>
 
 <i>(1) in subsection (a), by adding at the end the following new paragraph:</i>
@@ -369,6 +361,10 @@ Premiums paid by an employer for an annuity contract which is not subject to sub
 <i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 202(c) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(12)(A), (D)(i), is classified to section 1052(c) of Title 29, Labor.
 
 #### Amendments
 
@@ -608,7 +604,7 @@ Subsec. (b)(4)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 Subsec. (b)(7)(C). Pub. L. 94–455, §1504(a), struck out ", and which issues only redeemable stock" after "regulated investment company within the meaning of section 851(a)".
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–406, §2005(b)(2), substituted "a lump sum distribution (as defined in section 4002(e)(4)(A)) is paid to the recipient" for "the total amounts payable by reason of an employee's death or other separation from the service, or by reason of the death of an employee after the employee's separation from the service, are paid to the payee within one taxable year of the payee" as cl. (iii) of subpar. (A), substituted "so much of the total taxable amount (as defined in section 402(e)(4)(D)) of such distribution as is equal to the product of such total taxable amount multiplied by the fraction described in section 402(a)(2) shall be treated as a gain from the sale or exchange of a capital asset held for more than 6 months. For purposes of this paragraph, in the case of an individual who is an employee without regard to section 401(c)(1), determination of whether or not any distribution is a lump sum distribution shall be made without regard to the requirement that an election be made under subsection (e)(4)(B) of section 402, but no distribution to any taxpayer other than an individual, estate, or trust may be treated as a lump sum distribution under this paragraph" for "then the amount of such payments, to the extent exceeding the amount contributed by the employee (determined by applying section 72(f)), which employee contributions shall be reduced by any amounts theretofore paid to him which were not includible in gross income, shall be considered a gain from the sale or exchange of a capital asset held for more than 6 months. This subparagraph shall not apply to amounts paid to any payee to the extent such amounts are attributable to contributions made on behalf of the employee while he was an employee within the meaning of section 401(c)(1)" following cl. (iii) of subpar. (A), substituted provisions setting out a cross reference to section 402(e) for provisions defining "total amounts" as subpar. (B), and struck out subpar. (C) setting out limitations on capital gains treatment.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–406, §2005(b)(2), substituted "a lump sum distribution (as defined in section 4002(e)(4)(A)) is paid to the recipient" for "the total amounts payable by reason of an employee's death or other separation from the service, or by reason of the death of an employee after the employee's separation from the service, are paid to the payee within one taxable year of the payee" as cl. (iii) of subpar. (A), substituted "so much of the total taxable amount (as defined in section 402(e)(4)(D)) of such distribution as is equal to the product of such total taxable amount multiplied by the fraction described in section 402(a)(2) shall be treated as a gain from the sale or exchange of a capital asset held for more than 6 months. For purposes of this paragraph, in the case of an individual who is an employee without regard to section 401(c)(1), determination of whether or not any distribution is a lump sum distribution shall be made without regard to the requirement that an election be made under subsection (e)(4)(B) of section 402, but no distribution to any taxpayer other than an individual, estate, or trust may be treated as a lump sum distribution under this paragraph" for "then the amount of such payments, to the extent exceeding the amount contributed by the employee (determined by applying section 72(f)), which employee contributions shall be reduced by any amounts theretofore paid to him which were not includible in gross income, shall be considered a gain from the sale or exchange of a capital asset held for more than 6 months. This subparagraph shall not applyto amounts paid to any payee to the extent such amounts are attributable to contributions made on behalf of the employee while he was an employee within the meaning of section 401(c)(1)" following cl. (iii) of subpar. (A), substituted provisions setting out a cross reference to section 402(e) for provisions defining "total amounts" as subpar. (B), and struck out subpar. (C) setting out limitations on capital gains treatment.
 
 Subsec. (a)(4). Pub. L. 93–406, §2002(g)(6), added par. (4).
 
@@ -642,7 +638,7 @@ Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated 
 
 #### Effective Date of 2022 Amendment
 
-Pub. L. 117–328, div. T, title I, §106(h)(1), Dec. 29, 2022, 136 Stat. 5289, provided that: "The amendments madeby this section \[amending this section, sections 6057 and 6058 of this title, and section 1002 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2022."
+Pub. L. 117–328, div. T, title I, §106(h)(1), Dec. 29, 2022, 136 Stat. 5289, provided that: "The amendments made by this section \[amending this section, sections 6057 and 6058 of this title, and section 1002 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2022."
 
 Amendment by section 110(e) of Pub. L. 117–328 applicable to contributions made for plan years beginning after Dec. 31, 2023, see section 110(h) of Pub. L. 117–328, set out as a note under section 401 of this title.
 
@@ -680,7 +676,7 @@ Amendment by section 845(b)(1), (2) of Pub. L. 109–280 applicable to distribut
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 404(e) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+Amendment by section 404(e) of Pub. L. 108–311 effective as if included in the provisions of the EconomicGrowth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -722,7 +718,7 @@ Pub. L. 104–188, title I, §1450(c)(2), Aug. 20, 1996, 110 Stat. 1815, provide
 
 Amendment by section 521(b)(12), (13) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 
-Amendment by section 522(a)(3), (c)(2), (3) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub.L. 102–318, set out as a note under section 401 of this title.
+Amendment by section 522(a)(3), (c)(2), (3) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -762,7 +758,7 @@ Amendment by section 1123(c) of Pub. L. 99–514 applicable to years beginning a
 
 Pub. L. 99–514, title XVIII, §1852(a)(3)(C), Oct. 22, 1986, 100 Stat. 2865, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to benefits accruing after December 31, 1986, in taxable years ending after such date."
 
-Amendment by section 1852(a)(5)(B), (b)(10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1852(a)(5)(B), (b)(10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984,Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -884,7 +880,7 @@ Pub. L. 117–328, div. T, title I, §106(g), Dec. 29, 2022, 136 Stat. 5288, pro
 
 #### Treatment of Custodial Accounts on Termination of Section 403(b) Plans
 
-Pub. L. 116–94, div. O, title I, §110, Dec. 20, 2019, 133 Stat. 3152, provided that: "Not later than six monthsafter the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008."
+Pub. L. 116–94, div. O, title I, §110, Dec. 20, 2019, 133 Stat. 3152, provided that: "Not later than six months after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008."
 
 #### Election To Modify Section 403(b) Exclusion Allowance To Conform to Section 415 Modification
 
@@ -968,5 +964,5 @@ Pub. L. 96–222, title I, §101(a)(13)(B), Apr. 1, 1980, 94 Stat. 204, as amend
 
 Applicable period specified in section 402(a)(5)(C) of this title shall not expire before close of Dec. 31, 1980 in case of any payment described in subsec. (a)(4)(A) of this section or section 402(a)(5)(A) of this title, see section 157(h)(3)(B) of Pub. L. 95–600, set out as a note under section 402 of this title.
 
-<i><sup>1</sup></i><i> As to preceding sentence, see Effective Date of 2022 Amendment note below for section 110(e) of Pub. L. 117–328.</i>
+<i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

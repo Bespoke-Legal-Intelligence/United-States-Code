@@ -36,7 +36,7 @@ In general.—Beginning on the date of the enactment of this Act \[Nov. 6, 1986\
 
 &emsp;"(2)
 
-Transfer of authority.—All authority to carry out the purposes of the Fund and to prescribe regulations in connection with the administration of the Fund which, on the day before the date of the enactment of this Act, was vested in the Secretary of Health and Human Services shall vest on such date inthe Board. Except as provided in subsection (c), the Secretary shall have no further responsibility with respect to the Fund.
+Transfer of authority.—All authority to carry out the purposes of the Fund and to prescribe regulations in connection with the administration of the Fund which, on the day before the date of the enactment of this Act, was vested in the Secretary of Health and Human Services shall vest on such date in the Board. Except as provided in subsection (c), the Secretary shall have no further responsibility with respect to the Fund.
 
 "(b)
 
@@ -72,7 +72,7 @@ Board.—The term 'Board' means the National Credit Union Administration Board.
 
 &emsp;"(2)
 
-Fund.—The term 'Fund' means the Community Development Credit Union Revolving Loan Fund established under title VII of the Economic Opportunity Act of 1964 \[see References in Text note above\] (as in effect before the date of the enactment of the Omnibus Budget Reconciliation Act of 1981 \[Aug. 13, 1981\]).
+Fund.—The term 'Fund' means the Community Development Credit Union Revolving Loan Fund established under title VII of the Economic Opportunity Act of 1964 \[see References in Text note above\] (as in effect before the date of the enactment of theOmnibus Budget Reconciliation Act of 1981 \[Aug. 13, 1981\]).
 
 &emsp;"(3)
 

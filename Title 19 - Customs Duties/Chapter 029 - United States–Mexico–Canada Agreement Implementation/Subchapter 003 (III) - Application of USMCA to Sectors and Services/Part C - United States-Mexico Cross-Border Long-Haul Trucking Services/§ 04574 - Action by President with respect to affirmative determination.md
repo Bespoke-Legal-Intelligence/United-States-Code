@@ -28,7 +28,7 @@ The President is not required to provide relief under this section if the Presid
 
 &emsp;&emsp;(B) With respect to a determination relating to an investigation under section 4572(a)(2) or (3) of this title, the revocation or imposition of limitations on an existing grant of authority by the persons of Mexico that are the subject of the investigation.
 
-&emsp;&emsp;(C) With respect to a determination relating to an investigation under section 4572(a)(1), (2), or (3) of this title, a cap on the number of grants of authority issued to persons of Mexico annually.
+&emsp;&emsp;(C) With respect to a determination relating to an investigation under section4572(a)(1), (2), or (3) of this title, a cap on the number of grants of authority issued to persons of Mexico annually.
 
 #### (2) Deadline for relief
 
@@ -66,7 +66,7 @@ The President is not required to provide relief under this section if the Presid
 
 #### (C) Period of relief
 
-&emsp;&emsp;Any relief provided under this section, including any extension thereof, may not, inthe aggregate, be in effect for more than 6 years.
+&emsp;&emsp;Any relief provided under this section, including any extension thereof, may not, in the aggregate, be in effect for more than 6 years.
 
 #### (D) Limitation
 

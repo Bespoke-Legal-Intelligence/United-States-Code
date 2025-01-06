@@ -26,7 +26,7 @@ Transfer and Use of Amounts for Major Equipment Acquisitions.—
 
 &emsp;(1)
 
-In general.—Subject to subparagraph (2), unobligated balances of amounts appropriated or otherwise made available to the General Services Administration for operating expenses and salaries and expenses may be transferred and merged into the "Major equipment acquisitions and development activity" of the working capital fund of the General Services Administration for agency-wide acquisition of capital equipment, automated data processing systems and financial management and management information systems: <i>Provided</i>, That acquisitions are limited to those needed to implement the Chief Financial Officers Act of 1990 (Public Law 101–576, 104 Stat. 2838) and related laws or regulations or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act.
+In general.—Subject to subparagraph (2), unobligated balances of amounts appropriatedor otherwise made available to the General Services Administration for operating expenses and salaries and expenses may be transferred and merged into the "Major equipment acquisitions and development activity" of the working capital fund of the General Services Administration for agency-wide acquisition of capital equipment, automated data processing systems and financial management and management information systems: <i>Provided</i>, That acquisitions are limited to those needed to implement the Chief Financial Officers Act of 1990 (Public Law 101–576, 104 Stat. 2838) and related laws or regulations or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act.
 
 &emsp;(2)
 

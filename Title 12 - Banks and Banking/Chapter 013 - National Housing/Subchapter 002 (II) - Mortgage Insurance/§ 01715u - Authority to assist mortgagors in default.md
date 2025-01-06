@@ -8,7 +8,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (1) Establishment of program
 
-&emsp;The Secretary may establish a program for payment of a partial claim to a mortgagee that agrees to apply the claim amount to payment of a mortgage on a 1- to 4-family residence that is in default or faces imminent default, as defined by the Secretary.
+&emsp;The Secretary may establish a program for payment of a partial claim to a mortgageethat agrees to apply the claim amount to payment of a mortgage on a 1- to 4-family residence that is in default or faces imminent default, as defined by the Secretary.
 
 #### (2) Payments and exceptions
 
@@ -66,7 +66,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (C) Disposition
 
-&emsp;&emsp;After modification of a mortgage pursuant to this paragraph, the Secretary may provide insurance under this subchapter for themortgage. The Secretary may subsequently—
+&emsp;&emsp;After modification of a mortgage pursuant to this paragraph, the Secretary may provide insurance under this subchapter for the mortgage. The Secretary may subsequently—
 
 &emsp;&emsp;&emsp;(i) re-assign the mortgage to the mortgagee under terms and conditions as are agreed to by the mortgagee and the Secretary;
 
@@ -76,7 +76,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (D) Loan servicing
 
-&emsp;&emsp;In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgage for the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to the maximum extent possible, with section 1709(b) of this title. If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
+&emsp;&emsp;In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgagefor the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to the maximum extent possible, with section 1709(b) of this title. If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
 
 #### (d) Prohibition of judicial review
 
@@ -126,7 +126,7 @@ Subsec. (c)(2). Pub. L. 111–22, §203(d)(3)(E), added par. (2). Former par. (2
 
 <b>1996</b>—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d) relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
 
-Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: "Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments ofVeterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment."
+Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: "Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment."
 
 <b>1991</b>—Subsec. (a)(5). Pub. L. 102–83 substituted "section 3703(c) of title 38" for "section 1803(c) of title 38".
 
@@ -136,7 +136,7 @@ Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–399 added subsec. (a). Existing undesignated provisions were designated as subsec. (b)(1).
 
-Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinationsmade pursuant to such subsection, and added pars. (2) and (3).
 
 Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 

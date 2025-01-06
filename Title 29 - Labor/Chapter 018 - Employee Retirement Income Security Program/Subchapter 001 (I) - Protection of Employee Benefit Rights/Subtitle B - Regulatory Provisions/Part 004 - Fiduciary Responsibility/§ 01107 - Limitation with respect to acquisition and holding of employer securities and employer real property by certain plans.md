@@ -44,7 +44,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(II) at the direction of a person other than the participant on whose behalf such elective deferrals are made to the plan (or a beneficiary).
 
-(ii) This paragraph shall not apply to an individual account plan for a plan year if, on the last day of the preceding plan year, the fair market value of the assets of all individual account plans maintained by the employer equals not more than 10 percent of the fair market value of the assets of all pension plans (other than multiemployer plans) maintained by the employer.
+(ii) This paragraph shall not apply to an individual account plan for a plan year if, on the last day of the preceding plan year, the fair market value of the assets of all individual account plans maintained by the employer equals not more than 10 percent of the fair market value ofthe assets of all pension plans (other than multiemployer plans) maintained by the employer.
 
 (iii) This paragraph shall not apply to an individual account plan that is an employee stock ownership plan as defined in section 4975(e)(7) of title 26.
 
@@ -58,7 +58,7 @@ Cross References.—
 
 &emsp;&emsp;<b>(A) For exemption from diversification requirements for holding of qualifying employer securities and qualifying employer real property by eligible individual account plans, see section 1104(a)(2) of this title.</b>
 
-&emsp;&emsp;<b>(B) For exemption from prohibited transactions for certain acquisitions of qualifying employer secu</b><b>rities and qualifying employer real property which are not in violation of 10 percent limitation, see section 1108(e) of this title.</b>
+&emsp;&emsp;<b>(B) For exemption from prohibited transactions for certain acquisitions of qualifying employer securities and qualifying employer real property which are not in violation of 10 percent limitation, see section 1108(e) of this title.</b>
 
 &emsp;&emsp;<b>(C) For transitional rules respecting securities or real property subject to binding contracts in effect on June 30, 1974, see section 1114(c) of this title.</b>
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) even if all of such real property is leased to one lessee (which may be an employer, or an affiliate of an employer); and
 
-&emsp;&emsp;(D) if the acquisition and retention of such property comply with the provisions of this part (other than section 1104(a)(1)(B) of this title to the extent it requires diversification, and sections 1104(a)(1)(C), 1106 of this title, and subsection (a) of this section).
+&emsp;&emsp;(D) if the acquisition and retention of such property comply with the provisions of thispart (other than section 1104(a)(1)(B) of this title to the extent it requires diversification, and sections 1104(a)(1)(C), 1106 of this title, and subsection (a) of this section).
 
 &emsp;(5) The term "qualifying employer security" means an employer security which is—
 
@@ -156,7 +156,7 @@ For purposes of subsection (d)(5), the term "marketable obligation" means a bond
 
 &emsp;(B) was acquired after December 17, 1987, pursuant to a legally binding contract in effect on December 17, 1987, and has been so held at all times after the acquisition.
 
-(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
+(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L.105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
 
 #### <b>Editorial Notes</b>
 

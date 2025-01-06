@@ -24,7 +24,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 543(b)(4) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
+Amendment by section 543(b)(4) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
 
 Amendment by section 603(a)(16) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 

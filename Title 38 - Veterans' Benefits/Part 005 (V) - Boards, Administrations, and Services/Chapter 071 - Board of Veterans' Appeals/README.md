@@ -17,12 +17,15 @@
 | [7111\.](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
 | [7112\.](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20certain%20claims.md) | Expedited treatment of certain claims. |
 | [7113\.](%C2%A7%2007113%20-%20Evidentiary%20record%20before%20the%20Board%20of%20Veterans%27%20Appeals.md) | Evidentiary record before the Board of Veterans' Appeals. |
+| [7114\.](%C2%A7%2007114%20-%20Internship%20program.md) | Internship program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–196, §5(b), Dec. 23, 2024, 138 Stat. 2673, added item 7114.
 
 <b>2022</b>—Pub. L. 117–300, §2(a)(2)(B), Dec. 27, 2022, 136 Stat. 4380, added item 7112 and struck out former item 7112 "Expedited treatment of remanded claims".
 
@@ -66,3 +69,4 @@ Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and subst
 - [&sect; 07111 - Revision of decisions on grounds of clear and unmistakable error](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md)
 - [&sect; 07112 - Expedited treatment of certain claims](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20certain%20claims.md)
 - [&sect; 07113 - Evidentiary record before the Board of Veterans' Appeals](%C2%A7%2007113%20-%20Evidentiary%20record%20before%20the%20Board%20of%20Veterans%27%20Appeals.md)
+- [&sect; 07114 - Internship program](%C2%A7%2007114%20-%20Internship%20program.md)

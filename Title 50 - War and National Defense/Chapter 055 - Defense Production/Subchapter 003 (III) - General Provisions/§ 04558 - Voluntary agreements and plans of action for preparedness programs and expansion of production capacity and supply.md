@@ -188,7 +188,7 @@ Notwithstanding any other provision of law, chapter 10 of title 5 and any other 
 
 In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section. Such defense shall not release the party asserting it from any obligation under applicable law to mitigate damages to the greatest extent possible.
 
-(Sept. 8, 1950, ch. 932, title VII, §708, 64 Stat. 818; June 30, 1952, ch. 530, title I, §116(c), 66 Stat. 305; Aug. 9, 1955, ch. 655, §6, 69 Stat. 581; Pub. L. 87–305, §5(b), Sept. 26, 1961, 75 Stat. 667; Pub. L. 91–151, title I, §9, Dec. 23, 1969, 83 Stat. 376; Pub. L. 94–152, §3, Dec. 16, 1975, 89 Stat. 810; Pub. L. 102–99, §5, Aug. 17, 1991, 105 Stat. 487; Pub. L. 111–67, §9, Sept. 30, 2009, 123 Stat. 2018; Pub. L. 117–286, §4(a)(321), (322), Dec. 27, 2022, 136 Stat. 4341.)
+(Sept. 8, 1950, ch. 932, title VII, §708, 64 Stat. 818; June 30, 1952, ch. 530, title I, §116(c), 66 Stat. 305; Aug. 9, 1955, ch. 655, §6, 69 Stat. 581; Pub. L.87–305, §5(b), Sept. 26, 1961, 75 Stat. 667; Pub. L. 91–151, title I, §9, Dec. 23, 1969, 83 Stat. 376; Pub. L. 94–152, §3, Dec. 16, 1975, 89 Stat. 810; Pub. L. 102–99, §5, Aug. 17, 1991, 105 Stat. 487; Pub. L. 111–67, §9, Sept. 30, 2009, 123 Stat. 2018; Pub. L. 117–286, §4(a)(321), (322), Dec. 27, 2022, 136 Stat. 4341.)
 
 #### <b>Editorial Notes</b>
 
@@ -334,7 +334,7 @@ Pub. L. 94–152, §4, Dec. 16, 1975, 89 Stat. 820, provided that:
 
 &emsp;"(2) in effect immediately prior to such date may continue in effect (except as otherwise provided in section 708A(o) of the Defense Production Act of 1950, as amended by this Act) and shall be carried out in accordance with such section 708 \[50 U.S.C. 4558\], as amended by this Act, and such section 708A.
 
-"(b) No provision of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as amended by this Act, shall be construed as granting immunity for, nor as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any acts or practices which occurred (1) prior to the date of enactment of this Act \[Dec. 16,1975\], (2) outside the scope and purpose or not in compliance with the terms and conditions of the Defense Production Act of 1950, or (3) subsequent to the expiration or repeal of the Defense Production Act of 1950.
+"(b) No provision of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as amended by this Act, shall be construed as granting immunity for, nor as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any acts or practices which occurred (1) prior to the date of enactment of this Act \[Dec. 16, 1975\], (2) outside the scope and purpose or not in compliance with the terms and conditions of the Defense Production Act of 1950, or (3) subsequent to the expiration or repeal of the Defense Production Act of 1950.
 
 "(c) Effective on the date of enactment of this Act \[Dec. 16, 1975\], the immunity conferred by section 708 or 708A of the Defense Production Act of 1950, as amended by this Act, shall not apply to any action taken or authorized to be taken by or under the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\]."
 

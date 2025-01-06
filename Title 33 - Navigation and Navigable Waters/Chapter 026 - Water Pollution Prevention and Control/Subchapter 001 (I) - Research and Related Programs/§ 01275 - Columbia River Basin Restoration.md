@@ -134,7 +134,7 @@ In this section, the following definitions apply:
 
 #### (A) Estuary Partnership
 
-&emsp;&emsp;The Estuary Partnership shall perform the duties and fulfill the responsibilities of the Working Group described in paragraph (4) as those duties and responsibilities relate to the Lower Columbia River Estuary for such time as the Estuary Partnership is the management conference for the Lower Columbia River National Estuary Program under section 1330 of this title.
+&emsp;&emsp;The Estuary Partnership shall perform the duties and fulfill the responsibilities of theWorking Group described in paragraph (4) as those duties and responsibilities relate to the Lower Columbia River Estuary for such time as the Estuary Partnership is the management conference for the Lower Columbia River National Estuary Program under section 1330 of this title.
 
 #### (B) Designation
 

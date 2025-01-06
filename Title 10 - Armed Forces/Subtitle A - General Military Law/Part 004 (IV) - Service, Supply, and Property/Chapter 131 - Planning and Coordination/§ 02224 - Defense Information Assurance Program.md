@@ -76,6 +76,100 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
 
+#### Usability of Antiquated and Proprietary Data Formats for Modern Operations
+
+Pub. L. 118–159, div. A, title XV, §1521, Dec. 23, 2024, 138 Stat. 2138, provided that:
+
+"(a)
+
+Strategy and Roadmap.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop—
+
+&emsp;&emsp;"(A) a strategy for the Department of Defense, including each of the military departments, to identify, implement, and use modern data formats as the primary method of electronic communication for command and control activities and for weapon systems, including sensors associated with such weapon systems; and
+
+&emsp;&emsp;"(B) an associated five-year roadmap for the Department of Defense, including each of the military departments, to implement modern data formats under the strategy described in subparagraph (A).
+
+&emsp;"(2)
+
+Elements.—The strategy and roadmap required under paragraph (1) shall include the following elements:
+
+&emsp;&emsp;"(A) The activities of the Chief Digital and Artificial Intelligence Officer of the Department of Defense to increase and synchronize the use of modern data formats and modern data sharing standards across the Department of Defense.
+
+&emsp;&emsp;"(B) Development of standard definitions for modern and antiquated data formats, including a representative catalog of the types of data formats that fall under each category.
+
+&emsp;&emsp;"(C) The activities of the military departments to increase the use of modern data formats and modern data sharing standards for command and control systems, weapon systems, and sensors associated with such weapon systems.
+
+&emsp;&emsp;"(D) An identification of barriers to the use of modern data formats and modern data sharing standards within weapon systems and sensors associated with such weapon systems across the Department of Defense.
+
+&emsp;&emsp;"(E) An identification of barriers to the use of modern data formats and modern data sharing standards within command and control systems across the Department of Defense.
+
+&emsp;&emsp;"(F) An identification of limitations on combined joint all-domain command and control capabilities resulting from the use of antiquated data formats.
+
+&emsp;&emsp;"(G) An identification of policy documents, instructions, or other guidance requiring an update pursuant to such strategy.
+
+&emsp;&emsp;"(H) The sources of funding for each military department with respect to implementation of such strategy.
+
+&emsp;"(3)
+
+Submission to congress.—Upon completion of the strategy and roadmap required under this subsection, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives such strategy.
+
+&emsp;"(4)
+
+Modern data formats.—For the purposes of this subsection, the term 'modern data formats' includes—
+
+&emsp;&emsp;"(A) the JavaScript Object Notation data format;
+
+&emsp;&emsp;"(B) the Binary JavaScript Object Notation data format;
+
+&emsp;&emsp;"(C) the Protocol Buffers data format; and
+
+&emsp;&emsp;"(D) such other data formats that the Secretary of Defense determines would meet the requirements in this section.
+
+"(b)
+
+Pilot Programs.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 60 days after the completion of the strategy required by subsection (a)—
+
+&emsp;&emsp;"(A) the Secretary of Defense shall establish a pilot program under which the Department of Defense, other than the military departments, shall use modern data formats to improve the usability and functionality of information stored or produced in antiquated data formats, including by the automated conversion of such information to modern data formats; and
+
+&emsp;&emsp;"(B) each Secretary of a military department shall establish a pilot program under which such military department shall use modern data formats as described in subparagraph (A).
+
+&emsp;"(2)
+
+Briefing.—Not later than 180 days after the completion of the strategy required by subsection (a), the Secretary of Defense and the Secretaries of the military departments shall each submit to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the progress of the pilot program established by such Secretary under this subsection, including specific examples of the use of modern data formats under such pilot program to improve the usability and functionality of information stored or produced in antiquated data formats.
+
+&emsp;"(3)
+
+Sunset.—Each pilot program established under this subsection shall terminate on the date that is five years after the date of the enactment of this Act.
+
+"(c)
+
+Military Department Defined.—In this section, the term 'military department' has the meaning given such term in section 101(a) of title 10, United States Code."
+
+#### Update of Biometric Policy of Department of Defense
+
+Pub. L. 118–159, div. A, title XV, §1523, Dec. 23, 2024, 138 Stat. 2142, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Under Secretary of Defense for Intelligence and Security shall update the policy of the Department of Defense regarding the protection of biometric data.
+
+"(b)
+
+Elements.—The policy updates required by subsection (a) shall include the following:
+
+&emsp;"(1) Standards for encrypting and protecting data on biometric collection devices.
+
+&emsp;"(2) A requirement to sanitize biometric data from collection devices and hard drives prior to disposal of the devices and hard drives.
+
+&emsp;"(3) A requirement that components of the Department maintain records that they have sanitized all data from biometric collection devices when the devices are turned in for disposal."
+
 #### Review and Plan Relating to Cyber Red Teams of Department of Defense
 
 Pub. L. 118–31, div. A, title XV, §1507, Dec. 22, 2023, 137 Stat. 540, provided that:
@@ -294,7 +388,7 @@ In general.—In selecting military installations under paragraph (1), the Secre
 
 &emsp;&emsp;"(B)
 
-Selection between equal priorities.—If two or more military installations qualify for equal priority under subparagraph (A), the Secretary of Defense shall give further priority for selection under such paragraph to any such military installation that the Secretary of Defense determines is—
+Selection between equal priorities.—If two or more military installations qualify for equalpriority under subparagraph (A), the Secretary of Defense shall give further priority for selection under such paragraph to any such military installation that the Secretary of Defense determines is—
 
 &emsp;&emsp;&emsp;"(i) connected to national-level infrastructure;
 
@@ -398,7 +492,7 @@ Briefing on Requirements Related to Covered Applications.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees a briefing on actions taken by the Secretary to enforce compliance with existing policy of the Department of Defense that prohibits—
+In general.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees abriefing on actions taken by the Secretary to enforce compliance with existing policy of the Department of Defense that prohibits—
 
 &emsp;&emsp;"(A) the installation and use of covered applications on Federal Government devices; and
 
@@ -660,7 +754,7 @@ Rule of Construction.—Nothing in this section may be construed to authorize Un
 
 #### Enterprise-Wide Procurement of Cyber Data Products and Services
 
-Pub. L. 117–81, div. A, title XV, §1521, Dec. 27, 2021, 135 Stat. 2040, as amended by Pub. L. 118–31, div. A, title XV, §1522, Dec. 22, 2023, 137 Stat. 553, provided that:
+Pub. L. 117–81, div. A, title XV, §1521, Dec. 27, 2021, 135 Stat. 2040, as amended by Pub. L. 118–31, div. A, title XV, §1522, Dec. 22, 2023, 137 Stat. 553; Pub. L. 118–159, div. A, title XV, §1501, Dec. 23, 2024, 138 Stat. 2131, provided that:
 
 "(a)
 
@@ -680,7 +774,7 @@ Program.—Not later than one year after the date of the enactment of this Act \
 
 &emsp;"(7) Carrying out the responsibilities specified in paragraphs (1) through (6) with respect to the cyber data products and services needs of the Cyberspace Operations Forces, such as cyber data products and services germane to cyberspace topology and identification of adversary threat activity and infrastructure, including—
 
-&emsp;&emsp;"(A) facilitating the development of cyber data products and services requirements for the Cyberspace Operations Forces, conducting market research regarding the future cyber data products and services needs of the Cyberspace Operations Forces, and conducting acquisitions pursuant to such requirements and market research;
+&emsp;&emsp;"(A) facilitating the development of cyber data products and services requirements for the Cyberspace Operations Forces, conducting market research regarding the future cyber data products andservices needs of the Cyberspace Operations Forces, and conducting acquisitions pursuant to such requirements and market research;
 
 &emsp;&emsp;"(B) coordinating cyber data products and services acquisition and management activities with Joint Cyber Warfighting Architecture acquisition and management activities, including activities germane to data storage, data management, and development of analytics;
 
@@ -698,9 +792,15 @@ Coordination.—In implementing this section, each component of the Department o
 
 Prohibition.—Beginning not later than 540 days after the date of the enactment of this Act, no component of the Department of Defense may independently procure a cyber data product or service that has been procured by the program management office established pursuant to subsection (a), unless—
 
-&emsp;"(1) such component is able to procure such product or service at a lower per-unit price than that available through such office; or
+&emsp;"(1) such component is able to procure such product or service at a lower per-unit price than that available through such office;
 
-&emsp;"(2) such office has approved such independent purchase.
+&emsp;"(2) such office has approved such independent purchase; or
+
+&emsp;"(3) such component submits to such office a justification for such component to independently procure such product or service that such component determines as demonstrating—
+
+&emsp;&emsp;"(A) the compelling need for such product or service; and
+
+&emsp;&emsp;"(B) either the urgency for such product or service or the need to ensure competition in the market for such product or service supports such independent procurement by such component.
 
 "(d)
 
@@ -778,9 +878,23 @@ In general.—Not later than 270 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Briefing.—Not later than 300 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the roles and responsibilities established under paragraph (1)."
+Briefing.—Not later than 300 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defensecommittees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the roles and responsibilities established under paragraph (1)."
 
 #### Zero Trust Strategy, Principles, Model Architecture, and Implementation Plans
+
+Pub. L. 118–159, div. A, title XV, §1513, Dec. 23, 2024, 138 Stat. 2136, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Chief Information Officer of the Department of Defense shall develop guidance for how—
+
+&emsp;"(1) the zero trust strategy of the Department of Defense developed under section 1528 of the National Defense Authorization Act for Fiscal Year 2022 (10 U.S.C. 2224 note) \[set out below\] applies to Internet of Things hardware, including human-wearable devices, sensors, and other smart technology used by the United States in military operations; and
+
+&emsp;"(2) the role identity, credential, and access management technologies serve in enforcing such zero trust strategy.
+
+"(b)
+
+Internet of Things Defined.—In this section, the term 'Internet of Things' has the meaning given such term by the National Institution of Standards and Technology in NIST Special Publication 800-172 and any amendatory or superseding document relating thereto."
 
 Pub. L. 117–81, div. A, title XV, §1528, Dec. 27, 2021, 135 Stat. 2044, as amended by Pub. L. 117–263, div. A, title XV, §1501(c)(2), Dec. 23, 2022, 136 Stat. 2879, provided that:
 
@@ -1112,7 +1226,7 @@ Additional.—Not later than 90 days after the submission of the report required
 
 #### Reporting Requirements for Cross Domain Incidents and Exemptions to Policies for Information Technology
 
-Pub. L. 116–283, div. A, title XVII, §1727, Jan. 1, 2021, 134 Stat. 4117, provided that:
+Pub. L. 116–283, div. A, title XVII, §1727, Jan. 1, 2021, 134 Stat. 4117, as amended by Pub. L. 118–159, div. A, title XV, §1511, Dec. 23, 2024, 138 Stat. 2136, provided that:
 
 "(a)
 
@@ -1138,7 +1252,11 @@ Exemptions to Policy for Information Technology.—Not later than six months aft
 
 &emsp;"(2) Duration.
 
-&emsp;"(3) Estimated time remaining."
+&emsp;"(3) Estimated time remaining.
+
+"(c)
+
+Termination Date.—The requirement of the Secretary of Defense to submit a monthly report under subsection (a) shall terminate on December 31, 2025."
 
 #### Pilot Program on Cybersecurity Capability Metrics
 
@@ -1386,7 +1504,7 @@ Elements.—The assessment required under section \[sic\] (a) shall include eval
 
 &emsp;&emsp;"(D) Mechanisms for the Department of Defense to share with entities in the defense industrial base malicious code, indicators of compromise, and insights on the evolving threat landscape.
 
-&emsp;"(3) Recommendations with respect to cybersecurity threat hunting program participation of prime contractors and subcontractors, including relating to the following:
+&emsp;"(3) Recommendations with respect to cybersecurity threat hunting program participationof prime contractors and subcontractors, including relating to the following:
 
 &emsp;&emsp;"(A) Incentives for defense industrial base entities to share with the Department of Defense threat and vulnerability information collected pursuant to threat monitoring and hunting activities.
 
@@ -1594,7 +1712,7 @@ Elements.—The framework developed pursuant to subsection (a) shall include the
 
 &emsp;"(3) The responsibilities of the prime contractors, and all subcontractors in the supply chain, for implementing the required cybersecurity standards, regulations, metrics, ratings, third-party certifications, and requirements identified under paragraph (1).
 
-&emsp;"(4) Definitions for 'Controlled Unclassified Information' (CUI) and 'For Official Use Only' (FOUO), policies regarding protecting information designated as either of such, and an explanation of the 'DoD CUI Program' and Department of Defense compliance with the responsibilities specified in Department of Defense Instruction (DoDI) 5200.48, 'Controlled Unclassified Information (CUI),' including the following:
+&emsp;"(4) Definitions for 'Controlled Unclassified Information' (CUI) and 'For Official Use Only' (FOUO),policies regarding protecting information designated as either of such, and an explanation of the 'DoD CUI Program' and Department of Defense compliance with the responsibilities specified in Department of Defense Instruction (DoDI) 5200.48, 'Controlled Unclassified Information (CUI),' including the following:
 
 &emsp;&emsp;"(A) The extent to which the Department of Defense is identifying whether information is CUI via a contracting vehicle and marking documents, material, and media containing such information in a clear and consistent manner.
 
@@ -1920,7 +2038,7 @@ Pub. L. 115–232, div. A, title XVI, §1645, Aug. 13, 2018, 132 Stat. 2135, pro
 
 "(a)
 
-Implementation of Plan Required.—Except as provided by subsection (b), the Secretary of Defense shall develop and implement the plan outlined in Binding Operational Directive 18–01, issued by the Secretary of Homeland Security on October 16, 2017, relating to email security and authentication and Internet websitesecurity, according to the schedule established by the Binding Operational Directive for the rest of the Executive Branch beginning with the date of enactment of this Act \[Aug. 13, 2018\].
+Implementation of Plan Required.—Except as provided by subsection (b), the Secretary of Defense shall develop and implement the plan outlined in Binding Operational Directive 18–01, issued by the Secretaryof Homeland Security on October 16, 2017, relating to email security and authentication and Internet website security, according to the schedule established by the Binding Operational Directive for the rest of the Executive Branch beginning with the date of enactment of this Act \[Aug. 13, 2018\].
 
 "(b)
 
@@ -2094,7 +2212,7 @@ Elements.—The plan required under subparagraph (A) shall include, at a minimum
 
 &emsp;&emsp;&emsp;"(iv) Defined actions, performance metrics, and projected timelines for achieving each of the 15 tasks specified in the strategy described in subparagraph (A)(i).
 
-&emsp;&emsp;&emsp;"(v) An analysis of any personnel, resourcing, capability, authority, or other gaps that will need to be addressed to ensure effective implementation of the strategy described in subparagraph (A)(i) across all relevant elements of the Department of Defense.
+&emsp;&emsp;&emsp;"(v) An analysis of any personnel, resourcing, capability, authority, or other gaps that will need to be addressed to ensure effective implementation of the strategy described in subparagraph\(A)(i) across all relevant elements of the Department of Defense.
 
 &emsp;&emsp;&emsp;"(vi) An investment framework and projected timeline for addressing any gaps identified under clause (v).
 
@@ -2198,7 +2316,7 @@ Authority to Provide Cyber Protection Support.—
 
 &emsp;"(1)
 
-In general.—Subject to a determination by the Secretary of Defense, the Secretary may providecyber protection support for the personal technology devices of the personnel described in paragraph (2).
+In general.—Subject to a determination by the Secretary of Defense, the Secretary may provide cyber protection support for the personal technology devices of the personnel described in paragraph (2).
 
 &emsp;"(2)
 
@@ -2320,7 +2438,7 @@ In general.—Not later than 30 days after the date on which the Secretary submi
 
 &emsp;"(2)
 
-Locations.—The Secretary shall carry out the pilot program under paragraph (1) at not fewer than two military installations selected by the Secretary from among military installations that support the most critical mission-essential functions of the Department of Defense as identified in the plan under subsection (a).
+Locations.—The Secretary shall carry out the pilot program under paragraph (1) at not fewer thantwo military installations selected by the Secretary from among military installations that support the most critical mission-essential functions of the Department of Defense as identified in the plan under subsection (a).
 
 &emsp;"(3)
 
@@ -2452,7 +2570,7 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—The Commander of the United States Cyber Command shall be responsible for, andshall have the authority to conduct, the following acquisition activities:
+In general.—The Commander of the United States Cyber Command shall be responsible for, and shall have the authority to conduct, the following acquisition activities:
 
 &emsp;&emsp;"(A) Development and acquisition of cyber operations-peculiar equipment and capabilities.
 
@@ -2574,7 +2692,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Priority in evaluations.—The plan under paragraph (1) shall accord a priority among evaluations based on the criticality of major weapon systems, as determined by the Chairman of the JointChiefs of Staff based on an assessment of employment of forces and threats.
+Priority in evaluations.—The plan under paragraph (1) shall accord a priority among evaluations based on the criticality of major weapon systems, as determined by the Chairman of the Joint Chiefs of Staff based on an assessment of employment of forces and threats.
 
 &emsp;"(3)
 
@@ -2662,7 +2780,7 @@ Action Plan Required.—In the event that a notification is submitted pursuant t
 
 "(c)
 
-Agent of a Foreign Power.—In this section, the term 'agent of a foreign power' has the meaning givensuch term in section 101(b) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(b))."
+Agent of a Foreign Power.—In this section, the term 'agent of a foreign power' has the meaning given such term in section 101(b) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(b))."
 
 #### Authorities, Capabilities, and Oversight of the United States Cyber Command
 
@@ -2704,45 +2822,7 @@ Pub. L. 114–328, div. A, title XVI, §1643(b), Dec. 23, 2016, 130 Stat. 2602, 
 
 #### Joint Federated Centers for Trusted Defense Systems for the Department of Defense
 
-Pub. L. 113–66, div. A, title IX, §937, Dec. 26, 2013, 127 Stat. 834, as amended by Pub. L. 114–92, div. A, title II, §231, Nov. 25, 2015, 129 Stat. 778, provided that:
-
-"(a)
-
-Federation Required.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense shall provide for the establishment of a joint federation of capabilities to support the trusted defense system needs of the Department of Defense (in this section referred to as the 'federation').
-
-&emsp;"(2)
-
-Purpose.—The purpose of the federation shall be to serve as a joint, Department-wide federation of capabilities to support the trusted defense system needs of the Department to ensure security in the software and hardware developed, acquired, maintained, and used by the Department, pursuant to the trusted defense systems strategy of the Department and supporting policies related to software assurance and supply chain risk management.
-
-"(b)
-
-Discharge of Establishment.—In providing for the establishment of the federation, the Secretary shall consider whether the purpose of the federation can be met by existing centers in the Department. If the Department determines that there are capabilities gaps that cannot be satisfied by existing centers, the Department shall devise a strategy for creating and providing resources for such capabilities to fill such gaps.
-
-"(c)
-
-Charter.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary shall issue a charter for the federation. The charter shall—
-
-&emsp;"(1) be established pursuant to the trusted defense systems strategy of the Department and supporting policies related to software assurance and supply chain risk management; and
-
-&emsp;"(2) set forth—
-
-&emsp;&emsp;"(A) the role of the federation in supporting program offices in implementing the trusted defense systems strategy of the Department;
-
-&emsp;&emsp;"(B) the software and hardware assurance expertise and capabilities of the federation, including policies, standards, requirements, best practices, contracting, training, and testing;
-
-&emsp;&emsp;"(C) the requirements for the discharge by the federation of a program of research and development to improve automated software code vulnerability analysis and testing tools;
-
-&emsp;&emsp;"(D) the requirements for the federation to procure, manage, and distribute enterprise licenses for automated software vulnerability analysis tools; and
-
-&emsp;&emsp;"(E) the requirements for the discharge by the federation of a program of research and development to improve hardware vulnerability, testing, and protection tools.
-
-"(d)
-
-Report.—The Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the time of the submittal to Congress of the budget of the President for fiscal year 2016 pursuant to section 1105 of title 31, United States Code, a report on the funding and management of the federation. The report shall set forth such recommendations as the Secretary considers appropriate regarding the optimal placement of the federation within the organizational structure of the Department, including responsibility for the funding and management of the federation."
+Pub. L. 113–66, div. A, title IX, §937, Dec. 26, 2013, 127 Stat. 834, as amended by Pub. L. 114–92, div. A, title II, §231, Nov. 25, 2015, 129 Stat. 778, which provided for the establishment of a joint federation of capabilities to support the trusted defense system needs of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title IX, §922(c), Dec. 23, 2024, 138 Stat. 2039. See section 4128 of this title.
 
 #### Improvements in Assurance of Computer Software Procured by the Department of Defense
 
@@ -2800,7 +2880,7 @@ Covered system.—The term 'covered system' means any Department of Defense crit
 
 &emsp;"(2)
 
-Software assurance.—The term 'software assurance' means the level of confidence that software functions as intended and is free of vulnerabilities, either intentionally or unintentionally designed or inserted as part of the software, throughout the life cycle."
+Software assurance.—The term 'software assurance' means the level of confidence that software functions as intended and is free of vulnerabilities, either intentionally or unintentionally designed orinserted as part of the software, throughout the life cycle."
 
 #### Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors
 

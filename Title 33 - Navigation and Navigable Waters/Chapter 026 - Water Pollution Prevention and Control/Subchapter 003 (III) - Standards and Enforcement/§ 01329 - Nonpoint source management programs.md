@@ -6,7 +6,7 @@
 
 &emsp;The Governor of each State shall, after notice and opportunity for public comment, prepare and submit to the Administrator for approval, a report which—
 
-&emsp;&emsp;(A) identifies those navigable waters within the State which, without additional action to control nonpoint sources of pollution, cannot reasonably be expected to attain or maintain applicable water qualitystandards or the goals and requirements of this chapter;
+&emsp;&emsp;(A) identifies those navigable waters within the State which, without additional action to control nonpoint sources of pollution, cannot reasonably be expected to attain or maintain applicable water quality standards or the goals and requirements of this chapter;
 
 &emsp;&emsp;(B) identifies those categories and subcategories of nonpoint sources or, where appropriate, particular nonpoint sources which add significant pollution to each portion of the navigable waters identified under subparagraph (A) in amounts which contribute to such portion not meeting such water quality standards or such goals and requirements;
 
@@ -140,7 +140,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (8) Satisfactory progress
 
-&emsp;No grant may be made under this subsection in any fiscal year to a State which in the preceding fiscal year received a grant under this subsection unless the Administrator determines that such State made satisfactoryprogress in such preceding fiscal year in meeting the schedule specified by such State under subsection (b)(2).
+&emsp;No grant may be made under this subsection in any fiscal year to a State which in the preceding fiscal year received a grant under this subsection unless the Administrator determines that such State made satisfactory progress in such preceding fiscal year in meeting the schedule specified by such State under subsection (b)(2).
 
 #### (9) Maintenance of effort
 
@@ -182,7 +182,7 @@ There is authorized to be appropriated to carry out subsections (h) and (i) $200
 
 #### (k) Consistency of other programs and projects with management programs
 
-The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
+The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection\(b)(2)(F) for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
 #### (l) Collection of information
 
@@ -244,5 +244,5 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.)to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 

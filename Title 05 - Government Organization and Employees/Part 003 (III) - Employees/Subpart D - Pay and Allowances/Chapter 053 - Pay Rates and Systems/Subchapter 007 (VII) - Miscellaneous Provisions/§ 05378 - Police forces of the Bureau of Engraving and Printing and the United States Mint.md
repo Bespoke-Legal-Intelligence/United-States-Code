@@ -54,7 +54,7 @@ Pub. L. 101–509, title V, §529 \[title I, §109(b)\], Nov. 5, 1990, 104 Stat.
 
 &emsp;"(1) affect any special pay rate under section 5303 of title 5, United States Code, established before this section takes effect; or
 
-&emsp;"(2) impair any authority to fix or adjust special pay rates under such section 5303 (or a succeedingprovision of law) for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint."
+&emsp;"(2) impair any authority to fix or adjust special pay rates under such section 5303 (or a succeeding provision of law) for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint."
 
 \[Amendment by Pub. L. 102–378 to section 529 \[title I, §109(b)\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 

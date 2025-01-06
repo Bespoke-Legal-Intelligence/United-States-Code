@@ -16,7 +16,7 @@ Except as provided in subsections (b), (c), and (e) State law shall apply to a c
 
 #### (c) Direct warnings
 
-No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, solely due to the manufacturer's failure to provide direct warnings to the injured party (or theinjured party's legal representative) of the potential dangers resulting from the administration of the vaccine manufactured by the manufacturer.
+No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, solely due to the manufacturer's failure to provide direct warnings to the injured party (or the injured party's legal representative) of the potential dangers resulting from the administration of the vaccine manufactured by the manufacturer.
 
 #### (d) Construction
 

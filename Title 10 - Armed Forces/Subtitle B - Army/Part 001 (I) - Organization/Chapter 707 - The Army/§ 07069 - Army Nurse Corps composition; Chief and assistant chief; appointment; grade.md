@@ -6,7 +6,7 @@
 
 (c) The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 168, §3069; Pub. L. 85–155, title I, §101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, §502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title V, §504(a)(1), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, §502(o), Dec. 23, 2016, 130 Stat. 2103; renumbered §7069, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 168, §3069; Pub. L. 85–155, title I, §101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, §502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A,title V, §504(a)(1), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, §502(o), Dec. 23, 2016, 130 Stat. 2103; renumbered §7069, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 Historical and Revision Notes
 

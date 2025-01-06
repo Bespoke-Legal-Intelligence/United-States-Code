@@ -44,7 +44,7 @@
 
 #### (ii) Personal assistance services
 
-&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 or more persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 ormore persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (3) Determination of awards
 
@@ -130,7 +130,7 @@ Section 101(f) of this Act, referred to in subsec. (f), is section 101(f) of the
 
 #### Codification
 
-Section was enacted as part of the Ticket to Work and Work Incentives Improvement Act of 1999, and notas part of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Ticket to Work and Work Incentives Improvement Act of 1999, and not as part of the Social Security Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

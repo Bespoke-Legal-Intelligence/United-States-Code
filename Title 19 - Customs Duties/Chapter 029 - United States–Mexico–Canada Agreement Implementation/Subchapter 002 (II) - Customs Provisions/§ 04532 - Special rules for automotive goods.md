@@ -114,7 +114,7 @@ In this section:
 
 #### (C) Regulations required
 
-&emsp;&emsp;The Secretary of the Treasury, in consultation with the Secretary of Labor, shallprescribe regulations to carry out this paragraph, including regulations setting forth the procedures and requirements for a producer of covered vehicles to establish that the producer meets the labor value content requirements for preferential tariff treatment.
+&emsp;&emsp;The Secretary of the Treasury, in consultation with the Secretary of Labor, shall prescribe regulations to carry out this paragraph, including regulations setting forth the procedures and requirements for a producer of covered vehicles to establish that the producer meets the labor value content requirements for preferential tariff treatment.
 
 #### (2) Certification relating to steel and aluminum purchase requirements
 
@@ -194,7 +194,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the request for the alternative staging regime covers more than 10 percent of the production of passenger vehicles or lights <sup>1</sup> trucks, as the case may be, in USMCA countries by the producer;
 
-&emsp;&emsp;&emsp;(ii) the producer has identified with specificity which of the requirements set forth in articles 2 through 7 of the automotive appendix the producer is unable to meet based on current business plans; and
+&emsp;&emsp;&emsp;(ii) the producer has identified with specificity which of the requirements set forthin articles 2 through 7 of the automotive appendix the producer is unable to meet based on current business plans; and
 
 &emsp;&emsp;&emsp;(iii) the detailed and credible plan of the producer submitted under paragraph (1)(C)(iii) is based on substantial evidence and reasonably calculated to bring the production of the passenger vehicles or light trucks, as the case may be, into compliance with the requirements set forth in articles 2 through 7 of the automotive appendix after the alternative staging regime period has expired.
 
@@ -230,7 +230,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A producer that submits a notification under clause (i) with respect to a changedescribed in that clause may submit to the Trade Representative and the interagency committee a request for modification of its plan.
+&emsp;&emsp;&emsp;&emsp;A producer that submits a notification under clause (i) with respect to a change described in that clause may submit to the Trade Representative and the interagency committee a request for modification of its plan.
 
 #### (II) Determination regarding modification
 
@@ -290,7 +290,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In participating in a verification conducted under paragraph (1), the Secretary ofLabor shall assist the Secretary of the Treasury to do the following:
+&emsp;&emsp;In participating in a verification conducted under paragraph (1), the Secretary of Labor shall assist the Secretary of the Treasury to do the following:
 
 &emsp;&emsp;&emsp;(i) Examine, or cause to be examined, upon reasonable notice, any record (including any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity.
 
@@ -370,7 +370,7 @@ The Secretary of Labor is authorized to establish or designate an office within 
 
 &emsp;&emsp;&emsp;(iii) aggregate employment and employment opportunities in the United States;
 
-&emsp;&emsp;&emsp;(iv) production, investment, use of productive facilities, and profit levels in theautomotive industries and other pertinent industries in the United States affected by the automotive rules of origin;
+&emsp;&emsp;&emsp;(iv) production, investment, use of productive facilities, and profit levels in the automotive industries and other pertinent industries in the United States affected by the automotive rules of origin;
 
 &emsp;&emsp;&emsp;(v) wages and employment of workers in the automotive sector in the United States; and
 

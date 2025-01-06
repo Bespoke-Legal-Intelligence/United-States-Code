@@ -44,7 +44,7 @@ The Administrator shall make flood insurance available in only those States or a
 
 &emsp;Nothing in this subsection shall be construed to limit the ability of individuals residing in residential properties of 5 or more residences to obtain insurance for the contents and personal articles located in such residences.
 
-(Pub. L. 90–448, title XIII, §1305, Aug. 1, 1968, 82 Stat. 574; Pub. L. 91–152, title IV, §410(a), Dec. 24, 1969, 83 Stat. 397; Pub. L. 92–213, §2(c)(1), Dec. 22, 1971, 85 Stat. 775; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100204, 100238(b)(1), July 6, 2012, 126 Stat. 916, 958.)
+(Pub. L. 90–448, title XIII, §1305, Aug. 1, 1968, 82 Stat. 574; Pub. L. 91–152, title IV, §410(a), Dec. 24,1969, 83 Stat. 397; Pub. L. 92–213, §2(c)(1), Dec. 22, 1971, 85 Stat. 775; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100204, 100238(b)(1), July 6, 2012, 126 Stat. 916, 958.)
 
 #### <b>Editorial Notes</b>
 

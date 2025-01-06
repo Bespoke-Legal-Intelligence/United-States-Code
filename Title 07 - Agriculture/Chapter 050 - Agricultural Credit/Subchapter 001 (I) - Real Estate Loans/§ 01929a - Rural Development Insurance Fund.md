@@ -18,7 +18,7 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (e) Notes and security as part of Insurance Fund; collection and sale of notes and other obligations; deposit of net proceeds in Insurance Fund
 
-Notes and security acquired by the Secretary in connection with rural development loans made, guaranteed, or insured under this chapter or transferred by subsection (b) of this section shall become a part of the Insurance Fund. Notes and other obligations may be held in the Insurance Fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes and other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the Insurance Fund.
+Notes and security acquired by the Secretary in connection with rural development loans made, guaranteed, or insured under this chapter or transferred by subsection (b) of this section shall become a part of the Insurance Fund. Notes and other obligations may be held in the Insurance Fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes and other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilitiesthat might have been imposed had the borrower remained indebted to the Secretary. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the Insurance Fund.
 
 #### (f) Deposit of loan service charges in Insurance Fund
 
@@ -38,7 +38,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
 
-&emsp;(6) to pay the difference between interest payments by borrowers and interest to whichholders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
+&emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
 &emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
@@ -72,7 +72,7 @@ Pub. L. 104–127, §661(c)(1), substituted "1926(a)(1), 1926(a)(14), and 1932 o
 
 Subsec. (b). Pub. L. 104–127, §661(c)(2), which directed amendment of the first sentence of subsection (b) by striking "and section 1928 of this title", could not be executed because "and section 1928 of this title" did not appear in such sentence. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 104–127. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Subsec. (g). Pub. L. 104–127, §745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: "to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;".
+Subsec. (g). Pub. L. 104–127, §745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: "to make rural development loans which could be insured under thischapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting "Notes and other obligations" for "Notes" and substituting ", including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary." for period at end.
 
@@ -112,7 +112,7 @@ Eligible Loans.—
 
 &emsp;"(1)
 
-In general.—Loans guaranteed under this section shall be loans made by any Federal or Statechartered bank, savings and loan association, cooperative lending agency, insurance company, or other legally organized lending agency.
+In general.—Loans guaranteed under this section shall be loans made by any Federal or State chartered bank, savings and loan association, cooperative lending agency, insurance company, or other legally organized lending agency.
 
 &emsp;"(2)
 
@@ -224,7 +224,7 @@ Pub. L. 99–500, title III, §381, Oct. 18, 1986, 100 Stat. 1783–369, and Pub
 
 "(a)
 
-In General.—The Secretary of Agriculture shall, under such terms as the Secretary may prescribe, sellnotes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a) in such amounts as to realize net proceeds of not less than—
+In General.—The Secretary of Agriculture shall, under such terms as the Secretary may prescribe, sell notes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a) in such amounts as to realize net proceeds of not less than—
 
 &emsp;"(1) $25,000,000 from such sales during fiscal year 1987;
 

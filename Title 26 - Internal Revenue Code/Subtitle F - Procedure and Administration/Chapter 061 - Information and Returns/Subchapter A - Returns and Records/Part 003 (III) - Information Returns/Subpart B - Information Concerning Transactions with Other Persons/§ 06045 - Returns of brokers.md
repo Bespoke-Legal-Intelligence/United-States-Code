@@ -80,7 +80,7 @@ If any broker—
 
 &emsp;&emsp;(E) such other person designated in regulations prescribed by the Secretary.
 
-> &emsp;Any person treated as a real estate reporting person under the preceding sentence shall be treated as a broker for purposes of subsection (c)(1).
+> &emsp;Any person treated as a real estate reporting person under the preceding sentence shall betreated as a broker for purposes of subsection (c)(1).
 
 #### (3) Prohibition of separate charge for filing return
 
@@ -158,7 +158,7 @@ If any broker—
 
 #### (iii) Treatment of uncorrected de minimis errors
 
-&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shallbe determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
 
 #### (3) Covered security
 
@@ -238,7 +238,7 @@ If any broker—
 
 #### Amendments
 
-<b>2021</b>—Subsec. (c)(1)(C). Pub. L. 117–58, §80603(a)(2), substituted "any person who (for consideration)" for "any other person who (for a consideration)" and ", and" for period at end.
+<b>2021</b>—Subsec. (c)(1)(C). Pub. L. 117–58, §80603(a)(2), substituted "any person who (for consideration)" for"any other person who (for a consideration)" and ", and" for period at end.
 
 Subsec. (c)(1)(D). Pub. L. 117–58, §80603(a)(1), (3), added subpar. (D).
 
@@ -366,7 +366,7 @@ Pub. L. 97–248, title III, §311(c)(1), Sept. 3, 1982, 96 Stat. 601, as amende
 
 #### Rule of Construction
 
-Pub. L. 117–58, div. H, title VI, §80603(d), Nov. 15, 2021, 135 Stat. 1341, provided that: "Nothing in this section\[amending this section and sections 6045A, 6050I, and 6724 of this title and enacting provisions set out as a note under this section\] or the amendments made by this section shall be construed to create any inference, for any period prior to the effective date of such amendments \[see section 80603(c) of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note above\], with respect to—
+Pub. L. 117–58, div. H, title VI, §80603(d), Nov. 15, 2021, 135 Stat. 1341, provided that: "Nothing in this section \[amending this section and sections 6045A, 6050I, and 6724 of this title and enacting provisions set out as a note under this section\] or the amendments made by this section shall be construed to create any inference, for any period prior to the effective date of such amendments \[see section 80603(c) of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note above\], with respect to—
 
 &emsp;"(1) whether any person is a broker under section 6045(c)(1) of the Internal Revenue Code of 1986, or
 

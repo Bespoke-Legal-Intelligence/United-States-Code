@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the President determines that it is in the national security interests of the United States for United States civilian agencies or non-Federal employees to assist in reconstructing and stabilizing a country or region that is at risk of, in, or is in transition from, conflict or civil strife, the President may, in accordance with the provisions set forth in section 2364(a)(3) of this title, but notwithstanding any other provision of law, and on such terms and conditions as the President may determine, furnish assistance to suchcountry or region for reconstruction or stabilization using funds described in paragraph (2).
+&emsp;If the President determines that it is in the national security interests of the United States for United States civilian agencies or non-Federal employees to assist in reconstructing and stabilizing a country or region that is at risk of, in, or is in transition from, conflict or civil strife, the President may, in accordance with the provisions set forth in section 2364(a)(3) of this title, but notwithstanding any other provision of law, and on such terms and conditions as the President may determine, furnish assistance to such country or region for reconstruction or stabilization using funds described in paragraph (2).
 
 #### (2) Funds described
 

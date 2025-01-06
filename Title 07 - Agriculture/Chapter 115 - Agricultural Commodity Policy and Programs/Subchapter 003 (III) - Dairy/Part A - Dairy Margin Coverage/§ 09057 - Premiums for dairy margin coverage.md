@@ -14,7 +14,7 @@ For purposes of participating in dairy margin coverage, a participating dairy op
 
 #### (1) In general
 
-&emsp;For the first 5,000,000 pounds of milk marketings included in the production history of aparticipating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
+&emsp;For the first 5,000,000 pounds of milk marketings included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
 
 #### (2) Producer premiums
 
@@ -99,7 +99,7 @@ The Secretary shall provide more than 1 method by which a participating dairy op
 
 #### (4) Applicability
 
-&emsp;Paragraph (1) shall only apply to a calendar year during the period of calendar years 2014 through 2017 for which the amount described in subparagraph (A) of that paragraph is greater than the amount described in subparagraph (B) of that paragraph.
+&emsp;Paragraph (1) shall only apply to a calendar year during the period of calendar years 2014through 2017 for which the amount described in subparagraph (A) of that paragraph is greater than the amount described in subparagraph (B) of that paragraph.
 
 #### (g) Premium discount
 
@@ -170,6 +170,8 @@ Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of
 Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year, see section 60101(b)(5) of Pub. L. 115–123, set out as a note under section 9051 of this title.
 
 #### Availability of Premium Discount
+
+Pub. L. 118–158, div. D, §4101(c)(4)(A)(ii), Dec. 21, 2024, 138 Stat. 1768, provided that: "With respect to coverage for calendar year 2025, section 1407(g) of the Agricultural Act of 2014 (7 U.S.C. 9057(g)) shall only apply to a participating dairy operation with respect to which the premium was reduced in accordance with that section (as applied to such participating dairy operation pursuant to section 102(c)(2)(B)(ii) of division B of the Further Continuing Appropriations and Other Extensions Act, 2024 (Public Law 118–22) \[137 Stat. 115\]) for calendar year 2024."
 
 Pub. L. 118–22, div. B, title I, §102(c)(2)(B)(ii), Nov. 17, 2023, 137 Stat. 115, provided that: "With respect to coverage for calendar year 2024, section 1407(g) of the Agricultural Act of 2014 (7 U.S.C. 9057(g)) shall only apply to a participating dairy operation with respect to which the premium was reduced in accordance with that section for calendar year 2023."
 

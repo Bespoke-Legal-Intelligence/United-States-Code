@@ -4,7 +4,7 @@
 
 (b) Nothing in this subpart <sup>1</sup> shall preclude—
 
-&emsp;(1) a plan from purchasing insurance for its fiduciaries or for itself to cover liability or losses occurring by reason of the act or omission of a fiduciary, if such insurance permits recourse by the insurer against the fiduciary in the case of a breach of a fiduciary obligation by such fiduciary;
+&emsp;(1) a plan from purchasing insurance for its fiduciaries or for itself to cover liability orlosses occurring by reason of the act or omission of a fiduciary, if such insurance permits recourse by the insurer against the fiduciary in the case of a breach of a fiduciary obligation by such fiduciary;
 
 &emsp;(2) a fiduciary from purchasing insurance to cover liability under this part from and for his own account; or
 

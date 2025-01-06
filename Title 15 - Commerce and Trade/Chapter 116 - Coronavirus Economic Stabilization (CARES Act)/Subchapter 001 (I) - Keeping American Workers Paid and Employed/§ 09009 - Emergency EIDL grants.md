@@ -56,7 +56,7 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 
 #### (A) Advances
 
-&emsp;&emsp;During the covered period, an entity included for eligibility in subsection (b), including small business concerns, private nonprofit organizations, and small agricultural cooperatives, that applies for a loan under section 636(b)(2) of this title in response to COVID–19 may request that theAdministrator provide an advance that is, subject to paragraph (3), in the amount requested by such applicant to such applicant.
+&emsp;&emsp;During the covered period, an entity included for eligibility in subsection (b), including small business concerns, private nonprofit organizations, and small agricultural cooperatives, that applies for a loan under section 636(b)(2) of this title in response to COVID–19 may request that the Administrator provide an advance that is, subject to paragraph (3), in the amount requested by such applicant to such applicant.
 
 #### (B) Timing
 
@@ -158,7 +158,7 @@ Definitions.—In this section—
 
 &emsp;"(1) the term 'Administrator' means the Administrator of the Small Business Administration; and
 
-&emsp;"(2) the terms 'covered entity' and 'economic loss' have the meanings given the terms in section 331(a)of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b(a)\].
+&emsp;"(2) the terms 'covered entity' and 'economic loss' have the meanings given the terms in section 331(a) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b(a)\].
 
 "(b)
 

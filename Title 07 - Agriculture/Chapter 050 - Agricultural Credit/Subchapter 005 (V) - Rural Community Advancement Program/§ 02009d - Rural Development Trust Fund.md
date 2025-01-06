@@ -66,7 +66,7 @@ The function categories described in this subsection are the following:
 
 #### (2) Use of funds
 
-&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts inthe federally recognized Indian tribe account for use pursuant to any authority described in subsection (d).
+&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d).
 
 #### (f) Allocation among States
 
@@ -124,5 +124,5 @@ Pub. L. 112–55, div. A, title VII, §747, Nov. 18, 2011, 125 Stat. 590, provid
 
 &emsp;"(3) Any prior balances in the Rural Development, Rural Community Advancement Program account for programs authorized by sections 306 and 310B \[7 U.S.C. 1926, 1932\] and described in sections 310B(f) and 381E(d)(3) of such Act be transferred and merged with the 'Rural Business Program Account' and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer; and
 
-&emsp;"(4) Any prior balances in the Rural Development, Rural Community Advancement Program account programs authorized by sections 306, 306A, 306C, 306D, 306E, and 310B \[7 U.S.C. 1926, 1926a, 1926c, 1926d, 1926e, 1932\] and described in sections 306C(a)(2), 306D, 306E, and 381E(d)(2) of such Act be transferred to and merged with the 'Rural Water and Waste Disposal Program Account' and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer."
+&emsp;"(4) Any prior balances in the Rural Development, Rural Community Advancement Program account programs authorized by sections 306, 306A, 306C, 306D, 306E, and 310B \[7 U.S.C. 1926, 1926a, 1926c, 1926d, 1926e,1932\] and described in sections 306C(a)(2), 306D, 306E, and 381E(d)(2) of such Act be transferred to and merged with the 'Rural Water and Waste Disposal Program Account' and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer."
 

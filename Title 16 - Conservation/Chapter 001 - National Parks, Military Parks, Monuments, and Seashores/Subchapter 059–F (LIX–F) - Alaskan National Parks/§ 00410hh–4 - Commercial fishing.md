@@ -1,6 +1,6 @@
 ### §410hh–4. Commercial fishing
 
-With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Forelands area of Wrangell-Saint Elias National Preserve and the Dry Bay area of Glacier Bay National Preserve, the Secretary may take no action to restrict unreasonably the exercise of valid commercial fishing rights or privileges obtained pursuant to existing law, including the use of public lands for campsites, cabins, motorized vehicles, and aircraft landings on existing airstrips, directly incident to the exercise of such rights or privileges except that this prohibition shall not apply to activities which the Secretary, after conducting a public hearing in the affected locality, finds constitute a significant expansion of the use of park lands beyond the level of such use during 1979.
+With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Forelands area of Wrangell-Saint Elias National Preserve and the Dry Bay area of Glacier Bay NationalPreserve, the Secretary may take no action to restrict unreasonably the exercise of valid commercial fishing rights or privileges obtained pursuant to existing law, including the use of public lands for campsites, cabins, motorized vehicles, and aircraft landings on existing airstrips, directly incident to the exercise of such rights or privileges except that this prohibition shall not apply to activities which the Secretary, after conducting a public hearing in the affected locality, finds constitute a significant expansion of the use of park lands beyond the level of such use during 1979.
 
 (Pub. L. 96–487, title II, §205, Dec. 2, 1980, 94 Stat. 2384.)
 
@@ -94,7 +94,7 @@ General.—
 
 &emsp;&emsp;&emsp;"(iii) trolling gear for salmon.
 
-&emsp;"(3) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant to paragraph (2), no fishing shall be allowed in the West Arm of Glacier Bay Proper (West Arm) north of 58 degrees, 50 minutes north latitude, except for trolling for king salmon during the period from October 1 through April 30. The waters of Johns Hopkins Inlet, Tarr Inlet and Reid Inlet shall remain closed to all commercial fishing.
+&emsp;"(3) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant to paragraph (2), no fishing shall be allowed in the West Arm of Glacier Bay Proper (West Arm) north of 58 degrees, 50 minutes north latitude, except for trollingfor king salmon during the period from October 1 through April 30. The waters of Johns Hopkins Inlet, Tarr Inlet and Reid Inlet shall remain closed to all commercial fishing.
 
 &emsp;"(4) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant to paragraph (2), no fishing shall be allowed in the East Arm of Glacier Bay Proper (East Arm) north of a line drawn from Point Caroline, through the southern end of Garforth Island to the east side of Muir Inlet, except that trolling for king salmon during the period from October 1 through April 30 shall be allowed south of a line drawn across Muir Inlet at the southernmost point of Adams Inlet.
 
@@ -104,7 +104,7 @@ General.—
 
 The Beardslee Islands and Upper Dundas Bay.—Commercial fishing is prohibited in the designated wilderness waters within Glacier Bay National Park and Preserve, including the waters of the Beardslee Islands and Upper Dundas Bay. Any individual who—
 
-&emsp;"(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged incommercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
+&emsp;"(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged in commercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
 
 &emsp;"(2) at the time of receiving compensation based on the Secretary of the Interior's determination as described below—
 

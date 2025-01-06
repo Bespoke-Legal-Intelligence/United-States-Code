@@ -48,7 +48,7 @@ In carrying out a Lab-Embedded Entrepreneurship Program, a National Laboratory m
 
 #### (g) Metrics
 
-The Secretary shall support the development of short-term and long-term metrics to assessthe effectiveness of programs receiving a grant under subsection (a) in achieving the purposes of the program in subsection (a).
+The Secretary shall support the development of short-term and long-term metrics to assess the effectiveness of programs receiving a grant under subsection (a) in achieving the purposes of the program in subsection (a).
 
 #### (h) Evaluation
 

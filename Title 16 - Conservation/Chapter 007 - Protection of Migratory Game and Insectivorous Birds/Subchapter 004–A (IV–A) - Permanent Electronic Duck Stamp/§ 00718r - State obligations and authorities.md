@@ -2,7 +2,7 @@
 
 #### (a) Delivery of electronic stamp
 
-The Secretary shall require that each individual to whom a State sells an electronicstamp under this subchapter shall receive the electronic stamp—
+The Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive the electronic stamp—
 
 &emsp;(1) on the date of purchase of the electronic stamp; and
 
@@ -30,7 +30,7 @@ The Secretary shall require that each individual to whom a State sells an electr
 
 #### (c) Electronic stamp issuance fee
 
-A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this subchapter, including costs of delivery of actual stamps under subsection (e).
+A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under thissubchapter, including costs of delivery of actual stamps under subsection (e).
 
 #### (d) Duplicate electronic stamps
 

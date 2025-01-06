@@ -12,7 +12,7 @@
 
 (d) In this section, the term "drug-interdiction area" means an area outside the land area of the United States (as defined in section 374(b)(4)(B) <sup>1</sup> of this title) in which the Secretary of Defense (in consultation with the Attorney General) determines that activities involving smuggling of drugs into the United States are ongoing.
 
-(Added Pub. L. 99–570, title III, §3053(b)(1), Oct. 27, 1986, 100 Stat. 3207–75, §379; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988,102 Stat. 2045; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered §279, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 99–570, title III, §3053(b)(1), Oct. 27, 1986, 100 Stat. 3207–75, §379; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered §279, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 #### <b>Editorial Notes</b>
 

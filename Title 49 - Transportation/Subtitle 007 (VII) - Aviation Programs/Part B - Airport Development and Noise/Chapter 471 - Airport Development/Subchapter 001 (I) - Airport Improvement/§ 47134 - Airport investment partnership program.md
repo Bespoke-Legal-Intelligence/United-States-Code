@@ -36,13 +36,33 @@ Repayment requirements.—If the Secretary grants an exemption to a sponsor purs
 
 Compensation from airport operations.—If the Secretary grants an exemption to a sponsor pursuant to paragraph (1), the Secretary shall grant an exemption to the corresponding purchaser or lessee from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the purchaser or lessee to earn compensation from the operations of the airport.
 
+&emsp;(4)
+
+Benefit-cost analysis.—
+
+&emsp;&emsp;(A)
+
+In general.—Prior to approving an application submitted under subsection (a), the Secretary may require a benefit-cost analysis.
+
+&emsp;&emsp;(B)
+
+Finding.—If a benefit-cost analysis is required, the Secretary shall issue a preliminary and conditional finding, which shall—
+
+&emsp;&emsp;&emsp;(i) be issued not later than 60 days after the date on which the sponsor submits all information required by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) be based upon a collaborative review process that includes the sponsor or a representative of the sponsor;
+
+&emsp;&emsp;&emsp;(iii) not constitute the issuance of a Federal grant or obligation to issue a grant under this chapter or other provision of law; and
+
+&emsp;&emsp;&emsp;(iv) not constitute any other obligation on the part of the Federal Government until the conditions specified in the final benefit-cost analysis are met.
+
 (c)
 
 Terms and Conditions.—The Secretary may approve an application under subsection (b) only if the Secretary finds that the sale or lease agreement includes provisions satisfactory to the Secretary to ensure the following:
 
 &emsp;(1) The airport will continue to be available for public use on reasonable terms and conditions and without unjust discrimination.
 
-&emsp;(2) The operation of the airport will not be interrupted in the event that the purchaser orlessee becomes insolvent or seeks or becomes subject to any State or Federal bankruptcy, reorganization, insolvency, liquidation, or dissolution proceeding or any petition or similar law seeking the dissolution or reorganization of the purchaser or lessee or the appointment of a receiver, trustee, custodian, or liquidator for the purchaser or lessee or a substantial part of the purchaser or lessee's property, assets, or business.
+&emsp;(2) The operation of the airport will not be interrupted in the event that the purchaser or lessee becomes insolvent or seeks or becomes subject to any State or Federal bankruptcy, reorganization, insolvency, liquidation, or dissolution proceeding or any petition or similar law seeking the dissolution or reorganization of the purchaser or lessee or the appointment of a receiver, trustee, custodian, or liquidator for the purchaser or lessee or a substantial part of the purchaser or lessee's property, assets, or business.
 
 &emsp;(3) The purchaser or lessee will maintain, improve, and modernize the facilities of the airport through capital investments and will submit to the Secretary a plan for carrying out such maintenance, improvements, and modernization.
 
@@ -112,7 +132,7 @@ Audits.—The Secretary may conduct periodic audits of the financial records and
 
 Predevelopment Limitation.—A grant to an airport sponsor under this subchapter for predevelopment planning costs relating to the preparation of an application or proposed application under this section may not exceed $750,000 per application or proposed application.
 
-(Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508; Pub. L. 112–95, title I, §§111(c)(2)(A)(iv), 156, Feb. 14, 2012, 126 Stat. 18, 36; Pub. L. 115–254, div. B, title I, §160(a), Oct. 5, 2018, 132 Stat. 3220.)
+(Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508; Pub. L. 112–95, title I, §§111(c)(2)(A)(iv), 156, Feb. 14, 2012, 126 Stat. 18, 36; Pub. L. 115–254, div. B, title I, §160(a), Oct. 5, 2018, 132 Stat. 3220; Pub. L. 118–63, title VII, §738, May 16, 2024, 138 Stat. 1276.)
 
 #### <b>Editorial Notes</b>
 
@@ -121,6 +141,8 @@ Predevelopment Limitation.—A grant to an airport sponsor under this subchapter
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(4). Pub. L. 118–63 added par. (4).
 
 <b>2018</b>—Pub. L. 115–254, §160(a)(1), substituted "Airport investment partnership program" for "Pilot program on private ownership of airports" in section catchline.
 

@@ -2,7 +2,7 @@
 
 (a) 28
 
-Years of Active Commissioned Service.—(1) Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list of officers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
+Years of Active Commissioned Service.—(1) Except as provided in subsection (b) andas provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list of officers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
 
 (2) Except as provided under section 637(b) or 637a of this title, each officer of the Space Force who holds the grade of lieutenant colonel who is not on a list of officers recommended for promotion to the grade of colonel shall, if not earlier retired, be retired on the first day of the month after the month in which the officer completes 28 years of active commissioned service.
 

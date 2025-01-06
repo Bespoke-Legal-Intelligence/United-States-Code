@@ -20,7 +20,7 @@
 
 &emsp;(1) urges the President through our constitutional processes to develop cooperative programs on a bilateral or multilateral basis which will set forth specific plans of action designed to foster economic progress and improvements in the welfare and level of living of all the peoples of the American Republics on the basis of joint aid, mutual effort, and common sacrifice;
 
-&emsp;(2) proposes the development of workable procedures to expand hemispheric trade and to moderate extreme price fluctuations in commodities which are of exceptional importance in the economies of the American Republics, and encourages the development of regional economic cooperation among the American Republics;
+&emsp;(2) proposes the development of workable procedures to expand hemispheric trade and to moderate extreme price fluctuations in commodities which are of exceptional importance in the economies of the American Republics, and encourages the development of regionaleconomic cooperation among the American Republics;
 
 &emsp;(3) supports the development of a more accurate and sympathetic understanding among the peoples of the American Republics through a greater interchange of persons, ideas, techniques, and educational, scientific, and cultural achievements;
 

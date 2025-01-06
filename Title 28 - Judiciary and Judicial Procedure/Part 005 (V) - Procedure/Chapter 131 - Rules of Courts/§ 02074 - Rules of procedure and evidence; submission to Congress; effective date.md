@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescriberules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
+A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescribe rules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -116,7 +116,7 @@ Pub. L. 94–349, §2, July 8, 1976, 90 Stat. 822, provided: "That, notwithstand
 
 #### Approval and Effective Date of Amendments Proposed April 22, 1974
 
-Pub. L. 94–64, §2, July 31, 1975, 89 Stat. 370, provided that: "The amendments proposed by the United States Supreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2, and 29.1 and amending rules 4, 9(a), 11, 12, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act \[making further amendments to rules 4, 9(a), 11, 12, 12.1, 12.2, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act shall also take effect on December 1, 1975."
+Pub. L. 94–64, §2, July 31, 1975, 89 Stat. 370, provided that: "The amendments proposed by the United States Supreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2, and 29.1 and amending rules 4, 9(a), 11, 12, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act \[making further amendments to rules 4, 9(a), 11, 12, 12.1, 12.2, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\]and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act shall also take effect on December 1, 1975."
 
 #### Approval and Effective Date of Amendments Proposed November 20, 1972 and December 18, 1972
 

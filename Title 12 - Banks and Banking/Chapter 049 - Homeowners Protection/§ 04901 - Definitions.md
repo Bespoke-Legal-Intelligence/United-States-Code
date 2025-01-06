@@ -30,7 +30,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;The term "good payment history" means, with respect to a mortgagor, that the mortgagor has not—
 
-&emsp;&emsp;(A) made a mortgage payment that was 60 days or longer past due during the 12-month period beginning 24 months before the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) thedate that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title; or
+&emsp;&emsp;(A) made a mortgage payment that was 60 days or longer past due during the 12-month period beginning 24 months before the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title; or
 
 &emsp;&emsp;(B) made a mortgage payment that was 30 days or longer past due during the 12-month period preceding the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title.
 

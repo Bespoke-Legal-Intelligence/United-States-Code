@@ -22,7 +22,7 @@ In accordance with section 241 of title 30 and any other applicable law, except 
 
 #### (1) Programmatic environmental impact statement
 
-&emsp;Not later than 18 months after August 8, 2005, in accordance with section 4332(2)(C) ofthis title, the Secretary shall complete a programmatic environmental impact statement for a commercial leasing program for oil shale and tar sands resources on public lands, with an emphasis on the most geologically prospective lands within each of the States of Colorado, Utah, and Wyoming.
+&emsp;Not later than 18 months after August 8, 2005, in accordance with section 4332(2)(C) of this title, the Secretary shall complete a programmatic environmental impact statement for a commercial leasing program for oil shale and tar sands resources on public lands, with an emphasis on the most geologically prospective lands within each of the States of Colorado, Utah, and Wyoming.
 
 #### (2) Final regulation
 

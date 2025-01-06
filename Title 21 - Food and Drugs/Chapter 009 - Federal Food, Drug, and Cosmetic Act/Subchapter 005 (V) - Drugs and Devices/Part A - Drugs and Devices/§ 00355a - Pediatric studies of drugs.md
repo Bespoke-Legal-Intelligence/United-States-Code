@@ -112,7 +112,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (1) In general
 
-&emsp;The Secretary shall publish a notice of any determination, made on or after September 27, 2007, that the requirements of subsection (d) have been met and that submissions and approvals under subsection (b)(2) or (j) of section 355 of this title for a drug will be subject to the provisions of this section. Such notice shall be published not later than 30 days afterthe date of the Secretary's determination regarding market exclusivity and shall include a copy of the written request made under subsection (b) or (c).
+&emsp;The Secretary shall publish a notice of any determination, made on or after September 27, 2007, that the requirements of subsection (d) have been met and that submissions and approvals under subsection (b)(2) or (j) of section 355 of this title for a drug will be subject to the provisions of this section. Such notice shall be published not later than 30 days after the date of the Secretary's determination regarding market exclusivity and shall include a copy of the written request made under subsection (b) or (c).
 
 #### (2) Identification of certain drugs
 
@@ -240,7 +240,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 #### (2) Reporting in subsequent periods
 
-&emsp;Following the 18-month period described in paragraph (1), the Secretary shall, as appropriate, refer to the Office of Pediatric Therapeutics all pediatric adverse event reports for a drug for which a pediatric study was conducted under this section. In considering such reports, the Director of such Office may provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendation of such Committee regarding whether the Secretary should take action in response to such reports.
+&emsp;Following the 18-month period described in paragraph (1), the Secretary shall, as appropriate, refer to the Office of Pediatric Therapeutics all pediatric adverse event reports for a drug for which a pediatric study was conducted under this section. In considering such reports, the Director of such Office may provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendation of such Committeeregarding whether the Secretary should take action in response to such reports.
 
 #### (3) Preservation of authority
 
@@ -254,7 +254,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivity period under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
 
-&emsp;(1) the date on which the 180-day period would have expired by the number of days ofthe overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
+&emsp;(1) the date on which the 180-day period would have expired by the number of days of the overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
 
 &emsp;(2) the date on which the 6-month exclusivity period expires, by the number of days of the overlap if the 180-day period would, but for the application of this subsection, expire during the six-month exclusivity period.
 
@@ -320,7 +320,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 &emsp;&emsp;(D) except as expressly provided in paragraphs (1) and (2), the operation of section 355 of this title or section 360cc of this title.
 
-(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a),18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050; Pub. L. 117–9, §1(b)(2), Apr. 23, 2021, 135 Stat. 258.)
+(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050; Pub. L. 117–9, §1(b)(2), Apr. 23, 2021, 135 Stat. 258.)
 
 #### <b>Editorial Notes</b>
 
@@ -378,7 +378,7 @@ Subsec. (n)(1). Pub. L. 112–144, §509(a)(3)(B)(i), substituted "have not been
 
 Subsec. (n)(1)(A). Pub. L. 112–144, §509(a)(3)(B)(ii), inserted ", or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 has not ended" after "expired" and struck out at end "Prior to making such a determination, the Secretary may not take more than 30 days to certify whether the Foundation for the National Institutes of Health has sufficient funding at the time of such certification to initiate and fund all of the studies in the written request in their entirety within the timeframes specified within the written request. Only if the Secretary makes such certification in the affirmative, the Secretary shall refer all pediatric studies in the written request to the Foundation for the National Institutes of Health for the conduct of such studies, and such Foundation shall fund such studies. If no certification has been made at the end of the 30-day period, or if the Secretary certifies that funds are not sufficient to initiate and fund all the studies in their entirety, the Secretary shall consider whether assessments shall be required under section 355c(b) of this title for such drug."
 
-Subsec. (n)(1)(B). Pub. L. 112–144, §509(a)(3)(B)(iii), substituted "no unexpired listed patents and for which no unexpired periods of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 apply," for "no listed patents or has 1 or more listed patents that have expired,".
+Subsec. (n)(1)(B). Pub. L. 112–144, §509(a)(3)(B)(iii), substituted "no unexpired listed patents and for whichno unexpired periods of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 apply," for "no listed patents or has 1 or more listed patents that have expired,".
 
 Subsec. (o)(2)(B). Pub. L. 112–144, §509(a)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a statement of any appropriate pediatric contraindications, warnings, or precautions that the Secretary considers necessary."
 
@@ -504,7 +504,7 @@ In general.—The amendment made by this subsection \[amending this section\] sh
 
 "(B)
 
-Certain written requests.—A written request issued under section 505A of the Federal Food, Drug,and Cosmetic Act, as in effect on the day before the date of the enactment of this Act, which has been accepted and for which no determination under subsection (d)(2) of such section has been made before such date of enactment, shall be subject to such section 505A, except that such written requests shall be subject to subsections (d)(2)(A)(ii), (e)(1) and (2), (f), (i)(2)(A), (j), (k)(1), (l)(1), and (n) of section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on or after the date of the enactment of this Act."
+Certain written requests.—A written request issued under section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on the day before the date of the enactment of this Act, which has been accepted and for which no determination under subsection (d)(2) of such section has been made before such date of enactment, shall be subject to such section 505A, except that such written requests shall be subject to subsections (d)(2)(A)(ii), (e)(1) and (2), (f), (i)(2)(A), (j), (k)(1), (l)(1), and (n) of section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on or after the date of the enactment of this Act."
 
 #### Effective Date of 2003 Amendment
 

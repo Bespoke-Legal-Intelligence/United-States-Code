@@ -4,7 +4,7 @@
 
 #### (1) Establishment or designation of office
 
-&emsp;The President is authorized to establish or designate within the Department of Commerce an office to serve as the United States Section of the Secretariat established under article 30.6 of the USMCA.
+&emsp;The President is authorized to establish or designate within the Department of Commerce an office to serve as the United States Sectionof the Secretariat established under article 30.6 of the USMCA.
 
 #### (2) Functions and administrative assistance
 

@@ -40,7 +40,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
-&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
+&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide tothe institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
 
 &emsp;(7) provide assurances that the institution will comply with the provisions of section 1087cc–1 of this title;
 
@@ -90,7 +90,7 @@ Subsection (a)(5) relating to due diligence, referred to in subsec. (e), was red
 
 #### Prior Provisions
 
-A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV,§§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Subsec. (c)(2)(B). Pub. L. 111–39, §405(2)(A)(ii), added subpar. (B) and stru
 
 Subsec. (c)(3). Pub. L. 111–39, §405(2)(B), substituted "and (5)" for "and (6)" and made technical amendment to reference in original act which appears in text as reference to section 1681c of title 15.
 
-<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "if the institution is not one described in subparagraph (A), the Secretary may—
+<b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §463(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "if the institution is not one described in subparagraph (A), the Secretary may—
 
 &emsp;"(i) allow such institution to transfer its interest in such loan to the Secretary, for collection, and the Secretary may use any collections thereon (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) to make allocations to institutions of additional capital contributions in accordance with section 1087bb of this title; or
 

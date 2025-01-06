@@ -36,5 +36,5 @@ In subsection (b), the words "Comptroller General" are substituted for "General 
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1984</b>—Pub. L. 98–367 struck out designation of provisions as "(a)" and struck out subsec. (b) which read asfollows: "A committee of the Senate or a joint committee of Congress for which the Secretary of the Senate disburses amounts shall reimburse the Comptroller General for the pay of each officer or employee of the Office for the time the officer or employee is assigned or detailed to the committee or joint committee."
+<b>1984</b>—Pub. L. 98–367 struck out designation of provisions as "(a)" and struck out subsec. (b) which read as follows: "A committee of the Senate or a joint committee of Congress for which the Secretary of the Senate disburses amounts shall reimburse the Comptroller General for the pay of each officer or employee of the Office for the time the officer or employee is assigned or detailed to the committee or joint committee."
 

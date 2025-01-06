@@ -96,7 +96,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (6) Exemption from negotiations
 
-&emsp;Subsections (d) and (e)(2)(C) of section 1395w–111 of this title shall not apply and the provisions of section 1395w–24(a)(5)(B) of this title prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms and conditions described in section 1395w–111(d) of this title.
+&emsp;Subsections (d) and (e)(2)(C) of section 1395w–111 of this title shall not apply and theprovisions of section 1395w–24(a)(5)(B) of this title prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms and conditions described in section 1395w–111(d) of this title.
 
 #### (7) Treatment of incurred costs without regard to formulary
 
@@ -124,7 +124,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (2) Limitation on enrollment
 
-&emsp;In applying paragraph (1), the organization may not enroll part D eligible individuals whoare not enrolled under the PACE program involved.
+&emsp;In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the PACE program involved.
 
 #### (3) Bids not included in determining standardized bid amount
 

@@ -96,7 +96,7 @@ Subsec. (c)(4). Pub. L. 108–170, §202(a)(3)(D), struck out par. (4) which rea
 
 &emsp;"(D) a notice of designation with respect to the property."
 
-<b>2000</b>—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain."
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain."
 
 Subsec. (c)(3)(E). Pub. L. 106–419, §404(b)(1), amended directory language of Pub. L. 106–117, §208(c)(2). See 1999 Amendment note below.
 

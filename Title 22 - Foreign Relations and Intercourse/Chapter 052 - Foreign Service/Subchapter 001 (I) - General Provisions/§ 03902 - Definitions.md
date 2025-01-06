@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) "Department" means the Department of State, except that with reference to the exercise of functions under this chapter with respect to another agency authorized by law to utilize the Foreign Service personnel system, such term means that other agency;
 
-&emsp;(5) "employee" (except as provided in section 4102(8) of this title) means, when used with respect to an agency or to the Government generally, an officer or employee (including a member of the Service) or a member of the Armed Forces of the United States, the commissioned corps of the Public Health Service, or the commissioned corps of the National Oceanic and Atmospheric Administration;
+&emsp;(5) "employee" (except as provided in section 4102(8) of this title) means, when used with respect to an agency or to the Government generally, an officer or employee (including a member of the Service) or a memberof the Armed Forces of the United States, the commissioned corps of the Public Health Service, or the commissioned corps of the National Oceanic and Atmospheric Administration;
 
 &emsp;(6) "function" includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity;
 

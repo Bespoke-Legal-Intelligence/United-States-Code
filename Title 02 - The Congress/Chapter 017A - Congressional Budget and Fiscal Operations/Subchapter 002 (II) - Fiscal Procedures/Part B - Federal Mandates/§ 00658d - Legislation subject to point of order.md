@@ -12,7 +12,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;&emsp;(B) the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
 
-&emsp;&emsp;&emsp;(i) identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) for each fiscal year;
+&emsp;&emsp;&emsp;(i) identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which suchmandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) for each fiscal year;
 
 &emsp;&emsp;&emsp;(ii) identifies any appropriation bill that is expected to provide for Federal funding of the direct cost referred to under clause (i); and
 
@@ -76,5 +76,5 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 #### Effective Date
 
-Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, andapplicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 

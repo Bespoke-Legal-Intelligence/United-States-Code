@@ -24,7 +24,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the "Chronic Wasting Disease Task Force" (referred to in this subsection as the "Task Force") after the completion of the study required by subsection (c).
+&emsp;The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the "Chronic Wasting Disease Task Force" (referred to in this subsection as the "Task Force").
 
 #### (2) Duties
 
@@ -90,7 +90,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The members of the Task Force shall be appointed not later than 180 days after the date on which the study is completed under subsection (c).
+&emsp;&emsp;The members of the Task Force shall be appointed not later than 90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c).
 
 #### (B) Notification
 
@@ -162,7 +162,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretaries shall enter into an arrangement with the Academy under which the Academy shall conduct, and submit to the Secretaries a report describing the findings of, a special resource study to identify the predominant pathways and mechanisms of the transmission of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States.
+&emsp;&emsp;The Secretaries shall enter into an arrangement with the Academy under whichthe Academy shall conduct, and submit to the Secretaries a report describing the findings of, a special resource study to identify the predominant pathways and mechanisms of the transmission of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States.
 
 #### (B) Requirements
 
@@ -230,11 +230,21 @@ In this section:
 
 There are authorized to be appropriated to carry out this section—
 
-&emsp;(1) for the period of fiscal years 2021 through 2025, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
+&emsp;(1) for the period of fiscal years 2021 through 2030, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
 
 &emsp;(2) for fiscal year 2021, $1,200,000 to the Secretary of the Interior, acting through the Director of the United States Geological Survey, to carry out activities to fund research under subsection (c); and
 
-&emsp;(3) for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).
+&emsp;(3) for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant HealthInspection Service, to carry out activities to fund research under subsection (c).
 
-(Pub. L. 116–188, title I, §104, Oct. 30, 2020, 134 Stat. 911.)
+(Pub. L. 116–188, title I, §104, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, §103, Dec. 23, 2024, 138 Stat. 2680.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–198, §103(1)(A), struck out "after the completion of the study required by subsection (c)" before period at end.
+
+Subsec. (b)(5)(A). Pub. L. 118–198, §103(1)(B), substituted "90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)" for "180 days after the date on which the study is completed under subsection (c)".
+
+Subsec. (d)(1). Pub. L. 118–198, §103(2), substituted "2030" for "2025".
 

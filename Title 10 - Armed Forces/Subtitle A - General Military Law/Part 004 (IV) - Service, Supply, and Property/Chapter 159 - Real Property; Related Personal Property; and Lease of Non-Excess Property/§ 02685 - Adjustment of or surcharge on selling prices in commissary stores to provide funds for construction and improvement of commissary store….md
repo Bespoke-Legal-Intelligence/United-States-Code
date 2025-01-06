@@ -2,7 +2,7 @@
 
 (a)
 
-Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law, the Secretary of Defense may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
+Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law, theSecretary of Defense may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
 
 (b)
 

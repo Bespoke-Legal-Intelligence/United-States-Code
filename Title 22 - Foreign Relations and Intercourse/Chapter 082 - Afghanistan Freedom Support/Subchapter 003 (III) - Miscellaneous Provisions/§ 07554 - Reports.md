@@ -6,7 +6,7 @@ The Secretary of State shall submit reports to the Committees on Foreign Relatio
 
 #### (b) Deadline for submission
 
-The first report shall be submitted no later than December 31, 2003, and subsequent reports shall be submitted in conjunction with reports required under section 7553 of this title and thereafter through December 31, 2004.
+The first report shall be submitted no later than December 31, 2003, and subsequent reportsshall be submitted in conjunction with reports required under section 7553 of this title and thereafter through December 31, 2004.
 
 #### (c) Form of reports
 

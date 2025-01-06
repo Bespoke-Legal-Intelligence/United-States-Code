@@ -10,7 +10,7 @@
 
 (c)
 
-Notification.—Not later than 30 days after the date on which the Director makes a novel and significant expenditure pursuant to subsection (a), the Director shall notify the Permanent Select Committee on Intelligence of the House of Representatives, the Select Committee on Intelligence of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives of such expenditure.
+Notification.—Not later than 30 days after the date on which the Director makes a noveland significant expenditure pursuant to subsection (a), the Director shall notify the Permanent Select Committee on Intelligence of the House of Representatives, the Select Committee on Intelligence of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives of such expenditure.
 
 (June 20, 1949, ch. 227, §8, formerly §10, 63 Stat. 212; renumbered §8, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 116–92, div. E, title LIII, §5341, Dec. 20, 2019, 133 Stat. 2142; Pub. L. 117–263, div. F, title LXIV, §6415(a), Dec. 23, 2022, 136 Stat. 3528.)
 

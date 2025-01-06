@@ -1,6 +1,6 @@
 ### §548.<sup>1</sup> Marking anchorage grounds by Commandant of the Coast Guard
 
-The Commandant of the Coast Guard shall provide, establish, and maintain, out of the annual appropriations for the Coast Guard, buoys or other suitable marks for marking anchorage grounds for vessels in waters of the United States, when such anchorage grounds have beendefined and established by proper authority in accordance with the laws of the United States.
+The Commandant of the Coast Guard shall provide, establish, and maintain, out of the annual appropriations for the Coast Guard, buoys or other suitable marks for marking anchorage grounds for vessels in waters of the United States, when such anchorage grounds have been defined and established by proper authority in accordance with the laws of the United States.
 
 (Added and amended Pub. L. 117–263, div. K, title CXVIII, §11808(c), Dec. 23, 2022, 136 Stat. 4166.)
 

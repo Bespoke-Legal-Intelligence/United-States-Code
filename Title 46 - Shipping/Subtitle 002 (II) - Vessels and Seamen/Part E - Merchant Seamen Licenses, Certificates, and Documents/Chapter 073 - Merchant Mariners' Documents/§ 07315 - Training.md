@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 46:672(c)
 
-Section 7315 specifies the training or course work that may be substituted for service requirements for an endorsement as an able seaman or a qualified member of the engine department.
+Section 7315 specifies the training or course work that may be substituted for service requirements for anendorsement as an able seaman or a qualified member of the engine department.
 

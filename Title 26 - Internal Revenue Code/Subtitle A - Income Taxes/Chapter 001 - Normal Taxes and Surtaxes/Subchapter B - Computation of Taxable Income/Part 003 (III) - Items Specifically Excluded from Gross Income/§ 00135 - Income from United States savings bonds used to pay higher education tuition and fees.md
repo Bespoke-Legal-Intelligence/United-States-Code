@@ -190,7 +190,7 @@ Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out "(A) or" after "
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) ofPub. L. 117–2, set out as a note under section 74 of this title.
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) of Pub. L. 117–2, set out as a note under section 74 of this title.
 
 #### Effective Date of 2020 Amendment
 

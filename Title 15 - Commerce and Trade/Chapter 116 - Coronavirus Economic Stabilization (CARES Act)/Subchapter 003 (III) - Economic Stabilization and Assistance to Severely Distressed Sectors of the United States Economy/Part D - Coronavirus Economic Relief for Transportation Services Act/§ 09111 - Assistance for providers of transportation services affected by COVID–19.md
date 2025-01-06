@@ -206,7 +206,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;&emsp;(II) any reduction in pay rates or benefits for nonexecutive employees; and
 
-&emsp;&emsp;&emsp;(iii) to recall or rehire any employees laid off, furloughed, or terminated after March 27, 2020, to the extent warranted by increased service levels;
+&emsp;&emsp;&emsp;(iii) to recall or rehire any employees laid off, furloughed, or terminated afterMarch 27, 2020, to the extent warranted by increased service levels;
 
 &emsp;&emsp;(B) to return to the Secretary any funds received under this subsection that are not used by the provider of transportation services by the date that is 1 year after the date of receipt of the funds; and
 
@@ -240,7 +240,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;&emsp;(I) is staffed at a level of full-time equivalent, seasonal employees, on a monthly basis, that is greater than or equivalent to the level at which the provider of transportation services was staffed with full-time equivalent, seasonal employees on a monthly basis during calendar year 2019;
 
-&emsp;&emsp;&emsp;&emsp;(II) is offering priority in rehiring to seasonal employees that were laid off, furloughed, terminated, or not offered rehire in calendar year 2020, as the provider of transportation services achievesstaffing at the level described in subclause (I); and
+&emsp;&emsp;&emsp;&emsp;(II) is offering priority in rehiring to seasonal employees that were laid off, furloughed, terminated, or not offered rehire in calendar year 2020, as the provider of transportation services achieves staffing at the level described in subclause (I); and
 
 &emsp;&emsp;&emsp;&emsp;(III) offers any seasonal employee rehired under subclause (II) or subject to a reduction in salary before the date of receipt by the provider of transportation services of assistance under this subsection not less than 100 percent of the previous salary of the employee; and
 
@@ -278,7 +278,7 @@ Notwithstanding any other provision of law, any compensation provided to a retur
 
 &emsp;(1) shall be offset by—
 
-&emsp;&emsp;(A) any amounts received by the employee from the provider of transportation services as a result of the layoff, furlough, or termination of the employee or any failure to hire the employee for seasonal employment during calendar year 2020, including—
+&emsp;&emsp;(A) any amounts received by the employee from the provider of transportation services as a result of the layoff, furlough, or termination of the employee or any failure to hirethe employee for seasonal employment during calendar year 2020, including—
 
 &emsp;&emsp;&emsp;(i) furlough pay;
 
@@ -326,7 +326,7 @@ The Emergency Appropriations for Coronavirus Health Response and Agency Operatio
 
 The Paycheck Protection Program and Health Care Enhancement Act, referred to in subsec. (c)(3)(B)(i), is Pub. L. 116–139, Apr. 24, 2020, 134 Stat. 620, which amended sections 636, 9006, and 9009 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 9001 of this title and Tables.
 
-Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec.\(e)(2)(B), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (e)(2)(B), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Codification
 

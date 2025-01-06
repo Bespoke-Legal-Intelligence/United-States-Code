@@ -56,7 +56,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(C) Applicable information and documentation for models described in subparagraphs (A) and (B), including a description of intended model outputs.
 
-&emsp;&emsp;(D) Subject to subsection (f), all data owned by the Federal Government and data that the Administrator has the legal right to redistribute that are associated with models made available to the public pursuant to theplan and used in operational forecasting by the Administration, including—
+&emsp;&emsp;(D) Subject to subsection (f), all data owned by the Federal Government and data that the Administrator has the legal right to redistribute that are associated with models made available to the public pursuant to the plan and used in operational forecasting by the Administration, including—
 
 &emsp;&emsp;&emsp;(i) relevant metadata; and
 

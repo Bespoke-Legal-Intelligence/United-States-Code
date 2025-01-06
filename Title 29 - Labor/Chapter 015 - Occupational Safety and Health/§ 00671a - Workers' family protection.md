@@ -50,7 +50,7 @@ This section may be cited as the "Workers' Family Protection Act".
 
 &emsp;&emsp;&emsp;&emsp;(III) States to enforce occupational safety and health standards in accordance with section 18 of such Act (29 U.S.C. 667); and
 
-&emsp;&emsp;&emsp;&emsp;(IV) other government agencies (including the Department of Energy and the Environmental Protection Agency), as the Director may determine to be appropriate;
+&emsp;&emsp;&emsp;&emsp;(IV) other government agencies (including the Department of Energy andthe Environmental Protection Agency), as the Director may determine to be appropriate;
 
 &emsp;&emsp;&emsp;(ii) evaluate current statutory, regulatory, and voluntary industrial hygiene or other measures used by small, medium and large employers to prevent or remediate home contamination;
 
@@ -114,7 +114,7 @@ This section may be cited as the "Workers' Family Protection Act".
 
 &emsp;Not later than 4 years after October 26, 1992, and periodically thereafter, the Secretary of Labor, based on the information developed under subsection (c) and on other information available to the Secretary, shall—
 
-&emsp;&emsp;(A) determine if additional education about, emphasis on, or enforcement of existing regulations or standards is needed and will be sufficient, or if additional regulations or standards are needed with regard to employee transported releases of hazardous materials; and
+&emsp;&emsp;(A) determine if additional education about, emphasis on, or enforcement of existing regulations or standards is needed and will be sufficient, or if additional regulations or standards are needed with regard toemployee transported releases of hazardous materials; and
 
 &emsp;&emsp;(B) prepare and submit to the appropriate committees of Congress a report concerning the result of such determination.
 

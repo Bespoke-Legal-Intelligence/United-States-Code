@@ -18,7 +18,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (c) Transfer of contributions from other Government retirement fund
 
-(1) If a member of the Service who is under another retirement system for Government employees becomes a participant in the System by direct transfer, the total contributions and deposits of that member that would otherwise be refundable on separation (except voluntary contributions), including interest thereon, shall be transferred to the Fund effective as of the date such member becomes a participant in the System. Each such member shall be deemed to consent to the transfer of such funds, and such transfer shall be a complete discharge and acquittance of all claims and demands against the other Government retirement fund on account of service rendered by such member prior to becoming a participant in the System.
+(1) If a member of the Service who is under another retirement system for Government employees becomes a participant in the System by direct transfer, the total contributions and deposits of that member that would otherwise be refundable on separation (except voluntary contributions), including interest thereon, shall betransferred to the Fund effective as of the date such member becomes a participant in the System. Each such member shall be deemed to consent to the transfer of such funds, and such transfer shall be a complete discharge and acquittance of all claims and demands against the other Government retirement fund on account of service rendered by such member prior to becoming a participant in the System.
 
 (2) A member of the Service whose contributions are transferred to the Fund pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d).
 
@@ -76,7 +76,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (f) Exemption for certain military or naval service
 
-Contributions shall only be required to obtain credit for periods of military or naval service tothe extent provided under subsection (e) and section 4056(a) of this title, except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
+Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) and section 4056(a) of this title, except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
 
 #### (g) Time of payment; offset against initial annuity accruals
 
@@ -87,10 +87,6 @@ A participant or survivor may make a special contribution at any time before rec
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
 (Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5001(c)(2)(D), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, §3(b)(2)(B)(i), Dec. 9, 2022, 136 Stat. 2296.)
-
-#### Applicability of Amendment
-
-<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of Title 5, Government Organization and Employees.</i>
 
 #### Amendment of Section
 
@@ -120,13 +116,13 @@ Pub. L. 107–228, §322(a)(2)(A), substituted "7.25 percent" for "7 percent" an
 
 Subsec. (a)(2)(A), (B). Pub. L. 107–228, §322(a)(2)(C), substituted "employing agency" for "Department" wherever appearing.
 
-Pub. L. 107–228, §322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting ", plus an amount equal to .25 percent of basic pay" at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+Pub. L. 107–228, §322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting ", plus anamount equal to .25 percent of basic pay" at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
 
 Subsec. (a)(3). Pub. L. 107–228, §322(a)(2)(D), which directed amendment of par. (3) by inserting ", plus .25 percent" at the end of the first sentence, was executed by making the insertion before the period at end of first sentence, to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (d)(1). Pub. L. 106–346, in table in concluding provisions, substituted item relating to service period after December 31, 2000, for items relating to service periods January 1, 2001, through December 31, 2002; and after December 31, 2002.
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted "Except as otherwise provided in this section,"for "Except as provided in subsection (h) of this section,".
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted "Except as otherwise provided in this section," for "Except as provided in subsection (h) of this section,".
 
 Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
 

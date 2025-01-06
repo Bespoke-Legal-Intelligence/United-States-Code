@@ -12,7 +12,7 @@
 
 (f) Amounts paid to the United States to reimburse it for expenses incurred under subsection (b) and for the actual costs of transportation furnished under subsection (d) shall be credited to the current applicable appropriations or funds to which such expenses and costs were charged and shall be available for the same purposes as such appropriations or funds.
 
-(g) In the case of a Boy Scout Jamboree held on a military installation, the Secretary of Defense may provide personnel services andlogistical support at the military installation in addition to the support authorized under subsections (a) and (d).
+(g) In the case of a Boy Scout Jamboree held on a military installation, the Secretary of Defense may provide personnel services and logistical support at the military installation in addition to the support authorized under subsections (a) and (d).
 
 (h) Other departments of the Federal Government are authorized, under such regulations as may be prescribed by the Secretary thereof, to provide to the Boy Scouts of America, equipment and other services, under the same conditions and restrictions prescribed in the preceding subsections for the Secretary of Defense.
 
@@ -62,7 +62,7 @@ See Codification note above.
 
 #### Reconciliation of Duplicate Enactments
 
-Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: "In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended."
+Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: "In executing to section 2554 of title 10, UnitedStates Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended."
 
 #### Support for Scout Jamborees
 

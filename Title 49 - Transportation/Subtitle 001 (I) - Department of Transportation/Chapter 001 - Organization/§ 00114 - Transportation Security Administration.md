@@ -114,7 +114,7 @@ Additional Duties and Powers.—In addition to carrying out the functions specif
 
 &emsp;(13) work in conjunction with the Administrator of the Federal Aviation Administration with respect to any actions or activities that may affect aviation safety or air carrier operations;
 
-&emsp;(14) work with the International Civil Aviation Organization and appropriate aeronautic authorities of foreign governments under section 44907 to address security concerns on passenger flights by foreign air carriers in foreign air transportation;
+&emsp;(14) work with the International Civil Aviation Organization and appropriate aeronauticauthorities of foreign governments under section 44907 to address security concerns on passenger flights by foreign air carriers in foreign air transportation;
 
 &emsp;(15) establish and maintain a National Deployment Office as required under section 44948 of this title; and
 
@@ -248,7 +248,7 @@ In general.—The personnel management system established by the Administrator o
 
 &emsp;(2)
 
-Meritorious executive or distinguished executive rank awards.—Notwithstanding section 40122(g)(2) of this title, the applicablesections of title 5 shall apply to the Transportation Security Administration personnel management system, except that—
+Meritorious executive or distinguished executive rank awards.—Notwithstanding section 40122(g)(2) of this title, the applicable sections of title 5 shall apply to the Transportation Security Administration personnel management system, except that—
 
 &emsp;&emsp;(A) for purposes of applying such provisions to the personnel management system—
 
@@ -368,7 +368,7 @@ Contents of national strategy for transportation security.—The National Strate
 
 &emsp;&emsp;(D) A forward-looking strategic plan that sets forth the agreed upon roles and missions of Federal, State, regional, local, and tribal authorities and establishes mechanisms for encouraging cooperation and participation by private sector entities, including nonprofit employee labor organizations, in the implementation of such plan.
 
-&emsp;&emsp;(E) A comprehensive delineation of prevention, response, and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems.
+&emsp;&emsp;(E) A comprehensive delineation of prevention, response, and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States and threatened and executed acts ofterrorism outside the United States to the extent such acts affect United States transportation systems.
 
 &emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construed to require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
@@ -510,7 +510,7 @@ Annual report on plan.—The Secretary of Homeland Security shall annually submi
 
 &emsp;(7)
 
-Security clearances.—The Secretary of Homeland Security shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
+Security clearances.—The Secretary of Homeland Security shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated publicand private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
 
 &emsp;(8)
 
@@ -782,7 +782,7 @@ Dissemination.—Upon development of the plan required under paragraph (1), the 
 
 Review of plan.—Not later than two years after the date on which the plan is disseminated under paragraph (4), and biennially thereafter, the Secretary, acting through the Administrator and in coordination with the Chief Medical Officer of the Department of Homeland Security, shall review the plan and, after consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), update the plan as appropriate.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130 Stat. 1514; Pub. L. 115–254, div. K, title I, §§1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, 132 Stat. 3543, 3544, 3546, 3549, 3623; Pub. L. 117–81, div. F, title LXIV, §6412(a), Dec. 27, 2021, 135 Stat. 2409; Pub. L. 117–286, §4(b)(95), Dec. 27, 2022, 136 Stat. 4353.)
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130Stat. 1514; Pub. L. 115–254, div. K, title I, §§1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, 132 Stat. 3543, 3544, 3546, 3549, 3623; Pub. L. 117–81, div. F, title LXIV, §6412(a), Dec. 27, 2021, 135 Stat. 2409; Pub. L. 117–286, §4(b)(95), Dec. 27, 2022, 136 Stat. 4353.)
 
 #### <b>Editorial Notes</b>
 
@@ -971,6 +971,164 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Transportation Security Screening Modernization
+
+Pub. L. 118–202, Dec. 23, 2024, 138 Stat. 2688, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Transportation Security Screening Modernization Act of 2024'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Transportation Security Administration.
+
+&emsp;"(2)
+
+HAZMAT endorsement.—The term 'HAZMAT Endorsement' means the Hazardous Materials Endorsement Threat Assessment program authorized under section 5103a of title 49, United States Code.
+
+&emsp;"(3)
+
+State.—The term 'State' means each of the several States, the District of Columbia, and the territories and possessions of the United States.
+
+&emsp;"(4)
+
+TSA.—The term 'TSA' means the Transportation Security Administration.
+
+&emsp;"(5)
+
+TWIC.—The term 'TWIC means the Transportation Worker Identification Credential authorized under section 70105 of title 46, United States Code.
+
+#### "SEC. 3. STREAMLINING OF APPLICATIONS FOR CERTAIN SECURITY THREAT ASSESSMENT PROGRAMS OF THE TRANSPORTATION SECURITY ADMINISTRATION.
+
+"(a)
+
+Streamlining.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of the enactment of this Act \[Dec. 23, 2024\], the Administrator shall take such actions as are necessary, including issuance of an interim final rule if needed, to streamline the procedures for individuals applying for or renewing enrollment in more than one TSA security threat assessment program, in particular, the TWIC and HAZMAT Endorsement programs, and any other credentialing programs as determined by the Administrator, by—
+
+&emsp;&emsp;"(A) permitting an individual to enroll at any TSA authorized enrollment center once for a threat assessment program endorsement and use the application, including associated biometric and biographic data, as well as information generated by TSA's vetting, for one of such programs to enroll in any other of such programs;
+
+&emsp;&emsp;"(B) permitting an individual to visit any TSA authorized enrollment center and enroll in more than one TSA security threat assessment program at the same time for a fee that is less than the cumulative fee that would otherwise be incurred for each such program separately;
+
+&emsp;&emsp;"(C) permitting an individual to undergo a streamlined and expeditious renewal process;
+
+&emsp;&emsp;"(D) aligning the expiration of an individual's successful, valid eligibility determination with the expiration of that individual's eligibility to participate in subsequent TSA security threat assessment programs to which the individual applies;
+
+&emsp;&emsp;"(E) providing to States the expiration dates for each individual's TSA security threat assessment to ensure a commercial driver's license of an individual who holds a HAZMAT Endorsement does not indicate the individual is authorized to transport hazardous materials after the expiration date of the enrollment of the individual in the HAZMAT Endorsement security threat assessment program if such commercial driver's license has an expiration date that is different from the expiration date of such enrollment; and
+
+&emsp;&emsp;"(F) enrolling an individual in a subsequent TSA security threat assessment program at the minimum cost necessary for the TSA to cover printing, issuance, and case management costs, costs associated with the collection of any additional biometric and biographic data in accordance with paragraph (3), and other costs that are not duplicative.
+
+&emsp;"(2)
+
+State requirements for streamlining.—Not later than 6 months after the date of the enactment of this Act, the States shall carry out the responsibilities of the States pursuant to section 5103a of title 49, United States Code.
+
+&emsp;"(3)
+
+Special rule.—If an individual under this subsection is at different times applying for or renewing enrollment in more than one TSA security threat assessment program, such individual may be required to revisit a TSA authorized enrollment center for the collection of additional data, such as biometrics, necessary for any such program that were not so collected in connection with any other such program.
+
+"(b)
+
+Publication.—The Administrator shall post on a publicly available website of the TSA information relating to the streamlining of the enrollment processes for individuals applying for more than one TSA security threat assessment program described in subsection (a).
+
+"(c)
+
+Expedited Rulemaking.—Notwithstanding sections 551 through 559 of title 5, United States Code, nothing in this section shall require notice and comment rulemaking, and to the extent it is necessary to add additional requirements for which limited rulemaking may be advisable, the Administrator shall implement such requirements through publication of an interim final rule.
+
+"(d)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act, the Administrator shall brief Congress on progress made toward the implementation of this section.
+
+#### "SEC. 4. ELIMINATING DUPLICATIVE COSTS.
+
+"(a)
+
+Audit.—Not later than 1 year after the date of the enactment of this Act \[Dec. 23, 2024\], the Comptroller General of the United States shall audit the administration of the security threat assessment programs by the TSA and the States, including the TWIC and HAZMAT Endorsement programs.
+
+"(b)
+
+Elements.—
+
+&emsp;"(1)
+
+TSA audit.—In conducting the audit of the TSA required by subsection (a), the Comptroller General shall—
+
+&emsp;&emsp;"(A) identify any redundancies and duplications in costs and administration of security threat assessment programs that if eliminated would not impact national security and any benefits of eliminating such redundancies and duplications and improving the experiences for individuals applying for or renewing enrollment in more than one TSA security threat assessment program;
+
+&emsp;&emsp;"(B) review the impacts of the implementation by the TSA of recommendations from previous studies conducted by the Comptroller General, including GAO–07–756 and GAO–17–182, on increasing the efficiency and effectiveness, and reducing costs, of processing applications for enrollment and renewal in TSA security threat assessment programs;
+
+&emsp;&emsp;"(C) review the findings of the assessment required by section 1(b) of the Act entitled 'An Act to require the Secretary of Homeland Security to prepare a comprehensive security assessment of thetransportation security card program, and for other purposes', approved December 16, 2016 (46 U.S.C. 70105 note; Public Law 114–278) and determine whether the TSA has implemented any remedies to redundancies and duplication identified by that assessment and whether such implementation impacted national security;
+
+&emsp;&emsp;"(D) determine whether there are unique challenges rural applicants have with accessing TSA security threat assessment programs;
+
+&emsp;&emsp;"(E) assess the numbers and locations of enrollment centers for meeting the needs of such programs, including determining the access provided to rural applicants;
+
+&emsp;&emsp;"(F) identify potential opportunities that exist to improve the enrollment center operations of and customer experience with such programs;
+
+&emsp;&emsp;"(G) identify potential opportunities to harmonize the enrollment, vetting, and renewal processes of such programs in which similar information is collected for similar security threat assessment processes for different vetted credentials while not impacting national security;
+
+&emsp;&emsp;"(H) identify other ways the TSA can reduce the costs of the TSA security threat assessment programs while not impacting national security; and
+
+&emsp;&emsp;"(I) review the vetting, application, and enrollment processes of each TSA security threat assessment program.
+
+&emsp;"(2)
+
+State audit.—In conducting the audit of the States required by subsection (a), the Comptroller General shall review—
+
+&emsp;&emsp;"(A) the administration of the HAZMAT Endorsement program by the States;
+
+&emsp;&emsp;"(B) methods by which the States could streamline the HAZMAT Endorsement program; and
+
+&emsp;&emsp;"(C) any potential barriers States face administering TSA security threat assessment programs for individuals applying to TWIC and the HAZMAT Endorsement program or individuals that already have a TWIC credential.
+
+"(c)
+
+Report and Recommendations.—Not later than 180 days after the date of the completion of the audit required by subsection (a), the Comptroller General of the United States shall submit to the Administrator, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security of the House of Representatives a report that includes—
+
+&emsp;"(1) a summary and analysis of the costs associated with the operation and administration of each individual TSA security threat assessment program;
+
+&emsp;"(2) a summary and analysis of the application and enrollment costs associated with providing an individual multiple credentials under TSA security threat assessment programs;
+
+&emsp;"(3) an identification of any potential duplicative processes associated with an applicant applying for, or the vetting or enrollment by the TSA of an individual in, a subsequent or multiple TSA security threat assessment programs;
+
+&emsp;"(4) a breakdown of costs borne by applicants for current enrollment and renewal processes of such programs;
+
+&emsp;"(5) ways to improve access to such programs, including for rural applicants;
+
+&emsp;"(6) any potential recommendations to the TSA for reducing costs and streamlining the administration and operation of each TSA security threat assessment program while not impacting national security;
+
+&emsp;"(7) any potential recommendations for the TSA to administer such programs in a way that would improve national security; and
+
+&emsp;"(8) any potential recommendations for ways States can improve their role in administering the HAZMAT Endorsement program and streamline the application process or reduce costs for individuals seeking multiple transportation security credentials.
+
+"(d)
+
+Implementation.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the receipt of the report required by subsection (c), the Administrator shall—
+
+&emsp;&emsp;"(A) implement the recommendations from such report;
+
+&emsp;&emsp;"(B) provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a written notification detailing—
+
+&emsp;&emsp;&emsp;"(i) the timeline for implementation of each recommendation from the report;
+
+&emsp;&emsp;&emsp;"(ii) justifications for any implementation timeline lasting longer than 2 years; and
+
+&emsp;&emsp;&emsp;"(iii) justifications for recommendations that the Administrator has declined to pursue or implement.
+
+&emsp;"(2)
+
+Briefings.—Not later than 60 days after the date of the receipt of the report required by subsection (c), and annually thereafter until the date that the TSA has implemented each recommendation made in such report, the Administrator shall brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives on the implementation of recommendations from the report."
 
 #### Authorization of Transportation Security Administration Personnel Details
 
@@ -1408,7 +1566,7 @@ Pub. L. 115–254, div. K, title I, §1932, Oct. 5, 2018, 132 Stat. 3571, provid
 
 "(a)
 
-In General.—The Administrator shall, in accordance with law and as received or developed, periodically submit information, on any best practices developed by the TSA or appropriate transportation stakeholders related to protecting the public spaces oftransportation infrastructure from emerging threats, to the following:
+In General.—The Administrator shall, in accordance with law and as received or developed, periodically submit information, on any best practices developed by the TSA or appropriate transportation stakeholders related to protecting the public spaces of transportation infrastructure from emerging threats, to the following:
 
 &emsp;"(1) Federal Security Directors at airports.
 
@@ -1514,7 +1672,7 @@ Coordinated approach.—In developing and implementing the risk-based surface tr
 
 &emsp;&emsp;"(A) to evaluate existing surface transportation security programs, policies, and initiatives, including the explosives detection canine teams, for consistency with the risk-based security strategy and, to the extent practicable, avoid any unnecessary duplication of effort;
 
-&emsp;&emsp;"(B) to determine the extent to which stakeholder security programs, policies, and initiatives address the vulnerabilities and risks to surface transportation systems identified in subsection (a); and
+&emsp;&emsp;"(B) to determine the extent to which stakeholder security programs, policies, and initiatives address the vulnerabilities and risks to surfacetransportation systems identified in subsection (a); and
 
 &emsp;&emsp;"(C) subject to subparagraph (B), to mitigate each vulnerability and risk to surface transportation systems identified in subsection (a).
 
@@ -1752,13 +1910,13 @@ Cybersecurity.—
 
 In general.—The Administrator, in consultation with the Secretary, shall—
 
-&emsp;&emsp;"(A) not later than 120 days after the date of enactment of this Act \[Oct. 5, 2018\], implement the Framework for Improving Critical Infrastructure Cybersecurity (referred to in this section as the 'Framework' developed by the National Institute of Standards and Technology, and any update to such Framework under section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272), to manage the agency's cybersecurity risks; and
+&emsp;&emsp;"(A) not later than 120 days after the date of enactment of this Act \[Oct. 5, 2018\], implement theFramework for Improving Critical Infrastructure Cybersecurity (referred to in this section as the 'Framework' developed by the National Institute of Standards and Technology, and any update to such Framework under section 2 of the National Institute of Standards and Technology Act (15 U.S.C. 272), to manage the agency's cybersecurity risks; and
 
 &emsp;&emsp;"(B) evaluate, on a periodic basis, but not less often than biennially, the use of the Framework under subparagraph (A).
 
 &emsp;"(2)
 
-Cybersecurity enhancements to aviation security activities.—The Secretary, in consultationwith the Secretary of Transportation, shall, upon request, conduct cybersecurity vulnerability assessments for airports and air carriers.
+Cybersecurity enhancements to aviation security activities.—The Secretary, in consultation with the Secretary of Transportation, shall, upon request, conduct cybersecurity vulnerability assessments for airports and air carriers.
 
 &emsp;"(3)
 

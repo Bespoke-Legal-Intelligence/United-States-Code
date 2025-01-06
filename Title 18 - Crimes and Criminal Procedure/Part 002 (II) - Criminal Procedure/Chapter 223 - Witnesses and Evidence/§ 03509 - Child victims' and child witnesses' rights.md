@@ -106,7 +106,7 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 &emsp;&emsp;(VI) other persons whose presence is determined by the court to be necessary to the welfare and well-being of the child.
 
-> &emsp;The defendant shall be afforded the rights applicable to defendants during trial, includingthe right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
+> &emsp;The defendant shall be afforded the rights applicable to defendants during trial, including the right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
 
 &emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room in which the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
 
@@ -214,7 +214,7 @@ Protective orders.—(A) On motion by any person the court may issue an order pr
 
 &emsp;(4)
 
-Disclosure of information.—This subsection does not prohibit disclosure of the name of or other information concerning a child to the defendant, the attorney for the defendant, a multidisciplinary child abuse team, a guardian ad litem, or an adult attendant, or to anyone to whom, in the opinion of the court, disclosure is necessary to the welfare and well-being of the child.
+Disclosure of information.—This subsection does not prohibit disclosure of the name of or other information concerning a child to the defendant, the attorney for the defendant, a multidisciplinary child abuse team,a guardian ad litem, or an adult attendant, or to anyone to whom, in the opinion of the court, disclosure is necessary to the welfare and well-being of the child.
 
 (e)
 
@@ -260,7 +260,7 @@ In general.—The court may appoint, and provide reasonable compensation and pay
 
 &emsp;(2)
 
-Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent ofaccess to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
+Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
 &emsp;(3)
 
@@ -272,7 +272,7 @@ Adult Attendant.—A child testifying at or attending a judicial proceeding shal
 
 (j)
 
-Speedy Trial.—In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with the criminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child's well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child.
+Speedy Trial.—In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with thecriminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child's well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child.
 
 (k)
 
@@ -320,7 +320,7 @@ Subsec. (h)(3). Pub. L. 104–294, §605(h)(2), substituted "in paragraph (2)" f
 
 <b>1994</b>—Pub. L. 103–322, §330011(e), made technical amendment to directory language of Pub. L. 101–647, §225(a), which enacted this section.
 
-Pub. L. 103–322, §330010(7)(B), substituted "Government" for "government" in subsecs. (b)(1)(A), (D),\(2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after "hired by the", and in subsec. (g)(1).
+Pub. L. 103–322, §330010(7)(B), substituted "Government" for "government" in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after "hired by the", and in subsec. (g)(1).
 
 Pub. L. 103–322, §330010(7)(A), substituted "subsection" for "subdivision" in subsecs. (b)(1)(A), (D)(i), (2)(A), (B)(iii)(III), (c)(1), (d)(4), and (f).
 

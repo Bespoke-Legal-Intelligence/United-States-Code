@@ -24,7 +24,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### (A) General rule
 
-&emsp;&emsp;Paragraph (1)(A) does not apply to the repair or use of a gambling device on a vessel that is on a voyage or segment of a voyage described in subparagraph (B) of this paragraph if the State or possession of the United States in which the voyage or segment begins and ends has enacted a statute the terms of which prohibit that repair or use on that voyage or segment.
+&emsp;&emsp;Paragraph (1)(A) does not apply to the repair or use of a gambling device on a vesselthat is on a voyage or segment of a voyage described in subparagraph (B) of this paragraph if the State or possession of the United States in which the voyage or segment begins and ends has enacted a statute the terms of which prohibit that repair or use on that voyage or segment.
 
 #### (B) Voyage and segment described
 
@@ -66,7 +66,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554 inserted "for a voyage or a segment of a voyage that begins and endsin the State of Hawaii, or" after "Except" in introductory provisions.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554 inserted "for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or" after "Except" in introductory provisions.
 
 <b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–324, §1106(b), added subpar. (C).
 

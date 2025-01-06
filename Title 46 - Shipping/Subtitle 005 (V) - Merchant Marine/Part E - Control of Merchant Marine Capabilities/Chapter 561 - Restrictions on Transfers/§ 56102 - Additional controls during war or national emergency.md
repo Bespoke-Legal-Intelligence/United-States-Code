@@ -128,5 +128,5 @@ In subsection (b)(1), before subparagraph (A), the words "and only if" are added
 
 Subsections (c) and (d) are substituted for the source provisions to eliminate unnecessary words.
 
-In subsection (e)(1), the words "guilty of a misdemeanor" are omitted, and the words "fined undertitle 18" are substituted for "punishable by a fine of not more than $5000", because of chapter 227 of title 18.
+In subsection (e)(1), the words "guilty of a misdemeanor" are omitted, and the words "fined under title 18" are substituted for "punishable by a fine of not more than $5000", because of chapter 227 of title 18.
 

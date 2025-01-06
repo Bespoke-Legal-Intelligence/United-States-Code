@@ -1,6 +1,6 @@
 ### §3512. Periods of eligibility
 
-(a) Except as provided in subsection (g), the educational assistance to which an eligible person whose eligibility is based on the death or disability of a parent or on a parent being listed in one of the categories referred to in section 3501(a)(1)(C) of this title is entitled under section 3511 of this title or subchapter V of this chapter may be afforded the person during the period beginning on the person's eighteenth birthday, or on the successful completion of the person's secondary schooling, whichever first occurs, and ending on the person's twenty-sixth birthday, except that—
+(a) Except as provided in subsection (g), the educational assistance to which an eligible person whose eligibility is based on the death or disability of a parent or on a parent being listed in one of the categories referred to in section3501(a)(1)(C) of this title is entitled under section 3511 of this title or subchapter V of this chapter may be afforded the person during the period beginning on the person's eighteenth birthday, or on the successful completion of the person's secondary schooling, whichever first occurs, and ending on the person's twenty-sixth birthday, except that—
 
 &emsp;(1) if the person is above the age of compulsory school attendance under applicable State law, and the Secretary determines that the person's best interests will be served thereby, such period may begin before the person's eighteenth birthday;
 
@@ -36,7 +36,7 @@
 
 (b)(1)(A) Except as provided in subsection (g) or subparagraph (B), (C), or (D), a person made eligible by subparagraph (B) or (D) of section 3501(a)(1) of this title or a person made eligible by the disability of a spouse under section 3501(a)(1)(E) of this title may be afforded educational assistance under this chapter during the 10-year period beginning on the date (as determined by the Secretary) the person becomes an eligible person within the meaning of section 3501(a)(1)(B), 3501(a)(1)(D)(i), 3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title. In the case of a surviving spouse made eligible by clause (ii) of section 3501(a)(1)(D) of this title, the 10-year period may not be reduced by any earlier period during which the person was eligible for educational assistance under this chapter as a spouse made eligible by clause (i) of that section.
 
-(B) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph may, subject to the Secretary's approval, elect a later beginning date for the 10-year period than would otherwise be applicable to the person under that subparagraph. The beginning date so elected may be any date between the beginning date determined for the person under subparagraph (A) and whichever of the following dates applies:
+(B) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph may, subject to the Secretary's approval, elect a later beginning date for the 10-year period than would otherwise be applicable to the personunder that subparagraph. The beginning date so elected may be any date between the beginning date determined for the person under subparagraph (A) and whichever of the following dates applies:
 
 &emsp;(i) The date on which the Secretary notifies the veteran from whom eligibility is derived that the veteran has a service-connected total disability permanent in nature.
 
@@ -212,7 +212,7 @@ Subsec. (b). Pub. L. 97–295, §4(44)(B), substituted "of this title" for "of t
 
 Subsec. (e). Pub. L. 97–295, §4(44)(C), substituted "December 24, 1970" for "the date of enactment of this subsection".
 
-<b>1981</b>—Subsec. (b)(1). Pub. L. 97–66 substituted "after whichever of the following last occurs" for "after whichever last occurs" in the provisions preceding subpar. (A), "The date" for "the date" and "permanent in nature." for "permanent in nature, or;" in subpar. (A), and "The date of death of the spouse from whom eligibility is derived who dies while a total disability evaluated as permanent in nature was in existence" for "the date of death of the spouse from whom eligibility is derived" in subpar. (B), and added subpar. (C).
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–66 substituted "after whichever of the following last occurs" for "after whichever last occurs" in the provisions preceding subpar. (A), "The date" for "the date" and "permanent in nature." for "permanent in nature, or;" in subpar. (A),and "The date of death of the spouse from whom eligibility is derived who dies while a total disability evaluated as permanent in nature was in existence" for "the date of death of the spouse from whom eligibility is derived" in subpar. (B), and added subpar. (C).
 
 <b>1980</b>—Subsec. (a)(5), (6). Pub. L. 96–466, §321, added cl. (5) and redesignated former cl. (5) as (6).
 

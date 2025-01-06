@@ -14,7 +14,7 @@ Determination of Controlling Employer.—For the purpose of this section, the de
 
 (d)
 
-Exemption.—Notwithstanding any other provision of this subchapter, an employer, or an entity controlled by an employer, shall be exempt from compliance with any of sections 4311 through 4318 of this title with respect to an employee in a workplace in a foreign country, if compliance with that section would cause such employer, or such entity controlled by an employer, to violate the law of the foreign country in which the workplace is located.
+Exemption.—Notwithstanding any other provision of this subchapter, an employer, or an entity controlled by an employer, shall be exempt from compliance with any of sections 4311 through 4318 of this title with respect to an employee in a workplace in a foreign country, ifcompliance with that section would cause such employer, or such entity controlled by an employer, to violate the law of the foreign country in which the workplace is located.
 
 (Added Pub. L. 105–368, title II, §212(b)(1), Nov. 11, 1998, 112 Stat. 3331.)
 

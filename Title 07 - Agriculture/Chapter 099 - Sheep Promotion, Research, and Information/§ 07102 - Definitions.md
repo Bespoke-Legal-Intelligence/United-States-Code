@@ -76,11 +76,11 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (19) Producer information
 
-&emsp;The term "producer information" means activities designed to provide producers, feeders,and importers with information relating to production or marketing efficiencies or developments, program activities, or other information that would facilitate an increase in the consumption of sheep or sheep products.
+&emsp;The term "producer information" means activities designed to provide producers, feeders, and importers with information relating to production or marketing efficiencies or developments, program activities, or other information that would facilitate an increase in the consumption of sheep or sheep products.
 
 #### (20) Promotion
 
-&emsp;The term "promotion" means any action (including paid advertising) to advance the image and desirability of sheep or sheep products to improve the competitive position, and stimulate sales, of sheep products in the domestic and international marketplace.
+&emsp;The term "promotion" means any action (including paid advertising) to advance theimage and desirability of sheep or sheep products to improve the competitive position, and stimulate sales, of sheep products in the domestic and international marketplace.
 
 #### (21) Pulled wool
 

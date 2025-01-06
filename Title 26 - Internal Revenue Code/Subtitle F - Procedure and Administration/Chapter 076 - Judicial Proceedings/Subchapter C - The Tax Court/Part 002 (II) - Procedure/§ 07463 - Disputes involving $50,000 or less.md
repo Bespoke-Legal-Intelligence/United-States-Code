@@ -140,7 +140,7 @@ or Less.—The amendments made by paragraphs (2) and (3) of section 203(b) of th
 
 #### Effective Date
 
-Pub. L. 91–172, title IX, §962(e), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections957 \[enacting this section\] and 960(a), (b), (f), and (i) \[amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title\] shall take effect one year after the date of enactment of this Act \[Dec. 30, 1969\]."
+Pub. L. 91–172, title IX, §962(e), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections 957 \[enacting this section\] and 960(a), (b), (f), and (i) \[amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title\] shall take effect one year after the date of enactment of this Act \[Dec. 30, 1969\]."
 
 #### Savings Provision
 

@@ -1,6 +1,6 @@
 ### §2791b. Charges to individual program, project, or activity
 
-Of the funds authorized by the Secretary of Energy for laboratory directed research and development, no individual program, project, or activity funded by this or any subsequent Act making appropriations for Energy and Water Development for any fiscal year may be charged more than the statutory maximum authorized for such activities: <i>Provided</i>, That this section shall take effect not earlier than October 1, 2015.
+Of the funds authorized by the Secretary of Energy for laboratory directed research and development, no individual program, project, or activity funded by this or any subsequent Actmaking appropriations for Energy and Water Development for any fiscal year may be charged more than the statutory maximum authorized for such activities: <i>Provided</i>, That this section shall take effect not earlier than October 1, 2015.
 
 (Pub. L. 113–235, div. D, title III, §311, Dec. 16, 2014, 128 Stat. 2326.)
 

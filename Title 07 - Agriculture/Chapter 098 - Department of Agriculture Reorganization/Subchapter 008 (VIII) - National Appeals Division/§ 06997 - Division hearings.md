@@ -22,7 +22,7 @@ Upon a timely request for a hearing under section 6996(b) of this title, an appe
 
 #### (1) Location
 
-&emsp;A hearing on an adverse decision shall be held in the State of residence of the appellantor at a location that is otherwise convenient to the appellant and the Division.
+&emsp;A hearing on an adverse decision shall be held in the State of residence of the appellant or at a location that is otherwise convenient to the appellant and the Division.
 
 #### (2) Evidentiary hearing
 
@@ -30,7 +30,7 @@ Upon a timely request for a hearing under section 6996(b) of this title, an appe
 
 #### (3) Information at hearing
 
-&emsp;The hearing officer shall consider information presented at the hearing without regard to whether the evidence was known to the agency officer, employee, or committee making the adverse decision at the time the adverse decision was made. The hearing officer shall leave the record open after the hearing for a reasonable period of time to allow the submission of information by the appellant or the agency after the hearing to the extent necessary to respond to new facts, information, arguments, or evidence presented or raised by the agency or appellant.
+&emsp;The hearing officer shall consider information presented at the hearing without regard to whether the evidence was known to theagency officer, employee, or committee making the adverse decision at the time the adverse decision was made. The hearing officer shall leave the record open after the hearing for a reasonable period of time to allow the submission of information by the appellant or the agency after the hearing to the extent necessary to respond to new facts, information, arguments, or evidence presented or raised by the agency or appellant.
 
 #### (4) Burden of proof
 

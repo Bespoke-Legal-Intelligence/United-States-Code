@@ -66,7 +66,7 @@ The Secretary shall—
 
 #### (7) Consolidation
 
-&emsp;In all actions under this subsection, the Secretary shall have discretion to consolidate complaints involving the same tribe or local educational agency.
+&emsp;In all actions under this subsection, the Secretary shall have discretion to consolidatecomplaints involving the same tribe or local educational agency.
 
 #### (8) Withholding
 

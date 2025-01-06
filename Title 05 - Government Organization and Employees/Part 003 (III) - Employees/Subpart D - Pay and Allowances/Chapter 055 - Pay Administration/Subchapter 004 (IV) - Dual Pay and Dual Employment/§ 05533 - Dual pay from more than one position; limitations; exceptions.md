@@ -48,7 +48,7 @@
 
 (e)(1) This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k <sup>2</sup> of title 40.
 
-(2) Subsection (c) of this section does not apply to pay received by a teacher of the publicschools of the District of Columbia for employment in a position during the summer vacation period.
+(2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(o), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 111–145, §7(b)(2), Mar. 4, 2010, 124 Stat. 55.)
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 
 #### Effective Date of 1967 Amendments
 
-Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967,see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 4575 of Title 2, The Congress.
 

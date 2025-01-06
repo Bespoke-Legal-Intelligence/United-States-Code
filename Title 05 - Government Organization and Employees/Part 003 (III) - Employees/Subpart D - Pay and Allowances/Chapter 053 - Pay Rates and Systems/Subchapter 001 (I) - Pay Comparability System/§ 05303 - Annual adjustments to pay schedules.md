@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 90–206, §207(b), inserted provisions that permitted an i
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -106,11 +106,11 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 #### Federal Employee Pay Adjustments—Vice President and Executive Schedule Positions
 
-CY 2023—Pub. L. 117–328, div. E, title VII, §747, Dec. 29, 2022, 136 Stat. 4716, provided that:
+CY 2024—Pub. L. 118–47, div. B, title VII, §747, Mar. 23, 2024, 138 Stat. 585, provided that:
 
-"(a) Notwithstanding any official rate adjusted under section 104 of title 3, United States Code, the rate payable to the Vice President during calendar year 2023 shall be the rate payable to the Vice President on December 31, 2022, by operation of section 747 of division E of Public Law 117–103 \[see table below\].
+"(a) Notwithstanding any official rate adjusted under section 104 of title 3, United States Code, the rate payable to the Vice President during calendar year 2024 shall be the rate payable to the Vice President on December 31, 2023, by operation of section 747 of division E of Public Law 117–328 \[see table below\].
 
-"(b) Notwithstanding any official rate adjusted under section 5318 of title 5, United States Code, or any other provision of law, the payable rate during calendar year 2023 for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be the rate payable for the applicable Executive Schedule level on December 31, 2022, by operation of section 747 of division E of Public Law 117–103. Such an employee may not receive a rate increase during calendar year 2023, except as provided in subsection (i).
+"(b) Notwithstanding any official rate adjusted under section 5318 of title 5, United States Code, or any other provision of law, the payable rate during calendar year 2024 for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be the rate payable for the applicable Executive Schedule level on December 31, 2023, by operation of section 747 of division E of Public Law 117–328. Such an employee may not receive a rate increase during calendar year 2024, except as provided in subsection (i).
 
 "(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3961\] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate.
 
@@ -120,9 +120,9 @@ CY 2023—Pub. L. 117–328, div. E, title VII, §747, Dec. 29, 2022, 136 Stat. 
 
 &emsp;"(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule.
 
-"(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) may not receive a pay rate increase during calendar year 2023, except as provided in subsection (i).
+"(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) may not receive a pay rate increase during calendar year 2024, except as provided in subsection (i).
 
-"(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality based payments under section 5304 of title 5, United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase during calendar year 2023, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under section 3161 of title 5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
+"(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality based payments under section 5304 of title 5, United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase during calendar year 2024, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under section 3161 of title 5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
 
 "(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law.
 
@@ -130,17 +130,21 @@ CY 2023—Pub. L. 117–328, div. E, title VII, §747, Dec. 29, 2022, 136 Stat. 
 
 "(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3942(b)\] for such time as that election is in effect.
 
-"(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2022, by operation of section 747 of division E of Public Law 117–103.
+"(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2023, by operation of section 747 of division E of Public Law 117–328.
 
-"(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2022, by operation of section 747 of division E of Public Law 117–103 \[see table below\].
+"(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2023, by operation of section 747 of division E of Public Law 117–328 \[see table below\].
 
-"(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2023 but ends in calendar year 2024, the bar on the employee's receipt of pay rate increases shall apply through the end of that pay period.
+"(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2024 but ends in calendar year 2025, the bar on the employee's receipt of pay rate increases shall apply through the end of that pay period.
 
 "(l) For the purpose of this section, the term 'covered position' means a position occupied by an employee whose pay is restricted under this section.
 
-"(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2023."
+"(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2024."
+
+\[For provisions temporarily applying section 747 of div. B of Pub. L. 118–47, set out above, by making certain substitutions in text, see Pub. L. 118–83, div. A, §164, as added by Pub. L. 118–158, div. A, §101(3), Dec. 21, 2024, 138 Stat. 1725.\]
 
 Additional adjustments were made in the following prior acts:
+
+&emsp;CY 2023—Pub. L. 117–328, div. E, title VII, §747, Dec. 29, 2022, 136 Stat. 4716.
 
 &emsp;CY 2022—Pub. L. 117–103, div. E, title VII, §747, Mar. 15, 2022, 136 Stat. 305.
 
@@ -170,7 +174,7 @@ CY 2018—Pub. L. 115–141, div. E, title VII, §738, Mar. 23, 2018, 132 Stat. 
 
 "(g) A career appointee in the Senior Executive Service who receives a Presidential appointment and who makes an election to retain Senior Executive Service basic pay entitlements under section 3392 of title 5, United States Code, is not subject to this section.
 
-"(h) A member of the Senior Foreign Service who receives a Presidential appointment to any position inthe executive branch and who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3942(b)\] is not subject to this section.
+"(h) A member of the Senior Foreign Service who receives a Presidential appointment to any position in the executive branch and who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3942(b)\] is not subject to this section.
 
 "(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position with higher-level duties and a pre-established higher level or range of pay, except that any such increase must be based on the rates of pay and applicable pay limitations in effect on December 31, 2013.
 
@@ -318,7 +322,7 @@ Restoration.—
 
 &emsp;"(1)
 
-In general.—Effective for pay periods beginning on or after the date of enactment of this Act \[Nov. 30, 1989\], the rate of basic pay for any office or position in the executive, legislative, or judicial branch of the Government or in the government of the District of Columbia shall be determined as if the provisions of law cited in paragraph (2) had never been enacted.
+In general.—Effective for pay periods beginning on or after the date of enactment of this Act \[Nov. 30, 1989\], the rate of basic pay for any office orposition in the executive, legislative, or judicial branch of the Government or in the government of the District of Columbia shall be determined as if the provisions of law cited in paragraph (2) had never been enacted.
 
 &emsp;"(2)
 
@@ -388,7 +392,7 @@ FYs 1986–1988—Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat
 
 "(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
-"(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
+"(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 oftitle 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
 
 "(ii) Clause (i) of this subparagraph shall not be construed to suspend the requirements of section 5305 of title 5, United States Code, with respect to fiscal years 1987 and 1988.
 

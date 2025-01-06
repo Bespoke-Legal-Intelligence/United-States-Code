@@ -86,7 +86,7 @@ Belmont-Paul Women's Equality National Monument, District of Columbia.—Proc. N
 
 Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93 Stat. 1451.
 
-Berryessa Snow Mountain National Monument, California.—Proc. No. 9298, July 10, 2015, 80 F.R. 41975.
+Berryessa Snow Mountain National Monument, California.—Proc. No. 9298, July 10, 2015, 80 F.R. 41975; Proc. No. 10745, May 2, 2024, 89 F.R. 39531.
 
 Big Hole Battlefield National Monument, Montana \[Monument redesignated Big Hole National Battlefield, see section 430uu of Title 16, Conservation\].—Ex. Ord. No. 1216, June 23, 1910; Proc. No. 2339, June 29, 1939, 53 Stat. 2544.
 
@@ -125,6 +125,8 @@ c48; Proc. No. 3888, Jan. 20, 1969, 83 Stat. 922.
 Capulin Mountain National Monument, New Mexico \[Monument redesignated Capulin Volcano National Monument by Pub. L. 100–225, title V, §506(g), Dec. 31, 1987, 101 Stat. 1547\].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792.
 
 Capulin Volcano National Monument, New Mexico \[Monument changed from Capulin Mountain National Monument, see section 460uu–46(g) of Title 16, Conservation\].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792; Pub. L. 87–635, Sept. 5, 1962, 76 Stat. 436; Pub. L. 100–225, title V, §506(g), Dec. 31, 1987, 101 Stat. 1547.
+
+Carlisle Federal Indian Boarding School National Monument, Pennsylvania.—Proc. No. 10870, Dec. 9, 2024, 89 F.R. 100289.
 
 Carlsbad Cave National Monument, New Mexico \[Monument redesignated Carlsbad Caverns National Park, see section 407 of Title 16, Conservation\].—Proc. No. 1679, Oct. 25, 1923, 43 Stat. 1929.
 
@@ -213,6 +215,8 @@ Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Sta
 Fort Wood National Monument, New York.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
 Fossil Cycad National Monument, South Dakota.—Proc. No. 1641, Oct. 21, 1922, 42 Stat. 2286.
+
+Frances Perkins National Monument, Maine.—Proc. No. 10873, Dec. 16, 2024, 89 F.R. 103617.
 
 Freedom Riders National Monument, Alabama.—Proc. No. 9566, Jan. 12, 2017, 82 F.R. 6159.
 
@@ -370,7 +374,7 @@ Russell Cave National Monument, Alabama.—Proc. No. 3413, May 11, 1961, 75 Stat
 
 Saguaro National Monument, Arizona \[Monument abolished and incorporated in Saguaro National Park, see section 410zz–1 of Title 16, Conservation\].—Proc. No. 2032, Mar. 1, 1933, 47 Stat. 2557; Proc. No. 3439, Nov. 15, 1961, 76 Stat. 1437; Pub. L. 102–61, June 19, 1991, 105 Stat. 303; Pub. L. 103–364, §3, Oct. 14, 1994, 108 Stat. 3467.
 
-San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.
+San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303; Proc. No. 10746, May 2, 2024, 89 F.R. 40361.
 
 San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(z), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(z), Sept. 30, 2021, 86 F.R. 55466; Ex. Ord. No. 14109, §1(ff), Sept. 29, 2023, 88 F.R. 68448.
 
@@ -389,6 +393,8 @@ Sitka National Monument, Alaska \[Monument redesignated Sitka National Historica
 c22.
 
 Sonoran Desert National Monument, Arizona.—Proc. No. 7397, Jan. 17, 2001, 66 F.R. 7354.
+
+Springfield 1908 Race Riot National Monument, Illinois.—Proc. No. 10792, Aug. 16, 2024, 89 F.R. 67821.
 
 Statue of Liberty National Monument.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Proc. No. 2250, Sept. 7, 1937, 51 Stat. 393; Proc. No. 3656, May 11, 1965, 79 Stat. 1490.
 
@@ -476,7 +482,7 @@ Mill Springs Battlefield National Monument, Kentucky.—Pub. L. 116–9, title I
 
 Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301; Pub. L. 105–279, Oct. 23, 1998, 112 Stat. 2690.
 
-National Military Working Dog Teams Monument, Virginia.—Pub. L. 110–181, div. B, title XXVIII, §2877, Jan. 28, 2008, 122 Stat. 563; Pub. L. 111–84, div. B, title XXVIII, §2871, Oct. 28, 2009, 123 Stat. 2696.
+National Military Working Dog Teams Monument, Texas.—Pub. L. 110–181, div. B, title XXVIII, §2877, Jan. 28, 2008, 122 Stat. 563; Pub. L. 111–84, div. B, title XXVIII, §2871, Oct. 28, 2009, 123 Stat. 2696.
 
 Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 104 Stat. 2288.
 

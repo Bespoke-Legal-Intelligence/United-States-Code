@@ -14,7 +14,7 @@ Under such rules and regulations as the Commission may prescribe, every natural-
 
 #### (d) Changes in rates and charges; notice to Commission
 
-Unless the Commission otherwise orders, no change shall be made by any natural-gas company in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after thirty days' notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the thirty days' notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
+Unless the Commission otherwise orders, no change shall be made by any natural-gas company in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after thirty days' noticeto the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the thirty days' notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
 
 #### (e) Authority of Commission to hold hearings concerning new schedule of rates
 
@@ -22,7 +22,7 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 #### (f) Storage services
 
-(1) In exercising its authority under this chapter or the Natural Gas Policy Act of 1978 (15 U.S.C. 3301 et seq.), the Commission may authorize a natural gas company (or any person that will be a natural gas company on completion of any proposed construction) to provide storage and storage-related services at market-based rates for new storage capacity related to a specific facility placed in service after August 8,2005, notwithstanding the fact that the company is unable to demonstrate that the company lacks market power, if the Commission determines that—
+(1) In exercising its authority under this chapter or the Natural Gas Policy Act of 1978 (15 U.S.C. 3301 et seq.), the Commission may authorize a natural gas company (or any person that will be a natural gas company on completion of any proposed construction) to provide storage and storage-related services at market-based rates for new storage capacity related to a specific facility placed in service after August 8, 2005, notwithstanding the fact that the company is unable to demonstrate that the company lacks market power, if the Commission determines that—
 
 &emsp;(A) market-based rates are in the public interest and necessary to encourage the construction of the storage capacity in the area needing storage services; and
 

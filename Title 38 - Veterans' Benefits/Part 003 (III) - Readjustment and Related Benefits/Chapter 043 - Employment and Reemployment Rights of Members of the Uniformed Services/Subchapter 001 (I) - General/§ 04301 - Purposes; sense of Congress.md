@@ -2,7 +2,7 @@
 
 (a) The purposes of this chapter are—
 
-&emsp;(1) to encourage noncareer service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
+&emsp;(1) to encourage service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
 
 &emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment of such persons upon their completion of such service; and
 
@@ -10,7 +10,7 @@
 
 (b) It is the sense of Congress that the Federal Government should be a model employer in carrying out the provisions of this chapter.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(1), Oct. 9, 1996, 110 Stat. 3333.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(1), Oct. 9, 1996, 110 Stat. 3333; Pub. L. 118–210, title II, §221(a), Jan. 2, 2025, 138 Stat. 2778.)
 
 #### <b>Editorial Notes</b>
 
@@ -21,6 +21,8 @@ A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 
 Another prior section 4301 was renumbered section 7601 of this title.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(1). Pub. L. 118–210 substituted "encourage service in the uniformed services" for "encourage noncareer service in the uniformed services".
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–275 struck out "under honorable conditions" after "upon their completion of such service".
 
@@ -84,7 +86,7 @@ Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b
 
 "(h)
 
-Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits,which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
+Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
 "(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
@@ -98,7 +100,7 @@ Pub. L. 111–275, title I, §105, Oct. 13, 2010, 124 Stat. 2868, as amended by 
 
 "(a)
 
-Establishment of Project.—The Secretary of Labor and the Office of Special Counsel shall carry out a 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
+Establishment of Project.—The Secretary of Labor and the Office of Special Counsel shall carry outa 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
 
 "(b)
 
@@ -190,7 +192,7 @@ Government Accountability Office Report.—The Comptroller General shall review 
 
 &emsp;"(2) not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate."
 
-Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certainclaims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
+Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
 
 #### <b>Executive Documents</b>
 

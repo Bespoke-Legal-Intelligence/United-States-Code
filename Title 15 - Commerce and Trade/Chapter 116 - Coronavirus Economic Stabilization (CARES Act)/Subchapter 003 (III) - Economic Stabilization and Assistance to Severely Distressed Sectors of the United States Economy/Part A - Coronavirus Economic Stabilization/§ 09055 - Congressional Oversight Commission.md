@@ -48,7 +48,7 @@ There is hereby established the Congressional Oversight Commission (hereafter in
 
 &emsp;&emsp;(D) 1 member appointed by the minority leader of the Senate.
 
-&emsp;&emsp;(E) 1 member appointed as Chairperson by the Speaker of the House of Representativesand the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives <sup>1</sup>
+&emsp;&emsp;(E) 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives <sup>1</sup>
 
 #### (2) Pay
 

@@ -66,7 +66,7 @@ Par. (8). Pub. L. 102–354, §5(b)(2), amended par. (8) generally. Prior to ame
 
 #### Termination Date; Savings Provision
 
-Pub. L. 101–552, §11, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, §9, Oct. 19, 1996, 110 Stat. 3872.
+Pub. L. 101–552, §11, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 104–106, div. D, title XLIII,§4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, §9, Oct. 19, 1996, 110 Stat. 3872.
 
 #### Short Title of 1996 Amendment
 
@@ -150,7 +150,7 @@ Pub. L. 101–552, §9, Nov. 15, 1990, 104 Stat. 2747, provided that:
 
 "(a)
 
-Representation of Parties.—Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title noteabove\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
+Representation of Parties.—Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act \[see Short Title note above\], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
 
 &emsp;"(1) the extent to which individuals are represented or assisted by attorneys or by persons who are not attorneys; and
 

@@ -1,6 +1,6 @@
 ### §12307. Regulations on numbering and fees
 
-The authority issuing a number under this chapter may prescribe regulations and establish fees to carry out the intent of this chapter. The fees shall apply equally to residents and nonresidents of the State. A State issuing authority may impose only conditions for vessel numbering that are—
+The authority issuing a number under this chapter may prescribe regulations and establish fees to carry out the intent of this chapter. Thefees shall apply equally to residents and nonresidents of the State. A State issuing authority may impose only conditions for vessel numbering that are—
 
 &emsp;(1) prescribed by this chapter or regulations of the Secretary about the standard numbering system; or
 

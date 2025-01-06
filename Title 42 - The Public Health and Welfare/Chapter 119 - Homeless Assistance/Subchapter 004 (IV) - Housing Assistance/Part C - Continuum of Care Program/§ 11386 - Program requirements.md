@@ -22,7 +22,7 @@ The Secretary may not provide assistance for a proposed project under this part 
 
 &emsp;&emsp;(C) they will establish policies and practices that are consistent with, and do not restrict the exercise of rights provided by, part B of subchapter VI \[42 U.S.C. 11431 et seq.\], and other laws relating to the provision of educational and related services to individuals and families experiencing homelessness;
 
-&emsp;&emsp;(D) in the case of programs that provide housing or services to families, they will designate a staff person to be responsible for ensuring that children being served in the program are enrolled in school and connected to appropriate services in the community, including early childhood programs such as Head Start, part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], and programs authorized under part B of subchapter VI of this chapter (42 U.S.C. 11431 et seq.); and
+&emsp;&emsp;(D) in the case of programs that provide housing or services to families, they will designate a staff person to be responsible forensuring that children being served in the program are enrolled in school and connected to appropriate services in the community, including early childhood programs such as Head Start, part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], and programs authorized under part B of subchapter VI of this chapter (42 U.S.C. 11431 et seq.); and
 
 &emsp;&emsp;(E) they will provide data and reports as required by the Secretary pursuant to the Act; <sup>2</sup>
 
@@ -60,7 +60,7 @@ If an individual or family who receives assistance under this part (not includin
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(D), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(D), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Act, referred to in subsec. (b)(4)(E), probably means "this Act", Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 111–22, §1304(1)–(3), redesignated subsec. (d) as (c),
 
 Subsec. (d). Pub. L. 111–22, §1304(5), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 111–22, §1304(4)–(6), redesignated subsec. (g) as (e), substituted "recipient or project sponsor" for "recipient" in two places in first sentence, and struck out former subsec. (e). Text of subsec. (e) read as follows: "Each recipient shall be required to supplement the amount of assistance provided under paragraphs (1) and (2) of section 11383(a) of this title with an equal amount of funds from sources other than this part."
+Subsec. (e). Pub. L. 111–22, §1304(4)–(6), redesignated subsec. (g) as (e), substituted "recipient or project sponsor" for "recipient" in two places in first sentence, and struck out former subsec. (e). Text of subsec. (e) read as follows: "Each recipient shall be required to supplement the amount of assistance provided underparagraphs (1) and (2) of section 11383(a) of this title with an equal amount of funds from sources other than this part."
 
 Subsec. (f). Pub. L. 111–22, §1304(5), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 

@@ -10,7 +10,7 @@ Customs officers stationed in a foreign country under subsection (a) may exercis
 
 #### (c) Compliance
 
-The Secretary may by regulation require compliance with the customs laws of the United States in a foreign country and, in such a case the customs laws and other civil and criminal laws of the United States relating to the importation or exportation of merchandise, filing of false statements, and the unlawful removal of merchandise from customs custody shall apply in the same manner as if the foreign station is a port of entry or exit within the customs territory of the United States.
+The Secretary may by regulation require compliance with the customs laws of the United States in a foreign country and, in such a case the customs laws and other civil and criminal laws of the United States relating to the importation or exportation of merchandise, filing of false statements, and the unlawful removal ofmerchandise from customs custody shall apply in the same manner as if the foreign station is a port of entry or exit within the customs territory of the United States.
 
 #### (d) Seizures
 
@@ -36,7 +36,7 @@ Any person designated to perform the duties of an officer of the Customs Service
 
 #### (1) In general
 
-&emsp;The Secretary of Homeland Security, the United States Trade Representative, and otherappropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
+&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
 
 #### (2) United States Trade Representative
 
@@ -82,7 +82,7 @@ Any person designated to perform the duties of an officer of the Customs Service
 
 #### (4) Definition
 
-&emsp;In this subsection, the term "Commissioner" means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
+&emsp;In this subsection, the term "Commissioner" means the Commissioner responsiblefor the United States Customs and Border Protection in the Department of Homeland Security.
 
 (June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 108–7, div. J, title I, §127(c), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(b), (c), Dec. 3, 2004, 118 Stat. 2581, 2582; Pub. L. 109–280, title XIV, §1635(f)(1), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–347, title IV, §404, Oct. 13, 2006, 120 Stat. 1928.)
 
@@ -116,7 +116,7 @@ Subsec. (g). Pub. L. 108–7, §127(c)(4), which directed addition of subsec. (g
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehousefor consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
 
@@ -160,5 +160,5 @@ Elements of the program.—Using the authority granted by this section and under
 
 #### Creation of Integrated Border Inspection Areas
 
-Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
+Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integratedborder inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
 

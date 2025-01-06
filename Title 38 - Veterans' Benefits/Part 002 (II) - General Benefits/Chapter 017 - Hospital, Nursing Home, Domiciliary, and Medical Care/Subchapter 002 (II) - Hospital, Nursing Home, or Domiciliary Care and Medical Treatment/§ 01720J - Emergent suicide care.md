@@ -38,7 +38,7 @@ Outreach.—During any period when an eligible individual is receiving emergent 
 
 &emsp;(1) ensure that—
 
-&emsp;&emsp;(A) in the case of an eligible individual whom the Veterans Crisis Line recommends to seek emergent suicide care at a medical facility of the Department, the Veterans Crisis Line notifies the Suicide Prevention Coordinator of such medical facility;
+&emsp;&emsp;(A) in the case of an eligible individual whom the Veterans Crisis Line recommends to seek emergent suicide care at a medicalfacility of the Department, the Veterans Crisis Line notifies the Suicide Prevention Coordinator of such medical facility;
 
 &emsp;&emsp;(B) in the case of an eligible individual who presents at a medical facility of the Department in an acute suicidal crisis without a recommendation by the Veterans Crisis Line, the Secretary notifies the Suicide Prevention Coordinator;
 
@@ -116,7 +116,7 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Pub. L. 116–214, title II, §201(c), Dec. 5, 2020, 134 Stat. 1033, provided that: "The Secretary shall furnish or pay for emergent suicide care under section 1720J of title 38, United States Code, as added by subsection (a), beginning on the date that is 270 days after the date of the enactment of this Act \[Dec. 5, 2020\]."
+Pub. L. 116–214, title II, §201(c), Dec. 5, 2020, 134 Stat. 1033, provided that: "The Secretary shall furnish or payfor emergent suicide care under section 1720J of title 38, United States Code, as added by subsection (a), beginning on the date that is 270 days after the date of the enactment of this Act \[Dec. 5, 2020\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under this section;".</i>
 

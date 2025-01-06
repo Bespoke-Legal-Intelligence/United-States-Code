@@ -1,6 +1,6 @@
 ### §2243. Issuance of writ; return; hearing; decision
 
-A court, justice or judge entertaining an application for a writ of habeas corpus shall forthwith award the writ or issue an order directing the respondent to show cause why the writ should not be granted, unless it appears fromthe application that the applicant or person detained is not entitled thereto.
+A court, justice or judge entertaining an application for a writ of habeas corpus shall forthwith award the writ or issue an order directing the respondent to show cause why the writ should not be granted, unless it appears from the application that the applicant or person detained is not entitled thereto.
 
 The writ, or order to show cause shall be directed to the person having custody of the person detained. It shall be returned within three days unless for good cause additional time, not exceeding twenty days, is allowed.
 

@@ -182,7 +182,7 @@ For purposes of this title—
 
 #### (B) Eligible participant who becomes a highly compensated employee
 
-&emsp;&emsp;Notwithstanding subparagraph (A)(ii), an individual on whose behalf a pension-linked emergency savings account is established who thereafter becomes a highly compensated employee (as so defined) may not make further contributions to such account, but retains the right to withdraw any account balance of such account in accordance with paragraphs (7) and (8).
+&emsp;&emsp;Notwithstanding subparagraph (A)(ii), an individual on whose behalf a pension-linkedemergency savings account is established who thereafter becomes a highly compensated employee (as so defined) may not make further contributions to such account, but retains the right to withdraw any account balance of such account in accordance with paragraphs (7) and (8).
 
 #### (3) Contribution limitation
 
@@ -250,7 +250,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;(viii) the options under section 801(e) of such Act for the account balance of the pension-linked emergency savings account after termination of the employment of the participant; and
 
-&emsp;&emsp;&emsp;(ix) the ability of a participant who becomes a highly compensated employee (as such term is defined in section 414(q)) to, as described in section 801(b)(2) of the Employee Retirement Income Security Act of 1974, withdraw any account balance from a pension-linked emergency savings account and the restriction on the ability of such a participant to make further contributions to the pension-linked emergency savings account.
+&emsp;&emsp;&emsp;(ix) the ability of a participant who becomes a highly compensated employee (assuch term is defined in section 414(q)) to, as described in section 801(b)(2) of the Employee Retirement Income Security Act of 1974, withdraw any account balance from a pension-linked emergency savings account and the restriction on the ability of such a participant to make further contributions to the pension-linked emergency savings account.
 
 #### (B) Notice requirements
 
@@ -371,6 +371,10 @@ For purposes of this section—
 > &emsp;but only if such contribution is nonforfeitable at the time received.
 
 (Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, §902(a), Jan. 2, 2013, 126 Stat. 2371; Pub. L. 113–295, div. A, title II, §220(k), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 117–328, div. T, title I, §127(e)(1), title III, §325(a), title VI, §604(a)–(d), Dec. 29, 2022, 136 Stat. 5324, 5359, 5392.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### <b>Editorial Notes</b>
 

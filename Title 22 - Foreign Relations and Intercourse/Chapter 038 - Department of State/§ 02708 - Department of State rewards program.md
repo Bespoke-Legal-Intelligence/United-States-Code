@@ -56,13 +56,15 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;&emsp;(B) United States law;
 
-&emsp;(11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18;
+&emsp;(11) the identification or location of any person who, while acting at the direction of orunder the control of a foreign government, aids or abets a violation of section 1030 of title 18;
 
 &emsp;(12) the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title;
 
-&emsp;(13) the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference; or
+&emsp;(13) the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference;
 
-&emsp;(14) the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country.
+&emsp;(14) the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country; or
+
+&emsp;(15) the restraining, seizing, forfeiting, or repatriating of stolen assets linked to foreign government corruption and the proceeds of such corruption.
 
 #### (c) Coordination
 
@@ -194,7 +196,7 @@ As used in this section:
 
 &emsp;&emsp;(ii) is performed by any person acting as an agent of or on behalf of, or in coordination with, a foreign government or criminal enterprise; and
 
-&emsp;&emsp;(B) includes any covert, fraudulent, deceptive, or unlawful act or attempted act, or knowing use of information acquired by theft, undertaken with the specific intent to significantly influence voters, underminepublic confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of, a general or primary Federal, State, or local election or caucus, including—
+&emsp;&emsp;(B) includes any covert, fraudulent, deceptive, or unlawful act or attempted act, or knowing use of information acquired by theft, undertaken with the specific intent to significantly influence voters, undermine public confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of, a general or primary Federal, State, or local election or caucus, including—
 
 &emsp;&emsp;&emsp;(i) the campaign of a candidate; or
 
@@ -242,7 +244,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402; Pub. L. 112–283, §§3, 4, Jan. 15, 2013, 126 Stat. 2493, 2494; Pub. L. 114–323, title VII, §704(a)(1), (2), Dec. 16, 2016, 130 Stat. 1941; Pub. L. 115–44, title III, §323, Aug. 2, 2017, 131 Stat. 954; Pub. L. 115–141, div. R, §3, Mar. 23, 2018, 132 Stat. 1123; Pub. L. 115–232, div. A, title XII, §1232(d), Aug. 13, 2018, 132 Stat. 2038; Pub. L. 116–94, div. J, title VI, §603, Dec. 20, 2019, 133 Stat. 3069; Pub. L. 116–283, div. A, title XII, §1238, Jan. 1, 2021, 134 Stat. 3943; Pub. L. 117–263, div. E, title LV, §5585(a), div. I, title XCI, §9104, Dec. 23, 2022, 136 Stat. 3374, 3859; Pub. L. 117–273, §2, Dec. 27, 2022, 136 Stat. 4182.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402; Pub. L. 112–283, §§3, 4, Jan. 15, 2013, 126 Stat. 2493, 2494; Pub. L. 114–323, title VII, §704(a)(1), (2), Dec. 16, 2016, 130 Stat. 1941; Pub. L. 115–44, title III, §323, Aug. 2, 2017, 131 Stat. 954; Pub. L. 115–141, div. R, §3, Mar. 23, 2018, 132 Stat. 1123; Pub. L. 115–232, div. A, title XII, §1232(d), Aug. 13, 2018, 132 Stat. 2038; Pub. L. 116–94, div. J, title VI, §603, Dec. 20, 2019, 133 Stat. 3069; Pub. L. 116–283, div. A, title XII, §1238, Jan. 1, 2021, 134 Stat. 3943; Pub. L. 117–263, div. E, title LV, §5585(a), div. I, title XCI, §9104, Dec. 23, 2022, 136 Stat. 3374, 3859; Pub. L. 117–273, §2, Dec. 27, 2022, 136 Stat. 4182; Pub. L. 118–159, div. G, title LXXVIII, §7802, Dec. 23, 2024, 138 Stat. 2557.)
 
 #### <b>Editorial Notes</b>
 
@@ -257,6 +259,8 @@ Section 4605(j)(1)(A) of title 50, referred to in subsec. (k)(1)(B), was repeale
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(15). Pub. L. 118–159 added par. (15).
 
 <b>2022</b>—Subsec. (b)(4). Pub. L. 117–263, §9104(1), substituted "(10), or (14);" for "or (10);".
 
@@ -380,7 +384,7 @@ Pub. L. 114–323, title VII, §704(a)(3), Dec. 16, 2016, 130 Stat. 1942, provid
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L.103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Rule of Construction
 

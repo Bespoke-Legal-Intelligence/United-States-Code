@@ -92,7 +92,7 @@ The Secretary shall enter into cooperative agreements under this section with or
 
 &emsp;&emsp;(B) develop comprehensive prevention plans to coordinate prevention efforts with other community sectors;
 
-&emsp;&emsp;(C) provide for periodic evaluation of the project, and analysis to assist in replication of the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;
+&emsp;&emsp;(C) provide for periodic evaluation of the project, and analysis to assist in replicationof the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;
 
 &emsp;&emsp;(D) develop, replicate, or conduct comprehensive, evidence-informed primary prevention programs that reduce risk factors and promote protective factors that reduce the likelihood of family violence, domestic violence, and dating violence, which may include—
 

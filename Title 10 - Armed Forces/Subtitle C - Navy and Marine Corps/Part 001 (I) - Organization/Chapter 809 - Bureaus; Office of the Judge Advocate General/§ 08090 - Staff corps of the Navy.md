@@ -8,19 +8,31 @@
 
 &emsp;(3) the Judge Advocate General's Corps;
 
-&emsp;(4) the Chaplain Corps; and
+&emsp;(4) the Chaplain Corps;
 
-&emsp;(5) such other staff corps as may be established by the Secretary of the Navy under subsection (b).
+&emsp;(5) the Supply Corps;
 
-(b)(1) The Secretary of the Navy may establish staff corps of the Navy in addition to the Medical Corps, the Dental Corps, the Judge Advocate General's Corps, and the Chaplain Corps. The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
+&emsp;(6) the Civil Engineer Corps;
+
+&emsp;(7) the Nurse Corps;
+
+&emsp;(8) the Medical Service Corps; and
+
+&emsp;(9) such other staff corps as may be established by the Secretary of the Navy under subsection (b).
+
+(b)(1) The Secretary of the Navy may establish staff corps of the Navy in addition to the staff corps specified in subsection (a). The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
 
 (2) The Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
 
-(Added Pub. L. 96–513, title III, §351, Dec. 12, 1980, 94 Stat. 2902, §5155; amended Pub. L. 97–22, §6(a),July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered §5150, Pub. L. 99–433, title V, §514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, §1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, §3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, §1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 107–314, div. A, title V, §504(a)(2), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 112–239, div. A, title V, §501(b), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 114–328, div. A, title V, §502(hh), Dec. 23, 2016, 130 Stat. 2105; renumbered §8090, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 96–513, title III, §351, Dec. 12, 1980, 94 Stat. 2902, §5155; amended Pub. L. 97–22, §6(a), July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered §5150, Pub. L. 99–433, title V, §514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, §1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, §3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, §1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 107–314, div. A, title V, §504(a)(2), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 112–239, div. A, title V, §501(b), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 114–328, div. A, title V, §502(hh), Dec. 23, 2016, 130 Stat. 2105; renumbered §8090, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 118–159, div. A, title IX, §923, Dec. 23, 2024, 138 Stat. 2039.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(5) to (9). Pub. L. 118–159, §923(a), added pars. (5) to (8) and redesignated former par. (5) as (9).
+
+Subsec. (b)(1). Pub. L. 118–159, §923(b), substituted "staff corps specified in subsection (a)" for "Medical Corps, the Dental Corps, the Judge Advocate General's Corps, and the Chaplain Corps".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5150 of this title as this section.
 
@@ -42,7 +54,7 @@ Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, substituted "rear
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
-Pub. L. 97–22 substituted "Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of commodore admiral" for "Nurse Corps or Medical Service Corps for promotion to the grade of commodore admiral or rear admiral, as appropriate", substituted "An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary" for "An officer so selected shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years to serve in the position, respectively, of Director of the Nurse Corps or Director of the Medical Service Corps", and inserted provision that for the purpose of computing the total number of flag officers in the staff corps of the Navy under section 5444 of this title, an officer so appointed shall be considered an additional number in grade.
+Pub. L. 97–22 substituted "Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of commodore admiral" for "Nurse Corps or Medical Service Corps for promotion to the grade of commodore admiral or rear admiral, as appropriate", substituted "An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary" for "An officer so selected shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years to serve in the position, respectively, of Director of the Nurse Corps or Director of the Medical ServiceCorps", and inserted provision that for the purpose of computing the total number of flag officers in the staff corps of the Navy under section 5444 of this title, an officer so appointed shall be considered an additional number in grade.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

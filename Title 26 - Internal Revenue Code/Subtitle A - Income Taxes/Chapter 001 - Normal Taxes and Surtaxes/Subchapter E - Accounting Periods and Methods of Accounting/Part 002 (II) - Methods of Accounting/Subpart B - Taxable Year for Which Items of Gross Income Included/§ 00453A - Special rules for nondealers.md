@@ -34,7 +34,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (4) Special rule for timeshares and residential lots
 
-&emsp;An installment obligation shall not be treated as described in paragraph (1) if it arisesfrom a disposition described in section 453(l)(2)(B), but the provisions of section 453(l)(3) (relating to interest payments on timeshares and residential lots) shall apply to such obligation.
+&emsp;An installment obligation shall not be treated as described in paragraph (1) if it arises from a disposition described in section 453(l)(2)(B), but the provisions of section 453(l)(3) (relating to interest payments on timeshares and residential lots) shall apply to such obligation.
 
 #### (5) Sales price
 

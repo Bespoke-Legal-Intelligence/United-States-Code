@@ -8,6 +8,7 @@
 | [293\.](%C2%A7%2000293%20-%20Repealed.%20Pub.%20L.%2088%E2%80%9394%2C%20%C2%A72%28a%29%2C%20Aug.%2012%2C%201963%2C%2077%20Stat.%20122.md) | Repealed. |
 | [294\.](%C2%A7%2000294%20-%20Manner%20of%20use%20of%20buildings%3B%20contracts%20for%20construction%2C%20etc.md) | Manner of use of buildings; contracts for construction, etc. |
 | [294a.](%C2%A7%2000294a%20-%20Contracts%20requiring%20payment%20in%20foreign%20currency.md) | Contracts requiring payment in foreign currency. |
+| [294b.](%C2%A7%2000294b%20-%20Support%20co-location%20with%20allied%20partner%20nations.md) | Support co-location with allied partner nations. |
 | [295\.](%C2%A7%2000295%20-%20Authorization%20of%20appropriations%3B%20Foreign%20Service%20Building%20Fund%3B%20expenditures%3B%20foreign%20currencies.md) | Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies. |
 | 295a, 295b. Omitted. |  |
 | [296\.](%C2%A7%2000296%20-%20Duties%20of%20Secretary%20of%20State%20with%20respect%20to%20commission%20and%20properties.md) | Duties of Secretary of State with respect to commission and properties. |
@@ -25,6 +26,70 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Overseas Buildings Due Diligence
+
+Pub. L. 118–159, div. G, title LXXII, §7207, Dec. 23, 2024, 138 Stat. 2531, provided that:
+
+"(a)
+
+In General.—The Secretary \[of State\] shall take such steps as may be necessary to avoid or minimize purchasing or leasing for 180 days or longer a covered building to be used by United States Government personnel carrying out their official duties—
+
+&emsp;"(1) in which a covered entity is known through reasonable due diligence to have performed covered construction;
+
+&emsp;"(2) in which due diligence has indicated a covered entity has an ownership interest; or
+
+&emsp;"(3) where a covered entity is expected to perform covered construction.
+
+"(b)
+
+Notification.—
+
+&emsp;"(1)
+
+In general.—If, after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary determines it is in the national security interest of the United States to acquire or lease a covered building, or enter into or renew a contract with a covered entity to perform covered construction with a covered building, then the Secretary shall notify the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] and the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives—
+
+&emsp;&emsp;"(A) not later than 7 days before entering into an acquisition, lease, or agreement with a covered building or covered entity doing covered construction; and
+
+&emsp;&emsp;"(B) not later than 21 days after becoming aware of an existing lease or agreement occurring with a covered building or covered entity doing covered construction.
+
+&emsp;"(2)
+
+Determination of national security interest.—The notification required under paragraph (1) shall also include, to the extent applicable—
+
+&emsp;&emsp;"(A) a determination of whether the inconsistent acquisition, lease, or agreement is in the national security interest of the United States;
+
+&emsp;&emsp;"(B) an identification of the interest advanced by such inconsistent action;
+
+&emsp;&emsp;"(C) a detailed explanation for such determination; and
+
+&emsp;&emsp;"(D) any action the Secretary has taken or intends to take to mitigate national security vulnerabilities that may be posed by such inconsistent action.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered building.—The term 'covered building' means a building that is used or intended to be used by personnel of a consular or diplomatic post located outside of the United States for carrying out their official duties.
+
+&emsp;"(2)
+
+Covered construction.—The term 'covered construction'—
+
+&emsp;&emsp;"(A) means any construction, development, conversion, extension, alteration, repair, or maintenance performed with respect to a building; and
+
+&emsp;&emsp;"(B) includes the installation or maintenance of electrical, plumbing, heating, ventilation, air conditioning, communication, fire protection, and energy management systems with respect to such building.
+
+&emsp;"(3)
+
+Covered entity.—The term 'covered entity' means an entity with respect to which the Government of the People's Republic of China, the Government of the Russian Federation, or an agent or instrumentality of the Government of the People's Republic of China or the Government of the Russian Federation, directly or indirectly, including through any contract, arrangement, understanding, or relationship—
+
+&emsp;&emsp;"(A) owns or controls a significant percent of the ownership interest; or
+
+&emsp;&emsp;"(B) otherwise exercises substantial control."
+
 
 ---
 
@@ -36,6 +101,7 @@
 - [&sect; 00293 - Repealed. Pub. L. 88&#8211;94, &sect;2(a), Aug. 12, 1963, 77 Stat. 122](%C2%A7%2000293%20-%20Repealed.%20Pub.%20L.%2088%E2%80%9394%2C%20%C2%A72%28a%29%2C%20Aug.%2012%2C%201963%2C%2077%20Stat.%20122.md)
 - [&sect; 00294 - Manner of use of buildings; contracts for construction, etc](%C2%A7%2000294%20-%20Manner%20of%20use%20of%20buildings%3B%20contracts%20for%20construction%2C%20etc.md)
 - [&sect; 00294a - Contracts requiring payment in foreign currency](%C2%A7%2000294a%20-%20Contracts%20requiring%20payment%20in%20foreign%20currency.md)
+- [&sect; 00294b - Support co-location with allied partner nations](%C2%A7%2000294b%20-%20Support%20co-location%20with%20allied%20partner%20nations.md)
 - [&sect; 00295 - Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies](%C2%A7%2000295%20-%20Authorization%20of%20appropriations%3B%20Foreign%20Service%20Building%20Fund%3B%20expenditures%3B%20foreign%20currencies.md)
 - [&sect; 00295a, 295b - Omitted](%C2%A7%2000295a%2C%20295b%20-%20Omitted.md)
 - [&sect; 00296 - Duties of Secretary of State with respect to commission and properties](%C2%A7%2000296%20-%20Duties%20of%20Secretary%20of%20State%20with%20respect%20to%20commission%20and%20properties.md)

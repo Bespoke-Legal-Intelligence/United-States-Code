@@ -46,7 +46,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "congressional Joint Inaugural Committee" means the joint committee of the Senate and House of Representatives referred to in section 507 of title 36 that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
 
-(Added Pub. L. 85–861, §1(48)(A), Sept. 2, 1958, 72 Stat. 1458, §2543; amended Pub. L. 96–513, title V,§511(81), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 104–201, div. A, title III, §366(a), Sept. 23, 1996, 110 Stat. 2495; Pub. L. 105–225, §4(a)(2), Aug. 12, 1998, 112 Stat. 1498; renumbered §2553, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 85–861, §1(48)(A), Sept. 2, 1958, 72 Stat. 1458, §2543; amended Pub. L. 96–513, title V, §511(81), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 104–201, div. A, title III, §366(a), Sept. 23, 1996, 110 Stat. 2495; Pub. L. 105–225, §4(a)(2), Aug. 12, 1998, 112 Stat. 1498; renumbered §2553, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 Historical and Revision Notes
 

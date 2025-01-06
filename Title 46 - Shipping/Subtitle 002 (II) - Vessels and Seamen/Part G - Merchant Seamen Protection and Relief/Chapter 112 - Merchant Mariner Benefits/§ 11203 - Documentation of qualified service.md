@@ -26,7 +26,7 @@ Correction of Records.—An official who is requested under subsection (a)(2) to
 
 #### References in Text
 
-Section 401(a)(1)(B) of the GI Bill Improvement Act of 1977, referred to in subsec. (c), is section 401(a)(1)(B) of Pub. L. 95–202, which is set out as a note under section 106 of Title 38, Veterans' Benefits.
+Section 401(a)(1)(B) of the GI Bill Improvement Act of 1977, referred to in subsec. (c), is section 401(a)(1)(B) ofPub. L. 95–202, which is set out as a note under section 106 of Title 38, Veterans' Benefits.
 
 #### Amendments
 

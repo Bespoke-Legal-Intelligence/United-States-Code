@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) the rights of present users to such water; and
 
-&emsp;&emsp;(C) the quantity of surface and ground water systems, both on- and off-site, fromadverse effects of the mining and reclamation process or to provide alternative sources of water where such protection of quantity cannot be assured;
+&emsp;&emsp;(C) the quantity of surface and ground water systems, both on- and off-site, from adverse effects of the mining and reclamation process or to provide alternative sources of water where such protection of quantity cannot be assured;
 
 &emsp;(14) such other requirements as the regulatory authority shall prescribe by regulations.
 

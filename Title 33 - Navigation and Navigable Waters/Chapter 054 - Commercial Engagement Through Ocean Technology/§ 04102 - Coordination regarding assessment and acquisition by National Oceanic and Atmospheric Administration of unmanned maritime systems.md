@@ -70,7 +70,7 @@ The Administrator shall direct the Office of Oceanic and Atmospheric Research (i
 
 #### (d) Coordination with other Federal agencies
 
-In carrying out this chapter, the Administrator and the Secretary of the Navy may utilizethe National Oceanographic Partnership Program, established under chapter 665 of title 10, as a mechanism for providing interagency coordination for the advancement of unmanned maritime systems.
+In carrying out this chapter, the Administrator and the Secretary of the Navy may utilize the National Oceanographic Partnership Program, established under chapter 665 of title 10, as a mechanism for providing interagency coordination for the advancement of unmanned maritime systems.
 
 #### (e) Coordination with academic sector
 

@@ -4,7 +4,7 @@
 
 Not later than 6 months after November 30, 1993, the Attorney General shall—
 
-&emsp;(1) determine the type of computer hardware and software that will be used to operate the national instant criminal background check system and the means by which State criminal records systems and the telephone or electronic device of licensees will communicate with the national system;
+&emsp;(1) determine the type of computer hardware and software that will be used to operate thenational instant criminal background check system and the means by which State criminal records systems and the telephone or electronic device of licensees will communicate with the national system;
 
 &emsp;(2) investigate the criminal records system of each State and determine for each State a timetable by which the State should be able to provide criminal records on an on-line capacity basis to the national system; and
 
@@ -66,7 +66,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 #### (C) Quarterly submission to Attorney General
 
-&emsp;&emsp;If a Federal department or agency under subparagraph (A) has any record of any person demonstrating that the person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18, the head of such department or agency shall, not less frequently than quarterly, providethe pertinent information contained in such record to the Attorney General.
+&emsp;&emsp;If a Federal department or agency under subparagraph (A) has any record of any person demonstrating that the person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18, the head of such department or agency shall, not less frequently than quarterly, provide the pertinent information contained in such record to the Attorney General.
 
 #### (D) Information updates
 
@@ -76,7 +76,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;(ii) notify the Attorney General that such basis no longer applies so that the National Instant Criminal Background Check System is kept up to date.
 
-> &emsp;&emsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant Criminal Background Check System is updated, corrected, modified, or removed within 30 days of receipt.
+> &emsp;&emsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant CriminalBackground Check System is updated, corrected, modified, or removed within 30 days of receipt.
 
 #### (E) Annual report
 
@@ -196,7 +196,7 @@ As used in this section:
 
 #### (1) Licensee
 
-&emsp;The term "licensee" means a licensed importer (as defined in section 921(a)(9) of title18), a licensed manufacturer (as defined in section 921(a)(10) of that title), or a licensed dealer (as defined in section 921(a)(11) of that title).
+&emsp;The term "licensee" means a licensed importer (as defined in section 921(a)(9) of title 18), a licensed manufacturer (as defined in section 921(a)(10) of that title), or a licensed dealer (as defined in section 921(a)(11) of that title).
 
 #### (2) Other terms
 
@@ -208,7 +208,7 @@ There are authorized to be appropriated such sums as are necessary to enable the
 
 #### (l) Requirements relating to background checks for persons under age 21
 
-If a licensee contacts the system established under this section regarding a proposed transfer of a firearm to a person less than 21 years of age in accordance with subsection (t) of section 922 of title 18, the system shall—
+If a licensee contacts the system established under this section regarding a proposed transferof a firearm to a person less than 21 years of age in accordance with subsection (t) of section 922 of title 18, the system shall—
 
 &emsp;(1) immediately contact—
 
@@ -268,7 +268,7 @@ Subsec. (k). Pub. L. 104–294, §603(i)(1), amended directory language of Pub. 
 
 #### Termination Date of 2022 Amendment
 
-Amendment by section 12001(a)(2) of Pub. L. 117–159 repealed effective Sept. 30, 2032, and section restored as if such amendment had not been enacted, see section 12001(a)(3) of Pub. L. 117–159, set out as an Effective andTermination Dates of 2022 Amendment note under section 922 of Title 18, Crimes and Criminal Procedure.
+Amendment by section 12001(a)(2) of Pub. L. 117–159 repealed effective Sept. 30, 2032, and section restored as if such amendment had not been enacted, see section 12001(a)(3) of Pub. L. 117–159, set out as an Effective and Termination Dates of 2022 Amendment note under section 922 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1996 Amendment
 
@@ -344,9 +344,9 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A keycomponent of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transfer and movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
+Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A key component of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transfer and movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
 
-Firearms tracing provides two principal benefits. First, tracing is an important investigative tool in individual cases, providing law enforcement agents with critical information that may lead to the apprehension of suspects, the recovery of other guns used in the commission of crimes, and the identification of potential witnesses, among other things. Second, analysis of tracing data in the aggregate provides valuable intelligence about local, regional, and national patterns relating to the movement and sources of guns used in the commission of crimes, which is useful for the effective deployment of law enforcement resources and development of enforcement strategies. Firearms tracing is a particularly valuable tool in detecting and investigating firearms trafficking, and has been deployed to help combat the pernicious problem of firearms trafficking across the Southwest border.
+Firearms tracing provides two principal benefits. First, tracing is an important investigative tool in individual cases, providing law enforcement agents with critical information that may lead to the apprehension of suspects, the recovery of other guns used in the commission of crimes, and the identification of potential witnesses, among other things. Second, analysis of tracing data in the aggregate provides valuable intelligence about local, regional, and national patterns relating to the movement and sources of guns used in the commission of crimes, which is useful for the effectivedeployment of law enforcement resources and development of enforcement strategies. Firearms tracing is a particularly valuable tool in detecting and investigating firearms trafficking, and has been deployed to help combat the pernicious problem of firearms trafficking across the Southwest border.
 
 The effectiveness of firearms tracing as a law enforcement intelligence tool depends on the quantity and quality of information and trace requests submitted to ATF. In fiscal year 2012, ATF processed approximately 345,000 crime-gun trace requests for thousands of domestic and international law enforcement agencies. The Federal Government can encourage State and local law enforcement agencies to take advantage of the benefits of tracing all recovered firearms, but Federal law enforcement agencies should have an obligation to do so. If Federal law enforcement agencies do not conscientiously trace every firearm taken into custody, they may not only be depriving themselves of critical information in specific cases, but may also be depriving all Federal, State, and local agencies of the value of complete information for aggregate analyses.
 

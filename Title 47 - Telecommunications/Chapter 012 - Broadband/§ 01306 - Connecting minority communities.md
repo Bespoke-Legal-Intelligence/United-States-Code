@@ -158,7 +158,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) promote digital literacy skills, including by providing opportunities for virtual or in-person digital literacy training and education;
 
-&emsp;&emsp;&emsp;(vi) promote professional development opportunity partnerships between industryand historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions to help ensure that information technology personnel and students of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions have the skills needed to work with new and emerging technologies with respect to broadband internet access service; and
+&emsp;&emsp;&emsp;(vi) promote professional development opportunity partnerships between industry and historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions to help ensure that information technology personnel and students of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions have the skills needed to work with new and emerging technologies with respect to broadband internet access service; and
 
 &emsp;&emsp;&emsp;(vii) explore how to leverage investment in infrastructure with respect to broadband internet access service to—
 

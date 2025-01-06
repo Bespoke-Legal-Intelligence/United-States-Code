@@ -86,7 +86,7 @@ Pub. L. 108–136, div. C, title XXXVI, §3622, Nov. 24, 2003, 117 Stat. 1824, p
 
 "(a)
 
-Establishment of Working Group.—There is hereby established a working group to be known as the 'Threat Reduction Working Group' as an interparliamentary group of the Congress of the United States and the legislature of the Russian Federation.
+Establishment of Working Group.—There is hereby established a working group to be known as the'Threat Reduction Working Group' as an interparliamentary group of the Congress of the United States and the legislature of the Russian Federation.
 
 "(b)
 
@@ -166,7 +166,7 @@ International Participation in Program.—(1) In order to achieve international 
 
 "(4) If any amount contributed under paragraph (1) has not been utilized within five years of receipt under that paragraph, the Secretary shall return such amount to the person, government, or organization contributing such amount under that paragraph.
 
-"(5) Not later than 30 days after the receipt of any amount contributed under paragraph (1), the Secretary shall submit to the congressional defense committees a notice of the receipt of such amount.
+"(5) Not later than 30 days after the receipt of any amount contributed under paragraph (1), the Secretaryshall submit to the congressional defense committees a notice of the receipt of such amount.
 
 "(6) Not later than October 31 each year, the Secretary shall submit to the congressional defense committees a report on the receipt and utilization of amounts under this subsection during the preceding fiscal year. Each report for a fiscal year shall set forth—
 
@@ -252,7 +252,7 @@ Content of Plan.—The plan required by subsection (a) shall include the followi
 
 &emsp;"(2) Criteria for success for such programs, and a strategy for eventual termination of United States contributions to such programs and assumption of the ongoing support of those programs by others.
 
-&emsp;"(3) A description of any administrative and organizational changes necessary to improve the coordination and effectiveness of such programs. In particular, the plan shall include consideration of the creation of an interagency committee that wouldhave primary responsibilities within the executive branch for—
+&emsp;"(3) A description of any administrative and organizational changes necessary to improve the coordination and effectiveness of such programs. In particular, the plan shall include consideration of the creation of an interagency committee that would have primary responsibilities within the executive branch for—
 
 &emsp;&emsp;"(A) monitoring United States nonproliferation efforts in the states of the former Soviet Union;
 

@@ -42,7 +42,7 @@ In general.—The Secretary shall not implement section 357 of such title, as ad
 
 &emsp;&emsp;"(A) submission of the report under subsection (c); and
 
-&emsp;&emsp;"(B) the Secretary determines and certifies in writing to the Committees on Armed Services of the Senate and House of Representatives that such implementation shall not have a detrimental effect on the force structure of an Armed Force concerned, including with regard to recruiting or retention of members in the regular component of such Armed Force.
+&emsp;&emsp;"(B) the Secretary determines and certifies in writing to the Committees on Armed Services ofthe Senate and House of Representatives that such implementation shall not have a detrimental effect on the force structure of an Armed Force concerned, including with regard to recruiting or retention of members in the regular component of such Armed Force.
 
 &emsp;"(2)
 

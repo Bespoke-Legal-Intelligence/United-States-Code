@@ -1,6 +1,6 @@
 ### §715<i>o</i>. National forest and power sites; use for migratory bird reservations
 
-Nothing in this subchapter shall be construed as authorizing or empowering the Migratory Bird Conservation Commission herein created, the Secretary of the Interior, or any otherboard, commission, or officer, to declare, withdraw, or determine, except heretofore designated, any part of any national forest or power site, a migratory bird reservation under any of the provisions of this subchapter, except by and with the consent of the legislature of the State wherein such forest or power site is located.
+Nothing in this subchapter shall be construed as authorizing or empowering the Migratory Bird Conservation Commission herein created, the Secretary of the Interior, or any other board, commission, or officer, to declare, withdraw, or determine, except heretofore designated, any part of any national forest or power site, a migratory bird reservation under any of the provisions of this subchapter, except by and with the consent of the legislature of the State wherein such forest or power site is located.
 
 (Feb. 18, 1929, ch. 257, §16, 45 Stat. 1225; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 

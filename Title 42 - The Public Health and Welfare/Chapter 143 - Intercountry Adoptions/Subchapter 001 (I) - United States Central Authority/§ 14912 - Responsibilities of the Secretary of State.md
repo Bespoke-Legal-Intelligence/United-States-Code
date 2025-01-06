@@ -30,7 +30,7 @@ The Secretary shall be responsible for—
 
 &emsp;(4) ensuring the provision of a background report (home study) on prospective adoptive parent or parents (pursuant to the requirements of section 14923(b)(1)(A)(ii) of this title), through the central authority of each child's country of origin, to the court having jurisdiction over the adoption (or, in the case of a child emigrating to the United States for the purpose of adoption, to the competent authority in the child's country of origin with responsibility for approving the child's emigration) in adequate time to be considered prior to the granting of such adoption or approval;
 
-&emsp;(5) providing Federal agencies, State courts, and accredited agencies and approved persons with an identification of Convention countries and persons authorized to perform functions under the Convention in each such country; and
+&emsp;(5) providing Federal agencies, State courts, and accredited agencies and approved personswith an identification of Convention countries and persons authorized to perform functions under the Convention in each such country; and
 
 &emsp;(6) facilitating the transmittal of other appropriate information to, and among, central authorities, Federal and State agencies (including State courts), and accredited agencies and approved persons.
 

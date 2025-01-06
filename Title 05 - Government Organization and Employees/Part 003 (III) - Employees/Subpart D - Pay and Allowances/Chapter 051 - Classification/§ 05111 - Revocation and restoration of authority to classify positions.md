@@ -14,7 +14,7 @@
 
 &emsp;(6) classes for which standards have not been published.
 
-(b) After revocation or suspension, the Office may restore the authority to the extent that it is satisfied that later actions placing positions in classes and grades will be in conformance with or consistent with published standards.
+(b) After revocation or suspension, the Office may restore the authority to the extent that it is satisfied that later actions placing positionsin classes and grades will be in conformance with or consistent with published standards.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 455; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 

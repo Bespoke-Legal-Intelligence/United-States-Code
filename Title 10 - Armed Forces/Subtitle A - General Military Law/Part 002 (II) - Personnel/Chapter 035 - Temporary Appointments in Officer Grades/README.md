@@ -6,7 +6,7 @@
 | [602\.](%C2%A7%2000602%20-%20Flexibility%20in%20determining%20terms%20of%20appointment%20for%20certain%20senior%20officer%20positions.md) | Flexibility in determining terms of appointment for certain senior officer positions. |
 | [603\.](%C2%A7%2000603%20-%20Appointments%20in%20time%20of%20war%20or%20national%20emergency.md) | Appointments in time of war or national emergency. |
 | [604\.](%C2%A7%2000604%20-%20Senior%20joint%20officer%20positions%20recommendations%20to%20the%20Secretary%20of%20Defense.md) | Senior joint officer positions: recommendations to the Secretary of Defense. |
-| [605\.](%C2%A7%2000605%20-%20Promotion%20to%20certain%20grades%20for%20officers%20with%20critical%20skills%20colonel%2C%20lieutenant%20colonel%2C%20major%2C%20captain%3B%20captain%2C%20commander%2C%20lieutenant%E2%80%A6.md) | Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant.<br> |
+| [605\.](%C2%A7%2000605%20-%20Promotion%20to%20certain%20grades%20for%20officers%20with%20critical%20skills%20colonel%2C%20lieutenant%20colonel%2C%20major%2C%20captain%3B%20captain%2C%20commander%2C%20lieutenant%E2%80%A6.md) | Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

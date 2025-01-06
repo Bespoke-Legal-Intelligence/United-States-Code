@@ -36,7 +36,7 @@ June 3, 1916, ch. 134, §13a (8th, 9th, and 11th provisos); added July 2, 1926, 
 
 June 24, 1948, ch. 632 (2d proviso under "Finance Department"), 62 Stat. 650.
 
-10:291c (proviso) and the words "after June 30, 1948", in 10:291c–1, are omitted as executed. The definition of the term "flying officer", in 10:291c, originally was a definition of the term "flying officer in time of peace" as provided by section 2 of the Act of July 2, 1926, ch. 721, 44 Stat. 781. Section 1 of the Act of October 4, 1940, ch. 742, 54 Stat. 963, eliminated the words "in time ofpeace". As a consequence of that amendment, 10:291e (1st 26 words) is omitted as surplusage. Clause (2) is substituted for 10:291c–1 (less last 10 words). The words "commissioned officers or warrant", in 10:291c–1, are omitted as surplusage. In clause (4), the last 12 words are substituted for the words "any other".
+10:291c (proviso) and the words "after June 30, 1948", in 10:291c–1, are omitted as executed. The definition of the term "flying officer", in 10:291c, originally was a definition of the term "flying officer in time of peace" as provided by section 2 of the Act of July 2, 1926, ch. 721, 44 Stat. 781. Section 1 of the Act of October 4, 1940, ch. 742, 54 Stat. 963, eliminated the words "in time of peace". As a consequence of that amendment, 10:291e (1st 26 words) is omitted as surplusage. Clause (2) is substituted for 10:291c–1 (less last 10 words). The words "commissioned officers or warrant", in 10:291c–1, are omitted as surplusage. In clause (4), the last 12 words are substituted for the words "any other".
 
 #### <b>Editorial Notes</b>
 

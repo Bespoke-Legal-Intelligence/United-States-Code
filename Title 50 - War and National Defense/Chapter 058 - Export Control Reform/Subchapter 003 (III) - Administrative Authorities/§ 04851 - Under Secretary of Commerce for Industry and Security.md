@@ -16,7 +16,7 @@ On and after August 13, 2018, any reference in any law or regulation to the Unde
 
 #### (d) Continuation in office
 
-The individual serving as Under Secretary of Commerce for Export Administration on the day before August 13, 2018, may serve as the Under Secretary of Commerce for Industry and Security on and after that date without the need for renomination or reappointment.
+The individual serving as Under Secretary of Commerce for Export Administration on the daybefore August 13, 2018, may serve as the Under Secretary of Commerce for Industry and Security on and after that date without the need for renomination or reappointment.
 
 (Pub. L. 115–232, div. A, title XVII, §1781, Aug. 13, 2018, 132 Stat. 2238; Pub. L. 116–6, div. H, title II, §205(a), Feb. 15, 2019, 133 Stat. 476.)
 

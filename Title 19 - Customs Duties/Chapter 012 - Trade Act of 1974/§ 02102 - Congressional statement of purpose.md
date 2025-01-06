@@ -2,7 +2,7 @@
 
 The purposes of this chapter are, through trade agreements affording mutual benefits—
 
-&emsp;(1) to foster the economic growth of and full employment in the United States and tostrengthen economic relations between the United States and foreign countries through open and nondiscriminatory world trade;
+&emsp;(1) to foster the economic growth of and full employment in the United States and to strengthen economic relations between the United States and foreign countries through open and nondiscriminatory world trade;
 
 &emsp;(2) to harmonize, reduce, and eliminate barriers to trade on a basis which assures substantially equivalent competitive opportunities for the commerce of the United States;
 

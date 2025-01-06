@@ -12,7 +12,7 @@ Not later than 1 year after August 6, 1996, and annually thereafter, the Adminis
 
 #### (1) In general
 
-&emsp;The Administrator shall award grants to States that submit an application that is approved by the Administrator. The Administrator shall determine the amount of a grant awarded pursuant to this paragraph on the basis of an assessment of the extent of ground water resources in the State and the likelihood that awarding the grant will result in sustained and reliable protection of ground water quality.
+&emsp;The Administrator shall award grants to States that submit an application that is approved by the Administrator. The Administrator shall determine the amount of a grant awarded pursuant to this paragraph on the basis of an assessment of the extent of ground water resources in the State and the likelihood that awarding the grant will result insustained and reliable protection of ground water quality.
 
 #### (2) Innovative program grants
 

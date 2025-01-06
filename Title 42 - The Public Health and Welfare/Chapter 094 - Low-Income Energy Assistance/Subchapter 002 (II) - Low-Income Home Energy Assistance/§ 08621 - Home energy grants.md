@@ -14,7 +14,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 #### (d) Authorization of appropriations for leveraged resources
 
-(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
+(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
 
 (2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
 
@@ -22,7 +22,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 There is authorized to be appropriated in each fiscal year for payments under this subchapter, in addition to amounts appropriated for distribution to all the States in accordance with section 8623 of this title (other than subsection (e) of such section), $600,000,000 to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Funds appropriated pursuant to this subsection are hereby designated to be emergency requirements pursuant to section 251(b)(2)(D) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(D)\], except that such funds shall be made available only after the submission to Congress of a formal budget request by the President (for all or a part of the appropriation pursuant to this subsection) that includes a designation of the amount requested as an emergency requirement as defined in such Act \[2 U.S.C. 900 et seq.\].
 
-(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756; Pub. L. 109–58, title I, §121(a), Aug. 8, 2005, 119 Stat. 616.)
+(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30,1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756; Pub. L. 109–58, title I, §121(a), Aug. 8, 2005, 119 Stat. 616.)
 
 #### <b>Editorial Notes</b>
 

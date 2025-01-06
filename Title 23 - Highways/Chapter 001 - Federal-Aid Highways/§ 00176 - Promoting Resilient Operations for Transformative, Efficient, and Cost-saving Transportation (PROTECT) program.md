@@ -38,7 +38,7 @@ Resilience improvement.—The term "resilience improvement" means the use of mat
 
 &emsp;&emsp;&emsp;(i) to better anticipate, prepare for, and adapt to changing conditions and to withstand and respond to disruptions; and
 
-&emsp;&emsp;&emsp;(ii) to be better able to continue to serve the primary function of the project duringand after weather events and natural disasters for the expected life of the project; or
+&emsp;&emsp;&emsp;(ii) to be better able to continue to serve the primary function of the project during and after weather events and natural disasters for the expected life of the project; or
 
 &emsp;&emsp;(B) that—
 
@@ -94,7 +94,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-Projects in certain areas.—If a project under this subsection is carried out, in whole or in part, within a base floodplain, the State shall—
+Projects in certain areas.—If a project under this subsection is carried out,in whole or in part, within a base floodplain, the State shall—
 
 &emsp;&emsp;&emsp;(i) identify the base floodplain in which the project is to be located and disclose that information to the Secretary; and
 
@@ -140,7 +140,7 @@ In general.—Except as provided in subsection (e)(1), the Federal share of the 
 
 &emsp;&emsp;&emsp;(ii)
 
-Non-federal share.—A State may use Federal funds other than Federal funds apportioned to the State under section 104(b)(8) to meet the non-Federal costshare requirement for a project under this subsection.
+Non-federal share.—A State may use Federal funds other than Federal funds apportioned to the State under section 104(b)(8) to meet the non-Federal cost share requirement for a project under this subsection.
 
 &emsp;&emsp;(E)
 
@@ -290,7 +290,7 @@ Eligible activities.—An eligible entity may use a community resilience and eva
 
 &emsp;&emsp;&emsp;&emsp;(II) ensures the ability of the evacuation route to provide safe passage during an evacuation and reduces the risk of damage to evacuation routes as a result of future emergency events, including restoring or replacing existing evacuation routes that are in poor condition or not designed to meet the anticipated demand during an emergency event, and including steps to protect routes from mud, rock, or other debris slides;
 
-&emsp;&emsp;&emsp;&emsp;(III) if the eligible entity notifies the Secretary that existing evacuation routes are not sufficient to adequately facilitate evacuations, including the transportation of emergency responders and recovery resources, expands the capacity of evacuation routes to swiftly and safely accommodate evacuations, including installation of—
+&emsp;&emsp;&emsp;&emsp;(III) if the eligible entity notifies the Secretary that existing evacuationroutes are not sufficient to adequately facilitate evacuations, including the transportation of emergency responders and recovery resources, expands the capacity of evacuation routes to swiftly and safely accommodate evacuations, including installation of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) communications and intelligent transportation system equipment and infrastructure;
 
@@ -324,7 +324,7 @@ At-risk coastal infrastructure grants.—
 
 Definition of eligible entity.—In this subparagraph, the term "eligible entity" means any of the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) A State (including the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands) in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or 1 or more of the Great Lakes.
+&emsp;&emsp;&emsp;&emsp;(I) A State (including the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands) in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or 1 or more of the Great Lakes.
 
 &emsp;&emsp;&emsp;&emsp;(II) A political subdivision of a State described in subclause (I).
 
@@ -568,7 +568,7 @@ Plan contents.—A resilience improvement plan referred to in paragraph (1)—
 
 &emsp;&emsp;(A) shall be for the immediate and long-range planning activities and investments of the State or metropolitan planning organization with respect to resilience of the surface transportation system within the boundaries of the State or metropolitan planning organization, as applicable;
 
-&emsp;&emsp;(B) shall demonstrate a systemic approach to surface transportation system resilience and be consistent with and complementary of the State and local mitigation plans required under section 322 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165);
+&emsp;&emsp;(B) shall demonstrate a systemic approach to surface transportation system resilience and be consistent with and complementary of the State and local mitigation plans required under section 322 of the Robert T.Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165);
 
 &emsp;&emsp;(C) shall include a risk-based assessment of vulnerabilities of transportation assets and systems to current and future weather events and natural disasters, such as severe storms, flooding, drought, levee and dam failures, wildfire, rockslides, mudslides, sea level rise, extreme weather, including extreme temperatures, and earthquakes;
 

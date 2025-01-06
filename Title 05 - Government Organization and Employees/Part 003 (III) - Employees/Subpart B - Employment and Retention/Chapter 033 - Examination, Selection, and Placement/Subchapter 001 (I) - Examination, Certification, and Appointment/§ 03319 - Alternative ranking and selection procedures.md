@@ -84,7 +84,7 @@ Preference eligibles.—Notwithstanding paragraphs (1) and (2), an appointing of
 
 &emsp;&emsp;<i>(C)</i>
 
-<i>List of eligibles issued from a standing register; discontinuation of certification.—In the case of lists of eligibles issued from a standing register, when an appointing authority, for reasons considered sufficient by the Director or the head of an agency, has three times considered and passed over a preference eligible who was certified from a register, certification of the preference eligible for appointment may be discontinued. However, the preference eligible is entitled to advance notice of discontinuance of certification in accordance with regulations prescribed by the Director.</i>
+<i>List of eligibles issued from a standing register; discontinuation of certification.—In the case of lists of eligibles issued from a standing register, when an appointing authority, for</i><i>reasons considered sufficient by the Director or the head of an agency, has three times considered and passed over a preference eligible who was certified from a register, certification of the preference eligible for appointment may be discontinued. However, the preference eligible is entitled to advance notice of discontinuance of certification in accordance with regulations prescribed by the Director.</i>
 
 <i>See 2018 Amendment notes below.</i>
 
@@ -104,7 +104,7 @@ A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to 
 
 Subsec. (c)(6). Pub. L. 115–232, §1107(b)(1)(B), redesignated par. (7) as (6) and amended it generally. Prior to amendment, text read as follows: "Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied."
 
-Pub. L. 115–232, §1107(b)(1)(B), struck out par. (6). Text read as follows: "Nothing in this subsection limits anycollective bargaining obligation of an agency under chapter 71."
+Pub. L. 115–232, §1107(b)(1)(B), struck out par. (6). Text read as follows: "Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71."
 
 Subsec. (c)(7). Pub. L. 115–232, §1107(b)(1)(B), redesignated par. (7) as (6).
 

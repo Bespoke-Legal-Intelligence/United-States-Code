@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) a denial to parents of the exercise of their full roles and responsibilities related to program operations;
 
-&emsp;&emsp;&emsp;(iii) a failure to comply with standards related to early childhood development and health services, family and community partnerships, or program design and management;
+&emsp;&emsp;&emsp;(iii) a failure to comply with standards related to early childhood developmentand health services, family and community partnerships, or program design and management;
 
 &emsp;&emsp;&emsp;(iv) the misuse of funds received under this subchapter;
 
@@ -82,7 +82,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) with respect to services for migrant farmworkers, a Head Start program that serves families who are engaged in agricultural labor and who have changed their residence from one geographic location to another in the preceding 2-year period; and
 
-&emsp;&emsp;(B) with respect to services for seasonal farmworkers, a Head Start program that serves families who are engaged primarily in seasonal agricultural labor and who have not changed their residence to another geographic location in the preceding 2-year period.
+&emsp;&emsp;(B) with respect to services for seasonal farmworkers, a Head Start program that serves families who are engaged primarily inseasonal agricultural labor and who have not changed their residence to another geographic location in the preceding 2-year period.
 
 &emsp;(18) The term "mobile Head Start program" means the provision of Head Start services utilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
 
@@ -168,11 +168,11 @@ For purposes of this subchapter:
 
 &emsp;(24) The term "Secretary" means the Secretary of Health and Human Services.
 
-&emsp;(25) The term "State" means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
+&emsp;(25) The term "State" means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term "State" includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
 &emsp;(26) The term "unresolved area of noncompliance" means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title.
 
-(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703; Pub. L. 110–134, §3, Dec. 12, 2007, 121 Stat. 1364; Pub. L. 114–95, title IX, §9215(nn)(1), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703; Pub. L. 110–134, §3, Dec. 12, 2007, 121 Stat. 1364; Pub. L. 114–95, title IX, §9215(nn)(1), Dec. 10, 2015, 129 Stat. 2176; Pub. L. 118–42, div. G, title II, §209(b)(6)(A), Mar. 9, 2024, 138 Stat. 443.)
 
 #### <b>Editorial Notes</b>
 
@@ -183,6 +183,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92
 The Elementary and Secondary Education Act of 1965, referred to in par. (16), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Par. (25). Pub. L. 118–42 substituted "The term 'State' includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau." for "The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012."
 
 <b>2015</b>—Par. (3). Pub. L. 114–95, §9215(nn)(1)(A), substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
@@ -214,7 +216,7 @@ Par. (15). Pub. L. 105–285, §103(8), added par. (15).
 
 Par. (16). Pub. L. 105–285, §103(1), redesignated par. (1) as (16) and transferred it to appear after par. (15).
 
-Par. (17). Pub. L. 105–285, §103(9)(B), (C), substituted "Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means" for "Virgin Islands," and "and the Republic of Palau" for "Palau, and the Commonwealth of the Northern Mariana Islands".
+Par. (17). Pub. L. 105–285, §103(9)(B), (C), substituted "Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscalyears ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means" for "Virgin Islands," and "and the Republic of Palau" for "Palau, and the Commonwealth of the Northern Mariana Islands".
 
 Pub. L. 105–285, §103(9)(A), which directed substitution of "term" for "Term", could not be executed because "Term" does not appear in par. (17).
 

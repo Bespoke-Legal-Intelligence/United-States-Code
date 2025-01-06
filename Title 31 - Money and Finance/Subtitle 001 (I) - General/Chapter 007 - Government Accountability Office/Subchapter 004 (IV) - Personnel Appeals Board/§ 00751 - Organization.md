@@ -38,7 +38,7 @@
 
 (d) A member may be removed by a majority of the Board (except the member subject to removal) only for inefficiency, neglect of duty, or malfeasance in office. A member subject to removal shall be given notice and an opportunity for a hearing before the Board unless the member waives the opportunity in writing.
 
-(e) While carrying out a member's duties (including travel), a member who is not an officer or employee of the United States Government is entitled to basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under section 5703 of title 5.
+(e) While carrying out a member's duties (including travel), a member who is not an officer or employee of the United States Government is entitled to basic pay at a rate equal to the dailyrate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under section 5703 of title 5.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 900; Pub. L. 100–426, title I, §§101, 102(b), Sept. 9, 1988, 102 Stat. 1598, 1599; Pub. L. 103–283, title III, §312(e)(4)(A), July 22, 1994, 108 Stat. 1446; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -116,7 +116,7 @@ Pub. L. 104–1, title V, §504(c)(2), Jan. 23, 1995, 109 Stat. 41, provided tha
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

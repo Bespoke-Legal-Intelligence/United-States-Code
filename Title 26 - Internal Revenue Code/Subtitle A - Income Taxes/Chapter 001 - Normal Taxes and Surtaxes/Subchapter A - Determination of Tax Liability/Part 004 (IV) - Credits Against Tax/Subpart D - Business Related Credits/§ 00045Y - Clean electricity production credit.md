@@ -58,7 +58,7 @@
 
 #### (C) Expansion of facility; incremental production
 
-&emsp;&emsp;The term "qualified facility" shall include either of the following in connection with a facility described in subparagraph (A) (without regard to clause (ii) of such subparagraph) which was placed in service before January 1, 2025, but only to the extent of theincreased amount of electricity produced at the facility by reason of the following:
+&emsp;&emsp;The term "qualified facility" shall include either of the following in connection with a facility described in subparagraph (A) (without regard to clause (ii) of such subparagraph) which was placed in service before January 1, 2025, but only to the extent of the increased amount of electricity produced at the facility by reason of the following:
 
 &emsp;&emsp;&emsp;(i) A new unit which is placed in service after December 31, 2024.
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term "greenhouse gas emissions rate" means the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity, expressed as grams of CO<sub>2</sub>e per KWh.
+&emsp;&emsp;For purposes of this section, the term "greenhouse gas emissions rate" means the amount of greenhouse gases emitted into theatmosphere by a facility in the production of electricity, expressed as grams of CO<sub>2</sub>e per KWh.
 
 #### (B) Fuel combustion and gasification
 
@@ -136,7 +136,7 @@
 
 &emsp;For purposes of this subsection, the term "applicable year" means the later of—
 
-&emsp;&emsp;(A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal toor less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
+&emsp;&emsp;(A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal to or less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
 
 &emsp;&emsp;(B) 2032.
 
@@ -226,7 +226,7 @@ Not later than January 1, 2025, the Secretary shall issue guidance regarding imp
 
 #### (ii) Form and effect of election
 
-&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, oncemade, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
 
 #### (B) Treatment of organizations and patrons
 
@@ -234,7 +234,7 @@ Not later than January 1, 2025, the Secretary shall issue guidance regarding imp
 
 &emsp;&emsp;&emsp;(i) shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and
 
-&emsp;&emsp;&emsp;(ii) shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+&emsp;&emsp;&emsp;(ii) shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier,for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
 
 #### (C) Special rules for decrease in credits for taxable year
 

@@ -34,7 +34,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer, employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
 
-&emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loan provided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
+&emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loanprovided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
 
 &emsp;&emsp;&emsp;(iv) the provision of financial literacy counseling or services, including counseling or services provided in coordination with a covered educational institution, to the extent that such counseling or services are not undertaken to secure—
 
@@ -70,7 +70,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
 
-&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, areverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
+&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
 
 &emsp;(9) the term "revenue sharing" means an arrangement between a covered educational institution and a private educational lender under which—
 
@@ -144,7 +144,7 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 #### (C) Designation of individual to act on behalf of the borrower
 
-&emsp;&emsp;Any lender that extends a private education loan shall provide the student obligoran option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
+&emsp;&emsp;Any lender that extends a private education loan shall provide the student obligor an option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
 
 (Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, §304, May 22, 2009, 123 Stat. 1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107; Pub. L. 115–174, title VI, §601(a), May 24, 2018, 132 Stat. 1365.)
 

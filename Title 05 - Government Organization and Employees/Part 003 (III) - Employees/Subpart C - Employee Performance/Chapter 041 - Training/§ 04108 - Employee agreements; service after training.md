@@ -42,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–347 struck out subsec. (d) which read as follows: "For purposes of this section, 'training' includes a private sector assignment of an employee participating in the Executive Exchange Program of the President's Commission on Executive Exchange."
+<b>2002</b>—Subsec. (d). Pub. L. 107–347 struck out subsec. (d) which read as follows: "For purposes of this section,'training' includes a private sector assignment of an employee participating in the Executive Exchange Program of the President's Commission on Executive Exchange."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–226 substituted "for more than a minimum period prescribed by the head of the agency" for "by, in, or through a non-Government facility under this chapter".
 

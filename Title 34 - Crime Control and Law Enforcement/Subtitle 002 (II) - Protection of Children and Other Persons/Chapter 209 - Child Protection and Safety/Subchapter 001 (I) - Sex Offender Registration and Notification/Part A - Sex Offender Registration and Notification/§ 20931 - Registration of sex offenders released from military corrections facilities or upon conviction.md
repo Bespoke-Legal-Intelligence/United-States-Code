@@ -1,6 +1,6 @@
 ### §20931. Registration of sex offenders released from military corrections facilities or upon conviction
 
-The Secretary of Defense shall provide to the Attorney General the information described in section 20914 of this title to be included in the National Sex Offender Registry and the Dru Sjodin National Sex Offender Public Website regarding persons—
+The Secretary of Defense shall provide to the Attorney General the information described insection 20914 of this title to be included in the National Sex Offender Registry and the Dru Sjodin National Sex Offender Public Website regarding persons—
 
 &emsp;(1)(A) released from military corrections facilities; or
 

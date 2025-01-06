@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) The right to freedom of religion is under renewed and, in some cases, increasing assault in many countries around the world. More than one-half of the world's population lives under regimes that severely restrict or prohibit the freedom of their citizens to study, believe, observe, and freely practice the religious faith of their choice. Religious believers and communities suffer both government-sponsored and government-tolerated violations of their rights to religious freedom. Among the many forms of such violations are state-sponsored slander campaigns, confiscations of property, desecration of cemeteries, surveillance by security police, including by special divisions of "religious police", severe prohibitions against construction and repair of places of worship, denial of the right to assemble and relegation of religious communities to illegal status through arbitrary registration laws, prohibitions against the pursuit of education or public office, and prohibitions against publishing, distributing, or possessing religious literature and materials. A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.
 
-&emsp;(5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention,torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in, change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
+&emsp;(5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention, torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in, change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
 
 &emsp;(6) Though not confined to a particular region or regime, religious persecution and the specific targeting of non-theists, humanists, and atheists because of their beliefs is often particularly widespread, systematic, and heinous under totalitarian governments and in countries with militant, politicized religious majorities and in regions where non-state actors exercise significant political power and territorial control.
 
@@ -62,7 +62,7 @@ The International Financial Institutions Act of 1977, referred to in subsec. (b)
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(3). Pub. L. 114–281, §2(a)(1), inserted "The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion." before "Governments have the responsibility".
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–281, §2(a)(1), inserted "The freedom of thought, conscience, and religion isunderstood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion." before "Governments have the responsibility".
 
 Subsec. (a)(4). Pub. L. 114–281, §2(a)(2), inserted at end "A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country."
 
@@ -73,6 +73,10 @@ Subsec. (b). Pub. L. 114–281, §2(b), designated existing provisions as par. (
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–154 inserted "desecration of cemeteries," after "confiscations of property,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–90, §1, Sept. 30, 2024, 138 Stat. 1559, provided that: "This Act \[amending sections 6435 and 6436 of this title\] may be cited as the 'United States Commission on International Religious Freedom Reauthorization Act of 2024'."
 
 #### Short Title of 2022 Amendment
 
@@ -126,7 +130,7 @@ Section 1. <i>Policy</i>. (a) Religious freedom, America's first freedom, is a m
 
 Sec. 2. <i>Prioritization of International Religious Freedom</i>. Within 180 days of the date of this order \[June 2, 2020\], the Secretary of State (Secretary) shall, in consultation with the Administrator of the United States Agency for International Development (USAID), develop a plan to prioritize international religious freedom in the planning and implementation of United States foreign policy and in the foreign assistance programs of the Department of State and USAID.
 
-Sec. 3. <i>Foreign Assistance Funding for International Religious Freedom</i>. (a) The Secretary shall, in consultation with the Administrator of USAID, budget at least $50 million per fiscal year for programs that advance international religious freedom, to the extent feasible and permitted by law and subject to the availability of appropriations. Such programs shall include those intended to anticipate, prevent, and respond to attacks against individuals and groups on the basis of their religion, including programs designed to help ensure that such groups can persevere as distinct communities; to promote accountability for the perpetrators of such attacks; to ensure equal rights and legal protections for individuals and groups regardless of belief; to improve the safety and security of houses of worship and public spaces for all faiths; and to protect and preserve the cultural heritages of religious communities.
+Sec. 3. <i>Foreign Assistance Funding for International Religious Freedom</i>. (a) The Secretary shall, in consultation with the Administrator of USAID, budget at least $50 million per fiscal year for programs that advance international religious freedom, to the extent feasible and permitted by law and subject to the availability of appropriations. Such programs shall include those intended to anticipate, prevent, and respond to attacks against individuals and groups on the basis of their religion, including programs designed to help ensure that such groups can persevere as distinct communities; to promote accountability for the perpetrators of such attacks; to ensure equal rights and legal protections for individuals and groups regardless of belief; to improve the safety and security of houses of worship and publicspaces for all faiths; and to protect and preserve the cultural heritages of religious communities.
 
 (b) Executive departments and agencies (agencies) that fund foreign assistance programs shall ensure that faith-based and religious entities, including eligible entities in foreign countries, are not discriminated against on the basis of religious identity or religious belief when competing for Federal funding, to the extent permitted by law.
 

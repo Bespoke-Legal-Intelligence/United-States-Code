@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) except as provided in clause (i), awards a grant to (or enters into a contract or cooperative agreement with) an entity to carry out a program for which such a position is approved under section 12573 of this title; and
 
-&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the nationalservice educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using national service educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
+&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the national service educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using national service educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
 
 #### (2) Formula
 
@@ -50,7 +50,7 @@
 
 &emsp;The Corporation shall not obligate the funds in the reserve account until the Corporation—
 
-&emsp;&emsp;(A) determines that the funds will not be needed for the payment of national service educational awards associated with previously approved national service positions, summer of service educational awards associated with previously approved summer of service positions, and silver scholar educational awards associated with previously approved silver scholar positions; or
+&emsp;&emsp;(A) determines that the funds will not be needed for the payment of national service educational awards associated with previously approved national service positions,summer of service educational awards associated with previously approved summer of service positions, and silver scholar educational awards associated with previously approved silver scholar positions; or
 
 &emsp;&emsp;(B) obligates the funds for the payment of national service educational awards for such previously approved national service positions, summer of service educational awards for such previously approved summer of service positions, or silver scholar educational awards for such previously approved silver scholar positions, as applicable.
 

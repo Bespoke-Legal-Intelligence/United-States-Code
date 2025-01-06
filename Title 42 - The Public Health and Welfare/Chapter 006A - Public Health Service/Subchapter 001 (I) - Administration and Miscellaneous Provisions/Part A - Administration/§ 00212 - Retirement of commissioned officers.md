@@ -14,7 +14,7 @@
 
 &emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance at medical school or dental school or during his medical internship; plus
 
-&emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he wasentitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
+&emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
 > except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Regular Corps, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of section 1409(b) of title 10 (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting "40 per centum" for "50 per centum" each place the term appears.
 
@@ -88,7 +88,7 @@ Subsec. (a)(4)(E). Pub. L. 114–92, §631(c)(4)(B), added subpar. (E).
 
 Subsec. (e). Pub. L. 98–94, §923(f), substituted "each full month of service that is in addition to the number of full years of service credited to an officer is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "a part of a year that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35 substituted "shall, if he applies for retirement, be retired on or after" for "shall be retired on", and substituted provisions relating to involuntary retirement as a result of age, for provisions relating to inapplicability to the Surgeon General.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35 substituted "shall, if he applies for retirement, be retired on or after" for"shall be retired on", and substituted provisions relating to involuntary retirement as a result of age, for provisions relating to inapplicability to the Surgeon General.
 
 Pub. L. 97–25 inserted provision that this paragraph does not apply to Surgeon General.
 
@@ -170,7 +170,7 @@ Pub. L. 86–415, §8(c), (d), Apr. 8, 1960, 74 Stat. 36, provided that:
 
 "(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[42 U.S.C. 212\], as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
-"(d) The limitation under subsection (f) of section 211 of the Public Health Service Act \[42 U.S.C. 212(f)\], as amended by this Act, on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960."
+"(d) The limitation under subsection (f) of section 211 of the Public Health Service Act \[42 U.S.C. 212(f)\], as amended by this Act, on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corpsof the Public Health Service on active duty on June 30, 1960."
 
 #### Coverage Under Civil Service Retirement Act
 

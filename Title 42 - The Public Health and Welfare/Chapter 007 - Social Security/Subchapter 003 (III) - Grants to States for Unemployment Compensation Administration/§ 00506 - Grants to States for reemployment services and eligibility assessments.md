@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Labor (in this section referred to as the "Secretary") shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for individuals referred to reemployment services as described in section 503(j) of this title for weeks in such fiscal year for which such individuals receive unemployment compensation.
+The Secretary of Labor (in this section referred to as the "Secretary") shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for claimants for regular compensation, including claimants referred to reemployment services as described in section 503(j) of this title, for weeks in such fiscal year for which such claimants receive unemployment compensation.
 
 #### (b) Purposes
 
@@ -40,7 +40,7 @@ The purposes of this section are to accomplish the following goals:
 
 #### (2) Funding limitation
 
-&emsp;A State shall use not more than 10 percent of grant funds awarded to the State under thissection to conduct or cause to be conducted evaluations of interventions used in carrying out a program under this section (including evaluations conducted pursuant to paragraph (1)).
+&emsp;A State shall use not more than 10 percent of grant funds awarded to the State under this section to conduct or cause to be conducted evaluations of interventions used in carrying out a program under this section (including evaluations conducted pursuant to paragraph (1)).
 
 #### (e) State plan
 
@@ -158,7 +158,7 @@ In this section:
 
 &emsp;The term unemployment compensation means "regular compensation", "extended compensation", and "additional compensation" (as such terms are defined by section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note)).
 
-(Aug. 14, 1935, ch. 531, title III, §306, as added Pub. L. 115–123, div. C, title II, §30206(a), Feb. 9, 2018, 132 Stat. 127.)
+(Aug. 14, 1935, ch. 531, title III, §306, as added Pub. L. 115–123, div. C, title II, §30206(a), Feb. 9, 2018, 132 Stat. 127; amended Pub. L. 118–120, §2(a), Nov. 25, 2024, 138 Stat. 1626.)
 
 #### <b>Editorial Notes</b>
 
@@ -166,5 +166,15 @@ In this section:
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 113–128, set out as a Short Title note under section 3101 of Title 29 and Tables.
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (f)(1)(A) and (i)(4), (5), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (f)(1)(A)and (i)(4), (5), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–120 substituted "claimants for regular compensation, including claimants referred to reemployment services as described in section 503(j) of this title," for "individuals referred to reemployment services as described in section 503(j) of this title" and "such claimants" for "such individuals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–120, §2(b), Nov. 25, 2024, 138 Stat. 1626, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Nov. 25, 2024\]."
 

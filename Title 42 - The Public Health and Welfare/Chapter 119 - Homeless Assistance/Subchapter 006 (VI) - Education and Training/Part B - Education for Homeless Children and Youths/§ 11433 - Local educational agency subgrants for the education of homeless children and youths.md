@@ -94,7 +94,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;&emsp;(H) How the local educational agency will use funds to serve homeless children and youths under section 1113(c)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6313(c)(3)).
 
-&emsp;&emsp;(I) The extent to which the applicant's program meets such other measures as the State educational agency considers indicative of a high-quality program, such as the extent to which the local educational agencywill provide case management or related services to unaccompanied youths.
+&emsp;&emsp;(I) The extent to which the applicant's program meets such other measures as the State educational agency considers indicative of a high-quality program, such as the extent to which the local educational agency will provide case management or related services to unaccompanied youths.
 
 #### (d) Authorized activities
 
@@ -138,7 +138,7 @@ A local educational agency may use funds awarded under this section for activiti
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -156,7 +156,7 @@ Subsec. (a)(4). Pub. L. 114–95, §9103(1)(C), added par. (4).
 
 Subsec. (b)(6), (7). Pub. L. 114–95, §9103(2), added pars. (6) and (7).
 
-Subsec. (c)(2). Pub. L. 114–95, §9103(3)(A)(i), substituted "early childhood education and other preschool programs, elementary schools, and secondaryschools," for "preschool, elementary, and secondary schools" in introductory provisions.
+Subsec. (c)(2). Pub. L. 114–95, §9103(3)(A)(i), substituted "early childhood education and other preschool programs, elementary schools, and secondary schools," for "preschool, elementary, and secondary schools" in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 114–95, §9103(3)(A)(ii), inserted "identification," before "enrollment,".
 
@@ -178,7 +178,7 @@ Subsec. (c)(3)(I). Pub. L. 114–95, §9103(3)(B)(iii), (v), redesignated subpar
 
 Subsec. (c)(4). Pub. L. 114–95, §9103(3)(C), struck out par. (4). Text read as follows: "Grants awarded under this section shall be for terms not to exceed 3 years."
 
-Subsec. (d)(1). Pub. L. 114–95, §9103(4)(A), substituted "the same challenging State academic standards as" for "the same challenging State academic content standards and challenging State student academic achievement standards".
+Subsec. (d)(1). Pub. L. 114–95, §9103(4)(A), substituted "the same challenging State academic standards as" for "the same challenging State academic contentstandards and challenging State student academic achievement standards".
 
 Subsec. (d)(2). Pub. L. 114–95, §9103(4)(B), substituted "English learners" for "students with limited English proficiency" and "career" for "vocational".
 

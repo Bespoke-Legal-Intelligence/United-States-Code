@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;&emsp;(A) work with private companies, States, worker organizations, nonprofit organizations, and institutions of higher education to ensure the development, application, production, and implementation of new and advanced technologies to promote the improvement of workers' skills, wages, job security, and working conditions, and a healthy environment;
 
-&emsp;&emsp;(B) encourage worker and worker organization participation in the development, commercialization, evaluation, selection, application, and implementation of new and advanced technologies in the workplace; and
+&emsp;&emsp;(B) encourage worker and worker organization participation in the development, commercialization, evaluation, selection,application, and implementation of new and advanced technologies in the workplace; and
 
 &emsp;&emsp;(C) promote the use and integration of new and advanced technologies in the workplace that enhance workers' skills.
 

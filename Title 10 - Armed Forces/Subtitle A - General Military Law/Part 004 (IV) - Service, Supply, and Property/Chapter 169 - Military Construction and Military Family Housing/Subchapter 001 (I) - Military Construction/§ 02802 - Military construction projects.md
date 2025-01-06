@@ -42,7 +42,7 @@
 
 &emsp;(C) if such impact cannot be avoided, to develop feasible measures consistent with applicable law to mitigate the impact and estimate the cost of the mitigation measures.
 
-(2) As part of the Department of Defense Form 1391 submitted to the appropriate committees ofCongress for a military construction project covered by paragraph (1), the Secretary concerned, to the extent possible at the time of such submission, shall include a description of the current status of the consultation conducted under such paragraph and specifically address each of the items specified in subparagraphs (A), (B), and (C) of such paragraph.
+(2) As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a military construction project covered by paragraph (1), the Secretary concerned, to the extent possible at the time of such submission, shall include a description of the current status of the consultation conducted under such paragraph and specifically address each of the items specified in subparagraphs (A), (B), and (C) of such paragraph.
 
 (3) The requirement under paragraph (1) does not affect the obligation of the Secretary concerned to comply with any other applicable consultation requirement pursuant to law or Department of Defense policy.
 
@@ -97,6 +97,244 @@ Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, pro
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Pilot Program To Optimize and Consolidate Department of Defense Facilities To Improve Health and Resiliency in Defense Communities
+
+Pub. L. 118–159, div. B, title XXVIII, §2848, Dec. 23, 2024, 138 Stat. 2266, provided that:
+
+"(a)
+
+Establishment.—Using funds available for minor military construction, the Secretary of Defense may conduct a pilot program to—
+
+&emsp;"(1) conduct a study to assess the feasability \[sic\] and effectiveness of the implementation of a more comprehensive initiative to optimize the total square footage of facilities maintained by the Department of Defense; and
+
+&emsp;"(2) subject to the requirements of subsection (b) carry out military construction projects, not otherwise authorized by law, to—
+
+&emsp;&emsp;"(A) optimize and consolidate facilities, including leased facilities, to ensure the scale and scope of the infrastructure footprint of such facilities aligns with the operational needs of the Department; and
+
+&emsp;&emsp;"(B) create more resilient and healthy communities located on military installations.
+
+"(b)
+
+Military Construction Projects Authorized.—
+
+&emsp;"(1)
+
+Requirements.—The Secretary may carry out a military construction project under such pilot program if—
+
+&emsp;&emsp;"(A) the facilities subject to such a military construction project are occupied as of the date of the commencement of such military construction project;
+
+&emsp;&emsp;"(B) except as provided in paragraph (2), such facilities are demolished pursuant to such military construction project;
+
+&emsp;&emsp;"(C) in the case of a facility subject to such a military construction project that is leased by the Department, the Secretary terminates the lease for such facility, expect as provided in paragraph (2); and
+
+&emsp;&emsp;"(D) the military construction project will result in new facilities that have at least 20 percent less square footage (or equivalent unit of measure) than the facilities subject to such military construction project;
+
+&emsp;&emsp;"(E) the Secretary conducts an economic analysis of the military construction project that accounts for anticipated cost requirements for the design, construction, sustainment, restoration, modernization, operation, and demolition of new and existing facilities subject to such military construction project; and
+
+&emsp;&emsp;"(F) the results of such economic analysis support a positive net present value over a 20-year period.
+
+&emsp;"(2)
+
+Exception.—The requirements of subparagraphs (B) and (C) of paragraph (1) shall not apply to a facility that is subject to a military construction project under the pilot program if the Secretary determines that such facility will be an integral part of new facilities constructed pursuant to such military construction project.
+
+&emsp;"(3)
+
+Project cost.—A military construction project carried out under such pilot program may not exceed a total cost of $25,000,000.
+
+&emsp;"(4)
+
+Limitation.—Not more than five military construction projects may be carried out under the pilot program.
+
+"(c)
+
+Congressional Notification.—
+
+&emsp;"(1)
+
+In general.—Not later than 14 days before awarding a contract for a military construction project under such pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of such military construction project.
+
+&emsp;"(2)
+
+Elements.—Such notice shall include, with respect to the military construction project covered by such notice—
+
+&emsp;&emsp;"(A) the justification and current cost estimate;
+
+&emsp;&emsp;"(B) the expected savings-to-investment ratio;
+
+&emsp;&emsp;"(C) simple payback estimates;
+
+&emsp;&emsp;"(D) the measurement and verification cost estimate; and
+
+&emsp;&emsp;"(E) a description of how the project would improve the functions of the supported military department and the efficient management of real property of the Department of Defense.
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 18 months after the date of the enactment of this section \[Dec. 23, 2024\], the Secretary shall submit to the congressional defense committees a report on completed military construction projects carried out pursuant to the pilot program.
+
+&emsp;"(2)
+
+Elements.—Such report shall include, for each military construction project covered by the report, the following:
+
+&emsp;&emsp;"(A) The title and location of the military construction project, a brief description of the scope of work, the original project cost estimate, and the completed total project cost.
+
+&emsp;&emsp;"(B) The original expected savings-to-investment ratio, simple payback estimates included in the notice required under subsection (c), annual recurring savings, 20-year net present value, annual return on investment, and measurement and verification cost estimate.
+
+&emsp;&emsp;"(C) The actual savings-to-investment ratio, and simple payback estimates, annual recurring savings, 20-year net present value, annual return on investment, and measurement and verification cost estimate.
+
+&emsp;&emsp;"(D) A brief description of the measurement and verification plan and planned funding source, to include the net change in the square footage (or other unit of measure) reduction accomplished by the military construction project.
+
+&emsp;&emsp;"(E) How the military construction project improved the functions of and the efficient management of real property by the supported military department or entity using the applicable facility.
+
+&emsp;&emsp;"(F) Such other information as the Secretary considers appropriate.
+
+"(e)
+
+Sunset.—
+
+&emsp;"(1)
+
+Termination date.—Except as provided in paragraph (2), the authority of the Secretary to carry out a military construction project under the pilot program shall terminate on the date that is three years after the date of the enactment of this section.
+
+&emsp;"(2)
+
+Exception.—If the Secretary submits a congressional notification under subsection (d) before the date that is three years after the date of the enactment of this section, the covered project that is the subject of such notification may be carried out to completion.
+
+"(f)
+
+Definitions.—In this section, the terms 'facility' and 'military construction project' have the meanings given such terms, respectively, in section 2801 of title 10, United States Code."
+
+#### Guidance Regarding Maintenance of Aggregate Square Footage of Facilities of Department of Defense
+
+Pub. L. 118–159, div. B, title XXVIII, §2849, Dec. 23, 2024, 138 Stat. 2268, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall issue guidance regarding the maintenance of the aggregate square footage of facilities of the Department of Defense, which shall be designated as '1 in 1 out guidance', pursuant to the requirements of this section.
+
+"(b)
+
+Maintenance of Square Footage.—Guidance required under subsection (a) shall ensure that every square footage of growth of a facility is offset with an equivalent reduction in square footage by—
+
+&emsp;"(1) a funded disposal action; or
+
+&emsp;"(2) identifying facilities to be entered into a contingency operational status.
+
+"(c)
+
+Documentation.—Upon completion of the design phase of a project that results in the growth of a facility, the Secretary of Defense shall update the Department of Defense Form 1391 for such project to identify the reduction in square footage to accompany such increase.
+
+"(d)
+
+Submission.—Not later than 15 days after the date of submission of the defense budget materials for fiscal year 2026 (as submitted to Congress in support of the budget of the President under section 1105(a) of title 31, United States Code), and for each subsequent submission thereafter, each Secretary of a military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]—
+
+&emsp;"(1) a list of facilities scheduled for a disposal action described in subsection (b) for the fiscal year covered by the submission and the subsequent fiscal year; and
+
+&emsp;"(2) a list of facilities, disaggregated by military installation, for which a disposal action has been completed during the fiscal year preceding the date of the submission.
+
+"(e)
+
+Application.—This section and the requirements of this section shall apply to—
+
+&emsp;"(1) military construction or unspecified minor military construction (as defined under section 2805 of title 10, United States Code) funded in fiscal year 2027 or a subsequent fiscal year; and
+
+&emsp;"(2) other sources of growth on or after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(f)
+
+Exceptions.—This section and the requirements of this section do not apply to the following:
+
+&emsp;"(1) The Sentinel intercontinental ballistic missile weapon system program.
+
+&emsp;"(2) Public shipyards covered by the Shipyard Infrastructure Optimization Program.
+
+&emsp;"(3) MHPI housing (as defined under section 606 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2871 note).
+
+"(g)
+
+Growth of a Facility Defined.—In this section, the term 'growth of a facility' means, with respect to a facility (as defined in section 2801 of title 10, United States Code), an increase in the square footage of such facility due to—
+
+&emsp;"(1) carrying out a military construction project or an unspecified minor military construction project (pursuant to section 2805 of title 10, United States Code);
+
+&emsp;"(2) acquisition of an existing facility on land owned by a military department;
+
+&emsp;"(3) a gift of construction;
+
+&emsp;"(4) construction of a facility carried out through the use of nonappropriated funds, private funds, or family housing funds, if the facility will be sustained with appropriated operation and maintenance funds; or
+
+&emsp;"(5) the use of appropriated funds to sustain a facility that was previously sustained with nonappropriated funds, private funds, or family housing funds."
+
+#### Notification to Members of Congress for Awards of Contracts for Military Construction Projects
+
+Pub. L. 118–159, div. B, title XXVIII, §2874, Dec. 23, 2024, 138 Stat. 2283, provided that:
+
+"(a)
+
+Notification Required.—Not later than 30 days after the date of award of a contract for a military construction project, the Secretary of the military department with jurisdiction over such project shall notify the following Members of Congress:
+
+&emsp;"(1) Any Member representing the State in which such contract will be performed.
+
+&emsp;"(2) Any Member representing the State in which the contractor awarded such contract is a constituent of such Member.
+
+"(b)
+
+Elements.—A notification under subsection (a) shall include the following:
+
+&emsp;"(1) The proposed value of the contract.
+
+&emsp;"(2) The contractor awarded the contract.
+
+&emsp;"(3) A brief description of the project that is the subject of the contract, including the location in which the contract will be performed."
+
+#### Designation of Officials Responsible for Coordination of Infrastructure Projects To Support Additional Members of the Armed Forces and Their Families in the Indo-Pacific Region
+
+Pub. L. 118–159, div. B, title XXVIII, §2880, Dec. 23, 2024, 138 Stat. 2290, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall designate two officials employed by the Department of Defense or a military department as of the date of the enactment of this Act as follows:
+
+&emsp;"(1) One official shall be responsible for coordination of infrastructure projects to support additional members of the Armed Forces and their families in Hawaii.
+
+&emsp;"(2) One official shall be responsible for coordination of infrastructure projects to support additional members of the Armed Forces and their families in Guam and the Northern Mariana Islands.
+
+"(b)
+
+Duties.—Each official described in subsection (a) shall, in coordination with appropriate officials fromthe military departments and the United States Indo-Pacific Command—
+
+&emsp;"(1) coordinate Department of Defense-wide efforts relating to the infrastructure needs associated with the significant addition of members of the Armed Forces and their families to the region for which such official is the designated official pursuant to subsection (a) during the 10-year period following the date of the enactment of this Act;
+
+&emsp;"(2) analyze the expected impact on State and local government services of—
+
+&emsp;&emsp;"(A) military infrastructure projects in the designated region of such official; and
+
+&emsp;&emsp;"(B) the significant addition of members of the Armed Forces and their families as described in paragraph (1); and
+
+&emsp;"(3) ensure clear and consistent communication to State and local elected officials and the public in the designated region of such official regarding the infrastructure needs and priorities of the Department of Defense, including conveying any finding or conclusion regarding the expected impact described in paragraph (2)(B).
+
+"(c)
+
+Selection.—
+
+&emsp;"(1)
+
+Hawaii.—For the designation under paragraph (1) \[of\] subsection (a), the Secretary of Defense may appoint an individual with significant background and expertise in—
+
+&emsp;&emsp;"(A) the legal and technical aspects of city planning, State and local government services, and military infrastructure; and
+
+&emsp;&emsp;"(B) liaising with State and local elected officials and the public.
+
+&emsp;"(2)
+
+Guam and the northern mariana islands.—For the designation under paragraph (2) of subsection (a), the Secretary of Defense shall appoint the Under Secretary of the Navy.
+
+"(d)
+
+Notification.—For the designations under paragraph (1) and paragraph (2) of subsection (a), the Secretary of Defense shall, not later than 30 days after the date of the designation, submit to the congressional defense committees and the Governor of Hawaii or the Governors of Guam and the Northern Mariana Islands, respectively, a notification that includes the name and contact information of the individual so designated."
 
 #### Inclusion on Department of Defense Form 1391 of Information on Consideration of Certain Methods of Construction for Certain Military Construction Projects
 
@@ -316,7 +554,7 @@ Definitions.—In this section:
 
 #### Pilot Program on Increased Use of Sustainable Building Materials in Military Construction
 
-Pub. L. 117–81, div. B, title XXVIII, §2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div.B, title XXVIII, §2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, §2871, Dec. 22, 2023, 137 Stat. 775, provided that:
+Pub. L. 117–81, div. B, title XXVIII, §2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, §2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, §2871, Dec. 22, 2023, 137 Stat. 775, provided that:
 
 "(a)
 
@@ -590,7 +828,7 @@ In general.—The Secretary of Defense shall modify Department of Defense Form 1
 
 &emsp;&emsp;"(A) disclosure whether a proposed project will be sited within or partially within a 100-year floodplain or a 500-year floodplain if outside a 100-year floodplain, according to the most recent available Federal Emergency Management Agency flood hazard data, or will be impacted by projected current and future mean sea level fluctuations over the lifetime of the project; and
 
-&emsp;&emsp;"(B) if the proposed project will be sited within or partially within a floodplain described in subparagraph (A) or will be impacted by projected current and future mean sea level fluctuations over the lifetime of the project, the specific risk mitigation plan.
+&emsp;&emsp;"(B) if the proposed project will be sited within or partially within a floodplain described in subparagraph (A) or will be impacted by projected currentand future mean sea level fluctuations over the lifetime of the project, the specific risk mitigation plan.
 
 &emsp;"(2)
 

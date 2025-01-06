@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after the date of enactment of the Consolidated Appropriations Act, 2021, and not later than June 1 of each year thereafter, a group health plan shall submit to the Secretary, the Secretary of Health and Human Services, and the Secretary of Labor the following information with respect to the health plan in the previous plan year:
+Not later than 1 year after the date of enactment of the Consolidated Appropriations Act, 2021, and not later than June 1 of each yearthereafter, a group health plan shall submit to the Secretary, the Secretary of Health and Human Services, and the Secretary of Labor the following information with respect to the health plan in the previous plan year:
 
 &emsp;(1) The beginning and end dates of the plan year.
 

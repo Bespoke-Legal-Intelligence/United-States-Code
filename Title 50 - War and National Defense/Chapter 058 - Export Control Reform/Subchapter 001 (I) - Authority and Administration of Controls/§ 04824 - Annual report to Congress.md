@@ -20,7 +20,7 @@ The Secretary shall submit to Congress, by December 31 of each year, a report on
 
 &emsp;(8) efforts undertaken within the previous year to comply with the requirements of section 4817 <sup>1</sup> of this title, including any critical technologies identified under such section and how or whether such critical technologies were controlled for export; and
 
-&emsp;(9) a summary of industrial base assessments conducted during the previous year by the Department of Commerce, including with respect to counterfeit electronics, foundational technologies, and other research and analysis of critical technologies and industrial capabilities of key defense-related sectors.
+&emsp;(9) a summary of industrial base assessments conducted during the previous year by the Department of Commerce, including with respectto counterfeit electronics, foundational technologies, and other research and analysis of critical technologies and industrial capabilities of key defense-related sectors.
 
 #### (b) Form
 

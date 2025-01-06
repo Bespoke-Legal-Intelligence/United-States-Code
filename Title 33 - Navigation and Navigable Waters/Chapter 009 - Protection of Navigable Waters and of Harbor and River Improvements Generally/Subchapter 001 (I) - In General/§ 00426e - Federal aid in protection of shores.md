@@ -20,7 +20,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### (1) In general
 
-&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 ofthis title as amended and supplemented, or, in the case of a small project under section 426g or 426h <sup>2</sup> of this title, unless the plan therefor has been approved by the Chief of Engineers.
+&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h <sup>2</sup> of this title, unless the plan therefor has been approved by the Chief of Engineers.
 
 #### (2) Studies
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 104–303, §227(b), (e)(2)(B), inserted subsec. heading, d
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–611 provided for designation of existing provisions as cls. (1) and (2) by insertion of "(1)" after "except that" and substitution of "(2)" for "and, further, that" and added cl. (3).
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–874, §103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protectionof State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
+<b>1962</b>—Subsec. (b). Pub. L. 87–874, §103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
 
 Subsec. (e). Pub. L. 87–874, §103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title.
 
@@ -112,7 +112,7 @@ Pub. L. 106–541, title II, §220, Dec. 11, 2000, 114 Stat. 2596, provided that
 
 #### Shore Management Program
 
-Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potential inequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secretary to submit to Congress a report of the review by Aug. 17, 1999.
+Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potentialinequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secretary to submit to Congress a report of the review by Aug. 17, 1999.
 
 #### Report on Shores of the United States
 

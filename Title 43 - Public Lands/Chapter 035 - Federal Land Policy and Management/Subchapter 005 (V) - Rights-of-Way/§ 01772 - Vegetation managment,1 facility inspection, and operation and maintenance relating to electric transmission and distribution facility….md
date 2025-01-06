@@ -114,7 +114,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the timely review of modifications of the plans in cases in which modifications are necessary;
 
-&emsp;&emsp;&emsp;(ii) is consistent with applicable law; and <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) is consistent with applicable law; and <sup>2</sup>
 
 &emsp;&emsp;&emsp;(iii) includes a process for modifications to a plan in a prompt manner if changed conditions necessitate a modification to a plan; and
 
@@ -204,7 +204,7 @@ If vegetation or hazard trees have contacted or present an imminent danger of co
 
 #### (3) Rule of construction
 
-&emsp;Nothing in paragraph (2) shall be construed to effect <sup>1</sup> any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
+&emsp;Nothing in paragraph (2) shall be construed to effect <sup>2</sup> any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
 
 #### (h) Reporting requirement
 
@@ -496,5 +496,5 @@ Duration.—The authority to carry out the pilot program, including any vegetati
 
 <i><sup>1</sup></i><i> So in original. Probably should be "management,".</i>
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

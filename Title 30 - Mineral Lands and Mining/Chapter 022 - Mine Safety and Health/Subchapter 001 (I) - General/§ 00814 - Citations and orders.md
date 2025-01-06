@@ -6,7 +6,7 @@ If, upon inspection or investigation, the Secretary or his authorized representa
 
 #### (b) Follow-up inspections; findings
 
-If, upon any follow-up inspection of a coal or other mine, an authorized representative of the Secretary finds (1) that a violation described in a citation issued pursuant to subsection (a) has not been totally abated within the period oftime as originally fixed therein or as subsequently extended, and (2) that the period of time for the abatement should not be further extended, he shall determine the extent of the area affected by the violation and shall promptly issue an order requiring the operator of such mine or his agent to immediately cause all persons, except those persons referred to in subsection (c), to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
+If, upon any follow-up inspection of a coal or other mine, an authorized representative of the Secretary finds (1) that a violation described in a citation issued pursuant to subsection (a) has not been totally abated within the period of time as originally fixed therein or as subsequently extended, and (2) that the period of time for the abatement should not be further extended, he shall determine the extent of the area affected by the violation and shall promptly issue an order requiring the operator of such mine or his agent to immediately cause all persons, except those persons referred to in subsection (c), to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
 
 #### (c) Exempt persons
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 #### Effective Date
 
-Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for inPub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 

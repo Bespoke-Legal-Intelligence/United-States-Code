@@ -128,7 +128,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit agency that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including theindependent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
+&emsp;&emsp;Each nonprofit agency that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney Generalshall make the information disclosed under this subparagraph available for public inspection.
 
 #### (3) Conference expenditures
 

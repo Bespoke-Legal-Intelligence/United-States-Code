@@ -58,7 +58,7 @@ The Attorney General shall make grants to eligible entities in accordance with t
 
 &emsp;&emsp;&emsp;(iii) a victim service provider; and
 
-&emsp;&emsp;&emsp;(iv) a nonprofit program or government agency with demonstrated experience in assisting individuals 50 years of age or over.
+&emsp;&emsp;&emsp;(iv) a nonprofit program or government agency with demonstrated experience inassisting individuals 50 years of age or over.
 
 #### (3) Underserved populations
 

@@ -36,7 +36,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(4). Pub. L. 113–128 substituted "Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act" for "Any employment or training program carried out under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
+<b>2014</b>—Subsec. (a)(4). Pub. L. 113–128 substituted "Any employment or training program carried out undertitle I of the Workforce Innovation and Opportunity Act" for "Any employment or training program carried out under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 
 <b>2000</b>—Pub. L. 106–419 amended text generally. Prior to amendment, text read as follows: "Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds."
 

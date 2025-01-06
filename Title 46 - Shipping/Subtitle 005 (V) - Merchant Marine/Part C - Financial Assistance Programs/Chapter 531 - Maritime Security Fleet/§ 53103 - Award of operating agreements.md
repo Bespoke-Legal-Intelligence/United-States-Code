@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall require, as a condition of including any vessel in the Fleet, that the person that is the owner or operator of the vessel for purposes of section 53102(c) enter into an operating agreement with the Secretary under this section.
+In General.—The Secretary shall require, as a condition of including any vessel in theFleet, that the person that is the owner or operator of the vessel for purposes of section 53102(c) enter into an operating agreement with the Secretary under this section.
 
 (b)
 
@@ -10,7 +10,7 @@ Extension of Existing Operating Agreements.—
 
 &emsp;(1)
 
-Offer to extend.—Not later than 60 days after the date of enactment of this paragraph, the Secretary shall offer, to an existing contractor, to extend, through September 30, 2035, an operating agreement that is in existence on the date of enactment of this paragraph. The terms and conditions of the extended operating agreement shall include terms and conditions authorized under this chapter, as amended from time to time.
+Offer to extend.—Not later than 60 days after the date of enactment of this paragraph, the Secretary shall offer, to an existing contractor, to extend, through September 30, 2040, an operating agreement that is in existence on the date of enactment of this paragraph. The terms and conditions of the extended operating agreement shall include terms and conditions authorized under this chapter, as amended from time to time.
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ Time limit.—An existing contractor shall have not later than 120 days after th
 
 &emsp;(3)
 
-Subsequent award.—The Secretary may award an operating agreement to an applicant that is eligible to enter into an operating agreement for fiscal years 2016 through 2035 if the existing contractor does not agree to the extended operating agreement under paragraph (2).
+Subsequent award.—The Secretary may award an operating agreement to an applicant that is eligible to enter into an operating agreement for fiscal years 2016 through 2040 if the existing contractor does not agree to the extended operating agreement under paragraph (2).
 
 (c)
 
@@ -28,7 +28,7 @@ Procedure for Awarding New Operating Agreements.—The Secretary may enter into 
 
 Limitation.—The Secretary may not award operating agreements under this chapter that require payments under section 53106 for a fiscal year for more than 60 vessels.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1808; amended Pub. L. 109–304, §13(a)(2), Oct. 6, 2006, 120 Stat. 1700; Pub. L. 109–364, div. C, title XXXV, §3502(b)(1), Oct. 17, 2006, 120 Stat. 2515; Pub. L. 112–239, div. C, title XXXV, §3508(c), Jan. 2, 2013, 126 Stat. 2224; Pub. L. 116–92, div. C, title XXXV, §3502(a), Dec. 20, 2019, 133 Stat. 1969.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1808; amended Pub. L. 109–304, §13(a)(2), Oct. 6, 2006, 120 Stat. 1700; Pub. L. 109–364, div. C, title XXXV, §3502(b)(1), Oct. 17, 2006, 120 Stat. 2515; Pub. L. 112–239, div. C, title XXXV, §3508(c), Jan. 2, 2013, 126 Stat. 2224; Pub. L. 116–92, div. C, title XXXV, §3502(a), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 118–159, div. C, title XXXV, §3502(a), Dec. 23, 2024, 138 Stat. 2304.)
 
 #### <b>Editorial Notes</b>
 
@@ -38,13 +38,15 @@ The date of enactment of this paragraph, referred to in subsec. (b)(1), probably
 
 #### Amendments
 
+<b>2024</b>—Subsec. (b)(1), (3). Pub. L. 118–159 substituted "2040" for "2035".
+
 <b>2019</b>—Subsec. (b)(1), (3). Pub. L. 116–92 substituted "2035" for "2025".
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239, §3508(c)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to procedure for applications.
 
 Subsec. (c). Pub. L. 112–239, §3508(c)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to priority for awarding agreements.
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304, §13(a)(2)(A)–(C), substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in subpars. (A)(iii) and (C)(i) and (ii), "applying subparagraph" for"applying subparagraphs" in subpar. (B), and "section 50501" for "section 2" in subpar. (C) heading.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304, §13(a)(2)(A)–(C), substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in subpars. (A)(iii) and (C)(i) and (ii), "applying subparagraph" for "applying subparagraphs" in subpar. (B), and "section 50501" for "section 2" in subpar. (C) heading.
 
 Subsec. (c)(3)(B). Pub. L. 109–304, §13(a)(2)(D), substituted "agreements" for "agreement".
 

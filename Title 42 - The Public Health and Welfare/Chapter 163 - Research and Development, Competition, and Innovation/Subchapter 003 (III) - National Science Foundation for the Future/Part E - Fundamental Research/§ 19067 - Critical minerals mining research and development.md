@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) assess the progress towards developing critical materials recycling and reprocessing technologies, and technological alternatives to critical materials;
 
-&emsp;&emsp;(C) establish a mechanism for the coordination and evaluation of Federal programs with critical material needs, including Federal programs involving research and development, in a manner that complements related efforts carried out by the private sector and other domestic and international agencies and organizations;
+&emsp;&emsp;(C) establish a mechanism for the coordination and evaluation of Federal programswith critical material needs, including Federal programs involving research and development, in a manner that complements related efforts carried out by the private sector and other domestic and international agencies and organizations;
 
 &emsp;&emsp;(D) examine options for accessing and developing critical materials through investment and trade with our allies and partners and provide recommendations;
 

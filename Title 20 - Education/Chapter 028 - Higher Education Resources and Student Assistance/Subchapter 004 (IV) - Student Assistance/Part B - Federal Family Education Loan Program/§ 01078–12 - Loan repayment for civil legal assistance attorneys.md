@@ -84,7 +84,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 &emsp;&emsp;(B) if the borrower is involuntarily separated from employment on account of misconduct, or voluntarily separates from employment, before the end of the period specified in the agreement, the borrower will repay the Secretary the amount of any benefits received by such employee under this agreement;
 
-&emsp;&emsp;(C) if the borrower is required to repay an amount to the Secretary under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from theemployee by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
+&emsp;&emsp;(C) if the borrower is required to repay an amount to the Secretary under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
 
 &emsp;&emsp;(D) the Secretary may waive, in whole or in part, a right of recovery under this subsection if it is shown that recovery would be contrary to the public interest; and
 

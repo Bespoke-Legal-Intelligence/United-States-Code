@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any adjustable rate mortgage loan originated by a creditor shall include a limitation on themaximum interest rate that may apply during the term of the mortgage loan.
+Any adjustable rate mortgage loan originated by a creditor shall include a limitation on the maximum interest rate that may apply during the term of the mortgage loan.
 
 #### (b) Regulations
 

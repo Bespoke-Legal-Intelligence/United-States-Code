@@ -1,6 +1,6 @@
 ### §§4614 to 4621. Repealed. Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232
 
-Section 4614, Pub. L. 96–72, §12, Sept. 29, 1979, 93 Stat. 530; Pub. L. 97–145, §§3, 5, Dec. 29, 1981, 95 Stat. 1727, 1728; Pub. L. 99–64, title I, §113, July 12, 1985, 99 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title II, §2427, Aug. 23, 1988, 102 Stat. 1361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to enforcement authority under this chapter. See section 4820 of this title.
+Section 4614, Pub. L. 96–72, §12, Sept. 29, 1979, 93 Stat. 530; Pub. L. 97–145, §§3, 5, Dec. 29, 1981, 95 Stat. 1727, 1728; Pub. L. 99–64, title I, §113, July 12, 1985, 99 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title II, §2427, Aug. 23, 1988, 102 Stat. 1361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210,related to enforcement authority under this chapter. See section 4820 of this title.
 
 Section 4615, Pub. L. 96–72, §13, Sept. 29, 1979, 93 Stat. 531; Pub. L. 99–64, title I, §114, July 12, 1985, 99 Stat. 150; Pub. L. 100–418, title II, §2428, Aug. 23, 1988, 102 Stat. 1361, related to administrative procedure and judicial review. See section 4821 of this title.
 

@@ -24,7 +24,7 @@ The Superintendent of Documents shall furnish, without cost, copies of publicati
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §215a (Jan. 12, 1895, ch. 23, §—, as added June 17, 1935, ch. 267, 49 Stat. 386, and amended June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Oct. 15, 1966, Pub. L. 89–678, 80 Stat. 956.)
+Based on 44 U.S. Code, 1964 ed., §215a (Jan. 12, 1895, ch. 23, §—, as added June 17, 1935, ch. 267, 49 Stat. 386, andamended June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Oct. 15, 1966, Pub. L. 89–678, 80 Stat. 956.)
 
 #### <b>Editorial Notes</b>
 

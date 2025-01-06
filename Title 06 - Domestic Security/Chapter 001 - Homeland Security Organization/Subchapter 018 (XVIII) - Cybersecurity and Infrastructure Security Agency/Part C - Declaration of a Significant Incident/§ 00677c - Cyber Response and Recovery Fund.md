@@ -36,7 +36,7 @@ There is established a Cyber Response and Recovery Fund, which shall be availabl
 
 &emsp;&emsp;(A) appropriations to the Fund for activities of the Fund; and
 
-&emsp;&emsp;(B) reimbursement from Federal agencies for the activities described in paragraphs (1),\(2), and (4) of subsection (a), which shall only be from amounts made available in advance in appropriations Acts for such reimbursement.
+&emsp;&emsp;(B) reimbursement from Federal agencies for the activities described in paragraphs (1), (2), and (4) of subsection (a), which shall only be from amounts made available in advance in appropriations Acts for such reimbursement.
 
 #### (2) Expenditures
 

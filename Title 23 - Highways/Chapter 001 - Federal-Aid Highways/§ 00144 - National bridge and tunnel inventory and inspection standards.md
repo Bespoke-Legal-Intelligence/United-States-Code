@@ -32,7 +32,7 @@ Declarations.—Congress declares that it is in the vital interest of the United
 
 National Bridge and Tunnel Inventories.—The Secretary, in consultation with the States and Federal agencies with jurisdiction over highway bridges and tunnels, shall—
 
-&emsp;(1) inventory all highway bridges on public roads, on and off Federal-aid highways, including tribally owned and Federally owned bridges, that are bridges over waterways,other topographical barriers, other highways, and railroads;
+&emsp;(1) inventory all highway bridges on public roads, on and off Federal-aid highways, including tribally owned and Federally owned bridges, that are bridges over waterways, other topographical barriers, other highways, and railroads;
 
 &emsp;(2) inventory all tunnels on public roads, on and off Federal-aid highways, including tribally owned and Federally owned tunnels;
 
@@ -412,7 +412,7 @@ Subsecs. (p) to (s). Pub. L. 110–244, §101(m)(1)(G), redesignated subsecs. (p
 
 Subsec. (d). Pub. L. 109–59, §1114(b), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text related to approval of Federal participation in replacement or rehabilitation of bridges.
 
-Subsec. (e). Pub. L. 109–59, §1114(c), in third sentence, substituted "deck area" for "square footage", in fourth sentence, struck out "the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services, and," after "For purposes of the preceding sentence,", and, in seventh sentence, substituted "for the period specified in section 118(b)(2)" for "for the same period as funds apportioned for projects on the Federal-aid primary system under this title".
+Subsec. (e). Pub. L. 109–59, §1114(c), in third sentence, substituted "deck area" for "square footage", in fourthsentence, struck out "the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services, and," after "For purposes of the preceding sentence,", and, in seventh sentence, substituted "for the period specified in section 118(b)(2)" for "for the same period as funds apportioned for projects on the Federal-aid primary system under this title".
 
 Subsec. (g). Pub. L. 109–59, §1114(e)(2)(A), substituted "
 
@@ -588,7 +588,7 @@ Pub. L. 100–17, title I, §123(d)(2), Apr. 2, 1987, 101 Stat. 162, provided th
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect October 1, 1982, and shall apply with respect to each fiscal year beginning on or after such date. Notwithstanding subsection (e) of \[former\] section 144 of title 23, United States Code, as soon as practical after the date of enactment of this Act \[Jan. 6, 1983\], the Secretary of Transportation shall apportion under such subsection (e), as amended by subsection (a) of this section, sums authorized to be appropriated to carry outsuch section 144 for the fiscal year ending September 30, 1983."
+Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect October 1, 1982, and shall apply with respect to each fiscal year beginning on or after such date. Notwithstanding subsection (e) of \[former\] section 144 of title 23, United States Code, as soon as practical after the date of enactment of this Act \[Jan. 6, 1983\], the Secretary of Transportation shall apportion under such subsection (e), as amended by subsection (a) of this section, sums authorized to be appropriated to carry out such section 144 for the fiscal year ending September 30, 1983."
 
 #### Termination of Reporting Requirements
 
@@ -640,7 +640,7 @@ Pub. L. 100–17, title I, §123(f)(3), Apr. 2, 1987, 101 Stat. 163, provided fo
 
 #### Study of Highway Bridges Which Cross Rail Lines; Report
 
-Pub. L. 100–17, title I, §160, Apr. 2, 1987, 101 Stat. 212, directed Secretary to conduct a comprehensive study and investigation of improvement and maintenance needs for highway bridges which cross rail lines and whose ownership has been disputed and, not later than 30 months after Apr. 2, 1987, submit to Congress a report on the study and investigation along with recommendations on how the bridge needs could best be addressed on a long term basis in a cost-effective manner.
+Pub. L. 100–17, title I, §160, Apr. 2, 1987, 101 Stat. 212, directed Secretary to conduct a comprehensive studyand investigation of improvement and maintenance needs for highway bridges which cross rail lines and whose ownership has been disputed and, not later than 30 months after Apr. 2, 1987, submit to Congress a report on the study and investigation along with recommendations on how the bridge needs could best be addressed on a long term basis in a cost-effective manner.
 
 #### Four-Lane Bridges
 
@@ -660,5 +660,5 @@ Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secre
 
 #### Acceleration of Bridge Projects; Ohio River Bridge Fund Reprogramming; Reports to Congress
 
-Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directedSecretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary to report to Congress within a year after the completion of these bridges.
+Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directed Secretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary to report to Congress within a year after the completion of these bridges.
 

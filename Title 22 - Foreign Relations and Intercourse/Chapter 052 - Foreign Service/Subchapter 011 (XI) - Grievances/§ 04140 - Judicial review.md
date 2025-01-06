@@ -6,7 +6,7 @@
 
 (2) With respect to a grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, judicial review of whether the act, omission, or condition that is the basis of the grievance violates such law, rule, regulation, or policy directive may be obtained by an aggrieved party only if such party commences a civil action, not later than 90 days after such party receives notice of the final action of the Secretary or the Board, in an appropriate district court of the United States for de novo review.
 
-(Pub. L. 96–465, title I, §1110, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 102–138, title I, §153(e), Oct. 28, 1991, 105 Stat. 674; Pub. L. 103–236, title I, §177(b), Apr. 30, 1994, 108 Stat. 414.)
+(Pub. L. 96–465, title I, §1110, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 102–138, title I, §153(e), Oct. 28,1991, 105 Stat. 674; Pub. L. 103–236, title I, §177(b), Apr. 30, 1994, 108 Stat. 414.)
 
 #### <b>Editorial Notes</b>
 

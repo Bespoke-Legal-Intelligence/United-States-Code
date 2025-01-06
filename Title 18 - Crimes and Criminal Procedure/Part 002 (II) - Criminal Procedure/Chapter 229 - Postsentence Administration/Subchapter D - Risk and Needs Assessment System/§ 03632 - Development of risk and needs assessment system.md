@@ -112,9 +112,9 @@ Ineligible prisoners.—A prisoner is ineligible to receive time credits under t
 
 &emsp;&emsp;&emsp;(v) Section 111(b), relating to assaulting, resisting, or impeding certain officers or employees using a deadly or dangerous weapon or inflicting bodily injury.
 
-&emsp;&emsp;&emsp;(vi) Paragraph (1), (7), or (8) of section 113(a), relating to assault with intent to commit murder, assault resulting in substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years, or assault of a spouse, intimatepartner, or dating partner by strangling, suffocating, or attempting to strangle or suffocate.
+&emsp;&emsp;&emsp;(vi) Paragraph (1), (7), or (8) of section 113(a), relating to assault with intent to commit murder, assault resulting in substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years, or assault of a spouse, intimate partner, or dating partner by strangling, suffocating, or attempting to strangle or suffocate.
 
-&emsp;&emsp;&emsp;(vii) Section 115, relating to influencing, impeding, or retaliating against a Federal official by injuring a family member, except for a threat made in violation of that section.
+&emsp;&emsp;&emsp;(vii) Section 115, relating to influencing, impeding, or retaliating against a Federalofficial by injuring a family member, except for a threat made in violation of that section.
 
 &emsp;&emsp;&emsp;(viii) Section 116, relating to female genital mutilation.
 
@@ -202,7 +202,7 @@ Ineligible prisoners.—A prisoner is ineligible to receive time credits under t
 
 &emsp;&emsp;&emsp;(l) Section 2442, relating to the recruitment or use of child soldiers.
 
-&emsp;&emsp;&emsp;(li) An offense described in section 3559(c)(2)(F), for which the offender was sentenced to a term of imprisonment of more than 1 year, if the offender has a previous conviction, for which the offender served a term of imprisonment of more than 1 year, for a Federal or State offense,by whatever designation and wherever committed, consisting of murder (as described in section 1111), voluntary manslaughter (as described in section 1112), assault with intent to commit murder (as described in section 113(a)), aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242), abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)), kidnapping (as described in chapter 55), carjacking (as described in section 2119), arson (as described in section 844(f)(3), (h), or (i)), or terrorism (as described in chapter 113B).
+&emsp;&emsp;&emsp;(li) An offense described in section 3559(c)(2)(F), for which the offender was sentenced to a term of imprisonment of more than 1 year, if the offender has a previous conviction, for which the offender served a term of imprisonment of more than 1 year, for a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111), voluntary manslaughter (as described in section 1112), assault with intent to commit murder (as described in section 113(a)), aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242), abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)), kidnapping (as described in chapter 55), carjacking (as described in section 2119), arson (as described in section 844(f)(3), (h), or (i)), or terrorism (as described in chapter 113B).
 
 &emsp;&emsp;&emsp;(lii) Section 57(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2077(b)), relating to the engagement or participation in the development or production of special nuclear material.
 
@@ -248,7 +248,7 @@ Deportable prisoners ineligible to apply time credits.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A prisoner is ineligible to apply time credits under subparagraph\(C) if the prisoner is the subject of a final order of removal under any provision of the immigration laws (as such term is defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17))).
+In general.—A prisoner is ineligible to apply time credits under subparagraph (C) if the prisoner is the subject of a final order of removal under any provision of the immigration laws (as such term is defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17))).
 
 &emsp;&emsp;&emsp;(ii)
 

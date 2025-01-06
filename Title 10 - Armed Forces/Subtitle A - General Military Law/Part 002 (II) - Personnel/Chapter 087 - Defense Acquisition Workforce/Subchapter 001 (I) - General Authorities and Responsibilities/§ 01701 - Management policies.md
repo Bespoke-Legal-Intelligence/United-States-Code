@@ -18,7 +18,7 @@ Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, prov
 
 #### Short Title
 
-Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: "This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the 'Defense Acquisition Workforce Improvement Act'."
+Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: "This title \[enacting this chapter, sections 5379 and 5380 of Title 5, GovernmentOrganization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the 'Defense Acquisition Workforce Improvement Act'."
 
 #### Regulations
 
@@ -26,7 +26,7 @@ Pub. L. 101–510, div. A, title XII, §1210(a), Nov. 5, 1990, 104 Stat. 1667, p
 
 #### Principal Technology Transition Advisor
 
-Pub. L. 118–31, div. A, title VIII, §806, Dec. 22, 2023, 137 Stat. 317, provided that:
+Pub. L. 118–31, div. A, title VIII, §806, Dec. 22, 2023, 137 Stat. 317, as amended by Pub. L. 118–159, div. A, title VIII, §838, Dec. 23, 2024, 138 Stat. 1988, provided that:
 
 "(a)
 
@@ -54,13 +54,25 @@ Responsibilities.—The Principal Technology Transition Advisor of a military de
 
 "(d)
 
+DARPA Detailees Authorized.—
+
+&emsp;"(1)
+
+Authority.—The Director of the Defense Advanced Research Projects Agency, upon a request from the Principal Technology Transition Advisor of a military department, may detail personnel of the Agency to such military department for a period not to exceed one year to provide technology transition support for technology of the Agency that is to be acquired by such military department.
+
+&emsp;"(2)
+
+Extension.—The Under Secretary of Defense for Research and Engineering may extend a detail under paragraph (1) for a period of not more than 6 additional months.
+
+"(e)
+
 Congressional Report.—Not later than one year after the designation of the Principal Technology Transition Advisor of a military department under subsection (a), and annually thereafter, the Principal Technology Transition Advisor of such military department shall submit to Congress a report on the following for the one-year period preceding the submission of the report:
 
 &emsp;"(1) The activities of the Principal Technology Transition Advisor.
 
 &emsp;"(2) The outcomes of projects and other activities described in subsection (c)(6), including the metrics described in such subsection.
 
-"(e)
+"(f)
 
 Definitions.—In this section—
 
@@ -92,7 +104,7 @@ Incentives.—The Secretary of Defense shall develop a program to offer incentiv
 
 &emsp;"(4)
 
-Additional training materials.—In recommending curricula under paragraph (1), the Director of the Acquisition Innovation Research Center shall consider and incorporate appropriate training materials from university, college, trade-school, or private-sector curricula in business, law, or public policy.
+Additional training materials.—In recommending curricula under paragraph (1), the Directorof the Acquisition Innovation Research Center shall consider and incorporate appropriate training materials from university, college, trade-school, or private-sector curricula in business, law, or public policy.
 
 "(b)
 
@@ -296,7 +308,7 @@ Terms and Conditions for Private Sector Employees.—An employee of a nontraditi
 
 "(h)
 
-Prohibition Against Charging Certain Costs to Federal Government.—A nontraditional defensecontractor may not charge the Department of Defense or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the contractor to an employee assigned to a Department organization under this section for the period of the assignment.
+Prohibition Against Charging Certain Costs to Federal Government.—A nontraditional defense contractor may not charge the Department of Defense or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the contractor to an employee assigned to a Department organization under this section for the period of the assignment.
 
 "(i)
 
@@ -340,7 +352,7 @@ Positions.—The positions described in this subsection are scientific, technica
 
 "(c)
 
-Limitation.—Authority under subsection (a) may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 1 percent of the total number of positions in the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—Authority under subsection (a) may not, in any calendar year and with respect to any military department, be exercised with respect to a numberof candidates greater than the number equal to 1 percent of the total number of positions in the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 "(d)
 
@@ -408,7 +420,7 @@ Request.—An official or former official of the Department of Defense described
 
 &emsp;"(2)
 
-Submission of request.—A request for a written opinion under paragraph (1) shall be submitted in writing to an ethics official of the Department of Defense having responsibility for the organization in which the official or former official serves or servedand shall set forth all information relevant to the request, including information relating to government positions held and major duties in those positions, actions taken concerning future employment, positions sought, and future job descriptions, if applicable.
+Submission of request.—A request for a written opinion under paragraph (1) shall be submitted in writing to an ethics official of the Department of Defense having responsibility for the organization in which the official or former official serves or served and shall set forth all information relevant to the request, including information relating to government positions held and major duties in those positions, actions taken concerning future employment, positions sought, and future job descriptions, if applicable.
 
 &emsp;"(3)
 

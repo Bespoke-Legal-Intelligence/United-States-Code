@@ -312,7 +312,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The order shall provide that each non-sale transfer of cut flowers or cut greens to a retailer from a qualified handlerthat is a distribution center (as described in section 6802(4)(A)(ii)(II) of this title), and each direct sale of cut flowers or cut greens to a consumer by a qualified handler that is an importer or a producer (as described in section 6802(4)(A)(iii) of this title), shall be treated as a sale of cut flowers or cut greens to a retailer subject to assessments under this subsection.
+&emsp;&emsp;&emsp;&emsp;The order shall provide that each non-sale transfer of cut flowers or cut greens to a retailer from a qualified handler that is a distribution center (as described in section 6802(4)(A)(ii)(II) of this title), and each direct sale of cut flowers or cut greens to a consumer by a qualified handler that is an importer or a producer (as described in section 6802(4)(A)(iii) of this title), shall be treated as a sale of cut flowers or cut greens to a retailer subject to assessments under this subsection.
 
 #### (II) Amount of sale in the case of non-sale transfers and direct sales by importers
 
@@ -350,7 +350,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may be increased or decreased annually by not more than .25 percent of—
+&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may beincreased or decreased annually by not more than .25 percent of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the gross sales price of a product sold; or
 
@@ -504,7 +504,7 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (l) Other terms of order
 
-The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out section 6805 of this title).
+The order shall contain such other terms and provisions, consistent with this chapter, as arenecessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out section 6805 of this title).
 
 (Pub. L. 103–190, §5, Dec. 14, 1993, 107 Stat. 2272.)
 

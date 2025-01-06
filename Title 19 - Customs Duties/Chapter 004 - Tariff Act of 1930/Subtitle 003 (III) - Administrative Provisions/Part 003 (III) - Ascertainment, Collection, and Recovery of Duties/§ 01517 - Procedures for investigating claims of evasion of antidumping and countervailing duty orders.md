@@ -96,7 +96,7 @@ In this section:
 
 #### (3) Referral described
 
-&emsp;A referral described in this paragraph is information submitted to the Commissioner byany other Federal agency, including the Department of Commerce or the United States International Trade Commission, that reasonably suggests that a person has entered covered merchandise into the customs territory of the United States through evasion.
+&emsp;A referral described in this paragraph is information submitted to the Commissioner by any other Federal agency, including the Department of Commerce or the United States International Trade Commission, that reasonably suggests that a person has entered covered merchandise into the customs territory of the United States through evasion.
 
 #### (4) Consideration by administering authority
 
@@ -144,7 +144,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In this paragraph, the term "eligible small business" means any business concern that the Commissioner determines, due to its small size, has neither adequate internal resources nor the financial ability to obtain qualified outside assistance in preparing and filing allegations described in paragraph (2).
+&emsp;&emsp;&emsp;In this paragraph, the term "eligible small business" means any business concern that the Commissioner determines, due to its small size, has neither adequate internal resources nor the financial ability to obtain qualified outside assistance inpreparing and filing allegations described in paragraph (2).
 
 #### (ii) Non-reviewability
 
@@ -174,7 +174,7 @@ In this section:
 
 #### (2) Authority to collect and verify additional information
 
-&emsp;In making a determination under paragraph (1) with respect to covered merchandise, theCommissioner may collect such additional information as is necessary to make the determination through such methods as the Commissioner considers appropriate, including by—
+&emsp;In making a determination under paragraph (1) with respect to covered merchandise, the Commissioner may collect such additional information as is necessary to make the determination through such methods as the Commissioner considers appropriate, including by—
 
 &emsp;&emsp;(A) issuing a questionnaire with respect to such covered merchandise to—
 
@@ -222,7 +222,7 @@ In this section:
 
 &emsp;If the Commissioner makes a determination under subsection (c) that covered merchandise was entered into the customs territory of the United States through evasion, the Commissioner shall—
 
-&emsp;&emsp;(A)(i) suspend the liquidation of unliquidated entries of such covered merchandise that are subject to the determination and that enter on or after the date of the initiation of the investigation under subsection (b) with respect to such covered merchandise and on or before the date of the determination; or
+&emsp;&emsp;(A)(i) suspend the liquidation of unliquidated entries of such covered merchandisethat are subject to the determination and that enter on or after the date of the initiation of the investigation under subsection (b) with respect to such covered merchandise and on or before the date of the determination; or
 
 &emsp;&emsp;(ii) if the Commissioner has already suspended the liquidation of such entries pursuant to subsection (e)(1), continue to suspend the liquidation of such entries;
 

@@ -96,7 +96,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 (2)(A) Subject to subparagraph (B), any ship described in subparagraph (C) may discharge, without regard to the special area requirements of Regulation 5 of Annex V to the Convention, the following non-plastic, non-floating garbage:
 
-&emsp;(i) A slurry of seawater, paper, cardboard, or food waste that is capable of passing through a screen with openings no larger than 12 millimeters in diameter.
+&emsp;(i) A slurry of seawater, paper, cardboard, or food waste that is capable of passing througha screen with openings no larger than 12 millimeters in diameter.
 
 &emsp;(ii) Metal and glass that have been shredded and bagged so as to ensure negative buoyancy.
 
@@ -152,7 +152,7 @@ The President may waive the effective dates of the requirements set forth in sub
 
 #### (i) Noncommercial shipping standards
 
-The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that suchships act in a manner consistent with the MARPOL Protocol.
 
 #### (j) Savings clause
 

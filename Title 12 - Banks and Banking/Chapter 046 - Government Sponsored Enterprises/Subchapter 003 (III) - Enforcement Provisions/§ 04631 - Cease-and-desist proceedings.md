@@ -4,7 +4,7 @@
 
 #### (1) Authority of Director
 
-&emsp;If, in the opinion of the Director, a regulated entity or any entity-affiliated party is engaging or has engaged, or the Director has reasonable cause to believe that the regulated entity or any entity-affiliated party is about to engage, in an unsafe or unsound practice in conducting the business of the regulated entity or the Office of Finance, or is violating or has violated, or the Director has reasonable cause to believe is about to violate, a law, rule, regulation, or order, or any condition imposed in writing by the Director in connection with the granting of any application or other request by the regulated entity or the Office of Finance or any written agreement entered into with the Director, the Director may issue and serve upon the regulated entity or entity-affiliated party a notice of charges in respect thereof.
+&emsp;If, in the opinion of the Director, a regulated entity or any entity-affiliated party is engaging or has engaged, or the Director has reasonable cause to believe that the regulated entity or any entity-affiliated party is about to engage, in an unsafe or unsound practice in conducting the business of the regulated entity orthe Office of Finance, or is violating or has violated, or the Director has reasonable cause to believe is about to violate, a law, rule, regulation, or order, or any condition imposed in writing by the Director in connection with the granting of any application or other request by the regulated entity or the Office of Finance or any written agreement entered into with the Director, the Director may issue and serve upon the regulated entity or entity-affiliated party a notice of charges in respect thereof.
 
 #### (2) Limitation
 

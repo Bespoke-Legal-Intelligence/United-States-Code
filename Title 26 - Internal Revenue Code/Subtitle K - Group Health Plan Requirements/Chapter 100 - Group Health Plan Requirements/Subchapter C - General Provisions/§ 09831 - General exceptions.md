@@ -108,7 +108,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### (C) Permitted benefit
 
-&emsp;&emsp;The term "permitted benefit" means, with respect to any eligible employee, the maximum dollar amount of payments and reimbursements which may be made under the terms of the qualified small employer health reimbursement arrangement for the year with respect to such employee.
+&emsp;&emsp;The term "permitted benefit" means, with respect to any eligible employee, the maximum dollar amount of payments and reimbursements which may be made under the terms of the qualified small employer healthreimbursement arrangement for the year with respect to such employee.
 
 #### (4) Notice
 

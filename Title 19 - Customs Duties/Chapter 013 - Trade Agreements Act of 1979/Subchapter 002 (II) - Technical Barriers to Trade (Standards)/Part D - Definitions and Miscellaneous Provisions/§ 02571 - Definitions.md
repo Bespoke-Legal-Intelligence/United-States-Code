@@ -82,7 +82,7 @@ As used in this subchapter—
 
 #### (16) State agency
 
-&emsp;The term "State agency" means any department, agency, or other instrumentality of thegovernment of any State or of any political subdivision of any State.
+&emsp;The term "State agency" means any department, agency, or other instrumentality of the government of any State or of any political subdivision of any State.
 
 #### (17) Technical regulation
 
@@ -126,7 +126,7 @@ Par. (7). Pub. L. 103–465, §351(e)(5), substituted "conformity assessment pro
 
 Par. (8). Pub. L. 103–465, §351(e)(6), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: "The term 'Party to the Agreement' means any foreign country or instrumentality determined by the President to have assumed, and to be applying, the obligations of the Agreement with respect to the United States."
 
-Par. (13). Pub. L. 103–465, §351(e)(7), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: "The term 'standard' means any of the following, and any amendment or change to any of the following:
+Par. (13). Pub. L. 103–465, §351(e)(7), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: "The term 'standard' means any ofthe following, and any amendment or change to any of the following:
 
 &emsp;"(A) The specification of the characteristics of a product, including, but not limited to, levels of quality, performance, safety, or dimensions.
 

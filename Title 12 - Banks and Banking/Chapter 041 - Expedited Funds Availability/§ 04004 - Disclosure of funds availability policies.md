@@ -20,7 +20,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (3) Upon request
 
-&emsp;Upon the request of any person, a depository institution shall provide or send such person awritten notice containing the specific policy of such depository institution with respect to when a customer may withdraw funds deposited into a customer's account.
+&emsp;Upon the request of any person, a depository institution shall provide or send such person a written notice containing the specific policy of such depository institution with respect to when a customer may withdraw funds deposited into a customer's account.
 
 #### (d) Posting of notice
 
@@ -46,7 +46,7 @@ If a depository institution described in section 4005(b) of this title begins th
 
 &emsp;A depository institution shall be deemed to be in compliance with the requirements of this section if such institution—
 
-&emsp;&emsp;(A) uses any appropriate model form or clause as published by the Board, jointly with the Director of the Bureau of Consumer Financial Protection,,<sup>1</sup> or
+&emsp;&emsp;(A) uses any appropriate model form or clause as published by the Board, jointlywith the Director of the Bureau of Consumer Financial Protection,,<sup>1</sup> or
 
 &emsp;&emsp;(B) uses any such model form or clause and changes such form or clause by—
 

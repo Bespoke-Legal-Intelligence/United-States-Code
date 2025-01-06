@@ -24,6 +24,10 @@ Last seven words in the statute, "who shall have the powers hereinafter stated",
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2025 Amendment
+
+Pub. L. 118–267, §1, Jan. 4, 2025, 138 Stat. 2983, provided that: "This Act \[amending sections 1501 to 1507, 1509, and 1510 of this title\] may be cited as the 'Federal Register Modernization Act of 2024'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 118–31, div. E, title LIII, §5301, Dec. 22, 2023, 137 Stat. 940, provided that: "This title \[enacting and amending provisions set out as notes under section 3601 of this title\] may be cited as the 'Federal Data Center Enhancement Act of 2023'."
@@ -66,7 +70,7 @@ Pub. L. 110–404, §1, Oct. 13, 2008, 122 Stat. 4281, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–383, §1, Oct. 30, 2004, 118 Stat. 2218, provided that: "This Act \[enacting section 2119 of this title, amending sections 2112, 2504, 2903, 2909, and 3303a of this title, and amending provisions set out as a noteunder section 2901 of this title\] may be cited as the 'National Archives and Records Administration Efficiency Act of 2004'."
+Pub. L. 108–383, §1, Oct. 30, 2004, 118 Stat. 2218, provided that: "This Act \[enacting section 2119 of thistitle, amending sections 2112, 2504, 2903, 2909, and 3303a of this title, and amending provisions set out as a note under section 2901 of this title\] may be cited as the 'National Archives and Records Administration Efficiency Act of 2004'."
 
 #### Short Title of 2002 Amendments
 

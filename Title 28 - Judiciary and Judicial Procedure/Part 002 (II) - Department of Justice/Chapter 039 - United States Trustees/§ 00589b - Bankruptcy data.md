@@ -24,7 +24,7 @@ Required Information.—The information required to be filed in the reports refe
 
 (d)
 
-Final Reports.—The uniform forms for final reports required under subsection (a) for use by trustees under subchapter V of chapter 11 and chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
+Final Reports.—The uniform forms for final reports required under subsection (a) foruse by trustees under subchapter V of chapter 11 and chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
 
 &emsp;(1) information about the length of time the case was pending;
 

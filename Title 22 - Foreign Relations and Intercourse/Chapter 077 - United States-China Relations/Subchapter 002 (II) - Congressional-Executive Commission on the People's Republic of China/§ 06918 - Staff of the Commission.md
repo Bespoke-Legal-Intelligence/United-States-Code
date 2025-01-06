@@ -8,7 +8,7 @@ The Commission shall have a personnel and administration committee composed of t
 
 All decisions pertaining to the hiring, firing, and fixing of pay of personnel of the Commission shall be by a majority vote of the personnel and administration committee, except that—
 
-&emsp;(1) the Chairman shall be entitled to appoint and fix the pay of the staff director, and theCochairman shall be entitled to appoint and fix the pay of the Cochairman's senior staff member; and
+&emsp;(1) the Chairman shall be entitled to appoint and fix the pay of the staff director, and the Cochairman shall be entitled to appoint and fix the pay of the Cochairman's senior staff member; and
 
 &emsp;(2) the Chairman and Cochairman shall each have the authority to appoint, with the approval of the personnel and administration committee, at least four professional staff members who shall be responsible to the Chairman or the Cochairman (as the case may be) who appointed them.
 
@@ -30,15 +30,19 @@ The personnel and administration committee shall ensure that the professional st
 
 #### (2) Competitive status
 
-&emsp;For purposes of section 3304(c)(1) <sup>1</sup> of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+&emsp;For purposes of section 3304(i)(1) <sup>1</sup> of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
-(Pub. L. 106–286, div. B, title III, §308, Oct. 10, 2000, 114 Stat. 899.)
+(Pub. L. 106–286, div. B, title III, §308, Oct. 10, 2000, 114 Stat. 899; Pub. L. 118–188, §2(a)(2)(C), Dec. 23, 2024, 138 Stat. 2645.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 3304(c)(1) of title 5, referred to in subsec. (e)(2), probably means section 3304(c)(1) of title 5 prior to amendment by Pub. L. 104–65, §16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as 3304(c). Prior to amendment section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+Section 3304(i)(1) of title 5, referred to in subsec. (e)(2), probably means section 3304(c)(1) of title 5 prior to the amendments made by Pub. L. 104–65, §16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as 3304(c), and by Pub. L. 118–188, §2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated section 3304(c) of title 5 as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (e)(2). Pub. L. 118–188 substituted "3304(i)(1)" for "3304(c)(1)".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

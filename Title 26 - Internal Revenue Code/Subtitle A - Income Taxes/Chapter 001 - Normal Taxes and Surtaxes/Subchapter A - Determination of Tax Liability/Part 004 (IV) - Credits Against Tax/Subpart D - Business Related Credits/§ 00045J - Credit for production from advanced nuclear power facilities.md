@@ -162,7 +162,7 @@ For purposes of this section—
 
 Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.
 
-(Added Pub. L. 109–58, title XIII, §1306(a), Aug. 8, 2005, 119 Stat. 997; amended Pub. L. 109–135, title IV, §402(d), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 110–172, §6(a), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 115–123, div. D, title I, §40501(a), (b)(1), Feb. 9, 2018, 132 Stat. 153.)
+(Added Pub. L. 109–58, title XIII, §1306(a), Aug. 8, 2005, 119 Stat. 997; amended Pub. L. 109–135, title IV, §402(d), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 110–172, §6(a), Dec. 29, 2007, 121 Stat. 2479; Pub. L.115–123, div. D, title I, §40501(a), (b)(1), Feb. 9, 2018, 132 Stat. 153.)
 
 #### <b>Editorial Notes</b>
 

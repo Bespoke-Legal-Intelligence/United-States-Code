@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From the amounts made available to carry out this part for a fiscal year, a portion equal to not less than 30 percent of the sums made available to carry out part B and this part, shall be used for permanent housing for homeless individuals with disabilities and homeless families that include such an individual who is an adult or a minor head of household if no adult is present in the household.
+&emsp;From the amounts made available to carry out this part for a fiscal year, a portion equalto not less than 30 percent of the sums made available to carry out part B and this part, shall be used for permanent housing for homeless individuals with disabilities and homeless families that include such an individual who is an adult or a minor head of household if no adult is present in the household.
 
 #### (2) Calculation
 
@@ -66,7 +66,7 @@ This chapter, referred to in subsec. (c), was in the original "this Act", meanin
 
 A prior section 428 of Pub. L. 100–77 was renumbered section 434 and is classified to section 11388 of this title.
 
-Another prior section 428 of Pub. L. 100–77, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §§454, 455, Nov. 7, 1988, 102 Stat. 3236; Pub. L. 101–625, title VIII, §833(a), Nov. 28, 1990, 104 Stat. 4362, which authorized appropriations for the supportive housing demonstration program, was classified to section 11388 of this title prior to repeal by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
+Another prior section 428 of Pub. L. 100–77, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §§454, 455, Nov. 7, 1988, 102 Stat. 3236; Pub. L. 101–625, title VIII,§833(a), Nov. 28, 1990, 104 Stat. 4362, which authorized appropriations for the supportive housing demonstration program, was classified to section 11388 of this title prior to repeal by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

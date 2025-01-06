@@ -6,7 +6,7 @@ United States sanctions with respect to activities of the Government of North Ko
 
 #### (b) Rule of construction
 
-Nothing in this section shall be construed to limit the authority of the President pursuant tothe International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
 (Pub. L. 114–122, title II, §210, Feb. 18, 2016, 130 Stat. 111.)
 

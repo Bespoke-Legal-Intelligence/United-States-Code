@@ -14,7 +14,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (2) In carrying out this subsection, there may be established a Buying Power Maintenance account.
 
-(3) In order to eliminate substantial gains to the approved levels of overseas operations for the Department of State, the Secretary of State shall transfer to the Buying Power Maintenance account such amounts in any appropriation account under the heading "Administration of Foreign Affairs" as the Secretary determines are excessive to the needs of the approved level of operations under that appropriation account because of fluctuations in foreign currency exchange rates or changes in overseas wages and prices.
+(3) In order to eliminate substantial gains to the approved levels of overseas operations for the Department of State, the Secretary of State shall transfer to the Buying Power Maintenance account such amounts in any appropriation account under the heading "Administration of Foreign Affairs" as the Secretary determines are excessive to the needs of the approved levelof operations under that appropriation account because of fluctuations in foreign currency exchange rates or changes in overseas wages and prices.
 
 (4) In order to offset adverse fluctuations in foreign currency exchange rates or overseas wage and price changes, the Secretary of State may transfer from the Buying Power Maintenance account to any appropriation account under the heading "Administration of Foreign Affairs" such amounts as the Secretary determines are necessary to maintain the approved level of operations under that appropriation account.
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 102–138, §117(c), amended subsec. (d) generally. Prior t
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–246 added subsec. (e).
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–241, §112(a), designated existing provision as par. (1), substituted provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates and overseas wage and price changes which occur after Nov. 30 of the earlier of the calendar year which ended during the fiscal year preceding such fiscal year or the calendar year which preceded the calendar year during which the authorization of appropriations for such fiscal year was enacted, for provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates occurring after Nov. 30 of the preceding fiscal year, and added pars. (2) to (6).
+<b>1982</b>—Subsec. (b). Pub. L. 97–241, §112(a), designated existing provision as par. (1), substituted provision authorizing appropriations to offset adverse fluctuationsin foreign currency exchange rates and overseas wage and price changes which occur after Nov. 30 of the earlier of the calendar year which ended during the fiscal year preceding such fiscal year or the calendar year which preceded the calendar year during which the authorization of appropriations for such fiscal year was enacted, for provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates occurring after Nov. 30 of the preceding fiscal year, and added pars. (2) to (6).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -2,7 +2,7 @@
 
 Whenever space is available, passengers, and merchandise produced in the United States, or the Commonwealths and possessions, and consigned to residents and mercantile firms of Guam, may be transported to Guam on vessels operated by the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267, §4747; renumbered §2651 and amended Pub. L. 108–375, div. A, title X, §1072(a), (b)(4), Oct. 28, 2004, 118 Stat. 2057, 2058; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, §1075(h)(4)(A)(ii), Jan. 7, 2011, 124 Stat. 4377.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, §4747; renumbered §2651 and amended Pub. L. 108–375, div. A, title X, §1072(a), (b)(4), Oct. 28, 2004, 118Stat. 2057, 2058; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, §1075(h)(4)(A)(ii), Jan. 7, 2011, 124 Stat. 4377.)
 
 Historical and Revision Notes
 

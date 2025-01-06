@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(6) the term "Secretary" means the Secretary of Housing and Urban Development;
 
-&emsp;(7) the term "affiliated business arrangement" means an arrangement in which (A) aperson who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider;
+&emsp;(7) the term "affiliated business arrangement" means an arrangement in which (A) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider;
 
 &emsp;(8) the term "associate" means one who has one or more of the following relationships with a person in a position to refer settlement business: (A) a spouse, parent, or child of such person; (B) a corporation or business entity that controls, is controlled by, or is under common control with such person; (C) an employer, officer, director, partner, franchisor, or franchisee of such person; or (D) anyone who has an agreement, arrangement, or understanding, with such person, the purpose or substantial effect of which is to enable the person in a position to refer settlement business to benefit financially from the referrals of such business; and
 
@@ -44,7 +44,7 @@ Section 1602(f) of title 15, referred to in par. (1)(B)(iv), was redesignated se
 
 <b>1996</b>—Par. (7). Pub. L. 104–208 substituted "affiliated business arrangement" for "controlled business arrangement".
 
-<b>1992</b>—Par. (1)(A). Pub. L. 102–550, §908(b), inserted "or subordinate" after "first" and ", including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property" after "families".
+<b>1992</b>—Par. (1)(A). Pub. L. 102–550, §908(b), inserted "or subordinate" after "first" and ", including any suchsecured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property" after "families".
 
 Par. (3). Pub. L. 102–550, §908(a), inserted "the origination of a federally related mortgage loan (including, but not limited to, the taking of loan applications, loan processing, and the underwriting and funding of loans)," after "broker,".
 

@@ -26,7 +26,7 @@ Violation of Agreement.—A vessel under an agreement executed pursuant to subse
 
 (d)
 
-Waivers.—(1) Notwithstanding any other provision of law, when the President, the Secretary of Defense, or the Secretary of Transportation declares the existence of an emergency justifying a temporary waiver of this section or section 55314 of this title, the President, the Secretary of Defense, or the Secretary of Transportation, following a determination by the Maritime Administrator, acting in the Administrator's capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity at fair and reasonable rates for commercial vessels of the United States to meet the requirements of this section or section 55314 of this title, may waive compliance with such section to the extent, in the manner, and on the terms the Maritime Administrator, acting in such capacity, prescribes, and no other waivers of the requirements of this section or section 55314 of this title shall be authorized.
+Waivers.—(1) Notwithstanding any other provision of law, when the President, the Secretary of Defense, or the Secretary of Transportation declares the existence of an emergencyjustifying a temporary waiver of this section or section 55314 of this title, the President, the Secretary of Defense, or the Secretary of Transportation, following a determination by the Maritime Administrator, acting in the Administrator's capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity at fair and reasonable rates for commercial vessels of the United States to meet the requirements of this section or section 55314 of this title, may waive compliance with such section to the extent, in the manner, and on the terms the Maritime Administrator, acting in such capacity, prescribes, and no other waivers of the requirements of this section or section 55314 of this title shall be authorized.
 
 (2)(A) Subject to subparagraphs (B) and (C), a waiver issued under this subsection shall be for a period of not more than 60 days.
 
@@ -88,7 +88,7 @@ Security of Government-Impelled Cargo.—
 
 &emsp;&emsp;(B) in such period, issued an advisory warning that an act of piracy is possible in such waters.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575; Pub. L. 113–281, title III, §306, Dec. 18, 2014, 128 Stat. 3044; Pub. L. 115–232, div. C, title XXXV, §3546(s), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 117–263, div. C,title XXXV, §3502(b), Dec. 23, 2022, 136 Stat. 3065; Pub. L. 118–31, div. C, title XXXV, §3531(a), Dec. 22, 2023, 137 Stat. 825.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575; Pub. L. 113–281, title III, §306, Dec. 18, 2014, 128 Stat. 3044; Pub. L. 115–232, div. C, title XXXV, §3546(s), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 117–263, div. C, title XXXV, §3502(b), Dec. 23, 2022, 136 Stat. 3065; Pub. L. 118–31, div. C, title XXXV, §3531(a), Dec. 22, 2023, 137 Stat. 825.)
 
 Historical and Revision Notes
 
@@ -172,7 +172,7 @@ Pub. L. 110–417, div. C, title XXXV, §3511(c), Oct. 14, 2008, 122 Stat. 4770,
 
 #### Secretary of Transportation Responsibility With Respect to Cargoes Procured, Furnished, or Financed by Other Federal Departments and Agencies
 
-Pub. L. 117–263, div. C, title XXXV, §3502(a), Dec. 23, 2022, 136 Stat. 3065, provided that: "Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Administrator of the Maritime Administration shall issue a final rule to implement and enforce section 55305(d) of title 46, United States Code."
+Pub. L. 117–263, div. C, title XXXV, §3502(a), Dec. 23, 2022, 136 Stat. 3065, provided that: "Not later than 270days after the date of the enactment of this Act \[Dec. 23, 2022\], the Administrator of the Maritime Administration shall issue a final rule to implement and enforce section 55305(d) of title 46, United States Code."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,7 @@ In order that the Congress and the American people may be better and more curren
 
 For purposes of this section—
 
-&emsp;(1) "foreign assistance" means any tangible or intangible item provided by the United States Government to a foreign country or international organization under this chapter or any other Act, including but not limited to any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, United States dollars, and any currencies of any foreign countrywhich are owned by the United States Government; and
+&emsp;(1) "foreign assistance" means any tangible or intangible item provided by the United States Government to a foreign country or international organization under this chapter or any other Act, including but not limited to any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, United States dollars, and any currencies of any foreign country which are owned by the United States Government; and
 
 &emsp;(2) "provided by the United States Government" includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
@@ -78,7 +78,7 @@ Prior to the complete revision of this section by section 502(a)(2) of Pub. L. 9
 
 <b>1985</b>—Subsec. (a)(1)(B). Pub. L. 99–83 inserted provisions relating to evaluation of whether programs are benefiting the poor majority.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–113, §733(1), substituted provision requiring information regarding American foreign policy and effectiveness of assistance to other countries for provision requiring information regarding United States development policy and effectiveness of assistance to developing countries and provision directing the Chairman prepare and transmit to Congress as part of the annual presentation materials for foreign assistance a report as described in this subsection for provision directing the Chairman to transmit a report on foreign assistance for the fiscal year ending the previous Sept. 30.
+<b>1981</b>—Subsec. (a). Pub. L. 97–113, §733(1), substituted provision requiring information regarding Americanforeign policy and effectiveness of assistance to other countries for provision requiring information regarding United States development policy and effectiveness of assistance to developing countries and provision directing the Chairman prepare and transmit to Congress as part of the annual presentation materials for foreign assistance a report as described in this subsection for provision directing the Chairman to transmit a report on foreign assistance for the fiscal year ending the previous Sept. 30.
 
 Subsec. (a)(1)(B). Pub. L. 97–113, §733(2), struck out "the progress developing countries are making toward achieving those objectives which are indicative of improved well-being of the poor majority, which objectives shall include but not be limited to" before "increasing life expectancy and literacy".
 

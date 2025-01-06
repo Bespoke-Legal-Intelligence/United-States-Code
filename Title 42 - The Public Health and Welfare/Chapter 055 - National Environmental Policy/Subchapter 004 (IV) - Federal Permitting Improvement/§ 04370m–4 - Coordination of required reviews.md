@@ -4,7 +4,7 @@
 
 To integrate environmental reviews and authorizations, each agency shall, to the maximum extent practicable—
 
-&emsp;(1) carry out the obligations of the agency with respect to a covered project under anyother applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency;
+&emsp;(1) carry out the obligations of the agency with respect to a covered project under any other applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency;
 
 &emsp;(2) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner; and
 
@@ -72,7 +72,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (A) In general
 
-&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency atappropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
+&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency at appropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
 
 #### (B) Environmental review
 
@@ -170,7 +170,13 @@ Subsec. (c)(4). Pub. L. 117–58, §70801(d)(3)(A), substituted "determines that
 
 Subsec. (c)(4)(A). Pub. L. 117–58, §70801(d)(3)(B), inserted "the development of the higher level of detail will not prevent" before "the lead agency".
 
-Subsec. (c)(4)(B). Pub. L. 117–58, §70801(d)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: "the public from commenting on the preferred and other alternatives."
+Subsec. (c)(4)(B). Pub. L. 117–58, §70801(d)(3)(C), added subpar. (B) and struck out former subpar. (B) whichread as follows: "the public from commenting on the preferred and other alternatives."
 
 Subsecs. (f), (g). Pub. L. 117–58, §70801(d)(4), (5), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Environmental Review, Approval, or Permit for Recipients of Funds under Community Development Fund
+
+Pub. L. 118–158, div. B, title XII, Dec. 21, 2024, 138 Stat. 1759, provided in part: "That recipients of funds made available in this, prior, or future disaster Acts that use such funds to supplement other Federal assistance may adopt, without review or public comment, any environmental review, approval, or permit performed by a Federal agency, and such adoption shall satisfy the responsibilities of the recipient with respect to such environmental review, approval or permit, so long as the actions covered by the existing environmental review, approval, or permit and the actions proposed for these supplemental funds are substantially the same: <i>Provided further</i>, That the Secretary or a State may, upon receipt of a request for release of funds and certification, immediately approve the release of funds for any activity or project if the recipient has adopted an environmental review, approval or permit under the previous proviso or if the activity or project is categorically excluded from review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), notwithstanding section 104(g)(2) of the Housing and Community Development Act of 1974 (42 U.S.C. 5304(g)(2))".
 

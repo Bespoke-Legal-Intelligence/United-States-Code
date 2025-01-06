@@ -22,7 +22,7 @@ Section was enacted as part of the Removal of Regulatory Barriers to Affordable 
 
 #### Short Title
 
-Pub. L. 102–550, title XII, §1201, Oct. 28, 1992, 106 Stat. 3938, provided that: "This title \[enacting this sectionand sections 12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the 'Removal of Regulatory Barriers to Affordable Housing Act of 1992'."
+Pub. L. 102–550, title XII, §1201, Oct. 28, 1992, 106 Stat. 3938, provided that: "This title \[enacting this section and sections 12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the 'Removal of Regulatory Barriers to Affordable Housing Act of 1992'."
 
 #### Report by Secretary
 
@@ -40,7 +40,7 @@ Section 1. <i>Purpose</i>. For many Americans, access to affordable housing is b
 
 Driving the rise in housing costs is a lack of housing supply to meet demand. Federal, State, local, and tribal governments impose a multitude of regulatory barriers—laws, regulations, and administrative practices—that hinder the development of housing. These regulatory barriers include: overly restrictive zoning and growth management controls; rent controls; cumbersome building and rehabilitation codes; excessive energy and water efficiency mandates; unreasonable maximum-density allowances; historic preservation requirements; overly burdensome wetland or environmental regulations; outdated manufactured-housing regulations and restrictions; undue parking requirements; cumbersome and time-consuming permitting and review procedures; tax policies that discourage investment or reinvestment; overly complex labor requirements; and inordinate impact or developer fees. These regulatory barriers increase the costs associated with development, and, as a result, drive down the supply of affordable housing. They are the leading factor in the growth of housing prices across metropolitan areas in the United States. Many of the markets with the most severe shortages in affordable housing contend with the most restrictive State and local regulatory barriers to development.
 
-These regulatory barriers impede our Nation's economic growth. Hardworking American families struggle to live in markets where there is an insufficient supply of housing—even in markets generating a significant number of jobs. One recent study suggests that certain regulatory restrictions on housing supply have forced workers to live far away from high-productivity areas with the best available jobs, creating a geographic misallocation of labor between cities that may have decreased the annual economic growth rate in the United States by 36 percent between 1964 and 2009.
+These regulatory barriers impede our Nation's economic growth. Hardworking American families struggle to live in markets where there is an insufficient supply of housing—even in markets generating a significant number of jobs. One recent study suggests that certain regulatory restrictions on housing supply have forced workers to live far away from high-productivity areas with the best available jobs, creating a geographic misallocation of labor between cities that mayhave decreased the annual economic growth rate in the United States by 36 percent between 1964 and 2009.
 
 Low- and middle-income Americans are often hit the hardest by regulatory barriers to housing development. High housing costs place strains on household budgets, limit educational opportunities, impair workforce mobility, slow job creation, and increase financial risks. Furthermore, studies have consistently identified high housing prices as a primary determinant of homelessness, and research has directly linked more stringent housing market regulation to higher homelessness rates.
 
@@ -76,7 +76,7 @@ Sec. 3. <i>White House Council on Eliminating Regulatory Barriers to Affordable 
 
 (xi) the heads of such other executive departments and agencies (agencies) and offices as the President, Chair, or Vice Chairs may, from time to time, designate or invite, as appropriate.
 
-(b) <i>Administration</i>. The Vice Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work with the oversight of and in consultation with the Chair. The Department of Housing andUrban Development shall provide funding and administrative support for the Council.
+(b) <i>Administration</i>. The Vice Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work with the oversight of and in consultation with the Chair. The Department of Housing and Urban Development shall provide funding and administrative support for the Council.
 
 Sec. 4. <i>Mission and Functions of the Council</i>. The Council shall work across agencies and offices, with consideration of existing initiatives, to:
 

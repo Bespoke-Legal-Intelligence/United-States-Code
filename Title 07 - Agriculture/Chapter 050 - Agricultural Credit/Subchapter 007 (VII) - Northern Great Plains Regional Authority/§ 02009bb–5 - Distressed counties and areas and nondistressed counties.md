@@ -18,7 +18,7 @@ Not later than 90 days after May 13, 2002, and annually thereafter, the Authorit
 
 #### (2) Funding limitations
 
-&emsp;The funding limitations under section 2009bb–3(b) of this title shall not apply to a project to provide transportation or telecommunication or basic public services to residents of 1 or more distressed counties or isolated areas of distress in the region.
+&emsp;The funding limitations under section 2009bb–3(b) of this title shall not apply to aproject to provide transportation or telecommunication or basic public services to residents of 1 or more distressed counties or isolated areas of distress in the region.
 
 #### (c) Transportation, telecommunication, renewable energy, and basic public infrastructure
 

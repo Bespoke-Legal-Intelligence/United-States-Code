@@ -84,7 +84,7 @@ Response Procedures for Incidents of Serious Harm to Children Reported to Family
 
 &emsp;"(1)
 
-Incident determination committee membership.—The Secretary of Defense shall ensure that the voting membership of each Incident Determination Committee, as defined in paragraph (7), on a military installation includes medical personnel with the knowledge and expertise required to determine whether a reported incident of serious harm to a child meets the criteria of the Department of Defense for treatment as child abuse.
+Incident determination committee membership.—The Secretary of Defense shall ensure that the voting membership of each Incident DeterminationCommittee, as defined in paragraph (7), on a military installation includes medical personnel with the knowledge and expertise required to determine whether a reported incident of serious harm to a child meets the criteria of the Department of Defense for treatment as child abuse.
 
 &emsp;"(2)
 
@@ -144,7 +144,7 @@ Elements.—Each guide under this paragraph shall include the following:
 
 &emsp;&emsp;&emsp;"(i) Information on the response processes of the Family Advocacy Programs and military criminal investigative organizations of the military department concerned.
 
-&emsp;&emsp;&emsp;"(ii) Lists of available support services, such as legal, medical, and victim advocacy services,through the Department of Defense and the military department concerned.
+&emsp;&emsp;&emsp;"(ii) Lists of available support services, such as legal, medical, and victim advocacy services, through the Department of Defense and the military department concerned.
 
 &emsp;&emsp;"(C)
 
@@ -200,7 +200,7 @@ Reports to Family Advocacy Program Offices.—
 
 &emsp;"(1)
 
-In general.—The following information shall be reported immediately to the Family Advocacy Program office at the military installation to which the member of the Armed Forces concerned is assigned:
+In general.—The following information shall be reported immediately to the Family AdvocacyProgram office at the military installation to which the member of the Armed Forces concerned is assigned:
 
 &emsp;&emsp;"(A) Credible information (which may include a reasonable belief), obtained by any individual within the chain of command of the member, that a child in the family or home of the member has suffered an incident of child abuse.
 

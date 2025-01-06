@@ -38,7 +38,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) the amount of the tax imposed by this subchapter,
 
-&emsp;&emsp;&emsp;(ii) if stated as a separate charge, the amount of any retail sales tax imposed by any State or political subdivision thereof or the District of Columbia, whether the liability for such tax is imposed on the vendor or vendee, and
+&emsp;&emsp;&emsp;(ii) if stated as a separate charge, the amount of any retail sales tax imposed by any State or political subdivision thereofor the District of Columbia, whether the liability for such tax is imposed on the vendor or vendee, and
 
 &emsp;&emsp;&emsp;(iii) the value of any component of such article if—
 
@@ -56,7 +56,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any long-term lease of an article which is treated as the first retail saleof such article, the tax under this subchapter shall be computed on a price equal to—
+&emsp;&emsp;In the case of any long-term lease of an article which is treated as the first retail sale of such article, the tax under this subchapter shall be computed on a price equal to—
 
 &emsp;&emsp;&emsp;(i) the sum of—
 
@@ -126,7 +126,7 @@ For purposes of this section, the term "long-term lease" means any lease with a 
 
 #### (g) Regulations
 
-The Secretary shall prescribe regulations which permit, in lieu of any other certification, persons who are purchasing articles taxable under this subchapter for resale or leasing in a long-term lease to execute a statement (made under penalties of perjury) on the sale invoice that such sale is for resale. The Secretary shall not impose any registration requirement as a condition of using such procedure.
+The Secretary shall prescribe regulations which permit, in lieu of any other certification,persons who are purchasing articles taxable under this subchapter for resale or leasing in a long-term lease to execute a statement (made under penalties of perjury) on the sale invoice that such sale is for resale. The Secretary shall not impose any registration requirement as a condition of using such procedure.
 
 (Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2175; amended Pub. L. 98–369, div. A, title VII, §§731, 735(b)(2), July 18, 1984, 98 Stat. 976, 981; Pub. L. 100–17, title V, §§505(a)–(c), 506(a), Apr. 2, 1987, 101 Stat. 258, 259; Pub. L. 100–647, title VI, §6111(a), Nov. 10, 1988, 102 Stat. 3713; Pub. L. 105–34, title XIV, §§1402(b), 1434(a), (b), Aug. 5, 1997, 111 Stat. 1046, 1052; Pub. L. 105–206, title VI, §6014(c), July 22, 1998, 112 Stat. 820.)
 
@@ -134,7 +134,7 @@ The Secretary shall prescribe regulations which permit, in lieu of any other cer
 
 #### Prior Provisions
 
-A prior section 4052, act Aug. 16, 1954, ch. 736, 68A Stat. 479, provided that lease of an article would beconsidered the sale of article for excise tax purposes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
+A prior section 4052, act Aug. 16, 1954, ch. 736, 68A Stat. 479, provided that lease of an article would be considered the sale of article for excise tax purposes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
 

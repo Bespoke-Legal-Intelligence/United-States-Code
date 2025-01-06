@@ -46,7 +46,7 @@ On the LIBOR replacement date, any reference in the fallback provisions of a LIB
 
 #### (1) In general
 
-&emsp;If the Board-selected benchmark replacement becomes the benchmark replacement fora LIBOR contract pursuant to subsection (a) or (c), all benchmark replacement conforming changes shall become an integral part of the LIBOR contract.
+&emsp;If the Board-selected benchmark replacement becomes the benchmark replacement for a LIBOR contract pursuant to subsection (a) or (c), all benchmark replacement conforming changes shall become an integral part of the LIBOR contract.
 
 #### (2) No consent required
 
@@ -84,7 +84,7 @@ Nothing in this chapter may be construed to alter or impair—
 
 &emsp;&emsp;(B) governs the reevaluation of rate increases on credit card accounts under open-ended (not home-secured) consumer credit plans; or
 
-&emsp;(6) except as provided in section 5804(c) of this title, the rights or obligations of any person, or the authorities of any agency, under Federal consumer financial law, as defined in section 5481 of this title.
+&emsp;(6) except as provided in section 5804(c) of this title, the rights or obligations of any person, or the authorities of any agency, underFederal consumer financial law, as defined in section 5481 of this title.
 
 (Pub. L. 117–103, div. U, §104, Mar. 15, 2022, 136 Stat. 828.)
 

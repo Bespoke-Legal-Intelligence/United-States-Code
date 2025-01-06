@@ -122,7 +122,7 @@ Effective on Date of Enactment.—Sections 106, 107, 304, 606, 803, and 1306 \[a
 
 #### Severability
 
-Pub. L. 117–103, div. W, §6, Mar. 15, 2022, 136 Stat. 846, provided that: "If any provision of this Act \[div. W of Pub. L. 117–103, see Tables for classification\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance isheld to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provisions or amendment to any other person or circumstance, shall not be affected."
+Pub. L. 117–103, div. W, §6, Mar. 15, 2022, 136 Stat. 846, provided that: "If any provision of this Act \[div. W of Pub. L. 117–103, see Tables for classification\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provisions or amendment to any other person or circumstance, shall not be affected."
 
 #### Definitions
 

@@ -104,7 +104,7 @@ Except as provided in subsection (c)(3), the members of a State Commission for a
 
 #### (C) Rule of construction
 
-&emsp;&emsp;Subparagraph (A) shall not be construed to limit the authority of any voting member ofthe Commission (or of such entity) to participate in—
+&emsp;&emsp;Subparagraph (A) shall not be construed to limit the authority of any voting member of the Commission (or of such entity) to participate in—
 
 &emsp;&emsp;&emsp;(i) discussion of, and hearing and forums on—
 

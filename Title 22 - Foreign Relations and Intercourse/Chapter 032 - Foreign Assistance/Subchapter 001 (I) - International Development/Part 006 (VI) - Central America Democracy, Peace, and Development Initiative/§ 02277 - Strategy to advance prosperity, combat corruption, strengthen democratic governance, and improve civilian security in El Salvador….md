@@ -58,13 +58,13 @@ In developing the strategy required under this section, the Secretary of State s
 
 #### (c) Consultation
 
-In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in theUnited States, El Salvador, Guatemala, and Honduras.
+In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in the United States, El Salvador, Guatemala, and Honduras.
 
 #### (d) Benchmarks
 
 The strategy required under this section shall include annual benchmarks to track the strategy's progress in curbing irregular migration from the region to the United States and improving conditions in El Salvador, Guatemala, and Honduras by measuring progress in key areas, including—
 
-&emsp;(1) reducing poverty and unemployment, increasing private sector investment, responding to immediate humanitarian needs, sustainably reintegrating returnees, supporting conservation and community resilience, and addressing forced displacement in accordance with the priorities outlined in subsection (b)(1);
+&emsp;(1) reducing poverty and unemployment, increasing private sector investment, responding to immediate humanitarian needs, sustainably reintegrating returnees, supporting conservation and community resilience, and addressingforced displacement in accordance with the priorities outlined in subsection (b)(1);
 
 &emsp;(2) strengthening national justice systems and attorneys generals,<sup>1</sup> supporting multilateral anticorruption mechanisms, identifying and prosecuting money laundering and other financial crimes, breaking up financial holdings of organized criminal syndicates, and advancing judicial integrity and investigative capacity of local authorities in accordance with the priorities outlined in subsection (b)(2);
 

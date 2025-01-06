@@ -18,7 +18,7 @@
 
 &emsp;(B) does not come within clause (A)(i) and (ii) but was on active duty in the Ready Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960, of more than three and one-half years prior to applying for such appointment.
 
-(3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulat1ions of the President.
+(3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulations of the President.
 
 #### (c) Issuance of commissions
 
@@ -28,7 +28,7 @@ Commissions evidencing the appointment by the President of officers of the Regul
 
 (1) For purposes of basic pay and for purposes of promotion, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, except as provided in paragraphs (2) and (3) of this subsection, be considered as having had on the date of appointment the following length of service: Three years if appointed to the senior assistant grade, ten years if appointed to the full grade, seventeen years if appointed to the senior grade, and eighteen years if appointed to the director grade.
 
-(2) For purposes of basic pay, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, in lieu of the credit provided in paragraph (1) of this subsection, be credited with the service for which he is entitled to credit under any other provision of law if such service exceeds that to which he would be entitled under such paragraph.
+(2) For purposes of basic pay, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, in lieu of the credit provided in paragraph (1) of this subsection, be credited with the service for which he is entitled to credit under any other provision of law if such service exceeds that towhich he would be entitled under such paragraph.
 
 (3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Ready Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Ready Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Ready Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Ready Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
 
@@ -52,7 +52,7 @@ In accordance with regulations, individual scientists, other than commissioned o
 
 #### (h) Aliens
 
-Persons who are not citizens may be employed as consultants pursuant to subsection (f) and may be appointed to fellowships pursuant to subsection (g). Unless otherwise specifically provided, any prohibition in any other Act againstthe employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
+Persons who are not citizens may be employed as consultants pursuant to subsection (f) and may be appointed to fellowships pursuant to subsection (g). Unless otherwise specifically provided, any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
 
 #### (i) Civil service appointments by Secretary
 

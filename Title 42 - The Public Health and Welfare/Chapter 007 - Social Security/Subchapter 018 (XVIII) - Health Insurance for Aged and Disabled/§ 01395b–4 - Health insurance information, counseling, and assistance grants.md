@@ -42,7 +42,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 (1) A State that is conducting a health insurance information, counseling, and assistance program that is substantially similar to a program described in subsection (b)(2) shall, as a requirement for eligibility for a grant under this section, demonstrate, to the satisfaction of the Secretary, that such State shall maintain the activities of such program at least at the level that such activities were conducted immediately preceding the date of the issuance of any grant during the period of time covered by such grant under this section.
 
-(2) If the Secretary determines that the existing health insurance information, counseling, and assistance program is substantially similar to a program described in subsection (b)(2), the Secretary may waive some or all of the requirements described in such subsection and issue a grant to the State for the purpose of increasing the number of services offered by the health insurance information, counseling, and assistance program, experimenting with new methods of outreach in conducting such program, or expanding such program to geographic areas of the State not previously served by the program.
+(2) If the Secretary determines that the existing health insurance information, counseling, and assistance program is substantially similar to a program described in subsection (b)(2), the Secretary may waive some or all of the requirements described in such subsection and issue agrant to the State for the purpose of increasing the number of services offered by the health insurance information, counseling, and assistance program, experimenting with new methods of outreach in conducting such program, or expanding such program to geographic areas of the State not previously served by the program.
 
 #### (d) Criteria for issuing grants
 
@@ -126,7 +126,7 @@ Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made ident
 
 Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted "1993, 1994, 1995, and 1996" for "and 1993".
 
-Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignatedpars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "summarizes the scope and content of training conferences convened under this section;".
+Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "summarizes the scope and content of training conferences convened under this section;".
 
 Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 

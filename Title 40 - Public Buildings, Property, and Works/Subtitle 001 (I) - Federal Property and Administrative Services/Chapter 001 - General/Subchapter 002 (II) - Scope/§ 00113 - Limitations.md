@@ -22,7 +22,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;(1) the President under the Philippine Property Act of 1946 (22 U.S.C. 1381 et seq.);
 
-&emsp;(2) an executive agency, with respect to any program conducted for purposes of resale, price support, grants to farmers, stabilization, transfer to foreign governments, or foreign aid, relief, or rehabilitation, but the agency carrying out the program shall, to the maximum extent practicable, consistent with the purposes of the program and the effective, efficient conduct of agency business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
+&emsp;(2) an executive agency, with respect to any program conducted for purposes of resale, price support, grants to farmers, stabilization, transfer to foreign governments, or foreign aid, relief, or rehabilitation, but the agency carrying out the program shall, to the maximum extent practicable, consistent with the purposes of the program and the effective, efficient conduct of agency business, coordinateits operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
 
 &emsp;(3) an executive agency named in section 3063 of title 10, and the head of the agency, with respect to the administration of the provisions of that title referred to in section 3016 of such title as "chapter 137 legacy provisions";
 
@@ -116,7 +116,7 @@ In subsection (a), the word "paramount" is omitted as included in "not subject t
 
 In subsection (c), the words "chapter 91 of title 31" are substituted for "the Government Corporation Control Act (59 Stat. 597; 31 U.S.C. 841)" in section 602(c) of the Federal Property and Administrative Services Act of 1949, because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067).
 
-In subsection (e), the text of 40:474(d)(8) is omitted because 50 App.:1171(b) was repealed by section 53 of theAct of August 10, 1956 (ch. 1041, 70A Stat. 641). The text of 40:474(d)(19) is omitted as obsolete.
+In subsection (e), the text of 40:474(d)(8) is omitted because 50 App.:1171(b) was repealed by section 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 641). The text of 40:474(d)(19) is omitted as obsolete.
 
 In subsection (e)(2), the words "any phase (including, but not limited to, procurement, storage, transportation, processing, and disposal) of" and "the fulfillment of" are omitted as unnecessary.
 

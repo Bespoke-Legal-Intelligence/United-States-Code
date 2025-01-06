@@ -110,7 +110,7 @@ Subsec. (b)(2)(B). Pub. L. 103–442 inserted ", 6241, or 8741" after "3741".
 
 #### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
 
-Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
+Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, seesection 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
 
 #### Effective Date of 2018 Amendment
 

@@ -64,7 +64,7 @@ There are established within the Office, to carry out the programmatic responsib
 
 #### (6) Other authority
 
-&emsp;The Office shall, after consultation with the member agencies, provide certain data to financial industry participants and to the general public to increase market transparency and facilitate research on the financial system, to the extent that intellectual property rights are not violated, business confidential information is properly protected, and the sharing of such information poses no significant threats to the financial system of the United States.
+&emsp;The Office shall, after consultation with the member agencies, provide certain data to financial industry participants and to the general public to increase market transparency and facilitate research on the financial system, to the extent that intellectual property rights are not violated, business confidentialinformation is properly protected, and the sharing of such information poses no significant threats to the financial system of the United States.
 
 #### (c) Research and Analysis Center
 

@@ -46,7 +46,7 @@ Required to be in writing.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as otherwise provided in this subsection, every motor carrierproviding transportation of household goods described in section 13102(10)(A) as a household goods motor carrier and subject to jurisdiction under subchapter I of chapter 135 shall conduct a physical survey of the household goods to be transported on behalf of a prospective individual shipper and shall provide the shipper with a written estimate of charges for the transportation and all related services.
+In general.—Except as otherwise provided in this subsection, every motor carrier providing transportation of household goods described in section 13102(10)(A) as a household goods motor carrier and subject to jurisdiction under subchapter I of chapter 135 shall conduct a physical survey of the household goods to be transported on behalf of a prospective individual shipper and shall provide the shipper with a written estimate of charges for the transportation and all related services.
 
 &emsp;&emsp;(B)
 

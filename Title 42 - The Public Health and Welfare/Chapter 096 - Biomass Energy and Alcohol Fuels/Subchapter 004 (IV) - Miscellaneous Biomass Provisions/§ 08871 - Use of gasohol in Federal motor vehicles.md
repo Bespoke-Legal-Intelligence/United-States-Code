@@ -34,7 +34,7 @@ Sense of Congress.—It is the sense of Congress that whenever any motor vehicle
 
 Ex. Ord. No. 12261, Jan. 5, 1981, 46 F.R. 2023, provided:
 
-By the authority vested in me as President of the United States of America by Section 271 of the Energy Security Act (94 Stat. 710; Public Law 96–294; 42 U.S.C. 8871), in order to require Federal agencies which own or lease motor vehicles to use gasohol in those vehicles which are capable of operating on gasohol where it is available at reasonable prices and in reasonable quantities, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Section 271 of the EnergySecurity Act (94 Stat. 710; Public Law 96–294; 42 U.S.C. 8871), in order to require Federal agencies which own or lease motor vehicles to use gasohol in those vehicles which are capable of operating on gasohol where it is available at reasonable prices and in reasonable quantities, it is hereby ordered as follows:
 
 1–101. In procurement actions for unleaded gasoline motor fuel, Federal agencies shall, whenever feasible, specify that gasohol is an acceptable substitute motor fuel. In such procurements there shall be a preference for the purchase of gasohol.
 

@@ -28,7 +28,7 @@
 
 (3) Bankruptcy judges appointed under paragraph (1) shall be appointed and may be reappointed under such paragraph.
 
-(4) If authorized by the Judicial Conference of the United States, the judicial councils of 2 or more circuits may establish a joint bankruptcy appellate panel comprised of bankruptcy judges from the districts within the circuits for which such panel is established, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.
+(4) If authorized by the Judicial Conference of the United States, the judicial councils of 2 ormore circuits may establish a joint bankruptcy appellate panel comprised of bankruptcy judges from the districts within the circuits for which such panel is established, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.
 
 (5) An appeal to be heard under this subsection shall be heard by a panel of 3 members of the bankruptcy appellate panel service, except that a member of such service may not hear an appeal originating in the district for which such member is appointed or designated under section 152 of this title.
 

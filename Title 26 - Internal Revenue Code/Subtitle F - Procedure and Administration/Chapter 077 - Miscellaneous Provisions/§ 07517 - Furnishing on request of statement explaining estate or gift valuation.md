@@ -16,7 +16,7 @@ A statement required to be furnished under subsection (a) with respect to the va
 
 #### (c) Effect of statement
 
-Except to the extent otherwise provided by law, the value determined or proposed by theSecretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
+Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
 
 (Added Pub. L. 94–455, title XX, §2008(a)(1), Oct. 4, 1976, 90 Stat. 1891.)
 

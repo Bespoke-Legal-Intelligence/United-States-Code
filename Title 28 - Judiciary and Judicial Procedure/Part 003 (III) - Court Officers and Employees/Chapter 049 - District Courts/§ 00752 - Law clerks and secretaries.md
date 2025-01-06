@@ -14,7 +14,7 @@ Words in section 128 of title 28, U.S.C., 1940 ed., "but there shall not be appo
 
 Provisions of section 128 of title 28, U.S.C., 1940 ed., relating to salary, or compensation of such clerks are incorporated in section 604 of this title. (See reviser's note under that section.)
 
-The provisions in section 5b of title 28, U.S.C., 1940 ed., that district judges shall not appoint more thanthree law clerks in any one circuit was not repeated in the Judiciary Appropriation Acts, 1944, 1945, and 1946, 57 Stat. 242, 58 Stat. 357, 59 Stat. 196, ch. 129. The Director of the Administrative Office for United States Courts advises that as a matter of fact, more than three law clerks are serving district judges in several of the circuits at the present time. Consequently the limitation is omitted from this section.
+The provisions in section 5b of title 28, U.S.C., 1940 ed., that district judges shall not appoint more than three law clerks in any one circuit was not repeated in the Judiciary Appropriation Acts, 1944, 1945, and 1946, 57 Stat. 242, 58 Stat. 357, 59 Stat. 196, ch. 129. The Director of the Administrative Office for United States Courts advises that as a matter of fact, more than three law clerks are serving district judges in several of the circuits at the present time. Consequently the limitation is omitted from this section.
 
 The provision for appointment of secretaries is new. Existing law fixes compensation of secretaries but makes no provision for their appointment. (See section 604 of this title and reviser's note thereunder.)
 

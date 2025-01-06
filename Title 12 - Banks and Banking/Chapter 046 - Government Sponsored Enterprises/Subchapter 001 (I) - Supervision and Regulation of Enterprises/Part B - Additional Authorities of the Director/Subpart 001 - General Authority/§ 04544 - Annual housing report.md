@@ -80,7 +80,7 @@ The report required under subsection (a) shall—
 
 #### (4) Definition
 
-&emsp;For purposes of this subsection, the term "identifiable form" means any representation of information that permits the identity of aborrower to which the information relates to be reasonably inferred by either direct or indirect means.
+&emsp;For purposes of this subsection, the term "identifiable form" means any representation of information that permits the identity of a borrower to which the information relates to be reasonably inferred by either direct or indirect means.
 
 (Pub. L. 102–550, title XIII, §1324, as added Pub. L. 110–289, div. A, title I, §1125(b), July 30, 2008, 122 Stat. 2693.)
 

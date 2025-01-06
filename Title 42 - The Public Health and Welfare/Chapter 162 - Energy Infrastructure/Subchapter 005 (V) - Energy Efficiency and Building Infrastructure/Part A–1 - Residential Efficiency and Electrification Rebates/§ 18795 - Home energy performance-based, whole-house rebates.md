@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $4,300,000,000, to remain available through September 30, 2031, to carry out a program to award grantsto State energy offices to develop and implement a HOMES rebate program.
+&emsp;In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $4,300,000,000, to remain available through September 30, 2031, to carry out a program to award grants to State energy offices to develop and implement a HOMES rebate program.
 
 #### (2) Allocation of funds
 
@@ -44,7 +44,7 @@ A State energy office seeking a grant under this section shall submit to the Sec
 
 &emsp;&emsp;(B) details the work performed, the equipment and materials installed, and the projected energy savings or energy generation to support accurate valuation of the retrofit;
 
-&emsp;(5) to provide a contractor performing a home energy efficiency retrofit or an aggregator who has the right to claim a rebate $200 for each home located in a disadvantaged community that receives a home energy efficiency retrofit for which a rebate is provided under the program; and
+&emsp;(5) to provide a contractor performing a home energy efficiency retrofit or an aggregator who has the right to claim a rebate $200 for each home located in a disadvantagedcommunity that receives a home energy efficiency retrofit for which a rebate is provided under the program; and
 
 &emsp;(6) to ensure that a homeowner or aggregator does not receive a rebate for the same upgrade through both a HOMES rebate program and any other Federal grant or rebate program, pursuant to subsection (c)(7).
 
@@ -128,7 +128,7 @@ A State energy office seeking a grant under this section shall submit to the Sec
 
 #### (7) Prohibition on combining rebates
 
-&emsp;A rebate provided by a State energy office under a HOMES rebate program may not be combined with any other Federal grant or rebate, including a rebate provided under a high-efficiency electric home rebate program (as defined in section 18795a(d) of this title), for the same single upgrade.
+&emsp;A rebate provided by a State energy office under a HOMES rebate program may not be combined with any other Federal grant or rebate, including a rebate provided under a high-efficiency electric home rebate program (asdefined in section 18795a(d) of this title), for the same single upgrade.
 
 #### (d) Definitions
 

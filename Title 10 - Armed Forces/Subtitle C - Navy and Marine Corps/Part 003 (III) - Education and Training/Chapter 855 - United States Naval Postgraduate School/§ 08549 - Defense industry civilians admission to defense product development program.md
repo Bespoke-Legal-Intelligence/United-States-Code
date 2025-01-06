@@ -14,7 +14,7 @@ Annual Determination by the Secretary of the Navy.—Defense industry employees 
 
 &emsp;(1) will further the military mission of the school;
 
-&emsp;(2) will enhance the ability of the Department of Defense and defense-oriented private sector contractors engaged in the design and development of defense systems to reduce the product and project lead times required tobring such systems to initial operational capability; and
+&emsp;(2) will enhance the ability of the Department of Defense and defense-oriented private sector contractors engaged in the design and development of defense systems to reduce the product and project lead times required to bring such systems to initial operational capability; and
 
 &emsp;(3) will be done on a space-available basis and not require an increase in the size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
 

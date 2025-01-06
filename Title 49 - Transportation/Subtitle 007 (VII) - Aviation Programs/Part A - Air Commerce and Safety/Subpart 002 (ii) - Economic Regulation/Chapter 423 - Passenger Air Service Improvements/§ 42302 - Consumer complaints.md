@@ -2,55 +2,51 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall establish a consumer complaints toll-free hotline telephone number for the use of passengers in air transportation (including transportation by air ambulance (as defined by the Secretary of Transportation)) and shall take actions to notify the public of—
+In General.—The Secretary of Transportation shall—
 
-&emsp;(1) that telephone number; and
+&emsp;(1) maintain an accessible website through the Office of Aviation Consumer Protection to accept the submission of complaints from airline passengers regarding air travel service problems; and
 
-&emsp;(2) the Internet Web site of the Aviation Consumer Protection Division of the Department of Transportation.
+&emsp;(2) take appropriate actions to notify the public of such accessible website.
 
 (b)
 
-Notice to Passengers on the Internet.—An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include on the Internet Web site of the carrier—
+Notice to Passengers on the Internet.—An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include on the accessible website of the carrier—
 
-&emsp;(1) the hotline telephone number established under subsection (a);
+&emsp;(1) the accessible website, e-mail address, or telephone number of the air carrier for the submission of complaints by passengers about air travel service problems; and
 
-&emsp;(2) the e-mail address, telephone number, and mailing address of the air carrier for the submission of complaints by passengers about air travel service problems; and
-
-&emsp;(3) the Internet Web site and mailing address of the Aviation Consumer Protection Division of the Department of Transportation for the submission of complaints by passengers about air travel service problems.
+&emsp;(2) the accessible website maintained pursuant to subsection (a).
 
 (c)
 
-Notice to Passengers on Boarding Documentation.—Each air carrier and foreign air carrier shall include the hotline telephone number established under subsection (a) on—
+Use of Additional or Alternative Technologies.—The Secretary shall periodically evaluate the benefits of using mobile phone applications or other widely used technologies to—
 
-&emsp;(1) prominently displayed signs of the carrier at the airport ticket counters in the United States where the carrier operates; and
+&emsp;(1) provide additional or alternative means for air passengers to submit complaints; and
 
-&emsp;(2) any electronic confirmation of the purchase of a passenger ticket for air transportation issued by the carrier.
+&emsp;(2) provide such additional or alternative means as the Secretary determines appropriate.
 
 (d)
 
-Use of New Technologies.—The Secretary shall periodically evaluate the benefits of using mobile phone applications or other widely used technologies to provide new means for air passengers to communicate complaints in addition to the telephone number established under subsection (a) and shall provide such new means as the Secretary determines appropriate.
+Air Ambulance Providers.—Each air ambulance provider shall include the accessible website, or a link to such accessible website, maintained pursuant to subsection (a) and the contact information for the Aviation Consumer Advocate established by section 424 of the FAA Reauthorization Act of 2018 (49 U.S.C. 42302 note) on—
 
-(e)
+&emsp;(1) any invoice, bill, or other communication provided to a passenger or customer of such provider; and
 
-Air Ambulance Providers.—Each air ambulance provider shall include the hotline telephone number, link to the Internet website established under subsection (a), and contact information for the Aviation Consumer Advocate established under section 425 <sup>1</sup> on—
+&emsp;(2) the accessible website and any related mobile device application of such provider.
 
-&emsp;(1) any invoice, bill, or other communication provided to a passenger or customer of the provider; and
-
-&emsp;(2) its Internet Web site, and any related mobile device application.
-
-(Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 95; amended Pub. L. 115–254, div. B, title IV, §§405, 419(a), 423(a), Oct. 5, 2018, 132 Stat. 3329, 3336, 3337.)
+(Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 95; amended Pub. L. 115–254, div. B, title IV, §§405, 419(a), 423(a), Oct. 5, 2018, 132 Stat. 3329, 3336, 3337; Pub. L. 118–63, title V, §520, May 16, 2024, 138 Stat. 1200.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 425, referred to in subsec. (e), is probably a reference to section 425 of Pub. L. 115–254 but should be a reference to section 424 of Pub. L. 115–254, which is set out as a note below and relates to the establishment of an Aviation Consumer Advocate. There is no section 425 of this title, and section 425 of Pub. L. 115–254, which is set out as a note preceding section 42301 of this title, relates to prohibition of denial of boarding for certain revenue passengers.
+Section 424 of the FAA Reauthorization Act of 2018, referred to in subsec. (d), is section 424 of Pub. L. 115–254, which is set out as a note below.
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–63 amended section generally. Prior to amendment, section related to various means by which passengers could register consumer complaints.
+
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §419(a)(1), inserted "(including transportation by air ambulance (as defined by the Secretary of Transportation))" after "air transportation" in introductory provisions.
 
-Subsec. (c). Pub. L. 115–254, §423(a)(1), substituted "Each air carrier and foreign air carrier" for "An aircarrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats" in introductory provisions.
+Subsec. (c). Pub. L. 115–254, §423(a)(1), substituted "Each air carrier and foreign air carrier" for "An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 115–254, §423(a)(2), substituted "carrier operates" for "air carrier operates".
 
@@ -72,7 +68,7 @@ Pub. L. 115–254, div. B, title IV, §423(b), Oct. 5, 2018, 132 Stat. 3337, pro
 
 #### Aviation Consumer Advocate
 
-Pub. L. 115–254, div. B, title IV, §424, Oct. 5, 2018, 132 Stat. 3337, as amended by Pub. L. 118–15, div. B, title II, §2202(s), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(s), Dec. 26, 2023, 137 Stat. 1114, provided that:
+Pub. L. 115–254, div. B, title IV, §424, Oct. 5, 2018, 132 Stat. 3337, as amended by Pub. L. 118–15, div. B, title II, §2202(s), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(s), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, §102(s), Mar. 8, 2024, 138 Stat. 22; Pub. L. 118–63, title V, §509, May 16, 2024, 138 Stat. 1193, provided that:
 
 "(a)
 
@@ -130,7 +126,7 @@ Annual Reports.—The Secretary, through the Aviation Consumer Advocate, shall s
 
 "(e)
 
-Sunset on Reporting Requirement.—The reporting requirement of subsection (d) shall terminate on March 8, 2024."
+Sunset on Reporting Requirement.—The reporting requirement of subsection (d) shall terminate on October 1, 2028."
 
 \[For definition of "ticket agent" as used in section 424 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.\]
 
@@ -151,6 +147,4 @@ Pub. L. 112–95, title IV, §408, Feb. 14, 2012, 126 Stat. 87, provided that: "
 &emsp;"(6) the rights of passengers who hold frequent flyer miles or equivalent redeemable awards earned through customer-loyalty programs; and
 
 &emsp;"(7) deceptive or misleading advertising."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

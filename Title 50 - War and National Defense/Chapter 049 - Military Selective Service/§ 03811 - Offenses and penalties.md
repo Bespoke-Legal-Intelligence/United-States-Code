@@ -48,7 +48,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original "this tit
 
 This Act, referred to in subsec. (e), is act June 24, 1948, ch. 625, 62 Stat. 604, known as the Military Selective Service Act. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. TitleIV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -234,7 +234,7 @@ The Attorney General is directed to exercise his discretion under 8 U.S.C. 1182(
 
 This shall not include anyone who falls into the exceptions of paragraphs 1(a) and (b) and 2(a) and (b) above.
 
-4\. Any individual offered conditional clemency or granted a pardon or other clemency under Executive Order 11803 \[set out above\] or Presidential Proclamation 4313, dated September 16, 1974 \[set out above\], shallreceive the full measure of relief afforded by this program if they are otherwise qualified under the terms of this Executive Order.
+4\. Any individual offered conditional clemency or granted a pardon or other clemency under Executive Order 11803 \[set out above\] or Presidential Proclamation 4313, dated September 16, 1974 \[set out above\], shall receive the full measure of relief afforded by this program if they are otherwise qualified under the terms of this Executive Order.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

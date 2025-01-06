@@ -14,7 +14,7 @@ For purposes of this section, the term "emergency condition" means, with respect
 
 #### (b) Presidential action
 
-Subject to subsection (c), if the President determines that an emergency condition applies with respect to any archaeological or ethnological material of any State Party, the President may apply the import restrictions set forthin section 2606 of this title with respect to such material.
+Subject to subsection (c), if the President determines that an emergency condition applies with respect to any archaeological or ethnological material of any State Party, the President may apply the import restrictions set forth in section 2606 of this title with respect to such material.
 
 #### (c) Limitations
 
@@ -44,5 +44,5 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
 
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
+For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986,51 F.R. 8475, set out as a note under section 2602 of this title.
 

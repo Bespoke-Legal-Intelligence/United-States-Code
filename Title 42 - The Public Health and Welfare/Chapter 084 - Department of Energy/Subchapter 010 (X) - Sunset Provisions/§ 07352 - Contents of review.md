@@ -4,7 +4,7 @@ Each comprehensive review prepared for submission under section 7351 of this tit
 
 &emsp;(1) the name of the component of the Department responsible for administering the program;
 
-&emsp;(2) an identification of the objectives intended for the program and the problem or need which the program was intended to address;
+&emsp;(2) an identification of the objectives intended for the program and the problem orneed which the program was intended to address;
 
 &emsp;(3) an identification of any other programs having similar or potentially conflicting or duplicative objectives;
 

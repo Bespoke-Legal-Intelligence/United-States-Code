@@ -12,7 +12,7 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 &emsp;&emsp;(B) the extent of success the State has achieved in ensuring that retailers do not sell tobacco products to individuals under the age of 21; and
 
-&emsp;&emsp;(C) the strategies to be utilized by the State to ensure that retailers do not sell tobacco products to individuals under the age of 21 during the fiscal year for which the grant is sought.
+&emsp;&emsp;(C) the strategies to be utilized by the State to ensure that retailers do not sell tobacco products to individuals under the ageof 21 during the fiscal year for which the grant is sought.
 
 #### (b) Noncompliance of State
 

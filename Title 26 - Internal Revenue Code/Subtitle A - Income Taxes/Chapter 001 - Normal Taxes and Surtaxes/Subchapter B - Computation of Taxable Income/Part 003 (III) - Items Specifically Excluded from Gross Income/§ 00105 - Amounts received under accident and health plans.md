@@ -208,7 +208,7 @@ Subsec. (h). Pub. L. 95–600, §366(a), added subsec. (h).
 
 Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out "a territory" after "of a State".
 
-<b>1964</b>—Subsec. (d). Pub. L. 88–272 substituted provisions stating that "The preceding sentence shall not apply to amounts attributable to the first 30" days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said "preceding sentence" did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
+<b>1964</b>—Subsec. (d). Pub. L. 88–272 substituted provisions stating that "The preceding sentence shall not apply to amounts attributable to the first 30" days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating thatsaid "preceding sentence" did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
 
 <b>1962</b>—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
@@ -294,7 +294,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Revocation of Election
 
-Pub. L. 95–30, title III, §301(c), May 23, 1977, 91 Stat. 151, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Any election made under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] for a taxable year beginning in 1976 may be revoked (in such manner as may be prescribed by regulations) at any time before the expiration of the period for assessing a deficiency with respect to such taxable year (determined without regard to subsection (d) of this section) \[set out below\]."
+Pub. L. 95–30, title III, §301(c), May 23, 1977, 91 Stat. 151, as amended by Pub. L. 95–600, title VII,§701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Any election made under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] for a taxable year beginning in 1976 may be revoked (in such manner as may be prescribed by regulations) at any time before the expiration of the period for assessing a deficiency with respect to such taxable year (determined without regard to subsection (d) of this section) \[set out below\]."
 
 #### Period for Assessing Deficiency
 

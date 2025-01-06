@@ -12,7 +12,7 @@ A company is eligible to apply to be designated as a Renewable Fuel Capital Inve
 
 #### (b) Application
 
-A company desiring to be designated as a Renewable Fuel Capital Investment company shall submit an application to the Administrator that includes—
+A company desiring to be designated as a Renewable Fuel Capital Investment company shallsubmit an application to the Administrator that includes—
 
 &emsp;(1) a business plan describing how the company intends to make successful venture capital investments in smaller enterprises primarily engaged in the research, manufacture, development, production, or bringing to market of goods, products, or services that generate or support the production of renewable energy;
 
@@ -90,7 +90,7 @@ A company desiring to be designated as a Renewable Fuel Capital Investment compa
 
 #### (C) Limitation
 
-&emsp;&emsp;The total amount of a <sup>2</sup> in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+&emsp;&emsp;The total amount of a <sup>2</sup> in-kind contributions by a company shall be not more than50 percent of the total contributions by a company.
 
 #### (e) Final approval; designation
 

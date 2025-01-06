@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) creating an active trade or business, or
 
-&emsp;&emsp;&emsp;(iii) any activity engaged in for profit and for the production of income before the day on which the active trade or business begins, in anticipation of such activity becoming an active trade or business, and
+&emsp;&emsp;&emsp;(iii) any activity engaged in for profit and for the production of income beforethe day on which the active trade or business begins, in anticipation of such activity becoming an active trade or business, and
 
 &emsp;&emsp;(B) which, if paid or incurred in connection with the operation of an existing active trade or business (in the same field as the trade or business referred to in subparagraph (A)), would be allowable as a deduction for the taxable year in which paid or incurred.
 

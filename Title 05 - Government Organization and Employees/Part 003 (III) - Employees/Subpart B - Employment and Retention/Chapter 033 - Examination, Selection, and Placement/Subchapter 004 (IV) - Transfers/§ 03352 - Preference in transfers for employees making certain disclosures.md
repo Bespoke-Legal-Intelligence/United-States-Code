@@ -8,7 +8,7 @@
 
 &emsp;(3) the Merit Systems Protection Board makes a determination under the provisions of chapter 12 that a prohibited personnel action described under section 2302(b)(8) was taken against such employee.
 
-(b) An employee who meets the conditions described under subsection (a)(1), (2), and (3) may voluntarily apply for a transfer to a position, as described in subsection (a), within the Executive agency employing such employee or any other Executive agency.
+(b) An employee who meets the conditions described under subsection (a)(1), (2), and (3) may voluntarily apply for a transfer to a position, asdescribed in subsection (a), within the Executive agency employing such employee or any other Executive agency.
 
 (c) If an employee applies for a transfer under the provisions of subsection (b) and the selecting official rejects such application, the selecting official shall provide the employee with a written notification of the reasons for the rejection within 30 days after receiving such application.
 

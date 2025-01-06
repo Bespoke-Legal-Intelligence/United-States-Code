@@ -14,7 +14,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;(5) knowingly engages in, is responsible for, or facilitates serious human rights abuses by the Government of North Korea;
 
-&emsp;(6) knowingly, directly or indirectly, engages in money laundering, the counterfeitingof goods or currency, bulk cash smuggling, or narcotics trafficking that supports the Government of North Korea or any senior official or person acting for or on behalf of that Government;
+&emsp;(6) knowingly, directly or indirectly, engages in money laundering, the counterfeiting of goods or currency, bulk cash smuggling, or narcotics trafficking that supports the Government of North Korea or any senior official or person acting for or on behalf of that Government;
 
 &emsp;(7) knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea;
 
@@ -68,7 +68,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;&emsp;(H) knowingly, directly or indirectly, sold, transferred, or otherwise provided significant amounts of crude oil, condensates, refined petroleum, other types of petroleum or petroleum byproducts, liquified natural gas, or other natural gas resources to the Government of North Korea (except for heavy fuel oil, gasoline, or diesel fuel for humanitarian use or as excepted under subsection (a)(11));
 
-&emsp;&emsp;(I) knowingly, directly or indirectly, engaged in, facilitated, or was responsible forthe online commercial activities of the Government of North Korea, including online gambling;
+&emsp;&emsp;(I) knowingly, directly or indirectly, engaged in, facilitated, or was responsible for the online commercial activities of the Government of North Korea, including online gambling;
 
 &emsp;&emsp;(J) knowingly, directly or indirectly, purchased or otherwise acquired fishing rights from the Government of North Korea;
 
@@ -140,7 +140,7 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 &emsp;&emsp;(C) knowingly, directly or indirectly, engages in, facilitates, or is responsible for the exportation of workers from North Korea, or the employment of such workers, in a manner that generates significant revenue, directly or indirectly, for use by the Government of North Korea or by the Workers' Party of Korea;
 
-&emsp;&emsp;(D) knowingly, directly or indirectly, sells or transfers a significant number of vesselsto North Korea, except as specifically approved by the United Nations Security Council;
+&emsp;&emsp;(D) knowingly, directly or indirectly, sells or transfers a significant number of vessels to North Korea, except as specifically approved by the United Nations Security Council;
 
 &emsp;&emsp;(E) knowingly engages in a significant activity to charter, insure, register, facilitate the registration of, or maintain insurance or a registration for, a vessel owned, controlled, commanded, or crewed by a North Korean person; or
 
@@ -172,7 +172,7 @@ Subsec. (e). Pub. L. 116–92, §7122(a)(4), substituted "(a), (b), or (g)" for 
 
 Subsec. (g). Pub. L. 116–92, §7122(a)(1), added subsec. (g).
 
-<b>2017</b>—Subsec. (a)(9). Pub. L. 115–44, §311(a)(1), substituted "or any defense article or defense service (as such terms are defined in section 2794 of this title);" for "; or"
+<b>2017</b>—Subsec. (a)(9). Pub. L. 115–44, §311(a)(1), substituted "or any defense article or defense service (as such terms are defined in section 2794 of this title);" for "; or".
 
 Subsec. (a)(10) to (15). Pub. L. 115–44, §311(a)(2)–(4), added pars. (10) to (14), redesignated former par. (10) as (15), and in par. (15), substituted "(14)" for "(9)".
 
@@ -186,7 +186,7 @@ Subsec. (c). Pub. L. 115–44, §311(c), designated existing text as par. (1), i
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–44, title III, §311(b)(2), Aug. 2, 2017, 131 Stat. 943, provided that: "The amendments made by paragraph (1) \[amending this section\] take effect on the date of the enactment of this Act \[Aug. 2, 2017\] and apply with respect to conduct described in subparagraphs (D) through (N) of section 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 \[22 U.S.C. 9214(b)(1)\], as added by paragraph (1), engaged in on or after such date of enactment."
+Pub. L. 115–44, title III, §311(b)(2), Aug. 2, 2017, 131 Stat. 943, provided that: "The amendments made byparagraph (1) \[amending this section\] take effect on the date of the enactment of this Act \[Aug. 2, 2017\] and apply with respect to conduct described in subparagraphs (D) through (N) of section 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 \[22 U.S.C. 9214(b)(1)\], as added by paragraph (1), engaged in on or after such date of enactment."
 
 #### <b>Executive Documents</b>
 

@@ -12,11 +12,11 @@ A prior section 5610, act Aug. 16, 1954, ch. 736, 68A Stat. 685, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5622, act Aug. 16, 1954, ch. 736, 68A Stat. 687, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–39 substituted "or processing" for "or rectifying".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

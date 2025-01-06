@@ -78,7 +78,7 @@ Concealment.—Whoever—
 
 &emsp;(1)(A) is in the United States; or
 
-&emsp;(B) is outside the United States and is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
+&emsp;(B) is outside the United States and is a national of the United States or a legal entityorganized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
 
 &emsp;(2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support or resources, or any funds or proceeds of such funds—
 

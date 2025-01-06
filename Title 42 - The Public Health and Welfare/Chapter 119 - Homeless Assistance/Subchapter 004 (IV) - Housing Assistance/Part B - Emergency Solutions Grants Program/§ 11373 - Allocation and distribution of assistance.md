@@ -22,7 +22,7 @@ Any local government receiving assistance under this part may distribute all or 
 
 #### (e) Allocations to territories
 
-In addition to the other allocations required in this section, the Secretary shall (for amountsappropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
+In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
 (Pub. L. 100–77, title IV, §414, formerly §413, July 22, 1987, 101 Stat. 496; Pub. L. 100–628, title IV, §421, Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(f)(3)–(5), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(3), Oct. 26, 1996, 110 Stat. 4044; renumbered §414 and amended Pub. L. 111–22, div. B, title II, §1201(3), (5), May 20, 2009, 123 Stat. 1678, 1679; Pub. L. 114–94, div. G, title LXXIX, §79002, Dec. 4, 2015, 129 Stat. 1792; Pub. L. 114–201, title IV, §402, July 29, 2016, 130 Stat. 808.)
 

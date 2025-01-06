@@ -28,9 +28,9 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 &emsp;(4) In acquiring by contract supplies or services for an amount estimated to be more than $200,000, or awarding concession contracts, the Airports Authority to the maximum extent practicable shall obtain complete and open competition through the use of published competitive procedures. By a vote of 7 members, the Airports Authority may grant exceptions to the requirements of this paragraph.
 
-&emsp;(5)(A) Except as provided in subparagraph (B) of this paragraph, all regulations of the Metropolitan Washington Airports (14 CFR part 159) become regulations of the Airports Authority as of June 7, 1987, and remain in effect until modified or revoked by the Airports Authority under procedures of the Airports Authority.
+&emsp;(5)(A) Except as provided in subparagraph (B) of this paragraph, all regulations of the Metropolitan Washington Airports (14 CFR part 159) <sup>1</sup> become regulations of the Airports Authority as of June 7, 1987, and remain in effect until modified or revoked by the Airports Authority under procedures of the Airports Authority.
 
-&emsp;(B) Sections 159.59(a) and 159.191 of title 14, Code of Federal Regulations, do not become regulations of the Airports Authority.
+&emsp;(B) Sections 159.59(a) and 159.191 of title 14, Code of Federal Regulations,<sup>1</sup> do not become regulations of the Airports Authority.
 
 &emsp;(C) The Airports Authority may not increase or decrease the number of instrument flight rule takeoffs and landings authorized by the High Density Rule (14 CFR 93.121 et seq.) at Ronald Reagan Washington National Airport on October 18, 1986, and may not impose a limitation on the number of passengers taking off or landing at Ronald Reagan Washington National Airport.
 
@@ -40,7 +40,7 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 &emsp;(B) The procedure for disputes resolution contained in any contract entered into on behalf of the United States Government before June 7, 1987, continues to govern the performance of the contract unless otherwise agreed to by the parties to the contract. Claims for monetary damages founded in tort, by or against the Government as the owner and operator of the Metropolitan Washington Airports, arising before June 7, 1987, shall be adjudicated as if the lease had not been entered into.
 
-&emsp;(C) The Administration is responsible for reimbursing the Employees' Compensation Fund, as provided in section 8147 of title 5, forcompensation paid or payable after June 7, 1987, in accordance with chapter 81 of title 5 for any injury, disability, or death due to events arising before June 7, 1987, whether or not a claim was filed or was final on that date.
+&emsp;(C) The Administration is responsible for reimbursing the Employees' Compensation Fund, as provided in section 8147 of title 5, for compensation paid or payable after June 7, 1987, in accordance with chapter 81 of title 5 for any injury, disability, or death due to events arising before June 7, 1987, whether or not a claim was filed or was final on that date.
 
 &emsp;(D) The Airports Authority shall continue all collective bargaining rights enjoyed by employees of the Metropolitan Washington Airports before June 7, 1987.
 
@@ -154,6 +154,8 @@ Section 6005(a) of the Metropolitan Washington Airports Act of 1986, referred to
 
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
 
+Part 159 of title 14 of the Code of Federal Regulations, including sections 159.59 and 159.191, referred to in subsec. (a)(5)(A), (B), was removed from the Code of Federal Regulations by the Federal Aviation Administration by final rule, effective May 2, 1996. See 61 F.R. 19784.
+
 #### Prior Provisions
 
 A prior section 49104 was renumbered section 50104 of this title.
@@ -171,4 +173,6 @@ A prior section 49104 was renumbered section 50104 of this title.
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

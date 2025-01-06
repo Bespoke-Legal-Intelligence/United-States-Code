@@ -22,5 +22,5 @@ Before an element of the intelligence community purchases, leases, or constructs
 
 #### Definitions
 
-For definition of "intelligence community", referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under section 3003 of this title.
+For definition of "intelligence community" as used in this section, see section 2 of div. N of Pub. L. 115–31, set out as a note under section 3003 of this title.
 

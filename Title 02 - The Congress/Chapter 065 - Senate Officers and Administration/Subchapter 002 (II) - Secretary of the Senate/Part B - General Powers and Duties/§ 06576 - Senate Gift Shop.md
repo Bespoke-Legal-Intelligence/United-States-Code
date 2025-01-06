@@ -10,7 +10,7 @@ All moneys received from sales and other services by the Senate Gift Shop shall 
 
 #### (c) Revolving fund
 
-(1) There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the "fund"). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading "
+(1) There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the "fund"). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation ofthe Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading "
 
 Salaries, Officers and Employees" and "
 
@@ -30,7 +30,7 @@ To provide capital for the fund, the Secretary of the Senate is authorized to tr
 
 #### (f) Authorization to expend from appropriations account for initial expenses
 
-For the purpose of acquiring supplies, equipment, and meeting other initial expenses in implementing subsection (a), the Secretary of theSenate is authorized, upon October 6, 1992, to expend, from moneys appropriated to the appropriations account, within the contingent fund of the Senate, for expenses of the Secretary of the Senate, by the Legislative Branch Appropriations Act, 1991, such amounts as may be necessary to carry out this section.
+For the purpose of acquiring supplies, equipment, and meeting other initial expenses in implementing subsection (a), the Secretary of the Senate is authorized, upon October 6, 1992, to expend, from moneys appropriated to the appropriations account, within the contingent fund of the Senate, for expenses of the Secretary of the Senate, by the Legislative Branch Appropriations Act, 1991, such amounts as may be necessary to carry out this section.
 
 #### (g) Disbursement on approved voucher
 

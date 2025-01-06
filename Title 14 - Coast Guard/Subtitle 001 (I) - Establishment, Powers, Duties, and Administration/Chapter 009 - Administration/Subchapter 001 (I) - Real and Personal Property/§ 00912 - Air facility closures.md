@@ -80,7 +80,7 @@ Subsec. (a)(3). Pub. L. 115–282, §319(3)(A), amended par. (3) generally. Prio
 
 Subsec. (a)(4). Pub. L. 115–282, §319(3)(B)(i), substituted "2017" for "2015" in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 115–282, §319(3)(B)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "submit to the Congress a proposal for such closure, cessation, or reduction in operations along with the budget of the President submitted to Congress under section 1105(a) of title 31 for the fiscal year in which the action will be carried out; and".
+Subsec. (a)(4)(A). Pub. L. 115–282, §319(3)(B)(ii), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "submit to the Congress a proposal for such closure, cessation, or reduction in operations along with the budget of the President submitted to Congress under section 1105(a) of title 31 for the fiscal year in which the action will be carried out; and".
 
 Subsec. (a)(5). Pub. L. 115–282, §319(3)(C), added par. (5).
 
@@ -92,7 +92,7 @@ Subsecs. (b), (c). Pub. L. 115–282, §319(2), redesignated subsec. (c) as (b).
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e)of Pub. L. 114–328, set out as a note under section 315 of this title.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 315 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "; and".</i>
 

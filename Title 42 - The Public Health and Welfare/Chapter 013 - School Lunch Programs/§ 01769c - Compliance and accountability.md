@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the nutritional requirements of section 1758(f) of this title for school lunches; and
 
-&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
+&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
 
 #### (b) Functions of system
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A local educational agency that has demonstrated a high level of, or a high risk for, administrative error associated with certification, verification, and other administrative processes, as determined by the Secretary, shall ensure that the initial eligibility determination for each application is reviewed for accuracy prior to notifying a household of the eligibility or ineligibilityof the household for free or reduced price meals.
+&emsp;&emsp;A local educational agency that has demonstrated a high level of, or a high risk for, administrative error associated with certification, verification, and other administrative processes, as determined by the Secretary, shall ensure that the initial eligibility determination for each application is reviewed for accuracy prior to notifying a household of the eligibility or ineligibility of the household for free or reduced price meals.
 
 #### (B) Timeliness
 
@@ -174,7 +174,7 @@ There is authorized to be appropriated for purposes of carrying out the complian
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish criteria by which the Secretary or a State agency may impose a fine against any school food authority or school administering a program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) if the Secretary or the State agency determines that the school food authority or school has—
+&emsp;&emsp;The Secretary shall establish criteria by which the Secretary or a State agency mayimpose a fine against any school food authority or school administering a program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) if the Secretary or the State agency determines that the school food authority or school has—
 
 &emsp;&emsp;&emsp;(i) failed to correct severe mismanagement of the program;
 

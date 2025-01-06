@@ -64,7 +64,7 @@ In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97�
 
 Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
-"(a) The Secretary of a military department may contract for the storage, handling, and distribution of liquid fuels for periods of not more than five years, with options to renew for additional periods of not more than five years each, but not for more than a total of 20 years.
+"(a) The Secretary of a military department may contract for the storage, handling, and distribution ofliquid fuels for periods of not more than five years, with options to renew for additional periods of not more than five years each, but not for more than a total of 20 years.
 
 "(b) This section applies only to facilities that conform to standards prescribed by the Secretary of Defense for protection, including dispersal, and that are in a program approved by the Secretary of Defense for the protection of petroleum facilities."
 
@@ -88,7 +88,15 @@ Pub. L. 115–91, div. A, title VIII, §881(b), Dec. 12, 2017, 131 Stat. 1504, p
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and toconstruction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+
+#### Implementation of Inspector General Recommendations Relating to Oversight of Defense Fuel Support Points
+
+Pub. L. 118–159, div. A, title III, §320, Dec. 23, 2024, 138 Stat. 1853, provided that: "With respect to each recommendation of the Inspector General of the Department of Defense contained in the report published by the Inspector General on April 11, 2024, and titled 'Audit of the Defense Logistics Agency Oversight of Defense Fuel Support Points' (DODIG–2024–075), by not later than May 1, 2026, the Secretary of Defense shall—
+
+&emsp;"(1) implement such recommendation; or
+
+&emsp;"(2) submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing an explanation of why the Secretary has not implemented the recommendation."
 
 #### Bulk Fuel Management in United States Indo-Pacific Command Area of Responsibility
 

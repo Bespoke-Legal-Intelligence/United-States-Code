@@ -46,7 +46,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 #### (d) Powers and authorities
 
-(1) In carrying out the duties specified in subsection (c), the Special Inspector General shallhave the authorities provided in section 406 of title 5.
+(1) In carrying out the duties specified in subsection (c), the Special Inspector General shall have the authorities provided in section 406 of title 5.
 
 (2) The Special Inspector General shall carry out the duties specified in subsection (c)(1) and (4) in accordance with section 404(b)(1) of title 5.
 
@@ -74,7 +74,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 (B) Whenever information or assistance requested by the Special Inspector General is, in the judgment of the Special Inspector General, unreasonably refused or not provided, the Special Inspector General shall report the circumstances to the appropriate committees of Congress without delay.
 
-(5)(A) Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84.<sup>1</sup>
+(5)(A) Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for theTroubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84.<sup>1</sup>
 
 (B) Subparagraph (A) shall apply to—
 

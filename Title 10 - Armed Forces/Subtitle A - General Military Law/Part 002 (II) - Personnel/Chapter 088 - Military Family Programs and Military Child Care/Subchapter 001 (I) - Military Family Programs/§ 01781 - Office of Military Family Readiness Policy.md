@@ -494,7 +494,7 @@ Use of Support.—Support provided by the Secretary of Defense to an organizatio
 
 #### Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families
 
-Pub. L. 111–84, div. A, title V, §561, Oct. 28, 2009, 123 Stat. 2302, provided that:
+Pub. L. 111–84, div. A, title V, §561, Oct. 28, 2009, 123 Stat. 2302, as amended by Pub. L. 118–159, div. A, title VI, §634, Dec. 23, 2024, 138 Stat. 1937, provided that:
 
 "(a)
 
@@ -532,17 +532,19 @@ Covered Benefits and Services.—The information provided through the online res
 
 &emsp;"(10) Quality of life programs.
 
-&emsp;"(11) Family and community programs.
+&emsp;"(11) Programs that encourage paternal engagement with the family.
 
-&emsp;"(12) Employment assistance upon separation or retirement of a member or for the spouse of the member.
+&emsp;"(12) Family and community programs.
 
-&emsp;"(13) Reserve component service for members completing service in a regular component.
+&emsp;"(13) Employment assistance upon separation or retirement of a member or for the spouse of the member.
 
-&emsp;"(14) Disability benefits, including offsets in connection with the receipt of such benefits.
+&emsp;"(14) Reserve component service for members completing service in a regular component.
 
-&emsp;"(15) Benefits and services provided under laws administered by the Secretary of Veterans Affairs.
+&emsp;"(15) Disability benefits, including offsets in connection with the receipt of such benefits.
 
-&emsp;"(16) Such other benefits and services as the Secretary of Defense considers appropriate.
+&emsp;"(16) Benefits and services provided under laws administered by the Secretary of Veterans Affairs.
+
+&emsp;"(17) Such other benefits and services as the Secretary of Defense considers appropriate.
 
 "(c)
 
@@ -554,7 +556,7 @@ Implementation Report.—Not later than one year after the date of the enactment
 
 #### Education and Treatment Services for Military Dependent Children With Autism
 
-Pub. L. 110–181, div. A, title V, §587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment ofthe availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, §563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
+Pub. L. 110–181, div. A, title V, §587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, §563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
 
 #### Joint Family Support Assistance Program
 
@@ -582,7 +584,7 @@ Locations.—The Secretary of Defense shall carry out the program in not less th
 
 "(c)
 
-Resources and Volunteers.—The Secretary of Defense shall provide personnel and other resources of the Department of Defense necessary for the implementation and operation of the program and may accept and utilize the services of non-Government volunteers and non-profit entities under the program.
+Resources and Volunteers.—The Secretary of Defense shall provide personnel and other resources ofthe Department of Defense necessary for the implementation and operation of the program and may accept and utilize the services of non-Government volunteers and non-profit entities under the program.
 
 "(d)
 
@@ -672,13 +674,13 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 My Administration has maintained a steadfast commitment to honor and serve the brave men and women who have served this country. Like all service members and veterans, foreign-born residents and naturalized citizens serving in the United States Armed Forces are shining examples of the American dream. These brave new Americans have taken the extraordinary step of answering the call to duty, to support and defend our country. Some have made the ultimate sacrifice for our country before becoming American citizens.
 
-New American service members are undoubtedly a critical element of our national security. They risk their lives all over the world in the name of the UnitedStates, securing shipping lanes, protecting bases and embassies, providing medical assistance, and conducting humanitarian missions. Tens of thousands of lawful permanent residents and naturalized U.S. citizens currently serve in our Armed Forces. Many more are veterans who have served previously in the Armed Forces. Additionally, many U.S.-born service members have immediate family members who were born abroad.
+New American service members are undoubtedly a critical element of our national security. They risk their lives all over the world in the name of the United States, securing shipping lanes, protecting bases and embassies, providing medical assistance, and conducting humanitarian missions. Tens of thousands of lawful permanent residents and naturalized U.S. citizens currently serve in our Armed Forces. Many more are veterans who have served previously in the Armed Forces. Additionally, many U.S.-born service members have immediate family members who were born abroad.
 
 Over the past decade, the Departments of Defense, Veterans Affairs, and Homeland Security have strengthened partnerships to provide services and opportunities to service members, veterans, and their families interacting with the U.S. immigration system. Indeed, since 2001, more than 110,000 service members have been naturalized and many were assisted in the process through partnerships such as the "Naturalization at Basic Training Initiative," which gives non-citizen enlistees the opportunity to naturalize during basic training. Despite these efforts, service members, veterans, and their families still face barriers to accessing immigration benefits and other assistance for which they may be eligible.
 
 In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhance collaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
 
-Section 1. <i>Interagency Working Group to Support New American Service Members, Veterans, and their Families</i>. There is established a Working Group to Support New American Service Members, Veterans, and their Families (Working Group) to coordinate records, benefits, and immigration and citizenship services for these service members, veterans, and their families. The Working Group shall convene its first meeting within 10 days of the date of this memorandum.
+Section 1. <i>Interagency Working Group to Support New American Service Members, Veterans, and their Families</i>. There is established a Working Group to Support New American Service Members, Veterans, and their Families (Working Group) to coordinate records, benefits,and immigration and citizenship services for these service members, veterans, and their families. The Working Group shall convene its first meeting within 10 days of the date of this memorandum.
 
 (a) The Working Group shall consist of representatives from:
 

@@ -64,7 +64,7 @@ Requirements for Centers.—To be designated as a center under this section, a f
 
 (d)
 
-Additional Resources.—The Secretary shall provide each center designated under thissection such resources as the Secretary determines to be required by such center to achieve adequate capability of managing individuals with complex multi-trauma, including—
+Additional Resources.—The Secretary shall provide each center designated under this section such resources as the Secretary determines to be required by such center to achieve adequate capability of managing individuals with complex multi-trauma, including—
 
 &emsp;(1) the upgrading of blind rehabilitation services by employing or securing the services of blind rehabilitation specialists;
 
@@ -82,7 +82,7 @@ Cooperation With Department of Defense.—(1) The Secretary of Veterans Affairs 
 
 &emsp;(B) making available, in a manner that the Secretary of Veterans Affairs considers appropriate, blind rehabilitation specialists of the Department of Veterans Affairs to such facilities to consult with the medical staff of such facilities on the special needs of such members who have visual impairment as a consequence of combat injury.
 
-(2) Assistance shall be provided under this subsection through agreements for the sharing of health-care resources under section 8111 of this title.
+(2) Assistance shall be provided under this subsection through agreements for the sharing ofhealth-care resources under section 8111 of this title.
 
 (f)
 

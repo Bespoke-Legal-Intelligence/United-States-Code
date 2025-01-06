@@ -22,7 +22,7 @@
 
 &emsp;(10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 
-> Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons <sup>1</sup> for each vacancy that is available to himunder this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+> Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons <sup>1</sup> for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 (b) In addition, there may be appointed each year at the Academy cadets as follows:
 
@@ -84,7 +84,7 @@
 
 (j)(1) Beginning with the 2003–2004 academic year, the Secretary of the Army may prescribe annual increases in the cadet strength limit in effect under subsection (a). For any academic year, any such increase shall be by no more than 100 cadets or such lesser number as applies under paragraph (3) for that year. Such annual increases may be prescribed until the cadet strength limit is 4,400.
 
-(2) Any increase in the cadet strength limit under paragraph (1) with respect to an academicyear shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strength limit, as so increased, and the amount of the increase in Senior Army Reserve Officers' Training Corps enrollment under each of sections 2104 and 2107 of this title.
+(2) Any increase in the cadet strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strengthlimit, as so increased, and the amount of the increase in Senior Army Reserve Officers' Training Corps enrollment under each of sections 2104 and 2107 of this title.
 
 (3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of cadets enrolled in the Army Senior Reserve Officers' Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
 
@@ -362,13 +362,13 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Information on Nominations and Applications for Military Service Academies
 
-Pub. L. 116–283, div. A, title V, §575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, §556, Dec. 23, 2022, 136 Stat. 2595, provided that:
+Pub. L. 116–283, div. A, title V, §575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, §556, Dec. 23, 2022, 136 Stat. 2595; Pub. L. 118–159, div. A, title V, §559A, Dec. 23, 2024, 138 Stat. 1900, provided that:
 
 "(a) Nominations Portal.—
 
 &emsp;"(1)
 
-In general.—Not later than two years after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in consultation with the Superintendents of the military service academies, shall ensure that there is a uniform online portal for all military service academies that enables Members of Congress and other nominating sources to nominate individuals for appointment to each academy through a secure website.
+In general.—Not later than December 31, 2026, the Secretary of Defense, in consultation with the Superintendents of the military service academies, shall ensure that there is a uniform online portal for all military service academies that enables Members of Congress and other nominating sources to nominate individuals for appointment to each academy through a secure website.
 
 &emsp;"(2)
 

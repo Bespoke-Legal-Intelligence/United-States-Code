@@ -82,7 +82,7 @@
 
 &emsp;(B) is in a condition that does not present an immediate threat to the safety of life or the environment; and
 
-&emsp;(C) was operating in the waters off Alaska as of June 1, 1976, or the vessel is a replacement for a vessel that was operating in the waters off Alaska as of June 1, 1976, if the vessel being replaced is no longer in service.
+&emsp;(C) was operating in the waters off Alaska as of June 1, 1976, or the vessel is a replacementfor a vessel that was operating in the waters off Alaska as of June 1, 1976, if the vessel being replaced is no longer in service.
 
 (2) Except in a situation declared to be an emergency by the Secretary, a vessel operating under a permit may not transport cargo to or from a place if the cargo could be transported by another commercial vessel that is reasonably available and that does not require exemptions to operate legally or if the cargo could be readily transported by overland routes.
 
@@ -138,7 +138,7 @@
 
 (2) This subsection shall apply only on and after the effective date of regulations referred to in paragraph (1)(C).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, titleIII, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–232, div. C, title XXXV, §§3529(b), 3546(c), Aug. 13, 2018, 132 Stat. 2319, 2326; Pub. L. 117–263, div. K, title CXII, §11216, Dec. 23, 2022, 136 Stat. 4017.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711,title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–232, div. C, title XXXV, §§3529(b), 3546(c), Aug. 13, 2018, 132 Stat. 2319, 2326; Pub. L. 117–263, div. K, title CXII, §11216, Dec. 23, 2022, 136 Stat. 4017.)
 
 Historical and Revision Notes
 

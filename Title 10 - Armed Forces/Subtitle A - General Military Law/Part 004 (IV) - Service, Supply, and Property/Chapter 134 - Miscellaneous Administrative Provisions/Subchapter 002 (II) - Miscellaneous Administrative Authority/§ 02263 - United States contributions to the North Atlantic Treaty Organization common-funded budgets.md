@@ -14,7 +14,7 @@ Common-funded budgets of nato.—The term "common-funded budgets of NATO" means 
 
 &emsp;(2)
 
-Fiscal year 1998 baseline limitation.—The term "fiscal year 1998 baseline limitation" means the maximum annual amount of Department of Defense contributions for common-funded budgets of NATO that is set forth as the annual limitation in section 3(2)(C)(ii) of the resolution of the Senate giving the advice and consent of the Senate to the ratification of the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic (as defined in section 4(7) of that resolution), approved by the Senate on April 30, 1998.
+Fiscal year 1998 baseline limitation.—The term "fiscal year 1998 baseline limitation" means the maximum annual amount ofDepartment of Defense contributions for common-funded budgets of NATO that is set forth as the annual limitation in section 3(2)(C)(ii) of the resolution of the Senate giving the advice and consent of the Senate to the ratification of the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic (as defined in section 4(7) of that resolution), approved by the Senate on April 30, 1998.
 
 (Added Pub. L. 110–417, \[div. A\], title X, §1004(a)(1), Oct. 14, 2008, 122 Stat. 4582; amended Pub. L. 115–91, div. A, title X, §1051(a)(12), Dec. 12, 2017, 131 Stat. 1561.)
 

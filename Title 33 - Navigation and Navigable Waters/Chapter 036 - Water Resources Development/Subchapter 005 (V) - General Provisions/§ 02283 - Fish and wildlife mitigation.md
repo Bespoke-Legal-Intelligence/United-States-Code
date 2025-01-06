@@ -170,7 +170,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 &emsp;&emsp;(E) adaptive management procedures, such as protocols that involve monitoring predicted impacts over time and adjusting mitigation measures in response to information gathered through the monitoring;
 
-&emsp;&emsp;(F) acknowledgment of specific statutory or regulatory requirements that must be satisfied when determining appropriate mitigation for certain types of resources; and
+&emsp;&emsp;(F) acknowledgment of specific statutory or regulatory requirements that must besatisfied when determining appropriate mitigation for certain types of resources; and
 
 &emsp;&emsp;(G) any offsetting benefits of self-mitigating projects, such as ecosystem or resource restoration and protection.
 
@@ -230,7 +230,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 &emsp;&emsp;(A) take place concurrent with, or in advance of, the commitment of funding to a project; and
 
-&emsp;&emsp;(B) occur in advance of project construction only if the efforts are consistent withall applicable requirements of Federal law (including regulations) and water resources development planning processes.
+&emsp;&emsp;(B) occur in advance of project construction only if the efforts are consistent with all applicable requirements of Federal law (including regulations) and water resources development planning processes.
 
 #### (4) Preference
 
@@ -248,7 +248,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 #### (k) Measures
 
-The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
+The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration,States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
 
 (Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, §1040(a), June 10, 2014, 128 Stat. 1239; Pub. L. 114–322, title I, §1162, Dec. 16, 2016, 130 Stat. 1668.)
 

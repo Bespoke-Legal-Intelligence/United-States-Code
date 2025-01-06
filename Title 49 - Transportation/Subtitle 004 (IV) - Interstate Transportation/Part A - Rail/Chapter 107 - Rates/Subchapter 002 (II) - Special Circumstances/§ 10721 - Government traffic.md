@@ -8,7 +8,7 @@ A rail carrier providing transportation or service for the United States Governm
 
 #### Prior Provisions
 
-A prior section 10721, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383; Pub. L. 96–454, §10(b), Oct. 15, 1980, 94 Stat. 2022; Pub. L. 103–272, §5(m)(22), July 5, 1994, 108 Stat. 1378, related to Government traffic, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10721, 13712, and 15504 of this title.
+A prior section 10721, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383; Pub. L. 96–454, §10(b), Oct. 15, 1980, 94 Stat.2022; Pub. L. 103–272, §5(m)(22), July 5, 1994, 108 Stat. 1378, related to Government traffic, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10721, 13712, and 15504 of this title.
 
 #### Amendments
 

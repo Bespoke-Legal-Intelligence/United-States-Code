@@ -6,7 +6,7 @@ Establishment of Centers.—(1) The Secretary shall establish four medical emerg
 
 (2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
-(3) The Under Secretary shall carry out the Under Secretary's functions under paragraph (2)in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
+(3) The Under Secretary shall carry out the Under Secretary's functions under paragraph (2) in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
 (b)
 
@@ -20,7 +20,7 @@ Mission.—The mission of the centers shall be as follows:
 
 (c)
 
-Selection of Centers.—(1) The Secretary shall select the sites for the centers on the basis of a competitive selection process. The Secretary may not designate a site as a location for a center under this section unless the Secretary makes a finding under paragraph (2) with respect to the proposal for the designation of such site. To the maximum extent practicable, the Secretary shall ensure the geographic dispersal of the sites throughout the United States. Any such center may be a consortium of efforts of more than one medical center.
+Selection of Centers.—(1) The Secretary shall select the sites for the centers on the basis of a competitive selection process. The Secretary may not designate a site as a location fora center under this section unless the Secretary makes a finding under paragraph (2) with respect to the proposal for the designation of such site. To the maximum extent practicable, the Secretary shall ensure the geographic dispersal of the sites throughout the United States. Any such center may be a consortium of efforts of more than one medical center.
 
 (2) A finding by the Secretary referred to in paragraph (1) with respect to a proposal for designation of a site as a location of a center under this section is a finding by the Secretary, upon the recommendations of the Under Secretary for Health and the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions, that the facility or facilities submitting the proposal have developed (or may reasonably be anticipated to develop) each of the following:
 
@@ -52,7 +52,7 @@ Dissemination of Research Products.—(1) The Under Secretary for Health and the
 
 Coordination of Activities.—The Secretary shall take appropriate actions to ensure that the work of each center is carried out—
 
-&emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Governmentcharged with coordination of plans for United States homeland security; and
+&emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
 
 &emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
 

@@ -10,7 +10,7 @@ Not later than February 1 each year, the Secretary of Energy shall submit to the
 
 &emsp;The report required by subsection (a) shall include, with respect to plant-directed research and development, the following:
 
-&emsp;&emsp;(A) A financial accounting of expenditures for such research and development, disaggregated by nuclear weapons production facility.
+&emsp;&emsp;(A) A financial accounting of expenditures for such research and development,disaggregated by nuclear weapons production facility.
 
 &emsp;&emsp;(B) A breakdown of the percentage of research and development conducted by each such facility that is plant-directed research and development.
 

@@ -12,7 +12,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(2) A description of the national service programs that are selected by the applicant to receive a grant using assistance requested under section 12571 of this title and a description of the process and criteria by which the programs were selected.
 
-&emsp;(3) A description of other funding sources to be used, or sought to be used, for the national service programs referred to in paragraphs (1) and (2), and, if the application is submitted for the purpose of seeking a renewal of assistance, a description of the success of the programs in reducing their reliance on Federal funds.
+&emsp;(3) A description of other funding sources to be used, or sought to be used, for the nationalservice programs referred to in paragraphs (1) and (2), and, if the application is submitted for the purpose of seeking a renewal of assistance, a description of the success of the programs in reducing their reliance on Federal funds.
 
 &emsp;(4) A description of the extent to which the projects to be conducted using the assistance will address unmet human, educational, environmental, or public safety needs and produce a direct benefit for the community in which the projects are performed.
 
@@ -38,7 +38,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D and a description of the manner in which approved national service positions will be apportioned by the applicant.
 
-&emsp;(12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, municipalities and governments of counties in which such a community is located, and labor organizations contributedto the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
+&emsp;(12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, municipalities and governments of counties in which such a community is located, and labor organizations contributed to the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
 
 &emsp;(13) Such other information as the Corporation may reasonably require.
 
@@ -108,7 +108,7 @@ An application submitted under subsection (a) for programs described in 12572(a)
 
 &emsp;&emsp;(A) a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education submitting an application under this section; or
 
-&emsp;&emsp;(B) an entity applying for assistance or approved national service positions through a grant program conducted using assistanceprovided to a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education under section 12571 of this title.
+&emsp;&emsp;(B) an entity applying for assistance or approved national service positions through a grant program conducted using assistance provided to a State, subdivision of a State, territory, Indian tribe, public or private nonprofit organization, or institution of higher education under section 12571 of this title.
 
 #### (h) Limitation on same project receiving multiple grants
 

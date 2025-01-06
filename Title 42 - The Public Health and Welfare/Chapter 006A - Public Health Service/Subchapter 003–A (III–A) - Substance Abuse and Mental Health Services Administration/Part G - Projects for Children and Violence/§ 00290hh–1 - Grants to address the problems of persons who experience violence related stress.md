@@ -30,7 +30,7 @@ The NCTSI coordinating center shall, as appropriate, collaborate with—
 
 #### (f) Review
 
-The Secretary shall, consistent with the peer-review process, ensure that NCTSI applications are reviewed by appropriate experts in the field as part of a consensus-review process. The Secretary shall include review criteria related to expertise and experience in child trauma and evidence-based practices.
+The Secretary shall, consistent with the peer-review process, ensure that NCTSI applicationsare reviewed by appropriate experts in the field as part of a consensus-review process. The Secretary shall include review criteria related to expertise and experience in child trauma and evidence-based practices.
 
 #### (g) Geographical distribution
 

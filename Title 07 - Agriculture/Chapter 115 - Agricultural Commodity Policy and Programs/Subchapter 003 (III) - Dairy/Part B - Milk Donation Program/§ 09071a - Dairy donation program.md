@@ -62,7 +62,7 @@ Not later than 60 days after December 27, 2020, the Secretary shall establish an
 
 #### (1) In general
 
-&emsp;On receipt of appropriate documentation under paragraph (3), the Secretary shall reimburse an eligible dairy organization that is a member of an eligible partnership for which the Secretary has approved a donation and distribution plan under subsection (c)(2)(A)(ii) at a rate equal to the product obtained by multiplying—
+&emsp;On receipt of appropriate documentation under paragraph (3), the Secretary shall reimburse an eligible dairy organization that is a member of an eligible partnership for which the Secretary has approved a donation anddistribution plan under subsection (c)(2)(A)(ii) at a rate equal to the product obtained by multiplying—
 
 &emsp;&emsp;(A) the current reimbursement price described in paragraph (2); and
 

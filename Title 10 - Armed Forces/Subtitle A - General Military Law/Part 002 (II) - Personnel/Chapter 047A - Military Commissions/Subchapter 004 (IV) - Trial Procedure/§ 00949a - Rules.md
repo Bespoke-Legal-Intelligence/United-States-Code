@@ -8,7 +8,7 @@ Procedures and Rules of Evidence.—Pretrial, trial, and post-trial procedures, 
 
 Exceptions.—(1) In trials by military commission under this chapter, the Secretary of Defense, in consultation with the Attorney General, may make such exceptions in the applicability of the procedures and rules of evidence otherwise applicable in general courts-martial as may be required by the unique circumstances of the conduct of military and intelligence operations during hostilities or by other practical need consistent with this chapter.
 
-(2) Notwithstanding any exceptions authorized by paragraph (1), the procedures and rules of evidence in trials by military commission under this chapter shall include, at a minimum, the following rights of the accused:
+(2) Notwithstanding any exceptions authorized by paragraph (1), the procedures and rules of evidence in trials by military commission underthis chapter shall include, at a minimum, the following rights of the accused:
 
 &emsp;(A) To present evidence in the accused's defense, to cross-examine the witnesses who testify against the accused, and to examine and respond to all evidence admitted against the accused on the issue of guilt or innocence and for sentencing, as provided for by this chapter.
 
@@ -50,7 +50,7 @@ Exceptions.—(1) In trials by military commission under this chapter, the Secre
 
 &emsp;&emsp;&emsp;(II) the statement is probative on the point for which it is offered;
 
-&emsp;&emsp;&emsp;(III) direct testimony from the witness is not available as a practical matter, taking into consideration the physical location of the witness, the unique circumstances ofmilitary and intelligence operations during hostilities, and the adverse impacts on military or intelligence operations that would likely result from the production of the witness; and
+&emsp;&emsp;&emsp;(III) direct testimony from the witness is not available as a practical matter, taking into consideration the physical location of the witness, the unique circumstances of military and intelligence operations during hostilities, and the adverse impacts on military or intelligence operations that would likely result from the production of the witness; and
 
 &emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice will best be served by admission of the statement into evidence.
 

@@ -4,7 +4,7 @@
 
 #### (1) Elder Justice Coordinators
 
-&emsp;The Attorney General shall designate in each Federal judicial district not less than one Assistant United States Attorney to serve as the Elder Justice Coordinator for the district, who, in addition to any other responsibilities, shall be responsible for—
+&emsp;The Attorney General shall designate in each Federal judicial district not less than oneAssistant United States Attorney to serve as the Elder Justice Coordinator for the district, who, in addition to any other responsibilities, shall be responsible for—
 
 &emsp;&emsp;(A) serving as the legal counsel for the Federal judicial district on matters relating to elder abuse;
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) coordinating and supporting the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues; and
 
-&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
+&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals,units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
 
 #### (2) <sup>1</sup> Reports to Congress
 

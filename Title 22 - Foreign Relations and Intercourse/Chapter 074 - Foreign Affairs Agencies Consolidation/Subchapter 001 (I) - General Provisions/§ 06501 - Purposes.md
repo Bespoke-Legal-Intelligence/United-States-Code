@@ -36,7 +36,7 @@ This chapter, referred to in text, was in the original "this subdivision", meani
 
 #### Short Title
 
-Pub. L. 105–277, div. G, §1001, Oct. 21, 1998, 112 Stat. 2681–761, provided that: "This division \[see Tables forclassification\] may be cited as the 'Foreign Affairs Reform and Restructuring Act of 1998'."
+Pub. L. 105–277, div. G, §1001, Oct. 21, 1998, 112 Stat. 2681–761, provided that: "This division \[see Tables for classification\] may be cited as the 'Foreign Affairs Reform and Restructuring Act of 1998'."
 
 Pub. L. 105–277, div. G, subdiv. A, title XI, §1101, Oct. 21, 1998, 112 Stat. 2681–765, provided that: "This subdivision \[see Tables for classification\] may be cited as the 'Foreign Affairs Agencies Consolidation Act of 1998'."
 

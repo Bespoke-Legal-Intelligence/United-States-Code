@@ -26,7 +26,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(1) A discussion of the educational assistance benefits to which the member is entitled under the Montgomery GI Bill and other educational assistance programs because of the member's service in the armed forces.
 
-&emsp;(2) A description (to be developed with the assistance of the Secretary of Veterans Affairs) of the compensation and vocational rehabilitation benefits to which the member may be entitled under laws administered by the Secretary of Veterans Affairs, if the member is being medically separated or is being retired under chapter 61 of this title.
+&emsp;(2) A description (to be developed with the assistance of the Secretary of Veterans Affairs) of the compensation and vocational rehabilitation benefits to which the membermay be entitled under laws administered by the Secretary of Veterans Affairs, if the member is being medically separated or is being retired under chapter 61 of this title.
 
 &emsp;(3) An explanation of the procedures for and advantages of affiliating with the Selected Reserve.
 
@@ -70,7 +70,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 (c)
 
-Counseling Pathways.—(1) Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
+Counseling Pathways.—(1) Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned (including one pathway for members of the reserve components) receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
 
 &emsp;(A) Rank.
 
@@ -142,11 +142,13 @@ Joint Service Transcript.—The Secretary concerned shall provide a copy of the 
 
 &emsp;(2) the Secretary of Veterans Affairs on the day the member separates, retires, or is discharged.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, §541(c), title X, §1076(f)(12), title XVI, §1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092; Pub. L. 114–92, div. A, title V, §552, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §562, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §§541(a), 542(d), Dec. 12, 2017, 131 Stat. 1393, 1395; Pub. L. 115–232, div. A, title V, §§552(a)(1), 553(b)(2), Aug. 13, 2018, 132 Stat. 1769, 1772; Pub. L. 116–92, div. A, title V, §561, title XVII, §1731(a)(26), Dec. 20, 2019, 133 Stat. 1394, 1813; Pub. L. 118–31, div. A, title V, §571, Dec. 22, 2023, 137 Stat. 275.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, §541(c), title X, §1076(f)(12), title XVI, §1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092; Pub. L. 114–92, div. A, title V, §552, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §562, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §§541(a), 542(d), Dec. 12, 2017, 131 Stat. 1393, 1395; Pub. L. 115–232, div. A, title V, §§552(a)(1), 553(b)(2), Aug. 13, 2018, 132 Stat. 1769, 1772; Pub. L. 116–92, div. A, title V, §561, title XVII, §1731(a)(26), Dec. 20, 2019, 133 Stat. 1394, 1813; Pub. L. 118–31, div. A, title V, §571, Dec. 22, 2023, 137 Stat. 275; Pub. L. 118–159, div. A, title V, §571, Dec. 23, 2024, 138 Stat. 1909.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1). Pub. L. 118–159 inserted "(including one pathway for members of the reserve components)" after "military department concerned" in introductory provisions.
 
 <b>2023</b>—Subsec. (c)(1)(E). Pub. L. 118–31, §571(1), substituted "Potential or confirmed disability" for "Disability".
 
@@ -176,7 +178,7 @@ Subsec. (b)(18). Pub. L. 115–91, §541(a), added par. (18).
 
 <b>2016</b>—Subsec. (b)(11). Pub. L. 114–328 inserted before period at end "and information concerning the availability of treatment options and resources to address substance abuse, including alcohol, prescription drug, and opioid abuse".
 
-<b>2015</b>—Subsec. (a)(4)(A). Pub. L. 114–92, §552(1), substituted "the first 180 continuous days of active duty ofthe member" for "that member's first 180 days of active duty".
+<b>2015</b>—Subsec. (a)(4)(A). Pub. L. 114–92, §552(1), substituted "the first 180 continuous days of active duty of the member" for "that member's first 180 days of active duty".
 
 Subsec. (a)(4)(C). Pub. L. 114–92, §552(2), added subpar. (C).
 

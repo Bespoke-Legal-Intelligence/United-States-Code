@@ -8,7 +8,7 @@ of Title 54.—A person that violates any of the regulations authorized by chapt
 
 (b)
 
-Appropriation of, Injury to, or Destruction of Historic or Prehistoric Ruin or Monument or Object of Antiquity.—A person that appropriates, excavates, injures, or destroys anyhistoric or prehistoric ruin or monument or any other object of antiquity that is situated on land owned or controlled by the Federal Government without the permission of the head of the Federal agency having jurisdiction over the land on which the object is situated, shall be imprisoned not more than 90 days, fined under this title, or both.
+Appropriation of, Injury to, or Destruction of Historic or Prehistoric Ruin or Monument or Object of Antiquity.—A person that appropriates, excavates, injures, or destroys any historic or prehistoric ruin or monument or any other object of antiquity that is situated on land owned or controlled by the Federal Government without the permission of the head of the Federal agency having jurisdiction over the land on which the object is situated, shall be imprisoned not more than 90 days, fined under this title, or both.
 
 (Added Pub. L. 113–287, §4(a)(1), Dec. 19, 2014, 128 Stat. 3261.)
 

@@ -20,7 +20,7 @@ Materiel Readiness Objectives.—(1) Not later than one year after the date of t
 
 (d)
 
-Budget Justification.—Not later than five days after the date on which the Secretary ofDefense submits to Congress the materials in support of the budget of the President for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report on major weapons systems sustainment for the period covered by the future years defense program specified by section 221 of this title. Such report shall include—
+Budget Justification.—Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report on major weapons systems sustainment for the period covered by the future years defense program specified by section 221 of this title. Such report shall include—
 
 &emsp;(1) an assessment of the materiel availability, operational availability, and materiel reliability for each major weapon system; and
 

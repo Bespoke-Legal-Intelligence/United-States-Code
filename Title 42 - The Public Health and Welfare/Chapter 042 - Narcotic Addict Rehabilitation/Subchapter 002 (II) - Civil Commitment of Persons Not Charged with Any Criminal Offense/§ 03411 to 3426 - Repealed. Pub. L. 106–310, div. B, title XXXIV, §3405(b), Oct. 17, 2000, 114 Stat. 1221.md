@@ -10,7 +10,7 @@ Section 3414, Pub. L. 89–793, title III, §304, Nov. 8, 1966, 80 Stat. 1446, r
 
 Section 3415, Pub. L. 89–793, title III, §305, Nov. 8, 1966, 80 Stat. 1446, related to order of commitment for treatment to care and custody of Surgeon General and reports of Surgeon General.
 
-Section 3416, Pub. L. 89–793, title III, §306, Nov. 8, 1966, 80 Stat. 1446, related to period of commitment to care and custody of Surgeon General, patient subject to posthospitalization program, and release from confinement.
+Section 3416, Pub. L. 89–793, title III, §306, Nov. 8, 1966, 80 Stat. 1446, related to period of commitment to careand custody of Surgeon General, patient subject to posthospitalization program, and release from confinement.
 
 Section 3417, Pub. L. 89–793, title III, §307, Nov. 8, 1966, 80 Stat. 1446, related to release from confinement.
 

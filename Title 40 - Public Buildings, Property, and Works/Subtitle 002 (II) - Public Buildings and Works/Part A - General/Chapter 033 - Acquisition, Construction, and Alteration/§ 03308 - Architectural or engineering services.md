@@ -6,7 +6,7 @@ Employment by Administrator.—When the Administrator of General Services decide
 
 (b)
 
-Employment on Permanent Basis Not Permitted.—A corporation, firm, or individual shall not be employed under authority of subsection (a) on a permanent basis.
+Employment on Permanent Basis Not Permitted.—A corporation, firm, or individualshall not be employed under authority of subsection (a) on a permanent basis.
 
 (c)
 
@@ -38,7 +38,7 @@ Pub. L. 86–249, §10, Sept. 9, 1959, 73 Stat. 481.
 
 40:609(c).
 
-In subsection (a), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5" are substituted for "the Classification Act of 1949, as amended" and thereference to civil service laws in section 10(a) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 31, United States Code.
+In subsection (a), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5" are substituted for "the Classification Act of 1949, as amended" and the reference to civil service laws in section 10(a) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 31, United States Code.
 
 #### <b>Editorial Notes</b>
 

@@ -10,7 +10,7 @@ Section 2902, Pub. L. 88–452, title IV, §402, as added Pub. L. 95–568, §9,
 
 A prior section 2902, Pub. L. 88–452, title IV, §402, as added Pub. L. 93–644, §7, Jan. 4, 1975, 88 Stat. 2299; amended Pub. L. 94–341, §2(a)(17), July 6, 1976, 90 Stat. 804, related to establishment of Alcoholic Counseling and Recovery Program and Drug Rehabilitation Program, prior to the general reorganization of this subchapter by Pub. L. 95–568.
 
-Another prior section 2902, Pub. L. 88–452, title IV, §402, Aug. 20, 1964, 78 Stat. 526; Pub. L. 89–794, title IV, §§401, 402, 405, Nov. 8, 1966, 80 Stat. 1465; Pub. L. 90–104, title I, §108, Oct. 11, 1967, 81 Stat. 269; Pub. L. 90–222, title I, §106(b), (c), Dec. 23, 1967, 81 Stat. 710; Pub. L. 92–320, §2, June 27, 1972, 86 Stat. 382, related to powers of Administrator of Small Business Administrationwith respect to loans, and guarantees to small businesses, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745.
+Another prior section 2902, Pub. L. 88–452, title IV, §402, Aug. 20, 1964, 78 Stat. 526; Pub. L. 89–794, title IV, §§401, 402, 405, Nov. 8, 1966, 80 Stat. 1465; Pub. L. 90–104, title I, §108, Oct. 11, 1967, 81 Stat. 269; Pub. L. 90–222, title I, §106(b), (c), Dec. 23, 1967, 81 Stat. 710; Pub. L. 92–320, §2, June 27, 1972, 86 Stat. 382, related to powers of Administrator of Small Business Administration with respect to loans, and guarantees to small businesses, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745.
 
 Section 2903, Pub. L. 88–452, title IV, §403, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2429, set forth limitations on assistance for programs.
 

@@ -46,7 +46,7 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87
 
 &emsp;"(3) By eliminating the leadership of their opposition and frightening the general public, repressive governments often use torture as a weapon against democracy.
 
-&emsp;"(4) Torture survivors remain under physical and psychological threats, especially in communities where the perpetrators are not brought to justice. In many nations, even those who treat torture survivors are threatened with reprisals, including torture, for carrying out their ethical duty to provide care. Both the survivors of torture and their treatment providers should be accorded protection from further repression.
+&emsp;"(4) Torture survivors remain under physical and psychological threats, especially in communities where the perpetrators are not brought to justice. Inmany nations, even those who treat torture survivors are threatened with reprisals, including torture, for carrying out their ethical duty to provide care. Both the survivors of torture and their treatment providers should be accorded protection from further repression.
 
 &emsp;"(5) A significant number of refugees and asylees entering the United States have been victims of torture. Those claiming asylum deserve prompt consideration of their applications for political asylum to minimize their insecurity and sense of danger. Many torture survivors now live in the United States. They should be provided with the rehabilitation services which would enable them to become productive members of our communities.
 

@@ -1,8 +1,8 @@
 ### §8421. Annuity supplement
 
-(a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d)(1), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
+(a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d)(1), or (e) of section 8412, orunder section 8414(c), also be entitled to an annuity supplement under this section.
 
-(2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual isat least the applicable minimum retirement age under section 8412(h).
+(2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h).
 
 (3)(A) An individual whose entitlement to an annuity under section 8412 or 8414 does not commence before age 62 is not entitled to an annuity supplement under this section.
 
@@ -48,10 +48,6 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 533; amended Pub. L. 101–194, title V, §506(b)(10), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–378, §2(65), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 107–296, title XIII, §1321(a)(5)(B), Nov. 25, 2002, 116 Stat. 2297; Pub. L. 117–225, §3(b)(2)(A)(iii), Dec. 9, 2022, 136 Stat. 2295.)
 
-#### Applicability of Amendment
-
-<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of this title.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -62,7 +58,7 @@ The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–225 inserted "(1)" after "(d)".
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking ", except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age", was executed by striking out ", except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age" before period at end, to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking ", except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age", was executed by striking out ", except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuitysupplement without regard to such applicable minimum retirement age" before period at end, to reflect the probable intent of Congress.
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
 

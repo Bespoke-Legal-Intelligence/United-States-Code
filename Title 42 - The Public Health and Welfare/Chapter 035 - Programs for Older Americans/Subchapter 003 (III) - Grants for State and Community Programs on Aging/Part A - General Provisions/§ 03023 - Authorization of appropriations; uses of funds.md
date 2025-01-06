@@ -10,7 +10,7 @@
 
 (c) Grants made under part B, and subparts I and II of part C, of this subchapter may be used for paying part of the cost of—
 
-&emsp;(1) the administration of area plans by area agencies on aging designated under section 3025(a)(2)(A) of this title, including the preparation of area plans on aging consistent with section 3026 of this title and the evaluation of activities carried out under such plans; and
+&emsp;(1) the administration of area plans by area agencies on aging designated under section3025(a)(2)(A) of this title, including the preparation of area plans on aging consistent with section 3026 of this title and the evaluation of activities carried out under such plans; and
 
 &emsp;(2) the development of comprehensive and coordinated systems for supportive services, and congregate and home delivered nutrition services under subparts I and II of part C, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
 
@@ -34,7 +34,7 @@ Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–144, §4(a)(1), substituted "$356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
-Subsec. (b)(1). Pub. L. 114–144, §4(a)(2)(A), substituted "$459,937,586 for fiscal year 2017, $469,916,692 for fiscalyear 2018, and $479,895,348 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
+Subsec. (b)(1). Pub. L. 114–144, §4(a)(2)(A), substituted "$459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
 Subsec. (b)(2). Pub. L. 114–144, §4(a)(2)(B), substituted "$232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 102–375, §303(d), substituted "There are authorized to b
 
 Subsec. (f). Pub. L. 102–375, §303(e), substituted "There are authorized to be appropriated $25,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995," for "Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991".
 
-Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Subject to subsection (h) of this section, thereare authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals)."
+Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals)."
 
 Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: "No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters."
 
@@ -126,7 +126,7 @@ Subsec. (b)(2). Pub. L. 98–459, §303(b)(2), struck out provisions authorizing
 
 Subsec. (c)(2). Pub. L. 98–459, §303(c), substituted "legal assistance" for "legal services".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(c)(1), inserted provisions authorizing appropriations of $306,000,000 for fiscal year 1982, $327,400,000 for fiscal year 1983, and $350,300,000 for fiscal year 1984, and substituted "(relating to supportive services and senior centers)" for "(relating to social services)".
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(c)(1), inserted provisions authorizing appropriations of $306,000,000 for fiscal year 1982, $327,400,000 for fiscal year 1983, and$350,300,000 for fiscal year 1984, and substituted "(relating to supportive services and senior centers)" for "(relating to social services)".
 
 Subsec. (b)(1). Pub. L. 97–115, §3(c)(2), inserted provisions authorizing appropriations of $319,100,000 for fiscal year 1982, $341,400,000 for fiscal year 1983, and $365,300,000 for fiscal year 1984.
 

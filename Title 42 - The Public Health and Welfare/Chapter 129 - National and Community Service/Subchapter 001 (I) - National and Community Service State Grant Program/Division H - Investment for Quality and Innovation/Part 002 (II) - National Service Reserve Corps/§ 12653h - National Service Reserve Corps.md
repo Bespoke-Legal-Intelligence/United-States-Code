@@ -58,7 +58,7 @@ The Corporation shall develop or contract with an outside organization to develo
 
 #### (1) Major disasters or emergencies
 
-&emsp;If a major disaster or emergency is declared by the President pursuant to section 102 of theRobert T. Stafford Disaster Relief and Assistance Act <sup>1</sup> (42 U.S.C. 5122), the Administrator of the Federal Emergency Management Agency, in consultation with the Corporation, may task the National Service Reserve Corps to assist in response.
+&emsp;If a major disaster or emergency is declared by the President pursuant to section 102 of the Robert T. Stafford Disaster Relief and Assistance Act <sup>1</sup> (42 U.S.C. 5122), the Administrator of the Federal Emergency Management Agency, in consultation with the Corporation, may task the National Service Reserve Corps to assist in response.
 
 #### (2) Other disasters or emergencies
 

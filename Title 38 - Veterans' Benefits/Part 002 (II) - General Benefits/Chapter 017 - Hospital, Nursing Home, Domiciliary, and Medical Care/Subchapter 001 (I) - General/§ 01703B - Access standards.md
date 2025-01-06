@@ -22,7 +22,7 @@
 
 &emsp;(2) submit to the appropriate committees of Congress a report on the findings and any modification to the access standards with respect to the review conducted under paragraph (1).
 
-(f)(1) Subject to paragraph (3), the Secretary shall meet the access standards established under subsection (a) when furnishing hospital care, medical services, or extended care services to a covered veteran under section 1703 of this title and shall ensure that meeting such access standards is reflected in the contractual requirements of Third Party Administrators.
+(f)(1) Subject to paragraph (3), the Secretary shall meet the access standards established under subsection (a) when furnishing hospitalcare, medical services, or extended care services to a covered veteran under section 1703 of this title and shall ensure that meeting such access standards is reflected in the contractual requirements of Third Party Administrators.
 
 (2) The Secretary shall ensure that health care providers specified under section 1703(c) of this title are able to comply with the access standards established under subsection (a) for such providers.
 
@@ -96,7 +96,7 @@ The Social Security Act, referred to in subsec. (f)(3)(D)(ii), is act Aug. 14, 1
 
 "(f) The Secretary shall ensure health care providers specified under section 1703(c) are able to comply with the applicable access standards established by the Secretary.
 
-"(g) The Secretary shall publish in the Federal Register and on an internet website of the Department thedesignated access standards established under this section for purposes of section 1703(d)(1)(D)."
+"(g) The Secretary shall publish in the Federal Register and on an internet website of the Department the designated access standards established under this section for purposes of section 1703(d)(1)(D)."
 
 Subsec. (i)(3), (4). Pub. L. 117–328, §125(a)(2), added pars. (3) and (4)
 

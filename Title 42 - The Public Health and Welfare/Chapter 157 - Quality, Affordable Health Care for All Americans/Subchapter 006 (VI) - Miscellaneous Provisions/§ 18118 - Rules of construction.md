@@ -2,7 +2,7 @@
 
 #### (a) No effect on antitrust laws
 
-Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to modify, impair, or supersede the operation of any of the antitrust laws. For the purposes of this section, the term "antitrust laws" has the meaning given such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
+Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to modify, impair, or supersede the operation of any of the antitrust laws. For the purposes of this section, the term "antitrust laws" has the meaning given such term in subsection (a) of section 12 of title 15, except that such term includes section45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
 
 #### (b) Rule of construction regarding Hawaii's Prepaid Health Care Act
 

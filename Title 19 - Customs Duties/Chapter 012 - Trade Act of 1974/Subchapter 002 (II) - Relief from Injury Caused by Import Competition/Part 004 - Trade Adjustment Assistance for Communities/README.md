@@ -20,7 +20,7 @@ Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, tempo
 
 #### Effective Date of Revival
 
-For revival and applicability of provisions as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
+For revival and applicability of provisions as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40,set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 
 
 ---

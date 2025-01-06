@@ -100,7 +100,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 
@@ -212,7 +212,7 @@ Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to
 
 (c) In performing the foregoing functions, the Assistant will, when appropriate, work in conjunction with the Assistant to the President for Domestic Policy and the Assistant to the President for National Security.
 
-(d) The Secretary of the Treasury will continue to be the senior economic official in the executive branch and the President's chief economic spokesperson. The Director of the Office of Management and Budget, asthe President's principal budget spokesperson, will continue to be the senior budget official in the executive branch. The Council of Economic Advisers will continue its traditional analytic, forecasting and advisory functions.
+(d) The Secretary of the Treasury will continue to be the senior economic official in the executive branch and the President's chief economic spokesperson. The Director of the Office of Management and Budget, as the President's principal budget spokesperson, will continue to be the senior budget official in the executive branch. The Council of Economic Advisers will continue its traditional analytic, forecasting and advisory functions.
 
 Sec. 5. <i>Administration</i>. (a) The Council may function through established or ad hoc committees, task forces or interagency groups.
 

@@ -10,7 +10,7 @@ Services Provided by Certain Nontraditional Contractors.—Notwithstanding secti
 
 (c)
 
-Commingled Items Purchased by Contractors.—Notwithstanding section 3451(1) of this title, items valued at less than $10,000 that are purchased by a contractor for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract shall be treated as a commercial product for purposes of this chapter.
+Commingled Items Purchased by Contractors.—Notwithstanding section 3451(1) of thistitle, items valued at less than $10,000 that are purchased by a contractor for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract shall be treated as a commercial product for purposes of this chapter.
 
 (Added Pub. L. 114–92, div. A, title VIII, §857(a), Nov. 25, 2015, 129 Stat. 921, §2380A; renumbered §2380a and amended Pub. L. 114–328, div. A, title VIII, §878(a), (b)(1), Dec. 23, 2016, 130 Stat. 2312; Pub. L. 115–232, div. A, title VIII, §836(d)(6), (8)(F), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3457 and amended Pub. L. 116–283, div. A, title XVIII, §1821(a)(2), (b)(6), (7)(A), (B), Jan. 1, 2021, 134 Stat. 4195, 4196.)
 
@@ -18,7 +18,7 @@ Commingled Items Purchased by Contractors.—Notwithstanding section 3451(1) of 
 
 #### Codification
 
-Section 1821(a)(1), (2) of Pub. L. 116–260 transferred chapter 140 of this title (§§2375 to 2380b) to this chapterand renumbered all the sections within it, except for final section 2380b. At that point, the last two sections of this chapter were this section (renumbered from section 2380a) followed by section 2380b. Section 1821(b)(7)(A) subsequently struck out "the heading of the final section of" this chapter, which was executed by incorporating the text of former section 2380b at the end of this section. The text of section 2380b of this title was based on Pub. L. 114–328, div. A, title VIII, §877(a), Dec. 23, 2016, 130 Stat. 2311; Pub. L. 115–232, div. A, title VIII, §836(d)(7), (8)(G), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–92, div. A, title XVII, §1731(a)(47), Dec. 20, 2019, 133 Stat. 1815.
+Section 1821(a)(1), (2) of Pub. L. 116–260 transferred chapter 140 of this title (§§2375 to 2380b) to this chapter and renumbered all the sections within it, except for final section 2380b. At that point, the last two sections of this chapter were this section (renumbered from section 2380a) followed by section 2380b. Section 1821(b)(7)(A) subsequently struck out "the heading of the final section of" this chapter, which was executed by incorporating the text of former section 2380b at the end of this section. The text of section 2380b of this title was based on Pub. L. 114–328, div. A, title VIII, §877(a), Dec. 23, 2016, 130 Stat. 2311; Pub. L. 115–232, div. A, title VIII, §836(d)(7), (8)(G), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–92, div. A, title XVII, §1731(a)(47), Dec. 20, 2019, 133 Stat. 1815.
 
 #### Prior Provisions
 

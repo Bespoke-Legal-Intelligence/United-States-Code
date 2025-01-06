@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Claims.—The Secretary of Defense shall require that any claim for payment under a Department of Defense contract shall be submitted to the Department of Defense in electronic form.
+Submission of Claims.—The Secretary of Defense shall require that any claim for payment under a Department of Defense contractshall be submitted to the Department of Defense in electronic form.
 
 (b)
 

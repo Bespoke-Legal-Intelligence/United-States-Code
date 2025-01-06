@@ -46,7 +46,7 @@ If the laws of a State limit volunteer liability subject to one or more of the f
 
 &emsp;(3) A State law that makes a limitation of liability inapplicable if the civil action was brought by an officer of a State or local government pursuant to State or local law.
 
-&emsp;(4) A State law that makes a limitation of liability applicable only if the nonprofit organization or governmental entity provides a financially secure source of recovery for individuals who suffer harm as a result of actions taken by a volunteer on behalf of the organization or entity. A financially secure source of recovery may be an insurance policy within specified limits, comparable coverage from a risk pooling mechanism, equivalent assets, or alternative arrangements that satisfy the State that the organization or entity will be able to pay for losses up to a specified amount. Separate standards for different types of liability exposure may be specified.
+&emsp;(4) A State law that makes a limitation of liability applicable only if the nonprofit organization or governmental entity provides a financially secure source of recovery for individuals who suffer harm as a result of actions taken by a volunteer on behalf of the organization or entity. A financially secure source of recovery may be an insurance policy within specified limits, comparable coverage from a risk pooling mechanism, equivalent assets, or alternative arrangements that satisfy the State that the organization or entity will beable to pay for losses up to a specified amount. Separate standards for different types of liability exposure may be specified.
 
 #### (f) Limitation on punitive damages based on actions of volunteers
 

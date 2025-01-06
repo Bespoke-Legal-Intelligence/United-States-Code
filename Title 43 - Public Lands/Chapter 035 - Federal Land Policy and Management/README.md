@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001701%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [1702\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001702%20-%20Definitions.md) | Definitions. |
-| [1703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001703%20-%20Cooperative%20action%20and%20sharing%20of%20resources%20by%20Secretaries%20of%20the%20Interior%20and%20Agriculture.md) | Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture. |
+| [1703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001703%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93234%2C%20title%20III%2C%20%C2%A7315%28a%29%2C%20Jan.%204%2C%202025%2C%20138%20Stat.%202903.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

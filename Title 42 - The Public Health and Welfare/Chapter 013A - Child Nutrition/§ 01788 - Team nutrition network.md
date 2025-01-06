@@ -122,7 +122,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (3) Requirement for participation
 
-&emsp;To be eligible to receive assistance under this subsection, a local educational agency shall, in consultation with individuals who possess education or experience appropriate for representing the general field of public health, including nutrition and fitness professionals, submit to the Secretary an application that shall include—
+&emsp;To be eligible to receive assistance under this subsection, a local educational agency shall, in consultation with individuals who possess education or experience appropriatefor representing the general field of public health, including nutrition and fitness professionals, submit to the Secretary an application that shall include—
 
 &emsp;&emsp;(A) a description of the need of the local educational agency for a nutrition and physical activity program, including an assessment of the nutritional environment of the school;
 
@@ -140,7 +140,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (4) Duration
 
-&emsp;Subject to the availability of funds made available to carry out this subsection, a localeducational agency receiving assistance under this subsection shall conduct the project during a period of 3 successive school years beginning with the initial fiscal year for which the local educational agency receives funds.
+&emsp;Subject to the availability of funds made available to carry out this subsection, a local educational agency receiving assistance under this subsection shall conduct the project during a period of 3 successive school years beginning with the initial fiscal year for which the local educational agency receives funds.
 
 #### (5) Authorized activities
 
@@ -250,7 +250,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted "establish" for "encourage effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs by establishing".
 
-Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out "(A)" before "The funds made available" in introductory provisions, redesignated cls. (i) to (viii) and (xx) as subpars. (A) to (H) and (I), respectively, added subpar. (J), and struck out cls. (ix) to (xix) which related to use of funds for a nutrition component usable in consumer, homemaking and health education programs, instructing staff on working with children from different backgrounds, developing means of providing nutrition education in materials to children through after-school programs, training about healthy and nutritious meals, creating instructional programming for school staff and parents, aspects of the Strategic Plan for Nutrition and Education, encouraging public service advertisements, coordinating and promoting nutrition activities in local school districts, contracting with public and private nonprofit educational institutions for nutrition education, increasing awareness of importance of breakfasts, and coordinating and promoting nutrition education under child nutrition programs.
+Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out "(A)" before "The funds made available" in introductory provisions, redesignated cls. (i) to (viii) and (xx) as subpars. (A) to (H) and (I), respectively, added subpar. (J), and struck out cls. (ix) to (xix) which related to use of funds for a nutrition component usable in consumer, homemaking and health education programs, instructing staff on working with children from different backgrounds, developing means of providing nutrition education in materials to children through after-school programs, training about healthy and nutritious meals, creating instructional programming for school staff and parents, aspects of the Strategic Plan for Nutrition and Education, encouraging public service advertisements, coordinating and promoting nutrition activities in local school districts, contracting with public and private nonprofit educational institutions for nutritioneducation, increasing awareness of importance of breakfasts, and coordinating and promoting nutrition education under child nutrition programs.
 
 Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: "As used in this paragraph, the term 'language appropriate' used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively, using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program."
 
@@ -332,7 +332,7 @@ Subsec. (d)(1)(C). Pub. L. 101–147, §124(1)(A)(ii), substituted "schools, chi
 
 Subsec. (d)(2). Pub. L. 101–147, §§124(1)(B), 327(1)(A), substituted "recommendations of State educational agencies, the Department of Health and Human Services, and other" for "recommendation of the National Advisory Council on Child Nutrition; State educational agencies; the Department of Health and Human Services; and other".
 
-Subsec. (d)(4). Pub. L. 101–147, §§124(1)(C), 327(1)(B), struck out "(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307 and 308)" after "Act of July 2, 1862" and "(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)" after "Act of August 30, 1890" and inserted ", in coordination with the activities authorized under section 21 of the National School Lunch Act".
+Subsec. (d)(4). Pub. L. 101–147, §§124(1)(C), 327(1)(B), struck out "(12 Stat. 503, as amended; 7 U.S.C. 301–305,307 and 308)" after "Act of July 2, 1862" and "(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)" after "Act of August 30, 1890" and inserted ", in coordination with the activities authorized under section 21 of the National School Lunch Act".
 
 Subsec. (d)(5). Pub. L. 101–147, §327(1)(C), struck out "(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307, and 308)" after "Act of July 2, 1862" and "(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)" after "act of August 30, 1890".
 

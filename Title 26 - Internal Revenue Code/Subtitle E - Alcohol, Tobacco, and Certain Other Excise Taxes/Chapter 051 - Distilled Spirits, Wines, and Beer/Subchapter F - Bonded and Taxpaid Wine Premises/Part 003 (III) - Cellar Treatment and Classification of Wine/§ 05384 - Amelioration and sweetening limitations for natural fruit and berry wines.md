@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 89–44, §806(c)(3), substituted "Ameliorated" for "Reserv
 
 Subsec. (b)(1). Pub. L. 89–44, §806(b)(2)(B), struck out references to reserves and reserve inventories.
 
-Subsec. (b)(2). Pub. L. 89–44, §806(b)(2)(C), amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixed acid in corrected juice or wine to five parts per thousand.
+Subsec. (b)(2). Pub. L. 89–44, §806(b)(2)(C), amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixedacid in corrected juice or wine to five parts per thousand.
 
 Pub. L. 89–44, §806(c)(2), struck out "reserved" after "covering the production of" in fourth sentence.
 

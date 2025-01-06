@@ -126,7 +126,7 @@
 
 #### (2) Exception for products manufactured outside United States
 
-&emsp;In the case of a product manufactured outside the United States and directly shipped from the manufacturer to the consumer by United States mail or other delivery service,the accompanying material inside the package of the product may fail to bear the required statement if other accompanying material shipped with the product bears such statement.
+&emsp;In the case of a product manufactured outside the United States and directly shipped from the manufacturer to the consumer by United States mail or other delivery service, the accompanying material inside the package of the product may fail to bear the required statement if other accompanying material shipped with the product bears such statement.
 
 #### (3) Special rules for certain packages
 

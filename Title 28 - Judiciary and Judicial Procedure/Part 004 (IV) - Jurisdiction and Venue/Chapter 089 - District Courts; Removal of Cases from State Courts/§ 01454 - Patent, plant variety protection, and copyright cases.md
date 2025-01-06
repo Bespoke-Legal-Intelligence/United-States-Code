@@ -6,7 +6,7 @@ In General.—A civil action in which any party asserts a claim for relief arisi
 
 (b)
 
-Special Rules.—The removal of an action under this section shall be made in accordancewith section 1446, except that if the removal is based solely on this section—
+Special Rules.—The removal of an action under this section shall be made in accordance with section 1446, except that if the removal is based solely on this section—
 
 &emsp;(1) the action may be removed by any party; and
 

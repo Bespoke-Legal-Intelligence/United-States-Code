@@ -1,6 +1,6 @@
 ### §5701. Confidential nature of claims
 
-(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
+(a) All files, records, reports, and other papers and documents pertaining to any claim underany of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
 (b) The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
@@ -66,7 +66,7 @@
 
 &emsp;(C) offering for sale or other disposition by the Secretary, pursuant to section 3720 of this title, any loan or installment sale contract owned or held by the Secretary; or
 
-&emsp;(D) providing assistance to any applicant for benefits under chapter 37 of this title or administering such benefits if the Secretarypromptly records the fact of such release in appropriate records pertaining to the person concerning whom such release was made.
+&emsp;(D) providing assistance to any applicant for benefits under chapter 37 of this title or administering such benefits if the Secretary promptly records the fact of such release in appropriate records pertaining to the person concerning whom such release was made.
 
 (i)(1) No contract entered into for any of the purposes of subsection (g) or (h) of this section, and no action taken pursuant to any such contract or either such subsection, shall result in the application of section 552a of title 5 to any consumer reporting agency or any employee of a consumer reporting agency.
 
@@ -236,7 +236,7 @@ Pub. L. 101–94, title III, §302(c), Aug. 16, 1989, 103 Stat. 628, provided th
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
 #### Effective Date of 1976 Amendments
 

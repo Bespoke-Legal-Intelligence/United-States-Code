@@ -10,7 +10,7 @@ If awarded a contract under section 637(a), 637(m), 644(a), 657a, or 657f of thi
 
 &emsp;(3) in the case of a contract described in paragraphs (1) and (2)—
 
-&emsp;&emsp;(A) shall determine for which category, services (as described in paragraph (1)) or supplies (as described in paragraph (2)), the greatest percentage of the contract is awarded;
+&emsp;&emsp;(A) shall determine for which category, services (as described in paragraph (1)) orsupplies (as described in paragraph (2)), the greatest percentage of the contract is awarded;
 
 &emsp;&emsp;(B) shall determine the amount awarded under the contract for that category of services or supplies; and
 

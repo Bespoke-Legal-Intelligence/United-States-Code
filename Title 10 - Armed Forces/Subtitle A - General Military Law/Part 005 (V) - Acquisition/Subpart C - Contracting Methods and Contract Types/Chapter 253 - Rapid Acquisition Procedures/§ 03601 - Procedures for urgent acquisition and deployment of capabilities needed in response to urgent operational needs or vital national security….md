@@ -18,9 +18,9 @@ In general.—The Secretary of Defense shall prescribe procedures for the urgent
 
 &emsp;&emsp;&emsp;(iv) can appropriately be acquired under fixed-price contracts;
 
-&emsp;&emsp;(B) that can be developed or procured under a section 804 rapid acquisition pathway; or
+&emsp;&emsp;(B) that can be developed or procured under a rapid acquisition pathway; or
 
-&emsp;&emsp;(C) with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(m)), to which the United States is not a party, for purposes of—
+&emsp;&emsp;(C) with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(m)),<sup>1</sup> to which the United States is not a party, for purposes of—
 
 &emsp;&emsp;&emsp;(i) replenishing United States stockpiles of defense articles when such stockpiles are diminished as a result of the United States providing defense articles in response to such armed attack by a country of concern against—
 
@@ -32,7 +32,7 @@ In general.—The Secretary of Defense shall prescribe procedures for the urgent
 
 &emsp;(2)
 
-Definition.—In this section, the term "section 804 rapid acquisition pathway" means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 prec.).<sup>1</sup>
+Rapid acquisition pathway defined.—In this section, the term "rapid acquisition pathway" means the rapid prototyping or the rapid fielding acquisition pathway authorized under section 3602 of this title.
 
 (b)
 
@@ -54,7 +54,7 @@ Matters to Be Included.—The procedures prescribed under subsection (a) shall i
 
 &emsp;(3) A process to determine the disposition of a capability, including termination (demilitarization or disposal), continued sustainment, or transition to a program of record.
 
-&emsp;(4) Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.).
+&emsp;(4) Specific procedures in accordance with section 3602 of this title.
 
 (c)
 
@@ -66,21 +66,21 @@ Determination of need for urgent acquisition and deployment.—(A) In the case o
 
 &emsp;(B) In the case of any capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a documented deficiency that impacts an ongoing or anticipated contingency operation and that, if left unfulfilled, could potentially result in loss of life or critical mission failure, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed capability.
 
-&emsp;(C)(i) In the case of any cyber capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a deficiency that as the result of a cyber attack has resulted in critical mission failure, the loss of life, property destruction, or economic effects, or if left unfilled is likely to result in critical mission failure, the loss of life, property destruction, or economic effects, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed offensive or defensive cyber capability.
+&emsp;(C)(i) In the case of any cyber capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a deficiency that as the result of a cyber attack has resulted in critical mission failure, the loss of life, property destruction, or economic effects, or if left unfilled is likely to result in critical mission failure, the loss of life, property destruction, or economic effects, theSecretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed offensive or defensive cyber capability.
 
-&emsp;(ii) In this subparagraph, the term "cyber attack" means a deliberate action to alter, disrupt, deceive, degrade, or destroy computer systems or networks or the information orprograms resident in or transiting these systems or networks.
+&emsp;(ii) In this subparagraph, the term "cyber attack" means a deliberate action to alter, disrupt, deceive, degrade, or destroy computer systems or networks or the information or programs resident in or transiting these systems or networks.
 
 &emsp;(2)
 
 Designation of senior official responsible.—(A)(i) Except as provided under clause (ii), whenever the Secretary of Defense makes a determination under subparagraph (A), (B), or (C) of paragraph (1) that a capability is urgently needed to eliminate a deficiency described in that subparagraph, the Secretary shall designate a senior official of the Department of Defense to ensure that the needed capability is acquired and deployed as quickly as possible, with a goal of awarding a contract for the acquisition of the capability within 15 days.
 
-&emsp;(ii) Clause (i) does not apply to an acquisition initiated in the case of a determination by the Secretary of Defense that funds are necessary to immediately initiate a project under a section 804 rapid acquisition pathway if the designated official for acquisitions using such pathway is a service acquisition executive.
+&emsp;(ii) Clause (i) does not apply to an acquisition initiated in the case of a determination by the Secretary of Defense that funds are necessary to immediately initiate a project under a rapid acquisition pathway if the designated official for acquisitions using such pathway is a service acquisition executive.
 
 &emsp;(B) Upon designation of a senior official under subparagraph (A) with respect to a needed capability, the Secretary shall authorize that senior official to waive any provision of law or regulation described in subsection (d) that such senior official determines in writing would unnecessarily impede the urgent acquisition and deployment of such capability. In a case in which such capability cannot be acquired without an extensive delay, the senior official shall require that an interim solution be implemented and deployed using the procedures developed under this section to minimize adverse consequences resulting from the urgent need.
 
 &emsp;(3)
 
-Use of funds.—(A) Subject to subparagraph (C), in any fiscal year in which the Secretary of Defense makes a determination described in subparagraph (A), (B), or (C) of paragraph (1) with respect to a capability, or upon the Secretary making a determination that funds are necessary to immediately initiate a project under a section 804 rapid acquisition pathway based on a compelling national security need, the Secretary may use any funds available to the Department of Defense to urgently acquire and deploy such capability or immediately initiate such project, respectively, if the determination includes a written finding that the use of such funds is necessary to address in a timely manner the deficiency documented or identified under such subparagraph (A), (B), or (C) or the compelling national security need identified for purposes of such section 804 pathway, respectively.
+Use of funds.—(A) Subject to subparagraph (C), in any fiscal year in which the Secretary of Defense makes a determination described in subparagraph (A), (B), or (C) of paragraph (1) with respect to a capability, or upon the Secretary making a determination that funds are necessary to immediately initiate a project under a rapid acquisition pathway based on a compelling national security need, the Secretary may use any funds available to the Department of Defense to urgently acquire and deploy such capability or immediately initiate such project, respectively, if the determination includes a written finding that the use of such funds is necessary to address in a timely manner the deficiency documented or identified under such subparagraph (A), (B), or (C) or the compelling national security need identified for purposes of such section 804 pathway,<sup>2</sup> respectively.
 
 &emsp;(B) The authority provided by this section may only be used to acquire capability—
 
@@ -90,7 +90,7 @@ Use of funds.—(A) Subject to subparagraph (C), in any fiscal year in which the
 
 &emsp;&emsp;(iii) in the case of determinations by the Secretary under paragraph (1)(C), in an amount aggregating not more than $200,000,000 during any fiscal year; and
 
-&emsp;&emsp;(iv) in the case of a determination by the Secretary that funds are necessary to immediately initiate a project under a section 804 rapid acquisition pathway, in an amount aggregating not more than $50,000,000 during any fiscal year.
+&emsp;&emsp;(iv) in the case of a determination by the Secretary that funds are necessary to immediately initiate a project under a rapid acquisition pathway, in an amount aggregating not more than $50,000,000 during any fiscal year.
 
 &emsp;(C) In exercising the authority under this section—
 
@@ -116,7 +116,7 @@ Notification to congressional defense committees.—(A) In the case of a determi
 
 &emsp;(B) In the case of a determination by the Secretary under paragraph (1)(B), the Secretary shall notify the congressional defense committees of the determination at least 10 days before the date on which the determination is effective.
 
-&emsp;(C) In the case of a determination by the Secretary under paragraph (3)(A) that funds are necessary to immediately initiate a project under a section 804 rapid acquisition pathway, the Secretary shall notify the congressional defense committees of the determination within 10 days after the date of the use of such funds.
+&emsp;(C) In the case of a determination by the Secretary under paragraph (3)(A) that funds are necessary to immediately initiate a project under a rapid acquisition pathway, the Secretary shall notify the congressional defense committees of the determination within 10 days after the date of the use of such funds.
 
 &emsp;(D) A notice under this paragraph shall include the following:
 
@@ -132,7 +132,7 @@ Notification to congressional defense committees.—(A) In the case of a determi
 
 &emsp;(5)
 
-Limitation on officers with authority.—The authority to make determinations under subparagraph (A), (B), or (C) of paragraph (1) and under paragraph (3)(A) that funds are necessary to immediately initiate a project under a section 804 rapid acquisitionpathway, to designate a senior official responsible under paragraph (3), and to provide notification to the congressional defense committees under paragraph (4) may be exercised only by the Secretary of Defense or the Deputy Secretary of Defense.
+Limitation on officers with authority.—The authority to make determinations under subparagraph (A), (B), or (C) of paragraph (1) and under paragraph (3)(A) that funds are necessary to immediately initiate a project under a rapid acquisition pathway, to designate a senior official responsible under paragraph (3), and to provide notification to the congressional defense committees under paragraph (4) may be exercised only by the Secretary of Defense or the Deputy Secretary of Defense.
 
 (d)
 
@@ -180,11 +180,25 @@ Limitation.—The process prescribed under subsection (b)(2)(A) may not include 
 
 Director of operational test and evaluation access.—If a capability is deployed under the procedures prescribed pursuant to this section, or under any other authority, before operational test and evaluation of the capability is completed, the Director of Operational Test and Evaluation shall have access to operational records and data relevant to such capability in accordance with section 139(e)(3) of this title for the purpose of completing operational test and evaluation of the capability. Such access shall be provided in a time and manner determined by the Secretary of Defense consistent with requirements of operational security and other relevant operational requirements.
 
-(Added Pub. L. 117–263, div. A, title VIII, §804(a), Dec. 23, 2022, 136 Stat. 2696; amended Pub. L. 118–31, div. A, title VIII, §831, title XVIII, §1801(a)(28), Dec. 22, 2023, 137 Stat. 336, 684.)
+(Added Pub. L. 117–263, div. A, title VIII, §804(a), Dec. 23, 2022, 136 Stat. 2696; amended Pub. L. 118–31, div. A, title VIII, §831, title XVIII, §1801(a)(28), Dec. 22, 2023, 137 Stat. 336, 684; Pub. L. 118–159, div. A, title VIII, §804(c)(1), title XVII, §1701(a)(37), Dec. 23, 2024, 138 Stat. 1968, 2205.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Such section 804 pathway, referred to in subsec. (c)(3)(A), related to "section 804 rapid acquisition pathway" which is no longer defined in subsec. (a)(2) of this section after amendment by section 804(c)(1)(A)(ii) of Pub. L. 118–159 substituting "rapid acquisition pathway" for "section 804 rapid acquisition pathway" because section 804 of Pub. L. 114–92, formerly set out as a note preceding section 3201 of this title, was repealed by Pub. L. 118–159, div. A, title VIII, §804(b), Dec. 23, 2024, 138 Stat. 1968. See 2024 Amendment note below.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(B). Pub. L. 118–159, §804(c)(1)(A)(i), substituted "rapid acquisition pathway" for "section 804 rapid acquisition pathway".
+
+Subsec. (a)(2). Pub. L. 118–159, §1701(a)(37), which directed insertion of "note" before "prec.", could not be executed because "prec." did not appear after the intervening amendment by section 804(c)(1)(A)(ii) of Pub. L. 118–159. See below.
+
+Pub. L. 118–159, §804(c)(1)(A)(ii), amended par. (2) generally. Prior to amendment, text read as follows: "In this section, the term 'section 804 rapid acquisition pathway' means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 prec.)."
+
+Subsec. (b)(4). Pub. L. 118–159, §804(c)(1)(B), substituted "section 3602 of this title" for "the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.)".
+
+Subsec. (c). Pub. L. 118–159, §804(c)(1)(C), substituted "rapid acquisition pathway" for "section 804 rapid acquisition pathway" wherever appearing.
 
 <b>2023</b>—Subsec. (a)(1)(C). Pub. L. 118–31, §831, added subpar. (C).
 
@@ -328,9 +342,11 @@ Annual Report.—Not later than January 15, 2025, and annually thereafter for fo
 
 #### Notice to Committees on Appropriations To Be Concurrently Submitted to Subcommittees on Defense
 
-Pub. L. 117–328, div. C, title VIII, §8072, Dec. 29, 2022, 136 Stat. 4605, provided that: "Any notice that is required to be submitted to the Committees on Appropriations of the House of Representatives and the Senate under section 3601 of title 10, United States Code, as added by section 804(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, after the date of the enactment of this Act \[Dec. 29, 2022\] shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate."
+Pub. L. 118–47, div. A, title VIII, §8071, Mar. 23, 2024, 138 Stat. 501, provided that: "Any notice that is required to be submitted to the Committees on Appropriations of the House of Representatives and the Senate under section 3601 of title 10, United States Code, as added by section 804(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate."
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. C, title VIII, §8072, Dec. 29, 2022, 136 Stat. 4605.
 
 Pub. L. 117–103, div. C, title VIII, §8074, Mar. 15, 2022, 136 Stat. 193, as amended by Pub. L. 117–263, div. A, title VIII, §804(d)(2), Dec. 23, 2022, 136 Stat. 2701.
 
@@ -410,5 +426,7 @@ Notification before procedures go into effect.—The Secretary of Defense shall 
 
 Notification after use of procedures.—The Secretary of Defense shall notify the congressional defense committees not later than 48 hours after each use of the procedures prescribed pursuant to this section."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "10 U.S.C. 3201 note prec.)."</i>
+<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

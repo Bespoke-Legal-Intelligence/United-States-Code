@@ -22,7 +22,7 @@ Years.—A bankruptcy judge or magistrate judge to whom this section applies and
 
 (d)
 
-Retirement for Disability.—A bankruptcy judge or magistrate judge to whom this section applies, who has served at least 5 years, whether continuously or otherwise, as such a bankruptcy judge or magistrate judge, and who retires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to 40 percent of the salary being received at the time of retirement or removal or, in the case of a judge or magistrate judge who has served for at least 10 years, an amount equal to that proportion of the salary being received at the time of retirement or removal which the aggregate number of years of service, not to exceed 14, bears to 14.
+Retirement for Disability.—A bankruptcy judge or magistrate judge to whom this section applies, who has served at least 5 years, whether continuously or otherwise, as such a bankruptcy judge or magistrate judge, and whoretires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to 40 percent of the salary being received at the time of retirement or removal or, in the case of a judge or magistrate judge who has served for at least 10 years, an amount equal to that proportion of the salary being received at the time of retirement or removal which the aggregate number of years of service, not to exceed 14, bears to 14.
 
 (e)
 
@@ -50,7 +50,7 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 (2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
-(B) In the case of an individual who is a magistrate judge to whom this section applies andwho retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (h)
 
@@ -82,7 +82,7 @@ Deductions, Contributions, and Deposits.—
 
 &emsp;(1)
 
-Deductions.—Beginning with the next pay period after the Director of the Administrative Office of the United States Courts receives a notice under subsection (f) that a bankruptcy judge or magistrate judge has elected an annuity under this section, the Director shall deduct and withhold 1 percent of the salary of such bankruptcy judge or magistrate judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Judicial Officers' Retirement Fund. Deductions under this subsection from the salary of a bankruptcy judge or magistrate judge shall terminate upon the retirement of the bankruptcy judge or magistrate judge or upon completing 14 years of service for which contributions under this section have been made, whether continuously or otherwise, as calculated under subsection (g), whichever occurs first.
+Deductions.—Beginning with the next pay period after the Director of the Administrative Office of the United States Courts receives a notice under subsection (f) that a bankruptcy judge or magistrate judge has elected an annuity under this section, the Director shall deduct and withhold 1 percent of the salary of such bankruptcy judge or magistrate judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Judicial Officers' Retirement Fund. Deductions under this subsection from the salaryof a bankruptcy judge or magistrate judge shall terminate upon the retirement of the bankruptcy judge or magistrate judge or upon completing 14 years of service for which contributions under this section have been made, whether continuously or otherwise, as calculated under subsection (g), whichever occurs first.
 
 &emsp;(2)
 
@@ -230,7 +230,7 @@ Unfunded liability.—(A) There are authorized to be appropriated to the Judicia
 
 Section 7447 of the Internal Revenue Code, referred to in subsec. (f)(3), is classified to section 7447 of Title 26, Internal Revenue Code.
 
-Section 34 of the Bankruptcy Act, referred to in subsec. (h)(1)(B), was classified to section 62 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+Section 34 of the Bankruptcy Act, referred to in subsec. (h)(1)(B), was classified to section 62 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a),Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549), referred to in subsec. (h)(1)(C), was set out as a note preceding section 151 of this title prior to repeal by Pub. L. 98–353, title I, §114, July 10, 1984, 98 Stat. 343.
 

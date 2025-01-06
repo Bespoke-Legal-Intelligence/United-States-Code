@@ -12,7 +12,7 @@ Each Head Start agency shall take steps to coordinate with the local educational
 
 &emsp;(4) organizing and participating in joint training, including transition-related training for school staff and Head Start staff;
 
-&emsp;(5) establishing comprehensive transition policies and procedures that support childrentransitioning to school, including by engaging the local educational agency in the establishment of such policies;
+&emsp;(5) establishing comprehensive transition policies and procedures that support children transitioning to school, including by engaging the local educational agency in the establishment of such policies;
 
 &emsp;(6) conducting outreach to parents and elementary school (such as kindergarten) teachers to discuss the educational, developmental, and other needs of individual children;
 

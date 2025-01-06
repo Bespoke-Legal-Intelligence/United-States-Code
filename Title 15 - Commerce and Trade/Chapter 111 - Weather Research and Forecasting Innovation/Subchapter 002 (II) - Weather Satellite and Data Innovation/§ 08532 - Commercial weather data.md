@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 #### (A) Contracts
 
-&emsp;&emsp;Not later than 90 days after April 18, 2017, the Under Secretary shall, through an open competition, enter into at least one pilot contract with one or more private sector entities capable of providing data that meet the standards and specifications set by the Under Secretary for providing commercial weather data in a manner that allows the Under Secretary to calibrate and evaluate the data for its use in National Oceanic and Atmospheric Administration meteorological models.
+&emsp;&emsp;Not later than 90 days after April 18, 2017, the Under Secretary shall, through an opencompetition, enter into at least one pilot contract with one or more private sector entities capable of providing data that meet the standards and specifications set by the Under Secretary for providing commercial weather data in a manner that allows the Under Secretary to calibrate and evaluate the data for its use in National Oceanic and Atmospheric Administration meteorological models.
 
 #### (B) Assessment of data viability
 

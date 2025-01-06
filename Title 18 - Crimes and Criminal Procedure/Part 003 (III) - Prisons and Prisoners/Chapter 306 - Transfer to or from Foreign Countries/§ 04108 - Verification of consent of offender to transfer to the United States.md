@@ -8,7 +8,7 @@
 
 &emsp;(2) the sentence shall be carried out according to the laws of the United States and that those laws are subject to change;
 
-&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to thecountry which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
+&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to the country which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
 
 &emsp;(4) his consent to transfer, once verified by the verifying officer, is irrevocable.
 

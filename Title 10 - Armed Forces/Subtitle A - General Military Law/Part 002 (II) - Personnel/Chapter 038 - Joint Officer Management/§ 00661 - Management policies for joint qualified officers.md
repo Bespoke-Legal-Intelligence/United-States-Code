@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish policies, procedures, 
 
 (b)
 
-Levels, Designation, and Numbers.—(1)(A) The Secretary of Defense shall establish different levels of joint qualification, as well asthe criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.
+Levels, Designation, and Numbers.—(1)(A) The Secretary of Defense shall establish different levels of joint qualification, as well as the criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.
 
 (B) The number of officers who are joint qualified shall be determined by the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff. Such number shall be large enough to meet the requirements of subsection (d).
 
@@ -70,7 +70,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 (e)
 
-Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint Chiefs ofStaff, shall establish career guidelines for officers to achieve joint qualification and for officers who have been designated as joint qualified. Such guidelines shall include guidelines for—
+Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint Chiefs of Staff, shall establish career guidelines for officers to achieve joint qualification and for officers who have been designated as joint qualified. Such guidelines shall include guidelines for—
 
 &emsp;(1) selection;
 
@@ -194,7 +194,7 @@ Pub. L. 107–314, div. A, title V, §502(a), (b), Dec. 2, 2002, 116 Stat. 2530,
 
 #### Independent Study of Joint Officer Management and Joint Professional Military Education Reforms
 
-Pub. L. 107–107, div. A, title V, §526, Dec. 28, 2001, 115 Stat. 1099, directed the Secretary of Defense to provide for an independent study of the joint officer management system and the joint professional military education system and to require the entity conducting the study to submit a report to Congress on the study not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title V, §526, Dec. 28, 2001, 115 Stat. 1099, directed the Secretary of Defense to providefor an independent study of the joint officer management system and the joint professional military education system and to require the entity conducting the study to submit a report to Congress on the study not later than one year after Dec. 28, 2001.
 
 #### Study of Distribution of General and Flag Officer Positions in Joint Duty Assignments
 
@@ -222,7 +222,7 @@ Initial selections.—(A) In making the initial selections of officers for the j
 
 &emsp;&emsp;"(i) waive the requirement that a joint duty assignment be served after the officer has completed an appropriate program at a joint professional military education school;
 
-&emsp;&emsp;"(ii) waive the requirement for the length of a joint duty assignment in the case of a joint duty assignment begun by an officer before January 1, 1987,if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986; or
+&emsp;&emsp;"(ii) waive the requirement for the length of a joint duty assignment in the case of a joint duty assignment begun by an officer before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986; or
 
 &emsp;&emsp;"(iii) consider as a joint duty assignment any tour of duty begun by an officer before October 1, 1986, that involved significant experience in joint matters (as determined by the Secretary) if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for his service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
 

@@ -15,12 +15,15 @@
 | [2262\.](%C2%A7%2002262%20-%20Department%20of%20Defense%20conferences%20collection%20of%20fees%20to%20cover%20Department%20of%20Defense%20costs.md) | Department of Defense conferences: collection of fees to cover Department of Defense costs. |
 | [2263\.](%C2%A7%2002263%20-%20United%20States%20contributions%20to%20the%20North%20Atlantic%20Treaty%20Organization%20common-funded%20budgets.md) | United States contributions to the North Atlantic Treaty Organization common-funded budgets. |
 | [2264\.](%C2%A7%2002264%20-%20Reimbursement%20for%20assistance%20provided%20to%20nongovernmental%20entertainment-oriented%20media%20producers.md) | Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers. |
+| [2265\.](%C2%A7%2002265%20-%20Access%20to%20broadband%20internet%20access%20service%20for%20certain%20members%20of%20the%20armed%20forces.md) | Access to broadband internet access service for certain members of the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title VI, §651(a), Dec. 23, 2024, 138 Stat. 1938, added item 2265. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title VIII, §859(b), Dec. 19, 2014, 128 Stat. 3461, added item 2264.
 
@@ -43,6 +46,14 @@ Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, a
 <b>1992</b>—Pub. L. 102–484, div. A, title X, §1071(a)(2), Oct. 23, 1992, 106 Stat. 2508, added item 2254.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Implementation of Comptroller General Recommendations Relating to the Food Program of the Department of Defense
+
+Pub. L. 118–159, div. A, title X, §1093, Dec. 23, 2024, 138 Stat. 2083, provided that: "Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall—
+
+&emsp;"(1) implement the recommendations of the Comptroller General of the United States contained in the report published by the Comptroller General in June 2024 and titled 'DOD Food Program: Additional Actions Needed to Implement, Oversee, and Evaluate Nutrition Efforts for Service Members' (GAO–24–106155); or
+
+&emsp;"(2) if the Secretary does not implement any such recommendation, submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining why the Secretary has not implemented those recommendations."
 
 #### Clarification of Food Ingredient Requirements for Food or Beverages Provided by the Department of Defense
 
@@ -116,3 +127,4 @@ Elements.—The notification required under subparagraph (A) shall include, with
 - [&sect; 02262 - Department of Defense conferences collection of fees to cover Department of Defense costs](%C2%A7%2002262%20-%20Department%20of%20Defense%20conferences%20collection%20of%20fees%20to%20cover%20Department%20of%20Defense%20costs.md)
 - [&sect; 02263 - United States contributions to the North Atlantic Treaty Organization common-funded budgets](%C2%A7%2002263%20-%20United%20States%20contributions%20to%20the%20North%20Atlantic%20Treaty%20Organization%20common-funded%20budgets.md)
 - [&sect; 02264 - Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers](%C2%A7%2002264%20-%20Reimbursement%20for%20assistance%20provided%20to%20nongovernmental%20entertainment-oriented%20media%20producers.md)
+- [&sect; 02265 - Access to broadband internet access service for certain members of the armed forces](%C2%A7%2002265%20-%20Access%20to%20broadband%20internet%20access%20service%20for%20certain%20members%20of%20the%20armed%20forces.md)

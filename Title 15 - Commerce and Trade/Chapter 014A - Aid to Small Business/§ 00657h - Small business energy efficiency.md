@@ -198,7 +198,7 @@ In this section—
 
 &emsp;&emsp;In carrying out the Telecommuting Pilot Program, the Administrator shall make a concerted effort to provide information to—
 
-&emsp;&emsp;&emsp;(i) small business concerns owned by or employing individuals with disabilities, particularly veterans who are individuals with disabilities;
+&emsp;&emsp;&emsp;(i) small business concerns owned by or employing individuals with disabilities,particularly veterans who are individuals with disabilities;
 
 &emsp;&emsp;&emsp;(ii) Federal, State, and local agencies having knowledge and expertise in assisting individuals with disabilities, including veterans who are individuals with disabilities; and
 

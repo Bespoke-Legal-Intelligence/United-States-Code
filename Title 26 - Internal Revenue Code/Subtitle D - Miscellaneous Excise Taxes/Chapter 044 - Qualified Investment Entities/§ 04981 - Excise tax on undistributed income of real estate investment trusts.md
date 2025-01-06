@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (C) Net ordinary loss
 
-&emsp;&emsp;For purposes of this paragraph, the net ordinary loss for the calendar year is the amount which would be net operating loss of the trust for the calendar year if the amount of such loss were determined in the same manner as ordinary income is determined under paragraph (1).
+&emsp;&emsp;For purposes of this paragraph, the net ordinary loss for the calendar year is theamount which would be net operating loss of the trust for the calendar year if the amount of such loss were determined in the same manner as ordinary income is determined under paragraph (1).
 
 #### (3) Treatment of deficiency distributions
 

@@ -54,7 +54,7 @@ The Institute may undertake extension and outreach activities under this chapter
 
 &emsp;(4) assist the Institute in its publication, clearinghouse, and other information services programs;
 
-&emsp;(5) assist the Institute in the study of conflict resolution between free trade unions and Communist-dominated organizations in the context of the global struggle for the protection of human rights; and
+&emsp;(5) assist the Institute in the study of conflict resolution between free trade unions andCommunist-dominated organizations in the context of the global struggle for the protection of human rights; and
 
 &emsp;(6) promote the other purposes of this chapter.
 
@@ -128,7 +128,7 @@ Subsec. (o). Pub. L. 105–244, §931(1)(B), inserted "and use all sources of su
 
 <b>1992</b>—Subsec. (b)(10). Pub. L. 102–325, §1554(b), added par. (10).
 
-Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
+Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Institute may not accept any gift, contribution, or grant from, or enter into any contractwith, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
 
 &emsp;"(A) 'foreign national' means—
 

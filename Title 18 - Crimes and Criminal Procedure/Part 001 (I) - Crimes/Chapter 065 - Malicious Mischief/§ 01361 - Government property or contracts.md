@@ -16,7 +16,7 @@ Words "or any corporation in which the United States of America is a stockholder
 
 Designation of the place of confinement as "in a jail" was omitted because section 4082 of this title commits all prisoners to the custody of the Attorney General or his authorized representative, who shall designate the place of confinement. (See reviser's note under section 1 of this title.)
 
-The smaller penalty for offenses involving $50 or less was extended to offenses involving $100 or less. The use of $50 as the dividing line between felonies and misdemeanors originated at a time when that sum was of much greater value than $100 is now.
+The smaller penalty for offenses involving $50 or less was extended to offenses involving $100 or less. The useof $50 as the dividing line between felonies and misdemeanors originated at a time when that sum was of much greater value than $100 is now.
 
 The word "damage" was substituted twice for the word "value", and the definition of "value" was omitted as inapplicable to this section. These words and definition, however, are retained in that part of said section 82 which is now section 641 of this title.
 

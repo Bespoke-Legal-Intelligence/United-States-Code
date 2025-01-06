@@ -6,7 +6,7 @@ If any employer fails to deduct and withhold any tax under chapter 24 or subchap
 
 #### (1) Withholding taxes
 
-&emsp;Tax under chapter 24 for such year with respect to such employee shall be determined asif the amount required to be deducted and withheld were equal to 1.5 percent of the wages (as defined in section 3401) paid to such employee.
+&emsp;Tax under chapter 24 for such year with respect to such employee shall be determined as if the amount required to be deducted and withheld were equal to 1.5 percent of the wages (as defined in section 3401) paid to such employee.
 
 #### (2) Employee social security tax
 

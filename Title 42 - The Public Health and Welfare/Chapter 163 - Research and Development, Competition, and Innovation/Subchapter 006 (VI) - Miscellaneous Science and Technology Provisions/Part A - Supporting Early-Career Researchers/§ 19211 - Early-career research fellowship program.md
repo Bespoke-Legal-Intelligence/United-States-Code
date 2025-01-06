@@ -6,7 +6,7 @@ The Director of the National Science Foundation may establish a 2-year pilot pro
 
 #### (b) Selection process
 
-The Director of the National Science Foundation shall select recipients under subsection (a) from among citizens, nationals, and lawfully admitted permanent resident aliens of the United States.
+The Director of the National Science Foundation shall select recipients under subsection (a)from among citizens, nationals, and lawfully admitted permanent resident aliens of the United States.
 
 #### (c) Outreach
 

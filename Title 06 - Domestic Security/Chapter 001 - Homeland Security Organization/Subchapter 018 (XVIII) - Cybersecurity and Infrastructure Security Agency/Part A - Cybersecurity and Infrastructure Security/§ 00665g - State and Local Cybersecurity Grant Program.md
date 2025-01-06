@@ -34,7 +34,7 @@ In this section:
 
 #### (7) Tribal government
 
-&emsp;The term "Tribal government" means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25.
+&emsp;The term "Tribal government" means the recognized governing body of any Indian orAlaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25.
 
 #### (b) Establishment
 
@@ -544,7 +544,7 @@ Not later than 3 business days before the date on which the Department announces
 
 #### (A) In general
 
-&emsp;&emsp;Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate congressional committees a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
+&emsp;&emsp;Not later than September 30, 2024, the Secretary, acting through the Director, shallsubmit to the appropriate congressional committees a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
 
 &emsp;&emsp;&emsp;(i) potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;
 
@@ -566,7 +566,7 @@ Not later than 3 business days before the date on which the Department announces
 
 &emsp;&emsp;(A) describes the cybersecurity needs of Tribal governments, which shall be determined in consultation with the Secretary of the Interior and Tribal governments; and
 
-&emsp;&emsp;(B) includes any recommendations for addressing the cybersecurity needs of Tribalgovernments, including any necessary modifications to the State and Local Cybersecurity Grant Program to better serve Tribal governments.
+&emsp;&emsp;(B) includes any recommendations for addressing the cybersecurity needs of Tribal governments, including any necessary modifications to the State and Local Cybersecurity Grant Program to better serve Tribal governments.
 
 #### (6) GAO review
 

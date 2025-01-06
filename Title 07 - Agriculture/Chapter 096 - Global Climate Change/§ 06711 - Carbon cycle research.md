@@ -70,7 +70,7 @@ Land grant universities described in subsection (b) shall use funds made availab
 
 #### (2) Eligible entities
 
-&emsp;Research under this subsection may be carried out through the competitive awarding ofgrants and cooperative agreements to colleges and universities (as defined in section 3103 of this title).
+&emsp;Research under this subsection may be carried out through the competitive awarding of grants and cooperative agreements to colleges and universities (as defined in section 3103 of this title).
 
 #### (3) Cooperative research purposes
 

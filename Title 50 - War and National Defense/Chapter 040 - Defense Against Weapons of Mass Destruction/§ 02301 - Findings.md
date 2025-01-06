@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
 
-&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
+&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption inthe states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
 &emsp;(5) The conditions described in paragraph (4) have substantially increased the ability of potentially hostile nations, terrorist groups, and individuals to acquire weapons of mass destruction and related materials and technologies from within the states of the former Soviet Union and from unemployed scientists who worked on those programs.
 
@@ -146,7 +146,7 @@ Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended 
 
 "(a)
 
-Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense AgainstWeapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
+Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
 
 "(b)
 
@@ -240,7 +240,7 @@ Termination of the Panel.—The panel shall terminate five years after the date 
 
 Definition.—In this section, the term 'weapon of mass destruction' has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1))."
 
-\[Pub. L. 107–107, div. A, title XV, §1514(b)(2), Dec. 28, 2001, 115 Stat. 1274, provided that: "The amendment made by paragraph (1) \[amending section 1405(k) of Pub. L. 105–261, set out above\] shall apply with respect to periods of service on the advisory panel under section 1405 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] on or after the date of the enactment of this Act \[Dec. 28, 2001\]."\]
+\[Pub. L. 107–107, div. A, title XV, §1514(b)(2), Dec. 28, 2001, 115 Stat. 1274, provided that: "The amendment made by paragraph (1) \[amending section 1405(k) of Pub. L. 105–261, set out above\] shall apply with respectto periods of service on the advisory panel under section 1405 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] on or after the date of the enactment of this Act \[Dec. 28, 2001\]."\]
 
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 

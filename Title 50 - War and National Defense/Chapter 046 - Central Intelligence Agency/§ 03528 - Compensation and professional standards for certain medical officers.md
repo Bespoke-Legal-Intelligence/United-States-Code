@@ -24,7 +24,7 @@ If a medical officer is a medical officer located in a duty station outside of t
 
 #### (e) Clinical practice hours
 
-The head of the Office of Medical Services shall make available to medical officers excusedabsence time to allow for the maintenance of clinical practice hours in accordance with subsection (c)(3).
+The head of the Office of Medical Services shall make available to medical officers excused absence time to allow for the maintenance of clinical practice hours in accordance with subsection (c)(3).
 
 (June 20, 1949, ch. 227, §27, as added Pub. L. 117–103, div. X, title VI, §601, Mar. 15, 2022, 136 Stat. 991.)
 

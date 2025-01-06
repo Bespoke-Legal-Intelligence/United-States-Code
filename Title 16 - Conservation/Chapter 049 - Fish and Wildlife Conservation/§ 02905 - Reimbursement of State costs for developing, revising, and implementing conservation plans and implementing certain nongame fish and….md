@@ -62,6 +62,8 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;&emsp;(ii) more than 10 percent of such costs in any such year are accounted for by personal service or other inkind contributions.
 
+
+
 (3) The amount of the reimbursement paid to any State under this section with respect to any fiscal year—
 
 &emsp;(A) may not exceed 75 percent for the development of a conservation plan except that during fiscal years 1982, 1983, and 1984 such amount shall not exceed 90 percent;

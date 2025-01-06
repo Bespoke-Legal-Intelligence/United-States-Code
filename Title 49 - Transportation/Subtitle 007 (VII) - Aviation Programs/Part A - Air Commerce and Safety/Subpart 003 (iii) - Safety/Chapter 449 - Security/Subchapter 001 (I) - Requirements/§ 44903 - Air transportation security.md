@@ -20,7 +20,7 @@ Law enforcement personnel.—The term "law enforcement personnel" means individu
 
 (b)
 
-Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribinga regulation under this subsection, the Administrator shall—
+Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Administrator shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -64,7 +64,7 @@ Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval 
 
 &emsp;(1) to carry firearms; and
 
-&emsp;(2) to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individual to be arrested has committed or is committing a felony.
+&emsp;(2) to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if theindividual reasonably believes the individual to be arrested has committed or is committing a felony.
 
 (e)
 
@@ -72,7 +72,7 @@ Exclusive Responsibility Over Passenger Safety.—The Administrator has the excl
 
 (f)
 
-Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administratormay designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of chapter 10 of title 5.
+Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of chapter 10 of title 5.
 
 (g)
 
@@ -142,7 +142,7 @@ Airport perimeter screening.—The Administrator—
 
 &emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
 
-&emsp;&emsp;(E) shall issue guidance for the use of biometric or other technology that positivelyverifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+&emsp;&emsp;(E) shall issue guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
 
 &emsp;(5)
 
@@ -230,7 +230,7 @@ False non-match.—The term "false non-match" means the rejection of a valid ide
 
 &emsp;&emsp;(F)
 
-Secure area of an airport.—The term "secure area of an airport" means the sterilearea and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
+Secure area of an airport.—The term "secure area of an airport" means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
 
 (i)
 
@@ -394,7 +394,7 @@ In general.—Paragraph (1) and the other requirements of this chapter do not ap
 
 &emsp;&emsp;(B)
 
-Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operationof aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
+Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operation of aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
 
 &emsp;&emsp;(C)
 
@@ -486,7 +486,7 @@ In subsection (a)(2), the words "the degree of" are substituted for "such" for c
 
 In subsection (b), before clause (1), the word "rules" is omitted as being synonymous with "regulations". The words "such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary" are omitted as surplus. The word "air" after "intrastate" is added for clarity and consistency. The words "and amending" are omitted as surplus. In clause (1), the words "the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities" are substituted for "such other Federal, State, and local agencies" for consistency in the revised title and with other titles of the United States Code. The words "as he may deem appropriate" are omitted as surplus. In clause (2)(A), the words "in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy" are omitted as surplus. In clause (3), before subclause (A), the words "inspection" and "in air transportation and intrastate air transportation" are omitted as surplus. In subclause (B), the words "that they will receive" and "any air transportation security program established under" are omitted as surplus. In clause (4), the words "contribute to . . . the purposes of" are omitted as surplus.
 
-In subsection (c)(1), the words "traveling in air transportation or intrastate air transportation from acts of criminal violence and aircraft piracy" and "whose services are made available by their employers" are omitted as surplus. The words "department, agency, or instrumentality of the Government" are substituted for "Federal department or agency" for consistency in the revised title and with other titles of the Code. The word "When" is substituted for "In any case in which" to eliminate unnecessary words. The words "receipt of", "by order", "the services of", "directly", and "at the airport concerned in such numbers and for such period of time as the Administrator may deem necessary" are omitted as surplus. The words "When deciding whether additional personnel are needed" are substituted for "In making the determination referred to in the preceding sentence" for clarity.
+In subsection (c)(1), the words "traveling in air transportation or intrastate air transportation from acts ofcriminal violence and aircraft piracy" and "whose services are made available by their employers" are omitted as surplus. The words "department, agency, or instrumentality of the Government" are substituted for "Federal department or agency" for consistency in the revised title and with other titles of the Code. The word "When" is substituted for "In any case in which" to eliminate unnecessary words. The words "receipt of", "by order", "the services of", "directly", and "at the airport concerned in such numbers and for such period of time as the Administrator may deem necessary" are omitted as surplus. The words "When deciding whether additional personnel are needed" are substituted for "In making the determination referred to in the preceding sentence" for clarity.
 
 In subsection (c)(2)(A), before clause (i), the words "under this section" are omitted as surplus. The words "or an amendment in an existing program" are substituted for "and may approve an amendment to a security program of an airport operator approved by the Administrator under subsection (b)" to eliminate unnecessary words. In clause (ii), the word "monetary" is substituted for "financial" for consistency.
 
@@ -576,7 +576,7 @@ Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
-Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crewswith less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (i)(1). Pub. L. 107–296, §1405(b)(1), substituted "If the Under Secretary" for "If the Secretary" and "the Under Secretary may" for "the Secretary may".
 
@@ -648,7 +648,135 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Formal Policy on Sexual Assault and Harassment on Air Carriers
+
+Pub. L. 118–63, title IV, §435, May 16, 2024, 138 Stat. 1174, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], passenger air carriers operating under part 121 of title 14, Code of Federal Regulations, shall issue, in consultation with labor unions representing personnel, a formal policy with respect to sexual assault or harassment incidents.
+
+"(b)
+
+Contents.—Each policy required under subsection (a) shall include—
+
+&emsp;"(1) a statement indicating that no sexual assault or harassment incident is acceptable under any circumstance;
+
+&emsp;"(2) procedures that facilitate the reporting of a sexual assault or harassment incident, including—
+
+&emsp;&emsp;"(A) appropriate public outreach activities; and
+
+&emsp;&emsp;"(B) confidential phone and internet-based opportunities for reporting;
+
+&emsp;"(3) procedures that personnel should follow upon the reporting of a sexual assault or harassment incident, including actions to protect affected individuals from continued sexual assault or harassment and to notify law enforcement, including the Federal Bureau of Investigation, when appropriate;
+
+&emsp;"(4) procedures that may limit or prohibit, to the extent practicable, future travel with the air carrier by any passenger who commits a sexual assault or harassment incident; and
+
+&emsp;"(5) training that is required for all appropriate personnel with respect to each such policy, includingspecific training for personnel who may receive reports of sexual assault or harassment incidents.
+
+"(c)
+
+Passenger Information.—An air carrier described in subsection (a) shall display, on the website of the air carrier and through the use of appropriate signage, a written statement that informs passengers and personnel of the procedure for reporting a sexual assault or harassment incident.
+
+"(d)
+
+Standard of Care.—Compliance with the requirements of this section, and any policy issued thereunder, shall not determine whether the air carrier described in subsection (a) has acted with any requisite standard of care.
+
+"(e)
+
+Rules of Construction.—
+
+&emsp;"(1)
+
+Effect on authorities.—Nothing in this section shall be construed as granting the Secretary \[of Transportation\] any additional authorities beyond ensuring that a passenger air carrier operating under part 121 of title 14, Code of Federal Regulations issues a formal policy and displays required information in compliance with this section.
+
+&emsp;"(2)
+
+Effect on other laws.—Nothing in this section shall be construed to alter existing authorities of the Equal Employment Opportunity Commission, the Department of Labor, or the Department of Justice to enforce applicable employment and sexual assault and sexual harassment laws.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Personnel.—The term 'personnel' means an employee or contractor of passenger air carrier operating under part 121 of title 14, Code of Federal Regulations.
+
+&emsp;"(2)
+
+Sexual assault.—The term 'sexual assault' means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
+
+&emsp;"(3)
+
+Sexual assault or harassment incident.—The term 'sexual assault or harassment incident' means the occurrence, or reasonably suspected occurrence, of an act that—
+
+&emsp;&emsp;"(A) constitutes sexual assault or sexual harassment; and
+
+&emsp;&emsp;"(B) is committed—
+
+&emsp;&emsp;&emsp;"(i) by a passenger or personnel against another passenger or personnel; and
+
+&emsp;&emsp;&emsp;"(ii) within an aircraft or in an area in which passengers are entering or exiting an aircraft."
+
 #### Secondary Cockpit Barriers
+
+Pub. L. 118–63, title III, §350, May 16, 2024, 138 Stat. 1110, provided that:
+
+"(a)
+
+In General.—Not later than 6 months after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall convene an aviation rulemaking committee to review and develop findings and recommendations to require installation of a secondary cockpit barrier on commercial passenger aircraft operated under the provisions of part 121 of title 14, Code of Federal Regulations, that are not captured under another regulation or proposed regulation.
+
+"(b)
+
+Membership.—The Administrator shall appoint a chair and members of the rulemaking committee convened under subsection (a), which shall be comprised of at least 1 representative from the constituencies of—
+
+&emsp;"(1) mainline air carriers;
+
+&emsp;"(2) regional air carriers;
+
+&emsp;"(3) aircraft manufacturers;
+
+&emsp;"(4) passenger aircraft pilots represented by a labor group;
+
+&emsp;"(5) flight attendants represented by a labor group;
+
+&emsp;"(6) airline passengers; and
+
+&emsp;"(7) other stakeholders the Administrator determines appropriate.
+
+"(c)
+
+Considerations.—The aviation rulemaking committee convened under subsection (a) shall consider—
+
+&emsp;"(1) minimum dimension requirements for secondary barriers on all aircraft types operated under part 121 of title 14, Code of Federal Regulations;
+
+&emsp;"(2) secondary barrier performance standards manufacturers and air carriers must meet for such aircraft types;
+
+&emsp;"(3) the availability of certified secondary barriers suitable for use on such aircraft types;
+
+&emsp;"(4) the development, certification, testing, manufacturing, installation, and training for secondary barriers for such aircraft types;
+
+&emsp;"(5) flight duration and stage length;
+
+&emsp;"(6) the location of lavatories on such aircraft as related to operational complexities;
+
+&emsp;"(7) operational complexities;
+
+&emsp;"(8) any risks to safely evacuate passengers of such aircraft; and
+
+&emsp;"(9) other considerations the Administrator determines appropriate.
+
+"(d)
+
+Report to Congress.—Not later than 12 months after the convening of the aviation rulemaking committee described in subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report based on the findings and recommendations of the aviation rulemaking committee convened under subsection (a), including—
+
+&emsp;"(1) if applicable, any dissenting positions on the findings and the rationale for each position; and
+
+&emsp;"(2) any disagreements with the recommendations, including the rationale for each disagreement and the reasons for the disagreement.
+
+"(e)
+
+Installation of Secondary Cockpit Barriers of Existing Aircraft.—Not later than 36 months after the date of the submission of the report under subsection (d), the Administrator shall, taking into consideration the final reported findings and recommendations of the aviation rulemaking committee, issue a final rule requiring installation of a secondary cockpit barrier on each commercial passenger aircraft operated under the provisions of part 121 of title 14, Code of Federal Regulations."
 
 Pub. L. 115–254, div. B, title III, §336, Oct. 5, 2018, 132 Stat. 3281, provided that:
 
@@ -680,7 +808,7 @@ Membership.—The Task Force shall be composed of, at a minimum, representatives
 
 &emsp;"(1) \[the\] Department of Transportation;
 
-&emsp;"(2) \[the\] Department of Justice, including the Federal Bureau of Investigation, Office of Victims for Crimes \[sic\], and the Office on Violence Against Women;
+&emsp;"(2) \[the\] Department of Justice, including the Federal Bureau of Investigation, Office of Victims forCrimes \[sic\], and the Office on Violence Against Women;
 
 &emsp;"(3) National organizations that specialize in providing services to sexual assault victims;
 
@@ -746,7 +874,7 @@ Availability of Reporting Process.—The process for reporting established under
 
 #### Employee Assault Prevention and Response Plans
 
-Pub. L. 115–254, div. B, title V, §551, Oct. 5, 2018, 132 Stat. 3378, provided that:
+Pub. L. 115–254, div. B, title V, §551, Oct. 5, 2018, 132 Stat. 3378, as amended by Pub. L. 118–63, title IV, §434(b), May 16, 2024, 138 Stat. 1174, provided that:
 
 "(a)
 
@@ -780,7 +908,11 @@ Study.—Not later than 180 days after the date of enactment of this Act, the Co
 
 "(e)
 
-Gap Analysis.—The study required under subsection (d) shall include a gap analysis to determine if State and local laws and resources are adequate to deter or otherwise address the crimes of violence described in subsection (a) and recommendations on how to address any identified gaps."
+Gap Analysis.—The study required under subsection (d) shall include a gap analysis to determine if State and local laws and resources are adequate to deter or otherwise address the crimes of violence described in subsection (a) and recommendations on how to address any identified gaps.
+
+"(f)
+
+Briefing to Congress.—Not later than 90 days after the date of enactment of this subsection \[May 16, 2024\], the Administrator of the Federal Aviation Administration shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a briefing on the Employee Assault Prevention and Response Plan submitted by each air carrier pursuant to this section."
 
 #### Transportation Security Laboratory
 
@@ -1384,7 +1516,7 @@ Types of Plans.—Such plans may include, but may not be limited to, the followi
 
 &emsp;"(6) To the extent practicable, a projected maximum timeframe for law enforcement response to active shooters, acts of terrorism, and incidents that target passenger security-screening checkpoints.
 
-&emsp;"(7) A schedule of joint exercises and training to be conducted by the airport, the Administration, other stakeholders such as airport and airline tenants, and any relevant law enforcement, airport police, fire, and medical personnel.
+&emsp;"(7) A schedule of joint exercises and training to be conducted by the airport, the Administration, other stakeholders such as airport and airline tenants, andany relevant law enforcement, airport police, fire, and medical personnel.
 
 &emsp;"(8) A schedule for producing after-action joint exercise reports to identify and determine how to improve security incident response capabilities.
 
@@ -1814,7 +1946,7 @@ Notification of Congress.—Not later than 90 days after the date of the enactme
 
 #### Development of Aviation Security Liaison Agreement
 
-Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that: "The Secretary of Transportation and the Attorney General, acting through the Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation, shall enter into an interagency agreement providing for the establishment of an aviation security liaison at existing appropriate Federal agencies' field offices in or near cities served by a designated high-risk airport."
+Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, which related to an interagency agreement providing for the establishment of an aviation security liaison at existing appropriate Federal agencies' field offices in or near cities served by a designated high-risk airport, was repealed by Pub. L. 118–63, title II, §218(g), May 16, 2024, 138 Stat. 1056.
 
 #### Definitions of Terms in Pub. L. 107–71
 

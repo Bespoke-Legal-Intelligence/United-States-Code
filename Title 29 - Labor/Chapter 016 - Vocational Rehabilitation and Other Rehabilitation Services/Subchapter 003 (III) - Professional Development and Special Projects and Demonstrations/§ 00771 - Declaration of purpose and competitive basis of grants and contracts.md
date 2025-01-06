@@ -16,7 +16,7 @@ It is the purpose of this subchapter to authorize grants and contracts to—
 
 The Secretary shall ensure that all grants and contracts are awarded under this subchapter on a competitive basis.
 
-(Pub. L. 93–112, title III, §301, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1183;amended Pub. L. 113–128, title IV, §441(a), July 22, 2014, 128 Stat. 1672.)
+(Pub. L. 93–112, title III, §301, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1183; amended Pub. L. 113–128, title IV, §441(a), July 22, 2014, 128 Stat. 1672.)
 
 #### <b>Editorial Notes</b>
 

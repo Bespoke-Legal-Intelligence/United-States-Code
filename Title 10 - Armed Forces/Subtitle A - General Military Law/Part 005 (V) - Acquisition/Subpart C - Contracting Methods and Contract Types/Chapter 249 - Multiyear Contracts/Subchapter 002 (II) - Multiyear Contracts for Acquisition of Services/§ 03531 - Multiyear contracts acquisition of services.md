@@ -48,7 +48,7 @@ Restrictions Applicable Generally.—(1) The head of an agency may not initiate 
 
 (3) The head of an agency may not terminate a multiyear procurement contract for services until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
-(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then beawarded until the end of a period of 30 days beginning on the date of such notification.
+(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 (5) In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (4), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall give written notification to the congressional defense committees of—
 
@@ -116,7 +116,7 @@ Section 3541, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, authorized President t
 
 Section 3542, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, authorized President to detail certain officers as chief and assistant chief of staff of divisions of Army National Guard in Federal service. See section 12502(a) of this title.
 
-A prior section 3543, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to number of authorized aides, prior to repeal by Pub. L. 114–328, div. A, title V, §502(s)(1), Dec. 23, 2016, 130 Stat. 2104.
+A prior section 3543, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to number of authorized aides, priorto repeal by Pub. L. 114–328, div. A, title V, §502(s)(1), Dec. 23, 2016, 130 Stat. 2104.
 
 Prior sections 3544 and 3545 were repealed by Pub. L. 90–235, §4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760.
 

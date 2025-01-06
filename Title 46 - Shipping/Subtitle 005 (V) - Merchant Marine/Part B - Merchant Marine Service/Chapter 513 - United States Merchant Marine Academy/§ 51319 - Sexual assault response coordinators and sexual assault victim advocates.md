@@ -130,7 +130,7 @@ Special victims advisory.—The Secretary shall ensure that the attorney designa
 
 &emsp;(3)
 
-Privileged communications.—Any communications between a victim of an alleged sex-related offense and the Special Victim Advisor, when acting in their capacity as such, shall have the same protection that applicable law provides for confidential attorney-client communications.
+Privileged communications.—Any communications between a victim of an alleged sex-related offense and the Special Victim Advisor, when acting in their capacity as such, shall have the same protection that applicablelaw provides for confidential attorney-client communications.
 
 (d)
 

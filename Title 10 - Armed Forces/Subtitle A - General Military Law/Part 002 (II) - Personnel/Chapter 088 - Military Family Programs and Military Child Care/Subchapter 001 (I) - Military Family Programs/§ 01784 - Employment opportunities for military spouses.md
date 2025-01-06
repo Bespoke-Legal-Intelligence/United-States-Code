@@ -36,7 +36,7 @@ Employment by Other Federal Agencies.—The Secretary of Defense shall work with
 
 Private-Sector Employment.—The Secretary of Defense—
 
-&emsp;(1) shall seek to develop partnerships with firms in the private sector to enhance employment opportunities for spouses of members ofthe armed forces and to provide for improved job portability for such spouses, especially in the case of the spouse of a member of the armed forces accompanying the member to a new geographical area because of a change of permanent duty station of the member; and
+&emsp;(1) shall seek to develop partnerships with firms in the private sector to enhance employment opportunities for spouses of members of the armed forces and to provide for improved job portability for such spouses, especially in the case of the spouse of a member of the armed forces accompanying the member to a new geographical area because of a change of permanent duty station of the member; and
 
 &emsp;(2) shall work with the United States Chamber of Commerce and other appropriate private-sector entities to facilitate the formation of such partnerships.
 
@@ -68,15 +68,33 @@ Annual report.—Not later than February 28 each year, the Secretary shall submi
 
 &emsp;&emsp;(B) Any interstate compact developed during a prior calendar year into which one or more additional States agreed to enter during the preceding calendar year.
 
-&emsp;(5)
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, §571(c), Dec. 28, 2001, 115 Stat. 1121; Pub. L. 116–92, div. A, title V, §575, Dec. 20, 2019, 133 Stat. 1405; Pub. L. 116–283, div. A, title X, §1081(a)(33), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title V, §§581(a), 582(a), Dec. 23, 2024, 138 Stat. 1910.)
 
-Expiration.—The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expires on September 30, 2024.
+#### Amendment of Section
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, §571(c), Dec. 28, 2001, 115 Stat. 1121; Pub. L. 116–92, div. A, title V, §575, Dec. 20, 2019, 133 Stat. 1405; Pub. L. 116–283, div. A, title X, §1081(a)(33), Jan. 1, 2021, 134 Stat. 3872.)
+<i>Pub. L. 118–159, div. A, title V, §582, Dec. 23, 2024, 138 Stat. 1910, provided that, effective on Jan. 1, 2026, this section is amended by adding at the end the following new subsection:</i>
+
+<i>"(i)</i>
+
+<i>Employment Fellowship Opportunities.—(1) The Secretary of Defense shall carry out a program to provide spouses of members of the armed forces with paid fellowships (including in-person, remote, and hybrid fellowships) with employers in various industries. To carry out such program, the Secretary shall take the following steps:</i>
+
+&emsp;<i>"(A) Seek to enter into an agreement with an entity to conduct such program.</i>
+
+&emsp;<i>"(B) Determine the appropriate capacity for the program based on the availability of appropriations for such purpose.</i>
+
+&emsp;<i>"(C) Establish criteria to evaluate the effectiveness and cost-effectiveness of the program in supporting the employment of such spouses.</i>
+
+<i>"(2) The authority to carry out the program under this subsection shall terminate on January 1, 2031."</i>
+
+<i>See 2024 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (h)(5). Pub. L. 118–159, §581(a), struck out par. (5). Text read as follows: "The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expires on September 30, 2024."
+
+Subsec. (i). Pub. L. 118–159, §582(a), added subsec. (i).
 
 <b>2021</b>—Subsec. (h)(5). Pub. L. 116–283 substituted "expires" for "expire".
 
@@ -85,6 +103,12 @@ Expiration.—The authority to enter into a cooperative agreement under paragrap
 <b>2001</b>—Subsecs. (d) to (g). Pub. L. 107–107 added subsecs. (d) to (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–159, div. A, title V, §581(b), Dec. 23, 2024, 138 Stat. 1910, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted immediately following the enactment of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92), to which such amendment relates."
+
+Pub. L. 118–159, div. A, title V, §582(b), Dec. 23, 2024, 138 Stat. 1911, provided that: "Subsection (i) of such section \[10 U.S.C. 1784\] shall take effect on January 1, 2026."
 
 #### Pilot Program To Establish Employment Fellowship Opportunities for Military Spouses
 
@@ -129,6 +153,8 @@ Final Report.—Not later than 180 days after the pilot program ends, the Secret
 "(e)
 
 Termination.—The pilot program shall terminate three years after the date on which the Secretary establishes the pilot program."
+
+\[Pub. L. 118–159, div. A, title V, §582(c), Dec. 23, 2024, 138 Stat. 1911, provided that: "The pilot program under section 564 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 1784 note) \[set out above\] shall terminate on January 1, 2026.\]"
 
 #### Implementation of GAO Recommendation on Improved Communication of Best Practices To Engage Military Spouses With Career Assistance Resources
 

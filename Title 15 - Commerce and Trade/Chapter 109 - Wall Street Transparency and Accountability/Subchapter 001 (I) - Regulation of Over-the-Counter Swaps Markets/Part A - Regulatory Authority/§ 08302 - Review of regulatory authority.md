@@ -4,7 +4,7 @@
 
 #### (1) Commodity Futures Trading Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposesof assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
 
 #### (2) Securities and Exchange Commission
 
@@ -134,7 +134,7 @@
 
 #### (4) Judicial stay
 
-&emsp;The filing of a petition by the complaining Commission pursuant to paragraph (1) shall operate as a stay of the rule, regulation, or order until the date on which the determination of the United States Court of Appeals for the District of Columbia Circuit is final (including any appeal of the determination).
+&emsp;The filing of a petition by the complaining Commission pursuant to paragraph (1) shalloperate as a stay of the rule, regulation, or order until the date on which the determination of the United States Court of Appeals for the District of Columbia Circuit is final (including any appeal of the determination).
 
 #### (d) Joint rulemaking
 

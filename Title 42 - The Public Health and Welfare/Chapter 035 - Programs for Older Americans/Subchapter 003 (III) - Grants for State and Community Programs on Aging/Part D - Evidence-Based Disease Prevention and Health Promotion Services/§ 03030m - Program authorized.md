@@ -18,7 +18,7 @@ The Assistant Secretary shall work in consultation with qualified experts to pro
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a). Pub. L. 116–131 inserted "provide technical assistance on the delivery of evidence-based disease prevention and health promotion services in different settings and for different populations, and" before "consult".
+<b>2020</b>—Subsec. (a). Pub. L. 116–131 inserted "provide technical assistance on the delivery of evidence-baseddisease prevention and health promotion services in different settings and for different populations, and" before "consult".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–144 inserted "evidence-based" after "to provide".
 

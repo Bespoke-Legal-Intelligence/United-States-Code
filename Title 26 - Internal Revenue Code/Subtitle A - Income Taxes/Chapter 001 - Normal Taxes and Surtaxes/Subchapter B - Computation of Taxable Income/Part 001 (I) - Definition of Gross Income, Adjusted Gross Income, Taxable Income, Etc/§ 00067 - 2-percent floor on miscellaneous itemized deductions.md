@@ -94,7 +94,7 @@ This section shall be applied before the application of the dollar limitation of
 
 #### (g) Suspension for taxable years 2018 through 2025
 
-Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017, and before January 1, 2026.
+Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed forany taxable year beginning after December 31, 2017, and before January 1, 2026.
 
 (Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 115–97, title I, §11045(a), Dec. 22, 2017, 131 Stat. 2088.)
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, seesection 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

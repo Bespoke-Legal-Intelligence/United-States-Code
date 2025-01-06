@@ -64,7 +64,7 @@ To request a grant under this part, the chief executive officer of a State or un
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of fiscal years 2017 through 2021, of the amounts appropriated to carry out this subpart, not less than $5,000,000 and not morethan $10,000,000 shall be used to carry out this subsection.
+&emsp;For each of fiscal years 2017 through 2021, of the amounts appropriated to carry out this subpart, not less than $5,000,000 and not more than $10,000,000 shall be used to carry out this subsection.
 
 (Pub. L. 90–351, title I, §502, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3096; amended Pub. L. 109–271, §8(i), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–324, §14(b), Dec. 16, 2016, 130 Stat. 1958.)
 

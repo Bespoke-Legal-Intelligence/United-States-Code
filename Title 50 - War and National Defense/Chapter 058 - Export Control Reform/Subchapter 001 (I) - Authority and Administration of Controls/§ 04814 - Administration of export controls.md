@@ -30,7 +30,7 @@ The purposes of this section include to—
 
 #### (c) Sense of Congress
 
-It is the sense of Congress that the administration of export controls under this subchaptershould be consistent with the procedures relating to export license applications described in Executive Order 12981 (1995).
+It is the sense of Congress that the administration of export controls under this subchapter should be consistent with the procedures relating to export license applications described in Executive Order 12981 (1995).
 
 (Pub. L. 115–232, div. A, title XVII, §1755, Aug. 13, 2018, 132 Stat. 2216.)
 

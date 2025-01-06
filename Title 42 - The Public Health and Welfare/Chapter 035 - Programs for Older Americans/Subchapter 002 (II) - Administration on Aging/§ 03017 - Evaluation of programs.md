@@ -14,7 +14,7 @@ The Secretary may not make grants or contracts under subchapter IV of this chapt
 
 #### (d) Opinions of program and project participants; comparison of effectiveness of related programs; consultation with organizations concerned with older individuals
 
-In carrying out evaluations under this section, the Secretary shall, whenever possible, arrange to obtain the opinions of program and project participants about the strengths and weaknesses of the programs and projects, and conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives. In carrying out such evaluations, the Secretary shall consult with organizations concerned with older individuals, including those representing minority individuals, older individuals residing in rural areas and older individuals with disabilities.
+In carrying out evaluations under this section, the Secretary shall, whenever possible, arrangeto obtain the opinions of program and project participants about the strengths and weaknesses of the programs and projects, and conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives. In carrying out such evaluations, the Secretary shall consult with organizations concerned with older individuals, including those representing minority individuals, older individuals residing in rural areas and older individuals with disabilities.
 
 #### (e) Annual summaries and analyses of evaluation; demonstration projects; transmittal to Congress; dissemination to Federal, State, and local agencies and private organizations; accessibility to public
 

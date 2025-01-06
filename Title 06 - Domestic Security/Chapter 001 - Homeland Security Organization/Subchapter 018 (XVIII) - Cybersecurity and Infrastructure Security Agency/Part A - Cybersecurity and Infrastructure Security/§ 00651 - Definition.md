@@ -18,7 +18,7 @@ Par. (7). Pub. L. 117–150 added par. (7).
 
 #### Rule of Construction
 
-Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, and references to terms defined in the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) on the day before Dec. 23, 2022, that are defined in section 650 of this title are deemed to be references to those terms as defined in such section 650, see section 7143(f) of Pub. L. 117–263, set out as a note under section 650 of this title.
+Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, and references to terms defined in the Homeland Security Act of 2002\(6 U.S.C. 101 et seq.) on the day before Dec. 23, 2022, that are defined in section 650 of this title are deemed to be references to those terms as defined in such section 650, see section 7143(f) of Pub. L. 117–263, set out as a note under section 650 of this title.
 
 #### Construction of Pub. L. 115–278
 
@@ -36,7 +36,7 @@ Pub. L. 116–283, div. A, title XVII, §1744, Jan. 1, 2021, 134 Stat. 4135, pro
 
 "(a)
 
-Requirement.—Not later than December 31, 2023, the Secretary of Homeland Security, in coordination with the Director of National Intelligence, the Attorney General, and the Secretary of Defense, shall conduct an exercise, which may be a tabletop exercise, totest the resilience, response, and recovery of the United States to a significant cyber incident impacting critical infrastructure. The Secretary shall convene similar exercises not fewer than three times, in consultation with such officials, until 2033.
+Requirement.—Not later than December 31, 2023, the Secretary of Homeland Security, in coordination with the Director of National Intelligence, the Attorney General, and the Secretary of Defense, shall conduct an exercise, which may be a tabletop exercise, to test the resilience, response, and recovery of the United States to a significant cyber incident impacting critical infrastructure. The Secretary shall convene similar exercises not fewer than three times, in consultation with such officials, until 2033.
 
 "(b)
 

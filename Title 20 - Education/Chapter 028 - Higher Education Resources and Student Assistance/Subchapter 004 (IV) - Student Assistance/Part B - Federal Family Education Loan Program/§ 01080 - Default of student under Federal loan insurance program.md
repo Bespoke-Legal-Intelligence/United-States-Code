@@ -30,7 +30,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 &emsp;The Secretary shall establish a cohort default rate for lenders, holders, and guaranty agencies (determined consistent with section 1085(m) of this title), except that the rate for lenders, holders, and guaranty agencies shall not reflect any loans issued in accordance with section 1078(j) of this title. The Secretary shall allow institutions, lenders, holders, and guaranty agencies the opportunity to correct such cohort default rate information.
 
-(Pub. L. 89–329, title IV, §430, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1397; amended Pub. L. 102–325, title IV, §423, July 23, 1992, 106 Stat. 543; Pub. L. 105–244, title IV, §426, Oct. 7, 1998, 112 Stat. 1702.)
+(Pub. L. 89–329, title IV, §430, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1397; amended Pub. L. 102–325, title IV, §423, July 23, 1992, 106 Stat. 543; Pub. L. 105–244, title IV, §426, Oct. 7, 1998, 112 Stat. 1702.)
 
 #### <b>Editorial Notes</b>
 

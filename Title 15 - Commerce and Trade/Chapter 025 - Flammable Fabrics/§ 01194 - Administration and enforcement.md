@@ -2,7 +2,7 @@
 
 #### (a) Enforcement under Federal Trade Commission Act provisions; civil action to enforce standard or regulation
 
-Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of thistitle shall be enforced by the Commission under rules, regulations and procedures provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
+Except as otherwise specifically provided herein, sections 1192, 1194, 1195, and 1197(b) of this title shall be enforced by the Commission under rules, regulations and procedures provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.
 
 #### (b) Application of Federal Trade Commission Act provisions
 
@@ -24,7 +24,7 @@ The Commission is authorized to—
 
 (1) Any person who knowingly violates a regulation or standard under section 1193 of this title shall be subject to a civil penalty not to exceed $100,000 for each such violation, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
 
-(2) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the severity of the risk of injury, the occurrence or absence of injury, the appropriateness of such penalty in relation to the size of the business of the person charged, and such other factors as appropriate.
+(2) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of thistitle, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the severity of the risk of injury, the occurrence or absence of injury, the appropriateness of such penalty in relation to the size of the business of the person charged, and such other factors as appropriate.
 
 (3) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the appropriateness of such penalty to the size of the business of the persons charged, the severity of the risk of injury, and <sup>1</sup> the occurrence or absence of injury, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
@@ -52,7 +52,7 @@ The Commission is authorized to—
 
 &emsp;&emsp;(I) the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
 
-&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on whichthe maximum authorized penalty was last adjusted.
+&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
 
 (June 30, 1953, ch. 164, §5, 67 Stat. 112; Pub. L. 90–189, §4, Dec. 14, 1967, 81 Stat. 570; Pub. L. 101–608, title I, §§115(c), 118(b), Nov. 16, 1990, 104 Stat. 3120, 3122; Pub. L. 110–314, title II, §217(a)(3), (b)(1)(C), Aug. 14, 2008, 122 Stat. 3058, 3059.)
 
@@ -90,7 +90,7 @@ Subsec. (d)(2). Pub. L. 90–189, §4(b), substituted "or territory or with the 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–314, title II, §217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: "The amendments made by this subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under section 2069 of this title\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."
+Pub. L. 110–314, title II, §217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: "The amendments made bythis subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under section 2069 of this title\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### Transfer of Functions
 

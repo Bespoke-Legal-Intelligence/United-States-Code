@@ -4,7 +4,13 @@
 | :--- | ---: |
 | [131\.](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md) | Office of the Secretary of Defense. |
 | [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
-| \[132a, 133. Repealed.\] |  |
+| [132a.](%C2%A7%2000132a%20-%20Performance%20improvement%20officer%201.md) | Performance improvement officer.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| \[133. | Repealed.\] |
 | [133a.](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md) | Under Secretary of Defense for Research and Engineering. |
 | [133b.](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md) | Under Secretary of Defense for Acquisition and Sustainment. |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
@@ -39,6 +45,8 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. A, title IX, §902(a), Dec. 23, 2024, 138 Stat. 2025, added item 132a. Amendment was made pursuant to operation of section 102 of this title.
+
 <b>2023</b>—Pub. L. 118–31, div. A, title II, §241(a), title IX, §903(a), Dec. 22, 2023, 137 Stat. 205, 358, added items 148 and 149. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title IX, §902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 "Office of Local Defense Community Cooperation".
@@ -63,7 +71,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
-<b>2011</b>—Pub. L. 111–383, div. A, title IX, §901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items133a "Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics", 134a "Principal Deputy Under Secretary of Defense for Policy", 136a "Principal Deputy Under Secretary of Defense for Personnel and Readiness", 137a "Deputy Under Secretaries of Defense", 139a "Director of Defense Research and Engineering", 139b "Director of Operational Energy Plans and Programs", 139c "Director of Cost Assessment and Program Evaluation", 139d "Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance", and 142 "Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs".
+<b>2011</b>—Pub. L. 111–383, div. A, title IX, §901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items 133a "Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics", 134a "Principal Deputy Under Secretary of Defense for Policy", 136a "Principal Deputy Under Secretary of Defense for Personnel and Readiness", 137a "Deputy Under Secretaries of Defense", 139a "Director of Defense Research and Engineering", 139b "Director of Operational Energy Plans and Programs", 139c "Director of Cost Assessment and Program Evaluation", 139d "Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance", and 142 "Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs".
 
 <b>2009</b>—Pub. L. 111–84, div. A, title IX, §§905(a)(2), 906(c)(3), Oct. 28, 2009, 123 Stat. 2425, 2427, added items 133a, 134a, 136a, 137a, and 138a and struck out former items 133a "Deputy Under Secretary of Defense for Acquisition and Technology", 134a "Deputy Under Secretary of Defense for Policy", 134b "Deputy Under Secretary of Defense for Technology Security Policy", and 136a "Deputy Under Secretary of Defense for Personnel and Readiness".
 
@@ -89,7 +97,7 @@ Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IX, §903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted "Under Secretary of Defense (Comptroller)" for "Comptroller" in item 135.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title IX, §906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting "and Technology" after "Acquisition" in items 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
+<b>1993</b>—Pub. L. 103–160, div. A, title IX, §906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally,inserting "and Technology" after "Acquisition" in items 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
 
 <b>1991</b>—Pub. L. 102–190, div. A, title IX, §901(a)(2), Dec. 5, 1991, 105 Stat. 1450, added item 134a.
 
@@ -141,6 +149,8 @@ Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342,
 
 Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(l)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized as "Performance Improvement Officer".</i>
+
 
 ---
 
@@ -148,7 +158,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 
 - [&sect; 00131 - Office of the Secretary of Defense](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md)
 - [&sect; 00132 - Deputy Secretary of Defense](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md)
-- [&sect; 00132a - Repealed. Pub. L. 116&#8211;283, div. A, title IX, &sect;901(a)(1), Jan. 1, 2021, 134 Stat. 3794](%C2%A7%2000132a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%203794.md)
+- [&sect; 00132a - Performance improvement officer 1](%C2%A7%2000132a%20-%20Performance%20improvement%20officer%201.md)
 - [&sect; 00133 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;901(a)(1), Dec. 23, 2016, 130 Stat. 2339](%C2%A7%2000133%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202339.md)
 - [&sect; 00133a - Under Secretary of Defense for Research and Engineering](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md)
 - [&sect; 00133b - Under Secretary of Defense for Acquisition and Sustainment](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md)

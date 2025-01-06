@@ -4,7 +4,7 @@
 
 Members in a Space Force Active Status.—
 
-&emsp;(1) A member of the Space Force in a space force active status who is not on sustained duty, may, without the consent of the member, be ordered to active duty or inactive duty in the same manner as a member of a reserve component ordered to active duty or inactive duty under the provisions of chapter 1209 of this title and any other provision of law authorizing the order to active duty of a member of a reserve component in an active status without the consent of the member.
+&emsp;(1) A member of the Space Force in a space force active status who is not on sustained duty, may, without the consent of the member, be ordered to active duty or inactive duty in the same manner as a member of a reservecomponent ordered to active duty or inactive duty under the provisions of chapter 1209 of this title and any other provision of law authorizing the order to active duty of a member of a reserve component in an active status without the consent of the member.
 
 &emsp;(2) The provisions of chapter 1209 of this title, or other applicable provisions of law, pertaining to a member of the Ready Reserve when ordered to active duty shall apply to a member of the Space Force who is in a space force active status when ordered to active duty under paragraph (1).
 
@@ -28,7 +28,7 @@ Members in a Space Force Inactive Status.—
 
 Members in a Space Force Retired Status.—
 
-&emsp;(1) Chapters 39 and 1209 of this title include provisions authorizing the order to active dutyof a member of the Space Force in a space force retired status.
+&emsp;(1) Chapters 39 and 1209 of this title include provisions authorizing the order to active duty of a member of the Space Force in a space force retired status.
 
 &emsp;(2) The provisions of sections 688, 688a, and 12407 of this title pertaining to a retired member or a member of the Retired Reserve shall apply to a member of the Space Force in a space force retired status when ordered to active duty.
 
@@ -36,7 +36,7 @@ Members in a Space Force Retired Status.—
 
 (d)
 
-Other Applicable Provisions.—The following provisions of chapter 1209 of this title pertaining <sup>1</sup> shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
+Other Applicable Provisions.—The following provisions of chapter 1209 of this title shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
 
 &emsp;(1) Section 12305, relating to the authority of the President to suspend certain laws relating to promotion, retirement, and separation.
 
@@ -54,7 +54,11 @@ Other Applicable Provisions.—The following provisions of chapter 1209 of this 
 
 &emsp;(8) Section 12320, relating to grade in which ordered to active duty.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1715, Dec. 22, 2023, 137 Stat. 629.)
+(Added Pub. L. 118–31, div. A, title XVII, §1715, Dec. 22, 2023, 137 Stat. 629; amended Pub. L. 118–159, div. A, title V, §521(m), Dec. 23, 2024, 138 Stat. 1882.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (d). Pub. L. 118–159 struck out "pertaining" before "shall apply" in introductory provisions.
 

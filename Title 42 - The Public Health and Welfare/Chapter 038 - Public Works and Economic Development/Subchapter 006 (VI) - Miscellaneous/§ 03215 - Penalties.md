@@ -22,7 +22,7 @@ A person that is connected in any capacity with the Secretary in the administrat
 
 &emsp;&emsp;(A) makes any false entry in any book, report, or statement of or to the Secretary; or
 
-&emsp;&emsp;(B) without being duly authorized, draws any order or issue, puts forth, or assigns any note, debenture, bond, or other obligation, or draft, bill of exchange, mortgage, judgment, or decree thereof;
+&emsp;&emsp;(B) without being duly authorized, draws any order or issue, puts forth, or assigns any note, debenture, bond, or other obligation,or draft, bill of exchange, mortgage, judgment, or decree thereof;
 
 &emsp;(3) with intent to defraud, participates or shares in or receives directly or indirectly any money, profit, property, or benefit through any transaction, loan, grant, commission, contract, or any other act of the Secretary; or
 

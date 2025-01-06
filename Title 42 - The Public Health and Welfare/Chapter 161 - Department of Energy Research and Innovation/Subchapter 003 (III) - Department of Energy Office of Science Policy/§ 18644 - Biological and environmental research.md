@@ -146,7 +146,7 @@ The Director shall not approve new climate science-related initiatives without m
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Administrator of the National Aeronautics andSpace Administration, shall carry out a basic research program on the similarities and differences between the effects of exposure to low-dose radiation on Earth, in low Earth orbit, and in the space environment.
+&emsp;The Secretary, in consultation with the Administrator of the National Aeronautics and Space Administration, shall carry out a basic research program on the similarities and differences between the effects of exposure to low-dose radiation on Earth, in low Earth orbit, and in the space environment.
 
 #### (2) Purpose
 
@@ -206,7 +206,7 @@ The Director shall not approve new climate science-related initiatives without m
 
 #### (4) Climate and Earth modeling
 
-&emsp;As part of the activities described in paragraph (1), the Director, in collaboration with the Advanced Scientific Computing Researchprogram described in section 18642 of this title and other programs carried out by the Department, as applicable, and in coordination with the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautics and Space Administration, and other relevant agencies, shall carry out research to develop, evaluate, and use high-resolution regional climate, global climate, Earth system, and other relevant models to inform decisions on reducing greenhouse gas emissions and the resulting impacts of a changing global climate. Such modeling shall include—
+&emsp;As part of the activities described in paragraph (1), the Director, in collaboration with the Advanced Scientific Computing Research program described in section 18642 of this title and other programs carried out by the Department, as applicable, and in coordination with the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautics and Space Administration, and other relevant agencies, shall carry out research to develop, evaluate, and use high-resolution regional climate, global climate, Earth system, and other relevant models to inform decisions on reducing greenhouse gas emissions and the resulting impacts of a changing global climate. Such modeling shall include—
 
 &emsp;&emsp;(A) integrated capabilities for modeling multisectoral interactions, including the impacts of climate policies on human systems and the interdependencies and risks at the energy-water-land nexus;
 
@@ -276,7 +276,7 @@ The Director shall not approve new climate science-related initiatives without m
 
 &emsp;&emsp;To support the Atmospheric Systems and Sciences Research Program and, in coordination, and as appropriate, in collaboration, with the National Oceanic and Atmospheric Administration and other relevant Federal agencies, to improve fundamental understanding of the physical and chemical processes that impact the formation, life cycle, and radiative impacts of cloud and aerosol particles, atmospheric processes, and surface or subsurface phenomena, the Director shall use the facilities and infrastructure of the Atmospheric Radiation Measurement User Facility, the Global Monitoring Laboratory of the National Oceanic and Atmospheric Administration, or other Earth and Environmental Systems Sciences User Facilities—
 
-&emsp;&emsp;&emsp;(i) to provide support to environmental scientists by collecting high-quality andwell-characterized in-situ, remote-sensing, and aircraft observations of—
+&emsp;&emsp;&emsp;(i) to provide support to environmental scientists by collecting high-quality and well-characterized in-situ, remote-sensing, and aircraft observations of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the microphysical properties of clouds and atmospheric aerosols;
 
@@ -444,7 +444,7 @@ The Director shall not approve new climate science-related initiatives without m
 
 #### (2) Interagency coordination
 
-&emsp;The Secretary shall coordinate with the Director of the National Science Foundation, the Administrator of the National Oceanic and Atmospheric Administration, the Director of the U.S. Geological Survey, the Secretary of Agriculture, and other relevant officials to avoidduplication of research and observational activities and to ensure that activities carried out under the initiative established under paragraph (1) are complimentary to activities being undertaken by other agencies.
+&emsp;The Secretary shall coordinate with the Director of the National Science Foundation, the Administrator of the National Oceanic and Atmospheric Administration, the Director of the U.S. Geological Survey, the Secretary of Agriculture, and other relevant officials to avoid duplication of research and observational activities and to ensure that activities carried out under the initiative established under paragraph (1) are complimentary to activities being undertaken by other agencies.
 
 #### (3) Report
 
@@ -500,7 +500,7 @@ Subsec. (c)(5) to (8). Pub. L. 117–167, §10103(a)(1), prior to redesignation 
 
 Subsecs. (d), (e). Pub. L. 117–167, §10103(a)(2), redesignated subsecs. (b) and (c) as (d) and (e), respectively. Former subsec. (d) redesignated (f).
 
-Subsec. (e)(7)(E) to (G). Pub. L. 117–167, §10103(b), which directed amendment of subsec. (e)(8) by adding subpars. (E) to (G), was executed by making the addition to subsec. (e)(7) to reflect the probable intent of Congress and the successive redesignations of subsec. (c)(8) as (c)(7) and then (e)(7) by Pub. L. 117–167, §10103(a)(1), (2). See notes above.
+Subsec. (e)(7)(E) to (G). Pub. L. 117–167, §10103(b), which directed amendment of subsec. (e)(8) by addingsubpars. (E) to (G), was executed by making the addition to subsec. (e)(7) to reflect the probable intent of Congress and the successive redesignations of subsec. (c)(8) as (c)(7) and then (e)(7) by Pub. L. 117–167, §10103(a)(1), (2). See notes above.
 
 Subsec. (f). Pub. L. 117–167, §10103(a)(2), (c), redesignated subsec. (d) as (f) and amended it generally. Prior to amendment, text read as follows: "The Secretary of Energy, shall continue and strengthen collaboration with the Administrator of the National Aeronautics and Space Administration on basic research to understand the effects and risks of human exposure to ionizing radiation in low Earth orbit, and in the space environment."
 

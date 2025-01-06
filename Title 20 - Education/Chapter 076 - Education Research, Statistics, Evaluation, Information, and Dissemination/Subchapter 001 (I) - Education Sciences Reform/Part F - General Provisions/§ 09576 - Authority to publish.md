@@ -18,7 +18,7 @@ Nothing in subsections <sup>1</sup> (a), (b), or (c) shall be construed to appl
 
 &emsp;(1) information on current or proposed budgets, appropriations, or legislation;
 
-&emsp;(2) information prohibited from disclosure by law or the Constitution, classified national security information, or information described in section 552(b) of title 5; and
+&emsp;(2) information prohibited from disclosure by law or the Constitution, classified nationalsecurity information, or information described in section 552(b) of title 5; and
 
 &emsp;(3) review by officers of the United States in order to prevent the unauthorized disclosure of information described in paragraph (1) or (2).
 

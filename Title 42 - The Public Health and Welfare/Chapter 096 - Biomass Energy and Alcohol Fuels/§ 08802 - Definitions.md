@@ -88,7 +88,7 @@ As used in this chapter—
 
 &emsp;(18) The term "State" means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
-&emsp;(19) The term "small scale biomass energy project" means a biomass energy project withan anticipated annual production capacity of not more than 1,000,000 gallons of ethanol per year, or its energy equivalent of other forms of biomass energy.
+&emsp;(19) The term "small scale biomass energy project" means a biomass energy project with an anticipated annual production capacity of not more than 1,000,000 gallons of ethanol per year, or its energy equivalent of other forms of biomass energy.
 
 (Pub. L. 96–294, title II, §203, June 30, 1980, 94 Stat. 683.)
 

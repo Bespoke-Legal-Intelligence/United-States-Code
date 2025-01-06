@@ -46,7 +46,7 @@ The Director may make grants and enter into contracts and cooperative agreements
 
 The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entities and information appropriate for use by nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690,title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 114–255, div. B, title VI, §6007(b), Dec. 13, 2016, 130 Stat. 1212; Pub. L. 115–271, title VII, §7063(a), Oct. 24, 2018, 132 Stat. 4020.)
+(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 114–255, div. B, title VI, §6007(b), Dec. 13, 2016, 130 Stat. 1212; Pub. L. 115–271, title VII, §7063(a), Oct. 24, 2018, 132 Stat. 4020.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,7 +86,7 @@ Subsec. (b)(7). Pub. L. 114–255, §6007(b)(3)(B), (F), redesignated par. (6) a
 
 Subsec. (b)(8). Pub. L. 114–255, §6007(b)(3)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 114–255, §6007(b)(3)(B), (G), redesignated par. (8) as (9) and substituted "that reduce the risk of" for "to discourage" and inserted "and promote resiliency" before semicolon. Former par. (9) redesignated (10).
+Subsec. (b)(9). Pub. L. 114–255, §6007(b)(3)(B), (G), redesignated par. (8) as (9) and substituted "that reducethe risk of" for "to discourage" and inserted "and promote resiliency" before semicolon. Former par. (9) redesignated (10).
 
 Subsec. (b)(10) to (12). Pub. L. 114–255, §6007(b)(3)(B), redesignated pars. (9) to (11) as (10) to (12), respectively.
 
@@ -138,7 +138,7 @@ Subsec. (b)(10). Pub. L. 100–690, §2051(b)(2) added par. (10).
 
 Subsec. (b)(11). Pub. L. 100–690, §2051(c), added par. (11).
 
-Subsec. (d). Pub. L. 100–690, §2051(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Of the amounts available under the secondsentence of section 300y(a) of this title to carry out this section and section 290aa–8 of this title, $20,000,000 shall be available to carry out section 290aa–8 of this title."
+Subsec. (d). Pub. L. 100–690, §2051(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Of the amounts available under the second sentence of section 300y(a) of this title to carry out this section and section 290aa–8 of this title, $20,000,000 shall be available to carry out section 290aa–8 of this title."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

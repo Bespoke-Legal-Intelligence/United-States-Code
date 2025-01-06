@@ -25,7 +25,7 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 #### (A) In general
 
-&emsp;&emsp;If in any taxable period a highway motor vehicle is sold, destroyed, or stolen beforethe first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was sold, destroyed, or stolen.
+&emsp;&emsp;If in any taxable period a highway motor vehicle is sold, destroyed, or stolen before the first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was sold, destroyed, or stolen.
 
 #### (B) Destroyed
 

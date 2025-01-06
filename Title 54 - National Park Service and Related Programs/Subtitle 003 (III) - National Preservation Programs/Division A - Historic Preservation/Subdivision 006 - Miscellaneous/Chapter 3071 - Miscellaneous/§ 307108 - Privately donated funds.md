@@ -22,7 +22,7 @@ In general.—In expending the funds, the Secretary shall give due consideration
 
 &emsp;(2)
 
-Funds available without regard to matching requirements.—Funds expended under this subsection shall be made available without regard to the matching requirements established by sections 302901 and 302902(b) of this title, but the recipient of the funds shall be permitted to utilize them to match any grants from the Historic Preservation Fund.
+Funds available without regard to matching requirements.—Funds expendedunder this subsection shall be made available without regard to the matching requirements established by sections 302901 and 302902(b) of this title, but the recipient of the funds shall be permitted to utilize them to match any grants from the Historic Preservation Fund.
 
 (c)
 

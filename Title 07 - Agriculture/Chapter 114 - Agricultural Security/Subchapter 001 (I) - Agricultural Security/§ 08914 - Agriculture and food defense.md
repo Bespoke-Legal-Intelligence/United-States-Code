@@ -176,7 +176,7 @@ In this section:
 
 #### (4) Collaboration with land-grant colleges and universities
 
-&emsp;The Secretary shall seek to establish cooperative agreements with land-grant colleges and universities (as defined in section 3103 of this title) that have the appropriate level of skill, experience, and competence with plant diseases or pests of concern.
+&emsp;The Secretary shall seek to establish cooperative agreements with land-grant colleges and universities (as defined in section 3103 of this title) that have the appropriate level of skill,experience, and competence with plant diseases or pests of concern.
 
 #### (5) Authorization of appropriations
 

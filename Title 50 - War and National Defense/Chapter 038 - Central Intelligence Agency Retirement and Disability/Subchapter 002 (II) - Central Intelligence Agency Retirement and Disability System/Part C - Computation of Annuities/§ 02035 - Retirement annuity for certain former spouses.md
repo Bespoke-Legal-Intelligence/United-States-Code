@@ -60,13 +60,13 @@ A former spouse is not entitled to an annuity under this section if—
 
 #### (d) Restoration of annuities
 
-Notwithstanding subsection (c)(4)(A), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse's entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B).
+Notwithstanding subsection (c)(4)(A), the deadline by which an application for a retirement annuity must be submitted shall not applyin cases in which a former spouse's entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B).
 
 #### (e) Savings provision
 
 Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
-(Pub. L. 88–643, title II, §225, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat.3218; amended Pub. L. 103–178, title II, §202(a)(7), Dec. 3, 1993, 107 Stat. 2026.)
+(Pub. L. 88–643, title II, §225, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3218; amended Pub. L. 103–178, title II, §202(a)(7), Dec. 3, 1993, 107 Stat. 2026.)
 
 #### <b>Editorial Notes</b>
 

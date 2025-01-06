@@ -2,7 +2,7 @@
 
 #### (a) Secretary of Commerce and Secretary of department in which Coast Guard is operating
 
-The Convention, this subchapter, and any regulation adopted under this subchapter, shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, and of any State agency, in the performance of such duties.
+The Convention, this subchapter, and any regulation adopted under this subchapter, shall be enforced by the Secretary and the Secretary ofthe department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, and of any State agency, in the performance of such duties.
 
 #### (b) Arrest, search and inspection, seizure; execution of warrants or other process
 
@@ -50,7 +50,7 @@ When requested by the appropriate authorities of Canada, officers or employees o
 
 (1) In cooperation with such other agencies as may be appropriate, the Secretary may conduct or cause to be conducted such law enforcement investigations as are deemed necessary to carry out the purposes of this subchapter.
 
-(2) For the purpose of all investigations which, in the opinion of the Secretary, are necessaryand proper for the enforcement of this subchapter, the Secretary or any officer designated by him is empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Secretary deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States at any designated place or hearing.
+(2) For the purpose of all investigations which, in the opinion of the Secretary, are necessary and proper for the enforcement of this subchapter, the Secretary or any officer designated by him is empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Secretary deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States at any designated place or hearing.
 
 (3) Process of the Secretary may be served by anyone duly authorized by him either—
 
@@ -66,5 +66,5 @@ When requested by the appropriate authorities of Canada, officers or employees o
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

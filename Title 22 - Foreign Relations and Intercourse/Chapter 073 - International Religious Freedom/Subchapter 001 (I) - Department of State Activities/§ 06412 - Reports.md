@@ -8,7 +8,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (1) Deadline for submission
 
-&emsp;On May 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
+&emsp;On May 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador atLarge, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
 
 #### (A) Status of religious freedom
 
@@ -24,7 +24,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(v) the identification of prisoners, to the extent possible, in that country pursuant to section 6417(d) of this title;
 
-&emsp;&emsp;&emsp;(vi) any action taken by the government of that country to censor religious content, communications, or worship activities online, including descriptions of thetargeted religious group, the content, communication, or activities censored, and the means used; and
+&emsp;&emsp;&emsp;(vi) any action taken by the government of that country to censor religious content, communications, or worship activities online, including descriptions of the targeted religious group, the content, communication, or activities censored, and the means used; and
 
 &emsp;&emsp;&emsp;(vii) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
 
@@ -62,7 +62,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (i) Countries in which the United States is actively promoting religious freedom
 
-&emsp;&emsp;&emsp;An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promote the internationally recognized right to freedom of religion and oppose violations of such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title shall be included in this section of the report. Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 6442a of this title is located shall be included in this section of the report.
+&emsp;&emsp;&emsp;An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promote the internationally recognized right to freedom of religion and oppose violationsof such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title shall be included in this section of the report. Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 6442a of this title is located shall be included in this section of the report.
 
 #### (ii) Countries of significant improvement in religious freedom
 

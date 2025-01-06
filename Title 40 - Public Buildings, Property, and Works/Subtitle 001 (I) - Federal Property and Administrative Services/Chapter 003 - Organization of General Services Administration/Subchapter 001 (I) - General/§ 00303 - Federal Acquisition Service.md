@@ -58,7 +58,7 @@ Bureau of Federal Supply.—
 
 &emsp;"(1)
 
-Transfer of functions.—Subject to paragraph (2), the functions of the Administrator of General Services include functions related to the Bureau of Federal Supply in the Department of the Treasury that, immediately before July 1, 1949, were functions of—
+Transfer of functions.—Subject to paragraph (2), the functions of the Administrator of General Services include functions related to the Bureau of Federal Supply in the Department of the Treasurythat, immediately before July 1, 1949, were functions of—
 
 &emsp;&emsp;"(A) the Bureau;
 
@@ -74,7 +74,7 @@ Functions not transferred.—The functions of the Administrator of General Servi
 
 "(b)
 
-Federal Works Agency and Commissioner of Public Buildings.—The functions of the Administrator of General Services include functions related to the Federal Works Agency and functions related to theCommissioner of Public Buildings that, immediately before July 1, 1949, were functions of—
+Federal Works Agency and Commissioner of Public Buildings.—The functions of the Administrator of General Services include functions related to the Federal Works Agency and functions related to the Commissioner of Public Buildings that, immediately before July 1, 1949, were functions of—
 
 &emsp;"(1) the Federal Works Agency;
 

@@ -20,7 +20,7 @@ For purposes of this section—
 
 (1) This subsection is enacted by Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of each House of Congress, respectively, and assuch it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of each House of Congress, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those rules relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 (B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same Presidential decision on an Alaska natural gas transportation system), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-(C) If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect to the same Presidential decision on an Alaska natural gas transportation system.
+(C) If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect tothe same Presidential decision on an Alaska natural gas transportation system.
 
 (5)(A) When any committee has reported, or has been discharged from further consideration of, a resolution, but in no case earlier than 30 days after the date of receipt of the President's decision to the Congress, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 

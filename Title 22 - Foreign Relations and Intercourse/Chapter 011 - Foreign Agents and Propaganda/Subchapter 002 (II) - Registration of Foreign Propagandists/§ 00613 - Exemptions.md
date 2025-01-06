@@ -8,7 +8,7 @@ A duly accredited diplomatic or consular officer of a foreign government who is 
 
 #### (b) Officials of foreign government
 
-Any official of a foreign government, if such government is recognized by the United States,who is not a public-relations counsel, publicity agent, information-service employee, or a citizen of the United States, whose name and status and the character of whose duties as such official are of public record in the Department of State, while said official is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official;
+Any official of a foreign government, if such government is recognized by the United States, who is not a public-relations counsel, publicity agent, information-service employee, or a citizen of the United States, whose name and status and the character of whose duties as such official are of public record in the Department of State, while said official is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official;
 
 #### (c) Staff members of diplomatic or consular officers
 
@@ -28,7 +28,7 @@ Any person, or employee of such person, whose foreign principal is a government 
 
 #### (g) Persons qualified to practice law
 
-Any person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principal before any court of law or any agency of the Government of the United States: <i>Provided</i>, That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
+Any person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principalbefore any court of law or any agency of the Government of the United States: <i>Provided</i>, That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
 
 #### (h) Agents of foreign principals
 

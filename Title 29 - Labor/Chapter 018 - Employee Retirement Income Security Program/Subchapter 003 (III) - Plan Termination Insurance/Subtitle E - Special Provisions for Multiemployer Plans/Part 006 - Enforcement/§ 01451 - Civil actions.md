@@ -12,7 +12,7 @@ In any action under this section to compel an employer to pay withdrawal liabili
 
 #### (c) Jurisdiction of Federal and State courts
 
-The district courts of the United States shall have exclusive jurisdiction of an action underthis section without regard to the amount in controversy, except that State courts of competent jurisdiction shall have concurrent jurisdiction over an action brought by a plan fiduciary to collect withdrawal liability.
+The district courts of the United States shall have exclusive jurisdiction of an action under this section without regard to the amount in controversy, except that State courts of competent jurisdiction shall have concurrent jurisdiction over an action brought by a plan fiduciary to collect withdrawal liability.
 
 #### (d) Venue and service of process
 

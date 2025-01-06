@@ -26,7 +26,7 @@ In general.—In carrying out the program, the Secretary shall prescribe procedu
 
 &emsp;(2)
 
-Contents.—The Secretary shall approve a State plan if the Secretary determines thatthe plan is adequate to comply with the requirements of this section, and the plan—
+Contents.—The Secretary shall approve a State plan if the Secretary determines that the plan is adequate to comply with the requirements of this section, and the plan—
 
 &emsp;&emsp;(A) implements performance-based activities, including deployment and maintenance of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
@@ -54,7 +54,7 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;(M) ensures that information is exchanged among the States in a timely manner;
 
-&emsp;&emsp;(N) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
+&emsp;&emsp;(N) provides satisfactory assurances that the State will undertake efforts that willemphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
 
 &emsp;&emsp;(O) provides satisfactory assurances that the State will address national priorities and performance goals, including—
 
@@ -108,7 +108,7 @@ Publication.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), the Secretary shall publish each approved State multiple-year plan, and each annual update thereto, on a publically accessible Internet Web site of the Department of Transportation not later than 30 days after the date the Secretary approves the plan or update.
+In general.—Subject to subparagraph (B), the Secretary shall publish each approved State multiple-year plan, and eachannual update thereto, on a publically accessible Internet Web site of the Department of Transportation not later than 30 days after the date the Secretary approves the plan or update.
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Evaluation of Plans and Award of Grants.—
 
 &emsp;(1)
 
-Awards.—The Secretary shall establish criteria for the application, evaluation, and approval of State plans under this section. Subject to subsection (j), the Secretary may allocate the amounts made available under section 31104(a)(1) among the States.
+Awards.—The Secretary shall establish criteria for the application, evaluation, and approval of State plans under this section.Subject to subsection (j), the Secretary may allocate the amounts made available under section 31104(a)(1) among the States.
 
 &emsp;(2)
 
@@ -272,7 +272,7 @@ Activities related to motor carrier safety.—The Secretary may make discretiona
 
 &emsp;&emsp;&emsp;(i) that complete or exceed the requirements under subsection (c)(2)(P) for entities not responsible for submitting the plan under subsection (c); or
 
-&emsp;&emsp;&emsp;(ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c);
+&emsp;&emsp;&emsp;(ii) that exceed the requirements under subsection (c)(2)(P) for entities responsiblefor submitting the plan under subsection (c);
 
 &emsp;&emsp;(H) support, through the use of funds otherwise available for such purposes—
 
@@ -366,7 +366,7 @@ Establishment.—The Secretary shall establish an immobilization grant program u
 
 &emsp;&emsp;(C)
 
-List of criteria for immobilization.—The Secretary, in consultation with State commercial motor vehicle entities, shall develop a list of commercial motor vehicle safety violations and defects that the Secretary determines warrant the immediate immobilization of a passenger-carrying commercial motor vehicle.
+List of criteria for immobilization.—The Secretary, in consultation with State commercial motor vehicle entities, shall develop a list of commercial motor vehiclesafety violations and defects that the Secretary determines warrant the immediate immobilization of a passenger-carrying commercial motor vehicle.
 
 &emsp;&emsp;(D)
 
@@ -796,7 +796,7 @@ Beginning With New Allocation Formation.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraphs (2) and (3)(B), beginning on the date that a new allocation formula for the motor carrier safety assistance program is established under this subtitle, upon the request of a State, the Secretary may waive or modify the baseline maintenance of effort required of the State by section 31102(f) of title 49, United States Code, as amended by this subtitle, for the purpose of establishing a new baseline maintenance of effort if the Secretary determines that a waiver or modification—
+In general.—Subject to paragraphs (2) and (3)(B), beginning on the date that a new allocation formula for the motor carrier safety assistance program is established under this subtitle, upon the request of a State, the Secretary may waive or modifythe baseline maintenance of effort required of the State by section 31102(f) of title 49, United States Code, as amended by this subtitle, for the purpose of establishing a new baseline maintenance of effort if the Secretary determines that a waiver or modification—
 
 &emsp;&emsp;"(A) is equitable due to reasonable circumstances;
 

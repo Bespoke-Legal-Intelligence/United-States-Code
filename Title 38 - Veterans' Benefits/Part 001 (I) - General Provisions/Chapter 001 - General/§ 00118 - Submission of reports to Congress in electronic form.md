@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Whenever the Secretary or any other official of the Department is required by law to submit to Congress (or any committee of either chamber of Congress) a report, the Secretary or other official shall submit to Congress (or such committee) a copy of the report in an electronic format.
+In General.—Whenever the Secretary or any other official of the Department is requiredby law to submit to Congress (or any committee of either chamber of Congress) a report, the Secretary or other official shall submit to Congress (or such committee) a copy of the report in an electronic format.
 
 (b)
 

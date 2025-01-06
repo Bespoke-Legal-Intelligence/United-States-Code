@@ -24,7 +24,7 @@ Based on title 18, U.S.C., 1940 ed., §253 (May 18, 1934, ch. 299, §1, 48 Stat.
 
 The section was extended to include United States judges, attorneys and their assistants, and officers of Federal, penal and correctional institutions in view of the obvious desirability of such protective legislation.
 
-Employees of the Bureau of Animal Industry have been included in this section to complete the revision of section 118 of title 18, U.S.C., 1940 ed., which was consolidated with the assault provisions of section 254 of said title 18 and is now section 111 of this title. There seemed no sound reason for including such officers in the protection against assaults but excluding them from the homicide sections.
+Employees of the Bureau of Animal Industry have been included in this section to complete the revisionof section 118 of title 18, U.S.C., 1940 ed., which was consolidated with the assault provisions of section 254 of said title 18 and is now section 111 of this title. There seemed no sound reason for including such officers in the protection against assaults but excluding them from the homicide sections.
 
 For like reasons the section was broadened to include officers or employees of the Secret Service or of the Bureau of Narcotics.
 

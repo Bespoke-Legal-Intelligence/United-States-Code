@@ -96,7 +96,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the assessment of the intelligence community of the counterintelligence threats or other risks to the United States posed by foreign commercial spyware;
 
-&emsp;&emsp;&emsp;(ii) the assessment of the intelligence community of whether the foreign commercial spyware has been used to target United States Government personnel.<sup>1</sup>
+&emsp;&emsp;&emsp;(ii) the assessment of the intelligence community of whether the foreign commercial spyware has been used to target United States Government personnel;
 
 &emsp;&emsp;&emsp;(iii) whether the original owner or developer retains any of the physical property or intellectual property associated with the foreign commercial spyware;
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (A) Authority
 
-&emsp;&emsp;The Director of National Intelligence may prohibit any element of the intelligence community from entering into any contract or other agreement for any purpose with a company that has acquired, in whole or in part, any foreign commercial spyware.
+&emsp;&emsp;The Director of National Intelligence may prohibit any element of the intelligencecommunity from entering into any contract or other agreement for any purpose with a company that has acquired, in whole or in part, any foreign commercial spyware.
 
 #### (B) Considerations
 
@@ -172,11 +172,13 @@ In this section:
 
 &emsp;The Director of National Intelligence may terminate a prohibition made under paragraph (1) or (2) at any time. Upon termination of a prohibition, the Director of National Intelligence shall submit a notification of the termination to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives not later than 30 days after terminating a prohibition, detailing the basis for the termination, including any United States national security interests that may be affected by such termination.
 
-(July 26, 1947, ch. 343, title XI, §1102A, as added Pub. L. 117–263, div. F, title LXIII, §6318(c), Dec. 23, 2022, 136 Stat. 3515; amended Pub. L. 118–31, div. G, title IX, §7901(a)(4), Dec. 22, 2023, 137 Stat. 1106.)
+(July 26, 1947, ch. 343, title XI, §1102A, as added Pub. L. 117–263, div. F, title LXIII, §6318(c), Dec. 23, 2022, 136 Stat. 3515; amended Pub. L. 118–31, div. G, title IX, §7901(a)(4), Dec. 22, 2023, 137 Stat. 1106; Pub. L. 118–159, div. F, title LXIX, §6902(a)(3), Dec. 23, 2024, 138 Stat. 2517.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1)(B)(ii). Pub. L. 118–159 substituted semicolon for period at end.
 
 <b>2023</b>—Subsec. (b)(3). Pub. L. 118–31, §7901(a)(4)(A), substituted "paragraph (1)" for "subsection (2)".
 
@@ -260,7 +262,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Technology is central to the future of our national security, economy, and democracy. The United States has fundamental national security and foreign policy interests in (1) ensuring that technology is developed, deployed, and governed in accordance with universal human rights; the rule of law; and appropriate legal authorization, safeguards, and oversight, such that it supports, and does not undermine, democracy, civil rights and civil liberties, and public safety; and (2) mitigating, to the greatest extent possible, the risk emerging technologies may pose to United States Government institutions, personnel, information, and information systems.
 
-To advance these interests, the United States supports the development of an international technology ecosystem that protects the integrity of international standards development; enables and promotes the free flow of data and ideas with trust; protects our security, privacy, and human rights; and enhances our economic competitiveness. The growing exploitation of Americans' sensitive data and improper use of surveillance technology, including commercial spyware, threatens the development of this ecosystem. Foreign governments and persons have deployed commercial spyware against United States Government institutions, personnel, information, and information systems, presenting significant counterintelligence and security risks to the United States Government. Foreign governments and persons have also used commercial spyware for improper purposes, such as to target and intimidate perceived opponents; curb dissent; limit freedoms of expression, peaceful assembly, or association; enable other human rights abuses or suppression of civil liberties; and track or target United States persons without proper legal authorization, safeguards, or oversight.
+To advance these interests, the United States supports the development of an international technologyecosystem that protects the integrity of international standards development; enables and promotes the free flow of data and ideas with trust; protects our security, privacy, and human rights; and enhances our economic competitiveness. The growing exploitation of Americans' sensitive data and improper use of surveillance technology, including commercial spyware, threatens the development of this ecosystem. Foreign governments and persons have deployed commercial spyware against United States Government institutions, personnel, information, and information systems, presenting significant counterintelligence and security risks to the United States Government. Foreign governments and persons have also used commercial spyware for improper purposes, such as to target and intimidate perceived opponents; curb dissent; limit freedoms of expression, peaceful assembly, or association; enable other human rights abuses or suppression of civil liberties; and track or target United States persons without proper legal authorization, safeguards, or oversight.
 
 The United States has a fundamental national security and foreign policy interest in countering and preventing the proliferation of commercial spyware that has been or risks being misused for such purposes, in light of the core interests of the United States in protecting United States Government personnel and United States citizens around the world; upholding and advancing democracy; promoting respect for human rights; and defending activists, dissidents, and journalists against threats to their freedom and dignity. To advance these interests and promote responsible use of commercial spyware, the United States must establish robust protections and procedures to ensure that any United States Government use of commercial spyware helps protect its information systems and intelligence and law enforcement activities against significant counterintelligence or security risks; aligns with its core interests in promoting democracy and democratic values around the world; and ensures that the United States Government does not contribute, directly or indirectly, to the proliferation of commercial spyware that has been misused by foreign governments or facilitate such misuse.
 
@@ -326,7 +328,7 @@ Sec. 3. <i>Application to Procurement</i>. An agency seeking to procure commerci
 
 (d) consider whether any entity furnishing the commercial spyware being considered for procurement has implemented reasonable due diligence procedures and standards—such as the industry-wide norms reflected in relevant Department of State guidance on business and human rights and on transactions linked to foreign government end-users for products or services with surveillance capabilities—and controls that would enable the entity to identify and prevent uses of the commercial spyware that pose significant counterintelligence or security risks to the United States Government or significant risks of improper use by a foreign government or foreign person.
 
-Sec. 4. <i>Reporting Requirements</i>. (a) The head of each agency that has procured commercial spyware, upon completing the review described in section 2(h) of this order, shall submit to the APNSA a report describing the review's findings. If the review identifies any existing operational use of commercial spyware, as defined in this order, the agency report shall include:
+Sec. 4. <i>Reporting Requirements</i>. (a) The head of each agency that has procured commercial spyware, uponcompleting the review described in section 2(h) of this order, shall submit to the APNSA a report describing the review's findings. If the review identifies any existing operational use of commercial spyware, as defined in this order, the agency report shall include:
 
 (i) a description of such existing operational use;
 
@@ -405,6 +407,4 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

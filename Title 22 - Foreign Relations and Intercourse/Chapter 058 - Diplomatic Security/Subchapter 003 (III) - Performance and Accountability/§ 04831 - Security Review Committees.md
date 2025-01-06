@@ -28,7 +28,7 @@
 
 &emsp;&emsp;The Secretary of State is not required to convene a Security Review Committee—
 
-&emsp;&emsp;&emsp;(i) if the Secretary determines that the incident involves only causes unrelated to security, such as when the security at issue is outside of the scope of the Secretary of State's security responsibilities under section 4802 of this title;
+&emsp;&emsp;&emsp;(i) if the Secretary determines that the incident involves only causes unrelated tosecurity, such as when the security at issue is outside of the scope of the Secretary of State's security responsibilities under section 4802 of this title;
 
 &emsp;&emsp;&emsp;(ii) if operational control of overseas security functions has been delegated to another agency in accordance with section 4805 of this title;
 
@@ -38,7 +38,7 @@
 
 #### (B) Department of Defense investigations
 
-&emsp;&emsp;In the case of an incident described in subparagraph (A)(iv), the Secretary of Defense shall conduct an appropriate inquiry. TheSecretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
+&emsp;&emsp;In the case of an incident described in subparagraph (A)(iv), the Secretary of Defense shall conduct an appropriate inquiry. The Secretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
 
 #### (4) Facilities in Afghanistan, Yemen, Syria, and Iraq
 
@@ -150,9 +150,11 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Security Review Committees for Certain Facilities
 
-Pub. L. 117–263, div. I, title XCVIII, §9802(e), Dec. 23, 2022, 136 Stat. 3924, provided that: "The authority provided under section 301(a)(3) \[now 301(a)(4)\] of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3) \[now 22 U.S.C. 4831(a)(4)\]) shall remain in effect for facilities in Afghanistan and shall apply to facilities in Ukraine through September 30, 2024, except that the notification and reporting requirements contained in such section shall include the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives."
+Pub. L. 118–159, div. G, title LXXVIII, §7812(d), Dec. 23, 2024, 138 Stat. 2565, provided that: "The authority provided under section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3) \[now 22 U.S.C. 4831(a)(4)\]) shall remain in effect for facilities in Afghanistan and shall apply to facilities in Ukraine through September 30, 2026, except that the notification and reporting requirements contained in such section shall include the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–263, div. I, title XCVIII, §9802(e), Dec. 23, 2022, 136 Stat. 3924.
 
 Pub. L. 117–103, div. K, title VII, §7034(l)(8), Mar. 15, 2022, 136 Stat. 624.
 

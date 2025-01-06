@@ -180,7 +180,7 @@ Short Title.—This title may be cited as the 'Fairly Assessing Service-related 
 
 "(b)
 
-Definitions.—In this title, the terms 'active military, naval, air, or space service', 'toxic exposure', and 'toxic-exposed veteran' have the meanings given those terms in section 101 of title 38, United States Code, as amended by section 102.
+Definitions.—In this title, the terms 'active military, naval, air, or space service', 'toxic exposure',and 'toxic-exposed veteran' have the meanings given those terms in section 101 of title 38, United States Code, as amended by section 102.
 
 #### "SEC. 602. PUBLICATION OF LIST OF RESOURCES OF DEPARTMENT OF VETERANS AFFAIRS FOR TOXIC-EXPOSED VETERANS AND VETERANS WHO REPORT TOXIC EXPOSURES AND OUTREACH PROGRAM FOR SUCH VETERANS AND CAREGIVERS AND SURVIVORS OF SUCH VETERANS.
 

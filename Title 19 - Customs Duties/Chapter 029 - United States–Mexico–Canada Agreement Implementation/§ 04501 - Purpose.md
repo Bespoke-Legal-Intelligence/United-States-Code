@@ -1,6 +1,6 @@
 ### §4501. Purpose
 
-The purpose of this Act is to approve and implement the Agreement between the UnitedStates of America, the United Mexican States, and Canada entered into under the authority of section 4202(b) of this title.
+The purpose of this Act is to approve and implement the Agreement between the United States of America, the United Mexican States, and Canada entered into under the authority of section 4202(b) of this title.
 
 (Pub. L. 116–113, §2, Jan. 29, 2020, 134 Stat. 13.)
 

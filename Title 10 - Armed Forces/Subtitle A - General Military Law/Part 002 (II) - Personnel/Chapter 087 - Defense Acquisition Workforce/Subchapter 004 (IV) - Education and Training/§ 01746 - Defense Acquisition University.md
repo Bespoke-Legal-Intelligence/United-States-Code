@@ -40,13 +40,19 @@ President Appointment.—(1) The Under Secretary of Defense for Acquisition and 
 
 &emsp;(C) Other qualifying factors, including experience with and an understanding of the defense acquisition system (as defined in section 3001 of this title), an understanding of emerging technologies and the defense applications of such technologies, experience partnering with States, national associations, and academia, and experience with learning technologies.
 
-(3) The term of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the term for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2022.
+(3) The term of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the term for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025, who shall serve a maximum term of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such term.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–383, div. A, title VIII, §877(c)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4306; Pub. L. 114–328, div. A, title II, §214(b), Dec. 23, 2016, 130 Stat. 2048; Pub. L. 116–92, div. A, title VIII, §861(c), title IX, §902(23), Dec. 20, 2019, 133 Stat. 1516, 1545; Pub. L. 116–283, div. A, title X, §1081(a)(32), title XVIII, §1841(e)(1), Jan. 1, 2021, 134 Stat. 3872, 4244; Pub. L. 117–263, div. A, title VIII, §832(a), Dec. 23, 2022, 136 Stat. 2712.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–383, div. A, title VIII, §877(c)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4306; Pub. L. 114–328, div. A, title II, §214(b), Dec. 23, 2016, 130 Stat. 2048; Pub. L. 116–92, div. A, title VIII, §861(c), title IX, §902(23), Dec. 20, 2019, 133 Stat. 1516, 1545; Pub. L. 116–283, div. A, title X, §1081(a)(32), title XVIII, §1841(e)(1), Jan. 1, 2021, 134 Stat. 3872, 4244; Pub. L. 117–263, div. A, title VIII, §832(a), Dec. 23, 2022, 136 Stat. 2712; Pub. L. 118–159, div. A, title VIII, §831, Dec. 23, 2024, 138 Stat. 1984.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(3). Pub. L. 118–159 substituted "The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025, who shall serve a maximum term of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such term." for "The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2022."
 
 <b>2022</b>—Subsec. (b)(2). Pub. L. 117–263, §832(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The professors, instructors, and lecturers employed under paragraph (1) shall include individuals from civilian colleges or universities that are not owned or operated by the Federal Government, commercial learning and development organizations, industry, or federally funded research and development centers."
 
@@ -94,7 +100,7 @@ Pub. L. 101–510, div. A, title XII, §1209(h)(1), Nov. 5, 1990, 104 Stat. 1667
 
 #### Implementation Report
 
-Pub. L. 117–263, div. A, title VIII, §832(b), Dec. 23, 2022, 136 Stat. 2712, provided that: "Not later than March 1, 2023, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to modify the defense acquisition university structure to comply with section 1746(b)(2) of title 10, United States Code, as amended by subsection (a). Such plan shall establish a date of not later than March 1, 2026, for such modification to be completed."
+Pub. L. 117–263, div. A, title VIII, §832(b), Dec. 23, 2022, 136 Stat. 2712, provided that: "Not later than March 1, 2023, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to modify the defense acquisition university structure to comply with section 1746(b)(2) of title 10, United States Code, as amended by subsection (a). Such plan shall establish a date of notlater than March 1, 2026, for such modification to be completed."
 
 #### Curricula on Software Acquisitions and Cybersecurity Software or Hardware Acquisitions for Covered Individuals
 

@@ -24,7 +24,7 @@
 
 #### (b) Use of statistical information on unrelated taxpayers
 
-In the case of an individual taxpayer, the Secretary shall have the burden of proof in any court proceeding with respect to any item of income which was reconstructed by the Secretary solely through the use of statistical information on unrelated taxpayers.
+In the case of an individual taxpayer, the Secretary shall have the burden of proof in anycourt proceeding with respect to any item of income which was reconstructed by the Secretary solely through the use of statistical information on unrelated taxpayers.
 
 #### (c) Penalties
 

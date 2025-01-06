@@ -48,7 +48,7 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 (2) For purposes of paragraph (1)(C), melting of scrap metal does not include the thermal separation of 2 or more materials due to differences in their melting points (referred to as "sweating").
 
-(3) For purposes of this subsection, the term "scrap metal" means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
+(3) For purposes of this subsection, the term "scrap metal" means bits and pieces of metalparts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
 
 #### (e) Transactions involving batteries
 

@@ -18,7 +18,7 @@ Any person who receives compensation for removal costs or damages or claims purs
 
 &emsp;&emsp;(B) is stored, treated, transported, or otherwise managed in compliance with regulations or standards promulgated pursuant to section 3014 of the Solid Waste Disposal Act \[42 U.S.C. 6935\] and other applicable authorities.
 
-> &emsp;Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of Stateor Federal law, including common law, for damages, injury, or loss resulting from a release or threatened release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action.
+> &emsp;Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release or threatened release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action.
 
 #### (2) Presumption
 

@@ -18,7 +18,7 @@ In order to encourage the commercial production of electric and hybrid vehicles,
 
 #### (c) Maximum amount of loan guarantee
 
-Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum ofthe aggregate cost of the activity with respect to which the loan is made.
+Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
 
 #### (d) Terms and conditions of guarantee
 
@@ -36,7 +36,7 @@ Loan guarantees under this section shall be on such terms and conditions as the 
 
 #### (e) Maximum guarantee per loan; maximum of aggregate guarantees; Electric and Hybrid Vehicle Development Fund; establishment, funding, etc.
 
-(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House ofRepresentatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (2) The aggregate amount of guarantees outstanding under this section at any one time shall not exceed $60,000,000.
 
@@ -68,7 +68,7 @@ No loan guarantee shall be made, or interest assistance contracts entered into, 
 
 #### (i) Citizenship of applicant; corporations; waiver
 
-An applicant seeking a guarantee under this section must be a citizen or national of the United States. A corporation, partnership, firm, or association shall not be deemed to be a citizen or national of the United States unless the Secretary of Energy determines that it satisfactorily meets all the requirements of section 50501 of title 46, for determining such citizenship, except that the provisions in subsections (a) and (b) of such section 50501 concerning (1) the citizenship of officers or directors of a corporation, and (2) the interest required to be owned in the case of a corporation, association, or partnership operating a vessel in the coastwise trade, shall not be applicable. The Secretary of Energy, in consultation with the Secretary of State, may waive such requirements in the case of a corporation, partnership, firm, or association, controlling interest in which is owned by citizens of countries which are participants in the International Energy Agreement.
+An applicant seeking a guarantee under this section must be a citizen or national of the United States. A corporation, partnership, firm, or association shall not be deemed to be a citizen or national of the United States unless the Secretary of Energy determines that it satisfactorily meets all the requirements of section 50501 of title 46, for determining such citizenship, except that the provisions in subsections (a) and (b) of such section 50501 concerning (1) the citizenship of officers or directors of a corporation, and (2) the interest required to beowned in the case of a corporation, association, or partnership operating a vessel in the coastwise trade, shall not be applicable. The Secretary of Energy, in consultation with the Secretary of State, may waive such requirements in the case of a corporation, partnership, firm, or association, controlling interest in which is owned by citizens of countries which are participants in the International Energy Agreement.
 
 #### (j) Pledge of full faith and credit of United States
 

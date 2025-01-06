@@ -244,7 +244,7 @@ Not later than January 1, 2025, the Secretary shall issue guidance regarding imp
 
 &emsp;&emsp;&emsp;(i) clause (i) of section 45(b)(7)(A) shall not apply, and
 
-&emsp;&emsp;&emsp;(ii) clause (ii) of such section shall be applied by substituting "with respect to any taxable year beginning after December 31, 2024, for which the credit is allowed under this section" for "with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii)".
+&emsp;&emsp;&emsp;(ii) clause (ii) of such section shall be applied by substituting "with respect to any taxable year beginning after December 31, 2024, for which the credit is allowed underthis section" for "with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii)".
 
 #### (7) Apprenticeship requirements
 

@@ -26,7 +26,7 @@ In this section:
 
 &emsp;&emsp;(C) does not include—
 
-&emsp;&emsp;&emsp;(i) a payment made under a retirement plan that is qualified (or is intended to be qualified) under section 401 of title 26 or other nondiscriminatory benefit plan;
+&emsp;&emsp;&emsp;(i) a payment made under a retirement plan that is qualified (or is intended to bequalified) under section 401 of title 26 or other nondiscriminatory benefit plan;
 
 &emsp;&emsp;&emsp;(ii) a payment made under a bona fide supplemental executive retirement plan, deferred compensation plan, or other arrangement that the Corporation determines, by regulation or order, to be permissible; or
 

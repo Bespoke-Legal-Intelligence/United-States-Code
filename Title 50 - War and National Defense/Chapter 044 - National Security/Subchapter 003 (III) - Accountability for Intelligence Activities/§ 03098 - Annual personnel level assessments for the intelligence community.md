@@ -18,7 +18,7 @@ Each assessment required by subsection (a) submitted during a fiscal year shall 
 
 &emsp;(3) The dollar and percentage increase or decrease of such costs as compared to the personnel costs during the prior 5 fiscal years.
 
-&emsp;(4) The number of full-time equivalent positions that is the basis for which personnel funds are requested for the upcoming fiscal year.
+&emsp;(4) The number of full-time equivalent positions that is the basis for which personnelfunds are requested for the upcoming fiscal year.
 
 &emsp;(5) The numerical and percentage increase or decrease of the number referred to in paragraph (4) as compared to the number of full-time equivalent positions of the current fiscal year.
 

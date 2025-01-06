@@ -48,7 +48,7 @@ Monitoring and treatment benefits and initial health evaluation benefits are pro
 
 #### (2) Unreasonable administrative costs
 
-&emsp;The Inspector General of the Department of Health and Human Services shall develop and implement a program to review the WTC Program for unreasonable administrative costs, including with respect to infrastructure, administration, and claims processing.
+&emsp;The Inspector General of the Department of Health and Human Services shall develop andimplement a program to review the WTC Program for unreasonable administrative costs, including with respect to infrastructure, administration, and claims processing.
 
 #### (e) Quality assurance
 
@@ -66,7 +66,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the end of each fiscal year in which the WTC Program is in operation, the WTC Program Administrator shall submit an annual report to the Congresson the operations of this subchapter for such fiscal year and for the entire period of operation of the program.
+&emsp;Not later than 6 months after the end of each fiscal year in which the WTC Program is in operation, the WTC Program Administrator shall submit an annual report to the Congress on the operations of this subchapter for such fiscal year and for the entire period of operation of the program.
 
 #### (2) Contents included in report
 
@@ -138,7 +138,7 @@ The Secretary shall promptly notify the Congress of each of the following:
 
 #### (h) Consultation
 
-The WTC Program Administrator shall engage in ongoing outreach and consultation with relevant stakeholders, including the WTC Health Program Steering Committees and the Advisory Committee under section 300mm–1 of this title, regarding the implementation and improvement of programs under this subchapter.
+The WTC Program Administrator shall engage in ongoing outreach and consultation with relevant stakeholders, including the WTC Health Program Steering Committees and the Advisory Committee under section 300mm–1 of this title,regarding the implementation and improvement of programs under this subchapter.
 
 #### (i) GAO studies
 
@@ -150,7 +150,7 @@ The WTC Program Administrator shall engage in ongoing outreach and consultation 
 
 &emsp;&emsp;(B) The procedures for providing certifications of coverage of conditions as WTC-related health conditions for enrolled WTC responders under section 300mm–22(b)(2)(B)(iii) of this title and for screening-eligible WTC survivors and certified-eligible WTC survivors under such section as applied under section 300mm–32(a) of this title.
 
-&emsp;&emsp;(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), includingdetermining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
+&emsp;&emsp;(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
 
 #### (2) Subsequent assessments
 

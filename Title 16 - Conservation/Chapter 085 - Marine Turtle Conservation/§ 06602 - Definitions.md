@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Conservation
 
-&emsp;The term "conservation" means the use of all methods and procedures necessary to protect marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles,freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs, including—
+&emsp;The term "conservation" means the use of all methods and procedures necessary to protect marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs, including—
 
 &emsp;&emsp;(A) protection, restoration, and management of habitats;
 

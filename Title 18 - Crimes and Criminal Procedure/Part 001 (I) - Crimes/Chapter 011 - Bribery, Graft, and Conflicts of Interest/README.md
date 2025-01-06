@@ -55,7 +55,7 @@
 
 <b>1984</b>—Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146, substituted "Repealed" for "Receipt or charge of commissions or gifts for farm loan, land bank, or small business transactions" in item 216.
 
-<b>1978</b>—Pub. L. 95–521, title V, §501(b), Oct. 26, 1978, 92 Stat. 1867, struck out "in matters connected withformer duties or official responsibilities" after "officers and employees" and inserted "of current officers and employees" after "partners of" in item 207.
+<b>1978</b>—Pub. L. 95–521, title V, §501(b), Oct. 26, 1978, 92 Stat. 1867, struck out "in matters connected with former duties or official responsibilities" after "officers and employees" and inserted "of current officers and employees" after "partners of" in item 207.
 
 <b>1966</b>—Pub. L. 89–486, §8(c)(2), July 4, 1966, 80 Stat. 249, added item 219.
 

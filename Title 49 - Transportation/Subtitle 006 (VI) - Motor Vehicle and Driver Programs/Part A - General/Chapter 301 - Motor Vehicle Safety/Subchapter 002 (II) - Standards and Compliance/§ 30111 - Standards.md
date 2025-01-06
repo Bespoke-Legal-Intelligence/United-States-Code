@@ -34,7 +34,7 @@ Motor Vehicle Safety Guidelines.—
 
 &emsp;(1)
 
-In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
+In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State,or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
 
 &emsp;(2)
 
@@ -220,7 +220,7 @@ Publication of assessment.—Not later than 90 days after completion of the asse
 
 &emsp;"(4)
 
-Report to congress.—Not later than 90 days after the conclusion of the public comment period under paragraph (3)(B), the Secretary shall submit tothe Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+Report to congress.—Not later than 90 days after the conclusion of the public comment period under paragraph (3)(B), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
 
 &emsp;&emsp;"(A) the results of the assessment under paragraph (1)(B);
 
@@ -540,7 +540,7 @@ In general.—If, based on the research completed under subsection (a), the Secr
 
 &emsp;&emsp;"(A) 1 or more rulemakings are necessary to ensure safety, in accordance with the \[sic\] section 30111 of title 49, United States Code, the Secretary shall initiate the rulemakings by not later than 2 years after the date of submission of the report under subsection (b); and
 
-&emsp;&emsp;"(B) an additional rulemaking is not necessary, or an additional rulemaking cannot meet the applicable requirements and considerations described in subsections (a) and (b) of section 30111 of title 49,United States Code, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the reasons for not prescribing additional Federal motor vehicle safety standards regarding the research conducted under subsection (a).
+&emsp;&emsp;"(B) an additional rulemaking is not necessary, or an additional rulemaking cannot meet the applicable requirements and considerations described in subsections (a) and (b) of section 30111 of title 49, United States Code, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the reasons for not prescribing additional Federal motor vehicle safety standards regarding the research conducted under subsection (a).
 
 &emsp;"(2)
 
@@ -666,7 +666,7 @@ Timing.—If the Secretary determines that the Federal motor vehicle safety stan
 
 &emsp;&emsp;"(D) an anticipated timeline for prescribing the Federal motor vehicle safety standard described in subsection (c); and
 
-&emsp;"(3) if the Federal motor vehicle safety standard required by subsection (c) has not been finalized by thedate that is 10 years after the date of enactment of this Act \[Nov. 15, 2021\], shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representative a report describing—
+&emsp;"(3) if the Federal motor vehicle safety standard required by subsection (c) has not been finalized by the date that is 10 years after the date of enactment of this Act \[Nov. 15, 2021\], shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representative a report describing—
 
 &emsp;&emsp;"(A) the reasons why the Federal motor vehicle safety standard has not been finalized;
 
@@ -874,7 +874,7 @@ Phase-in period required.—The safety standards prescribed pursuant to subsecti
 
 &emsp;"(2)
 
-Phase-in priorities.—In establishing the phase-in period of the rearward visibility safetystandards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
+Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
 
 &emsp;&emsp;"(A) which type or types of motor vehicles shall be phased-in first; and
 

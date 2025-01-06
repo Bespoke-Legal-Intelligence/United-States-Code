@@ -62,5 +62,5 @@ In subsection (a)(1), the words "A bill of lading is negotiable if . . . state
 
 In subsection (a)(2)(B), the words "right the named person has" are substituted for "rights or equities of such person" for clarity.
 
-In subsection (b)(1), before clause (A), the words "A bill of lading is nonnegotiable if" are substituted for "A bill in which . . . is a straight bill" in 49 App.:82 for consistency in the revised title and with other titles of the Code. The words "free from existing equities" in 49 App.:109 (last sentence) are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "A bill of lading is nonnegotiable if" are substituted for "A bill in which . . . is a straight bill" in 49 App.:82 for consistency in the revised title and with other titles ofthe Code. The words "free from existing equities" in 49 App.:109 (last sentence) are omitted as surplus.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b), if a physician (or an immediate family member ofsuch physician) has a financial relationship with an entity specified in paragraph (2), then—
+&emsp;Except as provided in subsection (b), if a physician (or an immediate family member of such physician) has a financial relationship with an entity specified in paragraph (2), then—
 
 &emsp;&emsp;(A) the physician may not make a referral to the entity for the furnishing of designated health services for which payment otherwise may be made under this subchapter, and
 
@@ -216,7 +216,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (ii) "Physician incentive plan" defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "physician incentive plan" means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting servicesprovided with respect to individuals enrolled with the entity.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "physician incentive plan" means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
 
 #### (C) Holdover personal service arrangement
 
@@ -362,7 +362,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibited under this section. Each advisory opinionissued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
+&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibited under this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
 
 #### (B) Application of certain rules
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(II) the payment is made to the physician on behalf of the covered individual and would otherwise be made directly to such individual,
 
-&emsp;&emsp;&emsp;(III) the amount of the payment is set in advance, does not exceed fair market value, and is not determined in a manner that takes into account directly or indirectly the volume or value of any referrals, and
+&emsp;&emsp;&emsp;(III) the amount of the payment is set in advance, does not exceed fair marketvalue, and is not determined in a manner that takes into account directly or indirectly the volume or value of any referrals, and
 
 &emsp;&emsp;&emsp;(IV) the payment meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -668,7 +668,7 @@ Special rule for signature requirements.—In the case of any requirement pursua
 
 &emsp;&emsp;&emsp;(i) is not the sole hospital in a county;
 
-&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percentwith respect to such admissions for any other hospital located in the county in which the hospital is located; and
+&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percent with respect to such admissions for any other hospital located in the county in which the hospital is located; and
 
 &emsp;&emsp;&emsp;(iii) meets the conditions described in subparagraph (E)(iii).
 

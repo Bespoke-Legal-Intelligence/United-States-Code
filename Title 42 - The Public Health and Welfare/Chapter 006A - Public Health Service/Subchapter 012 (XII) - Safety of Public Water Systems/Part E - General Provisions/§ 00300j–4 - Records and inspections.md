@@ -16,7 +16,7 @@ Monitoring program for unregulated contaminants.—
 
 &emsp;(A)
 
-Establishment.—The Administrator shall promulgate regulations establishing the criteria for a monitoring program for unregulated contaminants. The regulations shall require monitoring of drinking water supplied by public water systems and shall vary the frequency and schedule for monitoring requirements for systems based on the number of persons served by the system, the source of supply, and the contaminants likely to be found, ensuring that only a representative sample of systems serving 10,000 persons or fewer are required to monitor.
+Establishment.—The Administrator shall promulgate regulations establishing the criteria for a monitoring program for unregulated contaminants. The regulations shall require monitoring of drinking water supplied by public water systems and shall vary the frequency and schedule for monitoring requirements for systems based on the number of persons served by the system, the source of supply, and the contaminants likely to be found, ensuring that only a representative sample ofsystems serving 10,000 persons or fewer are required to monitor.
 
 &emsp;(B)
 
@@ -70,7 +70,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 #### (c) Penalty
 
-Whoever fails or refuses to comply with any requirement of subsection (a) or to allow the Administrator, the Comptroller General, or representatives of either, to enter and conduct any audit or inspection authorized by subsection (b) shall be subject to a civil penalty of not to exceed $25,000.
+Whoever fails or refuses to comply with any requirement of subsection (a) or to allow the Administrator, the Comptroller General, or representatives of either, to enter and conduct any audit or inspection authorized by subsection (b)shall be subject to a civil penalty of not to exceed $25,000.
 
 #### (d) Confidential information; trade secrets and secret processes; information disclosure; "information required under this section" defined
 
@@ -94,7 +94,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 #### (2) Public input
 
-&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States, and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structureand design of the data base, data input parameters and requirements, and the use and interpretation of data.
+&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States, and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structure and design of the data base, data input parameters and requirements, and the use and interpretation of data.
 
 #### (3) Use
 
@@ -130,7 +130,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 #### (h) Availability of information on small system technologies
 
-For purposes of sections 300g–1(b)(4)(E) and 300g–4(e) of this title (relating to small system variance program), the Administrator may request information on the characteristics of commercially available treatment systems and technologies, including the effectiveness and performance of the systems and technologies under various operating conditions. The Administrator may specify the form, content, and submission date of information to be submitted by manufacturers, States, and other interested persons for the purpose of considering the systems and technologies in the development of regulations or guidance under sections 300g–1(b)(4)(E) and 300g–4(e) of this title.
+For purposes of sections 300g–1(b)(4)(E) and 300g–4(e) of this title (relating to small systemvariance program), the Administrator may request information on the characteristics of commercially available treatment systems and technologies, including the effectiveness and performance of the systems and technologies under various operating conditions. The Administrator may specify the form, content, and submission date of information to be submitted by manufacturers, States, and other interested persons for the purpose of considering the systems and technologies in the development of regulations or guidance under sections 300g–1(b)(4)(E) and 300g–4(e) of this title.
 
 #### (i) Screening methods
 

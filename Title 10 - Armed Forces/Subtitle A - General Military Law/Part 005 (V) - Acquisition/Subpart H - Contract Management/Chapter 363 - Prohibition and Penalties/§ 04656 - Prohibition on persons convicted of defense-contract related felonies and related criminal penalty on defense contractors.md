@@ -14,7 +14,7 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 (2) Except as provided in paragraph (3), the prohibition in paragraph (1) shall apply for a period, as determined by the Secretary of Defense, of not less than five years after the date of the conviction.
 
-(3) The prohibition in paragraph (1) may apply with respect to an individual for a period of less than five years if the Secretary determines thatthe five-year period should be waived in the interests of national security.
+(3) The prohibition in paragraph (1) may apply with respect to an individual for a period of less than five years if the Secretary determines that the five-year period should be waived in the interests of national security.
 
 (4) The prohibition in paragraph (1) does not apply with respect to the following:
 
@@ -34,7 +34,7 @@ Criminal Penalty.—A defense contractor or subcontractor shall be subject to a 
 
 (c)
 
-Single Point of Contact for Information.—(1) The Attorney General shall ensure that a single point of contact is established to enable a defense contractor or subcontractor to promptly obtain information regarding whether a person that the contractor or subcontractor proposes to use for an activity covered by paragraph (1) of subsection (a) is under a prohibition under that subsection.
+Single Point of Contact for Information.—(1) The Attorney General shall ensurethat a single point of contact is established to enable a defense contractor or subcontractor to promptly obtain information regarding whether a person that the contractor or subcontractor proposes to use for an activity covered by paragraph (1) of subsection (a) is under a prohibition under that subsection.
 
 (2) The procedure for obtaining such information shall be specified in regulations prescribed by the Secretary of Defense under subsection (a).
 
@@ -102,7 +102,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VIII, §831(b), Sept. 29, 1988, 102 Stat. 2023, provided that: "Section 2408(a) of title 10, United States Code \[now 10 U.S.C. 4656(a)\], asamended by subsection (a), shall apply with respect to individuals convicted after the date of the enactment of this Act \[Sept. 29, 1988\]."
+Pub. L. 100–456, div. A, title VIII, §831(b), Sept. 29, 1988, 102 Stat. 2023, provided that: "Section 2408(a) of title 10, United States Code \[now 10 U.S.C. 4656(a)\], as amended by subsection (a), shall apply with respect to individuals convicted after the date of the enactment of this Act \[Sept. 29, 1988\]."
 
 #### Effective Date
 

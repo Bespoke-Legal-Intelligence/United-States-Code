@@ -50,7 +50,7 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 88–652, Oct. 13, 1964, 78Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
 
 #### Amendments
 

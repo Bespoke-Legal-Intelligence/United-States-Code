@@ -84,7 +84,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 &emsp;&emsp;&emsp;(ii) using the results of such analyses to develop scientific methods of response to such events;
 
-&emsp;&emsp;(I) include the conduct of systematic reviews of existing practices that improve thequality, safety, and efficiency of health care delivery, as well as new research on improving such practices; and
+&emsp;&emsp;(I) include the conduct of systematic reviews of existing practices that improve the quality, safety, and efficiency of health care delivery, as well as new research on improving such practices; and
 
 &emsp;&emsp;(J) include the examination of how to measure and evaluate the progress of quality and patient safety activities.
 

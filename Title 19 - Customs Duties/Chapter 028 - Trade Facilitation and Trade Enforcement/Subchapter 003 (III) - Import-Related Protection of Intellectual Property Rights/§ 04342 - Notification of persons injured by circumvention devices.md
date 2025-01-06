@@ -6,7 +6,7 @@ Not later than the date that is 30 business days after seizing merchandise pursu
 
 #### (2) Persons to be provided information
 
-Any person injured by the violation of subsection (a)(2) or (b)(1) of section 1201 of title 17 that resulted in the seizure of the merchandise shall be provided information under paragraph (1), if that person is included on a list to be established and maintained by the Commissioner. The Commissioner shall publish notice of the establishment of and revisions to the list in the Federal Register.
+Any person injured by the violation of subsection (a)(2) or (b)(1) of section 1201 of title 17 that resulted in the seizure of the merchandise shall be provided information under paragraph\(1), if that person is included on a list to be established and maintained by the Commissioner. The Commissioner shall publish notice of the establishment of and revisions to the list in the Federal Register.
 
 #### (3) Regulations
 

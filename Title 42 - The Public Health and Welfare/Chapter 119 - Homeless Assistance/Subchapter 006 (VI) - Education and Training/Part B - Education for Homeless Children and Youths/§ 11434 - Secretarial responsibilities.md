@@ -36,7 +36,7 @@ The Secretary shall develop, issue, and publish in the Federal Register, not lat
 
 &emsp;(1) may assist local educational agencies to implement the provisions related to homeless children and youths amended by that Act; and
 
-&emsp;(2) may review and revise State policies and procedures that may present barriers to theidentification of homeless children and youths, and the enrollment, attendance, and success of homeless children and youths in school.
+&emsp;(2) may review and revise State policies and procedures that may present barriers to the identification of homeless children and youths, and the enrollment, attendance, and success of homeless children and youths in school.
 
 #### (h) Information
 

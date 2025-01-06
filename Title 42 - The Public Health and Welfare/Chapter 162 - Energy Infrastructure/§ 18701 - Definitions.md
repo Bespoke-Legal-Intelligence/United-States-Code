@@ -20,7 +20,7 @@ In this division:
 
 #### References in Text
 
-This division, referred to in text, is div. D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 923, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D to the Code, see Tables.
+This division, referred to in text, is div. D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 923, which enacted thischapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

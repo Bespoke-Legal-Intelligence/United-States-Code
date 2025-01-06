@@ -142,7 +142,7 @@ Pub. L. 101–637, §15(c), Nov. 28, 1990, 104 Stat. 4597, provided that: "This 
 
 #### Revision of Model Contractor Accreditation Program
 
-Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, requiredfor asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\]."
+Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\]."
 
 #### EPA Administrator Not Exercising "Statutory Authority" Under OSHA Law in Exercising Authority Under This Chapter
 

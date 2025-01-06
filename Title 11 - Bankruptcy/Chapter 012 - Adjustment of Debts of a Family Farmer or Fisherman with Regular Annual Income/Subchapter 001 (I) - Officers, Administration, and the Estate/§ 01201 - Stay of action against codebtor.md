@@ -10,7 +10,7 @@
 
 (c) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
 
-&emsp;(1) as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor;
+&emsp;(1) as between the debtor and the individual protected under subsection (a) of this section,such individual received the consideration for the claim held by such creditor;
 
 &emsp;(2) the plan filed by the debtor proposes not to pay such claim; or
 
@@ -86,5 +86,5 @@ Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, 
 
 "(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after July 1, 2005. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after July 1, 2005."
 
-Chapter was repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, were to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings were to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, formerly set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Chapter was repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, were to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedingswere to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, formerly set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 

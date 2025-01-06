@@ -14,7 +14,7 @@ Operators of Liner Vessels.—The Administrator may not guarantee or make a comm
 
 (c)
 
-Operators of Fishing Vessels.—The Secretary may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a fishingvessel under this chapter if the operator of the vessel has been—
+Operators of Fishing Vessels.—The Secretary may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a fishing vessel under this chapter if the operator of the vessel has been—
 
 &emsp;(1) held liable, or the vessel has been held liable in rem, for a civil penalty under section 308 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858) and the operator has not paid the penalty;
 

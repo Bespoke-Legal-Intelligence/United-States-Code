@@ -120,7 +120,7 @@ Cooperation, grants, and contracts.—The Secretary may carry out research, deve
 
 &emsp;&emsp;(B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories; or
 
-&emsp;&emsp;(C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federal agency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
+&emsp;&emsp;(C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federalagency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
 
 &emsp;(4)
 
@@ -284,7 +284,7 @@ Availability of funds.—Notwithstanding any other provision of law, amounts app
 
 &emsp;&emsp;&emsp;(iii)
 
-Savings provision.—Nothing in this subparagraph may be construed to permitthe obligation or payment of funds in violation of the Anti-Deficiency Act (31 U.S.C. 1341).
+Savings provision.—Nothing in this subparagraph may be construed to permit the obligation or payment of funds in violation of the Anti-Deficiency Act (31 U.S.C. 1341).
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -332,7 +332,7 @@ Information included.—A report under this subparagraph shall include, for each
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a description of the proposed goals of the prize competition;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an analysis of why the use of the authority under subparagraph (A) was the preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an analysis of why the use of the authority under subparagraph (A) wasthe preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the total amount of cash prizes awarded for each prize competition, including a description of the amount of private funds contributed to the program, the source of such funds, and the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the Department for recording as obligations and expenditures;
 
@@ -646,7 +646,7 @@ In general.—The Secretary shall evaluate applications for SMART grants based o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) is likely to successfully implement the proposed eligible project, including through technical and financial commitments from the public and private sectors; and
 
-&emsp;&emsp;&emsp;"(ii) the extent to which a proposed eligible project will use advanced data, technology, and applications to provide significant benefits to a local area, a State, a region, or the United States, including the extent to which the proposed eligible project will—
+&emsp;&emsp;&emsp;"(ii) the extent to which a proposed eligible project will use advanced data, technology, andapplications to provide significant benefits to a local area, a State, a region, or the United States, including the extent to which the proposed eligible project will—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) reduce congestion and delays for commerce and the traveling public;
 
@@ -800,7 +800,7 @@ Reports.—
 
 &emsp;"(1)
 
-Eligible entities.—Not later than 2 years after the date on which an eligible entity receives a SMART grant, and annually thereafter until the date on which the SMART grant is expended, the eligible entity shall submit to the Secretary an implementation report that describes—
+Eligible entities.—Not later than 2 years after the date on which an eligible entity receives a SMART grant, and annually thereafter until the date on which the SMART grant is expended, the eligibleentity shall submit to the Secretary an implementation report that describes—
 
 &emsp;&emsp;"(A) the deployment and operational costs of each eligible project carried out by the eligible entity, as compared to the benefits and savings from the eligible project; and
 
@@ -858,7 +858,7 @@ Authorization of Appropriations.—
 
 &emsp;"(1)
 
-In general.—There is authorized to be appropriated to the Secretary $100,000,000 for each of thefirst 5 fiscal years beginning after the date of enactment of this Act, of which—
+In general.—There is authorized to be appropriated to the Secretary $100,000,000 for each of the first 5 fiscal years beginning after the date of enactment of this Act, of which—
 
 &emsp;&emsp;"(A) not more than 40 percent shall be used to provide SMART grants for eligible projects that primarily benefit large communities;
 
@@ -1038,7 +1038,7 @@ Pub. L. 109–59, title V, §5204(g), Aug. 10, 2005, 119 Stat. 1794, provided th
 
 "(1)
 
-Fundamental properties of asphalts and modified asphalts.—The Secretary \[of Transportation\] shall continue to carry out section 5117(b)(5) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, set out below\] (112 Stat. 450).
+Fundamental properties of asphalts and modified asphalts.—The Secretary \[of Transportation\]shall continue to carry out section 5117(b)(5) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, set out below\] (112 Stat. 450).
 
 "(2)
 
@@ -1168,7 +1168,7 @@ In general.—In carrying out part I of the program, the Secretary shall permit 
 
 &emsp;&emsp;&emsp;"(ii)
 
-Applicable conditions.—The same asset ownership, maintenance, fixed price contract, and revenue sharing model, and the same competitively selected consortium leader, as were used for the deployment of intelligent transportation infrastructure systems under the original contract before the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\] shall apply to each deployment carried out under clause (i).
+Applicable conditions.—The same asset ownership, maintenance, fixed price contract, and revenue sharing model, and the same competitively selected consortium leader, as were used for the deployment of intelligent transportationinfrastructure systems under the original contract before the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\] shall apply to each deployment carried out under clause (i).
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -1288,7 +1288,7 @@ Eligibility under section 5208.—The center established under this paragraph sh
 
 &emsp;&emsp;&emsp;"(ii)
 
-Allocation.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(2) of this Act, $1,667,000 per fiscal year shall be available to carry out this paragraph.
+Allocation.—Of the amounts made available for each of fiscal years 1998 through 2003 bysection 5001(a)(2) of this Act, $1,667,000 per fiscal year shall be available to carry out this paragraph.
 
 &emsp;"(7)
 
@@ -1586,7 +1586,7 @@ In general.—If the Secretary finds that the development or balloting of an int
 
 &emsp;"(2)
 
-Critical standards.—If a standard identified as critical in the report under subsection (b) is not adopted and published by the appropriate standards development organization by January 1, 2001, the Secretary shall establish a provisional standard after consultation with affected parties, and using, to theextent practicable, the work product of appropriate standards development organizations.
+Critical standards.—If a standard identified as critical in the report under subsection (b) is not adopted and published by the appropriate standards development organization by January 1, 2001, the Secretary shall establish a provisional standard after consultation with affected parties, and using, to the extent practicable, the work product of appropriate standards development organizations.
 
 &emsp;"(3)
 
@@ -1840,7 +1840,7 @@ Subordinate Committees.—The Secretary shall establish a subordinate committee 
 
 "(g)
 
-Assistance of Secretary.—Upon request of the advisory committee, the Secretary shall provide suchinformation, administrative services, support staff, and supplies as the Secretary determines to be necessary for the advisory committee to carry out its functions.
+Assistance of Secretary.—Upon request of the advisory committee, the Secretary shall provide such information, administrative services, support staff, and supplies as the Secretary determines to be necessary for the advisory committee to carry out its functions.
 
 "(h)
 

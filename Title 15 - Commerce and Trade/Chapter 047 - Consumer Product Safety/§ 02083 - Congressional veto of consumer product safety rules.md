@@ -2,7 +2,7 @@
 
 #### (a) Transmission to Congress
 
-The Commission shall transmit to the Secretary of the Senate and the Clerk of the Houseof Representatives a copy of any consumer product safety rule promulgated by the Commission under section 2058 of this title.
+The Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any consumer product safety rule promulgated by the Commission under section 2058 of this title.
 
 #### (b) Disapproval by concurrent resolution
 

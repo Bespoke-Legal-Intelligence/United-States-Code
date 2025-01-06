@@ -12,7 +12,7 @@ A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Amendments
 
-<b>2023</b>—Pub. L. 118–14 substituted "2 years after September 22, 2023, and every second year thereafter" for "February 10 of 1991 and of each second year thereafter" and "Committee on Health, Education, Labor, and Pensions of the Senate," for "Committee on Labor and Human Resources of the Senate."
+<b>2023</b>—Pub. L. 118–14 substituted "2 years after September 22, 2023, and every second year thereafter" for "February 10 of 1991 and of each second year thereafter" and "Committee on Health, Education, Labor, and Pensions of the Senate," for "Committee on Labor and Human Resources of the Senate.".
 
 <b>1990</b>—Pub. L. 101–616 substituted "Not later than February 10 of 1991 and of each second year thereafter, the Secretary shall publish, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate." for "The Secretary shall, not later than October 1 of each year, publish".
 
@@ -22,5 +22,5 @@ A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

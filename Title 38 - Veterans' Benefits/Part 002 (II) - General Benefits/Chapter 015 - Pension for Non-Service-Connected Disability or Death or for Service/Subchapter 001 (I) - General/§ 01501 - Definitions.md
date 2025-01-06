@@ -78,7 +78,7 @@ Pub. L. 115–131, §2(a), Mar. 9, 2018, 132 Stat. 334, provided that: "The Secr
 
 #### Pension Program for Nonservice-Connected Disability or Death; Report by Administrator
 
-Pub. L. 94–432, title IV, §404, Sept. 30, 1976, 90 Stat. 1372, provided that, due to certain insufficiencies inpension program for nonservice-connected disability or death authorized by this chapter, and lack of sufficient long-range information as to actual and anticipated financial characteristics of potential pensioners and their families upon which to estimate costs of existing alternative pension programs, it was necessary for Administrator of Veterans' Affairs to study existing and alternative nonservice-connected pension programs and to submit a report to Congress and the President not later than Oct. 1, 1977, on alternative courses of legislative and administrative action and long-range cost estimates therefor.
+Pub. L. 94–432, title IV, §404, Sept. 30, 1976, 90 Stat. 1372, provided that, due to certain insufficiencies in pension program for nonservice-connected disability or death authorized by this chapter, and lack of sufficient long-range information as to actual and anticipated financial characteristics of potential pensioners and their families upon which to estimate costs of existing alternative pension programs, it was necessary for Administrator of Veterans' Affairs to study existing and alternative nonservice-connected pension programs and to submit a report to Congress and the President not later than Oct. 1, 1977, on alternative courses of legislative and administrative action and long-range cost estimates therefor.
 
 #### Study of Needs and Problems of Veterans and Their Widows Seventy-Two Years of Age or Older; Report by Administrator
 

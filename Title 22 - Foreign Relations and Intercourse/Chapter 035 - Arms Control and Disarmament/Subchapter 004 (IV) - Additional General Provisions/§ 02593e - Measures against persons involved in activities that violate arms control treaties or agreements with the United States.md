@@ -18,7 +18,7 @@
 
 #### (2) Country described
 
-&emsp;A country described in this paragraph is a country (other than a country described in paragraph (3)) that the President or the Secretary of State has determined, in the most recent annual report described in paragraph (1), to be not in full compliance with its obligations undertaken in all arms control, nonproliferation, and disarmament agreements or commitments to which the United States is a participating state.
+&emsp;A country described in this paragraph is a country (other than a country described in paragraph (3)) that the President or the Secretary of State has determined, in the most recent annual report described in paragraph (1), to be not in full compliance with its obligations undertaken in all arms control, nonproliferation, and disarmament agreements orcommitments to which the United States is a participating state.
 
 #### (3) Excluded countries
 
@@ -40,7 +40,7 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 #### (2) Exception for major routes of supply
 
-&emsp;The requirement to impose measures under paragraph (1) shall not apply with respect to any contract for the procurement of goods orservices along a major route of supply to a zone of active combat or major contingency operation.
+&emsp;The requirement to impose measures under paragraph (1) shall not apply with respect to any contract for the procurement of goods or services along a major route of supply to a zone of active combat or major contingency operation.
 
 #### (3) Requirement to revise regulations
 
@@ -96,7 +96,7 @@ The President may waive the application of measures on a case-by-case basis unde
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the President shall immediately impose measures under subsection (b) against a person described in subsection (a)(1) upon the submittal to Congress of the report identifying the person pursuant to subsection (a)(1) unless the President determines and certifies to the appropriate congressional committees that the government of the country concerned has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the person in the activities that resulted in the identification of the person in the report.
+&emsp;Except as provided in paragraph (2), the President shall immediately impose measuresunder subsection (b) against a person described in subsection (a)(1) upon the submittal to Congress of the report identifying the person pursuant to subsection (a)(1) unless the President determines and certifies to the appropriate congressional committees that the government of the country concerned has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the person in the activities that resulted in the identification of the person in the report.
 
 #### (2) Delay
 
@@ -110,7 +110,7 @@ The President may waive the application of measures on a case-by-case basis unde
 
 #### (3) Report
 
-&emsp;Not later than 60 days after the submittal to Congress of the report identifying a personpursuant to subsection (a)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations, if any, with the government concerned under this subsection, and the basis for any determination under paragraph (1).
+&emsp;Not later than 60 days after the submittal to Congress of the report identifying a person pursuant to subsection (a)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations, if any, with the government concerned under this subsection, and the basis for any determination under paragraph (1).
 
 #### (g) Termination
 

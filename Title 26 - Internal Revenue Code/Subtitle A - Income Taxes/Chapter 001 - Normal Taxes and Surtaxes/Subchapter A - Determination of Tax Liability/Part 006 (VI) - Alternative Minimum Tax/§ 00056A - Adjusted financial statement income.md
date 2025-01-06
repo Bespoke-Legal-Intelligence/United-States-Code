@@ -32,7 +32,7 @@ For purposes of this section, the term "applicable financial statement" means, w
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided by the Secretary, if the taxpayer is a partner in a partnership,adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership.
+&emsp;&emsp;&emsp;Except as provided by the Secretary, if the taxpayer is a partner in a partnership, adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership.
 
 #### (ii) Adjusted financial statement income of partnerships
 
@@ -46,7 +46,7 @@ For purposes of this section, the term "applicable financial statement" means, w
 
 #### (B) Negative adjustments
 
-&emsp;&emsp;In any case in which the adjustment determined under subparagraph (A) would result in a negative adjustment for such taxable year—
+&emsp;&emsp;In any case in which the adjustment determined under subparagraph (A) would resultin a negative adjustment for such taxable year—
 
 &emsp;&emsp;&emsp;(i) no adjustment shall be made under this paragraph for such taxable year, and
 

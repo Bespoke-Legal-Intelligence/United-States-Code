@@ -56,11 +56,15 @@ This chapter, referred to in subsec. (b), was in the original "this title", mean
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–160, §1, Dec. 23, 2024, 138 Stat. 2567, provided that: "This Act \[amending sections 3202, 3208, 3209, and 3210 of this title\] may be cited as the 'Native American Child Protection Act'."
+
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–165, §1, June 3, 2016, 130 Stat. 415, provided that: "This Act \[amending section 3207 of this title\] may be cited as the 'Native American Children's Safety Act'."
+Pub. L. 114–165, §1, June 3, 2016, 130 Stat. 415, provided that: "This Act \[amending section 3207 of this title\]may be cited as the 'Native American Children's Safety Act'."
 
 #### Short Title
 
-Pub. L. 101–630, title IV, §401, Nov. 28, 1990, 104 Stat. 4544, provided that: "This title \[enacting this chapterand section 1169 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Indian Child Protection and Family Violence Prevention Act'."
+Pub. L. 101–630, title IV, §401, Nov. 28, 1990, 104 Stat. 4544, provided that: "This title \[enacting this chapter and section 1169 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Indian Child Protection and Family Violence Prevention Act'."
 

@@ -44,7 +44,7 @@ Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, provided that:
 
 "(a)
 
-In General.—The Secretary, subject to the availability of appropriations, may in accordance withthis section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section.
+In General.—The Secretary, subject to the availability of appropriations, may in accordance with this section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section.
 
 "(b)
 

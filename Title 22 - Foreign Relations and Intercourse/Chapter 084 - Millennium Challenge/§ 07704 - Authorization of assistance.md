@@ -30,7 +30,7 @@ The Chief Executive Officer, in consultation with the Board and working with eli
 
 #### (2) Prohibition on assistance relating to United States job loss or production displacement
 
-&emsp;Assistance under this section may not be provided for any project that is likely to cause a substantial loss of United States jobs or asubstantial displacement of United States production.
+&emsp;Assistance under this section may not be provided for any project that is likely to cause a substantial loss of United States jobs or a substantial displacement of United States production.
 
 #### (3) Prohibition on assistance relating to environmental, health, or safety hazards
 

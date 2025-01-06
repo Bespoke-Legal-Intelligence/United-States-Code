@@ -1,0 +1,14 @@
+### §8679a. Contracting with shipyards controlled by a foreign adversary country: prohibition
+
+The Secretary of Defense may not enter into any contract or other agreement with a shipyard determined by the Secretary of Defense to be under the ownership, control, or influence of a foreign adversary country (as defined in section 4872(d)(2) <sup>1</sup> of title 10, United States Code).
+
+(Added Pub. L. 118–159, div. A, title X, §1025, Dec. 23, 2024, 138 Stat. 2055.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+As defined in section 4872(d)(2), referred to in text, probably means countries specified in subsec. (f)(2) of section 4872 of this title. Subsec. (d) of section 4872 was redesignated as subsec. (f) by Pub. L. 118–159, div. A, title VIII, §844(b)(3), Dec. 23, 2024, 138 Stat. 1991. Further, subsec. (f)(2) of section 4872, as so redesignated, does not define "foreign adversary country" but lists countries defined as "covered nation".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

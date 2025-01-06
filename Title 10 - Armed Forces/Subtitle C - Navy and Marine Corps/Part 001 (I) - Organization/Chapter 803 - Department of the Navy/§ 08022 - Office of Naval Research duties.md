@@ -74,7 +74,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title V, §501(b), Sept. 23, 1996, 110 Stat. 2510, provided that: "Paragraph (2) of section 5022(a) \[now 8022(a)\] of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act \[Sept. 23, 1996\]."
+Pub. L. 104–201, div. A, title V, §501(b), Sept. 23, 1996, 110 Stat. 2510, provided that: "Paragraph (2) of section 5022(a) \[now 8022(a)\] of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief ofNaval Research after the date of the enactment of this Act \[Sept. 23, 1996\]."
 
 #### Demonstration Project To Increase Small Business and University Participation in Office of Naval Research Efforts To Extend Benefits of Science and Technology Research to Fleet
 

@@ -26,7 +26,7 @@ In carrying out subsection (a), the Director of the Institute shall, subject to 
 
 &emsp;(E) disseminate information to such professionals and the public.
 
-(2) A center may use funds provided under subsection (a) to provide stipends for health and allied health professionals enrolled in programsdescribed in subparagraph (C) of paragraph (1), and to provide fees to individuals serving as subjects in clinical trials conducted under such paragraph.
+(2) A center may use funds provided under subsection (a) to provide stipends for health and allied health professionals enrolled in programs described in subparagraph (C) of paragraph (1), and to provide fees to individuals serving as subjects in clinical trials conducted under such paragraph.
 
 #### (d) Coordination of information
 

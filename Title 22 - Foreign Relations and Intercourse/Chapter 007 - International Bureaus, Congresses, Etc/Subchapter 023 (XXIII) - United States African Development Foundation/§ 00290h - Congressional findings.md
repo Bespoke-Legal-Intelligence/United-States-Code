@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) social and economic development ultimately depends on the active participation of individuals within a society and on the enhancement of opportunities for those individuals;
 
-&emsp;(2) the development of individuals and institutions in African countries can benefit by theprovision of support for community-based self-help activities;
+&emsp;(2) the development of individuals and institutions in African countries can benefit by the provision of support for community-based self-help activities;
 
 &emsp;(3) by enacting title IX of chapter 2 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2218\], and recent amendments to that Act, the Congress has sought to enable the poor to participate in the process of development;
 

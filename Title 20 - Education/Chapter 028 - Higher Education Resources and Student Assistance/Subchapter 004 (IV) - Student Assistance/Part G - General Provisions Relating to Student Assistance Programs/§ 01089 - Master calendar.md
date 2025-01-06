@@ -8,9 +8,9 @@ To assure adequate notification and timely delivery of student aid funds under t
 
 &emsp;&emsp;(A) by February 1: first meeting of the technical committee on forms design of the Department;
 
-&emsp;&emsp;(B) by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;
+&emsp;&emsp;(B) by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) <sup>1</sup> of this title published in the Federal Register;
 
-&emsp;&emsp;(C) by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;
+&emsp;&emsp;(C) by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) <sup>1</sup> of this title published in the Federal Register;
 
 &emsp;&emsp;(D) by August 15: application for Federal student assistance and multiple data entry data elements and instructions approved;
 
@@ -82,6 +82,10 @@ Prior to the beginning of each award year, the Secretary shall provide to instit
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 1090 of this title, referred to in subsec. (a)(1)(B), (C), was generally amended by Pub. L. 116–260, div. FF, title VII, §702(m)(1), Dec. 27, 2020, 134 Stat. 3168. For a similar provision to former subsec. (a)(5), see subsec. (a)(6) of section 1090 of this title.
+
 #### Prior Provisions
 
 A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
@@ -104,7 +108,7 @@ Subsec. (e). Pub. L. 110–315, §482(a)(2), added subsec. (e).
 
 <b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–244, §481(a), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter that have not been published in finalform by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting parts B, G, and H of this subchapter that are published in final form by May 1, 1994."
+Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting parts B, G, and H of this subchapter that are published in final form by May 1, 1994."
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–66, in first sentence substituted "a deadline included in the calendar described in subsection (a) is not met" for "the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice" and after first sentence struck out "When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met."
 
@@ -142,7 +146,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Inapplicability of Master Calendar and Negotiated Rulemaking Requirements
 
-Pub. L. 112–141, div. F, title III, §100302(b), July 6, 2012, 126 Stat. 980, provided that: "Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall not apply to the amendment made by subsection (a) \[amending section 1087e of this title\], or to any regulations promulgated under such amendment."
+Pub. L. 112–141, div. F, title III, §100302(b), July 6, 2012, 126 Stat. 980, provided that: "Sections 482(c) and492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall not apply to the amendment made by subsection (a) \[amending section 1087e of this title\], or to any regulations promulgated under such amendment."
 
 Pub. L. 112–74, div. F, title III, §309(h), Dec. 23, 2011, 125 Stat. 1103, provided that: "Sections 482(c) and 492 of the HEA (20 U.S.C. 1089(c), 1098a) shall not apply to the amendments made by this section \[amending sections 1001, 1070a, 1078, 1087–1, 1087ss, and 1091 of this title and enacting provisions set out as notes under sections 1001, 1078, and 1091 of this title\], or to any regulations promulgated under those amendments."
 
@@ -164,5 +168,7 @@ Pub. L. 97–301, §4, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–
 
 #### Determination of Independent Student Status for Academic Years 1982–1983 Through 1987–1988
 
-Pub. L. 97–301, §6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 481; Pub. L. 98–516, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17, 1986, 100 Stat. 1495, which provided that notwithstanding any rule or regulation, the criteria for the determination of independent student status, prescribedunder subsec. (c)(2) of this section, in effect for academic year 1982–1983, was to be the criteria for such determinations for each of the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988, was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+Pub. L. 97–301, §6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 481; Pub. L. 98–516, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17, 1986, 100 Stat. 1495, which provided that notwithstanding any rule or regulation, the criteria for the determination of independent student status, prescribed under subsec. (c)(2) of this section, in effect for academic year 1982–1983, was to be the criteria for such determinations for each of the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988, was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

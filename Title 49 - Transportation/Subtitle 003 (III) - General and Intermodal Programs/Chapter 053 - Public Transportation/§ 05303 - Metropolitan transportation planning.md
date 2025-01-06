@@ -6,7 +6,7 @@ Policy.—It is in the national interest—
 
 &emsp;(1) to encourage and promote the safe and efficient management, operation, and development of resilient surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas and better connect housing and employment, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
 
-&emsp;(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, Statedepartments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
+&emsp;(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
 
 (b)
 
@@ -26,7 +26,7 @@ Nonmetropolitan area.—The term "nonmetropolitan area" means a geographic area 
 
 &emsp;(4)
 
-Nonmetropolitan local official.—The term "nonmetropolitan local official" means elected and appointed officials of general purpose local government in a nonmetropolitan area with responsibility for transportation.
+Nonmetropolitan local official.—The term "nonmetropolitan local official" meanselected and appointed officials of general purpose local government in a nonmetropolitan area with responsibility for transportation.
 
 &emsp;(5)
 
@@ -122,7 +122,7 @@ Restructuring.—A metropolitan planning organization may be restructured to mee
 
 &emsp;(7)
 
-Designation of more than 1 metropolitan planning organization.—More than 1 metropolitan planning organization may be designated within an existing urbanized area (as defined by the Bureau of the Census) only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the area make designation of more than 1 metropolitan planning organization for the area appropriate.
+Designation of more than 1 metropolitan planning organization.—More than 1metropolitan planning organization may be designated within an existing urbanized area (as defined by the Bureau of the Census) only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the area make designation of more than 1 metropolitan planning organization for the area appropriate.
 
 (e)
 
@@ -206,7 +206,7 @@ Relationship with other planning officials.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall encourage each metropolitan planning organization to consult with officials responsiblefor other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, housing, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
+In general.—The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, housing, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
 
 &emsp;&emsp;(B)
 
@@ -214,7 +214,7 @@ Requirements.—Under the metropolitan planning process, transportation plans an
 
 &emsp;&emsp;&emsp;(i) recipients of assistance under this chapter;
 
-&emsp;&emsp;&emsp;(ii) governmental agencies and nonprofit organizations (including representatives of the agencies and organizations) that receive Federal assistance from a source other than the Department of Transportation to provide nonemergency transportation services; and
+&emsp;&emsp;&emsp;(ii) governmental agencies and nonprofit organizations (including representatives of the agencies and organizations) that receive Federal assistance from a sourceother than the Department of Transportation to provide nonemergency transportation services; and
 
 &emsp;&emsp;&emsp;(iii) recipients of assistance under section 204 of title 23.
 
@@ -302,7 +302,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—Each metropolitan planning organization shall prepare and update atransportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
+In general.—Each metropolitan planning organization shall prepare and update a transportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
 
 &emsp;&emsp;(B)
 
@@ -510,7 +510,7 @@ Opportunity for comment.—In developing the TIP, the metropolitan planning orga
 
 &emsp;&emsp;(C)
 
-Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
+Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonablyexpected to be available to support program implementation.
 
 &emsp;&emsp;(D)
 
@@ -610,7 +610,7 @@ No required selection.—Notwithstanding paragraph (2)(B)(iv), a State or metrop
 
 &emsp;&emsp;(B)
 
-Required action by the secretary.—Action by the Secretary shall be required fora State or metropolitan planning organization to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv) for inclusion in an approved TIP.
+Required action by the secretary.—Action by the Secretary shall be required for a State or metropolitan planning organization to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv) for inclusion in an approved TIP.
 
 &emsp;(7)
 
@@ -704,7 +704,7 @@ Housing coordination plan.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A metropolitan planning organization serving a transportation management area may develop a housing coordination plan that includes projectsand strategies that may be considered in the metropolitan transportation plan of the metropolitan planning organization.
+In general.—A metropolitan planning organization serving a transportation management area may develop a housing coordination plan that includes projects and strategies that may be considered in the metropolitan transportation plan of the metropolitan planning organization.
 
 &emsp;&emsp;&emsp;(ii)
 

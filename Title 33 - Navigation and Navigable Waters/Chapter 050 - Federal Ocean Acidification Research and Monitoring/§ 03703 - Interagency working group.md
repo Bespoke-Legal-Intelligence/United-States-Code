@@ -8,7 +8,7 @@
 
 #### (2) Membership
 
-&emsp;The interagency working group on ocean acidification shall be comprised of senior representatives from the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautics and Space Administration, the United States Geological Survey, the United States Fish and Wildlife Service, the Bureau of Ocean Energy Management, the Environmental Protection Agency, the Department of Agriculture, the Department of State, the Department of Energy, the Department of the Navy, the National Park Service, the Bureau of Indian Affairs, the National Institute of Standards and Technology, the Smithsonian Institution, and such other Federal agencies as appropriate.
+&emsp;The interagency working group on ocean acidification shall be comprised of senior representatives from the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronauticsand Space Administration, the United States Geological Survey, the United States Fish and Wildlife Service, the Bureau of Ocean Energy Management, the Environmental Protection Agency, the Department of Agriculture, the Department of State, the Department of Energy, the Department of the Navy, the National Park Service, the Bureau of Indian Affairs, the National Institute of Standards and Technology, the Smithsonian Institution, and such other Federal agencies as appropriate.
 
 #### (3) Chair
 
@@ -90,7 +90,7 @@ The Subcommittee shall—
 
 &emsp;&emsp;(O) One representative from the Caribbean Regional Association for Coastal Ocean Observing or a subsequent entity that represents Puerto Rico and the United States Virgin Islands and has a similar purpose.
 
-&emsp;&emsp;(P) One representative from the National Oceanic and Atmospheric Administration Olympic Coast Ocean Acidification Sentinel Site or a subsequent entity that represents the same geographical representation.
+&emsp;&emsp;(P) One representative from the National Oceanic and Atmospheric AdministrationOlympic Coast Ocean Acidification Sentinel Site or a subsequent entity that represents the same geographical representation.
 
 &emsp;&emsp;(Q) One representative from the National Oceanic and Atmospheric Administration shall serve as an ex-officio member of the Advisory Board without a vote.
 
@@ -252,7 +252,7 @@ The Subcommittee shall—
 
 &emsp;&emsp;(C) that leverage existing platforms, where possible.
 
-(Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 116–271, title I, §109, Dec. 31, 2020, 134 Stat. 3341; Pub. L. 117–167, div. B, title VI, §10644, Aug. 9, 2022, 136 Stat. 1673.)
+(Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 116–271, title I, §109, Dec. 31,2020, 134 Stat. 3341; Pub. L. 117–167, div. B, title VI, §10644, Aug. 9, 2022, 136 Stat. 1673.)
 
 #### <b>Editorial Notes</b>
 

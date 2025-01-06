@@ -42,7 +42,7 @@ For purposes of this section, the term "qualified funding asset" means any annui
 
 &emsp;(4) such annuity contract or obligation is purchased by the taxpayer not more than 60 days before the date of the qualified assignment and not later than 60 days after the date of such assignment.
 
-(Added Pub. L. 97–473, title I, §101(b)(1), Jan. 14, 1983, 96 Stat. 2605; amended Pub. L. 99–514, title X, §1002(a), Oct. 22, 1986, 100 Stat. 2388; Pub. L. 100–647, title VI, §6079(b)(1), Nov. 10, 1988, 102 Stat. 3709; Pub. L. 105–34, title IX, §962(a), Aug. 5, 1997, 111 Stat. 891.)
+(Added Pub. L. 97–473, title I, §101(b)(1), Jan. 14, 1983, 96 Stat. 2605; amended Pub. L. 99–514, title X, §1002(a), Oct. 22, 1986, 100 Stat. 2388; Pub. L.100–647, title VI, §6079(b)(1), Nov. 10, 1988, 102 Stat. 3709; Pub. L. 105–34, title IX, §962(a), Aug. 5, 1997, 111 Stat. 891.)
 
 #### <b>Editorial Notes</b>
 

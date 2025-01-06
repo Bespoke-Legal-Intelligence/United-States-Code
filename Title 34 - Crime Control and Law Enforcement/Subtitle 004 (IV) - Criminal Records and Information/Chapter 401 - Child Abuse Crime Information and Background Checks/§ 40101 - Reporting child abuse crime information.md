@@ -76,7 +76,7 @@ In general.—The Attorney General, in consultation with Federal, State, and loc
 
 "(2)
 
-Matters to be addressed.—In developing guidelines under paragraph (1), the Attorney General shall address the availability, cost, timeliness, and effectiveness of criminal history background checks and recommend measures to ensure that fees for background checks do not discourage volunteers from participating in care programs.
+Matters to be addressed.—In developing guidelines under paragraph (1), the Attorney General shall address the availability, cost, timeliness, and effectiveness of criminal history background checks and recommend measures to ensure that fees for backgroundchecks do not discourage volunteers from participating in care programs.
 
 "(3)
 

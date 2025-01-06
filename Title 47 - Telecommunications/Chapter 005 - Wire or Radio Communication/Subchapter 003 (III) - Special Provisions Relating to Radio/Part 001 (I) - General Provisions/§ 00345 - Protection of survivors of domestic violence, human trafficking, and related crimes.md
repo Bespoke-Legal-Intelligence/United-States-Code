@@ -26,7 +26,7 @@ In this section:
 
 #### (B) Conviction not required
 
-&emsp;&emsp;Nothing in subparagraph (A) shall be construed to require a criminal conviction orany other determination of a court in order for conduct to constitute a covered act.
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed to require a criminal conviction or any other determination of a court in order for conduct to constitute a covered act.
 
 #### (3) Covered provider
 
@@ -192,7 +192,7 @@ A covered provider shall make information about the options and process describe
 
 #### (1) In general
 
-&emsp;A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims derivingfrom an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
+&emsp;A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims deriving from an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
 
 #### (2) Commission authority
 
@@ -200,15 +200,11 @@ A covered provider shall make information about the options and process describe
 
 (June 19, 1934, ch. 652, title III, §345, as added Pub. L. 117–223, §4, Dec. 7, 2022, 136 Stat. 2280.)
 
-#### Delayed Effective Date
-
-<i>For delayed effective date of section, see Effective Date note below.</i>
-
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
-Pub. L. 117–223, §6, Dec. 7, 2022, 136 Stat. 2288, provided that: "The requirements under section 345 of the Communications Act of 1934 \[47 U.S.C. 345\], as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(1) of this Act \[section 5(b)(1) of Pub. L. 117–223, set out below\]."
+Pub. L. 117–223, §6, Dec. 7, 2022, 136 Stat. 2288, provided that: "The requirements under section 345 of the Communications Act of 1934 \[47 U.S.C. 345\], as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(1) of this Act \[section 5(b)(1) of Pub. L. 117–223, set out below\]." \[Rules adopted by Order of the Federal Communications Commission released Nov. 16, 2023, with final rules effective Jan. 14, 2024, see 88 F.R. 84406.\]
 
 #### Savings Clause
 
@@ -378,7 +374,7 @@ No effect on law enforcement.—Nothing in subparagraph (A) shall be construed t
 
 &emsp;&emsp;"(D)
 
-Compliance.—If the Commission establishes a central database through the rulemaking under subparagraph (A) and a covered provider updates its own databases to match the central database not less frequently than once every 30 days, no cause of action shall lie or be maintained in any court against the covered provider or its officers, employees, or agents for claims deriving from omission from consumer-facing logs of calls or text messages of any records of calls or text messages to covered hotlines in the central database."
+Compliance.—If the Commission establishes a central database through the rulemaking undersubparagraph (A) and a covered provider updates its own databases to match the central database not less frequently than once every 30 days, no cause of action shall lie or be maintained in any court against the covered provider or its officers, employees, or agents for claims deriving from omission from consumer-facing logs of calls or text messages of any records of calls or text messages to covered hotlines in the central database."
 
 #### Definitions
 

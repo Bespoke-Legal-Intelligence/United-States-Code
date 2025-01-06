@@ -142,7 +142,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) No higher than 0.04 parts per million of formaldehyde for 90 percent of the 3 months of routine quality control testing data required under subparagraph (A)(ii).
 
-&emsp;&emsp;&emsp;(ii) No test result higher than 0.05 parts per million of formaldehyde for hardwood plywood and 0.06 parts per million for particleboard, medium-density fiberboard, and thin medium-density fiberboard.
+&emsp;&emsp;&emsp;(ii) No test result higher than 0.05 parts per million of formaldehyde for hardwoodplywood and 0.06 parts per million for particleboard, medium-density fiberboard, and thin medium-density fiberboard.
 
 #### (8) Particleboard
 

@@ -58,7 +58,7 @@ Registration.—(1) The Secretary of Transportation shall establish procedures f
 
 Bonds.—(1) A person importing a motor vehicle under this section shall provide a bond to the Secretary of the Treasury (acting for the Secretary of Transportation) and comply with the terms the Secretary of Transportation decides are appropriate to ensure that the vehicle—
 
-&emsp;(A) will comply with applicable motor vehicle safety standards prescribed under this chapter within a reasonable time (specified by the Secretary of Transportation) after the vehicle is imported; or
+&emsp;(A) will comply with applicable motor vehicle safety standards prescribed under thischapter within a reasonable time (specified by the Secretary of Transportation) after the vehicle is imported; or
 
 &emsp;(B) will be exported (at no cost to the United States Government) by the Secretary of the Treasury or abandoned to the Government.
 

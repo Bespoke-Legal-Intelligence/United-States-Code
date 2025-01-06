@@ -33,7 +33,7 @@
 | [130e.](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20critical%20infrastructure%20security%20information.md) | Treatment under Freedom of Information Act of certain critical infrastructure security information. |
 | [130f.](%C2%A7%2000130f%20-%20Notification%20requirements%20for%20sensitive%20military%20operations.md) | Notification requirements for sensitive military operations. |
 | \[130g. | Renumbered.\] |
-| [130h.](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md) | Prohibitions relating to missile defense information and systems. |
+| \[130h. | Repealed.\] |
 | [130i.](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain facilities and assets from unmanned aircraft. |
 | \[130j, 130k. | Renumbered.\] |
 
@@ -42,6 +42,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 130h "Prohibitions relating to missile defense information and systems". Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title XII, §§1201(b), 1221(b), Dec. 22, 2023, 137 Stat. 441, 453, added items 127d and 127f and struck out former item 127f "Expenditure of funds for clandestine activities that support operational preparation of the environment".
 
@@ -145,6 +147,6 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00130e - Treatment under Freedom of Information Act of certain critical infrastructure security information](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20critical%20infrastructure%20security%20information.md)
 - [&sect; 00130f - Notification requirements for sensitive military operations](%C2%A7%2000130f%20-%20Notification%20requirements%20for%20sensitive%20military%20operations.md)
 - [&sect; 00130g - Renumbered &sect;394](%C2%A7%2000130g%20-%20Renumbered%20%C2%A7394.md)
-- [&sect; 00130h - Prohibitions relating to missile defense information and systems](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md)
+- [&sect; 00130h - Repealed. Pub. L. 118&#8211;159, div. A, title XVI, &sect;1649(b)(1), Dec. 23, 2024, 138 Stat. 2199](%C2%A7%2000130h%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71649%28b%29%281%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202199.md)
 - [&sect; 00130i - Protection of certain facilities and assets from unmanned aircraft](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md)
 - [&sect; 00130j, 130k - Renumbered &sect;&sect;395, 396](%C2%A7%2000130j%2C%20130k%20-%20Renumbered%20%C2%A7%C2%A7395%2C%20396.md)

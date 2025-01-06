@@ -26,7 +26,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical andscientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
+&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
 
 #### (B) Amendments
 

@@ -24,7 +24,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) The term "inactive duty training" means—
 
-&emsp;&emsp;(A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) oftitle 10), which duty is scheduled in advance by competent authority to begin at a specific time and place; and
+&emsp;&emsp;(A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10), which duty is scheduled in advance by competent authority to begin at a specific time and place; and
 
 &emsp;&emsp;(B) in the case of a member of the National Guard or Air National Guard of any State, such term means duty (other than full-time duty) which is scheduled in advance by competent authority to begin at a specific time and place under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
 
@@ -62,7 +62,7 @@ For the purpose of this subchapter—
 
 #### References in Text
 
-Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act,referred to in par. (5)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated section 12304(j)(1) of title 10 by Pub. L. 109–364, div. A, title V, §522(b), Oct. 17, 2006, 120 Stat. 2192. Section 12304(j)(1) of title 10 was subsequently redesignated section 12304(k)(2) of title 10 by Pub. L. 118–31, div. A, title XV, §1532(2), (7)(A), Dec. 22, 2023, 137 Stat. 563, 564.
 

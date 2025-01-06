@@ -16,7 +16,7 @@ In this section, the term "community college" means an institution of higher edu
 
 &emsp;&emsp;(A) provides an educational program of not less than 2 years that is acceptable for full credit toward such a degree; or
 
-&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application ofbasic engineering, scientific, or mathematical principles of knowledge.
+&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
 #### (b) Functions
 

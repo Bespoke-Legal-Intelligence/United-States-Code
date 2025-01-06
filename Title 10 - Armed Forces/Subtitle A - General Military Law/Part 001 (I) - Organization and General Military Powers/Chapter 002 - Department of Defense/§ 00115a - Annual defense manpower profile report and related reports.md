@@ -1,12 +1,22 @@
 ### §115a. Annual defense manpower profile report and related reports
 
-(a) Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report. The report shall contain the Secretary's recommendations for—
+(a) Not later than April 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, and furnish to any Member of Congress upon request, a defense manpower profile report. The report shall contain the Secretary's recommendations for—
 
 &emsp;(1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and
 
 &emsp;(2) the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year.
 
-(b) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+
+(2) The justification and explanation required by paragraph (1) shall include the following:
+
+&emsp;(A) An explanation of how personnel end strength level requests address threats described in the national defense strategy under section 113(g) of this title.
+
+&emsp;(B) The rationale for recommended increases or decreases in active, reserve, and civilian personnel for each component of the Department of Defense.
+
+&emsp;(C) The actual end strength number for each armed force for the prior fiscal year, compared to authorized end strength levels.
+
+&emsp;(D) The shortfall in recruiting by each armed force as a percentage, as the Secretary determines appropriate.
 
 (c) The Secretary shall include in each report under subsection (a) a detailed discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense.
 
@@ -32,7 +42,7 @@
 
 &emsp;(4) The opportunities for promotion of commissioned officers anticipated to be estimated pursuant to section 623(b)(4) of this title for the fiscal year in which such report is submitted for purposes of promotion selection boards convened pursuant to section 611 of this title during such fiscal year.
 
-(e)(1) Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth recommendations for the end-strength levels for medical personnel for each componentof the armed forces as of the end of the next fiscal year.
+(e)(1) Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
 
 (2) For purposes of this subsection, the term "medical personnel" includes—
 
@@ -74,7 +84,7 @@
 
 &emsp;(3) The number of such members naturalized.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611; Pub. L. 118–31, div. A, title XVII, §1722(a)(1), Dec. 22, 2023, 137 Stat. 667.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611; Pub. L. 118–31, div. A, title XVII, §1722(a)(1), Dec. 22, 2023, 137 Stat. 667; Pub. L. 118–159, div. A, title IV, §431, Dec. 23, 2024, 138 Stat. 1865.)
 
 #### <b>Editorial Notes</b>
 
@@ -88,6 +98,10 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a). Pub. L. 118–159, §431(1), substituted "the Committees on Armed Services of the Senate and the House of Representatives, and furnish to any Member of Congress upon request," for "Congress" in introductory provisions.
+
+Subsec. (b). Pub. L. 118–159, §431(2), designated existing provisions as par. (1) and added par. (2).
+
 <b>2023</b>—Subsec. (d)(3)(F). Pub. L. 118–31 inserted before period at end "or, in the case of the Space Force, officers ordered to active duty other than under section 20105(b) of this title".
 
 <b>2022</b>—Subsec. (h). Pub. L. 117–263 added subsec. (h).
@@ -98,7 +112,7 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 Subsec. (a). Pub. L. 116–92, §1701(a)(1)(A), in introductory provisions, substituted "Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report." for "The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31."
 
-Subsec. (a)(3). Pub. L. 116–92, §1701(a)(1)(B)–(D), struck out par. (3) which read as follows: "the projectednumber of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title."
+Subsec. (a)(3). Pub. L. 116–92, §1701(a)(1)(B)–(D), struck out par. (3) which read as follows: "the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title."
 
 Subsec. (b). Pub. L. 116–92, §1701(a)(2), struck out "(1)" before "The Secretary" and struck out pars. (2) and (3) which read as follows:
 

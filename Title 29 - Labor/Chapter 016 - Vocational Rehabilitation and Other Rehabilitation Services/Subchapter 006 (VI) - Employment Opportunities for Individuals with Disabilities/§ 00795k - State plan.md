@@ -48,7 +48,7 @@ Each such plan supplement shall—
 
 &emsp;&emsp;(H) the State agencies designated under paragraph (1) will expend not more than 2.5 percent of the allotment of the State under this subchapter for administrative costs of carrying out this subchapter; and
 
-&emsp;&emsp;(I) with respect to supported employment services provided to youth with the most significant disabilities pursuant to section 795h(d) of this title, the designated State agency will provide, directly or indirectly through public or private entities, non-Federal contributions in an amount that is not less than 10 percent of the costs of carrying out such services; and
+&emsp;&emsp;(I) with respect to supported employment services provided to youth with the mostsignificant disabilities pursuant to section 795h(d) of this title, the designated State agency will provide, directly or indirectly through public or private entities, non-Federal contributions in an amount that is not less than 10 percent of the costs of carrying out such services; and
 
 &emsp;(8) contain such other information and be submitted in such manner as the Commissioner may require.
 
@@ -62,7 +62,7 @@ Provisions similar to this section were contained in section 795n of this title 
 
 A prior section 795k, Pub. L. 93–112, title VI, §632, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4439, related to allotments, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795h of this title.
 
-Another prior section 795k, Pub. L. 93–112, title VI, §632, as added Pub. L. 99–506, title VII, §704(a)(1), Oct.21, 1986, 100 Stat. 1834, related to eligibility for services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, §621(a).
+Another prior section 795k, Pub. L. 93–112, title VI, §632, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1834, related to eligibility for services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, §621(a).
 
 #### Amendments
 

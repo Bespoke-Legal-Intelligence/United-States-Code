@@ -38,7 +38,7 @@ The Indian Self-Determination and Education Act, referred to in subsec. (f), pro
 
 #### Codification
 
-In subsec. (e), "section 100502 of title 54" substituted for "subsection 12(b) of the Act of August 18, 1970" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (e), "section 100502 of title 54" substituted for "subsection 12(b) of the Act of August 18, 1970" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 

@@ -60,7 +60,7 @@ Property.—The term "property" means any interest in property except—
 
 &emsp;&emsp;(iii) minerals in land or portions of land withdrawn or reserved from the public domain which the Secretary of the Interior determines are suitable for disposition under the public land mining and mineral leasing laws; and
 
-&emsp;&emsp;(iv) land withdrawn or reserved from the public domain except land or portions of land so withdrawn or reserved which theSecretary, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public land laws because the lands are substantially changed in character by improvements or otherwise;
+&emsp;&emsp;(iv) land withdrawn or reserved from the public domain except land or portions of land so withdrawn or reserved which the Secretary, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public land laws because the lands are substantially changed in character by improvements or otherwise;
 
 &emsp;&emsp;(B) naval vessels that are battleships, cruisers, aircraft carriers, destroyers, or submarines; and
 

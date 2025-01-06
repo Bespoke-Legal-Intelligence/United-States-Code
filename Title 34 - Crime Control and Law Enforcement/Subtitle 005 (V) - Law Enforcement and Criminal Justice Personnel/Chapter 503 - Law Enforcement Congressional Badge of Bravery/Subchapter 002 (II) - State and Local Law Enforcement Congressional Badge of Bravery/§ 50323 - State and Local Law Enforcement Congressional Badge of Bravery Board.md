@@ -22,7 +22,7 @@ The State and Local Board shall do the following:
 
 &emsp;&emsp;(B) send a letter announcing the award of each State and Local Law Enforcement Badge to the State or local agency head who nominated the recipient of such State and Local Law Enforcement Badge;
 
-&emsp;&emsp;(C) send a letter to each Member of Congress representing the congressional district where the recipient of each State and Local Law Enforcement Badge resides to offer such Member an opportunity to present such State and Local Law Enforcement Badge; and
+&emsp;&emsp;(C) send a letter to each Member of Congress representing the congressional district where the recipient of each State and LocalLaw Enforcement Badge resides to offer such Member an opportunity to present such State and Local Law Enforcement Badge; and
 
 &emsp;&emsp;(D) make or facilitate arrangements for presenting each State and Local Law Enforcement Badge in accordance with section 50324 of this title.
 

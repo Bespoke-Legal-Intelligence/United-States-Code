@@ -44,7 +44,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) located on land owned or under the jurisdiction of the entity that sponsors the activity under subclause (II); or
 
-&emsp;&emsp;&emsp;(iv) is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
+&emsp;&emsp;&emsp;(iv) is subject to NEPA and the size and complexity of which, in the opinion of theCouncil, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
 
 &emsp;&emsp;&emsp;&emsp;(I) authorization from or environmental review involving more than 2 Federal agencies; or
 
@@ -228,7 +228,7 @@ Guidance.—
 
 &emsp;"(i)
 
-In general.—After submission of the report under subparagraph (B)(ii), but not later than 1 yearafter the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall submit guidance consistent with that report to all relevant Federal agencies that—
+In general.—After submission of the report under subparagraph (B)(ii), but not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall submit guidance consistent with that report to all relevant Federal agencies that—
 
 &emsp;&emsp;"(I) facilitates reviews associated with the deployment of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines; and
 

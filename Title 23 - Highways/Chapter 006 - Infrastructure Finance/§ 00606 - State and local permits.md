@@ -8,7 +8,7 @@ The provision of credit assistance under the TIFIA program with respect to a pro
 
 &emsp;(3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §186; renumbered §606 and amended Pub. L. 109–59, title I, §1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, §2001(e), Dec. 4, 2015, 129 Stat. 1444.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §186; renumbered §606 andamended Pub. L. 109–59, title I, §1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, §2001(e), Dec. 4, 2015, 129 Stat. 1444.)
 
 #### <b>Editorial Notes</b>
 

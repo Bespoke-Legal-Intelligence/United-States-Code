@@ -34,7 +34,7 @@ Nothing in this chapter precludes, preempts, or limits the authority to exchange
 
 #### (d) No new right or benefit
 
-Nothing in this chapter <sup>1</sup> creates a right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any other person.
+Nothing in this chapter <sup>1</sup> creates a right or benefit, substantive or procedural, enforceableat law or in equity by a party against the United States, its agencies, its officers, or any other person.
 
 (Pub. L. 106–248, title II, §207, July 25, 2000, 114 Stat. 617; Pub. L. 115–141, div. O, title III, §302(8), Mar. 23, 2018, 132 Stat. 1076.)
 

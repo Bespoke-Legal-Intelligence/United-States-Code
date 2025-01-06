@@ -188,7 +188,7 @@ Functions.—The Advisory Committee shall carry out all of the following functio
 
 "(d)
 
-Report to Congress.—Not later than 2 years after the date of enactment of this Act \[Jan. 1, 2021\], the Advisory Committee shall submit a report with its recommendations under subparagraphs (A) and (B) of subsection (c)(3) to the Committee on Commerce, Science, and Transportation of the Senate and theCommittee on Transportation and Infrastructure of the House of Representatives.
+Report to Congress.—Not later than 2 years after the date of enactment of this Act \[Jan. 1, 2021\], the Advisory Committee shall submit a report with its recommendations under subparagraphs (A) and (B) of subsection (c)(3) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 "(e)
 

@@ -44,7 +44,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;(10) The term "Restricted Data" has the meaning given such term in section 2014(y) of title 42.
 
-(Pub. L. 107–314, div. D, §4002, as added Pub. L. 108–136, div. C, title XXXI, §3141(c)(2), Nov. 24, 2003, 117 Stat. 1756; amended Pub. L. 112–239, div. C, title XXXI, §3131(a)(1), Jan. 2, 2013, 126 Stat. 2179; Pub. L. 113–66, div. C, title XXXI, §3146(a)(1), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 113–291, div. C, title XXXI, §3142(a), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 116–92, div. C, title XXXI, §3139(b)(1), Dec. 20, 2019, 133 Stat. 1962.)
+(Pub. L. 107–314, div. D, §4002, as added Pub. L. 108–136, div. C, title XXXI, §3141(c)(2), Nov. 24,2003, 117 Stat. 1756; amended Pub. L. 112–239, div. C, title XXXI, §3131(a)(1), Jan. 2, 2013, 126 Stat. 2179; Pub. L. 113–66, div. C, title XXXI, §3146(a)(1), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 113–291, div. C, title XXXI, §3142(a), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 116–92, div. C, title XXXI, §3139(b)(1), Dec. 20, 2019, 133 Stat. 1962.)
 
 #### <b>Editorial Notes</b>
 
@@ -76,7 +76,7 @@ Pub. L. 108–136, div. C, title XXXI, §3141(a), Nov. 24, 2003, 117 Stat. 1752,
 
 "(1)
 
-In general.—The purpose of this section \[see Tables for classification\] is to assemble together, without substantive amendment but with technical and conforming amendments of a non-substantive nature, recurring and general provisions of law on Department ofEnergy national security programs that remain in force in order to consolidate and organize such provisions of law into a single Act intended to comprise general provisions of law on such programs.
+In general.—The purpose of this section \[see Tables for classification\] is to assemble together, without substantive amendment but with technical and conforming amendments of a non-substantive nature, recurring and general provisions of law on Department of Energy national security programs that remain in force in order to consolidate and organize such provisions of law into a single Act intended to comprise general provisions of law on such programs.
 
 "(2)
 

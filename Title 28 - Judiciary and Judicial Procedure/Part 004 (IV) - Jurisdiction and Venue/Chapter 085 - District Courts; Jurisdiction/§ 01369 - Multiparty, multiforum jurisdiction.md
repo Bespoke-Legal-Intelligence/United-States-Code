@@ -38,7 +38,7 @@ Special Rules and Definitions.—For purposes of this section—
 
 (d)
 
-Intervening Parties.—In any action in a district court which is or could have been brought, in whole or in part, under this section, any person with a claim arising from the accident described in subsection (a) shall be permitted to intervene as a party plaintiff in theaction, even if that person could not have brought an action in a district court as an original matter.
+Intervening Parties.—In any action in a district court which is or could have been brought, in whole or in part, under this section, any person with a claim arising from the accident described in subsection (a) shall be permitted to intervene as a party plaintiff in the action, even if that person could not have brought an action in a district court as an original matter.
 
 (e)
 

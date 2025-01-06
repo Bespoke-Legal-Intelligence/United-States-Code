@@ -22,7 +22,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
 
-(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to a civilian officer of the Department of Defense appointed bythe President, by and with the advice and consent of the Senate.
+(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.
 
 (4) The Secretary of Defense shall prescribe a policy that addresses each of the following:
 
@@ -246,5 +246,5 @@ Dual-Military Family Defined.—In this section, the term 'dual-military family'
 
 #### Review of Management of Deployments of Individual Members
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
+Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L.107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
 

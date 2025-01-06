@@ -4,7 +4,7 @@
 
 Reports and Briefings.—(1) Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components and the Space Force. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
 
-(2) Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components and the Space Force.
+(2) Not later than 30 days after the end of the first and third quarter of each calendar year, theSecretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components and the Space Force.
 
 (3) Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.
 
@@ -20,7 +20,7 @@ Required Elements.—The elements described in this subsection are each of the f
 
 &emsp;(4) A summary of combat readiness ratings for the key force elements assessed, including specific information on personnel, supply, equipment, and training problems or deficiencies that affect the combat readiness ratings for each force element.
 
-&emsp;(5) A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade.
+&emsp;(5) The total number of upgrades and the total number of downgrades of the combat readiness of a unit that were issued by the commander of the unit, disaggregated by armed force.
 
 &emsp;(6) A summary of the readiness of supporting capabilities, including infrastructure, prepositioned equipment and supplies, and mobility assets, and other supporting logistics capabilities.
 
@@ -64,7 +64,7 @@ Semi-Annual Joint Force Readiness Review.—(1) Not later than 30 days after the
 
 Classification of Reports.—A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
-(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737; Pub. L. 113–291, div. A, title III, §321, Dec. 19, 2014, 128 Stat. 3342; Pub. L. 114–328, div. A, title III, §331, Dec. 23, 2016, 130 Stat. 2078; Pub. L. 115–91, div. A, title III, §331(a), Dec. 12, 2017, 131 Stat. 1353; Pub. L. 115–232, div. A, title III, §332, Aug. 13, 2018, 132 Stat. 1725; Pub. L. 116–92, div. A, title III, §361(b), Dec. 20, 2019, 133 Stat. 1325; Pub. L. 117–81, div. A, title III, §361, Dec. 27, 2021, 135 Stat. 1660; Pub. L. 117–263, div. A, title III, §353, Dec. 23, 2022, 136 Stat. 2534; Pub. L. 118–31, div. A, title XVII, §1722(a)(4), Dec. 22, 2023, 137 Stat. 668.)
+(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737; Pub. L.113–291, div. A, title III, §321, Dec. 19, 2014, 128 Stat. 3342; Pub. L. 114–328, div. A, title III, §331, Dec. 23, 2016, 130 Stat. 2078; Pub. L. 115–91, div. A, title III, §331(a), Dec. 12, 2017, 131 Stat. 1353; Pub. L. 115–232, div. A, title III, §332, Aug. 13, 2018, 132 Stat. 1725; Pub. L. 116–92, div. A, title III, §361(b), Dec. 20, 2019, 133 Stat. 1325; Pub. L. 117–81, div. A, title III, §361, Dec. 27, 2021, 135 Stat. 1660; Pub. L. 117–263, div. A, title III, §353, Dec. 23, 2022, 136 Stat. 2534; Pub. L. 118–31, div. A, title XVII, §1722(a)(4), Dec. 22, 2023, 137 Stat. 668; Pub. L. 118–159, div. A, title III, §341, Dec. 23, 2024, 138 Stat. 1857.)
 
 #### <b>Editorial Notes</b>
 
@@ -73,6 +73,8 @@ Classification of Reports.—A report under this section shall be submitted in u
 Section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to subsec. (b)(11), is section 732(b)(1) of Pub. L. 115–232, div. A, title VII, Aug. 13, 2018, 132 Stat. 1817, which is not classified to the Code.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(5). Pub. L. 118–159 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade."
 
 <b>2023</b>—Subsec. (a)(1), (2). Pub. L. 118–31 inserted "and the Space Force" after "active and reserve components".
 
@@ -244,7 +246,7 @@ Pub. L. 105–261, div. A, title III, §373(d)(1), Oct. 17, 1998, 112 Stat. 1992
 
 #### Implementation Plan To Examine Readiness Indicators
 
-Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, not later than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
+Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, notlater than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
 
 #### Transition To Complete Report
 

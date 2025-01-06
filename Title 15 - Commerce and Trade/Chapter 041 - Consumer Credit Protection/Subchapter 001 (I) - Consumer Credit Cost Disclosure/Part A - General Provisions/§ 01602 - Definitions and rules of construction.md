@@ -44,7 +44,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (u) The term "agricultural products" includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
 
-(v) The term "material disclosures" means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
+(v) The term "material disclosures" means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance uponwhich a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
 
 (w) The term "dwelling" means a residential structure or mobile home which contains one to four family housing units, or individual units of condominiums or cooperatives.
 
@@ -102,7 +102,7 @@ Mortgage insurance.—For the purposes of computing the total points and fees un
 
 &emsp;&emsp;&emsp;(iii) any premium paid by the consumer after closing.
 
-(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
+(2)(A) After the 2-year period beginning on the effective date of the regulations promulgatedunder section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
 
 &emsp;(i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
 
@@ -186,7 +186,7 @@ Mortgage originator.—The term "mortgage originator"—
 
 &emsp;&emsp;&emsp;(ii) a retailer of manufactured or modular homes or an employee of the retailer if the retailer or employee, as applicable—
 
-&emsp;&emsp;&emsp;&emsp;(I) does not receive compensation or gain for engaging in activities described in subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
+&emsp;&emsp;&emsp;&emsp;(I) does not receive compensation or gain for engaging in activities describedin subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
 
 &emsp;&emsp;&emsp;&emsp;(II) discloses to the consumer—
 
@@ -310,7 +310,7 @@ Subsec. (dd). Pub. L. 111–203, §1431(d), added subsec. (dd).
 
 <b>2009</b>—Subsec. (i). Pub. L. 111–24 substituted "terms 'open end credit plan' and 'open end consumer credit plan' mean" for "term 'open end credit plan' means" in first sentence and inserted "or open end consumer credit plan" after "credit plan" wherever appearing in second sentence.
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–315 inserted at end "The term 'creditor' includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter."
+<b>2008</b>—Subsec. (f). Pub. L. 110–315 inserted at end "The term 'creditor' includes a private educational lender\(as that term is defined in section 1650 of this title) for purposes of this subchapter."
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–325, §152(c), inserted at end "Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter."
 
@@ -350,7 +350,7 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
@@ -382,7 +382,7 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 #### Regulations
 
-Pub. L. 111–24, §2, May 22, 2009, 123 Stat. 1735, provided that: "The Board of Governors of the Federal Reserve System (in this Act \[see Short Title of 2009 Amendment note set out under section 1601 of this title\] referred to as the 'Board') may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act."
+Pub. L. 111–24, §2, May 22, 2009, 123 Stat. 1735, provided that: "The Board of Governors of the Federal ReserveSystem (in this Act \[see Short Title of 2009 Amendment note set out under section 1601 of this title\] referred to as the 'Board') may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act."
 
 Pub. L. 103–325, title I, §155, Sept. 23, 1994, 108 Stat. 2197, provided that: "Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\]."
 

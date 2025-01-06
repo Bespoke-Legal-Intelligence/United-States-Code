@@ -70,7 +70,7 @@ In this chapter:
 
 <b>2009</b>—Par. (1). Pub. L. 111–84 substituted "subsection (a) of section 1509 of this title who is required by subsection (b) of such section" for "section 1509(b) of this title who is required by section 1509(a)(1) of this title" in concluding provisions.
 
-<b>1999</b>—Par. (1). Pub. L. 106–65 substituted "who is required by section 1509(a)(1) of this title to be considered a missing person" for ", under the circumstances specified in the last sentence of section 1509(a) of this title" in concluding provisions.
+<b>1999</b>—Par. (1). Pub. L. 106–65 substituted "who is required by section 1509(a)(1) of this title to be considereda missing person" for ", under the circumstances specified in the last sentence of section 1509(a) of this title" in concluding provisions.
 
 <b>1997</b>—Par. (1). Pub. L. 105–85, §599(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'missing person' means a member of the armed forces on active duty who is in a missing status."
 

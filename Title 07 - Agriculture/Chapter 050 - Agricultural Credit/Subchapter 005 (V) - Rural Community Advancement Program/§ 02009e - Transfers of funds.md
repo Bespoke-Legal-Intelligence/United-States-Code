@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the State Director <sup>1</sup> of a
 
 #### (b) Limitation
 
-Except as provided in subsection (c) of this section, a transfer otherwise authorized by subsection (a) of this section to be made during a fiscal year may not be made to the extent that the sum of the amount to be transferred and all amounts so transferred by State directors under subsection (a) of this section during the fiscalyear exceeds 10 percent of the total amount made available to carry out the authorities described in section 2009d(d) of this title for the fiscal year.
+Except as provided in subsection (c) of this section, a transfer otherwise authorized by subsection (a) of this section to be made during a fiscal year may not be made to the extent that the sum of the amount to be transferred and all amounts so transferred by State directors under subsection (a) of this section during the fiscal year exceeds 10 percent of the total amount made available to carry out the authorities described in section 2009d(d) of this title for the fiscal year.
 
 #### (c) Exceptions
 

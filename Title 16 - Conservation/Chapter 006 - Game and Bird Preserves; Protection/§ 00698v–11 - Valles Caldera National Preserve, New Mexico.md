@@ -236,7 +236,7 @@ In this section:
 
 #### (C) Prohibition on motorized access
 
-&emsp;&emsp;The Secretary shall maintain prohibitions on the use of motorized or mechanized travel on Preserve land located adjacent to the Santa Clara Indian Reservation, to the extent the prohibition was in effect on December 19, 2014.
+&emsp;&emsp;The Secretary shall maintain prohibitions on the use of motorized or mechanized travelon Preserve land located adjacent to the Santa Clara Indian Reservation, to the extent the prohibition was in effect on December 19, 2014.
 
 #### (12) Caldera rim trail
 
@@ -310,7 +310,7 @@ In this section:
 
 #### (aa) Budget
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Not later than 90 days after December 19, 2014, the Secretary and theTrust shall prepare a budget for the interim management of the Preserve.
+&emsp;&emsp;&emsp;&emsp;&emsp;Not later than 90 days after December 19, 2014, the Secretary and the Trust shall prepare a budget for the interim management of the Preserve.
 
 #### (bb) Written concurrence required
 
@@ -396,7 +396,7 @@ Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (b)(3)(A)
 
 The Omnibus Public Land Management Act of 2009, referred to in subsec. (b)(8)(A), is Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 991. Title IV of the Act is classified generally to chapter 92 (§7301 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-Public Law 95–341, referred to in subsec. (b)(11)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, popularly known as the American Indian Religious Freedom Act, which is classified to sections 1996 and 1996a of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+Public Law 95–341, referred to in subsec. (b)(11)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, popularly known as the American Indian Religious Freedom Act, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 #### Codification
 

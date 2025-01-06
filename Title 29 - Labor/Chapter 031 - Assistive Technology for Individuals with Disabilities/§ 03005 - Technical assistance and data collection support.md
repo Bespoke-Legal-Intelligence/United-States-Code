@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;(A) to qualified technical assistance providers to support activities described in subsection (d)(1) for States receiving grants under section 3003 of this title; and
 
-&emsp;&emsp;(B) to qualified protection and advocacy system technical assistance providers tosupport activities described in subsection (d)(1) for protection and advocacy systems receiving grants under section 3004 of this title.
+&emsp;&emsp;(B) to qualified protection and advocacy system technical assistance providers to support activities described in subsection (d)(1) for protection and advocacy systems receiving grants under section 3004 of this title.
 
 #### (2) Support for data collection and reporting assistance
 
@@ -110,7 +110,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) assists targeted individuals and entities by disseminating information and responding to requests relating to assistive technology by providing referrals to recipients of grants under section 3003 of this title or other public or private resources; and
 
-&emsp;&emsp;&emsp;&emsp;(II) provides State-specific, regional, and national technical assistance concerning assistive technology to entitiesfunded under this chapter, and public and private entities not funded under this chapter, including—
+&emsp;&emsp;&emsp;&emsp;(II) provides State-specific, regional, and national technical assistance concerning assistive technology to entities funded under this chapter, and public and private entities not funded under this chapter, including—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) annually providing a forum for exchanging information concerning, and promoting program and policy improvements in, required activities of the State assistive technology programs;
 

@@ -112,7 +112,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 "(2)
 
-Safe harbor assignments.—Assignments, including related expenditures paid or incurred, underparagraph (2) of section 45G(b) of the Internal Revenue Code of 1986 for taxable years ending after January 1, 2017, and before January 1, 2018, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than 90 days following the date of the enactment of this Act \[Feb. 9, 2018\]."
+Safe harbor assignments.—Assignments, including related expenditures paid or incurred, under paragraph (2) of section 45G(b) of the Internal Revenue Code of 1986 for taxable years ending after January 1, 2017, and before January 1, 2018, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than 90 days following the date of the enactment of this Act \[Feb. 9, 2018\]."
 
 #### Effective Date of 2015 Amendment
 

@@ -18,7 +18,7 @@ Section was not enacted as part of the Foreign Assistance Act of 1961 which comp
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–384 substituted "The annual presentation materials for security assistance programs shall include a table" for "Additionally, the President shall also submit a quarterly report to the Congress".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–329 struck out subsec. (a) which provided that the value of excess defense article granted to a foreign country or international organization shall be considered to be an expenditure from the funds of this chapter for military assistance, and established accounting procedure when an order for excess defense article was placed.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329 struck out subsec. (a) which provided that the value of excess defense articlegranted to a foreign country or international organization shall be considered to be an expenditure from the funds of this chapter for military assistance, and established accounting procedure when an order for excess defense article was placed.
 
 Subsec. (b). Pub. L. 94–329 struck out subsec. (b) which provided that in the case of excess defense articles that were generated abroad, provisions of former subsec. (a) shall apply during any fiscal year only to the extent that the aggregate value of excess defense articles ordered during that year exceeded $100,000,000.
 

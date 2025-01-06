@@ -12,7 +12,7 @@ The objectives of the Joint Strategic Plan against counterfeiting and infringeme
 
 &emsp;(4) Disrupting and eliminating domestic and international counterfeiting and infringement networks.
 
-&emsp;(5) Strengthening the capacity of other countries to protect and enforce intellectualproperty rights, and reducing the number of countries that fail to enforce laws preventing the financing, production, trafficking, and sale of counterfeit and infringing goods.
+&emsp;(5) Strengthening the capacity of other countries to protect and enforce intellectual property rights, and reducing the number of countries that fail to enforce laws preventing the financing, production, trafficking, and sale of counterfeit and infringing goods.
 
 &emsp;(6) Working with other countries to establish international standards and policies for the effective protection and enforcement of intellectual property rights.
 
@@ -42,7 +42,7 @@ In the development and implementation of the joint strategic plan, the heads of 
 
 &emsp;(1) designate personnel with expertise and experience in intellectual property enforcement matters to work with the IPEC and other members of the advisory committee; and
 
-&emsp;(2) share relevant department or agency information with the IPEC and other members of the advisory committee, including statistical information on the enforcement activities of the department or agency against counterfeiting or infringement, and plans for addressing the joint strategic plan, to the extent permitted by law, including requirements relating to confidentiality and privacy, and to the extent that such sharing of information is consistent with Department of Justice and other law enforcement protocols for handling such information.
+&emsp;(2) share relevant department or agency information with the IPEC and other members of the advisory committee, including statistical information on the enforcement activities of the department or agency against counterfeiting or infringement, and plans for addressing the joint strategic plan, to the extentpermitted by law, including requirements relating to confidentiality and privacy, and to the extent that such sharing of information is consistent with Department of Justice and other law enforcement protocols for handling such information.
 
 #### (e) Contents of the joint strategic plan
 
@@ -70,7 +70,7 @@ The joint strategic plan shall include programs to provide training and technica
 
 &emsp;(1) seek to enhance the efficiency and consistency with which Federal resources are expended, and seek to minimize duplication, overlap, or inconsistency of efforts;
 
-&emsp;(2) identify and give priority to those countries where programs of training and technical assistance can be carried out most effectively and with the greatest benefit to reducing counterfeit and infringing products in theUnited States market, to protecting the intellectual property rights of United States persons and their licensees, and to protecting the interests of United States persons otherwise harmed by violations of intellectual property rights in those countries;
+&emsp;(2) identify and give priority to those countries where programs of training and technical assistance can be carried out most effectively and with the greatest benefit to reducing counterfeit and infringing products in the United States market, to protecting the intellectual property rights of United States persons and their licensees, and to protecting the interests of United States persons otherwise harmed by violations of intellectual property rights in those countries;
 
 &emsp;(3) in identifying the priorities under paragraph (2), be guided by the list of countries identified by the United States Trade Representative under section 2242(a) of title 19; and
 

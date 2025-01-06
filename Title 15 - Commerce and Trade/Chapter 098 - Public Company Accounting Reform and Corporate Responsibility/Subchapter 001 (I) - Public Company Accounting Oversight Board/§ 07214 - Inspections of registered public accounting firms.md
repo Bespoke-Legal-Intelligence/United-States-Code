@@ -28,7 +28,7 @@
 
 #### (2) Adjustments to schedules
 
-&emsp;The Board may, by rule, adjust the inspection schedules set under paragraph (1) if the Board finds that different inspection schedules are consistent with the purposes of this Act, the public interest, and the protection of investors. The Board may conduct special inspections at the request of the Commission or upon its own motion.
+&emsp;The Board may, by rule, adjust the inspection schedules set under paragraph (1) if theBoard finds that different inspection schedules are consistent with the purposes of this Act, the public interest, and the protection of investors. The Board may conduct special inspections at the request of the Commission or upon its own motion.
 
 #### (c) Procedures
 

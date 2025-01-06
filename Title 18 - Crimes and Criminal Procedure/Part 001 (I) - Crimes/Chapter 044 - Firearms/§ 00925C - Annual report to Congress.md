@@ -10,7 +10,7 @@ Not later than 1 year after the date of enactment of this section, and annually 
 
 &emsp;&emsp;(C) the number of denials for which the Bureau of Alcohol, Tobacco, Firearms, and Explosives determines that the person denied was not prohibited by subsection (g) or (n) of section 922 or State law from receiving or possessing a firearm;
 
-&emsp;&emsp;(D) the number of denials overturned through the appeals process of the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901);
+&emsp;&emsp;(D) the number of denials overturned through the appeals process of the national instant criminal background check systemestablished under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901);
 
 &emsp;&emsp;(E) the number of denials with respect to which an investigation was opened by a field division of the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
 

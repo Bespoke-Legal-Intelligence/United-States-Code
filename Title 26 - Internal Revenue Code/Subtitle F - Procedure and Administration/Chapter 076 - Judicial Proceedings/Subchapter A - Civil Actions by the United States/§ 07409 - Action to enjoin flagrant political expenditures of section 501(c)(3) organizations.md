@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the Commissioner of Internal Revenue has personally determined that—
 
-&emsp;&emsp;&emsp;(i) such organization has flagrantly participated in, or intervened in (including the publication or distribution of statements), any political campaign on behalf of (or in opposition to) any candidate for public office, and
+&emsp;&emsp;&emsp;(i) such organization has flagrantly participated in, or intervened in (includingthe publication or distribution of statements), any political campaign on behalf of (or in opposition to) any candidate for public office, and
 
 &emsp;&emsp;&emsp;(ii) injunctive relief is appropriate to prevent future political expenditures.
 

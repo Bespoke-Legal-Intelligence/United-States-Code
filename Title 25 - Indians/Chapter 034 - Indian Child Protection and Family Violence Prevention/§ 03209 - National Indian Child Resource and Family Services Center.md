@@ -1,0 +1,92 @@
+### §3209. National Indian Child Resource and Family Services Center
+
+#### (a) Establishment
+
+Not later than 1 year after December 23, 2024, the Secretary shall establish a National Indian Child Resource and Family Services Center.
+
+#### (b) Report
+
+Not later than 2 years after December 23, 2024, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the status of the National Indian Child Resource and Family Services Center.
+
+#### (c) Center staffing
+
+The Center established under subsection (a) shall be staffed by a team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+
+#### (d) Center responsibilities and functions
+
+The Center established under subsection (a) shall—
+
+&emsp;(1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, inter-tribal consortia, and urban Indian organizations upon request;
+
+&emsp;(2) provide training to appropriate personnel of Indian tribes, tribal organizations, urban Indian organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
+
+&emsp;(3) develop training and technical assistance materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes, Tribal organizations, and urban Indian organizations;
+
+&emsp;(4) develop recommendations to assist Federal, State, Tribal, and urban Indian personnel to respond to cases of family violence, child abuse, and child neglect; and
+
+&emsp;(5) develop model intergovernmental agreements between Tribes and States, and other materials that provide examples of how Federal, State, and Tribal governments can develop effective relationships and provide for maximum cooperation in the furtherance of prevention, investigation, treatment, and prosecution of incidents of family violence and child abuse and child neglect involving Indian children and families.
+
+#### (e) Team personnel
+
+The team established under this section shall include, but is not limited to, personnel with a background in—
+
+&emsp;(1) law enforcement,
+
+&emsp;(2) child protective services,
+
+&emsp;(3) juvenile counseling and adolescent mental health, and
+
+&emsp;(4) domestic violence.
+
+#### (f) Center advisory board
+
+The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
+
+#### (g) Application of Indian Self-Determination Act to the Center
+
+The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\]. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
+
+#### (h) Authorization of appropriations
+
+There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+
+(Pub. L. 101–630, title IV, §410, Nov. 28, 1990, 104 Stat. 4552; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190; Pub. L. 118–160, §2(3), Dec. 23, 2024, 138 Stat. 2568.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–160, §2(3)(A), inserted "National" before "Indian" and substituted "Center" for "Centers" in section catchline.
+
+Subsecs. (a), (b). Pub. L. 118–160, §2(3)(B), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the establishment of an Indian Child Resource and Family Services Center in Bureau area offices and the requirement to enter into a staffing Memorandum of Agreement, respectively.
+
+Subsec. (c). Pub. L. 118–160, §2(3)(C), substituted "The Center" for "Each Center" and struck out "multidisciplinary" before "team".
+
+Subsec. (d). Pub. L. 118–160, §2(3)(D)(i), substituted "The Center" for "Each Center" in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 118–160, §2(3)(D)(ii), substituted "inter-tribal consortia, and urban Indian organizations" for "and inter-tribal consortia".
+
+Subsec. (d)(2). Pub. L. 118–160, §2(3)(D)(iii), inserted "urban Indian organizations," after "tribal organizations,".
+
+Subsec. (d)(3). Pub. L. 118–160, §2(3)(D)(iv), inserted "and technical assistance" after "training" and substituted ", Tribal organizations, and urban Indian organizations" for "and to tribal organizations".
+
+Subsec. (d)(4). Pub. L. 118–160, §2(3)(D)(v), inserted ", State," after "Federal" and substituted "Tribal, and urban Indian" for "and tribal".
+
+Subsec. (d)(5). Pub. L. 118–160, §2(3)(D)(vi), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws."
+
+Subsec. (e). Pub. L. 118–160, §2(3)(E), substituted "Team" for "Multidisciplinary team" in heading and "The" for "Each multidisciplinary" in introductory provisions.
+
+Subsecs. (f), (g). Pub. L. 118–160, §2(3)(F), amended subsecs. (f) and (g) generally. Prior to amendment, subsecs. (f) and (g) related to the establishment of an advisory board to advise and assist each Indian Child Resource and Family Services Center and the application of the Indian Self-Determination Act to Indian Child Resource and Family Services Centers, respectively.
+
+<b>1995</b>—Subsec. (h). Pub. L. 104–16 substituted "1995, 1996, and 1997" for "and 1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Termination of Advisory Boards
+
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
+

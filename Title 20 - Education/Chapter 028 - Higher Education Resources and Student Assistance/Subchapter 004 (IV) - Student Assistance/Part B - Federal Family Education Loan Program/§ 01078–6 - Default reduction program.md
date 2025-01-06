@@ -18,7 +18,7 @@
 
 #### (C) Consumer reporting agencies
 
-&emsp;&emsp;Upon the sale or assignment of the loan, the Secretary, guaranty agency or otherholder of the loan shall request any consumer reporting agency to which the Secretary, guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of the default from the borrower's credit history.
+&emsp;&emsp;Upon the sale or assignment of the loan, the Secretary, guaranty agency or other holder of the loan shall request any consumer reporting agency to which the Secretary, guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of the default from the borrower's credit history.
 
 #### (D) Duties upon sale
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall reinstate the Secretary's obligation to—
 
-&emsp;&emsp;&emsp;&emsp;(I) reimburse the guaranty agency for the amount that the agency may, in the future, expend to discharge the guaranty agency's insurance obligation; and
+&emsp;&emsp;&emsp;&emsp;(I) reimburse the guaranty agency for the amount that the agency may, in thefuture, expend to discharge the guaranty agency's insurance obligation; and
 
 &emsp;&emsp;&emsp;&emsp;(II) pay to the holder of such loan a special allowance pursuant to section 1087–1 of this title.
 
@@ -86,7 +86,7 @@ Each program described in subsection (b) shall include making available financia
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(A)(ii). Pub. L. 113–67, §501(1), added cl. (ii) and struck out former cl. (ii) which readas follows: "on or before September 30, 2011, assign the loan to the Secretary if—
+<b>2013</b>—Subsec. (a)(1)(A)(ii). Pub. L. 113–67, §501(1), added cl. (ii) and struck out former cl. (ii) which read as follows: "on or before September 30, 2011, assign the loan to the Secretary if—
 
 &emsp;"(I) the Secretary has determined that market conditions unduly limit a guaranty agency's ability to sell loans under clause (i); and
 

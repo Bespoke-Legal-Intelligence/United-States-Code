@@ -1,6 +1,6 @@
 ### §371. Conspiracy to commit offense or to defraud United States
 
-If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
+If two or more persons conspire either to commit any offense against the United States, or todefraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
 
 If, however, the offense, the commission of which is the object of the conspiracy, is a misdemeanor only, the punishment for such conspiracy shall not exceed the maximum punishment provided for such misdemeanor.
 
@@ -20,7 +20,7 @@ The injustice of permitting a felony punishment on conviction for conspiracy to 
 
 Hon. John Paul, United States district judge for the western district of Virginia, in a letter addressed to Congressman Eugene J. Keogh dated January 27, 1944, stresses the inadequacy of the 2-year sentence prescribed by existing law in cases where the object of the conspiracy is the commission of a very serious offense.
 
-The punishment provision of said section 294 of title 18 was considered for inclusion in this revised section.It provided the same penalties for conspiracy to violate the provisions of certain counterfeiting laws, as are applicable in the case of conviction for the specific violations. Such a punishment would seem as desirable for all conspiracies as for such offenses as counterfeiting and transporting stolen property in interstate commerce.
+The punishment provision of said section 294 of title 18 was considered for inclusion in this revised section. It provided the same penalties for conspiracy to violate the provisions of certain counterfeiting laws, as are applicable in the case of conviction for the specific violations. Such a punishment would seem as desirable for all conspiracies as for such offenses as counterfeiting and transporting stolen property in interstate commerce.
 
 A multiplicity of unnecessary enactments inevitably leads to confusion and disregard of law. (See reviser's note under section 493 of this title.)
 

@@ -36,7 +36,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;(3) describe, to the extent practicable, the interagency cooperation, preparedness of Federal response assets, infrastructure, resources required, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
 
-&emsp;(4) identify, to the extent practicable, the resources required to execute the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2), including any resources identified from redundant, wasteful, or unnecessary capabilities or capacities that may be redirected to better support other existing capabilities or capacities, as the case may be; and
+&emsp;(4) identify, to the extent practicable, the resources required to execute the full range of missions called for in the national homeland security strategy described in paragraph (1)and the homeland security mission areas outlined under paragraph (2), including any resources identified from redundant, wasteful, or unnecessary capabilities or capacities that may be redirected to better support other existing capabilities or capacities, as the case may be; and
 
 &emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referred to in paragraph (1) and the homeland security mission areas outlined under paragraph (2).
 
@@ -44,7 +44,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 #### (1) In general
 
-&emsp;Not later than 60 days after the date of the submission of the President's budget for thefiscal year after the fiscal year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
+&emsp;Not later than 60 days after the date of the submission of the President's budget for the fiscal year after the fiscal year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
 
 #### (2) Contents of report
 

@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) in developing the plan consult with the resident advisory board established under subsection (e); and
 
-&emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordance with title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the manner in which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
+&emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordancewith title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the manner in which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
 
 #### (d) Contents
 
@@ -140,7 +140,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 &emsp;A description of—
 
-&emsp;&emsp;(A) any activities, services, or programs provided or offered by an agency, either directly or in partnership with other service providers, to child or adult victims of domestic violence, dating violence, sexual assault, or stalking;
+&emsp;&emsp;(A) any activities, services, or programs provided or offered by an agency, either directly or in partnership with other serviceproviders, to child or adult victims of domestic violence, dating violence, sexual assault, or stalking;
 
 &emsp;&emsp;(B) any activities, services, or programs provided or offered by a public housing agency that helps child and adult victims of domestic violence, dating violence, sexual assault, or stalking, to obtain or maintain housing; and
 

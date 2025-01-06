@@ -32,7 +32,7 @@ Pub. L. 95–23 substituted "$179,550,000" for "$177,300,000" and added Portugal
 
 Subsec. (a)(2). Pub. L. 95–92 substituted provisions prohibiting assistance to countries other than the countries specified in par. (1) except with respect to costs incurred under section 2321j(b) of this title or as otherwise required by law, for provisions setting forth limitations on amounts available for fiscal years 1976 and 1977 to carry out the purposes of this part with respect to assistance to international organizations and countries not designated in former par. (1).
 
-Subsec. (a)(3). Pub. L. 95–92 substituted provisions relating to the authority of sections 2360(a) and 2364(a) ofthis title, for provisions setting forth limitations on the number of countries eligible for assistance under this part in fiscal years 1976 and 1977.
+Subsec. (a)(3). Pub. L. 95–92 substituted provisions relating to the authority of sections 2360(a) and 2364(a) of this title, for provisions setting forth limitations on the number of countries eligible for assistance under this part in fiscal years 1976 and 1977.
 
 Subsec. (a)(4). Pub. L. 95–92 substituted provisions authorizing availability until expended of amounts appropriated under this subsection, for provisions relating to the authority of sections 2360(a) and 2364(a) of this title to increase appropriated amounts and making inapplicable to emergency assistance under section 2314(a) of this title limitations on appropriated funds under this section.
 

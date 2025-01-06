@@ -20,7 +20,7 @@ Required Determinations of Disability.—Determinations referred to in subsectio
 
 &emsp;&emsp;(B) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was not noted at the time of the member's entrance on active duty (unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service), or
 
-&emsp;&emsp;(C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii)incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978, and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title.
+&emsp;&emsp;(C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978, and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title.
 
 > However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
@@ -106,7 +106,7 @@ Par. (4)(C). Pub. L. 96–513 substituted "after September 14, 1978" for "during
 
 Pub. L. 96–343, §10(c)(3), substituted "(i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect" for "the proximate result of performing active duty nor incurred in line of duty in time of war or national emergency".
 
-<b>1978</b>—Par. (4)(A)(iii). Pub. L. 95–377, §3(2), added cl. (iii) which provided additional conditions, effective onPresidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
+<b>1978</b>—Par. (4)(A)(iii). Pub. L. 95–377, §3(2), added cl. (iii) which provided additional conditions, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
 Par. (4)(C). Pub. L. 95–377, §3(3), designated existing conditions of performing active duty and incurred in line of duty in time of war or national emergency as cls. (i) and (ii) and added cl. (iii) providing additional condition, effective on Presidential determination, that the disability was incurred in line of duty during Sept. 15, 1978, through Sept. 30, 1979, and terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
@@ -122,7 +122,7 @@ Pub. L. 111–383, div. A, title X, §1075(e)(12), Jan. 7, 2011, 124 Stat. 4375,
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with respect to physical disabilities incurred on or after such date, see section 572(d) of Pub. L. 104–201, set out as a note under section 1201 of this title.
+Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with respect to physical disabilities incurred on or after such date, see section 572(d) of Pub.L. 104–201, set out as a note under section 1201 of this title.
 
 #### Effective Date of 1994 Amendment
 

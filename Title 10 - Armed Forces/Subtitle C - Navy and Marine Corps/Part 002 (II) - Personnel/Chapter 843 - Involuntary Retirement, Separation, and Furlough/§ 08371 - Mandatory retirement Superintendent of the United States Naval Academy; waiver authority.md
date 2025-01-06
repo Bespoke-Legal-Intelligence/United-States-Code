@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Retirement.—Upon the termination of the detail of an officer to the positionof Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
+Mandatory Retirement.—Upon the termination of the detail of an officer to the position of Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
 
 (b)
 

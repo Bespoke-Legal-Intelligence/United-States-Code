@@ -26,7 +26,7 @@ Covered Individual Defined.—In this section, the term "covered individual" mea
 
 <b>2023</b>—Subsec. (c)(3). Pub. L. 118–31 substituted "paragraph (1) or (2)" for "subparagraph (A) or (B)".
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–263, §571(a)(1), substituted "a chaplain-led program to assist a covered individual" for "chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members," and inserted ", or to support the resiliency, suicide prevention, or holistic wellness of such covered individual" after "structure".
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §571(a)(1), substituted "a chaplain-led program to assist a covered individual" for "chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve componentsin an active status and their immediate family members," and inserted ", or to support the resiliency, suicide prevention, or holistic wellness of such covered individual" after "structure".
 
 Subsec. (b). Pub. L. 117–263, §571(a)(2), substituted "a covered individual" for "members of the armed forces and their family members", "a program" for "programs", and "a retreat or conference" for "retreats and conferences".
 

@@ -30,7 +30,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 #### (c) Issuance of citations
 
-If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b). If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b). If a permit hasbeen issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 #### (d) Jurisdiction of courts
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### Amendment of Subsection (b)(2)
 
-<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting "and special areas," after "exclusive economic zone".</i>
+<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed</i><i>June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting "and special areas," after "exclusive economic zone".</i>
 
 #### <b>Editorial Notes</b>
 

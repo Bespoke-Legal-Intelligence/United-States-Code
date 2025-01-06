@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Secretary determines— — <sup>1</sup>
 
-&emsp;&emsp;&emsp;(i) that the owner of such property is, or has been, a Federal employee employed at or in connection with such base or installation (other than a temporary employee serving under a time limitation), a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation, or a member of the Armed Forces of the United States assigned thereto;
+&emsp;&emsp;&emsp;(i) that the owner of such property is, or has been, a Federal employee employed at or in connection with such base or installation (other than a temporary employee serving under a time limitation), a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation, or amember of the Armed Forces of the United States assigned thereto;
 
 &emsp;&emsp;&emsp;(ii) that the closing of such base or installation, in whole or in part, has required or will require the termination of such owner's employment or service at or in connection with such base or installation or, in the case of a member of the Armed Forces not assigned to that base or installation at the time of public announcement of such closing, will prevent any reassignment of such member to the base or installation; and
 
@@ -178,7 +178,7 @@ The title to any property acquired under this section, the eligibility for, and 
 
 #### (i) Specific authorization for funds; expenditure of monies in Fund
 
-No funds may be appropriated for the acquisition of any property under authority of this section unless such funds have been specifically authorized for such purpose in a military construction authorization act, and no moneys in the fund created pursuant to subsection (d) of this section may be expended for any purpose except as may be provided in appropriation Acts.
+No funds may be appropriated for the acquisition of any property under authority of this section unless such funds have been specifically authorized for such purpose in a military construction authorization act, and no moneys in the fund created pursuant to subsection (d) of thissection may be expended for any purpose except as may be provided in appropriation Acts.
 
 #### (j) Omitted
 
@@ -276,7 +276,7 @@ Subsec. (o)(4). Pub. L. 111–5, §1001(a)(8)(C), struck out par. (4) which defi
 
 Subsec. (p). Pub. L. 111–5, §1001(a)(9), added subsec. (p).
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 inserted after first sentence "The Secretary may also pay a person who elects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government."
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 inserted after first sentence "The Secretary may also pay a person whoelects to receive a cash payment under clause (1) of the preceding sentence an amount that the Secretary determines appropriate to reimburse the person for the costs incurred by the person in the sale of the property if the Secretary determines that such payment will benefit the person and is in the best interest of the Federal Government."
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–484 substituted "member of the Armed Forces of the United States" for "serviceman".
 

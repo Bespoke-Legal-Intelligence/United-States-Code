@@ -42,7 +42,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(C) A wet area created by a water delivery system, irrigation, irrigation system, or application of water for irrigation.
 
-&emsp;&emsp;(D) A wetland on which the owner or operator of a farm or ranch uses normal croppingor ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+&emsp;&emsp;(D) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
 
 &emsp;&emsp;(E) Land that is an artificial lake or pond created by excavating or diking land (that is not a wetland) to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, or rice production, or as a settling pond.
 
@@ -176,7 +176,7 @@ Any person who is determined to be ineligible for program benefits under section
 
 #### (j) Determinations; restoration and mitigation plans; monitoring activities
 
-Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall bemade by the Natural Resources Conservation Service.
+Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the Natural Resources Conservation Service.
 
 #### (k) Mitigation banking
 
@@ -204,7 +204,7 @@ Technical determinations, the development of restoration and mitigation plans, a
 
 #### References in Text
 
-Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by Pub. L. 113–79, title II, §2710(a), Feb. 7, 2014, 128 Stat. 770.
+Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in thegeneral amendment of subchapter V of this chapter by Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by Pub. L. 113–79, title II, §2710(a), Feb. 7, 2014, 128 Stat. 770.
 
 #### Codification
 

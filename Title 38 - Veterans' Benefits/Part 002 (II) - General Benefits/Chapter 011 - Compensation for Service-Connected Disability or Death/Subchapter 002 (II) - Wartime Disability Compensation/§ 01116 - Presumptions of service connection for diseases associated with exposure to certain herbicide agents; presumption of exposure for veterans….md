@@ -54,7 +54,7 @@
 
 &emsp;(5) performed on Guam or American Samoa, or in the territorial waters thereof, during the period beginning on January 9, 1962, and ending on July 31, 1980, or served on Johnston Atoll or on a ship that called at Johnston Atoll during the period beginning on January 1, 1972, and ending on September 30, 1977.
 
-(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, §9109, Jan. 1, 2021, 134 Stat. 4785; Pub. L. 117–168, title II, §202(d)(1), title IV, §§403(b), (d), 404(b), (c), Aug. 10, 2022, 136 Stat. 1775, 1780–1782.)
+(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub.L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, §9109, Jan. 1, 2021, 134 Stat. 4785; Pub. L. 117–168, title II, §202(d)(1), title IV, §§403(b), (d), 404(b), (c), Aug. 10, 2022, 136 Stat. 1775, 1780–1782.)
 
 #### <b>Editorial Notes</b>
 
@@ -68,7 +68,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsec. (b), is sectio
 
 <b>2022</b>—Pub. L. 117–168, §403(d), substituted "certain locations" for "the Republic of Vietnam" in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–168, §403(b)(1), which directed substitution of "performed covered service" for ", during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975", wherever appearing in section, was executed by making the substitution for ", during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" in subpars. (A) and (B) to reflect the probable intent of Congress.
+Subsec. (a)(1). Pub. L. 117–168, §403(b)(1), which directed substitution of "performed covered service" for ", during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" wherever appearing in section, was executed by making the substitution for ", during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" in subpars. (A) and (B) to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(C), (E). Pub. L. 117–168, §403(b)(2), which directed substitution of "performed covered service" for "performed active military, naval, air, or space service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" wherever appearing in section, was executed by making the substitution for "performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" to reflect the probable intent of Congress.
 
@@ -78,7 +78,7 @@ Subsec. (a)(2)(M). Pub. L. 117–168, §404(c), added subpar. (M).
 
 Subsec. (b). Pub. L. 117–168, §202(d)(1)(A), (B), added subsec. (b) and struck out former subsec. (b) which required the Secretary to prescribe regulations based on determination of a positive association between the occurrence of a disease in humans and exposure to an herbicide agent.
 
-Subsec. (c). Pub. L. 117–168, §403(b)(1), which directed substitution of "performed covered service" for ", during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975", wherever appearing in section, was executed by making the substitution for ", during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 117–168, §403(b)(1), which directed substitution of "performed covered service" for ", during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" wherever appearing in section, was executed by making the substitution for ", during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" to reflect the probable intent of Congress.
 
 Pub. L. 117–168, §202(d)(1)(A), (C), redesignated subsec. (f) as (c) and struck out former subsec. (c) which related to determinations of presumption of service connection between diseases and exposure to herbicide agents and issuance of regulations based on such determinations.
 
@@ -362,7 +362,7 @@ Basis for certification.—The certification submitted under paragraph (1) shall
 
 "(a)
 
-Establishment.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 180 days after receiving such results and determination, the Secretary shall establish an advisory board (in this section referred to as the 'Advisory Board') to advise the Secretary in the selection of a research entity or entities under section 634, advise such entity or entities in conducting research under such section, and advise the Secretary with respect to the activities of such entity or entities under such section.
+Establishment.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 180 days after receiving such results and determination, the Secretary shall establish an advisory board (in this section referred to as the 'Advisory Board') to advise the Secretary in the selection of a research entity or entities under section 634, advise suchentity or entities in conducting research under such section, and advise the Secretary with respect to the activities of such entity or entities under such section.
 
 "(b)
 
@@ -496,7 +496,7 @@ Annual Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after commencing the conduct of research under this section, and not later than September 30 each year thereafter, each research entity with which the Secretary has entered into an agreement under subsection (a) shall, in consultation with the Advisory Board, submit to the Secretary of Veterans Affairs, the Committee on Veterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives a report on the functions of such entity under this section during the year preceding the submittal of the report.
+In general.—Not later than 1 year after commencing the conduct of research under this section, and not later than September 30 each year thereafter, each research entity with which the Secretary has entered into an agreement under subsection (a) shall, in consultation with the Advisory Board, submit to the Secretary of Veterans Affairs, the Committee onVeterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives a report on the functions of such entity under this section during the year preceding the submittal of the report.
 
 &emsp;"(2)
 
@@ -510,7 +510,7 @@ Elements.—Each report submitted under paragraph (1) shall include the followin
 
 &emsp;"(3)
 
-Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairsmay transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
+Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
 
 #### Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent
 
@@ -648,7 +648,7 @@ Funding.—The authority of the Secretary to carry out this section is effective
 
 Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on the date on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
 
-&emsp;"(A) determines that it is not feasible or cost-effective to carry out this section or that carrying out this section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
+&emsp;"(A) determines that it is not feasible or cost-effective to carry out this section or that carrying outthis section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
 
 &emsp;"(B) notifies the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 

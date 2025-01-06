@@ -20,7 +20,7 @@ Transportation Security.—Not later than March 31 of each year, the Secretary o
 
 &emsp;(8) financial and staffing requirements of the Director;
 
-&emsp;(9) an assessment of financial and staffing requirements, and attainment of existing staffing goals, for carrying out duties and powers of the Administrator of the Transportation Security Administration related to security; and
+&emsp;(9) an assessment of financial and staffing requirements, and attainment of existingstaffing goals, for carrying out duties and powers of the Administrator of the Transportation Security Administration related to security; and
 
 &emsp;(10) appropriate legislative and regulatory recommendations.
 

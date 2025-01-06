@@ -196,7 +196,7 @@ This Organisation shall be brought into relation with the United Nations Organis
 
 1\. This Organisation may co-operate with other specialised inter-governmental organisations and agencies whose interests and activities are related to its purposes. To this end the Director-General, acting under the general authority of the Executive Board, may establish effective working relationships with such organisations and agencies and establish such joint committees as may be necessary to assure effective co-operation. Any formal arrangements entered into with such organisations or agencies shall be subject to the approval of the Executive Board.
 
-2\. Whenever the General Conference of this Organisation and the competent authorities of any other specialised inter-governmental organisations or agencies whose purposes and functions lie within the competence of this Organisation, deem it desirable to effect a transfer of their resources and activities to this Organisation, the Director-General, subject to the approval of the Conference, may enter into mutually acceptable arrangements for its purpose.
+2\. Whenever the General Conference of this Organisation and the competent authorities of anyother specialised inter-governmental organisations or agencies whose purposes and functions lie within the competence of this Organisation, deem it desirable to effect a transfer of their resources and activities to this Organisation, the Director-General, subject to the approval of the Conference, may enter into mutually acceptable arrangements for its purpose.
 
 3\. This Organisation may make appropriate arrangements with other inter-governmental organisations for reciprocal representation at meetings.
 

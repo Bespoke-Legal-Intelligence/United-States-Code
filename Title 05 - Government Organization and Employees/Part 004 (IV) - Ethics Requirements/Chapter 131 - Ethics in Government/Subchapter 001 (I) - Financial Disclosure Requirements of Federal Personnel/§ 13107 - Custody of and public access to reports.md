@@ -18,7 +18,7 @@ In general.—Except as provided in the second sentence of this subsection, each
 
 &emsp;(2)
 
-Procedure for requesting reports.—Notwithstanding paragraph (1), a report may not be made available under this section toany person nor may any copy of the report be provided under this section to any person except upon a written application by such person stating—
+Procedure for requesting reports.—Notwithstanding paragraph (1), a report may not be made available under this section to any person nor may any copy of the report be provided under this section to any person except upon a written application by such person stating—
 
 &emsp;&emsp;(A) that person's name, occupation, and address;
 
@@ -114,7 +114,7 @@ Destruction of reports.—After the relevant time period identified under paragr
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 105 of Pub. L. 95–521 was amended by Pub. L. 117–125, §2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4289, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out</i><i>in a Transitional and Savings Provisions note preceding section 101 of this title. Section 105 of Pub. L. 95–521 was amended as follows:</i>
+<i>This section was derived from section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 105 of Pub. L. 95–521 was amended by Pub. L. 117–125, §2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4289, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 105 of Pub. L. 95–521 was amended as follows:</i>
 
 <i>(1) in subsection (a)(1), by striking "be revealing" and inserting "by revealing";</i>
 
@@ -194,7 +194,7 @@ Exempted officers and employees.—The officer and employees referred to in para
 
 #### Public Filing and Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff
 
-Pub. L. 112–105, §8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, §1(1), Aug. 16, 2012, 126 Stat.1310; Pub. L. 113–7, §1(b)(1), Apr. 15, 2013, 127 Stat. 438; Pub. L. 117–286, §4(c)(15), Dec. 27, 2022, 136 Stat. 4355, provided that:
+Pub. L. 112–105, §8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, §1(1), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, §1(b)(1), Apr. 15, 2013, 127 Stat. 438; Pub. L. 117–286, §4(c)(15), Dec. 27, 2022, 136 Stat. 4355, provided that:
 
 "(a)
 
@@ -278,7 +278,7 @@ Extensions.—Notices of extension for financial disclosure shall be made availa
 
 &emsp;"(3)
 
-Reporting transactions.—In the case of a transaction disclosure required by section 13105(l) of title 5, United States Code, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
+Reporting transactions.—In the case of a transaction disclosure required by section 13105(l) of title 5, United States Code, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shallbe made available electronically under this subsection along with its related disclosure.
 
 &emsp;"(4)
 
@@ -324,7 +324,9 @@ Extensions.—Notices of extension for financial disclosure shall be made availa
 
 Additional time.—The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Director of the Office of Government Ethics, after consultation with the Clerk of the House of Representatives and Secretary of the Senate, identifies in writing to relevant congressional committees the additional time needed for such implementation."
 
-\[Pub. L. 117–286, §4(c)(16), which directed amendment of section 11 of the "Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 298, 5 U.S.C. App. 105 note)", was executed to section 11 of Pub. L. 112–105, set out above, known as the "Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act" or the "STOCK Act", to reflect the probable intent of Congress.\]\[For definitions of terms used in section 11 of Pub. L. 112–105, set out above, see section 2 of Pub. L. 112–105, set out as a Definitions note under section 13101 of this title.\]
+\[Pub. L. 117–286, §4(c)(16), which directed amendment of section 11 of the "Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 298, 5 U.S.C. App. 105 note)", was executed to section 11 of Pub. L. 112–105, set out above, known as the "Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act" or the "STOCK Act", to reflect the probable intent of Congress.\]
+
+\[For definitions of terms used in section 11 of Pub. L. 112–105, set out above, see section 2 of Pub. L. 112–105, set out as a Definitions note under section 13101 of this title.\]
 
 #### Public Availability of Reports Filed Under Pre-1991 Ethics in Government Act Provisions
 

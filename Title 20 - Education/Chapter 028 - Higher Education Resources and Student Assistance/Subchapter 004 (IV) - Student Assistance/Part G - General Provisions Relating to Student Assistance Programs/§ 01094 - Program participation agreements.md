@@ -112,7 +112,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (c) Audits; financial responsibility; enforcement of standards
 
-(1) Notwithstanding any other provisions of this subchapter, the Secretary shall prescribesuch regulations as may be necessary to provide for—
+(1) Notwithstanding any other provisions of this subchapter, the Secretary shall prescribe such regulations as may be necessary to provide for—
 
 &emsp;(A)(i) except as provided in clauses (ii) and (iii), a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution with regard to any funds obtained by it under this subchapter or obtained from a student or a parent who has a loan insured or guaranteed by the Secretary under this subchapter, on at least an annual basis and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the appropriate State agency notifying the Secretary under subpart 1 of part H, except that the Secretary may modify the requirements of this clause with respect to institutions of higher education that are foreign institutions, and may waive such requirements with respect to a foreign institution whose students receive less than $500,000 in loans under this subchapter during the award year preceding the audit period;
 
@@ -168,9 +168,9 @@ In order to be an eligible institution for the purposes of any program authorize
 
 > the Secretary may impose a civil penalty upon such institution of not to exceed $25,000 for each violation or misrepresentation.
 
-(ii) Any civil penalty may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
+(ii) Any civil penalty may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty,when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
 
-(4) The Secretary shall publish a list of State agencies which the Secretary determines to bereliable authority as to the quality of public postsecondary vocational education in their respective States for the purpose of determining eligibility for all Federal student assistance programs.
+(4) The Secretary shall publish a list of State agencies which the Secretary determines to be reliable authority as to the quality of public postsecondary vocational education in their respective States for the purpose of determining eligibility for all Federal student assistance programs.
 
 (5) The Secretary shall make readily available to appropriate guaranty agencies, eligible lenders, State agencies notifying the Secretary under subpart 1 of part H, and accrediting agencies or associations the results of the audits of eligible institutions conducted pursuant to paragraph (1)(A).
 
@@ -228,9 +228,9 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;&emsp;(ii) in the case of loans made by a proprietary institution of higher education on or after July 1, 2012, only the amount of loan repayments received during the applicable institutional fiscal year, excluding repayments on loans made and accounted for as specified in clause (i); and
 
-&emsp;&emsp;&emsp;(iii) in the case of scholarships provided by a proprietary institution of higher education, only those scholarships provided by the institution in the form of monetary aid or tuition discounts based upon the academic achievements or financial need of students, disbursed during each fiscal year from an established restricted account, and only to the extent that funds in that account represent designated funds from an outside source or from income earned on those funds;
+&emsp;&emsp;&emsp;(iii) in the case of scholarships provided by a proprietary institution of higher education, only those scholarships provided by the institution in the form of monetary aid or tuition discounts based upon the academic achievements or financial need of students, disbursed during each fiscal year from an established restricted account, and only to the extent that funds inthat account represent designated funds from an outside source or from income earned on those funds;
 
-&emsp;&emsp;(E) in the case of each student who receives a loan on or after July 1, 2008, andprior to July 1, 2011, that is authorized under section 1078–8 of this title or that is a Federal Direct Unsubsidized Stafford Loan, treat as revenue received by the institution from sources other than funds received under this subchapter, the amount by which the disbursement of such loan received by the institution exceeds the limit on such loan in effect on the day before May 7, 2008; and
+&emsp;&emsp;(E) in the case of each student who receives a loan on or after July 1, 2008, and prior to July 1, 2011, that is authorized under section 1078–8 of this title or that is a Federal Direct Unsubsidized Stafford Loan, treat as revenue received by the institution from sources other than funds received under this subchapter, the amount by which the disbursement of such loan received by the institution exceeds the limit on such loan in effect on the day before May 7, 2008; and
 
 &emsp;&emsp;(F) exclude from revenues—
 
@@ -296,7 +296,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 #### (A) Prohibition
 
-&emsp;&emsp;No officer or employee of the institution who is employed in the financial aid office of the institution or who otherwise has responsibilities with respect to education loans, or agent who has responsibilities with respect to education loans, shall solicit or accept any gift from a lender, guarantor, or servicer of education loans.
+&emsp;&emsp;No officer or employee of the institution who is employed in the financial aid office of the institution or who otherwise has responsibilities with respect to education loans, oragent who has responsibilities with respect to education loans, shall solicit or accept any gift from a lender, guarantor, or servicer of education loans.
 
 #### (B) Definition of gift
 
@@ -504,7 +504,7 @@ Nothing in the amendments made by the Higher Education Amendments of 1992 shall 
 
 #### References in Text
 
-The Higher Education Amendments of 1992, referred to in subsec. (j), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (j), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -588,7 +588,7 @@ Subsec. (c)(1). Pub. L. 102–325, §490(b)(2)(A), substituted "shall" for "is a
 
 Subsec. (c)(1)(A)(i). Pub. L. 102–325, §490(c), substituted "a financial audit of an eligible institution with regard to the financial condition of the institution in its entirety, and a compliance audit of such institution" for "a financial and compliance audit of an eligible institution," and "on at least an annual basis" for "at least once every 2 years" and inserted "and shall be available to cognizant guaranty agencies, eligible lenders, State agencies, and the State review entities referred to in subpart 1 of part H" after "submitted to the Secretary".
 
-Subsec. (c)(1)(B). Pub. L. 102–325, §490(d)(1), inserted before semicolon at end ", including any matter the Secretary deems necessary to the sound administration of the financial aid programs, such as the pertinent actions of any owner, shareholder, or person exercising control over an eligible institution".
+Subsec. (c)(1)(B). Pub. L. 102–325, §490(d)(1), inserted before semicolon at end ", including any matter theSecretary deems necessary to the sound administration of the financial aid programs, such as the pertinent actions of any owner, shareholder, or person exercising control over an eligible institution".
 
 Subsec. (c)(1)(C). Pub. L. 102–325, §490(d)(3), added subpar. (C). Former subpar. (C) redesignated (E).
 

@@ -106,7 +106,7 @@ Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was clas
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201(b) of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section201(b) of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
 
 #### Comprehensive Evaluation of Implementation of Demonstration Projects and TRICARE Pharmacy Redesign
 

@@ -24,7 +24,7 @@
 
 &emsp;Notwithstanding subsection (c), the Director of the National Security Agency may establish a special rate of pay—
 
-&emsp;&emsp;(A) not to exceed the rate of basic pay payable for level II of the Executive Schedule under section 5313 of title 5 if the Director certifies to the Under Secretary of Defense for Intelligence and Security, in consultation with the Under Secretary of Defense for Personnel and Readiness, that the rate of pay is for positions that perform functions that execute the cyber mission of the Agency; or
+&emsp;&emsp;(A) not to exceed the rate of basic pay payable for level II of the Executive Schedule under section 5313 of title 5 if the Director certifies to the Under Secretary of Defense for Intelligence and Security, in consultation with the Under Secretary of Defense forPersonnel and Readiness, that the rate of pay is for positions that perform functions that execute the cyber mission of the Agency; or
 
 &emsp;&emsp;(B) not to exceed the rate of basic pay payable for the Vice President of the United States under section 104 of title 3 if the Director certifies to the Secretary of Defense, by name, individuals that have advanced skills and competencies and that perform critical functions that execute the cyber mission of the Agency.
 

@@ -14,7 +14,7 @@ For purposes of subsection (a), in determining the period of the term of the lea
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "the deduction allowable to a lessee for exhaustion, wear andtear, obsolescence, or amortization" for "the deduction allowable to a lessee of a lease for any taxable year for amortization under section 167, 169, 179, 185, 190, 193, or 194".
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "the deduction allowable to a lessee for exhaustion, wear and tear, obsolescence, or amortization" for "the deduction allowable to a lessee of a lease for any taxable year for amortization under section 167, 169, 179, 185, 190, 193, or 194".
 
 <b>1986</b>—Pub. L. 99–514, §201(d)(2)(A), in amending section generally, substituted provision relating to amortization of cost of acquiring a lease, subsec. (a) setting out a general rule and subsec. (b) excluding certain periods, for former provision for depreciation or amortization of improvements made by lessee on lessor's property, subsec. (a) setting out a general rule, subsec. (b), in case of related lessee and lessor, setting out a general rule in par. (1) and defining related persons in par. (2), and subsec. (c) setting out a reasonable certainty test.
 

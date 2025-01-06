@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) for a taxable year shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made.
+&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) for ataxable year shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made.
 
 #### (B) Testing period
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (ii) Contribution of excess
 
-&emsp;&emsp;&emsp;Any individual who elects to contribute an amount under clause (i) may make one or more contributions in an aggregate amount not to exceed the amount of the specified early distribution to which the election relates to an applicable retirement savings vehicle and to which a rollover contribution of such distributioncould be made under section 402(c), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+&emsp;&emsp;&emsp;Any individual who elects to contribute an amount under clause (i) may make one or more contributions in an aggregate amount not to exceed the amount of the specified early distribution to which the election relates to an applicable retirement savings vehicle and to which a rollover contribution of such distribution could be made under section 402(c), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
 
 #### (iii) Limitation on contributions to applicable retirement savings vehicle other than IRAs
 
@@ -246,7 +246,7 @@ For purposes of this section—
 
 #### (g) Provision by Secretary of information relating to contributions
 
-In the case of an amount elected by an eligible individual to be contributed to an account or plan under subsection (e)(2), the Secretary shall provide general guidance applicable to the custodian of the account or the plan sponsor, as the case may be, detailing the treatment of such contribution under subsection (f)(2) and the reporting requirements with respect to such contribution under section 6058, particularly as such requirements are modified pursuant to section 102(c)(2) <sup>1</sup> of the SECURE 2.0 Act of 2022.
+In the case of an amount elected by an eligible individual to be contributed to an account or plan under subsection (e)(2), the Secretary shall provide general guidance applicable to the custodian of the account or the plan sponsor, as the case may be, detailing the treatment of such contribution under subsection (f)(2) and the reporting requirements with respect to such contribution under section 6058, particularly assuch requirements are modified pursuant to section 102(c)(2) <sup>1</sup> of the SECURE 2.0 Act of 2022.
 
 #### (h) Inflation adjustments
 
@@ -286,7 +286,7 @@ Payments to possessions with mirror code tax systems.—The Secretary of the Tre
 
 "(2)
 
-Payments to other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to eligible residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a process, which has been approved by the Secretary of the Treasury, under which such possession promptly transfers the payments directly on behalf ofeligible residents to a retirement savings vehicle established under the laws of such possession or the United States that is substantially similar to a plan, or is a plan, described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B) of the Internal Revenue Code of 1986 or an individual retirement plan, and the restrictions on distributions from such retirement savings vehicle are substantially similar to the provisions of section 6433(d)(2) of such Code (as added by this section).
+Payments to other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to eligible residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a process, which has been approved by the Secretary of the Treasury, under which such possession promptly transfers the payments directly on behalf of eligible residents to a retirement savings vehicle established under the laws of such possession or the United States that is substantially similar to a plan, or is a plan, described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B) of the Internal Revenue Code of 1986 or an individual retirement plan, and the restrictions on distributions from such retirement savings vehicle are substantially similar to the provisions of section 6433(d)(2) of such Code (as added by this section).
 
 "(3)
 

@@ -26,7 +26,7 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (g) Any payments due or to become due under Servicemembers' Group Life Insurance or Veterans' Group Life Insurance made to, or on account of, an insured or a beneficiary shall be exempt from taxation, shall be exempt from the claims of creditors, and shall not be liable to attachment, levy, or seizure by or under any legal or equitable process whatever, either before or after receipt by the beneficiary. The preceding sentence shall not apply to (1) collection of amounts not deducted from the member's pay, or collected from him by the Secretary concerned under section 1969(a) of this title, (2) levy under subchapter D of chapter 64 of the Internal Revenue Code of 1986 (26 U.S.C. 6331 et seq.) (relating to the seizure of property for collection of taxes), and (3) the taxation of any property purchased in part or wholly out of such payments.
 
-(h) Insurance payable under this subchapter may not be paid in any amount to the extent that such amount would escheat to a State. Payment of insurance under this subchapter may not be made to the estate of the insured or the estate of any beneficiary of the insured unless it is affirmatively shown that any amount to be paid will not escheat to a State. Anyamount to be paid under this subchapter shall be reduced to the extent necessary to comply with this subsection.
+(h) Insurance payable under this subchapter may not be paid in any amount to the extent that such amount would escheat to a State. Payment of insurance under this subchapter may not be made to the estate of the insured or the estate of any beneficiary of the insured unless it is affirmatively shown that any amount to be paid will not escheat to a State. Any amount to be paid under this subchapter shall be reduced to the extent necessary to comply with this subsection.
 
 (i) Any amount of insurance in force on an insurable dependent of a member under this subchapter on the date of the dependent's death shall be paid, upon the establishment of a valid claim therefor, to the member or, in the event of the member's death before payment to the member can be made, then to the person or persons entitled to receive payment of the proceeds of insurance on the member's life under this subchapter.
 
@@ -42,7 +42,7 @@ Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (j). Pub. L. 109–13, §1012(g), which directed addition of subsec. (j), was repealed by Pub. L. 109–80. See Effective and Termination Dates of 2005 Amendments note below. Subsec. (j) read as follows: "A member with a spouse may not modify the beneficiary or beneficiaries designated by the member under subsection (a) without providing written notice of such modification to the spouse."
+<b>2005</b>—Subsec. (j). Pub. L. 109–13, §1012(g), which directed addition of subsec. (j), was repealed by Pub. L.109–80. See Effective and Termination Dates of 2005 Amendments note below. Subsec. (j) read as follows: "A member with a spouse may not modify the beneficiary or beneficiaries designated by the member under subsection (a) without providing written notice of such modification to the spouse."
 
 <b>2001</b>—Subsec. (i). Pub. L. 107–14 added subsec. (i).
 

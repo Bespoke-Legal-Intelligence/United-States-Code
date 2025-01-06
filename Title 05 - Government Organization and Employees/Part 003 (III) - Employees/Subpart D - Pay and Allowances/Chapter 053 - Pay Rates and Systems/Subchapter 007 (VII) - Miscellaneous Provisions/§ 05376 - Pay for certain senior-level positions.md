@@ -90,7 +90,7 @@ Other References.—Until otherwise provided by law—
 
 &emsp;"(1) any reference in a provision of law (which is outside title 5, United States Code, and in effect immediately before this section takes effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], excluding any reference in a provision of law amended by this Act \[see Short Title of 1990 Amendment note set out under section 5301 of this title\])—
 
-&emsp;&emsp;"(A)(i) to the rate of pay for grade GS–18 of the General Schedule, or to the maximum rate of pay under the General Schedule, shall be considered a reference to the maximum rate payable under section 5376 of such title (as amended by section 102(a));
+&emsp;&emsp;"(A)(i) to the rate of pay for grade GS–18 of the General Schedule, or to the maximum rate of payunder the General Schedule, shall be considered a reference to the maximum rate payable under section 5376 of such title (as amended by section 102(a));
 
 &emsp;&emsp;"(ii) to the minimum rate of pay for grade GS–16 of the General Schedule shall be considered a reference to the minimum rate payable under section 5376 of such title (as amended by section 102(a)); and
 
@@ -108,5 +108,5 @@ Other References.—Until otherwise provided by law—
 
 Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule."
 
-\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set outas an Effective Date of 2008 Amendment note under this section.\]
+\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.\]
 

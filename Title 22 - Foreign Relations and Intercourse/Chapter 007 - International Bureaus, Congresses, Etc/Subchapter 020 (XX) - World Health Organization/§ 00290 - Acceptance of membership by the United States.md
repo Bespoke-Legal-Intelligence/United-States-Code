@@ -14,7 +14,7 @@ Pub. L. 108–235, §1, June 14, 2004, 118 Stat. 656, as amended by Pub. L. 117�
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Good health is important to every citizen of the world and access to the highest standards ofhealth information and services is necessary to improve the public health.
+&emsp;"(1) Good health is important to every citizen of the world and access to the highest standards of health information and services is necessary to improve the public health.
 
 &emsp;"(2) Direct and unobstructed participation in international health cooperation forums and programs is beneficial for all parts of the world, especially today with the great potential for the cross-border spread of various infectious diseases such as the human immunodeficiency virus (HIV), tuberculosis, and malaria.
 

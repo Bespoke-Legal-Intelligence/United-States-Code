@@ -70,7 +70,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 #### (B) Agreement with other entity
 
-&emsp;&emsp;If the Authority and the United States Anti-Doping Agency are unable to enter into the agreement described in subparagraph (A), the Authority shall enter into an agreement with an entity that is nationally recognized as being a medication regulationagency equal in qualification to the United States Anti-Doping Agency to act as the anti-doping and medication control enforcement agency under this chapter for services consistent with the horseracing anti-doping and medication control program.
+&emsp;&emsp;If the Authority and the United States Anti-Doping Agency are unable to enter into the agreement described in subparagraph (A), the Authority shall enter into an agreement with an entity that is nationally recognized as being a medication regulation agency equal in qualification to the United States Anti-Doping Agency to act as the anti-doping and medication control enforcement agency under this chapter for services consistent with the horseracing anti-doping and medication control program.
 
 #### (C) Negotiations
 
@@ -180,7 +180,7 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 
 #### (1) In general
 
-&emsp;In addition to civil sanctions imposed under section 3057 of this title, the Authority may commence a civil action against a covered person or racetrack that has engaged, is engaged, or is about to engage, in acts or practices constituting a violation of this chapter or any rule established under this chapter in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce any civil sanctions imposed under that section, and for all other relief to which the Authority may be entitled.
+&emsp;In addition to civil sanctions imposed under section 3057 of this title, the Authority may commence a civil action against a covered person or racetrack that has engaged, is engaged, or is about to engage, in acts or practices constituting a violation of this chapter or any rule established under this chapter in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin suchacts or practices, to enforce any civil sanctions imposed under that section, and for all other relief to which the Authority may be entitled.
 
 #### (2) Injunctions and restraining orders
 

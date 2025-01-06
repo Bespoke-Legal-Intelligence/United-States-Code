@@ -80,12 +80,15 @@
 | [2066\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002066%20-%20Advisory%20Committee%20on%20Homeless%20Veterans.md) | Advisory Committee on Homeless Veterans. |
 | [2067\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002067%20-%20National%20Center%20on%20Homelessness%20Among%20Veterans.md) | National Center on Homelessness Among Veterans. |
 | [2068\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002068%20-%20Mental%20health%20consultations.md) | Mental health consultations. |
+| [2069\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002069%20-%20Access%20to%20telehealth%20services.md) | Access to telehealth services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–210, title IV, §404(b), Jan. 2, 2025, 138 Stat. 2797, added item 2069.
 
 <b>2022</b>—Pub. L. 117–328, div. U, title III, §305(b)(4), div. V, title IV, §404(b)(2), Dec. 29, 2022, 136 Stat. 5472, 5513, added items 2014 to 2016 and 2068 and struck out former item 2014 "Authorization of appropriations".
 

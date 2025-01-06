@@ -10,7 +10,7 @@ Promoting Safety and Efficiency.—To promote safety and efficiency in air navig
 
 &emsp;(1) observe, measure, investigate, and study atmospheric phenomena, and maintain meteorological stations and offices, that are necessary or best suited for finding out in advance information about probable weather conditions;
 
-&emsp;(2) provide reports to the Administrator <sup>1</sup> to persons engaged in civil aeronautics that are designated by the Administrator and to other persons designated by the Secretary in a way and with a frequency that best will result in safety in, and facilitating, air navigation;
+&emsp;(2) provide reports to the Administrator, to persons engaged in civil aeronautics that are designated by the Administrator, and to other persons designated by the Secretary in a way and with a frequency that best will result in safety in, and facilitating, air navigation;
 
 &emsp;(3) cooperate with persons engaged in air commerce in meteorological services, maintain reciprocal arrangements with those persons in carrying out this clause, and collect and distribute weather reports available from aircraft in flight;
 
@@ -22,7 +22,7 @@ Promoting Safety and Efficiency.—To promote safety and efficiency in air navig
 
 &emsp;(7) promote and develop meteorological science and foster and support research projects in meteorology through the use of private and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1201.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1201; Pub. L. 118–63, title XI, §1101(n), May 16, 2024, 138 Stat. 1414.)
 
 Historical and Revision Notes
 
@@ -56,11 +56,109 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In subsection (b), the title "Secretary" \[of Commerce\] is substituted for "Chief of the Weather Bureau" in section 803 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). Before clause (1), the words "In order" and "in addition to any other functions or duties pertaining to weather information for other purposes" are omitted as surplus. In clause (2), the words "forecasts, warnings, and advices" are omitted as being included in "reports". In clause (3), the words "or employees thereof" and "establish and" are omitted as surplus. The words "with those persons" are added for clarity. In clause (5), the words "departments, agencies, and instrumentalities of the United States Government" are substituted for "governmental agencies of the United States" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (b)(2). Pub. L. 118–63 substituted "the Administrator, to persons" for "the Administrator to persons" and "the Administrator, and to" for "the Administrator and to".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### ASOS/AWOS Service Report Dashboard
+
+Pub. L. 118–63, title III, §332, May 16, 2024, 138 Stat. 1089, provided that:
+
+"(a)
+
+In General.—The applicable Administrators shall work in collaboration to collect the real-time service status of all automated surface observation systems/automated weather observing systems (in this section referred to as 'ASOS/AWOS').
+
+"(b)
+
+Availability of Results.—
+
+&emsp;"(1)
+
+In general.—In carrying out this section, the applicable Administrators shall make available on a publicly available website the following:
+
+&emsp;&emsp;"(A) The service status of all ASOS/AWOS.
+
+&emsp;&emsp;"(B) Information on any actions to repair or replace ASOS/AWOS that are out of service due to technical or weather-related events, including an estimated timeline to return the systems to service.
+
+&emsp;&emsp;"(C) A portal on such publicly available website for the public to report ASOS/AWOS outages.
+
+&emsp;"(2)
+
+Data files.—The applicable Administrators shall make available the underlying data required under paragraph (1) for each ASOS/AWOS in a machine-readable format.
+
+"(c)
+
+Applicable Administrators.—In this section, the term 'applicable Administrators' means—
+
+&emsp;"(1) the Administrator of the FAA \[Federal Aviation Administration\]; and
+
+&emsp;"(2) the Administrator of the National Oceanic and Atmospheric Administration."
+
+#### Providing Non-Federal Weather Observer Training to Airport Personnel
+
+Pub. L. 118–63, title IV, §419, May 16, 2024, 138 Stat. 1163, provided that: "The Administrator \[of the Federal Aviation Administration\] may take such actions as are necessary to provide training that is easily accessible and streamlined for airport personnel to become certified as non-Federal weather observers so that such personnel can manually provide weather observations in any case in which automated surface observing systems and automated weather observing systems experience outages and errors to ensure operational safety at airports."
 
 #### Improved Safety in Rural Areas
 
-Pub. L. 115–254, div. B, title III, §322, Oct. 5, 2018, 132 Stat. 3270, provided that: "The Administrator \[of the Federal Aviation Administration\] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations, to operate to a destination with a published approach, in a noncontiguous State under instrument flight rules and conduct an instrument approach without a destination Meteorological Aerodrome Report (METAR) if a current Area Forecast, supplemented by noncertified local weather observations (such as weather cameras and human observations) is available, and an alternate airport that has a weather report is specified. The operator shall have approved procedures for departure and en route weather evaluation."
+Pub. L. 115–254, div. B, title III, §322, Oct. 5, 2018, 132 Stat. 3270, as amended by Pub. L. 118–63, title III, §339(a), May 16, 2024, 138 Stat. 1093, provided that: "The Administrator \[of the Federal Aviation Administration\] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations, to operate to a destination with a published approach, in a noncontiguous State under instrument flight rules and conduct an instrument approach without a destination Meteorological Aerodrome Report (METAR) if a current Area Forecast, supplemented by noncertified local weather observations (such as weather cameras and human observations) is available, and an alternate airport that has a weather report is specified. The operator shall have approved procedures for departure and en route weather evaluation."
+
+<i>\[Pub. L. 118–63, title III, §339, May 16, 2024, 138 Stat. 1093, provided that, effective 12 months after May 16, 2024, section 322 of Pub. L. 115–254, set out above, is amended to read as follows:</i>
+
+<i>\["(a)</i>
+
+<i>In General.—The Administrator \[of the Federal Aviation Administration\] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations—</i>
+
+&emsp;<i>\["(1) to operate under instrument flight rules (in this section referred to as 'IFR') to a destination in a noncontiguous State that has a published instrument approach but does not have a Meteorological Aerodrome Report (in this section referred to as 'METAR'); and</i>
+
+&emsp;<i>\["(2) to conduct an instrument approach at such destination if—</i>
+
+&emsp;&emsp;<i>\["(A) a current Area Forecast, supplemented by noncertified destination weather observations (such as weather cameras and other noncertified observations), is available, and, at the time of departure, the combination of the Area Forecast and noncertified observation indicates that weather is expected to be at or above approach minimums upon arrival;</i>
+
+&emsp;&emsp;<i>\["(B) prior to commencing an approach, the air carrier has a means to communicate to the pilot of the aircraft whether the destination weather observation is either at or above minimums for the approach to be flown; and</i>
+
+&emsp;&emsp;<i>\["(C) in the event the destination weather observation is below such minimums, a suitable alternate airport that has a METAR is specified in the IFR flight plan.</i>
+
+<i>\["(b)</i>
+
+<i>Application Template.—</i>
+
+&emsp;<i>\["(1)</i>
+
+<i>In general.—The Administrator shall develop an application template with standardized, specific approval criteria to enable FAA \[Federal Aviation Administration\] inspectors to objectively evaluate the application of an air carrier to operate in the manner described in subsection (a).</i>
+
+&emsp;<i>\["(2)</i>
+
+<i>Requirements.—The template required under paragraph (1) shall include a place in such template for an air carrier to describe—</i>
+
+&emsp;&emsp;<i>\["(A) how any non-certified human observations will be conducted; and</i>
+
+&emsp;&emsp;<i>\["(B) how such observations will be communicated—</i>
+
+&emsp;&emsp;&emsp;<i>\["(i) to air carriers prior to dispatch; and</i>
+
+&emsp;&emsp;&emsp;<i>\["(ii) to pilots prior to approach.</i>
+
+&emsp;<i>\["(3)</i>
+
+<i>Response to application.—</i>
+
+&emsp;&emsp;<i>\["(A)</i>
+
+<i>Timeline.—The Administrator shall ensure—</i>
+
+&emsp;&emsp;&emsp;<i>\["(i) that the Administrator has the ability to respond to an application of an air carrier not later than 30 days after receipt of such application; and</i>
+
+&emsp;&emsp;&emsp;<i>\["(ii) in the event the Administrator cannot respond within 30 days, that the Administrator informs the air carrier of the expected response time with respect to the application of the air carrier.</i>
+
+&emsp;&emsp;<i>\["(B)</i>
+
+<i>Rejection.—In the event that the Administrator rejects an application of an air carrier, the Adminis</i><i>trator shall inform the air carrier of the specific criteria that were the cause for rejection."\]</i>
+
+\[Pub. L. 118–63, title III, §339(b), May 16, 2024, 138 Stat. 1094, provided that: "The amendments made by this section \[amending section 322 of Pub. L. 115–254, set out above\] shall take effect on the date that is 12 months after the date of enactment of this Act \[May 16, 2024\]."\]
 
 #### Terminal Aerodrome Forecast
 
@@ -149,6 +247,4 @@ Pub. L. 106–181, title VII, §728, Apr. 5, 2000, 114 Stat. 168, provided that:
 &emsp;"(1) the Administrator determines that the system provides consistent reporting of changing meteorological conditions and notifies Congress in writing of that determination; and
 
 &emsp;"(2) 60 days have passed since the report was transmitted to Congress."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

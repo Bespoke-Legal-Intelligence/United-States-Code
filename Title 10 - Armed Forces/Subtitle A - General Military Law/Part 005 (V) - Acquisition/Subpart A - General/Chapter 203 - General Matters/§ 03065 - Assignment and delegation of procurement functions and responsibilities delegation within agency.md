@@ -42,7 +42,7 @@ Subsecs. (b), (c). Pub. L. 116–283, §1807(d)(2)(A), (B), transferred subsecs.
 
 <b>2001</b>—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
-<b>1994</b>—Pub. L. 103–355 substituted "Assignment and delegation of procurement functions and responsibilities" for "Delegation" as section catchline and amended text generally. Prior to amendment, text read as follows: "Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter."
+<b>1994</b>—Pub. L. 103–355 substituted "Assignment and delegation of procurement functions and responsibilities" for "Delegation" as section catchline and amended text generally. Prior to amendment, text read as follows: "Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject tohis direction, to any other officer or official of that agency, any power under this chapter."
 
 <b>1984</b>—Pub. L. 98–577 struck out "(a)" before "Except as provided in" and struck out subsec. (b) which related to delegation of authority by heads of procuring activities of agencies of certain functions.
 

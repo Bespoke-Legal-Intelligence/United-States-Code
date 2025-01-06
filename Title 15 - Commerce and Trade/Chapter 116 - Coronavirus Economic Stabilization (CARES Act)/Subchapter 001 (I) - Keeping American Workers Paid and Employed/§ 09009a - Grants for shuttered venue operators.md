@@ -8,7 +8,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible person or entity" means a live venue operator or promoter, theatrical producer, or live performing arts organization operator, a relevant museum operator, a motion picture theatre operator, or a talent representative that meets the following requirements:
+&emsp;&emsp;The term "eligible person or entity" means a live venue operator or promoter,theatrical producer, or live performing arts organization operator, a relevant museum operator, a motion picture theatre operator, or a talent representative that meets the following requirements:
 
 &emsp;&emsp;&emsp;(i) The live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative—
 
@@ -108,7 +108,7 @@ In this section:
 
 #### (D) Multiple business entities
 
-&emsp;&emsp;Each business entity of an eligible person or entity that also meets the requirementsunder subparagraph (A) and that is not described in subparagraph (B) shall be treated by the Administrator as an independent, non-affiliated entity for the purposes of this section.
+&emsp;&emsp;Each business entity of an eligible person or entity that also meets the requirements under subparagraph (A) and that is not described in subparagraph (B) shall be treated by the Administrator as an independent, non-affiliated entity for the purposes of this section.
 
 #### (2) Exchange; issuer; security
 
@@ -256,7 +256,7 @@ In this section:
 
 #### (iv) Limit on use of amounts for priority applicants
 
-&emsp;&emsp;&emsp;The Administrator may use not more than 80 percent of the amounts appropriated under section 323(d)(1)(H) of this Act to carry out this section to make initial grants under this paragraph to eligible persons or entities described in clause (i) or (ii) of this subparagraph that apply for a grant under this paragraph during the initial 28-day period during which the Administrator awards grants under this paragraph.
+&emsp;&emsp;&emsp;The Administrator may use not more than 80 percent of the amounts appropriated under section 323(d)(1)(H) of this Act to carry out this section to make initial grants under this paragraph to eligible persons or entities described in clause (i) or (ii) of this subparagraph that apply for a grant under this paragraph during theinitial 28-day period during which the Administrator awards grants under this paragraph.
 
 #### (C) Grants after priority periods
 
@@ -342,7 +342,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), amounts received under a grant under this section may be used for costs incurred during the period beginning on March 1, 2020, and ending on December 31, 2021.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), amounts received under a grant under thissection may be used for costs incurred during the period beginning on March 1, 2020, and ending on December 31, 2021.
 
 #### (ii) Extension for supplemental grants
 
@@ -384,7 +384,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vi) covered worker protection expenditures;
 
-&emsp;&emsp;&emsp;(vii) payments made to independent contractors, as reported on Form–1099 MISC, not to exceed a total of $100,000 in annualcompensation for any individual employee of an independent contractor; and
+&emsp;&emsp;&emsp;(vii) payments made to independent contractors, as reported on Form–1099 MISC, not to exceed a total of $100,000 in annual compensation for any individual employee of an independent contractor; and
 
 &emsp;&emsp;&emsp;(viii) other ordinary and necessary business expenses, including—
 
@@ -442,7 +442,7 @@ The Administrator shall increase oversight of eligible persons and entities rece
 
 #### (1) In general
 
-&emsp;Not later than 45 days after December 27, 2020, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives an audit plan that details—
+&emsp;Not later than 45 days after December 27, 2020, the Administrator shall submit to theCommittee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives an audit plan that details—
 
 &emsp;&emsp;(A) the policies and procedures of the Administrator for conducting oversight and audits of grants under this section; and
 
@@ -476,7 +476,7 @@ The CARES Act, referred to in subsec. (b)(2)(B)(iii)(I), also known as the Coron
 
 Section 323(d)(1)(H) of this Act, referred to in subsecs. (b)(2)(B)(iv) and (f)(2), is section 323(d)(1)(H) of title III of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2021, which is not classified to the Code.
 
-Section 636m(a) of this title, as redesignated, transferred, and amended by this Act, referred to in subsec.\(d)(2)(A)(i), probably means section 636m(a) of this title, as redesignated, transferred, and amended by title III of div. N of Pub. L. 116–260.
+Section 636m(a) of this title, as redesignated, transferred, and amended by this Act, referred to in subsec. (d)(2)(A)(i), probably means section 636m(a) of this title, as redesignated, transferred, and amended by title III of div. N of Pub. L. 116–260.
 
 #### Codification
 

@@ -22,7 +22,7 @@ The Secretary shall carry out activities under this section—
 
 #### (2) In general
 
-&emsp;The Commodity Credit Corporation shall establish and carry out a program, to be known as the "Market Access Program", to encourage the development, maintenance, and expansion of commercial export markets for United States agricultural commodities (includingcommodities that are organically produced (as defined in section 6502 of this title)) through cost-share assistance to eligible trade organizations that implement a foreign market development program.
+&emsp;The Commodity Credit Corporation shall establish and carry out a program, to be known as the "Market Access Program", to encourage the development, maintenance, and expansion of commercial export markets for United States agricultural commodities (including commodities that are organically produced (as defined in section 6502 of this title)) through cost-share assistance to eligible trade organizations that implement a foreign market development program.
 
 #### (3) Participation requirements
 
@@ -152,7 +152,7 @@ The Secretary shall carry out activities under this section—
 
 #### (2) Establishment
 
-&emsp;The Secretary shall establish and, in cooperation with eligible trade organizations, carry out a program to be known as the "Foreign Market Development Cooperator Program" to maintain and develop foreign markets for United States agricultural commodities.
+&emsp;The Secretary shall establish and, in cooperation with eligible trade organizations,carry out a program to be known as the "Foreign Market Development Cooperator Program" to maintain and develop foreign markets for United States agricultural commodities.
 
 #### (3) Use of funds
 

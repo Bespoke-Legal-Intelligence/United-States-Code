@@ -60,7 +60,7 @@ Funding.—Payments for increased educational assistance under this section shal
 
 Regulations.—The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367; amended Pub. L. 111–275, title X, §1001(g)(4), (5), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §109(a)–(b)(1), Jan. 4, 2011, 124 Stat. 4119, 4120; Pub. L. 115–48, title I, §105(c)(3), Aug. 16, 2017, 131 Stat. 976.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367; amended Pub. L. 111–275, title X, §1001(g)(4), (5), Oct. 13, 2010, 124 Stat.2896; Pub. L. 111–377, title I, §109(a)–(b)(1), Jan. 4, 2011, 124 Stat. 4119, 4120; Pub. L. 115–48, title I, §105(c)(3), Aug. 16, 2017, 131 Stat. 976.)
 
 #### <b>Editorial Notes</b>
 

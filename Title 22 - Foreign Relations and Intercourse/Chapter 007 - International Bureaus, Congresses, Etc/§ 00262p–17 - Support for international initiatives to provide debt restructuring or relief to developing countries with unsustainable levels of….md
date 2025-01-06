@@ -14,7 +14,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, shal
 
 &emsp;&emsp;(D) expansion of Common Framework country eligibility to lower middle-income countries who otherwise meet the existing criteria;
 
-&emsp;&emsp;(E) improvements to the Common Framework process with the aim of ensuring access to debt relief in a timely manner for thosecountries eligible and who request treatment; and
+&emsp;&emsp;(E) improvements to the Common Framework process with the aim of ensuring access to debt relief in a timely manner for those countries eligible and who request treatment; and
 
 &emsp;&emsp;(F) consistent enforcement and improvement of the policies of multilateral institutions relating to asset-based and revenue-based borrowing by participating debtors, and coordinated standards on restructuring collateralized debt;
 
@@ -26,7 +26,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, shal
 
 Not later than 120 days after December 23, 2022, and annually thereafter, the Secretary of the Treasury, in coordination with the Secretary of State, shall submit to the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate and the Committees on Financial Services and Foreign Affairs of the House of Representatives a report that describes—
 
-&emsp;(1) any actions that have been taken, in coordination with international financial institutions, by official creditors, including the government of, and state-owned enterprises in, the People's Republic of China, and relevant commercial creditor groups to advance debt restructuring or relief for countries with unsustainable debt that have sought restructuring or relief under the Common Framework, any successor framework or mechanism, or under any other coordinated international arrangement for sovereign debt restructuring in which the United States participates;
+&emsp;(1) any actions that have been taken, in coordination with international financial institutions, by official creditors, including thegovernment of, and state-owned enterprises in, the People's Republic of China, and relevant commercial creditor groups to advance debt restructuring or relief for countries with unsustainable debt that have sought restructuring or relief under the Common Framework, any successor framework or mechanism, or under any other coordinated international arrangement for sovereign debt restructuring in which the United States participates;
 
 &emsp;(2) any implementation challenges that hinder the ability of the Common Framework to provide timely debt restructuring for any country with unsustainable debt that seeks debt restructuring or debt payment relief, including any refusal of a creditor to participate in appropriate burden-sharing, including failure to share (or publish, as appropriate) all material information needed to assess debt sustainability; and
 

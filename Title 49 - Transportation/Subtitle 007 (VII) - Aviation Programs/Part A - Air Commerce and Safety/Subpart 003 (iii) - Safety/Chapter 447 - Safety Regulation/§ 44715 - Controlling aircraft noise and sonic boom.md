@@ -50,11 +50,11 @@ Proposed Regulations of Administrator of Environmental Protection Agency.—The 
 
 Consultation and Reports.—(1) If the Administrator of the Environmental Protection Agency believes that the action of the Administrator of the Federal Aviation Administration under subsection (c)(1)(B) or (2) of this section does not protect the public health and welfare from aircraft noise or sonic boom, consistent with the considerations in subsection (b) of this section, the Administrator of the Environmental Protection Agency shall consult with the Administrator of the Federal Aviation Administration and may request a report on the advisability of prescribing the regulation as originally proposed. The request, including a detailed statement of the information on which the request is based, shall be published in the Federal Register.
 
-(2) The Administrator of the Federal Aviation Administration shall report to the Administrator of the Environmental Protection Agency within the time, if any, specified in the request. However, the time specified must be at least 90 days after the date of the request. The report shall—
+(2) The Administrator of the Federal Aviation Administration shall report to the Administrator of the Environmental Protection Agencywithin the time, if any, specified in the request. However, the time specified must be at least 90 days after the date of the request. The report shall—
 
 &emsp;(A) be accompanied by a detailed statement of the findings of the Administrator of the Federal Aviation Administration and the reasons for the findings;
 
-&emsp;(B) identify any statement related to an action under subsection (c) of this section filedunder section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C));
+&emsp;(B) identify any statement related to an action under subsection (c) of this section filed under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C));
 
 &emsp;(C) specify whether and where that statement is available for public inspection; and
 
@@ -144,5 +144,53 @@ In subsection (f), the words "under any provision of this chapter" and "that . 
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Hawaii Air Noise and Safety Task Force
+
+Pub. L. 118–63, title III, §364, May 16, 2024, 138 Stat. 1131, provided that:
+
+"(a)
+
+Participation.—To the extent acceptable to the State of Hawaii, the Administrator \[of the Federal Aviation Administration\] shall participate as a technical advisor in the air noise and safety task force established by State legislation in the State of Hawaii.
+
+"(b)
+
+Rulemaking.—Not later than 18 months after the date on which the task force described in subsection (a) delivers findings and consensus recommendations to the FAA \[Federal Aviation Administration\], the Administrator shall, consistent with maintaining the safety and efficiency of the national airspace system—
+
+&emsp;"(1) issue an intent to proceed with a proposed rulemaking;
+
+&emsp;"(2) take other action sufficient to carry out feasible, consensus recommendations; or
+
+&emsp;"(3) issue a statement determining that no such rule or other action is warranted, including a detailed explanation of the rationale for such determination.
+
+"(c)
+
+Considerations.—In determining whether to proceed with a proposed rulemaking, guidance, or other action under subsection (b) and, if applicable, in developing the proposed rule, guidance, or carrying out the other action, the Administrator shall consider the findings and consensus recommendations of the task force described in subsection (a).
+
+"(d)
+
+Authorities.—In issuing the rule, guidance, or carrying out the other action described in subsection (b), the Administrator may take actions in the State of Hawaii to—
+
+&emsp;"(1) provide commercial air tour operators with preferred routes, times, and minimum altitudes for the purpose of noise reduction, so long as such recommendations do not negatively impact safety conditions;
+
+&emsp;"(2) provide commercial air tour operators with information regarding quiet aircraft technology; and
+
+&emsp;"(3) establish a method for residents of the State of Hawaii to publicly report noise disruptions due to commercial air tours and for commercial air tour operators to respond to complaints.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed as providing the Administrator with authority to ban commercial air tour flights in the State of Hawaii for the purposes of noise reduction.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Commercial air tour.—The term 'commercial air tour' has the meaning given such term in section 136.1 of title 14, Code of Federal Regulations.
+
+&emsp;"(2)
+
+Commercial air tour operator.—The term 'commercial air tour operator' has the meaning given such term in section 136.1 of title 14, Code of Federal Regulations."
 

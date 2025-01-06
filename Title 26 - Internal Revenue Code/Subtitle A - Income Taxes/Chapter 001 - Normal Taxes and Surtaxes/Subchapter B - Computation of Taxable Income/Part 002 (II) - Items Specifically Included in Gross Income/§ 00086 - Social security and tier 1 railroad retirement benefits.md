@@ -12,7 +12,7 @@
 
 #### (2) Additional amount
 
-&emsp;In the case of a taxpayer with respect to whom the amount determined under subsection (b)(1)(A) exceeds the adjusted base amount, the amount included in gross income under this section shall be equal to the lesser of—
+&emsp;In the case of a taxpayer with respect to whom the amount determined under subsection (b)(1)(A) exceeds the adjusted base amount, the amount included in gross incomeunder this section shall be equal to the lesser of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the taxpayer makes an election under this subsection for the taxable year,
 
-> then the amount included in gross income under this section for the taxable year by reason of the receipt of such portion shall not exceed the sum of the increases in gross income under this chapter for prior taxable years which would result solely from taking into account such portion in the taxable years to which it is attributable.
+> then the amount included in gross income under this section for the taxable year by reason of the receipt of such portion shall not exceed the sum of the increases in gross income under this chapter for prior taxable years which would resultsolely from taking into account such portion in the taxable years to which it is attributable.
 
 #### (2) Special rules
 
@@ -266,7 +266,7 @@ Amendment by section 131(b)(2) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311–1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Amendment by section 12111(b) of Pub. L. 99–272 applicable with respect to benefit checks issued for months ending after Apr. 7, 1986, see section 12111(c) of Pub. L. 99–272, set out as a note under section 909 of Title 42, The Public Health and Welfare.
 
@@ -296,5 +296,5 @@ Treatment of certain lump-sum payments received after december 31, 1983.—The a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

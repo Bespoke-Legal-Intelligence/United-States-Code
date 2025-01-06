@@ -32,7 +32,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 #### (1) Liability for tax
 
-&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spirits plant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, inthe business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
+&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spirits plant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
 
 #### (2) Relief from liability
 
@@ -52,7 +52,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 &emsp;&emsp;<b>(6) For provisions relating to transfer of tax liability for wine, see section 5043(a)(1)(A).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub.L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### <b>Editorial Notes</b>
 

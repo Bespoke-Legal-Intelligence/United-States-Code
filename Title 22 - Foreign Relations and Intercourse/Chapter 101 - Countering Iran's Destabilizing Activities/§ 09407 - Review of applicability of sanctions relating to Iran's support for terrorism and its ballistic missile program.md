@@ -38,5 +38,5 @@ Executive Order No. 13224, referred to in subsecs. (a)(2)(B) and (b), is Ex. Ord
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out as a note under section 9403 of this title.
+For delegation of functions of President under this section, see Memorandum of President of the UnitedStates, Oct. 11, 2017, 82 F.R. 50051, set out as a note under section 9403 of this title.
 

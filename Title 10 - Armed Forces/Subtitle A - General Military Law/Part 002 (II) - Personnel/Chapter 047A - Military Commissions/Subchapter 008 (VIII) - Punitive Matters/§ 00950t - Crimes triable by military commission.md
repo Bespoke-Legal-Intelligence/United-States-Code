@@ -20,7 +20,7 @@ Attacking protected property.—Any person subject to this chapter who intention
 
 &emsp;(5)
 
-Pillaging.—Any person subject to this chapter who intentionally and in the absence of military necessity appropriates or seizes property for private or personal use, without the consent of a person with authority to permit such appropriation or seizure, shall be punished as a military commission under this chapter may direct.
+Pillaging.—Any person subject to this chapter who intentionally and in the absence of military necessity appropriates or seizesproperty for private or personal use, without the consent of a person with authority to permit such appropriation or seizure, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(6)
 
@@ -28,7 +28,7 @@ Denying quarter.—Any person subject to this chapter who, with effective comman
 
 &emsp;(7)
 
-Taking hostages.—Any person subject to this chapter who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling anynation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Taking hostages.—Any person subject to this chapter who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(8)
 
@@ -92,7 +92,7 @@ Destruction of property in violation of the law of war.—Any person subject to 
 
 &emsp;(17)
 
-Using treachery or perfidy.—Any person subject to this chapter who, after inviting the confidence or belief of one or more persons that they were entitled to, or obliged to accord, protection under the law of war, intentionally makes use of that confidence or beliefin killing, injuring, or capturing such person or persons shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Using treachery or perfidy.—Any person subject to this chapter who, after inviting the confidence or belief of one or more persons that they were entitled to, or obliged to accord, protection under the law of war, intentionally makes use of that confidence or belief in killing, injuring, or capturing such person or persons shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(18)
 
@@ -152,7 +152,7 @@ In general.—Any person subject to this chapter who attempts to commit any offe
 
 &emsp;&emsp;(B)
 
-Scope of offense.—An act, done with specific intent to commit an offense under this chapter, amounting to more than mere preparation and tending, even though failing, to effect its commission, is an attempt to commit that offense.
+Scope of offense.—An act, done with specific intent to commit an offense under this chapter, amounting to more than merepreparation and tending, even though failing, to effect its commission, is an attempt to commit that offense.
 
 &emsp;&emsp;(C)
 

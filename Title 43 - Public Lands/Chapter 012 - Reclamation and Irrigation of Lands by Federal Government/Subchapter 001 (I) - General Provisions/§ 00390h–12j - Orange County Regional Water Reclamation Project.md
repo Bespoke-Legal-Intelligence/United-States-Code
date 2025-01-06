@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Orange County Regional Water Reclamation Project, to reclaim and reuse water within the service area of the Orange County Water District in California.
+The Secretary, in cooperation with the appropriate State and local authorities, is authorizedto participate in the design, planning, and construction of the Orange County Regional Water Reclamation Project, to reclaim and reuse water within the service area of the Orange County Water District in California.
 
 #### (b) Cost share
 

@@ -1,6 +1,6 @@
 ### §19060. Risk and resilience research
 
-The Director shall make awards on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to advance knowledge of risk assessment and predictability and to support the creation of tools and technologies, including advancing data analytics andutilization of artificial intelligence, for increased resilience through—
+The Director shall make awards on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to advance knowledge of risk assessment and predictability and to support the creation of tools and technologies, including advancing data analytics and utilization of artificial intelligence, for increased resilience through—
 
 &emsp;(1) improvements in our ability to understand, model, and predict extreme events and natural hazards;
 

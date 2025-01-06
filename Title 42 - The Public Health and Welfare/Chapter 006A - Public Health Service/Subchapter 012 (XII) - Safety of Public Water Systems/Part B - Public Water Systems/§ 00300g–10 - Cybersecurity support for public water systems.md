@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) shall establish a methodology for identifying specific public water systems for which cybersecurity support should be prioritized;
 
-&emsp;&emsp;&emsp;(ii) shall establish timelines for making voluntary technical support forcybersecurity available to specific public water systems;
+&emsp;&emsp;&emsp;(ii) shall establish timelines for making voluntary technical support for cybersecurity available to specific public water systems;
 
 &emsp;&emsp;&emsp;(iii) may include public water systems identified by the Administrator, in coordination with the Director, as needing technical support for cybersecurity;
 

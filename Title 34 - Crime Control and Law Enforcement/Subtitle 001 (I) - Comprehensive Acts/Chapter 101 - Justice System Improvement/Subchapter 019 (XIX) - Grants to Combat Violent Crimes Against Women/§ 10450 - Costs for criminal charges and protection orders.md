@@ -30,7 +30,7 @@ Section was formerly classified to section 3796gg–5 of Title 42, The Public He
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 113–4 inserted "modification, enforcement, dismissal, withdrawal" after "registration," in two places and ", dating violence, sexual assault, or stalking" after "felony domestic violence" and substituted "victim of domestic violence, dating violence, sexual assault, or stalking" for "victim of domestic violence, stalking, or sexual assault".
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–4 inserted "modification, enforcement, dismissal, withdrawal" after "registration," in two places and ", dating violence, sexualassault, or stalking" after "felony domestic violence" and substituted "victim of domestic violence, dating violence, sexual assault, or stalking" for "victim of domestic violence, stalking, or sexual assault".
 
 <b>2000</b>—Pub. L. 106–386, §1101(b)(1)(A), in section catchline, substituted "Costs" for "Filing costs" and inserted "and protection orders" after "charges".
 

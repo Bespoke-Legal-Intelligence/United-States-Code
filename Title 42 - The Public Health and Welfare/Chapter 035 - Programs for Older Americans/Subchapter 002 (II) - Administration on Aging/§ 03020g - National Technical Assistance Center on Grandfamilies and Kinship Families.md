@@ -12,7 +12,7 @@ The Center shall—
 
 &emsp;(2) encourage and support the implementation of the evidence-based, evidence-informed, and exemplary practices or programs identified under paragraph (1) to support grandfamilies and kinship families and to promote coordination of services for grandfamilies and kinship families across systems that support them;
 
-&emsp;(3) facilitate learning across States, territories, Indian Tribes, Tribal organizations, and urban Indian organizations for providing technical assistance, resources, and training related to issues described in paragraph (1) to individuals and entities across systems thatdirectly work with grandfamilies and kinship families;
+&emsp;(3) facilitate learning across States, territories, Indian Tribes, Tribal organizations, and urban Indian organizations for providing technical assistance, resources, and training related to issues described in paragraph (1) to individuals and entities across systems that directly work with grandfamilies and kinship families;
 
 &emsp;(4) help government programs, nonprofit and other community-based organizations, and Indian Tribes, Tribal organizations, and urban Indian organizations, serving grandfamilies and kinship families, to plan and coordinate responses to assist grandfamilies and kinship families during national, State, Tribal, territorial, and local emergencies and disasters; and
 

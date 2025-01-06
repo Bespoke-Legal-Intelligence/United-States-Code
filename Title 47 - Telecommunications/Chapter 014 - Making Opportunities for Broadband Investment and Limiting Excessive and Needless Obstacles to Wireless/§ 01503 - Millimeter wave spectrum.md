@@ -14,7 +14,7 @@ In conducting a rulemaking under subsection (a), the Commission shall—
 
 &emsp;&emsp;(B) to permit additional licensed operations in such band on a shared basis; and
 
-&emsp;(2) include technical characteristics under which the band described in subsection (a)may be employed for mobile or fixed terrestrial wireless operations, including any appropriate coexistence requirements.
+&emsp;(2) include technical characteristics under which the band described in subsection (a) may be employed for mobile or fixed terrestrial wireless operations, including any appropriate coexistence requirements.
 
 #### (c) Spectrum made available on and after February 11, 2016
 

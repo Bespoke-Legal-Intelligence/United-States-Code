@@ -24,7 +24,7 @@
 
 &emsp;The Secretary of Defense and the Director of National Intelligence shall select participants for each consortium and or <sup>1</sup> partnership formed with incentives under paragraph (1). In selecting such participants, the Secretary and the Director may jointly consider whether the companies—
 
-&emsp;&emsp;(A) have participated in previous programs and projects of the Department of Defense, Department of Energy, or the intelligence community, including—
+&emsp;&emsp;(A) have participated in previous programs and projects of the Department of Defense,Department of Energy, or the intelligence community, including—
 
 &emsp;&emsp;&emsp;(i) the Trusted Integrated Circuit program of the Intelligence Advanced Research Projects Activity;
 
@@ -90,7 +90,7 @@
 
 &emsp;The national network for microelectronics research and development shall—
 
-&emsp;&emsp;(A) enable cost effective exploration of new materials, devices, and architectures, and prototyping in domestic facilities to safeguard domestic intellectual property;
+&emsp;&emsp;(A) enable cost effective exploration of new materials, devices, and architectures,and prototyping in domestic facilities to safeguard domestic intellectual property;
 
 &emsp;&emsp;(B) accelerate the transition of new technologies to domestic microelectronics manufacturers; and
 
@@ -112,7 +112,7 @@
 
 #### References in Text
 
-Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E),is section 224 of Pub. L. 116–92, which is set out as a note preceding section 4501 of Title 10, Armed Forces.
+Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E), is section 224 of Pub. L. 116–92, which is set out as a note preceding section 4501 of Title 10, Armed Forces.
 
 Section 2371 of title 10, referred to in subsec. (a)(4), was renumbered section 4021 of Title 10, Armed Forces, by Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
 

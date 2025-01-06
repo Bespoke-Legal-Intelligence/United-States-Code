@@ -14,7 +14,7 @@ Determination of Quantities To Be Procured for Low-Rate Initial Production.—(1
 
 (4) The quantity of articles of a major system that may be procured for low-rate initial production may not be less than one operationally configured production unit unless another quantity is established at the milestone B decision.
 
-(5) The Secretary of Defense shall include a statement of the quantity determined underparagraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone B decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of this paragraph, the term "SAR" means a Selected Acquisition Report submitted under section 4351 of this title.
+(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone B decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of this paragraph, the term "SAR" means a Selected Acquisition Report submitted under section 4351 of this title.
 
 (b)
 
@@ -28,7 +28,7 @@ Low-Rate Initial Production of Weapon Systems.—Except as provided in subsectio
 
 (c)
 
-Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
+Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and ratethat (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 
 (Added Pub. L. 101–189, div. A, title VIII, §803(a), Nov. 29, 1989, 103 Stat. 1487, §2400; amended Pub. L. 103–355, title III, §3015, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title X, §1062(d), div. D, title XLIII, §4321(b)(13), Feb. 10, 1996, 110 Stat. 444, 673; Pub. L. 107–107, div. A, title VIII, §821(c), Dec. 28, 2001, 115 Stat. 1182; renumbered §4231 and amended Pub. L. 116–283, div. A, title XVIII, §1847(c)(1), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 117–81, div. A, title XVII, §1701(o)(6)(C)(ii), Dec. 27, 2021, 135 Stat. 2147.)
 

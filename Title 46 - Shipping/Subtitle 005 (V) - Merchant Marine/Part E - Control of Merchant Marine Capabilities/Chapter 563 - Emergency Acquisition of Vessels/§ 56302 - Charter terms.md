@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If a vessel is requisitioned for use but not ownership under this chapter, theSecretary of Transportation, at the time of requisition or as soon thereafter as the situation allows, shall offer the person entitled to possession of the vessel a charter containing—
+In General.—If a vessel is requisitioned for use but not ownership under this chapter, the Secretary of Transportation, at the time of requisition or as soon thereafter as the situation allows, shall offer the person entitled to possession of the vessel a charter containing—
 
 &emsp;(1) the terms the Secretary believes should govern the relationship between the United States Government and the person; and
 

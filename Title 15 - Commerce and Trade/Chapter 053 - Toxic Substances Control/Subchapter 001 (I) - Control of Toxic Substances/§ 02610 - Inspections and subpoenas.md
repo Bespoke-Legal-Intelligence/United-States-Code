@@ -18,7 +18,7 @@ For purposes of administering this chapter, the Administrator, and any duly desi
 
 &emsp;(D) personnel information, or
 
-&emsp;(E) research information (other than information required by this chapter or under a rule promulgated, order issued, or consent agreement entered into thereunder),
+&emsp;(E) research information (other than information required by this chapter or under arule promulgated, order issued, or consent agreement entered into thereunder),
 
 > unless the nature and extent of such information are described with reasonable specificity in the written notice required by subsection (a) for such inspection.
 

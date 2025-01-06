@@ -90,7 +90,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a part D rebatable drug that is a line extension of a part D rebatable drug that is an oral solid dosage form, the Secretary shall establish a formula for determining the rebate amount under paragraph (1) and the inflation adjusted payment amount under paragraph (3) with respect to such part D rebatabledrug and an applicable period, consistent with the formula applied under subsection (c)(2)(C) of section 1396r–8 of this title for determining a rebate obligation for a rebate period under such section.
+&emsp;&emsp;&emsp;In the case of a part D rebatable drug that is a line extension of a part D rebatable drug that is an oral solid dosage form, the Secretary shall establish a formula for determining the rebate amount under paragraph (1) and the inflation adjusted payment amount under paragraph (3) with respect to such part D rebatable drug and an applicable period, consistent with the formula applied under subsection (c)(2)(C) of section 1396r–8 of this title for determining a rebate obligation for a rebate period under such section.
 
 #### (ii) Line extension defined
 

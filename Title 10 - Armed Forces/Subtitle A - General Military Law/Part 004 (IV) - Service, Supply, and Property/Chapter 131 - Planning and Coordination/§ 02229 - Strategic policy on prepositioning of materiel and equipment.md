@@ -58,7 +58,7 @@ Annual Certification.—(1) Not later than the date of the submission of the Pre
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291 inserted "support for crisis response elements," after "service requirements,".
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–66 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall maintain a strategicpolicy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands."
+<b>2013</b>—Subsec. (a). Pub. L. 113–66 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands."
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–81 added subsec. (d).
 
@@ -67,6 +67,70 @@ Annual Certification.—(1) Not later than the date of the submission of the Pre
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+#### Plans Regarding Condition and Maintenance of Prepositioned Stockpiles of Navy, Marine Corps, and Air Force
+
+Pub. L. 118–159, div. A, title III, §333, Dec. 23, 2024, 138 Stat. 1855, provided that:
+
+"(a)
+
+Plan Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Navy and the Secretary of the Air Force shall each develop a plan to improve the required inspection procedures for the prepositioned stockpiles of the Armed Force concerned, for the purpose of identifying deficiencies and conducting maintenance repairs at levels necessary to ensure such prepositioned stockpiles are mission capable.
+
+&emsp;"(2)
+
+Additional requirements for navy and marine corps plan.—The plan of the Secretary of the Navy required under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) an analysis of the readiness of ships of the Navy and Marine Corps that hold or facilitate the off-loading of prepositioned stockpiles; and
+
+&emsp;&emsp;"(B) suggestions for improving inspection procedures of such ships.
+
+"(b)
+
+Implementation.—Not later than 30 days after the date on which the Secretary concerned completes the development of a plan under subsection (a), and not less frequently than twice each year thereafter for the three-year period beginning on the date of the enactment of this Act, the Secretary concerned shall inspect the prepositioned stockpiles of the Armed Force concerned in accordance with the procedures under such plan.
+
+"(c)
+
+Briefings.—
+
+&emsp;"(1)
+
+Briefing on plan.—Not later than 120 days after the date of the enactment of this Act, each Secretary concerned shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the plan of the Secretary developed under subsection (a).
+
+&emsp;"(2)
+
+Briefings on status of prepositioned stockpiles.—Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafterfor the three-year period beginning on the date of the enactment of this Act, each Secretary concerned shall provide to the congressional defense committees a briefing on the status and condition of the prepositioned stockpiles of the Armed Force concerned.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Armed Force concerned' means—
+
+&emsp;&emsp;"(A) the Navy and the Marine Corps, with respect to the Secretary of the Navy;
+
+&emsp;&emsp;"(B) the Air Force, with respect to the Secretary of the Air Force.
+
+&emsp;"(2) The term 'Secretary concerned' means—
+
+&emsp;&emsp;"(A) the Secretary of the Navy, with respect to matters concerning the Navy and the Marine Corps; and
+
+&emsp;&emsp;"(B) the Secretary of the Air Force, with respect to matters concerning the Air Force."
+
+#### Pre-Positioned Stocks of Finished Defense Textile Articles
+
+Pub. L. 118–159, div. A, title III, §336, Dec. 23, 2024, 138 Stat. 1856, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may establish pre-positioned stocks of finished defense textile articles, such as uniforms and protective gear, to support the rapid mobilization and sustainment of members of the Armed Forces during a contingency operation.
+
+"(b)
+
+Plan to Reduce Delays.—The Secretary shall develop a plan for phasing in and targeting policy changes relating to defense textile articles to reduce delinquencies and mitigate delays between policy decisions that may result in the miscalculation of stockpiling in order to ensure ample finished textiles are available to prevent a scenario in which the demand for certain articles is ramping down by the time the supply chain can ramp up to meet the need."
 
 #### Plan Regarding Condition and Maintenance of Prepositioned Stockpiles of the Army
 

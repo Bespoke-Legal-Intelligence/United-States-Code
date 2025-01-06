@@ -92,7 +92,7 @@ Sentencing Upon Remand.—A district court to which a case is remanded pursuant 
 
 &emsp;(2) The court shall not impose a sentence outside the applicable guidelines range except upon a ground that—
 
-&emsp;&emsp;(A) was specifically and affirmatively included in the written statement of reasons required by section 3553(c) in connectionwith the previous sentencing of the defendant prior to the appeal; and
+&emsp;&emsp;(A) was specifically and affirmatively included in the written statement of reasons required by section 3553(c) in connection with the previous sentencing of the defendant prior to the appeal; and
 
 &emsp;&emsp;(B) was held by the court of appeals, in remanding the case, to be a permissible ground of departure.
 
@@ -166,7 +166,7 @@ Subsec. (g). Pub. L. 101–647, §3503, inserted "(except for the requirement of
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7103(a)(1), struck out "issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)" after "guidelines".
 
-Subsec. (a)(3). Pub. L. 100–690, §7103(a)(2), added par. (3) and struck out former par. (3) which read as follows: "was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is greater than—
+Subsec. (a)(3). Pub. L. 100–690, §7103(a)(2), added par. (3) and struck out former par. (3) which read as follows:"was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is greater than—
 
 &emsp;"(A) the sentence specified in the applicable guideline to the extent that the sentence includes a greater fine or term of imprisonment or term of supervised release than the maximum established in the guideline, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the maximum established in the guideline; and
 
@@ -174,7 +174,7 @@ Subsec. (a)(3). Pub. L. 100–690, §7103(a)(2), added par. (3) and struck out f
 
 Subsec. (a)(4). Pub. L. 100–690, §7103(a)(4), added par. (4) and struck out former par. (4) which read as follows: "was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or greater than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure."
 
-Subsec. (b). Pub. L. 100–690, §7103(a)(5), inserted ", with the personal approval of the Attorney General or the Solicitor General," after "The Government" inintroductory provisions, and struck out concluding provisions which read as follows: "and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal."
+Subsec. (b). Pub. L. 100–690, §7103(a)(5), inserted ", with the personal approval of the Attorney General or the Solicitor General," after "The Government" in introductory provisions, and struck out concluding provisions which read as follows: "and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal."
 
 Subsec. (b)(2). Pub. L. 100–690, §7103(a)(1), struck out "issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)" after "guidelines".
 

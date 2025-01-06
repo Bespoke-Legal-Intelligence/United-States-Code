@@ -10,7 +10,7 @@ In general.—The Administrator of the Federal Aviation Administration may arran
 
 &emsp;(2)
 
-Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routeswould promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
+Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
 (b)
 
@@ -26,7 +26,7 @@ Indemnification.—The Government shall make an agreement to indemnify any perso
 
 Authority of Office of Aeronautical Charting and Cartography.—Effective October 1, 2000, the Administrator is vested with and shall exercise the functions, powers, and duties of the Secretary of Commerce and other officers of the Department of Commerce that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for the safe and efficient navigation of air commerce, under the following authorities:
 
-&emsp;(1) Sections 1 through 9 of the Act entitled "An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947,<sup>1</sup> (33 U.S.C. 883a–883h).
+&emsp;(1) Sections 1 through 9 of the Act entitled "An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes", approved August 6, 1947 (33 U.S.C. 883a–883h).
 
 &emsp;(2) Section 6082 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (33 U.S.C. 883j).
 
@@ -102,7 +102,7 @@ Distribution.—The Administrator may distribute aeronautical products and provi
 
 &emsp;&emsp;(B) at prices the Administrator establishes, to the departments and officers of the United States requiring them for official use; and
 
-&emsp;&emsp;(C) at reduced or no charge where, in the judgment of the Administrator, furnishing the aeronautical product or service to a recipient is a reasonable exchange for voluntary contribution of information by the recipient to the activities under this section.
+&emsp;&emsp;(C) at reduced or no charge where, in the judgment of the Administrator, furnishingthe aeronautical product or service to a recipient is a reasonable exchange for voluntary contribution of information by the recipient to the activities under this section.
 
 &emsp;(4)
 
@@ -112,7 +112,7 @@ Fees.—The fees provided for in this subsection are for the purpose of reimburs
 
 Crediting amounts received.—Notwithstanding any other provision of law, amounts received for the sale of products created and services performed under this section shall be fully credited to the account of the Federal Aviation Administration that funded the provision of the products or services and shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1202; Pub. L. 106–181, title VI, §603(a), Apr. 5, 2000, 114 Stat. 150; Pub. L. 106–424, §17(a), Nov. 1, 2000, 114 Stat. 1888.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1202; Pub. L. 106–181, title VI, §603(a), Apr. 5, 2000, 114 Stat. 150; Pub. L. 106–424, §17(a), Nov. 1, 2000, 114 Stat. 1888; Pub. L. 118–63, title XI, §1101(o), May 16, 2024, 138 Stat. 1414.)
 
 Historical and Revision Notes
 
@@ -160,6 +160,8 @@ Sections 1 through 9 of the Act entitled "An Act to define the functions and dut
 
 #### Amendments
 
+<b>2024</b>—Subsec. (c)(1). Pub. L. 118–63 struck out comma after "August 6, 1947".
+
 <b>2000</b>—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 "(a)
@@ -204,11 +206,11 @@ Pub. L. 106–181, title VI, §604, Apr. 5, 2000, 114 Stat. 152, provided that:
 
 Continued Effectiveness of Directives.—All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, privileges, and financial assistance that—
 
-&emsp;"(1) have been issued, made, granted, or allowed to become effective by the President of the United States, the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by thistitle \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\]; and
+&emsp;"(1) have been issued, made, granted, or allowed to become effective by the President of the United States, the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\]; and
 
 &emsp;"(2) are in effect on the date of transfer,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President of the United States, the Administrator of the Federal Aviation Administration, a court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President of the UnitedStates, the Administrator of the Federal Aviation Administration, a court of competent jurisdiction, or by operation of law.
 
 "(b)
 
@@ -257,6 +259,4 @@ Other Transfers.—Effective October 1, 2000, the personnel employed in connecti
 #### Procurement of Private Enterprise Mapping, Charting, and Geographic Information Systems
 
 Pub. L. 106–181, title VI, §607, Apr. 5, 2000, 114 Stat. 154, provided that: "The Administrator \[of the Federal Aviation Administration\] shall consider procuring mapping, charting, and geographic information systems necessary to carry out the duties of the Administrator under title 49, United States Code, from private enterprises, if the Administrator determines that such procurement furthers the mission of the Federal Aviation Administration and is cost effective."
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

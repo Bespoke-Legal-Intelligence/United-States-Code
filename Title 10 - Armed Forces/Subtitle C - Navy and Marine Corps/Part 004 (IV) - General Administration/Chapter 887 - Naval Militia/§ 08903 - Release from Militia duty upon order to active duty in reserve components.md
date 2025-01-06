@@ -1,6 +1,6 @@
 ### §8903. Release from Militia duty upon order to active duty in reserve components
 
-When ordered to active duty, a member of the Navy Reserve or the Marine Corps Reserve who is a member of the Naval Militia is relievedfrom all service and duty in the Naval Militia from the date of active duty specified in his orders until he is released from active duty.
+When ordered to active duty, a member of the Navy Reserve or the Marine Corps Reserve who is a member of the Naval Militia is relieved from all service and duty in the Naval Militia from the date of active duty specified in his orders until he is released from active duty.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 486, §7853; Pub. L. 109–163, div. A, title V, §515(b)(1)(X), Jan. 6, 2006, 119 Stat. 3233; renumbered §8903, Pub. L. 115–232, div. A, title VIII, §807(d)(11), Aug. 13, 2018, 132 Stat. 1837.)
 

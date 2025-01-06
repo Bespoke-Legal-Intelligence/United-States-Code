@@ -24,7 +24,7 @@ The Consumer Product Safety Commission shall specify the types of furniture item
 
 &emsp;&emsp;(A) tests that simulate the weight of children up to 60 pounds;
 
-&emsp;&emsp;(B) objective, repeatable, reproducible, and measurable tests or series of tests that simulate real-world use and account for impactson clothing storage unit stability that may result from placement on carpeted surfaces, drawers with items in them, multiple open drawers, and dynamic force;
+&emsp;&emsp;(B) objective, repeatable, reproducible, and measurable tests or series of tests that simulate real-world use and account for impacts on clothing storage unit stability that may result from placement on carpeted surfaces, drawers with items in them, multiple open drawers, and dynamic force;
 
 &emsp;&emsp;(C) testing of all clothing storage units, including those 27 inches and above in height; and
 
@@ -88,7 +88,7 @@ The Consumer Product Safety Commission shall specify the types of furniture item
 
 #### (B) Demonstration of compliance
 
-&emsp;&emsp;Compliance with the testing requirements of a standard revised under subparagraph (A)may be demonstrated either through the performance of a new or revised test under subparagraph (A) or the performance of the tests otherwise required under a standard promulgated under this section.
+&emsp;&emsp;Compliance with the testing requirements of a standard revised under subparagraph (A) may be demonstrated either through the performance of a new or revised test under subparagraph (A) or the performance of the tests otherwise required under a standard promulgated under this section.
 
 #### (3) Treatment of rules
 

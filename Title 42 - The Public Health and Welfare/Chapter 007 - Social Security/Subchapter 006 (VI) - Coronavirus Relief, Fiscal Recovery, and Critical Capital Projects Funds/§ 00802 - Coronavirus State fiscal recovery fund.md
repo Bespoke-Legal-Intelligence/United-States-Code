@@ -44,7 +44,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (C) Payment
 
-&emsp;&emsp;The Secretary shall pay each Tribal government the total of the amounts allocated for the Tribal government under subparagraph (B) in accordance with paragraph (6).
+&emsp;&emsp;The Secretary shall pay each Tribal government the total of the amounts allocatedfor the Tribal government under subparagraph (B) in accordance with paragraph (6).
 
 #### (3) Payments to each of the 50 States and the District of Columbia
 
@@ -78,7 +78,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amounts allocated under section 803 of this title to the State (for distribution by the State to nonentitlement units of local government in the State) and to metropolitan cities and counties in the State;
 
-&emsp;&emsp;&nbsp;&nbsp;shall not be less than the amount allocated to the State or District of Columbia for fiscal year 2020 under section 801 of this title, including any amount paid directlyto a unit of local government in the State under such section.
+&emsp;&emsp;&nbsp;&nbsp;shall not be less than the amount allocated to the State or District of Columbia for fiscal year 2020 under section 801 of this title, including any amount paid directly to a unit of local government in the State under such section.
 
 #### (II) Pro rata adjustment
 
@@ -344,7 +344,7 @@ In this section:
 
 &emsp;The term "Tribal Government" means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021, pursuant to section 5131 of title 25.
 
-(Aug. 14, 1935, ch. 531, title VI, §602, as added Pub. L. 117–2, title IX, §9901(a), Mar. 11, 2021, 135 Stat. 223; amended Pub. L. 117–58, div. D, title IX, §40909(a), Nov. 15, 2021, 135 Stat. 1126; Pub. L. 117–328, div. LL, §102(a)(1), (b), Dec. 29, 2022, 136 Stat. 6097, 6103.)
+(Aug. 14, 1935, ch. 531, title VI, §602, as added Pub. L. 117–2, title IX, §9901(a), Mar. 11, 2021, 135Stat. 223; amended Pub. L. 117–58, div. D, title IX, §40909(a), Nov. 15, 2021, 135 Stat. 1126; Pub. L. 117–328, div. LL, §102(a)(1), (b), Dec. 29, 2022, 136 Stat. 6097, 6103.)
 
 #### <b>Editorial Notes</b>
 
@@ -386,7 +386,7 @@ Pub. L. 117–328, div. LL, §102(c), Dec. 29, 2022, 136 Stat. 6103, provided th
 
 "(1)
 
-Guidance or rule.—Within 60 days of the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of the Treasury, in consultation with the Secretary ofTransportation, shall issue guidance or promulgate a rule to carry out the amendments made by this section \[amending this section, section 803 of this title, and sections 9042 and 9072 of Title 15, Commerce and Trade\], including updating reporting requirements on the use of funds under this section.
+Guidance or rule.—Within 60 days of the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of the Treasury, in consultation with the Secretary of Transportation, shall issue guidance or promulgate a rule to carry out the amendments made by this section \[amending this section, section 803 of this title, and sections 9042 and 9072 of Title 15, Commerce and Trade\], including updating reporting requirements on the use of funds under this section.
 
 "(2)
 

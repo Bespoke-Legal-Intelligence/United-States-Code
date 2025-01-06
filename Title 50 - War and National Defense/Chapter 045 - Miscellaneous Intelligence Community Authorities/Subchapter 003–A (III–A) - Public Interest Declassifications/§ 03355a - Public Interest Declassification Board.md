@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is established within the executive branch of the United States a board to be knownas the "Public Interest Declassification Board" (in this subchapter referred to as the "Board").
+(1) There is established within the executive branch of the United States a board to be known as the "Public Interest Declassification Board" (in this subchapter referred to as the "Board").
 
 (2) The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 13526, or any successor order.
 
@@ -24,7 +24,7 @@ The purposes of the Board are as follows:
 
 &emsp;(3) To provide recommendations to the President for the identification, collection, and review for declassification of information of extraordinary public interest that does not undermine the national security of the United States, to be undertaken in accordance with a declassification program that has been established or may be established by the President by Executive order.
 
-&emsp;(4) To advise the President, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, and such other executive branch officials as the Board considers appropriate on policies deriving from the issuance by the President of Executive orders regarding the classification and declassification of national security information.
+&emsp;(4) To advise the President, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, and such other executive branch officials as the Board considers appropriate onpolicies deriving from the issuance by the President of Executive orders regarding the classification and declassification of national security information.
 
 &emsp;(5) To review and make recommendations to the President in a timely manner with respect to any congressional request, made by the committee of jurisdiction or by a member of the committee of jurisdiction, to declassify certain records, to evaluate the proper classification of certain records, or to reconsider a declination to declassify specific records.
 
@@ -100,7 +100,7 @@ The Board shall meet as needed to accomplish its mission, consistent with the av
 
 (3) The members of the Board, the Executive Secretary of the Board, and the members of the staff of the Board may not use any information acquired in the course of their official activities on the Board for nonofficial purposes.
 
-(4) For purposes of any law or regulation governing access to classified information that pertains to the national security of the United States, and subject to any limitations on access arising under section 3355d(b) of this title, and to facilitate the advisory functions of the Board under this subchapter, a member of the Board seeking access to a record or material under this subchapter shall be deemed for purposes of this subsection to have a need to know the contents of the record or material.
+(4) For purposes of any law or regulation governing access to classified information that pertains to the national security of the United States, and subject to any limitations on accessarising under section 3355d(b) of this title, and to facilitate the advisory functions of the Board under this subchapter, a member of the Board seeking access to a record or material under this subchapter shall be deemed for purposes of this subsection to have a need to know the contents of the record or material.
 
 #### (h) Compensation
 
@@ -136,7 +136,7 @@ The provisions of chapter 10 of title 5 shall not apply to the activities of the
 
 Executive Order 13526, referred to in subsec. (a)(2), is set out as a note under section 3161 of this title.
 
-The Federal Records Act of 1950, referred to in subsec. (l), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Tableat the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
+The Federal Records Act of 1950, referred to in subsec. (l), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification
 

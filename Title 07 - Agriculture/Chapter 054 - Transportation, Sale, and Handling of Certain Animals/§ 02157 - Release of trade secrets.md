@@ -36,7 +36,7 @@ Any person, including any research facility, injured in its business or property
 
 #### (e) Other rights and remedies
 
-Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) shall not be construed to limit the exercise of any such rightsarising out of or relating to a violation of subsections (a) and (b).
+Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b).
 
 (Pub. L. 89–544, §27, as added Pub. L. 99–198, title XVII, §1754, Dec. 23, 1985, 99 Stat. 1649.)
 

@@ -8,7 +8,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "country of risk" means a foreign country determined by the Secretary, in accordance with subparagraph (B), to present a risk of theft of United States intellectual property or a threat to the nationalsecurity of the United States if nationals of the country, or entities owned or controlled by the country or nationals of the country, participate in any research, development, demonstration, or deployment activity authorized under this division or division A or an amendment made by this division or division A.
+&emsp;&emsp;The term "country of risk" means a foreign country determined by the Secretary, in accordance with subparagraph (B), to present a risk of theft of United States intellectual property or a threat to the national security of the United States if nationals of the country, or entities owned or controlled by the country or nationals of the country, participate in any research, development, demonstration, or deployment activity authorized under this division or division A or an amendment made by this division or division A.
 
 #### (B) Determination
 
@@ -52,7 +52,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and maintain tools and processes to manage and mitigate research security risks, such as a science and technology risk matrix, informed by threats identified by the Director of the Office of Intelligence and Counterintelligence, to facilitate determinations of the risk of loss of United States intellectual property or threat to the national security of the United States posed by activities carried out under any covered support.
+&emsp;The Secretary shall develop and maintain tools and processes to manage and mitigate research security risks, such as a science andtechnology risk matrix, informed by threats identified by the Director of the Office of Intelligence and Counterintelligence, to facilitate determinations of the risk of loss of United States intellectual property or threat to the national security of the United States posed by activities carried out under any covered support.
 
 #### (2) Content and implementation
 
@@ -138,7 +138,7 @@ Not later than 240 days after August 9, 2022, the Secretary shall submit to Cong
 
 #### References in Text
 
-This division, referred to in subsec. (a)(1)(A), (2), is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1399, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of div. B to the Code, see Short Title note set out under section 18901 of this title and Tables.
+This division, referred to in subsec. (a)(1)(A), (2), is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1399,which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of div. B to the Code, see Short Title note set out under section 18901 of this title and Tables.
 
 Division A, referred to in subsec. (a)(1)(A), (2), is div. A of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1372, known as the CHIPS Act of 2022. For complete classification of div. A to the Code, see Short Title of 2022 Amendment note set out under section 4651 of Title 15, Commerce and Trade, and Tables.
 

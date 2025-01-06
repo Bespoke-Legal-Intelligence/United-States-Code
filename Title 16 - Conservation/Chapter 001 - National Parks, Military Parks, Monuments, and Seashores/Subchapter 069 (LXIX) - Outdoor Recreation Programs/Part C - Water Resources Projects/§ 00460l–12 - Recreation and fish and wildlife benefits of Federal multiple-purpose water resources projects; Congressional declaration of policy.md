@@ -14,5 +14,5 @@ This part, referred to in text, was in the original "this Act", meaning Pub. L. 
 
 #### Short Title
 
-Pub. L. 89–72, §12, July 9, 1965, 79 Stat. 218, provided: "This Act \[enacting this section and sections 460l–13 to 460l–21 of this title and amending sections 460l–5(a) and 662(d) of this title\], may be cited as the 'Federal Water Project Recreation Act'."
+Pub. L. 89–72, §12, July 9, 1965, 79 Stat. 218, provided: "This Act \[enacting this section and sections 460l–13 to460l–21 of this title and amending sections 460l–5(a) and 662(d) of this title\], may be cited as the 'Federal Water Project Recreation Act'."
 

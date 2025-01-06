@@ -34,7 +34,7 @@ Subject to subsections (b) through (e),<sup>1</sup> each health insurance issuer
 
 #### (2) 180-day suspension upon denial of coverage
 
-&emsp;An issuer, upon denying health insurance coverage in any service area in accordance with paragraph (1)(B), may not offer coverage in the group or individual market within such service area for a period of 180 days after the date such coverage is denied.
+&emsp;An issuer, upon denying health insurance coverage in any service area in accordance with paragraph (1)(B), may not offer coverage in the group or individual market within suchservice area for a period of 180 days after the date such coverage is denied.
 
 #### (d) Application of financial capacity limits
 

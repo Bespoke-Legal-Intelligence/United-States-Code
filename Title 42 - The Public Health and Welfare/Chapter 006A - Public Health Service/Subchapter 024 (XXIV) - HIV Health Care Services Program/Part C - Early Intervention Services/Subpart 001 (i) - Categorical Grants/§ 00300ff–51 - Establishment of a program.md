@@ -90,7 +90,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 &emsp;&emsp;(C) referrals described in paragraph (2);
 
-&emsp;&emsp;(D) other clinical and diagnostic services regarding HIV/AIDS, and periodic medicalevaluations of individuals with HIV/AIDS; and
+&emsp;&emsp;(D) other clinical and diagnostic services regarding HIV/AIDS, and periodic medical evaluations of individuals with HIV/AIDS; and
 
 &emsp;&emsp;(E) providing the therapeutic measures described in subparagraph (B).
 
@@ -124,7 +124,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

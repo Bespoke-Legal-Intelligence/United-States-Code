@@ -36,7 +36,7 @@
 
 #### (4) Availability of facilities to the Secretary
 
-&emsp;In any grant, contract, or cooperative agreement entered into under the authority provided in this section with respect to a biocontainment laboratory or other related or ancillary specialized research facility that the Secretary determines necessary for the purpose of performing, administering, or supporting qualified countermeasure research and development, the Secretary may provide that the facility that is the object of such grant, contract, or cooperative agreement shall beavailable as needed to the Secretary to respond to public health emergencies affecting national security.
+&emsp;In any grant, contract, or cooperative agreement entered into under the authority provided in this section with respect to a biocontainment laboratory or other related or ancillary specialized research facility that the Secretary determines necessary for the purpose of performing, administering, or supporting qualified countermeasure research and development, the Secretary may provide that the facility that is the object of such grant, contract, or cooperative agreement shall be available as needed to the Secretary to respond to public health emergencies affecting national security.
 
 #### (5) Transfers of qualified countermeasures
 
@@ -130,7 +130,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, employ such expedited peer review procedures (including consultation with appropriate scientific experts) as the Secretary, in consultation with the Director of NIH, deems appropriate to obtain assessment of scientific and technical merit and likely contribution to the field of qualified countermeasure research, in place of the peer review and advisory council review procedures that would be required under sections 241(a)(3), 284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c of this title, as applicable to a grant, contract, or cooperative agreement—
+&emsp;The Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, employ such expedited peer review procedures (including consultation with appropriate scientific experts)as the Secretary, in consultation with the Director of NIH, deems appropriate to obtain assessment of scientific and technical merit and likely contribution to the field of qualified countermeasure research, in place of the peer review and advisory council review procedures that would be required under sections 241(a)(3), 284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c of this title, as applicable to a grant, contract, or cooperative agreement—
 
 &emsp;&emsp;(A) that is for performing, administering, or supporting qualified countermeasure research and development activities; and
 
@@ -236,7 +236,7 @@ In subsec. (b)(2)(A), "section 3304(a)(1) of title 41" substituted for "section 
 
 In subsec. (b)(2)(C), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41" substituted for "subsections (c),\(d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41" substituted for "subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ There shall be established separate accounts in the Treasury of the United State
 
 #### (b) Separate budgets
 
-To ensure that the Bureau of Citizenship and Immigration Services and the Bureau of Border Security are funded to the extent necessary tofully carry out their respective functions, the Director of the Office of Management and Budget shall separate the budget requests for each such entity.
+To ensure that the Bureau of Citizenship and Immigration Services and the Bureau of Border Security are funded to the extent necessary to fully carry out their respective functions, the Director of the Office of Management and Budget shall separate the budget requests for each such entity.
 
 #### (c) Fees
 

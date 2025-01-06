@@ -22,7 +22,7 @@ Liability During Course of Education or Training.—(1) Except as provided in su
 
 (c)
 
-Liability During Period of Obligated Service.—(1) Except as provided in subsection (d), if a participant in the Program breaches theagreement by failing for any reason to complete such participant's period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
+Liability During Period of Obligated Service.—(1) Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant's period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;t−s
 

@@ -6,7 +6,7 @@ Each eligible agency shall be responsible for the State or outlying area adminis
 
 &emsp;(2) consultation with other appropriate agencies, groups, and individuals that are involved in, or interested in, the development and implementation of activities assisted under this subchapter; and
 
-&emsp;(3) coordination and nonduplication with other Federal and State education, training,corrections, public housing, and social service programs.
+&emsp;(3) coordination and nonduplication with other Federal and State education, training, corrections, public housing, and social service programs.
 
 (Pub. L. 113–128, title II, §221, July 22, 2014, 128 Stat. 1614.)
 

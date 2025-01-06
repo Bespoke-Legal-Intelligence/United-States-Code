@@ -6,7 +6,7 @@ The Director shall coordinate with the responsible Federal agency or other entit
 
 #### (b) Confidentiality of test results
 
-The results of tests performed with services made available shall be confidential and shallnot be disclosed outside the Federal Government without the consent of the persons for whom the tests are performed.
+The results of tests performed with services made available shall be confidential and shall not be disclosed outside the Federal Government without the consent of the persons for whom the tests are performed.
 
 #### (c) Fees
 

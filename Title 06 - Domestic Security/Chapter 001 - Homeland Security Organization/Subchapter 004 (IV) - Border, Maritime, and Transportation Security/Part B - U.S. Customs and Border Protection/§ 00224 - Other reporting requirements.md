@@ -72,5 +72,5 @@ Not later than 6 months after the report required under subsection (a) is submit
 
 #### Codification
 
-Section was enacted as part of Missing Persons and Unidentified Remains Act of 2019, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of Missing Persons and Unidentified Remains Act of 2019, and not as part of theHomeland Security Act of 2002 which comprises this chapter.
 

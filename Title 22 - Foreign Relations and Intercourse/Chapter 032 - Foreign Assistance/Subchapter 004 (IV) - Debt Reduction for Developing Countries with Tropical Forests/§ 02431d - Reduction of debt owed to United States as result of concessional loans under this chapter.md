@@ -54,7 +54,7 @@
 
 #### (d) Authorization of appropriations for fiscal years after fiscal year 2001
 
-For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to this section or section 2431e of this title, there are authorized to be appropriated to the President the following:
+For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant tothis section or section 2431e of this title, there are authorized to be appropriated to the President the following:
 
 &emsp;(1) $50,000,000 for fiscal year 2002.
 

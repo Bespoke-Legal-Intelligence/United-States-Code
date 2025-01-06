@@ -14,7 +14,7 @@ Coordination of Information Among the Departments of Veterans Affairs, Defense, 
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat.1183, 1201, which was classified to former sections 1644 and 1761(c) of this title, prior to repeal and amendment by sections 4(a) and 3(a)(1) of Pub. L. 89–358, respectively.
+Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1183, 1201, which was classified to former sections 1644 and 1761(c) of this title, prior to repeal and amendment by sections 4(a) and 3(a)(1) of Pub. L. 89–358, respectively.
 
 #### Amendments
 

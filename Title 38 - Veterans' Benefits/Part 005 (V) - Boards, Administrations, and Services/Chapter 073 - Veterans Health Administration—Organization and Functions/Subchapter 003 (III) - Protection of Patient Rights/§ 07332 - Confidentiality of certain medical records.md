@@ -1,6 +1,6 @@
 ### §7332. Confidentiality of certain medical records
 
-(a)(1) Records of the identity, diagnosis, prognosis, or treatment of any patient or subject which are maintained in connection with the performance of any program or activity (including education, training, treatment, rehabilitation, or research) relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia which is carried out by or for the Department under this title shall, except as provided in subsections (e) and (f), be confidential, and (section 5701 of this title to the contrary notwithstanding) such records may be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
+(a)(1) Records of the identity, diagnosis, prognosis, or treatment of any patient or subjectwhich are maintained in connection with the performance of any program or activity (including education, training, treatment, rehabilitation, or research) relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia which is carried out by or for the Department under this title shall, except as provided in subsections (e) and (f), be confidential, and (section 5701 of this title to the contrary notwithstanding) such records may be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
 (2) Paragraph (1) prohibits the disclosure to any person or entity other than the patient or subject concerned of the fact that a special written consent is required in order for such records to be disclosed.
 
@@ -36,7 +36,7 @@
 
 (c) Except as authorized by a court order granted under subsection (b)(2)(D), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against, or to conduct any investigation of, a patient or subject.
 
-(d) The prohibitions of this section shall continue to apply to records concerning any person who has been a patient or subject, irrespective of whether or when such person ceases to be a patient.
+(d) The prohibitions of this section shall continue to apply to records concerning any personwho has been a patient or subject, irrespective of whether or when such person ceases to be a patient.
 
 (e) The prohibitions of this section shall not prevent any interchange of records—
 
@@ -122,5 +122,5 @@ Subsec. (c). Pub. L. 100–322, §121(e)(2), substituted "subsection (b)(2)(D)" 
 
 Subsec. (f). Pub. L. 100–322, §121(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–322, §121(c)(1), (d), redesignated subsec. (f) as (g) and substituted "shall be fined, in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section." for "shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense".
+Subsec. (g). Pub. L. 100–322, §121(c)(1), (d), redesignated subsec. (f) as (g) and substituted "shall be fined, in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of asubsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section." for "shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense".
 

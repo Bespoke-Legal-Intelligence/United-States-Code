@@ -16,7 +16,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (2) Class II administrative penalty
 
-&emsp;A civil penalty of not more than $25,000 per day for each day during which the violationcontinues may be assessed by the Administrator in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation the amount of such penalty may be not more than $75,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected under section 2615 of title 15. In any proceeding for the assessment of a civil penalty under this subsection the Administrator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures.
+&emsp;A civil penalty of not more than $25,000 per day for each day during which the violation continues may be assessed by the Administrator in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation the amount of such penalty may be not more than $75,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected under section 2615 of title 15. In any proceeding for the assessment of a civil penalty under this subsection the Administrator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures.
 
 #### (3) Judicial assessment
 
@@ -24,7 +24,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (4) Criminal penalties
 
-&emsp;Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in the case of a second or subsequent conviction, shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
+&emsp;Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in thecase of a second or subsequent conviction, shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
 
 #### (c) Civil and administrative penalties for reporting requirements
 

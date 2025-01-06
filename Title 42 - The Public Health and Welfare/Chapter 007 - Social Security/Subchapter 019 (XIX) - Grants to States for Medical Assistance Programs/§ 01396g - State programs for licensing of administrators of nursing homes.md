@@ -26,7 +26,7 @@ It shall be the function and duty of such agency or board to—
 
 #### (d) Waiver of standards other than good character or suitability standards
 
-No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant to subsection (b)) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c).
+No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant tosubsection (b)) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c).
 
 #### (e) "Nursing home" and "nursing home administrator" defined
 
@@ -40,7 +40,7 @@ As used in this section, the term—
 
 #### Repeal of Section
 
-<i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective</i><i>on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
+<i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 

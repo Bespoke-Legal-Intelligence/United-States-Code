@@ -34,7 +34,7 @@
 
 &emsp;(B) process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
 
-(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
+(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection orthe Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
 
 (7) If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.
 
@@ -64,7 +64,7 @@ Section was formerly set out as a note under section 1638 of Title 15, Commerce 
 
 "(3) Before issuing a final rule pursuant to the proceeding initiated under paragraph (1), the Federal Trade Commission shall consult with the Federal Reserve Board concerning any portion of the proposed rule applicable to acts or practices to which the provisions of the Truth in Lending Act (15 U.S.C. 1601 et seq.) may apply.
 
-"(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction,powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section."
+"(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section."
 
 Subsec. (b)(1). Pub. L. 111–203, §1097(2)(A), added par. (1) and struck out former par. (1) which read as follows: "Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
 

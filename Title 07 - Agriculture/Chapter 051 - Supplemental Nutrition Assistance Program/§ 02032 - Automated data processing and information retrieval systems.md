@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition a
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4001(b) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

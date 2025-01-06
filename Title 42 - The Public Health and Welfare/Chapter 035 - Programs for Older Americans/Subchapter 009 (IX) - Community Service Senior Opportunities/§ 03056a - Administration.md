@@ -4,7 +4,7 @@
 
 #### (1) Governor
 
-&emsp;For a State to be eligible to receive an allotment under section 3056d of this title, the Governor of the State shall submit to the Secretary for consideration and approval, a single State plan (referred to in this subchapter as the "State plan") that outlines a 4-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under this subchapter. The plan shall contain such provisions as the Secretary may require, consistent with this subchapter, including a description of the process used to ensure the participation of individuals described in paragraph (2). Not less often than every 2 years, the Governor shall review the State plan and submit an update to the State plan to the Secretary for consideration and approval.
+&emsp;For a State to be eligible to receive an allotment under section 3056d of this title, the Governor of the State shall submit to the Secretary for consideration and approval, a singleState plan (referred to in this subchapter as the "State plan") that outlines a 4-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under this subchapter. The plan shall contain such provisions as the Secretary may require, consistent with this subchapter, including a description of the process used to ensure the participation of individuals described in paragraph (2). Not less often than every 2 years, the Governor shall review the State plan and submit an update to the State plan to the Secretary for consideration and approval.
 
 #### (2) Recommendations
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(v) eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;
 
-&emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the typeof skills possessed by local eligible individuals;
+&emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
 
 &emsp;&emsp;(E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
@@ -162,7 +162,7 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15,1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -196,7 +196,7 @@ Subsec. (b)(2)(A). Pub. L. 113–128, §512(w)(4)(B), substituted "with the prog
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–131, title IV, §401(b), Mar. 25, 2020, 134 Stat. 267, provided that: "This section \[amending this section and sections 3056l and 3056p of this title\] shall take effect 1 year after the date of enactment of this Act \[Mar. 25, 2020\]."
+Pub. L. 116–131, title IV, §401(b), Mar. 25, 2020, 134 Stat. 267, provided that: "This section \[amending this section and sections 3056l and 3056p of this title\] shalltake effect 1 year after the date of enactment of this Act \[Mar. 25, 2020\]."
 
 #### Effective Date of 2014 Amendment
 

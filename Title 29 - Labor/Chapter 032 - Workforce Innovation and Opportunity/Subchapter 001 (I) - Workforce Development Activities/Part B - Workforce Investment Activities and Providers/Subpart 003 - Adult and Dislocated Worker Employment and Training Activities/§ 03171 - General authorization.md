@@ -16,7 +16,7 @@ Pub. L. 111–275, title I, §106, Oct. 13, 2010, 124 Stat. 2870, provided that:
 
 "(a)
 
-Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the 'Veterans Energy-Related Employment Program'. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a 'State Energy-Related Employment Program'.
+Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the 'Veterans Energy-Related Employment Program'. Under the pilot program,the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a 'State Energy-Related Employment Program'.
 
 "(b)
 
@@ -128,7 +128,7 @@ Purpose.—It is the purpose of this section to ensure that veterans who are dis
 
 "(b)
 
-Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary of Labor and the Administrator of Veterans' Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall include provisions that define the relationships and responsibilities of the Veterans' Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:
+Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary of Labor and the Administrator of Veterans' Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall includeprovisions that define the relationships and responsibilities of the Veterans' Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:
 
 &emsp;"(A) Information on services and benefits referred to in subsection (d).
 
@@ -410,7 +410,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;"(B) in the case of the employees of an employer, if the Secretary determines that—
 
-&emsp;&emsp;"(i) the employer has an appropriate and effective employee assistance program that is available to all veterans participating in the employer's programs of job training under this Act; or
+&emsp;&emsp;"(i) the employer has an appropriate and effective employee assistance program that is available toall veterans participating in the employer's programs of job training under this Act; or
 
 &emsp;&emsp;"(ii) the rate of veterans' successful completion of the employer's programs of job training under this Act, either cumulatively or during the previous program year, is 60 percent or higher.
 
@@ -438,7 +438,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(2) The Secretary, in consultation with the Administrator, shall promote the development of employment and job training opportunities for veterans by encouraging potential employers to make programs of job training under this Act available for eligible veterans, by advising other appropriate Federal departments and agencies of the program established by this Act, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to veterans.
 
-"(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activitiesunder subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations.
+"(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activities under subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations.
 
 "(c)(1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans' Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act.
 

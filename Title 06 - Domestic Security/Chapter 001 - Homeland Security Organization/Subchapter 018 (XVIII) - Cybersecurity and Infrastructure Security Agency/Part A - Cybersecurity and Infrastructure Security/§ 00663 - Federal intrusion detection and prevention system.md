@@ -212,7 +212,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'bug bounty program' means a program under which—
 
-&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and reportvulnerabilities of appropriate information systems of the Department; and
+&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and report vulnerabilities of appropriate information systems of the Department; and
 
 &emsp;&emsp;"(B) eligible individuals, organizations, and companies receive compensation in exchange for such reports.
 
@@ -294,7 +294,7 @@ Pub. L. 114–113, div. N, title II, §223(b), Dec. 18, 2015, 129 Stat. 2966, as
 
 In general.—Except as provided in paragraph (2)—
 
-&emsp;"(A) not later than 1 year after the date of enactment of this Act \[Dec. 18, 2015\] or 2 months after the date on which the Secretary makes available the intrusion detection and prevention capabilities under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], whichever is later, the head of each agency shall apply and continue to utilize the capabilities to all information traveling between an agency information system and any information system other than an agency information system; and
+&emsp;"(A) not later than 1 year after the date of enactment of this Act \[Dec. 18, 2015\] or 2 months after the date on which the Secretary makes available the intrusion detection and prevention capabilities under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], whichever is later, the head of each agency shall apply and continue to utilize the capabilities to all information traveling between anagency information system and any information system other than an agency information system; and
 
 &emsp;"(B) not later than 6 months after the date on which the Secretary makes available improvements to the intrusion detection and prevention capabilities pursuant to section 2213(b)(2) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(2)\], the head of each agency shall apply and continue to utilize the improved intrusion detection and prevention capabilities.
 

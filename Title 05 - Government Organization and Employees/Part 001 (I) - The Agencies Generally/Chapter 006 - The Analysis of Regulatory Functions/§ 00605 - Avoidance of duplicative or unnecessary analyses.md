@@ -18,7 +18,7 @@
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section245 of Pub. L. 104–121, set out as a note under section 601 of this title.
+Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
 
 #### Effective Date
 

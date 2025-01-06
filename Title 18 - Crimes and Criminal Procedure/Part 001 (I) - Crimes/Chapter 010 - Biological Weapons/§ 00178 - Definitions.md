@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;(5) the term "national of the United States" has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, §511(b)(3), title VII, §721(h), Apr. 24, 1996, 110Stat. 1284, 1299; Pub. L. 107–188, title II, §231(c)(4), June 12, 2002, 116 Stat. 661.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, §511(b)(3), title VII, §721(h), Apr. 24, 1996, 110 Stat. 1284, 1299; Pub. L. 107–188, title II, §231(c)(4), June 12, 2002, 116 Stat. 661.)
 
 #### <b>Editorial Notes</b>
 

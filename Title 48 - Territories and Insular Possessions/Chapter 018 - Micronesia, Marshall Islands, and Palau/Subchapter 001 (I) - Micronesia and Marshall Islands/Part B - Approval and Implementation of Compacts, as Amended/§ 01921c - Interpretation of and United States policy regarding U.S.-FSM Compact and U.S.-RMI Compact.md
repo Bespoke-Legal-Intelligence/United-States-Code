@@ -8,7 +8,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (1) Naturalized citizens
 
-&emsp;The rights of a bona fide naturalized citizen of the Federated States of Micronesia or the Republic of the Marshall Islands to enter the United States, to lawfully engage therein in occupations, and to establish residence therein as a nonimmigrant, to the extent such rights are provided under section 141 of the U.S.-FSM Compact and the U.S.-RMI Compact, shall not be deemed to extend to any such naturalized citizen with respect to whom circumstances associated with the acquisition of the status of a naturalized citizen are such as to allow a reasonable inference, on the part of appropriate officials of the United States and subject to United States procedural requirements, that such naturalized status was acquired primarily in order to obtain such rights.
+&emsp;The rights of a bona fide naturalized citizen of the Federated States of Micronesia or theRepublic of the Marshall Islands to enter the United States, to lawfully engage therein in occupations, and to establish residence therein as a nonimmigrant, to the extent such rights are provided under section 141 of the U.S.-FSM Compact and the U.S.-RMI Compact, shall not be deemed to extend to any such naturalized citizen with respect to whom circumstances associated with the acquisition of the status of a naturalized citizen are such as to allow a reasonable inference, on the part of appropriate officials of the United States and subject to United States procedural requirements, that such naturalized status was acquired primarily in order to obtain such rights.
 
 #### (2) Passports
 
@@ -56,21 +56,17 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 &emsp;The Secretary of the Interior shall conduct periodic enumerations of qualified nonimmigrants in each affected jurisdiction. The enumerations—
 
-&emsp;&emsp;(A) shall be conducted at such intervals as the Secretary of the Interior shall determine, but no less frequently than every five years, beginning in fiscal year 2003;
+&emsp;&emsp;(A) shall be conducted at such intervals as the Secretary of the Interior shall determine, but no less frequently than every five years, during the period of fiscal years 2003 through 2023;
 
 &emsp;&emsp;(B) shall be supervised by the United States Bureau of the Census or such other organization as the Secretary of the Interior may select; and
 
-&emsp;&emsp;(C) after fiscal year 2003, shall be funded by the Secretary of the Interior by deducting such sums as are necessary, but not to exceed $300,000 as adjusted for inflation pursuant to section 217 of the U.S.-FSM Compact with fiscal year 2003 as the base year, per enumeration, from funds appropriated pursuant to the authorization contained in paragraph (3) of this subsection.
+&emsp;&emsp;(C) for the period of fiscal years 2004 through 2023, shall be funded by the Secretary of the Interior by deducting such sums as are necessary, but not to exceed $300,000 as adjusted for inflation pursuant to section 217 of the U.S.-FSM Compact with fiscal year 2003 as the base year, per enumeration, from funds appropriated pursuant to the authorization contained in paragraph (3) of this subsection.
 
-#### (5) Allocation
-
-&emsp;The Secretary of the Interior shall allocate to the government of each affected jurisdiction, on the basis of the results of the most recent enumeration, grants in an aggregate amount equal to the total amount of funds appropriated under paragraph (3) of this subsection, as reduced by any deductions authorized by subparagraph (C) of paragraph (4) of this subsection, multiplied by a ratio derived by dividing the number of qualified nonimmigrants in such affected jurisdiction by the total number of qualified nonimmigrants in all affected jurisdictions.
-
-#### (6) Authorization for health care reimbursement
+#### (5) Authorization for health care reimbursement
 
 &emsp;There are hereby authorized to be appropriated to the Secretary of the Interior such sums as may be necessary to reimburse health care institutions in the affected jurisdictions for costs resulting from the migration of citizens of the Republic of the Marshall Islands, the Federated States of Micronesia and the Republic of Palau to the affected jurisdictions as a result of the implementation of the Compact of Free Association, approved by Public Law 99–239, or the approval of the U.S.-FSM Compact and the U.S.-RMI Compact by this resolution.
 
-#### (7) Use of DOD medical facilities and National Health Service Corps
+#### (6) Use of DOD medical facilities and National Health Service Corps
 
 #### (A) DOD medical facilities
 
@@ -84,7 +80,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 &emsp;&emsp;There are authorized to be appropriated to carry out this paragraph such sums as are necessary for each fiscal year.
 
-#### (8) Reporting requirement
+#### (7) Reporting requirement
 
 &emsp;Not later than one year after December 17, 2003, and at one year intervals thereafter, the Governors of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa may provide to the Secretary of the Interior by February 1 of each year their comments with respect to the impacts of the Compacts on their respective jurisdiction. The Secretary of the Interior, upon receipt of any such comments, shall report to the Congress not later than May 1 of each year and include the following:
 
@@ -92,11 +88,11 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 &emsp;&emsp;(B) The Administration views on any recommendations for corrective action to eliminate those consequences as proposed by such Governors.
 
-&emsp;&emsp;(C) With regard to immigration, statistics concerning the number of persons availingthemselves of the rights described in section 141(a) of the Compact during the year covered by each report.
+&emsp;&emsp;(C) With regard to immigration, statistics concerning the number of persons availing themselves of the rights described in section 141(a) of the Compact during the year covered by each report.
 
 &emsp;&emsp;(D) With regard to trade, an analysis of the impact on the economy of American Samoa resulting from imports of canned tuna into the United States from the Federated States of Micronesia, and the Republic of the Marshall Islands.
 
-#### (9) Reconciliation of unreimbursed impact expenses
+#### (8) Reconciliation of unreimbursed impact expenses
 
 #### (A) In general
 
@@ -106,7 +102,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (i) Substantiation of impact costs
 
-&emsp;&emsp;&emsp;Not later than 120 days after December 17, 2003, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall each submit to the Secretary of the Interior a report, prepared in consultation with an independent accounting firm, substantiating unreimbursed impact expenses claimed for the period from January 14, 1986, through September 30, 2003. Upon request of the Secretary of the Interior, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall submit to the Secretary of the Interior copies of all documents upon which the report submitted by that Governor under this clause was based.
+&emsp;&emsp;&emsp;Not later than 120 days after December 17, 2003, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall each submit to the Secretary of the Interior a report, prepared in consultation with an independent accounting firm, substantiating unreimbursed impact expensesclaimed for the period from January 14, 1986, through September 30, 2003. Upon request of the Secretary of the Interior, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall submit to the Secretary of the Interior copies of all documents upon which the report submitted by that Governor under this clause was based.
 
 #### (ii) Congressional notification
 
@@ -120,7 +116,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 &emsp;&emsp;&emsp;The authority granted in subparagraph (A) shall expire on February 28, 2005.
 
-#### (10) Authorization of appropriations for grants
+#### (9) Authorization of appropriations for grants
 
 &emsp;There are hereby authorized to the Secretary of the Interior for each of fiscal years 2004 through 2023 such sums as may be necessary for grants to the governments of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa, as a result of increased demands placed on educational, social, or public safety services or infrastructure related to such services due to the presence in Guam, Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa of qualified nonimmigrants from the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
@@ -146,7 +142,7 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 &emsp;&emsp;(D) the status of the efforts to increase investment including: the rate of infrastructure investment of U.S. financial assistance under the U.S.-FSM Compact and the U.S.-RMI Compact; non-U.S. contributions to the trust funds, and the level of private investment; and
 
-&emsp;&emsp;(E) recommendations on ways to increase the effectiveness of United States assistanceand to meet overall economic performance objectives, including, if appropriate, recommendations to Congress to adjust the inflation rate or to adjust the contributions to the Trust Funds based on non-U.S. contributions.
+&emsp;&emsp;(E) recommendations on ways to increase the effectiveness of United States assistance and to meet overall economic performance objectives, including, if appropriate, recommendations to Congress to adjust the inflation rate or to adjust the contributions to the Trust Funds based on non-U.S. contributions.
 
 #### (2) Review
 
@@ -154,7 +150,7 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 #### (i) Construction of section 141(f)
 
-Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
+Section 141(f)(2) of the Compact of Free Association, as amended, between the Government ofthe United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
 
 #### (j) Inflation adjustment
 
@@ -164,7 +160,7 @@ As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Pri
 
 In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
 
-(Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737; Pub. L. 110–229, title VIII, §806(a)(2), May 8, 2008, 122 Stat. 871; Pub. L. 111–68, div. A, title I, §1501(c), Oct. 1, 2009, 123 Stat. 2041.)
+(Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737; Pub. L. 110–229, title VIII, §806(a)(2), May 8, 2008, 122 Stat. 871; Pub. L. 111–68, div. A, title I, §1501(c), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 118–42, div. G, title II, §209(l)(2), Mar. 9, 2024, 138 Stat. 448.)
 
 #### <b>Editorial Notes</b>
 
@@ -176,9 +172,9 @@ The enactment by the United States Congress of the Compact of Free Association A
 
 The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
-The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
+The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(5), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
-This resolution, referred to in subsec. (e)(6), and this Act, referred to in subsec. (e)(9)(B)(iii), are references to Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
+This resolution, referred to in subsec. (e)(5), and this Act, referred to in subsec. (e)(8)(B)(iii), are references to Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 
 The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia, referred to in subsecs. (g) and (i), is contained in section 201(a) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 
@@ -187,6 +183,12 @@ The Compact of Free Association, between the Government of the United States of 
 The enactment of this resolution, referred to in subsec. (h)(1), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(4)(A). Pub. L. 118–42, §209(l)(2)(A)(i), substituted "during the period of fiscal years 2003 through 2023" for "beginning in fiscal year 2003".
+
+Subsec. (e)(4)(C). Pub. L. 118–42, §209(l)(2)(A)(ii), substituted "for the period of fiscal years 2004 through 2023" for "after fiscal year 2003".
+
+Subsec. (e)(5) to (10). Pub. L. 118–42, §209(l)(2)(B), (C), redesignated pars. (6) to (10) as (5) to (9), respectively, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: "The Secretary of the Interior shall allocate to the government of each affected jurisdiction, on the basis of the results of the most recent enumeration, grants in an aggregate amount equal to the total amount of funds appropriated under paragraph (3) of this subsection, as reduced by any deductions authorized by subparagraph (C) of paragraph (4) of this subsection, multiplied by a ratio derived by dividing the number of qualified nonimmigrants in such affected jurisdiction by the total number of qualified nonimmigrants in all affected jurisdictions."
 
 <b>2009</b>—Subsec. (h)(3). Pub. L. 111–68 struck out par. (3). Text read as follows: "Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States."
 

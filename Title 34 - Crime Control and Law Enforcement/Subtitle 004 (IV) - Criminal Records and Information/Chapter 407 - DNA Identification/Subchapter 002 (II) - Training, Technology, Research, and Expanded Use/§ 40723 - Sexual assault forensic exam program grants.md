@@ -102,7 +102,7 @@ In this section:
 
 #### (12) Sexual assault nurse examiner; SANE
 
-&emsp;The term "sexual assault nurse examiner" or "SANE" means a registered or advanced practice nurse who has specialized training conducting medical forensic examinations.
+&emsp;The term "sexual assault nurse examiner" or "SANE" means a registered or advancedpractice nurse who has specialized training conducting medical forensic examinations.
 
 #### (13) Sexual assault response team; SART
 
@@ -188,7 +188,7 @@ In this section:
 
 #### (3) Report to Congress
 
-&emsp;Not later than 4 years after March 15, 2022, the Attorney General, in consultation with the Secretary, shall submit to the Committee on the Judiciary of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on the Judiciary of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a report on—
+&emsp;Not later than 4 years after March 15, 2022, the Attorney General, in consultation withthe Secretary, shall submit to the Committee on the Judiciary of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on the Judiciary of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a report on—
 
 &emsp;&emsp;(A) the availability of, and patient access to, trained SANEs and other providers who perform MFEs or sexual assault forensic examinations;
 

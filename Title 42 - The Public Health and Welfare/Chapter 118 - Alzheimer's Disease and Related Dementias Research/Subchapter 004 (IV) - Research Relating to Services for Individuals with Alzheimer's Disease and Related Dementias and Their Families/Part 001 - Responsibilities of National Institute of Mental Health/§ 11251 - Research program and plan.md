@@ -52,7 +52,7 @@ Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted "The Director of
 
 Subsec. (b)(1)(A). Pub. L. 102–507, §7(a)(1)(C)(ii)(I), substituted "ensure that the research conducted under subsection (a) includes" for "provide for" in introductory provisions.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 102–507, §7(a)(1)(C)(ii)(II), added cl. (iii) and struck out former cl. (iii) which read as follows: "the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer's disease and related dementias and their families, particularly with respect to the design of such services, appropriate staffing for the provision of such services, the timing of such services during the progression of such disease or dementias, and the appropriate mix and coordination of such services;".
+Subsec. (b)(1)(A)(iii). Pub. L. 102–507, §7(a)(1)(C)(ii)(II), added cl. (iii) and struck out former cl. (iii) which readas follows: "the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer's disease and related dementias and their families, particularly with respect to the design of such services, appropriate staffing for the provision of such services, the timing of such services during the progression of such disease or dementias, and the appropriate mix and coordination of such services;".
 
 Subsec. (b)(1)(A)(iv). Pub. L. 102–507, §7(a)(1)(C)(ii)(III), inserted "the evaluation of best practices for the development of" before "appropriate".
 

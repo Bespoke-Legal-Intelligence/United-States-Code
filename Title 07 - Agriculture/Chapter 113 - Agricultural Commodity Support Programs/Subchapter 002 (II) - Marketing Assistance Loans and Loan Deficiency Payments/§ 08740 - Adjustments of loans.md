@@ -40,7 +40,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;&emsp;(iii) the elimination of any artificial split in the premium or discount between upland cotton with a 32 or 33 staple length due to micronaire; and
 
-&emsp;&emsp;&emsp;(iv) a mechanism to ensure that no premium or discount is established that exceeds the premium or discount associated with a leaf grade that is 1 better than the applicable color grade.
+&emsp;&emsp;&emsp;(iv) a mechanism to ensure that no premium or discount is established that exceeds the premium or discount associatedwith a leaf grade that is 1 better than the applicable color grade.
 
 #### (C) Discretionary revisions
 

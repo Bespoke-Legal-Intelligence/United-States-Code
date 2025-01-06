@@ -1,6 +1,6 @@
 ### §3236. Murder or manslaughter
 
-In all cases of murder or manslaughter, the offense shall be deemed to have been committed at the place where the injury was inflicted, or the poison administered or other means employed which caused the death, without regard to the place where the death occurs.
+In all cases of murder or manslaughter, the offense shall be deemed to have been committed atthe place where the injury was inflicted, or the poison administered or other means employed which caused the death, without regard to the place where the death occurs.
 
 (June 25, 1948, ch. 645, 62 Stat. 826.)
 

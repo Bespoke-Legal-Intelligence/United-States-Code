@@ -56,7 +56,7 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 (f)
 
-Repayment.—(1) If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of activeduty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 373 of this title.
+Repayment.—(1) If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 373 of this title.
 
 (2) If a person who is paid a bonus under this section subsequently makes an election described in section 1409(b)(4)(B) of title 10, the person shall repay any bonus payments received under this section in the same manner as repayments are made under section 373 of this title.
 
@@ -102,5 +102,5 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application to Existing Agreements
 
-Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: "The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section."
+Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: "The Secretary concerned\(as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 \[now 354\] of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section."
 

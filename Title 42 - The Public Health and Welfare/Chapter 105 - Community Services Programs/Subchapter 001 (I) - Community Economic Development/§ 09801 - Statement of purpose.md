@@ -38,7 +38,7 @@ Pub. L. 102–401, §1, Oct. 7, 1992, 106 Stat. 1956, provided that: "This Act \
 
 Pub. L. 101–501, §1(a), Nov. 3, 1990, 104 Stat. 1222, provided that: "This Act \[see Tables for classification\] may be cited as the 'Augustus F. Hawkins Human Services Reauthorization Act of 1990'."
 
-Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: "This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 ofthis title\] may be cited as the 'Head Start Expansion and Quality Improvement Act'."
+Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: "This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 of this title\] may be cited as the 'Head Start Expansion and Quality Improvement Act'."
 
 Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that subtitle B (§§131–140) of title I of Pub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title, could be cited as the "Head Start Transition Project Act", prior to repeal by Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728.
 
@@ -56,7 +56,7 @@ Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: "That this Act \
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–558, §1, Oct. 30, 1984, 98 Stat. 2878, provided: "That this Act \[enacting sections 9871 to 9877, 9905a, and 9910a of this title and sections 1070d–31 to 1070d–41, 1119d to 1119d–8, 1119e to 1119e–5, and 4201 to 4206 of Title 20, Education, amending sections 2991b, 2992b to 2992d, 6862, 6865, 8621 to 8624, 8626, 8627, 8629, 9832, 9834 to 9836, 9840, 9843, 9844, 9846, 9862, 9901, 9902, 9904, 9908, and 9910 of this title and section 4061 of Title 20, enacting provisions set out as notes under sections 2991, 8621, and 9904 of this title, and amending provisions set out as a note under section 9861 of this title\] may be cited as the 'Human Services Reauthorization Act'."
+Pub. L. 98–558, §1, Oct. 30, 1984, 98 Stat. 2878, provided: "That this Act \[enacting sections 9871 to 9877, 9905a,and 9910a of this title and sections 1070d–31 to 1070d–41, 1119d to 1119d–8, 1119e to 1119e–5, and 4201 to 4206 of Title 20, Education, amending sections 2991b, 2992b to 2992d, 6862, 6865, 8621 to 8624, 8626, 8627, 8629, 9832, 9834 to 9836, 9840, 9843, 9844, 9846, 9862, 9901, 9902, 9904, 9908, and 9910 of this title and section 4061 of Title 20, enacting provisions set out as notes under sections 2991, 8621, and 9904 of this title, and amending provisions set out as a note under section 9861 of this title\] may be cited as the 'Human Services Reauthorization Act'."
 
 #### Short Title
 

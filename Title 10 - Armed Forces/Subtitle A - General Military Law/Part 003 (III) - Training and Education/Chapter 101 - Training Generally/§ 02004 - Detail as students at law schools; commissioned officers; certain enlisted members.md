@@ -1,14 +1,24 @@
 ### §2004. Detail as students at law schools; commissioned officers; certain enlisted members
 
-(a) The Secretary of each military department may, under regulations prescribed by the Secretary of Defense, detail commissioned officers and enlisted members of the armed forces as students at accredited law schools, located in the United States, for a period of training leading to the degree of juris doctor. No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year.
+(a)(1) The Secretary of each military department may, under regulations prescribed by the Secretary of Defense, detail commissioned officers and enlisted members of the armed forces as students at accredited law schools, located in the United States, for a period of training leading to the degree of juris doctor.
+
+(2) Pursuant to regulations prescribed by the Secretary concerned, the Secretary of a military department may fund educational expenses for members of the armed forces detailed under paragraph (1). Not more than 25 officers and enlisted members from each military department may commence such training in any single fiscal year.
+
+(3) Pursuant to regulations prescribed by the Secretary concerned, the Secretary of a military department may also detail members under paragraph (1) without funding any educational expenses. A member detailed pursuant to this paragraph shall not count against the limitation in paragraph (2).
 
 (b) To be eligible for detail under subsection (a), an officer or enlisted member must be a citizen of the United States and must—
 
-&emsp;(1) either—
+&emsp;(1)(A) in the case of a member detailed pursuant to subsection (a)(1), either—
 
-&emsp;&emsp;(A) have served on active duty for a period of not less than two years nor more than six years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
+&emsp;&emsp;(i) have served on active duty for a period of not less than two years nor more than six years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
 
-&emsp;&emsp;(B) have served on active duty for a period of not less than four years nor more than eight years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin;
+&emsp;&emsp;(ii) have served on active duty for a period of not less than four years nor more than eight years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin; or
+
+&emsp;(B) in the case of a member detailed pursuant to subsection (a)(2), either—
+
+&emsp;&emsp;(i) have served on active duty for a period of not less than two years nor more thaneight years and be an officer in the pay grade O-3 or below when the training is to begin; or
+
+&emsp;&emsp;(ii) have served on active duty for a period of not less than four years nor more than ten years and be an enlisted member in the pay grade of E-5, E-6, or E-7 when the training is to begin;
 
 &emsp;(2) in the case of an enlisted member, meet all requirements for acceptance of a commission as a commissioned officer in the armed forces; and
 
@@ -18,7 +28,11 @@
 
 &emsp;&emsp;(B) accept transfer or detail as a judge advocate within the department concerned when his legal training is completed; and
 
-&emsp;&emsp;(C) agree to serve on active duty following completion or other termination of training for a period of two years for each year or part thereof of his legal training under subsection (a).
+&emsp;&emsp;(C) agree to serve on active duty following completion or other termination of training for a period of—
+
+&emsp;&emsp;&emsp;(i) two years for each year or part thereof of legal training under subsection (a)(1); or
+
+&emsp;&emsp;&emsp;(ii) one year for each year or part thereof of legal training under subsection (a)(2).
 
 (c) Officers and enlisted members detailed for legal training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense. Any service obligation incurred by an officer or enlisted member under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by any such officer or enlisted member under any other provision of law or agreement.
 
@@ -28,11 +42,17 @@
 
 (f) No agreement detailing any officer or enlisted member of the armed forces to an accredited law school may be entered into during any period that the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added Pub. L. 93–155, title VIII, §817(a), Nov. 16, 1973, 87 Stat. 621; amended Pub. L. 101–510, div. A, title XIV, §1484(i)(3)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 116–92, div. A, title V, §551(a), (b)(1), Dec. 20, 2019, 133 Stat. 1385, 1386; Pub. L. 116–283, div. A, title X, §1081(a)(34), Jan. 1, 2021, 134 Stat. 3872.)
+(Added Pub. L. 93–155, title VIII, §817(a), Nov. 16, 1973, 87 Stat. 621; amended Pub. L. 101–510, div. A, title XIV, §1484(i)(3)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 116–92, div. A, title V, §551(a), (b)(1), Dec. 20, 2019, 133 Stat. 1385, 1386; Pub. L. 116–283, div. A, title X, §1081(a)(34), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title V, §552(a), Dec. 23, 2024, 138 Stat. 1893.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159, §552(a)(1), designated first sentence as par. (1), added pars. (2) and (3), and struck out former second sentence which read as follows: "No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year."
+
+Subsec. (b)(1). Pub. L. 118–159, §552(a)(2)(A), inserted "(A) in the case of a member detailed pursuant to subsection (a)(1)," after "(1)", redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(3)(C). Pub. L. 118–159, §552(a)(2)(B), which directed substitution of "period of—" and cls. (i) and (ii) for "period of two years", was executed by making the substitution for "period of two years for each year or part thereof of his legal training under subsection (a).", to reflect the probable intent of Congress.
 
 <b>2021</b>—Subsecs. (d), (e). Pub. L. 116–283 substituted "enlisted" for "enlistment".
 
@@ -60,7 +80,11 @@ Subsec. (f). Pub. L. 116–92, §551(a)(6), inserted "or enlisted member" after 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Temporary Expansion
+
+Pub. L. 118–159, div. A, title V, §552(b), Dec. 23, 2024, 138 Stat. 1894, provided that: "During each of the three years after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of a military department may fund educational expenses under section 2004(a) of such title \[10 U.S.C. 2004(a)\], as amended by subsection (a), for 35 members of such military department."
+
 #### Selection of Officers in Missing Status for Legal Training on a Noncompetitive Basis; Exemption From Numerical Limitations
 
-Pub. L. 94–106, title VIII, §821, Oct. 7, 1975, 89 Stat. 545, provided that: "Notwithstanding any provision of section 2004 of title 10 United States Code, an officer in any pay grade who was in a missing status (as defined in section 551(2) of title 37, United States Code) after August 4, 1964, and before May 8, 1975, may be selected for detail for legal training under that section 2004 on other than a competitive basis and, if selected for that training, is not counted in computing, for the purpose of subsection (a) of that section 2004, the number of officers who may commence that training in any single fiscal year. For the purposes of determining eligibility under that section 2004, the period of time during which an officer was in that missing status may be disregarded in computing the period he has served on active duty."
+Pub. L. 94–106, title VIII, §821, Oct. 7, 1975, 89 Stat. 545, provided that: "Notwithstanding any provision of section 2004 of title 10 United States Code, an officer in any pay grade who was in a missing status (as defined in section 551(2) of title 37, United States Code) after August 4, 1964, and before May 8, 1975, may be selectedfor detail for legal training under that section 2004 on other than a competitive basis and, if selected for that training, is not counted in computing, for the purpose of subsection (a) of that section 2004, the number of officers who may commence that training in any single fiscal year. For the purposes of determining eligibility under that section 2004, the period of time during which an officer was in that missing status may be disregarded in computing the period he has served on active duty."
 

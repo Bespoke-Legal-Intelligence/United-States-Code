@@ -46,7 +46,7 @@ The index described in subsection (a) shall include only information on DNA iden
 
 #### (c) Failure to comply
 
-Access to the index established by this section is subject to cancellation if the quality control and privacy requirements described in subsection (b) are not met.
+Access to the index established by this section is subject to cancellation if the quality controland privacy requirements described in subsection (b) are not met.
 
 #### (d) Expungement of records
 
@@ -76,7 +76,7 @@ Access to the index established by this section is subject to cancellation if th
 
 &emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.
 
-&emsp;(B) For purposes of subparagraph (A), a court order is not "final" if time remains foran appeal or application for discretionary review with respect to the order.
+&emsp;(B) For purposes of subparagraph (A), a court order is not "final" if time remains for an appeal or application for discretionary review with respect to the order.
 
 (Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, §203(a), (d), title III, §302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272; Pub. L. 109–162, title X, §1002, Jan. 5, 2006, 119 Stat. 3084; Pub. L. 115–50, §2(b), Aug. 18, 2017, 131 Stat. 1001.)
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 109–162, §1002(4), struck out heading and text of subsec
 
 Subsec. (b)(2). Pub. L. 108–405, §302, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "prepared by laboratories, and DNA analysts, that undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title; and".
 
-Subsec. (d)(2)(A). Pub. L. 108–405, §203(a)(2)(B), (C), which directed that subsection (d)(2) be amended by substituting "; or" for period at end and by adding cl. (ii) at end, was executed by making the amendment to subpar. (A) of subsec. (d)(2) to reflect the probable intent of Congress.
+Subsec. (d)(2)(A). Pub. L. 108–405, §203(a)(2)(B), (C), which directed that subsection (d)(2) be amended by substituting "; or" for period at end and by adding cl.\(ii) at end, was executed by making the amendment to subpar. (A) of subsec. (d)(2) to reflect the probable intent of Congress.
 
 Pub. L. 108–405, §203(a)(2)(A), substituted "if—" for "if" and inserted cl. (i) designation before "the responsible agency".
 

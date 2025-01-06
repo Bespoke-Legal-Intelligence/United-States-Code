@@ -26,7 +26,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) failing to discipline monopolistic state trading entities, such as the Canadian Wheat Board, that use nontransparent and discriminatory pricing as a hidden de facto export subsidy;
 
-&emsp;(7) during the period 1996 through 2002, there will be several opportunities for the United States to negotiate fairer trade in agricultural products, including further negotiations under the World Trade Organization, and steps toward possible free trade agreements of the Americas and Asian-Pacific Economic Cooperation (APEC); and
+&emsp;(7) during the period 1996 through 2002, there will be several opportunities for the UnitedStates to negotiate fairer trade in agricultural products, including further negotiations under the World Trade Organization, and steps toward possible free trade agreements of the Americas and Asian-Pacific Economic Cooperation (APEC); and
 
 &emsp;(8) the United States should aggressively use these opportunities to achieve more open and fair opportunities for trade in agricultural products.
 

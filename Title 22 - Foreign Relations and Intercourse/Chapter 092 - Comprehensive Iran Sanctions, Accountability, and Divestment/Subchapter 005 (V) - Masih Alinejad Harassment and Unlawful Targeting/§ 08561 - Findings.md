@@ -1,6 +1,6 @@
 ### §8561. Findings
 
-Congress finds that the Government of the Islamic Republic of Iran surveils, harasses, terrorizes, tortures, abducts, and murders individuals who peacefully defend human rights and freedoms in Iran, and innocent entities and individuals considered by the Government of Iran to beenemies of that regime, including United States citizens on United States soil, and takes foreign nationals hostage, including in the following instances:
+Congress finds that the Government of the Islamic Republic of Iran surveils, harasses, terrorizes, tortures, abducts, and murders individuals who peacefully defend human rights and freedoms in Iran, and innocent entities and individuals considered by the Government of Iran to be enemies of that regime, including United States citizens on United States soil, and takes foreign nationals hostage, including in the following instances:
 
 &emsp;(1) In 2021, Iranian intelligence agents were indicted for plotting to kidnap United States citizen, women's rights activist, and journalist Masih Alinejad, from her home in New York City, in retaliation for exercising her rights under the First Amendment to the Constitution of the United States. Iranian agents allegedly spent at least approximately half a million dollars to capture the outspoken critic of the authoritarianism of the Government of Iran, and studied evacuating her by military-style speedboats to Venezuela before rendition to Iran.
 

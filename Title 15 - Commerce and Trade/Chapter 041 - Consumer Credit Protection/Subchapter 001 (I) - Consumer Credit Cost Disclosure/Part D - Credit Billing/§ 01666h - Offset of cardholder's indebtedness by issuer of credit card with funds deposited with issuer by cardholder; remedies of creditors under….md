@@ -8,7 +8,7 @@ A card issuer may not take any action to offset a cardholder's indebtedness aris
 
 &emsp;(2) such action with respect to any outstanding disputed amount not be taken by the card issuer upon request of the cardholder.
 
-> In the case of any credit card account in existence on the effective date of this section, the previous written authorization referred to in clause (1) shall not be required until the date (after such effective date) when such account is renewed, but in no case later than one year aftersuch effective date. Such written authorization shall be deemed to exist if the card issuer has previously notified the cardholder that the use of his credit card account will subject any funds which the card issuer holds in deposit accounts of such cardholder to offset against any amounts due and payable on his credit card account which have not been paid in accordance with the terms of the agreement between the card issuer and the cardholder.
+> In the case of any credit card account in existence on the effective date of this section, the previous written authorization referred to in clause (1) shall not be required until the date (after such effective date) when such account is renewed, but in no case later than one year after such effective date. Such written authorization shall be deemed to exist if the card issuer has previously notified the cardholder that the use of his credit card account will subject any funds which the card issuer holds in deposit accounts of such cardholder to offset against any amounts due and payable on his credit card account which have not been paid in accordance with the terms of the agreement between the card issuer and the cardholder.
 
 #### (b) Attachments and levies
 

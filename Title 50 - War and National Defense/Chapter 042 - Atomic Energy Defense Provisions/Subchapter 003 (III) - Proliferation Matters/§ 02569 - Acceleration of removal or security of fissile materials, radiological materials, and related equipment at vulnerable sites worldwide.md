@@ -46,7 +46,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 (2) The Secretary of Energy shall, in coordination with the Secretary of State, carry out the program in consultation with, and with the assistance of, appropriate departments, agencies, and other entities of the United States Government.
 
-(3) The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other internationalentities as the Secretary of Energy considers appropriate for the program.
+(3) The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other international entities as the Secretary of Energy considers appropriate for the program.
 
 #### (d) Funding
 
@@ -64,7 +64,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (3) Retention and use of amounts
 
-&emsp;Notwithstanding section 3302 of title 31, the Secretary of Energy may retain and use amounts contributed under an agreement under paragraph (1) for purposes of the programs described in paragraph (2). Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
+&emsp;Notwithstanding section 3302 of title 31, the Secretary of Energy may retain and useamounts contributed under an agreement under paragraph (1) for purposes of the programs described in paragraph (2). Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
 
 #### (4) Return of amounts not used within 5 years
 
@@ -118,7 +118,7 @@ Subsec. (g)(7). Pub. L. 117–263, §3115(2), added par. (7).
 
 <b>2021</b>—Subsec. (f)(6). Pub. L. 117–81, §3118(a)(4), substituted "December 31, 2028" for "December 31, 2023".
 
-<b>2018</b>—Subsec. (f)(5). Pub. L. 115–232, §3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows:"Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted."
+<b>2018</b>—Subsec. (f)(5). Pub. L. 115–232, §3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows: "Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted."
 
 Subsec. (f)(6), (7). Pub. L. 115–232, §3114(2), (3), redesignated par. (7) as (6) and substituted "December 31, 2023" for "December 31, 2018". Former par. (6) redesignated (5).
 

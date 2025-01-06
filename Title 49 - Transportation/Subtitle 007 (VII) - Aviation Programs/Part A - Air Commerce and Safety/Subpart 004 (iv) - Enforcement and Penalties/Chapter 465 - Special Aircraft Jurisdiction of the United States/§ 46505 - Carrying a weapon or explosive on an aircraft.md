@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, "loaded firearm" means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, or powder in the chamber, magazine, cylinder, or clip.
+Definition.—In this section, "loaded firearm" means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, orpowder in the chamber, magazine, cylinder, or clip.
 
 (b)
 

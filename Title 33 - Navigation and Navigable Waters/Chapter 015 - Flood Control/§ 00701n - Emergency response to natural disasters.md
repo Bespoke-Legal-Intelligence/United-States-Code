@@ -2,7 +2,7 @@
 
 #### (a) Emergency fund
 
-(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, realigning, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature tothe pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may, if requested by the non-Federal sponsor, include modifications to the structure or project (including the addition of new project features) to address major deficiencies, increase resilience, increase benefits from the reduction of damages from inundation, wave action, or erosion, or implement nonstructural alternatives to the repair or restoration of the structure. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor's request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: <i>Provided</i>, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
+(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, realigning, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may, if requested by the non-Federal sponsor, include modifications to the structure or project (including the addition of new project features) to address major deficiencies, increase resilience, increase benefits from the reduction of damages from inundation, wave action, or erosion, or implement nonstructural alternatives to the repair or restoration of the structure. The emergency fund may also be expended for emergency dredging for restoration of authorizedproject depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor's request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: <i>Provided</i>, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
 
 (2)
 
@@ -62,7 +62,7 @@ Recommendation.—If the Secretary determines under subparagraph (B) that the Se
 
 (1) The Secretary, upon a written request for assistance under this paragraph made by any farmer, rancher, or political subdivision within a distressed area, and after a determination by the Secretary that (A) as a result of the drought such farmer, rancher, or political subdivision has an inadequate supply of water, (B) an adequate supply of water can be made available to such farmer, rancher, or political subdivision through the construction of a well, and (C) as a result of the drought such well could not be constructed by a private business, the Secretary, subject to paragraph (3) of this subsection, may enter into an agreement with such farmer, rancher, or political subdivision for the construction of such well.
 
-(2) The Secretary, upon a written request for assistance under this paragraph made by any farmer, rancher, or political subdivision within a distressed area, and after a determination by the Secretary that as a result of the drought such farmer, rancher, or political subdivision has an inadequate supply of water and water cannot be obtained by such farmer, rancher, or political subdivision, the Secretary may transport water to such farmer, rancher, or political subdivision by methods which include, but are not limited to, small-diameter emergency water lines and tank trucks, until such time as the Secretary determines that an adequate supply of water is available to such farmer, rancher, or political subdivision.
+(2) The Secretary, upon a written request for assistance under this paragraph made by any farmer, rancher, or political subdivision withina distressed area, and after a determination by the Secretary that as a result of the drought such farmer, rancher, or political subdivision has an inadequate supply of water and water cannot be obtained by such farmer, rancher, or political subdivision, the Secretary may transport water to such farmer, rancher, or political subdivision by methods which include, but are not limited to, small-diameter emergency water lines and tank trucks, until such time as the Secretary determines that an adequate supply of water is available to such farmer, rancher, or political subdivision.
 
 (3)(A) Any agreement entered into by the Secretary pursuant to paragraph (1) of this subsection shall require the farmer, rancher, or political subdivision for whom the well is constructed to pay to the United States the reasonable cost of such construction, with interest, over such number of years, not to exceed thirty, as the Secretary deems appropriate. The rate of interest shall be that rate which the Secretary determines would apply if the amount to be repaid was a loan made pursuant to section 636(b)(2) of title 15.
 
@@ -90,27 +90,37 @@ Recommendation.—If the Secretary determines under subparagraph (B) that the Se
 
 &emsp;Not later than 1 year after October 12, 1996, in accordance with chapter 5 of title 5, the Secretary of the Army shall prepare a manual describing the maintenance and upkeep responsibilities that the Corps of Engineers requires of a non-Federal interest in order for the non-Federal interest to receive Federal assistance under this section. The Secretary shall provide a copy of the manual at no cost to each non-Federal interest that is eligible to receive Federal assistance under this section.
 
-#### (2) Compliance
+#### (2) Systemwide improvement plan
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the status of compliance of a non-Federal interest with the requirements of a levee owner's manual described in paragraph (1), or with any other eligibility requirement established by the Secretary related to the maintenance and upkeep responsibilities of the non-Federal interest, the Secretary shall consider the non-Federal interest to be eligible for repair and rehabilitation assistance under this section if the non-Federal interest—
+&emsp;&emsp;Notwithstanding the status of compliance of a non-Federal interest with the requirements of a levee owner's manual described in paragraph (1), or any other eligibility requirement established by the Secretary related to the maintenance and upkeep responsibilities of the non-Federal interest, the Secretary shall consider the non-Federal interest to be eligible for repair and rehabilitation assistance under this section if—
 
-&emsp;&emsp;&emsp;(i) enters into a written agreement with the Secretary that identifies any items of deferred or inadequate maintenance and upkeep identified by the Secretary prior to the natural disaster; and
+&emsp;&emsp;&emsp;(i) in coordination with the Secretary, the non-Federal interest develops a systemwide improvement plan, prior to the natural disaster, that—
 
-&emsp;&emsp;&emsp;(ii) pays, during performance of the repair and rehabilitation work, all costs to address—
+&emsp;&emsp;&emsp;&emsp;(I) identifies any items of deferred or inadequate maintenance and upkeep, including any such items identified by the Secretary or through periodic inspection of the flood control work;
 
-&emsp;&emsp;&emsp;&emsp;(I) any items of deferred or inadequate maintenance and upkeep identified by the Secretary; and
+&emsp;&emsp;&emsp;&emsp;(II) identifies any additional measures, including repair and rehabilitation work, that the Secretary determines necessary to ensure that the flood control work performs as designed and intended;
 
-&emsp;&emsp;&emsp;&emsp;(II) any repair or rehabilitation work necessary to address damage the Secretary attributes to such deferred or inadequate maintenance or upkeep.
+&emsp;&emsp;&emsp;&emsp;(III) includes specific timelines for addressing such items and measures;
 
-#### (B) Eligibility
+&emsp;&emsp;&emsp;&emsp;(IV) requires the non-Federal interest to be responsible for the cost of addressing the items and measures identified under subclauses (I) and (II); and
 
-&emsp;&emsp;The Secretary may only enter into one agreement under subparagraph (A) with any non-Federal interest.
+&emsp;&emsp;&emsp;(ii) the Secretary—
 
-#### (C) Sunset
+&emsp;&emsp;&emsp;&emsp;(I) determines that the systemwide improvement plan meets the requirements of clause (i) and the Secretary, acting through the District Commander, approves such plan; and
 
-&emsp;&emsp;The authority of the Secretary to enter into agreements under paragraph (2) shall terminate on the date that is 5 years after December 27, 2020.
+&emsp;&emsp;&emsp;&emsp;(II) determines that the non-Federal interest makes satisfactory progress in meeting the timelines described in subclause (III) of that clause.
+
+#### (B) Grandfathered encroachments
+
+&emsp;&emsp;At the request of the non-Federal interest, the Secretary—
+
+&emsp;&emsp;&emsp;(i) shall review documentation developed by the non-Federal interest showing a covered encroachment does not negatively impact the integrity of the flood control work;
+
+&emsp;&emsp;&emsp;(ii) shall make a written determination with respect to whether removal or modification of such covered encroachment is necessary to ensure the encroachment does not negatively impact the integrity of the flood control work; and
+
+&emsp;&emsp;&emsp;(iii) may not determine that a covered encroachment is a deficiency requiring corrective action unless such action is necessary to ensure the encroachment does not negatively impact the integrity of the flood control work.
 
 #### (3) Authorization of appropriations
 
@@ -120,11 +130,21 @@ Recommendation.—If the Secretary determines under subparagraph (B) that the Se
 
 &emsp;In this subsection, the following definitions apply:
 
-#### (A) Maintenance and upkeep
+#### (A) Covered encroachment
+
+&emsp;&emsp;The term "covered encroachment" means a permanent nonproject structure that—
+
+&emsp;&emsp;&emsp;(i) is located inside the boundaries of a flood control work;
+
+&emsp;&emsp;&emsp;(ii) is depicted on construction drawings or operation and maintenance plans for the flood control work that are signed by an engineer of record; and
+
+&emsp;&emsp;&emsp;(iii) is determined by the Secretary to be an encroachment of such flood control work.
+
+#### (B) Maintenance and upkeep
 
 &emsp;&emsp;The term "maintenance and upkeep" means all maintenance and general upkeep of a levee performed on a regular and consistent basis that is not repair and rehabilitation.
 
-#### (B) Repair and rehabilitation
+#### (C) Repair and rehabilitation
 
 &emsp;&emsp;The term "repair and rehabilitation"—
 
@@ -154,7 +174,7 @@ In conducting repair or restoration work under subsection (a), at the request of
 
 The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
 
-(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796; Pub. L. 116–260, div. AA, title I, §120, Dec. 27, 2020, 134 Stat. 2633; Pub. L. 117–263, div. H, title LXXXI, §8102(a), Dec. 23, 2022, 136 Stat. 3695.)
+(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796; Pub. L. 116–260, div. AA, title I, §120, Dec. 27, 2020, 134 Stat. 2633; Pub. L. 117–263, div. H, title LXXXI, §8102(a), Dec. 23, 2022, 136 Stat. 3695; Pub. L. 118–272, div. A, title I, §1146(a), Jan. 4, 2025, 138 Stat. 3036.)
 
 #### <b>Editorial Notes</b>
 
@@ -163,6 +183,10 @@ The Secretary shall notify and consult with the non-Federal sponsor regarding th
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(2). Pub. L. 118–272, §1146(a)(1), added par. (2) and struck out former par. (2) which related to eligibility of non-Federal interest for repair and rehabilitation assistance under this section.
+
+Subsec. (c)(4)(A) to (C). Pub. L. 118–272, §1146(a)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–263 substituted "in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may, if requested by the non-Federal sponsor, include modifications to the structure or project (including the addition of new project features) to address major deficiencies, increase resilience, increase benefits from the reduction of damages from inundation, wave action, or erosion, or implement nonstructural alternatives to the repair or restoration of the structure." for "in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor."
 
@@ -228,6 +252,14 @@ Subsec. (c). Pub. L. 104–303, §202(f), added subsec. (c).
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
+#### Transition
+
+Pub. L. 118–272, div. A, title I, §1146(c), Jan. 4, 2025, 138 Stat. 3038, provided that: "The amendments made bythis section \[amending this section and repealing provisions set out as a note below\] shall have no effect on any written agreement signed by the Secretary \[of the Army\] and a non-Federal interest pursuant to paragraph (2) of section 5(c) of the Act of August 18, 1941 (33 U.S.C. 701n(c)) (as in effect on the day before the date of enactment of this Act \[Jan. 4, 2025\]), if the non-Federal interest otherwise continues to meet the requirements of that paragraph (as so in effect)."
+
+#### Participation in Preparedness Exercises
+
+Pub. L. 118–272, div. A, title I, §1146(d), Jan. 4, 2025, 138 Stat. 3038, provided that: "The Secretary \[of the Army\] may not condition the eligibility of a non-Federal interest for rehabilitation assistance under section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), on the participation of the non-Federal interest in disaster preparedness exercises that are unrelated to necessary repairs, rehabilitation, maintenance, and upkeep of a flood control work."
+
 #### Great Lakes Advance Measures Assistance
 
 Pub. L. 117–263, div. H, title LXXXI, §8102(b), Dec. 23, 2022, 136 Stat. 3696, provided that:
@@ -246,7 +278,7 @@ Great lakes state defined.—In this subsection, the term 'Great Lakes State' me
 
 #### Technical Assistance for Levee Inspections
 
-Pub. L. 117–263, div. H, title LXXXI, §8120, Dec. 23, 2022, 136 Stat. 3711, provided that: "In any instancewhere the Secretary \[of the Army\] requires, as a condition of eligibility for Federal assistance under section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), that a non-Federal sponsor of a flood control project undertake an electronic inspection of the portion of such project that is under normal circumstances submerged, the Secretary shall provide to the non-Federal sponsor credit or reimbursement for the cost of carrying out such inspection against the non-Federal share of the cost of repair or restoration of such project carried out under such section."
+Pub. L. 117–263, div. H, title LXXXI, §8120, Dec. 23, 2022, 136 Stat. 3711, provided that: "In any instance where the Secretary \[of the Army\] requires, as a condition of eligibility for Federal assistance under section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), that a non-Federal sponsor of a flood control project undertake an electronic inspection of the portion of such project that is under normal circumstances submerged, the Secretary shall provide to the non-Federal sponsor credit or reimbursement for the cost of carrying out such inspection against the non-Federal share of the cost of repair or restoration of such project carried out under such section."
 
 #### Continued Eligibility
 
@@ -258,7 +290,7 @@ Pub. L. 115–270, title I, §1161(b), Oct. 23, 2018, 132 Stat. 3796, as amended
 
 #### Systemwide Improvement Framework
 
-Pub. L. 113–121, title III, §3011, June 10, 2014, 128 Stat. 1284, provided that: "A levee system shall remain eligible for rehabilitation assistance under the authority provided by section 5 of the Act of August 18, 1941 (33 U.S.C. 701n) as long as the levee system sponsor continues to make satisfactory progress, as determined by the Secretary \[of the Army\], on an approved systemwide improvement framework or letter of intent."
+Pub. L. 113–121, title III, §3011, June 10, 2014, 128 Stat. 1284, which provided that levee system remained eligible for rehabilitation assistance under this section as long as levee system sponsor continued to make satisfactory progress on approved systemwide improvement framework or letter of intent, was repealed by Pub. L. 118–272, div. A, title I, §1146(b)(1), Jan. 4, 2025, 138 Stat. 3038. See subsection (c)(2) of this section.
 
 #### Vegetation Management Guidelines
 

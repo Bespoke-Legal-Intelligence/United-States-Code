@@ -50,7 +50,7 @@ The program under this section shall—
 
 The program under this section shall operate a tsunami warning system that—
 
-&emsp;(1) is capable of forecasting tsunami, including forecasting tsunami arrival time and inundation estimates, anywhere in the Pacific andArctic Ocean regions and providing adequate warnings;
+&emsp;(1) is capable of forecasting tsunami, including forecasting tsunami arrival time and inundation estimates, anywhere in the Pacific and Arctic Ocean regions and providing adequate warnings;
 
 &emsp;(2) is capable of forecasting and providing adequate warnings, including tsunami arrival time and inundation models where applicable, in areas of the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, that are determined—
 

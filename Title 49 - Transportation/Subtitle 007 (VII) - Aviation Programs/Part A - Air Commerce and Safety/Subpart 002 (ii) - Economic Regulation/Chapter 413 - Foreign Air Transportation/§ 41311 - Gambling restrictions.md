@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An air carrier or foreign air carrier may not install, transport, or operate, or permit the use of, any gambling device on board an aircraft in foreign air transportation.
+In General.—An air carrier or foreign air carrier may not install, transport, or operate, orpermit the use of, any gambling device on board an aircraft in foreign air transportation.
 
 (b)
 

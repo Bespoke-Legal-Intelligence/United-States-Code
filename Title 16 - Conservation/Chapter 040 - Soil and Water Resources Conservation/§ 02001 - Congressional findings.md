@@ -10,7 +10,7 @@ The Congress finds that:
 
 (4) Since individual and governmental decisions concerning soil and water resources often transcend administrative boundaries and affect other programs and decisions, a coordinated appraisal and program framework are essential.
 
-(Pub. L. 95–192, §2, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, §246(f)(2)(A), Oct. 13,1994, 108 Stat. 3225; Pub. L. 110–234, title II, §2804(a), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2804(a), June 18, 2008, 122 Stat. 1664, 1814.)
+(Pub. L. 95–192, §2, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, §246(f)(2)(A), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 110–234, title II, §2804(a), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2804(a), June 18, 2008, 122 Stat. 1664, 1814.)
 
 #### <b>Editorial Notes</b>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Commerce shall establish a community-based fishery and coastal habitat restoration program to implement and support the restoration of fishery and coastal habitats.
+The Secretary of Commerce shall establish a community-based fishery and coastal habitatrestoration program to implement and support the restoration of fishery and coastal habitats.
 
 #### (b) Authorized activities
 

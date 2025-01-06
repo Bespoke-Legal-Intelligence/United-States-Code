@@ -24,7 +24,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(4) Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003,117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, §183, Dec. 29, 2022, 136 Stat. 5436.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, §183, Dec. 29, 2022, 136 Stat. 5436.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +63,62 @@ Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out forme
 #### Effective Date of 2003 Amendment
 
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
+
+#### Limitation on Detail of Directors of Medical Centers of Department of Veterans Affairs to Different Positions
+
+Pub. L. 118–210, title I, §148, Jan. 2, 2025, 138 Stat. 2754, provided that:
+
+"(a)
+
+Notification.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after detailing a director of a medical center of the Department of Veterans Affairs to a different position within the Department, the Secretary of Veterans Affairs shall notify the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives of such detail.
+
+&emsp;"(2)
+
+Matters to be included.—The notification required by paragraph (1) shall include, with respect to a director of a medical center who is detailed to a different position within the Department, the following information:
+
+&emsp;&emsp;"(A) The location at which the director is detailed.
+
+&emsp;&emsp;"(B) The position title of the detail.
+
+&emsp;&emsp;"(C) The estimated time the director is expected to be absent from their duties at the medical center.
+
+&emsp;&emsp;"(D) Such other information as the Secretary may determine appropriate.
+
+"(b)
+
+Appointment of Acting Director.—Not later than 120 days after detailing a director of a medical center of the Department to a different position within the Department, the Secretary shall appoint an individual as acting director of such medical center with all of the authority and responsibilities of the detailed director.
+
+"(c)
+
+Update on Detail.—Not later than 120 days after detailing a director of a medical center of the Department to a different position within the Department, and not less frequently than every 30 days thereafter while the detail is in effect or while the director position at the medical center is vacant, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives an update regarding the status of the detail.
+
+"(d)
+
+Return to Position or Reassignment.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), not later than 180 days after detailing a director of a medical center of the Department to a different position within the Department, for a reason other than an ongoing investigation or administrative action with respect to the director, the Secretary shall—
+
+&emsp;&emsp;"(A) return the individual to the position as director of the medical center; or
+
+&emsp;&emsp;"(B) reassign the individual from the position as director of the medical center and begin the process of hiring a new director for such position.
+
+&emsp;"(2)
+
+Waiver.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary may waive the requirement under paragraph (1) with respect to an individual for successive 90-day increments for a total period of not more than 540 days from the original date the individual was detailed away from their position as director of a medical center.
+
+&emsp;&emsp;"(B)
+
+Notification.—Not later than 30 days after exercising a waiver under subparagraph (A), the Secretary shall notify Congress of the waiver and provide to Congress information as to why the waiver is necessary."
 
 #### Third Party Review of Appointees in Veterans Health Administration Who Had a License Terminated for Cause and Notice to Individuals Treated by Those Appointees if Determined That an Episode of Care or Services That They Received Was Below the Standard of Care
 
@@ -118,7 +174,7 @@ Pub. L. 117–328, div. V, title I, §103, Dec. 29, 2022, 136 Stat. 5500, provid
 
 "(a)
 
-In General.—Not later than three years after the date of the enactment of this Act \[Dec. 29, 2022\] andsubject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs.
+In General.—Not later than three years after the date of the enactment of this Act \[Dec. 29, 2022\] and subject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs.
 
 "(b)
 
@@ -332,7 +388,7 @@ Period of availability.—Paid leave under this section may only be provided to 
 
 Total hours; amount.—Paid leave under this section—
 
-&emsp;&emsp;"(A) shall be provided to a covered employee in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement;
+&emsp;&emsp;"(A) shall be provided to a covered employee in an amount not to exceed 600 hours of paid leave foreach full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement;
 
 &emsp;&emsp;"(B) shall be paid at the same hourly rate as other leave payments; and
 
@@ -476,7 +532,7 @@ No Additional Funds Authorized.—No additional funds are authorized to be appro
 
 #### Occupational Series for Certain Mental Health Providers
 
-Pub. L. 116–171, title V, §501(b), Oct. 17, 2020, 134 Stat. 815, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental healthcounselors and marriage and family therapists of the Department of Veterans Affairs."
+Pub. L. 116–171, title V, §501(b), Oct. 17, 2020, 134 Stat. 815, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental health counselors and marriage and family therapists of the Department of Veterans Affairs."
 
 #### Identification and Referral of Members of the Armed Forces With a Health Care Occupation for Potential Employment With the Department of Veterans Affairs During Separation From the Armed Forces
 

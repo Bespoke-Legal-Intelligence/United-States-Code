@@ -22,7 +22,7 @@ Issuance of Certificate.—The Administrator shall issue a certificate of demons
 
 (c)
 
-Designation of Person To Determine Successful Completion of Training.—In accordance with part 183 of title 14, Code of Federal Regulation,<sup>1</sup> the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
+Designation of Person To Determine Successful Completion of Training.—In accordance with part 183 of title 14, Code of Federal Regulations, the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
 
 (d)
 
@@ -66,7 +66,7 @@ Foreign flights.—The requirements of paragraph (1) do not apply to a flight at
 
 Flight Attendant Defined.—In this section, the term "flight attendant" means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
 
-(Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58; Pub. L. 115–254, div. B, title V, §539(i), Oct. 5, 2018, 132 Stat. 3371.)
+(Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58; Pub. L. 115–254, div. B, title V, §539(i), Oct. 5, 2018, 132 Stat. 3371; Pub. L. 118–63, title XI, §1101(p), May 16, 2024, 138 Stat. 1414.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +77,8 @@ For effective date of this section, referred to in subsecs. (a)(2) and (d)(5), s
 The date of enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–63 substituted "Regulations," for "Regulation,".
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–254, §539(i)(1), substituted "title 14" for "chapter 14".
 
@@ -93,6 +95,4 @@ Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided
 #### Facilitation
 
 Pub. L. 112–95, title III, §304(b), Feb. 14, 2012, 126 Stat. 58, provided that: "The Administrator of the Federal Aviation Administration shall work with air carriers to facilitate compliance with the requirements of section 44728(f) of title 49, United States Code (as amended by this section)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Regulations,".</i>
 

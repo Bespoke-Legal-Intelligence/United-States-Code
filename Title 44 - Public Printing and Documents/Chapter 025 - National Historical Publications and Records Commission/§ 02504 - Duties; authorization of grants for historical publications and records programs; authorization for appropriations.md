@@ -1,6 +1,6 @@
 ### §2504. Duties; authorization of grants for historical publications and records programs; authorization for appropriations
 
-(a) The Commission shall make plans, estimates, and recommendations for historical works and collections of sources it considers appropriate for preserving, publishing or otherwise recording at the public expense. The Chairman of the Commission shall transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by the Commission.
+(a) The Commission shall make plans, estimates, and recommendations for historicalworks and collections of sources it considers appropriate for preserving, publishing or otherwise recording at the public expense. The Chairman of the Commission shall transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by the Commission.
 
 (b) The Commission shall cooperate with, assist and encourage appropriate Federal, State, and local agencies and nongovernmental institutions, societies, and individuals in collecting and preserving and, when it considers it desirable, in editing and publishing papers of outstanding citizens of the United States, and other documents as may be important for an understanding and appreciation of the history of the United States.
 
@@ -158,7 +158,7 @@ Pub. L. 110–404, §8, Oct. 13, 2008, 122 Stat. 4285, provided that:
 
 "(a)
 
-In General.—The Executive Director of the National Historical Publications and Records Commissionof the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
+In General.—The Executive Director of the National Historical Publications and Records Commission of the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
 
 "(b)
 

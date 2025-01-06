@@ -92,7 +92,7 @@ The Secretary may make guarantees for the following gasification projects:
 
 #### (2) Industrial gasification projects
 
-&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to producesynthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
+&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to produce synthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
 
 #### (3) Petroleum coke gasification projects
 
@@ -122,7 +122,7 @@ A project that receives tax credits for clean coal technology shall not be disqu
 
 Notwithstanding subsection (a)(2), the Secretary may, if regional variation significantly affects the deployment of a technology, make guarantees under this subchapter for up to 6 projects that employ the same or similar technology as another project, provided no more than 2 projects that use the same or a similar technology are located in the same region of the United States.
 
-(Pub. L. 109–58, title XVII, §1703, Aug. 8, 2005, 119 Stat. 1120; Pub. L. 109–168, §1(b)(1), Jan. 10, 2006, 119 Stat. 3580; Pub. L. 110–140, title I, §134(b), Dec. 19, 2007, 121 Stat. 1513; Pub. L. 116–260, div. Z, title IX, §9010(b), Dec. 27, 2020, 134 Stat. 2605; Pub. L. 117–58, div. D, title IV, §40401(a)(2)(A), Nov. 15, 2021, 135 Stat. 1034.)
+(Pub. L. 109–58, title XVII, §1703, Aug. 8, 2005, 119 Stat. 1120; Pub. L. 109–168, §1(b)(1), Jan. 10, 2006,119 Stat. 3580; Pub. L. 110–140, title I, §134(b), Dec. 19, 2007, 121 Stat. 1513; Pub. L. 116–260, div. Z, title IX, §9010(b), Dec. 27, 2020, 134 Stat. 2605; Pub. L. 117–58, div. D, title IV, §40401(a)(2)(A), Nov. 15, 2021, 135 Stat. 1034.)
 
 #### <b>Editorial Notes</b>
 

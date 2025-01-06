@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, the Secretary may accept and expend 
 
 #### (1) Study of historic properties
 
-&emsp;The Secretary shall prepare and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a study of the properties in the city of Natchez and its immediate environs that preserve and interpret the history contained in the purposes of this subchapter. Such report shall considerwhich properties best exemplify such purposes and appropriate means for providing technical assistance to, and interpretation of, such properties. The study and report shall include consideration of Natchez-Under-the-Hill and the Briars.
+&emsp;The Secretary shall prepare and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a study of the properties in the city of Natchez and its immediate environs that preserve and interpret the history contained in the purposes of this subchapter. Such report shall consider which properties best exemplify such purposes and appropriate means for providing technical assistance to, and interpretation of, such properties. The study and report shall include consideration of Natchez-Under-the-Hill and the Briars.
 
 #### (2) Establishment of districts
 

@@ -4,7 +4,7 @@
 
 Prohibited Discrimination.—A holder of a certificate under section 44704 or 44705 of this title, or a contractor, subcontractor, or supplier of such holder, may not discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
-&emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of theemployer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
+&emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
 &emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
@@ -14,7 +14,7 @@ Prohibited Discrimination.—A holder of a certificate under section 44704 or 44
 
 (b)
 
-Department of Labor Complaint Procedure.—
+Department of Labor and Federal Aviation Administration Complaint Procedure.—
 
 &emsp;(1)
 
@@ -66,7 +66,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
-> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
+> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, asdetermined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(C)
 
@@ -86,7 +86,11 @@ Limitation on collateral attack.—An order of the Secretary of Labor with respe
 
 &emsp;(5)
 
-Enforcement of order by secretary of labor.—Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief and compensatory damages.
+Enforcement of order.—Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor and the Administrator of the Federal Aviation Administration shall consult with each other to determine the most appropriate action to be taken, in which—
+
+&emsp;&emsp;(A) the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order, for which, in actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, injunctive relief and compensatory damages; and
+
+&emsp;&emsp;(B) the Administrator of the Federal Aviation Administration may assess a civil penalty pursuant to section 46301.
 
 &emsp;(6)
 
@@ -116,11 +120,15 @@ Contractor Defined.—In this section, the term "contractor" means—
 
 &emsp;(2) a person that performs safety-sensitive functions related to the design or production of an aircraft, aircraft engine, propeller, appliance, or component thereof by contract for a holder of a certificate issued under section 44704.
 
-(Added Pub. L. 106–181, title V, §519(a), Apr. 5, 2000, 114 Stat. 145; amended Pub. L. 116–260, div. V, title I, §118, Dec. 27, 2020, 134 Stat. 2337.)
+(Added Pub. L. 106–181, title V, §519(a), Apr. 5, 2000, 114 Stat. 145; amended Pub. L. 116–260, div. V, title I, §118, Dec. 27, 2020, 134 Stat. 2337; Pub. L. 118–63, title III, §370, May 16, 2024, 138 Stat. 1139.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–63, §370(1), substituted "Department of Labor and Federal Aviation Administration Complaint Procedure" for "Department of Labor Complaint Procedure" in heading. Text quoted in directory language of amendment was editorially conformed to the heading style used in this section.
+
+Subsec. (b)(5). Pub. L. 118–63, §370(2), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief and compensatory damages."
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §118(1), added subsec. (a) and struck out former subsec. (a) which related to discrimination against airline employees.
 

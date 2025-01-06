@@ -22,7 +22,7 @@ Federal lands acquired or withdrawn for Federal water-resource purposes and made
 
 #### (f) National forest lands
 
-Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 (36 Stat. 961),unless such lands are acquired to carry out the National Migratory Bird Management Program.
+Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 (36 Stat. 961), unless such lands are acquired to carry out the National Migratory Bird Management Program.
 
 (Mar. 10, 1934, ch. 55, §3, 48 Stat. 401; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 85–624, §2, Aug. 12, 1958, 72 Stat. 566.)
 

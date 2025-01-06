@@ -112,7 +112,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An award made to a Hub under this section shall be for a period of not more than 5 years,subject to the availability of appropriations, after which the award may be renewed, subject to a rigorous merit review.
+&emsp;An award made to a Hub under this section shall be for a period of not more than 5 years, subject to the availability of appropriations, after which the award may be renewed, subject to a rigorous merit review.
 
 #### (2) Existing Hubs
 

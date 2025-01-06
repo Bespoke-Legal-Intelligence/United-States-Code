@@ -2,7 +2,7 @@
 
 (a) The General Accounting Office Personnel Appeals Board <sup>1</sup> shall select one of its members as Chairman. The Chairman is the chief executive and administrative officer of the Board.
 
-(b)(1) The Comptroller General shall appoint as General Counsel of the Board an individual the Chairman selects. The General Counsel serves at the pleasure of the Chairman.
+(b)(1) The Comptroller General shall appoint as General Counsel of the Board an individualthe Chairman selects. The General Counsel serves at the pleasure of the Chairman.
 
 (2) The Chairman shall fix the pay of the General Counsel. The rate of basic pay of the General Counsel may be not more than the maximum rate of basic pay payable for grade GS–16 of the General Schedule.
 

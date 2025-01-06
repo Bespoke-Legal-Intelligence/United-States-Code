@@ -130,5 +130,5 @@ Form.—Each report under this subsection shall be submitted in unclassified for
 
 Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' has the meaning given that term in section 301(1) of title 10, United States Code."
 
-\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1204(b) of Pub. L. 113–291,set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1204(b) of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 

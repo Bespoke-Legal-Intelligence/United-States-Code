@@ -42,7 +42,7 @@ The Commissioner may enter into a cost sharing agreement with airport authoritie
 
 #### (1) In general
 
-&emsp;In this section, the term "initial preclearance operations costs" means the costs incurred, or expected to be incurred, by U.S. Customs and Border Protection to establish or maintain preclearance operations at an airport in a foreign country, including costs relating to—
+&emsp;In this section, the term "initial preclearance operations costs" means thecosts incurred, or expected to be incurred, by U.S. Customs and Border Protection to establish or maintain preclearance operations at an airport in a foreign country, including costs relating to—
 
 &emsp;&emsp;(A) hiring, training, and equipping new U.S. Customs and Border Protection officers who will be stationed at United States domestic ports of entry or other U.S. Customs and Border Protection facilities to backfill U.S. Customs and Border Protection officers to be stationed at an airport in a foreign country to conduct preclearance operations; and
 

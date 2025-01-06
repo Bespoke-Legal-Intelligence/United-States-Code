@@ -18,7 +18,7 @@ Authority.—Notwithstanding section 3201(e) of title 10, the Commandant may ent
 
 &emsp;&emsp;(C)
 
-Acquisitions.—Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquireproperty or services for the direct benefit or use of the Coast Guard Academy.
+Acquisitions.—Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Coast Guard Academy.
 
 &emsp;(2)
 
@@ -110,13 +110,13 @@ Limitations.—A licensing, marketing, or sponsorship agreement may not be enter
 
 (f)
 
-Retention and Use of Funds.—Funds received by the Commandant under this section may be retained for use to support the athletic programs of the Coast Guard Academy and shall remain available until expended.
+Retention and Use of Funds.—Funds received by the Commandant under this section may be retained for use to support the athleticprograms of the Coast Guard Academy and shall remain available until expended.
 
 (g)
 
 Conditions.—The authority provided in this section with respect to a qualified organization is available only so long as the qualified organization continues—
 
-&emsp;(1) to operate in accordance with this section, the law of the State of Connecticut, andthe constitution and bylaws of the qualified organization; and
+&emsp;(1) to operate in accordance with this section, the law of the State of Connecticut, and the constitution and bylaws of the qualified organization; and
 
 &emsp;(2) to operate exclusively to support the athletic programs of the Coast Guard Academy.
 

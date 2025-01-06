@@ -54,7 +54,7 @@ Based on title 28, U.S.C., 1940 ed., §223 and §11–205 District of Columbia C
 
 This section consolidates section 223 of title 28, U.S.C., 1940 ed., with part of section 11–205 of the District of Columbia Code.
 
-Reference to San Juan as a place for holding court in the First Circuit was omitted. The revised section will permit the holding of terms at San Juan when the public interest requires.
+Reference to San Juan as a place for holding court in the First Circuit was omitted. The revised section willpermit the holding of terms at San Juan when the public interest requires.
 
 The phrase "and at such other places within the respective circuits as may be designated by rule of court" was added to enable each court of appeals to hold such additional regular terms as changing circumstances might require.
 

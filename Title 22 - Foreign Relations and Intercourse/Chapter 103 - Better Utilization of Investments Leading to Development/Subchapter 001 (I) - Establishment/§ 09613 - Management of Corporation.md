@@ -134,7 +134,7 @@ There shall be in the Corporation a Deputy Chief Executive Officer, who shall be
 
 #### (1) Appointment
 
-&emsp;Subject to the approval of the Board, the Chief Executive Officer, with the concurrenceof the Administrator of the United States Agency for International Development, shall appoint a Chief Development Officer, from among individuals with experience in development, who—
+&emsp;Subject to the approval of the Board, the Chief Executive Officer, with the concurrence of the Administrator of the United States Agency for International Development, shall appoint a Chief Development Officer, from among individuals with experience in development, who—
 
 &emsp;&emsp;(A) shall report directly to the Board; and
 

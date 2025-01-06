@@ -74,13 +74,13 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (E) Any State may expend grants made available under paragraphs (1) and (5) for reclamation and abatement of any site referred to in subparagraph (A) if the State, with the concurrence of the Secretary, makes either of the findings referred to in clause (i) or (ii) of subparagraph (B) and if the State determines that the reclamation priority of the site is the same or more urgent than the reclamation priority for eligible lands and waters pursuant to section 1234 of this title under the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title.
 
-(F) For the purposes of the certification referred to in section 1240a(a) of this title, sites referred to in subparagraph (A) of this paragraph shall be considered as having the same prioritiesas those stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title. All sites referred to in subparagraph (A) of this paragraph within any State shall be reclaimed prior to such State making the certification referred to in section 1240a(a) of this title.
+(F) For the purposes of the certification referred to in section 1240a(a) of this title, sites referred to in subparagraph (A) of this paragraph shall be considered as having the same priorities as those stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title. All sites referred to in subparagraph (A) of this paragraph within any State shall be reclaimed prior to such State making the certification referred to in section 1240a(a) of this title.
 
 (5)(A) The Secretary shall allocate 60 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indian tribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds made available under paragraph (3) or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
 
 (B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shall be in addition to amounts that are allocated under subparagraph (A).
 
-(6)(A) Any State with an approved abandoned mine reclamation program pursuant to section 1235 of this title may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 30 percent of the total of the grants made annually to the State under paragraphs (1) and (5) if those amounts are deposited into an acid mine drainage abatement and treatment fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State for the abatement of the causes and the treatment of the effects of acid mine drainage in a comprehensive manner within qualified hydrologic units affected by coal mining practices.
+(6)(A) Any State with an approved abandoned mine reclamation program pursuant to section 1235 of this title may receive and retain, withoutregard to the 3-year limitation referred to in paragraph (1)(D), up to 30 percent of the total of the grants made annually to the State under paragraphs (1) and (5) if those amounts are deposited into an acid mine drainage abatement and treatment fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State for the abatement of the causes and the treatment of the effects of acid mine drainage in a comprehensive manner within qualified hydrologic units affected by coal mining practices.
 
 (B) In this paragraph, the term "qualified hydrologic unit" means a hydrologic unit—
 
@@ -182,7 +182,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (D) Individuals considered enrolled
 
-&emsp;&emsp;For purposes of subparagraph (C), any individual who was eligible to receive benefits from the Plan as of December 20, 2006, even though benefits were being provided to the individual pursuant to a settlement agreement approved by order of a bankruptcy court entered on or before September 30,2004, will be considered to be actually enrolled in the Plan and shall receive benefits from the Plan beginning on December 31, 2006.
+&emsp;&emsp;For purposes of subparagraph (C), any individual who was eligible to receive benefits from the Plan as of December 20, 2006, even though benefits were being provided to the individual pursuant to a settlement agreement approved by order of a bankruptcy court entered on or before September 30, 2004, will be considered to be actually enrolled in the Plan and shall receive benefits from the Plan beginning on December 31, 2006.
 
 #### (3) Adjustment
 
@@ -392,7 +392,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;&emsp;(XII) any material changes to benefits, accrual rates, or contribution rates during the plan year preceding such plan year;
 
-&emsp;&emsp;&emsp;&emsp;(XIII) any scheduled benefit increase or decrease in the plan year precedingsuch plan year having a material effect on liabilities of the plan;
+&emsp;&emsp;&emsp;&emsp;(XIII) any scheduled benefit increase or decrease in the plan year preceding such plan year having a material effect on liabilities of the plan;
 
 &emsp;&emsp;&emsp;&emsp;(XIV) details regarding any funding improvement plan or rehabilitation plan and updates to such plan;
 
@@ -484,7 +484,7 @@ Eligibility of certain retirees.—Individuals referred to in clause (ii)(II)(bb
 
 Requirements for transfer.—The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees' beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II)."
 
-<b>2016</b>—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, §167(b), as added by Pub. L. 114–254, div. A, §101(3), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: "Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made."
+<b>2016</b>—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, §167(b), as added by Pub. L. 114–254, div. A, §101(3), designatedexisting provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: "Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made."
 
 Subsec. (i)(3)(B). Pub. L. 114–223, div. C, §167(c), as added by Pub. L. 114–254, div. A, §101(3), substituted "under paragraph (1) so that" for "so that" in introductory provisions, "each such transfer" for "each transfer" in cl. (i), and "paragraph (1)" for "this subsection" in cl. (iii).
 
@@ -564,7 +564,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-Reporting requirements.—Section 402(i)(4)(G) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(i)(4)(G)), as added by this section, shall apply to plan years beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Reporting requirements.—Section 402(i)(4)(G) of the Surface Mining Control and Reclamation Act of1977 (30 U.S.C. 1232(i)(4)(G)), as added by this section, shall apply to plan years beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2017 Amendment
 

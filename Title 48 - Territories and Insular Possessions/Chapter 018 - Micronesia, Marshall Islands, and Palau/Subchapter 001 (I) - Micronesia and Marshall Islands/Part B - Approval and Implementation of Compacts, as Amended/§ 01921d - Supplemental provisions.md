@@ -14,7 +14,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
-(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
+(5) Pursuant to section 3927 of title 22, all United States Government executive branch employees in the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau fall under the authority of the respective applicable chief of mission, except for employees identified as excepted from the authority under Federal law or by Presidential directive.
 
 (6)
 
@@ -38,7 +38,7 @@ Joint economic management committee.—
 
 &emsp;&emsp;(i)
 
-In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management Committee provided for in section 213 of the U.S.-FSM Compact and Article III ofthe U.S.-FSM Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-FSM Compact shall be United States Government officers or employees.
+In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management Committee provided for in section 213 of the U.S.-FSM Compact and Article III of the U.S.-FSM Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-FSM Compact shall be United States Government officers or employees.
 
 &emsp;&emsp;(ii)
 
@@ -46,7 +46,7 @@ Departments.—It is the sense of Congress that 2 of the 3 appointees should be 
 
 &emsp;&emsp;(iii)
 
-Additional scope.—Section 213 of the U.S.-FSM Compact shall be construed to read as though the phrase, "the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates," were inserted after "with particular focus on those parts of the plan dealing with the sectors identified in subsection (a) of section 211".
+Additional scope.—Section 213 of the U.S.-FSM Compact shall be construed to read as though the phrase, "the implementation of economic policy reforms to encourage investment and to achieve self-sufficienttax rates," were inserted after "with particular focus on those parts of the plan dealing with the sectors identified in subsection (a) of section 211".
 
 &emsp;(B)
 
@@ -86,7 +86,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (e) Noncompliance sanctions; actions incompatible with United States authority
 
-Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
+Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant tothe U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
 
 #### (f) Continuing programs and laws
 
@@ -122,11 +122,11 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), titles I \[29 U.S.C. 3111 et seq.\] (other than subtitle C \[29 U.S.C. 3191 et seq.\]) and II \[29 U.S.C. 3271 et seq.\] of the Workforce Innovation and Opportunity Act, title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.),<sup>1</sup> there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
-&emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and anequivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
+&emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
 &emsp;&emsp;&emsp;&emsp;(II) $6,100,000 for the Republic of the Marshall Islands for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 218 of the U.S.-RMI Compact, for each of fiscal years 2005 through 2023,
 
-&emsp;&emsp;&nbsp;except that citizens of the Federated States of Micronesia and the Republic of the Marshall Islands who attend an institution of higher education in the United States or its territories, the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau on December 17, 2003, may continue to receive assistance under such subpart 3 of part A or part C, for not more than 4 academic years after such date to enable such citizens to complete their program of study.
+&emsp;&emsp;&nbsp;except that citizens of the Federated States of Micronesia and the Republic of the Marshall Islands who attend an institution of higher education in the United States or its territories, the FederatedStates of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau on December 17, 2003, may continue to receive assistance under such subpart 3 of part A or part C, for not more than 4 academic years after such date to enable such citizens to complete their program of study.
 
 #### (iv) Fiscal procedures
 
@@ -148,10 +148,6 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;The Governments of the Federated States of Micronesia and the Republic of the Marshall Islands shall continue to be eligible for competitive grants administered by the Secretary of Education, the Secretary of Health and Human Services, and the Secretary of Labor to the extent that such grants continue to be available to State and local governments in the United States.
 
-#### (ix) Applicability
-
-&emsp;&emsp;&emsp;The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2024, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
-
 &emsp;&emsp;(C) The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
 
 &emsp;&emsp;(D) The Public Health Service.
@@ -160,7 +156,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (2) Tort claims
 
-&emsp;The provisions of section 178 of the U.S.-FSM Compact and the U.S.-RMI Compact regarding settlement and payment of tort claims shall apply to employees of any Federal agency of the Government of the United States (and to any other person employed on behalf of any Federal agency of the Government of the United States on the basis of a contractual, cooperative, or similar agreement) which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the U.S.-FSM Compact or the U.S.-RMI Compact or thisjoint resolution, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied.
+&emsp;The provisions of section 178 of the U.S.-FSM Compact and the U.S.-RMI Compact regarding settlement and payment of tort claims shall apply to employees of any Federal agency of the Government of the United States (and to any other person employed on behalf of any Federal agency of the Government of the United States on the basis of a contractual, cooperative, or similar agreement) which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the U.S.-FSM Compact or the U.S.-RMI Compact or this joint resolution, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied.
 
 #### (3) PCB cleanup
 
@@ -172,7 +168,7 @@ Until otherwise provided by Act of Congress, or until termination of the U.S.-FS
 
 #### (h) Trust Territory debts to U.S. Federal agencies
 
-Neither the Government of the Federated States of Micronesia nor the Government of the Marshall Islands shall be required to pay to any department, agency, independent agency, office, or instrumentality of the United States any amounts owed to such department, agency, independent agency, office, or instrumentality by the Government of the Trust Territory of the Pacific Islands as of the effective date of the Compact. There is authorized to be appropriated such sums as may be necessary to carry out the purposes of this subsection.
+Neither the Government of the Federated States of Micronesia nor the Government of theMarshall Islands shall be required to pay to any department, agency, independent agency, office, or instrumentality of the United States any amounts owed to such department, agency, independent agency, office, or instrumentality by the Government of the Trust Territory of the Pacific Islands as of the effective date of the Compact. There is authorized to be appropriated such sums as may be necessary to carry out the purposes of this subsection.
 
 #### (i) Judicial training
 
@@ -186,7 +182,29 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (j) Technical assistance
 
-Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements.
+#### (1) In general
+
+&emsp;Technical assistance may be provided pursuant to section 224 of the 2023 Amended U.S.-FSM Compact, section 224 of the 2023 Amended U.S.-RMI Compact, or section 222 of the U.S.-Palau Compact (as those terms are defined in section 1982 of this title) by Federal agencies and institutions of the Government of the United States to the extent the assistance shall be provided to States, territories, or units of local government.
+
+#### (2) Historic preservation
+
+#### (A) In general
+
+&emsp;&emsp;Any technical assistance authorized under paragraph (1) that is provided by the Forest Service, the Natural Resources Conservation Service, the United States Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, the Advisory Council on Historic Preservation, the Department of the Interior, or any other Federal agency providing assistance under division A of subtitle III of title 54 may be provided on a nonreimbursable basis.
+
+#### (B) Grants
+
+&emsp;&emsp;During the period in which the 2023 Amended U.S.-FSM Compact (as so defined) and the 2023 Amended U.S.-RMI Compact (as so defined) are in force, the grant programs under division A of subtitle III of title 54 shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as those programs applied prior to the approval of the U.S.-FSM Compact and U.S.-RMI Compact.
+
+#### (3) Additional funds
+
+&emsp;Any funds provided pursuant to this subsection, subsections (c), (g), (h), (i), (k), (l), and (m), section 1921a(a) of this title, and subsections (a), (b), (f), (g), (h), and (j) of section 1921b of this title shall be in addition to, and not charged against, any amounts to be paid to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to—
+
+&emsp;&emsp;(A) the U.S.-FSM Compact;
+
+&emsp;&emsp;(B) the U.S.-RMI Compact; or
+
+&emsp;&emsp;(C) any related subsidiary agreement.
 
 #### (k) Prior service benefits program
 
@@ -202,7 +220,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 #### (n) User fees
 
-Any person in the Federated States of Micronesia or the Republic of the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Republic of the Marshall Islands by the Government of the United States to the sameextent as any person in the United States would be liable for fees, if any, for such services in the United States.
+Any person in the Federated States of Micronesia or the Republic of the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Republic of the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
 
 #### (o) Treatment of judgments of courts of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau
 
@@ -230,15 +248,13 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 &emsp;Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871; Pub. L. 113–128, title V, §512(g)(1), July 22, 2014, 128 Stat. 1708; Pub. L. 113–287, §5(o)(2), Dec. 19, 2014, 128 Stat. 3272; Pub. L. 115–91, div. A, title XII, §1259C(c), Dec. 12, 2017, 131 Stat. 1687.)
+(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871; Pub. L. 113–128, title V, §512(g)(1), July 22, 2014, 128 Stat. 1708; Pub. L. 113–287, §5(o)(2), Dec. 19, 2014, 128 Stat. 3272; Pub. L. 115–91, div. A, title XII, §1259C(c), Dec. 12, 2017, 131 Stat. 1687; Pub. L. 118–42, div. G, title II, §209(b)(5), (h), (j), Mar. 9, 2024, 138 Stat. 443, 446, 447.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This joint resolution, referred to in subsecs. (a), (b)(10), and (f)(2), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
-
-Section 3927 of title 22, referred to in subsec. (b)(5), was in the original "section 207 of the Foreign Service Act", and was translated as meaning section 207 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
 
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -252,11 +268,17 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle C of title I of the Act is classified generally to part C (§3191 et seq.) of subchapter I of chapter 32 of Title 29. Title II of the Act is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683. Title I of the Act is classified generally to subchapter I (§2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f)(1)(B)(iii), is Pub. L.88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683. Title I of the Act is classified generally to subchapter I (§2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Head Start Act, referred to in subsec. (f)(1)(B)(iii), (v), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(5). Pub. L. 118–42, §209(h), added par. (5) and struck out former par. (5) which read as follows: "United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time."
+
+Subsec. (f)(1)(B)(ix). Pub. L. 118–42, §209(b)(5), struck out cl. (ix). Text read as follows: "The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2024, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003."
+
+Subsec. (j). Pub. L. 118–42, §209(j), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: "Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements."
 
 <b>2017</b>—Subsec. (f)(1)(B)(ix). Pub. L. 115–91 substituted "2024" for "2009".
 

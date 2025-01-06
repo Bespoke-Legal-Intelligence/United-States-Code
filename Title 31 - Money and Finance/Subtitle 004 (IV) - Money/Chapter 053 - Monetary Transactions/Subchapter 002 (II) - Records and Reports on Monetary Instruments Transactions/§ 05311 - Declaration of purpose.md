@@ -126,7 +126,7 @@ Use of Report Information.—The Secretary shall use the information reported un
 
 &emsp;&emsp;"(C) Federal functional regulators;
 
-&emsp;"(2) to enhance feedback and communications with financial institutions and other entities subject to requirements under the Bank Secrecy Act, including byproviding more detail in the reports published and distributed under section 314(d) of the USA PATRIOT Act (31 U.S.C. 5311 note);
+&emsp;"(2) to enhance feedback and communications with financial institutions and other entities subject to requirements under the Bank Secrecy Act, including by providing more detail in the reports published and distributed under section 314(d) of the USA PATRIOT Act (31 U.S.C. 5311 note);
 
 &emsp;"(3) to assist FinCEN \[Financial Crimes Enforcement Network of Department of the Treasury\] in considering revisions to the reporting requirements promulgated under section 314(d) of the USA PATRIOT Act (31 U.S.C. 5311 note); and
 
@@ -220,7 +220,7 @@ Pub. L. 116–283, div. F, title LXII, §6214, Jan. 1, 2021, 134 Stat. 4579, as 
 
 "(a)
 
-In General.—The Secretary \[of the Treasury\] shall convene a supervisory team of relevant Federalagencies, private sector experts in banking, national security, and law enforcement, and other stakeholders to examine strategies to increase cooperation between the public and private sectors for purposes of countering illicit finance, including proliferation finance and sanctions evasion.
+In General.—The Secretary \[of the Treasury\] shall convene a supervisory team of relevant Federal agencies, private sector experts in banking, national security, and law enforcement, and other stakeholders to examine strategies to increase cooperation between the public and private sectors for purposes of countering illicit finance, including proliferation finance and sanctions evasion.
 
 "(b)
 
@@ -320,7 +320,7 @@ In general.—In carrying out paragraph (1), the Secretary of the Treasury shall
 
 &emsp;"(B)
 
-Rule of construction.—Nothing in this section may be construed to authorize the Secretary ofthe Treasury to repeal the requirement that financial institutions identify and verify beneficial owners of legal entity customers under section 1010.230(a) of title 31, Code of Federal Regulations.
+Rule of construction.—Nothing in this section may be construed to authorize the Secretary of the Treasury to repeal the requirement that financial institutions identify and verify beneficial owners of legal entity customers under section 1010.230(a) of title 31, Code of Federal Regulations.
 
 "(3)
 
@@ -386,7 +386,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretaryin this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
+Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
 
 #### "SEC. 7702. DEFINITIONS.
 
@@ -412,7 +412,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) money laundering, estimated by the International Monetary Fund to amount to between 2 and 5 percent of global gross domestic product, which is at least $600,000,000,000 annually, provides the financial fuel that permits transnational criminal enterprises to conduct and expand their operations to the detriment of the safety and security of American citizens;
 
-&emsp;"(2) money laundering, and the defects in financial transparency on which money launderers rely, are critical to the financing of global terrorism and the provision of funds for terrorist attacks;
+&emsp;"(2) money laundering, and the defects in financial transparency on which money launderers rely, arecritical to the financing of global terrorism and the provision of funds for terrorist attacks;
 
 &emsp;"(3) money launderers subvert legitimate financial mechanisms and banking relationships by using them as protective covering for the movement of criminal proceeds and the financing of crime and terrorism, and, by so doing, can threaten the safety of United States citizens and undermine the integrity of United States financial institutions and of the global financial and trading systems upon which prosperity and growth depend;
 
@@ -450,7 +450,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;"(6) to ensure that the employment of such measures by the Secretary permits appropriate opportunity for comment by affected financial institutions;
 
-&emsp;"(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financialinstitutions operating outside of the United States, and classes of international transactions or types of accounts that are of primary money laundering concern to the United States Government;
+&emsp;"(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that are of primary money laundering concern to the United States Government;
 
 &emsp;"(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of the United States permits for adequate challenge consistent with providing due process rights;
 
@@ -540,7 +540,7 @@ Pub. L. 107–56, title III, §328, Oct. 26, 2001, 115 Stat. 319, provided that:
 
 #### Criminal Penalties
 
-Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: "Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: "Any person who is an official oremployee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
 
 &emsp;"(1) being influenced in the performance of any official act;
 
@@ -712,7 +712,7 @@ Purposes.—The Advisory Group shall provide a means by which the Secretary—
 
 &emsp;"(2) informs private sector representatives, on a regular basis, of how information regarding suspicious financial transactions provided voluntarily by financial institutions has been used; and
 
-&emsp;"(3) receives advice on the manner in which the reporting requirements referred to in subsection (a)should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes.
+&emsp;"(3) receives advice on the manner in which the reporting requirements referred to in subsection (a) should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes.
 
 "(c)
 
@@ -846,7 +846,7 @@ Specific Requirements.—In conducting the study required under subsection (a), 
 
 "(c)
 
-Report to Congress.—Before the end of the 1-year period, beginning on the date of the enactment ofthis Act \[Oct. 28, 1992\], the Comptroller General of the United States shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate."
+Report to Congress.—Before the end of the 1-year period, beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Comptroller General of the United States shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate."
 
 #### Reports on Uses Made of Currency Transaction Reports
 
@@ -868,7 +868,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 #### International Currency Transaction Reporting
 
-Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of theTreasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Restrictions on Laundering of United States Currency
 

@@ -182,7 +182,7 @@ The date of the enactment of the Empowering Olympic, Paralympic, and Amateur Ath
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a). Pub. L. 116–189, §§4(a)(7), 6(e)(1), in first sentence, inserted "complaints of retaliation or" after "relating to" and "the Parapan AmericanGames," after "the Pan-American Games," and, in second sentence, substituted "the Pan-American Games, or the Parapan American Games" for "or the Pan-American Games".
+<b>2020</b>—Subsec. (a). Pub. L. 116–189, §§4(a)(7), 6(e)(1), in first sentence, inserted "complaints of retaliation or" after "relating to" and "the Parapan American Games," after "the Pan-American Games," and, in second sentence, substituted "the Pan-American Games, or the Parapan American Games" for "or the Pan-American Games".
 
 Subsec. (b). Pub. L. 116–189, §6(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) provided for an ombudsman for athletes.
 

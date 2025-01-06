@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a program, which shall be known as the "Regional Technology Officer Program" (referred to in this section as the "Program").
+&emsp;The Secretary shall establish a program, which shall be known as the "Regional Technology Officer Program" (referred to in this section as the "Program"), and shall be administered by the Bureau for Cyberspace and Digital Policy.
 
 #### (2) Goals
 
@@ -46,7 +46,13 @@ Not later than 180 days after December 23, 2022, and annually thereafter for the
 
 There is authorized to be appropriated up to $25,000,000 for each of the fiscal years 2023 through 2027 to carry out this section.
 
-(Pub. L. 117–263, div. I, title XCV, §9508, Dec. 23, 2022, 136 Stat. 3906.)
+(Pub. L. 117–263, div. I, title XCV, §9508, Dec. 23, 2022, 136 Stat. 3906; Pub. L. 118–159, div. G, title LXXIII, §7301, Dec. 23, 2024, 138 Stat. 2541.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–159 inserted ", and shall be administered by the Bureau for Cyberspace and Digital Policy" before period at end.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

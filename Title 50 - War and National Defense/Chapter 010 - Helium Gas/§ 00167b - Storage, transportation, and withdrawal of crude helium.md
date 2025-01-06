@@ -6,7 +6,7 @@ The Secretary may store, transport, and withdraw crude helium and maintain and o
 
 #### (b) Cessation of production, refining, and marketing
 
-Not later than 18 months after October 9, 1996, the Secretary shall cease producing, refining, and marketing refined helium and shall cease carrying out all other activities relating to helium which the Secretary was authorized to carry out under this chapter before October 9,1996, except activities described in subsection (a).
+Not later than 18 months after October 9, 1996, the Secretary shall cease producing, refining, and marketing refined helium and shall cease carrying out all other activities relating to helium which the Secretary was authorized to carry out under this chapter before October 9, 1996, except activities described in subsection (a).
 
 #### (c) Disposal of facilities
 

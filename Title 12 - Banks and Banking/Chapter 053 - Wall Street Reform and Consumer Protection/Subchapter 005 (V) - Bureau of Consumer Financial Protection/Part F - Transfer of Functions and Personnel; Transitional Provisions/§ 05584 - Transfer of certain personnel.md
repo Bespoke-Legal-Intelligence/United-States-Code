@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The Bureau and the Board of Directors of the Federal Deposit Insurance Corporation shall—
 
-&emsp;&emsp;&emsp;(i) jointly determine the number of employees of that Corporation necessary to perform or support the consumer financial protection functions of the Corporationthat are transferred to the Bureau by this title; <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) jointly determine the number of employees of that Corporation necessary to perform or support the consumer financial protection functions of the Corporation that are transferred to the Bureau by this title; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) consistent with the number determined under clause (i), jointly identify employees of the Corporation for transfer to the Bureau, in a manner that the Bureau and the Board of Directors of the Corporation, in their sole discretion, determine equitable.
 
@@ -140,7 +140,7 @@ Each employee to be transferred under this section shall—
 
 #### (1) Employees transferred from the Federal Reserve System, FDIC, HUD, NCUA, OCC, and OTS
 
-&emsp;Each employee transferred to the Bureau from the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, or the Office of Thrift Supervision shall be placed in a position at the Bureau with the same status and tenure as that employee held on the day before the designated transfer date.
+&emsp;Each employee transferred to the Bureau from the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, the Department of Housing andUrban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, or the Office of Thrift Supervision shall be placed in a position at the Bureau with the same status and tenure as that employee held on the day before the designated transfer date.
 
 #### (2) Employees transferred from the Federal Reserve System
 
@@ -218,7 +218,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (B) Service credit for reductions in force
 
-&emsp;&emsp;For purposes of this paragraph, periods of service with a Federal home loan bank, a joint office of the Federal home loan banks, the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, or the National Credit Union Administration shall be credited as periods of service with a Federal agency.
+&emsp;&emsp;For purposes of this paragraph, periods of service with a Federal home loan bank, a joint office of the Federal home loan banks,the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, or the National Credit Union Administration shall be credited as periods of service with a Federal agency.
 
 #### (2) After 3rd year
 
@@ -246,7 +246,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (iii) Option to elect into the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan
 
-&emsp;&emsp;&emsp;Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning onthe designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date <sup>2</sup> If an employee elects to participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, all of the service of the employee that was creditable under their existing retirement plan shall be transferred to the Federal Reserve System Retirement Plan on the day following the end of the 18-month period beginning on the designated transfer date.
+&emsp;&emsp;&emsp;Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning on the designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date <sup>2</sup> If an employee elects to participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, all of the service of the employee that was creditable under their existing retirement plan shall be transferred to the Federal Reserve System Retirement Plan on the day following the end of the 18-month period beginning on the designated transfer date.
 
 #### (iv) Bureau contribution
 
@@ -264,7 +264,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;Any Federal Reserve System transferred employee who was enrolled in the Federal Reserve System Retirement Plan on the day before the date of his or her transfer to the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
+&emsp;&emsp;&emsp;Any Federal Reserve System transferred employee who was enrolled in the Federal Reserve System Retirement Plan on the day before the date of his or her transferto the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
 
 #### (ii) Effective date of coverage
 
@@ -384,7 +384,7 @@ In administering the provisions of this section, the Bureau—
 
 &emsp;(1) shall take no action that would unfairly disadvantage transferred employees relative to each other based on their prior employment by the Board of Governors, the Federal Deposit Insurance Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks; and
 
-&emsp;(2) may take such action as is appropriate in individual cases so that employees transferred under this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Board of Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
+&emsp;(2) may take such action as is appropriate in individual cases so that employees transferredunder this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Board of Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
 
 #### (l) Implementation
 

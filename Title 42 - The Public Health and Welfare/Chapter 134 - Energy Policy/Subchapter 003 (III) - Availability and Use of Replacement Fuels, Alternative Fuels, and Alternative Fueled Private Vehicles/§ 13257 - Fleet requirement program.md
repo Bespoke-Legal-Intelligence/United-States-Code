@@ -52,7 +52,7 @@
 
 (2) The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
 
-(3) If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary's findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e).
+(3) If the Secretary does not determine that such program is necessary under this subsection,the provisions of subsection (e) shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary's findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e).
 
 #### (c) Advance notice of proposed rulemaking
 
@@ -80,7 +80,7 @@ Before May 1, 1999, the Secretary shall publish in the Federal Register a propos
 
 &emsp;(B) such goal is practicable and actually achievable within periods specified in section 13252(b)(2) of this title, as modified under section 13254 of this title, through implementation of such a fleet requirement program in combination with voluntary means and the application of other programs relevant to achieving such goals.
 
-(2) The rule under subsection (b) or (g) shall also modify the goal described in section 13252(b)(2)(B) of this title and establish a revisedgoal pursuant to section 13254 of this title if the Secretary determines, based on the proceeding required under subsection (a) or (c), that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) and the minimum percentage stated in subsection (a)(2) or (g)(2) shall be not less than 10 percent.
+(2) The rule under subsection (b) or (g) shall also modify the goal described in section 13252(b)(2)(B) of this title and establish a revised goal pursuant to section 13254 of this title if the Secretary determines, based on the proceeding required under subsection (a) or (c), that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) and the minimum percentage stated in subsection (a)(2) or (g)(2) shall be not less than 10 percent.
 
 #### (f) Explanation of determination that fleet requirement program is not necessary
 
@@ -110,7 +110,7 @@ If the Secretary determines, based on findings under subsection (b) or (e), that
 
 (3) Nothing in this subchapter shall be construed as requiring any fleet to acquire alternative fueled vehicles or alternative fuels that do not meet the normal business requirements and practices and needs of that fleet.
 
-(4) A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] shall not be considered an alternative fueled vehicle under subsection (b) or this subsection, except that the Secretary, as part of the rule under subsection (b) or this subsection, may determine that such vehicle should be treated as an alternative fueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act \[42 U.S.C. 7581 et seq.\], taking into consideration the impact on energy security and the goals stated in section 13252(a) of this title.
+(4) A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] shall not be considered an alternative fueled vehicle under subsection (b) or this subsection, except that the Secretary, as part of the rule under subsection (b) or this subsection, may determine that such vehicle should be treated as an alternativefueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act \[42 U.S.C. 7581 et seq.\], taking into consideration the impact on energy security and the goals stated in section 13252(a) of this title.
 
 #### (h) Extension of deadlines
 

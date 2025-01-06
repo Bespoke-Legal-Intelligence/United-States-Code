@@ -12,7 +12,7 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 
 &emsp;&emsp;(B) which is allocated to domestic, industrial, or municipal water supply, commercial power, fish and wildlife enhancement, or public recreation except that portion of such allocation attributable to furnishing benefits to a facility operated by an agency of the United States, which portion shall bear no interest.<sup>1</sup>
 
-&emsp;(d) provision for operation of the project, if a grant predicated upon its performance of nonreimbursable functions is made, in accordance with regulations with respect thereto prescribed by the head of the Federal department or agency primarily concerned with those functions and, in the event of noncompliance with such regulations, for operation by the United States or for repayment to the United States of the amount of any such grant;
+&emsp;(d) provision for operation of the project, if a grant predicated upon its performance of nonreimbursable functions is made, in accordance with regulations with respect theretoprescribed by the head of the Federal department or agency primarily concerned with those functions and, in the event of noncompliance with such regulations, for operation by the United States or for repayment to the United States of the amount of any such grant;
 
 &emsp;(e) such provisions as the Secretary shall deem necessary or proper to provide assurance of and security for prompt repayment of the loan and interest as aforesaid. The liability of the United States under any contract entered into pursuant to this subchapter shall be contingent upon the availability of appropriations to carry out the same, and every such contract shall so recite; and
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 99–546 applicable to all proposals for which draft applic
 
 #### Retroactive Effect of 1966 Amendment
 
-Amendment by Pub. L. 89–553 not to be applicable to or affect in any way the terms on which any loan or grant was made prior to the effective date of Pub. L. 89–553, Sept. 2, 1966, see section 2 of Pub. L. 89–553, set out as a note under section 422b of this title.
+Amendment by Pub. L. 89–553 not to be applicable to or affect in any way the terms on which any loan orgrant was made prior to the effective date of Pub. L. 89–553, Sept. 2, 1966, see section 2 of Pub. L. 89–553, set out as a note under section 422b of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -254,7 +254,7 @@ Law enforcement.—The Secretary of State shall not disclose the identity of a p
 
 &emsp;"(3)
 
-Notification required.—If the Director of National Intelligence makes a determination under paragraph (1) or the Attorney General makes a determination under paragraph (2), the Director or the Attorney General, as the case may be, shall notify the appropriate congressional committees and leadership of the determination and the reasons for the determination.
+Notification required.—If the Director of National Intelligence makes a determination under paragraph (1) or the Attorney General makes a determination under paragraph (2), the Director or the Attorney General, as the case may be, shall notify theappropriate congressional committees and leadership of the determination and the reasons for the determination.
 
 "(d)
 
@@ -466,7 +466,7 @@ Exception Relating to Importation of Goods.—
 
 &emsp;"(1)
 
-In general.—The authorities and requirements to impose sanctions under sections 6 and 7 shall notinclude the authority or requirement to impose sanctions on the importation of goods.
+In general.—The authorities and requirements to impose sanctions under sections 6 and 7 shall not include the authority or requirement to impose sanctions on the importation of goods.
 
 &emsp;"(2)
 
@@ -598,7 +598,7 @@ Rules of house of representatives and senate.—This subsection is enacted by Co
 
 &emsp;&emsp;"(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, and supersedes other rules only to the extent that it is inconsistent with such rules; and
 
-&emsp;&emsp;"(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+&emsp;&emsp;"(B) with full recognition of the constitutional right of either House to change the rules (so far asrelating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
 #### "SEC. 9. IMPLEMENTATION; PENALTIES.
 
@@ -618,7 +618,7 @@ Penalties.—A person that violates, attempts to violate, conspires to violate, 
 
 #### Hong Kong Human Rights and Democracy
 
-Pub. L. 116–76, §§2, 3, 5–8, Nov. 27, 2019, 133 Stat. 1161, 1162, 1166–1170, provided that:
+Pub. L. 116–76, §§2, 3, 5–8, Nov. 27, 2019, 133 Stat. 1161, 1162, 1166–1170, as amended by Pub. L. 118–83, div. B, title I, §113, Sept. 26, 2024, 138 Stat. 1537; Pub. L. 118–159, div. G, title LXXVIII, §7812(g), Dec. 23, 2024, 138 Stat. 2566, provided that:
 
 #### "SEC. 2. DEFINITIONS.
 
@@ -694,7 +694,7 @@ United states person.—The term 'United States person' means—
 
 &emsp;"(3) to support the democratic aspirations of the people of Hong Kong, including the 'ultimate aim' of the selection of the Chief Executive and all members of the Legislative Council by universal suffrage, as articulated in the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China (referred to in this Act as the 'Basic Law');
 
-&emsp;"(4) to urge the Government of the People's Republic of China to uphold its commitments to Hong Kong, including allowing the people of Hong Kong togovern Hong Kong with a high degree of autonomy and without undue interference, and ensuring that Hong Kong voters freely enjoy the right to elect the Chief Executive and all members of the Hong Kong Legislative Council by universal suffrage;
+&emsp;"(4) to urge the Government of the People's Republic of China to uphold its commitments to Hong Kong, including allowing the people of Hong Kong to govern Hong Kong with a high degree of autonomy and without undue interference, and ensuring that Hong Kong voters freely enjoy the right to elect the Chief Executive and all members of the Hong Kong Legislative Council by universal suffrage;
 
 &emsp;"(5) to support the establishment of a genuine democratic option to freely and fairly nominate and elect the Chief Executive of Hong Kong, and the establishment by 2020 of open and direct democratic elections for all members of the Hong Kong Legislative Council;
 
@@ -932,7 +932,7 @@ Termination of Sanctions.—The President may terminate the application of sanct
 
 "(h)
 
-Sunset.—This section, and any sanctions imposed under this section, shall terminate on the datethat is 5 years after the date of the enactment of this Act \[Nov. 27, 2019\].
+Sunset.—This section, and any sanctions imposed under this section, shall terminate on the date that is 10 years after the date of the enactment of this Act \[Nov. 27, 2019\].
 
 "(i)
 
@@ -966,7 +966,7 @@ In General.—In accordance with section 7, the President shall submit, to the a
 
 "(b)
 
-Nonapplicability of Confidentiality Requirement With Respect to Visa Records.—The President shall publish the report required under subsection (a) without regard to the requirements of section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States."
+Nonapplicability of Confidentiality Requirement With Respect to Visa Records.—The Presidentshall publish the report required under subsection (a) without regard to the requirements of section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States."
 
 #### <b>Executive Documents</b>
 
@@ -1008,7 +1008,7 @@ Sec. 3. Within 15 days of the date of this order \[July 14, 2020\], the heads of
 
 (c) revoke license exceptions for exports to Hong Kong, reexports to Hong Kong, and transfers (in-country) within Hong Kong of items subject to the Export Administration Regulations, 15 CFR Parts 730–774, that provide differential treatment compared to those license exceptions applicable to exports to China, reexports to China, and transfers (in-country) within China;
 
-(d) consistent with section 902(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991\(Public Law 101–246) \[22 U.S.C. 2151 note\], terminate the export licensing suspensions under section 902(a)(3) of such Act insofar as such suspensions apply to exports of defense articles to Hong Kong persons who are physically located outside of Hong Kong and the PRC and who were authorized to receive defense articles prior to the date of this order;
+(d) consistent with section 902(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], terminate the export licensing suspensions under section 902(a)(3) of such Act insofar as such suspensions apply to exports of defense articles to Hong Kong persons who are physically located outside of Hong Kong and the PRC and who were authorized to receive defense articles prior to the date of this order;
 
 (e) give notice of intent to suspend the Agreement Between the Government of the United States of America and the Government of Hong Kong for the Surrender of Fugitive Offenders (TIAS 98–121);
 
@@ -1020,7 +1020,7 @@ Sec. 3. Within 15 days of the date of this order \[July 14, 2020\], the heads of
 
 (i) take steps to terminate the Fulbright exchange program with regard to China and Hong Kong with respect to future exchanges for participants traveling both from and to China or Hong Kong;
 
-(j) give notice of intent to terminate the agreement for the reciprocal exemption with respect to taxes on income from the international operation of ships effected by the Exchange of Notes Between the Government of the United States of America and the Government of Hong Kong (TIAS 11892);
+(j) give notice of intent to terminate the agreement for the reciprocal exemption with respect to taxes onincome from the international operation of ships effected by the Exchange of Notes Between the Government of the United States of America and the Government of Hong Kong (TIAS 11892);
 
 (k) reallocate admissions within the refugee ceiling set by the annual Presidential Determination to residents of Hong Kong based on humanitarian concerns, to the extent feasible and consistent with applicable law; and
 
@@ -1078,7 +1078,7 @@ Sec. 10. For the purposes of this order:
 
 (b) the term "entity" means a government or instrumentality of such government, partnership, association, trust, joint venture, corporation, group, subgroup, or other organization, including an international organization;
 
-(c) the term "United States person" means any United States citizen, permanent resident alien, entity organized under the laws of the United States or anyjurisdiction within the United States (including foreign branches), or any person in the United States; and
+(c) the term "United States person" means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States; and
 
 (d) The term "immediate family member" means spouses and children of any age.
 
@@ -1103,6 +1103,8 @@ Sec. 15. If, based on consideration of the terms, obligations, and expectations 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Continuations of the national emergency with respect to Hong Kong declared by Ex. Ord. No. 13936 were contained in the following:
+
+Notice of President of the United States, dated July 10, 2024, 89 F.R. 57047.
 
 Notice of President of the United States, dated July 11, 2023, 88 F.R. 44669.
 

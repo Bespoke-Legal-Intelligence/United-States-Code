@@ -32,7 +32,7 @@ Tests and development.—The Secretary may test, develop, or assist in testing a
 
 &emsp;(5)
 
-Training.—The Secretary may use the funds made available to carry out this section for training or education of commercial motor vehicle safety personnel, including training inaccident reconstruction and detection of controlled substances or other contraband and stolen cargo or vehicles.
+Training.—The Secretary may use the funds made available to carry out this section for training or education of commercial motor vehicle safety personnel, including training in accident reconstruction and detection of controlled substances or other contraband and stolen cargo or vehicles.
 
 &emsp;(6)
 

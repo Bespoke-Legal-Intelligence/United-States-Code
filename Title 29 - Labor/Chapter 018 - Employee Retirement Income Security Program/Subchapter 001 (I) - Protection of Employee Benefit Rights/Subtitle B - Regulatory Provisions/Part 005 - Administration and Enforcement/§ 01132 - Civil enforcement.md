@@ -54,7 +54,7 @@ A civil action may be brought—
 
 (2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(1) of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
 
-(3) Any employer maintaining a plan who fails to meet the notice requirement of section 1021(d) of this title with respect to any participant or beneficiary or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person or who fails to meet the requirements of section 1082(d)(12)(E) <sup>2</sup> of this title with respect to any person may in the court's discretion be liable to such participant or beneficiary or to such person in the amount of up to $100 a day from the date of such failure, and the court may in its discretion order such other relief as it deems proper.
+(3) Any employer maintaining a plan who fails to meet the notice requirement of section 1021(d) of this title with respect to any participant or beneficiary or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person or who fails to meet the requirements of section 1082(d)(12)(E) <sup>2</sup> of this title with respect to any person may in the court's discretion be liable to such participant or beneficiary or to such person in the amount of up to$100 a day from the date of such failure, and the court may in its discretion order such other relief as it deems proper.
 
 (4) The Secretary may assess a civil penalty of not more than $1,000 a day for each violation by any person of subsection (j), (k), or (l) of section 1021 of this title or section 1144(e)(3) of this title.
 
@@ -62,7 +62,7 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failureor refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
 (8) The Secretary may assess against any plan sponsor of a multiemployer plan a civil penalty of not more than $1,100 per day—
 
@@ -134,7 +134,7 @@ Penalty not to apply to failures corrected within certain periods.—No penalty 
 
 &emsp;&emsp;(iii)
 
-Overall limitation for unintentional failures.—In the case of failures which are due to reasonable cause and not to willful neglect, the penalty imposed by subparagraph (A) for failures shall not exceed the amount equal to the lesser of—
+Overall limitation for unintentional failures.—In the case of failures which are due to reasonable cause and not towillful neglect, the penalty imposed by subparagraph (A) for failures shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the plan sponsor (or predecessor plan sponsor) during the preceding taxable year for group health plans; or
 
@@ -150,7 +150,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (11) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
-(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
+(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -196,7 +196,7 @@ A copy of the complaint in any action under this subchapter by a participant, be
 
 #### (i) Administrative assessment of civil penalty
 
-In the case of a transaction prohibited by section 1106 of this title by a party in interest with respect to a plan to which this part applies, the Secretary may assess a civil penalty against such party in interest. The amount of such penalty may not exceed 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of title 26) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary shall prescribe in regulations which shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved. This subsection shall not apply to a transaction with respect to a plan described in section 4975(e)(1) of title 26.
+In the case of a transaction prohibited by section 1106 of this title by a party in interest with respect to a plan to which this part applies, the Secretary may assess a civil penalty against such party in interest. The amount of such penalty may not exceed 5 percent of the amount involved in each such transaction (as defined insection 4975(f)(4) of title 26) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary shall prescribe in regulations which shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved. This subsection shall not apply to a transaction with respect to a plan described in section 4975(e)(1) of title 26.
 
 #### (j) Direction and control of litigation by Attorney General
 
@@ -204,7 +204,7 @@ In all civil actions under this subchapter, attorneys appointed by the Secretary
 
 #### (k) Jurisdiction of actions against the Secretary of Labor
 
-Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any actioncontrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
+Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any action contrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
 
 #### (l) Civil penalties on violations by fiduciaries
 
@@ -356,7 +356,7 @@ Subsec. (l). Pub. L. 101–239, §2101(a), added subsec. (l).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–203, §9342(c), designated existing provision as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
-Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of such penalty may not exceed 5 percent of the amount involved (as defined in section 4975(f)(4) of title 26); except that if the transaction is not corrected (in such manner as theSecretary shall prescribe by regulation, which regulations shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved."
+Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of such penalty may not exceed 5 percent of the amount involved (as defined in section 4975(f)(4) of title 26); except that if the transaction is not corrected (in such manner as the Secretary shall prescribe by regulation, which regulations shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272 inserted "(1) who fails to meet the requirements of paragraph (1) or (4) of section 1166 of this title with respect to a participant or beneficiary, or (2)".
 
@@ -444,7 +444,7 @@ Regulations.—The Secretary of Labor shall issue the regulations required to ca
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule forcollective bargaining agreements, see section 10002(d) of Pub. L. 99–272, set out as an Effective Date note under section 1161 of this title.
+Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule for collective bargaining agreements, see section 10002(d) of Pub. L. 99–272, set out as an Effective Date note under section 1161 of this title.
 
 #### Effective Date of 1980 Amendment
 

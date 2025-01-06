@@ -34,7 +34,7 @@
 
 <b>2015</b>—Pub. L. 114–94, div. A, title V, §5104(b), Dec. 4, 2015, 129 Stat. 1529, substituted "Commercial driver's license program implementation financial assistance program" for "Grants for commercial driver's license program implementation" in item 31313.
 
-<b>2012</b>—Pub. L. 112–141, div. C, title II, §§32304(d), 32402(b), 32604(b)(2), July 6, 2012, 126 Stat. 792, 802, 809, added items 31305, 31306a, and 31313 and struck out former items 31305 "General driver fitness and testing"and 31313 "Grants for commercial driver's license program improvements".
+<b>2012</b>—Pub. L. 112–141, div. C, title II, §§32304(d), 32402(b), 32604(b)(2), July 6, 2012, 126 Stat. 792, 802, 809, added items 31305, 31306a, and 31313 and struck out former items 31305 "General driver fitness and testing" and 31313 "Grants for commercial driver's license program improvements".
 
 <b>2005</b>—Pub. L. 109–59, title IV, §4124(b), Aug. 10, 2005, 119 Stat. 1738, added item 31313.
 

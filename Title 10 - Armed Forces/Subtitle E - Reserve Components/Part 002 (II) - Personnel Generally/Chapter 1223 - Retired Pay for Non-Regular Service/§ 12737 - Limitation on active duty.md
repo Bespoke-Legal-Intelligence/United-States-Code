@@ -2,7 +2,7 @@
 
 A member of the armed forces may not be ordered to active duty solely for the purpose of qualifying the member for retired pay under this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1337; renumbered §12737 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1337; renumbered §12737 and amended Pub. L. 103–337,div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
 
 Historical and Revision Notes
 

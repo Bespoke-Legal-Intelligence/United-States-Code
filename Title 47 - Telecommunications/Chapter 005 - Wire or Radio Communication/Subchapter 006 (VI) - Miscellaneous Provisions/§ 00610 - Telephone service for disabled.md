@@ -50,7 +50,7 @@ The Commission shall establish or approve such technical standards as are requir
 
 #### (d) Labeling of packaging materials for equipment
 
-The Commission shall establish such requirements for the labeling of packaging materials for equipment as are needed to provide adequate information to consumers on the compatibility between telephones and hearing aids.
+The Commission shall establish such requirements for the labeling of packaging materialsfor equipment as are needed to provide adequate information to consumers on the compatibility between telephones and hearing aids.
 
 #### (e) Costs and benefits; encouragement of use of currently available technology
 
@@ -68,7 +68,7 @@ Any common carrier or connecting carrier may provide specialized terminal equipm
 
 Nothing in the Twenty-First Century Communications and Video Accessibility Act of 2010 shall be construed to modify the Commission's regulations set forth in section 20.19 of title 47 of the Code of Federal Regulations, as in effect on October 8, 2010.
 
-(June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102 Stat. 976; Pub. L. 103–414, title III, §304(a)(16),Oct. 25, 1994, 108 Stat. 4297; Pub. L. 111–260, title I, §102, Oct. 8, 2010, 124 Stat. 2753.)
+(June 19, 1934, ch. 652, title VII, §710, formerly title VI, §610, as added Pub. L. 97–410, §3, Jan. 3, 1983, 96 Stat. 2043; renumbered title VII, §710, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 100–394, §3, Aug. 16, 1988, 102 Stat. 976; Pub. L. 103–414, title III, §304(a)(16), Oct. 25, 1994, 108 Stat. 4297; Pub. L. 111–260, title I, §102, Oct. 8, 2010, 124 Stat. 2753.)
 
 #### <b>Editorial Notes</b>
 

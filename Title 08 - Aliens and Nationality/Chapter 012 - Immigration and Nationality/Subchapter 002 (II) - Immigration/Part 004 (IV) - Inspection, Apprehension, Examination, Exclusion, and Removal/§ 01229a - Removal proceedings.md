@@ -192,7 +192,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An alien may file one motion to reopen proceedings under this section, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv).
+&emsp;&emsp;An alien may file one motion to reopen proceedings under this section, except thatthis limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv).
 
 #### (B) Contents
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;Any limitation under this section on the deadlines for filing such motions shall not apply—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B)of this title,,<sup>1</sup> section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997);
+&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B) of this title,,<sup>1</sup> section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997);
 
 &emsp;&emsp;&emsp;&emsp;(II) if the motion is accompanied by a cancellation of removal application to be filed with the Attorney General or by a copy of the self-petition that has been or will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen;
 
@@ -292,7 +292,7 @@ Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 15
 
 #### Effective Date
 
-Section effective, with certain transitional provisions, on the first day of the first month beginningmore than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 

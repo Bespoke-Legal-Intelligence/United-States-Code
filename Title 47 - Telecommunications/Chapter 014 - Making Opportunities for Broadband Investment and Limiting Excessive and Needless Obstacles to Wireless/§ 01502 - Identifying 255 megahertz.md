@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than December 31, 2022, the Secretary, working through the NTIA, and theCommission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
+&emsp;Not later than December 31, 2022, the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
 
 #### (2) Unlicensed and licensed use
 
@@ -72,7 +72,7 @@ Nothing in this section shall be construed—
 
 #### References in Text
 
-The Bipartisan Budget Act of 2015, referred to in subsec. (a)(4), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. Title X of the Act, known as the Spectrum Pipeline Act of 2015, is title X of Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 621. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 901 of this title and Tables.
+The Bipartisan Budget Act of 2015, referred to in subsec. (a)(4), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584.Title X of the Act, known as the Spectrum Pipeline Act of 2015, is title X of Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 621. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 901 of this title and Tables.
 
 Section 156 of the National Telecommunications and Information Administration Organization Act, as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(3), is section 156 of title I of Pub. L. 102–538, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, formerly set out as a note under section 921 of this title.
 

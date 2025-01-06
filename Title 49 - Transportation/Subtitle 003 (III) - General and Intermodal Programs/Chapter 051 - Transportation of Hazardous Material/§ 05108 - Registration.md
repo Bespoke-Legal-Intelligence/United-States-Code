@@ -54,7 +54,7 @@ Availability of Statements.—The Secretary shall make a registration statement 
 
 (g)
 
-Fees.—(1) The Secretary shall establish, impose, and collect from a person required tofile a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
+Fees.—(1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
 (2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $3,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
 
@@ -68,7 +68,7 @@ Fees.—(1) The Secretary shall establish, impose, and collect from a person req
 
 &emsp;(v) the number of activities that the person carries out for which filing a registration statement is required under this section.
 
-&emsp;(vi) the threat to property, individuals, and the environment from an accident or incident involving the hazardous material transported or caused to be transported.
+&emsp;(vi) the threat to property, individuals, and the environment from an accident or incidentinvolving the hazardous material transported or caused to be transported.
 
 &emsp;(vii) the percentage of gross revenue derived from transporting hazardous material.
 

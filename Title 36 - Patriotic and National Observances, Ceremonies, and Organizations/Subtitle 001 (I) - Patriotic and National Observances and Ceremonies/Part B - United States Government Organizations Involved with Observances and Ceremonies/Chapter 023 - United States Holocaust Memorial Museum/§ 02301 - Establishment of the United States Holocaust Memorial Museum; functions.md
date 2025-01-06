@@ -26,7 +26,7 @@ A prior section 2301, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related 
 
 #### Support for Holocaust Education Programs
 
-Pub. L. 116–141, May 29, 2020, 134 Stat. 636, provided that:
+Pub. L. 116–141, May 29, 2020, 134 Stat. 636, as amended by Pub. L. 118–197, §2, Dec. 23, 2024, 138 Stat. 2677, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -40,7 +40,7 @@ Pub. L. 116–141, May 29, 2020, 134 Stat. 636, provided that:
 
 &emsp;"(2) The Congress has played a critical role in preserving the memory of the Holocaust and promoting awareness, including by authorizing the United States Holocaust Memorial Museum as an independent establishment of the Federal Government to ensure that 'the study of the Holocaust become part of the curriculum in every school system in the country', as well as by establishing a national Holocaust Remembrance Day in 1978.
 
-&emsp;"(3) 75 years after the conclusion of World War II, with the decreasing number of eyewitnesses and growing distance of students and their families from this history, it is important to institutionalize education about the events of the Holocaust such as the German Nazis' racist ideology, propaganda, and plan to lead a state to war and, with their collaborators, kill millions—including the systematic murder of 6,000,000 Jewish people; as well as the persecution and murder of millions of others in the name of racial purity, political, ideological, and behavioral grounds, among them Roma, the disabled, the Slavs, Communists, Socialists, Jehovah's Witnesses, and homosexuals.
+&emsp;"(3) 75 years after the conclusion of World War II, with the decreasing number of eyewitnesses and growing distance of students and their families from this history, it is important to institutionalize education about the events of the Holocaust such as the German Nazis' racist ideology, propaganda, and planto lead a state to war and, with their collaborators, kill millions—including the systematic murder of 6,000,000 Jewish people; as well as the persecution and murder of millions of others in the name of racial purity, political, ideological, and behavioral grounds, among them Roma, the disabled, the Slavs, Communists, Socialists, Jehovah's Witnesses, and homosexuals.
 
 &emsp;"(4) As intolerance, antisemitism, and bigotry are promoted by hate groups, Holocaust education provides a context in which to learn about the danger of what can happen when hate goes unchallenged and there is indifference in the face of the oppression of others; learning how and why the Holocaust happened is an important component of the education of citizens of the United States.
 
@@ -94,7 +94,7 @@ Holocaust education program.—The term 'Holocaust education program' means a pr
 
 "(a)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this Act $2,000,000 for fiscal year 2021 and each of the 4 succeeding fiscal years.
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this Act $2,000,000 for fiscal year 2021 and each succeeding fiscal year through fiscal year 2030.
 
 "(b)
 
@@ -154,7 +154,7 @@ Best Practices.—The information distributed by the Director shall include best
 
 "(a)
 
-In General.—An eligible program participant shall be engaged at the discretion of the Director toparticipate in Holocaust education program activities authorized under this Act and approved by the Director pursuant to an application described in section 4(d).
+In General.—An eligible program participant shall be engaged at the discretion of the Director to participate in Holocaust education program activities authorized under this Act and approved by the Director pursuant to an application described in section 4(d).
 
 "(b)
 

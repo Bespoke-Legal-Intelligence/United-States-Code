@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 3271\. | \[Reserved\].<br> |
+| 3271\. | \[Reserved\]. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

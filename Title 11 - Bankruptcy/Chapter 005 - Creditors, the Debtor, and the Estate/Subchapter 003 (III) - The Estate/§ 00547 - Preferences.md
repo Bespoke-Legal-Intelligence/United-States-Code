@@ -118,7 +118,7 @@
 
 #### legislative statements
 
-No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendmentother than the amendment to section 548 of title 11. Section 547(c)(2) protects most payments.
+No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendment other than the amendment to section 548 of title 11. Section 547(c)(2) protects most payments.
 
 Section 547(b)(2) of the House amendment adopts a provision contained in the House bill and rejects an alternative contained in the Senate amendment relating to the avoidance of a preferential transfer that is payment of a tax claim owing to a governmental unit. As provided, section 106(c) of the House amendment overrules contrary language in the House report with the result that the Government is subject to avoidance of preferential transfers.
 
@@ -156,9 +156,9 @@ The second exception protects transfers in the ordinary course of business (or o
 
 The third exception is for enabling loans in connection with which the debtor acquires the property that the loan enabled him to purchase after the loan is actually made.
 
-The fourth exception codifies the net result rule in section 60c of current law \[section 96(c) of former title 11\]. If the creditor and the debtor have more than one exchange during the 90-day period, the exchanges are netted out according to the formula in paragraph (4). Any new value that the creditor advances must be unsecured in order for it to qualify under this exception.
+The fourth exception codifies the net result rule in section 60c of current law \[section 96(c) of former title 11\]. If the creditor and the debtor have more than oneexchange during the 90-day period, the exchanges are netted out according to the formula in paragraph (4). Any new value that the creditor advances must be unsecured in order for it to qualify under this exception.
 
-Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Wil</i><i>liams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
+Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Williams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
 
 Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 

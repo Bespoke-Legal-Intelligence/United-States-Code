@@ -18,7 +18,7 @@ For purposes of this section, the term "United States", when used in a geographi
 
 #### Codification
 
-Section was enacted as part of the International Security and Development Cooperation Act of 1985, andnot as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the International Security and Development Cooperation Act of 1985, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

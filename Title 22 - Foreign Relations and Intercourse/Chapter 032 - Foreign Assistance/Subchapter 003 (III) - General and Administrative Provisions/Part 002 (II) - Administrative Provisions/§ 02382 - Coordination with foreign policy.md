@@ -62,7 +62,7 @@ Section 1. <i>Functions of the Chief of the United States Diplomatic Mission</i>
 
 (3) Assuring that the interpretations and application of instructions received by the United States representatives from higher authority are in accordance with the established policy of the United States.
 
-(4) Guiding the United States representatives in working out measures to prevent duplication in theirefforts and to promote the most effective and efficient use of all United States officers and employees having mutual security responsibilities.
+(4) Guiding the United States representatives in working out measures to prevent duplication in their efforts and to promote the most effective and efficient use of all United States officers and employees having mutual security responsibilities.
 
 (5) Keeping the United States representatives fully informed as to current and prospective United States policies.
 

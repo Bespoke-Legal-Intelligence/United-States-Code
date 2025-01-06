@@ -8,7 +8,7 @@ Except as provided in subsection (b), no teacher in a school shall be liable for
 
 &emsp;(2) the actions of the teacher were carried out in conformity with Federal, State, and local laws (including rules and regulations) in furtherance of efforts to control, discipline, expel, or suspend a student or maintain order or control in the classroom or school;
 
-&emsp;(3) if appropriate or required, the teacher was properly licensed, certified, or authorized by the appropriate authorities for the activities or practice involved in the State in which the harm occurred, where the activities were or practice was undertaken within the scope of the teacher's responsibilities;
+&emsp;(3) if appropriate or required, the teacher was properly licensed, certified, or authorizedby the appropriate authorities for the activities or practice involved in the State in which the harm occurred, where the activities were or practice was undertaken within the scope of the teacher's responsibilities;
 
 &emsp;(4) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the teacher; and
 

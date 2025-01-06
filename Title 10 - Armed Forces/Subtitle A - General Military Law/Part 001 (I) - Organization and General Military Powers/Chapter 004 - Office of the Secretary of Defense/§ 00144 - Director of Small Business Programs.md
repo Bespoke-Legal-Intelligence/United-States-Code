@@ -26,7 +26,7 @@ Pub. L. 109–163, div. A, title IX, §904(a), Jan. 6, 2006, 119 Stat. 3399, pro
 
 Positions redesignated.—The following positions within the Department of Defense are redesignated as follows:
 
-&emsp;"(A) The Director of Small and Disadvantaged Business Utilization of the Department of Defense is redesignated as the Director of Small Business Programs of the Department of Defense.
+&emsp;"(A) The Director of Small and Disadvantaged Business Utilization of the Department of Defense isredesignated as the Director of Small Business Programs of the Department of Defense.
 
 &emsp;"(B) The Director of Small and Disadvantaged Business Utilization of the Department of the Army is redesignated as the Director of Small Business Programs of the Department of the Army.
 

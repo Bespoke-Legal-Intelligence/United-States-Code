@@ -48,7 +48,7 @@ In general.—In carrying out the program under this subsection, the Secretary m
 
 &emsp;&emsp;(iv) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
 
-&emsp;&emsp;(v) reactor improvements that emphasize research, training, and education, includingthrough the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+&emsp;&emsp;(v) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
 
 &emsp;(B) Of any amounts appropriated to carry out the program under this subsection, there is authorized to be appropriated to the Secretary to carry out clauses (ii) and (iii) of subparagraph (A) $55,000,000 for each of fiscal years 2023 through 2027.
 
@@ -152,7 +152,7 @@ In general.—In carrying out the program under this subsection, the Secretary m
 
 #### (D) Historically Black college or university
 
-&emsp;&emsp;The term "historically Black college or university" has the meaning given the term"part B institution" in section 1061 of title 20.
+&emsp;&emsp;The term "historically Black college or university" has the meaning given the term "part B institution" in section 1061 of title 20.
 
 #### (E) Minority-serving institution
 
@@ -176,9 +176,9 @@ In general.—In carrying out the program under this subsection, the Secretary m
 
 &emsp;&emsp;(B) on an annual basis, evaluate the needs of the nuclear energy community to implement traineeships for focused topical areas addressing mission-specific workforce needs.
 
-&emsp;&emsp;(A) <sup>2</sup>
+&emsp;&emsp;(A)
 
-Focus areas.—In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
+Focus areas.— <sup>2</sup>In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
 
 &emsp;&emsp;&emsp;(i) research and development;
 
@@ -188,11 +188,11 @@ Focus areas.—In carrying out the subprogram under this subsection, the Secreta
 
 &emsp;&emsp;&emsp;(iv) workforce training and retraining to support transitioning workforces.
 
-#### (4) <sup>3</sup> Authorization of appropriations
+#### (4) Authorization of appropriations <sup>3</sup>
 
 &emsp;There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463; Pub. L. 117–58, div. D, title X, §41002(b)(2), Nov. 15, 2021, 135 Stat. 1128; Pub. L. 117–167, div. B, title VI, §§10743, 10744, Aug. 9, 2022, 136 Stat. 1718, 1719; Pub. L. 117–263, div. E, title LIX, §5914(2), Dec. 23, 2022, 136 Stat. 3449; Pub. L. 118–31, div. C, title XXXI, §3131(p)(2), Dec. 22, 2023, 137 Stat. 803.)
+(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463; Pub. L. 117–58, div. D, title X, §41002(b)(2), Nov. 15, 2021, 135 Stat. 1128; Pub. L. 117–167, div. B, title VI, §§10743, 10744, Aug. 9, 2022, 136 Stat. 1718, 1719;Pub. L. 117–263, div. E, title LIX, §5914(2), Dec. 23, 2022, 136 Stat. 3449; Pub. L. 118–31, div. C, title XXXI, §3131(p)(2), Dec. 22, 2023, 137 Stat. 803.)
 
 #### <b>Editorial Notes</b>
 
@@ -246,7 +246,7 @@ Subsec. (b). Pub. L. 116–260, §2003(c)(11), added subsec. (b).
 
 Pub. L. 116–260, §2003(c)(7), redesignated subsec. (b) as par. (2).
 
-Pub. L. 116–260, §2003(c)(2), substituted "this subsection" for "this section" in introductory provisions,redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and realigned margins.
+Pub. L. 116–260, §2003(c)(2), substituted "this subsection" for "this section" in introductory provisions, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and realigned margins.
 
 Subsec. (c). Pub. L. 116–260, §2003(c)(7), redesignated subsec. (c) as par. (3).
 

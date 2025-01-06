@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary, in accordance with the provisions of this chapter, may enterinto cooperative agreements with eligible entities to carry out the purposes of this chapter.
+Authority.—The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
 
 (b)
 
@@ -40,7 +40,7 @@ Waiver of Government Cost Share Restriction.—If the Secretary of Defense deter
 
 #### Codification
 
-Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(C), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, §1872(a)(7), which had originally transferred section 2415 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(7) of Pub. L. 116–283 instead transferred section 2415 to section 4956 of this title.
+Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(C), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283,§1872(a)(7), which had originally transferred section 2415 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(7) of Pub. L. 116–283 instead transferred section 2415 to section 4956 of this title.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 

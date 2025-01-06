@@ -2,7 +2,7 @@
 
 (a)
 
-Provision of Continued Health Coverage.—The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided forformer civilian employees of the Federal Government and other persons under section 8905a of title 5.
+Provision of Continued Health Coverage.—The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided for former civilian employees of the Federal Government and other persons under section 8905a of title 5.
 
 (b)
 
@@ -60,7 +60,7 @@ Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regu
 
 Election of Coverage.—In order to obtain continued coverage under this section, an appropriate written election (submitted in such manner as the Secretary of Defense may prescribe) shall be made as follows:
 
-&emsp;(1) In the case of a member described in subsection (b)(1), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
+&emsp;(1) In the case of a member described in subsection (b)(1), the written election shall be submitted to the Secretary concerned beforethe end of the 60-day period beginning on the later of—
 
 &emsp;&emsp;(A) the date of the discharge or release of the member from active duty or full-time National Guard duty;
 
@@ -74,7 +74,7 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;&emsp;(B) the date the member receives the notification required pursuant to subsection (c).
 
-&emsp;(3)(A) In the case of a dependent of a member or former member who becomes eligible forcontinued coverage under subsection (b)(3), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
+&emsp;(3)(A) In the case of a dependent of a member or former member who becomes eligible for continued coverage under subsection (b)(3), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
 
 &emsp;&emsp;(i) the date on which the dependent first ceases to meet the requirements for being considered a dependent under subparagraph (D) or (I) of section 1072(2) of this title; or
 
@@ -124,7 +124,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 (2) Notwithstanding paragraph (1)(C), if a dependent of a member becomes eligible for continued coverage under subsection (b)(3) during a period of continued coverage of the member for self and dependents under this section, extended coverage of the dependent under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
-(3) Notwithstanding paragraph (1)(D), if a person becomes eligible for continued coverage under subsection (b)(4) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouse under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
+(3) Notwithstanding paragraph (1)(D), if a person becomes eligible for continued coverage under subsection (b)(4) as the former spouse of a member during a period of continued coverage of the member for self and dependents under thissection, extended coverage of the former spouse under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
 (4)(A) Notwithstanding paragraph (1), in the case of a former spouse described in subparagraph (B), continued coverage under this section shall continue for such period as the former spouse may request.
 

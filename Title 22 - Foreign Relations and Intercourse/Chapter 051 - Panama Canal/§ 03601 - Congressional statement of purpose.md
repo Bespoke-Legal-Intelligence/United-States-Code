@@ -22,7 +22,7 @@ Pub. L. 106–65, div. C, title XXXV, §3501, Oct. 5, 1999, 113 Stat. 974, provi
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–85, div. C, title XXXV, §3511(a), Nov. 18, 1997, 111 Stat. 2062, provided that: "This subtitle \[subtitle B (§§3511–3550) of title XXXV of div. C of Pub. L. 105–85, enacting sections 3673, 3861, and 3862 of this title, amending sections 3602, 3612a, 3612b, 3613, 3620, 3622, 3642, 3650, 3652, 3656, 3657, 3658, 3661, 3662, 3664, 3671, 3681, 3701, 3712, 3714b, 3715c, 3731, 3751, 3752, 3771, 3772, 3776, and 3792 of this title and sections 5315, 5724, and 5724a of Title 5, Government Organization and Employees, repealing sections 3655, 3659, and 3665 of this title, and enacting provisions set out as notes under section 3650 of this title and section 5724 of Title 5\] may be cited as the 'Panama Canal Transition Facilitation Act of 1997'."
+Pub. L. 105–85, div. C, title XXXV, §3511(a), Nov. 18, 1997, 111 Stat. 2062, provided that: "This subtitle \[subtitle B (§§3511–3550) of title XXXV of div. C of Pub. L.105–85, enacting sections 3673, 3861, and 3862 of this title, amending sections 3602, 3612a, 3612b, 3613, 3620, 3622, 3642, 3650, 3652, 3656, 3657, 3658, 3661, 3662, 3664, 3671, 3681, 3701, 3712, 3714b, 3715c, 3731, 3751, 3752, 3771, 3772, 3776, and 3792 of this title and sections 5315, 5724, and 5724a of Title 5, Government Organization and Employees, repealing sections 3655, 3659, and 3665 of this title, and enacting provisions set out as notes under section 3650 of this title and section 5724 of Title 5\] may be cited as the 'Panama Canal Transition Facilitation Act of 1997'."
 
 #### Short Title of 1996 Amendments
 

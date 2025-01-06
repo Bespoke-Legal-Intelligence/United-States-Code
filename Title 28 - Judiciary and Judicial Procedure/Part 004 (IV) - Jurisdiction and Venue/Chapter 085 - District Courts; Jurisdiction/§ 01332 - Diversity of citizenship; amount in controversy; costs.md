@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) the State or foreign state where the insurer has its principal place of business; and
 
-&emsp;(2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and thelegal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
+&emsp;(2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
 
 (d)(1) In this subsection—
 
@@ -92,7 +92,7 @@
 
 &emsp;(A) concerning a covered security as defined under 16(f)(3) <sup>1</sup> of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) <sup>2</sup>) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
 
-&emsp;(B) that relates to the internal affairs or governance of a corporation or other form of business enterprise and that arises under or byvirtue of the laws of the State in which such corporation or business enterprise is incorporated or organized; or
+&emsp;(B) that relates to the internal affairs or governance of a corporation or other form of business enterprise and that arises under or by virtue of the laws of the State in which such corporation or business enterprise is incorporated or organized; or
 
 &emsp;(C) that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
 

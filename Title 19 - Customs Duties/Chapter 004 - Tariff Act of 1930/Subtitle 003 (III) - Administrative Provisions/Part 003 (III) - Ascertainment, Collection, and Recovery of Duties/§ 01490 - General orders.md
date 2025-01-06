@@ -24,7 +24,7 @@
 
 #### (b) Request for possession by Customs
 
-At the request of the consignee of any merchandise, or of the owner or master of the vesselor the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.
+At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.
 
 #### (c) Government merchandise
 
@@ -82,5 +82,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

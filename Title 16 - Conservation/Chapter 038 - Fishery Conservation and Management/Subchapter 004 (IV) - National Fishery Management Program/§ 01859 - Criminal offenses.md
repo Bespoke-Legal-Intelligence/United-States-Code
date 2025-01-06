@@ -36,6 +36,8 @@ Subsec. (b). Pub. L. 101–627, §115(b), substituted "$100,000" for "$50,000", 
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–453 struck out ", or imprisonment for not more than 1 year, or both" after "subsection (a)(2) is punishable by a fine of not more than $100,000".
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment

@@ -24,7 +24,7 @@
 
 > shall not be applicable to written warranties complying with such sections (or rules thereunder).
 
-(2) If, upon application of an appropriate State agency, the Commission determines (pursuant to rules issued in accordance with section 2309 ofthis title) that any requirement of such State covering any transaction to which this chapter applies (A) affords protection to consumers greater than the requirements of this chapter and (B) does not unduly burden interstate commerce, then such State requirement shall be applicable (notwithstanding the provisions of paragraph (1) of this subsection) to the extent specified in such determination for so long as the State administers and enforces effectively any such greater requirement.
+(2) If, upon application of an appropriate State agency, the Commission determines (pursuant to rules issued in accordance with section 2309 of this title) that any requirement of such State covering any transaction to which this chapter applies (A) affords protection to consumers greater than the requirements of this chapter and (B) does not unduly burden interstate commerce, then such State requirement shall be applicable (notwithstanding the provisions of paragraph (1) of this subsection) to the extent specified in such determination for so long as the State administers and enforces effectively any such greater requirement.
 
 #### (d) Other Federal warranty laws
 

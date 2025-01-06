@@ -4,7 +4,7 @@ Whoever, with intent to avoid, evade, prevent, or obstruct compliance, in whole 
 
 Whoever corruptly, or by threats or force, or by any threatening letter or communication influences, obstructs, or impedes or endeavors to influence, obstruct, or impede the due and proper administration of the law under which any pending proceeding is being had before any department or agency of the United States, or the due and proper exercise of the power of inquiry under which any inquiry or investigation is being had by either House, or any committee of either House or any joint committee of the Congress—
 
-Shall be fined under this title, imprisoned not more than 5 years or, if the offense involvesinternational or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both.
+Shall be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 87–664, §6(a), Sept. 19, 1962, 76 Stat. 551; Pub. L. 91–452, title IX, §903, Oct. 15, 1970, 84 Stat. 947; Pub. L. 94–435, title I, §105, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 97–291, §4(d), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 108–458, title VI, §6703(a), Dec. 17, 2004, 118 Stat. 3766.)
 
@@ -34,7 +34,7 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 <b>1970</b>—Pub. L. 91–452 inserted reference to section 1968 of this title.
 
-<b>1962</b>—Pub. L. 87–664 substituted section catchline "Obstruction of proceedings before departments, agencies, and committees" for "Influencing or injuring witness before agencies and committees" and punished the willful removal, concealment, destruction, mutilation, alteration or falsification of documents which were the subject of a demand under the Antitrust Civil Process Act if done with the intent to prevent compliance with a civil investigative demand.
+<b>1962</b>—Pub. L. 87–664 substituted section catchline "Obstruction of proceedings before departments, agencies, and committees" for "Influencing or injuring witness before agencies and committees" and punished thewillful removal, concealment, destruction, mutilation, alteration or falsification of documents which were the subject of a demand under the Antitrust Civil Process Act if done with the intent to prevent compliance with a civil investigative demand.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

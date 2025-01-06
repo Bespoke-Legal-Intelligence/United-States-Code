@@ -50,7 +50,7 @@ Grants awarded under this section may only be used for programs that provide—
 
 &emsp;(A) emergency and transitional shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to any construction or operating expenses of newly developed or existing emergency and transitional pet, service animal, emotional support animal, or horse shelter and housing (regardless of whether such shelter and housing is co-located at a victim service provider or within the community);
 
-&emsp;(B) short-term shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to expenses incurred for the temporary shelter, housing, boarding, or fostering of the pets, service animals, emotional support animals, or horses of domestic violence victims and other expenses that are incidental to securing the safety of such a pet, service animal, emotional support animal, or horse during thesheltering, housing, or relocation of such victims;
+&emsp;(B) short-term shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to expenses incurred for the temporary shelter, housing, boarding, or fostering of the pets, service animals, emotional support animals, or horses of domestic violence victims and other expenses that are incidental to securing the safety of such a pet, service animal, emotional support animal, or horse during the sheltering, housing, or relocation of such victims;
 
 &emsp;(C) support services designed to enable a domestic violence victim who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—
 
@@ -98,7 +98,7 @@ An eligible entity that receives a grant under this section shall, as a conditio
 
 #### (6) Report to the Secretary
 
-Not later than 1 year after the date on which an eligible entity receives a grant under this section and each year thereafter in which the grant funds are used, the entity shall submit to the Secretary a report that contains, with respect to assistance provided by the entity to domestic violence victims with pets, service animals, emotional support animals, or horses using grant funds received under this section, information on—
+Not later than 1 year after the date on which an eligible entity receives a grant under thissection and each year thereafter in which the grant funds are used, the entity shall submit to the Secretary a report that contains, with respect to assistance provided by the entity to domestic violence victims with pets, service animals, emotional support animals, or horses using grant funds received under this section, information on—
 
 &emsp;(A) the number of domestic violence victims with pets, service animals, emotional support animals, or horses provided such assistance; and
 

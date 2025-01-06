@@ -12,7 +12,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision,
 
-&emsp;&emsp;(B) 75 percent of so much of such expenditures (including travel and per diem expenses) as are for the short-term training of current or prospective foster or adoptive parents or relative guardians, the members of the staff of State-licensed or State-approved child care institutions providing care, or State-licensed or State-approved child welfare agencies providing services, to children receiving assistance under this part, and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts, in ways that increase the ability of such current or prospective parents, guardians, staff members, institutions, attorneys, and advocates to provide support and assistance to foster and adopted children and children living with relative guardians, whether incurred directly by the State or by contract,
+&emsp;&emsp;(B) 75 percent of so much of such expenditures (including travel and per diem expenses) as are for the short-term training of current or prospective foster or adoptive parents or relative guardians, the members of the staff of State-licensed or State-approved child care institutions providing care, or State-licensed or State-approved child welfare agencies providing services, to children receiving assistance under this part, and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts, in ways that increase the ability of such current or prospective parents, guardians, staff members, institutions, attorneys, and advocates to provide support and assistance to foster andadopted children and children living with relative guardians, whether incurred directly by the State or by contract,
 
 &emsp;&emsp;(C) 50 percent of so much of such expenditures as are for the planning, design, development, or installation of statewide mechanized data collection and information retrieval systems (including 50 percent of the full amount of expenditures for hardware components for such systems) but only to the extent that such systems—
 
@@ -54,11 +54,11 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;(B) for each quarter specified in subparagraph (A), an amount equal to the sum of the following proportions of the total amount expended during the quarter—
 
-&emsp;&emsp;&emsp;(i) 50 percent of so much of the expenditures as are found necessary by the Secretary for the proper and efficient administration of the State plan for the provision of services or programs specified in section 671(e)(1) of this title, including expenditures for activities approved by the Secretary that promote the development of necessary processes and procedures to establish and implement the provision of the services and programs for individuals who are eligible for the services and programs and expenditures attributable to data collection and reporting; and
+&emsp;&emsp;&emsp;(i) 50 percent of so much of the expenditures as are found necessary by the Secretary for the proper and efficient administration of the State plan for the provision of services or programs specified in section 671(e)(1) of this title, including expenditures for activities approved by the Secretary that promote the development of necessary processes and procedures to establish and implement the provision of the services and programs for individualswho are eligible for the services and programs and expenditures attributable to data collection and reporting; and
 
 &emsp;&emsp;&emsp;(ii) 50 percent of so much of the expenditures with respect to the provision of services and programs specified in section 671(e)(1) of this title as are for training of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision and of the members of the staff of State-licensed or State-approved child welfare agencies providing services to children described in section 671(e)(2) of this title and their parents or kin caregivers, including on how to determine who are individuals eligible for the services or programs, how to identify and provide appropriate services and programs, and how to oversee and evaluate the ongoing appropriateness of the services and programs; plus
 
-&emsp;(7) an amount equal to 50 percent of the amounts expended by the State during the quarter as the Secretary determines are for kinship navigator programs that meet the requirements described in section 627(a)(1) of this title and that the Secretary determines are operated in accordance with promising, supported, or well-supported practices that meet the applicable criteria specified for the practices in section 671(e)(4)(C) of this title, without regard to whether the expendituresare incurred on behalf of children who are, or are potentially, eligible for foster care maintenance payments under this part.
+&emsp;(7) an amount equal to 50 percent of the amounts expended by the State during the quarter as the Secretary determines are for kinship navigator programs that meet the requirements described in section 627(a)(1) of this title and that the Secretary determines are operated in accordance with promising, supported, or well-supported practices that meet the applicable criteria specified for the practices in section 671(e)(4)(C) of this title, without regard to whether the expenditures are incurred on behalf of children who are, or are potentially, eligible for foster care maintenance payments under this part.
 
 #### (b) Quarterly estimates of State's entitlement for next quarter; payments; United States' pro rata share of amounts recovered as overpayment; allowance, disallowance, or deferral of claim
 
@@ -128,17 +128,23 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 For purposes of this part, after the termination of a demonstration project relating to guardianship conducted by a State under section 1320a–9 of this title, the expenditures of the State for the provision, to children who, as of September 30, 2008, were receiving assistance or services under the project, of the same assistance and services under the same terms and conditions that applied during the conduct of the project, are deemed to be expenditures under the State plan approved under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151; Pub. L. 110–275, title III, §302(a), July 15, 2008, 122 Stat. 2594; Pub. L. 110–351, title I, §101(c)(3), (d), title II, §203(a), title III, §301(c)(2), Oct. 7, 2008, 122 Stat. 3952, 3953, 3959, 3970; Pub. L. 115–123, div. E, title VII, §§50711(c), 50712(b), 50713, 50741(a)(2), Feb. 9, 2018, 132 Stat. 240, 245, 255.)
+(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151; Pub. L. 110–275, title III, §302(a), July 15, 2008, 122 Stat. 2594; Pub. L. 110–351, title I, §101(c)(3), (d), title II, §203(a), title III, §301(c)(2), Oct. 7, 2008, 122 Stat. 3952, 3953, 3959, 3970; Pub. L. 115–123, div. E, title VII, §§50711(c), 50712(b), 50713, 50741(a)(2), Feb. 9, 2018, 132 Stat. 240, 245, 255; Pub. L. 118–258, title I, §110(b)(3), Jan. 4, 2025, 138 Stat. 2961.)
+
+#### Amendment of Subsection (a)(7)
+
+<i>Pub. L. 118–258, title I, §§110(b)(3), 117, Jan. 4, 2025, 138 Stat. 2961, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(7) of this section is amended by striking "627(a)(1)" and inserting "627(a)". See 2025 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
+The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat.3069, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 Section 677(a)(6) of this title, referred to in subsec. (e)(1), was redesignated section 677(a)(5) of this title by Pub. L. 115–123, div. E, title VII, §50753(d)(2)(D), Feb. 9, 2018, 132 Stat. 265.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(7). Pub. L. 118–258 substituted "section 627(a) of this title" for "section 627(a)(1) of this title".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–123, §50741(a)(2), substituted "subsections (j) and (k) of section 672 of this title" for "section 672(j) of this title".
 
@@ -156,7 +162,7 @@ Subsec. (a)(7). Pub. L. 115–123, §50713(2), added par. (7).
 
 Pub. L. 110–275 substituted "(which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia)" for "(as defined in section 1396d(b) of this title)".
 
-Subsec. (a)(3)(B). Pub. L. 110–351, §203(a), inserted "or relative guardians" after "adoptive parents", substituted ", the members" for "and the members", inserted ", or State-licensed or State-approved child welfare agencies providing services," after "providing care", struck out "foster and adopted" before "children receiving assistance", inserted "and members of thestaff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts," after "part,", inserted "guardians," before "staff members,", substituted "institutions, attorneys, and advocates" for "and institutions", and inserted "and children living with relative guardians" before ", whether incurred directly".
+Subsec. (a)(3)(B). Pub. L. 110–351, §203(a), inserted "or relative guardians" after "adoptive parents", substituted ", the members" for "and the members", inserted ", or State-licensed or State-approved child welfare agencies providing services," after "providing care", struck out "foster and adopted" before "children receiving assistance", inserted "and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts," after "part,", inserted "guardians," before "staff members,", substituted "institutions, attorneys, and advocates" for "and institutions", and inserted "and children living with relative guardians" before ", whether incurred directly".
 
 Subsec. (a)(4). Pub. L. 110–351, §101(c)(3)(A), substituted "; plus" for period at end.
 
@@ -298,6 +304,10 @@ Subsec. (d)(1). Pub. L. 98–369, §2663(c)(18)(C), substituted "and (C) such" f
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. N, title I, §602(g), Dec. 20, 2019, 133 Stat. 3123, provided that: "This section \[enacting provisions set out as notes under this section and section 1305 of this title, and amending provisions set out as a note under section 1305 of this title\] and the amendments made by this section shall take effect as if included in the Bipartisan Budget Act of 2018 \[Pub. L. 115–123\] on the date of the enactment of such Act \[Feb. 9, 2018\]."
@@ -330,7 +340,7 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 301(b), (c) of Pub. L. 105–200 effective as if included in the enactment of section 202 of the Adoption and Safe Families Act of 1997, Pub. L. 105–89, see section 301(d) of Pub. L. 105–200, set out as a note under section 671 of this title.
+Amendment by section 301(b), (c) of Pub. L. 105–200 effective as if included in the enactment of section 202 ofthe Adoption and Safe Families Act of 1997, Pub. L. 105–89, see section 301(d) of Pub. L. 105–200, set out as a note under section 671 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -418,7 +428,7 @@ Other Allowable Uses of Funds.—A State may use funds provided to carry out a k
 
 "(d)
 
-Territory Cap Exemption.—Section 1108(a)(1) of the Social Security Act \[42 U.S.C. 1308(a)(1)\] shall be applied without regard to any amount paid to a territory pursuant to this section that would not have been paid to the territory in the absence of this section."
+Territory Cap Exemption.—Section 1108(a)(1) of the Social Security Act \[42 U.S.C. 1308(a)(1)\] shall beapplied without regard to any amount paid to a territory pursuant to this section that would not have been paid to the territory in the absence of this section."
 
 \[For definitions of terms used in section 8 of div. X of Pub. L. 116–260, set out above, see section 2 of div. X of Pub. L. 116–260, set out as a note under section 629h of this title.\]
 

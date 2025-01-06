@@ -32,7 +32,7 @@ The Secretary shall have access to available data from cross-border documentatio
 
 &emsp;Any data determined by the Secretary to be confidential business information shall not be provided in the report under paragraph (1).
 
-(Pub. L. 101–624, title XXI, §2122, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title VII, §7511(c)(24), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(24), June 18, 2008, 122 Stat. 1664, 2031; Pub. L. 115–334, title X, §10104(h), Dec. 20, 2018, 132 Stat. 4901.)
+(Pub. L. 101–624, title XXI, §2122, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title VII, §7511(c)(24), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(24), June 18, 2008,122 Stat. 1664, 2031; Pub. L. 115–334, title X, §10104(h), Dec. 20, 2018, 132 Stat. 4901.)
 
 #### <b>Editorial Notes</b>
 

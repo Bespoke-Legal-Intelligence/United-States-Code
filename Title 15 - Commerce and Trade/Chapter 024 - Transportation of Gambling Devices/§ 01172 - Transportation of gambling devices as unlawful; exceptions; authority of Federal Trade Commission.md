@@ -30,7 +30,7 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 Pub. L. 102–251, §202(a)(2), which directed that ", District of Columbia," be struck out in subsec. (a), was executed by striking out ", the District of Columbia," after "place in a State" and "outside of such State" to reflect the probable intent of Congress.
 
-<b>1962</b>—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
+<b>1962</b>—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful totransport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

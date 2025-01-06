@@ -12,7 +12,7 @@ A prior section 942, act Mar. 4, 1927, ch. 509, §42, 44 Stat. 1444, related to 
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–66 substituted "end of each fiscal year" for "beginning of each regular session, commencing at the beginning of the second regular session after September 28, 1984" and inserted at end "Such report shall include the annual report required under section 936(b) of title 30 and shall be identified as the Annual Report of the Office of Workers' Compensation Programs."
+<b>1995</b>—Pub. L. 104–66 substituted "end of each fiscal year" for "beginning of each regular session, commencing at the beginning of the second regular sessionafter September 28, 1984" and inserted at end "Such report shall include the annual report required under section 936(b) of title 30 and shall be identified as the Annual Report of the Office of Workers' Compensation Programs."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

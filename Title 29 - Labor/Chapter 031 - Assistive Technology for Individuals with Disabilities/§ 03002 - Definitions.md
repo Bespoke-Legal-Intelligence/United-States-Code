@@ -100,7 +100,7 @@ In this chapter:
 
 &emsp;&emsp;(A) who has a disability; and
 
-&emsp;&emsp;(B) who is or would be enabled by an assistive technology device or an assistive technology service to minimize deterioration in functioning, to maintain a level offunctioning, or to achieve a greater level of functioning in any major life activity.
+&emsp;&emsp;(B) who is or would be enabled by an assistive technology device or an assistive technology service to minimize deterioration in functioning, to maintain a level of functioning, or to achieve a greater level of functioning in any major life activity.
 
 #### (11) Institution of higher education
 
@@ -148,7 +148,7 @@ In this chapter:
 
 &emsp;&emsp;(B) underrepresented populations;
 
-&emsp;&emsp;(C) individuals who work for public or private entities (including centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), insurers, or managed care providers) that have contact with, or provide services to, individuals with disabilities;
+&emsp;&emsp;(C) individuals who work for public or private entities (including centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), insurers, or managed care providers) that have contact with, orprovide services to, individuals with disabilities;
 
 &emsp;&emsp;(D) educators and related services personnel, including personnel in elementary, secondary, and postsecondary schools, and in vocational and early intervention programs;
 

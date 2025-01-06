@@ -46,7 +46,7 @@ Such refund shall be made on submission of proof satisfactory to the Board that 
 
 (1) If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is approved pursuant to the referendum required under section 2906(a) <sup>1</sup> of this title, the Board shall—
 
-&emsp;(A) continue to place in such account, from assessments collected under section 2904 ofthis title, the amount required under subsection (b), until such time as the Board is able to comply with subparagraph (B); and
+&emsp;(A) continue to place in such account, from assessments collected under section 2904 of this title, the amount required under subsection (b), until such time as the Board is able to comply with subparagraph (B); and
 
 &emsp;(B) provide to all eligible persons the total amount of assessments demanded by all eligible producers.
 

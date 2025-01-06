@@ -74,7 +74,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(13) The second trial, verdict, and sentence against former Yukos executives Mikhail Khodorkovsky and Platon Lebedev evoke serious concerns about the right to a fair trial and the independence of the judiciary in the Russian Federation. The lack of credible charges, intimidation of witnesses, violations of due process and procedural norms, falsification or withholding of documents, denial of attorney-client privilege, and illegal detention in the Yukos case are highly troubling. The Council of Europe, Freedom House, and Amnesty International, among others, have concluded that they were charged and imprisoned in a process that did not follow the rule of law and was politically influenced. Furthermore, senior officials of the Government of the Russian Federation, including First Deputy Prime Minister Igor Shuvalov, have acknowledged that the arrest and imprisonment of Khodorkovsky were politically motivated.
 
-&emsp;"(14) According to Freedom House's 2011 report entitled 'The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members', '\[t\]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an internationalspotlight on the Russian state's contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.'.
+&emsp;"(14) According to Freedom House's 2011 report entitled 'The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members', '\[t\]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an international spotlight on the Russian state's contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.'.
 
 &emsp;"(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, Natalya Estemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
 
@@ -172,7 +172,7 @@ Requests by Chairperson and Ranking Member of Appropriate Congressional Committe
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after receiving a written request from the chairperson and ranking member of one of the appropriate congressional committees with respect to whether a person meets the criteria for being added to the list requiredby subsection (a), the President shall submit a response to the chairperson and ranking member of the committee which made the request with respect to the status of the person.
+In general.—Not later than 120 days after receiving a written request from the chairperson and ranking member of one of the appropriate congressional committees with respect to whether a person meets the criteria for being added to the list required by subsection (a), the President shall submit a response to the chairperson and ranking member of the committee which made the request with respect to the status of the person.
 
 &emsp;"(2)
 
@@ -270,7 +270,7 @@ Regulatory Authority.—The Secretary of the Treasury shall issue such regulatio
 
 #### Belarus Democracy
 
-Pub. L. 118–31, div. F, title LXIV, §6406, Dec. 22, 2023, 137 Stat. 999, provided that:
+Pub. L. 118–31, div. F, title LXIV, §6406, Dec. 22, 2023, 137 Stat. 999, as amended by Pub. L. 118–159, div. G, title LXXII, §7205, Dec. 23, 2024, 138 Stat. 2530, provided that:
 
 "(a)
 
@@ -310,15 +310,9 @@ Duties and Responsibilities.—The Special Envoy shall—
 
 Role.—The position of Special Envoy—
 
-&emsp;"(1) shall be a full-time position;
+&emsp;"(1) shall only exist while United States diplomatic operations in Belarus at the United States Embassy in Minsk, Belarus are suspended; and
 
-&emsp;"(2) may not be combined with any other position within the Department;
-
-&emsp;"(3) shall only exist as long as United States diplomatic operations in Belarus at the United States Embassy in Minsk, Belarus have been suspended;
-
-&emsp;"(4) shall oversee the operations and personnel of the Belarus Affairs Unit; and
-
-&emsp;"(5) shall have a duty station that is co-located with the Belarus Affairs Unit.
+&emsp;"(2) shall oversee the operations and personnel of the Belarus Affairs Unit.
 
 "(e)
 
@@ -364,7 +358,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;"(9) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues to subject thousands of pro-democracy political activists and peaceful protesters to harassment, beatings, and imprisonment, particularly as a result of their attempts to peacefully exercise their right to freedom of assembly and association.
 
-&emsp;"(10) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues to suppress independent media and journalists and to restrict access to the internet, including social media and other digital communication platforms, in violation of the right to freedom of speech and expression of thosedissenting from the dictatorship of Alyaksandr Lukashenka.
+&emsp;"(10) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues to suppress independent media and journalists and to restrict access to the internet, including social media and other digital communication platforms, in violation of the right to freedom of speech and expression of those dissenting from the dictatorship of Alyaksandr Lukashenka.
 
 &emsp;"(11) The Government of Belarus, led illegally by Alyaksandr Lukashenka, continues a systematic campaign of harassment, repression, and closure of nongovernmental organizations, including independent trade unions and entrepreneurs, creating a climate of fear that inhibits the development of civil society and social solidarity.
 
@@ -462,7 +456,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;"(38) Thousands of employees at Belarusian state-owned enterprises, who have been seen as Alyaksandr Lukashenka's traditional base during his 26-year rule, went on strike across the country to protest Lukashenka's illegitimate election and the subsequent crackdowns, including at some of Belarus's largest factories such as the BelAZ truck plant, the Minsk Tractor Works, and the Minsk Automobile Plant.
 
-&emsp;"(39) After the employees of state media outlets walked off the job in protest rather than help report misleading government propaganda, Lukashenka confirmed that he 'asked the Russians' to send teams of Russian journalists to replace local employees.
+&emsp;"(39) After the employees of state media outlets walked off the job in protest rather than help reportmisleading government propaganda, Lukashenka confirmed that he 'asked the Russians' to send teams of Russian journalists to replace local employees.
 
 &emsp;"(40) On August 19, 2020, European Council President Charles Michel announced that the European Union would impose sanctions on a substantial number of individuals responsible for violence, repression, and election fraud in Belarus.
 
@@ -536,7 +530,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;"(14) to encourage the United States Government—
 
-&emsp;&emsp;"(A) to continue working closely with the European Union, the United Kingdom, Canada, andother countries and international organizations to promote the principles of democracy, the rule of law, and human rights in Belarus; and
+&emsp;&emsp;"(A) to continue working closely with the European Union, the United Kingdom, Canada, and other countries and international organizations to promote the principles of democracy, the rule of law, and human rights in Belarus; and
 
 &emsp;&emsp;"(B) to impose targeted sanctions, in coordination with the European Union and other international partners, against officials in Belarus who are responsible for—
 
@@ -724,7 +718,7 @@ United states government financing.—It is the sense of Congress that no loan, 
 
 &emsp;"(2)
 
-Trade and development agency.—It is the sense of Congress that no funds available to theTrade and Development Agency should be available for activities of the Agency in or for Belarus.
+Trade and development agency.—It is the sense of Congress that no funds available to the Trade and Development Agency should be available for activities of the Agency in or for Belarus.
 
 "(e)
 

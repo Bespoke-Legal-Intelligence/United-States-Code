@@ -94,7 +94,7 @@
 
 &emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
 
-&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to cybersecurity, with separate displays for mandatory and discretionary amounts, including—
+&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year,the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to cybersecurity, with separate displays for mandatory and discretionary amounts, including—
 
 &emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for cybersecurity;
 
@@ -140,15 +140,13 @@
 
 &emsp;(38) a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
 
-&emsp;(39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
-
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted undersubsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shallidentify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -252,7 +250,7 @@
 
 (3) In this subsection, the term "budget justification materials" has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, §2(b), Sept. 24, 2021, 135 Stat. 338; Pub. L. 117–286, §4(b)(50), Dec. 27, 2022, 136 Stat. 4348.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, §2(b), Sept. 24, 2021, 135 Stat. 338; Pub. L. 117–286, §4(b)(50), Dec. 27, 2022, 136 Stat. 4348; Pub. L. 118–172, §2(b), Dec. 23, 2024, 138 Stat. 2595.)
 
 Historical and Revision Notes<br>1982
 
@@ -428,6 +426,8 @@ The date of enactment of this subsection, referred to in subsec. (i)(2)(B), is t
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(39). Pub. L. 118–172 struck out par. (39) which read as follows: "the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports."
+
 <b>2022</b>—Subsec. (a)(25). Pub. L. 117–286 substituted "section 401 of title 5." for "section 11(2) of the Inspector General Act of 1978."
 
 <b>2021</b>—Subsec. (i). Pub. L. 117–40 added subsec. (i).
@@ -470,7 +470,7 @@ Subsec. (a)(34). Pub. L. 107–189 added par. (34).
 
 Subsec. (g)(2)(B)(ii). Pub. L. 107–217 substituted "1102 of title 40" for "section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541)".
 
-<b>2000</b>—Subsec. (a)(33). Pub. L. 106–422 added par. (33) relating to separate account for Inspectors GeneralCriminal Investigator Academy and Inspectors General Forensic Laboratory.
+<b>2000</b>—Subsec. (a)(33). Pub. L. 106–422 added par. (33) relating to separate account for Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory.
 
 <b>1999</b>—Subsec. (a)(31). Pub. L. 106–58 added par. (31).
 
@@ -556,7 +556,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: "This section \[amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this sectionshall apply beginning with respect to the fiscal year 2005 budget submission."
+Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: "This section \[amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission."
 
 #### Effective Date of 1999 Amendment
 
@@ -750,7 +750,7 @@ Fallback Procedure for Floor Consideration if the House Fails to Vote on Final P
 
 &emsp;"(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
 
-&emsp;"(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership of the House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+&emsp;"(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership ofthe House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 &emsp;"(3) Only one motion to discharge a particular committee may be adopted under this subsection in any session of a Congress.
 
@@ -834,7 +834,7 @@ In general.—If the Committee on Finance has not reported medicare funding legi
 
 &emsp;"(2)
 
-Debate limits.—Debate in the Senate on any such motion to discharge, and all appeals in connection therewith, shall be limited to not more than 2 hours. The time shall be equally divided between, and controlled by, the maker of the motion and the Majority Leader, or their designees, except that in the event the Majority Leader is in favor of such motion, the time in opposition thereto shall be controlled by the Minority Leader or the Minority Leader's designee. A point of order under this subsection may be made at any time. It is not in order to move to proceed to another measure or matter while such motion (or the motion to reconsider such motion) is pending.
+Debate limits.—Debate in the Senate on any such motion to discharge, and all appeals in connection therewith, shall be limited to not more than 2 hours. The time shall be equally divided between, and controlled by, the maker of the motion and the Majority Leader, or their designees, except that in the event the Majority Leader is in favor of such motion, the time in opposition thereto shall be controlled bythe Minority Leader or the Minority Leader's designee. A point of order under this subsection may be made at any time. It is not in order to move to proceed to another measure or matter while such motion (or the motion to reconsider such motion) is pending.
 
 &emsp;"(3)
 
@@ -842,7 +842,7 @@ Amendments.—No amendment to the motion to discharge shall be in order.
 
 &emsp;"(4)
 
-Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be inorder to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
+Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
 
 "(e)
 
@@ -926,7 +926,7 @@ Pub. L. 100–685, title I, §104, Nov. 17, 1988, 102 Stat. 4086, provided that:
 
 Pub. L. 102–241, §11, Dec. 19, 1991, 105 Stat. 2212, provided that: "Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 

@@ -18,6 +18,7 @@
 - [&sect; 02154 - International atomic pool](%C2%A7%2002154%20-%20International%20atomic%20pool.md)
 - [&sect; 02155 - Export licensing procedures](%C2%A7%2002155%20-%20Export%20licensing%20procedures.md)
 - [&sect; 02155a - Regulations establishing Commission procedures covering grant, suspension, revocation, or amendment of nuclear export licenses or&#8230;](%C2%A7%2002155a%20-%20Regulations%20establishing%20Commission%20procedures%20covering%20grant%2C%20suspension%2C%20revocation%2C%20or%20amendment%20of%20nuclear%20export%20licenses%20or%E2%80%A6.md)
+- [&sect; 02155b - International nuclear export and innovation activities](%C2%A7%2002155b%20-%20International%20nuclear%20export%20and%20innovation%20activities.md)
 - [&sect; 02156 - Criteria governing United States nuclear exports](%C2%A7%2002156%20-%20Criteria%20governing%20United%20States%20nuclear%20exports.md)
 - [&sect; 02156a - Regulations establishing levels of physical security to protect facilities and material](%C2%A7%2002156a%20-%20Regulations%20establishing%20levels%20of%20physical%20security%20to%20protect%20facilities%20and%20material.md)
 - [&sect; 02157 - Additional export criterion and procedures](%C2%A7%2002157%20-%20Additional%20export%20criterion%20and%20procedures.md)

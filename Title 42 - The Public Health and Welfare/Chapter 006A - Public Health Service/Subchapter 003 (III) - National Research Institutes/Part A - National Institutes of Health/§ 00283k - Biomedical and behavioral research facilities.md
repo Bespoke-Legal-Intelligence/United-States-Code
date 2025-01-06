@@ -38,7 +38,7 @@
 
 #### (D) Annual report
 
-&emsp;&emsp;In carrying out subparagraph (A), the Board shall prepare an annual report for the Director of NIH and the Council describing the activities of the Board in the fiscal year for which the report is made. Each such report shall be available to the public, and shall—
+&emsp;&emsp;In carrying out subparagraph (A), the Board shall prepare an annual report for theDirector of NIH and the Council describing the activities of the Board in the fiscal year for which the report is made. Each such report shall be available to the public, and shall—
 
 &emsp;&emsp;&emsp;(i) summarize and analyze expenditures made under this section;
 

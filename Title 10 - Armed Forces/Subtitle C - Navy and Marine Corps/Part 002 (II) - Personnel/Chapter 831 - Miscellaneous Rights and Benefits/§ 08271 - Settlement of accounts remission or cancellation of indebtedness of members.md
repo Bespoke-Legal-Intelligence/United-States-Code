@@ -6,7 +6,7 @@ In General.—The Secretary of the Navy may have remitted or cancelled any part 
 
 (b)
 
-Retroactive Applicability to Certain Debts.—The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
+Retroactive Applicability to Certain Debts.—The authority in subsection (a) may beexercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
 
 (c)
 

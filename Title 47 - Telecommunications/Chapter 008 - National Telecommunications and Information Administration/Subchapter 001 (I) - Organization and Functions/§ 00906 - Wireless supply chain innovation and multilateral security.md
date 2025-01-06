@@ -24,7 +24,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Amounts appropriated to the Innovation Fund shall be available to the Secretary, acting through the NTIA Administrator, to make grants on a competitive basis under this paragraph in such amounts as the Secretary, acting through the NTIA Administrator, determines appropriate, subject to clause (ii).
+&emsp;&emsp;&emsp;Amounts appropriated to the Innovation Fund shall be available to the Secretary, acting through the NTIA Administrator, to make grants on a competitive basisunder this paragraph in such amounts as the Secretary, acting through the NTIA Administrator, determines appropriate, subject to clause (ii).
 
 #### (ii) Limitation on grant amounts
 
@@ -106,7 +106,7 @@
 
 #### (ii) Annual report
 
-&emsp;&emsp;&emsp;For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
+&emsp;&emsp;&emsp;For each fiscal year for which amounts in the Innovation Fund are available underthis paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
 
 &emsp;&emsp;&emsp;&emsp;(I) describes how, and to whom (including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women), amounts in the Innovation Fund have been deployed;
 
@@ -138,7 +138,7 @@
 
 #### (II) Remainder to Treasury
 
-&emsp;&emsp;&emsp;&emsp;Any amounts remaining in the Multilateral Telecommunications Security Fund after the end of the tenth fiscal year beginning after January 1, 2021shall be deposited in the general fund of the Treasury.
+&emsp;&emsp;&emsp;&emsp;Any amounts remaining in the Multilateral Telecommunications Security Fund after the end of the tenth fiscal year beginning after January 1, 2021 shall be deposited in the general fund of the Treasury.
 
 #### (B) Administration of Fund
 

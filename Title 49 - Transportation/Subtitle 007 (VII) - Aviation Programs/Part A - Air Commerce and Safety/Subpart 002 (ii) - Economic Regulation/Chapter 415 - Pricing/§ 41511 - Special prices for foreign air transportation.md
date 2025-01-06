@@ -4,7 +4,7 @@
 
 Free and Reduced Pricing.—This chapter does not prohibit an air carrier or foreign air carrier, under terms the Secretary of Transportation prescribes, from issuing or interchanging tickets or passes for free or reduced-price foreign air transportation to or for the following:
 
-&emsp;(1) a director, officer, or employee of the carrier (including a retired director, officer, oremployee who is receiving retirement benefits from an air carrier or foreign air carrier).
+&emsp;(1) a director, officer, or employee of the carrier (including a retired director, officer, or employee who is receiving retirement benefits from an air carrier or foreign air carrier).
 
 &emsp;(2) a parent or the immediate family of such an officer or employee or the immediate family of such a director.
 
@@ -30,9 +30,9 @@ Space-Available Basis.—Under terms the Secretary prescribes, an air carrier or
 
 &emsp;(3) an individual who is at least 65 years of age.
 
-&emsp;(4) an individual who has severely impaired vision or hearing or another physical or mental handicap and an accompanying attendant needed by that individual.
+&emsp;(4) an individual who has severely impaired vision or hearing or another physical or mental disability and an accompanying attendant needed by that individual.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1139.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1139; Pub. L. 118–63, title V, §550(b), May 16, 2024, 138 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -71,4 +71,10 @@ In subsection (a)(7), the words "or other emergency" are substituted for "other 
 In subsection (b)(2), the words "no longer gainfully employed" are substituted for "retired" and "For purposes of this subsection, the term 'retired' means no longer gainfully employed as defined by the Board" to eliminate unnecessary words.
 
 In subsection (b)(4), the words "an individual who has severely impaired vision or hearing or another physical or mental handicap" are substituted for "handicapped person" and "For the purposes of this subsection, the term 'handicapped person' means any person who has severely impaired vision or hearing, and any other physically or mentally handicapped person, as defined by the Board" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (b)(4). Pub. L. 118–63 substituted "disability" for "handicap".
 

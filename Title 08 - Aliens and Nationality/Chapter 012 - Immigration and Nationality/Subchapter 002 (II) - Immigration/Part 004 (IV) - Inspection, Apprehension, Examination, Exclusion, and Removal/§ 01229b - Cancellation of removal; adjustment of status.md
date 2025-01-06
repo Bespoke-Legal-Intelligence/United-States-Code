@@ -128,7 +128,7 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 
 &emsp;(3) An alien who—
 
-&emsp;&emsp;(A) was admitted to the United States as a nonimmigrant exchange alien as defined in section 1101(a)(15)(J) of this title or has acquired the status of such a nonimmigrant exchange alien after admission other than to receive graduate medical education or training,
+&emsp;&emsp;(A) was admitted to the United States as a nonimmigrant exchange alien as defined insection 1101(a)(15)(J) of this title or has acquired the status of such a nonimmigrant exchange alien after admission other than to receive graduate medical education or training,
 
 &emsp;&emsp;(B) is subject to the two-year foreign residence requirement of section 1182(e) of this title, and
 
@@ -192,7 +192,7 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 <b>2008</b>—Subsec. (b)(6). Pub. L. 110–457 added par. (6).
 
-<b>2006</b>—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted ", subject to paragraph (5)" for "(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)".
+<b>2006</b>—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted ", subject to paragraph (5)" for "(except in a case described in section 1227(a)(7) of this title wherethe Attorney General exercises discretion to grant a waiver)".
 
 Subsec. (b)(2)(A)(iv). Pub. L. 109–162, §813(c)(1)(B), substituted ", subject to paragraph (5)" for "(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)".
 

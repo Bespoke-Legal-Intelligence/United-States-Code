@@ -40,7 +40,7 @@ The Foundation shall maintain its principal office in the metropolitan area of W
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of State shall serve as Inspector General of the Foundation, and, in acting in such capacity, may conduct reviews, investigations, and inspections of all aspects of the operations and activities of the Foundation.
+&emsp;The Inspector General of the Department of State shall serve as Inspector General of theFoundation, and, in acting in such capacity, may conduct reviews, investigations, and inspections of all aspects of the operations and activities of the Foundation.
 
 #### (2) Authority of the Board
 

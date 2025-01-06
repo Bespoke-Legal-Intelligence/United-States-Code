@@ -20,7 +20,7 @@
 
 #### (b) Financial assistance
 
-Under such program, the Secretary of Energy may provide financial assistance consisting ofprice supports, loans, and loan guarantees, for the cost of planning, designing, constructing, operating, and maintaining demonstration facilities, and, in the case of existing facilities, modifications of such facilities solely for demonstration purposes, for the conversion of municipal wastes into energy or the recovery of materials.
+Under such program, the Secretary of Energy may provide financial assistance consisting of price supports, loans, and loan guarantees, for the cost of planning, designing, constructing, operating, and maintaining demonstration facilities, and, in the case of existing facilities, modifications of such facilities solely for demonstration purposes, for the conversion of municipal wastes into energy or the recovery of materials.
 
 #### (c) Priority for funding
 
@@ -40,7 +40,7 @@ All amounts received by the Secretary of Energy as fees, interest, repayment of 
 
 #### References in Text
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of this title. Section 19 of the Act was classified to section 5919 of this title prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is Pub.L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of this title. Section 19 of the Act was classified to section 5919 of this title prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 This chapter, referred to in subsec. (d), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 

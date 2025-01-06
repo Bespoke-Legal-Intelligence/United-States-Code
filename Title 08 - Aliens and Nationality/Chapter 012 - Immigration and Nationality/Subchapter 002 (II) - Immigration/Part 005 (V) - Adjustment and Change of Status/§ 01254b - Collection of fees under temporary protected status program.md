@@ -10,5 +10,5 @@
 
 #### Codification
 
-This section was enacted as part of the Department of Homeland Security Appropriations Act, 2010, and notas part of the Immigration and Nationality Act which comprises this chapter.
+This section was enacted as part of the Department of Homeland Security Appropriations Act, 2010, and not as part of the Immigration and Nationality Act which comprises this chapter.
 

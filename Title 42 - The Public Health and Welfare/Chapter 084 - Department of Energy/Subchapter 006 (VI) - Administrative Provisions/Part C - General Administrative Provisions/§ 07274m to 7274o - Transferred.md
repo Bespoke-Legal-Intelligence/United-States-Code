@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section 7274m, Pub. L. 103–337, div. C, title XXXI, §3163, Oct. 5, 1994, 108 Stat. 3097, which related to safety oversight and enforcement at defense nuclear facilities, was renumbered section 4642 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2732 of Title 50, War and National Defense.
+Section 7274m, Pub. L. 103–337, div. C, title XXXI, §3163, Oct. 5, 1994, 108 Stat. 3097, which related to safety oversight and enforcement at defense nuclear facilities, was renumbered section 4642 of Pub. L. 107–314, the BobStump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2732 of Title 50, War and National Defense.
 
 Section 7274n, Pub. L. 104–201, div. C, title XXXI, §3143, Sept. 23, 1996, 110 Stat. 2836, which related to projects to accelerate closure activities at defense nuclear facilities, was renumbered section 4421 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(11)(A)–(C), Nov. 24, 2003, 117 Stat. 1766, and was classified to former section 2601 of Title 50, War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(e)(10), Dec. 26, 2013, 127 Stat. 1077.
 

@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 102–417, §2(a), added subsec. (f).
 
 <b>1949</b>—Act May 24, 1949, inserted last par.
 
-Act May 10, 1949, increased witnesses' fees from $2 to $4 per day, mileage allowance from 5 cents to 7 cents a mile, subsistence allowance from $3 to $5 per day, and inserted provisos.
+Act May 10, 1949, increased witnesses' fees from $2 to $4 per day, mileage allowance from 5 cents to 7 cents amile, subsistence allowance from $3 to $5 per day, and inserted provisos.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

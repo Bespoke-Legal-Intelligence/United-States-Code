@@ -38,7 +38,7 @@ The Director, in consultation with the Director of the National Institute of Cor
 
 The selection of applicants to receive grants under paragraphs (1) and (2) of subsection (a) shall be based on their potential for developing or testing various innovative alternatives to traditional modes of incarceration and offender release programs. In selecting the applicants to receive grants under subsection (a)(3), the Director shall—
 
-&emsp;(1) consider the overall quality of an applicant's shock incarceration program, including the existence of substance abuse treatment, drug testing, counseling literacy education, vocational education, and job training programs during incarceration or after release; and
+&emsp;(1) consider the overall quality of an applicant's shock incarceration program, includingthe existence of substance abuse treatment, drug testing, counseling literacy education, vocational education, and job training programs during incarceration or after release; and
 
 &emsp;(2) give priority to public agencies that clearly demonstrate that the capacity of their correctional facilities is inadequate to accommodate the number of individuals who are convicted of offenses punishable by a term of imprisonment exceeding 1 year.
 

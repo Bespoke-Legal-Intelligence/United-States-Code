@@ -122,7 +122,7 @@ The date of enactment of the TSA Modernization Act, referred to in subsecs. (b) 
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–254 amended section generally. Prior to amendment, section related to establishment ofpilot program under which the screening of passengers and property was to be conducted by a qualified private screening company.
+<b>2018</b>—Pub. L. 115–254 amended section generally. Prior to amendment, section related to establishment of pilot program under which the screening of passengers and property was to be conducted by a qualified private screening company.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -252,7 +252,7 @@ Long-term strategy.—Not later than 180 days after the date of enactment of thi
 
 Considerations.—In developing the strategy under paragraph (1), the Administrator shall consider the following:
 
-&emsp;&emsp;"(A) Partnering with air carriers (as the term is defined in section 40102 of title 49, United States Code) to incorporate PreCheck Program promotionopportunities in the reservation process described in section 1560.101 of title 49, Code of Federal Regulations;\[.\]
+&emsp;&emsp;"(A) Partnering with air carriers (as the term is defined in section 40102 of title 49, United States Code) to incorporate PreCheck Program promotion opportunities in the reservation process described in section 1560.101 of title 49, Code of Federal Regulations;\[.\]
 
 &emsp;&emsp;"(B) Including in the PreCheck Program of \[sic\] an individual who—
 

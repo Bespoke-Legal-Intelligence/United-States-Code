@@ -68,7 +68,7 @@ Any expense incurred by the United States in connection with a transfer of a ves
 
 &emsp;&emsp;&emsp;(i) the appropriation, fund, or account used in incurring the original obligation;
 
-&emsp;&emsp;&emsp;(ii) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures for theoriginal acquisition of submarines transferred under this section were made; or
+&emsp;&emsp;&emsp;(ii) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures for the original acquisition of submarines transferred under this section were made; or
 
 &emsp;&emsp;&emsp;(iii) any other appropriation, fund, or account available for the improvement of the United States submarine industrial base; and
 
@@ -140,7 +140,7 @@ Any expense incurred by the United States in connection with a transfer of a ves
 
 #### (B) Certification
 
-&emsp;&emsp;Not later than 30 days before the first transfer or export of a defense service underparagraph (1), and annually thereafter, the President shall certify to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that the controls described in subparagraph (A) will protect the information described in such subparagraph for the defense services so transferred or exported.
+&emsp;&emsp;Not later than 30 days before the first transfer or export of a defense service under paragraph (1), and annually thereafter, the President shall certify to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that the controls described in subparagraph (A) will protect the information described in such subparagraph for the defense services so transferred or exported.
 
 #### (i) Report
 
@@ -173,4 +173,34 @@ The Arms Export Control Act, referred to in subsec. (h)(3), is Pub. L. 90–629,
 #### Codification
 
 Section is comprised of section 1352 of Pub. L. 118–31. Subsec. (g) of section 1352 of Pub. L. 118–31 amended section 8680 of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions and authorities vested in the President under subsecs. (e)(2)(B), (C) and (g) of this section delegated to Secretary of Defense, in consultation with Secretary of Energy, and under subsecs. (d)(1), (e)(2)(A), (h)(4), and (i) of this section to Secretary of Defense, in consultation with Secretaries of State and Energy, by Memorandum of President of the United States, §1(a), (b), (c)(iii)–(v), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
+
+#### Delegation of Functions and Authorities Under Sections 1352 and 1353 of the National Defense Authorization Act for Fiscal Year 2024
+
+Memorandum of President of the United States, Dec. 11, 2024, 89 F.R. 101835, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Secretary of Energy\[, and\] the Director of the Office of Management and Budget
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code:
+
+Section 1. (a) I hereby delegate to the Secretary of State, in consultation with the Secretaries of Defense and Energy, the functions and authorities vested in the President by section 1352(a) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) (the "Act") \[22 U.S.C. 10431(a)\].
+
+(b) I hereby delegate to the Secretary of Defense, in consultation with the Secretaries of State and Energy and the Director of the Office of Management and Budget, the functions and authorities vested in the President by section 1352(e)(1)(A) of the Act.
+
+(c) I hereby delegate to the Secretary of Energy, in consultation with the Secretary of Defense and the Director of the Office of Management and Budget, the functions and authorities vested in the President by section 1352(f)(2) of the Act.
+
+(d) I hereby delegate to the Secretary of Defense for funds transferred to Department of Defense accounts and to the Secretary of Energy for funds transferred to Department of Energy accounts, in coordination with the Director of the Office of Management and Budget, the functions and authorities vested in the President by sections 1353(c), 1353(e)(1)(D), and 1353(e)(3) of the Act \[22 U.S.C. 10432(c), (e)(1)(D), (e)(3)\].
+
+(e) I hereby delegate to the Director of the Office of Management and Budget, in consultation with the Secretaries of Defense and Energy, as appropriate, the functions and authorities vested in the President by sections 1353(a), 1353(e)(1)(A), 1353(e)(2), and 1353(f)(1) of the Act.
+
+Sec. 2. The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+Sec. 3. The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

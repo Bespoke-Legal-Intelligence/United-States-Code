@@ -34,7 +34,7 @@ In general.—The Board shall be composed of—
 
 &emsp;&emsp;&emsp;(v) the chairman of the Advisory Board to the Academy established under section 51313; and
 
-&emsp;&emsp;&emsp;(vi) the Member of the House of Representatives for the congressional district in which the Academy is located, as a nonvoting member, unless such Member of the House of Representatives is appointed as a voting member of the Board under subparagraph (B) or (D).
+&emsp;&emsp;&emsp;(vi) the Member of the House of Representatives for the congressional districtin which the Academy is located, as a nonvoting member, unless such Member of the House of Representatives is appointed as a voting member of the Board under subparagraph (B) or (D).
 
 &emsp;(2)
 
@@ -142,7 +142,7 @@ Visiting the Academy.—
 
 &emsp;(1)
 
-Annual visit.—The Board shall visit the Academy annually on a date selected by the Board, in consultation with the Secretary of Transportation and the Superintendent of the Academy.
+Annual visit.—The Board shall visit the Academy annually on a date selected by theBoard, in consultation with the Secretary of Transportation and the Superintendent of the Academy.
 
 &emsp;(2)
 

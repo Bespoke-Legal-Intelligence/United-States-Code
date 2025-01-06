@@ -2,7 +2,7 @@
 
 (a)
 
-Entitlement.—Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-half months (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran's service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran's active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a person whose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computing such person's entitlement shall be the date of such person's first discharge or release from active duty after December 31, 1976.
+Entitlement.—Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-halfmonths (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran's service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran's active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a person whose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computing such person's entitlement shall be the date of such person's first discharge or release from active duty after December 31, 1976.
 
 (b)
 
@@ -18,7 +18,7 @@ Duration of Entitlement.—Except as provided in subsection (b) and in subchapte
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in Pub. L. 85–857,Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1610 and 1611(a), 1611(a)(2), (3), and 1611(b) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1610 and 1611(a), 1611(a)(2), (3), and 1611(b) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–631 effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub. L. 90–631, set out as an Effective Date note under section 3500 of this title.
+Amendment by Pub. L. 90–631 effective first day of second calendar month which begins after Oct. 23, 1968,see section 6(a) of Pub. L. 90–631, set out as an Effective Date note under section 3500 of this title.
 
 #### Effective Date of 1967 Amendment
 

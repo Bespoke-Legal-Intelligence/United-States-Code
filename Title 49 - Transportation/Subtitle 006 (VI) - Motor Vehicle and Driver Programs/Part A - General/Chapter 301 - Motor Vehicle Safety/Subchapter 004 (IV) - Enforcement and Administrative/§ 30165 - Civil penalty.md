@@ -26,7 +26,7 @@ Related series of violations.—A separate violation occurs for each motor vehic
 
 &emsp;(3)
 
-Section 30166.—Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $21,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $105,000,000.
+Section 30166.—Except as provided in paragraph (4), a person who violates section30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $21,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $105,000,000.
 
 &emsp;(4)
 

@@ -79,7 +79,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;&emsp;&emsp;(i) as having been an eligible individual during each of the months in such taxable year, and
 
-&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual wasenrolled for the last month of such taxable year.
+&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
 
 #### (B) Failure to maintain high deductible health plan coverage
 
@@ -125,7 +125,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of months or plan years to which paragraph (2)(E) applies) telehealth and other remote care, and
 
-&emsp;&emsp;&emsp;(iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
+&emsp;&emsp;&emsp;(iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during anyperiod immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the balance in such arrangement at the end of such plan year is zero, or
 
@@ -349,7 +349,7 @@ For purposes of this section—
 
 #### (B) Exception for disability or death
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the payment or distribution is made after theaccount beneficiary becomes disabled within the meaning of section 72(m)(7) or dies.
+&emsp;&emsp;Subparagraph (A) shall not apply if the payment or distribution is made after the account beneficiary becomes disabled within the meaning of section 72(m)(7) or dies.
 
 #### (C) Exception for distributions after medicare eligibility
 
@@ -425,7 +425,7 @@ For purposes of this section—
 
 The Secretary may require—
 
-&emsp;(1) the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiarywith respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and
+&emsp;(1) the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiary with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and
 
 &emsp;(2) any person who provides an individual with a high deductible health plan to make such reports to the Secretary and to the account beneficiary with respect to such plan as the Secretary determines appropriate.
 
@@ -441,7 +441,7 @@ The Secretary may require—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Sections 2799A–1 and 2799A–2 of the Public Health Service Act, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 300gg–111 and 300gg–112, respectively, of Title 42, The Public Health and Welfare.
 

@@ -54,7 +54,7 @@ Pub. L. 116–283, §924(b)(27)(A), substituted ", the Commandant of the Marine
 
 <b>2019</b>—Subsecs. (a), (e). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–92, §842(a), inserted ", in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively)," after "military department)".
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §842(a), inserted ", in collaboration with the Chief of Staff of the Army, theChief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively)," after "military department)".
 
 Subsec. (b)(1). Pub. L. 114–92, §842(b)(2), inserted "single-track" before "career path".
 

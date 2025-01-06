@@ -10,7 +10,7 @@ From the date on which a certificate of extension of protection is issued under 
 
 &emsp;(1) such extension of protection shall have the same effect and validity as a registration on the Principal Register; and
 
-&emsp;(2) the holder of the international registration shall have the same rights and remedies as the owner of a registration on the Principal Register.
+&emsp;(2) the holder of the international registration shall have the same rights and remediesas the owner of a registration on the Principal Register.
 
 (July 5, 1946, ch. 540, title XII, §69, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1918.)
 

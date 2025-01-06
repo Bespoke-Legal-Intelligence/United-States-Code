@@ -22,7 +22,7 @@ A prior section 1095, Pub. L. 89–329, title IV, §488, as added Pub. L. 96–3
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 to this section, relating to transfers of allotments, applicable with respectto funds provided for award years beginning on or after July 1, 1993, see section 498 of Pub. L. 102–325, set out as a note under section 1088 of this title.
+Amendment by Pub. L. 102–325 to this section, relating to transfers of allotments, applicable with respect to funds provided for award years beginning on or after July 1, 1993, see section 498 of Pub. L. 102–325, set out as a note under section 1088 of this title.
 
 #### Effective Date of 1987 Amendment
 

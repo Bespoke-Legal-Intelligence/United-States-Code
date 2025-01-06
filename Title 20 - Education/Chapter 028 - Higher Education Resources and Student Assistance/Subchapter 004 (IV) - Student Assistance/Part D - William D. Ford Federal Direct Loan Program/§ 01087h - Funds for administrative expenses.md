@@ -20,11 +20,11 @@
 
 #### (4) Continuing mandatory funds for account maintenance fees
 
-&emsp;For each of the fiscal years 2007 through 2021, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+&emsp;For each of the fiscal years 2007 through 2021,<sup>1</sup> there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
 
 #### (5) Account maintenance fees
 
-&emsp;Account maintenance fees under paragraph (3) <sup>1</sup> shall be paid quarterly and deposited in the Agency Operating Fund established under section 1072b of this title.
+&emsp;Account maintenance fees under paragraph (3) <sup>2</sup> shall be paid quarterly and deposited in the Agency Operating Fund established under section 1072b of this title.
 
 #### (6) Technical assistance to institutions of higher education
 
@@ -62,7 +62,7 @@ Account maintenance fees payable to guaranty agencies under subsection (a)(4) sh
 
 No funds may be expended under this section unless the Secretary includes in the Department of Education's annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(l), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263;Pub. L. 111–152, title II, §2212(b), Mar. 30, 2010, 124 Stat. 1080; Pub. L. 113–67, div. A, title V, §502(2), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 114–113, div. H, title III, §310, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §309, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §309, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §307, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §306, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §306, Dec. 27, 2020, 134 Stat. 1608.)
+(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(l), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 111–152, title II, §2212(b), Mar. 30, 2010, 124 Stat. 1080; Pub. L. 113–67, div. A, title V, §502(2), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 114–113, div. H, title III, §310, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §309, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §309, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §307, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §306, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §306, Dec. 27, 2020, 134 Stat. 1608.)
 
 #### <b>Editorial Notes</b>
 
@@ -136,17 +136,19 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
-#### Funds for Account Maintenance Fees
-
-Pub. L. 117–328, div. H, title III, §306, Dec. 29, 2022, 136 Stat. 4897, provided that: "Section 458(a)(4) of the HEA \[Higher Education Act of 1965\] (20 U.S.C. 1087h(a)\[(4)\]) shall be applied by substituting '2023' for '2021'."
-
-Similar provisions were contained in the following prior appropriation act:
-
-Pub. L. 117–103, div. H, title III, §306, Mar. 15, 2022, 136 Stat. 484.
-
 #### Construction
 
 Pub. L. 105–78, title VI, §609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: "Nothing in this Act \[see Tables for classification\] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 (20 U.S.C. 1072(g)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act (20 U.S.C. 1087h)."
+
+#### Funds for Account Maintenance Fees
+
+Pub. L. 118–47, div. D, title III, §306, Mar. 23, 2024, 138 Stat. 692, provided that: "Section 458(a)(4) of the HEA \[Higher Education Act of 1965\] (20 U.S.C. 1087h(a)\[(4)\]) shall be applied by substituting '2024' for '2021'."
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title III, §306, Dec. 29, 2022, 136 Stat. 4897.
+
+Pub. L. 117–103, div. H, title III, §306, Mar. 15, 2022, 136 Stat. 484.
 
 #### Use of Funds for Administrative Expenses of William D. Ford Direct Loan Program Prohibited
 
@@ -156,5 +158,7 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(d) \[title III, §305\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See Funds for Account Maintenance Fees note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

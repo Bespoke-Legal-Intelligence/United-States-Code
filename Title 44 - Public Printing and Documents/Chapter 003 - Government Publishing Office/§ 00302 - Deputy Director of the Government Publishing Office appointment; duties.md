@@ -28,5 +28,5 @@ Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publish
 
 "Government Publishing Office" substituted for "Government Printing Office" in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 
-Pub. L. 113–235, div. H, title I, §1301(f), Dec. 16, 2014, 128 Stat. 2538, provided that: "Any reference in any law other than in title 44, United States Code, or in any rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act \[Dec. 16, 2014\] to the Deputy Public Printer shall be considered to refer and apply to the Deputy Director of the Government Publishing Office."
+Pub. L. 113–235, div. H, title I, §1301(f), Dec. 16, 2014, 128 Stat. 2538, provided that: "Any reference in any law other than in title 44, United States Code, or in any rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactmentof this Act \[Dec. 16, 2014\] to the Deputy Public Printer shall be considered to refer and apply to the Deputy Director of the Government Publishing Office."
 

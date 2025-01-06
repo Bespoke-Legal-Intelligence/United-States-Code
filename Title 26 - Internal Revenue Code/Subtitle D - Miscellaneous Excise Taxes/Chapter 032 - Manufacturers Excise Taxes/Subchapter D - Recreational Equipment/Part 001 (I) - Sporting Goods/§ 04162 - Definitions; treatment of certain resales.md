@@ -94,7 +94,7 @@ For purposes of this part, the term "sport fishing equipment" means—
 
 #### (4) Regulations
 
-&emsp;Except to the extent provided in regulations, rules similar to the rules of this subsection shall also apply in cases (not described in paragraph (1)) in which intermediaries or other devices are used for purposes of reducing the amount of the tax imposed by section 4161(a).
+&emsp;Except to the extent provided in regulations, rules similar to the rules of this subsectionshall also apply in cases (not described in paragraph (1)) in which intermediaries or other devices are used for purposes of reducing the amount of the tax imposed by section 4161(a).
 
 (Added Pub. L. 98–369, div. A, title X, §1015(b), July 18, 1984, 98 Stat. 1017; amended Pub. L. 99–514, title II, §201(d)(7)(C), (12), title XVIII, §1878(b), Oct. 22, 1986, 100 Stat. 2141, 2142, 2903; Pub. L. 108–357, title III, §334(a), (b), Oct. 22, 2004, 118 Stat. 1478.)
 

@@ -30,7 +30,7 @@
 
 (c) The Assistant Secretary shall maintain a five-year plan describing the activities the Department of the Air Force proposes to conduct over the next five fiscal years to improve financial management. Such plan shall be revised annually.
 
-(d) The Assistant Secretary of the Air Force for Financial Management shall transmit to the Secretary of the Air Force a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Air Force financial management.
+(d) The Assistant Secretary of the Air Force for Financial Management shall transmit to theSecretary of the Air Force a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Air Force financial management.
 
 (Added Pub. L. 100–456, div. A, title VII, §702(c)(2), Sept. 29, 1988, 102 Stat. 1995, §8022; amended Pub. L. 103–337, div. A, title X, §1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, §1503(b)(1), Feb. 10, 1996, 110 Stat. 512; renumbered §9022, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
 

@@ -124,7 +124,13 @@ The Secretary shall not approve a proposal submitted under subsection (a) that�
 
 #### (2) Contributed funds for other Federal reservoir projects
 
-&emsp;The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated forflood control or navigation pursuant to section 709 of title 33.
+#### (A) In general
+
+&emsp;&emsp;The Secretary is authorized to receive and expend funds from a non-Federal interest or a Federal agency that owns a Federal reservoir project described in subparagraph (B) to formulate, review, or revise operational documents pursuant to a proposal submittedin accordance with subsection (a) for such a Federal reservoir project.
+
+#### (B) Federal reservoir projects described
+
+&emsp;&emsp;A Federal reservoir project referred to in subparagraph (A) is a reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to section 709 of title 33.
 
 #### (j) Assistance
 
@@ -146,11 +152,13 @@ This section shall not apply to reservoirs in—
 
 Nothing in this section affects or modifies any authority of the Secretary to review or modify reservoirs.
 
-(Pub. L. 114–322, title I, §1118, Dec. 16, 2016, 130 Stat. 1640; Pub. L. 116–260, div. AA, title I, §162, Dec. 27, 2020, 134 Stat. 2667.)
+(Pub. L. 114–322, title I, §1118, Dec. 16, 2016, 130 Stat. 1640; Pub. L. 116–260, div. AA, title I, §162, Dec. 27, 2020, 134 Stat. 2667; Pub. L. 118–272, div. A, title I, §1165, Jan. 4, 2025, 138 Stat. 3049.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (i)(2). Pub. L. 118–272 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to section 709 of title 33."
 
 <b>2020</b>—Subsec. (i). Pub. L. 116–260 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

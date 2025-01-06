@@ -24,7 +24,7 @@
 
 &emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) studentswho are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
+&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
 
 (2) To the extent possible, the Clerc Center shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)\]. Such educational environments shall include—
 
@@ -88,7 +88,7 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(
 
 Subsec. (b)(5)(A)(ii). Pub. L. 114–95, §9215(ee)(1)(B), substituted "2016–2017 academic year" for "2009–2010 academic year".
 
-Subsec. (b)(5)(B). Pub. L. 114–95, §9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title) by the State that has adoptedand implemented the standards and assessments selected under subparagraph (A)(i); and".
+Subsec. (b)(5)(B). Pub. L. 114–95, §9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and".
 
 Subsec. (b)(5)(C). Pub. L. 114–95, §9215(ee)(3), substituted "the results of the annual evaluation of the programs at the Clerc Center" for "whether the programs at the Clerc Center are making adequate yearly progress".
 

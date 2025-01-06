@@ -24,7 +24,7 @@
 
 &emsp;The duties of the Senior Advisor shall be to—
 
-&emsp;&emsp;(A) coordinate efforts to implement the AUKUS partnership across relevant bureaus,directorates, and offices of the Department of State involved in matters such as arms exports, non-proliferation, deterrence, security assistance, and Indo-Pacific and United Kingdom relations;
+&emsp;&emsp;(A) coordinate efforts to implement the AUKUS partnership across relevant bureaus, directorates, and offices of the Department of State involved in matters such as arms exports, non-proliferation, deterrence, security assistance, and Indo-Pacific and United Kingdom relations;
 
 &emsp;&emsp;(B) serve as the lead within the Department of State on matters relating to the AUKUS partnership in the interagency process;
 

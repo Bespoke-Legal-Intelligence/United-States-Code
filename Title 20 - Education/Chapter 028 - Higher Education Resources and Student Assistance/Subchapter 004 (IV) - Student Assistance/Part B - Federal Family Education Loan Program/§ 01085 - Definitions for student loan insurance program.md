@@ -18,7 +18,7 @@ As used in this part:
 
 &emsp;&emsp;(iii) there are, in the judgment of the Secretary, other exceptional mitigating circumstances that would make the application of this paragraph inequitable.
 
-> &emsp;During such appeal, the Secretary may permit the institution to continue to participate in a program under this part. If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.
+> &emsp;During such appeal, the Secretary may permit the institution to continue to participate in a program under this part. If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which theSecretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.
 
 &emsp;(B) For purposes of determinations under subparagraph (A), the threshold percentage is—
 
@@ -78,7 +78,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(II) transferred from the institution to a higher level educational program;
 
-&emsp;&emsp;&emsp;(III) at the end of the 12-month period, remained enrolled and making satisfactory progress toward completion of the student's educational programs; or
+&emsp;&emsp;&emsp;(III) at the end of the 12-month period, remained enrolled and making satisfactoryprogress toward completion of the student's educational programs; or
 
 &emsp;&emsp;&emsp;(IV) entered active duty in the Armed Forces of the United States.
 
@@ -140,7 +140,7 @@ As used in this part:
 
 #### (ii) Technical assistance
 
-&emsp;&emsp;&emsp;Each institution subject to this subparagraph shall submit the plan under clause (i) to the Secretary, who shall review the plan and offer technical assistance to the institution to promote improved student loan repayment.
+&emsp;&emsp;&emsp;Each institution subject to this subparagraph shall submit the plan under clause\(i) to the Secretary, who shall review the plan and offer technical assistance to the institution to promote improved student loan repayment.
 
 #### (B) Second consecutive year
 
@@ -250,13 +250,13 @@ As used in this part:
 
 &emsp;&emsp;(B) the termination of the lender's status under paragraph (3) would be a hardship to the present or for prospective students of the eligible institution, after considering the management of that institution, the ability of that institution to improve the collection of loans, the opportunities that institution offers to economically disadvantaged students, and other related factors,
 
-> &emsp;the Secretary shall waive the provisions of paragraph (3) with respect to that institution.Any determination required under this paragraph shall be made by the Secretary prior to the termination of an eligible institution as a lender under the exception of paragraph (3). Whenever the Secretary grants a waiver pursuant to this paragraph, the Secretary shall provide technical assistance to the institution concerned in order to improve the collection rate of such loans.
+> &emsp;the Secretary shall waive the provisions of paragraph (3) with respect to that institution. Any determination required under this paragraph shall be made by the Secretary prior to the termination of an eligible institution as a lender under the exception of paragraph (3). Whenever the Secretary grants a waiver pursuant to this paragraph, the Secretary shall provide technical assistance to the institution concerned in order to improve the collection rate of such loans.
 
 #### (5) Disqualification for use of certain incentives
 
 &emsp;The term "eligible lender" does not include any lender that the Secretary determines, after notice and opportunity for a hearing, has—
 
-&emsp;&emsp;(A) offered, directly or indirectly, points, premiums, payments (including payments for referrals and for processing or finder fees), prizes, stock or other securities, travel, entertainment expenses, tuition payment or reimbursement, the provision of information technology equipment at below-market value, additional financial aid funds, or other inducements, to any institution of higher education, any employee of an institution of higher education, or any individual or entity in order to secure applicants for loans under this part;
+&emsp;&emsp;(A) offered, directly or indirectly, points, premiums, payments (including payments for referrals and for processing or finder fees), prizes, stock or other securities, travel, entertainment expenses, tuition payment or reimbursement, the provision of information technology equipment at below-market value, additional financial aid funds, or other inducements, to any institution of higher education, any employee of an institution of higher education, or any individualor entity in order to secure applicants for loans under this part;
 
 &emsp;&emsp;(B) conducted unsolicited mailings, by postal or electronic means, of student loan application forms to students enrolled in secondary schools or postsecondary institutions, or to family members of such students, except that applications may be mailed, by postal or electronic means, to students or borrowers who have previously received loans under this part from such lender;
 
@@ -358,7 +358,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 &emsp;(C) Any loan which has been rehabilitated before the end of the second fiscal year following the year in which the loan entered repayment is not considered as in default for purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such second fiscal year, and (ii) a guaranty agency has renewed the borrower's subchapter IV eligibility as provided in section 1078–6(b) of this title.
 
-&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>1</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>1</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>1</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>1</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
+&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>1</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used torepay a loan made under section 1078–1 <sup>1</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>1</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>1</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
 #### (3) Regulations to prevent evasions
 
@@ -406,7 +406,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 &emsp;&emsp;(C) an entity described in section 501(c)(3) of such title; or
 
-&emsp;&emsp;(D) acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C), regardless ofwhether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d).
+&emsp;&emsp;(D) acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d).
 
 #### (2) Limitations
 
@@ -458,13 +458,13 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 #### (3) Prohibition
 
-&emsp;In the case of a loan for which the special allowance payment is calculated under section1087–1(b)(2)(I)(vi)(II) of this title and that is sold by the eligible not-for-profit holder holding the loan to an entity that is not an eligible not-for-profit holder under this chapter, the special allowance payment for such loan shall, beginning on the date of the sale, no longer be calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and shall be calculated under section 1087–1(b)(2)(I)(vi)(I) of this title instead.
+&emsp;In the case of a loan for which the special allowance payment is calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and that is sold by the eligible not-for-profit holder holding the loan to an entity that is not an eligible not-for-profit holder under this chapter, the special allowance payment for such loan shall, beginning on the date of the sale, no longer be calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and shall be calculated under section 1087–1(b)(2)(I)(vi)(I) of this title instead.
 
 #### (4) Regulations
 
 &emsp;Not later than 1 year after September 27, 2007, the Secretary shall promulgate regulations in accordance with the provisions of this subsection.
 
-(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–84, title III, §304, Sept. 27, 2007, 121 Stat. 797; Pub. L. 110–109, §4, Oct. 31, 2007, 121 Stat. 1028; Pub. L. 110–315, title IV, §§436(a)(1), (b)–(e)(1), 438(a)(3), Aug. 14, 2008, 122 Stat. 3253–3256, 3258; Pub. L. 111–39, title IV, §402(b)(2), (f)(10), July 1, 2009, 123 Stat. 1940, 1944; Pub. L. 111–152, title II, §2101(b)(3), Mar. 30, 2010, 124 Stat. 1073.)
+(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–84, title III, §304, Sept. 27, 2007, 121 Stat. 797; Pub. L. 110–109, §4, Oct. 31, 2007, 121 Stat. 1028; Pub. L. 110–315, title IV, §§436(a)(1), (b)–(e)(1), 438(a)(3), Aug. 14, 2008, 122 Stat. 3253–3256, 3258; Pub. L. 111–39, title IV, §402(b)(2), (f)(10), July 1, 2009, 123 Stat. 1940, 1944; Pub. L. 111–152, title II, §2101(b)(3), Mar. 30, 2010, 124 Stat. 1073.)
 
 #### <b>Editorial Notes</b>
 
@@ -506,7 +506,7 @@ Subsec. (p)(1). Pub. L. 111–39, §402(f)(10)(D), made technical amendment to r
 
 Subsec. (a)(2)(B)(iii), (iv). Pub. L. 110–315, §436(a)(1)(A)(ii), added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: "25 percent for any succeeding fiscal year."
 
-Subsec. (a)(3) to (8). Pub. L. 110–315, §436(a)(1)(B)–(E), added pars. (3) and (7), redesignated former pars. (3), (4), (5), and (6), as (4), (5), (6), and (8), respectively, and, in introductory provisions of par. (5)(A), substituted "For purposes of this subsection, an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of paragraph (2) inequitable, and that provide for regulatory relief under paragraph (3), if such institution, in theopinion of an independent auditor, meets the following criteria:" for "For purposes of paragraph (2)(A)(ii), an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of that paragraph inequitable if such institution, in the opinion of an independent auditor, meets the following criteria:".
+Subsec. (a)(3) to (8). Pub. L. 110–315, §436(a)(1)(B)–(E), added pars. (3) and (7), redesignated former pars. (3), (4), (5), and (6), as (4), (5), (6), and (8), respectively, and, in introductory provisions of par. (5)(A), substituted "For purposes of this subsection, an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of paragraph (2) inequitable, and that provide for regulatory relief under paragraph (3), if such institution, in the opinion of an independent auditor, meets the following criteria:" for "For purposes of paragraph (2)(A)(ii), an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of that paragraph inequitable if such institution, in the opinion of an independent auditor, meets the following criteria:".
 
 Subsec. (a)(8)(A). Pub. L. 110–315, §436(a)(1)(F), substituted "0.0625" for "0.0375".
 
@@ -576,7 +576,7 @@ Subsec. (p)(2)(E). Pub. L. 110–109, §4(2)(F), reenacted heading without chang
 
 &emsp;"(F) shall use the proceeds from special allowance payments and interest payments from borrowers for need-based grant programs, except for reasonable reimbursement for direct administrative expenses;
 
-> except that the requirements of subparagraphs (C) and (D) shall not apply with respect to loans made, andloan commitments made, after October 17, 1986, and prior to July 1, 1987."
+> except that the requirements of subparagraphs (C) and (D) shall not apply with respect to loans made, and loan commitments made, after October 17, 1986, and prior to July 1, 1987."
 
 Subsec. (d)(7). Pub. L. 109–292 added par. (7).
 
@@ -590,7 +590,7 @@ Subsec. (a)(5)(B). Pub. L. 106–554, §1(a)(1) \[title III, §312(2)\], substit
 
 Subsec. (a)(2)(A). Pub. L. 105–244, §429(a)(1)(A)(i), (ii), struck out "or" at end of cl. (i), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: "there are, in the judgment of the Secretary, exceptional mitigating circumstances that would make the application of this paragraph inequitable."
 
-Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions "If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal."
+Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions "If an institution continues toparticipate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal."
 
 Subsec. (a)(2)(C). Pub. L. 105–244, §429(a)(1)(B), substituted "July 1, 1999," for "July 1, 1998," in introductory provisions.
 
@@ -740,7 +740,7 @@ Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–292, §3(b), Sept. 30, 2006, 120 Stat. 1341, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply with respect toany loan under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.) disbursed before January 1, 2007."
+Pub. L. 109–292, §3(b), Sept. 30, 2006, 120 Stat. 1341, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any loan under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.) disbursed before January 1, 2007."
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
@@ -752,7 +752,7 @@ Pub. L. 106–554, §1(a)(1) \[title III, §308(b)\], Dec. 21, 2000, 114 Stat. 2
 
 Amendment by sections 102(b)(2) and 429(a), (b), (d) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-Pub. L. 105–244, title IV, §429(c)(2), Oct. 7, 1998, 112 Stat. 1708, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to loans for which the first day of delinquency occurs on or after the date of enactment of this Act \[Oct. 7, 1998\]."
+Pub. L. 105–244, title IV, §429(c)(2), Oct. 7, 1998, 112 Stat. 1708, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to loans for which the first day of delinquency occurs on or after the date of enactment of this Act \[Oct. 7, 1998\]."
 
 #### Effective Date of 1996 Amendment
 

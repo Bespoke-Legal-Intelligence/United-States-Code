@@ -1,6 +1,6 @@
 ### §1444. Withholding on Virgin Islands source income
 
-For purposes of determining the withholding tax liability incurred in the Virgin Islands pursuant to this title (as made applicable to the Virgin Islands) with respect to amounts received from sources within the Virgin Islands by citizens and resident alien individuals of the United States, and corporations organized in the United States, the rate of withholding tax under sections 1441 and 1442 on income subject to tax under section 871(a)(1) or 881 shall not exceed the rate of tax on such income under section 871(a)(1) or 881, as the case may be.
+For purposes of determining the withholding tax liability incurred in the Virgin Islands pursuant to this title (as made applicable to the Virgin Islands) with respect to amounts receivedfrom sources within the Virgin Islands by citizens and resident alien individuals of the United States, and corporations organized in the United States, the rate of withholding tax under sections 1441 and 1442 on income subject to tax under section 871(a)(1) or 881 shall not exceed the rate of tax on such income under section 871(a)(1) or 881, as the case may be.
 
 (Added Pub. L. 97–455, §1(b), Jan. 12, 1983, 96 Stat. 2497; amended Pub. L. 100–647, title I, §1012(x), Nov. 10, 1988, 102 Stat. 3530.)
 

@@ -40,7 +40,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 &emsp;(iii) in the case of a corporation, owns, directly or indirectly, 50 percent or more in value of either the voting stock of that corporation or all the stock of that corporation.
 
-> For purposes of clause (iii), the constructive ownership rules of section 1563(e) of title 26 (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
+> For purposes of clause (iii), the constructive ownership rules of section 1563(e) of title 26\(other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
 
 (B) In the case of a participant who is a majority owner, the amount of benefits guaranteed under this section shall equal the product of—
 
@@ -58,7 +58,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 &emsp;(B) $20 per month,
 
-> multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect forpurposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
+> multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
 
 (8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title) is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
 
@@ -162,7 +162,7 @@ Subsec. (f). Pub. L. 103–465, §766(c), added subsec. (f).
 
 Subsec. (b)(2). Pub. L. 101–239, §7894(g)(1), substituted "60-month" for "60 month".
 
-Subsec. (b)(4)(B)(i), (5)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Subsec. (b)(4)(B)(i), (5)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986"for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (c)(1). Pub. L. 101–239, §7881(f)(11), substituted "under section 1344(a) of this title. Such payment shall be made to such participant" for "under section 1344(a) of this title, to such participant".
 

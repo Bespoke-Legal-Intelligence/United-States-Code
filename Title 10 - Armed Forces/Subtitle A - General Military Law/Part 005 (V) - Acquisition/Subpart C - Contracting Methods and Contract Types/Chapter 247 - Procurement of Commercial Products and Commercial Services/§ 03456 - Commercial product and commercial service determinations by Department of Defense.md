@@ -30,7 +30,11 @@ Items Previously Acquired Using Commercial Acquisition Procedures.—
 
 &emsp;(1)
 
-Determinations.—A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
+Determinations.—A contract or subcontract for a product (including a product without a part number or a product with a prior part number that has the same functionality as the product had with the prior part number) or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or commercial service determination with respect to such product or service for purposes of this chapter, including when subject to minor modifications, unless—
+
+&emsp;&emsp;(A) the prior determination was not issued or approved by a contracting officer of the Department of Defense; or
+
+&emsp;&emsp;(B) the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
 
 &emsp;(2)
 
@@ -42,11 +46,13 @@ Limitation.—(A) Except as provided under subparagraph (B), funds appropriated 
 
 &emsp;&emsp;(ii) a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
 
-(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, §1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134; Pub. L. 118–31, div. A, title VIII, §801, Dec. 22, 2023, 137 Stat. 312.)
+(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, §1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134; Pub. L. 118–31, div. A, title VIII, §801, Dec. 22, 2023, 137 Stat. 312; Pub. L. 118–159, div. A, title VIII, §814, Dec. 23, 2024, 138 Stat. 1980.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1). Pub. L. 118–159 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shallserve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures."
 
 <b>2023</b>—Subsec. (b)(2). Pub. L. 118–31 substituted "why the product or service was determined to be commercial or noncommercial" for "for such determination" and inserted at end "Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum."
 
@@ -54,7 +60,7 @@ Limitation.—(A) Except as provided under subparagraph (B), funds appropriated 
 
 Subsec. (b). Pub. L. 116–283, §816(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(2)(B)(i). Pub. L. 116–283, §1831(j)(5), which directed amendment of subsec. (b)(2)(B)(i) of section 2380 of this title (now subsec. (c)(2)(B)(i) of this section) by substituting "section 3703(d)(2)" for "section2306a(b)(4)(B)", was repealed by Pub. L. 117–81, §1701(b)(10)(I)(ii). Identical amendment was made to subsec. (c)(2)(B)(i) of this section by Pub. L. 116–283, §1821(b)(5), see below.
+Subsec. (b)(2)(B)(i). Pub. L. 116–283, §1831(j)(5), which directed amendment of subsec. (b)(2)(B)(i) of section 2380 of this title (now subsec. (c)(2)(B)(i) of this section) by substituting "section 3703(d)(2)" for "section 2306a(b)(4)(B)", was repealed by Pub. L. 117–81, §1701(b)(10)(I)(ii). Identical amendment was made to subsec. (c)(2)(B)(i) of this section by Pub. L. 116–283, §1821(b)(5), see below.
 
 Subsec. (c). Pub. L. 116–283, §816(1), redesignated subsec. (b) as (c).
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) Civil penalties collected under sections 1229c(d), 1324c, 1324d, and 1325(b) of this title.
 
-(3)(A) The Secretary of the Treasury shall refund out of the Immigration Enforcement Account to any appropriation the amount paid out of such appropriation for expenses incurred bythe Attorney General for activities that enhance enforcement of provisions of this subchapter. Such activities include—
+(3)(A) The Secretary of the Treasury shall refund out of the Immigration Enforcement Account to any appropriation the amount paid out of such appropriation for expenses incurred by the Attorney General for activities that enhance enforcement of provisions of this subchapter. Such activities include—
 
 &emsp;(i) the identification, investigation, apprehension, detention, and removal of criminal aliens;
 

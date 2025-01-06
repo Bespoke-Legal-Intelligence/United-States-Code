@@ -4,7 +4,7 @@
 
 &emsp;(1) to continue to provide utilities and utility services to such housing as long as it is under the jurisdiction of the Secretary;
 
-&emsp;(2) to contract with the purchasers or transferees of such housing to continue the utility connection with such installations and furnish such utilities and services as may be available and needed in connection with such housing, for such period of time (not exceeding the period of Federal administration of such installations) and subject to such terms (including the payment of the pro rata cost to the Government or the market value of the utilities and services furnished, whichever is greater) as may be determined by the head of the agency;
+&emsp;(2) to contract with the purchasers or transferees of such housing to continue the utility connection with such installations and furnishsuch utilities and services as may be available and needed in connection with such housing, for such period of time (not exceeding the period of Federal administration of such installations) and subject to such terms (including the payment of the pro rata cost to the Government or the market value of the utilities and services furnished, whichever is greater) as may be determined by the head of the agency;
 
 &emsp;(3) to dispose of such installations, when excess to the needs of the agency, and where not excess to grant an option to purchase, to the purchasers or transferees of such housing, for an amount not less than the appraised value of the installations and upon such terms and conditions as the head of the agency shall establish.
 

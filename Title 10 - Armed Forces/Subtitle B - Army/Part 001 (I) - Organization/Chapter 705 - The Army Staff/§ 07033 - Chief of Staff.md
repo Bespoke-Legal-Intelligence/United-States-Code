@@ -34,7 +34,7 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Army fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 162, §3034; Pub. L. 85–599, §4(a), Aug. 6, 1958, 72 Stat. 516; Pub. L. 87–651, title I, §114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, §401, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, §502(2), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §10(b)(4), July 10, 1981, 95 Stat. 137; renumbered §3033 and amended Pub. L. 99–433, title V, §502(c), Oct. 1, 1986, 100 Stat. 1040; Pub. L. 100–456, div. A, title V, §519(a)(3),Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(A), Nov. 25, 2015, 129 Stat. 880; renumbered §7033 and amended Pub. L. 115–232, div. A, title VIII, §§808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840; Pub. L. 116–283, div. A, title XVIII, §1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, §1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, §1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, §1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 162, §3034; Pub. L. 85–599, §4(a), Aug. 6, 1958, 72 Stat. 516; Pub. L. 87–651, title I, §114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, §401, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, §502(2), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §10(b)(4), July 10, 1981, 95 Stat. 137; renumbered §3033 and amended Pub. L. 99–433, title V, §502(c), Oct. 1, 1986, 100 Stat. 1040; Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(A), Nov. 25, 2015, 129 Stat. 880; renumbered §7033 and amended Pub. L. 115–232, div. A, title VIII, §§808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840; Pub. L. 116–283, div. A, title XVIII, §1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, §1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, §1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, §1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
 
 Historical and Revision Notes<br>1956
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -22,13 +22,13 @@
 
 (5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
 
-(B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
+(B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 ofthis title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
 (6) Notwithstanding paragraph (3), in the case of any former spouse of a disability annuitant—
 
 &emsp;(A) the annuity of that former spouse shall commence on the date the participant would qualify on the basis of his or her creditable service for an annuity under this part (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
 
-&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of theannuity for which the participant would otherwise so qualify.
+&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
 (7) An annuity under this subsection shall be treated the same as a survivor annuity under subsection (b) for purposes of section 4046(h) of this title or any comparable provision of law.
 
@@ -84,7 +84,7 @@
 
 &emsp;(ii) any amount accruing to the Fund under subparagraph (A) shall be refunded, but only to the extent that such amount may have exceeded the actuarial cost of providing benefits under this subsection for the period such benefits were provided, as determined under regulations prescribed by the Secretary of State.
 
-(D) Under regulations prescribed by the Secretary of State, an annuity shall be recomputed\(or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
+(D) Under regulations prescribed by the Secretary of State, an annuity shall be recomputed (or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
 
 (4) An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60.
 

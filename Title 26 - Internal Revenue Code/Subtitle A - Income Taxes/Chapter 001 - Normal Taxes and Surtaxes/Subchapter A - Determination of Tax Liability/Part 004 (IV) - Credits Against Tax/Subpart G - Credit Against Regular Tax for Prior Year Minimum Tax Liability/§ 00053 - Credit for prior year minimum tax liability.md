@@ -120,7 +120,7 @@ Subsec. (f). Pub. L. 110–343, §103(b), added subsec. (f).
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–432 added subsec. (e).
 
-<b>2005</b>—Subsec. (d)(1)(B)(iii). Pub. L. 109–58 struck out "under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed" before "under section 30".
+<b>2005</b>—Subsec. (d)(1)(B)(iii). Pub. L. 109–58 struck out "under section 29 (relating to credit for producing fuelfrom a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed" before "under section 30".
 
 <b>2004</b>—Subsec. (d)(1)(B)(i)(II). Pub. L. 108–357 struck out "and if section 59(a)(2) did not apply" before period at end.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub.L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -214,7 +214,7 @@ Pub. L. 108–357, title IV, §421(b), Oct. 22, 2004, 118 Stat. 1514, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
+Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable yearsending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Pub. L. 104–188, title I, §1704(j)(1), Aug. 20, 1996, 110 Stat. 1881, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
 

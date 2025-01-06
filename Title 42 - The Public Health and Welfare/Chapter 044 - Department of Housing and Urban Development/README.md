@@ -17,6 +17,7 @@
 | [3537c.](%C2%A7%2003537c%20-%20Prohibition%20of%20lump-sum%20payments.md) | Prohibition of lump-sum payments. |
 | [3538\.](%C2%A7%2003538%20-%20Rescheduling%20and%20refinancing%20of%20Federal%20loans.md) | Rescheduling and refinancing of Federal loans. |
 | [3539\.](%C2%A7%2003539%20-%20Housing%20and%20Urban%20Development%20Disaster%20Assistance%20Fund.md) | Housing and Urban Development Disaster Assistance Fund. |
+| [3539a.](%C2%A7%2003539a%20-%20Department%20of%20Housing%20and%20Urban%20Development%20Nonrecurring%20Expenses%20Fund.md) | Department of Housing and Urban Development Nonrecurring Expenses Fund. |
 | [3540\.](%C2%A7%2003540%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93242%2C%20title%20IV%2C%20%C2%A7420%2C%20Feb.%205%2C%201988%2C%20101%20Stat.%201913.md) | Repealed. |
 | [3541\.](%C2%A7%2003541%20-%20Paperwork%20reduction.md) | Paperwork reduction. |
 | [3542\.](%C2%A7%2003542%20-%20Public%20notice%20and%20comment%20regarding%20demonstration%20programs%20not%20expressly%20authorized%20in%20law.md) | Public notice and comment regarding demonstration programs not expressly authorized in law. |
@@ -52,6 +53,7 @@
 - [&sect; 03537c - Prohibition of lump-sum payments](%C2%A7%2003537c%20-%20Prohibition%20of%20lump-sum%20payments.md)
 - [&sect; 03538 - Rescheduling and refinancing of Federal loans](%C2%A7%2003538%20-%20Rescheduling%20and%20refinancing%20of%20Federal%20loans.md)
 - [&sect; 03539 - Housing and Urban Development Disaster Assistance Fund](%C2%A7%2003539%20-%20Housing%20and%20Urban%20Development%20Disaster%20Assistance%20Fund.md)
+- [&sect; 03539a - Department of Housing and Urban Development Nonrecurring Expenses Fund](%C2%A7%2003539a%20-%20Department%20of%20Housing%20and%20Urban%20Development%20Nonrecurring%20Expenses%20Fund.md)
 - [&sect; 03540 - Repealed. Pub. L. 100&#8211;242, title IV, &sect;420, Feb. 5, 1988, 101 Stat. 1913](%C2%A7%2003540%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93242%2C%20title%20IV%2C%20%C2%A7420%2C%20Feb.%205%2C%201988%2C%20101%20Stat.%201913.md)
 - [&sect; 03541 - Paperwork reduction](%C2%A7%2003541%20-%20Paperwork%20reduction.md)
 - [&sect; 03542 - Public notice and comment regarding demonstration programs not expressly authorized in law](%C2%A7%2003542%20-%20Public%20notice%20and%20comment%20regarding%20demonstration%20programs%20not%20expressly%20authorized%20in%20law.md)

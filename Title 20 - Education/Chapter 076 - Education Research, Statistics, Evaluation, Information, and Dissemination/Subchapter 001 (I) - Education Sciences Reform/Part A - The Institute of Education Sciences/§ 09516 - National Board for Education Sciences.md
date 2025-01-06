@@ -130,7 +130,7 @@ The duties of the Board shall be the following:
 
 #### (9) Meetings
 
-&emsp;The Board shall meet not less than 3 times each year. The Board shall hold additional meetings at the call of the Chair or upon thewritten request of not less than 6 voting members of the Board. Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).
+&emsp;The Board shall meet not less than 3 times each year. The Board shall hold additional meetings at the call of the Chair or upon the written request of not less than 6 voting members of the Board. Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).
 
 #### (10) Quorum
 

@@ -1,10 +1,10 @@
 ### §602. Bidding; advertising and other notice; conditions for negotiation of contract
 
-(a) The Secretary shall dispose of materials under this subchapter to the highest responsible qualified bidder after formal advertising and such other public notice as he deems appropriate: <i>Provided, however</i>, That the Secretary may authorize negotiation of a contract for the disposal of materials if—
+(a) The Secretary shall dispose of materials under this subchapter to the highest responsible qualified bidder after formal advertising andsuch other public notice as he deems appropriate: <i>Provided, however</i>, That the Secretary may authorize negotiation of a contract for the disposal of materials if—
 
 &emsp;(1) the contract is for the sale of less than two hundred fifty thousand board-feet of timber; or, if
 
-&emsp;(2) the contract is for the disposal of materials to be used in connection with a publicworks improvement program on behalf of a Federal, State or local governmental agency and the public exigency will not permit the delay incident to advertising; or, if
+&emsp;(2) the contract is for the disposal of materials to be used in connection with a public works improvement program on behalf of a Federal, State or local governmental agency and the public exigency will not permit the delay incident to advertising; or, if
 
 &emsp;(3) the contract is for the disposal of property for which it is impracticable to obtain competition.
 

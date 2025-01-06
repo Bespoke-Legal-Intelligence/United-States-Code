@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title17",
- "package": "USCODE-2023-title17",
+ "package": "USCODE-2024-title17",
  "pieces": [
   {
    "id": "17_",
@@ -253,17 +253,17 @@
      20,
      [
       [
-       122,
+       80,
        "[Page 21]"
       ]
      ]
     ],
     [
      "I",
-     88,
+     90,
      [
       [
-       270,
+       375,
        "[Page 22]"
       ]
      ]
@@ -280,30 +280,26 @@
    "marks": [
     [
      "I",
-     26,
+     16,
      [
       [
-       213,
+       109,
        "[Page 23]"
       ]
      ]
     ],
     [
-     "I",
-     50,
-     [
-      [
-       1065,
-       "[Page 24]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 24]",
+     true
     ],
     [
      "I",
-     116,
+     86,
      [
       [
-       151,
+       375,
        "[Page 25]"
       ]
      ]
@@ -319,14 +315,10 @@
    "id": "17_106A",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       520,
-       "[Page 26]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 26]",
+     true
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00106A - Rights of certain authors to attribution and integrity.md",
@@ -340,32 +332,40 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       428,
+       389,
        "[Page 27]"
       ]
      ]
     ],
     [
-     "L",
-     82,
-     "[Page 28]",
-     true
-    ],
-    [
-     "L",
-     176,
-     "[Page 29]",
-     true
+     "I",
+     56,
+     [
+      [
+       165,
+       "[Page 28]"
+      ]
+     ]
     ],
     [
      "I",
-     210,
+     164,
      [
       [
-       313,
+       109,
+       "[Page 29]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     204,
+     [
+      [
+       211,
        "[Page 30]"
       ]
      ]
@@ -382,40 +382,36 @@
    "marks": [
     [
      "I",
-     30,
+     22,
      [
       [
-       95,
+       97,
        "[Page 31]"
       ]
      ]
     ],
     [
      "I",
-     74,
+     66,
      [
       [
-       429,
+       110,
        "[Page 32]"
       ]
      ]
     ],
     [
-     "I",
-     104,
-     [
-      [
-       384,
-       "[Page 33]"
-      ]
-     ]
+     "L",
+     100,
+     "[Page 33]",
+     true
     ],
     [
      "I",
-     148,
+     134,
      [
       [
-       105,
+       109,
        "[Page 34]"
       ]
      ]
@@ -431,31 +427,27 @@
    "id": "17_109",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       91,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 35]",
+     true
     ],
     [
      "I",
-     58,
+     54,
      [
       [
-       111,
+       105,
        "[Page 36]"
       ]
      ]
     ],
     [
      "I",
-     126,
+     112,
      [
       [
-       109,
+       430,
        "[Page 37]"
       ]
      ]
@@ -472,55 +464,59 @@
    "marks": [
     [
      "L",
-     44,
+     34,
      "[Page 38]",
      true
     ],
     [
      "I",
-     78,
+     74,
      [
       [
-       93,
+       272,
        "[Page 39]"
       ]
      ]
     ],
     [
      "I",
-     108,
+     98,
      [
       [
-       114,
+       95,
        "[Page 40]"
       ]
      ]
     ],
     [
      "I",
-     138,
+     126,
      [
       [
-       272,
+       547,
        "[Page 41]"
       ]
      ]
     ],
     [
      "I",
-     164,
+     158,
      [
       [
-       112,
+       1017,
        "[Page 42]"
       ]
      ]
     ],
     [
-     "L",
-     190,
-     "[Page 43]",
-     true
+     "I",
+     180,
+     [
+      [
+       319,
+       "[Page 43]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00110 - Limitations on exclusive rights Exemption of certain performances and displays.md",
@@ -534,145 +530,129 @@
    "marks": [
     [
      "I",
-     30,
+     18,
      [
       [
-       593,
+       501,
        "[Page 44]"
       ]
      ]
     ],
     [
      "I",
-     54,
+     50,
      [
       [
-       180,
+       848,
        "[Page 45]"
       ]
      ]
     ],
     [
      "I",
-     108,
+     98,
      [
       [
-       344,
+       90,
        "[Page 46]"
       ]
      ]
     ],
     [
-     "I",
-     156,
-     [
-      [
-       272,
-       "[Page 47]"
-      ]
-     ]
+     "L",
+     152,
+     "[Page 47]",
+     true
     ],
     [
      "I",
-     192,
+     188,
      [
       [
-       1040,
+       658,
        "[Page 48]"
       ]
      ]
     ],
     [
      "L",
-     234,
+     222,
      "[Page 49]",
      true
     ],
     [
      "I",
-     292,
+     288,
      [
       [
-       895,
+       108,
        "[Page 50]"
       ]
      ]
     ],
     [
      "I",
-     318,
+     314,
      [
       [
-       317,
+       375,
        "[Page 51]"
       ]
      ]
     ],
     [
-     "L",
-     340,
-     "[Page 52]",
-     true
+     "I",
+     338,
+     [
+      [
+       640,
+       "[Page 52]"
+      ]
+     ]
     ],
     [
      "I",
-     364,
+     358,
      [
       [
-       500,
+       109,
        "[Page 53]"
       ]
      ]
     ],
     [
-     "I",
-     388,
-     [
-      [
-       635,
-       "[Page 54]"
-      ]
-     ]
+     "L",
+     386,
+     "[Page 54]",
+     true
     ],
     [
      "I",
-     414,
+     404,
      [
       [
-       165,
+       604,
        "[Page 55]"
       ]
      ]
     ],
     [
-     "I",
-     502,
-     [
-      [
-       103,
-       "[Page 56]"
-      ]
-     ]
+     "L",
+     486,
+     "[Page 56]",
+     true
     ],
     [
-     "I",
-     566,
-     [
-      [
-       169,
-       "[Page 57]"
-      ]
-     ]
+     "L",
+     556,
+     "[Page 57]",
+     true
     ],
     [
-     "I",
-     670,
-     [
-      [
-       98,
-       "[Page 58]"
-      ]
-     ]
+     "L",
+     652,
+     "[Page 58]",
+     true
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00111 - Limitations on exclusive rights Secondary transmissions of broadcast programming by cable.md",
@@ -686,37 +666,47 @@
    "marks": [
     [
      "L",
-     24,
+     18,
      "[Page 59]",
      true
     ],
     [
      "I",
-     58,
+     54,
      [
       [
-       284,
+       188,
        "[Page 60]"
       ]
      ]
     ],
     [
      "I",
-     96,
+     94,
      [
       [
-       743,
+       110,
        "[Page 61]"
       ]
      ]
     ],
     [
      "I",
-     122,
+     118,
      [
       [
-       542,
+       320,
        "[Page 62]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     168,
+     [
+      [
+       106,
+       "[Page 63]"
       ]
      ]
     ]
@@ -724,7 +714,7 @@
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00112 - Limitations on exclusive rights Ephemeral recordings.md",
    "printed_pages": [
     58,
-    62
+    63
    ]
   },
   {
@@ -732,24 +722,18 @@
    "marks": [
     [
      "I",
-     2,
+     38,
      [
       [
-       99,
-       "[Page 63]"
+       215,
+       "[Page 64]"
       ]
      ]
-    ],
-    [
-     "L",
-     52,
-     "[Page 64]",
-     true
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00113 - Scope of exclusive rights in pictorial, graphic, and sculptural works.md",
    "printed_pages": [
-    62,
+    63,
     64
    ]
   },
@@ -758,127 +742,123 @@
    "marks": [
     [
      "I",
-     44,
+     40,
      [
       [
-       359,
+       172,
        "[Page 65]"
       ]
      ]
     ],
     [
-     "L",
-     88,
-     "[Page 66]",
-     true
+     "I",
+     76,
+     [
+      [
+       1350,
+       "[Page 66]"
+      ]
+     ]
     ],
     [
      "I",
-     110,
+     104,
      [
       [
-       272,
+       684,
        "[Page 67]"
       ]
      ]
     ],
     [
      "I",
-     158,
+     154,
      [
       [
-       181,
+       99,
        "[Page 68]"
       ]
      ]
     ],
     [
      "I",
-     190,
+     186,
      [
       [
-       493,
+       102,
        "[Page 69]"
       ]
      ]
     ],
     [
-     "L",
-     228,
-     "[Page 70]",
-     true
+     "I",
+     222,
+     [
+      [
+       97,
+       "[Page 70]"
+      ]
+     ]
     ],
     [
      "I",
-     272,
+     266,
      [
       [
-       262,
+       677,
        "[Page 71]"
       ]
      ]
     ],
     [
      "L",
-     328,
+     324,
      "[Page 72]",
      true
     ],
     [
-     "I",
-     374,
-     [
-      [
-       107,
-       "[Page 73]"
-      ]
-     ]
+     "L",
+     362,
+     "[Page 73]",
+     true
     ],
     [
      "I",
-     412,
+     404,
      [
       [
-       222,
+       111,
        "[Page 74]"
       ]
      ]
     ],
     [
      "I",
-     470,
+     468,
      [
       [
-       704,
+       715,
        "[Page 75]"
       ]
      ]
     ],
     [
      "L",
-     524,
+     516,
      "[Page 76]",
      true
     ],
     [
-     "I",
-     594,
-     [
-      [
-       118,
-       "[Page 77]"
-      ]
-     ]
+     "L",
+     580,
+     "[Page 77]",
+     true
     ],
     [
-     "I",
-     660,
-     [
-      [
-       167,
-       "[Page 78]"
-      ]
-     ]
+     "L",
+     654,
+     "[Page 78]",
+     true
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00114 - Scope of exclusive rights in sound recordings.md",
@@ -892,241 +872,231 @@
    "marks": [
     [
      "I",
-     30,
+     20,
      [
       [
-       98,
+       180,
        "[Page 79]"
       ]
      ]
     ],
     [
-     "I",
-     94,
-     [
-      [
-       492,
-       "[Page 80]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 80]",
+     true
     ],
     [
      "I",
-     138,
+     132,
      [
       [
-       77,
+       392,
        "[Page 81]"
       ]
      ]
     ],
     [
      "I",
-     188,
+     184,
      [
       [
-       168,
+       121,
        "[Page 82]"
       ]
      ]
     ],
     [
-     "I",
-     248,
-     [
-      [
-       144,
-       "[Page 83]"
-      ]
-     ]
+     "L",
+     242,
+     "[Page 83]",
+     true
     ],
     [
      "I",
-     312,
+     298,
      [
       [
-       182,
+       200,
        "[Page 84]"
       ]
      ]
     ],
     [
      "L",
-     384,
+     370,
      "[Page 85]",
      true
     ],
     [
      "L",
-     484,
+     472,
      "[Page 86]",
      true
     ],
     [
      "L",
-     566,
+     552,
      "[Page 87]",
      true
     ],
     [
-     "I",
-     636,
-     [
-      [
-       101,
-       "[Page 88]"
-      ]
-     ]
+     "L",
+     626,
+     "[Page 88]",
+     true
     ],
     [
      "I",
-     688,
+     676,
      [
       [
-       158,
+       138,
        "[Page 89]"
       ]
      ]
     ],
     [
      "I",
-     736,
+     728,
      [
       [
-       140,
+       116,
        "[Page 90]"
       ]
      ]
     ],
     [
      "I",
-     784,
+     780,
      [
       [
-       339,
+       181,
        "[Page 91]"
       ]
      ]
     ],
     [
-     "I",
-     840,
-     [
-      [
-       182,
-       "[Page 92]"
-      ]
-     ]
+     "L",
+     826,
+     "[Page 92]",
+     true
     ],
     [
      "I",
-     912,
+     908,
      [
       [
-       315,
+       75,
        "[Page 93]"
       ]
      ]
     ],
     [
      "I",
-     980,
+     976,
      [
       [
-       294,
+       75,
        "[Page 94]"
       ]
      ]
     ],
     [
+     "L",
+     1022,
+     "[Page 95]",
+     true
+    ],
+    [
      "I",
-     1028,
+     1070,
      [
       [
-       100,
-       "[Page 95]"
+       101,
+       "[Page 96]"
       ]
      ]
     ],
     [
      "L",
-     1078,
-     "[Page 96]",
+     1122,
+     "[Page 97]",
      true
     ],
     [
      "I",
-     1126,
+     1152,
      [
       [
-       100,
-       "[Page 97]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     1160,
-     [
-      [
-       197,
+       162,
        "[Page 98]"
       ]
      ]
     ],
     [
      "I",
-     1222,
+     1218,
      [
       [
-       250,
+       78,
        "[Page 99]"
       ]
      ]
     ],
     [
+     "L",
+     1304,
+     "[Page 100]",
+     true
+    ],
+    [
+     "L",
+     1406,
+     "[Page 101]",
+     true
+    ],
+    [
      "I",
-     1318,
+     1436,
      [
       [
-       121,
-       "[Page 100]"
+       272,
+       "[Page 102]"
       ]
      ]
     ],
     [
      "I",
-     1414,
+     1458,
      [
       [
-       434,
-       "[Page 101]"
+       390,
+       "[Page 103]"
       ]
      ]
     ],
     [
      "L",
-     1442,
-     "[Page 102]",
-     true
-    ],
-    [
-     "L",
-     1472,
-     "[Page 103]",
-     true
-    ],
-    [
-     "L",
-     1522,
+     1510,
      "[Page 104]",
      true
+    ],
+    [
+     "I",
+     1594,
+     [
+      [
+       547,
+       "[Page 105]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00115 - Scope of exclusive rights in nondramatic musical works Compulsory license for making and distributing phonorecords.md",
    "printed_pages": [
     78,
-    104
+    105
    ]
   },
   {
@@ -1134,15 +1104,15 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 105]",
+     80,
+     "[Page 106]",
      true
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00116 - Negotiated licenses for public performances by means of coin-operated phonorecord players.md",
    "printed_pages": [
-    104,
-    105
+    105,
+    106
    ]
   },
   {
@@ -1150,27 +1120,16 @@
    "marks": [],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00116A - Renumbered §116.md",
    "printed_pages": [
-    105,
-    105
+    106,
+    106
    ]
   },
   {
    "id": "17_117",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       141,
-       "[Page 106]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00117 - Limitations on exclusive rights Computer programs.md",
    "printed_pages": [
-    105,
+    106,
     106
    ]
   },
@@ -1179,33 +1138,37 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       311,
+       93,
        "[Page 107]"
       ]
      ]
     ],
     [
-     "L",
-     36,
-     "[Page 108]",
-     true
+     "I",
+     34,
+     [
+      [
+       109,
+       "[Page 108]"
+      ]
+     ]
     ],
     [
      "I",
-     62,
+     58,
      [
       [
-       320,
+       109,
        "[Page 109]"
       ]
      ]
     ],
     [
      "L",
-     106,
+     98,
      "[Page 110]",
      true
     ]
@@ -1220,138 +1183,142 @@
    "id": "17_119",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       632,
-       "[Page 111]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 111]",
+     true
+    ],
+    [
+     "L",
+     68,
+     "[Page 112]",
+     true
     ],
     [
      "I",
-     74,
+     142,
      [
       [
-       99,
-       "[Page 112]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     146,
-     [
-      [
-       243,
+       72,
        "[Page 113]"
       ]
      ]
     ],
     [
-     "L",
-     202,
-     "[Page 114]",
-     true
+     "I",
+     196,
+     [
+      [
+       460,
+       "[Page 114]"
+      ]
+     ]
     ],
     [
      "I",
-     268,
+     266,
      [
       [
-       140,
+       267,
        "[Page 115]"
       ]
      ]
     ],
     [
      "L",
-     358,
+     344,
      "[Page 116]",
      true
     ],
     [
-     "L",
-     436,
-     "[Page 117]",
-     true
+     "I",
+     428,
+     [
+      [
+       136,
+       "[Page 117]"
+      ]
+     ]
     ],
     [
      "I",
-     522,
+     518,
      [
       [
-       617,
+       195,
        "[Page 118]"
       ]
      ]
     ],
     [
-     "L",
-     586,
-     "[Page 119]",
-     true
-    ],
-    [
      "I",
-     638,
+     580,
      [
       [
-       379,
-       "[Page 120]"
+       76,
+       "[Page 119]"
       ]
      ]
     ],
     [
      "L",
-     712,
+     634,
+     "[Page 120]",
+     true
+    ],
+    [
+     "L",
+     704,
      "[Page 121]",
      true
     ],
     [
-     "L",
-     792,
-     "[Page 122]",
-     true
-    ],
-    [
      "I",
-     868,
+     786,
      [
       [
-       1020,
-       "[Page 123]"
+       578,
+       "[Page 122]"
       ]
      ]
     ],
     [
      "L",
-     950,
+     868,
+     "[Page 123]",
+     true
+    ],
+    [
+     "L",
+     934,
      "[Page 124]",
      true
     ],
     [
-     "L",
-     1018,
-     "[Page 125]",
-     true
-    ],
-    [
      "I",
-     1084,
+     1006,
      [
       [
-       309,
-       "[Page 126]"
+       436,
+       "[Page 125]"
       ]
      ]
     ],
     [
      "L",
-     1176,
-     "[Page 127]",
+     1080,
+     "[Page 126]",
      true
+    ],
+    [
+     "I",
+     1166,
+     [
+      [
+       154,
+       "[Page 127]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00119 - Limitations on exclusive rights Secondary transmissions of distant television programming by satellite.md",
@@ -1374,10 +1341,10 @@
    "marks": [
     [
      "I",
-     34,
+     26,
      [
       [
-       97,
+       180,
        "[Page 128]"
       ]
      ]
@@ -1391,11 +1358,22 @@
   },
   {
    "id": "17_121A",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       92,
+       "[Page 129]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00121A - Limitations on exclusive rights reproduction for blind or other people with disabilities in Marrakesh Treaty countries.md",
    "printed_pages": [
     128,
-    128
+    129
    ]
   },
   {
@@ -1403,46 +1381,40 @@
    "marks": [
     [
      "I",
-     8,
+     58,
      [
       [
-       80,
-       "[Page 129]"
+       324,
+       "[Page 130]"
       ]
      ]
     ],
     [
-     "L",
-     64,
-     "[Page 130]",
-     true
-    ],
-    [
      "I",
-     124,
+     120,
      [
       [
-       317,
+       508,
        "[Page 131]"
       ]
      ]
     ],
     [
      "I",
-     192,
+     184,
      [
       [
-       148,
+       209,
        "[Page 132]"
       ]
      ]
     ],
     [
      "I",
-     266,
+     256,
      [
       [
-       115,
+       166,
        "[Page 133]"
       ]
      ]
@@ -1450,7 +1422,7 @@
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00122 - Limitations on exclusive rights Secondary transmissions of local television programming by satellite.md",
    "printed_pages": [
-    128,
+    129,
     133
    ]
   },
@@ -1471,17 +1443,17 @@
      34,
      [
       [
-       805,
+       104,
        "[Page 134]"
       ]
      ]
     ],
     [
      "I",
-     56,
+     54,
      [
       [
-       167,
+       434,
        "[Page 135]"
       ]
      ]
@@ -1507,16 +1479,16 @@
    "marks": [
     [
      "L",
-     12,
+     8,
      "[Page 136]",
      true
     ],
     [
      "I",
-     52,
+     50,
      [
       [
-       279,
+       432,
        "[Page 137]"
       ]
      ]
@@ -1526,7 +1498,7 @@
      78,
      [
       [
-       753,
+       109,
        "[Page 138]"
       ]
      ]
@@ -1551,21 +1523,17 @@
    "id": "17_205",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       96,
-       "[Page 139]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 139]",
+     true
     ],
     [
      "I",
-     78,
+     74,
      [
       [
-       106,
+       100,
        "[Page 140]"
       ]
      ]
@@ -1590,23 +1558,31 @@
    "id": "17_301",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 141]",
-     true
-    ],
-    [
-     "L",
-     64,
-     "[Page 142]",
-     true
+     "I",
+     36,
+     [
+      [
+       862,
+       "[Page 141]"
+      ]
+     ]
     ],
     [
      "I",
-     116,
+     60,
      [
       [
-       163,
+       628,
+       "[Page 142]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     112,
+     [
+      [
+       216,
        "[Page 143]"
       ]
      ]
@@ -1622,24 +1598,16 @@
    "id": "17_302",
    "marks": [
     [
-     "I",
+     "L",
      38,
-     [
-      [
-       470,
-       "[Page 144]"
-      ]
-     ]
+     "[Page 144]",
+     true
     ],
     [
-     "I",
+     "L",
      64,
-     [
-      [
-       426,
-       "[Page 145]"
-      ]
-     ]
+     "[Page 145]",
+     true
     ]
    ],
    "path": "Chapter 003 - Duration of Copyright/§ 00302 - Duration of copyright Works created on or after January 1, 1978.md",
@@ -1653,10 +1621,10 @@
    "marks": [
     [
      "I",
-     14,
+     12,
      [
       [
-       107,
+       169,
        "[Page 146]"
       ]
      ]
@@ -1672,33 +1640,41 @@
    "id": "17_304",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 147]",
-     true
-    ],
-    [
-     "L",
-     84,
-     "[Page 148]",
-     true
+     "I",
+     46,
+     [
+      [
+       474,
+       "[Page 147]"
+      ]
+     ]
     ],
     [
      "I",
-     120,
+     82,
      [
       [
-       111,
+       94,
+       "[Page 148]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       450,
        "[Page 149]"
       ]
      ]
     ],
     [
      "I",
-     148,
+     144,
      [
       [
-       114,
+       218,
        "[Page 150]"
       ]
      ]
@@ -1708,7 +1684,7 @@
      198,
      [
       [
-       280,
+       115,
        "[Page 151]"
       ]
      ]
@@ -1733,10 +1709,14 @@
    "id": "17_-ch4",
    "marks": [
     [
-     "L",
-     27,
-     "[Page 152]",
-     true
+     "I",
+     25,
+     [
+      [
+       122,
+       "[Page 152]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/README.md",
@@ -1753,7 +1733,7 @@
      50,
      [
       [
-       811,
+       600,
        "[Page 153]"
       ]
      ]
@@ -1769,10 +1749,14 @@
    "id": "17_402",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 154]",
-     true
+     "I",
+     34,
+     [
+      [
+       744,
+       "[Page 154]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00402 - Notice of copyright Phonorecords of sound recordings.md",
@@ -3785,6 +3769,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2023-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2024-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 17 - Copyrights"
 }

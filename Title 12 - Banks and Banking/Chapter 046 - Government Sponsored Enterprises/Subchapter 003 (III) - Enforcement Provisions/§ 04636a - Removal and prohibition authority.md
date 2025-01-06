@@ -184,7 +184,7 @@ Not later than 10 days after the date on which any entity-affiliated party has b
 
 #### (B) Timing and form of hearing
 
-&emsp;&emsp;Upon receipt of a request for a hearing under subparagraph (A), the Director shallfix a time (not later than 30 days after the date of receipt of such request, unless extended at the request of such party) and place at which the entity-affiliated party may appear, personally or through counsel, before the Director or 1 or more designated employees of the Director to submit written materials (or, at the discretion of the Director, oral testimony) and oral argument.
+&emsp;&emsp;Upon receipt of a request for a hearing under subparagraph (A), the Director shall fix a time (not later than 30 days after the date of receipt of such request, unless extended at the request of such party) and place at which the entity-affiliated party may appear, personally or through counsel, before the Director or 1 or more designated employees of the Director to submit written materials (or, at the discretion of the Director, oral testimony) and oral argument.
 
 #### (C) Determination
 

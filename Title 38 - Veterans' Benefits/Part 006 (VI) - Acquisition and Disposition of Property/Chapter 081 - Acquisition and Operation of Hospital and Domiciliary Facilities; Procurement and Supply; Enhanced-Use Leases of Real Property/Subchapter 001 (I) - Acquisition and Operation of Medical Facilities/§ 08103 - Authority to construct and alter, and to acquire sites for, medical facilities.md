@@ -48,7 +48,7 @@
 
 (e)(1) In the case of any super construction project, the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes.
 
-(2) An agreement entered into under paragraph (1) with a Federal entity shall providethat the Secretary shall reimburse the Federal entity for all costs associated with the provision of project management services under the agreement.
+(2) An agreement entered into under paragraph (1) with a Federal entity shall provide that the Secretary shall reimburse the Federal entity for all costs associated with the provision of project management services under the agreement.
 
 (3) In this subsection, the term "super construction project" means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.
 
@@ -228,7 +228,7 @@ In general.—The Secretary may accept real property and improvements donated un
 
 Content of formal agreements.—With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:
 
-&emsp;&emsp;"(A) The entity shall conduct all necessary environmental and historic preservation due diligence,shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility.
+&emsp;&emsp;"(A) The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility.
 
 &emsp;&emsp;"(B) The entity shall use construction standards required of the Department when designing, repairing, altering, or building the facility, except to the extent the Secretary determines otherwise, as permitted by applicable law.
 

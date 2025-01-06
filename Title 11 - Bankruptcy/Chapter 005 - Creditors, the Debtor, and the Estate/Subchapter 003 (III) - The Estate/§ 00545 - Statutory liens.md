@@ -28,9 +28,9 @@ The trustee may avoid the fixing of a statutory lien on property of the debtor t
 
 #### legislative statements
 
-Section 545 of the House amendment modifies similar provisions contained in the House bill and Senate amendment to make clear that a statutory lien may be avoided under section 545 only to the extent the lien violates the perfection standards of section 545. Thus a Federal tax lien is invalid under section 545(2) with respect to property specified in sections 6323(b) and (c) of the Internal Revenue Code of 1954 \[title 26\]. As a result of this modification, section 545(b) of the Senate amendment is deleted as unnecessary.
+Section 545 of the House amendment modifies similar provisions contained in the House bill and Senate amendment to make clear that a statutory lien may be avoided under section 545 only to the extent the lien violates the perfection standards of section 545. Thus a Federal tax lien is invalid under section 545(2) with respect to property specified in sections 6323(b) and (c) ofthe Internal Revenue Code of 1954 \[title 26\]. As a result of this modification, section 545(b) of the Senate amendment is deleted as unnecessary.
 
-Statutory liens: The House amendment retains the provision of section 545(2) of the House bill giving the trustee in a bankruptcy case the same power which abona fide purchaser has to take over certain kinds of personal property despite the existence of a tax lien covering that property. The amendment thus retains present law, and deletes section 545(b) of the Senate amendment which would have no longer allowed the trustee to step into the shoes of a bona fide purchaser for this purpose.
+Statutory liens: The House amendment retains the provision of section 545(2) of the House bill giving the trustee in a bankruptcy case the same power which a bona fide purchaser has to take over certain kinds of personal property despite the existence of a tax lien covering that property. The amendment thus retains present law, and deletes section 545(b) of the Senate amendment which would have no longer allowed the trustee to step into the shoes of a bona fide purchaser for this purpose.
 
 #### senate report no. 95–989
 

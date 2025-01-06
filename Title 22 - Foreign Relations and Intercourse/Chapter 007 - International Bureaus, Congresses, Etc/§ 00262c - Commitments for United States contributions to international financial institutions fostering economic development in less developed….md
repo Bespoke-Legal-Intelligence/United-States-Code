@@ -76,5 +76,5 @@ Pub. L. 95–148, title III, Oct. 31, 1977, 91 Stat. 1238.
 
 #### Standards for Human Needs and Protection of Human Rights; Consultation for Development of Criteria; Report to Congress
 
-Pub. L. 95–118, title VII, §703, Oct. 3, 1977, 91 Stat. 1070, directed the Secretary of State and the Secretaryof the Treasury to initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards, and report to Congress not later than one year after Oct. 3, 1977.
+Pub. L. 95–118, title VII, §703, Oct. 3, 1977, 91 Stat. 1070, directed the Secretary of State and the Secretary of the Treasury to initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards, and report to Congress not later than one year after Oct. 3, 1977.
 

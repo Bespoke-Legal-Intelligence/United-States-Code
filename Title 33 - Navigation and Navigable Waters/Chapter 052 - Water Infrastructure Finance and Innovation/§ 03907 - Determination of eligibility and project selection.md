@@ -52,7 +52,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (B) Small community water infrastructure projects
 
-&emsp;&emsp;For a project described in paragraph (2) or (3) of section 3905 of this title that serves acommunity of not more than 25,000 individuals, the eligible project costs of a project shall be reasonably anticipated to be not less than $5,000,000.
+&emsp;&emsp;For a project described in paragraph (2) or (3) of section 3905 of this title that serves a community of not more than 25,000 individuals, the eligible project costs of a project shall be reasonably anticipated to be not less than $5,000,000.
 
 #### (3) Dedicated revenue sources
 
@@ -66,7 +66,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (B) Public sponsorship
 
-&emsp;&emsp;For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
+&emsp;&emsp;For purposes of this chapter, a project shall be considered to be publicly sponsoredif the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
 
 #### (5) Use of existing financing mechanisms
 

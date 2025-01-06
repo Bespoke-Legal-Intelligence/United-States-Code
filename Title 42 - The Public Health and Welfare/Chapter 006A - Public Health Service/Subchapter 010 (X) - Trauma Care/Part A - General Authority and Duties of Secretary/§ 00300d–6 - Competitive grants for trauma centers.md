@@ -82,7 +82,7 @@ The Secretary shall award a contract or grant under subsection (a) to an eligibl
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under this section unless the State (or consortia ofStates) involved agrees, with respect to the costs to be incurred by the State (or consortia) in carrying out the purpose for which such grant was made, to make available non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $1 for each $3 of Federal funds provided in the grant. Such contributions may be made directly or through donations from public or private entities.
+&emsp;The Secretary may not make a grant under this section unless the State (or consortia of States) involved agrees, with respect to the costs to be incurred by the State (or consortia) in carrying out the purpose for which such grant was made, to make available non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $1 for each $3 of Federal funds provided in the grant. Such contributions may be made directly or through donations from public or private entities.
 
 #### (2) Non-Federal contributions
 
@@ -148,7 +148,7 @@ Subsec. (b)(1). Pub. L. 117–328, §2113(c)(3), added subpars. (A) to (D) and s
 
 Subsec. (c). Pub. L. 117–328, §2113(c)(4)(A), struck out "that proposes a pilot project" after "an eligible entity" and substituted "a new or existing emergency medical and trauma system. Such eligible entity shall use amounts awarded under this subsection to carry out 2 or more of the following activities:" for "an emergency medical and trauma system that—" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 117–328, §2113(c)(4)(B), substituted "Strengthening coordination and communication" for "coordinates" and "approaches to improve situational awareness and emergency medical and trauma system access." for "an approach to emergencymedical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;".
+Subsec. (c)(1). Pub. L. 117–328, §2113(c)(4)(B), substituted "Strengthening coordination and communication" for "coordinates" and "approaches to improve situational awareness and emergency medical and trauma system access." for "an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;".
 
 Subsec. (c)(2). Pub. L. 117–328, §2113(c)(4)(C), substituted "Providing" for "includes" and "fashion." for "fashion;" and inserted "support patient movement to" after "region to".
 

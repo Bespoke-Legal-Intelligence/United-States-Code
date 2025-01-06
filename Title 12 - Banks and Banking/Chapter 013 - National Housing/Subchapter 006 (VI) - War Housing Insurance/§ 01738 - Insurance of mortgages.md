@@ -68,7 +68,7 @@ Subsec. (b)(2). Pub. L. 90–19, §1(a)(4), substituted "Secretary's" for "Commi
 
 Subsec. (a). Act Apr. 20, 1950, §119, added last two pars.
 
-<b>1949</b>—Subsec. (a). Joint Res. Oct. 25, 1949, substituted "$6,150,000,000" for "$5,750,000,000" and "$6,650,000,000" for "$6,150,000,000" in first proviso, and extended section to "March 1, 1950" by substituting the same for "October 31, 1949" in second proviso.
+<b>1949</b>—Subsec. (a). Joint Res. Oct. 25, 1949, substituted "$6,150,000,000" for "$5,750,000,000" and "$6,650,000,000"for "$6,150,000,000" in first proviso, and extended section to "March 1, 1950" by substituting the same for "October 31, 1949" in second proviso.
 
 Act Aug. 30, 1949, extended section from "August 31, 1949" to "October 31, 1949".
 

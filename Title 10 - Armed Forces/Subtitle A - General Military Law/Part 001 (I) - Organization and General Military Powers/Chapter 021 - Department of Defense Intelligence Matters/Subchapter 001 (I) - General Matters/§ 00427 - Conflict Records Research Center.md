@@ -38,7 +38,7 @@ Acceptance of Gifts and Donations.—(1) Subject to paragraph (3), the Secretary
 
 &emsp;(B) The government of a foreign country.
 
-&emsp;(C) A foundation or other charitable organization, including a foundation or charitableorganization that is organized or operates under the laws of a foreign country.
+&emsp;(C) A foundation or other charitable organization, including a foundation or charitable organization that is organized or operates under the laws of a foreign country.
 
 &emsp;(D) Any source in the private sector of the United States or a foreign country.
 

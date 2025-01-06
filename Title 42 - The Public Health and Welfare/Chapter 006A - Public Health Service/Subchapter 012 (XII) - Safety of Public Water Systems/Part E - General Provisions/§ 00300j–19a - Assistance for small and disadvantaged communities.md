@@ -108,7 +108,7 @@ Not more than 4 percent of funds made available for grants under this section ma
 
 #### (1) In general
 
-&emsp;The Administrator may, subject to the terms and conditions of this section, issue agrant to a requesting State, on behalf of a community described in subsection (c)(2), so the State may assist in, or otherwise carry out, necessary and appropriate activities related to a contaminant—
+&emsp;The Administrator may, subject to the terms and conditions of this section, issue a grant to a requesting State, on behalf of a community described in subsection (c)(2), so the State may assist in, or otherwise carry out, necessary and appropriate activities related to a contaminant—
 
 &emsp;&emsp;(A) that is determined by the State to—
 
@@ -152,7 +152,7 @@ There are authorized to be appropriated to carry out subsections (a) through (j)
 
 #### (3) Use of funds
 
-&emsp;An eligible entity may only use grant funds received under this subsection to assist in the planning, design, construction, implementation, operation, or maintenance of a program or project that increases resilience to natural hazards through—
+&emsp;An eligible entity may only use grant funds received under this subsection to assist in the planning, design, construction, implementation, operation, or maintenance of a programor project that increases resilience to natural hazards through—
 
 &emsp;&emsp;(A) the conservation of water or the enhancement of water use efficiency;
 
@@ -348,7 +348,7 @@ Qualifying household.—The term 'qualifying household' means a household that�
 
 &emsp;&emsp;"(B) is determined—
 
-&emsp;&emsp;&emsp;"(i) by a large water service provider, a medium water service provider, or a rural water service provider to be eligible for assistance through a low-income ratepayer assistance program;
+&emsp;&emsp;&emsp;"(i) by a large water service provider, a medium water service provider, or a rural water serviceprovider to be eligible for assistance through a low-income ratepayer assistance program;
 
 &emsp;&emsp;&emsp;"(ii) by the Governor of the State in which the household is located to be low-income, based on the affordability criteria established by the State under section 1452(d)(3) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(3));
 

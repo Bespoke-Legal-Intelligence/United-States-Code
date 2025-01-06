@@ -12,7 +12,7 @@ The Secretary may make a grant under section 300x of this title only if—
 
 #### (b) Criteria for plan
 
-In accordance with subsection (a), a State shall submit to the Secretary a plan every twoyears that, at a minimum, includes each of the following:
+In accordance with subsection (a), a State shall submit to the Secretary a plan every two years that, at a minimum, includes each of the following:
 
 #### (1) System of care
 

@@ -14,7 +14,7 @@
 
 &emsp;In making recommendations under this section, the Council may—
 
-&emsp;&emsp;(A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-relatedfactors that the Council deems appropriate; or
+&emsp;&emsp;(A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Council deems appropriate; or
 
 &emsp;&emsp;(B) recommend an asset threshold that is higher than the applicable threshold for the application of any standard described in subsections (c) through (g).
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) to the extent possible, ensure that small changes in the factors listed in subsections (a) and (b) of section 5323 of this title would not result in sharp, discontinuous changes in the prudential standards established under section 5365 of this title; and
 
-&emsp;&emsp;(C) adapt its recommendations as appropriate in light of any predominant line of business of such company, including assets under management or other activities for which particular standards may not be appropriate.
+&emsp;&emsp;(C) adapt its recommendations as appropriate in light of any predominant line ofbusiness of such company, including assets under management or other activities for which particular standards may not be appropriate.
 
 #### (c) Contingent capital
 

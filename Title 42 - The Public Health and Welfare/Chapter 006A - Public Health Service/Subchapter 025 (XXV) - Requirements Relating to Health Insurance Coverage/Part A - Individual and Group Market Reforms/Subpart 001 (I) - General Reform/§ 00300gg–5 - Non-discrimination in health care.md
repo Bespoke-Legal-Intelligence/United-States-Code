@@ -32,7 +32,7 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 
 #### Implementing Protections Against Provider Discrimination
 
-Pub. L. 116–260, div. BB, title I, §108, Dec. 27, 2020, 134 Stat. 2859, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall issue a proposed rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a)). The Secretaries shall accept and consider public comments on any proposed rule issued pursuant to this subsection for a period of 60 days after the date of such issuance. Not later than 6 months after the date of the conclusion of the comment period, the Secretaries shall issue a final rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a))."
+Pub. L. 116–260, div. BB, title I, §108, Dec. 27, 2020, 134 Stat. 2859, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall issue a proposed rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a)). The Secretaries shall accept andconsider public comments on any proposed rule issued pursuant to this subsection for a period of 60 days after the date of such issuance. Not later than 6 months after the date of the conclusion of the comment period, the Secretaries shall issue a final rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a))."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

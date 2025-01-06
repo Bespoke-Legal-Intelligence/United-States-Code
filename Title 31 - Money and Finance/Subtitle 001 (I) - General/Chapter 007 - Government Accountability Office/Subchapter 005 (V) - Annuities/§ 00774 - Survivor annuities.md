@@ -86,7 +86,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §319(e), (n); added July 13, 1959, Pub. L. 
 
 31:43b(n)(words after last comma).
 
-In subsection (a)(1), the words "in an armed force" are substituted for "in the Army, Navy, Air Force, Marine Corps, or Coast Guard" for consistency with title 10. The word "only" is omitted as surplus. The word"Government" is added for consistency. The word "computing" is added for clarity. The word "annuity" is substituted for "retirement or retired pay" for consistency in the revised title and with other titles of the United States Code. The words "under any other provision of law" are omitted as surplus.
+In subsection (a)(1), the words "in an armed force" are substituted for "in the Army, Navy, Air Force, Marine Corps, or Coast Guard" for consistency with title 10. The word "only" is omitted as surplus. The word "Government" is added for consistency. The word "computing" is added for clarity. The word "annuity" is substituted for "retirement or retired pay" for consistency in the revised title and with other titles of the United States Code. The words "under any other provision of law" are omitted as surplus.
 
 Subsection (a)(3) is substituted for 31:43b(o)(1st sentence) for consistency in the revised title and with other titles of the Code.
 

@@ -10,7 +10,7 @@ Establishment.—(1) The Secretary, acting through the Office of Assault and Pre
 
 &emsp;(B) A process for employees and contractors of the Department to respond to reported incidents of harassment and sexual assault of any non-Department individual within a facility of the Department.
 
-&emsp;(C) A process for any non-Department individual to report harassment and sexual assaultdescribed in subparagraph (A), including an option for confidential reporting, and for the Secretary to respond to and address such reports.
+&emsp;(C) A process for any non-Department individual to report harassment and sexual assault described in subparagraph (A), including an option for confidential reporting, and for the Secretary to respond to and address such reports.
 
 &emsp;(D) Clear mechanisms for non-Department individuals to readily identify to whom and how to report incidents of harassment and sexual assault committed by another non-Department individual.
 

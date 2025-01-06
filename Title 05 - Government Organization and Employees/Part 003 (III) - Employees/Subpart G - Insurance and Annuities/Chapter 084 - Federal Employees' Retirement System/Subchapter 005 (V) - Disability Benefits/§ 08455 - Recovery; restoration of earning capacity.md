@@ -1,6 +1,6 @@
 ### §8455. Recovery; restoration of earning capacity
 
-(a)(1) If an annuitant receiving a disability retirement annuity from the Fund recovers fromthe disability before becoming 60 years of age, payment of the annuity terminates on reemployment by the Government or 1 year after the date on which the Office determines that the annuitant has recovered, whichever is earlier.
+(a)(1) If an annuitant receiving a disability retirement annuity from the Fund recovers from the disability before becoming 60 years of age, payment of the annuity terminates on reemployment by the Government or 1 year after the date on which the Office determines that the annuitant has recovered, whichever is earlier.
 
 (2) If an annuitant receiving a disability annuity from the Fund, before becoming 60 years of age, is restored to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, payment of the annuity terminates 180 days after the end of the calendar year in which earning capacity is so restored. Earning capacity is deemed restored if in any calendar year the income of the annuitant from wages or self-employment or both equals at least 80 percent of the current rate of pay of the position occupied immediately before retirement.
 

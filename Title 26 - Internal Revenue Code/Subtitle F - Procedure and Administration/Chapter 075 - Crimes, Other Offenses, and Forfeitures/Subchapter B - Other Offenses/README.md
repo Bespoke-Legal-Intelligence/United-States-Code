@@ -12,7 +12,7 @@
 | [7272\.](%C2%A7%2007272%20-%20Penalty%20for%20failure%20to%20register%20or%20reregister.md) | Penalty for failure to register or reregister. |
 | [7273\.](%C2%A7%2007273%20-%20Penalties%20for%20offenses%20relating%20to%20special%20taxes.md) | Penalties for offenses relating to special taxes. |
 | \[7274. | Repealed.\] |
-| [7275\.](%C2%A7%2007275%20-%20Penalty%20for%20offenses%20relating%20to%20certain%20airline%20tickets%20and%20advertising.md) | Penalty for offenses relating to certain airline tickets and advertising. |
+| [7275\.](%C2%A7%2007275%20-%20Penalty%20for%20offenses%20relating%20to%20certain%20airline%20tickets%20and%20advertising.md) | Penalty for offenses relating to certain airline tickets and advertising.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -60,7 +60,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (1) In general
 
-&emsp;When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
+&emsp;When requested by a non-Federal interest carrying out a project or separable element of a project under this section, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project or separable element of a project under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to provide funds to the United States for the studies, engineering, or technical assistance.
 
 #### (2) No waiver
 
@@ -82,9 +82,9 @@ In this section, the term "water resources development project" means a project 
 
 &emsp;&emsp;(A) before initiation of construction of the project or separable element—
 
-&emsp;&emsp;&emsp;(i) the Secretary approves the plans for construction of the project or separable element of the project by the non-Federal interest;
+&emsp;&emsp;&emsp;(i) the Secretary approves the plan for construction of the project or separable element of the project by the non-Federal interest;
 
-&emsp;&emsp;&emsp;(ii) the Secretary determines, before approval of the plans, that the project or separable element of the project is feasible; and
+&emsp;&emsp;&emsp;(ii) the Secretary determines, before approval of the plan, that the project or separable element of the project is feasible; and
 
 &emsp;&emsp;&emsp;(iii) the non-Federal interest enters into a written agreement with the Secretary under section 1962d–5b of title 42, including an agreement to pay the non-Federal share, if any, of the cost of operation and maintenance of the project; and
 
@@ -104,7 +104,7 @@ In this section, the term "water resources development project" means a project 
 
 &emsp;&emsp;(A) Congress has authorized construction of the project or separable element of the project;
 
-&emsp;&emsp;(B) the Secretary certifies that the project has been constructed in accordance with—
+&emsp;&emsp;(B) the Secretary certifies that the project, discrete segment of the project, or separable element of the project has been constructed in accordance with—
 
 &emsp;&emsp;&emsp;(i) all applicable permits or approvals; and
 
@@ -128,7 +128,7 @@ In this section, the term "water resources development project" means a project 
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary determines that the discrete segment satisfies the requirements of paragraphs (1) through (4) in the same manner as the project or separable element; and
 
-&emsp;&emsp;&emsp;(ii) notwithstanding paragraph (1)(A)(ii), the Secretary determines, before the approval of the plans under paragraph (1)(A)(i), that the discrete segment is technically feasible and environmentally acceptable.
+&emsp;&emsp;&emsp;(ii) notwithstanding paragraph (1)(A)(ii), the Secretary determines, before the approval of the plan under paragraph (1)(A)(i), that the discrete segment is technically feasible and environmentally acceptable.
 
 #### (B) Determination
 
@@ -136,7 +136,7 @@ In this section, the term "water resources development project" means a project 
 
 &emsp;&emsp;&emsp;(i) the construction of the discrete segment for which credit or reimbursement is requested is complete; and
 
-&emsp;&emsp;&emsp;(ii) the construction is consistent with the authorization of the applicable water resources development project, or separable element thereof, and the plans approved under paragraph (1)(A)(i).
+&emsp;&emsp;&emsp;(ii) the construction is consistent with the authorization of the applicable water resources development project, or separable element thereof, and the plan approved under paragraph (1)(A)(i).
 
 #### (C) Written agreement
 
@@ -159,6 +159,14 @@ In this section, the term "water resources development project" means a project 
 &emsp;&emsp;&emsp;(i) described by a non-Federal interest in a written agreement required under paragraph (1)(A)(iii); and
 
 &emsp;&emsp;&emsp;(ii) that the non-Federal interest can operate and maintain, independently and without creating a hazard, in advance of final completion of the water resources development project, or separable element thereof.
+
+#### (6) Exclusions
+
+&emsp;The Secretary may not provide credit or reimbursement for—
+
+&emsp;&emsp;(A) activities required by the non-Federal interest to initiate design and construction that would otherwise not be required by the Secretary; or
+
+&emsp;&emsp;(B) delays incurred by the non-Federal interest resulting in project cost increases.
 
 #### (e) Notification of committees
 
@@ -184,15 +192,25 @@ If a non-Federal interest notifies the Secretary that the non-Federal interest i
 
 &emsp;In the case of improvements determined by the Secretary pursuant to paragraph (1)(A)(i) to deviate from the national economic development plan, the Secretary shall be responsible for all operation and maintenance costs of such improvements, as described in section 2211(b) of this title, including costs in excess of the costs of the national economic development plan, if the Secretary determines that the improvements satisfy the requirements of paragraph (1).
 
-(Pub. L. 99–662, title II, §204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, §303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, §1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, §1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1153, Oct. 23, 2018, 132 Stat. 3789; Pub. L. 116–260, div. AA, title I, §105(a), (b), Dec. 27, 2020, 134 Stat. 2622.)
+(Pub. L. 99–662, title II, §204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, §303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, §1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, §1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1153, Oct. 23, 2018, 132 Stat. 3789; Pub. L. 116–260, div. AA, title I, §105(a), (b), Dec. 27, 2020, 134 Stat. 2622; Pub. L. 118–272, div. A, title I, §1110(a), Jan. 4, 2025, 138 Stat. 3009.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 2282d(f) of this title, referred to in subsec. (a)(1), was redesignated section 2282(g) of this title by Pub. L. 115–270, title I, §1332(a)(3), Oct. 23, 2018, 132 Stat. 3834.
+Section 2282d(f) of this title, referred to in subsec. (a)(1), was redesignated section 2282d(g) of this title by Pub. L. 115–270, title I, §1332(a)(3), Oct. 23, 2018, 132 Stat. 3834. Section 2282d(g) of this title was subsequently redesignated section 2282d(i) of this title by Pub. L. 118–272, div. A, title I, §1111(2), Jan. 4, 2025, 138 Stat. 3010.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(1). Pub. L. 118–272, §1110(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted."
+
+Subsec. (d)(1)(A)(i), (ii). Pub. L. 118–272, §1110(a)(2)(A), substituted "plan" for "plans".
+
+Subsec. (d)(3)(B). Pub. L. 118–272, §1110(a)(2)(B), inserted ", discrete segment of the project, or separable element of the project" after "certifies that the project".
+
+Subsec. (d)(5)(A)(ii), (B)(ii). Pub. L. 118–272, §1110(a)(2)(C), substituted "plan" for "plans".
+
+Subsec. (d)(6). Pub. L. 118–272, §1110(a)(2)(D), added par. (6).
 
 <b>2020</b>—Subsec. (c)(1). Pub. L. 116–260, §105(a), substituted "under this section" for "under subsection (b)".
 
@@ -239,6 +257,14 @@ Pub. L. 113–121, title I, §1014(d), June 10, 2014, 128 Stat. 1222, provided t
 &emsp;"(2) Section 206 of the Water Resources Development Act of 1992 (33 U.S.C. 426i–1).
 
 &emsp;"(3) Section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13)."
+
+#### Guidance
+
+Pub. L. 118–272, div. A, title I, §1110(b), Jan. 4, 2025, 138 Stat. 3010, provided that: "Not later than 18 months after the date of enactment of this Act \[Jan. 4, 2025\], the Secretary \[of the Army\] shall update any guidance as necessary to reflect the amendments made by this section \[amending this section\]."
+
+#### Implementation
+
+Pub. L. 118–272, div. A, title I, §1110(c), Jan. 4, 2025, 138 Stat. 3010, provided that: "Any non-Federal interest that has entered in a written agreement with the Secretary \[of the Army\] to carry out a water resources development project pursuant to section 204 of the Water Resources Development Act of 1986 (33 U.S.C. 2232) before the date of enactment of this Act \[Jan. 4, 2025\] may submit to the Secretary a request to amend such agreement to reflect the amendments made by this section \[amending this section\]."
 
 #### Report on Improvements by Non–Federal Interest
 

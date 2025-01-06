@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, in coordination with the Secretary of Defense, the Secretary ofState, and the heads of other Federal agencies, as appropriate, specify the level of control to apply under paragraph (1) with respect to the export of technology described in that paragraph, including a requirement for a license or other authorization for the export, reexport, or in-country transfer of that technology.
+&emsp;&emsp;The Secretary may, in coordination with the Secretary of Defense, the Secretary of State, and the heads of other Federal agencies, as appropriate, specify the level of control to apply under paragraph (1) with respect to the export of technology described in that paragraph, including a requirement for a license or other authorization for the export, reexport, or in-country transfer of that technology.
 
 #### (B) Considerations
 
@@ -88,7 +88,7 @@
 
 #### (C) Additional exceptions
 
-&emsp;&emsp;The Secretary shall not be required to impose under paragraph (1) a requirement for a license or other authorization with respect to the export, reexport, or in-country transfer of technology described in paragraph (1) pursuant to any of the following transactions:
+&emsp;&emsp;The Secretary shall not be required to impose under paragraph (1) a requirement for alicense or other authorization with respect to the export, reexport, or in-country transfer of technology described in paragraph (1) pursuant to any of the following transactions:
 
 &emsp;&emsp;&emsp;(i) The sale or license of a finished item and the provision of associated technology if the United States person that is a party to the transaction generally makes the finished item and associated technology available to its customers, distributors, or resellers.
 

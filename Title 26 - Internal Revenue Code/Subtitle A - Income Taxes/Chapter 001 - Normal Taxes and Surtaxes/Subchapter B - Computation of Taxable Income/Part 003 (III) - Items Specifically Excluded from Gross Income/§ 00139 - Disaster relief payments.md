@@ -60,7 +60,7 @@ Gross income shall not include any amount received as payment under section 406 
 
 Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
 
-(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat.3922; Pub. L. 115–141, div. U, title IV, §401(a)(41), (b)(10)(A), Mar. 23, 2018, 132 Stat. 1186, 1202.)
+(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(a)(41), (b)(10)(A), Mar. 23, 2018, 132 Stat. 1186, 1202.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The date of the enactment of this subsection, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
-The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Prior Provisions
 

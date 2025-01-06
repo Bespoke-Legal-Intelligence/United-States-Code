@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-the <sup>1</sup> Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants toinstitutions of higher education or eligible nonprofit organizations (or consortia thereof).
+the <sup>1</sup> Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
 
 #### (b) Uses of funds
 
@@ -104,7 +104,7 @@ In general, the Director shall permit applicants to include in their proposed bu
 
 #### (iii) Uses of funds
 
-&emsp;&emsp;&emsp;A fellowship may include salary and benefits for up to one academic year, expenses to support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
+&emsp;&emsp;&emsp;A fellowship may include salary and benefits for up to one academic year, expensesto support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
 
 #### (C) Omitted
 

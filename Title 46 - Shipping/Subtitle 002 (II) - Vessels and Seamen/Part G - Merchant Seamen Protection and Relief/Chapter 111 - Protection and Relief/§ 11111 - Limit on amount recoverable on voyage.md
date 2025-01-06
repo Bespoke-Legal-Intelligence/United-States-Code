@@ -1,6 +1,6 @@
 ### §11111. Limit on amount recoverable on voyage
 
-When a seaman is on a voyage on which a written agreement is required under this part,not more than $1 is recoverable from the seaman by a person for a debt incurred by the seaman during the voyage for which the seaman is signed on until the voyage is ended.
+When a seaman is on a voyage on which a written agreement is required under this part, not more than $1 is recoverable from the seaman by a person for a debt incurred by the seaman during the voyage for which the seaman is signed on until the voyage is ended.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 581.)
 

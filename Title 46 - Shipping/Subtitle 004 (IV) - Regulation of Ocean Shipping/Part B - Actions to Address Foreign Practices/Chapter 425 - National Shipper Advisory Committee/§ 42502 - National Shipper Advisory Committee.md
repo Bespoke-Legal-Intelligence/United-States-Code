@@ -22,13 +22,21 @@ Expertise.—Each member of the Committee shall have particular expertise, knowl
 
 &emsp;(3)
 
-Representation.—REPRESENTATION.— <sup>1</sup> Members of the Committee shall be appointed as follows: — <sup>1</sup>
+Representation.—Members of the Committee shall be appointed as follows:
 
 &emsp;&emsp;(A) Twelve members shall represent entities who import cargo to the United States using ocean common carriers.
 
 &emsp;&emsp;(B) Twelve members shall represent entities who export cargo from the United States using ocean common carriers.
 
-(Added Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8604(a), Jan. 1, 2021, 134 Stat. 4762.)
+(Added Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8604(a), Jan. 1, 2021, 134 Stat. 4762; amended Pub. L. 118–159, div. C, title XXXV, §3535(h), Dec. 23, 2024, 138 Stat. 2315.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (c)(3). Pub. L. 118–159 substituted "
+
+Representation.—Members of the Committee shall be appointed as follows:" for "
+
+Representation.—REPRESENTATION.—Members of the Committee shall be appointed as follows: —".
 

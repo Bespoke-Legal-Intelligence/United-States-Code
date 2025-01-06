@@ -40,7 +40,7 @@ The dairy margin coverage payment for the participating dairy operation shall be
 
 &emsp;&emsp;(B) the production history of the participating dairy operation divided by 12.
 
-(Pub. L. 113–79, title I, §1406, Feb. 7, 2014, 128 Stat. 691; Pub. L. 115–123, div. F, §60101(b)(1)(C), Feb. 9, 2018, 132 Stat. 311; Pub. L. 115–334, title I, §1401(g), (k)(7), Dec. 20, 2018, 132 Stat. 4513, 4517.)
+(Pub. L. 113–79, title I, §1406, Feb. 7, 2014, 128 Stat. 691; Pub. L. 115–123, div. F, §60101(b)(1)(C),Feb. 9, 2018, 132 Stat. 311; Pub. L. 115–334, title I, §1401(g), (k)(7), Dec. 20, 2018, 132 Stat. 4513, 4517.)
 
 #### <b>Editorial Notes</b>
 

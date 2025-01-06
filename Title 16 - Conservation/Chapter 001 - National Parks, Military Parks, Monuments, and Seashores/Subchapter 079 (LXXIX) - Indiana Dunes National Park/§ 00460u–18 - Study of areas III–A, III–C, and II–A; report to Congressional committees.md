@@ -10,7 +10,7 @@
 
 &emsp;(C) NIPSCO shall preserve the Greenbelt in its natural state. If NIPSCO utilizes the Greenbelt temporarily for a project involving pollution mitigation or construction on its adjacent facilities, it shall restore the project area to its natural state.
 
-&emsp;(D) If NIPSCO proposes a different use for the Greenbelt, NIPSCO shall notify the National Park Service, the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs of the House of Representatives and make no change in the use of the property until three years after the date notice is given.
+&emsp;(D) If NIPSCO proposes a different use for the Greenbelt, NIPSCO shall notify the National Park Service, the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs ofthe House of Representatives and make no change in the use of the property until three years after the date notice is given.
 
 (2) If a memorandum of agreement is entered into pursuant to paragraph (1), so long as the memorandum of agreement is in effect and is being performed, the Secretary may not acquire lands or interests in land in the Greenbelt belonging to NIPSCO.
 
@@ -28,7 +28,7 @@
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (a), abolished and replaced byCommittee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (a), abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

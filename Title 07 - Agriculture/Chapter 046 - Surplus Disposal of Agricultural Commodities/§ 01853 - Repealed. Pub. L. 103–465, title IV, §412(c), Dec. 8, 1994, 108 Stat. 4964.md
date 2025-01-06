@@ -6,5 +6,5 @@ Section, act May 28, 1956, ch. 327, title II, §203, 70 Stat. 199, provided for 
 
 #### Effective Date of Repeal
 
-Repeal effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Repeal effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 

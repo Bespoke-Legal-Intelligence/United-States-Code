@@ -30,7 +30,7 @@ The Commission shall be composed of 10 members, as follows:
 
 #### (d) Terms
 
-The members appointed under paragraphs (3) and (4) shall be appointed for terms of 4 years. A member of the Commission appointed for a definite term may serve after the expiration of the member's term until a successor is appointed. A vacancy in the Commission shall be filled in the same manner in which the original appointment was made and shall be filled within 60 days after the expiration of the term.
+The members appointed under paragraphs (3) and (4) shall be appointed for terms of 4 years. A member of the Commission appointed for a definite term may serve after the expiration of the member's term until a successor is appointed. Avacancy in the Commission shall be filled in the same manner in which the original appointment was made and shall be filled within 60 days after the expiration of the term.
 
 #### (e) Chair
 
@@ -46,7 +46,7 @@ Members of the Commission shall serve without compensation as such, but the Secr
 
 #### (h) Chapter 10 of title 5
 
-Except with respect to the provisions of section 1013(b) of title 5, and except as otherwiseprovided in this subchapter, the provisions of chapter 10 of title 5 shall apply to the Commission.
+Except with respect to the provisions of section 1013(b) of title 5, and except as otherwise provided in this subchapter, the provisions of chapter 10 of title 5 shall apply to the Commission.
 
 #### (i) Termination
 

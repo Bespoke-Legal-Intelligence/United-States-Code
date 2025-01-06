@@ -46,7 +46,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (G) Board allocation
 
-&emsp;&emsp;The producer and importer representation on the Board shall be allocated on the basis of 2 producer members and 1 importer member from the district east of the Mississippi River and 1 producer member and 2 importer members from the district west of the Mississippi River.
+&emsp;&emsp;The producer and importer representation on the Board shall be allocated on the basisof 2 producer members and 1 importer member from the district east of the Mississippi River and 1 producer member and 2 importer members from the district west of the Mississippi River.
 
 #### (3) Alternates
 
@@ -198,7 +198,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 #### (2) By others
 
-&emsp;So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under thischapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
+&emsp;So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under this chapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
 
 &emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
 

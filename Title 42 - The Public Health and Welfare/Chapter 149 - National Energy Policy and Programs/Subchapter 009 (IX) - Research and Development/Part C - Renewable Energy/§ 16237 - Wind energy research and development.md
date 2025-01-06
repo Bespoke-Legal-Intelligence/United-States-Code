@@ -158,7 +158,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) Wind power plant siting, performance, operations, and security.
 
-&emsp;&emsp;&emsp;(ii) New materials and designs relating to all hardware, software, and components of wind energy technologies, including technologies and strategies that reduce the use of energy, water, critical materials, and other commodities that are determined to be vulnerable to disruption.
+&emsp;&emsp;&emsp;(ii) New materials and designs relating to all hardware, software, and components of wind energy technologies, includingtechnologies and strategies that reduce the use of energy, water, critical materials, and other commodities that are determined to be vulnerable to disruption.
 
 &emsp;&emsp;&emsp;(iii) Advanced wind energy manufacturing and installation technologies and practices, including materials, processes, such as onsite or near site manufacturing, and design.
 
@@ -200,7 +200,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) Reducing market barriers, including non-hardware and information-based barriers, to the adoption of wind energy technologies, such as impacts on, or challenges relating to—
 
-&emsp;&emsp;&emsp;&emsp;(I) distributed wind technologies, including the development of best practices, models, and voluntary streamlined processes for local siting and permittingof distributed wind energy systems to reduce costs;
+&emsp;&emsp;&emsp;&emsp;(I) distributed wind technologies, including the development of best practices, models, and voluntary streamlined processes for local siting and permitting of distributed wind energy systems to reduce costs;
 
 &emsp;&emsp;&emsp;&emsp;(II) airspace;
 

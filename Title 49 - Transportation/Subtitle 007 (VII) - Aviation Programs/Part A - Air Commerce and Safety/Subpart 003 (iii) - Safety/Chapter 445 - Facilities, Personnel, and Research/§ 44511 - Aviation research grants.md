@@ -34,7 +34,7 @@ Airport Cooperative Research Program.—
 
 Establishment.—The Secretary of Transportation shall maintain an airport cooperative research program to—
 
-&emsp;&emsp;(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are notbeing adequately addressed by existing Federal research programs; and
+&emsp;&emsp;(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are not being adequately addressed by existing Federal research programs; and
 
 &emsp;&emsp;(B) fund research to address those problems.
 

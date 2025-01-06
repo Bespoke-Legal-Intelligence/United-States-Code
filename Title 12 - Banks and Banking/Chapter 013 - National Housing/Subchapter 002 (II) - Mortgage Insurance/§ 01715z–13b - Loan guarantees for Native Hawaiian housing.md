@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (3) Payment on loans made in good faith
 
-&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of avalid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
+&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
 
 #### (i) Payment under guarantee
 
@@ -330,7 +330,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) Requirement of appropriations
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent, or in such amounts as are, or have been, provided in appropriations Acts, without regard to the fiscal year for which such amounts were appropriated.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent, or in such amounts as are, or have been, provided in appropriationsActs, without regard to the fiscal year for which such amounts were appropriated.
 
 #### (B) Limitations on costs of guarantees
 

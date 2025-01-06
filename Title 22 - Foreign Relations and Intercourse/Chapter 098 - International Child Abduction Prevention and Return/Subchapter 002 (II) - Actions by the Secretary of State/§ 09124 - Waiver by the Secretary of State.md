@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), the Secretary of State may waive the application of any of the actions described in subsections (d) and (e) of section 9122 of this title with respect to a country if the Secretary determines and notifies the appropriate congressional committees that—
+Subject to subsection (b), the Secretary of State may waive the application of any of the actions described in subsections (d) and (e) ofsection 9122 of this title with respect to a country if the Secretary determines and notifies the appropriate congressional committees that—
 
 &emsp;(1) the government of such country—
 

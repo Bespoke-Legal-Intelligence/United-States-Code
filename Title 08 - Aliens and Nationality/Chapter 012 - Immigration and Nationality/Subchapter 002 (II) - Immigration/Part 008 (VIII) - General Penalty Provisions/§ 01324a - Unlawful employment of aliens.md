@@ -68,7 +68,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (A) In general
 
-&emsp;&emsp;The person or entity must attest, under penalty of perjury and on a form designated or established by the Attorney General by regulation, that it has verified that the individual is not an unauthorized alien by examining—
+&emsp;&emsp;The person or entity must attest, under penalty of perjury and on a form designatedor established by the Attorney General by regulation, that it has verified that the individual is not an unauthorized alien by examining—
 
 &emsp;&emsp;&emsp;(i) a document described in subparagraph (B), or
 
@@ -96,7 +96,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 &emsp;&emsp;&emsp;(i) social security account number card (other than such a card which specifies on the face that the issuance of the card does not authorize employment in the United States); or
 
-&emsp;&emsp;&emsp;(ii) other documentation evidencing authorization of employment in the UnitedStates which the Attorney General finds, by regulation, to be acceptable for purposes of this section.
+&emsp;&emsp;&emsp;(ii) other documentation evidencing authorization of employment in the United States which the Attorney General finds, by regulation, to be acceptable for purposes of this section.
 
 #### (D) Documents establishing identity of individual
 
@@ -134,7 +134,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (5) Limitation on use of attestation form
 
-&emsp;A form designated or established by the Attorney General under this subsection and any information contained in or appended to such form, may not be used for purposes other than for enforcement of this chapter and sections 1001, 1028, 1546, and 1621 of title 18.
+&emsp;A form designated or established by the Attorney General under this subsection and anyinformation contained in or appended to such form, may not be used for purposes other than for enforcement of this chapter and sections 1001, 1028, 1546, and 1621 of title 18.
 
 #### (6) Good faith compliance
 
@@ -310,7 +310,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) not less than $2,000 and not more than $5,000 for each such alien in the case of a person or entity previously subject to one order under this paragraph, or
 
-&emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the caseof a person or entity previously subject to more than one order under this paragraph; and
+&emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the case of a person or entity previously subject to more than one order under this paragraph; and
 
 &emsp;&emsp;(B) may require the person or entity—
 
@@ -364,7 +364,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Documentation
 
-&emsp;In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall providethat any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
+&emsp;In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall provide that any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
 
 #### (2) Preemption
 
@@ -522,7 +522,7 @@ In General.—The Secretary of Homeland Security shall conduct 3 pilot programs 
 
 "(b)
 
-Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015 \[see bracketed notes set out below\].
+Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015 \[see bracketed notes below following this note\].
 
 "(c)
 
@@ -756,7 +756,7 @@ Nonconfirmation.—If the person or other entity receives a tentative nonconfirm
 
 &emsp;&emsp;&emsp;"(ii)
 
-No contest.—If the individual does not contest the nonconfirmation within the time period specified in section 404(c) of this division, thenonconfirmation shall be considered final. The person or entity shall then record on the I–9 or similar form an appropriate code which has been provided under the system to indicate a tentative nonconfirmation.
+No contest.—If the individual does not contest the nonconfirmation within the time period specified in section 404(c) of this division, the nonconfirmation shall be considered final. The person or entity shall then record on the I–9 or similar form an appropriate code which has been provided under the system to indicate a tentative nonconfirmation.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -808,7 +808,7 @@ Authorization to limit employer participation.—The Secretary of Homeland Secur
 
 &emsp;"(3)
 
-No confirmation required for certain individuals attesting to u.s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—
+No confirmation required for certain individuals attesting to u.s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to UnitedStates citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—
 
 &emsp;&emsp;"(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and
 
@@ -890,7 +890,7 @@ Design and Operation of System.—The confirmation system shall be designed and 
 
 "(e)
 
-Responsibilities of the Commissioner of Social Security.—As part of the confirmation system, the Commissioner of Social Security, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided regarding an individual whose identity and employment eligibility must be confirmed, the correspondence of the name and number, and whether the individual has presented a social security account number that is not valid for employment. The Commissioner shall not disclose or release social security information (other than such confirmation or nonconfirmation).
+Responsibilities of the Commissioner of Social Security.—As part of the confirmation system, the Commissioner of Social Security, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided regarding an individual whose identity and employment eligibility must be confirmed, the correspondence of the name and number, and whether the individual haspresented a social security account number that is not valid for employment. The Commissioner shall not disclose or release social security information (other than such confirmation or nonconfirmation).
 
 "(f)
 
@@ -932,25 +932,27 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 &emsp;"(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
 
-\[Pub. L. 117–328, div. O, title III, §301, Dec. 29, 2022, 136 Stat. 5227, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\]shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."\]
+\[Pub. L. 118–47, div. G, title I, §103, Mar. 23, 2024, 138 Stat. 856, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2024' for 'September 30, 2015'."\]
 
-\[Pub. L. 117–103, div. O, title II, §201, Mar. 15, 2022, 136 Stat. 787, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2022' for 'September 30, 2015'."\]
+\[Pub. L. 117–328, div. O, title III, §301, Dec. 29, 2022, 136 Stat. 5227, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."\]
 
-\[Pub. L. 116–260, div. O, title I, §101, Dec. 27, 2020, 134 Stat. 2148, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2015'."\]
+\[Pub. L. 117–103, div. O, title II, §201, Mar. 15, 2022, 136 Stat. 787, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2022' for 'September 30, 2015'."\]
 
-\[Pub. L. 116–94, div. I, title I, §101, Dec. 20, 2019, 133 Stat. 3019, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2015'."\]
+\[Pub. L. 116–260, div. O, title I, §101, Dec. 27, 2020, 134 Stat. 2148, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2015'."\]
 
-\[Pub. L. 116–6, div. H, title I, §101, Feb. 15, 2019, 133 Stat. 475, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2019' for 'September 30, 2015'."\]
+\[Pub. L. 116–94, div. I, title I, §101, Dec. 20, 2019, 133 Stat. 3019, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2015'."\]
 
-\[Pub. L. 115–141, div. M, title II, §201, Mar. 23, 2018, 132 Stat. 1049, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."\]
+\[Pub. L. 116–6, div. H, title I, §101, Feb. 15, 2019, 133 Stat. 475, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2019' for 'September 30, 2015'."\]
 
-\[Pub. L. 115–31, div. F, title V, §539, May 5, 2017, 131 Stat. 432, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
+\[Pub. L. 115–141, div. M, title II, §201, Mar. 23, 2018, 132 Stat. 1049, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."\]
 
-\[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
+\[Pub. L. 115–31, div. F, title V, §539, May 5, 2017, 131 Stat. 432, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
 
-\[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting \['\]September 30, 2009\['\] for 'the 11-year period beginning on the first day the pilot program is in effect'."\]
+\[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
 
-\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
+\[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting \['\]September 30, 2009\['\] for 'the 11-year period beginning on the first day the pilot program is in effect'."\]
+
+\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of div. C of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
 
 #### Report on Additional Authority or Resources Needed for Enforcement of Employer Sanctions Provisions
 
@@ -1042,7 +1044,7 @@ I find, therefore, that adherence to the general policy of contracting only with
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including subsection 121(a) of title 40 and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agenciesshould not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the "INA employment provisions") prohibiting the unlawful employment of aliens.
+Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the "INA employment provisions") prohibiting the unlawful employment of aliens.
 
 (b) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies may not enter into contracts with employers that do not use the best available means to confirm the work authorization of their workforce.
 

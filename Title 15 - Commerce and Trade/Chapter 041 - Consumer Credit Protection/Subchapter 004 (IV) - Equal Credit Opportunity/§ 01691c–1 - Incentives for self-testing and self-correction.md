@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this section may be construed to prevent an applicant, department, or agency from obtaining or using a report or results of any self-test in any proceeding or civil action in which a violation of this subchapter is alleged, or in any examination or investigation of compliance with this subchapter if—
+&emsp;No provision of this section may be construed to prevent an applicant, department, oragency from obtaining or using a report or results of any self-test in any proceeding or civil action in which a violation of this subchapter is alleged, or in any examination or investigation of compliance with this subchapter if—
 
 &emsp;&emsp;(A) the creditor or any person with lawful access to the report or results—
 

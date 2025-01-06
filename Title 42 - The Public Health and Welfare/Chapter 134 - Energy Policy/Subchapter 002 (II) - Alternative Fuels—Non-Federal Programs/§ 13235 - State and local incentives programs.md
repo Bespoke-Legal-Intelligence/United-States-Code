@@ -64,7 +64,7 @@
 
 &emsp;(C) such other factors as the Secretary considers appropriate.
 
-(3) The Secretary, in consultation with the Administrator of General Services, shall provideassistance to States in procuring alternative fueled vehicles, including coordination with Federal procurements of such vehicles.
+(3) The Secretary, in consultation with the Administrator of General Services, shall provide assistance to States in procuring alternative fueled vehicles, including coordination with Federal procurements of such vehicles.
 
 (4) The Secretary may not approve a State plan submitted under subsection (a) unless the State agrees to provide at least 20 percent of the cost of activities for which assistance is provided under paragraph (1).
 

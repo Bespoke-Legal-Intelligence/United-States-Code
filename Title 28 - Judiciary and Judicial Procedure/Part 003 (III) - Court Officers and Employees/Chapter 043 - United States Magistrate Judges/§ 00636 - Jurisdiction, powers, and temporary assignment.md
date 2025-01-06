@@ -20,7 +20,7 @@
 
 &emsp;(C) the magistrate judge shall file his proposed findings and recommendations under subparagraph (B) with the court and a copy shall forthwith be mailed to all parties.
 
-> Within fourteen days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court. A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate judge. The judge may also receive further evidence or recommit the matter to the magistrate judge with instructions.
+> Within fourteen days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court. A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify, in whole or inpart, the findings or recommendations made by the magistrate judge. The judge may also receive further evidence or recommit the matter to the magistrate judge with instructions.
 
 (2) A judge may designate a magistrate judge to serve as a special master pursuant to the applicable provisions of this title and the Federal Rules of Civil Procedure for the United States district courts. A judge may designate a magistrate judge to serve as a special master in any civil case, upon consent of the parties, without regard to the provisions of rule 53(b) of the Federal Rules of Civil Procedure for the United States district courts.
 
@@ -64,7 +64,7 @@ Civil contempt authority in civil consent and misdemeanor cases.—In any case i
 
 &emsp;(5)
 
-Criminal contempt penalties.—The sentence imposed by a magistrate judge for any criminal contempt provided for in paragraphs (2) and (3) shall not exceed the penalties for a Class C misdemeanor as set forth in sections 3581(b)(8) and 3571(b)(6) of title 18.
+Criminal contempt penalties.—The sentence imposed by a magistrate judge for anycriminal contempt provided for in paragraphs (2) and (3) shall not exceed the penalties for a Class C misdemeanor as set forth in sections 3581(b)(8) and 3571(b)(6) of title 18.
 
 &emsp;(6)
 
@@ -96,7 +96,7 @@ Appeals of magistrate judge contempt orders.—The appeal of an order of contemp
 
 #### Historical and Revision Notes
 
-<i>Prior jurisdiction, powers, and procedure provisions in section 632</i>.—Based on sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation (May 7, 1894, ch. 72, §5, 28 Stat. 74; Apr. 20, 1904, ch. 1400, §6, 33 Stat. 188; Mar. 2, 1907, ch. 2516, §§1, 2, 34 Stat. 1218; Mar. 3, 1911, ch. 230, 36 Stat. 1086; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Apr. 19, 1930, ch. 200, §6, 4 Stat. 228; May 2, 1932, ch. 155, §3, 47 Stat. 145; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§5, 6, 50 Stat. 702; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Apr. 23, 1946, ch. 202, §2, 60 Stat. 120; June 24, 1946, ch. 463, §2, 60 Stat. 303).
+<i>Prior jurisdiction, powers, and procedure provisions in section 632</i>.—Based on sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation (May 7, 1894, ch. 72, §5, 28 Stat. 74; Apr. 20, 1904, ch. 1400, §6, 33 Stat. 188; Mar. 2, 1907, ch. 2516, §§1, 2, 34 Stat. 1218; Mar. 3, 1911, ch. 230, 36 Stat. 1086; Mar. 3, 1911, ch.231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Apr. 19, 1930, ch. 200, §6, 4 Stat. 228; May 2, 1932, ch. 155, §3, 47 Stat. 145; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§5, 6, 50 Stat. 702; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Apr. 23, 1946, ch. 202, §2, 60 Stat. 120; June 24, 1946, ch. 463, §2, 60 Stat. 303).
 
 Section consolidates provisions of sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., relating to jurisdiction and powers of park commissioners with necessary changes in arrangement and phraseology. For other provisions of such sections, see Distribution Table.
 
@@ -164,7 +164,7 @@ Subsec. (d). Pub. L. 104–317, §207(2), struck out ", and for the taking and 
 
 Subsec. (f). Pub. L. 104–317, §201, substituted "subsection (a), (b), or (c)" for "subsection (a) or (b)" in first sentence.
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–650 substituted "the availability of a magistrate to exercise" for "their right to consent to the exercise of" in first sentence and amended third sentence generally. Prior to amendment, third sentence read as follows: "Thereafter, neither the district judge nor the magistrate shall attempt to persuade or induce any party to consent to reference of any civil matter to a magistrate."
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–650 substituted "the availability of a magistrate to exercise" for "theirright to consent to the exercise of" in first sentence and amended third sentence generally. Prior to amendment, third sentence read as follows: "Thereafter, neither the district judge nor the magistrate shall attempt to persuade or induce any party to consent to reference of any civil matter to a magistrate."
 
 <b>1988</b>—Subsec. (a)(4). Pub. L. 100–690 added par. (4).
 

@@ -46,7 +46,7 @@ delegate, as appropriate, to the Under Secretary for Arms Control and Internatio
 
 make, promulgate, issue, rescind, and amend such rules and regulations as may be necessary or desirable to the exercise of any authority conferred upon the Secretary of State by the provisions of this chapter.
 
-(Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977, 91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
+(Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977,91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +64,7 @@ In subsec. (a), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 Subsec. (a). Pub. L. 105–277, §1223(13)(B), (C), substituted "Department of State" for "Agency" and "Secretary of State" for "Director", and struck out "It is the intent of this section that the Director rely upon the Department of State for general administrative services in the United States and abroad to the extent agreed upon between the Secretary of State and the Director." after "may appear desirable."
 
-Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted "Secretary of State" for "Director" and struck out "appoint officers and employees, including attorneys, for the Agency inaccordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities," before "appoint and fix".
+Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted "Secretary of State" for "Director" and struck out "appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities," before "appoint and fix".
 
 Subsec. (b)(1). Pub. L. 105–277, §1223(13)(D)(ii), substituted "subsection" for "exception" in introductory provisions.
 

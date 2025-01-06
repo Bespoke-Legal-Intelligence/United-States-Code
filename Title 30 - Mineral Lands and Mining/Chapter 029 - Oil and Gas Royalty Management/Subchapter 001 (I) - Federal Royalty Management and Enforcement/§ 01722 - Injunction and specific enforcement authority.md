@@ -2,7 +2,7 @@
 
 #### (a) Civil action by Attorney General
 
-In addition to any other remedy under this chapter or any mineral leasing law, the Attorney General of the United States or his designee may bring a civil action in a district court of the United States, which shall have jurisdiction over such actions—
+In addition to any other remedy under this chapter or any mineral leasing law, the Attorney General of the United States or his designeemay bring a civil action in a district court of the United States, which shall have jurisdiction over such actions—
 
 &emsp;(1) to restrain any violation of this chapter; or
 

@@ -34,7 +34,7 @@ This section shall apply in the case of postmarks not made by the United States 
 
 #### (2) Certified mail; electronic filing
 
-&emsp;The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail and electronic filing.
+&emsp;The Secretary is authorized to provide by regulations the extent to which the provisionsof paragraph (1) with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail and electronic filing.
 
 #### (d) Exceptions
 

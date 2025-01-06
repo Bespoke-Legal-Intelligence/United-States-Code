@@ -26,7 +26,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of this section and the grant programs described in this subchapter, the term "nonprofit", relating to an entity, means the entity is described in section 501(c)(3) of title 26 and is exempt from taxation under section 501(a) of such title.
+&emsp;&emsp;For purposes of this section and the grant programs described in this subchapter, theterm "nonprofit", relating to an entity, means the entity is described in section 501(c)(3) of title 26 and is exempt from taxation under section 501(a) of such title.
 
 #### (B) Prohibition
 
@@ -40,7 +40,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (A) Limitation
 
-&emsp;&emsp;No amounts authorized to be appropriated under this subchapter may be used to host or support any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate AssistantAttorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;No amounts authorized to be appropriated under this subchapter may be used to host or support any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (B) Written approval
 

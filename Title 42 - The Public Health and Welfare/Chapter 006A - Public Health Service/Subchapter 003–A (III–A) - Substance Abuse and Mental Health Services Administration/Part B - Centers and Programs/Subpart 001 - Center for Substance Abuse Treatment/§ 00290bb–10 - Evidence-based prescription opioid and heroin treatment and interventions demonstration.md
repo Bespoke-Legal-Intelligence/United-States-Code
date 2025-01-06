@@ -4,7 +4,7 @@
 
 #### (1) Authority to award grants
 
-&emsp;The Secretary shall award grants, contracts, or cooperative agreements to State substance use disorder agencies, units of local government, nonprofit organizations, and Indian Tribes and Tribal organizations (as defined in section 5304 of title 25) that have a high rate, or have had a rapid increase, in the use of heroin or other opioids, in order to permit such entities to expand activities, including an expansion in the availability of evidence-based medication-assisted treatment and other clinically appropriate services, with respect to the treatment of substance use disorders in the specific geographical areas of such entities where there is a high rate or rapid increase in the use of heroin or other opioids, such as in rural areas.
+&emsp;The Secretary shall award grants, contracts, or cooperative agreements to State substance use disorder agencies, units of local government, nonprofit organizations, and Indian Tribes and Tribal organizations (as defined in section 5304 of title 25) that have a high rate, or have had a rapid increase, in the use of heroin or other opioids, in order to permit suchentities to expand activities, including an expansion in the availability of evidence-based medication-assisted treatment and other clinically appropriate services, with respect to the treatment of substance use disorders in the specific geographical areas of such entities where there is a high rate or rapid increase in the use of heroin or other opioids, such as in rural areas.
 
 #### (2) Nature of activities
 
@@ -38,7 +38,7 @@ In administering grants, contracts, and cooperative agreements under subsection 
 
 To carry out this section, there are authorized to be appropriated $25,000,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §514B, as added Pub. L. 114–198, title III, §301, July 22, 2016, 130Stat. 717; amended Pub. L. 117–328, div. FF, title I, §1213, Dec. 29, 2022, 136 Stat. 5661.)
+(July 1, 1944, ch. 373, title V, §514B, as added Pub. L. 114–198, title III, §301, July 22, 2016, 130 Stat. 717; amended Pub. L. 117–328, div. FF, title I, §1213, Dec. 29, 2022, 136 Stat. 5661.)
 
 #### <b>Editorial Notes</b>
 

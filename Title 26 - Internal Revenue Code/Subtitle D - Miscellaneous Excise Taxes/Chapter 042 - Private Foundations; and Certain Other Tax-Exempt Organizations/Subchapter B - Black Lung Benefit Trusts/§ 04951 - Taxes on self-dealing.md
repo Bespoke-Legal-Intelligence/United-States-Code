@@ -4,7 +4,7 @@
 
 #### (1) On self-dealer
 
-&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a trust described in section 501(c)(21). The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a trustee acting only as a trustee of the trust) who participates in the act of self-dealing.
+&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person anda trust described in section 501(c)(21). The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a trustee acting only as a trustee of the trust) who participates in the act of self-dealing.
 
 #### (2) On trustee
 

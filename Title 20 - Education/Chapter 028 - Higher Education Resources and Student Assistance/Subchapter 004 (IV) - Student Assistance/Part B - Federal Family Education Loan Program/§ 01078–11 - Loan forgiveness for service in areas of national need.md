@@ -364,7 +364,7 @@ Subsec. (g). Pub. L. 111–148, §5205(b)(2), added par. (1) and redesignated fo
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -378,7 +378,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
 
-\[For definition of "Allied Health Loan Forgiveness Program" as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
+\[For definition of "Allied Health Loan Forgiveness Program" as used in section 5205(a) of Pub. L. 111–148,set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

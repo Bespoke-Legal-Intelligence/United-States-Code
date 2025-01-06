@@ -174,7 +174,7 @@ Secretary.—The term 'Secretary' means the Secretary of Commerce.
 
 "(a)
 
-Identification of Spectrum.—Not later than January 1, 2022, the Secretary shall submit to the President and to the Commission a report identifying 30 megahertz of electromagnetic spectrum (in bands of not less than 10 megahertz of contiguous frequencies) below the frequency of 3 gigahertz (except for the spectrum between the frequencies of 1675 megahertz and 1695 megahertz) for reallocation from Federal use to non-Federal use or shared Federal and non-Federal use, or a combination thereof.
+Identification of Spectrum.—Not later than January 1, 2022, the Secretary shall submit to thePresident and to the Commission a report identifying 30 megahertz of electromagnetic spectrum (in bands of not less than 10 megahertz of contiguous frequencies) below the frequency of 3 gigahertz (except for the spectrum between the frequencies of 1675 megahertz and 1695 megahertz) for reallocation from Federal use to non-Federal use or shared Federal and non-Federal use, or a combination thereof.
 
 "(b)
 
@@ -210,7 +210,7 @@ Rule of Construction.—Nothing in this section shall be construed to affect any
 
 #### Study and Report on Current and Future Spectrum Use
 
-Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part that the Administrator would, after consultation with other appropriate agencies, complete and submit to Congress not later than twelve months after Dec. 21, 2000, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure and also provided that within six months after therelease of this study, the Chairman of the Federal Ccommunication Commission was to submit a report to Congress on actions that could be taken by the Commission to address any needs identified in the study.
+Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part that the Administrator would, after consultation with other appropriate agencies, complete and submit to Congress not later than twelve months after Dec. 21, 2000, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure and also provided that within six months after the release of this study, the Chairman of the Federal Ccommunication Commission was to submit a report to Congress on actions that could be taken by the Commission to address any needs identified in the study.
 
 #### Report on Progress on Spectrum Sharing
 
@@ -244,5 +244,5 @@ Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, pr
 
 #### Assessment of Electromagnetic Spectrum Reallocation
 
-Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
+Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, required the Secretary of Commerce to convene aninteragency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
 

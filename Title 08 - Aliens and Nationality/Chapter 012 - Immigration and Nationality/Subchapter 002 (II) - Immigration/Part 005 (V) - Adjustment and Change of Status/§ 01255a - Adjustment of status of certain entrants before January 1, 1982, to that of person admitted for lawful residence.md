@@ -12,7 +12,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Application within 30 days of show-cause order
 
-&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of anorder to show cause issued under section 1252 of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
+&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of an order to show cause issued under section 1252 of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
 
 #### (C) Information included in application
 
@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative andother expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -234,7 +234,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;&emsp;&emsp;(I) Paragraphs (2)(A) and (2)(B) (relating to criminals).
 
-&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offenseof simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(III) Paragraph (3) (relating to security and related grounds).
 
@@ -386,7 +386,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (i) Limitation to emergency services and services for pregnant women
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of title XIX of the Social Security Act \[42 U.S.C.1396 et seq.\] (including subparagraphs (B) and (C) of section 1902(a)(10) of such Act \[42 U.S.C. 1396a(a)(10)(B), (C)\]), aliens who, but for subparagraph (A), would be ineligible for medical assistance under paragraph (1), are only eligible for such assistance with respect to—
+&emsp;&emsp;&emsp;Notwithstanding any provision of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (including subparagraphs (B) and (C) of section 1902(a)(10) of such Act \[42 U.S.C. 1396a(a)(10)(B), (C)\]), aliens who, but for subparagraph (A), would be ineligible for medical assistance under paragraph (1), are only eligible for such assistance with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) emergency services (as defined for purposes of section 1916(a)(2)(D) of the Social Security Act \[42 U.S.C. 1396o(a)(2)(D)\]), and
 
@@ -448,7 +448,7 @@ Section 404 of the Immigration Reform and Control Act of 1986, referred to in su
 
 Section 1105a of this title, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 
-The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV ofchapter 7 of Title 42, The Public Health and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h)(4)(I), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of Title 42.
 
@@ -476,7 +476,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
+A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouseand children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
 
@@ -560,7 +560,7 @@ Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted "or for the prep
 
 Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end "Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act)."
 
-Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out "by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section" after "permanent residence".
+Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out "by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residencestatus under subsection (a) of this section" after "permanent residence".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -682,7 +682,7 @@ Pub. L. 100–204, title IX, §902, Dec. 22, 1987, 101 Stat. 1400, provided that
 
 "(a)
 
-Adjustment of Status.—The status of any alien who is a national of a foreign country the nationals of which were provided (or allowed to continue in) 'extended voluntary departure' by the Attorney General on the basis of a nationality group determination at any time during the 5-year period ending on November 1, 1987, shall be adjusted by the Attorney General tothat of an alien lawfully admitted for temporary residence if the alien—
+Adjustment of Status.—The status of any alien who is a national of a foreign country the nationals of which were provided (or allowed to continue in) 'extended voluntary departure' by the Attorney General on the basis of a nationality group determination at any time during the 5-year period ending on November 1, 1987, shall be adjusted by the Attorney General to that of an alien lawfully admitted for temporary residence if the alien—
 
 &emsp;"(1) applies for such adjustment within two years after the date of the enactment of this Act \[Dec. 22, 1987\];
 
@@ -716,7 +716,7 @@ Pub. L. 99–603, title II, §202, Nov. 6, 1986, 100 Stat. 3404, as amended by P
 
 #### State Legalization Impact-Assistance Grants
 
-Pub. L. 99–603, title II, §204, Nov. 6, 1986, 100 Stat. 3405, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
+Pub. L. 99–603, title II, §204, Nov. 6, 1986, 100 Stat. 3405, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
 
 #### Application of Certain State Assistance Provisions
 

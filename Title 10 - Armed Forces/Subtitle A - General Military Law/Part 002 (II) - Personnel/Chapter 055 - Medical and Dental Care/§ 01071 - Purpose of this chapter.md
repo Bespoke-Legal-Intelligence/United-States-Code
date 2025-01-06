@@ -54,6 +54,190 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 Pub. L. 89–614, §1, Sept. 30, 1966, 80 Stat. 862, provided: "That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the 'Military Medical Benefits Amendments of 1966'."
 
+#### Program To Prevent Perinatal Mental Health Conditions in Pregnant and Postpartum Members of the Armed Forces
+
+Pub. L. 118–159, div. A, title VII, §705, Dec. 23, 2024, 138 Stat. 1943, provided that:
+
+"(a)
+
+Requirement.—The Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall carry out a program to improve clinical and nonclinical services targeting mental health conditions in pregnant and postpartum members of the Armed Forces and spouses of members during the perinatal period.
+
+"(b)
+
+Elements.—The Secretary shall ensure that the program under subsection (a) includes the following:
+
+&emsp;"(1) Access to support resources during the perinatal period, including—
+
+&emsp;&emsp;"(A) identification of symptoms of perinatal mental health conditions, brief intervention by primary care providers, referral to care, and treatment;
+
+&emsp;&emsp;"(B) targeted nonmedical counseling services through the Department of Defense Military and Family Life Counseling Program of the Office of Military Family Readiness Policy under section 1781 of title 10, United States Code;
+
+&emsp;&emsp;"(C) existing parenting resiliency programs of the military departments;
+
+&emsp;&emsp;"(D) adherence to clinical practice guidelines in military medical treatment facilities in support of members of the uniformed services and dependents with a diagnosed mental health condition requiring clinical intervention, including through primarycare services and women's health clinics, in collaboration with behavioral health services; and
+
+&emsp;&emsp;"(E) prenatal and postnatal support programs at military medical treatment facilities that provide group counseling modeled after best clinical practices, such as the Centering Pregnancy program.
+
+&emsp;"(2) A process for informing pregnant and postpartum members of the Armed Forces and spouses of members of nonmedical and clinical support services during the perinatal period.
+
+&emsp;"(3) A communications strategy to increase awareness of the services available under the program.
+
+"(c)
+
+Report.—Not later than December 31, 2025, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the program under subsection (a) that includes the following:
+
+&emsp;"(1) A description of the range of activities included in the program and data assessing the effectiveness or shortcomings of such activities.
+
+&emsp;"(2) How resources are allocated for the purpose of establishing and maintaining perinatal support programs at military medical treatment facilities.
+
+&emsp;"(3) Measurements for adherence to evidence-based protocols at military medical treatment facilities with respect to identifying potential mental health issues.
+
+&emsp;"(4) Assessment of current training and credentials required for health care providers providing perinatal services and consideration for further certifications, such as the Perinatal Mental Health Certification.
+
+&emsp;"(5) Feasibility and advisability of adding specialized perinatal mental health support services via a helpline through Military One Source.
+
+&emsp;"(6) Recommendations for administrative or legislative changes to improve the effectiveness of the program.
+
+"(d)
+
+Perinatal Period Defined.—In this section, the term 'perinatal period' means the period beginning with pregnancy through one year following childbirth."
+
+#### Establishment of Defense Intrepid Network for Traumatic Brain Injury and Brain Health as Program of Record
+
+Pub. L. 118–159, div. A, title VII, §721, Dec. 23, 2024, 138 Stat. 1951, provided that:
+
+"(a)
+
+In General.—Not later than January 1, 2026, the Secretary of Defense shall establish the Defense Intrepid Network for Traumatic Brain Injury and Brain Health (in this section referred to as the 'Network') headquartered at the National Intrepid Center of Excellence as a program of record subject to milestone reviews and compliance with the requirements under this section.
+
+"(b)
+
+Duties.—The duties of the Network are as follows:
+
+&emsp;"(1) To provide clinical care to prevent, diagnose, treat, and rehabilitate members of the Armed Forces with traumatic brain injury, post-traumatic stress disorder, symptoms from blast overpressure or blast exposure, and other mental health conditions.
+
+&emsp;"(2) To promote standardization of care among the 10 Intrepid Spirit Centers throughout the continental United States, brain health clinics in Alaska and Germany, and other sites as designated by the Director of the Defense Health Agency as being a part of the long-term brain health strategy of the Department of Defense.
+
+&emsp;"(3) To support and conduct research and education on traumatic brain injury, post-traumatic stress disorder, blast overpressure or blast exposure, and other mental health conditions.
+
+"(c)
+
+Annual Briefing.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], and annually thereafter for a period of five years, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that shall include, for the year covered by the briefing—
+
+&emsp;"(1) the number of individuals to whom the Network has provided services;
+
+&emsp;"(2) the number of individuals who return to active duty in the Armed Forces after receiving services from the Network, and the stage in their career at which they seek treatment at the Network;
+
+&emsp;"(3) the number of individuals whose families are able to participate in programs provided by the Network; and
+
+&emsp;"(4) the number of individuals on a waitlist for treatment at the Network and the average period those individuals are on the waitlist."
+
+#### Brain Health and Trauma Program
+
+Pub. L. 118–159, div. A, title VII, §722, Dec. 23, 2024, 138 Stat. 1951, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Defense shall establish an intensive comprehensive brain health and trauma program to—
+
+&emsp;"(1) provide multidisciplinary specialist evaluations, treatment initiation, and aftercare for members of the Armed Forces and dependents of members; and
+
+&emsp;"(2) make evidence-based improvements in such evaluations, treatment, and aftercare.
+
+"(b)
+
+Program Elements.—The Secretary shall ensure that the program under subsection (a) includes the following:
+
+&emsp;"(1) Initiatives of the Defense Health Agency that provide coordinated evaluations, treatment, and aftercare for traumatic brain injuries and related conditions, that incorporates specialized evaluations, innovative and evidence-based treatments, and comprehensive follow-up care.
+
+&emsp;"(2) Collaboration with private sector nonprofit health care organizations involved in innovative clinical activities in brain health and trauma care, including transitional and residential brain injury treatment programs.
+
+&emsp;"(3) One or more pilot programs for demonstrating the effectiveness of intensive outpatient multidisciplinary specialist treatment and care coordination.
+
+&emsp;"(4) Incorporation of evidence-based therapy with complementary and alternative medicine approaches.
+
+&emsp;"(5) Thorough evaluations of the effectiveness of innovative activities for diagnosis, treatment, and aftercare of brain trauma and promotion of brain health.
+
+"(c)
+
+Briefing.—Not later than December 31, 2025, the Secretary shall provide to the Armed Services Committees of the Senate and House of Representatives a briefing on the program under subsection (a). Such briefing shall include the following:
+
+&emsp;"(1) A description of the range of activities included in the program and data assessing the effectiveness or shortcomings of such activities.
+
+&emsp;"(2) The scope of each pilot program carried out under subsection (b)(3).
+
+&emsp;"(3) Recommendations for administrative or legislative changes to improve the effectiveness of the program."
+
+#### Blast Overpressure and Traumatic Brain Injury Oversight Strategy and Action Plan
+
+Pub. L. 118–159, div. A, title VII, §724, Dec. 23, 2024, 138 Stat. 1954, provided that:
+
+"(a)
+
+Strategy and Plan Required.—The Secretary of Defense shall develop and implement a traumatic brain injury oversight strategy and action plan that includes, at a minimum, the following:
+
+&emsp;"(1) Assigned roles and responsibilities for the components of the Office of the Secretary of Defense for the mitigation, identification, and treatment of traumatic brain injury and the monitoring and documentation of blast overpressure exposure.
+
+&emsp;"(2) Standardized monitoring, treatment, and referral guidelines for traumatic brain injury programs across all covered Armed Forces.
+
+&emsp;"(3) A review and update of the current brain injury diagnostic tools used by such programs.
+
+&emsp;"(4) Standardized, 72-hour follow-up requirements for all traumatic brain injury patients, including protocols for the treatment and observation during such follow-up appointments.
+
+&emsp;"(5) Oversight and documentation standards to aid in data collection.
+
+"(b)
+
+Implementation.—The Secretary shall implement the oversight strategy and action plan under subsection (a) not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(c)
+
+Submission to GAO.—Upon development of the oversight strategy and action plan under subsection (a), the Secretary shall submit to the Comptroller General of the United States the oversight strategy and action plan.
+
+"(d)
+
+Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means the Army, Navy, Marine Corps, Air Force, and Space Force."
+
+#### Establishment of Requirements Relating to Blast Overpressure Exposure
+
+Pub. L. 118–159, div. A, title VII, §725, Dec. 23, 2024, 138 Stat. 1955, provided that: "Not later than two years after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish—
+
+&emsp;"(1) performance parameters to minimize exposure to blast overpressure when drafting requirements for new weapon systems for the Department of Defense, taking into account the thresholds for blast exposure and overpressure safety identified pursuant to section 735(b)(1) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 1071 note), as amended by section 723;
+
+&emsp;"(2) with respect to contractual agreements entered into by any entity and the Department of Defense as part of the defense weapon acquisition process on or after the date on which such parameters are established, a requirement that the entity shall provide to the Secretary blast overpressure measurements and safety data for a weapon system procured under such agreement that produces blast overpressure that exceeds such thresholds; and
+
+&emsp;"(3) a requirement that any test plan for a new weapon system shall incorporate testing for blast overpressure measurements and safety data."
+
+#### Medical Countermeasures for Overseas Personnel of the Department of Defense for Acute Radiation Syndrome and Thermal Burns
+
+Pub. L. 118–159, div. A, title VII, §734, Dec. 23, 2024, 138 Stat. 1956, provided that:
+
+"(a)
+
+Program Required.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish a program to develop requirements for the procurement, pre-positioning, and maintenance of medical countermeasures approved, cleared, licensed, or authorized by the Food and Drug Administration to diagnose, prevent, and treat acute radiation syndrome and thermal burns for use by covered personnel.
+
+"(b)
+
+Program Specifications.—In carrying out the program required by subsection (a), the Secretary of Defense shall consider, in coordination with the Chairman of the Joint Chiefs of Staff and the commanders of the combatant commands, the following:
+
+&emsp;"(1) The number of covered personnel in areas in which the use of tactical nuclear weapons is a substantial threat.
+
+&emsp;"(2) Peer-reviewed and published scientific studies regarding safety and efficacy of the potential countermeasures described in subsection (a).
+
+&emsp;"(3) Operational requirements of the Department.
+
+&emsp;"(4) Appropriate doctrine, training, and operational plans for effective use of such countermeasures.
+
+&emsp;"(5) A feasible schedule for implementation of the program.
+
+"(c)
+
+Covered Personnel Defined.—In this section, the term 'covered personnel' means—
+
+&emsp;"(1) members of the Armed Forces deployed outside the United States; and
+
+&emsp;"(2) civilian employees of the Department of Defense deployed outside the United States."
+
 #### Accountability for Wounded Warriors Undergoing Disability Evaluation
 
 Pub. L. 117–263, div. A, title VII, §711, Dec. 23, 2022, 136 Stat. 2656, provided that:
@@ -114,7 +298,7 @@ Definitions.—In this section:
 
 #### Brain Health Initiative of Department of Defense
 
-Pub. L. 117–263, div. A, title VII, §735, Dec. 23, 2022, 136 Stat. 2668, provided that:
+Pub. L. 117–263, div. A, title VII, §735, Dec. 23, 2022, 136 Stat. 2668, as amended by Pub. L. 118–159, div. A, title VII, §723, Dec. 23, 2024, 138 Stat. 1952, provided that:
 
 "(a)
 
@@ -128,7 +312,19 @@ Objectives.—The objectives of the Initiative shall be the following:
 
 &emsp;&emsp;"(A) The establishment of a program to monitor cognitive brain health across the Department of Defense, with the goal of detecting any need for cognitive enhancement or restoration resulting from potential brain exposures of members of Armed Forces, to mitigate possible evolution of injury or disease progression.
 
-&emsp;&emsp;"(B) The identification and dissemination of thresholds for blast pressure safety and associated emerging scientific evidence.
+&emsp;&emsp;"(B) In accordance with subsection (c), the identification and dissemination of thresholds for blast exposure and overpressure safety and associated emerging scientific evidence that—
+
+&emsp;&emsp;&emsp;"(i) cover brain injury and impulse noise;
+
+&emsp;&emsp;&emsp;"(ii) measure impact over 24-hour, 72-hour to 96-hour, monthly, annual, and lifetime periods;
+
+&emsp;&emsp;&emsp;"(iii) are designed to prevent cognitive deficits after firing;
+
+&emsp;&emsp;&emsp;"(iv) account for the cumulative impact of firing multiple weapon systems during the same period;
+
+&emsp;&emsp;&emsp;"(v) include minimum safe distances and levels of exposure for observers and instructors; and
+
+&emsp;&emsp;&emsp;"(vi) address shoulder-fired heavy weapons.
 
 &emsp;&emsp;"(C) The modification of high-risk training and operational activities to mitigate the negative effects of repetitive blast exposure.
 
@@ -140,11 +336,57 @@ Objectives.—The objectives of the Initiative shall be the following:
 
 &emsp;&emsp;"(G) The consideration of the findings and recommendations of the report of the National Academies of Science, Engineering, and Medicine titled 'Traumatic Brain Injury: A Roadmap for Accelerating Progress' and published in 2022 (relating to the acceleration of progress in traumatic brain injury research and care), or any successor report, in relation to the activities of the Department relating to brain health, as applicable.
 
+&emsp;&emsp;"(H) The establishment of a standardized treatment program based on interventions that have shown benefit to individuals with brain health issues after a brain injury and the provision of that treatment program to individuals with brain health issues after a brain injury resulting from a potential brain exposure described in subparagraph (A) or high-risk training or occupational activities described in subparagraph (D).
+
+&emsp;&emsp;"(I) The establishment of policies to encourage members of the Armed Forces to seek medical treatment for brain health when needed, prevent retaliation against such members who seek such medical treatment, and address other barriers to seeking medical treatment for brain health due to the impact of blast exposure, blast overpressure, or traumatic brain injury.
+
+&emsp;&emsp;"(J) The modification of existing weapons systems to reduce blast exposure of the individual using the weapon and those within the minimum safe distance.
+
 &emsp;"(2) To harmonize and prioritize the efforts of the Department of Defense into a single approach to brain health.
 
 "(c)
 
-Annual Budget Justification Documents.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for each of fiscal years 2025 through 2029 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the Secretary of Defense shall include a budget justification display that includes all activities of the Department relating to the Initiative.
+Thresholds for Blast Exposure and Overpressure Safety.—
+
+&emsp;"(1)
+
+Timing.—
+
+&emsp;&emsp;"(A)
+
+Initial thresholds.—Not later than January 1, 2027, the Secretary of Defense shall identify and disseminate the thresholds for blast exposure and overpressure safety under subsection (b)(1)(B).
+
+&emsp;&emsp;"(B)
+
+Periodic updates.—On a quinquennial basis, the Secretary shall review and, as necessary, update the thresholds for blast exposure and overpressure safety under subsection (b)(1)(B).
+
+&emsp;"(2)
+
+Formal training requirement.—The Secretary shall ensure that training on the thresholds for blast exposure and overpressure safety is provided to members of the Armed Forces before training, deployment, or entering other high-risk environments where exposure to blast overpressure is likely.
+
+&emsp;"(3)
+
+Central repository.—Not later than January 1, 2027, the Secretary shall establish a central repository of blast-related characteristics, such as pressure profiles and common blast loads associated with specific systems and the environments in which the systems are used.
+
+&emsp;"(4)
+
+Waivers.—
+
+&emsp;&emsp;"(A)
+
+Protocols.—The Secretary may waive the thresholds for blast exposure and overpressure safety under subsection (b)(1)(B) for operational or training requirements that the Secretary determines are essential to national security. The Secretary shall include in each such waiver a justification for exceeding such thresholds.
+
+&emsp;&emsp;"(B)
+
+Tracking system.—The Secretary shall establish a Department of Defense-wide tracking system for waivers issued under subparagraph (A) that includes data contributed by the Secretary of each military department.
+
+&emsp;&emsp;"(C)
+
+Report on waivers.—Not later than one year after issuing a waiver under subparagraph (A) and annually thereafter for a period of five years, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on such waivers that includes—
+
+&emsp;&emsp;&emsp;"(i) the number of waivers issued, disaggregated by military department; and
+
+&emsp;&emsp;&emsp;"(ii) a description of actions taken by the Secretary concerned to track the health effects of exceeding thresholds for blast exposure and overpressure safety on members of the Armed Forces, document such effects in medical records, and provide care to such members.
 
 "(d)
 
@@ -152,7 +394,7 @@ Pilot Program Relating to Monitoring of Blast Coverage.—
 
 &emsp;"(1)
 
-Authority.—The Director of the Defense Health Agency may conduct, as part of the Initiative, a pilot program under which the Director shall monitor blast overpressure exposure through the use of commercially available, off-the-shelf, wearable sensors, and document and evaluate data collected as a result of such monitoring.
+Authority.—The Director of the Defense Health Agency may conduct, as part of the Initiative, a pilot program under which the Director shall monitor blast overpressure exposure through the use of commercially available, off-the-shelf, wearable sensors or other remote measurement technology, and document and evaluate data collected as a result of such monitoring.
 
 &emsp;"(2)
 
@@ -166,19 +408,31 @@ Documentation and sharing of data.—If the Director conducts a pilot program pu
 
 &emsp;&emsp;"(B) to the extent practicable, and in accordance with applicable provisions of law relating to data privacy, make data collected pursuant to such pilot program available to other academic and medical researchers for the purpose of informing future research and treatment options.
 
+&emsp;"(4)
+
+Weapons use.—Monitoring activities under a pilot program conducted pursuant to paragraph (1) shall be carried out for any member of the Armed Forces firing tier 1 weapons in training or combat, as identified by the Secretary of Defense.
+
 "(e)
 
-Strategy and Implementation Plan.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report setting forth a strategy and implementation plan of the Department of Defense to achieve the objectives of the Initiative under subsection (b).
-
-"(f)
-
-Annual Briefings.—Not later than January 31, 2024, and annually thereafter until January 31, 2027, the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a report on the Initiative that includes the following:
+Reports on Warfighter Brain Health Initiative.—Not later than December 31, 2025, and not less frequently than annually thereafter for a period of five years, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes the following:
 
 &emsp;"(1) A description of the activities taken under the Initiative and resources expended under the Initiative during the prior fiscal year.
 
-&emsp;"(2) A summary of the progress made during the prior fiscal year with respect to the objectives of the Initiative under subsection (b).
+&emsp;"(2) The number of members of the Armed Forces impacted by blast overpressure and blast exposure in the prior fiscal year, including—
 
-"(g)
+&emsp;&emsp;"(A) the number of members who reported adverse health effects from blast overpressure or blast exposure;
+
+&emsp;&emsp;"(B) the number of members exposed to blast overpressure or blast exposure;
+
+&emsp;&emsp;"(C) the number of members who received treatment for injuries related to blast overpressure or blast exposure, including at facilities of the Department of Defense and at facilities in the private sector; and
+
+&emsp;&emsp;"(D) the type of care that members receive from facilities of the Department of Defense and the type of care that members receive from facilities in the private sector.
+
+&emsp;"(3) A summary of the progress made during the prior fiscal year with respect to the objectives of the Initiative under subsection (b).
+
+&emsp;"(4) A description of the steps the Secretary is taking to ensure that activities under the Initiative are being implemented across the Department of Defense and the military departments.
+
+"(f)
 
 Secretary Concerned Defined.—In this section, the term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
 
@@ -236,7 +490,7 @@ In General.—Not later than one year after the date on which the Individual Lon
 
 Elements.—Each briefing required by subsection (a) shall include, for the period covered by the report, the following:
 
-&emsp;"(1) An identification of potential exposures to occupational or environmental hazards captured by the current systems of the Department of Defense for environmental, occupational, and health monitoring, and recommendations for how to improve those systems.
+&emsp;"(1) An identification of potential exposures to occupational or environmental hazards captured by the current systems of the Department of Defense for environmental, occupational, and health monitoring,and recommendations for how to improve those systems.
 
 &emsp;"(2) An analysis of the quality and accuracy of the location data used by the Department of Defense in determining potential exposures to occupational or environmental hazards by members of the Armed Forces and veterans, and recommendations for how to improve the quality of such data if necessary.
 
@@ -318,7 +572,7 @@ Integrated Product.—The Secretary of Defense shall develop and implement an in
 
 "(b)
 
-Considerations in Development.—In developing the integrated product under subsection (a), the Secretary shall harmonize such development with any policies of the Department relating to a digital health strategy (including the digital health strategy undersection 723 \[135 Stat. 1792\]), coordinate with improvements to the electronic health record system specified in subsection (a)(1) to ensure the compatibility required under such subsection, and consider methods to improve beneficiary interface.
+Considerations in Development.—In developing the integrated product under subsection (a), the Secretary shall harmonize such development with any policies of the Department relating to a digital health strategy (including the digital health strategy under section 723 \[135 Stat. 1792\]), coordinate with improvements to the electronic health record system specified in subsection (a)(1) to ensure the compatibility required under such subsection, and consider methods to improve beneficiary interface.
 
 "(c)
 
@@ -330,7 +584,7 @@ Definitions.—In this section:
 
 #### Mandatory Training on Health Effects of Burn Pits
 
-Pub. L. 117–81, div. A, title VII, §725, Dec. 27, 2021, 135 Stat. 1795, provided that: "The Secretary of Defense shall provide to each medical provider of the Department of Defense mandatory training with respect to the potential health effects of burn pits."
+Pub. L. 117–81, div. A, title VII, §725, Dec. 27, 2021, 135 Stat. 1795, provided that: "The Secretary of Defenseshall provide to each medical provider of the Department of Defense mandatory training with respect to the potential health effects of burn pits."
 
 #### Access by Covered Individuals to Certain Facilities of Department of Defense for Assessment and Treatment of Anomalous Health Conditions
 
@@ -798,7 +1052,7 @@ Report on Missed Appointments.—
 
 &emsp;"(1)
 
-In general.—Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the total number of medical appointments at military treatment facilities for which a covered beneficiary failed to appearwithout prior notification during the one-year period preceding the submittal of the report.
+In general.—Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the total number of medical appointments at military treatment facilities for which a covered beneficiary failed to appear without prior notification during the one-year period preceding the submittal of the report.
 
 &emsp;"(2)
 
@@ -816,7 +1070,7 @@ Elements.—Each report under paragraph (1) shall include for each military trea
 
 Covered Beneficiary Defined.—In this section, the term 'covered beneficiary' has the meaning given that term in section 1072 of title 10, United States Code."
 
-\[For termination, effective Dec. 30, 2021, of reporting requirements in section 709(g) of Pub. L. 114–328, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under section 111 of this title.\]
+\[For termination, effective Dec. 30, 2021, of reporting requirements in section 709(g) of Pub. L. 114–328, set outabove, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under section 111 of this title.\]
 
 #### Evaluation and Treatment of Veterans and Civilians at Military Treatment Facilities
 
@@ -932,7 +1186,7 @@ Initial report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing the full range of telehealth services to be available in the direct care and purchased care components of the militaryhealth system and the copayments and cost shares, if any, associated with those services.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing the full range of telehealth services to be available in the direct care and purchased care components of the military health system and the copayments and cost shares, if any, associated with those services.
 
 &emsp;&emsp;"(B)
 
@@ -944,7 +1198,7 @@ Final report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than three years after the date on which the Secretary begins incorporating, throughout the direct care and purchased care components of the military health system, the use of telehealth services as required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing the impact made by the use of telehealth services, including mobile health applications, to carry out the actions specified in subparagraphs (A) through (F) of subsection (a)(1).
+In general.—Not later than three years after the date on which the Secretary begins incorporating, throughout the direct care and purchased care components of the military health system, the use of telehealth services as required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing theimpact made by the use of telehealth services, including mobile health applications, to carry out the actions specified in subparagraphs (A) through (F) of subsection (a)(1).
 
 &emsp;&emsp;"(B)
 
@@ -1172,7 +1426,7 @@ Elements.—The policy established under subsection (a) shall identify outcome m
 
 "(c)
 
-Milestones.—In establishing the policy under subsection (a), the Secretary of Defense shall establish metrics and milestones for members in Warriors in Transition programs. Such metrics and milestones shall cover members throughout the course of care and rehabilitation in Warriors in Transitions programs by applying to the following occasions:
+Milestones.—In establishing the policy under subsection (a), the Secretary of Defense shall establishmetrics and milestones for members in Warriors in Transition programs. Such metrics and milestones shall cover members throughout the course of care and rehabilitation in Warriors in Transitions programs by applying to the following occasions:
 
 &emsp;"(1) When the member commences participation in the program.
 
@@ -1282,7 +1536,7 @@ Pub. L. 112–239, div. A, title V, §582, Jan. 2, 2013, 126 Stat. 1766, provide
 
 "(a)
 
-Comprehensive Policy Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall, actingthrough the Under Secretary of Defense for Personnel and Readiness, develop within the Department of Defense a comprehensive policy on the prevention of suicide among members of the Armed Forces. In developing the policy, the Secretary shall consider recommendations from the operational elements of the Armed Forces regarding the feasibility of the implementation and execution of particular elements of the policy.
+Comprehensive Policy Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, develop within the Department of Defense a comprehensive policy on the prevention of suicide among members of the Armed Forces. In developing the policy, the Secretary shall consider recommendations from the operational elements of the Armed Forces regarding the feasibility of the implementation and execution of particular elements of the policy.
 
 "(b)
 
@@ -1392,7 +1646,7 @@ Elements.—Each report required by paragraph (1) shall include the following:
 
 #### Plan To Increase the Mental Health Capabilities of the Department of Defense
 
-Pub. L. 111–84, div. A, title VII, §714, Oct. 28, 2009, 123 Stat. 2381, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(8), Jan. 7, 2011, 124 Stat. 4373, directed each military department to increase by a specified amount the number of active duty mental health personnel no later than 180 days after Oct. 28, 2009, and required the Secretary of Defense to report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents; to develop and implement a plan to significantly increase the number of military and civilian mental health personnel by Sept. 30, 2013; and to report on an assessment of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces.
+Pub. L. 111–84, div. A, title VII, §714, Oct. 28, 2009, 123 Stat. 2381, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(8), Jan. 7, 2011, 124 Stat. 4373, directed each military department to increase by a specified amount the number of active duty mental health personnel no later than 180 days after Oct. 28, 2009, and required the Secretary of Defense to report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents; to develop and implement a plan to significantly increase thenumber of military and civilian mental health personnel by Sept. 30, 2013; and to report on an assessment of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces.
 
 #### Study and Plan To Improve Military Health Care
 
@@ -1704,7 +1958,7 @@ Recovering service member.—The term 'recovering service member' means a member
 
 &emsp;"(8)
 
-Serious injury or illness.—The term 'serious injury or illness', in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.
+Serious injury or illness.—The term 'serious injury or illness', in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medicallyunfit to perform the duties of the member's office, grade, rank, or rating.
 
 &emsp;"(9) TRICARE
 
@@ -1806,7 +2060,7 @@ Consideration of Existing Findings, Recommendations, and Practices.—In develop
 
 &emsp;&emsp;"(C) The President's Commission on Care for America's Returning Wounded Warriors.
 
-&emsp;&emsp;"(D) The Veterans' Disability Benefits Commission established by title XV of the National DefenseAuthorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1676; 38 U.S.C. 1101 note).
+&emsp;&emsp;"(D) The Veterans' Disability Benefits Commission established by title XV of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1676; 38 U.S.C. 1101 note).
 
 &emsp;&emsp;"(E) The President's Task Force to Improve Health Care Delivery for Our Nation's Veterans, of March 2003.
 
@@ -1822,7 +2076,7 @@ Consideration of Existing Findings, Recommendations, and Practices.—In develop
 
 "(d)
 
-Training and Skills of Health Care Professionals, Recovery Care Coordinators, Medical Care Case Managers, and Non-Medical Care Managers for Recovering Service Members.—
+Training and Skills of Health Care Professionals, Recovery Care Coordinators, Medical CareCase Managers, and Non-Medical Care Managers for Recovering Service Members.—
 
 &emsp;"(1)
 
@@ -1904,7 +2158,7 @@ Resources.—The policy shall include mechanisms to ensure that medical care cas
 
 &emsp;&emsp;"(F)
 
-Supervision at armed forces medical facilities.—The policy shall specify requirements for the appropriate rank or grade, and appropriate occupation, for persons appointed to head and supervise the medical care case managers at each medical facility of the Armed Forces. Persons so appointed may be appointed from the Army Medical Corps, Army Medical Service Corps, Army NurseCorps, Navy Medical Corps, Navy Medical Service Corps, Navy Nurse Corps, Air Force Medical Service, or other corps or civilian health care professional, as applicable, at the discretion of the Secretary of Defense.
+Supervision at armed forces medical facilities.—The policy shall specify requirements for the appropriate rank or grade, and appropriate occupation, for persons appointed to head and supervise the medical care case managers at each medical facility of the Armed Forces. Persons so appointed may be appointed from the Army Medical Corps, Army Medical Service Corps, Army Nurse Corps, Navy Medical Corps, Navy Medical Service Corps, Navy Nurse Corps, Air Force Medical Service, or other corps or civilian health care professional, as applicable, at the discretion of the Secretary of Defense.
 
 &emsp;"(4)
 
@@ -2010,7 +2264,7 @@ Referrals of recovering service members to other care and services providers.—
 
 "(f)
 
-Services for Families of Recovering Service Members.—The policy required by subsection (a) shallprovide for improvements as follows with respect to services for families of recovering service members:
+Services for Families of Recovering Service Members.—The policy required by subsection (a) shall provide for improvements as follows with respect to services for families of recovering service members:
 
 &emsp;"(1)
 
@@ -2104,13 +2358,13 @@ Elements.—The policy on improvements to processes, procedures, and standards r
 
 &emsp;&emsp;&emsp;"(i) Such procedures shall apply uniformly with respect to recovering service members who are members of the regular components of the Armed Forces and recovering service members who are members of the National Guard and Reserve.
 
-&emsp;&emsp;&emsp;"(ii) Under such procedures, each Secretary of a military department shall, to the extent feasible,utilize the standard schedule for rating disabilities in use by the Department of Veterans Affairs, including any applicable interpretation of such schedule by the United States Court of Appeals for Veterans Claims, in making any determination of disability of a recovering service member, except as otherwise authorized by section 1216a of title 10, United States Code (as added by section 1642 of this Act).
+&emsp;&emsp;&emsp;"(ii) Under such procedures, each Secretary of a military department shall, to the extent feasible, utilize the standard schedule for rating disabilities in use by the Department of Veterans Affairs, including any applicable interpretation of such schedule by the United States Court of Appeals for Veterans Claims, in making any determination of disability of a recovering service member, except as otherwise authorized by section 1216a of title 10, United States Code (as added by section 1642 of this Act).
 
 &emsp;&emsp;"(C) Uniform timelines among the military departments for appeals of determinations of disability of recovering service members, including timelines for presentation, consideration, and disposition of appeals.
 
 &emsp;&emsp;"(D) Uniform standards among the military departments for qualifications and training of physical disability evaluation board personnel, including physical evaluation board liaison personnel, in conducting physical disability evaluations of recovering service members.
 
-&emsp;&emsp;"(E) Uniform standards among the military departments for the maximum number of physical disability evaluation cases of recovering service members that are pending before a physical disability evaluation board at any one time, and requirements for the establishment of additional physical disability evaluation boards in the event such number is exceeded.
+&emsp;&emsp;"(E) Uniform standards among the military departments for the maximum number of physicaldisability evaluation cases of recovering service members that are pending before a physical disability evaluation board at any one time, and requirements for the establishment of additional physical disability evaluation boards in the event such number is exceeded.
 
 &emsp;&emsp;"(F) Uniform standards and procedures among the military departments for the provision of legal counsel to recovering service members while undergoing evaluation by a physical disability evaluation board.
 
@@ -2176,7 +2430,7 @@ Elements.—The processes, procedures, and standards required under this section
 
 &emsp;&emsp;"(B) provides for a coordinated transition of the service member from the Department of Defense disability evaluation system to the Department of Veterans Affairs disability system; and
 
-&emsp;&emsp;"(C) includes information and guidance designed to assist the service member in understanding andmeeting the schedule and milestones specified under subparagraph (A) for the service member's transition.
+&emsp;&emsp;"(C) includes information and guidance designed to assist the service member in understanding and meeting the schedule and milestones specified under subparagraph (A) for the service member's transition.
 
 &emsp;"(10) Procedures for the transmittal from the Department of Defense to the Department of Veterans Affairs of records and any other required information on each recovering service member described in paragraph (9), which procedures shall provide for the transmission from the Department of Defense to the Department of Veterans Affairs of records and information on the service member as follows:
 
@@ -2428,7 +2682,7 @@ Responsibilities.—The Center shall have responsibilities as follows:
 
 &emsp;"(10) To conduct longitudinal studies (using imaging technology and other proven research methods) on members of the Armed Forces with traumatic brain injury to identify early signs of Alzheimer's disease, Parkinson's disease, or other manifestations of neurodegeneration, as well as epilepsy, in such members, in coordination with the studies authorized by section 721 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2294) \[10 U.S.C. 1074 note\] and other studies of the Department of Defense and the Department of Veterans Affairs that address the connection between exposure to combat and the development of Alzheimer's disease, Parkinson's disease, and other neurodegenerative disorders, as well as epilepsy.
 
-&emsp;"(11) To develop and oversee a long-term plan to increase the number of mental health and neurological health professionals within the Department in orderto facilitate the meeting by the Department of the needs of members of the Armed Forces with traumatic brain injury until their transition to care and treatment from the Department of Veterans Affairs.
+&emsp;"(11) To develop and oversee a long-term plan to increase the number of mental health and neurological health professionals within the Department in order to facilitate the meeting by the Department of the needs of members of the Armed Forces with traumatic brain injury until their transition to care and treatment from the Department of Veterans Affairs.
 
 &emsp;"(12) To develop a program on comprehensive pain management, including management of acute and chronic pain, to utilize current and develop new treatments for pain, and to identify and disseminate best practices on pain management related to traumatic brain injury.
 
@@ -2438,7 +2692,7 @@ Responsibilities.—The Center shall have responsibilities as follows:
 
 "(a)
 
-In General.—The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of post-traumatic stress disorder (PTSD) and other mental health conditions, including mild, moderate, and severe post-traumatic stress disorder and other mental health conditions, to carry out the responsibilities specified in subsection (c).
+In General.—The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of post-traumatic stress disorder (PTSD) and other mental health conditions,including mild, moderate, and severe post-traumatic stress disorder and other mental health conditions, to carry out the responsibilities specified in subsection (c).
 
 "(b)
 
@@ -2598,7 +2852,7 @@ Purposes.—The purposes of the Office shall be as follows:
 
 &emsp;&emsp;"(E) To accelerate the exchange of health care information between the Departments, and advances in the health information technology marketplace, in order to support the delivery of health care by the Departments.
 
-&emsp;&emsp;"(F) To collect the operational and strategic requirements of the Departments relating to the strategy under subsection (a) and communicate such requirements and activities to the Office of the National Coordinator for Health Information Technology of the Department of Health and Human Services for the purpose of implementing title IV of the 21st Century Cures Act (division A of Public Law 114–255) \[see Tables for classification\], and the amendments made by that title, and other objectives of the Office of the National Coordinator for Health Information Technology.
+&emsp;&emsp;"(F) To collect the operational and strategic requirements of the Departments relating to thestrategy under subsection (a) and communicate such requirements and activities to the Office of the National Coordinator for Health Information Technology of the Department of Health and Human Services for the purpose of implementing title IV of the 21st Century Cures Act (division A of Public Law 114–255) \[see Tables for classification\], and the amendments made by that title, and other objectives of the Office of the National Coordinator for Health Information Technology.
 
 &emsp;&emsp;"(G) To plan for and effectuate the broadest possible implementation of standards, specifically with respect to the Fast Healthcare Interoperability Resources standard or successor standard, the evolution of such standards, and the obsolescence of such standards.
 
@@ -2680,7 +2934,7 @@ Information to congress.—Upon request by any of the appropriate committees of 
 
 "(d)
 
-Function.—The function of the Office shall be to implement, by not later than September 30, 2009, electronic health record systems or capabilities that allowfor full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs, which health records shall comply with applicable interoperability standards, implementation specifications, and certification criteria (including for the reporting of quality measures) of the Federal Government.
+Function.—The function of the Office shall be to implement, by not later than September 30, 2009, electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs, which health records shall comply with applicable interoperability standards, implementation specifications, and certification criteria (including for the reporting of quality measures) of the Federal Government.
 
 "(e)
 
@@ -2694,7 +2948,7 @@ Evaluation.—With respect to the electronic health record systems of the Depart
 
 &emsp;&emsp;"(B) Whether a clinician of the Department of Veterans Affairs can access, and meaningfully interact with, a complete patient health record of a member of the Armed Forces serving on active duty, from a medical center of the Department of Veterans Affairs.
 
-&emsp;&emsp;"(C) Whether clinicians of the Departments can access, and meaningfully interact with, the data elements of the health record of a patient who is a veteran or is a member of the Armed Forces which are generated when the individual receives health care from a community care provider of the Department of Veterans Affairs or a TRICARE program provider of the Department of Defense.
+&emsp;&emsp;"(C) Whether clinicians of the Departments can access, and meaningfully interact with, the dataelements of the health record of a patient who is a veteran or is a member of the Armed Forces which are generated when the individual receives health care from a community care provider of the Department of Veterans Affairs or a TRICARE program provider of the Department of Defense.
 
 &emsp;&emsp;"(D) Whether a community care provider of the Department of the Veterans Affairs and a TRICARE program provider of the Department of Defense on a Health Information Exchange-supported electronic health record can access patient health records of veterans and active-duty members of the Armed Forces from the system of the provider.
 
@@ -2982,7 +3236,7 @@ Final report.—Not later than 90 days after the completion of all of the pilot 
 
 "(a)
 
-Establishment of Standards.—The Secretary of Defense shall establish for the military facilities of the Department of Defense and the military departments referred to in subsection (b) standards with respect to the matters set forth in subsection (c). To the maximum extent practicable, the standards shall—
+Establishment of Standards.—The Secretary of Defense shall establish for the military facilities ofthe Department of Defense and the military departments referred to in subsection (b) standards with respect to the matters set forth in subsection (c). To the maximum extent practicable, the standards shall—
 
 &emsp;"(1) be uniform and consistent for all such facilities; and
 
@@ -3074,7 +3328,7 @@ Provision to Representatives.—If a member is incapacitated or otherwise unable
 
 #### "SEC. 1662. ACCESS OF RECOVERING SERVICE MEMBERS TO ADEQUATE OUTPATIENT RESIDENTIAL FACILITIES.
 
-"All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces thatare occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands. \[As amended Pub. L. 113–291, div. A, title V, §591, Dec. 19, 2014, 128 Stat. 3394; Pub. L. 114–92, div. A, title X, §1072(f), Nov. 25, 2015, 129 Stat. 995.\]
+"All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands. \[As amended Pub. L. 113–291, div. A, title V, §591, Dec. 19, 2014, 128 Stat. 3394; Pub. L. 114–92, div. A, title X, §1072(f), Nov. 25, 2015, 129 Stat. 995.\]
 
 #### "SEC. 1671. PROHIBITION ON TRANSFER OF RESOURCES FROM MEDICAL CARE.
 
@@ -3174,7 +3428,7 @@ Pub. L. 107–314, div. A, title VII, §708, Dec. 2, 2002, 116 Stat. 2585, provi
 
 "(a)
 
-Requirement To Establish Process.—(1) The Secretary of Defense shall prescribe in regulations a process for resolving issues relating to patient safetyand continuity of care for covered beneficiaries who are concurrently entitled to health care under the TRICARE program and eligible for health care services provided by the Department of Veterans Affairs. The Secretary shall—
+Requirement To Establish Process.—(1) The Secretary of Defense shall prescribe in regulations a process for resolving issues relating to patient safety and continuity of care for covered beneficiaries who are concurrently entitled to health care under the TRICARE program and eligible for health care services provided by the Department of Veterans Affairs. The Secretary shall—
 
 &emsp;"(A) ensure that the process provides for coordination of, and access to, health care from the two sources in a manner that prevents diminution of access to health care from either source; and
 
@@ -3442,7 +3696,7 @@ Definition.—For purposes of this section, the term 'administering Secretaries'
 
 #### Comprehensive Study of Military Medical Care System
 
-Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, title VII, §723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later thanDec. 15, 1993, submit to congressional defense committees a final report on the study.
+Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, title VII, §723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
 
 #### Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces
 

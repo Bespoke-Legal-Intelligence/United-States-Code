@@ -50,7 +50,7 @@ The report under subsection (a) shall be submitted in unclassified form, but may
 
 #### (c) Requirement for notification
 
-The Director of National Intelligence, in cooperation with the heads of any other relevant departments or agencies of the Federal Government, shall notify the congressional intelligence committees each time the Director of National Intelligence determines—
+The Director of National Intelligence, in cooperation with the heads of any other relevantdepartments or agencies of the Federal Government, shall notify the congressional intelligence committees each time the Director of National Intelligence determines—
 
 &emsp;(1) there is credible information or intelligence that a foreign entity has attempted, is attempting, or will attempt to deploy machine-manipulated media or machine-generated text aimed at the elections or domestic political processes of the United States; and
 
@@ -82,7 +82,7 @@ Section 5724, referred to in subsec. (d)(2), means section 5724 of Pub. L. 116�
 
 #### Definitions
 
-For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definitions of "intelligence community" and "congressional intelligence committees" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ In carrying out the objectives of this chapter, the Secretary may utilize variou
 
 Joint Federal-industry corporations proposed for congressional authorization pursuant to this chapter shall be subject to the provisions of section 5908 of this title and shall conform to the following guidelines except as otherwise authorized by Congress:
 
-&emsp;(1) Each such corporation may design, construct, operate, and maintain one or more experimental, demonstration, or commercial-size facilities, or other operations which will ascertain the technical, environmental, and economic feasibility of a particular energy technology. In carrying out this function, the corporation shall be empowered, either directly or by contract, to utilize commercially available technologies, perform tests, or design, construct, and operate pilot plants, as may be necessary for the design of the full-scale facility.
+&emsp;(1) Each such corporation may design, construct, operate, and maintain one or more experimental, demonstration, or commercial-size facilities, or other operations which will ascertain the technical, environmental, and economic feasibility of a particular energy technology. In carrying out this function, the corporation shall be empowered, either directly or by contract, to utilize commercially available technologies, perform tests, or design, construct, and operate pilot plants, asmay be necessary for the design of the full-scale facility.
 
 &emsp;(2) Each corporation shall have—
 
@@ -54,7 +54,7 @@ Competitive systems of price supports proposed for congressional authorization p
 
 &emsp;(4) The construction plans and actual construction of the demonstration facility, together with all related facilities, shall be monitored by the Environmental Protection Agency. If additional environmental requirements are imposed by the Secretary after the designation of the successful bidders and if such additional environmental requirements result in additional costs, the Secretary is authorized to renegotiate the support price to cover such additional costs.
 
-&emsp;(5) The estimated amount of the Federal price support for a demonstration facility's product over the life of such facility shall be determined by the Secretary to facilitate a single congressional authorization of the full amount of such support at the time of the designation of the successful bidders.
+&emsp;(5) The estimated amount of the Federal price support for a demonstration facility's product over the life of such facility shall bedetermined by the Secretary to facilitate a single congressional authorization of the full amount of such support at the time of the designation of the successful bidders.
 
 &emsp;(6) No price support program shall be implemented unless previously authorized by specific legislation enacted by the Congress.
 
@@ -68,7 +68,7 @@ Nothing in this section shall preclude Federal participation in, and support for
 
 #### Codification
 
-Section 5919 of this title, referred to in subsec. (a)(7), was in the original "section 19" and has been editorially translated as section 5919 of this title which related to loan guarantees prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936, to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to section 5918 of this title and related to organizational conflicts prior to repeal by Pub. L. 104–106,div. D, title XLIII, §4304(b)(5), Feb. 10, 1996, 110 Stat. 664.
+Section 5919 of this title, referred to in subsec. (a)(7), was in the original "section 19" and has been editorially translated as section 5919 of this title which related to loan guarantees prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936, to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to section 5918 of this title and related to organizational conflicts prior to repeal by Pub. L. 104–106, div. D, title XLIII, §4304(b)(5), Feb. 10, 1996, 110 Stat. 664.
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 (b) Notwithstanding section 5901(a) of title 5, the amount of any such allowance shall be the greater of the following:
 
-&emsp;(1) The amount provided for employees of the Department of State assigned to positionsoutside the United States and required by regulation to wear a prescribed uniform in performance of official duties.
+&emsp;(1) The amount provided for employees of the Department of State assigned to positions outside the United States and required by regulation to wear a prescribed uniform in performance of official duties.
 
 &emsp;(2) The maximum allowance provided under section 1593(b) of this title.
 

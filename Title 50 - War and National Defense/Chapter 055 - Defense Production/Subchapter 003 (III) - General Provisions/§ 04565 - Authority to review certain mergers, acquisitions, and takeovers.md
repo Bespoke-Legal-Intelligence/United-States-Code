@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) maintains or collects sensitive personal data of United States citizens that may be exploited in a manner that threatens national security.
 
-&emsp;&emsp;&emsp;(iv) Any change in the rights that a foreign person has with respect to a United States business in which the foreign person has an investment, if that change could result in—
+&emsp;&emsp;&emsp;(iv) Any change in the rights that a foreign person has with respect to a UnitedStates business in which the foreign person has an investment, if that change could result in—
 
 &emsp;&emsp;&emsp;&emsp;(I) foreign control of the United States business; or
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (I) Treatment of certain investment fund investments
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i)(II) and subject to regulations prescribed by the Committee, an indirect investment by a foreign person in a United States business described in subparagraph (B)(iii) through an investment fund that affords the foreign person (or a designee of the foreign person) membership as a limited partner or equivalent on an advisory board or a committee of the fund shall not be considered an "other investment" for purposes of subparagraph (B)(iii) if—
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i)(II) and subject to regulations prescribed by the Committee, an indirect investment by a foreign person in a United States business described in subparagraph (B)(iii) through an investment fund that affords the foreign person (or a designee of the foreign person) membership as a limitedpartner or equivalent on an advisory board or a committee of the fund shall not be considered an "other investment" for purposes of subparagraph (B)(iii) if—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
 
@@ -196,7 +196,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Specially designed and prepared nuclear equipment, parts and components, materials, software, and technology covered by part 810 of title 10, Code of Federal Regulations (relating to assistance to foreign atomic energy activities).
 
-&emsp;&emsp;&emsp;(iv) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating to export and import of nuclear equipment and material).
+&emsp;&emsp;&emsp;(iv) Nuclear facilities, equipment, and material covered by part 110 of title 10, Code of Federal Regulations (relating toexport and import of nuclear equipment and material).
 
 &emsp;&emsp;&emsp;(v) Select agents and toxins covered by part 331 of title 7, Code of Federal Regulations, part 121 of title 9 of such Code, or part 73 of title 42 of such Code.
 
@@ -284,7 +284,7 @@ In this section:
 
 #### (iii) Continuing discussions
 
-&emsp;&emsp;&emsp;A request for withdrawal under clause (ii) shall not be construed to preclude any party to the covered transaction from continuing informal discussions with the Committee or any member thereof regarding possible resubmission for review pursuant to this paragraph.
+&emsp;&emsp;&emsp;A request for withdrawal under clause (ii) shall not be construed to preclude any party to the covered transaction from continuing informal discussions with theCommittee or any member thereof regarding possible resubmission for review pursuant to this paragraph.
 
 #### (iv) Inclusion of partnership and side agreements
 
@@ -424,7 +424,7 @@ In this section:
 
 &emsp;&emsp;The Committee shall establish a process to identify covered transactions for which—
 
-&emsp;&emsp;&emsp;(i) a notice under clause (i) of subparagraph (C) or a declaration under clause (v) of that subparagraph is not submitted to the Committee; and
+&emsp;&emsp;&emsp;(i) a notice under clause (i) of subparagraph (C) or a declaration under clause (v)of that subparagraph is not submitted to the Committee; and
 
 &emsp;&emsp;&emsp;(ii) information is reasonably available.
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (E) Guidance on certain transactions with national security implications
 
-&emsp;&emsp;The Chairperson shall, not later than 180 days after the effective date of the ForeignInvestment and National Security Act of 2007, publish in the Federal Register guidance on the types of transactions that the Committee has reviewed and that have presented national security considerations, including transactions that may constitute covered transactions that would result in control of critical infrastructure relating to United States national security by a foreign government or an entity controlled by or acting on behalf of a foreign government.
+&emsp;&emsp;The Chairperson shall, not later than 180 days after the effective date of the Foreign Investment and National Security Act of 2007, publish in the Federal Register guidance on the types of transactions that the Committee has reviewed and that have presented national security considerations, including transactions that may constitute covered transactions that would result in control of critical infrastructure relating to United States national security by a foreign government or an entity controlled by or acting on behalf of a foreign government.
 
 #### (3) Certifications to Congress
 
@@ -548,7 +548,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), the Director of National Intelligence shallexpeditiously carry out a thorough analysis of any threat to the national security of the United States posed by any covered transaction, which shall include the identification of any recognized gaps in the collection of intelligence relevant to the analysis.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), the Director of National Intelligence shall expeditiously carry out a thorough analysis of any threat to the national security of the United States posed by any covered transaction, which shall include the identification of any recognized gaps in the collection of intelligence relevant to the analysis.
 
 #### (ii) Views of intelligence community
 
@@ -864,7 +864,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (6) Other members
 
-&emsp;The chairperson shall consult with the heads of such other Federal departments, agencies, and independent establishments in any reviewor investigation under subsection (a), as the chairperson determines to be appropriate, on the basis of the facts and circumstances of the covered transaction under review or investigation (or the designee of any such department or agency head).
+&emsp;The chairperson shall consult with the heads of such other Federal departments, agencies, and independent establishments in any review or investigation under subsection (a), as the chairperson determines to be appropriate, on the basis of the facts and circumstances of the covered transaction under review or investigation (or the designee of any such department or agency head).
 
 #### (7) Meetings
 
@@ -928,7 +928,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (ii) Failure to reach consensus
 
-&emsp;&emsp;&emsp;If the Committee fails to reach consensus with respect to a recommendationunder clause (i) regarding a covered transaction, the members of the Committee who support an alternative recommendation shall produce—
+&emsp;&emsp;&emsp;If the Committee fails to reach consensus with respect to a recommendation under clause (i) regarding a covered transaction, the members of the Committee who support an alternative recommendation shall produce—
 
 &emsp;&emsp;&emsp;&emsp;(I) a written statement justifying the alternative recommendation; and
 
@@ -952,7 +952,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (B) Designation of agency
 
-&emsp;&emsp;The lead agency, other than any entity of the intelligence community, shall, on behalf of the Committee, ensure that the requirements of subparagraph (A) with respect to any covered transaction that is subject to such subparagraph are met.
+&emsp;&emsp;The lead agency, other than any entity of the intelligence community, shall, on behalfof the Committee, ensure that the requirements of subparagraph (A) with respect to any covered transaction that is subject to such subparagraph are met.
 
 #### (6) Negotiation, modification, monitoring, and enforcement
 
@@ -1074,7 +1074,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (B) Inclusion in classified version
 
-&emsp;&emsp;If the Committee recommends that the President suspend or prohibit a covered transaction because the transaction threatens to impair the national security of the United States, the Committee shall, in the classified version of the report required under paragraph (1), notify Congress of the recommendation and, upon request, provide a classified briefing on the recommendation.
+&emsp;&emsp;If the Committee recommends that the President suspend or prohibit a covered transaction because the transaction threatens to impair the national security of the United States, the Committee shall, in theclassified version of the report required under paragraph (1), notify Congress of the recommendation and, upon request, provide a classified briefing on the recommendation.
 
 #### (C) Inclusions in unclassified version
 
@@ -1120,7 +1120,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (1) In general
 
-&emsp;Each notice, and any followup information, submitted under this section and regulations prescribed under this section to the President or the Committee by a party to a covered transaction, and any information submittedby any such party in connection with any action for which a report is required pursuant to paragraph (6)(B) of subsection (l), with respect to the implementation of any mitigation agreement or condition described in paragraph (3)(A) of subsection (l), or any material change in circumstances, shall be accompanied by a written statement by the chief executive officer or the designee of the person required to submit such notice or information certifying that, to the best of the knowledge and belief of that person—
+&emsp;Each notice, and any followup information, submitted under this section and regulations prescribed under this section to the President or the Committee by a party to a covered transaction, and any information submitted by any such party in connection with any action for which a report is required pursuant to paragraph (6)(B) of subsection (l), with respect to the implementation of any mitigation agreement or condition described in paragraph (3)(A) of subsection (l), or any material change in circumstances, shall be accompanied by a written statement by the chief executive officer or the designee of the person required to submit such notice or information certifying that, to the best of the knowledge and belief of that person—
 
 &emsp;&emsp;(A) the notice or information submitted fully complies with the requirements of this section or such regulation, agreement, or condition; and
 
@@ -1230,7 +1230,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 270 days after August 13, 2018, the chairperson, in consultation with the Committee, shall complete a study of the feasibility and merits of establishing a fee or fee scale to prioritize the timing of the response of the Committee to a draft or formal written notice during the period before the Committee accepts the formal written notice under subsection (b)(1)(C)(i), in the event that the Committee is unable to respond during the time required by subclause (II) of that subsection because of an unusually large influx of notices, or for other reasons.
+&emsp;&emsp;&emsp;Not later than 270 days after August 13, 2018, the chairperson, in consultation with the Committee, shall complete a study of the feasibility and merits of establishing a fee or fee scale to prioritize the timing of the response of the Committee to a draftor formal written notice during the period before the Committee accepts the formal written notice under subsection (b)(1)(C)(i), in the event that the Committee is unable to respond during the time required by subclause (II) of that subsection because of an unusually large influx of notices, or for other reasons.
 
 #### (ii) Submission to Congress
 
@@ -1278,7 +1278,7 @@ Section was formerly classified to section 2170 of the former Appendix to this t
 
 #### Amendments
 
-<b>2021</b>—Subsec. (b)(3)(A). Pub. L. 116–283, §9721(a)(1), inserted "or assessment" after "review" in heading and substituted "this subsection that concludes action under this section, or upon the Committee making anotification under paragraph (1)(C)(v)(III)(aa)(DD)" for " subsection (b) that concludes action under this section" in text.
+<b>2021</b>—Subsec. (b)(3)(A). Pub. L. 116–283, §9721(a)(1), inserted "or assessment" after "review" in heading and substituted "this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD)" for " subsection (b) that concludes action under this section" in text.
 
 Subsec. (b)(3)(C)(i)(III). Pub. L. 116–283, §9721(a)(2), added subcl. (III).
 
@@ -1368,7 +1368,7 @@ Subsec. (l)(3). Pub. L. 115–232, §1718(2), redesignated par. (1) as (3). Form
 
 Subsec. (l)(3)(A). Pub. L. 115–232, §1718(4)(A), substituted "Agreements and conditions" for "In general" in subpar. heading, designated existing provisions as cl. (i), inserted cl. heading, substituted "risk" for "threat", and added cls. (ii) and (iii).
 
-Subsec. (l)(3)(B) to (D). Pub. L. 115–232, §1718(4)(B), added subpars. (B) to (D) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Any agreement entered into or condition imposed under subparagraph (A) shall be based on a risk-based analysis, conducted by the Committee, of the threat to national security of the covered transaction.".
+Subsec. (l)(3)(B) to (D). Pub. L. 115–232, §1718(4)(B), added subpars. (B) to (D) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Any agreement entered into or condition imposed under subparagraph (A) shall be based on a risk-based analysis, conducted by the Committee, of the threat to national security of the covered transaction."
 
 Subsec. (l)(4). Pub. L. 115–232, §1718(5), added par. (4).
 
@@ -1382,7 +1382,7 @@ Subsec. (l)(6)(A). Pub. L. 115–232, §1718(7)(A), substituted "paragraph (3)" 
 
 Subsec. (l)(6)(B). Pub. L. 115–232, §1718(7)(B), struck out "(i) Modification reports" before "The lead agency", redesignated former subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "The Committee shall develop and agree upon methods for evaluating compliance with any agreement entered into or condition imposed with respect to a covered transaction that will allow the Committee to adequately assure compliance, without—
 
-&emsp;"(I) unnecessarily diverting Committee resources from assessing any new covered transaction for which a written notice has been filed pursuant to subsection (b)(1)(C), and if necessary, reaching a mitigation agreement with or imposing a condition on a party to such covered transaction or any covered transaction for which a review has been reopened for any reason; or
+&emsp;"(I) unnecessarily diverting Committee resources from assessing any new covered transaction for whicha written notice has been filed pursuant to subsection (b)(1)(C), and if necessary, reaching a mitigation agreement with or imposing a condition on a party to such covered transaction or any covered transaction for which a review has been reopened for any reason; or
 
 &emsp;"(II) placing unnecessary burdens on a party to a covered transaction."
 
@@ -1532,7 +1532,7 @@ Pub. L. 115–232, div. A, title XVII, §1702(a), Aug. 13, 2018, 132 Stat. 2174,
 
 &emsp;"(4) According to the Government Accountability Office, from 2011 to 2016, the number of transactions reviewed by the Committee on Foreign Investment in the United States (commonly referred to as 'CFIUS') grew by 55 percent, while the staff of the Committees assigned to the reviews increased by 11 percent.
 
-&emsp;"(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States (GAO–18–249): 'Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.'. The Government Accountability Office concluded: 'Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS's authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.'.
+&emsp;"(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States (GAO–18–249): 'Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.'.The Government Accountability Office concluded: 'Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS's authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.'.
 
 &emsp;"(6) On March 30, 1954, Dwight David Eisenhower—five-star general, Supreme Allied Commander, and 34th President of the United States—in his 'Special Message to the Congress on Foreign Economic Policy', counseled: 'Great mutual advantages to buyer and seller, to producer and consumer, to investor and to the community where investment is made, accrue from high levels of trade and investment.'. President Eisenhower continued: 'The internal strength of the American economy has evolved from such a system of mutual advantage. In the press of other problems and in the haste to meet emergencies, this nation—and many other nations of the free world—have all too often lost sight of this central fact.'. President Eisenhower concluded: 'If we fail in our trade policy, we may fail in all. Our domestic employment, our standard of living, our security, and the solidarity of the free world—all are involved.'."
 
@@ -1692,7 +1692,7 @@ Sec. 6. <i>Reviews and Investigations.</i>
 
 (iii) the Committee requests that the President make a determination with regard to the transaction.
 
-(d) Upon completion of a review or investigation of a transaction, the lead agency shall prepare for the approval of the chairperson the appropriate certified notice or report to the Congress called for under the Act. The chairperson shall transmit such notice or report to the Congress, as appropriate.
+(d) Upon completion of a review or investigation of a transaction, the lead agency shall prepare for the approval of the chairperson the appropriate certified notice or report to the Congress called for under the Act.The chairperson shall transmit such notice or report to the Congress, as appropriate.
 
 Sec. 7. <i>Risk Mitigation</i>. (a) The Committee, or any lead agency acting on behalf of the Committee, may seek to mitigate any national security risk posed by a transaction that is not adequately addressed by other provisions of law by entering into a mitigation agreement with the parties to a transaction or by imposing conditions on such parties.
 
@@ -1746,7 +1746,7 @@ Sec. 11. <i>Revocation</i>. Section 801 of Executive Order 12919 of June 3, 1994
 
 Ex. Ord. No. 14083, Sept. 15, 2022, 87 F.R. 57369, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 721 of the Defense Production Act of 1950, as amended (50 U.S.C. 4565) (section721), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 721 of the Defense Production Act of 1950, as amended (50 U.S.C. 4565) (section 721), and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The United States welcomes and supports foreign investment, consistent with the protection of national security. The United States commitment to open investment is a cornerstone of our economic policy and provides the United States with substantial economic benefits, including "the promotion of economic growth, productivity, competitiveness, and job creation, thereby enhancing national security," as the Congress recognized in section 1702(b)(1) of the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA) (Subtitle A of Title XVII of Public Law 115–232) \[132 Stat. 2175\]. Some investments in the United States by foreign persons, however, present risks to the national security of the United States, and it is for this reason that the United States maintains a robust foreign investment review process focused on identifying and addressing such risks.
 
@@ -1770,13 +1770,13 @@ Sec. 2. <i>Elaboration on Existing Statutory Factors</i>. (a) In considering the
 
 (ii) The Committee shall consider, as appropriate, whether a covered transaction involves manufacturing capabilities, services, critical mineral resources, or technologies that are fundamental to United States technological leadership and therefore national security, such as microelectronics, artificial intelligence, biotechnology and biomanufacturing, quantum computing, advanced clean energy, and climate adaptation technologies. The Committee shall also consider, as appropriate, relevant third-party ties that might cause the transaction to threaten to impair the national security of the United States.
 
-(iii) The Committee shall consider, as appropriate, whether a covered transaction could reasonably resultin future advancements and applications in technology that could undermine national security.
+(iii) The Committee shall consider, as appropriate, whether a covered transaction could reasonably result in future advancements and applications in technology that could undermine national security.
 
 (iv) The Office of Science and Technology Policy (OSTP), in consultation with other members of the Committee, shall periodically publish a list of technology sectors, including those technologies listed in subsection (b)(ii) of this section, that it assesses are fundamental to United States technological leadership in areas relevant to national security. OSTP shall, as appropriate, draw on the findings of other United States Government efforts to identify technology sectors that are fundamental to United States technological leadership. The Committee shall consider the list described in this subsection, as appropriate.
 
 Sec. 3. <i>Additional Factors to be Considered</i>. (a) In addition to the factors identified in subsections (f)(1)–(10) of section 721, the Committee shall consider, in reviewing the effects of a covered transaction on the national security of the United States, the following factors relating to aggregate industry investment trends that may have consequences for an individual covered transaction's impact on national security:
 
-(i) Incremental investments over time in a sector or technology may cede, part-by-part, domestic development or control in that sector or technology and may give a foreign person who might take actions that threaten to impair the national security of the United States as a result of the transaction, or their relevant third-party ties that might cause the transaction to pose such a threat, control of or rights in United States businesses in a manner that may result in national security risk. A series of acquisitions in the same, similar, or related United States businesses involved in activities that are fundamental to national security or on terms that implicate national security may result in a particular covered transaction giving rise to a national security risk when considered in the context of transactions that preceded it. In aggregate, these transactions may facilitate harmful technology transfer in key industries or otherwise harm national security through the cumulative effect of these investments. As the Congress identified in section 1702(c)(2) of FIRRMA \[132 Stat. 2176\], the Committee may consider "the cumulative control of, or pattern of recent transactions involving, any one type of critical infrastructure, energy asset, critical material, or critical technology by a foreign government or foreign person" in considering national security risks. Contextualizing the Committee's review of an individual transaction in light of the aggregate or series of related transactions could reveal national security risks arising from the covered transaction that were not otherwise apparent.
+(i) Incremental investments over time in a sector or technology may cede, part-by-part, domestic development or control in that sector or technology and may give a foreign person who might take actions that threaten to impair the national security of the United States as a result of the transaction, or their relevant third-party ties that might cause the transaction to pose such a threat, control of or rights in United States businesses in a manner that may result in national security risk. A series of acquisitions in the same, similar, or related United States businesses involved in activities that are fundamental to national security or on terms that implicate national security may result in a particular covered transaction giving rise to a national security risk when considered in the context of transactions that preceded it. In aggregate, these transactions may facilitate harmful technology transfer in key industries or otherwise harm national security through the cumulative effect of these investments. As the Congress identified in section 1702(c)(2) of FIRRMA\[132 Stat. 2176\], the Committee may consider "the cumulative control of, or pattern of recent transactions involving, any one type of critical infrastructure, energy asset, critical material, or critical technology by a foreign government or foreign person" in considering national security risks. Contextualizing the Committee's review of an individual transaction in light of the aggregate or series of related transactions could reveal national security risks arising from the covered transaction that were not otherwise apparent.
 
 (ii) The Committee shall consider, as appropriate, as part of the Committee's review of a covered transaction, the risks arising from the covered transaction in the context of multiple acquisitions or investments in a single sector or in related manufacturing capabilities, services, critical mineral resources, or technologies, by any foreign person who might take actions that threaten to impair the national security of the United States as a result of the transaction, or involving relevant third-party ties that might cause the transaction to pose such a threat.
 
@@ -1798,7 +1798,7 @@ Sec. 3. <i>Additional Factors to be Considered</i>. (a) In addition to the facto
 
 (c) In addition to the factors identified in subsections (f)(1)–(10) of section 721, the Committee shall consider, in reviewing the effects of a covered transaction on the national security of the United States, the following factors relating to national security concerns surrounding sensitive data:
 
-(i) Data is an increasingly powerful tool for the surveillance, tracing, tracking, and targeting of individuals or groups of individuals, with potential adverse impacts on national security. In section 1702(c)(5) of FIRRMA \[132 Stat. 2177\], the Congress recognized that the Committee may consider whether a covered transaction may "expose, either directly or indirectly, personally identifiable information, genetic information, or other sensitive data of United States citizens to access by a foreign government or foreign person that may exploit that information in a manner that threatens national security." Moreover, advances in technology, combined with access to large data sets, increasingly enable the re-identification or de-anonymization of what once was unidentifiable data. Therefore, it is important for the United States Government to stay current with threats posed by advances in such technology, including by considering potential risks posed by foreign persons who might exploit access to certain data on United States persons to target individuals or groups within the United States to the detriment of national security. Accordingly, the Committee shall consider whether foreign investments in United States businesses that have access to or that store United States persons' sensitive data, includinghealth and biological data, involve a foreign person who might take actions that threaten to impair the national security of the United States as a result of the transaction, including whether the foreign person might have relevant third-party ties that might cause the transaction to pose such a threat.
+(i) Data is an increasingly powerful tool for the surveillance, tracing, tracking, and targeting of individuals or groups of individuals, with potential adverse impacts on national security. In section 1702(c)(5) of FIRRMA \[132 Stat. 2177\], the Congress recognized that the Committee may consider whether a covered transaction may "expose, either directly or indirectly, personally identifiable information, genetic information, or other sensitive data of United States citizens to access by a foreign government or foreign person that may exploit that information in a manner that threatens national security." Moreover, advances in technology, combined with access to large data sets, increasingly enable the re-identification or de-anonymization of what once was unidentifiable data. Therefore, it is important for the United States Government to stay current with threats posed by advances in such technology, including by considering potential risks posed by foreign persons who might exploit access to certain data on United States persons to target individuals or groups within the United States to the detriment of national security. Accordingly, the Committee shall consider whether foreign investments in United States businesses that have access to or that store United States persons' sensitive data, including health and biological data, involve a foreign person who might take actions that threaten to impair the national security of the United States as a result of the transaction, including whether the foreign person might have relevant third-party ties that might cause the transaction to pose such a threat.
 
 (ii) The Committee shall consider, as appropriate, whether a covered transaction involves a United States business that:
 
@@ -1808,7 +1808,7 @@ Sec. 3. <i>Additional Factors to be Considered</i>. (a) In addition to the facto
 
 (iii) The Committee shall also consider, as appropriate, whether a covered transaction involves the transfer of United States persons' sensitive data to a foreign person who might take actions that threaten to impair the national security of the United States as a result of the transaction, and whether the foreign person has relevant third-party ties that have sought to exploit such information or have the ability to exploit such information to the detriment of national security, including through the use of commercial or other means.
 
-Sec. 4. <i>Periodic Review</i>. Consistent with the policy described in section 1 of this order, it is important for the Committee, on an ongoing basis, to continue to review its processes, practices, and regulations, and to continue to make any updates as needed and appropriate to ensure that the Committee's consideration of national security risks remains robust alongside changes to the national security landscape. Accordingly, the Committee shall regularly review its processes, practices, and regulations, and shall periodically provide to the Assistant to the President for National Security Affairs a report documenting the results of its review. The report shall also include any resulting policy recommendations that the Committee considers necessary to meet the evolving set of national security risks.
+Sec. 4. <i>Periodic Review</i>. Consistent with the policy described in section 1 of this order, it is important for the Committee, on an ongoing basis, to continue to review its processes, practices, and regulations, and to continue to make any updates as needed and appropriate to ensure that the Committee's consideration of national security risks remains robust alongside changes to the national security landscape. Accordingly, the Committee shall regularly review its processes, practices, and regulations, and shall periodically provide tothe Assistant to the President for National Security Affairs a report documenting the results of its review. The report shall also include any resulting policy recommendations that the Committee considers necessary to meet the evolving set of national security risks.
 
 Sec. 5. <i>Definitions</i>. For purposes of this order, terms shall have the same meanings ascribed to them in section 721 and regulations promulgated by the Committee under section 721.
 

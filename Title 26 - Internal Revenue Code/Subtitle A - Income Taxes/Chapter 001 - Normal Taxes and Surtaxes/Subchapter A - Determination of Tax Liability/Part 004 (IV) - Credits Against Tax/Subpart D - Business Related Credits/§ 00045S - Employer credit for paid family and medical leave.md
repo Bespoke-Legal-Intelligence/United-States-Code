@@ -22,7 +22,7 @@
 
 #### (3) Maximum amount of leave subject to credit
 
-&emsp;The amount of family and medical leave that may be taken into account with respect to any employee under subsection (a) for any taxable year shall not exceed 12 weeks.
+&emsp;The amount of family and medical leave that may be taken into account with respectto any employee under subsection (a) for any taxable year shall not exceed 12 weeks.
 
 #### (c) Eligible employer
 
@@ -94,7 +94,7 @@ For purposes of this section, the term "qualifying employee" means any employee 
 
 #### (2) Exclusion
 
-&emsp;If an employer provides paid leave as vacation leave, personal leave, or medical or sick leave (other than leave specifically for 1 or more of the purposes referred to in paragraph\(1)), that paid leave shall not be considered to be family and medical leave under paragraph (1).
+&emsp;If an employer provides paid leave as vacation leave, personal leave, or medical or sick leave (other than leave specifically for 1 or more of the purposes referred to in paragraph (1)), that paid leave shall not be considered to be family and medical leave under paragraph (1).
 
 #### (3) Definitions
 
@@ -106,7 +106,7 @@ For purposes of this section, any determination as to whether an employer or an 
 
 #### (g) Wages
 
-For purposes of this section, the term "wages" has the meaning given such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). Such term shall not include any amount taken into account for purposes of determining any other credit allowed under this subpart.
+For purposes of this section, the term "wages" has the meaning given such term by subsection (b) of section 3306 (determined without regard toany dollar limitation contained in such section). Such term shall not include any amount taken into account for purposes of determining any other credit allowed under this subpart.
 
 #### (h) Election to have credit not apply
 

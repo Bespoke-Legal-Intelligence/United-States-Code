@@ -18,7 +18,7 @@
 
 &emsp;(B) order the taking of depositions from, and responses to written interrogatories by, any such individual.
 
-(3) Witnesses (whether appearing voluntarily or under subpoena) shall be paid the same fee and mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
+(3) Witnesses (whether appearing voluntarily or under subpoena) shall be paid the same feeand mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
 
 (c) In the case of contumacy or failure to obey a subpoena issued under subsection (b)(2)(A) or section 1214(b), upon application by the Board, the United States district court for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
@@ -136,7 +136,7 @@ Subsec. (f)(1). Pub. L. 101–12, §3(a)(7)(H)(i), inserted "of the Office of Pe
 
 Subsec. (f)(2). Pub. L. 101–12, §3(a)(7)(H)(ii), inserted comma after "subsection" and in subpars. (A) and (B) struck out "of this title" after "section 2302(b)".
 
-Subsec. (f)(3), (4). Pub. L. 101–12, §3(a)(7)(H)(iii), struck out "(A)" before "The Director", struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
+Subsec. (f)(3), (4). Pub. L. 101–12, §3(a)(7)(H)(iii), struck out "(A)" before "The Director", struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented,and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
 
 Subsecs. (g) to (i). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
 

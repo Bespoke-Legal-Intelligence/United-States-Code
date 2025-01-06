@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(B) to support national defense, search and rescue operations, marine commerce, navigation safety, weather, climate, and marine forecasting, energy siting and production, economic development, ecosystem-based marine, coastal, and Great Lakes resource management, public safety, and public outreach and education;
 
-&emsp;&emsp;(C) to promote greater public awareness and stewardship of the Nation's ocean,coastal, and Great Lakes resources and the general public welfare;
+&emsp;&emsp;(C) to promote greater public awareness and stewardship of the Nation's ocean, coastal, and Great Lakes resources and the general public welfare;
 
 &emsp;&emsp;(D) to provide easy access to ocean, coastal, and Great Lakes data and promote data sharing between Federal and non-Federal sources and promote public data sharing;
 

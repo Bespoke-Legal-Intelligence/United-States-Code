@@ -6,7 +6,7 @@ No later than 90 days after October 19, 1996, the Secretary shall designate 3 ce
 
 #### (b) Concentration
 
-One center shall concentrate primarily on research in the continental shelf regions of the United States, 1 center shall concentrate primarily on research in deep seabed and near-shore environments of islands, and 1 center shall concentrate primarily on research in arctic and cold water regions.
+One center shall concentrate primarily on research in the continental shelf regions of theUnited States, 1 center shall concentrate primarily on research in deep seabed and near-shore environments of islands, and 1 center shall concentrate primarily on research in arctic and cold water regions.
 
 #### (c) Criteria
 

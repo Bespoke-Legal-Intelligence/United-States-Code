@@ -8,7 +8,7 @@ The Secretary is authorized to provide for assistance to schools,<sup>1</sup> li
 
 #### Partial Repeal
 
-Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538, repealed this section insofar as it relates to schools. See section 2451 et seq. of this title. Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, 22 U.S.C. 2451 et seq., until modified or superseded by appropriate authority, of allExecutive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of this section, see section 111(b) of Pub. L. 87–256, set out as a Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions note under section 2451 of this title.
+Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538, repealed this section insofar as it relates to schools. See section 2451 et seq. of this title. Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, 22 U.S.C. 2451 et seq., until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of this section, see section 111(b) of Pub. L. 87–256, set out as a Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions note under section 2451 of this title.
 
 <i><sup>1</sup></i><i> See Partial Repeal note below.</i>
 

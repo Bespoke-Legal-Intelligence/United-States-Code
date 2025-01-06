@@ -8,7 +8,7 @@ The NTIA shall require the registry selected to operate and maintain the United 
 
 #### (1) Initial registry
 
-&emsp;The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintainthe United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002, to carry out, and to operate the new domain in accordance with, the requirements under subsection (c). Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA's process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
+&emsp;The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002, to carry out, and to operate the new domain in accordance with, the requirements under subsection (c). Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA's process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
 
 #### (2) Successor registries
 
@@ -70,7 +70,7 @@ The NTIA shall carry out a program to publicize the availability of the new doma
 
 The registry selected to operate and maintain the new domain shall—
 
-&emsp;(1) consult with appropriate agencies of the Federal Government regarding procedures andactions to prevent minors and families who use the new domain from being targeted by adults and other children for predatory behavior, exploitation, or illegal actions; and
+&emsp;(1) consult with appropriate agencies of the Federal Government regarding procedures and actions to prevent minors and families who use the new domain from being targeted by adults and other children for predatory behavior, exploitation, or illegal actions; and
 
 &emsp;(2) based upon the consultations conducted pursuant to paragraph (1), establish such procedures and take such actions as the registry may deem necessary to prevent such targeting.
 

@@ -4,7 +4,7 @@ A contract, and bid specification for a contract, to which this chapter applies 
 
 &emsp;(1)
 
-Minimum wage.—The contract and bid specification shall contain a provision specifying the minimum wage to be paid to each class of service employee engaged in the performance of the contract or any subcontract, as determined by the Secretary or the Secretary's authorized representative, in accordance with prevailing rates in the locality, or, where a collective-bargaining agreement covers the service employees, in accordance with the rates provided for in the agreement, including prospective wage increases provided for in the agreement as a result of arm's length negotiations. In any case the minimum wage may not be less than the minimum wage specified in section 6704 of this title.
+Minimum wage.—The contract and bid specification shall contain a provision specifying the minimum wage to be paid to each class of service employee engaged in the performance of the contract or any subcontract,as determined by the Secretary or the Secretary's authorized representative, in accordance with prevailing rates in the locality, or, where a collective-bargaining agreement covers the service employees, in accordance with the rates provided for in the agreement, including prospective wage increases provided for in the agreement as a result of arm's length negotiations. In any case the minimum wage may not be less than the minimum wage specified in section 6704 of this title.
 
 &emsp;(2)
 
@@ -20,7 +20,7 @@ Notice.—The contract and bid specification shall contain a provision specifyin
 
 &emsp;(5)
 
-General schedule pay rates and prevailing rate systems.—The contract and bid specification shall contain a statement of therates that would be paid by the Federal agency to each class of service employee if section 5332 or 5341 of title 5 were applicable to them. The Secretary shall give due consideration to these rates in making the wage and fringe benefit determinations specified in this section.
+General schedule pay rates and prevailing rate systems.—The contract and bid specification shall contain a statement of the rates that would be paid by the Federal agency to each class of service employee if section 5332 or 5341 of title 5 were applicable to them. The Secretary shall give due consideration to these rates in making the wage and fringe benefit determinations specified in this section.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3812.)
 

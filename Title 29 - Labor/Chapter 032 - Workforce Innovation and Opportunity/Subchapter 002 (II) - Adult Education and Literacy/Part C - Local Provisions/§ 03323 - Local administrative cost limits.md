@@ -10,7 +10,7 @@ Subject to subsection (b), of the amount that is made available under this subch
 
 #### (b) Special rule
 
-In cases where the cost limits described in subsection (a) are too restrictive to allow for theactivities described in subsection (a)(2), the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.
+In cases where the cost limits described in subsection (a) are too restrictive to allow for the activities described in subsection (a)(2), the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.
 
 (Pub. L. 113–128, title II, §233, July 22, 2014, 128 Stat. 1620.)
 

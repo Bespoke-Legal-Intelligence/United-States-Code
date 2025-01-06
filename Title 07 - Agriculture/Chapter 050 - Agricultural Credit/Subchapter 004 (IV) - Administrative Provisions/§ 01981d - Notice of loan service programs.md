@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Secretary shall provide notice by certified mail to each borrower who is at least 90 days past due on the payment of principal or interest on a loan made or insured under this chapter.
+The Secretary shall provide notice by certified mail to each borrower who is at least 90 dayspast due on the payment of principal or interest on a loan made or insured under this chapter.
 
 #### (b) Contents
 

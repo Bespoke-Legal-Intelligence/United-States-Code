@@ -28,7 +28,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the information required to be shown on the return with respect to such individual.
 
-> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
+> The written statement required under the preceding sentence shall be furnished on or beforeJanuary 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
 
 (Added Pub. L. 107–210, div. A, title II, §202(c)(1), Aug. 6, 2002, 116 Stat. 962.)
 

@@ -6,7 +6,7 @@ Teleconsultation.—(1) The Secretary shall carry out an initiative of teleconsu
 
 (2) The Secretary shall, in consultation with appropriate professional societies, promulgate technical and clinical care standards for the use of teleconsultation services within facilities of the Department.
 
-(3) In carrying out an initiative under paragraph (1), the Secretary shall ensure that facilities of the Department are able to provide a mental health or traumatic brain injury assessment to a veteran through contracting with a third-party provider or reimbursing a provider through a fee basis system when—
+(3) In carrying out an initiative under paragraph (1), the Secretary shall ensure that facilities of the Department are able to provide a mental health or traumatic brain injury assessment to a veteran through contracting with athird-party provider or reimbursing a provider through a fee basis system when—
 
 &emsp;(A) such facilities are not able to provide such assessment to the veteran without—
 

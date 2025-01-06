@@ -94,7 +94,7 @@ Section 7060(f)(2) of the Department of State, Foreign Operations, and Related P
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as partof the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "Programs".</i>
 

@@ -20,9 +20,207 @@ The President is directed to inform the Congress promptly of any threat to the s
 
 Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
 
+#### Establishment of Program Between the United States and Taiwan for Military Trauma Care
+
+Pub. L. 118–159, div. A, title XIII, §1322, Dec. 23, 2024, 138 Stat. 2114, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in consultation with the Secretary of State, may establish a joint program on military trauma care with appropriate personnel of the military forces of Taiwan, consistent with the Taiwan Relations Act (22 U.S.C. 3301 et seq.).
+
+"(b)
+
+Activities.—The program authorized by subsection (a) may consist of the following activities between personnel of the United States military health system and the medical personnel of Taiwan's military forces related to general trauma care, amputation and amputee care, post-traumatic stress disorder, traumatic brain injuries, and any other mental health condition associated with post-traumatic stress disorder or traumatic brain injuries:
+
+&emsp;"(1) Dialogue on best practices for general trauma care, with a focus on amputation and amputee care, including the following elements of amputee care:
+
+&emsp;&emsp;"(A) Use of prosthetics.
+
+&emsp;&emsp;"(B) Wound care.
+
+&emsp;&emsp;"(C) Rehabilitative therapy.
+
+&emsp;&emsp;"(D) Family counseling.
+
+&emsp;&emsp;"(E) Mental health therapy.
+
+&emsp;"(2) Training and support on trauma care, to include amputation and amputee care.
+
+&emsp;"(3) The conduct of relevant joint conferences and exchanges with military medical professionals.
+
+&emsp;"(4) Opportunities for personnel to attend classes on best practices for trauma and amputee rehabilitation.
+
+&emsp;"(5) Any other relevant military trauma care educational activities that the Secretary of Defense and appropriate officials from Taiwan's military forces determine appropriate.
+
+"(c)
+
+Use of Authorities.—In carrying out the joint program authorized by subsection (a), the Secretary of Defense may use the authorities under chapter 16 of title 10, United States Code, and other applicable statutory authorities available to the Secretary."
+
+#### Taiwan Security Cooperation Initiative
+
+Pub. L. 118–159, div. A, title XIII, §1323, Dec. 23, 2024, 138 Stat. 2115, provided that:
+
+"(a)
+
+Authority to Provide Assistance.—
+
+&emsp;"(1)
+
+In general.—Consistent with the Taiwan Relations Act (22 U.S.C. 3301 et. \[sic\] seq.), the Secretary of Defense, with the concurrence of the Secretary of State, may provide, for the purpose described in paragraph (2), appropriate assistance as defined in subsection (b) to—
+
+&emsp;&emsp;"(A) the military, central government security forces, and central government security agencies of Taiwan; and
+
+&emsp;&emsp;"(B) civilian central government entities of Taiwan that have among their functional responsibilities the support of military and central government security forces.
+
+&emsp;"(2)
+
+Purpose.—The purpose described in this paragraph is to enable Taiwan to maintain sufficient self-defense capabilities, including through one or more of the following:
+
+&emsp;&emsp;"(A) The capabilities of the military, central government security forces, and central government security agencies of Taiwan to defend against coercion and aggression.
+
+&emsp;&emsp;"(B) The ability of the civilian central governmental institutions of Taiwan to provide oversight and support, ensure accountability of, or manage, such forces.
+
+"(b)
+
+Appropriate Assistance Defined.—
+
+&emsp;"(1) For purposes of subparagraph (A) of subsection (a)(1), the term 'appropriate assistance' includes the following:
+
+&emsp;&emsp;"(A) Modifications to equipment provided by the United States for exportability or technology security.
+
+&emsp;&emsp;"(B) Technology or services for effective end-use monitoring.
+
+&emsp;&emsp;"(C) Intelligence, surveillance, and reconnaissance capabilities or support.
+
+&emsp;&emsp;"(D) Anti-armor capabilities.
+
+&emsp;&emsp;"(E) Radars.
+
+&emsp;&emsp;"(F) Manned and unmanned aerial capabilities.
+
+&emsp;&emsp;"(G) Defensive cyber capabilities.
+
+&emsp;&emsp;"(H) Long-range precision fires.
+
+&emsp;&emsp;"(I) Integrated air and missile defense systems.
+
+&emsp;&emsp;"(J) Anti-ship missiles.
+
+&emsp;&emsp;"(K) Electronic warfare and counter-electronic warfare capabilities or support.
+
+&emsp;&emsp;"(L) Secure communications equipment and other electronic protection systems.
+
+&emsp;&emsp;"(M) Undersea warfare capabilities.
+
+&emsp;&emsp;"(N) Survivable swarming maritime assets.
+
+&emsp;&emsp;"(O) Integrated air and missile defense systems or capabilities.
+
+&emsp;&emsp;"(P) Mine and counter-mine capabilities.
+
+&emsp;&emsp;"(Q) Littoral-zone and coastal defense vessels.
+
+&emsp;&emsp;"(R) Coastal defense capabilities.
+
+&emsp;&emsp;"(S) Transportation capabilities.
+
+&emsp;&emsp;"(T) Command and control capabilities.
+
+&emsp;&emsp;"(U) Munitions.
+
+&emsp;&emsp;"(V) Training for critical operations and as required to maintain or employ systems and capabilities specified in subparagraphs (B) through (U).
+
+&emsp;"(2) For purposes of subparagraph (B) of subsection (a)(1), the term 'appropriate assistance' includes the following:
+
+&emsp;&emsp;"(A) Modifications to equipment provided by the United States for exportability or technology security.
+
+&emsp;&emsp;"(B) Technology or services for effective end-use monitoring.
+
+&emsp;&emsp;"(C) Intelligence, surveillance, and reconnaissance capabilities or support.
+
+&emsp;&emsp;"(D) Radars.
+
+&emsp;&emsp;"(E) Manned and unmanned aerial capabilities.
+
+&emsp;&emsp;"(F) Defensive cyber capabilities or support.
+
+&emsp;&emsp;"(G) Secure communications equipment and other electronic protection systems.
+
+&emsp;&emsp;"(H) Transportation capabilities.
+
+&emsp;&emsp;"(I) Command and control capabilities.
+
+&emsp;&emsp;"(J) Training for critical operations and as required to maintain or employ systems and capabilities specified in subparagraphs (B) through (I).
+
+"(c)
+
+Construction of Authorization.—Nothing in this section may be construed to constitute a specific statuary authorization for the introduction of United States Armed Forces into hostilities or into situations wherein hostilities are clearly indicated by the circumstances.
+
+"(d)
+
+Funding.—Of the amounts authorized to be appropriated for fiscal year 2025 for the Department of Defense, not more than $300,000,000 may be made available for the purposes of subsection (a).
+
+"(e)
+
+Additional Authority for Use of United States Inventory.—The Secretary of Defense, with the concurrence of the Secretary of State, may, in such quantity as the Secretary of Defense determines appropriate to achieve the purposes of subsection (a)(2)—
+
+&emsp;"(1) make available to the military, central government security forces, and central government security agencies of Taiwan defense articles from the United States inventory and defense services, and to recover or dispose of such defense articles; or
+
+&emsp;"(2) make available to the foreign military and national security forces and ministries of defense (or security agencies serving a similar defense function) of foreign partners defense articles to replenish comparable stocks that such governments have provided to the military, central government security forces, and central government security agencies of Taiwan.
+
+"(f)
+
+Notification to Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 15 days before providing assistance or support under subsection (a)(1) or (e), the Secretary of Defense shall submit to the appropriate committees of Congress a notice containing a description of the defense articles or defense services that will be provided.
+
+&emsp;"(2)
+
+Assistance or support provided under subsection (a).—A report under paragraph (1) with respect to the provision of assistance or support under subsection (a)(1) shall include the following:
+
+&emsp;&emsp;"(A) An identification of the specific recipient of the defense articles or defense services.
+
+&emsp;&emsp;"(B) Objectives of providing the defense articles or defense services.
+
+&emsp;&emsp;"(C) The cost of providing the defense articles or defense services.
+
+&emsp;&emsp;"(D) The anticipated timeline for delivery of the defense articles or defense services.
+
+&emsp;"(3)
+
+Assistance or support provided under subsection (e).—A report under paragraph (1) with respect to the provision of assistance or support under subsection (e) shall include the following:
+
+&emsp;&emsp;"(A) An identification of the recipient foreign country.
+
+&emsp;&emsp;"(B) A detailed description of the articles to be provided, including the dollar value, origin, and capabilities associated with the articles.
+
+&emsp;&emsp;"(C) A detailed description of the articles provided to Taiwan to be replenished, including the dollar value, origin, and capabilities associated with the articles.
+
+&emsp;&emsp;"(D) The impact on United States inventory and readiness of transferring the articles.
+
+&emsp;&emsp;"(E) An assessment of any security, intellectual property, or end use monitoring issues associated with transferring the articles.
+
+&emsp;"(4)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives.
+
+"(g)
+
+Rule of Construction.—Nothing in this section may be construed as circumventing the applicable requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+
+"(h)
+
+Termination.—The authority provided by this section shall terminate on December 31, 2029."
+
 #### Normalizing the Transfer of Defense Articles and Defense Services to Taiwan
 
-Pub. L. 115–91, div. A, title XII, §1259A, Dec. 12, 2017, 131 Stat. 1685, provided that:
+Pub. L. 115–91, div. A, title XII, §1259A, Dec. 12, 2017, 131 Stat. 1685, as amended by Pub. L. 118–159, div. A, title XIII, §1321, Dec. 23, 2024, 138 Stat. 2114, provided that:
 
 "(a)
 
@@ -56,7 +254,7 @@ Elements.—Each report required under paragraph (1) shall specify the following
 
 &emsp;"(3)
 
-Form.—Each report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+Form.—Each report required under paragraph (1) may be submitted in classified form.
 
 "(c)
 

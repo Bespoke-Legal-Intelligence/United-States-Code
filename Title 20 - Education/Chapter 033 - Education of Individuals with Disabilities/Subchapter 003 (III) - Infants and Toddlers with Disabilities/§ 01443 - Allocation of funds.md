@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all States are eligible to receive under this subsection forsuch year, the Secretary shall ratably reduce the allotments to such States for such year.
+&emsp;&emsp;If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all States are eligible to receive under this subsection for such year, the Secretary shall ratably reduce the allotments to such States for such year.
 
 #### (B) Additional funds
 

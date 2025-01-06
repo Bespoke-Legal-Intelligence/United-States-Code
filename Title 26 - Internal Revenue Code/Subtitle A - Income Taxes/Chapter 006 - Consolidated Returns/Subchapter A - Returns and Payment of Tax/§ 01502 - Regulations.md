@@ -94,7 +94,7 @@ Net amount.—The net amount of any item of income is the amount of such income 
 
 Second same country corporation may be treated as domestic corporation in certain cases.—If—
 
-&emsp;&emsp;"(A) another foreign corporation acquires from the common parent stock of the foreign corporationreferred to in subsection (a) after the transaction referred to in subsection (a),
+&emsp;&emsp;"(A) another foreign corporation acquires from the common parent stock of the foreign corporation referred to in subsection (a) after the transaction referred to in subsection (a),
 
 &emsp;&emsp;"(B) both of such foreign corporations are subject to the income tax of the same foreign country on a residence basis, and
 

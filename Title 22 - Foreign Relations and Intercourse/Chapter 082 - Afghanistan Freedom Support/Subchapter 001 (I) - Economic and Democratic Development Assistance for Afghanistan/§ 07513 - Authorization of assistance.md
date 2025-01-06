@@ -58,7 +58,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) provision of critical agricultural inputs, such as seeds, tools, and fertilizer, and strengthening of seed multiplication, certification, and distribution systems;
 
-&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among otherthings, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
+&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
 
 &emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
 
@@ -122,7 +122,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(ii) strengthening democratic political parties;
 
-&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials ofgovernment, political, and civic or other nongovernmental entities;
+&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials of government, political, and civic or other nongovernmental entities;
 
 &emsp;&emsp;&emsp;(iv) national, regional, and local elections and political party development;
 
@@ -288,7 +288,7 @@ Pub. L. 114–328, div. A, title XV, §1521(c)(2), Dec. 23, 2016, 130 Stat. 2576
 
 "(A)
 
-In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, tothe extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
 
 "(B)
 
@@ -488,7 +488,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 #### Declarations of Policy
 
-Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: "Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan."
+Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: "Congress reaffirms theauthorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan."
 
 Pub. L. 108–458, title VII, §7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: "Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society."
 

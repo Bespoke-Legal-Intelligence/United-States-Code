@@ -12,7 +12,7 @@ Of the amounts made available under subsection (a) for the period of fiscal year
 
 &emsp;&emsp;(A) for—
 
-&emsp;&emsp;&emsp;(i) entering into contracts, including stewardship contracts or agreements, the purpose of each of which shall be to restore ecological health on not fewer than 10,000 acres of Federal land, including Indian forest land or rangeland, and for salaries and expenses associated with preparing and executing those contracts; and
+&emsp;&emsp;&emsp;(i) entering into contracts, including stewardship contracts or agreements, the purpose of each of which shall be to restore ecological health on not fewer than 10,000 acres of Federal land, including Indian forest land or rangeland, and for salaries andexpenses associated with preparing and executing those contracts; and
 
 &emsp;&emsp;&emsp;(ii) establishing a Working Capital Fund that may be accessed by the Secretary of the Interior or the Secretary of Agriculture to fund requirements of contracts described in clause (i), including cancellation and termination costs, consistent with section 6591c(h) of this title, and periodic payments over the span of the contract period; and
 
@@ -190,7 +190,7 @@ This Act, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 117–58, Nov. 15, 2
 
 #### Codification
 
-Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the HealthyForests Restoration Act of 2003 which comprises this chapter.
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Healthy Forests Restoration Act of 2003 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

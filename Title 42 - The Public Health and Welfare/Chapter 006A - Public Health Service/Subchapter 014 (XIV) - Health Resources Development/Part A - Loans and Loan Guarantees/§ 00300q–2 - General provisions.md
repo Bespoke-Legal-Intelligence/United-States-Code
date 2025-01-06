@@ -4,7 +4,7 @@
 
 (1) The Secretary may not approve a loan guarantee for a project under this part unless he determines that (A) the terms, conditions, security (if any), and schedule and amount of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the United States, and (B) the loan would not be available on reasonable terms and conditions without the guarantee under this part.
 
-(2)(A) The United States shall be entitled to recover from the applicant for a loan guarantee under this part the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made.
+(2)(A) The United States shall be entitled to recover from the applicant for a loan guarantee under this part the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all ofthe rights of the recipient of the payments with respect to which the guarantee was made.
 
 (B) To the extent permitted by subparagraph (C), any terms and conditions applicable to a loan guarantee under this part (including terms and conditions imposed under subparagraph (D)) may be modified by the Secretary to the extent he determines it to be consistent with the financial interest of the United States.
 
@@ -26,7 +26,7 @@
 
 #### (c) Sale of loans; authority; amount; agreements with purchasers; deposit of proceeds
 
-(1) The Secretary shall from time to time, but with due regard to the financial interests of theUnited States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
+(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
 
 (2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loans as of time of sale.
 
@@ -48,7 +48,7 @@
 
 (4) Amounts received by the Secretary as proceeds from the sale of loans under this subsection shall be deposited in the fund established under subsection (d).
 
-(5) If any loan to a public entity under this part is sold and guaranteed by the Secretary under this subsection, interest paid on such loan after its sale and any interest subsidy paid, under paragraph (3)(A)(ii), by the Secretary with respect to such loan which is received by the purchaser of the loan (or the purchaser's successor in interest) shall be included in the gross income of the purchaser or successor for the purpose of chapter 1 of title 26.
+(5) If any loan to a public entity under this part is sold and guaranteed by the Secretary under this subsection, interest paid on such loan after its sale and any interest subsidy paid, under paragraph (3)(A)(ii), by the Secretary with respect to such loan which is received by the purchaser of the loan (or the purchaser's successor in interest) shall be included in the grossincome of the purchaser or successor for the purpose of chapter 1 of title 26.
 
 #### (d) Loan and loan guarantee fund; establishment; amounts authorized to be appropriated; issuance, purchase, and sale of notes, obligations, etc.; interest rates; public debt transactions
 
@@ -82,7 +82,7 @@
 
 &emsp;(F) to enable the Secretary to take the action authorized by subsection (f),
 
-> he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. TheSecretary of the Treasury shall purchase any notes and other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
+> he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notes and other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
 
 #### (e) Transfers to and additional capitalization of loan and loan guarantee fund
 

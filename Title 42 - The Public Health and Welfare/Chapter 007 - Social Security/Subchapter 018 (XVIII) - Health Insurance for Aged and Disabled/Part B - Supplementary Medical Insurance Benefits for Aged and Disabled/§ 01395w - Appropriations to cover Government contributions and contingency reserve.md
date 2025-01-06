@@ -64,7 +64,7 @@ The Secretary shall determine the Government contribution under subparagraphs (A
 
 #### (f) Transfer of certain General Fund amounts for COVID–19 public health emergency period
 
-(1) There shall be transferred from the General Fund of the Treasury to the Trust Fund anamount, as estimated by the Chief Actuary of the Centers for Medicare \& Medicaid Services, equal to amounts paid in advance for items and services under this part during the period beginning on the first day of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on October 1, 2020.
+(1) There shall be transferred from the General Fund of the Treasury to the Trust Fund an amount, as estimated by the Chief Actuary of the Centers for Medicare \& Medicaid Services, equal to amounts paid in advance for items and services under this part during the period beginning on the first day of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on October 1, 2020.
 
 (2) There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the sum of—
 
@@ -118,7 +118,7 @@ Pub. L. 108–173, §222(l)(2)(C), inserted "or any credits provided under secti
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–234 repealed Pub. L. 100–360, §211(c)(2), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–360 inserted at end "In computing the amount of aggregate premiums and premiums per enrollee under paragraph (1), there shall not be taken into account premiums attributable to section 1395r(g) of this title or section 59B of the Internal Revenue Code of 1986."
+<b>1988</b>—Subsec. (a). Pub. L. 100–360 inserted at end "In computing the amount of aggregate premiums and premiums per enrollee under paragraph (1), there shall notbe taken into account premiums attributable to section 1395r(g) of this title or section 59B of the Internal Revenue Code of 1986."
 
 <b>1984</b>—Subsec. (a)(1)(B)(ii). Pub. L. 98–369 substituted "; plus" for a period.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see sect
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–234 effective Jan. 1, 1990, and applicable to premiums for months beginning afterDec. 31, 1989, see section 202(b) of Pub. L. 101–234, set out as a note under section 401 of this title.
+Amendment by Pub. L. 101–234 effective Jan. 1, 1990, and applicable to premiums for months beginning after Dec. 31, 1989, see section 202(b) of Pub. L. 101–234, set out as a note under section 401 of this title.
 
 #### Effective Date of 1988 Amendment
 

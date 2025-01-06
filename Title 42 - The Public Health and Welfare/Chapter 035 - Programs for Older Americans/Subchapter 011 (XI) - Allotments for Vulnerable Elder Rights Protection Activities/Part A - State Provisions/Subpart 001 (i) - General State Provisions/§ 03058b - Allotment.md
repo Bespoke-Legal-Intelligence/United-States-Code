@@ -26,7 +26,7 @@
 
 #### (i) Ombudsman program
 
-&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated undersection 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
+&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
 
 #### (ii) Elder abuse programs
 
@@ -56,7 +56,7 @@ If the Assistant Secretary finds that any State has failed to carry out this sub
 
 #### Prior Provisions
 
-A prior section 3058b, Pub. L. 89–73, title VII, §704, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1789, related to older Americans personal health education and training program, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
+A prior section 3058b, Pub. L. 89–73, title VII, §704, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat.1789, related to older Americans personal health education and training program, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this title prior to repeal by Pub. L. 95–478.
 

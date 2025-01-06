@@ -262,7 +262,7 @@ State or local governmental group health plan.—The term 'State or local govern
 
 &emsp;&emsp;"(B)
 
-Alternate recipient.—The term 'alternate recipient' means any child of a participant who isrecognized under a National Medical Support Notice as having a right to enrollment under a State or local governmental group health plan with respect to such participant.
+Alternate recipient.—The term 'alternate recipient' means any child of a participant who is recognized under a National Medical Support Notice as having a right to enrollment under a State or local governmental group health plan with respect to such participant.
 
 &emsp;&emsp;"(C)
 
@@ -342,7 +342,7 @@ Information to be included in qualified order.—A medical child support order m
 
 &emsp;"(4)
 
-Restriction on new types or forms of benefits.—A medical child support order meets the requirements of this paragraph only if such order does not require a church group health plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]).
+Restriction on new types or forms of benefits.—A medical child support order meets the requirements of this paragraph only if such order does not require a church group health plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added bysection 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]).
 
 &emsp;"(5)
 

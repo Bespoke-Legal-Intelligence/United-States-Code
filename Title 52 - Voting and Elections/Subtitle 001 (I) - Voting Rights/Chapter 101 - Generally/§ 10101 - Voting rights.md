@@ -104,6 +104,10 @@ Subsecs. (e), (f). Pub. L. 86–449, §601(a), added subsec. (e) and redesignate
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–106, §1, Oct. 4, 2024, 138 Stat. 1591, provided that: "This Act \[enacting section 21083a of this title and amending sections 21084, 21085, and 21111 of this title\] may be cited as the 'Confirmation Of Congressional Observer Access Act of 2024' or the 'COCOA Act of 2024'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–182, §1, Sept. 30, 2022, 136 Stat. 2178, provided that: "This Act \[amending section 21061 of this title and enacting provisions set out as a note under section 21061 of this title\] may be cited as the 'Protection and Advocacy for Voting Access Program Inclusion Act' or the 'PAVA Program Inclusion Act'."
@@ -136,7 +140,7 @@ Pub. L. 99–410, §1, Aug. 28, 1986, 100 Stat. 924, provided that: "This Act \[
 
 #### Short Title of 1984 Act
 
-Pub. L. 98–435, §1, Sept. 28, 1984, 98 Stat. 1678, provided that: "This Act \[see Tables for classification\] may be cited as the 'Voting Accessibility for the Elderly and Handicapped Act'."
+Pub. L. 98–435, §1, Sept. 28, 1984, 98 Stat. 1678, provided that: "This Act \[see Tables for classification\] may becited as the 'Voting Accessibility for the Elderly and Handicapped Act'."
 
 #### Short Title of 1982 Act
 
@@ -144,7 +148,7 @@ Pub. L. 97–205, §1, June 29, 1982, 96 Stat. 131, provided: "That this Act \[s
 
 #### Short Title of 1980 Act
 
-Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339, provided in part: "That this Act \[see Tables for classification\] maybe cited as the 'Federal Election Campaign Act Amendments of 1979'."
+Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339, provided in part: "That this Act \[see Tables for classification\] may be cited as the 'Federal Election Campaign Act Amendments of 1979'."
 
 #### Short Title of 1976 Act
 

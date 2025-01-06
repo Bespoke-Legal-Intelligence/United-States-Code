@@ -36,7 +36,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 &emsp;(A) the average weekly wage of any such civilian American citizen, whether employed, self-employed, or not employed, shall be deemed to have been $37.50;
 
-&emsp;(B) the provisions of such Act \[42 U.S.C. 1701 et seq.\],<sup>1</sup> shall be applicable whether or not any such civilian American citizen was employed;
+&emsp;(B) the provisions of such Act \[42 U.S.C. 1701 et seq.\],<sup>1</sup> shall be applicable whether or notany such civilian American citizen was employed;
 
 &emsp;(C) notice of injury or death shall not be required; and limitation provisions with respect to the filing of claims for injury, disability, or death shall not begin to run until July 3, 1948; and
 
@@ -76,7 +76,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 &emsp;(C) child or children of the deceased (in equal shares) if there is no widow or dependent husband.
 
-(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out of funds appropriated pursuant to this subsection, and shall be paid by the Secretary of the Treasury to the person entitled thereto, except that where any person entitled to payment under this subsection is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of this section.
+(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out offunds appropriated pursuant to this subsection, and shall be paid by the Secretary of the Treasury to the person entitled thereto, except that where any person entitled to payment under this subsection is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of this section.
 
 (6) Each claim filed under this subsection must be filed not later than one year from whichever of the following dates last occurs:
 
@@ -128,7 +128,7 @@ In the case of any Guamanian killed or captured by the Imperial Japanese Governm
 
 > The Commission shall complete its determinations for each claim filed under this subsection at the earliest practicable date, but not later than one year after the date on which such claim was filed.
 
-(7) There are authorized to be appropriated such amounts as may be necessary to carry out the purposes of this subsection, including necessary administrative expenses.
+(7) There are authorized to be appropriated such amounts as may be necessary to carry outthe purposes of this subsection, including necessary administrative expenses.
 
 (July 3, 1948, ch. 826, title I, §5, 62 Stat. 1242; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Apr. 9, 1952, ch. 168, §1, 66 Stat. 49; Aug. 21, 1954, ch. 784, §1, 68 Stat. 759; Aug. 31, 1954, ch. 1162, title I, §§101 (a)–(c), 102(a), 68 Stat. 1033, 1034; Pub. L. 87–617, Aug. 31, 1962, 76 Stat. 413; Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107; Pub. L. 91–289, §3, June 24, 1970, 84 Stat. 324; Pub. L. 94–383, Aug. 12, 1976, 90 Stat. 1122.)
 
@@ -138,7 +138,7 @@ In the case of any Guamanian killed or captured by the Imperial Japanese Governm
 
 The Act entitled "An Act to provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes", approved December 2, 1942, referred to in subsec. (f)(1), is act Dec. 2, 1942, ch. 668, 56 Stat. 1028, which is classified principally to chapter 12 (§1701 et seq.) of Title 42, The Public Health and Welfare. Titles I and II of the act, popularly known as the War Hazards Compensation Act, are classified generally to subchapters I (§1701 et seq.) and II (§1711 et seq.) of chapter 12 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Federal Employee Compensation Act, referred to in subsec. (f)(11), is act Sept. 7, 1916, ch. 458, 39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Federal Employee Compensation Act, referred to in subsec. (f)(11), is act Sept. 7, 1916, ch. 458, 39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 Subsection (b) of section 5 of the Act entitled "An Act to amend the Act entitled 'An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes', as amended", approved July 28, 1945, referred to in subsec. (f)(11), is section 5(b) of act July 28, 1945, ch. 328, 59 Stat. 504, which enacted section 801 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 85–608, §303, Aug. 8, 1958, 72 Stat. 539. See section 8102(b) of Title 5, Government Organization and Employees.
 

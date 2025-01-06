@@ -16,9 +16,11 @@ It is the policy of the United States for the Corps of Engineers to strive to un
 
 &emsp;&emsp;&emsp;(ii) section 1962d–16 of title 42; and
 
-&emsp;&emsp;&emsp;(iii) section 2269 of this title; and
+&emsp;&emsp;&emsp;(iii) section 2269 of this title;
 
-&emsp;&emsp;(B) continuing authority programs, as such term is defined in section 2282d(c)(1)(D) of this title.
+&emsp;&emsp;(B) continuing authority programs, as such term is defined in section 2282d(c)(1)(D) of this title; and
+
+&emsp;&emsp;(C) ensuring that a potential non-Federal interest is aware of the roles, responsibilities, and financial commitments associated with a completed water resources development project prior to initiating a feasibility study (as defined in section 2215(d) of this title), including operations, maintenance, repair, replacement, and rehabilitation responsibilities.
 
 #### (2) Implementation
 
@@ -26,33 +28,57 @@ It is the policy of the United States for the Corps of Engineers to strive to un
 
 &emsp;&emsp;(A) develop and make publicly available (including on a publicly available website), technical assistance materials, guidance, and other information with respect to the water resources development authorities of the Secretary;
 
-&emsp;&emsp;(B) establish and make publicly available (including on a publicly available website), an appropriate point of contact at each district and division office of the Corps of Engineers for inquiries from potential non-Federal interests relating to the water resources development authorities of the Secretary;
+&emsp;&emsp;(B) designate and make publicly available a community project advisor at each district and division office of the Corps of Engineers for—
+
+&emsp;&emsp;&emsp;(i) inquiries from potential non-Federal interests relating to the water resources development authorities of the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) any other responsibilities as determined by the Secretary that are appropriate to carry out this section;
 
 &emsp;&emsp;(C) conduct regular outreach and engagement, including through hosting seminars and community information sessions, with local elected officials, community organizations, and previous and potential non-Federal interests, on opportunities to address local water resources challenges through the water resources development authorities of the Secretary;
 
-&emsp;&emsp;(D) issue guidance for, and provide technical assistance through technical service programs to, non-Federal interests to assist such interests in pursuing technical services and developing proposals for water resources development projects; and
+&emsp;&emsp;(D) issue guidance for, and provide technical assistance through technical service programs to, non-Federal interests to assist such interests in pursuing technical services and developing proposals for water resources development projects;
 
-&emsp;&emsp;(E) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations or authorities to address local water resources challenges.
+&emsp;&emsp;(E) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations or authorities to address local water resources challenges; and
 
-#### (3) Prioritization
+&emsp;&emsp;(F) to the maximum extent practicable—
+
+&emsp;&emsp;&emsp;(i) develop and continue to make publicly available, through a publicly available existing website, information on the projects and studies within the jurisdiction of each district of the Corps of Engineers; and
+
+&emsp;&emsp;&emsp;(ii) ensure that the information described in clause (i) is consistent and made publicly available in the same manner across all districts of the Corps of Engineers.
+
+#### (3) Guidance
+
+&emsp;The Secretary shall develop and issue guidance to ensure that community project advisors designated under paragraph (2)(B) are adequately fulfilling their obligations under that paragraph.
+
+#### (4) Prioritization
 
 &emsp;In carrying out this subsection, the Secretary shall, to the maximum extent practicable, prioritize awareness, education, and outreach and engagement to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 (33 U.S.C. 2201 note)), including economically disadvantaged communities located in urban and rural areas.
 
-#### (4) Authorization of appropriations
+#### (5) Authorization of appropriations
 
 &emsp;There is authorized to be appropriated to carry out this section $30,000,000 for each fiscal year.
 
-(Pub. L. 117–263, div. H, title LXXXI, §8117, Dec. 23, 2022, 136 Stat. 3709.)
+(Pub. L. 117–263, div. H, title LXXXI, §8117, Dec. 23, 2022, 136 Stat. 3709; Pub. L. 118–272, div. A, title I, §1101(a), Jan. 4, 2025, 138 Stat. 2996.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 160 of the Water Resources Development Act of 2020, referred to in subsec. (b)(3), is section 160 of div. AA of Pub. L. 116–260, which is set out as a note under section 2201 of this title.
+Section 160 of the Water Resources Development Act of 2020, referred to in subsec. (b)(4), is section 160 of div. AA of Pub. L. 116–260, which is set out as a note under section 2201 of this title.
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2022, and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2025</b>—Subsec. (b)(1)(C). Pub. L. 118–272, §1101(a)(1), added subpar. (C).
+
+Subsec. (b)(2)(B). Pub. L. 118–272, §1101(a)(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "establish and make publicly available (including on a publicly available website), an appropriate point of contact at each district and division office of the Corps of Engineers for inquiries from potential non-Federal interests relating to the water resources development authorities of the Secretary;".
+
+Subsec. (b)(2)(F). Pub. L. 118–272, §1101(a)(2)(B)–(D), added subpar. (F).
+
+Subsec. (b)(3) to (5). Pub. L. 118–272, §1101(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -128,7 +154,7 @@ Committee.—The term 'Committee' means the Tribal and Economically Disadvantage
 
 &emsp;"(2)
 
-Economically disadvantaged community.—The term 'economically disadvantaged community'has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 \[div. AA of Pub. L. 116–260\] (33 U.S.C. 2201 note).
+Economically disadvantaged community.—The term 'economically disadvantaged community' has the meaning given the term as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 \[div. AA of Pub. L. 116–260\] (33 U.S.C. 2201 note).
 
 &emsp;"(3)
 

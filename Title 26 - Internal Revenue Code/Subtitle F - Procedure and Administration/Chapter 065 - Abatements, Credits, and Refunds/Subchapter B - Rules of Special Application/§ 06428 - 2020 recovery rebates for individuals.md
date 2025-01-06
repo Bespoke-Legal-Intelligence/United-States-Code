@@ -248,7 +248,7 @@ Pub. L. 116–136, div. A, title II, §2201(d), Mar. 27, 2020, 134 Stat. 338, as
 
 #### Public Awareness Campaign
 
-Pub. L. 116–136, div. A, title II, §2201(e), Mar. 27, 2020, 134 Stat. 339, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall conduct a public awareness campaign, in coordination with the Commissioner of Social Security and the heads of other relevant Federal agencies, to provide information regarding the availability of the credit and rebate allowed under section 6428 of the Internal Revenue Code of 1986 (as added by this section), including information with respect to individuals who may not have filed a tax return for taxable year 2018 or 2019."
+Pub. L. 116–136, div. A, title II, §2201(e), Mar. 27, 2020, 134 Stat. 339, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall conduct a public awareness campaign, in coordination with the Commissioner of Social Security and the heads of otherrelevant Federal agencies, to provide information regarding the availability of the credit and rebate allowed under section 6428 of the Internal Revenue Code of 1986 (as added by this section), including information with respect to individuals who may not have filed a tax return for taxable year 2018 or 2019."
 
 #### Economic Recovery Payment to Recipients of Social Security, Supplemental Security Income, Railroad Retirement Benefits, and Veterans Disability Compensation or Pension Benefits
 

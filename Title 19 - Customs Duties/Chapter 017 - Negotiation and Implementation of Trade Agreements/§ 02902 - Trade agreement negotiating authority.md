@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(A) in applying subsection (a)(1)(A) of section 2903 of this title to any such agreement, the phrase "at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993)," shall be substituted for the phrase "at least 90 calendar days before the day on which he enters into the trade agreement,"; and
 
-&emsp;&emsp;(B) no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and inapplying such paragraph, "April 16, 1994;" shall be substituted for "June 1, 1991;".
+&emsp;&emsp;(B) no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and in applying such paragraph, "April 16, 1994;" shall be substituted for "June 1, 1991;".
 
 #### (4) Advisory committee reports
 

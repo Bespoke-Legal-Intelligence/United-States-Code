@@ -44,6 +44,8 @@ A prior section 2107 was renumbered section 2111 of this title.
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(1), substituted "Archivist" for "Administrator of General Services" in provisions preceding par. (1), substituted ", the Congress, the Architect of the Capitol, or the Supreme Court" for "or of the Congress" in par. (1), substituted "Archivist" for "Administrator" in par. (2), and substituted "Archivist" for "Administrator" and "section 2111" for "section 2107" in par. (4).
 
+Pub. L. 98–497, §102(a)(1), renumbered section 2103 of this title as this section.
+
 <b>1978</b>—Par. (2). Pub. L. 95–416 substituted "thirty years" for "fifty years".
 
 <b>1976</b>—Par. (4). Pub. L. 94–575 substituted reference to section "2107" for "3106".
@@ -148,7 +150,7 @@ Oversight.—
 
 &emsp;"(1)
 
-Senate.—The Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate shall have continuing legislative oversight jurisdiction in the Senate with respect to the Collection.
+Senate.—The Committee on Homeland Security and Governmental Affairs, the Committee onArmed Services, and the Select Committee on Intelligence of the Senate shall have continuing legislative oversight jurisdiction in the Senate with respect to the Collection.
 
 &emsp;"(2)
 
@@ -254,7 +256,7 @@ Uniform system.—The Archivist shall ensure that the identification aid program
 
 Requirements for government offices.—Upon completion of an identification aid using the standard form of identification prepared and made available under subparagraph (A) of paragraph (1) for the program established pursuant to subparagraph (B) of such paragraph, the head of a Government office shall—
 
-&emsp;&emsp;"(A) attach a printed copy to each physical unidentified anomalous phenomena record, and an electronic copy to each softcopy or digitized data unidentified anomalous phenomena record, the identification aid describes; and
+&emsp;&emsp;"(A) attach a printed copy to each physical unidentified anomalous phenomena record, and anelectronic copy to each softcopy or digitized data unidentified anomalous phenomena record, the identification aid describes; and
 
 &emsp;&emsp;"(B) attach a printed copy to each physical unidentified anomalous phenomena record, and an electronic copy to each softcopy or digitized data unidentified anomalous phenomena record the identification aid describes, when transmitted to the Archivist.
 
@@ -548,7 +550,7 @@ Requirements of periodic review.—The periodic review under paragraph (1) shall
 
 &emsp;"(3)
 
-Unclassified written description.—Any civil rights cold case record for which postponement ofpublic disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
+Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
 
 &emsp;"(4)
 
@@ -950,7 +952,7 @@ Presidential Authority Over Review Board Determination.—
 
 &emsp;"(1)
 
-Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch civil rights cold case record or information containedin a civil rights cold case record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 4, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 4.
+Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch civil rights cold case record or information contained in a civil rights cold case record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 4, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 4.
 
 &emsp;"(2)
 
@@ -1006,7 +1008,7 @@ Materials Under the Seal of the Court.—
 
 &emsp;"(1)
 
-In general.—The Review Board may request the Attorney General to petition any court in the United States or abroad to release any information relevant to civil rights cold cases that is held under seal of court.
+In general.—The Review Board may request the Attorney General to petition any court in the United States or abroad to release any informationrelevant to civil rights cold cases that is held under seal of court.
 
 &emsp;"(2)
 
@@ -1596,7 +1598,7 @@ Presidential Authority Over Review Board Determination.—
 
 &emsp;"(1)
 
-Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch assassination record or information within such a record, or of any information contained in an assassination record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 6, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive branch agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 6, accompanied by a copy of the identification aid required under section 4.
+Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch assassination record or information within such a record, or of any information contained in an assassination record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 6, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the ReviewBoard's determination and notice to the executive branch agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 6, accompanied by a copy of the identification aid required under section 4.
 
 &emsp;"(2)
 
@@ -1766,7 +1768,7 @@ Sec. 5. <i>Intensive 1-Year Review</i>. (a) Over the next year, agencies proposi
 
 (g) If NARA agrees that a proposed redaction meets the asserted statutory standard for continued postponement, the Archivist shall recommend to the President, no later than October 1, 2022, that continued postponement from public disclosure of the information is warranted after December 15, 2022.
 
-(h) At the conclusion of the 1-year review, any information still withheld from public disclosure that agencies do not propose for continued postponement beyondDecember 15, 2022, shall be released to the public on that date.
+(h) At the conclusion of the 1-year review, any information still withheld from public disclosure that agencies do not propose for continued postponement beyond December 15, 2022, shall be released to the public on that date.
 
 (i) At the conclusion of the 1-year review, each unclassified letter described in subsection (c)(i) of this section and each unclassified index described in subsection (c)(ii) of this section shall be disclosed to the public on December 15, 2022, with any updates made to account for any information initially proposed for continued postponement that is not postponed from public disclosure beyond December 15, 2022.
 
@@ -1834,7 +1836,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Section 1. <i>Policy</i>. In the three decades since the President John F. Kennedy Assassination Records Collection Act of 1992 \[Pub. L. 102–526\] (44 U.S.C. 2107 note) (the "Act") was enacted, the United States Government has undertaken a comprehensive review of its records and has strived to make available to the public thousands of classified documents that provide a fuller understanding of the tragic assassination of President John F. Kennedy. As I have reiterated throughout my Presidency, I fully support the Act's aim to maximize transparency by disclosing all information in records concerning the assassination, except when the strongest possible reasons counsel otherwise. Executive departments and agencies (agencies) have worked meticulously over thousands of hours of review to ensure that the American people have access to every single word that is appropriate for release under the standards of the Act. With my final certification made in this memorandum—the last required under the Act—and definitive plans for future disclosures, my Administration is fulfilling the promise of transparency to the American people.
 
-Sec. 2. <i>Background</i>. (a) The Act permits the continued postponement of public disclosure of information in records concerning President Kennedy's assassination only when postponement remains necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. Agencies have applied this statutory standard when proposing the continued postponement of public disclosure of specific information, and the National Archives and Records Administration (NARA) has reviewed each of these redactions to determine whether NARA agrees that these redactions continue to meet the statutory standard. In the Presidential Memorandum of December 15, 2022 (Certifications Regarding Disclosure of Information in Certain Records Related to the Assassination of President John F. Kennedy) \[set out above\] (December 2022 Memorandum), I certified the temporary continued postponement of public disclosure of redacted information in a small number of records covered by the Act. At the time, the Acting Archivist of the United States (Acting Archivist) advised that a limited number of records that were the subject of agency proposals for temporary continued postponement warranted further review to ensure that information from these records is disclosed to the maximum extent possible, consistent with the standards of theAct. In the December 2022 Memorandum, consistent with that advice, I directed agencies to continue to work with NARA to review these records to determine if additional information proposed for redaction could be disclosed.
+Sec. 2. <i>Background</i>. (a) The Act permits the continued postponement of public disclosure of information in records concerning President Kennedy's assassination only when postponement remains necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. Agencies have applied this statutory standard when proposing the continued postponement of public disclosure of specific information, and the National Archives and Records Administration (NARA) has reviewed each of these redactions to determine whether NARA agrees that these redactions continue to meet the statutory standard. In the Presidential Memorandum of December 15, 2022 (Certifications Regarding Disclosure of Information in Certain Records Related to the Assassination of President John F. Kennedy) \[set out above\] (December 2022 Memorandum), I certified the temporary continued postponement of public disclosure of redacted information in a small number of records covered by the Act. At the time, the Acting Archivist of the United States (Acting Archivist) advised that a limited number of records that were the subject of agency proposals for temporary continued postponement warranted further review to ensure that information from these records is disclosed to the maximum extent possible, consistent with the standards of the Act. In the December 2022 Memorandum, consistent with that advice, I directed agencies to continue to work with NARA to review these records to determine if additional information proposed for redaction could be disclosed.
 
 (b) On May 1, 2023, the Acting Archivist informed me that the review process was complete and recommended that I postpone the public release of certain redacted information in the records certified for temporary postponement of public release in the December 2022 Memorandum.
 

@@ -6,7 +6,7 @@ Motor Carriers of Passengers.—
 
 &emsp;(1)
 
-Limitation on state law.—No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to—
+Limitation on state law.—No State or political subdivision thereof and no interstateagency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to—
 
 &emsp;&emsp;(A) scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by a motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route;
 

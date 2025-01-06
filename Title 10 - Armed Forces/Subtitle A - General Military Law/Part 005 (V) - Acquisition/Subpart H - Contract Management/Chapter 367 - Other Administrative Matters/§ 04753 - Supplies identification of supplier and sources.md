@@ -12,7 +12,7 @@
 
 (2) The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial products (as defined in section 103 of title 41).
 
-(3) The regulations prescribed pursuant to paragraph (1) do not apply to a contract for anamount not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
+(3) The regulations prescribed pursuant to paragraph (1) do not apply to a contract for an amount not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
 
 (c) Identification of supplies and technical data under this section shall be made in the manner and with respect to the supplies prescribed by the Secretary of Defense.
 
@@ -88,7 +88,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–500, §101(c) \[title X, §928(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, Pub. L. 99–591, §101(c) \[title X, §928(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, Pub. L. 99–661, div. A, title IX, formerly title IV, §928(b), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §928(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, Pub. L. 99–591, §101(c) \[title X,§928(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, Pub. L. 99–661, div. A, title IX, formerly title IV, §928(b), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Effective Date of 1984 Amendment
 

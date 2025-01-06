@@ -118,7 +118,7 @@
 
 #### (B) Informed choice
 
-&emsp;&emsp;An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d).
+&emsp;&emsp;An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice inselecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d).
 
 #### (C) Signatories
 
@@ -262,7 +262,7 @@
 
 #### (E) Scheduling
 
-&emsp;&emsp;Each session in the mediation process shall be scheduled in a timely manner and shall be held in a location that is convenient to the parties to the dispute.
+&emsp;&emsp;Each session in the mediation process shall be scheduled in a timely manner andshall be held in a location that is convenient to the parties to the dispute.
 
 #### (F) Agreement
 
@@ -362,7 +362,7 @@
 
 #### (B) Application
 
-&emsp;&emsp;The provisions of paragraphs (1), (2), and (3) that relate to due process hearings do notapply, and paragraph (5) (other than subparagraph (J)) does not apply, to any State to which subparagraph (A) applies.
+&emsp;&emsp;The provisions of paragraphs (1), (2), and (3) that relate to due process hearings do not apply, and paragraph (5) (other than subparagraph (J)) does not apply, to any State to which subparagraph (A) applies.
 
 #### (7) Impact on provision of services
 
@@ -428,7 +428,7 @@ Each designated State agency, in consultation with the State Rehabilitation Coun
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat.620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

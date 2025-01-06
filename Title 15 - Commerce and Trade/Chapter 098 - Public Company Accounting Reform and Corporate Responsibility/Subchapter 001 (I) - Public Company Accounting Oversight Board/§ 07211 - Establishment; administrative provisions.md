@@ -14,7 +14,7 @@ The Board shall, subject to action by the Commission under section 7217 of this 
 
 &emsp;(1) register public accounting firms that prepare audit reports for issuers, brokers, and dealers, in accordance with section 7212 of this title;
 
-&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, and other standards relating to the preparation of audit reports for issuers, brokers, and dealers, in accordance with section 7213 of this title;
+&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, and other standards relating to the preparation ofaudit reports for issuers, brokers, and dealers, in accordance with section 7213 of this title;
 
 &emsp;(3) conduct inspections of registered public accounting firms, in accordance with section 7214 of this title and the rules of the Board;
 
@@ -42,7 +42,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 #### (3) Full-time independent service
 
-&emsp;Each member of the Board shall serve on a full-time basis, and may not, concurrent withservice on the Board, be employed by any other person or engage in any other professional or business activity. No member of the Board may share in any of the profits of, or receive payments from, a public accounting firm (or any other person, as determined by rule of the Commission), other than fixed continuing payments, subject to such conditions as the Commission may impose, under standard arrangements for the retirement of members of public accounting firms.
+&emsp;Each member of the Board shall serve on a full-time basis, and may not, concurrent with service on the Board, be employed by any other person or engage in any other professional or business activity. No member of the Board may share in any of the profits of, or receive payments from, a public accounting firm (or any other person, as determined by rule of the Commission), other than fixed continuing payments, subject to such conditions as the Commission may impose, under standard arrangements for the retirement of members of public accounting firms.
 
 #### (4) Appointment of Board members
 
@@ -108,7 +108,7 @@ The rules of the Board shall, subject to the approval of the Commission—
 
 #### (h) Annual report to the Commission
 
-The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmita copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
+The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmit a copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
 
 (Pub. L. 107–204, title I, §101, July 30, 2002, 116 Stat. 750; Pub. L. 111–203, title IX, §982(b), July 21, 2010, 124 Stat. 1928.)
 

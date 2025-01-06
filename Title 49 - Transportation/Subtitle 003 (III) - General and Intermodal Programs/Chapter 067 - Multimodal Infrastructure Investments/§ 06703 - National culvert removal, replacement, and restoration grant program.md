@@ -68,7 +68,7 @@ Prioritization.—The Secretary, in consultation with the Undersecretary and the
 
 (f)
 
-Federal Share.—The Federal share of the cost of a project carried out with a grant to a State or a unit of local government under the program shall be not more than 80 percent.
+Federal Share.—The Federal share of the cost of a project carried out with a grant to aState or a unit of local government under the program shall be not more than 80 percent.
 
 (g)
 
@@ -80,7 +80,7 @@ Administrative Expenses.—Of the amounts made available for each fiscal year to
 
 (i)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out theprogram $800,000,000 for each of fiscal years 2022 through 2026.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the program $800,000,000 for each of fiscal years 2022 through 2026.
 
 (Added Pub. L. 117–58, div. B, title I, §21203(a), Nov. 15, 2021, 135 Stat. 676.)
 

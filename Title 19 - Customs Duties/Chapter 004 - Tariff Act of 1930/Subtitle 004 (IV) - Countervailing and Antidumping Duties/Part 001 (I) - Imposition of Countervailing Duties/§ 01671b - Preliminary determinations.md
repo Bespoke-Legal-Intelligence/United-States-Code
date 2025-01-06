@@ -42,7 +42,7 @@ De minimis countervailable subsidy.—
 
 &emsp;(A)
 
-General rule.—In making a determination under this subsection, the administering authority shall disregard any de minimis countervailable subsidy. For purposes of the preceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
+General rule.—In making a determination under this subsection, the administering authority shall disregard any de minimis countervailable subsidy. For purposes of the preceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the netcountervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(B)
 
@@ -126,7 +126,7 @@ If the preliminary determination of the administering authority under subsection
 
 &emsp;&emsp;(B) the date that is 60 days after the date on which notice of the determination to initiate the investigation is published in the Federal Register, and
 
-&emsp;(3) shall make available to the Commission all information upon which its determination was based and which the Commission considers relevant to its injury determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
+&emsp;(3) shall make available to the Commission all information upon which its determinationwas based and which the Commission considers relevant to its injury determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
 > The instructions of the administering authority under paragraphs (1) and (2) may not remain in effect for more than 4 months.
 
@@ -156,7 +156,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 #### (1) In general
 
-&emsp;Whenever the administering authority concludes prior to a preliminary determinationunder subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under section 1671a(b) of this title or initiation of an investigation under section 1671a(a) of this title (310 days in cases declared extraordinarily complicated under subsection (c)), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
+&emsp;Whenever the administering authority concludes prior to a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under section 1671a(b) of this title or initiation of an investigation under section 1671a(a) of this title (310 days in cases declared extraordinarily complicated under subsection (c)), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
 
 #### (2) Exceptions
 

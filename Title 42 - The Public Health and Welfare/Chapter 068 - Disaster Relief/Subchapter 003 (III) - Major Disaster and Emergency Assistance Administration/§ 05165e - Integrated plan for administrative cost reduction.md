@@ -26,7 +26,7 @@ Not later than 90 days after February 29, 2016, the Administrator shall brief th
 
 #### (c) Updates
 
-If the Administrator modifies the plan or the timetable under subsection (a), the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportationand Infrastructure of the House of Representatives a report notifying Congress of the modification, which shall include the details of the modification.
+If the Administrator modifies the plan or the timetable under subsection (a), the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report notifying Congress of the modification, which shall include the details of the modification.
 
 (Pub. L. 114–132, §3, Feb. 29, 2016, 130 Stat. 294.)
 

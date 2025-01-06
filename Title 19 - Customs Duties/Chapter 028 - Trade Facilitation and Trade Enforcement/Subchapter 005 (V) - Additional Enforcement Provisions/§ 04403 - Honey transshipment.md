@@ -16,7 +16,7 @@ The Commissioner shall direct appropriate personnel and the use of resources of 
 
 #### (3) Consultation with industry
 
-&emsp;In compiling the database described in paragraph (1), the Commissioner shall consult withentities in the honey industry regarding the development of industry standards for honey identification.
+&emsp;In compiling the database described in paragraph (1), the Commissioner shall consult with entities in the honey industry regarding the development of industry standards for honey identification.
 
 #### (4) Consultation with Food and Drug Administration
 

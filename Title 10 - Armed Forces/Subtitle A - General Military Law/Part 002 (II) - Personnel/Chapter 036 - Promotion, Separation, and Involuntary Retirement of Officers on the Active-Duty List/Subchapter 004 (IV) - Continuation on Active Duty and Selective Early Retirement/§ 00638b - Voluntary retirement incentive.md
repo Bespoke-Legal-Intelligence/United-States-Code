@@ -2,7 +2,7 @@
 
 (a)
 
-Incentive for Voluntary Retirement for Certain Officers.—The Secretary of Defense may authorize the Secretary of a military department to provide a voluntary retirement incentive payment in accordance with this section to an officer of the armed forces under that Secretary's jurisdiction who is specified in subsection (c) as being eligible for such a payment.
+Incentive for Voluntary Retirement for Certain Officers.—The Secretary of Defensemay authorize the Secretary of a military department to provide a voluntary retirement incentive payment in accordance with this section to an officer of the armed forces under that Secretary's jurisdiction who is specified in subsection (c) as being eligible for such a payment.
 
 (b)
 
@@ -18,7 +18,7 @@ Eligible Officers.—(1) Except as provided in paragraph (2), an officer of the 
 
 &emsp;(B) meets the minimum length of commissioned service requirement for voluntary retirement as a commissioned officer in accordance with section 7311, 8323, or 9311 of this title, as applicable to that officer;
 
-&emsp;(C) on the approved date of retirement, has 12 months or more remaining on active-dutyservice before reaching the maximum retirement years of active service for the member's grade as specified in section 633 or 634 of this title;
+&emsp;(C) on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement years of active service for the member's grade as specified in section 633 or 634 of this title;
 
 &emsp;(D) on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement age under any other provision of law; and
 

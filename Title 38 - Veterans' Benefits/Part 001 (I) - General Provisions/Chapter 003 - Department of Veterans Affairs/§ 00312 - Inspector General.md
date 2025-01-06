@@ -66,17 +66,17 @@
 
 &emsp;(iv) Such other matters as the Inspector General considers appropriate.
 
-(7)(A) The authority provided by paragraph (1)(A) shall terminate on May 31, 2025.
+(7)(A) The authority provided by paragraph (1)(A) shall terminate on September 30, 2025.
 
 (B) The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 383; amended Pub. L. 103–446, title XII, §1201(e)(3), (g)(1), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 114–113, div. J, title II, §239, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 114–223, div. A, title II, §244, Sept. 29, 2016, 130 Stat. 884; Pub. L. 117–136, §2(a), June 7, 2022, 136 Stat. 1251; Pub. L. 117–286, §4(b)(60), Dec. 27, 2022, 136 Stat. 4350.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 383; amended Pub. L. 103–446, title XII, §1201(e)(3), (g)(1), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 114–113, div. J, title II, §239, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 114–223, div. A, title II, §244, Sept. 29, 2016, 130 Stat. 884; Pub. L. 117–136, §2(a), June 7, 2022, 136 Stat. 1251; Pub. L. 117–286, §4(b)(60), Dec. 27, 2022, 136 Stat. 4350; Pub. L. 118–83, div. B, title III, §332, Sept. 26, 2024, 138 Stat. 1541.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Inspector General Act of 1978 and that Act, referred to in subsecs. (a) and (d)(1)(A), (6)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Section 5(b) of the Act was repealed and restated as section 405(b) of Title 5. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Inspector General Act of 1978 and that Act, referred to in subsecs. (a) and (d)(1)(A), (6)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Section 5(b) of the Act was repealed and restated as section 405(c) of Title 5. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Prior Provisions
 
@@ -85,6 +85,8 @@ Prior section 312 was renumbered section 1112 of this title.
 Provisions similar to those in this section were contained in section 9(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(7)(A). Pub. L. 118–83 substituted "September 30, 2025" for "May 31, 2025".
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–286, §4(b)(60)(A), substituted "chapter 4 of title 5." for "the Inspector General Act of 1978 (5 U.S.C. App.)."
 
@@ -117,6 +119,58 @@ In general.—Subsection (d) of section 312 of title 38, United States Code, as 
 "(2)
 
 Semiannual report.—Paragraph (6) of subsection (d) of such section, as so added, shall apply beginning on the date that is seven months after the first day of the first fiscal year beginning after the date of the enactment of this Act."
+
+#### Department of Veterans Affairs Employee Training Regarding Office of Inspector General
+
+Pub. L. 118–210, title V, §501, Jan. 2, 2025, 138 Stat. 2797, provided that:
+
+"(a)
+
+Training.—The Secretary of Veterans Affairs shall require each employee of the Department of Veterans Affairs who begins employment with the Department on or after the date of the enactment of this Act \[Jan. 2, 2025\] to receive training that the Inspector General of the Department shall develop on the reporting of wrongdoing to, responding to requests from, and theduty of cooperating with the Office of Inspector General of the Department.
+
+"(b)
+
+Timing of Training.—In carrying out subsection (a), the Secretary shall require each employee of the Department covered under such subsection to undergo the training required by such subsection not later than one year after the date on which the employee begins employment with the Department.
+
+"(c)
+
+Elements.—Training developed and required under subsection (a) shall include the following:
+
+&emsp;"(1) Definition of the role, responsibilities, and legal authority of the Inspector General of the Department and the duties of employees of the Department for engaging with the Office of Inspector General.
+
+&emsp;"(2) Identification of Federal whistleblower protection rights, including the right to report fraud, waste, abuse, and other wrongdoing to Congress.
+
+&emsp;"(3) Identification of the circumstances and mechanisms for reporting fraud, waste, abuse, and other wrongdoing to the Inspector General, including making confidential complaints to the Inspector General.
+
+&emsp;"(4) Identification of the prohibitions and remedies that help to protect employees of the Department from retaliation when reporting wrongdoing to the Inspector General.
+
+&emsp;"(5) Recognition of opportunities to engage with staff of the Office of Inspector General to improve programs, operations, and services of the Department.
+
+&emsp;"(6) Notification of the authority of the Inspector General to subpoena the attendance and testimony of witnesses, including former employees of the Department, as necessary to carry out the duties of the Office of Inspector General under section 312 of title 38, United States Code.
+
+"(d)
+
+Design and Update.—The Inspector General of the Department shall design, and update as the Inspector General considers appropriate, the training developed and required by subsection (a).
+
+"(e)
+
+System.—The Secretary shall provide, via the talent management system of the Department, or successor system, the training developed and required under subsection (a).
+
+"(f)
+
+Relation to Certain Training.—The Secretary shall ensure that training developed and required under subsection (a) is separate and distinct from training provided under section 733 of title 38, United States Code.
+
+"(g)
+
+Notice to Employees.—The Secretary shall ensure that the Inspector General is afforded the opportunity, not less frequently than twice each year and more frequently if the Inspector General considers appropriate under extraordinary circumstances, to use the electronic mail system of the Department to notify all authorized users of such system of the following:
+
+&emsp;"(1) The roles and responsibilities of the employees of the Department when engaging with the Office of Inspector General.
+
+&emsp;"(2) The availability of training provided under subsection (a).
+
+&emsp;"(3) How to access training provided under subsection (a).
+
+&emsp;"(4) Information about how to contact the Office of Inspector General, including a link to any website-based reporting form of the Office."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

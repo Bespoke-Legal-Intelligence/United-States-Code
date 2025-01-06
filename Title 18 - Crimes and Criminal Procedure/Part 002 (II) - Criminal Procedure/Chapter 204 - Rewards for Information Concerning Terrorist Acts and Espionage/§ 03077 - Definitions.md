@@ -18,7 +18,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(F) a corporation organized under the laws of the United States, any State, the District of Columbia, or any territory or possession of the United States, and a foreign subsidiary of such corporation;
 
-&emsp;(3) "United States property" means any real or personal property which is within the United States or, if outside the United States, the actual or beneficial ownership of which rests in a United States person or any Federal or State governmental entity of the United States;
+&emsp;(3) "United States property" means any real or personal property which is within the United States or, if outside the United States, the actual or beneficial ownership of whichrests in a United States person or any Federal or State governmental entity of the United States;
 
 &emsp;(4) "United States", when used in a geographical sense, includes Puerto Rico and all territories and possessions of the United States;
 

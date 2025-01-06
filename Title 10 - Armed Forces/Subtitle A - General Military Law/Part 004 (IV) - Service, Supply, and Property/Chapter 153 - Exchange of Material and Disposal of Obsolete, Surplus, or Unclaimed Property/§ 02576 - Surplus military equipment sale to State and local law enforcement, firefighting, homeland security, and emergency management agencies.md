@@ -224,7 +224,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 "(a)
 
-Authority.—(1) Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defense may, during a period specified in subsection (g), sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the FederalGovernment for the delivery of fire retardant by air in order to suppress wildfire.
+Authority.—(1) Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defense may, during a period specified in subsection (g), sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
 
 "(2) Paragraph (1) applies to aircraft and aircraft parts of the Department of Defense that are determined by the Secretary to be—
 

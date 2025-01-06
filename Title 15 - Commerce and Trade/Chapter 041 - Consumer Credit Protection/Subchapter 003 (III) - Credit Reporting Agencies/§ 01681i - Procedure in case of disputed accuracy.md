@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agencyunless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -94,7 +94,7 @@
 
 #### (B) Contents
 
-&emsp;&emsp;As part of, or in addition to, the notice under subparagraph (A), a consumer reporting agency shall provide to a consumer inwriting before the expiration of the 5-day period referred to in subparagraph (A)—
+&emsp;&emsp;As part of, or in addition to, the notice under subparagraph (A), a consumer reporting agency shall provide to a consumer in writing before the expiration of the 5-day period referred to in subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) a statement that the reinvestigation is completed;
 
@@ -126,7 +126,7 @@ If the reinvestigation does not resolve the dispute, the consumer may file a bri
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
-Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe that it is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
+Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe thatit is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
 
 #### (d) Notification of deletion of disputed information
 

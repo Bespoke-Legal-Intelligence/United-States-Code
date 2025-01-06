@@ -34,7 +34,7 @@ The Secretary shall select one of the institutions identified in subsection (c) 
 
 #### (3) Certain inclusions
 
-&emsp;To the extent practicable, the Secretary shall ensure that an appropriate number of any additional consortium colleges or universities designated by the Secretary under this subsection are Historically Black Colleges and Universities, Hispanic Serving Institutions, and Indian Tribally Controlled Colleges and Universities.
+&emsp;To the extent practicable, the Secretary shall ensure that an appropriate number ofany additional consortium colleges or universities designated by the Secretary under this subsection are Historically Black Colleges and Universities, Hispanic Serving Institutions, and Indian Tribally Controlled Colleges and Universities.
 
 #### (d) Authorization of appropriations
 

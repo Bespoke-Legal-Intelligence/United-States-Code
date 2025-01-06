@@ -28,7 +28,7 @@ In the case of transportation by air all of which is taxable transportation (as 
 
 #### (d) Penalty
 
-Any person who violates any provision of subsection (a), (b), or (c) is, for each violation, guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $100.
+Any person who violates any provision of subsection (a), (b), or (c) is, for each violation,guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $100.
 
 (Added Pub. L. 91–258, title II, §203(c)(1), May 21, 1970, 84 Stat. 239; amended Pub. L. 91–680, §3, Jan. 12, 1971, 84 Stat. 2064; Pub. L. 97–248, title II, §281A(b)(1), Sept. 3, 1982, 96 Stat. 567; Pub. L. 112–95, title XI, §1104(a), Feb. 14, 2012, 126 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(323), Mar. 23, 2018, 132 Stat. 1199.)
 

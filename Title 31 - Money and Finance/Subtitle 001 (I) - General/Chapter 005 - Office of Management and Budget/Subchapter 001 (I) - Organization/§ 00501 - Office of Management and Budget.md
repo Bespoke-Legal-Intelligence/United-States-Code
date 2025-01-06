@@ -756,13 +756,15 @@ Pub. L. 110–161, div. E, title V, §524, Dec. 26, 2007, 121 Stat. 2074.
 
 Pub. L. 109–295, title V, §526, Oct. 4, 2006, 120 Stat. 1382.
 
-Pub. L. 117–328, div. F, title V, §504, Dec. 29, 2022, 136 Stat. 4749, provided that:
+Pub. L. 118–47, div. C, title V, §504, Mar. 23, 2024, 138 Stat. 615, provided that:
 
-"(a) Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31) \[set out above\], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act \[div. F of Pub. L. 117–328; see Tables for classification\] in the same manner as such section applied to funds made available in that Act.
+"(a) Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31) \[set out above\], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act \[div. C of Pub. L. 118–47, see Tables for classification\] in the same manner as such section applied to funds made available in that Act.
 
 "(b) Funds from such working capital fund may be obligated and expended in anticipation of reimbursements from components of the Department of Homeland Security."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. F, title V, §504, Dec. 29, 2022, 136 Stat. 4749.
 
 Pub. L. 117–103, div. F, title V, §504, Mar. 15, 2022, 136 Stat. 335.
 
@@ -798,7 +800,7 @@ Uses.—Each such fund may provide, consistent with guidelines established by th
 
 "(c)
 
-Funding.—(1) There are authorized to be appropriated to the franchise fund of each agency designated under subsection (a) such funds as are necessary to carry out the purposes of the fund, to remain available until expended. To the extent that unexpended balances remain available in other accounts for the purposes tobe carried out by the fund, the head of the agency may transfer such balances to the fund.
+Funding.—(1) There are authorized to be appropriated to the franchise fund of each agency designated under subsection (a) such funds as are necessary to carry out the purposes of the fund, to remain availableuntil expended. To the extent that unexpended balances remain available in other accounts for the purposes to be carried out by the fund, the head of the agency may transfer such balances to the fund.
 
 "(2) Fees for services shall be established by the head of the agency at a level to cover the total estimated costs of providing such services. Such fees shall be deposited in the agency's fund to remain available until expended, and may be used to carry out the purposes of the fund.
 
@@ -884,7 +886,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note ab
 
 &emsp;"(2) Provide for improvement, in each agency of the Federal Government, of systems of accounting, financial management, and internal controls to assure the issuance of reliable financial information and to deter fraud, waste, and abuse of Government resources.
 
-&emsp;"(3) Provide for the production of complete, reliable, timely, and consistent financial information foruse by the executive branch of the Government and the Congress in the financing, management, and evaluation of Federal programs."
+&emsp;"(3) Provide for the production of complete, reliable, timely, and consistent financial information for use by the executive branch of the Government and the Congress in the financing, management, and evaluation of Federal programs."
 
 #### Duties and Functions of Department of the Treasury
 
@@ -984,7 +986,7 @@ The past 30 years have seen enormous changes in the size, structure and function
 
 Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to deal with the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
 
-One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, thePresident's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and management institutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
+One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, the President's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and management institutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
 
 Another result has been, paradoxically, to inhibit the delegation of authority to Departments and agencies.
 
@@ -1042,7 +1044,7 @@ As soon as the reorganization plan takes effect, I intend to delegate those stat
 
 However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting the broader management needs of the Office of the President.
 
-The new Office will still perform the key function of assisting the President in the preparation of the annual Federal budget and overseeing its execution. It willdraw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
+The new Office will still perform the key function of assisting the President in the preparation of the annualFederal budget and overseeing its execution. It will draw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
 
 While the budget function remains a vital tool of management, it will be strengthened by the greater emphasis the new office will place on fiscal analysis. The budget function is only one of several important management tools that the President must now have. He must also have a substantially enhanced institutional staff capability in other areas of executive management—particularly in program evaluation and coordination, improvement of Executive Branch organization, information and management systems, and development of executive talent. Under this plan, strengthened capability in these areas will be provided partly through internal reorganization, and it will also require additional staff resources.
 

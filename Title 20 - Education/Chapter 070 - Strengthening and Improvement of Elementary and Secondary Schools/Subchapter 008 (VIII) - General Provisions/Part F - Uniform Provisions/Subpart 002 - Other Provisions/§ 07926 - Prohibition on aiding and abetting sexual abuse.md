@@ -16,7 +16,7 @@ The requirements of subsection (a) shall not apply if the information giving ris
 
 &emsp;(B) the school employee, contractor, or agent has been charged with, and acquitted or otherwise exonerated of the alleged misconduct; or
 
-&emsp;(C) the case or investigation remains open and there have been no charges filed against, or indictment of, the school employee, contractor, or agent within 4 years of the date on which the information was reported to a law enforcement agency.
+&emsp;(C) the case or investigation remains open and there have been no charges filed against,or indictment of, the school employee, contractor, or agent within 4 years of the date on which the information was reported to a law enforcement agency.
 
 #### (c) Prohibition
 

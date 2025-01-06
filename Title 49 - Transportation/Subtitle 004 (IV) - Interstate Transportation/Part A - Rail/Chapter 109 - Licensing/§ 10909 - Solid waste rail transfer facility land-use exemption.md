@@ -46,7 +46,7 @@ Considerations.—When evaluating an application under this section, the Board s
 
 &emsp;(5) any Federal and State environmental protection laws or regulations applicable to the site;
 
-&emsp;(6) any unreasonable burdens imposed on the interstate transportation of solid waste by railroad, or the potential for discrimination against the railroad transportation of solid waste, a solid waste rail transfer facility, or a rail carrier that owns or operates such a facility; and
+&emsp;(6) any unreasonable burdens imposed on the interstate transportation of solid waste by railroad, or the potential for discrimination against the railroad transportation of solidwaste, a solid waste rail transfer facility, or a rail carrier that owns or operates such a facility; and
 
 &emsp;(7) any other relevant factors, as determined by the Board.
 

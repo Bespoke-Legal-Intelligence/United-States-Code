@@ -8,7 +8,7 @@ The United States Advisory Commission on Public Diplomacy, established under sec
 
 #### References in Text
 
-Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set out as a note under section 1461 of this title and in the Appendix to Title 5, Government Organization and Employees.
+Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set out as a note under section1461 of this title and in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

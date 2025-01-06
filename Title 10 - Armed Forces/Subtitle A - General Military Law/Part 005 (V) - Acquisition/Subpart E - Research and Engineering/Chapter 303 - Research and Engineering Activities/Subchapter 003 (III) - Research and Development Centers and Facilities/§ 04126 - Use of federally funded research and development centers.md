@@ -20,7 +20,7 @@ Limitation on Creation of New Centers.—(1) The head of an agency may not oblig
 
 (d)
 
-Identification to Congress of FFRDC Workload Effort.—After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at eachfederally funded research and development center during that fiscal year.
+Identification to Congress of FFRDC Workload Effort.—After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
 
 (Added Pub. L. 99–500, §101(c) \[title X, §912(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §912(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–146, §2367; Pub. L. 99–661, div. A, title IX, formerly title IV, §912(a)(1), Nov. 14, 1986, 100 Stat. 3925, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–190, div. A, title II, §256(a)(1), Dec. 5, 1991, 105 Stat. 1330; Pub. L. 104–106, div. A, title XV, §1502(a)(9), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(12), Dec. 2, 2002, 116 Stat. 2645; renumbered §4126, Pub. L. 116–283, div. A, title XVIII, §1843(b)(1), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 116–283, div. A, title XVIII, §§1844(b)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4245, 4294; Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
@@ -70,47 +70,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this s
 
 #### Pilot Program on Disclosure of Certain Sensitive Information to Federally Funded Research and Development Centers
 
-Pub. L. 114–328, div. A, title II, §235, Dec. 23, 2016, 130 Stat. 2064, provided that:
-
-"(a)
-
-In General.—The Secretary of Defense shall carry out a pilot program on—
-
-&emsp;"(1) permitting officers and employees of the Department of Defense to disclose sensitive information to federally funded research and development centers of the Department for the sole purpose of the performance of administrative, technical, or professional services under and within the scope of the contracts with the parent organizations of such federally funded research and development centers; and
-
-&emsp;"(2) appropriately protecting proprietary information from unauthorized disclosure or use by such centers.
-
-"(b)
-
-FFRDCs.—The pilot program shall be carried out with one or more federally funded research and development centers of the Department selected by the Secretary for participation in the pilot program.
-
-"(c)
-
-FFRDC Personnel.—Sensitive information may be disclosed to personnel of a federally funded research and development center under the pilot program only if such personnel and contractors agree to be subject to, and comply with, appropriate ethics standards and requirements applicable to Government personnel, including the Ethics in Government Act of 1978 \[see 5 U.S.C. 13101 et seq.\], section 1905 of title 18, United States Code, and chapter 21 of title 41, United States Code.
-
-"(d)
-
-Conditions on Disclosure.—Sensitive information may be disclosed under the pilot program only if the federally funded research and development center concerned and its parent organization agree to and acknowledge in the parent organization's contract with the Department of Defense that—
-
-&emsp;"(1) sensitive information furnished to the federally funded research and development center will be accessed and used only for the purposes stated in the contract between the parent organization of the federally funded research and development center and the Department of Defense;
-
-&emsp;"(2) the federally funded research and development center will take all precautions necessary to prevent disclosure of the sensitive information furnished to anyone not authorized access to the information in order to perform the applicable contract;
-
-&emsp;"(3) sensitive information furnished under the pilot program shall not be used by the federally funded research and development center or parent organization to compete against a third party for a Government or non-Government contract or funding, or to support other current or future research or technology development activities performed by the federally funded research and development center; and
-
-&emsp;"(4) any personnel of a federally funded research and development center participating in the pilot program may not disclose or use any trade secrets orany nonpublic information accessed under the pilot program, unless specifically authorized by this section.
-
-"(e)
-
-Duration.—(1) The pilot program may commence at any time after the review and issuance of policy guidance, updated appropriately, pertaining to the identification, mitigation, and prevention of potentially unfair competitive advantage conferred to federally funded research and development center personnel with access to sensitive information who serve as technical advisors to acquisition programs.
-
-"(2) The pilot program shall terminate on the date that is three years after the date of the commencement of the pilot program.
-
-"(f)
-
-Assessment.—Not later than two years after the commencement of the pilot program, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program, including an assessment of the effectiveness of activities under the pilot program in improving acquisition processes and the effectiveness of protections of private-sector intellectual property in the course of such activities.
-
-"(g)
-
-Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by other contractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) of title 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
+Pub. L. 114–328, div. A, title II, §235, Dec. 23, 2016, 130 Stat. 2064, which authorized the Secretary of Defense to carry out a pilot program on disclosure of certain sensitive information to federally funded research and development centers of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(E), Dec. 23, 2024, 138 Stat. 1979.
 

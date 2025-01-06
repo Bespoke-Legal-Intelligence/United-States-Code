@@ -4,7 +4,7 @@
 
 &emsp;(1) the rates of pay of—
 
-&emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whosepay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
+&emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
 
 &emsp;&emsp;(B) employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a <sup>1</sup> of title 40, and the Superintendent of Garages, House office buildings; and
 

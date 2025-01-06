@@ -62,3 +62,4 @@
 - [&sect; 01396w&#8211;5 - Addressing health care disparities](%C2%A7%2001396w%E2%80%935%20-%20Addressing%20health%20care%20disparities.md)
 - [&sect; 01396w&#8211;6 - State option to provide qualifying community-based mobile crisis intervention services](%C2%A7%2001396w%E2%80%936%20-%20State%20option%20to%20provide%20qualifying%20community-based%20mobile%20crisis%20intervention%20services.md)
 - [&sect; 01396w&#8211;7 - Supporting access to a continuum of crisis response services under Medicaid and CHIP](%C2%A7%2001396w%E2%80%937%20-%20Supporting%20access%20to%20a%20continuum%20of%20crisis%20response%20services%20under%20Medicaid%20and%20CHIP.md)
+- [&sect; 01396w&#8211;8 - Collection and reporting of comprehensive data for specified populations](%C2%A7%2001396w%E2%80%938%20-%20Collection%20and%20reporting%20of%20comprehensive%20data%20for%20specified%20populations.md)

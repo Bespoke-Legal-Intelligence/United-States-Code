@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(E) Coverage under a high risk pool under section 18001 of this title.
 
-&emsp;&emsp;(F) Coverage within the small group market for small businesses and their employees, including reinsurance for early retirees under section 18002 of this title, tax credits available under section 45R of title 26 (asadded by section 1421), and other information specifically for small businesses regarding affordable health care options.
+&emsp;&emsp;(F) Coverage within the small group market for small businesses and their employees, including reinsurance for early retirees under section 18002 of this title, tax credits available under section 45R of title 26 (as added by section 1421), and other information specifically for small businesses regarding affordable health care options.
 
 #### (b) Enhancing comparative purchasing options
 

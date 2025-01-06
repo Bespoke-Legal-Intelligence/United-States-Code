@@ -32,7 +32,7 @@ Neither the selection or use of a Board-selected benchmark replacement as a benc
 
 #### (c) Safe harbor
 
-No person shall be subject to any claim or cause of action in law or equity or request forequitable relief, or have liability for damages, arising out of—
+No person shall be subject to any claim or cause of action in law or equity or request for equitable relief, or have liability for damages, arising out of—
 
 &emsp;(1) the selection or use of a Board-selected benchmark replacement;
 
@@ -40,7 +40,7 @@ No person shall be subject to any claim or cause of action in law or equity or r
 
 &emsp;(3) with respect to a LIBOR contract that is not a consumer loan, the determination of benchmark replacement conforming changes,
 
-> in each case after giving effect to the provisions of section 5803 of this title; provided, however, that in each case any person (including a calculating person) shall remain subject to the terms of a LIBOR contract that are not affected by this division and any existing legal, regulatory, or contractual obligations to correct servicing or other ministerial errors under or with respect to a LIBOR contract.
+> in each case after giving effect to the provisions of section 5803 of this title; provided, however, that in each case any person (including a calculating person) shall remain subject to the terms of a LIBOR contract that are not affected by this chapter and any existing legal, regulatory, or contractual obligations to correct servicing or other ministerial errors under or with respect to a LIBOR contract.
 
 #### (d) Selection
 
@@ -66,7 +66,7 @@ Except as provided in subsections <sup>3</sup> (a), (b), or (c)(1) of section 5
 
 The Truth in Lending Act, referred to in subsec. (a)(5), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 101 of Pub. L. 90–321, set out as a Short Title note under section 1601 of Title 15 and Tables.
 
-This chapter, referred to in subsec. (e), was in the original "this division", meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsecs. (c) and (e), was in the original "this division", meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(15 U.S.C. 1601 et seq.)".</i>
 

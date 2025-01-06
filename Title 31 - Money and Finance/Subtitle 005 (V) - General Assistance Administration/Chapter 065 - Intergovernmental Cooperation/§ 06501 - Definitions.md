@@ -34,7 +34,7 @@ In this chapter—
 
 &emsp;&emsp;(i) requires the State or local government to expend non-Government money as a condition of receiving money or property from the United States Government; or
 
-&emsp;&emsp;(ii) specifies directly, or establishes by means of a formula, the amount that may be provided to the State or local government, or the amount to be allotted for use in each State by the State, local government, and beneficiaries.
+&emsp;&emsp;(ii) specifies directly, or establishes by means of a formula, the amount that may be provided to the State or local government, or the amount to be allotted for use in eachState by the State, local government, and beneficiaries.
 
 &emsp;(B) "grant" (except as provided in subparagraph (C)) also means money, or property provided instead of money, that is paid or provided by the United States Government to a private, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.).
 
@@ -180,7 +180,7 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: "This Act \[amending sections 3718 and 3720A of this title, enacting provisions set out as notes undersection 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the 'Cash Management Improvement Act Amendments of 1992'."
+Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: "This Act \[amending sections 3718 and 3720A of this title, enacting provisions set out as notes under section 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the 'Cash Management Improvement Act Amendments of 1992'."
 
 #### Short Title of 1990 Amendment
 

@@ -1,16 +1,18 @@
 ### §611. Convening of selection boards
 
-(a) Whenever the needs of the service require, the Secretary of the military department concerned shall convene selection boards to recommend for promotion to the next higher permanent grade, under subchapter II of this chapter, officers on the active-duty list in each permanent grade from first lieutenant through brigadier general in the Army, Air Force, or Marine Corps and from lieutenant (junior grade) through rear admiral (lower half) in the Navy. The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.
+(a) Whenever the needs of the service require, the Secretary of the military department concerned shall convene selection boards to recommend for promotion to the next higher permanent grade, under subchapter II of this chapter, officers on the active-duty list in each permanent grade from first lieutenant through brigadier general in the Army, Air Force, Marine Corps, or Space Force and from lieutenant (junior grade) through rear admiral (lower half) in the Navy. The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.
 
 (b) Whenever the needs of the service require, the Secretary of the military department concerned may convene selection boards to recommend officers for continuation on active duty under section 637 of this title or for early retirement under section 638 of this title.
 
 (c) The convening of selection boards under subsections (a) and (b) shall be under regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 107–107, div. A, title V, §505(a)(3), Dec. 28, 2001, 115 Stat. 1086.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 107–107, div. A, title V, §505(a)(3), Dec. 28, 2001, 115 Stat. 1086; Pub. L. 118–159, div. A, title V, §521(d)(1), Dec. 23, 2024, 138 Stat. 1881.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted "Whenever the needs of the service require, the Secretary of the military department concerned" for "Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require," and inserted at end "The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion."
 
@@ -56,7 +58,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(3) is on a list of officers recommended for promotion to a regular grade higher than the grade in which he is serving;
 
-> shall be considered to have been recommended by a board convened under section 611(a) of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
+> shall be considered to have been recommended by a board convened under section 611(a) of title 10, UnitedStates Code, as added by this Act, for promotion to the regular grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
 
 "(b) An officer referred to in clause (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such subsection to have been recommended for promotion shall be considered under chapter 36 of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the temporary grade in which he was serving on the effective date of this Act \[Sept. 15, 1981\] as if he were serving in his regular grade.
 
@@ -250,7 +252,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(3) recommended for promotion or promoted to a grade under section 5787 of such title, as in effect before the effective date of this Act.
 
-"(c)(1) Any delay of a promotion of an officer referred to in clause (2) of subsection (a) that was in effect on September 14, 1981, under the laws and regulations ineffect on such date, shall continue in effect on and after September 15, 1981, as if such promotion had been delayed under section 624(d) of title 10, United States Code, as added by this Act.
+"(c)(1) Any delay of a promotion of an officer referred to in clause (2) of subsection (a) that was in effect on September 14, 1981, under the laws and regulations in effect on such date, shall continue in effect on and after September 15, 1981, as if such promotion had been delayed under section 624(d) of title 10, United States Code, as added by this Act.
 
 "(2) Any action to remove from a promotion list the name of an officer referred to in clause (2) of subsection (a) which was initiated before September 15, 1981, under the laws and regulations in effect before such date shall continue on and after such date as if such removal action had been initiated under section 629 of title 10, United States Code, as added by this Act.
 
@@ -352,7 +354,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 > shall not be subject to the provisions of chapter 36 of title 10, United States Code, as added by this Act, relating to selection for promotion and promotion to the next higher grade.
 
-"(2) Officers to whom this subsection applies become entitled to hold the permanent grade of rear admiralunder the circumstances prescribed for entitlement to the basic pay of a rear admiral of the upper half under the provisions of subsections (a) through (d) of section 202 of title 37, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\]. For the purposes of this subsection, officers serving in the permanent grade of rear admiral or commodore in accordance with subsection (a) shall be considered as serving in the grade of rear admiral, as such grade was in effect on the day before the effective date of this Act.
+"(2) Officers to whom this subsection applies become entitled to hold the permanent grade of rear admiral under the circumstances prescribed for entitlement to the basic pay of a rear admiral of the upper half under the provisions of subsections (a) through (d) of section 202 of title 37, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\]. For the purposes of this subsection, officers serving in the permanent grade of rear admiral or commodore in accordance with subsection (a) shall be considered as serving in the grade of rear admiral, as such grade was in effect on the day before the effective date of this Act.
 
 "(e) Unless entitled to a higher grade under another provision of law, an officer of the Navy who on the day before the effective date of this Act \[Sept. 15, 1981\]—
 
@@ -434,7 +436,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "contingency authority for navy promotions under prior law
 
-"Sec. 619. If necessary because of unforeseen circumstances, the Secretary of the Navy, during fiscal year 1982, may convene boards to select officers for promotion under chapters 545 and 549 of title 10, United States Code, as in effect on September 14, 1981, and officers so selected may be promoted in accordance with such chapters. An officer promoted to a higher grade under the authority of this section shall be subject to sections 613 and 629 as if he held that grade on September 14, 1981, and shall have a date of rank to be determined under section 741 of title 10, United States Code, as amended by this Act.
+"Sec. 619. If necessary because of unforeseen circumstances, the Secretary of the Navy, during fiscal year 1982, may convene boards to select officers for promotion under chapters 545 and 549 of title 10, United States Code, as in effect on September 14, 1981, and officers so selected may be promoted in accordance with such chapters. An officer promoted to a higher grade under the authority of this section shall be subject tosections 613 and 629 as if he held that grade on September 14, 1981, and shall have a date of rank to be determined under section 741 of title 10, United States Code, as amended by this Act.
 
 #### "retention on active duty of certain reserve lieutenant commanders
 
@@ -476,7 +478,7 @@ Sec. 620. Notwithstanding section 6389 \[now 8373\] of title 10, United States C
 
 #### "officers serving in grades above major general or rear admiral
 
-"Sec. 623. (a) Any officer who on the day before the effective date of this Act \[Sept. 15, 1981\] held a temporary appointment in the grade of lieutenant general or general under section 3066, 5232, or 8066 of title 10, United States Code, or a temporary appointment in the grade of vice admiral or admiral under section 5231 of such title, shall on and after such date be considered to be serving in such grade as if such appointment hadbeen made under section 601 of such title, as added by this Act.
+"Sec. 623. (a) Any officer who on the day before the effective date of this Act \[Sept. 15, 1981\] held a temporary appointment in the grade of lieutenant general or general under section 3066, 5232, or 8066 of title 10, United States Code, or a temporary appointment in the grade of vice admiral or admiral under section 5231 of such title, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 601 of such title, as added by this Act.
 
 "(b)(1) Any designation of a position as a position of importance and responsibility made by the President under section 3066 or 8066 of title 10, United States Code, before the effective date of this Act \[Sept. 15, 1981\], shall remain in effect, unless changed by the President, as a designation of such position as a position of importance and responsibility under section 601 of such title, as added by this Act.
 

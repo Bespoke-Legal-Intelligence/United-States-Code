@@ -118,7 +118,7 @@ Subsec. (a)(6)(E), (F). Pub. L. 115–410, §18(a)(6)(A), (D), redesignated subp
 
 Subsec. (a)(6)(G). Pub. L. 115–410, §18(a)(6)(D)–(F), added subpar. (G).
 
-Subsec. (a)(7). Pub. L. 115–410, §18(a)(4), (7), redesignated par. (4) as (7), struck it out, and added a new par. (7). Prior to amendment, par. read as follows: "supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;".
+Subsec. (a)(7). Pub. L. 115–410, §18(a)(4), (7), redesignated par. (4) as (7), struck it out, and added a new par.\(7). Prior to amendment, par. read as follows: "supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;".
 
 Pub. L. 115–410, §18(a)(3), struck out par. (7) which read as follows: "supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;".
 

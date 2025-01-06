@@ -8,7 +8,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 #### (1) Assessments arising out of mathematical or clerical errors
 
-&emsp;If the taxpayer is notified that, on account of a mathematical or clerical error appearing on the return, an amount of tax in excess of that shown on the return is due, and that an assessment of the tax has been or will be made on the basis of what would have been the correct amount of tax but for the mathematical or clerical error, such notice shall not be considered as a notice of deficiency for the purposes of subsection (a) (prohibiting assessment and collection until notice of the deficiency has been mailed), or of section 6212(c)(1) (restricting further deficiency letters), or of section 6512(a) (prohibiting credits or refunds after petition to the Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice, nor shall such assessment or collection be prohibited by the provisions of subsection (a) of this section. Each notice under this paragraph shall set forth the error alleged and an explanation thereof.
+&emsp;If the taxpayer is notified that, on account of a mathematical or clerical error appearing on the return, an amount of tax in excess of that shown on the return is due, and that anassessment of the tax has been or will be made on the basis of what would have been the correct amount of tax but for the mathematical or clerical error, such notice shall not be considered as a notice of deficiency for the purposes of subsection (a) (prohibiting assessment and collection until notice of the deficiency has been mailed), or of section 6212(c)(1) (restricting further deficiency letters), or of section 6512(a) (prohibiting credits or refunds after petition to the Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice, nor shall such assessment or collection be prohibited by the provisions of subsection (a) of this section. Each notice under this paragraph shall set forth the error alleged and an explanation thereof.
 
 #### (2) Abatement of assessment of mathematical or clerical errors
 
@@ -22,7 +22,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 #### (3) Assessments arising out of tentative carryback or refund adjustments
 
-&emsp;If the Secretary determines that the amount applied, credited, or refunded under section 6411 is in excess of the overassessment attributable to the carryback or the amount described in section 1341(b)(1) with respect to which such amount was applied, credited, or refunded, he may assess without regard to theprovisions of paragraph (2) the amount of the excess as a deficiency as if it were due to a mathematical or clerical error appearing on the return.
+&emsp;If the Secretary determines that the amount applied, credited, or refunded under section 6411 is in excess of the overassessment attributable to the carryback or the amount described in section 1341(b)(1) with respect to which such amount was applied, credited, or refunded, he may assess without regard to the provisions of paragraph (2) the amount of the excess as a deficiency as if it were due to a mathematical or clerical error appearing on the return.
 
 #### (4) Assessment of amount paid
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(I) an omission of a correct TIN required under section 24(e) (relating to child tax credit) to be included on a return,
 
-&emsp;&emsp;(J) an omission of a correct TIN required under section 25A(g)(1) (relating to highereducation tuition and related expenses) to be included on a return,
+&emsp;&emsp;(J) an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
 
 &emsp;&emsp;(K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(R) an omission of information or documentation required under section 25C(b)(6)(B) (relating to home energy audits) to be included on a return,
 
-&emsp;&emsp;(S) <sup>1</sup> an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
+&emsp;&emsp;(S) an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
 
 &emsp;&emsp;(T) an omission of a correct vehicle identification number required under section 30D(f)(9) (relating to credit for new clean vehicles) to be included on a return,
 
@@ -136,13 +136,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;<b>(B) Recovery of foreign estate tax, see section 2016.</b>
 
-&emsp;&emsp;<b>(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).</b><b><sup>2</sup></b>
+&emsp;&emsp;<b>(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).</b><b><sup>1</sup></b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56; Pub. L. 110–185, title I, §101(b)(2), Feb. 13, 2008, 122 Stat. 616; Pub. L. 111–5, div. B, title I, §1001(d), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–92, §§11(h), 12(d), Nov. 6, 2009, 123 Stat. 2991, 2992; Pub. L. 111–237, §3(b)(1), Aug. 16, 2010, 124 Stat. 2498; Pub. L. 113–295, div. A, title II, §§214(a), 221(a)(4), (5)(C), (112)(C), Dec. 19, 2014, 128 Stat. 4034, 4037, 4038, 4054; Pub. L. 114–113, div. Q, title II, §§203(e), 208(b), Dec. 18, 2015, 129 Stat. 3080, 3084; Pub. L. 115–141, div. U, title I, §101(l)(18), title IV, §401(a)(277), (278), Mar. 23, 2018, 132 Stat. 1165, 1197; Pub. L. 116–136, div. A, title II, §2201(b)(2), Mar. 27, 2020, 134 Stat. 337; Pub. L. 116–260, div. N, title II, §272(b)(2), Dec. 27, 2020, 134 Stat. 1971;Pub. L. 117–169, title I, §§13301(f)(4), (g)(2), 13401(i)(4), 13402(c), 13403(b)(2), Aug. 16, 2022, 136 Stat. 1945, 1946, 1961, 1964, 1966.)
-
-#### Applicability of Amendment
-
-<i>Subsec. (g)(2)(S) of this section, as added by section 13301(g)(2) of Pub. L. 117–169, applicable to property placed in service after Dec. 31, 2024. See Effective Date of 2022 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat.168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56; Pub. L. 110–185, title I, §101(b)(2), Feb. 13, 2008, 122 Stat. 616; Pub. L. 111–5, div. B, title I, §1001(d), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–92, §§11(h), 12(d), Nov. 6, 2009, 123 Stat. 2991, 2992; Pub. L. 111–237, §3(b)(1), Aug. 16, 2010, 124 Stat. 2498; Pub. L. 113–295, div. A, title II, §§214(a), 221(a)(4), (5)(C), (112)(C), Dec. 19, 2014, 128 Stat. 4034, 4037, 4038, 4054; Pub. L. 114–113, div. Q, title II, §§203(e), 208(b), Dec. 18, 2015, 129 Stat. 3080, 3084; Pub. L. 115–141, div. U, title I, §101(l)(18), title IV, §401(a)(277), (278), Mar. 23, 2018, 132 Stat. 1165, 1197; Pub. L. 116–136, div. A, title II, §2201(b)(2), Mar. 27, 2020, 134 Stat. 337; Pub. L. 116–260, div. N, title II, §272(b)(2), Dec. 27, 2020, 134 Stat. 1971; Pub. L. 117–169, title I, §§13301(f)(4), (g)(2), 13401(i)(4), 13402(c), 13403(b)(2), Aug. 16, 2022, 136 Stat. 1945, 1946, 1961, 1964, 1966.)
 
 #### <b>Editorial Notes</b>
 
@@ -312,7 +308,7 @@ Amendment by section 13301(f)(4) of Pub. L. 117–169 applicable to property pla
 
 Amendment by section 13301(g)(2) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13301(i)(3) of Pub. L. 117–169, set out in a note under section 25C of this title.
 
-Amendment by section 13401(i)(4) of Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022 Amendment; Transition Rule note under section 30D of this title.
+Amendment by section 13401(i)(4) of Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out inan Effective Date of 2022 Amendment; Transition Rule note under section 30D of this title.
 
 Amendment by section 13402(c) of Pub. L. 117–169 applicable to vehicles acquired after Dec. 31, 2022, see section 13402(e)(1) of Pub. L. 117–169, set out in an Effective Date note under section 25E of this title.
 
@@ -394,7 +390,7 @@ Amendment by section 10712(c)(1) of Pub. L. 100–203 applicable to taxable year
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVIII, §1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: "The amendments made by this paragraph \[amending this section and sections 6230 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\]."
+Pub. L. 99–514, title XVIII, §1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: "The amendments madeby this paragraph \[amending this section and sections 6230 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -448,7 +444,5 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

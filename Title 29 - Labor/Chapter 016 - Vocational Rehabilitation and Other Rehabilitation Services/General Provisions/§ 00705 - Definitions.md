@@ -86,7 +86,7 @@ For the purposes of this chapter:
 
 #### (4) Community rehabilitation program
 
-&emsp;The term "community rehabilitation program" means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
+&emsp;The term "community rehabilitation program" means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunitiesfor employment, including career advancement—
 
 &emsp;&emsp;(A) medical, psychiatric, psychological, social, and vocational services that are provided under one management;
 
@@ -132,7 +132,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(i) is compensated at a rate that—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) shall be not less than the higher of the rate specified in section 206(a)(1) of this title or the rate specified in theapplicable State or local minimum wage law; and
+&emsp;&emsp;&emsp;&emsp;(I)(aa) shall be not less than the higher of the rate specified in section 206(a)(1) of this title or the rate specified in the applicable State or local minimum wage law; and
 
 &emsp;&emsp;&emsp;&emsp;(bb) is not less than the customary rate paid by the employer for the same or similar work performed by other employees who are not individuals with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; or
 
@@ -362,7 +362,7 @@ For the purposes of this chapter:
 
 #### (B) Certain programs; limitations on major life activities
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term "individual with a disability" means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
+&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term "individual with a disability"means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
 
 #### (C) Rights and advocacy provisions
 
@@ -384,7 +384,7 @@ For the purposes of this chapter:
 
 #### (iii) Exclusion for certain services
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), for purposes of programs and activities providing health services and services providedunder subchapters I, II, and III, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under subchapters I, II, and III, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
 
 #### (iv) Disciplinary action
 
@@ -520,7 +520,7 @@ For the purposes of this chapter:
 
 #### (32) Rehabilitation technology
 
-&emsp;The term "rehabilitation technology" means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. Theterm includes rehabilitation engineering, assistive technology devices, and assistive technology services.
+&emsp;The term "rehabilitation technology" means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services.
 
 #### (33) Secretary
 
@@ -576,7 +576,7 @@ For the purposes of this chapter:
 
 #### (39) Supported employment services
 
-&emsp;The term "supported employment services" means ongoing support services, including customized employment, needed to support and maintain an individual with a most significant disability in supported employment, that—
+&emsp;The term "supported employment services" means ongoing support services, including customized employment, needed to support andmaintain an individual with a most significant disability in supported employment, that—
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive integrated employment;
 
@@ -606,7 +606,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;The term "youth with disabilities" means more than 1 youth with a disability.
 
-(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[titleVIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §404, July 22, 2014, 128 Stat. 1632.)
+(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §404, July 22, 2014, 128 Stat. 1632.)
 
 #### <b>Editorial Notes</b>
 

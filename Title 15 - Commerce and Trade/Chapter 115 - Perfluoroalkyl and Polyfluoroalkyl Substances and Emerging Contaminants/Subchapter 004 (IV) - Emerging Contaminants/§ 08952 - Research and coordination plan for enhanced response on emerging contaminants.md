@@ -10,7 +10,7 @@ The Administrator shall—
 
 &emsp;&emsp;(B) to assist States in responding to the human health risks posed by contaminants of emerging concern; and
 
-&emsp;(2) in collaboration with owners and operators of public water systems, States, and other interested stakeholders, establish a strategic plan for improving the Federal efforts referred to in paragraph (1).
+&emsp;(2) in collaboration with owners and operators of public water systems, States, and otherinterested stakeholders, establish a strategic plan for improving the Federal efforts referred to in paragraph (1).
 
 #### (b) Interagency Working Group on emerging contaminants
 

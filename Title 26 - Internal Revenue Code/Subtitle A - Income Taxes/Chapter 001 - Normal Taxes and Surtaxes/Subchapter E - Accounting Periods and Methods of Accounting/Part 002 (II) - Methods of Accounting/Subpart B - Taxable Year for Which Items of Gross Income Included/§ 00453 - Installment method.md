@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (2) Marketable securities
 
-&emsp;The term "marketable securities" means any security for which, as of the date of the disposition, there was a market on an established securities market or otherwise.
+&emsp;The term "marketable securities" means any security for which, as of the date of thedisposition, there was a market on an established securities market or otherwise.
 
 #### (3) Payment
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 #### (C) Special rule where obligor and shareholder are related persons
 
-&emsp;&emsp;If the obligor of any installment obligation and the shareholder are married to each other or are related persons (within the meaning of section 1239(b)), to the extent such installment obligation is attributable to the disposition by the corporation of depreciable property—
+&emsp;&emsp;If the obligor of any installment obligation and the shareholder are married to eachother or are related persons (within the meaning of section 1239(b)), to the extent such installment obligation is attributable to the disposition by the corporation of depreciable property—
 
 &emsp;&emsp;&emsp;(i) subparagraph (A) shall not apply to such obligation, and
 
@@ -322,7 +322,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any dispositions described in clause (ii) on the installment plan if the taxpayer elects to have paragraph (3) apply to any installment obligations which arise from such dispositions. An election under this paragraph shall not apply with respect to an installment obligation which is guaranteed by any person other than an individual.
+&emsp;&emsp;&emsp;Any dispositions described in clause (ii) on the installment plan if the taxpayer elects to have paragraph (3) apply to any installment obligations which arise from such dispositions. An election under this paragraph shall not apply with respect toan installment obligation which is guaranteed by any person other than an individual.
 
 #### (ii) Dispositions to which subparagraph applies
 
@@ -368,7 +368,7 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat.3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat. 3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
 
 #### <b>Editorial Notes</b>
 
@@ -384,7 +384,7 @@ A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, 
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–170, §536(a)(1), which substituted "Use of installment method" for "General rule" in subsec. heading, designated existing provisions as par. (1) and inserted heading, and added heading and text of par. (2), text of which read as follows: "(2)
 
-Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (l)(2).", was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
+Accrual method taxpayer.—The installment method shall not apply to income from an installment sale ifsuch income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (l)(2).", was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
 
 Subsecs. (d)(1), (i)(1), (k). Pub. L. 106–170, §536(a)(2), which substituted "(a)(1)" for "(a)" wherever appearing, was repealed by Pub. L. 106–573. See Effective Date and Construction of 2000 Amendment note below.
 
@@ -476,7 +476,7 @@ Applicability.—The Internal Revenue Code of 1986 shall be applied and administ
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title V, §536(c), Dec. 17, 1999, 113 Stat. 1936, provided that: "The amendments made by this section \[amending this section and section 453A of this title\] shall apply to sales or other dispositions occurring on or after the date of the enactment of this Act \[Dec. 17, 1999\]."
+Pub. L. 106–170, title V, §536(c), Dec. 17, 1999, 113 Stat. 1936, provided that: "The amendments made by thissection \[amending this section and section 453A of this title\] shall apply to sales or other dispositions occurring on or after the date of the enactment of this Act \[Dec. 17, 1999\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -556,7 +556,7 @@ Minimum tax.—The amendment made by subsection (d) \[amending section 56 of thi
 
 "(5)
 
-Coordination with tax reform act of 1986.—The amendments made by this section shall not apply toany installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[section 811 of Pub. L. 99–514, amending former section 453C of this title and enacting provisions set out as a note under former section 453C of this title\] do not apply to such obligation or during such period."
+Coordination with tax reform act of 1986.—The amendments made by this section shall not apply to any installment obligation or to any taxpayer during any period to the extent the amendments made by section 811 of the Tax Reform Act of 1986 \[section 811 of Pub. L. 99–514, amending former section 453C of this title and enacting provisions set out as a note under former section 453C of this title\] do not apply to such obligation or during such period."
 
 #### Effective Date of 1986 Amendment
 

@@ -4,7 +4,7 @@
 
 Program Required.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
 
-(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defensewith the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
+(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
 
 (b)
 
@@ -80,7 +80,7 @@ Access to Technical Resources.—(1) Under procedures established by the Under S
 
 (h)
 
-Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term "Federal Government" includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
+Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term "Federal Government" includes both employees of the Federal Government and employees of Federal Government contractorsproviding advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
 
 (i)
 
@@ -160,7 +160,7 @@ Pub. L. 116–283, §1883(b)(2), substituted "section 4374" for "section 2433(d)
 
 Subsec. (c)(4)(A)(ii). Pub. L. 117–81, §1701(d)(9)(A)(ii), substituted "section 4375(b)" for "section 2433(e)(2)(A)".
 
-Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, could not be executed for "section 2433(e)(2)(A)" as there were no subparagraphs in subsec. (e)(2) of former section 2433 of this title after general amendment by Pub. L. 111–23, title II, §206(a)(3), May 22, 2009, 123 Stat. 1728. Section 2433(e)(2) was transferred to section 4375(b) of this title by Pub. L. 116–283.
+Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, could not be executed for "section 2433(e)(2)(A)" as there were no subparagraphs in subsec. (e)(2) of former section 2433 of this title after general amendment by Pub. L. 111–23, title II, §206(a)(3), May 22, 2009, 123 Stat. 1728. Section2433(e)(2) was transferred to section 4375(b) of this title by Pub. L. 116–283.
 
 Subsec. (j). Pub. L. 117–81, §1701(d)(9)(B), substituted "sections 3201 through 3205" for "chapter 137".
 

@@ -6,7 +6,7 @@ Whenever it shall appear to the Director that any person is engaged or about to 
 
 #### (b) Investigations; publication of information concerning violations
 
-The Director may, in his discretion, make such investigations as he deems necessary to determine whether any person has violated or is about to violate any provision of this chapter or any rule or regulation prescribed pursuant thereto, and may require or permit any person to file with him a statement in writing, under oath or otherwise as the Director shall determine, as to all the facts and circumstances concerning the matter to be investigated. The Director is authorized, in his discretion, to publish information concerning any such violations, andto investigate any facts, conditions, practices, or matters which he may deem necessary or proper to aid in the enforcement of the provisions of this chapter, in the prescribing of rules and regulations thereunder, or in securing information to serve as a basis for recommending further legislation concerning the matters to which this chapter relates.
+The Director may, in his discretion, make such investigations as he deems necessary to determine whether any person has violated or is about to violate any provision of this chapter or any rule or regulation prescribed pursuant thereto, and may require or permit any person to file with him a statement in writing, under oath or otherwise as the Director shall determine, as to all the facts and circumstances concerning the matter to be investigated. The Director is authorized, in his discretion, to publish information concerning any such violations, and to investigate any facts, conditions, practices, or matters which he may deem necessary or proper to aid in the enforcement of the provisions of this chapter, in the prescribing of rules and regulations thereunder, or in securing information to serve as a basis for recommending further legislation concerning the matters to which this chapter relates.
 
 #### (c) Oaths and affirmations; subpena power
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1970 Amendment
 
-For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity towhich any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) have demonstrated a commitment to develop their research bases and improve science and engineering research and education programs at their universities and colleges.
 
-(b) A State which has received an initial award under such Program, whether or not the award was received before or after October 31, 1988, shall be eligible for up to 5 years of additional support under the Program if that State provides assurances of new matching funds and submits an acceptable new plan for using Program funds and matching funds to build the research capabilities of the State.
+(b) A State which has received an initial award under such Program, whether or not the award was received before or after October 31, 1988, shall be eligible for up to 5 years of additional support under the Program if that Stateprovides assurances of new matching funds and submits an acceptable new plan for using Program funds and matching funds to build the research capabilities of the State.
 
 (Pub. L. 100–570, title I, §113, Oct. 31, 1988, 102 Stat. 2870; Pub. L. 114–329, title I, §103(e)(2), Jan. 6, 2017, 130 Stat. 2975.)
 

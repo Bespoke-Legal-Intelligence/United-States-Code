@@ -40,7 +40,7 @@
 
 #### (4) Certain provisions not applicable
 
-&emsp;Sections 2056 and 2058 of this title shall not apply to promulgation of any amendment of the product safety standard under paragraph (2). Judicial review of any amendment of the standard under paragraph (2) shall be in accordance with chapter 7 of title 5.
+&emsp;Sections 2056 and 2058 of this title shall not apply to promulgation of any amendment ofthe product safety standard under paragraph (2). Judicial review of any amendment of the standard under paragraph (2) shall be in accordance with chapter 7 of title 5.
 
 #### (c) Requirements for 3-wheeled all-terrain vehicles
 
@@ -92,7 +92,7 @@ In this section:
 
 &emsp;&emsp;(A) any motorized, off-highway vehicle designed to travel on 3 or 4 wheels, having a seat designed to be straddled by the operator and handlebars for steering control; but
 
-&emsp;&emsp;(B) does not include a prototype of a motorized, off-highway, all-terrain vehicle orother motorized, off-highway, all-terrain vehicle that is intended exclusively for research and development purposes unless the vehicle is offered for sale.
+&emsp;&emsp;(B) does not include a prototype of a motorized, off-highway, all-terrain vehicle or other motorized, off-highway, all-terrain vehicle that is intended exclusively for research and development purposes unless the vehicle is offered for sale.
 
 #### (2) ATV action plan
 

@@ -16,7 +16,7 @@ The Commission shall not issue any license under section 2133 of this title for 
 
 The Commission, in issuing any license for a utilization or production facility for the generation of commercial power under section 2133 of this title, shall give preferred consideration to applications for such facilities which will be located in high cost power areas in the United States if there are conflicting applications for a limited opportunity for such license. Where such conflicting applications resulting from limited opportunity for such license include those submitted by public or cooperative bodies such applications shall be given preferred consideration.
 
-(Aug. 1, 1946, ch. 724, title I, §182, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 953; amended Aug. 6, 1956, ch. 1015, §5, 70 Stat. 1069; Pub. L. 85–256, §6, Sept. 2, 1957, 71 Stat. 579; Pub. L. 87–615, §3, Aug. 29, 1962, 76 Stat. 409; Pub. L. 91–560, §9, Dec.19, 1970, 84 Stat. 1474; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §182, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 953; amended Aug. 6, 1956, ch. 1015, §5, 70 Stat. 1069; Pub. L. 85–256, §6, Sept. 2, 1957, 71 Stat. 579; Pub. L. 87–615, §3, Aug. 29, 1962, 76 Stat. 409; Pub. L. 91–560, §9, Dec. 19, 1970, 84 Stat. 1474; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,5 +34,5 @@ The Commission, in issuing any license for a utilization or production facility 
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 

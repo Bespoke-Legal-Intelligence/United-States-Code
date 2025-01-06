@@ -1,6 +1,6 @@
 ### §7501. Duplicates
 
-(a) If a license, certificate of registry, or merchant mariner's document issued under this part is lost as a result of a marine casualty, the holder shall be supplied with a duplicate without cost.
+(a) If a license, certificate of registry, or merchant mariner's document issued under this partis lost as a result of a marine casualty, the holder shall be supplied with a duplicate without cost.
 
 (b) For any other loss, the holder may obtain a duplicate on payment of reasonable costs prescribed by regulation by the Secretary.
 

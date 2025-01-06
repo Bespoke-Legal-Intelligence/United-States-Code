@@ -62,7 +62,7 @@ Duties.—A Senior Advisor for Diversity and Inclusion, with respect to the mili
 
 &emsp;"(C) shall advise and assist in evaluations and assessments of diversity;
 
-&emsp;"(D) shall develop a strategic diversity and inclusion plan, which plan shall be consistent with thestrategic plan developed and maintained pursuant to subsection (b)(3) of section 147 of title 10, United States Code (as added by subsection (a) of this section);
+&emsp;"(D) shall develop a strategic diversity and inclusion plan, which plan shall be consistent with the strategic plan developed and maintained pursuant to subsection (b)(3) of section 147 of title 10, United States Code (as added by subsection (a) of this section);
 
 &emsp;"(E) shall develop strategic goals and measures of performance related to efforts to reflect the diverse population of the United States eligible to serve in the Armed Forces, which goals and measures of performance shall be consistent with the strategic metrics defined pursuant to subsection (b)(4) of such section 147; and
 

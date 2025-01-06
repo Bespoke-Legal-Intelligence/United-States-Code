@@ -22,7 +22,7 @@ A stockholder vote in favor of—
 
 #### (1) Notice
 
-&emsp;Not later than 30 days after a stockholder vote in favor of any of the actions described in subsection (a), the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
+&emsp;Not later than 30 days after a stockholder vote in favor of any of the actions described insubsection (a), the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
 
 #### (2) Effective date
 

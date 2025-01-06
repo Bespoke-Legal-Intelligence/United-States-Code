@@ -1,0 +1,88 @@
+### §1121. Progress reviews and use of performance information
+
+(a)
+
+Use of Performance Information To Achieve Federal Government Priority Goals.—Not less than quarterly, the Director of the Office of Management and Budget, with the support of the Performance Improvement Council, shall—
+
+&emsp;(1) for each Federal Government priority goal required by section 1120(a) of this title, review with the appropriate lead Government official the progress achieved during the most recent quarter, overall trend data, and the likelihood of meeting the planned level of performance;
+
+&emsp;(2) include in such reviews officials from the agencies, organizations, and program activities that contribute to the accomplishment of each Federal Government priority goal;
+
+&emsp;(3) assess whether agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities are contributing as planned to each Federal Government priority goal;
+
+&emsp;(4) categorize the Federal Government priority goals by risk of not achieving the planned level of performance; and
+
+&emsp;(5) for the Federal Government priority goals at greatest risk of not meeting the planned level of performance, identify prospects and strategies for performance improvement, including any needed changes to agencies, organizations, program activities, regulations, tax expenditures, policies or other activities.
+
+(b)
+
+Agency Use of Performance Information To Achieve Agency Priority Goals.—Not less than quarterly, at each agency required to develop agency priority goals required by section 1120(b) of this title, the head of the agency and Chief Operating Officer, with the support of the agency Performance Improvement Officer, shall—
+
+&emsp;(1) for each agency priority goal, review with the appropriate goal leader the progress achieved during the most recent quarter, overall trend data, and the likelihood of meeting the planned level of performance;
+
+&emsp;(2) coordinate with relevant personnel within and outside the agency who contribute to the accomplishment of each agency priority goal;
+
+&emsp;(3) assess whether relevant organizations, program activities, regulations, policies, and other activities are contributing as planned to the agency priority goals;
+
+&emsp;(4) categorize agency priority goals by risk of not achieving the planned level of performance; and
+
+&emsp;(5) for agency priority goals at greatest risk of not meeting the planned level of performance, identify prospects and strategies for performance improvement, including any needed changes to agency program activities, regulations, policies, or other activities.
+
+(c)
+
+Agency Reviews of Progress Towards Strategic Goals and Objectives.—
+
+&emsp;(1)
+
+Covered goal defined.—In this subsection, the term "covered goal" means a goal or objective established in the strategic plan of the agency under section 306(a) of title 5.
+
+&emsp;(2)
+
+Review.—Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency,<sup>1</sup> shall—
+
+&emsp;&emsp;(A) for each covered goal, review with the appropriate agency official responsible for the covered goal—
+
+&emsp;&emsp;&emsp;(i) the progress achieved toward the covered goal—
+
+&emsp;&emsp;&emsp;&emsp;(I) during the most recent fiscal year; or
+
+&emsp;&emsp;&emsp;&emsp;(II) from recent sources of evidence available at the time of the review; and
+
+&emsp;&emsp;&emsp;(ii) the likelihood that the agency will achieve the covered goal;
+
+&emsp;&emsp;(B) coordinate with relevant personnel within and outside the agency who contribute to the accomplishment of each covered goal;
+
+&emsp;&emsp;(C) assess progress toward each covered goal by reviewing performance information and other types of evidence relating to each covered goal, such as program evaluations and statistical data;
+
+&emsp;&emsp;(D) identify whether additional evidence is necessary to better assess progress toward each covered goal, and prioritize the development of the evidence described in subparagraph (C), such as through the plans required under section 312 of title 5, if applicable;
+
+&emsp;&emsp;(E) assess whether relevant organizations, program activities, regulations, policies, and other activities contribute as planned to each covered goal;
+
+&emsp;&emsp;(F) as appropriate, leverage the assessment performed under subparagraph (E) as part of the portfolio reviews required under section 503(c)(1)(G);
+
+&emsp;&emsp;(G) identify any risks or impediments that would reduce or otherwise decrease the likelihood that the agency will achieve the covered goal; and
+
+&emsp;&emsp;(H) for each covered goal at greatest risk of not being achieved, identify prospects and strategies for performance improvement, including any necessary changes to program activities, regulations, policies, or other activities of the agency.
+
+&emsp;(3)
+
+Support.—In fulfilling the requirements of paragraph (2), the head and Chief Operating Officer of each agency shall be supported by—
+
+&emsp;&emsp;(A) the Performance Improvement Officer of the agency;
+
+&emsp;&emsp;(B) as appropriate, the Chief Data Officer, Evaluation Officer, Program Management Improvement Officer, and Statistical Official of the agency; and
+
+&emsp;&emsp;(C) any other senior agency official designated by the head of the agency, the sustained involvement of whom may help the agency increase the likelihood of achieving 1 or more covered goals.
+
+(Added Pub. L. 111–352, §6, Jan. 4, 2011, 124 Stat. 3875; amended Pub. L. 118–190, §2(a)(1), Dec. 23, 2024, 138 Stat. 2653.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–190, §2(a)(1)(A), substituted "Progress reviews and use of performance information" for "Quarterly priority progress reviews and use of performance information" in section catchline.
+
+Subsec. (c). Pub. L. 118–190, §2(a)(1)(B), added subsec. (c).
+
+<i><sup>1</sup></i><i> So in original.</i>
+

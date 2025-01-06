@@ -58,5 +58,5 @@ Pub. L. 102–574, §1, Oct. 29, 1992, 106 Stat. 4593, provided that: "This Act 
 
 #### Short Title
 
-Pub. L. 101–513, title VI, §601, Nov. 5, 1990, 104 Stat. 2070, provided that: "This title \[enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title\] may be cited as the 'International Forestry Cooperation Act of 1990'."
+Pub. L. 101–513, title VI, §601, Nov. 5, 1990, 104 Stat. 2070, provided that: "This title \[enacting this chapterand amending sections 1641, 1643, 2101, and 2109 of this title\] may be cited as the 'International Forestry Cooperation Act of 1990'."
 

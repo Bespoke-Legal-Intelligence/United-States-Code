@@ -60,7 +60,7 @@ The Director of the Foundation shall develop metrics to measure the success of t
 
 #### (e) Report
 
-The Director of the Foundation shall report, in the annual budget submission to Congress, onthe success of the program as measured by the metrics in subsection (d).
+The Director of the Foundation shall report, in the annual budget submission to Congress, on the success of the program as measured by the metrics in subsection (d).
 
 #### (f) Definition of eligible entity
 

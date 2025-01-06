@@ -46,7 +46,7 @@ For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary 
 
 #### Prior Provisions
 
-A prior section 101 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 101 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
 

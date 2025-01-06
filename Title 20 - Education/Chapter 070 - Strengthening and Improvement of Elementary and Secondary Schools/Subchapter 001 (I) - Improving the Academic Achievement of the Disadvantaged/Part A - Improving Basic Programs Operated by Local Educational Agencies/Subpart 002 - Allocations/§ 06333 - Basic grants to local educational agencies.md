@@ -4,7 +4,7 @@
 
 #### (1) Grants for local educational agencies and Puerto Rico
 
-&emsp;Except as provided in paragraph (4) and in section 6338 of this title, the grant that a localeducational agency is eligible to receive under this section for a fiscal year is the amount determined by multiplying—
+&emsp;Except as provided in paragraph (4) and in section 6338 of this title, the grant that a local educational agency is eligible to receive under this section for a fiscal year is the amount determined by multiplying—
 
 &emsp;&emsp;(A) the number of children counted under subsection (c); and
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) using precisely the same factors for determining a grant as are used under this subpart; or
 
-&emsp;&emsp;&emsp;(ii) using data that the State educational agency submits to the Secretary for approval that more accurately target poverty.
+&emsp;&emsp;&emsp;(ii) using data that the State educational agency submits to the Secretaryfor approval that more accurately target poverty.
 
 #### (D) Appeal
 

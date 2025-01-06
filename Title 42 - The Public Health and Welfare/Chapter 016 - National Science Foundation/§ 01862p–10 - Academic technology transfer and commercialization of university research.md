@@ -20,7 +20,7 @@ The National Science Foundation shall create and maintain a website accessible t
 
 #### (c) Trade secret information
 
-Notwithstanding subsection (a), an institution shall not be required to reveal confidential,trade secret, or proprietary information on its website.
+Notwithstanding subsection (a), an institution shall not be required to reveal confidential, trade secret, or proprietary information on its website.
 
 (Pub. L. 111–358, title V, §520, Jan. 4, 2011, 124 Stat. 4016.)
 

@@ -1,6 +1,6 @@
 ### §5705. Confidentiality of medical quality-assurance records
 
-(a) Records and documents created by the Department as part of a medical quality-assurance program (other than reports submitted pursuant to section 7311(g) <sup>1</sup> of this title) are confidential and privileged and may not be disclosed to any person or entity except as provided in subsection (b) of this section.
+(a) Records and documents created by the Department as part of a medical quality-assuranceprogram (other than reports submitted pursuant to section 7311(g) <sup>1</sup> of this title) are confidential and privileged and may not be disclosed to any person or entity except as provided in subsection (b) of this section.
 
 (b)(1) Subject to paragraph (2) of this subsection, a record or document described in subsection (a) of this section shall, upon request, be disclosed as follows:
 
@@ -32,7 +32,7 @@
 
 (2) An activity may not be considered as having been designated as a medical quality-assurance program for the purposes of subsection (c)(2) of this section unless the designation has been specified in such regulations.
 
-(e) Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully disclosessuch record or document except as provided for in subsection (b) of this section shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+(e) Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully discloses such record or document except as provided for in subsection (b) of this section shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
 (Added Pub. L. 96–385, title V, §505(a), Oct. 7, 1980, 94 Stat. 1535, §3305; amended Pub. L. 99–166, title II, §201, Dec. 3, 1985, 99 Stat. 949; renumbered §5705 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(2), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(d)(4), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, §4(a)(2)(F), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

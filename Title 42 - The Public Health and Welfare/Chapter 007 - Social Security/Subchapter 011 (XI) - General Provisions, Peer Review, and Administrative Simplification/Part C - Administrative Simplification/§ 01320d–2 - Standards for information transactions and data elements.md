@@ -206,7 +206,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (C) Expedited rulemaking
 
-&emsp;&emsp;The Secretary shall promulgate an interim final rule applying any standard or operating rule recommended by the NationalCommittee on Vital and Health Statistics pursuant to paragraph (3). The Secretary shall accept and consider public comments on any interim final rule published under this subparagraph for 60 days after the date of such publication.
+&emsp;&emsp;The Secretary shall promulgate an interim final rule applying any standard or operating rule recommended by the National Committee on Vital and Health Statistics pursuant to paragraph (3). The Secretary shall accept and consider public comments on any interim final rule published under this subparagraph for 60 days after the date of such publication.
 
 #### (h) Compliance
 
@@ -268,7 +268,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (B) Report
 
-&emsp;&emsp;Not later than July 1, 2014, and not less than biennially thereafter, the review committee shall provide recommendations for updating and improving such standards and operating rules. The review committee shallrecommend a single set of operating rules per transaction standard and maintain the goal of creating as much uniformity as possible in the implementation of the electronic standards.
+&emsp;&emsp;Not later than July 1, 2014, and not less than biennially thereafter, the review committee shall provide recommendations for updating and improving such standards and operating rules. The review committee shall recommend a single set of operating rules per transaction standard and maintain the goal of creating as much uniformity as possible in the implementation of the electronic standards.
 
 #### (3) Interim final rulemaking
 
@@ -346,7 +346,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (3) Penalty fee report
 
-&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide the Secretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
+&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide theSecretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
 
 #### (4) Collection of penalty fee
 

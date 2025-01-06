@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–136 substituted "a terroristic or military action (as defined in section 692(c)(2) of such title), or a public health emergency declared by the Secretary of Health and Human Services pursuant to section 247d of title 42, the Secretary may" for "or a terroristic or military action (as defined in section 692(c)(2) of such title), the Secretary may".
+<b>2020</b>—Pub. L. 116–136 substituted "a terroristic or military action (as defined in section 692(c)(2) of such title), or a public health emergency declared by theSecretary of Health and Human Services pursuant to section 247d of title 42, the Secretary may" for "or a terroristic or military action (as defined in section 692(c)(2) of such title), the Secretary may".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

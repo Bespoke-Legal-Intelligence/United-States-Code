@@ -20,7 +20,7 @@ There is established within the Department of the Treasury the Office of Financi
 
 #### (4) Prohibition on dual service
 
-&emsp;The individual serving in the position of Director may not, during such service, also serveas the head of any financial regulatory agency.
+&emsp;The individual serving in the position of Director may not, during such service, also serve as the head of any financial regulatory agency.
 
 #### (5) Responsibilities, duties, and authority
 

@@ -6,7 +6,7 @@
 
 (c) All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 
-(d) The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipmentof naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, the Coast Guard, the Space Force, and the Navy.
+(d) The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, the Coast Guard, the Space Force, and the Navy.
 
 (e) The Secretary of the Navy shall ensure that—
 
@@ -50,7 +50,7 @@
 
 (h) In this section, the term "amphibious warfare ship" means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, §126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, §1011(a), Oct. 17, 2006, 120 Stat. 2374; Pub. L. 114–328, div. A, title X, §1042(a), Dec. 23, 2016, 130 Stat. 2393; renumbered §8062, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–283, div. A, title X, §1054, Jan. 1, 2021, 134 Stat. 3850; Pub. L. 117–81, div. A, title X, §1053, Dec. 27, 2021, 135 Stat. 1908; Pub. L. 117–263, div. A, title I, §121(a), title IX, §913, title X, §1023, Dec. 23, 2022, 136 Stat. 2440, 2751, 2764; Pub. L. 118–31, div. A, title I, §121(a)(1), title XVIII, §1801(a)(38), Dec. 22, 2023, 137 Stat. 168, 685.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, §126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, §1011(a), Oct. 17, 2006, 120 Stat. 2374; Pub. L. 114–328, div. A, title X, §1042(a), Dec. 23, 2016, 130 Stat. 2393; renumbered §8062, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–283, div. A, title X, §1054, Jan. 1, 2021, 134 Stat. 3850; Pub. L. 117–81, div. A, title X, §1053, Dec. 27, 2021, 135 Stat. 1908; Pub. L. 117–263, div. A, title I, §121(a), title IX, §913, title X, §1023, Dec. 23, 2022, 136 Stat. 2440, 2751, 2764; Pub. L. 118–31, div. A, title I, §121(a)(1), titleXVIII, §1801(a)(38), Dec. 22, 2023, 137 Stat. 168, 685.)
 
 Historical and Revision Notes
 
@@ -94,7 +94,7 @@ A prior section 8062 was renumbered section 9062 of this title.
 
 Subsecs. (g), (h). Pub. L. 118–31, §1801(a)(38), redesignated subsec. (g) defining amphibious warfare ship as (h).
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–263, §913, substituted "for the peacetime promotion of the national securityinterests and prosperity of the United States and" for "primarily" and "for the duties described in the preceding sentence" for "for the effective prosecution of war".
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §913, substituted "for the peacetime promotion of the national security interests and prosperity of the United States and" for "primarily" and "for the duties described in the preceding sentence" for "for the effective prosecution of war".
 
 Subsec. (b). Pub. L. 117–263, §1023(1), inserted "and not less than 31 operational amphibious warfare ships, of which not less than 10 shall be amphibious assault ships" after "11 operational aircraft carriers" in first sentence and "or amphibious warfare ship" after "aircraft carrier" in two places in second sentence.
 

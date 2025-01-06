@@ -22,7 +22,7 @@
 
 #### (D) Factors for determination of penalty amounts
 
-&emsp;&emsp;In determining the amount of any civil penalty, the administrative judge or the head of the designated agency shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, the ability to pay, effect on ability to continue to do business, any history of such violations, the degree of culpability, the existence of an internal compliance program, and such other matters as justice may require.
+&emsp;&emsp;In determining the amount of any civil penalty, the administrative judge or thehead of the designated agency shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, the ability to pay, effect on ability to continue to do business, any history of such violations, the degree of culpability, the existence of an internal compliance program, and such other matters as justice may require.
 
 #### (E) Content of notice
 

@@ -4,7 +4,7 @@
 
 #### (1) Policies and procedures
 
-&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the AttorneyGeneral, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
+&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the Attorney General, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
 
 #### (2) Special rules for children from contiguous countries
 
@@ -42,7 +42,7 @@
 
 #### (4) Screening
 
-&emsp;Within 48 hours of the apprehension of a child who is believed to be described in paragraph (2)(A), but in any event prior to returning such child to the child's country of nationality or of last habitual residence, the child shall be screened to determine whether the child meets the criteria listed in paragraph (2)(A). If the child does not meet such criteria, or if no determination can be made within 48 hours of apprehension, the child shall immediately be transferred to the Secretary of Health and Human Services and treated in accordance with subsection (b). Nothing in this paragraph may be construed to preclude an earlier transfer of the child.
+&emsp;Within 48 hours of the apprehension of a child who is believed to be described in paragraph (2)(A), but in any event prior to returning such child to the child's country of nationality or of last habitual residence, the child shall be screened to determine whether thechild meets the criteria listed in paragraph (2)(A). If the child does not meet such criteria, or if no determination can be made within 48 hours of apprehension, the child shall immediately be transferred to the Secretary of Health and Human Services and treated in accordance with subsection (b). Nothing in this paragraph may be construed to preclude an earlier transfer of the child.
 
 #### (5) Ensuring the safe repatriation of children
 
@@ -106,7 +106,7 @@
 
 #### (1) Policies and programs
 
-&emsp;The Secretary of Health and Human Services, Secretary of Homeland Security, Attorney General, and Secretary of State shall establish policies and programs to ensure that unaccompanied alien children in the United States are protected from traffickers and other persons seeking to victimize or otherwise engage such children in criminal, harmful, or exploitative activity, including policies and programs reflecting best practices in witness security programs.
+&emsp;The Secretary of Health and Human Services, Secretary of Homeland Security, Attorney General, and Secretary of State shall establish policies and programs to ensure that unaccompanied alien children in the UnitedStates are protected from traffickers and other persons seeking to victimize or otherwise engage such children in criminal, harmful, or exploitative activity, including policies and programs reflecting best practices in witness security programs.
 
 #### (2) Safe and secure placements
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entityunless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
+&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
 
 #### (B) Home studies
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
+&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectivelyadvocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
 
 #### (B) Appointment of child advocates
 
@@ -176,7 +176,7 @@
 
 #### (iii) Contribution of funds
 
-&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federalfunds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
+&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
 
 #### (D) Annual report to Congress
 
@@ -248,7 +248,7 @@
 
 #### (5) State courts acting in loco parentis
 
-&emsp;A department or agency of a State, or an individual or entity appointed by a State courtor juvenile court located in the United States, acting in loco parentis, shall not be considered a legal guardian for purposes of this section or section 279 of title 6.
+&emsp;A department or agency of a State, or an individual or entity appointed by a State court or juvenile court located in the United States, acting in loco parentis, shall not be considered a legal guardian for purposes of this section or section 279 of title 6.
 
 #### (6) Transition rule
 

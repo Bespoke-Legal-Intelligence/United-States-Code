@@ -18,7 +18,7 @@
 
 (g) In the absence of gross negligence or intent to defraud the United States, a disbursing official is not liable for a payment by him under this subchapter if it was based on a voucher signed by a certifying official designated as provided by subsection (f) of this section.
 
-(h) For the purpose of payments made to a State under subchapter III of chapter 7 of title 42, administration by a State agency under anagreement is deemed a part of the administration of the State unemployment compensation law.
+(h) For the purpose of payments made to a State under subchapter III of chapter 7 of title 42, administration by a State agency under an agreement is deemed a part of the administration of the State unemployment compensation law.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 588; Pub. L. 94–566, title II, §214(a), Oct. 20, 1976, 90 Stat. 2678; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -48,7 +48,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amountwhich shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
 
 #### <b>Statutory Notes and Subsidiaries</b>
 

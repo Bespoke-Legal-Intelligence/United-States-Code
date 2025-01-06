@@ -1,4 +1,4 @@
-### <b>PART III—PATENTS AND PROTECTION OF PATENT RIGHTS</b>
+## PART III—PATENTS AND PROTECTION OF PATENT RIGHTS
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |

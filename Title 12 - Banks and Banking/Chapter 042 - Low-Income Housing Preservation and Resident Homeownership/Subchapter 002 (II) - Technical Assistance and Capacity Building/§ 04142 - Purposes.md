@@ -14,7 +14,7 @@ The purposes of this subchapter are—
 
 #### References in Text
 
-This title, referred to in pars. (1) and (3), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in pars. (1) and (3), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known asthe Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

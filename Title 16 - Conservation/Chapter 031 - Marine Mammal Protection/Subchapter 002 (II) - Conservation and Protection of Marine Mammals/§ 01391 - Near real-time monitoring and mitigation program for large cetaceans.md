@@ -32,7 +32,7 @@ The Program shall—
 
 #### (2) Requirements
 
-&emsp;In designing and deploying the pilot project, the Under Secretary, in coordination with the heads of other relevant Federal agencies, shall, using the best available scientific information, identify and ensure coverage of—
+&emsp;In designing and deploying the pilot project, the Under Secretary, in coordination with theheads of other relevant Federal agencies, shall, using the best available scientific information, identify and ensure coverage of—
 
 &emsp;&emsp;(A) core foraging habitats; and
 
@@ -116,7 +116,7 @@ The Program shall—
 
 #### (e) Mitigation protocols
 
-The Under Secretary, in consultation with the Secretary, the Secretary of Defense, the Secretary of Transportation, and the Secretary of the Interior, and with input from affected stakeholders, shall develop and deploy mitigation protocols that make use of any monitoring system designed and deployed under this section to direct sector-specific mitigation measures that avoid and significantly reduce risk of serious injury and mortality to North Atlantic right whales.
+The Under Secretary, in consultation with the Secretary, the Secretary of Defense, the Secretary of Transportation, and the Secretary ofthe Interior, and with input from affected stakeholders, shall develop and deploy mitigation protocols that make use of any monitoring system designed and deployed under this section to direct sector-specific mitigation measures that avoid and significantly reduce risk of serious injury and mortality to North Atlantic right whales.
 
 #### (f) Access to data
 

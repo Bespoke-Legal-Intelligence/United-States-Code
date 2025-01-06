@@ -98,7 +98,7 @@ The plan shall include at a minimum the following program elements:
 
 &emsp;(7) Applied research to identify adaptation strategies for species impacted by changes in ocean chemistry including vegetation-based systems, shell recycling, species and genetic diversity, applied technologies, aquaculture methodologies, and management recommendations.
 
-&emsp;(8) Research to understand related and cumulative stressors and other biogeochemicalprocesses occurring in conjunction with ocean acidification and coastal acidification.
+&emsp;(8) Research to understand related and cumulative stressors and other biogeochemical processes occurring in conjunction with ocean acidification and coastal acidification.
 
 #### (d) Publication
 

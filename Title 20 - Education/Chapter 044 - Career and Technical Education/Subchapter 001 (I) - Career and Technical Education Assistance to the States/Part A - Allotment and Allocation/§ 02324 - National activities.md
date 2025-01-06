@@ -12,7 +12,7 @@
 
 #### (3) Assessments
 
-&emsp;As a regular part of its assessments, the National Center for Education Statistics shall collect and report information on career and technical education for a nationally representative sample of students. Such assessment may include international comparisons in the aggregate.
+&emsp;As a regular part of its assessments, the National Center for Education Statistics shallcollect and report information on career and technical education for a nationally representative sample of students. Such assessment may include international comparisons in the aggregate.
 
 #### (b) Reasonable cost
 
@@ -88,7 +88,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such students that are high school students that earn credit toward a recognized postsecondary credential;
 
-&emsp;&emsp;&emsp;(ii) the extent to which career and technical education programs and programs of study prepare students, including special populations, for subsequent employmentin high-skill, high-wage occupations (including those in which mathematics and science skills are critical, which may include computer science), or for participation in postsecondary education;
+&emsp;&emsp;&emsp;(ii) the extent to which career and technical education programs and programs of study prepare students, including special populations, for subsequent employment in high-skill, high-wage occupations (including those in which mathematics and science skills are critical, which may include computer science), or for participation in postsecondary education;
 
 &emsp;&emsp;&emsp;(iii) employer involvement in, benefit from, and satisfaction with, career and technical education programs and programs of study and career and technical education students' preparation for employment;
 
@@ -148,7 +148,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 #### (A) In general
 
-&emsp;&emsp;From amounts made available under subsection (f), the Secretary, after consultation with the Director, the Commissioner for Education Research, and the States, and with input from the independent advisory panel established under subsection (d)(1)(A), shall award a grant, contract, or cooperative agreement, on a competitive basis, to an institution of higher education or to a consortium of one or more institutions of highereducation and one or more private nonprofit organizations or agencies, to carry out one or more of the activities described in subparagraph (B).
+&emsp;&emsp;From amounts made available under subsection (f), the Secretary, after consultationwith the Director, the Commissioner for Education Research, and the States, and with input from the independent advisory panel established under subsection (d)(1)(A), shall award a grant, contract, or cooperative agreement, on a competitive basis, to an institution of higher education or to a consortium of one or more institutions of higher education and one or more private nonprofit organizations or agencies, to carry out one or more of the activities described in subparagraph (B).
 
 #### (B) Grant activities
 
@@ -422,7 +422,7 @@ Subsec. (e). Pub. L. 115–224, §113(6), added subsec. (e). Former subsec. (e) 
 
 Subsec. (f). Pub. L. 115–224, §113(5), (7), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012."
 
-<b>2015</b>—Subsec. (d)(4)(A)(iii)(I)(aa). Pub. L. 114–95 substituted "integrating those programs with challenging State academic standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;" for "integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;".
+<b>2015</b>—Subsec. (d)(4)(A)(iii)(I)(aa). Pub. L. 114–95 substituted "integrating those programs with challengingState academic standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;" for "integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;".
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–76 substituted "Office of Career, Technical, and Adult Education" for "Office of Vocational and Adult Education".
 

@@ -18,7 +18,7 @@ Judicial Review.—Within 60 days after an award becomes binding under subsectio
 
 &emsp;(3) the decision by the arbitrator is arbitrary or capricious;
 
-&emsp;(4) the arbitrator conducted the hearing contrary to the provisions of this chapter or other laws or rules that apply to the arbitration soas to substantially prejudice the rights of a party;
+&emsp;(4) the arbitrator conducted the hearing contrary to the provisions of this chapter or other laws or rules that apply to the arbitration so as to substantially prejudice the rights of a party;
 
 &emsp;(5) there was partiality or misconduct by the arbitrator prejudicing the rights of a party;
 

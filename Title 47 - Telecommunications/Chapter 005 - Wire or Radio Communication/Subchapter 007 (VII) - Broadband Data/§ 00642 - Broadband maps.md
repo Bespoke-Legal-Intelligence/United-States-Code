@@ -202,7 +202,7 @@
 
 &emsp;&emsp;&emsp;(i) consider—
 
-&emsp;&emsp;&emsp;&emsp;(I) the types of information that an entity or individual submitting a challenge should provide to the Commission in support of the challenge;
+&emsp;&emsp;&emsp;&emsp;(I) the types of information that an entity or individual submitting a challengeshould provide to the Commission in support of the challenge;
 
 &emsp;&emsp;&emsp;&emsp;(II) the appropriate level of granularity for the information described in subclause (I);
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;The rules issued to establish the challenge process under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a process for the speedy resolution of challenges, which shall require that theCommission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete; and
+&emsp;&emsp;&emsp;(i) a process for the speedy resolution of challenges, which shall require that the Commission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete; and
 
 &emsp;&emsp;&emsp;(ii) a process for the regular and expeditious updating of the coverage maps and granular data disseminated by the Commission as challenges are resolved.
 
@@ -286,7 +286,7 @@ The Commission shall—
 
 &emsp;&emsp;(A) the Broadband Map, which shall depict—
 
-&emsp;&emsp;&emsp;(i) the extent of the availability of broadband internet access service in the United States, without regard to whether that service is fixed broadband internet access service or mobile broadband internet access service, which shall be based on data collected by the Commission from all providers; and
+&emsp;&emsp;&emsp;(i) the extent of the availability of broadband internet access service in the United States, without regard to whetherthat service is fixed broadband internet access service or mobile broadband internet access service, which shall be based on data collected by the Commission from all providers; and
 
 &emsp;&emsp;&emsp;(ii) the areas of the United States that remain unserved by providers;
 
@@ -314,7 +314,7 @@ The Commission shall—
 
 &emsp;&emsp;(A) the maps created under paragraph (1); and
 
-&emsp;&emsp;(B) the data collected by the Commission with respect to the availability of broadbandinternet access service and the quality of service with respect to broadband internet access service.
+&emsp;&emsp;(B) the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.
 
 #### (d) Delayed effective date for quality of service rules
 

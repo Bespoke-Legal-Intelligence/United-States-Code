@@ -88,7 +88,7 @@ The Commission shall prescribe regulations to implement this section. The Commis
 
 #### (g) Common carriers
 
-Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
+Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in whichsuch common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
 
 #### (h) Exemptions for prior contracts
 
@@ -108,7 +108,7 @@ As used in this section:
 
 &emsp;(2) The term "satellite cable programming vendor" means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
 
-&emsp;(3) The term "satellite broadcast programming" means broadcast video programmingwhen such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
+&emsp;(3) The term "satellite broadcast programming" means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
 
 &emsp;(4) The term "satellite broadcast programming vendor" means a fixed service satellite carrier that provides service pursuant to section 119 of title 17 with respect to satellite broadcast programming.
 

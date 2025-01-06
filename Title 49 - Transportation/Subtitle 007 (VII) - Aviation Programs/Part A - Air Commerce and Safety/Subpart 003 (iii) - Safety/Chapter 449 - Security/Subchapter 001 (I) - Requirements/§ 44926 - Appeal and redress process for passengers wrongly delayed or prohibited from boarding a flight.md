@@ -30,7 +30,7 @@ Information.—To prevent repeated delays of a misidentified passenger or other 
 
 Handling of personally identifiable information.—The Secretary, in conjunction with the Chief Privacy Officer of the Department shall—
 
-&emsp;&emsp;(A) require that Federal employees of the Department handling personally identifiableinformation of passengers (in this paragraph referred to as "PII") complete mandatory privacy and security training prior to being authorized to handle PII;
+&emsp;&emsp;(A) require that Federal employees of the Department handling personally identifiable information of passengers (in this paragraph referred to as "PII") complete mandatory privacy and security training prior to being authorized to handle PII;
 
 &emsp;&emsp;(B) ensure that the records maintained under this subsection are secured by encryption, one-way hashing, other data anonymization techniques, or such other equivalent security technical protections as the Secretary determines necessary;
 

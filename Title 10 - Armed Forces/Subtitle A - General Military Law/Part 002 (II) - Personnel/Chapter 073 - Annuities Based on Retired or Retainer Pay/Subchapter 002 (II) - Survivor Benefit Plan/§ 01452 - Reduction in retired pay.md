@@ -82,7 +82,7 @@ Child-Only Annuities.—
 
 &emsp;(1)
 
-Required reduction in retired pay.—The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reducedby an amount prescribed under regulations by the Secretary of Defense.
+Required reduction in retired pay.—The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title, of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
 
 &emsp;(2)
 
@@ -94,7 +94,7 @@ Special rule for certain rcsbp participants.—In the case of a participant in t
 
 &emsp;(4)
 
-Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
+Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverageis a participant who has a dependent child and who—
 
 &emsp;&emsp;(A) does not have an eligible spouse or former spouse; or
 
@@ -156,7 +156,7 @@ Deposits not required when participant on active duty.—Paragraphs (1) and (2) 
 
 (e)
 
-Deposits Not Required for Certain Participants in CSRS and FERS.—When a person who has elected to participate in the Plan waives that person's retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
+Deposits Not Required for Certain Participants in CSRS and FERS.—When a person who has elected to participate in the Plan waives that person's retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or 8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
 
 (f)
 
@@ -248,7 +248,7 @@ Coordination when payment of increase in retired pay is delayed by law.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (1), when the initial payment of an increase in retired pay under section 1401a of this title (or any other provision of law) to a person is for a month that begins later than the effective date of that increase by reason of the application of subsection (b)(2)(B) of such section (or section 631(b) of Public Law 104–106 (110 Stat. 364)), then theamount of the reduction in the person's retired pay shall be effective on the date of that initial payment of the increase in retired pay rather than the effective date of the increase in retired pay.
+In general.—Notwithstanding paragraph (1), when the initial payment of an increase in retired pay under section 1401a of this title (or any other provision of law) to a person is for a month that begins later than the effective date of that increase by reason of the application of subsection (b)(2)(B) of such section (or section 631(b) of Public Law 104–106 (110 Stat. 364)), then the amount of the reduction in the person's retired pay shall be effective on the date of that initial payment of the increase in retired pay rather than the effective date of the increase in retired pay.
 
 &emsp;&emsp;(B)
 
@@ -256,7 +256,7 @@ Delay not to affect computation of annuity.—Subparagraph (A) may not be constr
 
 (i)
 
-Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title)so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 (j)
 
@@ -414,7 +414,7 @@ Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C), Nov. 5, 1990, 104 Stat. 1
 
 Pub. L. 99–145, title VII, §714(b), Nov. 8, 1985, 99 Stat. 673, provided that: "The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\]."
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period beforeMar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1980 Amendment
 

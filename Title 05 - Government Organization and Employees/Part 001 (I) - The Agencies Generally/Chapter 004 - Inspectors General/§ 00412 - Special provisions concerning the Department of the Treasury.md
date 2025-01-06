@@ -26,7 +26,7 @@ Authority of secretary of treasury to prohibit carrying out or completing certai
 
 &emsp;(3)
 
-Notification and statement of reasons for exercise of power.—If the Secretary of the Treasury exercises any power under paragraph (1) or (2), the Secretary of the Treasury shall notify the Inspector General of the Department of the Treasury in writing, stating the reasons for such exercise. Within 30 days after receipt of any such notice, the Inspector General of the Department of the Treasury shall transmit a copy of such notice to the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate and the Committee on Oversight and Reform and the Committee on Ways and Means of the House of Representatives, and to other appropriate committees or subcommittees of the Congress.
+Notification and statement of reasons for exercise of power.—If the Secretary of the Treasury exercises any power under paragraph (1) or (2), the Secretary of the Treasuryshall notify the Inspector General of the Department of the Treasury in writing, stating the reasons for such exercise. Within 30 days after receipt of any such notice, the Inspector General of the Department of the Treasury shall transmit a copy of such notice to the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate and the Committee on Oversight and Reform and the Committee on Ways and Means of the House of Representatives, and to other appropriate committees or subcommittees of the Congress.
 
 &emsp;(4)
 
@@ -66,7 +66,7 @@ Treasury Inspector General for Tax Administration.—
 
 &emsp;(1)
 
-Access to returns and return information.—The Treasury Inspector General for Tax Administration shall have access to returns and return information, as defined in section6103(b) of the Internal Revenue Code of 1986 (26 U.S.C. 6103(b)), only in accordance with the provisions of section 6103 of the Internal Revenue Code of 1986 (26 U.S.C. 6103) and this chapter.
+Access to returns and return information.—The Treasury Inspector General for Tax Administration shall have access to returns and return information, as defined in section 6103(b) of the Internal Revenue Code of 1986 (26 U.S.C. 6103(b)), only in accordance with the provisions of section 6103 of the Internal Revenue Code of 1986 (26 U.S.C. 6103) and this chapter.
 
 &emsp;(2)
 
@@ -168,7 +168,7 @@ Periodic list of investigations for which final report completed.—The Treasury
 
 &emsp;&emsp;(C)
 
-Applicability.—This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
+Applicability.—This paragraph applies regardless of whether the applicable audit orinvestigation is requested under paragraph (1).
 
 (Pub. L. 117–286, §3(b), Dec. 27, 2022, 136 Stat. 4229.)
 
@@ -210,7 +210,7 @@ Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §10
 
 In subsection (a)(3) and subsection (g)(1), the words "\[Committee\] on Homeland Security and Governmental Affairs \[of the Senate\]" are substituted for "\[Committee\] on Governmental Affairs of the Senate" on authority of Senate Resolution No. 445, 108th Congress, October 9, 2004 (effective January 4, 2005).
 
-In subsection (a)(3), the words "Committee on Oversight and Reform \[of the House of Representatives\]"are substituted for "\[Committee on\] Government Operations \[of the House of Representatives\]" on authority of section 1(a) of Public Law 104–14 (2 U.S.C. note prec. 21), House Resolution No. 5 (106th Congress, January 6, 1999), House Resolution No. 6 (110th Congress, January 5, 2007), and rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
+In subsection (a)(3), the words "Committee on Oversight and Reform \[of the House of Representatives\]" are substituted for "\[Committee on\] Government Operations \[of the House of Representatives\]" on authority of section 1(a) of Public Law 104–14 (2 U.S.C. note prec. 21), House Resolution No. 5 (106th Congress, January 6, 1999), House Resolution No. 6 (110th Congress, January 5, 2007), and rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
 
 In subsection (g)(1), the words "Committee on Oversight and Reform" are substituted for "\[Committee on\] Government Reform and Oversight" on authority of rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (116th Congress, January 9, 2019).
 

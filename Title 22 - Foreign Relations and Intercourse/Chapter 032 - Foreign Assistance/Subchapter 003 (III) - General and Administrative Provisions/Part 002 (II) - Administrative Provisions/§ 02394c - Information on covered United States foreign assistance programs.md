@@ -150,7 +150,7 @@ Objectives.—The guidelines established pursuant to subsection (b) shall provid
 
 &emsp;&emsp;"(I) internally distribute evaluation reports;
 
-&emsp;&emsp;"(J) publicly report each evaluation, including an executive summary, a description of the evaluation methodology, key findings, appropriate context, including quantitative and qualitative data when available, and recommendations made in the evaluation within 90 days after the completion of the evaluation;
+&emsp;&emsp;"(J) publicly report each evaluation, including an executive summary, a description of the evaluation methodology, key findings, appropriate context, including quantitative and qualitative data whenavailable, and recommendations made in the evaluation within 90 days after the completion of the evaluation;
 
 &emsp;&emsp;"(K) undertake collaborative partnerships and coordinate efforts with the academic community, implementing partners, and national and international institutions, as appropriate, that have expertise in program monitoring, evaluation, and analysis when such partnerships provide needed expertise or significantly improve the evaluation and analysis;
 

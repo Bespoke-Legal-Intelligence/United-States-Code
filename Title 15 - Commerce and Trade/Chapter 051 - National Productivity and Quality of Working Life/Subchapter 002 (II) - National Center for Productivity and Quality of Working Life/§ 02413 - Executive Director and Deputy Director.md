@@ -10,7 +10,7 @@ The Executive Director shall appoint a Deputy Director, who shall perform such f
 
 #### (c) Powers and duties of Executive Director
 
-The Executive Director shall be responsible for the exercise of all powers and the discharge of all duties of the Center. The Executive Director shall have authority over and control of all of the staff of the Center and their activities. The Executive Director shall maintain budgets and allocate available funds as appropriate in carrying out the provisions of this chapter.
+The Executive Director shall be responsible for the exercise of all powers and the discharge of all duties of the Center. The Executive Director shall have authority over and control of all of the staff of the Center and their activities. The Executive Director shall maintain budgetsand allocate available funds as appropriate in carrying out the provisions of this chapter.
 
 #### (d) Compensation of Executive Director; dual employment
 

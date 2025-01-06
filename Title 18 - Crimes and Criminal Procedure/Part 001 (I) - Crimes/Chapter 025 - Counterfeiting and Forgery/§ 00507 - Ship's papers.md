@@ -12,7 +12,7 @@ Shall be fined under this title or imprisoned not more than three years, or both
 
 Based on title 18, U.S.C., 1940 ed., §129 (Mar. 4, 1909, ch. 321, §72, 35 Stat. 1101).
 
-The words "passport" and "sea letter" were omitted as obsolete, in view of the Presidential proclamation ofApril 10, 1815, discontinuing the use of such passports and sea letters.
+The words "passport" and "sea letter" were omitted as obsolete, in view of the Presidential proclamation of April 10, 1815, discontinuing the use of such passports and sea letters.
 
 Mandatory punishment provisions were rephrased in the alternative.
 

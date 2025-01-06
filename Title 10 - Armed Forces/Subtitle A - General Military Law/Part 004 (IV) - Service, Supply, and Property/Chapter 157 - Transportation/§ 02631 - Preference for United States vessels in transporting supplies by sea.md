@@ -82,7 +82,7 @@ Historical and Revision Notes
 
 Apr. 28, 1904, ch. 1766, 33 Stat. 518.
 
-The word "supplies" is substituted for the words "coal, provisions, fodder, or supplies of any description", in 10:1365 and 34:528. The words "pursuant to law" and "the use of", in 10:1365 and 34:528, are omittedas surplusage. The words "as otherwise provided by law", in 10:1365 and 34:528, are used rather than the words "under the law as it now exists", in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word "may" is substituted for the word "shall". The words "However, if" are substituted for the words "unless \* \* \* in which case". The words "private persons" are substituted for the words "private parties or companies", in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
+The word "supplies" is substituted for the words "coal, provisions, fodder, or supplies of any description", in 10:1365 and 34:528. The words "pursuant to law" and "the use of", in 10:1365 and 34:528, are omitted as surplusage. The words "as otherwise provided by law", in 10:1365 and 34:528, are used rather than the words "under the law as it now exists", in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word "may" is substituted for the word "shall". The words "However, if" are substituted for the words "unless \* \* \* in which case". The words "private persons" are substituted for the words "private parties or companies", in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
 
 #### <b>Editorial Notes</b>
 
@@ -178,7 +178,7 @@ Memorandum of the President of the United States, Aug. 7, 1985, 50 F.R. 36565, p
 
 Memorandum for the Honorable Caspar W. Weinberger, the Secretary of Defense
 
-By virtue of the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 301 of Title 3 of the United States Code, I hereby delegate to the Secretary of Defense all the functions vested in me by the Cargo preference Act of 1904, 10 U.S.C. 2631. This authority may be redelegated.
+By virtue of the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 301 of Title 3 of the United States Code, I hereby delegate to the Secretary of Defense all the functions vested in me by the Cargopreference Act of 1904, 10 U.S.C. 2631. This authority may be redelegated.
 
 This memorandum shall be published in the Federal Register.
 

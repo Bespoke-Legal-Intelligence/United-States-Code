@@ -158,7 +158,7 @@ Pub. L. 105–56, title VIII, §8103, Oct. 8, 1997, 111 Stat. 1243.
 
 #### Interest Penalties for Late Payment of Interim Payments Due Under Government Service Contracts
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1010\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, as amended by Pub. L. 107–107, div. A, title X, §1007, Dec. 28, 2001, 115 Stat. 1204, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1010\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, as amended by Pub. L.107–107, div. A, title X, §1007, Dec. 28, 2001, 115 Stat. 1204, provided that:
 
 "(a)
 

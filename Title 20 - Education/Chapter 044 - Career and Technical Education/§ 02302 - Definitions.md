@@ -46,7 +46,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(i) provides individuals with rigorous academic content and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions, which may include high-skill, high-wage, or in-demand industry sectors or occupations, which shall be, at the secondary level, aligned with the challenging State academic standards adopted by a State under section 6311(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(ii) provides technical skill proficiency or a recognized postsecondary credential, which may include an industry-recognizedcredential, a certificate, or an associate degree; and
+&emsp;&emsp;&emsp;(ii) provides technical skill proficiency or a recognized postsecondary credential, which may include an industry-recognized credential, a certificate, or an associate degree; and
 
 &emsp;&emsp;&emsp;(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph;
 
@@ -204,7 +204,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(A) a secondary school student who is an English learner, as defined in section 7801 of this title; or
 
-&emsp;&emsp;(B) an adult or an out-of-school youth who has limited ability in speaking, reading, writing, or understanding the English language and—
+&emsp;&emsp;(B) an adult or an out-of-school youth who has limited ability in speaking, reading,writing, or understanding the English language and—
 
 &emsp;&emsp;&emsp;(i) whose native language is a language other than English; or
 
@@ -302,7 +302,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) an annual, publicly available report on the progress of the initiative; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that the entity may make payments to the third party conducting the evaluation described in subclause (II).
+&emsp;&emsp;&emsp;&emsp;(IV) a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that the entity maymake payments to the third party conducting the evaluation described in subclause (II).
 
 #### (B) Exclusion
 
@@ -476,7 +476,7 @@ Unless otherwise specified, in this chapter:
 
 #### (53) Tribal organization
 
-&emsp;The term "Tribal organization" has the meaning given the term "tribal organization" in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+&emsp;The term "Tribal organization" has the meaning given the term "tribal organization"in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 
 #### (54) Universal design for learning
 

@@ -64,7 +64,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall establish key performance indicators to measure and monitor progress of education and workforce programs and expand Departmental activities for data collection and analysis.
+&emsp;The Secretary shall establish key performance indicators to measure and monitorprogress of education and workforce programs and expand Departmental activities for data collection and analysis.
 
 #### (2) Report
 

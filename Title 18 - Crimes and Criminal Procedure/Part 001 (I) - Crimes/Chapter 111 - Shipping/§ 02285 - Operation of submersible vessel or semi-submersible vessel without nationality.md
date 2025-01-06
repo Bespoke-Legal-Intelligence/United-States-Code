@@ -28,7 +28,7 @@ Affirmative Defenses.—
 
 &emsp;(1)
 
-In general.—It is an affirmative defense to a prosecution for a violation of subsection (a), which the defendant has the burden to prove by a preponderance of the evidence, that the submersible vessel or semi-submersible vessel involved was, at the time of the offense—
+In general.—It is an affirmative defense to a prosecution for a violation of subsection\(a), which the defendant has the burden to prove by a preponderance of the evidence, that the submersible vessel or semi-submersible vessel involved was, at the time of the offense—
 
 &emsp;&emsp;(A) a vessel of the United States or lawfully registered in a foreign nation as claimed by the master or individual in charge of the vessel when requested to make a claim by an officer of the United States authorized to enforce applicable provisions of United States law;
 

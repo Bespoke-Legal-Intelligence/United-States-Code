@@ -44,7 +44,7 @@ The Agreement shall—
 
 &emsp;&emsp;&emsp;(ii) the Portfolio Manager database of the Environmental Protection Agency; and
 
-&emsp;(4) consider whether, and the methods by which, the Administrator may collect andpublish new iterations of Survey data every 3 years—
+&emsp;(4) consider whether, and the methods by which, the Administrator may collect and publish new iterations of Survey data every 3 years—
 
 &emsp;&emsp;(A) using the Survey processes of the Administrator; or
 

@@ -46,7 +46,33 @@ Participants.—A person referred to in paragraph (1) is an official or agent of
 
 &emsp;&emsp;(B) who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(65), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 105–135, title VI, §604(h)(2), Dec. 2, 1997, 111 Stat. 2635; Pub. L. 112–95, title I, §140(b), Feb. 14, 2012, 126 Stat. 27; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(ii), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–254, div. B, title I, §150, title V, §539(o), Oct. 5, 2018, 132 Stat. 3215, 3371.)
+(f)
+
+Supportive Services.—
+
+&emsp;(1)
+
+In general.—The Secretary, in coordination with the Administrator of the Federal Aviation Administration, may, at the request of an airport sponsor, provide assistance under a grant issued under this subchapter to develop, conduct, and administer training programs and assistance programs in connection with any airport improvement project subject to part 26 of title 49, Code of Federal Regulations, for small business concerns referred to in subsection (b) to achieve proficiency to compete, on an equal basis for contracts and subcontracts related to such projects.
+
+&emsp;(2)
+
+Eligible entities.—An entity eligible to receive assistance under this section is—
+
+&emsp;&emsp;(A) a State;
+
+&emsp;&emsp;(B) a political subdivision of a State or local government;
+
+&emsp;&emsp;(C) a Tribal government;
+
+&emsp;&emsp;(D) an airport sponsor;
+
+&emsp;&emsp;(E) a metropolitan planning organization;
+
+&emsp;&emsp;(F) a group of entities described in subparagraphs (A) through (E); or
+
+&emsp;&emsp;(G) any other organization considered appropriate by the Secretary.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(65), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 105–135, title VI, §604(h)(2), Dec. 2, 1997, 111 Stat. 2635; Pub. L. 112–95, title I, §140(b), Feb. 14, 2012, 126 Stat. 27; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(ii), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–254, div. B, title I, §150, title V, §539(o), Oct. 5, 2018, 132 Stat. 3215, 3371; Pub. L. 118–63, title VII, §730(b), May 16, 2024, 138 Stat. 1272.)
 
 Historical and Revision Notes
 
@@ -98,6 +124,8 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 #### Amendments
 
+<b>2024</b>—Subsec. (f). Pub. L. 118–63 added subsec. (f).
+
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §150, amended par. (1) generally. Prior to amendment, par. (1) read as follows: " 'small business concern'—
 
 &emsp;"(A) has the same meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632); but
@@ -132,7 +160,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Disadvantaged Business Enterprise Program
 
-Pub. L. 115–254, div. B, title I, §157, Oct. 5, 2018, 132 Stat. 3218, provided that:
+Pub. L. 115–254, div. B, title I, §157, Oct. 5, 2018, 132 Stat. 3218, as amended by Pub. L. 118–63, title VII, §751, May 16, 2024, 138 Stat. 1284, provided that:
 
 "(a)
 
@@ -144,7 +172,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(3) This testimony and documentation demonstrates that discrimination across the Nation poses a barrier to full and fair participation in airport-related businesses of women business owners and minority business owners in the racial groups detailed in parts 23 and 26 of title 49, Code of Federal Regulations, and has impacted firm development and many aspects of airport-related business in the public and private markets.
 
-&emsp;"(4) This testimony and documentation provides a strong basis that there is a compelling need for the continuation of the airport disadvantaged business enterprise program and the airport concessions disadvantaged business enterprise program to address race and gender discrimination in airport-related business.
+&emsp;"(4) This testimony and documentation provides a strong basis that there is a compelling need for the continuation of the airport disadvantaged business enterprise \["DBE"\] program and the airport concessions disadvantaged business enterprise \["ACDBE"\] program to address race and gender discrimination in airport-related business.
 
 "(b)
 
@@ -185,6 +213,10 @@ Contents of assessment.—In carrying out subparagraph (A), the Administrator sh
 &emsp;&emsp;"(C)
 
 Reporting.—The Administrator shall make available to the public on an appropriate website operated by the Administrator a report describing the results of the assessment completed under this paragraph, including a plan to respond to such results.
+
+&emsp;&emsp;"(D)
+
+Publishing data.—The Secretary of Transportation shall report on a publicly accessible website the uniform report of DBE awards/commitments and payments specified in part 26 of title 49, Code of Federal Regulations, and the uniform report of ACDBE Participation for non-car rental and car rental concessions, for each airport sponsor beginning with fiscal year 2025.
 
 &emsp;"(3)
 

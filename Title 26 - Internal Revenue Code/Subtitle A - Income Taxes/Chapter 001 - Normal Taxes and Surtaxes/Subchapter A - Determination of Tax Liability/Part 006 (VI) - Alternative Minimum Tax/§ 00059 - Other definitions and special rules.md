@@ -174,7 +174,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the corporation meets the requirements of clause (i) for such taxable year\(determined after the application of paragraph (2)), and
+&emsp;&emsp;&emsp;&emsp;(I) the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and
 
 &emsp;&emsp;&emsp;&emsp;(II) the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more.
 
@@ -194,7 +194,7 @@ For purposes of this part—
 
 #### (D) Special rules for determining applicable corporation status
 
-&emsp;&emsp;Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).
+&emsp;&emsp;Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as asingle employer with such corporation under subsection (a) or (b) of section 52 shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).
 
 #### (E) Other special rules
 
@@ -352,7 +352,7 @@ Exception.—Subparagraph (A) shall not apply to any domestic corporation if—
 
 Subsec. (a)(3). Pub. L. 105–34, §1103(a), added par. (3) relating to election to use simplified section 904 limitation.
 
-Subsec. (j). Pub. L. 105–34, §1201(b)(1), amended subsec. (j) generally, restating limitation on exemption amount, adding provisions for inflation adjustment of such amount, and deleting provisions relating to limitation based on parental minimum tax and unused parental minimum tax exemption.
+Subsec. (j). Pub. L. 105–34, §1201(b)(1), amended subsec. (j) generally, restating limitation on exemption amount, adding provisions for inflation adjustment ofsuch amount, and deleting provisions relating to limitation based on parental minimum tax and unused parental minimum tax exemption.
 
 <b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–188, §1703(e)(1), substituted "the pre-credit tentative minimum tax" for "the amount determined under section 55(b)(1)(A)".
 
@@ -420,7 +420,7 @@ Amendment by section 10101(a)(2), (c) of Pub. L. 117–169 applicable to taxable
 
 Amendment by section 11002(d)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 12001(b)(3)(C), (10) of Pub. L. 115–97 applicable to taxable years beginning after Dec.31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 12001(b)(3)(C), (10) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -498,7 +498,7 @@ For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 b
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 
-Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amountof the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid or accrued in a taxable year beginning on or before December 31, 1986."
+Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amount of the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid or accrued in a taxable year beginning on or before December 31, 1986."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

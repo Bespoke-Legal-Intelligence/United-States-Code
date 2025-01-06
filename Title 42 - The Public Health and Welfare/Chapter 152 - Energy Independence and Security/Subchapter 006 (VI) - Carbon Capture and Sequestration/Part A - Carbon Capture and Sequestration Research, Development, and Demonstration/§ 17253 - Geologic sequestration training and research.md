@@ -26,7 +26,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a competitive grant program through which colleges and universities may apply for and receive 4-year grants for—
+&emsp;The Secretary shall establish a competitive grant program through which colleges anduniversities may apply for and receive 4-year grants for—
 
 &emsp;&emsp;(A) salary and startup costs for newly designated faculty positions in an integrated geologic carbon sequestration science program; and
 

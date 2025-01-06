@@ -34,7 +34,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a)(1), is act Aug. 
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–141 struck out "(to the extent not previously taken into account under section 72(d)(1))" after "contributions".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a returnand references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

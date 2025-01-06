@@ -8,7 +8,7 @@
 
 &emsp;(2) the term "technology" refers to any form of computer hardware and software; computer-based systems, services, and support for the creation, processing, exchange, and delivery of information; and telecommunications systems, and the associated hardware and software, that provide for voice, data, or image communication.
 
-(Pub. L. 104–197, title III, §314, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 104–197, title III, §314, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 108–271, §8(b), July 7, 2004, 118Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### <b>Editorial Notes</b>
 

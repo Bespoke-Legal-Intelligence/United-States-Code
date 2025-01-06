@@ -14,7 +14,7 @@ When a person fails to obey a subpena issued under this section, the district co
 
 #### (d) Witness fees
 
-A witness complying with a subpena issued under this section may be paid for actual traveland attendance at the rate provided for witnesses in the district courts of the United States.
+A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
 
 (Pub. L. 100–688, title IV, §4106, Nov. 18, 1988, 102 Stat. 4157.)
 

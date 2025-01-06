@@ -184,7 +184,7 @@ Effect of ruling.—An interlocutory appeal and decision shall not affect the ri
 
 &emsp;(6)
 
-Construction.—Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United States to protect against the disclosure of classified information, including the invocation of the military and State secrets privilege.
+Construction.—Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United Statesto protect against the disclosure of classified information, including the invocation of the military and State secrets privilege.
 
 (g)
 
@@ -280,5 +280,5 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting thissection and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities."
+Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities."
 

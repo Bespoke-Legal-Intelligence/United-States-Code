@@ -54,5 +54,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Short Title of 1977 Amendment
 
-For short title of Pub. L. 95–62 as the "State Veterans' Home Assistance Improvement Act of 1977", see section 1 of Pub. L. 95–62, set out as a Short Title of 1977 Amendment note under section 101 of this title.
+For short title of Pub. L. 95–62 as the "State Veterans' Home Assistance Improvement Act of 1977", seesection 1 of Pub. L. 95–62, set out as a Short Title of 1977 Amendment note under section 101 of this title.
 

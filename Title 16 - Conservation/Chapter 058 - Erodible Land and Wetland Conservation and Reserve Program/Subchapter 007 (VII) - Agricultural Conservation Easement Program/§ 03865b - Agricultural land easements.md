@@ -74,7 +74,7 @@ The Secretary shall facilitate and provide funding for—
 
 #### (D) Priority
 
-&emsp;&emsp;In evaluating applications under the program, the Secretary may give priority to anapplication for the purchase of an agricultural land easement that, as determined by the Secretary, maintains agricultural viability.
+&emsp;&emsp;In evaluating applications under the program, the Secretary may give priority to an application for the purchase of an agricultural land easement that, as determined by the Secretary, maintains agricultural viability.
 
 #### (E) Bidding down
 
@@ -206,7 +206,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;&emsp;(I) acquired not fewer than 10 agricultural land easements under the program or any predecessor program; and
 
-&emsp;&emsp;&emsp;&emsp;(II) successfully met the responsibilities of the eligible entity under the applicable agreements with the Secretary, as determined by the Secretary, relating to agricultural land easements that the eligible entity has acquired under the program or any predecessor program.
+&emsp;&emsp;&emsp;&emsp;(II) successfully met the responsibilities of the eligible entity under the applicable agreements with the Secretary, as determined by the Secretary, relatingto agricultural land easements that the eligible entity has acquired under the program or any predecessor program.
 
 #### (C) Review and revision
 
@@ -260,7 +260,7 @@ Subsec. (b)(4)(C)(iii), (iv). Pub. L. 115–334, §2603(b)(3)(A), added cls. (ii
 
 &emsp;"(II) requires the management of grasslands according to a grasslands management plan; and
 
-&emsp;"(III) includes a conservation plan, where appropriate, and requires, at the option of the Secretary,the conversion of highly erodible cropland to less intensive uses; and".
+&emsp;"(III) includes a conservation plan, where appropriate, and requires, at the option of the Secretary, the conversion of highly erodible cropland to less intensive uses; and".
 
 Subsec. (b)(4)(D) to (F). Pub. L. 115–334, §2603(b)(3)(B), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 

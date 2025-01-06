@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(iii) for any person acting on behalf of the sender to assist in initiating the transmission to the recipient, through the provision or selection of addresses to which the message will be sent, of a commercial electronic mail message with actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that such message would violate clause (i) or (ii); or
 
-&emsp;&emsp;&emsp;(iv) for the sender, or any other person who knows that the recipient has madesuch a request, to sell, lease, exchange, or otherwise transfer or release the electronic mail address of the recipient (including through any transaction or other transfer involving mailing lists bearing the electronic mail address of the recipient) for any purpose other than compliance with this chapter or other provision of law.
+&emsp;&emsp;&emsp;(iv) for the sender, or any other person who knows that the recipient has made such a request, to sell, lease, exchange, or otherwise transfer or release the electronic mail address of the recipient (including through any transaction or other transfer involving mailing lists bearing the electronic mail address of the recipient) for any purpose other than compliance with this chapter or other provision of law.
 
 #### (B) Subsequent affirmative consent
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message that is unlawful under subsection (a), or to assist in the origination of such message through the provision or selection of addresses to which the message will be transmitted, if such person had actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that—
 
-&emsp;&emsp;&emsp;(i) the electronic mail address of the recipient was obtained using an automated means from an Internet website or proprietary online service operated by another person, and such website or online service included, at the time the address was obtained, a notice stating that the operator of such website or online service will not give, sell, or otherwise transfer addresses maintained by such website or online service to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages; or
+&emsp;&emsp;&emsp;(i) the electronic mail address of the recipient was obtained using an automated means from an Internet website or proprietary online service operated by another person, and such website or online serviceincluded, at the time the address was obtained, a notice stating that the operator of such website or online service will not give, sell, or otherwise transfer addresses maintained by such website or online service to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages; or
 
 &emsp;&emsp;&emsp;(ii) the electronic mail address of the recipient was obtained using an automated means that generates possible electronic mail addresses by combining names, letters, or numbers into numerous permutations.
 
@@ -112,7 +112,7 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 &emsp;No person may initiate in or affecting interstate commerce the transmission, to a protected computer, of any commercial electronic mail message that includes sexually oriented material and—
 
-&emsp;&emsp;(A) fail to include in subject heading for the electronic mail message the marks ornotices prescribed by the Commission under this subsection; or
+&emsp;&emsp;(A) fail to include in subject heading for the electronic mail message the marks or notices prescribed by the Commission under this subsection; or
 
 &emsp;&emsp;(B) fail to provide that the matter in the message that is initially viewable to the recipient, when the message is opened by any recipient and absent any further actions by the recipient, includes only—
 

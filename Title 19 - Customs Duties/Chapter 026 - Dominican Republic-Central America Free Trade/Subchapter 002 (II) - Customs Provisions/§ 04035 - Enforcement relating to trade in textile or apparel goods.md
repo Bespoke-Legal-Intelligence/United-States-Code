@@ -80,5 +80,5 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 #### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (5) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under this section to suspend or deny preferential tariff treatment to textile or apparelgoods; to detain textile or apparel goods; and to deny entry to textile or apparel goods.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (5) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under this section to suspend or deny preferential tariff treatment to textile or apparel goods; to detain textile or apparel goods; and to deny entry to textile or apparel goods.
 

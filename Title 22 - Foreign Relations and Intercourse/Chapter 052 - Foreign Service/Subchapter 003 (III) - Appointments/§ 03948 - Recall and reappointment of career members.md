@@ -2,7 +2,7 @@
 
 #### (a) Retired career members
 
-Whenever the Secretary determines that the needs of the Service so require, the Secretary may recall any retired career member of the Service for active duty in the same personnel category as that member was serving at the time of retirement. A retired career member may be recalled under this section to any appropriate salary class or rate, except that a retired career member of the Senior Foreign Service may not be recalled to a salary class higher than the one in which the member was serving at the time of retirement unless appointed to such higher class by the President, by and with the advice and consent of the Senate.
+Whenever the Secretary determines that the needs of the Service so require, the Secretary may recall any retired career member of theService for active duty in the same personnel category as that member was serving at the time of retirement. A retired career member may be recalled under this section to any appropriate salary class or rate, except that a retired career member of the Senior Foreign Service may not be recalled to a salary class higher than the one in which the member was serving at the time of retirement unless appointed to such higher class by the President, by and with the advice and consent of the Senate.
 
 #### (b) Former career members
 
@@ -14,25 +14,27 @@ Former career members of the Service may be reappointed under section 3942(a)(1)
 
 #### USAID Overseas Program
 
-Pub. L. 117–328, div. K, title VII, §7065(a)–(d), Dec. 29, 2022, 136 Stat. 5086, provided that:
+Pub. L. 118–47, div. F, title VII, §7065(a)–(d), Mar. 23, 2024, 138 Stat. 846, provided that:
 
 "(a)
 
-Authority.—Up to $170,000,000 of the funds made available in title III of this Act \[title III of div. K of Pub. L. 117–328, 136 Stat. 4985\] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading 'Assistance for Europe, Eurasia and Central Asia', may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 (22 U.S.C. 3948 and 3949).
+Authority.—Up to $170,000,000 of the funds made available in title III of this Act \[title III of div. F of Pub. L. 118–47, 138 Stat. 740\] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading 'Assistance for Europe, Eurasia and Central Asia', may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 (22 U.S.C. 3948 and 3949).
 
 "(b)
 
-Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2024.
+Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2025.
 
 "(c)
 
-Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: <i>Provided</i>, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. K of Pub. L. 117–328, 136 Stat. 4984\] under the heading 'Operating Expenses'.
+Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: <i>Provided</i>, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. F of Pub. L. 118–47, 138 Stat. 739\] under the heading 'Operating Expenses'.
 
 "(d)
 
-Foreign Service Limited Extensions.—Individuals hired and employed by USAID \[United StatesAgency for International Development\], with funds made available in this Act \[div. K of Pub. L. 117–328, 136 Stat. 4974\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 (22 U.S.C. 3949), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section."
+Foreign Service Limited Extensions.—Individuals hired and employed by USAID \[United States Agency for International Development\], with funds made available in this Act \[div. F of Pub. L. 118–47, 138 Stat. 729\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 (22 U.S.C. 3949), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, §7065(a)–(d), Dec. 29, 2022, 136 Stat. 5086.
 
 Pub. L. 117–103, div. K, title VII, §7065(a)–(d), Mar. 15, 2022, 136 Stat. 678.
 

@@ -64,11 +64,11 @@ Payment of Bonus Amounts.—(1) Payment to a National Call to Service participan
 
 Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph (B), a National Call to Service participant who elects an incentive under paragraph (3) or (4) of subsection (e) is not entitled to additional educational assistance under chapter 1606 of this title or to basic educational assistance under subchapter II of chapter 30 of title 38.
 
-(B) If a National Call to Service participant meets all eligibility requirements specified inchapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
+(B) If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
 
 (2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
-(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II <sup>1</sup> of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
+(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters II and III of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
 (3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
@@ -100,13 +100,11 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Secretary of a military department" includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, §618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–31, div. A, title XVII, §1717(b)(5), Dec. 22, 2023, 137 Stat. 655.)
+(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, §618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 118–31, div. A, title XVII, §1717(b)(5), Dec. 22, 2023, 137 Stat. 655; Pub. L. 118–159, div. A, title XVII, §1701(a)(11), Dec. 23, 2024, 138 Stat. 2203.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-Subchapters I and II of chapter 36 of title 38, referred to in subsec. (h)(2)(B), were redesignated subchapters II (§3670 et seq.) and III (§3680 et seq.), respectively, of chapter 36 of title 38 by Pub. L. 117–333, §2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
 
 The National and Community Service Act of 1990, referred to in subsec. (l)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -115,6 +113,8 @@ The National and Community Service Act of 1990, referred to in subsec. (l)(1), i
 A prior section 510 was renumbered section 12102 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (h)(2)(B). Pub. L. 118–159 substituted "subchapters II and III" for "subchapters I and II".
 
 <b>2023</b>—Subsec. (c)(2). Pub. L. 118–31, §1717(b)(5)(A), inserted "or the Space Force" after "Selected Reserve".
 
@@ -161,6 +161,4 @@ Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, dire
 #### Effectiveness Reports
 
 Pub. L. 107–314, div. A, title V, §531(e), Dec. 2, 2002, 116 Stat. 2545, directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives, no later than Mar. 31, 2005, and Mar. 31, 2007, reports on the effectiveness of the program under this section in attracting new recruits to national service.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

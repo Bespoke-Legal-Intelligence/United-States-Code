@@ -8,7 +8,7 @@
 
 &emsp;(C) The United Nations Organization or any regional international organization.
 
-&emsp;(D) The government of a country not a member of the North Atlantic Treaty Organization but which is designated by the Secretary of Defense, subject to the limitations prescribed in subsection (b), as a government with which the Secretary may enter into agreements under this section.
+&emsp;(D) The government of a country not a member of the North Atlantic Treaty Organization but which is designated by the Secretary of Defense, subject to the limitations prescribed in subsection (b), as a government with whichthe Secretary may enter into agreements under this section.
 
 (2) An agreement referred to in paragraph (1) is an agreement under which the United States agrees to provide logistic support, supplies, and services to military forces of a country or organization referred to in paragraph (1) in return for the reciprocal provisions of logistic support, supplies, and services by such government or organization to elements of the armed forces.
 
@@ -112,7 +112,7 @@ Subsec. (h)(3). Pub. L. 116–92, §1203(d)(3), amended par. (3) generally. Prio
 
 Subsec. (h)(4). Pub. L. 116–92, §1203(d)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The total dollar amount and major categories of reciprocal provisions of logistic support, supplies, and services received under each such agreement."
 
-Subsec. (h)(5), (6). Pub. L. 116–92, §1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) whichread as follows: "With respect to the calendar year during which the report is submitted, an assessment of the following:
+Subsec. (h)(5), (6). Pub. L. 116–92, §1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) which read as follows: "With respect to the calendar year during which the report is submitted, an assessment of the following:
 
 &emsp;"(A) The anticipated logistic support, supplies, and services requirements of the United States.
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 103–337, §1317(b)(3), substituted "or international orga
 
 <b>1987</b>—Pub. L. 100–180 substituted "Cross-servicing" for "Cross servicing" in section catchline.
 
-<b>1986</b>—Pub. L. 99–661 amended section generally, restating existing provisions in introductory text and par. (1) of subsec. (a), adding pars. (2) and (3) of subsec. (a), and adding subsecs. (b) to (d).
+<b>1986</b>—Pub. L. 99–661 amended section generally, restating existing provisions in introductory text andpar. (1) of subsec. (a), adding pars. (2) and (3) of subsec. (a), and adding subsecs. (b) to (d).
 
 <b>1985</b>—Pub. L. 99–145 renumbered section 2322 of this title as this section and substituted "section 2343" for "section 2323".
 

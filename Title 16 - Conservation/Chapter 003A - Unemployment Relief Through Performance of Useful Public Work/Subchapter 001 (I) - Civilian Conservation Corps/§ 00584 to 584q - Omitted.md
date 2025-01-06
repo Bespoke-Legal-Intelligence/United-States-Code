@@ -96,7 +96,7 @@ Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, ti
 
 #### Transfer of Functions
 
-Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set outin the Appendix to Title 5, Government Organization and Employees.
+Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Cooperation of Department Heads Authorized
 

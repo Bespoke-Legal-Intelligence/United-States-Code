@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 90 days after the date of receipt of a complete application for a waterstorage project, the District Engineer shall develop and provide to the applicant a purpose and need statement that describes—
+&emsp;Not later than 90 days after the date of receipt of a complete application for a water storage project, the District Engineer shall develop and provide to the applicant a purpose and need statement that describes—
 
 &emsp;&emsp;(A) whether the District Engineer concurs with the assessment of the purpose of and need for the water storage project proposed by the applicant; and
 

@@ -1922,7 +1922,7 @@ Act June 27, 1952, ch. 477, title IV, §404, 66 Stat. 280, as amended by Pub. L.
 
 #### Benefits for Certain Citizens or Nationals of Ukraine
 
-Pub. L. 117–128, title IV, §401, May 21, 2022, 136 Stat. 1218, provided that:
+Pub. L. 117–128, title IV, §401, May 21, 2022, 136 Stat. 1218, as amended by Pub. L. 118–50, div. B, title III, §301, Apr. 24, 2024, 138 Stat. 913, provided that:
 
 "(a)
 
@@ -1930,7 +1930,7 @@ In General.—Notwithstanding any other provision of law, a citizen or national 
 
 &emsp;"(1) such individual completed security and law enforcement background checks to the satisfaction of the Secretary of Homeland Security and was subsequently—
 
-&emsp;&emsp;"(A) paroled into the United States between February 24, 2022 and September 30, 2023; or
+&emsp;&emsp;"(A) paroled into the United States between February 24, 2022 and September 30, 2024; or
 
 &emsp;&emsp;"(B) paroled into the United States after September 30, 2023 and—
 
@@ -2080,9 +2080,11 @@ Emergency Requirement.—The amount provided by this section is designated by th
 
 #### Availability of Funds
 
-Pub. L. 117–328, div. O, title III, §302, Dec. 29, 2022, 136 Stat. 5227, provided that: "Subclauses (II) and (III) of section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."
+Pub. L. 118–47, div. G, title I, §104, Mar. 23, 2024, 138 Stat. 856, provided that: "Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) shall be applied by substituting 'September 30, 2024' for 'September 30, 2015' each place such date appears."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. O, title III, §302, Dec. 29, 2022, 136 Stat. 5227.
 
 Pub. L. 117–103, div. O, title II, §202, Mar. 15, 2022, 136 Stat. 787.
 
@@ -2138,7 +2140,7 @@ Pub. L. 111–230, title IV, §402, Aug. 13, 2010, 124 Stat. 2487, as amended by
 
 #### Afghan Allies Protection
 
-Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649; Pub. L. 115–232, div. A, title XII, §1222, Aug. 13, 2018, 132 Stat. 2028; Pub. L. 116–6, div. F, title VII, §7076(a), Feb. 15, 2019, 133 Stat. 391; Pub. L. 116–92, div. A, title XII, §1219, Dec. 20, 2019, 133 Stat. 1636; Pub. L. 116–94, div. G, title VII, §7034(l)(11), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, §7034(l)(11), Dec. 27, 2020, 134 Stat. 1750; Pub. L. 116–283, div. A, title XII, §1212, Jan. 1, 2021, 134 Stat. 3919; Pub. L. 117–31, title IV, §§401(a), 403(b), July 30, 2021, 135 Stat. 315, 318; Pub. L. 117–328, div. K, title VII, §7034(d)(9), Dec. 29, 2022, 136 Stat. 5031, provided that:
+Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649; Pub. L. 115–232, div. A, title XII, §1222, Aug. 13, 2018, 132 Stat. 2028; Pub. L. 116–6, div. F, title VII, §7076(a), Feb. 15, 2019, 133 Stat. 391; Pub. L. 116–92, div. A, title XII, §1219, Dec. 20, 2019, 133 Stat. 1636; Pub. L. 116–94, div. G, title VII, §7034(l)(11), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, §7034(l)(11), Dec. 27, 2020, 134 Stat. 1750; Pub. L. 116–283, div. A, title XII, §1212, Jan. 1, 2021, 134 Stat. 3919; Pub. L. 117–31, title IV, §§401(a), 403(b), July 30, 2021, 135 Stat. 315, 318; Pub. L. 117–328, div. K, title VII, §7034(d)(9), Dec. 29, 2022, 136 Stat. 5031; Pub. L. 118–47, div. F, title VII, §7034(d)(9), Mar. 23, 2024, 138 Stat. 789, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
@@ -2298,7 +2300,7 @@ Fiscal year 2014.—If the numerical limitation determined under clause (i) is n
 
 &emsp;&emsp;"(D)
 
-Additional fiscal year.—For fiscal year 2014, the total number of principal aliens who may be provided special immigrant status under this section may not exceed 3,000, except that any unused balance of the total number of principal aliens who may be provided special immigrant status in fiscal year 2014 may be carried forward and provided through the end of fiscal year 2015, notwithstanding the provisions of paragraph (C), except that the one year period during which an alien must have been employed in accordance with subsection (b)(2)(A)(ii) shall be the period from October 7, 2001 through December 31, 2014, and except that the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(2)(D) no later than September 30, 2014.
+Additional fiscal year.—For fiscal year 2014, the total number of principal aliens who may be provided special immigrant status under this section may not exceed 3,000, except that any unused balance of the total number of principal aliens who may be provided special immigrant status in fiscal year 2014 may be carried forward and provided through the end of fiscal year 2015, notwithstanding the provisions of paragraph (C), except that the one year period during which an alien must have been employed in accordance with subsection (b)(2)(A)(ii) shall be the period from October 7, 2001 through December 31, 2014, and except that the principal alienseeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(2)(D) no later than September 30, 2014.
 
 &emsp;&emsp;"(E)
 
@@ -2320,11 +2322,11 @@ Construction.—Clause (i) shall not be construed to affect the authority, numer
 
 &emsp;&emsp;"(F)
 
-Fiscal years 2015 through 2023.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted, the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 38,500. For purposes of status provided under this subparagraph—
+Fiscal years 2015 through 2024.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted, the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 50,500. For purposes of status provided under this subparagraph—
 
 &emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2024;
 
-&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2024; and
+&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2025; and
 
 &emsp;&emsp;&emsp;"(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on the date such visas are exhausted.
 
@@ -2404,7 +2406,7 @@ Report on improvements.—
 
 &emsp;&emsp;"(A)
 
-Requirement for report.—Not later than 120 days after the date of the enactment of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Aug. 13, 2018\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shallsubmit to the appropriate committees of Congress a report, with a classified annex, if necessary.
+Requirement for report.—Not later than 120 days after the date of the enactment of the JohnS. McCain National Defense Authorization Act for Fiscal Year 2019 \[Aug. 13, 2018\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report, with a classified annex, if necessary.
 
 &emsp;&emsp;"(B)
 
@@ -2444,7 +2446,7 @@ Public quarterly reports.—Not later than 120 days after the date of the enactm
 
 &emsp;"(13)
 
-Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2024, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the appropriate committees of Congress containing the following information:
+Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2026, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the appropriate committees of Congress containing the following information:
 
 &emsp;&emsp;"(A) The occupations of aliens who—
 
@@ -2590,7 +2592,7 @@ Application of Immigration and Nationality Act Provisions.—The definitions in 
 
 \[Pub. L. 112–227, §1(b), Dec. 28, 2012, 126 Stat. 1609, provided that: "The amendment made by subsection (a) \[amending section 1059(e) of Pub. L. 109–163, set out above\] shall take effect as if included in the enactment of section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] (8 U.S.C. 1101 note)."\]
 
-\[Pub. L. 110–28 and Pub. L. 110–36 made identical amendments to section 1059 of Pub. L. 109–163, set out above, except for the redesignation of subsec. (d) and addition of subsec. (e). Amendments by Pub. L. 110–36 were executed in lieu of the amendments by Pub. L. 110–28, to reflect the probable intent of Congress.\]
+\[Pub. L. 110–28 and Pub. L. 110–36 made identical amendments to section 1059 of Pub. L. 109–163, set outabove, except for the redesignation of subsec. (d) and addition of subsec. (e). Amendments by Pub. L. 110–36 were executed in lieu of the amendments by Pub. L. 110–28, to reflect the probable intent of Congress.\]
 
 #### Battered Immigrant Women; Findings and Purposes
 
@@ -2674,7 +2676,7 @@ Failure To Give Notice.—Nothing in this section shall be construed to require 
 
 #### Report on Aliens Granted Refugee Status or Asylum Due to Persecution for Resistance to Coercive Population Control Methods
 
-Pub. L. 104–208, div. C, title VI, §601(a)(2), Sept. 30, 1996, 110 Stat. 3009–689, provided that: "Not later than 90 days after the end of each fiscal year, the AttorneyGeneral shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate describing the number and countries of origin of aliens granted refugee status or asylum under determinations pursuant to the amendment made by paragraph (1) \[amending this section\]. Each such report shall also contain projections regarding the number and countries of origin of aliens that are likely to be granted refugee status or asylum for the subsequent 2 fiscal years."
+Pub. L. 104–208, div. C, title VI, §601(a)(2), Sept. 30, 1996, 110 Stat. 3009–689, provided that: "Not later than 90days after the end of each fiscal year, the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate describing the number and countries of origin of aliens granted refugee status or asylum under determinations pursuant to the amendment made by paragraph (1) \[amending this section\]. Each such report shall also contain projections regarding the number and countries of origin of aliens that are likely to be granted refugee status or asylum for the subsequent 2 fiscal years."
 
 #### Sense of Congress Regarding American-Made Products; Requirements for Notice
 

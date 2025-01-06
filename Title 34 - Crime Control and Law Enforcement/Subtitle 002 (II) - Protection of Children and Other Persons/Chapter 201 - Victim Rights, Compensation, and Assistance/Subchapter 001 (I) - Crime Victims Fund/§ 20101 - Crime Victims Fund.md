@@ -66,7 +66,7 @@ The Fund shall be available as follows:
 
 &emsp;&emsp;(ii) a Victim Notification System.
 
-&emsp;(B) Amounts made available under subparagraph (A) may not be used for any purpose that is not specified in clause (i) or (ii) of subparagraph (A).
+&emsp;(B) Amounts made available under subparagraph (A) may not be used for any purposethat is not specified in clause (i) or (ii) of subparagraph (A).
 
 &emsp;(4) Of the remaining amount to be distributed from the Fund in a particular fiscal year—
 
@@ -88,7 +88,7 @@ The Fund shall be available as follows:
 
 #### (e) Amounts awarded and unspent
 
-Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available fordeposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
+Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
 
 #### (f) "Offenses against the United States" as excluding
 
@@ -112,7 +112,7 @@ As used in this section, the term "offenses against the United States" does not 
 
 (3) As used in this subsection, the term "tribe" <sup>2</sup> has the meaning given that term in section 5304(b) <sup>1</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, §3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, §113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, §2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, §5(b), Dec. 7, 2018, 132 Stat. 4387; Pub. L. 117–27, §2(a), July 22, 2021, 135 Stat. 301.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120Stat. 3200; Pub. L. 113–163, §3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, §113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, §2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, §5(b), Dec. 7, 2018, 132 Stat. 4387; Pub. L. 117–27, §2(a), July 22, 2021, 135 Stat. 301.)
 
 #### <b>Editorial Notes</b>
 
@@ -224,7 +224,7 @@ Pub. L. 104–132, §232(c)(1)(B), reenacted heading without change and amended 
 
 Subsec. (d)(3). Pub. L. 103–322, §330025(a), which directed amendment of par. (3) by substituting "section 10603a" for "section 10603(a)" was executed to subpar. (B).
 
-Pub. L. 103–322, §230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: "The next$5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title."
+Pub. L. 103–322, §230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: "The next $5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title."
 
 Subsec. (d)(4). Pub. L. 103–322, §230201(a)(3), added par. (4) and struck out former par. (4) which read as follows: "The next $4,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603(a) of this title."
 
@@ -350,9 +350,11 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 117–328, div. B, title V, §510, Dec. 29, 2022, 136 Stat. 4556, provided in part that: "Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (34 U.S.C. 20101) in any fiscal year in excess of $1,900,000,000 shall not be available for obligation until the following fiscal year".
+Pub. L. 118–42, div. C, title V, §510, Mar. 9, 2024, 138 Stat. 168, provided that: "Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (34 U.S.C. 20101) in any fiscal year in excess of $1,353,000,000 shall not be available for obligation until the following fiscal year".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. B, title V, §510, Dec. 29, 2022, 136 Stat. 4556.
 
 Pub. L. 117–103, div. B, title V, §510, Mar. 15, 2022, 136 Stat. 145.
 

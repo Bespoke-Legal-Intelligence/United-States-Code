@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior, acting through the Commissioner of Reclamation, may use the funds described in subsection (e)(2) to administer and provide financial assistance to carry out this subsection to provide water and assistance to a terminal lake described in subsection (a)(3)(B) through willing sellers or willing participants only—
+&emsp;The Secretary of the Interior, acting through the Commissioner of Reclamation, may use the funds described in subsection (e)(2) to administer and provide financial assistance to carry out this subsection to provide water and assistance to a terminal lakedescribed in subsection (a)(3)(B) through willing sellers or willing participants only—
 
 &emsp;&emsp;(A) to lease water;
 
@@ -160,7 +160,7 @@ The Secretary shall—
 
 The authority provided by this section shall terminate on October 1, 2025.
 
-(Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II,§2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, §2821(d), Dec. 20, 2018, 132 Stat. 4603; Pub. L. 117–361, §1, Jan. 5, 2023, 136 Stat. 6294.)
+(Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, §2821(d), Dec. 20, 2018, 132 Stat. 4603; Pub. L. 117–361, §1, Jan. 5, 2023, 136 Stat. 6294.)
 
 #### <b>Editorial Notes</b>
 

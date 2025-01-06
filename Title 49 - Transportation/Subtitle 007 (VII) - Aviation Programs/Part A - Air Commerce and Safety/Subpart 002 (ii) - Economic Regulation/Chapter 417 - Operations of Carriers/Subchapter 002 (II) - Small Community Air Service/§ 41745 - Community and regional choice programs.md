@@ -10,7 +10,7 @@ Establishment.—The Secretary of Transportation shall establish an alternate es
 
 &emsp;(2)
 
-Assistance to eligible places.—In carrying out the program, the Secretary, instead of paying compensation to an air carrier to provide essential air service to an eligible place, may provide assistance directly to a unit of local government having jurisdictionover the eligible place or a State within the boundaries of which the eligible place is located.
+Assistance to eligible places.—In carrying out the program, the Secretary, instead of paying compensation to an air carrier to provide essential air service to an eligible place, may provide assistance directly to a unit of local government having jurisdiction over the eligible place or a State within the boundaries of which the eligible place is located.
 
 &emsp;(3)
 
@@ -24,37 +24,9 @@ Use of assistance.—A unit of local government or State receiving assistance fo
 
 &emsp;&emsp;(D) In combination with other units of local government in the same region, to provide transportation services to and from all the eligible places in that region at an airport or other transportation center that can serve all the eligible places in that region.
 
-&emsp;&emsp;(E) To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft to provide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership.
-
-&emsp;&emsp;(F) To pay for other transportation or related services that the Secretary may permit.
+&emsp;&emsp;(E) To pay for other transportation or related services that the Secretary may permit.
 
 (b)
-
-Community Flexibility Pilot Program.—
-
-&emsp;(1)
-
-In general.—The Secretary shall establish a pilot program for not more than 10 eligible places or consortia of units of local government.
-
-&emsp;(2)
-
-Election.—Under the program, the sponsor of an airport serving an eligible place may elect to forego any essential air service for which compensation is being provided under this subchapter for a 10-year period in exchange for a grant from the Secretary equal in value to twice the compensation paid to provide such service in the most recent 12-month period.
-
-&emsp;(3)
-
-Grant.—Notwithstanding any other provision of law, the Secretary shall make a grant to each airport sponsor participating in the program for use on any project that—
-
-&emsp;&emsp;(A) is eligible for assistance under chapter 471 and complies with the requirements of that chapter;
-
-&emsp;&emsp;(B) is located on the airport property; or
-
-&emsp;&emsp;(C) will improve airport facilities in a way that would make such facilities more usable for general aviation.
-
-(c)
-
-Fractionally Owned Aircraft.—After the effective date of the rule referred to in subsection (a)(3)(E), only those operating rules that relate to an aircraft that is fractionally owned apply when an aircraft described in subsection (a)(3)(E) is used to provide transportation described in subsection (a)(3)(E).
-
-(d)
 
 Applications.—
 
@@ -70,19 +42,27 @@ Required information.—At a minimum, the application shall include—
 
 &emsp;&emsp;(B) a description of how the compensation or assistance will be used.
 
-(e)
+(c)
 
-Participation Requirements.—An eligible place for which compensation or assistance is provided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
+Participation Requirements.—An eligible place for which compensation or assistance isprovided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
 
-(f)
+(d)
 
 Subsequent Participation.—A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
 
-(g)
+(e)
 
 Funding.—Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.
 
-(Added Pub. L. 108–176, title IV, §405, Dec. 12, 2003, 117 Stat. 2544.)
+(Added Pub. L. 108–176, title IV, §405, Dec. 12, 2003, 117 Stat. 2544; amended Pub. L. 118–63, title V, §561(k), May 16, 2024, 138 Stat. 1216.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(3)(E), (F). Pub. L. 118–63, §561(k)(1), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: "To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft to provide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership."
+
+Subsecs. (b) to (g). Pub. L. 118–63, §561(k)(2), (3), redesignated subsecs. (d) to (g) as (b) to (e), respectively, and struck out former subsecs. (b) and (c) which related to community flexibility pilot program and fractionally owned aircraft, respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

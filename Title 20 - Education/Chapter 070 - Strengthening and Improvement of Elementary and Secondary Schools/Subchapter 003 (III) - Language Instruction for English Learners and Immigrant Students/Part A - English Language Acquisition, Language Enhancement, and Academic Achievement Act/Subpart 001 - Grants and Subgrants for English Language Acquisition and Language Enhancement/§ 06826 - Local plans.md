@@ -2,7 +2,7 @@
 
 #### (a) Plan required
 
-Each eligible entity desiring a subgrant from the State educational agency under section 6824of this title shall submit a plan to the State educational agency at such time, in such manner, and containing such information as the State educational agency may require.
+Each eligible entity desiring a subgrant from the State educational agency under section 6824 of this title shall submit a plan to the State educational agency at such time, in such manner, and containing such information as the State educational agency may require.
 
 #### (b) Contents
 

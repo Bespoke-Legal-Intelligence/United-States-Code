@@ -72,7 +72,7 @@ In this section:
 
 &emsp;The term "qualifying advanced energy project" means a project that—
 
-&emsp;&emsp;(A)(i) re-equips, expands, or establishes a manufacturing or recycling facility for the production or recycling, as applicable, of advanced energy property; or
+&emsp;&emsp;(A)(i) re-equips, expands, or establishes a manufacturing or recycling facility for theproduction or recycling, as applicable, of advanced energy property; or
 
 &emsp;&emsp;(ii) re-equips an industrial or manufacturing facility with equipment designed to reduce the greenhouse gas emissions of that facility substantially below the greenhouse gas emissions under current best practices, as determined by the Secretary, through the installation of—
 
@@ -120,7 +120,7 @@ Not later than 180 days after November 15, 2021, the Secretary shall establish a
 
 &emsp;&emsp;&emsp;&emsp;(I) generated or stored energy; or
 
-&emsp;&emsp;&emsp;&emsp;(II) measured reduction in energy consumption or greenhouse gas emission\(based on costs of the full supply chain); and
+&emsp;&emsp;&emsp;&emsp;(II) measured reduction in energy consumption or greenhouse gas emission (based on costs of the full supply chain); and
 
 &emsp;&emsp;&emsp;(vi) have a shorter project time.
 

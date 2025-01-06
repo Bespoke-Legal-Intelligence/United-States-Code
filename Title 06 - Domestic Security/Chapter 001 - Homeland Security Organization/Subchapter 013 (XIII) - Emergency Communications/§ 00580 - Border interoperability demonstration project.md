@@ -68,7 +68,7 @@ There is authorized to be appropriated for grants under this section such sums a
 
 <b>2018</b>—Pub. L. 115–278, §2(g)(6)(D)(iii), substituted "Assistant Director" for "Director" wherever appearing.
 
-Subsec. (a)(1). Pub. L. 115–278, §2(g)(6)(D)(i), substituted "Assistant Director for Emergency Communications (referred to in this section as the 'Assistant Director')" for "Director of the Office of Emergency Communications (referred to in this section as the 'Director')".
+Subsec. (a)(1). Pub. L. 115–278, §2(g)(6)(D)(i), substituted "Assistant Director for Emergency Communications (referred to in this section as the 'Assistant Director')" for "Director of the Office of EmergencyCommunications (referred to in this section as the 'Director')".
 
 Subsec. (c). Pub. L. 115–278, §2(g)(6)(D)(ii), substituted "Emergency Communications Division" for "Office of Emergency Communications" in introductory provisions.
 

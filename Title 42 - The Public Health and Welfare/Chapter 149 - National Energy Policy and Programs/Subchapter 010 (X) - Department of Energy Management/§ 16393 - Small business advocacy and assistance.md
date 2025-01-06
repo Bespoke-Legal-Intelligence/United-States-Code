@@ -96,7 +96,7 @@ There is authorized to be appropriated to the Secretary for activities under sub
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–167, §10718(1)(A), substituted "(as defined in section 15801 of this title) and the Director of each single-purpose research facility" for ", and may require the Director of a single-purpose research facility," in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–167, §10718(1)(B), substituted "encourage" for "increase" and "research, development, demonstration, and commercial applicationactivities, including product development," for "collaborative research,".
+Subsec. (a)(1). Pub. L. 117–167, §10718(1)(B), substituted "encourage" for "increase" and "research, development, demonstration, and commercial application activities, including product development," for "collaborative research,".
 
 Subsec. (a)(2). Pub. L. 117–167, §10718(1)(C), substituted "the activities described in paragraph (1)" for "procurement and collaborative research".
 

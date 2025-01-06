@@ -10,5 +10,5 @@ Repeal effective Oct. 1, 1977, see section 111(f) of Pub. L. 95–94, set out as
 
 #### Effective Date and Savings Provisions
 
-Pub. L. 95–26, title I, §106(g), May 4, 1977, 91 Stat. 84, provided that this section is effective Mar. 1, 1977, and set forth savings provisions relating to designations and availability of amounts for employees covered by section 72a–1d of this title, and was repealed by section 111(e)(1) of Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 663.
+Pub. L. 95–26, title I, §106(g), May 4, 1977, 91 Stat. 84, provided that this section is effective Mar. 1, 1977, andset forth savings provisions relating to designations and availability of amounts for employees covered by section 72a–1d of this title, and was repealed by section 111(e)(1) of Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 663.
 

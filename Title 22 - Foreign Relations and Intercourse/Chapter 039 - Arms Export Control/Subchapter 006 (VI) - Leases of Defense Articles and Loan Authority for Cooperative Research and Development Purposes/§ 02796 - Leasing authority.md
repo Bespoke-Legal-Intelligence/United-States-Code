@@ -18,7 +18,7 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 > The requirement of paragraph (4) shall not apply to leases entered into for purposes of cooperative research or development, military exercises, or communications or electronics interface projects. The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States. The President may waive the requirement of paragraph (4) with respect to a lease which is made in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense, except that this waiver authority—
 
-&emsp;(A) may be exercised only if the President submits to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committeeon Foreign Relations and the Committee on Appropriations of the Senate, in accordance with the regular notification procedures of those Committees, a detailed notification for each lease with respect to which the authority is exercised; and
+&emsp;(A) may be exercised only if the President submits to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, in accordance with the regular notification procedures of those Committees, a detailed notification for each lease with respect to which the authority is exercised; and
 
 &emsp;(B) may be exercised only during the fiscal year <sup>1</sup> the current fiscal year and only with respect to one country, unless the Congress hereafter provides otherwise.
 
@@ -102,7 +102,7 @@ Pub. L. 104–164, title I, §153(b), July 21, 1996, 110 Stat. 1440, provided th
 
 #### Delegation of Functions
 
-For delegation of functions of the President under this section, see section 1(t) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under this section, see section 1(t) of Ex. Ord. No. 13637, Mar.8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 <i><sup>1</sup></i><i> So in original. The words "the fiscal year" probably should not appear.</i>
 

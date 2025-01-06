@@ -52,7 +52,7 @@ Rule of Construction Related to Certain Basic Allowance for Housing Payments.—
 
 (d)
 
-Housing Treatment Education.—The regulations prescribed pursuant to this section shall ensure the relocation assistance programs under section 1056 of title 10 include, as part of the assistance normally provided under such section, education about the housing treatment available under this section.
+Housing Treatment Education.—The regulations prescribed pursuant to this sectionshall ensure the relocation assistance programs under section 1056 of title 10 include, as part of the assistance normally provided under such section, education about the housing treatment available under this section.
 
 (e)
 

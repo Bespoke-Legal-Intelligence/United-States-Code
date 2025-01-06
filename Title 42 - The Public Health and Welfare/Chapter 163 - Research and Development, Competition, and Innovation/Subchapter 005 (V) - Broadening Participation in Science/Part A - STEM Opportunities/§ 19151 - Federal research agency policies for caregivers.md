@@ -22,7 +22,7 @@ Not later than 12 months after August 9, 2022, the Director, in consultation wit
 
 #### (b) Uniformity of guidance
 
-In providing guidance under subsection (a), the Director shall encourage uniformity, to theextent practicable, and consistency in the policies established pursuant to such guidance across all Federal research agencies.
+In providing guidance under subsection (a), the Director shall encourage uniformity, to the extent practicable, and consistency in the policies established pursuant to such guidance across all Federal research agencies.
 
 #### (c) Establishment of policies
 

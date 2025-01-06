@@ -8,5 +8,5 @@ Nothing in this part may be construed as altering any intellectual or broader im
 
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§10501–10510) oftitle V of div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1609, which is classified principally to this part. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§10501–10510) of title V of div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1609, which is classified principally to this part. For complete classification of subtitle A to the Code, see Tables.
 

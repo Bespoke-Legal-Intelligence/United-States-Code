@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program on technologies that enable integration of renewable energy generation sources onto the electricgrid across multiple program offices of the Department. The program shall include—
+Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program on technologies that enable integration of renewable energy generation sources onto the electric grid across multiple program offices of the Department. The program shall include—
 
 &emsp;(1) forecasting for predicting generation from variable renewable energy sources;
 

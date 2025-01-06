@@ -90,7 +90,7 @@ Chairperson.—The Chairperson shall—
 
 &emsp;&emsp;&emsp;(iv) make such payments from funds otherwise available to the Council as may be necessary to carry out the functions of the Council;
 
-&emsp;&emsp;&emsp;(v) select, appoint, and employ personnel as needed to carry out the functions of the Council subject to the provisions of this title governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of this title, relating to classification and General Schedule pay rates;
+&emsp;&emsp;&emsp;(v) select, appoint, and employ personnel as needed to carry out the functions of theCouncil subject to the provisions of this title governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of this title, relating to classification and General Schedule pay rates;
 
 &emsp;&emsp;&emsp;(vi) to the extent and in such amounts as may be provided in advance by appropriations Acts, made available from the revolving fund established under subsection (c)(3)(B), or as otherwise provided by law, enter into contracts and other arrangements with public agencies and private persons to carry out the functions and duties of the Council;
 
@@ -380,7 +380,7 @@ Completion of investigation.—If an allegation of wrongdoing is referred to the
 
 &emsp;&emsp;(D)
 
-Concurrent investigation.—If an allegation of wrongdoing against an Inspector General or a staff member of an Office of Inspector General described under paragraph\(4)(C) is referred to the Department of Justice or the Office of Special Counsel under paragraph (5)(A), the Chairperson of the Integrity Committee may conduct any related investigation referred to the Chairperson under paragraph (5)(B) concurrently with the Department of Justice or the Office of Special Counsel, as applicable.
+Concurrent investigation.—If an allegation of wrongdoing against an Inspector General or a staff member of an Office of Inspector General described under paragraph (4)(C) is referred to the Department of Justice or the Office of Special Counsel under paragraph (5)(A), the Chairperson of the Integrity Committee may conduct any related investigation referred to the Chairperson under paragraph (5)(B) concurrently with the Department of Justice or the Office of Special Counsel, as applicable.
 
 &emsp;&emsp;(E)
 
@@ -470,7 +470,7 @@ In general.—An allegation of wrongdoing against the Special Counsel or the Dep
 
 &emsp;&emsp;&emsp;(ii)
 
-Coordination with existing provisions of law.—This paragraph shall not eliminate access to the Merit Systems Protection Board for review under section 7701 of title 5. To the extent that an allegation brought under this paragraph involves section 2302(b)(8) of title 5, a failure to obtain corrective action within 120 days afterthe date on which the allegation is received by the Integrity Committee shall, for purposes of section 1221 of title 5, be considered to satisfy section 1214(a)(3)(B) of title 5.
+Coordination with existing provisions of law.—This paragraph shall not eliminate access to the Merit Systems Protection Board for review under section 7701 of title 5. To the extent that an allegation brought under this paragraph involves section 2302(b)(8) of title 5, a failure to obtain corrective action within 120 days after the date on which the allegation is received by the Integrity Committee shall, for purposes of section 1221 of title 5, be considered to satisfy section 1214(a)(3)(B) of title 5.
 
 &emsp;&emsp;(C)
 
@@ -494,7 +494,7 @@ Definition.—In this subsection, the term "Office of Inspector General" means t
 
 &emsp;&emsp;(C) the Special Inspector General for the Troubled Asset Relief Program established under section 121 of title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231); and
 
-&emsp;&emsp;(D) the Special Inspector General for Pandemic Recovery established under section 4018 of the Coronavirus Economic Stabilization Act of 2020 (15 U.S.C. 9053).
+&emsp;&emsp;(D) the Special Inspector General for Pandemic Recovery established under section4018 of the Coronavirus Economic Stabilization Act of 2020 (15 U.S.C. 9053).
 
 &emsp;(2)
 
@@ -704,7 +704,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as am
 
 &emsp;"(7) the term 'Coronavirus response' means the Federal Government's response to the nationwide public health emergency declared by the Secretary of Health and Human Services, retroactive to January 27, 2020, pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d), as a result of confirmed cases of the novel coronavirus (COVID–19) in the United States.
 
-"(b) There is established within the Council the Pandemic Response Accountability Committee to promotetransparency and conduct and support oversight of covered funds and the Coronavirus response to—
+"(b) There is established within the Council the Pandemic Response Accountability Committee to promote transparency and conduct and support oversight of covered funds and the Coronavirus response to—
 
 &emsp;"(1) prevent and detect fraud, waste, abuse, and mismanagement; and
 
@@ -822,7 +822,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as am
 
 &emsp;"(iii) may enforce such subpoenas in the event of a refusal to obey by order of any appropriate United States district court as provided for under section 6 of the Inspector General Act of 1978 (5 U.S.C. App).
 
-"(B) The Committee shall carry out the powers under paragraphs (1) and (2) in accordance with section 4(b)(1) of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 404(b)(1)\].
+"(B) The Committee shall carry out the powers under paragraphs (1) and (2) in accordance with section 4(b)(1)of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 404(b)(1)\].
 
 "(C) Whenever information or assistance requested by the Committee or an Inspector General is unreasonably refused or not provided, the Committee shall immediately report the circumstances to the appropriate congressional committees.
 

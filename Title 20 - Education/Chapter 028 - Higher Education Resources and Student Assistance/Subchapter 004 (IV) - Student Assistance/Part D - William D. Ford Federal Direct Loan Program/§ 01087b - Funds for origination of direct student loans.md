@@ -34,7 +34,7 @@ A prior section 1087b, Pub. L. 89–329, title IV, §452, as added Pub. L. 90–
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–244 substituted "Federal Pell Grants" for "basic grants".
 
-<b>1997</b>—Subsecs. (b) to (d). Pub. L. 105–33 redesignated subsecs. (c) and (d) as (b) and (c), respectively, andstruck out former subsec. (b) which required the Secretary to pay fees to institutions of higher education and alternative loan originators to assist in meeting the cost of loan origination.
+<b>1997</b>—Subsecs. (b) to (d). Pub. L. 105–33 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which required the Secretary to pay fees to institutions of higher education and alternative loan originators to assist in meeting the cost of loan origination.
 
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for origination of direct student loans for former provisions relating to payment rules.
 

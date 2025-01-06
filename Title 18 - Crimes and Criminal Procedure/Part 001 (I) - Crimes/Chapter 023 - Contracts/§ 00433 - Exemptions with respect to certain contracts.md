@@ -14,7 +14,7 @@ These sections were consolidated with such changes of phraseology as were necess
 
 The applicability provisions of the sections here consolidated were unclear and of doubtful value. As revised the section preserves everything of value without change of substance.
 
-References to the Bankhead-Jones Farm Tenant Act and the Farmers' Home Administrative Act of 1946 were included in this revised section notwithstanding the omission (and consequent repeal) of former subsection (d) of section 52 of the said Bankhead-Jones Act (1937) (Title 7, U.S.C., 1940 ed., §1026) in the amendment of said section 52 of such Act by section 3 of the said Farmers' Home Administration Act of 1946 (August 14, 1946, ch. 964, 60 Stat. 1062). The essential nature of the transactions under the several acts would render inconsistent any attempt to include some and exclude others.
+References to the Bankhead-Jones Farm Tenant Act and the Farmers' Home Administrative Act of 1946 were included in this revised section notwithstanding the omission (and consequent repeal) of former subsection (d) of section 52 of the said Bankhead-Jones Act (1937) (Title 7, U.S.C., 1940 ed., §1026) in the amendment of said section 52 of such Act by section 3 of the saidFarmers' Home Administration Act of 1946 (August 14, 1946, ch. 964, 60 Stat. 1062). The essential nature of the transactions under the several acts would render inconsistent any attempt to include some and exclude others.
 
 #### <b>Editorial Notes</b>
 

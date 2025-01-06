@@ -1,6 +1,6 @@
 ### §779. Use of appropriations
 
-Annuities and refunds under this subchapter shall be paid by the Comptroller General fromappropriations of the Government Accountability Office.
+Annuities and refunds under this subchapter shall be paid by the Comptroller General from appropriations of the Government Accountability Office.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 907; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

@@ -20,7 +20,7 @@ A prior section 574 of Pub. L. 87–195 was classified to section 2349aa–3 of 
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–399 substituted "$14,680,000 for the fiscal year 1987" for "$9,840,000 for the fiscal year 1987".
 
-<b>1985</b>—Pub. L. 99–83, in amending section generally, designated existing provisions as subsecs. (a) and (b), and in subsec. (a) as so designated, substituted provisions appropriating $9,840,000 for fiscal years 1986 and 1987 for provisions appropriating $5,000,000 for fiscal year 1984.
+<b>1985</b>—Pub. L. 99–83, in amending section generally, designated existing provisions as subsecs. (a) and (b), and in subsec. (a) as so designated, substituted provisions appropriating $9,840,000 for fiscal years 1986 and1987 for provisions appropriating $5,000,000 for fiscal year 1984.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -26,7 +26,7 @@ Notice to Congress.—Whenever the Secretary of a military department orders any
 
 (e)
 
-Termination of Duty.—Whenever any unit of the Selected Reserve is ordered to active duty under subsection (a), the service of all units so ordered to active duty may be terminated—
+Termination of Duty.—Whenever any unit of the Selected Reserve is ordered to active dutyunder subsection (a), the service of all units so ordered to active duty may be terminated—
 
 &emsp;(1) by order of the Secretary of the military department concerned; or
 
@@ -38,7 +38,7 @@ Relationship to War Powers Resolution.—Nothing contained in this section shall
 
 (g)
 
-Considerations for Involuntary Order to Active Duty.—In determining which units ofthe Selected Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
+Considerations for Involuntary Order to Active Duty.—In determining which units of the Selected Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
 
 &emsp;(1) the length and nature of previous service, to assure such sharing of exposure to hazards as national security and military requirements will reasonably allow;
 
@@ -54,7 +54,7 @@ Policies and Procedures.—The Secretaries of the military departments shall pre
 
 (i)
 
-Defense Budget Materials Defined.—In this section, the term "defense budget materials" has the meaning given that term in section 231(f)(2) of this title.
+Defense Budget Materials Defined.—In this section, the term "defense budget materials" has the meaning given that term in section 231(f)(2) <sup>1</sup> of this title.
 
 (Added Pub. L. 112–81, div. A, title V, §516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L. 112–239, div. A, title X, §1014(b), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 118–31, div. A, title V, §513, Dec. 22, 2023, 137 Stat. 245.)
 
@@ -64,9 +64,13 @@ Defense Budget Materials Defined.—In this section, the term "defense budget ma
 
 The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
+Section 231(f)(2) of this title, referred to in subsec. (i), was redesignated as section 231(g)(2) of this title by Pub. L. 117–263, div. A, title III, §352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as section 231(h)(2) of this title by Pub. L. 118–159, div. A, title X, §1021(1), Dec. 23, 2024, 138 Stat. 2052.
+
 #### Amendments
 
 <b>2023</b>—Subsec. (b)(1). Pub. L. 118–31 substituted "(A) Except as provided under subparagraph (B), units" for "Units", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
 <b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted "section 231(f)(2)" for "section 231(g)(2)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

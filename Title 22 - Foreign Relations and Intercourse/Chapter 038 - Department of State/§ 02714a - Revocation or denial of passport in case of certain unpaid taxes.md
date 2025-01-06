@@ -8,7 +8,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided under subparagraph (B), upon receiving a certification described in section 7345 of title 26 from the Secretary of the Treasury, the Secretary of State shall not issue a passport to any individual who has a seriously delinquent tax debt described in such section.
+&emsp;&emsp;Except as provided under subparagraph (B), upon receiving a certification described in section 7345 of title 26 from the Secretaryof the Treasury, the Secretary of State shall not issue a passport to any individual who has a seriously delinquent tax debt described in such section.
 
 #### (B) Emergency and humanitarian situations
 
@@ -48,7 +48,7 @@
 
 #### (B) Emergency and humanitarian situations
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary of State may issue a passport, inemergency circumstances or for humanitarian reasons, to an individual described in subparagraph (A).
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual described in subparagraph (A).
 
 #### (2) Revocation
 

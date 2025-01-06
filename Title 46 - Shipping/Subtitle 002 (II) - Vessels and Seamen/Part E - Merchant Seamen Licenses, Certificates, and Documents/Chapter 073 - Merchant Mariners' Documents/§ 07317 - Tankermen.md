@@ -2,7 +2,7 @@
 
 (a) The Secretary shall prescribe procedures, standards, and qualifications for the issuance of certificates or endorsements as tankerman, stating the types of oil or hazardous material that can be handled with safety to the vessel and the marine environment.
 
-(b) An endorsement as tankerman shall indicate the grades or types of cargo the holder isqualified and authorized to handle with safety on board vessels.
+(b) An endorsement as tankerman shall indicate the grades or types of cargo the holder is qualified and authorized to handle with safety on board vessels.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 545.)
 

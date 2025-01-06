@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) According to the Surgeon General of the United States, the epidemic of human immunodeficiency virus/acquired immune deficiency syndrome (HIV/AIDS) will soon become the worst epidemic of infectious disease in recorded history, eclipsing both the bubonicplague of the 1300's and the influenza epidemic of 1918–1919 which killed more than 20,000,000 people worldwide.
+&emsp;(1) According to the Surgeon General of the United States, the epidemic of human immunodeficiency virus/acquired immune deficiency syndrome (HIV/AIDS) will soon become the worst epidemic of infectious disease in recorded history, eclipsing both the bubonic plague of the 1300's and the influenza epidemic of 1918–1919 which killed more than 20,000,000 people worldwide.
 
 &emsp;(2) According to the Joint United Nations Programme on HIV/AIDS (UNAIDS), more than 34,300,000 people in the world today are living with HIV/AIDS, of which approximately 95 percent live in the developing world.
 

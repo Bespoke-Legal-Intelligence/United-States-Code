@@ -126,7 +126,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data, the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data, the weighted child count used to determine a local educational agency's grantunder this section is the larger of the two amounts determined under clauses (ii) and (iii).
 
 #### (ii) By percentage of children
 

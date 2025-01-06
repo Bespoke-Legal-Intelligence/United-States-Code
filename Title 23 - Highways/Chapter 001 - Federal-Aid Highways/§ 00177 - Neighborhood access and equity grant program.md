@@ -16,7 +16,7 @@ In General.—In addition to amounts otherwise available, there is appropriated 
 
 &emsp;&emsp;(E) to provide affordable access to essential destinations, public spaces, or transportation links and hubs;
 
-&emsp;(2) to mitigate or remediate negative impacts on the human or natural environmentresulting from a facility described in subsection (c)(2) in a disadvantaged or underserved community through—
+&emsp;(2) to mitigate or remediate negative impacts on the human or natural environment resulting from a facility described in subsection (c)(2) in a disadvantaged or underserved community through—
 
 &emsp;&emsp;(A) noise barriers to reduce impacts resulting from a facility described in subsection (c)(2);
 
@@ -74,7 +74,7 @@ Investment in Economically Disadvantaged Communities.—
 
 &emsp;(1)
 
-In general.—In addition to amounts otherwise available, there is appropriated for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $1,262,000,000, to remain available until September 30, 2026, to the Administrator of the Federal Highway Administration to provide grants for projects in communities described in paragraph (2) for the same purposes and administered in the same manner as described in subsection (a).
+In general.—In addition to amounts otherwise available, there is appropriated for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $1,262,000,000, to remain available until September 30, 2026,to the Administrator of the Federal Highway Administration to provide grants for projects in communities described in paragraph (2) for the same purposes and administered in the same manner as described in subsection (a).
 
 &emsp;(2)
 

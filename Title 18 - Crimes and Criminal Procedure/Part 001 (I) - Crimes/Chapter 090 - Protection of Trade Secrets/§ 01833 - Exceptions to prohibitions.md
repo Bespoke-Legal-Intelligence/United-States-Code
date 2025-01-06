@@ -74,7 +74,7 @@ The date of enactment of this subsection, referred to in subsec. (b)(3)(D), is t
 
 Pub. L. 114–153, §2(c), inserted "or create a private right of action for" after "prohibit" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 114–153, §7(a)(2), substituted "the disclosure of a trade secret in accordance withsubsection (b)" for "the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation".
+Subsec. (a)(2). Pub. L. 114–153, §7(a)(2), substituted "the disclosure of a trade secret in accordance with subsection (b)" for "the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

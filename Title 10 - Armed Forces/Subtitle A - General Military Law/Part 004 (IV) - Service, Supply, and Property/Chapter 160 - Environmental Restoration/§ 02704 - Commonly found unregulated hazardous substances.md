@@ -18,7 +18,7 @@ Definition.—In this subsection, the term "unregulated hazardous substance" mea
 
 (b)
 
-Toxicological Profiles.—The Secretary of Health and Human Services shall take such steps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified undersubsection (a). The profiles of such substances shall include each of the following:
+Toxicological Profiles.—The Secretary of Health and Human Services shall take such steps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified under subsection (a). The profiles of such substances shall include each of the following:
 
 &emsp;(1) The examination, summary, and interpretation of available toxicological information and epidemiologic evaluations on a hazardous substance in order to ascertain the levels of significant human exposure for the substance and the associated acute, subacute, and chronic health effects.
 
@@ -70,7 +70,7 @@ The Toxic Substances Control Act, referred to in subsec. (a)(2)(A), is Pub. L. 9
 
 The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(2)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 15B (§1857 et seq.) of Title 42. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(2)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 15B (§1857 et seq.) of Title 42. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of Title 42. Forcomplete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Clean Water Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 

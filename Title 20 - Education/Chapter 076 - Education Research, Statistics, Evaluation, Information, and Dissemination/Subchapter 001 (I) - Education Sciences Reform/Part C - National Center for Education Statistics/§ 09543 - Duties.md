@@ -48,7 +48,7 @@ The Statistics Center shall collect, report, analyze, and disseminate statistica
 
 &emsp;(2) conducting and publishing reports on the meaning and significance of the statistics described in paragraph (1);
 
-&emsp;(3) collecting, analyzing, cross-tabulating, and reporting, to the extent feasible, information by gender, race, ethnicity, socioeconomic status, limited English proficiency, mobility, disability, urban, rural, suburban districts, and other population characteristics, when such disaggregated information will facilitate educational and policy decisionmaking;
+&emsp;(3) collecting, analyzing, cross-tabulating, and reporting, to the extent feasible, information by gender, race, ethnicity, socioeconomicstatus, limited English proficiency, mobility, disability, urban, rural, suburban districts, and other population characteristics, when such disaggregated information will facilitate educational and policy decisionmaking;
 
 &emsp;(4) assisting public and private educational agencies, organizations, and institutions in improving and automating statistical and data collection activities, which may include assisting State educational agencies and local educational agencies with the disaggregation of data and with the development of longitudinal student data systems;
 

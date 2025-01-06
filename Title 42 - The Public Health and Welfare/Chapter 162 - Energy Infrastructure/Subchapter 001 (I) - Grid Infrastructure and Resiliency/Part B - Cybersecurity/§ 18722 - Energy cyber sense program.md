@@ -26,7 +26,7 @@ In carrying out subsection (b), the Secretary, in coordination with the Secretar
 
 &emsp;(3) provide technical assistance to electric utilities, product manufacturers, and other energy sector stakeholders to develop solutions to mitigate identified cybersecurity vulnerabilities in products and technologies tested under the program;
 
-&emsp;(4) biennially review products and technologies tested under the program for cybersecurity vulnerabilities and provide analysis with respect to how those products and technologies respond to and mitigate cyber threats;
+&emsp;(4) biennially review products and technologies tested under the program forcybersecurity vulnerabilities and provide analysis with respect to how those products and technologies respond to and mitigate cyber threats;
 
 &emsp;(5) develop guidance that is informed by analysis and testing results under the program for electric utilities and other components of the energy sector for the procurement of products and technologies;
 

@@ -54,7 +54,7 @@
 
 &emsp;(1) direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection (e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
 
-&emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the ratesof pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
+&emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
 &emsp;&emsp;(B) based on data from such surveys, identifies each locality in which a pay disparity exists and specifies the size of each such pay disparity (before and after taking into consideration any comparability payments payable);
 
@@ -148,7 +148,7 @@
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any underclause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
 
 &emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
 
@@ -166,7 +166,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat.2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 Historical and Revision Notes
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Locality Pay for Federal Employees Working Overseas Under Domestic Employee Teleworking Overseas Agreements
 
@@ -468,7 +468,7 @@ Continuation of cost of living allowance rate.—If an employee, who the day bef
 
 &emsp;"(3)
 
-Locality-based comparability payments.—Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under section 5304(g) of title 5, United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extentthat an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under section 5941(c)(2)(B) of title 5, United States Code.
+Locality-based comparability payments.—Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under section 5304(g) of title 5, United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extent that an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under section 5941(c)(2)(B) of title 5, United States Code.
 
 #### "SEC. 1916. APPLICATION TO OTHER ELIGIBLE EMPLOYEES.
 
@@ -542,7 +542,7 @@ Continuation of cost of living allowance.—
 
 &emsp;&emsp;"(A)
 
-In general.—Notwithstanding any other provision of this subtitle, any employee of the Postal Service (other than an employee covered by section 1003(b) and (c) of title 39, United States Code, whose duty station is in a nonforeign area) who is paid an allowance under section 1005(b) of that title shall be treated for all purposes as if the provisions of this subtitle (including the amendments made by this subtitle) had not been enacted, except that the cost-of-living allowance rate paid to that employee—
+In general.—Notwithstanding any other provision of this subtitle, any employee of the Postal Service (other than an employee covered by section 1003(b) and (c) of title 39, United States Code, whose duty station is in a nonforeign area) who is paid an allowance under section 1005(b) of that titleshall be treated for all purposes as if the provisions of this subtitle (including the amendments made by this subtitle) had not been enacted, except that the cost-of-living allowance rate paid to that employee—
 
 &emsp;&emsp;&emsp;"(i) may result in the allowance exceeding 25 percent of the rate of basic pay of that employee; and
 
@@ -698,7 +698,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 "(3) An area described in this paragraph is any metropolitan statistical area within the continental United States that (as determined based on data made available by the Bureau of Labor Statistics and the Office of Personnel Management, respectively) has a high level of nonfarm employment and at least 2,500 General Schedule employees whose post of duty is within such area.
 
-"(e)(1) The authority under this section to make pay comparisons and to make any determinations or recommendations based on such comparisons shall be available to the President's pay agent only for purposes of comparability payments becoming payable on or after January 1, 2002, and before January 1, 2007, andonly with respect to areas described in subsection (d)(3).
+"(e)(1) The authority under this section to make pay comparisons and to make any determinations or recommendations based on such comparisons shall be available to the President's pay agent only for purposes of comparability payments becoming payable on or after January 1, 2002, and before January 1, 2007, and only with respect to areas described in subsection (d)(3).
 
 "(2) Any comparisons and recommendations so made shall, if included in the pay agent's report under section 5304(d)(1) of title 5, United States Code, for any year (or the pay agent's supplementary report, in accordance with subsection (d)(1)(C)(i)(II)), be considered and acted on as the pay agent's comparisons and recommendations under such section 5304(d)(1) for the area and the year involved.
 
@@ -728,7 +728,7 @@ Pub. L. 103–329, title VI, §630(b), (c), Sept. 30, 1994, 108 Stat. 2424, prov
 
 &emsp;"(2) determined as if the rates of pay and comparability payments payable on September 30, 1994, had remained in effect."
 
-Section 8(b) of Pub. L. 102–378 provided that: "Notwithstanding section 5304 of title 5, United States Code, for purposes of any comparability payments scheduled to take effect under such section during calendar years 1994 and 1995, respectively—
+Section 8(b) of Pub. L. 102–378 provided that: "Notwithstanding section 5304 of title 5, United States Code,for purposes of any comparability payments scheduled to take effect under such section during calendar years 1994 and 1995, respectively—
 
 &emsp;"(1) the report required by subsection (d)(1) of such section may be submitted not later than 1 month before the start of the calendar year for purposes of which it is prepared; and
 

@@ -218,7 +218,7 @@ Appointment Authority for Excepted and Senior Executive Service Employees.—
 
 &emsp;"(1)
 
-In general.—In the case of an employee occupying a position in the excepted service or the Senior Executive Service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2).
+In general.—In the case of an employee occupying a position in the excepted service or the SeniorExecutive Service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2).
 
 &emsp;"(2)
 
@@ -338,7 +338,7 @@ Applicability.—A regulation, order, determination, or resolution is described 
 
 "(a)
 
-Transfer.—Each employee of the Board shall be transferred to the Agency for employment, not later than the effective date of the abolishment under section 1311(a), and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code.
+Transfer.—Each employee of the Board shall be transferred to the Agency for employment, not laterthan the effective date of the abolishment under section 1311(a), and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code.
 
 "(b)
 

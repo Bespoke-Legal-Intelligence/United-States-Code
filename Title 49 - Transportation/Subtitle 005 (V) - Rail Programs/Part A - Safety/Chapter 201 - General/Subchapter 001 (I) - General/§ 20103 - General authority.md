@@ -86,7 +86,7 @@ Hearings.—The Secretary shall conduct a hearing as provided by section 553 of 
 
 (f)
 
-Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress not later than September 30, 1995, on actions taken under this subsection.
+Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress notlater than September 30, 1995, on actions taken under this subsection.
 
 (g)
 

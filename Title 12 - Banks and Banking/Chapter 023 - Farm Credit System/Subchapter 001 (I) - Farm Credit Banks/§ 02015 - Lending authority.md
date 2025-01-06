@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) any production credit association, or
 
-&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
+&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged inthe making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
 
 > &emsp;any note, draft, or other obligation with the institution's endorsement or guarantee, the proceeds of which note, draft, or other obligation have been advanced to persons and for purposes eligible for financing by production credit associations as authorized by this chapter.
 

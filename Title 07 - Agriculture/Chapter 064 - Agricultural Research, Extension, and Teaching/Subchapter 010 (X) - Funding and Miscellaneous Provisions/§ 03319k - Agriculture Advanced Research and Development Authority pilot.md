@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) diagnostic or surveillance technology; and
 
-&emsp;&emsp;(C) veterinary countermeasures to intentional or unintentional biological threats (including naturally occurring threats), including—
+&emsp;&emsp;(C) veterinary countermeasures to intentional or unintentional biological threats\(including naturally occurring threats), including—
 
 &emsp;&emsp;&emsp;(i) animal vaccine or therapeutic products (including anti-infective products); or
 
@@ -192,7 +192,7 @@ In this section:
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;Information that results from research and development activities conductedunder this section and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative agreement or other transaction shall be withheld from disclosure under subchapter II of chapter 5 of title 5 for 5 years.
+&emsp;&emsp;&emsp;Information that results from research and development activities conducted under this section and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative agreement or other transaction shall be withheld from disclosure under subchapter II of chapter 5 of title 5 for 5 years.
 
 #### (8) Milestone-based payments allowed
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (2) Dissemination
 
-&emsp;The Secretary shall disseminate the information contained in the strategic plan under paragraph (1) to persons who may have the capacity to substantially contribute to the activities described in that strategic plan.
+&emsp;The Secretary shall disseminate the information contained in the strategic plan underparagraph (1) to persons who may have the capacity to substantially contribute to the activities described in that strategic plan.
 
 #### (3) Coordination; consultation
 
@@ -288,7 +288,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), the authority provided by this section terminateson the date that is 5 years after December 20, 2018.
+&emsp;Except as provided under paragraph (2), the authority provided by this section terminates on the date that is 5 years after December 20, 2018.
 
 #### (2) Exceptions
 

@@ -30,7 +30,7 @@ Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the S
 
 Owner Manual Requirements.—In amending Standard 208, the Secretary of Transportation shall require, to be effective as soon as possible after the amendment is prescribed, that owner manuals for passenger cars, buses, multipurpose passenger vehicles, and trucks equipped with an inflatable restraint include a statement in an easily understandable format stating that—
 
-&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped withan inflatable restraint referred to as an "airbag" and a lap and shoulder belt;
+&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped with an inflatable restraint referred to as an "airbag" and a lap and shoulder belt;
 
 &emsp;(2) the "airbag" is a supplemental restraint and is not a substitute for lap and shoulder belts;
 
@@ -54,7 +54,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (5) The Secretary of Transportation shall publish in the Federal Register a notice of each application under this subsection and each decision to grant or deny a temporary exemption and the reasons for the decision.
 
-(6) The Secretary of Transportation shall require a label for each exempted vehicle that can be removed only after recall and installation of the required inflatable restraint. The Secretary shall require that written notice of the exemption be provided to the dealer and the first purchaser of each exempted vehicle other than for resale, with the notice being provided in a way, and containing the information, the Secretary considers appropriate.
+(6) The Secretary of Transportation shall require a label for each exempted vehicle that can be removed only after recall and installation of the required inflatable restraint. The Secretary shall require that written notice of the exemption be provided to the dealer and the first purchaser of each exempted vehicle other than for resale, with the notice being provided in a way,and containing the information, the Secretary considers appropriate.
 
 (f)
 
@@ -224,7 +224,7 @@ Pub. L. 114–94, div. B, title XXIV, §24407, Dec. 4, 2015, 129 Stat. 1726, pro
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever achild restraint system was in use in a vehicle involved in a crash:
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:
 
 &emsp;"(1) The type or types of child restraint systems in use during the crash in any vehicle involved in the crash, including whether a five-point harness or belt-positioning booster. \[sic\]
 

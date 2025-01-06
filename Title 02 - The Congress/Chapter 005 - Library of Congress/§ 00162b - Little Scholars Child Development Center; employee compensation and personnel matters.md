@@ -76,7 +76,7 @@ Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred t
 
 #### Amendments
 
-<b>2022</b>—Subsec. (f)(1). Pub. L. 117–328, §141(a)(1), substituted "except as provided in subsection (g), pay to the Library of Congress" for "pay to the Library of Congress".
+<b>2022</b>—Subsec. (f)(1). Pub. L. 117–328, §141(a)(1), substituted "except as provided in subsection (g), pay tothe Library of Congress" for "pay to the Library of Congress".
 
 Subsecs. (g), (h). Pub. L. 117–328, §141(a)(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -88,7 +88,7 @@ Pub. L. 117–328, div. I, title I, §141(b), Dec. 29, 2022, 136 Stat. 4932, pro
 
 #### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center
 
-Pub. L. 116–159, div. A, §159, Oct. 1, 2020, 134 Stat. 721, provided that: "Notwithstanding any other provision ofthis Act \[div. A of Pub. L. 116–159, see Tables for classification\]—
+Pub. L. 116–159, div. A, §159, Oct. 1, 2020, 134 Stat. 721, provided that: "Notwithstanding any other provision of this Act \[div. A of Pub. L. 116–159, see Tables for classification\]—
 
 &emsp;"(1) the authority of the Library of Congress to reimburse the Little Scholars Child Development Center at the Library of Congress under section 19004 of the CARES Act (2 U.S.C. 162b note; 134 Stat. 578) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic; and
 

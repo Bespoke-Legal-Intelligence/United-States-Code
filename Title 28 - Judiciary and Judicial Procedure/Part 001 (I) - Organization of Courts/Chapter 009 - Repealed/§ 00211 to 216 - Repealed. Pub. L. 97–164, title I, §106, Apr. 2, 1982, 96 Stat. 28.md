@@ -4,7 +4,7 @@ Section 211, acts June 25, 1948, ch. 646, 62 Stat. 899; Aug. 25, 1958, Pub. L. 8
 
 Section 212, act June 25, 1948, ch. 646, 62 Stat. 899, provided for order of precedence of chief judge and associate judges of court.
 
-Section 213, acts June 25, 1948, ch. 646, 62 Stat. 899; Mar. 2, 1955, ch. 9, §1(e), 69 Stat. 10; Aug. 14, 1964, Pub. L. 88–426, title IV, §403(e), 78 Stat. 434; Aug. 9, 1975, Pub. L. 94–82, title II, §205(b)(5), 89 Stat. 422, provided for tenure and salaries of judges.
+Section 213, acts June 25, 1948, ch. 646, 62 Stat. 899; Mar. 2, 1955, ch. 9, §1(e), 69 Stat. 10; Aug. 14, 1964, Pub.L. 88–426, title IV, §403(e), 78 Stat. 434; Aug. 9, 1975, Pub. L. 94–82, title II, §205(b)(5), 89 Stat. 422, provided for tenure and salaries of judges.
 
 Section 214, act June 25, 1948, ch. 646, 62 Stat. 899, authorized court to hold court at such times and places as it might fix by rule.
 

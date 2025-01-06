@@ -128,7 +128,7 @@ Pub. L. 104–88, title II, §203, Dec. 29, 1995, 109 Stat. 941, provided that:
 
 "(a)
 
-To Board.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, andrecords employed, used, held, available, or to be made available in connection with a function transferred to the Board \[Surface Transportation Board\] by this Act shall be transferred to the Board for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Interstate Commerce Commission shall also be transferred to the Board. Such unexpended balances, allocations, and other funds, together with any unobligated balances from user fees collected by the Commission during fiscal year 1996, may be used to pay for the closedown of the Commission and severance costs for Commission personnel, regardless of whether those costs are incurred at the Commission or at the Board.
+To Board.—Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Board \[Surface Transportation Board\] by this Act shall be transferred to the Board for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Interstate Commerce Commission shall also be transferred to the Board. Such unexpended balances, allocations, and other funds, together with any unobligated balances from user fees collected by the Commission during fiscal year 1996, may be used to pay for the closedown of the Commission and severance costs for Commission personnel, regardless of whether those costs are incurred at the Commission or at the Board.
 
 "(b)
 
@@ -136,7 +136,7 @@ To Secretary.—Except as otherwise provided in this Act and the amendments made
 
 "(c)
 
-Separated Employees.—Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list (competitive service) or the priority employment list (excepted service)."
+Separated Employees.—Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list\(competitive service) or the priority employment list (excepted service)."
 
 #### References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board
 

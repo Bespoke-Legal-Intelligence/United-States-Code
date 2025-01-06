@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a survey conducted under this subsection on or after October 1, 2021, by more than 1 individual, such survey shall be conducted by a multidisciplinary team of professionals (including a registered professional nurse).
+&emsp;&emsp;In the case of a survey conducted under this subsection on or after October 1, 2021, by more than 1 individual, such survey shall be conducted by a multidisciplinary team ofprofessionals (including a registered professional nurse).
 
 #### (B) Prohibition of conflicts of interest
 

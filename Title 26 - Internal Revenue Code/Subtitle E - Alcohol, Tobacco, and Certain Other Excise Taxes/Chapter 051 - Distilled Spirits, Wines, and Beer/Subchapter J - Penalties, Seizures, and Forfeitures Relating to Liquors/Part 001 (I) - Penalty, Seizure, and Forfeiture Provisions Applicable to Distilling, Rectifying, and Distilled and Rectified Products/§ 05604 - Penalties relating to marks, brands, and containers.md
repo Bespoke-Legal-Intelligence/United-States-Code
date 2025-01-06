@@ -57,7 +57,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 602, 69
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §454(c)(11)(A), in amending subsec. (a) generally, struck out references to stamps in pars. (1) to (3), redesignated pars. (12), (16), (17), (18) as pars. (4)–(7), respectively, in pars. (4) to (7) as so redesignated, struck out all references to stamps, and struck out former pars. (4) to (11), (13) to (15), and (19), which had consisted of additional provisions concerning penalties relating to stamps, marks, brands and containers.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §454(c)(11)(A), in amending subsec. (a) generally, struck out references to stamps in pars. (1) to (3), redesignated pars. (12), (16), (17), (18) as pars. (4)–(7), respectively, in pars. (4) to (7)as so redesignated, struck out all references to stamps, and struck out former pars. (4) to (11), (13) to (15), and (19), which had consisted of additional provisions concerning penalties relating to stamps, marks, brands and containers.
 
 Subsec. (b). Pub. L. 98–369, §454(c)(11)(A), in amending subsec. (b) generally, substituted provisions relating to cross references for provisions relating to officers authorized to enforce this section.
 

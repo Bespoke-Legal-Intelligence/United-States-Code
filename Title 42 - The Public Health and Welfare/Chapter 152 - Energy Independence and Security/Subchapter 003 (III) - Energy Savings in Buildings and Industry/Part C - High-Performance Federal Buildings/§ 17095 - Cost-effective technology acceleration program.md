@@ -46,7 +46,7 @@ In this section, the term "Administrator" means the Administrator of General Ser
 
 #### (A) In general
 
-&emsp;&emsp;As part of the program under this section, not later than 180 days after December 19,2007, the Administrator shall establish, using available appropriations and programs implementing sections 432 and 525 <sup>1</sup> (and amendments made by those sections), a cost-effective lighting technology and geothermal heat pump technology acceleration program to achieve maximum feasible replacement of existing lighting, heating, cooling <sup>2</sup> technologies with cost-effective lighting technologies and geothermal heat pump technologies in each GSA facility. Such program shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 <sup>1</sup> and amendments made by those sections and any other provisions of law, which shall be applicable to the extent that they are more stringent or would achieve greater energy savings than required by this section.
+&emsp;&emsp;As part of the program under this section, not later than 180 days after December 19, 2007, the Administrator shall establish, using available appropriations and programs implementing sections 432 and 525 <sup>1</sup> (and amendments made by those sections), a cost-effective lighting technology and geothermal heat pump technology acceleration program to achieve maximum feasible replacement of existing lighting, heating, cooling <sup>2</sup> technologies with cost-effective lighting technologies and geothermal heat pump technologies in each GSA facility. Such program shall fully comply with the requirements of sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 <sup>1</sup> and amendments made by those sections and any other provisions of law, which shall be applicable to the extent that they are more stringent or would achieve greater energy savings than required by this section.
 
 #### (B) Acceleration plan timetable
 
@@ -132,7 +132,7 @@ Section 432, referred to in subsec. (d)(1), is section 432 of Pub. L. 110–140,
 
 Section 525, referred to in subsec. (d)(2), is section 525 of Pub. L. 110–140, December 19, 2007, 121 Stat. 1663, which amended section 8259b of this title and enacted provisions set out as a note under section 8259b of this title.
 
-This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607,which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

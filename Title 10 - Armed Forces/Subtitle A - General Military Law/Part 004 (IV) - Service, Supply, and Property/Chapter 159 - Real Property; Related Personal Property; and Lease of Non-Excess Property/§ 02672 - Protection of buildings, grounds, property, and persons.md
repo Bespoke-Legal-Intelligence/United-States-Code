@@ -6,7 +6,7 @@ Secretary of Defense Responsibility.—The Secretary of Defense shall protect th
 
 (b)
 
-Designation of Officers and Agents.—(1) The Secretary of Defense may designate military or civilian personnel of the Department of Defense as officers and agents to perform the functions of the Secretary under subsection (a), including, with regard to civilian officers and agents, duty in areas outside the property specified in that subsection to the extent necessary to protect that property and persons on that property.
+Designation of Officers and Agents.—(1) The Secretary of Defense may designate military or civilian personnel of the Department ofDefense as officers and agents to perform the functions of the Secretary under subsection (a), including, with regard to civilian officers and agents, duty in areas outside the property specified in that subsection to the extent necessary to protect that property and persons on that property.
 
 (2) A designation under paragraph (1) may be made by individual, by position, by installation, or by such other category of personnel as the Secretary determines appropriate.
 
@@ -62,7 +62,7 @@ Disposition of Persons Arrested.—A person who is arrested pursuant to authorit
 
 (g)
 
-Facilities and Services of Other Agencies.—In implementing this section, when the Secretary of Defense determines it to be economical and in the public interest, the Secretary may utilize the facilities and services of Federal, State, Indian tribal, and local law enforcement agencies, with the consent of those agencies, and may reimburse those agencies forthe use of their facilities and services. Such services of State, Indian tribal, and local law enforcement, including application of their powers of law enforcement, may be provided notwithstanding that the property is subject to the legislative jurisdiction of the United States.
+Facilities and Services of Other Agencies.—In implementing this section, when the Secretary of Defense determines it to be economical and in the public interest, the Secretary may utilize the facilities and services of Federal, State, Indian tribal, and local law enforcement agencies, with the consent of those agencies, and may reimburse those agencies for the use of their facilities and services. Such services of State, Indian tribal, and local law enforcement, including application of their powers of law enforcement, may be provided notwithstanding that the property is subject to the legislative jurisdiction of the United States.
 
 (h)
 
@@ -74,7 +74,7 @@ Attorney General Approval.—The powers granted pursuant to subsection (c) to of
 
 (j)
 
-Limitation With Regard to Other Federal Agencies.—Nothing in this section shall be construed as affecting the authority of the Secretary of Homeland Security to provide for the protection of facilities (including the buildings, grounds, and properties of the General Services Administration) that are under the jurisdiction, custody, or control, in whole or in part, of a Federal agency other than the Department of Defense and that are located off of a military installation.
+Limitation With Regard to Other Federal Agencies.—Nothing in this section shall be construed as affecting the authority of the Secretary of Homeland Security to provide for the protection of facilities (including the buildings, grounds, and properties of the General Services Administration) that are under the jurisdiction,custody, or control, in whole or in part, of a Federal agency other than the Department of Defense and that are located off of a military installation.
 
 (k)
 

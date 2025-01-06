@@ -6,7 +6,7 @@ Basic Program.—
 
 &emsp;(1)
 
-Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner asconstruction of toll-free highways is permitted under this chapter in the—
+Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner as construction of toll-free highways is permitted under this chapter in the—
 
 &emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel;
 
@@ -58,7 +58,7 @@ Annual audit.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A public authority with jurisdiction over a toll facility shall conduct or have an independent auditor conduct an annual audit of toll facility records to verify adequate maintenance and compliance with subparagraph (A), and report the results of the audits, together with the results of the audit under paragraph (9)(C), to the Secretary.
+In general.—A public authority with jurisdiction over a toll facility shall conduct or have an independent auditor conduct an annual audit of toll facility records to verify adequate maintenance and compliance with subparagraph (A),and report the results of the audits, together with the results of the audit under paragraph (9)(C), to the Secretary.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -78,7 +78,7 @@ In general.—In the case of a toll facility under the jurisdiction of a public 
 
 &emsp;&emsp;(B)
 
-Source.—The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects onthe Federal-aid highways in the State on which the project is being carried out.
+Source.—The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid highways in the State on which the project is being carried out.
 
 &emsp;(5)
 
@@ -158,7 +158,7 @@ Reports.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 90 days after the date of enactment of this subparagraph, a public authority that operates a toll facility shall report to the Secretary any rates, terms, or conditions for access to the toll facility by public transportation vehicles that differ from the rates, terms, or conditions applicable to over-the-road buses.
+In general.—Not later than 90 days after the date of enactment of this subparagraph, a public authority that operates a toll facility shall report to the Secretary any rates, terms, or conditions for access to the toll facility by public transportation vehicles that differ from therates, terms, or conditions applicable to over-the-road buses.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -360,7 +360,7 @@ Financial effects on low-income drivers.—A project under the program—
 
 &emsp;&emsp;(B) may include mitigation measures to deal with any potential adverse financial effects on low-income drivers.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c),Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1112(c), 1411(a), Dec. 4, 2015, 129 Stat. 1346, 1412; Pub. L. 117–58, div. A, title I, §§11117(a), 11404, 11523, Nov. 15, 2021, 135 Stat. 483, 558, 605.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1112(c), 1411(a), Dec. 4, 2015, 129 Stat. 1346, 1412; Pub. L. 117–58, div. A, title I, §§11117(a), 11404, 11523, Nov. 15, 2021, 135 Stat. 483, 558, 605.)
 
 #### <b>Editorial Notes</b>
 
@@ -418,7 +418,7 @@ Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by 
 
 "(5)
 
-Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until the scheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991)."
+Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, ortunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until the scheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991)."
 
 Subsec. (a)(7). Pub. L. 104–59, §313(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows:
 
@@ -474,7 +474,7 @@ Subsec. (k). Pub. L. 100–17, §120(b), added subsec. (k).
 
 <b>1975</b>—Subsec. (g)(5). Pub. L. 93–643 substituted "operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada" for "operations between the islands which comprise the State of Hawaii and operations between the States of Alaska and Washington, or between any two points within the State of Alaska".
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this titlemay be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
+<b>1973</b>—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this title may be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
 
 Subsec. (e). Pub. L. 93–87, §118(b), struck from first sentence "on the date of enactment of this subsection" before "as he may find necessary" and substituted in third sentence "1973" for "1968".
 
@@ -542,7 +542,7 @@ Eligible toll facility.—The term 'eligible toll facility' includes—
 
 &emsp;&emsp;"(ii) a facility in existence on the date of enactment of this Act that serves high occupancy vehicles;
 
-&emsp;&emsp;"(iii) a facility modified or constructed after the date of enactment of this Act to create additional tolled lane capacity (including a facility constructed by a private entity or using private funds); and
+&emsp;&emsp;"(iii) a facility modified or constructed after the date of enactment of this Act to create additionaltolled lane capacity (including a facility constructed by a private entity or using private funds); and
 
 &emsp;&emsp;"(iv) in the case of a new lane added to a previously non-tolled facility, only the new lane.
 
@@ -578,7 +578,7 @@ In general.—Toll revenues received under paragraph (2) shall be used by a Stat
 
 &emsp;&emsp;&emsp;"(III) the costs necessary for proper operation and maintenance of any facilities under paragraph (2) (including reconstruction, resurfacing, restoration, and rehabilitation); or
 
-&emsp;&emsp;&emsp;"(IV) if the State, public authority, or private entity annually certifies that the tolled facility is being adequately operated and maintained, anyother purpose relating to a highway or transit project carried out under title 23 or 49, United States Code.
+&emsp;&emsp;&emsp;"(IV) if the State, public authority, or private entity annually certifies that the tolled facility is being adequately operated and maintained, any other purpose relating to a highway or transit project carried out under title 23 or 49, United States Code.
 
 &emsp;"(B)
 
@@ -706,7 +706,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;&emsp;"(iii) a description of the public transportation agency that will be responsible for implementation and administration of the pilot program;
 
-&emsp;&emsp;"(iv) a description of whether consideration will be given to privatizing the maintenance and operational aspects of the facility, while retaining legaland administrative control of the portion of the Interstate route; and
+&emsp;&emsp;"(iv) a description of whether consideration will be given to privatizing the maintenance and operational aspects of the facility, while retaining legal and administrative control of the portion of the Interstate route; and
 
 &emsp;&emsp;"(v) such other information as the Secretary may require.
 
@@ -800,7 +800,7 @@ In general.—The Secretary shall conduct a study of ferry transportation in the
 
 &emsp;&emsp;"(i) the locations and routes served; and
 
-&emsp;&emsp;"(ii) the source and amount, if any, of funds derived from Federal, State, or local government sources supporting ferry construction or operations;
+&emsp;&emsp;"(ii) the source and amount, if any, of funds derived from Federal, State, or local governmentsources supporting ferry construction or operations;
 
 &emsp;"(B) to identify potential domestic ferry routes in the United States and its possessions and to develop information on those routes; and
 
@@ -828,7 +828,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;"(A) An identification of the facility on the Interstate System proposed to be a toll facility, including the age, condition, and intensity of use of the facility.
 
-&emsp;"(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitanplanning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
+&emsp;"(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitan planning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
 
 &emsp;"(C) An analysis demonstrating that the facility could not be maintained or improved to meet current or future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
 

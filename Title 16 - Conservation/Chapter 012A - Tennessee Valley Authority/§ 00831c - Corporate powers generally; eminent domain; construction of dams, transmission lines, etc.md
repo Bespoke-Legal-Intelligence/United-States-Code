@@ -80,5 +80,5 @@ Pub. L. 113–121, title VI, §6005(h), June 10, 2014, 128 Stat. 1360, provided 
 
 #### Delegation of Functions
 
-Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) ofthis section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

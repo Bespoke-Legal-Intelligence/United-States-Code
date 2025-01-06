@@ -30,4 +30,4 @@ Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818, substituted 
 - [&sect; 00713 - Personal responsibility education](%C2%A7%2000713%20-%20Personal%20responsibility%20education.md)
 - [&sect; 00714 to 716 - Omitted](%C2%A7%2000714%20to%20716%20-%20Omitted.md)
 - [&sect; 00721 to 728 - Repealed. Pub. L. 90&#8211;248, title II, &sect;240(e)(1), Jan. 2, 1968, 81 Stat. 915](%C2%A7%2000721%20to%20728%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93248%2C%20title%20II%2C%20%C2%A7240%28e%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20915.md)
-- [&sect; 00729 to 729a, 731 - Omitted](%C2%A7%2000729%20to%20729a%2C%20731%20-%20Omitted.md)
+- [&sect; 00729 to 731 - Omitted](%C2%A7%2000729%20to%20731%20-%20Omitted.md)

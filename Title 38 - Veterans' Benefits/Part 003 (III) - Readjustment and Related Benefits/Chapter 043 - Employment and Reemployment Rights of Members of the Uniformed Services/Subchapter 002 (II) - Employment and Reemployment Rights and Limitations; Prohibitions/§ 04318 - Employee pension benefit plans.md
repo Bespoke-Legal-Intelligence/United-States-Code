@@ -4,7 +4,7 @@
 
 (B) In the case of benefits under the Thrift Savings Plan, the rights of a person reemployed under this chapter shall be those rights provided in section 8432b of title 5. The first sentence of this subparagraph shall not be construed to affect any other right or benefit under this chapter.
 
-(2)(A) A person reemployed under this chapter shall be treated as not having incurred a breakin service with the employer or employers maintaining the plan by reason of such person's period or periods of service in the uniformed services.
+(2)(A) A person reemployed under this chapter shall be treated as not having incurred a break in service with the employer or employers maintaining the plan by reason of such person's period or periods of service in the uniformed services.
 
 (B) Each period served by a person in the uniformed services shall, upon reemployment under this chapter, be deemed to constitute service with the employer or employers maintaining the plan for the purpose of determining the nonforfeitability of the person's accrued benefits and for the purpose of determining the accrual of benefits under the plan.
 

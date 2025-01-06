@@ -62,7 +62,7 @@ Limitation on Construction of Landfills.—
 
 &emsp;(1)
 
-In general.—No person shall construct or establish a municipal solid waste landfill (as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that the Administrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
+In general.—No person shall construct or establish a municipal solid waste landfill\(as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that the Administrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
 
 &emsp;(2)
 
@@ -86,17 +86,9 @@ Special Rule for Identified Geographic Areas.—In the case of a proposed struct
 
 (h)
 
-Definitions.—In this section, the following definitions apply:
+Definitions.—In this section, the terms "adverse impact on military operations and readiness" and "unacceptable risk to the national security of the United States" have the meaning given those terms in section 183a(h) of title 10.
 
-&emsp;(1)
-
-Adverse impact on military operations and readiness.—The term "adverse impact on military operations and readiness" has the meaning given the term in section 183a(h)(1) of title 10.
-
-&emsp;(2)
-
-Unacceptable risk to the national security of the united states.—The term "unacceptable risk to the national security of the United States" has the meaning given the term in section 183a(h)(7) <sup>1</sup> of title 10.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat. 1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat. 1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371; Pub. L. 118–63, title XI, §1101(m), May 16, 2024, 138 Stat. 1414.)
 
 Historical and Revision Notes
 
@@ -132,9 +124,9 @@ In subsection (b)(1), before clause (A), the word "thoroughly" is omitted as sur
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 106–181, which amended subsec. (d) generally, and which was approved Apr. 5, 2000.
 
-Section 183a(h)(7) of title 10, referred to in subsec. (h)(2), was redesignated as section 183a(h)(9) of title 10 by Pub. L. 116–92, div. A, title III, §371(5)(A), Dec. 20, 2019, 133 Stat. 1329, and subsequently was redesignated as section 183a(h)(11) of title 10 by Pub. L. 118–31, div. A, title III, §362(b)(2), Dec. 22, 2023, 137 Stat. 232.
-
 #### Amendments
+
+<b>2024</b>—Subsec. (h). Pub. L. 118–63 amended subsec. (h) generally. Prior to amendment, subsec. (h) defined "adverse impact on military operations and readiness" and "unacceptable risk to the national security of the United States".
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–254, §539(h)(1), substituted "air or space navigation facilities and equipment" for "air navigation facilities and equipment" in introductory provisions.
 
@@ -180,9 +172,79 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Tower Marking Notice of Proposed Rulemaking
+
+Pub. L. 118–63, title III, §355, May 16, 2024, 138 Stat. 1114, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking to implement section 2110 of the FAA Extension, Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 44718 note).
+
+"(b)
+
+Report.—If the Administrator fails to issue the notice of proposed rulemaking pursuant to subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] an annual report on the status of such rulemaking, including—
+
+&emsp;"(1) the reasons that the Administrator has failed to issue the rulemaking; and
+
+&emsp;"(2) a list of fatal aircraft accidents associated with unmarked towers that have occurred during the 5-year period preceding the date of submission of the report."
+
 #### Rulemaking
 
 Pub. L. 114–248, §1(b), Nov. 28, 2016, 130 Stat. 998, provided that: "Not later than 18 months after the date of enactment of this Act \[Nov. 28, 2016\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking to implement the amendments made by subsection (a) \[amending this section\]."
+
+#### Protection of Safe and Efficient Use of Airspace at Airports
+
+Pub. L. 118–63, title VII, §744, May 16, 2024, 138 Stat. 1281, provided that:
+
+"(a)
+
+Airspace Review Process Requirements.—The Administrator \[of the Federal Aviation Administration\] shall consider the following additional factors in the evaluation of cumulative impacts when making a determination of hazard or no hazard, or objection or no objection, as applicable, under part 77 of title 14, Code of Federal Regulations, regarding proposed construction or alteration within 3 miles of the runway ends and runway centerlines (as depicted in the FAA \[Federal Aviation Administration\]-approved Airport Layout Plan of the airport) on any land not owned by any such airport:
+
+&emsp;"(1) The accumulation and spacing of structures or other obstructions that might constrain radar or communication capabilities, thereby reducing the capacity of an airport, flight procedure minimums or availability, or aircraft takeoff or landing capabilities.
+
+&emsp;"(2) Safety risks of lasers, lights, or light sources, inclusive of lighted billboards and screens, affixed to structures, that may pose hazards to air navigation.
+
+&emsp;"(3) Water features or hazardous wildlife attractants, as defined by the Administrator.
+
+&emsp;"(4) Impacts to visual flight rule traffic patterns for both fixed and rotary wing aircraft, inclusive of special visual flight rule procedures established by Letters of Agreement between air traffic facilities, the airport, and flight operators.
+
+&emsp;"(5) Impacts to FAA-funded airport improvement projects, improvements depicted on or described in FAA-approved Airport Layout Plans and master plans, and preservation of the navigable airspace necessary for achieving the objectives and utilization of the projects and plans.
+
+"(b)
+
+Required Information.—A notice submitted under part 77 of title 14, Code of Federal Regulations, shall include the following:
+
+&emsp;"(1) Actual designs of an entire project and property, without regard to whether a proposed construction or alteration within 3 miles of the end of a runway of an airport and runway centerlines as depicted in the FAA-approved Airport Layout Plan of the airport is limited to a singular location on a property.
+
+&emsp;"(2) If there are any changes to such designs or addition of equipment, such as cranes used to construct a building, after submission of such a notice, all information included with the notice submitted before such change or addition shall be resubmitted, along with information regarding the change or addition.
+
+"(c)
+
+Expiration.—
+
+&emsp;"(1)
+
+In general.—Unless extended, revised, or terminated, each determination of no hazard issued by the Administrator under part 77 of title 14, Code of Federal Regulations, shall expire 18 months after the effective date of the determination, or on the date the proposed construction or alteration is abandoned, whichever is earlier.
+
+&emsp;"(2)
+
+After expiration.—Determinations under paragraph (1) are no longer valid with regard to whether a proposed construction or alteration would be a hazard to air navigation after such determination has expired.
+
+"(d)
+
+Authority to Consolidate OEI Surface Criteria.—The Administrator may develop a single set of One Engine Inoperative surface criteria that is specific to an airport. The Administrator shall consult with the airport operator and flight operators that use such airport, on the development of such surface criteria.
+
+"(e)
+
+Development of Policies to Protect OEI Surfaces.—Not later than 6 months after the date of enactment of this Act \[May 16, 2024\], the Administrator shall brief the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] regarding the status of the efforts of the FAA to protect One Engine Inoperative surfaces from encroachment at United States certificated and federally obligated airports, including the current status of efforts to incorporate such protections into FAA Obstruction Evaluation/Airport Airspace Analysis processes.
+
+"(f)
+
+Authority to Consult With Other Agencies.—The Administrator may consult with other Federal,State, or local agencies as necessary to carry out the requirements of this section.
+
+"(g)
+
+Applicability.—This section shall only apply to an airport in a county adjacent to 2 States with converging intersecting cross runway operations within 12 nautical miles of an Air Force base."
 
 #### Tower Marking
 
@@ -324,7 +386,7 @@ FCC Regulations.—The Federal Communications Commission shall amend section 17.
 
 #### Study of Effects of New Construction of Obstructions on Military Installations and Operations
 
-Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, titleIII, §331, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title X, §1076(b)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title III, §314, Nov. 25, 2015, 129 Stat. 790, related to study of effects of new construction of obstructions on military installations and operations, prior to repeal by Pub. L. 115–91, div. A, title III, §311(b)(1), Dec. 12, 2017, 131 Stat. 1347. See section 183a of Title 10, Armed Forces.
+Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, title III, §331, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title X, §1076(b)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title III, §314, Nov. 25, 2015, 129 Stat. 790, related to study of effects of new construction of obstructions on military installations and operations, prior to repeal by Pub. L. 115–91, div. A, title III, §311(b)(1), Dec. 12, 2017, 131 Stat. 1347. See section 183a of Title 10, Armed Forces.
 
 #### Landfills Interfering With Air Commerce
 
@@ -341,6 +403,4 @@ Pub. L. 106–181, title V, §503(a), Apr. 5, 2000, 114 Stat. 133, provided that
 &emsp;"(5) while certain mileage limits have the potential to be arbitrary, keeping landfills at least 6 miles away from an airport, especially an airport served by small planes, is an appropriate minimum requirement for aviation safety; and
 
 &emsp;"(6) closure of existing landfills (due to concerns about aviation safety) should be avoided because of the likely disruption to those who use and depend on such landfills."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

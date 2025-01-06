@@ -10,7 +10,7 @@ Terms of Reference.—Prior to the initiation of a Nuclear Posture Review under 
 
 (c)
 
-Nuclear Posture Review.—Upon completion of a Nuclear Posture Review under this section, the President shall submit the NuclearPosture Review to the congressional defense committees prior to implementing any change described in subsection (a).
+Nuclear Posture Review.—Upon completion of a Nuclear Posture Review under this section, the President shall submit the Nuclear Posture Review to the congressional defense committees prior to implementing any change described in subsection (a).
 
 (d)
 

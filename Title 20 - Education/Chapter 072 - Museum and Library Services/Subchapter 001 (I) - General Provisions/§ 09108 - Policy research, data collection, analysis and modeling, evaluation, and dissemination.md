@@ -6,7 +6,7 @@ The Director shall regularly support and conduct, as appropriate, policy researc
 
 #### (b) Objectives
 
-The objectives of the policy research, data collection, analysis and modeling, evaluation, and dissemination of information carried out under this section include the following:
+The objectives of the policy research, data collection, analysis and modeling, evaluation, anddissemination of information carried out under this section include the following:
 
 &emsp;(1) To enhance and expand the capacity of museums, libraries, and information services to anticipate, respond to, and meet the evolving needs of communities and the public, including by identifying trends and developments that may impact the need for and delivery of services.
 

@@ -42,7 +42,7 @@ Higher Placement of Officers of Particular Merit on Promotion List.—(1) In sel
 
 (3) For officers who receive recommendations under paragraph (1), the board shall recommend the order in which those officers should be placed on the promotion list.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L.109–364, div. A, title V, §512(b), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §510(a), Dec. 20, 2019, 133 Stat. 1347.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 109–364, div. A, title V, §512(b), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §510(a), Dec. 20, 2019, 133 Stat. 1347.)
 
 #### <b>Editorial Notes</b>
 

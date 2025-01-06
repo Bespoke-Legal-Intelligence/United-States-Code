@@ -112,7 +112,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;&emsp;"(A) the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Armed Services, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on ArmedServices, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;"(2)
 
@@ -364,11 +364,11 @@ Contents.—The diplomatic strategy required by paragraph (1) shall include—
 
 &emsp;&emsp;&emsp;"(ii) has denied access to sites that the International Atomic Energy Agency has sought to inspect during previous 1-year period;
 
-&emsp;&emsp;"(B) a description of any dual-use item (as defined under section 730.3 of title 15, Code of Federal Regulations or listed on the List of Nuclear-Related Dual-Use Equipment, Materials, Software, and Related Technology issued by the Nuclear Suppliers Group or any successor list) the Islamic Republic of Iran is using to further the nuclear weapon, missile, or drone program;
+&emsp;&emsp;"(B) a description of any dual-use item (as defined under section 730.3 of title 15, Code of FederalRegulations or listed on the List of Nuclear-Related Dual-Use Equipment, Materials, Software, and Related Technology issued by the Nuclear Suppliers Group or any successor list) the Islamic Republic of Iran is using to further the nuclear weapon, missile, or drone program;
 
 &emsp;&emsp;"(C) a description of efforts of the United States to counter efforts of the Islamic Republic of Iran to project political and military influence into the Middle East;
 
-&emsp;&emsp;"(D) a description of efforts to address the increased threat that new or evolving uranium enrichment, nuclear weaponization, missile, or drone development activities by the Islamic Republic of Iran pose to United States citizens, the diplomaticpresence of the United States in the Middle East, and the national security interests of the United States;
+&emsp;&emsp;"(D) a description of efforts to address the increased threat that new or evolving uranium enrichment, nuclear weaponization, missile, or drone development activities by the Islamic Republic of Iran pose to United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
 
 &emsp;&emsp;"(E) a description of efforts to address the threat that terrorism by, or sponsored by, the Islamic Republic of Iran poses to United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
 
@@ -452,31 +452,7 @@ Joint plan of action.—The term 'Joint Plan of Action' means the Joint Plan of 
 
 #### Reports on Nuclear Program of Iran
 
-Pub. L. 113–291, div. A, title XII, §1271, Dec. 19, 2014, 128 Stat. 3588, provided that:
-
-"(a)
-
-In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relating to the nuclear program of Iran. Such report shall include—
-
-&emsp;"(1) verification of whether Iran is complying with such agreement; and
-
-&emsp;"(2) an assessment of the overall state of the nuclear program of Iran.
-
-"(b)
-
-Additional Reports.—If the interim agreement described in subsection (a) is renewed or if a comprehensive and final agreement is entered into regarding the nuclear program of Iran, by not later than 90 days after such renewal or final agreement being entered into, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report on such renewed or final agreement. Such report shall include the matters described in paragraphs (1) and (2) of subsection (a).
-
-"(c)
-
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
-
-&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
-
-&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
-
-"(d)
-
-Sunset.—This section shall terminate on the date that is 10 years after the date of the enactment of this Act."
+Pub. L. 113–291, div. A, title XII, §1271, Dec. 19, 2014, 128 Stat. 3588, which required the President to report to Congress on interim agreement related to the nuclear program of Iran, including verification of compliance by Iran and assessment of overall state of Iran's nuclear program, terminated 10 years after Dec. 19, 2014.
 
 #### Countering Iran in the Western Hemisphere
 
@@ -546,7 +522,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;"(3) a description of the relationship of Iran, the IRGC, its Qods Force, and Hezbollah with transnational criminal organizations linked to Iran and other terrorist organizations in the Western Hemisphere, including information on financial networks and trafficking activities;
 
-&emsp;"(4) a description of the relationship of Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere with the governments in theWestern Hemisphere, including military-to-military relations and diplomatic, economic, and security partnerships and agreements;
+&emsp;"(4) a description of the relationship of Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere with the governments in the Western Hemisphere, including military-to-military relations and diplomatic, economic, and security partnerships and agreements;
 
 &emsp;"(5) a description of the Federal law enforcement capabilities, military forces, State and local government institutions, and other critical elements, such as nongovernmental organizations, in the Western Hemisphere that may organize to counter the threat posed by Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere;
 

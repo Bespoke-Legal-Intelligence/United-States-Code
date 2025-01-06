@@ -36,7 +36,7 @@ It is the purpose of this chapter to—
 
 &emsp;(8) provide tangible benefits to the communities in which national service is performed;
 
-&emsp;(9) expand and strengthen service-learning programs through year-round opportunities, including opportunities during the summermonths, to improve the education of children and youth and to maximize the benefits of national and community service, in order to renew the ethic of civic responsibility and the spirit of community for children and youth throughout the United States;
+&emsp;(9) expand and strengthen service-learning programs through year-round opportunities, including opportunities during the summer months, to improve the education of children and youth and to maximize the benefits of national and community service, in order to renew the ethic of civic responsibility and the spirit of community for children and youth throughout the United States;
 
 &emsp;(10) assist in coordinating and strengthening Federal and other service opportunities, including opportunities for participation in emergency and disaster preparedness, relief, and recovery;
 
@@ -114,7 +114,7 @@ Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: "This Act \[e
 
 Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: "This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the 'National and Community Service Act of 1990'."
 
-Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that suchsubtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the "Serve-America: The Community Service, Schools and Service-Learning Act of 1990", was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
+Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the "Serve-America: The Community Service, Schools and Service-Learning Act of 1990", was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
 Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the "Strengthen AmeriCorps Program Act", was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
 
@@ -160,7 +160,7 @@ Provisions in case of early exit.—In any case where an individual serving in a
 
 "(c)
 
-No Required Return of Grant Funds.—Notwithstanding section 129(l)(3)(A)(i) of the National and Community Service Act of 1990 (42 U.S.C. 12581(l)(3)(A)(i)), the Chief Executive Officer of the Corporation for National and Community Service may permit fixed-amount grant recipients under such section 129(l) to maintain a pro rata amount of grant funds, at the discretion of the Corporation for National and Community Service, for participants who exited, were suspended, or are serving in a limited capacity due to COVID–19, to enable the grant recipients to maintain operations and to accept participants.
+No Required Return of Grant Funds.—Notwithstanding section 129(l)(3)(A)(i) of the National and Community Service Act of 1990 (42 U.S.C. 12581(l)(3)(A)(i)), the Chief Executive Officer of the Corporation for National and Community Service may permit fixed-amount grant recipients under such section 129(l) to maintain a pro rata amount of grant funds, atthe discretion of the Corporation for National and Community Service, for participants who exited, were suspended, or are serving in a limited capacity due to COVID–19, to enable the grant recipients to maintain operations and to accept participants.
 
 "(d)
 
@@ -234,7 +234,7 @@ Sec. 3. <i>USA Freedom Corps Council</i>. (a) <i>Establishment and Mission</i>. 
 
 &emsp;(vii) tracking progress in participation in public service programs.
 
-(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer or employee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
+(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below,or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer or employee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
 
 &emsp;(i) Vice President;
 
@@ -280,7 +280,7 @@ Sec. 4. <i>USA Freedom Corps Office</i>. (a) <i>General</i>. The USA Freedom Cor
 
 (b) <i>Presidential Recognition to Participants in USA Freedom Corps Programs</i>. In addition to supporting and facilitating the functions of the Council listed in section 3 of this order, the Office shall support the President in providing recognition to volunteers and other participants in programs and activities relating to the functions and missions of the USA Freedom Corps as described in section 2 of this order.
 
-Sec. 5. <i>General Provisions</i>. (a) The White House Office shall provide the Council and Office with such fundingand administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to the President to carry out the provisions of this order.
+Sec. 5. <i>General Provisions</i>. (a) The White House Office shall provide the Council and Office with such funding and administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to the President to carry out the provisions of this order.
 
 (b) This order does not alter the existing authorities or roles of executive branch departments, agencies, or offices. Nothing in this order shall supersede any requirement made by or under law.
 
@@ -354,7 +354,7 @@ Sec. 4. <i>Management Reforms</i>. (a) The Corporation should implement internal
 
 &emsp;(iv) Management reforms that tie employee performance to fiscal responsibility, attainment of management goals, and professional conduct.
 
-Sec. 5. <i>Report</i>. Within 180 days after the date of this order, the Chief Executive Officer shall report to thePresident, through the Assistant to the President and Director of the USA Freedom Corps Office, the actions the Corporation proposes to undertake to accomplish the objectives set forth in this order.
+Sec. 5. <i>Report</i>. Within 180 days after the date of this order, the Chief Executive Officer shall report to the President, through the Assistant to the President and Director of the USA Freedom Corps Office, the actions the Corporation proposes to undertake to accomplish the objectives set forth in this order.
 
 Sec. 6. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 

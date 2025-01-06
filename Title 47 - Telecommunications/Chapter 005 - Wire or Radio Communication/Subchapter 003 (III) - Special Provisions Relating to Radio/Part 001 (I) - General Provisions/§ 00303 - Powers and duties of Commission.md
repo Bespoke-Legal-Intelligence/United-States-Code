@@ -326,6 +326,78 @@ Pub. L. 101–431, §6, Oct. 15, 1990, 104 Stat. 962, provided that: "The Federa
 
 Pub. L. 100–459, title VI, §608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with section 1464 of Title 18, Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, §16(b), Aug. 26, 1992, 106 Stat. 954.
 
+#### Access to Electromagnetic Spectrum for Commercial Space Launches and Reentries
+
+Pub. L. 118–85, Sept. 26, 2024, 138 Stat. 1546, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Launch Communications Act'.
+
+#### "SEC. 2. ACCESS TO ELECTROMAGNETIC SPECTRUM FOR COMMERCIAL SPACE LAUNCHES AND REENTRIES.
+
+"(a)
+
+Service Rules; Allocation.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Sept. 26, 2024\], the Commission shall—
+
+&emsp;&emsp;"(A) complete any proceeding in effect as of such date of enactment related to the adoption of service rules for access to the frequencies described in subsection (c) for commercial space launches and commercial space reentries, including technical specifications, eligibility requirements, and coordination procedures to preserve the defense capabilities of the United States; and
+
+&emsp;&emsp;"(B) allocate on a secondary basis such frequencies for commercial space launches and commercial space reentries.
+
+&emsp;"(2)
+
+Coordination with national telecommunications and information administration.—The coordination procedures adopted under paragraph (1)(A) shall include requirements for persons conducting commercial space launches and commercial space reentries to coordinate with the Assistant Secretary regarding access to the frequencies described in subsection (c) for commercial space launches and commercial space reentries.
+
+&emsp;"(3)
+
+Limitation.—Access to the frequencies described in subsection (c) in accordance with the service rules adopted under subparagraph (A) of paragraph (1), and the allocation of such frequencies under subparagraph (B) of that paragraph, shall be limited to the use of such frequencies for commercial space launches and commercial space reentries.
+
+"(b)
+
+Streamlining of Process for Granting Authorizations.—Not later than 180 days after the date of the enactment of this Act \[Sept. 26, 2024\], the Commission shall issue new regulations to streamline the process for granting authorizations for access to the frequencies described in subsection (c) for commercial space launches and commercial space reentries so as to provide for—
+
+&emsp;"(1) authorizations that include access to such frequencies for multiple commercial space launches from 1 or more Federal space launch sites and multiple commercial space reentries to 1 or more Federal space reentry sites;
+
+&emsp;"(2) authorizations that include access to such frequencies for multiple commercial space launches from 1 or more private space launch sites and multiple commercial space reentries to 1 or more private space reentry sites, upon successful coordination with any Federal space launch site within a range for access to such frequencies such that such a commercial space launch or commercial space reentry would not cause harmful interference with Federal systems;
+
+&emsp;"(3) authorizations that include access to multiple uses of such frequencies for commercial space launch or commercial space reentry;
+
+&emsp;"(4) electronic filing and processing of applications for authorizations for access to such frequencies for commercial space launches and commercial space reentries; and
+
+&emsp;"(5) improved coordination by the Commission with the Assistant Secretary (who shall coordinate with the head of any other Federal agency, as the Assistant Secretary considers appropriate) to increase the speed of review of applications for authorizations for access to such frequencies for commercial space launches and commercial space reentries, including coordination to increase automation similar to the automation described in the service rules established by the Commission and the Assistant Secretary to promote the development and use, by entities other than the Federal Government, of spectrum in other bands, including bands with the frequencies between 71 and 76 gigahertz, between 81 and 86 gigahertz, and between 92 and 95 gigahertz.
+
+"(c)
+
+Frequencies Described.—The frequencies described in this subsection are the frequencies between 2025 and 2110 megahertz, between 2200 and 2290 megahertz, and between 2360 and 2395 megahertz.
+
+"(d)
+
+Rule of Construction.—Each range of frequencies described in this section shall be construed to be inclusive of the upper and lower frequencies in the range.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Assistant secretary.—The term 'Assistant Secretary' means the Assistant Secretary of Commerce for Communications and Information.
+
+&emsp;"(2)
+
+Commercial space launch.—The term 'commercial space launch' means a launch licensed under chapter 509 of title 51, United States Code.
+
+&emsp;"(3)
+
+Commercial space reentry.—The term 'commercial space reentry' means a reentry licensed under chapter 509 of title 51, United States Code.
+
+&emsp;"(4)
+
+Commission.—The term 'Commission' means the Federal Communications Commission."
+
 #### Authorization of Use of Automatic Identification Systems Devices To Mark Fishing Equipment
 
 Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8416, Jan. 1, 2021, 134 Stat. 4727, provided that:
@@ -350,7 +422,7 @@ Rulemaking Required.—Not later than 180 days after the date of enactment of th
 
 "(c)
 
-Considerations.—In conducting the rulemaking under subsection (b), the Commission shall consider whether imposing requirements with respect to the manner in which Automatic Identification System devices are deployed and used would enable the authorization of covered devices to operate in radio frequencies assigned for Automatic Identification System stations consistent with the core purpose of the Automatic Identification System to prevent maritime accidents."
+Considerations.—In conducting the rulemaking under subsection (b), the Commission shall consider whether imposing requirements with respect to themanner in which Automatic Identification System devices are deployed and used would enable the authorization of covered devices to operate in radio frequencies assigned for Automatic Identification System stations consistent with the core purpose of the Automatic Identification System to prevent maritime accidents."
 
 #### Local Community Radio
 
@@ -498,7 +570,7 @@ Applicable caps.—The Commission shall revise section 73.3555(a) of its regulat
 
 &emsp;&emsp;"(C) in a radio market with between 15 and 29 (inclusive) commercial radio stations, a party may own, operate, or control up to 6 commercial radio stations, not more than 4 of which are in the same service (AM or FM); and
 
-&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not morethan 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
+&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not more than 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
 
 &emsp;"(2)
 
@@ -534,7 +606,7 @@ Relaxation of One-To-A-Market.—With respect to its enforcement of its one-to-a
 
 "(e)
 
-Dual Network Changes.—The Commission shall revise section 73.658(g) of its regulations (47 C.F.R. 658(g)) to permit a television broadcast station to affiliate with a person or entity that maintains 2 or more networks of television broadcast stations unless such dual or multiple networks are composed of—
+Dual Network Changes.—The Commission shall revise section 73.658(g) of its regulations (47 C.F.R.658(g)) to permit a television broadcast station to affiliate with a person or entity that maintains 2 or more networks of television broadcast stations unless such dual or multiple networks are composed of—
 
 &emsp;"(1) two or more persons or entities that, on the date of enactment of the Telecommunications Act of 1996 \[Feb. 8, 1996\], are 'networks' as defined in section 73.3613(a)(1) of the Commission's regulations (47 C.F.R. 73.3613(a)(1)); or
 

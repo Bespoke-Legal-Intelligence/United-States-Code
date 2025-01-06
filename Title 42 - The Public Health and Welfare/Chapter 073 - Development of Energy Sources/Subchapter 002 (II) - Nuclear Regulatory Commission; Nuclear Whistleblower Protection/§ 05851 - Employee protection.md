@@ -84,7 +84,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 #### (j) Investigation of allegations
 
-(1) The Commission or the Department of Energy shall not delay taking appropriate action with respect to an allegation of a substantial safety hazard on the basis of—
+(1) The Commission or the Department of Energy shall not delay taking appropriate actionwith respect to an allegation of a substantial safety hazard on the basis of—
 
 &emsp;(A) the filing of a complaint under subsection (b)(1) of this section arising from such allegation; or
 
@@ -98,7 +98,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (g), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (g), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 

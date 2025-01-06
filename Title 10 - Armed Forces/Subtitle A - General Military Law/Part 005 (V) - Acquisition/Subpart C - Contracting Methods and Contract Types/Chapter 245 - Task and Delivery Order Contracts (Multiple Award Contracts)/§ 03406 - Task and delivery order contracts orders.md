@@ -50,7 +50,7 @@ Protests.—(1) A protest is not authorized in connection with the issuance or p
 
 &emsp;(A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
 
-&emsp;(B) a protest of an order valued in excess of $25,000,000.
+&emsp;(B) a protest of an order valued in excess of $35,000,000.
 
 (2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
@@ -78,7 +78,7 @@ Qualification-based selections required.—Task or delivery orders for architect
 
 Multiple award contracts.—When issuing a task or delivery order for architectural and engineering services under a multiple award contract, the head of an agency may not routinely request additional information relating to qualifications from the contractor for such multiple award contract.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252, §2304c; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, §830, Jan. 2, 2013, 126 Stat. 1842; Pub. L. 114–328, div. A, title VIII, §§825(b), 835(a), Dec. 23, 2016, 130 Stat. 2280, 2285; renumbered §3406 and amended Pub. L. 116–283, div. A, title XVIII, §1820(e), Jan. 1, 2021, 134 Stat. 4194; Pub. L. 117–263, div. A, title VIII, §802, Dec. 23, 2022, 136 Stat. 2693.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252, §2304c; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, §830, Jan. 2, 2013, 126 Stat. 1842; Pub. L. 114–328, div. A, title VIII, §§825(b), 835(a), Dec. 23, 2016, 130 Stat. 2280, 2285; renumbered §3406 and amended Pub. L. 116–283, div. A, title XVIII, §1820(e), Jan. 1, 2021, 134 Stat. 4194; Pub. L. 117–263, div. A, title VIII, §802, Dec. 23, 2022, 136 Stat. 2693; Pub. L. 118–159, div. A, title VIII, §885(f), Dec. 23, 2024, 138 Stat. 2022.)
 
 #### <b>Editorial Notes</b>
 
@@ -112,6 +112,8 @@ A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for s
 
 #### Amendments
 
+<b>2024</b>—Subsec. (f)(1)(B). Pub. L. 118–159 substituted "$35,000,000" for "$25,000,000".
+
 <b>2022</b>—Subsec. (h). Pub. L. 117–263 added subsec. (h).
 
 <b>2021</b>—Pub. L. 116–283, §1820(e)(1), (2), renumbered section 2304c of this title as this section, redesignated subsecs. (g), (a), (b), (c), (e), and (f) as (a), (b), (c), (e), (f), and (g), respectively, and reordered subsecs. accordingly.
@@ -120,7 +122,7 @@ Subsec. (a). Pub. L. 116–283, §1820(e)(3), substituted "sections 3403 and 340
 
 Subsec. (b)(2). Pub. L. 116–283, §1820(e)(4), substituted "subsection (c)" for "subsection (b)" and "section 3204(e)" for "section 2304(f)".
 
-Subsec. (c). Pub. L. 116–283, §1820(e)(5)(A), which directed substitution of "section 3403(d)(1)(B) or 3405(f)" for "section 2304a(d)(1) or 2304b(c)", was executed bymaking the substitution for "section 2304a(d)(1)(B) or 2304b(e)" in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 116–283, §1820(e)(5)(A), which directed substitution of "section 3403(d)(1)(B) or 3405(f)" for "section 2304a(d)(1) or 2304b(c)", was executed by making the substitution for "section 2304a(d)(1)(B) or 2304b(e)" in introductory provisions, to reflect the probable intent of Congress.
 
 Subsec. (c)(5). Pub. L. 116–283, §1820(e)(5)(B), substituted "section 3204(a)" for "section 2304(c)".
 

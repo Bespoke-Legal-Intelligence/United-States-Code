@@ -10,7 +10,7 @@ The Advisory Committee shall consist of members, appointed by the President, who
 
 #### (c) Membership consideration
 
-In selecting the members of the Advisory Committee, the President may seek and giveconsideration to recommendations from the Congress, industry, the scientific community (including the National Academy of Sciences, scientific professional societies, and universities), the defense community, and other appropriate organizations.
+In selecting the members of the Advisory Committee, the President may seek and give consideration to recommendations from the Congress, industry, the scientific community (including the National Academy of Sciences, scientific professional societies, and universities), the defense community, and other appropriate organizations.
 
 #### (d) Duties
 
@@ -80,7 +80,7 @@ Section 1. <i>Purpose</i>. Quantum information science (QIS) can enable transfor
 
 Sec. 2. <i>Establishment</i>. (a) To ensure that the NQI Program and the Nation are informed by evidence, data, and perspectives from a diverse group of experts and stakeholders, the National Quantum Initiative Advisory Committee (Committee) is hereby established. Consistent with the NQI Act \[15 U.S.C. 8801 et seq.\], the Committee shall advise the President, the SCQIS, and the ESIX on the NQI Program.
 
-(b) The Committee shall consist of the Director of the Office of Science and Technology Policy (Director) orthe Director's designee and not more than 26 members, appointed by the President, who are United States citizens representative of industry, universities, and Federal laboratories, and who are qualified to provide advice and information on QIS and technology research, development, demonstrations, standards, education, technology transfer, commercial application, or national security and economic concerns.
+(b) The Committee shall consist of the Director of the Office of Science and Technology Policy (Director) or the Director's designee and not more than 26 members, appointed by the President, who are United States citizens representative of industry, universities, and Federal laboratories, and who are qualified to provide advice and information on QIS and technology research, development, demonstrations, standards, education, technology transfer, commercial application, or national security and economic concerns.
 
 (c) The Committee shall have two Co-Chairs. The Director or the Director's designee shall serve as one Co-Chair of the Committee. The President shall designate another Co-Chair from among the appointed members to serve as Co-Chair with the Director.
 

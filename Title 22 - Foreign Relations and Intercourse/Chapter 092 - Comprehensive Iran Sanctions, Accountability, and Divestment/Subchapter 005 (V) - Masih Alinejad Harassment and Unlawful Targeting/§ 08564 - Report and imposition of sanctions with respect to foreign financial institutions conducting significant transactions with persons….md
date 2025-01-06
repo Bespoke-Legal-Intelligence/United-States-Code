@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-Not earlier than 30 days and not later than 60 days after the Secretary of State submits to theappropriate congressional committees a report required by section 8563(a) of this title, the Secretary of the Treasury, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report that identifies any foreign financial institution that knowingly conducts a significant transaction with a foreign person identified in the report submitted under section 8563(a) of this title on or after the date on which the foreign person is identified in that report.
+Not earlier than 30 days and not later than 60 days after the Secretary of State submits to the appropriate congressional committees a report required by section 8563(a) of this title, the Secretary of the Treasury, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report that identifies any foreign financial institution that knowingly conducts a significant transaction with a foreign person identified in the report submitted under section 8563(a) of this title on or after the date on which the foreign person is identified in that report.
 
 #### (b) Imposition of sanctions
 

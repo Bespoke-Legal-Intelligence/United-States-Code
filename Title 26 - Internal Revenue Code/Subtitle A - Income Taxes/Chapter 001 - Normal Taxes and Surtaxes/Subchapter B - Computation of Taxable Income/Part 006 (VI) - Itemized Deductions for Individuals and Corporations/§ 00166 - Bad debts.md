@@ -8,7 +8,7 @@
 
 #### (2) Partially worthless debts
 
-&emsp;When satisfied that a debt is recoverable only in part, the Secretary may allow suchdebt, in an amount not in excess of the part charged off within the taxable year, as a deduction.
+&emsp;When satisfied that a debt is recoverable only in part, the Secretary may allow such debt, in an amount not in excess of the part charged off within the taxable year, as a deduction.
 
 #### (b) Amount of deduction
 
@@ -106,7 +106,7 @@ Change in method of accounting.—In the case of any taxpayer who maintained a r
 
 &emsp;"(C) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 to be taken into account by the taxpayer shall—
 
-&emsp;&emsp;"(i) in the case of a taxpayer maintaining a reserve under section 166(f), be reduced by the balancein the suspense account under section 166(f)(4) of such Code as of the close of such last taxable year, and
+&emsp;&emsp;"(i) in the case of a taxpayer maintaining a reserve under section 166(f), be reduced by the balance in the suspense account under section 166(f)(4) of such Code as of the close of such last taxable year, and
 
 &emsp;&emsp;"(ii) be taken into account ratably in each of the first 4 taxable years beginning after December 31, 1986."
 

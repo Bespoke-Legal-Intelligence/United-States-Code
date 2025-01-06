@@ -28,7 +28,7 @@ Eligible Activities.—(1) A corridor planning activity is eligible for financia
 
 &emsp;(I) preliminary engineering and design;
 
-&emsp;(J) identification of specific improvements to a corridor, including electrification, line straightening and other right-of-way improvements, bridge rehabilitation and replacement, use of advanced locomotives and rolling stock, ticketing, coordination with other modes of transportation, parking and other means of passenger access, track, signal, station, and other capital work, and use of intermodal terminals;
+&emsp;(J) identification of specific improvements to a corridor, including electrification, line straightening and other right-of-way improvements, bridge rehabilitation and replacement, use of advanced locomotives and rolling stock, ticketing, coordination with other modes of transportation, parking and other means ofpassenger access, track, signal, station, and other capital work, and use of intermodal terminals;
 
 &emsp;(K) preparation of financing plans and prospectuses;
 
@@ -132,7 +132,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(6) the private sector should participate in funding the development of high-speed rail systems;
 
-&emsp;"(7) in some intercity corridors, Federal planning assistance may be required to supplement the funding commitments of State and local governments and the private sector to ensure the adequate planning, including reasonable estimates of the costs and benefits, of high-speed rail systems;
+&emsp;"(7) in some intercity corridors, Federal planning assistance may be required to supplement the funding commitments of State and local governments and theprivate sector to ensure the adequate planning, including reasonable estimates of the costs and benefits, of high-speed rail systems;
 
 &emsp;"(8) improvement of existing technologies can facilitate the development of high-speed rail systems in the United States; and
 

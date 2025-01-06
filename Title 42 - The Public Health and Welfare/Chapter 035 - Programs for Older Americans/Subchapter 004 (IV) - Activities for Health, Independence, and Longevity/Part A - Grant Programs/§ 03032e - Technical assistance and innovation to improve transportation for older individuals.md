@@ -8,7 +8,7 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 #### (1) In general
 
-&emsp;A nonprofit organization receiving a grant or contract under subsection (a) shall use thefunds received through such grant or contract to carry out a demonstration project, or to provide technical assistance to assist local transit providers, area agencies on aging, senior centers, and local senior support groups, to encourage and facilitate coordination of Federal, State, and local transportation services and resources for older individuals. The organization may use the funds to develop and carry out an innovative transportation demonstration project to create transportation services for older individuals.
+&emsp;A nonprofit organization receiving a grant or contract under subsection (a) shall use the funds received through such grant or contract to carry out a demonstration project, or to provide technical assistance to assist local transit providers, area agencies on aging, senior centers, and local senior support groups, to encourage and facilitate coordination of Federal, State, and local transportation services and resources for older individuals. The organization may use the funds to develop and carry out an innovative transportation demonstration project to create transportation services for older individuals.
 
 #### (2) Specific activities
 
@@ -36,7 +36,7 @@ In this section, the term "economically sustainable transportation" means demand
 
 &emsp;(1) that may be provided through volunteers; and
 
-&emsp;(2) that the provider will provide without receiving Federal or other public financial assistance, after a period of not more than 5 years of providing the services under this section.
+&emsp;(2) that the provider will provide without receiving Federal or other public financial assistance, after a period of not more than 5years of providing the services under this section.
 
 (Pub. L. 89–73, title IV, §416, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §405, Oct. 17, 2006, 120 Stat. 2554; Pub. L. 116–131, title III, §305, Mar. 25, 2020, 134 Stat. 263.)
 

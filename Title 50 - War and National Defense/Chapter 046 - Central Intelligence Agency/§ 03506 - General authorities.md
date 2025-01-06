@@ -8,7 +8,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(2) Exchange funds without regard to section 3651 of the Revised Statutes;
 
-&emsp;(3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions of law to the contrary, so to assign or detail any officer or employee for duty with the Agency;
+&emsp;(3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions oflaw to the contrary, so to assign or detail any officer or employee for duty with the Agency;
 
 &emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of—
 
@@ -110,7 +110,7 @@ Subsec. (a)(4). Pub. L. 111–259, §421, substituted "the protection of current
 
 <b>2000</b>—Pub. L. 106–567 added subsec. (a) and (b) headings and subsec. (c).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted "paragraphs (2) and (3) of section 403(a)" for"subparagraphs (B) and (C) of section 403(a)(2)" and "(c)(6)" for "(c)(5)" and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted "paragraphs (2) and (3) of section 403(a)" for "subparagraphs (B) and (C) of section 403(a)(2)" and "(c)(6)" for "(c)(5)" and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
 
 Subsec. (a)(4). Pub. L. 105–272, §401, substituted "and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families," for "and the protection of Agency personnel and of defectors, their families,".
 
@@ -170,9 +170,11 @@ Historical Advisory Panel Defined.—The term 'Historical Advisory Panel' means 
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 117–328, div. C, title VIII, §8051(b), Dec. 29, 2022, 136 Stat. 4599, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 118–47, div. A, title VIII, §8050(b), Mar. 23, 2024, 138 Stat. 496, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. C, title VIII, §8051(b), Dec. 29, 2022, 136 Stat. 4599.
 
 Pub. L. 117–103, div. C, title VIII, §8052(b), Mar. 15, 2022, 136 Stat. 188.
 

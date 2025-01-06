@@ -1,6 +1,6 @@
 ### §19236. Nondiscrimination
 
-In carrying out requirements under this part, each Federal research agency shall ensure that policies and activities developed and implemented pursuant to this part are carried out in a manner that does not target, stigmatize, or discriminate against individuals on the basis of race, ethnicity, or national origin, consistent with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+In carrying out requirements under this part, each Federal research agency shall ensure that policies and activities developed and implemented pursuant to this part are carried out ina manner that does not target, stigmatize, or discriminate against individuals on the basis of race, ethnicity, or national origin, consistent with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 
 (Pub. L. 117–167, div. B, title VI, §10637, Aug. 9, 2022, 136 Stat. 1669.)
 

@@ -17,7 +17,7 @@
 | [280a.](%C2%A7%2000280a%20-%20Land%20in%20Alaska%20for%20schools%20or%20missions%3B%20general%20land%20laws.md) | Land in Alaska for schools or missions; general land laws. |
 | [281\.](%C2%A7%2000281%20-%20Children%20taking%20lands%20in%20severalty%20not%20excluded.md) | Children taking lands in severalty not excluded. |
 | [282\.](%C2%A7%2000282%20-%20Regulations%20by%20Secretary%20of%20the%20Interior%20to%20secure%20attendance%20at%20school.md) | Regulations by Secretary of the Interior to secure attendance at school. |
-| 283 to 285. | Repealed or Omitted. |
+| 283 to 285. Repealed or Omitted. |  |
 | [286\.](%C2%A7%2000286%20-%20Sending%20child%20to%20school%20out%20of%20State%20without%20consent.md) | Sending child to school out of State without consent. |
 | [287\.](%C2%A7%2000287%20-%20Taking%20child%20to%20school%20in%20another%20State%20without%20written%20consent.md) | Taking child to school in another State without written consent. |
 | 288, 289. | Repealed. |

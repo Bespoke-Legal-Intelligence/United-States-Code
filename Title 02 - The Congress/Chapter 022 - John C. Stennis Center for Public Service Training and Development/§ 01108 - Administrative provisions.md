@@ -28,7 +28,7 @@ In order to carry out the provisions of this chapter, the Center may—
 
 #### (b) Omitted
 
-(Pub. L. 100–458, title I, §119, Oct. 1, 1988, 102 Stat. 2176; Pub. L. 101–163, title III, §320, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 101–520, title III, §313(c), Nov. 5, 1990, 104 Stat. 2282.)
+(Pub. L. 100–458, title I, §119, Oct. 1, 1988, 102 Stat. 2176; Pub. L. 101–163, title III, §320, Nov. 21,1989, 103 Stat. 1068; Pub. L. 101–520, title III, §313(c), Nov. 5, 1990, 104 Stat. 2282.)
 
 #### <b>Editorial Notes</b>
 

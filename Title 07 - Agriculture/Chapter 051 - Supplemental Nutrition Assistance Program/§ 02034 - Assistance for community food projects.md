@@ -62,7 +62,7 @@ To be eligible for a grant under subsection (b), a public food program service p
 
 &emsp;(1) have experience in the area of—
 
-&emsp;&emsp;(A) community food work, particularly concerning small and medium-sized farms, including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers;
+&emsp;&emsp;(A) community food work, particularly concerning small and medium-sized farms,including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers;
 
 &emsp;&emsp;(B) job training and business development activities for food-related activities in low-income communities; or
 
@@ -154,7 +154,7 @@ House Concurrent Resolution 302, referred to in subsec. (a)(3), is H. Con. Res. 
 
 #### Codification
 
-Section 4406(a)(7) of Pub. L. 110–246 directed amendment of section 25 of the "Food and Nutrition Act of 2008" which is classified to this section. Pub. L. 110–380, which directed amendment of section 4406(a)(7) of the "Food, Conservation, and Energy Act of 2008 (Public Law 110–234; 122 Stat. 2902)" by striking "Food and Nutrition Act of 2008" and inserting "Food Stamp Act of 1977" was treated as intending to amend section 4406(a)(7) of Pub. L. 110–246 which was identical to section 4406(a)(7) of Pub. L. 110–234. However, since the amendment by Pub. L. 110–380 was effective Oct. 8, 2008, and the amendment by section 4406(a)(7) of Pub. L. 110–246 was effective Oct. 1, 2008, Pub. L. 110–380 had no effect on the execution of the amendment by section 4406(a)(7) of Pub. L. 110–246 to this section.
+Section 4406(a)(7) of Pub. L. 110–246 directed amendment of section 25 of the "Food and Nutrition Act of 2008" which is classified to this section. Pub. L. 110–380, which directed amendment of section 4406(a)(7) of the "Food, Conservation, and Energy Act of 2008 (Public Law 110–234; 122 Stat. 2902)" by striking "Food and Nutrition Act of 2008" and inserting "Food Stamp Act of 1977" was treated as intending to amend section4406(a)(7) of Pub. L. 110–246 which was identical to section 4406(a)(7) of Pub. L. 110–234. However, since the amendment by Pub. L. 110–380 was effective Oct. 8, 2008, and the amendment by section 4406(a)(7) of Pub. L. 110–246 was effective Oct. 1, 2008, Pub. L. 110–380 had no effect on the execution of the amendment by section 4406(a)(7) of Pub. L. 110–246 to this section.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

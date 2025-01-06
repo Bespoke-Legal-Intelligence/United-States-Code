@@ -1,6 +1,6 @@
 ### §4802. Council established
 
-There is established the Competitiveness Policy Council (hereafter in this chapter referred toas the "Council"), an advisory committee under the provisions of chapter 10 of title 5.
+There is established the Competitiveness Policy Council (hereafter in this chapter referred to as the "Council"), an advisory committee under the provisions of chapter 10 of title 5.
 
 (Pub. L. 100–418, title V, §5203, Aug. 23, 1988, 102 Stat. 1456; Pub. L. 117–286, §4(a)(73), Dec. 27, 2022, 136 Stat. 4313.)
 

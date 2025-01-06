@@ -2,7 +2,7 @@
 
 (a) There is hereby established within the Bureau of Prisons a National Institute of Corrections.
 
-(b) The overall policy and operations of the National Institute of Corrections shall be under the supervision of an Advisory Board. The Boardshall consist of sixteen members. The following six individuals shall serve as members of the Commission ex officio: the Director of the Federal Bureau of Prisons or his designee, the Director of the Bureau of Justice Assistance or his designee, Chairman of the United States Sentencing Commission or his designee, the Director of the Federal Judicial Center or his designee, the Associate Administrator for the Office of Juvenile Justice and Delinquency Prevention <sup>2</sup> or his designee, and the Assistant Secretary for Human Development of the Department of Health, Education, and Welfare or his designee.
+(b) The overall policy and operations of the National Institute of Corrections shall be under the supervision of an Advisory Board. The Board shall consist of sixteen members. The following six individuals shall serve as members of the Commission ex officio: the Director of the Federal Bureau of Prisons or his designee, the Director of the Bureau of Justice Assistance or his designee, Chairman of the United States Sentencing Commission or his designee, the Director of the Federal Judicial Center or his designee, the Associate Administrator for the Office of Juvenile Justice and Delinquency Prevention <sup>2</sup> or his designee, and the Assistant Secretary for Human Development of the Department of Health, Education, and Welfare or his designee.
 
 (c) The remaining ten members of the Board shall be selected as follows:
 
@@ -26,7 +26,7 @@
 
 #### References in Text
 
-The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec. (b), as originally created by section 11111 of Title 34, Crime Control and Law Enforcement, was headed by an Associate Administrator. However, section 11111 of Title 34, as amended by Pub. L. 98–473, establishes the Office of Juvenile Justice and Delinquency Prevention, headed by an Administrator.
+The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec. (b), as originally created by section 11111 of Title 34, Crime Control and Law Enforcement, was headed by an Associate Administrator.However, section 11111 of Title 34, as amended by Pub. L. 98–473, establishes the Office of Juvenile Justice and Delinquency Prevention, headed by an Administrator.
 
 #### Amendments
 
@@ -40,7 +40,7 @@ The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec
 
 #### Change of Name
 
-Department of Health, Education, and Welfare redesignated Department of Health and Human Services byPub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Department of Health, Education, and Welfare redesignated Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1984 Amendment
 

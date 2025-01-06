@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defense may enter into international defense personnel exchange agreements. Any exchange of personnel under such an agreement is subject to paragraph (3).
+Authority To Enter Into International Exchange Agreements.—(1) The Secretary ofDefense may enter into international defense personnel exchange agreements. Any exchange of personnel under such an agreement is subject to paragraph (3).
 
 (2) For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of a friendly foreign country or international or regional security organization for the reciprocal or non-reciprocal exchange of—
 
@@ -82,9 +82,233 @@ Subsec. (f). Pub. L. 114–328, §1242(b)(4), inserted "defense or security mini
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Key Partners for Middle East Regional Integration Military Subject Matter Expert Exchange Program
+
+Pub. L. 118–159, div. A, title XII, §1221, Dec. 23, 2024, 138 Stat. 2101, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, using existing authorities, including section 311 of title 10, United States Code, as applicable, and in consultation with the Secretary of State and the head of any other Federal agency the Secretary of Defense determines appropriate, shall design and implement a foreign military officer subject matter expert exchange program to be known as the 'Middle East Regional Integration Military Subject Matter Expert Exchange Program' (referred to in this section as the 'exchange program').
+
+"(b)
+
+Purpose.—The purpose of the exchange program shall be to facilitate interaction, cultural exchange, and mutual learning of members of participating militaries in support of Middle East regional integration in order to deepen and expand such integration.
+
+"(c)
+
+Membership.—
+
+&emsp;"(1)
+
+Composition.—The exchange program shall be composed of members of the armed forces of participating militaries in support of Middle East regional integration and members of the Armed Forces of the United States.
+
+&emsp;"(2)
+
+Subject matter.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense shall select exchange program participants with a wide range of experiences collectively covering the tactical, operational, and strategic levels.
+
+&emsp;&emsp;"(B)
+
+Participant pay grade levels.—The Secretary of Defense shall include in the exchange program participants at each of the following military pay grades, or equivalent foreign military pay grades:
+
+&emsp;&emsp;&emsp;"(i) E–7 through E–⁠9.
+
+&emsp;&emsp;&emsp;"(ii) CW–3 through CW–⁠5.
+
+&emsp;&emsp;&emsp;"(iii) O–3 through O–9.
+
+&emsp;&emsp;&emsp;"(iv) Such other pay grade levels at the discretion of the Secretary of Defense.
+
+&emsp;&emsp;"(C)
+
+Expertise.—Each participant in the exchange program shall have expertise in one or more of the following subject matter areas:
+
+&emsp;&emsp;&emsp;"(i) Strategic doctrine.
+
+&emsp;&emsp;&emsp;"(ii) Defense planning.
+
+&emsp;&emsp;&emsp;"(iii) Civilian and military relations.
+
+&emsp;&emsp;&emsp;"(iv) Military law.
+
+&emsp;&emsp;&emsp;"(v) Public affairs.
+
+&emsp;&emsp;&emsp;"(vi) Civil affairs.
+
+&emsp;&emsp;&emsp;"(vii) Military budgeting and acquisitions.
+
+&emsp;&emsp;&emsp;"(viii) Integrated air and missile defense.
+
+&emsp;&emsp;&emsp;"(ix) Integrated maritime domain awareness and interdiction.
+
+&emsp;&emsp;&emsp;"(x) Cyber resilience and defense.
+
+&emsp;&emsp;&emsp;"(xi) Counterterrorism.
+
+&emsp;&emsp;&emsp;"(xii) Defense information sharing.
+
+&emsp;&emsp;&emsp;"(xiii) Any other subject matter area that the Secretary of Defense determines to be appropriate.
+
+"(d)
+
+Exchange Program Content.—The exchange program—
+
+&emsp;"(1) shall include learning modalities and methods, as determined by the Exchange Program Coordinator;
+
+&emsp;"(2) may include separate agendas and experiences for participants in order to—
+
+&emsp;&emsp;"(A) facilitate interaction on particular topics;
+
+&emsp;&emsp;"(B) cater to participant backgrounds or rank levels; or
+
+&emsp;&emsp;"(C) achieve other pedagogical ends as determined by the Exchange Program Coordinator; and
+
+&emsp;"(3) may include discussion, comparison, and information regarding the development of—
+
+&emsp;&emsp;"(A) defense doctrine;
+
+&emsp;&emsp;"(B) exercise development;
+
+&emsp;&emsp;"(C) budget planning;
+
+&emsp;&emsp;"(D) military law and law of armed conflict;
+
+&emsp;&emsp;"(E) military cooperation with civilian agencies;
+
+&emsp;&emsp;"(F) standard operating procedures;
+
+&emsp;&emsp;"(G) operational plans and the operational art;
+
+&emsp;&emsp;"(H) gaps and opportunities for improvement in existing procedures and plans;
+
+&emsp;&emsp;"(I) existing technical challenges;
+
+&emsp;&emsp;"(J) emerging technical challenges;
+
+&emsp;&emsp;"(K) the current and future threat environment;
+
+&emsp;&emsp;"(L) trust and capacity for multilateral sharing of information;
+
+&emsp;&emsp;"(M) additional mechanisms and ideas for integrated cooperation;
+
+&emsp;&emsp;"(N) ways to promote the meaningful participation of women in matters of peace and security; and
+
+&emsp;&emsp;"(O) other content, as appropriate, developed to advance integration and tactical, operational, and strategic proficiency.
+
+"(e)
+
+Meetings.—Participants in the exchange program shall meet in person not less frequently than quarterly.
+
+"(f)
+
+Exchange Program Coordinator.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall designate an Exchange Program Coordinator, who shall be assigned to a Department of Defense School, to oversee the exchange program.
+
+&emsp;"(2)
+
+Duties.—The Exchange Program Coordinator shall—
+
+&emsp;&emsp;"(A) design the exchange program;
+
+&emsp;&emsp;"(B) ensure that the exchange program complies with the requirements of this section;
+
+&emsp;&emsp;"(C) provide to the Secretary of Defense reports on developments, insights, and progress of the exchange program; and
+
+&emsp;&emsp;"(D) notify the Secretary of Defense of any failure of the exchange program to comply with the in-person requirements of subsection (e).
+
+&emsp;"(3)
+
+Notification to congress.—Not later than 15 days after receiving a notification under paragraph (2)(D), the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing—
+
+&emsp;&emsp;"(A) the reasons an in-person meeting did not occur during such quarter; and
+
+&emsp;&emsp;"(B) any measures taken to ensure that an in-person meeting occurs during the following quarter.
+
+"(g)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 23, 2024\], and annually thereafter for 5 years, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report that includes—
+
+&emsp;&emsp;"(A) a summary of the activities of the exchange program during the prior year, including—
+
+&emsp;&emsp;&emsp;"(i) the countries participating;
+
+&emsp;&emsp;&emsp;"(ii) the subject matter covered;
+
+&emsp;&emsp;&emsp;"(iii) developments, insights, and progress achieved through the program; and
+
+&emsp;&emsp;&emsp;"(iv) any new topics added to the exchange as well as a justification for adding the new topic;
+
+&emsp;&emsp;"(B) an assessment of the effectiveness of the exchange program; and
+
+&emsp;&emsp;"(C) recommendations on further improvements to the exchange program.
+
+&emsp;"(2)
+
+Form.—The report required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Department of defense school.—The term 'Department of Defense school' means any institution listed in section 1595(c) or section 2162(d) of title 10, United States Code.
+
+&emsp;"(2)
+
+Participating militaries in support of middle east regional integration.—The term 'participating militaries in support of Middle East regional integration' means military allies and partner forces of the United States working to advance regional integration in the Middle East."
+
+#### Indo-Pacific Extended Deterrence Education Pilot Program
+
+Pub. L. 118–159, div. A, title XIII, §1314, Dec. 23, 2024, 138 Stat. 2113, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Defense, using the authorities provided in chapter 16 of title 10,United States Code, and other applicable statutory authorities available to the Secretary, may establish a pilot program, including an international defense personnel exchange program, to support the education of covered personnel in—
+
+&emsp;"(1) matters relating to nuclear deterrence, nuclear strategy, and nuclear defense strategy; and
+
+&emsp;"(2) any other matter the Secretary considers important to strengthening extended nuclear deterrence of—
+
+&emsp;&emsp;"(A) threats to United States allies posed by major-power competitors; and
+
+&emsp;&emsp;"(B) any other persistent nuclear threat identified in the 2022 National Defense Strategy published pursuant to section 113(g) of title 10, United States Code.
+
+"(b)
+
+Institutional Partnership.—The Secretary may enter into an agreement with an existing university-affiliated research center or an institution of higher education with recognized subject matter expertise in nuclear deterrence and related matters, and demonstrated relevant experience, for the purpose of developing a curriculum to reinforce extended deterrence through education of covered personnel in deterrence, nuclear strategy, conventional-nuclear integration, command and control, and related matters.
+
+"(c)
+
+Termination Date.—The authority of the Secretary to carry out the pilot program under this section shall terminate on December 31, 2027.
+
+"(d)
+
+Covered Personnel Defined.—In this section, the term 'covered personnel' means—
+
+&emsp;"(1) an employee of the Department of Foreign Affairs and Trade, the Department of Defence, or equivalent component of the Government of Australia;
+
+&emsp;"(2) an employee of the Ministry of Foreign Affairs, the Ministry of Defense, or equivalent component of the Government of Japan;
+
+&emsp;"(3) an employee of the Ministry of Foreign Affairs, the Ministry of National Defense, or equivalent component of the Government of the Republic of Korea;
+
+&emsp;"(4) a member of the military forces of Australia, Japan, or the Republic of Korea; and
+
+&emsp;"(5) any other official of the Government of Australia, the Government of Japan, or the Government of the Republic of Korea the Secretary considers important to the extended deterrence relationship with the United States."
+
 #### Defense Operational Resilience International Cooperation Pilot Program
 
-Pub. L. 117–263, div. A, title XII, §1212, Dec. 23, 2022, 136 Stat. 2834, as amended by Pub. L. 118–31, div. A, title XII, §1226, Dec. 22, 2023, 137 Stat. 455, provided that:
+Pub. L. 117–263, div. A, title XII, §1212, Dec. 23, 2022, 136 Stat. 2834, as amended by Pub. L. 118–31, div. A, title XII, §1226, Dec. 22, 2023, 137 Stat. 455; Pub. L. 118–159, div. A, title XII, §1207, Dec. 23, 2024, 138 Stat. 2095, provided that:
 
 "(a)
 
@@ -92,7 +316,7 @@ Establishment.—The Secretary of Defense, in consultation with the Secretary of
 
 "(b)
 
-Duration.—The Secretary of Defense may carry out the pilot program during the period beginning on the date of the enactment of this Act \[Dec. 23, 2022\] and ending on December 31, 2025.
+Duration.—The Secretary of Defense may carry out the pilot program during the period beginning on the date of the enactment of this Act \[Dec. 23, 2022\] and ending on December 31, 2027.
 
 "(c)
 
@@ -102,7 +326,7 @@ Limitations.—
 
 Purposes.—The pilot program shall be limited to the following purposes:
 
-&emsp;&emsp;"(A) To build relationships with the national security forces of partner countries in support of theefforts of the Department of Defense to engage in long-term strategic competition.
+&emsp;&emsp;"(A) To build relationships with the national security forces of partner countries in support of the efforts of the Department of Defense to engage in long-term strategic competition.
 
 &emsp;&emsp;"(B) To sustain the mission capability and forward posture of the Armed Forces of the United States.
 
@@ -122,9 +346,21 @@ Sustainment and non-lethal assistance.—A program under subsection (a) may incl
 
 "(d)
 
-Funding.—Of amounts authorized to be appropriated by this Act \[see Tables for classification\] for each of fiscal years 2023 through 2025 and available for operation and maintenance, the Secretary may make available $10,000,000 to support the pilot program, which shall be allocated in accordance with the priorities of the commanders of the geographic combatant commands.
+Funding.—Of amounts authorized to be appropriated by this Act \[see Tables for classification\] for each of fiscal years 2023 through 2027 and available for operation and maintenance, the Secretary may make available $15,000,000 to support the pilot program.
 
 "(e)
+
+Prioritization.—In providing security cooperation for the purposes described in section (c)(1), the Secretary shall prioritize efforts based on—
+
+&emsp;"(1) the priorities of the commanders of the geographic combatant commands;
+
+&emsp;"(2) the operational relevance of the effort;
+
+&emsp;"(3) the need of the foreign partner; and
+
+&emsp;"(4) programs in less developed countries.
+
+"(f)
 
 Annual Report.—
 
@@ -150,11 +386,11 @@ Elements.—Each such report shall include the following:
 
 &emsp;&emsp;"(C) Any other matter the Secretary determines to be relevant.
 
-"(f)
-
-Temporary Cessation of Authorization.—No funds authorized to be appropriated or otherwise made available for any of fiscal years 2023 through 2025 for the Department of Defense may be made available for the 'Defense Environmental International Cooperation Program'. During the period specified in subsection (b), all activities and functions of the 'Defense Environmental International Cooperation Program' may only be carried out under the pilot program.
-
 "(g)
+
+Temporary Cessation of Authorization.—No funds authorized to be appropriated or otherwise made available for any of fiscal years 2023 through 2027 for the Department of Defense may be made available for the 'Defense Environmental International Cooperation Program'. During the period specified in subsection (b), all activities and functions of the 'Defense Environmental International Cooperation Program' may only be carried out under the pilot program.
+
+"(h)
 
 Definitions.—In this section the terms 'defense services', 'national security forces', and 'training' have the meaning given those terms in section 301 of title 10, United States Code."
 
@@ -164,7 +400,7 @@ Pub. L. 117–263, div. A, title XII, §1261, Dec. 23, 2022, 136 Stat. 2856, as 
 
 "(a)
 
-In General.—The Secretary of Defense may establish, using existing authorities of the Department of Defense, a pilot program to enhance engagement of the Department with young civilian defense and security leaders in the Indo-Pacific region.
+In General.—The Secretary of Defense may establish, using existing authorities of the Department ofDefense, a pilot program to enhance engagement of the Department with young civilian defense and security leaders in the Indo-Pacific region.
 
 "(b)
 

@@ -32,9 +32,19 @@ In this section, the term "corrosion prevention activities" means—
 
 &emsp;(1) the application and inspection of protective coatings for complex work involving steel and cementitious structures, including structures that will be exposed in immersion;
 
-&emsp;(2) the installation, testing, and inspection of cathodic protection systems; and
+&emsp;(2) the installation, testing, and inspection of cathodic protection systems;
 
-&emsp;(3) any other activities related to corrosion prevention the Secretary determines appropriate.
+&emsp;(3) the carrying out of an activity described in paragraph (1) or (2) through a program in corrosion prevention that is—
+
+&emsp;&emsp;(A) offered or accredited by an organization that sets industry standards for corrosion mitigation and prevention; or
+
+&emsp;&emsp;(B) an industrial coatings applicator program that is—
+
+&emsp;&emsp;&emsp;(i) an employment and training activity (as defined in section 3102 of title 29); or
+
+&emsp;&emsp;&emsp;(ii) registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.); and
+
+&emsp;(4) any other activities related to corrosion prevention the Secretary determines appropriate.
 
 #### (d) Report
 
@@ -44,15 +54,21 @@ In the first annual report submitted to Congress after December 16, 2016, in acc
 
 &emsp;(2) a description of the projects utilizing corrosion prevention activities, including which activities were undertaken.
 
-(Pub. L. 113–121, title I, §1033, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, §1142, Dec. 16, 2016, 130 Stat. 1658.)
+(Pub. L. 113–121, title I, §1033, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, §1142, Dec. 16, 2016, 130 Stat. 1658; Pub. L. 118–272, div. A, title I, §1135, Jan. 4, 2025, 138 Stat. 3025.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The National Apprenticeship Act, referred to in subsec. (c)(3)(B)(ii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(3), (4). Pub. L. 118–272 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–322 added subsec. (d).
 

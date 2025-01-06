@@ -13,6 +13,7 @@
 | [1703D.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703D%20-%20Prompt%20payment%20standard.md) | Prompt payment standard. |
 | [1703E.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703E%20-%20Center%20for%20Innovation%20for%20Care%20and%20Payment.md) | Center for Innovation for Care and Payment. |
 | [1703F.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703F%20-%20Credentialing%20verification%20requirements%20for%20providers%20of%20non-Department%20health%20care%20services.md) | Credentialing verification requirements for providers of non-Department health care services. |
+| [1703G.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703G%20-%20Quarterly%20report%20on%20referrals%20for%20non-Department%20health%20care.md) | Quarterly report on referrals for non-Department health care. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
 | [1704A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704A%20-%20Independent%20assessments%20of%20health%20care%20delivery%20systems%20and%20management%20processes.md) | Independent assessments of health care delivery systems and management processes. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
@@ -61,6 +62,8 @@
 | [1720H.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20and%20members%20of%20the%20reserve%20components%20of%20the%20Armed%20Forces%20who%20served%20in%20classified%20missions.md) | Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions. |
 | [1720I.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720I%20-%20Mental%20and%20behavioral%20health%20care%20for%20certain%20former%20members%20of%20the%20Armed%20Forces.md) | Mental and behavioral health care for certain former members of the Armed Forces. |
 | [1720J.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720J%20-%20Emergent%20suicide%20care.md) | Emergent suicide care. |
+| [1720K.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720K%20-%20Grants%20or%20contracts%20to%20provide%20mental%20health%20support%20to%20family%20caregivers%20of%20veterans.md) | Grants or contracts to provide mental health support to family caregivers of veterans. |
+| [1720L.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720L%20-%20Home-%20and%20community-based%20services%20programs.md) | Home- and community-based services: programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -155,9 +158,11 @@
 
 #### Amendments
 
+<b>2025</b>—Pub. L. 118–210, title I, §§122, 123(a), 140(a), Jan. 2, 2025, 138 Stat. 2724, 2726, 2743, added items 1703G, 1720K, and 1720L.
+
 <b>2022</b>—Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
 
-Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendmentof the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
+Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
 
 <b>2021</b>—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
 
@@ -233,7 +238,7 @@ Pub. L. 101–366, title II, §201(a)(2), Aug. 15, 1990, 104 Stat. 438, added it
 
 <b>1986</b>—Pub. L. 99–576, title II, §201(a)(2), 100 Stat. 3254, added item 620B.
 
-Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Stat. 378, 382, added item 603, and substituted"Determination" for "Evidence" and inserted "; income thresholds" in item 622.
+Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Stat. 378, 382, added item 603, and substituted "Determination" for "Evidence" and inserted "; income thresholds" in item 622.
 
 <b>1985</b>—Pub. L. 99–166, title I, §§101(b)(2), 107(b), Dec. 3, 1985, 99 Stat. 943, 946, added item 612B and struck out "; pilot program" after "disabilities" in item 620A.
 

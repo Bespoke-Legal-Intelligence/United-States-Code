@@ -52,7 +52,7 @@ An insured depository institution, insured credit union, institution of the Farm
 
 #### (e) Additional regulations generally
 
-The Secretary may issue regulations and guidance as necessary to carry out the purposes ofthis section, including to allow additional lenders to originate loans under this title <sup>1</sup> and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under <sup>2</sup> this section.
+The Secretary may issue regulations and guidance as necessary to carry out the purposes of this section, including to allow additional lenders to originate loans under this title <sup>1</sup> and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under <sup>2</sup> this section.
 
 #### (f) Certification
 
@@ -86,7 +86,7 @@ The National Emergencies Act, referred to in subsecs. (b) and (h), is Pub. L. 94
 
 Section 1102 of this Act, referred to in subsec. (d)(2), means section 1102 of div. A of Pub. L. 116–136.
 
-This title, referred to in subsec. (e), is title I of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286, which enacted this subchapter and amended, and enacted provisions set out as notes under, section 636 of this title and several sections in Title 11, Bankruptcy. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsec. (e), is title I of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286, which enacted this subchapter and amended, and enacted provisions set out as notes under, section 636 of this titleand several sections in Title 11, Bankruptcy. For complete classification of title I to the Code, see Tables.
 
 The Small Business Act, referred to in subsec. (i), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 

@@ -26,7 +26,7 @@ In general.—The prohibition under paragraph (1) shall not apply with respect t
 
 &emsp;&emsp;(B)
 
-Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science,and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
+Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
 
 &emsp;&emsp;(C)
 
@@ -38,7 +38,7 @@ Vessels Described.—A vessel referred to in subsection (a) is a foreign vessel 
 
 &emsp;(1) is on the most recent list of vessels published in Federal <sup>1</sup> Register under subsection (c)(2); or
 
-&emsp;(2) more than 180 days after the publication of such list, is knowingly registered, pursuant to the 1958 Convention on the High Seas entered into force on September 30, 1962, by a government the agents or instrumentalities of which are maintaining a registration of a vessel that is included on such list.
+&emsp;(2) more than 180 days after the publication of such list, is knowingly registered, pursuant to the 1958 Convention on the High Seas entered into force on September 30, 1962, by agovernment the agents or instrumentalities of which are maintaining a registration of a vessel that is included on such list.
 
 (c)
 
@@ -134,7 +134,7 @@ In general.—The prohibition under paragraph (1) shall not apply with respect t
 
 &emsp;&emsp;"(B)
 
-Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
+Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee onForeign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
 
 &emsp;&emsp;"(C)
 

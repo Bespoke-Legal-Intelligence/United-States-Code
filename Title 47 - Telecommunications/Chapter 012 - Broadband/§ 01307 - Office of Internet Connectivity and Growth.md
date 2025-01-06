@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the "Advancing Critical Connectivity Expands Service, SmallBusiness Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act" or the "ACCESS BROADBAND Act".
+This section may be cited as the "Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act" or the "ACCESS BROADBAND Act".
 
 #### (b) Establishment
 
@@ -156,7 +156,7 @@ Nothing in this section is intended to alter or amend any provision of section 2
 
 #### References in Text
 
-This section, referred to in subsecs. (d), (g), and (h), was in the original "this Act", which was translated asmeaning section 903 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3210, to reflect the probable intent of Congress.
+This section, referred to in subsecs. (d), (g), and (h), was in the original "this Act", which was translated as meaning section 903 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3210, to reflect the probable intent of Congress.
 
 The Rural Electrification Act of 1936, referred to in subsec. (g)(4)(B), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. Title VI of the Act is classified generally to subchapter VI (§950bb et seq.) of chapter 31 of Title 7. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 

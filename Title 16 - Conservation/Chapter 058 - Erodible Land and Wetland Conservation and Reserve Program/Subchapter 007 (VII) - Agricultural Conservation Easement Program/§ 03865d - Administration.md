@@ -14,7 +14,7 @@ The Secretary may not use program funds for the purposes of acquiring an easemen
 
 #### (b) Priority
 
-In evaluating applications under the program, the Secretary may give priority to land that is currently enrolled in the conservation reserve program in a contract that is set to expire within 1 year and—
+In evaluating applications under the program, the Secretary may give priority to land that is currently enrolled in the conservation reserveprogram in a contract that is set to expire within 1 year and—
 
 &emsp;(1) in the case of an agricultural land easement, is grassland that would benefit from protection under a long-term easement; and
 

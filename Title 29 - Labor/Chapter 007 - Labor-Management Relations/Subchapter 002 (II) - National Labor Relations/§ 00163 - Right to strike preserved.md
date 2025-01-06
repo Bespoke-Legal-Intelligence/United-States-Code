@@ -1,6 +1,6 @@
 ### §163. Right to strike preserved
 
-Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike, or to affect the limitations or qualifications on that right.
+Nothing in this subchapter, except as specifically provided for herein, shall be construed soas either to interfere with or impede or diminish in any way the right to strike, or to affect the limitations or qualifications on that right.
 
 (July 5, 1935, ch. 372, §13, 49 Stat. 457; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151.)
 

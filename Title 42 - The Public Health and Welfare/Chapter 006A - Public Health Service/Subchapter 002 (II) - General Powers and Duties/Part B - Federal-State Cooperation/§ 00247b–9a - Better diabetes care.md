@@ -8,7 +8,7 @@ This section may be cited as the "Catalyst to Better Diabetes Care Act of 2009".
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention (referred to in this section as the "Director"), shall prepare on a biennial basis a national diabetes report card (referred to in this section as a "Report Card") and, to the extent possible, for each State.<sup>1</sup>
+&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control andPrevention (referred to in this section as the "Director"), shall prepare on a biennial basis a national diabetes report card (referred to in this section as a "Report Card") and, to the extent possible, for each State.<sup>1</sup>
 
 #### (2) Contents
 

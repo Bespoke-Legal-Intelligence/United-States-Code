@@ -54,7 +54,7 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 #### (B) Special rule for direct air capture facilities
 
-&emsp;&emsp;In the case of any qualified facility described in subsection (d)(2)(A) which isplaced in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
+&emsp;&emsp;In the case of any qualified facility described in subsection (d)(2)(A) which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
 
 &emsp;&emsp;&emsp;(i) by substituting "$36" for "$17" each place it appears, and
 
@@ -368,7 +368,7 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 
 &emsp;(3) for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility if, after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production.
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–58, div. H, title IV, §80402(e), Nov. 15, 2021, 135 Stat. 1334; Pub. L. 117–169, title I, §13104(a)(1), (2)(A), (b)–(h), Aug. 16, 2022, 136 Stat. 1924–1928.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–58, div. H, title IV, §80402(e), Nov. 15, 2021, 135 Stat. 1334; Pub. L.117–169, title I, §13104(a)(1), (2)(A), (b)–(h), Aug. 16, 2022, 136 Stat. 1924–1928.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -475,6 +475,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2024</b>—Internal Revenue Notice 2024–39.
 
 <b>2023</b>—Internal Revenue Notice 2023–46.
 

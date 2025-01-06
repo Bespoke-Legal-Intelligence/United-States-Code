@@ -28,7 +28,7 @@ Secretary.—The Secretary, in consultation with the Director, shall administer 
 
 &emsp;(2) developing and overseeing the implementation of binding operational directives to agencies to implement the policies, principles, standards, and guidelines developed by the Director under subsection (a)(1) and the requirements of this subchapter, which may be revised or repealed by the Director if the operational directives issued on behalf of the Director are not in accordance with policies, principles, standards, and guidelines developed by the Director, including—
 
-&emsp;&emsp;(A) requirements for reporting security incidents to the Federal information securityincident center established under section 3556;
+&emsp;&emsp;(A) requirements for reporting security incidents to the Federal information security incident center established under section 3556;
 
 &emsp;&emsp;(B) requirements for the contents of the annual reports required to be submitted under section 3554(c)(1);
 
@@ -64,7 +64,7 @@ Secretary.—The Secretary, in consultation with the Director, shall administer 
 
 (c)
 
-Report.—Not later than March 1 of each year, the Director, in consultation with the Secretary, shall submit to Congress a report on the effectiveness of information security policies and practices during the preceding year, including—
+Report.—Not later than March 1 of each year, the Director, in consultation with the Secretary, shall submit to Congress a report on theeffectiveness of information security policies and practices during the preceding year, including—
 
 &emsp;(1) a summary of the incidents described in the annual reports required to be submitted under section 3554(c)(1), including a summary of the information required under section 3554(c)(1)(A)(iii);
 
@@ -236,7 +236,7 @@ Exception.—Paragraph (1) shall not apply to national security systems or to in
 
 #### References in Text
 
-Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which was redesignated section 2213(b)(1) of Pub. L. 107–296 by section 2(g)(2)(I) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4178, and is classified to section 663(b)(1) of Title 6, Domestic Security.
+Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which was redesignated section 2213(b)(1) of Pub. L.107–296 by section 2(g)(2)(I) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4178, and is classified to section 663(b)(1) of Title 6, Domestic Security.
 
 The Homeland Security Act of 2002, referred to in subsec. (l)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified generally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 

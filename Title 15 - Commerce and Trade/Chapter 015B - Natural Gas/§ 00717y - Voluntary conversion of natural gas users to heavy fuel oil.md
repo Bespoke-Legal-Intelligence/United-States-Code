@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (f) Coordination with the Natural Gas Act
 
-(1) Consideration in any transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section shall be deemed just and reasonable for purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\] if such consideration does not exceed just compensation.
+(1) Consideration in any transfer of contractual interests pursuant to the rule requiredunder subsection (a)(1) of this section shall be deemed just and reasonable for purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\] if such consideration does not exceed just compensation.
 
 (2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] as a natural gas-company (within the meaning of such Act) or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1).
 

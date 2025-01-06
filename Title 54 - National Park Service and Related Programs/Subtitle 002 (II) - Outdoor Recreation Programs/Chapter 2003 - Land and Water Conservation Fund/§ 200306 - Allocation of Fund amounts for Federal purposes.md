@@ -38,7 +38,7 @@ Adjacent land.—Land outside but adjacent to an existing national forest bounda
 
 &emsp;&emsp;(C)
 
-Endangered species and threatened species; fish and wildlife refuge areas; national wildlife refuge system.—Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—
+Endangered species and threatened species; fish and wildlife refuge areas;national wildlife refuge system.—Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—
 
 &emsp;&emsp;&emsp;(i) endangered species and threatened species authorized under section 5(a) of the Endangered Species Act of 1973 (16 U.S.C. 1534(a));
 
@@ -50,7 +50,7 @@ Endangered species and threatened species; fish and wildlife refuge areas; natio
 
 &emsp;(3)
 
-Payment as offset of capital costs.—Amounts shall be allotted for payment into miscellaneous receipts of the Treasury as a partial offset for capital costs, if any, of Federal water development projects authorized tobe constructed by or pursuant to an Act of Congress that are allocated to public recreation and the enhancement of fish and wildlife values and financed through appropriations to water resource agencies.
+Payment as offset of capital costs.—Amounts shall be allotted for payment into miscellaneous receipts of the Treasury as a partial offset for capital costs, if any, of Federal water development projects authorized to be constructed by or pursuant to an Act of Congress that are allocated to public recreation and the enhancement of fish and wildlife values and financed through appropriations to water resource agencies.
 
 &emsp;(4)
 

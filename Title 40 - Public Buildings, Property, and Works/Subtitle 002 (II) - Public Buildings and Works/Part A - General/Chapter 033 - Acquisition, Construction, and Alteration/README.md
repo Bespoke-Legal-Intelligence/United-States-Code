@@ -26,12 +26,15 @@
 |  |  |
 | :--- | ---: |
 | 3318\.<sup>1</sup> | Availability of Federal building project information. |
+| [3319\.](%C2%A7%2003319%20-%20Interagency%20space%20coordination.md) | Interagency space coordination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–272, div. B, title III, §2304(e)(2), Jan. 4, 2025, 138 Stat. 3224, added item 3319.
 
 <b>2022</b>—Pub. L. 117–202, §3(b), Oct. 17, 2022, 136 Stat. 2226, added item 3313 and struck out former item 3313 "Use of energy efficient lighting fixtures and bulbs".
 
@@ -69,3 +72,4 @@
 - [&sect; 03317 - Certain authority not affected](%C2%A7%2003317%20-%20Certain%20authority%20not%20affected.md)
 - [&sect; 03318 - 1 Lactation room in public buildings](%C2%A7%2003318%20-%201%20Lactation%20room%20in%20public%20buildings.md)
 - [&sect; 03318 - 1 Availability of Federal building project information](%C2%A7%2003318%20-%201%20Availability%20of%20Federal%20building%20project%20information.md)
+- [&sect; 03319 - Interagency space coordination](%C2%A7%2003319%20-%20Interagency%20space%20coordination.md)

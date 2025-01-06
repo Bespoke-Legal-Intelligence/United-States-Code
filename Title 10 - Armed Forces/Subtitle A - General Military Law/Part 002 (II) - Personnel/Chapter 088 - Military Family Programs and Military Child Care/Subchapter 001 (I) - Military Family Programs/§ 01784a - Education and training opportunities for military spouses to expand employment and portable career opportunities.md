@@ -4,7 +4,7 @@
 
 Programs and Tuition Assistance.—(1) The Secretary of Defense may establish programs to assist the spouse of a member of the armed forces described in subsection (b) in achieving—
 
-&emsp;(A) the education and training required for a degree or credential at an accredited college, university, or technical school in the United States that expands employment and portable career opportunities for the spouse; or
+&emsp;(A) the education and training required for a degree or credential at an accredited college,university, or technical school in the United States that expands employment and portable career opportunities for the spouse; or
 
 &emsp;(B) the education prerequisites and professional licensure or credential required, by a government or government sanctioned licensing body, for an occupation that expands employment and portable career opportunities for the spouse.
 
@@ -40,7 +40,7 @@ Portable Career Opportunities Defined.—In this section, the term "portable car
 
 Regulations.—The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
 
-(Added Pub. L. 110–417, \[div. A\], title V, §582(a), Oct. 14, 2008, 122 Stat. 4473; amended Pub. L.116–92, div. A, title V, §576, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 118–31, div. A, title VI, §634, Dec. 22, 2023, 137 Stat. 297.)
+(Added Pub. L. 110–417, \[div. A\], title V, §582(a), Oct. 14, 2008, 122 Stat. 4473; amended Pub. L. 116–92, div. A, title V, §576, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 118–31, div. A, title VI, §634, Dec. 22, 2023, 137 Stat. 297.)
 
 #### <b>Editorial Notes</b>
 

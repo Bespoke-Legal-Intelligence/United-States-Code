@@ -20,7 +20,7 @@ To the extent practicable and appropriate, the Secretary shall ensure that proje
 
 #### (d) Integration with other programs
 
-To the extent practicable and appropriate, the Secretary shall integrate the program undersections 254c–9 to 254c–13 of this title with other grant programs carried out by the Secretary, including the program under section 254b of this title.
+To the extent practicable and appropriate, the Secretary shall integrate the program under sections 254c–9 to 254c–13 of this title with other grant programs carried out by the Secretary, including the program under section 254b of this title.
 
 (Pub. L. 106–505, title V, §521, Nov. 13, 2000, 114 Stat. 2343.)
 

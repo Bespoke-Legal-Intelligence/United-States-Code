@@ -32,7 +32,7 @@ During each of fiscal years 2019 through 2031, the Secretary shall carry out a c
 
 &emsp;&emsp;(C) the land is incidental land needed for efficient operation of the farm or ranch, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, §1240J, formerly §1238E, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, §716(b), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 722; renumbered §1240J and amended Pub. L. 115–334, title II, §§2301(b), (d)(1)(C), 2308(b), Dec. 20, 2018, 132 Stat. 4551, 4554, 4565; Pub. L. 117–169, title II, §21001(c)(3), Aug. 16, 2022, 136 Stat. 2017.)
+(Pub. L. 99–198, title XII, §1240J, formerly §1238E, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1041, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1769; amended Pub. L. 112–55, div. A, title VII, §716(b), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014,128 Stat. 722; renumbered §1240J and amended Pub. L. 115–334, title II, §§2301(b), (d)(1)(C), 2308(b), Dec. 20, 2018, 132 Stat. 4551, 4554, 4565; Pub. L. 117–169, title II, §21001(c)(3), Aug. 16, 2022, 136 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 

@@ -30,7 +30,7 @@
 
 #### (2) Compensation
 
-&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shall apply with respect to employees of the Bureau:
+&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation,including the provisions of chapter 51 and chapter 53, the following provisions shall apply with respect to employees of the Bureau:
 
 &emsp;&emsp;(A) The rates of basic pay for all employees of the Bureau may be set and adjusted by the Director.
 
@@ -58,7 +58,7 @@
 
 #### (D) Controlled group status
 
-&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of theBoard of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of section 414 of title 26.
+&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of section 414 of title 26.
 
 #### (4) Labor-management relations
 
@@ -132,7 +132,7 @@
 
 #### (2) Functions
 
-&emsp;The Office of Fair Lending and Equal Opportunity shall have such powers and duties asthe Director may delegate to the Office, including—
+&emsp;The Office of Fair Lending and Equal Opportunity shall have such powers and duties as the Director may delegate to the Office, including—
 
 &emsp;&emsp;(A) providing oversight and enforcement of Federal laws intended to ensure the fair, equitable, and nondiscriminatory access to credit for both individuals and communities that are enforced by the Bureau, including the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\] and the Home Mortgage Disclosure Act \[12 U.S.C. 2801 et seq.\];
 
@@ -260,7 +260,7 @@ The Office of Fair Lending and Equal Opportunity, the Office of Financial Educat
 
 #### (2) Assistant director
 
-&emsp;The Office of Financial Protection for Older Americans (in this subsection referred to as the "Office") shall be headed by an assistant director.
+&emsp;The Office of Financial Protection for Older Americans (in this subsection referred to asthe "Office") shall be headed by an assistant director.
 
 #### (3) Duties
 
@@ -306,7 +306,7 @@ Notwithstanding any provision of chapter 10 of title 5, such chapter shall apply
 
 #### References in Text
 
-Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(l) ofthe Federal Reserve Act, which is classified to section 248(l) of this title.
+Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(l) of the Federal Reserve Act, which is classified to section 248(l) of this title.
 
 Section 2302(b)(11), referred to in subsec. (a)(1)(C)(ii), probably means section 2302(b)(11) of Title 5, Government Organization and Employees.
 

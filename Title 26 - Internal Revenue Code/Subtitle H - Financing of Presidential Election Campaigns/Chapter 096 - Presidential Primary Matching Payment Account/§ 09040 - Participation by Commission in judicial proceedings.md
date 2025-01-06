@@ -14,7 +14,7 @@ The Commission is authorized, through attorneys and counsel described in subsect
 
 #### (d) Appeal
 
-The Commission is authorized on behalf of the United States to appeal from, and to petition the Supreme Court for certiorari to review, judgments or decrees entered with respect to actions in which it appears pursuant to the authority provided in this section.
+The Commission is authorized on behalf of the United States to appeal from, and to petitionthe Supreme Court for certiorari to review, judgments or decrees entered with respect to actions in which it appears pursuant to the authority provided in this section.
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1302; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

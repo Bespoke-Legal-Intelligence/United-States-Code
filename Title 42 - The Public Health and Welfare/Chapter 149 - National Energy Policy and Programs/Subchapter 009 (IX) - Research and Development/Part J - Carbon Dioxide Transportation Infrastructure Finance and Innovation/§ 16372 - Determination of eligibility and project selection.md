@@ -146,7 +146,7 @@ The Secretary shall establish and carry out a carbon dioxide transportation infr
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no Federal credit instrument or grant provided under the CIFIA program shall be made available for a project unless all iron, steel, and manufactured goods used in the project are produced in the United States.
+&emsp;Except as provided in paragraph (2), no Federal credit instrument or grant provided underthe CIFIA program shall be made available for a project unless all iron, steel, and manufactured goods used in the project are produced in the United States.
 
 #### (2) Exceptions
 

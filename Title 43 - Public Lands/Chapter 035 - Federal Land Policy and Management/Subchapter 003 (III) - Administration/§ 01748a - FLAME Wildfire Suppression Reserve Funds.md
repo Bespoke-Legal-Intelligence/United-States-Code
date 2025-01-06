@@ -24,7 +24,7 @@ In this section:
 
 #### (3) Relevant congressional committees
 
-&emsp;The term "relevant congressional committees" means the Committee on Appropriations, the Committee on Natural Resources,and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
+&emsp;The term "relevant congressional committees" means the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
 
 #### (4) Secretary concerned
 
@@ -94,7 +94,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 #### (5) Transfer authority
 
-&emsp;If a FLAME Fund has insufficient funds, the Secretary concerned administering the other FLAME Fund may transfer amounts to the FLAME Fund with insufficient funds. Not more than $100,000,000 may be transferred from a FLAME Fund during any fiscal year under this authority.
+&emsp;If a FLAME Fund has insufficient funds, the Secretary concerned administering the otherFLAME Fund may transfer amounts to the FLAME Fund with insufficient funds. Not more than $100,000,000 may be transferred from a FLAME Fund during any fiscal year under this authority.
 
 #### (e) Use of FLAME Fund
 
@@ -178,7 +178,7 @@ The Secretary concerned may not transfer funds from non-fire accounts to the Wil
 
 #### (i) Termination of authority
 
-The authority of the Secretary concerned to use the FLAME Fund established for that Secretary shall terminate at the end of the third fiscal year in which no appropriations to, or withdrawals from, that FLAME Fund have been made for a period of three consecutive fiscal years. Upon termination of such authority, any amounts remaining in the affected FLAME Fund shall be transferred to, and made a part of, the Wildland Fire Management appropriation account of the Secretary concerned for wildland suppression activities.
+The authority of the Secretary concerned to use the FLAME Fund established for that Secretary shall terminate at the end of the third fiscal year in which no appropriations to, or withdrawals from, that FLAME Fund have been made for a period of three consecutive fiscal years. Upon termination of such authority, any amounts remaining in the affected FLAME Fund shall be transferred to, and made a part of,the Wildland Fire Management appropriation account of the Secretary concerned for wildland suppression activities.
 
 (Pub. L. 111–88, div. A, title V, §502, Oct. 30, 2009, 123 Stat. 2968.)
 

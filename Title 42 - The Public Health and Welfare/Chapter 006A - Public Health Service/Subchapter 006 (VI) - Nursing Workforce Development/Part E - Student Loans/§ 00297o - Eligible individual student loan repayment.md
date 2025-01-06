@@ -70,7 +70,7 @@ For the purposes of this section and section 297n–1 of this title, funding pri
 
 A prior section 847 of act July 1, 1944, was classified to section 297n of this title prior to repeal by Pub. L. 102–408.
 
-A prior section 297q, act July 1, 1944, ch. 373, title VIII, §841, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3569, was renumbered section 871 of act July 1, 1944, and amended by Pub. L. 111–148, title V, §§5310(b)(7), 5312, Mar. 23, 2010, 124 Stat. 631, 633, and transferred to section 298d of this title.
+A prior section 297q, act July 1, 1944, ch. 373, title VIII, §841, as added Pub. L. 105–392, title I, §123(5), Nov.13, 1998, 112 Stat. 3569, was renumbered section 871 of act July 1, 1944, and amended by Pub. L. 111–148, title V, §§5310(b)(7), 5312, Mar. 23, 2010, 124 Stat. 631, 633, and transferred to section 298d of this title.
 
 #### Amendments
 

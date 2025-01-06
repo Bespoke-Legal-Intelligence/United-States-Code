@@ -56,7 +56,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(iii) payment of any tax due is included with such returns,
 
-> &emsp;&emsp;then the imputed underpayment amount shall be determined without regard to the portion of the adjustments so taken into account.
+> &emsp;&emsp;then the imputed underpayment amount shall be determined without regard to theportion of the adjustments so taken into account.
 
 #### (B) Alternative procedure to filing amended returns
 
@@ -70,7 +70,7 @@ For purposes of this subchapter—
 
 #### (C) Reallocation of distributive share
 
-&emsp;&emsp;In the case of any adjustment which reallocates the distributive share of any itemfrom one partner to another, this paragraph shall apply with respect to any such partner only if the requirements of subparagraph (A) or (B) are satisfied with respect to all partners affected by such adjustment.
+&emsp;&emsp;In the case of any adjustment which reallocates the distributive share of any item from one partner to another, this paragraph shall apply with respect to any such partner only if the requirements of subparagraph (A) or (B) are satisfied with respect to all partners affected by such adjustment.
 
 #### (D) Application of statute of limitations
 
@@ -122,7 +122,7 @@ For purposes of this subchapter—
 
 #### (ii) Rule in case of varied treatment of items among partners
 
-&emsp;&emsp;&emsp;If the imputed underpayment is attributable to the adjustment of more than 1 item, and any partner's distributive share of such items is not the same with respect to all such items, then the portion of the imputed underpayment to which the lower rate applies with respect to a partner under subparagraph (A) shall be determined by reference to the amount which would have been the partner's distributive share of net gain or loss if the partnership had sold all of its assets at their fair market value as of the close of the reviewed year of the partnership.
+&emsp;&emsp;&emsp;If the imputed underpayment is attributable to the adjustment of more than 1item, and any partner's distributive share of such items is not the same with respect to all such items, then the portion of the imputed underpayment to which the lower rate applies with respect to a partner under subparagraph (A) shall be determined by reference to the amount which would have been the partner's distributive share of net gain or loss if the partnership had sold all of its assets at their fair market value as of the close of the reviewed year of the partnership.
 
 #### (5) Certain passive losses of publicly traded partnerships
 
@@ -136,7 +136,7 @@ For purposes of this subchapter—
 
 #### (B) Specified passive activity loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, withrespect to any specified partner of such publicly traded partnership, the lesser of—
+&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, with respect to any specified partner of such publicly traded partnership, the lesser of—
 
 &emsp;&emsp;&emsp;(i) the passive activity loss of such partner which is separately determined with respect to such partnership under section 469(k) with respect to such partner's taxable year in which or with which the reviewed year of such partnership ends, or
 
@@ -200,7 +200,7 @@ A prior section 6225, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982,
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141, §202(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to adjustment by the Secretary in the amount of any item of income, gain, loss, deduction, or credit of a partnership, or any partner's distributive share thereof.
 
-Subsec. (b). Pub. L. 115–141, §202(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to determination of imputed underpayments in general and adjustments to distributive shares of partners not netted, respectively.
+Subsec. (b). Pub. L. 115–141, §202(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) consistedof pars. (1) and (2) relating to determination of imputed underpayments in general and adjustments to distributive shares of partners not netted, respectively.
 
 Subsec. (c)(2). Pub. L. 115–141, §203(a), amended par. (2) generally. Prior to amendment, par. (2) related to amended returns of partners.
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. 
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) ofPub. L. 114–113, set out as a note under section 6031 of this title.
+Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under section 6031 of this title.
 
 #### Effective Date
 

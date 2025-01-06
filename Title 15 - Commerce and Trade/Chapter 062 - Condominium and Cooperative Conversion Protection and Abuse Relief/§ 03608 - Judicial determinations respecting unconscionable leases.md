@@ -20,7 +20,7 @@ Cooperative and condominium unit owners through the unit owners' association may
 
 #### (b) Presumption of unconscionability; rebuttal
 
-A rebuttal presumption of unconscionability exists if it is established that, in addition to thecharacteristics set forth in subsection (a) of this section, the lease—
+A rebuttal presumption of unconscionability exists if it is established that, in addition to the characteristics set forth in subsection (a) of this section, the lease—
 
 &emsp;(1) creates a lien subjecting any unit to foreclosure for failure to make payments;
 

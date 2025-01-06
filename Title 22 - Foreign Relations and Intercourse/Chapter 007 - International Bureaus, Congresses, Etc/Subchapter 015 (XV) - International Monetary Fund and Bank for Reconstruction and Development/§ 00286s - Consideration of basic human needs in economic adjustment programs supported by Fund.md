@@ -6,7 +6,7 @@ The President shall instruct the Secretary of the Treasury, the Secretary of Sta
 
 #### (b) Changes in Fund guidelines, policies, and decisions; review prior to approval of standby arrangements; coordination among institutions; coordination between Fund and Bank; periodic analyses
 
-To ensure the effectiveness of economic adjustment programs supported by Fund resourcesand the reinforcement of those programs by longer term efforts to promote sustained growth and improved living conditions—
+To ensure the effectiveness of economic adjustment programs supported by Fund resources and the reinforcement of those programs by longer term efforts to promote sustained growth and improved living conditions—
 
 &emsp;(1) United States representatives to the Fund shall recommend and shall work for changes in Fund guidelines, policies, and decisions that would—
 

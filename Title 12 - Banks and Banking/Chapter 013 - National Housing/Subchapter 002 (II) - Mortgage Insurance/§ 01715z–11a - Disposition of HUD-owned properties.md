@@ -100,7 +100,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (B) Cost recovery basis
 
-&emsp;&emsp;The term "cost recovery basis" means, with respect to any sale of a residential property by the Secretary, that the purchaseprice paid by the purchaser is equal to or greater than the sum of: (i) the appraised value of the property, as determined in accordance with such requirements as the Secretary shall establish; and (ii) the costs incurred by the Secretary in connection with such property during the period beginning on the date on which the Secretary acquires title to the property and ending on the date on which the sale is consummated.
+&emsp;&emsp;The term "cost recovery basis" means, with respect to any sale of a residential property by the Secretary, that the purchase price paid by the purchaser is equal to or greater than the sum of: (i) the appraised value of the property, as determined in accordance with such requirements as the Secretary shall establish; and (ii) the costs incurred by the Secretary in connection with such property during the period beginning on the date on which the Secretary acquires title to the property and ending on the date on which the sale is consummated.
 
 #### (C) Multifamily housing project
 
@@ -120,7 +120,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(i) lacks hot or cold piped water, a flush toilet, or both a bathtub and a shower in the unit, for the exclusive use of that unit;
 
-&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to a malfunction of the heating system for the unit;
+&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to amalfunction of the heating system for the unit;
 
 &emsp;&emsp;&emsp;(iii) has no functioning electrical service, exposed wiring, any room in which there is not a functioning electrical outlet, or has experienced three or more blown fuses or tripped circuit breakers during the preceding 90-day period;
 

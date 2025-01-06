@@ -34,7 +34,7 @@ Not later than March 1, 2017, and annually thereafter until March 1, 2025, the S
 
 #### (e) GAO Review
 
-Not later than 180 days after the date of the submittal of the strategy and implementation plan under subsection (c), the Comptroller General of the United States shall conduct a review of the strategy and implementation plan to analyze gaps and resources mapped against the requirements of the National Biodefense Strategy and existing United States biodefense policy documents.
+Not later than 180 days after the date of the submittal of the strategy and implementationplan under subsection (c), the Comptroller General of the United States shall conduct a review of the strategy and implementation plan to analyze gaps and resources mapped against the requirements of the National Biodefense Strategy and existing United States biodefense policy documents.
 
 #### (f) Appropriate congressional committees defined
 

@@ -48,7 +48,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (B) Deference
 
-&emsp;&emsp;Notwithstanding any power granted to any Federal agency or to the Council under this title,<sup>1</sup> and subject to section 5581(b)(5)(E) of this title, the deference that a court affords to the Bureau with respect to a determination by the Bureau regarding the meaning or interpretation of any provision of a Federal consumer financial law shall be applied as if the Bureau were the only agency authorizedto apply, enforce, interpret, or administer the provisions of such Federal consumer financial law.
+&emsp;&emsp;Notwithstanding any power granted to any Federal agency or to the Council under this title,<sup>1</sup> and subject to section 5581(b)(5)(E) of this title, the deference that a court affords to the Bureau with respect to a determination by the Bureau regarding the meaning or interpretation of any provision of a Federal consumer financial law shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of such Federal consumer financial law.
 
 #### (c) Monitoring
 
@@ -118,7 +118,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (ii) Provision of other reports to the Bureau
 
-&emsp;&emsp;&emsp;In addition to the reports described in clause (i), a prudential regulator or other Federal agency having jurisdiction over a covered person or service provider may, in its discretion, furnish to the Bureau any other report or other confidential supervisory information concerning any insured depository institution, credit union, orother entity examined by such agency under authority of any provision of Federal law.
+&emsp;&emsp;&emsp;In addition to the reports described in clause (i), a prudential regulator or other Federal agency having jurisdiction over a covered person or service provider may, in its discretion, furnish to the Bureau any other report or other confidential supervisory information concerning any insured depository institution, credit union, or other entity examined by such agency under authority of any provision of Federal law.
 
 #### (C) Access by other regulators to reports of the Bureau
 
@@ -154,7 +154,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 &emsp;&emsp;The Bureau may not obtain from a covered person or service provider any personally identifiable financial information about a consumer from the financial records of the covered person or service provider, except—
 
-&emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau and the consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
+&emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau andthe consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
 
 &emsp;&emsp;&emsp;(ii) as may be specifically permitted or required under other applicable provisions of law and in accordance with the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.).
 

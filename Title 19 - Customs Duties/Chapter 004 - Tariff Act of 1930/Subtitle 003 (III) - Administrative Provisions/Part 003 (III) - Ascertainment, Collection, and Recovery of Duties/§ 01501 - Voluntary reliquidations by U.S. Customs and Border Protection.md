@@ -1,6 +1,6 @@
 ### §1501. Voluntary reliquidations by U.S. Customs and Border Protection
 
-A liquidation made in accordance with section 1500 or 1504 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by U.S. Customs and Border Protection, notwithstanding the filing of a protest, within ninety days from the date of the original liquidation. Notice of such reliquidation shall be given or transmittedin the manner prescribed with respect to original liquidations under section 1500(e) of this title.
+A liquidation made in accordance with section 1500 or 1504 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by U.S. Customs and Border Protection, notwithstanding the filing of a protest, within ninety days from the date of the original liquidation. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under section 1500(e) of this title.
 
 (June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June 25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; Pub. L. 91–271, title II, §205, June 2, 1970, 84 Stat. 283; Pub. L. 103–182, title VI, §639, Dec. 8, 1993, 107 Stat. 2203; Pub. L. 108–429, title II, §2107, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 114–125, title IX, §911, Feb. 24, 2016, 130 Stat. 240.)
 

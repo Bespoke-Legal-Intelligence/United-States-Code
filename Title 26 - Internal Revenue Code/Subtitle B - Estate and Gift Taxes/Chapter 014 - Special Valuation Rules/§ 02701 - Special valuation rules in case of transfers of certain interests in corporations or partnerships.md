@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) The taxable estate of the transferor in the case of a taxable event described in paragraph (3)(A)(i).
 
-&emsp;&emsp;(B) The taxable gifts of the transferor for the calendar year in which the taxable eventoccurs in the case of a taxable event described in paragraph (3)(A)(ii) or (iii).
+&emsp;&emsp;(B) The taxable gifts of the transferor for the calendar year in which the taxable event occurs in the case of a taxable event described in paragraph (3)(A)(ii) or (iii).
 
 #### (2) Amount of increase
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 #### (A) Family member treated in same manner as transferor
 
-&emsp;&emsp;For purposes of this subsection, an applicable family member shall be treated in the same manner as the transferor with respect to any distribution right retained by such family member to which subsection (a)(3)(B) or (C) applied.
+&emsp;&emsp;For purposes of this subsection, an applicable family member shall be treated in the same manner as the transferor with respect to any distribution right retained by suchfamily member to which subsection (a)(3)(B) or (C) applied.
 
 #### (B) Transfer to applicable family member
 
@@ -378,7 +378,7 @@ Subsec. (e)(6). Pub. L. 104–188, §1702(f)(10), inserted "or to reflect the ap
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates,see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date
 

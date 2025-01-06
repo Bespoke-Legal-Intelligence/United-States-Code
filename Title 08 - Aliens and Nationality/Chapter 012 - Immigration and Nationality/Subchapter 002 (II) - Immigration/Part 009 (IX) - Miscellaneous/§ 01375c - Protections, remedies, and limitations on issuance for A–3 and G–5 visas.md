@@ -16,7 +16,7 @@
 
 #### (3) Action by diplomatic missions or international organizations
 
-&emsp;The Secretary may suspend the application of the limitation under paragraph (2) if the Secretary determines and reports to the appropriate congressional committees that, as applicable, the unpaid default judgment or final civil judgement has been resolved, the diplomatic mission or international organization hosting the employer or family member has waived immunity for the employer or family member or the country that accredited the employer or family member or the country of citizenship of the employer or family member completed the prosecution of the employer or family member, and the diplomatic mission or international organization hosting the employer or family member has a mechanism in place to ensure that such abuse or exploitation does not reoccur with respect to any alien employed by an employee of such mission or institution.
+&emsp;The Secretary may suspend the application of the limitation under paragraph (2) if the Secretary determines and reports to the appropriate congressional committees that, as applicable, the unpaid default judgment or final civil judgement has been resolved, the diplomatic mission or international organization hosting the employer or family memberhas waived immunity for the employer or family member or the country that accredited the employer or family member or the country of citizenship of the employer or family member completed the prosecution of the employer or family member, and the diplomatic mission or international organization hosting the employer or family member has a mechanism in place to ensure that such abuse or exploitation does not reoccur with respect to any alien employed by an employee of such mission or institution.
 
 #### (b) Protections and remedies for A–3 and G–5 nonimmigrants employed by diplomats and staff of international organizations
 
@@ -112,7 +112,7 @@
 
 #### (e) Assistance to law enforcement investigations
 
-The Secretary shall cooperate, to the fullest extent possible consistent with the United States obligations under the Vienna Convention on Diplomatic Relations, done at Vienna, April 18, 1961, (23 U.S.T. 3229),<sup>3</sup> with any investigationby United States law enforcement authorities of crimes related to abuse or exploitation of a nonimmigrant holding an A–3 visa or a G–5 visa.
+The Secretary shall cooperate, to the fullest extent possible consistent with the United States obligations under the Vienna Convention on Diplomatic Relations, done at Vienna, April 18, 1961, (23 U.S.T. 3229),<sup>3</sup> with any investigation by United States law enforcement authorities of crimes related to abuse or exploitation of a nonimmigrant holding an A–3 visa or a G–5 visa.
 
 #### (f) Definitions
 

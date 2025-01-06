@@ -36,5 +36,5 @@ Ex. Ord. No. 11264, Dec. 31, 1965, 31 F.R. 67, as amended by Ex. Ord. No. 11434,
 
 #### Executive Order No. 11434
 
-Ex. Ord. No. 11434, Nov. 8, 1968, 33 F.R. 16485, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, which related to administration of foreign service personnel systems, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11434, Nov. 8, 1968, 33 F.R. 16485, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R.1055; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, which related to administration of foreign service personnel systems, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

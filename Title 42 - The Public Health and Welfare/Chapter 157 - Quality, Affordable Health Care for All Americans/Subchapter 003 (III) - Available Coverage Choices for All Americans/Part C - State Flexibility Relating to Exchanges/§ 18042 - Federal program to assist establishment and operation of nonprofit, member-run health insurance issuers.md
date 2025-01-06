@@ -68,7 +68,7 @@
 
 #### (D) Time for awarding loans and grants
 
-&emsp;&emsp;The Secretary shall not later than July 1, 2013, award the loans and grants under the CO–OP program and begin the distribution of amounts awarded under such loans and grants.
+&emsp;&emsp;The Secretary shall not later than July 1, 2013, award the loans and grants under theCO–OP program and begin the distribution of amounts awarded under such loans and grants.
 
 #### (3) Repayment of loans and grants
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (6) Coordination with State insurance reforms
 
-&emsp;An organization shall not be treated as a qualified nonprofit health insurance issuer unless the organization does not offer a health plan in a State until that State has in effect (or the Secretary has implemented for the State) the market reforms required by part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] (as amended by subtitles A and C of this Act).
+&emsp;An organization shall not be treated as a qualified nonprofit health insurance issuer unless the organization does not offer a health plan in a State until that State has in effect (or the Secretary has implemented for the State) the market reforms required by part A of title XXVII of the Public Health ServiceAct \[42 U.S.C. 300gg et seq.\] (as amended by subtitles A and C of this Act).
 
 #### (d) Establishment of private purchasing council
 
@@ -228,7 +228,7 @@ Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of sectio
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b)(4)(E). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5 shall apply to the advisory board, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory board, except that section 14 of such Act" in text.
+<b>2022</b>—Subsec. (b)(4)(E). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5 shall apply to the advisory board, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to theadvisory board, except that section 14 of such Act" in text.
 
 <b>2010</b>—Subsec. (b)(3), (4). Pub. L. 111–148, §10104(l), added par. (3) and redesignated former par. (3) as (4).
 

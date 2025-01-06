@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) complete the educational phase of the program;
 
-&emsp;&emsp;(B) accept an appropriate reappointment or designation within his military service, if tendered, based upon his health profession,following satisfactory completion of the program;
+&emsp;&emsp;(B) accept an appropriate reappointment or designation within his military service, if tendered, based upon his health profession, following satisfactory completion of the program;
 
 &emsp;&emsp;(C) participate in the intern program of his service if selected for such participation;
 

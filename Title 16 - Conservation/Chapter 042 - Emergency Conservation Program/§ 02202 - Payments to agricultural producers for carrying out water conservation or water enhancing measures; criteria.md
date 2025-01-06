@@ -14,6 +14,8 @@ The Secretary is authorized to make payments to agricultural producers who carry
 
 Pub. L. 101–82, §502(2), temporarily substituted "any fiscal year in which there is a period of severe drought" for "periods of severe drought". See Effective and Termination Dates of 1989 Amendment note below.
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1989 Amendment

@@ -60,7 +60,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;(iii) In the case of an individual pursuing a program of education solely through distance learning on more than a half-time basis, a monthly housing stipend equal to 50 percent of the amount payable under clause (ii) if the individual were otherwise entitled to a monthly housing stipend under that clause for pursuit of the program of education.
 
-&emsp;&emsp;&emsp;(iv) For the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educationalcosts with respect to such quarter, semester, or term in the amount equal to—
+&emsp;&emsp;&emsp;(iv) For the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) $1,000, multiplied by
 
@@ -188,7 +188,7 @@ Programs of Education Other Than Programs of Education Leading to a Degree.—
 
 &emsp;(1)
 
-In general.—Educational assistance is payable under this chapter for pursuit of an approved program of education other than a program of education leading to a degree at an institution other than an institution of higher learning (as that term is defined in section 3452(f)).
+In general.—Educational assistance is payable under this chapter for pursuit of anapproved program of education other than a program of education leading to a degree at an institution other than an institution of higher learning (as that term is defined in section 3452(f)).
 
 &emsp;(2)
 
@@ -202,7 +202,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(i) Subject to clause (iv), an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the actual net cost for in-State tuition and fees assessed by the institutionconcerned for the program of education after the application of—
+&emsp;&emsp;&emsp;&emsp;(I) the actual net cost for in-State tuition and fees assessed by the institution concerned for the program of education after the application of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
@@ -246,11 +246,11 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;(V) during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
 
-&emsp;&emsp;&emsp;(ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
+&emsp;&emsp;&emsp;(ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount foreach partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
 &emsp;&emsp;&emsp;(iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of sections <sup>2</sup> 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
-&emsp;&emsp;&emsp;(iv) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hoursworked during such month, rounded to the nearest eight hours, bears to 120 hours.
+&emsp;&emsp;&emsp;(iv) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
 
 &emsp;&emsp;(C) In the case of an individual enrolled in a program of education consisting of flight training (regardless of the institution providing such program of education), an amount equal to—
 
@@ -318,7 +318,7 @@ Lump sum payments.—
 
 &emsp;&emsp;(D)
 
-Quarterly payments.—Payment of the amounts payable under paragraph (3)(D) for pursuit of a program of education shall be made quarterly on a pro rata basis for the lessons completed by the individual and serviced by the institution.
+Quarterly payments.—Payment of the amounts payable under paragraph (3)(D)for pursuit of a program of education shall be made quarterly on a pro rata basis for the lessons completed by the individual and serviced by the institution.
 
 &emsp;(5)
 
@@ -334,7 +334,7 @@ In general.—In the case of amounts paid under paragraph (3)(A)(i) for pursuit 
 
 &emsp;&emsp;(B)
 
-Pro rata adjustment based on certain eligibility.—If the amount otherwise payable with respect to an individual underparagraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
+Pro rata adjustment based on certain eligibility.—If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 
 (h)
 
@@ -394,7 +394,7 @@ Exception.—An educational institution is not required to submit verification o
 
 &emsp;&emsp;(C) the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, 134 Stat. 4938, 4941; Pub. L. 117–16, §7(a)(2), June 8, 2021, 135 Stat. 284; Pub. L. 117–76, §3(a), Dec. 21, 2021, 135 Stat. 1517; Pub. L. 117–333, §13, Jan. 5, 2023, 136 Stat. 6134.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, 134 Stat. 4938, 4941; Pub. L. 117–16, §7(a)(2), June 8, 2021, 135 Stat. 284; Pub. L. 117–76, §3(a), Dec. 21, 2021, 135 Stat. 1517; Pub. L. 117–333, §13, Jan. 5, 2023, 136 Stat. 6134.)
 
 #### <b>Editorial Notes</b>
 
@@ -492,7 +492,7 @@ Pub. L. 111–377, §103(a)(2)(B), redesignated subpar. (B) of par. (2) as cl. (
 
 Subsec. (e)(2)(B), (C). Pub. L. 111–377, §103(a)(2)(E), added subpars. (B) and (C). Former subpar. (B) redesignated (A)(iii).
 
-Subsec. (f)(1). Pub. L. 111–377, §104(a)(1), inserted "whether a program of education pursued on activeduty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree" before period at end.
+Subsec. (f)(1). Pub. L. 111–377, §104(a)(1), inserted "whether a program of education pursued on active duty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree" before period at end.
 
 Subsec. (f)(2). Pub. L. 111–377, §104(a)(2), inserted "covered by this subsection" after "program of education" in introductory provisions.
 
@@ -576,7 +576,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 #### Duration of Assistance
 
-Pub. L. 115–48, title I, §106(d), Aug. 16, 2017, 131 Stat. 977, provided that: "Notwithstanding section 3312 of title 38, United States Code, an individual who establishes eligibility for educational assistance under chapter 33 of such title by crediting towards such chapter service previously credited towards chapter 1607 of title 10, United States Code, is only entitled to a number of months of educational assistance under section 3313 of title 38, United States Code, equal to the number of months of entitlement remaining under chapter 1607 oftitle 10, United States Code, at the time of conversion to chapter 33 of title 38, United States Code."
+Pub. L. 115–48, title I, §106(d), Aug. 16, 2017, 131 Stat. 977, provided that: "Notwithstanding section 3312 of title 38, United States Code, an individual who establishes eligibility for educational assistance under chapter 33 of such title by crediting towards such chapter service previously credited towards chapter 1607 of title 10, United States Code, is only entitled to a number of months of educational assistance under section 3313 of title 38, United States Code, equal to the number of months of entitlement remaining under chapter 1607 of title 10, United States Code, at the time of conversion to chapter 33 of title 38, United States Code."
 
 #### Preservation of Higher Rates for Tuition and Fees for Programs of Education at Non-Public Institutions of Higher Learning Pursued by Individuals Enrolled in Such Programs Prior to Change in Maximum Amount
 

@@ -6,7 +6,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 &emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to public transportation safety or security, or fraud, waste, or abuse of Federal grants or other public funds intended to be used for public transportation safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
-&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; <sup>1</sup>
+&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an officeof the Inspector General under chapter 4 of title 5; <sup>1</sup>
 
 &emsp;&emsp;(B) any Member of Congress, any Committee of Congress, or the Government Accountability Office; or
 
@@ -64,7 +64,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (ii) Showing by employer
 
-&emsp;&emsp;&emsp;Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise requiredunder paragraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+&emsp;&emsp;&emsp;Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under paragraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 #### (iii) Criteria for determination by Secretary of Labor
 

@@ -46,7 +46,7 @@ Activities described in this subsection are activities to conserve, research, mo
 
 &emsp;(9) conducting scientific research that contributes to the understanding, sustainable use, and long-term conservation of coral reefs;
 
-&emsp;(10) enhancing public awareness, understanding, and appreciation of coral reefs and coral reef ecosystems and their ecological and socioeconomic value; and
+&emsp;(10) enhancing public awareness, understanding, and appreciation of coral reefs andcoral reef ecosystems and their ecological and socioeconomic value; and
 
 &emsp;(11) centrally archiving, managing, and distributing on a public website data sets and coral reef ecosystem assessments, including the data repositories of the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration.
 

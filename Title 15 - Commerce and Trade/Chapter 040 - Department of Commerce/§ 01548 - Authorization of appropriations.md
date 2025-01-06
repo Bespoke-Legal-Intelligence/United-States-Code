@@ -14,7 +14,7 @@ Section was formerly classified to section 18d of Title 16, Conservation.
 
 <b>1975</b>—Pub. L. 94–55 substituted provisions authorizing appropriations not to exceed $2,500,000 for fiscal year ending June 30, 1976, $625,000 for the transition period of July 1, 1976 through Sept. 30, 1976, $2,500,000 for fiscal year ending Sept. 30, 1977, and $2,500,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations not to exceed $250,000 for fiscal year 1971 and $750,000 for fiscal year 1972.
 
-<b>1970</b>—Pub. L. 91–549 substituted provisions authorizing appropriations of not more than $250,000 for fiscal year 1971 and not more than $750,000 for fiscal year 1972, for provisions which authorized appropriations of not more than $100,000 annually.
+<b>1970</b>—Pub. L. 91–549 substituted provisions authorizing appropriations of not more than $250,000 for fiscal year 1971 and not more than $750,000 for fiscal year 1972,for provisions which authorized appropriations of not more than $100,000 annually.
 
 &nbsp;
 

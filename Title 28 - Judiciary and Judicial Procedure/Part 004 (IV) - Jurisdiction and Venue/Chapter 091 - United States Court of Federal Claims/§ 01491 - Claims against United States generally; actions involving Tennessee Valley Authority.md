@@ -8,7 +8,7 @@
 
 (2) To afford relief in such an action, the courts may award any relief that the court considers proper, including declaratory and injunctive relief except that any monetary relief shall be limited to bid preparation and proposal costs.
 
-(3) In exercising jurisdiction under this subsection, the courts shall give due regard to theinterests of national defense and national security and the need for expeditious resolution of the action.
+(3) In exercising jurisdiction under this subsection, the courts shall give due regard to the interests of national defense and national security and the need for expeditious resolution of the action.
 
 (4) In any action under this subsection, the courts shall review the agency's decision pursuant to the standards set forth in section 706 of title 5.
 

@@ -22,7 +22,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Reconstruction Era National Monument is redesignated as the ReconstructionEra National Historical Park, as generally depicted on the Map.
+&emsp;&emsp;The Reconstruction Era National Monument is redesignated as the Reconstruction Era National Historical Park, as generally depicted on the Map.
 
 #### (B) Availability of funds
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (4) Cooperative agreements and memoranda of understanding
 
-&emsp;To achieve the purposes of this section and to ensure effective coordination of the Federaland non-Federal elements of the Network and units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
+&emsp;To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network and units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
 
 (Pub. L. 116–9, title II, §2204, Mar. 12, 2019, 133 Stat. 735.)
 

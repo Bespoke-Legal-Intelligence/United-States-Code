@@ -1,6 +1,6 @@
 ### §433. Allowance for muster duty
 
-(a) Under uniform regulations prescribed by the Secretaries concerned, a member of the Ready Reserve who is not a member of the National Guard or of the Selected Reserve is entitled to an allowance for muster duty performedpursuant to section 12319 of title 10 if the member is engaged in that duty for at least two hours.
+(a) Under uniform regulations prescribed by the Secretaries concerned, a member of the Ready Reserve who is not a member of the National Guard or of the Selected Reserve is entitled to an allowance for muster duty performed pursuant to section 12319 of title 10 if the member is engaged in that duty for at least two hours.
 
 (b) The amount of the allowance under this section shall be 125 percent of the amount of the average per diem rate for the United States (other than Alaska and Hawaii) under section 452 of this title as in effect on September 30 of the year preceding the year in which the muster duty is performed.
 
@@ -8,7 +8,7 @@
 
 (d) A member who performs muster duty is not entitled to compensation for inactive-duty training under section 206(a) of this title for the same period.
 
-(Added Pub. L. 101–189, div. A, title V, §502(b)(1), Nov. 29, 1989, 103 Stat. 1436; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(5), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title XV, §1501(d)(4)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 105–85, div. A, title VI, §627, Nov. 18, 1997, 111 Stat. 1795; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, §626(h)(5), Dec. 23, 2022, 136 Stat. 2629.)
+(Added Pub. L. 101–189, div. A, title V, §502(b)(1), Nov. 29, 1989, 103 Stat. 1436; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(5), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title XV, §1501(d)(4)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 105–85, div. A, title VI, §627, Nov. 18, 1997, 111 Stat. 1795; Pub. L. 112–81, div. A, title VI,§631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, §626(h)(5), Dec. 23, 2022, 136 Stat. 2629.)
 
 #### <b>Editorial Notes</b>
 

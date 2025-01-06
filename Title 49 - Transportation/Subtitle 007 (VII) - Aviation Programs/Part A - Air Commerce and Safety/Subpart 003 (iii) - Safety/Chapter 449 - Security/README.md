@@ -70,7 +70,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–254, div. K, title I, §§1937(b)(2), 1943(b), 1955(a)(2), 1988(b), 1991(j)(2), 1992, Oct. 5, 2018, 132 Stat. 3579, 3584, 3596, 3623, 3646, added items 44929, 44931, 44932, 44942, 44943, 44947, and 44948 and substituted "PreCheck Program" for "Security screening pilot program" in item 44919 and "Deputization" for "Deputation" in item 44922.
+<b>2018</b>—Pub. L. 115–254, div. K, title I, §§1937(b)(2), 1943(b), 1955(a)(2), 1988(b), 1991(j)(2), 1992, Oct. 5, 2018, 132Stat. 3579, 3584, 3596, 3623, 3646, added items 44929, 44931, 44932, 44942, 44943, 44947, and 44948 and substituted "PreCheck Program" for "Security screening pilot program" in item 44919 and "Deputization" for "Deputation" in item 44922.
 
 <b>2014</b>—Pub. L. 113–238, §2(b), Dec. 18, 2014, 128 Stat. 2846, which directed amendment of analysis for subchapter II of chapter 449 of title 49 by adding item 44946 at the end, was executed by adding item 44946 to analysis for this chapter to reflect the probable intent of Congress.
 

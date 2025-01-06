@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (4) Divert; diversion
 
-&emsp;The terms "divert" and "diversion" refer to the transfer or release, directly or indirectly,of a good, service, or technology to an end-user or an intermediary that is not an authorized recipient of the good, service, or technology.
+&emsp;The terms "divert" and "diversion" refer to the transfer or release, directly or indirectly, of a good, service, or technology to an end-user or an intermediary that is not an authorized recipient of the good, service, or technology.
 
 #### (5) End-user
 

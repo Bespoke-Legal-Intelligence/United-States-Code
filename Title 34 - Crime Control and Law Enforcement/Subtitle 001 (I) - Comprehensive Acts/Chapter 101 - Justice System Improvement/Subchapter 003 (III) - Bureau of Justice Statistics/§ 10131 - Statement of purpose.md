@@ -16,7 +16,7 @@ A prior section 301 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 199; P
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 struck out "(including white-collar crime and public corruption)" after "information concerning crime" and "(including crimes against the elderly, white-collar crime, and public corruption)" after "levels of crime".
+<b>1984</b>—Pub. L. 98–473 struck out "(including white-collar crime and public corruption)" after "informationconcerning crime" and "(including crimes against the elderly, white-collar crime, and public corruption)" after "levels of crime".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-Funds authorized to be appropriated under section 301(21) <sup>1</sup> shall be available for cooperative threat reduction with states of the former Soviet Union under this chapter.
+Funds authorized to be appropriated under section 301(21) <sup>1</sup> shall be available for cooperativethreat reduction with states of the former Soviet Union under this chapter.
 
 #### (b) Limitations
 

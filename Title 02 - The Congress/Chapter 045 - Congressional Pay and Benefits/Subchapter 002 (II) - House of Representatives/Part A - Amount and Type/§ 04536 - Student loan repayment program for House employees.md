@@ -52,7 +52,7 @@ Pub. L. 117–328, div. I, title I, §114(b), Dec. 29, 2022, 136 Stat. 4923, pro
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. I, title I, §114(b)(1), Dec. 27, 2020, 134 Stat. 1636, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2021 and each succeeding fiscal year."
+Pub. L. 116–260, div. I, title I, §114(b)(1), Dec. 27, 2020, 134 Stat. 1636, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to fiscal year 2021 and each succeeding fiscal year."
 
 #### Permitting Additional Payments on Behalf of Individuals Whose Payments Reached Prior Limit
 

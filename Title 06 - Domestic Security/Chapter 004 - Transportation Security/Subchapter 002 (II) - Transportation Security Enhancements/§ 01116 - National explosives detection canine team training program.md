@@ -74,7 +74,7 @@ There are authorized to be appropriated to the Secretary such sums as may be nec
 
 &emsp;&emsp;(A) develop and issue standards for the use of such third party explosives detection canine assets for the primary screening of air cargo;
 
-&emsp;&emsp;(B) develop a process to identify qualified non-Federal entities that will certify canineassets that meet the standards established by the Administrator under subparagraph (A);
+&emsp;&emsp;(B) develop a process to identify qualified non-Federal entities that will certify canine assets that meet the standards established by the Administrator under subparagraph (A);
 
 &emsp;&emsp;(C) ensure that entities qualified to certify canine assets shall be independent from entities that will train and provide canines to end users of such canine assets;
 

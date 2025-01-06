@@ -30,7 +30,7 @@
 
 &emsp;(A) shall cease to refer veterans to such facility; and
 
-&emsp;(B) may, with the permission of the veteran (or the person or entity authorized by law to give permission on behalf of the veteran), assist in removing a veteran from such facility.
+&emsp;(B) may, with the permission of the veteran (or the person or entity authorized by law togive permission on behalf of the veteran), assist in removing a veteran from such facility.
 
 > Regulations prescribed to carry out this paragraph shall provide for reasonable notice and, upon request made on behalf of the facility, a hearing before any action authorized by this paragraph is taken.
 

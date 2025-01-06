@@ -30,7 +30,7 @@ Notwithstanding section 247, no deduction shall be allowed to a Native Corporati
 
 #### (f) Definitions
 
-For purposes of this section, the terms "Native Corporation" and "Settlement Trust" havethe same meaning given such terms under section 646(h).
+For purposes of this section, the terms "Native Corporation" and "Settlement Trust" have the same meaning given such terms under section 646(h).
 
 (Added Pub. L. 115–97, title I, §13821(a)(1), Dec. 22, 2017, 131 Stat. 2178.)
 

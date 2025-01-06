@@ -102,7 +102,7 @@ Appointment of special master.—The court may appoint a special master to locat
 
 &emsp;&emsp;(E)
 
-Service of order.—The court shall order that service of a copy of the order under this paragraph, and the submissions of the applicant to obtain the order, shall be made by a Federal law enforcement officer who, upon making service, shall carry outthe seizure under the order. The court may allow State or local law enforcement officials to participate, but may not permit the applicant or any agent of the applicant to participate in the seizure. At the request of law enforcement officials, the court may allow a technical expert who is unaffiliated with the applicant and who is bound by a court-approved non-disclosure agreement to participate in the seizure if the court determines that the participation of the expert will aid the efficient execution of and minimize the burden of the seizure.
+Service of order.—The court shall order that service of a copy of the order under this paragraph, and the submissions of the applicant to obtain the order, shall be made by a Federal law enforcement officer who, upon making service, shall carry out the seizure under the order. The court may allow State or local law enforcement officials to participate, but may not permit the applicant or any agent of the applicant to participate in the seizure. At the request of law enforcement officials, the court may allow a technical expert who is unaffiliated with the applicant and who is bound by a court-approved non-disclosure agreement to participate in the seizure if the court determines that the participation of the expert will aid the efficient execution of and minimize the burden of the seizure.
 
 &emsp;&emsp;(F)
 
@@ -138,7 +138,7 @@ Remedies.—In a civil action brought under this subsection with respect to the 
 
 &emsp;&emsp;(A) grant an injunction—
 
-&emsp;&emsp;&emsp;(i) to prevent any actual or threatened misappropriation described in paragraph (1) on such terms as the court deems reasonable, provided the order does not—
+&emsp;&emsp;&emsp;(i) to prevent any actual or threatened misappropriation described in paragraph\(1) on such terms as the court deems reasonable, provided the order does not—
 
 &emsp;&emsp;&emsp;&emsp;(I) prevent a person from entering into an employment relationship, and that conditions placed on such employment shall be based on evidence of threatened misappropriation and not merely on the information the person knows; or
 

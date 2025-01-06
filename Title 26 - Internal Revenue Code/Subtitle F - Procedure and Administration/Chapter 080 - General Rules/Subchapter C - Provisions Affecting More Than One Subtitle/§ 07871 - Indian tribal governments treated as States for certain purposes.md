@@ -108,7 +108,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calendar year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph wouldbe met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calendar year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
 
 #### (iii) Testing period
 
@@ -244,7 +244,7 @@ Pub. L. 100–203, title X, §10632(c), Dec. 22, 1987, 101 Stat. 1330–457, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 112(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 112(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 123(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowships granted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
@@ -282,7 +282,7 @@ For short title of title II of Pub. L. 97–473 as the "Indian Tribal Government
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligationof the United States in effect on Oct. 22, 1986, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

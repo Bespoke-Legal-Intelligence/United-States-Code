@@ -18,7 +18,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;&emsp;Each entity that carries out a program or activities described in subparagraph (B) in a local area shall—
 
-&emsp;&emsp;&emsp;(i) provide access through the one-stop delivery system to such program or activities carried out by the entity, including making the career services described in section 3174(c)(2) of this title that are applicable to the program or activities available at the one-stop centers (in addition to any other appropriate locations);
+&emsp;&emsp;&emsp;(i) provide access through the one-stop delivery system to such program or activities carried out by the entity, including making the career services described insection 3174(c)(2) of this title that are applicable to the program or activities available at the one-stop centers (in addition to any other appropriate locations);
 
 &emsp;&emsp;&emsp;(ii) use a portion of the funds available for the program and activities to maintain the one-stop delivery system, including payment of the infrastructure costs of one-stop centers in accordance with subsection (h);
 
@@ -136,7 +136,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;&emsp;(A) shall be designated or certified as a one-stop operator through a competitive process; and
 
-&emsp;&emsp;(B) shall be an entity (public, private, or nonprofit), or consortium of entities (including a consortium of entities that, at a minimum, includes 3 or more of the one-stoppartners described in subsection (b)(1)), of demonstrated effectiveness, located in the local area, which may include—
+&emsp;&emsp;(B) shall be an entity (public, private, or nonprofit), or consortium of entities (including a consortium of entities that, at a minimum, includes 3 or more of the one-stop partners described in subsection (b)(1)), of demonstrated effectiveness, located in the local area, which may include—
 
 &emsp;&emsp;&emsp;(i) an institution of higher education;
 
@@ -206,7 +206,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (4) Use of common one-stop delivery system identifier
 
-&emsp;In addition to using any State or locally developed identifier, each one-stop delivery system shall include in the identification of products, programs, activities, services, facilities, and related property and materials, a common one-stop delivery system identifier. The identifier shall be developed by the Secretary, in consultation with heads of other appropriate departments and agencies, and representatives of State boards and local boards and of other stakeholders in the one-stop delivery system, not later than the beginning of the second full program year after July 22, 2014. Such common identifier may consist of a logo, phrase, or other identifier that informs users of the one-stop delivery system that such products, programs, activities, services, facilities, property, or materials are being provided through suchsystem. Nothing in this paragraph shall be construed to prohibit one-stop partners, States, or local areas from having additional identifiers.
+&emsp;In addition to using any State or locally developed identifier, each one-stop delivery system shall include in the identification of products, programs, activities, services, facilities, and related property and materials, a common one-stop delivery system identifier. The identifier shall be developed by the Secretary, in consultation with heads of other appropriate departments and agencies, and representatives of State boards and local boards and of other stakeholders in the one-stop delivery system, not later than the beginning of the second full program year after July 22, 2014. Such common identifier may consist of a logo, phrase, or other identifier that informs users of the one-stop delivery system that such products, programs, activities, services, facilities, property, or materials are being provided through such system. Nothing in this paragraph shall be construed to prohibit one-stop partners, States, or local areas from having additional identifiers.
 
 #### (f) Application to certain vocational rehabilitation programs
 
@@ -278,7 +278,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (B) Guidance for infrastructure funding
 
-&emsp;&emsp;In addition to carrying out the requirements relating to the State infrastructurefunding mechanism described in paragraph (2), the Governor, after consultation with chief elected officials, local boards, and the State board, and consistent with the guidance and policies provided by the State board under subparagraphs (B) and (C)(i) of section 3111(d)(7) of this title, shall provide, for the use of local areas under subparagraph (A)(i)(I)—
+&emsp;&emsp;In addition to carrying out the requirements relating to the State infrastructure funding mechanism described in paragraph (2), the Governor, after consultation with chief elected officials, local boards, and the State board, and consistent with the guidance and policies provided by the State board under subparagraphs (B) and (C)(i) of section 3111(d)(7) of this title, shall provide, for the use of local areas under subparagraph (A)(i)(I)—
 
 &emsp;&emsp;&emsp;(i) guidelines for State-administered one-stop partner programs, for determining such programs' contributions to a one-stop delivery system, based on such programs' proportionate use of such system consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), including determining funding for the costs of infrastructure, which contributions shall be negotiated pursuant to the memorandum of understanding under subsection (c); and
 
@@ -298,7 +298,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation with chief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts for the proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation with chief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts forthe proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
 
 #### (ii) Special rule
 
@@ -322,7 +322,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (I) WIA formula programs and employment service
 
-&emsp;&emsp;&emsp;&emsp;The portion of funds required to be contributed under this paragraph from aprogram authorized under subpart 2 or 3, or the Wagner-Peyser Act (29 U.S.C. 49 et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
+&emsp;&emsp;&emsp;&emsp;The portion of funds required to be contributed under this paragraph from a program authorized under subpart 2 or 3, or the Wagner-Peyser Act (29 U.S.C. 49 et seq.) shall not exceed 3 percent of the amount of Federal funds provided to carry out that program in the State for a fiscal year.
 
 #### (II) Other one-stop partners
 
@@ -346,7 +346,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (iv) Native American programs
 
-&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
+&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for theone-stop center and shall be stated in the memorandum.
 
 #### (E) Appeal by one-stop partners
 
@@ -370,7 +370,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (1) In general
 
-&emsp;Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to the funds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided undersubsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
+&emsp;Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to the funds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided under subsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
 
 #### (2) Shared services
 
@@ -392,7 +392,7 @@ The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), i
 
 The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see ShortTitle note set out under section 2301 of Title 20 and Tables.
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 

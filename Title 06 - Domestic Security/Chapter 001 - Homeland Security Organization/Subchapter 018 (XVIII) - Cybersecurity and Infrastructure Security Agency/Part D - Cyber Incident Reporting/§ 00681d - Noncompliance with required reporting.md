@@ -24,7 +24,7 @@ In the event that a covered entity that is required to submit a report under sec
 
 #### (A) In general
 
-&emsp;&emsp;If a covered entity fails to comply with a subpoena, the Director may refer the matterto the Attorney General to bring a civil action in a district court of the United States to enforce such subpoena.
+&emsp;&emsp;If a covered entity fails to comply with a subpoena, the Director may refer the matter to the Attorney General to bring a civil action in a district court of the United States to enforce such subpoena.
 
 #### (B) Venue
 
@@ -82,7 +82,7 @@ The Director shall submit to Congress an annual report on the number of times th
 
 #### (h) Publication of the annual report
 
-The Director shall publish a version of the annual report required under subsection (g) on the website of the Agency, which shall include, at a minimum, the number of times the Director—
+The Director shall publish a version of the annual report required under subsection (g) on thewebsite of the Agency, which shall include, at a minimum, the number of times the Director—
 
 &emsp;(1) issued an initial request for information pursuant to subsection (b); or
 

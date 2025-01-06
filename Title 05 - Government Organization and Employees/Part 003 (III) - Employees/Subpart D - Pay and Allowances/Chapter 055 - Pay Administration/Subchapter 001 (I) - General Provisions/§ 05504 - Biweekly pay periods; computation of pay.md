@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) an employee on the Isthmus of Panama in the service of the Panama Canal Commission; or
 
-&emsp;&emsp;(B) an employee or individual excluded from the definition of employee in section 5541(2) of this title other than an employee or individual excluded by clauses (ii), (iii), and (xiv) through (xvii) of such section.
+&emsp;&emsp;(B) an employee or individual excluded from the definition of employee in section5541(2) of this title other than an employee or individual excluded by clauses (ii), (iii), and (xiv) through (xvii) of such section.
 
 &emsp;(3) Notwithstanding paragraph (2), an individual who otherwise would be excluded from the definition of employee shall be deemed to be an employee for purposes of this section if the individual's employing agency so elects, under guidelines in regulations promulgated by the Office of Personnel Management under subsection (d)(2).
 
@@ -124,7 +124,7 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended by Pub. L. 97–346, §3(l), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–117, §1, Oct. 11, 1983, 97 Stat. 802, provided that:
 
-"(1) Notwithstanding any other provision of law, effective with respect to pay periods beginning in fiscal years 1984 and 1985, and applicable in the case of an employee as defined in section 5504(b) of title 5, United States Code \[subsection (b) of this section\], any hourly rate derived under section 5504(b)(1) of title 5, United States Code, shall be derived by dividing the annual rate of basic pay by 2,087.
+"(1) Notwithstanding any other provision of law, effective with respect to pay periods beginning in fiscalyears 1984 and 1985, and applicable in the case of an employee as defined in section 5504(b) of title 5, United States Code \[subsection (b) of this section\], any hourly rate derived under section 5504(b)(1) of title 5, United States Code, shall be derived by dividing the annual rate of basic pay by 2,087.
 
 "(2) Paragraph (1) shall not apply in determining basic pay for purposes of subchapter III of chapter 83 of title 5, United States Code.
 

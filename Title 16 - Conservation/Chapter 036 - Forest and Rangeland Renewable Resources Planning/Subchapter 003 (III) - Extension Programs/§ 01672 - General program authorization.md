@@ -20,7 +20,7 @@ The Secretary of Agriculture (hereinafter in this subchapter referred to as the 
 
 &emsp;(8) help identify areas of needed research regarding renewable resources;
 
-&emsp;(9) in cooperation with State foresters or equivalent State officials, promote public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community area environments and expand knowledge of the ecological relationships andbenefits of trees and related resources in urban and community environments; and
+&emsp;(9) in cooperation with State foresters or equivalent State officials, promote public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community area environments and expand knowledge of the ecological relationships and benefits of trees and related resources in urban and community environments; and
 
 &emsp;(10) conduct a comprehensive natural resource and environmental education program for landowners and managers, public officials, and the public, with particular emphasis on youth.
 
@@ -46,7 +46,7 @@ Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(8) to (10). Pub. L. 102–237 struck out "and" at end of par. (8), substituted "; and" for period at end of par. (9), and redesignated par. (9), relating to education program, as (10).
+<b>1991</b>—Subsec. (a)(8) to (10). Pub. L. 102–237 struck out "and" at end of par. (8), substituted "; and" for periodat end of par. (9), and redesignated par. (9), relating to education program, as (10).
 
 <b>1990</b>—Subsec. (a)(9). Pub. L. 101–624, §1251(b), added par. (9) relating to education programs for landowners, managers, public officials, and the public.
 

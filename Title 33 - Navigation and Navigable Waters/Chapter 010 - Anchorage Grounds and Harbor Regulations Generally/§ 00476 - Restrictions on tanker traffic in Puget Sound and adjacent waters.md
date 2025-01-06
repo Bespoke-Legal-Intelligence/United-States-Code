@@ -4,7 +4,7 @@
 
 &emsp;(1) the navigable waters of Puget Sound in the State of Washington, and the natural resources therein, are a fragile and important national asset;
 
-&emsp;(2) Puget Sound and the shore area immediately adjacent thereto is threatened by increased domestic and international traffic of tankers carrying crude oil in bulk which increases the possibility of vessel collisions and oil spills; and
+&emsp;(2) Puget Sound and the shore area immediately adjacent thereto is threatened by increased domestic and international traffic oftankers carrying crude oil in bulk which increases the possibility of vessel collisions and oil spills; and
 
 &emsp;(3) it is necessary to restrict such tanker traffic in Puget Sound in order to protect the navigable waters thereof, the natural resources therein, and the shore area immediately adjacent thereto, from environmental harm.
 

@@ -26,7 +26,7 @@
 
 #### (4) Waivers
 
-&emsp;The Attorney General may waive the requirement of an assessment in paragraph\(2)(C) for a State or specially qualified unit of local government, or in paragraph (3)(B) for a unit of local government, if the Attorney General determines that—
+&emsp;The Attorney General may waive the requirement of an assessment in paragraph (2)(C) for a State or specially qualified unit of local government, or in paragraph (3)(B) for a unit of local government, if the Attorney General determines that—
 
 &emsp;&emsp;(A) the nature of the activities are such that assessing their effectiveness would not be practical or insightful;
 

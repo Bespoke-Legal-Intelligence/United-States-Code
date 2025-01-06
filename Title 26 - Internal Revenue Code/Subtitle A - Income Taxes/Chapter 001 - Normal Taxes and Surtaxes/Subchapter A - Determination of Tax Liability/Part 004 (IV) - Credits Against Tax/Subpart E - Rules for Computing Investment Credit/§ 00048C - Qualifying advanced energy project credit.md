@@ -178,7 +178,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (B) Time to meet criteria for certification
 
-&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that therequirements of the certification have been met.
+&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
 
 #### (C) Period of issuance
 
@@ -270,7 +270,7 @@ Pub. L. 117–169, title I, §13501(e), Aug. 16, 2022, 136 Stat. 1971, provided 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 209(g) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+Amendment by section 209(g) of Pub. L. 113–295 effective as if included in the provisions of the AmericanRecovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 Amendment by section 221(a)(2)(C) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 

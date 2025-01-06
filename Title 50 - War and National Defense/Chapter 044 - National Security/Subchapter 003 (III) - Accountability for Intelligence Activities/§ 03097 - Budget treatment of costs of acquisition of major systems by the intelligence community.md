@@ -2,7 +2,7 @@
 
 #### (a) Independent cost estimates
 
-(1) The Director of National Intelligence shall, in consultation with the head of each element ofthe intelligence community concerned, prepare an independent cost estimate of the full life-cycle cost of development, procurement, and operation of each major system to be acquired by the intelligence community.
+(1) The Director of National Intelligence shall, in consultation with the head of each element of the intelligence community concerned, prepare an independent cost estimate of the full life-cycle cost of development, procurement, and operation of each major system to be acquired by the intelligence community.
 
 (2)(A) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
 
@@ -112,7 +112,7 @@ Pub. L. 108–177, title III, §312(a), Dec. 13, 2003, 117 Stat. 2606, provided 
 
 &emsp;"(2) While some increases in the costs of acquisition of major systems by the intelligence community are unavoidable, the magnitude of growth in the costs of acquisition of many major systems indicates a systemic bias within the intelligence community to underestimate the costs of such acquisition, particularly in the preliminary stages of development and production.
 
-&emsp;"(3) Decisions by Congress to fund the acquisition of major systems by the intelligence community rely significantly upon initial estimates of the affordability of acquiring such major systems and occur within a context in which funds can be allocated for a variety of alternative programs. Thus, substantial increases in costs of acquisition of major systems place significant burdens on the availability of fundsfor other programs and new proposals within the National Foreign Intelligence Program.
+&emsp;"(3) Decisions by Congress to fund the acquisition of major systems by the intelligence community rely significantly upon initial estimates of the affordability of acquiring such major systems and occur within a context in which funds can be allocated for a variety of alternative programs. Thus, substantial increases in costs of acquisition of major systems place significant burdens on the availability of funds for other programs and new proposals within the National Foreign Intelligence Program.
 
 &emsp;"(4) Independent cost estimates, prepared by independent offices, have historically represented a more accurate projection of the costs of acquisition of major systems.
 

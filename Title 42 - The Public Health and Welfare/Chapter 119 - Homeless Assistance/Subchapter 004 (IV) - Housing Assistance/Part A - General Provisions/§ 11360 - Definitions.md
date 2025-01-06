@@ -62,7 +62,7 @@ For purposes of this subchapter:
 
 #### (5) Consolidated Plan
 
-&emsp;The term "Consolidated Plan" means a comprehensive housing affordability strategy andcommunity development plan required in part 91 of title 24, Code of Federal Regulations.
+&emsp;The term "Consolidated Plan" means a comprehensive housing affordability strategy and community development plan required in part 91 of title 24, Code of Federal Regulations.
 
 #### (6) Eligible entity
 

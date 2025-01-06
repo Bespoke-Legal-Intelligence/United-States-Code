@@ -10,7 +10,7 @@ Coordination of Activities.—The Secretary shall take appropriate actions to en
 
 (c)
 
-Availability of Information Material.—The Secretary will furnish the State approving agencies with copies of such Department of Veterans Affairs informational material as may aidthem in carrying out chapters 34 and 35 of this title.
+Availability of Information Material.—The Secretary will furnish the State approving agencies with copies of such Department of Veterans Affairs informational material as may aid them in carrying out chapters 34 and 35 of this title.
 
 (d)
 
@@ -124,7 +124,7 @@ Subsec. (b). Pub. L. 89–358, §3(a)(7), substituted "chapters 34 and 35" for "
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–315, title I, §1013(b)(2), Jan. 5, 2021, 134 Stat. 4943, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2022."
+Pub. L. 116–315, title I, §1013(b)(2), Jan. 5, 2021, 134 Stat. 4943, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect on October 1, 2022."
 
 Pub. L. 116–315, title I, §1014(b), Jan. 5, 2021, 134 Stat. 4945, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on August 1, 2021."
 

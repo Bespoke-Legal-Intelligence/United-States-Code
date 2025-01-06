@@ -46,7 +46,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsec. (c)(2). Pub. L. 107–217, §3(c)(3)(B), substituted "sections 541–555 of title 40" for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324, §408, inserted "to the Coast Guard Auxiliary, including any incorporatedunit thereof," after "with or without charge," and struck out "to any incorporated unit of the Coast Guard Auxiliary," after "Boy Scouts of America,".
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §408, inserted "to the Coast Guard Auxiliary, including any incorporated unit thereof," after "with or without charge," and struck out "to any incorporated unit of the Coast Guard Auxiliary," after "Boy Scouts of America,".
 
 Subsec. (c)(2). Pub. L. 104–324, §1119, inserted ", except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant" before period at end.
 

@@ -76,7 +76,7 @@
 
 (18) The term "Attorney General" means the Attorney General of the United States <sup>1</sup>
 
-(19) The term "published ordinance" means a published law of any political subdivision of a State which the Attorney General determines to be relevant to the enforcement of this chapter and which is contained on a list compiled by the Attorney General, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
+(19) The term "published ordinance" means a published law of any political subdivision of a State which the Attorney General determines tobe relevant to the enforcement of this chapter and which is contained on a list compiled by the Attorney General, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
 
 (20) The term "crime punishable by imprisonment for a term exceeding one year" does not include—
 
@@ -184,7 +184,7 @@
 
 (35) The term "body armor" means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
-(36) The term "local law enforcement authority" means a bureau, office, department or other authority of a State or local government or Tribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
+(36) The term "local law enforcement authority" means a bureau, office, department or other authority of a State or local government orTribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
 
 (37)(A) The term "dating relationship" means a relationship between individuals who have or have recently had a continuing serious relationship of a romantic or intimate nature.
 
@@ -198,9 +198,19 @@
 
 (C) A casual acquaintanceship or ordinary fraternization in a business or social context does not constitute a dating relationship under subparagraph (A).
 
+(38) The term "verified electronic notification", with respect to a communication to a chief law enforcement officer required under section 922(c)(2), means a digital communication—
+
+&emsp;(A) sent to the electronic communication address that the chief law enforcement officer voluntarily designates for the purpose of receiving those communications; and
+
+&emsp;(B) that includes a method for verifying—
+
+&emsp;&emsp;(i) the receipt of the communication; and
+
+&emsp;&emsp;(ii) the electronic communication address to which the communication is sent.
+
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, §809(e)(2), Aug. 13, 2018, 132 Stat. 1842; Pub. L. 117–103, div. W, title XI, §§1101(b), 1104(a), Mar. 15, 2022, 136 Stat. 919, 921; Pub. L. 117–159, div. A, title II, §§12002, 12005(a), (c), June 25, 2022, 136 Stat. 1324, 1332.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, §809(e)(2), Aug. 13, 2018, 132 Stat. 1842; Pub. L. 117–103, div. W, title XI, §§1101(b), 1104(a), Mar. 15, 2022, 136 Stat. 919, 921; Pub. L. 117–159, div. A, title II, §§12002, 12005(a), (c), June 25, 2022, 136 Stat. 1324, 1332; Pub. L. 118–159, div. E, title LII, §5211(a), Dec. 23, 2024, 138 Stat. 2444.)
 
 #### <b>Editorial Notes</b>
 
@@ -210,13 +220,15 @@ For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b)
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(38). Pub. L. 118–159 added par. (38).
+
 <b>2022</b>—Subsec. (a)(21)(C). Pub. L. 117–159, §12002(1), substituted "to predominantly earn a profit" for "with the principal objective of livelihood and profit".
 
 Subsec. (a)(22) to (30). Pub. L. 117–159, §12002(2), (3), added par. (22) and redesignated former pars. (22) to (29) as (23) to (30), respectively.
 
 Subsec. (a)(33)(A). Pub. L. 117–159, §12005(c)(1)(A), substituted "subparagraphs (B) and (C)" for "subparagraph (C)" in introductory provisions.
 
-Subsec. (a)(33)(A)(i). Pub. L. 117–159, §12005(c)(1)(B), which directed substitution of "State," for "State,," incl. (ii) of par. (33)(A), was executed in cl. (i) of par. (33)(A) to reflect the probable intent of Congress.
+Subsec. (a)(33)(A)(i). Pub. L. 117–159, §12005(c)(1)(B), which directed substitution of "State," for "State,," in cl. (ii) of par. (33)(A), was executed in cl. (i) of par. (33)(A) to reflect the probable intent of Congress.
 
 Pub. L. 117–103, §1104(a), substituted ", Tribal, or local law" for "or Tribal law".
 
@@ -256,7 +268,7 @@ Subsec. (a)(16). Pub. L. 105–277, §101(h) \[title I, §115(3)\], added par. (
 
 &emsp;&emsp;"(i) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or
 
-&emsp;&emsp;"(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade."
+&emsp;&emsp;"(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured inthe United States and which is not readily available in the ordinary channels of commercial trade."
 
 Subsec. (a)(34). Pub. L. 105–277, §101(b) \[title I, §119(a)\], added par. (34).
 
@@ -338,7 +350,7 @@ Pub. L. 103–322, title XI, §110105, Sept. 13, 1994, 108 Stat. 2000, provided 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–647, title XVII, §1702(b)(4), Nov. 29, 1990, 104 Stat. 4845, provided that: "The amendments made by this section \[amending this section and sections 922 and 924 of this title\] shall apply to conduct engaged in after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\]."
+Pub. L. 101–647, title XVII, §1702(b)(4), Nov. 29, 1990, 104 Stat. 4845, provided that: "The amendments made by this section \[amending this section and sections 922 and 924 of this title\] shall apply to conduct engaged inafter the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\]."
 
 #### Effective Date of 1986 Amendments; Publication and Availability of Compilation of State Laws and Published Ordinances
 
@@ -406,7 +418,7 @@ Pub. L. 99–308, §1(a), May 19, 1986, 100 Stat. 449, provided that: "This Act 
 
 #### Short Title
 
-Pub. L. 90–618, §1, Oct. 22, 1968, 82 Stat. 1213, provided: "That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the 'Gun Control Act of 1968'."
+Pub. L. 90–618, §1, Oct. 22, 1968, 82 Stat. 1213, provided: "That this Act \[enacting sections 5822, 5871 and 5872 ofTitle 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the 'Gun Control Act of 1968'."
 
 #### Restrictions on Amendment of Regulations as to Curios or Relics
 
@@ -462,7 +474,7 @@ Pub. L. 90–351, title IV, §901, June 19, 1968, 82 Stat. 225, provided that:
 
 &emsp;"(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
 
-&emsp;"(8) that the lack of adequate Federal control over interstate and foreign commerce in highly destructive weapons (such as bazookas, mortars, antitank guns, and so forth, and destructive devices such as explosive or incendiary grenades, bombs, missiles, and so forth) has allowed such weapons and devices to fall into the hands of lawless persons, including armed groups who would supplant lawful authority, thus creating a problem of national concern;
+&emsp;"(8) that the lack of adequate Federal control over interstate and foreign commerce in highly destructive weapons (such as bazookas, mortars, antitank guns, and so forth, and destructive devices such as explosive or incendiary grenades, bombs, missiles, and so forth) has allowed such weapons and devices to fallinto the hands of lawless persons, including armed groups who would supplant lawful authority, thus creating a problem of national concern;
 
 &emsp;"(9) that the existing licensing system under the Federal Firearms Act \[former sections 901 to 910 of Title 15, Commerce and Trade\] does not provide adequate license fees or proper standards for the granting or denial of licenses, and that this has led to licenses being issued to persons not reasonably entitled thereto, thus distorting the purposes of the licensing system.
 
@@ -504,7 +516,7 @@ Ex. Ord. No. 14092, Mar. 14, 2023, 88 F.R. 16527, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
 
-Section 1. <i>Policy</i>. Every few days in the United States, we mourn a new mass shooting. Daily acts of gun violence—including community violence, domestic violence, suicide, and accidental shootings—may not always make the evening news, but they too cut livesshort and leave survivors and their communities with long-lasting physical and mental wounds. We cannot accept these facts as the enduring reality of life in America. Instead, we must together insist that we have had enough, and that we will no longer allow the interests of the gun manufacturers to win out over the safety of our children and Nation.
+Section 1. <i>Policy</i>. Every few days in the United States, we mourn a new mass shooting. Daily acts of gun violence—including community violence, domestic violence, suicide, and accidental shootings—may not always make the evening news, but they too cut lives short and leave survivors and their communities with long-lasting physical and mental wounds. We cannot accept these facts as the enduring reality of life in America. Instead, we must together insist that we have had enough, and that we will no longer allow the interests of the gun manufacturers to win out over the safety of our children and Nation.
 
 It is the policy of my Administration that executive departments and agencies (agencies) will pursue every legally available and appropriate action to reduce gun violence. Through this whole-of-government approach, my Administration has made historic progress to save lives. My Administration has taken action to keep guns out of dangerous hands and especially dangerous weapons off of our streets; hold gun traffickers and rogue gun dealers accountable; fund accountable, effective community policing; and invest in community violence interventions and prevention strategies.
 
@@ -516,7 +528,7 @@ Sec. 2. <i>Implementation of the Bipartisan Safer Communities Act</i>. The Attor
 
 Sec. 3. <i>Additional Agency Actions to Reduce Gun Violence</i>. (a) The Attorney General shall develop and implement a plan to:
 
-(i) clarify the definition of who is engaged in the business of dealing in firearms, and thus required to become Federal firearms licensees (FFLs), in order to increase compliance with the Federal background check requirement for firearm sales, including by considering a rulemaking, as appropriate and consistent with applicable law;
+(i) clarify the definition of who is engaged in the business of dealing in firearms, and thus required to become Federal firearms licensees (FFLs), in order to increase compliance with the Federal background checkrequirement for firearm sales, including by considering a rulemaking, as appropriate and consistent with applicable law;
 
 (ii) prevent former FFLs whose licenses have been revoked or surrendered from continuing to engage in the business of dealing in firearms;
 
@@ -539,6 +551,150 @@ Sec. 3. <i>Additional Agency Actions to Reduce Gun Violence</i>. (a) The Attorne
 (h) The Federal Trade Commission is encouraged to issue a public report analyzing how gun manufacturers market firearms to minors and how such manufacturers market firearms to civilians, including through the use of military imagery.
 
 Sec. 4. <i>Definitions</i>. For purposes of this order, the term "Federal law enforcement agency" means an organizational unit or subunit of the executive branch that employs officers who are authorized to make arrests and carry firearms, and that is responsible for the prevention, detection, and investigation of crime or the apprehension of alleged offenders. The term "heads of Federal law enforcement agencies" means the heads of those units or subunits.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14127. Combating Emerging Firearms Threats and Improving School-Based Active-Shooter Drills
+
+Ex. Ord. No. 14127, Sept. 26, 2024, 89 F.R. 80345, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. During 2020, the last year of the prior administration, homicides in the Nation increased nearly 30 percent over the previous year—the largest 1-year increase in murders ever recorded. After that, the Vice President and I took action to reduce gun crime and other forms of violent crime. By the middle of 2022, we had already taken more executive action to reduce gun violence than any other administration at that point in time. On June 25, 2022, I signed into law the Bipartisan Safer Communities Act (Public Law 117–159)—the most significant new gun violence prevention law in nearly 30 years. Rates of homicide in the United States are falling at one of the fastest rates ever recorded. Year-over-year comparison shows that 2023 had one of the largest declines in the homicide rate in recent history. This life-saving progress has continued in 2024. While we have made great progress, much more work remains to be done to reduce gun violence and save lives.
+
+It is the policy of my Administration to coordinate across executive departments and agencies (agencies) to reduce gun violence and save lives. This order directs enhanced coordination for two key challenges: combating emerging firearms threats and understanding and improving school-based active-shooter drills.
+
+One way to continue the progress on reducing gun violence is to stay ahead of emerging violent crime threats involving firearms. My Administration has always taken these threats seriously. In April 2021, one of my Administration's first executive actions to reduce gun violence was directed at stopping the proliferation of firearms without serial numbers, often referred to as "ghost guns." To expand these efforts, the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) of the Department of Justice established an Emerging Threats Center, which focuses ATF's resources on identifying developments in illicit firearm marketplaces, including the use of new technologies to make and unlawfully distribute undetectable firearms and devices that convert semiautomatic firearms into illegal machineguns. The Vice President and I strongly disagreed with the Supreme Court's decision to strike down an important gun safety regulation on bump stocks—the device used in the shooting at a crowded music festival in Las Vegas—and called on the Congress to clarify that this dangerous accessory is a machinegun.
+
+The Court's decision addressing bump stocks did not alter the statutory prohibition on machinegun conversion devices, which are prohibited for non-governmental possession even when not installed on a firearm. The threat posed by the continued proliferation of these devices is particularly acute. These devices enable semiautomatic firearms, including easily concealable handguns, to match or exceed the rate of fire of many military machineguns with a single engagement of the trigger—up to 20 bullets in one second and 1,200 rounds in one minute. From 2017 through 2021, ATF recovered 5,454 of these devices—a 570 percent increase over the previous 5-year period. These devices are often illegally imported or illegally made on a 3D printer.
+
+Unserialized, 3D printed firearms—which can be used for illicit purposes such as gun trafficking, possession by people convicted of felonies or subject to domestic violence restraining orders, or unlawful engagement in the business of manufacturing or selling firearms—are another emerging threat. These firearms can be 3D printed from computer code downloaded from the internet and produced without serial numbers, which law enforcement uses to trace firearms recovered in criminal investigations. Some 3D printed firearms can be rendered undetectable by magnetometers used to secure airports, courthouses, and certain events. 3D printing technology is developing quickly, which can cause the safety threat of 3D printed firearms to suddenly increase.
+
+In addition to the threat of domestic crime, these emerging firearms threats pose a significant risk to the national security and foreign policy interests of the United States. Many foreign countries have heavily regulated automatic weapons and 3D printed and undetectable firearms. The wide availability of these emerging firearms threats would undermine other nations' gun laws and the safety and security of our allies. Technical data and software for 3D printed firearms and machinegun conversion devices can be used by international gangs, criminals, and terrorists in a manner contrary to United States national security and foreign policy interests.
+
+Multiple agencies have the authority to help stop the proliferation of these emerging threats, and it is the policy of the United States to work collectively across agencies to identify threats, engage in information sharing, and work together to develop and implement effective strategies to combat these threats. Authorities that can address emerging firearms threats extend beyond the Gun Control Act \[of 1968\] (Public Law 90–618) and the National Firearms Act (Public Law 73–474) \[see 26 U.S.C. 5801 et seq.\]. Focused and enhanced coordination is needed to ensure a unified and robust strategy for enforcing existing legal authorities and using every available tool and resource. This interagency effort will build on the life-saving work that has occurred to date to stop the proliferation of machinegun conversion devices, including the ongoing efforts at the Department of Justice and ATF.
+
+My Administration also has invested significant resources in school safety and has taken steps to keeps \[sic\] firearms out of schools. These steps have focused on preventing unauthorized access to firearms for youth and individuals in crisis; supporting schools that are implementing evidence-based safety and gun-violence prevention and intervention solutions; and addressing the mental health needs of students, particularly those impacted by gun violence.
+
+Keeping students and educators, including teachers and other school personnel, safe from gun violence in their schools is a top priority for my Administration, but there is more to do to make our schools safer. Since the mass shooting at Columbine High School in Colorado in 1999, according to one analysis, there have been more than 400 school shootings that exposed more than 375,000 students to gun violence. Exposure to school shootings takes a terrible toll on students and educators. A nationally representative study found that 51 percent of 14- to 17-year-olds in the United States worry about school shootings.
+
+The majority of States require schools to conduct active-shooter drills for students and educators. About 95 percent of K–12 public schools in the United States conduct lockdown drills, which include drills to prepare for an active-shooter situation. These drills vary widely in their approach, and many parents, students, and educators have expressed concerns over the effectiveness of and trauma caused by some approaches to these drills.
+
+Despite their ubiquity, there is very limited research on how to design and deploy these drills to maximize their effectiveness and minimize any collateral harms they might cause. While additional research is ongoing, it is difficult to conclusively determine which specific practices are most effective in preparing schools for active-shooter incidents, preventing injuries and fatalities, and minimizing any associated psychological impacts or traumas. The Department of Justice, the Department of Health and Human Services, the Department of Education, and the Department of Homeland Security continue to work together on a range of school safety issues, including the beginnings of research into these important questions. It is time for these agencies to extend their efforts to help schools better design and conduct effective and age- and developmentally appropriate active-shooter drills.
+
+Sec. 2. <i>Definitions</i>. For purposes of this order:
+
+(a) The term "machinegun" has the meaning given by 18 U.S.C. 921(a)(24) and 26 U.S.C. 5845(b), and includes a "machinegun conversion device," which is any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun.
+
+(b) The term "undetectable firearm" means a firearm as proscribed by 18 U.S.C. 922(p).
+
+(c) The term "3D printing" refers to the additive manufacturing process, during which producers transmit digital designs to 3D printers. The computerized design guides the fabrication of products, building them up layer by layer rather than cutting away from a large block of existing material as in most traditional manufacturing. This term includes additive manufacturing technology used to produce a firearm, firearm frame or receiver, or machinegun conversion device.
+
+Sec. 3. <i>Combating Emerging Firearms Threats</i>. (a) There is hereby established an interagency Emerging Firearms Threats Task Force (Task Force). The Task Force shall be chaired by the Director of the Office of Gun Violence Prevention. In addition to the Chair, the Task Force shall consist of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Attorney General;
+
+(iii) the Secretary of Commerce;
+
+(iv) the Secretary of Homeland Security;
+
+(v) the Director of the Office of Management and Budget;
+
+(vi) the Director of the Office of Science and Technology Policy;
+
+(vii) the Assistant to the President and Homeland Security Advisor;
+
+(viii) the Counsel to the President;
+
+(ix) the Assistant to the President and Director of the Domestic Policy Council;
+
+(x) the Deputy Assistant to the President and Domestic Policy Advisor to the Vice President; and
+
+(xi) the heads of such other agencies and offices as the Chair may from time to time invite to participate.
+
+(b) Within 90 days of the date of this order \[Sept. 26, 2024\], the Task Force shall submit to the President, through the Director of the Office of Gun Violence Prevention, a report containing a risk assessment and strategy to stop the proliferation of machinegun conversion devices, with a particular emphasis on the devices used to convert a standard, semiautomatic firearm to a machinegun. The risk assessment and strategy shall include:
+
+(i) information regarding the use, recovery, origins, and distribution channels of machinegun conversion devices, including:
+
+&emsp;(A) the software or technology used for 3D printing machinegun conversion devices; and
+
+&emsp;(B) the origins of machinegun conversion devices that are seized at ports of entry, illegally importedinto the United States, or otherwise recovered by law enforcement agencies in the United States;
+
+(ii) an assessment of existing applicable legal authorities of the agencies represented on the Task Force and other agencies identified at the direction of the Chair to regulate software or technology used to make machinegun conversion devices, which shall include a review of export and import laws;
+
+(iii) an assessment of the technological and legal feasibility of 3D printing companies designing 3D printers that block the functional capacities of software that can 3D print machinegun conversion devices;
+
+(iv) an assessment of the operational capabilities and legal authorities of agencies to detect, intercept, and seize machinegun conversion devices that are illegally imported or illegally produced domestically, including through 3D printing;
+
+(v) an interagency plan for expanding U.S. Customs and Border Protection initiatives with Federal, State, Tribal, and local law enforcement to stop the flow into the United States of machinegun conversion devices;
+
+(vi) an interagency plan for seizing as criminal instrumentalities 3D printers that are acquired for the purpose of illegally making machinegun conversion devices and recommendations for additional administrative actions necessary to facilitate such seizure;
+
+(vii) an interagency plan for expanding partnerships with State, Tribal, and local law enforcement for Federal training on identifying machinegun conversion devices, tracing the firearms to which they were attached, and submitting seizure data to ATF;
+
+(viii) an interagency plan—with input from 3D data providers, technology companies, and civil society—for voluntary, regulatory, and international mechanisms to limit the availability on the internet of files used for the purpose of unlawfully producing machinegun conversion devices;
+
+(ix) an interagency plan for effective coordination to limit the illegal export and import of software or technology on the internet that can be readily used to 3D print machinegun conversion devices; and
+
+(x) recommendations for any additional authorities or funding agencies need from the Congress to more effectively address the proliferation of machinegun conversion devices.
+
+(c) Within 90 days of the date of this order, the Task Force shall submit to the President, through the Director of the Office of Gun Violence Prevention, a report containing a risk assessment and strategy to address the emerging threat related to 3D printed firearms, including unserialized or undetectable 3D printed firearms. The risk assessment and strategy shall include:
+
+(i) information regarding the usage, recovery, origins, and distribution channels of 3D printed unserialized firearms and 3D printed undetectable firearms, including the software or technology used for 3D printing unserialized firearms or undetectable firearms;
+
+(ii) an assessment of how 3D printing of firearms can facilitate violation of the Undetectable Firearms Act \[of 1988, Pub. L. 100–649\] (18 U.S.C. 922(p));
+
+(iii) an assessment of existing authorities, including export and import laws, that regulate software or technology used for 3D printing firearms, including undetectable firearms;
+
+(iv) an assessment of the technological feasibility of 3D printers proactively blocking the functional capacities of software used to 3D print undetectable firearms;
+
+(v) an interagency plan for seizing as criminal instrumentalities 3D printers acquired for the purpose of illegally producing or dealing in firearms, including unserialized or undetectable firearms, or for the purpose of producing firearms for criminal purposes, and recommendations for additional administrative actions that may be necessary to facilitate such seizures;
+
+(vi) an interagency plan for effective coordination between the Department of Justice and the Department of Commerce to limit the illegal export or import of software or technology on the internet that can be readily used to illegally 3D print firearms, including unserialized or undetectable firearms;
+
+(vii) an interagency plan for expanding partnerships with Federal, State, Tribal, and local law enforcement to train them on identifying undetectable or unserialized firearms made with 3D printing software or technology and reporting recoveries of such firearms to ATF; and
+
+(viii) recommendations for any additional authorities or funding the agencies need from the Congress to more effectively address the problem of 3D printed firearms, including unserialized or undetectable firearms.
+
+(d) The Task Force shall be responsible for interagency coordination necessary to facilitate agencies' implementation of the recommendations and strategies in the reports described in subsections (b) and (c) of this section.
+
+(e) At the direction of the Chair, the Task Force may coordinate interagency efforts to address additional emerging firearms threats.
+
+Sec. 4. <i>Understanding and Improving School-Based Active-Shooter Drills</i>. (a) Within 110 days of the date of this order, the Secretary of Education and the Secretary of Homeland Security, in coordination with the Attorney General, the Secretary of Health and Human Services, and the Surgeon General, shall develop and publish information about school-based active-shooter drills for schools, including institutions of higher education, and for State, Tribal, and local educational agencies. Such information shall include:
+
+(i) a summary of existing research and recommendations on active-shooter drills, including information on:
+
+&emsp;(A) how educators can collaborate within schools—as well as with families; communities; State, Tribal, and local law enforcement; and other emergency response officials—to implement drills that effectively prepare a response to school-based active-shooter situations, including by accounting for the particular needs of educators and students with disabilities; sharing evidence-informed age- and developmentally appropriate practices, such as those that prevent or limit trauma and psychological harm to those participating in drills; and facilitating effective and timely communication with students, educators, first responders, family members, and other relevant stakeholders; and
+
+&emsp;(B) how schools must comply with Federal civil rights laws prohibiting discrimination on the basis of race, color, national origin, sex, and disability when creating, implementing, and evaluating active-shooter drills, including by effectively serving educators and students with disabilities as well as ensuring that communications with educators and students consider their language-related needs (e.g., communicating in a manner and language that educators and students are able to understand); and
+
+(ii) resources on school-based active-shooter drills, including information on:
+
+&emsp;(A) the types of drills that may be appropriate to prepare students and educators for school-based active-shooter situations; and
+
+&emsp;(B) how to create, implement, and evaluate evidence-informed, effective, and age- and developmentally appropriate school-based drills, including:
+
+&emsp;&emsp;(1) how best to engage with students, family members, educators, law enforcement, and other relevant stakeholders on the process for creating, implementing, and evaluating these drills;
+
+&emsp;&emsp;(2) how best to communicate with students, family members, educators, and other relevant stakeholders before, during, and after the drill, including through the use of notification plans for students, educators, parents, and other parties;
+
+&emsp;&emsp;(3) how to prevent or limit trauma or psychological distress associated with active-shooter drills and support students and educators who may experience such trauma or psychological distress; and
+
+&emsp;&emsp;(4) how best to serve people with disabilities and those with unique language-related needs.
+
+(b) Within 110 days of the date of this order, the Secretary of Education and the Secretary of Homeland Security, in coordination with the Attorney General, the Secretary of Health and Human Services, and the Surgeon General, shall develop and publish information on recommended areas for future research that can help inform policymakers, educators, students, parents, and other relevant stakeholders about different types of school-based active-shooter drills, the appropriate frequency of such drills, and the effects of such drills on students and educators. This information shall include potential funding sources that could help advance research on, and inform improvements to, active-shooter drills.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

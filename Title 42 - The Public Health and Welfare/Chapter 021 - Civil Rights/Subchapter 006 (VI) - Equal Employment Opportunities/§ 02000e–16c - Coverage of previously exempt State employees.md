@@ -32,7 +32,7 @@ Any party aggrieved by a final order under subsection (b) may obtain a review of
 
 #### (d) Standard of review
 
-To the extent necessary to decision and when presented, the reviewing court shall decide allrelevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under subsection (b) if it is determined that the order was—
+To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under subsection (b) if it is determined that the order was—
 
 &emsp;(1) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 

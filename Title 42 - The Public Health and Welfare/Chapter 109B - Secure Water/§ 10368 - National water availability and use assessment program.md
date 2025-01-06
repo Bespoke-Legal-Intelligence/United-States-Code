@@ -90,7 +90,7 @@ The Secretary, in coordination with the Advisory Committee and State and local w
 
 #### (d) Report
 
-Not later than December 31, 2012, and every 5 years thereafter, the Secretary shall submit to the appropriate committees of Congress a report that provides a detailed assessment of—
+Not later than December 31, 2012, and every 5 years thereafter, the Secretary shall submit tothe appropriate committees of Congress a report that provides a detailed assessment of—
 
 &emsp;(1) the current availability of water resources in the United States, including—
 

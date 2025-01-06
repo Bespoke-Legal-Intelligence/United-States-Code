@@ -42,11 +42,11 @@ Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that
 
 #### Short Title
 
-Pub. L. 103–407, §1, Oct. 22, 1994, 108 Stat. 4210, provided that: "This Act \[enacting this chapter\] may becited as the 'Sheep Promotion, Research, and Information Act of 1994'."
+Pub. L. 103–407, §1, Oct. 22, 1994, 108 Stat. 4210, provided that: "This Act \[enacting this chapter\] may be cited as the 'Sheep Promotion, Research, and Information Act of 1994'."
 
 #### Agriculture Wool Apparel Manufacturers Trust Fund
 
-Pub. L. 113–79, title XII, §12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, §12603, Dec. 20, 2018, 132 Stat. 5005; Pub. L. 118–22, div. B, title I, §102(d)(8)(B), Nov. 17, 2023, 137 Stat. 118, provided that:
+Pub. L. 113–79, title XII, §12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, §12603, Dec. 20, 2018, 132 Stat. 5005; Pub. L. 118–22, div. B, titleI, §102(d)(8)(B), Nov. 17, 2023, 137 Stat. 118, provided that:
 
 "(a)
 

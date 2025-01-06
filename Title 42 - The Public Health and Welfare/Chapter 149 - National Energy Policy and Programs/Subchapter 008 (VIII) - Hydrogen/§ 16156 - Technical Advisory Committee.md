@@ -12,7 +12,7 @@ The Hydrogen Technical and Fuel Cell Advisory Committee is established to advise
 
 #### (2) Terms
 
-&emsp;The term of a member of the Technical Advisory Committee shall not be more than 3years. The Secretary may appoint members of the Technical Advisory Committee in a manner that allows the terms of the members serving at any time to expire at spaced intervals so as to ensure continuity in the functioning of the Technical Advisory Committee. A member of the Technical Advisory Committee whose term is expiring may be reappointed.
+&emsp;The term of a member of the Technical Advisory Committee shall not be more than 3 years. The Secretary may appoint members of the Technical Advisory Committee in a manner that allows the terms of the members serving at any time to expire at spaced intervals so as to ensure continuity in the functioning of the Technical Advisory Committee. A member of the Technical Advisory Committee whose term is expiring may be reappointed.
 
 #### (3) Chairperson
 

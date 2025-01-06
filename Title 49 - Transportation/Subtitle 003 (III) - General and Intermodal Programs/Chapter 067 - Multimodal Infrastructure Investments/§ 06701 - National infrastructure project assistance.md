@@ -410,7 +410,7 @@ Contingent commitment.—A contingent commitment under this paragraph is not an 
 
 &emsp;(4)
 
-Single-year grants.—The Secretary may only provide to an eligible entity a full grant under the program in a single year if all reviews required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to the applicable project have been completed before the receipt of any program funds.
+Single-year grants.—The Secretary may only provide to an eligible entity a fullgrant under the program in a single year if all reviews required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to the applicable project have been completed before the receipt of any program funds.
 
 (k)
 
@@ -552,7 +552,7 @@ Public transportation component.—The requirements of section 5333 shall apply 
 
 The date of enactment of this chapter, referred to in subsec. (f)(5), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (j)(3)(A)(iii), (4), and (n)(1)(C), isPub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (j)(3)(A)(iii), (4), and (n)(1)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (n)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

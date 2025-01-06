@@ -56,7 +56,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) Registration
 
-&emsp;Regulations under subsections (b) and (c) shall require registration with the Secretary of the possession, use, and transfer of listed agents and toxins, and shall include provisions to ensure that persons seeking to registerunder such regulations have a lawful purpose to possess, use, or transfer such agents and toxins, including provisions in accordance with subsection (e)(6).
+&emsp;Regulations under subsections (b) and (c) shall require registration with the Secretary of the possession, use, and transfer of listed agents and toxins, and shall include provisions to ensure that persons seeking to register under such regulations have a lawful purpose to possess, use, or transfer such agents and toxins, including provisions in accordance with subsection (e)(6).
 
 #### (2) Identification; database
 
@@ -128,7 +128,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (B) Other persons
 
-&emsp;&emsp;Regulations under subsections (b) and (c) shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is within any of the categories described in section 175b(d)(1) of title 18 (relating to restricted persons), or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
+&emsp;&emsp;Regulations under subsections (b) and (c) shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is within any of the categories described in section 175b(d)(1) of title 18 (relating to restricted persons), or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply tonames and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
 
 #### (7) Review
 
@@ -262,7 +262,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(C) Any portion of a record that discloses the site-specific or transfer-specific safeguard and security measures used by a registered person to prevent unauthorized access to listed agents and toxins.
 
-&emsp;&emsp;(D) Any notification of a release of a listed agent or toxin submitted under subsections (b) and (c), or any notification of theft or loss submitted under such subsections.
+&emsp;&emsp;(D) Any notification of a release of a listed agent or toxin submitted under subsections\(b) and (c), or any notification of theft or loss submitted under such subsections.
 
 &emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger animal or plant health, or animal or plant products.
 
@@ -314,7 +314,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) shall require the prompt notification of the Secretaryby a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
+Regulations under subsections (b) and (c) shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
 
 #### (k) Reports
 
@@ -340,7 +340,7 @@ For purposes of this section:
 
 #### (m) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007, in addition to other funds that may be available.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2002 through 2007, in addition to other funds that may be available.
 
 (Pub. L. 107–188, title II, §212, June 12, 2002, 116 Stat. 647; Pub. L. 107–296, title XVII, §1709(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 115–334, title XII, §12204, Dec. 20, 2018, 132 Stat. 4949.)
 

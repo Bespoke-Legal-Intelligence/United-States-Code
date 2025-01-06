@@ -2,7 +2,7 @@
 
 (a)
 
-Agreement Requirements.—A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy shall sign, as a condition of the appointment, an agreement to—
+Agreement Requirements.—A citizen of the United States appointed as a cadet at theUnited States Merchant Marine Academy shall sign, as a condition of the appointment, an agreement to—
 
 &emsp;(1) complete the course of instruction at the Academy;
 
@@ -24,7 +24,7 @@ Agreement Requirements.—A citizen of the United States appointed as a cadet at
 
 &emsp;&emsp;(B) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary of Transportation), if the Secretary determines that service under subparagraph (A) is not available to the individual;
 
-&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, orin other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
+&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
 
 &emsp;&emsp;(D) by a combination of the service alternatives referred to in subparagraphs (A)–(C); and
 
@@ -68,7 +68,7 @@ Alternative Service.—
 
 &emsp;(1)
 
-Service as commissioned officer.—An individual who, for the 5-year period following graduation from the Academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (a).
+Service as commissioned officer.—An individual who, for the 5-year period following graduation from the Academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the PublicHealth Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (a).
 
 &emsp;(2)
 
@@ -158,7 +158,7 @@ Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295b
 
 Pub. L. 110–181, div. C, title XXXV, §3526(b)(2), Jan. 28, 2008, 122 Stat. 601, provided that: "Section 51306(e) of title 46, United States Code, as added by paragraph (1), applies only to an individual who enrolls as a cadet at the United States Merchant Marine Academy, and signs an agreement under section 51306(a) of title 46, after October 17, 2006."
 
-Pub. L. 110–181, div. C, title XXXV, §3526(c)(2), Jan. 28, 2008, 122 Stat. 602, provided that: "Section 51306(f) of title 46, United States Code, as added by paragraph (1), does not apply with respect to an agreement entered into under section 51306(a) of title 46, United States Code, before October 17, 2006."
+Pub. L. 110–181, div. C, title XXXV, §3526(c)(2), Jan. 28, 2008, 122 Stat. 602, provided that: "Section 51306(f) of title 46, United States Code, as added by paragraph (1),does not apply with respect to an agreement entered into under section 51306(a) of title 46, United States Code, before October 17, 2006."
 
 #### Effective Date of 2006 Amendment
 

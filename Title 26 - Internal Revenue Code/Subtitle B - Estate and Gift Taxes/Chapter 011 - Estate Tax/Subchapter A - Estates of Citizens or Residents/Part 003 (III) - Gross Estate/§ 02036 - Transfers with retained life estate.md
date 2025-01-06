@@ -20,7 +20,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 #### (3) Coordination with section 2035
 
-&emsp;For purposes of applying section 2035 with respect to paragraph (1), the relinquishment or cessation of voting rights shall be treated as a transfer of property made by the decedent.
+&emsp;For purposes of applying section 2035 with respect to paragraph (1), the relinquishment orcessation of voting rights shall be treated as a transfer of property made by the decedent.
 
 #### (c) Limitation on application of general rule
 

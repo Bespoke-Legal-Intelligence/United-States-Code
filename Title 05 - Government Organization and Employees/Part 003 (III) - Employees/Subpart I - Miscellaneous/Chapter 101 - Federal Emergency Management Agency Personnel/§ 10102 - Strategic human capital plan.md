@@ -30,7 +30,7 @@ Contents.—The strategic human capital plan shall include—
 
 &emsp;&emsp;(A) details the number of employees of the Department not employed by the Agency serving in the Surge Capacity Force and the qualifications or credentials of such individuals;
 
-&emsp;&emsp;(B) details the number of individuals not employed by the Department serving in the Surge Capacity Force and the qualifications or credentials of such individuals;
+&emsp;&emsp;(B) details the number of individuals not employed by the Department serving in theSurge Capacity Force and the qualifications or credentials of such individuals;
 
 &emsp;&emsp;(C) describes the training given to the Surge Capacity Force during the calendar year preceding the year of submission of the plan under subsection (c);
 

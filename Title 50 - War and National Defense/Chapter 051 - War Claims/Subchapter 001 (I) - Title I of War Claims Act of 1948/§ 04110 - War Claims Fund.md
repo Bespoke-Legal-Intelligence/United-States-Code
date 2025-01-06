@@ -2,7 +2,7 @@
 
 #### (a) Composition; expenditure
 
-There is hereby created on the books of the Treasury of the United States a trust fund to be known as the War Claims Fund. The War Claims Fund shall consist of all sums covered into the Treasury pursuant to the provisions of section 4336 of this title. The moneys in such fund shall be available for expenditure only as provided in this chapter or as may be provided hereafter by the Congress.
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the War Claims Fund. The War Claims Fund shall consist of all sums covered into the Treasury pursuant to the provisions of section4336 of this title. The moneys in such fund shall be available for expenditure only as provided in this chapter or as may be provided hereafter by the Congress.
 
 #### (b) Estimation and certification to Treasury of total amount necessary under section 4104(f)
 
@@ -10,7 +10,7 @@ Before August 1, 1956, the Secretary of Labor shall estimate and report to the P
 
 #### (c) Estimation and certification to Treasury of total amount necessary under section 4103(c)
 
-Before August 1, 1956, the Secretary of Labor shall estimate and report to the President the total amount which will be required to pay all additional benefits payable as a result of the enactment of section 4103(c) of this title. If thePresident approves the amount so estimated as reasonably accurate, the total amount so estimated and approved shall be certified to the Secretary of the Treasury; if the President does not so approve, he shall determine such amount, and the amount so determined shall be certified to the Secretary of the Treasury. Such certification shall be made on or before September 1, 1956. The Secretary of the Treasury shall then transfer from the War Claims Fund to the general fund of the Treasury a sum equal to the total amount certified to him under this subsection.
+Before August 1, 1956, the Secretary of Labor shall estimate and report to the President the total amount which will be required to pay all additional benefits payable as a result of the enactment of section 4103(c) of this title. If the President approves the amount so estimated as reasonably accurate, the total amount so estimated and approved shall be certified to the Secretary of the Treasury; if the President does not so approve, he shall determine such amount, and the amount so determined shall be certified to the Secretary of the Treasury. Such certification shall be made on or before September 1, 1956. The Secretary of the Treasury shall then transfer from the War Claims Fund to the general fund of the Treasury a sum equal to the total amount certified to him under this subsection.
 
 #### (d) Certification to Treasury of total canceled obligations under section 4103(b)(1)
 
@@ -58,5 +58,5 @@ For provisions transferring Foreign Claims Settlement Commission of the United S
 
 "Secretary of Labor" substituted for "Federal Security Administrator" in subsecs. (b) and (c) pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor with power to delegate and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See section 8145 of Title 5, Government Organization and Employees.
 
-War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
+War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendixto Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

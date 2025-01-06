@@ -34,7 +34,7 @@ Qualified proprietary cargo.—The term "qualified proprietary cargo" means—
 
 &emsp;&emsp;(C) in the case of a towing vessel associated with a non-self-propelled tank vessel where both vessels function as a single self-propelled vessel, oil, petroleum products, petrochemicals, or liquefied natural gas cargo that is beneficially owned by the person that owns both the towing vessel and the non-self-propelled tank vessel, or any United States affiliate of that person, immediately before, during, or immediately after the cargo is carried in coastwise trade on either of those vessels; or
 
-&emsp;&emsp;(D) any oil, petroleum products, petrochemicals, or liquefied natural gas cargo carried on any vessel that is either a self-propelled tank vessel having a length of at least 210 meters or a tank vessel that is a liquefied natural gas carrier that—
+&emsp;&emsp;(D) any oil, petroleum products, petrochemicals, or liquefied natural gas cargocarried on any vessel that is either a self-propelled tank vessel having a length of at least 210 meters or a tank vessel that is a liquefied natural gas carrier that—
 
 &emsp;&emsp;&emsp;(i) was delivered by the builder of the vessel to the owner of the vessel after December 31, 1999; and
 

@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Resilience and sustainability program
 
-&emsp;The term "resilience and sustainability program" means the Midsize and Large DrinkingWater System Infrastructure Resilience and Sustainability Program established under subsection (b).
+&emsp;The term "resilience and sustainability program" means the Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program established under subsection (b).
 
 #### (b) Establishment
 

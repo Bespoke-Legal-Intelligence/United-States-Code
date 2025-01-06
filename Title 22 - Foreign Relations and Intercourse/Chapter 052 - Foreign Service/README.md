@@ -126,6 +126,7 @@
 | [4026\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004026%20-%20Career%20counseling.md) | Career counseling. |
 | [4027\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004027%20-%20Visiting%20Scholars%20Program.md) | Visiting Scholars Program. |
 | [4028\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004028%20-%20Training%20for%20Foreign%20Service%20officers.md) | Training for Foreign Service officers. |
+| [4028a.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004028a%20-%20Per%20diem%20allowance%20for%20newly%20hired%20members%20of%20the%20Foreign%20Service.md) | Per diem allowance for newly hired members of the Foreign Service. |
 | [4029\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004029%20-%20Increased%20training%20in%20multilateral%20diplomacy.md) | Increased training in multilateral diplomacy. |
 | [4030\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004030%20-%20Suitability%20reviews%20for%20Foreign%20Service%20Institute%20instructors.md) | Suitability reviews for Foreign Service Institute instructors. |
 
@@ -201,13 +202,17 @@
 | :--- | ---: |
 | [4081\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004081%20-%20Travel%20and%20related%20expenses.md) | Travel and related expenses. |
 | [4081a.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004081a%20-%20Exception%20for%20Government-financed%20air%20transportation%3B%20reducing%20hardship%20for%20transportation%20of%20domestic%20animals.md) | Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals. |
+| [4081b.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004081b%20-%20Presence%20of%20chiefs%20of%20mission%20at%20diplomatic%20posts.md) | Presence of chiefs of mission at diplomatic posts. |
 | [4082\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004082%20-%20Loan%20of%20household%20effects.md) | Loan of household effects. |
 | [4083\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004083%20-%20Required%20leave.md) | Required leave. |
+| [4083a.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004083a%20-%20Rest%20and%20recuperation%20leave.md) | Rest and recuperation leave. |
+| [4083b.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004083b%20-%20Overseas%20operations%20leave.md) | Overseas operations leave. |
 | [4084\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004084%20-%20Health%20care%20program.md) | Health care program. |
 | [4085\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004085%20-%20Entertainment%20and%20representation%20expenses.md) | Entertainment and representation expenses. |
 | [4086\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004086%20-%20Entitlement%20to%20vote%20in%20a%20State%20in%20a%20Federal%20election%3B%20preconditions%3B%20applicability.md) | Entitlement to vote in a State in a Federal election; preconditions; applicability. |
 | [4087\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004087%20-%20Termination%20of%20residential%20or%20motor%20vehicle%20leases%20and%20telephone%20service%20contracts.md) | Termination of residential or motor vehicle leases and telephone service contracts. |
 | [4088\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004088%20-%20Education%20allowance.md) | Education allowance. |
+| [4089\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004089%20-%20Portability%20of%20professional%20licenses.md) | Portability of professional licenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

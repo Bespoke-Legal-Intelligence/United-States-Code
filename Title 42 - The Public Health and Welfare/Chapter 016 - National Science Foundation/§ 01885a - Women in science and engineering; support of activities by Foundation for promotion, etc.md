@@ -156,7 +156,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;"(4) identify the opportunities for, and artificial barriers to, the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in the fields of science, engineering, and technology development in academia, industry, and government;
 
-&emsp;"(5) compile a synthesis of available research on lawful practices, policies, and programs that havesuccessfully led to the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in science, engineering, and technology development;
+&emsp;"(5) compile a synthesis of available research on lawful practices, policies, and programs that have successfully led to the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in science, engineering, and technology development;
 
 &emsp;"(6) issue recommendations with respect to lawful policies that government (including Congress and appropriate Federal agencies), academia, and private industry can follow regarding the recruitment, retention, and advancement of women, minorities, and individuals with disabilities in science, engineering, and technology development;
 
@@ -242,7 +242,7 @@ Employment Status.—Members of the Commission shall not be deemed to be employe
 
 "(a)
 
-Director.—The Commission shall appoint a Director who shall be paid at a rate not to exceed the maximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
+Director.—The Commission shall appoint a Director who shall be paid at a rate not to exceed themaximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
 
 "(b)
 
@@ -346,7 +346,7 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 "(a) It is the purpose of this section to establish a task force on women, minorities, and the handicapped in science and technology to—
 
-&emsp;"(1) examine the current status of women, minorities, and the handicapped in science and engineering positions in the Federal Government and in federally assisted research programs;
+&emsp;"(1) examine the current status of women, minorities, and the handicapped in science and engineeringpositions in the Federal Government and in federally assisted research programs;
 
 &emsp;"(2) coordinate existing Federal programs designed to promote the employment of women, minorities, and the handicapped in such positions;
 

@@ -40,7 +40,7 @@ Minor changes in phraseology were made.
 
 #### References in Text
 
-Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), was classified to section 4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), was classified to section4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
 
 #### Amendments
 

@@ -42,7 +42,7 @@ Each grant awarded under this section shall be in an amount not to exceed $400,0
 
 #### (2) Set-aside
 
-&emsp;Of the amount appropriated under this subsection for a fiscal year, the Secretary shallreserve 15 percent of such amount for purposes of making grants to entities that are affiliated with Indian Tribes or Tribal organizations (as defined in section 5304 of title 25), or Urban Indian organizations (as defined in section 1603 of title 25). Amounts reserved may be used to support referrals and the delivery of emergency first aid, culturally competent support, and forensic evidence collection training.
+&emsp;Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve 15 percent of such amount for purposes of making grants to entities that are affiliated with Indian Tribes or Tribal organizations (as defined in section 5304 of title 25), or Urban Indian organizations (as defined in section 1603 of title 25). Amounts reserved may be used to support referrals and the delivery of emergency first aid, culturally competent support, and forensic evidence collection training.
 
 (Pub. L. 117–103, div. W, title V, §506, Mar. 15, 2022, 136 Stat. 878.)
 

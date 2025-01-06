@@ -30,7 +30,7 @@ Any employee or former employee who believes he has been discharged or discrimin
 
 #### (c) Remedies
 
-If the district court determines that a violation of subsection (a) has occurred, it may order the depository institution, Federal home loanbank, Federal Reserve bank, or Federal banking agency which committed the violation—
+If the district court determines that a violation of subsection (a) has occurred, it may order the depository institution, Federal home loan bank, Federal Reserve bank, or Federal banking agency which committed the violation—
 
 &emsp;(1) to reinstate the employee to his former position;
 

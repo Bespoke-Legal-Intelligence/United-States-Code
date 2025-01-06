@@ -242,7 +242,7 @@ In this section:
 
 #### (ii) Description of States
 
-&emsp;&emsp;&emsp;A State referred to in clause (i) is a State that, by not later than 45 days afterNovember 15, 2021, submits to the Secretary a notice of the intent of the State to submit an application under subparagraph (B), including a description of the factors described in clause (iii) with respect to the State.
+&emsp;&emsp;&emsp;A State referred to in clause (i) is a State that, by not later than 45 days after November 15, 2021, submits to the Secretary a notice of the intent of the State to submit an application under subparagraph (B), including a description of the factors described in clause (iii) with respect to the State.
 
 #### (iii) Factors
 
@@ -378,7 +378,7 @@ In this section:
 
 #### (I) Number
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may issue to a State under this subparagraph not more than 1 grant for each criterion described in subclause (I) or (II) of clause (i).
+&emsp;&emsp;&emsp;&emsp;The Secretary may issue to a State under this subparagraph not more than 1grant for each criterion described in subclause (I) or (II) of clause (i).
 
 #### (II) Maximum amount
 
@@ -472,7 +472,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the Tribal program for orphaned well plugging, remediation, and restoration, including legal authorities, processes used to identify and prioritize orphaned wells, procurement mechanisms, and other program elements demonstrating the readiness of the Indian Tribe to carry out the proposed activities, or plans to develop such a program; and
 
-&emsp;&emsp;&emsp;(ii) the activities to be carried out with the grant, including an identification of the estimated health, safety, habitat, and environmental benefits of plugging, remediating, or reclaiming orphaned wells and remediating or reclaiming adjacent land; and
+&emsp;&emsp;&emsp;(ii) the activities to be carried out with the grant, including an identification ofthe estimated health, safety, habitat, and environmental benefits of plugging, remediating, or reclaiming orphaned wells and remediating or reclaiming adjacent land; and
 
 &emsp;&emsp;(B) an estimate of—
 

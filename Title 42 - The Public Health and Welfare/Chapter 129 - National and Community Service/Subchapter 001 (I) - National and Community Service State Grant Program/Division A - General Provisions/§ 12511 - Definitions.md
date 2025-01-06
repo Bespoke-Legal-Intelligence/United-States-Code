@@ -232,7 +232,7 @@ For purposes of this subchapter:
 
 #### (38) Scientifically valid research
 
-&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
+&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale,design, and interpretation are soundly developed in accordance with principles of scientific research.
 
 #### (39) Secondary school
 
@@ -282,7 +282,7 @@ For purposes of this subchapter:
 
 #### (47) Territory
 
-&emsp;The term "territory" means the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "territory" means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (48) Tribally controlled college or university
 
@@ -316,7 +316,7 @@ The Individuals with Disabilities Education Act, referred to in par. (37)(B), is
 
 Par. (3). Pub. L. 111–13, §1102(a)(1), struck out "described in section 12572 of this title" after "service program".
 
-Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of "sections 1001(a) and 1002(a)(1) of title 20" for "section 1001(a) of title 20", was executed by making the substitution for "section 1001 of title 20" to reflect the probable intent of Congress.
+Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of "sections 1001(a) and 1002(a)(1) of title20" for "section 1001(a) of title 20", was executed by making the substitution for "section 1001 of title 20" to reflect the probable intent of Congress.
 
 Par. (17)(B). Pub. L. 111–13, §1102(a)(3), substituted "organization receiving assistance under the national service laws through which the participant is engaging in service" for "program in which the participant is enrolled".
 

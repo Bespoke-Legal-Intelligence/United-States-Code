@@ -8,7 +8,7 @@ Except as otherwise provided in this section, a partnership, S corporation, or p
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), an election may be made under subsection (a) only if the deferral period of the taxable year elected is not longer than 3 months.
+&emsp;Except as provided in paragraphs (2) and (3), an election may be made under subsection (a)only if the deferral period of the taxable year elected is not longer than 3 months.
 
 #### (2) Changes in taxable year
 
@@ -110,7 +110,7 @@ Pub. L. 100–203, title X, §10206(d), Dec. 22, 1987, 101 Stat. 1330–403, as 
 
 "(1)
 
-In general.—Except as provided in this subsection, the amendments made by this section \[enacting this section and sections 280H and 7519 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in this subsection, the amendments made by this section \[enacting this section and sections 280H and 7519 of this title\]shall apply to taxable years beginning after December 31, 1986.
 
 "(2)
 

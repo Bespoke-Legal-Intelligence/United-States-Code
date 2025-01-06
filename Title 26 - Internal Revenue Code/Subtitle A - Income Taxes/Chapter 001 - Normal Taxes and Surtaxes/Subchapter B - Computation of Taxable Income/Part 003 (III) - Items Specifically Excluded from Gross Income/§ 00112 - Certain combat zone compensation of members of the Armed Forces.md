@@ -12,7 +12,7 @@ Gross income does not include compensation received for active service as a memb
 
 #### (b) Commissioned officers
 
-Gross income does not include so much of the compensation as does not exceed the maximum enlisted amount received for active service as a commissioned officer in the Armed Forces of the United States for any month during any part of which such officer—
+Gross income does not include so much of the compensation as does not exceed the maximum enlisted amount received for active service as a commissioned officer in the Armed Forces of theUnited States for any month during any part of which such officer—
 
 &emsp;(1) served in a combat zone, or
 

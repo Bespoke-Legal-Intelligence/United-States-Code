@@ -14,7 +14,7 @@ Reserve and Space Force Retirees Under Age 60.—A member or former member of a 
 
 (d)
 
-Members of the Space Force.—A member of the Space Force in a space force active status who is not on sustained duty shall be permitted to use commissary stores and MWR retail facilities under the same conditions as specified in subsection (a) for a member of the Selected Reserve.
+Members of the Space Force.—A member of the Space Force in a space force active status who is not on sustained duty shall be permittedto use commissary stores and MWR retail facilities under the same conditions as specified in subsection (a) for a member of the Selected Reserve.
 
 (e)
 

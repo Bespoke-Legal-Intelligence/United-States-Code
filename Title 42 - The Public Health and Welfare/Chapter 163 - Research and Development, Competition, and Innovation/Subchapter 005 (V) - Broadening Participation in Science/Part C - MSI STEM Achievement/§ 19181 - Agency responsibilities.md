@@ -40,7 +40,7 @@ In developing policy guidelines under subsection (a) the Director of the Office 
 
 &emsp;&emsp;(D) broaden STEM educational opportunities for students and faculty of HBCUs, TCUs, and MSIs; and
 
-&emsp;&emsp;(E) support the transition of students of HBCUs, TCUs, and MSIs into the STEM workforce;
+&emsp;&emsp;(E) support the transition of students of HBCUs, TCUs, and MSIs into the STEM workforce; <sup>1</sup>
 
 #### (c) Strategic plan
 
@@ -73,4 +73,6 @@ Not later than two years after August 9, 2022, and every five years thereafter, 
 #### Codification
 
 Section is comprised of section 10522 of Pub. L. 117–167. Subsec. (e) of section 10522 of Pub. L. 117–167 amended section 6621 of this title.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

@@ -6,7 +6,7 @@ The Congress finds that, in the public interest, it continues to be the responsi
 
 #### (b) Protection of rights of employees and the public
 
-The Congress further finds, from recent investigations in the labor and management fields, that there have been a number of instances of breach of trust, corruption, disregard of the rights of individual employees, and other failures to observe high standards of responsibility and ethical conduct which require further and supplementary legislation that will afford necessary protection of the rights and interests of employees and the public generally as they relate to the activities of labor organizations, employers, labor relations consultants, and their officers and representatives.
+The Congress further finds, from recent investigations in the labor and management fields,that there have been a number of instances of breach of trust, corruption, disregard of the rights of individual employees, and other failures to observe high standards of responsibility and ethical conduct which require further and supplementary legislation that will afford necessary protection of the rights and interests of employees and the public generally as they relate to the activities of labor organizations, employers, labor relations consultants, and their officers and representatives.
 
 #### (c) Necessity to eliminate or prevent improper practices
 

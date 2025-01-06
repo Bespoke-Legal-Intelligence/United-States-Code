@@ -124,7 +124,7 @@ In subsection (f), before clause (1), the words "basic pay" are substituted for 
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1988</b>—Subsec. (e)(1). Pub. L. 100–426 substituted "may retire after becoming 70 years of age and completing 10 years of service as Comptroller General or Deputy Comptroller General (as the case may be)" for "retires on becoming 70 years of age".
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–426 substituted "may retire after becoming 70 years of age and completing 10 years of service as Comptroller General or DeputyComptroller General (as the case may be)" for "retires on becoming 70 years of age".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

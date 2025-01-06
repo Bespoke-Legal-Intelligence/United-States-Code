@@ -44,5 +44,5 @@ A prior section 16378, Pub. L. 109–58, title IX, §999H, Aug. 8, 2005, 119 Sta
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

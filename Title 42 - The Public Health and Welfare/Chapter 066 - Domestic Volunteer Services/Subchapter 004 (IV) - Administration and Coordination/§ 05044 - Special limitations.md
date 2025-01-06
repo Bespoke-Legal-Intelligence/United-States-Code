@@ -2,7 +2,7 @@
 
 #### (a) Volunteer activities; limitation
 
-The Director shall prescribe regulations and shall carry out the provisions of this chapter so as to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)), and which will not supplant the hiring of or result in the displacement of employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)),,<sup>1</sup> or impair existing contracts for service.
+The Director shall prescribe regulations and shall carry out the provisions of this chapter soas to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)), and which will not supplant the hiring of or result in the displacement of employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)),,<sup>1</sup> or impair existing contracts for service.
 
 #### (b) Support costs
 
@@ -48,7 +48,7 @@ Subsecs. (f), (g). Pub. L. 103–82, §364(2), (3), redesignated subsec. (g) as 
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–551 substituted "the Director" for "he" before "determines will".
 
-<b>1984</b>—Subsec. (f). Pub. L. 98–288 struck out "and except as provided in the second sentence of this subsection" after "Notwithstanding any other provision of law" and struck out "The Director may personally make exceptions to the requirements set forth in the first sentence of this subsection for persons he finds will be assigned to carrying out functions under the Peace Corps Act (22 U.S.C. 2501 et seq.) within six months after October 1, 1973."
+<b>1984</b>—Subsec. (f). Pub. L. 98–288 struck out "and except as provided in the second sentence of this subsection" after "Notwithstanding any other provision of law" and struck out "The Director may personally make exceptions to the requirements set forth in thefirst sentence of this subsection for persons he finds will be assigned to carrying out functions under the Peace Corps Act (22 U.S.C. 2501 et seq.) within six months after October 1, 1973."
 
 <b>1979</b>—Subsec. (g). Pub. L. 96–143 designated existing provisions as par. (1), inserted ", except that this paragraph shall not apply in the case of such payments when the Director determines that the value of all such payments, adjusted to reflect the number of hours such volunteers are serving, is equivalent to or greater than the minimum wage then in effect under the Fair Labor Standards Act of 1938 or the minimum wage, under the laws of the State where such volunteers are serving, whichever is the greater" after "governmental program", and added par. (2).
 

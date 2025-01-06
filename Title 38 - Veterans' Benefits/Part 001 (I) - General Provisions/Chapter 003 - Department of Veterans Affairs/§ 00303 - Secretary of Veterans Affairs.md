@@ -140,17 +140,19 @@ Personal protective equipment.—The term 'personal protective equipment' means 
 
 #### Secretary's Approval of Research Using Canines, Felines, or Non-Human Primates
 
-Pub. L. 117–328, div. J, title II, §247, Dec. 29, 2022, 136 Stat. 4967, provided that:
+Pub. L. 118–42, div. A, title II, §247, Mar. 9, 2024, 138 Stat. 57, provided that:
 
-"(a) None of the funds appropriated or otherwise made available by this Act \[div. J of Pub. L. 117–328, see Tables for classification\] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
+"(a) None of the funds appropriated or otherwise made available by this Act \[div. A of Pub. L. 118–42, see Tables for classification\] may be used to conduct research commencing on or after the date of enactment of this Act \[Mar. 9, 2024\], that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
 
-"(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after October 1, 2019, using canines, felines, or non-human primates if the Secretary determines that—
+"(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after the date of enactment of this Act, using canines, felines, or non-human primates if the Secretary certifies that—
 
-&emsp;"(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates;
+&emsp;"(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates and cannot be met using other animal models, in vitro models, computational models, human clinical studies, or other research alternatives;
 
-&emsp;"(B) such scientific objectives are directly related to an illness or injury that is combat-related; and
+&emsp;"(B) such scientific objectives are necessary to advance research benefiting veterans and are directly related to an illness or injury that is combat-related as defined by 10 U.S.C. 1413(e) \[probably means 10 U.S.C. 1413a(e)\];
 
-&emsp;"(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document.
+&emsp;"(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document; and
+
+&emsp;"(D) ethical considerations regarding minimizing the harm experienced by canines, felines, or non-human primates are included in evaluating the scientific necessity of the research.
 
 "(2) The Secretary may not delegate the authority under this subsection.
 
@@ -160,25 +162,41 @@ Pub. L. 117–328, div. J, title II, §247, Dec. 29, 2022, 136 Stat. 4967, provi
 
 &emsp;"(2) the date on which the Secretary approved the research;
 
-&emsp;"(3) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates;
+&emsp;"(3) the USDA pain category on the approved use;
 
-&emsp;"(4) the frequency and duration of such research; and
+&emsp;"(4) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates, and methods used to make such determination;
 
-&emsp;"(5) the protocols in place to ensure the necessity, safety, and efficacy of the research.
+&emsp;"(5) the frequency and duration of such research; and
 
-"(d) Not later than 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
+&emsp;"(6) the protocols in place to ensure the necessity, safety, and efficacy of the research, and animal welfare.
+
+"(d) Not later than 180 days after the date of the enactment of this Act \[Mar. 9, 2024\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
 
 &emsp;"(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report;
 
 &emsp;"(2) the circumstances under which such research was conducted using canines, felines, or non-human primates;
 
-&emsp;"(3) the justification for using canines, felines, or non-human primates to conduct such research; and
+&emsp;"(3) the justification for using canines, felines, or non-human primates to conduct such research;
 
-&emsp;"(4) the protocols in place to ensure the necessity, safety, and efficacy of such research.
+&emsp;"(4) the protocols in place to ensure the necessity, safety, and efficacy of such research; and
 
-"(e) The Department shall implement a plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than 5 years after the date of enactment of Public Law 116–94 \[Dec. 20, 2019\]."
+&emsp;"(5) the development and adoption of alternatives to canines, felines, or non-human primate research.
+
+"(e) Not later than 180 days after the date of the enactment of this Act \[Mar. 9, 2024\], and annually thereafter, the Department of Veterans Affairs must submit to voluntary U.S. Department of Agriculture inspections of canine, feline, and non-human primate research facilities.
+
+"(f) Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to such Committees a report describing —
+
+&emsp;"(1) any violations of the Animal Welfare Act \[7 U.S.C. 2131 et seq.\], the Public Health Service Policy on Humane Care and Use of Laboratory Animals, or other Department of Veterans Affairs policies related to oversight of animal research found during that quarter in VA research facilities;
+
+&emsp;"(2) immediate corrective actions taken; and
+
+&emsp;"(3) specific actions taken to prevent their recurrence.
+
+"(g) The Department shall implement a plan under which the Secretary will eliminate the research conducted using canines, felines, or non-human primates by not later than 2 years after the date of enactment of this Act."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. J, title II, §247, Dec. 29, 2022, 136 Stat. 4967.
 
 Pub. L. 117–103, div. J, title II, §247, Mar. 15, 2022, 136 Stat. 558.
 
@@ -258,13 +276,13 @@ Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agre
 
 Recommendations and Report.—With respect to such a center, an agreement under this section shall provide for the Academy (or other entity) to—
 
-&emsp;"(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles that relevant Federal departments and agencies should have in the establishment and operation of any suchcenter or centers; and (C) such other matters as it considers appropriate; and
+&emsp;"(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles that relevant Federal departments and agencies should have in the establishment and operation of any such center or centers; and (C) such other matters as it considers appropriate; and
 
 &emsp;"(2) report to the Secretary, the Secretaries of Defense and Health and Human Services, and the Committees on Veterans' Affairs of the Senate and House of Representatives, not later than 1 year after the date of the enactment of this Act \[Nov. 11, 1998\], on its recommendations.
 
 "(c)
 
-Report on Establishment of National Center.—Not later than 60 days after receiving the report under subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans' Affairs and Armed Services of the Senate and the Committees on Veterans' Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission."
+Report on Establishment of National Center.—Not later than 60 days after receiving the report under subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans' Affairs and Armed Services of the Senate and the Committees on Veterans' Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in thatreport. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission."
 
 #### Specification in Budget Submissions of Funds for Certain Veterans Benefits
 

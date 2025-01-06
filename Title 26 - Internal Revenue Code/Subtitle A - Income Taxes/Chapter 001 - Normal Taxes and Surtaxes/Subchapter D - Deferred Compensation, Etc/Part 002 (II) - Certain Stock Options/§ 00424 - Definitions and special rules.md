@@ -114,7 +114,7 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 #### Prior Provisions
 
-A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 69; amended Pub. L. 94–455, title VI, §603(c), title XIV, §1402(b)(1)(F), (2), Oct. 4, 1976, 90 Stat. 1574, 1732, related to restricted stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(21), Nov. 5, 1990, 104 Stat. 1388–521. For savings provisions, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 69; amended Pub. L.94–455, title VI, §603(c), title XIV, §1402(b)(1)(F), (2), Oct. 4, 1976, 90 Stat. 1574, 1732, related to restricted stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(21), Nov. 5, 1990, 104 Stat. 1388–521. For savings provisions, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title V, §555(c)(3), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII,§1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984."
+Pub. L. 98–369, div. A, title V, §555(c)(3), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII, §1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984."
 
 #### Effective Date of 1983 Amendment
 

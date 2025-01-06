@@ -32,7 +32,7 @@ Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership
 
 &emsp;(iv) shall provide that the person exercising the power of attorney retain a copy and submit the original to the State with a copy of the title showing the restatement of the mileage;
 
-&emsp;(v) may require that the State retain the power of attorney and the copy of the title for an appropriate period or that the State adopt alternative measures consistent with section 32701(b) of this title, after considering the costs to the State;
+&emsp;(v) may require that the State retain the power of attorney and the copy of the title for an appropriate period or that the State adoptalternative measures consistent with section 32701(b) of this title, after considering the costs to the State;
 
 &emsp;(vi) shall ensure that the mileage at the time of transfer be disclosed on the power of attorney document;
 
@@ -108,7 +108,7 @@ Electronic Disclosures.—
 
 &emsp;(3) Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467; Pub. L. 112–141, div. C, title I, §31205(b), July 6, 2012, 126 Stat. 761; Pub. L. 114–94, div. B, title XXIV, §24111, Dec. 4, 2015, 129 Stat. 1709.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June9, 1998, 112 Stat. 467; Pub. L. 112–141, div. C, title I, §31205(b), July 6, 2012, 126 Stat. 761; Pub. L. 114–94, div. B, title XXIV, §24111, Dec. 4, 2015, 129 Stat. 1709.)
 
 Historical and Revision Notes
 

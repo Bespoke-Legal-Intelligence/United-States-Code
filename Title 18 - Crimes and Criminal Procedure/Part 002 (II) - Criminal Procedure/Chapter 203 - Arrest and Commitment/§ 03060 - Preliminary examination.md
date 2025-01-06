@@ -26,7 +26,7 @@
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–162 substituted "In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay." for "In the absence of such consent of the accused, the date fixed for the preliminary hearing may be a date later than that prescribed by subsection (b), or may be continued to a date subsequent to the date initially fixed therefor, only upon the order of a judge of the appropriate United States district court after a finding that extraordinary circumstances exist, and that the delay of the preliminary hearing is indispensable to the interests of justice."
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions of subsecs. (a) to (f) of this section detailing preliminary examination content for prior provisions which directed attention to the rule in section catchline, and directed one to see Federal Rules of Criminal Procedure, including "Proceedings before commissioner, appearance, advice as to right to counsel, hearing, Rule 5.".
+<b>1968</b>—Pub. L. 90–578 substituted provisions of subsecs. (a) to (f) of this section detailing preliminary examination content for prior provisions which directed attention to the rule in section catchline, and directed one to see Federal Rules of Criminal Procedure, including"Proceedings before commissioner, appearance, advice as to right to counsel, hearing, Rule 5.".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

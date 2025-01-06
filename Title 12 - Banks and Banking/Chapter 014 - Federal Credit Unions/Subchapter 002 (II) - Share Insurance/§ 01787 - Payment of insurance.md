@@ -70,7 +70,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (G) Attachment of assets and injunctive relief
 
-&emsp;&emsp;Subject to subparagraph (H), any court of competent jurisdiction may, at the request of the Board (in the Board's capacity as conservator or liquidating agent for any insured credit union or in the Board's corporate capacity in the exercise of any authority underthis section), issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Board under the control of the court and appointing a trustee to hold such assets.
+&emsp;&emsp;Subject to subparagraph (H), any court of competent jurisdiction may, at the request of the Board (in the Board's capacity as conservator or liquidating agent for any insured credit union or in the Board's corporate capacity in the exercise of any authority under this section), issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Board under the control of the court and appointing a trustee to hold such assets.
 
 #### (H) Standards
 
@@ -150,7 +150,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (iii) Mailing of notice sufficient
 
-&emsp;&emsp;&emsp;The requirements of clause (i) shall be deemed to be satisfied if the notice of anydetermination with respect to any claim is mailed to the last address of the claimant which appears—
+&emsp;&emsp;&emsp;The requirements of clause (i) shall be deemed to be satisfied if the notice of any determination with respect to any claim is mailed to the last address of the claimant which appears—
 
 &emsp;&emsp;&emsp;&emsp;(I) on the credit union's books;
 
@@ -280,7 +280,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (D) Statute of limitations
 
-&emsp;&emsp;If an action described in subparagraph (C) is not filed, or the motion to renew a previously filed suit is not made, before the end of the 30-day period beginning on the date on which such action or motion may be filed in accordance with subparagraph (B), the claim shall be deemed to be disallowed as of the end of such period (other than any portion of such claim which was allowed by the liquidating agent), such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+&emsp;&emsp;If an action described in subparagraph (C) is not filed, or the motion to renew a previously filed suit is not made, before the end of the 30-day period beginning on the date onwhich such action or motion may be filed in accordance with subparagraph (B), the claim shall be deemed to be disallowed as of the end of such period (other than any portion of such claim which was allowed by the liquidating agent), such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
 
 #### (E) Legal effect of filing
 
@@ -412,7 +412,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), after the end of the 6-year period beginning on the date the Board is appointed as liquidating agent of an insured credit union, the Board may destroy any records of such credit union which the Board, in theBoard's discretion, determines to be unnecessary unless directed not to do so by a court of competent jurisdiction or governmental agency, or prohibited by law.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), after the end of the 6-year period beginning on the date the Board is appointed as liquidating agent of an insured credit union, the Board may destroy any records of such credit union which the Board, in the Board's discretion, determines to be unnecessary unless directed not to do so by a court of competent jurisdiction or governmental agency, or prohibited by law.
 
 #### (ii) Old records
 
@@ -640,7 +640,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(III) means any option entered into on a national securities exchange relating to foreign currencies;
 
-&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee (including by novation) by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgageloan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II));
+&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee (including by novation) by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II));
 
 &emsp;&emsp;&emsp;&emsp;(V) means any margin loan;
 
@@ -708,7 +708,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(IV) means any option to enter into any agreement or transaction referred to in subclause (I) or (III);
 
-&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
+&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regardto whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
 
 &emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -774,7 +774,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (iii) Walkaway clause defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "walkaway clause" means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of such party's status as a nondefaulting party in connection with the insolvency of an insured credit union or the appointment of or the exercise of rights or powers by a conservator or liquidating agent of such credit union, and not as a result of a party's exercise of anyright to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "walkaway clause" means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of such party's status as a nondefaulting party in connection with the insolvency of an insured credit union or the appointment of or the exercise of rights or powers by a conservator or liquidating agent of such credit union, and not as a result of a party's exercise of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
 
 #### (H) Recordkeeping requirements
 
@@ -838,7 +838,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Conservatorship
 
-&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured creditunion may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the credit union or <sup>3</sup> the insolvency or financial condition of the credit union for which the conservator has been appointed).
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the credit union or <sup>3</sup> the insolvency or financial condition of the credit union for which the conservator has been appointed).
 
 #### (iii) Notice
 
@@ -1096,7 +1096,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (6) Standard maximum share insurance amount defined
 
-&emsp;For purposes of this chapter, the term "standard maximum share insurance amount"means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title.
+&emsp;For purposes of this chapter, the term "standard maximum share insurance amount" means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title.
 
 #### (l) Payment; discharge of liability
 
@@ -1116,7 +1116,7 @@ If, after the Board shall have given at least four months' notice to the member 
 
 #### (p) Sale of assets; security for loans; approval of court; agreements affecting interest of Board in any asset acquired by it
 
-(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permission from the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, in accordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
+(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permission from the commission, board, or authority having supervision of such credit union, in the caseof an insured State-chartered credit union, in accordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
 
 (2) No agreement which tends to diminish or defeat the right, title, or interest of the Board in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
 
@@ -1156,7 +1156,7 @@ The Board, as conservator or liquidating agent of any insured credit union and f
 
 &emsp;(2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
 
-(June 26, 1934, ch. 750, title II, §207, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1010;amended Pub. L. 93–495, title I, §§101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, §502(b), title XIV, §1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, §323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, §714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, §915(c), title XII, §1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, §501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, §301(b)(2), Aug. 7, 1998, 112 Stat. 930; Pub. L. 109–8, title IX, §§901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, 119 Stat. 147, 148, 150, 152, 154, 156–159, 162, 166, 183; Pub. L. 109–173, §2(d)(1), (2), Feb. 15, 2006, 119 Stat. 3602, 3604; Pub. L. 109–351, title VII, §§718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, 120 Stat. 1997–1999, 2003; Pub. L. 109–390, §§2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, 120 Stat. 2693–2695, 2699; Pub. L. 110–289, div. A, title VI, §1604(b)(2), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§335(b), 343(b)(1), (3), July 21, 2010, 124 Stat. 1540, 1545; Pub. L. 113–252, §2, Dec. 18, 2014, 128 Stat. 2893.)
+(June 26, 1934, ch. 750, title II, §207, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, §502(b), title XIV, §1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, §323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, §714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, §915(c), title XII, §1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, §501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, §301(b)(2), Aug. 7, 1998, 112 Stat. 930; Pub. L. 109–8, title IX, §§901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, 119 Stat. 147, 148, 150, 152, 154, 156–159, 162, 166, 183; Pub. L. 109–173, §2(d)(1), (2), Feb. 15, 2006, 119 Stat. 3602, 3604; Pub. L. 109–351, title VII, §§718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, 120 Stat. 1997–1999, 2003; Pub. L. 109–390, §§2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, 120 Stat. 2693–2695, 2699; Pub. L. 110–289, div. A, title VI, §1604(b)(2), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§335(b), 343(b)(1), (3), July 21, 2010, 124 Stat. 1540, 1545; Pub. L. 113–252, §2, Dec. 18, 2014, 128 Stat. 2893.)
 
 #### <b>Editorial Notes</b>
 
@@ -1242,7 +1242,7 @@ Subsec. (k)(2). Pub. L. 109–173, §2(d)(1)(B)(ii)–(iv), inserted par. headin
 
 Subsec. (k)(2)(A). Pub. L. 109–173, §2(d)(1)(B)(i), substituted period for semicolon at end of cl. (v), realigned margins of cls. (i) to (v), and struck out concluding provisions which read as follows: "his account shall be insured in an amount not to exceed $100,000 per account."
 
-Subsec. (k)(3). Pub. L. 109–173, §2(d)(2), substituted " '$250,000 (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section)' " for "$100,000".
+Subsec. (k)(3). Pub. L. 109–173, §2(d)(2), substituted " '$250,000 (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) ofthis title, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section)' " for "$100,000".
 
 Subsec. (k)(4), (5). Pub. L. 109–173, §2(d)(1)(C), added pars. (4) and (5).
 
@@ -1290,7 +1290,7 @@ Subsec. (c)(8)(H). Pub. L. 109–8, §908(b), added subpar. (H).
 
 Subsec. (c)(9). Pub. L. 109–8, §903(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text related to the transfer of qualified financial contracts, claims, and property of a credit union in default.
 
-Subsec. (c)(10)(A). Pub. L. 109–8, §903(b)(2), substituted concluding provisions for former concluding provisions which read as follows: "the conservator or liquidating agent shall use such conservator's or liquidatingagent's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time), on the business day following such transfer."
+Subsec. (c)(10)(A). Pub. L. 109–8, §903(b)(2), substituted concluding provisions for former concluding provisions which read as follows: "the conservator or liquidating agent shall use such conservator's or liquidating agent's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time), on the business day following such transfer."
 
 Subsec. (c)(10)(B) to (D). Pub. L. 109–8, §903(b)(3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 

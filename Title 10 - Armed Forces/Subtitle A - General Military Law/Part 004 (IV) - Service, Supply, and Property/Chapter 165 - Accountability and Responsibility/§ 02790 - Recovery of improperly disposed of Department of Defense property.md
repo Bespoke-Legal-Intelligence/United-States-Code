@@ -6,7 +6,7 @@ Prohibition.—No member of the armed forces, civilian employee of the United St
 
 (b)
 
-Transfer of Title or Interest Ineffective.—If property has been disposed of in violation of subsection (a), the person holding theproperty has no right or title to, or interest in, the property.
+Transfer of Title or Interest Ineffective.—If property has been disposed of in violation of subsection (a), the person holding the property has no right or title to, or interest in, the property.
 
 (c)
 
@@ -38,7 +38,7 @@ Determinations of Violations.—(1) The district court of the United States for 
 
 (f)
 
-Delivery of Seized Property.—Any law enforcement official who seizes property under subsection (c) and is not authorized to retain it for the United States shall deliver the property to an authorized member of the armed forces or other authorized official of the Department of Defense or the Department of Justice.
+Delivery of Seized Property.—Any law enforcement official who seizes property under subsection (c) and is not authorized to retain it for the United States shall deliver the propertyto an authorized member of the armed forces or other authorized official of the Department of Defense or the Department of Justice.
 
 (g)
 

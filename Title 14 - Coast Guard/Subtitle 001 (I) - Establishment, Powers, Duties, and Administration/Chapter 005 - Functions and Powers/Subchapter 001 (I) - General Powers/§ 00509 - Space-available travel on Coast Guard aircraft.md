@@ -48,7 +48,7 @@ Categories of Eligible Individuals.—Subject to subsection (d), the categories 
 
 &emsp;(4) Subject to subsection (f), veterans with a permanent service-connected disability rated as total.
 
-&emsp;(5) Such categories of dependents of individuals described in paragraphs (1) through (3) asthe Commandant shall specify in the policy under subsection (a)(2), under such conditions and circumstances as the Commandant shall specify in such policy.
+&emsp;(5) Such categories of dependents of individuals described in paragraphs (1) through (3) as the Commandant shall specify in the policy under subsection (a)(2), under such conditions and circumstances as the Commandant shall specify in such policy.
 
 &emsp;(6) Such other categories of individuals as the Commandant considers appropriate.
 

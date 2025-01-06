@@ -10,7 +10,7 @@ The Director shall provide a living allowance to members of the Corps for the pe
 
 #### (c) Other authorized benefits
 
-While receiving training or engaging in service projects as members of the National CivilianCommunity Corps, members may be provided the following benefits, as the Director determines appropriate:
+While receiving training or engaging in service projects as members of the National Civilian Community Corps, members may be provided the following benefits, as the Director determines appropriate:
 
 &emsp;(1) Allowances for travel expenses, personal expenses, and other expenses.
 

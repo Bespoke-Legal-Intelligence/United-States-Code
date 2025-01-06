@@ -20,7 +20,7 @@ In this subpart:
 
 &emsp;(7) The term "national critical technology" means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) <sup>1</sup> of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
-&emsp;(8) The term "defense critical technology" means a technology that is identified undersection 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title.
+&emsp;(8) The term "defense critical technology" means a technology that is identified under section 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title.
 
 &emsp;(9) The term "eligible firm" means a company or other business entity that, as determined by the Secretary of Commerce—
 

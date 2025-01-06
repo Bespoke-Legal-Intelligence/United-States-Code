@@ -32,7 +32,7 @@
 
 Subsec. (a). Pub. L. 101–189, §664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member's pay to be deposited late or in an incorrect amount or manner."
 
-Subsec. (d). Pub. L. 101–189, §664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In this section, the term 'financial institution' has the meaning given that term in section 3332 of title 31."
+Subsec. (d). Pub. L. 101–189, §664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) readas follows: "In this section, the term 'financial institution' has the meaning given that term in section 3332 of title 31."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -108,7 +108,7 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 Support to Chairman of the Joint Chiefs of Staff.—The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under section 153 of this title.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, §1081(a)(10), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 118–31, div. A, title XVII, §1722(a)(3), Dec. 22, 2023, 137 Stat. 667.)
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div.A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, §1081(a)(10), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 118–31, div. A, title XVII, §1722(a)(3), Dec. 22, 2023, 137 Stat. 667.)
 
 #### <b>Editorial Notes</b>
 

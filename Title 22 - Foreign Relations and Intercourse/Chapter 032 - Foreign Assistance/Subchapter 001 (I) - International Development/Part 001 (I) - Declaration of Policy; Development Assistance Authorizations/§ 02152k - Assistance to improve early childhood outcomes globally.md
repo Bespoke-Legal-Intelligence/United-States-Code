@@ -136,7 +136,7 @@ The Special Advisor for Assistance to Orphans and Vulnerable Children should est
 
 &emsp;(2) early childhood development initiatives that include children with a variety of needs and circumstances; and
 
-&emsp;(3) United States Government early childhood development programs, strategies, and partnerships across relevant Federal departments and agencies.
+&emsp;(3) United States Government early childhood development programs, strategies, andpartnerships across relevant Federal departments and agencies.
 
 (Pub. L. 87–195, pt. I, §137, as added Pub. L. 116–283, div. A, title XII, §1283(b), Jan. 1, 2021, 134 Stat. 3985.)
 

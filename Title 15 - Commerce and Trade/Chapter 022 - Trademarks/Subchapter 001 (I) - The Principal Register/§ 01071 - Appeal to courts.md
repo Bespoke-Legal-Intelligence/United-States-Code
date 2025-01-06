@@ -16,7 +16,7 @@
 
 (2) The Director shall not be made a party to an inter partes proceeding under this subsection, but he shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
 
-(3) In any case where there is no adverse party, a copy of the complaint shall be served on theDirector, and, unless the court finds the expenses to be unreasonable, all the expenses of the proceeding shall be paid by the party bringing the case, whether the final decision is in favor of such party or not. In suits brought hereunder, the record in the United States Patent and Trademark Office shall be admitted on motion of any party, upon such terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of any party to take further testimony. The testimony and exhibits of the record in the United States Patent and Trademark Office, when admitted, shall have the same effect as if originally taken and produced in the suit.
+(3) In any case where there is no adverse party, a copy of the complaint shall be served on the Director, and, unless the court finds the expenses to be unreasonable, all the expenses of the proceeding shall be paid by the party bringing the case, whether the final decision is in favor of such party or not. In suits brought hereunder, the record in the United States Patent and Trademark Office shall be admitted on motion of any party, upon such terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of any party to take further testimony. The testimony and exhibits of the record in the United States Patent and Trademark Office, when admitted, shall have the same effect as if originally taken and produced in the suit.
 
 (4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
@@ -36,7 +36,7 @@ Acts Feb. 20, 1905, ch. 592, §§9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §225(d)(2)(A), substituted "an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding" for "or an applicant for renewal".
 
-Subsec. (b)(1). Pub. L. 116–260, §225(d)(2)(B), inserted ", except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding," before "is dissatisfied".
+Subsec. (b)(1). Pub. L. 116–260, §225(d)(2)(B), inserted ", except for a registrant subject to an ex parteexpungement proceeding or an ex parte reexamination proceeding," before "is dissatisfied".
 
 <b>2011</b>—Subsec. (b)(4). Pub. L. 112–29 substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
@@ -64,7 +64,7 @@ Subsec. (a)(3). Pub. L. 98–620 substituted provisions requiring the Commission
 
 Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent and Trademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
 
-<b>1982</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 97–164 substituted "United States Court of Appeals for the Federal Circuit" for "United States Court of Customs andPatent Appeals" and "Court of Customs and Patent Appeals" wherever appearing.
+<b>1982</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 97–164 substituted "United States Court of Appeals for the Federal Circuit" for "United States Court of Customs and Patent Appeals" and "Court of Customs and Patent Appeals" wherever appearing.
 
 <b>1975</b>—Subsec. (a)(2). Pub. L. 93–600 substituted provisions relating to filing of notice of appeal with the Commissioner and the contents of such notice of appeal, for provisions relating to giving notice of appeal to the Commissioner and requiring filing in the Patent Office reasons for appeal.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent an
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1975 Amendments
 

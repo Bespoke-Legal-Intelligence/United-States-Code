@@ -48,7 +48,7 @@
 
 #### (2) Report
 
-&emsp;The Secretary shall submit to the Committee on Finance, the Committee on Health, Education, Labor, and Pensions, and the Committee on Commerce of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the findings of the study under paragraph (1) and shall include in such report recommendations on the privacy and security requirements described in such paragraph.
+&emsp;The Secretary shall submit to the Committee on Finance, the Committee on Health, Education, Labor, and Pensions, and the Committee on Commerce of the Senate and theCommittee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the findings of the study under paragraph (1) and shall include in such report recommendations on the privacy and security requirements described in such paragraph.
 
 #### (c) Guidance on implementation specification to de-identify protected health information
 

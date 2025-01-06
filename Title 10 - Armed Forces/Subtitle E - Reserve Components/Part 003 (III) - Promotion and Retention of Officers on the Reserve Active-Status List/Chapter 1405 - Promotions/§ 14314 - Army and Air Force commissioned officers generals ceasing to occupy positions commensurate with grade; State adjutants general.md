@@ -2,15 +2,17 @@
 
 (a)
 
-General Officers.—Within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
+General Officers.—(1) Except as provided in paragraph (2), within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
 
-&emsp;(1) Transfer the officer in grade to the Retired Reserve, if the officer is qualified and applies for the transfer.
+&emsp;(A) Transfer the officer in grade to the Retired Reserve, if the officer is qualified and applies for the transfer.
 
-&emsp;(2) Transfer the officer in grade to the inactive status list of the Standby Reserve, if the officer is qualified.
+&emsp;(B) Transfer the officer in grade to the inactive status list of the Standby Reserve, if the officer is qualified.
 
-&emsp;(3) Discharge the officer from the officer's reserve appointment and, if the officer is qualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer's appointment in a general officer grade.
+&emsp;(C) Discharge the officer from the officer's reserve appointment and, if the officer is qualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer's appointment in a general officer grade.
 
-&emsp;(4) Discharge the officer from the officer's reserve appointment.
+&emsp;(D) Discharge the officer from the officer's reserve appointment.
+
+(2) For any general officer covered by paragraph (1) who is released from a joint duty assignment or other non-joint active-duty assignment, the Secretary concerned shall complete the transfer or discharge required by paragraph (1) not later than 60 days after the officer's release.
 
 (b)
 
@@ -28,9 +30,9 @@ Adjutants General.—If a reserve officer who is federally recognized in the Arm
 
 (c)
 
-Credit for Service in Grade.—An officer who is appointed under subsection (a)(3) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
+Credit for Service in Grade.—An officer who is appointed under subsection (a)(1)(C) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 104–201, div. A, title V, §544(c), Sept. 23, 1996, 110 Stat. 2523.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 104–201, div. A, title V, §544(c), Sept. 23, 1996, 110 Stat. 2523; Pub. L. 118–159, div. A, title V, §512, Dec. 23, 2024, 138 Stat. 1875.)
 
 #### <b>Editorial Notes</b>
 
@@ -39,6 +41,10 @@ Credit for Service in Grade.—An officer who is appointed under subsection (a)(
 Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159, §512(1), designated introductory provisions as par. (1) and substituted "Except as provided in paragraph (2), within" for "Within", redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+
+Subsec. (c). Pub. L. 118–159, §512(2), substituted "subsection (a)(1)(C)" for "subsection (a)(3)".
 
 <b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–201 struck out "of the Air Force" after "reserve officer".
 

@@ -6,7 +6,7 @@
 
 (2) Any equipment to be procured under such an agreement shall be procured by the Secretary. Title to such equipment shall be held jointly by the United States and the institution.
 
-(3) Before equipment acquired under such an agreement may be used, the parties to theagreement shall arrange by contract under section 8153 of this title for the exchange or use of the equipment.
+(3) Before equipment acquired under such an agreement may be used, the parties to the agreement shall arrange by contract under section 8153 of this title for the exchange or use of the equipment.
 
 (4) The Secretary may not contract for the acquisition of medical equipment to be purchased jointly under an agreement under subsection (a) until the institution which enters into the agreement provides to the Secretary its share of the purchase price of the medical equipment.
 

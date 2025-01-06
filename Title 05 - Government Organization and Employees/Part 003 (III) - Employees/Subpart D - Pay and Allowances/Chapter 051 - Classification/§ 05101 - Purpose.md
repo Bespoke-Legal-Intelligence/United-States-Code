@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Occupational Series for Digital Career Fields
 
-Pub. L. 117–81, div. A, title XI, §1118, Dec. 27, 2021, 135 Stat. 1956, provided that: "Not later than 270 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Director of the Office of Personnel Management shall, pursuant to chapter 51 of title 5, United States Code, establish or update one or more occupational series covering Federal Government positions in the fields of software development, software engineering, data science, and data management."
+Pub. L. 117–81, div. A, title XI, §1118, Dec. 27, 2021, 135 Stat. 1956, provided that: "Not later than 270 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Director of the Office of Personnel Management shall, pursuant to chapter 51 of title 5, United States Code, establish or update one or more occupational seriescovering Federal Government positions in the fields of software development, software engineering, data science, and data management."
 
 #### References in Other Laws to Chapter 51 and Subchapter III of Chapter 53
 

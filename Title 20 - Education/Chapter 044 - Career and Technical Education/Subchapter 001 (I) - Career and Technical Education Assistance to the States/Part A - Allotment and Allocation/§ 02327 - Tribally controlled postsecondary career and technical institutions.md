@@ -24,7 +24,7 @@ Amounts made available under this section shall be used for career and technical
 
 #### (3) Indirect costs
 
-&emsp;Notwithstanding any other provision of law or regulation, the Secretary shall not requirethe use of a restricted indirect cost rate for grants issued under this section.
+&emsp;Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
 
 #### (d) Applications
 
@@ -94,13 +94,13 @@ In this section:
 
 &emsp;&emsp;&emsp;For each academic year, the Indian student count for a tribally controlled postsecondary career and technical institution shall be the quotient obtained by dividing—
 
-&emsp;&emsp;&emsp;&emsp;(I) the sum of the credit hours of all Indian students enrolled in the tribally controlled postsecondary career and technical institution (as determined under clause (i)); by
+&emsp;&emsp;&emsp;&emsp;(I) the sum of the credit hours of all Indian students enrolled in the tribally controlled postsecondary career andtechnical institution (as determined under clause (i)); by
 
 &emsp;&emsp;&emsp;&emsp;(II) 12.
 
 #### (iii) Summer term
 
-&emsp;&emsp;&emsp;Any credit earned in a class offered during a summer term shall be counted in thedetermination of the Indian student count for the succeeding fall term.
+&emsp;&emsp;&emsp;Any credit earned in a class offered during a summer term shall be counted in the determination of the Indian student count for the succeeding fall term.
 
 #### (iv) Students without secondary school degrees
 
@@ -172,7 +172,7 @@ Subsec. (i). Pub. L. 115–224, §116(5), added subsec. (i) and struck out forme
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–315, §941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students."
 
-Subsec. (d). Pub. L. 110–315, §941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require."
+Subsec. (d). Pub. L. 110–315, §941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo CommunityCollege Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require."
 
 Subsec. (h)(1). Pub. L. 110–315, §941(k)(2)(D)(ii), substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 

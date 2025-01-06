@@ -4,7 +4,7 @@
 
 (b) The establishment and operation by the Secretary of an outpatient clinic in facilities described in subsection (a) shall not constitute grounds entitling the United States to any recovery under that subsection.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 503, §5036; amended Pub. L. 93–82, title IV, §403(f), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(13), July 5, 1977, 91 Stat. 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(4), Oct. 19, 1984, 98 Stat. 2690;renumbered §8136, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §405, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 106–419, title II, §222, Nov. 1, 2000, 114 Stat. 1845.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 503, §5036; amended Pub. L. 93–82, title IV, §403(f), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(13), July 5, 1977, 91 Stat. 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(4), Oct. 19, 1984, 98 Stat. 2690; renumbered §8136, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §405, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 106–419, title II, §222, Nov. 1, 2000, 114 Stat. 1845.)
 
 #### <b>Editorial Notes</b>
 
@@ -32,7 +32,7 @@ Pub. L. 102–83 substituted "Secretary" for "Administrator" in two places.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
+Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of theterms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -4,7 +4,7 @@
 
 (2) A person may not be appointed as Secretary of the Navy within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
-(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Navy is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Navy, including the following functions:
+(b) Subject to the authority, direction, and control of the Secretary of Defense and subjectto the provisions of chapter 6 of this title, the Secretary of the Navy is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Navy, including the following functions:
 
 &emsp;(1) Recruiting.
 
@@ -48,7 +48,7 @@
 
 (d) The Secretary of the Navy is also responsible for such other activities as may be prescribed by law or by the President or Secretary of Defense.
 
-(e) After first informing the Secretary of Defense, the Secretary of the Navy may make such recommendations to Congress relating to theDepartment of Defense as he considers appropriate.
+(e) After first informing the Secretary of Defense, the Secretary of the Navy may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
 (f) The Secretary of the Navy may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Navy and to the Assistant Secretaries of the Navy. Officers of the Navy and the Marine Corps shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 
@@ -94,7 +94,69 @@ Amendment by Pub. L. 117–81 applicable with respect to appointments made on or
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### Designation of Official Responsible for Autonomous Surface and Underwater Dual-Modality Vehicles
+
+Pub. L. 118–159, div. A, title I, §125, Dec. 23, 2024, 138 Stat. 1806, provided that:
+
+"(a)
+
+Designation Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Navy shall designate an appropriate official within the Department of the Navy to have primary responsibility for the development and acquisition of surface and underwater dual-modality, advanced autonomous vehicles, consistent with warfighter requirements.
+
+"(b)
+
+Program Element.—The Secretary of the Navy shall ensure, within budget program elements for the Navy, that there is a dedicated program element for the development and acquisition of surface and underwater dual-modality, advanced autonomous vehicles."
+
+#### Pilot Program on Use of Automated Inspection Technologies at Shipyards
+
+Pub. L. 118–159, div. A, title X, §1030, Dec. 23, 2024, 138 Stat. 2057, provided that:
+
+"(a)
+
+In General.—Beginning not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Navy shall carry out a pilot program on the use of automated inspection technologies at shipyards.
+
+"(b)
+
+Selection of Location.—The Secretary shall select one shipyard at which to carry out the pilot program required under subsection (a) and shall take such steps as may be necessary to minimize the disruption to the operations of the shipyard during the conduct of the pilot program.
+
+"(c)
+
+Elements.—In carrying out the pilot program required under subsection (a), the Secretary shall—
+
+&emsp;"(1) select at least one surface ship as a test platform to collect a comprehensive set of inspection criteria used for defining maintenance requirements;
+
+&emsp;"(2) define requirements for the upgrade or overhaul of the information technology infrastructure at the shipyard to ensure compatibility with new technologies implemented under the pilot program;
+
+&emsp;"(3) provide for the training of personnel on the operation and maintenance of the automated inspection technologies selected for use during the pilot program;
+
+&emsp;"(4) designate an individual who shall be responsible for implementing and overseeing each phase of the pilot program; and
+
+&emsp;"(5) recommend a strategic sequencing plan of the pilot program to ensure the execution of necessary information technology upgrades prior to the deployment of robotic systems.
+
+"(d)
+
+Report and Briefings.—
+
+&emsp;"(1)
+
+Report.—Not later than 180 days after the termination of the pilot program under subsection (e), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program.
+
+&emsp;"(2)
+
+Briefings.—Upon completion of the sequencing plan required under subsection (c)(5), the Secretary shall provide to the congressional defense committees a briefing on the plan.
+
+"(e)
+
+Termination.—The authority to carry out a pilot program under this section shall terminate on the date that is three years after the date of the enactment of this Act."
+
+#### Establishment of Nuclear-Armed, Sea-Launched Cruise Missile Program Element
+
+Pub. L. 118–159, div. A, title XVI, §1627(c), Dec. 23, 2024, 138 Stat. 2175, provided that: "Beginning on the date of the submission of the budget of the President for fiscal year 2026 in accordance with section 1105(a) of title 31, United States Code, the Secretary of the Navy shall—
+
+&emsp;"(1) establish a separate, dedicated program element for the development of a nuclear-armed, sea-launched cruise missile within the budget program elements for Navy Strategic Systems Programs; and
+
+&emsp;"(2) ensure that Navy activities in support of such development are executed within such program element."
 
 #### Strategy on Use of Automation and Artificial Intelligence for Shipyard Optimization
 
@@ -148,7 +210,7 @@ Activities.—As part of the pilot program under subsection (a), the Secretary o
 
 &emsp;&emsp;"(A) seek and receive support for the development of patentable inventions; and
 
-&emsp;&emsp;"(B) receive a portion of any royalty or other payment as an inventor or coinventor such as maybe due under section 14(a)(1)(A)(i) of the Stevension-Wylder \[sic; probably should be "Stevenson-Wydler"\] Technology Innovation Act of 1980 (15 U.S.C. 3710c(a)(1)(A)(i)); and
+&emsp;&emsp;"(B) receive a portion of any royalty or other payment as an inventor or coinventor such as may be due under section 14(a)(1)(A)(i) of the Stevension-Wylder \[sic; probably should be "Stevenson-Wydler"\] Technology Innovation Act of 1980 (15 U.S.C. 3710c(a)(1)(A)(i)); and
 
 &emsp;"(4) carry out other such activities as the Secretary determines appropriate in accordance with the purposes of the pilot program.
 
@@ -258,9 +320,61 @@ Leadership Qualifications.—The Secretary shall ensure that flag officers with 
 
 "(h)
 
-Determination by Cyber Command.—Not later than 60 days after the date on which the Secretary submits the report under subsection (f), the Commander of the United States Cyber Command shall submit to theCommittees on Armed Services of the House of Representatives and Senate a determination with respect to whether the matters contained in the report satisfy the requirements of the United States Cyber Command."
+Determination by Cyber Command.—Not later than 60 days after the date on which the Secretary submits the report under subsection (f), the Commander of the United States Cyber Command shall submit to the Committees on Armed Services of the House of Representatives and Senate a determination with respect to whether the matters contained in the report satisfy the requirements of the United States Cyber Command."
 
 #### Shipyard Infrastructure Optimization Program of the Navy
+
+Pub. L. 118–159, div. B, title XXVIII, §2879, Dec. 23, 2024, 138 Stat. 2289, provided that:
+
+"(a)
+
+Policy and Guidance Update.—
+
+&emsp;"(1)
+
+In general.—The Secretary of the Navy shall update relevant internal policy and guidance of the Department of the Navy with respect to the projects described in paragraph (2) to require the head of the Program Management Office of the Department to—
+
+&emsp;&emsp;"(A) update the relevant methodologies used to conduct cost sensitivity, risk, and uncertainty analyses throughout the project design process;
+
+&emsp;&emsp;"(B) document the use of different methods to validate high-value cost elements for projects under the Shipyard Infrastructure Optimization Program; and
+
+&emsp;&emsp;"(C) adhere to best practices for the development of construction schedules.
+
+&emsp;"(2)
+
+Projects described.—The projects described in this paragraph are—
+
+&emsp;&emsp;"(A) the replacement of dry dock 1 at Portsmouth Naval Shipyard;
+
+&emsp;&emsp;"(B) the replacement of dry dock 3 at Pearl Harbor Naval Shipyard; and
+
+&emsp;&emsp;"(C) any other project of the Navy under the Shipyard Infrastructure Optimization Program.
+
+"(b)
+
+Planning.—The Secretary shall implement measures to ensure more extensive planning on military construction projects under the Shipyard Infrastructure Optimization Program for which the Secretary has obligated more than $500,000,000 to more accurately identify operational mission need dates.
+
+"(c)
+
+Briefings.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this section \[Dec. 23, 2024\], and quarterly thereafter until each project is completed, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the status of the construction projects for the replacement by the Navy of—
+
+&emsp;&emsp;"(A) dry dock 1 at Portsmouth Naval Shipyard; and
+
+&emsp;&emsp;"(B) dry dock 3 at Pearl Harbor Naval Shipyard.
+
+&emsp;"(2)
+
+Elements.—Each briefing required under paragraph (1) shall include, at a minimum, the following:
+
+&emsp;&emsp;"(A) A summary of the steps the Secretary is taking to ensure the costs of the projects specified in such paragraph do not increase.
+
+&emsp;&emsp;"(B) An assessment by the Secretary as of the date of the briefing of the likelihood of future cost overruns for each such project.
+
+&emsp;&emsp;"(C) Any other details the Secretary determines relevant to support the oversight by Congress of each such project and other projects under the Shipyard Infrastructure Optimization Program."
 
 Pub. L. 117–263, div. A, title III, §356, Dec. 23, 2022, 136 Stat. 2534, provided that:
 
@@ -440,7 +554,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Report.—Not later than 180 days after the date on which the demonstration project under this section terminates, the Commander, Navy Region Mid-Atlantic, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing—
+Report.—Not later than 180 days after the date on which the demonstration project under this sectionterminates, the Commander, Navy Region Mid-Atlantic, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing—
 
 &emsp;"(1) any financial savings or expenses directly and inseparably linked to the demonstration project;
 
@@ -472,7 +586,7 @@ Current programs.—In the case of any shipboard system program of record that i
 
 &emsp;"(2)
 
-Future programs.—In the case of any shipboard system program of record that is first accepted by the Government after the date of the enactment of this Act, the Secretary shall ensure that formal training is established for such program by not laterthan 12 months after the date on which the shipboard system program of record is first accepted by the Government."
+Future programs.—In the case of any shipboard system program of record that is first accepted by the Government after the date of the enactment of this Act, the Secretary shall ensure that formal training is established for such program by not later than 12 months after the date on which the shipboard system program of record is first accepted by the Government."
 
 #### Limitation on Modifications to Navy Facilities Sustainment, Restoration, and Modernization Structure and Mechanism
 
@@ -526,7 +640,7 @@ Authority to Acquire Complete Title.—If real property owned by the United Stat
 
 Authorized Consideration.—(1) As consideration for the acquisition of a reversionary interest under subsection (a), the Secretary shall provide the holder of the reversionary interest with in-kind consideration, to be determined pursuant to negotiations between the Secretary and the holder of the reversionary interest.
 
-"(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the United States were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
+"(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretaryshall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the United States were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
 
 "(c)
 
@@ -552,7 +666,7 @@ Selection Requirements.—As a condition on eligibility for selection to partici
 
 Participating Workers.—(1) Actual worker participation in the demonstration project shall be determined through competitive selection. Not more than 15 percent of the wage grade journeyman at a demonstration project location may be selected to participate.
 
-"(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade workerwho receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
+"(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade worker who receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
 
 "(d)
 
@@ -608,5 +722,5 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, seeEx. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 

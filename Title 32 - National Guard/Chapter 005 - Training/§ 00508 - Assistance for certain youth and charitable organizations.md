@@ -6,7 +6,7 @@ Authority To Provide Services.—Members and units of the National Guard may pro
 
 &emsp;(1) the provision of such services does not adversely affect the quality of that training or otherwise interfere with the ability of a member or unit of the National Guard to perform the military functions of the member or unit;
 
-&emsp;(2) the services to be provided are not commercially available, or any commercial entity that would otherwise provide such services has approved, in writing, the provision of such services by the National Guard;
+&emsp;(2) the services to be provided are not commercially available, or any commercial entitythat would otherwise provide such services has approved, in writing, the provision of such services by the National Guard;
 
 &emsp;(3) National Guard personnel will enhance their military skills as a result of providing such services; and
 

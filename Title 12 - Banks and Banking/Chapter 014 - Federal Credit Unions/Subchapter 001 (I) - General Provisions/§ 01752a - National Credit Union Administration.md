@@ -22,7 +22,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be six years, except that the termsof the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
+The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
 
 #### (d) Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress
 
@@ -34,7 +34,7 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 #### (f) Audit by Government Accountability Office
 
-The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
+The financial transactions of the Administration shall be subject to audit by the GovernmentAccountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
 (June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -60,7 +60,7 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 <b>1982</b>—Subsec. (f). Pub. L. 97–320 struck out "on a calendar year basis" after "subject to audit".
 
-<b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest themanagement of the National Credit Union Administration in the National Credit Union Administration Board.
+<b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
 <b>1970</b>—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 
@@ -84,7 +84,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, required the Se
 
 #### Study of Corporate Credit Unions
 
-Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses, Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
+Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury toconduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses, Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
 
 #### Study of Credit Union System by GAO
 

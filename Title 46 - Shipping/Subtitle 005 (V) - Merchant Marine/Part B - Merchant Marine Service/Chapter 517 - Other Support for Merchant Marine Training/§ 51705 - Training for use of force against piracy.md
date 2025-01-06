@@ -8,7 +8,7 @@ The Secretary of Transportation, in consultation with the Secretary of Defense a
 
 &emsp;(3) tactics for defense of a vessel, including instruction on the types, use, and limitations of security equipment;
 
-&emsp;(4) standard rules for the use of force for self-defense as developed by the Secretary of the department in which the Coast Guard is operating under section 912(c) of the Coast Guard Authorization Act of 2010 (Public Law 111–281; 46 U.S.C. 8107 note), including instruction on firearm safety for crewmembers of vessels carrying cargo under section 55305 of this title; and
+&emsp;(4) standard rules for the use of force for self-defense as developed by the Secretary of the department in which the Coast Guard is operating under section 912(c) of the CoastGuard Authorization Act of 2010 (Public Law 111–281; 46 U.S.C. 8107 note), including instruction on firearm safety for crewmembers of vessels carrying cargo under section 55305 of this title; and
 
 &emsp;(5) procedures to follow to improve crewmember survivability if captured and taken hostage by pirates.
 

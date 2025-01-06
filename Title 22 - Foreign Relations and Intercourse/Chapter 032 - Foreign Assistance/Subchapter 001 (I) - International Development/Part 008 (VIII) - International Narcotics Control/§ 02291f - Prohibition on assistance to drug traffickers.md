@@ -6,7 +6,7 @@ The President shall take all reasonable steps to ensure that assistance under th
 
 &emsp;(1) has been convicted of a violation of, or a conspiracy to violate, any law or regulation of the United States, a State or the District of Columbia, or a foreign country relating to narcotic or psychotropic drugs or other controlled substances; or
 
-&emsp;(2) is or has been an illicit trafficker in any such controlled substance or is or has been aknowing assistor, abettor, conspirator, or colluder with others in the illicit trafficking in any such substance.
+&emsp;(2) is or has been an illicit trafficker in any such controlled substance or is or has been a knowing assistor, abettor, conspirator, or colluder with others in the illicit trafficking in any such substance.
 
 #### (b) Regulations
 
@@ -22,7 +22,7 @@ Regulations issued pursuant to subsection (b) shall be submitted to the Congress
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

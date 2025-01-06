@@ -64,7 +64,7 @@ In the case of any transfer described in subsection (a) of section 1041 (other t
 
 &emsp;(1) subsection (a) of this section shall not apply, and
 
-&emsp;(2) the same tax treatment with respect to the transferred installment obligation shall apply to the transferee as would have applied to the transferor.
+&emsp;(2) the same tax treatment with respect to the transferred installment obligation shallapply to the transferee as would have applied to the transferor.
 
 #### (h) Certain liquidating distributions by S corporations
 
@@ -142,7 +142,7 @@ Amendment by section 631(e)(9) of Pub. L. 99–514 applicable to any distributio
 
 Pub. L. 99–514, title X, §1011(c)(1), Oct. 22, 1986, 100 Stat. 2389, provided that: "The amendments made by this section \[amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title, and amending provisions set out as a note under section 806 of this title\] shall apply to taxable years beginning after December 31, 1986."
 
-Amendment by section 1842(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1842(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

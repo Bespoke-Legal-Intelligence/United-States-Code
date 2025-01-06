@@ -4,7 +4,7 @@
 
 In General.—The Secretary shall establish and carry out a rail cooperative research program. The program shall—
 
-&emsp;(1) address, among other matters, intercity rail passenger and freight rail services, including existing rail passenger and freight technologies and speeds, incrementally enhanced rail systems and infrastructure, and new high-speed wheel-on-rail systems;
+&emsp;(1) address, among other matters, intercity rail passenger and freight rail services, including existing rail passenger and freight technologies and speeds, incrementally enhancedrail systems and infrastructure, and new high-speed wheel-on-rail systems;
 
 &emsp;(2) address ways to expand the transportation of international trade traffic by rail, enhance the efficiency of intermodal interchange at ports and other intermodal terminals, and increase capacity and availability of rail service for seasonal freight needs;
 
@@ -40,7 +40,7 @@ Content.—The program to be carried out under this section shall include resear
 
 &emsp;(12) to review rail crossing safety improvements, including improvements using new safety technology;
 
-&emsp;(13) to review and develop technology designed to reduce train horn noise and its effecton communities, including broadband horn technology; and
+&emsp;(13) to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology; and
 
 &emsp;(14) to improve overall safety of intercity passenger and freight rail operations.
 

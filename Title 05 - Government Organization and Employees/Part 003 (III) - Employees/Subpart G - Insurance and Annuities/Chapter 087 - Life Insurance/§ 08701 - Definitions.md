@@ -20,7 +20,7 @@
 
 &emsp;(9) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of thePresidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
+&emsp;(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
 
 > but does not include—
 
@@ -30,7 +30,7 @@
 
 &emsp;(C) an employee excluded by regulation of the Office of Personnel Management under section 8716(b) of this title.
 
-(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
+(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recessperiod between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
 
 (c) For the purpose of this chapter, "basic insurance amount" means, in the case of any employee under this chapter, an amount equal to the greater of—
 
@@ -220,7 +220,7 @@ Pub. L. 96–427, §10, Oct. 10, 1980, 94 Stat. 1838, provided that:
 
 #### Effective Date of 1979 Amendments
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–311, §1, Oct. 30, 1998, 112 Stat. 2950, provided that: "This Act \[amending this section and sections 7703, 8706, 8707, and 8714a to 8714c of this title and enacting provisions set out as notes under this section and sections 7703 and 8714b of this title\] may be cited as the 'Federal Employees Life Insurance Improvement Act'."
+Pub. L. 105–311, §1, Oct. 30, 1998, 112 Stat. 2950, provided that: "This Act \[amending this section and sections 7703, 8706, 8707, and 8714a to 8714c of this title andenacting provisions set out as notes under this section and sections 7703 and 8714b of this title\] may be cited as the 'Federal Employees Life Insurance Improvement Act'."
 
 #### Short Title of 1994 Amendment
 

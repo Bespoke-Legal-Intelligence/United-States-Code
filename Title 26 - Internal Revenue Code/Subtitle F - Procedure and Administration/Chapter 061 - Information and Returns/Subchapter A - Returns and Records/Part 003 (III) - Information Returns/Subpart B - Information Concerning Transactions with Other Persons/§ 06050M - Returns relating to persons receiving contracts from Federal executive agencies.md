@@ -72,5 +72,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 99–514, title XV, §1522(c), Oct. 22, 1986, 100 Stat. 2747, provided that: "The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987."
+Pub. L. 99–514, title XV, §1522(c), Oct. 22, 1986, 100 Stat. 2747, provided that: "The amendments made bythis section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987."
 

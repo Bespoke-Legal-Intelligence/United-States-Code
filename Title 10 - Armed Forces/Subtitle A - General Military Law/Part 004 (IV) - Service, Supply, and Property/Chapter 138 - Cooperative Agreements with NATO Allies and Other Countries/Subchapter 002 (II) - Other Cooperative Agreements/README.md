@@ -19,13 +19,16 @@
 | 2350<i>o.</i> | Participation in programs relating to coordination or exchange of air refueling and air transportation services. |
 | [2350p.](%C2%A7%2002350p%20-%20Reciprocal%20patient%20movement%20agreements.md) | Reciprocal patient movement agreements. |
 | [2350q.](%C2%A7%2002350q%20-%20Execution%20of%20projects%20under%20the%20North%20Atlantic%20Treaty%20Organization%20Security%20Investment%20Program.md) | Execution of projects under the North Atlantic Treaty Organization Security Investment Program. |
-| [2350r.](%C2%A7%2002350r%20-%20North%20Atlantic%20Treaty%20Organization%20Special%20Operations%20Headquarters.md) | North Atlantic Treaty Organization Special Operations Headquarters. |
+| [2350r.](%C2%A7%2002350r%20-%20North%20Atlantic%20Treaty%20Organization%20Allied%20Special%20Operations%20Forces%20Command.md) | North Atlantic Treaty Organization Allied Special Operations Forces Command. |
+| [2350s.](%C2%A7%2002350s%20-%20Authority%20to%20contribute%20to%20innovation%20fund.md) | Authority to contribute to innovation fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title X, §1051, title XIII, §1301(a)(1), Dec. 23, 2024, 138 Stat. 2061, 2110, added item 2350s and substituted "Allied Special Operations Forces Command" for "Special Operations Headquarters" in item 2350r. Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title XII, §§1244(b)(1), 1271(b), Dec. 23, 2022, 136 Stat. 2845, 2860, substituted "acquisition and logistics support" for "logistic support" in item 2350d and added item 2350r. Amendment to item 2350d was made pursuant to operation of section 102 of this title.
 
@@ -75,4 +78,5 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 - [&sect; 02350o - Participation in programs relating to coordination or exchange of air refueling and air transportation services](%C2%A7%2002350o%20-%20Participation%20in%20programs%20relating%20to%20coordination%20or%20exchange%20of%20air%20refueling%20and%20air%20transportation%20services.md)
 - [&sect; 02350p - Reciprocal patient movement agreements](%C2%A7%2002350p%20-%20Reciprocal%20patient%20movement%20agreements.md)
 - [&sect; 02350q - Execution of projects under the North Atlantic Treaty Organization Security Investment Program](%C2%A7%2002350q%20-%20Execution%20of%20projects%20under%20the%20North%20Atlantic%20Treaty%20Organization%20Security%20Investment%20Program.md)
-- [&sect; 02350r - North Atlantic Treaty Organization Special Operations Headquarters](%C2%A7%2002350r%20-%20North%20Atlantic%20Treaty%20Organization%20Special%20Operations%20Headquarters.md)
+- [&sect; 02350r - North Atlantic Treaty Organization Allied Special Operations Forces Command](%C2%A7%2002350r%20-%20North%20Atlantic%20Treaty%20Organization%20Allied%20Special%20Operations%20Forces%20Command.md)
+- [&sect; 02350s - Authority to contribute to innovation fund](%C2%A7%2002350s%20-%20Authority%20to%20contribute%20to%20innovation%20fund.md)

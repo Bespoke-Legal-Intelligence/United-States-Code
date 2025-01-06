@@ -48,7 +48,7 @@ In subsec. (e), "section 60105 of title 46" substituted for "section 4197 of the
 
 <b>2008</b>—Pub. L. 110–280, §10(1), substituted "MARPOL Protocol," for "MARPOL Protocol,," wherever appearing in subsecs. (a), (b), and (d).
 
-Subsec. (b). Pub. L. 110–280, §10(2)(C), in concluding provisions, inserted "or the Administrator as provided for in this chapter" after "Secretary," and ", or the Administrator as provided for in this chapter," after "Secretary" in two places.
+Subsec. (b). Pub. L. 110–280, §10(2)(C), in concluding provisions, inserted "or the Administrator as providedfor in this chapter" after "Secretary," and ", or the Administrator as provided for in this chapter," after "Secretary" in two places.
 
 Pub. L. 110–280, §10(2)(A), in introductory provisions, inserted "or the Administrator as provided for in this chapter," after "Secretary,".
 

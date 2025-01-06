@@ -2,7 +2,7 @@
 
 Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for the purpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than 2 years, or both.
 
-(Pub. L. 93–618, title II, §259, Jan. 3, 1975, 88 Stat. 2034; temporarily renumbered §257 and amended Pub. L. 111–5, div. B, title I, §§1864(a)(2), 1865, Feb. 17, 2009, 123 Stat. 397, 399; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §259, Jan. 3, 1975, 88 Stat. 2034; temporarily renumbered §257 and amended Pub. L. 111–5, div. B, title I, §§1864(a)(2), 1865, Feb. 17, 2009, 123 Stat. 397, 399; Pub. L. 112–40,title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Termination of Assistance
 

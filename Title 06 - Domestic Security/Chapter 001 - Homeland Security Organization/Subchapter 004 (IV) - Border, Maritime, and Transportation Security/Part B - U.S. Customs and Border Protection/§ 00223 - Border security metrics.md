@@ -82,7 +82,7 @@ In this section:
 
 #### (11) Unlawful entry
 
-&emsp;The term "unlawful entry" means an unlawful border crosser who enters the United States and is not apprehended by a border security component of the Department of Homeland Security.
+&emsp;The term "unlawful entry" means an unlawful border crosser who enters the UnitedStates and is not apprehended by a border security component of the Department of Homeland Security.
 
 #### (b) Metrics for securing the border between ports of entry
 
@@ -168,7 +168,7 @@ In this section:
 
 &emsp;&emsp;(D) The number of infractions related to travelers and cargo committed by major violators who are interdicted by the Office of Field Operations at ports of entry, and the estimated number of such infractions committed by major violators who are not so interdicted.
 
-&emsp;&emsp;(E) In consultation with the heads of the Office of National Drug Control Policy and the United States Southern Command, a cocaine seizure effectiveness rate, which is the percentage resulting from dividing the amount of cocaine seized by the Office of Field Operations by the total estimated cocaine flow rate at ports of entry along the United States land border with Mexico and Canada.
+&emsp;&emsp;(E) In consultation with the heads of the Office of National Drug Control Policy and the United States Southern Command, a cocaine seizure effectiveness rate, which is the percentage resulting from dividing the amount of cocaine seized by the Office ofField Operations by the total estimated cocaine flow rate at ports of entry along the United States land border with Mexico and Canada.
 
 &emsp;&emsp;(F) A measurement of how border security operations affect crossing times, including the following:
 
@@ -264,7 +264,7 @@ In this section:
 
 #### (3) Manner of collection
 
-&emsp;The data collected to inform the metrics developed in accordance with paragraph (1) shallbe collected and reported in a consistent and standardized manner by Air and Marine Operations, informed by situational awareness.
+&emsp;The data collected to inform the metrics developed in accordance with paragraph (1) shall be collected and reported in a consistent and standardized manner by Air and Marine Operations, informed by situational awareness.
 
 #### (f) Data transparency
 
@@ -320,7 +320,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;After submitting the tenth report to the Comptroller General under paragraph (1), the Secretary may reevaluate and update any of the metrics developed in accordance with this section to ensure that such metrics are suitable to measure the effectiveness of border security.
+&emsp;&emsp;After submitting the tenth report to the Comptroller General under paragraph (1), the Secretary may reevaluate and update any of the metrics developed in accordance with this section to ensure that such metricsare suitable to measure the effectiveness of border security.
 
 #### (B) Congressional notification
 

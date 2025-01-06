@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [4801\.](%C2%A7%2004801%20-%20Definitions.md) | Definitions.<br> |
+| [4801\.](%C2%A7%2004801%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

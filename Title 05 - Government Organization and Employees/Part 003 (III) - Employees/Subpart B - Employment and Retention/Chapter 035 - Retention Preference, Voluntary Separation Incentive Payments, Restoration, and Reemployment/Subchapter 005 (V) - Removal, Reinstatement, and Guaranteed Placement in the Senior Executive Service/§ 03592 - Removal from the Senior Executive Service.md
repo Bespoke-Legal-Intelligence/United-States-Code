@@ -40,7 +40,7 @@ Subsec. (a)(2). Pub. L. 107–296, §1321(a)(2)(A)(ii), struck out "or" at end.
 
 Subsec. (a)(3). Pub. L. 107–296, §1321(a)(2)(A)(iii), struck out par. (3) which read as follows: "if the career appointee is not recertified as a senior executive under section 3393a,".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end "In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701."
+<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end "In the case of a removal under paragraph\(3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701."
 
 Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
 

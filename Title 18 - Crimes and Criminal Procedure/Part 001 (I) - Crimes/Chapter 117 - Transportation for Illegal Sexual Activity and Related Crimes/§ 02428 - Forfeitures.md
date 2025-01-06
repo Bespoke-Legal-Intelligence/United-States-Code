@@ -6,7 +6,7 @@ In General.—The court, in imposing sentence on any person convicted of a viola
 
 &emsp;(1) such person's interest in any property, real or personal, that was used or intended to be used to commit or to facilitate the commission of such violation; and
 
-&emsp;(2) any property, real or personal, constituting or derived from any proceeds that suchperson obtained, directly or indirectly, as a result of such violation.
+&emsp;(2) any property, real or personal, constituting or derived from any proceeds that such person obtained, directly or indirectly, as a result of such violation.
 
 (b)
 

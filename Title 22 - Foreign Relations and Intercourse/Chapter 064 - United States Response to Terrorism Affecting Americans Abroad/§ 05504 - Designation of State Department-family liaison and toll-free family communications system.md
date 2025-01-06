@@ -2,7 +2,7 @@
 
 #### (a) Designation of State Department-family liaison
 
-Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an aviation disaster directly involving United States citizens abroad, if possible, the Department of State will assign a specific individual, and an alternate, as the Department of State liaison for the family of each such citizen.
+Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that inthe event of an aviation disaster directly involving United States citizens abroad, if possible, the Department of State will assign a specific individual, and an alternate, as the Department of State liaison for the family of each such citizen.
 
 #### (b) Toll-free communications system
 

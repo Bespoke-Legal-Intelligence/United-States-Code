@@ -18,7 +18,7 @@
 
 <b>1996</b>—Pub. L. 104–106, div. A, title V, §505(a)(2), Feb. 10, 1996, 110 Stat. 296, added item 3201.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1672(b)(2), Oct. 5, 1994, 108 Stat. 3015, struck out items 3212 "ArmyReserve; Army National Guard of the United States: strength in grade; temporary increases", 3217 "Reserves: commissioned officers in active status", 3218 "Reserves: strength in grade; general officers in active status", 3219 "Reserves: strength in grade; commissioned officers in grades below brigadier general in active status", 3220 "Reserve officers: distribution", 3221 "Army Reserve", 3222 "Army Reserve, exclusive of members on active duty", 3223 "Army Reserve: warrant officers", 3224 "Army National Guard of United States", and 3225 "Army National Guard and Army National Guard of United States, exclusive of members on active duty".
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1672(b)(2), Oct. 5, 1994, 108 Stat. 3015, struck out items 3212 "Army Reserve; Army National Guard of the United States: strength in grade; temporary increases", 3217 "Reserves: commissioned officers in active status", 3218 "Reserves: strength in grade; general officers in active status", 3219 "Reserves: strength in grade; commissioned officers in grades below brigadier general in active status", 3220 "Reserve officers: distribution", 3221 "Army Reserve", 3222 "Army Reserve, exclusive of members on active duty", 3223 "Army Reserve: warrant officers", 3224 "Army National Guard of United States", and 3225 "Army National Guard and Army National Guard of United States, exclusive of members on active duty".
 
 <b>1990</b>—Pub. L. 101–510, div. A, title IV, §403(b)(1)(B), Nov. 5, 1990, 104 Stat. 1545, struck out item 3202 "Army: strength in grade; general officers".
 
@@ -26,7 +26,7 @@
 
 <b>1978</b>—Pub. L. 95–485, title VIII, §820(c)(5), Oct. 20, 1978, 92 Stat. 1627, substituted "other branches" for "other branches; Women's Army Corps" in item 3209 and struck out item 3215 "Regular Army: Women's Army Corps; warrant officers on active list; enlisted members on active duty".
 
-<b>1958</b>—Pub. L. 85–861, §1(70), Sept. 2, 1958, 72 Stat. 1464, inserted "; Army Reserve; Army National Guard of United States" in item 3212, and added items 3217 to 3220 and 3230.
+<b>1958</b>—Pub. L. 85–861, §1(70), Sept. 2, 1958, 72 Stat. 1464, inserted "; Army Reserve; Army National Guard ofUnited States" in item 3212, and added items 3217 to 3220 and 3230.
 
 <b>1957</b>—Pub. L. 85–155, title I, §101(6), Aug. 21, 1957, 71 Stat. 376, substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps" in item 3207.
 

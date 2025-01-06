@@ -54,7 +54,7 @@ Solely for purposes of this subchapter, a reference to "this title", "this chapt
 
 #### (e) Substantially similar
 
-In determining whether claims are "substantially similar" for the purpose of section 1122 oftitle 11, made applicable in a case under this subchapter by subsection (a), the Oversight Board shall consider whether such claims are secured and whether such claims have priority over other claims.
+In determining whether claims are "substantially similar" for the purpose of section 1122 of title 11, made applicable in a case under this subchapter by subsection (a), the Oversight Board shall consider whether such claims are secured and whether such claims have priority over other claims.
 
 #### (f) Operative clauses
 

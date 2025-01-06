@@ -39,7 +39,7 @@
 
 (f) Service at any time as a judge of the courts referred to in subsection (a) or of any other court of the United States, as defined by section 451 of this title, shall be included in the computation of aggregate years of judicial service for purposes of this section.
 
-(g) Any retired judge who is entitled to receive an annuity under subsection (a) shall be entitled to a cost of living adjustment in the amountpayable to him computed as specified in section 8340(b) of title 5, except that in no case may the annuity payable to such retired judge, as increased under this subsection, exceed 95 per centum of the salary of a United States district judge in regular active service.
+(g) Any retired judge who is entitled to receive an annuity under subsection (a) shall be entitled to a cost of living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, except that in no case may the annuity payable to such retired judge, as increased under this subsection, exceed 95 per centum of the salary of a United States district judge in regular active service.
 
 (June 25, 1948, ch. 646, 62 Stat. 904; Oct. 31, 1951, ch. 655, §40, 65 Stat. 724; Feb. 10, 1954, ch. 6, §5, 68 Stat. 13; Pub. L. 85–508, §12(d), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10; Pub. L. 89–571, §2, Sept. 12, 1966, 80 Stat. 764; Pub. L. 94–470, Oct. 11, 1976, 90 Stat. 2052; Pub. L. 99–396, §21(a), Aug. 27, 1986, 100 Stat. 844.)
 
@@ -101,7 +101,7 @@ Pub. L. 98–454, title X, §1002, Oct. 5, 1984, 98 Stat. 1745, provided that:
 
 "(d) Any senior judge shall be paid, while performing duties pursuant to this section, the same compensation (in lieu of payments pursuant to section 373 of title 28, United States Code) and the same allowances for travel and other expenses as a judge in active service.
 
-"(e) Senior judges under subsection (a) of this section shall at all times be governed by the code of judicialconduct for the United States judges, approved by the Judicial Conference of the United States.
+"(e) Senior judges under subsection (a) of this section shall at all times be governed by the code of judicial conduct for the United States judges, approved by the Judicial Conference of the United States.
 
 "(f) Any person who has elected to be a senior judge under subsection (a) of this section and who thereafter—
 

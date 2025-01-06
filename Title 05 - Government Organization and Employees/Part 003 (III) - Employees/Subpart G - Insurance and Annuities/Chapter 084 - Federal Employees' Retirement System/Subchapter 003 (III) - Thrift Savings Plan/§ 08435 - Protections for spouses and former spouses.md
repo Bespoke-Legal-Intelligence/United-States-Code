@@ -70,7 +70,7 @@
 
 (2) An application for a loan or withdrawal under section 8433(g) and (h) of this title shall not be approved if approval would have the result described under subsection (c)(1).
 
-(f) Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by thissection) may be made only in accordance with procedures prescribed by the Executive Director.
+(f) Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by this section) may be made only in accordance with procedures prescribed by the Executive Director.
 
 (g) Except with respect to the making of loans or withdrawals under section 8433(g) and (h), none of the provisions of this section requiring notification to, or the consent or waiver of, a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
 
@@ -156,7 +156,7 @@ Subsecs. (h), (i). Pub. L. 101–335, §6(a)(3), added subsec. (h) and redesigna
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

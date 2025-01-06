@@ -8,7 +8,7 @@
 
 (d) If two or more persons conspire to kill or kidnap any individual designated in subsection (a) of this section and one or more of such persons do any act to effect the object of the conspiracy, each shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
 
-(e) Whoever assaults any person designated in subsection (a)(1) shall be fined under this title,or imprisoned not more than ten years, or both. Whoever assaults any person designated in subsection (a)(2) shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
+(e) Whoever assaults any person designated in subsection (a)(1) shall be fined under this title, or imprisoned not more than ten years, or both. Whoever assaults any person designated in subsection (a)(2) shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
 
 (f) The terms "President-elect" and "Vice-President-elect" as used in this section shall mean such persons as are the apparent successful candidates for the offices of President and Vice President, respectively, as ascertained from the results of the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
 

@@ -32,7 +32,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Codification
 
-Section is comprised of section 4 of Pub. L. 103–209. Subsec. (a) of section 4 of Pub. L. 103–209 amended former section 3759(b) of Title 42, The Public Health and Welfare.
+Section is comprised of section 4 of Pub. L. 103–209. Subsec. (a) of section 4 of Pub. L. 103–209 amendedformer section 3759(b) of Title 42, The Public Health and Welfare.
 
 Section was formerly classified to section 5119b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 

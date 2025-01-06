@@ -28,7 +28,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 &emsp;(1) All information submitted under section 3016 of the Solid Waste Disposal Act \[42 U.S.C. 6937\] and subsection (b) of this section regarding any Federal facility and notice of each subsequent action taken under this chapter with respect to the facility.
 
-&emsp;(2) Information submitted by each department, agency, or instrumentality of theUnited States under section 3005 or 3010 of such Act \[42 U.S.C. 6925, 6930\].
+&emsp;(2) Information submitted by each department, agency, or instrumentality of the United States under section 3005 or 3010 of such Act \[42 U.S.C. 6925, 6930\].
 
 &emsp;(3) Information submitted by the department, agency, or instrumentality under section 9603 of this title.
 
@@ -48,7 +48,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the criteria referred to in paragraph (1) shall be applied in the same manner as the criteria are applied to facilities that are owned or operated by persons other than the United States.
+&emsp;&emsp;Subject to subparagraph (B), the criteria referred to in paragraph (1) shall be appliedin the same manner as the criteria are applied to facilities that are owned or operated by persons other than the United States.
 
 #### (B) Response under other law
 
@@ -84,7 +84,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (5) Annual report
 
-&emsp;Each department, agency, or instrumentality responsible for compliance with this section shall furnish an annual report to the Congress concerning its progress in implementing the requirements of this section.Such reports shall include, but shall not be limited to, each of the following items:
+&emsp;Each department, agency, or instrumentality responsible for compliance with this section shall furnish an annual report to the Congress concerning its progress in implementing the requirements of this section. Such reports shall include, but shall not be limited to, each of the following items:
 
 &emsp;&emsp;(A) A report on the progress in reaching interagency agreements under this section.
 
@@ -148,7 +148,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (B) Covenant requirements
 
-&emsp;&emsp;For purposes of subparagraphs (A)(ii)(I) and (C)(iii), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and the environment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (A)(ii) that has not been taken on the date of the lease.
+&emsp;&emsp;For purposes of subparagraphs (A)(ii)(I) and (C)(iii), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (A)(ii) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health andthe environment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (A)(ii) that has not been taken on the date of the lease.
 
 #### (C) Deferral
 
@@ -198,7 +198,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(v) A physical inspection of property adjacent to the real property, to the extent permitted by owners or operators of such property.
 
-&emsp;&emsp;(vi) Reasonably obtainable Federal, State, and local government records of each adjacent facility where there has been a release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, and which is likely to cause or contribute to a release or threatened release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, on the real property.
+&emsp;&emsp;(vi) Reasonably obtainable Federal, State, and local government records of each adjacent facility where there has been a releaseof any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, and which is likely to cause or contribute to a release or threatened release of any hazardous substance or any petroleum product or its derivatives, including aviation fuel and motor oil, on the real property.
 
 &emsp;&emsp;(vii) Interviews with current or former employees involved in operations on the real property.
 
@@ -270,7 +270,7 @@ The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L.
 
 Title III of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (j), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
-The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch.1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 

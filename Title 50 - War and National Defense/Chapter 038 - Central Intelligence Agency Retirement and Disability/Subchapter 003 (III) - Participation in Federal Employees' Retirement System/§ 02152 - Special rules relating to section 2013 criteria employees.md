@@ -70,10 +70,6 @@ The provisions of sections 2053 and 2055 of this title shall apply to employees 
 
 (Pub. L. 88–643, title III, §302, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244; amended Pub. L. 117–225, §3(c), Dec. 9, 2022, 136 Stat. 2296.)
 
-#### Applicability of Amendment
-
-<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of Title 5, Government Organization and Employees.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions

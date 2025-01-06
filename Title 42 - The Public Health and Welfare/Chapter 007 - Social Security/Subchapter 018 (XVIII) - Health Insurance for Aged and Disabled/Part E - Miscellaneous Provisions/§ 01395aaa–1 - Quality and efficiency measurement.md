@@ -90,7 +90,7 @@ The Secretary shall, to the extent practicable, publicly report on measures for 
 
 &emsp;Not later than 1 year after the date the technical expert panel described in paragraph (1) is established (and periodically thereafter as the Secretary determines appropriate), the technical expert panel shall—
 
-&emsp;&emsp;(A) review quality measures that relate to opioids and opioid use disorders, includingexisting measures and those under development;
+&emsp;&emsp;(A) review quality measures that relate to opioids and opioid use disorders, including existing measures and those under development;
 
 &emsp;&emsp;(B) identify gaps in areas of quality measurement that relate to opioids and opioid use disorders, and identify measure development priorities for such measure gaps; and
 

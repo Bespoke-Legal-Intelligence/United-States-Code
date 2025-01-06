@@ -12,7 +12,7 @@ Notwithstanding subsection (a), the Secretary may make available information reg
 
 &emsp;(2) explain the purpose for which such information is sought; and
 
-&emsp;(3) include assurances satisfactory to the Secretary that adequate measures are being taken to protect the confidentiality of such information and to ensure the protection of the significant cave from destruction by vandalism and unauthorized use.
+&emsp;(3) include assurances satisfactory to the Secretary that adequate measures are beingtaken to protect the confidentiality of such information and to ensure the protection of the significant cave from destruction by vandalism and unauthorized use.
 
 (Pub. L. 100–691, §5, Nov. 18, 1988, 102 Stat. 4548.)
 

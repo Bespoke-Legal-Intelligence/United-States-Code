@@ -24,5 +24,5 @@ Not later than 72 hours after a covered intelligence officer is designated as a 
 
 #### Definitions
 
-For definition of "congressional intelligence committees", referred to in subsec. (b), see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definition of "congressional intelligence committees" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

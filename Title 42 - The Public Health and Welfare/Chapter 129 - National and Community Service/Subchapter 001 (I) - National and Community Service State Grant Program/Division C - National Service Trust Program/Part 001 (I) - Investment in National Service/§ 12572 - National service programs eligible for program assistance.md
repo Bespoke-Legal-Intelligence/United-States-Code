@@ -8,7 +8,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (A) In general
 
-&emsp;&emsp;The recipient may carry out national service programs through an Education Corpsthat identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
+&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
 
 #### (B) Activities
 
@@ -42,7 +42,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(xi) providing other activities, addressing unmet educational needs, that the Corporation may designate; or
 
-&emsp;&emsp;&emsp;(xii) providing skilled musicians and artists to promote greater community unity through the use of music and arts education and engagement through work in low-income communities, and education, health care, and therapeutic settings, and other work in the public domain with citizens of all ages.
+&emsp;&emsp;&emsp;(xii) providing skilled musicians and artists to promote greater community unity through the use of music and arts education and engagement through work in low-income communities, and education,health care, and therapeutic settings, and other work in the public domain with citizens of all ages.
 
 #### (C) Education Corps indicators
 
@@ -82,7 +82,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) providing services designed to meet the health needs of rural communities, including the recruitment of youth to work in health professions in such communities;
 
-&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, andhelping people adopt and maintain healthy lifestyles and habits to improve health status;
+&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, and helping people adopt and maintain healthy lifestyles and habits to improve health status;
 
 &emsp;&emsp;&emsp;(viii) addressing childhood obesity through in-school and after-school physical activities, and providing nutrition education to students, in elementary schools and secondary schools; or
 
@@ -208,7 +208,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
-&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance isneeded) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
+&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
 
 #### (5) Opportunity Corps
 
@@ -350,7 +350,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;(B) A service program that—
 
-&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which theparticipants can meet such unmet needs; and
+&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
 
 &emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 
@@ -444,7 +444,7 @@ In awarding financial assistance and approved national service positions to elig
 
 #### (g) Consultation on indicators
 
-The Corporation shall consult with the Secretary of Education, the Secretary of Health and Human Services, the Director of the Centers for Disease Control and Prevention, the Secretary of Energy, the Secretary of Veterans Affairs, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Treasury, as appropriate, in developing additional indicators for the corps and programs described in subsections (a) and (b).
+The Corporation shall consult with the Secretary of Education, the Secretary of Health and Human Services, the Director of the Centers for Disease Control and Prevention, the Secretaryof Energy, the Secretary of Veterans Affairs, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Treasury, as appropriate, in developing additional indicators for the corps and programs described in subsections (a) and (b).
 
 #### (h) Requirements for tutors
 

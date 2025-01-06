@@ -13,12 +13,15 @@
 | [1349\.](%C2%A7%2001349%20-%20Attempt%20and%20conspiracy.md) | Attempt and conspiracy. |
 | [1350\.](%C2%A7%2001350%20-%20Failure%20of%20corporate%20officers%20to%20certify%20financial%20reports.md) | Failure of corporate officers to certify financial reports. |
 | [1351\.](%C2%A7%2001351%20-%20Fraud%20in%20foreign%20labor%20contracting.md) | Fraud in foreign labor contracting. |
+| [1352\.](%C2%A7%2001352%20-%20Demands%20by%20foreign%20officials%20for%20bribes.md) | Demands by foreign officials for bribes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–78, §2(b)(2), July 30, 2024, 138 Stat. 1514, added item 1352.
 
 <b>2009</b>—Pub. L. 111–21, §2(e)(2), May 20, 2009, 123 Stat. 1618, inserted "and commodities" after "Securities" in item 1348.
 
@@ -52,3 +55,4 @@
 - [&sect; 01349 - Attempt and conspiracy](%C2%A7%2001349%20-%20Attempt%20and%20conspiracy.md)
 - [&sect; 01350 - Failure of corporate officers to certify financial reports](%C2%A7%2001350%20-%20Failure%20of%20corporate%20officers%20to%20certify%20financial%20reports.md)
 - [&sect; 01351 - Fraud in foreign labor contracting](%C2%A7%2001351%20-%20Fraud%20in%20foreign%20labor%20contracting.md)
+- [&sect; 01352 - Demands by foreign officials for bribes](%C2%A7%2001352%20-%20Demands%20by%20foreign%20officials%20for%20bribes.md)

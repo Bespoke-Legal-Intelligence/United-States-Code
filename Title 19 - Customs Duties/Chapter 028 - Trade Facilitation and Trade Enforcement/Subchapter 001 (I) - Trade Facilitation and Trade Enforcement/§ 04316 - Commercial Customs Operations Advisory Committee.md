@@ -52,7 +52,7 @@ The Advisory Committee established under subsection (a) shall—
 
 #### (d) Meetings
 
-Notwithstanding section 1009(f) of title 5, the Advisory Committee shall meet at the call of the Secretary of the Treasury and the Secretary of Homeland Security, or at the call of not less than 2/3 of the membership of the Advisory Committee. The Advisory Committee shall meet at least 4 times each calendar year.
+Notwithstanding section 1009(f) of title 5, the Advisory Committee shall meet at the call ofthe Secretary of the Treasury and the Secretary of Homeland Security, or at the call of not less than 2/3 of the membership of the Advisory Committee. The Advisory Committee shall meet at least 4 times each calendar year.
 
 #### (e) Annual report
 

@@ -56,7 +56,7 @@ For purposes of subsection (b)(3), an eligible entity shall establish a certifie
 
 #### (e) Use of funds
 
-Amounts deposited in a Loan Fund, including loan repayments and interest earned on suchamounts, shall be used only for awarding loans or loan guarantees, making reimbursements described in subsection (g)(4)(A), or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in the Loan Fund established under subsection (c). Loans under this section may be used by a health care provider to—
+Amounts deposited in a Loan Fund, including loan repayments and interest earned on such amounts, shall be used only for awarding loans or loan guarantees, making reimbursements described in subsection (g)(4)(A), or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in the Loan Fund established under subsection (c). Loans under this section may be used by a health care provider to—
 
 &emsp;(1) facilitate the purchase of certified EHR technology;
 
@@ -134,7 +134,7 @@ The Secretary may not make an award under this section prior to January 1, 2010.
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638,Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 110–314, §201(c), redesignated subsec. (c) as (b).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–608 added pars. (1) and (2) and struck out former pars. (1) to (9) which specified maximum appropriations authorized for fiscal year ending June 30, 1976, to fiscal year ending Sept. 30, 1983.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 added pars. (8) and (9) and provision following par. (9) relating to payment of accumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 added pars. (8) and (9) and provision following par. (9) relating to payment ofaccumulated or accrued leave, severance pay, and any other expenses related to a reduction in force in the Commission.
 
 <b>1978</b>—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
 

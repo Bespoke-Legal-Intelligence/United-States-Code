@@ -56,7 +56,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 &emsp;(E) gives rise to a significant risk of disclosing intelligence sources or methods; or
 
-&emsp;(F) presents a reasonably foreseeable risk of serious damage to the diplomatic relations ofthe United States if such activity were disclosed without authorization.
+&emsp;(F) presents a reasonably foreseeable risk of serious damage to the diplomatic relations of the United States if such activity were disclosed without authorization.
 
 #### (e) "Covert action" defined
 
@@ -140,5 +140,5 @@ Subsec. (d). Pub. L. 107–306, §353(b)(3)(C), substituted "congressional intel
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment;Transition Provisions note under section 3001 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

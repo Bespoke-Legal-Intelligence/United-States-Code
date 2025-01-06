@@ -32,7 +32,7 @@ In any action brought under the antitrust laws arising out of any acquisition, m
 
 #### (d) Treatment of merger transactions consummated prior or subsequent to May 9, 1956, and not in litigation prior to July 1, 1966
 
-Any acquisition, merger, or consolidation of the kind described in section 1842(a) of this titlewhich was consummated at any time prior or subsequent to May 9, 1956, and as to which no litigation was initiated by the Attorney General prior to July 1, 1966, shall be conclusively presumed not to have been in violation of any antitrust laws other than section 2 of title 15.
+Any acquisition, merger, or consolidation of the kind described in section 1842(a) of this title which was consummated at any time prior or subsequent to May 9, 1956, and as to which no litigation was initiated by the Attorney General prior to July 1, 1966, shall be conclusively presumed not to have been in violation of any antitrust laws other than section 2 of title 15.
 
 #### (e) Antitrust litigation; substantive law applicable to proceedings pending on or after July 1, 1966, with respect to merger transactions
 
@@ -42,7 +42,7 @@ Any court having pending before it on or after July 1, 1966, any litigation init
 
 For the purposes of this section, the term "antitrust laws" means the Act of July 2, 1890 (the Sherman Antitrust Act), the Act of October 15, 1914 (the Clayton Act), and any other Acts in pari materia.
 
-(May 9, 1956, ch. 240, §11, 70 Stat. 146; Pub. L. 89–485, §11, July 1, 1966, 80 Stat. 240; Pub. L. 91–607, title I, §104, Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–188, title III, §303, Nov. 16, 1977, 91 Stat. 1390; Pub. L. 100–86, title V, §502(h)(3), Aug. 10, 1987, 101 Stat. 628; Pub. L. 103–325, title III, §321(a), Sept. 23, 1994, 108 Stat. 2226; Pub. L. 106–102, title I, §131, Nov. 12, 1999, 113 Stat. 1382.)
+(May 9, 1956, ch. 240, §11, 70 Stat. 146; Pub. L. 89–485, §11, July 1, 1966, 80 Stat. 240; Pub. L.91–607, title I, §104, Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–188, title III, §303, Nov. 16, 1977, 91 Stat. 1390; Pub. L. 100–86, title V, §502(h)(3), Aug. 10, 1987, 101 Stat. 628; Pub. L. 103–325, title III, §321(a), Sept. 23, 1994, 108 Stat. 2226; Pub. L. 106–102, title I, §131, Nov. 12, 1999, 113 Stat. 1382.)
 
 #### <b>Editorial Notes</b>
 

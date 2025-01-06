@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in o
 
 #### Effective Date of 1980 Amendments
 
-Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: "The amendments made by this section\[amending this section\] shall take effect on February 1, 1981."
+Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: "The amendments made by this section \[amending this section\] shall take effect on February 1, 1981."
 
 Amendment by Pub. L. 96–417 effective, except as otherwise provided, Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 

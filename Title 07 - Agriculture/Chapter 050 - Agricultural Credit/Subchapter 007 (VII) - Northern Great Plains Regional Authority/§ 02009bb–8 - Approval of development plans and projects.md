@@ -24,7 +24,7 @@ An application for a grant or other assistance for a project shall be approved o
 
 On certification by a State member of the Authority of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Authority under section 2009bb–1(c) of this title shall be required for approval of the application.
 
-(Pub. L. 87–128, title III, §383J, formerly §383I, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 386; renumbered §383J and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (2)(E), May 22, 2008, 122 Stat. 1178, 1179, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (2)(E), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, §383J, formerly §383I, as added Pub. L. 107–171, title VI, §6028, May 13,2002, 116 Stat. 386; renumbered §383J and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (2)(E), May 22, 2008, 122 Stat. 1178, 1179, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (2)(E), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 #### <b>Editorial Notes</b>
 

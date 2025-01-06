@@ -160,7 +160,7 @@ Pub. L. 100–180, div. A, title III, §318(d), Dec. 4, 1987, 101 Stat. 1077, re
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pilot Program on Car Sharing on Remote or Isolated Military Installations
 
@@ -168,7 +168,7 @@ Pub. L. 117–263, div. A, title V, §596, Dec. 23, 2022, 136 Stat. 2614, provid
 
 "(a)
 
-Determination.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], theSecretary of Defense shall determine whether it is feasible and advisable to carry out a pilot program to allow car sharing on more than two remote or isolated military installations.
+Determination.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall determine whether it is feasible and advisable to carry out a pilot program to allow car sharing on more than two remote or isolated military installations.
 
 "(b)
 

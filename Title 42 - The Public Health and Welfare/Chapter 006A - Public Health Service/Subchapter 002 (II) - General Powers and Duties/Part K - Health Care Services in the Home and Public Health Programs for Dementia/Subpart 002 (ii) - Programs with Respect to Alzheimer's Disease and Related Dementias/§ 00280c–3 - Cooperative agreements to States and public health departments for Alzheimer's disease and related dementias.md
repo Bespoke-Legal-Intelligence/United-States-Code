@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and the heads of other agencies, as appropriate, shall award cooperative agreementsto health departments of States, political subdivisions of States, and Indian tribes and tribal organizations, to address Alzheimer's disease and related dementias, including by reducing cognitive decline, helping meet the needs of caregivers, and addressing unique aspects of Alzheimer's disease and related dementias to support the development and implementation of evidence-based interventions with respect to—
+The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and the heads of other agencies, as appropriate, shall award cooperative agreements to health departments of States, political subdivisions of States, and Indian tribes and tribal organizations, to address Alzheimer's disease and related dementias, including by reducing cognitive decline, helping meet the needs of caregivers, and addressing unique aspects of Alzheimer's disease and related dementias to support the development and implementation of evidence-based interventions with respect to—
 
 &emsp;(1) educating and informing the public, based on evidence-based public health research and data, about Alzheimer's disease and related dementias;
 
@@ -50,7 +50,7 @@ The Secretary shall ensure that activities under any cooperative agreement award
 
 #### (g) Relationship to items and services under other programs
 
-A State may not make payments from a cooperative agreement under subsection (a) for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+A State may not make payments from a cooperative agreement under subsection (a) for any item or service to the extent that payment hasbeen made, or can reasonably be expected to be made, with respect to such item or service—
 
 &emsp;(1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -66,7 +66,7 @@ A prior section 398 of act July 1, 1944, ch. 373, title III, formerly §399a, as
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–406, §3(1), substituted "Cooperative agreements to States and public health departmentsfor Alzheimer's disease and related dementias" for "Establishment of program" in section catchline.
+<b>2018</b>—Pub. L. 115–406, §3(1), substituted "Cooperative agreements to States and public health departments for Alzheimer's disease and related dementias" for "Establishment of program" in section catchline.
 
 Subsec. (a). Pub. L. 115–406, §3(2), added subsec. (a) and struck out former subsec. (a) which provided that the Secretary would make grants to States for planning, establishing, and operating programs to provide care to Alzheimer's patients.
 

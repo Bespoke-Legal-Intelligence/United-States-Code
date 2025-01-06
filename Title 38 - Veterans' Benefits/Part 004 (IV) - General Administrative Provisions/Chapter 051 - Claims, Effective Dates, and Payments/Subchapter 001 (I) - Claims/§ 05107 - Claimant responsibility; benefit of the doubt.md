@@ -52,7 +52,7 @@ In General.—Except as specifically provided otherwise, the provisions of secti
 
 "(b)
 
-Rule for Claims the Denial of Which Became Final After the Court of Appeals for Veterans Claims Decision in the Morton Case.—(1) In the case of a claim for benefits denied or dismissed as described in paragraph (2), the Secretary of Veterans Affairs shall, upon the request of the claimant or on the Secretary's own motion, order the claim readjudicated under chapter 51 of such title, as amended by this Act, as if the denial or dismissal had not been made.
+Rule for Claims the Denial of Which Became Final After the Court of Appeals for Veterans Claims Decision in the Morton Case.—(1) In the case of a claim for benefits denied or dismissed as describedin paragraph (2), the Secretary of Veterans Affairs shall, upon the request of the claimant or on the Secretary's own motion, order the claim readjudicated under chapter 51 of such title, as amended by this Act, as if the denial or dismissal had not been made.
 
 "(2) A denial or dismissal described in this paragraph is a denial or dismissal of a claim for a benefit under the laws administered by the Secretary of Veterans Affairs that—
 

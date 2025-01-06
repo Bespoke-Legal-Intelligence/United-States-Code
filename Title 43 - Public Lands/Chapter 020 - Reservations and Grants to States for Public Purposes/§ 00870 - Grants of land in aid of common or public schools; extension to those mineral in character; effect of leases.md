@@ -44,7 +44,7 @@ Subsec. (c). Act May 2, 1932, inserted "reservation" before "application".
 
 #### Effective Date of 1932 Amendment
 
-Act May 2, 1932, ch. 151, §2, 47 Stat. 141, provided that: "This amendatory Act \[amending this section\] shall take effect as of January 25, 1927; and in any case in which a State has selected lieu lands since such date under the Act approved February 28, 1891 (26 Stat. 796) \[sections 851 and 852 of this title\], and still retains title thereto, such State may, within ninety days after the date of the enactment of this Act \[May 2, 1932\], relinquish to the United States all right, title, and interest in such lands and shall thereupon be entitled to all the benefits of the Act of January 25, 1927 \[sections 870 and 871 of this title\], as amended by this Act."
+Act May 2, 1932, ch. 151, §2, 47 Stat. 141, provided that: "This amendatory Act \[amending this section\] shall take effect as of January 25, 1927; and in any case in which a State has selected lieu lands since such date under the Act approved February 28, 1891 (26 Stat. 796) \[sections 851 and 852 of this title\], and still retains title thereto, such State may, within ninety days after thedate of the enactment of this Act \[May 2, 1932\], relinquish to the United States all right, title, and interest in such lands and shall thereupon be entitled to all the benefits of the Act of January 25, 1927 \[sections 870 and 871 of this title\], as amended by this Act."
 
 #### <b>Executive Documents</b>
 

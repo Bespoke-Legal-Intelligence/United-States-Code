@@ -64,7 +64,7 @@ In General.—The Secretary of Agriculture shall take such action as may be nece
 
 "(b)
 
-Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
+Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of thebrown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
 
 "(c)
 

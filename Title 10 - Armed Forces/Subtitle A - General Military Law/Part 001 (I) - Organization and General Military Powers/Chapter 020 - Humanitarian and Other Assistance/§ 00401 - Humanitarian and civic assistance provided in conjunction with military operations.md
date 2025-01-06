@@ -6,7 +6,7 @@
 
 &emsp;(B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
-(2) Humanitarian and civic assistance activities carried out under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States. Such activities shall serve the basic economic and social needs of the people of the country concerned.
+(2) Humanitarian and civic assistance activities carried out under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States. Such activities shall serve the basic economicand social needs of the people of the country concerned.
 
 (3) Humanitarian and civic assistance may not be provided under this section (directly or indirectly) to any individual, group, or organization engaged in military or paramilitary activity.
 
@@ -178,7 +178,7 @@ Notifications Regarding Humanitarian Relief.—Any notification provided to the 
 
 "(d)
 
-Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on theactivities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
+Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on the activities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
 
 "(2) The report shall be submitted at the same time that the President submits the budget for fiscal year 1995 to Congress pursuant to section 1105 of title 31, United States Code.
 

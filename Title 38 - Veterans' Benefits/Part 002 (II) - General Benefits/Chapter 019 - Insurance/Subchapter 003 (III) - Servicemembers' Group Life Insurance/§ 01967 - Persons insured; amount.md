@@ -28,7 +28,7 @@
 
 &emsp;(iii) In the case of a member's child, $10,000.
 
-(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect toinsure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse, be evenly divisible by $10,000.
+(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse, be evenly divisible by $10,000.
 
 (C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
 
@@ -70,7 +70,7 @@
 
 (c) If a person eligible for insurance under this subchapter is not so insured, or is insured for less than the maximum amount provided for the person under subparagraph (A) of subsection (a)(3), by reason of an election made by a member under subparagraph (B) of that subsection, the person may thereafter be insured under this subchapter in the maximum amount or any lesser amount elected as provided in such subparagraph (B) upon written application by the member, proof of good health of each person (other than a child) to be so insured, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans' Group Life Insurance who again becomes eligible for Servicemembers' Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans' Group Life Insurance in effect shall upon termination of coverage under Veterans' Group Life Insurance be automatically insured under Servicemembers' Group Life Insurance, if otherwise eligible therefor.
 
-(d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less thanthe maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
+(d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
 
 &emsp;(1) the purpose and role of life insurance in financial planning;
 
@@ -148,7 +148,7 @@ Subsec. (e). Pub. L. 109–13, §1012(c)(1), which directed addition of subsec. 
 
 "(e)(1) A member covered by this subsection is any member as follows:
 
-&emsp;"(A) Any member who dies as a result of one or more wounds, injuries, or illnesses incurred while serving in an operation or area that the Secretary designates, in writing, as a combat operation or a zone of combat, respectively, for purposes of this subsection.
+&emsp;"(A) Any member who dies as a result of one or more wounds, injuries, or illnesses incurred while serving in an operation or area that the Secretary designates, in writing, as a combat operation or azone of combat, respectively, for purposes of this subsection.
 
 &emsp;"(B) Any member who formerly served in an operation or area so designated and whose death is determined (under regulations prescribed by the Secretary of Defense) to be the direct result of injury or illness incurred or aggravated while so serving.
 
@@ -276,7 +276,7 @@ Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and
 
 #### Effective Date of 2022 Amendment
 
-Pub. L. 117–209, §2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect on the later of—
+Pub. L. 117–209, §2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the later of—
 
 &emsp;"(1) the date that is 60 days after the date of the enactment of this Act \[Oct. 17, 2022\]; or
 
@@ -300,7 +300,7 @@ Pub. L. 109–80, §4, Sept. 30, 2005, 119 Stat. 2046, provided that the amendme
 
 Pub. L. 109–80, §5(b), Sept. 30, 2005, 119 Stat. 2047, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of September 1, 2005."
 
-Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
+Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\], through the earlier of: (1) the date specified in section 106(3) ofthis joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
 
 Pub. L. 109–13, div. A, title I, §1012(h), (i), May 11, 2005, 119 Stat. 246, which provided that section 1012 of Pub. L. 109–13, amending this section and sections 1969, 1970, and 1977 of this title, would take effect on the first day of the first month that began more than 90 days after May 11, 2005, and would terminate on Sept. 30, 2005, and that provisions of such sections as in effect on the day before May 11, 2005, would be revived, was repealed by Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, effective Aug. 31, 2005.
 

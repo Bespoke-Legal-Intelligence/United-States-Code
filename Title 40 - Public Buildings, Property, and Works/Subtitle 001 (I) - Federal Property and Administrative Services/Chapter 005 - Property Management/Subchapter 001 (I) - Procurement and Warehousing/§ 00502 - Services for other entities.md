@@ -70,7 +70,7 @@ In general.—The Administrator may provide for the use by State or local govern
 
 &emsp;(2)
 
-Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods and services qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
+Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods andservices qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
 
 &emsp;(3)
 
@@ -170,9 +170,9 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 #### Procedures
 
-Pub. L. 109–364, div. A, title VIII, §833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: "Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a))."
+Pub. L. 109–364, div. A, title VIII, §833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: "Not later than 30 daysafter the date of the enactment of this Act \[Oct. 17, 2006\], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a))."
 
 #### Public Land Management Agency Foundations
 
-Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: "Employees of the foundations establishedby Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares."
+Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: "Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares."
 

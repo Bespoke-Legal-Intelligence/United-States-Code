@@ -14,7 +14,7 @@ To set priorities and guide strategic decisions regarding investments in advance
 
 &emsp;(1) describes the advanced computing resources and capabilities that would fully meet anticipated project needs, including through investments in the Mid-Scale Research Infrastructure program and the Major Research Equipment and Facilities Construction account;
 
-&emsp;(2) draws on community input, information contained in research proposals, allocation requests, insights from Foundation-fundedcyber-infrastructure operators, and Foundation-wide information gathering regarding community needs;
+&emsp;(2) draws on community input, information contained in research proposals, allocation requests, insights from Foundation-funded cyber-infrastructure operators, and Foundation-wide information gathering regarding community needs;
 
 &emsp;(3) considers computational needs of planned major facilities;
 

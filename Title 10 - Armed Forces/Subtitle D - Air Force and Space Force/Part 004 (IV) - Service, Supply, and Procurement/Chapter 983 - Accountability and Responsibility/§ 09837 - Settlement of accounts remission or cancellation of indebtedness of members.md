@@ -134,7 +134,7 @@ Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, pro
 
 #### Termination Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VI, §683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination ofamendments by Pub. L. 109–163, §683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
+Pub. L. 109–163, div. A, title VI, §683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination of amendments by Pub. L. 109–163, §683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, §673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
 
 #### Effective Date of 1980 Amendment
 

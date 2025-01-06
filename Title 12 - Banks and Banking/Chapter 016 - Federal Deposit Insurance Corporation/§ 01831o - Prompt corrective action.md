@@ -228,7 +228,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) an amount equal to 5 percent of the institution's total assets at the time the institution became undercapitalized; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount which is necessary (or would have been necessary) to bring theinstitution into compliance with all capital standards applicable with respect to such institution as of the time the institution fails to comply with a plan under this subsection.
+&emsp;&emsp;&emsp;&emsp;(II) the amount which is necessary (or would have been necessary) to bring the institution into compliance with all capital standards applicable with respect to such institution as of the time the institution fails to comply with a plan under this subsection.
 
 #### (ii) Certain affiliates not affected
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;If the appropriate Federal banking agency determines (after notice and an opportunityfor hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title, deems the institution to be engaging in an unsafe or unsound practice, the agency may—
+&emsp;If the appropriate Federal banking agency determines (after notice and an opportunity for hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title, deems the institution to be engaging in an unsafe or unsound practice, the agency may—
 
 &emsp;&emsp;(A) if the institution is well capitalized, reclassify the institution as adequately capitalized;
 
@@ -490,7 +490,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;(1) to an insured depository institution for which the Corporation or the Resolution Trust Corporation is conservator; or
 
-&emsp;(2) to a bridge depository institution, none of the voting securities of which are owned by a person or agency other than the Corporation or the Resolution Trust Corporation.
+&emsp;(2) to a bridge depository institution, none of the voting securities of which are owned by aperson or agency other than the Corporation or the Resolution Trust Corporation.
 
 #### (k) Reviews required when Deposit Insurance Fund incurs losses
 
@@ -550,7 +550,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;&emsp;(ii) the date on which it becomes apparent that the assistance will not be fully repaid during the 24-month period described in paragraph (2)(A)(i).
 
-&emsp;&emsp;(B) If the institution is described in paragraph (2)(A)(ii), during the 6-month period beginning on the date on which it becomesapparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
+&emsp;&emsp;(B) If the institution is described in paragraph (2)(A)(ii), during the 6-month period beginning on the date on which it becomes apparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
 
 #### (4) Public disclosure required
 
@@ -572,7 +572,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;For the 6-month period ending on March 31, 2010, and each 6-month period thereafter, the Inspector General of each Federal banking agency shall—
 
-&emsp;&emsp;&emsp;(i) identify losses that the Inspector General estimates have been incurred by the Deposit Insurance Fund during that 6-month period, with respect to the insured depository institutions supervised by the Federal banking agency;
+&emsp;&emsp;&emsp;(i) identify losses that the Inspector General estimates have been incurred by the Deposit Insurance Fund during that 6-month period, with respect to the insureddepository institutions supervised by the Federal banking agency;
 
 &emsp;&emsp;&emsp;(ii) for each loss incurred by the Deposit Insurance Fund that is not a material loss, determine—
 
@@ -668,7 +668,7 @@ Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994, to any ins
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat.2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
 
 #### <b>Editorial Notes</b>
 
@@ -758,7 +758,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
-Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006,see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (3) Multi-year grants
 
-&emsp;Upon application of a qualified low-income taxpayer clinic, the Secretary is authorized toaward a multi-year grant not to exceed 3 years.
+&emsp;Upon application of a qualified low-income taxpayer clinic, the Secretary is authorized to award a multi-year grant not to exceed 3 years.
 
 #### (4) Criteria for awards
 
@@ -100,5 +100,5 @@ Pub. L. 116–25, title I, §1402(b), July 1, 2019, 133 Stat. 997, provided that
 
 #### Effective Date
 
-Pub. L. 105–206, title III, §3601(c), July 22, 1998, 112 Stat. 776, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3601(c), July 22, 1998, 112 Stat. 776, provided that: "The amendments made bythis section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 

@@ -48,7 +48,7 @@ Guidance.—Notwithstanding section 501 of such title, the Secretary of Veterans
 
 Updates.—(A) Not later than 120 days after the date of the enactment of this Act \[June 25, 2019\], the Secretary shall submit a report to the Committees on Veterans' Affairs of the House of Representatives and the Senate regarding the plans of the Secretary to respond to inquiries from veterans regarding claims for disability compensation under section 1116B of title 38, United States Code, as added by subsection (a) of this section.
 
-"(B) On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1116B, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate updates on the status of such regulations.
+"(B) On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1116B, the Secretary shall submit tothe Committees on Veterans' Affairs of the House of Representatives and the Senate updates on the status of such regulations.
 
 "(3)
 

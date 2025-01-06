@@ -84,7 +84,7 @@ Pub. L. 113–79, title XII, §12101(a), (b), Feb. 7, 2014, 128 Stat. 978, provi
 
 "(a)
 
-Alternative Certification Process.—The Secretary of Agriculture shall amend the rule made under paragraph (2) of section 11010(a) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8304(a) \[sic\]) \[7 U.S.C. 8304 note, set out below\] to implement the voluntary trichinae certification program established under paragraph (1) of such section, to include a requirement to establish an alternative trichinae certification process based on surveillance or other methods consistent with international standards for categorizing compartments as having negligible risk for trichinae.
+Alternative Certification Process.—The Secretary of Agriculture shall amend the rule made under paragraph (2) of section 11010(a) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8304(a) \[sic\]) \[7 U.S.C. 8304 note, set out below\] to implement the voluntary trichinae certification program established under paragraph (1) of such section, to include a requirement to establish an alternative trichinae certification process based on surveillance or other methodsconsistent with international standards for categorizing compartments as having negligible risk for trichinae.
 
 "(b)
 

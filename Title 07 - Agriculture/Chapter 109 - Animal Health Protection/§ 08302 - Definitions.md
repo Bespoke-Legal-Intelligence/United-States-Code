@@ -110,7 +110,7 @@ In this chapter:
 
 #### (18) Veterinary countermeasure
 
-&emsp;The term "veterinary countermeasure" means any biological product (including an animal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.
+&emsp;The term "veterinary countermeasure" means any biological product (including ananimal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.
 
 (Pub. L. 107–171, title X, §10403, May 13, 2002, 116 Stat. 494; Pub. L. 115–334, title XII, §12101(a), Dec. 20, 2018, 132 Stat. 4937; Pub. L. 117–328, div. HH, title V, §603, Dec. 29, 2022, 136 Stat. 5996.)
 

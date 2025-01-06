@@ -106,7 +106,7 @@ Subsec. (b)(1). Pub. L. 97–321, §801(b)(1)(B), substituted "energy systems us
 
 Subsec. (b)(2). Pub. L. 97–321, §801(b)(1)(B)(i), substituted "energy systems using solar energy or other renewable forms of energy" for "solar energy systems".
 
-Subsec. (c). Pub. L. 97–321, §801(b)(1)(C)–(E), substituted: in par. (1) "an energy system using solar energy or other renewable forms of energy" for "a solar energy system" before "for a facility" and in items (A) and (B) "such a system" for "a solar energy system"; in par. (2)(A) "an energy system using solar energy orother renewable forms of energy" for "a solar energy system"; and in par. (3) "energy system using solar energy or other renewable forms of energy" for "solar energy system", respectively.
+Subsec. (c). Pub. L. 97–321, §801(b)(1)(C)–(E), substituted: in par. (1) "an energy system using solar energy or other renewable forms of energy" for "a solar energy system" before "for a facility" and in items (A) and (B) "such a system" for "a solar energy system"; in par. (2)(A) "an energy system using solar energy or other renewable forms of energy" for "a solar energy system"; and in par. (3) "energy system using solar energy or other renewable forms of energy" for "solar energy system", respectively.
 
 Subsec. (d). Pub. L. 97–321, §801(b)(1)(F), substituted "heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy energy system using solar energy or other renewable forms of energy" for "solar heating equipment, solar cooling equipment, or both solar heating and solar cooling equipment, or with a passive solar energy system".
 

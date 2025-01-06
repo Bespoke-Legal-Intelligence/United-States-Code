@@ -4,7 +4,7 @@
 
 (b) Where a veteran, by virtue of subsection (a), is found to be entitled to a pension under section 1521 of this title, and is entitled to compensation for a service-connected disability, the Secretary shall pay such veteran the greater benefit.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §523; Pub. L. 94–169, title I, §106(19), Dec. 23, 1975, 89 Stat. 1018; renumbered §1523 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §523; Pub. L. 94–169, title I, §106(19), Dec. 23, 1975, 89Stat. 1018; renumbered §1523 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### <b>Editorial Notes</b>
 

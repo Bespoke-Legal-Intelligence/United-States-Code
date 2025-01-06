@@ -34,7 +34,7 @@ Definitions.—Notwithstanding paragraphs (1) and (2) of section 4351(a) of this
 
 &emsp;(4) the term "life cycle cost", with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(Added Pub. L. 110–417, \[div. A\], title VIII, §811(a)(1), Oct. 14, 2008, 122 Stat. 4520, §2430a; amended Pub. L. 111–383, div. A, title VIII, §814(a), Jan. 7, 2011, 124 Stat. 4266; Pub. L. 112–81, div. A, title IX, §912, Dec. 31, 2011, 125 Stat. 1536; Pub. L. 114–328, div. A, title VIII, §850, Dec. 23, 2016, 130 Stat. 2295; renumbered §4203 and amended Pub. L. 116–283, div. A, title XVIII, §1846(g), Jan. 1, 2021, 134 Stat. 4251; Pub. L. 117–81, div. A, title XVII, §1701(o)(6)(B)(ii), Dec. 27, 2021, 135 Stat. 2147.)
+(Added Pub. L. 110–417, \[div. A\], title VIII, §811(a)(1), Oct. 14, 2008, 122 Stat. 4520, §2430a; amended Pub. L. 111–383, div. A, title VIII, §814(a), Jan. 7, 2011, 124 Stat. 4266; Pub. L. 112–81, div. A, title IX, §912, Dec. 31, 2011, 125 Stat. 1536; Pub. L. 114–328, div. A, title VIII, §850, Dec. 23, 2016, 130 Stat. 2295; renumbered §4203 and amended Pub. L. 116–283, div. A, title XVIII, §1846(g),Jan. 1, 2021, 134 Stat. 4251; Pub. L. 117–81, div. A, title XVII, §1701(o)(6)(B)(ii), Dec. 27, 2021, 135 Stat. 2147.)
 
 #### <b>Editorial Notes</b>
 

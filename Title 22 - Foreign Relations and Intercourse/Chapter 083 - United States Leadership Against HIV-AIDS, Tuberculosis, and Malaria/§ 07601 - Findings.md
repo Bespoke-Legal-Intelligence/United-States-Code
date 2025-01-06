@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) According to the Joint United Nations Programme on HIV/AIDS (UNAIDS), more than 65,000,000 individuals worldwide have been infected with HIV since the epidemic began, more than 25,000,000 of these individuals have lost their lives to the disease, and more than 14,000,000 children have been orphaned by the disease. HIV/AIDS is the fourth-highest cause of death in the world.
 
-&emsp;(3)(A) At the end of 2002, an estimated 42,000,000 individuals were infected with HIV or living with AIDS, of which more than 75 percent live in Africa or the Caribbean. Of these individuals, more than 3,200,000 were children under the age of 15 and more than 19,200,000 were women.
+&emsp;(3)(A) At the end of 2002, an estimated 42,000,000 individuals were infected with HIV or living with AIDS, of which more than 75 percent live in Africa or the Caribbean. Of theseindividuals, more than 3,200,000 were children under the age of 15 and more than 19,200,000 were women.
 
 &emsp;(B) Women are four times more vulnerable to infection than are men and are becoming infected at increasingly high rates, in part because many societies do not provide poor women and young girls with the social, legal, and cultural protections against high risk activities that expose them to HIV/AIDS.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;(18) Nongovernmental organizations, including faith-based organizations, with experience in health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
 
-&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around theworld. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
+&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
 
 &emsp;(20)(A) Uganda has experienced the most significant decline in HIV rates of any country in Africa, including a decrease among pregnant women from 20.6 percent in 1991 to 7.9 percent in 2000.
 

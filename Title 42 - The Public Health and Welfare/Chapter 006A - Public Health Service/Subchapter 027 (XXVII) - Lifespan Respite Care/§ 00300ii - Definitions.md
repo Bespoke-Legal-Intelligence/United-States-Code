@@ -44,7 +44,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) an ability to work with other State and community-based agencies;
 
-&emsp;&emsp;&emsp;(ii) an understanding of respite care and family caregiver issues across all agegroups, disabilities, and chronic conditions; and
+&emsp;&emsp;&emsp;(ii) an understanding of respite care and family caregiver issues across all age groups, disabilities, and chronic conditions; and
 
 &emsp;&emsp;&emsp;(iii) the capacity to ensure meaningful involvement of family members, family caregivers, and care recipients.
 

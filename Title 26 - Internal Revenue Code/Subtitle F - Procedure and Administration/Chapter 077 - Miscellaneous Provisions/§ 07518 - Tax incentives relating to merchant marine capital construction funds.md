@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (4) Adjustment to basis of vessels, etc., where withdrawals pay principal on debt
 
-&emsp;If any portion of a qualified withdrawal to pay the principal on any indebtedness is made out of the ordinary income account or the capital gain account, then an amount equal to theaggregate reduction which would be required by paragraphs (2) and (3) if this were a qualified withdrawal for a purpose described in such paragraphs shall be applied, in the order provided in joint regulations, to reduce the basis of vessels, barges, and containers owned by the person maintaining the fund. Any amount of a withdrawal remaining after the application of the preceding sentence shall be treated as a nonqualified withdrawal.
+&emsp;If any portion of a qualified withdrawal to pay the principal on any indebtedness is made out of the ordinary income account or the capital gain account, then an amount equal to the aggregate reduction which would be required by paragraphs (2) and (3) if this were a qualified withdrawal for a purpose described in such paragraphs shall be applied, in the order provided in joint regulations, to reduce the basis of vessels, barges, and containers owned by the person maintaining the fund. Any amount of a withdrawal remaining after the application of the preceding sentence shall be treated as a nonqualified withdrawal.
 
 #### (5) Ordinary income recapture of basis reduction
 

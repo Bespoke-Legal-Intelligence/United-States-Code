@@ -40,5 +40,5 @@ Pub. L. 100–204, title I, §179(b), Dec. 22, 1987, 101 Stat. 1363, provided th
 
 #### Study of Foreign Service Examination
 
-Pub. L. 101–246, title I, §153(g), Feb. 16, 1990, 104 Stat. 44, required the Secretary of State to enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination related to cultural, racial, ethnic, and sexual bias issues, and no later than 18 months after Feb. 16, 1990, submit a report to Congress containing the findings of the review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review.
+Pub. L. 101–246, title I, §153(g), Feb. 16, 1990, 104 Stat. 44, required the Secretary of State to enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination related to cultural, racial, ethnic, and sexual biasissues, and no later than 18 months after Feb. 16, 1990, submit a report to Congress containing the findings of the review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review.
 

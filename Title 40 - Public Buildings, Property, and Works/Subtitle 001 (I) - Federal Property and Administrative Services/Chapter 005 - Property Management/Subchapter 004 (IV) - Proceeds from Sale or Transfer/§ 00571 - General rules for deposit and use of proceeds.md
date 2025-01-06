@@ -18,13 +18,13 @@ Proceeds.—The proceeds referred to in paragraph (1) are proceeds under this ch
 
 (b)
 
-Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other publicproperty may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
+Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, §20(a), Dec. 16, 2016, 130 Stat. 1477; Pub. L. 114–318, §7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, §20(a), Dec. 16, 2016, 130 Stat. 1477;Pub. L. 114–318, §7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
 
 #### Amendment of Section
 
-<i>Pub. L. 114–287, §20, Dec. 16, 2016, 130 Stat. 1477, which Act is set out as a note under section 1303 of this title, provided that, effective upon the termination of the Public Buildings Reform Board pursuant to section 10 of Pub. L. 114–287 and not applicable to proceeds from transactions conducted under section 14 of Pub. L. 114–287, this section is amended by striking subsections (a) and (b) and inserting the following:</i>
+<i>Pub. L. 114–287, §20, Dec. 16, 2016, 130 Stat. 1477, as amended by Pub. L. 118–272, div. B, title III, §2301(k), Jan. 4, 2025, 138 Stat. 3217, which Act is set out as a note under section 1303 of this title, provided that, effective on the date on which the Public Buildings Reform Board transmits the second report under section 12(h)(2)(B) of Pub. L. 114–287 and applicable to proceeds from transactions contained in that report and conducted after the date on which the Board terminates under section 10 of Pub. L. 114–287, this section is amended by striking subsections (a) and (b) and inserting the following:</i>
 
 <i>(a)</i>
 
@@ -102,5 +102,5 @@ Pub. L. 114–318, §7(c)(2), Dec. 16, 2016, 130 Stat. 1617, provided that: "The
 
 Pub. L. 114–318, §7(e), Dec. 16, 2016, 130 Stat. 1617, provided that: "Except as provided in subsection (c)(2) \[set out above\], this section \[amending this section and provisions set out as a note under section 1303 of this title\] and the amendments made by this section shall take effect immediately after the enactment of the applicable Act \[Pub. L. 114–287\]."
 
-Amendment by Pub. L. 114–287 effective upon the termination of the Public Buildings Reform Board pursuant to section 10 of Pub. L. 114–287 and not applicable to proceeds from transactions conducted under section 14 of Pub. L. 114–287, see section 20(b) of Pub. L. 114–287, set out in a note under section 1303 of this title.
+Amendment by Pub. L. 114–287 effective on the date on which the Public Buildings Reform Board transmits the second report under section 12(h)(2)(B) of Pub. L. 114–287 and applicable to proceeds from transactions contained in that report and conducted after the date on which the Board terminates under section 10 of Pub. L. 114–287, see section 20(b) of Pub. L. 114–287, set out in a note under section 1303 of this title.
 

@@ -14,7 +14,7 @@ The Secretary, in cooperation with the Secretary of the Interior, shall establis
 
 Subsec. (b) directed the Secretary to report to the Congress within 60 days after Jan. 3, 1975, on appropriations and staffing needed to monitor pipelines on Federal lands and the Outer Continental Shelf.
 
-Subsec. (c) directed the Secretary to review all laws and regulations relating to the construction, operation, and maintenance of pipelines on Federal lands and the Outer Continental Shelf and to report to Congress within 6 months after Jan. 3, 1975, on administrative changes needed and recommendations for new legislation.
+Subsec. (c) directed the Secretary to review all laws and regulations relating to the construction, operation, and maintenance of pipelines on Federal lands and the Outer Continental Shelf and to report to Congresswithin 6 months after Jan. 3, 1975, on administrative changes needed and recommendations for new legislation.
 
 #### Amendments
 

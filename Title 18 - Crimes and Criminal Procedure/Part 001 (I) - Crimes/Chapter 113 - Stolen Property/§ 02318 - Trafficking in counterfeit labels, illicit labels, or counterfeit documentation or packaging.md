@@ -46,7 +46,7 @@
 
 (c) The circumstances referred to in subsection (a) of this section are—
 
-&emsp;(1) the offense is committed within the special maritime and territorial jurisdiction of the United States; or within the special aircraft jurisdiction of the United States (as defined in section 46501 of title 49);
+&emsp;(1) the offense is committed within the special maritime and territorial jurisdiction ofthe United States; or within the special aircraft jurisdiction of the United States (as defined in section 46501 of title 49);
 
 &emsp;(2) the mail or a facility of interstate or foreign commerce is used or intended to be used in the commission of the offense;
 

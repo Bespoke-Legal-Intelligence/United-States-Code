@@ -10,7 +10,7 @@
 
 &emsp;(B) if a country withdraws from the Multinational Force and Observers with the result that the military personnel of less than four foreign countries remain, every possible effort must be made by the United States to find promptly a country to replace that country.
 
-(3) Members of the United States Armed Forces, and United States civilian personnel, who are assigned, detailed, or otherwise provided to the Multinational Force and Observersmay perform only those functions or responsibilities which are specified for United Nations Forces and Observers in the Treaty of Peace and in accordance with the Protocol.
+(3) Members of the United States Armed Forces, and United States civilian personnel, who are assigned, detailed, or otherwise provided to the Multinational Force and Observers may perform only those functions or responsibilities which are specified for United Nations Forces and Observers in the Treaty of Peace and in accordance with the Protocol.
 
 (4) The number of members of the United States Armed Forces who are assigned or detailed by the United States Government to the Multinational Force and Observers may not exceed one thousand two hundred at any one time.
 

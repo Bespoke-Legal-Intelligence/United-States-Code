@@ -22,7 +22,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "unutilized and underutilized plant-capacity costs" means the costs associated with operating and maintaining the facilities and equipment of an Army arsenal that the Secretary of the Army determines are required to be kept for mobilization needs, in those months in which the facilities and equipment are not used or are used only 20 percent or less of available work days.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §342(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, §4541; renumbered §7541, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §342(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64,§4541; renumbered §7541, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### <b>Editorial Notes</b>
 

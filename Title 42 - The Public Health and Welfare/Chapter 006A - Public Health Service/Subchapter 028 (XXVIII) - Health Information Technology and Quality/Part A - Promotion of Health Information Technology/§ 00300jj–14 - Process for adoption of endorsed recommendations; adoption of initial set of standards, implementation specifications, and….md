@@ -4,7 +4,7 @@
 
 #### (1) Review of endorsed standards, implementation specifications, and certification criteria
 
-&emsp;Not later than 90 days after the date of receipt of standards, implementation specifications, or certification criteria endorsed under section 300jj–11(c) of this title, the Secretary, in consultation with representatives of other relevant Federal agencies, shall jointly review such standards, implementation specifications, or certification criteria and shall determine whether or not to propose adoption of such standards, implementation specifications, or certification criteria.
+&emsp;Not later than 90 days after the date of receipt of standards, implementation specifications, or certification criteria endorsed undersection 300jj–11(c) of this title, the Secretary, in consultation with representatives of other relevant Federal agencies, shall jointly review such standards, implementation specifications, or certification criteria and shall determine whether or not to propose adoption of such standards, implementation specifications, or certification criteria.
 
 #### (2) Determination to adopt standards, implementation specifications, and certification criteria
 

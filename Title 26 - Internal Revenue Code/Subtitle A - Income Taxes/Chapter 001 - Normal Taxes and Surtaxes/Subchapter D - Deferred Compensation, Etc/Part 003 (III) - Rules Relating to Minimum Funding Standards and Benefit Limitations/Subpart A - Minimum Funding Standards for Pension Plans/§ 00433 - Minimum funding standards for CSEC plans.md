@@ -50,7 +50,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;(C) the amount of the waived funding deficiency (within the meaning of section 412(c)(3)) for the plan year, and
 
-&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
+&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over anydebit balance in the alternative minimum funding standard account.
 
 #### (4) Combining and offsetting amounts to be amortized
 
@@ -116,7 +116,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 #### (A) Funding methods available
 
-&emsp;&emsp;All funding methods available to CSEC plans under section 412 (as in effect on theday before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
+&emsp;&emsp;All funding methods available to CSEC plans under section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
 
 #### (B) Changes
 
@@ -134,7 +134,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan is a CSEC plan,
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV of such Act (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding planyear (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV of such Act (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
 
@@ -319,7 +319,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Plans to which paragraph applies
 
-&emsp;&emsp;This paragraph shall apply to a CSEC plan other than a plan described in section 412(l)(6)(A) (as in effect on the day before the enactment of the Pension Protection Act of 2006) which—
+&emsp;&emsp;This paragraph shall apply to a CSEC plan other than a plan described in section412(l)(6)(A) (as in effect on the day before the enactment of the Pension Protection Act of 2006) which—
 
 &emsp;&emsp;&emsp;(i) is required to pay installments under this subsection for a plan year, and
 
@@ -487,7 +487,7 @@ For purposes of this section—
 
 #### (ii) Special rule for disabilities occurring after 1994
 
-&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act and the regulations thereunder.
+&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals describedin such subclause who are disabled within the meaning of title II of the Social Security Act and the regulations thereunder.
 
 #### (4) Certain service disregarded
 
@@ -555,7 +555,7 @@ Notwithstanding any other provisions of this section—
 
 #### (3) Funding restoration plan
 
-&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shalltake into account contributions required under this section (without regard to this paragraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
+&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shall take into account contributions required under this section (without regard to this paragraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
 
 #### (4) Annual certification by plan actuary
 
@@ -565,7 +565,7 @@ Notwithstanding any other provisions of this section—
 
 &emsp;&emsp;(B) the amount of any contributions reasonably anticipated to be made for the preceding plan year.
 
-> &emsp;Contributions described in subparagraph (B) shall be taken into account in determining the plan's funded percentage as of the beginning of the plan year.
+> &emsp;Contributions described in subparagraph (B) shall be taken into account in determining theplan's funded percentage as of the beginning of the plan year.
 
 #### (5) Definitions
 

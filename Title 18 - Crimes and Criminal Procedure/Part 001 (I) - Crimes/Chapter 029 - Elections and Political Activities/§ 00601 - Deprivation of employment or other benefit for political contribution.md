@@ -14,7 +14,7 @@
 
 &emsp;(2) the term "election" means (A) a general, special primary, or runoff election, (B) a convention or caucus of a political party held to nominate a candidate, (C) a primary election held for the selection of delegates to a nominating convention of a political party, (D) a primary election held for the expression of a preference for the nomination of persons for election to the office of President, and (E) the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States or of any State; and
 
-&emsp;(3) the term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+&emsp;(3) the term "State" means a State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, or any territory or possession of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 721; Pub. L. 94–453, §1, Oct. 2, 1976, 90 Stat. 1516; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 

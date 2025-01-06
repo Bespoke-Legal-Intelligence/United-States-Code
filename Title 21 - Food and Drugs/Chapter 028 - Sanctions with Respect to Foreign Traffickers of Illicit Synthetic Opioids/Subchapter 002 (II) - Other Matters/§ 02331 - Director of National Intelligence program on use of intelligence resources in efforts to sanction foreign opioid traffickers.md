@@ -24,7 +24,7 @@ The Director of National Intelligence shall, in coordination with the Director o
 
 #### (A) Annual reports
 
-&emsp;&emsp;Not later than 90 days after December 20, 2019, and annually thereafter, the Director of National Intelligence and the Director of theOffice of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the year ending on the date of the report. The first report under this subparagraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+&emsp;&emsp;Not later than 90 days after December 20, 2019, and annually thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the year ending on the date of the report. The first report under this subparagraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
 
 #### (B) Semiannual briefings
 
@@ -52,7 +52,7 @@ In this section, the term "intelligence community" has the meaning given that te
 
 #### References in Text
 
-Subchapter I, referred to in subsec. (a)(1), was in the original "subtitle A", meaning subtitle A (§§7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
+Subchapter I, referred to in subsec. (a)(1), was in the original "subtitle A", meaning subtitle A (§§7211–7217)of title LXXII of div. F of Pub. L. 116–92, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
 
 #### Amendments
 

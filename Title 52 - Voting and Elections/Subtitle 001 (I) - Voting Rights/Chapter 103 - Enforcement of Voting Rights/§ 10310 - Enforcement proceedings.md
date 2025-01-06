@@ -10,7 +10,7 @@ No court other than the District Court for the District of Columbia shall have j
 
 #### (c) Definitions
 
-(1) The terms "vote" or "voting" shall include all action necessary to make a vote effective in any primary, special, or general election, including, but not limited to, registration, listing pursuant to this chapter, or other action required by law prerequisite to voting, casting a ballot, and having such ballot counted properly and included in the appropriate totals of votes cast with respect to candidates for public or party office and propositions for which votes are received in an election.
+(1) The terms "vote" or "voting" shall include all action necessary to make a vote effective in any primary, special, or general election, including, but not limited to, registration, listing pursuant to this chapter, or other action required by law prerequisite to voting, casting a ballot,and having such ballot counted properly and included in the appropriate totals of votes cast with respect to candidates for public or party office and propositions for which votes are received in an election.
 
 (2) The term "political subdivision" shall mean any county or parish, except that where registration for voting is not conducted under the supervision of a county or parish, the term shall include any other subdivision of a State which conducts registration for voting.
 
@@ -18,7 +18,7 @@ No court other than the District Court for the District of Columbia shall have j
 
 #### (d) Subpenas
 
-In any action for a declaratory judgment brought pursuant to section 10303 or 10304 of thistitle, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: <i>Provided</i>, That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding court without the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
+In any action for a declaratory judgment brought pursuant to section 10303 or 10304 of this title, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: <i>Provided</i>, That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding court without the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
 
 #### (e) Attorney's fees
 

@@ -1,6 +1,6 @@
 ### §2112. Establishment
 
-(a)(1) There is established a Uniformed Services University of the Health Sciences (in this chapter referred to as the "University") withauthority to grant appropriate certificates, certifications, undergraduate degrees, and advanced degrees.
+(a)(1) There is established a Uniformed Services University of the Health Sciences (in this chapter referred to as the "University") with authority to grant appropriate certificates, certifications, undergraduate degrees, and advanced degrees.
 
 (2) The University shall be so organized as to graduate not fewer than 100 medical students annually.
 

@@ -68,7 +68,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 #### (2) Report to Congress
 
-&emsp;Not later than 24 hours after the date of appointment of the Corporation as receiver for a covered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
+&emsp;Not later than 24 hours after the date of appointment of the Corporation as receiver for acovered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
 
 &emsp;&emsp;(A) the size and financial condition of the covered financial company;
 
@@ -98,7 +98,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 &emsp;&emsp;&emsp;(ii) describing the plan of, and actions taken by, the Corporation to wind down the covered financial company;
 
-&emsp;&emsp;&emsp;(iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector whowas retained to provide services to the Corporation in connection with such receivership;
+&emsp;&emsp;&emsp;(iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector who was retained to provide services to the Corporation in connection with such receivership;
 
 &emsp;&emsp;&emsp;(iv) describing the reasons for the provision of any funding to the receivership out of the Fund;
 

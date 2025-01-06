@@ -34,7 +34,7 @@ For purposes of the provisions of chapter 11 of part I of title 18, and any othe
 
 #### (2) Other claims
 
-&emsp;A member of the Board shall have no personal liability under Federal law with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the Board, in connection with any transaction involving the provision of financial assistance by the Corporation. This paragraph shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the Board.
+&emsp;A member of the Board shall have no personal liability under Federal law with respect to any claim arising out of or resulting fromany act or omission by such person, within the scope of the service of the member on the Board, in connection with any transaction involving the provision of financial assistance by the Corporation. This paragraph shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the Board.
 
 #### (3) Effect on other law
 
@@ -94,7 +94,7 @@ All employees and officers of the Corporation shall recuse themselves from decis
 
 #### (j) Coordination with other Federal activities
 
-As part of the agenda of meetings of the Board under subsection (a), the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
+As part of the agenda of meetings of the Board under subsection (a), the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, theircommunities, and the persons and communities the participants serve.
 
 (Pub. L. 101–610, title I, §192A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (2), Sept. 21, 1993, 107 Stat. 875, 891; Pub. L. 111–13, title I, §1702, Apr. 21, 2009, 123 Stat. 1544; Pub. L. 117–286, §4(a)(275), (b)(85), Dec. 27, 2022, 136 Stat. 4336, 4352.)
 

@@ -76,7 +76,7 @@ Pub. L. 110–417, \[div. A\], title VIII, §814, Oct. 14, 2008, 122 Stat. 4528,
 
 "(a)
 
-Configuration Steering Boards.—Each Secretary of a military department shall establish one or more boards (to be known as a 'Configuration Steering Board') for the major defense acquisition programs of such department.
+Configuration Steering Boards.—Each Secretary of a military department shall establish one ormore boards (to be known as a 'Configuration Steering Board') for the major defense acquisition programs of such department.
 
 "(b)
 

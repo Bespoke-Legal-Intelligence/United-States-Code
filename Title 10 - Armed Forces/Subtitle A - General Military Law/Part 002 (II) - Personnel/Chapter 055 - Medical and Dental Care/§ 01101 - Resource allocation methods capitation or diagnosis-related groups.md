@@ -16,7 +16,7 @@ Content of Regulations.—Such regulations may establish a system of diagnosis-r
 
 &emsp;(2) A methodology for classifying specific treatments within such groups.
 
-&emsp;(3) An appropriate weighting factor for each such diagnosis-related group which reflectsthe relative resources used by a facility of a uniformed service with respect to treatments classified within that group compared to treatments classified within other groups.
+&emsp;(3) An appropriate weighting factor for each such diagnosis-related group which reflects the relative resources used by a facility of a uniformed service with respect to treatments classified within that group compared to treatments classified within other groups.
 
 &emsp;(4) An appropriate method for calculating or estimating the annual per capita costs of providing comprehensive health care services to members of the uniformed services on active duty and covered beneficiaries.
 

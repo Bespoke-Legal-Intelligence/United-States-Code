@@ -30,6 +30,26 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Requirements for the Unmanned Maritime Autonomy Architecture
+
+Pub. L. 118–159, div. A, title X, §1031, Dec. 23, 2024, 138 Stat. 2058, provided that:
+
+"Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Navy shall—
+
+&emsp;"(1) provide a forum and resources to facilitate industry participation in the creation and management of a vendor-agnostic and platform-agnostic modular open systems architecture and associated standards for maritime unmanned systems;
+
+&emsp;"(2) adopt or join a governance model for the standards described in paragraph (1) that includes Government and industry participation;
+
+&emsp;"(3) implement a frequent or continuous process for incorporating industry feedback into the standards described in paragraph (1) and conforming those standards with leading industry practices;
+
+&emsp;"(4) for each relevant Navy program or contract, tailor the standards described in paragraph (1) to the minimum standards necessary to enable desired operational capabilities for the program or contract; and
+
+&emsp;"(5) label and distribute the standards described in paragraph (1) as open, publicly releasable information, to the greatest extent possible."
+
+#### Requirement for Mature Ship Design
+
+Pub. L. 118–159, div. A, title X, §1033, Dec. 23, 2024, 138 Stat. 2060, provided that: "The Secretary of the Navy shall take such actions as are necessary for the Navy to adopt recommendations 1, 3, 4, and 6 in the report of the Government Accountability Office titled, 'Navy Shipbuilding: Increased Use of Leading Design Practices Could Improve Timeliness of Deliveries', and dated May 2, 2024 (GAO–24–105503)."
+
 #### Policy of the United States on Minimum Number of Battle Force Ships
 
 Pub. L. 115–91, div. A, title X, §1025, Dec. 12, 2017, 131 Stat. 1549, as amended by Pub. L. 118–31, div. A, title X, §1020, Dec. 22, 2023, 137 Stat. 385, provided that:
@@ -56,7 +76,7 @@ Metering Required.—The Secretary of the Navy shall meter Navy piers so that th
 
 "(b)
 
-Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 undersection 2925(a) of title 10, United States Code \[section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, §314(b)(1)(B)\], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering."
+Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under section 2925(a) of title 10, United States Code \[section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, §314(b)(1)(B)\], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering."
 
 #### Advance Procurement Funding
 
@@ -112,7 +132,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 &emsp;"(A) shall not permit the operation of the vessel other than in the foreign commerce of the United States;
 
-&emsp;"(B) may be made only with an individual or entity that is a citizen of the United States (which, in the case of a corporation, partnership, or association, shall be determined in the manner specified in section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802)) \[see 46 U.S.C. 50501\]; and
+&emsp;"(B) may be made only with an individual or entity that is a citizen of the United States (which, in the case of a corporation, partnership, or association,shall be determined in the manner specified in section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802)) \[see 46 U.S.C. 50501\]; and
 
 &emsp;"(C) shall require that the vessel be documented (and remain documented) under the laws of the United States.
 
@@ -148,7 +168,7 @@ Applicability.—Subsection (a) shall apply only with respect to appropriations 
 
 #### Repair of Vessels in Foreign Shipyards
 
-Pub. L. 99–500, §101(c) \[title IX, §9101\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9101\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118,provided that: "No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs."
+Pub. L. 99–500, §101(c) \[title IX, §9101\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9101\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, provided that: "No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs."
 
 #### Encouragement of Construction in United States Shipyards of Combatant Vessels for United States Allies
 

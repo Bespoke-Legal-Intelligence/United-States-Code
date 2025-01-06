@@ -84,7 +84,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (B) Contents of request
 
-&emsp;&emsp;To seek authority for a temporary reassignment of personnel under paragraph (1), the Governor of a State or a tribal organization shall submit to the Secretary a requestfor such reassignment flexibility and shall include in the request each of the following:
+&emsp;&emsp;To seek authority for a temporary reassignment of personnel under paragraph (1), the Governor of a State or a tribal organization shall submit to the Secretary a request for such reassignment flexibility and shall include in the request each of the following:
 
 &emsp;&emsp;&emsp;(i) An assurance that the public health emergency in the geographic area of the requesting State or Indian tribe cannot be adequately and appropriately addressed by the public health workforce otherwise available.
 
@@ -176,7 +176,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (8) Sunset
 
-&emsp;This subsection shall terminate on January 19, 2024.
+&emsp;This subsection shall terminate on March 31, 2025.
 
 #### (f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency
 
@@ -222,7 +222,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 &emsp;&emsp;(A) address a critical hiring need directly related to responding to a public health emergency declared by the Secretary under this section; or
 
-&emsp;&emsp;(B) address a severe shortage of candidates that impacts the operational capacity of the Department of Health and Human Services to respond in the event of a public health emergency declared by the Secretary under this section.
+&emsp;&emsp;(B) address a severe shortage of candidates that impacts the operational capacity of theDepartment of Health and Human Services to respond in the event of a public health emergency declared by the Secretary under this section.
 
 #### (2) Number of appointments
 
@@ -282,7 +282,7 @@ The Secretary shall, not later than 30 days after the deployment of contents of 
 
 &emsp;(3) plans to replenish such products, as appropriate, including related timeframes and any barriers or limitations to replenishment.
 
-(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788; Pub. L. 118–15, div. B, title III, §2332, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(a), Nov. 17, 2023, 137 Stat. 120.)
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788; Pub. L. 118–15, div. B, title III, §2332, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(a), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(a), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(a), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, §3103(a), Dec. 21, 2024, 138 Stat. 1763.)
 
 #### <b>Editorial Notes</b>
 
@@ -292,11 +292,17 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Prior Provisions
 
-A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, §256(a), Nov. 4, 1988, 102 Stat. 3110; Pub. L. 102–321, title I, §163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, §312(d)(2), Oct. 27, 1992, 106 Stat. 3504, authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315.
+A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, §256(a), Nov. 4, 1988,102 Stat. 3110; Pub. L. 102–321, title I, §163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, §312(d)(2), Oct. 27, 1992, 106 Stat. 3504, authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315.
 
 Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(8). Pub. L. 118–158 substituted "March 31, 2025" for "December 31, 2024".
+
+Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 <b>2023</b>—Subsec. (e)(8). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
 
@@ -526,7 +532,7 @@ Sec. 3. <i>United States Leadership on Global Health and Security and the Global
 
 (b) <i>NSC Directorate on Global Health Security and Biodefense</i>. There shall be an NSC Directorate on Global Health Security and Biodefense, which shall be headed by a Senior Director for Global Health Security and Biodefense. The Senior Director shall be responsible for monitoring current and emerging biological threats, and shall report concurrently to the APNSA and to the COVID–19 Response Coordinator on matters relating to COVID–19. The Senior Director shall oversee the Global Health Security Agenda Interagency Review Council, which was established pursuant to Executive Order 13747 of November 4, 2016 (Advancing the Global Health Security Agenda To Achieve a World Safe and Secure From Infectious Disease Threats) \[50 U.S.C. 3021 note\], and is hereby reconvened as described in that order.
 
-(c) <i>Responsibility for National Biodefense Preparedness</i>. Notwithstanding any statements in the National Security Presidential Memorandum–14 of September 18, 2018 (Support for National Biodefense), the APNSA shall be responsible for coordinating the Nation's biodefense preparedness efforts, and, as stated in sections 1 and 2 of this order, the COVID–19 Response Coordinator shall be responsible for coordinating the Federal Government's response to the COVID–19 pandemic.
+(c) <i>Responsibility for National Biodefense Preparedness</i>. Notwithstanding any statements in the National Security Presidential Memorandum–14 of September 18, 2018 (Support for National Biodefense), the APNSA shall be responsible for coordinating the Nation's biodefense preparedness efforts, and, as stated in sections 1 and 2of this order, the COVID–19 Response Coordinator shall be responsible for coordinating the Federal Government's response to the COVID–19 pandemic.
 
 Sec. 4. <i>Prompt Resolution of Issues Related to the United States COVID–19 Response</i>. The heads of agencies shall, as soon as practicable, bring any procedural, departmental, legal, or funding obstacle to the COVID–19 response to the attention of the COVID–19 Response Coordinator. The COVID–19 Response Coordinator shall, in coordination with relevant agencies, the APDP, and the APNSA, as appropriate, immediately bring to the President's attention any issues that require Presidential guidance or decision-making.
 
@@ -542,115 +548,11 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13991. Protecting the Federal Workforce and Requiring Mask-Wearing
+\[Positions of COVID–19 Response Coordinator and Deputy Coordinator of the COVID–19 Response, as established by section 2 of Ex. Ord. No. 13987, set out above, terminated, and responsibilities and duties transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, §3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under section 300hh–3 of this title.\]
 
-Ex. Ord. No. 13991, Jan. 20, 2021, 86 F.R. 7045, provided:
+#### Executive Order No. 13991
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7902(c) of title 5, United States Code, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. It is the policy of my Administration to halt the spread of coronavirus disease 2019 (COVID–19) by relying on the best available data and science-based public health measures. Such measures include wearing masks when around others, physical distancing, and other related precautions recommended by the Centers for Disease Control and Prevention (CDC). Put simply, masks and other public health measures reduce the spread of the disease, particularly when communities make widespread use of such measures, and thus save lives.
-
-Accordingly, to protect the Federal workforce and individuals interacting with the Federal workforce, and to ensure the continuity of Government services and activities, on-duty or on-site Federal employees, on-site Federal contractors, and other individuals in Federal buildings and on Federal lands should all wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.
-
-Sec. 2. <i>Immediate Action Regarding Federal Employees, Contractors, Buildings, and Lands</i>. (a) The heads of executive departments and agencies (agencies) shall immediately take action, as appropriate and consistent with applicable law, to require compliance with CDC guidelines with respect to wearing masks, maintaining physical distance, and other public health measures by: on-duty or on-site Federal employees; on-site Federal contractors; and all persons in Federal buildings or on Federal lands.
-
-(b) The Director of the Office of Management and Budget (OMB), the Director of the Office of Personnel Management (OPM), and the Administrator of General Services, in coordination with the President's Management Council and the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), shall promptly issue guidance to assist heads of agencies with implementation of this section.
-
-(c) Heads of agencies shall promptly consult, as appropriate, with State, local, Tribal, and territorial government officials, Federal employees, Federal employee unions, Federal contractors, and any other interested parties concerning the implementation of this section.
-
-(d) Heads of agencies may make categorical or case-by-case exceptions in implementing subsection (a) of this section to the extent that doing so is necessary or required by law, and consistent with applicable law. If heads of agencies make such exceptions, they shall require appropriate alternative safeguards, such as additional physical distancing measures, additional testing, or reconfiguration of workspace, consistent with applicable law. Heads of agencies shall document all exceptions in writing.
-
-(e) Heads of agencies shall review their existing authorities and, to the extent permitted by law and subject to the availability of appropriations and resources, seek to provide masks to individuals in Federal buildings when needed.
-
-(f) The COVID–19 Response Coordinator shall coordinate the implementation of this section. Heads of the agencies listed in 31 U.S.C. 901(b) shall update the COVID–19 Response Coordinator on their progress in implementing this section, including any categorical exceptions established under subsection (d) of this section, within 7 days of the date of this order \[Jan. 20, 2021\] and regularly thereafter. Heads of agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
-
-Sec. 3. <i>Encouraging Masking Across America</i>. (a) The Secretary of Health and Human Services (HHS), including through the Director of CDC, shall engage, as appropriate, with State, local, Tribal, and territorial officials, as well as business, union, academic, and other community leaders, regarding mask-wearing and other public health measures, with the goal of maximizing public compliance with, and addressing any obstacles to, mask-wearing and other public health best practices identified by CDC.
-
-(b) The COVID–19 Response Coordinator, in coordination with the Secretary of HHS, the Secretary of Homeland Security, and the heads of other relevant agencies, shall promptly identify and inform agencies of options to incentivize, support, and encourage widespread mask-wearing consistent with CDC guidelines and applicable law.
-
-Sec. 4. <i>Safer Federal Workforce Task Force.</i>
-
-(a) <i>Establishment</i>. There is hereby established the Safer Federal Workforce Task Force (Task Force).
-
-(b) <i>Membership</i>. The Task Force shall consist of the following members:
-
-(i) the Director of OPM, who shall serve as Co-Chair;
-
-(ii) the Administrator of General Services, who shall serve as Co-Chair;
-
-(iii) the COVID–19 Response Coordinator, who shall serve as Co-Chair;
-
-(iv) the Director of OMB;
-
-(v) the Director of the Federal Protective Service;
-
-(vi) the Director of the United States Secret Service;
-
-(vii) the Administrator of the Federal Emergency Management Agency;
-
-(viii) the Director of CDC; and
-
-(ix) the heads of such other agencies as the Co-Chairs may individually or jointly invite to participate.
-
-(c) <i>Organization</i>. A member of the Task Force may designate, to perform the Task Force functions of the member, a senior-level official who is a full-time officer or employee of the member's agency. At the direction of the Co-Chairs, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees, as appropriate.
-
-(d) <i>Administration</i>. The General Services Administration shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Co-Chairs shall convene regular meetings of the Task Force, determine its agenda, and direct its work.
-
-(e) <i>Mission</i>. The Task Force shall provide ongoing guidance to heads of agencies on the operation of the Federal Government, the safety of its employees, and the continuity of Government functions during the COVID–19 pandemic. Such guidance shall be based on public health best practices as determined by CDC and other public health experts, and shall address, at a minimum, the following subjects as they relate to the Federal workforce:
-
-(i) testing methodologies and protocols;
-
-(ii) case investigation and contact tracing;
-
-(iii) requirements of and limitations on physical distancing, including recommended occupancy and density standards;
-
-(iv) equipment needs and requirements, including personal protective equipment;
-
-(v) air filtration;
-
-(vi) enhanced environmental disinfection and cleaning;
-
-(vii) safe commuting and telework options;
-
-(viii) enhanced technological infrastructure to support telework;
-
-(ix) vaccine prioritization, distribution, and administration;
-
-(x) approaches for coordinating with State, local, Tribal, and territorial health officials, as well as business, union, academic, and other community leaders;
-
-(xi) any management infrastructure needed by agencies to implement public health guidance; and
-
-(xii) circumstances under which exemptions might appropriately be made to agency policies in accordance with CDC guidelines, such as for mission-critical purposes.
-
-(f) <i>Agency Cooperation</i>. The head of each agency listed in 31 U.S.C. 901(b) shall, consistent with applicable law,promptly provide the Task Force a report on COVID–19 safety protocols, safety plans, or guidance regarding the operation of the agency and the safety of its employees, and any other information that the head of the agency deems relevant to the Task Force's work.
-
-Sec. 5. <i>Federal Employee Testing</i>. The Secretary of HHS, through the Director of CDC, shall promptly develop and submit to the COVID–19 Response Coordinator a testing plan for the Federal workforce. This plan shall be based on community transmission metrics and address the populations to be tested, testing types, frequency of testing, positive case protocols, and coordination with local public health authorities for contact tracing.
-
-Sec. 6. <i>Research and Development</i>. The Director of the Office of Science and Technology Policy, in consultation with the Secretary of HHS (through the National Science and Technology Council), the Director of OMB, the Director of CDC, the Director of the National Institutes of Health, the Director of the National Science Foundation, and the heads of any other appropriate agencies, shall assess the availability of Federal research grants to study best practices for implementing, and innovations to better implement, effective mask-wearing and physical distancing policies, with respect to both the Federal workforce and the general public.
-
-Sec. 7. <i>Scope</i>. (a) For purposes of this order:
-
-(i) "Federal employees" and "Federal contractors" mean employees (including members of the Armed Forces and members of the National Guard in Federal service) and contractors (including such contractors' employees) working for the executive branch;
-
-(ii) "Federal buildings" means buildings, or office space within buildings, owned, rented, or leased by the executive branch of which a substantial portion of occupants are Federal employees or Federal contractors; and
-
-(iii) "Federal lands" means lands under executive branch control.
-
-(b) The Director of OPM and the Administrator of General Services shall seek to consult, in coordination with the heads of any other relevant agencies and the COVID–19 Response Coordinator, with the Sergeants at Arms of the Senate and the House of Representatives and the Director of the Administrative Office of the United States Courts (or such other persons designated by the Majority and Minority Leaders of the Senate, the Speaker and Minority Leader of the House, or the Chief Justice of the United States, respectively), to promote mask-wearing, physical distancing, and adherence to other public health measures within the legislative and judicial branches, and shall provide requested technical assistance as needed to facilitate compliance with CDC guidelines.
-
-Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) Independent agencies are strongly encouraged to comply with the requirements of this order.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13991, Jan. 20, 2021, 86 F.R. 7045, which required compliance with CDC guidelines with respect to wearing masks, maintaining physical distance, and other public health measures by Federal employees and contractors and all persons in Federal buildings or on Federal lands, and HHS promotion of public health best practices identified by the CDC, was revoked by Ex. Ord. No. 14122, §2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under section 300hh–3 of this title.
 
 #### Ex. Ord. No. 13994. Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats
 
@@ -698,6 +600,8 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Position of COVID–19 Response Coordinator terminated, and responsibilities and duties of COVID–19 Response Coordinator specified in Ex. Ord. No. 13994, set out above, transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, §3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under section 300hh–3 of this title.\]
+
 #### Ex. Ord. No. 13995. Ensuring an Equitable Pandemic Response and Recovery
 
 Ex. Ord. No. 13995, Jan. 21, 2021, 86 F.R. 7193, provided:
@@ -736,13 +640,13 @@ Sec. 2. <i>COVID–19 Health Equity Task Force</i>. There is established within 
 
 &emsp;(i) collaborate with the heads of relevant agencies, consistent with the Executive Order entitled "Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats," \[Ex. Ord. No. 13994, set out above\] to develop recommendations for expediting data collection for communities of color and other underserved populations and identifying data sources, proxies, or indices that would enable development of short-term targets for pandemic-related actions for such communities and populations;
 
-(ii) develop, in collaboration with the heads of relevant agencies, a set of longer-term recommendations to address these data shortfalls and other foundationaldata challenges, including those relating to data intersectionality, that must be tackled in order to better prepare and respond to future pandemics; and
+(ii) develop, in collaboration with the heads of relevant agencies, a set of longer-term recommendations to address these data shortfalls and other foundational data challenges, including those relating to data intersectionality, that must be tackled in order to better prepare and respond to future pandemics; and
 
 (iii) submit the recommendations described in this subsection to the President, through the COVID–19 Response Coordinator.
 
 (d) <i>External Engagement</i>. Consistent with the objectives set out in this order and with applicable law, the Task Force may seek the views of health professionals; policy experts; State, local, Tribal, and territorial health officials; faith-based leaders; businesses; health providers; community organizations; those with lived experience with homelessness, incarceration, discrimination, and other relevant issues; and other stakeholders.
 
-(e) <i>Administration</i>. Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], may apply to the Task Force, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of HHS in accordance with the guidelines that have been issued by the Administrator of General Services. HHS shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Chair shall convene regular meetings of the Task Force, determine its agenda, and direct its work. The Chair shall designate an Executive Director of the Task Force, who shall coordinate the work of the Task Force and head any staff assigned to the Task Force.
+(e) <i>Administration</i>. Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.)\[see 5 U.S.C. 1001 et seq.\], may apply to the Task Force, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of HHS in accordance with the guidelines that have been issued by the Administrator of General Services. HHS shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Chair shall convene regular meetings of the Task Force, determine its agenda, and direct its work. The Chair shall designate an Executive Director of the Task Force, who shall coordinate the work of the Task Force and head any staff assigned to the Task Force.
 
 (f) <i>Termination</i>. Unless extended by the President, the Task Force shall terminate within 30 days of accomplishing the objectives set forth in this order, including the delivery of the report and recommendations specified in this section, or 2 years from the date of this order \[Jan. 21, 2021\], whichever comes first.
 
@@ -818,7 +722,7 @@ Sec. 2. <i>COVID–19 Pandemic Testing Board.</i>
 
 (iv) identify methods to expand State, local, Tribal, and territorial capacity to conduct testing, contact tracing, and isolation and quarantine, in order for schools, businesses, and travel to be conducted safely;
 
-(v) provide guidance on how to enhance the clarity, consistency, and transparency of Federal Government communication with the public about the goals and purposes of testing;
+(v) provide guidance on how to enhance the clarity, consistency, and transparency of Federal Governmentcommunication with the public about the goals and purposes of testing;
 
 (vi) identify options for the Federal Government to maximize testing capacity of commercial labs and academic labs; and
 
@@ -874,6 +778,8 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[Position of COVID–19 Response Coordinator terminated, and responsibilities and duties of COVID–19 Response Coordinator specified in Ex. Ord. No. 13996, set out above, transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, §3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under section 300hh–3 of this title.\]
+
 #### Ex. Ord. No. 13997. Improving and Expanding Access to Care and Treatments for COVID–19
 
 Ex. Ord. No. 13997, Jan. 21, 2021, 86 F.R. 7201, provided:
@@ -894,7 +800,7 @@ Sec. 2. <i>Accelerating the Development of Novel Therapies</i>. To enhance the N
 
 (c) consider steps to ensure that clinical trials include populations that have been historically underrepresented in such trials.
 
-Sec. 3. <i>Improving the Capacity of the Nation's Healthcare Systems to Address COVID–19</i>. To bolster the capacity of the Nation's healthcare systems to support healthcare workers and patients:
+Sec. 3. <i>Improving the Capacity of the Nation's Healthcare Systems to Address COVID–19</i>. To bolster thecapacity of the Nation's healthcare systems to support healthcare workers and patients:
 
 (a) The Secretary of Defense, the Secretary of HHS, the Secretary of Veterans Affairs, and the heads of other relevant executive departments and agencies (agencies), in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), shall promptly, as appropriate and consistent with applicable law, provide targeted surge assistance to critical care and long-term care facilities, including nursing homes and skilled nursing facilities, assisted living facilities, intermediate care facilities for individuals with disabilities, and residential treatment centers, in their efforts to combat the spread of COVID–19.
 
@@ -928,89 +834,9 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13998. Promoting COVID–19 Safety in Domestic and International Travel
+#### Executive Order No. 13998
 
-Ex. Ord. No. 13998, Jan. 21, 2021, 86 F.R. 7205, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. Science-based public health measures are critical to preventing the spread of coronavirus disease 2019 (COVID–19) by travelers within the United States and those who enter the country from abroad. The Centers for Disease Control and Prevention (CDC), the Surgeon General, and the National Institutes of Health have concluded that mask-wearing, physical distancing, appropriate ventilation, and timely testing can mitigate the risk of travelers spreading COVID–19. Accordingly, to save lives and allow all Americans, including the millions of people employed in the transportation industry, to travel and work safely, it is the policy of my Administration to implement these public health measures consistent with CDC guidelines on public modes of transportation and at ports of entry to the United States.
-
-Sec. 2. <i>Immediate Action to Require Mask-Wearing on Certain Domestic Modes of Transportation.</i>
-
-(a) <i>Mask Requirement</i>. The Secretary of Labor, the Secretary of Health and Human Services (HHS), the Secretary of Transportation (including through the Administrator of the Federal Aviation Administration (FAA)), the Secretary of Homeland Security (including through the Administrator of the Transportation Security Administration (TSA) and the Commandant of the United States Coast Guard), and the heads of any other executive departments and agencies (agencies) that have relevant regulatory authority (heads of agencies) shall immediately take action, to the extent appropriate and consistent with applicable law, to require masks to be worn in compliance with CDC guidelines in or on:
-
-(i) airports;
-
-(ii) commercial aircraft;
-
-(iii) trains;
-
-(iv) public maritime vessels, including ferries;
-
-(v) intercity bus services; and
-
-(vi) all forms of public transportation as defined in section 5302 of title 49, United States Code.
-
-(b) <i>Consultation</i>. In implementing this section, the heads of agencies shall consult, as appropriate, with interested parties, including State, local, Tribal, and territorial officials; industry and union representatives from the transportation sector; and consumer representatives.
-
-(c) <i>Exceptions</i>. The heads of agencies may make categorical or case-by-case exceptions to policies developed under this section, consistent with applicable law, to the extent that doing so is necessary or required by law. If the heads of agencies do make exceptions, they shall require alternative and appropriate safeguards, and shall document all exceptions in writing.
-
-(d) <i>Preemption</i>. To the extent permitted by applicable law, the heads of agencies shall ensure that any actiontaken to implement this section does not preempt State, local, Tribal, and territorial laws or rules imposing public health measures that are more protective of public health than those required by the heads of agencies.
-
-(e) <i>Coordination</i>. The Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) shall coordinate the implementation of this section. The heads of agencies shall update the COVID–19 Response Coordinator on their progress in implementing this section, including any categorical exceptions established under subsection (c) of this section, within 7 days of the date of this order \[Jan. 21, 2021\] and regularly thereafter. The heads of agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
-
-Sec. 3. <i>Action to Implement Additional Public Health Measures for Domestic Travel.</i>
-
-(a) <i>Recommendations</i>. The Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA and the Commandant of the Coast Guard), in consultation with the Director of CDC, shall promptly provide to the COVID–19 Response Coordinator recommendations concerning how their respective agencies may impose additional public health measures for domestic travel.
-
-(b) <i>Consultation</i>. In implementing this section, the Secretary of Transportation and the Secretary of Homeland Security shall engage with interested parties, including State, local, Tribal, and territorial officials; industry and union representatives from the transportation sector; and consumer representatives.
-
-Sec. 4. <i>Support for State, Local, Tribal, and Territorial Authorities</i>. The COVID–19 Response Coordinator, in coordination with the Secretary of Transportation and the heads of any other relevant agencies, shall promptly identify and inform agencies of options to incentivize, support, and encourage widespread mask-wearing and physical distancing on public modes of transportation, consistent with CDC guidelines and applicable law.
-
-Sec. 5. <i>International Travel.</i>
-
-(a) <i>Policy</i>. It is the policy of my Administration that, to the extent feasible, travelers seeking to enter the United States from a foreign country shall be:
-
-(i) required to produce proof of a recent negative COVID–19 test prior to entry; and
-
-(ii) required to comply with other applicable CDC guidelines concerning international travel, including recommended periods of self-quarantine or self-isolation after entry into the United States.
-
-(b) <i>Air Travel.</i>
-
-(i) The Secretary of HHS, including through the Director of CDC, and in coordination with the Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA), shall, within 14 days of the date of this order \[Jan. 21, 2021\], assess the CDC order of January 12, 2021, regarding the requirement of a negative COVID–19 test result for airline passengers traveling into the United States, in light of subsection (a) of this section. Based on such assessment, the Secretary of HHS and the Secretary of Homeland Security shall take any further appropriate regulatory action, to the extent feasible and consistent with CDC guidelines and applicable law. Such assessment and regulatory action shall include consideration of:
-
-&emsp;(A) the timing and types of COVID–19 tests that should satisfy the negative test requirement, including consideration of additional testing immediately prior to departure;
-
-&emsp;(B) the proof of test results that travelers should be required to provide;
-
-&emsp;(C) the feasibility of implementing alternative and sufficiently protective public health measures, such as testing, self-quarantine, and self-isolation on arrival, for travelers entering the United States from countries where COVID–19 tests are inaccessible, particularly where such inaccessibility of tests would affect the ability of United States citizens and lawful permanent residents to return to the United States; and
-
-&emsp;(D) measures to prevent fraud.
-
-(ii) The Secretary of HHS, in coordination with the Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA), shall promptly provide to the President, through the COVID–19 Response Coordinator, a plan for how the Secretary and other Federal Government actors could implement the policy stated in subsection (a) of this section with respect to CDC-recommended periods of self-quarantine or self-isolation after a flight to the United States from a foreign country, as he deems appropriate and consistent with applicable law. The plan shall identify agencies' tools and mechanisms to assist travelers in complying with such policy.
-
-(iii) The Secretary of State, in consultation with the Secretary of HHS (including through the Director of CDC), the Secretary of Transportation (including through the Administrator of the FAA), and the Secretary of Homeland Security, shall seek to consult with foreign governments, the World Health Organization, the International Civil Aviation Organization, the International Air Transport Association, and any other relevant stakeholders to establish guidelines for public health measures associated with safe international travel, including on aircraft and at ports of entry. Any such guidelines should address quarantine, testing, COVID–19 vaccination, follow-up testing and symptom-monitoring, air filtration requirements, environmental decontamination standards, and contact tracing.
-
-(c) <i>Land Travel</i>. The Secretary of State, in consultation with the Secretary of HHS, the Secretary of Transportation, the Secretary of Homeland Security, and the Director of CDC, shall immediately commence diplomatic outreach to the governments of Canada and Mexico regarding public health protocols for land ports of entry. Based on this diplomatic engagement, within 14 days of the date of this order, the Secretary of HHS (including through the Director of CDC), the Secretary of Transportation, and the Secretary of Homeland Security shall submit to the President a plan to implement appropriate public health measures at land ports of entry. The plan should implement CDC guidelines, consistent with applicable law, and take into account the operational considerations relevant to the different populations who enter the United States by land.
-
-(d) <i>Sea Travel</i>. The Secretary of Homeland Security, through the Commandant of the Coast Guard and in consultation with the Secretary of HHS and the Director of CDC, shall, within 14 days of the date of this order, submit to the President a plan to implement appropriate public health measures at sea ports. The plan should implement CDC guidelines, consistent with applicable law, and take into account operational considerations.
-
-(e) <i>International Certificates of Vaccination or Prophylaxis</i>. Consistent with applicable law, the Secretary of State, the Secretary of HHS, and the Secretary of Homeland Security (including through the Administrator of the TSA), in coordination with any relevant international organizations, shall assess the feasibility of linking COVID–19 vaccination to International Certificates of Vaccination or Prophylaxis (ICVP) and producing electronic versions of ICVPs.
-
-(f) <i>Coordination</i>. The COVID–19 Response Coordinator, in consultation with the Assistant to the President for National Security Affairs and the Assistant to the President for Domestic Policy, shall coordinate the implementation of this section. The Secretary of State, the Secretary of HHS, the Secretary of Transportation, and the Secretary of Homeland Security shall update the COVID–19 Response Coordinator on their progress in implementing this section within 7 days of the date of this order and regularly thereafter. The heads of all agencies are encouraged to bring to the attention ofthe COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
-
-Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13998, Jan. 21, 2021, 86 F.R. 7205, which related to promoting COVID–19 safety in domestic and international travel, was revoked by Ex. Ord. No. 14122, §2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under section 300hh–3 of this title.
 
 #### Ex. Ord. No. 13999. Protecting Worker Health and Safety
 
@@ -1062,7 +888,7 @@ Ex. Ord. No. 14000, Jan. 21, 2021, 86 F.R. 7215, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, to ensure that students receive a high-quality education during the coronavirus disease 2019 (COVID–19) pandemic, and to support the safe reopening and continued operation of schools, child care providers, Head Start programs, and institutions of higher education, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Every student in America deserves a high-quality education in a safe environment. This promise, which was already out of reach for too many, has been further threatened by the COVID–19 pandemic. School and higher education administrators, educators, faculty, child care providers, custodians and other staff, and families have gone above and beyond to support children's and students' learning and meet their needs during this crisis. Students and teachers alike have found new ways to teach and learn. Many child care providers continue to provide care and learning opportunities to children in homes and centers across the country. However, leadership and support from the Federal Government is needed. Two principles should guide the Federal Government's response to the COVID–19 crisis with respect to schools, child care providers, Head Start programs, and higher education institutions. First, the health and safety of children, students, educators, families, and communities is paramount. Second, every student in the United Statesshould have the opportunity to receive a high-quality education, during and beyond the pandemic.
+Section 1. <i>Policy</i>. Every student in America deserves a high-quality education in a safe environment. This promise, which was already out of reach for too many, has been further threatened by the COVID–19 pandemic. School and higher education administrators, educators, faculty, child care providers, custodians and other staff, and families have gone above and beyond to support children's and students' learning and meet their needs during this crisis. Students and teachers alike have found new ways to teach and learn. Many child care providers continue to provide care and learning opportunities to children in homes and centers across the country. However, leadership and support from the Federal Government is needed. Two principles should guide the Federal Government's response to the COVID–19 crisis with respect to schools, child care providers, Head Start programs, and higher education institutions. First, the health and safety of children, students, educators, families, and communities is paramount. Second, every student in the United States should have the opportunity to receive a high-quality education, during and beyond the pandemic.
 
 Accordingly, it is the policy of my Administration to provide support to help create the conditions for safe, in-person learning as quickly as possible; ensure high-quality instruction and the delivery of essential services often received by students and young children at school, institutions of higher education, child care providers, and Head Start programs; mitigate learning loss caused by the pandemic; and address educational disparities and inequities that the pandemic has created and exacerbated.
 
@@ -1090,7 +916,7 @@ Sec. 2. <i>Agency Roles and Responsibilities</i>. The following assignments of r
 
 (i) facilitate the collection of data needed to inform the safe reopening and continued operation of elementary and secondary schools, child care providers, and Head Start programs, and ensure that such data are readily available to State, local, Tribal, and territorial leaders and the public, consistent with privacy interests, and that such data are disaggregated by race, ethnicity, and other factors as appropriate;
 
-(ii) ensure, in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) and other relevant agencies, that COVID–19-related supplies the Secretary administers, including testing materials, are equitably allocated to elementary and secondary schools, child care providers, and Head Start programs to support in-person care and learning;
+(ii) ensure, in coordination with the Coordinator of the COVID–19 Response and Counselor to the President\(COVID–19 Response Coordinator) and other relevant agencies, that COVID–19-related supplies the Secretary administers, including testing materials, are equitably allocated to elementary and secondary schools, child care providers, and Head Start programs to support in-person care and learning;
 
 (iii) to the maximum extent possible, support the development and operation of contact tracing programs at the State, local, Tribal, and territorial level, by providing guidance and technical support to ensure that contact tracing is available to facilitate the reopening and safe operation of elementary and secondary schools, child care providers, Head Start programs, and institutions of higher education;
 
@@ -1150,7 +976,7 @@ Sec. 4. <i>National Research Action Plan on Long COVID</i>. (a) Coordinated effo
 
 (iii) better understand the epidemiology, course of illness, risk factors, and vaccine effectiveness in prevention of long COVID;
 
-(iv) advance our understanding of the health and socioeconomic burdens on individuals affected by longCOVID, including among different race and ethnicity groups, pregnant people, and those with underlying disabilities;
+(iv) advance our understanding of the health and socioeconomic burdens on individuals affected by long COVID, including among different race and ethnicity groups, pregnant people, and those with underlying disabilities;
 
 (v) foster development of new treatments and care models for long COVID based on a better understanding of the pathophysiological mechanisms of the SARS–CoV–2 virus;
 

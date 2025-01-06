@@ -30,7 +30,7 @@ Unit of general local government.—The term "unit of general local government" 
 
 (b)
 
-Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing,operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
+Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
 
 &emsp;(1) acquire and utilize space in suitable buildings of historical, architectural, or cultural significance, unless use of the space would not prove feasible and prudent compared with available alternatives;
 
@@ -96,7 +96,7 @@ Pub. L. 94–541, title I, §§102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 2505, 
 
 In subsection (b)(1), the word "historical" is substituted for "historic" to conform to the defined term.
 
-In subsection (c)(1), the words "chief executive officers of the States" are substituted for "Governors" for clarity and for consistency in the revised title and with other titles of the United States Code. The words "section 6506 of title 31" are substituted for "title IV of the Intergovernmental Cooperation Act of 1968" in section 102(b) of the Public Buildings Cooperative Use Act of 1976 (Public Law 94–541, 90 Stat. 2505) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+In subsection (c)(1), the words "chief executive officers of the States" are substituted for "Governors" for clarity and for consistency in the revised title and with other titles of the United States Code. The words "section 6506 of title 31" are substituted for "title IV of the Intergovernmental Cooperation Act of 1968" in section 102(b) of the Public Buildings Cooperative Use Act of 1976 (Public Law 94–541, 90 Stat. 2505) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258,96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 #### <b>Editorial Notes</b>
 

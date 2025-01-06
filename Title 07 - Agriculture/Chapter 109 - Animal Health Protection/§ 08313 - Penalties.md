@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(II) $1,000,000 if the violations include 1 or more willful violations.
 
-&emsp;&emsp;(B) twice the gross gain or gross loss for any violation or forgery, counterfeiting, or unauthorized use, alteration, defacing or destruction of a certificate, permit, or other document provided under this chapter that results in the person's deriving pecuniary gain or causing pecuniary loss to another person.
+&emsp;&emsp;(B) twice the gross gain or gross loss for any violation or forgery, counterfeiting, orunauthorized use, alteration, defacing or destruction of a certificate, permit, or other document provided under this chapter that results in the person's deriving pecuniary gain or causing pecuniary loss to another person.
 
 #### (2) Factors in determining civil penalty
 

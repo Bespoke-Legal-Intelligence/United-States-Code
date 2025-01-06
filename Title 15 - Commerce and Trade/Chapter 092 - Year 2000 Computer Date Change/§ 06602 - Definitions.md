@@ -46,7 +46,7 @@ In this chapter:
 
 #### (6) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the NorthernMariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States, and any political subdivision thereof.
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States, and any political subdivision thereof.
 
 #### (7) Contract
 

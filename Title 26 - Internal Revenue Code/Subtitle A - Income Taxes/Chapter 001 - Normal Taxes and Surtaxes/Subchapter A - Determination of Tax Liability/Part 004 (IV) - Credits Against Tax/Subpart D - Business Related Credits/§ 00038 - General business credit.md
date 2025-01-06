@@ -86,11 +86,15 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(36) the clean hydrogen production credit determined under section 45V(a),
 
-&emsp;(37) the qualified commercial clean vehicle credit determined under section 45W, plus
+&emsp;(37) the qualified commercial clean vehicle credit determined under section 45W,
 
-&emsp;(38) the advanced manufacturing production credit determined under section 45X(a).
+&emsp;(38) the advanced manufacturing production credit determined under section 45X(a),
 
-&emsp;(41) <sup>1</sup> in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
+&emsp;(39) the clean electricity production credit determined under section 45Y(a),
+
+&emsp;(40) the clean fuel production credit determined under section 45Z(a), plus
+
+&emsp;(41) in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 
 #### (c) Limitation based on amount of tax
 
@@ -222,27 +226,13 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 #### (1) In general
 
-&emsp;The order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.
+&emsp;The order in which such credits are used shall be determined on the basis of the orderin which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.
 
 #### (2) Components of investment credit
 
 &emsp;The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
 
 (Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(8), (b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1184, 1201, 1208, 1211; Pub. L. 116–94, div. O, title I, §105(b), Dec. 20, 2019, 133 Stat. 3148; Pub. L. 117–169, title I, §§10101(d), 13105(b)(1), 13203(b), 13204(a)(4)(A), 13401(i)(3), 13403(b)(1), 13502(b)(1), 13701(b)(1), 13704(b)(3), Aug. 16, 2022, 136 Stat. 1828, 1931, 1934, 1939, 1961, 1965, 1981, 1990, 2002; Pub. L. 117–328, div. T, title I, §112(b), Dec. 29, 2022, 136 Stat. 5295.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 117–169, title I, §13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking "plus" at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting ", plus", and adding at the end the following new paragraph:</i>
-
-&emsp;<i>(39) the clean electricity production credit determined under section 45Y(a).</i>
-
-<i>See 2022 Amendment note below.</i>
-
-<i>Pub. L. 117–169, title I, §13704(b)(3), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (b) of this section is amended by striking "plus" at the end of paragraph (38), striking the period at the end of paragraph (39) and inserting ", plus", and adding at the end the following new paragraph:</i>
-
-&emsp;<i>(40) the clean fuel production credit determined under section 45Z(a).</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -292,7 +282,7 @@ Subsec. (b)(26) to (29). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesigna
 
 Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (27) to (30) as (26) to (29), respectively, and then struck them out. Prior to amendment, these four pars. set out credits for the Hurricane Katrina housing credit determined under section 1400P(b), the Hurricane Katrina employee retention credit determined under section 1400R(a), the Hurricane Rita employee retention credit determined under section 1400R(b), and the Hurricane Wilma employee retention credit determined under section 1400R(c).
 
-Subsec. (b)(30) to (32). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (35) to (37) first as (34) to (36), and then as (30) to (32), respectively. Former par. (30) redesignated (29) and then struck out, and former pars. (31) and (32) first redesignated (30) and (31), then (26) and (27), respectively.
+Subsec. (b)(30) to (32). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (35) to (37) first as (34) to (36), and then as (30) to (32), respectively. Former par.\(30) redesignated (29) and then struck out, and former pars. (31) and (32) first redesignated (30) and (31), then (26) and (27), respectively.
 
 Subsec. (b)(33) to (37). Pub. L. 115–141, §401(a)(8), (d)(2)(B), (6)(B)(i), inserted comma at end of par. (34) and subsequently redesignated pars. (33) to (37) first as (32) to (36), and then as (28) to (32), respectively.
 
@@ -590,7 +580,7 @@ Pub. L. 114–113, div. Q, title I, §186(e)(3), Dec. 18, 2015, 129 Stat. 3074, 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 209(f)(1) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates,see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+Amendment by section 209(f)(1) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 Amendment by section 221(a)(2)(B), (6) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
@@ -616,7 +606,7 @@ Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009
 
 Amendment by section 103(b) of Pub. L. 110–343 applicable to credits determined under section 46 of this title in taxable years beginning after Oct. 3, 2008, and to carrybacks of such credits, see section 103(f)(1), (2) of Pub. L. 110–343, set out as a note under section 48 of this title.
 
-Pub. L. 110–343, div. B, title I, §115(d), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendments made by this section \[enacting section 45Q of this title and amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Oct. 3, 2008\]."
+Pub. L. 110–343, div. B, title I, §115(d), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendments made by this section \[enacting section 45Q of this title andamending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 Amendment by section 205(c) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
@@ -664,7 +654,7 @@ Pub. L. 109–58, title XIII, §1332(f), Aug. 8, 2005, 119 Stat. 1026, provided 
 
 Pub. L. 109–58, title XIII, §1334(d), Aug. 8, 2005, 119 Stat. 1033, provided that: "The amendments made by this section \[enacting section 45M of this title and amending this section\] shall apply to appliances produced after December 31, 2005."
 
-Amendment by section 1341(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005,in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
+Amendment by section 1341(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
 
 Amendment by section 1342(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
 
@@ -682,7 +672,7 @@ Pub. L. 108–357, title VII, §711(c), Oct. 22, 2004, 118 Stat. 1558, provided 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title III, §301(b)(3), Mar. 9, 2002, 116 Stat. 40, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001."
+Pub. L. 107–147, title III, §301(b)(3), Mar. 9, 2002, 116 Stat. 40, provided that: "The amendments made by thissubsection \[amending this section\] shall apply to taxable years ending after December 31, 2001."
 
 Amendment by section 411(d)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
@@ -758,7 +748,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Sections 404(i)
 
-and 6699 to continue to apply to pre-1987 credits.—The provisions of sections 404(i) and 6699 of the Internal Revenue Code of 1986 shall continue to apply with respect to credits under section 41 of such Code attributable to compensation paid or accrued before January 1, 1987 (or under section 38 of such Code with respect to qualified investment before January 1, 1983)."
+and 6699 to continue to apply to pre-1987 credits.—The provisions of sections 404(i) and 6699 of the Internal Revenue Code of 1986 shall continueto apply with respect to credits under section 41 of such Code attributable to compensation paid or accrued before January 1, 1987 (or under section 38 of such Code with respect to qualified investment before January 1, 1983)."
 
 #### Effective Date of 1984 Amendment
 
@@ -1064,7 +1054,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;"(1)
 
-Qualified farmer.—The term 'qualified farmer' means any taxpayer who, during the 3-taxableyear period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer's gross income from the trade or business of farming.
+Qualified farmer.—The term 'qualified farmer' means any taxpayer who, during the 3-taxable year period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer's gross income from the trade or business of farming.
 
 &emsp;"(2)
 
@@ -1084,7 +1074,7 @@ For provisions requiring different applications of subsec. (c) of this section t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transition Rules
 
@@ -1137,6 +1127,4 @@ Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by 
 > to reduce such taxpayer's Federal income taxes for the purpose of establishing the cost of service of the taxpayer or to accomplish a similar result by any other method."
 
 Section 203(e) of Pub. L. 88–272, not applicable to public utility property to which section 46(e) of this title applies, see section 105(e) of Pub. L. 92–178, set out as a note under section 46 of this title.
-
-<i><sup>1</sup></i><i> See Amendment of Subsection (b) note below.</i>
 

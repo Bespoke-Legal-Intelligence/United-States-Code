@@ -8,7 +8,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;(2) achievement of national transportation safety goals, including enhancement of safe operation of motor vehicles and nonmotorized vehicles and improved emergency response to collisions, with particular emphasis on decreasing the number and severity of collisions;
 
-&emsp;(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
+&emsp;(3) protection and enhancement of the natural environment and communities affected bysurface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
 &emsp;(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial motor vehicles, passenger motor vehicles, motorcycles, bicycles, and pedestrians (including individuals with disabilities);
 

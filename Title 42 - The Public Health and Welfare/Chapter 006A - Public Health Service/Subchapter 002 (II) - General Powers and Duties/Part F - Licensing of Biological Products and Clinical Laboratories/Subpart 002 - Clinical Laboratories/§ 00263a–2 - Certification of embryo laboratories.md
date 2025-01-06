@@ -4,7 +4,7 @@
 
 #### (1) Development
 
-&emsp;Not later than 2 years after October 24, 1992, the Secretary, through the Centers for Disease Control, shall develop a model program for the certification of embryo laboratories (referred to in this section as a "certification program") to be carried out by the States.
+&emsp;Not later than 2 years after October 24, 1992, the Secretary, through the Centers for DiseaseControl, shall develop a model program for the certification of embryo laboratories (referred to in this section as a "certification program") to be carried out by the States.
 
 #### (2) Consultation
 
@@ -106,7 +106,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (2) Access to facilities and records
 
-&emsp;In conducting an inspection of an embryo laboratory under paragraph (1), the Secretaryshall have access to all facilities, equipment, materials, records, and information which the Secretary determines is necessary to determine if such laboratory is being operated in accordance with the standards in subsection (d). As part of such an inspection, the Secretary may copy any material, record, or information inspected or require it to be submitted to the Secretary. Such an inspection may be made only upon the presentation of identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;In conducting an inspection of an embryo laboratory under paragraph (1), the Secretary shall have access to all facilities, equipment, materials, records, and information which the Secretary determines is necessary to determine if such laboratory is being operated in accordance with the standards in subsection (d). As part of such an inspection, the Secretary may copy any material, record, or information inspected or require it to be submitted to the Secretary. Such an inspection may be made only upon the presentation of identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (3) Failure to comply
 

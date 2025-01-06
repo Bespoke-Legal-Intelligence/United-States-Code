@@ -18,7 +18,7 @@ The President may waive the initial application of sanctions under subsection (a
 
 #### (c) Delay of imposition of sanctions
 
-The President may delay the imposition of sanctions under subsection (a) with respect to aperson if the President certifies to the appropriate congressional committees, not less frequently than every 180 days while the delay is in effect, that the person is substantially reducing the number of significant transactions described in subsection (a) in which that person engages.
+The President may delay the imposition of sanctions under subsection (a) with respect to a person if the President certifies to the appropriate congressional committees, not less frequently than every 180 days while the delay is in effect, that the person is substantially reducing the number of significant transactions described in subsection (a) in which that person engages.
 
 #### (d) Modified waiver authority for certain sanctionable transactions under this section
 
@@ -82,7 +82,7 @@ The President may delay the imposition of sanctions under subsection (a) with re
 
 &emsp;&emsp;&emsp;(i) the extent to which such waiver has or has not resulted in the compromise of United States systems and operational capabilities, including through the diversion of United States sensitive technology to a person that is part of, or operates for or on behalf of, the defense or intelligence sectors of the Government of the Russian Federation; and
 
-&emsp;&emsp;&emsp;(ii) the extent to which the government with primary jurisdiction over the person is taking specific actions to further the enforcement of this title.
+&emsp;&emsp;&emsp;(ii) the extent to which the government with primary jurisdiction over the personis taking specific actions to further the enforcement of this title.
 
 #### (e) Requirement to issue guidance
 

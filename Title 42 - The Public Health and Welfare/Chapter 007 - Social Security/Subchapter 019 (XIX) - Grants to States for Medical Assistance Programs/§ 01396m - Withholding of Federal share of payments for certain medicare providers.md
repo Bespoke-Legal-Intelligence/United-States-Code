@@ -6,7 +6,7 @@ The Secretary may adjust, in accordance with this section, the Federal matching 
 
 &emsp;(1) an institution (A) which has or previously had in effect an agreement with the Secretary under section 1395cc of this title; and (B)(i) from which the Secretary has been unable to recover overpayments made under subchapter XVIII, or (ii) from which the Secretary has been unable to collect the information necessary to enable him to determine the amount (if any) of the overpayments made to such institution under subchapter XVIII; and
 
-&emsp;(2) any person (A) who (i) has previously accepted payment on the basis of an assignment under section 1395u(b)(3)(B)(ii) of this title, and (ii) during the annual period immediately preceding such quarter submitted no claims for payment under subchapter XVIII, or submitted claims for payment under subchapter XVIII which aggregated less than the amount of overpayments made to him, and (B)(i) from whom the Secretary has been unable to recover overpayments received in violation of the terms of such assignment, or (ii) from whom the Secretary has been unable to collect the information necessary to enable him to determine the amount (if any) of the overpayments made to such person under subchapter XVIII.
+&emsp;(2) any person (A) who (i) has previously accepted payment on the basis of an assignment under section 1395u(b)(3)(B)(ii) of this title, and (ii) during the annual period immediately preceding such quarter submitted no claimsfor payment under subchapter XVIII, or submitted claims for payment under subchapter XVIII which aggregated less than the amount of overpayments made to him, and (B)(i) from whom the Secretary has been unable to recover overpayments received in violation of the terms of such assignment, or (ii) from whom the Secretary has been unable to collect the information necessary to enable him to determine the amount (if any) of the overpayments made to such person under subchapter XVIII.
 
 #### (b) Reductions in payments to and by States
 
@@ -18,7 +18,7 @@ The Secretary shall not make any adjustment in the payment to a State, nor requi
 
 #### (d) Regulations
 
-The Secretary shall by regulation provide procedures for implementation of this section, which procedures shall (1) determine the amount of the Federal payment to which the institution or person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII and towhich the institution or person would otherwise be entitled under this subchapter.
+The Secretary shall by regulation provide procedures for implementation of this section, which procedures shall (1) determine the amount of the Federal payment to which the institution or person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII and to which the institution or person would otherwise be entitled under this subchapter.
 
 #### (e) Restoration to trust funds of recovered amounts
 

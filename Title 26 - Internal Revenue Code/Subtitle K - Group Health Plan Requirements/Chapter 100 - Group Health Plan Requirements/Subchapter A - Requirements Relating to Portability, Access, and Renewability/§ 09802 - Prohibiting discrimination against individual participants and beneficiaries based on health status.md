@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(D) The plan notifies the Secretary in writing that the plan is conducting activities pursuant to the exception provided for under this paragraph, including a description of the activities conducted.
 
-&emsp;&emsp;(E) The plan complies with such other conditions as the Secretary may by regulationrequire for activities conducted under this paragraph.
+&emsp;&emsp;(E) The plan complies with such other conditions as the Secretary may by regulation require for activities conducted under this paragraph.
 
 #### (d) Prohibition on collection of genetic information
 

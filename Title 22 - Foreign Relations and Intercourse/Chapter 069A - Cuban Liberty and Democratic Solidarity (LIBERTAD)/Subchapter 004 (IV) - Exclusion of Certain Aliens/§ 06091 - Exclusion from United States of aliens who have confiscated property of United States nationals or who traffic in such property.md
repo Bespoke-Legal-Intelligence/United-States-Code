@@ -54,7 +54,7 @@ As used in this section, the following terms have the following meanings:
 
 &emsp;&emsp;(i) the delivery of international telecommunication signals to Cuba;
 
-&emsp;&emsp;(ii) the trading or holding of securities publicly traded or held, unless the trading iswith or by a person determined by the Secretary of the Treasury to be a specially designated national;
+&emsp;&emsp;(ii) the trading or holding of securities publicly traded or held, unless the trading is with or by a person determined by the Secretary of the Treasury to be a specially designated national;
 
 &emsp;&emsp;(iii) transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of property are necessary to the conduct of such travel; or
 
@@ -62,7 +62,7 @@ As used in this section, the following terms have the following meanings:
 
 #### (c) Exemption
 
-This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III.
+This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or forpurposes of litigation of an action under subchapter III.
 
 #### (d) Effective date
 

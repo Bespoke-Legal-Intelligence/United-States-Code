@@ -28,7 +28,7 @@ The Secretary of the Interior is charged with the supervision of public business
 
 &emsp;13\. Public lands, including mines.
 
-(R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939,4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### <b>Editorial Notes</b>
 
@@ -53,6 +53,58 @@ Section was formerly classified to section 485 of Title 5 prior to the general r
 #### Effective Date of 1957 Amendment
 
 Amendment by Pub. L. 85–56 effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
+
+#### Pilot Program
+
+Pub. L. 118–210, title II, §223(c), Jan. 2, 2025, 138 Stat. 2781, provided that:
+
+"(1)
+
+Establishment.—The Secretary of the Interior shall, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs, establish a pilot program to proactively inform veterans of available employment positions that relate to the conservation and resource management activities of the Department of the Interior.
+
+"(2)
+
+Positions.—The Secretary of the Interior shall—
+
+&emsp;"(A) identify vacant positions in the Department of the Interior that are appropriate to fill using the pilot program; and
+
+&emsp;"(B) to the maximum extent practicable, provide assistance to veterans in selecting one or more vacant positions to apply to, for which that veteran may be best qualified.
+
+"(3)
+
+Reports.—
+
+&emsp;"(A)
+
+Implementation report.—Not later than one year after the date on which the pilot program under paragraph (1) commences, the Secretary of the Interior, the Secretary of Veterans Affairs, and the Secretary of Labor shall jointly provide to the appropriate congressional committees a report on the implementation of the pilot program.
+
+&emsp;"(B)
+
+Final report.—Not later than 30 days after the date on which the pilot program under paragraph (1) terminates under paragraph (4), the Secretary of the Interior, the Secretary of Veterans Affairs, and the Secretary of Labor shall jointly submit to the appropriate congressional committees a report on the pilot program that includes the following:
+
+&emsp;&emsp;"(i) The number of veterans who applied to participate in the pilot program.
+
+&emsp;&emsp;"(ii) The number of such veterans employed under the pilot program.
+
+&emsp;&emsp;"(iii) The number of veterans identified in clause (ii) who transitioned to full-time positions with the Federal Government after participating in the pilot program.
+
+&emsp;&emsp;"(iv) Any other information the Secretary of the Interior, the Secretary of Veterans Affairs, and the Secretary of Labor determine appropriate with respect to measuring the effectiveness of the pilot program.
+
+"(4)
+
+Termination.—The authority to carry out the pilot program under this subsection shall terminate on the date that is two years after the date on which the pilot program commences.
+
+"(5)
+
+Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
+
+&emsp;"(A) the Committee on Veterans' Affairs and the Committee on Energy and Natural Resources of the Senate; and
+
+&emsp;"(B) the Committee on Veterans' Affairs and the Committee on Natural Resources of the House of Representatives."
+
+#### Appointment of Highly Qualified Individuals To Address Certain Hiring Needs Within Department of the Interior
+
+Pub. L. 118–158, div. B, title VII, §2701, Dec. 21, 2024, 138 Stat. 1752, provided that: "Notwithstanding section 3304 of title 5, United States Code, and without regard to the provisions of sections 3309 through 3318 of such title 5, the Secretary of the Interior and the Secretary of Agriculture, acting through the Chief of the Forest Service, may recruit and directly appoint highly qualified individuals into the competitive service to address critical hiring needs for the planning and execution of the projects and activities funded in this title \[title VII of div. B of Pub. L. 118–158, 138 Stat. 1746\]: <i>Provided</i>, That such authority shall not apply to positions in the Excepted Service or the Senior Executive Service: <i>Provided further</i>, That any action authorized herein shall be consistent with the merit principles of section 2301 of such title 5, and the Department of the Interior and the Department of Agriculture shall comply with the public notice requirements of section 3327 of such title 5: <i>Provided further</i>, That the authority under this section shall terminate on September 30, 2029: <i>Provided further</i>, That amounts provided by this section are designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### Report to Congress on Availability of Federal Programs to Territories of United States; Authorization of Appropriations
 
@@ -90,7 +142,7 @@ Act Aug. 6, 1956, ch. 979, 70 Stat. 1057, provided that: "The Secretary of the I
 
 #### Indian Goods and Supplies
 
-Act Apr. 30, 1908, ch. 153, 35 Stat. 73, provided: "That hereafter payment for transportation of Indian goods and supplies shall include all Indian transportation lawfully due such land-grant railroads as have not received aid in Government bonds (to be adjusted in accordance with the decisions of the Supreme Court in cases decided under such land-grant Acts), but in no case shall more than 50 per centum of full amount of service be paid to said land-grant roads: <i>Provided</i>, That such compensation shall be computed upon the basis of the tariff or lower special rates for like transportation performed for the public at large, and shall be accepted as in full for all demands for such service: <i>Provided further</i>, That hereafter in expending money appropriated for this purpose a railroad company which has not received aid in bonds of the United States, and which obtained a grant of public lands to aid in the construction of its railroad on condition that such railroad should be a post route and military road, subject to the use of the United States for postal, military, naval, and other Government services, and also subject to such regulations as Congress may impose, restricting the charge for such government transportation, having claims against the United States for transportation of Indian goods and supplies over such aided railroads, shall bepaid out of the moneys appropriated for such purpose only on the basis of such rate for the transportation of such Indian goods and supplies as the Secretary of the Interior shall deem just and reasonable under the provisions set forth herein, such rate not to exceed 50 per centum of the compensation for such Government transportation as shall at that time be charged to and paid by private parties to any such company for like and similar transportation; and the amount so fixed to be paid shall be accepted as in full for all demands for such service."
+Act Apr. 30, 1908, ch. 153, 35 Stat. 73, provided: "That hereafter payment for transportation of Indian goods and supplies shall include all Indian transportation lawfully due such land-grant railroads as have not received aid in Government bonds (to be adjusted in accordance with the decisions of the Supreme Court in cases decided under such land-grant Acts), but in no case shall more than 50 per centum of full amount of service be paid to said land-grant roads: <i>Provided</i>, That such compensation shall be computed upon the basis of the tariff or lower special rates for like transportation performed for the public at large, and shall be accepted as in full for all demands for such service: <i>Provided further</i>, That hereafter in expending money appropriated for this purpose a railroad company which has not received aid in bonds of the United States, and which obtained a grant of public lands to aid in the construction of its railroad on condition that such railroad should be a post route and military road, subject to the use of the United States for postal, military, naval, and other Government services, and also subject to such regulations as Congress may impose, restricting the charge for such government transportation, having claims against the United States for transportation of Indian goods and supplies over such aided railroads, shall be paid out of the moneys appropriated for such purpose only on the basis of such rate for the transportation of such Indian goods and supplies as the Secretary of the Interior shall deem just and reasonable under the provisions set forth herein, such rate not to exceed 50 per centum of the compensation for such Government transportation as shall at that time be charged to and paid by private parties to any such company for like and similar transportation; and the amount so fixed to be paid shall be accepted as in full for all demands for such service."
 
 \[Act Apr. 30, 1908, set out above, was formerly classified to section 443b of Title 25, Indians, prior to editorial reclassification as this note.\]
 
@@ -138,7 +190,7 @@ Bureau of Reclamation—Act June 17, 1902, ch. 1093, 32 Stat. 388.
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(D), (3) of Title 42, The Public Health and Welfare, and to be exercised by Secretary through a separate Administration within Department of Energy.
 
-Division of Territories and Island Possessions—Ex. Ord. No. 6726 of May 29, 1934. Functions of Division transferred to Office of Territories established July 28, 1950, pursuant to Secretarial Order No. 2577. Office of Territories ceased to exist on June 30, 1971, and its functions assigned to Deputy Assistant Secretary for Territorial Affairs in Office of the Assistant Secretary for Public Land Management by Secretarial Order No. 2942, eff. July 1, 1971. Subsequently, functions and responsibilities of Deputy Assistant Secretary were assumed by Office of Territorial Affairs, headed by a Director, established by Secretarial Order No. 2951 of Feb. 6, 1973. Functions and responsibilities of Office of Territorial Affairs transferred to Office of Assistant Secretary for Territorial and International Affairs established by Secretarial Order No. 3046 of Feb. 14, 1980, as amended May 14, 1980.
+Division of Territories and Island Possessions—Ex. Ord. No. 6726 of May 29, 1934. Functions of Divisiontransferred to Office of Territories established July 28, 1950, pursuant to Secretarial Order No. 2577. Office of Territories ceased to exist on June 30, 1971, and its functions assigned to Deputy Assistant Secretary for Territorial Affairs in Office of the Assistant Secretary for Public Land Management by Secretarial Order No. 2942, eff. July 1, 1971. Subsequently, functions and responsibilities of Deputy Assistant Secretary were assumed by Office of Territorial Affairs, headed by a Director, established by Secretarial Order No. 2951 of Feb. 6, 1973. Functions and responsibilities of Office of Territorial Affairs transferred to Office of Assistant Secretary for Territorial and International Affairs established by Secretarial Order No. 3046 of Feb. 14, 1980, as amended May 14, 1980.
 
 Fish and Wildlife Service—1939 Reorg. Plan No. II, §4(e), (f), 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, was succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1119. See section 742b of Title 16, Conservation.
 
@@ -190,7 +242,7 @@ Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establis
 
 (b) <i>Standardized Documentation of Data</i>. Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date of this order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
 
-(c) <i>Public Access to Geospatial Data</i>. Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130 ("Management of Federal Information Resources") and any implementing bulletins.
+(c) <i>Public Access to Geospatial Data</i>. Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130\("Management of Federal Information Resources") and any implementing bulletins.
 
 (d) <i>Agency Utilization of the Clearinghouse</i>. Within 1 year of the date of this order, each agency shall adopt internal procedures to ensure that the agency accesses the Clearinghouse before it expends Federal funds to collect or produce new geospatial data, to determine whether the information has already been collected by others, or whether cooperative efforts to obtain the data are possible.
 

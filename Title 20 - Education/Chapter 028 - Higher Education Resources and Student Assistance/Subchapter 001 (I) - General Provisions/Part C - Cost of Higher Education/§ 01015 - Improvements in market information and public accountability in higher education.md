@@ -66,7 +66,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 &emsp;&emsp;(B) the relationship of the expenditures identified in paragraph (1) to college costs; and
 
-&emsp;&emsp;(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students withlimited need in order to attract a student to a particular institution, and the extent to which Federal financial aid, including loan aid, has been used to offset the costs of such practices.
+&emsp;&emsp;(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federal financial aid, including loan aid, has been used to offset the costs of such practices.
 
 #### (3) Final report
 
@@ -198,7 +198,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review all of the application requirements prior to applying for any aid or program of student financial assistance; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistance presented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
+&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistancepresented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
 
 #### (C) Compilation of financial assistance information
 
@@ -214,7 +214,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (5) Dissemination of information
 
-&emsp;The Secretary shall take such actions, on an ongoing basis, as may be necessary to disseminate information under this subsection and toencourage the use of the information by interested parties, including sending notices to secondary schools and institutions of higher education.
+&emsp;The Secretary shall take such actions, on an ongoing basis, as may be necessary to disseminate information under this subsection and to encourage the use of the information by interested parties, including sending notices to secondary schools and institutions of higher education.
 
 #### (h) No user fees for Department financial aid websites
 

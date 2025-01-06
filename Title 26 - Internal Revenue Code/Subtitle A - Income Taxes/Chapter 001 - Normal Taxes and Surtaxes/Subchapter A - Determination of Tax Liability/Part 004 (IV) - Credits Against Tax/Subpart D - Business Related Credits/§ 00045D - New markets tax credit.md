@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (B) Proprietorship
 
-&emsp;&emsp;Such term shall include any business carried on by an individual as a proprietor ifsuch business would meet the requirements of subparagraph (A) were it incorporated.
+&emsp;&emsp;Such term shall include any business carried on by an individual as a proprietor if such business would meet the requirements of subparagraph (A) were it incorporated.
 
 #### (C) Portions of business may be qualified active low-income community business
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (2) Targeted populations
 
-&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations.
+&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations\(within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations.
 
 #### (3) Areas not within census tracts
 
@@ -342,7 +342,7 @@ Pub. L. 112–240, title III, §305(c), Jan. 2, 2013, 126 Stat. 2329, provided t
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §733(c), Dec. 17, 2010, 124 Stat. 3318, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years beginning after 2009."
+Pub. L. 111–312, title VII, §733(c), Dec. 17, 2010, 124 Stat. 3318, provided that: "The amendments made bythis section \[amending this section\] shall apply to calendar years beginning after 2009."
 
 #### Effective Date of 2006 Amendment
 

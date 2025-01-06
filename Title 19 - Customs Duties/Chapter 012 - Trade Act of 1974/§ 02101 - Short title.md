@@ -22,7 +22,7 @@ Pub. L. 117–110, §1, Apr. 8, 2022, 136 Stat. 1159, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–27, §1(a), June 29, 2015, 129 Stat. 362, provided that: "This Act \[see Tables for classification\]may be cited as the 'Trade Preferences Extension Act of 2015'."
+Pub. L. 114–27, §1(a), June 29, 2015, 129 Stat. 362, provided that: "This Act \[see Tables for classification\] may be cited as the 'Trade Preferences Extension Act of 2015'."
 
 Pub. L. 114–27, title IV, §401, June 29, 2015, 129 Stat. 373, provided that: "This title \[see Tables for classification\] may be cited as the 'Trade Adjustment Assistance Reauthorization Act of 2015'."
 

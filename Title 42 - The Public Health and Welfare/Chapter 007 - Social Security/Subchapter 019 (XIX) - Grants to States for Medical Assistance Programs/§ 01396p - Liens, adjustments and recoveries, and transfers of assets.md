@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) at the option of the State, any items or services under the State plan (but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title).
 
-&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause\(ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
+&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
 
 &emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, and which satisfies clause (iv), or which has a State plan amendment that provides for a qualified State long-term care insurance partnership (as defined in clause (iii)) which provided for the disregard of any assets or resources—
 
@@ -162,7 +162,7 @@
 
 (B) For purposes of this paragraph and paragraph (1)(C)—
 
-&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurancemodel regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
+&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
 
 &emsp;(ii) any provision of the model regulation or model Act listed under subparagraph (A) shall be treated as including any other provision of such regulation or Act necessary to implement the provision; and
 
@@ -208,7 +208,7 @@
 
 &emsp;(II) the average monthly cost to a private patient of nursing facility services in the State (or, at the option of the State, in the community in which the individual is institutionalized) at the time of application.
 
-(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) withrespect to the disposal of an asset shall be reduced—
+(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) with respect to the disposal of an asset shall be reduced—
 
 &emsp;(I) in the case of periods of ineligibility determined under clause (i), by the number of months of ineligibility applicable to the individual under clause (ii) as a result of such disposal, and
 
@@ -380,7 +380,7 @@
 
 #### (f) Disqualification for long-term care assistance for individuals with substantial home equity
 
-(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistanceif the individual's equity interest in the individual's home exceeds $500,000.
+(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
 
 (B) A State may elect, without regard to the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability), to apply subparagraph (A) by substituting for "$500,000", an amount that exceeds such amount, but does not exceed $750,000.
 
@@ -434,7 +434,7 @@ In this section, the following definitions shall apply:
 
 &emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat. 507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 114–255, div. A, title V, §5007(a), Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298.)
+(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub.L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat. 507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 114–255, div. A, title V, §5007(a), Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298.)
 
 #### <b>Editorial Notes</b>
 
@@ -444,7 +444,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(1)(C)(iii)(II) an
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(3), and provided that theprovisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(3), and provided that the provisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
 
 <b>2016</b>—Subsec. (d)(4)(A). Pub. L. 114–255 inserted "the individual," after "for the benefit of such individual by".
 
@@ -456,7 +456,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(1)(C)(iii)(II) an
 
 > was repealed by Pub. L. 115–123, §53102(b)(1).
 
-<b>2009</b>—Subsec. (b)(3). Pub. L. 111–5 designated existing provisions as subpar. (A) and added subpar. (B)
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–5 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>2008</b>—Subsec. (b)(1)(B)(ii). Pub. L. 110–275 inserted "(but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title)" before period at end.
 
@@ -520,7 +520,7 @@ Subsec. (c)(2)(B). Pub. L. 103–66, §13611(a)(2)(B), amended subpar. (B) gener
 
 Subsec. (c)(2)(C). Pub. L. 103–66, §13611(a)(2)(C), in introductory provisions, substituted "with regulations" for "with any regulations", in cl. (i), substituted "assets" for "resources" and struck out "or" at end, in cl. (ii), substituted "assets" for "resources" and ", or" for "; or", and added cl. (iii).
 
-Subsec. (c)(2)(D). Pub. L. 103–66, §13611(a)(2)(D), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the State determines that denial of eligibility would work an undue hardship."
+Subsec. (c)(2)(D). Pub. L. 103–66, §13611(a)(2)(D), amended subpar. (D) generally. Prior to amendment,subpar. (D) read as follows: "the State determines that denial of eligibility would work an undue hardship."
 
 Subsec. (c)(3). Pub. L. 103–66, §13611(a)(2)(E), added par. (3) and struck out former par. (3) which read as follows: "In this subsection, the term 'institutionalized individual' means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title."
 
@@ -534,7 +534,7 @@ Subsec. (e). Pub. L. 103–66, §13611(c), added subsec. (e).
 
 Subsec. (c)(2)(B)(i). Pub. L. 101–239, §6411(e)(1)(B)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "to (or to another for the sole benefit of) the community spouse, as defined in section 1396r–5(h)(2) of this title,,".
 
-Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out ", or" after "subparagraph\(A)(ii)(II)" in cl. (ii) and struck out cl. (iii) which read as follows: "to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value".
+Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out ", or" after "subparagraph (A)(ii)(II)" in cl. (ii) and struck out cl. (iii) which read as follows: "to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value".
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–360, §303(b), amended subsec. (c) generally, substituting pars. (1) to (4) relating to taking into account certain transfers of assets, for former pars. (1) to (3) relating to denial of medical assistance, period of eligibility, and exceptions.
 
@@ -588,7 +588,7 @@ Pub. L. 109–171, title VI, §6011(c), Feb. 8, 2006, 120 Stat. 62, provided tha
 
 Pub. L. 109–171, title VI, §6012(d), Feb. 8, 2006, 120 Stat. 64, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions (including the purchase of an annuity) occurring on or after the date of the enactment of this Act \[Feb. 8, 2006\]."
 
-Pub. L. 109–171, title VI, §6014(b), Feb. 8, 2006, 120 Stat. 65, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to individuals who are determined eligible for medical assistance with respect to nursing facility services or other long-term care services based on an application filed on or after January 1, 2006."
+Pub. L. 109–171, title VI, §6014(b), Feb. 8, 2006, 120 Stat. 65, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to individuals who are determined eligible for medical assistance with respect to nursing facility services or other long-termcare services based on an application filed on or after January 1, 2006."
 
 Pub. L. 109–171, title VI, §6016(e), Feb. 8, 2006, 120 Stat. 67, provided that:
 
@@ -608,7 +608,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 "(3)
 
-Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of theenactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature."
+Extension of effective date for state law amendment.—In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature."
 
 #### Effective Date of 1993 Amendment
 
@@ -678,7 +678,7 @@ Pub. L. 109–171, title VI, §6011(d), Feb. 8, 2006, 120 Stat. 62, provided tha
 
 #### Expansion of State Long-Term Care Partnership Program
 
-Pub. L. 109–171, title VI, §6021, Feb. 8, 2006, 120 Stat. 68, as amended by Pub. L. 111–148, title VIII, §8002(d), title X, §10801(c), Mar. 23, 2010, 124 Stat. 847, 1015; Pub.L. 112–240, title VI, §642(b)(3), Jan. 2, 2013, 126 Stat. 2358, provided that:
+Pub. L. 109–171, title VI, §6021, Feb. 8, 2006, 120 Stat. 68, as amended by Pub. L. 111–148, title VIII, §8002(d), title X, §10801(c), Mar. 23, 2010, 124 Stat. 847, 1015; Pub. L. 112–240, title VI, §642(b)(3), Jan. 2, 2013, 126 Stat. 2358, provided that:
 
 "(a)
 

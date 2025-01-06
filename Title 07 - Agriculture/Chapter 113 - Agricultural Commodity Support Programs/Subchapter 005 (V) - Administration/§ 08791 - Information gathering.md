@@ -26,7 +26,7 @@ The Secretary shall ensure that all the geospatial data of the agencies of the D
 
 &emsp;&emsp;&emsp;(i) when providing technical or financial assistance with respect to the agricultural operation, agricultural land, or farming or conservation practices; or
 
-&emsp;&emsp;&emsp;(ii) when responding to a disease or pest threat to agricultural operations, if the Secretary determines that a threat to agricultural operations exists and the disclosure of information to a person or cooperating government entity is necessary to assist the Secretary in responding to thedisease or pest threat as authorized by law.
+&emsp;&emsp;&emsp;(ii) when responding to a disease or pest threat to agricultural operations, if the Secretary determines that a threat to agricultural operations exists and the disclosure of information to a person or cooperating government entity is necessary to assist the Secretary in responding to the disease or pest threat as authorized by law.
 
 #### (4) Exceptions
 

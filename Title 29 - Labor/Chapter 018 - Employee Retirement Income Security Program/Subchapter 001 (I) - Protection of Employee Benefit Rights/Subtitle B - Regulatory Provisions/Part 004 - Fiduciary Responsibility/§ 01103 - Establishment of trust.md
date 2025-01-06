@@ -42,7 +42,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 (2)(A) In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III—
 
-&emsp;(i) if such contribution or payment is made by an employer to a plan (other than a multiemployer plan) by a mistake of fact, paragraph (1) shall not prohibit the return of suchcontribution to the employer within one year after the payment of the contribution, and
+&emsp;(i) if such contribution or payment is made by an employer to a plan (other than a multiemployer plan) by a mistake of fact, paragraph (1) shall not prohibit the return of such contribution to the employer within one year after the payment of the contribution, and
 
 &emsp;(ii) if such contribution or payment is made by an employer to a multiemployer plan by a mistake of fact or law (other than a mistake relating to whether the plan is described in section 401(a) of title 26 or the trust which is part of such plan is exempt from taxation under section 501(a) of title 26), paragraph (1) shall not prohibit the return of such contribution or payment to the employer within 6 months after the plan administrator determines that the contribution was made by such a mistake.
 
@@ -96,7 +96,7 @@ Subsec. (c)(2)(A). Pub. L. 101–239, §7894(e)(1)(A), in introductory provision
 
 Subsec. (c)(3), (4). Pub. L. 101–239, §7881(k), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "In the case of a contribution which would otherwise be an excess contribution (as defined in section 4979(c) of title 26) paragraph (1) shall not prohibit a correcting distribution with respect to such contribution from the plan to the employer to the extent permitted in such section to avoid payment of an excise tax on excess contributions under such section."
 
-<b>1987</b>—Subsec. (c)(2)(B). Pub. L. 100–203, §9343(c)(1), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "If a contribution is conditioned on qualification of the plan under section 401, 403(a), or 405(a) of title 26, and if the plan does not qualify, then paragraph (1) shall not prohibit the return of such contributions to the employer within one year after the date of denial of qualification of the plan."
+<b>1987</b>—Subsec. (c)(2)(B). Pub. L. 100–203, §9343(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "If a contribution is conditioned on qualification of the plan under section 401, 403(a), or 405(a) of title 26, and if the plan does not qualify, then paragraph (1) shall not prohibit the return of such contributions to the employer within one year after the date of denial of qualification of the plan."
 
 Subsec. (c)(3). Pub. L. 100–203, §9343(c)(2), substituted "section 4979(c) of title 26" for "section 4972(b) of title 26".
 

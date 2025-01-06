@@ -48,7 +48,7 @@ Subsec. (b)(1). Pub. L. 102–83, §5(c)(1), substituted "3674(a)" for "1774(a)"
 
 #### Implementation
 
-Pub. L. 100–323, §13(b)(2), May 20, 1988, 102 Stat. 573, directed Administrator, for purposes of implementing amendments by section 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section, directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State's standards and prototype standards.
+Pub. L. 100–323, §13(b)(2), May 20, 1988, 102 Stat. 573, directed Administrator, for purposes of implementing amendments by section 13(b)(1) of Pub. L. 100–323, and within 120 days after May 20, 1988, to publish prototype standards developed under subsec. (a)(5) of this section,directed each State approving agency, within 1 year after Administrator published the standards, to submit to Administrator a copy of the standards to be implemented by such agency under subsec. (b)(1)(A) of this section, and provided that Administrator could comment on consistency of the State's standards and prototype standards.
 
 #### Applicability of Qualification Standards to Persons Employed on May 20, 1988
 

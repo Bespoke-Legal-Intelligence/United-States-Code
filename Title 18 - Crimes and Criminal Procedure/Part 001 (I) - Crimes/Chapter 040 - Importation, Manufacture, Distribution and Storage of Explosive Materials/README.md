@@ -9,7 +9,7 @@
 | [845\.](%C2%A7%2000845%20-%20Exceptions%3B%20relief%20from%20disabilities.md) | Exceptions; relief from disabilities. |
 | [846\.](%C2%A7%2000846%20-%20Additional%20powers%20of%20the%20Attorney%20General.md) | Additional powers of the Attorney General. |
 | [847\.](%C2%A7%2000847%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [848\.](%C2%A7%2000848%20-%20Effect%20on%20State%20law.md) | Effect on State law. |
+| [848\.](%C2%A7%2000848%20-%20Effect%20on%20State%20law.md) | Effect on State law.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

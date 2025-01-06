@@ -46,7 +46,7 @@
 
 (2) Paragraph (1) of this subsection does not apply to benefits under chapters 19 and 37 of this title.
 
-(d)(1) Notwithstanding any other provision of law and except as provided in paragraph (3) of this subsection, a person described in paragraph\(2) of this subsection who is discharged or released from a period of active duty before completing the shorter of—
+(d)(1) Notwithstanding any other provision of law and except as provided in paragraph (3) of this subsection, a person described in paragraph (2) of this subsection who is discharged or released from a period of active duty before completing the shorter of—
 
 &emsp;(A) 24 months of continuous active duty, or
 
@@ -64,7 +64,7 @@
 
 &emsp;(A) to any person described in clause (A), (B), or (C) of subsection (b)(3) of this section; or
 
-&emsp;(B) with respect to a benefit under (i) the Social Security Act other than additional wages deemed to have been paid, under section 229(a) <sup>1</sup> of the Social Security Act (42 U.S.C. 429(a)), for any calendar quarter beginning after October 13, 1982, or (ii) title 5 other than a benefit based on meeting the definition of preference eligible in section 2108(3) of such title.
+&emsp;(B) with respect to a benefit under (i) the Social Security Act other than additional wages deemed to have been paid, under section 229(a) <sup>1</sup> of the Social Security Act (42 U.S.C.429(a)), for any calendar quarter beginning after October 13, 1982, or (ii) title 5 other than a benefit based on meeting the definition of preference eligible in section 2108(3) of such title.
 
 (e) For the purposes of this section, the term "benefit" includes a right or privilege, but does not include a refund of a participant's contributions to the educational benefits program provided by chapter 32 of this title.
 

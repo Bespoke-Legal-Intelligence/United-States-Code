@@ -70,7 +70,7 @@ Subsec. (a)(1)(E). Joint Res. Oct. 25, 1949, struck out proviso and inserted new
 
 <b>1948</b>—Act July 1, 1948, amended section generally to create a Federal National Mortgage Association with power to purchase, service, or sell insured or guaranteed mortgage, provide for the powers and succession of the Association, and to eliminate the former national mortgage association.
 
-Subsec. (a)(1). Act Aug. 10, 1948, §§201, 202, substituted "subchapter II or VI of this chapter" for "section 1709 or 1738 of this title", inserted "after April 30, 1948", after "or guaranteed", and substituted "50" for "25" in cl. (2) of par. (1) (E).
+Subsec. (a)(1). Act Aug. 10, 1948, §§201, 202, substituted "subchapter II or VI of this chapter" for "section 1709or 1738 of this title", inserted "after April 30, 1948", after "or guaranteed", and substituted "50" for "25" in cl. (2) of par. (1) (E).
 
 <b>1941</b>—Subsec. (a)(2). Act Mar. 28, 1941, substituted "subchapters II and VI" for "subchapter II".
 

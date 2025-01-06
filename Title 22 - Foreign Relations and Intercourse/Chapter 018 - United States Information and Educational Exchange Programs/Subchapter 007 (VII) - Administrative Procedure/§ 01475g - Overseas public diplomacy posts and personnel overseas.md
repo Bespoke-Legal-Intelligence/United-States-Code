@@ -54,7 +54,7 @@ Requirements.—The guidelines required by subsection (a) shall include the foll
 
 &emsp;"(1) Standardized notification to each chief of mission at a diplomatic post describing the requirements of the Secure Embassy Construction and Counterterrorism Act of 1999 and the impact on the mission footprint of such requirements.
 
-&emsp;"(2) An assessment and recommendations from each chief of mission of potential impacts to public diplomacy programming at such diplomatic post if any public diplomacy facility referred to in subsection (a) is closed or staff is co-located in accordance with such Act.
+&emsp;"(2) An assessment and recommendations from each chief of mission of potential impacts to public diplomacy programming at such diplomatic post if any public diplomacy facility referred to in subsection (a)is closed or staff is co-located in accordance with such Act.
 
 &emsp;"(3) A process by which assessments and recommendations under paragraph (2) are considered by the Secretary and the appropriate Under Secretaries and Assistant Secretaries of the Department.
 

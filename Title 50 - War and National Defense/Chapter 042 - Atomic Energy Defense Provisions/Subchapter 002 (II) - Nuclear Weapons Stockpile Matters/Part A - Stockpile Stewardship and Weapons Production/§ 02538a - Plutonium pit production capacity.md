@@ -26,7 +26,7 @@ If the Secretary of Energy does not make a certification under subsection (b) by
 
 #### (1) Requirement
 
-&emsp;Not later than 30 days after the date on which a covered project achieves a critical decision milestone, the Assistant Secretary for Environmental Management and the DeputyAdministrator for Defense Programs shall jointly certify to the congressional defense committees that the operations, infrastructure, and workforce of such project are adequate to carry out the delivery and disposal of planned waste shipments relating to the plutonium enterprise, as outlined in the critical decision memoranda of the Department of Energy with respect to such project.
+&emsp;Not later than 30 days after the date on which a covered project achieves a critical decision milestone, the Assistant Secretary for Environmental Management and the Deputy Administrator for Defense Programs shall jointly certify to the congressional defense committees that the operations, infrastructure, and workforce of such project are adequate to carry out the delivery and disposal of planned waste shipments relating to the plutonium enterprise, as outlined in the critical decision memoranda of the Department of Energy with respect to such project.
 
 #### (2) Failure to certify
 
@@ -36,7 +36,7 @@ If the Secretary of Energy does not make a certification under subsection (b) by
 
 #### (1) Requirement
 
-&emsp;Not later than March 1 of each year during the period beginning on the date on which the first covered project achieves critical decision 2 in the acquisition process and ending on the date on which the second project achieves critical decision 4 and begins operations, the Administrator for Nuclear Security shall submit to the congressional defense committees a report on the planned production goals of both covered projects during the first 10 years of the operation of the projects.
+&emsp;Not later than March 1 of each year during the period beginning on the date on which the first covered project achieves critical decision 2 in the acquisition process and ending on the date on which the second project achieves critical decision 4 and begins operations, the Administrator for Nuclear Security shall submit to the congressional defense committees a report on the planned production goals of bothcovered projects during the first 10 years of the operation of the projects.
 
 #### (2) Elements
 

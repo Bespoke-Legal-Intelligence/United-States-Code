@@ -28,7 +28,7 @@ Requirement.—Except as provided in subsection (e), beginning on October 1, 203
 
 (e)
 
-Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.—Notwithstanding the requirement under subsection (d), beginning on October 1, 2035, theSecretary of Defense may authorize the purchase or lease of a covered nontactical vehicle that is not described in such subsection if the Secretary determines, on a case-by-case basis, that—
+Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.—Notwithstanding the requirement under subsection (d), beginning on October 1, 2035, the Secretary of Defense may authorize the purchase or lease of a covered nontactical vehicle that is not described in such subsection if the Secretary determines, on a case-by-case basis, that—
 
 &emsp;(1) the technology used in the vehicle to be purchased or leased reduces the consumption of fossil fuels compared to vehicles that use conventional internal combustion technology;
 
@@ -46,7 +46,7 @@ Waiver.—(1) The Secretary of Defense may waive the requirement under subsectio
 
 Definitions.—In this section:
 
-&emsp;(1) The term "advanced-biofuel-powered vehicle" includes a vehicle that uses a fuel described in section 9001(3)(A) of the Farm Security and Rural Investment Act of 2202 <sup>1</sup> (7 U.S.C. 8101(3)(A)).
+&emsp;(1) The term "advanced-biofuel-powered vehicle" includes a vehicle that uses a fuel described in section 9001(3)(A) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8101(3)(A)).
 
 &emsp;(2) The term "covered nontactical vehicle" means any vehicle—
 
@@ -56,11 +56,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "hydrogen-powered vehicle" means a vehicle that uses hydrogen as the main source of motive power, either through a fuel cell or internal combustion.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, §2844(a), Oct. 28, 2009, 123 Stat. 2682; amended Pub. L. 112–81, div. B, title XXVIII, §2821(b)(3), Dec. 31, 2011, 125 Stat. 1691; Pub. L. 117–263, div. A, title III, §317(a), Dec. 23, 2022, 136 Stat. 2506.)
+(Added Pub. L. 111–84, div. B, title XXVIII, §2844(a), Oct. 28, 2009, 123 Stat. 2682; amended Pub. L. 112–81, div. B, title XXVIII, §2821(b)(3), Dec. 31, 2011, 125 Stat. 1691; Pub. L. 117–263, div. A, title III, §317(a), Dec. 23, 2022, 136 Stat. 2506; Pub. L. 118–159, div. A, title XVII, §1701(a)(33), Dec. 23, 2024, 138 Stat. 2205.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (g)(1). Pub. L. 118–159 substituted "2002" for "2202".
 
 <b>2022</b>—Pub. L. 117–263, §317(a)(1), substituted "systems; purchase or lease of certain electric and other vehicles" for "systems" in section catchline.
 
@@ -109,6 +111,4 @@ Definitions.—In this section:
 &emsp;"(7) The term 'non-tactical vehicle' means a vehicle other than a tactical vehicle.
 
 &emsp;"(8) The term 'tactical vehicle' means a motor vehicle designed to military specification, or a commercial design motor vehicle modified to military specification, to provide direct transportation support of combat or tactical operations, or for the training of personnel for such operations."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "2002".</i>
 

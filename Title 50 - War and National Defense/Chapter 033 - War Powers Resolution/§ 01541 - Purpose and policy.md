@@ -2,11 +2,11 @@
 
 #### (a) Congressional declaration
 
-It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collective judgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
+It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collective judgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities isclearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
 
 #### (b) Congressional legislative power under necessary and proper clause
 
-Under article I, section 8, of the Constitution, it is specifically provided that the Congressshall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
+Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
@@ -120,9 +120,9 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas United Nations Security Council Resolution 678 (1990) authorizes the use of all necessary means to enforce United Nations Security Council Resolution 660 (1990) and subsequent relevant resolutions and to compel Iraq to cease certain activities that threaten international peace and security, including the development of weapons of mass destruction and refusal or obstruction of United Nations weapons inspections in violation of United Nations Security Council Resolution 687 (1991), repression of its civilian population in violation of United Nations Security Council Resolution 688 (1991), and threatening its neighbors or United Nations operations in Iraq in violation of United Nations Security Council Resolution 949 (1994);
 
-"Whereas in the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1) \[set out as a note below\], Congress has authorized the President 'to use United States Armed Forces pursuant to United Nations Security Council Resolution 678 (1990) in order to achieve implementation of Security Council Resolution 660, 661, 662, 664, 665, 666, 667, 669, 670, 674, and 677';
+"Whereas in the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1) \[set out as a note below\], Congress has authorized the President 'to use United States Armed Forces pursuant to United Nations Security Council Resolution678 (1990) in order to achieve implementation of Security Council Resolution 660, 661, 662, 664, 665, 666, 667, 669, 670, 674, and 677';
 
-"Whereas in December 1991, Congress expressed its sense that it 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 687 as being consistent with the Authorization of Use of Military Force Against IraqResolution (Public Law 102–1),' that Iraq's repression of its civilian population violates United Nations Security Council Resolution 688 and 'constitutes a continuing threat to the peace, security, and stability of the Persian Gulf region,' and that Congress, 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 688';
+"Whereas in December 1991, Congress expressed its sense that it 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 687 as being consistent with the Authorization of Use of Military Force Against Iraq Resolution (Public Law 102–1),' that Iraq's repression of its civilian population violates United Nations Security Council Resolution 688 and 'constitutes a continuing threat to the peace, security, and stability of the Persian Gulf region,' and that Congress, 'supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 688';
 
 "Whereas the Iraq Liberation Act of 1998 (Public Law 105–338) \[former 22 U.S.C. 2151 note\] expressed the sense of Congress that it should be the policy of the United States to support efforts to remove from power the current Iraqi regime and promote the emergence of a democratic government to replace that regime;
 
@@ -202,7 +202,7 @@ Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
 
 "Whereas, on September 11, 2001, acts of treacherous violence were committed against the United States and its citizens; and
 
-"Whereas, such acts render it both necessary and appropriate that the United States exercise its rights toself-defense and to protect United States citizens both at home and abroad; and
+"Whereas, such acts render it both necessary and appropriate that the United States exercise its rights to self-defense and to protect United States citizens both at home and abroad; and
 
 "Whereas, in light of the threat to the national security and foreign policy of the United States posed by these grave acts of violence; and
 
@@ -388,7 +388,7 @@ Pub. L. 103–139, title VIII, §8151, Nov. 11, 1993, 107 Stat. 1475, provided t
 
 &emsp;&emsp;"(A) United States military logistical support services to United Nations forces; and
 
-&emsp;&emsp;"(B) United States combat forces in a security role and as an interim force protection supplement to United Nations units: <i>Provided</i>, That funds appropriated, or otherwise made available, in this or any other Act to the Department of Defense may be obligated for expenses incurred only through March 31, 1994, for the operations of United States Armed Forces in Somalia: <i>Provided further</i>, That such date may be extended if so requested by the President and authorized by the Congress: <i>Provided further</i>, That funds may be obligated beyond March 31, 1994 to support a limited number of United States military personnel sufficient only to protect American diplomatic facilities and American citizens, and noncombat personnel to advise the United Nations commander in Somalia: <i>Provided further</i>, That United States combat forces in Somalia shall be under the command and control of United States commanders under the ultimate direction of the President of the United States: <i>Provided further</i>, That the President should intensify efforts to have United Nations member countries immediately deploy additional troops to Somalia to fulfill previous force commitments made to the United Nations and to deploy additional forces to assume the securitymissions of United States Armed Forces: <i>Provided further</i>, That—
+&emsp;&emsp;"(B) United States combat forces in a security role and as an interim force protection supplement to United Nations units: <i>Provided</i>, That funds appropriated, or otherwise made available, in this or any other Act to the Department of Defense may be obligated for expenses incurred only through March 31, 1994, for the operations of United States Armed Forces in Somalia: <i>Provided further</i>, That such date may be extended if so requested by the President and authorized by the Congress: <i>Provided further</i>, That funds may be obligated beyond March 31, 1994 to support a limited number of United States military personnel sufficient only to protect American diplomatic facilities and American citizens, and noncombat personnel to advise the United Nations commander in Somalia: <i>Provided further</i>, ThatUnited States combat forces in Somalia shall be under the command and control of United States commanders under the ultimate direction of the President of the United States: <i>Provided further</i>, That the President should intensify efforts to have United Nations member countries immediately deploy additional troops to Somalia to fulfill previous force commitments made to the United Nations and to deploy additional forces to assume the security missions of United States Armed Forces: <i>Provided further</i>, That—
 
 &emsp;&emsp;&emsp;"(i) captured United States personnel in Somalia should be treated humanely and fairly; and
 
@@ -480,7 +480,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8101\], Oct. 12, 1984, 98 St
 
 &emsp;"(1) United States Armed Forces should not be introduced into or over the countries of Central America for combat; and
 
-&emsp;"(2) if circumstances change from those present on the date of the enactment of this Act \[Oct. 12, 1984\] and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consultwith Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\]."
+&emsp;"(2) if circumstances change from those present on the date of the enactment of this Act \[Oct. 12, 1984\] and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consult with Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\]."
 
 #### Multinational Force in Lebanon Resolution
 
@@ -562,9 +562,9 @@ Sec. 6. The participation of United States Armed Forces in the Multinational For
 
 "
 
-Sec. 7. (a) Nothing in this joint resolution shall preclude the President from withdrawing United States Armed Forces participation in the Multinational Force in Lebanon if circumstances warrant, and nothing in this joint resolution shall preclude the Congress by joint resolution from directing such a withdrawal.
+Sec. 7. (a) Nothing in this joint resolution shall preclude the President from withdrawing United StatesArmed Forces participation in the Multinational Force in Lebanon if circumstances warrant, and nothing in this joint resolution shall preclude the Congress by joint resolution from directing such a withdrawal.
 
-"(b) Nothing in this joint resolution modifies, limits, or supersedes any provision of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] or the requirement of section 4(a) of the Lebanon Emergency Assistance Act of 1983, relating to congressional authorization for anysubstantial expansion in the number or role of United States Armed Forces in Lebanon.
+"(b) Nothing in this joint resolution modifies, limits, or supersedes any provision of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] or the requirement of section 4(a) of the Lebanon Emergency Assistance Act of 1983, relating to congressional authorization for any substantial expansion in the number or role of United States Armed Forces in Lebanon.
 
 #### "congressional priority procedures for amendments
 

@@ -32,7 +32,7 @@
 
 > an amount equal to 90 percent of the amount it received under this subsection in its second year of participation.
 
-(D) For any fiscal year after a fiscal year in which an institution receives an allocation under subparagraph (A), (B), or (C), the Secretary shall allocate to such institution an amount equal to the product of—
+(D) For any fiscal year after a fiscal year in which an institution receives an allocationunder subparagraph (A), (B), or (C), the Secretary shall allocate to such institution an amount equal to the product of—
 
 &emsp;(i) the amount determined under subparagraph (A), (B), or (C), multiplied by
 
@@ -48,7 +48,7 @@
 
 &emsp;(ii) the amount of the allocation to each institution under paragraph (2) shall be ratably reduced.
 
-(C) If additional amounts are appropriated for any such fiscal year, such reduced amounts shallbe increased on the same basis as they were reduced (until the amount allocated equals the amount required to be allocated under paragraphs (1) and (2) of this subsection).
+(C) If additional amounts are appropriated for any such fiscal year, such reduced amounts shall be increased on the same basis as they were reduced (until the amount allocated equals the amount required to be allocated under paragraphs (1) and (2) of this subsection).
 
 #### (b) Allocation of excess based on share of excess eligible amounts
 
@@ -80,7 +80,7 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish a student aid index for each income category of dependent and independent undergraduate students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
 
 &emsp;(G) add the amounts determined under subparagraph (F) for each income category of independent students; and
 
@@ -106,11 +106,11 @@
 
 &emsp;(A) establish various income categories for graduate and professional students;
 
-&emsp;(B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish a student aid index for each income category of graduate and professionalstudents, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) determine the average cost of attendance for all graduate and professional students;
 
-&emsp;(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+&emsp;(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the student aid index (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
 
 &emsp;(E) multiply the amounts determined under subparagraph (D) by the number of eligible students in each category;
 
@@ -118,7 +118,7 @@
 
 (4)(A) For purposes of paragraphs (2) and (3), the term "average cost of attendance" means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
-(B) The average undergraduate and graduate and professional tuition and fees described insubparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
+(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
 (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
 
@@ -190,7 +190,7 @@
 
 #### (g) "Cohort default rate" defined
 
-(1)(A) The term "cohort default rate" means, for any award year in which 30 or more currentand former students at the institution enter repayment on loans under this part (received for attendance at the institution), the percentage of those current and former students who enter repayment on such loans (received for attendance at that institution) in that award year who default before the end of the following award year.
+(1)(A) The term "cohort default rate" means, for any award year in which 30 or more current and former students at the institution enter repayment on loans under this part (received for attendance at the institution), the percentage of those current and former students who enter repayment on such loans (received for attendance at that institution) in that award year who default before the end of the following award year.
 
 (B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term "cohort default rate" means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
 
@@ -257,18 +257,6 @@ The Secretary shall, from time to time, set dates before which institutions must
 &emsp;If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
 (Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947; Pub. L. 116–260, div. FF, title VII, §704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3199, 3200.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:</i>
-
-<i>(1) by striking "the expected family contribution" each place the term appears and inserting "the student aid index";</i>
-
-<i>(2) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and</i>
-
-<i>(3) by striking "average expected family contribution" each place the term appears and inserting "average student aid index".</i>
-
-<i>See 2020 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -348,7 +336,7 @@ Subsec. (d)(2). Pub. L. 105–244, §462(e)(3), inserted "cohort" before "defaul
 
 Subsec. (e). Pub. L. 105–244, §462(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-"(1) For any fiscal year prior to fiscal year 1994, any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.
+"(1) For any fiscal year prior to fiscal year 1994, any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of suchdefault rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.
 
 "(2) For fiscal year 1994 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (h) of this section) which—
 
@@ -442,7 +430,7 @@ Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior t
 
 Subsec. (h). Pub. L. 102–325, §462(e), substituted "Definitions of default rate and cohort default rate" for "Definition of default rate" in heading, in par. (1) substituted "For any award year prior to award year 1994, for the purpose" for "For the purpose", added par. (3), redesignated former par. (3) as (4), substituted "240" for "120" in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: "180 days (in the case of a loan repayable quarterly),".
 
-Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions."
+Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "If an institution returns to the Secretary any portion of the sums allocated to such institution underthis section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions."
 
 <b>1987</b>—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting "of Federal capital contribution such institution received" for "such institution expended".
 
@@ -456,7 +444,7 @@ Subsec. (f). Pub. L. 100–50, §13(d), substituted "subsection (g) of this sect
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicablewith respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

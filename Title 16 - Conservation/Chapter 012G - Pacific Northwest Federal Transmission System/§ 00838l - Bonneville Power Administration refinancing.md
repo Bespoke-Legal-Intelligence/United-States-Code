@@ -30,7 +30,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) for an old capital investment, a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding October 1, 1996, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between October 1, 1996, and the repayment date for the old capital investment; and
 
-&emsp;&emsp;(B) for a new capital investment, a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year in which the related project, facility, or separable unit or feature is placed in service, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between the beginning of the fiscal year and the repayment date for the new capital investment.
+&emsp;&emsp;(B) for a new capital investment, a rate determined by the Secretary of the Treasury,taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year in which the related project, facility, or separable unit or feature is placed in service, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between the beginning of the fiscal year and the repayment date for the new capital investment.
 
 #### (b) New principal amounts
 
@@ -142,7 +142,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### Codification
 
-Section was enacted as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, andnot as part of the Federal Columbia River Transmission System Act which comprises this chapter.
+Section was enacted as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
 
 Section is comprised of section 3201 of Pub. L. 104–134. Subsec. (h) of section 3201 of Pub. L. 104–134 amended section 6 of Pub. L. 103–436, which is not classified to the Code.
 

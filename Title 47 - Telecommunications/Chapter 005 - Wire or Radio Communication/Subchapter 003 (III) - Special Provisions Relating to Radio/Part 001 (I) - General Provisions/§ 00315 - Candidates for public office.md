@@ -20,7 +20,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;The charges made for the use of any broadcasting station by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office shall not exceed—
 
-&emsp;&emsp;(A) subject to paragraph (2), during the forty-five days preceding the date of a primary or primary runoff election and duringthe sixty days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the station for the same class and amount of time for the same period; and
+&emsp;&emsp;(A) subject to paragraph (2), during the forty-five days preceding the date of a primary or primary runoff election and during the sixty days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the station for the same class and amount of time for the same period; and
 
 &emsp;&emsp;(B) at any other time, the charges made for comparable use of such station by other users thereof.
 

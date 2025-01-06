@@ -26,7 +26,7 @@ The head of any Federal agency may, for purposes of this chapter—
 
 &emsp;(1) transfer or loan any property to, and perform administrative and technical support functions and services for the operations of, the Department of State (with reimbursements to agencies under this paragraph to be credited to the current applicable appropriation of the agency concerned); and
 
-&emsp;(2) acquire and accept services from the Department of State, including (whenever the Secretary determines it to be in furtherance of the purposes of this chapter) acquisitions without regard to laws normally applicable to the acquisition of services by such agency.
+&emsp;(2) acquire and accept services from the Department of State, including (whenever theSecretary determines it to be in furtherance of the purposes of this chapter) acquisitions without regard to laws normally applicable to the acquisition of services by such agency.
 
 #### (f) Attachment, execution, etc., of assets
 

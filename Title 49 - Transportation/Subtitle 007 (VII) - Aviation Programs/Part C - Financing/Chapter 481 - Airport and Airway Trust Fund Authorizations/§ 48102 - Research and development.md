@@ -130,15 +130,23 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;(14) $209,000,000 for fiscal year 2022;
 
-&emsp;(15) $214,000,000 for fiscal year 2023; and
+&emsp;(15) $214,000,000 for fiscal year 2023;
 
-&emsp;(16) $111,475,410 for the period beginning on October 1, 2023, and ending on March 8, 2024.
+&emsp;(16) $280,000,000 for fiscal year 2024;
+
+&emsp;(17) $311,000,000 for fiscal year 2025;
+
+&emsp;(18) $323,000,000 for fiscal year 2026;
+
+&emsp;(19) $334,000,000 for fiscal year 2027; and
+
+&emsp;(20) $345,000,000 for fiscal year 2028.
 
 (b)
 
 Research Priorities.—(1) The Administrator shall prioritize safety in considering the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
 
-(2) As safety related activities shall be the highest research priority, at least 70 percent of the amount appropriated under subsection (a) of this section shall be for safety research and development projects.
+(2) As safety related activities shall be the highest research priority, at least 70 percent of the amount appropriated under subsection (a) ofthis section shall be for safety research and development projects.
 
 (3) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
 
@@ -168,7 +176,7 @@ Availability of Amounts.—Amounts appropriated under subsection (a) of this sec
 
 (g)
 
-Annual Submission of the National Aviation Research Plan.—The Administrator shall submit the national aviation research plan to Congress no later than the date of submission of the President's budget request to Congress for that fiscal year, as required under section 44501(c).
+Annual Submission of the National Aviation Research Plan.—The Administrator shall submit the national aviation research plan to Congress no later than the date that is 30 days after the date of submission of the President's budget request to Congress for that fiscal year, as required under section 44501(c).
 
 (h)
 
@@ -204,7 +212,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §106, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §106, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title VII, §703, Oct. 5, 2018, 132 Stat. 3409; Pub. L. 118–15, div. B, title II, §2205, Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §105, Dec. 26, 2023, 137 Stat. 1115.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §106, Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §106, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title VII, §703, Oct. 5, 2018, 132 Stat. 3409; Pub. L. 118–15, div. B, title II, §2205, Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I,§105, Dec. 26, 2023, 137 Stat. 1115; Pub. L. 118–41, title I, §105, Mar. 8, 2024, 138 Stat. 23; Pub. L. 118–63, title X, §§1002, 1004(b), May 16, 2024, 138 Stat. 1386.)
 
 Historical and Revision Notes
 
@@ -269,6 +277,12 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words "b
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–63, §1002, added pars. (16) to (20) and struck out former par. (16) which read as follows: "$155,368,852 for the period beginning on October 1, 2023, and ending on May 10, 2024."
+
+Subsec. (a)(16). Pub. L. 118–41 added par. (16) and struck out former par. (16) which read as follows: "$111,475,410 for the period beginning on October 1, 2023, and ending on March 8, 2024."
+
+Subsec. (g). Pub. L. 118–63, §1004(b), substituted "the date that is 30 days after the date of submission" for "the date of submission".
 
 <b>2023</b>—Subsec. (a)(16). Pub. L. 118–34 added par. (16) and struck out former par. (16) which read as follows: "$64,098,360 for the period beginning on October 1, 2023, and ending on December 31, 2023."
 

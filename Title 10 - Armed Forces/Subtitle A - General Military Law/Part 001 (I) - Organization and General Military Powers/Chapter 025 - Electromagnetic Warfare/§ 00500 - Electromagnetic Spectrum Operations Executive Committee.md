@@ -12,7 +12,7 @@ Purposes.—The Executive Committee shall—
 
 &emsp;(2) provide senior oversight, coordination, and budget and capability harmonization with respect to such matters; and
 
-&emsp;(3) act as an advisory body to the Secretary of Defense, the Deputy Secretary of Defense, and the Management Action Group of the Deputy Secretary with respect to such matters.
+&emsp;(3) act as an advisory body to the Secretary of Defense, the Deputy Secretary of Defense,and the Management Action Group of the Deputy Secretary with respect to such matters.
 
 (c)
 
@@ -110,7 +110,7 @@ Administration.—The Under Secretary of Defense for Acquisition and Sustainment
 
 (k)
 
-Report to Congress.—Not later than February 28, 2024, and annually thereafter through 2030, the Executive Committee shall submit to the congressional defense committees a summary of activities of the Executive Committee during the preceding fiscal year.
+Report to Congress.—Not later than February 28, 2024, and annually thereafter through2030, the Executive Committee shall submit to the congressional defense committees a summary of activities of the Executive Committee during the preceding fiscal year.
 
 (Added Pub. L. 118–31, div. A, title XVI, §1682(a), Dec. 22, 2023, 137 Stat. 611.)
 

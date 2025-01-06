@@ -26,7 +26,7 @@ False and incomplete information.—The filing of false or materially incomplete
 
 (b)
 
-Contents of Registration.—The registration of a money transmitting business undersubsection (a) shall include the following information:
+Contents of Registration.—The registration of a money transmitting business under subsection (a) shall include the following information:
 
 &emsp;(1) The name and location of the business.
 
@@ -68,7 +68,7 @@ Definitions.—For purposes of this section, the following definitions shall app
 
 Money transmitting business.—The term "money transmitting business" means any business other than the United States Postal Service which—
 
-&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
+&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engagesas a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
 &emsp;&emsp;(B) is required to file reports under section 5313; and
 

@@ -6,7 +6,7 @@ Requiring Use of Devices on Certain Windows.—
 
 &emsp;(1)
 
-Requirement.—The Secretary concerned shall ensure that if a window in any military family housing unit is described in subsection (c), including a window designed for emergency escape or rescue, the window is equipped with fall prevention devices described in paragraph (3).
+Requirement.—The Secretary concerned shall ensure that if a window in any military family housing unit is described in subsection (c), including a window designed for emergency escape or rescue, the window is equippedwith fall prevention devices described in paragraph (3).
 
 &emsp;(2)
 

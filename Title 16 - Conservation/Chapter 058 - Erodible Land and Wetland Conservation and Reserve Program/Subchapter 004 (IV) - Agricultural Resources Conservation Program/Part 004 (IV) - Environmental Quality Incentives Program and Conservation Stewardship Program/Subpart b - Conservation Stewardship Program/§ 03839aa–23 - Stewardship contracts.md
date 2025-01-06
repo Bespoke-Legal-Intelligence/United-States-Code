@@ -68,7 +68,7 @@ After a determination that a producer is eligible for a contract or contract ren
 
 &emsp;&emsp;&emsp;(ii) are consistent with the conservation purposes of the conservation stewardship contract;
 
-&emsp;&emsp;(D) include a provision to ensure that a producer shall not be considered in violation of the contract for failure to comply with the contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary;
+&emsp;&emsp;(D) include a provision to ensure that a producer shall not be considered in violationof the contract for failure to comply with the contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary;
 
 &emsp;&emsp;(E) include provisions requiring that upon the violation of a term or condition of the contract at any time the producer has control of the land—
 
@@ -154,7 +154,7 @@ Subsec. (c). Pub. L. 115–334, §2308(c)(2), substituted "a contract or contrac
 
 Subsec. (d)(2)(A). Pub. L. 115–334, §2308(c)(3), substituted "section 3839aa–24(c)" for "section 3838g(d)".
 
-Subsec. (e). Pub. L. 115–334, §2308(c)(4)(A), substituted "The Secretary may provide the producer an opportunity to renew an existing contract in the first half of the fifth year of the contract period" for "At the end of the initial 5-year contract period, the Secretary may allow the producer to renew the contract for 1 additional 5-year period" in introductory provisions.
+Subsec. (e). Pub. L. 115–334, §2308(c)(4)(A), substituted "The Secretary may provide the producer an opportunity to renew an existing contract in the first half ofthe fifth year of the contract period" for "At the end of the initial 5-year contract period, the Secretary may allow the producer to renew the contract for 1 additional 5-year period" in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 115–334, §2308(c)(4)(B), substituted "existing contract" for "initial contract".
 

@@ -48,7 +48,7 @@ July 9, 1918, ch. 143 (12th par., less words after 2d semicolon, under "Ordnance
 
 July 9, 1918, ch. 143 (less words between 1st and 2d semicolons of 15th par. under "Ordnance Department"), 40 Stat. 871.
 
-In subsection (a), the words "may be awarded to a person" are substituted for the words "shall be issuedto any one person" to conform to the other subsections of the revised section.
+In subsection (a), the words "may be awarded to a person" are substituted for the words "shall be issued to any one person" to conform to the other subsections of the revised section.
 
 In subsection (b), the word "thereof" is substituted for the words "of either of said medal or of said cross". The words "Except as otherwise prescribed in this section", "at the time of", "specific", "official", and "has so distinguished himself as" are omitted as surplusage.
 

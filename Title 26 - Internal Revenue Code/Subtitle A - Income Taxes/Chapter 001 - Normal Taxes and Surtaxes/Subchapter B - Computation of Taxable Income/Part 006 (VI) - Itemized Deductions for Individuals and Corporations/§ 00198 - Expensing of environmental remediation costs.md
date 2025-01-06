@@ -116,7 +116,7 @@ Subsec. (h). Pub. L. 106–170, §511, substituted "2001" for "2000".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §745(b), Dec. 17, 2010, 124 Stat. 3319, provided that: "The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after December 31, 2009."
+Pub. L. 111–312, title VII, §745(b), Dec. 17, 2010, 124 Stat. 3319, provided that: "The amendment made bythis section \[amending this section\] shall apply to expenditures paid or incurred after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 

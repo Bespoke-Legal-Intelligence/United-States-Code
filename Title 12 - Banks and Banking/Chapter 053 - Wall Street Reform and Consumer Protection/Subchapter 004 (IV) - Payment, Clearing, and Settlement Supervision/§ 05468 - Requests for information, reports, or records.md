@@ -8,7 +8,7 @@
 
 #### (2) Financial institutions engaged in payment, clearing, or settlement activities
 
-&emsp;The Council is authorized to require any financial institution to submit such information as the Council may require for the sole purpose of assessing whether any payment, clearing, or settlement activity engaged in or supported by a financial institution is systemically important, but only if the Council has reasonable cause to believe that the activity meets the standards for systemic importance set forth in section 5463 of this title.
+&emsp;The Council is authorized to require any financial institution to submit such information as the Council may require for the solepurpose of assessing whether any payment, clearing, or settlement activity engaged in or supported by a financial institution is systemically important, but only if the Council has reasonable cause to believe that the activity meets the standards for systemic importance set forth in section 5463 of this title.
 
 #### (b) Reporting after designation
 
@@ -62,7 +62,7 @@ The Board of Governors, the Council, the appropriate financial regulator, and an
 
 #### (g) Disclosure exemption
 
-Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
+Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the SupervisoryAgencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
 
 #### (h) Data standards
 

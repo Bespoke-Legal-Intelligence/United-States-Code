@@ -1,0 +1,10 @@
+### §1070h. Repealed. Pub. L. 117–103, div. R, §103(c)(2), Mar. 15, 2022, 136 Stat. 821
+
+Section, Pub. L. 89–329, title IV, §420R, as added Pub. L. 111–39, title IV, §401(a)(9), July 1, 2009, 123 Stat. 1939, related to grants for veteran's dependents, known as Iraq and Afghanistan Service Grants.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of Repeal
+
+Repeal effective as if included in title VII of div. FF of Pub. L. 116–260 and subject to the effective date of section 701(b) of title VII (July 1, 2024), see section 103(d) of div. R of Pub. L. 117–103, set out as an Effective Date of 2022 Amendment note under section 1070a of this title.
+

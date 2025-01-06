@@ -400,11 +400,9 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "outlying area"—
 
-&emsp;&emsp;(A) means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands;
+&emsp;&emsp;(A) means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands; and
 
-&emsp;&emsp;(B) means the Republic of Palau, to the extent permitted under section 1921d(f)(1)(B)(ix) of title 48 and until an agreement for the extension of United States education assistance under the Compact of Free Association becomes effective for the Republic of Palau; and
-
-&emsp;&emsp;(C) for the purpose of any discretionary grant program under this chapter, includes the Republic of the Marshall Islands and the Federated States of Micronesia, to the extent permitted under section 1921d(f)(1)(B)(viii) of title 48.
+&emsp;&emsp;(B) for the purpose of any discretionary grant program under this chapter, includesthe Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, to the extent that any such grant program continues to be available to State and local governments in the United States.
 
 #### (37) Paraprofessional
 
@@ -416,7 +414,7 @@ Except as otherwise provided, in this chapter:
 
 #### (39) Parental involvement
 
-&emsp;The term "parental involvement" means the participation of parents in regular, two-way,and meaningful communication involving student academic learning and other school activities, including ensuring—
+&emsp;The term "parental involvement" means the participation of parents in regular, two-way, and meaningful communication involving student academic learning and other school activities, including ensuring—
 
 &emsp;&emsp;(A) that parents play an integral role in assisting their child's learning;
 
@@ -478,7 +476,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(ix) are designed to give teachers of English learners, and other teachers and instructional staff, the knowledge and skills to provide instruction and appropriate language and academic support services to those children, including the appropriate use of curricula and assessments;
 
-&emsp;&emsp;&emsp;(x) to the extent appropriate, provide training for teachers, principals, and other school leaders in the use of technology (including education about the harms of copyright piracy), so that technology and technology applications are effectively used in the classroom to improve teaching and learning in the curricula and academic subjects in which the teachers teach;
+&emsp;&emsp;&emsp;(x) to the extent appropriate, provide training for teachers, principals, and other school leaders in the use of technology (including education about the harms ofcopyright piracy), so that technology and technology applications are effectively used in the classroom to improve teaching and learning in the curricula and academic subjects in which the teachers teach;
 
 &emsp;&emsp;&emsp;(xi) as a whole, are regularly evaluated for their impact on increased teacher effectiveness and improved student academic achievement, with the findings of the evaluations used to improve the quality of professional development;
 
@@ -552,9 +550,9 @@ Except as otherwise provided, in this chapter:
 
 #### (52) Well-rounded education
 
-&emsp;The term "well-rounded education" means courses, activities, and programming in subjects such as English, reading or language arts, writing, science, technology, engineering, mathematics, foreign languages, civics and government, economics, arts, history, geography, computer science, music, career andtechnical education, health, physical education, and any other subject, as determined by the State or local educational agency, with the purpose of providing all students access to an enriched curriculum and educational experience.
+&emsp;The term "well-rounded education" means courses, activities, and programming in subjects such as English, reading or language arts, writing, science, technology, engineering, mathematics, foreign languages, civics and government, economics, arts, history, geography, computer science, music, career and technical education, health, physical education, and any other subject, as determined by the State or local educational agency, with the purpose of providing all students access to an enriched curriculum and educational experience.
 
-(Pub. L. 89–10, title VIII, §8101, formerly title IX, §9101, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956; renumbered title VIII, §8101, and amended Pub. L. 114–95, title VIII, §§8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, 129 Stat. 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8101, formerly title IX, §9101, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956; renumbered title VIII, §8101, and amended Pub. L. 114–95, title VIII, §§8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, 129 Stat. 2088, 2089; Pub. L. 118–42, div. G, title II, §209(b)(4)(B), Mar. 9, 2024, 138 Stat. 443.)
 
 #### <b>Editorial Notes</b>
 
@@ -567,6 +565,8 @@ The Higher Education Act of 1965, referred to in par. (15)(B), is Pub. L. 89–3
 A prior section 7801, Pub. L. 89–10, title IX, §9101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3773, set forth findings regarding Indian education, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
+
+<b>2024</b>—Par. (36). Pub. L. 118–42 amended par. (36) generally. Prior to amendment, par. (36) consisted of subpars. (A) to (C) defining outlying area.
 
 <b>2015</b>—Pub. L. 114–95, §8002(19), struck out undesignated par. following par. (47) which defined "State".
 
@@ -634,7 +634,7 @@ Par. (37). Pub. L. 114–95, §8002(1), (13), added par. (37) and struck out for
 
 Par. (38). Pub. L. 114–95, §8002(2), redesignated par. (31) as (38). Former par. (38) redesignated (45).
 
-Par. (39). Pub. L. 114–95, §8002(2), (14), redesignated par. (32) as (39), inserted "and" after semicolon at end of subpar. (C), and made technical amendment to reference in original act which appears in subpar. (D) as reference to section 6318 of this title. Former par. (39) redesignated (46).
+Par. (39). Pub. L. 114–95, §8002(2), (14), redesignated par. (32) as (39), inserted "and" after semicolon at endof subpar. (C), and made technical amendment to reference in original act which appears in subpar. (D) as reference to section 6318 of this title. Former par. (39) redesignated (46).
 
 Par. (40). Pub. L. 114–95, §8002(15), added par. (40).
 

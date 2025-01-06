@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) contributions under the plan on behalf of each participant include an amount which—
 
-&emsp;&emsp;&emsp;(i) equals 100 percent of the cost of the health benefit coverage under the plan ofthe majority of the highly compensated participants similarly situated, or
+&emsp;&emsp;&emsp;(i) equals 100 percent of the cost of the health benefit coverage under the plan of the majority of the highly compensated participants similarly situated, or
 
 &emsp;&emsp;&emsp;(ii) equals or exceeds 75 percent of the cost of the health benefit coverage of the participant (similarly situated) having the highest cost health benefit coverage under the plan, and
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37, United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
 
-&emsp;&emsp;(B) such distribution is made during the period beginning on the date of such order or call and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
+&emsp;&emsp;(B) such distribution is made during the period beginning on the date of such order orcall and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
 
 #### (i) Limitation on health flexible spending arrangements
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) who have less than 1 year of service with the employer as of any day during the plan year,
 
-&emsp;&emsp;&emsp;(iii) who are covered under an agreement which the Secretary of Labor finds to be a collective bargaining agreement if there is evidence that the benefits covered under the cafeteria plan were the subject of good faith bargaining between employee representatives and the employer, or
+&emsp;&emsp;&emsp;(iii) who are covered under an agreement which the Secretary of Labor finds to be acollective bargaining agreement if there is evidence that the benefits covered under the cafeteria plan were the subject of good faith bargaining between employee representatives and the employer, or
 
 &emsp;&emsp;&emsp;(iv) who are described in section 410(b)(3)(C) (relating to nonresident aliens working outside the United States).
 
@@ -288,7 +288,7 @@ For purposes of this section—
 
 #### (6) Applicable nondiscrimination requirement
 
-&emsp;For purposes of this subsection, the term "applicable nondiscrimination requirement"means any requirement under subsection (b) of this section, section 79(d), section 105(h), or paragraph (2), (3), (4), or (8) of section 129(d).
+&emsp;For purposes of this subsection, the term "applicable nondiscrimination requirement" means any requirement under subsection (b) of this section, section 79(d), section 105(h), or paragraph (2), (3), (4), or (8) of section 129(d).
 
 #### (7) Compensation
 
@@ -316,7 +316,7 @@ Sections 1301, 1311, and 1312 of the Patient Protection and Affordable Care Act,
 
 #### Codification
 
-Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
+Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L.99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
 
 #### Prior Provisions
 
@@ -482,7 +482,7 @@ Amendment by sections 1011B(a)(11)–(13) and 1018(t)(6) of Pub. L. 100–647 ef
 
 Pub. L. 100–647, title IV, §4002(c), Nov. 10, 1988, 102 Stat. 3643, provided that: "The amendments made by this section \[amending this section and section 120 of this title\] shall apply to taxable years ending after December 31, 1987."
 
-Pub. L. 100–647, title VI, §6051(c), Nov. 10, 1988, 102 Stat. 3696, provided that: "The amendments made by this section \[amending this section and section 89 of this title\] shall take effect as if included in the amendments made by section 1151 of the Reform Act \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79 of this title\]."
+Pub. L. 100–647, title VI, §6051(c), Nov. 10, 1988, 102 Stat. 3696, provided that: "The amendments made bythis section \[amending this section and section 89 of this title\] shall take effect as if included in the amendments made by section 1151 of the Reform Act \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79 of this title\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -528,7 +528,7 @@ Plan Year.—For plan years ending in 2020, a plan that includes a health flexib
 
 Carryover From 2021
 
-Plan Year.—For plan years ending in 2021, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986merely because such plan or arrangement permits participants to carry over (under rules similar to the rules applicable to health flexible spending arrangements) any unused benefits or contributions remaining in any such flexible spending arrangement from such plan year to the plan year ending in 2022.
+Plan Year.—For plan years ending in 2021, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement permits participants to carry over (under rules similar to the rules applicable to health flexible spending arrangements) any unused benefits or contributions remaining in any such flexible spending arrangement from such plan year to the plan year ending in 2022.
 
 "(c)
 
@@ -568,7 +568,7 @@ Eligible employee.—For purposes of this section, the term 'eligible employee' 
 
 &emsp;&emsp;&emsp;"(i) during such plan year, or
 
-&emsp;&emsp;&emsp;"(ii) in the case of an employee who (after the application of this section) has an unused balance in the employee's account under such arrangement for such plan year (determined as of the close of the last day on which, under the terms of the plan, claims for reimbursement may be made with respect to such plan year), the subsequent plan year.
+&emsp;&emsp;&emsp;"(ii) in the case of an employee who (after the application of this section) has an unused balance in the employee's account under such arrangement for such plan year (determined as of theclose of the last day on which, under the terms of the plan, claims for reimbursement may be made with respect to such plan year), the subsequent plan year.
 
 "(e)
 

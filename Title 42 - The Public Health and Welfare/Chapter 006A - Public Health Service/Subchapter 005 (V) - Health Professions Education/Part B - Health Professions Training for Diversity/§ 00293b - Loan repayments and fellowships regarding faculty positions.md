@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to and enter into contracts with eligible entities to assist such entities in increasing the numberof underrepresented minority individuals who are members of the faculty of such schools.
+&emsp;The Secretary may make grants to and enter into contracts with eligible entities to assist such entities in increasing the number of underrepresented minority individuals who are members of the faculty of such schools.
 
 #### (2) Applications
 

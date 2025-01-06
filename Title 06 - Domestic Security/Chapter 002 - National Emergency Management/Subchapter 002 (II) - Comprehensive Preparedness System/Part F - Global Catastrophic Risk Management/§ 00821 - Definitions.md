@@ -30,7 +30,7 @@ In this part:
 
 &emsp;The term "catastrophic incident"—
 
-&emsp;&emsp;(A) means any natural or man-made disaster that results in extraordinary levels of casualties or damage, mass evacuations, or disruption severely affecting the population, infrastructure, environment, economy, national morale, or government functions in an area; and
+&emsp;&emsp;(A) means any natural or man-made disaster that results in extraordinary levels ofcasualties or damage, mass evacuations, or disruption severely affecting the population, infrastructure, environment, economy, national morale, or government functions in an area; and
 
 &emsp;&emsp;(B) may include an incident—
 

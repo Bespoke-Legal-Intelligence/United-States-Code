@@ -42,7 +42,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 #### (c) Authority to waive sections 7423 and 7425 with respect to an investigation or prosecution of a named individual
 
-The President is authorized to waive the prohibitions and requirements of sections 7423 and 7425 of this title to the degree such prohibitions and requirements would prevent United States cooperation with an investigation or prosecution of a named individual by the International Criminal Court. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
+The President is authorized to waive the prohibitions and requirements of sections 7423 and7425 of this title to the degree such prohibitions and requirements would prevent United States cooperation with an investigation or prosecution of a named individual by the International Criminal Court. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
 &emsp;(1) notifies the appropriate congressional committees of the intention to exercise such authority; and
 
@@ -52,7 +52,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;&emsp;(B) there is reason to believe that the named individual committed the crime or crimes that are the subject of the International Criminal Court's investigation or prosecution;
 
-&emsp;&emsp;(C) it is in the national interest of the United States for the International CriminalCourt's investigation or prosecution of the named individual to proceed; and
+&emsp;&emsp;(C) it is in the national interest of the United States for the International Criminal Court's investigation or prosecution of the named individual to proceed; and
 
 &emsp;&emsp;(D) in investigating events related to actions by the named individual, none of the following persons will be investigated, arrested, detained, prosecuted, or imprisoned by or on behalf of the International Criminal Court with respect to actions undertaken by them in an official capacity:
 

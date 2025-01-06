@@ -60,7 +60,7 @@ Review.—If approved in a referendum conducted under this chapter and in accord
 
 &emsp;&emsp;(i) the geographic distribution of the quantities of domestically produced honey assessed under the order; and
 
-&emsp;&emsp;(ii) changes in the annual average percentage of assessments owed by importers under the order relative to assessments owed byproducers and handlers of domestic honey, including—
+&emsp;&emsp;(ii) changes in the annual average percentage of assessments owed by importers under the order relative to assessments owed by producers and handlers of domestic honey, including—
 
 &emsp;&emsp;&emsp;(I) whether any changes in assessments owed on imported quantities are owed by importers described in paragraph (5)(B); or
 
@@ -164,7 +164,7 @@ Basis for certification.—Certification of an organization under this paragraph
 
 &emsp;&emsp;(i) the geographic territory covered by the active membership of the organization;
 
-&emsp;&emsp;(ii) the nature and size of the active membership of the organization, including theproportion of the total number of active handlers or importers represented by the organization;
+&emsp;&emsp;(ii) the nature and size of the active membership of the organization, including the proportion of the total number of active handlers or importers represented by the organization;
 
 &emsp;&emsp;(iii) evidence of the stability and permanency of the organization;
 
@@ -288,7 +288,7 @@ Alternative rate approved in referendum.—If approved in a referendum conducted
 
 &emsp;(B) in the case of honey and honey products imported into the United States, $0.015 per pound payable by honey importers, of which $0.0075 per pound represents the assessment due from the handler to be paid by the importer on behalf of the handler.
 
-(4)(A) Honey that is consumed at home by the producer or importer or donated by the producer or importer to a nonprofit, government, or other entity, as determined appropriate by the Secretary, rather than sold shall be exempt from assessment under the order, except that donated honey that later is sold in a commercial outlet by a donee or a donee's assignee shall be subject to assessment on such sale.
+(4)(A) Honey that is consumed at home by the producer or importer or donated by the producer or importer to a nonprofit, government, or other entity, as determined appropriate by the Secretary, rather than sold shall be exempt from assessment under the order, except that donated honey that later is sold in a commercial outletby a donee or a donee's assignee shall be subject to assessment on such sale.
 
 (B)
 
@@ -358,7 +358,7 @@ The date of enactment of this paragraph, referred to in subsec. (c)(12), is the 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

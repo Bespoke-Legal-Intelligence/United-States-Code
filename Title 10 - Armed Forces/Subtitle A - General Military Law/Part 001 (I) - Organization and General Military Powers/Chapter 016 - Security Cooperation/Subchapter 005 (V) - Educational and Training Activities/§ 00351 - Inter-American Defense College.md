@@ -12,7 +12,7 @@ Authority To Support.—The Secretary of Defense may authorize members of the ar
 
 Memorandum of Understanding.—(1) The Secretary of Defense, with the concurrence of the Secretary of State, shall enter into a memorandum of understanding with the Inter-American Defense Board for the participation of members of the armed forces and civilian personnel of the Department of Defense in the operation of and provision of host nation support to the Inter-American Defense College under subsection (a).
 
-(2) If Department of Defense facilities, equipment, or funds will be used to support the Inter-American Defense College under subsection (a),a memorandum of understanding entered into under paragraph (1) shall include a description of any cost-sharing arrangement or other funding arrangement relating to the use of such facilities, equipment, or funds.
+(2) If Department of Defense facilities, equipment, or funds will be used to support the Inter-American Defense College under subsection (a), a memorandum of understanding entered into under paragraph (1) shall include a description of any cost-sharing arrangement or other funding arrangement relating to the use of such facilities, equipment, or funds.
 
 (3) A memorandum of understanding entered into under paragraph (1) shall also include a curriculum and a plan for academic program development.
 
@@ -40,7 +40,7 @@ Use of Funds.—(1) Funds appropriated to the Department of Defense for operatio
 
 (d)
 
-Waiver of Reimbursement.—The Secretary of Defense may waive reimbursement for developing countries (as such term is defined in section 301 of this title) of the costs of funding and other host nation support provided to the Inter-American Defense College under this section if the Secretary determines that the provision of such funding or support without reimbursement is in the national security interest of the United States.
+Waiver of Reimbursement.—The Secretary of Defense may waive reimbursement for developing countries (as such term is defined in section 301 of this title) of the costs of funding and other host nation support provided to theInter-American Defense College under this section if the Secretary determines that the provision of such funding or support without reimbursement is in the national security interest of the United States.
 
 (e)
 

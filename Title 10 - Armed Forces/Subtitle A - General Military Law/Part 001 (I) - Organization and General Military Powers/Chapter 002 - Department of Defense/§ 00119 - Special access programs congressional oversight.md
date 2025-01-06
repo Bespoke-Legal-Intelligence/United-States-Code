@@ -40,7 +40,7 @@
 
 (2) Except as provided in paragraph (3), any report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur.
 
-(3) If the Secretary determines that because of exceptional circumstances the requirement ofparagraph (2) cannot be met with respect to a proposed change or public announcement concerning a special access program of the Department of Defense, the Secretary may submit the report required by paragraph (1) regarding the proposed change or public announcement at any time before the proposed change or public announcement is made and shall include in the report an explanation of the exceptional circumstances.
+(3) If the Secretary determines that because of exceptional circumstances the requirement of paragraph (2) cannot be met with respect to a proposed change or public announcement concerning a special access program of the Department of Defense, the Secretary may submit the report required by paragraph (1) regarding the proposed change or public announcement at any time before the proposed change or public announcement is made and shall include in the report an explanation of the exceptional circumstances.
 
 (d) Whenever there is a modification or termination of the policy and criteria used for designating a program of the Department of Defense as a special access program, the Secretary of Defense shall promptly notify the defense committees of such modification or termination. Any such notification shall contain the reasons for the modification or termination and, in the case of a modification, the provisions of the policy as modified.
 

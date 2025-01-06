@@ -2,7 +2,7 @@
 
 #### (a) Functions relating to electric power
 
-(1) There are transferred to, and vested in, the Secretary all functions of the Secretary of the Interior under section 825s of title 16, and all other functions of the Secretary of the Interior,and officers and components of the Department of the Interior, with respect to—
+(1) There are transferred to, and vested in, the Secretary all functions of the Secretary of the Interior under section 825s of title 16, and all other functions of the Secretary of the Interior, and officers and components of the Department of the Interior, with respect to—
 
 &emsp;(A) the Southeastern Power Administration;
 
@@ -14,7 +14,7 @@
 
 &emsp;(E) the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of June 18, 1954, as amended by the Act of December 23, 1963.
 
-(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
+(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall bepreserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
 (3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
@@ -84,7 +84,7 @@ Pub. L. 104–58, title I, Nov. 28, 1995, 109 Stat. 557, provided that:
 
 &emsp;"(4) The term 'Snettisham' means the Snettisham Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Snettisham Purchase Agreement.
 
-&emsp;"(5) The term 'Snettisham Purchase Agreement' means the February 10, 1989, Snettisham Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Alaska Power Authority and its successors in interest, together with any amendments thereto adopted before the enactment of this section.
+&emsp;"(5) The term 'Snettisham Purchase Agreement' means the February 10, 1989, Snettisham PurchaseAgreement between the Alaska Power Administration of the Department of Energy and the Alaska Power Authority and its successors in interest, together with any amendments thereto adopted before the enactment of this section.
 
 &emsp;"(6) The term 'Snettisham Purchaser' means the Alaska Industrial Development and Export Authority or a successor State agency or authority.
 

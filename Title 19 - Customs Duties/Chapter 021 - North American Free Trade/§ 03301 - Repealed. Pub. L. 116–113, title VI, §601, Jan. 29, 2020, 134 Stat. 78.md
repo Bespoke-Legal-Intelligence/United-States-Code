@@ -12,5 +12,5 @@ Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, provided that: 
 
 #### Short Title
 
-Pub. L. 103–182, §1(a), Dec. 8, 1993, 107 Stat. 2057, which provided that Pub. L. 103–182 could be cited as the"North American Free Trade Agreement Implementation Act", was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, §1(a), Dec. 8, 1993, 107 Stat. 2057, which provided that Pub. L. 103–182 could be cited as the "North American Free Trade Agreement Implementation Act", was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 

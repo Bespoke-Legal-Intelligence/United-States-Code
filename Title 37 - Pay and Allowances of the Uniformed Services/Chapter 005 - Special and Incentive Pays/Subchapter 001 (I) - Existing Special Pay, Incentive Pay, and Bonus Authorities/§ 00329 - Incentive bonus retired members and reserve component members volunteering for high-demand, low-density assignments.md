@@ -22,7 +22,7 @@ Development of Additional Incentives.—(1) The Secretary of Defense may develop
 
 (2) The provision of any incentive developed under this subsection shall be subject to an agreement, as required for bonuses under subsection (a).
 
-(3) Not later than 30 days before first offering any incentive developed under this subsection, the Secretary shall submit to the congressional defense committees a report that contains a description of that incentive and an explanation why a bonus under subsection (a) or other pay and allowances are not sufficient to alleviate the high-demand, low-density military capability or otherwise fill critical military specialties.
+(3) Not later than 30 days before first offering any incentive developed under this subsection, the Secretary shall submit to the congressional defense committees a report that contains a description of that incentive and an explanation why a bonus under subsection (a) or other pay and allowances are not sufficient to alleviatethe high-demand, low-density military capability or otherwise fill critical military specialties.
 
 (4) In this subsection, the term "congressional defense committees" has the meaning given that term in section 101(a)(16) of title 10.
 

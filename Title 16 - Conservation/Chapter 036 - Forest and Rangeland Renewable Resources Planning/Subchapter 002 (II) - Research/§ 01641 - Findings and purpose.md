@@ -24,7 +24,7 @@ This subchapter shall be deemed to complement the policies and direction set for
 
 #### (c) Purpose
 
-It is the purpose of this subchapter to authorize the Secretary to expand research activitiesto encompass international forestry and natural resource issues on a global scale.
+It is the purpose of this subchapter to authorize the Secretary to expand research activities to encompass international forestry and natural resource issues on a global scale.
 
 (Pub. L. 95–307, §2, June 30, 1978, 92 Stat. 353; Pub. L. 101–513, title VI, §611(a)(1), formerly §607(a)(1), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(a)(1), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 105–185, title II, §253(a), June 23, 1998, 112 Stat. 558.)
 

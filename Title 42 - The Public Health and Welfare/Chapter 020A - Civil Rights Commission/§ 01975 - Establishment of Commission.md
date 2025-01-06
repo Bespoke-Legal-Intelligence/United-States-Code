@@ -12,7 +12,7 @@ The Commission shall be composed of 8 members. Not more than 4 of the members sh
 
 &emsp;(2) 2 members of the Commission shall be appointed by the President pro tempore of the Senate, upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
 
-&emsp;(3) 2 members of the Commission shall be appointed by the Speaker of the House of Representatives upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
+&emsp;(3) 2 members of the Commission shall be appointed by the Speaker of the House of Representatives upon the recommendations of the majority leader and the minority leader, andof the members appointed not more than one shall be appointed from the same political party.
 
 #### (c) Terms
 
@@ -146,7 +146,7 @@ Removal.—A member of the Commission may be removed from the Commission at any 
 
 "(d)
 
-Vacancies.—The appointing authority of a member of the Commission shall either reappoint thatmember at the end of that member's term or appoint another person meeting the qualifications for that appointment. In the event of a vacancy arising during a term, the appointing authority shall, before the next meeting of the Commission, appoint a replacement to finish that term.
+Vacancies.—The appointing authority of a member of the Commission shall either reappoint that member at the end of that member's term or appoint another person meeting the qualifications for that appointment. In the event of a vacancy arising during a term, the appointing authority shall, before the next meeting of the Commission, appoint a replacement to finish that term.
 
 #### "SEC. 4. LEADERSHIP ELECTION.
 

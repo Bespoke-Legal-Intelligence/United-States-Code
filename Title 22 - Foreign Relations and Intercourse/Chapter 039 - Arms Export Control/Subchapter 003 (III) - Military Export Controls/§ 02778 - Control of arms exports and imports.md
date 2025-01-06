@@ -12,7 +12,7 @@
 
 (1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
 
-(ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
+(ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agencycharged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
 
 (II) Such brokering activities shall include the financing, transportation, freight forwarding, or taking of any other action that facilitates the manufacture, export, or import of a defense article or defense service.
 
@@ -44,13 +44,13 @@
 
 #### (c) Criminal violations; punishment
 
-Any person who willfully violates any provision of this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or animplementing arrangement pursuant to such treaty, or who willfully, in a registration or license application or required report, makes any untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined for each violation not more than $1,000,000 or imprisoned not more than 20 years, or both.
+Any person who willfully violates any provision of this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty, or who willfully, in a registration or license application or required report, makes any untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined for each violation not more than $1,000,000 or imprisoned not more than 20 years, or both.
 
 #### (d) Repealed. Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820), subject to the same terms and conditions as are applicable to such powers under such Act, except that section 1760(c)(2) of such Act (50 U.S.C. 4819(c)(2)) shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section section <sup>1</sup> 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c)), the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed..<sup>1</sup>
+In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820), subject to the same terms and conditions as are applicable to such powers under such Act, except that section 1760(c)(2) of such Act (50 U.S.C. 4819(c)(2)) shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in thissubsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section section <sup>1</sup> 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c)), the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed..<sup>1</sup>
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
@@ -432,7 +432,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;The Secretary of State may renew such exemption for 5 years upon a certification to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that such exemption is in the vital national interest of the United States with a detailed justification for such certification.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744;amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993; Pub. L. 117–263, div. I, title XCVII, §9708, Dec. 23, 2022, 136 Stat. 3918; Pub. L. 118–31, div. A, title XIII, §§1343(a), 1345(a), Dec. 22, 2023, 137 Stat. 510, 514.)
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993; Pub. L. 117–263, div. I, title XCVII, §9708, Dec. 23, 2022, 136 Stat. 3918; Pub. L. 118–31, div. A, title XIII, §§1343(a), 1345(a), Dec. 22, 2023, 137 Stat. 510, 514.)
 
 #### <b>Editorial Notes</b>
 
@@ -510,7 +510,7 @@ Subsec. (i). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1302(a)\], added su
 
 <b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–164, §151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
 
-Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first sentence ", except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest".
+Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first sentence ", except that the namesof the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest".
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements."
 
@@ -572,7 +572,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8142(b)\], Dec. 22, 1987, 101 Stat. 
 
 "(1) Except as provided in paragraphs (2) and (3), subparagraph (B) of section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1)(B) of this section\], as added by subsection (a), shall take effect at the end of the ninety-day period beginning on the date of the enactment of this Act \[Dec. 22, 1987\].
 
-"(2)(A) Such subparagraph shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\] with respect to any military firearms or ammunition (or components, parts, accessories and attachments for suchfirearms) with respect to which an import permit was issued by the Secretary of the Treasury on or after July 1, 1986, irrespective of whether such import permit was subsequently suspended, revoked, or withdrawn by the Secretary of the Treasury based on the application of section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] as in effect on the day before the date of the enactment of this Act.
+"(2)(A) Such subparagraph shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\] with respect to any military firearms or ammunition (or components, parts, accessories and attachments for such firearms) with respect to which an import permit was issued by the Secretary of the Treasury on or after July 1, 1986, irrespective of whether such import permit was subsequently suspended, revoked, or withdrawn by the Secretary of the Treasury based on the application of section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] as in effect on the day before the date of the enactment of this Act.
 
 "(B) In the case of an import permit described in subparagraph (A) which was suspended, revoked, or withdrawn by the Secretary of the Treasury during the period beginning on July 1, 1986, and ending on the date of the enactment of this Act \[Dec. 22, 1987\] under the conditions described in such subparagraph, such import permit shall be reinstated and reissued immediately upon the enactment of this Act, and in any event not later than ten days after the date of the enactment of this Act.
 
@@ -580,7 +580,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8142(b)\], Dec. 22, 1987, 101 Stat. 
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–83, title I, §119(c), Aug. 8, 1985, 99 Stat. 204, provided that: "This section \[amending this section\] shall take effect upon the date of enactment of this Act \[Aug. 8, 1985\] or October 1, 1985, whichever is later. The amendments made by this section apply with respect to violations occurring after the effective date of this section."
+Pub. L. 99–83, title I, §119(c), Aug. 8, 1985, 99 Stat. 204, provided that: "This section \[amending this section\] shall take effect upon the date of enactment of this Act \[Aug. 8, 1985\] or October 1, 1985, whichever is later. The amendments made by this section apply with respect toviolations occurring after the effective date of this section."
 
 #### Effective Date of 1979 Amendments
 
@@ -664,7 +664,7 @@ Prohibition.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (3), no satellites or related items that are made subject to the Export Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of subsection (a) of this section, whether or not enumerated on the Commerce Control List—
+In general.—Subject to paragraph (3), no satellites or related items that are made subject to theExport Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of subsection (a) of this section, whether or not enumerated on the Commerce Control List—
 
 &emsp;&emsp;"(A) may be exported, re-exported, or transferred, directly or indirectly, to—
 
@@ -860,7 +860,7 @@ Congressional Notification for Other Amendments To Implementing Arrangements.—
 
 &emsp;"(2) an analysis of the amendment's effect, including an analysis regarding why subsection (a) does not apply."
 
-\[Memorandum of President of the United States, Feb. 20, 2013, 78 F.R. 13997, delegated to the Secretary of State (1) the function of the President to make all certifications, reports, and notifications to Congress prior to entry into force of the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, as well as to provide annual reports thereafter, consistent with section 2 of the Senate Resolution of Advice and Consent to Ratification of the Treaty, dated Sept. 29, 2010, and (2) the responsibility of the President, under Pub. L. 111–266, to provide congressional notification of amendments to the implementing arrangements that are made pursuant to section 105(c) of Pub. L. 111–266, set out above.\]
+\[Memorandum of President of the United States, Feb. 20, 2013, 78 F.R. 13997, delegated to the Secretary ofState (1) the function of the President to make all certifications, reports, and notifications to Congress prior to entry into force of the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, as well as to provide annual reports thereafter, consistent with section 2 of the Senate Resolution of Advice and Consent to Ratification of the Treaty, dated Sept. 29, 2010, and (2) the responsibility of the President, under Pub. L. 111–266, to provide congressional notification of amendments to the implementing arrangements that are made pursuant to section 105(c) of Pub. L. 111–266, set out above.\]
 
 \[Memorandum of President of the United States, Mar. 6, 2012, 77 F.R. 15231, delegated to the Secretary of State, in consultation with the heads of other executive departments and agencies, (1) the function of the President to make all certifications, reports, and notifications to Congress prior to entry into force of the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, as well as to provide annual reports thereafter, consistent with section 2 of the Senate Resolution of Advice and Consent to Ratification of the Treaty, dated Sept. 29, 2010, and (2) the responsibility of the President under Pub. L. 111–266, to provide congressional notification of amendments to the Implementing Arrangements that are made pursuant to section 105(c) of Pub. L. 111–266, set out above.\]
 
@@ -930,7 +930,7 @@ Additional requirements.—In establishing the regulatory regime under paragraph
 
 "(b)
 
-Financial and Personnel Resources.—Of the funds authorized to be appropriated in section 101(1)(A)\[113 Stat. 1501A–410\], $9,000,000 is authorized to be appropriated for the Office of Defense Trade Controls of the Department of State for each of the fiscal years 2000 and 2001, to enable that office to carry out its responsibilities.
+Financial and Personnel Resources.—Of the funds authorized to be appropriated in section 101(1)(A) \[113 Stat. 1501A–410\], $9,000,000 is authorized to be appropriated for the Office of Defense Trade Controls of the Department of State for each of the fiscal years 2000 and 2001, to enable that office to carry out its responsibilities.
 
 "(c)
 
@@ -956,7 +956,7 @@ Contents of Report.—The report required by subsection (a) shall include, at a 
 
 &emsp;"(1) An assessment by the Director of Central Intelligence of efforts by countries and entities of concern to acquire technologies and technical information referred to in subsection (a) during the preceding calendar year.
 
-&emsp;"(2) An assessment by the Secretary of Defense, in consultation with the Joint Chiefs of Staff and the Director of Central Intelligence, of the cumulative impact of licenses granted by the United States for exports of technologies and technical information referred to in subsection (a) to countries and entities of concern during the preceding 5-calendar year period on—
+&emsp;"(2) An assessment by the Secretary of Defense, in consultation with the Joint Chiefs of Staff and the Director of Central Intelligence, of the cumulative impact of licenses granted by the United States forexports of technologies and technical information referred to in subsection (a) to countries and entities of concern during the preceding 5-calendar year period on—
 
 &emsp;&emsp;"(A) the military capabilities of such countries and entities; and
 
@@ -1022,7 +1022,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 "As a condition of the export license for any satellite to be launched in a country subject to section 1514 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] (22 U.S.C. 2778 note), the Secretary of State shall require the following:
 
-&emsp;"(1) That the technology transfer control plan required by section 1514(a)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year1999 (22 U.S.C. 2778 note) be prepared by the Department of Defense and the licensee, and that the plan set forth enhanced security arrangements for the launch of the satellite, both before and during launch operations.
+&emsp;"(1) That the technology transfer control plan required by section 1514(a)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (22 U.S.C. 2778 note) be prepared by the Department of Defense and the licensee, and that the plan set forth enhanced security arrangements for the launch of the satellite, both before and during launch operations.
 
 &emsp;"(2) That each person providing security for the launch of that satellite—
 
@@ -1112,7 +1112,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Annual Report on Implementation of Satellite Technology Safeguards.—(1) The Secretary ofDefense and the Secretary of State shall each submit to Congress each year, as part of the annual report for that year under section 1514(a)(8) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261, 22 U.S.C. 2778 note\], the following:
+Annual Report on Implementation of Satellite Technology Safeguards.—(1) The Secretary of Defense and the Secretary of State shall each submit to Congress each year, as part of the annual report for that year under section 1514(a)(8) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261, 22 U.S.C. 2778 note\], the following:
 
 &emsp;"(A) A summary of the satellite launch campaigns and related activities monitored by the Defense Threat Reduction Agency during the preceding fiscal year.
 
@@ -1212,7 +1212,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 &emsp;"(1) United States business interests must not be placed above United States national security interests;
 
-&emsp;"(2) United States foreign policy and the policies of the United States regarding commercial relations with other countries should affirm the importance of observing and adhering to the Missile Technology Control Regime (MTCR);
+&emsp;"(2) United States foreign policy and the policies of the United States regarding commercial relations with other countries should affirm the importance ofobserving and adhering to the Missile Technology Control Regime (MTCR);
 
 &emsp;"(3) the United States should encourage universal observance of the Guidelines to the Missile Technology Control Regime;
 
@@ -1282,7 +1282,7 @@ Mandatory monitors and reimbursement.—
 
 &emsp;&emsp;"(A)
 
-Monitoring of proposed foreign launch of satellites.—In any case in which a license is approved for the export of a satellite or related items for launch in a foreign country, the Secretary of Defense shall monitor all aspects of the launch in order to ensure that no unauthorized transfer of technology occurs, including technical assistance and technical data. The costs of such monitoring services shall be fully reimbursed to the Department of Defense by the person or entity receivingsuch services. All reimbursements received under this subparagraph shall be credited to current appropriations available for the payment of the costs incurred in providing such services.
+Monitoring of proposed foreign launch of satellites.—In any case in which a license is approved for the export of a satellite or related items for launch in a foreign country, the Secretary of Defense shall monitor all aspects of the launch in order to ensure that no unauthorized transfer of technology occurs, including technical assistance and technical data. The costs of such monitoring services shall be fully reimbursed to the Department of Defense by the person or entity receiving such services. All reimbursements received under this subparagraph shall be credited to current appropriations available for the payment of the costs incurred in providing such services.
 
 &emsp;&emsp;"(B)
 
@@ -1308,7 +1308,7 @@ Mandatory licenses for crash-investigations.—In the event of the failure of a 
 
 &emsp;"(4)
 
-Mandatory notification and certification.—All technology transfer control plans for satellites or related items shall require any United States person or entity involved in the export of a satellite of United States origin or related items to notify the Department of Defense in advance of all meetings and interactions with any foreign person or entity providing launch services and require the United States person or entity to certify after the launch that it has complied with this notification requirement.
+Mandatory notification and certification.—All technology transfer control plans for satellites orrelated items shall require any United States person or entity involved in the export of a satellite of United States origin or related items to notify the Department of Defense in advance of all meetings and interactions with any foreign person or entity providing launch services and require the United States person or entity to certify after the launch that it has complied with this notification requirement.
 
 &emsp;"(5)
 
@@ -1386,7 +1386,7 @@ Militarily Sensitive Characteristics Defined.—In this section, the term 'milit
 
 &emsp;\["(2) the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261; Oct. 17, 1998\]."\]
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 3001 of Title 50, War and National Defense.\]
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
@@ -1456,7 +1456,7 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, as amended by Pub. L.
 
 &emsp;"(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemical weapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
 
-&emsp;"(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that are capable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
+&emsp;"(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that arecapable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
 
 &emsp;"(6) future security and stability in the Middle East and Persian Gulf region would be enhanced by establishing a stable military balance among regional powers by restraining and reducing both conventional and unconventional weapons;
 
@@ -1544,7 +1544,7 @@ Promotion of regional arms control agreements.—In order to achieve the purpose
 
 &emsp;&emsp;"(A) the maintenance of the military balance within the region, while eliminating nuclear, biological, and chemical weapons and associated delivery systems, and ballistic missiles;
 
-&emsp;&emsp;"(B) the implementation of confidence-building and security-building measures, including advance notification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
+&emsp;&emsp;"(B) the implementation of confidence-building and security-building measures, including advancenotification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
 
 &emsp;&emsp;"(C) other useful arms control measures.
 

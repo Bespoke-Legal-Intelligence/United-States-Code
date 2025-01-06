@@ -58,7 +58,7 @@ Any permit for geological explorations authorized by this section shall be issue
 
 #### (h) Lands beneath navigable waters adjacent to Phillip Burton Wilderness
 
-The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled "Wilderness Plan, Point Reyes National Seashore", numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease orpermit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
+The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled "Wilderness Plan, Point Reyes National Seashore", numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease or permit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
 
 (Aug. 7, 1953, ch. 345, §11, 67 Stat. 469; Pub. L. 95–372, title II, §206, Sept. 18, 1978, 92 Stat. 647; Pub. L. 99–68, §1(c), July 19, 1985, 99 Stat. 166.)
 

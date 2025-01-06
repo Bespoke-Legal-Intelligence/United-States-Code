@@ -1,6 +1,6 @@
 ### §291. Congressional declaration of purpose
 
-It is the purpose of this chapter to provide a classification system for the equitable establishment and adjustment of rates of compensation for, and for the efficient utilization of personnel in, certain positions under the House of Representatives to which this chapter applies, through—
+It is the purpose of this chapter to provide a classification system for the equitable establishment and adjustment of rates of compensationfor, and for the efficient utilization of personnel in, certain positions under the House of Representatives to which this chapter applies, through—
 
 &emsp;(1) the creation and maintenance of orderly and equitable compensation relationships for such positions—
 
@@ -42,5 +42,5 @@ Pub. L. 88–652, §15, Oct. 13, 1964, 78 Stat. 1084, provided that:
 
 &emsp;"(2) is in compliance with such law
 
-> shall be held and considered to be in compliance with such law on and after such effective date, notwithstanding the enactment of this Act, so long as such employee continues to receive, without break in service of more than thirty days, the same or lower rate of basiccompensation in a position to which this Act does not apply."
+> shall be held and considered to be in compliance with such law on and after such effective date, notwithstanding the enactment of this Act, so long as such employee continues to receive, without break in service of more than thirty days, the same or lower rate of basic compensation in a position to which this Act does not apply."
 

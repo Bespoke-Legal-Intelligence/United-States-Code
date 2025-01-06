@@ -86,43 +86,9 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(viii) in calendar year 2021, 596,682 kilograms;
 
-&emsp;&emsp;&emsp;(ix) in calendar year 2022, 489,617 kilograms;
+&emsp;&emsp;&emsp;(ix) in calendar year 2022, 489,617 kilograms; and
 
-&emsp;&emsp;&emsp;(x) in calendar year 2023, 578,877 kilograms;
-
-&emsp;&emsp;&emsp;(xi) in calendar year 2024, 476,536 kilograms;
-
-&emsp;&emsp;&emsp;(xii) in calendar year 2025, 470,376 kilograms;
-
-&emsp;&emsp;&emsp;(xiii) in calendar year 2026, 464,183 kilograms;
-
-&emsp;&emsp;&emsp;(xiv) in calendar year 2027, 459,083 kilograms;
-
-&emsp;&emsp;&emsp;(xv) in calendar year 2028, 344,312 kilograms;
-
-&emsp;&emsp;&emsp;(xvi) in calendar year 2029, 340,114 kilograms;
-
-&emsp;&emsp;&emsp;(xvii) in calendar year 2030, 332,141 kilograms;
-
-&emsp;&emsp;&emsp;(xviii) in calendar year 2031, 328,862 kilograms;
-
-&emsp;&emsp;&emsp;(xix) in calendar year 2032, 322,255 kilograms;
-
-&emsp;&emsp;&emsp;(xx) in calendar year 2033, 317,536 kilograms;
-
-&emsp;&emsp;&emsp;(xxi) in calendar year 2034, 298,088 kilograms;
-
-&emsp;&emsp;&emsp;(xxii) in calendar year 2035, 294,511 kilograms;
-
-&emsp;&emsp;&emsp;(xxiii) in calendar year 2036, 286,066 kilograms;
-
-&emsp;&emsp;&emsp;(xxiv) in calendar year 2037, 281,272 kilograms;
-
-&emsp;&emsp;&emsp;(xxv) in calendar year 2038, 277,124 kilograms;
-
-&emsp;&emsp;&emsp;(xxvi) in calendar year 2039, 277,124 kilograms; and
-
-&emsp;&emsp;&emsp;(xxvii) in calendar year 2040, 267,685 kilograms.
+&emsp;&emsp;&emsp;(x) in calendar year 2023, 578,877 kilograms.
 
 #### (B) Administration
 
@@ -148,7 +114,7 @@ It is the policy of the United States—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to the amount authorized to be imported under subparagraph (A) and except as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (10).
+&emsp;&emsp;&emsp;In addition to the amount authorized to be imported under subparagraph (A) and except as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (9).
 
 #### (ii) Maximum annual imports
 
@@ -156,11 +122,7 @@ It is the policy of the United States—
 
 #### (3) Exceptions
 
-&emsp;The import limitations described in paragraphs (1) and (2) shall not apply to low-enriched uranium produced in the Russian Federation that is imported into the United States—
-
-&emsp;&emsp;(A) for use in the initial core of a new nuclear reactor; or
-
-&emsp;&emsp;(B) for processing and to be certified for reexportation and not for consumption in the United States.
+&emsp;The import limitations described in paragraphs (1) and (2) shall not apply to low-enriched uranium produced in the Russian Federation that is imported into the United States for processing and to be certified for reexportation and not for consumption in the United States.
 
 #### (4) Limited waiver authority
 
@@ -184,37 +146,15 @@ It is the policy of the United States—
 
 &emsp;&emsp;A waiver under subparagraph (A) shall terminate on December 31 of the calendar year with respect to which the Secretary makes the determination under subparagraph (A)(i).
 
-#### (5) Adjustments to import limitations
+#### (5) Authority for additional adjustment
 
-#### (A) In general
-
-&emsp;&emsp;The import limitations described in paragraph (2)(A) are based on the lower scenario data in the report of the World Nuclear Association entitled "The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2019–2040". In each of calendar years 2023, 2029, and 2035, the Secretary of Commerce shall review the projected demand for uranium for nuclear reactors in the United States and adjust the import limitations described in paragraph (2)(A) to account for changes in such demand in years after the year in which that report or a subsequent report is published.
-
-#### (B) Report required
-
-&emsp;&emsp;Not later than one year after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to Congress a report that includes—
-
-&emsp;&emsp;&emsp;(i) a recommendation on the use of all publicly available data to ensure accurate forecasting by scenario data to comport to actual demand for low-enriched uranium for nuclear reactors in the United States; and
-
-&emsp;&emsp;&emsp;(ii) an identification of the steps to be taken to adjust the import limitations described in paragraph (2)(A) based on the most accurate scenario data.
-
-#### (C) Incentive adjustment
-
-&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(C) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(C)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
-
-#### (D) Publication of adjustments
-
-&emsp;&emsp;As soon as practicable, but not later than July 31 of each calendar year, the Secretary of Energy shall publish in the Federal Register the amount of low-enriched uranium that may be imported in the current calendar year after the adjustments under subparagraph (C).
-
-#### (6) Authority for additional adjustment
-
-&emsp;In addition to the adjustment under paragraph (5)(A), the Secretary of Commerce may adjust the import limitations under paragraph (2)(A) for a calendar year if the Secretary—
+&emsp;The Secretary of Commerce may adjust the import limitations under paragraph (2)(A) for a calendar year if the Secretary—
 
 &emsp;&emsp;(A) in consultation with the Secretary of Energy, determines that the available supply of low-enriched uranium and the available stockpiles of uranium of the Department of Energy are insufficient to meet demand in the United States in the following calendar year; and
 
 &emsp;&emsp;(B) notifies Congress of the adjustment not less than 45 days before making the adjustment.
 
-#### (7) Equivalent quantities of low-enriched uranium imports
+#### (6) Equivalent quantities of low-enriched uranium imports
 
 #### (A) In general
 
@@ -224,35 +164,35 @@ It is the policy of the United States—
 
 &emsp;&emsp;Imports of low-enriched uranium under paragraphs (1) and (2), including low-enriched uranium obtained under contracts for separative work units, shall count against the import limitations described in such paragraphs in amounts calculated as the quantity of low-enriched uranium containing 4.4 percent uranium-235 necessary to equal the total amount of uranium-235 contained in such imports.
 
-#### (8) Downblending of other highly enriched uranium
+#### (7) Downblending of other highly enriched uranium
 
 #### (A) In general
 
-&emsp;&emsp;The downblending of highly enriched uranium not of weapons origin may be counted for purposes of paragraph (2)(C), subject to verification under paragraph (10), if the Secretary of Energy determines that the highly enriched uranium to be downblended poses a risk to the national security of the United States.
+&emsp;&emsp;The downblending of highly enriched uranium not of weapons origin may be counted for purposes of paragraph (2)(C), subject to verification under paragraph (9), if the Secretary of Energy determines that the highly enriched uranium to be downblended poses a risk to the national security of the United States.
 
 #### (B) Equivalent quantities of highly enriched uranium
 
 &emsp;&emsp;For purposes of determining the additional low-enriched uranium imports allowed under paragraph (2)(C), highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A) shall count as downblended highly enriched uranium of weapons origin in amounts calculated as the quantity of highly enriched uranium containing 90 percent uranium-235 necessary to equal the total amount of uranium-235 contained in the highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A).
 
-#### (9) Termination of import restrictions
+#### (8) Termination of import restrictions
 
-&emsp;The provisions of this subsection shall terminate on December 31, 2040.
+&emsp;The provisions of this subsection shall terminate on the date described in subsection (d)(1).
 
-#### (10) Technical verifications by Secretary of Energy
+#### (9) Technical verifications by Secretary of Energy
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content ofthe highly enriched uranium downblended for purposes of paragraphs (2)(C) and (8).
+&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(C) and (7).
 
 #### (B) Methods of verification
 
 &emsp;&emsp;In conducting the verification required under subparagraph (A), the Secretary of Energy shall employ the transparency measures and access provisions agreed to under the Russian HEU Agreement for monitoring the downblending of Russian highly enriched uranium of weapons origin and such other methods as the Secretary determines appropriate.
 
-#### (11) Enforcement of import limitations
+#### (10) Enforcement of import limitations
 
 &emsp;The Secretary of Commerce shall be responsible for enforcing the import limitations imposed under this subsection and shall enforce such import limitations in a manner that imposes a minimal burden on the commercial nuclear industry.
 
-#### (12) Effect on other agreements
+#### (11) Effect on other agreements
 
 #### (A) Russian HEU Agreement
 
@@ -262,7 +202,85 @@ It is the policy of the United States—
 
 &emsp;&emsp;If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement or the Suspension Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede the provision of the agreement to the extent of the conflict.
 
-(Pub. L. 104–134, title III, §3112A, as added Pub. L. 110–329, div. C, title VIII, §8118(2), Sept. 30, 2008, 122 Stat. 3647; amended Pub. L. 116–260, div. Z, title II, §2007(a), Dec. 27, 2020, 134 Stat. 2472.)
+#### (d) Prohibition on imports of low-enriched uranium
+
+#### (1) Prohibition
+
+&emsp;Beginning on the date that is 90 days after May 13, 2024, and subject to paragraphs (2) and (3), the following may not be imported into the United States:
+
+&emsp;&emsp;(A) Unirradiated low-enriched uranium that is produced in the Russian Federation or by a Russian entity.
+
+&emsp;&emsp;(B) Unirradiated low-enriched uranium that is determined to have been exchanged with, swapped for, or otherwise obtained in lieu of unirradiated low-enriched uranium described in subparagraph (A) in a manner designed to circumvent the restrictions under this section.
+
+#### (2) Waiver
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary of Energy, in consultation with the Secretary of State and the Secretary of Commerce, may waive the application of paragraph (1) to authorize the importation of low-enriched uranium described in that paragraph if the Secretary of Energy determines that—
+
+&emsp;&emsp;&emsp;(i) no alternative viable source of low-enriched uranium is available to sustain the continued operation of a nuclear reactor or a United States nuclear energy company; or
+
+&emsp;&emsp;&emsp;(ii) importation of low-enriched uranium described in paragraph (1) is in the national interest.
+
+#### (B) Limitation on amounts of imports of low-enriched uranium
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The importation into the United States of low-enriched uranium described in paragraph (1), including low-enriched uranium obtained under contracts for separativework units, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin, may not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) in calendar year 2024, 476,536 kilograms;
+
+&emsp;&emsp;&emsp;&emsp;(II) in calendar year 2025, 470,376 kilograms;
+
+&emsp;&emsp;&emsp;&emsp;(III) in calendar year 2026, 464,183 kilograms; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) in calendar year 2027, 459,083 kilograms.
+
+#### (ii) Administration
+
+&emsp;&emsp;&emsp;The Secretary of Commerce shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) administer the import limitations described in clause (i) in accordance with the provisions of the Suspension Agreement, including the provisions described in subsection (c)(2)(B)(i);
+
+&emsp;&emsp;&emsp;&emsp;(II) be responsible for enforcing the import limitations described in clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(III) enforce the import limitations described in clause (i) in a manner that imposes a minimal burden on the commercial nuclear industry.
+
+#### (C) Termination
+
+&emsp;&emsp;Any waiver issued under subparagraph (A) shall terminate not later than January 1, 2028.
+
+#### (D) Notification to Congress
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Upon issuing a waiver under subparagraph (A), the Secretary of Energy shall submit to the committees specified in clause (ii) a notification that a waiver has been issued, which shall include identification of the recipient of the waiver.
+
+#### (ii) Committees specified
+
+&emsp;&emsp;&emsp;The committees specified in this clause are—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Committee on Energy and Natural Resources and the Committee on Finance of the Senate; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives.
+
+#### (3) Applicability
+
+&emsp;This subsection does not apply to imports—
+
+&emsp;&emsp;(A) by or under contract to the Department of Energy for national security or nonproliferation purposes; or
+
+&emsp;&emsp;(B) of non-uranium isotopes.
+
+#### (4) Termination
+
+&emsp;The provisions of this subsection shall terminate on December 31, 2040.
+
+#### (5) Russian entity defined
+
+&emsp;In this subsection, the term "Russian entity" means an entity organized under the laws of or otherwise subject to the jurisdiction of the Government of the Russian Federation.
+
+(Pub. L. 104–134, title III, §3112A, as added Pub. L. 110–329, div. C, title VIII, §8118(2), Sept. 30, 2008, 122 Stat. 3647; amended Pub. L. 116–260, div. Z, title II, §2007(a), Dec. 27, 2020, 134 Stat. 2472; Pub. L. 118–62, §2(a), (b)(1), May 13, 2024, 138 Stat. 1022, 1023.)
 
 #### <b>Editorial Notes</b>
 
@@ -271,6 +289,34 @@ It is the policy of the United States—
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(2)(A)(xi) to (xxvii). Pub. L. 118–62, §2(b)(1)(A)(i), struck out cls. (xi) to (xxvii) which provided limitations on importation of Russian low-enriched uranium for calendar years 2024 to 2040.
+
+Subsec. (c)(2)(C)(i). Pub. L. 118–62, §2(b)(1)(A)(ii), substituted "paragraph (9)" for "paragraph (10)".
+
+Subsec. (c)(3). Pub. L. 118–62, §2(b)(1)(B), substituted "United States" for "United States—" and struck out subpar. (B) designation before "for processing" and subpar. (A) which read as follows: "for use in the initial core of a new nuclear reactor; or".
+
+Subsec. (c)(5). Pub. L. 118–62, §2(b)(1)(E), substituted "The" for "In addition to the adjustment under paragraph (5)(A), the" in introductory provisions.
+
+Pub. L. 118–62, §2(b)(1)(C), (D), redesignated par. (6) as (5) and struck out former par. (5) which related to adjustments to import limitations.
+
+Subsec. (c)(6). Pub. L. 118–62, §2(b)(1)(D), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Subsec. (c)(7). Pub. L. 118–62, §2(b)(1)(D), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+
+Subsec. (c)(7)(A). Pub. L. 118–62, §2(b)(1)(F), substituted "paragraph (9)" for "paragraph (10)".
+
+Subsec. (c)(8). Pub. L. 118–62, §2(b)(1)(G), substituted "the date described in subsection (d)(1)" for "December 31, 2040".
+
+Pub. L. 118–62, §2(b)(1)(D), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+
+Subsec. (c)(9). Pub. L. 118–62, §2(b)(1)(D), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+
+Subsec. (c)(9)(A). Pub. L. 118–62, §2(b)(1)(H), substituted "paragraphs (2)(C) and (7)" for "paragraphs (2)(C) and (8)".
+
+Subsec. (c)(10) to (12). Pub. L. 118–62, §2(b)(1)(D), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
+
+Subsec. (d). Pub. L. 118–62, §2(a), added subsec. (d).
 
 <b>2020</b>—Subsec. (a)(7), (8). Pub. L. 116–260, §2007(a)(1), added par. (7) and redesignated former par. (7) as (8).
 
@@ -293,6 +339,10 @@ Subsec. (c)(9). Pub. L. 116–260, §2007(a)(3)(D), substituted "2040" for "2020
 Subsec. (c)(12)(B). Pub. L. 116–260, §2007(a)(3)(E), inserted "or the Suspension Agreement" after "the Russian HEU Agreement".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–62, §2(b)(2), May 13, 2024, 138 Stat. 1024, provided that: "The amendment to section 3112A(c)(2)(A)(xi) of the USEC Privatization Act (42 U.S.C. 2297h–10a(c)(2)(A)(xi)) made by paragraph (1)(A) of this subsection shall take effect on the date that is 90 days after the date of the enactment of this Act \[May 13, 2024\]."
 
 #### Applicability
 

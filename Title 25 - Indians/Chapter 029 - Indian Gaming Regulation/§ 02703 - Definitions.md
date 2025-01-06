@@ -58,7 +58,7 @@ For purposes of this chapter—
 
 &emsp;(8) The term "class III gaming" means all forms of gaming that are not class I gaming or class II gaming.
 
-&emsp;(9) The term "net revenues" means gross revenues of an Indian gaming activity less amounts paid out as, or paid for, prizes and total operating expenses, excluding management fees.
+&emsp;(9) The term "net revenues" means gross revenues of an Indian gaming activity lessamounts paid out as, or paid for, prizes and total operating expenses, excluding management fees.
 
 &emsp;(10) The term "Secretary" means the Secretary of the Interior.
 

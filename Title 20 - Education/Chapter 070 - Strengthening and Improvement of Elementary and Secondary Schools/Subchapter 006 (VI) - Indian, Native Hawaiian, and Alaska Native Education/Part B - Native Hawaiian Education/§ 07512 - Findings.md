@@ -14,13 +14,13 @@ Congress finds the following:
 
 &emsp;(6) In 1898, the joint resolution entitled "Joint Resolution to provide for annexing the Hawaiian Islands to the United States", approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic of Hawaii, including the government and crown lands of the former Kingdom of Hawaii, to the United States, but mandated that revenue generated from the lands be used "solely for the benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes".
 
-&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778 to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
+&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778 to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000acres of ceded public lands for homesteading by Native Hawaiians.
 
 &emsp;(8) Through the enactment of the Hawaiian Homes Commission Act, 1920, Congress affirmed the special relationship between the United States and the Native Hawaiians, which was described by then Secretary of the Interior Franklin K. Lane, who said: "One thing that impressed me . . . was the fact that the natives of the island who are our wards, I should say, and for whom in a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.".
 
 &emsp;(9) In 1938, Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781, chapter 530; 16 U.S.C. 391b, 391b–1, 392b, 392c, 396, 396a), a provision to lease lands within the National Parks extension to Native Hawaiians and to permit fishing in the area "only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance.".
 
-&emsp;(10) Under the Act entitled "An Act to provide for the admission of the State of Hawaiiinto the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
+&emsp;(10) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
 
 &emsp;(11) In 1959, under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", the United States also ceded to the State of Hawaii title to the public lands formerly held by the United States, but mandated that such lands be held by the State "in public trust" and reaffirmed the special relationship that existed between the United States and the Hawaiian people by retaining the legal responsibility to enforce the public trust responsibility of the State of Hawaii for the betterment of the conditions of Native Hawaiians, as defined in section 201(a) of the Hawaiian Homes Commission Act, 1920.
 
@@ -76,7 +76,7 @@ Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52
 
 An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare.For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
 The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
@@ -142,7 +142,7 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 
 "(17) In the 1998 National Assessment of Educational Progress, Hawaiian fourth-graders ranked 39th among groups of students from 39 States in reading. Given that Hawaiian students rank among the lowest groups of students nationally in reading, and that Native Hawaiian students rank the lowest among Hawaiian students in reading, it is imperative that greater focus be placed on beginning reading and early education and literacy in Hawaii.
 
-"(18) The findings described in paragraphs (16) and (17) are inconsistent with the high rates of literacy and integration of traditional culture and Western education historically achieved by Native Hawaiians through a Hawaiian language-based public school system established in 1840 by Kamehameha III.
+"(18) The findings described in paragraphs (16) and (17) are inconsistent with the high rates of literacy andintegration of traditional culture and Western education historically achieved by Native Hawaiians through a Hawaiian language-based public school system established in 1840 by Kamehameha III.
 
 "(19) Following the overthrow of the Kingdom of Hawaii in 1893, Hawaiian medium schools were banned. After annexation, throughout the territorial and statehood period of Hawaii, and until 1986, use of the Hawaiian language as an instructional medium in education in public schools was declared unlawful. The declaration caused incalculable harm to a culture that placed a very high value on the power of language, as exemplified in the traditional saying: 'I ka 'ōlelo nō ke ola; I ka 'ōlelo nō ka make. In the language rests life; In the language rests death.'.
 
@@ -152,7 +152,7 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 
 &emsp;"(A) reaffirms and protects the unique right of the Native Hawaiian people to practice and perpetuate their culture and religious customs, beliefs, practices, and language;
 
-&emsp;"(B) recognizes the traditional language of the Native Hawaiian people as an official language of theState of Hawaii, which may be used as the language of instruction for all subjects and grades in the public school system; and
+&emsp;"(B) recognizes the traditional language of the Native Hawaiian people as an official language of the State of Hawaii, which may be used as the language of instruction for all subjects and grades in the public school system; and
 
 &emsp;"(C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program."
 

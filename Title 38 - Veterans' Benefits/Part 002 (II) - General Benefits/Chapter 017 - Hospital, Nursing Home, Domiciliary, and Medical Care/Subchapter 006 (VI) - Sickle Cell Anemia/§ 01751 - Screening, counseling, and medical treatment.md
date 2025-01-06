@@ -2,7 +2,7 @@
 
 The Secretary is authorized to carry out a comprehensive program of providing sickle cell anemia screening, counseling, treatment, and information under the provisions of this chapter.
 
-(Added Pub. L. 93–82, title I, §109(a), Aug. 2, 1973, 87 Stat. 186, §651; renumbered §1751 and amendedPub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 93–82, title I, §109(a), Aug. 2, 1973, 87 Stat. 186, §651; renumbered §1751 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### <b>Editorial Notes</b>
 

@@ -282,7 +282,7 @@ Claims By or Against the United States
 
 The functions of prosecuting in the courts of the United States claims and demands by, and offenses against, the Government of the United States and of defending claims and demands against the Government, and of supervising the work of United States attorneys, marshals, and clerks in connection therewith, now exercised by any agency or officer, are transferred to the Department of Justice.
 
-As to any case referred to the Department of Justice for prosecution or defense in the courts, the function of decision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
+As to any case referred to the Department of Justice for prosecution or defense in the courts, the function ofdecision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
 
 For the exercise of such of his functions as are not transferred to the Department of Justice by the foregoing two paragraphs, the Solicitor of the Treasury is transferred from the Department of Justice to the Treasury Department.
 
@@ -400,7 +400,7 @@ All personnel employed in connection with the work of an abolished agency or fun
 
 #### Effective Date
 
-The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferred as to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
+The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferredas to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
 
 #### §20.
 

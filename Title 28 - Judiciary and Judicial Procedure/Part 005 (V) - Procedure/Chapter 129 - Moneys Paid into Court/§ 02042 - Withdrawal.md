@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 In U. S. Law Week, Nov. 7, 1939, Rep. Walter Chandler (Author of Chandler Act, Bankruptcy) observed as to the Judicial Code:
 
-"Among the major subjects needing study and revision are—Numerous procedural changes which havebeen brought about through adoption of the Federal Rules of Civil Procedure should be codified." \* \* \*
+"Among the major subjects needing study and revision are—Numerous procedural changes which have been brought about through adoption of the Federal Rules of Civil Procedure should be codified." \* \* \*
 
 #### <b>Editorial Notes</b>
 

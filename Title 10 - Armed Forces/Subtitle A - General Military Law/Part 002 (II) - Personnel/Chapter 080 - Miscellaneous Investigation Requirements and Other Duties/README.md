@@ -42,7 +42,7 @@ Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Sta
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §§561(b), 562(b), Oct. 14, 2008, 122 Stat. 4470, added items 1567 and 1567a.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title X, §§1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, 117 Stat. 1597, 1608, struck out "and recommendation" after "review" in item 1563 and added item 1564a.
+<b>2003</b>—Pub. L. 108–136, div. A, title X, §§1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, 117 Stat. 1597, 1608, struck out"and recommendation" after "review" in item 1563 and added item 1564a.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title X, §1063(b), Dec. 2, 2002, 116 Stat. 2653, added item 1565a.
 
@@ -64,7 +64,7 @@ Pub. L. 118–31, div. A, title X, §1049, Dec. 22, 2023, 137 Stat. 393, provide
 
 "(a)
 
-Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall prescribe regulations that establish the procedure for the timely determination of a covered complaint or request regarding a public display or public expression of religion on property of theDepartment of Defense. Such regulations shall ensure that—
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall prescribe regulations that establish the procedure for the timely determination of a covered complaint or request regarding a public display or public expression of religion on property of the Department of Defense. Such regulations shall ensure that—
 
 &emsp;"(1) the officer or official of the Department who receives such complaint or request forwards the covered complaint or request—
 
@@ -166,7 +166,7 @@ Pub. L. 116–283, div. A, title V, §549A, Jan. 1, 2021, 134 Stat. 3620, provid
 
 "(a)
 
-Guidance Required.—The Secretary of Defense shall issue guidance that requires each suicide event involving of a member of a covered Armed Force to be reviewed by a multidisciplinary board established at the command or installation level, or by the Chief of the covered Armed Force. Such guidance shall require that, for each suicide event reviewed by such a board, the board shall—
+Guidance Required.—The Secretary of Defense shall issue guidance that requires each suicide eventinvolving of a member of a covered Armed Force to be reviewed by a multidisciplinary board established at the command or installation level, or by the Chief of the covered Armed Force. Such guidance shall require that, for each suicide event reviewed by such a board, the board shall—
 
 &emsp;"(1) clearly define the objective, purpose, and outcome of the review;
 
@@ -184,7 +184,7 @@ Progress Report.—Not later than 180 days after the date of the enactment of th
 
 "(d)
 
-Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means theArmy, Navy, Air Force, Marine Corps, and Space Force."
+Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means the Army, Navy, Air Force, Marine Corps, and Space Force."
 
 #### Increase in Number of Digital Forensic Examiners for Certain Military Criminal Investigative Organizations
 
@@ -264,7 +264,7 @@ Annual report.—Not later than 90 days after the date of the enactment of the N
 
 &emsp;"(2)
 
-Partnerships.—The Secretary shall seek to enter into partnerships and execute collaborative agreements with functional experts, including highly qualified national child protection organizations or law enforcement training centers with demonstrated expertise in the delivery of law enforcement training, to identify, investigate, and prosecute individuals engaged in online child sexual exploitation.
+Partnerships.—The Secretary shall seek to enter into partnerships and execute collaborative agreements with functional experts, including highly qualified national child protection organizations or law enforcement training centers with demonstrated expertise in the delivery of law enforcement training,to identify, investigate, and prosecute individuals engaged in online child sexual exploitation.
 
 &emsp;"(3)
 

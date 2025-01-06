@@ -1,6 +1,6 @@
 ### §1444a. Regulations regarding payment of annuity to a representative payee
 
-(a) The regulations prescribed pursuant to section 1444(a) of this title shall provide proceduresfor the payment of an annuity under this subchapter in the case of—
+(a) The regulations prescribed pursuant to section 1444(a) of this title shall provide procedures for the payment of an annuity under this subchapter in the case of—
 
 &emsp;(1) a person for whom a guardian or other fiduciary has been appointed; and
 
@@ -10,7 +10,7 @@
 
 (c) An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to subsection (a) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
-(Added Pub. L. 102–190, div. A, title VI, §654(b)(1), Dec. 5, 1991, 105 Stat. 1390; amended Pub. L. 105–85, div. A, title X, §1073(a)(26), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 102–190, div. A, title VI, §654(b)(1), Dec. 5, 1991, 105 Stat. 1390; amended Pub. L.105–85, div. A, title X, §1073(a)(26), Nov. 18, 1997, 111 Stat. 1901.)
 
 #### <b>Editorial Notes</b>
 

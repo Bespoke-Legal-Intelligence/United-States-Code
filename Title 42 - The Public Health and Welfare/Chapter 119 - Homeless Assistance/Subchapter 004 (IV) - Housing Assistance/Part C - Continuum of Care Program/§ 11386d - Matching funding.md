@@ -6,7 +6,7 @@ A collaborative applicant in a geographic area in which funds are awarded under 
 
 #### (b) Limitations on in-kind match
 
-The cash value of services provided to the residents or clients of a project sponsor by an entityother than the project sponsor may count toward the contributions in subsection (a) only when documented by a memorandum of understanding between the project sponsor and the other entity that such services will be provided.
+The cash value of services provided to the residents or clients of a project sponsor by an entity other than the project sponsor may count toward the contributions in subsection (a) only when documented by a memorandum of understanding between the project sponsor and the other entity that such services will be provided.
 
 #### (c) Countable activities
 

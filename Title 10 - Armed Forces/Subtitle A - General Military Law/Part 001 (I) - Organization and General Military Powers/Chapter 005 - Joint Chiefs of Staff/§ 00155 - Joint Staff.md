@@ -34,7 +34,7 @@ Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint
 
 (e)
 
-Prohibition of Function as Armed Forces General Staff.—The Joint Staff shall not operate or be organized as an overall Armed Forces General Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
+Prohibition of Function as Armed Forces General Staff.—The Joint Staff shall not operate or be organized as an overall Armed ForcesGeneral Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
 
 (f)
 
@@ -124,7 +124,7 @@ Pub. L. 115–91, div. A, title XVI, §1627, Dec. 12, 2017, 131 Stat. 1734, prov
 
 Chairman's Controlled Activity.—The Chairman of the Joint Chiefs of Staff shall—
 
-&emsp;"(1) undertake the roles, missions, and responsibilities of, and preserve an equal or greater number of personnel billets than the amount of such billets previously prescribed for, the Joint Functional Component Command for Intelligence, Surveillance, and Reconnaissance of the United States Strategic Command; and
+&emsp;"(1) undertake the roles, missions, and responsibilities of, and preserve an equal or greater number ofpersonnel billets than the amount of such billets previously prescribed for, the Joint Functional Component Command for Intelligence, Surveillance, and Reconnaissance of the United States Strategic Command; and
 
 &emsp;"(2) not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], establish an organization within the Joint Staff—
 

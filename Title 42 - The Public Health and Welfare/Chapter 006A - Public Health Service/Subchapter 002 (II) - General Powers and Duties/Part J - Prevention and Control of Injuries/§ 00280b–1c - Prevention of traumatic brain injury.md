@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may carry out projects to reduce the incidence of traumatic brain injury. Such projects may be carried out by the Secretary directly or through awards of grants or contracts to public or nonprofit private entities. The Secretary may directly or through such awards provide technical assistance with respect to the planning, development, and operation of such projects.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may carry out projects to reduce the incidence of traumatic brain injury. Such projects may be carried out by the Secretary directly or through awards of grants or contracts to public or nonprofit private entities. The Secretary may directly or through such awards provide technical assistance with respect to the planning, development, and operation of such projects.
 
 #### (b) Certain activities
 
@@ -12,7 +12,7 @@ Activities under subsection (a) may include—
 
 &emsp;(2) the implementation of public information and education programs for the prevention of such injury and for broadening the awareness of the public concerning the public health consequences of such injury; and
 
-&emsp;(3) the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of theSecretary regarding health-status goals for 2020, commonly referred to as Healthy People 2020), including—
+&emsp;(3) the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2020, commonly referred to as Healthy People 2020), including—
 
 &emsp;&emsp;(A) the national dissemination of information on—
 

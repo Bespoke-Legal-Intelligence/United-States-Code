@@ -96,7 +96,7 @@ Subsec. (b)(5). Pub. L. 113–4, §203(1)(C), substituted "victim service provid
 
 Subsec. (c)(1)(D). Pub. L. 113–4, §203(2), substituted "victim service provider, such as a State or tribal" for "nonprofit and nongovernmental victim services organization, such as a State".
 
-Subsec. (e). Pub. L. 113–4, §203(3), substituted "$9,000,000 for each of fiscal years 2014 through 2018" for "$10,000,000 for each of the fiscal years 2007 through 2011".
+Subsec. (e). Pub. L. 113–4, §203(3), substituted "$9,000,000 for each of fiscal years 2014 through 2018" for"$10,000,000 for each of the fiscal years 2007 through 2011".
 
 <b>2006</b>—Pub. L. 109–162 substituted "Education, training, and enhanced services to end violence against and abuse of women with disabilities" for "Education and training to end violence against and abuse of women with disabilities" in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
 

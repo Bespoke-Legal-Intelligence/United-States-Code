@@ -6,7 +6,7 @@ Notwithstanding section 1396d(b) of this title, if a State has in effect a law r
 
 #### (b) Requirements
 
-For purposes of subsection (a), the requirements of this subsection are that the InspectorGeneral of the Department of Health and Human Services, in consultation with the Attorney General, determines that the State has in effect a law that meets the following requirements:
+For purposes of subsection (a), the requirements of this subsection are that the Inspector General of the Department of Health and Human Services, in consultation with the Attorney General, determines that the State has in effect a law that meets the following requirements:
 
 &emsp;(1) The law establishes liability to the State for false or fraudulent claims described in section 3729 of title 31 with respect to any expenditure described in section 1396b(a) of this title.
 

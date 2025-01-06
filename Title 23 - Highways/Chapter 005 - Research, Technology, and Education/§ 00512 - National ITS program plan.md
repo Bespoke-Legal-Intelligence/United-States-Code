@@ -68,7 +68,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;"(1) enhancement of surface transportation efficiency and facilitation of intermodalism and international trade to enable existing facilities to meet a significant portion of future transportation needs, including public access to employment, goods, and services and to reduce regulatory, financial, and other transaction costs to public agencies and system users;
 
-&emsp;"(2) achievement of national transportation safety goals, including the enhancement of safe operation ofmotor vehicles and nonmotorized vehicles and improved emergency response to a crash, with particular emphasis on decreasing the number and severity of collisions;
+&emsp;"(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles and improved emergency response to a crash, with particular emphasis on decreasing the number and severity of collisions;
 
 &emsp;"(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
@@ -116,7 +116,7 @@ Policy.—Intelligent transportation system research projects and operational te
 
 "(c)
 
-Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and colleges and universities, including historically Black colleges and universities and other minority institutions of higher education.
+Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and otherpublic entities, the private sector firms of the United States, the Federal laboratories, and colleges and universities, including historically Black colleges and universities and other minority institutions of higher education.
 
 "(d)
 
@@ -464,7 +464,7 @@ Allocation of funds.—Of the funds made available under paragraph (1) the Secre
 
 &emsp;"(3)
 
-Applicability of title 23.—Funds authorized by this section shall be available for obligation in the same manner as if such funds were apportioned underchapter 1 of title 23, United States Code, except that the Federal share shall be 100 percent.
+Applicability of title 23.—Funds authorized by this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the Federal share shall be 100 percent.
 
 "(e)
 
@@ -532,7 +532,7 @@ State.—The term 'State' has the meaning given the term under section 101 of ti
 
 &emsp;"(8)
 
-Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
+Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United StatesCode \[section 101(a) of this title does not define the term\]."
 
 #### Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems
 

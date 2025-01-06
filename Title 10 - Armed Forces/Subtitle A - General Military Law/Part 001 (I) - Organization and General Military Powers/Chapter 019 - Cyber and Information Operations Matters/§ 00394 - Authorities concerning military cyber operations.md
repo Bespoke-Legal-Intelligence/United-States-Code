@@ -58,6 +58,84 @@ Pub. L. 115–232, §1631(a), renumbered section 130g of this title as this sect
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Support for Cyber Threat Tabletop Exercise Program With the Defense Industrial Base
+
+Pub. L. 118–159, div. A, title XV, §1504, Dec. 23, 2024, 138 Stat. 2133, provided that:
+
+"(a)
+
+Development of Cyber Threat Tabletop Exercise Program.—
+
+&emsp;"(1)
+
+In general.— Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense, acting through the Assistant Secretary of Defense for Cyber Policy, shall establish a program (to be known as the 'Cyber Threat Tabletop Exercise Program') to prepare the Department of Defense and the defense industrial base for cyber attacks preceding or during times of conflict or wars through the use of tabletop exercises.
+
+&emsp;"(2)
+
+Participation.—
+
+&emsp;&emsp;"(A)
+
+In general.—In carrying out the program, the Secretary of Defense, acting through the Assistant Secretary of Defense for Cyber Policy, shall consult and coordinate with the following:
+
+&emsp;&emsp;&emsp;"(i) The Chief Information Officer of the Department of Defense.
+
+&emsp;&emsp;&emsp;"(ii) The Under Secretary of Defense for Acquisition and Sustainment.
+
+&emsp;&emsp;&emsp;"(iii) The Commander of the United States Cyber Command.
+
+&emsp;&emsp;&emsp;"(iv) The Commander of the United States Northern Command.
+
+&emsp;&emsp;&emsp;"(v) The Commander of the Army Interagency Training and Education Center.
+
+&emsp;&emsp;&emsp;"(vi) The Director of the Defense Cyber Crime Center.
+
+&emsp;&emsp;&emsp;"(vii) Such other individuals and entities as the Assistant Secretary of Defense for Cyber Policy determines appropriate.
+
+&emsp;&emsp;"(B)
+
+Solicitation.—The Assistant Secretary of Defense for Cyber Policy may solicit such individuals and entities in the Department of Defense and the defense industrial base as the Assistant Secretary determines appropriate to participate in the program.
+
+&emsp;"(3)
+
+Cyber threat tabletop exercise program.——
+
+&emsp;&emsp;"(A)
+
+In general.—The program shall consist of the following:
+
+&emsp;&emsp;&emsp;"(i) A series of tabletop exercises that simulate cyber attack scenarios affecting the defense industrial base, which the Assistant Secretary of Defense for Cyber Policy shall carry out on a biannual basis beginning not later than one year after the date of the enactment of this Act until December 30, 2030, and in which the Department of Defense and entities in the defense industrial base shall participate.
+
+&emsp;&emsp;&emsp;"(ii) A series of tabletop exercises for use by individual entities or collections of entities in the defense industrial base that simulate cyber attack scenarios affecting the defense industrial base and which are designed to test and improve the responses and plans of such entities to such scenarios.
+
+&emsp;&emsp;"(B)
+
+Tabletop exercise development.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Assistant Secretary of Defense for Cyber Policy shall develop and update the tabletop exercises described in subparagraph (A).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Realistic attacks.—The Assistant Secretary of Defense for Cyber Policy shall ensure that the cyber attacks simulated by the tabletop exercises described in subparagraph (A) are based on the cyber attack capabilities and activities of current and potential adversaries of the United States.
+
+&emsp;"(4)
+
+Procedures for identification of vulnerabilities and lessons learned.—Not later than one year after the date of the enactment of this Act, the Assistant Secretary of Defense for Cyber Policy shall establish procedures to—
+
+&emsp;&emsp;"(A) identify vulnerabilities in the cybersecurity of the Department of Defense and the defense industrial base pursuant to the tabletop exercises carried out under the program; and
+
+&emsp;&emsp;"(B) identify other lessons learned that can improve national security or the quality of such tabletop exercises.
+
+"(b)
+
+Annual Report.—Not later than September 30, 2025, and annually thereafter until the \[sic\] October 1, 2029, the Secretary of Defense, acting through the Assistant Secretary of Defense for Cyber Policy, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the activities of the Department of Defense pursuant to this section during the preceding year.
+
+"(c)
+
+Program Defined.—In this section, the term 'program' means the program established under subsection (a)."
+
 #### Authority for Countering Illegal Trafficking by Mexican Transnational Criminal Organizations in Cyberspace
 
 Pub. L. 118–31, div. A, title XV, §1505, Dec. 22, 2023, 137 Stat. 539, provided that:
@@ -90,7 +168,7 @@ In General.—The Secretary of Defense, subject to existing authorities and limi
 
 Responsibilities of Chief Digital and Artificial Intelligence Officer.—The Chief Digital and Artificial Intelligence Officer shall—
 
-&emsp;"(1) develop a baseline of data assets exclusive to foreign key terrain and relational frameworks in cyberspace maintained by the intelligence agencies of the Department of Defense, the military departments, the combatant commands, and any other components of the Department of Defense;
+&emsp;"(1) develop a baseline of data assets exclusive to foreign key terrain and relational frameworks in cyberspace maintained by the intelligence agencies ofthe Department of Defense, the military departments, the combatant commands, and any other components of the Department of Defense;
 
 &emsp;"(2) develop and oversee the implementation of plans to enhance such data assets that the Chief Digital and Artificial Intelligence Officer determines are essential to support the purposes set forth in subsection (a); and
 
@@ -754,7 +832,7 @@ In general.—The Assistant Secretary of Defense for Homeland Defense and Global
 
 &emsp;"(2)
 
-Research exercises.—The pilot program shall source data from and include consideration of the 'Jack Voltaic' research exercises conducted by the Army Cyber Institute, industry partners of the Institute, and the cities of New York, New York, and Houston, Texas.
+Research exercises.—The pilot program shall source data from and include consideration of the'Jack Voltaic' research exercises conducted by the Army Cyber Institute, industry partners of the Institute, and the cities of New York, New York, and Houston, Texas.
 
 "(b)
 
@@ -854,7 +932,7 @@ Elements of Review.—Each review conducted under subsection (a) shall include, 
 
 &emsp;&emsp;"(C) The international partner cyber capacity-building programs of the Department.
 
-&emsp;"(3) A review of the law, policies, and authorities relating to, and necessary for, the United States to maintain a safe, reliable, and credible cyber posture for defending against and responding to cyber attacks and for deterrence in cyberspace, including the following:
+&emsp;"(3) A review of the law, policies, and authorities relating to, and necessary for, the United States to maintain a safe, reliable, and credible cyber posture for defending against and responding to cyber attacksand for deterrence in cyberspace, including the following:
 
 &emsp;&emsp;"(A) An assessment of the need for further delegation of cyber-related authorities, including those germane to information warfare, to the Commander of United States Cyber Command.
 

@@ -6,7 +6,7 @@ Officers Eligible for Consideration For Vacancy Promotions Below Brigadier Gener
 
 &emsp;(1) The officer is occupying or, under regulations prescribed by the Secretary concerned, has been recommended to occupy a position in the same competitive category as the officer and for which a grade higher than the one held by that officer is authorized.
 
-&emsp;(2) The officer is fully qualified to meet all requirements for the position as establishedby the Secretary of the military department concerned.
+&emsp;(2) The officer is fully qualified to meet all requirements for the position as established by the Secretary of the military department concerned.
 
 &emsp;(3) The officer has held the officer's present grade for the minimum period of service prescribed in section 14303 of this title for eligibility for consideration for promotion to the higher grade.
 

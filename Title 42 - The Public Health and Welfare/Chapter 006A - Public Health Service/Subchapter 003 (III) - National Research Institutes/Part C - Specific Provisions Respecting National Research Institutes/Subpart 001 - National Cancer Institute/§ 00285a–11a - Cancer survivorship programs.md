@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(v) design tools to support the secure electronic transfer of treatment information and care summaries between health care providers or, as applicable and appropriate, longitudinal childhood cancer survivorship cohorts (including risk factors and a plan for recommended follow-up care);
 
-&emsp;&emsp;&emsp;(vi) dissemination of the information and programs described in clauses (i)through (v) to other health care providers (including primary care physicians and internists) and to cancer survivors and their families, where appropriate and in accordance with Federal and State law; and
+&emsp;&emsp;&emsp;(vi) dissemination of the information and programs described in clauses (i) through (v) to other health care providers (including primary care physicians and internists) and to cancer survivors and their families, where appropriate and in accordance with Federal and State law; and
 
 &emsp;&emsp;&emsp;(vii) development of initiatives that promote the coordination and effective transition of care between cancer care providers, primary care physicians, mental health professionals, and other health care professionals, as appropriate, including models that use a team-based or multi-disciplinary approach to care.
 

@@ -14,7 +14,7 @@
 
 #### (1) Standard
 
-&emsp;Subject to regulations prescribed under this subsection, each mortgage originator shall, inaddition to the duties imposed by otherwise applicable provisions of State or Federal law—
+&emsp;Subject to regulations prescribed under this subsection, each mortgage originator shall, in addition to the duties imposed by otherwise applicable provisions of State or Federal law—
 
 &emsp;&emsp;(A) be qualified and, when required, registered and licensed as a mortgage originator in accordance with applicable State or Federal law, including the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 \[12 U.S.C. 5101 et seq.\]; and
 

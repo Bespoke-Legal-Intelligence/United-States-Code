@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of an activity engaged in by an individual or an S corporation, if such activity isnot engaged in for profit, no deduction attributable to such activity shall be allowed under this chapter except as provided in this section.
+In the case of an activity engaged in by an individual or an S corporation, if such activity is not engaged in for profit, no deduction attributable to such activity shall be allowed under this chapter except as provided in this section.
 
 #### (b) Deductions allowable
 
@@ -32,7 +32,7 @@ If the gross income derived from an activity for 3 or more of the taxable years 
 
 #### (3) Election
 
-&emsp;An election under paragraph (1) shall be made at such time and manner, and subject to such terms and conditions, as the Secretary may prescribe.
+&emsp;An election under paragraph (1) shall be made at such time and manner, and subject tosuch terms and conditions, as the Secretary may prescribe.
 
 #### (4) Time for assessing deficiency attributable to activity
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -88,7 +88,7 @@ It is the sense of Congress that—
 
 #### (B) Treatment of additional amounts owed
 
-&emsp;&emsp;If, for a month, the total amount of principal, interest, and associated fees that are owed on a covered loan for which the Administration makes payments under paragraph (1) is more than $9,000 the Administratormay require the lender with respect to the covered loan to add the amount by which those costs exceed $9,000 for that month as interest to be paid by the borrower with respect to the covered loan at the end of the loan period.
+&emsp;&emsp;If, for a month, the total amount of principal, interest, and associated fees that are owed on a covered loan for which the Administration makes payments under paragraph (1) is more than $9,000 the Administrator may require the lender with respect to the covered loan to add the amount by which those costs exceed $9,000 for that month as interest to be paid by the borrower with respect to the covered loan at the end of the loan period.
 
 #### (5) Additional provisions for new loans
 
@@ -126,7 +126,7 @@ It is the sense of Congress that—
 
 #### (9) Rule of construction
 
-&emsp;Except as provided in paragraph (4), nothing in this subsection may be construed to preclude a borrower from receiving full payments of principal, interest, and any associated fees authorized under this subsection with respect to a covered loan.
+&emsp;Except as provided in paragraph (4), nothing in this subsection may be construed to preclude a borrower from receiving full payments of principal, interest, and any associated feesauthorized under this subsection with respect to a covered loan.
 
 #### (d) Other requirements
 

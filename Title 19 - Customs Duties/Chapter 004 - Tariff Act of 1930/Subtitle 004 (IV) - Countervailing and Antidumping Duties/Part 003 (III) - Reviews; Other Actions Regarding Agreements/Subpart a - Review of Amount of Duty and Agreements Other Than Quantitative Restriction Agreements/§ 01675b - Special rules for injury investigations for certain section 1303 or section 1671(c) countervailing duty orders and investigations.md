@@ -16,7 +16,7 @@
 
 #### (2) Description of countervailing duty orders
 
-&emsp;A countervailing duty order described in this paragraph is an order issued under section 1303 <sup>1</sup> of this title or section 1671(c) of this titlewith respect to which the requirement of an affirmative determination of material injury was not applicable at the time such order was issued.
+&emsp;A countervailing duty order described in this paragraph is an order issued under section 1303 <sup>1</sup> of this title or section 1671(c) of this title with respect to which the requirement of an affirmative determination of material injury was not applicable at the time such order was issued.
 
 #### (3) Requirements of request for investigation
 
@@ -56,7 +56,7 @@
 
 #### (A) Net countervailable subsidy
 
-&emsp;&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order which is the subject of the investigation is revoked. The administering authority normally shall choose a net countervailable subsidy that was determined under section 1671d of this title or subsection (a) or (b)(1) of section 1675 of this title. If the Commission considers the magnitude of the net countervailable subsidy in making its determination under this section, the Commission shall use the net countervailable subsidy provided by the administering authority.
+&emsp;&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order which is the subject of the investigation is revoked. The administering authority normally shall choose a net countervailablesubsidy that was determined under section 1671d of this title or subsection (a) or (b)(1) of section 1675 of this title. If the Commission considers the magnitude of the net countervailable subsidy in making its determination under this section, the Commission shall use the net countervailable subsidy provided by the administering authority.
 
 #### (B) Nature of subsidy
 

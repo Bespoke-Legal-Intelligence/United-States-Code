@@ -6,7 +6,7 @@ The Secretary concerned shall have power to subpoena the attendance and testimon
 
 #### (b) Location of production
 
-The attendance of any witness and the production of documentary evidence may be required from any place in the United States at any designated place of hearing.
+The attendance of any witness and the production of documentary evidence may be requiredfrom any place in the United States at any designated place of hearing.
 
 #### (c) Enforcement of subpoena
 
@@ -18,7 +18,7 @@ Witnesses summoned by the Secretary concerned shall be paid the same fees and mi
 
 #### (e) Procedures
 
-The Secretary concerned shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated,the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
+The Secretary concerned shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
 #### (f) Scope of subpoena
 

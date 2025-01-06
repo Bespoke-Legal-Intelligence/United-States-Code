@@ -32,7 +32,7 @@ A prior section 272 of Pub. L. 94–462 was renumbered section 273 and is classi
 
 #### Amendments
 
-<b>2018</b>—Par. (1). Pub. L. 115–410, §16(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;".
+<b>2018</b>—Par. (1). Pub. L. 115–410, §16(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which readas follows: "to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;".
 
 Par. (2). Pub. L. 115–410, §16(3), added par. (2). Former par. (2) redesignated (1).
 

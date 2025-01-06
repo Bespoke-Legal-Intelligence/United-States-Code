@@ -24,7 +24,7 @@ Interest on a direct loan made to a borrower described in this section shall not
 
 Notwithstanding section 2008h of this title or any other provision of this chapter, a borrower who receives assistance under this section shall not, as a result of the assistance, be considered to be delinquent or receiving debt forgiveness for purposes of receiving a direct or guaranteed loan under this chapter.
 
-(Pub. L. 87–128, title III, §332, as added Pub. L. 108–375, div. A, title VI, §664, Oct. 28, 2004, 118Stat. 1974; amended Pub. L. 115–232, div. A, title XII, §1204(a)(2), Aug. 13, 2018, 132 Stat. 2017.)
+(Pub. L. 87–128, title III, §332, as added Pub. L. 108–375, div. A, title VI, §664, Oct. 28, 2004, 118 Stat. 1974; amended Pub. L. 115–232, div. A, title XII, §1204(a)(2), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 

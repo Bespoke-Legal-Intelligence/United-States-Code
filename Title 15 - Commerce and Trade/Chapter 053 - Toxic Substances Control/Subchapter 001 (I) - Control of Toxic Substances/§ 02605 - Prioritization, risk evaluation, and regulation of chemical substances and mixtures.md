@@ -8,7 +8,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;(2) A requirement—
 
-&emsp;&emsp;(A) prohibiting or otherwise restricting the manufacture, processing, or distribution in commerce of such substance or mixturefor (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement, or
+&emsp;&emsp;(A) prohibiting or otherwise restricting the manufacture, processing, or distribution in commerce of such substance or mixture for (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement, or
 
 &emsp;&emsp;(B) limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce for (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement.
 
@@ -22,7 +22,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;(B) A requirement under subparagraph (A) may not require any person to take any action which would be in violation of any law or requirement of, or in effect for, a State or political subdivision, and shall require each person subject to it to notify each State and political subdivision in which a required disposal may occur of such disposal.
 
-&emsp;(7) A requirement directing manufacturers or processors of such substance or mixture (A) to give notice of such determination to distributors in commerce of such substance or mixture and, to the extent reasonably ascertainable, to other persons in possession of such substance or mixture or exposed to such substance or mixture, (B) to give public notice of such determination, and (C) to replace or repurchase such substance or mixture as elected by the person to which the requirement is directed.
+&emsp;(7) A requirement directing manufacturers or processors of such substance or mixture (A)to give notice of such determination to distributors in commerce of such substance or mixture and, to the extent reasonably ascertainable, to other persons in possession of such substance or mixture or exposed to such substance or mixture, (B) to give public notice of such determination, and (C) to replace or repurchase such substance or mixture as elected by the person to which the requirement is directed.
 
 > Any requirement (or combination of requirements) imposed under this subsection may be limited in application to specified geographic areas.
 
@@ -114,7 +114,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (D) Scope
 
-&emsp;&emsp;The Administrator shall, not later than 6 months after the initiation of a risk evaluation, publish the scope of the risk evaluation to be conducted, including the hazards, exposures, conditions of use, and the potentially exposed or susceptible subpopulations the Administrator expects to consider, and, for each designation of a high-priority substance, ensure not less than 12 months between the initiation of the prioritization process for the chemical substance and the publication of the scope of the risk evaluation for the chemical substance, and for riskevaluations conducted on chemical substances that have been identified under paragraph (2)(A) or selected under subparagraph (E)(iv)(II) of this paragraph, ensure not less than 3 months before the Administrator publishes the scope of the risk evaluation.
+&emsp;&emsp;The Administrator shall, not later than 6 months after the initiation of a risk evaluation, publish the scope of the risk evaluation to be conducted, including the hazards, exposures, conditions of use, and the potentially exposed or susceptible subpopulations the Administrator expects to consider, and, for each designation of a high-priority substance, ensure not less than 12 months between the initiation of the prioritization process for the chemical substance and the publication of the scope of the risk evaluation for the chemical substance, and for risk evaluations conducted on chemical substances that have been identified under paragraph (2)(A) or selected under subparagraph (E)(iv)(II) of this paragraph, ensure not less than 3 months before the Administrator publishes the scope of the risk evaluation.
 
 #### (E) Limitation and criteria
 
@@ -346,7 +346,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (4) Conditions
 
-&emsp;As part of a rule promulgated under this subsection, the Administrator shall include conditions, including reasonable recordkeeping, monitoring, and reporting requirements, to the extent that the Administrator determines the conditions are necessary to protect health and the environment while achieving the purposes of the exemption.
+&emsp;As part of a rule promulgated under this subsection, the Administrator shall includeconditions, including reasonable recordkeeping, monitoring, and reporting requirements, to the extent that the Administrator determines the conditions are necessary to protect health and the environment while achieving the purposes of the exemption.
 
 #### (h) Chemicals that are persistent, bioaccumulative, and toxic
 

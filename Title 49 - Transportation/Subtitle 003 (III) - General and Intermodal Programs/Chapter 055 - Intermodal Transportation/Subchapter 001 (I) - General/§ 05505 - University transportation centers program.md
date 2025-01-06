@@ -12,7 +12,7 @@ Establishment and operation.—The Secretary of Transportation, acting through t
 
 Role of centers.—The role of each university transportation center referred to in paragraph (1) shall be—
 
-&emsp;&emsp;(A) to advance transportation expertise and technology in the varied disciplines thatcomprise the field of transportation through education, research, and technology transfer activities;
+&emsp;&emsp;(A) to advance transportation expertise and technology in the varied disciplines that comprise the field of transportation through education, research, and technology transfer activities;
 
 &emsp;&emsp;(B) to provide for a critical multimodal transportation knowledge base outside of the Department of Transportation; and
 
@@ -32,7 +32,7 @@ Restriction.—
 
 &emsp;&emsp;(A)
 
-Limitation.—A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year as a lead institution under this section, except as provided in subparagraph (B).
+Limitation.—A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year as a lead institutionunder this section, except as provided in subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -248,7 +248,7 @@ Review and evaluation.—Not less frequently than biennially, and consistent wit
 
 &emsp;(3)
 
-Program evaluation and oversight.—For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for anycoordination, evaluation, and oversight activities of the Secretary under this section.
+Program evaluation and oversight.—For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
 (e)
 
@@ -258,7 +258,7 @@ Limitation on Availability of Amounts.—Amounts made available to the Secretary
 
 Information Collection.—Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.
 
-(Added and amended Pub. L. 105–178, title V, §5110(a), (d), June 9, 1998, 112 Stat. 441; Pub. L. 105–206, title IX, §9011(d), July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title V, §5401(a), Aug. 10, 2005, 119 Stat. 1814; Pub. L. 112–141, div. E, title II, §52009(a), July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title VI, §6016, Dec. 4, 2015, 129 Stat. 1571; Pub. L. 117–58, div. B, title V, §25017, Nov. 15, 2021, 135 Stat. 873.)
+(Added and amended Pub. L. 105–178, title V, §5110(a), (d), June 9, 1998, 112 Stat. 441; Pub. L. 105–206, title IX, §9011(d), July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title V, §5401(a), Aug. 10, 2005, 119 Stat. 1814; Pub. L. 112–141, div. E, title II, §52009(a), July 6, 2012, 126 Stat. 882; Pub. L.114–94, div. A, title VI, §6016, Dec. 4, 2015, 129 Stat. 1571; Pub. L. 117–58, div. B, title V, §25017, Nov. 15, 2021, 135 Stat. 873.)
 
 #### <b>Editorial Notes</b>
 

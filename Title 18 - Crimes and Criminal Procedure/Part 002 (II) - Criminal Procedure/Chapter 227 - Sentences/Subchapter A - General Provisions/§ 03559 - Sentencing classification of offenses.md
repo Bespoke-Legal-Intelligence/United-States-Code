@@ -48,11 +48,11 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(A) the term "assault with intent to commit rape" means an offense that has as its elements engaging in physical contact with another person or using or brandishing a weapon against another person with intent to commit aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242);
 
-&emsp;&emsp;(B) the term "arson" means an offense that has as its elements maliciously damaging or destroying any building, inhabitedstructure, vehicle, vessel, or real property by means of fire or an explosive;
+&emsp;&emsp;(B) the term "arson" means an offense that has as its elements maliciously damaging or destroying any building, inhabited structure, vehicle, vessel, or real property by means of fire or an explosive;
 
 &emsp;&emsp;(C) the term "extortion" means an offense that has as its elements the extraction of anything of value from another person by threatening or placing that person in fear of injury to any person or kidnapping of any person;
 
-&emsp;&emsp;(D) the term "firearms use" means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used was subject to prosecution in a court of the United States or a court of a State, or both;
+&emsp;&emsp;(D) the term "firearms use" means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used wassubject to prosecution in a court of the United States or a court of a State, or both;
 
 &emsp;&emsp;(E) the term "kidnapping" means an offense that has as its elements the abduction, restraining, confining, or carrying away of another person by force or threat of force;
 
@@ -138,13 +138,13 @@ Definitions.—For the purposes of this subsection—
 
 &emsp;&emsp;(A) the term "Federal sex offense" means an offense under section 1591 (relating to sex trafficking of children), 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
 
-&emsp;&emsp;(B) the term "State sex offense" means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
+&emsp;&emsp;(B) the term "State or Military sex offense" means an offense under State law or the Uniform Code of Military Justice that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
 
 &emsp;&emsp;&emsp;(i) the offense involved interstate or foreign commerce, or the use of the mails; or
 
 &emsp;&emsp;&emsp;(ii) the conduct occurred in any commonwealth, territory, or possession of the United States, within the special maritime and territorial jurisdiction of the United States, in a Federal prison, on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country (as defined in section 1151);
 
-&emsp;&emsp;(C) the term "prior sex conviction" means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State sex offense;
+&emsp;&emsp;(C) the term "prior sex conviction" means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State or Military sex offense;
 
 &emsp;&emsp;(D) the term "minor" means an individual who has not attained the age of 17 years; and
 
@@ -178,11 +178,15 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 &emsp;(B) the term "domain name" has the meaning given that term is <sup>1</sup> section 45 of the Act entitled "An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes" approved July 5, 1946 (commonly referred to as the "Trademark Act of 1946") (15 U.S.C. 1127).
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L.109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L. 109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614; Pub. L. 118–159, div. A, title V, §569(6), Dec. 23, 2024, 138 Stat. 1906.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(2)(B). Pub. L. 118–159, §569(6)(A), substituted "State or Military sex offense" for "State sex offense" and inserted "or the Uniform Code of Military Justice" after "State law" in introductory provisions.
+
+Subsec. (e)(2)(C). Pub. L. 118–159, §569(6)(B), inserted "or Military" after "State".
 
 <b>2006</b>—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted "1591 (relating to sex trafficking of children)," after "under section".
 

@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Oct. 30, 1984, Pub. L. 98–584, §10, 98 Stat. 3098.
 
-In this section, the word "records" is substituted for "books and records" for consistency in the revised titleand with other titles of the United States Code. The words "Nothing in this section shall be construed to contravene any applicable State law" are omitted as unnecessary.
+In this section, the word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code. The words "Nothing in this section shall be construed to contravene any applicable State law" are omitted as unnecessary.
 
 In subsection (a)(3), the words "in any proceeding of the corporation" are omitted as unnecessary.
 

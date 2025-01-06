@@ -1,6 +1,6 @@
 ### §3181. Scope and limitation of chapter
 
-(a) The provisions of this chapter relating to the surrender of persons who have committed crimes in foreign countries shall continue in force only during the existence of any treaty of extradition with such foreign government.
+(a) The provisions of this chapter relating to the surrender of persons who have committedcrimes in foreign countries shall continue in force only during the existence of any treaty of extradition with such foreign government.
 
 (b) The provisions of this chapter shall be construed to permit, in the exercise of comity, the surrender of persons, other than citizens, nationals, or permanent residents of the United States, who have committed crimes of violence against nationals of the United States in foreign countries without regard to the existence of any treaty of extradition with such foreign government if the Attorney General certifies, in writing, that—
 

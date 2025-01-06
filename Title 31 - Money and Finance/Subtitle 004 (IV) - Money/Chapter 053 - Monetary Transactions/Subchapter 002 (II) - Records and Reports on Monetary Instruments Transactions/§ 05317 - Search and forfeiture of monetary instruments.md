@@ -28,7 +28,7 @@ Civil forfeiture.—
 
 &emsp;&emsp;(A)
 
-In general.—Any property involved in a violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18, United States Code.
+In general.—Any property involved in a violation of section 5313, 5316, or 5324 ofthis title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18, United States Code.
 
 &emsp;&emsp;(B)
 
@@ -76,7 +76,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§232, 235, 84 Stat. 1123.
 
 In subsection (a), the words "The Secretary shall include a statement of information in support of the warrant" are substituted for 31:1105(a)(last sentence) to eliminate unnecessary words and for consistency. The word "for" is substituted for "authorizing the search of . . . all of the following" to eliminate unnecessary words. The words "or more" are omitted as unnecessary because the singular includes the plural under 1:1. The words "or premises", "letters, parcels, packages, or other", and "vehicles" are omitted as surplus.
 
-In subsection (b), the words "either" and "the possession of" are omitted as surplus. The words "UnitedStates Postal Service" are substituted for "postal service" for consistency with title 39. The words "or retained in" are omitted as surplus.
+In subsection (b), the words "either" and "the possession of" are omitted as surplus. The words "United States Postal Service" are substituted for "postal service" for consistency with title 39. The words "or retained in" are omitted as surplus.
 
 #### <b>Editorial Notes</b>
 
@@ -96,7 +96,7 @@ Pub. L. 107–56, §365(b)(2)(B), substituted "section 5324(c)" for "section 532
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–570, §1355(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A customs officer may stop and search, without a search warrant, a vehicle, vessel, aircraft, or other conveyance, envelope or other container, or person entering or departing from the United States with respect to which or whom the officer has reasonable cause to believe there is a monetary instrument being transported in violation of section 5316 of this title."
 
-Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement."
+Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument undersection 5316 of this title has not been filed or contains a material omission or misstatement."
 
 <b>1984</b>—Subsecs. (b), (c). Pub. L. 98–473, §901, added subsec. (b) and redesignated former subsec. (b) as (c).
 

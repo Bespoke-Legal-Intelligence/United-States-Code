@@ -84,7 +84,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
 
 &emsp;(10) advance efficient and reliable integration of hydropower and pumped storage systems with the electric grid by—
 
-&emsp;&emsp;(A) improving methods for operational forecasting of renewable energy systems to identify opportunities for hydropower applications in pumped storage and hybrid energy systems, including forecasting of seasonal and annual energy storage;
+&emsp;&emsp;(A) improving methods for operational forecasting of renewable energy systems toidentify opportunities for hydropower applications in pumped storage and hybrid energy systems, including forecasting of seasonal and annual energy storage;
 
 &emsp;&emsp;(B) considering aggregating small distributed hydropower assets; and
 

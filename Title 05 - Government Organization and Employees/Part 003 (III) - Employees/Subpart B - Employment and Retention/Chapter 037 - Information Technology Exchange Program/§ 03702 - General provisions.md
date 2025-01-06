@@ -16,7 +16,7 @@ Assignment Authority.—On request from or with the agreement of a private secto
 
 Agreements.—Each agency that exercises its authority under this chapter shall provide for a written agreement between the agency and the employee concerned regarding the terms and conditions of the employee's assignment. In the case of an employee of the agency, the agreement shall—
 
-&emsp;(1) require the employee to serve in the civil service, upon completion of the assignment,for a period equal to the length of the assignment; and
+&emsp;(1) require the employee to serve in the civil service, upon completion of the assignment, for a period equal to the length of the assignment; and
 
 &emsp;(2) provide that, in the event the employee fails to carry out the agreement (except for good and sufficient reason, as determined by the head of the agency from which assigned) the employee shall be liable to the United States for payment of all expenses of the assignment.
 
@@ -62,7 +62,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 #### Pilot Program for the Temporary Assignment of Cyber and Information Technology Personnel to Private Sector Organizations
 
-Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, §1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, §1123, Dec. 23, 2016, 130 Stat. 2455; Pub. L. 117–263, div. A, title XI, §1112, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 117–286, §4(c)(7), Dec. 27, 2022, 136 Stat. 4354, provided that:
+Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, §1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, §1123, Dec. 23, 2016, 130 Stat. 2455; Pub. L. 117–263, div. A, title XI, §1112, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 117–286, §4(c)(7), Dec. 27, 2022, 136 Stat. 4354; Pub. L. 118–159, div. A, title XI, §1101, Dec. 23, 2024, 138 Stat. 2085, provided that:
 
 "(a)
 
@@ -70,7 +70,7 @@ Assignment Authority.—The Secretary of Defense may, with the agreement of the 
 
 &emsp;"(1) the employee—
 
-&emsp;&emsp;"(A) works in the field of cyber operations or information technology management;
+&emsp;&emsp;"(A) works in the field of cyber operations or information technology management or performs financial management and budgeting tasks for a private sector organization that primarily develops software or provides software services;
 
 &emsp;&emsp;"(B) is considered by the Secretary of Defense to be an exceptional employee;
 
@@ -92,7 +92,7 @@ Agreements.—The Secretary of Defense shall provide for a written agreement amo
 
 "(c)
 
-Termination.—An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the private sector organization concerned.
+Termination.—An assignment under this section may, at any time and for any reason, be terminated bythe Department of Defense or the private sector organization concerned.
 
 "(d)
 

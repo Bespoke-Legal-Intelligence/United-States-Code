@@ -1,6 +1,6 @@
 ### §6906. Funding
 
-For fiscal year 2019—
+For fiscal year 2019— <sup>1</sup>
 
 &emsp;(1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 
@@ -42,13 +42,17 @@ The words "to the Secretary of the Interior" are added for clarity. The words "<
 
 #### Application of Section
 
-Pub. L. 117–328, div. G, title I, §114, Dec. 29, 2022, 136 Stat. 4787, provided that: "Section 6906 of title 31, United States Code, shall be applied by substituting 'fiscal year 2023' for 'fiscal year 2019'."
+Pub. L. 118–42, div. E, title I, §114, Mar. 9, 2024, 138 Stat. 247, provided that: "Section 6906 of title 31, United States Code, shall be applied by substituting 'fiscal year 2024' for 'fiscal year 2019'."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title I, §114, Dec. 29, 2022, 136 Stat. 4787.
 
 Pub. L. 117–103, div. G, title I, §114, Mar. 15, 2022, 136 Stat. 376.
 
 Pub. L. 116–260, div. G, title I, §115, Dec. 27, 2020, 134 Stat. 1506.
 
 Pub. L. 116–94, div. D, title I, §115, Dec. 20, 2019, 133 Stat. 2714.
+
+<i><sup>1</sup></i><i> See Application of Section note below.</i>
 

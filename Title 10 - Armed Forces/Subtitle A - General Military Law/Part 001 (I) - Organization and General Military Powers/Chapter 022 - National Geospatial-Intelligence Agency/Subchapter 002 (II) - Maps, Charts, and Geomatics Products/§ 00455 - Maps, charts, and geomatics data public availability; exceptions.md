@@ -48,5 +48,5 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 #### Regulations
 
-Pub. L. 102–88, title V, §502(b), Aug. 14, 1991, 105 Stat. 436, directed that regulations to implement section 2796 (now 455) of this title be published in the Federal Register for public comment in accordance with subsec. (c) of that section not later than 90 days after Aug. 14, 1991.
+Pub. L. 102–88, title V, §502(b), Aug. 14, 1991, 105 Stat. 436, directed that regulations to implement section 2796 (now 455) of this title be published in the Federal Register for public comment in accordance with subsec. (c)of that section not later than 90 days after Aug. 14, 1991.
 

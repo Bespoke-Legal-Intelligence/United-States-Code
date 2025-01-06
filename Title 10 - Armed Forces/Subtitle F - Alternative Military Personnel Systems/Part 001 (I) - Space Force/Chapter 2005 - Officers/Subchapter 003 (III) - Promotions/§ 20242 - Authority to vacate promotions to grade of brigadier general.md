@@ -6,7 +6,7 @@ Authority.—The President may vacate the appointment of a Space Force officer t
 
 (b)
 
-Effect of Promotion Being Vacated.—An officer whose promotion to the grade of brigadier general is vacated under this section holds the grade of colonel. Upon assuming the grade of colonel under this section, the officer shall have the same position on the Space Force officer listas the officer would have had if the officer had not served in the higher grade.
+Effect of Promotion Being Vacated.—An officer whose promotion to the grade of brigadier general is vacated under this section holds the grade of colonel. Upon assuming the grade of colonel under this section, the officer shall have the same position on the Space Force officer list as the officer would have had if the officer had not served in the higher grade.
 
 (Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 648.)
 

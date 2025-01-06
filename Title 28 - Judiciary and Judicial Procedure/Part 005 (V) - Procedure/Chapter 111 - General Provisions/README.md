@@ -10,7 +10,7 @@
 | [1656\.](%C2%A7%2001656%20-%20Creation%20of%20new%20district%20or%20division%20or%20transfer%20of%20territory%3B%20lien%20enforcement.md) | Creation of new district or division or transfer of territory; lien enforcement. |
 | [1657\.](%C2%A7%2001657%20-%20Priority%20of%20civil%20actions.md) | Priority of civil actions. |
 | [1658\.](%C2%A7%2001658%20-%20Time%20limitations%20on%20the%20commencement%20of%20civil%20actions%20arising%20under%20Acts%20of%20Congress.md) | Time limitations on the commencement of civil actions arising under Acts of Congress. |
-| [1659\.](%C2%A7%2001659%20-%20Stay%20of%20certain%20actions%20pending%20disposition%20of%20related%20proceedings%20before%20the%20United%20States%20International%20Trade%20Commission.md) | Stay of certain actions pending disposition of related proceedings before the United States International Trade Commission.<br> |
+| [1659\.](%C2%A7%2001659%20-%20Stay%20of%20certain%20actions%20pending%20disposition%20of%20related%20proceedings%20before%20the%20United%20States%20International%20Trade%20Commission.md) | Stay of certain actions pending disposition of related proceedings before the United States International Trade Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

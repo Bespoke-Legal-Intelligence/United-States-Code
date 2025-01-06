@@ -36,7 +36,7 @@ Provisions similar to those comprising this section were contained in section 20
 
 <b>2002</b>—Pub. L. 107–288 substituted "Directors and Assistant Directors for Veterans' Employment and Training; additional Federal personnel" for "Directors and Assistant Directors for Veterans' Employment and Training" in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "full-time Federal clerical or other support personnel" for "full-time Federal clerical support" in first sentence and "Full-time Federal clerical or other support personnel" for "Full-time Federal clerical support personnel" in third sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "full-time Federal clerical or other support personnel" for"full-time Federal clerical support" in first sentence and "Full-time Federal clerical or other support personnel" for "Full-time Federal clerical support personnel" in third sentence.
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–446 substituted "subchapter II of chapter 77" for "subchapter IV of chapter 3".
 
@@ -58,7 +58,7 @@ Pub. L. 100–323, §15(c)(1), substituted "Director for Veterans' Employment an
 
 Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted "Director for Veterans' Employment and Training" for "State Director for Veterans' Employment" and "Assistant Director for Veterans' Employment and Training" for "Assistant State Director for Veterans' Employment".
 
-Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and\(B) as (i) and (ii), respectively, and substituted ", except as provided in subparagraph (B) of this paragraph, be a qualified veteran" for "be an eligible veteran" in cl. (i).
+Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted ", except as provided in subparagraph (B) of this paragraph, be a qualified veteran" for "be an eligible veteran" in cl. (i).
 
 Subpar. (b)(1)(B). Pub. L. 100–323, §5(4), added subpar. (B).
 

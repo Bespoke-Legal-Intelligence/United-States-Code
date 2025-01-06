@@ -58,7 +58,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(E) meet all State certification requirements for teaching (which may include meeting such requirements through a certification obtained through alternative routes to teaching);
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
 &emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 
@@ -80,7 +80,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;&emsp;(i) discharge the Federal Direct Unsubsidized Stafford Loan under part D, and reinstate the recipient's grant under this subpart;
 
-&emsp;&emsp;&emsp;(ii) discharge any interest or fees that may have accumulated during the period that the grant was converted to a FederalDirect Unsubsidized Stafford Loan under part D;
+&emsp;&emsp;&emsp;(ii) discharge any interest or fees that may have accumulated during the period that the grant was converted to a Federal Direct Unsubsidized Stafford Loan under part D;
 
 &emsp;&emsp;&emsp;(iii) if the recipient has other loans under part D, apply any payments made for the Federal Direct Unsubsidized Stafford Loan under part D during such period to those other loans under part D;
 
@@ -106,7 +106,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 #### (1) Change of high-need designation
 
-&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, or expertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill the service obligation described in subsection (b)(1) by teaching in that field.
+&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, or expertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill theservice obligation described in subsection (b)(1) by teaching in that field.
 
 #### (2) Extenuating circumstances
 
@@ -192,5 +192,5 @@ Pub. L. 114–95, title IX, §9214(a), Dec. 10, 2015, 129 Stat. 2160, provided t
 
 &emsp;"(1) any reference in sections 420N, 428J, 428K, and 460 of the Higher Education Act of 1965 (20 U.S.C. 1070g–2, 1078–10, 1078–11, and 1087j) to the term 'highly qualified' as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\] shall be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\]; and
 
-&emsp;"(2) any reference in section 6112 of the America COMPETES Act (\[former\] 20 U.S.C. 9812), section 553 of the America COMPETES Reauthorization Act of 2010 (20 U.S.C. 9903), and section 9 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n), to 'highly qualified', as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\], with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification."
+&emsp;"(2) any reference in section 6112 of the America COMPETES Act (\[former\] 20 U.S.C. 9812), section 553 of the America COMPETES Reauthorization Act of2010 (20 U.S.C. 9903), and section 9 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n), to 'highly qualified', as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\], with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification."
 

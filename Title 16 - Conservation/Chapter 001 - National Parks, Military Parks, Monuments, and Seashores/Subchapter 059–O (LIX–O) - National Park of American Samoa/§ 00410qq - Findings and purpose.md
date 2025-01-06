@@ -6,7 +6,7 @@ The Congress finds that:
 
 &emsp;(1) Tropical forests are declining worldwide.
 
-&emsp;(2) Tropical forests contain 50 percent of the world's plant and animal species, contribute significantly to the advancement of science, medicine, and agriculture and produce muchof the earth's oxygen. The loss of these forests leads to the extinction of species, lessening the world's biological diversity, reduces the potential for new medicines and crops and increases carbon dioxide levels in the atomosphere <sup>1</sup> contributing to the greenhouse effect that is altering the global climate.
+&emsp;(2) Tropical forests contain 50 percent of the world's plant and animal species, contribute significantly to the advancement of science, medicine, and agriculture and produce much of the earth's oxygen. The loss of these forests leads to the extinction of species, lessening the world's biological diversity, reduces the potential for new medicines and crops and increases carbon dioxide levels in the atomosphere <sup>1</sup> contributing to the greenhouse effect that is altering the global climate.
 
 &emsp;(3) The tropical forest of American Samoa is one of the last remaining undisturbed paleotropical forests.
 

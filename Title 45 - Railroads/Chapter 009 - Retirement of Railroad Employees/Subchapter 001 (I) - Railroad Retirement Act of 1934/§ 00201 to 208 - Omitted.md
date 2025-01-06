@@ -22,5 +22,5 @@ Section 207 related to employee representatives.
 
 Section 208 related to retirement fund established under this subchapter.
 
-Provisions relating to refund of sums paid by railroads and other carriers of the United States under thissubchapter were contained in act June 1, 1938, ch. 315, §§1, 2, 52 Stat. 608.
+Provisions relating to refund of sums paid by railroads and other carriers of the United States under this subchapter were contained in act June 1, 1938, ch. 315, §§1, 2, 52 Stat. 608.
 

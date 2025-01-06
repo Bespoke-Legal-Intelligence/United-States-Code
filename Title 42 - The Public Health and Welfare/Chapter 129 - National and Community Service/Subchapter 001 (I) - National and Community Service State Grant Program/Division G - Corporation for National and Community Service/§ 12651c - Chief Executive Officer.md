@@ -38,5 +38,5 @@ Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set
 
 #### Regulations
 
-Pub. L. 111–13, title VI, §6101(b), Apr. 21, 2009, 123 Stat. 1600, provided that: "Effective on the date of enactment of this Act \[Apr. 21, 2009\], the Chief Executive Officer of the Corporation for National and Community Service may issue such regulations as may be necessary to carry out this Act \[see Short Title of 2009 Amendment note set out under section 12501 of this title\] and the amendments made by this Act."
+Pub. L. 111–13, title VI, §6101(b), Apr. 21, 2009, 123 Stat. 1600, provided that: "Effective on the date of enactmentof this Act \[Apr. 21, 2009\], the Chief Executive Officer of the Corporation for National and Community Service may issue such regulations as may be necessary to carry out this Act \[see Short Title of 2009 Amendment note set out under section 12501 of this title\] and the amendments made by this Act."
 

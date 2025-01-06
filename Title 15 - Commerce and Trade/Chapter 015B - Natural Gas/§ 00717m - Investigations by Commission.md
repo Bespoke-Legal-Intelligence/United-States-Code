@@ -2,7 +2,7 @@
 
 #### (a) Power of Commission
 
-The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provisions of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation to the Congress. The Commission may permit any person to file with it a statement in writing, under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish in the manner authorized by section 825k of title 16, and make available to State commissions and municipalities, information concerning any such matter.
+The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provisions of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation to the Congress. The Commission may permit any person to file with it a statement in writing,under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish in the manner authorized by section 825k of title 16, and make available to State commissions and municipalities, information concerning any such matter.
 
 #### (b) Determination of adequacy of gas reserves
 
@@ -40,7 +40,7 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L.91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Study and Report on Natural Gas Pipeline and Storage Facilities in New England
 

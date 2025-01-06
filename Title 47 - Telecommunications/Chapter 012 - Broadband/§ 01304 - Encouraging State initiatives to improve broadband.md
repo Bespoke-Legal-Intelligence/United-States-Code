@@ -112,7 +112,7 @@ The Secretary of Commerce shall—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Commission shall provide eligible entities access, in electronic form, to aggregate data collected by the Commission based on the Form 477 submissions of broadband service providers.
+&emsp;Subject to paragraph (2), the Commission shall provide eligible entities access, in electronic form, to aggregate data collected by theCommission based on the Form 477 submissions of broadband service providers.
 
 #### (2) Limitation
 

@@ -16,7 +16,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (d) Employment of personnel
 
-&emsp;appoint and fix the compensation of such officers and employees as may be necessary to carry out the functions of the Commission. Such officers and employees shall be appointed in accordance with the civil-service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that, to the extent the Commission deems such action necessary to the discharge of its responsibilities, personnel may be employed and their compensation fixed without regard to such laws: <i>Provided, however</i>, That no officer or employee (except such officers and employees whose compensation is fixed by law, and scientific and technical personnel up to a limit of the highest rate of grade 18 of the General Schedule) whose position would be subject to chapter 51 and subchapter III of chapter 53 of title 5, if such provisions were applicable to such position, shall be paid a salary at a rate in excess of the rate payable under such provisions for positions of equivalent difficulty or responsibility. Such rates of compensation may be adopted by the Commission as may be authorized by chapter 51 and subchapter III of chapter 53 of title 5, as of the same date such rates are authorized for positions subject to such provisions. The Commission shall make adequate provision for administrative review of any determination to dismiss any employee;
+&emsp;appoint and fix the compensation of such officers and employees as may be necessary to carry out the functions of the Commission. Such officers and employees shall be appointed in accordance with the civil-service laws andtheir compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that, to the extent the Commission deems such action necessary to the discharge of its responsibilities, personnel may be employed and their compensation fixed without regard to such laws: <i>Provided, however</i>, That no officer or employee (except such officers and employees whose compensation is fixed by law, and scientific and technical personnel up to a limit of the highest rate of grade 18 of the General Schedule) whose position would be subject to chapter 51 and subchapter III of chapter 53 of title 5, if such provisions were applicable to such position, shall be paid a salary at a rate in excess of the rate payable under such provisions for positions of equivalent difficulty or responsibility. Such rates of compensation may be adopted by the Commission as may be authorized by chapter 51 and subchapter III of chapter 53 of title 5, as of the same date such rates are authorized for positions subject to such provisions. The Commission shall make adequate provision for administrative review of any determination to dismiss any employee;
 
 #### (e) Acquisition of material, property, etc.; negotiation of commercial leases
 
@@ -40,7 +40,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (j) Disposition of surplus materials
 
-&emsp;without regard to the provisions of chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or any other law, make such disposition as it may deem desirable of (1) radioactive materials, and (2) any other property, the special disposition of which is, in the opinion of the Commission, in the interest of the national security: <i>Provided, however</i>, That the property furnished to licensees in accordance with the provisions of subsection (m) shall not bedeemed to be property disposed of by the Commission pursuant to this subsection;
+&emsp;without regard to the provisions of chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or any other law, make such disposition as it may deem desirable of (1) radioactive materials, and (2) any other property, the special disposition of which is, in the opinion of the Commission, in the interest of the national security: <i>Provided, however</i>, That the property furnished to licensees in accordance with the provisions of subsection (m) shall not be deemed to be property disposed of by the Commission pursuant to this subsection;
 
 #### (k) Carrying of firearms; authority to make arrests without warrant
 
@@ -66,7 +66,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (q) Easements for rights-of-way
 
-&emsp;The Commission is authorized and empowered, under such terms and conditions as are deemed advisable by it, to grant easements for rights-of-way over, across, in, and upon acquired lands under its jurisdiction and control, and public lands permanently withdrawn or reserved for the use of the Commission, to any State, political subdivision thereof, or municipality, or to any individual, partnership, or corporation of any State, Territory, or possession of the United States, for (a) railroad tracks; (b) oil pipe lines; (c) substations for electric power transmission lines, telephone lines, and telegraph lines, and pumping stations for gas, water, sewer, and oil pipe lines; (d) canals; (e) ditches; (f) flumes; (g) tunnels; (h) dams and reservoirs in connection with fish and wildlife programs, fish hatcheries, and other fish-cultural improvements; (i) roads and streets; and (j) for any other purpose or purposes deemed advisable by the Commission: <i>Provided</i>, That such rights-of-way shall be granted only upon a finding by the Commission that the same will not be incompatiblewith the public interest: <i>Provided further</i>, That such rights-of-way shall not include any more land than is reasonably necessary for the purpose for which granted: <i>And provided further</i>, That all or any part of such rights-of-way may be annulled and forfeited by the Commission for failure to comply with the terms and conditions of any grant hereunder or for nonuse for a period of two consecutive years or abandonment of rights granted under authority hereof. Copies of all instruments granting easements over public lands pursuant to this section shall be furnished to the Secretary of the Interior.
+&emsp;The Commission is authorized and empowered, under such terms and conditions as are deemed advisable by it, to grant easements for rights-of-way over, across, in, and upon acquired lands under its jurisdiction and control, and public lands permanently withdrawn or reserved for the use of the Commission, to any State, political subdivision thereof, or municipality, or to any individual, partnership, or corporation of any State, Territory, or possession of the United States, for (a) railroad tracks; (b) oil pipe lines; (c) substations for electric power transmission lines, telephone lines, and telegraph lines, and pumping stations for gas, water, sewer, and oil pipe lines; (d) canals; (e) ditches; (f) flumes; (g) tunnels; (h) dams and reservoirs in connection with fish and wildlife programs, fish hatcheries, and other fish-cultural improvements; (i) roads and streets; and (j) for any other purpose or purposes deemed advisable by the Commission:<i>Provided</i>, That such rights-of-way shall be granted only upon a finding by the Commission that the same will not be incompatible with the public interest: <i>Provided further</i>, That such rights-of-way shall not include any more land than is reasonably necessary for the purpose for which granted: <i>And provided further</i>, That all or any part of such rights-of-way may be annulled and forfeited by the Commission for failure to comply with the terms and conditions of any grant hereunder or for nonuse for a period of two consecutive years or abandonment of rights granted under authority hereof. Copies of all instruments granting easements over public lands pursuant to this section shall be furnished to the Secretary of the Interior.
 
 #### (r) Sale of utilities and related services
 
@@ -108,7 +108,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;(B) In entering into such contracts the Commission shall be guided by the following principles: (i) the percentage of the total cost of special facilities devoted to contract performance and chargeable to the Commission should not exceed the ratio between the period of contract deliveries and the anticipated useful life of such special facilities; (ii) the desirability of obtaining options to renew the contract for reasonable periods at prices not to include charges for special facilities already amortized; and (iii) the desirability of reserving in the Commission the right to take title to the special facilities under appropriate circumstances; and
 
-&emsp;(3) include in contracts made under this subsection provisions which limit the obligation of funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from termination as the contract may provide. The term"special facilities" as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.
+&emsp;(3) include in contracts made under this subsection provisions which limit the obligation of funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from termination as the contract may provide. The term "special facilities" as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.
 
 #### (v) Support of United States Enrichment Corporation
 
@@ -148,7 +148,7 @@ Section 2297c–2 of this title, referred to in subsec. (v), was repealed by Pub
 
 #### Codification
 
-In subsec. (d), "chapter 51 and subchapter III of chapter 53 of title 5" and "such provisions" substituted for"the Classification Act of 1949, as amended" and "such Act", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (d), "chapter 51 and subchapter III of chapter 53 of title 5" and "such provisions" substituted for "the Classification Act of 1949, as amended" and "such Act", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 In subsec. (j), "chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended, except section 207 of that Act" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -250,6 +250,26 @@ References to the United States Enrichment Corporation deemed, as of the privati
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
+#### Mission Alignment
+
+Pub. L. 118–67, div. B, title V, §501, July 9, 2024, 138 Stat. 1471, provided that:
+
+"(a)
+
+Update.—Not later than 1 year after the date of enactment of this Act \[July 9, 2024\], the \[Nuclear Regulatory\] Commission shall, while remaining consistent with the policies of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) and the Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.) (including to provide reasonable assurance of adequate protection of the public health and safety, to promote the common defense and security, and to protect the environment), update the mission statement of the Commission to include that licensing and regulation of the civilian use of radioactive materials and nuclear energy be conducted in a manner that is efficient and does not unnecessarily limit—
+
+&emsp;"(1) the civilian use of radioactive materials and deployment of nuclear energy; or
+
+&emsp;"(2) the benefits of civilian use of radioactive materials and nuclear energy technology to society.
+
+"(b)
+
+Report.—On completion of the update to the mission statement required under subsection (a), the Commission shall submit to the appropriate committees of Congress \[Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate\] a report that describes—
+
+&emsp;"(1) the updated mission statement; and
+
+&emsp;"(2) the guidance that the Commission will provide to staff of the Commission to ensure effective performance of the mission of the Commission."
+
 #### Organizational Conflicts of Interest
 
 Pub. L. 95–209, §7, Dec. 13, 1977, 91 Stat. 1483, provided that the Commission would, by Dec. 31, 1977, promulgate guidelines to be applied by the Commission to determine whether an organization proposing to enter into a contractual arrangement with the Commission had a conflict of interest that could impair the contractor's judgment or give the contractor an unfair competitive advantage.
@@ -264,7 +284,7 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 #### Principal Office Building for Atomic Energy Commission
 
-Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1957, 71 Stat. 307, authorized Atomic Energy Commission to acquire a suitable site in or near District of Columbia and, notwithstanding any other provision of law, to provide for construction on such site, in accordance with plans and specifications prepared by or under direction of Commission, of a modern office building to serve as principal office of Commission at a total cost of not to exceed $13,300,000 and authorized to be appropriated such sums as were necessary.
+Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1957, 71 Stat. 307, authorized Atomic Energy Commission to acquire a suitable site in or near District of Columbia and, notwithstanding any other provision of law, to provide for construction on such site, in accordance with plans and specifications prepared by or under direction of Commission, of a modern office building to serve as principal office of Commission at a total cost of not to exceed $13,300,000and authorized to be appropriated such sums as were necessary.
 
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 

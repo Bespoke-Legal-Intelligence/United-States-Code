@@ -24,7 +24,7 @@ A return for a period of less than 12 months (referred to in this section as "sh
 
 &emsp;&emsp;If the taxpayer applies for the benefits of this paragraph and establishes the amount of this taxable income for the 12-month period described in subparagraph (B), computed as if that period were a taxable year and under the law applicable to that year, then the tax for the short period, computed under paragraph (1), shall be reduced to the greater of the following:
 
-&emsp;&emsp;&emsp;(i) an amount which bears the same ratio to the tax computed on the taxable income for the 12-month period as the modified taxable income computed on the basis of the short period bears to the modified taxable income for the 12-month period; or
+&emsp;&emsp;&emsp;(i) an amount which bears the same ratio to the tax computed on the taxable income for the 12-month period as the modifiedtaxable income computed on the basis of the short period bears to the modified taxable income for the 12-month period; or
 
 &emsp;&emsp;&emsp;(ii) the tax computed on the modified taxable income for the short period.
 
@@ -82,7 +82,7 @@ If a return is made for a short period by reason of subsection (a)—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struckout former par. (3) which read as follows: "Undistributed foreign personal holding company income, see section 557."
+<b>2004</b>—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "Undistributed foreign personal holding company income, see section 557."
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §104(b)(7)(A), struck out ", and adding the zero bracket amount" after "by the number of months in the short period".
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 99–514, §701(e)(3), substituted "and tax preferences" fo
 
 <b>1980</b>—Subsec. (d)(2). Pub. L. 96–222 struck out "in the case of a corporation," before "the $10,000 amount".
 
-Subsec. (e). Pub. L. 96–589 inserted cross reference to section 1398(d)(3)(E) for returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year.
+Subsec. (e). Pub. L. 96–589 inserted cross reference to section 1398(d)(3)(E) for returns for a period of less than12 months in the case of a debtor's election to terminate a taxable year.
 
 <b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §703(o)(2), substituted "modified taxable income for such short period" for "gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)".
 

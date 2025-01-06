@@ -20,7 +20,7 @@ In carrying out the responsibilities set forth in subsection (b), the Senior Med
 
 &emsp;(1) Facilitate and monitor the timely availability to residents of the Retirement Home such medical, mental health, and dental care services as such residents may require at locations other than the Retirement Home.
 
-&emsp;(2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements.
+&emsp;(2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, orany other applicable health care standards and requirements.
 
 &emsp;(3) Periodically visit each facility of the Retirement Home to review—
 

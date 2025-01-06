@@ -2,7 +2,7 @@
 
 If in designing an information technology system pursuant to this subtitle, the head of an executive agency determines that a purpose of the system is to disseminate information to the public, then the head of that executive agency shall reasonably ensure that an index of information disseminated by the system is included in the directory created pursuant to section 4101 of title 44. This section does not authorize the dissemination of information to the public unless otherwise authorized.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1252, §11703; renumbered §11702, Pub. L. 107–314, div.A, title VIII, §825(c)(2), Dec. 2, 2002, 116 Stat. 2616.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1252, §11703; renumbered §11702, Pub. L. 107–314, div. A, title VIII, §825(c)(2), Dec. 2, 2002, 116 Stat. 2616.)
 
 Historical and Revision Notes
 

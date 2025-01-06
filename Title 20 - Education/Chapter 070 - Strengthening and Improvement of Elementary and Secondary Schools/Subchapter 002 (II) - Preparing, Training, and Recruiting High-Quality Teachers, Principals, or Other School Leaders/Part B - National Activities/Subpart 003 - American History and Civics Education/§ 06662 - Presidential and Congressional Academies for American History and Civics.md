@@ -40,7 +40,7 @@ Grants awarded to eligible entities under subsection (a) shall be for a term of 
 
 #### (2) Selection of teachers
 
-&emsp;Each year, each Presidential Academy shall select between 50 and 300 teachers of American history and civics from public or private elementary schools and secondary schools to attend the seminar or institute under paragraph (1).
+&emsp;Each year, each Presidential Academy shall select between 50 and 300 teachers of Americanhistory and civics from public or private elementary schools and secondary schools to attend the seminar or institute under paragraph (1).
 
 #### (3) Teacher stipends
 
@@ -54,7 +54,7 @@ Grants awarded to eligible entities under subsection (a) shall be for a term of 
 
 #### (1) Use of funds
 
-&emsp;Each eligible entity that receives a grant under subsection (a)(2) shall use the grantfunds to establish a Congressional Academy that offers a seminar or institute for outstanding students of American history and civics, which—
+&emsp;Each eligible entity that receives a grant under subsection (a)(2) shall use the grant funds to establish a Congressional Academy that offers a seminar or institute for outstanding students of American history and civics, which—
 
 &emsp;&emsp;(A) broadens and deepens such students' understanding of American history and civics;
 

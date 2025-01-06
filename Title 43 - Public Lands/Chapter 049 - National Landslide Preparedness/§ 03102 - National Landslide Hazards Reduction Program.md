@@ -158,7 +158,7 @@ The Secretary shall establish a program, to be known as the "National Landslide 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an advisory committee, to be known as the "Advisory Committee on Landslides" (referred to in this subsection as the "Advisory Committee").
+&emsp;The Secretary shall establish an advisory committee, to be known as the "AdvisoryCommittee on Landslides" (referred to in this subsection as the "Advisory Committee").
 
 #### (2) Membership
 
@@ -218,7 +218,7 @@ The Secretary shall establish a program, to be known as the "National Landslide 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall consult annually with the Committee, States, units of local government, territories, and Indian tribesto establish priorities for the grant program under this paragraph.
+&emsp;&emsp;&emsp;The Secretary shall consult annually with the Committee, States, units of local government, territories, and Indian tribes to establish priorities for the grant program under this paragraph.
 
 #### (ii) Funding prioritization
 

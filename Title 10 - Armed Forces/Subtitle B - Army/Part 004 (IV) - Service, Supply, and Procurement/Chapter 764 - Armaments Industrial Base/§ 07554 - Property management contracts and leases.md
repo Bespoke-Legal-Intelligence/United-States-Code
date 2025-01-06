@@ -24,7 +24,7 @@ Consideration for Use.—(1) To the extent provided in a contract entered into u
 
 (2) Forms of consideration acceptable under paragraph (1) for a use of an eligible facility or any property at an eligible facility include the following:
 
-&emsp;(A) The improvement, maintenance, protection, repair, and restoration of the facility, the property, or any property within the boundaries of the installation where the facility is located.
+&emsp;(A) The improvement, maintenance, protection, repair, and restoration of the facility, the property, or any property within theboundaries of the installation where the facility is located.
 
 &emsp;(B) Reductions in overhead costs.
 

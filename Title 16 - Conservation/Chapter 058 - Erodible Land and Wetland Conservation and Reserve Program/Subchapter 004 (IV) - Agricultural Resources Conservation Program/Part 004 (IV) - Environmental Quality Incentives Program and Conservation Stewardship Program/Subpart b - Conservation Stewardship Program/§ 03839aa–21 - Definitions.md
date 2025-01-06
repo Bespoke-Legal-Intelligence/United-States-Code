@@ -136,7 +136,7 @@ Effect on existing contracts and agreements.—The cessation of effectiveness un
 
 &emsp;"(B)
 
-Extension permitted.—Notwithstanding paragraph (2), the Secretary may extend for 1 year a contract described in subparagraph (A)(i) if that contract expires on or before December 31, 2019, under the terms and payment rate of the existing contract and in accordance with subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838d et seq.) (as in effect on the day before the date of enactment of this Act).
+Extension permitted.—Notwithstanding paragraph (2), the Secretary may extend for 1 year a contract described in subparagraph (A)(i) if that contract expires on or before December 31, 2019, under the terms and payment rate of the existing contract and in accordance with subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16U.S.C. 3838d et seq.) (as in effect on the day before the date of enactment of this Act).
 
 &emsp;"(C)
 
@@ -194,7 +194,7 @@ Pub. L. 113–79, title II, §2101(b), Feb. 7, 2014, 128 Stat. 728, provided tha
 
 "(1)
 
-In general.—The amendment made by this section \[amending sections 3838d to 3838g of this title\] shall not affect the validity or terms of any contractentered into by the Secretary of Agriculture under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3838d et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
+In general.—The amendment made by this section \[amending sections 3838d to 3838g of this title\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3838d et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
 
 "(2)
 

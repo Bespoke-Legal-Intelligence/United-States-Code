@@ -10,7 +10,7 @@
 
 &emsp;(A) Except as provided in subparagraph (B), the Federal share for each fiscal year shall be 75 percent.
 
-&emsp;(B) In the case of an applicant that receives a waiver under section 3995(c) of this title, theFederal share for each fiscal year may be as much as 100 percent.
+&emsp;(B) In the case of an applicant that receives a waiver under section 3995(c) of this title, the Federal share for each fiscal year may be as much as 100 percent.
 
 #### (3) Non-Federal share
 

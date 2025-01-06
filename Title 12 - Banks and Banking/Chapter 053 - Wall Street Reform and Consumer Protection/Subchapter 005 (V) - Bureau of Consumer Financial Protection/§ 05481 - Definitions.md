@@ -72,7 +72,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (12) Enumerated consumer laws
 
-&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitle H, the term "enumerated consumer laws" means—
+&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitleH, the term "enumerated consumer laws" means—
 
 &emsp;&emsp;(A) the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.);
 
@@ -124,7 +124,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;The term "financial product or service" means—
 
-&emsp;&emsp;&emsp;(i) extending credit and servicing loans, including acquiring, purchasing, selling, brokering, or other extensions of credit\(other than solely extending commercial credit to a person who originates consumer credit transactions);
+&emsp;&emsp;&emsp;(i) extending credit and servicing loans, including acquiring, purchasing, selling, brokering, or other extensions of credit (other than solely extending commercial credit to a person who originates consumer credit transactions);
 
 &emsp;&emsp;&emsp;(ii) extending or brokering leases of personal or real property that are the functional equivalent of purchase finance arrangements, if—
 
@@ -148,7 +148,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through an online banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
 
-&emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
+&emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructionsby the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
 
 &emsp;&emsp;&emsp;&emsp;(II) provides access to a host server to a person for purposes of enabling that person to establish and maintain a website;
 
@@ -256,7 +256,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;(K) any other person that is required to be registered with the Commission under the Securities Exchange Act of 1934; and
 
-&emsp;&emsp;(L) any employee, agent, or contractor acting on behalf of, registered with, or providing services to, any person described in any of subparagraphs (A) through (K), but only to the extent that any person described in any of subparagraphs (A) through (K), orthe employee, agent, or contractor of such person, acts in a regulated capacity.
+&emsp;&emsp;(L) any employee, agent, or contractor acting on behalf of, registered with, or providing services to, any person described in any of subparagraphs (A) through (K), but only to the extent that any person described in any of subparagraphs (A) through (K), or the employee, agent, or contractor of such person, acts in a regulated capacity.
 
 #### (22) Person regulated by a State insurance regulator
 
@@ -304,7 +304,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The term "service provider" means any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
+&emsp;&emsp;The term "service provider" means any person that provides a material service to acovered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
 
 &emsp;&emsp;&emsp;(i) participates in designing, operating, or maintaining the consumer financial product or service; or
 
@@ -338,7 +338,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(i) issued by a merchant, retailer, or other seller of nonfinancial goods or services;
 
-&emsp;&emsp;&emsp;(ii) redeemable only for transactions with the merchant, retailer, or seller ofnonfinancial goods or services or with an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services;
+&emsp;&emsp;&emsp;(ii) redeemable only for transactions with the merchant, retailer, or seller of nonfinancial goods or services or with an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services;
 
 &emsp;&emsp;&emsp;(iii) issued in a specified amount that, except in the case of a card or product used solely for telephone services, may not be increased or reloaded;
 
@@ -368,7 +368,7 @@ The Consumer Leasing Act of 1976, referred to in par. (12)(B), is Pub. L. 94–2
 
 The Electronic Fund Transfer Act, referred to in par. (12)(C), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§1691 et seq.) ofchapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Fair Credit Billing Act, referred to in par. (12)(E), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which enacted sections 1666 to 1666i and 1666j of Title 15, Commerce and Trade, amended sections 1601, 1602, 1610, 1631, 1632, and 1637 of Title 15, and enacted provisions set out as a note under section 1666 of Title 15. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1601 of Title 15 and Tables.
 
@@ -390,7 +390,7 @@ The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90�
 
 The Truth in Savings Act, referred to in par. (12)(P), is subtitle F (§§261–274) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which is classified generally to chapter 44 (§4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
-Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is section 626 of div. D of Pub. L. 111–8. Subsecs. (a) and (b) of section 626 are classifiedto section 5538 of this title, and subsec. (c) of section 626 amended section 1639 of Title 15, Commerce and Trade.
+Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is section 626 of div. D of Pub. L. 111–8. Subsecs. (a) and (b) of section 626 are classified to section 5538 of this title, and subsec. (c) of section 626 amended section 1639 of Title 15, Commerce and Trade.
 
 The Interstate Land Sales Full Disclosure Act, referred to in par. (12)(R), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
 

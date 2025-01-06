@@ -40,7 +40,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
 
-&emsp;(B) The price of a building purchased under the preceding sentence shall be approved by the Secretary, in consultation with the public housing agency and resident management corporation, taking into account the fair market value of the property, the ability of resident families to afford and maintain the property,and such other factors as the Secretary determines to be consistent with increasing the supply of dwelling units affordable to very low income families.
+&emsp;(B) The price of a building purchased under the preceding sentence shall be approved by the Secretary, in consultation with the public housing agency and resident management corporation, taking into account the fair market value of the property, the ability of resident families to afford and maintain the property, and such other factors as the Secretary determines to be consistent with increasing the supply of dwelling units affordable to very low income families.
 
 &emsp;(C) This paragraph shall not have effect after February 4, 1991. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
 
@@ -98,7 +98,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (8) Operating Fund allocation
 
-&emsp;Amounts from the Operating Fund shall not be available with respect to a building after the date of its sale by the public housing agency.
+&emsp;Amounts from the Operating Fund shall not be available with respect to a building afterthe date of its sale by the public housing agency.
 
 #### (b) Protection of nonpurchasing families
 

@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to community-wide public health interventions, a State or local health department shall use amounts received under a grant under this subsection to conduct ongoing health screening to identify risk factors for cardiovascular disease, cancer, stroke, and diabetes among individuals in both urban and rural areas who are between 55 and 64 years of age.
+&emsp;&emsp;&emsp;In addition to community-wide public health interventions, a State or localhealth department shall use amounts received under a grant under this subsection to conduct ongoing health screening to identify risk factors for cardiovascular disease, cancer, stroke, and diabetes among individuals in both urban and rural areas who are between 55 and 64 years of age.
 
 #### (ii) Types of screening activities
 

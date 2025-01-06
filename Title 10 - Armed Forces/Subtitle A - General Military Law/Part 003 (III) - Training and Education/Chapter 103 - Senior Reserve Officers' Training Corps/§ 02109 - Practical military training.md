@@ -8,7 +8,7 @@
 
 &emsp;(2) furnish medical attendance and supplies to members of, and designated applicants for membership in, the program while attending such training and practice cruises, and admit them to military hospitals;
 
-&emsp;(3) furnish subsistence, uniform clothing, and equipment to members of, and designated applicants for membership in, the program while attending such training or practice cruises or, instead of furnishing uniform clothing, pay them allowances at such rates as he may prescribe; and
+&emsp;(3) furnish subsistence, uniform clothing, and equipment to members of, and designatedapplicants for membership in, the program while attending such training or practice cruises or, instead of furnishing uniform clothing, pay them allowances at such rates as he may prescribe; and
 
 &emsp;(4) use any member of, and designated applicants for membership in, an armed force, or any employee of the department, under his jurisdiction, and such property of the United States as he considers necessary, for the training and administration of members of, and designated applicants for membership in, the program at the places designated for training or practice cruises.
 

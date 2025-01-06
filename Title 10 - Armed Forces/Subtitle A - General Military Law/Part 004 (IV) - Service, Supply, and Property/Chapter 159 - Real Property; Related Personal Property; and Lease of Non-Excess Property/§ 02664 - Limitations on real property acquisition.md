@@ -6,7 +6,7 @@ Authorization for Acquisition Required.—No military department may acquire rea
 
 (b)
 
-Commissions on Land Purchase Contracts.—The maximum amount payable as a commission on a contract for the purchase of land from funds appropriated for the Department of Defense is two percent of the purchase price.
+Commissions on Land Purchase Contracts.—The maximum amount payable as a commission on a contract for the purchase ofland from funds appropriated for the Department of Defense is two percent of the purchase price.
 
 (c)
 
@@ -70,7 +70,7 @@ Pub. L. 109–163, §2821(a)(10), transferred subsec. (b) to section 2663 of thi
 
 Subsec. (c). Pub. L. 109–163, §2821(b)(2)(A), inserted heading.
 
-Subsec. (c)(2). Pub. L. 109–163, §2821(b)(2)(B), substituted "Until subsection (d) is complied with, a land" for "A land" in introductory provisions and "lesser." for "lesser," in subpar. (B) and struck out concluding provisions which read "until subsection (d) is complied with."
+Subsec. (c)(2). Pub. L. 109–163, §2821(b)(2)(B), substituted "Until subsection (d) is complied with, a land"for "A land" in introductory provisions and "lesser." for "lesser," in subpar. (B) and struck out concluding provisions which read "until subsection (d) is complied with."
 
 Subsec. (d). Pub. L. 109–163, §2821(b)(3), inserted heading.
 

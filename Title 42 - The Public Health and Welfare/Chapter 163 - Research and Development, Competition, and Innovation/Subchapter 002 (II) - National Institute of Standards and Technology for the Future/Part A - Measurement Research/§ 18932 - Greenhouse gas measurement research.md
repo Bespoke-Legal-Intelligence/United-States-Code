@@ -28,7 +28,7 @@ In carrying out such a program, the Director may—
 
 #### (c) Testbeds
 
-In coordination with the private sector, institutions of higher education, State and local governments, the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, the Department of Energy, and other Federal agencies, as appropriate, the Director may continue to develop and managetestbeds to advance research and standards development for greenhouse gas emissions measurements from in situ and space-based platforms.
+In coordination with the private sector, institutions of higher education, State and local governments, the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, the Department of Energy, and other Federal agencies, as appropriate, the Director may continue to develop and manage testbeds to advance research and standards development for greenhouse gas emissions measurements from in situ and space-based platforms.
 
 #### (d) Center for Greenhouse Gas Measurements, Standards, and Information
 

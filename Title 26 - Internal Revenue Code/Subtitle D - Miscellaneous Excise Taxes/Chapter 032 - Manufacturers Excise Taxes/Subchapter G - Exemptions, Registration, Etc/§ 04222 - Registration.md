@@ -48,7 +48,7 @@ Terms used in this section which are defined in section 4221(d) shall have the m
 
 #### Prior Provisions
 
-A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemption from tax of certain supplies for vessels and airplanes, prior to repeal by Pub. L. 85–859, §119(a). See section 4221 of this title.
+A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemption from tax of certain suppliesfor vessels and airplanes, prior to repeal by Pub. L. 85–859, §119(a). See section 4221 of this title.
 
 #### Amendments
 

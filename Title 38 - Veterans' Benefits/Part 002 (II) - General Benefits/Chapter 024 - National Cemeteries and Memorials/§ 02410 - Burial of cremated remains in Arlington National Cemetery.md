@@ -6,7 +6,7 @@
 
 (c)(1) The Secretary of the Army shall ensure that, under such regulations as the Secretary may prescribe, the cremated remains of any person described in paragraph (2) are eligible for above ground inurnment in Arlington National Cemetery with military honors in accordance with section 1491 of title 10.
 
-(2) A person described in this paragraph is a person whose service has been determined to be active duty service pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as of the date of the enactment of this paragraph.
+(2) A person described in this paragraph is a person whose service has been determined to be active duty service pursuant to section 401 ofthe GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as of the date of the enactment of this paragraph.
 
 (Added Pub. L. 101–237, title V, §502(a), Dec. 18, 1989, 103 Stat. 2093, §1010; amended Pub. L. 102–54, §14(b)(22), June 13, 1991, 105 Stat. 284; renumbered §2410, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–158, §1(a), May 20, 2016, 130 Stat. 394.)
 

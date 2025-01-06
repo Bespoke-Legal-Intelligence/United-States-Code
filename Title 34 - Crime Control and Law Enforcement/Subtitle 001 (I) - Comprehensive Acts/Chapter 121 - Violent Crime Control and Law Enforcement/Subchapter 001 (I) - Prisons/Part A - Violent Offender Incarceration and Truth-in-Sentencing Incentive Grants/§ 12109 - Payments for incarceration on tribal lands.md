@@ -62,7 +62,7 @@ Not later than 1 year after July 29, 2010, the Attorney General, in coordination
 
 #### Codification
 
-Section was formerly classified to section 13709 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+Section was formerly classified to section 13709 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Prior Provisions
 

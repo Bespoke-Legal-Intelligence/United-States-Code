@@ -16,7 +16,7 @@ The following shall apply with respect to leave under section 2612(a)(1)(F) of t
 
 #### (ii) <sup>1</sup> Rule regarding rehired employees
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "employed for at least 30 calendar days", used with respect to an employee and an employer described in clause (i), includes an employee who was laid off by that employer not earlier than March 1, 2020, had worked for the employer for not less than 30 of the last 60 calendar days prior to the employee's layoff, and was rehired by the employer.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "employed for at least 30 calendar days", used with respect to an employee and an employer described in clause (i), includes an employee who was laid off by that employer not earlier than March 1, 2020, had worked for the employer for not less than30 of the last 60 calendar days prior to the employee's layoff, and was rehired by the employer.
 
 #### (ii) <sup>1</sup> Special rule
 
@@ -52,7 +52,7 @@ The following shall apply with respect to leave under section 2612(a)(1)(F) of t
 
 &emsp;&emsp;(A) to exclude certain health care providers and emergency responders from the definition of eligible employee under subsection (a)(1)(A);
 
-&emsp;&emsp;(B) to exempt small businesses with fewer than 50 employees from the requirements ofsection 2612(a)(1)(F) of this title when the imposition of such requirements would jeopardize the viability of the business as a going concern; and
+&emsp;&emsp;(B) to exempt small businesses with fewer than 50 employees from the requirements of section 2612(a)(1)(F) of this title when the imposition of such requirements would jeopardize the viability of the business as a going concern; and
 
 &emsp;&emsp;(C) as necessary to carry out the purposes of this Act, including to ensure consistency between this Act and Division E and Division G of the Families First Coronavirus Response Act.
 
@@ -94,7 +94,7 @@ The following shall apply with respect to leave under section 2612(a)(1)(F) of t
 
 &emsp;&emsp;In the case of an employee whose schedule varies from week to week to such an extent that an employer is unable to determine with certainty the number of hours the employee would have worked if such employee had not taken leave under section 2612(a)(1)(F) of this title, the employer shall use the following in place of such number:
 
-&emsp;&emsp;&emsp;(i) Subject to clause (ii), a number equal to the average number of hours that the employee was scheduled per day over the 6-month period ending on the date on which the employee takes such leave, including hours for which the employee took leave of any type.
+&emsp;&emsp;&emsp;(i) Subject to clause (ii), a number equal to the average number of hours that the employee was scheduled per day over the 6-month period ending on the date onwhich the employee takes such leave, including hours for which the employee took leave of any type.
 
 &emsp;&emsp;&emsp;(ii) If the employee did not work over such period, the reasonable expectation of the employee at the time of hiring of the average number of hours per day that the employee would normally be scheduled to work.
 
@@ -138,7 +138,7 @@ In any case where the necessity for leave under section 2612(a)(1)(F) of this ti
 
 #### References in Text
 
-The Congressional Accountability Act of 1995, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 104–1, Jan. 23,1995, 109 Stat. 3, which is classified principally to chapter 24 (§1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
+The Congressional Accountability Act of 1995, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
 
 This Act, referred to in subsec. (a)(3)(C), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
@@ -174,7 +174,7 @@ Pub. L. 116–127, div. C, §3103, Mar. 18, 2020, 134 Stat. 192, provided that:
 
 "(a)
 
-Employers.—An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations under section 110(b)(2) of title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2620(b)(2)\], as added by the Families First Coronavirus Response Act \[Pub. L. 116–127\], by making contributions to a multiemployer fund, plan, or program based on the paid leave each of its employees is entitled to under such section while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or program enables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement for paid leave taken under section 102(a)(1)(F) of title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2612(a)(1)(F)\], as added by the Families First Coronavirus Response Act.
+Employers.—An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations under section 110(b)(2) of title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2620(b)(2)\], as added by the Families First Coronavirus Response Act \[Pub. L. 116–127\], by making contributions to a multiemployer fund, plan, or program based on the paid leave each of its employees is entitled to under such section while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or programenables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement for paid leave taken under section 102(a)(1)(F) of title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2612(a)(1)(F)\], as added by the Families First Coronavirus Response Act.
 
 "(b)
 

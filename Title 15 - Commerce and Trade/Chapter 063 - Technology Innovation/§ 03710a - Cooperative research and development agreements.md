@@ -4,13 +4,13 @@
 
 Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
-&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
+&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State, local, or territorial government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
 
 &emsp;(2) to negotiate licensing agreements under section 207 of title 35, or under other authorities (in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for inventions made or other intellectual property developed at the laboratory and other inventions or other intellectual property that may be voluntarily assigned to the Government.
 
 #### (b) Enumerated authority
 
-(1) Under an agreement entered into pursuant to subsection (a)(1), the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for anysuch invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
+(1) Under an agreement entered into pursuant to subsection (a)(1), the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
 &emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
 
@@ -90,7 +90,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (6) Each agency shall maintain a record of all agreements entered into under this section.
 
-(7) (A) No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section 552(b)(4) of title 5, which is obtained in the conduct of research or as a result of activities under this chapter from a non-Federal party participating in a cooperative research and development agreement shall be disclosed.
+(7)(A) No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section 552(b)(4) of title 5, which is obtained in the conduct of research or as a result of activities under this chapter from a non-Federal party participating in a cooperative research and development agreement shall be disclosed.
 
 (B)(i) Subject to clause (ii), the director, or in the case of a contractor-operated laboratory, the agency, for a period of up to 5 years after development of information that results from research and development activities conducted under this chapter and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement, may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
 
@@ -108,7 +108,7 @@ As used in this section—
 
 &emsp;&emsp;(B) a group of Government-owned, contractor-operated facilities (including a weapon production facility of the Department of Energy) under a common contract, when a substantial purpose of the contract is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government; and
 
-&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon production facility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
+&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon production facility of the Department of Energy) that isnot under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
 
 > &emsp;but such term does not include any facility covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
@@ -132,7 +132,11 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742; Pub. L. 117–58, div. D, title III, §40322(b)(1), Nov. 15, 2021, 135 Stat. 1018.)
+#### (h) Territorial governments
+
+For the purposes of this section, the government of a territory of the United States shall be considered a non-Federal party.
+
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742; Pub. L. 117–58, div. D, title III, §40322(b)(1), Nov. 15, 2021, 135 Stat. 1018; Pub. L. 118–159, div. A, title XVII, §1705, Dec. 23, 2024, 138 Stat. 2208.)
 
 #### <b>Editorial Notes</b>
 
@@ -143,6 +147,10 @@ Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated s
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–159, §1705(1), substituted "State, local, or territorial government" for "State or local government".
+
+Subsec. (h). Pub. L. 118–159, §1705(2), added subsec. (h).
 
 <b>2021</b>—Subsec. (c)(7)(B). Pub. L. 117–58 designated existing provisions as cl. (i), substituted "Subject to clause (ii), the director" for "The director", and added cl. (II).
 
@@ -254,7 +262,7 @@ The Secretary of the Army, in cooperation with the Secretary of Transportation, 
 
 #### Contract Provisions
 
-Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, title VIII, §828(a), Nov. 5, 1990, 104 Stat. 1607, provided that:
+Pub. L. 101–189, div. C, title XXXI, §3133(d), Nov. 29, 1989, 103 Stat. 1678, as amended by Pub. L. 101–510, div. A, title VIII, §828(a), Nov. 5, 1990, 104 Stat. 1607, provided that:
 
 "(1) Not later than 150 days after the date of enactment of this Act \[Nov. 29, 1989\], each agency which has contracted with a non-Federal entity to operate a Government-owned laboratory shall propose for inclusion in that laboratory's operating contract, to the extent not already included and subject to paragraph (6), appropriate contract provisions that—
 
@@ -296,5 +304,5 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be (ii).</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(ii)".</i>
 

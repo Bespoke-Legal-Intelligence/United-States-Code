@@ -120,7 +120,7 @@ Confidentiality of Information.—Information related to a confidential matter r
 
 (f)
 
-Use of Accident Reports.—(1) Each accident report made by an officer, employee, or agent of the Department may be used in a judicial proceeding resulting from the accident. Theofficer, employee, or agent may be required to testify in the proceeding about the facts developed in investigating the accident. The report shall be made available to the public in a way that does not identify an individual.
+Use of Accident Reports.—(1) Each accident report made by an officer, employee, or agent of the Department may be used in a judicial proceeding resulting from the accident. The officer, employee, or agent may be required to testify in the proceeding about the facts developed in investigating the accident. The report shall be made available to the public in a way that does not identify an individual.
 
 (2) Each report related to research and demonstration projects and related activities is public information.
 
@@ -626,7 +626,7 @@ Revision of Regulations.—Not later than 18 months after the date of enactment 
 
 Minimum Requirements.—In revising the regulations, the Secretary, at a minimum, shall—
 
-&emsp;"(1) establish time limits for telephonic or electronic notification of an accident or incident to require such notification at the earliest practicable moment following confirmed discovery of an accident or incident and not later than 1 hour following the time of such confirmed discovery;
+&emsp;"(1) establish time limits for telephonic or electronic notification of an accident or incident to require such notification at the earliest practicablemoment following confirmed discovery of an accident or incident and not later than 1 hour following the time of such confirmed discovery;
 
 &emsp;"(2) review procedures for owners and operators of pipeline facilities and the National Response Center to provide thorough and coordinated notification to all relevant State and local emergency response officials, including 911 emergency call centers, for the jurisdictions in which those pipeline facilities are located in the event of an accident or incident, and revise such procedures as appropriate; and
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the customers, or categories of customers, to which the covered entity plans to sell the semiconductor technology, equipment, materials, or research and development described in item (aa); and
 
-&emsp;&emsp;&emsp;&emsp;(VI) documented, to the extent practicable, workforce needs and developed a strategy to meet such workforce needsconsistent with the commitments described in subclauses (II) and (III);
+&emsp;&emsp;&emsp;&emsp;(VI) documented, to the extent practicable, workforce needs and developed a strategy to meet such workforce needs consistent with the commitments described in subclauses (II) and (III);
 
 &emsp;&emsp;&emsp;(iii) with respect to the project described in clause (i), the covered entity has an executable plan to identify and mitigate relevant semiconductor supply chain security risks, such as risks associated with access, availability, confidentiality, integrity, and a lack of geographic diversification in the covered entity's supply chain; and
 
@@ -202,7 +202,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On or before the date on which the Secretary awards Federal financial assistanceto a covered entity under this section, the covered entity shall enter into an agreement with the Secretary specifying that, during the 10-year period beginning on the date of the award, subject to clause (ii), the covered entity may not engage in any significant transaction, as defined in the agreement, involving the material expansion of semiconductor manufacturing capacity in the People's Republic of China or any other foreign country of concern.
+&emsp;&emsp;&emsp;On or before the date on which the Secretary awards Federal financial assistance to a covered entity under this section, the covered entity shall enter into an agreement with the Secretary specifying that, during the 10-year period beginning on the date of the award, subject to clause (ii), the covered entity may not engage in any significant transaction, as defined in the agreement, involving the material expansion of semiconductor manufacturing capacity in the People's Republic of China or any other foreign country of concern.
 
 #### (ii) Exceptions
 
@@ -286,7 +286,7 @@
 
 #### (H) Congressional notification
 
-&emsp;&emsp;Not later than 60 days after the date on which the Secretary finds a violation by acovered entity of an agreement required under subparagraph (C)(i), and after providing the covered entity with an opportunity to provide information in response to that finding, the Secretary shall provide to the appropriate Committees of Congress—
+&emsp;&emsp;Not later than 60 days after the date on which the Secretary finds a violation by a covered entity of an agreement required under subparagraph (C)(i), and after providing the covered entity with an opportunity to provide information in response to that finding, the Secretary shall provide to the appropriate Committees of Congress—
 
 &emsp;&emsp;&emsp;(i) a notification of the violation;
 
@@ -308,7 +308,7 @@ The Comptroller General of the United States shall—
 
 &emsp;(1) not later than 2 years after the date of disbursement of the first financial award under subsection (a), and biennially thereafter for 10 years, conduct a review of the program established under subsection (a), which shall include, at a minimum—
 
-&emsp;&emsp;(A) a determination of the number of instances in which financial assistance awards were provided under that subsection during the period covered by the review;
+&emsp;&emsp;(A) a determination of the number of instances in which financial assistance awardswere provided under that subsection during the period covered by the review;
 
 &emsp;&emsp;(B) an evaluation of how—
 
@@ -472,13 +472,29 @@ Section 3212 of title 42 shall apply to a construction project that receives fin
 
 #### (7) Advanced budget authority
 
-&emsp;New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations ofbudget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with section 661c(b) of title 2.
+&emsp;New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations of budget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with section 661c(b) of title 2.
 
 #### (8) Continued oversight
 
 &emsp;The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of <sup>3</sup> waived without the consent of the Secretary.
 
-#### (h) Oversight
+#### (h) Authority relating to environmental review
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, the provision by the Secretary of Federal financial assistance for a project described in this section that satisfies the requirements under subsection (a)(2)(C)(i) of this section shall not be considered to be a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) (referred to in this subsection as "NEPA") or an undertaking for the purposes of division A of subtitle III of title 54 if—
+
+&emsp;&emsp;(A) the activity described in the application for that project has commenced not later than December 31, 2024;
+
+&emsp;&emsp;(B) the Federal financial assistance provided is in the form of a loan or loan guarantee; or
+
+&emsp;&emsp;(C) the Federal financial assistance provided, excluding any loan or loan guarantee, comprises not more than 10 percent of the total estimated cost of the project.
+
+#### (2) Savings clause
+
+&emsp;Nothing in this subsection may be construed as altering whether an activity described in subparagraph (A), (B), or (C) of paragraph (1) is considered to be a major Federal action under NEPA, or an undertaking under division A of subtitle III of title 54, for a reason other than that the activity is eligible for Federal financial assistance provided under this section.
+
+#### (i) Oversight
 
 Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
 
@@ -494,15 +510,21 @@ Not later than 4 years after disbursement of the first financial award under sub
 
 &emsp;(6) whether the Secretary has sufficiently reviewed any covered entity engaging in a listed exception under subsection (a)(6)(C)(ii).
 
-#### (i) Prohibition on use of funds
+#### (j) Prohibition on use of funds
 
 No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.
 
-(Pub. L. 116–283, div. H, title XCIX, §9902, Jan. 1, 2021, 134 Stat. 4846; Pub. L. 117–167, div. A, §§103(b), 105(a), Aug. 9, 2022, 136 Stat. 1380, 1391.)
+(Pub. L. 116–283, div. H, title XCIX, §9902, Jan. 1, 2021, 134 Stat. 4846; Pub. L. 117–167, div. A, §§103(b), 105(a), Aug. 9, 2022, 136 Stat. 1380, 1391; Pub. L. 118–105, §2(1), Oct. 2, 2024, 138 Stat. 1587.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Amendments
+
+<b>2024</b>—Subsecs. (h) to (j). Pub. L. 118–105 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–167, §103(b)(1), substituted "for the fabrication" for "for semiconductor fabrication" and "of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment." for period at end and inserted "production," before "or research and development".
 
@@ -554,7 +576,7 @@ In General.—The Secretary of Commerce shall assign personnel to lead and suppo
 
 Activities.—Personnel assigned by the Secretary to carry out the activities under this section shall—
 
-&emsp;"(1) assess the eligibility of a covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651), for financial assistance for a project with respect to the requirements under subclauses (II) and (III) of section 9902(a)(2)(B)(ii) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4652(a)(2)(B)(ii)(II) and (III));
+&emsp;"(1) assess the eligibility of a covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651), for financial assistance fora project with respect to the requirements under subclauses (II) and (III) of section 9902(a)(2)(B)(ii) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4652(a)(2)(B)(ii)(II) and (III));
 
 &emsp;"(2) ensure that each covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651), that is awarded financial assistance under section 9902 of that Act (15 U.S.C. 4652) is carrying out the commitments of the covered entity to economically disadvantaged individuals as described in the application of the covered entity under that section by the target dates for completion established by the Secretary of Commerce under subsection(a)(5)(A) of that section; and
 
@@ -571,6 +593,20 @@ Report.—Beginning on the date that is 1 year after the date on which the Secre
 #### References in Pub. L. 117–167
 
 Pub. L. 117–167, §2, Aug. 9, 2022, 136 Stat. 1371, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions and Authorities Under Section 9902(a)(3)(B) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021
+
+Memorandum of President of the United States, July 19, 2024, 89 F.R. 59817, provided:
+
+Memorandum for the Director of the Office of Management and Budget
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Director of the Office of Management and Budget the functions and authorities vested in the President by section 9902(a)(3)(B) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[15 U.S.C. 4652(a)(3)(B)\] with respect to the certification and reporting requirements regarding Federal investments in individual projects exceeding $3 billion.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

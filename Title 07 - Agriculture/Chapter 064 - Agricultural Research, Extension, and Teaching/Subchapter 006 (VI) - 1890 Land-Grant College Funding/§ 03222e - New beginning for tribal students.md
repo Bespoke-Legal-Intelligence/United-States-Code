@@ -52,7 +52,7 @@ In this section:
 
 #### (5) Maximum amount per state
 
-&emsp;No State shall receive, through grants made under this section to land-grant colleges anduniversities located in the State, more than $500,000 per year.
+&emsp;No State shall receive, through grants made under this section to land-grant colleges and universities located in the State, more than $500,000 per year.
 
 #### (c) Report
 

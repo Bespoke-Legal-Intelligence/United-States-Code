@@ -12,7 +12,7 @@
 
 &emsp;(2) making written recommendations to the appropriate appointing authority concerning such candidates.
 
-(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of the members of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
+(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of themembers of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
 
 (2) The Office shall, in consultation with the various qualification review boards, prescribe criteria for establishing executive qualifications for appointment of career appointees. The criteria shall provide for—
 
@@ -94,7 +94,7 @@ Temporary Inapplicability.—Notwithstanding section 3393(c) of title 5, United 
 
 "(b)
 
-Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed.
+Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed underthis section possess the necessary qualifications and experience for the position to which appointed.
 
 "(c)
 
@@ -136,7 +136,7 @@ Additional report.—Not later than December 1, 2024, the Secretary shall submit
 
 &emsp;&emsp;"(C) An assessment of the utility of the appointment authority and process under this section.
 
-&emsp;&emsp;"(D) An assessment of whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service ofthe Department when compared with the executives produced in the Department under the review system in use between August 13, 2013, and August 13, 2018.
+&emsp;&emsp;"(D) An assessment of whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced in the Department under the review system in use between August 13, 2013, and August 13, 2018.
 
 &emsp;&emsp;"(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service.
 

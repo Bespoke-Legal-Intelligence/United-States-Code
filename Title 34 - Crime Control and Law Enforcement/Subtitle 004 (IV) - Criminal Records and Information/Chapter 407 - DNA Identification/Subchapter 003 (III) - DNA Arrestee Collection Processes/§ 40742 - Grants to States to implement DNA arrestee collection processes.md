@@ -12,7 +12,7 @@ The Attorney General shall, subject to amounts made available pursuant to sectio
 
 #### (2) Non-supplanting funds
 
-&emsp;An application submitted under paragraph (1) by a State shall include assurances that the amounts received under the grant under this section shall be used to supplement, not supplant, State funds that would otherwise be available for the purpose described in subsection (a).
+&emsp;An application submitted under paragraph (1) by a State shall include assurances that theamounts received under the grant under this section shall be used to supplement, not supplant, State funds that would otherwise be available for the purpose described in subsection (a).
 
 #### (3) Other requirements
 

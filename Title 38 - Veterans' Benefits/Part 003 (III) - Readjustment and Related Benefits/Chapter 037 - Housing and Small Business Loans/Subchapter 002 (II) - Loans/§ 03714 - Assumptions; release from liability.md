@@ -84,5 +84,5 @@ Subsec. (f)(1)(A). Pub. L. 102–83, §5(c)(1), substituted "3733(a)(1)" for "18
 
 Subsec. (a)(1). Pub. L. 100–689, §302(1), substituted "Except as provided in subsection (f) of this section, if" for "If" and "loan guaranteed, insured, or made" for "guaranteed, insured, or direct housing loan obtained by a veteran".
 
-Subsec. (f). Pub. L. 100–689, §302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read asfollows: "This section shall apply only to loans for which commitments are made on or after March 1, 1988."
+Subsec. (f). Pub. L. 100–689, §302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "This section shall apply only to loans for which commitments are made on or after March 1, 1988."
 

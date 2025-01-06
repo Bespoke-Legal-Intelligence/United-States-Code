@@ -260,7 +260,7 @@ Annual Reports.—The Comptroller General shall include—
 
 &emsp;&emsp;"(B) the amount of the annual pay adjustments afforded to officers and employees of the Office under section 3 of this Act; and
 
-&emsp;&emsp;"(C) a description of any extraordinary economic conditions or serious budget constraints which had a significant impact on the determination of the annual pay adjustments for officers and employees of the Office.
+&emsp;&emsp;"(C) a description of any extraordinary economic conditions or serious budget constraints which hada significant impact on the determination of the annual pay adjustments for officers and employees of the Office.
 
 "(b)
 

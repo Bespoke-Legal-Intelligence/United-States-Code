@@ -12,7 +12,7 @@ The memorandum of understanding shall—
 
 &emsp;(2) establish a 5-year program for geothermal leasing of lands in the National Forest System, and a process for updating that program every 5 years; and
 
-&emsp;(3) establish a program for reducing the backlog of geothermal lease application pending on January 1, 2005, by 90 percent within the 5-year period beginning on August 8, 2005, including, as necessary, by issuing leases, rejecting lease applications for failure to comply with the provisions of the regulations under which they were filed, or determining that an original applicant (or the applicant's assigns, heirs, or estate) is no longer interested in pursuing the lease application.
+&emsp;(3) establish a program for reducing the backlog of geothermal lease application pending on January 1, 2005, by 90 percent within the 5-year period beginning on August 8, 2005, including, as necessary, by issuing leases, rejecting lease applications for failure to comply with the provisions of the regulations underwhich they were filed, or determining that an original applicant (or the applicant's assigns, heirs, or estate) is no longer interested in pursuing the lease application.
 
 #### (c) Data retrieval system
 

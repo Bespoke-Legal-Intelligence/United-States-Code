@@ -72,7 +72,7 @@ Recipients shall transfer ownership of the property to tenants within a specifie
 
 #### (3) Access by Comptroller General
 
-&emsp;The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers,and records of the recipient that are pertinent to assistance received under this part.
+&emsp;The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
 #### (i) Certain entities not eligible
 

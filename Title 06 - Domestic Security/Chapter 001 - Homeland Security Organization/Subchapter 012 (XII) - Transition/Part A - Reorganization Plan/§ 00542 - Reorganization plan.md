@@ -158,7 +158,7 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 <i>March 1, 2003:</i>
 
-&emsp;• Transfer the Critical Infrastructure Assurance Office ("CIAO") of the Department of Commerce, the National Communications System ("the NCS"), the NIPC of the FBI (other than the CIOS), the National Infrastructure Simulation and Analysis Center\("NISAC"), the Energy Assurance Office ("EAO") of the Department of Energy, and the Federal Computer Incident Response Center of the General Services Administration ("FedCIRC").
+&emsp;• Transfer the Critical Infrastructure Assurance Office ("CIAO") of the Department of Commerce, the National Communications System ("the NCS"), the NIPC of the FBI (other than the CIOS), the National Infrastructure Simulation and Analysis Center ("NISAC"), the Energy Assurance Office ("EAO") of the Department of Energy, and the Federal Computer Incident Response Center of the General Services Administration ("FedCIRC").
 
 &emsp;• Transfer the Coast Guard.
 
@@ -326,7 +326,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• In carrying out the foregoing responsibilities, ensure the speedy, orderly, and efficient flow of lawful traffic and commerce.
 
-&emsp;&emsp;&emsp;• Carry out the immigration enforcement functions specified under Section 441 of the Act \[6 U.S.C. 251\] that were vested by statute in, or performed by, the Commissioner of the INS (or any officer, employee, or component of the INS) immediately before the date on which the transfer of functions takes place.
+&emsp;&emsp;&emsp;• Carry out the immigration enforcement functions specified under Section 441 of the Act \[6U.S.C. 251\] that were vested by statute in, or performed by, the Commissioner of the INS (or any officer, employee, or component of the INS) immediately before the date on which the transfer of functions takes place.
 
 &emsp;&emsp;&emsp;b. <i>Assistant Secretary for Border Security:</i> Will report directly to the Under Secretary for Border and Transportation Security, and whose responsibilities will include the following:
 
@@ -428,7 +428,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 <b>(5) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.</b>
 
-&emsp;• There is no intention to dispose of property, facility, contracts, records, and other assets and obligations of agencies transferred under the plan. All ofsuch assets and obligations will transfer with each agency pursuant to Section 1511(d)(1) of the Act \[6 U.S.C. 551(d)(1)\].
+&emsp;• There is no intention to dispose of property, facility, contracts, records, and other assets and obligations of agencies transferred under the plan. All of such assets and obligations will transfer with each agency pursuant to Section 1511(d)(1) of the Act \[6 U.S.C. 551(d)(1)\].
 
 &emsp;• Prior to and during the transition period (as defined by Section 1501(a)(2) of the Act \[6 U.S.C. 541(a)(2)\]), the Department may identify property, facilities, contracts, records, and other assets and obligations of agencies transferred that would be candidates for disposition due to duplication, non-use, obsolescence, and the like. If and when any such proposed dispositions are identified, we will follow provisions of the Act relating to modification of this plan or further notification of Congress.
 
@@ -472,7 +472,7 @@ This Reorganization Plan Modification is submitted pursuant to the Homeland Secu
 
 #### Purpose of Modification
 
-This modification of the Plan is to establish and specify organizational units within the Border and Transportation Security Directorate. This modification presents a structural change, but does not consolidate, discontinue, or diminish transferred agencies' current operations in the field.
+This modification of the Plan is to establish and specify organizational units within the Border andTransportation Security Directorate. This modification presents a structural change, but does not consolidate, discontinue, or diminish transferred agencies' current operations in the field.
 
 #### Plan Modifications
 

@@ -32,5 +32,5 @@ On termination of its status as a System institution—
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(4). Pub. L. 115–334 added par. (4) and struck out former par. (4) which read as follows: "the institution pays to the Farm Credit Assistance Fund, as created under section 2278b–5 of this title, if the termination is prior to January 1, 1992, or pays to the Farm Credit Insurance Fund, if the termination is after such date, the amount by which the total capital of the institution exceeds, 6 percent of the assets;".
+<b>2018</b>—Subsec. (a)(4). Pub. L. 115–334 added par. (4) and struck out former par. (4) which read as follows: "theinstitution pays to the Farm Credit Assistance Fund, as created under section 2278b–5 of this title, if the termination is prior to January 1, 1992, or pays to the Farm Credit Insurance Fund, if the termination is after such date, the amount by which the total capital of the institution exceeds, 6 percent of the assets;".
 

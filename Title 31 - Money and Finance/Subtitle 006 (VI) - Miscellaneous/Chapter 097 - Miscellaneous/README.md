@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–22, title I, §105(c)(2)(B), May 29, 2015, 129 Stat. 238, amended analysis generally, substituting items 9701 to 9705 for former items 9701 to 9704, which included two items 9703.
+<b>2015</b>—Pub. L. 114–22, title I, §105(c)(2)(B), May 29, 2015, 129 Stat. 238, amended analysis generally, substitutingitems 9701 to 9705 for former items 9701 to 9704, which included two items 9703.
 
 <b>1993</b>—Pub. L. 103–62, §11(b)(2), Aug. 3, 1993, 107 Stat. 295, added item 9703 relating to managerial accountability and flexibility and item 9704.
 

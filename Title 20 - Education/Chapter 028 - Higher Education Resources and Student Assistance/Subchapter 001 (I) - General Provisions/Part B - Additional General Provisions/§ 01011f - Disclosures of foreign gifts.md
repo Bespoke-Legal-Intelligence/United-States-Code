@@ -2,7 +2,7 @@
 
 #### (a) Disclosure report
 
-Whenever any institution is owned or controlled by a foreign source or receives a gift from or enters into a contract with a foreign source, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
+Whenever any institution is owned or controlled by a foreign source or receives a giftfrom or enters into a contract with a foreign source, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
 
 #### (b) Contents of report
 
@@ -12,7 +12,7 @@ Each report to the Secretary required by this section shall contain the followin
 
 &emsp;(2) For gifts received from or contracts entered into with a foreign government, the aggregate amount of such gifts and contracts received from each foreign government.
 
-&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date onwhich the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
+&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
 
 #### (c) Additional disclosures for restricted and conditional gifts
 

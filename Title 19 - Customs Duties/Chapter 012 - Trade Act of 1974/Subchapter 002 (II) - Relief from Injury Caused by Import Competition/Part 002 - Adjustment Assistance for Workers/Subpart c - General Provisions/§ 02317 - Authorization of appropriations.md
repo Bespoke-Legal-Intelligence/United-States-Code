@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 2001, and ending December 31, 2007,<sup>1</sup> such sums as may be necessary to carry out the purposes of this part.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 2001, and ending December 31, 2007,<sup>1</sup>such sums as may be necessary to carry out the purposes of this part.
 
 #### (b) Period of expenditure
 
@@ -28,7 +28,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
-Subsec. (a). Pub. L. 114–27, §§403(d)(1), 406, temporarily substituted "June 30, 2021" for "December 31,2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
+Subsec. (a). Pub. L. 114–27, §§403(d)(1), 406, temporarily substituted "June 30, 2021" for "December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -78,7 +78,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
@@ -118,7 +118,7 @@ Parts 2 and 3 of this subchapter to be applied as if the amendment of this secti
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions applicable, see section 2514of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 

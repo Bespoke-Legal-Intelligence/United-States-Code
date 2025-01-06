@@ -6,7 +6,7 @@ In General.—An officer or employee of the United States Government traveling b
 
 (b)
 
-Regulations.—The Administrator of General Services shall prescribe regulations under which agencies may not pay for or reimburse an officer or employee for travel or transportation expenses incurred on a foreign vessel in the absence of satisfactory proof of the necessity of using the vessel.
+Regulations.—The Administrator of General Services shall prescribe regulations under which agencies may not pay for or reimburse an officer or employee for travel or transportationexpenses incurred on a foreign vessel in the absence of satisfactory proof of the necessity of using the vessel.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642.)
 

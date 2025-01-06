@@ -8,7 +8,7 @@ General Authority.—To improve security at public airports in the United States
 
 Priority.—In carrying out this section, the Secretary shall give the highest priority to a request from an eligible sponsor for a grant to undertake a project that—
 
-&emsp;(1) evaluates and tests the benefits of innovative aviation security systems or related technology, including explosives detection systems, for the purpose of improving aviation and aircraft physical security, access control, and passenger and baggage screening; and
+&emsp;(1) evaluates and tests the benefits of innovative aviation security systems or relatedtechnology, including explosives detection systems, for the purpose of improving aviation and aircraft physical security, access control, and passenger and baggage screening; and
 
 &emsp;(2) provides testing and evaluation of airport security systems and technology in an operational, testbed environment.
 

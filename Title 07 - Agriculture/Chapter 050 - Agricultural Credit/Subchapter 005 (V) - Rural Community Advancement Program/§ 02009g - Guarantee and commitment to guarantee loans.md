@@ -34,7 +34,7 @@ Notwithstanding any other provision of this subchapter, a State to which a grant
 
 #### (f) Pledged grants for repayments
 
-Notwithstanding any other provision of this subchapter, the Secretary may apply grants pledged pursuant to paragraphs (1)(B) and (2) of subsection (e) to any repayments due the United States as a result of the guarantees.
+Notwithstanding any other provision of this subchapter, the Secretary may apply grants pledged pursuant to paragraphs (1)(B) and (2) ofsubsection (e) to any repayments due the United States as a result of the guarantees.
 
 #### (g) Outstanding obligations
 

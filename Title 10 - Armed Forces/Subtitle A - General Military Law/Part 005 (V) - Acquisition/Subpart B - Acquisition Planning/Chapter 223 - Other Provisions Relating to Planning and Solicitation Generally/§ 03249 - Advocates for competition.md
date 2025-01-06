@@ -40,5 +40,5 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 
-Pub. L. 98–525, title XII, §1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provided that: "Section 2318 of title 10, United States Code \[now 10 U.S.C. 3249\] (as added by subsection (a)), shall take effect on April 1, 1985."
+Pub. L. 98–525, title XII, §1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provided that: "Section 2318 of title 10,United States Code \[now 10 U.S.C. 3249\] (as added by subsection (a)), shall take effect on April 1, 1985."
 

@@ -16,7 +16,7 @@ All wild free-roaming horses and burros are hereby declared to be under the juri
 
 &emsp;(C) The Secretary shall cause additional excess wild free-roaming horses and burros for which an adoption demand by qualified individuals does not exist to be destroyed in the most humane and cost efficient manner possible.
 
-(3) For the purpose of furthering knowledge of wild horse and burro population dynamics and their interrelationship with wildlife, forage and water resources, and assisting him in making his determination as to what constitutes excess animals, the Secretary shall contract for a research study of such animals with such individuals independent of Federal and State government as may be recommended by the National Academy of Sciences for having scientific expertise and special knowledge of wild horse and burro protection, wildlife management and animal husbandry as related to rangeland management. The terms and outline of such research study shall be determined by a research design panel to be appointed by the President of the National Academy of Sciences. Such study shall be completed and submitted by the Secretary to the Senate and House of Representatives on or before January 1, 1983.
+(3) For the purpose of furthering knowledge of wild horse and burro population dynamics and their interrelationship with wildlife, forage and water resources, and assisting him in making his determination as to what constitutes excess animals, the Secretary shall contract for a research study of such animals with such individuals independent of Federal and State government as may be recommended by the National Academy of Sciences for having scientific expertise and special knowledge of wild horse and burro protection, wildlife management and animal husbandry as related to rangeland management. The terms and outline of such research study shall be determined by a research design panel to be appointed by the President of the National Academy of Sciences. Such study shall be completed and submitted by the Secretary tothe Senate and House of Representatives on or before January 1, 1983.
 
 #### (c) Title of transferee to limited number of excess animals adopted for requisite period
 
@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 95–514 substituted provisions relating to circumstances a
 
 #### Termination of Advisory Boards
 
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or inthe case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)".</i>
 

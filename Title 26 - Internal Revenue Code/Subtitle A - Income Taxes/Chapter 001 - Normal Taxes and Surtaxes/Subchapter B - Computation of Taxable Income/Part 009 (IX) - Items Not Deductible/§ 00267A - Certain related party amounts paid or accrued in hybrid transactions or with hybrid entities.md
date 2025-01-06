@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (2) Related party
 
-&emsp;The term "related party" means a related person as defined in section 954(d)(3), except that such section shall be applied with respect to the person making the payment described in paragraph (1) in lieu of the controlled foreign corporation otherwise referred to in such section.
+&emsp;The term "related party" means a related person as defined in section 954(d)(3), exceptthat such section shall be applied with respect to the person making the payment described in paragraph (1) in lieu of the controlled foreign corporation otherwise referred to in such section.
 
 #### (c) Hybrid transaction
 

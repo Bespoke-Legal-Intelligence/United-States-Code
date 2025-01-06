@@ -2,7 +2,7 @@
 
 (a) Except as provided in section 733(c) of this title, this subchapter and subchapter IV of this chapter do not affect sections 702(b), 703, 731(c) and (e), 772, 775(a) and (d) of this title.
 
-(b) Except as specifically provided in this subchapter and subchapter IV of this chapter, those subchapters do not change the application of a law applicable to officers and employees of the Government Accountability Office.
+(b) Except as specifically provided in this subchapter and subchapter IV of this chapter, those subchapters do not change the application of alaw applicable to officers and employees of the Government Accountability Office.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, §9(b)(3), Sept. 22, 2008, 122 Stat. 3548.)
 

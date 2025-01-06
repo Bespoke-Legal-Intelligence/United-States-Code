@@ -72,7 +72,7 @@ Exclusion of Safety and Energy Conservation Devices.—Length calculated under t
 
 (e)
 
-Qualifying Highways.—The Secretary by regulation shall designate as qualifying Federal-aid Primary System highways those highways of the Federal-aid Primary System in existence on June 1, 1991, that can accommodate safely the applicable vehicle lengths provided in this section.
+Qualifying Highways.—The Secretary by regulation shall designate as qualifying Federal-aid Primary System highways those highways ofthe Federal-aid Primary System in existence on June 1, 1991, that can accommodate safely the applicable vehicle lengths provided in this section.
 
 (f)
 

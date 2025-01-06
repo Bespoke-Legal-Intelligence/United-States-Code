@@ -244,7 +244,7 @@ Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see secti
 
 #### Effective Date of 2002 Amendments
 
-Pub. L. 107–347, title IV, §402(b), Dec. 17, 2002, 116 Stat. 2962, provided that: "Title III \[see Short Title of 2002 Amendments note set out under section 101 of this title\] and this title \[enacting provisions set out as a note under section 3601 of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\]."
+Pub. L. 107–347, title IV, §402(b), Dec. 17, 2002, 116 Stat. 2962, provided that: "Title III \[see Short Title of 2002Amendments note set out under section 101 of this title\] and this title \[enacting provisions set out as a note under section 3601 of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\]."
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
@@ -296,7 +296,7 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 #### "SEC. 1704. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.
 
-"In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act,and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
+"In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
 
 &emsp;"(1) for the option of the electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and
 

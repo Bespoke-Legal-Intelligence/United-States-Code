@@ -22,7 +22,7 @@ declarations.—Congress declares that—
 
 &emsp;(2) 1978
 
-reaffirmation.—Congress reaffirms, declares, and directs that the promotion andregulation of the various System units shall be consistent with and founded in the purpose established by subsection (a), to the common benefit of all the people of the United States. The authorization of activities shall be construed and the protection, management, and administration of the System units shall be conducted in light of the high public value and integrity of the System and shall not be exercised in derogation of the values and purposes for which the System units have been established, except as directly and specifically provided by Congress.
+reaffirmation.—Congress reaffirms, declares, and directs that the promotion and regulation of the various System units shall be consistent with and founded in the purpose established by subsection (a), to the common benefit of all the people of the United States. The authorization of activities shall be construed and the protection, management, and administration of the System units shall be conducted in light of the high public value and integrity of the System and shall not be exercised in derogation of the values and purposes for which the System units have been established, except as directly and specifically provided by Congress.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3096.)
 

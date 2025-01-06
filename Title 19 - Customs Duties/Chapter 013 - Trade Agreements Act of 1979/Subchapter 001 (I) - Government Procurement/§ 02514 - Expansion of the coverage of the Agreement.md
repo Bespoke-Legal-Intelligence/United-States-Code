@@ -6,7 +6,7 @@ The President shall seek in the renegotiations provided for in article XXIV(7) o
 
 #### (b) Sector negotiating objectives
 
-The President shall seek, consistent with the overall objective set forth in subsection (a) andto the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
+The President shall seek, consistent with the overall objective set forth in subsection (a) and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
 
 #### (c) Independent verification objective
 
@@ -30,7 +30,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 Before exercising the waiver authority in section 2511 of this title for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 \[19 U.S.C. 2155\] and chapter 6 of title I of the Trade Act of 1974 \[19 U.S.C. 2211 et seq.\] for private sector and congressional consultations.
 
-(Pub. L. 96–39, title III, §304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(b), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(11), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 96–39, title III, §304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(b), Dec.8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(11), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### <b>Editorial Notes</b>
 

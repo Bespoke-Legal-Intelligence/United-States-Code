@@ -118,7 +118,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (4) Prorated rental payment
 
-&emsp;If a contract entered into under this subpart is terminated under this subsection before the end of the fiscal year for which a rental payment is due, the Secretary shall provide a prorated rental payment covering the portion of the fiscal year during which the contract was in effect.
+&emsp;If a contract entered into under this subpart is terminated under this subsection before theend of the fiscal year for which a rental payment is due, the Secretary shall provide a prorated rental payment covering the portion of the fiscal year during which the contract was in effect.
 
 #### (5) Renewed enrollment
 
@@ -232,7 +232,7 @@ Subsec. (g). Pub. L. 115–334, §2208(b), amended subsec. (g) generally. Prior 
 
 <b>2014</b>—Subsec. (e)(1)(A). Pub. L. 113–79, §2006(a)(1), substituted "During fiscal year 2015, the Secretary" for "The Secretary" and struck out "before January 1, 1995," after "under this subpart".
 
-Subsec. (e)(2)(C) to (J). Pub. L. 113–79, §2006(a)(2), added subpars. (C) to (J) and struck out former subpar.\(C) which read as follows: "Other land of high environmental value (including wetland), as determined by the Secretary."
+Subsec. (e)(2)(C) to (J). Pub. L. 113–79, §2006(a)(2), added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: "Other land of high environmental value (including wetland), as determined by the Secretary."
 
 Subsec. (e)(3). Pub. L. 113–79, §2006(a)(3), substituted "upon approval by the Secretary" for "60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)".
 

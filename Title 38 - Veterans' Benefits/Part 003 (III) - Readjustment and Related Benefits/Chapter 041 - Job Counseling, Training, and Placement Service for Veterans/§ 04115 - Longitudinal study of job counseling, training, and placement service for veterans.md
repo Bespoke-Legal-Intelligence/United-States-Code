@@ -46,7 +46,7 @@ Study Required.—(1) The Secretary shall enter into a contract with a non-gover
 
 &emsp;(N) Whether such individual has participated in a rehabilitation program under chapter 31 of this title.
 
-&emsp;(O) Whether such individual had contact with a One-Stop Career Center employee while attending a workshop or job fair under the Transition GPS Program of the Department of Defense.
+&emsp;(O) Whether such individual had contact with a One-Stop Career Center employee while attending a workshop or job fair under theTransition GPS Program of the Department of Defense.
 
 &emsp;(P) Demographic information about such individual.
 

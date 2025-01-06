@@ -144,7 +144,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 &emsp;&emsp;&emsp;(i) the conversion of Association common stock into Holding Company common stock as part of the plan of reorganization approved by the Association's shareholders; and
 
-&emsp;&emsp;&emsp;(ii) any issuance or sale of stock (including issuance or sale of treasury stock),stock split, recapitalization, reorganization, or other corporate event, if agreed to by the Secretary of the Treasury and the Association.
+&emsp;&emsp;&emsp;(ii) any issuance or sale of stock (including issuance or sale of treasury stock), stock split, recapitalization, reorganization, or other corporate event, if agreed to by the Secretary of the Treasury and the Association.
 
 #### (B) Authority to sell or exercise stock warrants; deposit of proceeds
 
@@ -152,7 +152,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (10) Restrictions on transfer of Association shares and bankruptcy of Association
 
-&emsp;After the reorganization effective date, the Holding Company shall not sell, pledge, or otherwise transfer the outstanding shares of the Association, or agree to or cause the liquidation of the Association or cause the Association to file a petition for bankruptcy under title 11, without prior approval of the Secretary of the Treasury and the Secretary of Education.
+&emsp;After the reorganization effective date, the Holding Company shall not sell, pledge, or otherwise transfer the outstanding shares ofthe Association, or agree to or cause the liquidation of the Association or cause the Association to file a petition for bankruptcy under title 11, without prior approval of the Secretary of the Treasury and the Secretary of Education.
 
 #### (d) Termination of Association
 
@@ -192,13 +192,13 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or servicemark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>1</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>1</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
 
 #### (4) Disclosure required
 
 &emsp;Until 3 years after the dissolution date, the Holding Company, and any subsidiary of the Holding Company (other than the Association), shall prominently display—
 
-&emsp;&emsp;(A) in any document offering the Holding Company's securities, a statement that the obligations of the Holding Company and any subsidiary of the Holding Company are not guaranteed by the full faith and credit of the United States; and
+&emsp;&emsp;(A) in any document offering the Holding Company's securities, a statement that the obligations of the Holding Company and any subsidiary of the Holding Company are notguaranteed by the full faith and credit of the United States; and
 
 &emsp;&emsp;(B) in any advertisement or promotional materials which use the "Sallie Mae" name or mark, a statement that neither the Holding Company nor any subsidiary of the Holding Company is a government-sponsored enterprise or instrumentality of the United States.
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233,</i><i>3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -274,7 +274,7 @@ Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was
 
 #### Prior Provisions
 
-A prior section 1087–3, Pub. L. 89–329, title IV, §439A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2141, related to a five-year nondischargeability of certain loan debts, prior to repeal by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678, eff. Nov. 6, 1978.
+A prior section 1087–3, Pub. L. 89–329, title IV, §439A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90Stat. 2141, related to a five-year nondischargeability of certain loan debts, prior to repeal by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678, eff. Nov. 6, 1978.
 
 A prior section 1087–3a, Pub. L. 89–329, title IV, §439B, as added Pub. L. 95–566, §8, Nov. 1, 1978, 92 Stat. 2404, authorized any loan under this part to be counted as part of the expected family contribution in the determination of need, prior to repeal by Pub. L. 97–35, title V, §532(b)(2), Aug. 13, 1981, 95 Stat. 452, applicable to loans for the statement required by section 1078(a)(2)(A) of this title is completed on or after Oct. 1, 1981.
 

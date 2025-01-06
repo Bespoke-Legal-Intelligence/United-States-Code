@@ -24,7 +24,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (A) Funding
 
-&emsp;&emsp;For fiscal year 1995, the Secretary of the Treasury shall pay to the Bank out of anysums in the Treasury not otherwise appropriated the sum of $56,250,000 for the paid-in portion of the United States share of the capital stock of the Bank, 10 percent of which may be transferred by the Bank to the President pursuant to section 290m–2 of this title to pay for the cost of direct and guaranteed Federal loans.
+&emsp;&emsp;For fiscal year 1995, the Secretary of the Treasury shall pay to the Bank out of any sums in the Treasury not otherwise appropriated the sum of $56,250,000 for the paid-in portion of the United States share of the capital stock of the Bank, 10 percent of which may be transferred by the Bank to the President pursuant to section 290m–2 of this title to pay for the cost of direct and guaranteed Federal loans.
 
 #### (B) Limitation on callable capital subscriptions
 

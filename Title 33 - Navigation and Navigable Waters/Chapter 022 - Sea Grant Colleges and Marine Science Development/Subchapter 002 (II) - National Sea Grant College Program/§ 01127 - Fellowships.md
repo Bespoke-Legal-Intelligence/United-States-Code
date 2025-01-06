@@ -32,7 +32,7 @@ To carry out the educational and training objectives of this subchapter, the Sec
 
 Amounts available for fellowships under this section, including amounts accepted under section 1123(c)(4)(F) of this title or appropriated under section 1131 of this title to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
 
-(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §5, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §8, Oct. 13, 2008, 122 Stat. 4207; Pub. L. 113–188, title II, §201(c), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 116–221, §3(a), (b), Dec. 18, 2020, 134 Stat. 1057.)
+(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §5, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §8, Oct. 13, 2008, 122 Stat. 4207; Pub. L. 113–188, title II, §201(c), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 116–221, §3(a), (b), Dec. 18, 2020, 134 Stat. 1057.)
 
 #### <b>Editorial Notes</b>
 

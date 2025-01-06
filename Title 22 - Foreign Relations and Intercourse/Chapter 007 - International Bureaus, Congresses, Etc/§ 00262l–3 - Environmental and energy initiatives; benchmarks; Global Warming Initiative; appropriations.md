@@ -10,7 +10,7 @@ The Secretary of the Treasury shall, not later than March 1, 1993, submit a repo
 
 #### (c) Improved environmental performance; benchmarks
 
-(1) In furtherance of the policies contained in section 533(a) of Public Law 101–513 and section 1308 <sup>1</sup> of the International Development and Finance Act of 1989 (Public Law 101–240), and as a basis for measuring more effectively progress by the MDBs toward improved environmental performance, the Secretary of the Treasury shall instruct the United States Executive Directors of the MDBs to encourage each MDB, at a minimum, to meet the benchmarks established in paragraph (2) in the areas of sustainable energy development, forest conservation, forced displacement of populations, and environmental impact assessment. On March 1, 1993 and March 1, 1994, the Secretary of the Treasury shall submit a report to the Congress describing in detail the progress being made by the MDBs in meeting these benchmarks.
+(1) In furtherance of the policies contained in section 533(a) of Public Law 101–513 and section 1308 <sup>1</sup> of the International Development and Finance Act of 1989 (Public Law 101–240), and as a basis for measuring more effectively progress by the MDBs toward improved environmental performance, the Secretary of the Treasury shall instruct the United States Executive Directors of the MDBs to encourage each MDB, at a minimum, to meet the benchmarks established in paragraph (2) in the areas of sustainable energy development, forest conservation, forced displacement of populations, and environmental impact assessment. On March 1, 1993 and March1, 1994, the Secretary of the Treasury shall submit a report to the Congress describing in detail the progress being made by the MDBs in meeting these benchmarks.
 
 (2) For the purposes of paragraph (1), benchmarks are as follows:
 
@@ -42,7 +42,7 @@ The Secretary of the Treasury shall, not later than March 1, 1993, submit a repo
 
 &emsp;(D) In the area of procedures for environmental impact assessment (EIA)—
 
-&emsp;&emsp;(i) each MDB should require that draft and final EIA reports be made available to the public in borrowing and donor countries and that the public be offered timely opportunities for comment on the EIA process, including initial scoping sessions, review of EIA categories assigned to individual projects,and opportunities to comment on draft and final EIA reports;
+&emsp;&emsp;(i) each MDB should require that draft and final EIA reports be made available to the public in borrowing and donor countries and that the public be offered timely opportunities for comment on the EIA process, including initial scoping sessions, review of EIA categories assigned to individual projects, and opportunities to comment on draft and final EIA reports;
 
 &emsp;&emsp;(ii) each MDB should apply EIA requirements to all sector loans and develop and apply the methodology for environmental assessment of structural adjustment loans;
 
@@ -58,7 +58,7 @@ The Administrator of the Agency for International Development shall instruct all
 
 Of the funds appropriated by this Act under the headings in title II of this Act under "Agency for International Development", not less than $650,000,000 shall be made available for environment and energy activities, including funds earmarked under section 533 of this Act, including the following—
 
-&emsp;(1) Not less than $20,000,000 of the aggregate of the funds appropriated to carry out the provisions of sections 103 through 106 and chapter 10 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151a–2151d; 2293 et seq.\] shall be made available for biological diversity activities, of which $5,000,000 shall be made available for the Parks in Peril project pursuant to the authority of section 119(b) of that Act \[22 U.S.C. 2151q(b)\]; $1,500,000 shall be for the National Science Foundation's international biological diversity program; $750,000 shall be for the Neotropical Bird Conservation Initiative of the National Fish and Wildlife Foundation; and up to $2,000,000 shall be for Project Noah;
+&emsp;(1) Not less than $20,000,000 of the aggregate of the funds appropriated to carry out the provisions of sections 103 through 106 and chapter 10 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151a–2151d; 2293 et seq.\] shall be made available for biological diversity activities, of which $5,000,000 shall be made available for the Parks in Peril project pursuant to theauthority of section 119(b) of that Act \[22 U.S.C. 2151q(b)\]; $1,500,000 shall be for the National Science Foundation's international biological diversity program; $750,000 shall be for the Neotropical Bird Conservation Initiative of the National Fish and Wildlife Foundation; and up to $2,000,000 shall be for Project Noah;
 
 &emsp;(2) Not less than $15,000,000 of the funds appropriated for the Development Assistance Fund and to carry out the provisions of chapter 10 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2293 et seq.\] shall be made available to support replicable renewable energy projects, and the Agency for International Development shall initiate at least five significant new activities in renewable energy during fiscal year 1993;
 
@@ -94,7 +94,7 @@ Of the funds appropriated by this Act to carry out the provisions of section 276
 
 Section 533 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991, referred to in subsecs. (a), (b), (c)(1), and (d), is section 533 of Pub. L. 101–513, which was formerly classified to section 262l of this title.
 
-Section 1308 of the International Development and Finance Act of 1989 (Public Law 101–240), referred to insubsec. (c)(1), probably means a reference to the section 1308 of Pub. L. 95–118, the International Financial Institutions Act, which was added by section 521 of Pub. L. 101–240, and subsequently renumbered section 1307 of Pub. L. 95–118 by section 541(f)(4) of Pub. L. 101–240, and is classified to section 262m–7 of this title. Pub. L. 101–240 does not contain a section 1308.
+Section 1308 of the International Development and Finance Act of 1989 (Public Law 101–240), referred to in subsec. (c)(1), probably means a reference to the section 1308 of Pub. L. 95–118, the International Financial Institutions Act, which was added by section 521 of Pub. L. 101–240, and subsequently renumbered section 1307 of Pub. L. 95–118 by section 541(f)(4) of Pub. L. 101–240, and is classified to section 262m–7 of this title. Pub. L. 101–240 does not contain a section 1308.
 
 This Act, referred to in subsecs. (e) to (h), is Pub. L. 102–391, Oct. 6, 1992, 106 Stat. 1633, known as the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1993. Provisions under the headings in title II of this Act under "Agency for International Development" appear at 106 Stat. 1638 et seq. and are not classified to the Code except for an undesignated par. that was formerly set out as a note under section 2151u of this title. Section 533 of the Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

@@ -14,7 +14,7 @@ Except as otherwise provided in this subchapter, nothing contained in this subch
 
 &emsp;It is the sense of Congress that in order to achieve effective coordination described in paragraph (1), such Federal departments and agencies—
 
-&emsp;&emsp;(A) should continuously work to create enforceable regulations with respect to the export, reexport, and in-country transfer byUnited States and foreign persons of commodities, software, technology, and services to various end uses and end users for foreign policy and national security reasons;
+&emsp;&emsp;(A) should continuously work to create enforceable regulations with respect to the export, reexport, and in-country transfer by United States and foreign persons of commodities, software, technology, and services to various end uses and end users for foreign policy and national security reasons;
 
 &emsp;&emsp;(B) should regularly work to reduce complexity in the system, including complexity caused merely by the existence of structural, definitional, and other non-policy based differences between and among different export control and sanctions systems; and
 

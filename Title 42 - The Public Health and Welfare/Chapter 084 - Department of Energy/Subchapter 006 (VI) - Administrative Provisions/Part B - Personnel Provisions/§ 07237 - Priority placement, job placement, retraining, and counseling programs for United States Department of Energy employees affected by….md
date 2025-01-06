@@ -26,7 +26,7 @@ Not later than 30 days after September 30, 1996, the United States Department of
 
 The priority placement program established under subsection (b) shall include provisions under which a vacant position shall not be filled by the appointment or transfer of any individual from outside of the agency if—
 
-&emsp;(1) there is then available any eligible employee who applies for the position within 30days of the agency issuing a job announcement and is qualified (or can be trained or retrained to become qualified within 90 days of assuming the position) for the position; and
+&emsp;(1) there is then available any eligible employee who applies for the position within 30 days of the agency issuing a job announcement and is qualified (or can be trained or retrained to become qualified within 90 days of assuming the position) for the position; and
 
 &emsp;(2) the position is within the same commuting area as the eligible employee's last-held position or residence.
 
@@ -46,5 +46,5 @@ The head of the agency may establish a program to provide job placement and coun
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development Appropriations Act, 1997, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Energy and Water Development Appropriations Act, 1997, and not as partof the Department of Energy Organization Act which comprises this chapter.
 

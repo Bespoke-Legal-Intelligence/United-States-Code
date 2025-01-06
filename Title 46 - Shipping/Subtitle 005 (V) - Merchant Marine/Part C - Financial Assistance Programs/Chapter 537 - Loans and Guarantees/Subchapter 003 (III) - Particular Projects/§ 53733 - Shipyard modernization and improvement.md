@@ -32,7 +32,7 @@ Modern shipbuilding technology.—The term "modern shipbuilding technology" mean
 
 (b)
 
-General Authority.—Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on anobligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
+General Authority.—Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
 
 (c)
 
@@ -46,7 +46,11 @@ Amount of Obligation.—The principal amount of an obligation guaranteed under t
 
 Transfer of Amounts.—The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) of making guarantees or commitments to guarantee under this section.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1623; Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(9)(F), (b), Jan. 28, 2008, 122 Stat. 598.)
+(f)
+
+Buy America.—Part I of subtitle A of title IX of division G of the Infrastructure Investment and Jobs Act (Public Law 117–58; 41 U.S.C. 8301 note) shall apply to any funds obligated by the Administrator under this section.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1623; Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(9)(F), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 118–159, div. C, title XXXV, §3536, Dec. 23, 2024, 138 Stat. 2315.)
 
 Historical and Revision Notes
 
@@ -94,9 +98,11 @@ In subsection (b), the words "and subject to the terms the Secretary shall be pr
 
 #### Amendments
 
+<b>2024</b>—Subsec. (f). Pub. L. 118–159 added subsec. (f).
+
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(K). See 2006 Amendment note below.
 
-Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(K), into this section by substituting "Administrator" for "Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L.109–163, §3507(a)(2)(K), into this section by substituting "Administrator" for "Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
 

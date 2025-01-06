@@ -2,7 +2,7 @@
 
 #### (a) Agricultural Adjustment Act of 1938
 
-The following provisions of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1281 et seq.\] shall not be applicable to the 2014 through 2023crops of covered commodities (as defined in section 9011 of this title), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014, through December 31, 2023:
+The following provisions of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1281 et seq.\] shall not be applicable to the 2014 through 2023 crops of covered commodities (as defined in section 9011 of this title), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014, through December 31, 2023:
 
 &emsp;(1) Parts II through V of subtitle B of title III (7 U.S.C. 1326 et seq.) \[7 U.S.C. 1321 et seq., 1331 et seq., 1341 et seq., 1351\].
 
@@ -63,6 +63,16 @@ The joint resolution relating to corn and wheat marketing quotas under the Agric
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Suspension of Permanent Price Support Authorities
+
+Pub. L. 118–158, div. D, §4101(c)(5), Dec. 21, 2024, 138 Stat. 1769, provided that: "The provisions of law specified in—
+
+&emsp;"(A) subsections (a) and (b) of section 1602 of the Agricultural Act of 2014 (7 U.S.C. 9092)—
+
+&emsp;&emsp;"(i) shall not be applicable to the 2025 crops of covered commodities (as defined in section 1111 of that Act (7 U.S.C. 9011)), cotton, and sugar; and
+
+&emsp;&emsp;"(ii) shall not be applicable to milk through December 31, 2025; and
+
+&emsp;"(B) section 1602(c) of that Act (7 U.S.C. 9092(c)) shall not be applicable to the crops of wheat planted for harvest in calendar year 2025."
 
 Pub. L. 118–22, div. B, title I, §102(c)(4), Nov. 17, 2023, 137 Stat. 116, provided that: "The provisions of law specified in—
 

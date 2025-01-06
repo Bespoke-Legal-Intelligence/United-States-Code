@@ -8,7 +8,7 @@
 | :--- | ---: |
 | District of Columbia | 11&nbsp;&nbsp; |
 | First | 6&nbsp;&nbsp; |
-| Second | 13   |
+| Second | 13&nbsp;&nbsp; |
 | Third | 14&nbsp;&nbsp; |
 | Fourth | 15&nbsp;&nbsp; |
 | Fifth | 17&nbsp;&nbsp; |
@@ -64,7 +64,7 @@ Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is se
 
 Pub. L. 110–177, §509(a)(1), substituted "11" for "12" in item relating to District of Columbia Circuit.
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–119 inserted at end "In each circuit (other than the Federal judicial circuit)there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit."
+<b>1997</b>—Subsec. (c). Pub. L. 105–119 inserted at end "In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit."
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–198 substituted "the Federal Courts Improvement Act of 1982" for "this Act".
 

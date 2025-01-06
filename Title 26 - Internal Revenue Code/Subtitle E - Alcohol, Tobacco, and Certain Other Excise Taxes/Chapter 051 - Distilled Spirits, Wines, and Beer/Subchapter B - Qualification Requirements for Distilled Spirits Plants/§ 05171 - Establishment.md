@@ -6,7 +6,7 @@ Except as otherwise provided by law, operations as a distiller, warehouseman, or
 
 #### (b) Establishment of distilled spirits plant
 
-A distilled spirits plant may be established only by a person who intends to conduct at such plant operations as a distiller, as a warehouseman, or as both.
+A distilled spirits plant may be established only by a person who intends to conduct at suchplant operations as a distiller, as a warehouseman, or as both.
 
 #### (c) Registration
 
@@ -48,7 +48,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### References in Text
 
-The Federal Alcohol Administration Act, referred to in subsec. (d)(1), is act Aug. 29, 1935, ch. 814, 49 Stat. 977,which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. The basic permit is covered by sections 203 and 204 of Title 27. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (d)(1), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. The basic permit is covered by sections 203 and 204 of Title 27. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 #### Prior Provisions
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(a)(13) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(a)(13) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) ofPub. L. 94–455, set out as a note under section 5005 of this title.
 
 #### Effective Date
 

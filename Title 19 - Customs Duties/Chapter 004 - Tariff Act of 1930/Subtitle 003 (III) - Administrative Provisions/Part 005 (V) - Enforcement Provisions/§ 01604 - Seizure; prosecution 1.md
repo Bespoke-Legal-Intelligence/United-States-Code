@@ -12,7 +12,7 @@ As enacted by act June 17, 1930, the catchline for this section was "Same—pros
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §604, 42 Stat. 984. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §604, 42Stat. 984. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions substantially similar in effect, with a further provision for an allowance for expenses and services, were contained in R.S. §3085. Provisions requiring district attorneys to cause investigations to be made before a United States commissioner and to initiate and prosecute proper proceedings to recover fines and penalties were contained in act June 22, 1874, ch. 391, §15, 18 Stat. 189. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
 

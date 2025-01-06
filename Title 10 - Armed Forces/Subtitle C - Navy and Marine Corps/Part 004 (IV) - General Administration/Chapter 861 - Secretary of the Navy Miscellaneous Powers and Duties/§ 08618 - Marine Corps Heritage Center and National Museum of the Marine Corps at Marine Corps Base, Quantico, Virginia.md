@@ -28,7 +28,7 @@ Maintenance, Operation, and Support.—(1) The Secretary may, for the purpose of
 
 (3) The Secretary may authorize the Foundation to use real or personal property within the Marine Corps Heritage Center and National Museum of the Marine Corps to conduct additional revenue-generating activities, as the Secretary considers appropriate considering the work of the Foundation and needs of the Marine Corps Heritage Center and National Museum of the Marine Corps. The Secretary shall only authorize the use of such property for a revenue-generating activity if the Secretary determines the activity will not interfere with military activities and personnel or the activities of the Marine Corps Heritage Center and National Museum of the Marine Corps.
 
-(4) The Secretary shall retain lease payments received under this section, other than in-kind consideration authorized under paragraph (2) or under section 2667(c) of this title, solely for use in support of the Marine Corps Heritage Centerand the National Museum of the Marine Corps, and funds received as lease payments shall remain available until expended.
+(4) The Secretary shall retain lease payments received under this section, other than in-kind consideration authorized under paragraph (2) or under section 2667(c) of this title, solely for use in support of the Marine Corps Heritage Center and the National Museum of the Marine Corps, and funds received as lease payments shall remain available until expended.
 
 (e)
 

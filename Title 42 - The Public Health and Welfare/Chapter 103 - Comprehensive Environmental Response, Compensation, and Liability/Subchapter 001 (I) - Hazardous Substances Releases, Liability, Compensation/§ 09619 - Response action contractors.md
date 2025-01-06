@@ -4,7 +4,7 @@
 
 #### (1) Response action contractors
 
-&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries,costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
+&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries, costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
 
 #### (2) Negligence, etc.
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) person who enters into a response action contract with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a facility and is carrying out such contract; and <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstrationpursuant to section 9660(b) of this title; and
+&emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstration pursuant to section 9660(b) of this title; and
 
 &emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
 
@@ -176,7 +176,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 In subsec. (c)(3), "section 6301(a) and (b) of title 41" substituted for "section 3732 of the Revised Statutes (41 U.S.C. 11)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (g)(1), "sections 3131 and 3133 of title 40" substituted for "the Act of August 24, 1935 (40 U.S.C.270a–270d), commonly referred to as the 'Miller Act' " and for "such Act of August 24, 1935" and "section 3134 of title 40" substituted for "the Act of April 29, 1941 (40 U.S.C. 270e–270f)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), "sections 3131 and 3133 of title 40" substituted for "the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the 'Miller Act' " and for "such Act of August 24, 1935" and "section 3134 of title 40" substituted for "the Act of April 29, 1941 (40 U.S.C. 270e–270f)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

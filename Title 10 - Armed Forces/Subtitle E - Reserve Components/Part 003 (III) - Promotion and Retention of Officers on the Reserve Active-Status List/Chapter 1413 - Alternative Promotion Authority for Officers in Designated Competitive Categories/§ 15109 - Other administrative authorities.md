@@ -1,8 +1,6 @@
 ### §15109. Other administrative authorities
 
-(a) <sup>1</sup>
-
-In General.—The following provisions of this title shall apply to officers in competitive categories of officers designated for purposes of this chapter:
+The following provisions of this title shall apply to officers in competitive categories of officers designated for purposes of this chapter:
 
 &emsp;(1) Section 14518, relating to continuation of officers to complete disciplinary action.
 
@@ -12,7 +10,13 @@ In General.—The following provisions of this title shall apply to officers in 
 
 &emsp;(4) Section 14705, relating to the selective early retirement of reserve general and flag officers of the Navy and Marine Corps.
 
-(Added Pub. L. 118–31, div. A, title V, §514(a), Dec. 22, 2023, 137 Stat. 248.)
+(Added Pub. L. 118–31, div. A, title V, §514(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title XVII, §1701(a)(46), Dec. 23, 2024, 138 Stat. 2206.)
 
-<i><sup>1</sup></i><i> So in original. There is no subsec. (b).</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–159, which directed striking out "(a) In general.—", was executed by striking out "(a)
+
+In General.—" before "The following provisions" in introductory provisions, to reflect the probable intent of Congress.
 

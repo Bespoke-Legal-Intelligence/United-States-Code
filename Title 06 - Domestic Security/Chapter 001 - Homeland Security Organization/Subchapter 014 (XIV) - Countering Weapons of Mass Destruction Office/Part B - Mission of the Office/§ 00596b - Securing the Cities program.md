@@ -18,7 +18,7 @@ Through the STC program the Secretary shall—
 
 &emsp;(5) communicate with, and promote sharing of information about the presence or detection of nuclear or other radiological materials among appropriate Federal, State, local, Tribal, and territorial government agencies, in a manner that ensures transparency with the jurisdictions designated under subsection (c);
 
-&emsp;(6) provide augmenting resources, as appropriate, to enable State, local, Tribal, and territorial governments to sustain and refreshtheir capabilities developed under the STC program;
+&emsp;(6) provide augmenting resources, as appropriate, to enable State, local, Tribal, and territorial governments to sustain and refresh their capabilities developed under the STC program;
 
 &emsp;(7) monitor expenditures under the STC program and track performance in meeting the goals of the STC program; and
 
@@ -64,7 +64,7 @@ Through the STC program the Secretary shall—
 
 #### (3) Comptroller general review
 
-&emsp;Not later than 18 months after the submission of the report required by paragraph (2), the Comptroller General of the United States shall submit to the appropriate congressional committees a report evaluating the implementation plan required by paragraph (1) and the report required by paragraph (2), including an assessment of progress made with respect to the performance metrics and milestones required by paragraph (1)(A)(ii) and the sustainment of the capabilities of the STC program.
+&emsp;Not later than 18 months after the submission of the report required by paragraph (2),the Comptroller General of the United States shall submit to the appropriate congressional committees a report evaluating the implementation plan required by paragraph (1) and the report required by paragraph (2), including an assessment of progress made with respect to the performance metrics and milestones required by paragraph (1)(A)(ii) and the sustainment of the capabilities of the STC program.
 
 #### (4) Briefing and submission requirements
 

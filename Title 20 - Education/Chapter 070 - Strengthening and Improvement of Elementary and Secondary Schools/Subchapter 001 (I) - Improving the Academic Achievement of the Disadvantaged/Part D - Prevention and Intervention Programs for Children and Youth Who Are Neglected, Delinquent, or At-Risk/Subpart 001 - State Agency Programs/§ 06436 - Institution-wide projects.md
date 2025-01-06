@@ -6,7 +6,7 @@ A State agency that provides free public education for children and youth in an 
 
 &emsp;(2) provides for a comprehensive assessment of the educational needs of youth aged 20 and younger in adult facilities who are expected to complete incarceration within a 2-year period;
 
-&emsp;(3) describes the steps the State agency has taken, or will take, to provide all children and youth under age 21 with the opportunity to meet challenging State academic standards in order to improve the likelihood that the children and youth will attain a regular high school diploma or its recognized equivalent, or find employment after leaving the institution;
+&emsp;(3) describes the steps the State agency has taken, or will take, to provide all children andyouth under age 21 with the opportunity to meet challenging State academic standards in order to improve the likelihood that the children and youth will attain a regular high school diploma or its recognized equivalent, or find employment after leaving the institution;
 
 &emsp;(4) describes the instructional program, specialized instructional support services, and procedures that will be used to meet the needs described in paragraph (1), including, to the extent feasible, the provision of mentors for the children and youth described in paragraph (1), and how relevant and appropriate academic records and plans regarding the continuation of educational services for such children or youth are shared jointly between the State agency operating the institution or program and local educational agency in order to facilitate the transition of such children and youth between the local educational agency and the State agency;
 

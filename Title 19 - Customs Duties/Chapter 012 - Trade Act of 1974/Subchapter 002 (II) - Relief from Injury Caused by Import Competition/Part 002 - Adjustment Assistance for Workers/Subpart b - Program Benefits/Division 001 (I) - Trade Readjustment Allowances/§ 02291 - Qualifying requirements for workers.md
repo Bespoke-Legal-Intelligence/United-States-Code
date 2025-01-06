@@ -130,7 +130,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
 
-(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, 123 Stat. 371, 375, 376, 395; Pub. L. 112–40, title II, §§201(b), (c), 212(a), Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13,1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, 123 Stat. 371, 375, 376, 395; Pub. L. 112–40, title II, §§201(b), (c), 212(a), Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Termination of Assistance
 
@@ -228,7 +228,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 &emsp;"(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title."
 
-Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating towithholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
+Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
@@ -262,7 +262,7 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days afterAug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -300,7 +300,7 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 "(2)(A) The amendments made by section 2501 \[amending section 2272 of this title\] shall apply with respect to all petitions for certification filed under section 221 of the Trade Act of 1974 \[section 2271 of this title\] on or after October 1, 1983.
 
-"(B) The amendments made by sections 2503, 2504, 2505, and 2511 \[amending this section, sections 2292, 2293, and 2319 of this title, and provisions set out as a note under section 3304 of Title 26, Internal Revenue Code\]shall apply with respect to trade readjustment allowances payable for weeks of unemployment which begin after September 30, 1981.
+"(B) The amendments made by sections 2503, 2504, 2505, and 2511 \[amending this section, sections 2292, 2293, and 2319 of this title, and provisions set out as a note under section 3304 of Title 26, Internal Revenue Code\] shall apply with respect to trade readjustment allowances payable for weeks of unemployment which begin after September 30, 1981.
 
 "(C) The amendments made by sections 2506, 2507, and 2508 \[amending sections 2296, 2297, and 2298 of this title\] shall take effect with respect to determinations regarding training and applications for allowances under sections 236, 237, and 238 of the Trade Act of 1974 \[sections 2296, 2297, and 2298 of this title\] that are made or filed after September 30, 1981.
 

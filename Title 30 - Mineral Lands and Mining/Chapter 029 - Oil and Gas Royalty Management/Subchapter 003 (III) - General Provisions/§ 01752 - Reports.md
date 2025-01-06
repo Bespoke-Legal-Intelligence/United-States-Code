@@ -8,7 +8,7 @@ The Secretary shall submit to the Congress an annual report on the implementatio
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "Commencing with fiscal year 1984, the Inspector General of the Department of the Interior shall conduct abiennial audit of the Federal royalty management system. The Inspector General shall submit the results of such audit to the Secretary and to the Congress."
+<b>1998</b>—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "Commencing with fiscal year 1984, the Inspector General of the Department of the Interior shall conduct a biennial audit of the Federal royalty management system. The Inspector General shall submit the results of such audit to the Secretary and to the Congress."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committees on".
 
@@ -16,7 +16,7 @@ The Secretary shall submit to the Congress an annual report on the implementatio
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 111), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 111), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Study of the Adequacy of Royalty Management for Minerals on Federal and Indian Lands
 

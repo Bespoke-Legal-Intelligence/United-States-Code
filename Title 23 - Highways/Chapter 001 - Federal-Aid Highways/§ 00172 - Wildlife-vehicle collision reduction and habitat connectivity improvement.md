@@ -88,7 +88,7 @@ Contents.—The report under subparagraph (A) shall include—
 
 &emsp;&emsp;&emsp;(iii) recommendations for preventing wildlife-vehicle collisions, including recommended best practices, funding resources, or other recommendations for addressing wildlife-vehicle collisions; and
 
-&emsp;&emsp;&emsp;(iv) guidance, developed in consultation with Federal land management agencies and State departments of transportation, State fish and wildlife agencies, and Tribal governments that agree to participate, for developing, for each State that agrees to participate, a voluntary joint statewide transportation and wildlife action plan—
+&emsp;&emsp;&emsp;(iv) guidance, developed in consultation with Federal land management agencies and State departments of transportation, State fish and wildlife agencies, and Tribal governments that agree to participate, for developing, for each State that agrees toparticipate, a voluntary joint statewide transportation and wildlife action plan—
 
 &emsp;&emsp;&emsp;&emsp;(I) to address wildlife-vehicle collisions; and
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible participant
 
-&emsp;The term "eligible participant" means a producer, landowner, or entity that is participating in, or seeking to participate in, programs in which the producer, landowner, or entity is otherwise eligible to participate under this chapter or the agricultural management assistance program under section 1524(b) of title 7.
+&emsp;The term "eligible participant" means a producer, landowner, or entity that is participating in, or seeking to participate in, programs in which the producer, landowner, or entity is otherwise eligible to participateunder this chapter or the agricultural management assistance program under section 1524(b) of title 7.
 
 #### (2) Third-party provider
 
@@ -98,7 +98,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 #### (B) Exclusions
 
-&emsp;&emsp;The Secretary shall not designate as an activity eligible for payments to a third-party provider any service that is provided by a business, or equivalent, in connection with conducting business and that is customarily provided at no cost.
+&emsp;&emsp;The Secretary shall not designate as an activity eligible for payments to a third-party provider any service that is provided by a business, or equivalent, in connection withconducting business and that is customarily provided at no cost.
 
 #### (5) Payment amounts
 
@@ -182,7 +182,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 &emsp;&emsp;&emsp;(ii) program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
 
-(Pub. L. 99–198, title XII, §1242, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, §2706, May 22, 2008, 122 Stat. 1074; Pub. L. 110–246, §4(a), title II, §2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, §2713(c), Feb. 7, 2014, 128 Stat. 772; Pub. L. 115–334, title II, §§2502, 2821(e), Dec. 20, 2018, 132 Stat. 4579, 4603.)
+(Pub. L. 99–198, title XII, §1242, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, §2706, May 22, 2008, 122 Stat. 1074; Pub. L. 110–246, §4(a), title II,§2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, §2713(c), Feb. 7, 2014, 128 Stat. 772; Pub. L. 115–334, title II, §§2502, 2821(e), Dec. 20, 2018, 132 Stat. 4579, 4603.)
 
 #### <b>Editorial Notes</b>
 

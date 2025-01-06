@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury should direct the United States Executive Director at theInternational Monetary Fund, the International Development Association, the Inter-American Development Bank, the International Fund for Agricultural Development, and other multilateral development institutions (as defined in section 262r(c)(3) of this title) to use the voice, vote and influence of the United States at each such institution to seek to achieve—
+The Secretary of the Treasury should direct the United States Executive Director at the International Monetary Fund, the International Development Association, the Inter-American Development Bank, the International Fund for Agricultural Development, and other multilateral development institutions (as defined in section 262r(c)(3) of this title) to use the voice, vote and influence of the United States at each such institution to seek to achieve—
 
 &emsp;(1) the immediate and complete cancellation of any and all remaining debts owed by Haiti to such institutions;
 

@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Appropriate congressional committees
 
-&emsp;The term "appropriate congressional committees" has the meaning given that term in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
+&emsp;The term "appropriate congressional committees" has the meaning given that term insection 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
 
 #### (3) Foreign person
 

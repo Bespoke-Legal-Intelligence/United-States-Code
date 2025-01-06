@@ -56,7 +56,7 @@ In carrying out subsection (b), the Open Technology Fund shall—
 
 Any grant agreement with or grants made to the Open Technology Fund under this section shall be subject to the following limitations and restrictions:
 
-&emsp;(1) The headquarters of the Open Technology Fund and its senior administrative and managerial staff shall be located in a location which ensures economy, operational effectiveness, and accountability to the United States Agency for Global Media.
+&emsp;(1) The headquarters of the Open Technology Fund and its senior administrative and managerial staff shall be located in a locationwhich ensures economy, operational effectiveness, and accountability to the United States Agency for Global Media.
 
 &emsp;(2) Grants awarded under this section shall be made pursuant to a grant agreement which requires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
 
@@ -64,7 +64,7 @@ Any grant agreement with or grants made to the Open Technology Fund under this s
 
 &emsp;(4) Any grant agreement under this section shall require that any lease agreements entered into by the Open Technology Fund shall be, to the maximum extent possible, assignable to the United States Government.
 
-&emsp;(5) Administrative and managerial costs for operation of the Open Technology Fund shouldbe kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if the Open Technology Fund had been operated as a Federal entity rather than as a grantee.
+&emsp;(5) Administrative and managerial costs for operation of the Open Technology Fund should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if the Open Technology Fund had been operated as a Federal entity rather than as a grantee.
 
 &emsp;(6) Grant funds may not be used for any activity the purpose of which is influencing the passage or defeat of legislation considered by Congress.
 
@@ -122,7 +122,7 @@ The United States Agency for Global Media shall ensure that internet freedom res
 
 #### (3) Exercise of authorities
 
-&emsp;Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to the Open Technology Fund.
+&emsp;Notwithstanding any other provision of law, the Inspector General of the Department ofState and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to the Open Technology Fund.
 
 (Pub. L. 103–236, title III, §309A, as added Pub. L. 116–283, div. A, title XII, §1299P(b), Jan. 1, 2021, 134 Stat. 4016.)
 
@@ -132,7 +132,7 @@ The United States Agency for Global Media shall ensure that internet freedom res
 
 Section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020, referred to in subsec. (b)(5), is section 7050(b)(2)(C) of Pub. L. 116–94, div. G, title VII, Dec. 20, 2019, 133 Stat. 2915, which is not classified to the Code.
 
-This chapter, referred to in subsecs. (b)(6) and (e)(2), was in the original "this Act", and was translated, toreflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (b)(6) and (e)(2), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Intergovernmental Personnel Act, referred to in subsec. (e)(4), probably means the Intergovernmental Personnel Act of 1970, Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 

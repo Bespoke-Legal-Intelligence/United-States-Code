@@ -52,7 +52,7 @@ Information security requirements.—The term "information security requirements
 
 &emsp;(13)
 
-Information system.—The term "information system" means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information, whether automated or manual.
+Information system.—The term "information system" means a discrete set of information resources organized for the collection,processing, maintenance, use, sharing, dissemination, or disposition of information, whether automated or manual.
 
 &emsp;(14)
 

@@ -14,7 +14,7 @@
 
 #### (2) State and other employees
 
-&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to inspect, except as authorized in this title, any return or return information acquired by such person or another person under a provision of section 6103 referred to in section 7213(a)(2) or under section 6104(c).
+&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to inspect,except as authorized in this title, any return or return information acquired by such person or another person under a provision of section 6103 referred to in section 7213(a)(2) or under section 6104(c).
 
 #### (b) Penalty
 

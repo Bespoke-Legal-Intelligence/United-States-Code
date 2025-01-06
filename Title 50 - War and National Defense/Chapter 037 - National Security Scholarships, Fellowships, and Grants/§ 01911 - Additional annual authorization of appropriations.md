@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 116–260, §619(b)(2), substituted "for each of fiscal yea
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, which directed amendment of section 811(a) of the Fair Chance Act (50 U.S.C. 1911(a)) by substituting "fiscal year 2020" for "fiscal year 2003" and "$16,000,000" for "$10,000,000", was executed to subsec. (a) of this section, which is section 811 of the David L. Boren National Security Education Act of 1991, to reflect the probable intent of Congress.
 
-<b>2004</b>—Subsecs. (b), (c). Pub. L. 108–487 added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: "Amounts appropriated pursuant to the authorization of appropriations under subsection (a) shall remain available until expended."
+<b>2004</b>—Subsecs. (b), (c). Pub. L. 108–487 added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: "Amounts appropriated pursuant to the authorization of appropriationsunder subsection (a) shall remain available until expended."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

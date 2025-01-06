@@ -26,7 +26,7 @@ The Secretary of State is authorized to provide training and education to releva
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424.Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "seq.)."</i>
 

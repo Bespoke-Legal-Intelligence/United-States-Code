@@ -18,7 +18,7 @@
 
 #### (2) Failure to obey
 
-&emsp;In the case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Bureau or a Bureau investigator and after notice to such person, may issue an order requiring such person to appear and give testimony or to appear and produce documents or other material.
+&emsp;In the case of contumacy or refusal to obey a subpoena issued pursuant to this paragraphand served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Bureau or a Bureau investigator and after notice to such person, may issue an order requiring such person to appear and give testimony or to appear and produce documents or other material.
 
 #### (3) Contempt
 

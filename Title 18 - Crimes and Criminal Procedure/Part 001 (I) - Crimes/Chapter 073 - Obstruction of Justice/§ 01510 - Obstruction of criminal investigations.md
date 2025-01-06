@@ -30,7 +30,7 @@
 
 &emsp;(B) is engaged in the business of insurance whose activities affect interstate commerce or is involved (other than as an insured or beneficiary under a policy of insurance) in a transaction relating to the conduct of affairs of such a business,
 
-> with intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that person engaged in such business or information that has been furnished to aFederal grand jury in response to that subpoena, shall be fined as provided by this title or imprisoned not more than 5 years, or both.
+> with intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that person engaged in such business or information that has been furnished to a Federal grand jury in response to that subpoena, shall be fined as provided by this title or imprisoned not more than 5 years, or both.
 
 (2) As used in paragraph (1), the term "subpoena for records" means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
 

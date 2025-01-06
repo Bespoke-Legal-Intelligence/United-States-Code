@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided by paragraph (2), any course approved for the purposes of this chapter which fails to meet any of the requirements of this chapter (including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey) shall be immediately disapproved by the Secretary or the appropriate State approving agency. An educational institution which has its courses disapproved by the Secretary or a State approving agency will be notified of such disapproval by a certified or registered letter of notification and a return receipt secured.
 
-(2) In the case of a course of education that would be subject to disapproval under paragraph (1) solely for the reason that the Secretary of Education withdraws the recognition of the accrediting agency that accredited the course, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, and notwithstanding the withdrawal, may continue to treatthe course as an approved course of education under this chapter for a period not to exceed 18 months from the date of the withdrawal of recognition of the accrediting agency, unless the Secretary of Veterans Affairs or the appropriate State approving agency determines that there is evidence to support the disapproval of the course under this chapter. The Secretary shall provide to any veteran enrolled in such a course of education notice of the status of the course of education.
+(2) In the case of a course of education that would be subject to disapproval under paragraph (1) solely for the reason that the Secretary of Education withdraws the recognition of the accrediting agency that accredited the course, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, and notwithstanding the withdrawal, may continue to treat the course as an approved course of education under this chapter for a period not to exceed 18 months from the date of the withdrawal of recognition of the accrediting agency, unless the Secretary of Veterans Affairs or the appropriate State approving agency determines that there is evidence to support the disapproval of the course under this chapter. The Secretary shall provide to any veteran enrolled in such a course of education notice of the status of the course of education.
 
 (3) In this section, the term "risk-based survey" means a risk-based survey developed under section 3673A(a) of this title.
 
@@ -42,7 +42,7 @@
 
 (6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, 33, and 35 of this title.
 
-(d) Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (14) or (15) of section 3676(c) of this title unless the educational institution providing the course of education—
+(d) Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (15) or (16) of section 3676(c) of this title unless the educational institution providing the course of education—
 
 &emsp;(1) publicly discloses any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and
 
@@ -114,11 +114,13 @@
 
 &emsp;(G) Maintain a policy that—
 
-&emsp;&emsp;(i) ensures that members of the Armed Forces, including the reserve components and the National Guard, who enroll in acourse of education at the educational institution may be readmitted at such institution if such members are temporarily unavailable or have to suspend such enrollment by reason of serving in the Armed Forces; and
+&emsp;&emsp;(i) ensures that members of the Armed Forces, including the reserve components and the National Guard, who enroll in a course of education at the educational institution may be readmitted at such institution if such members are temporarily unavailable or have to suspend such enrollment by reason of serving in the Armed Forces; and
 
 &emsp;&emsp;(ii) otherwise accommodates such members during short absences by reason of such service.
 
 &emsp;(H) Designate an employee of the educational institution to serve as a point of contact for covered individuals and the family of such individuals needing assistance with respect to academic counseling, financial counseling, disability counseling, and other information regarding completing a course of education at such institution, including by referring such individuals and family to the appropriate persons for such counseling and information.
+
+&emsp;(I) Comply with the notification requirements under sections 3675(b)(5) and 3676(c)(14) of this title, when applicable.
 
 (2) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency, the Secretary, or any Federal agency, determines that an educational institution, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services, does any of the following:
 
@@ -188,7 +190,7 @@
 
 (8) In this subsection, the term "covered individual" means an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, §301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, §103(a), Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–283, div. A, title IX, §926(a)(46), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, §§1005(a), 1017(a), 1018(a), Jan. 5, 2021, 134 Stat. 4939, 4946; Pub. L. 117–16, §§6, 7(a)(4), June 8, 2021, 135 Stat. 284, 285; Pub. L. 117–68, §2(a), (b), Nov. 30, 2021, 135 Stat. 1493; Pub. L. 117–76, §3(b)(1), Dec. 21, 2021, 135 Stat. 1518.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, §301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, §103(a), Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–283, div. A, title IX, §926(a)(46), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, §§1005(a), 1017(a), 1018(a), Jan. 5, 2021, 134 Stat. 4939, 4946; Pub. L. 117–16, §§6, 7(a)(4), June 8, 2021, 135 Stat. 284, 285; Pub. L. 117–68, §2(a), (b), Nov. 30, 2021, 135 Stat. 1493; Pub. L. 117–76, §3(b)(1), Dec. 21, 2021, 135 Stat. 1518; Pub. L. 118–210, title II, §206(b)(2)(C), (c), Jan. 2, 2025, 138 Stat. 2764.)
 
 #### <b>Editorial Notes</b>
 
@@ -197,6 +199,10 @@
 Section 3696(e)(2)(B) of this title, referred to in subsec. (f)(2)(A)(i), probably should be a reference to section 3696(b)(2)(B) of this title, because section 3696(b)(2)(B), as amended generally by Pub. L. 116–315, §1020(a)(1), defines the term "misrepresentation", and section 3696(e) does not contain a par. (2)(B).
 
 #### Amendments
+
+<b>2025</b>—Subsec. (d). Pub. L. 118–210, §206(b)(2)(C), substituted "described in paragraph (15) or (16)" for "described in paragraph (14) or (15)".
+
+Subsec. (f)(1)(I). Pub. L. 118–210, §206(c), added subpar. (I).
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–315, §1017(a)(1), inserted "(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)" after "requirements of this chapter".
 
@@ -280,7 +286,7 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 
 Pub. L. 117–76, §3(b)(2), Dec. 21, 2021, 135 Stat. 1518, provided that: "The Secretary of Veterans Affairs may not carry out subsection (f) of section 3679 of title 38, United States Code, until August 1, 2022, except that, beginning on June 15, 2022, an educational institution may submit an application for a waiver under paragraph (5) of such subsection."
 
-Pub. L. 117–68, §2(c), Nov. 30, 2021, 135 Stat. 1494, provided that: "The amendments made by this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 30, 2021\] and shall apply with respect to an academic period that begins on or after August 1, 2022."
+Pub. L. 117–68, §2(c), Nov. 30, 2021, 135 Stat. 1494, provided that: "The amendments made by this Act \[amending this section\] shall take effect on the date ofthe enactment of this Act \[Nov. 30, 2021\] and shall apply with respect to an academic period that begins on or after August 1, 2022."
 
 Pub. L. 116–315, title I, §1005(b), Jan. 5, 2021, 134 Stat. 4940, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021."
 

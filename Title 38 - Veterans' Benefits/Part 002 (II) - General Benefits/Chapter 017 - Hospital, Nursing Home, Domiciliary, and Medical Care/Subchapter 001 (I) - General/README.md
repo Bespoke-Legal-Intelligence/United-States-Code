@@ -14,6 +14,7 @@
 - [&sect; 01703D - Prompt payment standard](%C2%A7%2001703D%20-%20Prompt%20payment%20standard.md)
 - [&sect; 01703E - Center for Innovation for Care and Payment](%C2%A7%2001703E%20-%20Center%20for%20Innovation%20for%20Care%20and%20Payment.md)
 - [&sect; 01703F - Credentialing verification requirements for providers of non-Department health care services](%C2%A7%2001703F%20-%20Credentialing%20verification%20requirements%20for%20providers%20of%20non-Department%20health%20care%20services.md)
+- [&sect; 01703G - Quarterly report on referrals for non-Department health care](%C2%A7%2001703G%20-%20Quarterly%20report%20on%20referrals%20for%20non-Department%20health%20care.md)
 - [&sect; 01704 - Preventive health services annual report](%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md)
 - [&sect; 01704A - Independent assessments of health care delivery systems and management processes](%C2%A7%2001704A%20-%20Independent%20assessments%20of%20health%20care%20delivery%20systems%20and%20management%20processes.md)
 - [&sect; 01705 - Management of health care patient enrollment system](%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md)

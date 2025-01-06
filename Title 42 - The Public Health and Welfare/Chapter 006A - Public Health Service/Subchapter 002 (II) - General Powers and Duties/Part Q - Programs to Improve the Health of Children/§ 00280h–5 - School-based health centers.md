@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;(A) meets the definition of a school-based health center under section 1397jj(c)(9)(A) of this title and is administered by a sponsoring facility (as defined in section 1397jj(c)(9)(B) of this title);
 
-&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during schoolhours to children and adolescents by health professionals in accordance with established standards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
+&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during school hours to children and adolescents by health professionals in accordance with established standards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
 
 &emsp;&emsp;(C) does not perform abortion services.
 
@@ -58,7 +58,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 &emsp;&emsp;(C) an assurance that—
 
-&emsp;&emsp;&emsp;(i) SBHC services will be provided to those children and adolescents for whom parental or guardian consent has been obtained in cooperation with Federal, State, and local laws governing health care service provision to children and adolescents;
+&emsp;&emsp;&emsp;(i) SBHC services will be provided to those children and adolescents for whomparental or guardian consent has been obtained in cooperation with Federal, State, and local laws governing health care service provision to children and adolescents;
 
 &emsp;&emsp;&emsp;(ii) the SBHC has made and will continue to make every reasonable effort to establish and maintain collaborative relationships with other health care providers in the catchment area of the SBHC;
 

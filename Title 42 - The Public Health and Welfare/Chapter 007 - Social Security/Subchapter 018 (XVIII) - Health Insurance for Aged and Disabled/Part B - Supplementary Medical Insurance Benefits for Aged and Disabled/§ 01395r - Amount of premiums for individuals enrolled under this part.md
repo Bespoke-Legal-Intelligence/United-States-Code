@@ -34,7 +34,7 @@
 
 &emsp;(ii) 25 percent of the difference between such rate for 2020 and the preliminary monthly actuarial rate for enrollees age 65 and over for 2021 (as estimated under subparagraph (B)).
 
-(B) For purposes of subparagraph (A)(ii), the Secretary shall estimate a preliminary monthly actuarial rate for enrollees age 65 and over for 2021 using the methodology described in paragraph (1) and as if subparagraph (A) of this paragraph did not apply. The Secretary shall make the estimate under the previous sentence as if the transfers described in section 1395w(f)(1) of this title have been made.
+(B) For purposes of subparagraph (A)(ii), the Secretary shall estimate a preliminary monthly actuarial rate for enrollees age 65 and over for2021 using the methodology described in paragraph (1) and as if subparagraph (A) of this paragraph did not apply. The Secretary shall make the estimate under the previous sentence as if the transfers described in section 1395w(f)(1) of this title have been made.
 
 #### (b) Increase in monthly premium
 
@@ -122,7 +122,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 &emsp;&emsp;&emsp;&emsp;(I) 200 percent of the monthly actuarial rate for enrollees age 65 and over (as determined under subsection (a)(1) for the year); plus
 
-&emsp;&emsp;&emsp;&emsp;(II) 4 times the amount of the increase in the monthly premium under subsection (a)(6) for a month in the year (or, with respect to an individual enrolled under section 1395o(b) of this title and not otherwise enrolled under this part, 0 times the amount of such increase).
+&emsp;&emsp;&emsp;&emsp;(II) 4 times the amount of the increase in the monthly premium under subsection (a)(6) for a month in the year (or,with respect to an individual enrolled under section 1395o(b) of this title and not otherwise enrolled under this part, 0 times the amount of such increase).
 
 #### (B) 3-year phase in
 
@@ -154,7 +154,7 @@ In estimating the benefits and administrative costs which will be payable from t
 | <b>  If the modified adjusted gross   income is:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
 | More than $85,000 but not more than $107,000 | 35 percent&nbsp;&nbsp; |
-| More than $107,000 but not more than $133,500 | 50 percent   |
+| More than $107,000 but not more than $133,500 | 50 percent&nbsp;&nbsp; |
 | More than $133,500 but not more than $160,000 | 65 percent&nbsp;&nbsp; |
 | More than $160,000 | 80 percent. |
 
@@ -274,9 +274,9 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (j) Determination of premium for individuals only eligible for coverage of immunosuppressive drugs
 
-The Secretary shall, during September of each year (beginning with 2022), determine and promulgate a monthly premium rate for the succeeding calendar year for individuals enrolled only for the purpose of coverage of immunosuppressive drugs under section 1395o(b) of this title. Such premium shall be equal to 15 percent of the monthly actuarial rate for enrollees age 65 and over (as would be determined in accordance with subsection (a)(1) if the reference to "one-half" in such subsection were a reference to "100 percent") for that succeeding calendar year. The monthly premium of each individual enrolled for coverage of immunosuppressive drugs under section 1395o(b) of this title for each month shall be the amount promulgated in this subsection. In the case of such individual not otherwise enrolled under this part, such premium shall be in lieu of any other monthly premium applicable under this section. Such amount shall be adjusted in accordance with subsections (c), (f), and (i), but shall not be adjusted under subsection (b).
+The Secretary shall, during September of each year (beginning with 2022), determine and promulgate a monthly premium rate for the succeeding calendar year for individuals enrolled only for the purpose of coverage of immunosuppressive drugs under section 1395o(b) of this title. Such premium shall be equal to 15 percent of the monthly actuarial rate for enrollees age 65 and over (as would be determined in accordance with subsection (a)(1) if the reference to "one-half" in such subsection were a reference to "100 percent") for that succeeding calendar year. The monthly premium of each individualenrolled for coverage of immunosuppressive drugs under section 1395o(b) of this title for each month shall be the amount promulgated in this subsection. In the case of such individual not otherwise enrolled under this part, such premium shall be in lieu of any other monthly premium applicable under this section. Such amount shall be adjusted in accordance with subsections (c), (f), and (i), but shall not be adjusted under subsection (b).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1839, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(d), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, 86 Stat. 1373, 1376, 1377; Pub. L. 94–182, title I, §104(a), Dec. 31, 1975, 89 Stat. 1052; Pub. L. 95–216, title II, §205(e), Dec. 20, 1977, 91 Stat. 1529; Pub. L. 96–499, title IX, §945(c)(2), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(4), Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §124(a), (b), Sept. 3, 1982, 96 Stat. 364; Pub. L. 97–448, title III, §309(b)(8), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §606(a)(1)–(3)(C), Apr. 20, 1983, 97 Stat. 169, 170; Pub. L. 98–369, div. B, title III, §§2302(a), (b), 2338(a), July 18, 1984, 98 Stat. 1063, 1091; Pub. L. 98–617, §3(b)(4), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9219(a)(1), 9313, Apr. 7, 1986, 100 Stat. 182, 194; Pub. L. 99–509, title IX, §§9001(c), 9319(c)(4), Oct. 21, 1986, 100 Stat. 1970, 2012; Pub. L. 100–203, title IV, §4080, Dec. 22,1987, 101 Stat. 1330–126; Pub. L. 100–360, title II, §211(a)–(c)(1), July 1, 1988, 102 Stat. 733, 738; Pub. L. 100–485, title VI, §608(d)(9), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, 103 Stat. 2233, 2234, 2258; Pub. L. 101–508, title IV, §4301, Nov. 5, 1990, 104 Stat. 1388–125; Pub. L. 103–66, title XIII, §13571, Aug. 10, 1993, 107 Stat. 609; Pub. L. 103–432, title I, §§144, 151(c)(3), Oct. 31, 1994, 108 Stat. 4427, 4435; Pub. L. 105–33, title IV, §§4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, 111 Stat. 464, 465, 486; Pub. L. 105–277, div. J, title V, §5101(e), Oct. 21, 1998, 112 Stat. 2681–915; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title I, §105(a), title II, §§222(l)(2)(A), 241(b)(2)(A), title VI, §625(a)(1), title VII, §736(b)(7), title VIII, §811(a), (b)(1), Dec. 8, 2003, 117 Stat. 2166, 2206, 2220, 2317, 2356, 2364, 2367; Pub. L. 109–171, title V, §§5111, 5115(a)(1), Feb. 8, 2006, 120 Stat. 43, 45; Pub. L. 111–5, div. B, title IV, §4103(a)(1), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–148, title III, §§3110(b), 3402, Mar. 23, 2010, 124 Stat. 420, 488; Pub. L. 114–10, title IV, §402, Apr. 16, 2015, 129 Stat. 160; Pub. L. 114–74, title VI, §601(a), (c), Nov. 2, 2015, 129 Stat. 594, 595; Pub. L. 115–123, div. E, title XII, §53114, Feb. 9, 2018, 132 Stat. 305; Pub. L. 116–159, div. C, title IV, §2401(a), (d), Oct. 1, 2020, 134 Stat. 732, 733; Pub. L. 116–260, div. CC, title I, §120(a)(2)(C)(ii), (3), title IV, §402(a)(2)(B)(i), (d), Dec. 27, 2020, 134 Stat. 2954, 2999, 3000; Pub. L. 117–108, title I, §101(b)(3), Apr. 6, 2022, 136 Stat. 1136.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1839, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(d), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, 86 Stat. 1373, 1376, 1377; Pub. L. 94–182, title I, §104(a), Dec. 31, 1975, 89 Stat. 1052; Pub. L. 95–216, title II, §205(e), Dec. 20, 1977, 91 Stat. 1529; Pub. L. 96–499, title IX, §945(c)(2), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(4), Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §124(a), (b), Sept. 3, 1982, 96 Stat. 364; Pub. L. 97–448, title III, §309(b)(8), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §606(a)(1)–(3)(C), Apr. 20, 1983, 97 Stat. 169, 170; Pub. L. 98–369, div. B, title III, §§2302(a), (b), 2338(a), July 18, 1984, 98 Stat. 1063, 1091; Pub. L. 98–617, §3(b)(4), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9219(a)(1), 9313, Apr. 7, 1986, 100 Stat. 182, 194; Pub. L. 99–509, title IX, §§9001(c), 9319(c)(4), Oct. 21, 1986, 100 Stat. 1970, 2012; Pub. L. 100–203, title IV, §4080, Dec. 22, 1987, 101 Stat. 1330–126; Pub. L. 100–360, title II, §211(a)–(c)(1), July 1, 1988, 102 Stat. 733, 738; Pub. L. 100–485, title VI, §608(d)(9), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, 103 Stat. 2233, 2234, 2258; Pub. L. 101–508, title IV, §4301, Nov. 5, 1990, 104 Stat. 1388–125; Pub. L. 103–66, title XIII, §13571, Aug. 10, 1993, 107 Stat. 609; Pub. L. 103–432, title I, §§144, 151(c)(3), Oct. 31, 1994, 108 Stat. 4427, 4435; Pub. L. 105–33, title IV, §§4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, 111 Stat. 464, 465, 486; Pub. L. 105–277, div. J, title V, §5101(e), Oct. 21, 1998, 112 Stat. 2681–915; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title I, §105(a), title II, §§222(l)(2)(A), 241(b)(2)(A), title VI, §625(a)(1), title VII, §736(b)(7), title VIII, §811(a), (b)(1), Dec. 8, 2003, 117 Stat. 2166, 2206, 2220, 2317, 2356, 2364, 2367; Pub. L. 109–171, title V, §§5111, 5115(a)(1), Feb. 8, 2006, 120 Stat. 43, 45; Pub. L. 111–5, div. B, title IV, §4103(a)(1), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–148, title III, §§3110(b), 3402, Mar. 23, 2010, 124 Stat. 420, 488; Pub. L. 114–10, title IV, §402, Apr. 16, 2015, 129 Stat. 160; Pub. L. 114–74, title VI, §601(a), (c), Nov. 2, 2015, 129 Stat. 594, 595; Pub. L. 115–123, div. E, title XII, §53114, Feb. 9, 2018, 132 Stat. 305; Pub. L. 116–159, div. C, title IV, §2401(a), (d), Oct. 1, 2020, 134 Stat. 732, 733; Pub. L. 116–260, div. CC, title I, §120(a)(2)(C)(ii), (3), title IV, §402(a)(2)(B)(i), (d), Dec. 27, 2020, 134 Stat. 2954, 2999, 3000; Pub. L. 117–108, title I, §101(b)(3), Apr. 6, 2022, 136 Stat. 1136.)
 
 #### <b>Editorial Notes</b>
 
@@ -320,7 +320,7 @@ Subsec. (j). Pub. L. 116–260, §402(d)(1)(B), added subsec. (j).
 
 Subsec. (i)(3)(C)(i)(III). Pub. L. 115–123, §53114(a)(2), added subcl. (III).
 
-Subsec. (i)(3)(C)(ii). Pub. L. 115–123, §53114(b), inserted before period at end "except, with respect to the dollar amounts applied in the last row of the table under subclause (III) of such clause (and the second dollar amount specified in the second to last row of such table), clause (i) shall be applied by substituting dollar amounts which are 150 percent of such dollar amounts for the calendar year".
+Subsec. (i)(3)(C)(ii). Pub. L. 115–123, §53114(b), inserted before period at end "except, with respect to the dollaramounts applied in the last row of the table under subclause (III) of such clause (and the second dollar amount specified in the second to last row of such table), clause (i) shall be applied by substituting dollar amounts which are 150 percent of such dollar amounts for the calendar year".
 
 Subsec. (i)(5)(A). Pub. L. 115–123, §53114(c)(1), substituted "Subject to subparagraph (C), in the case" for "In the case" in introductory provisions.
 
@@ -408,7 +408,7 @@ Subsec. (b). Pub. L. 105–33, §4631(a)(2), substituted "1395y(b)(1)(B)(iii) of
 
 Pub. L. 105–33, §4571(b)(1)(C), struck out "or (e)" after "determined under subsection (a)" in first sentence.
 
-Pub. L. 105–33, §4581(a), inserted "and not pursuant to a special enrollment period under section 1395p(i)(4) of this title" after "section 1395p of this title)" in first sentence.
+Pub. L. 105–33, §4581(a), inserted "and not pursuant to a special enrollment period under section 1395p(i)(4) ofthis title" after "section 1395p of this title)" in first sentence.
 
 Subsec. (e). Pub. L. 105–33, §4571(b)(1)(D), (E), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows:
 
@@ -496,7 +496,7 @@ Subsec. (f)(1). Pub. L. 99–272, §9313(2), substituted ", 1986, or 1987" for 
 
 Subsec. (f)(2). Pub. L. 99–272, §9313(3), substituted ", 1987, or 1988" for "or 1987".
 
-Subsec. (f)(2)(A). Pub. L. 99–509, §9001(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the monthly premium amount determined under subsection (a)(2) of this section for that January reduced by the amount (if any) necessary to make the monthly benefits under section 402 or 423 of this title for that December after the deduction of the monthly premium (disregarding subsection (b) of this section) for that January at least equal to the monthly benefits under section 402 or 423 of this title for the preceding November after the deduction of the premium (disregarding subsection (b) of this section) for that individual for that December, or".
+Subsec. (f)(2)(A). Pub. L. 99–509, §9001(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the monthly premium amount determined under subsection (a)(2) of this section for that January reduced by the amount (if any) necessary tomake the monthly benefits under section 402 or 423 of this title for that December after the deduction of the monthly premium (disregarding subsection (b) of this section) for that January at least equal to the monthly benefits under section 402 or 423 of this title for the preceding November after the deduction of the premium (disregarding subsection (b) of this section) for that individual for that December, or".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–369, §2338(a), inserted provision that there shall not be taken into account months in which the individual has met conditions specified in clauses (i) and (iii) of section 1395y(b)(3)(A) of this title and can demonstrate that the individual was enrolled in a group health plan described in clause (iv) of such section by reason of the individual's (or the individual's spouse's) current employment.
 
@@ -512,7 +512,7 @@ Subsec. (b). Pub. L. 98–21, §606(a)(3)(A), substituted "subsection (a) or (e)
 
 Pub. L. 98–21, §606(a)(1), (2), redesignated subsec. (d) as (b), and struck out former subsec. (b) which provided for determination by Secretary of monthly premium for each individual enrolled under this part for each month after 1967 and before July 1, 1973.
 
-Subsec. (c). Pub. L. 98–21, §606(a)(1), (2), redesignated subsec. (e) as (c), and struck out former subsec. (c)which directed Secretary to determine during December of each year after 1972 the monthly actuarial rate for enrollees age 65 and over applicable to succeeding fiscal year (beginning July 1), provided for his determination of monthly premium for such period, and directed him to determine monthly actuarial rate for disabled enrollees under age 65.
+Subsec. (c). Pub. L. 98–21, §606(a)(1), (2), redesignated subsec. (e) as (c), and struck out former subsec. (c) which directed Secretary to determine during December of each year after 1972 the monthly actuarial rate for enrollees age 65 and over applicable to succeeding fiscal year (beginning July 1), provided for his determination of monthly premium for such period, and directed him to determine monthly actuarial rate for disabled enrollees under age 65.
 
 Subsec. (d). Pub. L. 98–21, §606(a)(3)(B), which directed that "purposes of subsection (b)" be substituted for "purposes of subsection (c)" was executed by substituting "purposes of subsection (b)" for "purposes of subsection (d)", as the probable intent of Congress in view of previous substitution of "subsection (d)" for "subsection (c)" by Pub. L. 92–603, §203(d)(2).
 
@@ -584,7 +584,7 @@ Pub. L. 103–432, title I, §151(c)(3), Oct. 31, 1994, 108 Stat. 4435, provided
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6202(b)(4)(C) of Pub. L. 101–239 applicable to items and services furnished after Dec. 19,1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by section 6202(b)(4)(C) of Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by section 6202(c)(2) of Pub. L. 101–239 applicable to enrollments occurring after, and premiums for months after, second calendar quarter beginning after Dec. 19, 1989, see section 6202(c)(3) of Pub. L. 101–239, set out as a note under section 1395p of this title.
 
@@ -636,7 +636,7 @@ Amendment by Pub. L. 95–216 effective with respect to monthly benefits and lum
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–182, title I, §104(b), Dec. 31, 1975, 89 Stat. 1052, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to determinations made under section 1839(c)(3) of the Social Security Act \[42 U.S.C. 1395r(c)(3)\] after the date of the enactment of this Act \[Dec. 31, 1975\]."
+Pub. L. 94–182, title I, §104(b), Dec. 31, 1975, 89 Stat. 1052, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to determinations made under section 1839(c)(3) ofthe Social Security Act \[42 U.S.C. 1395r(c)(3)\] after the date of the enactment of this Act \[Dec. 31, 1975\]."
 
 #### Effective Date of 1968 Amendment
 
@@ -654,7 +654,7 @@ Pub. L. 114–74, title VI, §601(d), Nov. 2, 2015, 129 Stat. 596, provided that
 
 &emsp;"(2) the reference to 'a month during a year, beginning with 2016' in paragraph (6)(B) of section 1839 of such Act (42 U.S.C. 1395r(a)), as added by subsection (a)(2), was a reference to 'a month in a year, beginning with 2016 and beginning with 2017, respectively'; and
 
-&emsp;"(3) the reference to '2016' in subsection (d)(1) of section 1844 of such Act (42 U.S.C. 1395w), as added bysubsection (b)(2), was a reference to 'each of 2016 and 2017'
+&emsp;"(3) the reference to '2016' in subsection (d)(1) of section 1844 of such Act (42 U.S.C. 1395w), as added by subsection (b)(2), was a reference to 'each of 2016 and 2017'
 
 > Any increase in premiums effected under this subsection shall be in addition to the increase effected by the amendments made by subsection (a) \[amending this section\]."
 

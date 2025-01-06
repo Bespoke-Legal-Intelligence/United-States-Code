@@ -6,7 +6,7 @@ Not later than 180 days after December 16, 2016, the Secretary shall issue imple
 
 #### (2) Requirements
 
-All potential mitigation bank and in-lieu fee credits that meet the criteria under paragraph\(1) shall be considered a reasonable alternative for planning purposes if—
+All potential mitigation bank and in-lieu fee credits that meet the criteria under paragraph (1) shall be considered a reasonable alternative for planning purposes if—
 
 &emsp;(A) the applicable mitigation bank—
 

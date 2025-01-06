@@ -478,7 +478,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) is exempt from tax under section 501(a),
 
-&emsp;&emsp;&emsp;(iii) is organized and operated primarily to promote scientific research by qualifiedorganizations described in subparagraph (A) pursuant to written research agreements, and
+&emsp;&emsp;&emsp;(iii) is organized and operated primarily to promote scientific research by qualified organizations described in subparagraph (A) pursuant to written research agreements, and
 
 &emsp;&emsp;&emsp;(iv) currently expends—
 
@@ -506,7 +506,7 @@ For purposes of this section—
 
 #### (A) Basic research
 
-&emsp;&emsp;The term "basic research" means any original investigation for the advancement of scientific knowledge not having a specific commercial objective, except that such term shall not include—
+&emsp;&emsp;The term "basic research" means any original investigation for the advancementof scientific knowledge not having a specific commercial objective, except that such term shall not include—
 
 &emsp;&emsp;&emsp;(i) basic research conducted outside of the United States, and
 
@@ -580,7 +580,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a person acquires the major portion of either a trade or business or a separateunit of a trade or business (hereinafter in this paragraph referred to as the "acquired business") of another person (hereinafter in this paragraph referred to as the "predecessor"), then the amount of qualified research expenses paid or incurred by the acquiring person during the measurement period shall be increased by the amount determined under clause (ii), and the gross receipts of the acquiring person for such period shall be increased by the amount determined under clause (iii).
+&emsp;&emsp;&emsp;If a person acquires the major portion of either a trade or business or a separate unit of a trade or business (hereinafter in this paragraph referred to as the "acquired business") of another person (hereinafter in this paragraph referred to as the "predecessor"), then the amount of qualified research expenses paid or incurred by the acquiring person during the measurement period shall be increased by the amount determined under clause (ii), and the gross receipts of the acquiring person for such period shall be increased by the amount determined under clause (iii).
 
 #### (ii) Amount determined with respect to qualified research expenses
 
@@ -730,7 +730,7 @@ In the case of an individual who—
 
 &emsp;&emsp;&emsp;&emsp;(I) the gross receipts (as determined under the rules of section 448(c)(3), without regard to subparagraph (A) thereof) of such entity for the taxable year is less than $5,000,000, and
 
-&emsp;&emsp;&emsp;&emsp;(II) such entity did not have gross receipts (as so determined) for any taxableyear preceding the 5-taxable-year period ending with such taxable year, and
+&emsp;&emsp;&emsp;&emsp;(II) such entity did not have gross receipts (as so determined) for any taxable year preceding the 5-taxable-year period ending with such taxable year, and
 
 &emsp;&emsp;&emsp;(ii) any person (other than a corporation or partnership) who meets the requirements of subclauses (I) and (II) of clause (i), determined—
 
@@ -804,7 +804,7 @@ In the case of an individual who—
 
 &emsp;&emsp;(C) regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29,2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, 131 Stat. 2060, 2061, 2112; Pub. L. 115–141, div. U, title I, §101(c), title IV, §401(b)(6), Mar. 23, 2018, 132 Stat. 1160, 1202; Pub. L. 117–169, title I, §13902(a), (c), Aug. 16, 2022, 136 Stat. 2013, 2014.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, 131 Stat. 2060, 2061, 2112; Pub. L. 115–141, div. U, title I, §101(c), title IV, §401(b)(6), Mar. 23, 2018, 132 Stat. 1160, 1202; Pub. L. 117–169, title I, §13902(a), (c), Aug. 16, 2022, 136 Stat. 2013, 2014.)
 
 #### <b>Editorial Notes</b>
 
@@ -814,7 +814,7 @@ The date of the enactment of the Energy Tax Incentives Act of 2005, referred to 
 
 #### Prior Provisions
 
-A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 95 Stat. 289, §44G; amended Pub. L. 97–448, title I, §103(g)(1), Jan. 12, 1983, 96 Stat. 2379; renumbered §41 and amended Pub. L. 98–369, div. A, title I, §14, title IV, §§471(c), 474(l), 491(e)(2), (3), July 18, 1984, 98 Stat. 505, 826, 833, 852, 853, related to employee stock ownership credit, prior to repeal by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513, applicable to compensation paid or accrued after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 1171(c) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 38 of this title. For transition rules relating to such repeal, see section 1177 of Pub. L. 99–514, set out as a Transition Rules note under section 38 of this title.
+A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 95 Stat. 289, §44G; amended Pub. L. 97–448, title I, §103(g)(1), Jan. 12, 1983, 96 Stat. 2379; renumbered §41 and amended Pub. L. 98–369, div. A, title I, §14, title IV, §§471(c), 474(l), 491(e)(2), (3), July 18, 1984, 98 Stat. 505, 826, 833, 852, 853, related to employee stock ownership credit, prior to repeal by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513, applicable to compensation paid or accrued after Dec. 31, 1986, in taxable years ending after such date, except asotherwise provided, see section 1171(c) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 38 of this title. For transition rules relating to such repeal, see section 1177 of Pub. L. 99–514, set out as a Transition Rules note under section 38 of this title.
 
 Another prior section 41 was renumbered section 24 of this title.
 
@@ -976,7 +976,7 @@ Subsec. (f)(3)(A). Pub. L. 101–239, §7110(b)(2)(D), substituted "December 31,
 
 Subsec. (f)(3)(B). Pub. L. 101–239, §7110(b)(2)(E), substituted "December 31, 1983" for "June 30, 1980" in introductory provisions and inserted before period at end ", and the gross receipts of the taxpayer for such periods shall be decreased by so much of the gross receipts as is attributable to such portion".
 
-Subsec. (f)(3)(C). Pub. L. 101–239, §7110(b)(2)(F), substituted "Certain reimbursements taken into account in determining fixed-base percentage" for "Increase in base period" in heading, "for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of" for "for the base period for such taxable year shall be increased by the lesser of" in introductory provisions, and new cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
+Subsec. (f)(3)(C). Pub. L. 101–239, §7110(b)(2)(F), substituted "Certain reimbursements taken into accountin determining fixed-base percentage" for "Increase in base period" in heading, "for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of" for "for the base period for such taxable year shall be increased by the lesser of" in introductory provisions, and new cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
 
 "(i) the amount of the decrease under subparagraph (B) which is allocable to such base period, or
 
@@ -1036,7 +1036,7 @@ Subsec. (g)(1)(A). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" fo
 
 Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting "shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b)), reduced by the sum of the credits allowable under subpart A and sections 27, 28, and 29" for "shall not exceed the amount of the tax imposed by this chapter reduced by the sum of the credits allowable under a section of this part having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term 'tax imposed by this chapter' shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)".
 
-<b>1983</b>—Subsec. (b)(2)(A). Pub. L. 97–448 inserted provision that cl. (iii) would not apply to any amount to the extent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection\(f)(1)) received or accrued any amount from any other person for the right to use substantially identical personal property.
+<b>1983</b>—Subsec. (b)(2)(A). Pub. L. 97–448 inserted provision that cl. (iii) would not apply to any amount to the extent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection (f)(1)) received or accrued any amount from any other person for the right to use substantially identical personal property.
 
 <b>1982</b>—Subsec. (f)(2)(A). Pub. L. 97–354, §5(a)(3)(A), substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
@@ -1054,7 +1054,7 @@ Amendment by section 101(c) of Pub. L. 115–141 effective as if included in the
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 11002(d)(1)(F), (2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+Amendment by section 11002(d)(1)(F), (2) of Pub. L. 115–97 applicable to taxable years beginning after Dec.31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 Pub. L. 115–97, title I, §13206(e), Dec. 22, 2017, 131 Stat. 2113, provided that: "The amendments made by this section \[amending this section and sections 174 and 280C of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2021."
 
@@ -1148,7 +1148,7 @@ Transition rule for deemed revocation of election of alternative incremental cre
 
 "(3)
 
-Effective date.—Except as provided in paragraph (4), the amendments made by this subsection\[amending this section\] shall apply to taxable years ending after December 31, 2006.
+Effective date.—Except as provided in paragraph (4), the amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2006.
 
 "(4)
 
@@ -1252,7 +1252,7 @@ Amendment by section 7814(e)(2)(C) of Pub. L. 101–239 effective, except as oth
 
 Amendment by section 1002(h)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title IV, §4008(d), Nov. 10, 1988, 102 Stat. 3653, provided that: "The amendments made bythis section \[amending this section and sections 28, 196, 280C, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1988."
+Pub. L. 100–647, title IV, §4008(d), Nov. 10, 1988, 102 Stat. 3653, provided that: "The amendments made by this section \[amending this section and sections 28, 196, 280C, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date of 1986 Amendment
 
@@ -1274,7 +1274,7 @@ Amendment by section 1847(b)(1) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(i)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(i)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 

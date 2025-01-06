@@ -14,7 +14,7 @@ Subsequent to the withdrawal of assignment to Federal Government stations pursua
 
 &emsp;If the frequencies to be reclaimed have been allocated or assigned by the Commission, the President shall follow the procedures for substitution of frequencies established by section 924(b) of this title, except that the statement required by section 924(b)(1)(B) of this title shall include—
 
-&emsp;&emsp;(A) a timetable to accommodate an orderly transition for licensees to obtain new frequencies and equipment necessary for its utilization; and
+&emsp;&emsp;(A) a timetable to accommodate an orderly transition for licensees to obtain newfrequencies and equipment necessary for its utilization; and
 
 &emsp;&emsp;(B) an estimate of the cost of displacing spectrum users licensed by the Commission.
 

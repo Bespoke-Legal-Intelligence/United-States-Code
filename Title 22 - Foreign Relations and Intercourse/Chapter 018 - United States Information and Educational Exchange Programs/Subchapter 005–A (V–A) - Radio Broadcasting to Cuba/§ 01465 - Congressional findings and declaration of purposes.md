@@ -20,7 +20,7 @@ The Congress finds and declares—
 
 #### Codification
 
-Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information andEducational Exchange Act of 1948 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

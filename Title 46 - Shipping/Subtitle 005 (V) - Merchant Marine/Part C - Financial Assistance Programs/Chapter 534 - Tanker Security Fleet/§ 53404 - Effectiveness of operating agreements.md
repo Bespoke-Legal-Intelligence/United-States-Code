@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the availability of appropriations for such purpose, the Secretary may enter into an operating agreement under this chapter for fiscal year 2022 and any subsequent fiscal year. The agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each fiscal year through the end of fiscal year 2035.
+In General.—Subject to the availability of appropriations for such purpose, the Secretary may enter into an operating agreement under this chapter for fiscal year 2022 and any subsequent fiscal year. The agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each fiscal year through the end of fiscal year 2040.
 
 (b)
 
@@ -26,7 +26,7 @@ Termination by program participant.—If a program participant provides notice o
 
 (d)
 
-Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficient funds have not been appropriated under the authority provided by this chapter for that fiscal year, then the Secretary shall notify the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives that operating agreements authorized under this chapter for which sufficient funds are not available will not be renewed for that fiscal year if sufficient funds are not appropriated by the 60th day of that fiscal year.
+Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficient funds have not been appropriated under the authorityprovided by this chapter for that fiscal year, then the Secretary shall notify the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives that operating agreements authorized under this chapter for which sufficient funds are not available will not be renewed for that fiscal year if sufficient funds are not appropriated by the 60th day of that fiscal year.
 
 (e)
 
@@ -38,11 +38,13 @@ Release of Vessels From Obligations.—If funds are not appropriated for payment
 
 &emsp;(3) if chapter 563 of this title is applicable to the vessel after registration, then the vessel is available to be requisitioned by the Secretary pursuant to chapter 563 of this title.
 
-(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4413; amended Pub. L. 117–81, div. C, title XXXV, §3515(b), Dec. 27, 2021, 135 Stat. 2243.)
+(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4413; amended Pub. L. 117–81, div. C, title XXXV, §3515(b), Dec. 27, 2021, 135 Stat. 2243; Pub. L. 118–159, div. C, title XXXV, §3531(a), Dec. 23, 2024, 138 Stat. 2312.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–159 substituted "2040" for "2035".
 
 <b>2021</b>—Subsec. (b). Pub. L. 117–81 substituted "Any" for "The program participant of a", inserted "long term" before "charter" and "not" before "eligible", and substituted "participate in the Fleet" for "receive payments pursuant to any operating agreement that covers such vessel".
 

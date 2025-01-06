@@ -6,7 +6,7 @@ Violation of Regulations Relating to Use and Management of National Park System 
 
 (b)
 
-Financial Disclosure by Officers or Employees Performing Functions or Duties Under Subchapter III of Chapter 1007
+Financial Disclosure by Officers or Employees Performing Functions or DutiesUnder Subchapter III of Chapter 1007
 
 of Title 54.—An officer or employee of the Department of the Interior who is subject to, and knowingly violates, section 100737 of title 54 or any regulation prescribed under that section shall be imprisoned not more than one year, fined under this title, or both.
 

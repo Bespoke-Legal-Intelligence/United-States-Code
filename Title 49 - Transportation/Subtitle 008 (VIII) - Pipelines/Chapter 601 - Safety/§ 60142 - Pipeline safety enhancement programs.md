@@ -92,7 +92,7 @@ Determination.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may issue an order under subparagraph (A) of section 60118(c)(1) to accomplish the purpose of a testing program for a term not to exceed the time period described in subsection (c) if the condition described in paragraph (1) is met, as determined by the Secretary.
+In general.—The Secretary may issue an order under subparagraph (A) of section60118(c)(1) to accomplish the purpose of a testing program for a term not to exceed the time period described in subsection (c) if the condition described in paragraph (1) is met, as determined by the Secretary.
 
 &emsp;&emsp;(B)
 
@@ -178,7 +178,7 @@ Program Review Process and Public Notice.—
 
 &emsp;(1)
 
-In general.—The Secretary shall publish in the Federal Register and send directly to each relevant State and each appropriate State authority with a certification in effectunder section 60105 a notice of each proposed testing program under subsection (a), including the order to be considered, and provide an opportunity for public comment for not less than 90 days.
+In general.—The Secretary shall publish in the Federal Register and send directly to each relevant State and each appropriate State authority with a certification in effect under section 60105 a notice of each proposed testing program under subsection (a), including the order to be considered, and provide an opportunity for public comment for not less than 90 days.
 
 &emsp;(2)
 
@@ -202,7 +202,7 @@ Report to Congress.—At the conclusion of each testing program, the Secretary s
 
 (l)
 
-Standards.—If a report under subsection (k) indicates that it is practicable to establish technically, operationally, and economically feasible standards for the use of a safety-enhancing technology and any corresponding operational practices tested by the testing program described in the report, the Secretary, as soon as practicable after submission of the report, may promulgate regulations consistent with chapter 5 of title 5 (commonly known as the "Administrative Procedure Act") that—
+Standards.—If a report under subsection (k) indicates that it is practicable to establishtechnically, operationally, and economically feasible standards for the use of a safety-enhancing technology and any corresponding operational practices tested by the testing program described in the report, the Secretary, as soon as practicable after submission of the report, may promulgate regulations consistent with chapter 5 of title 5 (commonly known as the "Administrative Procedure Act") that—
 
 &emsp;(1) allow operators of interstate gas or hazardous liquid pipeline facilities to use the relevant technology or practice to the extent practicable; and
 

@@ -22,7 +22,7 @@ Upon a finding by the court that an unsuccessful pleading, motion, or other pape
 
 #### (d) Clarification of willful noncompliance
 
-For the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of section 1681c(g) of this titlefor such receipt shall not be in willful noncompliance with section 1681c(g) of this title by reason of printing such expiration date on the receipt.
+For the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of section 1681c(g) of this title for such receipt shall not be in willful noncompliance with section 1681c(g) of this title by reason of printing such expiration date on the receipt.
 
 (Pub. L. 90–321, title VI, §616, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, §2412(a)–(c), (e)(1), Sept. 30, 1996, 110 Stat. 3009–446; Pub. L. 110–241, §3(a), June 3, 2008, 122 Stat. 1566.)
 
@@ -66,7 +66,7 @@ Findings.—The Congress finds as follows:
 
 &emsp;"(2) As part of that law, the Congress enacted a requirement, through an amendment to the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], that no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the card holder at the point of the sale or transaction.
 
-&emsp;"(3) Many merchants understood that this requirement would be satisfied by truncating the account number down to the last 5 digits based in part on the language of the provision as well as the publicity in the aftermath of the passage of the law.
+&emsp;"(3) Many merchants understood that this requirement would be satisfied by truncating the accountnumber down to the last 5 digits based in part on the language of the provision as well as the publicity in the aftermath of the passage of the law.
 
 &emsp;"(4) Almost immediately after the deadline for compliance passed, hundreds of lawsuits were filed alleging that the failure to remove the expiration date was a willful violation of the Fair Credit Reporting Act even where the account number was properly truncated.
 

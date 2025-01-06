@@ -38,5 +38,5 @@ Pub. L. 89–793, title VI, §607, Nov. 8, 1966, 80 Stat. 1450, provided that: "
 
 #### Reorganization Plan No. 3 of 1966
 
-Pub. L. 89–793, title VI, §606, Nov. 8, 1966, 80 Stat. 1450, provided that: "The provisions of this Act \[enactingthis chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\]."
+Pub. L. 89–793, title VI, §606, Nov. 8, 1966, 80 Stat. 1450, provided that: "The provisions of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\]."
 

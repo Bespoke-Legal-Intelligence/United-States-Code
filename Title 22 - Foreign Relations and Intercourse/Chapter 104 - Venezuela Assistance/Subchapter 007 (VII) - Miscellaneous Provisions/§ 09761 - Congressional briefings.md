@@ -6,7 +6,7 @@
 
 &emsp;Not later than 15 days after any of the congressional committees listed in paragraph (2) requests a briefing regarding the implementation—
 
-&emsp;&emsp;(A) of section 9711 of this title, the Secretary of State and the Administrator of theUnited States Agency for International Development shall provide such briefing to such committee; and
+&emsp;&emsp;(A) of section 9711 of this title, the Secretary of State and the Administrator of the United States Agency for International Development shall provide such briefing to such committee; and
 
 &emsp;&emsp;(B) of section 9751 of this title, the Secretary of State shall provide such briefing to such committee.
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Not later than 60 days after the date on which the Revitalization Coordinator is appointed, the Interagency Environmental Subcommittee shall be established and shall evaluate environmental documents requiredunder Puerto Rico law for any Critical Project within the Expedited Permitting Process established by the Revitalization Coordinator under section 2213(a)(3) of this title.
+&emsp;Not later than 60 days after the date on which the Revitalization Coordinator is appointed, the Interagency Environmental Subcommittee shall be established and shall evaluate environmental documents required under Puerto Rico law for any Critical Project within the Expedited Permitting Process established by the Revitalization Coordinator under section 2213(a)(3) of this title.
 
 #### (2) Composition
 
@@ -36,7 +36,7 @@ With respect to a Puerto Rico Agency's activities related only to a Critical Pro
 
 #### (e) Establishment of certain terms and conditions
 
-No Puerto Rico Agency may include in any certificate, right-of-way, permit, lease, or other authorization issued for a Critical Project any term or condition that may be permitted, but is not required, by any applicable Puerto Rico law, if the Revitalization Coordinator determines the term or condition would prevent or impair the expeditious construction, operation, or expansion of the Critical Project. The Revitalization Coordinator may request a Puerto Rico Agency to include in any certificate, right-of-way, permit, lease, or other authorization, a term or condition that may be permitted in accordance with applicable laws if the Revitalization Coordinator determines such inclusion would support the expeditious construction, operation, or expansion of any Critical Project.
+No Puerto Rico Agency may include in any certificate, right-of-way, permit, lease, or otherauthorization issued for a Critical Project any term or condition that may be permitted, but is not required, by any applicable Puerto Rico law, if the Revitalization Coordinator determines the term or condition would prevent or impair the expeditious construction, operation, or expansion of the Critical Project. The Revitalization Coordinator may request a Puerto Rico Agency to include in any certificate, right-of-way, permit, lease, or other authorization, a term or condition that may be permitted in accordance with applicable laws if the Revitalization Coordinator determines such inclusion would support the expeditious construction, operation, or expansion of any Critical Project.
 
 #### (f) Disclosure
 

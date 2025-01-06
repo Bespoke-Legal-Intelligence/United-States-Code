@@ -32,7 +32,7 @@ The Congress also finds that (1) the damage and loss which results from mudslide
 
 For effective date of this chapter, referred to in subsec. (c), see section 1377 of Pub. L. 90–448, set out as an Effective Date note below.
 
-This chapter, referred to in subsecs. (d) to (f), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For completeclassification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (d) to (f), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Pub. L. 116–19, §1, May 31, 2019, 133 Stat. 870, provided that: "This Act \[a
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–396, §1, Dec. 21, 2018, 132 Stat. 5296, provided that: "This Act \[amending sections 4016 and 4026 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Extension Act'."
+Pub. L. 115–396, §1, Dec. 21, 2018, 132 Stat. 5296, provided that: "This Act \[amending sections 4016 and 4026of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Extension Act'."
 
 Pub. L. 115–281, §1, Dec. 1, 2018, 132 Stat. 4191, provided that: "This Act \[amending sections 4016 and 4026 of this title\] may be cited as the 'National Flood Insurance Program Further Extension Act of 2018'."
 
@@ -98,7 +98,7 @@ Pub. L. 108–3, §1, Jan. 13, 2003, 117 Stat. 7, provided that: "This Act \[ame
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–325, title V, §501, Sept. 23, 1994, 108 Stat. 2255, provided that: "This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027, 4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing section 4103 of this title, enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c ofthis title, and repealing provisions set out as a note under section 4015 of this title\] may be cited as the 'National Flood Insurance Reform Act of 1994'."
+Pub. L. 103–325, title V, §501, Sept. 23, 1994, 108 Stat. 2255, provided that: "This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027, 4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing section 4103 of this title, enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c of this title, and repealing provisions set out as a note under section 4015 of this title\] may be cited as the 'National Flood Insurance Reform Act of 1994'."
 
 #### Short Title of 1973 Amendment
 

@@ -46,7 +46,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 #### (c) Duties
 
-(1) The Commission shall, in accordance with this section, review the safeguards, security, and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
+(1) The Commission shall, in accordance with this section, review the safeguards, security,and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
 
 &emsp;(A) determine the adequacy of those activities to ensure the security of sensitive information, processes, and activities under the jurisdiction of the Department against threats to the disclosure of such information, processes, and activities; and
 
@@ -112,11 +112,11 @@ Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 o
 
 #### Codification
 
-Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a noteunder section 7251 of this title. Subsec. (h)(2) of section 3142 of Pub. L. 106–65 amended section 2657 of Title 50, War and National Defense.
+Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a note under section 7251 of this title. Subsec. (h)(2) of section 3142 of Pub. L. 106–65 amended section 2657 of Title 50, War and National Defense.
 
 #### Amendments
 
-<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 oftitle 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

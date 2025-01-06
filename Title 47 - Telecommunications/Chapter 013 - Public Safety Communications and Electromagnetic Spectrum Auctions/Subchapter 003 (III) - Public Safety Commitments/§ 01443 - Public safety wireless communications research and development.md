@@ -10,7 +10,7 @@ In carrying out the requirement under subsection (a), the Director of NIST, in c
 
 &emsp;(1) document public safety wireless communications technical requirements;
 
-&emsp;(2) accelerate the development of the capability for communications between currently deployed public safety narrowband systems and the nationwide public safety broadband network;
+&emsp;(2) accelerate the development of the capability for communications between currentlydeployed public safety narrowband systems and the nationwide public safety broadband network;
 
 &emsp;(3) establish a research plan, and direct research, that addresses the wireless communications needs of public safety entities beyond what can be provided by the current generation of broadband technology;
 

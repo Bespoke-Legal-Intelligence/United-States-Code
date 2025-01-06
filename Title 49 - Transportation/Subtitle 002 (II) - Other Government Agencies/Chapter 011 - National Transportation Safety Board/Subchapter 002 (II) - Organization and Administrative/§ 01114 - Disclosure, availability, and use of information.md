@@ -8,19 +8,23 @@ General.—(1) Except as provided in subsections (b), (c), (d), and (f) of this 
 
 (b)
 
-Trade Secrets.—(1) The Board may disclose information related to a trade secret referred to in section 1905 of title 18 only—
+Certain Confidential Information.—
 
-&emsp;(A) to another department, agency, or instrumentality of the United States Government when requested for official use;
+&emsp;(1)
 
-&emsp;(B) to a committee of Congress having jurisdiction over the subject matter to which the information is related, when requested by that committee;
+In general.—The Board may disclose confidential information described in section 1905 of title 18, including trade secrets, only—
 
-&emsp;(C) in a judicial proceeding under a court order that preserves the confidentiality of the information without impairing the proceeding; and
+&emsp;&emsp;(A) to another department, agency, or instrumentality of the United States Government when requested for official use;
 
-&emsp;(D) to the public to protect health and safety after giving notice to any interested person to whom the information is related and an opportunity for that person to comment in writing, or orally in closed session, on the proposed disclosure, if the delay resulting from notice and opportunity for comment would not be detrimental to health and safety.
+&emsp;&emsp;(B) to a committee of Congress having jurisdiction over the subject matter to which the information is related, when requested by that committee;
 
-(2) Information disclosed under paragraph (1) of this subsection may be disclosed only in a way designed to preserve its confidentiality.
+&emsp;&emsp;(C) in a judicial proceeding under a court order that preserves the confidentiality of the information without impairing the proceeding; and
 
-(3)
+&emsp;&emsp;(D) to the public to protect health and safety after giving notice to any interested person to whom the information is related and an opportunity for that person to comment in writing, or orally in closed session, on the proposed disclosure, if the delay resulting from notice and opportunity for comment would not be detrimental to health and safety.
+
+&emsp;(2) Information disclosed under paragraph (1) of this subsection may be disclosed only in a way designed to preserve its confidentiality.
+
+&emsp;(3)
 
 Protection of Voluntary Submission of Information.—Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose voluntarily provided safety-related information if that information is not related to the exercise of the Board's accident or incident investigation authority under this chapter and if the Board finds that the disclosure of the information would inhibit the voluntary provision of that type of information.
 
@@ -54,7 +58,7 @@ Confidentiality of recordings.—Except as provided in paragraph (2), the Board 
 
 &emsp;(2)
 
-Exception.—Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visualinformation obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
+Exception.—Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
 
 &emsp;&emsp;(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
 
@@ -104,7 +108,7 @@ Safety recommendations.—Nothing in this subsection shall restrict the Board at
 
 Privacy Protections.—Before making public any still image obtained from a video recorder under subsection (c)(2) or subsection (d)(2), the Board shall take such action as appropriate to protect from public disclosure any information that readily identifies an individual, including a decedent.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452; Pub. L. 106–424, §§3(b)(2), 5(a), (b), Nov. 1, 2000, 114 Stat. 1884, 1885; Pub. L. 115–254, div. C, §1104(a), Oct. 5, 2018, 132 Stat. 3429.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452; Pub. L. 106–424, §§3(b)(2), 5(a), (b), Nov. 1, 2000, 114 Stat. 1884, 1885; Pub. L. 115–254, div. C, §1104(a), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–63, title XII, §1208(a), May 16, 2024, 138 Stat. 1424.)
 
 Historical and Revision Notes
 
@@ -164,9 +168,13 @@ Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subs
 
 #### Amendments
 
+<b>2024</b>—Subsec. (b). Pub. L. 118–63, §1208(a)(1), substituted "Certain Confidential Information" for "Trade Secrets" in heading.
+
+Subsec. (b)(1). Pub. L. 118–63, §1208(a)(2), inserted heading and substituted "confidential information described in section 1905 of title 18, including trade secrets," for "information related to a trade secret referred to in section 1905 of title 18" in introductory provisions.
+
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–254, §1104(a)(1)(C)(i), inserted heading and substituted "Except as provided in paragraph (2), the Board" for "The Board".
 
-Subsec. (c)(2). Pub. L. 115–254, §1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: "However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+Subsec. (c)(2). Pub. L. 115–254, §1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: "However, the Boardshall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
 
 &emsp;"(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
 
@@ -207,4 +215,30 @@ Subsecs. (e), (f). Pub. L. 106–424, §5(b)(1)(A), redesignated subsecs. (d) an
 Subsec. (b)(3). Pub. L. 104–291, §103, added par. (3).
 
 Subsec. (e). Pub. L. 104–291, §102(2), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Electronic Availability of Public Docket Records
+
+Pub. L. 118–63, title XII, §1217, May 16, 2024, 138 Stat. 1431, provided that:
+
+"(a)
+
+In General.—Not later than 24 months after the date of enactment of this Act \[May 16, 2024\], the National Transportation Safety Board shall make all records included in the public docket of an accident or incident investigation conducted by the Board (or the public docket of a study, report, or other product issued by the Board) electronically available in a publicly accessible database on a website of the Board, regardless of the date on which such public docket or record was created.
+
+"(b)
+
+Database.—In carrying out subsection (a), the Board may utilize the multimodal accident database management system established pursuant to section 1108 of the FAA Reauthorization Act of 2018 \[Pub. L. 115–254\] (49 U.S.C. 1119 note) or such other publicly available database as the Board determines appropriate.
+
+"(c)
+
+Briefings.—The Board shall provide the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] an annual briefing on the implementation of this section until requirements of subsection (a) are fulfilled. Such briefings shall include—
+
+&emsp;"(1) the number of public dockets that have been made electronically available pursuant to this section; and
+
+&emsp;"(2) the number of public dockets that were unable to be made electronically available, including all reasons for such inability.
+
+"(d)
+
+Definitions.—In this section, the terms 'public docket' and 'record' have the same meanings given such terms in section 801.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act."
 

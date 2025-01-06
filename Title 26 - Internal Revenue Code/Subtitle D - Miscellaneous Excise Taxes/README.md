@@ -20,7 +20,12 @@
 | [<b>41.</b>](Chapter%20041%20-%20Public%20Charities/README.md) | <b>Public charities</b> | <b>4911</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Private%20Foundations%3B%20and%20Certain%20Other%20Tax-Exempt%20Organizations/README.md) | <b>Private foundations; and certain other tax-exempt organizations</b> | <b>4940</b> |
 | [<b>43.</b>](Chapter%20043%20-%20Qualified%20Pension%2C%20Etc.%2C%20Plans/README.md) | <b>Qualified pension, etc., plans</b> | <b>4971</b> |
-| [<b>44.</b>](Chapter%20044%20-%20Qualified%20Investment%20Entities/README.md) | <b>Real estate investment trusts</b> | <b>4981</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Qualified%20Investment%20Entities/README.md) | <b>Real estate investment trusts </b><b><sup>2</sup></b> | <b>4981</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>45.</b>](Chapter%20045%20-%20Provisions%20Relating%20to%20Expatriated%20Entities/README.md) | <b>Provisions relating to expatriated entities</b> | <b>4985</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Golden%20Parachute%20Payments/README.md) | <b>Golden parachute payments</b> | <b>4999</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Certain%20Group%20Health%20Plans/README.md) | <b>Certain group health plans</b> | <b>5000</b> |
@@ -252,7 +257,7 @@ Medicaid program.—The Secretary of Health and Human Services shall report, for
 
 &emsp;"(4)
 
-Department of veterans affairs programs.—The Secretary of Veterans Affairs shall report, for each covered entity and for each branded prescription drug of the covered entity the total amount paid for each such branded prescription drug procured by the Department of Veterans Affairs for its beneficiaries.
+Department of veterans affairs programs.—The Secretary of Veterans Affairs shall report, foreach covered entity and for each branded prescription drug of the covered entity the total amount paid for each such branded prescription drug procured by the Department of Veterans Affairs for its beneficiaries.
 
 &emsp;"(5)
 
@@ -297,6 +302,8 @@ Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 1
 \[Pub. L. 116–94, div. N, title I, §502(b), Dec. 20, 2019, 133 Stat. 3119, provided that, "The amendment made by this section \[repealing section 9010 of Pub. L. 111–148, formerly set out above\] shall apply to calendar years beginning after December 31, 2020."\]
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
+
+<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 99–514 without corresponding amendment of subtitle analysis.</i>
 
 
 ---

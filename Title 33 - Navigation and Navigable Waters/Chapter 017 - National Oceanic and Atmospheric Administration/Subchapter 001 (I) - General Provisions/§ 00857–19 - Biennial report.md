@@ -86,7 +86,7 @@ Resources.—In carrying out its functions under this section, the Commission—
 
 &emsp;"(1) is authorized to secure directly from any Federal agency or department any information it deems necessary to carry out its functions under this Act, and each such agency or department is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information (other than information described in section 552(b)(1)(A) of title 5, United States Code) to the Commission, upon the request of the Commission;
 
-&emsp;"(2) may enter into contracts, subject to the availability of appropriations for contracting, and employ such staff experts and consultants as may be necessary to carry out the duties of the Commission, asprovided by section 3109 of title 5, United States Code; and
+&emsp;"(2) may enter into contracts, subject to the availability of appropriations for contracting, and employ such staff experts and consultants as may be necessary to carry out the duties of the Commission, as provided by section 3109 of title 5, United States Code; and
 
 &emsp;"(3) in consultation with the Ocean Studies Board of the National Research Council of the National Academy of Sciences, shall establish a multidisciplinary science advisory panel of experts in the sciences of living and non-living marine resources to assist the Commission in preparing its report, including ensuring that the scientific information considered by the Commission is based on the best scientific information available.
 
@@ -198,7 +198,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 "(a)
 
-National Ocean Policy.—Within 90 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission's recommendations for a coordinated, comprehensive, andlong-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
+National Ocean Policy.—Within 90 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission's recommendations for a coordinated, comprehensive, and long-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
 
 "(b)
 
@@ -274,7 +274,7 @@ Sec. 2. <i>Policy</i>. It shall be the policy of the United States to:
 
 (e) ensure that Federal regulations and management decisions do not prevent productive and sustainable use of ocean, coastal, and Great Lakes waters;
 
-(f) modernize the acquisition, distribution, and use of the best available ocean-related science and knowledge, in partnership with marine industries; the ocean science and technology community; State, tribal, and local governments; and other ocean stakeholders, to inform decisions and enhance entrepreneurial opportunity; and
+(f) modernize the acquisition, distribution, and use of the best available ocean-related science and knowledge, in partnership with marine industries; the ocean science and technology community; State, tribal, andlocal governments; and other ocean stakeholders, to inform decisions and enhance entrepreneurial opportunity; and
 
 (g) facilitate, as appropriate, coordination, consultation, and collaboration regarding ocean-related matters, consistent with applicable law, among Federal, State, tribal, and local governments, marine industries, the ocean science and technology community, other ocean stakeholders, and foreign governments and international organizations.
 
@@ -288,7 +288,7 @@ Sec. 4. <i>Interagency Coordination</i>. (a) To ensure appropriate coordination 
 
 (i) The Committee shall consist of the following:
 
-&emsp;(1) The Chairman of the Council on Environmental Quality (CEQ) and the Director of the Office ofScience and Technology Policy (OSTP), who shall serve as Co-Chairs;
+&emsp;(1) The Chairman of the Council on Environmental Quality (CEQ) and the Director of the Office of Science and Technology Policy (OSTP), who shall serve as Co-Chairs;
 
 &emsp;(2) The Secretary of State, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Transportation, Secretary of Energy, Secretary of Homeland Security, Administrator of the Environmental Protection Agency, Director of the Office of Management and Budget, Administrator of the National Aeronautics and Space Administration, Director of the National Science Foundation, Director of National Intelligence, Chairman of the Joint Chiefs of Staff, Under Secretary of Commerce for Oceans and Atmosphere, Assistant Secretary of the Army (Civil Works), and Commandant of the Coast Guard;
 

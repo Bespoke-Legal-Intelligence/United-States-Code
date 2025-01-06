@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 29, 2022, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere (in this title <sup>1</sup> referred to as the "Under Secretary") shall establish a program to provide competitive financial assistance, on an annual basis, and cooperative agreements including multiyear grants and direct payment, to eligible entities for eligible uses, such as projects designed to reduce the lethal and sub-lethal effects of human activities on North Atlantic right whales.
+&emsp;Not later than 180 days after December 29, 2022, the Secretary of Commerce, actingthrough the Under Secretary of Commerce for Oceans and Atmosphere (in this title <sup>1</sup> referred to as the "Under Secretary") shall establish a program to provide competitive financial assistance, on an annual basis, and cooperative agreements including multiyear grants and direct payment, to eligible entities for eligible uses, such as projects designed to reduce the lethal and sub-lethal effects of human activities on North Atlantic right whales.
 
 #### (2) Use of existing authorities
 
@@ -70,7 +70,7 @@ In determining whether to fund project proposals under this section, the Under S
 
 #### (1) In general
 
-&emsp;Each individual or entity that receives assistance under this section for a project shall submit to the Under Secretary periodic reports (at such intervals as the Under Secretary may require) that include all information that the Under Secretary, after consultation with other government officials, determines is necessary to evaluate the progressand success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
+&emsp;Each individual or entity that receives assistance under this section for a project shall submit to the Under Secretary periodic reports (at such intervals as the Under Secretary may require) that include all information that the Under Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
 
 #### (2) Availability to the public
 

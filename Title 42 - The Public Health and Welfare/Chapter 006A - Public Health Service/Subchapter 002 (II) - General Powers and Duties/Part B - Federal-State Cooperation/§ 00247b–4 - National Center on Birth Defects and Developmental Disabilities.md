@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The programs and functions described in this subparagraph are all programs and functions that—
 
-&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; child development; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
+&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; childdevelopment; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) were carried out through the National Center for Environmental Health as of the day before October 17, 2000.
 
@@ -104,7 +104,7 @@ Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and 
 
 Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows:"contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
+Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: "contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;".
 
 Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted ", developmental disabilities, and secondary health conditions among individuals with disabilities" after "defects".
 

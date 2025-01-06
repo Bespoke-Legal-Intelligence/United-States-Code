@@ -2,7 +2,7 @@
 
 (a)
 
-Principles.—The principles underlying the corporation are patriotic allegiance to theUnited States of America, fidelity to the constitution and laws of the United States, the security of civil liberty, and the permanence of free institutions.
+Principles.—The principles underlying the corporation are patriotic allegiance to the United States of America, fidelity to the constitution and laws of the United States, the security of civil liberty, and the permanence of free institutions.
 
 (b)
 

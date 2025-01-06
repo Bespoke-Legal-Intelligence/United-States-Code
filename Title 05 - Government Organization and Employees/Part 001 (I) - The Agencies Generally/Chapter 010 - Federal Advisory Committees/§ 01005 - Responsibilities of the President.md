@@ -6,7 +6,7 @@ Delegation.—The President may delegate responsibility for evaluating and takin
 
 (b)
 
-Report on Response to Recommendations.—Within 1 year after a Presidential advisory committee submits a public report to the President, the President or the President's delegate shall submit to Congress a report statingeither proposals for action or reasons for inaction, with respect to the recommendations contained in the public report.
+Report on Response to Recommendations.—Within 1 year after a Presidential advisory committee submits a public report to the President, the President or the President's delegate shall submit to Congress a report stating either proposals for action or reasons for inaction, with respect to the recommendations contained in the public report.
 
 (Pub. L. 117–286, §3(a), Dec. 27, 2022, 136 Stat. 4199.)
 

@@ -34,7 +34,7 @@ Paragraphs (1)(A), (2)(A), and (3) of subsection (a) shall apply to covered part
 
 #### (2) Exception
 
-&emsp;Paragraph (1)(A) shall not apply to a covered part D drug of a manufacturer for any period described in section 5000D(c)(1) of the Internal Revenue Code of 1986 with respect to the manufacturer.
+&emsp;Paragraph (1)(A) shall not apply to a covered part D drug of a manufacturer for any period described in section 5000D(c)(1) of the InternalRevenue Code of 1986 with respect to the manufacturer.
 
 #### (d) Definition of manufacturer
 

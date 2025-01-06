@@ -162,7 +162,7 @@ Amendment by Pub. L. 98–378 applicable with respect to refunds payable under s
 
 Amendment by section 453(b)(4) of Pub. L. 98–369 effective on the first day of the first calendar month which begins more than 90 days after July 18, 1984, see section 456(a) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-Amendment by section 2653(b)(4) of Pub. L. 98–369 applicable to refunds payable under section 6402 of thistitle after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as a note under section 6402 of this title.
+Amendment by section 2653(b)(4) of Pub. L. 98–369 applicable to refunds payable under section 6402 of this title after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as a note under section 6402 of this title.
 
 #### Effective Date of 1982 Amendments
 

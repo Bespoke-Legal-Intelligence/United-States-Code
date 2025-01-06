@@ -90,7 +90,7 @@ Subsec. (d)(1). Pub. L. 114–328, §502(kk)(2), struck out last sentence which 
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "The Judge Advocate General, while so serving, has the grade of lieutenant general." for "The Judge Advocate General, while so serving, shall hold a grade not lower than major general."
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §508(c), substituted "The Judge Advocate General, while so serving, shall hold a grade not lower than major general." for "An appointee who holds a lower regular grade shall be appointed in the regular grade of major general."
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §508(c), substituted "The Judge Advocate General, while so serving, shallhold a grade not lower than major general." for "An appointee who holds a lower regular grade shall be appointed in the regular grade of major general."
 
 Subsec. (b). Pub. L. 109–163, §1057(a)(2), struck out "or Territory" after "a State".
 

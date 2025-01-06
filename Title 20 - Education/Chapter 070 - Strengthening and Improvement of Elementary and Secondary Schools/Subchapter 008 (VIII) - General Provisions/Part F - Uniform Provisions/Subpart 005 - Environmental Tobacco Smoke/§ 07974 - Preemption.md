@@ -2,7 +2,7 @@
 
 Nothing in this subpart <sup>1</sup> is intended to preempt any provision of law of a State or political subdivision of a State that is more restrictive than a provision of this subpart.<sup>1</sup>
 
-(Pub. L. 89–10, title VIII, §8574, formerly title IV, §4304, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1776; renumbered title IX, §9564, renumbered title VIII, §8574, Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8574, formerly title IV, §4304, as added Pub. L. 107–110, title IV, §401,Jan. 8, 2002, 115 Stat. 1776; renumbered title IX, §9564, renumbered title VIII, §8574, Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
 
 #### <b>Editorial Notes</b>
 

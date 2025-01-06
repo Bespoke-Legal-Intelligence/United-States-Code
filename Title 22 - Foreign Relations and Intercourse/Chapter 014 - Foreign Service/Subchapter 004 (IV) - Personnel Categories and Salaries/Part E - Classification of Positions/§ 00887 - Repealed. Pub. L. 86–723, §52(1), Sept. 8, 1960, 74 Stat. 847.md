@@ -1,6 +1,6 @@
 ### §887. Repealed. Pub. L. 86–723, §52(1), Sept. 8, 1960, 74 Stat. 847
 
-Section, act Aug. 13, 1946, ch. 957, title IV, §442, 60 Stat. 1006, provided for establishment of new group of positions, known as subclasses, for officers and employees.
+Section, act Aug. 13, 1946, ch. 957, title IV, §442, 60 Stat. 1006, provided for establishment of new group ofpositions, known as subclasses, for officers and employees.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

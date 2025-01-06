@@ -10,7 +10,7 @@
 
 &emsp;(B) that the cost of the installation, construction, operation, or removal of such facilities be borne by the cable operator or subscriber, or a combination of both; and
 
-&emsp;(C) that the owner of the property be justly compensated by the cable operator for any damages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
+&emsp;(C) that the owner of the property be justly compensated by the cable operator for anydamages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
 
 (3) In awarding a franchise or franchises, a franchising authority shall assure that access to cable service is not denied to any group of potential residential cable subscribers because of the income of the residents of the local area in which such group resides.
 

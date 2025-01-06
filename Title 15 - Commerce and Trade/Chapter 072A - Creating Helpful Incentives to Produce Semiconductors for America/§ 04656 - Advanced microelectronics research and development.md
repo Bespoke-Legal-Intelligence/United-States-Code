@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) activities that may be carried out to strengthen engagement and outreach between the Department of Defense and industry, academia, international partners of the United States, and other departments and agencies of the Federal Government on issues relating to microelectronics;
 
-&emsp;&emsp;&emsp;&emsp;(II) priorities for research and development to accelerate the advancement and adoption of innovative microelectronics and new uses of microelectronics and components, including for technologies based on organic and inorganic materials;
+&emsp;&emsp;&emsp;&emsp;(II) priorities for research and development to accelerate the advancement and adoption of innovative microelectronics and new uses of microelectronics and components, including for technologiesbased on organic and inorganic materials;
 
 &emsp;&emsp;&emsp;&emsp;(III) the role of diplomacy and trade in maintaining the position of the United States as a global leader in the field of microelectronics;
 

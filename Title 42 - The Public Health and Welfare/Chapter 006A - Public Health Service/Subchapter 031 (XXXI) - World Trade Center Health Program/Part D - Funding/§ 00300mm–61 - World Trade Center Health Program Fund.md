@@ -158,7 +158,7 @@ A prior section 300aaa–8, act July 1, 1944, ch. 373, title XXVII, §2709, form
 
 A prior section 300aaa–9, act July 1, 1944, ch. 373, title XXVII, §2710, formerly title V, §512, as added Oct. 15, 1968, Pub. L. 90–574, title V, §503(a), 82 Stat. 1012, and amended, which related to memorials and other acknowledgements for contributions to the health of the Nation, was renumbered section 240 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238i of this title.
 
-A prior section 300aaa–10, act July 1, 1944, ch. 373, title XXVII, §2711, formerly title V, §513, as added June 30, 1970, Pub. L. 91–296, title IV, §401(a), 84 Stat. 351, and amended, which related to evaluation of programs, was renumbered section 241 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238j of this title.
+A prior section 300aaa–10, act July 1, 1944, ch. 373, title XXVII, §2711, formerly title V, §513, as added June30, 1970, Pub. L. 91–296, title IV, §401(a), 84 Stat. 351, and amended, which related to evaluation of programs, was renumbered section 241 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238j of this title.
 
 A prior section 300aaa–11, act July 1, 1944, ch. 373, title XXVII, §2712, formerly title V, §514, as added Nov. 9, 1978, Pub. L. 95–623, §11(e), 92 Stat. 3456, and amended, which related to contract authority, was renumbered section 242 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238k of this title.
 

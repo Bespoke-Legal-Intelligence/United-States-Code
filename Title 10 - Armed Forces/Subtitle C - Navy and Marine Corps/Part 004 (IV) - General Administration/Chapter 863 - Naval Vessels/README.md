@@ -24,6 +24,7 @@
 | [8678\.](%C2%A7%2008678%20-%20Chief%20of%20Naval%20Operations%20certification%20required%20for%20disposal%20of%20combatant%20vessels.md) | Chief of Naval Operations: certification required for disposal of combatant vessels. |
 | [8678a.](%C2%A7%2008678a%20-%20Limitation%20on%20decommissioning%20or%20inactivating%20a%20battle%20force%20ship%20before%20the%20end%20of%20expected%20service%20life.md) | Limitation on decommissioning or inactivating a battle force ship before the end of expected service life. |
 | [8679\.](%C2%A7%2008679%20-%20Construction%20of%20vessels%20in%20foreign%20shipyards%20prohibition.md) | Construction of vessels in foreign shipyards: prohibition. |
+| [8679a.](%C2%A7%2008679a%20-%20Contracting%20with%20shipyards%20controlled%20by%20a%20foreign%20adversary%20country%20prohibition.md) | Contracting with shipyards controlled by a foreign adversary country: prohibition. |
 | [8680\.](%C2%A7%2008680%20-%20Overhaul%2C%20repair%2C%20etc.%20of%20vessels%20in%20foreign%20shipyards%20restrictions.md) | Overhaul, repair, etc. of vessels in foreign shipyards: restrictions. |
 | [8681\.](%C2%A7%2008681%20-%20Repair%20or%20maintenance%20of%20naval%20vessels%20handling%20of%20hazardous%20waste.md) | Repair or maintenance of naval vessels: handling of hazardous waste. |
 | [8682\.](%C2%A7%2008682%20-%20Service%20craft%20stricken%20from%20Naval%20Vessel%20Register%3B%20obsolete%20boats%20use%20of%20proceeds%20from%20exchange%20or%20sale.md) | Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale. |
@@ -50,6 +51,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title X, §1025, Dec. 23, 2024, 138 Stat. 2055, added item 8679a. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. A, title XVIII, §1801(a)(39), Dec. 22, 2023, 137 Stat. 685, renumbered item 8696 "Battle force ship employment, maintenance, and manning baseline plans" as 8697. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -146,6 +149,7 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 08678 - Chief of Naval Operations certification required for disposal of combatant vessels](%C2%A7%2008678%20-%20Chief%20of%20Naval%20Operations%20certification%20required%20for%20disposal%20of%20combatant%20vessels.md)
 - [&sect; 08678a - Limitation on decommissioning or inactivating a battle force ship before the end of expected service life](%C2%A7%2008678a%20-%20Limitation%20on%20decommissioning%20or%20inactivating%20a%20battle%20force%20ship%20before%20the%20end%20of%20expected%20service%20life.md)
 - [&sect; 08679 - Construction of vessels in foreign shipyards prohibition](%C2%A7%2008679%20-%20Construction%20of%20vessels%20in%20foreign%20shipyards%20prohibition.md)
+- [&sect; 08679a - Contracting with shipyards controlled by a foreign adversary country prohibition](%C2%A7%2008679a%20-%20Contracting%20with%20shipyards%20controlled%20by%20a%20foreign%20adversary%20country%20prohibition.md)
 - [&sect; 08680 - Overhaul, repair, etc. of vessels in foreign shipyards restrictions](%C2%A7%2008680%20-%20Overhaul%2C%20repair%2C%20etc.%20of%20vessels%20in%20foreign%20shipyards%20restrictions.md)
 - [&sect; 08681 - Repair or maintenance of naval vessels handling of hazardous waste](%C2%A7%2008681%20-%20Repair%20or%20maintenance%20of%20naval%20vessels%20handling%20of%20hazardous%20waste.md)
 - [&sect; 08682 - Service craft stricken from Naval Vessel Register; obsolete boats use of proceeds from exchange or sale](%C2%A7%2008682%20-%20Service%20craft%20stricken%20from%20Naval%20Vessel%20Register%3B%20obsolete%20boats%20use%20of%20proceeds%20from%20exchange%20or%20sale.md)

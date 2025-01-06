@@ -86,11 +86,11 @@ Hardship extension.—The Secretary concerned may extend the election period des
 
 &emsp;&emsp;&emsp;(iii)
 
-Effect of break in service.—A member of a uniformed service who returns to service after a break in servicethat occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.
+Effect of break in service.—A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.
 
 &emsp;&emsp;&emsp;(iv)
 
-Cadets and midshipmen, etc.—A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers' Training Corps during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+Cadets and midshipmen, etc.—A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers' Training Corps during the election period specified inclause (i) shall make the election described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;&emsp;(I) on or after the date on which such cadet, midshipman, or member of the Senior Reserve Officers' Training Corps is appointed as a commissioned officer or otherwise begins to receive basic pay; and
 

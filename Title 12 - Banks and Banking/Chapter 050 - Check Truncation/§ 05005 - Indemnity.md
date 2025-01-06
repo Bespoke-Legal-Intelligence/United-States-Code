@@ -12,7 +12,7 @@ A reconverting bank and each bank that subsequently transfers, presents, or retu
 
 #### (2) Amount in absence of breach of warranty
 
-&emsp;In the absence of a breach of a warranty provided under section 5004 of this title, the amount of the indemnity under subsection (a) shall be the sum of—
+&emsp;In the absence of a breach of a warranty provided under section 5004 of this title, theamount of the indemnity under subsection (a) shall be the sum of—
 
 &emsp;&emsp;(A) the amount of any loss, up to the amount of the substitute check; and
 

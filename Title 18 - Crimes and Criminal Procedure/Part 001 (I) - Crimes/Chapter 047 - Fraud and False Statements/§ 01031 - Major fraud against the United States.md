@@ -34,7 +34,7 @@
 
 &emsp;(A) that individual is an officer or employee of a Government agency who furnishes information or renders service in the performance of official duties;
 
-&emsp;(B) that individual failed to furnish the information to the individual's employer priorto furnishing it to law enforcement authorities, unless the court determines the individual has justifiable reasons for that failure;
+&emsp;(B) that individual failed to furnish the information to the individual's employer prior to furnishing it to law enforcement authorities, unless the court determines the individual has justifiable reasons for that failure;
 
 &emsp;(C) the furnished information is based upon public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or GAO report, hearing, audit or investigation, or from the news media unless the person is the original source of the information. For the purposes of this subsection, "original source" means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government; or
 

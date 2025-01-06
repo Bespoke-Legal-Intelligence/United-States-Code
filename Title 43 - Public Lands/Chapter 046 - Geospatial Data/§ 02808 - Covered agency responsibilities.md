@@ -64,7 +64,7 @@ Each covered agency shall—
 
 #### (5) Reporting
 
-&emsp;The Office of Management and Budget shall include a discussion of the summaries andevaluation of the progress in establishing the National Spatial Data Infrastructure in each E-Government status report submitted under section 3606 of title 44.
+&emsp;The Office of Management and Budget shall include a discussion of the summaries and evaluation of the progress in establishing the National Spatial Data Infrastructure in each E-Government status report submitted under section 3606 of title 44.
 
 #### (c) Audits
 

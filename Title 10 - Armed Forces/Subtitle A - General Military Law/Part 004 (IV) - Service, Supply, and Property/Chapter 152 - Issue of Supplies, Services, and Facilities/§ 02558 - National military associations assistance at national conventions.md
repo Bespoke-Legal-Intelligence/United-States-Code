@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Provide Services.—The Secretary of a military department may provide services described in subsection (c) in connection with an annual conference or convention of a national military association.
+Authority To Provide Services.—The Secretary of a military department may provideservices described in subsection (c) in connection with an annual conference or convention of a national military association.
 
 (b)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall establish and administer a program under which not lessthan 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
+In General.—The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
 
 (b)
 
@@ -56,7 +56,7 @@ State.—The term "State" has the meaning given that term in section 401.
 
 <b>1973</b>—Subsec. (a)(1). Pub. L. 93–87 added the National Highway Traffic Safety Administrator to the membership of the National Highway Safety Advisory Committee.
 
-<b>1967</b>—Subsec. (a)(1). Pub. L. 90–150, §1(1), substituted "Department of Transportation" for "Department of Commerce", increased number of Committee appointees from twenty-nine to thirty-five, and provided for selection of members from representatives of national organizations of passenger car, bus, and truck owners.
+<b>1967</b>—Subsec. (a)(1). Pub. L. 90–150, §1(1), substituted "Department of Transportation" for "Department of Commerce", increased number of Committee appointees from twenty-nine to thirty-five, and providedfor selection of members from representatives of national organizations of passenger car, bus, and truck owners.
 
 Subsec. (a)(2)(A). Pub. L. 90–150, §1(2), substituted provisions for expirations of term of office of initial appointees one, two, and three years after date of appointment for twelve, twelve, and eleven members, respectively, for former provisions for such expiration one, two, and three years following enactment date of Sept. 9, 1966, for ten, ten, and nine members, respectively, and prohibited reappointment within one year after end of preceding term of member serving a three-year term of office.
 

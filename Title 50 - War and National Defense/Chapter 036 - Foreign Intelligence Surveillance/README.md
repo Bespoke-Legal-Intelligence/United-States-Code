@@ -15,6 +15,7 @@
 | [1808\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001808%20-%20Report%20of%20Attorney%20General%20to%20Congressional%20committees%3B%20limitation%20on%20authority%20or%20responsibility%20of%20information%20gathering%20activities%20of%E2%80%A6.md) | Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress. |
 | [1809\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001809%20-%20Criminal%20sanctions.md) | Criminal sanctions. |
 | [1810\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001810%20-%20Civil%20liability.md) | Civil liability. |
+| [1810a.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001810a%20-%20Reporting%20requirements%20for%20civil%20actions.md) | Reporting requirements for civil actions. |
 | [1811\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001811%20-%20Authorization%20during%20time%20of%20war.md) | Authorization during time of war. |
 | [1812\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001812%20-%20Statement%20of%20exclusive%20means%20by%20which%20electronic%20surveillance%20and%20interception%20of%20certain%20communications%20may%20be%20conducted.md) | Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted. |
 | [1813\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001813%20-%20Procedures%20for%20the%20retention%20of%20incidentally%20acquired%20communications.md) | Procedures for the retention of incidentally acquired communications. |
@@ -84,6 +85,7 @@
 | [1881e.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881e%20-%20Use%20of%20information%20acquired%20under%20this%20subchapter.md) | Use of information acquired under this subchapter. |
 | [1881f.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881f%20-%20Congressional%20oversight.md) | Congressional oversight. |
 | [1881g.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881g%20-%20Savings%20provision.md) | Savings provision. |
+| [1881h.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881h%20-%20Penalties%20for%20unauthorized%20disclosure.md) | Penalties for unauthorized disclosure. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

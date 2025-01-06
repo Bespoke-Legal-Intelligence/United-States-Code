@@ -24,7 +24,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 &emsp;(10) The time at which the warrantor will perform any obligations under the warranty.
 
-&emsp;(11) The period of time within which, after notice of a defect, malfunction, or failure toconform with the warranty, the warrantor will perform any obligations under the warranty.
+&emsp;(11) The period of time within which, after notice of a defect, malfunction, or failure to conform with the warranty, the warrantor will perform any obligations under the warranty.
 
 &emsp;(12) The characteristics or properties of the products, or parts thereof, that are not covered by the warranty.
 
@@ -88,7 +88,7 @@ Pub. L. 114–51, §2, Sept. 24, 2015, 129 Stat. 494, provided that: "Congress m
 
 &emsp;"(2) Modernizing warranty notification rules is necessary to allow the United States to continue to compete globally in manufacturing, trade, and the development of consumer products connected to the Internet.
 
-&emsp;"(3) Allowing an electronic warranty option would expand consumer access to relevant consumer information in an environmentally friendly way, andwould provide additional flexibility to manufacturers to meet their labeling and warranty requirements."
+&emsp;"(3) Allowing an electronic warranty option would expand consumer access to relevant consumer information in an environmentally friendly way, and would provide additional flexibility to manufacturers to meet their labeling and warranty requirements."
 
 #### Revision of Rules
 

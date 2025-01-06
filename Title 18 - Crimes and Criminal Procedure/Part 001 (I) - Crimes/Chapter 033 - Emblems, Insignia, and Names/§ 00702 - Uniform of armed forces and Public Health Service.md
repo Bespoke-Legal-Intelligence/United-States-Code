@@ -8,7 +8,7 @@ Whoever, in any place within the jurisdiction of the United States or in the Can
 
 #### 1948 Act
 
-Based on section 1393 of title 10, U.S.C., 1940 ed., Army and Air Force, and section 228 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (June 3, 1916, ch. 134, §125, 39 Stat. 216 (2d paragraph); July 1, 1944, ch. 373, §510, 58 Stat. 711).
+Based on section 1393 of title 10, U.S.C., 1940 ed., Army and Air Force, and section 228 of title 42, U.S.C.,1940 ed., The Public Health and Welfare (June 3, 1916, ch. 134, §125, 39 Stat. 216 (2d paragraph); July 1, 1944, ch. 373, §510, 58 Stat. 711).
 
 "Auxiliary of such" was inserted to extend protection to the uniforms of any auxiliary corps that may be established.
 

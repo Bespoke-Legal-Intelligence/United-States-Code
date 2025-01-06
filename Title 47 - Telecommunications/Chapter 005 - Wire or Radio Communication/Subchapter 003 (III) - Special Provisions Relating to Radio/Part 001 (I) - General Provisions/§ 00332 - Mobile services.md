@@ -42,7 +42,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (2) Non-common carrier treatment of private mobile services
 
-&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10, 1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
+&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10,1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
 
 #### (3) State preemption
 
@@ -52,7 +52,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;(ii) such market conditions exist and such service is a replacement for land line telephone exchange service for a substantial portion of the telephone land line exchange service within such State.
 
-> &emsp;The Commission shall provide reasonable opportunity for public comment in response tosuch petition, and shall, within 9 months after the date of its submission, grant or deny such petition. If the Commission grants such petition, the Commission shall authorize the State to exercise under State law such authority over rates, for such periods of time, as the Commission deems necessary to ensure that such rates are just and reasonable and not unjustly or unreasonably discriminatory.
+> &emsp;The Commission shall provide reasonable opportunity for public comment in response to such petition, and shall, within 9 months after the date of its submission, grant or deny such petition. If the Commission grants such petition, the Commission shall authorize the State to exercise under State law such authority over rates, for such periods of time, as the Commission deems necessary to ensure that such rates are just and reasonable and not unjustly or unreasonably discriminatory.
 
 &emsp;(B) If a State has in effect on June 1, 1993, any regulation concerning the rates for any commercial mobile service offered in such State on such date, such State may, no later than 1 year after August 10, 1993, petition the Commission requesting that the State be authorized to continue exercising authority over such rates. If a State files such a petition, the State's existing regulation shall, notwithstanding subparagraph (A), remain in effect until the Commission completes all action (including any reconsideration) on such petition. The Commission shall review such petition in accordance with the procedures established in such subparagraph, shall complete all action (including any reconsideration) within 12 months after such petition is filed, and shall grant such petition if the State satisfies the showing required under subparagraph (A)(i) or (A)(ii). If the Commission grants such petition, the Commission shall authorize the State to exercise under State law such authority over rates, for such period of time, as the Commission deems necessary to ensure that such rates are just and reasonable and not unjustly or unreasonably discriminatory. After a reasonable period of time, as determined by the Commission, has elapsed from the issuance of an order under subparagraph (A) or this subparagraph, any interested party may petition the Commission for an order that the exercise of authority by a State pursuant to such subparagraph is no longer necessary to ensure that the rates for commercial mobile services are just and reasonable and not unjustly or unreasonably discriminatory. The Commission shall provide reasonable opportunity for public comment in response to such petition, and shall, within 9 months after the date of its submission, grant or deny such petition in whole or in part.
 
@@ -134,7 +134,7 @@ The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is
 
 #### Codification
 
-In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679(b) of the Revised Statutes (31 U.S.C.665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -164,7 +164,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Effective dates of mobile service amendments.—The amendments made by subsection (b)(2) \[amending this section and sections 152 and 153 of this title\] shall be effective on the date of enactment of this Act \[Aug. 10, 1993\], except that—
 
-&emsp;"(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amendedby such subsection, shall take effect 1 year after such date of enactment; and
+&emsp;"(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amended by such subsection, shall take effect 1 year after such date of enactment; and
 
 &emsp;"(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of such Act \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment."
 

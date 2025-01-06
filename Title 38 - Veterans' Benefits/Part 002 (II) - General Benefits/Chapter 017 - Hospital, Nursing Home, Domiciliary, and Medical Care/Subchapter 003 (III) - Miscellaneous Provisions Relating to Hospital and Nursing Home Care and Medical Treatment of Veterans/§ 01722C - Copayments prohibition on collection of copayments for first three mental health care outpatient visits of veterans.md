@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as provided in subsection (b), notwithstanding section 1710(g) of this title or any other provision of law, the Secretary may not impose or collect a copayment for the first three mental health care outpatient visits of a veteran in a calendar year for which the veteran would otherwise be required to pay a copayment under the laws administered by the Secretary.
+Prohibition.—Except as provided in subsection (b), notwithstanding section 1710(g) ofthis title or any other provision of law, the Secretary may not impose or collect a copayment for the first three mental health care outpatient visits of a veteran in a calendar year for which the veteran would otherwise be required to pay a copayment under the laws administered by the Secretary.
 
 (b)
 

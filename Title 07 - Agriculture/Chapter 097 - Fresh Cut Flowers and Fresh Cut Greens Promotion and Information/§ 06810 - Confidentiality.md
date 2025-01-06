@@ -10,7 +10,7 @@ Any person who knowingly violates subsection (a) or the confidentiality terms of
 
 #### (c) Additional prohibition
 
-No information obtained under this chapter may be made available to any agency or officerof the Federal Government for any purpose other than the implementation of this chapter or an investigatory or enforcement action necessary for the implementation of this chapter.
+No information obtained under this chapter may be made available to any agency or officer of the Federal Government for any purpose other than the implementation of this chapter or an investigatory or enforcement action necessary for the implementation of this chapter.
 
 #### (d) Withholding information from Congress prohibited
 

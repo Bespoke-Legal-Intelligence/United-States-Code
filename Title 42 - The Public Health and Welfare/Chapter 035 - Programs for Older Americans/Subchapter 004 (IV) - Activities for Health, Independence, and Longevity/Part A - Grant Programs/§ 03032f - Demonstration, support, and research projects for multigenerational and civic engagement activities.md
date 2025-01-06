@@ -72,7 +72,7 @@ Organizations eligible to receive a grant or enter into a contract under subsect
 
 #### (1) In general
 
-&emsp;Not later than 3 years after March 25, 2020, the Assistant Secretary shall, through data submitted by organizations carrying out projects through grants or contracts under this section, evaluate the activities supported through such grants and contracts to determine—
+&emsp;Not later than 3 years after March 25, 2020, the Assistant Secretary shall, through datasubmitted by organizations carrying out projects through grants or contracts under this section, evaluate the activities supported through such grants and contracts to determine—
 
 &emsp;&emsp;(A) the effectiveness of such activities;
 
@@ -120,7 +120,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) individuals in younger generations.
 
-(Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261;amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555; Pub. L. 114–144, §5(e), Apr. 19, 2016, 130 Stat. 342; Pub. L. 116–131, title III, §306, Mar. 25, 2020, 134 Stat. 264.)
+(Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555; Pub. L. 114–144, §5(e), Apr. 19, 2016, 130 Stat. 342; Pub. L. 116–131, title III, §306, Mar. 25, 2020, 134 Stat. 264.)
 
 #### <b>Editorial Notes</b>
 

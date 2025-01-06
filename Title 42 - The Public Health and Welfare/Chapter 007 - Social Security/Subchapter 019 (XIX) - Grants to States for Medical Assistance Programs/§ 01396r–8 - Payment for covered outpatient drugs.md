@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for payment to be available under section 1396b(a) of this title or under part B of subchapter XVIII for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall become effective as of the date on which the agreement is entered into or, at State option, on any date thereafter on or before the first day of the calendar quarterthat begins more than 60 days after the date the agreement is entered into.
+&emsp;In order for payment to be available under section 1396b(a) of this title or under part B of subchapter XVIII for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall become effective as of thedate on which the agreement is entered into or, at State option, on any date thereafter on or before the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
 
 #### (2) Effective date
 
@@ -908,7 +908,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(iii) is produced at an establishment licensed under such section to produce such product; and
 
-&emsp;&emsp;(C) insulin certified under section 506 <sup>3</sup> of the Federal Food, Drug, and Cosmetic Act.
+&emsp;&emsp;(C) insulin certified under section 506 <sup>4</sup> of the Federal Food, Drug, and Cosmetic Act.
 
 #### (3) Limiting definition
 

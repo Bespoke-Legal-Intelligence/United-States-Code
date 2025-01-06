@@ -100,7 +100,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;&emsp;(C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3317(b)(5)); <sup>1</sup> and
 
-&emsp;&emsp;(D) actions proposed or anticipated to be undertaken, and any proposed legislationnecessary or appropriate, to achieve any of such policy and negotiating objectives.
+&emsp;&emsp;(D) actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
 
 #### (2) Consultation
 
@@ -112,7 +112,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II,respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
@@ -122,7 +122,7 @@ The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 
-Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b)(5)(D)(ii), is section 108(b)(5) of Pub. L. 103–182, which was classified to section 3317(b)(5) of Title 19, Customs Duties, prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (h)(1)(C), is section 108(b)(5) of Pub. L. 103–182, which was classified to section 3317(b)(5) of Title 19, Customs Duties, prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Amendments
 

@@ -6,7 +6,7 @@ If the President shall have reasonable cause to believe that any act is about to
 
 (b)(1) During the time of war, the President may, through any agency that he may designate, and under such rules and regulations as he may prescribe, by means of instructions, licenses, or otherwise—
 
-&emsp;(A) investigate, regulate, or prohibit, any transactions in foreign exchange, transfers of credit or payments between, by, through, or to any banking institution, and the importing, exporting, hoarding, melting, or earmarking of gold or silver coin or bullion, currency or securities, and
+&emsp;(A) investigate, regulate, or prohibit, any transactions in foreign exchange, transfers of credit or payments between, by, through, or toany banking institution, and the importing, exporting, hoarding, melting, or earmarking of gold or silver coin or bullion, currency or securities, and
 
 &emsp;(B) investigate, regulate, direct and compel, nullify, void, prevent or prohibit, any acquisition holding, withholding, use, transfer, withdrawal, transportation, importation or exportation of, or dealing in, or exercising any right, power, or privilege with respect to, or transactions involving, any property in which any foreign country or a national thereof has any interest,
 
@@ -86,7 +86,7 @@ Office of World War II Alien Property Custodian terminated and powers, duties, a
 
 Proc. No. 8271, June 26, 2008, 73 F.R. 36785, provided:
 
-I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note) \[now 50 U.S.C. 4305 note\], hereby find that the continuation of the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 <i>et seq</i>.) \[now 50 U.S.C. 4301 et seq.\] (TWEA) with respect to North Korea, as authorized in Proclamation 2914 of December 16, 1950, most recently continued under Presidential Determination 2007–32 of September 13, 2007 (72 <i>FR</i> 53407), and implemented by the regulations set forth below, is no longer in the national interest of the United States.
+I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note) \[now 50 U.S.C. 4305 note\], hereby find that the continuation of the exercise of authorities under the Trading With the Enemy Act (50 U.S.C. App. 1 <i>et seq</i>.) \[now 50 U.S.C. 4301 et seq.\] (TWEA) with respect to North Korea, as authorized in Proclamation 2914 of December 16, 1950, most recently continued under Presidential Determination 2007–32 of September13, 2007 (72 <i>FR</i> 53407), and implemented by the regulations set forth below, is no longer in the national interest of the United States.
 
 Section 1. The exercise of TWEA authorities with respect to North Korea, which were implemented by the Foreign Assets Control Regulations, 31 C.F.R. part 500, and the Transaction Control Regulations, 31 C.F.R. part 505, and that were continued by Presidential Determination 2007–32 of September 13, 2007, is terminated, and Presidential Determination 2007–32 is rescinded with respect to North Korea.
 
@@ -96,7 +96,7 @@ Sec. 3. This proclamation is not intended to, and does not, create any right, be
 
 Sec. 4. This proclamation is effective at 12:01 a.m. eastern daylight time on June 27, 2008.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, in the year of ourLord two thousand eight, and of the Independence of the United States of America the two hundred and thirty-second.
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, in the year of our Lord two thousand eight, and of the Independence of the United States of America the two hundred and thirty-second.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -230,7 +230,7 @@ The "effective date of this Order" with respect to any foreign country not desig
 
 #### section 4. records of foreign banking and security transactions; investigations
 
-A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[50 U.S.C. 4305(b)\], as amended, or relative to any property in which any foreign countryor any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
+A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[50 U.S.C. 4305(b)\], as amended, or relative to any property in which any foreign country or any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
 
 B. Every person engaging in any of the transactions referred to in sections 1 and 2 of this Order shall keep a full record of each such transaction engaged in by him, regardless of whether such transaction is effected pursuant to license or otherwise, and such record shall be available for examination for at least one year after the date of such transaction.
 
@@ -274,7 +274,7 @@ Executive Order No. 8389 of April 10, 1940, as amended, shall no longer be deeme
 
 #### section 7. regulations by secretary of the treasury
 
-Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empoweredto prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
+Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
 
 #### section 8. offenses and penalties under act oct. 6, 1917
 
@@ -302,21 +302,23 @@ The terms and provisions of Executive Order 9095 of March 11, 1942, as amended \
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
 
-Determination of President of the United States, No. 2023–10, Sept. 13, 2023, 88 F.R. 64347, provided:
+Determination of President of the United States, No. 2024–11, Sept. 13, 2024, 89 F.R. 76397, provided:
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 2, 2022 (87 <i>FR</i> 54859, September 8, 2022), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2023.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 13, 2023 (88 <i>FR</i> 64347, September 18, 2023), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2024.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2024, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2025, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 CFR part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2023–10, Sept. 13, 2023, 88 F.R. 64347.
 
 Determination of President of the United States, No. 2022–22, Sept. 2, 2022, 87 F.R. 54859.
 

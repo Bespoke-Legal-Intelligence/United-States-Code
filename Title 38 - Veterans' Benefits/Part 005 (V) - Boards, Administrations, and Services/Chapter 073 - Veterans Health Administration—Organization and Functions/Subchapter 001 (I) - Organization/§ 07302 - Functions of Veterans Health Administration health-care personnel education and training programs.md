@@ -34,7 +34,7 @@
 
 &emsp;(A) is experiencing a shortage of physicians; and
 
-&emsp;(B) is located in a community that is designated as a health professional shortage area (as defined in section 332 of the Public Health Service Act (42 U.S.C. 254e)).
+&emsp;(B) is located in a community that is designated as a health professional shortage area\(as defined in section 332 of the Public Health Service Act (42 U.S.C. 254e)).
 
 (2) In carrying out paragraph (1), the Secretary shall—
 
@@ -126,7 +126,7 @@ Definitions.—In this section:
 
 #### Pilot Program on Graduate Medical Education and Residency
 
-Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9),Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, §5107, Oct. 1, 2020, 134 Stat. 749, provided that:
+Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, §5107, Oct. 1, 2020, 134 Stat. 749, provided that:
 
 "(a)
 

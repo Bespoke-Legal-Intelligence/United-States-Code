@@ -4,7 +4,7 @@
 
 &emsp;(1) With respect to a member on active duty or active duty for training under a call or order to duty that does not specify a period of less than 31 days, insurance under this subchapter shall cease as follows:
 
-&emsp;&emsp;(A) 120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease on the earlier of the following dates (but in no event before the end of 120 days after such separation or release):
+&emsp;&emsp;(A) 120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease on the earlier of the following dates (but in noevent before the end of 120 days after such separation or release):
 
 &emsp;&emsp;&emsp;(i) The date on which the insured ceases to be totally disabled.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) in the case of a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, 120 days after separation or release from such assignment; or
 
-&emsp;&emsp;&emsp;(II) in the case of any other member of the uniformed services, 120 days after thedate of the member's separation or release from the uniformed services; or
+&emsp;&emsp;&emsp;(II) in the case of any other member of the uniformed services, 120 days after the date of the member's separation or release from the uniformed services; or
 
 &emsp;&emsp;&emsp;(iii) 120 days after the termination of the dependent's status as an insurable dependent of the member.
 
@@ -78,7 +78,7 @@ Subsec. (a)(1)(B). Pub. L. 109–233, §301(a)(2)(B), substituted "At" for "at" 
 
 Subsec. (a)(4). Pub. L. 109–233, §301(b), substantially rewrote par. (4). Prior to amendment, par. (4) read as follows: "With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment."
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted "and any insurance thereunder on any insurable dependent of such a member," after "any insurance thereunder on any memberof the uniformed services," and substituted "and such insurance shall cease as follows:" for ", and such insurance shall cease—".
+<b>2001</b>—Subsec. (a). Pub. L. 107–14, §4(c)(1)(A), (2)(A), in introductory provisions, inserted "and any insurance thereunder on any insurable dependent of such a member," after "any insurance thereunder on any member of the uniformed services," and substituted "and such insurance shall cease as follows:" for ", and such insurance shall cease—".
 
 Subsec. (a)(1). Pub. L. 107–14, §4(c)(2)(B), (C)(i), in introductory provisions, substituted "With respect" for "with respect" and "31 days, insurance under this subchapter shall cease—" for "thirty-one days—".
 
@@ -110,7 +110,7 @@ Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a sem
 
 Subsec. (a)(4). Pub. L. 104–275, §402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
-"(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
+"(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of thistitle, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
 
 "(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier."
 

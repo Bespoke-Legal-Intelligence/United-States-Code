@@ -42,7 +42,7 @@ The Cybersecurity Act of 2015, referred to in subsec. (b)(2), is div. N of Pub. 
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §9001(c)(1)(A)(i), in heading, substituted "Executive Assistant Director" for "Assistant Director" and, in introductory provisions, substituted "Executive Assistant Director for Cybersecurity" for "Assistant Director for Cybersecurity" and " 'the Executive Assistant Director' " for "the 'Assistant Director' ".
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §9001(c)(1)(A)(i), in heading, substituted "Executive Assistant Director" for "Assistant Director" and, in introductory provisions, substituted "Executive Assistant Director for Cybersecurity" for "Assistant Director forCybersecurity" and " 'the Executive Assistant Director' " for "the 'Assistant Director' ".
 
 Subsec. (a)(3). Pub. L. 116–283, §9001(c)(1)(A)(ii), inserted "or Assistant Director for Cybersecurity" after "Assistant Secretary for Cybersecurity" and substituted "Executive Assistant Director for Cybersecurity." for "Assistant Director for Cybersecurity."
 

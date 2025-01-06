@@ -46,7 +46,7 @@ Pub. L. 100–687, div. A, title IV, §401, Nov. 18, 1988, 102 Stat. 4122, as am
 
 "(a)
 
-General Effective Date.—Except as otherwise provided in this section, this division (and the amendments made by this Act) \[div. A (§§1–403) of Pub. L. 100–687, known as the 'Veterans' Judicial Review Act', see Tables for classification\] shall take effect on September 1, 1989.
+General Effective Date.—Except as otherwise provided in this section, this division (and the amendments made by this Act) \[div. A (§§1–403) of Pub. L.100–687, known as the 'Veterans' Judicial Review Act', see Tables for classification\] shall take effect on September 1, 1989.
 
 "(b)
 

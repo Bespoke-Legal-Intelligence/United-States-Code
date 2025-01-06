@@ -154,7 +154,7 @@ A State energy office or Indian Tribe seeking a grant under the program shall su
 
 #### (9) Administrative costs
 
-&emsp;A State energy office or Indian Tribe that receives a grant under the program shall use not more than 20 percent of the grant amount for planning, administration, or technical assistance relating to a high-efficiency electric home rebate program.
+&emsp;A State energy office or Indian Tribe that receives a grant under the program shall usenot more than 20 percent of the grant amount for planning, administration, or technical assistance relating to a high-efficiency electric home rebate program.
 
 #### (d) Definitions
 

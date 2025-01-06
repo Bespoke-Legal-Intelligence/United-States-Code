@@ -118,7 +118,7 @@ Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 
 
 Enslaved Individuals Who Endured the Middle Passage Commemorative Work.—Pub. L. 117–328, div. DD, title VII, §707, Dec. 29, 2022, 136 Stat. 5620.
 
-Every Word We Utter Commemorative Work.—Pub. L. 116–217, Dec. 17, 2020, 134 Stat. 1052.
+Every Word We Utter Commemorative Work.—Pub. L. 116–217, Dec. 17, 2020, 134 Stat. 1052; Pub. L. 118–226, Jan. 4, 2025, 138 Stat. 2819.
 
 Fallen Journalists Memorial.—Pub. L. 116–253, Dec. 23, 2020, 134 Stat. 1135; Pub. L. 117–328, div. DD, title VII, §708, Dec. 29, 2022, 136 Stat. 5620.
 

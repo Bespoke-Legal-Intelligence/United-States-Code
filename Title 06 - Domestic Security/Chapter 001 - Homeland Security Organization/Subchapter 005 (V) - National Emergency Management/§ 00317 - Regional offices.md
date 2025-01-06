@@ -132,13 +132,13 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 &emsp;If the Administrator determines that statutory authority is inadequate for the preparedness and deployment of individuals in strike teams under this subsection, the Administrator shall report to Congress regarding the additional statutory authorities that the Administrator determines are necessary.
 
-(Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1401; amended Pub. L. 110–53, title IV, §404, Aug. 3, 2007, 121 Stat. 303.)
+(Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat.1401; amended Pub. L. 110–53, title IV, §404, Aug. 3, 2007, 121 Stat. 303.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat. 2214, related to the role of the FederalEmergency Management Agency, prior to repeal by Pub. L. 109–295, title VI, §611(4), Oct. 4. 2006, 120 Stat. 1395.
+A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat. 2214, related to the role of the Federal Emergency Management Agency, prior to repeal by Pub. L. 109–295, title VI, §611(4), Oct. 4. 2006, 120 Stat. 1395.
 
 #### Amendments
 

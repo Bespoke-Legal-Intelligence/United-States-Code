@@ -102,7 +102,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (C) Public availability on website
 
-&emsp;&emsp;The Attorney General shall make the summary of each review conducted under thissection available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
+&emsp;&emsp;The Attorney General shall make the summary of each review conducted under this section available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
 
 #### (D) Mandatory exclusion
 
@@ -234,7 +234,7 @@ The effective date of this section, referred to in subsec. (b)(6), probably mean
 
 #### Effective Date
 
-Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under section 11102 of this title.
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21,2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under section 11102 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

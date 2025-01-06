@@ -66,7 +66,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (B) Terms and privileges
 
-&emsp;&emsp;Each member of the Advisory Committee shall serve for a term of 2 years and shall be eligible for reappointment for not more than 3 consecutive terms. The Commissioners shall notify the Advisory Committee in advance of each meeting of the Commissioners. The Advisory Committee may attend each meeting and may examine and be heard on all proposed programs, investigations, reports, recommendations, and regulations of the Commissioners.
+&emsp;&emsp;Each member of the Advisory Committee shall serve for a term of 2 years and shall be eligible for reappointment for not more than 3 consecutive terms. The Commissioners shall notify the Advisory Committee in advance of each meeting of the Commissioners.The Advisory Committee may attend each meeting and may examine and be heard on all proposed programs, investigations, reports, recommendations, and regulations of the Commissioners.
 
 #### (C) Procedures
 

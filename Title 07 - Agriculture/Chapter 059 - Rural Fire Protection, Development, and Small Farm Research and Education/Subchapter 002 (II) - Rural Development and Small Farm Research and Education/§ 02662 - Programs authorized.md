@@ -126,7 +126,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### (C) Rural health leadership development
 
-&emsp;&emsp;The Secretary, in consultation with the Office of Rural Health Policy of the Department of Health and Human Services, may make grants to academic medical centers or land grant colleges and universities, or any combination thereof, for the establishmentof rural health leadership development education programs that shall assist rural communities in developing health care services and facilities that will provide the maximum benefit for the resources invested and assist community leaders and public officials in understanding their roles and responsibilities relative to rural health services and facilities, including—
+&emsp;&emsp;The Secretary, in consultation with the Office of Rural Health Policy of the Department of Health and Human Services, may make grants to academic medical centers or land grant colleges and universities, or any combination thereof, for the establishment of rural health leadership development education programs that shall assist rural communities in developing health care services and facilities that will provide the maximum benefit for the resources invested and assist community leaders and public officials in understanding their roles and responsibilities relative to rural health services and facilities, including—
 
 &emsp;&emsp;&emsp;(i) community decisions regarding funding for and retention of rural hospitals;
 
@@ -148,7 +148,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### (4) Procedures and limitations
 
-&emsp;The Secretary shall establish policies, procedures and limitations that shall apply to States or entities described in paragraph (1)(C) that desire to receive a grant under this subsection. In States with land-grant colleges and universities that are eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.), and the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University, and universities which receive Rural Health Research Center grants, such eligible institutions shall mutually determine the type of rural health and safety education program needed in the State within which such institutions reside.
+&emsp;The Secretary shall establish policies, procedures and limitations that shall apply to States or entities described in paragraph (1)(C) that desire to receive a grant under this subsection. In States with land-grant colleges and universities that are eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.), and the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University, and universities which receive Rural Health Research Center grants, such eligible institutions shall mutually determine the type ofrural health and safety education program needed in the State within which such institutions reside.
 
 #### (5) Limitations on authorization of appropriations
 
@@ -224,7 +224,7 @@ Subsec. (f)(1)(D)(viii). Pub. L. 101–624, §2389(b)(5), added cl. (viii).
 
 Subsec. (f)(1)(E). Pub. L. 101–624, §2389(b)(2), redesignated former subpar. (C) as (E).
 
-Subsec. (f)(1)(F). Pub. L. 101–624, §2389(b)(6), substituted "shall work with the appropriate State office of rural health, State department or agency of mental health, and other" for "is encouraged to work with" and "an annual comprehensive plan" for "a comprehensive plan", struck out "special" before "grant funds", and inserted at end "For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B)."
+Subsec. (f)(1)(F). Pub. L. 101–624, §2389(b)(6), substituted "shall work with the appropriate State officeof rural health, State department or agency of mental health, and other" for "is encouraged to work with" and "an annual comprehensive plan" for "a comprehensive plan", struck out "special" before "grant funds", and inserted at end "For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B)."
 
 Pub. L. 101–624, §2389(b)(2), redesignated former subpar. (D) as (F).
 

@@ -6,7 +6,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(1) Merchandise, when—
 
-&emsp;&emsp;(A) the aggregate value of the shipment does not exceed an amount specified by theSecretary by regulation, but not more than $2,500; or
+&emsp;&emsp;(A) the aggregate value of the shipment does not exceed an amount specified by the Secretary by regulation, but not more than $2,500; or
 
 &emsp;&emsp;(B) different commercial facilitation and risk considerations that may vary for different classes or kinds of merchandise or different classes of transactions may dictate;
 
@@ -70,7 +70,7 @@ Provision for an entry, separate from that of other merchandise, of wearing appa
 
 Subsec. (a)(2). Pub. L. 103–182, §662(2), substituted "such amounts as the Secretary may prescribe" for "$10,000" in introductory provisions.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418, substituted "the Harmonized Tariff Schedule of the United States" for "the Tariff Schedules of the United States" in closing provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418, substituted "the Harmonized Tariff Schedule of the United States" for"the Tariff Schedules of the United States" in closing provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 "(A) schedule 3,
 

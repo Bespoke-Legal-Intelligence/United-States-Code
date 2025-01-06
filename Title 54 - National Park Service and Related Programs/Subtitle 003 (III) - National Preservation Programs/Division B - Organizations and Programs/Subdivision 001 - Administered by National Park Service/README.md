@@ -90,7 +90,7 @@ Property descriptions.—The property referred to in paragraph (2) \[probably sh
 
 &emsp;&emsp;"(C) Topaz, depicted in Figure 12.2 of the Site Document.
 
-&emsp;&emsp;"(D) Honouliuli, located on the southern part of the Island of Oahu, Hawaii, and within the land area bounded by H1 to the south, Route 750 (Kunia Road) to the east, the Honouliuli Forest Reserve to the west, and Kunia town and Schofield Barracks to the north.
+&emsp;&emsp;"(D) Honouliuli, located on the southern part of the Island of Oahu, Hawaii, and within the land area bounded by H1 to the south, Route 750 (KuniaRoad) to the east, the Honouliuli Forest Reserve to the west, and Kunia town and Schofield Barracks to the north.
 
 &emsp;&emsp;"(E) Heart Mountain, depicted in Figure 6.3 of the Site Document.
 

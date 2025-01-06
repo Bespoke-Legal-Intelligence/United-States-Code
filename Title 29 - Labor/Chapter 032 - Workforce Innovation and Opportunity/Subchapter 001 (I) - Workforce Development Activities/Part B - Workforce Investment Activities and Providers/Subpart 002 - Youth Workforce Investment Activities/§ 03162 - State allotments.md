@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) for each fiscal year for which the amount appropriated under section 3181(a) of this title exceeds $925,000,000, reserve 4 percent of the excess amount to provide youth workforce investment activities under section 3222 of this title (relating to migrant and seasonal farmworkers); and
 
-&emsp;(2) use the remainder of the amount appropriated under section 3181(a) of this title for a fiscal year to make allotments and grants in accordance with subsection (b).
+&emsp;(2) use the remainder of the amount appropriated under section 3181(a) of this title for afiscal year to make allotments and grants in accordance with subsection (b).
 
 #### (b) Allotment among States
 
@@ -118,7 +118,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(i) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State; or
 
-&emsp;&emsp;&emsp;(ii) the number that represents the number of unemployed individuals in excess of4.5 percent of the civilian labor force in areas of substantial unemployment in such State.
+&emsp;&emsp;&emsp;(ii) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in areas of substantial unemployment in such State.
 
 #### (E) Low-income level
 

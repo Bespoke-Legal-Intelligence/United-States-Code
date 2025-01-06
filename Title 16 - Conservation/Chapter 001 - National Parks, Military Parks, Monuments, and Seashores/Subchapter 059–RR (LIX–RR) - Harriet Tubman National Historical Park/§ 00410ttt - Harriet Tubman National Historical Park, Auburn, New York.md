@@ -112,7 +112,7 @@ In this section:
 
 #### (ii) Finding
 
-&emsp;&emsp;&emsp;No agreement subject to review under this subparagraph shall take effect untilthe date on which the Attorney General issues a finding that the proposed agreement does not violate the Establishment Clause of the first amendment to the Constitution.
+&emsp;&emsp;&emsp;No agreement subject to review under this subparagraph shall take effect until the date on which the Attorney General issues a finding that the proposed agreement does not violate the Establishment Clause of the first amendment to the Constitution.
 
 #### (d) General management plan
 

@@ -42,7 +42,7 @@ In this section:
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term "liquid nicotine container" does not include a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary orreasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
+&emsp;&emsp;The term "liquid nicotine container" does not include a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
 
 #### (3) Nicotine
 

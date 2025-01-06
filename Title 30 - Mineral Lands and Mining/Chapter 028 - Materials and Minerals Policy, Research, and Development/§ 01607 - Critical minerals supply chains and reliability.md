@@ -66,7 +66,7 @@ Not later than 1 year after November 15, 2021, the Secretaries shall submit to C
 
 #### (e) Performance metric
 
-Not later than 90 days after the date of submission of the report under subsection (d), and after providing public notice and an opportunity to comment, the Secretaries, using as a baselinethe period of time quantified under paragraph (3) of that subsection, shall develop and publish a performance metric for evaluating the progress made by the Executive branch to expedite the permitting of activities that will increase exploration for, and development of, domestic critical minerals, while maintaining environmental standards.
+Not later than 90 days after the date of submission of the report under subsection (d), and after providing public notice and an opportunity to comment, the Secretaries, using as a baseline the period of time quantified under paragraph (3) of that subsection, shall develop and publish a performance metric for evaluating the progress made by the Executive branch to expedite the permitting of activities that will increase exploration for, and development of, domestic critical minerals, while maintaining environmental standards.
 
 #### (f) Annual reports
 

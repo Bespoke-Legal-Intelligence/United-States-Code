@@ -8,7 +8,7 @@ Delimiting Period for Completion.—(1) Subject to paragraph (4) of this subsect
 
 \[(3) Repealed. Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34.\]
 
-(4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reductionin force as described in section 3011(a)(1)(A)(ii)(III) of this title.
+(4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
 (b)
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 97–295, §4(39)(B), substituted "June 1, 1966" for "the d
 
 Subsec. (c). Pub. L. 97–35 struck out provisions relating to applicability to flight training.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–466 inserted "made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) thetermination of the period of such mental or physical disability, or (C) the effective date of the Veterans' Rehabilitation and Education Amendments of 1980, whichever is the latest" after "application", inserted "so" after "that such veteran was"; and inserted provision relating to the running of the delimiting period when an extension of the applicable delimiting period is granted a veteran.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–466 inserted "made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of such mental or physical disability, or (C) the effective date of the Veterans' Rehabilitation and Education Amendments of 1980, whichever is the latest" after "application", inserted "so" after "that such veteran was"; and inserted provision relating to the running of the delimiting period when an extension of the applicable delimiting period is granted a veteran.
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–202 designated existing provisions as par. (1), added par. (2), and inserted "except that, in the case of any eligible veteran who was prevented from initiating or completing such veteran's chosen program of education within such time period because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application, be granted an extension of the applicable delimiting period for such length of time as the Administrator determines, from the evidence, that such veteran was prevented from initiating or completing such program of education" after "active duty after January 31, 1955" in par. (1) as so redesignated.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Proposal of Regulations
 
-Pub. L. 97–306, title II, §206(b), Oct. 14, 1982, 96 Stat. 1435, directed Administrator of Veterans' Affairs to publish, not later than 30 days after Oct. 14, 1982, proposed regulations under subsec. (a)(3)(C)(i) of this section and to publish, not later than 90 days after Oct. 14, 1982, final regulations under subsec. (a)(3)(C)(i).
+Pub. L. 97–306, title II, §206(b), Oct. 14, 1982, 96 Stat. 1435, directed Administrator of Veterans' Affairs topublish, not later than 30 days after Oct. 14, 1982, proposed regulations under subsec. (a)(3)(C)(i) of this section and to publish, not later than 90 days after Oct. 14, 1982, final regulations under subsec. (a)(3)(C)(i).
 
 #### Extension of Time for Pursuit of Educational Programs
 

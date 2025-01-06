@@ -50,7 +50,7 @@ In general.—The following applicable percentage of any amount that remains in 
 
 | <b> If the amount remains in the fund at  the close of the—</b> | <b>The applicable percentage is—</b> |
 | :--- | ---: |
-| 26th taxable year | 20 percent   |
+| 26th taxable year | 20 percent&nbsp;&nbsp; |
 | 27th taxable year | 40 percent&nbsp;&nbsp; |
 | 28th taxable year | 60 percent&nbsp;&nbsp; |
 | 29th taxable year | 80 percent&nbsp;&nbsp; |
@@ -94,7 +94,7 @@ Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attr
 
 &emsp;&emsp;(A) that portion shall not be taken into account under paragraph (1); and
 
-&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172 of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
+&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
 
 &emsp;(4)
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 #### Application of Sunset Provision to Subsection (f)(2)
 
-Pub. L. 110–181, div. C, title XXXV, §3528, Jan. 28, 2008, 122 Stat. 603, provided that: "For purposes of section 303of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Public Law 108–27, \[former\] 26 U.S.C. 1 note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting "15 percent" for "20 percent"\] shall be deemed to have been made to section 53511(f)(2) of title 46, United States Code."
+Pub. L. 110–181, div. C, title XXXV, §3528, Jan. 28, 2008, 122 Stat. 603, provided that: "For purposes of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Public Law 108–27, \[former\] 26 U.S.C. 1 note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting "15 percent" for "20 percent"\] shall be deemed to have been made to section 53511(f)(2) of title 46, United States Code."
 
 \[Section 303 of Pub. L. 108–27 was repealed by Pub. L. 112–240, title I, §102(a), Jan. 2, 2013, 126 Stat. 2318.\]
 

@@ -228,5 +228,5 @@ Pub. L. 116–260, div. U, title IX, §903, Dec. 27, 2020, 134 Stat. 2298, provi
 
 &emsp;"(4) the term 'online service' means any internet-facing service, including a website, email, a virtual private network, or a custom application; and
 
-&emsp;"(5) the term 'State' means any State of the United States, the District of Columbia, the Commonwealthof Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States."
+&emsp;"(5) the term 'State' means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States."
 

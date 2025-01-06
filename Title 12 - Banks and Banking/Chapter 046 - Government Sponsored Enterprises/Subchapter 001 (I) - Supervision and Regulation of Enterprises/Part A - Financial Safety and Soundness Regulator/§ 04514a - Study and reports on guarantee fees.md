@@ -6,7 +6,7 @@ The Director shall conduct an ongoing study of fees charged by enterprises for g
 
 #### (b) Collection of data
 
-The Director shall, by regulation or order, establish procedures for the collection of data from enterprises for purposes of this subsection,<sup>1</sup> including the format and the process for collection of such data.
+The Director shall, by regulation or order, establish procedures for the collection of datafrom enterprises for purposes of this subsection,<sup>1</sup> including the format and the process for collection of such data.
 
 #### (c) Reports to Congress
 

@@ -78,7 +78,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;(E) in addition to amounts made available for the purpose through annual appropriations—
 
-&emsp;&emsp;&emsp;(i) to pay the costs associated with the construction of on-reservation Central Arizona Project distribution systems for the Yavapai Apache (Camp Verde), Tohono O'odham Nation (Sif Oidak District), Pascua Yaqui, and Tonto Apache tribes; and
+&emsp;&emsp;&emsp;(i) to pay the costs associated with the construction of on-reservation Central Arizona Project distribution systems for theYavapai Apache (Camp Verde), Tohono O'odham Nation (Sif Oidak District), Pascua Yaqui, and Tonto Apache tribes; and
 
 &emsp;&emsp;&emsp;(ii) to make payments to those tribes in accordance with paragraph 8(d)(i)(1)(iv) of the repayment stipulation (as defined in section 2 of the Arizona Water Settlements Act), except that if a water rights settlement Act of Congress authorizes such construction, payments to those tribes shall be made from funds in the Future Indian Water Settlement Subaccount; and
 
@@ -94,7 +94,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;(C) to reimburse the general fund of the Treasury for fixed operation, maintenance, and replacement charges previously paid under paragraph (2)(A);
 
-&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid undersubparagraphs (B) through (E) of paragraph (2);
+&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid under subparagraphs (B) through (E) of paragraph (2);
 
 &emsp;&emsp;(E) to pay to the general fund of the Treasury the annual installment on any debt relating to the Central Arizona Project under section 485h(d) of this title, made nonreimbursable under section 106(b) of the Arizona Water Settlements Act;
 
@@ -154,7 +154,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 #### (5) Amounts not available for certain Federal obligations
 
-&emsp;None of the provisions of this section, including paragraphs (2)(A) and (3)(A), shall be construed to make any of the funds referred to in this section available for the fulfillment of any Federal obligation relating to the payment of OM\&R charges if such obligation is undertaken pursuant to Public Law 95–328, Public Law 98–530, or any settlement agreement with the United States (or amendments thereto) approved by or pursuant to either of those acts.
+&emsp;None of the provisions of this section, including paragraphs (2)(A) and (3)(A), shall beconstrued to make any of the funds referred to in this section available for the fulfillment of any Federal obligation relating to the payment of OM\&R charges if such obligation is undertaken pursuant to Public Law 95–328, Public Law 98–530, or any settlement agreement with the United States (or amendments thereto) approved by or pursuant to either of those acts.
 
 #### (g) Repayment of costs
 

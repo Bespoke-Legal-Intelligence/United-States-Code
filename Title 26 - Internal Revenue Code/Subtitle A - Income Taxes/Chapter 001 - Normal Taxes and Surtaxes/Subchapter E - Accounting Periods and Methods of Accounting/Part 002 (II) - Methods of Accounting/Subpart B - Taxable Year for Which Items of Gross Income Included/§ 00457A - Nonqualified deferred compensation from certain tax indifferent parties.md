@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The rights of a person to compensation shall be treated as subject to a substantial risk of forfeiture only if such person's rights to such compensation are conditioned upon the future performance of substantial services by any individual.
+&emsp;&emsp;The rights of a person to compensation shall be treated as subject to a substantialrisk of forfeiture only if such person's rights to such compensation are conditioned upon the future performance of substantial services by any individual.
 
 #### (B) Exception for compensation based on gain recognized on an investment asset
 
@@ -118,7 +118,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Application to existing deferrals.—In the case of any amount deferred to which the amendments madeby this section do not apply solely by reason of the fact that the amount is attributable to services performed before January 1, 2009, to the extent such amount is not includible in gross income in a taxable year beginning before 2018, such amounts shall be includible in gross income in the later of—
+Application to existing deferrals.—In the case of any amount deferred to which the amendments made by this section do not apply solely by reason of the fact that the amount is attributable to services performed before January 1, 2009, to the extent such amount is not includible in gross income in a taxable year beginning before 2018, such amounts shall be includible in gross income in the later of—
 
 &emsp;"(A) the last taxable year beginning before 2018, or
 

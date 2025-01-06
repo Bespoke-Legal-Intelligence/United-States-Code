@@ -8,7 +8,7 @@ This chapter may be cited as the "Fair Labor Standards Act of 1938".
 
 #### Short Title of 2022 Amendment
 
-Pub. L. 117–328, div. KK, §101, Dec. 29, 2022, 136 Stat. 6093, provided that: "This division \[enacting section 218d of this title, amending sections 207, 215, and 216 of this title and section 20168 of Title 49, Transportation, and enacting provisions set out as notes under sections207, 215, and 218d of this title and section 20168 of Title 49\] may be cited as the 'Providing Urgent Maternal Protections for Nursing Mothers Act' or the 'PUMP for Nursing Mothers Act'."
+Pub. L. 117–328, div. KK, §101, Dec. 29, 2022, 136 Stat. 6093, provided that: "This division \[enacting section 218d of this title, amending sections 207, 215, and 216 of this title and section 20168 of Title 49, Transportation, and enacting provisions set out as notes under sections 207, 215, and 218d of this title and section 20168 of Title 49\] may be cited as the 'Providing Urgent Maternal Protections for Nursing Mothers Act' or the 'PUMP for Nursing Mothers Act'."
 
 #### Short Title of 2007 Amendment
 

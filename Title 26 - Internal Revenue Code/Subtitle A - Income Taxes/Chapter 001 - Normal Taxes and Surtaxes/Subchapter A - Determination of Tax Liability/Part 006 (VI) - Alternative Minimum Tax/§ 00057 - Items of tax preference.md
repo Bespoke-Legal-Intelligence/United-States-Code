@@ -62,7 +62,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (B) Treatment of exempt-interest dividends
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined in section 852(b)(5)(A)) shall be treatedas interest on a specified private activity bond to the extent of its proportionate share of the interest on such bonds received by the company paying such dividend.
+&emsp;&emsp;Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined in section 852(b)(5)(A)) shall be treated as interest on a specified private activity bond to the extent of its proportionate share of the interest on such bonds received by the company paying such dividend.
 
 #### (C) Specified private activity bonds
 
@@ -88,7 +88,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (iv) Exception for refundings
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "private activity bond" shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "private activity bond" shall not include anyrefunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
 
 #### (v) Certain bonds issued before September 1, 1986
 
@@ -134,7 +134,7 @@ For purposes of paragraph (2) of subsection (a)—
 
 &emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term "straight line recovery of intangibles" means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, titleI, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354; Pub. L. 113–295, div. A, title II, §221(a)(10), (11), Dec. 19, 2014, 128 Stat. 4038.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354; Pub. L. 113–295, div. A, title II, §221(a)(10), (11), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### <b>Editorial Notes</b>
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 111–5 applicable to obligations issued after Dec. 31, 200
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–289 applicable to bonds issued after July 30, 2008, see section 3022(d)(1) of Pub.L. 110–289, set out as a note under section 56 of this title.
+Amendment by Pub. L. 110–289 applicable to bonds issued after July 30, 2008, see section 3022(d)(1) of Pub. L. 110–289, set out as a note under section 56 of this title.
 
 #### Effective Date of 2003 Amendment
 

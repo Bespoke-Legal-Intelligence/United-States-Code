@@ -46,7 +46,7 @@ As used in this subchapter—
 
 &emsp;(11) The term "project" means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or extension services administered by a person with expertise in such a field.
 
-&emsp;(12) The term "sea grant college" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
+&emsp;(12) The term "sea grant college" means any institution, or any association or alliance oftwo or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
 &emsp;(13) The term "sea grant institute" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
@@ -116,7 +116,7 @@ Par. (4). Pub. L. 100–220, §3104(b)(1)(C), substituted "ocean, coastal, and G
 
 Par. (6). Pub. L. 100–220, §3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: "The term 'marine environment' means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil, and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf."
 
-Par. (7). Pub. L. 100–220, §3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: "The term 'ocean and coastal resource' means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances."
+Par. (7). Pub. L. 100–220, §3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: "The term 'ocean and coastal resource' means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource,the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances."
 
 Par. (11). Pub. L. 100–220, §3104(b)(1)(C), substituted "ocean, coastal, and Great Lakes resources" for "ocean and coastal resources".
 

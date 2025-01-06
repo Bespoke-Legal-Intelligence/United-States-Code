@@ -18,11 +18,11 @@ In this section:
 
 #### (b) Report required
 
-Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall submit to congressional intelligence committees a report on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
+Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall provide to congressional intelligence committees a briefing on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
 
 #### (c) Contents
 
-The report required by subsection (b) shall include the following:
+The briefing required by subsection (b) shall include the following:
 
 &emsp;(1) A list of sensitive research subjects that could affect national security.
 
@@ -36,11 +36,19 @@ The report required by subsection (b) shall include the following:
 
 Not later than 30 days after the date on which the Director identifies a change to either list described in paragraph (1) or (2) of subsection (c), the Director shall notify the congressional intelligence committees of the change.
 
-(Pub. L. 116–92, div. E, title LVII, §5713, Dec. 20, 2019, 133 Stat. 2172.)
+(Pub. L. 116–92, div. E, title LVII, §5713, Dec. 20, 2019, 133 Stat. 2172; Pub. L. 118–159, div. F, title LXIX, §6901(c), Dec. 23, 2024, 138 Stat. 2516.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–159, §6901(c)(1), substituted "shall provide" for "shall submit" and "briefing" for "report". "Report" in subsec. heading was not amended.
+
+Subsec. (c). Pub. L. 118–159, §6901(c)(2), substituted "briefing" for "report" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
-For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definitions of "intelligence community" and "congressional intelligence committees" as used inthis section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

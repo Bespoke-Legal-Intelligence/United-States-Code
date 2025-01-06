@@ -12,7 +12,9 @@ Based on 44 U.S. Code, 1964 ed., §402 (Aug. 2, 1946, ch. 753, title I, §140, 6
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497, §107(a)(10)), substituted "National Archives and Records Administration" for "General Services Administration".
+<b>1984</b>—Pub. L. 98–497, §107(a)(10), substituted "National Archives and Records Administration" for "General Services Administration".
+
+Pub. L. 98–497, §102(a)(1), renumbered section 2114 of this title as this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
 
-&emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the pricecharged under the Federal Supply Schedule at the time the drug is procured; and
+&emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the price charged under the Federal Supply Schedule at the time the drug is procured; and
 
 &emsp;(4) unless the manufacturer meets the requirements of paragraphs (1), (2), and (3), the manufacturer may not receive payment for the purchase of drugs or biologicals from—
 
@@ -62,7 +62,7 @@
 
 (h) In this section:
 
-&emsp;(1) The term "change in non-Federal price" means, with respect to a covered drug that issubject to an agreement under this section, an amount equal to—
+&emsp;(1) The term "change in non-Federal price" means, with respect to a covered drug that is subject to an agreement under this section, an amount equal to—
 
 &emsp;&emsp;(A) the non-Federal average manufacturer price of the drug during the 3-month period that ends with the month preceding the month during which a contract goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); minus
 
@@ -122,7 +122,7 @@
 
 The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42. For complete classification ofthis Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub. L. 102–585, which enacted this section and was approved Nov. 4, 1992.
 

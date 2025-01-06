@@ -4,7 +4,7 @@
 
 Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 3205 of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
-&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in thecase of a member of the armed forces, in the member's grade;
+&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
@@ -32,7 +32,7 @@ Exceptions.—The qualification requirements imposed by the Secretary of Defense
 
 (d)
 
-Waiver.—The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines that the individual possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
+Waiver.—The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines thatthe individual possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
 
 (e)
 
@@ -70,7 +70,7 @@ Subsec. (e)(1)(A). Pub. L. 116–92, §861(b)(1)(C)(i)(I), substituted "requirem
 
 Subsec. (e)(1)(C). Pub. L. 116–92, §861(b)(1)(C)(i)(II), substituted "requirement" for "requirements".
 
-Subsec. (e)(2). Pub. L. 116–92, §861(b)(1)(C)(ii), struck out dash after "shall have" and subpar. (A) designation before "been awarded", substituted period at end for "; or", and struck out subpar. (B) which read as follows: "completed at least 24 semester credit hours orthe equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management."
+Subsec. (e)(2). Pub. L. 116–92, §861(b)(1)(C)(ii), struck out dash after "shall have" and subpar. (A) designation before "been awarded", substituted period at end for "; or", and struck out subpar. (B) which read as follows: "completed at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management."
 
 Subsec. (f). Pub. L. 116–92, §861(b)(1)(D), substituted "Department of Defense." for "Department of Defense, including—
 
@@ -138,7 +138,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(e)\], Oct. 30, 2000, 114 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Fulfillment Standards for Mandatory Training
 

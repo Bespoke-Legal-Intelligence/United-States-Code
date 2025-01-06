@@ -32,8 +32,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### <b>Editorial Notes</b>
-
 Disposition Table<br>(Showing disposition of former sections of Title 2)
 
 <i>Title 2</i>

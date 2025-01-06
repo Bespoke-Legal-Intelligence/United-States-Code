@@ -18,7 +18,7 @@ Associate Director of Military Affairs, CIA.—When the position of Associate Di
 
 (d)
 
-Officers Serving in Office of DNI.—When a position in the Office of the Director of National Intelligence designated by agreement between the Secretary of Defense and the Director of National Intelligence is held by a general officer or flag officer of the armed forces, the position, so long as the officer serves in the position, shall be designated, pursuant to subsection (b) of section 526 of this title, as one of the generalofficer and flag officer positions to be excluded from the limitations in subsection (a) of such section. However, not more than five of such positions may be included among the excluded positions at any time.
+Officers Serving in Office of DNI.—When a position in the Office of the Director of National Intelligence designated by agreement between the Secretary of Defense and the Director of National Intelligence is held by a general officer or flag officer of the armed forces, the position, so long as the officer serves in the position, shall be designated, pursuant to subsection (b) of section 526 of this title, as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section. However, not more than five of such positions may be included among the excluded positions at any time.
 
 (e)
 
@@ -56,7 +56,7 @@ A prior section 528, added Pub. L. 103–337, div. A, title IV, §405(b)(1), Oct
 
 Subsecs. (b) to (d). Pub. L. 112–81, §502(d)(1), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–259 substituted "Associate Director of Military Affairs, CIA" for "Associate Director of CIA for Military Affairs" in heading and "Associate Director of Military Affairs, Central Intelligence Agency, or any successor position" for "Associate Director of the Central Intelligence Agency for Military Affairs" in text.
+<b>2010</b>—Subsec. (c). Pub. L. 111–259 substituted "Associate Director of Military Affairs, CIA" for "AssociateDirector of CIA for Military Affairs" in heading and "Associate Director of Military Affairs, Central Intelligence Agency, or any successor position" for "Associate Director of the Central Intelligence Agency for Military Affairs" in text.
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–417 substituted "Military Affairs" for "Military Support" in heading and text.
 

@@ -22,7 +22,7 @@ Exception.—Under regulations prescribed by the Secretary of Defense, education
 
 Subsec. (b). Pub. L. 110–181, §530(b), struck out "of not more than 90 days" after "in the Selected Reserve".
 
-<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b), educational assistance" for "Educational assistance", and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted "Except asprovided in subsection (b), educational assistance" for "Educational assistance", and added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

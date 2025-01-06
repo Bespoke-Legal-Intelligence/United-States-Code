@@ -62,7 +62,7 @@ In general.—There are transferred from the Department of Health and Human Serv
 
 &emsp;"(2)
 
-Unexpended funds.—Unexpended funds transferred pursuant to this subsection shall be used onlyfor the purposes for which the funds were originally appropriated.
+Unexpended funds.—Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally appropriated.
 
 &emsp;"(3)
 
@@ -128,7 +128,7 @@ Interim role of current commissioner after effective date of new agency.—In th
 
 &emsp;"(6)
 
-Interim inspector general.—The Commissioner of Social Security may appoint an individual to assume the powers and duties under the Inspector General Act of 1978 \[Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees, see 5 U.S.C. 401 et seq.\] of Inspector General of the Social Security Administration as established under section 701 of the Social Security Act for a period not to exceed 60 days. The Inspector General of the Department of Health and Human Services may, when so requested by the Commissioner, whilecontinuing to serve as Inspector General in such Department, serve as Inspector General of the Social Security Administration established under such section 701 and shall assume the powers and duties under the Inspector General Act of 1978 of Inspector General of the Social Security Administration as established under such section 701. The Social Security Administration shall reimburse the Office of Inspector General of the Department of Health and Human Services for costs of any functions performed pursuant to this subsection, from funds available to the Administration at the time the functions are performed. The authority under this paragraph to exercise the powers and duties of the Inspector General shall terminate upon the entry upon office of an Inspector General for the Social Security Administration under the Inspector General Act of 1978.
+Interim inspector general.—The Commissioner of Social Security may appoint an individual to assume the powers and duties under the Inspector General Act of 1978 \[Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees, see 5 U.S.C. 401 et seq.\] of Inspector General of the Social Security Administration as established under section 701 of the Social Security Act for a period not to exceed 60 days. The Inspector General of the Department of Health and Human Services may, when so requested by the Commissioner, while continuing to serve as Inspector General in such Department, serve as Inspector General of the Social Security Administration established under such section 701 and shall assume the powers and duties under the Inspector General Act of 1978 of Inspector General of the Social Security Administration as established under such section 701. The Social Security Administration shall reimburse the Office of Inspector General of the Department of Health and Human Services for costs of any functions performed pursuant to this subsection, from funds available to the Administration at the time the functions are performed. The authority under this paragraph to exercise the powers and duties of the Inspector General shall terminate upon the entry upon office of an Inspector General for the Social Security Administration under the Inspector General Act of 1978.
 
 &emsp;"(7)
 
@@ -160,7 +160,7 @@ Continuation of Suits.—Except as provided in this subsection—
 
 &emsp;"(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this title had not been enacted.
 
-> No cause of action, and no suit, action, or other proceeding commenced by or against any officer in such officer's official capacity as an officer of the Department of Health and Human Services, shall abate by reason of the enactment of this title. In any suit, action, or other proceeding pending immediately before March 31, 1995, the court or hearing officer may at any time, on the motion of the court or hearing officer or that of a party, enter an order which will give effect to the provisions of this subsection (including, where appropriate, an order for substitution of parties).
+> No cause of action, and no suit, action, or other proceeding commenced by or against any officer in suchofficer's official capacity as an officer of the Department of Health and Human Services, shall abate by reason of the enactment of this title. In any suit, action, or other proceeding pending immediately before March 31, 1995, the court or hearing officer may at any time, on the motion of the court or hearing officer or that of a party, enter an order which will give effect to the provisions of this subsection (including, where appropriate, an order for substitution of parties).
 
 "(e)
 

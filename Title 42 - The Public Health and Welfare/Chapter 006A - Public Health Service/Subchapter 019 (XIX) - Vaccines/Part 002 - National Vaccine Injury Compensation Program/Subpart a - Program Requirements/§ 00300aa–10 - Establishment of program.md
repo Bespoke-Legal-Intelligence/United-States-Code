@@ -38,7 +38,7 @@ Section 6601(s) of Pub. L. 101–239, as amended by Pub. L. 102–572, title IX,
 
 &emsp;"(B) Petitions currently pending in which the evidentiary record is closed shall continue to proceed under the Program in accordance with the law in effect before the date of the enactment of this section, except that if the United States Court of Federal Claims is to review the findings of fact and conclusions of law of a special master on such a petition, the court may receive further evidence in conducting such review.
 
-&emsp;"(C) Petitions currently pending in which the evidentiary record is not closed shall proceed under the Program in accordance with the law as amended by this section.
+&emsp;"(C) Petitions currently pending in which the evidentiary record is not closed shall proceed under theProgram in accordance with the law as amended by this section.
 
 > All pending cases which will proceed under the Program as amended by this section shall be immediately suspended for 30 days to enable the special masters and parties to prepare for proceeding under the Program as amended by this section. In determining the 240-day period prescribed by section 2112(d) of the Public Health Service Act \[42 U.S.C. 300aa–12(d)\], as amended by this section, or the 420-day period prescribed by section 2121(b) of such Act \[42 U.S.C. 300aa–21(b)\], as so amended, any period of suspension under the preceding sentence shall be excluded.
 

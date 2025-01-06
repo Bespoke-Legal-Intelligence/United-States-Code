@@ -18,7 +18,7 @@
 
 (3) Unless a claim is filed under this subsection within 5 years after the date of the disposal of the property to which the claim relates, the claim may not be considered by a court, the Secretary of Defense (in the case of a claim filed under paragraph (1)), or the Secretary of Defense (in the case of a claim filed under paragraph (2)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, §511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, §322(a), (b), title XVI, §1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, §1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, §374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, §202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513,title V, §511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, §322(a), (b), title XVI, §1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, §1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, §374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, §202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 Historical and Revision Notes
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1990 Amendment
 

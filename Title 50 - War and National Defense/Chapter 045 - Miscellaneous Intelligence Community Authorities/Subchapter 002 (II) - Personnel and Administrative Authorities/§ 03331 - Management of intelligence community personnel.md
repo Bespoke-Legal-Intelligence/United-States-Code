@@ -44,5 +44,5 @@ Not later than 240 days after May 5, 2017, the Inspector General of the Intellig
 
 #### Definitions
 
-For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under section 3003 of this title.
+For definitions of "intelligence community" and "congressional intelligence committees" as used in this section, see section 2 of div. N of Pub. L. 115–31, set out as a note under section 3003 of this title.
 

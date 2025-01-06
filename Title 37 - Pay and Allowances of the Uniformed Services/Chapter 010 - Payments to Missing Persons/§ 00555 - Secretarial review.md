@@ -20,7 +20,7 @@
 
 &emsp;(B) if the missing status has been continued under subsection (a), the day determined by the Secretary concerned, or his designee.
 
-(c) For the sole purpose of determining status under this section, a dependent of a member onactive duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
+(c) For the sole purpose of determining status under this section, a dependent of a member on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
 (d) This section does not apply in a case to which section 1502 of title 10 applies.
 

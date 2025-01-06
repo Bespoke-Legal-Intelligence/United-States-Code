@@ -50,5 +50,5 @@ Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that
 
 #### Short Title
 
-Pub. L. 90–537, title I, §101, Sept. 30, 1968, 82 Stat. 885, provided: "That this Act \[enacting this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of thistitle, amending sections 616hh, 620, and 620a of this title, and enacting provisions set out as notes under sections 620, 620k, and 1501 of this title\] may be cited as the 'Colorado River Basin Project Act'."
+Pub. L. 90–537, title I, §101, Sept. 30, 1968, 82 Stat. 885, provided: "That this Act \[enacting this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amending sections 616hh, 620, and 620a of this title, and enacting provisions set out as notes under sections 620, 620k, and 1501 of this title\] may be cited as the 'Colorado River Basin Project Act'."
 

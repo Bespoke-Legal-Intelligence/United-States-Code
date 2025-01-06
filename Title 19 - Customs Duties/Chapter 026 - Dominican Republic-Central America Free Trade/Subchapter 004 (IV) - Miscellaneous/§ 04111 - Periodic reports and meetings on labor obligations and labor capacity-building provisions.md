@@ -18,7 +18,7 @@
 
 &emsp;Each report under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) A description of the progress made by the Labor Cooperation and Capacity Building Mechanism established by article 16.5 and Annex 16.5 of the Agreement, and the Labor Affairs Council established by article 16.4 of the Agreement, in achieving their stated goals, including a description of thecapacity-building projects undertaken, funds received, and results achieved, in each CAFTA–DR country.
+&emsp;&emsp;(A) A description of the progress made by the Labor Cooperation and Capacity Building Mechanism established by article 16.5 and Annex 16.5 of the Agreement, and the Labor Affairs Council established by article 16.4 of the Agreement, in achieving their stated goals, including a description of the capacity-building projects undertaken, funds received, and results achieved, in each CAFTA–DR country.
 
 &emsp;&emsp;(B) Recommendations on how the United States can facilitate full implementation of the recommendations contained in the White Paper.
 

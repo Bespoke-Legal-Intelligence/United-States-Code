@@ -8,11 +8,11 @@ Congress makes the following findings:
 
 &emsp;(2) Engaging the universities and colleges of the Nation in research on long-range problems of vital national security interest will be critical to solving the technology challenges faced within the defense and national security programs of the Department of Energy in the next century.
 
-&emsp;(3) Enhancing collaboration among the national laboratories, universities and colleges,and industry will contribute significantly to the performance of these Department of Energy missions.
+&emsp;(3) Enhancing collaboration among the national laboratories, universities and colleges, and industry will contribute significantly to the performance of these Department of Energy missions.
 
 #### (b) Program
 
-The Secretary of Energy shall establish a university program at a location that can develop the most effective collaboration among national laboratories, universities and colleges, and industry in support of scientific and engineering advancement in key Department of Energy defense and national security program areas.
+The Secretary of Energy shall establish a university program at a location that can developthe most effective collaboration among national laboratories, universities and colleges, and industry in support of scientific and engineering advancement in key Department of Energy defense and national security program areas.
 
 (Pub. L. 107–314, div. D, title XLVIII, §4814, formerly Pub. L. 105–85, div. C, title XXXI, §3155, Nov. 18, 1997, 111 Stat. 2044; renumbered Pub. L. 107–314, div. D, title XLVIII, §4814, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(9), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 112–239, div. C, title XXXI, §3131(y), Jan. 2, 2013, 126 Stat. 2185.)
 

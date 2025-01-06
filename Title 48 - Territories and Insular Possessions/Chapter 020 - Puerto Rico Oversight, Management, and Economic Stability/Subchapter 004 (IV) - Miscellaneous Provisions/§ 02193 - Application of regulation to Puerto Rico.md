@@ -10,7 +10,7 @@ The regulations proposed by the Secretary of Labor relating to exemptions regard
 
 #### (b) Assessment and report
 
-Not later than two years after June 30, 2016, the Comptroller General shall examine the economic conditions in Puerto Rico and shall transmit a report to Congress assessing the impact of applying the regulations described in subsection\(a) to Puerto Rico, taking into consideration regional, metropolitan, and non-metropolitan salary and cost-of-living differences.
+Not later than two years after June 30, 2016, the Comptroller General shall examine the economic conditions in Puerto Rico and shall transmit a report to Congress assessing the impact of applying the regulations described in subsection (a) to Puerto Rico, taking into consideration regional, metropolitan, and non-metropolitan salary and cost-of-living differences.
 
 #### (c) Sense of Congress
 

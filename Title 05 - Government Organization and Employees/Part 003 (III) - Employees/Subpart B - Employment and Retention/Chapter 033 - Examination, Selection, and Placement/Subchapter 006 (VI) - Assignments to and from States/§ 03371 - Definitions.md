@@ -14,7 +14,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) any general or special purpose agency of such a political subdivision, instrumentality, or authority; and
 
-&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because oftheir status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
+&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
 
 &emsp;(3) "Federal agency" means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
@@ -108,7 +108,7 @@ Written Agreement.—An employee shall enter into a written agreement regarding 
 
 #### Declaration of Purpose
 
-Pub. L. 91–648, title IV, §401, Jan. 5, 1971, 84 Stat. 1920, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: "The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments,institutions of higher education, and other organizations."
+Pub. L. 91–648, title IV, §401, Jan. 5, 1971, 84 Stat. 1920, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: "The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations."
 
 #### <b>Executive Documents</b>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is authorized to be appropriated to the Authority to carry out this subchapter $30,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+There is authorized to be appropriated to the Authority to carry out this subchapter $40,000,000 for each of fiscal years 2025 through 2029, to remain available until expended.
 
 #### (b) Administrative expenses
 
@@ -16,11 +16,11 @@ Notwithstanding any other provision of this subchapter, for any fiscal year, the
 
 &emsp;(2) the ratio that—
 
-&emsp;&emsp;(A) the population of the State (as determined by the Secretary of Commerce basedon the most recent decennial census for which data are available); bears to
+&emsp;&emsp;(A) the population of the State (as determined by the Secretary of Commerce based on the most recent decennial census for which data are available); bears to
 
 &emsp;&emsp;(B) the population of the region (as so determined).
 
-(Pub. L. 87–128, title III, §383N, formerly §383M, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 387; renumbered §383N and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (j), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (j), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, §6027(b), Feb. 7, 2014, 128 Stat. 850.)
+(Pub. L. 87–128, title III, §383N, formerly §383M, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 387; renumbered §383N and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (j), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (j), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, §6027(b), Feb. 7, 2014, 128 Stat. 850; Pub. L. 118–272, div. B, title II, §2254(a), Jan. 4, 2025, 138 Stat. 3213.)
 
 #### <b>Editorial Notes</b>
 
@@ -30,9 +30,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O and is classified to section 2009bb–13 of this title.
+A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O and was classified to section 2009bb–13 of this title prior to repeal by Pub. L. 118–272.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a). Pub. L. 118–272 substituted "$40,000,000 for each of fiscal years 2025 through 2029" for "$30,000,000 for each of fiscal years 2008 through 2018".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–79 substituted "2018" for "2012".
 

@@ -140,7 +140,7 @@ For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: "This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided underthe amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations."
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: "This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations."
 
 #### Effective Date of 1995 Amendment
 

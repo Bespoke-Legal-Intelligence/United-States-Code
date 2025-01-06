@@ -14,7 +14,7 @@
 
 (6)(A) If a referendum conducted under this subsection fails to result in the termination of the council, the Secretary shall immediately recover the amount of the bond posted by petitioners under paragraph (5) of this subsection.
 
-(B) If a referendum conducted under this subsection results in the termination of the council, the Secretary shall recover the expenses incurred for the conduct of the referendum from the account established by the council under section 4012(e) of this title. If the amount remaining in such account is insufficient for the Secretary to recover all expenses incurred for the conduct of the referendum, the Secretary shall recover the balance of such expenses from the petitioners that posted a bond under paragraph (5) of this subsection.
+(B) If a referendum conducted under this subsection results in the termination of the council, the Secretary shall recover the expenses incurred for the conduct of the referendum from the account established by the council under section 4012(e) of this title. If the amount remaining in such account is insufficient for the Secretary to recover all expenses incurred for the conduct of the referendum, the Secretaryshall recover the balance of such expenses from the petitioners that posted a bond under paragraph (5) of this subsection.
 
 #### (b) Payment of remaining funds
 

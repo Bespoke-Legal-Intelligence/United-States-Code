@@ -98,7 +98,7 @@ Updates and reports under subsection (g) shall—
 
 &emsp;&emsp;(C) information relating to equipment of the Transportation Security Administration that is in operation after the end of the life-cycle of the equipment specified by the manufacturer of the equipment; and
 
-&emsp;&emsp;(D) to the extent practicable, a classified addendum to report sensitive transportationsecurity risks and associated capability gaps that would be best addressed by security-related technology described in subparagraph (A).
+&emsp;&emsp;(D) to the extent practicable, a classified addendum to report sensitive transportation security risks and associated capability gaps that would be best addressed by security-related technology described in subparagraph (A).
 
 #### (i) Notice of covered changes to plan
 

@@ -2,7 +2,7 @@
 
 #### (a) Notification of withdrawal
 
-The holder of an application approved under subsection (c) or (j) of section 355 of this title or subsection (a) or (k) of section 262 of title 42 shall notify the Secretary in writing 180 days prior to withdrawing the approved drug from sale, or if 180 days is not practicable as soon as practicable but not later than the date of withdrawal. The holder shall include with such notice the—
+The holder of an application approved under subsection (c) or (j) of section 355 of this title or subsection (a) or (k) of section 262 of title 42 shall notify the Secretary in writing 180 days prior to withdrawing the approved drug from sale, or if 180 days is not practicable as soon aspracticable but not later than the date of withdrawal. The holder shall include with such notice the—
 
 &emsp;(1) National Drug Code;
 
@@ -74,7 +74,7 @@ Subsec. (b)(2). Pub. L. 117–328, §3201(a)(2)(C), substituted ", abbreviated 
 
 Subsec. (c). Pub. L. 117–328, §3201(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to an additional one-time report to be done within 180 days of Aug. 18, 2017.
 
-Subsec. (d). Pub. L. 117–328, §3201(c)(1), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a holder of an approved application fails to submit the information required under subsection (a), (b), or (c), the Secretary may move the application holder's drugs from the active section of the list published under subsection 355(j)(7)(A) of this title to the discontinued section of the list, except that the Secretary shall remove from the list in accordance with subsection 355(j)(7)(C) ofthis title drugs the Secretary determines have been withdrawn from sale for reasons of safety of effectiveness."
+Subsec. (d). Pub. L. 117–328, §3201(c)(1), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a holder of an approved application fails to submit the information required under subsection (a), (b), or (c), the Secretary may move the application holder's drugs from the active section of the list published under subsection 355(j)(7)(A) of this title to the discontinued section of the list, except that the Secretary shall remove from the list in accordance with subsection 355(j)(7)(C) of this title drugs the Secretary determines have been withdrawn from sale for reasons of safety of effectiveness."
 
 Subsec. (e). Pub. L. 117–328, §3201(d), substituted "section 355(j)(7)(A) of this title" for "subsection 355(j)(7)(A) of this title" and "section 355(j)(7)(C) of this title" for "subsection 355(j)(7)(C) of this title".
 

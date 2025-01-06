@@ -206,7 +206,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendments
 

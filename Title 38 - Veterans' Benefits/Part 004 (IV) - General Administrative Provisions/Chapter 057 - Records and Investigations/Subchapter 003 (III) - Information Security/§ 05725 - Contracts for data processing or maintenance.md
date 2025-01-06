@@ -14,7 +14,7 @@ Liquidated Damages.—Each contract subject to the requirements of subsection (a
 
 (c)
 
-Provision of Credit Protection Services.—Any amount collected by the Secretary under subsection (b) shall be deposited in or credited to the Department account from which the contractor was paid and shall remain available for obligation without fiscal year limitation exclusively for the purpose of providing credit protection services pursuant to section 5724(b) of this title.
+Provision of Credit Protection Services.—Any amount collected by the Secretaryunder subsection (b) shall be deposited in or credited to the Department account from which the contractor was paid and shall remain available for obligation without fiscal year limitation exclusively for the purpose of providing credit protection services pursuant to section 5724(b) of this title.
 
 (Added Pub. L. 109–461, title IX, §902(a), Dec. 22, 2006, 120 Stat. 3456.)
 

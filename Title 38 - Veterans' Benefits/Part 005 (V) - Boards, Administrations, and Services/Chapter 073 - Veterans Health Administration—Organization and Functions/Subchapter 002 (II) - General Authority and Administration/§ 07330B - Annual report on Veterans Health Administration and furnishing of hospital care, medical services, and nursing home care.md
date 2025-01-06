@@ -26,7 +26,7 @@ Elements.—Each report required by subsection (a) shall include each of the fol
 
 &emsp;&emsp;(D) the productivity of physicians and other employees of the Veterans Health Administration;
 
-&emsp;&emsp;(E) the percentage of hospital care, medical services, and nursing home care provided to veterans in facilities of the Department and in non-Department facilities and any changes in such percentages compared to the year preceding the year covered by the report;
+&emsp;&emsp;(E) the percentage of hospital care, medical services, and nursing home care provided to veterans in facilities of the Department and in non-Department facilities andany changes in such percentages compared to the year preceding the year covered by the report;
 
 &emsp;&emsp;(F) pharmaceutical prices; and
 

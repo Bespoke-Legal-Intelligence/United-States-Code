@@ -6,7 +6,7 @@
 
 (3) An appeal may not be taken in forma pauperis if the trial court certifies in writing that it is not taken in good faith.
 
-(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal informa pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
+(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal in forma pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
 
 &emsp;(A) the average monthly deposits to the prisoner's account; or
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(iii) seeks monetary relief against a defendant who is immune from such relief.
 
-(f)(1) Judgment may be rendered for costs at the conclusion of the suit or action as in other proceedings, but the United States shall not be liable for any of the costs thus incurred. If the United States has paid the cost of a stenographic transcript or printed record for the prevailing party, the same shall be taxed in favor of the United States.
+(f)(1) Judgment may be rendered for costs at the conclusion of the suit or action as in otherproceedings, but the United States shall not be liable for any of the costs thus incurred. If the United States has paid the cost of a stenographic transcript or printed record for the prevailing party, the same shall be taxed in favor of the United States.
 
 (2)(A) If the judgment against a prisoner includes the payment of costs under this subsection, the prisoner shall be required to pay the full amount of the costs ordered.
 
@@ -54,9 +54,9 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§9a(c)(e), 832, 833, 834, 835, and 836 (July 20, 1892, ch. 209, §§1–5, 27 Stat. 252; June 25, 1910, ch. 435, 36 Stat. 866; Mar. 3, 1911, ch. 231, §5a, as added Jan. 20, 1944, ch. 3, §1, 58 Stat. 5; June 27, 1922, ch. 246, 42 Stat. 666; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§9a(c), (e), 832, 833, 834, 835, and 836 (July 20, 1892, ch. 209, §§1–5, 27 Stat. 252; June 25, 1910, ch. 435, 36 Stat. 866; Mar. 3, 1911, ch. 231, §5a, as added Jan. 20, 1944, ch. 3, §1, 58 Stat. 5; June 27, 1922, ch. 246, 42 Stat. 666; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
-Section consolidates a part of section 9a(c)(e) with sections 832–836 of title 28, U.S.C., 1940 ed.
+Section consolidates a part of section 9a(c), (e) with sections 832–836 of title 28, U.S.C., 1940 ed.
 
 For distribution of other provisions of section 9a of title 28, U.S.C., 1940 ed., see Distribution Table.
 
@@ -66,7 +66,7 @@ Words "and willful false swearing in any affidavit provided for in this section 
 
 A proviso in section 836 of title 28, U.S.C., 1940 ed., that the United States should not be liable for costs was deleted as covered by section 2412 of this title.
 
-The provision in section 9a(e) of title 28, U.S.C., 1940 ed., respecting stenographic transcripts furnished on appeals in civil cases is extended by subsection (b) of the revised section to include criminal cases. Obviously it would be inconsistent to furnish the same to a poorperson in a civil case involving money only and to deny it in a criminal proceeding where life and liberty are in jeopardy.
+The provision in section 9a(e) of title 28, U.S.C., 1940 ed., respecting stenographic transcripts furnished on appeals in civil cases is extended by subsection (b) of the revised section to include criminal cases. Obviously it would be inconsistent to furnish the same to a poor person in a civil case involving money only and to deny it in a criminal proceeding where life and liberty are in jeopardy.
 
 The provision of section 832 of title 28, U.S.C., 1940 ed., for payment when authorized by the Attorney General was revised to substitute the Director of the Administrative Office of the United States Courts who now disburses such items.
 

@@ -6,7 +6,7 @@ Whenever a majority of the district judges of any district court cannot agree up
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §375 (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch.29, §6, 40Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; May 11, 1944, ch. 192, §§1, 3, 58 Stat. 218, 219).
+Based on title 28, U.S.C., 1940 ed., §375 (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch.29, §6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; May 11, 1944, ch. 192, §§1, 3, 58 Stat. 218, 219).
 
 Only part of section 375 of title 28, U.S.C., 1940 ed., appears in this section. The remainder is incorporated in sections 136, 294 and 371 of this title.
 

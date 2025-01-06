@@ -48,7 +48,7 @@ Subsecs. (e), (f). Pub. L. 117–37 added subsecs. (e) and (f).
 
 <b>2002</b>—Pub. L. 107–135, §201(b)(1), substituted "guide dogs; service dogs" for "seeing-eye dogs" in section catchline.
 
-Subsec. (b). Pub. L. 107–135, §201(a)(1), struck out "seeing-eye or" after "may provide", substituted "who are enrolled under section 1705 of this title" for "who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to andfrom their homes and incurred in becoming adjusted to such seeing-eye or guide dogs", and substituted "disability" for "handicap".
+Subsec. (b). Pub. L. 107–135, §201(a)(1), struck out "seeing-eye or" after "may provide", substituted "who are enrolled under section 1705 of this title" for "who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from their homes and incurred in becoming adjusted to such seeing-eye or guide dogs", and substituted "disability" for "handicap".
 
 Subsecs. (c), (d). Pub. L. 107–135, §201(a)(2), added subsecs. (c) and (d).
 

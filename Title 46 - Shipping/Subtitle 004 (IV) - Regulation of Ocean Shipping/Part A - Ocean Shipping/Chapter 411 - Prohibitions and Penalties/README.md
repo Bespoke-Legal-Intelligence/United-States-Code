@@ -9,12 +9,7 @@
 | [41105\.](%C2%A7%2041105%20-%20Concerted%20action.md) | Concerted action. |
 | [41105A.](%C2%A7%2041105A%20-%20Authority.md) | Authority. |
 | [41106\.](%C2%A7%2041106%20-%20Marine%20terminal%20operators.md) | Marine terminal operators. |
-| [41107\.](%C2%A7%2041107%20-%20Monetary%20penalties%20or%20refunds.md) | Monetary penalties.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [41107\.](%C2%A7%2041107%20-%20Monetary%20penalties%20or%20refunds.md) | Monetary penalties or refunds. |
 | [41108\.](%C2%A7%2041108%20-%20Additional%20penalties.md) | Additional penalties. |
 | [41109\.](%C2%A7%2041109%20-%20Assessment%20of%20penalties.md) | Assessment of penalties. |
 | [41110\.](%C2%A7%2041110%20-%20Data%20collection.md) | Data collection. |
@@ -25,11 +20,11 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. C, title XXXV, §3535(i), Dec. 23, 2024, 138 Stat. 2315, substituted "Monetary penalties or refunds" for "Monetary penalties" in item 41107.
+
 <b>2022</b>—Pub. L. 117–146, §9(c), June 16, 2022, 136 Stat. 1277, added item 41110.
 
 <b>2018</b>—Pub. L. 115–282, title VII, §709(b)(2), Dec. 4, 2018, 132 Stat. 4296, added item 41105A.
-
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 117–146 without corresponding amendment of chapter analysis.</i>
 
 
 ---

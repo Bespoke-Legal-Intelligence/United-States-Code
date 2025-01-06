@@ -53,7 +53,7 @@
 
 #### (A) Average monthly rate
 
-&emsp;&emsp;For purposes of subsection (a)(2), the participation rate for 2-parent families of a State for a fiscal year is the average of the participation rates for 2-parent families of the State for each month in the fiscal year.
+&emsp;&emsp;For purposes of subsection (a)(2), the participation rate for 2-parent families of a State for a fiscal year is the average of theparticipation rates for 2-parent families of the State for each month in the fiscal year.
 
 #### (B) Monthly participation rates
 
@@ -228,7 +228,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programsfunded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
+&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) determining whether an activity of a recipient of assistance may be treated as a work activity under subsection (d);
 
@@ -318,7 +318,7 @@ Subsec. (c)(2)(C). Pub. L. 105–33, §5504(h), in heading substituted "Single t
 
 Subsec. (c)(2)(C)(ii). Pub. L. 105–33, §5504(i), substituted "an average of at least 20 hours per week during the month" for "at least the minimum average number of hours per week specified in the table set forth in paragraph (1)(A) of this subsection".
 
-Subsec. (c)(2)(D). Pub. L. 105–33, §5003(a), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 20 percent of individuals in all families and in 2-parent families may be determined to be engaged in work in the State for a month by reason of participation in vocational educational training or deemed to be engaged in work by reason of subparagraph (C) of this paragraph."
+Subsec. (c)(2)(D). Pub. L. 105–33, §5003(a), amended heading and text of subpar. (D) generally. Prior toamendment, text read as follows: "For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 20 percent of individuals in all families and in 2-parent families may be determined to be engaged in work in the State for a month by reason of participation in vocational educational training or deemed to be engaged in work by reason of subparagraph (C) of this paragraph."
 
 Subsec. (e)(2). Pub. L. 105–33, §5504(j), substituted "engage in work required in accordance with this section" for "work" in introductory provisions.
 

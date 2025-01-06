@@ -10,7 +10,7 @@ In this section:
 
 &emsp;&emsp;(A) an owner or operator of a publicly owned treatment works that assists or is seeking to assist low-income or moderate-income individuals with connecting the household of the individual to the publicly owned treatment works; or
 
-&emsp;&emsp;(B) a nonprofit entity that assists low-income or moderate-income individuals withthe costs associated with connecting the household of the individual to a publicly owned treatment works.
+&emsp;&emsp;(B) a nonprofit entity that assists low-income or moderate-income individuals with the costs associated with connecting the household of the individual to a publicly owned treatment works.
 
 #### (2) Program
 

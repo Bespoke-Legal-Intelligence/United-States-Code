@@ -34,5 +34,5 @@ In this chapter:
 
 #### Short Title
 
-Pub. L. 118–31, div. A, title XIII, §1351, Dec. 22, 2023, 137 Stat. 514, provided that: "This part \[part 3 (§§1351–1354) of subtitle B of title XIII of div. A of Pub. L. 118–31, enacting subchapter III of this title and amending section 8680 of Title 10, Armed Forces\] may be cited as the 'AUKUS Submarine Transfer Authorization Act'."
+Pub. L. 118–31, div. A, title XIII, §1351, Dec. 22, 2023, 137 Stat. 514, provided that: "This part \[part 3\(§§1351–1354) of subtitle B of title XIII of div. A of Pub. L. 118–31, enacting subchapter III of this title and amending section 8680 of Title 10, Armed Forces\] may be cited as the 'AUKUS Submarine Transfer Authorization Act'."
 

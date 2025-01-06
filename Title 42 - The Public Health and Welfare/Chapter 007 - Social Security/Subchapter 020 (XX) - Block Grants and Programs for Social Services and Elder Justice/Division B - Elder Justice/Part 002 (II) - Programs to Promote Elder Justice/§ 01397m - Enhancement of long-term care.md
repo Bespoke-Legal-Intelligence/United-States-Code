@@ -52,7 +52,7 @@
 
 #### (C) Application
 
-&emsp;&emsp;To be eligible to receive a grant under this paragraph, an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require (which may include evidence of consultation with the State in which the eligible entity is located with respect to carrying out activities funded under the grant).
+&emsp;&emsp;To be eligible to receive a grant under this paragraph, an eligible entity shall submit an application to the Secretary at such time, insuch manner, and containing such information as the Secretary may require (which may include evidence of consultation with the State in which the eligible entity is located with respect to carrying out activities funded under the grant).
 
 #### (D) Authority to limit number of applicants
 

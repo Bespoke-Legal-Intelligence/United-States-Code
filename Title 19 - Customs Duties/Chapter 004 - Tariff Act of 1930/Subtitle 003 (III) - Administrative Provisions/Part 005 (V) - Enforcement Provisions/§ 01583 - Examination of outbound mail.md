@@ -78,7 +78,7 @@ The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(
 
 Section 2332a(b) of title 18, referred to in subsec. (c)(1)(B), does not define the term "weapon of mass destruction". However, that term is defined elsewhere in that section.
 
-The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is act Oct. 6, 1917, ch. 106, 40 Stat. 411,which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2)(A), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -106,7 +106,7 @@ Certification with respect to foreign mail.—The provisions of section 583 of t
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Certification by Secretary
 

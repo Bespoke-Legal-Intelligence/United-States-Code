@@ -58,7 +58,7 @@ Secretary.—The term "Secretary" means the Secretary of Defense.
 
 &emsp;(4)
 
-Commercial product; commercial service; commercially available off-the shelf item.—The terms "commercial product", "commercial service", and "commercially available off-the-shelf item" have the meanings given such terms in sections 103, 103a, and 104 of title 41, respectively.
+Commercial product; commercial service; commercially available off-the shelf item.—The terms "commercial product", "commercial service", and "commerciallyavailable off-the-shelf item" have the meanings given such terms in sections 103, 103a, and 104 of title 41, respectively.
 
 &emsp;(5)
 
@@ -86,7 +86,7 @@ Specified type.—The term "specified type" means a printed circuit board that i
 
 Rulemaking.—
 
-&emsp;(1) The Secretary may issue rules providing that subsection (a) may not apply with respectto an acquisition of commercial products, commercial services, and commercially available off-the-shelf items if—
+&emsp;(1) The Secretary may issue rules providing that subsection (a) may not apply with respect to an acquisition of commercial products, commercial services, and commercially available off-the-shelf items if—
 
 &emsp;&emsp;(A) the contractor is capable of meeting minimum requirements that the Secretary deems necessary to provide for the security of national security networks and weapon systems; including, at a minimum, compliance with section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2302 note); and
 
@@ -140,5 +140,5 @@ Amendment by section 1701(e)(1)(A) of Pub. L. 117–81, renumbering section 2358
 
 #### Trusted Supply
 
-Pub. L. 116–283, div. A, title VIII, §841(c), Jan. 1, 2021, 134 Stat. 3764, provided that: "The Secretary of Defense shall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2302 note \[now 10 U.S.C. 4501 note prec.\]) to the acquisition of covered printed circuit boards (as such term is defined under \[former\] section 2533d(c) of title 10, United States Code, \[now 10 U.S.C. 4873(c)\] as added by this section)."
+Pub. L. 116–283, div. A, title VIII, §841(c), Jan. 1, 2021, 134 Stat. 3764, provided that: "The Secretary of Defenseshall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2302 note \[now 10 U.S.C. 4501 note prec.\]) to the acquisition of covered printed circuit boards (as such term is defined under \[former\] section 2533d(c) of title 10, United States Code, \[now 10 U.S.C. 4873(c)\] as added by this section)."
 

@@ -14,7 +14,7 @@ Those customs laws of the United States, both civil and criminal, including thos
 
 #### (c) Authority to enforce
 
-The United States Bureau of Customs and Border Protection and the United States Bureau of Immigration and Customs Enforcement are authorized, as appropriate, to enforce the provisions of subsection (a) and to enforce the laws and regulations governing exports of rough diamonds, including with respect to the validation of the Kimberley Process Certificate by the exporting authority.
+The United States Bureau of Customs and Border Protection and the United States Bureau ofImmigration and Customs Enforcement are authorized, as appropriate, to enforce the provisions of subsection (a) and to enforce the laws and regulations governing exports of rough diamonds, including with respect to the validation of the Kimberley Process Certificate by the exporting authority.
 
 (Pub. L. 108–19, §8, Apr. 25, 2003, 117 Stat. 634.)
 

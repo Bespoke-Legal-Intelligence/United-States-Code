@@ -28,11 +28,11 @@
 
 #### (D) Limitation
 
-&emsp;&emsp;In any fiscal year, the aggregate number of mortgages insured pursuant to this section may not exceed 5 percent of the aggregate number of mortgages for 1- to 4-family residences insured by the Secretary of Housingand Urban Development under title II of the National Housing Act (12 U.S.C. 1707 et seq.) during the preceding fiscal year.
+&emsp;&emsp;In any fiscal year, the aggregate number of mortgages insured pursuant to this section may not exceed 5 percent of the aggregate number of mortgages for 1- to 4-family residences insured by the Secretary of Housing and Urban Development under title II of the National Housing Act (12 U.S.C. 1707 et seq.) during the preceding fiscal year.
 
 #### (3) Authority for mortgagees
 
-&emsp;In granting mortgages under the pilot program established pursuant to this subsection, the Secretary shall grant mortgagees the authority—
+&emsp;In granting mortgages under the pilot program established pursuant to this subsection,the Secretary shall grant mortgagees the authority—
 
 &emsp;&emsp;(A) to permit the final loan amount to exceed the loan limits established under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] by an amount not to exceed 100 percent of the cost of the cost-effective energy efficiency improvements, if the mortgagor's request to add the cost of such improvements is received by the mortgagee prior to funding of the base loan;
 

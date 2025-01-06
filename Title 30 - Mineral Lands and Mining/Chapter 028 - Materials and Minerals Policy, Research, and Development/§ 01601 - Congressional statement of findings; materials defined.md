@@ -38,6 +38,10 @@ Materials.—The term "materials" means substances, including minerals, of curre
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2025 Amendment
+
+Pub. L. 118–233, §1, Jan. 4, 2025, 138 Stat. 2835, provided that: "This Act \[amending section 1606 of this title\] may be cited as the 'Recognizing the Importance of Critical Minerals in Healthcare Act of 2023'."
+
 #### Short Title
 
 Pub. L. 96–479, §1, Oct. 21, 1980, 94 Stat. 2305, provided: "That this Act \[enacting this chapter\] may be cited as the 'National Materials and Minerals Policy, Research and Development Act of 1980'."
@@ -78,7 +82,7 @@ Sec. 4. <i>Implementation</i>. (a) Within 180 days of the date that the Secretar
 
 (v) recommendations to streamline permitting and review processes related to developing leases; enhancing access to critical mineral resources; and increasing discovery, production, and domestic refining of critical minerals.
 
-(b) Agencies shall implement subsection (a) of this section in a manner consistent with, and when possible complementary to, implementation of Executive Order 13771 of January 30, 2017 (Reducing Regulation and Controlling Regulatory Costs), Executive Order 13783 of March 28, 2017 (Promoting Energy Independence and Economic Growth), Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects), and Executive Order 12866 of September 30, 1993 (Regulatory Planning and Review).
+(b) Agencies shall implement subsection (a) of this section in a manner consistent with, and when possiblecomplementary to, implementation of Executive Order 13771 of January 30, 2017 (Reducing Regulation and Controlling Regulatory Costs), Executive Order 13783 of March 28, 2017 (Promoting Energy Independence and Economic Growth), Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects), and Executive Order 12866 of September 30, 1993 (Regulatory Planning and Review).
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

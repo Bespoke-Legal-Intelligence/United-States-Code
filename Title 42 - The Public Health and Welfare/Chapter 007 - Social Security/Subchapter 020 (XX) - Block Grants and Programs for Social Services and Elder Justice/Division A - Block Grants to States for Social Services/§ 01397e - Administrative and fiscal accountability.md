@@ -20,13 +20,13 @@ Each report prepared and transmitted by a State under subsection (a) shall set f
 
 &emsp;(4) the methods by which services were provided, showing separately the services provided by public agencies and those provided by private agencies, and broken down in each case to reflect the types of services and circumstances involved.
 
-> The Secretary shall establish uniform definitions of services for use by the States in preparing the information required by this subsection, and make such other provision as may be necessary or appropriate to assure that compliance with the requirements of this subsection will not be unduly burdensome on the States.
+> The Secretary shall establish uniform definitions of services for use by the States in preparing the information required by this subsection, and make such other provision as maybe necessary or appropriate to assure that compliance with the requirements of this subsection will not be unduly burdensome on the States.
 
 #### (d) Additional accounting requirements
 
 For other provisions requiring States to account for Federal grants, see section 6503 of title 31.
 
-(Aug. 14, 1935, ch. 531, title XX, §2006, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 870; amended Pub. L. 98–369, div. B, title VI, §2663(h)(2), July 18, 1984, 98 Stat. 1169; Pub. L. 100–485, title VI, §607, Oct. 13, 1988, 102 Stat. 2410;Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
+(Aug. 14, 1935, ch. 531, title XX, §2006, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 870; amended Pub. L. 98–369, div. B, title VI, §2663(h)(2), July 18, 1984, 98 Stat. 1169; Pub. L. 100–485, title VI, §607, Oct. 13, 1988, 102 Stat. 2410; Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
 
 #### <b>Editorial Notes</b>
 

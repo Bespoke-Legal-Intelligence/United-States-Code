@@ -46,7 +46,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 &emsp;(ii) the board disagrees with the petition for any reason, the board shall submit the amendment and the proponents' statement to the shareholders for a vote and may, at its discretion, submit an opposing statement or an alternative amendment.
 
-(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section 1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shallgovern any shareholder right of petition for Native Corporations.
+(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section 1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
 
 #### (d) Voting standards
 
@@ -58,7 +58,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 (2) A Native Corporation in amending its articles of incorporation pursuant to section 1606(g)(2) of this title to authorize the issuance of a new class or series of stock may provide that a majority (or more than a majority) of the shares of such class or series must vote in favor of an amendment or resolution described in subsection (a) (other than an amendment authorized by section 1629c of this title) in order for such amendment or resolution to be approved.
 
-(3) A resolution described in subsection (a)(3) or an amendment to articles of incorporation under section 1606(g)(1)(B) of this title shall be considered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
+(3) A resolution described in subsection (a)(3) or an amendment to articles of incorporation under section 1606(g)(1)(B) of this title shall beconsidered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
 
 &emsp;(A) a majority of the shares present or represented by proxy at the meeting relating to the resolution or amendment to articles of incorporation; or
 

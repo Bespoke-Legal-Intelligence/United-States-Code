@@ -38,7 +38,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 12 months after the date of enactment of this subsection, the Secretary shall issue regulations prescribing standards to direct an operator's conduct of a risk analysis and adoption and implementation of an integrity management program under this subsection. The regulations shall require an operator to conduct a risk analysis and adopt an integrity management program within a time period prescribed by the Secretary, ending not later than 24 months after such date of enactment. Not later than 18 months aftersuch date of enactment, each operator of a gas pipeline facility shall begin a baseline integrity assessment described in paragraph (3).
+In general.—Not later than 12 months after the date of enactment of this subsection, the Secretary shall issue regulations prescribing standards to direct an operator's conduct of a risk analysis and adoption and implementation of an integrity management program under this subsection. The regulations shall require an operator to conduct a risk analysis and adopt an integrity management program within a time period prescribed by the Secretary, ending not later than 24 months after such date of enactment. Not later than 18 months after such date of enactment, each operator of a gas pipeline facility shall begin a baseline integrity assessment described in paragraph (3).
 
 &emsp;&emsp;(B)
 
@@ -122,7 +122,7 @@ Context of review.—The Secretary may conduct a review under clause (i) as an e
 
 &emsp;&emsp;&emsp;(iii)
 
-Inadequate programs.—If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), has not been adequately implemented, or is inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
+Inadequate programs.—If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), has not been adequatelyimplemented, or is inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
 
 &emsp;&emsp;(B)
 
@@ -272,7 +272,7 @@ In general.—Not later than 2 years after the date of promulgation of the regul
 
 Grace period.—For the third, fourth, and fifth years after the date of promulgation of the regulations under subparagraph (A), the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not use subclause (I) as justification to reduce funding, decertify, or penalize in any way under section60105, 60106, or 60107 a State authority that has in effect a certification under section 60105 or an agreement under section 60106; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not use subclause (I) as justification to reduce funding, decertify, or penalize in any way under section 60105, 60106, or 60107 a State authority that has in effect a certification under section 60105 or an agreement under section 60106; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) shall—
 
@@ -296,7 +296,7 @@ Context of review.—The Secretary may conduct a review under clause (i) or (ii)
 
 &emsp;&emsp;&emsp;(iv)
 
-Inadequate programs.—If the Secretary determines that the documents reviewed under clause (i) or (ii) do not comply with the requirements of this chapter (including regulations to implement this chapter), have not been adequately implemented, or are inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
+Inadequate programs.—If the Secretary determines that the documents reviewed under clause (i) or (ii) do not comply with the requirements of this chapter (including regulations to implement this chapter), have not been adequately implemented, or are inadequate for the safe operation of a pipeline facility, the Secretarymay conduct proceedings under this chapter.
 
 (f)
 
@@ -526,7 +526,7 @@ Factors.—In conducting the evaluation under subsection (a), the Secretary shal
 
 &emsp;"(4) The need to undertake integrity management assessments and repairs in a manner that is achievable and sustainable, and that does not disrupt pipeline service.
 
-&emsp;"(5) The options for phasing in the extension of integrity management requirements beyond high-consequence areas, including the most effective and efficient options for decreasing risks to an increasing number of people living or working in proximity to pipeline facilities.
+&emsp;"(5) The options for phasing in the extension of integrity management requirements beyond high-consequence areas, including the most effective and efficient options for decreasing risks to an increasingnumber of people living or working in proximity to pipeline facilities.
 
 &emsp;"(6) The appropriateness of applying repair criteria, such as pressure reductions and special requirements for scheduling remediation, to areas that are not high-consequence areas.
 

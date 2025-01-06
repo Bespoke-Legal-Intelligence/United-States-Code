@@ -38,7 +38,7 @@ The Secretary shall not make loans under section 9812(a) of title 42.
 
 #### (e) Limitation on loan amounts
 
-The maximum amount of a loan by an eligible entity described in subsection (b) to individuals and entities for a project under subsection (c), including the unpaid balance of any existing loans, shall be the lesser of—
+The maximum amount of a loan by an eligible entity described in subsection (b) to individuals and entities for a project under subsection (c),including the unpaid balance of any existing loans, shall be the lesser of—
 
 &emsp;(1) $400,000; and
 

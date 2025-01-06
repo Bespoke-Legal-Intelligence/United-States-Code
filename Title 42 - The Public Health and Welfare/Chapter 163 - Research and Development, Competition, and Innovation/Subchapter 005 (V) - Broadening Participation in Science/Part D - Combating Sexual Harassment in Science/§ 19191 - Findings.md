@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(3) Reporting procedures with respect to sexual harassment are inconsistent among Federal research agencies and have varying degrees of accessibility.
 
-&emsp;(4) There is not adequate communication among Federal research agencies and between such agencies and recipients regarding reports of sexual harassment, which has resulted in harassers receiving Federal funding after moving to a different institution.
+&emsp;(4) There is not adequate communication among Federal research agencies and between such agencies and recipients regarding reportsof sexual harassment, which has resulted in harassers receiving Federal funding after moving to a different institution.
 
 (Pub. L. 117–167, div. B, title V, §10531, Aug. 9, 2022, 136 Stat. 1627.)
 

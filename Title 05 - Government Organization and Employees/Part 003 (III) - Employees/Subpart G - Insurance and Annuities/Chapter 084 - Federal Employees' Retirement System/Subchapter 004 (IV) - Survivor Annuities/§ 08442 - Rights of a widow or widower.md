@@ -46,7 +46,7 @@
 
 (B)(i) Notwithstanding the first sentence of subsection (d)(1), the annuity of the widow or widower of a former employee or Member under subparagraph (A)(ii) commences—
 
-&emsp;(I) on the day after the date on which the former employee or Member would have attained age 62 (or, if applicable, either age 60 ifthe former employee or Member completed at least 20 years of service, or the applicable minimum retirement age (under section 8412(h)) if the former employee or Member completed at least 30 years of service); or
+&emsp;(I) on the day after the date on which the former employee or Member would have attained age 62 (or, if applicable, either age 60 if the former employee or Member completed at least 20 years of service, or the applicable minimum retirement age (under section 8412(h)) if the former employee or Member completed at least 30 years of service); or
 
 &emsp;(II) if the widow or widower so designates in the election, as of the day after the death of the former employee or Member.
 
@@ -110,7 +110,7 @@
 
 (6) An amount payable under this subsection shall be adjusted under section 8462 and shall otherwise be treated under this chapter in the same way as an amount payable under subsection (a).
 
-(g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsection referred to as a "disability annuitant") is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
+(g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsection referred to as a "disability annuitant") is determined under subsection (a) to be entitled to anannuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
 
 (2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is based shall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such section and any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
 

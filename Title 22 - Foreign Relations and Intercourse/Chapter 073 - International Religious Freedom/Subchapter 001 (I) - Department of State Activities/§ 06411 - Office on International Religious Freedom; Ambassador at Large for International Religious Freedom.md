@@ -6,7 +6,7 @@ There is established within the Department of State an Office on International R
 
 #### (b) Appointment
 
-The Ambassador at Large shall be appointed by the President, by and with the advice andconsent of the Senate, and shall report directly to the Secretary of State.
+The Ambassador at Large shall be appointed by the President, by and with the advice and consent of the Senate, and shall report directly to the Secretary of State.
 
 #### (c) Duties
 

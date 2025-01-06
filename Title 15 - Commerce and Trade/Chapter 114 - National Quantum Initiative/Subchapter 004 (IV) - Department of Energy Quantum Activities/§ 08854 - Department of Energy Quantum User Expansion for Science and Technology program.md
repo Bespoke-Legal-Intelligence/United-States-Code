@@ -30,7 +30,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(3) consider applications from the National Laboratories, multi-institutional collaborations, institutions of higher education, industry stakeholders, and any other entities that the Secretary determines are appropriate to provide national leadership on quantum computing related issues;
 
-&emsp;(4) coordinate with private sector stakeholders, the user community, and interagency partners on program development and best management practices; and
+&emsp;(4) coordinate with private sector stakeholders, the user community, and interagencypartners on program development and best management practices; and
 
 &emsp;(5) to the extent practicable, balance user access to commercial prototypes available for use across a broad class of applications and Federal research prototypes that enable benchmarking a wider variety of early-stage devices.
 

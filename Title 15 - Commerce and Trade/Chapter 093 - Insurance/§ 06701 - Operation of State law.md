@@ -20,7 +20,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;(A) any State from—
 
-&emsp;&emsp;&emsp;(i) collecting, reviewing, and taking actions (including approval and disapproval) on applications and other documents or reports concerning any proposed acquisitionof, or a change or continuation of control of, an insurer domiciled in that State; and
+&emsp;&emsp;&emsp;(i) collecting, reviewing, and taking actions (including approval and disapproval) on applications and other documents or reports concerning any proposed acquisition of, or a change or continuation of control of, an insurer domiciled in that State; and
 
 &emsp;&emsp;&emsp;(ii) exercising authority granted under applicable State law to collect information concerning any proposed acquisition of, or a change or continuation of control of, an insurer engaged in the business of insurance in, and regulated as an insurer by, such State;
 
@@ -74,7 +74,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(II) from informing a customer or prospective customer that insurance is required in order to obtain a loan or credit, that loan or credit approval is contingent upon the procurement by the customer of acceptable insurance, or that insurance is available from the depository institution or an affiliate of the depository institution.
 
-&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospective customer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
+&emsp;&emsp;&emsp;(ix) Restrictions requiring, when an application by a consumer for a loan or other extension of credit from a depository institution is pending, and insurance is offered or sold to the consumer or is required in connection with the loan or extension of credit by the depository institution or any affiliate thereof, that a written disclosure be provided to the consumer or prospectivecustomer indicating that the customer's choice of an insurance provider will not affect the credit decision or credit terms in any way, except that the depository institution may impose reasonable requirements concerning the creditworthiness of the insurer and scope of coverage chosen.
 
 &emsp;&emsp;&emsp;(x) Restrictions requiring clear and conspicuous disclosure, in writing, where practicable, to the customer prior to the sale of any insurance policy that such policy—
 
@@ -100,7 +100,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 #### (ii) Nondiscrimination
 
-&emsp;&emsp;&emsp;Subsection (e) does not apply with respect to any State statute, regulation, order, interpretation, or other action regarding insurance sales, solicitation, or cross marketing activities described in subparagraph (A) that was issued, adopted,or enacted before September 3, 1998, and that is not described in subparagraph (B).
+&emsp;&emsp;&emsp;Subsection (e) does not apply with respect to any State statute, regulation, order, interpretation, or other action regarding insurance sales, solicitation, or cross marketing activities described in subparagraph (A) that was issued, adopted, or enacted before September 3, 1998, and that is not described in subparagraph (B).
 
 #### (iii) Construction
 
@@ -204,7 +204,7 @@ The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar
 
 This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
+Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec.\(d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -256,7 +256,7 @@ Establishment.—The Secretary of the Treasury shall establish and appoint an ad
 
 &emsp;"(2)
 
-Duties.—The Advisory Committee shall provide advice, recommendations, and encouragementwith respect to the creation and development of the nongovernmental risk-sharing mechanisms described under subsection (a).
+Duties.—The Advisory Committee shall provide advice, recommendations, and encouragement with respect to the creation and development of the nongovernmental risk-sharing mechanisms described under subsection (a).
 
 &emsp;"(3)
 
@@ -358,7 +358,7 @@ In general.—An entity has 'control' over another entity, if—
 
 &emsp;&emsp;&emsp;"(ii) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
 
-&emsp;&emsp;&emsp;"(iii) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influenceover the management or policies of the other entity.
+&emsp;&emsp;&emsp;"(iii) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
 
 &emsp;&emsp;"(B)
 
@@ -688,7 +688,7 @@ Timing of mandatory recoupment.—
 
 In general.—If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for any act of terrorism that occurs on or before December 31, 2022, the Secretary shall collect all required premiums by September 30, 2024;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for any act of terrorism that occurs on or before December 31, 2022, the Secretary shallcollect all required premiums by September 30, 2024;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for any act of terrorism that occurs between January 1 and December 31, 2023, the Secretary shall collect 35 percent of any required premiums by September 30, 2024, and the remainder by September 30, 2029; and
 
@@ -742,7 +742,7 @@ Recoupment of adjustments.—Any mandatory recoupment amounts not collected by t
 
 &emsp;&emsp;"(E)
 
-Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreadingpremiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
+Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
 
 "(f)
 
@@ -796,7 +796,7 @@ General Authority.—The Secretary shall have the powers and authorities necessa
 
 &emsp;"(1) to investigate and audit all claims under the Program; and
 
-&emsp;"(2) to prescribe regulations and procedures to effectively administer and implement the Program, and to ensure that all insurers and self-insured entities that participate in the Program are treated comparably under the Program.
+&emsp;"(2) to prescribe regulations and procedures to effectively administer and implement the Program,and to ensure that all insurers and self-insured entities that participate in the Program are treated comparably under the Program.
 
 "(b)
 
@@ -924,7 +924,7 @@ Confidentiality.—
 
 &emsp;&emsp;"(A)
 
-Retention of privilege.—The submission of any non-publicly available data and information to the Secretary and the sharing of any non-publicly available data with or by the Secretary among other Federal agencies, the State insurance regulatory authorities, or any other entities under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+Retention of privilege.—The submission of any non-publicly available data and information to the Secretary and the sharing of any non-publicly available data with or by the Secretary among other Federal agencies, the State insurance regulatory authorities, or any other entities under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal orState court) to which the data or information is otherwise subject.
 
 &emsp;&emsp;"(B)
 
@@ -978,7 +978,7 @@ State Law.—Nothing in this title shall affect the jurisdiction or regulatory a
 
 &emsp;"(2) except that—
 
-&emsp;&emsp;"(A) the definition of the term 'act of terrorism' in section 102 shall be the exclusive definition of that term for purposes of compensation for insuredlosses under this title, and shall preempt any provision of State law that is inconsistent with that definition, to the extent that such provision of law would otherwise apply to any type of insurance covered by this title;
+&emsp;&emsp;"(A) the definition of the term 'act of terrorism' in section 102 shall be the exclusive definition of that term for purposes of compensation for insured losses under this title, and shall preempt any provision of State law that is inconsistent with that definition, to the extent that such provision of law would otherwise apply to any type of insurance covered by this title;
 
 &emsp;&emsp;"(B) during the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2003, rates and forms for terrorism risk insurance covered by this title and filed with any State shall not be subject to prior approval or a waiting period under any law of a State that would otherwise be applicable, except that nothing in this title affects the ability of any State to invalidate a rate as excessive, inadequate, or unfairly discriminatory, and, with respect to forms, where a State has prior approval authority, it shall apply to allow subsequent review of such forms; and
 

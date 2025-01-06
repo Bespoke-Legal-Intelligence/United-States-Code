@@ -1,6 +1,6 @@
 ### §929. Use of restricted ammunition
 
-(a)(1) Whoever, during and in relation to the commission of a crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm, shall, in addition to the punishment provided for the commission of such crime of violence or drug trafficking crime be sentenced to a term of imprisonment for not less than five years.
+(a)(1) Whoever, during and in relation to the commission of a crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for whichhe may be prosecuted in a court of the United States, uses or carries a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm, shall, in addition to the punishment provided for the commission of such crime of violence or drug trafficking crime be sentenced to a term of imprisonment for not less than five years.
 
 (2) For purposes of this subsection, the term "drug trafficking crime" means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46.
 
@@ -12,7 +12,7 @@
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat.1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 

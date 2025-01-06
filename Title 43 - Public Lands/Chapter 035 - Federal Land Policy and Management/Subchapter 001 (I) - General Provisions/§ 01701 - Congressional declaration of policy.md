@@ -36,7 +36,7 @@
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as theFederal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 
@@ -56,7 +56,7 @@ Pub. L. 100–409, §1, Aug. 20, 1988, 102 Stat. 1086, provided that: "This Act 
 
 #### Short Title
 
-Pub. L. 94–579, title I, §101, Oct. 21, 1976, 90 Stat. 2744, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Land Policy and Management Act of 1976'."
+Pub. L. 94–579, title I, §101, Oct. 21, 1976, 90 Stat. 2744, provided that: "This Act \[see Tables for classification\]may be cited as the 'Federal Land Policy and Management Act of 1976'."
 
 #### Savings Provision
 

@@ -2,7 +2,7 @@
 
 #### (a) Definition of public works department or agency
 
-In this section, the term "public works department or agency" means a political subdivision of a local, county, or regional government thatdesigns, builds, operates, and maintains water infrastructure, sewage and refuse disposal systems, and other public water systems and facilities.
+In this section, the term "public works department or agency" means a political subdivision of a local, county, or regional government that designs, builds, operates, and maintains water infrastructure, sewage and refuse disposal systems, and other public water systems and facilities.
 
 #### (b) Sense of Congress
 
@@ -42,7 +42,7 @@ It is the sense of Congress that—
 
 #### (2) Selection of grant recipients
 
-&emsp;In awarding grants under paragraph (1), the Administrator shall, to the extent practicable, select nonprofit professional or service organizations, labor organizations, community colleges, institutions of higher education, or other training and educational institutions, or public works departments and agencies—
+&emsp;In awarding grants under paragraph (1), the Administrator shall, to the extent practicable,select nonprofit professional or service organizations, labor organizations, community colleges, institutions of higher education, or other training and educational institutions, or public works departments and agencies—
 
 &emsp;&emsp;(A) that have qualifications and experience—
 

@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (d) Limitation also to apply to excess credits or net capital losses
 
-Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit\(as defined in section 383(a)(2)) or net capital loss.
+Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit (as defined in section 383(a)(2)) or net capital loss.
 
 #### (e) Ordering rules for net operating losses, etc.
 
@@ -154,7 +154,7 @@ Subsec. (b). Pub. L. 100–647, §2004(m)(3), substituted "corporations under co
 
 Subsec. (c)(1)(A). Pub. L. 100–647, §2004(m)(1)(D), substituted "subsection (a)(1)(B)" for "subsection (a)(2)".
 
-Subsec. (c)(2). Pub. L. 100–647, §2004(m)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'acquisition date' means the date on which the gain corporation becomes a member of the affiliated group or, in any case described in subsection (a)(2), the date of the distribution or transfer in the liquidation or reorganization."
+Subsec. (c)(2). Pub. L. 100–647, §2004(m)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'acquisition date' means the date on which the gain corporation becomes a member of the affiliated group or, in any case described in subsection\(a)(2), the date of the distribution or transfer in the liquidation or reorganization."
 
 Subsec. (c)(4) to (8). Pub. L. 100–647, §2004(m)(1)(B), redesignated par. (4) as (8) and added pars. (4) to (7).
 

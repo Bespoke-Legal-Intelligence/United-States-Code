@@ -114,7 +114,7 @@ General Rule.—Subject to subsection (b), this Act \[see Short Title of 1986 Am
 
 "(b)
 
-Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of the Liability Risk Retention Act of 1986 (as added by section 5(b) of this Act) \[15 U.S.C. 3902(d)\], relating to the submission of a feasibility study, shall not apply with respect to any line or classification of liability insurance which—
+Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of the Liability Risk Retention Act of 1986 (as added by section 5(b) of this Act)\[15 U.S.C. 3902(d)\], relating to the submission of a feasibility study, shall not apply with respect to any line or classification of liability insurance which—
 
 &emsp;"(1) was defined in the Product Liability Risk Retention Act of 1981 \[Pub. L. 97–45, which enacted this chapter\] before the date of the enactment of this Act \[Oct. 27, 1986\]; and
 

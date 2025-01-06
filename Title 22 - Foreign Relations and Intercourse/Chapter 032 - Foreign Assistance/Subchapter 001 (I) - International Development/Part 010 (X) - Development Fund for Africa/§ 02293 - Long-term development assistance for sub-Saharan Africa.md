@@ -64,7 +64,7 @@ The Agency for International Development shall ensure that development activitie
 
 #### (B) Protection of vulnerable groups
 
-&emsp;&emsp;Assisted policy reforms shall also include provisions to protect vulnerable groups (especially poor, isolated, and female farmers, the urban poor, and children including displaced children) and long-term environmental interests from possible negative consequences of the reforms.
+&emsp;&emsp;Assisted policy reforms shall also include provisions to protect vulnerable groups (especially poor, isolated, and female farmers,the urban poor, and children including displaced children) and long-term environmental interests from possible negative consequences of the reforms.
 
 #### (3) Democratization and conflict resolution capabilities
 
@@ -72,7 +72,7 @@ The Agency for International Development shall ensure that development activitie
 
 &emsp;&emsp;(A) to promote democratization, good governance, and strong civil societies in sub-Saharan Africa; and
 
-&emsp;&emsp;(B) to strengthen conflict resolution capabilities of governmental, intergovernmental,and nongovernmental entities in sub-Saharan Africa.
+&emsp;&emsp;(B) to strengthen conflict resolution capabilities of governmental, intergovernmental, and nongovernmental entities in sub-Saharan Africa.
 
 #### (4) Other assistance
 
@@ -326,7 +326,7 @@ Report Required.—Not later than 180 days after the date of the enactment of th
 
 &emsp;&emsp;"(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa.
 
-&emsp;"(10) A description of how the President intends to encourage the growth of distributed renewable energymarkets in sub-Saharan Africa, including off-grid lighting and power, that includes—
+&emsp;"(10) A description of how the President intends to encourage the growth of distributed renewable energy markets in sub-Saharan Africa, including off-grid lighting and power, that includes—
 
 &emsp;&emsp;"(A) an analysis of the state of distributed renewable energy in sub-Saharan Africa;
 
@@ -414,13 +414,13 @@ Rule of Construction.—Nothing in this section may be construed to authorize mo
 
 In General.—Not later than three years after the date of the enactment of this Act \[Feb. 8, 2016\], the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on progress made toward achieving the strategy described in section 4 that includes the following:
 
-&emsp;"(1) A report on United States programs supporting implementation of policy and legislative changes leading to increased power generation and access in sub-Saharan Africa, including a description of the number, type, and status of policy, regulatory, and legislative changes initiated or implemented as a result of programs funded or supported by the United States in countries in sub-Saharan Africa to support increased power generation and access after the date of the enactment of this Act.
+&emsp;"(1) A report on United States programs supporting implementation of policy and legislative changes leading to increased power generation and access in sub-Saharan Africa, including a description of thenumber, type, and status of policy, regulatory, and legislative changes initiated or implemented as a result of programs funded or supported by the United States in countries in sub-Saharan Africa to support increased power generation and access after the date of the enactment of this Act.
 
 &emsp;"(2) A description of power projects receiving United States Government support and how such projects, including off-grid efforts, are intended to achieve the strategy described in section 4.
 
 &emsp;"(3) For each project described in paragraph (2)—
 
-&emsp;&emsp;"(A) a description of how the project fits into, or encourages modifications of, the national energyplan of the country in which the project will be carried out, including encouraging regulatory reform in that county;
+&emsp;&emsp;"(A) a description of how the project fits into, or encourages modifications of, the national energy plan of the country in which the project will be carried out, including encouraging regulatory reform in that county;
 
 &emsp;&emsp;"(B) an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors;
 
@@ -590,11 +590,11 @@ Additional Requirements.—Such plan shall seek to ensure that—
 
 &emsp;"(2) sustainable agricultural methods of farming will be considered together with new technologies in increasing agricultural productivity in sub-Saharan Africa; and
 
-&emsp;"(3) research and extension efforts will focus on sustainable agricultural practices and will be adapted to widely varying climates within sub-Saharan Africa."
+&emsp;"(3) research and extension efforts will focus on sustainable agricultural practices and will be adaptedto widely varying climates within sub-Saharan Africa."
 
 #### Reports to Congress
 
-Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: "As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying outchapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
+Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: "As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
 &emsp;"(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 \[22 U.S.C. 2293(e)(1), (f)\];
 

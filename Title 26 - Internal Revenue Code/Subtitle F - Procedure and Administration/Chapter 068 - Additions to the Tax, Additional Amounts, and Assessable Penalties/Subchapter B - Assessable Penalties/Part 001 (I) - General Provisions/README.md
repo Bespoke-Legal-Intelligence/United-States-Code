@@ -75,7 +75,7 @@ Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended a
 
 <b>2009</b>—Pub. L. 111–5, div. B, title III, §3001(a)(13)(B), Feb. 17, 2009, 123 Stat. 465, added item 6720C.
 
-<b>2007</b>—Pub. L. 110–142, §9(b), Dec. 20, 2007, 121 Stat. 1807, which directed amendment of the analysis for this part by adding item 6699 at the end, was executed by inserting item 6699 after item 6698, to reflect the probable intent of Congress.
+<b>2007</b>—Pub. L. 110–142, §9(b), Dec. 20, 2007, 121 Stat. 1807, which directed amendment of the analysis for thispart by adding item 6699 at the end, was executed by inserting item 6699 after item 6698, to reflect the probable intent of Congress.
 
 Pub. L. 110–28, title VIII, §§8246(a)(2)(F)(ii), (G)(iii), 8247(b), May 25, 2007, 121 Stat. 202, 204, added item 6676, substituted "tax return preparer" for "income tax return preparer" in item 6694, and struck out "income" before "tax returns" in item 6695.
 

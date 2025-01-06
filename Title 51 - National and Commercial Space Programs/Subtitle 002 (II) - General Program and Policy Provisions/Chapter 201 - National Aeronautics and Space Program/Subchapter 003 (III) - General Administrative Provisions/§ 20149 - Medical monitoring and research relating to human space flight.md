@@ -36,11 +36,11 @@ Conditional payment.—The Administrator may provide for conditional payments fo
 
 Exclusions.—The Administrator may not—
 
-&emsp;(1) provide for medical monitoring or diagnosis of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not potentially associated with human space flight;
+&emsp;(1) provide for medical monitoring or diagnosis of a former United States governmentastronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not potentially associated with human space flight;
 
 &emsp;(2) provide for treatment of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not associated with human space flight; or
 
-&emsp;(3) require a former United States government astronaut or former payload specialistto participate in the medical monitoring, diagnosis, or treatment authorized under subsection (a).
+&emsp;(3) require a former United States government astronaut or former payload specialist to participate in the medical monitoring, diagnosis, or treatment authorized under subsection (a).
 
 (d)
 

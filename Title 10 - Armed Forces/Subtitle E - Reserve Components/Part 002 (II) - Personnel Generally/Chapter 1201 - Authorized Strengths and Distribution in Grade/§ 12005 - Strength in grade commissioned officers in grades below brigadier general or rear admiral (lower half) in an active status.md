@@ -48,7 +48,7 @@
 
 (2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2985; amended Pub. L. 106–398, §1 \[\[div. A\], title IV, §423\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 108–375,div. A, title V, §504, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §515(b)(1)(FF), Jan. 6, 2006, 119 Stat. 3233.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2985; amended Pub. L. 106–398, §1 \[\[div. A\], title IV, §423\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 108–375, div. A, title V, §504, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §515(b)(1)(FF), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### <b>Editorial Notes</b>
 

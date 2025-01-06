@@ -92,7 +92,7 @@ The Secretary shall consult with non-Federal experts on the Firefighter Registry
 
 #### (f) Research availability
 
-Subject to subsection (g), the Secretary shall ensure that information and analysis in the Firefighter Registry are available, as appropriate, to the public, including researchers, firefighters, and national fire service organizations.
+Subject to subsection (g), the Secretary shall ensure that information and analysis in theFirefighter Registry are available, as appropriate, to the public, including researchers, firefighters, and national fire service organizations.
 
 #### (g) Privacy
 
@@ -100,9 +100,9 @@ In carrying out this Act, the Secretary shall ensure that information in and ana
 
 #### (h) Authorization of funds
 
-To carry out this section, there are authorized to be appropriated $2,500,000 for each of the fiscal years 2018 through 2022.
+To carry out this section, there are authorized to be appropriated $5,500,000 for each of fiscal years 2024 through 2028.
 
-(Pub. L. 115–194, §2, July 7, 2018, 132 Stat. 1506.)
+(Pub. L. 115–194, §2, July 7, 2018, 132 Stat. 1506; Pub. L. 118–147, §2, Dec. 12, 2024, 138 Stat. 1674.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,6 +113,10 @@ This Act, referred to in subsecs. (d)(1) and (g), is Pub. L. 115–194, July 7, 
 #### Codification
 
 Section was enacted as part of the Firefighter Cancer Registry Act of 2018, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (h). Pub. L. 118–147 substituted "$5,500,000 for each of fiscal years 2024 through 2028" for "$2,500,000 for each of the fiscal years 2018 through 2022".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

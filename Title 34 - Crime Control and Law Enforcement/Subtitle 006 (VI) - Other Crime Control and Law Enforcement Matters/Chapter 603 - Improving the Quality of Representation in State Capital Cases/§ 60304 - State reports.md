@@ -18,7 +18,7 @@ With respect to the funds provided under section 60301 of this title, a report u
 
 &emsp;&emsp;(A) invests the responsibility for identifying and appointing qualified attorneys to represent indigents in capital cases in a program described in section 60301(e)(1)(A) of this title, an entity described in section 60301(e)(1)(B) of this title, or a selection committee or similar entity described in section 60301(e)(1)(C) of this title; and
 
-&emsp;&emsp;(B) requires such program, entity, or selection committee or similar entity, or otherappropriate entity designated pursuant to the statutory procedure described in section 60301(e)(1)(C) of this title, to—
+&emsp;&emsp;(B) requires such program, entity, or selection committee or similar entity, or other appropriate entity designated pursuant to the statutory procedure described in section 60301(e)(1)(C) of this title, to—
 
 &emsp;&emsp;&emsp;(i) establish qualifications for attorneys who may be appointed to represent indigents in capital cases in accordance with section 60301(e)(2)(A) of this title;
 

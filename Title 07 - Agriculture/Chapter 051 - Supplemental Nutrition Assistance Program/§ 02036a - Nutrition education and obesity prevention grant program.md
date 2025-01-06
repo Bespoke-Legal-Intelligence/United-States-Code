@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible individual
 
-In this section, the term "eligible individual" means an individual who is eligible to receivebenefits under a nutrition education and obesity prevention program under this section as a result of being—
+In this section, the term "eligible individual" means an individual who is eligible to receive benefits under a nutrition education and obesity prevention program under this section as a result of being—
 
 &emsp;(1) an individual eligible for benefits under—
 
@@ -104,7 +104,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 #### (6) Information clearinghouse
 
-&emsp;The Secretary shall establish an online clearinghouse that makes available to State agencies, local agencies, institutions of higher education, and community organizations best practices for planning, implementing, andevaluating nutrition education and obesity prevention services to ensure that projects carried out with funds received under this section are appropriate for the target population.
+&emsp;The Secretary shall establish an online clearinghouse that makes available to State agencies, local agencies, institutions of higher education, and community organizations best practices for planning, implementing, and evaluating nutrition education and obesity prevention services to ensure that projects carried out with funds received under this section are appropriate for the target population.
 
 #### (7) Technical assistance
 

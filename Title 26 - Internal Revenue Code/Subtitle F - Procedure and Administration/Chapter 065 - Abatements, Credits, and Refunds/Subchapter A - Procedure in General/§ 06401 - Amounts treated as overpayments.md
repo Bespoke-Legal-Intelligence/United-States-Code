@@ -18,7 +18,7 @@ The term "overpayment" includes that part of the amount of the payment of any in
 
 An amount paid as tax shall not be considered not to constitute an overpayment solely by reason of the fact that there was no tax liability in respect of which such amount was paid.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 791; Pub. L. 89–44, title VIII, §809(d)(6), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title III, §331(c), Dec. 30, 1969, 83 Stat. 598; Pub. L. 91–258, title II, §207(d)(1), May 21, 1970, 84 Stat. 248; Pub. L. 94–12, title II, §204(b)(1), Mar. 29, 1975, 89 Stat. 31; Pub. L. 94–455, title VII, §701(f)(2), (3), Oct. 4, 1976, 90 Stat. 1580; Pub. L. 95–600, title VII, §701(u)(15)(D), Nov. 6, 1978, 92 Stat. 2919; Pub. L. 95–618, title III, §301(c)(2), Nov. 9, 1978, 92 Stat. 3199; Pub. L. 96–222, title I, §103(a)(2)(B)(iv), Apr. 1, 1980, 94 Stat. 209; Pub. L. 96–223, title II, §223(b)(2), Apr. 2, 1980, 94 Stat. 266; Pub. L. 97–248, title III, §§307(a)(9), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §474(r)(36), title VII, §735(c)(16), July 18, 1984, 98 Stat. 846, 985; Pub. L. 99–514, title XII, §1246(b), Oct. 22, 1986, 100 Stat. 2582; Pub. L. 100–647, title I, §1012(s)(1)(B), Nov. 10, 1988, 102 Stat. 3527; Pub. L. 105–206, title VI, §6022(a), July 22, 1998, 112 Stat. 824; Pub. L. 109–58, title XIII, §1303(c)(4), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–234, title XV, §15316(c)(3), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(3), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 111–5, div. B, title I, §1531(c)(5), Feb. 17, 2009, 123 Stat. 360; Pub. L. 115–97, title I, §13404(c)(4), Dec. 22, 2017, 131 Stat. 2138.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 791; Pub. L. 89–44, title VIII, §809(d)(6), June 21, 1965, 79 Stat. 168;Pub. L. 91–172, title III, §331(c), Dec. 30, 1969, 83 Stat. 598; Pub. L. 91–258, title II, §207(d)(1), May 21, 1970, 84 Stat. 248; Pub. L. 94–12, title II, §204(b)(1), Mar. 29, 1975, 89 Stat. 31; Pub. L. 94–455, title VII, §701(f)(2), (3), Oct. 4, 1976, 90 Stat. 1580; Pub. L. 95–600, title VII, §701(u)(15)(D), Nov. 6, 1978, 92 Stat. 2919; Pub. L. 95–618, title III, §301(c)(2), Nov. 9, 1978, 92 Stat. 3199; Pub. L. 96–222, title I, §103(a)(2)(B)(iv), Apr. 1, 1980, 94 Stat. 209; Pub. L. 96–223, title II, §223(b)(2), Apr. 2, 1980, 94 Stat. 266; Pub. L. 97–248, title III, §§307(a)(9), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §474(r)(36), title VII, §735(c)(16), July 18, 1984, 98 Stat. 846, 985; Pub. L. 99–514, title XII, §1246(b), Oct. 22, 1986, 100 Stat. 2582; Pub. L. 100–647, title I, §1012(s)(1)(B), Nov. 10, 1988, 102 Stat. 3527; Pub. L. 105–206, title VI, §6022(a), July 22, 1998, 112 Stat. 824; Pub. L. 109–58, title XIII, §1303(c)(4), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–234, title XV, §15316(c)(3), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(3), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 111–5, div. B, title I, §1531(c)(5), Feb. 17, 2009, 123 Stat. 360; Pub. L. 115–97, title I, §13404(c)(4), Dec. 22, 2017, 131 Stat. 2138.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 109–58 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6022(b), July 22, 1998, 112 Stat. 824, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 701(b) of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
+Pub. L. 105–206, title VI, §6022(b), July 22, 1998, 112 Stat. 824, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect asif included in the amendments made by section 701(b) of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600, to the extent amendment relates to chapter 1 or 5 of this title, applicableto taxable years ending on or after Dec. 31, 1975, and, to the extent amendment relates to wage withholding under chapter 24 of this title, applicable to remuneration paid on or after the first day of the first month which begins more than 90 days after Nov. 6, 1978, see section 701(u)(15)(E) of Pub. L. 95–600, set out as a note under section 6013 of this title.
+Amendment by Pub. L. 95–600, to the extent amendment relates to chapter 1 or 5 of this title, applicable to taxable years ending on or after Dec. 31, 1975, and, to the extent amendment relates to wage withholding under chapter 24 of this title, applicable to remuneration paid on or after the first day of the first month which begins more than 90 days after Nov. 6, 1978, see section 701(u)(15)(E) of Pub. L. 95–600, set out as a note under section 6013 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -10,7 +10,7 @@ The United States Government, in connection with its voice and vote in the Inter
 
 #### (b) Policy considerations for Executive Directors of institutions in implementation of duties
 
-Further, the Secretary of the Treasury shall instruct each Executive Director of the above institutions to consider in carrying out his duties:
+Further, the Secretary of the Treasury shall instruct each Executive Director of the aboveinstitutions to consider in carrying out his duties:
 
 &emsp;(1) specific actions by either the executive branch or the Congress as a whole on individual bilateral assistance programs because of human rights considerations;
 
@@ -50,7 +50,7 @@ In determining whether the government of a country engages in a pattern of gross
 
 &emsp;(2) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
 
-(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826;Pub. L. 98–181, title I \[title X, §1004\], Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810; Pub. L. 106–569, title XI, §1103(g), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.)
+(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title I \[title X, §1004\], Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810; Pub. L. 106–569, title XI, §1103(g), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,7 +138,7 @@ Briefings.—The Secretary of the Treasury shall make relevant officials availab
 
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance
 
-Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
+Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the UnitedStates Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 

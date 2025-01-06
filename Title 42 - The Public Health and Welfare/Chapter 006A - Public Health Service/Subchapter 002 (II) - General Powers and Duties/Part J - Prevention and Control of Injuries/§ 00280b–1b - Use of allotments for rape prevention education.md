@@ -62,7 +62,7 @@ In awarding funds to States under this section, the Secretary shall set forth pr
 
 #### (1) Supplement not supplant
 
-&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local publicfunds expended to provide services of the type described in subsection (a).
+&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a).
 
 #### (2) Studies
 

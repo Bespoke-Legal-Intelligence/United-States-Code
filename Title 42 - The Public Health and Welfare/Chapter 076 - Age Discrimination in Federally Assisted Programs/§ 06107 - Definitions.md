@@ -24,13 +24,13 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(II) which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
 
-&emsp;&emsp;(ii) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
+&emsp;&emsp;(ii) the entire plant or other comparable, geographically separate facility to whichFederal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
 
 &emsp;&emsp;(D) any other entity which is established by two or more of the entities described in subparagraph (A), (B), or (C);
 
 > &emsp;any part of which is extended Federal financial assistance.
 
-(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat.2093; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 114–95, title IX, §9215(d), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 114–95, title IX, §9215(d), Dec. 10, 2015, 129 Stat. 2166.)
 
 #### <b>Editorial Notes</b>
 

@@ -12,7 +12,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;(2) improves health care quality, reduces medical errors, reduces health disparities, and advances the delivery of patient-centered medical care;
 
-&emsp;(3) reduces health care costs resulting from inefficiency, medical errors, inappropriate care, duplicative care, and incomplete information;
+&emsp;(3) reduces health care costs resulting from inefficiency, medical errors, inappropriatecare, duplicative care, and incomplete information;
 
 &emsp;(4) provides appropriate information to help guide medical decisions at the time and place of care;
 
@@ -108,7 +108,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (ii) Specific medical specialties
 
-&emsp;&emsp;&emsp;The Secretary shall accept public comment on specific medical specialties andsites of service, in addition to those described in clause (i), for the purpose of selecting additional specialties and sites of service as necessary.
+&emsp;&emsp;&emsp;The Secretary shall accept public comment on specific medical specialties and sites of service, in addition to those described in clause (i), for the purpose of selecting additional specialties and sites of service as necessary.
 
 #### (iii) Health information technology for pediatrics
 
@@ -172,7 +172,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (C) Assessment of impact of HIT on communities with health disparities and uninsured, underinsured, and medically underserved areas
 
-&emsp;&emsp;The National Coordinator shall assess and publish the impact of health information technology in communities with health disparities and in areas with a high proportionof individuals who are uninsured, underinsured, and medically underserved individuals (including urban and rural areas) and identify practices to increase the adoption of such technology by health care providers in such communities, and the use of health information technology to reduce and better manage chronic diseases.
+&emsp;&emsp;The National Coordinator shall assess and publish the impact of health information technology in communities with health disparities and in areas with a high proportion of individuals who are uninsured, underinsured, and medically underserved individuals (including urban and rural areas) and identify practices to increase the adoption of such technology by health care providers in such communities, and the use of health information technology to reduce and better manage chronic diseases.
 
 #### (D) Evaluation of benefits and costs of the electronic use and exchange of health information
 
@@ -234,7 +234,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 2 years after convening stakeholders under subparagraph (A), andannually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph <sup>3</sup> (B).
+&emsp;&emsp;&emsp;Not later than 2 years after convening stakeholders under subparagraph (A), and annually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph <sup>3</sup> (B).
 
 #### (ii) Process
 
@@ -286,7 +286,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (e) Chief Privacy Officer of the Office of the National Coordinator
 
-Not later than 12 months after February 17, 2009, the Secretary shall appoint a Chief Privacy Officer of the Office of the National Coordinator, whose duty it shall be to advise the National Coordinator on privacy, security, and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in such agencies), with State and regional efforts, and with foreign countries with regard to the privacy, security, and data stewardship of electronic individually identifiable health information.
+Not later than 12 months after February 17, 2009, the Secretary shall appoint a Chief Privacy Officer of the Office of the National Coordinator, whose duty it shall be to advise the National Coordinator on privacy, security, and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in such agencies), withState and regional efforts, and with foreign countries with regard to the privacy, security, and data stewardship of electronic individually identifiable health information.
 
 (July 1, 1944, ch. 373, title XXX, §3001, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 230; amended Pub. L. 114–255, div. A, title IV, §§4001(b), 4002(a), 4003(b), (e)(2)(A)(i), (ii), (C), Dec. 13, 2016, 130 Stat. 1158, 1159, 1165, 1174.)
 

@@ -30,7 +30,7 @@ Parent.—The term "parent" means a corporation that has filed a certificate und
 
 &emsp;(3)
 
-Subsidiary.—The term "subsidiary" means a corporation that has filed a certificate under oath with the Secretary, in theform and at the times prescribed by the Secretary, establishing that the corporation—
+Subsidiary.—The term "subsidiary" means a corporation that has filed a certificate under oath with the Secretary, in the form and at the times prescribed by the Secretary, establishing that the corporation—
 
 &emsp;&emsp;(A) is incorporated under the laws of the United States or a State; and
 
@@ -160,5 +160,5 @@ In subsection (d)(2), the words before subparagraph (A) are substituted for "no 
 
 #### Prior Provisions
 
-A prior section 12118, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally derived from section 65r of formerTitle 46, Shipping, related to registration of funnel marks and house flags, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
+A prior section 12118, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally derived from section 65r of former Title 46, Shipping, related to registration of funnel marks and house flags, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
 

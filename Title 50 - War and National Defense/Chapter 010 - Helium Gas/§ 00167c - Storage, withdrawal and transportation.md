@@ -6,7 +6,7 @@ If the Secretary provides helium storage, withdrawal, or transportation services
 
 #### (b) Minimum fees
 
-The fees charged under subsection (a) shall be not less than the amount required to reimburse the Secretary for the full costs of providing storage, withdrawal, or transportation services, including capital investments in upgrades and maintenance at the Federal Helium System.
+The fees charged under subsection (a) shall be not less than the amount required to reimburse the Secretary for the full costs of providingstorage, withdrawal, or transportation services, including capital investments in upgrades and maintenance at the Federal Helium System.
 
 #### (c) Schedule of fees
 

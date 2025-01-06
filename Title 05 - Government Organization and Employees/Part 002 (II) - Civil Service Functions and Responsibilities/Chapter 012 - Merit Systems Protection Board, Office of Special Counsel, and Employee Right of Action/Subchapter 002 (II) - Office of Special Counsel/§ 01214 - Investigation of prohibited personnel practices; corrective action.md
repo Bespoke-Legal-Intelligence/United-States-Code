@@ -78,7 +78,7 @@
 
 (E) If the Board grants a stay under subparagraph (A), the head of the agency employing the employee who is the subject of the action shall give priority to a request for a transfer submitted by the employee.
 
-(2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
+(2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practiceunder paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
 
 (ii) If the Special Counsel is unable to make the required determination within the 240-day period specified under clause (i) and the person submitting the allegation of a prohibited personnel practice agrees to an extension of time, the determination shall be made within such additional period of time as shall be agreed upon between the Special Counsel and the person submitting the allegation.
 
@@ -96,7 +96,7 @@
 
 &emsp;(B) written comments by any individual who alleges to be the subject of the prohibited personnel practice.
 
-(4)(A) The Board shall order such corrective action as the Board considers appropriate, if theBoard determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
+(4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
 (B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
@@ -126,7 +126,7 @@
 
 &emsp;(1) that the individual be placed, as nearly as possible, in the position the individual would have been in had the prohibited personnel practice not occurred; and
 
-&emsp;(2) reimbursement for attorney's fees, back pay and related benefits, medical costs incurred, travel expenses, any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).
+&emsp;(2) reimbursement for attorney's fees, back pay and related benefits, medical costs incurred, travel expenses, any other reasonable and foreseeable consequential damages, andcompensatory damages (including interest, reasonable expert witness fees, and costs).
 
 (h) Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
 

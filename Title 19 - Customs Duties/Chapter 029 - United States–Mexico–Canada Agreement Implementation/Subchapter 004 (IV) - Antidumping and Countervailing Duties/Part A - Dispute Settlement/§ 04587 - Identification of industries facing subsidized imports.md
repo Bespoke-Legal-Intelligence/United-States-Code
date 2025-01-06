@@ -16,7 +16,7 @@ Any entity, including a trade association, firm, certified or recognized union, 
 
 #### (b) Identification of industry
 
-Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
+Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shalldecide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
 
 #### (c) Action after identification
 
@@ -54,7 +54,7 @@ At the request of an entity that is representative of an industry identified und
 
 #### (3) Title III actions
 
-&emsp;In the event an investigation is initiated under section 2412(c) of this title as a result of a review under this subsection and the Trade Representative, following such investigation\(including any applicable dispute settlement proceedings under the USMCA or any other trade agreement), determines to take action under section 2411(a) of this title, the Trade Representative shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the Trade Representative otherwise determines that application of the action to other products would be more effective.
+&emsp;In the event an investigation is initiated under section 2412(c) of this title as a result of a review under this subsection and the Trade Representative, following such investigation (including any applicable dispute settlement proceedings under the USMCA or any other trade agreement), determines to take action under section 2411(a) of this title, the Trade Representative shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the Trade Representative otherwise determines that application of the action to other products would be more effective.
 
 #### (e) Effect of decisions
 

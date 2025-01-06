@@ -32,7 +32,7 @@ In this subchapter—
 
 &emsp;(5) "intrastate commerce" means trade, traffic, or transportation in a State that is not interstate commerce.
 
-&emsp;(6) "medical examiner" means an individual licensed, certified, or registered in accordancewith regulations issued by the Federal Motor Carrier Safety Administration as a medical examiner.
+&emsp;(6) "medical examiner" means an individual licensed, certified, or registered in accordance with regulations issued by the Federal Motor Carrier Safety Administration as a medical examiner.
 
 &emsp;(7) "regulation" includes a standard or order.
 

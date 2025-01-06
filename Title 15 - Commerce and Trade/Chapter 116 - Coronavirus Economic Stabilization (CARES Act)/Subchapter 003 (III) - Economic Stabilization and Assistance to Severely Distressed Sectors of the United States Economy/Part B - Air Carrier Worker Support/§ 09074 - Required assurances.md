@@ -30,7 +30,7 @@ To be eligible for financial assistance under this part, an air carrier or contr
 
 #### (1) In general
 
-&emsp;If, after December 27, 2020, a contractor expends any funds made available pursuant tosection 9072 of this title and distributed pursuant to section 9073 of this title, the assurances in paragraphs (1) through (3) of subsection (a) shall continue to apply until the dates included in such paragraphs, or the date on which the contractor fully expends such financial assistance, whichever is later.
+&emsp;If, after December 27, 2020, a contractor expends any funds made available pursuant to section 9072 of this title and distributed pursuant to section 9073 of this title, the assurances in paragraphs (1) through (3) of subsection (a) shall continue to apply until the dates included in such paragraphs, or the date on which the contractor fully expends such financial assistance, whichever is later.
 
 #### (2) Special rule
 

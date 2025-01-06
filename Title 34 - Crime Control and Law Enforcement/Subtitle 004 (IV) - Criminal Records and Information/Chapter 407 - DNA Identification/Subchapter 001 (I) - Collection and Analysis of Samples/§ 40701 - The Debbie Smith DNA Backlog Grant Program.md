@@ -26,7 +26,7 @@ The Attorney General may make grants to eligible States or units of local govern
 
 For a State or unit of local government to be eligible to receive a grant under this section, the chief executive officer of the State or unit of local government shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. The application shall, as required by the Attorney General—
 
-&emsp;(1) provide assurances that the State or unit of local government has implemented, or will implement not later than 120 days after the date of such application, a comprehensive plan for the expeditious DNA analysis of samples in accordance with this section;
+&emsp;(1) provide assurances that the State or unit of local government has implemented, or will implement not later than 120 days after thedate of such application, a comprehensive plan for the expeditious DNA analysis of samples in accordance with this section;
 
 &emsp;(2) include a certification that each DNA analysis carried out under the plan shall be maintained pursuant to the privacy requirements described in section 12592(b)(3) of this title;
 
@@ -74,7 +74,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (4) Allocation of grant awards for audits
 
-&emsp;For each of fiscal years 2014 through 2022, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
+&emsp;For each of fiscal years 2014 through 2029, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 
 #### (5) Allocation of grant awards for prosecutors
 
@@ -154,7 +154,7 @@ For purposes of this section, the term "State" means a State of the United State
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2019 through 2024.
+There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2024 through 2029.
 
 #### (k) Use of funds for accreditation and audits
 
@@ -222,7 +222,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;In this subsection, the terms "awaiting testing" and "possession" have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, §2, Dec. 30, 2019, 133 Stat. 3272.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, §2, Dec. 30, 2019, 133 Stat. 3272; Pub. L. 118–72, §§2, 3, July 30, 2024, 138 Stat. 1503.)
 
 #### <b>Editorial Notes</b>
 
@@ -234,9 +234,13 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 
 #### Codification
 
-Section was formerly classified to section 14135 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+Section was formerly classified to section 14135 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(4). Pub. L. 118–72, §3, substituted "2029" for "2022".
+
+Subsec. (j). Pub. L. 118–72, §2, substituted "fiscal years 2024 through 2029" for "fiscal years 2019 through 2024".
 
 <b>2019</b>—Subsec. (a)(2). Pub. L. 116–104, §2(1)(A), substituted "prioritizing, to the extent practicable consistent with public safety considerations" for "including".
 
@@ -458,7 +462,7 @@ In general.—Amounts authorized to be appropriated under this title may not be 
 
 &emsp;&emsp;"(B)
 
-Penalty.—If the Attorney General determines that any recipient of a grant under this title has violated subparagraph (A), the Attorney General shall—
+Penalty.—If the Attorney General determines that any recipient of a grant under this titlehas violated subparagraph (A), the Attorney General shall—
 
 &emsp;&emsp;&emsp;"(i) require the grant recipient to repay the grant in full; and
 

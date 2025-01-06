@@ -68,7 +68,7 @@ Before making any written determination or background file document open or avai
 
 #### (4) Period in which to bring action
 
-&emsp;No proceeding shall be commenced under paragraph (3) unless a petition is filed before the expiration of 36 months after the first day that the written determination is open to public inspection.
+&emsp;No proceeding shall be commenced under paragraph (3) unless a petition is filed beforethe expiration of 36 months after the first day that the written determination is open to public inspection.
 
 #### (e) Background file documents
 
@@ -198,7 +198,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (4) Notice that prior written determinations are open to public inspection
 
-&emsp;Notwithstanding the provisions of subsections (f)(1) and (f)(3)(A), not less than 90 days before making any portion of a written determination described in this subsection open to public inspection, the Secretary shall issue public notice in the Federal Register that such written determination is to be made open to public inspection. The person who received a written determination may, within 75 days after the date of publication of notice under this paragraph, file a petition in the United States Tax Court (anonymously, if appropriate) for a determination with respect to that portion of such written determination which is to be made open to public inspection. The provisions of subsections (f)(3)(B), (5), and (6) shall apply if such a petition is filed. If no petition is filed, the text of any written determination shall be open to public inspection no earlier than 90 days, and no later than 120 days, after notice is published in the Federal Register.
+&emsp;Notwithstanding the provisions of subsections (f)(1) and (f)(3)(A), not less than 90 days before making any portion of a written determination described in this subsectionopen to public inspection, the Secretary shall issue public notice in the Federal Register that such written determination is to be made open to public inspection. The person who received a written determination may, within 75 days after the date of publication of notice under this paragraph, file a petition in the United States Tax Court (anonymously, if appropriate) for a determination with respect to that portion of such written determination which is to be made open to public inspection. The provisions of subsections (f)(3)(B), (5), and (6) shall apply if such a petition is filed. If no petition is filed, the text of any written determination shall be open to public inspection no earlier than 90 days, and no later than 120 days, after notice is published in the Federal Register.
 
 #### (5) Exclusion
 

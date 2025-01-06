@@ -142,7 +142,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(iii) a plan for consulting with State and tribal domestic violence or sexual assault coalitions, national nonprofit victim advocacy organizations, culturally specific organizations, and population specific organizations with demonstrated expertise in domestic violence, dating violence, sexual assault, or stalking;
 
-&emsp;&emsp;&emsp;(iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers (including culturally specific organizations), to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
+&emsp;&emsp;&emsp;(iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers (including culturally specific organizations), to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence,and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
 
 &emsp;&emsp;&emsp;(v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assault nurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
 
@@ -166,7 +166,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;(A) a State department (or other division) of health (including mental health or substance abuse agencies), a State, tribal, or territorial domestic violence or sexual assault coalition or victim service provider, or any other nonprofit, nongovernmental organization with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking, and health care, including physical or behavioral health care and substance use disorder prevention and treatment; or
 
-&emsp;&emsp;(B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, behavioral health treatment system, or health system, a community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault,or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment.
+&emsp;&emsp;(B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, behavioral health treatment system, or health system, a community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment.
 
 #### (e) Technical assistance
 
@@ -262,7 +262,7 @@ Subsec. (b)(2)(C)(ii). Pub. L. 117–103, §501(5), inserted "programs that prom
 
 Subsec. (b)(2)(C)(iii). Pub. L. 117–103, §501(6)(A), inserted "and exposure to violence across generations" after "abuse".
 
-Subsec. (b)(2)(C)(iv). Pub. L. 117–103, §501(7), inserted "mental health," after "dental," and substituted "exams and certifications;" for "exams.".
+Subsec. (b)(2)(C)(iv). Pub. L. 117–103, §501(7), inserted "mental health," after "dental," and substituted "exams and certifications;" for "exams."
 
 Subsec. (b)(2)(C)(v) to (vii). Pub. L. 117–103, §501(6)(B), (8), added cls. (v) to (vii).
 
@@ -292,7 +292,7 @@ Subsec. (h). Pub. L. 117–103, §501(17), struck out "herein" after "otherwise 
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022,see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Findings
 
@@ -316,7 +316,7 @@ Pub. L. 109–162, title V, §501, Jan. 5, 2006, 119 Stat. 3023, provided that: 
 
 &emsp;"(9) Currently, only about 10 percent of primary care physicians routinely screen for intimate partner abuse during new patient visits and 9 percent routinely screen for intimate partner abuse during periodic checkups.
 
-&emsp;"(10) Recent clinical studies have proven the effectiveness of a 2-minute screening for early detection of abuse of pregnant women. Additional longitudinal studies have tested a 10-minute intervention that wasproven highly effective in increasing the safety of pregnant abused women. Comparable research does not yet exist to support the effectiveness of screening men.
+&emsp;"(10) Recent clinical studies have proven the effectiveness of a 2-minute screening for early detection of abuse of pregnant women. Additional longitudinal studies have tested a 10-minute intervention that was proven highly effective in increasing the safety of pregnant abused women. Comparable research does not yet exist to support the effectiveness of screening men.
 
 &emsp;"(11) Seventy to 81 percent of the patients studied reported that they would like their healthcare providers to ask them privately about intimate partner violence."
 

@@ -38,7 +38,7 @@ Consistent with the process described in section 5304(b) of title 42, covered go
 
 #### (d) Implementation
 
-The Secretary of Housing and Urban Development and the Attorney General shall implement and enforce this subpart consistent with, and in a manner that provides, the same rights and remedies as those provided for in title VIII ofthe Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.).
+The Secretary of Housing and Urban Development and the Attorney General shall implement and enforce this subpart consistent with, and in a manner that provides, the same rights and remedies as those provided for in title VIII of the Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.).
 
 #### (e) Subgrantees
 

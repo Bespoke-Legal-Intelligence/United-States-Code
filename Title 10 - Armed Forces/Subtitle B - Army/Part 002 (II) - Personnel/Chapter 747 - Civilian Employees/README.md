@@ -5,13 +5,15 @@
 | [7371\.](%C2%A7%2007371%20-%20Army%20War%20College%20and%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20civilian%20faculty%20members.md) | Army War College and United States Army Command and General Staff College: civilian faculty members. |
 | [7374\.](%C2%A7%2007374%20-%20Expert%20accountant%20for%20Inspector%20General.md) | Expert accountant for Inspector General. |
 | [7375\.](%C2%A7%2007375%20-%20Production%20of%20supplies%20and%20munitions%20hours%20and%20pay%20of%20laborers%20and%20mechanics.md) | Production of supplies and munitions: hours and pay of laborers and mechanics. |
-| [7377\.](%C2%A7%2007377%20-%20Civilian%20special%20agents%20of%20the%20Criminal%20Investigation%20Command%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Civilian special agents of the Criminal Investigation Command: authority to execute warrants and make arrests. |
+| [7377\.](%C2%A7%2007377%20-%20Certain%20civilian%20special%20agents%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Certain civilian special agents: authority to execute warrants and make arrests. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §1613(a)(1), Dec. 23, 2024, 138 Stat. 2168, substituted "Certain civilian special agents:" for "Civilian special agents of the Criminal Investigation Command:" in item 7377. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 373 of this title as this chapter and items 4021, 4024, 4025, and 4027 as 7371, 7374, 7375, and 7377, respectively.
 
@@ -121,7 +123,7 @@ Security clearances.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of the Army shall ensure that each member of the Civilian Cybersecurity Reserve is subject to appropriate personnel vetting and adjudication commensurate with the duties of the position, including, with respect to positions for which a security clearance is necessary, a favorable determination of eligibility for access to classified information, consistent with applicable provisions of law and policy.
+In general.—The Secretary of the Army shall ensure that each member of the CivilianCybersecurity Reserve is subject to appropriate personnel vetting and adjudication commensurate with the duties of the position, including, with respect to positions for which a security clearance is necessary, a favorable determination of eligibility for access to classified information, consistent with applicable provisions of law and policy.
 
 &emsp;&emsp;"(B)
 
@@ -175,4 +177,4 @@ Sunset.—The authority to conduct the pilot program shall terminate on the date
 - [&sect; 07371 - Army War College and United States Army Command and General Staff College civilian faculty members](%C2%A7%2007371%20-%20Army%20War%20College%20and%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20civilian%20faculty%20members.md)
 - [&sect; 07374 - Expert accountant for Inspector General](%C2%A7%2007374%20-%20Expert%20accountant%20for%20Inspector%20General.md)
 - [&sect; 07375 - Production of supplies and munitions hours and pay of laborers and mechanics](%C2%A7%2007375%20-%20Production%20of%20supplies%20and%20munitions%20hours%20and%20pay%20of%20laborers%20and%20mechanics.md)
-- [&sect; 07377 - Civilian special agents of the Criminal Investigation Command authority to execute warrants and make arrests](%C2%A7%2007377%20-%20Civilian%20special%20agents%20of%20the%20Criminal%20Investigation%20Command%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)
+- [&sect; 07377 - Certain civilian special agents authority to execute warrants and make arrests](%C2%A7%2007377%20-%20Certain%20civilian%20special%20agents%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)

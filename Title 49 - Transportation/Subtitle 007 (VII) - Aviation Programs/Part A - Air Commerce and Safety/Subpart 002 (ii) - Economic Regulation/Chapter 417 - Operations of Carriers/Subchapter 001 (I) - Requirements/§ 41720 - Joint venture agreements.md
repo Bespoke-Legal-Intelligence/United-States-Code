@@ -28,7 +28,7 @@ Extension of Waiting Period.—
 
 In general.—The Secretary may extend the 30-day period referred to in subsection (b) until—
 
-&emsp;&emsp;(A) in the case of a joint venture agreement with regard to code-sharing, the 150thday following the last day of such period; and
+&emsp;&emsp;(A) in the case of a joint venture agreement with regard to code-sharing, the 150th day following the last day of such period; and
 
 &emsp;&emsp;(B) in the case of any other joint venture agreement, the 60th day following the last day of such period.
 

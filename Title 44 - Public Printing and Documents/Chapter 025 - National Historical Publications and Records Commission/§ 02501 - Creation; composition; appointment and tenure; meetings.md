@@ -48,7 +48,7 @@
 
 Recusal.—Members of the Commission shall recuse themselves from voting on any matter that poses, or could potentially pose, a conflict of interest, including a matter that could benefit them or an entity they represent.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1293; Pub. L. 92–546, §1(a), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(b), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §2(b), Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–497, title I, §107(b)(9), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §2(a), July 13, 1988, 102 Stat. 823; Pub. L. 110–404, §3(a)(1), (b)(1), Oct. 13, 2008, 122 Stat. 4282.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1293; Pub. L. 92–546, §1(a), Oct. 25, 1972, 86 Stat. 1155; Pub.L. 93–536, §1(b), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §2(b), Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–497, title I, §107(b)(9), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §2(a), July 13, 1988, 102 Stat. 823; Pub. L. 110–404, §3(a)(1), (b)(1), Oct. 13, 2008, 122 Stat. 4282.)
 
 #### Historical and Revision Notes
 

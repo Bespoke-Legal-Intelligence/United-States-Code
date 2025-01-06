@@ -48,7 +48,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b). Pub. L. 117–263, §716(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary may waive a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
+<b>2022</b>—Subsec. (b). Pub. L. 117–263, §716(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary may waive a fee that wouldotherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
 
 &emsp;"(1) the civilian is unable to pay for the costs of the trauma or other medical care provided to the civilian (including any such costs remaining after the Secretary receives payment from an insurer for such care, as applicable); and
 
@@ -65,6 +65,30 @@ Subsec. (e). Pub. L. 117–263, §716(b)(2), added subsec. (e).
 #### Effective Date of 2022 Amendment
 
 Pub. L. 117–263, div. A, title VII, §716(c), Dec. 23, 2022, 136 Stat. 2661, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to care provided on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 23, 2022\]."
+
+#### Improved Implementation of Financial Relief for Civilians Treated in Military Medical Treatment Facilities
+
+Pub. L. 118–159, div. A, title VII, §717, Dec. 23, 2024, 138 Stat. 1949, provided that:
+
+"(a)
+
+Final Rule Required.—The Secretary of Defense shall issue a final rule (or interim final rule) to implement as soon as possible after the date of the enactment of this Act \[Dec. 23, 2024\] section 1079b of title 10, United States Code.
+
+"(b)
+
+Treatment of Claims.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Secretary shall hold in abeyance any claims under section 1079b of title 10, United States Code, until the final rule (or interim final rule) required under subsection (a) is in effect.
+
+&emsp;"(2)
+
+Exception.—Paragraph (1) does not apply to—
+
+&emsp;&emsp;"(A) claims to third-party payers; or
+
+&emsp;&emsp;"(B) administrative support provided to the Secretary by another Federal agency to assist the Secretary in the administration of section 1079b of title 10, United States Code."
 
 #### Deadline for Implementation
 

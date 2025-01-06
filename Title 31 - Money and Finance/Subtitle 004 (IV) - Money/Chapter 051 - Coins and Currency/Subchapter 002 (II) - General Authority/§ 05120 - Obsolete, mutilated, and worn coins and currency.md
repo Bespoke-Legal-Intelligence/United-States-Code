@@ -66,7 +66,7 @@ In subsection (c), the word "currency" is substituted for "currency . . . unfi
 
 #### Termination of Coinage Profit Fund and Coinage Metal Fund
 
-All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
+All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States MintPublic Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
 #### Threshold for Requiring Taxpayer Identification Number
 

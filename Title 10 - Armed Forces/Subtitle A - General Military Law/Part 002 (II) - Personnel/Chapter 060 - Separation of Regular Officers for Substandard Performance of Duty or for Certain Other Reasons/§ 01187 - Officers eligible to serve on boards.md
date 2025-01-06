@@ -12,7 +12,7 @@ In General.—Except as provided in subsection (b), each board convened under th
 
 (b)
 
-Retired Officers.—If qualified officers are not available in sufficient numbers to comprise a board convened under this chapter, the Secretary of the military department concerned shall complete the membership of the board byappointing to the board retired officers of the same armed force. A retired officer may be appointed to such a board only if the retired grade of that officer—
+Retired Officers.—If qualified officers are not available in sufficient numbers to comprise a board convened under this chapter, the Secretary of the military department concerned shall complete the membership of the board by appointing to the board retired officers of the same armed force. A retired officer may be appointed to such a board only if the retired grade of that officer—
 
 &emsp;(1) is above major or lieutenant commander or, in the case of an officer to be the senior officer of the board, above lieutenant colonel or commander; and
 

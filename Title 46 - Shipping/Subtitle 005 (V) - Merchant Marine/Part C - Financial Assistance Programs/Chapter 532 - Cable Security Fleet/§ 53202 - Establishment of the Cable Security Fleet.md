@@ -58,7 +58,7 @@ Vessels owned by a section 50501 citizen, or united states citizen trust, and ch
 
 &emsp;&emsp;(B) in the case of a vessel that will be demise chartered to a person that is owned or controlled by another person that is not a citizen of the United States under section 50501 of this title, the other person enters into an agreement with the Secretary not to influence the operation of the vessel in a manner that will adversely affect the interests of the United States; and
 
-&emsp;&emsp;(C) the Secretary and the Operating Agency notify the Committee on Armed Services and the Committee on Commerce, Science and Transportation of the Senate, and the Committee on Armed Services of the House of Representatives that they concur, and have reviewed the certification requiredunder subparagraph (A)(ii)(III) and determined that there are no legal, operational, or other impediments that would prohibit the Contractor for the vessel from performing its obligations under an Operating Agreement under this chapter.
+&emsp;&emsp;(C) the Secretary and the Operating Agency notify the Committee on Armed Servicesand the Committee on Commerce, Science and Transportation of the Senate, and the Committee on Armed Services of the House of Representatives that they concur, and have reviewed the certification required under subparagraph (A)(ii)(III) and determined that there are no legal, operational, or other impediments that would prohibit the Contractor for the vessel from performing its obligations under an Operating Agreement under this chapter.
 
 &emsp;(3)
 

@@ -4,7 +4,7 @@ Each State reporting under the provisions of this section and section 41307 of t
 
 &emsp;(1) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the observance of any waiting period before accepting a missing child or unidentified person report;
 
-&emsp;(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system, the National Crime Information Center computer database, or the NamUs databases based solely on the age of the person;
+&emsp;(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcementsystem, the National Crime Information Center computer database, or the NamUs databases based solely on the age of the person;
 
 &emsp;(3) provide that each such report and all necessary and available information, which, with respect to each missing child report, shall include—
 

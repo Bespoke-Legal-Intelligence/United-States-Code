@@ -190,7 +190,7 @@ In General.—Written notification of the rights and protections available to Fe
 
 "(b)
 
-Posting on the Internet.—Any written notification under this section shall include, but not be limited to, the posting of the information required under paragraph (1) or (2) (as applicable) of subsection (a) on the Internet site of the Federal agency involved.
+Posting on the Internet.—Any written notification under this section shall include, but not be limitedto, the posting of the information required under paragraph (1) or (2) (as applicable) of subsection (a) on the Internet site of the Federal agency involved.
 
 "(c)
 
@@ -232,7 +232,7 @@ Contents.—A notification provided under paragraph (1) with respect to a findin
 
 "(a)
 
-Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment OpportunityCommission, and the Attorney General an annual report (in an electronic format prescribed by the Director of the Office of Personnel Management), which shall include, with respect to the fiscal year—
+Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform \[now Committee on Oversight and Accountability\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report (in an electronic format prescribed by the Director of the Office of Personnel Management), which shall include, with respect to the fiscal year—
 
 &emsp;"(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
@@ -298,7 +298,7 @@ Agency Notification Regarding Implementation of Guidelines.—Not later than 30 
 
 &emsp;"(2) if such agency has not adopted such guidelines; the reasons for the failure to adopt such guidelines; and
 
-&emsp;"(3) if such agency will not fully follow such guidelines, the reasons for the decision not to fully follow such guidelines and an explanation of the extent to which such agency will not follow such guidelines.
+&emsp;"(3) if such agency will not fully follow such guidelines, the reasons for the decision not to fully followsuch guidelines and an explanation of the extent to which such agency will not follow such guidelines.
 
 #### "SEC. 205. CLARIFICATION OF REMEDIES.
 
@@ -404,7 +404,7 @@ Report.—Not later than 90 days after the completion of the study under paragra
 
 #### "SEC. 208. NOTATION IN PERSONNEL RECORD.
 
-"If a Federal agency takes an adverse action covered under section 7512 of title 5, United States Code, against a Federal employee for an act of discrimination (including retaliation) prohibited by a provision of law covered by paragraph (1) or (2) of section 201(a), the agency shall, after all appeals relating to that action have been exhausted, include a notation of the adverse action and the reason for the action in the personnel record of the employee.
+"If a Federal agency takes an adverse action covered under section 7512 of title 5, United States Code, against a Federal employee for an act of discrimination (including retaliation) prohibited by a provision of lawcovered by paragraph (1) or (2) of section 201(a), the agency shall, after all appeals relating to that action have been exhausted, include a notation of the adverse action and the reason for the action in the personnel record of the employee.
 
 #### "TITLE III—EQUAL EMPLOYMENT OPPORTUNITY COMPLAINT DATA DISCLOSURE
 
@@ -564,7 +564,7 @@ EEOC Findings of Discrimination.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date on which the Equal Employment OpportunityCommission (referred to in this section as the 'Commission') receives, or should have received, a Federal agency report required under section 203(c), the Commission may refer the matter to which the report relates to the Office of Special Counsel if the Commission determines that the Federal agency did not take appropriate action with respect to the finding that is the subject of the report.
+In general.—Not later than 30 days after the date on which the Equal Employment Opportunity Commission (referred to in this section as the 'Commission') receives, or should have received, a Federal agency report required under section 203(c), the Commission may refer the matter to which the report relates to the Office of Special Counsel if the Commission determines that the Federal agency did not take appropriate action with respect to the finding that is the subject of the report.
 
 &emsp;"(2)
 

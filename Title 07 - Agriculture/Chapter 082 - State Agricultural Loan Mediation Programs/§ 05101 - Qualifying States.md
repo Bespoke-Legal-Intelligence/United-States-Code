@@ -104,7 +104,7 @@ In this section, the term "mediation services", with respect to mediation or a r
 
 &emsp;(4) the mediation session.
 
-(Pub. L. 100–233, title V, §501, Jan. 6, 1988, 101 Stat. 1662; Pub. L. 100–399, title V, §501, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, §282(a), Oct. 13, 1994, 108 Stat. 3233; Pub. L. 106–472, title III, §306(a), Nov. 9, 2000, 114 Stat. 2072; Pub. L. 115–334, title V, §5402(a), Dec. 20, 2018, 132 Stat. 4674.)
+(Pub. L. 100–233, title V, §501, Jan. 6, 1988, 101 Stat. 1662; Pub. L. 100–399, title V, §501, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, §282(a), Oct. 13, 1994, 108 Stat. 3233; Pub. L. 106–472, title III, §306(a), Nov. 9, 2000, 114 Stat.2072; Pub. L. 115–334, title V, §5402(a), Dec. 20, 2018, 132 Stat. 4674.)
 
 #### <b>Editorial Notes</b>
 

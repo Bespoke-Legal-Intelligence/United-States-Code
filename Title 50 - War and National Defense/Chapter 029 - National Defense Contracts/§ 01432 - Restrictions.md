@@ -12,7 +12,7 @@ Nothing in this chapter shall be construed to constitute authorization hereunder
 
 &emsp;(e) the amendment of a contract negotiated under section 2304(a)(15) <sup>1</sup> of title 10 or under section 252(c)(13) <sup>1</sup> of title 41, to increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder; or
 
-&emsp;(f) the formalization of an informal commitment, unless it is found that at the time thecommitment was made it was impracticable to use normal procurement procedures.
+&emsp;(f) the formalization of an informal commitment, unless it is found that at the time the commitment was made it was impracticable to use normal procurement procedures.
 
 (Pub. L. 85–804, §2, Aug. 28, 1958, 72 Stat. 972.)
 

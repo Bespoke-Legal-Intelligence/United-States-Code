@@ -20,25 +20,27 @@ The Office of the Director of National Intelligence is composed of the following
 
 &emsp;(4) The National Intelligence Council.
 
-&emsp;(5) The General Counsel.
+&emsp;(5) The National Intelligence Management Council.
 
-&emsp;(6) The Civil Liberties Protection Officer.
+&emsp;(6) The General Counsel.
 
-&emsp;(7) The Director of Science and Technology.
+&emsp;(7) The Civil Liberties Protection Officer.
 
-&emsp;(8) The Director of the National Counterintelligence and Security Center.
+&emsp;(8) The Director of Science and Technology.
 
-&emsp;(9) The Chief Information Officer of the Intelligence Community.
+&emsp;(9) The Director of the National Counterintelligence and Security Center.
 
-&emsp;(10) The Inspector General of the Intelligence Community.
+&emsp;(10) The Chief Information Officer of the Intelligence Community.
 
-&emsp;(11) The Director of the National Counterterrorism Center.
+&emsp;(11) The Inspector General of the Intelligence Community.
 
-&emsp;(12) The Director of the National Counter Proliferation Center.<sup>1</sup>
+&emsp;(12) The Director of the National Counterterrorism Center.
 
-&emsp;(13) The Chief Financial Officer of the Intelligence Community.
+&emsp;(13) The Director of the National Counter Proliferation Center.<sup>1</sup>
 
-&emsp;(14) Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers.
+&emsp;(14) The Chief Financial Officer of the Intelligence Community.
+
+&emsp;(15) Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers.
 
 #### (d) Staff
 
@@ -58,7 +60,7 @@ With respect to filling temporarily a vacancy in an office within the Office of 
 
 The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in section 8301 of title 40.
 
-(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747; Pub. L. 112–87, title IV, §405, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 115–31, div. N, title IV, §401(d), May 5, 2017, 131 Stat. 818.)
+(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747; Pub. L. 112–87, title IV, §405, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 115–31, div. N, title IV, §401(d), May 5, 2017, 131 Stat. 818; Pub. L. 118–159, div. F, title LXIII, §6307(a)(2), Dec. 23, 2024, 138 Stat. 2477.)
 
 #### <b>Editorial Notes</b>
 
@@ -76,11 +78,13 @@ Section was formerly classified to section 403–3 of this title prior to editor
 
 #### Prior Provisions
 
-A prior section 103 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24,1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480; Pub. L. 107–56, title IX, §901, Oct. 26, 2001, 115 Stat. 387, related to responsibilities of Director of Central Intelligence, prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
+A prior section 103 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480; Pub. L. 107–56, title IX, §901, Oct. 26, 2001, 115 Stat. 387, related to responsibilities of Director of Central Intelligence, prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title.
 
 Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to former section 3042 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(5) to (15). Pub. L. 118–159 added par. (5) and redesignated former pars. (5) to (14) as (6) to (15), respectively.
 
 <b>2017</b>—Subsec. (c)(8). Pub. L. 115–31 amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The National Counterintelligence Executive (including the Office of the National Counterintelligence Executive)."
 

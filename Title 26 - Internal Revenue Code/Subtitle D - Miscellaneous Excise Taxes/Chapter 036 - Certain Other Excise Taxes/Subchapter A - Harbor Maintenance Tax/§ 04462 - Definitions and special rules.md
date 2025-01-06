@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term "commercial cargo" means any cargo transported on a commercial vessel, including passengers transported for compensation or hire.
+&emsp;&emsp;The term "commercial cargo" means any cargo transported on a commercial vessel,including passengers transported for compensation or hire.
 
 #### (B) Certain items not included
 

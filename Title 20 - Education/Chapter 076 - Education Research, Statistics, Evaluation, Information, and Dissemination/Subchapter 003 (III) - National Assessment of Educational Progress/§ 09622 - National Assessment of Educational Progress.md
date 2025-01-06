@@ -42,7 +42,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;&emsp;(iii) may conduct State academic assessments of student achievement in grades 4, 8, and 12 as described in paragraph (2)(D); and
 
-&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at eachgrade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
+&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
 
 #### (B) Agreement
 
@@ -332,7 +332,7 @@ Pub. L. 107–279, §401(d)(1), substituted "Commissioner for Education Statisti
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Rescheduling of the NAEP Mandated Biennial 4th and 8th Grade Assessment and Alignment of the Mandated Quadrennial 12th Grade Assessment
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) timely briefings upon request of any Member of Congress regarding negotiating objectives, the status of negotiations in progress conducted under this chapter, and the nature of any changes in the laws of the United States or the administration of those laws that may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, that agreement; and
 
-&emsp;&emsp;&emsp;(ii) the sharing of detailed and timely information with Members of Congress, and their staff with proper security clearances as appropriate, regarding those negotiations and pertinent documents related to those negotiations (including classified information), and with committee staff withproper security clearances as would be appropriate in the light of the responsibilities of that committee over the trade agreements programs affected by those negotiations.
+&emsp;&emsp;&emsp;(ii) the sharing of detailed and timely information with Members of Congress, and their staff with proper security clearances as appropriate, regarding those negotiations and pertinent documents related to those negotiations (including classified information), and with committee staff with proper security clearances as would be appropriate in the light of the responsibilities of that committee over the trade agreements programs affected by those negotiations.
 
 #### (C) Dissemination
 
@@ -92,7 +92,7 @@
 
 #### (D) Consultation and advice
 
-&emsp;&emsp;The congressional advisory groups shall consult with and provide advice to the Trade Representative regarding the formulation ofspecific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
+&emsp;&emsp;The congressional advisory groups shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
 
 #### (E) Chair
 
@@ -176,7 +176,7 @@
 
 &emsp;The guidelines developed under paragraph (1) shall enhance coordination with advisory committees described in that paragraph through procedures to ensure—
 
-&emsp;&emsp;(A) timely briefings of advisory committees and regular opportunities for advisorycommittees to provide input throughout the negotiation process on matters relevant to the sectors or functional areas represented by those committees; and
+&emsp;&emsp;(A) timely briefings of advisory committees and regular opportunities for advisory committees to provide input throughout the negotiation process on matters relevant to the sectors or functional areas represented by those committees; and
 
 &emsp;&emsp;(B) the sharing of detailed and timely information with each member of an advisory committee regarding negotiations and pertinent documents related to the negotiation (including classified information) on matters relevant to the sectors or functional areas the member represents, and with a designee with proper security clearances of each such member as appropriate.
 

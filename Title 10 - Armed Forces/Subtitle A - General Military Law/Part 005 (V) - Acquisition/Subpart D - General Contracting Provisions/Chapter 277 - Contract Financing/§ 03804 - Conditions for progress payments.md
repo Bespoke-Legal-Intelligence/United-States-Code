@@ -102,7 +102,7 @@ Pub. L. 116–283, div. A, title VIII, §891, Jan. 1, 2021, 134 Stat. 3793, prov
 
 "(a)
 
-Waiver of Progress Payments Requirements.—The Secretary of Defense may waive the requirements of section 2307(e)(2) of title 10, United States Code \[now 10 U.S.C. 3804(b)\], with respect to progress payments for any undefinitized contractual action (as defined in section 2326 of title 10, United States Code \[see 10 U.S.C. 3377(b)(1)\]; in this section referred to as 'UCA') if the Secretary determines that the waiver is necessary due to the national emergency for the Coronavirus Disease 2019 (COVID–19) and—
+Waiver of Progress Payments Requirements.—The Secretary of Defense may waive the requirements of section 2307(e)(2) of title 10, UnitedStates Code \[now 10 U.S.C. 3804(b)\], with respect to progress payments for any undefinitized contractual action (as defined in section 2326 of title 10, United States Code \[see 10 U.S.C. 3377(b)(1)\]; in this section referred to as 'UCA') if the Secretary determines that the waiver is necessary due to the national emergency for the Coronavirus Disease 2019 (COVID–19) and—
 
 &emsp;"(1) a contractor performing the contract for which a UCA is entered into has not already received increased progress payments from the Secretary of Defense on contractual actions other than UCAs; or
 

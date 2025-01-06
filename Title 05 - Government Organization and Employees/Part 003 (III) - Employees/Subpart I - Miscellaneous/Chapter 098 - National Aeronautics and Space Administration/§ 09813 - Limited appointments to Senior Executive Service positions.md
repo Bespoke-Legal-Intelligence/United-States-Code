@@ -42,7 +42,7 @@
 
 (f) A limited term appointee may not serve more than 7 consecutive years under any combination of limited appointments.
 
-(g) Notwithstanding section 5384, the Administrator may authorize performance awards to limited term appointees in the Administration in the same amounts and in the same manner as career appointees.
+(g) Notwithstanding section 5384, the Administrator may authorize performance awards tolimited term appointees in the Administration in the same amounts and in the same manner as career appointees.
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 473.)
 

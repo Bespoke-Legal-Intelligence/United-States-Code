@@ -122,7 +122,7 @@ For purposes of this section, the term "corporate acquisition indebtedness" does
 
 #### (g) Affiliated groups
 
-In any case in which the issuing corporation is a member of an affiliated group, the application of this section shall be determined, pursuant to regulations prescribed by the Secretary, by treating all of the members of the affiliated group in the aggregate as the issuing corporation, except that the ratio of debt to equity of, projected earnings of, and annual interest to be paid or incurred by any corporation (other than the issuing corporation determined without regard to this subsection) shall be included in the determinations required under subparagraphs (A) and (B) of subsection (b)(4) as of any day only if such corporation is a member of the affiliated group on such day, and, in determining projected earnings of such corporation under subsection (c)(3), there shall be taken into account only the earnings and profits of such corporation for the period during which it was a member of the affiliated group. For purposes of the preceding sentence, the term "affiliated group" has the meaning assigned to such term by section 1504(a), except that all corporations other than the acquired corporation shall be treated as includible corporations (without any exclusion under section 1504(b)) and the acquired corporation shall not be treated as an includible corporation.
+In any case in which the issuing corporation is a member of an affiliated group, the application of this section shall be determined, pursuant to regulations prescribed by the Secretary, by treating all of the members of the affiliated group in the aggregate as the issuing corporation, except that the ratio of debt to equity of, projected earnings of, and annual interest to be paid or incurred by any corporation (other than the issuing corporation determined without regard to this subsection) shall be included in the determinations required under subparagraphs (A) and (B) of subsection (b)(4) as of any day only if such corporation is a member of the affiliated group on such day, and, in determining projected earnings of such corporation under subsection (c)(3), there shall be taken into account only the earnings and profits of such corporation for the period during which it was a member of the affiliated group. For purposes of the preceding sentence, the term "affiliated group" has the meaning assigned to such term by section 1504(a), except that all corporations other than the acquired corporation shall betreated as includible corporations (without any exclusion under section 1504(b)) and the acquired corporation shall not be treated as an includible corporation.
 
 #### (h) Changes in obligation
 
@@ -162,7 +162,7 @@ Subsec. (i). Pub. L. 94–514 struck out provisions that par. (2) would cease to
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: "The amendmentsmade by this paragraph \[amending this section\] shall not—
+Pub. L. 113–295, div. A, title II, §221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: "The amendments made by this paragraph \[amending this section\] shall not—
 
 &emsp;"(i) apply to obligations issued on or before October 9, 1969 (determined in the same manner as under section 279 of the Internal Revenue Code of 1986 as in effect before such amendments), and
 

@@ -46,7 +46,7 @@ Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: "A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid."
 
-Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: "An obligation to reimburse the United States imposed under subsection (d) is, for all purposes, a debt owed to the United States."
+Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: "An obligation to reimbursethe United States imposed under subsection (d) is, for all purposes, a debt owed to the United States."
 
 Subsec. (f). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (h) as (f) and struck out former subsec. (f) which read as follows: "A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (d). This subsection applies to any case commenced under title 11 after September 24, 1983."
 

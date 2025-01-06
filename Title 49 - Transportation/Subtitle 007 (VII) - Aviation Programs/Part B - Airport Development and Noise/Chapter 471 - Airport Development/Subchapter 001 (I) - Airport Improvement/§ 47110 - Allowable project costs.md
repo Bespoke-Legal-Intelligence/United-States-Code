@@ -26,13 +26,13 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
 
-&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
+&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) <sup>1</sup> and if the cost is incurred—
 
 &emsp;&emsp;(i) after September 30, 1996;
 
 &emsp;&emsp;(ii) before a grant agreement is executed for the project; and
 
-&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirementsthat would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
+&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
 
 &emsp;(D) if the cost is for airport development and is incurred before execution of the grant agreement, but in the same fiscal year as execution of the grant agreement, and if—
 
@@ -64,9 +64,9 @@ Allowable Cost Standards.—A project cost is allowable—
 
 (c)
 
-Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and before the date the grant agreement is executed is allowable if it is—
+Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred before the date the grant agreement is executed is allowable if it is—
 
-&emsp;(1) necessarily incurred in formulating an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, and administration or other incidental items that would not have been incurred except for the project; or
+&emsp;(1) necessarily incurred in formulating or preparing for an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, utility relocation, work site preparation, and administration or other incidental items that would not have been incurred except for the project; or
 
 &emsp;(2) necessarily and directly incurred in developing the work scope of an airport planning project.
 
@@ -74,7 +74,7 @@ Certain Prior Costs as Allowable Costs.—The Secretary may decide that a projec
 
 Relocation of Airport-Owned Facilities.—The Secretary may determine that the costs of relocating or replacing an airport-owned facility are allowable for an airport development project at an airport only if—
 
-&emsp;(1) the Government's share of such costs will be paid with funds apportioned to the airport sponsor under section 47114(c)(1) or 47114(d);
+&emsp;(1) the Government's share of such costs will be paid with funds apportioned to the airport sponsor under section 47114 or distributed from the small airport fund under section 47116;
 
 &emsp;(2) the Secretary determines that the relocation or replacement is required due to a change in the Secretary's design standards; and
 
@@ -90,11 +90,11 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 &emsp;(B) that will comply with all statutory and administrative requirements that would apply to the project if it were carried out with amounts made available under this subchapter; and
 
-&emsp;(C) that meets the criteria of section 47115(d) and, if for a project at a commercial service airport having at least 0.25 percent of the boardings each year at all such airports, the Secretary decides will enhance system-wide airport capacity significantly.
+&emsp;(C) that meets the criteria of section 47115(d) and, if for a project at a medium hub airport or large hub airport, the Secretary decides will enhance system-wide airport capacity significantly.
 
 (3) A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
 
-(4) The total estimated amount of future Government obligations covered by all outstandingletters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
+(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
 
 (5)
 
@@ -106,7 +106,7 @@ Limitation on statutory construction.—Nothing in this section shall be constru
 
 (7)
 
-Partnership program airports.—The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
+Partnership program airports.—The Secretary may issue a letter of intent under this subsection to an airport sponsor with an approved application under section 47134(b) if—
 
 &emsp;(A) the application was approved in fiscal year 2019; and
 
@@ -126,21 +126,77 @@ Nonallowable Costs.—Except as provided in subsection (d) of this section and s
 
 (g)
 
-Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to cover the Government's share of the cost of the project.
+Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) <sup>1</sup> are not sufficient to cover the Government's share of the cost of the project.
 
 (h)
 
-Nonprimary Airports.—The Secretary may decide that the construction costs of revenue producing aeronautical support facilities are allowable for an airport development project at a nonprimary airport if the Government's share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(d)(3)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
+Nonprimary Airports.—The Secretary may decide that the construction costs of revenue producing aeronautical support facilities are allowable for an airport development project at a nonprimary airport if the Government's share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(c)(1)(D) or section 47114(d)(2)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
 
 (i)
 
-Bird-Detecting Radar Systems.—The Administrator of the Federal Aviation Administration, upon the conclusion of all planned research by the Administration regarding avian radar systems, shall—
+Small Airport Letters of Intent.—
 
-&emsp;(1) update Advisory Circular No. 150/5220–25 to specify which systems have been studied; and
+&emsp;(1)
 
-&emsp;(2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
+In general.—The Secretary may issue a letter of intent to a sponsor stating an intention to obligate an amount from future budget authority for an airport development project (including costs of formulating the project) at a nonhub airport or an airport that is not a primary airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371; Pub. L. 117–186, §2, Oct. 10, 2022, 136 Stat. 2199.)
+&emsp;(2)
+
+Contents.—In the letter issued under paragraph (1), the Secretary shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
+
+&emsp;(3)
+
+Limitations.—The amount the Secretary intends to obligate in a letter of intent issued under this subsection shall not exceed the larger of—
+
+&emsp;&emsp;(A) the Government's share of allowable project costs; or
+
+&emsp;&emsp;(B) $10,000,000.
+
+&emsp;(4)
+
+Financing.—Allowable project costs under paragraphs (1) and (2) may include costs associated with making payments for debt service on indebtedness incurred to carry out the project.
+
+&emsp;(5)
+
+Requirements.—The Secretary shall issue a letter of intent under paragraph (1) only if—
+
+&emsp;&emsp;(A) the sponsor notifies the Secretary, before the project begins, of the intent of the sponsor to carry out the project and requests a letter of intent; and
+
+&emsp;&emsp;(B) the sponsor agrees to comply with all statutory and administrative requirements that would apply to the project if it were carried out with amounts made available under this subchapter.
+
+&emsp;(6)
+
+Assessment.—In reviewing a request for a letter of intent under this subsection, the Secretary shall consider the grant history of an airport, the enplanements or operations of an airport, and such other factors as the Secretary determines appropriate.
+
+&emsp;(7)
+
+Prioritization.—In issuing letters of intent under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) prioritize projects that—
+
+&emsp;&emsp;&emsp;(i) cannot reasonably be funded by an airport sponsor using funds apportioned under section 47114(c), 47114(d)(2)(A), or 47114(d)(6), including funds apportioned under such sections in multiple fiscal years pursuant to section 47117(b)(1); and
+
+&emsp;&emsp;&emsp;(ii) are necessary to the continued safe operation or development of an airport; and
+
+&emsp;&emsp;(B) structure the reimbursement schedules under such letters in a manner that minimizes unnecessary or undesirable project segmentation.
+
+&emsp;(8)
+
+No obligation or commitment.—
+
+&emsp;&emsp;(A)
+
+In general.—A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing.
+
+&emsp;&emsp;(B)
+
+Obligation or commitment.—An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation Acts.
+
+&emsp;(9)
+
+Limitation on statutory construction.—Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371; Pub. L. 117–186, §2, Oct. 10, 2022, 136 Stat. 2199; Pub. L. 118–63, title VII, §§709–710(b)(1), May 16, 2024, 138 Stat. 1252, 1253.)
 
 Historical and Revision Notes
 
@@ -196,7 +252,7 @@ Subsection (b)(3) is substituted for "in the opinion of the Secretary it is reas
 
 Subsection (b)(5) is substituted for "except that in no event may the Secretary allow project costs in excess of the definite amount stated in the grant agreement except to the extent authorized by section 2211(b) of this Appendix" for consistency in this section.
 
-In subsection (c), before clause (1), the words "The Secretary may decide that a project cost . . . is allowable" are substituted for "However, the allowable costs of a project . . . may include . . . and the allowablecosts of a project . . . may include" for clarity and consistency in the revised title. The words "incurred after May 13, 1946, and before the date the grant agreement is executed" are substituted for "which were incurred prior to the execution of the grant agreement and subsequent to May 13, 1946" and "which were incurred subsequent to May 13, 1946" to eliminate unnecessary words. In clause (1), the words "preparation of", "acquisition of", "by the sponsor specifically in connection with the accomplishment of the project for airport development" are omitted as surplus. The words "property interests in land or airspace" are substituted for "land or interests therein or easements through or other interests in airspace" to eliminate unnecessary words.
+In subsection (c), before clause (1), the words "The Secretary may decide that a project cost . . . is allowable" are substituted for "However, the allowable costs of a project . . . may include . . . and the allowable costs of a project . . . may include" for clarity and consistency in the revised title. The words "incurred after May 13, 1946, and before the date the grant agreement is executed" are substituted for "which were incurred prior to the execution of the grant agreement and subsequent to May 13, 1946" and "which were incurred subsequent to May 13, 1946" to eliminate unnecessary words. In clause (1), the words "preparation of", "acquisition of", "by the sponsor specifically in connection with the accomplishment of the project for airport development" are omitted as surplus. The words "property interests in land or airspace" are substituted for "land or interests therein or easements through or other interests in airspace" to eliminate unnecessary words.
 
 In subsection (d)(1), before clause (A), the words "The Secretary may decide that the cost . . . is allowable" are substituted for "the Secretary may approve, as allowable project costs" and "The Secretary shall approve project costs allowable under paragraph (1) of this subsection" for clarity and consistency in this section. In clause (B), the words "the boundaries of" are omitted as surplus. In clause (C), the words "and conditions" are omitted as being included in "terms".
 
@@ -225,7 +281,25 @@ In subsection (b)(2)(C)(ii), the words "before the cost is incurred" are added f
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 47114(d)(3)(A), referred to in subsecs. (b)(2)(C) and (g), was redesignated section 47114(d)(2)(A) by Pub. L. 118–63, title VII, §712(b)(6), May 16, 2024, 138 Stat. 1256.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–63, §709(1)(A), struck out "after May 13, 1946, and" after "this section incurred" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 118–63, §709(1)(B), inserted "or preparing for" after "formulating" and "utility relocation, work site preparation," before "and administration".
+
+Subsec. (d)(1). Pub. L. 118–63, §709(2), substituted "section 47114 or distributed from the small airport fund under section 47116" for "section 47114(c)(1) or 47114(d)".
+
+Subsec. (e)(2)(C). Pub. L. 118–63, §709(3), substituted "medium hub airport or large hub airport" for "commercial service airport having at least 0.25 percent of the boardings each year at all such airports".
+
+Subsec. (e)(7). Pub. L. 118–63, §710(b)(1), substituted "under this subsection" for "under this section" in introductory provisions.
+
+Subsec. (h). Pub. L. 118–63, §709(4), substituted "section 47114(c)(1)(D) or section 47114(d)(2)(A)" for "section 47114(d)(3)(A)".
+
+Subsec. (i). Pub. L. 118–63, §§709(5), 710(a), added subsec. (i) and struck out former subsec. (i) which related to bird-detecting radar systems.
 
 <b>2022</b>—Subsec. (b)(1). Pub. L. 117–186, §2(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -338,4 +412,6 @@ Pub. L. 101–516, title III, §320, Nov. 5, 1990, 104 Stat. 2181.
 Pub. L. 101–164 title III, §326, Nov. 21, 1989, 103 Stat. 1096.
 
 Pub. L. 100–457, title III, §334, Sept. 30, 1988, 102 Stat. 2153.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

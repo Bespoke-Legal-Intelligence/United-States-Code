@@ -90,7 +90,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > but in no event shall any State be allotted less than $200,000.
 
-(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+(4)(A) The amount of each allotment to a State for any fiscal year under this subsectionshall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
 
 &emsp;(i) give consideration to the various circumstances the State is encountering at the time of such request; and
 
@@ -100,7 +100,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 (C) Funds made available under this subsection shall not be used to supplant non-Federal funds. The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.
 
-(D) For the purpose of paragraph (3) and paragraph (4) of this section the term "regionalgroup" means any multistate group, whether or not representative of contiguous States.
+(D) For the purpose of paragraph (3) and paragraph (4) of this section the term "regional group" means any multistate group, whether or not representative of contiguous States.
 
 (E) For purposes of paragraph (3)(B), the term "State" includes, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
@@ -156,7 +156,7 @@ The Chairperson shall issue regulations to provide for the distribution of finan
 
 &emsp;(1) not more than two-thirds of such assistance may be provided at the time such application is approved; and
 
-&emsp;(2) the remainder of such assistance may not be provided until the Chairperson finds that the recipient of such assistance is complying substantially with this section and with the conditions under which such assistance is provided to such recipient.
+&emsp;(2) the remainder of such assistance may not be provided until the Chairperson finds thatthe recipient of such assistance is complying substantially with this section and with the conditions under which such assistance is provided to such recipient.
 
 #### (k) Reviews to ensure compliance with regulations
 
@@ -274,7 +274,7 @@ Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Intern
 
 Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-"(i) a description of the level of participation during the previous 2 years by artists, artists' organizations, and arts organizations in projects and productions forwhich financial assistance is provided under this subsection;
+"(i) a description of the level of participation during the previous 2 years by artists, artists' organizations, and arts organizations in projects and productions for which financial assistance is provided under this subsection;
 
 "(ii) a description of the extent to which projects and productions receiving financial assistance under this subsection are available to all people and communities in the State; and".
 
@@ -358,7 +358,7 @@ Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
 Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 
-Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted "assistance under this subsection" and "at such time as shall be specified by the Chairman" for "such assistance" and "prior tothe first day of such fiscal year" respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
+Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted "assistance under this subsection" and "at such time as shall be specified by the Chairman" for "such assistance" and "prior to the first day of such fiscal year" respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: "From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term 'State' shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts."
 
@@ -402,7 +402,7 @@ Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title I
 
 #### Applicability of 1985 Amendment
 
-Pub. L. 99–194, title I, §112, Dec. 20, 1985, 99 Stat. 1344, provided that: "The amendments made by sections 105(3) and 107(3) \[amending this section and section 956 of this title\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986."
+Pub. L. 99–194, title I, §112, Dec. 20, 1985, 99 Stat. 1344, provided that: "The amendments made by sections 105(3) and 107(3) \[amending this section and section 956of this title\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986."
 
 #### Effective Date of 1973 Amendment
 

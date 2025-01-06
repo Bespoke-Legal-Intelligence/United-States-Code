@@ -94,7 +94,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §529(d), Nov. 24, 2003, 117 Stat. 1472, provided that: "The amendments made by this section \[amending this section and sections 9335 and 9336 of this title\] shall apply with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
+Pub. L. 108–136, div. A, title V, §529(d), Nov. 24, 2003, 117 Stat. 1472, provided that: "The amendments madeby this section \[amending this section and sections 9335 and 9336 of this title\] shall apply with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Effective Date of 1980 Amendment
 

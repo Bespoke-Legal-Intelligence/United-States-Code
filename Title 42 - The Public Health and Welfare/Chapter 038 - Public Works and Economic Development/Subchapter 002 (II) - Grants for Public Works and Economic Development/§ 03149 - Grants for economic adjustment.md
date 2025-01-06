@@ -18,7 +18,7 @@ The Secretary may provide assistance under this section only if the Secretary de
 
 #### (c) Particular community assistance
 
-Assistance under this section may include assistance provided for activities identified bycommunities, the economies of which are injured by—
+Assistance under this section may include assistance provided for activities identified by communities, the economies of which are injured by—
 
 &emsp;(1) military base closures or realignments, defense contractor reductions in force, or Department of Energy defense-related funding reductions, for help in diversifying their economies through projects to be carried out on Federal Government installations or elsewhere in the communities;
 
@@ -26,11 +26,121 @@ Assistance under this section may include assistance provided for activities ide
 
 &emsp;(3) international trade, for help in economic restructuring of the communities;
 
-&emsp;(4) fishery failures, in areas with respect to which a determination that there is a commercial fishery failure has been made under section 1861a(a) of title 16; or
+&emsp;(4) fishery failures, in areas with respect to which a determination that there is a commercial fishery failure has been made under section 1861a(a) of title 16;
 
-&emsp;(5) the loss of manufacturing jobs, for reinvesting in and diversifying the economies of the communities.
+&emsp;(5) the loss of manufacturing, travel and tourism, natural resource-based, blue economy, or agricultural jobs, for reinvesting in and diversifying the economies of the communities;
 
-#### (d) Special provisions relating to revolving loan fund grants
+&emsp;(6) economic dislocation in the steel industry due to the closure of a steel plant, primary steel economy contraction events (including temporary layoffs and shifts to part-time work), or job losses in the steel industry or associated with the departure or contraction of the steel industry, for help in economic restructuring of the communities; or
+
+&emsp;(7) limited water for industrial consumption in areas impacted by decreased water supplies due to drought or extreme heat.
+
+#### (d) Assistance to coal communities
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Coal economy
+
+&emsp;&emsp;The term "coal economy" means the complete supply chain of coal-reliant industries, including—
+
+&emsp;&emsp;&emsp;(i) coal mining;
+
+&emsp;&emsp;&emsp;(ii) coal-fired power plants;
+
+&emsp;&emsp;&emsp;(iii) transportation or logistics; and
+
+&emsp;&emsp;&emsp;(iv) manufacturing.
+
+#### (B) Contraction event
+
+&emsp;&emsp;The term "contraction event" means the closure of a facility or a reduction in activity relating to a coal-reliant industry, including an industry described in any of clauses (i) through (iv) of subparagraph (A).
+
+#### (2) Authorization
+
+&emsp;On the application of an eligible recipient, the Secretary may make grants for projects in areas adversely impacted by a contraction event in the coal economy.
+
+#### (3) Eligibility
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out this subsection, the Secretary shall determine the eligibility of an area based on whether the eligible recipient can reasonably demonstrate that the area—
+
+&emsp;&emsp;&emsp;(i) has been adversely impacted by a contraction event in the coal economy within the previous 25 years; or
+
+&emsp;&emsp;&emsp;(ii) will be adversely impacted by a contraction event in the coal economy.
+
+#### (B) Prohibition
+
+&emsp;&emsp;No regulation or other policy of the Secretary may limit the eligibility of an eligible recipient for a grant under this subsection based on the date of a contraction event except as provided in subparagraph (A)(i).
+
+#### (C) Demonstrating adverse impact
+
+&emsp;&emsp;For the purposes of this paragraph, an eligible recipient may demonstrate an adverse impact by demonstrating—
+
+&emsp;&emsp;&emsp;(i) a loss in employment;
+
+&emsp;&emsp;&emsp;(ii) a reduction in tax revenue; or
+
+&emsp;&emsp;&emsp;(iii) any other factor, as determined to be appropriate by the Secretary.
+
+#### (e) Assistance to nuclear host communities
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Commission
+
+&emsp;&emsp;The term "Commission" means the Nuclear Regulatory Commission.
+
+#### (B) Community advisory board
+
+&emsp;&emsp;The term "community advisory board" means a community committee or other advisory organization that—
+
+&emsp;&emsp;&emsp;(i) primarily focuses on the economic impacts of decommissioning activities; and
+
+&emsp;&emsp;&emsp;(ii) aims to foster communication and information exchange between a licensee planning for and involved in decommissioning activities and members of the community that decommissioning activities may affect.
+
+#### (C) Decommission
+
+&emsp;&emsp;The term "decommission" has the meaning given the term in section 50.2 of title 10, Code of Federal Regulations (or successor regulations).
+
+#### (D) Licensee
+
+&emsp;&emsp;The term "licensee" has the meaning given the term in section 50.2 of title 10, Code of Federal Regulations (or successor regulations).
+
+#### (E) Nuclear host community
+
+&emsp;&emsp;The term "nuclear host community" means an eligible recipient that has been economically impacted, or reasonably demonstrates to the satisfaction of the Secretary that it will be economically impacted, by a nuclear power plant licensed by the Commission that—
+
+&emsp;&emsp;&emsp;(i) is not co-located with an operating nuclear power plant;
+
+&emsp;&emsp;&emsp;(ii) is at a site with spent nuclear fuel; and
+
+&emsp;&emsp;&emsp;(iii) as of January 4, 2025—
+
+&emsp;&emsp;&emsp;&emsp;(I) has ceased operations; or
+
+&emsp;&emsp;&emsp;&emsp;(II) has provided a written notification to the Commission that it will cease operations.
+
+#### (2) Authorization
+
+&emsp;On the application of an eligible recipient, the Secretary may make grants—
+
+&emsp;&emsp;(A) to assist with economic development in nuclear host communities; and
+
+&emsp;&emsp;(B) to fund community advisory boards in nuclear host communities.
+
+#### (3) Requirement
+
+&emsp;In carrying out this subsection, to the maximum extent practicable, the Secretary shall implement the recommendations described in the report submitted to Congress under section 108 of the Nuclear Energy Innovation and Modernization Act (Public Law 115–439; 132 Stat. 5577) entitled "Best Practices for Establishment and Operation of Local Community Advisory Boards Associated with Decommissioning Activities at Nuclear Power Plants".
+
+#### (4) Distribution of funds
+
+&emsp;The Secretary shall establish a methodology to ensure, to the maximum extent practicable, geographic diversity among grant recipients under this subsection.
+
+#### (f) Special provisions relating to revolving loan fund grants
 
 #### (1) In general
 
@@ -60,11 +170,11 @@ Assistance under this section may include assistance provided for activities ide
 
 &emsp;&emsp;Except as provided in subparagraph (A), no provision of this subsection or any regulation promulgated by the Secretary under this subsection supersedes or otherwise affects the application of the securities laws (as the term is defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))) or the rules, regulations, or orders of the Securities and Exchange Commission or a self-regulatory organization under that Commission.
 
-#### (e) Disaster mitigation
+#### (g) Disaster mitigation
 
 In providing assistance pursuant to subsection (c)(2), if appropriate and as applicable, the Secretary may encourage hazard mitigation in assistance provided pursuant to such subsection.
 
-(Pub. L. 89–136, title II, §209, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3605; amended Pub. L. 108–373, title II, §207, Oct. 27, 2004, 118 Stat. 1762; Pub. L. 115–254, div. D, §1217(a), Oct. 5, 2018, 132 Stat. 3451.)
+(Pub. L. 89–136, title II, §209, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3605; amended Pub. L. 108–373, title II, §207, Oct.27, 2004, 118 Stat. 1762; Pub. L. 115–254, div. D, §1217(a), Oct. 5, 2018, 132 Stat. 3451; Pub. L. 118–272, div. B, title II, §2219, Jan. 4, 2025, 138 Stat. 3183.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,11 +182,19 @@ In providing assistance pursuant to subsection (c)(2), if appropriate and as app
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+Section 108 of the Nuclear Energy Innovation and Modernization Act, referred to in subsec. (e)(3), is section 108 of Pub. L. 115–439, title I, Jan. 14, 2019, 132 Stat. 5577, which is not classified to the Code.
 
-The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(4)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+
+The Securities Exchange Act of 1934, referred to in subsec. (f)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c)(5). Pub. L. 118–272, §2219(1)(B)(i), inserted ", travel and tourism, natural resource-based, blue economy, or agricultural" after "manufacturing".
+
+Subsec. (c)(6), (7). Pub. L. 118–272, §2219(1)(A), (B)(ii), (C), added pars. (6) and (7).
+
+Subsecs. (d) to (g). Pub. L. 118–272, §2219(2), (3), added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–254 added subsec. (e).
 

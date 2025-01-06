@@ -76,7 +76,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
 
-Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to AttorneyGeneral by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
+Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
 
 #### Trusted Traveler Programs
 
@@ -124,7 +124,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;"(B) The Secretary of Homeland Security and the Secretary of State shall jointly certify to the Committees on Appropriations of the Senate and the House of Representatives that the following criteria have been met prior to implementation of section 7209(b)(1)(A)—
 
-&emsp;&emsp;&emsp;"(i) the National Institute of Standards and Technology certifies that the Departments of Homeland Security and State have selected a card architecture that meets or exceeds International Organization for Standardization (ISO) security standards and meets or exceeds best available practices for protection of personal identification documents: <i>Provided</i>, That the National Institute of Standards and Technology shall also assist the Departments of Homeland Security and State to incorporate into the architecture of the card the best available practices to prevent the unauthorized use of information on the card: <i>Provided further</i>, That to facilitate efficient cross-border travel, the Departments of Homeland Security and State shall, to the maximum extent possible, develop an architecture that is compatible with information technology systems and infrastructure used by United States Customs and Border Protection;
+&emsp;&emsp;&emsp;"(i) the National Institute of Standards and Technology certifies that the Departments of Homeland Security and State have selected a card architecture that meets or exceeds International Organization for Standardization (ISO) security standards and meets or exceeds bestavailable practices for protection of personal identification documents: <i>Provided</i>, That the National Institute of Standards and Technology shall also assist the Departments of Homeland Security and State to incorporate into the architecture of the card the best available practices to prevent the unauthorized use of information on the card: <i>Provided further</i>, That to facilitate efficient cross-border travel, the Departments of Homeland Security and State shall, to the maximum extent possible, develop an architecture that is compatible with information technology systems and infrastructure used by United States Customs and Border Protection;
 
 &emsp;&emsp;&emsp;"(ii) the technology to be used by the United States for the passport card, and any subsequent change to that technology, has been shared with the governments of Canada and Mexico;
 
@@ -138,7 +138,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;"(vii) a single implementation date for sea and land borders has been established; and
 
-&emsp;&emsp;&emsp;"(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph\(A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
+&emsp;&emsp;&emsp;"(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
 
 &emsp;&emsp;"(C)
 
@@ -198,7 +198,7 @@ Ex. Ord. No. 13323, Dec. 30, 2003, 69 F.R. 241, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and to strengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
 
-Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) of the INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
+Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) of the INA with respect to persons other than citizens ofthe United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
 
 Sec. 2. <i>Functions of the Secretary of State</i>. The Secretary of State is assigned the functions of the President under section 215(a) and (b) of the INA with respect to citizens of the United States, including those functions concerning United States passports. In addition, the Secretary may amend or revoke part 46 of title 22, Code of Federal Regulations, which concern persons other than citizens of the United States. In exercising these functions, the Secretary of State shall not issue, amend, or revoke any rules, regulations, or orders without first consulting with the Secretary of Homeland Security.
 

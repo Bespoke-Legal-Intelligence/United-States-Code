@@ -6,7 +6,7 @@ When not otherwise provided for by this title, the Secretary shall by regulation
 
 #### (b) Electronically filed information returns
 
-Returns made under subpart B of part III of this subchapter (other than returns and statements required to be filed with respect to nonemployee compensation) which are filed electronically shall be filed on or before March 31 of the year following the calendar year to which such returns relate.
+Returns made under subpart B of part III of this subchapter (other than returns and statements required to be filed with respect to nonemployee compensation) which are filed electronically shall be filed on or before March 31 ofthe year following the calendar year to which such returns relate.
 
 #### (c) Returns and statements relating to employee wage information and nonemployee compensation
 

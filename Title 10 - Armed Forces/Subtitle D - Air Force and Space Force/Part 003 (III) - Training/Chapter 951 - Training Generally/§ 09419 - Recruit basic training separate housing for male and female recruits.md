@@ -20,7 +20,7 @@ Construction Planning.—In planning for the construction of housing to be used 
 
 Basic Training Defined.—In this section, the term "basic training" means the initial entry training program of the Air Force or the Space Force that constitutes the basic training of new recruits.
 
-(Added Pub. L. 105–261, div. A, title V, §521(c)(1), Oct. 17, 1998, 112 Stat. 2011, §9319; renumbered §9419, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 118–31, div. A, title XVII, §1741(b)(6), Dec. 22, 2023, 137 Stat. 681.)
+(Added Pub. L. 105–261, div. A, title V, §521(c)(1), Oct. 17, 1998, 112 Stat. 2011, §9319; renumbered§9419, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 118–31, div. A, title XVII, §1741(b)(6), Dec. 22, 2023, 137 Stat. 681.)
 
 #### <b>Editorial Notes</b>
 

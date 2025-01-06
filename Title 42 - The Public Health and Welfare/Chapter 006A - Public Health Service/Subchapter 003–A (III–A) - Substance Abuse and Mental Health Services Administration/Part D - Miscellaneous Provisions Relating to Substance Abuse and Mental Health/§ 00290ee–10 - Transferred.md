@@ -1,8 +1,0 @@
-### §290ee–10. Transferred
-
-#### <b>Editorial Notes</b>
-
-#### Codification
-
-Section, act July 1, 1944, ch. 373, title V, §550, as added Pub. L. 115–271, title VIII, §8214, Oct. 24, 2018, 132 Stat. 4116, which related to sobriety treatment and recovery teams, was renumbered section 550A of act July 1, 1944, by Pub. L. 117–328, div. FF, title I, §1237, Dec. 29, 2022, 136 Stat. 5677, and transferred to section 290ee–5a of this title.
-

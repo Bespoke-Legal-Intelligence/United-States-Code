@@ -8,7 +8,7 @@
 
 (4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
-(5) The authority of the Secretary under paragraph (1) expires on September 30, 2024.
+(5) The authority of the Secretary under paragraph (1) expires on September 30, 2025.
 
 (b)(1) There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs Capital Asset Fund (hereinafter in this section referred to as the "Fund"). Amounts in the Fund shall remain available until expended.
 
@@ -32,11 +32,13 @@
 
 &emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
 
-(Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, §105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5103, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title IV, §405, Sept. 30, 2022, 136 Stat. 2139.)
+(Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, §105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5103, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title IV, §405, Sept. 30, 2022, 136 Stat. 2139; Pub. L. 118–83, div. B, title III, §337, Sept. 26, 2024, 138 Stat. 1542.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(5). Pub. L. 118–83 substituted "September 30, 2025" for "September 30, 2024".
 
 <b>2022</b>—Subsec. (a)(5). Pub. L. 117–180 substituted "September 30, 2024" for "September 30, 2022".
 
@@ -50,7 +52,7 @@
 
 #### Transfer of Unobligated Balances to Capital Asset Fund
 
-Pub. L. 108–422, title IV, §411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: "Any unobligated balances inthe nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act \[Nov. 30, 2004\] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a))."
+Pub. L. 108–422, title IV, §411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: "Any unobligated balances in the nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act \[Nov. 30, 2004\] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a))."
 
 \[Section 411(d) of Pub. L. 108–422, set out above, is effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, see section 411(f) of Pub. L. 108–422, set out as an Effective Date of 2004 Amendment note under section 1710B of this title.\]
 

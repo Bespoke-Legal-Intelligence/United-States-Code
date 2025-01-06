@@ -52,7 +52,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (B) Notification of patients
 
-&emsp;&emsp;A State shall demonstrate how patients would be notified that they are receiving health care services that fall within such scope, and the process by which they may opt out of or voluntarily withdraw from participating in the alternative. The decision of the patient whether to participate or continue participating in the alternative process shall be made at any time and shall not be limited in any way.
+&emsp;&emsp;A State shall demonstrate how patients would be notified that they are receiving health care services that fall within suchscope, and the process by which they may opt out of or voluntarily withdraw from participating in the alternative. The decision of the patient whether to participate or continue participating in the alternative process shall be made at any time and shall not be limited in any way.
 
 #### (5) Preference in awarding demonstration grants
 
@@ -142,7 +142,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the review panel established under subsection (d)(2), shall enter into a contract with an appropriate research organization to conduct an overall evaluation of the effectiveness of grants awarded under subsection (a) and to annually prepare and submit a report to Congress. Such an evaluation shall begin not later than 18 months following the date of implementation of the first program funded by a grant under subsection (a).
+&emsp;The Secretary, in consultation with the review panel established under subsection (d)(2),shall enter into a contract with an appropriate research organization to conduct an overall evaluation of the effectiveness of grants awarded under subsection (a) and to annually prepare and submit a report to Congress. Such an evaluation shall begin not later than 18 months following the date of implementation of the first program funded by a grant under subsection (a).
 
 #### (2) Contents
 
@@ -204,7 +204,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (i) Option to provide for initial planning grants
 
-Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting thecriteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
+Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting the criteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
 
 #### (j) Definitions
 

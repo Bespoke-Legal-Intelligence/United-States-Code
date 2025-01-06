@@ -10,7 +10,7 @@ Regulations.—The Secretary of Transportation shall prescribe regulations that 
 
 (b)
 
-Notice and Opportunity To Respond.—Regulations under this section shall provide fornotice and an opportunity for each interested person to file appropriate written evidence and argument. An oral evidentiary hearing is not required to be provided under this section.
+Notice and Opportunity To Respond.—Regulations under this section shall provide for notice and an opportunity for each interested person to file appropriate written evidence and argument. An oral evidentiary hearing is not required to be provided under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1128.)
 

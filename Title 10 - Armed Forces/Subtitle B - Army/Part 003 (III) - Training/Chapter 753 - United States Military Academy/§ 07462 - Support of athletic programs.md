@@ -20,7 +20,7 @@ Financial controls.—(A) Before entering into a contract or cooperative agreeme
 
 &emsp;(3)
 
-Leases.—Section 2667(h) of this title shall not apply to any leases the Secretarymay enter into with the Association for the purpose of supporting the athletic programs of the Academy.
+Leases.—Section 2667(h) of this title shall not apply to any leases the Secretary may enter into with the Association for the purpose of supporting the athletic programs of the Academy.
 
 (b)
 
@@ -72,7 +72,7 @@ Licensing, marketing, and sponsorship agreements.—An agreement under subsectio
 
 Limitations.—No licensing, marketing, or sponsorship agreement may be entered into under paragraph (1) if—
 
-&emsp;&emsp;(A) such agreement would reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
+&emsp;&emsp;(A) such agreement would reflect unfavorably on the ability of the Department of the Army, any of its employees, or any memberof the armed forces to carry out any responsibility or duty in a fair and objective manner; or
 
 &emsp;&emsp;(B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
 

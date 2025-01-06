@@ -1,6 +1,6 @@
 ### §145. Printing and distribution
 
-(a) The Director of the Government Publishing Office shall print and bind each volume of theofficial papers relating to the Territories of the United States as provided for in this chapter, of which—
+(a) The Director of the Government Publishing Office shall print and bind each volume of the official papers relating to the Territories of the United States as provided for in this chapter, of which—
 
 &emsp;(1) four hundred and twenty copies shall be delivered to the Superintendent of Documents, Government Publishing Office, for distribution, on the basis of one copy each, and as directed by the Archivist, to those historical associations, commissions, museums, or libraries and other nondepository libraries, not to exceed eight in number within each State, Territory, or Possession, which have been or may be designated by the Governor thereof to receive such copies;
 

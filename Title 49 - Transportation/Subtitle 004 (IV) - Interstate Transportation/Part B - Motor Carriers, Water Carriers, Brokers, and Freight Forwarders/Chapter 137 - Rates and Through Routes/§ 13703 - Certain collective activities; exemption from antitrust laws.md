@@ -50,7 +50,7 @@ Actions not in the public interest.—The Board may investigate any action taken
 
 &emsp;(6)
 
-Effect of approval.—If the Board approves the agreement or renews approval of the agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the antitrust laws,as defined in the first section of the Clayton Act (15 U.S.C. 12), do not apply to parties and other persons with respect to making or carrying out the agreement.
+Effect of approval.—If the Board approves the agreement or renews approval of the agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the antitrust laws, as defined in the first section of the Clayton Act (15 U.S.C. 12), do not apply to parties and other persons with respect to making or carrying out the agreement.
 
 (b)
 
@@ -164,7 +164,7 @@ Provisions similar to those in this section were contained in section 10706 of t
 
 #### Amendments
 
-<b>2003</b>—Subsecs. (d) to (h). Pub. L. 108–7 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struckout heading and text of former subsec. (d). Text read as follows: "The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority."
+<b>2003</b>—Subsecs. (d) to (h). Pub. L. 108–7 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out heading and text of former subsec. (d). Text read as follows: "The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority."
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
 

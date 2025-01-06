@@ -6,7 +6,7 @@ The Secretary may participate with other countries in cooperative endeavors in�
 
 &emsp;(1) biomedical research, health care technology, and the health services research and statistical analysis authorized under section 242k of this title and subchapter VII; and
 
-&emsp;(2) biomedical research, health care services, health care research, or other related activities in furtherance of the activities, objectivesor goals authorized under the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008.
+&emsp;(2) biomedical research, health care services, health care research, or other related activities in furtherance of the activities, objectives or goals authorized under the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008.
 
 #### (b) Authority of Secretary; building construction prohibition
 
@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health
 
 #### International Health Study
 
-Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, and Welfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of international health, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations' capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effective and efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
+Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, andWelfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of international health, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations' capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effective and efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

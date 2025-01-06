@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall institute policies and procedures for letters of request from Australia and the United Kingdom to transfer defense articles and services under section 2761 of this title related to AUKUS to receive expedited consideration and processing relative to all other letters of request other than from Taiwan and Ukraine.
+The President shall institute policies and procedures for letters of request from Australia andthe United Kingdom to transfer defense articles and services under section 2761 of this title related to AUKUS to receive expedited consideration and processing relative to all other letters of request other than from Taiwan and Ukraine.
 
 #### (b) Technology transfer policy for Australia, Canada, and the United Kingdom
 

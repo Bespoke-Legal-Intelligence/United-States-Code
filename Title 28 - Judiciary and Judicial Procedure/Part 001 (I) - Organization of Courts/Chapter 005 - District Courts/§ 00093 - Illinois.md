@@ -16,7 +16,7 @@ Illinois is divided into three judicial districts to be known as the Northern, C
 
 ### Central District
 
-&emsp;&emsp;(b) The Central District comprises the counties of Adams, Brown, Bureau, Cass, Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois, Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.
+&emsp;&emsp;(b) The Central District comprises the counties of Adams, Brown, Bureau, Cass, Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois,Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.
 
 &emsp;&emsp;Court for the Central District shall be held at Champaign/Urbana, Danville, Peoria, Quincy, Rock Island, and Springfield.
 
@@ -88,7 +88,7 @@ Pub. L. 95–573, §6, Nov. 2, 1978, 92 Stat. 2458, as amended by Pub. L. 96–4
 
 #### Effective Date of 1978 Amendment; Savings Provision
 
-Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act, see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
+Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act,see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
 
 #### District Judges, United States Attorneys, Assistant United States Attorneys, and United States Marshals for Central and Southern Districts; Designation; Tenure; Appointment; Grand Jury
 
@@ -98,5 +98,5 @@ Pub. L. 95–408, §4(b)(2)–(4), as added by Pub. L. 96–4, §1, Mar. 30, 197
 
 "(3) This section does not in any manner affect the tenure of the United States attorney, the assistant United States attorneys, or the United States marshal for the Eastern District of Illinois or for the Southern District of Illinois who are in office on the effective date of this Act \[180 days after Oct. 2, 1978\]. The United States attorney, the assistant United States attorneys, and the United States marshal for the Eastern District and for the Southern District of Illinois shall, on the effective date of this Act, become the United States attorney, the assistant United States attorneys, and the United States marshal for the Southern District and for the Central District of Illinois, respectively.
 
-"(4) Notwithstanding section 3240 of title 18, United States Code, any grand jury impaneled on or after the effective date of this Act \[180 days after Oct. 2, 1978\] by a district court for the Central District or the SouthernDistrict of Illinois may inquire into and return indictments charging offenses against the criminal laws of the United States alleged to have been committed anywhere within the territory of the respective judicial districts as such districts were constituted before or after the effective date of this Act."
+"(4) Notwithstanding section 3240 of title 18, United States Code, any grand jury impaneled on or after the effective date of this Act \[180 days after Oct. 2, 1978\] by a district court for the Central District or the Southern District of Illinois may inquire into and return indictments charging offenses against the criminal laws of the United States alleged to have been committed anywhere within the territory of the respective judicial districts as such districts were constituted before or after the effective date of this Act."
 

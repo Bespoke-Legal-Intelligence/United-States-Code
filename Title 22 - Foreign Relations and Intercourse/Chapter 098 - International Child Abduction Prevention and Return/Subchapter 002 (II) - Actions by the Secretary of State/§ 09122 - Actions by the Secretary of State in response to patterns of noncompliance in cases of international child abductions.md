@@ -4,7 +4,7 @@
 
 It is the policy of the United States—
 
-&emsp;(1) to oppose institutional or other systemic failures of foreign governments to fulfill theirobligations pursuant to the Hague Abduction Convention or bilateral procedures, as applicable, to resolve abduction and access cases;
+&emsp;(1) to oppose institutional or other systemic failures of foreign governments to fulfill their obligations pursuant to the Hague Abduction Convention or bilateral procedures, as applicable, to resolve abduction and access cases;
 
 &emsp;(2) to promote reciprocity pursuant to, and in compliance with, the Hague Abduction Convention or bilateral procedures, as appropriate; and
 
@@ -120,7 +120,21 @@ The Secretary of State shall seek to take all appropriate actions authorized by 
 
 Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
 
-(Pub. L. 113–150, title II, §202, Aug. 8, 2014, 128 Stat. 1818.)
+#### (h) Study of international parental child abduction
+
+#### (1) Study required
+
+&emsp;Not later than 1 year after December 23, 2024, the Secretary of State, subject to the availability of funds, shall seek to enter into an agreement with an appropriate university, research institution, or nongovernmental organization to study and publish a report on the impact to abducted children and left-behind parents as a result of international parental child abduction.
+
+#### (2) Consultation
+
+&emsp;The Secretary of State shall consult with the appropriate congressional committees on the goals of the study and report required under paragraph (1).
+
+#### (3) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated $1,000,000 for each of fiscal years 2025 and 2026 to carry out the study required under paragraph (1).
+
+(Pub. L. 113–150, title II, §202, Aug. 8, 2014, 128 Stat. 1818; Pub. L. 118–159, div. G, title LXXV, §7509(c), Dec. 23, 2024, 138 Stat. 2551.)
 
 #### <b>Editorial Notes</b>
 
@@ -129,4 +143,8 @@ Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict 
 The Foreign Assistance Act of 1961, referred to in subsec. (d)(7), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (e)(1)(B), (2)(C)(ii), was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (h). Pub. L. 118–159 added subsec. (h).
 

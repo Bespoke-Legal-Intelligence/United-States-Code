@@ -28,7 +28,7 @@ The actuarial report and statement required by this section shall be filed at th
 
 #### (d) Cross reference
 
-&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the report required to be filed under this section,</b><b>see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1033(a), Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–280, title I, §114(f), Aug. 17, 2006, 120 Stat. 855; Pub. L. 113–97, title II, §202(c)(10), Apr. 7, 2014, 128 Stat. 1138; Pub. L. 115–141, div. U, title IV, §401(a)(265), Mar. 23, 2018, 132 Stat. 1197.)
 

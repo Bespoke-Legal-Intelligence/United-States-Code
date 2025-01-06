@@ -50,7 +50,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(p)(2), Nov. 6, 1978, 92 Stat. 2937, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply withrespect to the estates of decedents dying after December 31, 1976."
+Pub. L. 95–600, title VII, §702(p)(2), Nov. 6, 1978, 92 Stat. 2937, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976."
 
 #### Effective Date of 1976 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after March 23, 2010, the Secretary, in consultation with experts inhealth care quality and stakeholders, shall develop reporting requirements for use by a group health plan, and a health insurance issuer offering group or individual health insurance coverage, with respect to plan or coverage benefits and health care provider reimbursement structures that—
+&emsp;Not later than 2 years after March 23, 2010, the Secretary, in consultation with experts in health care quality and stakeholders, shall develop reporting requirements for use by a group health plan, and a health insurance issuer offering group or individual health insurance coverage, with respect to plan or coverage benefits and health care provider reimbursement structures that—
 
 &emsp;&emsp;(A) improve health outcomes through the implementation of activities such as quality reporting, effective case management, care coordination, chronic disease management, and medication and care compliance initiatives, including through the use of the medical homes model as defined for purposes of section 3602 <sup>1</sup> of the Patient Protection and Affordable Care Act, for treatment or services under the plan or coverage;
 
@@ -38,7 +38,7 @@
 
 #### (b) Wellness and prevention programs
 
-For purposes of subsection (a)(1)(D), wellness and health promotion activities may include personalized wellness and prevention services, which are coordinated, maintained or delivered by a health care provider, a wellness and prevention plan manager, or a health, wellness or prevention services organization that conducts health risk assessments or offers ongoing face-to-face, telephonic or web-based intervention efforts for each of the program's participants, and which may include the following wellness and prevention efforts:
+For purposes of subsection (a)(1)(D), wellness and health promotion activities may includepersonalized wellness and prevention services, which are coordinated, maintained or delivered by a health care provider, a wellness and prevention plan manager, or a health, wellness or prevention services organization that conducts health risk assessments or offers ongoing face-to-face, telephonic or web-based intervention efforts for each of the program's participants, and which may include the following wellness and prevention efforts:
 
 &emsp;(1) Smoking cessation.
 

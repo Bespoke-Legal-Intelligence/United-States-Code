@@ -58,7 +58,7 @@ Defense Business Enterprise Architecture.—
 
 &emsp;(1)
 
-Blueprint.—The Secretary, working through the Chief Information Officer of the Department of Defense, shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the "defense business enterprise architecture".
+Blueprint.—The Secretary, working through the Chief Information Officer of the Department of Defense, shall develop and maintain a blueprint to guide the developmentof integrated business processes within the Department of Defense. Such blueprint shall be known as the "defense business enterprise architecture".
 
 &emsp;(2)
 
@@ -124,7 +124,7 @@ Defense Business Council.—
 
 &emsp;(1)
 
-Requirement for council.—The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department's business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Chief Information Officer of the Department of Defense.
+Requirement for council.—The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department's business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be co-chaired by the Chief Information Officer and the Performance Improvement Officer of the Department of Defense.
 
 &emsp;(2)
 
@@ -220,7 +220,7 @@ Defense business system.—The term "defense business system" means an informati
 
 &emsp;(2)
 
-Covered defense business system.—The term "covered defense business system" means a defense business system that is expected to have a total amount of budget authority, over the period of the current future-years defense program submitted to Congressunder section 221 of this title, in excess of $50,000,000.
+Covered defense business system.—The term "covered defense business system" means a defense business system that is expected to have a total amount of budget authority, over the period of the current future-years defense program submitted to Congress under section 221 of this title, in excess of $50,000,000.
 
 &emsp;(3)
 
@@ -228,7 +228,7 @@ Business system portfolio.—The term "business system portfolio" means all busi
 
 &emsp;(4)
 
-Covered defense business system program.—The term "covered defense business system program" means a defense acquisition program to develop and field a covered defense business system or an increment of a covered defense business system.
+Covered defense business system program.—The term "covered defense business system program" means a defense acquisitionprogram to develop and field a covered defense business system or an increment of a covered defense business system.
 
 &emsp;(5)
 
@@ -262,7 +262,7 @@ Common enterprise data.—The term "common enterprise data" means business opera
 
 Data governance process.—The term "data governance process" means a system to manage the timely Department of Defense-wide sharing of data described under subsection (e)(6)(A).
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, §883(a)(1), (f), title X, §1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, §1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, §912(a), title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(ii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, §839(a), title IX, §902(25), title XVII, §1731(a)(31), Dec. 20, 2019, 133 Stat. 1498, 1545, 1814; Pub. L. 117–263, div. A, title IX, §902, Dec. 23, 2022, 136 Stat. 2748.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, §883(a)(1), (f), title X, §1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, §1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, §912(a), title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(ii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, §839(a), title IX, §902(25), title XVII, §1731(a)(31), Dec. 20, 2019, 133 Stat. 1498, 1545, 1814; Pub. L. 117–263, div. A, title IX, §902, Dec. 23, 2022, 136 Stat. 2748; Pub. L. 118–159, div. A, title IX, §902(b), Dec. 23, 2024, 138 Stat. 2026.)
 
 #### <b>Editorial Notes</b>
 
@@ -271,6 +271,8 @@ Data governance process.—The term "data governance process" means a system to 
 A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f)(1). Pub. L. 118–159 substituted "co-chaired" for "chaired" and inserted "and the Performance Improvement Officer" after "Chief Information Officer".
 
 <b>2022</b>—Subsec. (c)(2). Pub. L. 117–263, §902(1), substituted "the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Information Officer" for "the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer".
 
@@ -376,7 +378,7 @@ Subsec. (a)(2)(A). Pub. L. 111–84, §1072(a)(1)(C), added subpar. (A) and stru
 
 Subsec. (a)(3). Pub. L. 111–84, §1072(a)(1)(D), substituted "the certification by the approval authority and the determination by the chief management officer are" for "the certification by the approval authority is".
 
-Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as par. (1), redesignated former pars.\(1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted "subparagraphs (A) through (D)" for "paragraphs (1) through (4)", and added par. (2).
+Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted "subparagraphs (A) through (D)" for "paragraphs (1) through (4)", and added par. (2).
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted "2013" for "2009" in introductory provisions.
 
@@ -403,6 +405,64 @@ Pub. L. 113–291, div. A, title IX, §901(k)(3), Dec. 19, 2014, 128 Stat. 3468,
 #### Transfer of Functions
 
 Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
+#### Pilot Program on Use of Artificial Intelligence for Certain Workflow and Operations Tasks
+
+Pub. L. 118–159, div. A, title II, §237, Dec. 23, 2024, 138 Stat. 1842, provided that:
+
+"(a)
+
+Pilot Program Required.—Beginning not later than 60 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of using artificial intelligence-enabled software to optimize the workflow and operations for—
+
+&emsp;"(1) depots, shipyards, or other manufacturing facilities run by the Department of Defense; and
+
+&emsp;"(2) contract administration for the Department, including—
+
+&emsp;&emsp;"(A) the adjudication and review of contracts; and
+
+&emsp;&emsp;"(B) activities related to the Modernization and Analytics Initiative managed by the Defense Contract Management Agency.
+
+"(b)
+
+Method of Implementation.—The Secretary of Defense may carry out subsection (a) through—
+
+&emsp;"(1) the establishment of a new pilot program; or
+
+&emsp;"(2) the designation of an existing initiative of the Department of Defense to serve as the pilot program required under such subsection.
+
+"(c)
+
+Software.—In carrying out the pilot program required by subsection (a), the Secretary shall—
+
+&emsp;"(1) use best in breed software platforms;
+
+&emsp;"(2) consider industry best practices in the selection of software programs;
+
+&emsp;"(3) implement the program based on human centered design practices to best identify the business needs for improvement; and
+
+&emsp;"(4) demonstrate connection to enterprise platforms of record with authoritative data sources.
+
+"(d)
+
+Consultation.—In carrying out the activities described in subsection (a)(1) under the pilot program, the Secretary of Defense shall consult with—
+
+&emsp;"(1) the Under Secretary of Defense for Acquisition and Sustainment;
+
+&emsp;"(2) the Secretary of the Army;
+
+&emsp;"(3) the Secretary of the Navy; and
+
+&emsp;"(4) the Secretary of the Air Force.
+
+"(e)
+
+Report.—Not later than one year after the date of the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the following information:
+
+&emsp;"(1) An evaluation of each software platform used in the pilot program.
+
+&emsp;"(2) An analysis of how workflows and operations were modified as part of the pilot program.
+
+&emsp;"(3) A quantitative assessment of the impact the software had at each of the locations in which the pilot program was carried out."
 
 #### Next Generation Business Health Metrics
 
@@ -744,7 +804,7 @@ Pub. L. 115–91, div. A, title X, §1003, Dec. 12, 2017, 131 Stat. 1542, provid
 
 &emsp;&emsp;&emsp;"(i) measurement of the progress made toward remediating root causes of improper payments; and
 
-&emsp;&emsp;&emsp;"(ii) communication to the Secretary of Defense and the heads of departments, agencies, and organizations and elements of the Department of Defense, and key stakeholders, on the progress made toward remediating the root causes of improper payments.
+&emsp;&emsp;&emsp;"(ii) communication to the Secretary of Defense and the heads of departments, agencies, andorganizations and elements of the Department of Defense, and key stakeholders, on the progress made toward remediating the root causes of improper payments.
 
 &emsp;"(4) With regard to implementing recovery audits for improper payments, develop and implement procedures to—
 
@@ -838,7 +898,7 @@ Pub. L. 114–92, div. A, title II, §217, Nov. 25, 2015, 129 Stat. 770, as amen
 
 "(a)
 
-In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and Under Secretary of Defense for Research and Engineering, the Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs.
+In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and Under Secretary of Defense forResearch and Engineering, the Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs.
 
 "(b)
 
@@ -970,7 +1030,7 @@ Requirement for Certain Accounting Standards.—The Secretary of Defense shall w
 
 "(b)
 
-Deadline.—The accounting standards required by subsection (a) shall be established by not later than September 30, 2017, and be available for use for the full audit on the financial statements of the Department of Defense for fiscal year 2018, as required by section 1003(a) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 842; 10 U.S.C. 2222 note)."
+Deadline.—The accounting standards required by subsection (a) shall be established by not later thanSeptember 30, 2017, and be available for use for the full audit on the financial statements of the Department of Defense for fiscal year 2018, as required by section 1003(a) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 842; 10 U.S.C. 2222 note)."
 
 #### Annual Audit of Financial Statements of Department of Defense Components by Independent External Auditors
 
@@ -990,7 +1050,7 @@ Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, as a
 
 "(a)
 
-Process Review.—Not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\], the Chief Management Officer of the Department of Defense, in coordination with the Chief Management Officer of each military department, the Director of the Office of Performance Assessment and Root Cause Analysis, the Under Secretary of Defense (Comptroller), and the Comptrollers of the military departments, shall complete a comprehensive review of the use and valueof obligation and expenditure benchmarks and propose new benchmarks or processes for tracking financial performance, including, as appropriate—
+Process Review.—Not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\], the Chief Management Officer of the Department of Defense, in coordination with the Chief Management Officer of each military department, the Director of the Office of Performance Assessment and Root Cause Analysis, the Under Secretary of Defense (Comptroller), and the Comptrollers of the military departments, shall complete a comprehensive review of the use and value of obligation and expenditure benchmarks and propose new benchmarks or processes for tracking financial performance, including, as appropriate—
 
 &emsp;"(1) increased reliance on individual obligation and expenditure plans for measuring program financial performance;
 
@@ -1076,7 +1136,7 @@ Matters covered.—The report shall include a corrective action plan for any ide
 
 &emsp;&emsp;"(D) provide timeframes for implementation of such measures."
 
-\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which providedthat, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
+\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
 
 Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
@@ -1140,7 +1200,7 @@ Incentives for Achieving Auditability.—
 
 &emsp;"(1)
 
-Review required.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall review options for providing appropriate incentives to the military departments, Defense Agencies, and defense field activities to ensure that financial statements are validated as ready for audit earlier than September 30, 2017.
+Review required.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall review options for providing appropriate incentives to the military departments, Defense Agencies, and defense fieldactivities to ensure that financial statements are validated as ready for audit earlier than September 30, 2017.
 
 &emsp;"(2)
 
@@ -1170,7 +1230,7 @@ Report.—The Under Secretary shall include a discussion of the review performed
 
 &emsp;&emsp;"(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended."
 
-\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X,§1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
+\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
 
 Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, §1003(b), Dec. 26, 2013, 127 Stat. 842, which directed the Chief Management Officer of the Department of Defense to develop a Financial Improvement and Audit Readiness Plan and to submit semi-annual reports to Congress on the status of the implementation of such plan, was repealed by Pub. L. 115–91, div. A, title X, §1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
@@ -1380,5 +1440,5 @@ Exception.—The limitation in subsection (a) shall not apply to an activity dir
 
 #### Time-Certain Development for Department of Defense Information Technology Business Systems
 
-Pub. L. 109–364, div. A, title VIII, §811, Oct. 17, 2006, 120 Stat. 2316, which provided limitations for Milestone A approval and initial operational capability regardingcertain Department of Defense information technology business systems, was repealed by Pub. L. 114–92, div. A, title VIII, §883(c), Nov. 25, 2015, 129 Stat. 947.
+Pub. L. 109–364, div. A, title VIII, §811, Oct. 17, 2006, 120 Stat. 2316, which provided limitations for Milestone A approval and initial operational capability regarding certain Department of Defense information technology business systems, was repealed by Pub. L. 114–92, div. A, title VIII, §883(c), Nov. 25, 2015, 129 Stat. 947.
 

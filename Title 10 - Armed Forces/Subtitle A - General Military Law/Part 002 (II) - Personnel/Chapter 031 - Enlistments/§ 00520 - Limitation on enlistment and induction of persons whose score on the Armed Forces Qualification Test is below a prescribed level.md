@@ -2,11 +2,11 @@
 
 (a)(1) The number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in any armed force during any fiscal year whose score on the Armed Forces Qualification Test is at or above the tenth percentile and below the thirty-first percentile may not exceed 4 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year.
 
-(2) Upon the request of the Secretary concerned, the Secretary of Defense may authorize an armed force to increase the limitation specified in paragraph (1) to not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed forced <sup>1</sup> during such fiscal year. The Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives not later than 30 days after using such authority.
+(2) Upon the request of the Secretary concerned, the Secretary of Defense may authorize an armed force to increase the limitation specified in paragraph (1) to not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year. The Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives not later than 30 days after using such authority.
 
 (b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
 
-(Added Pub. L. 96–342, title III, §302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, §9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, §402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, §1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, §1(a)(1), July 19, 1988, 102 Stat. 840; Pub. L. 118–31, div. A, title V, §542, Dec. 22, 2023, 137 Stat. 264.)
+(Added Pub. L. 96–342, title III, §302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, §9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, §402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, §1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, §1(a)(1), July 19, 1988, 102 Stat. 840; Pub. L. 118–31, div. A, title V, §542, Dec. 22, 2023, 137 Stat. 264; Pub. L. 118–159, div. A, title XVII, §1701(a)(12), Dec. 23, 2024, 138 Stat. 2203.)
 
 #### Historical and Revision Notes
 
@@ -17,6 +17,8 @@ Amendment of subsection (b) is based on Pub. L. 93–307, title IV, §401, June 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–159 substituted "armed force" for "armed forced".
 
 <b>2023</b>—Subsec. (a). Pub. L. 118–31 designated existing provisions as par. (1), substituted "may not exceed 4 percent" for "may not exceed 20 percent", and added par. (2).
 
@@ -36,7 +38,7 @@ Pub. L. 97–86, title IV, §402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided th
 
 #### Future Servicemember Preparatory Course
 
-Pub. L. 118–31, div. A, title V, §546, Dec. 22, 2023, 137 Stat. 266, provided that:
+Pub. L. 118–31, div. A, title V, §546, Dec. 22, 2023, 137 Stat. 266, as amended by Pub. L. 118–159, div. A, title V, §531, Dec. 23, 2024, 138 Stat. 1886, provided that:
 
 "(a)
 
@@ -56,11 +58,15 @@ Enrollment.—All nonprior service enlisted persons whose score on the Armed For
 
 &emsp;"(2)
 
-Graduation requirement.—Prior to attending initial basic training, all enlisted persons attending the course established under this section must achieve a score on the Armed Forces Qualification Test that is at least 10 points higher than the individual's most recent score taken prior to the individual's date of enlistment.
+Graduation requirement.—Prior to attending initial basic training, all enlisted persons attending the course established under this section must achieve a score on the Armed Forces Qualification Test that is—
+
+&emsp;&emsp;"(A) at least 10 points higher than the individual's most recent score taken prior to the individual's date of enlistment; or
+
+&emsp;&emsp;"(B) no longer subject to the restrictions of section 520 of title 10, United States Code.
 
 &emsp;"(3)
 
-Effect of course failure.—Any enlisted person who fails to achieve course graduation requirements within 180 days of enlistment shall be separated under regulations prescribed by the Secretary concerned.
+Effect of course failure.—Any enlisted person who fails to achieve meaningful progress, as determined by the Secretary concerned, within 90 days of enlistment shall be separated under regulations prescribed by the Secretary concerned.
 
 "(d)
 
@@ -70,9 +76,17 @@ Report.—If a preparatory course under this section is established by the Secre
 
 &emsp;"(2) The number of individuals who graduated the preparatory course.
 
-&emsp;"(3) The average improvement in the Armed Forces Qualification Test score for individuals who graduated from the prepatory course.
+&emsp;"(3) The average improvement in the Armed Forces Qualification Test score for individuals who graduated from the prepatory \[sic\] course.
 
-&emsp;"(4) Any other matter the Secretary determines relevant.
+&emsp;"(4) The determination of the Secretary regarding the effectiveness of the preparatory course.
+
+&emsp;"(5) Recommendations of the Secretary regarding—
+
+&emsp;&emsp;"(A) how to improve the preparatory course;
+
+&emsp;&emsp;"(B) whether to expand the preparatory course.
+
+&emsp;"(6) Any other matter the Secretary determines relevant.
 
 "(e)
 
@@ -89,6 +103,4 @@ Pub. L. 96–342, title III, §302(a), Sept. 8, 1980, 94 Stat. 1082, as amended 
 #### Denial of Enlistment for Lack of High School Diploma Prohibited
 
 Pub. L. 93–307, title IV, §401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, §705, Aug. 5, 1974, 88 Stat. 406, which provided that no volunteer for enlistment into the Armed Forces shall be denied enlistment solely because of his not having a high school diploma when his enlistment is needed to meet established strength requirements, was repealed and restated in sections 520(b) and 3262 of this title by Pub. L. 100–370, §1(a), July 19, 1988, 102 Stat. 840.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

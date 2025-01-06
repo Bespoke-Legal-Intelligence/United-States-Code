@@ -108,7 +108,7 @@ Regulations to Exclude Rice Ratooning and Post-disaster Flooding.—Not later th
 
 Reports.—Not less frequently than once each year—
 
-&emsp;"(1) the Secretary of Agriculture shall submit to the Secretary of the Interior a report that describes any changes to normal agricultural operations across the range of crops grown by agricultural producers in each region of the United States in which the officialrecommendations described in section 20.11(h) of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act), are provided to agricultural producers; and
+&emsp;"(1) the Secretary of Agriculture shall submit to the Secretary of the Interior a report that describes any changes to normal agricultural operations across the range of crops grown by agricultural producers in each region of the United States in which the official recommendations described in section 20.11(h) of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act), are provided to agricultural producers; and
 
 &emsp;"(2) the Secretary of the Interior, in consultation with the Secretary of Agriculture and after seeking input from the heads of State departments of fish and wildlife or the Regional Migratory Bird Flyway Councils of the United States Fish and Wildlife Service, shall publicly post a report on the impact that rice ratooning and post-disaster flooding have on the behavior of migratory game birds that are hunted in the area in which rice ratooning and post-disaster flooding, respectively, have occurred."
 

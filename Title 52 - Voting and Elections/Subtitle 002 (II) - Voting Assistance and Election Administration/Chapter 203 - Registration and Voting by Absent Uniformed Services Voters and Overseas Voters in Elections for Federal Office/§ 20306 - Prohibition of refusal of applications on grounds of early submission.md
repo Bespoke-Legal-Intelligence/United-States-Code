@@ -2,7 +2,7 @@
 
 A State may not refuse to accept or process, with respect to any election for Federal office, any otherwise valid voter registration application or absentee ballot application (including the postcard form prescribed under section 20301 of this title) submitted by an absent uniformed services voter during a year on the grounds that the voter submitted the application before the first date on which the State otherwise accepts or processes such applications for that year submitted by absentee voters who are not members of the uniformed services.
 
-(Pub. L. 99–410, title I, §104, Aug. 28, 1986, 100 Stat. 926; Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §§704, 706(a), Oct. 29, 2002, 116 Stat. 1724, 1725; Pub. L. 111–84, div. A, title V, §585(a), (b)(2), Oct. 28, 2009, 123 Stat. 2331.)
+(Pub. L. 99–410, title I, §104, Aug. 28, 1986, 100 Stat. 926; Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §§704, 706(a), Oct. 29, 2002, 116Stat. 1724, 1725; Pub. L. 111–84, div. A, title V, §585(a), (b)(2), Oct. 28, 2009, 123 Stat. 2331.)
 
 #### <b>Editorial Notes</b>
 
@@ -12,7 +12,7 @@ Section was formerly classified to section 1973ff–3 of Title 42, The Public He
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84 substituted "Prohibition of refusal of applications on grounds of early submission"for "Use of single application for all subsequent elections" in section catchline, struck out subsecs. (a) to (d) which related, respectively, to provision of absentee ballot in subsequent elections after acceptance and processing of an official post card form, exception for voters changing registration, revision of official post card form, and construction of provisions with voter removal programs, and struck out subsec. (e) designation and heading before "A State".
+<b>2009</b>—Pub. L. 111–84 substituted "Prohibition of refusal of applications on grounds of early submission" for "Use of single application for all subsequent elections" in section catchline, struck out subsecs. (a) to (d) which related, respectively, to provision of absentee ballot in subsequent elections after acceptance and processing of an official post card form, exception for voters changing registration, revision of official post card form, and construction of provisions with voter removal programs, and struck out subsec. (e) designation and heading before "A State".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–252, §704, substituted "through the next 2 regularly scheduled general elections for Federal office (including any runoff elections which may occur as a result of the outcome of such general elections), the State shall provide an absentee ballot to the voter for each such subsequent election" for "during that year, the State shall provide an absentee ballot to the voter for each subsequent election for Federal office held in the State during that year".
 

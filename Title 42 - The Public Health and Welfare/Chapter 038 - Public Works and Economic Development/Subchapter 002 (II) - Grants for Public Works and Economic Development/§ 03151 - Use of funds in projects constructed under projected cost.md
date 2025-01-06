@@ -20,7 +20,7 @@ In the case of excess funds described in subsection (a) in projects using funds 
 
 &emsp;(2) return the funds to the originating agency.
 
-(Pub. L. 89–136, title II, §211, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3606; amended Pub. L. 108–373, title II, §208, Oct. 27, 2004, 118 Stat. 1763; Pub. L. 111–8, div. G, title I, §1301(b), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–68, div. A, title I, §1501(a), Oct. 1, 2009, 123 Stat. 2041.)
+(Pub. L. 89–136, title II, §211, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3606; amended Pub. L. 108–373, title II, §208, Oct. 27, 2004, 118 Stat. 1763; Pub. L. 111–8, div. G, title I, §1301(b), Mar. 11, 2009, 123 Stat. 829; Pub. L.111–68, div. A, title I, §1501(a), Oct. 1, 2009, 123 Stat. 2041.)
 
 #### <b>Editorial Notes</b>
 

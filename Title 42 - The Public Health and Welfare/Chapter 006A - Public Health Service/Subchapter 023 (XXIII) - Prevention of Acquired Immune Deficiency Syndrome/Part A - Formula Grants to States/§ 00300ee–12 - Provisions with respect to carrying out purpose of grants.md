@@ -16,7 +16,7 @@ A State may expend payments received under section 300ee–11(a) of this title�
 
 &emsp;(7) to conduct appropriate programs for educating school-aged children with respect to such syndrome, after consulting with local school boards;
 
-&emsp;(8) to make available to physicians and dentists in the State information with respect to acquired immune deficiency syndrome, including measures for the prevention of exposure to, and the transmission of, the etiologic agent for such syndrome (which information is updated not less than annually with the most recently available scientific date <sup>1</sup> relating to such syndrome);
+&emsp;(8) to make available to physicians and dentists in the State information with respect to acquired immune deficiency syndrome, including measures for the prevention of exposure to, and the transmission of, the etiologic agent for such syndrome (which information isupdated not less than annually with the most recently available scientific date <sup>1</sup> relating to such syndrome);
 
 &emsp;(9) to carry out the initial implementation of recommendations contained in the guidelines and the model curriculum developed under section 300ee–2 of this title; and
 

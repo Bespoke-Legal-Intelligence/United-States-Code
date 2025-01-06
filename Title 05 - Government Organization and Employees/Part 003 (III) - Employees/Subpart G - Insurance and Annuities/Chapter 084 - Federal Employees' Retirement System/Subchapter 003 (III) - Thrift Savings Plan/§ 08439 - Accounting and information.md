@@ -36,7 +36,7 @@
 
 (2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div.A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, §106(a), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, §2(b), Dec. 18, 2014, 128 Stat. 2920.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, §106(a), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, §2(b), Dec. 18, 2014, 128 Stat. 2920.)
 
 #### <b>Editorial Notes</b>
 

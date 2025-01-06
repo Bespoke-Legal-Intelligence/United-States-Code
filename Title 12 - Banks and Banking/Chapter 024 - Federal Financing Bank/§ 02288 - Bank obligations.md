@@ -14,7 +14,7 @@ The Bank may require the Secretary of the Treasury to purchase obligations of th
 
 #### (d) Bank obligations as lawful investments
 
-Obligations of the Bank issued pursuant to this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, or any agency or instrumentality of any of the foregoing, or any officer or officers thereof.
+Obligations of the Bank issued pursuant to this section shall be lawful investments, andmay be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, or any agency or instrumentality of any of the foregoing, or any officer or officers thereof.
 
 (Pub. L. 93–224, §9, Dec. 29, 1973, 87 Stat. 939.)
 

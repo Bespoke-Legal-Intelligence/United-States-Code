@@ -10,7 +10,7 @@ No cable operator or affiliate of a cable operator that is owned by, operated by
 
 #### (c) Joint ventures
 
-A local exchange carrier and a cable operator whose telephone service area and cable franchisearea, respectively, are in the same market may not enter into any joint venture or partnership to provide video programming directly to subscribers or to provide telecommunications services within such market.
+A local exchange carrier and a cable operator whose telephone service area and cable franchise area, respectively, are in the same market may not enter into any joint venture or partnership to provide video programming directly to subscribers or to provide telecommunications services within such market.
 
 #### (d) Exceptions
 
@@ -54,7 +54,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (5) Small cable systems in nonurban areas
 
-&emsp;Notwithstanding subsections (a) and (c), a local exchange carrier with less than $100,000,000 in annual operating revenues (or any affiliate of such carrier owned by, operated by, controlled by, or under common control with such carrier) may purchase or otherwise acquire more than a 10 percent financial interest in, or any management interest in, or enter into a joint venture or partnership with, any cable system within the local exchange carrier's telephone service area that serves no more than 20,000 cable subscribers, if no more than 12,000 of those subscribers live within an urbanized area, as defined by the Bureau of the Census.
+&emsp;Notwithstanding subsections (a) and (c), a local exchange carrier with less than $100,000,000 in annual operating revenues (or any affiliate of such carrier owned by, operated by, controlled by, or under common control with such carrier) may purchase or otherwise acquire more than a 10 percent financial interest in, or any management interest in, orenter into a joint venture or partnership with, any cable system within the local exchange carrier's telephone service area that serves no more than 20,000 cable subscribers, if no more than 12,000 of those subscribers live within an urbanized area, as defined by the Bureau of the Census.
 
 #### (6) Waivers
 
@@ -72,7 +72,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (e) "Telephone service area" defined
 
-For purposes of this section, the term "telephone service area" when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which suchfacilities provide telephone exchange service shall be treated as part of the telephone service area of the acquiring common carrier and not of the selling common carrier.
+For purposes of this section, the term "telephone service area" when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone service area of the acquiring common carrier and not of the selling common carrier.
 
 (June 19, 1934, ch. 652, title VI, §652, as added Pub. L. 104–104, title III, §302(a), Feb. 8, 1996, 110 Stat. 119.)
 

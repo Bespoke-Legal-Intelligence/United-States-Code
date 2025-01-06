@@ -14,7 +14,7 @@ It is unlawful for any person—
 
 &emsp;(6) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any fishery resources taken or retained in violation of this chapter or any regulation or permit referred to in paragraph (1) or (2);
 
-&emsp;(7) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other personhas committed any act prohibited by this chapter;
+&emsp;(7) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this chapter;
 
 &emsp;(8) to submit to the Secretary false information, regarding any matter that the Secretary is considering in the course of carrying out this chapter;
 

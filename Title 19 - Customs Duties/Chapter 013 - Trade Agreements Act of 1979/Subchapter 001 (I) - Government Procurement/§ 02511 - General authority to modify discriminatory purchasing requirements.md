@@ -248,7 +248,7 @@ Delegations and Authorization
 
 Ex. Ord. No. 12849, May 25, 1993, 58 F.R. 30931, provided:
 
-WHEREAS, the United States and the European Community (EC) have entered into a Memorandum of Understanding on Government Procurement (Agreement) that provides appropriate reciprocal competitive government procurement opportunities;
+WHEREAS, the United States and the European Community (EC) have entered into a Memorandum of Understanding on Government Procurement (Agreement)that provides appropriate reciprocal competitive government procurement opportunities;
 
 WHEREAS, the commitments made in the Agreement are intended to become part of an expanded General Agreement on Tariffs and Trade Agreement on Government Procurement (GATT Code) and are an important step toward an expanded GATT Code;
 

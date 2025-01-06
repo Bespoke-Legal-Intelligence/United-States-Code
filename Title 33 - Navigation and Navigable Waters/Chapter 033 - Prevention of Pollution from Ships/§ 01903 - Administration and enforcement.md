@@ -18,7 +18,7 @@ In addition to other duties specified in this chapter, the Administrator and the
 
 (1) The Secretary shall prescribe any necessary or desired regulations to carry out the provisions of the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter.
 
-(2) In addition to the authority the Secretary has to prescribe regulations under this chapter,the Administrator shall also prescribe any necessary or desired regulations to carry out the provisions of regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
+(2) In addition to the authority the Secretary has to prescribe regulations under this chapter, the Administrator shall also prescribe any necessary or desired regulations to carry out the provisions of regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
 
 (3) In prescribing any regulations under this section, the Secretary and the Administrator shall consult with each other, and with respect to regulation 19, with the Secretary of the Interior.
 

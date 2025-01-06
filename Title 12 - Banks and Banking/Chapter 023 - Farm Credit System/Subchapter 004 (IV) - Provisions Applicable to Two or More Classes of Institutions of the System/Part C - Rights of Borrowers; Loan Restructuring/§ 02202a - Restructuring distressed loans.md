@@ -198,7 +198,7 @@ Subsecs. (h) to (j). Pub. L. 115–334, §5411(22)(B), (C), redesignated subsecs
 
 &emsp;"(2) the financial effect of loan restructurings and liquidations on the lender."
 
-Subsecs. (k), (l). Pub. L. 115–334, §5411(22)(C), (D), redesignated subsec. (l) as (k) and struck out "production credit" after "request of any". Former subsec. (k) redesignated (j).
+Subsecs. (k), (l). Pub. L. 115–334, §5411(22)(C), (D), redesignated subsec. (l) as (k) and struck out "productioncredit" after "request of any". Former subsec. (k) redesignated (j).
 
 <b>1996</b>—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Subject to subparagraph (B), the term" for "The term", and added subpar. (B).
 

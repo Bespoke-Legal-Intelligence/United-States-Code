@@ -94,7 +94,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–473, title II, §2015, Oct. 12, 1984, 98 Stat. 2190, provided that: "This part \[part B (§§2011–2015) ofchapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note below\] shall become effective on the date of the enactment of this joint resolution \[Oct. 12, 1984\]."
+Pub. L. 98–473, title II, §2015, Oct. 12, 1984, 98 Stat. 2190, provided that: "This part \[part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note below\] shall become effective on the date of the enactment of this joint resolution \[Oct. 12, 1984\]."
 
 #### Short Title of 2000 Amendment
 

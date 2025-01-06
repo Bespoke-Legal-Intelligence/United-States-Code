@@ -22,7 +22,7 @@ The Secretary may—
 
 &emsp;(1) procure the temporary or intermittent services of experts or consultants (or organizations thereof) in accordance with section 3109(b) of title 5; and
 
-&emsp;(2) whenever necessary due to an urgent homeland security need, procure temporary (not to exceed 1 year) or intermittent personal services, including the services of experts or consultants (or organizations thereof), without regard to the pay limitations of such section 3109.
+&emsp;(2) whenever necessary due to an urgent homeland security need, procure temporary (not to exceed 1 year) or intermittent personalservices, including the services of experts or consultants (or organizations thereof), without regard to the pay limitations of such section 3109.
 
 #### (c) Additional requirements
 

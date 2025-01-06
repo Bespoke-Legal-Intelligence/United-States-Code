@@ -6,7 +6,7 @@ General Conditions.—As conditions of receiving an annual payment or the use of
 
 &emsp;(1) provide courses of instruction on navigation, marine engineering (including steam and diesel propulsion), the operation and maintenance of new vessels and equipment, and innovations being introduced to the merchant marine of the United States;
 
-&emsp;(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies;
+&emsp;(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies, which shall include standards for a program described in subsection (c);
 
 &emsp;(3) agree in writing to require, as a condition for graduation, that each individual who is a citizen of the United States and who is attending the academy in a merchant marine officer preparation program pass the examination required for the issuance of a license under section 7101 of this title; and
 
@@ -24,13 +24,33 @@ General Conditions.—As conditions of receiving an annual payment or the use of
 
 (b)
 
-Additional Condition to Payments of More Than $25,000.—As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more thanone-third of the total number of individuals attending the academy at any time.
+Additional Condition to Payments of More Than $25,000.—As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
 
 (c)
 
+Armed Forces Merchant Mariner Officer Expedited Preparation Program.—
+
+&emsp;(1)
+
+In general.—A State maritime academy may offer a program under which an eligible individual may complete a merchant marine officer preparation program approved by the Secretary, and the requirements for the issuance of a license under section 7101 of this title, in less than 3 years, without a requirement to earn a baccalaureate or other degree from the State maritime academy.
+
+&emsp;(2)
+
+Eligible individuals.—For purposes of this subsection, an eligible individual is an individual—
+
+&emsp;&emsp;(A) who is—
+
+&emsp;&emsp;&emsp;(i) a person who served in the Armed Forces, and who was discharged or released therefrom under honorable conditions; or
+
+&emsp;&emsp;&emsp;(ii) a member of the National Guard or Reserves who has performed at least six years of service therein; and
+
+&emsp;&emsp;(B) who has earned a baccalaureate degree from an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)).
+
+(d)
+
 Secretarial Waiver Authority.—The Secretary may modify or waive any of the terms set forth in subsection (a)(4) with respect to any individual or State maritime academy.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 114–328, div. C, title XXXV, §3515, Dec. 23, 2016, 130 Stat. 2788.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 114–328, div. C, title XXXV, §3515, Dec. 23, 2016, 130 Stat. 2788; Pub. L. 118–159, div. C, title XXXV, §3534, Dec. 23, 2024, 138 Stat. 2313.)
 
 Historical and Revision Notes
 
@@ -53,6 +73,10 @@ In subsection (a)(3), the words "administered by the Coast Guard" are omitted as
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–159, §3534(1), inserted before semicolon at end ", which shall include standards for a program described in subsection (c)".
+
+Subsecs. (c), (d). Pub. L. 118–159, §3534(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §3515(1)(A), substituted "shall" for "must" in introductory provisions.
 

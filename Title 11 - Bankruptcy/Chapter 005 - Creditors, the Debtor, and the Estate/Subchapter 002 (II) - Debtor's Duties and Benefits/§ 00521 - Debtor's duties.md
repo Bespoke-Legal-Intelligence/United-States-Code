@@ -120,7 +120,7 @@
 
 (2) If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, §283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, §106(d), title II, §225(b), title III, §§304(1), 305(2), 315(b), 316, title IV, §446(a), title VI, §603(c), title VII, §720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, §2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(16), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 113–295, div. B, title I, §104(c), Dec. 19, 2014, 128 Stat. 4064.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§305, 452, July 10, 1984, 98 Stat.352, 375; Pub. L. 99–554, title II, §283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, §106(d), title II, §225(b), title III, §§304(1), 305(2), 315(b), 316, title IV, §446(a), title VI, §603(c), title VII, §720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, §2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(16), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 113–295, div. B, title I, §104(c), Dec. 19, 2014, 128 Stat. 4064.)
 
 #### Historical and Revision Notes
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Pub. L. 109–8, title III, §315(c), Apr. 20, 2005, 119 Stat. 91, provided that:
 
-"(1) Not later than 180 days after the date of the enactment of this Act \[Apr. 20, 2005\], the Director of theAdministrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
+"(1) Not later than 180 days after the date of the enactment of this Act \[Apr. 20, 2005\], the Director of the Administrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
 
 "(2) The procedures under paragraph (1) shall include restrictions on creditor access to tax information that is required to be provided under this section.
 

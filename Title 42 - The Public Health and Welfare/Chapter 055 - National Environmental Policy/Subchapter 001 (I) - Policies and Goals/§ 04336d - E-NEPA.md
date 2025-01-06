@@ -10,7 +10,7 @@ The Council on Environmental Quality shall conduct a study and submit a report t
 
 &emsp;&emsp;(B) upload and collaborate with the applicable agencies to edit documents in real-time, as required;
 
-&emsp;&emsp;(C) upload and display visual features such as video, animation, geographic information system displays, and three-dimensional renderings; and
+&emsp;&emsp;(C) upload and display visual features such as video, animation, geographic informationsystem displays, and three-dimensional renderings; and
 
 &emsp;&emsp;(D) track the progress of individual applications;
 

@@ -6,7 +6,7 @@ The Secretary, acting through the Commissioner, shall develop a plan to implemen
 
 #### (b) Consultations
 
-Not later than 120 days after October 13, 2006, after consulting with private sector stakeholders, including the Commercial Operations Advisory Committee, the Secretary shall submit a report to the appropriate congressional committees on the plan described in subsection (a).
+Not later than 120 days after October 13, 2006, after consulting with private sector stakeholders, including the Commercial OperationsAdvisory Committee, the Secretary shall submit a report to the appropriate congressional committees on the plan described in subsection (a).
 
 #### (c) Pilot program
 

@@ -8,7 +8,7 @@ The Library of Congress, composed of the books, maps, and other publications whi
 
 #### Codification
 
-R.S. §80 derived from act Jan. 26, 1802, ch. 2, 2 Stat. 128; Res. Oct. 21, 1814, No. 3, 3 Stat. 246; act Jan. 30, 1815,ch. 27, 3 Stat. 195; act June 25, 1864, ch. 147, §1, 13 Stat. 148; Res. July 25, 1866, No. 77, 14 Stat. 365; and act Mar. 2, 1867, ch. 167, §1, 14 Stat. 464.
+R.S. §80 derived from act Jan. 26, 1802, ch. 2, 2 Stat. 128; Res. Oct. 21, 1814, No. 3, 3 Stat. 246; act Jan. 30, 1815, ch. 27, 3 Stat. 195; act June 25, 1864, ch. 147, §1, 13 Stat. 148; Res. July 25, 1866, No. 77, 14 Stat. 365; and act Mar. 2, 1867, ch. 167, §1, 14 Stat. 464.
 
 #### Amendments
 

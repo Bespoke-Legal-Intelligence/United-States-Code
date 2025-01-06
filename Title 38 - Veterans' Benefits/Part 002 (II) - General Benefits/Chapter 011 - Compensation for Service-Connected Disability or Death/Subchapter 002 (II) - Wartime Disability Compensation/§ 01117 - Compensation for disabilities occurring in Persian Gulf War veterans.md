@@ -286,11 +286,11 @@ Determinations of Associations Between Agents and Illnesses.—(1) For each agen
 
 "(f)
 
-Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
+Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any otherchronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
 
 "(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartimehazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 "(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -380,7 +380,7 @@ Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat
 
 &emsp;"(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it maybe that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;"(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
@@ -420,7 +420,7 @@ Uniform Medical Evaluation Protocol.—(1) The Secretary of Veterans Affairs sha
 
 "(B) The Secretary shall request from each non-Department medical facility that examines or treats a veteran under this paragraph such information relating to the diagnosis or treatment as the Secretary considers appropriate.
 
-"(5) In each year after the implementation of the protocol, the Secretary shall enter into an agreement with the National Academy of Sciences under which agreement appropriate experts shall review the adequacy of the protocol and its implementation by the Department of Veterans Affairs.
+"(5) In each year after the implementation of the protocol, the Secretary shall enter into an agreement withthe National Academy of Sciences under which agreement appropriate experts shall review the adequacy of the protocol and its implementation by the Department of Veterans Affairs.
 
 "(b)
 
@@ -520,13 +520,13 @@ Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is 
 
 "(a)
 
-Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
+Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of sucha study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
 
 "(b)
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-"(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into anagreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+"(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 "(c)
 

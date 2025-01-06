@@ -82,5 +82,5 @@ Pub. L. 101–508, title VIII, §8051(c), Nov. 5, 1990, 104 Stat. 1388–351, pr
 
 #### Study by Comptroller General on Effectiveness of Amendments by Pub. L. 101–508
 
-Pub. L. 101–508, title VIII, §8051(d), Nov. 5, 1990, 104 Stat. 1388–351, provided that: "The Comptroller General of the United States shall conduct a study of the effectiveness of the amendments made by this section \[enacting this section\] and shall submit a report on such study to the Committees on Veterans' Affairs and Ways and Means of the House of Representatives and the Committees on Veterans' Affairs and Finance of the Senate not later than January 1, 1992."
+Pub. L. 101–508, title VIII, §8051(d), Nov. 5, 1990, 104 Stat. 1388–351, provided that: "The Comptroller Generalof the United States shall conduct a study of the effectiveness of the amendments made by this section \[enacting this section\] and shall submit a report on such study to the Committees on Veterans' Affairs and Ways and Means of the House of Representatives and the Committees on Veterans' Affairs and Finance of the Senate not later than January 1, 1992."
 

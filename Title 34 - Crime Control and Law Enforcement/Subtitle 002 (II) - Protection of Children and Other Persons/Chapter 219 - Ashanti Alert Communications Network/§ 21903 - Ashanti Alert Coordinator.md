@@ -46,7 +46,7 @@ In acting as the national coordinator of the Ashanti Alert communications networ
 
 &emsp;&emsp;(B) members who are—
 
-&emsp;&emsp;&emsp;(i) representatives of adult citizen advocacy groups, law enforcement agencies,victim service providers (as defined in section 12291(a) of this title), and public safety communications;
+&emsp;&emsp;&emsp;(i) representatives of adult citizen advocacy groups, law enforcement agencies, victim service providers (as defined in section 12291(a) of this title), and public safety communications;
 
 &emsp;&emsp;&emsp;(ii) broadcasters, first responders, dispatchers, and radio station personnel; and
 
@@ -62,7 +62,7 @@ In acting as the national coordinator of the Ashanti Alert communications networ
 
 #### (1) Coordination with other agencies
 
-&emsp;The Coordinator shall coordinate and consult with the Secretary of Transportation, the Federal Communications Commission, the Assistant Secretary for Aging of the Department of Health and Human Services, and other appropriate offices of the Department of Justice, including the Office on Violence Against Women, in carrying out activities under this chapter.
+&emsp;The Coordinator shall coordinate and consult with the Secretary of Transportation, theFederal Communications Commission, the Assistant Secretary for Aging of the Department of Health and Human Services, and other appropriate offices of the Department of Justice, including the Office on Violence Against Women, in carrying out activities under this chapter.
 
 #### (2) State, tribal, and local coordination
 

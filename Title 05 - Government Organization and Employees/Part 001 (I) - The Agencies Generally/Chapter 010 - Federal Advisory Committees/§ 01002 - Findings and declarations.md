@@ -70,7 +70,7 @@ Sec. 3. The Director of the Office of Management and Budget shall take all actio
 
 Sec. 4. Executive Order No. 11769 of February 21, 1974 is hereby revoked.
 
-Sec. 5. Any rules, regulations, orders, directives, circulars, or other actions taken pursuant to the functions transferred or reassigned as provided in this Order from the Office of Management and Budget to the Administrator of General Services, shall remain in effect as if issued by the Administrator until amended, modified, or revoked.
+Sec. 5. Any rules, regulations, orders, directives, circulars, or other actions taken pursuant to the functions transferred or reassigned as provided in this Order from the Office of Management and Budget to theAdministrator of General Services, shall remain in effect as if issued by the Administrator until amended, modified, or revoked.
 
 Sec. 6. This Order shall be effective November 20, 1977.
 

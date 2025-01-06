@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(iv) any source material, special nuclear material, or byproduct material (as such terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and regulations issued under such Act),
 
-&emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the InternalRevenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
+&emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
 
 &emsp;(vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
 
@@ -76,7 +76,7 @@ As used in this chapter:
 
 (17) The term "United States", when used in the geographic sense, means all of the States.
 
-(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L.114–92, div. A, title III, §315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
+(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 114–92, div. A, title III, §315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
 
 #### <b>Editorial Notes</b>
 

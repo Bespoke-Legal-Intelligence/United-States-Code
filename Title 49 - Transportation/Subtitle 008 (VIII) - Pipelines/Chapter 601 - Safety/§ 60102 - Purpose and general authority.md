@@ -6,7 +6,7 @@ Purpose and Minimum Safety Standards.—
 
 &emsp;(1)
 
-Purpose.—The purpose of this chapter is to provide adequate protection against risks to life and property posed by pipeline transportation and pipeline facilities by improvingthe regulatory and enforcement authority of the Secretary of Transportation.
+Purpose.—The purpose of this chapter is to provide adequate protection against risks to life and property posed by pipeline transportation and pipeline facilities by improving the regulatory and enforcement authority of the Secretary of Transportation.
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) apply to any or all of the owners or operators of pipeline facilities;
 
-&emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures, testing, construction, extension, operation, replacement, and maintenance of pipeline facilities; and
+&emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures, testing, construction, extension, operation,replacement, and maintenance of pipeline facilities; and
 
 &emsp;&emsp;(C) shall include a requirement that all individuals who operate and maintain pipeline facilities shall be qualified to operate and maintain the pipeline facilities.
 
@@ -116,11 +116,11 @@ Secretarial decisionmaking.—Except where otherwise required by statute, the Se
 
 Exceptions from application.—The requirements of subparagraphs (D) and (E) of paragraph (2) do not apply when—
 
-&emsp;&emsp;(A) the standard is the product of a negotiated rulemaking, or other rulemaking including the adoption of industry standardsthat receives no significant adverse comment within 60 days of notice in the Federal Register;
+&emsp;&emsp;(A) the standard is the product of a negotiated rulemaking, or other rulemaking including the adoption of industry standards that receives no significant adverse comment within 60 days of notice in the Federal Register;
 
 &emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as applicable, the Secretary waives the requirements; or
 
-&emsp;&emsp;(C) the Secretary finds, pursuant to section 553(b)(3)(B) of title 5, United States Code, that notice and public procedure are not required.
+&emsp;&emsp;(C) the Secretary finds, pursuant to section 553(b)(3)(B) of title 5, United StatesCode, that notice and public procedure are not required.
 
 &emsp;(7)
 
@@ -256,7 +256,7 @@ Transportation in gaseous state.—
 
 &emsp;&emsp;(A)
 
-Minimum safety standards.—The Secretary shall prescribe minimum safetystandards for the transportation of carbon dioxide by pipeline in a gaseous state.
+Minimum safety standards.—The Secretary shall prescribe minimum safety standards for the transportation of carbon dioxide by pipeline in a gaseous state.
 
 &emsp;&emsp;(B)
 
@@ -264,7 +264,7 @@ Considerations.—In establishing the standards, the Secretary shall consider wh
 
 &emsp;(3)
 
-Limitation on statutory construction.—Nothing in this subsection authorizes the Secretary to regulate piping or equipment used in the production, extraction, recovery, lifting, stabilization, separation, or treatment of carbon dioxide or the preparation of carbon dioxide for transportation by pipeline at production, refining, or manufacturing facilities.
+Limitation on statutory construction.—Nothing in this subsection authorizesthe Secretary to regulate piping or equipment used in the production, extraction, recovery, lifting, stabilization, separation, or treatment of carbon dioxide or the preparation of carbon dioxide for transportation by pipeline at production, refining, or manufacturing facilities.
 
 (j)
 
@@ -454,7 +454,7 @@ Existing authority.—Nothing in this subsection may be construed to alter the a
 
 Emergency Response Plans.—Not later than 2 years after the date of enactment of this subsection, the Secretary shall update regulations to ensure that each emergency response plan developed by an operator of a distribution system under subsection (d)(5), includes written procedures for—
 
-&emsp;(1) establishing communication with first responders and other relevant public officials, as soon as practicable, beginning from the time of confirmed discovery, as determined by the Secretary, by the operator of a gas pipeline emergency involving a release of gas from a distribution system of that operator that results in—
+&emsp;(1) establishing communication with first responders and other relevant public officials, as soon as practicable, beginning from the timeof confirmed discovery, as determined by the Secretary, by the operator of a gas pipeline emergency involving a release of gas from a distribution system of that operator that results in—
 
 &emsp;&emsp;(A) a fire related to an unintended release of gas;
 
@@ -530,7 +530,7 @@ In general.—Not later than 1 year after the date of enactment of this subsecti
 
 &emsp;&emsp;&emsp;(iii) the regulator station has secondary or backup pressure-relieving or overpressure-protection safety technology, such as a relief valve or automatic shutoff valve, or other pressure-limiting devices appropriate for the configuration and siting of the station and, in the case of a regulator station that employs the primary and monitor regulator design, the operator shall eliminate the common mode of failure or provide backup protection capable of either shutting the flow of gas, relieving gas to the atmosphere to fully protect the distribution system from overpressurization events, or there must be technology in place to eliminate a common mode of failure; and
 
-&emsp;&emsp;&emsp;(iv) if the Secretary determines that it is not operationally possible for an operator to implement the requirements under clause (iii), the Secretary shall require such operator to identify actions in their plan that minimize the risk of an overpressurization event.
+&emsp;&emsp;&emsp;(iv) if the Secretary determines that it is not operationally possible for an operatorto implement the requirements under clause (iii), the Secretary shall require such operator to identify actions in their plan that minimize the risk of an overpressurization event.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat. 3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011; Pub. L. 109–468, §4, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §§4, 12, 15, 18(b), 24, Jan. 3, 2012, 125 Stat. 1906, 1913, 1915, 1916, 1919; Pub. L. 113–30, §1, Aug. 9, 2013, 127 Stat. 510; Pub. L. 116–260, div. R, title I, §§113, 118, 121, title II, §§203, 204, 206, Dec. 27, 2020, 134 Stat. 2228, 2234, 2236, 2239–2241.)
 
@@ -694,7 +694,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(b) (last sentence); added O
 
 In this section, the word "Federal" is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the word "prescribe" is substituted for "by regulation, establish" for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators ofgas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
+In subsection (a)(1), before clause (A), the word "prescribe" is substituted for "by regulation, establish" for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
 
 In subsection (b), before clause (1), the words "Except as provided in section 60103 of this title" are added for clarity. In clause (3), the word "proposed" is omitted as surplus.
 
@@ -858,7 +858,7 @@ Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2861, provided in p
 
 Pub. L. 114–183, §18, June 22, 2016, 130 Stat. 527, provided that: "Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—
 
-&emsp;"(1) consider the impact of a discharge into or on navigable waters or adjoining shorelines, includingthose that may be covered in whole or in part by ice; and
+&emsp;"(1) consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and
 
 &emsp;"(2) include procedures and resources for responding to such discharge in the plan."
 

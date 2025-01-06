@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the study concludes that the Spring Hill Ranch—
 
-&emsp;&emsp;(A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 101 of the National Historic Preservation Act (16 U.S.C. 470a) <sup>1</sup> that represent outstandingexamples of Second Empire and other 19th Century architectural styles; and
+&emsp;&emsp;(A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 101 of the National Historic Preservation Act (16 U.S.C. 470a) <sup>1</sup> that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
 
 &emsp;&emsp;(B) is suitable and feasible as a potential addition to the National Park System; and
 
@@ -43,6 +43,8 @@ Section 101 of the National Historic Preservation Act (16 U.S.C. 470a), referred
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(4)(A). Pub. L. 106–176 substituted "to acquire" for "to purchase".
+
+
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

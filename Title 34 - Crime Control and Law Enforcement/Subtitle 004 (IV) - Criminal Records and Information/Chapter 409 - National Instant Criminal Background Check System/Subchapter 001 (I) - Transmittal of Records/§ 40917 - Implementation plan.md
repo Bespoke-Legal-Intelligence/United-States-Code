@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after March 23, 2018, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under section 40901 of this title and the verification of the accuracy of those records during a 4-year period specified in the plan. Therecords shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18 <sup>1</sup>
+Not later than 1 year after March 23, 2018, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under section 40901 of this title and the verification of the accuracy of those records during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18 <sup>1</sup>
 
 #### (b) Benchmark requirements
 
@@ -24,7 +24,7 @@ The Attorney General—
 
 &emsp;&emsp;(A) the name of each State or Indian tribal government that received a determination of failure to achieve substantial compliance with an implementation plan under subsection (c) for the preceding fiscal year; and
 
-&emsp;&emsp;(B) a description of the reasons for which the Attorney General has determined that the State or Indian tribal government is not in substantial compliance with the implementation plan, including, to the greatest extent possible, a description of the types and amounts of records that have not been submitted; and
+&emsp;&emsp;(B) a description of the reasons for which the Attorney General has determined that the State or Indian tribal government is not in substantial compliance with the implementation plan, including, to the greatestextent possible, a description of the types and amounts of records that have not been submitted; and
 
 &emsp;(2) if a State or Indian tribal government described in paragraph (1) subsequently receives a determination of substantial compliance, shall—
 

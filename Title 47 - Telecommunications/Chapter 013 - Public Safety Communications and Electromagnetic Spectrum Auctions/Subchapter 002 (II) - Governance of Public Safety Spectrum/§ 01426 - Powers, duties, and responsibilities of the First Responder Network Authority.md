@@ -14,7 +14,7 @@ The First Responder Network Authority shall have the authority to do the followi
 
 &emsp;(5) To spend funds under paragraph (3) in a manner authorized by the Board, but only for purposes that will advance or enhance public safety communications consistent with this chapter.
 
-&emsp;(6) To take such other actions as the First Responder Network Authority (through the Board) may from time to time determine necessary, appropriate, or advisable to accomplish the purposes of this chapter.
+&emsp;(6) To take such other actions as the First Responder Network Authority (through theBoard) may from time to time determine necessary, appropriate, or advisable to accomplish the purposes of this chapter.
 
 #### (b) Duty and responsibility to deploy and operate a nationwide public safety broadband network
 
@@ -24,7 +24,7 @@ The First Responder Network Authority shall have the authority to do the followi
 
 &emsp;&emsp;(A) ensuring nationwide standards for use and access of the network;
 
-&emsp;&emsp;(B) issuing open, transparent, and competitive requests for proposals to privatesector entities for the purposes of building, operating, and maintaining the network that use, without materially changing, the minimum technical requirements developed under section 1423 of this title;
+&emsp;&emsp;(B) issuing open, transparent, and competitive requests for proposals to private sector entities for the purposes of building, operating, and maintaining the network that use, without materially changing, the minimum technical requirements developed under section 1423 of this title;
 
 &emsp;&emsp;(C) encouraging that such requests leverage, to the maximum extent economically desirable, existing commercial wireless infrastructure to speed deployment of the network; and
 
@@ -190,5 +190,5 @@ Not later than 10 years after February 22, 2012, the Comptroller General of the 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2)(A), was in the original "this Act", and was translated as reading "this title", meaning title VI of Pub. L. 112–96, Feb. 22, 2012, 126 Stat. 201, to reflect the probable intent of Congress. Title VI enacted this chapter and section 929 of this title, amended sections 309, 337, 614, 902, 923, 928, and 942 of this title, and enacted provisions set out as a note under section 1401 of this title.
+This chapter, referred to in subsec. (c)(2)(A), was in the original "this Act", and was translated as reading"this title", meaning title VI of Pub. L. 112–96, Feb. 22, 2012, 126 Stat. 201, to reflect the probable intent of Congress. Title VI enacted this chapter and section 929 of this title, amended sections 309, 337, 614, 902, 923, 928, and 942 of this title, and enacted provisions set out as a note under section 1401 of this title.
 

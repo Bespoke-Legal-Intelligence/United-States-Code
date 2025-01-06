@@ -92,7 +92,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (A) In general
 
-&emsp;&emsp;The requirements described in this subparagraph with respect to any qualified facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+&emsp;&emsp;The requirements described in this subparagraph with respect to any qualified facility are that the taxpayer shall ensurethat any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
 
 &emsp;&emsp;&emsp;(i) the construction of such facility, and
 
@@ -226,7 +226,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirement described in this clause is satisfied with respect to any qualifiedfacility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section <sup>2</sup> 661 of title 49, Code of Federal Regulations).
+&emsp;&emsp;&emsp;The requirement described in this clause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section <sup>2</sup> 661 of title 49, Code of Federal Regulations).
 
 #### (ii) Steel and iron
 
@@ -318,7 +318,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (12) Regulations and guidance
 
-&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determinesnecessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 #### (c) Resources
 
@@ -680,7 +680,7 @@ For purposes of this section—
 
 #### (A) Determination of credit amount
 
-&emsp;&emsp;In the case of a producer of refined coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to $4.375 per ton of qualified refined coal—
+&emsp;&emsp;In the case of a producer of refined coal, the credit determined under this section\(without regard to this paragraph) for any taxable year shall be increased by an amount equal to $4.375 per ton of qualified refined coal—
 
 &emsp;&emsp;&emsp;(i) produced by the taxpayer at a refined coal production facility during the 10-year period beginning on the date the facility was originally placed in service, and
 
@@ -744,7 +744,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "refined coal production facility" shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,<sup>3</sup> as in effect on the day before the dateof enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
+&emsp;&emsp;&emsp;The term "refined coal production facility" shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,<sup>3</sup> as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
 
 #### (ii) Exception for steel industry coal
 
@@ -1014,7 +1014,7 @@ Subsec. (c)(1)(I). Pub. L. 110–343, §102(a), added subpar. (I).
 
 Subsec. (c)(7)(A). Pub. L. 110–343, §108(a)(1), reenacted heading without change and amended text generally. Prior to amendment, subpar. (A) defined "refined coal".
 
-Subsec. (c)(7)(A)(i). Pub. L. 110–343, §101(b)(1), amended subsec. (c)(7)(A)(i) as amended by Pub. L. 110–348, §108(a)(1), by inserting "and" at end of subcl. (II), substituting period for ", and" at end of subcl. (III), andstriking out subcl. (IV) which read as follows: "is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal, or".
+Subsec. (c)(7)(A)(i). Pub. L. 110–343, §101(b)(1), amended subsec. (c)(7)(A)(i) as amended by Pub. L. 110–348, §108(a)(1), by inserting "and" at end of subcl. (II), substituting period for ", and" at end of subcl. (III), and striking out subcl. (IV) which read as follows: "is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal, or".
 
 Subsec. (c)(7)(B). Pub. L. 110–343, §101(b)(2), inserted "at least 40 percent of the emissions of" after "nitrogen oxide and".
 
@@ -1230,7 +1230,7 @@ Pub. L. 114–113, div. Q, title I, §187(c), Dec. 18, 2015, 129 Stat. 3074, pro
 
 Pub. L. 113–295, div. A, title I, §154(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made by this section \[amending this section\] shall apply to coal produced after December 31, 2013."
 
-Pub. L. 113–295, div. A, title I, §155(c), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendments made bythis section \[amending this section and section 48 of this title\] shall take effect on January 1, 2014."
+Pub. L. 113–295, div. A, title I, §155(c), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendments made by this section \[amending this section and section 48 of this title\] shall take effect on January 1, 2014."
 
 Pub. L. 113–295, div. A, title II, §210(h), Dec. 19, 2014, 128 Stat. 4032, provided that: "The amendments made by this section \[amending this section and sections 45K, 168, 907, 1012, and 6045 of this title and provisions set out as a note under section 9501 of this title\] shall take effect as if included in the provisions of the Energy Improvement and Extension Act of 2008 \[Pub. L. 110–343, div. B\] to which they relate."
 
@@ -1330,7 +1330,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Certain biomass facilities.—With respect to any facility described in section 45(d)(3)(A)(ii) of the Internal Revenue Code of 1986, as added by subsection (b)(1), which is placed in service before the date of the enactment of this Act, the amendments made by this section shall apply to electricity produced and soldafter December 31, 2004, in taxable years ending after such date.
+Certain biomass facilities.—With respect to any facility described in section 45(d)(3)(A)(ii) of the Internal Revenue Code of 1986, as added by subsection (b)(1), which is placed in service before the date of the enactment of this Act, the amendments made by this section shall apply to electricity produced and sold after December 31, 2004, in taxable years ending after such date.
 
 "(3)
 
@@ -1362,9 +1362,11 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+<b>2024</b>—Internal Revenue Notice 2024–69.
+
 <b>2023</b>—Internal Revenue Notice 2023–51.
 
-2022–Internal Revenue Notice 2022–20.
+<b>2022</b>—Internal Revenue Notice 2022–20.
 
 <b>2021</b>—Internal Revenue Notice 2021–32.
 

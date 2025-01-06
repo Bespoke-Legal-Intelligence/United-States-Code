@@ -48,7 +48,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;(3) coordinating, through the Interagency Committee established by section 763 of this title, all Federal programs and policies relating to research on disability, independent living, and rehabilitation;
 
-&emsp;(4) widely disseminating educational materials and research results, concerning ways to maximize the full inclusion and integration into society, employment, independent living, education, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, to—
+&emsp;(4) widely disseminating educational materials and research results, concerning ways tomaximize the full inclusion and integration into society, employment, independent living, education, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, to—
 
 &emsp;&emsp;(A) public and private entities, including—
 
@@ -102,7 +102,7 @@ The Director, through the Institute, shall be responsible for—
 
 #### (d) Appointment of Director; employment of technical and professional personnel; consultants
 
-(1) The Director of the Institute shall be appointed by the Secretary. The Director shall be an individual with substantial knowledge of and experience in independent living, rehabilitation, and research administration.
+(1) The Director of the Institute shall be appointed by the Secretary. The Director shall be an individual with substantial knowledge of andexperience in independent living, rehabilitation, and research administration.
 
 (2) The Director, subject to the approval of the President, may appoint, for terms not to exceed three years, without regard to the provisions of title 5 governing appointment in the competitive service, and may compensate, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, such technical and professional employees of the Institute as the Director determines to be necessary to accomplish the functions of the Institute and also appoint and compensate without regard to such provisions, in a number not to exceed one-fifth of the number of full-time, regular technical and professional employees of the Institute.
 
@@ -110,7 +110,7 @@ The Director, through the Institute, shall be responsible for—
 
 #### (e) Fellowships
 
-The Director, pursuant to regulations which the Secretary shall prescribe, may establish and maintain fellowships with such stipends and allowances, including travel and subsistence expenses provided for under title 5, as the Directorconsiders necessary to procure the assistance of highly qualified research fellows, including individuals with disabilities, from the United States and foreign countries.
+The Director, pursuant to regulations which the Secretary shall prescribe, may establish and maintain fellowships with such stipends and allowances, including travel and subsistence expenses provided for under title 5, as the Director considers necessary to procure the assistance of highly qualified research fellows, including individuals with disabilities, from the United States and foreign countries.
 
 #### (f) Scientific peer review of research, training, and demonstration projects
 
@@ -166,7 +166,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 (1) The Director shall take appropriate actions to provide for a comprehensive and coordinated research program under this subchapter. In providing such a program, the Director may undertake joint activities with other Federal entities engaged in research and with appropriate private entities. Any Federal entity proposing to establish any research project related to the purposes of this chapter shall consult, through the Interagency Committee established by section 763 of this title, with the Director as Chairperson of such Committee and provide the Director with sufficient prior opportunity to comment on such project.
 
-(2) Any person responsible for administering any program of the National Institutes ofHealth, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
+(2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
 #### (k) Grants for training
 
@@ -228,7 +228,7 @@ Subsec. (b)(2)(B). Pub. L. 113–128, §433(3)(A), added subpar. (B) and struck 
 
 Subsec. (b)(3). Pub. L. 113–128, §433(3)(B), substituted "on disability, independent living, and rehabilitation" for "in rehabilitation".
 
-Subsec. (b)(4). Pub. L. 113–128, §433(3)(C), inserted "education, health and wellness," after "independentliving," in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
+Subsec. (b)(4). Pub. L. 113–128, §433(3)(C), inserted "education, health and wellness," after "independent living," in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
 
 Subsec. (b)(6). Pub. L. 113–128, §433(3)(D), substituted "advances in disability, independent living, and rehabilitation" for "advances in rehabilitation" and inserted "education, health and wellness," after "employment, independent living,".
 

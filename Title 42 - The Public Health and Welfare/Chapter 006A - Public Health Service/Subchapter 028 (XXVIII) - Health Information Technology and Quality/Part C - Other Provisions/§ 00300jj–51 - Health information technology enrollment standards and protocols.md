@@ -22,7 +22,7 @@ The standards and protocols for electronic enrollment in the Federal and State p
 
 &emsp;(4) Capability for individuals to apply, recertify and manage their eligibility information online, including at home, at points of service, and other community-based locations.
 
-&emsp;(5) Ability to expand the enrollment system to integrate new programs, rules, and functionalities, to operate at increased volume, and to apply streamlined verification and eligibility processes to other Federal and State programs, as appropriate.
+&emsp;(5) Ability to expand the enrollment system to integrate new programs, rules, andfunctionalities, to operate at increased volume, and to apply streamlined verification and eligibility processes to other Federal and State programs, as appropriate.
 
 &emsp;(6) Notification of eligibility, recertification, and other needed communication regarding eligibility, which may include communication via email and cellular phones.
 

@@ -108,7 +108,7 @@ In the case of any hearing conducted under this section—
 
 #### (2) Suspension of running of period for filing petition in title 11 cases
 
-&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter.
+&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribedby such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter.
 
 #### (3) Jurisdiction retained at IRS Independent Office of Appeals
 
@@ -122,7 +122,7 @@ In the case of any hearing conducted under this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531 (relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is inforce may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
+&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531 (relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
 
 #### (2) Levy upon appeal
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) in the case of a credit transaction with a fixed rate of interest, the annual percentage rate and the amount of the regular monthly payment; or
 
-&emsp;&emsp;(B) in the case of any other credit transaction, the annual percentage rate of the loan, the amount of the regular monthly payment, a statement that the interest rate and monthly payment may increase, and the amount of the maximum monthly payment, based on the maximum interest rate allowed pursuant to section 3806 of title 12.
+&emsp;&emsp;(B) in the case of any other credit transaction, the annual percentage rate of the loan, the amount of the regular monthly payment, a statement that the interest rateand monthly payment may increase, and the amount of the maximum monthly payment, based on the maximum interest rate allowed pursuant to section 3806 of title 12.
 
 #### (b) Time of disclosures
 
@@ -252,7 +252,7 @@ Subsecs. (j) to (l). Pub. L. 111–203, §1433(a)(2), added subsecs. (j) to (l).
 
 Subsec. (m). Pub. L. 111–203, §1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
 
-Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
+Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement bythe Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
 
 Subsecs. (n) to (q). Pub. L. 111–203, §1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
 

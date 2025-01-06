@@ -58,7 +58,7 @@ Pub. L. 112–29, §15(a), amended second par. by substituting "(3) Invalidity o
 
 > for "(3) Invalidity of the patent or any claim in suit for failure to comply with any requirement of sections 112 or 251 of this title,".
 
-<b>2002</b>—Third par. Pub. L. 107–273, §13206(b)(4), made technical correction to directory language of Pub. L.106–113, §1000(a)(9) \[title IV, §4402(b)(1)\]. See 1999 Amendment note below.
+<b>2002</b>—Third par. Pub. L. 107–273, §13206(b)(4), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\]. See 1999 Amendment note below.
 
 Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 

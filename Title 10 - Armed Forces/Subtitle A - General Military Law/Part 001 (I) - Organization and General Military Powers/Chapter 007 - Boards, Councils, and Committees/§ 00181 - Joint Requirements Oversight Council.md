@@ -44,7 +44,7 @@ In general.—The Joint Requirements Oversight Council is composed of the follow
 
 &emsp;&emsp;(E) A Marine Corps officer in the grade of general.
 
-&emsp;&emsp;(F) A Space Force officer in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy.
+&emsp;&emsp;(F) A Space Force officer in the grade of general.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Input from vice chief of the national guard bureau.—The Council shall seek, an
 
 (e)
 
-Performance Requirements as Responsibility of Armed Forces.—The Chief of Staff ofan armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
+Performance Requirements as Responsibility of Armed Forces.—The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
 
 (f)
 
@@ -118,11 +118,13 @@ Definitions.—In this section:
 
 &emsp;(4) The term "oversight information" means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, §1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, §902(7), title XVI, §1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title IX, §§906, 924(b)(9), title XVIII, §1850(m), Jan. 1, 2021, 134 Stat. 3799, 3822, 4271; Pub. L. 117–81, div. A, title IX, §903(a), title XVII, §1702(a)(2), Dec. 27, 2021, 135 Stat. 1869, 2155.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, §1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, §902(7), title XVI, §1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title IX, §§906, 924(b)(9), title XVIII, §1850(m), Jan. 1, 2021, 134 Stat. 3799, 3822, 4271; Pub. L. 117–81, div. A, title IX, §903(a), title XVII, §1702(a)(2), Dec. 27, 2021, 135 Stat. 1869, 2155; Pub. L. 118–159, div. A, title V, §521(b), Dec. 23, 2024, 138 Stat. 1880.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1)(F). Pub. L. 118–159 substituted "in the grade of general" for "in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy".
 
 <b>2021</b>—Subsec. (b)(2) to (5). Pub. L. 117–81, §903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
@@ -162,7 +164,7 @@ Subsec. (b)(3). Pub. L. 112–239, §951(b)(2), substituted "the total cost of s
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §841(d), substituted "There is" for "The Secretary of Defense shall establish".
 
-Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of "Program Evaluation" for "Performance Evaluation", could not be executed becauseof the amendment by Pub. L. 111–383, §841(c)(2). See below.
+Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of "Program Evaluation" for "Performance Evaluation", could not be executed because of the amendment by Pub. L. 111–383, §841(c)(2). See below.
 
 Pub. L. 111–383, §841(c)(2), substituted "advisors to the Council under subsection (d)" for "Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation".
 
@@ -220,7 +222,7 @@ Pub. L. 104–106, div. A, title IX, §905(b), Feb. 10, 1996, 110 Stat. 404, pro
 
 #### Input From Commanders of Combatant Commands
 
-Pub. L. 111–23, title I, §105(b), May 22, 2009, 123 Stat. 1718, provided that: "The Joint Requirements Oversight Council in the Department of Defense shall seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10, United States Code (as amended by subsection (a)). Such input may include, but is not limited to, an assessment of the following:
+Pub. L. 111–23, title I, §105(b), May 22, 2009, 123 Stat. 1718, provided that: "The Joint Requirements OversightCouncil in the Department of Defense shall seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10, United States Code (as amended by subsection (a)). Such input may include, but is not limited to, an assessment of the following:
 
 &emsp;"(1) Any current or projected missions or threats in the theater of operations of the commander of a combatant command that would inform the assessment of a new joint military requirement.
 

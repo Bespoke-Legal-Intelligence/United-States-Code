@@ -22,7 +22,7 @@ Nothing in this chapter shall be construed as superseding, amending, modifying, 
 
 #### (b) Effect on authority of Secretary or heads of other Federal agencies
 
-Nothing in this chapter shall affect in any way the authority of the Secretary or the heads of other Federal agencies under other provisions of law to include in any lease, license, permit, contract, or other instrument such conditions as may be appropriate to regulate surface coal mining and reclamation operations on land under their jurisdiction.
+Nothing in this chapter shall affect in any way the authority of the Secretary or the heads of other Federal agencies under other provisions of law to include in any lease, license, permit, contract, or other instrument such conditions asmay be appropriate to regulate surface coal mining and reclamation operations on land under their jurisdiction.
 
 #### (c) Cooperation
 
@@ -50,7 +50,7 @@ The Federal Water Pollution Control Act (79 Stat. 903), referred to in subsec. (
 
 The Clean Air Act, referred to in subsec. (a)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Solid Waste Disposal Act (42 U.S.C. 3251–3259), referred to in subsec. (a)(5), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub.L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act (42 U.S.C. 3251–3259), referred to in subsec. (a)(5), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 The Refuse Act of 1899 (33 U.S.C. 407), referred to in subsec. (a)(6), probably means act Mar. 3, 1899, ch. 425, §13, 30 Stat. 1152, which enacted section 407 of Title 33, Navigation and Navigable Waters.
 

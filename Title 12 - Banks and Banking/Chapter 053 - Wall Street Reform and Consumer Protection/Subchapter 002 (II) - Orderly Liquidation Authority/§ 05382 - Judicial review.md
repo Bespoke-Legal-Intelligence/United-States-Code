@@ -12,7 +12,7 @@
 
 #### (ii) Form and content of order
 
-&emsp;&emsp;&emsp;The Secretary shall present all relevant findings and the recommendation made pursuant to section 5383(a) of this title to the Court. The petition shall be filed under seal.
+&emsp;&emsp;&emsp;The Secretary shall present all relevant findings and the recommendation madepursuant to section 5383(a) of this title to the Court. The petition shall be filed under seal.
 
 #### (iii) Determination
 
@@ -42,7 +42,7 @@
 
 #### (C) Criminal penalties
 
-&emsp;&emsp;A person who recklessly discloses a determination of the Secretary under section 5383(b) of this title or a petition of the Secretary under subparagraph (A), or the pendency of court proceedings as provided forunder subparagraph (A), shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both.
+&emsp;&emsp;A person who recklessly discloses a determination of the Secretary under section 5383(b) of this title or a petition of the Secretary under subparagraph (A), or the pendency of court proceedings as provided for under subparagraph (A), shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both.
 
 #### (2) Appeal of decisions of the District Court
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(A) to—
 
-&emsp;&emsp;&emsp;(i) maximize the net present value return from the sale or other disposition ofthe assets of the covered financial company; or
+&emsp;&emsp;&emsp;(i) maximize the net present value return from the sale or other disposition of the assets of the covered financial company; or
 
 &emsp;&emsp;&emsp;(ii) minimize the amount of loss realized upon the sale or other disposition of the assets of the covered financial company; and
 
@@ -204,7 +204,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 1 year after July 21, 2010, the Comptroller General of the United States shallsubmit to the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate and the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives and the Secretary a report summarizing the results of the study conducted under paragraph (1).
+&emsp;Not later than 1 year after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate and the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives and the Secretary a report summarizing the results of the study conducted under paragraph (1).
 
 #### (g) Study of prompt corrective action implementation by the appropriate Federal agencies
 

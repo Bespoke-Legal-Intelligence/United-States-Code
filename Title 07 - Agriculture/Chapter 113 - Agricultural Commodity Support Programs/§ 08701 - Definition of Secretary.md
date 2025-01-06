@@ -46,7 +46,7 @@ Pub. L. 112–240, title VII, §701, Jan. 2, 2013, 126 Stat. 2362, provided that
 
 "(a)
 
-Extension.—Except as otherwise provided in this section and amendments made by this section and notwithstanding any other provision of law, the authorities provided by each provision of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1651) \[see Tables for classification\] and each amendment made by that Act (and for mandatory programs at such funding levels), as in effect on September 30, 2012, shall continue, and the Secretary of Agriculture shall carry out the authorities, until the later of—
+Extension.—Except as otherwise provided in this section and amendments made by this section and notwithstanding any other provision of law, the authorities provided by each provision of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1651) \[see Tables for classification\] and each amendment made by that Act (and for mandatory programs at such funding levels), as in effect on September 30, 2012, shall continue, and the Secretary ofAgriculture shall carry out the authorities, until the later of—
 
 &emsp;"(1) September 30, 2013; or
 
@@ -242,7 +242,7 @@ Supplemental agricultural disaster assistance.—Subsection (a) does not apply w
 
 &emsp;"(8)
 
-Pigford claims.—Subsection (a) does not apply with respect to section 14012 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2209) relating to determination on the merits of Pigford claims.
+Pigford claims.—Subsection (a) does not apply with respect to section 14012 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122Stat. 2209) relating to determination on the merits of Pigford claims.
 
 &emsp;"(9)
 

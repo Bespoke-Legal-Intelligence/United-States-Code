@@ -318,7 +318,7 @@ In general.—Not later than 30 days after the end of each fiscal year, the comm
 
 &emsp;"(2)
 
-Combat mission requirements funds.—For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in the Combat Mission Requirements subaccount of the Defense-wide Procurement account.
+Combat mission requirements funds.—For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in theCombat Mission Requirements subaccount of the Defense-wide Procurement account.
 
 "(b)
 
@@ -388,7 +388,7 @@ Grade for Commanders of Certain Area Special Operations Commands.—The commande
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
-Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c)\[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

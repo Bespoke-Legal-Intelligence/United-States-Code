@@ -16,7 +16,7 @@ Section 300ll–6, act July 1, 1944, ch. 373, title XXXII, §3207, as added Pub.
 
 Section 300ll–7, act July 1, 1944, ch. 373, title XXXII, §3208, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 845, related to solvency and fiscal independence of the CLASS program and required regulations and annual reports.
 
-Section 300ll–8, act July 1, 1944, ch. 373, title XXXII, §3209, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 845, required the Inspector General of the Department of Health and Human Services to submit an annual report on CLASS program progress and waste, fraud, and abuse.
+Section 300ll–8, act July 1, 1944, ch. 373, title XXXII, §3209, as added Pub. L. 111–148, title VIII, §8002(a)(1),Mar. 23, 2010, 124 Stat. 845, required the Inspector General of the Department of Health and Human Services to submit an annual report on CLASS program progress and waste, fraud, and abuse.
 
 Section 300ll–9, act July 1, 1944, ch. 373, title XXXII, §3210, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 846, provided that the CLASS program would be treated for tax purposes as a qualified long-term care insurance contract for qualified long-term care services.
 

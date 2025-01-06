@@ -44,7 +44,7 @@ When used in this Act:
 
 &emsp;(i) the value of services provided without compensation by any individual who volunteers on behalf of a candidate or political committee;
 
-&emsp;(ii) the use of real or personal property, including a church or community room used ona regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
@@ -78,9 +78,9 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities\(including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
-&emsp;(xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activitiesconducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
+&emsp;(xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -210,7 +210,7 @@ Generic campaign activity.—The term "generic campaign activity" means a campai
 
 (22)
 
-Public communication.—The term "public communication" means a communication bymeans of any broadcast, cable, or satellite communication, newspaper, magazine, outdoor advertising facility, mass mailing, or telephone bank to the general public, or any other form of general public political advertising.
+Public communication.—The term "public communication" means a communication by means of any broadcast, cable, or satellite communication, newspaper, magazine, outdoor advertising facility, mass mailing, or telephone bank to the general public, or any other form of general public political advertising.
 
 (23)
 
@@ -384,7 +384,7 @@ In general.—Except as provided in paragraph (2), the Federal Election Commissi
 
 &emsp;"(2)
 
-Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 30125 of this title and amending this sectionand sections 30104, 30116, and 30143 of this title\] and the amendments made by such title."
+Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 30125 of this title and amending this section and sections 30104, 30116, and 30143 of this title\] and the amendments made by such title."
 
 #### Effective Date of 2000 Amendment
 

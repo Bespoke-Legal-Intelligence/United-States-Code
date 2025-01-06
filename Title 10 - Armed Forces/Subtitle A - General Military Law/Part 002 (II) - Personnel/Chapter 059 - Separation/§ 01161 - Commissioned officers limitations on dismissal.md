@@ -52,7 +52,7 @@ Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided: "That notwithstanding a
 
 "
 
-Sec. 2. A former retired officer covered by this Act is subject to the penal, prohibitory, and restrictive provisions of law applicable to the pay and civil employment of retired officers of the Armed Forces and is notentitled to any other benefit provided by law or regulation for retired officers of the Armed Forces. After the date of enactment of this Act \[Aug. 25, 1958\], such a former retired officer may, in the discretion of the President, have his entitlement to retired or retirement pay under this Act terminated for any reason for which any retired officer may be dismissed from, or dropped from the rolls of, any Armed Force.
+Sec. 2. A former retired officer covered by this Act is subject to the penal, prohibitory, and restrictive provisions of law applicable to the pay and civil employment of retired officers of the Armed Forces and is not entitled to any other benefit provided by law or regulation for retired officers of the Armed Forces. After the date of enactment of this Act \[Aug. 25, 1958\], such a former retired officer may, in the discretion of the President, have his entitlement to retired or retirement pay under this Act terminated for any reason for which any retired officer may be dismissed from, or dropped from the rolls of, any Armed Force.
 
 "
 

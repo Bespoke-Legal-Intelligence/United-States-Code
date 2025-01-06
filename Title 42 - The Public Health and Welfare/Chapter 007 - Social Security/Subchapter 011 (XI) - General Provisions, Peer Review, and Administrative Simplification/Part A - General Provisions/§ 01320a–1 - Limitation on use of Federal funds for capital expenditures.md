@@ -40,7 +40,7 @@ The Secretary shall pay any such State from the general fund in the Treasury, in
 
 #### (e) Treatment of lease or comparable arrangement of any facility or equipment for a facility in determining amount of exclusions from Federal payments
 
-Where a person obtains under lease or comparable arrangement any facility or part thereof, or equipment for a facility, which would have been subject to an exclusion under subsection (d) if the person had acquired it by purchase, the Secretary shall (1) in computing such person's rental expense in determining the Federal payments to be made under subchapters XVIII and XIX with respect to services furnished in such facility, deduct the amount which in his judgment is a reasonable equivalent of the amount that would have been excluded if the person had acquired such facility or such equipment by purchase, and (2) in computing such person's return on equity capital deduct any amount deposited under the terms of the lease or comparable arrangement.
+Where a person obtains under lease or comparable arrangement any facility or part thereof, or equipment for a facility, which would have been subject to an exclusion under subsection (d) if the person had acquired it by purchase, the Secretary shall (1) in computing such person's rental expense in determining the Federal payments to be made under subchapters XVIII and XIX with respect to services furnished in such facility, deduct the amount which in his judgment is a reasonable equivalent of the amount that would have been excluded if the person hadacquired such facility or such equipment by purchase, and (2) in computing such person's return on equity capital deduct any amount deposited under the terms of the lease or comparable arrangement.
 
 #### (f) Reconsideration by Secretary of determinations
 
@@ -82,7 +82,7 @@ A capital expenditure made by or on behalf of a health care facility shall not b
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (201 et seq.) of this title.For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 

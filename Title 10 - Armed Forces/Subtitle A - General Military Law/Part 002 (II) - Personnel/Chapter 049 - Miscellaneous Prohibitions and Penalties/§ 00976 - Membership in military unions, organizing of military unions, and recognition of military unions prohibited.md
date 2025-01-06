@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) negotiate or bargain with any person concerning the terms or conditions of military service of any member of the armed forces,
 
-&emsp;&emsp;&emsp;(ii) recognize any organization as a representative of individual members of the armed forces in connection with complaints and grievances of such members arising out of the terms or conditions of military service of such members in the armed forces, or
+&emsp;&emsp;&emsp;(ii) recognize any organization as a representative of individual members of the armed forces in connection with complaints and grievances of such members arising out of the terms or conditions ofmilitary service of such members in the armed forces, or
 
 &emsp;&emsp;&emsp;(iii) make any change with respect to the terms or conditions of military service of individual members of the armed forces.
 
@@ -94,7 +94,7 @@ Pub. L. 95–610, §1, Nov. 8, 1978, 92 Stat. 3085, provided that:
 
 &emsp;"(1) Members of the armed forces of the United States must be prepared to fight and, if necessary, to die to protect the welfare, security, and liberty of the United States and of their fellow citizens.
 
-&emsp;"(2) Discipline and prompt obedience to lawful orders of superior officers are essential and time-honored elements of the American military tradition andhave been reinforced from the earliest articles of war by laws and regulations prohibiting conduct detrimental to the military chain of command and lawful military authority.
+&emsp;"(2) Discipline and prompt obedience to lawful orders of superior officers are essential and time-honored elements of the American military tradition and have been reinforced from the earliest articles of war by laws and regulations prohibiting conduct detrimental to the military chain of command and lawful military authority.
 
 &emsp;"(3) The processes of conventional collective bargaining and labor-management negotiation cannot and should not be applied to the relationships between members of the armed forces and their military and civilian superiors.
 

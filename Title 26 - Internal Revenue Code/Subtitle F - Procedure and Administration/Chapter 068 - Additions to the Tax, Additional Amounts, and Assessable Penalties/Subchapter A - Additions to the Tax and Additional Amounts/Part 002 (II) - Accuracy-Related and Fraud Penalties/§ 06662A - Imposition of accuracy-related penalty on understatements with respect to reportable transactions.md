@@ -102,7 +102,7 @@ Section 6662(h).—This section shall not apply to any portion of an understatem
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–152 applicable to underpayments attributable to transactions entered into after Mar. 30, 2010, see section 1409(e)(2) of Pub. L. 111–152, set out as a note under section 6662 of this title.
+Amendment by Pub. L. 111–152 applicable to underpayments attributable to transactions entered intoafter Mar. 30, 2010, see section 1409(e)(2) of Pub. L. 111–152, set out as a note under section 6662 of this title.
 
 #### Effective Date of 2005 Amendment
 

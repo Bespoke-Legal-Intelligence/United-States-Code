@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the sum of the amounts determined under paragraph (2) for each qualified trade or business carried on by the taxpayer, plus
 
-&emsp;&emsp;(B) 20 percent of the aggregate amount of the qualified REIT dividends and qualifiedpublicly traded partnership income of the taxpayer for the taxable year.
+&emsp;&emsp;(B) 20 percent of the aggregate amount of the qualified REIT dividends and qualified publicly traded partnership income of the taxpayer for the taxable year.
 
 #### (2) Determination of deductible amount for each trade or business
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 &emsp;The term "qualified publicly traded partnership income" means, with respect to any qualified trade or business of a taxpayer, the sum of—
 
-&emsp;&emsp;(A) the net amount of such taxpayer's allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a)) <sup>2</sup> which is not treated as a corporation under section 7704(c), plus
+&emsp;&emsp;(A) the net amount of such taxpayer's allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publiclytraded partnership (as defined in section 7704(a)) <sup>2</sup> which is not treated as a corporation under section 7704(c), plus
 
 &emsp;&emsp;(B) any gain recognized by such taxpayer upon disposition of its interest in such partnership to the extent such gain is treated as an amount realized from the sale or exchange of property other than a capital asset under section 751(a).
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any taxpayer with qualified business income from sources within the commonwealth of Puerto Rico, if all such income is taxable under section 1 for such taxable year, then for purposes of determining the qualified business income of such taxpayer for such taxable year, theterm "United States" shall include the Commonwealth of Puerto Rico.
+&emsp;&emsp;&emsp;In the case of any taxpayer with qualified business income from sources within the commonwealth of Puerto Rico, if all such income is taxable under section 1 for such taxable year, then for purposes of determining the qualified business income of such taxpayer for such taxable year, the term "United States" shall include the Commonwealth of Puerto Rico.
 
 #### (ii) Special rule for applying limit
 
@@ -318,7 +318,7 @@ For purposes of this section—
 
 #### (C) Taxable income of cooperatives determined without regard to certain deductions
 
-&emsp;&emsp;For purposes of this subsection, the taxable income of a specified agricultural or horticultural cooperative shall be computed without regard to any deduction allowable under subsection (b) or (c) of section 1382 (relating to patronage dividends, per-unit retain allocations, and nonpatronage distributions).
+&emsp;&emsp;For purposes of this subsection, the taxable income of a specified agricultural orhorticultural cooperative shall be computed without regard to any deduction allowable under subsection (b) or (c) of section 1382 (relating to patronage dividends, per-unit retain allocations, and nonpatronage distributions).
 
 #### (2) Deduction allowed to patrons
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 #### (II) Related person
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a person shall be treated as related to another person if such persons are treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414, except that determinations under subsections (a) and (b) of section 52 shall be made without regard to section 1563(b).
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a person shall be treated as related to anotherperson if such persons are treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414, except that determinations under subsections (a) and (b) of section 52 shall be made without regard to section 1563(b).
 
 #### (4) Specified agricultural or horticultural cooperative
 
@@ -444,7 +444,7 @@ For purposes of this section—
 
 #### (B) Special rule for cooperative partners
 
-&emsp;&emsp;In the case of a specified agricultural or horticultural cooperative which is a partnerin a partnership, rules similar to the rules of subsection (f)(1) shall apply for purposes of this subsection.
+&emsp;&emsp;In the case of a specified agricultural or horticultural cooperative which is a partner in a partnership, rules similar to the rules of subsection (f)(1) shall apply for purposes of this subsection.
 
 #### (C) Trade or business requirement
 

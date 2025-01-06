@@ -72,7 +72,7 @@
 
 &emsp;(A) A transfer of any assets of the Thrift Savings Fund to any person the fiduciary knows or should know to be a party in interest or the use of such assets by any such person.
 
-&emsp;(B) An acquisition of any property from or sale of any property to the Thrift Savings Fund by any person the fiduciary knows or should know to be a party in interest.
+&emsp;(B) An acquisition of any property from or sale of any property to the Thrift SavingsFund by any person the fiduciary knows or should know to be a party in interest.
 
 &emsp;(C) A transfer or exchange of services between the Thrift Savings Fund and any person the fiduciary knows or should know to be a party in interest.
 
@@ -132,7 +132,7 @@
 
 &emsp;(i) the fiduciary participates knowingly in, or knowingly undertakes to conceal, an act or omission of such other fiduciary, knowing such act or omission is such a breach;
 
-&emsp;(ii) by the fiduciary's failure to comply with subsection (b) in the administration of the fiduciary's specific responsibilities which give rise to the fiduciary status, the fiduciary has enabled such other fiduciary to commit such a breach; or
+&emsp;(ii) by the fiduciary's failure to comply with subsection (b) in the administration of the fiduciary's specific responsibilities which giverise to the fiduciary status, the fiduciary has enabled such other fiduciary to commit such a breach; or
 
 &emsp;(iii) the fiduciary has knowledge of a breach by such other fiduciary, unless the fiduciary makes reasonable efforts under the circumstances to remedy the breach.
 
@@ -176,7 +176,7 @@
 
 (B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
 
-(C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary atthe time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
+(C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary at the time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
 
 &emsp;(i) removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division in which it is pending; and
 
@@ -186,7 +186,7 @@
 
 (E) For the purposes of paragraph (3)(C)(ii) the provisions of sections 2680(h) of title 28 shall not apply to any claim based upon an alleged violation of subsection (b) or (c).
 
-(F) Notwithstanding sections 1346(b) and 2671 through 2680 of title 28, whenever an award, compromise, or settlement is made under such sections upon any claim based upon an alleged violation of subsection (b) or (c), payment of such award, compromise, or settlement shall be made to the appropriate account within the Thrift Savings Fund, or where there is no such appropriate account, to the participant or beneficiary bringing the claim.
+(F) Notwithstanding sections 1346(b) and 2671 through 2680 of title 28, whenever an award, compromise, or settlement is made under such sections upon any claim based upon an allegedviolation of subsection (b) or (c), payment of such award, compromise, or settlement shall be made to the appropriate account within the Thrift Savings Fund, or where there is no such appropriate account, to the participant or beneficiary bringing the claim.
 
 (G) For purposes of paragraph (3)(C)(ii), fiduciary includes only the Members of the Board and the Board's Executive Director.
 
@@ -264,7 +264,7 @@ Subsec. (e)(2), (3). Pub. L. 100–238, §133(a)(5), added pars. (2) and (3) and
 
 "(3) An action may not be commenced under paragraph (2) with respect to a fiduciary's breach of any responsibility, duty, or obligation under subsection (b) or a violation of subsection (c) after the earlier of—
 
-&emsp;"(A) 6 years after (i) the date of the last action which constituted a part of the breach or violation, or (ii) in the case of an omission, the latest date on which the fiduciary could have cured the breach or violation; or
+&emsp;"(A) 6 years after (i) the date of the last action which constituted a part of the breach or violation, or (ii) in the case of an omission, the latest date onwhich the fiduciary could have cured the breach or violation; or
 
 &emsp;"(B) 3 years after the earliest date on which the plaintiff had actual knowledge of the breach or violation, except that, in the case of fraud or concealment, such action may be commenced not later than 6 years after the date of discovery of such breach or violation."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, toobtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of chapters 381 through 385 and chapter 389 and the regulations issued under such chapters.
+Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of chapters 381 through 385 and chapter 389 and the regulations issued under such chapters.
 
 (b)
 
@@ -36,7 +36,7 @@ Definitions.—In this section:
 
 <b>2021</b>—Pub. L. 116–283, §1867(b), renumbered section 2507 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, §1867(d)(5), as amended by Pub. L. 117–81, §1701(b)(22)(B), substituted "of chapters 381 through 385 and chapter 389" for "of this chapter" and "under such chapters" for "under this chapter".
+Subsec. (a). Pub. L. 116–283, §1867(d)(5), as amended by Pub. L. 117–81, §1701(b)(22)(B), substituted "of chapters381 through 385 and chapter 389" for "of this chapter" and "under such chapters" for "under this chapter".
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–163 substituted "subsection (a)" for "section (a)".
 

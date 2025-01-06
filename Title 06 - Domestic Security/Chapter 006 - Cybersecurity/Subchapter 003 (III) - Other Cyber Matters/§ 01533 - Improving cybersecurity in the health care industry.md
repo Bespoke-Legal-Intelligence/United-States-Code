@@ -124,7 +124,7 @@ In this section:
 
 #### (e) Incorporating ongoing activities
 
-In carrying out the activities under this section, the Secretary may incorporate activities that are ongoing as of the day before December 18, 2015 and that are consistent with the objectives of this section.
+In carrying out the activities under this section, the Secretary may incorporate activitiesthat are ongoing as of the day before December 18, 2015 and that are consistent with the objectives of this section.
 
 #### (f) Rule of construction
 

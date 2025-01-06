@@ -22,7 +22,7 @@ Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 9
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–70, §1, July 21, 1977, 91 Stat. 275, provided that: "This Act \[enacting sections 788 and 789 of this title and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section\] may be cited as the 'Federal Energy Administration Authorization Act of 1977'."
+Pub. L. 95–70, §1, July 21, 1977, 91 Stat. 275, provided that: "This Act \[enacting sections 788 and 789 of thistitle and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section\] may be cited as the 'Federal Energy Administration Authorization Act of 1977'."
 
 #### Short Title of 1976 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–38
 
 &emsp;&emsp;"(B) for the fiscal year ending September 30, 1978, not to exceed $62,459,000.
 
-&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions described in part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functionsdescribed in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
+&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions described in part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
 
 &emsp;&emsp;"(A) for the fiscal year ending September 30, 1977, not to exceed $38,603,000; and
 
@@ -140,7 +140,7 @@ Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter re
 
 Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in the President by section 203(a)(3) of the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
 
-(b) The authority under the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of LivingCouncil pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
+(b) The authority under the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
 
 Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[formerly set out as a note under section 2153 of the former Appendix to Title 50, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[50 U.S.C. 4501 et seq.\], except section 708 thereof \[50 U.S.C. 4558\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
 

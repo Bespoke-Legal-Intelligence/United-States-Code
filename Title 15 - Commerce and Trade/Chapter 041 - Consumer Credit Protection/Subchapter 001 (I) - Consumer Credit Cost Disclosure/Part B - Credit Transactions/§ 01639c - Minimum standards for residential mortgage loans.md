@@ -8,7 +8,7 @@
 
 #### (2) Multiple loans
 
-&emsp;If the creditor knows, or has reason to know, that 1 or more residential mortgage loans secured by the same dwelling will be made to the same consumer, the creditor shall make a reasonable and good faith determination, based on verified and documented information, that the consumer has a reasonable ability to repay the combined payments of all loans on the same dwelling according to the terms of those loans and all applicable taxes, insurance\(including mortgage guarantee insurance), and assessments.
+&emsp;If the creditor knows, or has reason to know, that 1 or more residential mortgage loans secured by the same dwelling will be made to the same consumer, the creditor shall make a reasonable and good faith determination, based on verified and documented information, that the consumer has a reasonable ability to repay the combined payments of all loans on the same dwelling according to the terms of those loans and all applicable taxes, insurance (including mortgage guarantee insurance), and assessments.
 
 #### (3) Basis for determination
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) Total points and fees (as defined in section 1602(aa)(4) <sup>1</sup> of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
 
-&emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of the original loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
+&emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of theoriginal loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
 
 &emsp;&emsp;(E) The refinancing is subject to a payment schedule that will fully amortize the refinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(i) that meets all of the criteria for a qualified mortgage under subparagraph (A) (except clauses (i)(II), (ii), (iv), and (v) of such subparagraph);
 
-&emsp;&emsp;&emsp;(ii) for which the creditor makes a determination that the consumer is able to make all scheduled payments, except the balloon payment, out of income or assets other than the collateral;
+&emsp;&emsp;&emsp;(ii) for which the creditor makes a determination that the consumer is able tomake all scheduled payments, except the balloon payment, out of income or assets other than the collateral;
 
 &emsp;&emsp;&emsp;(iii) for which the underwriting is based on a payment schedule that fully amortizes the loan over a period of not more than 30 years and takes into account all applicable taxes, insurance, and assessments; and
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) for which the covered institution considers and documents the debt, income, and financial resources of the consumer in accordance with clause (iv); and
 
-&emsp;&emsp;&emsp;&emsp;(II) a residential mortgage loan described in subclause (I) shall be deemedto meet the requirements of subsection (a).
+&emsp;&emsp;&emsp;&emsp;(II) a residential mortgage loan described in subclause (I) shall be deemed to meet the requirements of subsection (a).
 
 #### (iii) Exception for certain transfers
 
@@ -240,7 +240,7 @@
 
 #### (ii) Loan definition
 
-&emsp;&emsp;&emsp;The following agencies shall, in consultation with the Bureau, prescribe rules defining the types of loans they insure, guarantee, or administer, as the case may be, that are qualified mortgages for purposes of paragraph (2)(A), and such rules may revise, add to, or subtract from the criteria used to define a qualified mortgage under paragraph (2)(A), upon a finding that such rules are consistent with the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections:
+&emsp;&emsp;&emsp;The following agencies shall, in consultation with the Bureau, prescribe rules defining the types of loans they insure,guarantee, or administer, as the case may be, that are qualified mortgages for purposes of paragraph (2)(A), and such rules may revise, add to, or subtract from the criteria used to define a qualified mortgage under paragraph (2)(A), upon a finding that such rules are consistent with the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Department of Housing and Urban Development, with regard to mortgages insured under the National Housing Act \[12 U.S.C. 1701 et seq.\].
 
@@ -336,7 +336,7 @@ No creditor may finance, directly or indirectly, in connection with any resident
 
 #### (3) No waiver of statutory cause of action
 
-&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to in paragraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of theUnited States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
+&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to in paragraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of the United States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
 
 #### (f) Mortgages with negative amortization
 

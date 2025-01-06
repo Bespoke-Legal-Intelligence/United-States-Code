@@ -28,11 +28,11 @@
 
 #### (A) Collaboration
 
-&emsp;&emsp;In collaborating under paragraph (1), the Directors referred to in such paragraph shall ensure that technical assistance and training are provided to tribal programs located in each of the 12 areas of the Indian Health Service. The Director of the Indian Health Service shall provide coordination and administrative support to tribes under this section.
+&emsp;&emsp;In collaborating under paragraph (1), the Directors referred to in such paragraph shallensure that technical assistance and training are provided to tribal programs located in each of the 12 areas of the Indian Health Service. The Director of the Indian Health Service shall provide coordination and administrative support to tribes under this section.
 
 #### (B) General use of funds
 
-&emsp;&emsp;Amounts made available under paragraph (1) shall be used to assist small water systems in improving the effectiveness of waterfluoridation and to meet the recommendations of the EARWF.
+&emsp;&emsp;Amounts made available under paragraph (1) shall be used to assist small water systems in improving the effectiveness of water fluoridation and to meet the recommendations of the EARWF.
 
 #### (C) Fluoridation specialists
 

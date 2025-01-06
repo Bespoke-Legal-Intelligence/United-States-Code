@@ -54,7 +54,7 @@ Pub. L. 110–414, §1, Oct. 14, 2008, 122 Stat. 4341, provided that: "This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, title X, §1021(c), Oct. 28, 1992, 106 Stat. 3924, provided that: "This subtitle \[subtitle B (§1021) of title X of Pub. L. 102–550, enacting sections 2681 to 2692 of this title and amending sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of this title\] may be cited as the 'Lead-Based Paint Exposure Reduction Act'."
+Pub. L. 102–550, title X, §1021(c), Oct. 28, 1992, 106 Stat. 3924, provided that: "This subtitle \[subtitle B (§1021) oftitle X of Pub. L. 102–550, enacting sections 2681 to 2692 of this title and amending sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of this title\] may be cited as the 'Lead-Based Paint Exposure Reduction Act'."
 
 #### Short Title of 1986 Amendment
 
@@ -66,11 +66,11 @@ Pub. L. 94–469, §1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L.
 
 #### Modification of Definition of Sport Fishing Equipment Under Toxic Substances Control Act
 
-Pub. L. 116–188, title I, §108, Oct. 30, 2020, 134 Stat. 920, provided that:
+Pub. L. 116–188, title I, §108, Oct. 30, 2020, 134 Stat. 920, as amended by Pub. L. 118–198, title I, §107, Dec. 23, 2024, 138 Stat. 2680, provided that:
 
 "(a)
 
-Prohibition.—During the 5-year period beginning on the date of enactment of this Act \[Oct. 30, 2020\], the Administrator of the Environmental Protection Agency shall not take any action to regulate the lead content of sport fishing equipment or sport fishing equipment components under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.).
+Prohibition.—During the period beginning on the date of enactment of the America's Conservation Enhancement Reauthorization Act of 2024 \[Dec. 23, 2024\] and ending on September 30, 2030, the Administrator of the Environmental Protection Agency shall not take any action to regulate the lead content of sport fishing equipment or sport fishing equipment components under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.).
 
 "(b)
 

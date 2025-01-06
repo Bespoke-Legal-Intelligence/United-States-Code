@@ -7,6 +7,7 @@
 
 - [&sect; 02201 - General duties of Commission](%C2%A7%2002201%20-%20General%20duties%20of%20Commission.md)
 - [&sect; 02201a - Use of firearms by security personnel](%C2%A7%2002201a%20-%20Use%20of%20firearms%20by%20security%20personnel.md)
+- [&sect; 02201b - Commission workforce](%C2%A7%2002201b%20-%20Commission%20workforce.md)
 - [&sect; 02202 - Contracts](%C2%A7%2002202%20-%20Contracts.md)
 - [&sect; 02203 - Advisory committees](%C2%A7%2002203%20-%20Advisory%20committees.md)
 - [&sect; 02204 - Electric utility contracts; authority to enter into; cancellation; submission to Energy Committees](%C2%A7%2002204%20-%20Electric%20utility%20contracts%3B%20authority%20to%20enter%20into%3B%20cancellation%3B%20submission%20to%20Energy%20Committees.md)

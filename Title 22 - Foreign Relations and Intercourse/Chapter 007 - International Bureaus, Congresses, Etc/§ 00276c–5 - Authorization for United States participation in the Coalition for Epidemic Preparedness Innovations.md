@@ -16,7 +16,7 @@ The United States is authorized to participate in the Coalition for Epidemic Pre
 
 #### (3) Qualifications
 
-&emsp;Any employee designated pursuant to paragraph (1) or (2) shall have demonstrated knowledge and experience in the field of development and, if designated from a Federal department or agency with primary fiduciary responsibility for United States contributions pursuant to paragraph (2), in the field of public health, epidemiology, or medicine.
+&emsp;Any employee designated pursuant to paragraph (1) or (2) shall have demonstratedknowledge and experience in the field of development and, if designated from a Federal department or agency with primary fiduciary responsibility for United States contributions pursuant to paragraph (2), in the field of public health, epidemiology, or medicine.
 
 #### (4) Coordination
 

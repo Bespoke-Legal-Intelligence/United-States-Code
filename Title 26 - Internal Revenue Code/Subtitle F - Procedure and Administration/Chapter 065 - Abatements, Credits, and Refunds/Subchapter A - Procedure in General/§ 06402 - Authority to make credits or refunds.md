@@ -10,7 +10,7 @@ The Secretary is authorized to prescribe regulations providing for the crediting
 
 #### (c) Offset of past-due support against overpayments
 
-The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax.
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person's future liability for an internal revenue tax. For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.
 
 #### (d) Collection of debts owed to Federal agencies
 
@@ -26,7 +26,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (2) Priorities for offset
 
-&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(3)) and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after suchoverpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(3)) and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
 #### (3) Treatment of OASDI overpayments
 
@@ -238,17 +238,19 @@ Not later than the date which is 6 months after the date of the enactment of the
 
 &emsp;(3) the refund to be delivered to the correct account of the taxpayer.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076; Pub. L. 115–141, div. U, title IV, §401(a)(285)–(287), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–25, title I, §1407, July 1, 2019, 133 Stat. 1001.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076; Pub. L. 115–141, div. U, title IV, §401(a)(285)–(287), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–25, title I, §1407, July 1, 2019, 133 Stat. 1001; Pub. L. 118–258, title II, §202(a)(2)(F), Jan. 4, 2025, 138 Stat. 2972.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204 and 464 of the Act are classified to sections 404 and 664, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 455, and 464 of the Act are classified to sections 404, 655, and 664, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of the Taxpayer First Act, referred to in subsec. (n), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (c). Pub. L. 118–258 inserted at end "For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act."
 
 <b>2019</b>—Subsec. (n). Pub. L. 116–25 added subsec. (n).
 
@@ -300,7 +302,7 @@ Subsecs. (j) to (l). Pub. L. 110–328, §3(a), redesignated subsecs. (i) to (k)
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted "(c), (d), and (e)" for "(c) and (d)".
 
-Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted "and before such overpayment is reduced pursuant to subsection (e) and before such overpayment" for "and before such overpayment".
+Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted "and before such overpayment is reduced pursuant tosubsection (e) and before such overpayment" for "and before such overpayment".
 
 Subsec. (e). Pub. L. 105–206, §3711(a), added subsec. (e). Former subsec. (e) redesignated (f).
 

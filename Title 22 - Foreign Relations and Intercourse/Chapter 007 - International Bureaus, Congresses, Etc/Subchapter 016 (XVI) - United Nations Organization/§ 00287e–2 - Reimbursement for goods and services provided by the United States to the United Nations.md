@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the President shall seek and obtain in a timely fashion a commitment from the United Nations to provide reimbursement to the United States from the United Nations whenever the United States Government furnishes assistance pursuant to the provisions of law described in subsection (c)—
+&emsp;Except as provided in paragraph (2), the President shall seek and obtain in a timely fashion a commitment from the United Nations to provide reimbursement to the UnitedStates from the United Nations whenever the United States Government furnishes assistance pursuant to the provisions of law described in subsection (c)—
 
 &emsp;&emsp;(A) to the United Nations when the assistance is designed to facilitate or assist in carrying out an assessed peacekeeping operation;
 

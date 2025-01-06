@@ -6,6 +6,7 @@
 | [6802\.](%C2%A7%2006802%20-%20Recreation%20fee%20authority.md) | Recreation fee authority. |
 | [6803\.](%C2%A7%2006803%20-%20Public%20participation.md) | Public participation. |
 | [6804\.](%C2%A7%2006804%20-%20Recreation%20passes.md) | Recreation passes. |
+| [6804a.](%C2%A7%2006804a%20-%20Availability%20of%20Federal%2C%20State%2C%20and%20local%20recreation%20passes.md) | Availability of Federal, State, and local recreation passes. |
 | [6805\.](%C2%A7%2006805%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [6806\.](%C2%A7%2006806%20-%20Special%20account%20and%20distribution%20of%20fees%20and%20revenues.md) | Special account and distribution of fees and revenues. |
 | [6807\.](%C2%A7%2006807%20-%20Expenditures.md) | Expenditures. |
@@ -28,6 +29,7 @@
 - [&sect; 06802 - Recreation fee authority](%C2%A7%2006802%20-%20Recreation%20fee%20authority.md)
 - [&sect; 06803 - Public participation](%C2%A7%2006803%20-%20Public%20participation.md)
 - [&sect; 06804 - Recreation passes](%C2%A7%2006804%20-%20Recreation%20passes.md)
+- [&sect; 06804a - Availability of Federal, State, and local recreation passes](%C2%A7%2006804a%20-%20Availability%20of%20Federal%2C%20State%2C%20and%20local%20recreation%20passes.md)
 - [&sect; 06805 - Cooperative agreements](%C2%A7%2006805%20-%20Cooperative%20agreements.md)
 - [&sect; 06806 - Special account and distribution of fees and revenues](%C2%A7%2006806%20-%20Special%20account%20and%20distribution%20of%20fees%20and%20revenues.md)
 - [&sect; 06807 - Expenditures](%C2%A7%2006807%20-%20Expenditures.md)

@@ -64,7 +64,7 @@
 
 #### (2) Criteria described
 
-&emsp;For purposes of paragraph (1), the criteria described in this paragraph, with respect to an item or service furnished to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, are the following:
+&emsp;For purposes of paragraph (1), the criteria described in this paragraph, with respect to an item or service furnished to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverageoffered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, are the following:
 
 &emsp;&emsp;(A) The participant, beneficiary, or enrollee received through a database, provider directory, or response protocol described in subsection (a) information with respect to such item and service to be furnished and such information provided that the provider was a participating provider or facility was a participating facility, with respect to the plan for furnishing such item or service.
 

@@ -18,7 +18,7 @@
 
 (g) Notwithstanding the provisions of subsection (c) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(b) of this chapter, the time limit with respect to the period between arraignment and trial imposed by subsection (c) of this section shall be one hundred and eighty days, for the second such twelve-month period such time limit shall be one hundred and twenty days, and for the third such period such time limit with respect to the period between arraignment and trial shall be eighty days.
 
-(h) The following periods of delay shall be excluded in computing the time within which an information or an indictment must be filed, orin computing the time within which the trial of any such offense must commence:
+(h) The following periods of delay shall be excluded in computing the time within which an information or an indictment must be filed, or in computing the time within which the trial of any such offense must commence:
 
 &emsp;(1) Any period of delay resulting from other proceedings concerning the defendant, including but not limited to—
 
@@ -42,7 +42,7 @@
 
 &emsp;(3)(A) Any period of delay resulting from the absence or unavailability of the defendant or an essential witness.
 
-&emsp;(B) For purposes of subparagraph (A) of this paragraph, a defendant or an essential witness shall be considered absent when his whereabouts are unknown and, in addition, he is attempting to avoid apprehension or prosecution or his whereabouts cannot be determined by due diligence. For purposes of such subparagraph, a defendant or an essential witness shall be considered unavailable whenever his whereabouts are known but his presence for trial cannot be obtained by due diligence or he resists appearing at or being returned for trial.
+&emsp;(B) For purposes of subparagraph (A) of this paragraph, a defendant or an essential witness shall be considered absent when his whereabouts are unknown and, in addition, he is attempting to avoid apprehension or prosecution or his whereabouts cannot be determined by due diligence. For purposes of such subparagraph, a defendant or an essential witnessshall be considered unavailable whenever his whereabouts are known but his presence for trial cannot be obtained by due diligence or he resists appearing at or being returned for trial.
 
 &emsp;(4) Any period of delay resulting from the fact that the defendant is mentally incompetent or physically unable to stand trial.
 
@@ -80,7 +80,7 @@
 
 (4) When the person having custody of the prisoner receives from the attorney for the Government a properly supported request for temporary custody of such prisoner for trial, the prisoner shall be made available to that attorney for the Government (subject, in cases of interjurisdictional transfer, to any right of the prisoner to contest the legality of his delivery).
 
-(k)(1) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant's subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs more than 21 days after the day set for trial, the defendant shall be deemed to have first appeared before a judicial officer of the court in which the information or indictment is pending within the meaning of subsection (c) on the date of the defendant's subsequent appearance before the court.
+(k)(1) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant's subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs more than 21 days after the day set for trial, the defendant shall be deemed to have first appeared before a judicial officer of the court in which the information or indictment is pending within the meaning ofsubsection (c) on the date of the defendant's subsequent appearance before the court.
 
 (2) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant's subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
 
@@ -128,7 +128,7 @@ Words "magistrate judge" substituted for "magistrate" in subsec. (c)(1) pursuant
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set outas an Effective Date note under section 3505 of this title.
+Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as an Effective Date note under section 3505 of this title.
 
 #### Short Title of 1979 Amendment
 

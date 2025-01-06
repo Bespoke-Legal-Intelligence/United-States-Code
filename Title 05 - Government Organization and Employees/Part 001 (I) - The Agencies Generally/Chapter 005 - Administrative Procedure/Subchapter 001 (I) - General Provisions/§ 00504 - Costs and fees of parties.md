@@ -12,13 +12,13 @@
 
 &emsp;(A) "fees and other expenses" includes the reasonable expenses of expert witnesses, the reasonable cost of any study, analysis, engineering report, test, or project which is found by the agency to be necessary for the preparation of the party's case, and reasonable attorney or agent fees (The amount of fees awarded under this section shall be based upon prevailing market rates for the kind and quality of the services furnished, except that (i) no expert witness shall be compensated at a rate in excess of the highest rate of compensation for expert witnesses paid by the agency involved, and (ii) attorney or agent fees shall not be awarded in excess of $125 per hour unless the agency determines by regulation that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys or agents for the proceedings involved, justifies a higher fee.);
 
-&emsp;(B) "party" means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not more than 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), maybe a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (a)(4), a small entity as defined in section 601;
+&emsp;(B) "party" means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not more than 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (a)(4), a small entity as defined in section 601;
 
 &emsp;(C) "adversary adjudication" means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 7103 of title 41 before an agency board of contract appeals as provided in section 7105 of title 41, (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
 
 &emsp;(D) "adjudicative officer" means the deciding official, without regard to whether the official is designated as an administrative law judge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication;
 
-&emsp;(E) "position of the agency" means, in addition to the position taken by the agency in the adversary adjudication, the action or failure to act by the agency upon which the adversary adjudication is based; except that fees and other expenses may not be awarded to a party for any portion of the adversary adjudication in which the party has unreasonably protracted the proceedings; and
+&emsp;(E) "position of the agency" means, in addition to the position taken by the agency in the adversary adjudication, the action or failure to act by the agency upon which the adversary adjudication is based; except that fees and other expenses may not be awarded to a partyfor any portion of the adversary adjudication in which the party has unreasonably protracted the proceedings; and
 
 &emsp;(F) "demand" means the express demand of the agency which led to the adversary adjudication, but does not include a recitation by the agency of the maximum statutory penalty (i) in the administrative complaint, or (ii) elsewhere when accompanied by an express demand for a lesser amount.
 
@@ -58,7 +58,7 @@
 
 (i) No award may be made under this section for costs, fees, or other expenses which may be awarded under section 7430 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amendedPub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, §5(a)(1), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 116–9, title IV, §4201(a)(1), Mar. 12, 2019, 133 Stat. 762.)
+(Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, §5(a)(1), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 116–9, title IV, §4201(a)(1), Mar. 12, 2019, 133 Stat. 762.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to am
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–121, title II, §233, Mar. 29, 1996, 110 Stat. 864, provided that: "The amendments made by sections331 and 332 \[probably means sections 231 and 232, amending this section and section 2412 of Title 28, Judiciary and Judicial Procedure\] shall apply to civil actions and adversary adjudications commenced on or after the date of the enactment of this subtitle \[Mar. 29, 1996\]."
+Pub. L. 104–121, title II, §233, Mar. 29, 1996, 110 Stat. 864, provided that: "The amendments made by sections 331 and 332 \[probably means sections 231 and 232, amending this section and section 2412 of Title 28, Judiciary and Judicial Procedure\] shall apply to civil actions and adversary adjudications commenced on or after the date of the enactment of this subtitle \[Mar. 29, 1996\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -142,7 +142,7 @@ In General.—Except as otherwise provided in this section, the amendments made 
 
 "(b)
 
-Applicability of Amendments to Certain Prior Cases.—The amendments made by this Act shall apply to any case commenced on or after October 1, 1984, and finally disposed of before the date of the enactment of this Act \[Aug. 5, 1985\], except that in any such case, the 30-day period referred to in section 504(a)(2) of title 5, United States Code, or section 2412(d)(1)(B) of title 28, United States Code, as the case may be, shall be deemed to commence on the date of the enactment of this Act.
+Applicability of Amendments to Certain Prior Cases.—The amendments made by this Act shall applyto any case commenced on or after October 1, 1984, and finally disposed of before the date of the enactment of this Act \[Aug. 5, 1985\], except that in any such case, the 30-day period referred to in section 504(a)(2) of title 5, United States Code, or section 2412(d)(1)(B) of title 28, United States Code, as the case may be, shall be deemed to commence on the date of the enactment of this Act.
 
 "(c)
 
@@ -202,5 +202,5 @@ Pub. L. 96–481, title II, §202, Oct. 21, 1980, 94 Stat. 2325, provided that:
 
 #### Limitation on Payments
 
-Pub. L. 96–481, title II, §207, Oct. 21, 1980, 94 Stat. 2330, which provided that the payment of judgments, feesand other expenses in the same manner as the payment of final judgments as provided in this Act \[probably should be "this title", see Short Title note above\] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, §4, Aug. 5, 1985, 99 Stat. 186.
+Pub. L. 96–481, title II, §207, Oct. 21, 1980, 94 Stat. 2330, which provided that the payment of judgments, fees and other expenses in the same manner as the payment of final judgments as provided in this Act \[probably should be "this title", see Short Title note above\] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, §4, Aug. 5, 1985, 99 Stat. 186.
 

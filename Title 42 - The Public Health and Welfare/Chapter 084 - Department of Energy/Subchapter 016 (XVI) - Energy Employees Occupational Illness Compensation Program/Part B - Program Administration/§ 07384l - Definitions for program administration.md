@@ -14,7 +14,7 @@ In this subchapter:
 
 &emsp;(3) The term "atomic weapons employee" means any of the following:
 
-&emsp;&emsp;(A) An individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.
+&emsp;&emsp;(A) An individual employed by an atomic weapons employer during a period when theemployer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.
 
 &emsp;&emsp;(B) An individual employed—
 
@@ -176,7 +176,7 @@ In this subchapter:
 
 &emsp;&emsp;(D) Leukemia (other than chronic lymphocytic leukemia), if initial occupational exposure occurred before 21 years of age and onset occurred more than two years after initial occupational exposure.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498; Pub. L. 107–20, title II, §2403(a), July 24, 2001, 115 Stat. 175; Pub. L. 107–107, div. C, title XXXI, §3151(a)(1), (4)(C), Dec. 28, 2001, 115 Stat. 1371, 1374; Pub. L. 108–375, div. C, title XXXI, §§3166(b)(2), 3168(a), Oct. 28, 2004, 118 Stat. 2189, 2190; Pub. L. 118–31, div. E, title LV, §5501(b), Dec. 22, 2023, 137 Stat. 956.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498; Pub. L.107–20, title II, §2403(a), July 24, 2001, 115 Stat. 175; Pub. L. 107–107, div. C, title XXXI, §3151(a)(1), (4)(C), Dec. 28, 2001, 115 Stat. 1371, 1374; Pub. L. 108–375, div. C, title XXXI, §§3166(b)(2), 3168(a), Oct. 28, 2004, 118 Stat. 2189, 2190; Pub. L. 118–31, div. E, title LV, §5501(b), Dec. 22, 2023, 137 Stat. 956.)
 
 #### <b>Editorial Notes</b>
 

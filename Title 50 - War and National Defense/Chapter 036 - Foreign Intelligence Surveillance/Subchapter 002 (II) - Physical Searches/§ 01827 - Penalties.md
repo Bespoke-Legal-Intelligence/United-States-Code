@@ -26,5 +26,5 @@ There is Federal jurisdiction over an offense under this section if the person c
 
 #### Effective Date
 
-Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by theAttorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
 

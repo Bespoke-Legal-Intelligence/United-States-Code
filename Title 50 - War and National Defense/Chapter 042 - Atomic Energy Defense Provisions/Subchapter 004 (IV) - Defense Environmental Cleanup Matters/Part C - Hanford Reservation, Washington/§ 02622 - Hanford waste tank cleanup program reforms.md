@@ -22,7 +22,7 @@ The Secretary shall provide the head of the Office with the resources and person
 
 #### (d) Notification
 
-The Assistant Secretary of Energy for Environmental Management shall submit to theCommittee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notification detailing any changes in the roles, responsibilities, and reporting relationships that involve the Office.
+The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notification detailing any changes in the roles, responsibilities, and reporting relationships that involve the Office.
 
 #### (e) Termination
 

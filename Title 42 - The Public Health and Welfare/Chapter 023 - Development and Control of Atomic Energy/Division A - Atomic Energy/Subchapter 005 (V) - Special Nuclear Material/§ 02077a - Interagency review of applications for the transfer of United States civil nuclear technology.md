@@ -30,7 +30,7 @@ At the same time as the President submits to Congress the annual budget request 
 
 #### (B) Waiver of deadline
 
-&emsp;&emsp;The Secretary may waive the requirement under subparagraph (A) to submit the reportrequired by that subparagraph not later than 14 days before making an authorization for the transfer of a technology covered by a determination under paragraph (1) to a covered foreign country if the Secretary—
+&emsp;&emsp;The Secretary may waive the requirement under subparagraph (A) to submit the report required by that subparagraph not later than 14 days before making an authorization for the transfer of a technology covered by a determination under paragraph (1) to a covered foreign country if the Secretary—
 
 &emsp;&emsp;&emsp;(i) determines that an imminent radiological hazard exists; and
 
@@ -142,7 +142,7 @@ In this section:
 
 &emsp;The term "covered foreign country" means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968, but does not include the United States, the United Kingdom, or France.
 
-(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, title XXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291; Pub. L. 117–81, div. C, title XXXI, §3131(b), Dec. 27, 2021, 135 Stat. 2230; Pub. L. 117–263, div. C, title XXXI, §3131(b), Dec. 23, 2022, 136 Stat. 3059.)
+(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, titleXXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291; Pub. L. 117–81, div. C, title XXXI, §3131(b), Dec. 27, 2021, 135 Stat. 2230; Pub. L. 117–263, div. C, title XXXI, §3131(b), Dec. 23, 2022, 136 Stat. 3059.)
 
 #### <b>Editorial Notes</b>
 

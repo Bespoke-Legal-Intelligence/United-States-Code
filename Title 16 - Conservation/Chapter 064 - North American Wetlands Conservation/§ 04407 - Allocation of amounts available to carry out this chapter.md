@@ -42,5 +42,5 @@ Subsec. (b). Pub. L. 107–308, §7, substituted heading for former heading, sub
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–149, §1(b), Mar. 25, 2010, 124 Stat. 1025, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any approved and active wetlands conservation project (as that term is used in section 8(b)(1) of such Act \[16 U.S.C. 4407(b)(1)\]) carried out with assistance provided under such Act \[Pub. L. 101–233, 16 U.S.C. 4401 et seq.\], including such a project approved before the date of the enactment of this Act \[Mar. 25, 2010\]."
+Pub. L. 111–149, §1(b), Mar. 25, 2010, 124 Stat. 1025, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any approved and active wetlands conservation project (as that term is used in section 8(b)(1) of such Act \[16U.S.C. 4407(b)(1)\]) carried out with assistance provided under such Act \[Pub. L. 101–233, 16 U.S.C. 4401 et seq.\], including such a project approved before the date of the enactment of this Act \[Mar. 25, 2010\]."
 

@@ -96,6 +96,8 @@ The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–233 substituted provisions authorizing the Secretary of Agriculture to select bidding method or methods to achieve the purposes of par. (1) of this subsec., procedures for use of oral auction as the bidding method, and procedures for monitoring and enforcement to prevent collusive practices, for provisions authorizing the Secretary to take such action as deemed necessary to prevent collusive practices, and setting forth requirements for enforcement.
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Application of Amendments by Pub. L. 101–626 to Certain Long-Term Timber Sale Contracts

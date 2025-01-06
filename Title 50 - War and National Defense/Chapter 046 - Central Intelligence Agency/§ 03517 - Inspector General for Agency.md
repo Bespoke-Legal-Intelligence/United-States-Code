@@ -22,7 +22,7 @@ In order to—
 
 (3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena, if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
-(4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
+(4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report issubmitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
 
 (5) In accordance with section 535 of title 28, the Inspector General shall report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involve a program or operation of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Director.
 
@@ -76,7 +76,7 @@ In order to—
 
 &emsp;&emsp;(III) the officer or employee has demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations; and
 
-&emsp;&emsp;(IV) not later than 30 days before the date on which the direction takes effect, the President communicates in writing to the congressional intelligence committees the substantive rationale, including the detailed and case-specific reasons, for such direction, including the reason for the direction that someone other than the individual who is performing the functions and duties of the Inspector General temporarily in an acting capacity (as of the date on which the President issues that direction) perform those functions and duties temporarily in an acting capacity.
+&emsp;&emsp;(IV) not later than 30 days before the date on which the direction takes effect, the President communicates in writing to the congressional intelligence committees thesubstantive rationale, including the detailed and case-specific reasons, for such direction, including the reason for the direction that someone other than the individual who is performing the functions and duties of the Inspector General temporarily in an acting capacity (as of the date on which the President issues that direction) perform those functions and duties temporarily in an acting capacity.
 
 (C) Notwithstanding section 3345(a) of title 5 and clauses (ii) and (iii) of subparagraph (B), and subject to subparagraph (D), during any period in which the Inspector General is on nonduty status—
 
@@ -158,11 +158,19 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
 
-(5)(A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
+(5)(A)(i) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information in writing to the Inspector General.
 
-(B)(i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
+(ii) The Inspector General shall—
 
-(ii) If the Director determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence.
+&emsp;(I) provide reasonable support necessary to ensure that an employee can report a complaint or information under this subparagraph in writing; and
+
+&emsp;(II) if such submission is not feasible, create a written record of the employee's verbal complaint or information and treat such written record as a written submission.
+
+(B)(i) In accordance with clause (ii), the Inspector General shall determine whether a complaint or information reported under subparagraph (A) appears credible. Upon making such a determination, the Inspector General shall transmit to the Director a notice of that determination, together with the complaint or information.
+
+(ii) The Inspector General shall make the determination under clause (i) with respect to a complaint or information under subparagraph (A) by not later than the end of the 14-calendar-day period beginning on the date on which the employee who reported the complaint or information confirms to the Inspector General the intent of the employee to report to Congress that complaint or information.
+
+(iii) If the Director determines that a complaint or information transmitted under subparagraph (A) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence.
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
@@ -196,6 +204,8 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(II) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
+&emsp;(III) The term "employee" includes a former employee or former contractor, if the complaint or information reported under subparagraph (A) arises from or relates to the period during which the former employee or former contractor was an employee or contractor, as the case may be.
+
 (ii) Within the executive branch, the Inspector General shall have sole authority to determine whether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
 
 (H) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
@@ -206,15 +216,31 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (2) The Inspector General shall have access to any employee or any employee of a contractor of the Agency whose testimony is needed for the performance of his duties. In addition, he shall have direct access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which relate to the programs and operations with respect to which the Inspector General has responsibilities under this section. Failure on the part of any employee or contractor to cooperate with the Inspector General shall be grounds for appropriate administrative actions by the Director, to include loss of employment or the termination of an existing contractual relationship.
 
-(3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
+(3)(A) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
 
-&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+&emsp;(i) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
-&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint wasmade or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(ii) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+
+(B)(i) An individual may disclose classified information to the Inspector General in accordance with the applicable security standards and procedures established under section 3024 or 3162a of this title, chapter 12 of the Atomic Energy Act of 1954 (42 U.S.C. 2161 et seq.), Executive Order 13526 (50 U.S.C. 3161 note; relating to Classified National Security Information), or any applicable provision of law.
+
+(ii) A disclosure under clause (i) of classified information made by an individual without appropriate clearance or authority to access such classified information at the time of the disclosure, but that is otherwise made in accordance with applicable security standards and procedures, shall be treated as an authorized disclosure that does not violate a covered provision.
+
+(iii) Nothing in clause (ii) may be construed to limit or modify the obligation of an individual to appropriately store, handle, or disseminate classified information in accordance with applicable security guidance and procedures, including with respect to the removal or retention of classified information.
+
+(iv) In this subparagraph, the term "covered provision" means—
+
+&emsp;(I) any otherwise applicable nondisclosure agreement;
+
+&emsp;(II) any otherwise applicable regulation or order issued under the authority of chapter 18 of the Atomic Energy Act of 1954 (42 U.S.C. 2271 et seq.) or Executive Order 13526;
+
+&emsp;(III) section 798 of title 18; or
+
+&emsp;(IV) any other provision of law with respect to the unauthorized disclosure of national security information.
 
 (4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
-(5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data in any medium (including electronically stored information or any tangible thing) and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
+(5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require bysubpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data in any medium (including electronically stored information or any tangible thing) and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
 
 (B) In the case of Government agencies, the Inspector General shall obtain information, documents, reports, answers, records, accounts, papers, and other data and evidence for the purpose specified in subparagraph (A) using procedures other than by subpoenas.
 
@@ -262,7 +288,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(A) the aggregate amount requested for the operations of the Inspector General;
 
-&emsp;(B) the amount requested for all training requirements of the Inspector General, includinga certification from the Inspector General that the amount requested is sufficient to fund all training requirements for the Office; and
+&emsp;(B) the amount requested for all training requirements of the Inspector General, including a certification from the Inspector General that the amount requested is sufficient to fund all training requirements for the Office; and
 
 &emsp;(C) the amount requested to support the Council of the Inspectors General on Integrity and Efficiency, including a justification for such amount.
 
@@ -298,7 +324,7 @@ There shall be transferred to the Office the office of the Agency referred to as
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General.
 
-(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694; Pub. L. 111–259, title IV, §§425(a)–(f)(1), 426, title VIII, §802(2), Oct. 7, 2010, 124 Stat. 2728–2730, 2746; Pub. L. 112–87, title IV, §413, Jan. 3, 2012, 125 Stat. 1891; Pub. L. 112–277, title III, §309(b)(1), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title VI, §603(b), July 7, 2014, 128 Stat. 1420; Pub. L. 114–113, div. M, title IV, §411, Dec. 18, 2015, 129 Stat. 2922; Pub. L. 115–31, div. N, title IV, §412(a), May 5, 2017, 131 Stat. 821; Pub. L. 117–103, div. X, title V, §502(c), Mar. 15, 2022, 136 Stat. 986; Pub. L. 117–263, div. E, title LII, §§5202(a)(4), 5203(c), div. F, title LXVI, §6609(c), Dec. 23, 2022, 136 Stat. 3226, 3231, 3560; Pub. L. 118–31, div. G, title IX, §7901(g)(4), Dec. 22, 2023, 137 Stat. 1107.)
+(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694; Pub. L. 111–259, title IV, §§425(a)–(f)(1), 426, title VIII, §802(2), Oct. 7, 2010, 124 Stat. 2728–2730, 2746; Pub. L. 112–87, title IV, §413, Jan. 3, 2012, 125 Stat. 1891; Pub. L. 112–277, title III, §309(b)(1), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title VI, §603(b), July 7, 2014, 128 Stat. 1420; Pub. L. 114–113, div. M, title IV, §411, Dec. 18, 2015, 129 Stat. 2922; Pub. L. 115–31, div. N, title IV, §412(a), May 5, 2017, 131 Stat. 821; Pub. L. 117–103, div. X, title V, §502(c), Mar. 15, 2022, 136 Stat. 986; Pub. L. 117–263, div. E, title LII, §§5202(a)(4), 5203(c), div. F, title LXVI, §6609(c), Dec. 23, 2022, 136 Stat. 3226, 3231, 3560; Pub. L. 118–31, div. G, title IX, §7901(g)(4), Dec. 22, 2023, 137 Stat. 1107; Pub. L. 118–159, div. F, title LXVII, §§6701(b), 6702(b), Dec. 23, 2024, 138 Stat. 2512, 2514.)
 
 #### <b>Editorial Notes</b>
 
@@ -308,11 +334,23 @@ Section 3 of the Inspector General Act of 1978, referred to in subsec. (b)(8)(A)
 
 The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
+The Atomic Energy Act of 1954, referred to in subsec. (e)(3)(B)(i), (iv)(II), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919. Chapters 12 and 18 of the Act are classified generally to subchapters XI (§2161 et seq.) and XVII (§2271 et seq.), respectively, of division A of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+
+Executive Order 13526, referred to in subsec. (e)(3)(B)(i), (iv)(II), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under section 3161 of this title.
+
 #### Codification
 
 Section was formerly classified to section 403q of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(5)(A). Pub. L. 118–159, §6701(b)(1), designated existing provisions as cl. (i), inserted "in writing" before "to the Inspector General", and added cl. (ii).
+
+Subsec. (d)(5)(B). Pub. L. 118–159, §6701(b)(2), added cls. (i) and (ii), redesignated former cl. (ii) as (iii), substituted "subparagraph (A)" for "paragraph (1)" in cl. (iii), and struck out former cl. (i) which read as follows: "Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information."
+
+Subsec. (d)(5)(G)(i)(III). Pub. L. 118–159, §6701(b)(3), added subcl. (III).
+
+Subsec. (e)(3). Pub. L. 118–159, §6702(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
 <b>2023</b>—Subsec. (d)(5)(B)(ii). Pub. L. 118–31, §7901(g)(4)(A), inserted period at end.
 
@@ -326,7 +364,7 @@ Subsec. (b)(8). Pub. L. 117–263, §5203(c), added par. (8).
 
 Subsec. (d)(5)(G). Pub. L. 117–103 inserted cl. (i) designation before "In this" in introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and former subcls. (I) to (III) as items (aa) to (cc), respectively, of subcl. (I), and added cl. (ii).
 
-Subsec. (d)(5)(G)(i)(I)(aa). Pub. L. 117–263, §6609(c), substituted "of the Federal Government that is—" andsubitems (AA) and (BB) for "involving classified information, but does not include differences of opinions concerning public policy matters."
+Subsec. (d)(5)(G)(i)(I)(aa). Pub. L. 117–263, §6609(c), substituted "of the Federal Government that is—" and subitems (AA) and (BB) for "involving classified information, but does not include differences of opinions concerning public policy matters."
 
 <b>2017</b>—Subsec. (e)(7)(C). Pub. L. 115–31 added subpar. (C).
 

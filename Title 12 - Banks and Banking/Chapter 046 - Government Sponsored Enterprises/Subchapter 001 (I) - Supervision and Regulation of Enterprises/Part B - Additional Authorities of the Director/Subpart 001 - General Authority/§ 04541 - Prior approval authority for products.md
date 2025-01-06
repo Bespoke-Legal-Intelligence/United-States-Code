@@ -8,7 +8,7 @@ The Director shall require each enterprise to obtain the approval of the Directo
 
 In considering any request for approval of a product pursuant to subsection (a), the Director shall make a determination that—
 
-&emsp;(1) in the case of a product of the Federal National Mortgage Association, the product is authorized under paragraph (2), (3), (4), or (5) of section 1717(b) or section 1719 of this title;
+&emsp;(1) in the case of a product of the Federal National Mortgage Association, the product isauthorized under paragraph (2), (3), (4), or (5) of section 1717(b) or section 1719 of this title;
 
 &emsp;(2) in the case of a product of the Federal Home Loan Mortgage Corporation, the product is authorized under paragraph (1), (4), or (5) of section 1454(a) of this title;
 
@@ -68,7 +68,7 @@ If the Director approves the offering of any product by an enterprise, the Direc
 
 #### (A) Enterprise notice
 
-&emsp;&emsp;For any new activity that an enterprise considers not to be a product, the enterpriseshall provide written notice to the Director of such activity, and may not commence such activity until the date of receipt of a notice under subparagraph (B) or the expiration of the period described in subparagraph (C). The Director shall establish, by regulation, the form and content of such written notice.
+&emsp;&emsp;For any new activity that an enterprise considers not to be a product, the enterprise shall provide written notice to the Director of such activity, and may not commence such activity until the date of receipt of a notice under subparagraph (B) or the expiration of the period described in subparagraph (C). The Director shall establish, by regulation, the form and content of such written notice.
 
 #### (B) Director determination
 

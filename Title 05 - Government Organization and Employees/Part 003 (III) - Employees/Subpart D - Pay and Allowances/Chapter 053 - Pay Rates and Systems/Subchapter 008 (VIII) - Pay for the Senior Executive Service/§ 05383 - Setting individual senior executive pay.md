@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 108–136, §1125(a)(3)(B), substituted "as provided in reg
 
 "(2)(A) Any amount which is not paid to a senior executive during a fiscal year because of the limitation under paragraph (1) of this subsection shall be paid to that individual in a lump sum at the beginning of the following fiscal year.
 
-"(B) Any amount paid under this paragraph during a fiscal year shall be taken into account for purposes of applying the limitation under paragraph (1) of this subsection with respect to such fiscal year.
+"(B) Any amount paid under this paragraph during a fiscal year shall be taken into account for purposes ofapplying the limitation under paragraph (1) of this subsection with respect to such fiscal year.
 
 "(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of this title, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph."
 
@@ -66,5 +66,5 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 
-Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to studyand, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
+Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to study and, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
 

@@ -24,7 +24,7 @@
 
 #### (5) Optional submission of subsequent plans
 
-&emsp;An eligible agency may, after the first 4-year State plan is submitted under this section, submit subsequent 4-year plans not later than 120 days prior to the end of the 4-year period covered by the preceding State plan or, if an eligible agency chooses not to submit a State plan for a subsequent 4-year period, the eligible agency shall submit, and the Secretary shall approve, annual revisions to theState determined levels of performance in the same manner as revisions submitted and approved under section 2323(b)(3)(A)(ii) of this title.
+&emsp;An eligible agency may, after the first 4-year State plan is submitted under this section, submit subsequent 4-year plans not later than 120 days prior to the end of the 4-year period covered by the preceding State plan or, if an eligible agency chooses not to submit aState plan for a subsequent 4-year period, the eligible agency shall submit, and the Secretary shall approve, annual revisions to the State determined levels of performance in the same manner as revisions submitted and approved under section 2323(b)(3)(A)(ii) of this title.
 
 #### (b) Options for submission of State plan
 
@@ -148,7 +148,7 @@ The State plan shall include—
 
 &emsp;&emsp;(E) will be provided instruction and work-based learning opportunities in integrated settings that support competitive, integrated employment;
 
-&emsp;(10) a description of the procedure the eligible agency will adopt for determining Statedetermined levels of performance described in section 2323 of this title, which, at a minimum, shall include—
+&emsp;(10) a description of the procedure the eligible agency will adopt for determining State determined levels of performance described in section 2323 of this title, which, at a minimum, shall include—
 
 &emsp;&emsp;(A) a description of the process for public comment under section 2323(b)(3)(B) of this title as part of the development of the State determined levels of performance under section 2323(b) of this title;
 

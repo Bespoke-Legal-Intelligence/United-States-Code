@@ -14,7 +14,7 @@ The regulations promulgated under subsection (a) shall require the contract peri
 
 #### (c) Covered contracts
 
-This section applies to any contract in an amount greater than the simplified acquisitionthreshold (as defined by section 134 of title 41) entered into by the Department to facilitate response to or recovery from a natural disaster, act of terrorism, or other man-made disaster.
+This section applies to any contract in an amount greater than the simplified acquisition threshold (as defined by section 134 of title 41) entered into by the Department to facilitate response to or recovery from a natural disaster, act of terrorism, or other man-made disaster.
 
 (Pub. L. 109–295, title VI, §695, Oct. 4, 2006, 120 Stat. 1460.)
 

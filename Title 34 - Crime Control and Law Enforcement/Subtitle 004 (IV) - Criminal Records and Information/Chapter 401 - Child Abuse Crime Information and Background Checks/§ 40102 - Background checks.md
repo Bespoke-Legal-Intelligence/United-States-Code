@@ -42,11 +42,11 @@ The procedures established under subsection (a) shall require—
 
 &emsp;&emsp;(D) an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State andlocal recordkeeping systems are available in order to obtain complete data;
+&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
 &emsp;(4) that the authorized agency or designated entity, as applicable, shall make a determination whether the covered individual has been convicted of, or is under pending indictment for, a crime that bears upon the covered individual's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
-&emsp;(5) that any background check under subsection (a) and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3).
+&emsp;(5) that any background check under subsection (a) and the results thereof shall behandled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3).
 
 #### (c) Regulations
 
@@ -102,7 +102,7 @@ The effective date of this subparagraph, referred to in subsec. (a)(3)(A), proba
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(2)(C)(iv), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are in title II of Pub. L. 92–544, formerly set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as section 41101 of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are in title II of Pub. L. 92–544, formerly set out as a note under section 534 of Title 28, Judiciary andJudicial Procedure, prior to editorial reclassification and renumbering as section 41101 of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 108(a)(3)(G)(i) of the Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003, referred to in subsec. (f)(2)(C), is section 108(a)(3)(G)(i) of Pub. L. 108–21, which is set out as a note below.
 
@@ -182,7 +182,7 @@ State check.—The participating State under this paragraph after receiving a re
 
 &emsp;&emsp;"(D)
 
-Information provided.—Under procedures established by the Attorney General, any criminalhistory record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
+Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
 
 &emsp;&emsp;"(E)
 

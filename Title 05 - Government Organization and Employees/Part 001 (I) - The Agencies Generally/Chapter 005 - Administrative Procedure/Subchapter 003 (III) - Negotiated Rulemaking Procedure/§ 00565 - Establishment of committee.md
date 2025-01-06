@@ -6,7 +6,7 @@ Establishment.—
 
 &emsp;(1)
 
-Determination to establish committee.—If after considering comments and applications submitted under section 564, the agency determines that a negotiated rulemaking committee can adequately represent the interests that will be significantly affected by a proposed rule and that it is feasible and appropriate in the particular rulemaking, the agency may establish a negotiated rulemaking committee. In establishing and administering such a committee, the agency shall complywith chapter 10 of this title with respect to such committee, except as otherwise provided in this subchapter.
+Determination to establish committee.—If after considering comments and applications submitted under section 564, the agency determines that a negotiated rulemaking committee can adequately represent the interests that will be significantly affected by a proposed rule and that it is feasible and appropriate in the particular rulemaking, the agency may establish a negotiated rulemaking committee. In establishing and administering such a committee, the agency shall comply with chapter 10 of this title with respect to such committee, except as otherwise provided in this subchapter.
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Determination not to establish committee.—If after considering such comments a
 
 (b)
 
-Membership.—The agency shall limit membership on a negotiated rulemaking committee to 25 members, unless the agency head determines that a greater number of members is necessary for the functioning of the committee or to achieve balanced membership. Each committee shall include at least one person representing the agency.
+Membership.—The agency shall limit membership on a negotiated rulemaking committee to 25 members, unless the agency head determines that a greater number of members isnecessary for the functioning of the committee or to achieve balanced membership. Each committee shall include at least one person representing the agency.
 
 (c)
 

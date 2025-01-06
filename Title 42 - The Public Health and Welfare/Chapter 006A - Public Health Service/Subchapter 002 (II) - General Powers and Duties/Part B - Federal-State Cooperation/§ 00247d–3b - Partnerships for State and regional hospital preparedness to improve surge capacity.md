@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Assistant Secretary for Preparedness and Response, shall award competitive grants or cooperative agreements to eligible entities to enable such entities to improve surge capacity and enhance community and hospital preparedness for, and response to, public health emergencies in accordance with subsection (c), including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals.
+The Secretary, acting through the Assistant Secretary for Preparedness and Response, shall award competitive grants or cooperative agreements to eligible entities to enable such entities to improve surge capacity and enhance community and hospital preparedness for, and response to, public health emergencies in accordance with subsection (c), including, as appropriate,capacity and preparedness to address the needs of children and other at-risk individuals.
 
 #### (b) Eligibility
 

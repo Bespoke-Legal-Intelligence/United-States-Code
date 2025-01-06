@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Assistance
 
-&emsp;The term "assistance" means the provision of, or the provision of access to, information\(including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
+&emsp;The term "assistance" means the provision of, or the provision of access to, information (including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
 
 #### (2) Civil action
 
@@ -42,9 +42,19 @@ In this subchapter:
 
 &emsp;&emsp;(D) any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
 
-&emsp;&emsp;(E) a parent, subsidiary, affiliate, successor, or assignee of an entity described in subparagraph (A), (B), (C), or (D); or
+&emsp;&emsp;(E) any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
 
-&emsp;&emsp;(F) an officer, employee, or agent of an entity described in subparagraph (A), (B), (C), (D), or (E).
+&emsp;&emsp;&emsp;(i) a public accommodation facility, as that term is defined in section 1861(4) of this title;
+
+&emsp;&emsp;&emsp;(ii) a dwelling, as that term is defined in section 3602 of title 42;
+
+&emsp;&emsp;&emsp;(iii) a community facility, as that term is defined in section 1592n of title 42; or
+
+&emsp;&emsp;&emsp;(iv) a food service establishment, as that term is defined in section 1638 of title 7;
+
+&emsp;&emsp;(F) a parent, subsidiary, affiliate, successor, or assignee of an entity described in subparagraph (A), (B), (C), or (D);
+
+&emsp;&emsp;(G) an officer, employee, custodian, or agent of an entity described in subparagraph (A), (B), (C), (D), (E), or (F).
 
 #### (7) Intelligence community
 
@@ -68,7 +78,7 @@ In this subchapter:
 
 &emsp;The term "State" means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.
 
-(Pub. L. 95–511, title VIII, §801, as added Pub. L. 110–261, title II, §201, July 10, 2008, 122 Stat. 2467; amended Pub. L. 115–118, title I, §101(b)(2)(A), title II, §205(a)(7), Jan. 19, 2018, 132 Stat. 8, 21.)
+(Pub. L. 95–511, title VIII, §801, as added Pub. L. 110–261, title II, §201, July 10, 2008, 122 Stat. 2467; amended Pub. L. 115–118, title I, §101(b)(2)(A), title II, §205(a)(7), Jan. 19, 2018, 132 Stat. 8, 21; Pub. L. 118–49, §25(b), Apr. 20, 2024, 138 Stat. 893.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +87,12 @@ In this subchapter:
 Section 1805b of this title, referred to in par. (8)(B)(iii), was repealed by Pub. L. 110–261, title IV, §403(a)(1)(A), July 10, 2008, 122 Stat. 2473.
 
 #### Amendments
+
+<b>2024</b>—Par. (6)(E). Pub. L. 118–49, §25(b)(3), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Par. (6)(F). Pub. L. 118–49, §25(b)(1), (2), redesignated subpar. (E) as (F) and struck out "or" at end. Former subpar. (F) redesignated (G).
+
+Par. (6)(G). Pub. L. 118–49, §25(b)(1), (4), redesignated subpar. (F) as (G), inserted "custodian," after "employee,", and substituted "(D), (E), or (F)" for "(D), or (E)".
 
 <b>2018</b>—Par. (7). Pub. L. 115–118, §205(a)(7), made technical amendment to reference in original act which appears in text as reference to section 3003(4) of this title.
 

@@ -36,7 +36,7 @@ The Commission shall publish rules for the implementation of this section, in ac
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, asadded by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 

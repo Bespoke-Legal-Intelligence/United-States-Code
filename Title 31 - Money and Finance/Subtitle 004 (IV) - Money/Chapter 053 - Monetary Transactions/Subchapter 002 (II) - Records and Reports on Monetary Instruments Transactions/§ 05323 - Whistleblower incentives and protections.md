@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered judicial or administrative action.—The term "covered judicial or administrative action" means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the"Secretary") or the Attorney General under this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .),<sup>1</sup> and for conspiracies to violate the aforementioned provisions that results in monetary sanctions exceeding $1,000,000.
+Covered judicial or administrative action.—The term "covered judicial or administrative action" means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the "Secretary") or the Attorney General under this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), or .),<sup>1</sup> and for conspiracies to violate the aforementioned provisions that results in monetary sanctions exceeding $1,000,000.
 
 &emsp;(2)
 
@@ -106,7 +106,7 @@ Additional amounts.—If the amounts deposited into or credited to the Fund unde
 
 &emsp;&emsp;(C)
 
-Exception.—No amounts to be deposited or transferred into the United States Victims of State Sponsored Terrorism Fund pursuant to the Justice for United StatesVictims of State Sponsored Terrorism Act (34 U.S.C. 20144) or the Crime Victims Fund pursuant section 1402 of the Victims of Crime Act of 1984 (34 U.S.C. 20101) shall be deposited into or credited to the Fund.
+Exception.—No amounts to be deposited or transferred into the United States Victims of State Sponsored Terrorism Fund pursuant to the Justice for United States Victims of State Sponsored Terrorism Act (34 U.S.C. 20144) or the Crime Victims Fund pursuant section 1402 of the Victims of Crime Act of 1984 (34 U.S.C. 20101) shall be deposited into or credited to the Fund.
 
 &emsp;(5)
 
@@ -324,7 +324,7 @@ Availability to government agencies.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, chapter 35 or section 4305 or 4312 of title 50,or the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), be made available to—
+In general.—Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901 et seq.), be made available to—
 
 &emsp;&emsp;&emsp;&emsp;(I) any appropriate Federal authority;
 
@@ -376,7 +376,7 @@ Waiver of rights and remedies.—The rights and remedies provided for in this se
 
 &emsp;(2)
 
-Predispute arbitration agreements.—No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
+Predispute arbitration agreements.—No predispute arbitration agreement shall bevalid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
 
 (Added Pub. L. 98–473, title II, §901(e), Oct. 12, 1984, 98 Stat. 2135; amended Pub. L. 116–283, div. F, title LXIII, §6314(a), Jan. 1, 2021, 134 Stat. 4597; Pub. L. 117–328, div. AA, title IV, §401, Dec. 29, 2022, 136 Stat. 5536.)
 

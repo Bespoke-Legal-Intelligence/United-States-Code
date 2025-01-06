@@ -4,6 +4,8 @@ The persons charged with the management of the seal fisheries in Alaska, and the
 
 (R.S. §§1973, 1975; Feb. 14, 1903, ch. 552, §7, 32 Stat. 828; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+
+
 #### <b>Editorial Notes</b>
 
 #### Codification

@@ -46,7 +46,7 @@
 
 #### (B) Exemption from staging
 
-&emsp;&emsp;No staging is required under subparagraph (A) with respect to a duty reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
+&emsp;&emsp;No staging is required under subparagraph (A) with respect to a duty reduction that isproclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
 
 #### (4) Rounding
 
@@ -122,7 +122,7 @@
 
 #### (2) Report to Congress by the President
 
-&emsp;If the President is of the opinion that the trade authorities procedures should be extended to implementing bills described in paragraph (1)(B), the President shall submit to the Congress, not later than April 1, 2005, a written report that contains a request for such extension, together with—
+&emsp;If the President is of the opinion that the trade authorities procedures should be extended to implementing bills described in paragraph (1)(B), the President shall submit tothe Congress, not later than April 1, 2005, a written report that contains a request for such extension, together with—
 
 &emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) and the anticipated schedule for submitting such agreements to the Congress for approval;
 
@@ -150,7 +150,7 @@
 
 #### (5) Extension disapproval resolutions
 
-&emsp;(A) For purposes of paragraph (1), the term "extension disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respect to any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.",with the blank space being filled with the name of the resolving House of the Congress.
+&emsp;(A) For purposes of paragraph (1), the term "extension disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respect to any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.", with the blank space being filled with the name of the resolving House of the Congress.
 
 &emsp;(B) Extension disapproval resolutions—
 

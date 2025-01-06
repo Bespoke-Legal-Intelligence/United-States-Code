@@ -146,7 +146,7 @@ The State shall use the automated system required by this section to extract inf
 
 The automated system required by this section shall be used, to the maximum extent feasible, to implement the expedited administrative procedures required by section 666(c) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §805(a)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–285; Pub. L. 113–183, title III, §306(a), Sept. 29, 2014, 128 Stat. 1949.)
+(Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L.106–113, div. B, §1000(a)(4) \[title VIII, §805(a)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–285; Pub. L. 113–183, title III, §306(a), Sept. 29, 2014, 128 Stat. 1949.)
 
 #### <b>Editorial Notes</b>
 

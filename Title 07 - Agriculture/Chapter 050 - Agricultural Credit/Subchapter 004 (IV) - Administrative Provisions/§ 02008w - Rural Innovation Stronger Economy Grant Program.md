@@ -102,7 +102,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) investment organizations, including venture development organizations, venture capital firms, revolving loan funders, angel investment groups, community lenders, community development financial institutions, rural business investment companies, small business investment companies (as defined in section 662 of title 15), philanthropic organizations, and other institutions focused on expanding access to capital, are committed partners in the jobs accelerator partnership and willing to potentially invest in projects emerging from the jobs accelerator; and
 
-&emsp;&emsp;&emsp;(ii) institutions of higher education, applied research institutions, workforce development entities, and community-based organizations are willing to partner with the jobs accelerator to provide workers with skills relevant to the industry cluster needs of the region, with an emphasis on the use of on-the-job training, registered apprenticeships, customized training,classroom occupational training, or incumbent worker training;
+&emsp;&emsp;&emsp;(ii) institutions of higher education, applied research institutions, workforce development entities, and community-based organizations are willing to partner with the jobs accelerator to provide workers with skills relevant to the industry cluster needs of the region, with an emphasis on the use of on-the-job training, registered apprenticeships, customized training, classroom occupational training, or incumbent worker training;
 
 &emsp;&emsp;(B) the ability of the eligible entity to provide the non-Federal share as required under paragraph (2);
 

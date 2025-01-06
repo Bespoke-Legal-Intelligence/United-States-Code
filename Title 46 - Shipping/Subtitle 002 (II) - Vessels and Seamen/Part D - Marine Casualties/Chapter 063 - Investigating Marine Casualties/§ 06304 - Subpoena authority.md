@@ -2,11 +2,11 @@
 
 (a) In an investigation under this chapter, the attendance and testimony of witnesses, including parties in interest, and the production of any evidence may be compelled by subpoena. The subpoena authority granted by this section is coextensive with that of a district court of the United States, in civil matters, for the district in which the investigation is conducted.
 
-(b) When a person fails to obey a subpoena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpoena. The court may punish as contempt any disobedience of its order.
+(b) When a person fails to obey a subpoena issued under this section, the district court ofthe United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpoena. The court may punish as contempt any disobedience of its order.
 
 (c) A witness complying with a subpoena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
 
-(d) An official designated to conduct an investigation under this part may issue subpoenas asprovided in this section and administer oaths to witnesses.
+(d) An official designated to conduct an investigation under this part may issue subpoenas as provided in this section and administer oaths to witnesses.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 538; Pub. L. 117–263, div. K, title CXVIII, §11807(a), Dec. 23, 2022, 136 Stat. 4165.)
 

@@ -20,7 +20,7 @@ Efforts described in subsection (a)(1) may include—
 
 #### (c) Outreach strategy
 
-Not later than 180 days after the date of the enactment of the National Ocean Exploration Act,<sup>1</sup> the Administrator of the National Oceanic and Atmospheric Administration shall develop an outreach strategy to broadly disseminate information on the discoveries made by the program under section 3402 of this title.
+Not later than 180 days after the date of the enactment of the National Ocean ExplorationAct,<sup>1</sup> the Administrator of the National Oceanic and Atmospheric Administration shall develop an outreach strategy to broadly disseminate information on the discoveries made by the program under section 3402 of this title.
 
 (Pub. L. 111–11, title XII, §12004, as added Pub. L. 117–263, div. J, title CIII, §10305(e)(1), Dec. 23, 2022, 136 Stat. 3973.)
 

@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(v) the trust is a charitable lead annuity trust (within the meaning of section 2642(e)(3)(A)) or a charitable remainder annuity trust or a charitable remainder unitrust (within the meaning of section 664(d)), or
 
-&emsp;&emsp;&emsp;(vi) the trust is a trust with respect to which a deduction was allowed under section 2522 for the amount of an interest in the form of the right to receive annual payments of a fixed percentage of the net fair market value of the trust property (determined yearly) and which is required to pay principal to a non-skip person if such person is alive when the yearly payments for which the deduction was allowed terminate.
+&emsp;&emsp;&emsp;(vi) the trust is a trust with respect to which a deduction was allowed under section 2522 for the amount of an interest in the form of the right to receive annual payments of a fixed percentage of the net fair market value of the trust property\(determined yearly) and which is required to pay principal to a non-skip person if such person is alive when the yearly payments for which the deduction was allowed terminate.
 
 > &emsp;&emsp;For purposes of this subparagraph, the value of transferred property shall not be considered to be includible in the gross estate of a non-skip person or subject to a right of withdrawal by reason of such person holding a right to withdraw so much of such property as does not exceed the amount referred to in section 2503(b) with respect to any transferor, and it shall be assumed that powers of appointment held by non-skip persons will not be exercised.
 

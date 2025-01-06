@@ -6,7 +6,7 @@ Any officer or employee, while assigned or detailed under section 2387 or 2388 o
 
 #### (b) Representation allowances
 
-Any officer or employee assigned, detailed, or appointed under section 2387, 2388, 2391, or 2384(d) <sup>1</sup> of this title is authorized to receive under such regulations as the President may prescribe, representation allowances similar to those allowed under section 4085 of this title. The authorization of such allowances and other benefits and the payment thereof out of any appropriations available therefor shall be considered as meeting all the requirements of section 5536 of title 5.
+Any officer or employee assigned, detailed, or appointed under section 2387, 2388, 2391, or 2384(d) <sup>1</sup> of this title is authorized to receive under such regulations as the President may prescribe, representation allowances similar tothose allowed under section 4085 of this title. The authorization of such allowances and other benefits and the payment thereof out of any appropriations available therefor shall be considered as meeting all the requirements of section 5536 of title 5.
 
 (Pub. L. 87–195, pt. III, §629, Sept. 4, 1961, 75 Stat. 452; Pub. L. 87–565, pt. III, §302(d), Aug. 1, 1962, 76 Stat. 262; Pub. L. 90–137, pt. III, §302(f), Nov. 14, 1967, 81 Stat. 460; Pub. L. 96–465, title II, §2203(b), Oct. 17, 1980, 94 Stat. 2159.)
 

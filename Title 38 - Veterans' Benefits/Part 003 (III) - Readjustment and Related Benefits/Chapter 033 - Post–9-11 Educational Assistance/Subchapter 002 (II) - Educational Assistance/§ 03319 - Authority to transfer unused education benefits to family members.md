@@ -26,7 +26,7 @@ Transfer.—An individual approved to transfer an entitlement to educational ass
 
 &emsp;(2)
 
-Definition of eligible dependent.—For purposes of this subsection, the term "eligible dependent" has the meaning given the term "dependent" under subparagraphs (A), (I), and (D) of section 1072(2) of title 10.
+Definition of eligible dependent.—For purposes of this subsection, the term "eligibledependent" has the meaning given the term "dependent" under subparagraphs (A), (I), and (D) of section 1072(2) of title 10.
 
 (d)
 
@@ -124,7 +124,7 @@ In general.—The death of an individual transferring an entitlement under this 
 
 Death prior to transfer to designated transferees.—(i) In the case of an eligible individual whom the Secretary has approved to transfer the individual's entitlement under this section who, at the time of death, is entitled to educational assistance under this chapter and has designated a transferee or transferees under subsection (e) but has not transferred all of such entitlement to such transferee or transferees, the Secretary shall transfer the entitlement of the individual under this section by evenly distributing the amount of such entitlement between all such transferees who would not be precluded from using some or all of the transferred benefits due to the expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title, notwithstanding the limitations under subsection (f).
 
-&emsp;&emsp;(ii) If a transferee cannot use all of the transferred benefits under clause (i) because of expiration of a time limitation, the unused benefits will be distributed among the other designated transferees who would not be precluded from using some or all of the transferred benefits due to expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title, unless or until there are no transferees who would not be precluded from using the transferred benefits because of expiration of a time limitation.
+&emsp;&emsp;(ii) If a transferee cannot use all of the transferred benefits under clause (i) becauseof expiration of a time limitation, the unused benefits will be distributed among the other designated transferees who would not be precluded from using some or all of the transferred benefits due to expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title, unless or until there are no transferees who would not be precluded from using the transferred benefits because of expiration of a time limitation.
 
 &emsp;(5)
 
@@ -140,7 +140,7 @@ Primary caregivers of seriously injured members of the armed forces and veterans
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran ormember of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
+In general.—Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -186,7 +186,7 @@ Overpayment.—
 
 &emsp;(1)
 
-Joint and several liability.—In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
+Joint and several liability.—Subject to paragraph (2), in the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of this title.
 
 &emsp;(2)
 
@@ -194,15 +194,15 @@ Failure to complete service agreement.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
+Sole liability.—Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of section 3685 of this title.
 
 &emsp;&emsp;(B)
 
-Exception.—Subparagraph (A) shall not apply in the case of an individual who fails to complete service agreed to by the individual—
+Exception.—Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 3685 of this title in the case of an individual who fails to complete service agreed to by the individual—
 
 &emsp;&emsp;&emsp;(i) by reason of the death of the individual; or
 
-&emsp;&emsp;&emsp;(ii) for a reason referred to in section 3311(c)(4).
+&emsp;&emsp;&emsp;(ii) for a reason referred to in section 3311(c)(4) of this title.
 
 (j)
 
@@ -224,13 +224,21 @@ Additional Transfer Upon Death of Dependent.—In the case of a dependent to who
 
 (l)
 
-Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who diesbefore the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
+Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941; Pub. L. 117–297, §3, Dec. 27, 2022, 136 Stat. 4376; Pub. L. 117–328, div. U, title II, §214(a), Dec. 29, 2022, 136 Stat. 5454; Pub. L. 117–333, §3(b)(2), Jan. 5, 2023, 136 Stat. 6126.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941; Pub. L. 117–297, §3, Dec. 27, 2022, 136 Stat. 4376; Pub. L. 117–328, div. U, title II, §214(a), Dec. 29, 2022, 136 Stat. 5454; Pub. L. 117–333, §3(b)(2), Jan. 5, 2023, 136 Stat. 6126; Pub. L. 118–210, title II, §203, Jan. 2, 2025, 138 Stat. 2762.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (i)(1). Pub. L. 118–210, §203(1), substituted "Subject to paragraph (2), in the event" for "In the event" and inserted "of this title" after "section 3685".
+
+Subsec. (i)(2)(A). Pub. L. 118–210, §203(2), substituted "Sole liability" for "In general" in heading and "for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of section 3685 of this title" for "under paragraph (1)" in text.
+
+Subsec. (i)(2)(B). Pub. L. 118–210, §203(3)(A), substituted "Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 3685 of this title" for "Subparagraph (A) shall not apply" in introductory provisions.
+
+Subsec. (i)(2)(B)(ii). Pub. L. 118–210, §203(3)(B), inserted "of this title" after "section 3311(c)(4)".
 
 <b>2023</b>—Subsec. (h)(5)(A). Pub. L. 117–333, §3(b)(2)(A), inserted "or (C)" after "subparagraph (B)".
 

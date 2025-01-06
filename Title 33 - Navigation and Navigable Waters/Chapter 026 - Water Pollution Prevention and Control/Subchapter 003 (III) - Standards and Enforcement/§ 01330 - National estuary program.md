@@ -10,11 +10,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assuresprotection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
+&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
 
 #### (B) Priority consideration
 
-&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington.
+&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida.
 
 #### (3) Boundary dispute exception
 
@@ -66,7 +66,7 @@ In developing a conservation and management plan under this section, the managem
 
 #### (e) Period of conference
 
-A management conference convened under this section shall be convened for a period not to exceed 5 years. Such conference may be extended by the Administrator, and if terminatedafter the initial period, may be reconvened by the Administrator at any time thereafter, as may be necessary to meet the requirements of this section.
+A management conference convened under this section shall be convened for a period not to exceed 5 years. Such conference may be extended by the Administrator, and if terminated after the initial period, may be reconvened by the Administrator at any time thereafter, as may be necessary to meet the requirements of this section.
 
 #### (f) Approval and implementation of plans
 
@@ -140,7 +140,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021, and $50,000,000 for each of fiscal years 2022 through 2026, for—
+&emsp;There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscalyears 2017 through 2021, and $50,000,000 for each of fiscal years 2022 through 2026, for—
 
 &emsp;&emsp;(A) expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and
 
@@ -154,7 +154,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 #### (B) Competitive awards
 
-&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for afiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
+&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 
 #### (j) Research
 
@@ -186,7 +186,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 For purposes of this section, the terms "estuary" and "estuarine zone" have the meanings such terms have in section 1254(n)(4) of this title, except that the term "estuarine zone" shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253; Pub. L. 114–162, §§1, 2, May 20, 2016, 130 Stat. 409; Pub. L. 116–337, §§2–6, Jan. 13, 2021, 134 Stat. 5120, 5121.)
+(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253; Pub. L. 114–162, §§1, 2, May 20, 2016, 130 Stat. 409; Pub. L. 116–337, §§2–6, Jan. 13, 2021, 134 Stat. 5120, 5121; Pub. L. 118–152, §2, Dec. 17, 2024, 138 Stat. 1686.)
 
 #### <b>Editorial Notes</b>
 
@@ -195,6 +195,8 @@ For purposes of this section, the terms "estuary" and "estuarine zone" have the 
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(B). Pub. L. 118–152 substituted "Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida" for "and Lower Columbia River, Oregon and Washington".
 
 <b>2021</b>—Subsec. (a)(2)(B). Pub. L. 116–337, §2, substituted "Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington" for "and Peconic Bay, New York".
 

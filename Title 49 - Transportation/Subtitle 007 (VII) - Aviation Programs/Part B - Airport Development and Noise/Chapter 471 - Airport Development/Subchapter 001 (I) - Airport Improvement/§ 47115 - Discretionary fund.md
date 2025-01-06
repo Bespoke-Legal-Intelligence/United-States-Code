@@ -88,15 +88,15 @@ Amount of reduction.—For a fiscal year, the total amount available to make a r
 
 (h)
 
-Priority for Letters of Intent.—In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e).
+Priority for Letters of Intent.—In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e) prior to fulfilling intentions to obligate under section 47110(i).
 
 (i)
 
-Marshall Islands, Micronesia, and Palau.—For fiscal years 2018 through 2023, and for the period beginning on October 1, 2023, and ending on March 8, 2024, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+Marshall Islands, Micronesia, and Palau.—For fiscal years 2024 through 2028, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
 
 (j)
 
-Supplemental Discretionary Funds.—
+Airport Safety and Resilient Infrastructure Discretionary Program.—
 
 &emsp;(1)
 
@@ -124,11 +124,21 @@ Eligibility.—The Secretary may provide grants under this subsection for an air
 
 &emsp;&emsp;(B)
 
-Prioritization.—Not less than 50 percent of the amounts available under this subsection shall <sup>1</sup> used to provide grants at—
+Minimum allocation.—Not less than 50 percent of the amounts available under this subsection shall be used to provide grants at nonprimary, nonhub, and small hub airports.
 
-&emsp;&emsp;&emsp;(i) airports that are eligible for apportionment under section 47114(d)(3); and
+&emsp;&emsp;(C)
 
-&emsp;&emsp;&emsp;(ii) nonhub and small hub airports.
+Prioritization.—In making grants for projects eligible under subparagraph (D)(iii), the Secretary shall prioritize grants to large and medium hub airports.
+
+&emsp;&emsp;(D)
+
+Eligibilities.—In making grants under this subsection, the Secretary shall provide grants to airports for projects that—
+
+&emsp;&emsp;&emsp;(i) meet the definition of "airport development" under section 47102(3)(T);
+
+&emsp;&emsp;&emsp;(ii) would otherwise increase the resilience of airport infrastructure against changing flooding or inundation patterns; or
+
+&emsp;&emsp;&emsp;(iii) reduce runway incursions or increase runway or taxiway safety.
 
 &emsp;(4)
 
@@ -138,21 +148,19 @@ Authorization.—
 
 In general.—There is authorized to be appropriated to the Secretary to carry out this subsection the following amounts:
 
-&emsp;&emsp;&emsp;(i) $1,020,000,000 for fiscal year 2019.
+&emsp;&emsp;&emsp;(i) $532,392,074 for fiscal year 2024.
 
-&emsp;&emsp;&emsp;(ii) $1,041,000,000 for fiscal year 2020.
+&emsp;&emsp;&emsp;(ii) $200,000,000 for fiscal year 2025.
 
-&emsp;&emsp;&emsp;(iii) $1,064,000,000 for fiscal year 2021.
+&emsp;&emsp;&emsp;(iii) $200,000,000 for fiscal year 2026.
 
-&emsp;&emsp;&emsp;(iv) $1,087,000,000 for fiscal year 2022.
+&emsp;&emsp;&emsp;(iv) $200,000,000 for fiscal year 2027.
 
-&emsp;&emsp;&emsp;(v) $1,110,000,000 for fiscal year 2023.
-
-&emsp;&emsp;&emsp;(vi) $244,177,049 for the period beginning on October 1, 2023, and ending on March 8, 2024.
+&emsp;&emsp;&emsp;(v) $200,000,000 for fiscal year 2028.
 
 &emsp;&emsp;(B)
 
-Availability.—Sums authorized to be appropriated under subparagraph (A) shall remain available for 2 fiscal years.
+Availability.—Sums authorized to be appropriated under subparagraph (A) shall remain available for 3 fiscal years.
 
 (k)
 
@@ -180,7 +188,11 @@ Nonapplicability of certain sections.—Grants made under this subsection shall 
 
 &emsp;&emsp;(C) any other apportionment formula, special apportionment category, or minimum percentage set forth in this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(e), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(e), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(e), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(e), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(f), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(e), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(e), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(e), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(e), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(e), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(f), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(f), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §144, Feb. 14, 2012, 126 Stat. 29; Pub. L. 114–55, title I, §102(b), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(b), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(b), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(c), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(b), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§117(a), 158, 184(a), Oct. 5, 2018, 132 Stat. 3201, 3219, 3234; Pub. L. 118–15, div. B, title II, §2202(f), (g), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(f), (g), Dec. 26, 2023, 137 Stat. 1113.)
+(l)
+
+Special Carryover Assumption Rule.—Notwithstanding any other provision of law, in addition to amounts made available under paragraphs (1) and (2) of subsection (a), the Secretary may add to the discretionary fund an amount equal to one-third of the apportionment funds made available under section 47114 that were not required during the previous fiscal year pursuant to section 47117(b)(1) out of the anticipated amount of apportionment funds made available under section 47114 that will not be required during the current fiscal year pursuant to section 47117(b)(1).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(e), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(e), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(e), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(e), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(f), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(e), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(e), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(e), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(e), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(e), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(f), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(f), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §144, Feb. 14, 2012, 126 Stat. 29; Pub. L. 114–55, title I, §102(b), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(b), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(b), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(c), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(b), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§117(a), 158, 184(a), Oct. 5, 2018, 132 Stat. 3201, 3219, 3234; Pub. L. 118–15, div. B, title II,§2202(f), (g), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(f), (g), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §102(f), (g), Mar. 8, 2024, 138 Stat. 21; Pub. L. 118–63, title I, §104(b), title VII, §§710(b)(2), 714(a), 715, May 16, 2024, 138 Stat. 1034, 1253, 1257, 1258.)
 
 Historical and Revision Notes
 
@@ -264,6 +276,40 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (g)(1)(B)
 
 #### Amendments
 
+<b>2024</b>—Subsec. (h). Pub. L. 118–63, §710(b)(2), inserted "prior to fulfilling intentions to obligate under section 47110(i)" after "section 47110(e)".
+
+Subsec. (i). Pub. L. 118–63, §104(b), substituted "fiscal years 2024 through 2028," for "fiscal years 2018 through 2023, and for the period beginning on October 1, 2023, and ending on May 10, 2024,".
+
+Pub. L. 118–41, §102(f), substituted "May 10, 2024" for "March 8, 2024".
+
+Subsec. (j). Pub. L. 118–63, §714(a)(1), substituted "Airport Safety and Resilient Infrastructure Discretionary Program" for "Supplemental Discretionary Funds" in heading.
+
+Subsec. (j)(3)(B) to (D). Pub. L. 118–63, §714(a)(2), added subpars. (B) to (D) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Not less than 50 percent of the amounts available under this subsection shall used to provide grants at—
+
+&emsp;"(i) airports that are eligible for apportionment under section 47114(d)(3); and
+
+&emsp;"(ii) nonhub and small hub airports."
+
+Subsec. (j)(4)(A)(i) to (v). Pub. L. 118–63, §714(a)(3), added cls. (i) to (v) and struck out former cls. (i) to (v) which read as follows:
+
+"(i) $1,020,000,000 for fiscal year 2019.
+
+"(ii) $1,041,000,000 for fiscal year 2020.
+
+"(iii) $1,064,000,000 for fiscal year 2021.
+
+"(iv) $1,087,000,000 for fiscal year 2022.
+
+"(v) $1,110,000,000 for fiscal year 2023."
+
+Subsec. (j)(4)(A)(vi). Pub. L. 118–63, §714(a)(3), struck out cl. (vi) which read as follows: "$340,321,762 for the period beginning on October 1, 2023, and ending on May 10, 2024."
+
+Pub. L. 118–41, §102(g), added cl. (vi) and struck out former cl. (vi) which read as follows: "$244,177,049 for the period beginning on October 1, 2023, and ending on March 8, 2024."
+
+Subsec. (j)(4)(B). Pub. L. 118–63, §714(a)(4), substituted "3 fiscal years" for "2 fiscal years".
+
+Subsec. (l). Pub. L. 118–63, §715, added subsec. (l).
+
 <b>2023</b>—Subsec. (i). Pub. L. 118–34, §102(f), substituted "March 8, 2024" for "December 31, 2023".
 
 Pub. L. 118–15, §2202(f), inserted ", and for the period beginning on October 1, 2023, and ending on December 31, 2023" after "fiscal years 2018 through 2023".
@@ -286,7 +332,7 @@ Subsec. (k). Pub. L. 115–254, §184(a), added subsec. (k).
 
 <b>2017</b>—Subsec. (j). Pub. L. 115–63 inserted "and for the period beginning on October 1, 2017, and ending on March 31, 2018" after "fiscal years 2012 through 2017".
 
-<b>2016</b>—Subsec. (j). Pub. L. 114–190 substituted "fiscal years 2012 through 2017," for "fiscal years 2012 through 2015 and for the period beginning on October 1, 2015, and ending on July 15, 2016,".
+<b>2016</b>—Subsec. (j). Pub. L. 114–190 substituted "fiscal years 2012 through 2017," for "fiscal years 2012 through2015 and for the period beginning on October 1, 2015, and ending on July 15, 2016,".
 
 Pub. L. 114–141 substituted "July 15, 2016" for "March 31, 2016".
 
@@ -358,7 +404,7 @@ Pub. L. 104–264, §122, struck out subsec. (f), relating to minimum amount to 
 
 Minimum Amount To Be Credited.—(1) In a fiscal year, at least $325,000,000 of the amount made available under section 48103 of this title shall be credited to the fund. The amount credited is exclusive of amounts that have been apportioned in a prior fiscal year under section 47114 of this title and that remain available for obligation.
 
-"(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than$325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals $325,000,000.
+"(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than $325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals $325,000,000.
 
 "(3) For a fiscal year, the total amount available to reduce to carry out paragraph (2) of this subsection is the total of the amounts determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction."
 
@@ -420,5 +466,11 @@ Amendment by section 5(81)(B) of Pub. L. 104–287 effective Sept. 30, 1998, see
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word "be" probably should appear.</i>
+#### Runway Safety Projects
+
+Pub. L. 118–63, title VII, §748, May 16, 2024, 138 Stat. 1283, provided that: "In awarding grants under section 47115 of title 49, United States Code, for runway safety projects, the Administrator \[of the Federal Aviation Administration\] shall, to the maximum extent practicable—
+
+&emsp;"(1) reduce unnecessary or undesirable project segmentation; and
+
+&emsp;"(2) complete the entire project in an expeditious manner."
 

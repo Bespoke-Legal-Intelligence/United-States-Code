@@ -18,7 +18,7 @@ In this section, the term "officer candidate" has the meaning given the term in 
 
 #### References in Text
 
-The fiscal year in which this Act is enacted, referred to in subsec. (a), means the fiscal year in which Pub. L. 116–259, which added this section, was enacted. Pub. L. 116–259 was approved Dec. 23, 2020.
+The fiscal year in which this Act is enacted, referred to in subsec. (a), means the fiscal year in which Pub. L.116–259, which added this section, was enacted. Pub. L. 116–259 was approved Dec. 23, 2020.
 
 Sections 201(a), 202(a), 203(a), and 305 (c) and (d), referred to in text, mean those respective sections of Pub. L. 116–259.
 

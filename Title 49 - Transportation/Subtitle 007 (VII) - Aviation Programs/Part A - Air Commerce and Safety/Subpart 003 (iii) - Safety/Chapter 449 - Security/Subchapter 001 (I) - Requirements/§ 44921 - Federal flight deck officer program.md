@@ -78,7 +78,7 @@ Training.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator shall base the requirements for the training of Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Administrator shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
+In general.—The Administrator shall base the requirements for the training ofFederal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Administrator shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
 
 &emsp;&emsp;(B)
 
@@ -214,7 +214,7 @@ Liability of air carriers.—An air carrier shall not be liable for damages in a
 
 &emsp;(2)
 
-Liability of federal flight deck officers.—A Federal flight deck officer shall not be liable for damages in any action brought in a Federal or State court arising out of the actsor omissions of the officer in defending the flight deck of an aircraft against acts of criminal violence or air piracy unless the officer is guilty of gross negligence or willful misconduct.
+Liability of federal flight deck officers.—A Federal flight deck officer shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the officer in defending the flight deck of an aircraft against acts of criminal violence or air piracy unless the officer is guilty of gross negligence or willful misconduct.
 
 &emsp;(3)
 

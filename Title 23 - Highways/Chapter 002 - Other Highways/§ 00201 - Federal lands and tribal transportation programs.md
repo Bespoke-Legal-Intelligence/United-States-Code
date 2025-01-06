@@ -162,7 +162,7 @@ Other activities.—In addition to the activities described in subparagraph (A),
 
 (d)
 
-Reimbursable Agreements.—In carrying out work under reimbursable agreements with any State, local, or tribal government under this title, the Secretary—
+Reimbursable Agreements.—In carrying out work under reimbursable agreements withany State, local, or tribal government under this title, the Secretary—
 
 &emsp;(1) may, without regard to any other provision of law (including regulations), record obligations against accounts receivable from the entity; and
 

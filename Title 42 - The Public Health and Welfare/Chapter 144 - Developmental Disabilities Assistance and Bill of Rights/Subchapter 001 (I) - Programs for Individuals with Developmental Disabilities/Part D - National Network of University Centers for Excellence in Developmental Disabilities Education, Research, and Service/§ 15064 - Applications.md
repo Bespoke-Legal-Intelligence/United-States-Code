@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under section 15061(a) of this title for a Center, an entity shall submit to the Secretary, and obtain approval of, an application at such time, in such manner, and containing such information, as the Secretary may require.
+&emsp;To be eligible to receive a grant under section 15061(a) of this title for a Center, an entity shall submit to the Secretary, and obtain approval of, an application at such time, insuch manner, and containing such information, as the Secretary may require.
 
 #### (2) Application contents
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) a representative of a self-advocacy organization described in section 15024(c)(4)(A)(ii)(I) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) representatives of organizations that may include parent training and information centers assisted under section 1471 or 1472 of title 20, entities carrying out activities authorized under section3003 or 3004 of title 29, relevant State agencies, and other community groups concerned with the welfare of individuals with developmental disabilities and their families;
+&emsp;&emsp;&emsp;&emsp;(VI) representatives of organizations that may include parent training and information centers assisted under section 1471 or 1472 of title 20, entities carrying out activities authorized under section 3003 or 3004 of title 29, relevant State agencies, and other community groups concerned with the welfare of individuals with developmental disabilities and their families;
 
 &emsp;&emsp;&emsp;(iii) that reflects the racial and ethnic diversity of the State; and
 

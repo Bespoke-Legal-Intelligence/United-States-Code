@@ -52,7 +52,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 #### (e) Lien
 
-The right of recovery of the United States under subsection (a) shall not constitute a lien on any facility with respect to which funds have been paid under section 291f of this title.
+The right of recovery of the United States under subsection (a) shall not constitute a lienon any facility with respect to which funds have been paid under section 291f of this title.
 
 (July 1, 1944, ch. 373, title VI, §609, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 456; amended Pub. L. 91–296, title I §116(d), June 30, 1970, 84 Stat. 342; Pub. L. 98–369, div. B, title III, §2381(a), July 18, 1984, 98 Stat. 1112.)
 

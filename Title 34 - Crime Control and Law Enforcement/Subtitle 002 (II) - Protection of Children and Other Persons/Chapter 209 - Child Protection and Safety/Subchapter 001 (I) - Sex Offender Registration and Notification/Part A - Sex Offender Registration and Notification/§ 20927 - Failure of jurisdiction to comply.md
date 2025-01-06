@@ -20,7 +20,7 @@ For any fiscal year after the end of the period for implementation, a jurisdicti
 
 #### (4) Funding reduction
 
-&emsp;If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subjectto a funding reduction as specified in subsection (a).
+&emsp;If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subject to a funding reduction as specified in subsection (a).
 
 #### (c) Reallocation
 

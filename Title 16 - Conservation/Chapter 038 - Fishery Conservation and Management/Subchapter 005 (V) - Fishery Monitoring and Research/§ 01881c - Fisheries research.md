@@ -14,7 +14,7 @@ Within one year after October 11, 1996, and at least every 3 years thereafter, t
 
 &emsp;(3) provide a role for commercial fishermen in such research, including involvement in field testing;
 
-&emsp;(4) provide for collection and dissemination, in a timely manner, of complete and accurate information concerning fishing activities, catch, effort, stock assessments, and other research conducted under this section; and
+&emsp;(4) provide for collection and dissemination, in a timely manner, of complete and accurateinformation concerning fishing activities, catch, effort, stock assessments, and other research conducted under this section; and
 
 &emsp;(5) be developed in cooperation with the Councils and affected States, and provide for coordination with the Councils, affected States, and other research entities.
 
@@ -76,5 +76,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Study of Contribution of Bycatch to Charitable Organizations
 
-Pub. L. 104–297, title II, §208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the Secretary of Commerce was to conduct a study, to be submitted to Congress by 1 year after Oct. 11, 1996, of the contribution of bycatch to charitable organizations by commercial fishermen, including determinations of the amount contributed each year, the economic benefits to commercial fishermen from those contributions, and the impact on fisheries of the availability of those benefits.
+Pub. L. 104–297, title II, §208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the Secretary of Commerce wasto conduct a study, to be submitted to Congress by 1 year after Oct. 11, 1996, of the contribution of bycatch to charitable organizations by commercial fishermen, including determinations of the amount contributed each year, the economic benefits to commercial fishermen from those contributions, and the impact on fisheries of the availability of those benefits.
 

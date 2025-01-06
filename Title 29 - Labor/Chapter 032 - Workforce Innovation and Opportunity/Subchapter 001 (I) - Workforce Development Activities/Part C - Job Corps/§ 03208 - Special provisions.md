@@ -12,7 +12,7 @@ The Secretary shall assure that all studies, evaluations, proposals, and data pr
 
 #### (1) In general
 
-&emsp;Notwithstanding chapter 5 of title 40, and any other provision of law, the Secretary andthe Secretary of Education shall receive priority by the Secretary of Defense for the direct transfer, on a nonreimbursable basis, of the property described in paragraph (2) for use in carrying out programs under this Act or under any other Act.
+&emsp;Notwithstanding chapter 5 of title 40, and any other provision of law, the Secretary and the Secretary of Education shall receive priority by the Secretary of Defense for the direct transfer, on a nonreimbursable basis, of the property described in paragraph (2) for use in carrying out programs under this Act or under any other Act.
 
 #### (2) Property
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, if the Administrator of General Serv
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of thistitle and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

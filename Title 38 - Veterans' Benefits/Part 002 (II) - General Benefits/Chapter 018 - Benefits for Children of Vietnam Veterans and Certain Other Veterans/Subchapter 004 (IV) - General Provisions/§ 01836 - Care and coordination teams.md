@@ -14,7 +14,7 @@ Outreach.—A care and coordination team established under subsection (a) shall 
 
 (c)
 
-Report.—Not later than 180 days after the date of the enactment of this section, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committeeon Veterans' Affairs of the House of Representatives a report setting forth a list of conditions that will trigger outreach to covered children under subsection (b)(2).
+Report.—Not later than 180 days after the date of the enactment of this section, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report setting forth a list of conditions that will trigger outreach to covered children under subsection (b)(2).
 
 (Added Pub. L. 118–18, §1(b), Oct. 6, 2023, 137 Stat. 103.)
 

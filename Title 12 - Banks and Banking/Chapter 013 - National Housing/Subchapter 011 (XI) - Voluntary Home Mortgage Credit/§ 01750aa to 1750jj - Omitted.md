@@ -6,7 +6,7 @@
 
 Section 1750aa, act Aug. 2, 1954, ch. 649, title VI, §601, 68 Stat. 637, contained a declaration of policy for voluntary home mortgage credit.
 
-Section 1750bb, acts Aug. 2, 1954, ch. 649, title VI, §602, 68 Stat. 637; Sept. 2, 1958, Pub. L. 85–857, §13(s)(1), 72Stat. 1266, defined "Insured or guaranteed mortgage loan", "Private financing institutions", "Administrator", and "State".
+Section 1750bb, acts Aug. 2, 1954, ch. 649, title VI, §602, 68 Stat. 637; Sept. 2, 1958, Pub. L. 85–857, §13(s)(1), 72 Stat. 1266, defined "Insured or guaranteed mortgage loan", "Private financing institutions", "Administrator", and "State".
 
 Section 1750cc, acts Aug. 2, 1954, ch. 649, title VI, §603, 68 Stat. 637; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640, provided for establishment and composition of National Voluntary Mortgage Credit Extension Committee.
 

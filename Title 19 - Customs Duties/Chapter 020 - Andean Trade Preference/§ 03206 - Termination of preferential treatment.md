@@ -50,7 +50,7 @@ Pub. L. 110–191 substituted "December 31, 2008" for "February 29, 2008".
 
 <b>2007</b>—Pub. L. 110–42 struck out subsec. (a) designation and heading at beginning of section, substituted "No" for "Subject to subsection (b), no" and "February 29, 2008" for "June 30, 2007", and struck out subsec. (b), which provided for certain conditional extensions.
 
-<b>2006</b>—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, substituted "Subject tosubsection (b), no" for "No" and "June 30, 2007" for "December 31, 2006", and added subsec. (b).
+<b>2006</b>—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, substituted "Subject to subsection (b), no" for "No" and "June 30, 2007" for "December 31, 2006", and added subsec. (b).
 
 <b>2002</b>—Pub. L. 107–210 substituted "Termination of preferential treatment" for "Effective date and termination of duty-free treatment" in section catchline and amended text generally, substituting provisions establishing a termination date of Dec. 31, 2006, for preferential treatment under this chapter for provisions designated subsecs. (a) and (b) establishing an effective date of Dec. 4, 1991, for this chapter and a termination date 10 years later for duty-free treatment under this chapter.
 

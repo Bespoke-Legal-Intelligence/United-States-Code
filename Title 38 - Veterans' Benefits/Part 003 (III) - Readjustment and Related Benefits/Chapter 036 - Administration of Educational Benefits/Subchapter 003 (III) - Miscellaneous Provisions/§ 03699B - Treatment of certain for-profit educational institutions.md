@@ -6,7 +6,7 @@ In General.—In the case of any for-profit educational institution that is conv
 
 (b)
 
-Risk-based Survey Defined.—In this section, the term "risk-based survey" means therisk-based survey developed under section 3673A of this title.
+Risk-based Survey Defined.—In this section, the term "risk-based survey" means the risk-based survey developed under section 3673A of this title.
 
 (Added Pub. L. 116–315, title I, §1022(a), Jan. 5, 2021, 134 Stat. 4959.)
 

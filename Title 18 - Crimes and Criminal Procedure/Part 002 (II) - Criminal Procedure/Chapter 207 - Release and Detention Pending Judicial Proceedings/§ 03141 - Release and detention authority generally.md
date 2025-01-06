@@ -18,7 +18,7 @@ A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (b), substituted "authorized to order the arrest of a personunder section 3041 of this title before whom an arrested person is brought shall order that such person be released" for "who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released" and "under this chapter" for "pursuant to the provisions of this chapter".
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (b), substituted "authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released" for "who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released" and "under this chapter" for "pursuant to the provisions of this chapter".
 
 Subsec. (b). Pub. L. 99–646, §55(a), substituted "under this chapter" for "pursuant to the provisions of this chapter".
 
@@ -50,5 +50,5 @@ Pub. L. 89–465, §1, June 22, 1966, 80 Stat. 214, provided: "That this Act \[e
 
 #### Purpose of Bail Reform Act of 1966
 
-Pub. L. 89–465, §2, June 22, 1966, 80 Stat. 214, provided that: "The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest."
+Pub. L. 89–465, §2, June 22, 1966, 80 Stat. 214, provided that: "The purpose of this Act \[enacting sections 3146to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest."
 

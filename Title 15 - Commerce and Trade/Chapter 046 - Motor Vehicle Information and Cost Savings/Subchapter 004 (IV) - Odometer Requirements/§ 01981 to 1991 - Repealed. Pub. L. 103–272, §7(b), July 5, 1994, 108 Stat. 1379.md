@@ -8,7 +8,7 @@ Section 1983, Pub. L. 92–513, title IV, §403, Oct. 20, 1972, 86 Stat. 962; Pu
 
 Section 1984, Pub. L. 92–513, title IV, §404, Oct. 20, 1972, 86 Stat. 962; Pub. L. 94–364, title IV, §403, July 14, 1976, 90 Stat. 983, prohibited change of mileage indicated on odometer. See section 32703 of Title 49.
 
-Section 1985, Pub. L. 92–513, title IV, §405, Oct. 20, 1972, 86 Stat. 962; Pub. L. 94–364, title IV, §404, July 14, 1976, 90 Stat. 983, prohibited operation of motor vehicle, with intent to defraud, by person knowing of disconnected or nonfunctional odometer. See section 32703 of Title 49.
+Section 1985, Pub. L. 92–513, title IV, §405, Oct. 20, 1972, 86 Stat. 962; Pub. L. 94–364, title IV, §404, July 14, 1976, 90 Stat. 983, prohibited operation of motor vehicle,with intent to defraud, by person knowing of disconnected or nonfunctional odometer. See section 32703 of Title 49.
 
 Section 1986, Pub. L. 92–513, title IV, §406, Oct. 20, 1972, 86 Stat. 962, prohibited any person from conspiring with any other person to violate sections 1983 to 1985, 1987, or 1988 of this title. See section 32703 of Title 49.
 

@@ -11,12 +11,15 @@
 | [1746a.](%C2%A7%2001746a%20-%20Acquisition%20workforce%20educational%20partnerships.md) | Acquisition workforce educational partnerships. |
 | [1747\.](%C2%A7%2001747%20-%20Acquisition%20fellowship%20program.md) | Acquisition fellowship program. |
 | [1748\.](%C2%A7%2001748%20-%20Fulfillment%20standards%20for%20acquisition%20workforce%20training.md) | Fulfillment standards for acquisition workforce training. |
+| [1749\.](%C2%A7%2001749%20-%20Field%20training%20for%20acquisition%20and%20sustainment.md) | Field training for acquisition and sustainment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title VIII, §832(b), Dec. 23, 2024, 138 Stat. 1986, which directed amendment ofanalysis for chapter 87 of this title by adding item 1749 after item 1748, was executed to analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2022</b>—Pub. L. 117–263, div. A, title VIII, §801(b), Dec. 23, 2022, 136 Stat. 2693, which directed amendment of analysis for chapter 87 of this title by adding item 1743 after item 1742, was executed to analysis for this subchapter to reflect the probable intent of Congress.
 
@@ -42,3 +45,4 @@
 - [&sect; 01746a - Acquisition workforce educational partnerships](%C2%A7%2001746a%20-%20Acquisition%20workforce%20educational%20partnerships.md)
 - [&sect; 01747 - Acquisition fellowship program](%C2%A7%2001747%20-%20Acquisition%20fellowship%20program.md)
 - [&sect; 01748 - Fulfillment standards for acquisition workforce training](%C2%A7%2001748%20-%20Fulfillment%20standards%20for%20acquisition%20workforce%20training.md)
+- [&sect; 01749 - Field training for acquisition and sustainment](%C2%A7%2001749%20-%20Field%20training%20for%20acquisition%20and%20sustainment.md)

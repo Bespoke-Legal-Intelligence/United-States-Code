@@ -18,7 +18,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;(D) Satisfaction of—
 
-&emsp;&emsp;(i) liens for freight, charges, and contributions in general average, notice of which hasbeen filed with the appropriate Customs officer according to law; and
+&emsp;&emsp;(i) liens for freight, charges, and contributions in general average, notice of which has been filed with the appropriate Customs officer according to law; and
 
 &emsp;&emsp;(ii) subject to the discretion of the Secretary, other valid liens and mortgages against property that has been forfeited pursuant to any law enforced or administered by a Department of the Treasury law enforcement organization. To determine the validity of any such lien or mortgage, the amount of payment to be made, and to carry out the functions described in this subparagraph, the Secretary may employ and compensate attorneys and other personnel skilled in State real estate law.
 
@@ -100,7 +100,7 @@ Limitations.—
 
 &emsp;&emsp;(A) has a value that bears a reasonable relationship to the degree of participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
 
-&emsp;&emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
+&emsp;&emsp;(B) will serve to encourage further cooperation between the recipient State orlocal agency and Federal law enforcement agencies.
 
 &emsp;(5) Amounts transferred by the Attorney General pursuant to section 524(c)(1) of title 28, or by the Postmaster General pursuant to section 2003 of title 39, and deposited into the Fund pursuant to subsection (d), shall be available for Federal law enforcement related purposes of the Department of the Treasury law enforcement organizations.
 
@@ -206,7 +206,7 @@ Appropriations.—
 
 &emsp;(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) <sup>1</sup> and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
-&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congressare notified at least 15 days in advance of such obligation or expenditure.
+&emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
 (h)
 
@@ -300,7 +300,7 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21\(§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 

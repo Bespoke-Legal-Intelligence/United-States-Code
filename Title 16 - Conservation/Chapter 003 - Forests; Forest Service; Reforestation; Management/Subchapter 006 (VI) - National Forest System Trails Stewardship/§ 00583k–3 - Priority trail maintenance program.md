@@ -32,7 +32,7 @@ In selecting priority areas, the Secretary shall—
 
 #### (1) In general
 
-&emsp;Within 6 months of the selection of priority areas under subsection (a), and in accordance with paragraph (2), the Secretary shall develop an approach to substantially increase trail maintenance accomplishments within each priority area.
+&emsp;Within 6 months of the selection of priority areas under subsection (a), and in accordance with paragraph (2), the Secretary shall develop an approach to substantially increase trailmaintenance accomplishments within each priority area.
 
 #### (2) Contents
 

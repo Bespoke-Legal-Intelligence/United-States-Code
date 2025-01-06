@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term "marine highway transportation" means the carriage by a documented vessel of cargo (including such carriage of cargo and passengers), if such cargo—
+&emsp;(1) The term "marine highway transportation" means the carriage by a documentedvessel of cargo (including such carriage of cargo and passengers), if such cargo—
 
 &emsp;&emsp;(A) is—
 
@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;&emsp;(B) is—
 
-&emsp;&emsp;&emsp;(i) loaded at a port in the United States and unloaded either at another port in theUnited States or at a port in Canada or Mexico; or
+&emsp;&emsp;&emsp;(i) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada or Mexico; or
 
 &emsp;&emsp;&emsp;(ii) loaded at a port in Canada or Mexico and unloaded at a port in the United States.
 

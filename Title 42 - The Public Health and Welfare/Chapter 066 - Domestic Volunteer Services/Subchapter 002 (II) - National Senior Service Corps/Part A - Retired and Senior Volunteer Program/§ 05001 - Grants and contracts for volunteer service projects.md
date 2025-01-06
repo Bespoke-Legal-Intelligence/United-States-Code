@@ -14,7 +14,7 @@ In order to help retired individuals and working older individuals to share thei
 
 #### (b) Proportion of required local contribution; exceptions
 
-In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistanceunder this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
+In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
 
 #### (c) Conditions upon award of grant or contract
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 #### (g) Performance measures, outcomes, and other criteria
 
-(1) The Corporation shall, with particular attention to the different needs of rural and urbanprograms assisted under this section, develop performance measures, outcomes, and other criteria for programs assisted under this section that—
+(1) The Corporation shall, with particular attention to the different needs of rural and urban programs assisted under this section, develop performance measures, outcomes, and other criteria for programs assisted under this section that—
 
 &emsp;(A) include an assessment of the strengths and areas in need of improvement of a program assisted under this section;
 
@@ -152,7 +152,7 @@ Subsec. (a)(3), (4). Pub. L. 101–204, §902(2)(B), substituted "project" for "
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288, §14(a), substituted "the Director" for "he" in two places in provisions before par. (1).
 
-Subsec. (b). Pub. L. 98–288, §14(b), substituted "and 30 per centum in any subsequent such years" for "30 per centum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years".
+Subsec. (b). Pub. L. 98–288, §14(b), substituted "and 30 per centum in any subsequent such years" for "30 percentum in the third such year, 40 per centum in the fourth such year, and 50 per centum in any subsequent such years".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–478, §402(a)(1), substituted reference to section "3025(a)(1)" for "3024(a)(1)" of this title.
 

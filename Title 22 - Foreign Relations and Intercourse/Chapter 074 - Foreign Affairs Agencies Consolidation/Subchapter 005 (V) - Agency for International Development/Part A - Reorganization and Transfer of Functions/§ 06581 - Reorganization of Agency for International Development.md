@@ -6,7 +6,7 @@ The Agency for International Development shall be reorganized in accordance with
 
 #### (b) Functions to be transferred
 
-The reorganization of the Agency for International Development shall provide, at a minimum, for the transfer to and consolidation with the Department of State of the following functions of AID:
+The reorganization of the Agency for International Development shall provide, at a minimum, for the transfer to and consolidation withthe Department of State of the following functions of AID:
 
 &emsp;(1) The Press office.
 

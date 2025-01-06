@@ -70,7 +70,7 @@ In this section:
 
 #### (2) Objection
 
-&emsp;The United States trustee may object to applications filed under section 2176 or 2177 ofthis title that fail to satisfy the requirements of subsection (b).
+&emsp;The United States trustee may object to applications filed under section 2176 or 2177 of this title that fail to satisfy the requirements of subsection (b).
 
 #### (e) Limitation on compensation
 

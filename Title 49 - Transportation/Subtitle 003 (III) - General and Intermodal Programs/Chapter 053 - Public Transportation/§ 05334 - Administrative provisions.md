@@ -32,11 +32,11 @@ Prohibitions Against Regulating Operations and Charges.—
 
 &emsp;(1)
 
-In general.—Except for purposes of national defense or in the event of a national orregional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
+In general.—Except for purposes of national defense or in the event of a national or regional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
 
 &emsp;(2)
 
-Limitation on statutory construction.—Nothing in this subsection shall be construed to prevent the Secretary from requiring a recipient of funds under this chapter to comply with the terms and conditions of its Federal assistance agreement.
+Limitation on statutory construction.—Nothing in this subsection shall be construed to prevent the Secretary from requiringa recipient of funds under this chapter to comply with the terms and conditions of its Federal assistance agreement.
 
 (c)
 
@@ -182,7 +182,7 @@ In general.—The Administrator of the Federal Transit Administration shall foll
 
 Binding obligation defined.—In this subsection, the term "binding obligation" means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(o)(3), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–141, div. B, §§20024, 20030(i), July 6, 2012, 126 Stat. 718, 731; Pub. L. 117–58, div. C, §30013, Nov. 15, 2021, 135 Stat. 909; Pub. L. 117–81, div. F, title LXVI, §6609, Dec. 27, 2021, 135 Stat. 2446.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(o)(3), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–141, div. B, §§20024, 20030(i), July 6, 2012, 126 Stat. 718, 731;Pub. L. 117–58, div. C, §30013, Nov. 15, 2021, 135 Stat. 909; Pub. L. 117–81, div. F, title LXVI, §6609, Dec. 27, 2021, 135 Stat. 2446.)
 
 Historical and Revision Notes
 
@@ -274,7 +274,7 @@ In subsection (g)(1), before clause (A), the words "facilities and equipment and
 
 In subsection (g)(3), the words "and not in lieu of" are omitted as surplus.
 
-Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a)\(1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
+Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a) (1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
 
 Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(e)) to eliminate unnecessary words.
 

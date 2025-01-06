@@ -62,7 +62,7 @@ An eligible entity that receives a grant under this section shall use the grant 
 
 &emsp;&emsp;(C) customizing investigative approaches to ensure a culturally and linguistically appropriate approach to the community being served;
 
-&emsp;&emsp;(D) becoming proficient in understanding and responding to complex cases, includingcases of domestic violence, dating violence, sexual assault, or stalking—
+&emsp;&emsp;(D) becoming proficient in understanding and responding to complex cases, including cases of domestic violence, dating violence, sexual assault, or stalking—
 
 &emsp;&emsp;&emsp;(i) facilitated by alcohol or drugs;
 

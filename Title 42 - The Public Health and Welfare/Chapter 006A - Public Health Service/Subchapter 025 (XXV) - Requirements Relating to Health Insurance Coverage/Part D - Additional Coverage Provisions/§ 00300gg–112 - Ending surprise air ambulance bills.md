@@ -34,7 +34,7 @@ In the case of a participant, beneficiary, or enrollee who is in a group health 
 
 #### (B) Authority to continue negotiations
 
-&emsp;&emsp;Under the independent dispute resolution process, in the case that the parties to a determination for qualified IDR air ambulance services agree on a payment amount for such services during such process but before the date on which the entity selected with respect to such determination under paragraph (4) makes such determination under paragraph (5), such amount shall be treated for purposes of section 300gg–111(a)(3)(K)(ii) of this title as the amount agreed to by such parties for such services. In the case of an agreement described in the previous sentence, the independent dispute resolution process shall provide for a method to determine how to allocate between the parties to such determination the payment of the compensation of the entity selected with respect to such determination.
+&emsp;&emsp;Under the independent dispute resolution process, in the case that the parties to a determination for qualified IDR air ambulance services agree on a payment amount for suchservices during such process but before the date on which the entity selected with respect to such determination under paragraph (4) makes such determination under paragraph (5), such amount shall be treated for purposes of section 300gg–111(a)(3)(K)(ii) of this title as the amount agreed to by such parties for such services. In the case of an agreement described in the previous sentence, the independent dispute resolution process shall provide for a method to determine how to allocate between the parties to such determination the payment of the compensation of the entity selected with respect to such determination.
 
 #### (C) Clarification
 
@@ -92,7 +92,7 @@ In the case of a participant, beneficiary, or enrollee who is in a group health 
 
 &emsp;&emsp;&emsp;&emsp;(I) The quality and outcomes measurements of the provider that furnished such services.
 
-&emsp;&emsp;&emsp;&emsp;(II) The acuity of the individual receiving such services or the complexity of furnishing such services to such individual.
+&emsp;&emsp;&emsp;&emsp;(II) The acuity of the individual receiving such services or the complexity offurnishing such services to such individual.
 
 &emsp;&emsp;&emsp;&emsp;(III) The training, experience, and quality of the medical personnel that furnished such services.
 
@@ -112,7 +112,7 @@ In the case of a participant, beneficiary, or enrollee who is in a group health 
 
 #### (E) Costs of independent dispute resolution process
 
-&emsp;&emsp;The provisions of section 300gg–111(c)(5)(F) of this title shall apply to a notification made under this subsection, the parties to such notification, and a determination under subparagraph (A) in the same manner and to the same extent such provisions apply to a notification under section 300gg–111(c) of this title, the parties to such notificationand a determination made under section 300gg–111(c)(5)(A) of this title.
+&emsp;&emsp;The provisions of section 300gg–111(c)(5)(F) of this title shall apply to a notification made under this subsection, the parties to such notification, and a determination under subparagraph (A) in the same manner and to the same extent such provisions apply to a notification under section 300gg–111(c) of this title, the parties to such notification and a determination made under section 300gg–111(c)(5)(A) of this title.
 
 #### (6) Timing of payment
 

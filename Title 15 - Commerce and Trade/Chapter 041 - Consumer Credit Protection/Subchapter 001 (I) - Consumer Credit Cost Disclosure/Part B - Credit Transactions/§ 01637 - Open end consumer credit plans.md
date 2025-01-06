@@ -80,7 +80,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;(i) all of the information in the table, and not just a reference to the table, be placed on the billing statement, as required by this paragraph; and
 
-&emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order inwhich such items are set forth in subparagraph (B).
+&emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order in which such items are set forth in subparagraph (B).
 
 &emsp;(G) In prescribing the form of the table under subparagraph (D), the Bureau shall employ terminology which is different than the terminology which is employed in subparagraph (B), if such terminology is more easily understood and conveys substantially the same meaning.
 
@@ -150,7 +150,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (iii) Over-the-limit fee
 
-&emsp;&emsp;&emsp;Any fee imposed in connection with an extension of credit in excess of the amountof credit authorized to be extended with respect to such account.
+&emsp;&emsp;&emsp;Any fee imposed in connection with an extension of credit in excess of the amount of credit authorized to be extended with respect to such account.
 
 #### (2) Telephone solicitations
 
@@ -194,7 +194,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;&emsp;(II) the information contained in the application or solicitation is subject to change after such date; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the applicant should contact the creditor for information on any change in the information contained in the application or solicitation since it was printed;
+&emsp;&emsp;&emsp;&emsp;(III) the applicant should contact the creditor for information on any changein the information contained in the application or solicitation since it was printed;
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
@@ -232,7 +232,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) In general
 
-&emsp;&emsp;Any application or solicitation to open a charge card account shall disclose clearlyand conspicuously the following information in the form required by section 1632(c) of this title, subject to subsection (e):
+&emsp;&emsp;Any application or solicitation to open a charge card account shall disclose clearly and conspicuously the following information in the form required by section 1632(c) of this title, subject to subsection (e):
 
 &emsp;&emsp;&emsp;(i) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of the charge card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
 
@@ -276,7 +276,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
-&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
+&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application orsolicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
@@ -372,7 +372,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Application requirements
 
-&emsp;&emsp;An application to open a credit card account by a consumer who has not attainedthe age of 21 as of the date of submission of the application shall require—
+&emsp;&emsp;An application to open a credit card account by a consumer who has not attained the age of 21 as of the date of submission of the application shall require—
 
 &emsp;&emsp;&emsp;(i) the signature of a cosigner, including the parent, legal guardian, spouse, or any other individual who has attained the age of 21 having a means to repay debts incurred by the consumer in connection with the account, indicating joint liability for debts incurred by the consumer in connection with the account before the consumer has attained the age of 21; or
 
@@ -442,7 +442,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) Advance notice of increase in interest rate required
 
-&emsp;In the case of any credit card account under an open end consumer credit plan, a creditorshall provide a written notice of an increase in an annual percentage rate (except in the case of an increase described in paragraph (1), (2), or (3) of section 1666i–1(b) of this title) not later than 45 days prior to the effective date of the increase.
+&emsp;In the case of any credit card account under an open end consumer credit plan, a creditor shall provide a written notice of an increase in an annual percentage rate (except in the case of an increase described in paragraph (1), (2), or (3) of section 1666i–1(b) of this title) not later than 45 days prior to the effective date of the increase.
 
 #### (2) Advance notice of other significant changes required
 
@@ -478,7 +478,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) In general
 
-&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
+&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by thecreditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
 
 #### (2) Disclosure by creditor
 
@@ -510,7 +510,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (l) Limit on fees related to method of payment
 
-With respect to a credit card account under an open end consumer credit plan, the creditor maynot impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
+With respect to a credit card account under an open end consumer credit plan, the creditor may not impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
 
 #### (m) Use of term "fixed rate"
 
@@ -672,7 +672,7 @@ Subsec. (b)(10). Pub. L. 93–495, §415(2), inserted exception relating to noni
 
 Subsec. (b)(11). Pub. L. 93–495, §305, added par. (11).
 
-Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosurerequirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
+Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -752,7 +752,7 @@ Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provide
 
 Pub. L. 109–8, title XIII, §1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act \[subsec. (c)(7) of this section\], as added by this section."
 
-Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors ofthe Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section."
+Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section."
 
 Pub. L. 109–8, title XIII, §1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: "The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act \[subsec. (h) of this section\], as added by this section."
 
@@ -790,7 +790,7 @@ Pub. L. 111–24, title III, §305(b), May 22, 2009, 123 Stat. 1750, provided th
 
 "(1)
 
-Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section, and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
+Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section,and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
 
 "(2)
 

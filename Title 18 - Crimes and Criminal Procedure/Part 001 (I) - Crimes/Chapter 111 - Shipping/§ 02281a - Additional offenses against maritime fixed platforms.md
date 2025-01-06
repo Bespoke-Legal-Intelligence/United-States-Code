@@ -12,7 +12,7 @@ In general.—A person who unlawfully and intentionally—
 
 &emsp;&emsp;&emsp;(i) uses against or on a fixed platform or discharges from a fixed platform any explosive or radioactive material, biological, chemical, or nuclear weapon in a manner that causes or is likely to cause death or serious injury or damage; or
 
-&emsp;&emsp;&emsp;(ii) discharges from a fixed platform oil, liquefied natural gas, or another hazardous or noxious substance that is not covered by clause (i), in such quantity or concentration that causes or is likely to cause death or serious injury or damage;
+&emsp;&emsp;&emsp;(ii) discharges from a fixed platform oil, liquefied natural gas, or another hazardousor noxious substance that is not covered by clause (i), in such quantity or concentration that causes or is likely to cause death or serious injury or damage;
 
 &emsp;&emsp;(B) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraph (A); or
 

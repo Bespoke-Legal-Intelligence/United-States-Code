@@ -6,7 +6,7 @@
 
 &emsp;(2) provide for adequate administrative control by appropriate authority;
 
-&emsp;(3) provide that information concerning the selection and assignment of employees for training and the applicable training limitations and restrictions be made available to employees of the agency; and
+&emsp;(3) provide that information concerning the selection and assignment of employees fortraining and the applicable training limitations and restrictions be made available to employees of the agency; and
 
 &emsp;(4) provide for the encouragement of self-training by employees by means of appropriate recognition of resultant increases in proficiency, skill, and capacity.
 
@@ -304,7 +304,7 @@ Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 1318
 
 Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
-To help us meet these goals, I am creating a task force on Federal training technology, directing Federalagencies to take certain steps to enhance employees' training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
+To help us meet these goals, I am creating a task force on Federal training technology, directing Federal agencies to take certain steps to enhance employees' training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, "Providing for the Further Training of Government Employees," \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 

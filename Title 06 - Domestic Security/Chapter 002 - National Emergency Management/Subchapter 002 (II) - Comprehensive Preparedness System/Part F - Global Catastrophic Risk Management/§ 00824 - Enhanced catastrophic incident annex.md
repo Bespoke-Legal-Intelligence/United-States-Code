@@ -50,7 +50,7 @@ The strategy required under subsection (a) shall include a description of—
 
 #### (c) Assumptions
 
-In designing the strategy under subsection (a), the Secretary, in coordination with the Administrator and the Federal partners listed in section 822(b) of this title, shall account for certain factors to make the strategy operationally viable, including the assumption that—
+In designing the strategy under subsection (a), the Secretary, in coordination with the Administrator and the Federal partners listed in section 822(b) of this title, shall account for certainfactors to make the strategy operationally viable, including the assumption that—
 
 &emsp;(1) multiple levels of critical infrastructure have been taken offline or destroyed by catastrophic incidents or the effects of catastrophic incidents;
 

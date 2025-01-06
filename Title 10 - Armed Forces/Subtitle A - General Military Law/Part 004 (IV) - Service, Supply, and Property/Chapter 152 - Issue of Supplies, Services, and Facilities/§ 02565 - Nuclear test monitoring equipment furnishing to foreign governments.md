@@ -4,7 +4,7 @@
 
 Authority To Transfer Title to or Otherwise Provide Nuclear Test Monitoring Equipment.—Subject to subsection (b), the Secretary of Defense may—
 
-&emsp;(1) transfer title or otherwise provide to a foreign government (A) equipment for themonitoring of nuclear test explosions, and (B) associated equipment;
+&emsp;(1) transfer title or otherwise provide to a foreign government (A) equipment for the monitoring of nuclear test explosions, and (B) associated equipment;
 
 &emsp;(2) as part of any such conveyance or provision of equipment, install such equipment on foreign territory or in international waters; and
 

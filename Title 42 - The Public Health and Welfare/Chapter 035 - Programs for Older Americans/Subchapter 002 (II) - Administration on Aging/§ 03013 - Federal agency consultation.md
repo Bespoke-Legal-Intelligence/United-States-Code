@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperatewith the Secretary of Labor in carrying out subchapter IX and with the Corporation for National and Community Service in carrying out this chapter.
+(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX and with the Corporation for National and Community Service in carrying out this chapter.
 
 (2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b), shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\].
 
@@ -38,7 +38,7 @@ For the purposes of subsection (a), programs related to the objectives of this c
 
 &emsp;(11) the Low-Income Home Energy Assistance Act of 1981 \[42 U.S.C. 8621 et seq.\],
 
-&emsp;(12) part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], relating to weatherization assistance for low income persons,
+&emsp;(12) part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 etseq.\], relating to weatherization assistance for low income persons,
 
 &emsp;(13) the Community Services Block Grant Act \[42 U.S.C. 9901 et seq.\],
 
@@ -90,7 +90,7 @@ For the purposes of subsection (a), programs related to the objectives of this c
 
 &emsp;(G) ways to improve coordination to provide housing, health care, and other supportive services to older individuals.
 
-(7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and Labor of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
+(7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and Labor of the House of Representatives, the Committee on Energy and Commerceof the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
 
 &emsp;(A) describes the activities and accomplishments of the Committee in—
 
@@ -118,7 +118,7 @@ For the purposes of subsection (a), programs related to the objectives of this c
 
 &emsp;(C) has a plan in place to meet local needs for housing, transportation, civic participation, social connectedness, and accessible public spaces.
 
-(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat.2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532; Pub. L. 113–128, title V, §512(w)(1), July 22, 2014, 128 Stat. 1713; Pub. L. 116–131, title I, §124(a), (b), title VII, §701(4), Mar. 25, 2020, 134 Stat. 249, 271.)
+(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532; Pub. L. 113–128, title V, §512(w)(1), July 22, 2014, 128 Stat. 1713; Pub. L. 116–131, title I, §124(a), (b), title VII, §701(4), Mar. 25, 2020, 134 Stat. 249, 271.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,7 +138,7 @@ The Higher Education Act of 1965, referred to in subsec. (b)(8), is Pub. L. 89�
 
 The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the "Adult Education and Family Literacy Act", which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. Title XIX of the Public Health Service Act is classified to subchapter XVII (§300w et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. Title XIX of the Public Health Service Act is classified to subchapter XVII (§300w et seq.) of chapter6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (b)(11), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see note set out under section 8621 of this title and Tables.
 
@@ -204,7 +204,7 @@ Subsec. (c)(7)(A)(i). Pub. L. 116–131, §124(b)(4), substituted "services that
 
 Subsec. (c)(9). Pub. L. 116–131, §124(b)(5), added par. (9).
 
-<b>2014</b>—Subsec. (a)(2). Pub. L. 113–128, §512(w)(1)(A), substituted "In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act" for "In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998".
+<b>2014</b>—Subsec. (a)(2). Pub. L. 113–128, §512(w)(1)(A), substituted "In particular, the Secretary of Labor shallconsult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act" for "In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998".
 
 Subsec. (b)(1). Pub. L. 113–128, §512(w)(1)(B), substituted "title I of the Workforce Innovation and Opportunity Act" for "title I of the Workforce Investment Act of 1998".
 

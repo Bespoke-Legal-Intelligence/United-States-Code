@@ -14,7 +14,7 @@ Loans under this subchapter shall be at rates of interest as follows:
 
 &emsp;(1) For loans or portions of loans up to the amount of the applicant's actual loss caused by the disaster, as limited under subsection (a)(1) of this section, the interest shall be at rates prescribed by the Secretary, but not in excess of 8 percent per annum; and
 
-&emsp;(2) For loans or portions of loans in excess of the amount of the applicant's actual losscaused by the disaster, as limited under subsection (a)(1) of this section, (A) the interest for insured loans shall be at rates prevailing in the private market for similar loans, as determined by the Secretary, and (B) the interest for guaranteed loans shall be at rates agreed on by the borrower and lender, but not in excess of such rates as may be determined by the Secretary.
+&emsp;(2) For loans or portions of loans in excess of the amount of the applicant's actual loss caused by the disaster, as limited under subsection (a)(1) of this section, (A) the interest for insured loans shall be at rates prevailing in the private market for similar loans, as determined by the Secretary, and (B) the interest for guaranteed loans shall be at rates agreed on by the borrower and lender, but not in excess of such rates as may be determined by the Secretary.
 
 #### (c) Interest subsidies
 
@@ -34,7 +34,7 @@ For guaranteed loans under this subchapter, the Secretary may pay interest subsi
 
 #### (B) Refusal to pledge available collateral
 
-&emsp;&emsp;The Secretary may deny or cancel a loan under this subchapter if a borrower refuses to pledge available collateral on request by the Secretary.
+&emsp;&emsp;The Secretary may deny or cancel a loan under this subchapter if a borrower refusesto pledge available collateral on request by the Secretary.
 
 #### (e) Grant eligibility
 
@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (d) and (e), was in the original "this tit
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), is Pub. L. 95–31, May 23,1977, 91 Stat. 169. Title I of the Community Emergency Drought Relief Act of 1977 is set out as a note under section 5184 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Community Emergency Drought Relief Act of 1977 is set out as a note under section 5184 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

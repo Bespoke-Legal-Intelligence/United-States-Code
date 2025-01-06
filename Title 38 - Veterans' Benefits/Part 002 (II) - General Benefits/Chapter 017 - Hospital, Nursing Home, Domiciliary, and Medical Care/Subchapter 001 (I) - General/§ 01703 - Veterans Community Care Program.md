@@ -264,6 +264,56 @@ Prohibition on Certain Limitations.—(1) The Secretary shall not limit the type
 
 (o)
 
+Outreach Regarding Availability of Care and Services.—(1) The Secretary shall conduct outreach to inform veterans of the following:
+
+&emsp;(A) The conditions for care or services under subsections (d) and (e).
+
+&emsp;(B) How to request such care or services.
+
+&emsp;(C) How to appeal a denial of a request for such care or services using the clinical appeals process of the Veterans Health Administration.
+
+(2) Upon enrollment of a veteran in the system of annual patient enrollment established and operated under section 1705 of this title, and not less frequently than every two years thereafter, the Secretary shall inform the veteran of information described in paragraph (1).
+
+(3) The Secretary shall ensure that information described in paragraph (1) is—
+
+&emsp;(A) publicly displayed in each medical facility of the Department;
+
+&emsp;(B) prominently displayed on a website of the Department; and
+
+&emsp;(C) included in other outreach campaigns and activities conducted by the Secretary.
+
+(p)
+
+Annual Review and Report on Waivers of Payment Rates.—(1) On an annual basis, the Secretary shall—
+
+&emsp;(A) conduct a review of waivers of payment rates under subsection (i) for Third Party Administrators to identify whether such waivers help to alleviate community-specific challenges, including scarcity of medical services associated with access to health care; and
+
+&emsp;(B) submit to Congress a report on the results of such review.
+
+(2) Each report under paragraph (1)(B) shall include, with respect to the period covered by the report—
+
+&emsp;(A) a statement, disaggregated by region, of the total number of waivers described in subparagraph (A) of such paragraph requested by Third Party Administrators;
+
+&emsp;(B) a statement of the total number of such waivers that were—
+
+&emsp;&emsp;(i) granted by the Secretary;
+
+&emsp;&emsp;(ii) denied by the Secretary; or
+
+&emsp;&emsp;(iii) withdrawn by a Third Party Administrator;
+
+&emsp;(C) a description of the process for the review required under paragraph (1);
+
+&emsp;(D) a statement, disaggregated by region, of the average time to process such waivers;
+
+&emsp;(E) an assessment, disaggregated by region, of the extent to which such waivers that were granted by the Secretary improved access to health care for covered veterans; and
+
+&emsp;(F) a description of trends, if any, identified by the Secretary with respect to such waivers.
+
+(3) In this subsection, the term "Third Party Administrator" has the meaning given such term in section 1703B of this title.
+
+(q)
+
 Definitions.—In this section:
 
 &emsp;(1) The term "appropriate committees of Congress" means—
@@ -274,7 +324,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "medical service line" means a clinic within a Department medical center.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172; Pub. L. 117–328, div. U, title I, §§121, 125(b), Dec. 29, 2022, 136 Stat. 5415, 5418.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172; Pub. L. 117–328, div. U, title I, §§121, 125(b), Dec. 29, 2022, 136 Stat. 5415, 5418; Pub. L. 118–210, title I, §§102(a), 103(a), Jan. 2, 2025, 138 Stat. 2709, 2710.)
 
 #### <b>Editorial Notes</b>
 
@@ -289,6 +339,12 @@ For the effective date specified in section 101(b) of the Caring for Our Veteran
 Section 372 of the National Organ Transplantation Act, referred to in subsec. (l)(2)(B), probably means section 372 of the Public Health Service Act, act July 1, 1944, ch. 373, which was enacted by section 201 of the National Organ Transplant Act, Pub. L. 98–507, and is classified to section 274 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (o). Pub. L. 118–210, §102(a)(2), added subsec. (o). Former subsec. (o) redesignated (p), then (q).
+
+Subsec. (p). Pub. L. 118–210, §103(a)(2), added subsec. (p).
+
+Subsec. (q). Pub. L. 118–210, §§102(a)(1), 103(a)(1), redesignated subsec. (o) as (p), then (q).
 
 <b>2022</b>—Subsec. (a)(4). Pub. L. 117–328, §125(b), added par. (4).
 
@@ -426,6 +482,186 @@ Appropriate committees of congress defined.—In this paragraph, the term 'appro
 
 &emsp;&emsp;"(ii) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives."
 
+#### Implementation of Provision of Care Under Veterans Community Care Program Upon Determination of Eligibility by Veteran and Veteran's Referring Clinician
+
+Pub. L. 118–210, title I, §101, Jan. 2, 2025, 138 Stat. 2708, provided that:
+
+"(a)
+
+In General.—During the period specified in subsection (c), the Secretary of Veterans Affairs shall implement section 1703(d)(1)(E) of title 38, United States Code, in compliance with the implementing regulations for such section under section 17.4010(a)(5) of title 38, Code of Federal Regulations, such that the determination of eligibility for care is final and shall be made by the veteran and the veteran's referring clinician.
+
+"(b)
+
+Correction of Errors.—A covered veteran and the referring clinician of such veteran may correct any errors made with respect to a determination described in subsection (a).
+
+"(c)
+
+Period Specified.—The period specified in this subsection is the two-year period beginning on the date that is 90 days after the date of the enactment of this Act \[Jan. 2, 2025\].
+
+"(d)
+
+Report.—Not later than one year and not later than two years after the commencement of the period specified by subsection (c), the Secretary of Veterans Affairs shall submit to Congress a report on the care provided under section 1703(d)(1)(E) of title 38, United States Code, during the one-year period preceding the date of the report, including—
+
+&emsp;"(1) the number of instances of care provided;
+
+&emsp;"(2) the type of care provided; and
+
+&emsp;"(3) the cost of such care.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed to limit the Secretary's authority to prescribe, amend, or rescind regulations under section 1703 of title 38, United States Code.
+
+"(f)
+
+Covered Veteran Defined.—In this section, the term 'covered veteran' has the meaning given that term in section 1703(b) of title 38, United States Code."
+
+#### Deadline to Submit First Report
+
+Pub. L. 118–210, title I, §103(b), Jan. 2, 2025, 138 Stat. 2710, provided that: "The Secretary shall submit the first report required under subsection (p) of section 1703 of such title \[title 38\] (as added by subsection (a)) not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2025\]."
+
+#### Pilot Program to Improve Administration of Care Under Veterans Community Care Program
+
+Pub. L. 118–210, title I, §105, Jan. 2, 2025, 138 Stat. 2713, provided that:
+
+"(a)
+
+Establishment.—Pursuant to section 1703E of title 38, United States Code, the Secretary of Veterans Affairs, acting through the Center for Innovation for Care and Payment established under such section, shall carry out a pilot program to seek to develop and implement a plan—
+
+&emsp;"(1) to provide monetary and non-monetary incentives to a covered health care provider—
+
+&emsp;&emsp;"(A) to allow the Secretary to see the scheduling system of the provider, to assess the availability of, and to assist in scheduling appointments for, veterans under the Veterans Community Care Program under section 1703 of such title, including through synchronous, asynchronous, and asynchronous assisted digital scheduling;
+
+&emsp;&emsp;"(B) to complete continuing professional educational training available through the VHA TRAIN program (or any successor program or initiative) regarding veteran cultural competency, the opioid safety initiative (or any successor program or initiative), and other subjects determined appropriate by the Secretary;
+
+&emsp;&emsp;"(C) to improve methods of accounting for non-Department training that is equivalent or substantially similar to the continuing professional educational training described in subparagraph (B);
+
+&emsp;&emsp;"(D) to improve the rate of the timely return to the Secretary of medical record documentation for care or services provided under the Veterans Community Care Program;
+
+&emsp;&emsp;"(E) to improve the timeliness and quality of the delivery of care and services to veterans under such program; and
+
+&emsp;&emsp;"(F) to achieve other objectives determined appropriate by the Secretary; and
+
+&emsp;"(2) to decrease the rate of no-show appointments under such program.
+
+"(b)
+
+Report.—Not later than one year after the date of the establishment of the pilot program under this section, and annually thereafter during the term of the pilot program, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the pilot program that includes, with respect to the period covered by the report—
+
+&emsp;"(1) an assessment of the extent to which—
+
+&emsp;&emsp;"(A) the system of the Department of Veterans Affairs for scheduling appointments for veterans under the Veterans Community Care Program has improved;
+
+&emsp;&emsp;"(B) the rate of timely return to the Secretary of medical record documentation described in subparagraph (D) of subsection (a)(1) has improved;
+
+&emsp;&emsp;"(C) the timeliness and quality of the delivery of care and services described in subparagraph (E) of such subsection has improved; and
+
+&emsp;&emsp;"(D) the frequency of no-show appointments described in paragraph (2) of such subsection decreased;
+
+&emsp;"(2) a list of the continuing professional educational training courses under subparagraph (B) of such subsection available to covered health care providers;
+
+&emsp;"(3) the rate of participation in such continuing professional education training courses; and
+
+&emsp;"(4) any other matter the Secretary determines appropriate.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered health care provider' means a health care provider—
+
+&emsp;&emsp;"(A) described in subsection (c) of section 1703 of title 38, United States Code, that furnishes care or services under the Veterans Community Care Program pursuant to a contract or agreement with a Third Party Administrator; or
+
+&emsp;&emsp;"(B) that otherwise furnishes care or services outside of Department facilities pursuant to a contract or agreement with the Secretary of Veterans Affairs.
+
+&emsp;"(2) The term 'opioid safety initiative' means the programs, processes, and guidelines of the Veterans Health Administration of the Department of Veterans Affairs relating to the management of opioid therapy and chronic pain.
+
+&emsp;"(3) The term 'Third Party Administrator' means an entity that manages a network of health care providers and performs administrative services related to such network under section 1703 of such title.
+
+&emsp;"(4) The term 'VHA TRAIN program' means the free program of the Veterans Health Administration that offers veteran-specific continuing medical education courses."
+
+#### Pilot Program on Consolidating Approval Process of Department of Veterans Affairs for Covered Dental Care
+
+Pub. L. 118–210, title I, §106, Jan. 2, 2025, 138 Stat. 2715, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2025\], the Secretary of Veterans Affairs, acting through the Center for Innovation for Care and Payment established under section 1703E of title 38, United States Code, shall carry out a pilot program under which the Secretary shall hire—
+
+&emsp;"(1) general dentists at medical facilities of the Department of Veterans Affairs to manage approval by the Department of treatment plans requested by dental providers in providing covered dental care; and
+
+&emsp;"(2) dental specialists at Veterans Integrated Service Networks of the Department to manage approval by the Department of treatment plans for specialty dental care requested by dental providers in providing covered dental care.
+
+"(b)
+
+Locations.—The Secretary shall carry out the pilot program in not fewer than two Veterans Integrated Service Networks of the Department.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than one year after the date of the commencement of such pilot program, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the pilot program, that includes—
+
+&emsp;&emsp;"(A) an identification of the Veterans Integrated Service Networks participating in such pilot program;
+
+&emsp;&emsp;"(B) a description of the implementation of such pilot program;
+
+&emsp;&emsp;"(C) an identification of any barriers or challenges to implementing such pilot program;
+
+&emsp;&emsp;"(D) an assessment of the efficacy of hiring general dentists and dental specialists pursuant to such pilot program;
+
+&emsp;&emsp;"(E) aggregated feedback with respect to such pilot program from dentists of the Department in Veterans Integrated Service Networks participating in such pilot program; and
+
+&emsp;&emsp;"(F) aggregated feedback from dental providers providing covered dental care within such Veterans Integrated Service Networks regarding any changes in the timeliness of treatment plan approvals by the Department.
+
+&emsp;"(2)
+
+Final report.—Not later than 90 days before the date of the completion of such pilot program, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the pilot program that—
+
+&emsp;&emsp;"(A) includes, with respect to the period covered by the report, each element of the report required under paragraph (1) described in subparagraphs (A) through (F) of such paragraph;
+
+&emsp;&emsp;"(B) includes recommendations of the Secretary on whether the pilot program should be—
+
+&emsp;&emsp;&emsp;"(i) extended;
+
+&emsp;&emsp;&emsp;"(ii) expanded; or
+
+&emsp;&emsp;&emsp;"(iii) adopted throughout the Department; and
+
+&emsp;&emsp;"(C) indicates whether the Secretary requests action by Congress to make the pilot program permanent.
+
+"(d)
+
+Sunset.—The authority to carry out the pilot program under this section shall terminate on the date that is two years after the date of the enactment of this Act.
+
+"(e)
+
+Covered Dental Care Defined.—In this section, the term 'covered dental care' means dental care provided—
+
+&emsp;"(1) under section 1703 of title 38, United States Code; or
+
+&emsp;"(2) pursuant to a Veterans Care Agreement under section 1703A of such title."
+
+#### Inspector General Assessment of Implementation of Veterans Community Care Program
+
+Pub. L. 118–210, title I, §110, Jan. 2, 2025, 138 Stat. 2722, provided that:
+
+"(a)
+
+In General.—Not later than 18 months after the date of the enactment of this Act \[Jan. 2, 2025\], and periodically thereafter, the Inspector General shall assess the performance of the Department of Veterans Affairs in—
+
+&emsp;"(1) appropriately identifying veterans eligible for care and services under section 1703 of title 38, United States Code;
+
+&emsp;"(2) informing veterans of their eligibility for such care and services; and
+
+&emsp;"(3) delivering such care and services in a timely manner.
+
+"(b)
+
+Briefing on Assessments.—Upon the submission of the assessment required by subsection (a), the Inspector General of the Department of Veterans Affairs shall provide to the Committees on Veterans\['\] Affairs of the House of Representatives and the Senate a briefing on the results of such assessment."
+
 #### Plan Regarding Informing Veterans of Expected Wait Times for Appointments for Care
 
 Pub. L. 117–328, div. U, title I, §122, Dec. 29, 2022, 136 Stat. 5415, provided that:
@@ -456,7 +692,7 @@ Matters To Be Included.—The Secretary shall include in the plan required under
 
 "(d)
 
-Updates.—Not less frequently than quarterly, the Secretary shall brief the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives and submit to those committees a report in writing regarding the status of the implementation of the plan required under subsection (a), to include an assessment of the progress of the Secretary in meeting the three-year implementation deadline under subsection (b)."
+Updates.—Not less frequently than quarterly, the Secretary shall brief the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives and submit tothose committees a report in writing regarding the status of the implementation of the plan required under subsection (a), to include an assessment of the progress of the Secretary in meeting the three-year implementation deadline under subsection (b)."
 
 #### Community Care Self-Scheduling Pilot Program
 
@@ -576,7 +812,7 @@ Third Party Administrator Defined.—In this section, the term 'Third Party Admi
 
 #### "SEC. 134. REPORT.
 
-"Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, theSecretary of Veterans Affairs shall submit to the appropriate congressional committees a report that includes—
+"Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report that includes—
 
 &emsp;"(1) an assessment by the Secretary of the pilot program during the 180-day period preceding the date of the report, including—
 
@@ -836,7 +1072,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
 
 "(a)
 

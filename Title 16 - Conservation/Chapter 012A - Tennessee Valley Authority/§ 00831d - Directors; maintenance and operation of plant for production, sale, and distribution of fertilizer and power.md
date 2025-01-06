@@ -2,7 +2,7 @@
 
 The Board is authorized—
 
-(a) To contract with commercial producers for the production of such fertilizers or fertilizer materials as may be needed in the Government's program of development and introduction in excess of that produced by Government plants. Such contracts may provide either for outrightpurchase of materials by the Board or only for the payment of carrying charges on special materials manufactured at the board's <sup>1</sup> request for its program.
+(a) To contract with commercial producers for the production of such fertilizers or fertilizer materials as may be needed in the Government's program of development and introduction in excess of that produced by Government plants. Such contracts may provide either for outright purchase of materials by the Board or only for the payment of carrying charges on special materials manufactured at the board's <sup>1</sup> request for its program.
 
 (b) To arrange with farmers and farm organizations for large-scale practical use of the new forms of fertilizers under conditions permitting an accurate measure of the economic return they produce.
 

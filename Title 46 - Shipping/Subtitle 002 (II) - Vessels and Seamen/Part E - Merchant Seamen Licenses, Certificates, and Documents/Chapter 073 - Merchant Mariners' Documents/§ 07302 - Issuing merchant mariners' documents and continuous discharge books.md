@@ -1,6 +1,6 @@
 ### §7302. Issuing merchant mariners' documents and continuous discharge books
 
-(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service,specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
+(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
 
 (b) The Secretary also may issue a continuous discharge book to an individual issued a merchant mariner's document if the individual requests.
 
@@ -102,7 +102,7 @@ Review and regulations.—Notwithstanding any other provision of law, not later 
 
 &emsp;&emsp;&emsp;"(i) the timeframes and impediments for veterans and members of the uniformed services to receive a merchant mariner credential;
 
-&emsp;&emsp;&emsp;"(ii) the classifications of sea service acquired through training and service as a member of theUniformed Services and level of equivalence such service has with respect to sea service on merchant vessels; and
+&emsp;&emsp;&emsp;"(ii) the classifications of sea service acquired through training and service as a member of the Uniformed Services and level of equivalence such service has with respect to sea service on merchant vessels; and
 
 &emsp;&emsp;&emsp;"(iii) the amount of sea service, including percent of the total time onboard for purposes of equivalent underway service, that will be accepted as required experience for all endorsements for applicants for a merchant mariner credential who are veterans or members of the Uniformed Services; and
 

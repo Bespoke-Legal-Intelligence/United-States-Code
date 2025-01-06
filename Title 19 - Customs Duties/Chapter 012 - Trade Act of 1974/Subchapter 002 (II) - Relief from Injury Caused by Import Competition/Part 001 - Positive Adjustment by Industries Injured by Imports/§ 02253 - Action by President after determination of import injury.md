@@ -108,7 +108,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
 
-(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the UnitedStates in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
+(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the United States in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
 
 (5) An action described in subsection (a)(3)(A), (B), or (C) that has an effective period of more than 1 year shall be phased down at regular intervals during the period in which the action is in effect.
 

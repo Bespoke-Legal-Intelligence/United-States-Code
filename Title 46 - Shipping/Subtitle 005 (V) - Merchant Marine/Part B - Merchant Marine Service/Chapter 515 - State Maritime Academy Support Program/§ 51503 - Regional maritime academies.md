@@ -1,6 +1,6 @@
 ### §51503. Regional maritime academies
 
-The Governors of the States cooperating to sponsor a regional maritime academy shall designate in writing one of those States to conduct the affairs of that academy. A regional maritime academy is eligible for assistance from the United States Government on the same basis as a State maritime academy sponsored by a single State.
+The Governors of the States cooperating to sponsor a regional maritime academy shall designate in writing one of those States to conductthe affairs of that academy. A regional maritime academy is eligible for assistance from the United States Government on the same basis as a State maritime academy sponsored by a single State.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577.)
 

@@ -18,7 +18,7 @@
 
 #### (2) Communications and information functions
 
-&emsp;Subject to section 904(d) of this title, the functions to be assigned by the Secretary under paragraph (1) include (but are not limited to) the following functions transferred to the Secretary by Reorganization Plan Number 1 of 1977 and Executive Order 12046:
+&emsp;Subject to section 904(d) of this title, the functions to be assigned by the Secretaryunder paragraph (1) include (but are not limited to) the following functions transferred to the Secretary by Reorganization Plan Number 1 of 1977 and Executive Order 12046:
 
 &emsp;&emsp;(A) The authority delegated by the President to the Secretary to assign frequencies to radio stations or classes of radio stations belonging to and operated by the United States, including the authority to amend, modify, or revoke such assignments, but not including the authority to make final disposition of appeals from frequency assignments.
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(i) developing, in cooperation with the Commission, a comprehensive long-range plan for improved management of all electromagnetic spectrum resources;
 
-&emsp;&emsp;&emsp;(ii) performing analysis, engineering, and administrative functions, including the maintenance of necessary files and data bases, as necessary for the performance of assigned functions for the management of electromagnetic spectrum resources;
+&emsp;&emsp;&emsp;(ii) performing analysis, engineering, and administrative functions, includingthe maintenance of necessary files and data bases, as necessary for the performance of assigned functions for the management of electromagnetic spectrum resources;
 
 &emsp;&emsp;&emsp;(iii) conducting research and analysis of electromagnetic propagation, radio systems characteristics, and operating techniques affecting the utilization of the electromagnetic spectrum in coordination with specialized, related research and analysis performed by other Federal agencies in their areas of responsibility; and
 
@@ -272,7 +272,7 @@ GAO Oversight.—The Comptroller General of the United States shall—
 
 &emsp;&emsp;"(A) with respect to the application of this section to the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and
 
-&emsp;&emsp;"(B) with respect to the application of this section to all covered agencies, including the Department of Defense, the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+&emsp;&emsp;"(B) with respect to the application of this section to all covered agencies, including the Department of Defense, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 "(e)
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan (or coverage), and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
 
-&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan (or coverage) and there are no separate treatment limitations that are applicableonly with respect to mental health or substance use disorder benefits.
+&emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan (or coverage) and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
 
 #### (B) Definitions
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure) as such factors apply to network adequacy;
 
-&emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standardsfor the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
+&emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standards for the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
 
 &emsp;&emsp;&emsp;(iv) examples of specific factors, and the evidentiary standards used to evaluate such factors, used by such plans or issuers in performing a nonquantitative treatment limitation analysis;
 
@@ -232,7 +232,7 @@
 
 #### (ii) Guidance and regulations
 
-&emsp;&emsp;&emsp;Not later than 18 months after December 27, 2020, the Secretary shall finalize any draft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
+&emsp;&emsp;&emsp;Not later than 18 months after December 27, 2020, the Secretary shall finalize anydraft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
 
 #### (iii) State
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed—
 
 &emsp;(1) as requiring a group health plan (or health insurance coverage offered in connection with such a plan) to provide any mental health or substance use disorder benefits; or
 
-&emsp;(2) in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health or substance use disorder benefits, as affecting the terms and conditions of the planor coverage relating to such benefits under the plan or coverage, except as provided in subsection (a).
+&emsp;(2) in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health or substance use disorder benefits, as affecting the terms and conditions of the plan or coverage relating to such benefits under the plan or coverage, except as provided in subsection (a).
 
 #### (c) Exemptions
 
@@ -294,7 +294,7 @@ Nothing in this section shall be construed—
 
 #### (D) 6-month determinations
 
-&emsp;&emsp;If a group health plan (or a health insurance issuer offering coverage in connection with a group health plan) seeks an exemption under this paragraph, determinations under subparagraph (A) shall be made after such plan (or coverage) has complied with this section for the first 6 months of the plan year involved.
+&emsp;&emsp;If a group health plan (or a health insurance issuer offering coverage in connection with a group health plan) seeks an exemption under this paragraph, determinationsunder subparagraph (A) shall be made after such plan (or coverage) has complied with this section for the first 6 months of the plan year involved.
 
 #### (E) Notification
 
@@ -310,7 +310,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coveragewith respect to mental health and substance use disorder benefits under the plan.
+&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
 
 #### (iii) Confidentiality
 

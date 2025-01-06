@@ -76,7 +76,7 @@ Contents.—The study required under paragraph (1) shall—
 
 &emsp;&emsp;"(B) specifically address ways to protect the privacy interests of any individual whose information may be contained within such database, which shall include limiting access to the database or having access to the database be monitored by, or accessed through, a member of the Coast Guard; and
 
-&emsp;&emsp;"(C) address the feasibility of incorporating in such database a reporting mechanism to alert the Administrator of the Maritime Administration each time a mariner's credential is reinstated upon completion of a period of suspension as the result of a suspension and revocation proceeding under section 7702 of title 46, United States Code, with details about the violation that led to such suspension.
+&emsp;&emsp;"(C) address the feasibility of incorporating in such database a reporting mechanism to alert theAdministrator of the Maritime Administration each time a mariner's credential is reinstated upon completion of a period of suspension as the result of a suspension and revocation proceeding under section 7702 of title 46, United States Code, with details about the violation that led to such suspension.
 
 "(c)
 

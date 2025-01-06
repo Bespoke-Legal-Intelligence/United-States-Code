@@ -8,9 +8,9 @@ A group health plan and a health insurance issuer offering group or individual h
 
 &emsp;(2) immunizations that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention with respect to the individual involved; and <sup>1</sup>
 
-&emsp;(3) with respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in the comprehensive guidelines supported by the Health Resources and Services Administration.<sup>2</sup>
+&emsp;(3) with respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in the comprehensive guidelines supported by the Health Resources and Services Administration.<sup>1</sup>
 
-&emsp;(4) with respect to women, such additional preventive care and screenings not described in paragraph (1) as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of this paragraph.<sup>2</sup>
+&emsp;(4) with respect to women, such additional preventive care and screenings not described in paragraph (1) as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of this paragraph.<sup>1</sup>
 
 &emsp;(5) for the purposes of this chapter, and for the purposes of any other provision of law, the current recommendations of the United States Preventive Service Task Force regarding breast cancer screening, mammography, and prevention shall be considered the most current other than those issued in or around November 2009.
 
@@ -60,7 +60,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1)
 
-Qualifying coronavirus preventive service.—The term 'qualifying coronavirus preventive service' means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—
+Qualifying coronavirus preventive service.—The term 'qualifying coronavirus preventiveservice' means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—
 
 &emsp;&emsp;"(A) an evidence-based item or service that has in effect a rating of 'A' or 'B' in the current recommendations of the United States Preventive Services Task Force; or
 
@@ -74,7 +74,7 @@ Specified date.—The term 'specified date' means the date that is 15 business d
 
 Additional terms.—In this section, the terms 'group health plan', 'health insurance issuer', 'group health insurance coverage', and 'individual health insurance coverage' have the meanings given such terms in section 2791 of the Public Health Service Act (42 U.S.C. 300gg–91), section 733 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b), and section 9832 of the Internal Revenue Code \[26 U.S.C. 9832\], as applicable."
 
-<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -42,7 +42,7 @@ Each insured depository institution shall prepare—
 
 &emsp;&emsp;&emsp;(i) the effectiveness of such internal control structure and procedures; and
 
-&emsp;&emsp;&emsp;(ii) the institution's compliance with the laws and regulations relating to safety and soundness which are designated by the Corporation and the appropriate Federal banking agency.
+&emsp;&emsp;&emsp;(ii) the institution's compliance with the laws and regulations relating to safety and soundness which are designated by theCorporation and the appropriate Federal banking agency.
 
 #### (c) Internal control evaluation and reporting requirements for independent public accountants
 
@@ -124,7 +124,7 @@ Each insured depository institution shall prepare—
 
 #### (B) Report to audit committee
 
-&emsp;&emsp;The independent public accountant referred to in subparagraph (A) shall provide the audit committee of the insured depository institution with reports on the reviews under such subparagraph and the audit committee shall provide such reports to the Corporation, any appropriate Federal banking agency, and any appropriate State bank supervisor.
+&emsp;&emsp;The independent public accountant referred to in subparagraph (A) shall providethe audit committee of the insured depository institution with reports on the reviews under such subparagraph and the audit committee shall provide such reports to the Corporation, any appropriate Federal banking agency, and any appropriate State bank supervisor.
 
 #### (C) Limitation on notice
 
@@ -292,5 +292,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date
 
-Pub. L. 102–242, title I, §112(c), formerly §112(b), Dec. 19, 1991, 105 Stat. 2246, renumbered §112(c) by Pub. L. 102–550, title XVI, §1603(b)(2)(A), Oct. 28, 1992, 106 Stat. 4079, provided that: "The requirements established by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992."
+Pub. L. 102–242, title I, §112(c), formerly §112(b), Dec. 19, 1991, 105 Stat. 2246, renumbered §112(c) by Pub. L.102–550, title XVI, §1603(b)(2)(A), Oct. 28, 1992, 106 Stat. 4079, provided that: "The requirements established by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992."
 

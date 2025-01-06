@@ -68,7 +68,7 @@ Regulations.—The regulations implementing this subsection shall—
 
 (e)
 
-Contract Modifications.—A task or delivery order may not increase the scope, period, ormaximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+Contract Modifications.—A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
 
 (f)
 

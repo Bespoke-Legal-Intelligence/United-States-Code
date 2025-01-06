@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Program.—The Secretary of Defense shall carry out a program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that, as determined by the Secretary, are critical to the national security functions of the Department of Defense and are needed in the Department of Defense workforce.
+Requirement for Program.—The Secretary of Defense shall carry out a program toprovide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that, as determined by the Secretary, are critical to the national security functions of the Department of Defense and are needed in the Department of Defense workforce.
 
 (b)
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 111–84, §1102(a), amended subsec. (d) generally. Prior t
 
 Subsec. (f). Pub. L. 111–84, §1102(c), struck out "The program under this section is in addition to the authorities provided in chapter 111 of this title." before "The Secretary" and substituted "the other authorities provided in this chapter" for "the authorities provided in such chapter".
 
-Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis."
+Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Notlater than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis."
 
 <b>2008</b>—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted "title 11" for "title 11, United States Code,".
 

@@ -112,5 +112,5 @@ Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. 
 
 #### Effective Date
 
-Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under section 6221 of this title.
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certainexceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under section 6221 of this title.
 

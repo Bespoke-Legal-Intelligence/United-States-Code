@@ -6,7 +6,7 @@
 
 &emsp;Not later than 180 days after October 4, 2006, the Administrator shall submit a report under paragraph (2) identifying—
 
-&emsp;&emsp;(A) recurring disaster response requirements, including specific goods and services, for which the Agency is capable of contracting for in advance of a natural disaster or act of terrorism or other man-made disaster in a cost effective manner;
+&emsp;&emsp;(A) recurring disaster response requirements, including specific goods and services, for which the Agency is capable of contracting for in advance of a natural disasteror act of terrorism or other man-made disaster in a cost effective manner;
 
 &emsp;&emsp;(B) recurring disaster response requirements, including specific goods and services, for which the Agency can not contract in advance of a natural disaster or act of terrorism or other man-made disaster in a cost effective manner; and
 
@@ -32,7 +32,7 @@
 
 #### (4) Prenegotiated State and local contracts for goods and services
 
-&emsp;The Administrator shall encourage State and local governments to establishprenegotiated contracts with vendors for goods and services in advance of natural disasters and acts of terrorism or other man-made disasters.
+&emsp;The Administrator shall encourage State and local governments to establish prenegotiated contracts with vendors for goods and services in advance of natural disasters and acts of terrorism or other man-made disasters.
 
 #### (c) Maintenance of contracts
 

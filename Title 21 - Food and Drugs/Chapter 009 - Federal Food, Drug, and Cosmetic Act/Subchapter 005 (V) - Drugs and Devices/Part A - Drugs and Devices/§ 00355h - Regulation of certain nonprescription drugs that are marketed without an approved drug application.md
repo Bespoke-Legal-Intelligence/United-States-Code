@@ -48,7 +48,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;&emsp;(i) classified in category I for safety and effectiveness under a proposed monograph or advance notice of proposed rulemaking that is the most recently applicable proposal or determination for such drug issued under part 330 of title 21, Code of Federal Regulations;
 
-&emsp;&emsp;&emsp;(ii) in conformity with the requirements for nonprescription use of such proposed monograph or advance notice of proposedrulemaking, any applicable subsequent determination by the Secretary, the general requirements for nonprescription drugs, and conditions or requirements under subsection (b) or (k); and
+&emsp;&emsp;&emsp;(ii) in conformity with the requirements for nonprescription use of such proposed monograph or advance notice of proposed rulemaking, any applicable subsequent determination by the Secretary, the general requirements for nonprescription drugs, and conditions or requirements under subsection (b) or (k); and
 
 &emsp;&emsp;&emsp;(iii) in a dosage form that, immediately prior to March 27, 2020, has been used to a material extent and for a material time under section 321(p)(2) of this title.
 
@@ -122,7 +122,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 &emsp;&emsp;&emsp;&emsp;(II) publish a notice of such final administrative order in the Federal Register;
 
-&emsp;&emsp;&emsp;&emsp;(III) afford requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order,and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
+&emsp;&emsp;&emsp;&emsp;(III) afford requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order, and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) except with respect to drugs described in paragraph (3)(B), upon completion of the formal dispute resolution procedure, inform the persons which sought such dispute resolution of their right to request a hearing.
 
@@ -190,7 +190,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 #### (v) Final decision
 
-&emsp;&emsp;&emsp;(I) At the conclusion of a hearing requested under subparagraph (A), the presiding officer of the hearing shall issue adecision containing findings of fact and conclusions of law. The decision of the presiding officer shall be final.
+&emsp;&emsp;&emsp;(I) At the conclusion of a hearing requested under subparagraph (A), the presiding officer of the hearing shall issue a decision containing findings of fact and conclusions of law. The decision of the presiding officer shall be final.
 
 &emsp;&emsp;&emsp;(II) The final decision may not take effect until the period under subparagraph (D)(ii) for submitting a request for judicial review of such decision expires.
 
@@ -550,7 +550,7 @@ A sponsor who makes a change to a drug subject to this section shall submit upda
 
 #### (f) Approvals under section 355 of this title
 
-The provisions of this section shall not be construed to preclude a person from seeking or maintaining the approval of an application for a drug under sections 355(b)(1), 355(b)(2), and 355(j) of this title. A determination under this section that a drug is not subject to section 353(b)(1) of this title, is generally recognized as safe and effective under section 321(p)(1) of this title, and is not a new drug under section 321(p) of this title shall constitute a finding that the drug is safe and effective that may be relied upon for purposes of an application under section 355(b)(2) of this title, so that the applicant shall be required to submit for purposes of such application only information needed to support any modification of the drug that is not covered by such determination under this section.
+The provisions of this section shall not be construed to preclude a person from seeking or maintaining the approval of an application for a drug under sections 355(b)(1), 355(b)(2), and 355(j)of this title. A determination under this section that a drug is not subject to section 353(b)(1) of this title, is generally recognized as safe and effective under section 321(p)(1) of this title, and is not a new drug under section 321(p) of this title shall constitute a finding that the drug is safe and effective that may be relied upon for purposes of an application under section 355(b)(2) of this title, so that the applicant shall be required to submit for purposes of such application only information needed to support any modification of the drug that is not covered by such determination under this section.
 
 #### (g) Public availability of administrative orders
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated to carry out this part, such sums as may
 
 For purposes of this part, the term "community services" means services which are identified by an institution of higher education, through formal or informal consultation with local nonprofit, governmental, and community-based organizations, as designed to improve the quality of life for community residents, particularly low-income individuals, or to solve particular problems related to their needs, including—
 
-&emsp;(1) such fields as health care, child care (including child care services provided on campusthat are open and accessible to the community), literacy training, education (including tutorial services), welfare, social services, transportation, housing and neighborhood improvement, public safety, emergency preparedness and response, crime prevention and control, recreation, rural development, and community improvement;
+&emsp;(1) such fields as health care, child care (including child care services provided on campus that are open and accessible to the community), literacy training, education (including tutorial services), welfare, social services, transportation, housing and neighborhood improvement, public safety, emergency preparedness and response, crime prevention and control, recreation, rural development, and community improvement;
 
 &emsp;(2) work in a project, as defined in section 12511(20) <sup>1</sup> of title 42;
 
@@ -26,7 +26,7 @@ For purposes of this part, the term "community services" means services which ar
 
 &emsp;&emsp;(C) counseling, including career counseling.
 
-(Pub. L. 89–329, title IV, §441, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; amended Pub. L. 102–325, title IV, §441(b)–(d), July 23, 1992, 106 Stat. 563; Pub. L. 103–82, title I, §111(b)(3), Sept. 21, 1993, 107 Stat. 860; Pub. L. 105–244, title IV, §441, Oct. 7, 1998, 112 Stat. 1711; Pub. L. 110–315, title IV, §441, Aug. 14, 2008, 122 Stat. 3258.)
+(Pub. L. 89–329, title IV, §441, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat.1429; amended Pub. L. 102–325, title IV, §441(b)–(d), July 23, 1992, 106 Stat. 563; Pub. L. 103–82, title I, §111(b)(3), Sept. 21, 1993, 107 Stat. 860; Pub. L. 105–244, title IV, §441, Oct. 7, 1998, 112 Stat. 1711; Pub. L. 110–315, title IV, §441, Aug. 14, 2008, 122 Stat. 3258.)
 
 #### <b>Editorial Notes</b>
 

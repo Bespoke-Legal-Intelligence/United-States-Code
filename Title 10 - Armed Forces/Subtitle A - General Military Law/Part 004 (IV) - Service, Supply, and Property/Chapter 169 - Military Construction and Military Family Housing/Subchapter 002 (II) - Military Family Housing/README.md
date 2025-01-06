@@ -21,12 +21,15 @@
 | [2836\.](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md) | Military housing rental guarantee program. |
 | [2837\.](%C2%A7%2002837%20-%20Housing%20Requirements%20and%20Market%20Analysis.md) | Housing Requirements and Market Analysis. |
 | [2838\.](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md) | Leasing of military family housing to Secretary of Defense. |
+| [2839\.](%C2%A7%2002839%20-%20Application%20of%20certain%20authorities%20and%20standards%20to%20historic%20military%20housing%20and%20associated%20historic%20properties%20of%20the%20Department%20of%20the%E2%80%A6.md) | Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. B, title XXVIII, §2823(b), Dec. 23, 2024, 138 Stat. 2256, which directed amendment of the analysis for this chapter by adding item 2839, was executed to the analysis for this subchapter, to reflect the probable intent of Congress.
 
 <b>2022</b>—Pub. L. 117–263, div. B, title XXVIII, §2821(a), Dec. 23, 2022, 136 Stat. 2999, added item 2837. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -38,7 +41,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 "Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing".
 
-<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted "Military family housing: local comparabilityof room patterns and floor areas" for "Limitations on space by pay grade" in item 2826.
+<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted "Military family housing: local comparability of room patterns and floor areas" for "Limitations on space by pay grade" in item 2826.
 
 <b>1994</b>—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
 
@@ -70,3 +73,4 @@
 - [&sect; 02836 - Military housing rental guarantee program](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md)
 - [&sect; 02837 - Housing Requirements and Market Analysis](%C2%A7%2002837%20-%20Housing%20Requirements%20and%20Market%20Analysis.md)
 - [&sect; 02838 - Leasing of military family housing to Secretary of Defense](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md)
+- [&sect; 02839 - Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the&#8230;](%C2%A7%2002839%20-%20Application%20of%20certain%20authorities%20and%20standards%20to%20historic%20military%20housing%20and%20associated%20historic%20properties%20of%20the%20Department%20of%20the%E2%80%A6.md)

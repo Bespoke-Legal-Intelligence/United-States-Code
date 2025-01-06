@@ -96,7 +96,7 @@ Membership; appointment by president.—
 
 &emsp;&emsp;(A)
 
-In general.—The advisory council shall be composed of no fewer than 8 and no more than 10 members, each of whom shall be appointed by the President from principal officers of the executive departments andsenior officers of the Armed Forces whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation.
+In general.—The advisory council shall be composed of no fewer than 8 and no more than 10 members, each of whom shall be appointed by the President from principal officers of the executive departments and senior officers of the Armed Forces whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation.
 
 &emsp;&emsp;(B)
 

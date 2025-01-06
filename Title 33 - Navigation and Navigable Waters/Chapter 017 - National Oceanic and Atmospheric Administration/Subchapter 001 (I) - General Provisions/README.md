@@ -14,7 +14,7 @@ Increased Fleet Capacity.—
 
 In general.—The Under Secretary of Commerce for Oceans and Atmosphere shall acquire adequate aircraft platforms with the necessary observation and modification requirements—
 
-&emsp;&emsp;"(A) to meet agency-wide air reconnaissance and research mission requirements, particularly with respect to hurricanes and tropical cyclones, andalso for atmospheric chemistry, climate, air quality for public health, full-season fire weather research and operations, full-season atmospheric river air reconnaissance observations, and other mission areas; and
+&emsp;&emsp;"(A) to meet agency-wide air reconnaissance and research mission requirements, particularly with respect to hurricanes and tropical cyclones, and also for atmospheric chemistry, climate, air quality for public health, full-season fire weather research and operations, full-season atmospheric river air reconnaissance observations, and other mission areas; and
 
 &emsp;&emsp;"(B) to ensure data and information collected by the aircraft are made available to all users for research and operations purposes.
 

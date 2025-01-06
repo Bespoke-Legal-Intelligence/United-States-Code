@@ -18,7 +18,7 @@ There is established within the Department of the Interior an interagency commit
 
 #### (B) Requirement for appointments
 
-&emsp;&emsp;An officer appointed to serve as a member of the Committee shall hold a position as anassistant secretary, or an equivalent position, or a higher ranking position.
+&emsp;&emsp;An officer appointed to serve as a member of the Committee shall hold a position as an assistant secretary, or an equivalent position, or a higher ranking position.
 
 #### (3) Guidance
 

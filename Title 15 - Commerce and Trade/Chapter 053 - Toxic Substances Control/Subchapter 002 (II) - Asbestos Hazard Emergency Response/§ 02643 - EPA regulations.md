@@ -58,7 +58,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (5) Response action for potentially significantly damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(D), methods for responding shall include methods identified in chapter 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become significantly damaged, deteriorated, or delaminated.
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(D),methods for responding shall include methods identified in chapter 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become significantly damaged, deteriorated, or delaminated.
 
 #### (6) "Preventive measures" defined
 
@@ -122,7 +122,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;(F) With respect to the person or persons who inspected for asbestos-containing material and who will design or carry out response actions with respect to the friable asbestos-containing material, one of the following statements:
 
-&emsp;&emsp;&emsp;(i) If the State has adopted a contractor accreditation plan under section 2646(b) of this title, a statement that the person (or persons) is accredited under such plan.
+&emsp;&emsp;&emsp;(i) If the State has adopted a contractor accreditation plan under section 2646(b) ofthis title, a statement that the person (or persons) is accredited under such plan.
 
 &emsp;&emsp;&emsp;(ii) A statement that the local educational agency used (or will use) persons who have been accredited by another State which has adopted a contractor accreditation plan under section 2646(b) of this title or is accredited pursuant to an Administrator-approved course under section 2646(c) of this title.
 
@@ -178,7 +178,7 @@ Any change made in the "Guidance for Controlling Asbestos-Containing Material in
 
 #### (2) Regulations
 
-&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extent feasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
+&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extent feasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out suchactivities with respect to a school building under this subchapter.
 
 #### (m) Waiver
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) with respect to the new drug involved, encourage an application for an exemption for investigational use of the new drug under regulations issued under section 355(i) of title 21.
 
-(2)(A) The AIDS Research Advisory Committee established pursuant to section 300cc–3 of thistitle shall make recommendations to the Secretary with respect to new drugs appropriate for determinations described in paragraph (1).
+(2)(A) The AIDS Research Advisory Committee established pursuant to section 300cc–3 of this title shall make recommendations to the Secretary with respect to new drugs appropriate for determinations described in paragraph (1).
 
 (B) The Secretary shall, as soon as is practicable, determine the merits of recommendations received by the Secretary pursuant to subparagraph (A).
 

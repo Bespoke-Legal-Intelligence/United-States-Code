@@ -8,7 +8,7 @@ Section 5703, Pub. L. 102–281, title IV, §424, May 13, 1992, 106 Stat. 143, r
 
 Section 5704, Pub. L. 102–281, title IV, §425, May 13, 1992, 106 Stat. 143, related to stipends.
 
-Section 5705, Pub. L. 102–281, title IV, §426, May 13, 1992, 106 Stat. 143; Pub. L. 111–8, div. D, title VI, §623(1),Mar. 11, 2009, 123 Stat. 678, related to Christopher Columbus Fellowship Fund.
+Section 5705, Pub. L. 102–281, title IV, §426, May 13, 1992, 106 Stat. 143; Pub. L. 111–8, div. D, title VI, §623(1), Mar. 11, 2009, 123 Stat. 678, related to Christopher Columbus Fellowship Fund.
 
 Section 5706, Pub. L. 102–281, title IV, §427, May 13, 1992, 106 Stat. 144, related to audits of the activities of the Foundation.
 

@@ -18,11 +18,11 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (i) Previously filed application
 
-&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee forsuch application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
 #### (ii) Certain abbreviated applications involving combination animal drugs
 
-&emsp;&emsp;&emsp;An abbreviated application which is subject to the criteria in section 360b(d)(4) of this title and submitted on or after October 1, 2013 shall be subject to a fee equal to 50 percent of the amount of the abbreviated application fee established in subsection (c).
+&emsp;&emsp;&emsp;An abbreviated application which is subject to the criteria in section 360b(d)(4) ofthis title and submitted on or after October 1, 2013 shall be subject to a fee equal to 50 percent of the amount of the abbreviated application fee established in subsection (c).
 
 #### (D) Refund of fee if application refused for filing
 
@@ -288,7 +288,7 @@ In this section and section 379j–22 of this title:
 
 &emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" means the expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
-&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of theFood and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
 &emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources;
 
@@ -348,7 +348,7 @@ In this section and section 379j–22 of this title:
 
 &emsp;&emsp;(H) Review of advertising and labeling prior to approval of an abbreviated application or supplemental abbreviated application, but not after such application has been approved.
 
-&emsp;&emsp;(I) The activities necessary for exploration and implementation of the United Statesand European Union Mutual Recognition Agreement for Pharmaceutical Good Manufacturing Practice Inspections, and the United States and United Kingdom Mutual Recognition Agreement Sectoral Annex for Pharmaceutical Good Manufacturing Practices, and other mutual recognition agreements, with respect to generic new animal drug products subject to review, including implementation activities prior to and following product approval.
+&emsp;&emsp;(I) The activities necessary for exploration and implementation of the United States and European Union Mutual Recognition Agreement for Pharmaceutical Good Manufacturing Practice Inspections, and the United States and United Kingdom Mutual Recognition Agreement Sectoral Annex for Pharmaceutical Good Manufacturing Practices, and other mutual recognition agreements, with respect to generic new animal drug products subject to review, including implementation activities prior to and following product approval.
 
 #### (12) Request to establish a generic investigational new animal drug file
 
@@ -428,7 +428,7 @@ Subsec. (c)(3). Pub. L. 115–234, §202(b)(1)(A), (2), redesignated par. (2) as
 
 > Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 115–234, §202(b)(1)(A), (3), redesignated par. (3) as (4) and substituted "2023" for "2018" in two places and "2024" for "2019". Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 115–234, §202(b)(1)(A), (3), redesignated par. (3) as (4) and substituted "2023" for "2018"in two places and "2024" for "2019". Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 115–234, §202(b)(1)(A), redesignated par. (4) as (5).
 
@@ -472,7 +472,7 @@ Pub. L. 113–14, title II, §204, June 13, 2013, 127 Stat. 474, provided that: 
 
 #### Findings
 
-Pub. L. 118–15, div. B, title III, §2311(b), Sept. 30, 2023, 137 Stat. 90, provided that: "Congress finds that the feesauthorized by the amendments made in this chapter \[chapter 2 (§§2311–2316) of subtitle A of title III of div. B of Pub. L. 118–15, amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21 et seq.), in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+Pub. L. 118–15, div. B, title III, §2311(b), Sept. 30, 2023, 137 Stat. 90, provided that: "Congress finds that the fees authorized by the amendments made in this chapter \[chapter 2 (§§2311–2316) of subtitle A of title III of div. B of Pub. L. 118–15, amending this section and section 379j–22 of this title and repealing provisions set out asnotes under this section and section 379j–22 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21 et seq.), in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
 Similar provisions were contained in the following prior acts:
 

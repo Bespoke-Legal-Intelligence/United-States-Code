@@ -116,7 +116,7 @@ During the term of a contract entered into under the program established under t
 
 #### (2) Contract offers and payments
 
-&emsp;The Secretary shall use the method of determination described in section 3834(d) of thistitle to determine the acceptability of contract offers and the amount of rental payments under this section.
+&emsp;The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
 
 #### (3) Incentives
 
@@ -156,5 +156,5 @@ Subsec. (f)(2). Pub. L. 113–79, §2002(d)(2), substituted "section 3834(d)(2)(
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 

@@ -154,7 +154,7 @@ Concept of Operations and Oversight Mechanism for Cyber Defense of Nuclear Comma
 
 &emsp;&emsp;"(B) cybersecurity capabilities to be acquired and employed and operational tactics, techniques, and procedures, including cyber protection team and sensor deployment strategies, to be used to monitor, defend, and mitigate vulnerabilities in nuclear command and control systems; and
 
-&emsp;"(2) an oversight mechanism or governance model for overseeing the implementation of the concept ofoperations developed and established under paragraph (1), related development, systems engineering, and acquisition activities and programs, and the plan required by subsection (a), including specification of the—
+&emsp;"(2) an oversight mechanism or governance model for overseeing the implementation of the concept of operations developed and established under paragraph (1), related development, systems engineering, and acquisition activities and programs, and the plan required by subsection (a), including specification of the—
 
 &emsp;&emsp;"(A) roles and responsibilities of relevant entities within the Office of the Secretary, the military services, combatant commands, the Defense Agencies, and the Department of Defense Field Activities in overseeing the defense of the nuclear command and control system against cyber attacks;
 

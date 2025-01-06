@@ -6,7 +6,7 @@ Notwithstanding any other provision of this part or part 3, the following provis
 
 &emsp;(1) Section 1052 of this title shall be applied as if all employees of each of the employers were employed by a single employer.
 
-&emsp;(2) Sections 1053 and 1054 of this title shall be applied as if all such employers constituted a single employer, except that the application of any rules with respect to breaks in service shall be made under regulations prescribed by the Secretary.
+&emsp;(2) Sections 1053 and 1054 of this title shall be applied as if all such employers constituted a single employer, except that the application of any rules with respect to breaks in serviceshall be made under regulations prescribed by the Secretary.
 
 &emsp;(3) The minimum funding standard provided by section 1082 of this title shall be determined as if all participants in the plan were employed by a single employer.
 
@@ -30,7 +30,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (1) General rule
 
-&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combinedplan, the plan administrator shall terminate each such plan separately.
+&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
 
 #### (2) Eligible combined plan
 
@@ -79,7 +79,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (iv) Years of service
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under therules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
 
 #### (C) Contribution requirements
 
@@ -243,7 +243,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original "this Act", meaning Pub. L. 93–406,known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (f)(1)(A), (3)(B), is section 104 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
 
@@ -281,7 +281,7 @@ Amendment by Pub. L. 116–136 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 2014 Amendment
 
-Amendments by Pub. L. 113–235 effective as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act,Pub. L. 113–97, see section 3(c) of Pub. L. 113–235, set out as a note under section 414 of Title 26, Internal Revenue Code.
+Amendments by Pub. L. 113–235 effective as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act, Pub. L. 113–97, see section 3(c) of Pub. L. 113–235, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 Amendment by section 101 of Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

@@ -122,7 +122,7 @@ Pub. L. 116–25, title I, §1208(b), July 1, 2019, 133 Stat. 991, provided that
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply to contacts made after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to contacts made after the 180th day after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1982 Amendment
 

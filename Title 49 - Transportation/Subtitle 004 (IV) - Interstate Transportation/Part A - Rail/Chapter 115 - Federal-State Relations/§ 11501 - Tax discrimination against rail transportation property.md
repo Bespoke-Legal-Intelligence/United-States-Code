@@ -12,7 +12,7 @@
 
 (b) The following acts unreasonably burden and discriminate against interstate commerce, and a State, subdivision of a State, or authority acting for a State or subdivision of a State may not do any of them:
 
-&emsp;(1) Assess rail transportation property at a value that has a higher ratio to the true market value of the rail transportation property than the ratio that the assessed value of other commercial and industrial property in the same assessment jurisdiction has to the truemarket value of the other commercial and industrial property.
+&emsp;(1) Assess rail transportation property at a value that has a higher ratio to the true market value of the rail transportation property than the ratio that the assessed value of other commercial and industrial property in the same assessment jurisdiction has to the true market value of the other commercial and industrial property.
 
 &emsp;(2) Levy or collect a tax on an assessment that may not be made under paragraph (1) of this subsection.
 

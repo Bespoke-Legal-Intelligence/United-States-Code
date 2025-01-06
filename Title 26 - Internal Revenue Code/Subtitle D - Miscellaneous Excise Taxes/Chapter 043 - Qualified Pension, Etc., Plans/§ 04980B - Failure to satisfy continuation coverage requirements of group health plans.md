@@ -74,7 +74,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of failures with respect to plans other than multiemployer plans, the tax imposed by subsection (a) for failures during the taxable year of the employer shall not exceed the amount equal to the lesser of—
+&emsp;&emsp;&emsp;In the case of failures with respect to plans other than multiemployer plans, thetax imposed by subsection (a) for failures during the taxable year of the employer shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (or predecessor employer) during the preceding taxable year for group health plans, or
 
@@ -154,7 +154,7 @@ This section shall not apply to—
 
 #### (1) In general
 
-&emsp;A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act (42 U.S.C. 1396s(h)(6))) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
+&emsp;A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act (42 U.S.C. 1396s(h)(6))) is not reduced below the coverage provided by the plan as of May 1,1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
 
 #### (2) Continuation coverage
 
@@ -188,7 +188,7 @@ This section shall not apply to—
 
 #### (V) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respectto a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (VI) Special rule for TAA-eligible individuals
 
@@ -208,7 +208,7 @@ This section shall not apply to—
 
 #### (iii) Failure to pay premium
 
-&emsp;&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of subparagraph (C)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
+&emsp;&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to maketimely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of subparagraph (C)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
 
 #### (iv) Group health plan coverage or medicare entitlement
 
@@ -238,7 +238,7 @@ This section shall not apply to—
 
 #### (E) Conversion option
 
-&emsp;&emsp;In the case of a qualified beneficiary whose period of continuation coverage expiresunder subparagraph (B)(i), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under subparagraph (B)(i), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 #### (3) Qualifying event
 
@@ -360,7 +360,7 @@ This section shall not apply to—
 
 &emsp;In accordance with regulations prescribed by the Secretary—
 
-&emsp;&emsp;(A) The group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection.
+&emsp;&emsp;(A) The group health plan shall provide, at the time of commencement of coverageunder the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection.
 
 &emsp;&emsp;(B) The employer of an employee under a plan must notify the plan administrator of a qualifying event described in subparagraph (A), (B), (D), or (F) of paragraph (3) with respect to such employee within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event.
 
@@ -378,7 +378,7 @@ This section shall not apply to—
 
 #### (7) Covered employee
 
-&emsp;For purposes of this subsection, the term "covered employee" means an individual who is (or was) provided coverage under a group health plan by virtue of the performance ofservices by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1)).
+&emsp;For purposes of this subsection, the term "covered employee" means an individual who is (or was) provided coverage under a group health plan by virtue of the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1)).
 
 #### (8) Optional extension of required periods
 
@@ -448,7 +448,7 @@ For purposes of this section—
 
 The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii) and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2704(c)(2) of the Act is classified to section 300gg–3(c)(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -630,7 +630,7 @@ Limitation of period of premium assistance.—
 
 Eligibility for additional coverage.—Paragraph (1)(A) shall not apply with respect to any assistance eligible individual described in paragraph (3) for months of coverage beginning on or after the earlier of—
 
-&emsp;&emsp;&emsp;"(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only excepted benefits (as defined in section 9832(c) of the Internal Revenue Code of 1986, section 733(c) of the Employee Retirement Income Security Act of 1974, and section 2791(c) of the Public Health Service Act), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), coverage under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of the Internal Revenue Code of 1986)), or eligible for benefits under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]; or
+&emsp;&emsp;&emsp;"(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only excepted benefits (as defined in section 9832(c) of the Internal Revenue Code of 1986, section 733(c) of the Employee Retirement Income Security Act of1974, and section 2791(c) of the Public Health Service Act), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), coverage under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of the Internal Revenue Code of 1986)), or eligible for benefits under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]; or
 
 &emsp;&emsp;&emsp;"(ii) the earlier of—
 
@@ -668,7 +668,7 @@ In general.—For purposes of applying section 605(a) of the Employee Retirement
 
 Commencement of cobra continuation coverage.—Any COBRA continuation coverage elected by a qualified beneficiary during an extended election period under subparagraph (A)—
 
-&emsp;&emsp;&emsp;"(i) shall commence (including for purposes of applying the treatment of premium payments under paragraph (1)(A) and any cost-sharing requirements for items and services under a group health plan) with the first period of coverage beginning on or after the first day of the firstmonth beginning after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) shall commence (including for purposes of applying the treatment of premium payments under paragraph (1)(A) and any cost-sharing requirements for items and services under a group health plan) with the first period of coverage beginning on or after the first day of the first month beginning after the date of the enactment of this Act, and
 
 &emsp;&emsp;&emsp;"(ii) shall not extend beyond the period of COBRA continuation coverage that would have been required under the applicable COBRA continuation coverage provision if the coverage had been elected as required under such provision or had not been discontinued.
 
@@ -714,7 +714,7 @@ Specific requirements.—Each additional notification under subparagraph (A) sha
 
 &emsp;&emsp;"(C)
 
-Notice in connection with extended election periods.—In the case of any assistance eligible individual described in paragraph (3) (or any individual described in paragraph (4)(A)) who became entitled to elect COBRA continuation coverage before the first day of the first month beginning after the date of the enactment of this Act \[Mar. 11, 2021\], the administrator of the applicable group health plan (or other entity) shall provide (within 60 days after such first day of such first month) for the additional notification required to be provided under subparagraph (A) and failure to provide such notice shall be treated as a failure to meet the notice requirements under the applicable COBRA continuation provision.
+Notice in connection with extended election periods.—In the case of any assistance eligible individual described in paragraph (3) (or any individual described in paragraph (4)(A)) who became entitled to elect COBRA continuation coverage before the first day of the first month beginning after the date of the enactment of this Act \[Mar. 11, 2021\], the administrator of the applicable group healthplan (or other entity) shall provide (within 60 days after such first day of such first month) for the additional notification required to be provided under subparagraph (A) and failure to provide such notice shall be treated as a failure to meet the notice requirements under the applicable COBRA continuation provision.
 
 &emsp;&emsp;"(D)
 
@@ -758,7 +758,7 @@ Outreach.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium assistance provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include aninitial focus on those individuals electing continuation coverage who are referred to in paragraph (5)(C). Information on such premium assistance, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
+In general.—The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium assistance provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coverage who are referred to in paragraph (5)(C). Information on such premium assistance, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
 
 &emsp;&emsp;"(B)
 

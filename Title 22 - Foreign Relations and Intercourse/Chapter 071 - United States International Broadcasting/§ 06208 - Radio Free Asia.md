@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-(1) Grants authorized under section 6204 of this title shall be available to make annual grants for the purpose of carrying out radio broadcasting to Asia.
+(1) Grants authorized under section 6204 of this title shall be available to make annual grantsfor the purpose of carrying out radio broadcasting to Asia.
 
 (2) Such broadcasting service shall be referred to as "Radio Free Asia".
 
@@ -18,7 +18,7 @@ Radio Free Asia shall—
 
 Any grant agreement or grants under this section shall be subject to the following limitations and restrictions:
 
-&emsp;(1) The Agency may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrativeand managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Agency.
+&emsp;(1) The Agency may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Agency.
 
 &emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government.
 

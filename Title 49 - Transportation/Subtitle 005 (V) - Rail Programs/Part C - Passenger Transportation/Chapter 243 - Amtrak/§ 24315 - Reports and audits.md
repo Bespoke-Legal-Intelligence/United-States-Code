@@ -38,11 +38,29 @@ Amtrak General and Legislative Annual Report.—(1) Not later than February 15 o
 
 &emsp;(A) shall include a discussion and accounting of Amtrak's success in meeting the goal described in section 24902(a);
 
-&emsp;(B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance; and
+&emsp;(B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance;
 
-&emsp;(C) shall incorporate the category described in section 24319(c)(2)(C).
+&emsp;(C) shall incorporate the category described in section 24319(c)(2)(C);
+
+&emsp;(D) shall include an action plan for bringing Amtrak-served stations that are not in compliance with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) into compliance with such Act, as required by the settlement agreement entered into in 2020 between Amtrak and the Department of Justice;
+
+&emsp;(E) shall include a status report on—
+
+&emsp;&emsp;(i) Amtrak-served stations for which Amtrak is solely responsible for compliance with such Act based on a station assessment carried out by Amtrak, including a timeline for any required compliance with such Act, as required by the settlement agreement;
+
+&emsp;&emsp;(ii) Amtrak-served stations for which Amtrak has a shared responsibility for compliance with such Act based on a station assessment carried out by Amtrak or by the party responsible for such compliance, including a timeline for any required compliance with such Act for the portions of the station for which Amtrak is the responsible party consistent with the terms of the settlement agreement, identifying who is responsible for compliance (and the status of the compliance of each responsible party with such Act) for such portions and the timeline for compliance in cases in which Amtrak is not the responsible party; and
+
+&emsp;&emsp;(iii) the status of compliance with such Act for all Amtrak-served stations for which Amtrak is not the responsible party, nor is responsible for a portion of the station, and identify the entity or entities that have responsibility for compliance with such Act, based on a station assessment carried out by Amtrak or the party responsible under such Act.
 
 (2) Amtrak may submit reports to the President and Congress at other times Amtrak considers desirable.
+
+(3) Amtrak may meet the requirements described in clauses (ii) and (iii) of paragraph (1)(E) by demonstrating that Amtrak took reasonable measures to obtain cooperation from responsible entities.
+
+(4) Amtrak shall submit the action plan and status report required under subparagraphs (D) and (E) of paragraph (1)—
+
+&emsp;(A) annually while the settlement agreement referred to in paragraph (1)(D) is in effect; and
+
+&emsp;(B) every 5 years beginning on the first day the settlement is no longer in effect.
 
 (c)
 
@@ -62,13 +80,13 @@ Availability of Records and Property of Amtrak and Rail Carriers.—Amtrak and, 
 
 (g)
 
-Comptroller General's Report to Congress.—The Comptroller General shall submit to Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
+Comptroller General's Report to Congress.—The Comptroller General shall submit to Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related tothose operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
 
 (h)
 
 Access to Records and Accounts.—A State shall have access to Amtrak's records, accounts, and other necessary documents used to determine the amount of any payment to Amtrak required of the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 918; Pub. L. 105–134, title II, §206, Dec. 2, 1997, 111 Stat. 2584; Pub. L. 117–58, div. B, title II, §§22204(a), 22206(c)(1), Nov. 15, 2021, 135 Stat. 699, 702.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 918; Pub. L. 105–134, title II, §206, Dec. 2, 1997, 111 Stat. 2584; Pub. L. 117–58, div. B, title II, §§22204(a), 22206(c)(1), Nov. 15, 2021, 135 Stat. 699, 702; Pub. L. 118–205, §2, Dec. 23, 2024, 138 Stat. 2697.)
 
 Historical and Revision Notes
 
@@ -148,7 +166,15 @@ In subsection (g), the word "giving" is substituted for "The report to the Congr
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The Americans with Disabilities Act of 1990 and such Act, referred to in subsec. (b)(1)(D), (E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1)(D), (E). Pub. L. 118–205, §2(1), added subpars. (D) and (E).
+
+Subsec. (b)(3), (4). Pub. L. 118–205, §2(2), added pars. (3) and (4).
 
 <b>2021</b>—Subsec. (a)(1)(I). Pub. L. 117–58, §22204(a), added subpar. (I).
 

@@ -38,7 +38,7 @@ Point of order.—It shall not be in order in either the House of Representative
 
 (3) In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.
 
-(Pub. L. 93–344, title IV, §401, July 12, 1974, 88 Stat. 317; Pub. L. 99–177, title II, §211, Dec. 12, 1985, 99 Stat. 1056; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XIII, §13207(a)(1)(F), (G), Nov. 5, 1990, 104 Stat. 1388–617, 1388–618; Pub. L. 105–33, title X,§10116(a)(1)–(5), Aug. 5, 1997, 111 Stat. 690, 691; Pub. L. 113–67, div. A, title I, §122(12), (13), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title IV, §401, July 12, 1974, 88 Stat. 317; Pub. L. 99–177, title II, §211, Dec. 12, 1985, 99 Stat. 1056; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XIII, §13207(a)(1)(F), (G), Nov. 5, 1990, 104 Stat. 1388–617, 1388–618; Pub. L. 105–33, title X, §10116(a)(1)–(5), Aug. 5, 1997, 111 Stat. 690, 691; Pub. L. 113–67, div. A, title I, §122(12), (13), Dec. 26, 2013, 127 Stat. 1176.)
 
 #### <b>Editorial Notes</b>
 

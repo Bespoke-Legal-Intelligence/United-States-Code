@@ -44,7 +44,7 @@ Nothing in this section shall be construed to provide any additional authority t
 
 #### Codification
 
-Section was enacted as part of the Cyber Incident Reporting for Critical Infrastructure Act of 2022 and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Cyber Incident Reporting for Critical Infrastructure Act of 2022 and alsoas part of the Consolidated Appropriations Act, 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

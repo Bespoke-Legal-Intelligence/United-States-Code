@@ -2,7 +2,7 @@
 
 (a) Credits and liabilities of the United States accrued as a result of acquisitions and transfers of logistic support, supplies, and services under the authority of this subchapter shall be liquidated not less often than once every 12 months by direct payment to the entity supplying such support, supplies, or services by the entity receiving such support, supplies, or services.
 
-(b) Payment-in-kind or exchange entitlements accrued as a result of acquisitions and transfersof logistic support, supplies, and services under authority of this subchapter shall be satisfied within 12 months after the date of the delivery of the logistic support, supplies, or services.
+(b) Payment-in-kind or exchange entitlements accrued as a result of acquisitions and transfers of logistic support, supplies, and services under authority of this subchapter shall be satisfied within 12 months after the date of the delivery of the logistic support, supplies, or services.
 
 (c)(1) Any credits of the United States accrued as a result of the provision of logistic support, supplies, and services under the authority of this subchapter that remain unliquidated more than 18 months after the date of delivery of the logistic support, supplies, or services may, at the option of the Secretary of Defense, with the concurrence of the Secretary of State, be liquidated by offsetting the credits against any amount owed by the Department of Defense, pursuant to a transaction or transactions concluded under the authority of this subchapter, to the government or international organization to which the logistic support, supplies, or services were provided by the United States.
 
@@ -28,7 +28,7 @@
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title X, §1083(b), Dec. 23, 2016, 130 Stat. 2420, provided that: "Subsection (c) of section 2345 of title 10, United States Code, as added by subsection (a), shall apply with respect to credits accrued by the United States that—
+Pub. L. 114–328, div. A, title X, §1083(b), Dec. 23, 2016, 130 Stat. 2420, provided that: "Subsection (c) of section2345 of title 10, United States Code, as added by subsection (a), shall apply with respect to credits accrued by the United States that—
 
 &emsp;"(1) were accrued prior to, and remain unpaid as of, the date of the enactment of this Act \[Dec. 23, 2016\]; or
 

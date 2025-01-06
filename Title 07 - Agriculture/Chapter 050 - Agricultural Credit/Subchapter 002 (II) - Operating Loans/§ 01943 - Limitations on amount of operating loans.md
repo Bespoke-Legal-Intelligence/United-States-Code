@@ -24,7 +24,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 #### (2) Limitations
 
-&emsp;The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans madeunder this subsection to any 1 borrower to exceed $50,000.
+&emsp;The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this subsection to any 1 borrower to exceed $50,000.
 
 #### (3) Applications
 
@@ -78,7 +78,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

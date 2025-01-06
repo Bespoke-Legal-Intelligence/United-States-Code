@@ -46,7 +46,7 @@ Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 
 #### Codification
 
-Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of this section by Pub. L. 115–334, subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L.103–354 amended section 5315 of Title 5, Government Organization and Employees. See 2018 Amendment note below.
+Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of this section by Pub. L. 115–334, subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended section 5315 of Title 5, Government Organization and Employees. See 2018 Amendment note below.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 (b) The Counselor, with the approval of the Chief Justice, may appoint and fix the compensation of necessary employees. The Counselor and his employees shall be deemed employees of the Supreme Court.
 
-(c)(1) Notwithstanding section 1342 of title 31, the Counselor, with the approval of the Chief Justice, may accept voluntary personal services to assist with public and visitor programs.
+(c)(1) Notwithstanding section 1342 of title 31, the Counselor, with the approval of the ChiefJustice, may accept voluntary personal services to assist with public and visitor programs.
 
 (2) No person may volunteer personal services under this subsection unless the person has first agreed, in writing, to waive any claim against the United States arising out of or in connection with such services, other than a claim under chapter 81 of title 5.
 

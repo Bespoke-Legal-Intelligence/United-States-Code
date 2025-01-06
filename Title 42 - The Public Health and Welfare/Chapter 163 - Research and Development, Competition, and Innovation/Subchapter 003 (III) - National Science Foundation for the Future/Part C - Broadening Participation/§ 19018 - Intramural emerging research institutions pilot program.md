@@ -40,5 +40,5 @@ Not later than 5 years after August 9, 2022, the Director shall—
 
 This division, referred to in subsec. (a), is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1399, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of div. B to the Code, see Short Title note set out under section 18901 of this title and Tables.
 
-Division A, referred to in subsec. (a), is div. A of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1372, known as theCHIPS Act of 2022. For complete classification of div. A to the Code, see Short Title of 2022 Amendment note set out under section 4651 of Title 15, Commerce and Trade, and Tables.
+Division A, referred to in subsec. (a), is div. A of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1372, known as the CHIPS Act of 2022. For complete classification of div. A to the Code, see Short Title of 2022 Amendment note set out under section 4651 of Title 15, Commerce and Trade, and Tables.
 

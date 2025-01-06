@@ -92,7 +92,7 @@
 
 #### (3) Report on State expenditures on programs for needy families
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the total amount expended by the State during the quarter on programs for needy families, with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the total amount expended by the State during the quarter on programs for needy families,with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title.
 
 #### (4) Report on noncustodial parents participating in work activities
 
@@ -240,7 +240,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (A) Designation
 
-&emsp;&emsp;The Secretary, in consultation with an interagency work group established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate data exchange standards to govern the data reporting required under this part.
+&emsp;&emsp;The Secretary, in consultation with an interagency work group established by theOffice of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate data exchange standards to govern the data reporting required under this part.
 
 #### (B) Requirements
 
@@ -256,81 +256,75 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;&emsp;In designating reporting standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
 
+#### (e) Pilot projects for promoting accountability by measuring work outcomes
+
+#### (1) In general
+
+&emsp;The Secretary shall carry out a pilot program under which the Secretary may select up to 5 States to which a grant is made under section 603(a) of this title for a fiscal year to negotiate performance benchmarks for work and family outcomes for recipients of assistance under the State program funded under this part, and programs funded with qualified State expenditures. The Secretary shall issue guidance on how States apply for participation in the pilot. The benchmarks shall include—
+
+&emsp;&emsp;(A) the percentage of work-eligible individuals under the State program funded under this part who are in unsubsidized employment during the 2nd quarter after exiting the program;
+
+&emsp;&emsp;(B) the level of earnings of such individuals in the 2nd and 4th quarters after exit; and
+
+&emsp;&emsp;(C) other indicators of family stability and well-being as established by the Secretary.
+
+#### (2) Level of performance benchmark
+
+&emsp;The Secretary and a State selected under paragraph (1) shall agree to the requisite level of performance on these benchmarks after developing baseline data in the State and comparative data in other States.
+
+#### (3) Failure of State to meet benchmark
+
+&emsp;If a State fails to meet a measured benchmark standard agreed to under paragraph (2) for 2 successive fiscal years, the State, in order to continue in the pilot shall enter into a plan with the Secretary to achieve the required level of performance or, if mutually agreed to, adjust the benchmark based on new information about the feasibility of meeting such benchmark.
+
+#### (4) Duration
+
+&emsp;The pilot under this subsection shall be in effect for 6 fiscal years, with one year to establish benchmark data and negotiate targets and five years to measure performance against the targets, and shall supersede the requirements under section 607 of this title for such fiscal years, notwithstanding any other provision of law.
+
+#### (5) Application of penalty for failure to reduce assistance for recipients refusing without good cause to work
+
+&emsp;For purposes of section 609(a)(14) of this title, a State operating a pilot must have a system for reducing the amount of assistance payable to a family if an individual refuses, without good cause (including for reasons described in 607(e)(2) <sup>2</sup> of this title), to engage in any such activities as the State has required of such an individual. A State without such a system shall be considered to have failed to comply with the requirements of section 607(e) of this title for so long as the failure to comply continues.
+
+#### (6) Collection of performance data
+
+&emsp;Each State selected under paragraph (1), in consultation with the Secretary, shall collect and submit to the Secretary data on the performance of the State operating such a pilot program.
+
+#### (7) Reports
+
+#### (A) Initial report
+
+&emsp;&emsp;Not later than 12 months after June 3, 2023, the Secretary shall submit a report to Congress on the status of the program under this section.
+
+#### (B) Final report
+
+&emsp;&emsp;Not later than 12 months after the date on which the programs under this section have terminated, the Secretary shall submit a comprehensive report to Congress on outcomes achieved under such programs.
+
+#### (f) Reporting performance indicators
+
+#### (1) In general
+
+&emsp;Each State, in consultation with the Secretary, shall collect and submit to the Secretary the information necessary for each indicator described in paragraph (2), for fiscal year 2025 and each fiscal year thereafter.
+
+#### (2) Indicators of performance
+
+&emsp;The indicators described in this paragraph for a fiscal year are the following:
+
+&emsp;&emsp;(A) The percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.
+
+&emsp;&emsp;(B) The percentage of individuals who were work-eligible individuals who were in unsubsidized employment in the second quarter after the exit, who are also in unsubsidized employment during the fourth quarter after the exit.
+
+&emsp;&emsp;(C) The median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.
+
+&emsp;&emsp;(D) The percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within 1 year after the exit.
+
+#### (3) Definition of exit
+
+&emsp;In paragraph (2), the term "exit" means, with respect to a State program funded under this part, ceases to receive assistance under the program funded by this part.
+
+#### (4) Regulations
+
+&emsp;In order to ensure nationwide comparability of data, the Secretary, after consultation with the Secretary of Labor and with States, shall issue regulations governing the reporting of performance indicators under this subsection.
+
 (Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198; Pub. L. 118–5, div. C, title I, §§302, 304, June 3, 2023, 137 Stat. 34, 35.)
-
-#### Amendment of Section
-
-<i>Pub. L. 118–5, div. C, title I, §§302, 304, 305, June 3, 2023, 137 Stat. 34–36, provided that, effective Oct. 1, 2024, this section is amended by adding at the end the following:</i>
-
-#### <i>(e) Pilot projects for promoting accountability by measuring work outcomes</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>The Secretary shall carry out a pilot program under which the Secretary may select up to 5 States to which a grant is made under section 603(a) of this title for a fiscal year to negotiate performance benchmarks for work and family outcomes for recipients of assistance under the State program funded under this part, and programs funded with qualified State expenditures. The Secretary shall issue guidance on how States apply for participation in the pilot. The benchmarks shall include—</i>
-
-&emsp;&emsp;<i>(A) the percentage of work-eligible individuals under the State program funded under this part who are in unsubsidized employment during the 2nd quarter after exiting the program;</i>
-
-&emsp;&emsp;<i>(B) the level of earnings of such individuals in the 2nd and 4th quarters after exit; and</i>
-
-&emsp;&emsp;<i>(C) other indicators of family stability and well-being as established by the Secretary.</i>
-
-#### <i>(2) Level of performance benchmark</i>
-
-&emsp;<i>The Secretary and a State selected under paragraph (1) shall agree to the requisite level of per</i><i>formance on these benchmarks after developing baseline data in the State and comparative data in other States.</i>
-
-#### <i>(3) Failure of State to meet benchmark</i>
-
-&emsp;<i>If a State fails to meet a measured benchmark standard agreed to under paragraph (2) for 2 successive fiscal years, the State, in order to continue in the pilot shall enter into a plan with the Secretary to achieve the required level of performance or, if mutually agreed to, adjust the benchmark based on new information about the feasibility of meeting such benchmark.</i>
-
-#### <i>(4) Duration</i>
-
-&emsp;<i>The pilot under this subsection shall be in effect for 6 fiscal years, with one year to establish benchmark data and negotiate targets and five years to measure performance against the targets, and shall supersede the requirements under section 607 of this title for such fiscal years, notwithstanding any other provision of law.</i>
-
-#### <i>(5) Application of penalty for failure to reduce assistance for recipients refusing without good cause to work</i>
-
-&emsp;<i>For purposes of section 609(a)(14) of this title, a State operating a pilot must have a system for reducing the amount of assistance payable to a family if an individual refuses, without good cause (including for reasons described in 607(e)(2) of this title), to engage in any such activities as the State has required of such an individual. A State without such a system shall be considered to have failed to comply with the requirements of section 607(e) of this title for so long as the failure to comply continues.</i>
-
-#### <i>(6) Collection of performance data</i>
-
-&emsp;<i>Each State selected under paragraph (1), in consultation with the Secretary, shall collect and submit to the Secretary data on the performance of the State operating such a pilot program.</i>
-
-#### <i>(7) Reports</i>
-
-#### <i>(A) Initial report</i>
-
-&emsp;&emsp;<i>Not later than 12 months after June 3, 2023, the Secretary shall submit a report to Congress on the status of the program under this section.</i>
-
-#### <i>(B) Final report</i>
-
-&emsp;&emsp;<i>Not later than 12 months after the date on which the programs under this section have terminated, the Secretary shall submit a comprehensive report to Congress on outcomes achieved under such programs.</i>
-
-#### <i>(f) Reporting performance indicators</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Each State, in consultation with the Secretary, shall collect and submit to the Secretary the information necessary for each indicator described in paragraph (2), for fiscal year 2025 and each fiscal year thereafter.</i>
-
-#### <i>(2) Indicators of performance</i>
-
-&emsp;<i>The indicators described in this paragraph for a fiscal year are the following:</i>
-
-&emsp;&emsp;<i>(A) The percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.</i>
-
-&emsp;&emsp;<i>(B) The percentage of individuals who were work-eligible individuals who were in unsubsidized employment in the second quarter after the exit, who are also in unsubsidized employment during the fourth quarter after the exit.</i>
-
-&emsp;&emsp;<i>(C) The median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.</i>
-
-&emsp;&emsp;<i>(D) The percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within 1 year after the exit.</i>
-
-#### <i>(3) Definition of exit</i>
-
-&emsp;<i>In paragraph (2), the term "exit" means, with respect to a State program funded under this part, ceases to receive assistance under the program funded by this part.</i>
-
-#### <i>(4) Regulations</i>
-
-&emsp;<i>In order to ensure nationwide comparability of data, the Secretary, after consultation with the Secretary of Labor and with States, shall issue regulations governing the reporting of performance indicators under this subsection.</i>
-
-<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -362,7 +356,7 @@ Subsec. (d). Pub. L. 112–96, §4003(a), added subsec. (d).
 
 <b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–171, §7102(b)(2)(A), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" before colon at end of introductory provisions.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted "and any other State programs funded withqualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
+Subsec. (a)(1)(B)(ii). Pub. L. 109–171, §7102(b)(2)(B), inserted "and any other State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
 <b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted "(except for information relating to activities carried out under section 603(a)(5) of this title)" after "part".
 
@@ -408,7 +402,7 @@ Pub. L. 112–96, title IV, §4003(b), Feb. 22, 2012, 126 Stat. 196, provided th
 
 "(1)
 
-Data exchange standards.—The Secretary of Health and Human Services shall issue a proposed rule under section 411(d)(1) of the Social Security Act \[42 U.S.C. 611(d)(1)\] within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 411(d)(1), after public comment, within 24 months after such date of enactment.
+Data exchange standards.—The Secretary of Health and Human Services shall issue a proposed rule under section 411(d)(1) of the Social Security Act \[42U.S.C. 611(d)(1)\] within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 411(d)(1), after public comment, within 24 months after such date of enactment.
 
 "(2)
 
@@ -435,4 +429,6 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

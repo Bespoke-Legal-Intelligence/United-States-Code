@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall conduct a study of the feasibility of establishing a North American National Security Program to enhance the mutual security and safety of the United States, Canada, and Mexico.
+The President shall conduct a study of the feasibility of establishing a North American National Security Program to enhance the mutualsecurity and safety of the United States, Canada, and Mexico.
 
 #### (b) Study elements
 

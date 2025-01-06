@@ -8,7 +8,11 @@ Federal Government Performance Plans.—In carrying out the provisions of sectio
 
 &emsp;(2) identify the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities contributing to each Federal Government performance goal during the current fiscal year;
 
-&emsp;(3) for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;
+&emsp;(3) for each Federal Government performance goal, identify, as appropriate, not fewer than 2 lead Government officials who shall jointly be responsible for coordinating the efforts to achieve the goal, of whom—
+
+&emsp;&emsp;(A) not less than 1 shall be from the Executive Office of the President; and
+
+&emsp;&emsp;(B) not less than 1 shall be from an agency identified as contributing to the Federal Government performance goal described in paragraph (2);
 
 &emsp;(4) establish common Federal Government performance indicators with quarterly targets to be used in measuring or assessing—
 
@@ -138,7 +142,7 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 
 &emsp;(12) "program evaluation" means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
-(Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827; Pub. L. 117–263, div. E, title LIII, §5303(b), Dec. 23, 2022, 136 Stat. 3250.)
+(Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827; Pub. L. 117–263, div. E, title LIII, §5303(b), Dec. 23, 2022, 136 Stat. 3250; Pub. L. 118–190, §5, Dec. 23, 2024, 138 Stat. 2656.)
 
 #### <b>Editorial Notes</b>
 
@@ -147,6 +151,8 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 A prior section 1115, added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, §1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, §1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(3). Pub. L. 118–190 added par. (3) and struck out former par. (3) which read as follows: "for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;".
 
 <b>2022</b>—Subsec. (b)(5). Pub. L. 117–263, §5303(b)(1), amended par. (5) generally. Prior to amendment, par. (5) provided standards for a description of how the performance goals were to be achieved.
 
@@ -212,7 +218,7 @@ Requirements.—Each agency shall—
 
 Quarterly reviews.—The quarterly priority progress reviews required under this Act shall begin—
 
-&emsp;&emsp;"(A) with the first full quarter beginning on or after the date of enactment of this Act \[Jan. 4, 2011\]for agencies based on the agency priority goals contained in the Analytical Perspectives volume of the Fiscal Year 2011 Budget of the United States Government; and
+&emsp;&emsp;"(A) with the first full quarter beginning on or after the date of enactment of this Act \[Jan. 4, 2011\] for agencies based on the agency priority goals contained in the Analytical Perspectives volume of the Fiscal Year 2011 Budget of the United States Government; and
 
 &emsp;&emsp;"(B) with the quarter ending June 30, 2012 for the interim Federal Government priority goals.
 
@@ -330,7 +336,7 @@ Sec. 3. <i>Duties of Heads of Agencies</i>. To assist in implementing the policy
 
 (C) mechanisms for ensuring continuous accountability of the specified agency personnel to the head of the agency for achievement of the goals and efficiency in use of resources in achievement of the goals;
 
-(b) assist the President, through the Director of the Office of Management and Budget (Director), in making recommendations to the Congress, including budget and appropriations recommendations, that are justified based on objective performance information and accurate estimates of the full costs of achieving the annual and long-term goals approved under subsection (a)(i) of this section; and
+(b) assist the President, through the Director of the Office of Management and Budget (Director), in making recommendations to the Congress, including budget and appropriations recommendations, that are justified based on objective performance information and accurate estimates of the full costs of achieving the annualand long-term goals approved under subsection (a)(i) of this section; and
 
 (c) ensure that agency Internet websites available to the public include regularly updated and accurate information on the performance of the agency and its programs, in a readily useable and searchable form, that sets forth the successes, shortfalls, and challenges of each program and describes the agency's efforts to improve the performance of the program.
 
@@ -424,7 +430,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law (including laws and executive orders relating to the protection of information from disclosure) and subject to the availability of appropriations.
 
-(c) In implementing this order, the Director of National Intelligence shall perform the functions assigned to the Director of National Intelligence by the National Security Act of 1947, as amended (\[former\] 50 U.S.C. 401 <i>et seq</i>.) \[now 50 U.S.C. 3001 et seq.\], consistent with section 1018 of the Intelligence Reform and Terrorism Prevention Act (Public Law 108–458), and other applicable laws.
+(c) In implementing this order, the Director of National Intelligence shall perform the functions assignedto the Director of National Intelligence by the National Security Act of 1947, as amended (\[former\] 50 U.S.C. 401 <i>et seq</i>.) \[now 50 U.S.C. 3001 et seq.\], consistent with section 1018 of the Intelligence Reform and Terrorism Prevention Act (Public Law 108–458), and other applicable laws.
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 

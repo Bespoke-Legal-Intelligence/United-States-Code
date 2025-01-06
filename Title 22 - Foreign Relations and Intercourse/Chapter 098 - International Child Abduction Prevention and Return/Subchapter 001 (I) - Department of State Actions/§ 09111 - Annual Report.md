@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than April 30 of each year, the Secretary of State shall submit to the appropriate congressional committees an Annual Report on International Child Abduction. The Secretary shall post the Annual Report to the publicly accessible website of the Department of State.
+Not later than April 30 of each year, the Secretary of State shall submit to the appropriatecongressional committees an Annual Report on International Child Abduction. The Secretary shall post the Annual Report to the publicly accessible website of the Department of State.
 
 #### (b) Contents
 
@@ -92,7 +92,7 @@ Each Annual Report shall also include—
 
 &emsp;(4) information on actions taken by the Central Authority of the United States to train domestic judges in the application of the Hague Abduction Convention; and
 
-&emsp;(5) information on actions taken by the Central Authority of the United States to train United States Armed Forces legal assistance personnel, military chaplains, and military family support center personnel about—
+&emsp;(5) information on actions taken by the Central Authority of the United States to trainUnited States Armed Forces legal assistance personnel, military chaplains, and military family support center personnel about—
 
 &emsp;&emsp;(A) abductions;
 
@@ -106,7 +106,7 @@ Each Annual Report shall also include—
 
 #### (1) In general
 
-&emsp;The Secretary of State shall include, in a separate section of the Annual Report, the Secretary's determination, pursuant to theprovisions under section 9122(b) of this title, of whether each country listed in the report has engaged in a pattern of noncompliance in cases of child abduction during the preceding 12 months.
+&emsp;The Secretary of State shall include, in a separate section of the Annual Report, the Secretary's determination, pursuant to the provisions under section 9122(b) of this title, of whether each country listed in the report has engaged in a pattern of noncompliance in cases of child abduction during the preceding 12 months.
 
 #### (2) Contents
 

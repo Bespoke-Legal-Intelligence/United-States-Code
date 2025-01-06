@@ -6,7 +6,7 @@ The Board, as hereinafter provided, shall insure the member accounts of all Fede
 
 #### (b) Application; agreement
 
-Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
+Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operatingunder the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
 
 &emsp;(1) to pay the reasonable cost of such examinations as the Board may deem necessary in connection with determining the eligibility of the applicant for insurance: <i>Provided</i>, That examinations required under subchapter I of this chapter shall be so conducted that the information derived therefrom may be utilized for share insurance purposes, and examinations conducted by State regulatory agencies shall be utilized by the Board for such purposes to the maximum extent feasible;
 
@@ -46,7 +46,7 @@ Application for insurance of member accounts shall be made immediately by each F
 
 #### (d) Certificate of insurance
 
-Upon the approval of any application for insurance, the Board shall notify the applicantand shall issue to it a certificate evidencing the fact that it is, as of the date of issuance of the certificate, an insured credit union under the provisions of this subchapter.
+Upon the approval of any application for insurance, the Board shall notify the applicant and shall issue to it a certificate evidencing the fact that it is, as of the date of issuance of the certificate, an insured credit union under the provisions of this subchapter.
 
 #### (e) Prohibition on certain associations
 

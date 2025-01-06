@@ -20,7 +20,7 @@ Funding to implement the provisions of this part, and for assistance to the cent
 
 Public Law 101–62, referred to in subsec. (a), is Pub. L. 101–62, July 26, 1989, 103 Stat. 162, which is set out as a note under section 1901 of this title.
 
-The Compact of Free Association as approved by Public Law 99–239, referred to in subsec. (b), is the Compact of Free Association between the Government of theUnited States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
+The Compact of Free Association as approved by Public Law 99–239, referred to in subsec. (b), is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
 The Compact of Free Association for Palau as approved by Public Law 99–658, referred to in subsec. (b), is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 

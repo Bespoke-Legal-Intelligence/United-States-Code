@@ -6,7 +6,7 @@ The Secretary shall carry out a research and development program through the Hom
 
 #### (b) Grants and contracts authorized
 
-The Secretary shall award grants or contracts to public or private entities to conduct research and demonstrate technologies and methods to reduce and deter terrorist threats or mitigate damages resulting from terrorist attacks against public transportation systems.
+The Secretary shall award grants or contracts to public or private entities to conduct researchand demonstrate technologies and methods to reduce and deter terrorist threats or mitigate damages resulting from terrorist attacks against public transportation systems.
 
 #### (c) Use of funds
 

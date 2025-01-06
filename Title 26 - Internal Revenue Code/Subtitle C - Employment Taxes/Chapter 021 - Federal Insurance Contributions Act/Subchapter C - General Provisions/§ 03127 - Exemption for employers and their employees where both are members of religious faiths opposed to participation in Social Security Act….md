@@ -66,7 +66,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title X, §10204(b)(2), Dec. 19, 1989, 103 Stat. 2474, provided that: "The amendments made by this subsection \[amending this section\] shall be effective as if they were included in the amendments made by section 8007(a)(1) of the Technical and Miscellaneous Revenue Act of 1988 (102 Stat. 3781) \[Pub. L. 100–647\]."
+Pub. L. 101–239, title X, §10204(b)(2), Dec. 19, 1989, 103 Stat. 2474, provided that: "The amendments made bythis subsection \[amending this section\] shall be effective as if they were included in the amendments made by section 8007(a)(1) of the Technical and Miscellaneous Revenue Act of 1988 (102 Stat. 3781) \[Pub. L. 100–647\]."
 
 #### Effective Date
 

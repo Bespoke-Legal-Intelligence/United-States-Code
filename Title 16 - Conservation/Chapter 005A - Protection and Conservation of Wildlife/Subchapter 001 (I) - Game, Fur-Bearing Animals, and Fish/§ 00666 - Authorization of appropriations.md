@@ -1,6 +1,6 @@
 ### §666. Authorization of appropriations
 
-There is authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of this Act and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under this Act, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
+There is authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of this Act and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under thisAct, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
 
 (Mar. 10, 1934, ch. 55, §6, 48 Stat. 402; Aug. 14, 1946, ch. 965, 60 Stat. 1081.)
 

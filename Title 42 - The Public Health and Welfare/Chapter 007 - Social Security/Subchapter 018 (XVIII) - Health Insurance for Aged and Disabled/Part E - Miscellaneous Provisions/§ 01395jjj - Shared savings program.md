@@ -84,7 +84,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall determine an appropriate method to assign Medicare fee-for-service beneficiaries to an ACO based on their utilization of—
+&emsp;Subject to paragraph (2), the Secretary shall determine an appropriate method to assignMedicare fee-for-service beneficiaries to an ACO based on their utilization of—
 
 &emsp;&emsp;(A) in the case of performance years beginning on or after April 1, 2012, primary care services provided under this subchapter by an ACO professional described in subsection (h)(1)(A); and
 
@@ -130,7 +130,7 @@
 
 #### (i) Determining savings
 
-&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for partsA and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
+&emsp;&emsp;&emsp;In each year of the agreement period, an ACO shall be eligible to receive payment for shared savings under paragraph (2) only if the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for parts A and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under clause (ii). The Secretary shall determine the appropriate percent described in the preceding sentence to account for normal variation in expenditures under this subchapter, based upon the number of Medicare fee-for-service beneficiaries assigned to an ACO.
 
 #### (ii) Establish and update benchmark
 
@@ -146,7 +146,7 @@
 
 #### (4) Termination
 
-&emsp;The Secretary may terminate an agreement with an ACO if it does not meet the quality performance standards established by the Secretary under subsection (b)(3).
+&emsp;The Secretary may terminate an agreement with an ACO if it does not meet the qualityperformance standards established by the Secretary under subsection (b)(3).
 
 #### (e) Administration
 
@@ -202,7 +202,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' servicesor all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' services or all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
 
 #### (B) No additional program expenditures
 
@@ -230,7 +230,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (1) In general
 
-&emsp;In the case of telehealth services for which payment would otherwise be made under this subchapter furnished on or after January 1, 2020, for purposes of this subsection only, the following shall apply with respect to such services furnished by a physician or practitioner participating in an applicable ACO (as defined in paragraph (2)) to a Medicare fee-for-service beneficiary assigned to the applicable ACO:
+&emsp;In the case of telehealth services for which payment would otherwise be made under this subchapter furnished on or after January 1, 2020, for purposes of this subsection only, the following shall apply with respect to such services furnished by a physician or practitioner participating in an applicable ACO (asdefined in paragraph (2)) to a Medicare fee-for-service beneficiary assigned to the applicable ACO:
 
 #### (A) Inclusion of home as originating site
 
@@ -282,7 +282,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (B) Implementation
 
-&emsp;&emsp;The Secretary shall implement this subsection on a date determined appropriate bythe Secretary. Such date shall be no earlier than January 1, 2019, and no later than January 1, 2020.
+&emsp;&emsp;The Secretary shall implement this subsection on a date determined appropriate by the Secretary. Such date shall be no earlier than January 1, 2019, and no later than January 1, 2020.
 
 #### (2) Conduct of program
 
@@ -312,7 +312,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 &emsp;&emsp;An incentive payment made by an ACO pursuant to an ACO Beneficiary Incentive Program established under this subsection shall be—
 
-&emsp;&emsp;&emsp;(i) in an amount up to $20, with such maximum amount updated annually by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year;
+&emsp;&emsp;&emsp;(i) in an amount up to $20, with such maximum amount updated annually bythe percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year;
 
 &emsp;&emsp;&emsp;(ii) in the same amount for each Medicare fee-for-service beneficiary described in clause (i) or (ii) of subparagraph (B) without regard to enrollment of such a beneficiary in a medicare supplemental policy (described in section 1395ss(g)(1) of this title), in a State Medicaid plan under subchapter XIX or a waiver of such a plan, or in any other health insurance policy or health benefit plan;
 

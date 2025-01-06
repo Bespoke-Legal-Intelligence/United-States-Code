@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (3) Reduction must not discriminate in favor of highly compensated, etc.
 
-&emsp;Paragraph (1) shall apply with respect to any qualified tuition reduction provided with respect to any highly compensated employee only if such reduction is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees (within themeaning of section 414(q)). For purposes of this paragraph, the term "highly compensated employee" has the meaning given such term by section 414(q).
+&emsp;Paragraph (1) shall apply with respect to any qualified tuition reduction provided with respect to any highly compensated employee only if such reduction is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)). For purposes of this paragraph, the term "highly compensated employee" has the meaning given such term by section 414(q).
 
 #### \[(4) Repealed. Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830\]
 
@@ -142,7 +142,7 @@ Pub. L. 107–16, title IV, §413(b), June 7, 2001, 115 Stat. 64, provided that:
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -218,7 +218,7 @@ Pub. L. 99–514, title XVIII, §1853(f), Oct. 22, 1986, 100 Stat. 2872, provide
 
 #### National Research Service Awards
 
-Pub. L. 95–600, title I, §161(b), Nov. 6, 1978, 92 Stat. 2810, as amended by Pub. L. 96–167, §9(b), Dec. 29, 1979,93 Stat. 1278; Pub. L. 96–541, §5(b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–248, title II, §285, Sept. 3, 1982, 96 Stat. 569; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that any amount paid to, or on behalf of, an individual as a national research service award under former section 289<i>l–</i>1 of title 42 during calendar years 1974 through 1983 was to be treated as a scholarship or fellowship grant under this section.
+Pub. L. 95–600, title I, §161(b), Nov. 6, 1978, 92 Stat. 2810, as amended by Pub. L. 96–167, §9(b), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §5(b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–248, title II, §285, Sept. 3, 1982, 96 Stat. 569; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that any amount paid to, or on behalf of, an individual as a national research service award under former section 289<i>l–</i>1 of title 42 during calendar years 1974 through 1983 was to be treated as a scholarship or fellowship grant under this section.
 
 #### Scholarship Programs for Members of the Uniformed Services
 

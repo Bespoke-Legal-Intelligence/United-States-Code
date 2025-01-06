@@ -38,7 +38,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 2279c, Pub. L. 92–181, title VII, §7.7, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, §408(i), (j), Aug. 17, 1988, 102 Stat. 1002, related to mergers of unlike associations, prior to renumbering as section 7.6(d) of Pub. L. 92–181 and transfer to section 2279b(d) of this title.
+A prior section 2279c, Pub. L. 92–181, title VII, §7.7, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, §408(i), (j), Aug. 17, 1988, 102 Stat. 1002, related to mergers of unlike associations, prior to renumbering as section 7.6(d) ofPub. L. 92–181 and transfer to section 2279b(d) of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

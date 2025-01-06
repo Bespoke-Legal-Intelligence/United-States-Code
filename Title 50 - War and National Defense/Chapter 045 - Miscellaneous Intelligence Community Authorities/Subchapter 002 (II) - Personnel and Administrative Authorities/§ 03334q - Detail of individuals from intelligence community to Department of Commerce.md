@@ -10,7 +10,7 @@ Detailees on a joint duty assignment (JDA) assigned pursuant to subsection (a) s
 
 #### (c) Expertise
 
-The Director shall ensure that detailees referred to in subsection (a) have subject matter expertise on countries of concern, includingChina, Iran, North Korea, and Russia, as well as functional areas such as illicit procurement, counterproliferation, emerging and foundational technology, economic and financial intelligence, information and communications technology systems, supply chain vulnerability, and counterintelligence.
+The Director shall ensure that detailees referred to in subsection (a) have subject matter expertise on countries of concern, including China, Iran, North Korea, and Russia, as well as functional areas such as illicit procurement, counterproliferation, emerging and foundational technology, economic and financial intelligence, information and communications technology systems, supply chain vulnerability, and counterintelligence.
 
 #### (d) Duty credit
 

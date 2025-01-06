@@ -22,7 +22,7 @@
 
 > payment of principal and interest on such loans.
 
-(B) In the case of a guarantee of any loan to a public or nonprofit private entity under subparagraph (A)(i) which is located in an urban or rural poverty area, the Secretary may pay, to the holder of such loan and for and on behalf of the project for which the loan was made, amounts sufficient to reduce by not more than one half the net effective interest rate otherwise payable on such loan if the Secretary finds that without such assistance the project could not be undertaken.
+(B) In the case of a guarantee of any loan to a public or nonprofit private entity under subparagraph (A)(i) which is located in an urban or rural poverty area, the Secretary may pay, to the holder of such loan and for and on behalf of the project for which the loan was made, amounts sufficient to reduce by not more than one half the net effective interest rate otherwisepayable on such loan if the Secretary finds that without such assistance the project could not be undertaken.
 
 #### (b) Amount of loans for medical facilities projects and such projects in urban or rural poverty areas
 

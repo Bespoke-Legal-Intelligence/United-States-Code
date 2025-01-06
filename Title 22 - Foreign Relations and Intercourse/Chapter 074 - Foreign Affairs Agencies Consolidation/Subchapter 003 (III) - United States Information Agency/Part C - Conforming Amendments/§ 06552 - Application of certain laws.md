@@ -14,7 +14,7 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 (2)
 
-Construction.—Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned topublic diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
+Construction.—Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned to public diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
 
 #### (d) Reporting requirements
 

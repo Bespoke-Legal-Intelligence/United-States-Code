@@ -18,7 +18,7 @@ In general.—In order to be credited with satisfactory service in an officer gr
 
 &emsp;(2)
 
-Satisfaction of requirement by certain officers not completing three years.—A person covered by paragraph (1) who has completed at least six months of satisfactory service in grade may be credited with satisfactory service in the grade in which serving at the time of transfer or discharge, notwithstandingfailure of the person to complete three years of service in that grade, if the person is transferred from an active status or discharged as a reserve commissioned officer—
+Satisfaction of requirement by certain officers not completing three years.—A person covered by paragraph (1) who has completed at least six months of satisfactory service in grade may be credited with satisfactory service in the grade in which serving at the time of transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade, if the person is transferred from an active status or discharged as a reserve commissioned officer—
 
 &emsp;&emsp;(A) solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service; or
 
@@ -62,7 +62,7 @@ Officers qualified for federal recognition serving in certain grade before appoi
 
 &emsp;(8)
 
-Retirement in next lowest grade for officers not meeting service-in-grade requirements.—A person whose length of service in the highest grade held does not meet theservice-in-grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
+Retirement in next lowest grade for officers not meeting service-in-grade requirements.—A person whose length of service in the highest grade held does not meet the service-in-grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
 (d)
 
@@ -74,7 +74,7 @@ Grades.—
 
 &emsp;(1)
 
-In general.—A person covered by this section in the Army, Navy, Air Force, or Marine Corps who is serving or has served in a position of importance and responsibility designated by the President to carry the grade of lieutenant general or general in the Army, Air Force, or Marine Corps, or vice admiral or admiral in the Navy under section 601 of this title may be retired in such grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and the Committees on Armed Services of the Senate and the House of Representatives that the officer served satisfactorily in such grade.
+In general.—A person covered by this section in the Army, Navy, Air Force, Marine Corps, or Space Force who is serving or has served in a position of importance and responsibility designated by the President to carry the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force, or vice admiral or admiral in the Navy under section 601 of this title may be retired in such grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and the Committees on Armed Services of the Senate and the House of Representatives that the officer served satisfactorily in such grade.
 
 &emsp;(2)
 
@@ -116,13 +116,17 @@ Reopening.—A determination of the retired grade of a person may be reopened in
 
 (h)
 
-Highest Permanent Grade Defined.—In this section, the term "highest permanent grade" means a grade at or below the grade of major general in the Army, Air Force, or Marine Corps or rear admiral in the Navy.
+Highest Permanent Grade Defined.—In this section, the term "highest permanent grade" means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.
 
-(Added Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580; amended Pub. L. 118–31, div. A, title XVIII, §1801(a)(16), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580; amended Pub. L. 118–31, div. A, title XVIII, §1801(a)(16), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title V, §521(f)(2), Dec. 23, 2024, 138 Stat. 1881.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d)(1). Pub. L. 118–159, §521(f)(2)(A), substituted "Marine Corps, or Space Force" for "or Marine Corps" in two places.
+
+Subsec. (h). Pub. L. 118–159, §521(f)(2)(B), substituted "Marine Corps, or Space Force," for "or Marine Corps".
 
 <b>2023</b>—Subsec. (e). Pub. L. 118–31, §1801(a)(16)(A), inserted "to" before " 'active duty' ".
 

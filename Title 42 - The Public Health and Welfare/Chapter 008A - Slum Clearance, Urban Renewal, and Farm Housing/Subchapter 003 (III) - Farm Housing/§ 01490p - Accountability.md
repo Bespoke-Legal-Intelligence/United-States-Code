@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) any application for a subsequent award or allocation of such assistance by such State, unit of general local government or other recipient.
 
-&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph\(B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -40,7 +40,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (2) Interested parties
 
-&emsp;The name and pecuniary interest of any person who has a pecuniary interest in the project or activities for which the applicant is seeking assistance. Persons with a pecuniary interest in the project or activity shall include but not be limited to any developers, contractors, and consultants involved in the application for assistance under this subchapter or the planning, development, or implementation of the project or activity. For purposes of this paragraph, residency of an individual in housing for which assistance is being sought shall not, by itself, be considered a pecuniary interest.
+&emsp;The name and pecuniary interest of any person who has a pecuniary interest in the project or activities for which the applicant is seeking assistance. Persons with a pecuniary interest in the project or activity shall includebut not be limited to any developers, contractors, and consultants involved in the application for assistance under this subchapter or the planning, development, or implementation of the project or activity. For purposes of this paragraph, residency of an individual in housing for which assistance is being sought shall not, by itself, be considered a pecuniary interest.
 
 #### (3) Expected sources and uses
 

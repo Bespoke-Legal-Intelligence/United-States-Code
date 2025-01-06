@@ -96,7 +96,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 #### (11) Normal trade relations
 
-&emsp;The granting of temporary or permanent nondiscriminatory treatment to the productsof an East European country through the application of the criteria and procedures established by section 2432 of title 19 (commonly referred to as the "Jackson-Vanik amendment").
+&emsp;The granting of temporary or permanent nondiscriminatory treatment to the products of an East European country through the application of the criteria and procedures established by section 2432 of title 19 (commonly referred to as the "Jackson-Vanik amendment").
 
 #### (12) United States International Development Finance Corporation
 
@@ -198,7 +198,7 @@ Section 1. <i>SEED Program Coordinator</i>. The functions conferred by Title VII
 
 Sec. 2. <i>Department of State</i>. The functions conferred upon the President by section 201 of the Act \[22 U.S.C. 5421\] relating to Enterprise Funds for Poland and Hungary are hereby delegated to the Secretary of State.
 
-Sec. 3. <i>Department of Commerce</i>. The functions conferred upon the President by section 602 of the Act \[22 U.S.C. 5462\] regarding the establishment of a SEED Information Center System in cooperation with the Governments of Poland and Hungary are hereby delegated to the Secretary of Commerce. This authority is to be exercised in consultation with the SEED Program Coordinator and in consultation with other agencies as appropriate.
+Sec. 3. <i>Department of Commerce</i>. The functions conferred upon the President by section 602 of the Act \[22 U.S.C. 5462\] regarding the establishment of a SEED Information Center System in cooperation with the Governments of Poland and Hungary are hereby delegatedto the Secretary of Commerce. This authority is to be exercised in consultation with the SEED Program Coordinator and in consultation with other agencies as appropriate.
 
 Sec. 4. <i>Department of the Treasury</i>. The functions conferred upon the President by section 104 of the Act \[22 U.S.C. 5414\] regarding debt reduction of certain East European countries are hereby delegated to the Secretary of the Treasury. The Secretary shall consult, as appropriate, with other relevant agencies in exercising the functions herein delegated.
 

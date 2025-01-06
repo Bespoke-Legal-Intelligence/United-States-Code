@@ -114,7 +114,7 @@ For purposes of this subchapter—
 
 &emsp;The term "payment" means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
 
-(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a),Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
+(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
 
 #### <b>Editorial Notes</b>
 
@@ -142,7 +142,7 @@ Par. (6)(D), (E). Pub. L. 109–8, §906(a)(2)(A), redesignated subpars. (C) and
 
 Par. (11). Pub. L. 109–8, §906(a)(3), inserted before period at end "and any other clearing organization with which such clearing organization has a netting contract".
 
-Par. (14)(A)(i). Pub. L. 109–8, §906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "means a contract or agreement between 2 or more financial institutions or members, that—
+Par. (14)(A)(i). Pub. L. 109–8, §906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows:"means a contract or agreement between 2 or more financial institutions or members, that—
 
 &emsp;"(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being providedwith respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 #### (2) Critical circumstances determinations
 
@@ -80,7 +80,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(B)(i) the administering authority shall—
 
-&emsp;&emsp;&emsp;(I) determine an estimated individual countervailable subsidy rate for each exporter and producer individually investigated, and, in accordance with paragraph (5), an estimated all-others rate for all exporters and producers not individually investigated and for new exporters and producers within the meaning of section 1675(a)(2)(B) of this title, or
+&emsp;&emsp;&emsp;(I) determine an estimated individual countervailable subsidy rate for each exporter and producer individually investigated, and, in accordance with paragraph\(5), an estimated all-others rate for all exporters and producers not individually investigated and for new exporters and producers within the meaning of section 1675(a)(2)(B) of this title, or
 
 &emsp;&emsp;&emsp;(II) if section 1677f–1(e)(2)(B) of this title applies, determine a single estimated country-wide subsidy rate, applicable to all exporters and producers,
 
@@ -132,7 +132,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (d) Publication of notice of determinations
 
-Whenever the administering authority or the Commission makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
+Whenever the administering authority or the Commission makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agencyof its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
 
 #### (e) Correction of ministerial errors
 

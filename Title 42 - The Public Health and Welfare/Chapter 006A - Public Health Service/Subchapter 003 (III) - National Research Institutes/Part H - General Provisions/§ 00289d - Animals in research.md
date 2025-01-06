@@ -24,7 +24,7 @@ The Secretary, acting through the Director of NIH, shall establish guidelines fo
 
 (3) Each animal care committee of a research entity shall—
 
-&emsp;(A) review the care and treatment of animals in all animal study areas and facilities of the research entity at least semi-annually to evaluate compliance with applicable guidelines established under subsection (a) for appropriate animal care and treatment;
+&emsp;(A) review the care and treatment of animals in all animal study areas and facilities ofthe research entity at least semi-annually to evaluate compliance with applicable guidelines established under subsection (a) for appropriate animal care and treatment;
 
 &emsp;(B) keep appropriate records of reviews conducted under subparagraph (A); and
 

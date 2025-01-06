@@ -2,7 +2,7 @@
 
 #### (a) Requirements for restructuring certification
 
-The Oversight Board, prior to issuing a restructuring certification regarding an entity (as such term is defined in section 101 of title 11), shall determine, in its sole discretion, that—
+The Oversight Board, prior to issuing a restructuring certification regarding an entity (assuch term is defined in section 101 of title 11), shall determine, in its sole discretion, that—
 
 &emsp;(1) the entity has made good-faith efforts to reach a consensual restructuring with creditors;
 

@@ -64,7 +64,7 @@ By virtue of the authority vested in me as President of the United States and as
 
 3\. No more than one Bronze Star Medal shall be awarded to any one person, but for each succeeding heroic or meritorious achievement or service justifying such an award a suitable device may be awarded to be worn with the medal as prescribed by appropriate regulations.
 
-4\. The Bronze Star Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of the department concerned.
+4\. The Bronze Star Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may bedeemed appropriate by the Secretary of the department concerned.
 
 5\. This order shall supersede Executive Order No. 9419 of February 4, 1944, entitled "Bronze Star Medal". However, existing regulations prescribed under that order shall, so far as they are not inconsistent with this order, remain in effect until modified or revoked by regulations prescribed under this order by the Secretary of the department concerned.
 

@@ -20,7 +20,7 @@ No funds authorized or appropriated by any Act may be used to support, directly 
 
 #### (d) Rule of construction
 
-Nothing in this section shall be construed to authorize, imply, or otherwise indicate that the President may suspend, terminate, denounce, or withdraw from any treaty to which the Senate has provided its advice and consent without the advice and consent of the Senate to such act or pursuant to an Act of Congress.
+Nothing in this section shall be construed to authorize, imply, or otherwise indicate that the President may suspend, terminate, denounce, or withdraw from any treaty to which the Senate has provided its advice and consent without theadvice and consent of the Senate to such act or pursuant to an Act of Congress.
 
 #### (e) Severability
 

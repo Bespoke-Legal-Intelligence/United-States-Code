@@ -20,7 +20,7 @@
 
 <b>2008</b>—Pub. L. 110–181, div. A, title VI, §623(b), Jan. 28, 2008, 122 Stat. 152, added item 2128.
 
-<b>1989</b>—Pub. L. 101–189, div. A, title VII, §725(d)(3), (h)(2), Nov. 29, 1989, 103 Stat. 1479, 1480, substituted "AND FINANCIAL ASSISTANCE PROGRAM" for "PROGRAM" in subchapter heading and "Scholarships and financial assistance" for "Contracts for scholarships" in item 2127.
+<b>1989</b>—Pub. L. 101–189, div. A, title VII, §725(d)(3), (h)(2), Nov. 29, 1989, 103 Stat. 1479, 1480, substituted "AND FINANCIAL ASSISTANCE PROGRAM" for "PROGRAM" in subchapter heading and "Scholarshipsand financial assistance" for "Contracts for scholarships" in item 2127.
 
 <b>1987</b>—Pub. L. 100–180, div. A, title VII, §711(a)(1), Dec. 4, 1987, 101 Stat. 1108, added subchapter heading.
 

@@ -66,7 +66,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 #### (2) Wildlife guzzlers
 
-&emsp;Wildlife guzzlers shall be allowed in the off-highway vehicle recreation areas designated or expanded by subsection (a) in accordance with—
+&emsp;Wildlife guzzlers shall be allowed in the off-highway vehicle recreation areas designatedor expanded by subsection (a) in accordance with—
 
 &emsp;&emsp;(A) applicable Bureau of Land Management guidelines; and
 
@@ -102,7 +102,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 &emsp;&emsp;&emsp;(i) amend existing resource management plans applicable to the off-highway vehicle recreation areas designated or expanded by subsection (a); or
 
-&emsp;&emsp;&emsp;(ii) develop new management plans for each off-highway vehicle recreation areadesignated or expanded under that subsection.
+&emsp;&emsp;&emsp;(ii) develop new management plans for each off-highway vehicle recreation area designated or expanded under that subsection.
 
 #### (B) Requirements
 

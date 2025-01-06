@@ -50,7 +50,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(D) One person designated by the Secretary of State.
 
-&emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary ofthe Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
+&emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
 
 &emsp;(F) The commanders of the combatant commands having geographic responsibility for the Western Hemisphere, or the designees of those officers.
 
@@ -76,7 +76,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 (7) With the approval of the Secretary of Defense, the Board may accept and use the services of voluntary and uncompensated advisers appropriate to the duties of the Board without regard to section 1342 of title 31.
 
-(8) Members of the Board and advisers whose services are accepted under paragraph (7) shall be allowed travel and transportation expenses, including per diem in lieu of subsistence, while away from their homes or regular places of business in the performance of services for the Board. Allowances under this paragraph shall be computed—
+(8) Members of the Board and advisers whose services are accepted under paragraph (7) shall be allowed travel and transportation expenses, including per diem in lieu of subsistence, whileaway from their homes or regular places of business in the performance of services for the Board. Allowances under this paragraph shall be computed—
 
 &emsp;(A) in the case of members of the Board who are officers or employees of the United States, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
 

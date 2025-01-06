@@ -90,7 +90,7 @@ Access to records.—The Secretary may require a State, as a condition of an awa
 
 (d)
 
-Cooperative Agreements, Grants, and Contracts.—The Secretary may carry out this section either independently or in cooperation with other Federal departments, agencies, and instrumentalities, or by making grants to, and entering into contracts and cooperative agreements with, States, local governments, associations, institutions, corporations, and other persons.
+Cooperative Agreements, Grants, and Contracts.—The Secretary may carry out this section either independently or in cooperation with other Federal departments, agencies, andinstrumentalities, or by making grants to, and entering into contracts and cooperative agreements with, States, local governments, associations, institutions, corporations, and other persons.
 
 (e)(1)
 

@@ -42,7 +42,7 @@ In this section the term "multilateral development bank" has the meaning given t
 
 #### Codification
 
-November 14, 2005, referred to in subsec. (b), was in the original "the enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 109–102, which enacted this section, to reflect the probable intent of Congress.
+November 14, 2005, referred to in subsec. (b), was in the original "the enactment of this Act" which wastranslated as meaning the date of enactment of Pub. L. 109–102, which enacted this section, to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

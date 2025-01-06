@@ -20,7 +20,7 @@ Expedited Process.—The Secretary of Defense may prescribe a process for expedi
 
 &emsp;&emsp;&emsp;(ii) the spouse of a member of the armed forces who retires or is separated, after January 7, 2011, for a physical disability as a result of a wound, injuries or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned); or
 
-&emsp;&emsp;&emsp;(iii) the spouse of a member of the armed forces who dies, after January 7, 2011, as a result of a wound, injury, or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned).
+&emsp;&emsp;&emsp;(iii) the spouse of a member of the armed forces who dies, after January 7, 2011, as aresult of a wound, injury, or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned).
 
 (b)
 
@@ -103,6 +103,18 @@ Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\]."
+
+#### Information Technology Programs of the National Background Investigation Service
+
+Pub. L. 118–159, div. A, title XV, §1512, Dec. 23, 2024, 138 Stat. 2136, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the authorizing official of the Defense Counterintelligence and Security Agency, in coordination with the Chief Information Officer of the Department of Defense, shall—
+
+&emsp;"(1) take such actions as may be necessary to ensure that the National Background Investigation Services are in compliance with the relevant standards and guidelines published by the National Institution of Standards and Technology in NIST Special Publication 800–53, Revision 5 (relating to security and privacy controls for information systems and organizations), or successor publication or revision thereto; and
+
+&emsp;"(2) submit to Congress a notice either—
+
+&emsp;&emsp;"(A) certifying that such services are in compliance with such standards and guidelines; or
+
+&emsp;&emsp;"(B) explaining why the authorizing official of the Defense Counterintelligence and Security Agency is unable to certify that such services are in compliance with such standards and guidelines."
 
 #### Security Clearance Bridge Pilot Program
 

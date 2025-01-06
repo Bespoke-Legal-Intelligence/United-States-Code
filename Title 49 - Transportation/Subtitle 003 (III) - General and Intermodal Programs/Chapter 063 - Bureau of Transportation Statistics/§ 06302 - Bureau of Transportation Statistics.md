@@ -182,6 +182,70 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under section 3561 of Title 44, Public Printing and Documents.
 
+#### Bureau of Transportation Statistics
+
+Pub. L. 118–63, title V, §511, May 16, 2024, 138 Stat. 1194, provided that:
+
+"(a)
+
+Rulemaking.—Not later than 60 days after the date of enactment of this Act \[May 16, 2024\], the Director of the Bureau of Transportation Statistics shall initiate a rulemaking to revise section 234.4 of title 14, Code of Federal Regulations, to create a new 'cause of delay' category (or categories) that identifies and tracks information on delays and cancellations of air carriers (as defined in section 40102 of title 49, United States Code) that are due to instructions from the FAA \[Federal Aviation Administration\] Air Traffic Control System and to make any other changes necessary to carry out this section.
+
+"(b)
+
+Air Carrier Code.—The following causes shall not be included within the Air Carrier code specified in section 234.4 of title 14, Code of Federal Regulations, for cancelled and delayed flights:
+
+&emsp;"(1) Aircraft cleaning necessitated by the death of a passenger.
+
+&emsp;"(2) Aircraft damage caused by extreme weather, foreign object debris, or sabotage.
+
+&emsp;"(3) A baggage or cargo loading delay caused by an outage of a bag system not controlled by a carrier or its contractor.
+
+&emsp;"(4) Cybersecurity attacks (provided that the air carrier is in compliance with applicable cybersecurity regulations).
+
+&emsp;"(5) A shutdown or system failure of government systems that directly affects the ability of an air carrier to safely conduct flights and is unexpected.
+
+&emsp;"(6) Overheated brakes due to a safety incident resulting in the use of emergency procedures.
+
+&emsp;"(7) Unscheduled maintenance, including in response to an airworthiness directive, manifesting outside a scheduled maintenance program that cannot be deferred or must be addressed before flight.
+
+&emsp;"(8) An emergency that required medical attention through no fault of the carrier.
+
+&emsp;"(9) The removal of an unruly passenger.
+
+&emsp;"(10) An airport closure due to the presence of volcanic ash, wind, or wind shear.
+
+"(c)
+
+Family Seating Complaints.—
+
+&emsp;"(1)
+
+In general.—The Director of the Bureau of Transportation Statistics shall update the reporting framework of the Bureau to create a new category toidentify and track information on complaints related to family seating.
+
+&emsp;"(2)
+
+Sunset.—The requirements in paragraph (1) shall cease to be effective on the date on which the rulemaking required by section 513 \[of Pub. L. 118–63, 49 U.S.C. 42301 note prec.\] is effective.
+
+"(d)
+
+Air Travel Consumer Report.—
+
+&emsp;"(1)
+
+ATCSCC delays.—The Secretary \[of Transportation\] shall include information on delays and cancellations that are due to instructions from the FAA Air Traffic Control System Command Center in the Air Travel Consumer Report issued by the Office of Aviation Consumer Protection of the Department of Transportation.
+
+&emsp;"(2)
+
+Family seating complaints.—The Secretary shall include information on complaints related to family seating—
+
+&emsp;&emsp;"(A) in the Air Travel Consumer Report issued by the Office of Aviation Consumer Protection of the Department of Transportation; and
+
+&emsp;&emsp;"(B) on the family seating dashboard required by subsection (a)(2).
+
+&emsp;"(3)
+
+Sunset.—The requirements in paragraph (2) shall cease to be effective on the date on which the rulemaking required by section 513 is effective."
+
 #### Federal Support for Local Decisionmaking
 
 Pub. L. 117–58, div. B, title V, §25003, Nov. 15, 2021, 135 Stat. 838, provided that:

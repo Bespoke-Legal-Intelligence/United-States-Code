@@ -4,7 +4,7 @@
 
 The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall make not less than 5, and not more than 20, grants to States for the purpose of assisting grantees in carrying out demonstration projects—
 
-&emsp;(1) to identify low-income individuals who can avoid institutionalization or prolongedhospitalization if skilled medical services, skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals;
+&emsp;(1) to identify low-income individuals who can avoid institutionalization or prolonged hospitalization if skilled medical services, skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals;
 
 &emsp;(2) to pay the costs of the provision of such services in the homes of such individuals; and
 

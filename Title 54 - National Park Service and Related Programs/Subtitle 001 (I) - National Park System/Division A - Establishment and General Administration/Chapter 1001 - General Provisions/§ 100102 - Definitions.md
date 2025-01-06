@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 no source.
 
-The term "System unit" is added because various laws relating to the National Park Service apply to anyarea of land or water administered by the Secretary through the Service regardless of the terms used in those laws. See section 100501 of the revised title.
+The term "System unit" is added because various laws relating to the National Park Service apply to any area of land or water administered by the Secretary through the Service regardless of the terms used in those laws. See section 100501 of the revised title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

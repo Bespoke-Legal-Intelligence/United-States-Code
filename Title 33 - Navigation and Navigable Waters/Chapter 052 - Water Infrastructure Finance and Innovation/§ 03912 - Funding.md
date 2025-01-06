@@ -58,7 +58,7 @@ Notwithstanding section 3908(b)(2) of this title, the Secretary or the Administr
 
 &emsp;No funds shall be made available in a fiscal year to the Administrator for purposes of this subsection if—
 
-&emsp;&emsp;(A) the total amount appropriated for the fiscal year for State loan funds under section 300j–12 of title 42 is less than either the amount made available for such purpose infiscal year 2018, or 105 percent of the previous fiscal year's appropriation for such purpose, whichever is greater; and
+&emsp;&emsp;(A) the total amount appropriated for the fiscal year for State loan funds under section 300j–12 of title 42 is less than either the amount made available for such purpose in fiscal year 2018, or 105 percent of the previous fiscal year's appropriation for such purpose, whichever is greater; and
 
 &emsp;&emsp;(B) the total amount appropriated for the fiscal year for water pollution control revolving funds under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\] is less than either the amount made available for such purpose for fiscal year 2018, or 105 percent of the previous fiscal year's appropriation for such purpose, whichever is greater.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Convening of Boards to Consider Officers Required to Show Cause.—The Secretaryof the Air Force shall convene retention boards at such times and places as the Secretary may prescribe to receive evidence and make findings and recommendations as to whether an officer who is required under section 20501 of this title to show cause for retention in a space force active status should be retained in a space force active status. Each retention board shall be composed of not less than three officers having the qualifications prescribed by section 20506 of this title.
+Convening of Boards to Consider Officers Required to Show Cause.—The Secretary of the Air Force shall convene retention boards at such times and places as the Secretary may prescribe to receive evidence and make findings and recommendations as to whether an officer who is required under section 20501 of this title to show cause for retention in a space force active status should be retained in a space force active status. Each retention board shall be composed of not less than three officers having the qualifications prescribed by section 20506 of this title.
 
 (b)
 
@@ -10,7 +10,7 @@ Fair and Impartial Hearing.—A retention board shall give a fair and impartial 
 
 (c)
 
-Effect of Board Determination Than <sup>1</sup> an Officer Has Failed to Establish That the Officer Should Be Retained.—
+Effect of Board Determination That an Officer Has Failed to Establish That the Officer Should Be Retained.—
 
 &emsp;(1) If a retention board determines that the officer has failed to establish that the officer should be retained in a space force active status, the board shall recommend to the Secretary of the Air Force one of the following:
 
@@ -24,7 +24,7 @@ Effect of Board Determination Than <sup>1</sup> an Officer Has Failed to Establ
 
 (d)
 
-Effect of Board Determination Than <sup>1</sup> an Officer Has Established That the Officer Should Be Retained.—
+Effect of Board Determination That an Officer Has Established That the Officer Should Be Retained.—
 
 &emsp;(1) If a retention board determines that the officer has established that the officer should be retained in a space force active status, the officer's case is closed.
 
@@ -36,7 +36,13 @@ Effect of Board Determination Than <sup>1</sup> an Officer Has Established That
 
 &emsp;(4) In the case of an officer described in paragraph (2) or paragraph (3)(A), the retention board may recommend that the officer be required to complete additional training, professional education, or such other developmental programs as may be available to correct any identified deficiencies and improve the officer's performance within the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1719, Dec. 22, 2023, 137 Stat. 659.)
+(Added Pub. L. 118–31, div. A, title XVII, §1719, Dec. 22, 2023, 137 Stat. 659; amended Pub. L. 118–159, div. A, title V, §521(x), Dec. 23, 2024, 138 Stat. 1883.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "That".</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–159, §521(x)(1), substituted "That an Officer Has Failed to Establish That the Officer Should Be Retained" for "Than an Officer Has Failed to Establish That the Officer Should Be Retained" in heading and realigned margins.
+
+Subsec. (d). Pub. L. 118–159, §521(x)(2), substituted "That" for "Than" in heading.
 

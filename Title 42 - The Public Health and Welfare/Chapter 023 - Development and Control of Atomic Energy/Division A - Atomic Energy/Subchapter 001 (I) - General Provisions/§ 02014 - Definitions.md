@@ -20,9 +20,9 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;(B) any material that—
 
-&emsp;&emsp;(i) has been made radioactive by use of a particle accelerator; and
+&emsp;&emsp;(i) has been made radioactive by use of a particle accelerator, including by use of a fusion machine; and
 
-&emsp;&emsp;(ii) is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
+&emsp;&emsp;(ii) if made radioactive by use of a particle accelerator that is not a fusion machine, is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
 
 &emsp;(4) any discrete source of naturally occurring radioactive material, other than source material, that—
 
@@ -42,7 +42,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (k) The term "financial protection" means the ability to respond in damages for public liability and to meet the costs of investigating and defending claims and settling suits for such damages.
 
-(l) The term "Government agency" means any executive department, commission, independent establishment, corporation, wholly or partly owned by the United States of America which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of the Government.
+(l) The term "Government agency" means any executive department, commission, independent establishment, corporation, wholly or partlyowned by the United States of America which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of the Government.
 
 (m) The term "indemnitor" means (1) any insurer with respect to his obligations under a policy of insurance furnished as proof of financial protection; (2) any licensee, contractor or other person who is obligated under any other form of financial protection, with respect to such obligations; and (3) the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, with respect to any obligation undertaken by it in indemnity agreement entered into pursuant to section 2210 of this title.
 
@@ -52,7 +52,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (p) The term "licensed activity" means an activity licensed pursuant to this chapter and covered by the provisions of section 2210(a) of this title.
 
-(q) The term "nuclear incident" means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material: <i>Provided, however</i>, That as the term is used in section 2210(l) of this title, it shall include any such occurrence outside the United States: <i>And provided further</i>, That as the term is used in section 2210(d) of this title, it shall include any such occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States: <i>And provided further</i>, That as the term is used in section 2210(c) of this title, it shall include any such occurrence outside both the United States and any other nation if such occurrence arises out of or results from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material licensed pursuant to subchapters V, VI, VII, and IX of this division, which is used in connection with the operation of a licensed stationary production or utilization facility or which moves outside the territorial limits of the United States in transit from one person licensed by the Nuclear Regulatory Commission to another person licensed by the Nuclear Regulatory Commission.
+(q) The term "nuclear incident" means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material: <i>Provided, however</i>, That as the term is used in section 2210(l) of this title, it shall include any such occurrence outside the United States: <i>And provided further</i>, That as the term is used in section 2210(d) of this title, it shall include any such occurrence outside the United States: <i>And provided further</i>, That as the term is used in section 2210(c) of this title, it shall include any such occurrence outside both the United States and any other nation if such occurrence arises out of or results from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material licensed pursuant to subchapters V, VI, VII, and IX of this division, which is used in connection with the operation of a licensed stationary production or utilization facility or which moves outside the territorial limits of the United States in transit from one person licensed by the Nuclear Regulatory Commission to another person licensed by the Nuclear Regulatory Commission.
 
 (r) The term "operator" means any individual who manipulates the controls of a utilization or production facility.
 
@@ -64,7 +64,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (v) The term "production facility" means (1) any equipment or device determined by rule of the Commission to be capable of the production of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or (2) any important component part especially designed for such equipment or device as determined by the Commission. Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.
 
-(w) The term "public liability" means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation), except: (i) claims under State or Federal workmen's compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (ii) claims arising out of an act of war; and (iii) whenever used in subsections (a), (c), and (k) of section 2210 of this title, claims for loss of, or damage to, or loss of use of property which is located at the site of and used in connection with the licensed activity where the nuclear incident occurs. "Public liability" also includes damage to property of persons indemnified: <i>Provided</i>, That such property is covered under the terms of the financial protection required, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
+(w) The term "public liability" means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation), except: (i) claims under State or Federal workmen's compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (ii) claims arising out of an act of war; and (iii) whenever used in subsections (a), (c), and (k) of section 2210 of this title, claims for loss of, or damage to, or loss of use of property which is located at the site of and used in connection with the licensed activity where the nuclear incident occurs. "Public liability" also includes damage to property of persons indemnified: <i>Provided</i>, That such property is covered under the terms of the financial protectionrequired, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
 
 (x) The term "research and development" means (1) theoretical analysis, exploration, or experimentation; or (2) the extension of investigative findings and theories of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, devices, equipment, materials, and processes.
 
@@ -78,25 +78,43 @@ The intent of Congress in the definitions as given in this section should be con
 
 (cc) The term "utilization facility" means (1) any equipment or device, except an atomic weapon, determined by rule of the Commission to be capable of making use of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public, or peculiarly adapted for making use of atomic energy in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or (2) any important component part especially designed for such equipment or device as determined by the Commission.
 
-(dd) The terms "high-level radioactive waste" and "spent nuclear fuel" have the meanings given such terms in section 10101 of this title.
+(dd)
 
-(ee) The term "transuranic waste" means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
+Fusion Machine.—The term "fusion machine" means a machine that is capable of—
 
-(ff) The term "nuclear waste activities", as used in section 2210 of this title, means activities subject to an agreement of indemnification under subsection (d) of such section, that the Secretary of Energy is authorized to undertake, under this chapter or any other law, involving the storage, handling, transportation, treatment, or disposal of, or research and development on, spent nuclear fuel, high-level radioactive waste, or transuranic waste, including (but not limited to) activities authorized to be carried out under the Waste Isolation Pilot Project under section 213 of Public Law 96–164 (93 Stat. 1265).
+&emsp;(1) transforming atomic nuclei, through fusion processes, into different elements, isotopes, or other particles; and
 
-(gg) The term "precautionary evacuation" means an evacuation of the public within a specified area near a nuclear facility, or the transportation route in the case of an accident involving transportation of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste to or from a production or utilization facility, if the evacuation is—
+&emsp;(2) directly capturing and using the resultant products, including particles, heat, or other electromagnetic radiation.
+
+(ee)
+
+High-level Radioactive Waste; Spent Nuclear Fuel.—The terms "high-level radioactive waste" and "spent nuclear fuel" have the meanings given such terms in section 10101 of this title.
+
+(ff)
+
+Legal Costs.—As used in section 2210 of this title, the term "legal costs" means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
+
+(gg)
+
+Nuclear Waste Activities.—The term "nuclear waste activities", as used in section 2210 of this title, means activities subject to an agreement of indemnification under subsection (d) of such section, that the Secretary of Energy is authorized to undertake, under this chapter or any other law, involving the storage, handling, transportation, treatment, or disposal of, or research and development on, spent nuclear fuel, high-level radioactive waste, or transuranic waste, including (but not limited to) activities authorized to be carried out under the Waste Isolation Pilot Project under section 213 of Public Law 96–164 (93 Stat. 1265).
+
+(hh)
+
+Precautionary Evacuation.—The term "precautionary evacuation" means an evacuation of the public within a specified area near a nuclear facility, or the transportation route in the case of an accident involving transportation of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste to or from a production or utilization facility, if the evacuation is—
 
 &emsp;(1) the result of any event that is not classified as a nuclear incident but that poses imminent danger of bodily injury or property damage from the radiological properties of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste, and causes an evacuation; and
 
 &emsp;(2) initiated by an official of a State or a political subdivision of a State, who is authorized by State law to initiate such an evacuation and who reasonably determined that such an evacuation was necessary to protect the public health and safety.
 
-(hh) The term "public liability action", as used in section 2210 of this title, means any suit asserting public liability. A public liability action shall be deemed to be an action arising under section 2210 of this title, and the substantive rules for decision in such action shall be derived from the law of the State in which the nuclear incident involved occurs, unless such law is inconsistent with the provisions of such section.
+(ii)
 
-(jj) <sup>1</sup>
+Public Liability Action.—The term "public liability action", as used in section 2210 of this title, means any suit asserting public liability. A public liability action shall be deemed to be an action arising under section 2210 of this title, and the substantive rules for decision in such action shall be derived from the law of the State in which the nuclear incident involved occurs, unless such law is inconsistent with the provisions of such section.
 
-Legal Costs.—As used in section 2210 of this title, the term "legal costs" means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
+(jj)
 
-(Aug. 1, 1946, ch. 724, title I, §11, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 922; amended Aug. 6, 1956, ch. 1015, §1, 70 Stat. 1069; Pub. L. 85–256, §3, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–602, §1, Aug. 8, 1958, 72 Stat. 525; Pub. L. 87–206, §§2, 3, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §§4, 5, Aug. 29, 1962, 76 Stat. 410; Pub. L. 89–645, §1(a), Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §1, Dec. 31, 1975, 89 Stat. 1111; Pub. L. 95–604, title II, §201, Nov. 8, 1978, 92 Stat. 3033; Pub. L. 100–408, §§4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, 102 Stat. 1069, 1070, 1076, 1078–1080; Pub. L. 101–575, §5(a), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(8), title XI, §1102, Oct. 24, 1992, 106 Stat. 2944, 2955; Pub. L. 103–437, §15(f)(1), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 104–134, title III, §3116(b)(1), Apr. 26, 1996, 110 Stat. 1321–349; Pub. L. 109–58, title VI, §651(e)(1), Aug. 8, 2005, 119 Stat. 806.)
+Transuranic Waste.—The term "transuranic waste" means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
+
+(Aug. 1, 1946, ch. 724, title I, §11, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 922; amended Aug. 6, 1956, ch. 1015, §1, 70 Stat. 1069; Pub. L. 85–256, §3, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–602, §1, Aug. 8, 1958, 72 Stat. 525; Pub. L. 87–206, §§2, 3, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §§4, 5, Aug. 29, 1962, 76 Stat. 410; Pub. L. 89–645, §1(a), Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §1, Dec. 31, 1975, 89 Stat. 1111; Pub. L. 95–604, title II, §201,Nov. 8, 1978, 92 Stat. 3033; Pub. L. 100–408, §§4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, 102 Stat. 1069, 1070, 1076, 1078–1080; Pub. L. 101–575, §5(a), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(8), title XI, §1102, Oct. 24, 1992, 106 Stat. 2944, 2955; Pub. L. 103–437, §15(f)(1), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 104–134, title III, §3116(b)(1), Apr. 26, 1996, 110 Stat. 1321–349; Pub. L. 109–58, title VI, §651(e)(1), Aug. 8, 2005, 119 Stat. 806; Pub. L. 118–47, div. G, title I, §107(d), Mar. 23, 2024, 138 Stat. 857; Pub. L. 118–67, div. B, title II, §205(a), July 9, 2024, 138 Stat. 1460.)
 
 #### <b>Editorial Notes</b>
 
@@ -106,7 +124,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act A
 
 For definition of Canal Zone, referred to in subsec. (bb), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Section 213 of Public Law 96–164, referred to in subsec. (ff), is Pub. L. 96–164, title II, §213, Dec. 29, 1979, 93 Stat. 1265, which is not classified to the Code.
+Section 213 of Public Law 96–164, referred to in subsec. (gg), is Pub. L. 96–164, title II, §213, Dec. 29, 1979, 93 Stat. 1265, which is not classified to the Code.
 
 #### Prior Provisions
 
@@ -115,6 +133,20 @@ A prior section 11 of act Aug. 1, 1946, ch. 724, 60 Stat. 768, which related to 
 Sections 12 to 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 770–775, which related to authority, powers and duties of Atomic Energy Commission; compensation for acquisition of private property; judicial review; Joint Committee of Congress on Atomic Energy; penalties for violation of certain provisions of chapter 14 of this title, injunctions, subpoena of witnesses, and production of documents; reports and recommendations to Congress; definitions; and authorization of appropriations, were classified to sections 1812 to 1819, respectively, of this title, and section 20 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which related to separability of provisions of the act, was set out as a note under section 1801 of this title, prior to the general amendment of act Aug. 1, 1946, by act Aug. 30, 1954. Section numbers 12 to 20 were not repeated in the general amendment of act Aug. 1, 1946.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(3)(B)(i). Pub. L. 118–67, §205(a)(1)(A)(i), inserted ", including by use of a fusion machine" after "particle accelerator".
+
+Subsec. (e)(3)(B)(ii). Pub. L. 118–67, §205(a)(1)(A)(ii), inserted "if made radioactive by use of a particle accelerator that is not a fusion machine," before "is produced".
+
+Subsec. (q). Pub. L. 118–47, in second proviso, substituted "occurrence outside the United States:" for "occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States:".
+
+Subsec. (dd). Pub. L. 118–67, §205(a)(5), added subsec. (dd). Former subsec. (dd) redesignated (ee).
+
+Subsec. (ee). Pub. L. 118–67, §205(a)(4), redesignated subsec. (dd) as (ee) and inserted heading. Former subsec. (ee) redesignated (jj).
+
+Pub. L. 118–67, §205(a)(2), inserted heading.
+
+Subsecs. (ff) to (jj). Pub. L. 118–67, §205(a)(2), (3), inserted headings for subsecs. (ff) to (hh), redesignated subsecs. (ee) to (hh) and (jj) as (jj), (gg), (hh), (ii), and (ff), respectively, and transferred the subsecs. to appear in alphabetical order.
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–58 substituted "means—" for "means", realigned margins of pars. (1) and (2), and added pars. (3) and (4).
 
@@ -152,7 +184,7 @@ Subsec. (jj). Pub. L. 100–408, §11(d)(2), added subsec. (jj).
 
 <b>1975</b>—Subsec. (q). Pub. L. 94–197 substituted "source, special nuclear, or byproduct material" for "facility or device" and inserted proviso to include within term as used in section 2210(c) of this title any occurrence outside both the United States and any other nation.
 
-Subsec. (t). Pub. L. 94–197 expanded definition to include nuclear incidents occurring outside the United States as the term is used in section 2210(c) of this title and inserted reference to person required to maintain financial protection.
+Subsec. (t). Pub. L. 94–197 expanded definition to include nuclear incidents occurring outside the UnitedStates as the term is used in section 2210(c) of this title and inserted reference to person required to maintain financial protection.
 
 <b>1966</b>—Subsec. (j). Pub. L. 89–645, §1(a)(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -216,11 +248,9 @@ Pub. L. 100–408, §20, Aug. 20, 1988, 102 Stat. 1084, provided that:
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–604, title II, §208, Nov. 8, 1978, 92 Stat. 3041, provided that: "Except as otherwise provided in thistitle \[see section 202(b) of Pub. L. 95–604, set out as an Effective Date note under section 2113 of this title\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\]."
+Pub. L. 95–604, title II, §208, Nov. 8, 1978, 92 Stat. 3041, provided that: "Except as otherwise provided in this title \[see section 202(b) of Pub. L. 95–604, set out as an Effective Date note under section 2113 of this title\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\]."
 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (ii) has been enacted.</i>
 

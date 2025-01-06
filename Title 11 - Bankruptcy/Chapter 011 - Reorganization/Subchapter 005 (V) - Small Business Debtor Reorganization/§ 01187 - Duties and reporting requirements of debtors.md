@@ -10,7 +10,7 @@ Other Applicable Provisions.—A debtor, in addition to the duties provided in t
 
 (c)
 
-Separate Disclosure Statement Exemption.—If the court orders under section 1181(b) ofthis title that section 1125 of this title applies, section 1125(f) of this title shall apply.
+Separate Disclosure Statement Exemption.—If the court orders under section 1181(b) of this title that section 1125 of this title applies, section 1125(f) of this title shall apply.
 
 (Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1081.)
 

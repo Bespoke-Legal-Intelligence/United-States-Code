@@ -6,7 +6,7 @@ A fundamental and unique capability of NASA is in stimulating science, technolog
 
 &emsp;(2) assess the potential impacts on science, technology, engineering, and mathematics education of a program that would facilitate the development of scientific and educational payloads involving United States students and educators and the flights of those payloads on commercially available orbital platforms, when available and operational, with the goal of providing frequent and regular payload launches;
 
-&emsp;(3) identify NASA expertise, such as NASA science, engineering, payload development, and payload operations, that could be made available to facilitate a science, technology,engineering, and mathematics program using commercial orbital platforms; and
+&emsp;(3) identify NASA expertise, such as NASA science, engineering, payload development, and payload operations, that could be made available to facilitate a science, technology, engineering, and mathematics program using commercial orbital platforms; and
 
 &emsp;(4) identify the issues that would need to be addressed before NASA could properly assess the merits and feasibility of the program described in paragraph (2).
 

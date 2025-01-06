@@ -13,3 +13,4 @@
 - [&sect; 01881e - Use of information acquired under this subchapter](%C2%A7%2001881e%20-%20Use%20of%20information%20acquired%20under%20this%20subchapter.md)
 - [&sect; 01881f - Congressional oversight](%C2%A7%2001881f%20-%20Congressional%20oversight.md)
 - [&sect; 01881g - Savings provision](%C2%A7%2001881g%20-%20Savings%20provision.md)
+- [&sect; 01881h - Penalties for unauthorized disclosure](%C2%A7%2001881h%20-%20Penalties%20for%20unauthorized%20disclosure.md)

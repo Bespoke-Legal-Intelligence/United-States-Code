@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for purposes of the application of this subchapter in aState, the term "family" has the meaning given the term by the State.
+&emsp;&emsp;Subject to subparagraph (B), for purposes of the application of this subchapter in a State, the term "family" has the meaning given the term by the State.
 
 #### (B) Exclusion of employees
 

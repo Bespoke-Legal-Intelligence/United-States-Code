@@ -166,7 +166,7 @@ Not later than 30 days after the date on which the Trade Representative submits 
 
 &emsp;(3) a description of the action plans developed under subsection (g) and any actions taken by foreign countries under such plans.
 
-(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 114–125, title VI, §610(a), (b)(1), Feb. 24, 2016, 130 Stat. 191;Pub. L. 116–113, title V, §506(a), Jan. 29, 2020, 134 Stat. 78.)
+(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 114–125, title VI, §610(a), (b)(1), Feb. 24, 2016, 130 Stat. 191; Pub. L. 116–113, title V, §506(a), Jan. 29, 2020, 134 Stat. 78.)
 
 #### <b>Editorial Notes</b>
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 516(a) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3461 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 516(a) of Pub. L. 103–182, formerly set out asan Effective Date note under former section 3461 of this title.
 
 #### Construction of 2016 Amendment
 

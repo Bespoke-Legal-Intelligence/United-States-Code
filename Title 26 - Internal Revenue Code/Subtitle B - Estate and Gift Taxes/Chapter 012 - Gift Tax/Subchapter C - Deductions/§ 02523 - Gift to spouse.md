@@ -10,7 +10,7 @@ Where, on the lapse of time, on the occurrence of an event or contingency, or on
 
 &emsp;(1) if the donor retains in himself, or transfers or has transferred (for less than an adequate and full consideration in money or money's worth) to any person other than such donee spouse (or the estate of such spouse), an interest in such property, and if by reason of such retention or transfer the donor (or his heirs or assigns) or such person (or his heirs or assigns) may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse; or
 
-&emsp;(2) if the donor immediately after the transfer to the donee spouse has a power to appoint an interest in such property which he can exercise (either alone or in conjunction with any person) in such manner that the appointee may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse. For purposes of this paragraph, the donor shall be considered as having immediately after thetransfer to the donee spouse such power to appoint even though such power cannot be exercised until after the lapse of time, upon the occurrence of an event or contingency, or on the failure of an event or contingency to occur.
+&emsp;(2) if the donor immediately after the transfer to the donee spouse has a power to appoint an interest in such property which he can exercise (either alone or in conjunction with any person) in such manner that the appointee may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse. For purposes of this paragraph, the donor shall be considered as having immediately after the transfer to the donee spouse such power to appoint even though such power cannot be exercised until after the lapse of time, upon the occurrence of an event or contingency, or on the failure of an event or contingency to occur.
 
 > An exercise or release at any time by the donor, either alone or in conjunction with any person, of a power to appoint an interest in property, even though not otherwise a transfer, shall, for purposes of paragraph (1), be considered as a transfer by him. Except as provided in subsection (e), where at the time of the transfer it is impossible to ascertain the particular person or persons who may receive from the donor an interest in property so transferred by him, such interest shall, for purposes of paragraph (1), be considered as transferred to a person other than the donee spouse.
 
@@ -82,7 +82,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (6) Treatment of joint and survivor annuities
 
-&emsp;In the case of a joint and survivor annuity where only the donor spouse and donee spousehave the right to receive payments before the death of the last spouse to die—
+&emsp;In the case of a joint and survivor annuity where only the donor spouse and donee spouse have the right to receive payments before the death of the last spouse to die—
 
 &emsp;&emsp;(A) the donee spouse's interest shall be treated as a qualifying income interest for life,
 
@@ -148,7 +148,7 @@ Subsec. (f)(3). Pub. L. 102–486, §1941(b)(2), inserted before period at end "
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §7815(d)(2), struck out "who is a citizen or resident" after "Where a donor".
 
-Subsec. (i)(2). Pub. L. 101–239, §7815(d)(1)(A), substituted "which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1)" for "made by the donor to such spouse".
+Subsec. (i)(2). Pub. L. 101–239, §7815(d)(1)(A), substituted "which are made by the donor to such spouseand with respect to which a deduction would be allowable under this section but for paragraph (1)" for "made by the donor to such spouse".
 
 <b>1988</b>—Subsec. (f)(6). Pub. L. 100–647, §6152(b), added par. (6).
 
@@ -224,7 +224,7 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Certain Transfers in October 1984
 

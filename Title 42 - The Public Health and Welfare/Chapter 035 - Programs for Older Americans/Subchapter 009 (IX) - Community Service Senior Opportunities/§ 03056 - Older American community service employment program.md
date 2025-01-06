@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
-&emsp;&emsp;(iii) will provide counseling to participants on their progress in meeting such objectivesand satisfying their need for supportive services;
+&emsp;&emsp;(iii) will provide counseling to participants on their progress in meeting such objectives and satisfying their need for supportive services;
 
 &emsp;&emsp;(O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151(e)\], and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act \[29 U.S.C. 3151(c)\];
 
@@ -94,7 +94,7 @@
 
 #### (B) Prepared under Workforce Innovation and Opportunity Act
 
-&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\] for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
+&emsp;&emsp;An assessment and service strategy or individual employment plan prepared undersubtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\] for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
 
 #### (c) Federal share and use of funds
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;Amounts made available for a project under this subchapter that are not used to pay for the administrative costs shall be used to pay for the costs of programmatic activities, including the costs of—
 
-&emsp;&emsp;&emsp;(i) participant wages, such benefits as are required by law (such as workers' compensation or unemployment compensation), the costs of physical examinations, compensation for scheduled work hours during which an employer's business is closed for a Federal holiday, and necessary sick leave that is not part of an accumulated sick leave program, except that no amounts provided under this subchapter may be used to pay the cost of pension benefits, annual leave, accumulated sick leave, or bonuses;
+&emsp;&emsp;&emsp;(i) participant wages, such benefits as are required by law (such as workers' compensation or unemployment compensation), the costs of physical examinations, compensation for scheduled work hours during which an employer's business is closed for a Federal holiday, and necessary sick leave that is not part of an accumulated sick leave program, except that no amounts provided under this subchaptermay be used to pay the cost of pension benefits, annual leave, accumulated sick leave, or bonuses;
 
 &emsp;&emsp;&emsp;(ii) participant training (including the payment of reasonable costs of instructors, classroom rental, training supplies, materials, equipment, and tuition), which may be provided prior to or subsequent to placement and which may be provided on the job, in a classroom setting, or pursuant to other appropriate arrangements;
 

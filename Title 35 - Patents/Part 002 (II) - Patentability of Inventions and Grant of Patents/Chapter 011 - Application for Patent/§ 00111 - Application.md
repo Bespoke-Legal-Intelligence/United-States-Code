@@ -156,7 +156,7 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-Amendment by section 1000(a)(9) \[title IV, §4801(a)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any provisional application filed on or after June 8, 1995, see section 1000(a)(9) \[title IV, §4801(d)\] of Pub. L. 106–113, set out as a note under section 119 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4801(a)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable toany provisional application filed on or after June 8, 1995, see section 1000(a)(9) \[title IV, §4801(d)\] of Pub. L. 106–113, set out as a note under section 119 of this title.
 
 #### Effective Date of 1994 Amendment
 

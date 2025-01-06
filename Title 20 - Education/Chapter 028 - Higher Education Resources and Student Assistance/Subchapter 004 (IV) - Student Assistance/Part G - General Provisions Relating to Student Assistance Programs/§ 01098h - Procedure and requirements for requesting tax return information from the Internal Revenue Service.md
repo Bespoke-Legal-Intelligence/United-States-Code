@@ -14,15 +14,17 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the return information of such individuals may be redisclosed pursuant to clauses (iii), (iv), (v), and (vi) of section 6103(l)(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
 
-&emsp;&emsp;&emsp;(ii) the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
+&emsp;&emsp;&emsp;(ii) the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual;
 
-&emsp;&emsp;(B) require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i).
+&emsp;&emsp;(B) require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i); and
+
+&emsp;&emsp;(C) if an individual is pursuing provisional independent student status due to an unusual circumstance, as described in section 1087tt of this title and provided for in section 1087uu–2 of this title, require such individual to provide an affirmative approval under subparagraph (B), but not require a parent of such individual to provide an affirmative approval under subparagraph (B).
 
 #### (2) Income-contingent and income-based repayment
 
 #### (A) New applicants
 
-&emsp;&emsp;In the case of any written or electronic application by an individual for an income-contingent or income-based repayment plan for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall—
+&emsp;&emsp;In the case of any written or electronic application by an individual for an income-contingent or income-based repayment planfor a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall—
 
 &emsp;&emsp;&emsp;(i) provide to such individuals the notification described in paragraph (1)(A)(i);
 
@@ -105,20 +107,6 @@ The Secretary shall only have authority to request that the Secretary of the Tre
 &emsp;&emsp;(B) make each such record readily available for review by the Secretary.
 
 (Pub. L. 89–329, title IV, §494, as added Pub. L. 116–91, §6(a), Dec. 19, 2019, 133 Stat. 1194; amended Pub. L. 116–260, div. N, title II, §284(b), div. FF, title I, §103(b), title VII, §702(p), Dec. 27, 2020, 134 Stat. 1986, 3086, 3191.)
-
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (A)(ii), by striking "and" after the semicolon;</i>
-
-<i>(2) in subparagraph (B), by striking the period at the end and inserting "; and"; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>(C) if an individual is pursuing provisional independent student status due to an unusual circumstance, as described in section 1087tt of this title and provided for in section 1087uu–2 of this title, require such individual to provide an affirmative approval under subparagraph (B), but not require a parent of such individual to provide an affirmative approval under subparagraph (B).</i>
-
-<i>See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

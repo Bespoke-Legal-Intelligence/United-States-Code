@@ -10,7 +10,7 @@ Payment of an insured deposit to any person by the Corporation shall discharge t
 
 #### (c) Recognition of claimant not on depository institution records
 
-Except as otherwise prescribed by the Board of Directors, neither the Corporation nor such new depository institution or other insured depository institution shall be required to recognize as the owner of any portion of a deposit appearingon the records of the depository institution in default under a name other than that of the claimant, any person whose name or interest as such owner is not disclosed on the records of such depository institution in default as part owner of said deposit, if such recognition would increase the aggregate amount of the insured deposits in such depository institution in default.
+Except as otherwise prescribed by the Board of Directors, neither the Corporation nor such new depository institution or other insured depository institution shall be required to recognize as the owner of any portion of a deposit appearing on the records of the depository institution in default under a name other than that of the claimant, any person whose name or interest as such owner is not disclosed on the records of such depository institution in default as part owner of said deposit, if such recognition would increase the aggregate amount of the insured deposits in such depository institution in default.
 
 #### (d) Withholding payments to meet liability to depository institution
 
@@ -72,7 +72,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (B) Treatment of contractors
 
-&emsp;&emsp;Any individual who, pursuant to a contract or any other arrangement, performs functions or activities of the Corporation, under the direct supervision of an officer or employee of the Corporation, shall be deemed to be an employee of the Corporation for purposes of title 18 and this chapter. Any individual who, pursuant to a contract or any other agreement, acts for or on behalf of the Corporation, and who is not otherwise treated as an officer or employee of theUnited States for purposes of title 18 shall be deemed to be a public official for purposes of section 201 of title 18.
+&emsp;&emsp;Any individual who, pursuant to a contract or any other arrangement, performs functions or activities of the Corporation, under the direct supervision of an officer or employee of the Corporation, shall be deemed to be an employee of the Corporation for purposes of title 18 and this chapter. Any individual who, pursuant to a contract or any other agreement, acts for or on behalf of the Corporation, and who is not otherwise treated as an officer or employee of the United States for purposes of title 18 shall be deemed to be a public official for purposes of section 201 of title 18.
 
 #### (2) Regulations concerning employee conduct
 
@@ -146,7 +146,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 &emsp;To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
-(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub.L. 97–320, title I, §113(l), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(C), July 30, 2008, 122 Stat. 2829.)
+(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(l), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(C), July 30, 2008, 122 Stat. 2829.)
 
 #### <b>Editorial Notes</b>
 

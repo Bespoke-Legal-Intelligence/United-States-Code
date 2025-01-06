@@ -26,7 +26,7 @@ Charges by Executive Agencies.—
 
 &emsp;(1)
 
-In general.—An executive agency, other than the Administration, may impose a chargefor furnishing space and services at rates approved by the Administrator.
+In general.—An executive agency, other than the Administration, may impose a charge for furnishing space and services at rates approved by the Administrator.
 
 &emsp;(2)
 
@@ -66,5 +66,5 @@ Pub. L. 102–393, title IV, §5, Oct. 6, 1992, 106 Stat. 1750.
 
 In subsection (b)(3), the words "Federal Buildings Fund" are substituted for "the fund" for clarity and to execute the probable intent of Congress. Sections 3 and 4 of the Public Buildings Amendments of 1972 (Public Law 92–313, 86 Stat. 218) added subsection (j) of 40:490 (in which the words "the fund" appear) and amended subsection (f) to create a fund into which "charges made pursuant to subsection (j)" are deposited (40:490(f)(1)(A)). That fund was subsequently named "Federal Buildings Fund" by section 153(1) of the Energy Policy Act of 1992 (Public Law 102–486, 106 Stat. 2851). If an exemption from charges is granted under 40:490(j), "the fund" that suffers the loss of revenue is the Federal Buildings Fund.
 
-In subsection (d), the words "on and after October 6, 1992" are omitted as obsolete. The words "subsection (b)" are substituted for "section 201(j) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490(j))" in section 5(a) of the Independent Agencies Appropriations Act, 1993, to reflect the probable intent of Congress. Section 201 of the Federal Property and Administrative Services Act of 1949 does not contain a subsection (j) and the intended reference was probably "section 210(j)", which is restated in this section. The text of 40:490f(b) is omitted as executed.
+In subsection (d), the words "on and after October 6, 1992" are omitted as obsolete. The words "subsection (b)" are substituted for "section 201(j) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490(j))" in section 5(a) of the Independent Agencies Appropriations Act, 1993, to reflect the probable intent of Congress. Section 201 of the Federal Property and Administrative Services Act of 1949 does not contain a subsection (j) and the intended reference was probably "section 210(j)", which is restatedin this section. The text of 40:490f(b) is omitted as executed.
 

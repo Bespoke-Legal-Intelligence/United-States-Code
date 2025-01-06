@@ -14,7 +14,7 @@ Subject to subsection (e), from the amount appropriated for payments to States f
 
 &emsp;From the amount made available for any fiscal year under subsection (a)(1), the Secretary shall—
 
-&emsp;&emsp;(A) first reserve $1,000,000 for the Republic of Palau, until Palau enters into an agreement for extension of United States educational assistance under the Compact of Free Association, and subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134, permitting the consolidation of grants, shall not apply; and
+&emsp;&emsp;(A) first reserve $1,000,000 for the Republic of Palau, subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134, permitting the consolidation of grants, shall not apply; and
 
 &emsp;&emsp;(B) use the remaining funds to award grants to the outlying areas in accordance with paragraphs (2) through (5).
 
@@ -26,7 +26,7 @@ Subject to subsection (e), from the amount appropriated for payments to States f
 
 &emsp;For each fiscal year, the amount made available to each outlying area under this subsection shall be—
 
-&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted under paragraph (2) is not less than 30 percent ofthe total number of children aged 5 to 17 years, inclusive, in the outlying area;
+&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted under paragraph (2) is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the outlying area;
 
 &emsp;&emsp;(B) not less than 90 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is between 15 percent and 30 percent; and
 
@@ -70,7 +70,7 @@ For the purpose of this section, the term "outlying area" means the United State
 
 If, by reason of the application of subsection (a) for any fiscal year, the total amount available for allocation to all States under this part would be less than the amount allocated to all States for fiscal year 2016 under this part, the Secretary shall provide assistance to the outlying areas and the Secretary of the Interior in accordance with this section, as in effect on the day before December 10, 2015.
 
-(Pub. L. 89–10, title I, §1121, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1513; amended Pub. L. 114–95, title I, §1014, Dec. 10, 2015, 129 Stat. 1876.)
+(Pub. L. 89–10, title I, §1121, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1513; amended Pub. L. 114–95, title I, §1014, Dec. 10, 2015, 129 Stat. 1876; Pub. L. 118–42, div. G, title II, §209(b)(4)(A), Mar. 9, 2024, 138 Stat. 443.)
 
 #### <b>Editorial Notes</b>
 
@@ -84,7 +84,9 @@ A prior section 6331, Pub. L. 89–10, title I, §1121, as added Pub. L. 103–3
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to reservation of one percent of funds for assistance to outlying areas and the Secretary of the Interior, grants to outlying areas, definitions, and allotment to the Secretary of the Interior to meet special educational needs of Indian children.
+<b>2024</b>—Subsec. (b)(1)(A). Pub. L. 118–42 added subpar. (A) and struck out former subpar. (A) which read as follows: "first reserve $1,000,000 for the Republic of Palau, until Palau enters into an agreement for extension of United States educational assistance under the Compact of Free Association, and subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134, permitting the consolidation of grants, shall not apply; and".
+
+<b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d)relating to reservation of one percent of funds for assistance to outlying areas and the Secretary of the Interior, grants to outlying areas, definitions, and allotment to the Secretary of the Interior to meet special educational needs of Indian children.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

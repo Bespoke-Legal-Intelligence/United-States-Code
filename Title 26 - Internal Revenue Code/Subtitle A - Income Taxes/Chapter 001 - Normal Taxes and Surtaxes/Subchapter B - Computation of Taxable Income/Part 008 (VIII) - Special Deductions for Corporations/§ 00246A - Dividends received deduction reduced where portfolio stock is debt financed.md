@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (2) Special rule where stock not held throughout base period
 
-&emsp;In the case of any stock which was not held by the taxpayer throughout the base period, paragraph (1) shall be applied as if the base period consisted only of that portion of the base period during which the stock was held by the taxpayer.
+&emsp;In the case of any stock which was not held by the taxpayer throughout the base period,paragraph (1) shall be applied as if the base period consisted only of that portion of the base period during which the stock was held by the taxpayer.
 
 #### (3) Portfolio indebtedness
 
@@ -110,7 +110,7 @@ The regulations prescribed for purposes of this section under section 7701(f) sh
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see ShortTitle note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to section 1841(a) of Title 12, Banks and Banking.
 
@@ -160,7 +160,7 @@ Amendment by section 1804(a) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §51(c), July 18, 1984, 98 Stat. 564, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §51(c), July 18, 1984, 98 Stat. 564, provided that: "The amendments made bythis section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 
 #### Savings Provision
 

@@ -14,7 +14,7 @@ In this section, the term "South Florida" means—
 
 #### (1) Interim integrated assessment
 
-&emsp;Not later than 540 days after June 16, 2022, the Task Force, in accordance with the authority under section 4001 of this title, shall complete and submit to Congress and the President an interim integrated assessment.
+&emsp;Not later than 540 days after June 16, 2022, the Task Force, in accordance with the authority under section 4001 of this title, shallcomplete and submit to Congress and the President an interim integrated assessment.
 
 #### (2) Finalized integrated assessment
 

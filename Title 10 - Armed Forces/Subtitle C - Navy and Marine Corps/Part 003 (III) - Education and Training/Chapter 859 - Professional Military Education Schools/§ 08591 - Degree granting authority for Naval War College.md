@@ -24,7 +24,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Naval War College to award any new or existing degree.
 
-(Added Pub. L. 101–510, div. A, title IX, §912(a), Nov. 5, 1990, 104 Stat. 1626, §7101; amended Pub. L. 110–417, \[div. A\], title V, §543(f)(1), Oct. 14, 2008, 122 Stat. 4461; renumbered §8591, Pub. L. 115–232, div. A, title VIII, §807(c)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 101–510, div. A, title IX, §912(a), Nov. 5, 1990, 104 Stat. 1626, §7101; amended Pub.L. 110–417, \[div. A\], title V, §543(f)(1), Oct. 14, 2008, 122 Stat. 4461; renumbered §8591, Pub. L. 115–232, div. A, title VIII, §807(c)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
 #### <b>Editorial Notes</b>
 

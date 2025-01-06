@@ -96,7 +96,7 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;&emsp;(II) a plan for submitting such a nomination during the 90-day period following the submission of the report.
 
-(B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraph not less frequently than every 90 days until the President submits such a nomination.
+(B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraphnot less frequently than every 90 days until the President submits such a nomination.
 
 #### (e) Quorum
 

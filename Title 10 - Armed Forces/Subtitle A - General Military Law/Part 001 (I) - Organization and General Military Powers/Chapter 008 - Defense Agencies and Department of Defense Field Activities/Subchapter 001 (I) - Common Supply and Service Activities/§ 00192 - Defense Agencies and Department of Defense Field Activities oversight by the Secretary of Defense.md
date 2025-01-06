@@ -18,13 +18,13 @@ Program and Budget Review.—The Secretary of Defense shall establish procedures
 
 (c)
 
-Periodic Review.—(1)(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Secretary of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
+Periodic Review.—(1)(A) Not later than January 1, 2020, and periodically (but not lessfrequently than every four years) thereafter, the Secretary of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
 
 (B) As part of each review under this paragraph, the Secretary shall identify each activity of an Agency or Activity that is substantially similar to, or duplicative of, an activity carried out by another organization or element of the Department of Defense, or is not being performed to an adequate level to meet Department needs.
 
 (C) For purposes of conducting reviews under this paragraph, the Secretary shall develop internal guidance that defines requirements for such reviews and provides clear direction for conducting and recording the results of reviews.
 
-(2)(A) Not later than 90 days after the completion of a review under paragraph (1), the Secretary shall submit to the congressional defensecommittees a report that sets forth the results of the review.
+(2)(A) Not later than 90 days after the completion of a review under paragraph (1), the Secretary shall submit to the congressional defense committees a report that sets forth the results of the review.
 
 (B) The report on a review under this paragraph shall, based on the results of the review, include the following:
 

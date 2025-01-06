@@ -28,7 +28,7 @@ Student Loans.—The authority to make payments under subsection (a) may be exer
 
 (d)
 
-Maximum Benefit.—The months for which interest and any special allowance may be paid on behalf of a member of the armed forces under this section are any 36 consecutive months during which the member is eligible under subsection (b).
+Maximum Benefit.—The months for which interest and any special allowance may be paidon behalf of a member of the armed forces under this section are any 36 consecutive months during which the member is eligible under subsection (b).
 
 (e)
 

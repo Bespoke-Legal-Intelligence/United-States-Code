@@ -68,7 +68,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;When an individual initiates a request through an online service to open an accountwith a financial institution or obtain a financial product or service from a financial institution, the financial institution may record personal information from a scan of the driver's license or personal identification card of the individual, or make a copy or receive an image of the driver's license or personal identification card of the individual, and store or retain such information in any electronic format for the purposes described in paragraph (2).
+&emsp;When an individual initiates a request through an online service to open an account with a financial institution or obtain a financial product or service from a financial institution, the financial institution may record personal information from a scan of the driver's license or personal identification card of the individual, or make a copy or receive an image of the driver's license or personal identification card of the individual, and store or retain such information in any electronic format for the purposes described in paragraph (2).
 
 #### (2) Uses of information
 

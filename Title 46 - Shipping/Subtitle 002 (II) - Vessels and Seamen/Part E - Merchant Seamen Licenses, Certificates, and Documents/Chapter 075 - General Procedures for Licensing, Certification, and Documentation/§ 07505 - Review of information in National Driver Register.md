@@ -2,7 +2,7 @@
 
 The Secretary shall make information received from the National Driver Register under section 30305(b)(7) of title 49 available to an individual for review and written comment before denying, suspending, revoking, or taking any other action relating to a license, certificate of registry, or merchant mariner's document authorized to be issued for that individual under this part, based on that information.
 
-(Added Pub. L. 101–380, title IV, §4105(b)(1), Aug. 18, 1990, 104 Stat. 512; amended Pub. L. 115–232, div. C, title XXXV, §3546(e), Aug. 13, 2018, 132 Stat. 2326.)
+(Added Pub. L. 101–380, title IV, §4105(b)(1), Aug. 18, 1990, 104 Stat. 512; amended Pub. L. 115–232,div. C, title XXXV, §3546(e), Aug. 13, 2018, 132 Stat. 2326.)
 
 #### <b>Editorial Notes</b>
 

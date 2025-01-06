@@ -14,7 +14,7 @@ The Chief of Engineers is authorized to procure the temporary or intermittent se
 
 <b>1970</b>—Pub. L. 91–611 substituted provision that compensation "may be paid at rates not to exceed the daily equivalent of the rate for GS–18 for each day of their services" for "shall not be paid in excess of $100 per day for their services".
 
-<b>1950</b>—Act May 17, 1950, amended section generally, providing for employment of experts and consultants and omitting provisions relating to stenographic assistance.
+<b>1950</b>—Act May 17, 1950, amended section generally, providing for employment of experts and consultantsand omitting provisions relating to stenographic assistance.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

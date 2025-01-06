@@ -2,13 +2,13 @@
 
 #### (a) Authorization of appropriations
 
-#### (1) Fish habitat conservation projects
+#### (1) Fish habitat Partnerships and conservation projects
 
-&emsp;There is authorized to be appropriated to the Secretary $7,200,000 for each of fiscal years 2021 through 2025 to provide funds for fish habitat conservation projects approved under section 8205(f) of this title, of which 5 percent is authorized only for projects carried out by Indian Tribes.
+&emsp;There is authorized to be appropriated to the Secretary $7,200,000 for each of fiscal years 2021 through 2030 to provide funds for Partnership operations under section 8204 of this title and fish habitat conservation projects approved under section 8205(f) of this title, of which 5 percent is authorized only for projects carried out by Indian Tribes.
 
 #### (2) Administrative and planning expenses
 
-&emsp;There is authorized to be appropriated to the Secretary for each of fiscal years 2021 through 2025 an amount equal to 5 percent of the amount appropriated for the applicable fiscal year pursuant to paragraph (1)—
+&emsp;There is authorized to be appropriated to the Secretary for each of fiscal years 2021 through 2030 an amount equal to 5 percent of the amount appropriated for the applicable fiscal year pursuant to paragraph (1)—
 
 &emsp;&emsp;(A) for administrative and planning expenses under this chapter; and
 
@@ -16,7 +16,7 @@
 
 #### (3) Technical and scientific assistance
 
-&emsp;There is authorized to be appropriated for each of fiscal years 2021 through 2025 to carryout, and provide technical and scientific assistance under, section 8206 of this title—
+&emsp;There is authorized to be appropriated for each of fiscal years 2021 through 2030 to carry out, and provide technical and scientific assistance under, section 8206 of this title—
 
 &emsp;&emsp;(A) $400,000 to the Secretary for use by the United States Fish and Wildlife Service;
 
@@ -60,7 +60,7 @@ The Secretary may—
 
 &emsp;&emsp;&emsp;(ii) provided to another Federal department or agency through an interagency agreement.
 
-(Pub. L. 116–188, title II, §212, Oct. 30, 2020, 134 Stat. 937.)
+(Pub. L. 116–188, title II, §212, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, §206, Dec. 23, 2024, 138 Stat. 2683.)
 
 #### <b>Editorial Notes</b>
 
@@ -69,4 +69,12 @@ The Secretary may—
 The Federal Financial Assistance Management Improvement Act of 1999, referred to in subsec. (b)(1), is Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, which was formerly set out as a note under section 6101 of Title 31, Money and Finance. Pursuant to section 11 of the Act, the Act ceased to be effective 8 years after Nov. 20, 1999.
 
 This Act, referred to in subsec. (b)(3), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as America's Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–198, §206(1), inserted "Partnerships and" after "habitat" in heading and "Partnership operations under section 8204 of this title and" after "to provide funds for" in text and substituted "2030" for "2025".
+
+Subsec. (a)(2). Pub. L. 118–198, §206(2), substituted "2030" for "2025" in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 118–198, §206(3), substituted "2030" for "2025" in introductory provisions.
 

@@ -14,7 +14,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 #### (c) Designation of agency to conduct program
 
-(1)(A) The Governor shall designate a public or private agency to conduct the client assistance program under this section. Except as provided in the last sentence of this subparagraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in theState which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
+(1)(A) The Governor shall designate a public or private agency to conduct the client assistance program under this section. Except as provided in the last sentence of this subparagraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in the State which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
 
 (B)(i) The Governor may not redesignate the agency designated under subparagraph (A) without good cause and unless—
 
@@ -118,7 +118,7 @@ Section 732, Pub. L. 93–112, title I, §112, Sept. 26, 1973, 87 Stat. 371; Pub
 
 Section 740, Pub. L. 93–112, title I, §120, as added Pub. L. 102–569, title I, §134(a), Oct. 29, 1992, 106 Stat. 4392, related to State eligibility for grants.
 
-Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 Stat. 372; Pub. L. 95–602, title I, §§101(e)(1), 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 99–506, title X, §1001(b)(8), Oct. 21, 1986, 100 Stat. 1842; Pub. L. 100–630, title II, §202(g), Nov. 7, 1988, 102 Stat. 3306, provided for State allotments to assist in meeting the cost of vocational rehabilitation services, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
+Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 Stat. 372; Pub. L. 95–602, title I,§§101(e)(1), 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 99–506, title X, §1001(b)(8), Oct. 21, 1986, 100 Stat. 1842; Pub. L. 100–630, title II, §202(g), Nov. 7, 1988, 102 Stat. 3306, provided for State allotments to assist in meeting the cost of vocational rehabilitation services, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 #### (b) Fees
 
-(1) The Administrator may, by rule, require the payment from any person required to submit information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator. In setting a fee under this paragraph, the Administrator shall take into account the ability to pay of the person required to pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph. Such rules may provide for sharing such a fee in any case in which the expenses of testing are shared under section 2603 or 2604 of this title.
+(1) The Administrator may, by rule, require the payment from any person required to submit information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator. In setting a fee under this paragraph,the Administrator shall take into account the ability to pay of the person required to pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph. Such rules may provide for sharing such a fee in any case in which the expenses of testing are shared under section 2603 or 2604 of this title.
 
 (2) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the persons which qualify as small business concerns for purposes of paragraph (4).
 
@@ -116,7 +116,7 @@ Termination.—The authority provided by this subsection shall terminate at the 
 
 #### (d) Assistance office
 
-The Administrator shall establish in the Environmental Protection Agency an identifiable office to provide technical and other nonfinancial assistance to manufacturers and processors of chemical substances and mixtures respecting the requirements of this chapter applicable to such manufacturers and processors, the policy ofthe Agency respecting the application of such requirements to such manufacturers and processors, and the means and methods by which such manufacturers and processors may comply with such requirements.
+The Administrator shall establish in the Environmental Protection Agency an identifiable office to provide technical and other nonfinancial assistance to manufacturers and processors of chemical substances and mixtures respecting the requirements of this chapter applicable to such manufacturers and processors, the policy of the Agency respecting the application of such requirements to such manufacturers and processors, and the means and methods by which such manufacturers and processors may comply with such requirements.
 
 #### (e) Financial disclosures
 
@@ -142,7 +142,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 (4) This subsection does not supersede any requirement of chapter 11 of title 18.
 
-(5) Any officer or employee who is subject to, and knowingly violates, this subsection or any rule issued thereunder, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+(5) Any officer or employee who is subject to, and knowingly violates, this subsection or any rule issued thereunder, shall be fined not morethan $2,500 or imprisoned not more than one year, or both.
 
 #### (f) Statement of basis and purpose
 
@@ -182,7 +182,7 @@ Subject to section 2613 of this title, the Administrator shall make available to
 
 &emsp;(3) a nontechnical summary of each risk evaluation conducted under section 2605(b) of this title;
 
-&emsp;(4) a list of the studies considered by the Administrator in carrying out each such riskevaluation, along with the results of those studies; and
+&emsp;(4) a list of the studies considered by the Administrator in carrying out each such risk evaluation, along with the results of those studies; and
 
 &emsp;(5) each designation of a chemical substance under section 2605(b) of this title, along with an identification of the information, analysis, and basis used to make the designations.
 
@@ -284,7 +284,7 @@ In carrying out sections 2603, 2604, and 2605 of this title, the Administrator s
 
 #### (3) Actions completed prior to completion of policies, procedures, and guidance
 
-&emsp;Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
+&emsp;Nothing in this chapter requires the Administrator to revise or withdraw a completedrisk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
 
 (Pub. L. 94–469, title I, §26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 98–80, §2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§17, 19(q), June 22, 2016, 130 Stat. 499, 510; Pub. L. 117–286, §4(a)(69), Dec. 27, 2022, 136 Stat. 4313.)
 
@@ -300,7 +300,7 @@ The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in
 
 <b>2022</b>—Subsec. (b)(4)(E). Pub. L. 117–286 substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)".
 
-Subsec. (b)(1). Pub. L. 114–182, §17(1), struck out "of a reasonable fee" before "from any person", substituted "information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator" for "data under section 2603 or 2604 of this title to defray the cost of administering this chapter", struck out "Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100." before "In setting a fee", and substituted "pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph" for "submit the data and the cost to the Administrator of reviewing such data".
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–182, §17(1), struck out "of a reasonable fee" before "from any person", substituted "information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator" for "data under section 2603 or 2604 of this title to defray the cost of administering this chapter", struck out "Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100." before "In setting a fee", and substituted "pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph" for "submit the data and the cost to the Administrator of reviewing such data".
 
 Subsec. (b)(2). Pub. L. 114–182, §17(2)(A), substituted "paragraph (4)" for "paragraph (1)".
 

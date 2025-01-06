@@ -20,7 +20,7 @@ Section 7307 requires individuals to have at least 3 years service on deck on ve
 
 #### Temporary Reduction of Lengths of Certain Periods of Service
 
-Pub. L. 118–31, div. C, title XXXV, §3534(j), Dec. 22, 2023, 137 Stat. 833, provided that: "For the 3-year period beginning on the date of enactment of this Act \[Dec. 22, 2023\]—
+Pub. L. 118–31, div. C, title XXXV, §3534(j), Dec. 22, 2023, 137 Stat. 833, provided that: "For the 3-year periodbeginning on the date of enactment of this Act \[Dec. 22, 2023\]—
 
 &emsp;"(1) section 7307 of title 46, United States Code, shall be applied by substituting '18 months' for '3 years';
 

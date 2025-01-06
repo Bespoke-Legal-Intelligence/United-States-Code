@@ -2,7 +2,7 @@
 
 #### (a) Activities constituting administration; use of excess funds to supplement cost of administration of area plans; election to pay costs from sums received for administration of area plans
 
-(1) Amounts available to States under subsection (b) may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of theState plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
+(1) Amounts available to States under subsection (b) may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of the State plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
 
 (2) Any sums available to a State under subsection (b) for part of the cost of the administration of its State plan which the State determines is not needed for such purpose may be used by the State to supplement the amount available under section 3024(d)(1)(A) of this title to cover part of the cost of the administration of area plans.
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) $750,000; and
 
-&emsp;(B) in the case of Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands, the greater of 5 percent of such total amount or $100,000;
+&emsp;(B) in the case of Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands,the greater of 5 percent of such total amount or $100,000;
 
 > shall be available to such State to carry out the purposes of this section.
 
@@ -50,7 +50,7 @@
 
 (E) No application by a State under subparagraph (A) shall be approved unless it contains assurances that no amounts received by the State under this paragraph will be used to hire any individual to fill a job opening created by the action of the State in laying off or terminating the employment of any regular employee not supported under this chapter in anticipation of filling the vacancy so created by hiring an employee to be supported through use of amounts received under this paragraph.
 
-(4)(A) Notwithstanding any other provision of this subchapter and except as provided in subparagraph (B), with respect to funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the State may elect to transfer not more than 40 percent of the funds so received between subpart I and subpart II of part C, for useas the State considers appropriate to meet the needs of the area served. The Assistant Secretary shall approve any such transfer unless the Assistant Secretary determines that such transfer is not consistent with the objectives of this chapter.
+(4)(A) Notwithstanding any other provision of this subchapter and except as provided in subparagraph (B), with respect to funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the State may elect to transfer not more than 40 percent of the funds so received between subpart I and subpart II of part C, for use as the State considers appropriate to meet the needs of the area served. The Assistant Secretary shall approve any such transfer unless the Assistant Secretary determines that such transfer is not consistent with the objectives of this chapter.
 
 (B) If a State demonstrates, to the satisfaction of the Assistant Secretary, that funds received by the State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, including funds transferred under subparagraph (A) without regard to this subparagraph, for any fiscal year are insufficient to satisfy the need for services under subpart I or subpart II of part C, then the Assistant Secretary may grant a waiver that permits the State to transfer under subparagraph (A) to satisfy such need an additional 10 percent of the funds so received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title.
 
@@ -110,7 +110,7 @@ The amounts of any State's allotment under subsection (b) for any fiscal year wh
 
 #### Prior Provisions
 
-A prior section 3028, Pub. L. 89–73, title III, §308, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44; Pub. L. 94–135, title I, §§108, 112(c), Nov. 28, 1975, 89Stat. 717, 719, related to model projects, prior to the general amendment of this subchapter by Pub. L. 95–478.
+A prior section 3028, Pub. L. 89–73, title III, §308, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44; Pub. L. 94–135, title I, §§108, 112(c), Nov. 28, 1975, 89 Stat. 717, 719, related to model projects, prior to the general amendment of this subchapter by Pub. L. 95–478.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43; Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, which was classified to section 3026 of this title prior to repeal by Pub. L. 95–478.
 
@@ -154,7 +154,7 @@ Subsec. (b)(1)(B), (2)(B). Pub. L. 102–375, §904(a)(14)(A), inserted "United 
 
 Subsec. (b)(3)(B)(iii). Pub. L. 102–375, §§102(b)(9)(C), (10)(A), 904(a)(14)(B), inserted "on aging" after "area agencies", struck out "designated under section 3025 of this title" after "such State", and substituted "objectives" for "purposes".
 
-Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted "and except as provided in subparagraph (B)" after "provision of this subchapter", substituted "received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the" for "received under section 3023(b)(1) and (2) of this title, a", "not more than 30 percent of the funds so received" for "a portion of the funds appropriated", and "objectives" for "purposes", and added subpar. (B).
+Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted "and except as provided in subparagraph (B)" after "provision of this subchapter", substituted "received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) ofthis title, the" for "received under section 3023(b)(1) and (2) of this title, a", "not more than 30 percent of the funds so received" for "a portion of the funds appropriated", and "objectives" for "purposes", and added subpar. (B).
 
 Subsec. (b)(5) to (7). Pub. L. 102–375, §308(2)(B), added pars. (5) to (7) and struck out former par. (5) which read as follows:
 

@@ -8,7 +8,7 @@ The President may accept from any State or other political subdivision, or from 
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 5005 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
+Provisions similar to those comprising this section were contained in former section 5005 of this title priorto the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
 

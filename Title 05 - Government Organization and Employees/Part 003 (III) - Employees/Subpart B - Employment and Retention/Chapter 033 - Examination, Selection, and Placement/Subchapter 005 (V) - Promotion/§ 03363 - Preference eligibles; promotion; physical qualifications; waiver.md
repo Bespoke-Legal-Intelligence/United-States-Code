@@ -26,7 +26,7 @@ June 27, 1944, ch. 287, §5 (1st 2 sentences, so much as relates to promotion), 
 
 The section is restated to conform to section 3312.
 
-The words "in the competitive service, an Executive agency, or the government of the District of Columbia" are added on authority of former sections 851, 858, and 869, which are carried into this title. The last sentence is added on authority of former section 869.
+The words "in the competitive service, an Executive agency, or the government of the District of Columbia" are added on authority of former sections 851, 858, and869, which are carried into this title. The last sentence is added on authority of former section 869.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

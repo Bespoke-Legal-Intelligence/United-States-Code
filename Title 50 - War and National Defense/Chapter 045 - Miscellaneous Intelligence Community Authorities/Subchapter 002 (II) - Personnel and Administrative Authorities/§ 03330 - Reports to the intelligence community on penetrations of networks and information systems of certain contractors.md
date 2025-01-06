@@ -76,5 +76,5 @@ Nothing in this section shall be construed to alter or limit any otherwise autho
 
 #### Definitions
 
-For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of this title.
+For definitions of "intelligence community" and "congressional intelligence committees" as used in this section, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of this title.
 

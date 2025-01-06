@@ -2,7 +2,7 @@
 
 (a)
 
-Consideration for Continuation.—(1)(A) A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under section 14504 of this title,or a reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title, may be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+Consideration for Continuation.—(1)(A) A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under section 14504 of this title, or a reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title, may be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
 
 (B) A reserve officer covered by this subparagraph is a reserve officer of the Army, Air Force, or Marine Corps who holds the grade of first lieutenant, or a reserve officer of the Navy who holds the grade of lieutenant (junior grade), and who—
 
@@ -58,7 +58,7 @@ Approval of Secretary Concerned.—Continuation of an officer on the reserve act
 
 "(c)
 
-Instructions To Continuation Boards.—A continuation board convened under section 14101(b) of thistitle to consider officers for continuation on the reserve active-status list under this section shall act in accordance with the instructions and directions provided to the board by the Secretary of the military department concerned."
+Instructions To Continuation Boards.—A continuation board convened under section 14101(b) of this title to consider officers for continuation on the reserve active-status list under this section shall act in accordance with the instructions and directions provided to the board by the Secretary of the military department concerned."
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–398 substituted "A reserve officer" for "Upon application, a reserve officer".
 

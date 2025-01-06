@@ -26,7 +26,7 @@ Section 800 of Pub. L. 90–284, title VIII, as added by Pub. L. 100–430, §4,
 
 #### Separability
 
-Pub. L. 100–430, §14, Sept. 13, 1988, 102 Stat. 1636, provided that: "If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
+Pub. L. 100–430, §14, Sept. 13, 1988, 102 Stat. 1636, provided that: "If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the applicationthereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
 
 #### Disclaimer of Preemptive Effect on Other Acts
 

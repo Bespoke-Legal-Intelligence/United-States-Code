@@ -20,7 +20,7 @@ There shall be allowed as a deduction an amount equal to the cost of energy effi
 
 #### (2) Applicable dollar value
 
-&emsp;For purposes of paragraph (1)(A)(i), the applicable dollar value shall be an amount equal to $0.50 increased (but not above $1.00) by $0.02 for each percentage point by which the totalannual energy and power costs for the building are certified to be reduced by a percentage greater than 25 percent.
+&emsp;For purposes of paragraph (1)(A)(i), the applicable dollar value shall be an amount equal to $0.50 increased (but not above $1.00) by $0.02 for each percentage point by which the total annual energy and power costs for the building are certified to be reduced by a percentage greater than 25 percent.
 
 #### (3) Increased deduction amount for certain property
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Qualified individuals
 
-&emsp;&emsp;Individuals qualified to determine compliance shall be only those individuals who are recognized by an organization certified by the Secretary for such purposes.
+&emsp;&emsp;Individuals qualified to determine compliance shall be only those individuals who arerecognized by an organization certified by the Secretary for such purposes.
 
 #### (e) Basis reduction
 
@@ -320,7 +320,7 @@ Subsec. (h). Pub. L. 115–123 substituted "December 31, 2017" for "December 31,
 
 <b>2015</b>—Subsec. (c)(1)(B)(ii), (D). Pub. L. 114–113, §341(a), substituted "Standard 90.1–2007" for "Standard 90.1–2001".
 
-Subsec. (c)(2). Pub. L. 114–113, §341(b)(1), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'Standard 90.1–2001' means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003)."
+Subsec. (c)(2). Pub. L. 114–113, §341(b)(1), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'Standard 90.1–2001' means Standard90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003)."
 
 Subsec. (f)(1). Pub. L. 114–113, §341(b)(2), (3), substituted "Table 9.5.1" for "Table 9.3.1.1", "Table 9.6.1" for "Table 9.3.1.2", and "Standard 90.1–2007" for "Standard 90.1–2001".
 
@@ -372,7 +372,7 @@ Pub. L. 113–295, div. A, title I, §158(b), Dec. 19, 2014, 128 Stat. 4022, pro
 
 #### Effective Date
 
-Pub. L. 109–58, title XIII, §1331(d), Aug. 8, 2005, 119 Stat. 1024, provided that: "The amendments made bythis section \[enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title\] shall apply to property placed in service after December 31, 2005."
+Pub. L. 109–58, title XIII, §1331(d), Aug. 8, 2005, 119 Stat. 1024, provided that: "The amendments made by this section \[enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title\] shall apply to property placed in service after December 31, 2005."
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

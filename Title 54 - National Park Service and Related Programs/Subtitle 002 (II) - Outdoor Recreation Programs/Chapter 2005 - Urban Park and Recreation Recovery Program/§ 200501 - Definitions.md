@@ -62,7 +62,7 @@ Use.—A recovery action program grant shall be used for resource and needs asse
 
 &emsp;(7)
 
-Recreation area or facility.—The term "recreation area or facility" means an indoor or outdoor park, building, site, or other facility that is dedicated to recreation purposes and administered by a public or private nonprofit agency to serve the recreation needs of community residents. Emphasis shall be on public facilities readily accessible to residential neighborhoods, including multiple-use community centers that have recreation as one of their primary purposes, but excluding major sports arenas, exhibition areas, and conference halls used primarily for commercial sports, spectator, or display activities.
+Recreation area or facility.—The term "recreation area or facility" means an indoor or outdoor park, building, site, or other facility that is dedicated to recreation purposes and administered by a public or private nonprofit agency to serve the recreation needs of community residents. Emphasis shall be onpublic facilities readily accessible to residential neighborhoods, including multiple-use community centers that have recreation as one of their primary purposes, but excluding major sports arenas, exhibition areas, and conference halls used primarily for commercial sports, spectator, or display activities.
 
 &emsp;(8)
 

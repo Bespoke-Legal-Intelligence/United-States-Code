@@ -36,9 +36,9 @@
 
 &emsp;&emsp;There are authorized to be appropriated—
 
-&emsp;&emsp;&emsp;(i) $10,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (f); and
+&emsp;&emsp;&emsp;(i) $10,000,000 for each of fiscal years 2025 through 2029 to carry out subsection (f); and
 
-&emsp;&emsp;&emsp;(ii) $75,000,000 for each of fiscal years 2021 through 2028 to carry out subsection (g)(2).
+&emsp;&emsp;&emsp;(ii) $75,000,000 for each of fiscal years 2021 through 2029 to carry out subsection (g)(2).
 
 #### (B) Invasive plant species pilot program
 
@@ -76,13 +76,13 @@ In carrying out the program under this section, the Secretary is encouraged to u
 
 #### (C) Rapid response
 
-&emsp;&emsp;The Secretary shall assist States within the areas described in subparagraph (A) with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.
+&emsp;&emsp;The Secretary shall assist States within the areas described in subparagraph (A) withrapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.
 
 #### (2) Cost share
 
 &emsp;The non-Federal share of the cost of constructing, operating, and maintaining watercraft inspection and decontamination stations described in paragraph (1) (including personnel costs) shall be—
 
-&emsp;&emsp;(A) 50 percent; and
+&emsp;&emsp;(A) 35 percent; and
 
 &emsp;&emsp;(B) provided by the State or local governmental entity in which such inspection station is located.
 
@@ -114,7 +114,7 @@ In carrying out this section, the Secretary may—
 
 &emsp;(2) monitor for aquatic invasive species;
 
-&emsp;(3) assist States in early detection of aquatic invasive species, including quagga and zebra mussels; and
+&emsp;(3) assist States in early detection of, and monitoring and contingency planning for, aquatic invasive species, including quagga and zebra mussels; and
 
 &emsp;(4) monitor water quality, including sediment cores and fish tissue samples.
 
@@ -156,7 +156,7 @@ In carrying out this section, the Secretary may—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity, water quality, or ecosystems in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, the Lake Erie Basin, the Ohio River Basin, and the Upper Missouri River Basin.
+&emsp;&emsp;The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity, water quality, or ecosystems in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, the Lake Erie Basin, the Ohio River Basin, the Connecticut River Basin, and the Upper Missouri River Basin.
 
 #### (B) Prioritization
 
@@ -214,7 +214,7 @@ In carrying out this section, the Secretary may—
 
 &emsp;The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.
 
-(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, §1178(b), Dec. 16, 2016, 130 Stat. 1674; Pub. L. 115–270, title I, §1170, Oct. 23, 2018, 132 Stat. 3798; Pub. L. 116–260, div. AA, title V, §505, Dec. 27, 2020, 134 Stat. 2746; Pub. L. 117–263, div. H, title LXXXI, §8305(b), Dec. 23, 2022, 136 Stat. 3778.)
+(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, §1178(b), Dec. 16, 2016, 130 Stat. 1674; Pub. L. 115–270, title I, §1170, Oct. 23, 2018, 132 Stat. 3798; Pub. L. 116–260, div. AA, title V, §505, Dec. 27, 2020, 134 Stat. 2746; Pub. L. 117–263, div. H, title LXXXI, §8305(b), Dec. 23, 2022, 136 Stat. 3778; Pub. L. 118–272, div. A, title I, §1144, title III, §§1303(j), 1361, Jan. 4, 2025, 138 Stat. 3035, 3115, 3163.)
 
 #### <b>Editorial Notes</b>
 
@@ -223,6 +223,16 @@ In carrying out this section, the Secretary may—
 Executive Order 13112, referred to in subsecs. (f)(1) and (g)(1), is set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (b)(2)(A)(i). Pub. L. 118–272, §1303(j)(1), substituted "each of fiscal years 2025 through 2029" for "each of fiscal years 2021 through 2024".
+
+Subsec. (b)(2)(A)(ii). Pub. L. 118–272, §1303(j)(2), substituted "2029" for "2028".
+
+Subsec. (d)(2)(A). Pub. L. 118–272, §1361, substituted "35 percent" for "50 percent".
+
+Subsec. (e)(3). Pub. L. 118–272, §1144(1), inserted ", and monitoring and contingency planning for," after "early detection of".
+
+Subsec. (g)(2)(A). Pub. L. 118–272, §1144(2), inserted "the Connecticut River Basin," after "the Ohio River Basin,".
 
 <b>2022</b>—Subsec. (b)(2)(A)(ii). Pub. L. 117–263, §8305(b)(1), substituted "$75,000,000" for "$50,000,000" and "2028" for "2024".
 
@@ -258,7 +268,7 @@ Subsec. (d)(3)(A). Pub. L. 116–260, §505(2)(C), substituted "(v)" for "(iii)"
 
 Subsecs. (f), (g). Pub. L. 116–260, §505(3), added subsecs. (f) and (g).
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–270, §1170(1), amended subec. (b) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated such amounts, not in excess of $40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds."
+<b>2018</b>—Subsec. (b). Pub. L. 115–270, §1170(1), amended subec. (b) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated suchamounts, not in excess of $40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds."
 
 Subsec. (d)(1). Pub. L. 115–270, §1170(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "In carrying out this section, the Secretary may establish, operate, and maintain new or existing watercraft inspection stations to protect the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary in consultation with such States, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary. The Secretary shall also assist the States referred to in this paragraph with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation."
 
@@ -300,17 +310,17 @@ Subsec. (b). Pub. L. 89–298 designated part of existing provisions as subsec. 
 
 #### Harmful Algal Bloom Demonstration Program
 
-Pub. L. 116–260, div. AA, title I, §128, Dec. 27, 2020, 134 Stat. 2642, as amended by Pub. L. 117–263, div. H, titleLXXXI, §8305(c), Dec. 23, 2022, 136 Stat. 3778, provided that:
+Pub. L. 116–260, div. AA, title I, §128, Dec. 27, 2020, 134 Stat. 2642, as amended by Pub. L. 117–263, div. H, title LXXXI, §8305(c), Dec. 23, 2022, 136 Stat. 3778; Pub. L. 118–272, div. A, title I, §1134, Jan. 4, 2025, 138 Stat. 3024, provided that:
 
 "(a)
 
-In General.—The Secretary \[of the Army\] shall carry out a demonstration program to determine the causes of, and implement measures to effectively detect, prevent, treat, and eliminate, harmful algal blooms associated with water resources development projects.
+In General.—The Secretary \[of the Army\] shall carry out a demonstration program to determine the causes of, and implement measures to effectively detect, prevent, treat, and eliminate, harmful algal blooms associated with water resources development projects or affecting water bodies of regional, national, or international importance in the United States or its territories.
 
 "(b)
 
 Consultation; Use of Existing Data and Program Authorities.—In carrying out the demonstration program under subsection (a), the Secretary shall—
 
-&emsp;"(1) consult with the heads of appropriate Federal and State agencies; and
+&emsp;"(1) consult with the heads of appropriate Federal, State, and local agencies, institutions of higher education, and private organizations, including nonprofit organizations; and
 
 &emsp;"(2) make maximum use of existing Federal and State data and ongoing programs and activities of Federal and State agencies, including the activities of the Secretary carried out through the Engineer Research and Development Center pursuant to section 1109 of the Water Resources Development Act of 2018 \[Pub. L. 115–270\] (33 U.S.C. 610 note).
 
@@ -328,7 +338,7 @@ Focus Areas.—In carrying out the demonstration program under subsection (a), t
 
 &emsp;"(5) the Allegheny Reservoir Watershed, New York;
 
-&emsp;"(6) Lake Okeechobee, Florida;
+&emsp;"(6) Lake Okeechobee Watershed, Florida;
 
 &emsp;"(7) the Caloosahatchee and St. Lucie Rivers, Florida;
 
@@ -342,9 +352,13 @@ Focus Areas.—In carrying out the demonstration program under subsection (a), t
 
 &emsp;"(12) Detroit Lake, Oregon;
 
-&emsp;"(13) Ten Mile Lake, Oregon; and
+&emsp;"(13) Ten Mile Lake, Oregon;
 
-&emsp;"(14) the coastal waters of the United States Virgin Islands.
+&emsp;"(14) the coastal waters of the United States Virgin Islands;
+
+&emsp;"(15) Lake Elsinore, California; and
+
+&emsp;"(16) Willamette River, Oregon.
 
 "(d)
 
@@ -352,7 +366,25 @@ Additional Focus Areas.—In addition to the areas described in subsection (c), 
 
 "(e)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary $25,000,000 to carry out this section. Such sums shall remain available until expended."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary $35,000,000 to carry out this section. Such sums shall remain available until expended.
+
+"(f)
+
+Priority.—In carrying out the demonstration program under subsection (a), the Secretary shall, to the maximum extent possible, prioritize carrying out program activities that—
+
+&emsp;"(1) reduce nutrient pollution;
+
+&emsp;"(2) utilize natural and nature-based approaches, including oysters;
+
+&emsp;"(3) protect, enhance, or restore wetlands or flood plains, including river and streambank stabilization;
+
+&emsp;"(4) develop technologies for remote sensing, monitoring, or early detection of harmful algal blooms, or other emerging technologies; and
+
+&emsp;"(5) combine removal of harmful algal blooms with a beneficial use, including conversion of retrieved algae biomass into biofuel, fertilizer, or other products.
+
+"(g)
+
+Agreements.—In carrying out the demonstration program under subsection (a), the Secretary may enter into agreements with a non-Federal entity for the use or sale of successful technologies developed under this section."
 
 #### Update on Invasive Species Policy Guidance
 
@@ -394,7 +426,7 @@ Report to Congress.—Not later than 2 years after the date of enactment of this
 
 #### Asian Carp Prevention and Control Pilot Program
 
-Pub. L. 116–260, div. AA, title V, §509(a), Dec. 27, 2020, 134 Stat. 2750, as amended by Pub. L. 117–263, div. H, title LXXXI, §8391, Dec. 23, 2022, 136 Stat. 3832, provided that:
+Pub. L. 116–260, div. AA, title V, §509(a), Dec. 27, 2020, 134 Stat. 2750, as amended by Pub. L. 117–263, div. H, title LXXXI, §8391, Dec. 23, 2022, 136 Stat. 3832; Pub. L. 118–272, div. A, title III, §1303(f), Jan. 4, 2025, 138 Stat. 3114, provided that:
 
 "(a)
 
@@ -432,7 +464,7 @@ Number of projects.—The Secretary may select not more than 10 projects to carr
 
 &emsp;&emsp;&emsp;"(ii)
 
-Deadline.—Not later than September 30, 2024, the Secretary shall complete projects selected to be carried out under the pilot program.
+Deadline.—Not later than September 30, 2030, the Secretary shall complete projects selected to be carried out under the pilot program.
 
 &emsp;"(3)
 
@@ -448,7 +480,7 @@ In general.—The Federal share of the costs of a project carried out under the 
 
 &emsp;&emsp;"(B)
 
-Operation, maintenance, rehabilitation, and repair.—After the completion of a projectunder the pilot program, the Federal share of the costs for operation, maintenance, rehabilitation, and repair of the project shall be 100 percent.
+Operation, maintenance, rehabilitation, and repair.—After the completion of a project under the pilot program, the Federal share of the costs for operation, maintenance, rehabilitation, and repair of the project shall be 100 percent.
 
 &emsp;"(5)
 
@@ -460,7 +492,7 @@ Payments.—The Secretary is authorized to accept and expend funds from the Tenn
 
 &emsp;"(7)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[Dec. 27, 2020\], and 2 years thereafter, the Secretary shall submit to Congress a report describing the results of the pilot program, including an analysis of the effectiveness of the innovative technologies, methods, and measures used in projects carried out under the pilot program at preventing the spread, or managing the eradicating of, Asian carp.
+Report.—Not later than 2 years after the date of enactment of this Act \[Dec. 27, 2020\], and 2 years after the date of enactment of the Water Resources Development Act of 2024 \[Jan. 4, 2025\], the Secretary shall submit to Congress a report describing the results of the pilot program, including an analysis of the effectiveness of the innovative technologies, methods, and measures used in projects carried out under the pilot program at preventing the spread, or managing the eradicating of, Asian carp.
 
 &emsp;"(8)
 

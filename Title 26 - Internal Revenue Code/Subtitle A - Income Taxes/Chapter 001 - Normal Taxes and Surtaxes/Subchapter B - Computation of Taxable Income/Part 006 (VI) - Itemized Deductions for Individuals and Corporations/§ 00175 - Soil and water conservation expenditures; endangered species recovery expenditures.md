@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) any amount paid or incurred which is allowable as a deduction without regard to this section.
 
-> &emsp;Notwithstanding the preceding sentences, such term also includes any amount, not otherwise allowable as a deduction, paid or incurred to satisfy any part of an assessment levied by a soil or water conservation or drainage district to defray expenditures made by such district (i) which, if paid or incurred by the taxpayer, would without regard to this sentence constitute expenditures deductible under this section, or (ii) for property of a character subjectto the allowance for depreciation provided in section 167 and used in the soil or water conservation or drainage district's business as such (to the extent that the taxpayer's share of the assessment levied on the members of the district for such property does not exceed 10 percent of such assessment).
+> &emsp;Notwithstanding the preceding sentences, such term also includes any amount, not otherwise allowable as a deduction, paid or incurred to satisfy any part of an assessment levied by a soil or water conservation or drainage district to defray expenditures made by such district (i) which, if paid or incurred by the taxpayer, would without regard to this sentence constitute expenditures deductible under this section, or (ii) for property of a character subject to the allowance for depreciation provided in section 167 and used in the soil or water conservation or drainage district's business as such (to the extent that the taxpayer's share of the assessment levied on the members of the district for such property does not exceed 10 percent of such assessment).
 
 &emsp;(2) The term "land used in farming" means land used (before or simultaneously with the expenditures described in paragraph (1)) by the taxpayer or his tenant for the production of crops, fruits, or other agricultural products or for the sustenance of livestock.
 
@@ -56,7 +56,7 @@ The method adopted under this section shall apply to all expenditures described 
 
 #### (1) Amounts treated as paid or incurred over 9-year period
 
-&emsp;In the case of an assessment levied to defray expenditures for property described in clause (ii) of the last sentence of subsection (c)(1), if the amount of such assessment paid or incurred by the taxpayer during the taxable year (determined without the application of this paragraph) is in excess of an amount equal to 10 percent of the aggregate amounts which have been and will be assessed as the taxpayer's share of the expenditures by the district for such property, and if such excess is more than $500, the entire excess shall be treated as paid or incurred ratably over each of the 9 succeeding taxable years.
+&emsp;In the case of an assessment levied to defray expenditures for property described in clause (ii) of the last sentence of subsection (c)(1), if the amount of such assessment paid or incurred by the taxpayer during the taxable year (determined without the application of this paragraph) is in excess of an amount equal to 10 percent of the aggregate amounts whichhave been and will be assessed as the taxpayer's share of the expenditures by the district for such property, and if such excess is more than $500, the entire excess shall be treated as paid or incurred ratably over each of the 9 succeeding taxable years.
 
 #### (2) Disposition of land during 9-year period
 
@@ -90,7 +90,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a). Pub. L. 110–246, §15303(a)(2)(A), inserted ", or for endangered species recovery" after "erosion of land used in farming".
 
-Subsec. (c)(1). Pub. L. 110–246, §15303(a)(1), (2)(A), in introductory provisions, inserted ", or for endangeredspecies recovery" after "erosion of land used in farming" and "Such term shall include expenditures paid or incurred for the purpose of achieving site-specific management actions recommended in recovery plans approved pursuant to the Endangered Species Act of 1973." after first sentence.
+Subsec. (c)(1). Pub. L. 110–246, §15303(a)(1), (2)(A), in introductory provisions, inserted ", or for endangered species recovery" after "erosion of land used in farming" and "Such term shall include expenditures paid or incurred for the purpose of achieving site-specific management actions recommended in recovery plans approved pursuant to the Endangered Species Act of 1973." after first sentence.
 
 Subsec. (c)(3)(A). Pub. L. 110–246, §15303(b)(1), inserted "or endangered species recovery plan" after "conservation plan" in heading.
 

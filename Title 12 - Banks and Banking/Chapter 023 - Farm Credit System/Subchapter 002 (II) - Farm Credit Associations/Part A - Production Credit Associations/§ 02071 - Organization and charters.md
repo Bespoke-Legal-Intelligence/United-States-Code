@@ -100,7 +100,7 @@ Prerequisites to Merger.—
 
 &emsp;"(1)
 
-Stockholder vote.—The stockholder vote required for approval of a merger under subsection (a) shall be a majority of the voting stockholders of eachassociation voting, in person or by written proxy, at a duly authorized stockholders meeting.
+Stockholder vote.—The stockholder vote required for approval of a merger under subsection (a) shall be a majority of the voting stockholders of each association voting, in person or by written proxy, at a duly authorized stockholders meeting.
 
 &emsp;"(2)
 

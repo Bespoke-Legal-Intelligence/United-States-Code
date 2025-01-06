@@ -22,7 +22,7 @@ Upon approving any application under this subpart with respect to any project, t
 
 #### (d) Use of funds
 
-Funds made available pursuant to this subpart shall not be available for the construction, remodeling, or repair of structures to house the facilities or equipment acquired or developed with such funds, except that such funds may be used for minor remodeling which is necessary for and incidental to the installation of such facilities or equipment.
+Funds made available pursuant to this subpart shall not be available for the construction, remodeling, or repair of structures to house thefacilities or equipment acquired or developed with such funds, except that such funds may be used for minor remodeling which is necessary for and incidental to the installation of such facilities or equipment.
 
 #### (e) "Nonbroadcast telecommunications facilities" defined
 
@@ -38,7 +38,7 @@ The Secretary shall require that the recipient of a grant or contract under this
 
 #### (h) Recordkeeping requirements; accessibility
 
-(1) Each recipient of assistance under this subpart shall keep such records as may be reasonably necessary to enable the Secretary to carryout the Secretary's functions under this subpart, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of assistance under this subpart shall keep such records as may be reasonably necessary to enable the Secretary to carry out the Secretary's functions under this subpart, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purposes of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this subpart.
 

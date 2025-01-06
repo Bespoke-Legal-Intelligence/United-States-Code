@@ -60,7 +60,7 @@ For purposes of this part, the term "State Pharmaceutical Assistance Program" me
 
 #### (2) Use of a single card
 
-&emsp;A card that is issued under section 1395w–104(b)(2)(A) of this title for use under a part D plan may also be used in connection with coverage of benefits provided under a State Pharmaceutical Assistance Program and, in such case, may contain an emblem or symbol indicating such connection.
+&emsp;A card that is issued under section 1395w–104(b)(2)(A) of this title for use under a part D plan may also be used in connectionwith coverage of benefits provided under a State Pharmaceutical Assistance Program and, in such case, may contain an emblem or symbol indicating such connection.
 
 #### (3) Other provisions
 

@@ -68,7 +68,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 #### Development of Strategy on Risks to Nonproliferation Caused by Additive Manufacturing
 
-Pub. L. 114–92, div. C, title XXXI, §3139, Nov. 25, 2015, 129 Stat. 1215, as amended by Pub. L. 114–328, div. C, title XXXI, §3137(d), Dec. 23, 2016, 130 Stat. 2772, provided that:
+Pub. L. 114–92, div. C, title XXXI, §3139, Nov. 25, 2015, 129 Stat. 1215, as amended by Pub. L. 114–328, div. C,title XXXI, §3137(d), Dec. 23, 2016, 130 Stat. 2772, provided that:
 
 "(a)
 

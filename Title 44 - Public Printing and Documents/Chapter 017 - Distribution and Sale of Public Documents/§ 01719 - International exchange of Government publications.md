@@ -18,7 +18,7 @@ There were two conventions concluded at Brussels on Mar. 15, 1886, and proclaime
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-The 1986 amendment is based on section 306 of title III of H.R. 5203 (see House Report 99–805 as filed in theHouse on Aug. 15, 1986), and incorporated by reference in section 101(j) of Pub. L. 99–500 and 99–591, as amended by Pub. L. 100–71, to be effective as if enacted into law.
+The 1986 amendment is based on section 306 of title III of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), and incorporated by reference in section 101(j) of Pub. L. 99–500 and 99–591, as amended by Pub. L. 100–71, to be effective as if enacted into law.
 
 The 1982 amendment by Pub. L. 97–276 is based on section 305(b) of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.
 

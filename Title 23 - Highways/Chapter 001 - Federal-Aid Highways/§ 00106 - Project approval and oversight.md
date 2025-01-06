@@ -30,7 +30,7 @@ Provision of state funds.—The project agreement shall make provision for State
 
 &emsp;(2)
 
-Representations of state.—If a part of the project is to be constructed at the expense of, or in cooperation with, political subdivisions of the State, the Secretary may rely onrepresentations made by the State transportation department with respect to the arrangements or agreements made by the State transportation department and appropriate local officials for ensuring that the non-Federal contribution will be provided under paragraph (1).
+Representations of state.—If a part of the project is to be constructed at the expense of, or in cooperation with, political subdivisions of the State, the Secretary may rely on representations made by the State transportation department with respect to the arrangements or agreements made by the State transportation department and appropriate local officials for ensuring that the non-Federal contribution will be provided under paragraph (1).
 
 (c)
 
@@ -146,7 +146,7 @@ Life-Cycle Cost Analysis.—
 
 &emsp;(1)
 
-Use of life-cycle cost analysis.—The Secretary shall develop recommendations for the States to conduct life-cycle cost analyses. The recommendations shall be based on the principles contained in section 2 of Executive Order No. 12893 and shall be developed in consultation with the American Association of State Highway and Transportation Officials.The Secretary shall not require a State to conduct a life-cycle cost analysis for any project as a result of the recommendations required under this subsection.
+Use of life-cycle cost analysis.—The Secretary shall develop recommendations for the States to conduct life-cycle cost analyses. The recommendations shall be based on the principles contained in section 2 of ExecutiveOrder No. 12893 and shall be developed in consultation with the American Association of State Highway and Transportation Officials. The Secretary shall not require a State to conduct a life-cycle cost analysis for any project as a result of the recommendations required under this subsection.
 
 &emsp;(2)
 
@@ -268,7 +268,7 @@ Financial plan.—A financial plan—
 
 (i)
 
-Other Projects.—A recipient of Federal financial assistance for a project under this titlewith an estimated total cost of $100,000,000 or more that is not covered by subsection (h) shall prepare an annual financial plan. Annual financial plans prepared under this subsection shall be made available to the Secretary for review upon the request of the Secretary.
+Other Projects.—A recipient of Federal financial assistance for a project under this title with an estimated total cost of $100,000,000 or more that is not covered by subsection (h) shall prepare an annual financial plan. Annual financial plans prepared under this subsection shall be made available to the Secretary for review upon the request of the Secretary.
 
 (j)
 
@@ -366,7 +366,7 @@ Subsec. (h)(3). Pub. L. 112–141, §1503(a)(4)(B), added par. (3) and struck ou
 
 Subsec. (j). Pub. L. 112–141, §1503(a)(5), added subsec. (j).
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "For such projects asthe Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis."
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis."
 
 Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimated total cost of $25,000,000 or more and requirement that recipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
 

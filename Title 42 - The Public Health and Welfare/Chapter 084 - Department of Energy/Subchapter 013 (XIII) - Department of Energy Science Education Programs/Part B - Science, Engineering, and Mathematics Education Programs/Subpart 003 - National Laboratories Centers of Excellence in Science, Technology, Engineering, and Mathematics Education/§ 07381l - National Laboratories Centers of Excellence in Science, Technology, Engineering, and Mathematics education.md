@@ -38,7 +38,7 @@ The Secretary shall establish goals and performance assessments for each Center 
 
 #### (f) Assistance
 
-Consistent with sections 7381b and 7381c of this title, the Director shall make available necessary assistance for a program established under this section through the use of scientific and engineering staff of a National Laboratory, including the use of staff—
+Consistent with sections 7381b and 7381c of this title, the Director shall make available necessary assistance for a program establishedunder this section through the use of scientific and engineering staff of a National Laboratory, including the use of staff—
 
 &emsp;(1) to assist teachers in teaching a course at a Center of Excellence in Science, Technology, Engineering, and Mathematics; and
 

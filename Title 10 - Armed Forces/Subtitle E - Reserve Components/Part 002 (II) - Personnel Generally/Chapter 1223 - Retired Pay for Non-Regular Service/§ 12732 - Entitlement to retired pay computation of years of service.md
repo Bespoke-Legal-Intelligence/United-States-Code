@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) A federally recognized status in the National Guard before June 15, 1933.
 
-&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the Army National Guard of the United States, or the Air National Guard of the United States.
+&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the NationalGuard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the Army National Guard of the United States, or the Air National Guard of the United States.
 
 &emsp;&emsp;(E) The Navy Reserve Force.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(iii) In this subparagraph, the term "covered emergency period" means the period beginning on March 1, 2020, and ending on the day that is 60 days after the date on which the travel or duty restriction applicable to the person concerned is lifted.
 
-&emsp;&emsp;(G) Points at the rate of 12 per period during which the member is on maternity leave.
+&emsp;&emsp;(G) Points at the rate of 1 per inactive-duty training period, under section 206 of title 37, during which the member is on parental leave under section 711 of this title.
 
 > &emsp;For the purpose of clauses (A), (B), (C), (D), (E), (F), and (G), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
@@ -78,7 +78,7 @@
 
 &emsp;(5) Service in the Fleet Reserve or the Fleet Marine Corps Reserve.
 
-&emsp;(6) Service as an inactive Reserve nurse of the Army Nurse Corps established by the Act of February 2, 1901 (ch. 192, 31 Stat. 753), as amended, and service before July 1, 1938, as an inactive Reserve nurse of the Navy Nurse Corps established by the Act of May 13, 1908 (ch. 166, 35 Stat. 146).
+&emsp;(6) Service as an inactive Reserve nurse of the Army Nurse Corps established by the Act of February 2, 1901 (ch. 192, 31 Stat. 753), as amended, and service before July 1, 1938, as aninactive Reserve nurse of the Navy Nurse Corps established by the Act of May 13, 1908 (ch. 166, 35 Stat. 146).
 
 &emsp;(7) Service in any status other than that as commissioned officer, warrant officer, nurse, flight officer, aviation midshipman, appointed aviation cadet, or enlisted member, and that described in clauses (I) and (J) of subsection (a)(1).
 
@@ -180,10 +180,6 @@ Subsection (b)(6) is inserted for clarity since 10:1036a and 34:440i were limite
 
 The word "full-time" is inserted for clarity. The other change reflects the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956) that duty performed under section 92 of the National Defense Act, the source statute for section 502 of title 32, was creditable in determining entitlement to retired pay under section 302 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1087), the source statute for section 1332 of title 10.
 
-#### Amendment of Subsection (a)(2)(G)
-
-<i>Pub. L. 118–31, div. A, title VI, §601(c), (e), Dec. 22, 2023, 137 Stat. 289, provided that, effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, subsection (a)(2)(G) of this section is amended by striking "12 per period" and all that follows through the end of the sentence and inserting "1 per inactive-duty training period, under section 206 of title 37, during which the member is on parental leave under section 711 of this title." See 2023 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -194,7 +190,7 @@ Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesign
 
 #### Amendments
 
-<b>2023</b>—Subsec. (a)(2)(G). Pub. L. 118–31 substituted "1 per inactive-duty training period, under section 206 of title 37, during which the member is on parental leave under section 711 of this title." for "12 per period during which the member is on maternity leave."
+<b>2023</b>—Subsec. (a)(2)(G). Pub. L. 118–31 substituted "1 per inactive-duty training period, under section 206 oftitle 37, during which the member is on parental leave under section 711 of this title." for "12 per period during which the member is on maternity leave."
 
 <b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §602(b)(4)(B), substituted "(F), and (G)" for "and (F)" in concluding provisions.
 
@@ -262,23 +258,15 @@ Pub. L. 116–283, div. A, title VI, §602(b)(1)–(3), Jan. 1, 2021, 134 Stat. 
 
 "(1)
 
-In general.—The period of maternity leave taken by a member of the reserve components of the Armed Forces in connection with the birth of a child shall count toward the member's entitlement to retired pay, and in connection with the years of service used in computing retired pay, under chapter 1223 of title 10, United States Code, as 12 points.
+In general.—The period of parental leave described in section 12732(a)(2)(G) of title 10, United States Code, taken by a member of the reserve components of the Armed Forces shall count toward the member's entitlement to retired pay, and in connection with the years of service used in computing retired pay, under chapter 1223 of title 10, United States Code, as 12 points.
 
 "(2)
 
-Separate credit for each period of leave.—Separate crediting of points shall accrue to a member pursuant to this subsection for each period of maternity leave taken by the member in connection with a childbirth event.
+Separate credit for each period of leave.—Separate crediting of points shall accrue to a member pursuant to this subsection for each period of parental leave taken by the member.
 
 "(3)
 
-When credited.—Points credited a member for a period of maternity leave pursuant to this subsection shall be credited in the year in which the period of maternity leave concerned commences."
-
-<i>\[Pub. L. 118–31, div. A, title VI, §601(d), (e), Dec. 22, 2023, 137 Stat. 289, provided that, effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, section 602(b) of Pub. L. 116–283, set out above, is amended:</i>
-
-<i>\[(1) in paragraph (1), by striking "maternity leave" and all that follows through "birth of a child" and inserting "parental leave described in section 12732(a)(2)(G) of title 10, United States Code, taken by a member of the reserve components of the Armed Forces";</i>
-
-<i>\[(2) in paragraph (2), by striking "maternity leave" and all that follows through "childbirth event" and inserting "parental leave taken by the member"; and</i>
-
-<i>\[(3) in paragraph (3), by striking "maternity leave" each place it appears and inserting "parental leave".\]</i>
+When credited.—Points credited a member for a period of parental leave pursuant to this subsection shall be credited in the year in which the period of parental leave concerned commences."
 
 #### Tracking System and Recommendations to Congress Relating to Award of Retirement Points
 
@@ -290,7 +278,7 @@ Tracking System for Award of Retirement Points.—To better enable the Secretary
 
 "(c)
 
-Recommendations to Congress.—The Secretary shall submit to Congress, not later than one year after the date of the enactment of this Act \[Sept. 23, 1996\], the recommendations of the Secretary with regard to the adoption of the following Reserve retirement initiatives recommended in the August 1988 report of the Sixth Quadrennial Review of Military Compensation:
+Recommendations to Congress.—The Secretary shall submit to Congress, not later than one year afterthe date of the enactment of this Act \[Sept. 23, 1996\], the recommendations of the Secretary with regard to the adoption of the following Reserve retirement initiatives recommended in the August 1988 report of the Sixth Quadrennial Review of Military Compensation:
 
 &emsp;"(1) Elimination of membership points under subparagraph (C) of section 12732(a)(2) of title 10, United States Code, in conjunction with a decrease from 50 to 35 in the number of points required for a satisfactory year under that section.
 

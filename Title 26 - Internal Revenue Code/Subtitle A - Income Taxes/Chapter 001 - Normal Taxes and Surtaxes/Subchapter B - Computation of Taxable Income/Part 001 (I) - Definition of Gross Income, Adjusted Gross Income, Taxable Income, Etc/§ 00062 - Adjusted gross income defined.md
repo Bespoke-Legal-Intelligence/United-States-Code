@@ -12,7 +12,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (A) Reimbursed expenses of employees
 
-&emsp;&emsp;The deductions allowed by part VI (section 161 and following) which consist of expensespaid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
+&emsp;&emsp;The deductions allowed by part VI (section 161 and following) which consist of expenses paid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
 
 #### (B) Certain expenses of performing artists
 
@@ -32,7 +32,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
-&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at a rate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
+&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at arate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
 
 #### (3) Losses from sale or exchange of property
 
@@ -116,7 +116,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (B) May not exceed award
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
+&emsp;&emsp;Subparagraph (A) shall not apply to any deduction in excess of the amount includiblein the taxpayer's gross income for the taxable year on account of such award.
 
 > Nothing in this section shall permit the same item to be deducted more than once. Any deduction allowed by section 199A shall not be treated as a deduction described in any of the preceding paragraphs of this subsection.
 
@@ -238,7 +238,7 @@ For purposes of subsection (a)(20), the term "unlawful discrimination" means an 
 
 &emsp;&emsp;(ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20,2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §201(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §101(a), title II, §221(a)(34)(C), Dec. 19, 2014, 128 Stat. 4012, 4042; Pub. L. 114–113, div. Q, title I, §104(a)–(c), Dec. 18, 2015, 129 Stat. 3045; Pub. L. 115–97, title I, §§11002(d)(1)(J), 11011(b)(1), 11051(b)(2)(A), Dec. 22, 2017, 131 Stat. 2060, 2070, 2089; Pub. L. 115–123, div. D, title II, §41107(a), Feb. 9, 2018, 132 Stat. 158; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(31), (32), Mar. 23, 2018, 132 Stat. 1155, 1185, 1186; Pub. L. 116–92, div. A, title XI, §1122(d)(2)(B), Dec. 20, 2019, 133 Stat. 1609; Pub. L. 116–136, div. A, title II, §2204(a), (b), Mar. 27, 2020, 134 Stat. 345; Pub. L. 116–260, div. EE, title I, §104(b)(2)(A), title II, §212(c), Dec. 27, 2020, 134 Stat. 3041, 3068.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §201(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §101(a), title II, §221(a)(34)(C), Dec. 19, 2014, 128 Stat. 4012, 4042; Pub. L. 114–113, div. Q, title I, §104(a)–(c), Dec. 18, 2015, 129 Stat. 3045; Pub. L. 115–97, title I, §§11002(d)(1)(J), 11011(b)(1), 11051(b)(2)(A), Dec. 22, 2017, 131 Stat. 2060, 2070, 2089; Pub. L. 115–123, div. D, title II, §41107(a), Feb. 9, 2018, 132 Stat. 158; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(31), (32), Mar. 23, 2018, 132 Stat. 1155, 1185, 1186; Pub. L. 116–92, div. A, title XI, §1122(d)(2)(B), Dec. 20, 2019, 133 Stat. 1609; Pub. L. 116–136, div. A, title II, §2204(a), (b), Mar. 27, 2020, 134 Stat. 345; Pub. L. 116–260, div. EE, title I, §104(b)(2)(A), title II, §212(c), Dec. 27, 2020, 134 Stat. 3041, 3068.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -254,7 +254,7 @@ The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy TakemotoMink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
@@ -438,7 +438,7 @@ Pub. L. 115–123, div. D, title II, §41107(b), Feb. 9, 2018, 132 Stat. 158, pr
 
 Amendment by section 11002(d)(1)(J) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Pub. L. 115–97, title I, §11011(e), Dec. 22, 2017, 131 Stat. 2071, provided that: "The amendments made by this section \[enacting section 199A of this title and amending this section and sections 63, 170, 172, 246, 613, 613A,3402, and 6662 of this title\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §11011(e), Dec. 22, 2017, 131 Stat. 2071, provided that: "The amendments made by this section \[enacting section 199A of this title and amending this section and sections 63, 170, 172, 246, 613, 613A, 3402, and 6662 of this title\] shall apply to taxable years beginning after December 31, 2017."
 
 Amendment by section 11051(b)(2)(A) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
@@ -486,7 +486,7 @@ Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided t
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003."
+Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as section 224\] shall apply to taxable years beginning after December 31, 2003."
 
 Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: "The amendments made by this section \[amending this section and section 162 of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002."
 
@@ -496,11 +496,11 @@ Pub. L. 107–147, title IV, §406(c), Mar. 9, 2002, 116 Stat. 44, provided that
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: "The amendments made by this section \[enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as 223\] shall apply to payments made in taxable years beginning after December 31, 2001."
+Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: "The amendments made by this section \[enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as section 223\] shall apply to payments made in taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title II, §202(e), Aug. 5, 1997, 111 Stat. 809, provided that: "The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
+Pub. L. 105–34, title II, §202(e), Aug. 5, 1997, 111 Stat. 809, provided that: "The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
 
 &emsp;"(1) any loan interest payment due and paid after December 31, 1997, and
 
@@ -510,7 +510,7 @@ Pub. L. 105–34, title IX, §975(b), Aug. 5, 1997, 111 Stat. 898, provided that
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–191, title III, §301(j), Aug. 21, 1996, 110 Stat. 2052, provided that: "The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996."
+Pub. L. 104–191, title III, §301(j), Aug. 21, 1996, 110 Stat. 2052, provided that: "The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996."
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
@@ -528,7 +528,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 1001(b)(3)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6007(d), Nov. 10, 1988, 102 Stat. 3687, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section, and renumbering former section 220 of this title as section 221 of this title\] shall apply as if included in the amendments made by section 132 of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
+Pub. L. 100–647, title VI, §6007(d), Nov. 10, 1988, 102 Stat. 3687, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section, and renumbering former section 220 of this title as section 221\] shall apply as if included in the amendments made by section 132 of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
 
 Pub. L. 100–485, title VII, §702(b), Oct. 13, 1988, 102 Stat. 2426, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988."
 
@@ -568,7 +568,7 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 94–455, title V, §502(c), Oct. 4, 1976, 90 Stat. 1559, provided that: "The amendments made by this section \[amending this section and section 3402 of this title\] shall apply to taxable years beginning after December 31, 1976."
 
-Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976."
+Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 of this title as section 221\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976."
 
 Amendment by section 1901(a)(8), (9) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -586,7 +586,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years of electi
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–272, title II, §213(d), Feb. 26, 1964, 78 Stat. 52, provided that: "The amendments made by subsections (a) \[enacting section 217 and redesignating former section 217 as 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\]."
+Pub. L. 88–272, title II, §213(d), Feb. 26, 1964, 78 Stat. 52, provided that: "The amendments made by subsections (a) \[enacting section 217 of this title and renumbering former section 217 of this title as section 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\]."
 
 #### Effective Date of 1962 Amendment
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Regulations or Guidance Clarifying Application of Educator Expense Tax Deduction
 
-Pub. L. 116–260, div. N, title II, §275, Dec. 27, 2020, 134 Stat. 1978, provided that: "Not later than February 28,2021, the Secretary of the Treasury (or the Secretary's delegate) shall by regulation or other guidance clarify that personal protective equipment, disinfectant, and other supplies used for the prevention of the spread of COVID–19 are treated as described in section 62(a)(2)(D)(ii) of the Internal Revenue Code of 1986. Such regulations or other guidance shall apply to expenses paid or incurred after March 12, 2020."
+Pub. L. 116–260, div. N, title II, §275, Dec. 27, 2020, 134 Stat. 1978, provided that: "Not later than February 28, 2021, the Secretary of the Treasury (or the Secretary's delegate) shall by regulation or other guidance clarify that personal protective equipment, disinfectant, and other supplies used for the prevention of the spread of COVID–19 are treated as described in section 62(a)(2)(D)(ii) of the Internal Revenue Code of 1986. Such regulations or other guidance shall apply to expenses paid or incurred after March 12, 2020."
 
 #### Savings Provision
 
@@ -614,7 +614,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Commuting Expenses
 
-Pub. L. 95–427, §2, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–167, §2, Dec. 29, 1979, 93 Stat. 1275, provided that with respect to transportation costs paid or incurred after December 31, 1976, and on or before May 31, 1981, the application of sections 62, 162, and 262 and of chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling, or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling.
+Pub. L. 95–427, §2, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–167, §2, Dec. 29, 1979, 93 Stat. 1275, provided that with respect to transportation costs paid or incurred after December 31, 1976, and on or before May 31, 1981, the application of sections 62, 162, and 262 andof chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling, or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling.
 
 Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
 

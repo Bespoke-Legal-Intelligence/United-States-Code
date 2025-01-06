@@ -34,6 +34,8 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) Electricity.
 
+&emsp;&emsp;&emsp;(iv) Any transportation fuel (as defined in section 45Z(d)(5)).
+
 #### (2) Bidirectional charging equipment
 
 &emsp;Property shall not fail to be treated as qualified alternative fuel vehicle refueling property solely because such property—
@@ -174,14 +176,6 @@ This section shall not apply to any property placed in service after December 31
 
 (Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §161(a), title II, §§218(b), 221(a)(34)(B), Dec. 19, 2014, 128 Stat. 4023, 4035, 4042; Pub. L. 114–113, div. Q, title I, §182(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40404(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(b)(3), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–94, div. Q, title I, §125(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §143(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §§13404(a)–(e), 13704(b)(2), Aug. 16, 2022, 136 Stat. 1966–1968, 2002.)
 
-#### Amendment of Subsection (c)(1)(B)
-
-<i>Pub. L. 117–169, title I, §13704(b)(2), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (c)(1)(B) of this section is amended by adding at the end the following new clause (iv):</i>
-
-&emsp;&emsp;&emsp;<i>(iv) Any transportation fuel (as defined in section 45Z(d)(5)).</i>
-
-<i>See 2022 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -230,7 +224,7 @@ Subsec. (g). Pub. L. 113–295, §161(a), substituted "placed in service after D
 
 &emsp;"(2) in the case of any other property, after December 31, 2013."
 
-<b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011.".
+<b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011."
 
 <b>2010</b>—Subsec. (g)(2). Pub. L. 111–312 substituted "December 31, 2011." for "December 31, 2010".
 
@@ -298,7 +292,7 @@ Pub. L. 114–113, div. Q, title I, §182(b), Dec. 18, 2015, 129 Stat. 3072, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendment made bythis section \[amending this section\] shall apply to property placed in service after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013."
 
 Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under section 30B of this title.
 

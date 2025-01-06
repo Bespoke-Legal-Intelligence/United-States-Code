@@ -18,7 +18,7 @@ Section enacted as part of the International Development and Food Assistance Act
 
 #### Amendments
 
-<b>1981</b>—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee onForeign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiations with foreign governments regarding any debts owing to the United States.
+<b>1981</b>—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiations with foreign governments regarding any debts owing to the United States.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -64,7 +64,7 @@ Eligible Countries.—A country that is performing satisfactorily under an econo
 
 &emsp;"(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or
 
-&emsp;"(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
+&emsp;"(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues ofthe country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
 
 "(e)
 

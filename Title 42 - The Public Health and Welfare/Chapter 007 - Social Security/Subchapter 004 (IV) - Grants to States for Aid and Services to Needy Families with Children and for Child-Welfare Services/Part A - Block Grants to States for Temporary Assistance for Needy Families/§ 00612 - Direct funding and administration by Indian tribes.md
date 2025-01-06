@@ -98,7 +98,7 @@
 
 #### (3) Consortium of tribes
 
-&emsp;Nothing in this section shall preclude the development and submission of a single tribal family assistance plan by the participating Indian tribes of an intertribal consortium.
+&emsp;Nothing in this section shall preclude the development and submission of a single tribalfamily assistance plan by the participating Indian tribes of an intertribal consortium.
 
 #### (c) Minimum work participation requirements and time limits
 
@@ -140,7 +140,7 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programsshall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
+&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
 
 #### (2) Waiver
 

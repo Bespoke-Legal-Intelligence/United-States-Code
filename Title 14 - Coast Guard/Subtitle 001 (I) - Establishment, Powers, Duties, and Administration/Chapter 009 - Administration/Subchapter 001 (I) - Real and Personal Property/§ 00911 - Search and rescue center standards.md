@@ -36,7 +36,7 @@ Definition.—For the purposes of this section, the term "search and rescue cent
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 676 of this title as this section.
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–207 struck out subsec. (d). Text read as follows: "The Secretary shall provide a quarterly written report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, describing the status of implementation of the standards described in subsection (b), including a list of the facilities at which such standards have or have not been implemented."
+<b>2010</b>—Subsec. (d). Pub. L. 111–207 struck out subsec. (d). Text read as follows: "The Secretary shall provide a quarterly written report to the Senate Committee on Commerce, Science, and Transportation and the Houseof Representatives Committee on Transportation and Infrastructure, describing the status of implementation of the standards described in subsection (b), including a list of the facilities at which such standards have or have not been implemented."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

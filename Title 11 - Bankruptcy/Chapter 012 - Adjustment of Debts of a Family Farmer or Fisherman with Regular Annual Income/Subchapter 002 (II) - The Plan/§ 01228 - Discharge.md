@@ -1,6 +1,6 @@
 ### §1228. Discharge
 
-(a) Subject to subsection (d), as soon as practicable after completion by the debtor of all payments under the plan, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan, allowed under section 503 of this title, or disallowed under section 502 of this title, except any debt—
+(a) Subject to subsection (d), as soon as practicable after completion by the debtor of all payments under the plan, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid,other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan, allowed under section 503 of this title, or disallowed under section 502 of this title, except any debt—
 
 &emsp;(1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
@@ -52,7 +52,7 @@ Subsec. (c)(2). Pub. L. 115–72, §1005(b)(1)(B)(ii), inserted ", except as pr
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §330(c)(1), substituted "Subject to subsection (d), as" for "As" in introductory provisions.
 
-Pub. L. 109–8, §213(6), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only tothe extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
+Pub. L. 109–8, §213(6), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
 
 Subsec. (b). Pub. L. 109–8, §330(c)(2), substituted "Subject to subsection (d), at" for "At" in introductory provisions.
 
@@ -72,5 +72,5 @@ Amendments by sections 213(6) and 330(c) of Pub. L. 109–8 effective 180 days a
 
 #### Effective Dates
 
-Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as aRepeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 

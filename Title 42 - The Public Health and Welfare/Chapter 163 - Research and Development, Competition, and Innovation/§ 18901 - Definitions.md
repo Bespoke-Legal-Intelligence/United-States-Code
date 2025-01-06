@@ -126,7 +126,7 @@ In this division:
 
 #### (29) Technical standard
 
-&emsp;The term "technical standard" has the meaning given such term in section 12(d)(5) ofthe National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note).
+&emsp;The term "technical standard" has the meaning given such term in section 12(d)(5) of the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note).
 
 #### (30) Tribal College or University
 

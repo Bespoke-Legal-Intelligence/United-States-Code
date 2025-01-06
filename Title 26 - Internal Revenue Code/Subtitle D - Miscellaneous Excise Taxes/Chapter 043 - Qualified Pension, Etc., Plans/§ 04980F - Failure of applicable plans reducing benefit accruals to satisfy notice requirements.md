@@ -108,7 +108,7 @@ For purposes of this section—
 
 The Secretary may by regulations allow any notice under subsection (e) to be provided by using new technologies.
 
-(Added Pub. L. 107–16, title VI, §659(a)(1), June 7, 2001, 115 Stat. 137; amended Pub. L. 107–147, title IV, §411(u)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L.109–280, title V, §502(c)(2), Aug. 17, 2006, 120 Stat. 941.)
+(Added Pub. L. 107–16, title VI, §659(a)(1), June 7, 2001, 115 Stat. 137; amended Pub. L. 107–147, title IV, §411(u)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title V, §502(c)(2), Aug. 17, 2006, 120 Stat. 941.)
 
 #### <b>Editorial Notes</b>
 

@@ -36,7 +36,7 @@ Peer Review Panel.—(1) The Under Secretary for Health shall establish a peer r
 
 (d)
 
-Epilepsy Center of Excellence Defined.—In this section, the term "epilepsy center of excellence" means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis andtreatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
+Epilepsy Center of Excellence Defined.—In this section, the term "epilepsy center of excellence" means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis and treatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
 
 &emsp;(1) An affiliation with an accredited medical school that provides education and training in neurology, including an arrangement with such school under which medical residents receive education and training in the diagnosis and treatment of epilepsy (including neurosurgery).
 

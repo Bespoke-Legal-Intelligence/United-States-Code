@@ -56,7 +56,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 #### (1) In general
 
-&emsp;If the Administrator determines that other rechargeable batteries having electrode chemistries different from regulated batteries are toxic and may cause substantial harm to human health and the environment if discarded into the solid waste stream for land disposal or incineration, the Administrator may, with the advice and counsel of State regulatory authorities and manufacturers of rechargeable batteries and rechargeable consumer products, and after public comment—
+&emsp;If the Administrator determines that other rechargeable batteries having electrode chemistries different from regulated batteries aretoxic and may cause substantial harm to human health and the environment if discarded into the solid waste stream for land disposal or incineration, the Administrator may, with the advice and counsel of State regulatory authorities and manufacturers of rechargeable batteries and rechargeable consumer products, and after public comment—
 
 &emsp;&emsp;(A) promulgate labeling requirements for the batteries with different electrode chemistries, rechargeable consumer products containing such batteries that are not easily removable batteries, and packaging for the batteries and products; and
 

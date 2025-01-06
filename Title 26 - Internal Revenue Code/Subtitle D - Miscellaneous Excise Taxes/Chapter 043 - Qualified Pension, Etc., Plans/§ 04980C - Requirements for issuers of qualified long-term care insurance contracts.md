@@ -68,7 +68,7 @@ The requirements of this subsection are as follows:
 
 #### (3) Information on denials of claims
 
-&emsp;If a claim under a qualified long-term care insurance contract is denied, the issuer shall, within 60 days of the date of a written request by the policyholder or certificateholder (or representative)—
+&emsp;If a claim under a qualified long-term care insurance contract is denied, the issuer shall, within 60 days of the date of a written requestby the policyholder or certificateholder (or representative)—
 
 &emsp;&emsp;(A) provide a written explanation of the reasons for the denial, and
 

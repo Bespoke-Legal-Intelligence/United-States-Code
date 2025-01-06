@@ -2,7 +2,7 @@
 
 #### (a) Authorization of program
 
-The Secretary shall award grants to poison control centers accredited under subsection (c)\(or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and toxic exposures and complying with the operational requirements needed to sustain the accreditation of the center under subsection (c).
+The Secretary shall award grants to poison control centers accredited under subsection (c) (or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and toxic exposures and complying with the operational requirements needed to sustain the accreditation of the center under subsection (c).
 
 #### (b) Additional uses of funds
 
@@ -62,11 +62,11 @@ With respect to activities for which a grant is awarded under this section, the 
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2020 through 2024. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
+There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2025 through 2029. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
 
 #### (h) Biennial report to Congress
 
-Not later than 2 years after December 20, 2019, and every 2 years thereafter, the Secretary shallsubmit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
+Not later than 2 years after December 20, 2019, and every 2 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
 
 &emsp;(1) descriptions of the activities carried out pursuant to sections 300d–71, 300d–72, and 300d–73 of this title, and the alignment of such activities with the purposes provided under subsection (a);
 
@@ -82,11 +82,13 @@ Not later than 2 years after December 20, 2019, and every 2 years thereafter, th
 
 &emsp;(7) the number of and reason for any waivers provided under subsection (d).
 
-(July 1, 1944, ch. 373, title XII, §1273, as added Pub. L. 108–194, §3, Dec. 19, 2003, 117 Stat. 2889; amended Pub. L. 110–377, §5(a), Oct. 8, 2008, 122 Stat. 4065; Pub. L. 113–77, §4(a), Jan. 24, 2014, 128 Stat. 644; Pub. L. 116–94, div. N, title I, §403(c), Dec. 20, 2019, 133 Stat. 3115.)
+(July 1, 1944, ch. 373, title XII, §1273, as added Pub. L. 108–194, §3, Dec. 19, 2003, 117 Stat. 2889; amended Pub. L. 110–377, §5(a), Oct. 8, 2008, 122 Stat. 4065; Pub. L. 113–77, §4(a), Jan. 24, 2014, 128 Stat. 644; Pub. L. 116–94, div. N, title I, §403(c), Dec. 20, 2019, 133 Stat. 3115; Pub. L. 118–86, §2(c), Sept. 26, 2024, 138 Stat. 1549.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (g). Pub. L. 118–86 substituted "fiscal years 2025 through 2029" for "fiscal years 2020 through 2024".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–94, §403(c)(1), inserted "and toxic exposures" after "poisonings".
 
@@ -96,7 +98,7 @@ Subsec. (b)(3). Pub. L. 116–94, §403(c)(2)(B), substituted "United States," f
 
 Subsec. (b)(8). Pub. L. 116–94, §403(c)(2)(C), substituted "contacts" for "calls".
 
-Subsec. (d)(3). Pub. L. 116–94, §403(c)(3), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "In no case may the sum of the number of years for a waiver under paragraph (1) and a renewal under paragraph (2) exceed—
+Subsec. (d)(3). Pub. L. 116–94, §403(c)(3), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "In no case may the sum of thenumber of years for a waiver under paragraph (1) and a renewal under paragraph (2) exceed—
 
 &emsp;"(A) 5 years; or
 

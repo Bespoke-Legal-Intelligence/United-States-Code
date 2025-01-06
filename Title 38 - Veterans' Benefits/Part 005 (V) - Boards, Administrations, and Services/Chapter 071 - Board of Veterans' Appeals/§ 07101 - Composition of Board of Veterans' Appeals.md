@@ -34,7 +34,7 @@
 
 &emsp;(E) the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year;
 
-&emsp;(F) the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year; and
+&emsp;(F) the number of employees of the Department designated under subsection (c)(1) toserve as acting members of the Board during that year and the number of cases in which each such member participated during that year; and
 
 &emsp;(G) with respect to hearings scheduled under section 7107(c)(2)(C) of this title—
 
@@ -68,7 +68,7 @@
 
 Subsec. (b). Pub. L. 103–446, §201(d)(1), (2), designated as par. (2) the text in par. (1) beginning "The Chairman may be removed" and struck out former par. (2) which read as follows:
 
-"(2)(A) The other members of the Board (including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based uponrecommendations of the Chairman. Each such member shall be appointed for a term of nine years.
+"(2)(A) The other members of the Board (including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based upon recommendations of the Chairman. Each such member shall be appointed for a term of nine years.
 
 "(B) A member of the Board (other than the Chairman) may be removed by the Secretary upon the recommendation of the Chairman. In the case of a removal that would be covered by section 7521 of title 5 in the case of an administrative law judge, a removal of a member of the Board under this paragraph shall be carried out subject to the same requirements as apply to removal of an administrative law judge under that section. Section 554(a)(2) of title 5 shall not apply to a removal action under this subparagraph. In such a removal action, a member shall have the rights set out in section 7513(b) of such title."
 
@@ -146,7 +146,7 @@ Pub. L. 116–137, §2(c)(2), Apr. 10, 2020, 134 Stat. 617, provided that: "The 
 
 &emsp;"(B) A description of any modifications to the information technology systems of the Veterans Benefits Administration and the Board of Veterans' Appeals required to carry out hearings under such subparagraph, including cost estimates and a timeline for making such modifications.
 
-&emsp;"(C) A detailed description of the intra-agency partnership between the Board of Veterans' Appeals and the telehealth program of the Veterans Health Administration as the Board conducts hearings under such subparagraph, including best practices, a risk assessment overview, risk mitigation efforts, and aplan for ongoing collaboration and information sharing."
+&emsp;"(C) A detailed description of the intra-agency partnership between the Board of Veterans' Appeals and the telehealth program of the Veterans Health Administration as the Board conducts hearings under such subparagraph, including best practices, a risk assessment overview, risk mitigation efforts, and a plan for ongoing collaboration and information sharing."
 
 #### Board of Veterans' Appeals
 

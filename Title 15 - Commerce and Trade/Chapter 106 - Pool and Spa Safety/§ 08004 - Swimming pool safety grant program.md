@@ -46,7 +46,7 @@ A State or an Indian Tribe receiving a grant under this section shall use—
 
 There are authorized to be appropriated to the Commission for fiscal year 2023 $2,500,000 to carry out this section.
 
-(Pub. L. 110–140, title XIV, §1405, Dec. 19, 2007, 121 Stat. 1796; Pub. L. 112–10, div. B, title V,§1576(b), Apr. 15, 2011, 125 Stat. 139; Pub. L. 112–74, div. C, title V, §502, Dec. 23, 2011, 125 Stat. 908; Pub. L. 113–76, div. E, title V, §501(1), Jan. 17, 2014, 128 Stat. 208; Pub. L. 117–328, div. BB, title IV, §402(a), Dec. 29, 2022, 136 Stat. 5562.)
+(Pub. L. 110–140, title XIV, §1405, Dec. 19, 2007, 121 Stat. 1796; Pub. L. 112–10, div. B, title V, §1576(b), Apr. 15, 2011, 125 Stat. 139; Pub. L. 112–74, div. C, title V, §502, Dec. 23, 2011, 125 Stat. 908; Pub. L. 113–76, div. E, title V, §501(1), Jan. 17, 2014, 128 Stat. 208; Pub. L. 117–328, div. BB, title IV, §402(a), Dec. 29, 2022, 136 Stat. 5562.)
 
 #### <b>Editorial Notes</b>
 

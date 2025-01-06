@@ -32,7 +32,7 @@ In this section, the term "program" means the Snow Water Supply Forecasting Prog
 
 &emsp;&emsp;(B) laser altimetry; and
 
-&emsp;&emsp;(C) other emerging technologies that the Secretary determines are likely to providemore accurate or timely snowpack measurement data.
+&emsp;&emsp;(C) other emerging technologies that the Secretary determines are likely to provide more accurate or timely snowpack measurement data.
 
 #### (2) Coordination
 

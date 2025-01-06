@@ -126,7 +126,7 @@ Notwithstanding any other provision of this section, during the period beginning
 
 Section 4616(b)(5) of this title, referred to in subsec. (a)(4)(B), was redesignated section 4616(b)(6) of this title by Pub. L. 110–289, div. A, title I, §1144(5)(D), July 30, 2008, 122 Stat. 2733.
 
-This chapter, referred to in subsec. (c)(2), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original "this title", meaning title XIII of Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 Section 4615(c) of this title, referred to in subsec. (f), was repealed and a new section 4615(c) was added by Pub. L. 110–289, div. A, title I, §1143(6), July 30, 2008, 122 Stat. 2734. The new section 4615(c) does not relate to effective date.
 

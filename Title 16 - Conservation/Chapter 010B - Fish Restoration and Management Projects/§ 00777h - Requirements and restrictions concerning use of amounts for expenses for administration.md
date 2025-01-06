@@ -8,7 +8,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;(2) support costs directly associated with personnel costs authorized under paragraph (1), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
-&emsp;(3) costs of determining under section 777e(a) of this title whether State comprehensiveplans and projects are substantial in character and design;
+&emsp;(3) costs of determining under section 777e(a) of this title whether State comprehensive plans and projects are substantial in character and design;
 
 &emsp;(4) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
 

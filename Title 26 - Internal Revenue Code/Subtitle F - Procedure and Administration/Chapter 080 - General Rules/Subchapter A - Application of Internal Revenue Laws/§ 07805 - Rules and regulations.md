@@ -34,7 +34,7 @@ Except where such authority is expressly given by this title to any person other
 
 #### (6) Congressional authorization
 
-&emsp;The limitation of paragraph (1) may be superseded by a legislative grant from Congress authorizing the Secretary to prescribe the effective date with respect to any regulation.
+&emsp;The limitation of paragraph (1) may be superseded by a legislative grant from Congressauthorizing the Secretary to prescribe the effective date with respect to any regulation.
 
 #### (7) Election to apply retroactively
 
@@ -118,7 +118,7 @@ Pub. L. 100–647, title VI, §6232(b), Nov. 10, 1988, 102 Stat. 3735, provided 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub.L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 #### Form 1040SR for Seniors
 

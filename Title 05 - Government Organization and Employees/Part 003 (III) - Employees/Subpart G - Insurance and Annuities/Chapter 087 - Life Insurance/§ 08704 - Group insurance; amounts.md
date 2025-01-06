@@ -22,7 +22,7 @@
 | 44 | 1\.1&nbsp;&nbsp;&nbsp; |
 | 45 or over | 1\.0.&nbsp;&nbsp;&nbsp;&nbsp; |
 
-(b) An employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance withthis subsection. Subject to the conditions and limitations approved by the Office of Personnel Management which are contained in the policy purchased by the Office, the group accidental death and dismemberment insurance provides payment as follows:
+(b) An employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection. Subject to the conditions and limitations approved by the Office of Personnel Management which are contained in the policy purchased by the Office, the group accidental death and dismemberment insurance provides payment as follows:
 
 &nbsp;
 
@@ -127,7 +127,7 @@ Subsec. (d)(1). Pub. L. 95–454, §801(a)(3)(E), substituted "subchapter VI of 
 
 <b>1972</b>—Subsec. (d)(2). Pub. L. 92–392 substituted "section 5344 or 5349 of this title" for "section 5343 of this title" and added the exception.
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of thistitle, and raised the insurance coverages for both life and accidental death and dismemberment.
+<b>1967</b>—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of this title, and raised the insurance coverages for both life and accidental death and dismemberment.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–737 inserted provision that, for the purpose of this chapter, "annual pay" includes premium pay under section 5545(c)(1) of this title.
 
@@ -139,7 +139,7 @@ Amendment by Pub. L. 100–238 effective Jan. 1, 1987, see section 103(f) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 2(d) of Pub. L. 96–427 applicable with respect to premium pay payable under section 5545(c)(2) of this title from and after the first day of the first pay period which begins on or after Oct. 10, 1980, see section 10(b) of Pub. L. 96–427, set out as a note under section 8701 of this title.
+Amendment by section 2(d) of Pub. L. 96–427 applicable with respect to premium pay payable under section 5545(c)(2) of this title from and after the first day of thefirst pay period which begins on or after Oct. 10, 1980, see section 10(b) of Pub. L. 96–427, set out as a note under section 8701 of this title.
 
 Pub. L. 96–427, §2(f), Oct. 10, 1980, 94 Stat. 1832, provided that: "Subsections (b) and (c) of this section \[amending this section\] shall take effect beginning with the first pay period beginning on or after October 1, 1981."
 

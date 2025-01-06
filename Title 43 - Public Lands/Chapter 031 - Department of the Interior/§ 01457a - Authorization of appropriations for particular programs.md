@@ -12,7 +12,7 @@ It is the sense of the Congress that the appropriation targets for such fiscal y
 
 Notwithstanding the limitation otherwise imposed by subsection (a) of this section—
 
-&emsp;(1) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) by such amount as permanent andannual indefinite appropriations exceed the estimates for such appropriations as contained in "The Budget of the United States Government, Fiscal Year 1982," as revised by the March 1981, publication of the Office of Management and Budget entitled "Fiscal Year 1982 Budget Revisions", when receipts available to be appropriated equal or exceed such appropriations, and
+&emsp;(1) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) by such amount as permanent and annual indefinite appropriations exceed the estimates for such appropriations as contained in "The Budget of the United States Government, Fiscal Year 1982," as revised by the March 1981, publication of the Office of Management and Budget entitled "Fiscal Year 1982 Budget Revisions", when receipts available to be appropriated equal or exceed such appropriations, and
 
 &emsp;(2) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) by such amounts as may be required for emergency firefighting and for increased pay costs authorized by law.
 
@@ -84,9 +84,9 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 &emsp;"(6) management and regulation of natural resources on Federal lands are inherently Government functions and should be performed by Federal employees.
 
-"(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in any other order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
+"(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in anyother order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
 
-"(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management andBudget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
+"(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management and Budget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
 
 "(2) Nothing in this section shall prevent the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management from entering into contracts for services and materials under provisions of law and rules, regulations, orders, and policies other than the circular referred to in paragraph (1) or any similar order or directive."
 

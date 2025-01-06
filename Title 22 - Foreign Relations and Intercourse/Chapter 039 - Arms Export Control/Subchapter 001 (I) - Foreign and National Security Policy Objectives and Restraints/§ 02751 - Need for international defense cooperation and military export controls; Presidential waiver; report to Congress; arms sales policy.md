@@ -2,7 +2,7 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armedforces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
@@ -36,11 +36,11 @@ The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progressto their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
+<b>1981</b>—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progress to their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
 
 <b>1978</b>—Pub. L. 95–384, §15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
-<b>1976</b>—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
+<b>1976</b>—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively workwith other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
 
 <b>1973</b>—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
 
@@ -124,7 +124,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 #### Enhancing Defense and Security Cooperation With India
 
-Pub. L. 114–328, div. A, title XII, §1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, title XII, §1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684; Pub. L. 115–232, div. A, title XII, §1266, Aug. 13, 2018, 132 Stat. 2064, provided that:
+Pub. L. 114–328, div. A, title XII, §1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, titleXII, §1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684; Pub. L. 115–232, div. A, title XII, §1266, Aug. 13, 2018, 132 Stat. 2064, provided that:
 
 "(a)
 
@@ -216,7 +216,7 @@ In general.—The Secretary of Defense and Secretary of State shall jointly, on 
 
 Use of assessment.—The President shall ensure that the assessment described in paragraph (1) is used, consistent with United States conventional arms transfer policy, to inform the review by the United States of requests to export defense articles, defense services, or related technology to India under the Arms Export Control Act (22 U.S.C. 2751 et seq.), and to inform any regulatory and policy adjustments that may be appropriate."
 
-\[For termination, effective Dec. 30, 2021, of reporting requirements in section 1292(a)(2) of Pub. L. 114–328, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under section 111 of this title.\]
+\[For termination, effective Dec. 30, 2021, of reporting requirements in section 1292(a)(2) of Pub. L. 114–328, set out above, see section 1702(a), (b), of Pub. L. 116–92, setout as a Termination of Reporting Requirements note under section 111 of this title.\]
 
 #### Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan
 
@@ -342,7 +342,7 @@ Requirement to Implement Control System.—No defense articles may be provided t
 
 Registration and Monitoring System.—The registration and monitoring system required under this subsection shall include—
 
-&emsp;"(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraqor to other groups, organizations, citizens, or residents of Iraq;
+&emsp;"(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraq or to other groups, organizations, citizens, or residents of Iraq;
 
 &emsp;"(2) a program of end-use monitoring of all lethal defense articles provided to such entities or individuals; and
 
@@ -602,7 +602,7 @@ Pub. L. 108–375, div. A, title XII, §1225, Oct. 28, 2004, 118 Stat. 2091, pro
 
 "(a)
 
-Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defense services between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defenseservices between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
 "(b)
 
@@ -688,7 +688,7 @@ Termination of waiver.—The President may, at any time, terminate any waiver gr
 
 Definitions.—As used in this section—
 
-&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations ofthe Senate and the Committee on Foreign Affairs of the House of Representatives; and
+&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
 
 "(2) the terms 'defense article' and 'defense service' have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
 
@@ -796,7 +796,7 @@ Duties.—The committee shall—
 
 &emsp;"(4) formulate near-term, mid-term, and long-term programmatic options for meeting requirements established by the committee and eliminating deficiencies identified by the committee; and
 
-&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year thatwere reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
+&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
 
 "(d)
 
@@ -862,11 +862,11 @@ Pub. L. 95–384, §25, Sept. 26, 1978, 92 Stat. 746, directed President, within
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
-Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact ofUnited States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, §29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, §29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
 
 #### Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies
 
-Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
+Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policiesand practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
 
 #### Statement of Policy Regarding United States Arms Sales to Israel
 
@@ -922,7 +922,7 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 #### Executive Order No. 11958
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No.13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
 
 #### Ex. Ord. No. 13637. Administration of Reformed Export Controls
 
@@ -982,7 +982,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of section 1 of this order, the Secretary of State and the Secretary of Defense, in carrying out the functions delegated to them under this order, shall consult with each other and with the heads of other executive departments and agencies on matters pertaining to their responsibilities.
 
-(b) Under the direction of the President and in accordance with section 2(b) of the Act (22 U.S.C. 2752(b)), the Secretary of State, taking into account other United States activities abroad, shall be responsible for the continuous supervision and general direction of sales and exports under the Act, including the negotiation, conclusion, and termination of international agreements, and determining whether there shall be a sale to a country and the amount thereof, and whether there shall be delivery or other performance under such sale or export, to the end that sales and exports are integrated with other United States activities and the foreign policy of the United States is best served thereby.
+(b) Under the direction of the President and in accordance with section 2(b) of the Act (22 U.S.C. 2752(b)), the Secretary of State, taking into account other United States activities abroad, shall be responsible for the continuous supervision and general direction of sales and exports under the Act, including the negotiation, conclusion, and termination of international agreements, and determining whether there shall be a sale to a country and the amount thereof, and whetherthere shall be delivery or other performance under such sale or export, to the end that sales and exports are integrated with other United States activities and the foreign policy of the United States is best served thereby.
 
 Sec. 3. <i>Allocation of Funds</i>. Funds appropriated to the President for carrying out the Act shall be deemed to be allocated to the Secretary of Defense without any further action of the President.
 

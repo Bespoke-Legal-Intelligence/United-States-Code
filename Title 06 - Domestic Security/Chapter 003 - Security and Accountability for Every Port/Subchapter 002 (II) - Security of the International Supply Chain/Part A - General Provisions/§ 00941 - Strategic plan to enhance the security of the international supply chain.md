@@ -52,7 +52,7 @@ In furtherance of the strategic plan required under subsection (a), the Secretar
 
 #### (1) Initial report
 
-&emsp;Not later than 270 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report that contains the strategic plan required by subsection (a).
+&emsp;Not later than 270 days after October 13, 2006, the Secretary shall submit to the appropriatecongressional committees a report that contains the strategic plan required by subsection (a).
 
 #### (2) Updates
 

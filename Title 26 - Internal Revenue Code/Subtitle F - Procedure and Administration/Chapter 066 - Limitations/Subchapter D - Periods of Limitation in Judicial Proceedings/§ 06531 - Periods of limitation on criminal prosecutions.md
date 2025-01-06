@@ -1,6 +1,6 @@
 ### §6531. Periods of limitation on criminal prosecutions
 
-No person shall be prosecuted, tried, or punished for any of the various offenses arising under the internal revenue laws unless the indictment is found or the information instituted within 3 years next after the commission of the offense, except that the period of limitation shall be 6 years—
+No person shall be prosecuted, tried, or punished for any of the various offenses arisingunder the internal revenue laws unless the indictment is found or the information instituted within 3 years next after the commission of the offense, except that the period of limitation shall be 6 years—
 
 &emsp;(1) for offenses involving the defrauding or attempting to defraud the United States or any agency thereof, whether by conspiracy or not, and in any manner;
 
@@ -26,7 +26,7 @@ No person shall be prosecuted, tried, or punished for any of the various offense
 
 #### References in Text
 
-Section 3748(a) of the Internal Revenue Code of 1939, referred to in text, was classified to section 3748(a) of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(a)(6)(B) of this title for applicability of section 3748of former Title 26. See also section 7851(e) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Section 3748(a) of the Internal Revenue Code of 1939, referred to in text, was classified to section 3748(a) of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(a)(6)(B) of this title for applicability of section 3748 of former Title 26. See also section 7851(e) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 The date of enactment of this title, referred to in text, is Aug. 16, 1986 \[formerly I.R.C. 1954\], the date of enactment of the Internal Revenue Code of 1954.
 

@@ -98,7 +98,7 @@ No provision of this section shall be construed as authorizing any appropriate F
 
 #### (1) In general
 
-&emsp;Each appropriate Federal banking agency shall prescribe regulations, in accordance with paragraph (4), requiring procedures reasonably designed to ensure and monitor compliance with the requirements of this section.
+&emsp;Each appropriate Federal banking agency shall prescribe regulations, in accordance withparagraph (4), requiring procedures reasonably designed to ensure and monitor compliance with the requirements of this section.
 
 #### (2) Protection of parties
 

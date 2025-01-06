@@ -38,7 +38,7 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(15) To develop or strengthen policies, protocols, and training for law enforcement, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence, dating violence, sexual assault, and stalking against immigrant victims, including the appropriate use of applications for nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8.
 
-&emsp;(16) To develop and promote State, local, or tribal legislation and policies that enhance best practices for responding to the crimes ofdomestic violence, dating violence, sexual assault, and stalking, including the appropriate treatment of victims.
+&emsp;(16) To develop and promote State, local, or tribal legislation and policies that enhance best practices for responding to the crimes of domestic violence, dating violence, sexual assault, and stalking, including the appropriate treatment of victims.
 
 &emsp;(17) To develop, implement, or enhance sexual assault nurse examiner programs or sexual assault forensic examiner programs, including the hiring and training of such examiners.
 
@@ -244,11 +244,11 @@ Subsec. (e). Pub. L. 109–271 added subsec. (e) and struck out former subsec. (
 
 Pub. L. 109–162, §906(c), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments."
 
-Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Textread as follows: "Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments."
+Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–386, §1102(b)(1), inserted "State and local courts (including juvenile courts), tribal courts," after "Indian tribal governments,".
 
-Subsec. (b). Pub. L. 106–386, §1102(b)(2)(A), inserted "State and local courts (including juvenile courts)," after "Indian tribal governments" in introductory provisions.
+Subsec. (b). Pub. L. 106–386, §1102(b)(2)(A), inserted "State and local courts (including juvenile courts),"after "Indian tribal governments" in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 106–386, §§1102(b)(2)(B), 1109(c)(1), substituted "policies, educational programs, and" for "policies and" and inserted "and dating violence" before period at end.
 

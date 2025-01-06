@@ -20,7 +20,7 @@ Except as provided in subsection (e)—
 
 &emsp;(1) the provisions of this chapter shall not affect suits commenced prior to the date this chapter takes effect, and
 
-&emsp;(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in thesame manner and effect as if this chapter had not been enacted.
+&emsp;(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this chapter had not been enacted.
 
 #### (d) Litigation; abatement prohibition; Federal parties
 
@@ -40,7 +40,7 @@ With respect to any function transferred by this chapter and performed after the
 
 #### (h) Presidential functions, authorities, and delegations unaffected
 
-Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegations of functions.
+Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminateany function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegations of functions.
 
 #### (i) References to other provisions deemed references to such provisions as amended or supplemented
 

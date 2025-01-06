@@ -1,6 +1,6 @@
 ### §5801. Definition of independent states
 
-For purposes of this Act, the terms "independent states of the former Soviet Union" and "independent states" mean the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan,Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
+For purposes of this Act, the terms "independent states of the former Soviet Union" and "independent states" mean the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
 (Pub. L. 102–511, §3, Oct. 24, 1992, 106 Stat. 3321.)
 
@@ -18,7 +18,7 @@ Pub. L. 116–260, div. FF, title III, §321, Dec. 27, 2020, 134 Stat. 3101, pro
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: "This Act \[amending provisions set out as a note under section 5811 of this title\] may be cited as the 'Belarus Democracy and Human Rights Act of 2011'."
+Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: "This Act \[amending provisions set out as a noteunder section 5811 of this title\] may be cited as the 'Belarus Democracy and Human Rights Act of 2011'."
 
 #### Short Title of 2007 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 103–199, title I, §§101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, 
 
 &emsp;"(4) The process of reform in Russia, Ukraine, and the other independent states of the former Soviet Union is ongoing. The holding of a referendum in Russia on April 25, 1993, that was free and fair, and that reflected the support of the Russian people for the process of continued and strengthened democratic and economic reform, represents an important and encouraging hallmark in this ongoing process.
 
-&emsp;"(5) There remain in force many United States laws that are relics of the Cold War, and repeals or revisions of these provisions can play an important role in efforts to foster and strengthen the bonds of trust and friendship, as well as mutually beneficial trade and economic relations, between the United States and Russia, the United States and Ukraine, and theUnited States and the other independent states of the former Soviet Union.
+&emsp;"(5) There remain in force many United States laws that are relics of the Cold War, and repeals or revisions of these provisions can play an important role in efforts to foster and strengthen the bonds of trust and friendship, as well as mutually beneficial trade and economic relations, between the United States and Russia, the United States and Ukraine, and the United States and the other independent states of the former Soviet Union.
 
 #### "SEC. 103. STATUTORY PROVISIONS THAT HAVE BEEN APPLICABLE TO THE SOVIET UNION.
 

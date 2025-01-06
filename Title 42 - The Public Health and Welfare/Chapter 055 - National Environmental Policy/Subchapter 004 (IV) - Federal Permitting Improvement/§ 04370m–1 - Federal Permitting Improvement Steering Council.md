@@ -174,7 +174,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 &emsp;&emsp;&emsp;&emsp;(I) engaging with Native American stakeholders to ensure that project sponsors and agencies identify potential natural, archeological, and cultural resources and locations of historic and religious significance in the area of a covered project; and
 
-&emsp;&emsp;&emsp;&emsp;(II) fully considering and, as appropriate, incorporating recommendations provided in public comments on any proposed covered project;
+&emsp;&emsp;&emsp;&emsp;(II) fully considering and, as appropriate, incorporating recommendationsprovided in public comments on any proposed covered project;
 
 &emsp;&emsp;&emsp;(ii) ensuring timely decisions regarding environmental reviews and authorizations, including through the development of performance metrics;
 

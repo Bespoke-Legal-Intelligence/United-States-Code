@@ -40,7 +40,7 @@ Terms of Collocation.—On approval of the recommendations under subsection (c) 
 
 (e)
 
-Rule of Construction.—Nothing in this section exceeds, modifies, or supplants any other Federal law relating to any competitive bidding process governing the leasing of postal property.
+Rule of Construction.—Nothing in this section exceeds, modifies, or supplants any other Federal law relating to any competitivebidding process governing the leasing of postal property.
 
 (Added Pub. L. 114–318, §3(a), Dec. 16, 2016, 130 Stat. 1609.)
 

@@ -22,7 +22,7 @@ The Corporation and program agencies carrying out programs under this division s
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to theCode, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Codification
 

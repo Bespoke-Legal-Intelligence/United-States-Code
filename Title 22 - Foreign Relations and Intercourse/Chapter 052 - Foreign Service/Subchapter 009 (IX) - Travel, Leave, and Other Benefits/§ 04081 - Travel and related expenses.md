@@ -28,13 +28,13 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(8) trips by a member of the Service, and members of his or her family, for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of the member because of imminent danger due to the prevalence of disturbed conditions, except that—
 
-&emsp;&emsp;(A) with respect to any such member whose family is located in the United States, the Secretary may pay the costs and expenses for not to exceed two round trips in a 12-month period; and
+&emsp;&emsp;(A) with respect to any such member whose family is located in the United States,the Secretary may pay the costs and expenses for not to exceed two round trips in a 12-month period; and
 
 &emsp;&emsp;(B) with respect to any such member whose family is located abroad, the Secretary may pay such costs and expenses for trips in a 12-month period as do not exceed the cost of 2 round trips (at less than first class) to the District of Columbia;
 
 &emsp;(9) roundtrip travel to or from an employee's post of assignment for purposes of family visitation in emergency situations involving personal hardship, except that payment for travel by family members to an employee's post of assignment may be authorized under this paragraph only where the family of the member is prevented by official order from residing at such post.<sup>1</sup>
 
-&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in theUnited States, transport of the remains to the designated home in the United States or to a place not more distant;
+&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
 
 &emsp;(11) transporting the furniture and household and personal effects of a member of the Service (and of his or her family) to successive posts of duty and, on separation of a member from the Service, to the place where the member will reside (or if the member has died, to the place where his or her family will reside);
 
@@ -64,7 +64,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 > &emsp;except that the cost of round-trip travel under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
 
-(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(1), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, §5304, Dec. 27, 2021, 135 Stat. 2361.)
+(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146,Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(1), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, §5304, Dec. 27, 2021, 135 Stat. 2361.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@ Par. (15)(A) to (C). Pub. L. 117–81, §5304(2)–(4), inserted "for each child
 
 <b>2008</b>—Par. (6)(B). Pub. L. 110–321 inserted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands" after "United States".
 
-<b>2006</b>—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act bystriking out "unbroken by home leave" wherever appearing, was executed by striking out those words after "2-year tour" and "3-year tour" in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+<b>2006</b>—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out "unbroken by home leave" wherever appearing, was executed by striking out those words after "2-year tour" and "3-year tour" in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 <b>2002</b>—Par. (8). Pub. L. 107–228, §315(a), substituted "Service, and members of his or her family," for "Service".
 

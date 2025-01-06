@@ -6,7 +6,7 @@
 
 &emsp;In proposing to designate a national marine sanctuary, the Secretary shall—
 
-&emsp;&emsp;(A) issue, in the Federal Register, a notice of the proposal, proposed regulations that may be necessary and reasonable to implement the proposal, and a summary of the draft management plan;
+&emsp;&emsp;(A) issue, in the Federal Register, a notice of the proposal, proposed regulations thatmay be necessary and reasonable to implement the proposal, and a summary of the draft management plan;
 
 &emsp;&emsp;(B) provide notice of the proposal in newspapers of general circulation or electronic media in the communities that may be affected by the proposal; and
 
@@ -58,7 +58,7 @@
 
 #### (5) Fishing regulations
 
-&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
+&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Anyamendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
 
 #### (6) Committee action
 
@@ -162,7 +162,7 @@ Pub. L. 106–513, §6(a), amended subpar. (C) generally. Prior to amendment, su
 
 Subsec. (a)(2). Pub. L. 106–513, §6(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The Secretary shall—
 
-&emsp;"(A) prepare a draft environmental impact statement, as provided by the National EnvironmentalPolicy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
+&emsp;"(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
 
 &emsp;"(B) make copies of the draft environmental impact statement available to the public."
 
@@ -184,7 +184,7 @@ Subsec. (f)(2). Pub. L. 106–562 substituted "subparagraphs (A) and (B) of para
 
 <b>1996</b>—Subsec. (b)(3). Pub. L. 104–283 struck out "(A)" before "In computing the forty-five-day", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, adjusted margins, and struck out former subpars. (B) and (C) which read as follows:
 
-"(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+"(B) When the committee to which a joint resolution has been referred has reported such a resolution, itshall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 "(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
 
@@ -236,5 +236,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Pub. L. 106–562, title III, §307(c), Dec. 23, 2000, 114 Stat. 2807, provided that: "Subsection (a) \[amending this section\] shall take effect January 1, 2001."
 
-Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
+Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section 205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
 

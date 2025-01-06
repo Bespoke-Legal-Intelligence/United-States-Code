@@ -24,7 +24,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (c) Notice of defect or failure to comply; mail notice
 
-(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that notification is required in order to adequately protect the public from such substantial product hazard, or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title, the Commission may order the manufacturer or any distributor or retailer of the product to take any one or more of the following actions:
+(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that notification is required in order to adequately protect the public from such substantial product hazard, or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title,the Commission may order the manufacturer or any distributor or retailer of the product to take any one or more of the following actions:
 
 &emsp;(A) To cease distribution of the product.
 
@@ -52,7 +52,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(B) To replace such product with a like or equivalent product which complies with the applicable rule, regulation, standard, or ban or which does not contain the defect.
 
-&emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) atthe time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
+&emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
 
 (2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C).<sup>2</sup> An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
 
@@ -70,7 +70,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (f) Hearing
 
-(1) Except as provided in paragraph (2), an order under subsection (c) or (d) may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+(1) Except as provided in paragraph (2), an order under subsection (c) or (d) may be issuedonly after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
 
 (2) The requirement for a hearing in paragraph (1) shall not apply to an order issued under subsection (c) or (d) relating to an imminently hazardous consumer product with regard to which the Commission has filed an action under section 2061 of this title.
 
@@ -84,7 +84,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (h) Cost-benefit analysis of notification or other action not required
 
-Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or takingother action under this section with the benefits from such notification or action.
+Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
 #### (i) Requirements for recall notices
 
@@ -136,7 +136,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 #### (1) In general
 
-&emsp;The Commission may specify, by rule, for any consumer product or class of consumer products, characteristics whose existence or absence shall be deemed a substantial product hazard under subsection (a)(2), if the Commission determines that—
+&emsp;The Commission may specify, by rule, for any consumer product or class of consumerproducts, characteristics whose existence or absence shall be deemed a substantial product hazard under subsection (a)(2), if the Commission determines that—
 
 &emsp;&emsp;(A) such characteristics are readily observable and have been addressed by voluntary standards; and
 
@@ -168,7 +168,7 @@ Subsec. (c). Pub. L. 110–314, §214(a)(3)(A), (C), (D), designated existing pr
 
 Subsec. (c)(1). Pub. L. 110–314, §214(a)(3)(B), inserted "or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title," after "such substantial product hazard," in introductory provisions.
 
-Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted "comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which suchmanufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice." for "comply."
+Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted "comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice." for "comply."
 
 Subsec. (c)(2), (3). Pub. L. 110–314, §214(a)(3)(F), added pars. (2) and (3).
 

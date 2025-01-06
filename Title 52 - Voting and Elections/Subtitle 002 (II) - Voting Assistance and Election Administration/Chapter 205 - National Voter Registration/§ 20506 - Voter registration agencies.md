@@ -68,7 +68,7 @@
 
 &emsp;(C) provide to each applicant who does not decline to register to vote the same degree of assistance with regard to the completion of the registration application form as is provided by the office with regard to the completion of its own forms, unless the applicant refuses such assistance.
 
-(7) No information relating to a declination to register to vote in connection with an application made at an office described in paragraph (6) may be used for any purpose other than voter registration.
+(7) No information relating to a declination to register to vote in connection with an application made at an office described in paragraph (6)may be used for any purpose other than voter registration.
 
 #### (b) Federal Government and private sector cooperation
 
@@ -76,7 +76,7 @@ All departments, agencies, and other entities of the executive branch of the Fed
 
 #### (c) Armed Forces recruitment offices
 
-(1) Each State and the Secretary of Defense shall jointly develop and implement proceduresfor persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
+(1) Each State and the Secretary of Defense shall jointly develop and implement procedures for persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
 
 (2) A recruitment office of the Armed Forces of the United States shall be considered to be a voter registration agency designated under subsection (a)(2) for all purposes of this chapter.
 

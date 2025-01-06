@@ -26,7 +26,7 @@ No condition in any bond taken to assure compliance with any law, regulation, or
 
 #### (e) Deposit of money or obligation of United States in lieu of bond
 
-The Secretary of the Treasury is authorized to permit the deposit of money or obligations of the United States, in such amount and upon such conditions as he may by regulation prescribe, in lieu of sureties on any bond required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce.
+The Secretary of the Treasury is authorized to permit the deposit of money or obligations ofthe United States, in such amount and upon such conditions as he may by regulation prescribe, in lieu of sureties on any bond required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce.
 
 (June 17, 1930, ch. 497, title IV, §623, 46 Stat. 759; June 25, 1938, ch. 679, §30, 52 Stat. 1089; Pub. L. 91–271, title III, §301(ii), June 2, 1970, 84 Stat. 291; Pub. L. 100—418, title I, §1904, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 103–182, title VI, §647, Dec. 8, 1993, 107 Stat. 2207.)
 

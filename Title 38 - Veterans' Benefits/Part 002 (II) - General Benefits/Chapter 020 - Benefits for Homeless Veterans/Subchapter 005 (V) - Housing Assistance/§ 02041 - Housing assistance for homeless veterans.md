@@ -190,7 +190,7 @@ In General.—(1) The Secretary of Veterans Affairs shall consider entering into
 
 "(D) In this paragraph, the term 'covered medical center' means a medical center of the Department with respect to which the Secretary determines that—
 
-&emsp;"(i) more than 15 percent of all housing vouchers allocated to that medical center under the program described in paragraph (1) during the fiscal year preceding the fiscal year in which such determination was made were unused due to a lack of case management services provided by the Secretary; and
+&emsp;"(i) more than 15 percent of all housing vouchers allocated to that medical center under the program described in paragraph (1) during the fiscal year preceding the fiscal year in which such determinationwas made were unused due to a lack of case management services provided by the Secretary; and
 
 &emsp;"(ii) one or more case manager positions have been vacant for at least nine consecutive months immediately preceding the date of such determination.
 

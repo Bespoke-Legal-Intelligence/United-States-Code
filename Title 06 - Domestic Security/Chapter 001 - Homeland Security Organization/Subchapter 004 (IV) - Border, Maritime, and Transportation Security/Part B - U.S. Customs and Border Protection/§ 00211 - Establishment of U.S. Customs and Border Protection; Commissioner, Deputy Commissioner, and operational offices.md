@@ -8,7 +8,7 @@ There is established in the Department an agency to be known as U.S. Customs and
 
 #### (1) In general
 
-&emsp;There shall be at the head of U.S. Customs and Border Protection a Commissioner of U.S. Customs and Border Protection (in this section referred to as the "Commissioner").
+&emsp;There shall be at the head of U.S. Customs and Border Protection a Commissioner of U.S.Customs and Border Protection (in this section referred to as the "Commissioner").
 
 #### (2) Committee referral
 
@@ -134,7 +134,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;&emsp;(ii) monitor and coordinate the airspace for unmanned aerial systems operations of Air and Marine Operations in U.S. Customs and Border Protection;
 
-&emsp;&emsp;&emsp;(iii) detect, identify, and coordinate a response to threats to national security inthe air domain, in coordination with other appropriate agencies, as determined by the Executive Assistant Commissioner;
+&emsp;&emsp;&emsp;(iii) detect, identify, and coordinate a response to threats to national security in the air domain, in coordination with other appropriate agencies, as determined by the Executive Assistant Commissioner;
 
 &emsp;&emsp;&emsp;(iv) provide aviation and marine support to other Federal, State, tribal, and local agencies; and
 
@@ -350,7 +350,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 #### (7) Report on unmanned aerial systems
 
-&emsp;The Commissioner shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report, for each of the three calendar years beginning in the calendar year that begins after February 24, 2016, that reviews whether the use of unmanned aerial systems is being conducted in conformity with the standard operating procedures required under subparagraph (E) of paragraph (1). Such reports—
+&emsp;The Commissioner shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report, for each of the three calendar years beginning in the calendar year that begins after February 24, 2016, that reviews whether the use of unmanned aerial systems is being conducted in conformity withthe standard operating procedures required under subparagraph (E) of paragraph (1). Such reports—
 
 &emsp;&emsp;(A) shall be submitted with the annual budget of the United States Government submitted by the President under section 1105 of title 31;
 
@@ -376,7 +376,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 #### (A) In general
 
-&emsp;&emsp;The Commissioner shall ensure that an individual apprehended by a U.S. Border Patrol agent or an Office of Field Operations officer is provided with information concerning such individual's rights, includingthe right to contact a representative of such individual's government for purposes of United States treaty obligations.
+&emsp;&emsp;The Commissioner shall ensure that an individual apprehended by a U.S. Border Patrol agent or an Office of Field Operations officer is provided with information concerning such individual's rights, including the right to contact a representative of such individual's government for purposes of United States treaty obligations.
 
 #### (B) Form
 
@@ -510,7 +510,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Large-scale non-intrusive inspection system.—The term 'large-scale, non-intrusive inspection system' means a technology, including x-ray, gamma-ray, and passive imaging systems, capable of producing an image of the contents of a commercial or passenger vehicle or freight rail car in 1 pass of such vehicle or car.
+Large-scale non-intrusive inspection system.—The term 'large-scale, non-intrusive inspection system' means a technology, including x-ray, gamma-ray, and passive imaging systems, capable of producing an image of the contents of a commercialor passenger vehicle or freight rail car in 1 pass of such vehicle or car.
 
 &emsp;"(2)
 
@@ -592,7 +592,7 @@ Pub. L. 116–254, Dec. 23, 2020, 134 Stat. 1137, provided that:
 
 "Not later than 180 days after the date of the enactment of this section \[Dec. 23, 2020\], the Commissioner of U.S. Customs and Border Protection (CBP) shall—
 
-&emsp;"(1) implement a strategy to ensure deployed chemical screening devices are able to identify in an operational environment narcotics at purity levels less than or equal to 10 percent, or provide ports of entry with an alternate method for identifying narcotics at lower purity levels; and
+&emsp;"(1) implement a strategy to ensure deployed chemical screening devices are able to identify in an operational environment narcotics at purity levels lessthan or equal to 10 percent, or provide ports of entry with an alternate method for identifying narcotics at lower purity levels; and
 
 &emsp;"(2) require testing of any new chemical screening devices to understand the abilities and limitations of such devices relating to identifying narcotics at various purity levels before CBP commits to the acquisition of such devices.
 
@@ -644,7 +644,7 @@ CBP.—The term 'CBP' means U.S. Customs and Border Protection.
 
 "(a)
 
-CBP Agriculture Specialists.—The Commissioner of U.S. Customs and Border Protection may hire,train, and assign 240 new CBP Agriculture Specialists above the current attrition level during every fiscal year until the total number of CBP Agriculture Specialists equals and sustains the requirements identified each year in the Agriculture Resource Allocation Model.
+CBP Agriculture Specialists.—The Commissioner of U.S. Customs and Border Protection may hire, train, and assign 240 new CBP Agriculture Specialists above the current attrition level during every fiscal year until the total number of CBP Agriculture Specialists equals and sustains the requirements identified each year in the Agriculture Resource Allocation Model.
 
 "(b)
 
@@ -730,13 +730,15 @@ Report.—Not later than 90 days after the briefing required under subsection (b
 
 #### Use of Funds To Continue Detention Services Contracts
 
-Pub. L. 117–328, div. F, title II, §214, Dec. 29, 2022, 136 Stat. 4736, provided that:
+Pub. L. 118–47, div. C, title II, §213, Mar. 23, 2024, 138 Stat. 603, provided that:
 
 "(a) None of the funds provided under the heading 'U.S. Immigration and Customs Enforcement—Operations and Support' may be used to continue any contract for the provision of detention services if the two most recent overall performance evaluations received by the contracted facility are less than 'adequate' or the equivalent median score in any subsequent performance evaluation system.
 
 "(b) The performance evaluations referenced in subsection (a) shall be conducted by the U.S. Immigration and Customs Enforcement Office of Professional Responsibility."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. F, title II, §214, Dec. 29, 2022, 136 Stat. 4736.
 
 Pub. L. 117–103, div. F, title II, §215, Mar. 15, 2022, 136 Stat. 322.
 
@@ -848,7 +850,7 @@ Pub. L. 115–112, Jan. 10, 2018, 131 Stat. 2274, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
-"This Act may be cited as the 'International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act' or the 'INTERDICT Act'.
+"This Act may be cited as the 'International Narcotics Trafficking Emergency Response by DetectingIncoming Contraband with Technology Act' or the 'INTERDICT Act'.
 
 #### "SEC. 2. DEFINITIONS.
 

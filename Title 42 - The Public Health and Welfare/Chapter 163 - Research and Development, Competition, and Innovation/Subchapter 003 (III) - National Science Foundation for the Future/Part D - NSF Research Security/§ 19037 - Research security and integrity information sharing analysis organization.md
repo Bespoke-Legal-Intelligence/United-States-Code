@@ -10,7 +10,7 @@ The RSI-ISAO shall—
 
 &emsp;(1) serve as a clearinghouse for information to help enable the members and other entities in the research community to understand the context of their research and identify improper or illegal efforts by foreign entities to obtain research results, know how, materials, and intellectual property;
 
-&emsp;(2) develop a set of standard risk assessment frameworks and best practices, relevant to the research community, to assess research security risks in different contexts;
+&emsp;(2) develop a set of standard risk assessment frameworks and best practices, relevant to theresearch community, to assess research security risks in different contexts;
 
 &emsp;(3) share information concerning security threats and lessons learned from protection and response efforts through forums and other forms of communication;
 

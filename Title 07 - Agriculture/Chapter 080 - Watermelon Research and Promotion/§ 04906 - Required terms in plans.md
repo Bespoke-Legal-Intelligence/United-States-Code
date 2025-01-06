@@ -68,7 +68,7 @@ The plan shall provide the following:
 
 (3)(A) Notwithstanding paragraph (2) and subject to subparagraph (B), if importers are subject to the plan, the plan shall provide that an importer of less than 150,000 pounds of watermelons per year shall be entitled to apply for a refund that is based on the rate of assessment paid by domestic producers.
 
-(B) The Secretary may adjust the quantity of the weight exemption specified in subparagraph (A) on the recommendation of the Board after an opportunity for public notice and opportunity for comment in accordance with section 553 of title 5, and without regard to sections 556 and 557 of such title, to reflect significant changes in the 5-year average yield per acre of watermelons produced in the United States.
+(B) The Secretary may adjust the quantity of the weight exemption specified in subparagraph (A) on the recommendation of the Board after an opportunity for public notice and opportunity for comment in accordance with section 553 of title 5, and without regard to sections 556and 557 of such title, to reflect significant changes in the 5-year average yield per acre of watermelons produced in the United States.
 
 #### (i) Submission of programs or projects; approval by Secretary
 

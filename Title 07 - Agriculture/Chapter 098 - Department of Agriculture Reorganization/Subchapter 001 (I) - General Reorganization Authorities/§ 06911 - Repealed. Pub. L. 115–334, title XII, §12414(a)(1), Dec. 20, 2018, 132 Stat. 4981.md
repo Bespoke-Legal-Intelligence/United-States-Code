@@ -10,5 +10,5 @@ Pub. L. 115–334, title XII, §12414(c), Dec. 20, 2018, 132 Stat. 4981, provide
 
 &emsp;"(1) the authority of the Secretary to continue to carry out a function vested in, and performed by, the Secretary as of the date of enactment of this Act \[Dec. 20, 2018\] under any provision of Federal law other than the provisions repealed by subsections (a) and (b); or
 
-&emsp;"(2) the authority of an agency, office, officer, or employee of the Department of Agriculture to continue to perform all functions delegated or assignedto the agency, office, officer, or employee as of the date of enactment of this Act any provision of Federal law other than the provisions repealed by subsections (a) and (b)."
+&emsp;"(2) the authority of an agency, office, officer, or employee of the Department of Agriculture to continue to perform all functions delegated or assigned to the agency, office, officer, or employee as of the date of enactment of this Act any provision of Federal law other than the provisions repealed by subsections (a) and (b)."
 

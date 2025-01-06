@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator, in coordination with the States, may provide technical assistance and grants to a municipality or municipal entity tocarry out pilot projects relating to the following areas:
+The Administrator, in coordination with the States, may provide technical assistance and grants to a municipality or municipal entity to carry out pilot projects relating to the following areas:
 
 #### (1) Watershed management of wet weather discharges
 

@@ -70,7 +70,7 @@ If the program manager of a major system for which a report has previously been 
 
 #### (e) Requirement for Major System Congressional Report
 
-(1) Whenever the Director determines under subsection (d) that the total acquisition cost ofa major system has increased by a percentage equal to or greater than the significant cost growth threshold for the major system, a Major System Congressional Report shall be submitted to Congress not later than 45 days after the date on which the Director receives the major system cost report for such major system.
+(1) Whenever the Director determines under subsection (d) that the total acquisition cost of a major system has increased by a percentage equal to or greater than the significant cost growth threshold for the major system, a Major System Congressional Report shall be submitted to Congress not later than 45 days after the date on which the Director receives the major system cost report for such major system.
 
 (2) If the total acquisition cost of a major system (as determined by the Director under subsection (d)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Director shall take actions consistent with the requirements of section 3102 of this title.
 
@@ -136,7 +136,7 @@ If a determination of an increase by a percentage equal to or greater than the s
 
 &emsp;(1) on which Congress receives the Major System Congressional Report under subsection (e)(1) with respect to that major system, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
-&emsp;(2) on which Congress receives both the Major System Congressional Report under subsection (e)(2) and the certification of the Director under section 3102(b)(2) of this title with respect to that major system, in the case of an increase by a percentage equal to orgreater than the critical cost growth threshold (as determined under subsection (d)).
+&emsp;(2) on which Congress receives both the Major System Congressional Report under subsection (e)(2) and the certification of the Director under section 3102(b)(2) of this title with respect to that major system, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under subsection (d)).
 
 #### (h) Treatment of cost increases prior to October 7, 2010
 
@@ -182,5 +182,5 @@ Pub. L. 111–259, title III, §323(a)(2), Oct. 7, 2010, 124 Stat. 2678, provide
 
 #### Major Defense Acquisition Programs
 
-Pub. L. 111–259, title III, §323(b), Oct. 7, 2010, 124 Stat. 2678, provided that: "Nothing in this section \[enacting this section and provisions set out as a note under this section\], section 324 \[enacting section 3102 of this title\], or an amendment made by this section or section 324, shall be construed to exempt an acquisition program of the Department of Defense from the requirements of \[former\] chapter 144 of title 10, United States Code \[see chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328 of title 10\]\[,\] or Department of Defense Directive 5000, to the extent that such requirements are otherwise applicable."
+Pub. L. 111–259, title III, §323(b), Oct. 7, 2010, 124 Stat. 2678, provided that: "Nothing in this section \[enactingthis section and provisions set out as a note under this section\], section 324 \[enacting section 3102 of this title\], or an amendment made by this section or section 324, shall be construed to exempt an acquisition program of the Department of Defense from the requirements of \[former\] chapter 144 of title 10, United States Code \[see chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328 of title 10\]\[,\] or Department of Defense Directive 5000, to the extent that such requirements are otherwise applicable."
 

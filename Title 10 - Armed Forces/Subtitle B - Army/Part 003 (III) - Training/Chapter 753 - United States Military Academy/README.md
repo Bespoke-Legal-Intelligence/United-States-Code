@@ -19,7 +19,7 @@
 | [7443\.](%C2%A7%2007443%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md) | Cadets: appointment; to bring Corps to full strength. |
 | [7446\.](%C2%A7%2007446%20-%20Cadets%20requirements%20for%20admission.md) | Cadets: requirements for admission. |
 | [7447\.](%C2%A7%2007447%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md) | Cadets; nominees: effect of redistricting of States. |
-| [7448\.](%C2%A7%2007448%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md) | Cadets: agreement to serve as officer. |
+| [7448\.](%C2%A7%2007448%20-%20Cadets%20service%20obligation.md) | Cadets: service obligation. |
 | [7449\.](%C2%A7%2007449%20-%20Cadets%20organization%20of%20Corps%3B%20service%3B%20instruction.md) | Cadets: organization of Corps; service; instruction. |
 | [7450\.](%C2%A7%2007450%20-%20Cadets%20clothing%20and%20equipment.md) | Cadets: clothing and equipment. |
 | [7451\.](%C2%A7%2007451%20-%20Cadets%20deficiencies%20in%20conduct%20or%20studies%3B%20effect%20of%20failure%20on%20successor.md) | Cadets: deficiencies in conduct or studies; effect of failure on successor. |
@@ -40,6 +40,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title V, §557(a)(1), Dec. 23, 2024, 138 Stat. 1896, substituted "service obligation" for "agreement to serve as officer" in item 7448. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title V, §553(a)(2), Dec. 27, 2021, 135 Stat. 1736, added item 7442a.
 
@@ -105,7 +107,7 @@ Pub. L. 108–375, div. A, title V, §544(a)(2), Oct. 28, 2004, 118 Stat. 1906, 
 - [&sect; 07443 - Cadets appointment; to bring Corps to full strength](%C2%A7%2007443%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md)
 - [&sect; 07446 - Cadets requirements for admission](%C2%A7%2007446%20-%20Cadets%20requirements%20for%20admission.md)
 - [&sect; 07447 - Cadets; nominees effect of redistricting of States](%C2%A7%2007447%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md)
-- [&sect; 07448 - Cadets agreement to serve as officer](%C2%A7%2007448%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md)
+- [&sect; 07448 - Cadets service obligation](%C2%A7%2007448%20-%20Cadets%20service%20obligation.md)
 - [&sect; 07449 - Cadets organization of Corps; service; instruction](%C2%A7%2007449%20-%20Cadets%20organization%20of%20Corps%3B%20service%3B%20instruction.md)
 - [&sect; 07450 - Cadets clothing and equipment](%C2%A7%2007450%20-%20Cadets%20clothing%20and%20equipment.md)
 - [&sect; 07451 - Cadets deficiencies in conduct or studies; effect of failure on successor](%C2%A7%2007451%20-%20Cadets%20deficiencies%20in%20conduct%20or%20studies%3B%20effect%20of%20failure%20on%20successor.md)

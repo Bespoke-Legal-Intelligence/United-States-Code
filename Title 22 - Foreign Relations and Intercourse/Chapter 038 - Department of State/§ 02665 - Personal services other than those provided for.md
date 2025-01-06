@@ -18,7 +18,7 @@ Pub. L. 118–31, div. F, title LXIV, §6401, Dec. 22, 2023, 137 Stat. 994, prov
 
 "(a)
 
-Sense of Congress.—It is the sense of Congress that the Department \[of State\] should seek to ensure it has sufficient full-time equivalent positions allotted tocarry out its current mission, working with the Office of Personnel Management and appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] to that end, and that the use of personal services contractors should not be relied upon to perform core Department functions indefinitely.
+Sense of Congress.—It is the sense of Congress that the Department \[of State\] should seek to ensure it has sufficient full-time equivalent positions allotted to carry out its current mission, working with the Office of Personnel Management and appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] to that end, and that the use of personal services contractors should not be relied upon to perform core Department functions indefinitely.
 
 "(b)
 

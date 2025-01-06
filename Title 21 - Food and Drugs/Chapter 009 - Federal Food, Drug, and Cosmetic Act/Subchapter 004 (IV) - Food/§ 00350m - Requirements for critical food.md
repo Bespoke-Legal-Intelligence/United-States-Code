@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A manufacturer of a critical food (as defined in section 321(ss) of this title) shall notify theSecretary of a permanent discontinuance in the manufacture or an interruption of the manufacture of such food that is likely to lead to a meaningful disruption in the supply of such food in the United States, and the reasons for such discontinuance or interruption, as soon as practicable, but not later than 5 business days after such discontinuance or such interruption.
+&emsp;A manufacturer of a critical food (as defined in section 321(ss) of this title) shall notify the Secretary of a permanent discontinuance in the manufacture or an interruption of the manufacture of such food that is likely to lead to a meaningful disruption in the supply of such food in the United States, and the reasons for such discontinuance or interruption, as soon as practicable, but not later than 5 business days after such discontinuance or such interruption.
 
 #### (2) Distribution of information
 

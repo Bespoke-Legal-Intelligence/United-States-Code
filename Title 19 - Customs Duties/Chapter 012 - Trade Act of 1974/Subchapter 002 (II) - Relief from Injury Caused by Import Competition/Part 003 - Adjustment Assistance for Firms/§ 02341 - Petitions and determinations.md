@@ -100,7 +100,7 @@ Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, des
 
 #### Effective and Termination Dates of 2015 Revival
 
-For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect onDec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 

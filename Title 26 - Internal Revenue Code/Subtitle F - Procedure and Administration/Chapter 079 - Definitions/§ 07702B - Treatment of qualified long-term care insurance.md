@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Licensed health care practitioner
 
-&emsp;The term "licensed health care practitioner" means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meetssuch requirements as may be prescribed by the Secretary.
+&emsp;The term "licensed health care practitioner" means any physician (as defined in section 1861(r)(1) of the Social Security Act) and any registered professional nurse, licensed social worker, or other individual who meets such requirements as may be prescribed by the Secretary.
 
 #### (d) Aggregate payments in excess of limits
 

@@ -24,9 +24,9 @@ Moneys deposited under this section shall be covered into the Treasury and shall
 
 #### Appropriations
 
-Appropriation of all moneys received as contributions toward cooperative work under this section wasmade by acts Jan. 18, 1927, ch. 39, 44 Stat. 991; Mar. 26, 1934, ch. 89, 48 Stat. 483.
+Appropriation of all moneys received as contributions toward cooperative work under this section was made by acts Jan. 18, 1927, ch. 39, 44 Stat. 991; Mar. 26, 1934, ch. 89, 48 Stat. 483.
 
 #### Trust Funds
 
-Classification as trust funds, appropriation and disbursement of funds appearing on books of Government as "Cooperative work, Forest Service," see section 1321 of Title 31, Money and Finance.
+Classification as trust funds, appropriation and disbursement of funds appearing on books of Governmentas "Cooperative work, Forest Service," see section 1321 of Title 31, Money and Finance.
 

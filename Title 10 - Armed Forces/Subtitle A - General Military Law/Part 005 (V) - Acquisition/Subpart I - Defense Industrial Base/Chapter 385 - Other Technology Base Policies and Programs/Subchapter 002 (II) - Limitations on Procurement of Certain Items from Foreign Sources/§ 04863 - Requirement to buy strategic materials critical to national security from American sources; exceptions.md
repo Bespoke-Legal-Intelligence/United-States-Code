@@ -10,15 +10,23 @@ Requirement.—Except as provided in subsections (b) through (m), the acquisitio
 
 (b)
 
-Availability Exception.—(1) Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed. For purposes of the preceding sentence, the term "compliant specialty metal" means specialty metal melted or produced in the United States.
+Availability Exception.—(1) Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed at a reasonable price. For purposes of the preceding sentence, the term "compliant specialty metal" means specialty metal melted or produced in the United States.
 
 (2) This subsection applies to prime contracts and subcontracts at any tier under such contracts.
+
+(3) The authority in subsection (b)(1)—
+
+&emsp;(A) may be delegated to the head of contracting activity for the relevant component for an exception for a single acquisition program;
+
+&emsp;(B) may be delegated to the senior acquisition executive of a military department for an exception for multiple programs within such military department; and
+
+&emsp;(C) may be delegated to the Undersecretary of Defense for Acquisition and Sustainment for an exception for more than one military department.
 
 (c)
 
 Exception for Certain Acquisitions.—Subsection (a) does not apply to the following:
 
-&emsp;(1) Acquisitions outside the United States in support of combat operations or in support of contingency operations.
+&emsp;(1) Acquisitions outside the United States in support of contingency operations or for use outside of the United States.
 
 &emsp;(2) Acquisitions for which the use of procedures other than competitive procedures has been approved on the basis of section 3204(a)(2) of this title, relating to unusual and compelling urgency of need.
 
@@ -30,7 +38,7 @@ Exception Relating to Agreements With Foreign Governments.—Subsection (a)(1) d
 
 &emsp;&emsp;(A) to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government or United States firms under approved programs serving defense requirements; or
 
-&emsp;&emsp;(B) in furtherance of agreements with foreign governments in which both such governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country; and
+&emsp;&emsp;(B) in furtherance of agreements with qualifying foreign governments in which both such governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country; and
 
 &emsp;(2) any such agreement with a foreign government complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with section 2457 of this title.
 
@@ -64,7 +72,7 @@ Applicability to Acquisitions of Commercial Products.—(1) Except as provided i
 
 &emsp;&emsp;(ii) purchased as provided in paragraph (3).
 
-(3) This section does not apply to fasteners that are commercial products that are purchased under a contract or subcontract with a manufacturer of such fasteners, if the manufacturer has certified that it will purchase, during the relevant calendar year, an amount of domestically melted specialty metal, in the required form, for use in the production of such fasteners for sale to the Department of Defense and other customers, that is not less than 50 percent of the total amount of the specialty metal that it will purchase to carry out the production of such fasteners.
+(3) This section does not apply to fasteners that are commercial products that are purchased under a contract or subcontract with a manufacturer of such fasteners, if the manufacturer has certified that it will purchase, during the relevant calendar year, an amount of domestically melted specialty metal, in the requiredform, for use in the production of such fasteners for sale to the Department of Defense and other customers, that is not less than 50 percent of the total amount of the specialty metal that it will purchase to carry out the production of such fasteners.
 
 (i)
 
@@ -88,11 +96,15 @@ Streamlined Compliance for Commercial Derivative Military Articles.—(1) Subsec
 
 (k)
 
-National Security Waiver.—(1) Notwithstanding subsection (a), the Secretary of Defense may accept the delivery of an end item containing noncompliant materials if the Secretary determines in writing that acceptance of such end item is necessary to the national security interests of the United States.
+National Security Waiver.—(1) Notwithstanding subsection (a), the Secretary of Defense or the Secretary of the military department concerned may accept the delivery of an end item containing noncompliant materials if the Secretary determines in writing that acceptance of such end item is necessary to the national security interests of the United States.
 
 (2) A written determination under paragraph (1)—
 
-&emsp;(A) may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment;
+&emsp;(A) may be delegated—
+
+&emsp;&emsp;(i) to the senior acquisition executive of the military department concerned for a waiver for one or more acquisition programs within the such military department; and
+
+&emsp;&emsp;(ii) to the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment for a waiver applicable to more than one military department;
 
 &emsp;(B) shall specify the quantity of end items to which the waiver applies and the time period over which the waiver applies; and
 
@@ -152,13 +164,15 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335, §2533b; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 115–232, div. A, title VIII, §837(c), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title IX, §902(77), Dec. 20, 2019, 133 Stat. 1552; renumbered §4863 and amended Pub. L. 116–283, div. A, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(18), Dec. 27, 2021, 135 Stat. 2138; Pub. L. 117–263, div. A, title XIV, §1411(d)(2)(A), Dec. 23, 2022, 136 Stat. 2871; Pub. L. 118–31, div. A, title VIII, §833(a), Dec. 22, 2023, 137 Stat. 337.)
+&emsp;(11) The term "qualifying foreign government" means the government of a country with which the United States has in effect a reciprocal defense procurement agreement or memorandum of understanding entered into pursuant to section 4851 of this title.
+
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335, §2533b; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 115–232, div. A, title VIII, §837(c), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title IX, §902(77), Dec. 20, 2019, 133 Stat. 1552; renumbered §4863 and amended Pub. L. 116–283, div. A, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(18), Dec. 27, 2021, 135 Stat. 2138; Pub. L. 117–263, div. A, title XIV, §1411(d)(2)(A), Dec. 23, 2022, 136 Stat. 2871; Pub. L. 118–31, div. A, title VIII, §833(a), Dec. 22, 2023, 137 Stat. 337; Pub. L. 118–159, div. A, title VIII, §§844(a), 845, Dec. 23, 2024, 138 Stat. 1991, 1992.)
 
 #### Amendment of Section
 
 <i>Pub. L. 118–31, div. A, title VIII, §833, Dec. 22, 2023, 137 Stat. 337, provided that, effective 24 months after Dec. 22, 2023, this section is amended as follows:</i>
 
-<i>(1) in subsection (d), by striking "; and" in paragraph (1)(B) and inserting a semicolon, by</i><i>striking the period at the end of paragraph (2) and inserting "; and", and by adding at the end the following new paragraph:</i>
+<i>(1) in subsection (d), by striking "; and" in paragraph (1)(B) and inserting a semicolon, by striking the period at the end of paragraph (2) and inserting "; and", and by adding at the end the following new paragraph:</i>
 
 &emsp;<i>"(3) any specialty metal procured as mill product or incorporated into a component other than an end item pursuant to this subsection shall be melted or produced—</i>
 
@@ -189,6 +203,20 @@ Additional Definitions.—In this section:
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–159, §844(a)(1)(A), inserted "at a reasonable price" after "when needed".
+
+Subsec. (b)(3). Pub. L. 118–159, §844(a)(1)(B), added par. (3).
+
+Subsec. (c)(1). Pub. L. 118–159, §844(a)(2), struck out "in support of combat operations or" after "United States" and inserted "or for use outside of the United States" after "contingency operations".
+
+Subsec. (d)(1)(B). Pub. L. 118–159, §845(1), inserted "qualifying" before "foreign".
+
+Subsec. (k)(1). Pub. L. 118–159, §844(a)(3)(A), inserted "or the Secretary of the military department concerned" after "Secretary of Defense".
+
+Subsec. (k)(2)(A). Pub. L. 118–159, §844(a)(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment;".
+
+Subsec. (m)(11). Pub. L. 118–159, §845(2), added par. (11).
 
 <b>2023</b>—Subsec. (d)(3). Pub. L. 118–31, §833(a)(1), added par. (3).
 
@@ -280,7 +308,7 @@ Pub. L. 110–181, div. A, title VIII, §884, Jan. 28, 2008, 122 Stat. 264, prov
 
 "(a)
 
-Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code \[now 10 U.S.C. 4863(b)\], that would apply to more than one contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
+Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code \[now 10 U.S.C. 4863(b)\], that would apply to more thanone contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
 
 &emsp;"(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
 

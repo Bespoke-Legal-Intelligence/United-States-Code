@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;In identifying eligible partners under subparagraph (A), the Secretary shall require that partner institutions describe—
 
-&emsp;&emsp;&emsp;(i) how the partner institution has the capability to administer the program inaccordance with this section, which may include a description of any existing programs at the institution of the applicant that are targeted at education of science and mathematics teachers and the number of teachers graduated annually from the programs; and
+&emsp;&emsp;&emsp;(i) how the partner institution has the capability to administer the program in accordance with this section, which may include a description of any existing programs at the institution of the applicant that are targeted at education of science and mathematics teachers and the number of teachers graduated annually from the programs; and
 
 &emsp;&emsp;&emsp;(ii) how the partner institution will assist the National Laboratory in carrying out the activities described in paragraphs (3) and (4).
 

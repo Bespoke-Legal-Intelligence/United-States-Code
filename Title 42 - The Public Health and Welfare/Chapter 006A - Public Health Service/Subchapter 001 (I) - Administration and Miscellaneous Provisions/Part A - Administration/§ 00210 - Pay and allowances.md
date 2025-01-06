@@ -8,7 +8,7 @@
 
 #### (b) Purchase of supplies
 
-Commissioned officers on active duty and retired officers entitled to retired pay pursuant tosection 211(g)(3), 212, or 213a(a) of this title, shall be permitted to purchase supplies from the Army, Navy, Air Force, and Marine Corps at the same price as is charged officers thereof.
+Commissioned officers on active duty and retired officers entitled to retired pay pursuant to section 211(g)(3), 212, or 213a(a) of this title, shall be permitted to purchase supplies from the Army, Navy, Air Force, and Marine Corps at the same price as is charged officers thereof.
 
 #### (c) Members of national advisory or review councils or committees
 
@@ -24,7 +24,7 @@ Any civilian employee of the Service who is employed at the Gillis W. Long Hanse
 
 #### (f) Allowances included in fellowships
 
-Individuals appointed under section 209(g) of this title shall have included in their fellowships such stipends or allowances, including travel and subsistence expenses, as the Surgeon General may deem necessary to procure qualified fellows.
+Individuals appointed under section 209(g) of this title shall have included in their fellowshipssuch stipends or allowances, including travel and subsistence expenses, as the Surgeon General may deem necessary to procure qualified fellows.
 
 #### (g) Positions in professional, scientific and executive service; compensation; appointment
 

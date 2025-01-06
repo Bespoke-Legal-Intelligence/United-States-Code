@@ -42,7 +42,7 @@ In general.—The exceptions under paragraph (1) may not be applied—
 
 &emsp;&emsp;(B)
 
-Medical request.—Notwithstanding paragraph (1), upon the request of a healthcare professional who is responsible for the health and safety of a prisoner, a corrections official or United States marshal, as applicable, shall refrain from using restraints on the prisoner or shall remove restraints used on the prisoner.
+Medical request.—Notwithstanding paragraph (1), upon the request of ahealthcare professional who is responsible for the health and safety of a prisoner, a corrections official or United States marshal, as applicable, shall refrain from using restraints on the prisoner or shall remove restraints used on the prisoner.
 
 (c)
 

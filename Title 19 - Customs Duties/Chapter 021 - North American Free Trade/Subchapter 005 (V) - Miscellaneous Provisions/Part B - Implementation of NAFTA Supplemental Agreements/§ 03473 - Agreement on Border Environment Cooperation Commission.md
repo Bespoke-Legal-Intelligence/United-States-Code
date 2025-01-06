@@ -8,7 +8,7 @@
 
 #### (2) Contributions to the Commission budget
 
-&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $5,000,000 for fiscal year 1994and each fiscal year thereafter for United States contributions to the budget of the Border Environment Cooperation Commission pursuant to section 7 of Article III of Chapter I of the Border Environment Cooperation Agreement. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
+&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $5,000,000 for fiscal year 1994 and each fiscal year thereafter for United States contributions to the budget of the Border Environment Cooperation Commission pursuant to section 7 of Article III of Chapter I of the Border Environment Cooperation Agreement. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
 
 #### (b) Civil actions involving Commission
 
@@ -62,7 +62,7 @@ Sec. 3. For purposes of loans, guarantees, or grants endorsed by the United Stat
 
 Sec. 4. The functions vested in the President by section 543(a)(1) of the NAFTA Implementation Act \[22 U.S.C. 290m–2(a)(1)\] are delegated to the Secretary of the Treasury.
 
-Sec. 5. The functions vested in the President by section 543(a)(2) and (3) of the NAFTA Implementation Act are delegated to the Secretary of the Treasury, who shall exercise such functions in accordance with therecommendations of the Community Adjustment and Investment Program Finance Committee established pursuant to section 7 of this order.
+Sec. 5. The functions vested in the President by section 543(a)(2) and (3) of the NAFTA Implementation Act are delegated to the Secretary of the Treasury, who shall exercise such functions in accordance with the recommendations of the Community Adjustment and Investment Program Finance Committee established pursuant to section 7 of this order.
 
 Sec. 6. The functions vested in the President by section 543(a)(5) and section 543(d) of the NAFTA Implementation Act are delegated to the Community Adjustment and Investment Program Finance Committee established pursuant to section 7 of this order, which shall exercise such functions in consultation with the Community Adjustment and Investment Program Advisory Committee ("Advisory Committee") established pursuant to section 543(b) of the NAFTA Implementation Act.
 

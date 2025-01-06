@@ -116,7 +116,7 @@ In paragraph (1), the sentence "Nothing in this Act shall be construed to repeal
 
 In paragraph (1)(G), the words "or naval" are omitted as included in "military".
 
-In paragraph (1)(H), the words "functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947" are omitted as executed. Reference to the "Selective Training and Service Act of 1940" is omitted as that Act expired Mar. 31, 1947. Reference to the "Sugar Control Extension Act of 1947" is omitted as that Act expired on Mar. 31, 1948. References to the "Housing and Rent Act of 1947, as amended" and the "Veterans' Emergency Housing Act of 1946" have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Act provides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
+In paragraph (1)(H), the words "functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947" are omitted as executed. Reference to the "Selective Training and Service Act of 1940" is omitted as that Act expired Mar. 31, 1947. Reference to the "Sugar Control Extension Act of 1947" is omitted as that Act expired on Mar. 31, 1948. References to the "Housing and Rent Act of 1947, as amended" and the "Veterans' Emergency Housing Act of 1946" have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Actprovides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
 
 In paragraph (2), the words "of any character" are omitted as surplusage.
 
@@ -200,7 +200,7 @@ Discretionary Administrative Actions.—
 
 &emsp;"(1)
 
-In general.—Before an agency may finalize any covered discretionary administrative action, thehead of the agency shall submit to the Director for review written notice regarding the covered discretionary administrative action, which shall include an estimate of the budgetary effects of the covered discretionary administrative action.
+In general.—Before an agency may finalize any covered discretionary administrative action, the head of the agency shall submit to the Director for review written notice regarding the covered discretionary administrative action, which shall include an estimate of the budgetary effects of the covered discretionary administrative action.
 
 &emsp;"(2)
 
@@ -324,7 +324,7 @@ Ex. Ord. No. 13992, Jan. 20, 2021, 86 F.R. 7049, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered that:
 
-Section 1. <i>Policy</i>. It is the policy of my Administration to use available tools to confront the urgent challenges facing the Nation, including the coronavirus disease 2019 (COVID–19) pandemic, economic recovery, racial justice, and climate change. To tackle these challenges effectively, executive departments and agencies (agencies) must be equipped with the flexibility to userobust regulatory action to address national priorities. This order revokes harmful policies and directives that threaten to frustrate the Federal Government's ability to confront these problems, and empowers agencies to use appropriate regulatory tools to achieve these goals.
+Section 1. <i>Policy</i>. It is the policy of my Administration to use available tools to confront the urgent challenges facing the Nation, including the coronavirus disease 2019 (COVID–19) pandemic, economic recovery, racial justice, and climate change. To tackle these challenges effectively, executive departments and agencies (agencies) must be equipped with the flexibility to use robust regulatory action to address national priorities. This order revokes harmful policies and directives that threaten to frustrate the Federal Government's ability to confront these problems, and empowers agencies to use appropriate regulatory tools to achieve these goals.
 
 Sec. 2. <i>Revocation of Orders</i>. Executive Order 13771 of January 30, 2017 (Reducing Regulation and Controlling Regulatory Costs) \[former 5 U.S.C. 601 note\], Executive Order 13777 of February 24, 2017 (Enforcing the Regulatory Reform Agenda) \[former 5 U.S.C. 601 note\], Executive Order 13875 of June 14, 2019 (Evaluating and Improving the Utility of Federal Advisory Committees) \[former 5 U.S.C. App. note\], Executive Order 13891 of October 9, 2019 (Promoting the Rule of Law Through Improved Agency Guidance Documents) \[former 5 U.S.C. 601 note\], Executive Order 13892 of October 9, 2019 (Promoting the Rule of Law Through Transparency and Fairness in Civil Administrative Enforcement and Adjudication) \[formerly set out above\], and Executive Order 13893 of October 10, 2019 (Increasing Government Accountability for Administrative Actions by Reinvigorating Administrative PAYGO) \[former 5 U.S.C. 601 note\], are hereby revoked.
 

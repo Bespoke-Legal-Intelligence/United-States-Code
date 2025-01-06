@@ -224,7 +224,7 @@ Subsec. (h)(5)(B). Pub. L. 112–95, §414(c)(2), amended subpar. (B) generally.
 
 Subsec. (j). Pub. L. 112–95, §414(d), substituted ", except through an air carrier merger or acquisition." for period at end.
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end "; except that the Secretaryshall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots".
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end "; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots".
 
 Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
 

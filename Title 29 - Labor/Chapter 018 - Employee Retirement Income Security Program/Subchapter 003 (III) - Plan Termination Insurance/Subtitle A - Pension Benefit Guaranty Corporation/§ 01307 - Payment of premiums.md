@@ -6,7 +6,7 @@ The designated payor of each plan shall pay the premiums imposed by the corporat
 
 #### (b) Late payment charge; waiver; interest on overpayment
 
-(1) If any basic benefit premium is not paid when it is due the corporation is authorized to assess a late payment charge of not more than 100 percent of the premium payment which was not timely paid. The preceding sentence shall not apply to any payment of premium made within 60 days after the date on which payment is due, if before such date, the designated payor obtains a waiver from the corporation based upon a showing of substantial hardship arising from the timely payment of the premium. The corporation is authorized to grant a waiver under this subsection upon application made by the designated payor, but the corporation may not grant a waiver if it appears that the designated payor will be unable to pay the premium within 60 days after the date on which it is due. If any premium is not paid by the last date prescribed for a payment, interest on the amount of such premium at the rate imposed under section6601(a) of title 26 (relating to interest on underpayment, nonpayment, or extensions of time for payment of tax) shall be paid for the period from such last date to the date paid.
+(1) If any basic benefit premium is not paid when it is due the corporation is authorized to assess a late payment charge of not more than 100 percent of the premium payment which was not timely paid. The preceding sentence shall not apply to any payment of premium made within 60 days after the date on which payment is due, if before such date, the designated payor obtains a waiver from the corporation based upon a showing of substantial hardship arising from the timely payment of the premium. The corporation is authorized to grant a waiver under this subsection upon application made by the designated payor, but the corporation may not grant a waiver if it appears that the designated payor will be unable to pay the premium within 60 days after the date on which it is due. If any premium is not paid by the last date prescribed for a payment, interest on the amount of such premium at the rate imposed under section 6601(a) of title 26 (relating to interest on underpayment, nonpayment, or extensions of time for payment of tax) shall be paid for the period from such last date to the date paid.
 
 (2) The corporation is authorized to pay, subject to regulations prescribed by the corporation, interest on the amount of any overpayment of premium refunded to a designated payor. Interest under this paragraph shall be calculated at the same rate and in the same manner as interest is calculated for underpayments under paragraph (1).
 
@@ -52,7 +52,7 @@ Pub. L. 109–280, title IV, §406(b), Aug. 17, 2006, 120 Stat. 929, provided th
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1987 Amendment
 

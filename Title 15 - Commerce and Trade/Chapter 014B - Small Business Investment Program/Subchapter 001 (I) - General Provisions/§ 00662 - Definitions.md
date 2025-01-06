@@ -122,7 +122,7 @@ As used in this chapter—
 
 For definition of "this chapter", referred to in text, see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in par. (5), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term "small-business concern" is defined in section 632 of this title.
+The Small Business Act, referred to in par. (5), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 631 of this title and Tables. The term "small-business concern" is defined in section 632 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 

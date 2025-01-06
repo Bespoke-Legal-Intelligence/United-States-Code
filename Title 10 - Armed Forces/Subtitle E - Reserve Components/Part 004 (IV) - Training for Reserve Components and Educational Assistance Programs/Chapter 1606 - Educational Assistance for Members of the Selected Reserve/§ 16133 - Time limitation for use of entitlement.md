@@ -6,7 +6,7 @@
 
 &emsp;(A) who is separated from the Selected Reserve because of a disability which was not the result of the individual's own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter; or
 
-&emsp;(B) who, on or after the date on which such person became entitled to educational assistance under this chapter ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on December 31, 2001, or the period beginning on October 1, 2007, and ending on September 30, 2014,by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 10143(a) of this title,
+&emsp;(B) who, on or after the date on which such person became entitled to educational assistance under this chapter ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on December 31, 2001, or the period beginning on October 1, 2007, and ending on September 30, 2014, by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 10143(a) of this title,
 
 > the period for using entitlement prescribed by subsection (a) shall be determined without regard to clause (2) of such subsection.
 

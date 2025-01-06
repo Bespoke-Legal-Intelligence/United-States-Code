@@ -8,7 +8,7 @@
 | [254\.](%C2%A7%2000254%20-%20Certificate%20of%20correction%20of%20Patent%20and%20Trademark%20Office%20mistake.md) | Certificate of correction of Patent and Trademark Office mistake. |
 | [255\.](%C2%A7%2000255%20-%20Certificate%20of%20correction%20of%20applicant%27s%20mistake.md) | Certificate of correction of applicant's mistake. |
 | [256\.](%C2%A7%2000256%20-%20Correction%20of%20named%20inventor.md) | Correction of named inventor. |
-| [257\.](%C2%A7%2000257%20-%20Supplemental%20examinations%20to%20consider%2C%20reconsider%2C%20or%20correct%20information.md) | Supplemental examinations to consider, reconsider, or correct information. |
+| [257\.](%C2%A7%2000257%20-%20Supplemental%20examinations%20to%20consider%2C%20reconsider%2C%20or%20correct%20information.md) | Supplemental examinations to consider, reconsider, or correct information.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,7 +18,7 @@
 
 <b>2011</b>—Pub. L. 112–29, §12(b), Sept. 16, 2011, 125 Stat. 327, added item 257.
 
-<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted "Correction ofnamed inventor" for "Misjoinder of inventor" in item 256.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted "Correction of named inventor" for "Misjoinder of inventor" in item 256.
 
 <b>1975</b>—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted "Patent and Trademark Office" for "Patent Office" in item 254.
 

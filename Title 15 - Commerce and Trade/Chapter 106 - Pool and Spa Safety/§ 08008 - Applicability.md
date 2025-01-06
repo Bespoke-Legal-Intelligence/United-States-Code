@@ -1,6 +1,6 @@
 ### §8008. Applicability
 
-This chapter <sup>1</sup> is applicable to the United States and its territories, including AmericanSamoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+This chapter <sup>1</sup> is applicable to the United States and its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
 (Pub. L. 110–140, title XIV, §1409, as added Pub. L. 110–314, title II, §238(3), Aug. 14, 2008, 122 Stat. 3076.)
 

@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Before initiating any action in a court or other administrative or regulatory proceeding against any covered person as authorized by subsection (a) to enforce any provision of this title,<sup>1</sup> including any regulation prescribed by the Bureau under thistitle,<sup>1</sup> a State attorney general or State regulator shall timely provide a copy of the complete complaint to be filed and written notice describing such action or proceeding to the Bureau and the prudential regulator, if any, or the designee thereof.
+&emsp;&emsp;Before initiating any action in a court or other administrative or regulatory proceeding against any covered person as authorized by subsection (a) to enforce any provision of this title,<sup>1</sup> including any regulation prescribed by the Bureau under this title,<sup>1</sup> a State attorney general or State regulator shall timely provide a copy of the complete complaint to be filed and written notice describing such action or proceeding to the Bureau and the prudential regulator, if any, or the designee thereof.
 
 #### (B) Emergency action
 
@@ -72,7 +72,7 @@ The Bureau shall prescribe regulations to implement the requirements of this sec
 
 #### (3) State insurance regulators
 
-&emsp;No provision of this title <sup>1</sup> shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
+&emsp;No provision of this title <sup>1</sup> shall be construed as altering, limiting, or affecting the authority of a State insurance commission or Stateinsurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
 
 (Pub. L. 111–203, title X, §1042, July 21, 2010, 124 Stat. 2012.)
 

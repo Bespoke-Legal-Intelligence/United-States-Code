@@ -64,7 +64,7 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (A) Transfer of functions
 
-&emsp;&emsp;The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title <sup>1</sup> shall be construed torequire a mandatory transfer of any employee of the Federal Trade Commission.
+&emsp;&emsp;The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title <sup>1</sup> shall be construed to require a mandatory transfer of any employee of the Federal Trade Commission.
 
 #### (B) Bureau authority
 
@@ -158,7 +158,7 @@ Subsections (b) and (c) shall become effective on the designated transfer date.
 
 #### References in Text
 
-This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer FinancialProtection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (b)(5)(B)(ii), (C), (E)(i), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 

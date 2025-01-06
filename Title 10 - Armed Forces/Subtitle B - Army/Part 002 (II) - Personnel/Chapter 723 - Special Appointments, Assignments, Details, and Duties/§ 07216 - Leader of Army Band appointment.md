@@ -56,5 +56,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 

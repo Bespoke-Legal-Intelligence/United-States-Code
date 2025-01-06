@@ -46,7 +46,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 (1) The programs, activities, receipts, expenditures, and financial transactions of the corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the Government Accountability Office shall have access to such books, accounts, financial records, reports, files, and such other papers, things, or property belonging to or in use by the corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The corporation shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General.
 
-(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the corporation or any auditor for an audit of the corporation under subsection (l), to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the corporation and used in any suchaudit and to any papers, records, files, and reports of the auditor used in such an audit.
+(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the corporation or any auditor for an audit of the corporation under subsection (l), to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
 
 #### (k) Financial reports; submission to Director; contents
 
@@ -236,7 +236,7 @@ Subsec. (h). Pub. L. 90–448, §802(ee), added subsec. (h).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1974 Amendment
 
@@ -250,7 +250,7 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-#### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, Etc.
+#### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, etc.
 
 Pub. L. 96–399, title III, §330, Oct. 8, 1980, 94 Stat. 1652, provided that: "If the Federal National Mortgage Association submits to the Secretary of Housing and Urban Development or the Secretary of the Treasury, after the date of enactment of this section \[Oct. 8, 1980\], a proposal with respect to undertaking a mortgage-backed securities program, the Secretary of Housing and Urban Development or the Secretary of the Treasury, as the case may be, shall, within 90 days after submission of such proposal, approve the proposal or transmit to the Congress a report explaining why the proposal has not been approved."
 

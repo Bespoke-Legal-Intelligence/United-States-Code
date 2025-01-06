@@ -122,7 +122,7 @@ In general.—The Assistant Secretary of Defense for Health Affairs shall be the
 
 &emsp;"(2)
 
-Resources.—The Assistant Secretary of Defense for Health Affairs shall leverage the resources of the Defense Health Agency for execution of the pilot program under subsection (a) and shall coordinate with the Chairman of the Joint Chiefs of Staff for the duration of the pilot program, including forthe duration of any period of design or planning for the pilot program.
+Resources.—The Assistant Secretary of Defense for Health Affairs shall leverage the resources of the Defense Health Agency for execution of the pilot program under subsection (a) and shall coordinate with the Chairman of the Joint Chiefs of Staff for the duration of the pilot program, including for the duration of any period of design or planning for the pilot program.
 
 "(d)
 

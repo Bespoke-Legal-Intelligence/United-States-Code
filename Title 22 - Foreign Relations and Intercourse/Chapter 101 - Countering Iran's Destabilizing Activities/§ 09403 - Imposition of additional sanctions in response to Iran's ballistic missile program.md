@@ -30,7 +30,7 @@ The sanctions described in this subsection are the following:
 
 #### (2) Exclusion from United States
 
-&emsp;The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shallexclude from the United States, any person subject to subsection (b) that is an alien.
+&emsp;The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, any person subject to subsection (b) that is an alien.
 
 #### (d) Penalties
 

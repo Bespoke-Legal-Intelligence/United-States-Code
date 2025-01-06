@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall not be includible in the gross income of the employer for such taxable year, but
 
-&emsp;&emsp;&emsp;&emsp;(II) shall be treated as an employer reversion for purposes of section 4980\(without regard to subsection (d) thereof).
+&emsp;&emsp;&emsp;&emsp;(II) shall be treated as an employer reversion for purposes of section 4980 (without regard to subsection (d) thereof).
 
 #### (C) Ordering rule
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (B) Reductions for amounts previously set aside
 
-&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced by the amount (determined separately for applicable health benefits and applicable life insurance benefits) which bears the same ratio to such amount as—
+&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced by the amount\(determined separately for applicable health benefits and applicable life insurance benefits) which bears the same ratio to such amount as—
 
 &emsp;&emsp;&emsp;(i) the value (as of the close of the plan year preceding the year of the qualified transfer) of the assets in all health benefits accounts or applicable life insurance accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the qualified current retiree liability, bears to
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) by treating any reference in this section to an employer as a reference to all employers maintaining the plan (or, if appropriate, the plan sponsor), and
 
-&emsp;&emsp;(B) in accordance with such modifications of this section (and the provisions of thistitle relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
+&emsp;&emsp;(B) in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
 
 #### (7) Special rule for de minimis transfers
 
@@ -304,7 +304,7 @@ For purposes of this section—
 
 #### (iii) Collectively bargained employer cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "collectively bargained employer cost" means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is provided or financed by a government program or other source.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "collectively bargained employer cost" means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in thecollectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is provided or financed by a government program or other source.
 
 #### (E) Special rules for collectively bargained transfers
 
@@ -546,7 +546,7 @@ Subsec. (f)(2)(D)(ii). Pub. L. 112–141, §40242(c)(2)(F), inserted "with respe
 
 Subsec. (f)(2)(D)(iii). Pub. L. 112–141, §40242(c)(2)(G), struck out "retiree" before "health benefits" in two places and inserted ", collectively bargained life insurance benefits, or both, as the case may be," after "health benefits" in two places.
 
-Subsec. (f)(2)(E)(i)(III). Pub. L. 112–141, §40242(e)(9), inserted "defined benefit" before "plan maintained by anemployer" and "health" before "benefit plans maintained by the employer".
+Subsec. (f)(2)(E)(i)(III). Pub. L. 112–141, §40242(e)(9), inserted "defined benefit" before "plan maintained by an employer" and "health" before "benefit plans maintained by the employer".
 
 Subsec. (f)(2)(E)(ii). Pub. L. 112–141, §40242(e)(2), inserted ", or an applicable life insurance account," after "a health benefits account".
 
@@ -578,7 +578,7 @@ Subsec. (f)(6)(C)(ii). Pub. L. 112–141, §40242(b)(3)(B)(ii)(IV), substituted 
 
 Subsec. (f)(6)(D). Pub. L. 112–141, §40242(b)(3)(A), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (f)(6)(E). Pub. L. 112–141, §40242(e)(13), struck out "health" after "bargained" in heading, substituted "bargained" for "bargained health", and inserted ", or a group-term life insurance plan or arrangement for retired employees," after "dependents".
+Subsec. (f)(6)(E). Pub. L. 112–141, §40242(e)(13), struck out "health" after "bargained" in heading, substituted"bargained" for "bargained health", and inserted ", or a group-term life insurance plan or arrangement for retired employees," after "dependents".
 
 Pub. L. 112–141, §40242(b)(3)(A), redesignated subpar. (D) as (E).
 
@@ -668,7 +668,7 @@ Pub. L. 112–141, div. D, title II, §40242(h), July 6, 2012, 126 Stat. 864, pr
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section, section 79 of this title, and section 1021 of Title 29, Labor\] shall apply to transfers made after the date of the enactment of this Act \[July 6, 2012\].
+In general.—The amendments made by this section \[amending this section, section 79 of this title, andsection 1021 of Title 29, Labor\] shall apply to transfers made after the date of the enactment of this Act \[July 6, 2012\].
 
 "(2)
 
@@ -734,5 +734,5 @@ Waiver of estimated tax penalties.—No addition to tax shall be made under sect
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGCsettlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 

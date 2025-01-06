@@ -4,3 +4,45 @@ In addition to other training requirements, each air carrier shall provide train
 
 (Added Pub. L. 115–254, div. B, title IV, §408(a), Oct. 5, 2018, 132 Stat. 3330.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Airport Human Trafficking Prevention Grants
+
+Pub. L. 118–63, title VII, §774A, May 16, 2024, 138 Stat. 1299, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall establish a grant program to provide grants to airports described in subsection (b)(1) to address human trafficking awareness, education, and prevention efforts, including by—
+
+&emsp;"(1) coordinating human trafficking prevention efforts across multimodal transportation operations within a community; and
+
+&emsp;"(2) accomplishing the best practices and recommendations provided by the Department of Transportation Advisory Committee on Human Trafficking.
+
+"(b)
+
+Distribution.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall distribute amounts made available for grants under this section to—
+
+&emsp;&emsp;"(A) the 75 airports in the United States with the highest number of passenger enplanements annually, based on the most recent data available; and
+
+&emsp;&emsp;"(B) as the Secretary determines to be appropriate, an airport not described in subparagraph (A) that serves an area with a high prevalence of human trafficking, on application of the airport.
+
+&emsp;"(2)
+
+Priority; considerations.—In distributing amounts made available for grants under this section, the Secretary shall—
+
+&emsp;&emsp;"(A) give priority in grant amounts to airports referred to in paragraph (1) that serve regions with a higher prevalence of human trafficking; and
+
+&emsp;&emsp;"(B) take into consideration the effect the amounts would have on surrounding areas.
+
+&emsp;"(3)
+
+Consultation.—In distributing amounts made available for grants under this section, the Secretary shall consult with the Department of Transportation Advisory Committee on Human Trafficking in determining the amounts to be distributed to each grant recipient to ensure the best use of the funds.
+
+"(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2025 through 2028."
+

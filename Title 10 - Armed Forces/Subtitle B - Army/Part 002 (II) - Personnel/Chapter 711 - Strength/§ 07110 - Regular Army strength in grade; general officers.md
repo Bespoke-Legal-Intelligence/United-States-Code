@@ -152,7 +152,7 @@ Pub. L. 97–22, which directed amendment of subsec. (a) by striking out ", exc
 
 Subsec. (b). Pub. L. 96–513, §502(5)(A), (C), substituted "active-duty list" for "active list" wherever appearing and substituted paragraphed references to "(1) each corps of the Army Medical Department" and "(2) the Chaplains" for former paragraphed references to "(1) The Medical Corps", "(2) the Dental Corps", "(3) the Veterinary Corps", and "(4) the Chaplains".
 
-Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
+Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under theUnited States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service" in two places.
 

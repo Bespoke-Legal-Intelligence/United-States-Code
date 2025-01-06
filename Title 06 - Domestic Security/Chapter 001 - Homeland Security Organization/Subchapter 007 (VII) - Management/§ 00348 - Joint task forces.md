@@ -34,7 +34,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may not establish a Joint Task Force for any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title, unless the responsibilities of such a Joint Task Force—
+&emsp;&emsp;&emsp;The Secretary may not establish a Joint Task Force for any major disaster oremergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title, unless the responsibilities of such a Joint Task Force—
 
 &emsp;&emsp;&emsp;&emsp;(I) do not include operational functions related to incident management, including coordination of operations; and
 
@@ -102,7 +102,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (D) Consideration of impact
 
-&emsp;&emsp;When reviewing requests for allocation of component personnel and equipment under subparagraph (A), the Secretary shall consider the impact of such allocation on the ability of the donating component or office to carry out the primary missions of the Department, and in the case of the Coast Guard, the missions specified in section 468 of this title.
+&emsp;&emsp;When reviewing requests for allocation of component personnel and equipment undersubparagraph (A), the Secretary shall consider the impact of such allocation on the ability of the donating component or office to carry out the primary missions of the Department, and in the case of the Coast Guard, the missions specified in section 468 of this title.
 
 #### (E) Limitation
 
@@ -144,17 +144,25 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 &emsp;&emsp;&emsp;(i) the mission, strategic goals, and objectives of each Joint Task Force;
 
-&emsp;&emsp;&emsp;(ii) the criteria for terminating each Joint Task Force; and
+&emsp;&emsp;&emsp;(ii) the criteria for terminating each Joint Task Force;
 
 &emsp;&emsp;&emsp;(iii) outcome-based and other appropriate performance metrics for evaluating the effectiveness of each Joint Task Force with respect to the mission, strategic goals, and objectives established pursuant to clause (i), including—
 
 &emsp;&emsp;&emsp;&emsp;(I) targets for each Joint Task Force to achieve by not later than one and three years after such establishment; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a description of the methodology used to establish such metrics;
+&emsp;&emsp;&emsp;&emsp;(II) a description of the methodology used to establish such metrics; and
+
+&emsp;&emsp;&emsp;(iv) a staffing plan for each Joint Task Force;
 
 &emsp;&emsp;(B) not later than 120 days after December 23, 2022, and 120 days after the establishment of a new Joint Task Force, as appropriate, submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate the mission, strategic goals, objectives, and metrics established under subparagraph (A); and
 
-&emsp;&emsp;(C) not later than one year after December 23, 2022, and annually thereafter, submit to the committees specified in subparagraph (B) a report that contains information on the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii).
+&emsp;&emsp;(C) not later than December 23, 2024, and annually thereafter, submit to the committees specified in subparagraph (B) a report containing information regarding—
+
+&emsp;&emsp;&emsp;(i) the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii);
+
+&emsp;&emsp;&emsp;(ii) the staffing plan developed for each Joint Task Force pursuant to subparagraph (A)(iv); and
+
+&emsp;&emsp;&emsp;(iii) any modification to the mission, strategic goals, and objectives of each Joint Task Force, and a description of, and rationale for, any such modifications.
 
 #### (10) Joint duty training program
 
@@ -252,17 +260,17 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 &emsp;&emsp;&emsp;(i) an assessment of methodology utilized to determine whether to establish or terminate each Joint Task Force; and
 
-&emsp;&emsp;&emsp;(ii) an assessment of the effectiveness of oversight over each Joint Task Force, with specificity regarding the Secretary's utilization of outcome-based or other appropriate performance metrics (established pursuant to paragraph (9)(A)(iii)) to evaluate the effectiveness of each Joint Task Force in measuring progress with respect to the mission, strategic goals, and objectives (established pursuant to paragraph (9)(A)(i)) of such Joint Task Force.
+&emsp;&emsp;&emsp;(ii) an assessment of the effectiveness of oversight over each Joint Task Force, withspecificity regarding the Secretary's utilization of outcome-based or other appropriate performance metrics (established pursuant to paragraph (9)(A)(iii)) to evaluate the effectiveness of each Joint Task Force in measuring progress with respect to the mission, strategic goals, and objectives (established pursuant to paragraph (9)(A)(i)) of such Joint Task Force.
 
 #### (13) Sunset
 
-&emsp;This section expires on September 30, 2024.
+&emsp;This section expires on September 30, 2026.
 
 #### (c) Joint duty assignment program
 
 After establishing the joint duty training program under subsection (b)(10), the Secretary shall establish a joint duty assignment program within the Department for the purposes of enhancing coordination in the Department and promoting workforce professional development.
 
-(Pub. L. 107–296, title VII, §708, as added Pub. L. 114–328, div. A, title XIX, §1901(b), Dec. 23, 2016, 130 Stat. 2665; amended Pub. L. 117–263, div. G, title LXXI, §7111(b), Dec. 23, 2022, 136 Stat. 3625.)
+(Pub. L. 107–296, title VII, §708, as added Pub. L. 114–328, div. A, title XIX, §1901(b), Dec. 23, 2016, 130 Stat. 2665; amended Pub. L. 117–263, div. G, title LXXI, §7111(b), Dec. 23, 2022, 136 Stat. 3625; Pub. L. 118–103, §2(a), Oct. 1, 2024, 138 Stat. 1584.)
 
 #### <b>Editorial Notes</b>
 
@@ -272,7 +280,13 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b)(8). Pub. L. 117–263, §7111(b)(1), amended par. (8) generally. Prior to amendment, textread as follows: "Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force."
+<b>2024</b>—Subsec. (b)(9)(A)(iv). Pub. L. 118–103, §2(a)(1)(A), added cl. (iv).
+
+Subsec. (b)(9)(C). Pub. L. 118–103, §2(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "not later than one year after December 23, 2022, and annually thereafter, submit to the committees specified in subparagraph (B) a report that contains information on the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii)."
+
+Subsec. (b)(13). Pub. L. 118–103, §2(a)(2), substituted "2026" for "2024".
+
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–263, §7111(b)(1), amended par. (8) generally. Prior to amendment, text read as follows: "Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force."
 
 Subsec. (b)(9). Pub. L. 117–263, §7111(b)(2)(A), substituted "Mission; establishment" for "Establishment" in heading.
 
@@ -299,6 +313,34 @@ Subsec. (b)(12)(B)(i), (ii). Pub. L. 117–263, §7111(b)(4)(B)(ii), amended cls
 Subsec. (b)(13). Pub. L. 117–263, §7111(b)(5), substituted "2024" for "2022".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Annual Briefing
+
+Pub. L. 118–103, §2(b), Oct. 1, 2024, 138 Stat. 1584, provided that:
+
+"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Oct. 1, 2024\], and annually thereafter, the Secretary of Homeland Security shall brief—
+
+&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;"(B) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;"(C) the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;"(D) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+"(2)
+
+Topics.—Each briefing required under paragraph (1) shall cover the latest staffing and resource assessment at Joint Task Force-East, including—
+
+&emsp;"(A)(i) a determination of whether the current staffing levels of Joint Task Force-East are sufficient to successfully advance the mission, strategic goals, and objectives of such Joint Task Force; and
+
+&emsp;"(ii) if such determination reveals insufficient staffing levels, the cost, timeline, and strategy for increasing such staffing levels; and
+
+&emsp;"(B)(i) a determination of whether sufficient resources are being provided for Joint Task Force-East in accordance with section 708(b)(7)(a) of the Homeland Security Act of 2002 (6 U.S.C. 348(b)(7)(a)); and
+
+&emsp;"(ii) if such determination reveals insufficient resource levels, the cost, timeline, and strategy for providing any remaining resource requirements."
 
 #### Transition Provisions
 

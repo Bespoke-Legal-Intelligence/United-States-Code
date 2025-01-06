@@ -2,7 +2,7 @@
 
 Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a study and report that includes—
 
-&emsp;(1) a comprehensive inventory of all Government owned uranium or uranium equivalents,including natural uranium, depleted tailings, low-enriched uranium, and highly enriched uranium available for conversion to commercial use;
+&emsp;(1) a comprehensive inventory of all Government owned uranium or uranium equivalents, including natural uranium, depleted tailings, low-enriched uranium, and highly enriched uranium available for conversion to commercial use;
 
 &emsp;(2) a plan for the conversion of inventories of foreign and domestic highly enriched uranium to low-enriched uranium for commercial use;
 

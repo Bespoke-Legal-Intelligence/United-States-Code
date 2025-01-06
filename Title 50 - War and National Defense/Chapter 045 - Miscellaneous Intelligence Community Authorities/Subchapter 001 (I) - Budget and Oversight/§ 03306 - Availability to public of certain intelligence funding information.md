@@ -12,7 +12,7 @@ Not later than 30 days after the end of each fiscal year, the Director of Nation
 
 #### (1) In general
 
-&emsp;The President may waive or postpone the disclosure required by subsection (a) or (b) for a fiscal year by submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
+&emsp;The President may waive or postpone the disclosure required by subsection (a) or (b) fora fiscal year by submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
 
 &emsp;&emsp;(A) a statement, in unclassified form, that the disclosure required in subsection (a) or (b) for that fiscal year would damage national security; and
 

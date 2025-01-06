@@ -152,7 +152,7 @@ Limitation of compensation of individuals employed as attorneys.—No funds avai
 
 &emsp;(2)
 
-Reimbursements paid to governmental entities.—Funds available to the Attorney General that are paid as reimbursement to a governmental unit of the Department of Justice, to another Federal entity, or to a unit ofState or local government, may be used under authorities available to the unit or entity receiving such reimbursement.
+Reimbursements paid to governmental entities.—Funds available to the Attorney General that are paid as reimbursement to a governmental unit of the Department of Justice, to another Federal entity, or to a unit of State or local government, may be used under authorities available to the unit or entity receiving such reimbursement.
 
 (d)
 

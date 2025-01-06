@@ -66,7 +66,7 @@ Not later than 1 year after March 25, 2020, and every 5 years thereafter, the As
 
 #### (2) Data and records
 
-&emsp;The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as theAssistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
+&emsp;The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as the Assistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
 
 #### (3) Reports
 
@@ -134,7 +134,7 @@ Not later than 1 year after March 25, 2020, the Assistant Secretary, in consulta
 
 #### References in Text
 
-The RAISE Family Caregivers Act, referred to in subsec. (j), is Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, alsoknown as the Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017, which is set out as a note under section 3030s of this title.
+The RAISE Family Caregivers Act, referred to in subsec. (j), is Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, also known as the Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017, which is set out as a note under section 3030s of this title.
 
 #### Amendments
 
@@ -172,7 +172,7 @@ Subsec. (c)(2). Pub. L. 109–365, §321(2)(B), added par. (2) and struck out fo
 
 Subsec. (d). Pub. L. 109–365, §321(3), amended subsec. (d) generally. Prior to amendment, text read as follows: "In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntary organizations providing the types of services described in subsection (b) of this section."
 
-Subsec. (e)(3). Pub. L. 109–365, §321(4), inserted at end "The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities."
+Subsec. (e)(3). Pub. L. 109–365, §321(4), inserted at end "The reports shall describe any mechanisms used in theState to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities."
 
 Subsec. (f)(1)(A). Pub. L. 109–365, §321(5), substituted "2007, 2008, 2009, 2010, and 2011" for "2001 through 2005".
 

@@ -14,7 +14,7 @@
 
 #### (B) Exemption for previously taxed fuel
 
-&emsp;&emsp;No tax shall be imposed by this paragraph on the sale or use of any liquid if tax was imposed on such liquid under section 4081 (other than such tax at the Leaking Underground Storage Tank Trust Fund financingrate) and the tax thereon was not credited or refunded.
+&emsp;&emsp;No tax shall be imposed by this paragraph on the sale or use of any liquid if tax was imposed on such liquid under section 4081 (other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate) and the tax thereon was not credited or refunded.
 
 #### (C) Rate of tax
 
@@ -106,7 +106,7 @@
 
 #### (B) Tax where other use
 
-&emsp;&emsp;If a liquid on which no tax was imposed by reason of subparagraph (A) is used otherwisethan in an off-highway business use, a tax shall be imposed by paragraph (1)(B), (2)(B), or (3)(A)(ii) of subsection (a) (whichever is appropriate) and by the corresponding provision of subsection (d)(1) (if any).
+&emsp;&emsp;If a liquid on which no tax was imposed by reason of subparagraph (A) is used otherwise than in an off-highway business use, a tax shall be imposed by paragraph (1)(B), (2)(B), or (3)(A)(ii) of subsection (a) (whichever is appropriate) and by the corresponding provision of subsection (d)(1) (if any).
 
 #### (C) Off-highway business use defined
 
@@ -268,7 +268,7 @@ No tax shall be imposed under this section on any liquid sold for use in, or use
 
 &emsp;The term "partially exempt methanol or ethanol fuel" means any liquid at least 85 percent of which consists of methanol, ethanol, or other alcohol produced from natural gas.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 478; Mar. 30, 1955, ch. 18, §3(a)(1), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(1), 70 Stat. 66; Apr. 2, 1956, ch. 160, §2(a)(1), 70 Stat. 89; June 29, 1956, ch. 462, title II, §202, 70 Stat. 387; Pub. L. 85–859, title I, §119(b)(1), Sept. 2, 1958, 72 Stat. 1286; Pub. L. 86–342, title II, §201(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(a), (c), (d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 89–44, title VIII, §802(a)(2), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §202, May 21, 1970, 84 Stat. 237; Pub. L. 91–605, title III, §303(a)(1), (2), Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–280, title III, §303(a)(1), (2), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(a)(1)(B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1810, 1811, 1834; Pub. L. 94–530, §1(a), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §502(a)(1), (b), Nov. 6, 1978, 92 Stat. 2756, 2757; Pub. L. 95–600, title VII, §703(l)(1), (2), Nov. 6,1978, 92 Stat. 2942; Pub. L. 95–618, title II, §§221(b)(1), 222(a)(2), 233(a)(3)(B), Nov. 9, 1978, 92 Stat. 3185, 3187, 3191; Pub. L. 96–223, title II, §232(a)(2), Apr. 2, 1980, 94 Stat. 273; Pub. L. 96–298, §1(a), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §279(a), (b)(1), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(a)(2), (b)(1), (c)(2), (d)(2), (g)(1), 516(a)(1), (b)(1), Jan. 6, 1983, 96 Stat. 2169–2171, 2173, 2182, 2183; Pub. L. 98–369, div. A, title IX, §§911(a), 912(a), 913(a), title X, §1018(a), July 18, 1984, 98 Stat. 1005, 1007, 1008, 1021; Pub. L. 99–499, title V, §521(a)(2), (d)(1)–(3), Oct. 17, 1986, 100 Stat. 1776, 1779; Pub. L. 99–514, title IV, §422(a)(1), (2), title XVII, §1702(a), title XVIII, §1878(c)(1), Oct. 22, 1986, 100 Stat. 2229, 2773, 2903; Pub. L. 100–17, title V, §502(a)(1), (b)(1)–(3), (c)(1), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(b), Dec. 22, 1987, 101 Stat. 1330–441; Pub. L. 100–223, title IV, §§402(b), 404(b), 405(b)(3), Dec. 30, 1987, 101 Stat. 1532, 1533, 1535; Pub. L. 100–647, title I, §1017(c)(3), (4), title II, §2001(d)(2), (3)(A)–(D), Nov. 10, 1988, 102 Stat. 3576, 3595; Pub. L. 101–508, title XI, §§11211(a)(4), (b)(3), (6)(C)–(E)(i), (F), (d)(1), (2), (e)(1), (2), 11213(b)(2)(A), (B), (d)(2)(B), (e)(3), Nov. 5, 1990, 104 Stat. 1388–423, 1388–425 to 1388–427, 1388–433, 1388–436; Pub. L. 102–240, title VIII, §8002(b)(1), (2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(a)(2), 13241(b)(2)(A), (B)(iii), (c), (e), (f)(1), (2), 13242(d)(3)–(13), Aug. 10, 1993, 107 Stat. 453, 510, 511, 522–524; Pub. L. 104–188, title I, §§1208, 1609(a)(3), (g)(3), (4)(A), Aug. 20, 1996, 110 Stat. 1776, 1841–1843; Pub. L. 105–2, §2(a)(3), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title IX, §§902(b)(1), (2), 907(a), (b), title X, §§1031(a)(3), 1032(e)(1), (2), title XIV, §1435(b), title XVI, §1601(f)(4)(A), (B), Aug. 5, 1997, 111 Stat. 873, 875, 929, 935, 1053, 1090; Pub. L. 105–178, title IX, §§9002(a)(1)(A)–(C), 9003(a)(1)(A), (B), (b)(2)(A), 9006(a), June 9, 1998, 112 Stat. 499, 501, 502, 506; Pub. L. 105–206, title VI, §6010(g)(1), July 22, 1998, 112 Stat. 814; Pub. L. 108–357, title II, §241(a)(1), (2)(A), title III, §301(c)(5), (6), title VIII, §853(a)(6), (d)(2)(A)–(E), Oct. 22, 2004, 118 Stat. 1437, 1461, 1611–1613; Pub. L. 109–58, title XIII, §1362(b)(2), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(A)–(C), 11113(a), 11151(e)(2), 11161(b)(1), (3)(A), Aug. 10, 2005, 119 Stat. 1943, 1946, 1969–1971; Pub. L. 109–280, title XII, §1207(a), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 109–432, div. A, title II, §208, Dec. 20, 2006, 120 Stat. 2946; Pub. L. 110–172, §6(d)(1)(A), (2)(A), (3), Dec. 29, 2007, 121 Stat. 2480, 2481; Pub. L. 112–30, title I, §142(a)(1)(A), (B), (2)(A), Sept. 16, 2011, 125 Stat. 355, 356; Pub. L. 112–102, title IV, §402(a)(1)(A), (B), (2)(A), Mar. 30, 2012, 126 Stat. 281, 282; Pub. L. 112–140, title IV, §402(a)(1)(A), (B), (2)(A), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(1)(A), (B), (2)(A), July 6, 2012, 126 Stat. 844; Pub. L. 114–41, title II, §2008(a)–(c), July 31, 2015, 129 Stat. 459, 460; Pub. L. 114–94, div. C, title XXXI, §31102(a)(1)(A), (B), (2)(A), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, §80102(a)(1)(A), (B), (2)(A), Nov. 15, 2021, 135 Stat. 1327.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 478; Mar. 30, 1955, ch. 18, §3(a)(1), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(1), 70 Stat. 66; Apr. 2, 1956, ch. 160, §2(a)(1), 70 Stat. 89; June 29, 1956, ch. 462, title II, §202, 70 Stat. 387; Pub. L. 85–859, title I, §119(b)(1), Sept. 2, 1958, 72 Stat. 1286; Pub. L. 86–342, title II, §201(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(a), (c), (d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 89–44, title VIII, §802(a)(2), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §202, May 21, 1970, 84 Stat. 237; Pub. L. 91–605, title III, §303(a)(1), (2), Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–280, title III, §303(a)(1), (2), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(a)(1)(B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1810, 1811, 1834; Pub. L. 94–530, §1(a), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §502(a)(1), (b), Nov. 6, 1978, 92 Stat. 2756, 2757; Pub. L. 95–600, title VII, §703(l)(1), (2), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §§221(b)(1), 222(a)(2), 233(a)(3)(B), Nov. 9, 1978, 92 Stat. 3185, 3187, 3191; Pub. L. 96–223, title II, §232(a)(2), Apr. 2, 1980, 94 Stat. 273; Pub. L. 96–298, §1(a), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §279(a), (b)(1), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(a)(2), (b)(1), (c)(2), (d)(2), (g)(1), 516(a)(1), (b)(1), Jan. 6, 1983, 96 Stat. 2169–2171, 2173, 2182, 2183; Pub. L. 98–369, div. A, title IX, §§911(a), 912(a), 913(a), title X, §1018(a), July 18, 1984, 98 Stat. 1005, 1007, 1008, 1021; Pub. L. 99–499, title V, §521(a)(2), (d)(1)–(3), Oct. 17, 1986, 100 Stat. 1776, 1779; Pub. L. 99–514, title IV, §422(a)(1), (2), title XVII, §1702(a), title XVIII, §1878(c)(1), Oct. 22, 1986, 100 Stat. 2229, 2773, 2903; Pub. L. 100–17, title V, §502(a)(1), (b)(1)–(3), (c)(1), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(b), Dec. 22, 1987, 101 Stat. 1330–441; Pub. L. 100–223, title IV, §§402(b), 404(b), 405(b)(3), Dec. 30, 1987, 101 Stat. 1532, 1533, 1535; Pub. L. 100–647, title I, §1017(c)(3), (4), title II, §2001(d)(2), (3)(A)–(D), Nov. 10, 1988, 102 Stat. 3576, 3595; Pub. L. 101–508, title XI, §§11211(a)(4), (b)(3), (6)(C)–(E)(i), (F), (d)(1), (2), (e)(1), (2), 11213(b)(2)(A), (B), (d)(2)(B), (e)(3), Nov. 5, 1990, 104 Stat. 1388–423, 1388–425 to 1388–427, 1388–433, 1388–436; Pub. L. 102–240, title VIII, §8002(b)(1), (2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(a)(2), 13241(b)(2)(A), (B)(iii), (c), (e), (f)(1), (2), 13242(d)(3)–(13), Aug. 10, 1993, 107 Stat. 453, 510, 511, 522–524; Pub. L. 104–188, title I, §§1208, 1609(a)(3), (g)(3), (4)(A), Aug. 20, 1996, 110 Stat. 1776, 1841–1843; Pub. L. 105–2, §2(a)(3), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title IX, §§902(b)(1), (2), 907(a), (b), title X, §§1031(a)(3), 1032(e)(1), (2), title XIV, §1435(b), title XVI, §1601(f)(4)(A), (B), Aug. 5, 1997, 111 Stat. 873, 875, 929, 935, 1053, 1090; Pub. L. 105–178, title IX, §§9002(a)(1)(A)–(C), 9003(a)(1)(A), (B), (b)(2)(A), 9006(a), June 9, 1998, 112 Stat. 499, 501, 502, 506; Pub. L. 105–206, title VI, §6010(g)(1), July 22, 1998, 112 Stat. 814; Pub. L. 108–357, title II, §241(a)(1), (2)(A), title III, §301(c)(5), (6), title VIII, §853(a)(6), (d)(2)(A)–(E), Oct. 22, 2004, 118 Stat. 1437, 1461, 1611–1613; Pub. L. 109–58, title XIII, §1362(b)(2), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(A)–(C), 11113(a), 11151(e)(2), 11161(b)(1), (3)(A), Aug. 10, 2005, 119 Stat. 1943, 1946, 1969–1971; Pub. L. 109–280, title XII, §1207(a), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 109–432, div. A, title II, §208, Dec. 20, 2006, 120 Stat. 2946; Pub. L. 110–172, §6(d)(1)(A), (2)(A), (3), Dec. 29, 2007, 121 Stat. 2480, 2481; Pub. L. 112–30, title I, §142(a)(1)(A), (B), (2)(A), Sept. 16, 2011, 125 Stat. 355, 356; Pub. L. 112–102, title IV, §402(a)(1)(A), (B), (2)(A), Mar. 30, 2012, 126 Stat. 281, 282; Pub. L. 112–140, title IV, §402(a)(1)(A), (B), (2)(A), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(1)(A), (B), (2)(A), July 6, 2012, 126 Stat. 844; Pub. L. 114–41, title II, §2008(a)–(c), July 31, 2015, 129 Stat. 459, 460; Pub. L. 114–94, div. C, title XXXI, §31102(a)(1)(A), (B), (2)(A), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, §80102(a)(1)(A), (B), (2)(A), Nov. 15, 2021, 135 Stat. 1327.)
 
 #### <b>Editorial Notes</b>
 
@@ -506,7 +506,7 @@ Subsec. (k)(1)(A) to (C). Pub. L. 104–188, §1609(g)(4)(A), inserted "and" at 
 
 Pub. L. 103–66, §13163(a)(2), substituted "diesel-powered highway vehicle or diesel-powered boat" for "diesel-powered highway vehicle" in subpars. (A) and (B) and "such vehicle or boat" for "such vehicle" in subpar. (A).
 
-Subsec. (a)(2). Pub. L. 103–66, §13242(d)(4), in introductory provisions, struck out "or paragraph (1) of this subsection" after "section 4081" and, in closing provisions, substituted "The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4081(a)(2)(A) on gasoline which is in effect at the time of such sale or use." for "The rate of the tax imposed by this paragraph shall be the sum of the Highway Trust Fund financing rate and the deficit reduction rate in effect under section 4081 at the time of such sale or use."
+Subsec. (a)(2). Pub. L. 103–66, §13242(d)(4), in introductory provisions, struck out "or paragraph (1) of this subsection" after "section 4081" and, in closing provisions, substituted "The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4081(a)(2)(A) on gasoline which is in effect at the time of such sale or use." for "The rate of the tax imposedby this paragraph shall be the sum of the Highway Trust Fund financing rate and the deficit reduction rate in effect under section 4081 at the time of such sale or use."
 
 Subsec. (a)(3). Pub. L. 103–66, §13241(e)(1), added par. (3).
 
@@ -516,7 +516,7 @@ Subsec. (b)(1)(C). Pub. L. 103–66, §13242(d)(5)(B), inserted before period at
 
 Subsec. (b)(2)(A)(i). Pub. L. 103–66, §13242(d)(5)(C), struck out "Highway Trust Fund financing" before "rate applicable".
 
-Subsec. (c)(1). Pub. L. 103–66, §13242(d)(6), substituted "The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4091(b)(1) which is ineffect at the time of such sale or use." for "The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use." in concluding provisions.
+Subsec. (c)(1). Pub. L. 103–66, §13242(d)(6), substituted "The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4091(b)(1) which is in effect at the time of such sale or use." for "The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use." in concluding provisions.
 
 Pub. L. 103–66, §13241(b)(2)(B)(iii), struck out "of 17.5 cents per gallon" before "upon any liquid" in introductory provisions and inserted "The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use." before last sentence in concluding provisions.
 
@@ -588,7 +588,7 @@ Subsec. (k)(1)(C). Pub. L. 101–508, §11211(b)(6)(E)(i), amended subpar. (C) g
 
 Subsec. (k)(3). Pub. L. 101–508, §11211(e)(2), substituted "2000" for "1993".
 
-Subsec. (m)(1)(A). Pub. L. 101–508, §11211(b)(6)(F), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "subsection (a)(2) shall be applied by substituting '4½ cents' for '9 cents', and".
+Subsec. (m)(1)(A). Pub. L. 101–508, §11211(b)(6)(F), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "subsection (a)(2) shall be applied by substituting '4½ cents' for '9 cents', and".
 
 Subsec. (m)(1)(B). Pub. L. 101–508, §11213(b)(2)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "no tax shall be imposed by subsection (c)."
 
@@ -684,7 +684,7 @@ Subsec. (b). Pub. L. 97–424, §511(b)(1), (c)(2), added subsec. (b), and struc
 
 Subsec. (c)(3). Pub. L. 97–424, §511(g)(1), substituted provision that the rate of tax imposed by par. (2) on any gasoline is the excess of 12 cents a gallon over the rate at which tax was imposed on such gasoline under section 4081 for provision that the rate of tax imposed by par. (2) was 8 cents a gallon (10½ cents a gallon in the case of any gasoline with respect to which a tax was imposed under section 4081 at the rate set forth in subsec. (b) thereof).
 
-Subsec. (e). Pub. L. 97–424, §516(a)(1)(B), struck out subsec. (e) which provided that the taxes imposed by subsecs. (a) and (b) would be 1½ cents a gallon and that second and third sentences of subsecs. (a) and (b) would not apply on and after Oct. 1, 1984.
+Subsec. (e). Pub. L. 97–424, §516(a)(1)(B), struck out subsec. (e) which provided that the taxes imposed bysubsecs. (a) and (b) would be 1½ cents a gallon and that second and third sentences of subsecs. (a) and (b) would not apply on and after Oct. 1, 1984.
 
 Subsec. (f)(3). Pub. L. 97–424, §516(b)(1)(A), added par. (3).
 
@@ -854,7 +854,7 @@ Pub. L. 108–357, title VIII, §853(e), Oct. 22, 2004, 118 Stat. 1614, provided
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 Amendment by section 9003(b)(2)(A) of Pub. L. 105–178 effective Jan. 1, 2001, see section 9003(b)(3) of Pub. L. 105–178, set out as a note under section 40 of this title.
 
@@ -864,7 +864,7 @@ Pub. L. 105–34, title IX, §902(c), Aug. 5, 1997, 111 Stat. 873, provided that
 
 Pub. L. 105–34, title IX, §907(c), Aug. 5, 1997, 111 Stat. 876, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 1997."
 
-Pub. L. 105–34, title X, §1031(e)(1), Aug. 5, 1997, 111 Stat. 932, provided that: "The amendments made by subsection (a) \[amending this section and sections 4081and 4091 of this title\] shall apply take effect \[sic\] on October 1, 1997."
+Pub. L. 105–34, title X, §1031(e)(1), Aug. 5, 1997, 111 Stat. 932, provided that: "The amendments made by subsection (a) \[amending this section and sections 4081 and 4091 of this title\] shall apply take effect \[sic\] on October 1, 1997."
 
 Pub. L. 105–34, title X, §1032(f), Aug. 5, 1997, 111 Stat. 935, as amended by Pub. L. 105–178, title IX, §9008, June 9, 1998, 112 Stat. 506; Pub. L. 106–170, title V, §524, Dec. 17, 1999, 113 Stat. 1928, provided that:
 
@@ -938,7 +938,7 @@ Pub. L. 97–424, title V, §511(h), Jan. 6, 1983, 96 Stat. 2173, provided that:
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 44E, 4081, 6416, 6420,6421, and 6427 of this title\] shall take effect on April 1, 1983.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 44E, 4081, 6416, 6420, 6421, and 6427 of this title\] shall take effect on April 1, 1983.
 
 "(2)
 
@@ -1018,7 +1018,7 @@ Pub. L. 91–258, title II, §201(a), May 21, 1970, 84 Stat. 236, provided that:
 
 #### Short Title of 1956 Amendments
 
-Act June 29, 1956, ch. 462, title II, §201(a), 70 Stat. 387, provided that: "This title \[enacting sections 173 and 174of Title 23, Highways, and sections 4426, 4481 to 4484 of this title, amending this section and sections 4061, 4071, 4072, 4073, 4081, 4084, 6206, 6412, 6416, 6504, 6511, 6612, 6675, 7210, 7603, 7604, and 7605 of this title, and renumbering sections 4227 and 6422 of this title\] may be cited as the 'Highway Revenue Act of 1956'."
+Act June 29, 1956, ch. 462, title II, §201(a), 70 Stat. 387, provided that: "This title \[enacting sections 173 and 174 of Title 23, Highways, and sections 4426, 4481 to 4484 of this title, amending this section and sections 4061, 4071, 4072, 4073, 4081, 4084, 6206, 6412, 6416, 6504, 6511, 6612, 6675, 7210, 7603, 7604, and 7605 of this title, and renumbering sections 4227 and 6422 of this title\] may be cited as the 'Highway Revenue Act of 1956'."
 
 Act Mar. 29, 1956, ch. 115, §1, 70 Stat. 66, provided: "That this Act \[amending this section and sections 11, 821, 4061, 4081, 5001, 5022, 5041, 5051, 5063, 5134, 5701, 5701 note, 5707, and 6412 of this title\] may be cited as the 'Tax Rate Extension Act of 1956'."
 

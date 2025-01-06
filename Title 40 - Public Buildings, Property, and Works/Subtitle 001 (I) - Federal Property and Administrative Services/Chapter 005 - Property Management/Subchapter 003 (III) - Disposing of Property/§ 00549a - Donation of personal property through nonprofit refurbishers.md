@@ -56,7 +56,7 @@ Administrator reports.—Annually and consistent with reporting requirements for
 
 &emsp;&emsp;(B) a list of nongovernmental entities with which the Administrator had a partnership described in subsection (b)(2);
 
-&emsp;&emsp;(C) a list of nonprofit computer refurbishers that received, made repairs to, and distributed surplus computer and technologyequipment, including disclosure of any foreign ownership interest in a nonprofit computer refurbisher; and
+&emsp;&emsp;(C) a list of nonprofit computer refurbishers that received, made repairs to, and distributed surplus computer and technology equipment, including disclosure of any foreign ownership interest in a nonprofit computer refurbisher; and
 
 &emsp;&emsp;(D) a list of donated and subsequently repaired surplus computer or technology equipment identifying—
 

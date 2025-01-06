@@ -26,7 +26,7 @@
 
 #### (1) Application
 
-&emsp;An institution of higher education or an eligible nonprofit organization (or a consortiumthereof) seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
+&emsp;An institution of higher education or an eligible nonprofit organization (or a consortium thereof) seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
 &emsp;&emsp;(A) the initial research projects that will be undertaken by the Center and the process by which new projects will be identified;
 

@@ -24,7 +24,7 @@ The boundaries of Pinnacles National Park are as generally depicted on the map e
 
 #### (d) Administration
 
-The Secretary of the Interior shall administer Pinnacles National Park in accordance with thissubchapter and laws generally applicable to units of the National Park System, including the National Park Service Organic Act (16 U.S.C. 1, 2–4).<sup>1</sup>
+The Secretary of the Interior shall administer Pinnacles National Park in accordance with this subchapter and laws generally applicable to units of the National Park System, including the National Park Service Organic Act (16 U.S.C. 1, 2–4).<sup>1</sup>
 
 (Pub. L. 112–245, §3, Jan. 10, 2013, 126 Stat. 2386.)
 

@@ -26,7 +26,7 @@ In general.—Subject to subparagraph (B), a trust qualifies under this paragrap
 
 &emsp;&emsp;&emsp;(i) each trustee is a citizen of the United States; and
 
-&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen ofthe United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+&emsp;&emsp;&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
 
 &emsp;&emsp;(B)
 

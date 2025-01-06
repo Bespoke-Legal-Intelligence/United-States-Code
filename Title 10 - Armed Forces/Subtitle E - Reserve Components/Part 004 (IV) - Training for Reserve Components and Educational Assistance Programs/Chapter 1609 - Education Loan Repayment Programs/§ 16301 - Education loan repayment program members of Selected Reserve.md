@@ -20,11 +20,11 @@
 
 > Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
 
-(2) The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
+(2) The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officerprogram or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
 
 (b) The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $1,000, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 
-(c) If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the samemanner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
+(c) If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
 
 (d) Nothing in this section shall be construed to authorize refunding any repayment of a loan.
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 108–136, §534(2), inserted last sentence.
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. A, title V, §515(b), Jan. 1, 2021, 134 Stat. 3589, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 1, 2021\] and shall apply with respect to loan repayment under section 16301 of title 10, United States Code, for eligible years of service completed on or after the date of the enactment of this Act."
+Pub. L. 116–283, div. A, title V, §515(b), Jan. 1, 2021, 134 Stat. 3589, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effecton the date of the enactment of this Act \[Jan. 1, 2021\] and shall apply with respect to loan repayment under section 16301 of title 10, United States Code, for eligible years of service completed on or after the date of the enactment of this Act."
 
 #### Effective Date of 2002 Amendment
 

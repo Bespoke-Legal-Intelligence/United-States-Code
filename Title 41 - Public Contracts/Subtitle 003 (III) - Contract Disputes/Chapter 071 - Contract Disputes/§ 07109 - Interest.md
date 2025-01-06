@@ -14,7 +14,7 @@ Defective certification.—On a claim for which the certification under section 
 
 (b)
 
-Rate.—Interest shall accrue and be paid at a rate which the Secretary of the Treasury shall specify as applicable for each successive 6-month period. The rate shall be determined by the Secretary of the Treasury taking into consideration current private commercial rates of interest for new loans maturing in approximately 5 years.
+Rate.—Interest shall accrue and be paid at a rate which the Secretary of the Treasury shall specify as applicable for each successive 6-month period. The rate shall be determined bythe Secretary of the Treasury taking into consideration current private commercial rates of interest for new loans maturing in approximately 5 years.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3825.)
 

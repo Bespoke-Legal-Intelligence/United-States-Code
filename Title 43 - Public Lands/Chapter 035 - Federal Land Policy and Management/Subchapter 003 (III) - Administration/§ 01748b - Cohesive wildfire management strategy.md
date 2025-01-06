@@ -80,7 +80,7 @@ Sec. 2. <i>Goals</i>. (a) To protect communities and watersheds, to better preve
 
 &emsp;(E) Performing maintenance on roads needed to provide access on USDA FS lands for emergency services and restoration work.
 
-(b) For the years following establishment of the objectives in subsection (a) of this section, the Secretaries shall consider annual treatment objectives that meet or exceed those established in subsection (a) of this section, using the full range of available and appropriate management tools, including prescribed burns and mechanical thinning. The Secretaries shall also refine and develop performance metrics to better capture the risk reduction benefits achieved through application of these management tools.
+(b) For the years following establishment of the objectives in subsection (a) of this section, the Secretaries shall consider annual treatment objectives that meet or exceed those established in subsection (a) of this section, using the full range of available and appropriate management tools, including prescribedburns and mechanical thinning. The Secretaries shall also refine and develop performance metrics to better capture the risk reduction benefits achieved through application of these management tools.
 
 (c) In conjunction with establishment of goals, and by no later than March 31, 2019, the Secretaries shall identify salvage and log recovery options from lands damaged by fire during the 2017 and 2018 fire seasons, insects, or disease.
 
@@ -98,7 +98,7 @@ Sec. 3. <i>Coordination and Efficient Processes</i>. Effective Federal agency co
 
 (iv) Immediately prioritizing efforts to reduce the time required to comply with consultation obligations under the Endangered Species Act of 1973 (16 U.S.C. 1531 <i>et seq</i>.).
 
-Sec. 4. <i>Unmanned Aerial Systems</i>. To reduce fire and forest health risks as described in section 1 of this order, the Secretaries shall, in coordination with the Administrator of the Federal Aviation Administration,maximize appropriate use of unmanned aerial systems to accelerate forest management and support firefighting and post-fire rehabilitation in forests, rangelands, and other Federal lands.
+Sec. 4. <i>Unmanned Aerial Systems</i>. To reduce fire and forest health risks as described in section 1 of this order, the Secretaries shall, in coordination with the Administrator of the Federal Aviation Administration, maximize appropriate use of unmanned aerial systems to accelerate forest management and support firefighting and post-fire rehabilitation in forests, rangelands, and other Federal lands.
 
 Sec. 5. <i>Wildfire Strategy</i>. (a) In collaboration with Federal, State, tribal, and local partners, the Secretaries shall jointly develop, by December 31, 2020, a strategy to support local Federal land managers in project decision-making and inform local fire management decisions related to forests, rangelands, and other Federal lands, thereby protecting habitats and communities, and reducing risks to physical infrastructure.
 

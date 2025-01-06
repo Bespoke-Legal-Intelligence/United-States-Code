@@ -18,7 +18,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (2) Allocation to functions
 
-&emsp;On March 1, 2013, for fiscal year 2013, and in its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title, OMB shall allocate half of the total reduction calculated pursuant toparagraph (1) for that year to discretionary appropriations and direct spending accounts within function 050 (defense function) and half to accounts in all other functions (nondefense functions).
+&emsp;On March 1, 2013, for fiscal year 2013, and in its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title, OMB shall allocate half of the total reduction calculated pursuant to paragraph (1) for that year to discretionary appropriations and direct spending accounts within function 050 (defense function) and half to accounts in all other functions (nondefense functions).
 
 #### (3) Defense function reduction
 
@@ -84,13 +84,19 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 &emsp;&emsp;(ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-&emsp;(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2022 shall be applied to such paymentsso that with respect to the period beginning on April 1, 2022, and ending on June 30, 2022, the payment reduction shall be 1.0 percent.
+&emsp;(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2022 shall be applied to such payments so that with respect to the period beginning on April 1, 2022, and ending on June 30, 2022, the payment reduction shall be 1.0 percent.
 
 &emsp;(D) On the date on which the President submits the budget under section 1105 of title 31 for fiscal year 2032, the President shall order a sequestration of payments for the Medicare programs specified in section 906(d) of this title, effective upon issuance, such that, notwithstanding the 2 percent limit specified in subparagraph (A) for such payments—
 
-&emsp;&emsp;(i) with respect to the first 7 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
+&emsp;&emsp;(i) with respect to the first 8 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
 
-&emsp;&emsp;(ii) with respect to the last 5 months in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.
+&emsp;&emsp;(ii) with respect to the last 4 months in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.
+
+&emsp;(E) The sequestration order issued by the President under subparagraph (D) shall also include, effective upon issuance, that—
+
+&emsp;&emsp;(i) the percentage reduction for nonexempt direct spending for the defense function is 4.0 percent; and
+
+&emsp;&emsp;(ii) except as provided in subparagraph (D), the percentage reduction for nonexempt direct spending for nondefense functions is 2.8 percent.
 
 #### (7) Adjustment for Medicare
 
@@ -102,7 +108,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (9) Report
 
-&emsp;On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title <sup>1</sup> and actions taken under it.
+&emsp;On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations requiredunder this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title <sup>1</sup> and actions taken under it.
 
 #### (10) Implementing direct spending reductions for fiscal years 2014 and 2015
 
@@ -128,7 +134,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 &emsp;(B) Paragraph (5)(B) shall not be implemented for fiscal years 2020 and 2021.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, §90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, §2(b), Dec. 10, 2021, 135 Stat. 1506; Pub. L. 117–328, div. FF, title IV, §4163, Dec. 29, 2022, 136 Stat. 5931; Pub. L. 118–31, div. A, title XVIII, §1852, Dec. 22, 2023, 137 Stat. 709.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, §90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, §2(b), Dec. 10, 2021, 135 Stat. 1506; Pub. L. 117–328, div. FF, title IV, §4163, Dec. 29, 2022, 136 Stat. 5931; Pub. L. 118–31, div. A, title XVIII, §1852, Dec. 22, 2023, 137 Stat. 709; Pub. L. 118–42, div. G, title III, §303, Mar. 9, 2024, 138 Stat. 452; Pub. L. 118–47, div. G, title I, §109, Mar. 23, 2024, 138 Stat. 857.)
 
 #### <b>Editorial Notes</b>
 
@@ -152,6 +158,12 @@ A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103�
 
 #### Amendments
 
+<b>2024</b>—Par. (6)(D)(i). Pub. L. 118–42, §303(1), substituted "8 months" for "7 months".
+
+Par. (6)(D)(ii). Pub. L. 118–42, §303(2), substituted "4 months" for "5 months".
+
+Par. (6)(E). Pub. L. 118–47 added subpar. (E).
+
 <b>2023</b>—Par. (6)(D)(i). Pub. L. 118–31, §1852(1), substituted "7 months" for "6 months".
 
 Par. (6)(D)(ii). Pub. L. 118–31, §1852(2), substituted "last 5 months" for "second 6 months".
@@ -160,7 +172,7 @@ Par. (6)(D)(ii). Pub. L. 118–31, §1852(2), substituted "last 5 months" for "s
 
 Par. (6)(C). Pub. L. 117–328, §4163(2), realigned margins.
 
-Par. (6)(D). Pub. L. 117–328, §4163(3), (4), added subpar. (D) and struck out former subpar. (D) which read as follows: "Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
+Par. (6)(D). Pub. L. 117–328, §4163(3), (4), added subpar. (D) and struck out former subpar. (D) which read as follows: "Notwithstanding the 2 percent limit specified insubparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
 
 &emsp;"(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.25 percent; and
 
@@ -234,7 +246,7 @@ Par. (6)(D). Pub. L. 113–93 added subpar. (D).
 
 Par. (1). Pub. L. 113–67, §101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined "revised security category" as discretionary appropriations in budget function 050 and "revised nonsecurity category" as discretionary appropriations other than in budget function 050.
 
-Par. (2). Pub. L. 113–67, §101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted "paragraph (1)" for "paragraph (3)", and struck out former par. (2) which reviseddiscretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
+Par. (2). Pub. L. 113–67, §101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted "paragraph (1)" for "paragraph (3)", and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
 
 Par. (3). Pub. L. 113–67, §101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted "paragraph (2)" for "paragraph (4)" in two places. Former par. (3) redesignated (1).
 
@@ -290,17 +302,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 #### <b>Executive Documents</b>
 
-#### Sequestration Order for Fiscal Year 2024 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+#### Sequestration Order for Fiscal Year 2025 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
 
-Order of President of the United States, dated Mar. 13, 2023, 88 F.R. 16171, provided:
+Order of President of the United States, dated Mar. 11, 2024, 89 F.R. 18531, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2023, direct spending budgetary resources for fiscal year 2024 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 13, 2023.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2024, direct spending budgetary resources for fiscal year 2025 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 11, 2024.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 13, 2023, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 11, 2024, prepared pursuant to section 251A(9) of the Act.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+<b>2024</b>—Order of President of the United States, dated Mar. 13, 2023, 88 F.R. 16171.
 
 <b>2023</b>—Order of President of the United States, dated Mar. 28, 2022, 87 F.R. 18603.
 

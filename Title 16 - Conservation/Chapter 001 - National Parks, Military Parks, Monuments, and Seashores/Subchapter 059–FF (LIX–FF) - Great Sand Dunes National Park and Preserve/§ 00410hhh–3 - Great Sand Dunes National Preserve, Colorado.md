@@ -34,5 +34,5 @@ The Colorado Wilderness Act of 1993, referred to in subsec. (a)(3), is Pub. L. 1
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

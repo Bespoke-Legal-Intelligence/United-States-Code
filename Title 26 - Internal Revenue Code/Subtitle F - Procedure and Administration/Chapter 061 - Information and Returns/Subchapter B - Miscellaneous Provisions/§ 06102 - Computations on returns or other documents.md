@@ -14,7 +14,7 @@ Any person making a return, statement, or other document shall be allowed, under
 
 #### (c) Inapplicability to computation of amount
 
-The provisions of subsections (a) and (b) shall not be applicable to items which must be takeninto account in making the computations necessary to determine the amount required to be shown on a form, but shall be applicable only to such final amount.
+The provisions of subsections (a) and (b) shall not be applicable to items which must be taken into account in making the computations necessary to determine the amount required to be shown on a form, but shall be applicable only to such final amount.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 753; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

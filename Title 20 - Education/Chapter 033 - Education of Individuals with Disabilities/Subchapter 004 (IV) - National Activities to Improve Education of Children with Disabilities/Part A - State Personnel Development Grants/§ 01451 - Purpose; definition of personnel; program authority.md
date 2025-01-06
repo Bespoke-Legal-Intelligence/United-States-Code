@@ -64,7 +64,7 @@ In this part the term "personnel" means special education teachers, regular educ
 
 #### (B) Special rule
 
-&emsp;&emsp;Each such State educational agency shall use the minimum amount described in subparagraph (A) for the activities described in the State educational agency's competitive grant award document for that year, unless the Secretary approves a request from the State educational agency to spend the funds on other activities.
+&emsp;&emsp;Each such State educational agency shall use the minimum amount described in subparagraph (A) for the activities described in the State educational agency's competitive grant award document for that year, unless the Secretary approves a request from theState educational agency to spend the funds on other activities.
 
 #### (3) Minimum allotment
 

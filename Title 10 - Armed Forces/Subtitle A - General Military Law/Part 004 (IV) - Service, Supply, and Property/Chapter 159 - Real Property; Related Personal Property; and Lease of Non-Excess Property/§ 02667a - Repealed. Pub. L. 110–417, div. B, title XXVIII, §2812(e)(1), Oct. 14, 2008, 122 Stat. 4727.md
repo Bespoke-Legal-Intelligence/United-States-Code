@@ -1,6 +1,6 @@
 ### \[§2667a. Repealed. Pub. L. 110–417, div. B, title XXVIII, §2812(e)(1), Oct. 14, 2008, 122 Stat. 4727\]
 
-Section, added Pub. L. 105–85, div. A, title X, §1062(a), Nov. 18, 1997, 111 Stat. 1891; amended Pub. L. 107–217, §3(b)(13), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §1031(a)(28), Nov. 24, 2003, 117 Stat. 1599, related to leases of non-excess property of Defense agencies.
+Section, added Pub. L. 105–85, div. A, title X, §1062(a), Nov. 18, 1997, 111 Stat. 1891; amended Pub. L. 107–217,§3(b)(13), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §1031(a)(28), Nov. 24, 2003, 117 Stat. 1599, related to leases of non-excess property of Defense agencies.
 
 #### <b>Editorial Notes</b>
 

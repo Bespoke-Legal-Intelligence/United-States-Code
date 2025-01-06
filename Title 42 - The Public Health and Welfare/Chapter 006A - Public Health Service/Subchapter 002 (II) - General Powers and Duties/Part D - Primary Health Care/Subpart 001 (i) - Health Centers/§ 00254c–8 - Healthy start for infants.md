@@ -20,7 +20,7 @@
 
 &emsp;In making grants under subsection (a), the Secretary shall take into consideration the following:
 
-&emsp;&emsp;(A) Factors that contribute to infant mortality, including poor birth outcomes (suchas low birthweight and preterm birth) and social determinants of health.
+&emsp;&emsp;(A) Factors that contribute to infant mortality, including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health.
 
 &emsp;&emsp;(B) Communities with—
 
@@ -96,7 +96,7 @@ Except to the extent inconsistent with this section, this section may not be con
 
 &emsp;&emsp;(B) Trends in the progress made toward meeting the evaluation criteria pursuant to subsection (e)(2)(B), including programs which decrease infant mortality rates and improve perinatal outcomes, programs that have not decreased infant mortality rates or improved perinatal outcomes, and programs that have made an impact on disparities in infant mortality or perinatal outcomes.
 
-&emsp;&emsp;(C) The ability of grantees to improve health outcomes for project participants,promote the awareness of the Healthy Start program services, incorporate and promote family participation, facilitate coordination with the community in which the grantee is located, and increase grantee accountability through quality improvement, performance monitoring, evaluation, and the effect such metrics may have toward decreasing the rate of infant mortality and improving perinatal outcomes.
+&emsp;&emsp;(C) The ability of grantees to improve health outcomes for project participants, promote the awareness of the Healthy Start program services, incorporate and promote family participation, facilitate coordination with the community in which the grantee is located, and increase grantee accountability through quality improvement, performance monitoring, evaluation, and the effect such metrics may have toward decreasing the rate of infant mortality and improving perinatal outcomes.
 
 &emsp;&emsp;(D) The extent to which such Federal programs are coordinated across agencies and the identification of opportunities for improved coordination in such Federal programs and activities.
 

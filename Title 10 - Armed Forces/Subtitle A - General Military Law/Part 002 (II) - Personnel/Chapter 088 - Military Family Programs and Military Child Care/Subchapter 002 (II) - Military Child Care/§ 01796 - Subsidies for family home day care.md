@@ -12,7 +12,7 @@ Pub. L. 116–283, div. A, title VI, §627, Jan. 1, 2021, 134 Stat. 3678, provid
 
 "(a)
 
-Priority.—If the Secretary of a military department determines that not enough child care employees are employed at a military child development center on a military installation under the jurisdiction of that Secretary to adequately care for the children of members of the Armed Forces stationed at that military installation, the Secretary, to the extent practicable, may give priority for covered military family housing to a member whose spouse is an eligible military spouse.
+Priority.—If the Secretary of a military department determines that not enough child care employeesare employed at a military child development center on a military installation under the jurisdiction of that Secretary to adequately care for the children of members of the Armed Forces stationed at that military installation, the Secretary, to the extent practicable, may give priority for covered military family housing to a member whose spouse is an eligible military spouse.
 
 "(b)
 

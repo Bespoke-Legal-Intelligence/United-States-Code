@@ -18,7 +18,7 @@ The Tax Court is authorized to impose a fee in an amount not in excess of $60 to
 
 &emsp;&emsp;(B) any on-line portal made available by the Tax Court for electronic filing of petitions.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 93–406, title II, §1041(b)(1), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, §1306(b)(1), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 97–34, title VII, §751(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–248, title IV, §402(c)(12), Sept. 3, 1982, 96 Stat. 668; Pub. L. 109–280, title VIII, §859(a), Aug. 17, 2006,120 Stat. 1020; Pub. L. 117–58, div. H, title V, §80503(a), (b)(1), Nov. 15, 2021, 135 Stat. 1336.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 93–406, title II, §1041(b)(1), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, §1306(b)(1), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 97–34, title VII, §751(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–248, title IV, §402(c)(12), Sept. 3, 1982, 96 Stat. 668; Pub. L. 109–280, title VIII, §859(a), Aug. 17, 2006, 120 Stat. 1020; Pub. L. 117–58, div. H, title V, §80503(a), (b)(1), Nov. 15, 2021, 135 Stat. 1336.)
 
 #### <b>Editorial Notes</b>
 

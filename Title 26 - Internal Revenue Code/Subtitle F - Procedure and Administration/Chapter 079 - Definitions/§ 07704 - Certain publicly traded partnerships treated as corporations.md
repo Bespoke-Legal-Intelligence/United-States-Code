@@ -118,7 +118,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;There is hereby imposed for each taxable year on the income of each electing 1987partnership a tax equal to 3.5 percent of such partnership's gross income for the taxable year from the active conduct of trades and businesses by the partnership.
+&emsp;&emsp;There is hereby imposed for each taxable year on the income of each electing 1987 partnership a tax equal to 3.5 percent of such partnership's gross income for the taxable year from the active conduct of trades and businesses by the partnership.
 
 #### (B) Adjustments in the case of tiered partnerships
 

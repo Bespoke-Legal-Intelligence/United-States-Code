@@ -22,7 +22,7 @@ Four of the six individuals appointed to the Panel under subsection (b) shall po
 
 #### (1) In general
 
-&emsp;Not later than 1 year after the date on which all members of the Panel are appointed under subsection (b), the Panel shall prepare and submit to the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and the Workforce of the House ofRepresentatives a report concerning the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
+&emsp;Not later than 1 year after the date on which all members of the Panel are appointed under subsection (b), the Panel shall prepare and submit to the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Health, Education, Labor, andPensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report concerning the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
 
 #### (2) Response by Secretary
 

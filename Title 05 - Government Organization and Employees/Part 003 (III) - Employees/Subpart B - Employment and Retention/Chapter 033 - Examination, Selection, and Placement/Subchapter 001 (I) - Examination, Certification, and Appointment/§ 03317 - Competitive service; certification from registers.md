@@ -22,7 +22,7 @@ In general.—The Director of the Office of Personnel Management, or the head of
 
 &emsp;(2)
 
-Minimum number of names certified.—Unless otherwise provided for in regulations prescribed under subsection (c), the number of names certified under paragraph (1) shall be not less than three.
+Minimum number of names certified.—Unless otherwise provided for in regulations prescribed under subsection (c), the number ofnames certified under paragraph (1) shall be not less than three.
 
 (b)
 

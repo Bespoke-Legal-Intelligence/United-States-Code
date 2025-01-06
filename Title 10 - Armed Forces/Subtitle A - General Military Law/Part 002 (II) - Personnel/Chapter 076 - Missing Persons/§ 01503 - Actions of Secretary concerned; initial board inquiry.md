@@ -10,7 +10,7 @@ Inquiries Involving More Than One Missing Person.—If it appears to the Secreta
 
 (c)
 
-Composition.—(1) A board appointed under this section to inquire into the whereabouts and status of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
+Composition.—(1) A board appointed under this section to inquire into the whereabouts andstatus of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
 
 (2) An individual referred to in paragraph (1) is the following:
 
@@ -86,11 +86,11 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 &emsp;(B) the recommendation of the board under subsection (d) with respect to each person covered by the report; and
 
-&emsp;(C) disclosure of whether classified documents and information were reviewed by the board or were otherwise used by the board in forming recommendations under subparagraph (B).
+&emsp;(C) disclosure of whether classified documents and information were reviewed by theboard or were otherwise used by the board in forming recommendations under subparagraph (B).
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 
-(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that thereport may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
+(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that the report may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
 
 (i)
 

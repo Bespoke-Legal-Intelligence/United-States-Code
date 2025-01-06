@@ -24,7 +24,7 @@
 
 &emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
-&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporarybasis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
+&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
 (2) The Office shall prescribe regulations for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for terminating a delegation of authority under paragraph (1)(B).
 
@@ -32,7 +32,7 @@
 
 (2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
 
-(h)(1) If warranted by circumstances described in subsection (f)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (f) with respect to an employee of an Executive agency.
+(h)(1) If warranted by circumstances described in subsection (f)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specifiedin the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (f) with respect to an employee of an Executive agency.
 
 (2) Authority under this subsection may be exercised—
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 #### Effective Date of 1988 Amendment
 

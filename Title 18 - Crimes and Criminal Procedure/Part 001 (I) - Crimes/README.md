@@ -1,4 +1,4 @@
-### <b>PART I—CRIMES</b>
+## PART I—CRIMES
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
@@ -169,7 +169,7 @@ Pub. L. 101–519, §132(c), Nov. 5, 1990, 104 Stat. 2252, substituted "Terroris
 
 Pub. L. 101–298, §3(c), May 22, 1990, 104 Stat. 203, added item for chapter 10.
 
-<b>1988</b>—Pub. L. 100–690, title VII, §7063, Nov. 18, 1988, 102 Stat. 4404, substituted "Bribery, graft, and conflicts of interest" for "Bribery and graft" in item for chapter 11, substituted "carrier operation under the influence of alcohol or drugs....341" for "Carrier Operation Under the Influence of Alcohol or Drugs" in item for chapter17A, substituted "abuse" for "Abuse", in item for chapter 109A, struck out final period and inserted "....2331" in item for chapter 113A, and substituted "wire and electronic communications and transactional records access" for "Wire and Electronic Communications and Transactional Records Access" in item for chapter 121.
+<b>1988</b>—Pub. L. 100–690, title VII, §7063, Nov. 18, 1988, 102 Stat. 4404, substituted "Bribery, graft, and conflicts of interest" for "Bribery and graft" in item for chapter 11, substituted "carrier operation under the influenceof alcohol or drugs....341" for "Carrier Operation Under the Influence of Alcohol or Drugs" in item for chapter 17A, substituted "abuse" for "Abuse", in item for chapter 109A, struck out final period and inserted "....2331" in item for chapter 113A, and substituted "wire and electronic communications and transactional records access" for "Wire and Electronic Communications and Transactional Records Access" in item for chapter 121.
 
 Pub. L. 100–606, §2(b), Nov. 4, 1988, 102 Stat. 3047, added item for chapter 50A.
 

@@ -134,7 +134,7 @@ For purposes of section 104 of title 26, amounts paid pursuant to this section s
 
 #### (2) Authority
 
-&emsp;Notwithstanding any other provision of law but subject to paragraph (3), the Secretary of State or other agency head with an employee may provide payment to a covered dependent, a dependent of a former employee, a covered employee, a former employee, and a covered individual for a qualifying injury to the brain.
+&emsp;Notwithstanding any other provision of law but subject to paragraph (3), the Secretary of State or other agency head with an employeemay provide payment to a covered dependent, a dependent of a former employee, a covered employee, a former employee, and a covered individual for a qualifying injury to the brain.
 
 #### (3) Limitations
 

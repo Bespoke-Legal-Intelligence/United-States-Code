@@ -12,7 +12,7 @@ A certification described in subsection (a) is a certification transmitted by th
 
 &emsp;&emsp;(A) publicly acknowledged the Jewish state of Israel's right to exist; and
 
-&emsp;&emsp;(B) committed itself and is adhering to all previous agreements and understandings with the United States Government, with the Government of Israel, and with the international community, including agreements and understandings pursuant to the Performance-Based Roadmap to a Permanent Two-State Solution to the Israeli-Palestinian Conflict (commonly referred to as the "Roadmap"); and
+&emsp;&emsp;(B) committed itself and is adhering to all previous agreements and understandingswith the United States Government, with the Government of Israel, and with the international community, including agreements and understandings pursuant to the Performance-Based Roadmap to a Permanent Two-State Solution to the Israeli-Palestinian Conflict (commonly referred to as the "Roadmap"); and
 
 &emsp;(2) the Hamas-controlled Palestinian Authority has made demonstrable progress toward—
 

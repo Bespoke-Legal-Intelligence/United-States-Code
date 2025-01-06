@@ -6,7 +6,7 @@ In furtherance and not in limitation of any other authority, the Director, on be
 
 &emsp;(1) the disclosure of which to another Federal agency is expressly prohibited by law; or
 
-&emsp;(2) the disclosure of which the agency so requested determines would significantly impairthe discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
+&emsp;(2) the disclosure of which the agency so requested determines would significantly impair the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
 
 #### (b) Authority to obtain information from original or alternate sources
 

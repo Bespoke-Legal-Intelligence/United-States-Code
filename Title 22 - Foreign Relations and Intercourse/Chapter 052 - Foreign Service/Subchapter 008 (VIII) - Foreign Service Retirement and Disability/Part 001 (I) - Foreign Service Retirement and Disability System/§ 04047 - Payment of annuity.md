@@ -72,7 +72,7 @@ Recovery of overpayments under this part may not be made from an individual when
 
 Subsec. (e). Pub. L. 99–335, §408, added subsec. (e).
 
-<b>1983</b>—Subsec. (a). Ex. Ord. No. 12446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except as otherwise provided, the annuity of a former participant who has met the eligibility requirements for an annuity shall commence on the day after separation from the Service or on the day after pay ceases. The annuity of a former participant who is entitled to a deferred annuity under this chapter shall become effective on the day he or she attains age 60."
+<b>1983</b>—Subsec. (a). Ex. Ord. No. 12446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read asfollows: "Except as otherwise provided, the annuity of a former participant who has met the eligibility requirements for an annuity shall commence on the day after separation from the Service or on the day after pay ceases. The annuity of a former participant who is entitled to a deferred annuity under this chapter shall become effective on the day he or she attains age 60."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

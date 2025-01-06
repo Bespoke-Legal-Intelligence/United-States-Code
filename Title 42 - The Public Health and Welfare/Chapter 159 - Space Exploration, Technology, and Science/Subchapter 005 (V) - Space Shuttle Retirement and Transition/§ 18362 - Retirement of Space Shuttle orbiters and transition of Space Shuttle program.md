@@ -12,7 +12,7 @@ The Administrator shall retire the Space Shuttle orbiters pursuant to a schedule
 
 #### (2) Other assets
 
-&emsp;With respect to the workforce, assets, and infrastructure not utilized as described in paragraph (1), the Administrator shall work closely with other departments and agencies of the Federal Government, and the private sector, to divest unneeded assets and to assist displaced workers with retraining and other placement efforts. Amounts authorized to be appropriated by section 101(2)(B) <sup>1</sup> shall be available for activities pursuant to this paragraph.
+&emsp;With respect to the workforce, assets, and infrastructure not utilized as described in paragraph (1), the Administrator shall work closely with other departments and agenciesof the Federal Government, and the private sector, to divest unneeded assets and to assist displaced workers with retraining and other placement efforts. Amounts authorized to be appropriated by section 101(2)(B) <sup>1</sup> shall be available for activities pursuant to this paragraph.
 
 (Pub. L. 111–267, title VI, §602, Oct. 11, 2010, 124 Stat. 2828.)
 

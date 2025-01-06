@@ -34,7 +34,7 @@ Each State technical committee shall provide public notice of, and permit public
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c), was in the original "this title", meaning title XII of Pub. L.99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (a) to (c), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 #### Codification
 
@@ -66,5 +66,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Public Notice and Comment for Revisions to Certain State Technical Guides
 
-Pub. L. 104–127, title III, §343, Apr. 4, 1996, 110 Stat. 1009, provided that: "After the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. \[3811 et seq., 3821 et seq.\])."
+Pub. L. 104–127, title III, §343, Apr. 4, 1996, 110 Stat. 1009, provided that: "After the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guidesthat are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. \[3811 et seq., 3821 et seq.\])."
 

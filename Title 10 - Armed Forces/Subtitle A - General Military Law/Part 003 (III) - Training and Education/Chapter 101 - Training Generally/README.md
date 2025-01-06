@@ -72,6 +72,48 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Expansion of Participation in the Digital On-Demand Program
+
+Pub. L. 118–159, div. A, title II, §232, Dec. 23, 2024, 138 Stat. 1837, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall take such steps as may be necessary—
+
+&emsp;"(1) to expand the availability of the Digital On-Demand Program to—
+
+&emsp;&emsp;"(A) all organizations and elements of the Department of Defense; and
+
+&emsp;&emsp;"(B) all members of the Armed Forces and civilian employees of the Department; and
+
+&emsp;"(2) to actively promote the Program throughout the Department.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], and on an annual basis thereafter through 2029, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the progress of the Secretary in expanding and promoting the Digital On-Demand Program as described in subsection (a).
+
+"(c)
+
+Digital on Demand Program Defined.—In this section, the term 'Digital On-Demand Program' means the program overseen by the Chief Digital and Artificial Intelligence Officer pursuant to which educational resources on artificial intelligence, emerging technologies, data literacy, and related topics are made available to personnel of the Department of Defense through a digital platform on an on-demand basis."
+
+#### Required Constitutional Law Training
+
+Pub. L. 118–159, div. A, title V, §546, Dec. 23, 2024, 138 Stat. 1893, provided that:
+
+"(a)
+
+In General.—Beginning not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall ensure that all newly commissioned officers of the Armed Forces receive training on the Constitution of the United States prior to reporting to their first operational assignment.
+
+"(b)
+
+Elements.—The training required under subsection (a) shall include—
+
+&emsp;"(1) education on the centrality of the Constitution to the commitment officers make to serve in the Armed Forces;
+
+&emsp;"(2) emphasis on the loyalty of officers to the Constitution; and
+
+&emsp;"(3) instruction on the importance of, and basis for, civilian control over the military."
+
 #### Protection and Legal Preparedness for Members of the Armed Forces Abroad
 
 Pub. L. 118–31, div. A, title XII, §1229, Dec. 22, 2023, 137 Stat. 456, provided that:
@@ -254,7 +296,7 @@ Pub. L. 118–31, div. B, title XXVIII, §2886, Dec. 22, 2023, 137 Stat. 783, pr
 
 "(a)
 
-Curriculum Required.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Commander of the Naval Facilities Systems Engineering Command and the Deputy CommandingGeneral for Military and International Operations for the Army Corps of Engineers, shall establish a joint continuing education curriculum for the following individuals responsible for managing military construction projects and planning and design projects within the Department of Defense:
+Curriculum Required.—Not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Commander of the Naval Facilities Systems Engineering Command and the Deputy Commanding General for Military and International Operations for the Army Corps of Engineers, shall establish a joint continuing education curriculum for the following individuals responsible for managing military construction projects and planning and design projects within the Department of Defense:
 
 &emsp;"(1) Project managers.
 
@@ -356,7 +398,7 @@ Duration.—The authority to carry out the pilot program under paragraph (1) sha
 
 &emsp;"(5)
 
-Implementation plan.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a plan for the implementation of this section.
+Implementation plan.—Not later than one year after the date of the enactment of this Act, theSecretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a plan for the implementation of this section.
 
 &emsp;"(6)
 
@@ -622,7 +664,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Training areas.—The pilot program shall include training in the authorities and procedures that may be used to recruit technical personnel for positions in the Department of Defense, including—
+Training areas.—The pilot program shall include training in the authorities and procedures thatmay be used to recruit technical personnel for positions in the Department of Defense, including—
 
 &emsp;&emsp;"(A) appropriate direct hiring authorities;
 
@@ -759,6 +801,26 @@ Covered foreign country.—The term 'covered foreign country' has the meaning gi
 &emsp;"(3)
 
 Information literacy.—The term 'information literacy' means the set of skills needed to find, retrieve, understand, evaluate, analyze, and effectively use information (which encompasses spoken and broadcast words and videos, printed materials, and digital content, data, and images)."
+
+#### Artificial Intelligence and Machine Learning Education Platforms
+
+Pub. L. 116–92, div. A, title II, §256(d), as added by Pub. L. 118–159, div. A, title II, §222, Dec. 23, 2024, 138 Stat. 1829, provided that:
+
+"(1)
+
+In general.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 \[Dec. 23, 2024\], the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall—
+
+&emsp;"(A) develop a set of distance education courses on—
+
+&emsp;&emsp;"(i) the foundational concepts of artificial intelligence and machine learning; and
+
+&emsp;&emsp;"(ii) the responsible and ethical design, development, acquisition and procurement, deployment, and use of artificial intelligence and machine learning applications; and
+
+&emsp;"(B) make such courses available to members of the Armed Forces.
+
+"(2)
+
+Report.—Not later than 270 days after the date of the enactment of this subsection \[Dec. 23, 2024\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress of the Chief Digital and Artificial Intelligence Officer in implementing paragraph (1)."
 
 #### Collection of Blast Exposure Information
 

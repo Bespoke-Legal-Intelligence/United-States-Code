@@ -34,7 +34,7 @@ Other provisions of section 408 of title 18, U.S.C., 1940 ed., are incorporated 
 
 In the definition of "motor vehicle", words "designed for running on land but not on rails" were substituted for "not designed for running on rails" so as to conform with the ruling in the case of <i>McBoyle</i> v. <i>U.S</i>. (1931, 51 S. Ct. 340, 283, U. S. 25, 75 L. Ed. 816), in which the Supreme Court held that "vehicle" is limited to vehicles running on land and that motor vehicle does not include an airplane.
 
-In the paragraph defining "value" which came from said section 417 of title 18, U.S.C., 1940 ed., words "Inthe event that a defendant is charged in the same indictment with two or more violations of sections 413–419 of this title, then" were omitted and the same meaning was preserved by the substitution of the words "a single" for the word "such."
+In the paragraph defining "value" which came from said section 417 of title 18, U.S.C., 1940 ed., words "In the event that a defendant is charged in the same indictment with two or more violations of sections 413–419 of this title, then" were omitted and the same meaning was preserved by the substitution of the words "a single" for the word "such."
 
 Minor changes were made in phraseology.
 

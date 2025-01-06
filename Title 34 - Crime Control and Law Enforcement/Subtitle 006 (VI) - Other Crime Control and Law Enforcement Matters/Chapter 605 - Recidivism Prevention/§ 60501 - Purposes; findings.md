@@ -32,7 +32,7 @@ Congress finds the following:
 
 &emsp;(6) Between 1991 and 1999, the number of children with a parent in a Federal or State correctional facility increased by more than 100 percent, from approximately 900,000 to approximately 2,000,000. According to the Bureau of Prisons, there is evidence to suggest that inmates who are connected to their children and families are more likely to avoid negative incidents and have reduced sentences.
 
-&emsp;(7) Released prisoners cite family support as the most important factor in helping them stay out of prison. Research suggests that families are an often underutilized resource in the reentry process.
+&emsp;(7) Released prisoners cite family support as the most important factor in helping themstay out of prison. Research suggests that families are an often underutilized resource in the reentry process.
 
 &emsp;(8) Approximately 100,000 juveniles (ages 17 years and under) leave juvenile correctional facilities, State prison, or Federal prison each year. Juveniles released from secure confinement still have their likely prime crime years ahead of them. Juveniles released from secure confinement have a recidivism rate ranging from 55 to 75 percent. The chances that young people will successfully transition into society improve with effective reentry and aftercare programs.
 
@@ -96,7 +96,7 @@ Evaluation of the Second Chance Act Grant Program.—Not later than 5 years afte
 
 "(b)
 
-Authorization of Funds for Evaluation.—Not more than 1 percent of any amounts authorized to be appropriated to carry out the Second Chance Act grant program shall be made available to the National Institute of Justice each year to evaluate the processes, implementation, outcomes, costs, and effectiveness of the Second Chance Act grant program in improving reentry and reducing recidivism. Such funding may be used to provide support to grantees for supplemental data collection, analysis, and coordination associated with evaluation activities.
+Authorization of Funds for Evaluation.—Not more than 1 percent of any amounts authorized to be appropriated to carry out the Second Chance Act grant program shall be made available to the National Institute of Justice each year to evaluate the processes, implementation, outcomes, costs, and effectiveness of theSecond Chance Act grant program in improving reentry and reducing recidivism. Such funding may be used to provide support to grantees for supplemental data collection, analysis, and coordination associated with evaluation activities.
 
 "(c)
 

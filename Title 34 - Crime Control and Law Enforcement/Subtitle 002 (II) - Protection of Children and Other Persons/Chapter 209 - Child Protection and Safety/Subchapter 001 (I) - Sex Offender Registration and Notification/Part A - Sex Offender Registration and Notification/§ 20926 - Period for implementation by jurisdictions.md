@@ -18,7 +18,7 @@ The Attorney General may authorize up to two 1-year extensions of the deadline.
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original "this title", meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+This subchapter, referred to in subsec. (a), was in the original "this title", meaning title I of Pub. L. 109–248,July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 The software described in section 20925 of this title, referred to in subsec. (a)(2), became available on July 25, 2008. See Office of Justice Progs., U.S. Dep't of Justice, Annual Report to Congress 26 (Fiscal Year 2008).
 

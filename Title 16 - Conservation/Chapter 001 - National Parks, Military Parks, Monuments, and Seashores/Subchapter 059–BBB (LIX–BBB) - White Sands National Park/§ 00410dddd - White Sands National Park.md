@@ -176,7 +176,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;The Secretary of the Army shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) manage the land described in subclause (III) in a manner consistent with the protection of natural and cultural resources within the missile range and the Park and in accordance with section 670a(a)(1)(B) of this title, division A of subtitle III of title 54, andthe Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) manage the land described in subclause (III) in a manner consistent with the protection of natural and cultural resources within the missile range and the Park and in accordance with section 670a(a)(1)(B) of this title, division A of subtitle III of title 54, and the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) include the land described in subclause (III) in the integrated natural and cultural resource management plan for the missile range.
 

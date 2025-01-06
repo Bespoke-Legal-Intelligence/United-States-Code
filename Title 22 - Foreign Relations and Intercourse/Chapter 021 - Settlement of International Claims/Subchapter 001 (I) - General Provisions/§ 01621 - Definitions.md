@@ -58,11 +58,11 @@ Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, as amended
 
 "(a)
 
-Recognition of the Suffering of the Residents of Guam.—The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjected to death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
+Recognition of the Suffering of the Residents of Guam.—The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjectedto death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
 
 "(b)
 
-Recognition of the Loyalty of the Residents of Guam.—The United States forever will be grateful to the residents of Guam for their steadfast loyalty to the United States, as demonstrated by the countless acts ofcourage they performed despite the threat of death or great bodily harm they faced at the hands of the Imperial Japanese military forces that occupied Guam during World War II.
+Recognition of the Loyalty of the Residents of Guam.—The United States forever will be grateful to the residents of Guam for their steadfast loyalty to the United States, as demonstrated by the countless acts of courage they performed despite the threat of death or great bodily harm they faced at the hands of the Imperial Japanese military forces that occupied Guam during World War II.
 
 #### "SEC. 1703. GUAM WORLD WAR II CLAIMS FUND.
 
@@ -294,7 +294,7 @@ Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, provided that:
 
 &emsp;"(2) Following World War II, the United States and its allies attempted to return the stolen artworks to their countries of origin. Despite these efforts, many works of art were never reunited with their owners. Some of the art has since been discovered in the United States.
 
-&emsp;"(3) In 1998, the United States convened a conference with 43 other nations in Washington, DC,known as the Washington Conference, which produced Principles on Nazi-Confiscated Art. One of these principles is that 'steps should be taken expeditiously to achieve a just and fair solution' to claims involving such art that has not been restituted if the owners or their heirs can be identified.
+&emsp;"(3) In 1998, the United States convened a conference with 43 other nations in Washington, DC, known as the Washington Conference, which produced Principles on Nazi-Confiscated Art. One of these principles is that 'steps should be taken expeditiously to achieve a just and fair solution' to claims involving such art that has not been restituted if the owners or their heirs can be identified.
 
 &emsp;"(4) The same year, Congress enacted the Holocaust Victims Redress Act (Public Law 105–158, 112 Stat. 15), which expressed the sense of Congress that 'all governments should undertake good faith efforts to facilitate the return of private and public property, such as works of art, to the rightful owners in cases where assets were confiscated from the claimant during the period of Nazi rule and there is reasonable proof that the claimant is the rightful owner.'.
 
@@ -366,7 +366,7 @@ Possible Misidentification.—For purposes of subsection (a)(1), in a case in wh
 
 "(c)
 
-Preexisting Claims.—Except as provided in subsection (e), a civil claim or cause of action described in subsection (a) shall be deemed to have been actually discovered on the date of enactment of this Act \[Dec. 16, 2016\] if—
+Preexisting Claims.—Except as provided in subsection (e), a civil claim or cause of action described insubsection (a) shall be deemed to have been actually discovered on the date of enactment of this Act \[Dec. 16, 2016\] if—
 
 &emsp;"(1) before the date of enactment of this Act—
 
@@ -512,7 +512,7 @@ Types of assets.—Assets described in this paragraph include—
 
 &emsp;"(3)
 
-Coordination of activities.—In carrying out its duties under paragraph (1), the Commission shall, to the maximum extent practicable, coordinate its activities with, and not duplicate similar activitiesalready being undertaken by, private individuals, private entities, or government entities, whether domestic or foreign.
+Coordination of activities.—In carrying out its duties under paragraph (1), the Commission shall, to the maximum extent practicable, coordinate its activities with, and not duplicate similar activities already being undertaken by, private individuals, private entities, or government entities, whether domestic or foreign.
 
 &emsp;"(4)
 
@@ -634,7 +634,7 @@ Duties of executive director.—The executive director of the Commission shall�
 
 &emsp;"(4)
 
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director, deputy executive director, general counsel, and other personnel employed by the Commission, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United StatesCode, relating to classification of positions and General Schedule pay rates, except that—
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director, deputy executive director, general counsel, and other personnel employed by the Commission, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that—
 
 &emsp;&emsp;"(A) the rate of pay for the executive director of the Commission may not exceed the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code; and
 

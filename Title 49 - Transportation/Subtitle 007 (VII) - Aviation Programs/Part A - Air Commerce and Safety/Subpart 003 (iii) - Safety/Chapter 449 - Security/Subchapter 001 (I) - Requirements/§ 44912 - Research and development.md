@@ -54,7 +54,7 @@ Review of Threats.—(1) The Administrator shall periodically review threats to 
 
 &emsp;(G) the ability to screen passengers, carry-on baggage, checked baggage, and cargo; and
 
-&emsp;(H) the technologies that might be used in the future to attempt to destroy or otherwise threaten commercial aircraft and the way in which those technologies can be countered effectively.
+&emsp;(H) the technologies that might be used in the future to attempt to destroy or otherwisethreaten commercial aircraft and the way in which those technologies can be countered effectively.
 
 (2) The Administrator shall use the results of the review under this subsection to develop the focus and priorities of the program established under subsection (a) of this section.
 
@@ -158,7 +158,7 @@ In subsection (a)(1), the words "It shall be the purpose of the program establis
 
 In subsection (a)(2)(A), the word "activities" is added for clarity. The words "departments, agencies, and instrumentalities of the United States Government" are substituted for "Federal agencies" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(4), the words "The Administrator may . . . make grants" are substituted for "Amounts appropriated for each fiscal year under paragraph (9) shall be made available by the Administrator, by way of grants" to eliminate unnecessary words. In clause (A), the words "institutions of higher learning" are substituted for "colleges, universities", and the word "institutions" is substituted for "institutions and facilities", for clarity and consistency in the revised title and with other titles of the Code. In clause (B), the words "governmental authorities" are substituted for "governmental entities" for consistency in the revised title and with other titles of the Code.
+In subsection (a)(4), the words "The Administrator may . . . make grants" are substituted for "Amounts appropriated for each fiscal year under paragraph (9) shall be made available by the Administrator, by way of grants" to eliminate unnecessary words. In clause\(A), the words "institutions of higher learning" are substituted for "colleges, universities", and the word "institutions" is substituted for "institutions and facilities", for clarity and consistency in the revised title and with other titles of the Code. In clause (B), the words "governmental authorities" are substituted for "governmental entities" for consistency in the revised title and with other titles of the Code.
 
 In subsection (b)(1), before clause (A), the words "Not later than 180 days after November 16, 1990" are omitted as obsolete. Clause (B) is substituted for 49 App.:1357(d)(3)(B)(ii) and (iii) for clarity and to eliminate unnecessary words.
 

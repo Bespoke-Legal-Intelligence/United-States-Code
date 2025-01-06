@@ -48,7 +48,7 @@
 
 #### (1) Consultation
 
-&emsp;The WTC Program Administrator shall consult with 2 steering committees (each in this section referred to as a "Steering Committee") that are established as follows:
+&emsp;The WTC Program Administrator shall consult with 2 steering committees (each in thissection referred to as a "Steering Committee") that are established as follows:
 
 #### (A) WTC Responders Steering Committee
 

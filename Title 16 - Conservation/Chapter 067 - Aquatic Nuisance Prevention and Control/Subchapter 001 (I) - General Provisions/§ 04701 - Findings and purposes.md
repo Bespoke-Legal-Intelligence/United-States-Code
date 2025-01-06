@@ -106,7 +106,7 @@ Pub. L. 101–646, title I, §1001, Nov. 29, 1990, 104 Stat. 4761, as amended by
 
 #### Invasive Species in Alpine Lakes Pilot Program
 
-Pub. L. 116–260, div. AA, title V, §507, Dec. 27, 2020, 134 Stat. 2749, as amended by Pub. L. 117–263, div. H, title LXXXI, §8382(b), Dec. 23, 2022, 136 Stat. 3828, provided that:
+Pub. L. 116–260, div. AA, title V, §507, Dec. 27, 2020, 134 Stat. 2749, as amended by Pub. L. 117–263, div. H, title LXXXI, §8382(b), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, §1303(b), Jan. 4, 2025, 138 Stat. 3114, provided that:
 
 "(a)
 
@@ -122,7 +122,7 @@ Partnerships.—The Secretary of the Interior, acting through the Director of th
 
 "(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2028."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2030."
 
 #### Aquatic Invasive Species Prevention
 

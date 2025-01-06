@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;In the case of a joint return where both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year—
 
-&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceedthe sum of such spouses' disability income, or
+&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses' disability income, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(d) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, andto carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(d) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 #### Effective Date of 1983 Amendment
 

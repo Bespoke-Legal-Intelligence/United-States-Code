@@ -24,7 +24,7 @@ In awarding grants under this section, the Secretary shall use a peer review pro
 
 #### (d) Supplement not supplant
 
-Funds made available under this section shall be used to supplement, and not supplant, other State or local funds used for developing State data systems.
+Funds made available under this section shall be used to supplement, and not supplant, otherState or local funds used for developing State data systems.
 
 #### (e) Report
 

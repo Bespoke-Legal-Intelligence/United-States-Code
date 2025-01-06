@@ -18,7 +18,7 @@
 
 &emsp;(6) the judgment is based on an order confirming an arbitral award rendered against the foreign state, provided that attachment in aid of execution, or execution, would not be inconsistent with any provision in the arbitral agreement, or
 
-&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008), regardless ofwhether the property is or was involved with the act upon which the claim is based.
+&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008), regardless of whether the property is or was involved with the act upon which the claim is based.
 
 (b) In addition to subsection (a), any property in the United States of an agency or instrumentality of a foreign state engaged in commercial activity in the United States shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
 
@@ -74,7 +74,7 @@ In general.—Subject to paragraph (3), the property of a foreign state against 
 
 &emsp;(2)
 
-United states sovereign immunity inapplicable.—Any property of a foreign state, or agency or instrumentality of a foreign state,to which paragraph (1) applies shall not be immune from attachment in aid of execution, or execution, upon a judgment entered under section 1605A because the property is regulated by the United States Government by reason of action taken against that foreign state under the Trading With the Enemy Act or the International Emergency Economic Powers Act.
+United states sovereign immunity inapplicable.—Any property of a foreign state, or agency or instrumentality of a foreign state, to which paragraph (1) applies shall not be immune from attachment in aid of execution, or execution, upon a judgment entered under section 1605A because the property is regulated by the United States Government by reason of action taken against that foreign state under the Trading With the Enemy Act or the International Emergency Economic Powers Act.
 
 &emsp;(3)
 
@@ -162,7 +162,7 @@ Presidential Waiver.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), upon determining on an asset-by-asset basis that a waiver isnecessary in the national security interest, the President may waive the requirements of subsection (a) in connection with (and prior to the enforcement of) any judicial order directing attachment in aid of execution or execution against any property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations.
+In general.—Subject to paragraph (2), upon determining on an asset-by-asset basis that a waiver is necessary in the national security interest, the President may waive the requirements of subsection (a) in connection with (and prior to the enforcement of) any judicial order directing attachment in aid of execution or execution against any property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations.
 
 &emsp;"(2)
 
@@ -206,7 +206,7 @@ Terrorist party.—The term 'terrorist party' means a terrorist, a terrorist org
 
 #### Waiver of Exception to Immunity From Attachment or Execution
 
-Pub. L. 105–277, div. A, §101(h) \[title I, §117(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492, which authorized the President to waive the requirements of section 101(h) \[title I, §117\] of Pub. L. 105–277, which amended this section and section 1606 of this title and enacted provisions set out as a note above, in the interest of national security, was repealed by Pub. L. 106–386, div. C, §2002(g)(2), formerly §2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(2), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337.
+Pub. L. 105–277, div. A, §101(h) \[title I, §117(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492, which authorizedthe President to waive the requirements of section 101(h) \[title I, §117\] of Pub. L. 105–277, which amended this section and section 1606 of this title and enacted provisions set out as a note above, in the interest of national security, was repealed by Pub. L. 106–386, div. C, §2002(g)(2), formerly §2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(2), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337.
 
 #### <b>Executive Documents</b>
 

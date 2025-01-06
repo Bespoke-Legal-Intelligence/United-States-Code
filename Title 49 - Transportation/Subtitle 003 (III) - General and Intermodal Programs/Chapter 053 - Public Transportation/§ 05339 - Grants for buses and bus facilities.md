@@ -102,7 +102,7 @@ Pilot program for cost-effective capital investment.—
 
 &emsp;&emsp;(A)
 
-In general.—For each of fiscal years 2016 through 2020, the Secretary shall carry out a pilot program under which an eligible recipient (as described in paragraph (4)) in an urbanized area with population of not lessthan 200,000 and not more than 999,999 may elect to participate in a State pool in accordance with this paragraph.
+In general.—For each of fiscal years 2016 through 2020, the Secretary shall carry out a pilot program under which an eligible recipient (as described in paragraph (4)) in an urbanized area with population of not less than 200,000 and not more than 999,999 may elect to participate in a State pool in accordance with this paragraph.
 
 &emsp;&emsp;(B)
 
@@ -114,7 +114,7 @@ Requests for participation.—A State, and eligible recipients in the State desc
 
 &emsp;&emsp;(D)
 
-Allocations to participating states.—For each fiscal year, the Secretary shall allocate to each State participating in the program the total amount of funds that otherwise would be allocated to the urbanized areas of the eligible recipients participating in the State's pool for that fiscal year pursuant to the formulas referred to in paragraph (5).
+Allocations to participating states.—For each fiscal year, the Secretaryshall allocate to each State participating in the program the total amount of funds that otherwise would be allocated to the urbanized areas of the eligible recipients participating in the State's pool for that fiscal year pursuant to the formulas referred to in paragraph (5).
 
 &emsp;&emsp;(E)
 
@@ -202,7 +202,7 @@ Availability of funds.—Any amounts made available to carry out this subsection
 
 &emsp;&emsp;(A) shall remain available for 3 fiscal years after the fiscal year for which the amount is made available; and
 
-&emsp;&emsp;(B) that remain unobligated at the end of the period described in subparagraph (A) shall be added to the amount made availableto an eligible project in the following fiscal year.
+&emsp;&emsp;(B) that remain unobligated at the end of the period described in subparagraph (A) shall be added to the amount made available to an eligible project in the following fiscal year.
 
 &emsp;(8)
 

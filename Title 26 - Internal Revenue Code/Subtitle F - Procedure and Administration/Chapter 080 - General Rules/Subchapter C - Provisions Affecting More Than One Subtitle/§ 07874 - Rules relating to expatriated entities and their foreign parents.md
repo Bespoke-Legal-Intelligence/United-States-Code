@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) after the acquisition at least 60 percent of the stock (by vote or value) of the entity is held—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of an acquisition with respect to a domestic corporation, byformer shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of an acquisition with respect to a domestic corporation, by former shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an acquisition with respect to a domestic partnership, by former partners of the domestic partnership by reason of holding a capital or profits interest in the domestic partnership, and
 

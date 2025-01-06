@@ -26,7 +26,7 @@ Definitions.—As used in this chapter—
 
 (b)
 
-Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245, 4246, or 4248, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, butnot to exceed thirty days, and under section 4242, 4243, 4246, or 4248, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, 4246, or 4248, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
+Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245, 4246, or 4248, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, 4246, or 4248, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, 4246, or 4248, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
 
 (c)
 
@@ -76,7 +76,7 @@ Habeas Corpus Unimpaired.—Nothing contained in section 4243, 4246, or 4248 pre
 
 (h)
 
-Discharge.—Regardless of whether the director of the facility in which a person is committed has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, 4246, or 4248, or subsection (f) of section 4243, counsel for the person or his legal guardian may, at any time during such person's commitment, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be committed. A copy of the motion shall be sent to the director of the facility in which the person is committed and to the attorney for the Government.
+Discharge.—Regardless of whether the director of the facility in which a person is committed has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, 4246, or 4248, or subsection (f) of section4243, counsel for the person or his legal guardian may, at any time during such person's commitment, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be committed. A copy of the motion shall be sent to the director of the facility in which the person is committed and to the attorney for the Government.
 
 (i)
 
@@ -86,7 +86,7 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 &emsp;(B) may apply for the civil commitment, pursuant to State law, of a person committed to his custody pursuant to section 4243, 4246, or 4248;
 
-&emsp;(C) shall, before placing a person in a facility pursuant to the provisions of section 4241, 4243,4244, 4245, 4246, or 4248, consider the suitability of the facility's rehabilitation programs in meeting the needs of the person; and
+&emsp;(C) shall, before placing a person in a facility pursuant to the provisions of section 4241, 4243, 4244, 4245, 4246, or 4248, consider the suitability of the facility's rehabilitation programs in meeting the needs of the person; and
 
 &emsp;(D) shall consult with the Secretary of the Department of Health and Human Services in the general implementation of the provisions of this chapter and in the establishment of standards for facilities used in the implementation of this chapter.
 

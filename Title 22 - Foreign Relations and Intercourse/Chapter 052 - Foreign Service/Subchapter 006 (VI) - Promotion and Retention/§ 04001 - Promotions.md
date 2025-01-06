@@ -66,7 +66,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 #### Amendments
 
-<b>2021</b>—Subsec. (c)(6)(A). Pub. L. 117–81, in introductory provisions, substituted "promotion, on or after January 1, 2017," for "promotion" and "Foreign Service officer, appointed under section 3942(a)(1) of this title, who has general responsibility for carrying out the functions of the Service" for "individual joining the Service on or after January 1, 2017,".
+<b>2021</b>—Subsec. (c)(6)(A). Pub. L. 117–81, in introductory provisions, substituted "promotion, on or after January 1, 2017," for "promotion" and "Foreign Service officer, appointed under section 3942(a)(1) of this title, whohas general responsibility for carrying out the functions of the Service" for "individual joining the Service on or after January 1, 2017,".
 
 <b>2016</b>—Subsec. (c)(4). Pub. L. 114–323, §715(b)(5), struck out par. (4) which read as follows: "Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements."
 

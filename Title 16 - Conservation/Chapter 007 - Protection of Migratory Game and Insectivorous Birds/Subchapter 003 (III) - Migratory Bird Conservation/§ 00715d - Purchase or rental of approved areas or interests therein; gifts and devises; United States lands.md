@@ -2,7 +2,7 @@
 
 The Secretary of the Interior may—
 
-&emsp;(1) purchase or rent such areas or interests therein as have been approved for purchase or rental by the Commission at the price or prices fixed by the Commission; and
+&emsp;(1) purchase or rent such areas or interests therein as have been approved for purchase orrental by the Commission at the price or prices fixed by the Commission; and
 
 &emsp;(2) acquire, by gift or devise, any area or interests therein;
 

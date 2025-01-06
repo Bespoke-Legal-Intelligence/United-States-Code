@@ -36,7 +36,7 @@ The term "satisfactory evidence" means—
 
 &emsp;&emsp;(A) one or more declarations under oath by the importer or the person for whose account the material is to be imported, stating that, to the best of his knowledge, the material was exported from the State Party on or before the date such material was designated under section 2604 of this title, and
 
-&emsp;&emsp;(B) a statement by the consignor or person who sold the material to the importer which states the date, or if not known, his belief, that the material was exported from the State Party on or before the date such material was designated under section 2604 of this title, and the reasons on which the statement is based.
+&emsp;&emsp;(B) a statement by the consignor or person who sold the material to the importer whichstates the date, or if not known, his belief, that the material was exported from the State Party on or before the date such material was designated under section 2604 of this title, and the reasons on which the statement is based.
 
 #### (d) Related persons
 

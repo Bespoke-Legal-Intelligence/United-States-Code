@@ -24,7 +24,7 @@ Section was formerly classified to section 403–5b of this title prior to edito
 
 #### Prior Provisions
 
-A prior section 105B of act July 26, 1947, ch. 343, title I, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616, which related to protection of operational files of the National Imagery and Mapping Agency, was renumbered by subsequent acts and transferred. See section 3142 of this title.
+A prior section 105B of act July 26, 1947, ch. 343, title I, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616, which related to protection of operational files of the National Imagery and MappingAgency, was renumbered by subsequent acts and transferred. See section 3142 of this title.
 
 #### Amendments
 

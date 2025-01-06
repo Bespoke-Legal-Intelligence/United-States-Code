@@ -16,7 +16,7 @@ Section 410pp–3, Pub. L. 100–567, §5, Oct. 31, 1988, 102 Stat. 2849, requir
 
 Section 410pp–4, Pub. L. 100–567, §6, Oct. 31, 1988, 102 Stat. 2849, established the Zuni-Cibola National Historical Park Advisory Commission and provided for the terms of its members, its expenses, Chair, and meetings, and applicability of the Federal Advisory Committee Act.
 
-Section 410pp–5, Pub. L. 100–567, §7, Oct. 31, 1988, 102 Stat. 2850; Pub. L. 103–437, §6(k), Nov. 2, 1994, 108 Stat. 4586, related to a general management plan for the park.
+Section 410pp–5, Pub. L. 100–567, §7, Oct. 31, 1988, 102 Stat. 2850; Pub. L. 103–437, §6(k), Nov. 2, 1994, 108 Stat.4586, related to a general management plan for the park.
 
 Section 410pp–6, Pub. L. 100–567, §8, Oct. 31, 1988, 102 Stat. 2851; Pub. L. 103–437, §6(k), Nov. 2, 1994, 108 Stat. 4586, related to cultural and religious uses of the park.
 

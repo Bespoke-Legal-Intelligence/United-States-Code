@@ -80,7 +80,7 @@ Nothing in this section shall be construed to affect any other provision of law 
 
 &emsp;&emsp;(C) the capability of trauma centers and military trauma care providers to increase medical surge capacity, including as a result of a large-scale event;
 
-&emsp;&emsp;(D) the ability of grant recipients to maintain the integration of the military traumaproviders or teams of providers as part of the trauma center;
+&emsp;&emsp;(D) the ability of grant recipients to maintain the integration of the military trauma providers or teams of providers as part of the trauma center;
 
 &emsp;&emsp;(E) efforts to incorporate military trauma care providers into operational exercises and training and drills for public health emergencies; and
 

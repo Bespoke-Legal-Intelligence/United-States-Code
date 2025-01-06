@@ -24,7 +24,7 @@ Not later than 180 days after December 27, 2020, and not less frequently than an
 
 #### (c) Imposition of sanctions
 
-The President shall impose the sanctions described in subsection (d) with respect to eachforeign person identified in the report required under subsection (b).
+The President shall impose the sanctions described in subsection (d) with respect to each foreign person identified in the report required under subsection (b).
 
 #### (d) Sanctions described
 

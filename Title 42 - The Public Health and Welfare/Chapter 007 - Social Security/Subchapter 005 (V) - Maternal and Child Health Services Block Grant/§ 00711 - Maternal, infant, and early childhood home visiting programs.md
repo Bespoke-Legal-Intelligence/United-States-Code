@@ -68,7 +68,7 @@ The purposes of this section are—
 
 #### (3) Authority to use grant for a pay for outcomes initiative
 
-&emsp;An eligible entity to which a grant is made under paragraph (1) may use up to 25 percentof the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
+&emsp;An eligible entity to which a grant is made under paragraph (1) may use up to 25 percent of the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
 
 #### (4) Grant amounts
 
@@ -130,7 +130,7 @@ The purposes of this section are—
 
 #### (III) Determination of obligations from non-Federal funds
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the total amount obligated by an eligible entity from non-Federal funds is the total ofthe amounts that are obligated by the eligible entity from non-Federal sources, to the extent that—
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the total amount obligated by an eligible entity from non-Federal funds is the total of the amounts that are obligated by the eligible entity from non-Federal sources, to the extent that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the services are delivered in compliance with subsections (d)(2) and (d)(3);
 
@@ -256,13 +256,13 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Corrective action plan
 
-&emsp;&emsp;&emsp;If the report submitted by the eligible entity under clause (i) fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A), subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+&emsp;&emsp;&emsp;If the report submitted by the eligible entity under clause (i) fails to demonstrateimprovement in at least 4 of the areas specified in subparagraph (A), the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A), subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
 
 #### (iii) Technical assistance
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall provide an eligible entity required to develop and implement an improvement plan under clause\(ii) with technical assistance to develop and implement the plan. The Secretary may provide the technical assistance directly or through grants, contracts, or cooperative agreements.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall provide an eligible entity required to develop and implement an improvement plan under clause (ii) with technical assistance to develop and implement the plan. The Secretary may provide the technical assistance directly or through grants, contracts, or cooperative agreements.
 
 #### (II) Advisory panel
 
@@ -326,7 +326,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the servicedelivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
+&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the service delivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
 
 &emsp;&emsp;&emsp;&emsp;(I) The model conforms to a clear consistent home visitation model that has been in existence for at least 3 years and is research-based, grounded in relevant empirically-based knowledge, linked to program determined outcomes, associated with a national organization or institution of higher education that has comprehensive home visitation program standards that ensure high quality service delivery and continuous program quality improvement, and has demonstrated significant,<sup>2</sup> (and in the case of the service delivery model described in item (aa), sustained) positive outcomes, as described in the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), when evaluated using well-designed and rigorous—
 
@@ -454,7 +454,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;(8) Assurances that the entity will—
 
-&emsp;&emsp;(A) submit annual reports to the Secretary regarding the program and activities carried out under the program that include such information and data as the Secretary shall require, including the number of virtual home visits conducted under the program in the year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted; and
+&emsp;&emsp;(A) submit annual reports to the Secretary regarding the program and activities carried out under the program that include such information and data as the Secretary shall require, including the number of virtual home visits conducted under the program inthe year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted; and
 
 &emsp;&emsp;(B) participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
 
@@ -738,7 +738,7 @@ By December 31, 2023, and annually thereafter, the Secretary shall submit to the
 
 #### (4) Allocation of funds
 
-&emsp;To the extent that the grant amount awarded under this section to an eligible entity is determined on the basis of relative population or poverty considerations, the Secretary shall make the determination using the most accurate Federal data available for the eligible entity.
+&emsp;To the extent that the grant amount awarded under this section to an eligible entity isdetermined on the basis of relative population or poverty considerations, the Secretary shall make the determination using the most accurate Federal data available for the eligible entity.
 
 #### (5) Disposition of excess funds reserved for research, evaluation, and administration
 

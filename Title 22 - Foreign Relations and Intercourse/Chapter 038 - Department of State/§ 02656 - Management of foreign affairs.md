@@ -18,6 +18,196 @@ Section was formerly classified to section 156 of Title 5 prior to the general r
 
 Pub. L. 115–409, §412, Dec. 31, 2018, 132 Stat. 5411, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 2651 of this title\] may be construed as authorizing the use of military force."
 
+#### Expedited Opening of Diplomatic Missions
+
+Pub. L. 118–159, div. G, title LXXII, §7210, Dec. 23, 2024, 138 Stat. 2533, provided that:
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) Increasing the United States' global diplomatic footprint is imperative to advance United States' national security interests, particularly in the face of a massive diplomatic expansion of our strategic competitors.
+
+&emsp;"(2) Opening or re-opening diplomatic missions, often in small island nations where there is no United States Government presence, but one is needed to advance United States strategic objectives.
+
+&emsp;"(3) Diplomatic missions should be resourced and equipped for success upon opening to allow diplomats to focus on advancing United States national interests in-country.
+
+&emsp;"(4) The United States can and should move more swiftly to open new diplomatic missions and provide United States diplomats and locally employed staff with a workplace that meets locally appropriate quality, safety, and security standards.
+
+&emsp;"(5) To do this, the Department \[of State\] must streamline and support the process of opening new posts to identify efficiencies and remove obstacles that are unduly complicating the opening of new diplomatic missions, particularly in small island states and similarly situated locations.
+
+"(b)
+
+Report to Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary \[of State\] shall submit to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] and the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives a report on how the Department is creating anew framework to provide such diplomatic missions the needed resources and authorities to quickly and efficiently stand up and operate from the moment United States personnel arrive, or even before the opening of a new mission, particularly in small island nations.
+
+&emsp;"(2)
+
+Elements.—The report required under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) a list of authorities and processes related to the opening of new diplomatic missions;
+
+&emsp;&emsp;"(B) a list of authorities and processes related to the opening of new diplomatic missions that the Department can waive to expediently stand up new diplomatic missions;
+
+&emsp;&emsp;"(C) essential functions that each new diplomatic mission should be able to carry out independently upon opening;
+
+&emsp;&emsp;"(D) a description of functions that another post or support center will need to carry out to support the new mission;
+
+&emsp;&emsp;"(E) a list of essential equipment and access to facilities, including to support secure communications, that should be provided to each new diplomatic mission, the approval of which should be handled prior to or shortly after the opening of the new diplomatic mission, including arrangements for basic office equipment, vehicles, and housing;
+
+&emsp;&emsp;"(F) the number of recommended locally engaged staff and United States direct hires resident in-country;
+
+&emsp;&emsp;"(G) the number of non-resident support staff who are assigned to the new diplomatic mission, such as from another post or regional support center;
+
+&emsp;&emsp;"(H) a description of how medical and consular support services could be provided;
+
+&emsp;&emsp;"(I) procedures for requesting an expansion or renovation of the post's functions or physical platform after opening, should that be needed;
+
+&emsp;&emsp;"(J) any other authorities or processes that may be required to successfully and quickly stand up a new diplomatic mission, including any new authorities the Department may need;
+
+&emsp;&emsp;"(K) a list of incentives, in addition to pay differentials, being considered for such posts;
+
+&emsp;&emsp;"(L) a description of any specialized training, including for management and security personnel supporting the establishment of such new embassies that may be required; and
+
+&emsp;&emsp;"(M) a list of what steps the Department is taking to expedite embassy construction in Dublin, Ireland, consulate build-out in Nuuk, Greenland, and embassy renovations in Buenos Aires, Argentina, and projected new posts in the Caribbean and Pacific Islands.
+
+"(c)
+
+Senior Official to Lead New Embassy Expansion.—
+
+&emsp;"(1)
+
+Designation.—The Secretary shall designate an assistant secretary-level senior official to expedite and make recommendations for the reform of procedures for opening new diplomatic missions abroad, particularly in small island states.
+
+&emsp;"(2)
+
+Responsibilities.—The senior official designated pursuant to paragraph (1) shall be responsible for proposing policy and procedural changes to the Secretary to—
+
+&emsp;&emsp;"(A) expediting the resourcing of new diplomatic missions by waiving or reducing when possible mandatory processes required to open new diplomatic missions, taking into account the threat environment and circumstances in the host country;
+
+&emsp;&emsp;"(B) when necessary, quickly adjudicating within the Department any decision points that arise during the planning and execution phases of the establishment of a new mission;
+
+&emsp;&emsp;"(C) ensuring new missions receive the management and operational support needed, including by designating such support be undertaken by another post, regional support center, or Department entities based in the United States; and
+
+&emsp;&emsp;"(D) ensuring that the authorities provided in the Secure Embassy Construction and Counterterrorism Act of 1999 (title VI of division A of appendix G of Public Law 106–113 \[113 Stat. 1501A–451; see Short Title of 1999 Amendment note set out under section 4801 of this title\]), as amended by the Secure Embassy Construction and Counterterrorism Act of 2022 (section 9301 of Public Law 117–263; 136 Stat. 3879), are fully utilized in the planning for all new diplomatic missions.
+
+"(d)
+
+New Diplomatic Mission Defined.—In this section, the term 'new diplomatic mission' means any bilateral diplomatic mission opened since January 1, 2020, in a country where there had not been a bilateral diplomatic mission since the date that is 20 years before the date of the enactment of this Act.
+
+"(e)
+
+Sunset.—The authorities and requirements of this section shall terminate 5 years after the date of the enactment of this Act."
+
+#### United States-Africa Leaders Summit and Related Matters
+
+Pub. L. 118–159, div. G, title LXXVIII, §7803, Dec. 23, 2024, 138 Stat. 2558, provided that:
+
+"(a)
+
+United States-Africa Leaders Summit.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], and biennially thereafter, the President shall convene a United States-Africa Leaders Summit to strengthen ties and promote cooperation with African leaders, as well as civil society, business, diaspora, women, and youth leaders.
+
+&emsp;"(2)
+
+Participation.—Each summit convened pursuant to this subsection shall have participation, including in meetings with United States officials, from—
+
+&emsp;&emsp;"(A) leaders of civilian-led governments of African countries in good standing with the African Union, provided that such leaders—
+
+&emsp;&emsp;&emsp;"(i) are not sanctioned by the United States; and
+
+&emsp;&emsp;&emsp;"(ii) have not been found, by credible international observers or other international bodies, to have undermined democratic elections;
+
+&emsp;&emsp;"(B) heads of transitional governments that are implementing a roadmap to hold credible elections and who are unaffiliated with actions that were related to an unconstitutional change of administration; and
+
+&emsp;&emsp;"(C) civil society from each of the African countries represented at the Summit.
+
+&emsp;"(3)
+
+Non-payment of au membership fees not basis for disqualification.—For the purposes of this subsection, non-payment of membership fees to the African Union shall not disqualify a country's leader.
+
+"(b)
+
+United States-Africa City Summit ('mini Summit').—The Secretary \[of State\] should, not later than one year after each summit hosted under subsection (a) host a United States-Africa City Summit ('Mini Summit') across cities in Africa or the United States to promote subregional cooperation and serve as a catalyst in fostering engagement with representatives of government, civil society, business, academia, youth, culture and the arts, the African diaspora community, and underrepresented groups.
+
+"(c)
+
+United States-Africa Leaders Summit Implementation Unit.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall establish within the Bureau for African Affairs of the Department of State a United States-Africa Leaders Summit implementation unit responsible for coordinating, planning and implementing summits, which should include robust interagency consultation and may include, on a temporary basis, personnel seconded from USAID \[United States Agency for International Development\] and other Federal agencies as appropriate, and which shall be led by an individual who has previously been appointed by the President and confirmed by the Senate.
+
+&emsp;"(2)
+
+Duties.—The duties of the implementation unit authorized by this subsection shall include—
+
+&emsp;&emsp;"(A) using lessons learned from the 2022 African Leaders Summit and subsequent summits to inform planning of future summits;
+
+&emsp;&emsp;"(B) leading interagency efforts to provide guidance to United States embassies in African countries related to planning each summit and engagement with governments and civil society in advance of each summit;
+
+&emsp;&emsp;"(C) tracking and ensuring implementation of commitments made during United States-Africa Leaders Summits;
+
+&emsp;&emsp;"(D) liaising with interagency partners and the National Security Council regarding implementation of summit commitments;
+
+&emsp;&emsp;"(E) facilitating meetings and engagement with African Diaspora communities and stakeholders; and
+
+&emsp;&emsp;"(F) reporting quarterly on a public website of the Department \[of State\] regarding progress to accomplish summit commitments and status of commitments across Federal departments and agencies.
+
+&emsp;"(3)
+
+Requirement for consultation.—Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the implementation unit shall consult with the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] on summit planning and the fulfillment of commitments and any relevant follow on issues in the wake of each summit.
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated $28,000,000 in fiscal year 2025 and $14,000,000 for each of fiscal years 2026 through 2029. Such sums shall remain available for three fiscal years."
+
+#### Summit of the Americas
+
+Pub. L. 118–159, div. G, title LXXVIII, §7804, Dec. 23, 2024, 138 Stat. 2559, provided that:
+
+"(a)
+
+Statement of Policy.—It shall be the policy of the United States to work with the Summit of the Americas Secretariat to support the organization of a Summit of the Americas every 4 years, or more frequently as appropriate, subject to the availability of funds, to strengthen ties and promote cooperation between the United States and countries in the Western Hemisphere, as well as civil society, business, diaspora, women, and youth leaders.
+
+"(b)
+
+Authorization.—The Secretary \[of State\] is authorized to carry out the policy described in subsection (a).
+
+"(c)
+
+Cities Summit of the Americas.—
+
+&emsp;"(1)
+
+Findings.—Congress makes the following findings:
+
+&emsp;&emsp;"(A) Subnational diplomacy strengthens democratic governance by enhancing the ability of local leader to tackle shared challenges and deepens United States ties with regional partners by localizing bilateral and multilateral partnerships and connections.
+
+&emsp;&emsp;"(B) The first-ever Cities Summit of the Americas in 2023 promoted a valuable exchange of best practices and lessons learned between city, State, municipal, and regional leaders and should be held as part of the Summit of the Americas process.
+
+&emsp;"(2)
+
+In general.—The Secretary is authorized to work with the Summit of the Americas Secretariat to support the organization of Cities Summit of the Americas, across cities in the Western Hemisphere, including the United States, to take place as a part of each Summit of the Americas described in subsection (a), to promote subnational cooperation and serve as a catalyst in fostering engagement with representatives of government, civil society, faith-based organizations, business, academia, youth, culture and the arts, Latin American and Caribbean diaspora communities, and underrepresented groups.
+
+"(d)
+
+Implementation.—The Secretary is authorized to designate an existing official to serve within the Department \[of State\] as senior-level coordinator to coordinate, in conjunction with other relevant agencies, matters related to the implementation of Summit of \[the\] Americas commitments, including—
+
+&emsp;"(1) tracking and ensuring implementation of commitments made during Summits of the Americas; and
+
+&emsp;"(2) liaising with interagency partners and the National Security Council regarding implementation of summit commitments.
+
+"(e)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], and annually thereafter for 5 years, the Secretary shall submit to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] a report on the implementation of this section, including the status of commitments of the United States and participating partners for the prior year and upcoming year."
+
 #### Global Cooperative Framework to End Human Rights Abuses in Sourcing Critical Minerals
 
 Pub. L. 118–31, div. E, title LIV, §5411, Dec. 22, 2023, 137 Stat. 948, provided that:
@@ -48,7 +238,7 @@ Relationship to United States Law.—Nothing in the framework under subsection (
 
 "(e)
 
-Extractive Industries Transparency Initiative and Certain Provisions of the Dodd-Frank WallStreet Reform and Consumer Protection Act.—Nothing in this section shall—
+Extractive Industries Transparency Initiative and Certain Provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act.—Nothing in this section shall—
 
 &emsp;"(1) affect the authority of the President to take any action to join and subsequently comply with the terms and obligations of the Extractive Industries Transparency Initiative (EITI); or
 
@@ -68,7 +258,7 @@ Defined Term.—In this section, the term 'ASEAN' means the Association of South
 
 "(b)
 
-Establishment.—The Secretary \[of State\] is authorized to enter into a public-private partnership for the purposes of establishing a US-ASEAN Center in the United States to support United States economic and cultural engagement with Southeast Asia.
+Establishment.—The Secretary \[of State\] is authorized to enter into a public-private partnership for the purposes of establishing a US-ASEAN Center in theUnited States to support United States economic and cultural engagement with Southeast Asia.
 
 "(c)
 
@@ -530,151 +720,11 @@ Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533,
 
 #### Global Engagement Center
 
-Pub. L. 118–31, div. A, title XII, §1231, Dec. 22, 2023, 137 Stat. 458, provided that: "Not later than 30 days after making funds or personnel available to the Global Engagement Center established pursuant to section 1287 of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328\] (22 U.S.C. 2656 note) \[set out below\], the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notification that includes—
+Pub. L. 118–31, div. A, title XII, §1231, Dec. 22, 2023, 137 Stat. 458, required Secretary of Defense to report to Congress not later than 30 days after making funds or personnel available to the Global Engagement Center.
 
-&emsp;"(1) an accounting of such funds or personnel; and
+Pub. L. 117–81, div. E, title LIII, §5320, Dec. 27, 2021, 135 Stat. 2368, authorized Secretary of State to appoint employees of Department of State to carry out functions of the Global Engagement Center.
 
-&emsp;"(2) an explanation of the reason for the availability of such funds or personnel."
-
-Pub. L. 117–81, div. E, title LIII, §5320, Dec. 27, 2021, 135 Stat. 2368, provided that: "The Secretary may appoint, for a 3-year period that may be extended for up to an additional 2 years, solely to carry out the functions of the Global Engagement Center, employees of the Department without regard to the provisions of title 5, United States Code, governing appointment in the competitive service, and may fix the basic compensation of such employees without regard to chapter 51 and subchapter III of chapter 53 of such title."
-
-\[For definitions of "Secretary" and "Department" as used in section 5320 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
-
-Pub. L. 114–328, div. A, title XII, §1287, Dec. 23, 2016, 130 Stat. 2546, as amended by Pub. L. 115–232, div. A, title XII, §1284, Aug. 13, 2018, 132 Stat. 2076, provided that:
-
-"(a)
-
-Establishment.—
-
-&emsp;"(1)
-
-In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of State, in coordination with the Secretary of Defense and the heads of other relevant Federal departments and agencies, shall establish within the Department of State a Global Engagement Center (in this section referred to as the 'Center').
-
-&emsp;"(2)
-
-Purpose.—The purpose of the Center shall be to direct, lead, synchronize, integrate, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and foreign non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States and United States allies and partner nations.
-
-"(b)
-
-Functions.—The Center shall carry out the following functions:
-
-&emsp;"(1) Direct, lead, synchronize, integrate, and coordinate interagency and international efforts to track and evaluate counterfactual narratives abroad that threaten the policies, security, or stability of the United States and United States allies and partner nations.
-
-&emsp;"(2) Analyze relevant information, data, analysis, and analytics from United States Government agencies, United States allies and partner nations, think tanks, academic institutions, civil society groups, and other nongovernmental organizations.
-
-&emsp;"(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations.
-
-&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States.
-
-&emsp;"(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices.
-
-&emsp;"(6) Measure and evaluate the activities of the Center, including the outcomes of such activities, and implement mechanisms to ensure that the activities of the Center are updated to reflect the results of such measurement and evaluation.
-
-&emsp;"(7) Identify gaps in United States capabilities in areas relevant to the purpose of the Center and recommend necessary enhancements or changes.
-
-&emsp;"(8) Use information from appropriate interagency entities to identify the countries, geographic areas, and populations most susceptible to propaganda and disinformation, as well as the countries, geographic areas, and populations in which such propaganda and disinformation is likely to cause the most harm.
-
-&emsp;"(9) Administer the information access fund established pursuant to subsection (f).
-
-&emsp;"(10) Coordinate with United States allies and partner nations in order to amplify the Center's efforts and avoid duplication.
-
-&emsp;"(11) Maintain, collect, use, and disseminate records (as such term is defined in section 552a(a)(4) of title 5, United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight.
-
-"(c)
-
-Head of Center.—
-
-&emsp;"(1)
-
-Appointment.—The head of the Center shall be an individual who is an official of the Federal Government, who shall be appointed by the President.
-
-&emsp;"(2)
-
-Compliance with privacy and civil liberties laws.—The President shall designate a senior official to develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance.
-
-"(d)
-
-Employees of the Center.—
-
-&emsp;"(1)
-
-Detailees and assignees.—Any Federal Government employee may be detailed or assigned to the Center with or without reimbursement, consistent with applicable laws and regulations regarding such employee, and such detail or assignment shall be without interruption or loss of status or privilege.
-
-&emsp;"(2)
-
-Temporary personnel.—The Secretary of State should, when hiring temporary United States citizen personnel, preference the use of Foreign Service limited appointments both in the United States and abroad in accordance with section 309 of the Foreign Service Act of 1980 (22 U.S.C. 3949). The Secretary may hire United States citizens or aliens, as appropriate, including as personal services contractors, for purposes of personnel resources of the Center, if—
-
-&emsp;&emsp;"(A) the Secretary determines that existing personnel resources or expertise are insufficient;
-
-&emsp;&emsp;"(B) the period in which services are provided by a personal services contractor, including options,does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year;
-
-&emsp;&emsp;"(C) not more than 50 United States citizens or aliens are employed as personal services contractors under the authority of this paragraph at any time; and
-
-&emsp;&emsp;"(D) the authority of this paragraph is only used to obtain specialized skills or experience or to respond to urgent needs.
-
-"(e)
-
-Transfer of Amounts Authorized.—
-
-&emsp;"(1)
-
-In general.—For each of fiscal years 2019 and 2020, the Secretary of Defense is authorized to transfer, from amounts appropriated to the Secretary pursuant to the authorization under this Act \[see Tables for classification\], to the Secretary of State not more than $60,000,000, to carry out the functions of the Center.
-
-&emsp;"(2)
-
-Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
-
-&emsp;"(3)
-
-Inapplicability of reprogramming requirements.—The authority to transfer amounts under paragraph (1) shall not be subject to any reprogramming requirement under any other provision of law.
-
-"(f)
-
-Information Access Fund.—
-
-&emsp;"(1)
-
-Authority for grants.—The Center is authorized to provide grants or contracts of financial support to civil society groups, media content providers, nongovernmental organizations, federally funded research and development centers, private companies, or academic institutions for the following purposes:
-
-&emsp;&emsp;"(A) To support local entities and linkages among such entities, including independent media entities, that are best positioned to refute foreign propaganda and disinformation in affected communities.
-
-&emsp;&emsp;"(B) To collect and store examples of print, online, and social media disinformation and propaganda directed at the United States or United States allies and partner nations.
-
-&emsp;&emsp;"(C) To analyze and report on tactics, techniques, and procedures of foreign information warfare and other efforts with respect to disinformation and propaganda.
-
-&emsp;&emsp;"(D) To support efforts by the Center to counter efforts by foreign entities to use disinformation and propaganda to undermine or influence the policies, security, and social and political stability of the United States and United States allies and partner nations.
-
-&emsp;"(2)
-
-Funding availability and limitations.—The Secretary of State shall provide that each entity that receives funds under this subsection is selected in accordance with the relevant existing regulations through a process that ensures such entity has the credibility and capability to carry out effectively and in accordance with United States interests and objectives the purposes specified in paragraph (1) for which such entity received such funding.
-
-"(g)
-
-Reports.—
-
-&emsp;"(1)
-
-In general.—Not later than one year after the date on which the Center is established, the Secretary of State shall submit to the appropriate congressional committees a report evaluating the success of the Center in carrying out its functions under subsection (b) and outlining steps to improve any areas of deficiency.
-
-&emsp;"(2)
-
-Definition.—In this subsection, the term 'appropriate congressional committees' means—
-
-&emsp;&emsp;"(A) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.
-
-"(h)
-
-Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform \[now Committee on Oversight and Accountability\] of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j).
-
-"(i)
-
-Limitation.—None of the funds authorized to be appropriated or otherwise made available to carry out this section shall be used for purposes other than countering foreign propaganda and misinformation that threatens United States national security.
-
-"(j)
-
-Termination.—The Center shall terminate on the date that is 8 years after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title XII, §1287, Dec. 23, 2016, 130 Stat. 2546, as amended by Pub. L. 115–232, div. A, title XII, §1284, Aug. 13, 2018, 132 Stat. 2076, which established a Global Engagement Center within the Department of State to direct, lead, synchronize, integrate, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States and United States allies and partner nations, terminated 8 years after Dec. 23, 2016.
 
 #### Strategy for the United States Relationship With Saudi Arabia
 
@@ -694,7 +744,7 @@ Congressional Findings.—Congress finds that:
 
 &emsp;"(5) The United States and Saudi Arabia established a Strategic Dialogue in 2005, which provides a framework for the two countries to discuss a range of bilateral issues at high levels, including counterterrorism policy and political and economic reforms.
 
-&emsp;"(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgatingand enforcing domestic laws and regulation on terrorist financing.
+&emsp;"(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgating and enforcing domestic laws and regulation on terrorist financing.
 
 "(b)
 
@@ -756,7 +806,7 @@ Findings.—Consistent with the report of the National Commission on Terrorist A
 
 &emsp;"(1) Almost every aspect of the counterterrorism strategy of the United States relies on international cooperation.
 
-&emsp;"(2) Since September 11, 2001, the number and scope of United States Government contacts with foreign governments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
+&emsp;"(2) Since September 11, 2001, the number and scope of United States Government contacts with foreign governments concerning counterterrorism have expanded significantly, but such contacts have oftenbeen ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
 
 "(b)
 
@@ -792,7 +842,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(1) International terrorists travel across international borders to raise funds, recruit members, train for operations, escape capture, communicate, and plan and carry out attacks.
 
-&emsp;"(2) The international terrorists who planned and carried out the attack on the World Trade Center on February 26, 1993, the attack on the embassies of the United States in Kenya and Tanzania on August 7,1998, the attack on the USS Cole on October 12, 2000, and the attack on the World Trade Center and the Pentagon on September 11, 2001, traveled across international borders to plan and carry out these attacks.
+&emsp;"(2) The international terrorists who planned and carried out the attack on the World Trade Center on February 26, 1993, the attack on the embassies of the United States in Kenya and Tanzania on August 7, 1998, the attack on the USS Cole on October 12, 2000, and the attack on the World Trade Center and the Pentagon on September 11, 2001, traveled across international borders to plan and carry out these attacks.
 
 &emsp;"(3) The international terrorists who planned other attacks on the United States, including the plot to bomb New York City landmarks in 1993, the plot to bomb the New York City subway in 1997, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled across international borders to plan and carry out these attacks.
 
@@ -986,7 +1036,7 @@ Authorization of Assistance.—
 
 In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
 
-&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j) to East Timor in accordance with such section; and
+&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22U.S.C. 2321j) to East Timor in accordance with such section; and
 
 &emsp;&emsp;"(B) to provide military education and training under chapter 5 of part II of such Act (22 U.S.C. 2347 et seq.) for the armed forces of East Timor in accordance with such chapter.
 
@@ -1024,7 +1074,7 @@ Information.—The report required by subsection (a) shall include—
 
 &emsp;"(6) statistical data drawn from other sources on economic growth, health, education, and distribution of resources in East Timor."
 
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
 \[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -1168,7 +1218,7 @@ Pub. L. 103–236, title V, part D, Apr. 30, 1994, 108 Stat. 486, provided that:
 
 "(a)
 
-In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
+In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge fortheir crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
 "(b)
 
@@ -1206,7 +1256,7 @@ Contracting Authority.—The Secretary of State shall, subject to the availabili
 
 "(d)
 
-Notification to Congress.—The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordancewith procedures applicable to notifications under that section.
+Notification to Congress.—The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordance with procedures applicable to notifications under that section.
 
 #### "SEC. 574. REPORTING REQUIREMENT.
 
@@ -1278,7 +1328,7 @@ Definition.—As used in this section, the term 'respect for freedom of the pres
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone numberof each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
@@ -1370,7 +1420,7 @@ Sec. 2. <i>Revocation</i>. Executive Order 13584 of September 9, 2011 (Developin
 
 Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for innovation and new approaches to counter the messaging and diminish the influence of international terrorist organizations, including ISIL, al Qa'ida, and other violent extremists abroad, and in order to protect the vital national interests of the United States, while also recognizing the importance of protections for freedom of expression, including those under the First Amendment to the Constitution of the United States and international human rights obligations, the responsibilities and functions of the Center shall include the following:
 
-(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
+(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence ofinternational terrorist organizations and other violent extremists abroad;
 
 (b) developing and promulgating throughout the executive branch, on the basis of rigorous research and modern data analysis, the U.S. strategic counterterrorism narratives, guidance, and associated communications strategies directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
 
@@ -1386,7 +1436,7 @@ Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establ
 
 Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent with budget priorities and mission constraints, upon request by the Secretary and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Center, and the Center is authorized to use, for the purpose of carrying out the responsibilities outlined in this order:
 
-(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need forspecific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
+(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need for specific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
 
 (b) the use of physical premises, equipment, and logistical or administrative support;
 

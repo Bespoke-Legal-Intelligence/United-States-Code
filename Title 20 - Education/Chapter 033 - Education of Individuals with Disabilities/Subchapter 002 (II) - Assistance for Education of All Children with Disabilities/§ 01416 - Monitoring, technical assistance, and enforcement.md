@@ -84,7 +84,7 @@
 
 #### (I) Public report
 
-&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each local educational agency located in the State on the targets in the State's performance plan. The State shall make theState's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
+&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each local educational agency located in the State on the targets in the State's performance plan. The State shall make the State's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
 
 #### (II) State performance report
 
@@ -158,7 +158,7 @@
 
 &emsp;If the Secretary determines, for 2 consecutive years, that a State needs assistance under subsection (d)(2)(A)(ii) in implementing the requirements of this subchapter, the Secretary shall take 1 or more of the following actions:
 
-&emsp;&emsp;(A) Advise the State of available sources of technical assistance that may help the State address the areas in which the State needs assistance, which may include assistance from the Office of Special Education Programs, other offices of the Department of Education, other Federal agencies, technical assistance providers approved by the Secretary, and other federally funded nonprofit agencies, and require the State to work with appropriate entities. Such technical assistance may include—
+&emsp;&emsp;(A) Advise the State of available sources of technical assistance that may help the State address the areas in which the State needs assistance, which may include assistance from the Office of Special Education Programs, other offices of the Department of Education, other Federal agencies, technical assistance providers approved by the Secretary, and other federally funded nonprofitagencies, and require the State to work with appropriate entities. Such technical assistance may include—
 
 &emsp;&emsp;&emsp;(i) the provision of advice by experts to address the areas in which the State needs assistance, including explicit plans for addressing the area for concern within a specified period of time;
 
@@ -290,5 +290,5 @@ The General Education Provisions Act, referred to in subsec. (g), is title IV of
 
 A prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments,prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

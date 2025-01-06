@@ -12,7 +12,7 @@ Resolutions Required Before Appropriations May Be Made.—The following appropri
 
 (b)
 
-Transmission to Congress of Prospectus of Proposed Project.—To secure consideration for the approval referred to in subsection (a), the Administrator of General Services shall transmit to Congress a prospectus of the proposed facility, including—
+Transmission to Congress of Prospectus of Proposed Project.—To secure consideration for the approval referred to in subsection (a), the Administrator of General Services (referred to in this section as the "Administrator") shall transmit to Congress a prospectus of the proposed facility, including—
 
 &emsp;(1) a brief description of the building to be constructed, altered, or acquired, or the space to be leased, under this chapter;
 
@@ -26,13 +26,19 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 &emsp;(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased;
 
-&emsp;(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project; and
+&emsp;(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project;
 
-&emsp;(8) a statement of how the proposed project is consistent with the standards and criteria developed under section 11(b) of the Federal Assets Sale and Transfer Act of 2016.
+&emsp;(8) a statement of how the proposed project is consistent with the standards and criteria developed under section 11(b) of the Federal Assets Sale and Transfer Act of 2016;
+
+&emsp;(9) information on any space occupied by the relevant agency in the geographical area of the proposed facility, including uses, utilization rates, any proposed consolidations, and, if not proposed to be consolidated, a justification for such determination;
+
+&emsp;(10) a statement by the Administrator of whether the public building needs of the Government for the proposed space to be leased were formerly met by a federally owned building, including any building identified for disposal or sale; and
+
+&emsp;(11) details on actual utilization rates, including number of personnel assigned to the facility, number of personnel expected to work in-person at the facility and whether all personnel identified reflect filled and authorized positions.
 
 (c)
 
-Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
+Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost. The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.
 
 (d)
 
@@ -72,7 +78,33 @@ Exception.—The Administrator may lease space with respect to which paragraph (
 
 Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, §323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590; Pub. L. 114–287, §17, Dec. 16, 2016, 130 Stat. 1476.)
+(i)
+
+Notification Required.—For each project approved under this section, the Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any project milestones that are accomplished, including—
+
+&emsp;(1) the solicitation and award of design and construction services;
+
+&emsp;(2) the completion of any actions required for the project pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+&emsp;(3) any ceremonies for the beginning or completion of the project;
+
+&emsp;(4) a naming ceremony for the project; and
+
+&emsp;(5) the completion of the project.
+
+(j)
+
+Expiration of Committee Resolutions.—
+
+&emsp;(1)
+
+In general.—Unless a lease is awarded or a construction, alteration, repair, design, or acquisition project is initiated not later than 5 years after the resolution approvals adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate pursuant to subsection (a), the resolutions shall be deemed expired.
+
+&emsp;(2)
+
+Application.—This subsection shall only apply to resolutions approved after the date of enactment of this subsection.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, §323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590; Pub. L. 114–287, §17, Dec. 16, 2016, 130 Stat. 1476; Pub. L. 118–272, div. B, title III, §§2304(a), (c), (f), 2310, Jan. 4, 2025, 138 Stat. 3223, 3224, 3227.)
 
 Historical and Revision Notes
 
@@ -132,7 +164,21 @@ In subsection (f)(2)(A), the word "first" is omitted as unnecessary.
 
 Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (b)(8), is section 11(b) of Pub. L. 114–287, which is set out in a note under section 1303 of this title.
 
+The National Environmental Policy Act of 1969, referred to in subsec. (i)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+The date of enactment of this subsection, referred to subsec. (j)(2), is the date of enactment of Pub. L. 118–272, which was approved Jan. 4, 2025.
+
 #### Amendments
+
+<b>2025</b>—Subsec. (b). Pub. L. 118–272, §2304(c)(1), inserted "(referred to in this section as the 'Administrator')" after "Administrator of General Services" in introductory provisions.
+
+Subsec. (b)(9) to (11). Pub. L. 118–272, §2304(c)(2)–(4), added pars. (9) to (11).
+
+Subsec. (c). Pub. L. 118–272, §2304(a), inserted at end "The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section."
+
+Subsec. (i). Pub. L. 118–272, §2304(f), added subsec. (i).
+
+Subsec. (j). Pub. L. 118–272, §2310, added subsec. (j).
 
 <b>2016</b>—Subsec. (b)(8). Pub. L. 114–287 added par. (8).
 

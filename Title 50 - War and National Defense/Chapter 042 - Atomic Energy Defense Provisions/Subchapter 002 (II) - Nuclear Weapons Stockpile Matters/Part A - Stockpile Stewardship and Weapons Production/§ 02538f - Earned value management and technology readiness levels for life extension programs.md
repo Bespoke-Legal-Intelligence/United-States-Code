@@ -18,7 +18,7 @@ The Administrator shall—
 
 #### (c) Applicability
 
-This section shall apply to programs that, as of January 1, 2021, have not entered phase 3 of the nuclear weapons acquisition process or phase 6.3 of a nuclear weapons life extension program.
+This section shall apply to programs that, as of January 1, 2021, have not entered phase 3 ofthe nuclear weapons acquisition process or phase 6.3 of a nuclear weapons life extension program.
 
 #### (d) Definition
 

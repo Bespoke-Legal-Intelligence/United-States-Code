@@ -22,7 +22,7 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title IV, §425(b), Dec. 18, 2015, 129 Stat. 3125, provided that: "The amendment made bythis section \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Dec. 18, 2015\] and, to the extent that it is just and practicable, to all proceedings pending on such date."
+Pub. L. 114–113, div. Q, title IV, §425(b), Dec. 18, 2015, 129 Stat. 3125, provided that: "The amendment made by this section \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Dec. 18, 2015\] and, to the extent that it is just and practicable, to all proceedings pending on such date."
 
 #### Effective Date of 1969 Amendment
 

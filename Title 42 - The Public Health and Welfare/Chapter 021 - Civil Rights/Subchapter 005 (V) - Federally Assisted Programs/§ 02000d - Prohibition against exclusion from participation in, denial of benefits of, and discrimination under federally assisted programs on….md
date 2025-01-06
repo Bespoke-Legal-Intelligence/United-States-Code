@@ -8,7 +8,7 @@ No person in the United States shall, on the ground of race, color, or national 
 
 #### Coordination of Implementation and Enforcement of Provisions
 
-For provisions relating to the coordination of implementation and enforcement of the provisions of thissubchapter by the Attorney General, see section 1–201 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of this title.
+For provisions relating to the coordination of implementation and enforcement of the provisions of this subchapter by the Attorney General, see section 1–201 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of this title.
 
 #### Ex. Ord. No. 13160. Nondiscrimination on the Basis of Race, Sex, Color, National Origin, Disability, Religion, Age, Sexual Orientation, and Status as a Parent in Federally Conducted Education and Training Programs
 
@@ -52,7 +52,7 @@ Sec. 2. <i>Definitions.</i>
 
 Sec. 3. <i>Exemption from coverage.</i>
 
-3–301. This order does not apply to members of the armed forces, military education or training programs, or authorized intelligence activities. Members of the armed forces, including students at military academies, will continue to be covered by regulations that currently bar specified forms of discrimination that are now enforced by the Department of Defense and the individual service branches. The Department of Defense shall develop procedures to protect the rights of and to provide redress to civilians not otherwise protected by existing Federal law from discrimination on the basis of race, sex, color, national origin, disability, religion, age, sexual orientation, or status as a parent and who participate in military education or training programs or activities conducted by the Department of Defense.
+3–301. This order does not apply to members of the armed forces, military education or training programs,or authorized intelligence activities. Members of the armed forces, including students at military academies, will continue to be covered by regulations that currently bar specified forms of discrimination that are now enforced by the Department of Defense and the individual service branches. The Department of Defense shall develop procedures to protect the rights of and to provide redress to civilians not otherwise protected by existing Federal law from discrimination on the basis of race, sex, color, national origin, disability, religion, age, sexual orientation, or status as a parent and who participate in military education or training programs or activities conducted by the Department of Defense.
 
 3–302. This order does not apply to, affect, interfere with, or modify the operation of any otherwise lawful affirmative action plan or program.
 
@@ -68,7 +68,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 4–401. Any person who believes himself or herself to be aggrieved by a violation of this order or its implementing regulations, rules, policies, or guidance may, personally or through a representative, file a written complaint with the agency that such person believes is in violation of this order or its implementing regulations, rules, policies, or guidance. Pursuant to procedures to be established by the Attorney General, each executive department or agency shall conduct an investigation of any complaint by one of its employees alleging a violation of this Executive Order.
 
-4–402. (a) If the office within an executive department or agency that is designated to investigate complaintsfor violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance, such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
+4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance, such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 

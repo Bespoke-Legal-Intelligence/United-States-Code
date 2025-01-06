@@ -26,9 +26,9 @@ Additional terms.—The Operating Agency and a Contractor may agree to additiona
 
 (c)
 
-Defense Measures Against Unauthorized Seizures.—(1) The Contingency Agreement shall require that any vessel operating under the direction of the Operating Agency operating in area that is designated by the Coast Guard as an area of high risk of piracy shall be equipped with, at a minimum, appropriate non-lethal defense measures to protect the vessel and crew from unauthorized seizure at sea.
+Defense Measures Against Unauthorized Seizures.—(1) The Contingency Agreement shall require that any vessel operating under the direction of the Operating Agency operating in area that is designated by the Coast Guard as an area of high risk of piracy shall be equippedwith, at a minimum, appropriate non-lethal defense measures to protect the vessel and crew from unauthorized seizure at sea.
 
-(2) The Secretary of Defense and the Secretary of the department in which the Coast Guard isoperating shall jointly prescribe the non-lethal defense measures that are required under this paragraph.
+(2) The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating shall jointly prescribe the non-lethal defense measures that are required under this paragraph.
 
 (d)
 

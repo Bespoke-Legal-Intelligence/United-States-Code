@@ -42,3 +42,9 @@ In this section, the term "appropriate congressional committees" means the Commi
 
 (May 20, 1926, ch. 347, §15, as added Pub. L. 112–95, title X, §1004, Feb. 14, 2012, 126 Stat. 147.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Biannual GAO Audit
+
+Pub. L. 118–63, title II, §218(o), May 16, 2024, 138 Stat. 1057, provided that: "Any provision of the FAA Modernization and Reform Act of 2012 (Public Law 112–95) \[see Short Title of 2012 Amendment note set out under section 40101 of Title 49, Transportation\], including any amendment made by such Act, that requires the Comptroller General \[of the United States\] to conduct an audit (including a recurring audit) shall have no force or effect."
+

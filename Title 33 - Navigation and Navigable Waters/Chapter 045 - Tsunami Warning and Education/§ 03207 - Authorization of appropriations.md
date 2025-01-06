@@ -10,7 +10,7 @@ There are authorized to be appropriated to the Administrator to carry out this c
 
 &emsp;(2) $26,000,000 for fiscal year 2009, of which—
 
-&emsp;&emsp;(A) not less than 27 percent of the amount appropriated shall be for the tsunami hazardmitigation program under section 3204 of this title; and
+&emsp;&emsp;(A) not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under section 3204 of this title; and
 
 &emsp;&emsp;(B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title;
 

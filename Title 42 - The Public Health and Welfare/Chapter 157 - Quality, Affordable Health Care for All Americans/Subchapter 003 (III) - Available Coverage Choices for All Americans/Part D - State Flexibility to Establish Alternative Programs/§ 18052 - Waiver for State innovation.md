@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An application for a waiver under this section shall be considered by the Secretary in accordance with the regulations described in subparagraph (B).
+&emsp;&emsp;An application for a waiver under this section shall be considered by the Secretary inaccordance with the regulations described in subparagraph (B).
 
 #### (B) Regulations
 
@@ -124,7 +124,7 @@
 
 #### (e) Term of waiver
 
-No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
+No waiver under this section may extend over a period of longer than 5 years unless the Staterequests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
 
 (Pub. L. 111–148, title I, §1332, Mar. 23, 2010, 124 Stat. 203.)
 

@@ -84,7 +84,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(A) the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI, respectively;
+&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under thissubchapter, subchapter II, or subchapter XVI, respectively;
 
 &emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration;
 
@@ -188,7 +188,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 &emsp;&emsp;(A) Paragraph (1) shall not apply in any case where the other person to whom such payment is made is the spouse of the individual entitled to such payment.
 
-&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures asnecessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
+&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
 
 #### (4) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 

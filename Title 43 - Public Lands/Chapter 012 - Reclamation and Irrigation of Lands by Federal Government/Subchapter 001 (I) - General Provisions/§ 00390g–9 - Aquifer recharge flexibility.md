@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) to directly use water available under the contract for aquifer recharge on eligible land; or
 
-&emsp;&emsp;&emsp;(ii) to enter into an agreement with an individual or entity to transfer wateravailable under the contract for aquifer recharge on eligible land.
+&emsp;&emsp;&emsp;(ii) to enter into an agreement with an individual or entity to transfer water available under the contract for aquifer recharge on eligible land.
 
 #### (B) Authorized project use
 

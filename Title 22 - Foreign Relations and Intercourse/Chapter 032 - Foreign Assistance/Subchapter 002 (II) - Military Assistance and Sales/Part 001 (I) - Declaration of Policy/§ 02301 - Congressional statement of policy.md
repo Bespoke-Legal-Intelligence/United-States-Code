@@ -22,7 +22,7 @@ This legislation, referred to in fourth paragraph, means Pub. L. 87–195, Sept.
 
 #### Prior Provisions
 
-A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 \[subchapter II of this chapter\]should be cited as the "International Peace and Security Act of 1961", prior to repeal by Pub. L. 88–205, pt. II, §201(b), Dec. 16, 1963, 77 Stat. 384.
+A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 \[subchapter II of this chapter\] should be cited as the "International Peace and Security Act of 1961", prior to repeal by Pub. L. 88–205, pt. II, §201(b), Dec. 16, 1963, 77 Stat. 384.
 
 #### Amendments
 

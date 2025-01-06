@@ -120,7 +120,7 @@ Sec. 2. <i>Task Force on Worker Organizing and Empowerment</i>. There is hereby 
 
 Sec. 3. <i>Definitions</i>. For purposes of this order:
 
-(a) "Policies, practices, and programs" includes regulations; guidance and other formal policy documents; procurements; grants and other direct or indirect Federal investments; tax and trade administration and enforcement; administration and enforcement of labor, employment, and other relevant laws; property management; and human resources management and labor relations.
+(a) "Policies, practices, and programs" includes regulations; guidance and other formal policy documents;procurements; grants and other direct or indirect Federal investments; tax and trade administration and enforcement; administration and enforcement of labor, employment, and other relevant laws; property management; and human resources management and labor relations.
 
 (b) "Worker organizing and collective bargaining" encompasses the private sector, State and local governments, and the Federal Government. It also includes those sectors of the economy and those workers who have not historically been able to unionize, or whose ability to effectively collectively bargain or organize has been undermined.
 

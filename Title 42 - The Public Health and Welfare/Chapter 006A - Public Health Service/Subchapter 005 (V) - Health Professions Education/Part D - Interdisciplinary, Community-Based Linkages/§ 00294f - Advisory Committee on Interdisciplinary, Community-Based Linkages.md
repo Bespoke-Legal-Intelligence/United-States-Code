@@ -76,7 +76,7 @@ The Advisory Committee shall—
 
 #### (g) Chapter 10 of title 5
 
-Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to theextent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
+Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
 
 (July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628; Pub. L. 117–286, §4(a)(238), Dec. 27, 2022, 136 Stat. 4331.)
 
@@ -108,7 +108,7 @@ Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(2), added pars. (3) to (5).
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Servicesof House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

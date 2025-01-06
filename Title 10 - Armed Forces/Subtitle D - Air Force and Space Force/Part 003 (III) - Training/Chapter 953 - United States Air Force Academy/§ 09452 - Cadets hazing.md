@@ -10,7 +10,7 @@
 
 (b) If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
 
-(c) A cadet dismissed from the Academy for hazing may not be reappointed as a cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy,Air Force, or Marine Corps, or in the Space Force, until two years after the graduation of his class.
+(c) A cadet dismissed from the Academy for hazing may not be reappointed as a cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, or in the Space Force, until two years after the graduation of his class.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 566, §9352; renumbered §9452, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(13), Jan. 1, 2021, 134 Stat. 3815; Pub. L. 118–31, div. A, title XVII, §1721(c)(4), Dec. 22, 2023, 137 Stat. 667.)
 

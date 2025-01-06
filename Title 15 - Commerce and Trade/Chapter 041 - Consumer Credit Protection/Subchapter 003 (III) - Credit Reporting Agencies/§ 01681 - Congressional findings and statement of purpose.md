@@ -110,7 +110,7 @@ Areas for study.—In conducting the study under paragraph (1), the Commission s
 
 &emsp;&emsp;&emsp;"(ii) the extent to which providing such reports to consumers would increase the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
+&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reportingagencies, but would provide useful information in determining the credit worthiness of consumers; and
 
 &emsp;&emsp;"(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
 

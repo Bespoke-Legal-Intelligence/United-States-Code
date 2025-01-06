@@ -8,7 +8,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (1) Recipients
 
-&emsp;For the purposes described in subsection (a), the Secretary is authorized, without regard to section 6101 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, including community-based organizations with experience in serving disadvantaged youth, combinations of such institutions, agencies and organizations, and, as appropriate to the purposes of the program, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
+&emsp;For the purposes described in subsection (a), the Secretary is authorized, without regard tosection 6101 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, including community-based organizations with experience in serving disadvantaged youth, combinations of such institutions, agencies and organizations, and, as appropriate to the purposes of the program, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
 
 #### (2) Duration
 
@@ -352,7 +352,7 @@ In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of t
 
 Subsec. (c)(8)(C)(iv)(I). Pub. L. 111–39, §401(a)(4)(B), inserted "to be" after "determined".
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §403(a)(1)(A), inserted "including community-based organizations with experience in serving disadvantaged youth" after "private agencies and organizations" and substituted ", as appropriate to the purposes of the program" for "in exceptional circumstances".
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §403(a)(1)(A), inserted "including community-based organizations withexperience in serving disadvantaged youth" after "private agencies and organizations" and substituted ", as appropriate to the purposes of the program" for "in exceptional circumstances".
 
 Subsec. (b)(2). Pub. L. 110–315, §403(a)(1)(B)(i), substituted "5 years" for "4 years" in introductory provisions.
 
@@ -418,7 +418,7 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(b)(8), inserted "with respect to grant
 
 Subsec. (e). Pub. L. 103–208, §2(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Documentation of an individual's status pursuant to subsection (g)(2) of this section shall be made—
 
-&emsp;"(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement fromthe parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
+&emsp;"(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement from the parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
 
 &emsp;"(2) in the case of an individual who is age 18 or older or who is an independent student, by providing the Secretary with a signed statement from the individual, verification from another governmental source, a signed financial aid form, or a signed United States or Puerto Rican income tax return."
 

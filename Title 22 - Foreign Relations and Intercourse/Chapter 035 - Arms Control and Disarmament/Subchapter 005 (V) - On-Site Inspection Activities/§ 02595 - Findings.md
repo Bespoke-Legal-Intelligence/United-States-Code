@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(6) the senior officials of the On-Site Inspection Agency include representatives from the Department of State.
 
-(Pub. L. 87–297, title V, §501, formerly §61, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1855; amended Pub. L. 102–228, title IV, §402(a)(1), Dec. 12, 1991, 105 Stat. 1699; Pub. L. 103–199, title IV, §401(d), Dec. 17, 1993, 107 Stat. 2324; renumbered and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(17), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
+(Pub. L. 87–297, title V, §501, formerly §61, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989,103 Stat. 1855; amended Pub. L. 102–228, title IV, §402(a)(1), Dec. 12, 1991, 105 Stat. 1699; Pub. L. 103–199, title IV, §401(d), Dec. 17, 1993, 107 Stat. 2324; renumbered and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(17), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,7 +90,7 @@ Findings Concerning On-Site Inspection Personnel.—Congress makes the following
 
 &emsp;"(5) On-site inspection procedures are likely to be an integral part of any future arms control treaty or agreement.
 
-&emsp;"(6) Personnel requirements will be extensive for such on-site inspection procedures, both in terms of numbers of personnel and technical and linguistic skills. Since verification requirements for the INF Treaty are already placing severe stress on current personnel resources, the requirements for verification under START and other possible future treaties and agreements may quickly exceed the current number of verification personnel having necessary technical and language skills.
+&emsp;"(6) Personnel requirements will be extensive for such on-site inspection procedures, both in terms of numbers of personnel and technical and linguistic skills. Since verification requirements for the INF Treaty are already placing severe stress on current personnel resources, the requirements for verification under START and other possible future treaties and agreements may quickly exceed the current numberof verification personnel having necessary technical and language skills.
 
 &emsp;"(7) There is a clear need for a database of the names of individuals who are members of the Armed Forces or civilian employees of the United States Government, or of other citizens and nationals of the United States, who are qualified (by reason of technical or language skills) to participate in on-site inspections under an arms control treaty or agreement.
 
@@ -110,7 +110,7 @@ Status of the OSIA.—(1) Congress finds that—
 
 &emsp;"(E) the facilities in Europe and the United States at which OSIA personnel escort personnel of the Soviet Union conducting inspections under the on-site inspection terms of the INF Treaty are under the jurisdiction of the Department of Defense (or under the jurisdiction of entities that are contractors with the Department of Defense).
 
-"(2) In light of the findings in paragraph (1) and the report submitted pursuant to section 909 of Public Law100–456 \[div. A, title IX, Sept. 29, 1988, 102 Stat. 2036\] entitled 'Report to the Congress on U.S. Monitoring and Verification Activities Related to the INF Treaty' (submitted on July 27, 1989), Congress hereby determines that by locating the On-Site Inspection Agency within the Department of Defense for the purposes of administrative and logistic support and operational guidance, and integrating on-site inspection responsibilities under the INF Treaty with existing organizational activities of that Department, the President has been able to ensure that sensitive national security assets are protected and that obligations of the United States under that treaty are fulfilled in an efficient and cost-effective manner.
+"(2) In light of the findings in paragraph (1) and the report submitted pursuant to section 909 of Public Law 100–456 \[div. A, title IX, Sept. 29, 1988, 102 Stat. 2036\] entitled 'Report to the Congress on U.S. Monitoring and Verification Activities Related to the INF Treaty' (submitted on July 27, 1989), Congress hereby determines that by locating the On-Site Inspection Agency within the Department of Defense for the purposes of administrative and logistic support and operational guidance, and integrating on-site inspection responsibilities under the INF Treaty with existing organizational activities of that Department, the President has been able to ensure that sensitive national security assets are protected and that obligations of the United States under that treaty are fulfilled in an efficient and cost-effective manner.
 
 "(c)
 

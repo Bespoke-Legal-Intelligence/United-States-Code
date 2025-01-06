@@ -36,7 +36,7 @@ It is the sense of Congress that—
 
 #### (c) Capacity building guidance
 
-The Director shall support education and workforce development efforts to promote United States participation in international standards organizations. The Director shall—
+The Director shall support education and workforce development efforts to promoteUnited States participation in international standards organizations. The Director shall—
 
 &emsp;(1) identify and create, as appropriate, technical standards education and training resources for interested businesses, industry associations, academia, nonprofit organizations, Federal agencies, and other relevant standards contributors, including activities targeted at integrating standards content into undergraduate and graduate curricula in science, engineering, business, public policy, and law;
 

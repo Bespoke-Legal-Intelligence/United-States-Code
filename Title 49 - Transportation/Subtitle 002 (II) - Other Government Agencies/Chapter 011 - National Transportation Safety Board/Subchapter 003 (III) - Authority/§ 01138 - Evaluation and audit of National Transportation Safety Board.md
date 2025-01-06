@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the National Transportation Safety Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
+In General.—To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
 
 (b)
 
@@ -26,11 +26,13 @@ Responsibility of Comptroller General.—The Comptroller General shall evaluate 
 
 Appropriate Congressional Committees.—For purposes of this section the term "appropriate congressional committees" means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added Pub. L. 109–443, §5(a), Dec. 21, 2006, 120 Stat. 3299; amended Pub. L. 113–188, title XV, §1502, Nov. 26, 2014, 128 Stat. 2025; Pub. L. 115–254, div. C, §1110, Oct. 5, 2018, 132 Stat. 3435.)
+(Added Pub. L. 109–443, §5(a), Dec. 21, 2006, 120 Stat. 3299; amended Pub. L. 113–188, title XV, §1502, Nov. 26, 2014, 128 Stat. 2025; Pub. L. 115–254, div. C, §1110, Oct. 5, 2018, 132 Stat. 3435; Pub. L. 118–63, title XII, §1221(a), May 16, 2024, 138 Stat. 1432.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–63 substituted "expenditures of the" for "expenditures of the National Transportation Safety".
 
 <b>2018</b>—Subsec. (b)(5) to (7). Pub. L. 115–254, §1110(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 

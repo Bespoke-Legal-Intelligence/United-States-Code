@@ -52,7 +52,7 @@ The Director shall—
 
 &emsp;(4) coordinate a national effort to secure and protect against critical infrastructure risks, consistent with subsection (e)(1)(E);
 
-&emsp;(5) upon request, provide analyses, expertise, and other technical assistance to critical infrastructure owners and operators and, where appropriate, provide those analyses, expertise, and other technical assistance in coordination with Sector-Specific Agencies and other Federal departments and agencies;
+&emsp;(5) upon request, provide analyses, expertise, and other technical assistance to critical infrastructure owners and operators and, whereappropriate, provide those analyses, expertise, and other technical assistance in coordination with Sector-Specific Agencies and other Federal departments and agencies;
 
 &emsp;(6) develop and utilize mechanisms for active and frequent collaboration between the Agency and Sector-Specific Agencies to ensure appropriate coordination, situational awareness, and communications with Sector-Specific Agencies;
 
@@ -472,7 +472,7 @@ Authorized Activities.—In carrying out the pilot program under subsection (a),
 
 &emsp;"(1) provide assistance to a participating internet ecosystem company to develop effective know-your-customer processes and requirements;
 
-&emsp;"(2) provide information, analytics, and technical assistance to improve the ability of participating companies to detect and prevent illicit or suspicious procurement, payment, and account creation on their own platforms, systems, services, or infrastructure;
+&emsp;"(2) provide information, analytics, and technical assistance to improve the ability of participatingcompanies to detect and prevent illicit or suspicious procurement, payment, and account creation on their own platforms, systems, services, or infrastructure;
 
 &emsp;"(3) develop and socialize best practices for the collection, retention, and sharing of data by participating internet ecosystem companies to support discovery of malicious cyber activity, investigations, and attribution on the platforms, systems, services, or infrastructure of such companies;
 
@@ -488,7 +488,7 @@ Authorized Activities.—In carrying out the pilot program under subsection (a),
 
 "(d)
 
-Competition Concerns.—Consistent with section 1905 of title 18, United States Code, the Secretary shallensure that any trade secret or proprietary information of a participating internet ecosystem company made known to the Federal Government pursuant to a public-private partnership under the pilot program remains private and protected unless explicitly authorized by such company.
+Competition Concerns.—Consistent with section 1905 of title 18, United States Code, the Secretary shall ensure that any trade secret or proprietary information of a participating internet ecosystem company made known to the Federal Government pursuant to a public-private partnership under the pilot program remains private and protected unless explicitly authorized by such company.
 
 "(e)
 
@@ -578,7 +578,7 @@ Elements.—Each briefing required under subparagraph (A) shall include the foll
 
 &emsp;&emsp;&emsp;"(ii) Recommendations, such as providing liability protection, for increasing private sector participation in the pilot program.
 
-&emsp;&emsp;&emsp;"(iii) A description of the challenges encountered in carrying out the pilot program, including any concerns expressed by internet ecosystem companies regarding participation in the pilot program.
+&emsp;&emsp;&emsp;"(iii) A description of the challenges encountered in carrying out the pilot program, including any concerns expressed by internet ecosystemcompanies regarding participation in the pilot program.
 
 &emsp;&emsp;&emsp;"(iv) The findings of the Secretary with respect to the feasibility and advisability of extending or expanding the pilot program.
 
@@ -734,5 +734,5 @@ Inapplicability of faca.—The Federal Advisory Committee Act (\[former\] 5 U.S.
 
 #### Under Secretary Responsible for Overseeing Critical Infrastructure Protection, Cybersecurity and Related Programs Authorized To Serve as Director of Cybersecurity and Infrastructure Security
 
-Pub. L. 115–278, §2(b)(1), Nov. 16, 2018, 132 Stat. 4175, provided that: "The individual serving as the Under Secretary appointed pursuant to section 103(a)(1)(H) of the Homeland Security Act of 2002 (6 U.S.C. 113(a)(1)(H)) of the Department of Homeland Security on the day before the date of enactment of this Act \[Nov. 16, 2018\] may continue to serve as the Director of Cybersecurity and Infrastructure Security of the Department on and after such date."
+Pub. L. 115–278, §2(b)(1), Nov. 16, 2018, 132 Stat. 4175, provided that: "The individual serving as the Under Secretary appointed pursuant to section 103(a)(1)(H) of the Homeland Security Act of 2002 (6 U.S.C. 113(a)(1)(H)) of the Department of Homeland Security on the day before the date of enactment of this Act \[Nov. 16, 2018\] may continue to serve as the Director of Cybersecurityand Infrastructure Security of the Department on and after such date."
 

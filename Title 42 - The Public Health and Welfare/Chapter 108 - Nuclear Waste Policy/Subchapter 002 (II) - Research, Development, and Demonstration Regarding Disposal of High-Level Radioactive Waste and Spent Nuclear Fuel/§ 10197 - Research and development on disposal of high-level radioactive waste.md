@@ -74,7 +74,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (B) Such understanding shall also establish the conditions under which the Commission may have access to the test and evaluation facility for the purpose of assessing any public health and safety concerns that it may have. No shafts may be excavated for the test and evaluation until the Secretary and the Commission enter into such understanding.
 
-(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
+(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilitiesauthorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
 
 (3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
 
@@ -106,7 +106,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 This subchapter, referred to in subsec. (f)(1)(A), was in the original "this subtitle", and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 

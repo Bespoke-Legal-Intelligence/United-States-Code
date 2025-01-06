@@ -6,7 +6,7 @@ Except where inconsistent with the provisions of this part and subject to such r
 
 &emsp;(2) if he is not so entitled to unemployment insurance, of the State in which he was totally or partially separated,
 
-> shall apply to any such worker who files a claim for trade readjustment allowances. The State law so determined with respect to a separation of a worker shall remain applicable, for purposes of the preceding sentence, with respect to such separation until such worker becomes entitled to unemployment insurance under another State law (whether or not he has filed a claim for such insurance).
+> shall apply to any such worker who files a claim for trade readjustment allowances. The Statelaw so determined with respect to a separation of a worker shall remain applicable, for purposes of the preceding sentence, with respect to such separation until such worker becomes entitled to unemployment insurance under another State law (whether or not he has filed a claim for such insurance).
 
 (Pub. L. 93–618, title II, §234, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 111–5, div. B, title I, §1825, Feb. 17, 2009, 123 Stat. 378; Pub. L. 112–40, title II, §§201(b), (c), 212(b), Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 

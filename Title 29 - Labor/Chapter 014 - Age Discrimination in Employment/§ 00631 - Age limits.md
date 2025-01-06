@@ -10,7 +10,7 @@ In the case of any personnel action affecting employees or applicants for employ
 
 #### (c) Bona fide executives or high policymakers
 
-(1) Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 65 years of age and who, for the 2-year period immediately before retirement, is employed in a bona fide executive or a high policymaking position, if such employee is entitled to an immediate nonforfeitable annual retirement benefit from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans, of the employer of such employee, which equals, in the aggregate, at least $44,000.
+(1) Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 65 years of age and who, for the 2-year period immediately before retirement, is employed in a bona fide executive or ahigh policymaking position, if such employee is entitled to an immediate nonforfeitable annual retirement benefit from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans, of the employer of such employee, which equals, in the aggregate, at least $44,000.
 
 (2) In applying the retirement benefit test of paragraph (1) of this subsection, if any such retirement benefit is in a form other than a straight life annuity (with no ancillary benefits), or if employees contribute to any such plan or make rollover contributions, such benefit shall be adjusted in accordance with regulations prescribed by the Equal Employment Opportunity Commission, after consultation with the Secretary of the Treasury, so that the benefit is the equivalent of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions are made.
 
@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 99–592, §6(a), (b), temporarily added subsec. (d) which 
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–459 substituted "$44,000" for "$27,000".
 
-<b>1978</b>—Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substituted "40 years of age but less than 70 years of age" for "forty years of age butless than sixty-five years of age", added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
+<b>1978</b>—Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substituted "40 years of age but less than 70 years of age" for "forty years of age but less than sixty-five years of age", added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

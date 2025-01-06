@@ -116,7 +116,7 @@ Covered Construction Project.—In this section, the term 'covered construction 
 
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 
-Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
+Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C,title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
 
 "(a)
 

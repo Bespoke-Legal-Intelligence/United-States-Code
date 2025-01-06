@@ -1,6 +1,6 @@
 ### §2381. Treason
 
-Whoever, owing allegiance to the United States, levies war against them or adheres totheir enemies, giving them aid and comfort within the United States or elsewhere, is guilty of treason and shall suffer death, or shall be imprisoned not less than five years and fined under this title but not less than $10,000; and shall be incapable of holding any office under the United States.
+Whoever, owing allegiance to the United States, levies war against them or adheres to their enemies, giving them aid and comfort within the United States or elsewhere, is guilty of treason and shall suffer death, or shall be imprisoned not less than five years and fined under this title but not less than $10,000; and shall be incapable of holding any office under the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 103–322, title XXXIII, §330016(2)(J), Sept. 13, 1994, 108 Stat. 2148.)
 

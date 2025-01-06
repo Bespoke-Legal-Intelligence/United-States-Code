@@ -26,7 +26,7 @@ The dataset required under subsection (a)(1) shall be maintained and updated on 
 
 #### (c) Consultation
 
-The Secretary shall lead the development of the plan required under subsection (a) but mayconsult or partner with private sector entities with expertise in labor economics, management, or human resources, as well as organizations familiar with the demands and needs of the Department's workforce.
+The Secretary shall lead the development of the plan required under subsection (a) but may consult or partner with private sector entities with expertise in labor economics, management, or human resources, as well as organizations familiar with the demands and needs of the Department's workforce.
 
 #### (d) Report
 

@@ -44,7 +44,7 @@ The Secretary, through the Secretary of State and the Secretary of the departmen
 
 &emsp;(2) each large-scale driftnet fishing vessel of a foreign nation that is party to the agreement, which operates beyond the exclusive economic zone of any nation, is equipped with satellite transmitters which provide real-time position information accessible to the United States;
 
-&emsp;(3) statistically reliable monitoring by the United States is carried out, through the use of on-board observers or through dedicated platforms provided by foreign nations that are parties to the agreement, of all target and nontarget fish species, marine mammals, sea turtles, and sea birds entangled or killed by large-scale driftnets used by fishing vessels of foreign nations that are parties to the agreement;
+&emsp;(3) statistically reliable monitoring by the United States is carried out, through the use of on-board observers or through dedicated platforms provided by foreign nations that are parties to the agreement, of all target andnontarget fish species, marine mammals, sea turtles, and sea birds entangled or killed by large-scale driftnets used by fishing vessels of foreign nations that are parties to the agreement;
 
 &emsp;(4) officials of the United States have the right to board and inspect for violations of the agreement any large-scale driftnet fishing vessels operating under the flag of a foreign nation that is party to the agreement at any time while such vessel is operating in designated areas beyond the exclusive economic zone of any nation;
 
@@ -86,7 +86,7 @@ As used in this section, the term "living marine resources" includes fish, marin
 
 #### (3) Certification
 
-&emsp;The Secretary shall certify that, with respect to each participant in the program underthis subsection, any permit authorizing participation in a large-scale driftnet fishery has been permanently revoked and that no new permits will be issued to authorize such fishing.
+&emsp;The Secretary shall certify that, with respect to each participant in the program under this subsection, any permit authorizing participation in a large-scale driftnet fishery has been permanently revoked and that no new permits will be issued to authorize such fishing.
 
 (Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569; Pub. L. 117–328, div. S, title I, §§103, 104, title II, §205(b)(1)(B), Dec. 29, 2022, 136 Stat. 5259, 5270.)
 

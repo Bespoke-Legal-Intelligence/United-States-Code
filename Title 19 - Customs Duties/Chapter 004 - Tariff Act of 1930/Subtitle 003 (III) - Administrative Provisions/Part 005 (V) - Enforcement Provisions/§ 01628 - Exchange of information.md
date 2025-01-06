@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may by regulation authorize customs officers to exchange information ordocuments with foreign customs and law enforcement agencies if the Secretary reasonably believes the exchange of information is necessary to—
+The Secretary may by regulation authorize customs officers to exchange information or documents with foreign customs and law enforcement agencies if the Secretary reasonably believes the exchange of information is necessary to—
 
 &emsp;(1) insure compliance with any law or regulation enforced or administered by the Customs Service;
 

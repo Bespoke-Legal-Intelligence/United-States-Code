@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-monthperiod, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the employee has worked or been paid for not less than 504 hours (not counting personal commute time or time spent on vacation leave or medical or sick leave) during the previous 12-month period, for or by that employer.
 
@@ -134,7 +134,7 @@ As used in this subchapter:
 
 &emsp;The term "covered active duty" means—
 
-&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty duringthe deployment of the member with the Armed Forces to a foreign country; and
+&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
 &emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
 
@@ -210,7 +210,7 @@ Pub. L. 116–92, div. F, title LXXVI, §7604(c), Dec. 20, 2019, 133 Stat. 2308,
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(f)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(f)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 

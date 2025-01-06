@@ -34,7 +34,7 @@ For information regarding the constitutionality of certain provisions of this se
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–432, §3, struck out "(a)" before "The following" and redesignated pars. (1) to (7) as (a) to (g), respectively.
 
-Subsec. (b). Pub. L. 95–432, §1, struck out subsec. (b) which provided that any person who was a national or citizen of the United States under subsec. (a)(7) lose his nationality or citizenship unless he be continuously physically present in the United States for a period of not less than two years between the ages of 14 and 28 or that the alien parent be naturalized while the child was under 18 years of age and the child began permanent residence in the United States while under 18 years of age and that absence from the United States of less than 60 days not break the continuity of presence.
+Subsec. (b). Pub. L. 95–432, §1, struck out subsec. (b) which provided that any person who was a national or citizen of the United States under subsec. (a)(7) lose his nationality or citizenship unless he be continuously physically present in the United States for a period ofnot less than two years between the ages of 14 and 28 or that the alien parent be naturalized while the child was under 18 years of age and the child began permanent residence in the United States while under 18 years of age and that absence from the United States of less than 60 days not break the continuity of presence.
 
 Subsec. (c). Pub. L. 95–432, §1, struck out subsec. (c) which provided that former subsec. (b) apply to persons born abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
 
@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that n
 
 Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
-<b>1966</b>—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarriedson or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
+<b>1966</b>—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

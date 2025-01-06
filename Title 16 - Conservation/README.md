@@ -153,6 +153,8 @@
 | [<b>99.</b>](Chapter%20099%20-%20Maritime%20Security%20and%20Fisheries%20Enforcement/README.md) | <b>Maritime Security and Fisheries Enforcement</b> | <b>8001</b> |
 | [<b>100.</b>](Chapter%20100%20-%20Nutria%20Eradication%20and%20Control/README.md) | <b>Nutria Eradication and Control</b> | <b>8101</b> |
 | [<b>101.</b>](Chapter%20101%20-%20National%20Fish%20Habitat%20Conservation%20Through%20Partnerships/README.md) | <b>National Fish Habitat Conservation Through Partnerships</b> | <b>8201</b> |
+| [<b>102.</b>](Chapter%20102%20-%20Coastal%20Habitat%20Conservation/README.md) | <b>Coastal Habitat Conservation</b> | <b>8301</b> |
+| [<b>103.</b>](Chapter%20103%20-%20Expanding%20Public%20Lands%20Outdoor%20Recreation%20Experiences/README.md) | <b>Expanding Public Lands Outdoor Recreation Experiences</b> | <b>8401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -311,3 +313,5 @@
 - [Chapter 099 - Maritime Security and Fisheries Enforcement](Chapter%20099%20-%20Maritime%20Security%20and%20Fisheries%20Enforcement/README.md)
 - [Chapter 100 - Nutria Eradication and Control](Chapter%20100%20-%20Nutria%20Eradication%20and%20Control/README.md)
 - [Chapter 101 - National Fish Habitat Conservation Through Partnerships](Chapter%20101%20-%20National%20Fish%20Habitat%20Conservation%20Through%20Partnerships/README.md)
+- [Chapter 102 - Coastal Habitat Conservation](Chapter%20102%20-%20Coastal%20Habitat%20Conservation/README.md)
+- [Chapter 103 - Expanding Public Lands Outdoor Recreation Experiences](Chapter%20103%20-%20Expanding%20Public%20Lands%20Outdoor%20Recreation%20Experiences/README.md)

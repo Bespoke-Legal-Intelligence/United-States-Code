@@ -14,7 +14,7 @@
 
 &emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 670, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting "specified unlawful activity" (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
-&emsp;(D) Any property, real or personal, which represents or is traceable to the gross receiptsobtained, directly or indirectly, from a violation of—
+&emsp;(D) Any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, from a violation of—
 
 &emsp;&emsp;(i) section 666(a)(1) (relating to Federal program fraud);
 
@@ -68,7 +68,7 @@
 
 (b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
 
-(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in thesame manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
+(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
 &emsp;(A) a complaint for forfeiture has been filed in the United States district court and the court issued an arrest warrant in rem pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims;
 
@@ -180,7 +180,7 @@ In general.—For the purpose of a forfeiture under this section or under the Co
 
 &emsp;&emsp;(B)
 
-Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
+Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction inwhich the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
 
 &emsp;(2)
 
@@ -240,7 +240,7 @@ Section 3 of the Anti Drug Abuse Act of 1986, referred to in subsec. (e), is sec
 
 Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. (e)(7), is classified to section 1818(e)(7)(D) of Title 12, Banks and Banking.
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2),Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 #### Amendments
 
@@ -362,7 +362,7 @@ Subsec. (c). Pub. L. 100–690, §6469(b)(2), substituted "the Attorney General,
 
 Subsec. (d). Pub. L. 100–690, §6469(b)(2), (3), substituted "the Attorney General, the Secretary of the Treasury, or the Postal Service" for "the Attorney General or the Secretary of the Treasury" and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
-Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of "the Attorney General, the Secretary of the Treasury, or the Postal Service" for "the Attorney General or the Secretary of the Treasury" was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article "the" was capitalized.
+Subsec. (e). Pub. L. 100–690, §6469(b)(2), which directed the substitution of "the Attorney General, the Secretary of the Treasury, or the Postal Service" for "the Attorney General or the Secretary of the Treasury"was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article "the" was capitalized.
 
 Pub. L. 100–690, §6469(b)(4), inserted provision that the authority granted to the Secretary of the Treasury and the Postal Service apply only to property that has been administratively forfeited.
 

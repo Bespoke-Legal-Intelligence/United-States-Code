@@ -80,7 +80,7 @@ Contents.—Each report required under paragraph (1) shall include—
 
 &emsp;&emsp;"(C) a description of potential career paths in software development and software acquisition within the Department of Defense;
 
-&emsp;&emsp;"(D) an independent assessment conducted by the Defense Innovation Board of the progress made on implementing the programs established under subsection (a)(1); and
+&emsp;&emsp;"(D) an independent assessment conducted by the Defense Innovation Board of the progress made onimplementing the programs established under subsection (a)(1); and
 
 &emsp;&emsp;"(E) any recommendations for changes to existing law to facilitate the implementation of the programs established under subsection (a)(1).
 

@@ -26,7 +26,7 @@ An entity that receives a grant under subsection (a) shall restrict access to th
 
 #### (e) Reports
 
-Not later than the last day of each fiscal year, an entity that receives a grant under subsection (a) during the preceding fiscal year shall submit to the Attorney General a report that describes and assesses the uses of such grant during the preceding fiscal year.
+Not later than the last day of each fiscal year, an entity that receives a grant under subsection\(a) during the preceding fiscal year shall submit to the Attorney General a report that describes and assesses the uses of such grant during the preceding fiscal year.
 
 #### (f) Authorization of appropriations
 

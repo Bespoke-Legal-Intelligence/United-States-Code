@@ -46,7 +46,7 @@
 
 &emsp;(6) the term "corruptly persuades" does not include conduct which would be misleading conduct but for a lack of a state of mind.
 
-(b) As used in section 1505, the term "corruptly" means acting with an improper purpose, personally or by influencing another, including making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information.
+(b) As used in section 1505, the term "corruptly" means acting with an improper purpose,personally or by influencing another, including making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information.
 
 (c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 

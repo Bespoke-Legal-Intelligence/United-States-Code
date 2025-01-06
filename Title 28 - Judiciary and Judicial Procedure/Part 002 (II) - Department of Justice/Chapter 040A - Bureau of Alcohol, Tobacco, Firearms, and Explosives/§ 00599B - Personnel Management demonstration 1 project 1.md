@@ -12,7 +12,7 @@ Section 102 of title I of division C of the Omnibus Consolidated and Emergency S
 
 #### Codification
 
-The text of section 1115 of Pub. L. 107–296, formerly classified as section 533 of Title 6, Domestic Security, which was transferred to this chapter, redesignated as this section, and amended by Pub. L. 109–162, §1187(b), (c)(2), was based on Pub. L. 107–296, title XI, §1115, Nov. 25, 2002, 116 Stat. 2280.
+The text of section 1115 of Pub. L. 107–296, formerly classified as section 533 of Title 6, Domestic Security, which was transferred to this chapter, redesignated asthis section, and amended by Pub. L. 109–162, §1187(b), (c)(2), was based on Pub. L. 107–296, title XI, §1115, Nov. 25, 2002, 116 Stat. 2280.
 
 #### Amendments
 

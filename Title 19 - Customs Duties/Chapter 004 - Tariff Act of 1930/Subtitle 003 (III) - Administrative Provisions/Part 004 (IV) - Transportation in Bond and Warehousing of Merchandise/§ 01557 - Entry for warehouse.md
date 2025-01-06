@@ -42,7 +42,7 @@ R.S. §2967, which provided that merchandise imported into the port of Louisvill
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1635(c)(1)(A), inserted ", or such longer period of time as the Bureau ofCustoms and Border Protection may at its discretion permit upon proper request being filed and good cause shown" after "date of importation" in second sentence of introductory provisions.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1635(c)(1)(A), inserted ", or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown" after "date of importation" in second sentence of introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 109–280, §1635(c)(1)(B), inserted "or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown" after "date of importation".
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 97–446 applicable with respect to merchandise entered on 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–410, title I, §108(b)(2), Oct. 3, 1978, 92 Stat. 892, provided that: "For purposes of applying the amendments made by paragraph (1) \[amending this section and section 1559 of this title\] to merchandise remaining in a bonded warehouse on the date of enactment of this Act \[Oct. 3, 1978\], any period of time the merchandise was in the bonded warehouse before that date shall be disregarded."
+Pub. L. 95–410, title I, §108(b)(2), Oct. 3, 1978, 92 Stat. 892, provided that: "For purposes of applying theamendments made by paragraph (1) \[amending this section and section 1559 of this title\] to merchandise remaining in a bonded warehouse on the date of enactment of this Act \[Oct. 3, 1978\], any period of time the merchandise was in the bonded warehouse before that date shall be disregarded."
 
 #### Effective Date of 1971 Amendment
 
@@ -104,7 +104,7 @@ Act Aug. 8, 1953, ch. 397, §21(b), 67 Stat. 520, provided that: "Notwithstandin
 
 Act June 25, 1938, ch. 679, §22(b), 52 Stat. 1088, provided that: "On and after the effective date of this Act \[see note set out under section 1401 of this title\], this section \[amending this section\] shall be effective with respect to merchandise entered for warehouse prior to, as well as after, such date."
 
-Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: "The amendments made by subsection (a) of this section \[amending this section and sections 1559and 1563 of this title\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers."
+Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: "The amendments made by subsection (a) of this section \[amending this section and sections 1559 and 1563 of this title\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers."
 
 #### Savings Provision
 

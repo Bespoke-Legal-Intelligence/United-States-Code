@@ -70,7 +70,7 @@ A prior section 2507 of act July 1, 1944, was successively renumbered by subsequ
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2619(e)(1) \[(f)(1)\], substituted "applicable amount specified" for "amount described".
 
-Subsec. (b)(1). Pub. L. 100–690, §2619(e)(2)(A)(i) \[(f)(2)(A)(i)\], made technical amendment to reference to section 300ee–24(a) of this title to correct reference to corresponding provision of original act.
+Subsec. (b)(1). Pub. L. 100–690, §2619(e)(2)(A)(i) \[(f)(2)(A)(i)\], made technical amendment to reference tosection 300ee–24(a) of this title to correct reference to corresponding provision of original act.
 
 Pub. L. 100–690, §2619(e)(2)(A)(ii) \[(f)(2)(A)(ii)\], substituted "subsection (a)(1) shall be" for "subsection (a)(1) is".
 

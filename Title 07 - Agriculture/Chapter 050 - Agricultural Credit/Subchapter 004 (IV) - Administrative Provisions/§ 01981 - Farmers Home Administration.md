@@ -14,7 +14,7 @@ The Secretary may—
 
 &emsp;(3) within the limits of appropriations made therefor, make necessary expenditures for purchase or hire of passenger vehicles, and such other facilities and services as he may from time to time find necessary for the proper administration of this chapter;
 
-&emsp;(4) compromise, adjust, reduce, or charge-off debts or claims (including debts and claims arising from loan guarantees), and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency,<sup>1</sup> Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
+&emsp;(4) compromise, adjust, reduce, or charge-off debts or claims (including debts and claimsarising from loan guarantees), and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency,<sup>1</sup> Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
 
 &emsp;(5) except for activities conducted under the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\], collect all claims and obligations administered by the Farmers Home Administration, or under any mortgage, lease, contract, or agreement entered into or administered by the Farmers Home Administration and, if in his judgment necessary and advisable, pursue the same to final collection in any court having jurisdiction;
 
@@ -56,7 +56,7 @@ The Secretary may use for the prosecution or defense of any claim or obligation 
 
 &emsp;(B) to construct other broadband infrastructure.
 
-(2) Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retail broadband service is available at the minimum broadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 \[7 U.S.C. 950bb(e)\].
+(2) Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retailbroadband service is available at the minimum broadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 \[7 U.S.C. 950bb(e)\].
 
 (3) The Secretary shall not provide funding under paragraph (1) if the funding would result in competitive harm to any grant, loan, or loan guarantee provided under the Rural Electrification Act of 1936.
 
@@ -70,7 +70,7 @@ The Secretary and the designees of the Secretary are hereby granted the same acc
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(1), (3), (8), (9), and (e)(1), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307,known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b)(1), (3), (8), (9), and (e)(1), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 The Farmers Home Administration Act of 1946, as amended, referred to in subsec. (a), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, which was classified to sections 1001 to 1005, 1005a to 1005d, 1007, 1008, 1009, 1015 to 1029, 1030, and 1031 of this title, section 371 of Title 12, Banks and Banking, and section 82h of Title 31, Money and Finance, and in so far as it amended provisions of Title I, II, and IV of the Bankhead-Jones Farm Tenant Act, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 104–127, §631, added subsec. (d).
 
 Subsec. (e). Pub. L. 104–127, §632, added subsec. (e).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted "assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate." for "assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office."
+<b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted "assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate." for "assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for thatoffice, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office."
 
 Subsec. (c). Pub. L. 103–248 added subsec. (c).
 
@@ -204,7 +204,7 @@ Pub. L. 101–624, §2388(d)(1)(A)(i), (iv)(I), formerly (v)(I), as redesignated
 
 Pub. L. 101–624, §1805(c)(1), (4), which made amendments identical to those by Pub. L. 101–624, §2388(d)(1)(A)(i), (iv)(I), was repealed by Pub. L. 102–237, §501(c)(2)(A).
 
-Subsec. (b)(9). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated par. (i) \[par. (j) prior to redesignation by Pub. L. 101–624, §1805(b), as amended\] as (9) of subsec. (b).
+Subsec. (b)(9). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L.102–237, §501(c)(2)(B)(iii), (v), redesignated par. (i) \[par. (j) prior to redesignation by Pub. L. 101–624, §1805(b), as amended\] as (9) of subsec. (b).
 
 Pars. (c) to (g). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), (B), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated former pars. (c) to (g) as (3) to (7), respectively, of subsec. (b). See above.
 

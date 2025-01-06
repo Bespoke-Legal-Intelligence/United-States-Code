@@ -24,7 +24,7 @@ In this section:
 
 #### (B) Requirements
 
-&emsp;&emsp;An insurance claims adjuster certified under the national flood insurance program shall only determine that a loss is an indeterminate loss if the claims adjuster determines that—
+&emsp;&emsp;An insurance claims adjuster certified under the national flood insurance programshall only determine that a loss is an indeterminate loss if the claims adjuster determines that—
 
 &emsp;&emsp;&emsp;(i) no material remnant of physical buildings or man-made structures remain except building foundations for the specific property for which the claim is made; and
 
@@ -98,7 +98,7 @@ In this section:
 
 #### (2) Federal disaster declaration
 
-&emsp;Subject to paragraph (3), in order to expedite claims and reduce costs to the national flood insurance program, following any major disaster declared by the President under section 5170 of this title relating to a named storm in a coastal State, the Administrator may use the COASTAL Formula to determine and pay for any flood loss covered under a standard insurance policy under the national flood insurance program, if the loss is an indeterminate loss.
+&emsp;Subject to paragraph (3), in order to expedite claims and reduce costs to the national flood insurance program, following any major disaster declared by the President under section 5170 of this title relating to a named storm ina coastal State, the Administrator may use the COASTAL Formula to determine and pay for any flood loss covered under a standard insurance policy under the national flood insurance program, if the loss is an indeterminate loss.
 
 #### (3) National Academy of Sciences evaluation
 
@@ -168,7 +168,7 @@ Each consideration and measure the Administrator determines necessary to carry o
 
 #### (2) Deposit
 
-&emsp;Notwithstanding section 3302 of title 31 or any other law relating to the crediting of money, the Administrator shall deposit in the National Flood Insurance Fund any amounts received under this subsection, which shall remain available until expended and be available to the Administrator for purposes authorized for the National Flood Insurance Fund without further appropriation.
+&emsp;Notwithstanding section 3302 of title 31 or any other law relating to the crediting of money, the Administrator shall deposit in the National Flood Insurance Fund any amountsreceived under this subsection, which shall remain available until expended and be available to the Administrator for purposes authorized for the National Flood Insurance Fund without further appropriation.
 
 #### (h) Rule of construction
 

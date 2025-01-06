@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense, in consultation with the Secretary of Education, shall, on a continuing basis—
 
-&emsp;(1) identify actions which the Department of Defense may take to improve education in the scientific, mathematics, and engineering skills necessary to meet the long-term national defense needs of the United States for personnel proficient in such skills; and
+&emsp;(1) identify actions which the Department of Defense may take to improve education in the scientific, mathematics, and engineeringskills necessary to meet the long-term national defense needs of the United States for personnel proficient in such skills; and
 
 &emsp;(2) establish and conduct programs to carry out such actions.
 

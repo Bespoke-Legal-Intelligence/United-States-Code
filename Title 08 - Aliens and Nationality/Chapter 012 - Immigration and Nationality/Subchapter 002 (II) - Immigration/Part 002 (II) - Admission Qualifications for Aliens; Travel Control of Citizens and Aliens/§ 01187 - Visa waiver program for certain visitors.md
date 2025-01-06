@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary of Homeland Security and the Secretary of State are authorized to establish a program (hereinafter in this section referred to as the "program") under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Secretary of Homeland Security, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
+The Secretary of Homeland Security and the Secretary of State are authorized to establish aprogram (hereinafter in this section referred to as the "program") under which the requirement of paragraph (7)(B)(i)(II) of section 1182(a) of this title may be waived by the Secretary of Homeland Security, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
 
 #### (1) Seeking entry as tourist for 90 days or less
 
@@ -58,7 +58,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 #### (11) Eligibility determination under the electronic system for travel authorization
 
-&emsp;Beginning on the date on which the electronic system for travel authorization developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
+&emsp;Beginning on the date on which the electronic system for travel authorization developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the UnitedStates. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
 
 #### (12) Not present in Iraq, Syria, or any other country or area of concern
 
@@ -156,7 +156,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Validation of passports
 
-&emsp;&emsp;&emsp;Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port ofentry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
+&emsp;&emsp;&emsp;Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port of entry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
 
 #### (C) Law enforcement and security interests
 
@@ -196,7 +196,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during such previous fiscal year and who violated the terms of such admission,
 
-> &emsp;&emsp;was less than 2 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during such previous fiscal year.
+> &emsp;&emsp;was less than 2 percent of the total number of nationals of that country who applied foradmission as nonimmigrant visitors during such previous fiscal year.
 
 #### (B) New countries
 
@@ -258,7 +258,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(IV) a severe economic collapse in the program country; or
 
-&emsp;&emsp;&emsp;&emsp;(V) any other extraordinary event in the program country that threatens the law enforcement or security interests of the United States (including the interest in enforcement of the immigration laws of the United States) and where the country's participation in the program could contribute to that threat.
+&emsp;&emsp;&emsp;&emsp;(V) any other extraordinary event in the program country that threatens thelaw enforcement or security interests of the United States (including the interest in enforcement of the immigration laws of the United States) and where the country's participation in the program could contribute to that threat.
 
 #### (iii) Redesignation
 
@@ -272,7 +272,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iv) Program suspension authority
 
-&emsp;&emsp;&emsp;The Director of National Intelligence shall immediately inform the Secretary of Homeland Security of any current and credible threat which poses an imminent danger to the United States or its citizens and originates from a country participating in the visa waiver program. Upon receiving such notification, the Secretary,in consultation with the Secretary of State—
+&emsp;&emsp;&emsp;The Director of National Intelligence shall immediately inform the Secretary of Homeland Security of any current and credible threat which poses an imminent danger to the United States or its citizens and originates from a country participating in the visa waiver program. Upon receiving such notification, the Secretary, in consultation with the Secretary of State—
 
 &emsp;&emsp;&emsp;&emsp;(I) may suspend a country from the visa waiver program without prior notice;
 
@@ -338,7 +338,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iii) Temporary suspension of waiver authority
 
-&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has notnotified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
+&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has not notified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
 
 #### (iv) Rule of construction
 
@@ -402,7 +402,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (B) Reporting requirement
 
-&emsp;&emsp;The Director shall provide to the Secretary of Homeland Security, the Secretaryof State, and the Attorney General the independent intelligence assessment required under subparagraph (A).
+&emsp;&emsp;The Director shall provide to the Secretary of Homeland Security, the Secretary of State, and the Attorney General the independent intelligence assessment required under subparagraph (A).
 
 #### (C) Contents
 
@@ -460,7 +460,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 &emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
-&emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully afterthe 90-day period described in subsection (a)(1)(A),
+&emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
 
 &emsp;&emsp;(B) to submit daily to immigration officers any immigration forms received with respect to nonimmigrant visitors provided a waiver under the program,
 
@@ -570,7 +570,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Data provision by carriers
 
-&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Secretary of Homeland Security to be sufficient to permit the Secretary of Homeland Security to carry out this paragraph.
+&emsp;&emsp;&emsp;Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrierunless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Secretary of Homeland Security to be sufficient to permit the Secretary of Homeland Security to carry out this paragraph.
 
 #### (iii) Calculation
 
@@ -642,7 +642,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (ii) Disposition of amounts collected
 
-&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
+&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel PromotionFund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
 
 #### (iii) Sunset of Travel Promotion Fund fee
 
@@ -700,7 +700,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–94, div. I, title VIII, §806, Dec. 20, 2019, 133 Stat. 3029; Pub. L. 117–103, div. EE, §101, Mar. 15, 2022, 136 Stat. 1111.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–94, div. I, title VIII, §806, Dec. 20, 2019, 133 Stat. 3029; Pub. L. 117–103, div. EE, §101, Mar. 15, 2022, 136 Stat. 1111.)
 
 #### <b>Editorial Notes</b>
 
@@ -816,7 +816,7 @@ Subsec. (a)(1). Pub. L. 106–396, §101(a)(2)(C), substituted "program" for "pi
 
 Subsec. (a)(2). Pub. L. 106–396, §101(a)(2)(D), in heading struck out "pilot" before "program".
 
-Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or in conjunction with one or more other countries that are described in subparagraph (B)and that have established with it a common area for immigration admissions," after "to extend)".
+Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions," after "to extend)".
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -876,7 +876,7 @@ Subsec. (g). Pub. L. 106–396, §203(b), added subsec. (g). Former subsec. (g) 
 
 Subsec. (h). Pub. L. 106–396, §205(a), added subsec. (h).
 
-<b>1998</b>—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period, low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period,low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
 
 Subsec. (f). Pub. L. 105–173, §1, substituted "2000" for "1998".
 

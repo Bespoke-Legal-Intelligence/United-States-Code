@@ -32,7 +32,7 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (d) Notice
 
-The prohibitions in subsections (a) through (c) shall be incorporated by publication of a noticein the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children's services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
+The prohibitions in subsections (a) through (c) shall be incorporated by publication of a notice in the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children's services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
 
 #### (e) Special waiver
 
@@ -74,7 +74,7 @@ The prohibitions in subsections (a) through (c) shall be incorporated by publica
 
 #### (4) Modification
 
-&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or its agencies or instrumentalities owes to the person against whom the penalty is assessed.
+&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or its agencies or instrumentalitiesowes to the person against whom the penalty is assessed.
 
 #### (5) Petition for review
 
@@ -82,7 +82,7 @@ The prohibitions in subsections (a) through (c) shall be incorporated by publica
 
 #### (6) Failure to comply
 
-&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order orthe amount of the penalty shall not be subject to review.
+&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
 
 (Pub. L. 103–227, title X, §1043, Mar. 31, 1994, 108 Stat. 272.)
 

@@ -18,5 +18,5 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 
 #### Change of Name
 
-"Battlefield" substituted in text for "park" in view of redesignation of Monocacy National Military Park as Monocacy National Battlefield by Pub. L. 94–578, §319(1), set out as section 430j of this title.
+"Battlefield" substituted in text for "park" in view of redesignation of Monocacy National Military Parkas Monocacy National Battlefield by Pub. L. 94–578, §319(1), set out as section 430j of this title.
 

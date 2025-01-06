@@ -76,7 +76,7 @@ Subsec. (a)(2)(D)(ii). Pub. L. 116–131, §125, amended cl. (ii) generally. Pri
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–144 struck out subsec. (c). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary."
 
-<b>2006</b>—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, §204(1)(A), in subpar. (C) inserted "and" at end, in subpar. (D) substituted period for "; and" at end, and struck out subpar. (E) which read as follows: "provide staff and other technical assistance to the Federal Council on the Aging."
+<b>2006</b>—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, §204(1)(A), in subpar. (C) inserted "and" at end, in subpar. (D) substituted period for "; and" at end, andstruck out subpar. (E) which read as follows: "provide staff and other technical assistance to the Federal Council on the Aging."
 
 Subsec. (a)(2)(A)(i). Pub. L. 109–365, §204(1)(B)(i)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "designing, implementing, and evaluating nutrition programs;".
 

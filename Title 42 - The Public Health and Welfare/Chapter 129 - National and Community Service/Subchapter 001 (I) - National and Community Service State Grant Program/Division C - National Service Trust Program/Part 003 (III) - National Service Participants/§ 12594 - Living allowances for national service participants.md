@@ -46,7 +46,7 @@ A professional corps program described in section 12572(c)(1)(D) of this title t
 
 #### (1) In general
 
-&emsp;A State or other recipient of assistance under section 12571 of this title shall provide or make available a basic health care policy for each full-time participant in a national service program carried out or supported using the assistance, if the participant is not otherwise covered by a health care policy. The Corporation shall establish minimum standards that all plans must meet in order to qualify for payment under this part, any circumstances in which an alternative health care policy may be substituted for the basic health care policy, and mechanisms to prohibit participants from dropping existing coverage.
+&emsp;A State or other recipient of assistance under section 12571 of this title shall provide or make available a basic health care policy for each full-time participant in a national service program carried out or supported using the assistance, if the participant is not otherwise covered by a health care policy. The Corporation shall establish minimum standards that all plans must meet in order to qualify for payment under this part, any circumstances in which an alternative healthcare policy may be substituted for the basic health care policy, and mechanisms to prohibit participants from dropping existing coverage.
 
 #### (2) Option
 
@@ -76,7 +76,7 @@ A State or other recipient of assistance under section 12571 of this title shall
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219.Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 12102 of this title, referred to in subsec. (f), was amended generally by Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, no longer defines "auxiliary aids and services". However, such term is defined in section 12103(1) of this title.
 

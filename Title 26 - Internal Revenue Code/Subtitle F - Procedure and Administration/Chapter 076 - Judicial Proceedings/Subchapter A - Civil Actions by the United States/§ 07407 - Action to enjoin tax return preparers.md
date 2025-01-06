@@ -54,5 +54,5 @@ Pub. L. 101–239, title VII, §7738(c), Dec. 19, 1989, 103 Stat. 2404, provided
 
 #### Effective Date
 
-Section applicable to documents prepared after Dec. 31, 1976, see section 1203(j) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 7701 of this title.
+Section applicable to documents prepared after Dec. 31, 1976, see section 1203(j) of Pub. L. 94–455, set out asan Effective Date of 1976 Amendment note under section 7701 of this title.
 

@@ -54,7 +54,7 @@
 
 #### (5) Matching funds
 
-&emsp;The Federal share of a grant received under this part may not exceed 90 percent of the costs of a proposal as described in an application approved under this part.
+&emsp;The Federal share of a grant received under this part may not exceed 90 percent of thecosts of a proposal as described in an application approved under this part.
 
 (Pub. L. 103–322, title II, §20108, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–19; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 110–199, title I, §104(b), Apr. 9, 2008, 122 Stat. 669.)
 

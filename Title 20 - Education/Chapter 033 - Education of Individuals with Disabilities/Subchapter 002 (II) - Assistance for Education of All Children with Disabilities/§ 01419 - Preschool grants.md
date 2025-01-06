@@ -184,7 +184,7 @@ A prior section 1419, Pub. L. 91–230, title VI, §619, as added Pub. L. 105–
 
 Another prior section 1419, Pub. L. 91–230, title VI, §619, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §§3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, §201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, §102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, §901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-A prior section 1420, Pub. L. 91–230, title VI, §620, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358, which related to payments to States and distribution by States to local educational agencies and intermediate educational units, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1420, Pub. L. 91–230, title VI, §620, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358, which related to payments to States and distributionby States to local educational agencies and intermediate educational units, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 Prior sections 1421 to 1427, which comprised former subchapter III of this chapter, were repealed by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 

@@ -54,7 +54,7 @@ Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: "T
 
 &emsp;"(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewer rural inhabitants actually have or can afford electricity;
 
-&emsp;"(5) wood, animal and agricultural waste, and other 'noncommercial' fuels still supply about half the total energy in developing countries and all but a seventh in rural sectors;
+&emsp;"(5) wood, animal and agricultural waste, and other 'noncommercial' fuels still supply about half thetotal energy in developing countries and all but a seventh in rural sectors;
 
 &emsp;"(6) growing dependence of the world's poor on wood for heating and cooking has forced the overcutting of forests and as a consequence erosion and loss of available agricultural land; and
 

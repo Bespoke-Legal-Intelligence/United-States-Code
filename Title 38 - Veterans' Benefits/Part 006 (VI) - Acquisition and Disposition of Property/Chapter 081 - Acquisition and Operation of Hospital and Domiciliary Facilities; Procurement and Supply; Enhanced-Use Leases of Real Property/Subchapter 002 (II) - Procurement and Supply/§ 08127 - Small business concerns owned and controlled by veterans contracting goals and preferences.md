@@ -162,7 +162,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Actof 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
+The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
 
 The Small Business Act, referred to in subsecs. (e) and (i)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 36 of the Act is classified to section 657f of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -192,7 +192,7 @@ Subsec. (f)(6). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (8) as 
 
 Subsec. (f)(6)(A). Pub. L. 116–283, §862(b)(1)(B)(viii)(I), substituted "certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)" for "verify the status of the concern as a small business concern or the ownership or control of the concern", "certification" for "verification", and "the Administration (as established under section 5(i))" for "the Small Business Administration (as established under section 5(i) of the Small Business Act)".
 
-Subsec. (f)(6)(B)(i). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(aa), substituted "small business concern owned and controlled by service-disabled veterans" for "small business concern owned and controlled by veterans with service-connected disabilities" and struck out "of the Small Business Administration" after "Hearings and Appeals".
+Subsec. (f)(6)(B)(i). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(aa), substituted "small businessconcern owned and controlled by service-disabled veterans" for "small business concern owned and controlled by veterans with service-connected disabilities" and struck out "of the Small Business Administration" after "Hearings and Appeals".
 
 Subsec. (f)(6)(B)(ii)(I). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(bb)(AA), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the Secretary; or".
 
@@ -236,7 +236,7 @@ Subsec. (f)(8). Pub. L. 114–328, §1832(f)(1), added par. (8).
 
 Subsec. (h). Pub. L. 114–328, §1832(b)(1)(A), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to treatment of businesses after death of veteran-owner.
 
-Subsec. (h)(2)(C). Pub. L. 114–315, §501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "The date that is ten years after the date of the veteran's death."
+Subsec. (h)(2)(C). Pub. L. 114–315, §501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The date that is ten years after the date of the veteran's death."
 
 Subsec. (h)(3). Pub. L. 114–315, §501(a)(1), substituted period at end for "rated as 100 percent disabling or who dies as a result of a service-connected disability."
 
@@ -274,7 +274,7 @@ Subsec. (f)(4). Pub. L. 111–275, §104(b)(1)(B), added par. (4) and struck out
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. A, title VIII, §862(b)(1), Jan. 1, 2021, 134 Stat. 3776, provided that the amendment made by section 862(b) of Pub. L. 116–283 shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
+Pub. L. 116–283, div. A, title VIII, §862(b)(1), Jan. 1, 2021, 134 Stat. 3776, provided that the amendment madeby section 862(b) of Pub. L. 116–283 shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
 
 #### Effective Date of 2020 Amendment
 

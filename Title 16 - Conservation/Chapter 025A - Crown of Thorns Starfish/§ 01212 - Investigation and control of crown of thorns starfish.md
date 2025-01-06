@@ -2,7 +2,7 @@
 
 In carrying out the purposes of this chapter, the Secretary of Commerce and the Secretary of the Smithsonian Institution are authorized to—
 
-&emsp;(1) conduct such studies, research, and investigations, as they deem desirable to determinethe causes of the population increase of the "Crown of Thorns", their effects on corals and coral reefs, and the stability and regeneration of reefs following predation;
+&emsp;(1) conduct such studies, research, and investigations, as they deem desirable to determine the causes of the population increase of the "Crown of Thorns", their effects on corals and coral reefs, and the stability and regeneration of reefs following predation;
 
 &emsp;(2) to monitor areas where the "Crown of Thorns" may be increasing in numbers and to determine future needs for control;
 

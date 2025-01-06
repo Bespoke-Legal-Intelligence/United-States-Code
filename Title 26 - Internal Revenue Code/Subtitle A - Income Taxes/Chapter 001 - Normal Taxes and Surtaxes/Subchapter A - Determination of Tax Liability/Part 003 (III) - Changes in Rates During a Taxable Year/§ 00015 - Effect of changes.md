@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former sub
 
 Subsec. (f). Pub. L. 95–30, §101(d)(2)(B), redesignated subsec. (f) as (d).
 
-<b>1976</b>—Subsec. (f). Pub. L. 94–455 substituted "in the surtax exemption and any change under section 11(d) in the surtax exemption" for "and the change made by section 3(c) of the Revenue Adjustment Act of 1975 in section 11(d) (relating to corporate surtax exemption)".
+<b>1976</b>—Subsec. (f). Pub. L. 94–455 substituted "in the surtax exemption and any change under section 11(d) in the surtax exemption" for "and the change made bysection 3(c) of the Revenue Adjustment Act of 1975 in section 11(d) (relating to corporate surtax exemption)".
 
 <b>1975</b>—Subsec. (f). Pub. L. 94–164 inserted reference to change made by section 3(c) of the Revenue Adjustment Act of 1975.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) ofPub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

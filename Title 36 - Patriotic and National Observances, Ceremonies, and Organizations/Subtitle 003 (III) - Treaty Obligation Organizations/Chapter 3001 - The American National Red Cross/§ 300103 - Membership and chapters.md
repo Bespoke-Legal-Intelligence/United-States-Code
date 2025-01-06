@@ -44,7 +44,7 @@ Jan. 5, 1905, ch. 23, §4a, as added May 8, 1947, ch. 50, §5, 61 Stat. 81.
 
 In subsection (a), the word "possessions" is substituted for "dependencies" for clarity and consistency in the revised title. The words "from time to time" are omitted as unnecessary.
 
-In subsection (b)(1), before clause (A), the words "within the States and Territories of the United States" are omitted as unnecessary. The words "The board of governors shall prescribe regulations related to" are substituted for "The regulations with respect to . . . shall be as determined from time to time by theBoard of Governors" for consistency in the revised title. In clause (D), the word "regulations" is substituted for "rules" for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(1), before clause (A), the words "within the States and Territories of the United States" are omitted as unnecessary. The words "The board of governors shall prescribe regulations related to" are substituted for "The regulations with respect to . . . shall be as determined from time to time by the Board of Governors" for consistency in the revised title. In clause (D), the word "regulations" is substituted for "rules" for clarity and consistency in the revised title and with other titles of the United States Code.
 
 #### <b>Editorial Notes</b>
 

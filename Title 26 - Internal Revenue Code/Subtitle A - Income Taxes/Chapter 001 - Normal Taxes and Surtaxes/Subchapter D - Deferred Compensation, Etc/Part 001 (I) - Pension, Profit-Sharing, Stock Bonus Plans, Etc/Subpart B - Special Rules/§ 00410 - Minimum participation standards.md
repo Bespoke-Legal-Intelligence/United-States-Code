@@ -58,7 +58,7 @@
 
 #### (B) Employees under 2-year 100 percent vesting
 
-&emsp;&emsp;In the case of any employee who has any 1-year break in service (as defined in section 411(a)(6)(A)) under a plan to which the service requirements of clause (i) of paragraph (1)(B) apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
+&emsp;&emsp;In the case of any employee who has any 1-year break in service (as defined in section 411(a)(6)(A)) under a plan to which the service requirements of clause (i) of paragraph\(1)(B) apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
 
 #### (C) 1-year break in service
 
@@ -224,7 +224,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, under section 414(r), an employer is treated as operating separate lines of business for a year, the employer may apply the requirements of this subsection for such year separately with respect to employees in each separate line of business.
+&emsp;&emsp;If, under section 414(r), an employer is treated as operating separate lines of business for a year, the employer may apply the requirements of this subsection for suchyear separately with respect to employees in each separate line of business.
 
 #### (B) Plan must be nondiscriminatory
 
@@ -394,7 +394,7 @@ Amendment by section 3021(a)(13)(B) of Pub. L. 100–647 effective as if include
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, withspecial rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1113(c), (d)(A) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of this title.
 
@@ -456,7 +456,7 @@ Determination by secretary of labor required.—Subparagraph (A) shall not apply
 
 &emsp;&emsp;"(D)
 
-Supplementary or special plan provisions.—For purposes of this paragraph, the term'supplementary or special plan provision' means any plan provision which—
+Supplementary or special plan provisions.—For purposes of this paragraph, the term 'supplementary or special plan provision' means any plan provision which—
 
 &emsp;&emsp;&emsp;"(i) provides supplementary benefits, not in excess of one-third of the basic benefit, in the form of an annuity for the life of the participant, or
 
@@ -538,7 +538,7 @@ Plans.—Notwithstanding subsections (b) and (c)(2), in the case of a plan in ex
 
 #### Regulations
 
-Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1113 of Pub. L. 99–514,see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1113 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission shall each issue before Feb. 1, 1988, final regulations to carry out amendments made by section 9203 of Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 

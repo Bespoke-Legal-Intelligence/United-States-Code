@@ -12,7 +12,7 @@ After notice and opportunity for an evidentiary hearing, the Commission may also
 
 &emsp;(2) to have been given reasonable time to comply fully with such order prior to commencing any revocation proceeding.
 
-> In any such proceeding, the order issued under subsection (a) shall be subject to de novo review by the Commission. No order shall be issued under this subsection until after the Commission has taken into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation.
+> In any such proceeding, the order issued under subsection (a) shall be subject to de novo reviewby the Commission. No order shall be issued under this subsection until after the Commission has taken into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation.
 
 #### (c) Civil penalty
 
@@ -34,7 +34,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 (4) The Commission may compromise, modify, or remit, with or without conditions, any civil penalty which may be imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation in a timely manner at any time prior to a final decision by the court of appeals under paragraph (2) or by the district court under paragraph (3).
 
-(5) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Commission under paragraph (3), the Commission shall institute an action to recover the amount of such penalty inany appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
+(5) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Commission under paragraph (3), the Commission shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
 
 (6)(A) Notwithstanding the provisions of title 28 or of this chapter, the Commission may be represented by the general counsel of the Commission (or any attorney or attorneys within the Commission designated by the Chairman) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (5)) in a court of the United States or in any other court, except the Supreme Court. However, the Commission or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
 

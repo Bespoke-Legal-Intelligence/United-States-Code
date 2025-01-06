@@ -4,7 +4,7 @@
 
 (b) Omitted.
 
-(c) The War Shipping Administration and its agents or persons acting on its behalf or for itsaccount may, for convenience of administration, with the approval of the Administrator, make payments of any taxes, fees, charges, or exactions to the United States or its agencies.
+(c) The War Shipping Administration and its agents or persons acting on its behalf or for its account may, for convenience of administration, with the approval of the Administrator, make payments of any taxes, fees, charges, or exactions to the United States or its agencies.
 
 (Mar. 24, 1943, ch. 26, §1, 57 Stat. 45; Apr. 4, 1944, ch. 161, §§1, 2, 58 Stat. 188; Mar. 24, 1945, ch. 36, §1(a), 59 Stat. 38.)
 
@@ -20,7 +20,7 @@ The Civil Service Retirement Act, as amended, referred to in subsec. (a), is act
 
 The Act of Congress approved March 7, 1942 (Public Law 784, Seventy-seventh Congress), referred to in subsec. (a), is act Mar. 7, 1942, ch. 166, 56 Stat. 143, popularly known as the Missing Persons Act, and was classified to sections 1001 to 1018 of the former Appendix to this title. The Act was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted by the first section thereof as subchapter VII of chapter 55 of Title 5, Government Organization and Employees, and chapter 10 of Title 37, Pay and Allowances of the Uniformed Services.
 
-The Act entitled "An Act to provide benefits for the injury, disability, death, or detention of employees of contractors with the United States and certain other persons or reimbursement therefor", approved December 2, 1942 (Public Law 784, Seventy-seventh Congress), referred to in subsec. (a), is act Dec. 2, 1942, ch. 668, 56 Stat. 1028, titles I and II of which are popularly known as the War Hazards Compensation Act, and is classified principally to chapter 12 (§1701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 42 and Tables.
+The Act entitled "An Act to provide benefits for the injury, disability, death, or detention of employees of contractors with the United States and certain other persons or reimbursement therefor", approved December 2, 1942 (Public Law 784, Seventy-seventh Congress), referred to in subsec. (a), is act Dec. 2, 1942, ch. 668, 56 Stat. 1028, titles I and II of which are popularly known as the War Hazards Compensation Act, and is classifiedprincipally to chapter 12 (§1701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 42 and Tables.
 
 The Suits in Admiralty Act, referred to in subsec. (a), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, which was classified generally to chapter 20 (§§741 to 743, 744 to 752) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 309 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30901 of Title 46 provides that chapter 309 of Title 46 may be cited as the Suits in Admiralty Act. For disposition of sections of former Title 46, Appendix, to Title 46, see Disposition Table preceding section 101 of Title 46.
 

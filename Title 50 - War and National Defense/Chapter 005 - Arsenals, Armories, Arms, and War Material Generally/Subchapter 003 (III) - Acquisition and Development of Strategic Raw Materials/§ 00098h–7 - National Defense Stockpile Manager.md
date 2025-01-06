@@ -24,7 +24,7 @@ Section was classified to section 98e–1 of this title prior to its renumbering
 
 <b>2013</b>—Pub. L. 112–239 substituted "sections 98f(a)(1) and 98h–4" for "sections 98f and 98h–4" wherever appearing.
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: "During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under section 98e(a)(6) of this title."
+<b>1991</b>—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: "During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, servingin the position designated by the President under subsection (a) or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under section 98e(a)(6) of this title."
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189, §3313(b)(1), substituted "sections 98f and 98h–4" for "sections 98f, 98g, and 98h–4".
 
@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 101–189, §3313(b)(1), (3), substituted "sections 98f and
 
 #### Savings Provision
 
-Pub. L. 100–180, div. C, title II, §3203(c), Dec. 4, 1987, 101 Stat. 1247, provided that: "Unless otherwise directed by the President under section 6A \[renumbered §16\] ofthe Strategic and Critical Materials Stock Piling Act \[this section\], as amended by subsection (a), the designation of a National Defense Stockpile Manager in effect on the day before the date of the enactment of this Act \[Dec. 4, 1987\] shall remain in effect until the individual so designated ceases to hold the office held by the individual at the time of the designation."
+Pub. L. 100–180, div. C, title II, §3203(c), Dec. 4, 1987, 101 Stat. 1247, provided that: "Unless otherwise directed by the President under section 6A \[renumbered §16\] of the Strategic and Critical Materials Stock Piling Act \[this section\], as amended by subsection (a), the designation of a National Defense Stockpile Manager in effect on the day before the date of the enactment of this Act \[Dec. 4, 1987\] shall remain in effect until the individual so designated ceases to hold the office held by the individual at the time of the designation."
 
 #### Deadline for Designation of Manager
 

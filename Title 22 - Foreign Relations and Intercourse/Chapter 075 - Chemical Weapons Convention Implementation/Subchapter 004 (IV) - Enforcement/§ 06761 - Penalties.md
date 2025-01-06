@@ -6,7 +6,7 @@
 
 #### (A) Prohibited acts relating to inspections
 
-&emsp;&emsp;Any person that is determined, in accordance with paragraph (2), to have violated section 6726 of this title shall be required by order to pay a civil penalty in an amount not to exceed $25,000 for each such violation. For purposes of this paragraph, each day such a violation of section 6726 of this title continues shall constitute a separate violation of that section.
+&emsp;&emsp;Any person that is determined, in accordance with paragraph (2), to have violated section 6726 of this title shall be required byorder to pay a civil penalty in an amount not to exceed $25,000 for each such violation. For purposes of this paragraph, each day such a violation of section 6726 of this title continues shall constitute a separate violation of that section.
 
 #### (B) Recordkeeping violations
 

@@ -56,7 +56,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 &emsp;&emsp;(C) the extent to which parties to disputes were offered alternative means of dispute resolution and the frequency with which the parties, including the agencies, accepted or declined to use such means; and
 
-&emsp;&emsp;(D) any recommendations of the Conference to improve the alternative disputeresolution procedures of the Federal banking agencies and the National Credit Union Administration Board.
+&emsp;&emsp;(D) any recommendations of the Conference to improve the alternative dispute resolution procedures of the Federal banking agencies and the National Credit Union Administration Board.
 
 #### (4) Implementation of program
 
@@ -102,7 +102,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "issues in controversy" means—
 
-&emsp;&emsp;(A) any final agency decision involving any claim against an insured depository institution or insured credit union for which the agency has been appointed conservator or receiver or for which a liquidating agent has been appointed, as the case may be;
+&emsp;&emsp;(A) any final agency decision involving any claim against an insured depository institution or insured credit union for which the agency has been appointed conservatoror receiver or for which a liquidating agent has been appointed, as the case may be;
 
 &emsp;&emsp;(B) any final action taken by an agency in the agency's capacity as conservator or receiver for an insured depository institution or by the liquidating agent appointed for an insured credit union; and
 

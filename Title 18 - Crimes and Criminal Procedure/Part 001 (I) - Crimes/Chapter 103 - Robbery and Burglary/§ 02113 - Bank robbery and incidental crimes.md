@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than one year, or both.
 
-(c) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of, any property or money or other thing of value which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen shall be subject to the punishment provided in subsection (b) for the taker.
+(c) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of, any property or money or other thing of value which hasbeen taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen shall be subject to the punishment provided in subsection (b) for the taker.
 
 (d) Whoever, in committing, or in attempting to commit, any offense defined in subsections (a) and (b) of this section, assaults any person, or puts in jeopardy the life of any person by the use of a dangerous weapon or device, shall be fined under this title or imprisoned not more than twenty-five years, or both.
 
@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 103–322, §60003(a)(9), substituted "or if death results 
 
 Subsec. (h). Pub. L. 103–322, §320608, added subsec. (h).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–647 inserted "including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978)," after "operating under the laws of the United States,".
+<b>1990</b>—Subsec. (f). Pub. L. 101–647 inserted "including a branch or agency of a foreign bank (as such terms aredefined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978)," after "operating under the laws of the United States,".
 
 <b>1989</b>—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted "any institution the deposits of which" for "any bank the deposits of which".
 

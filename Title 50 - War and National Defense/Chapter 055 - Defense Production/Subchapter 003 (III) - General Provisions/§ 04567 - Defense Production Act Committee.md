@@ -2,7 +2,7 @@
 
 #### (a) Committee established
 
-There is established the Defense Production Act Committee (in this section referred to as the "Committee"), which shall coordinate and plan for on <sup>1</sup> the effective use of the priorities and allocations authorities under this chapter by the departments, agencies, and independent establishments of the Federal Government to which the President has delegated authority under this chapter.
+There is established the Defense Production Act Committee (in this section referred to asthe "Committee"), which shall coordinate and plan for on <sup>1</sup> the effective use of the priorities and allocations authorities under this chapter by the departments, agencies, and independent establishments of the Federal Government to which the President has delegated authority under this chapter.
 
 #### (b) Membership
 
@@ -68,7 +68,7 @@ Section was formerly classified to section 2171 of the former Appendix to this t
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–172, §2(1), substituted "coordinate and plan for" for "advise the President" and "the priorities and allocations authorities" for "the authority".
 
-Subsec. (b)(2). Pub. L. 113–172, §2(2), amended par. (2) generally. Prior to amendment, text read as follows:"The President shall designate 1 member of the Committee as the Chairperson of the Committee."
+Subsec. (b)(2). Pub. L. 113–172, §2(2), amended par. (2) generally. Prior to amendment, text read as follows: "The President shall designate 1 member of the Committee as the Chairperson of the Committee."
 
 Subsec. (c). Pub. L. 113–172, §2(3), amended subsec. (c) generally. Prior to amendment, text read as follows:
 

@@ -54,7 +54,7 @@ The effective price for a covered commodity for a crop year shall be the higher 
 
 #### (d) Payment amount
 
-If price loss coverage payments are required to be provided under this section for any of the 2014 through 2024 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+If price loss coverage payments are required to be provided under this section for any of the 2014 through 2025 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
 
 &emsp;(1) the payment rate for the covered commodity under subsection (c);
 
@@ -108,7 +108,7 @@ In order to reflect price premiums, the Secretary shall provide a reference pric
 
 &emsp;&emsp;&emsp;(ii) the total United States cottonseed production, measured in pounds.
 
-(Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504; Pub. L. 118–22, div. B, title I, §102(c)(3), Nov. 17, 2023, 137 Stat. 116.)
+(Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504; Pub. L. 118–22, div. B, title I, §102(c)(3), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, §4101(c)(3), Dec. 21, 2024, 138 Stat. 1768.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,7 +118,9 @@ Provisions of law applicable to a covered commodity for the 2023 crop year pursu
 
 #### Amendments
 
-<b>2023</b>—Subsec. (d). Pub. L. 118–22 substituted "2024" for "2018".
+<b>2024</b>—Subsec. (d). Pub. L. 118–158 substituted "2025" for "2024" in introductory provisions.
+
+<b>2023</b>—Subsec. (d). Pub. L. 118–22 substituted "2024" for "2018" in introductory provisions.
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1106(1), in introductory provisions, inserted "or (h)" after "subsection (a)" and substituted "determines that—" for "determines that, for any of the 2014 through 2018 crop years—", inserted par. (1) designation and introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
 
@@ -130,11 +132,15 @@ Subsec. (h). Pub. L. 115–123 added subsec. (h).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2024 Amendment
+
+Amendment by Pub. L. 118–158 to be applied and administered as if enacted on Sept. 30, 2024, see section 4101(g) of Pub. L. 118–158, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 #### Effective Date of 2023 Amendment
 
 Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub.L. 115–123, set out as a note under section 9011 of this title.
+Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub. L. 115–123, set out as a note under section 9011 of this title.
 

@@ -4,7 +4,7 @@
 
 (1) At the beginning of each regular session of Congress, the Speaker of the House of Representatives, upon the recommendation of the chairman of the Committee on Ways and Means, shall select 5 members (not more than 3 of whom are members of the same political party) of such committee, and the President pro tempore of the Senate, upon the recommendation of the chairman of the Committee on Finance, shall select 5 members (not more than 3 of whom are members of the same political party) of such committee, who shall be designated congressional advisers on trade policy and negotiations. They shall provide advice on the development of trade policy and priorities for the implementation thereof. They shall also be accredited by the United States Trade Representative on behalf of the President as official advisers to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
 
-(2)(A) In addition to the advisers designated under paragraph (1) from the Committee onWays and Means and the Committee on Finance—
+(2)(A) In addition to the advisers designated under paragraph (1) from the Committee on Ways and Means and the Committee on Finance—
 
 &emsp;(i) the Speaker of the House may select additional members of the House, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the House or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations; and
 
@@ -28,7 +28,7 @@
 
 (3)(A) The chairmen of the Committee on Ways and Means and the Committee on Finance may designate members (in addition to the official advisers under subsection (a)(1)) and staff members of their respective committees who shall have access to the information provided to official advisers under paragraph (1).
 
-(B) The Chairman <sup>1</sup> of any committee of the House or Senate or any joint committee of Congress from which official advisers are selected under subsection (a)(2) may designate other members of such committee, and staff members of such committee, who shall have access to the information provided to official advisers under paragraph (2).
+(B) The Chairman <sup>1</sup> of any committee of the House or Senate or any joint committee of Congress from which official advisers are selected under subsection (a)(2) may designate other members of such committee, and staff members of such committee, who shall have access to theinformation provided to official advisers under paragraph (2).
 
 #### (c) Committee consultation
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) the importance of the company as a source of credit for households, businesses, and State and local governments and as a source of liquidity for the United States financial system;
 
-&emsp;&emsp;(E) the importance of the company as a source of credit for low-income, minority, or underserved communities, and the impactthat the failure of such company would have on the availability of credit in such communities;
+&emsp;&emsp;(E) the importance of the company as a source of credit for low-income, minority, or underserved communities, and the impact that the failure of such company would have on the availability of credit in such communities;
 
 &emsp;&emsp;(F) the extent to which assets are managed rather than owned by the company, and the extent to which ownership of assets under management is diffuse;
 
@@ -150,7 +150,7 @@ The Council shall—
 
 #### (4) Opportunity for hearing
 
-&emsp;The Council shall allow a nonbank financial company to request, in writing, an opportunity for a written or oral hearing before the Council to contest a waiver or modificationunder this subsection, not later than 10 days after the date of receipt of notice of the waiver or modification by the company. Upon receipt of a timely request, the Council shall fix a time (not later than 15 days after the date of receipt of the request) and place at which the nonbank financial company may appear, personally or through counsel, to submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument).
+&emsp;The Council shall allow a nonbank financial company to request, in writing, an opportunity for a written or oral hearing before the Council to contest a waiver or modification under this subsection, not later than 10 days after the date of receipt of notice of the waiver or modification by the company. Upon receipt of a timely request, the Council shall fix a time (not later than 15 days after the date of receipt of the request) and place at which the nonbank financial company may appear, personally or through counsel, to submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument).
 
 #### (5) Notice of final determination
 
@@ -174,7 +174,7 @@ In exercising its duties under this subchapter with respect to foreign nonbank f
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010,124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

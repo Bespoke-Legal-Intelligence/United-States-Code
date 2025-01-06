@@ -4,7 +4,7 @@
 
 #### (1) Prepayment authorized
 
-&emsp;Subject to the requirements set forth in subsection (b), an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chaptermay, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
+&emsp;Subject to the requirements set forth in subsection (b), an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
 
 #### (2) Procedure
 
@@ -40,7 +40,7 @@
 
 #### (iii) Adjustments to applicable percentage rate
 
-&emsp;&emsp;&emsp;The percentage rates described in clause (ii) shall be increased or decreased by the Administration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
+&emsp;&emsp;&emsp;The percentage rates described in clause (ii) shall be increased or decreased by theAdministration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
 
 #### (b) Requirements
 
@@ -82,7 +82,7 @@ No fees or penalties other than those specified in this section may be imposed o
 
 #### (A) In general
 
-&emsp;&emsp;The Administration shall use certified mail and other reasonable means to notifyeach eligible borrower of the prepayment program provided in this subchapter. Each preliminary notice shall specify the range and dollar amount of repurchase premiums which could be required of that borrower in order to participate in the program. In carrying out this program, the Administration shall provide a period of not less than 45 days following the receipt of such notice by the borrower during which the borrower must notify the Administration of the borrower's intent to participate in the program. The Administration shall require that a borrower who gives notice of its intent to participate to make an earnest money deposit of $1,000 which shall not be refundable but which shall be credited toward the final repurchase premium.
+&emsp;&emsp;The Administration shall use certified mail and other reasonable means to notify each eligible borrower of the prepayment program provided in this subchapter. Each preliminary notice shall specify the range and dollar amount of repurchase premiums which could be required of that borrower in order to participate in the program. In carrying out this program, the Administration shall provide a period of not less than 45 days following the receipt of such notice by the borrower during which the borrower must notify the Administration of the borrower's intent to participate in the program. The Administration shall require that a borrower who gives notice of its intent to participate to make an earnest money deposit of $1,000 which shall not be refundable but which shall be credited toward the final repurchase premium.
 
 #### (B) "Borrower" defined
 
@@ -110,7 +110,7 @@ Not later than 30 days after October 22, 1994, the Administration shall promulga
 
 #### (g) Authorization
 
-There are authorized to be appropriated $30,000,000 to carry out the provisions of The Small Business Prepayment Penalty Relief Act of 1994.
+There are authorized to be appropriated $30,000,000 to carry out the provisions of TheSmall Business Prepayment Penalty Relief Act of 1994.
 
 (Pub. L. 85–699, title V, §509, as added Pub. L. 103–403, title V, §503, Oct. 22, 1994, 108 Stat. 4199; amended Pub. L. 104–208, div. D, title II, §208(h)(1)(H), Sept. 30, 1996, 110 Stat. 3009–747.)
 

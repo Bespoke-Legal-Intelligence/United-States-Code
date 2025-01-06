@@ -154,7 +154,7 @@ Nondisclosure of Information.—
 
 &emsp;(1)
 
-In general.—Information developed under this section or sections 70102, 70104, and70108 is not required to be disclosed to the public, including—
+In general.—Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including—
 
 &emsp;&emsp;(A) facility security plans, vessel security plans, and port vulnerability assessments; and
 

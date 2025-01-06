@@ -16,7 +16,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;(4) may not intentionally acquire any communication as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States;
 
-&emsp;(5) may not intentionally acquire communications that contain a reference to, but are not to or from, a target of an acquisition authorized under subsection (a), except as provided under section 103(b) of the FISA Amendments Reauthorization Act of 2017; and
+&emsp;(5) may not intentionally acquire communications that contain a reference to, but are not to or from, a target of an acquisition authorized under subsection (a); and
 
 &emsp;(6) shall be conducted in a manner consistent with the fourth amendment to the Constitution of the United States.
 
@@ -84,7 +84,7 @@ An acquisition authorized under subsection (a)—
 
 #### (A) Requirement to adopt
 
-&emsp;&emsp;The Attorney General, in consultation with the Director of National Intelligence, shall adopt querying procedures consistent with the requirements of the fourth amendment to the Constitution of the United States for information collected pursuant to an authorization under subsection (a).
+&emsp;&emsp;The Attorney General, in consultation with the Director of National Intelligence,shall adopt querying procedures consistent with the requirements of the fourth amendment to the Constitution of the United States for information collected pursuant to an authorization under subsection (a).
 
 #### (B) Record of United States person query terms
 
@@ -94,59 +94,159 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;The procedures adopted in accordance with subparagraph (A) shall be subject to judicial review pursuant to subsection (j).
 
-#### (2) Access to results of certain queries conducted by FBI
+#### (2) Prohibition on conduct of queries that are solely designed to find and extract evidence of a crime
 
-#### (A) Court order required for FBI review of certain query results in criminal investigations unrelated to national security
+#### (A) Limits on authorizations of United States person queries
 
-&emsp;&emsp;Except as provided by subparagraph (E), in connection with a predicated criminal investigation opened by the Federal Bureau of Investigation that does not relate to the national security of the United States, the Federal Bureau of Investigation may not access the contents of communications acquired under subsection (a) that were retrieved pursuant to a query made using a United States person query term that was not designed to find and extract foreign intelligence information unless—
+&emsp;&emsp;The querying procedures adopted pursuant to paragraph (1) for the Federal Bureau of Investigation shall prohibit queries of information acquired under subsection (a) that are solely designed to find and extract evidence of criminal activity.
 
-&emsp;&emsp;&emsp;(i) the Federal Bureau of Investigation applies for an order of the Court under subparagraph (C); and
+#### (B) Exceptions
 
-&emsp;&emsp;&emsp;(ii) the Court enters an order under subparagraph (D) approving such application.
+&emsp;&emsp;The restriction under subparagraph (A) shall not apply with respect to a query if—
 
-#### (B) Jurisdiction
+&emsp;&emsp;&emsp;(i) there is a reasonable belief that such query may retrieve information that could assist in mitigating or eliminating a threat to life or serious bodily harm; or
 
-&emsp;&emsp;The Court shall have jurisdiction to review an application and to enter an order approving the access described in subparagraph (A).
+&emsp;&emsp;&emsp;(ii) such query is necessary to identify information that must be produced or preserved in connection with a litigation matter or to fulfill discovery obligations in criminal matters under the laws of the United States or any State thereof.
 
-#### (C) Application
+#### (3) Restrictions imposed on Federal Bureau of Investigation
 
-&emsp;&emsp;Each application for an order under this paragraph shall be made by a Federal officer in writing upon oath or affirmation to a judge having jurisdiction under subparagraph (B). Each application shall require the approval of the Attorney General based upon the finding of the Attorney General that the application satisfies the criteria and requirements of such application, as set forth in this paragraph, and shall include—
+#### (A) Limits on authorizations of United States person queries
 
-&emsp;&emsp;&emsp;(i) the identity of the Federal officer making the application; and
+#### (i) In general
 
-&emsp;&emsp;&emsp;(ii) an affidavit or other information containing a statement of the facts and circumstances relied upon by the applicant to justify the belief of the applicant that the contents of communications described in subparagraph (A) covered by the application would provide evidence of—
+&emsp;&emsp;&emsp;Federal Bureau of Investigation personnel must obtain prior approval from a Federal Bureau of Investigation supervisor (or employee of equivalent or greater rank) or attorney who is authorized to access unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) for any query of such unminimized contents or noncontents made using a United States person query term.
 
-&emsp;&emsp;&emsp;&emsp;(I) criminal activity;
+#### (ii) Exception
 
-&emsp;&emsp;&emsp;&emsp;(II) contraband, fruits of a crime, or other items illegally possessed by a third party; or
+&emsp;&emsp;&emsp;A United States person query to be conducted by the Federal Bureau of Investigation of unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) using a United States person query term may be conducted without obtaining prior approval as specified in clause (i) only if the person conducting the United States person query has a reasonable belief that conducting the query could assist in mitigating or eliminating a threat to life or serious bodily harm.
 
-&emsp;&emsp;&emsp;&emsp;(III) property designed for use, intended for use, or used in committing a crime.
+#### (B) Notification requirement for certain FBI queries
 
-#### (D) Order
+#### (i) Requirement
 
-&emsp;&emsp;Upon an application made pursuant to subparagraph (C), the Court shall enter an order approving the accessing of the contents of communications described in subparagraph (A) covered by the application if the Court finds probable cause to believe that such contents would provide any of the evidence described in subparagraph (C)(ii).
+&emsp;&emsp;&emsp;The Director of the Federal Bureau of Investigation shall promptly notify appropriate congressional leadership of any query conducted by the Federal Bureau of Investigation using a query term that is reasonably believed to be the name or other personally identifying information of a member of Congress, and shall also notify the member who is the subject of such query.
 
-#### (E) Exception
+#### (ii) Appropriate congressional leadership defined
 
-&emsp;&emsp;The requirement for an order of the Court under subparagraph (A) to access the contents of communications described in such subparagraph shall not apply with respect to a query if the Federal Bureau of Investigation determines there is a reasonable belief that such contents could assist in mitigating or eliminating a threat to life or serious bodily harm.
+&emsp;&emsp;&emsp;In this subparagraph, the term "appropriate congressional leadership" means the following:
 
-#### (F) Rule of construction
+&emsp;&emsp;&emsp;&emsp;(I) The chairs and ranking minority members of the congressional intelligence committees.
 
-&emsp;&emsp;Nothing in this paragraph may be construed as—
+&emsp;&emsp;&emsp;&emsp;(II) The Speaker and minority leader of the House of Representatives.
 
-&emsp;&emsp;&emsp;(i) limiting the authority of the Federal Bureau of Investigation to conduct lawful queries of information acquired under subsection (a);
+&emsp;&emsp;&emsp;&emsp;(III) The majority and minority leaders of the Senate.
 
-&emsp;&emsp;&emsp;(ii) limiting the authority of the Federal Bureau of Investigation to review, without a court order, the results of any query of information acquired under subsection (a) that was reasonably designed to find and extract foreign intelligence information, regardless of whether such foreign intelligence information could also be considered evidence of a crime; or
+#### (iii) National security considerations
 
-&emsp;&emsp;&emsp;(iii) prohibiting or otherwise limiting the ability of the Federal Bureau of Investigation to access the results of queries conducted when evaluating whether to open an assessment or predicated investigation relating to the national security of the United States.
+&emsp;&emsp;&emsp;In submitting a notification under clause (i), the Director shall give due regard to the protection of classified information, sources and methods, and national security.
 
-#### (3) Definitions
+#### (iv) Waiver
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The Director may waive a notification required under clause (i) if the Director determines such notification would impede an ongoing national security or law enforcement investigation.
+
+#### (II) Termination
+
+&emsp;&emsp;&emsp;&emsp;A waiver under subclause (I) shall terminate on the date the Director determines the relevant notification would not impede the relevant national security or law enforcement investigation or on the date that such investigation ends, whichever is earlier.
+
+#### (C) Consent required for FBI to conduct certain queries for purpose of defensive briefing
+
+#### (i) Consent required
+
+&emsp;&emsp;&emsp;The Federal Bureau of Investigation may not, for the exclusive purpose of supplementing the contents of a briefing on the defense against a counterintelligence threat to a member of Congress, conduct a query using a query term that is the name or restricted personal information (as such term is defined in section 119 of title 18) of that member unless—
+
+&emsp;&emsp;&emsp;&emsp;(I) the member provides consent to the use of the query term; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the Deputy Director of the Federal Bureau of Investigation determines that exigent circumstances exist sufficient to justify the conduct of such query.
+
+#### (ii) Notification
+
+#### (I) Notification of consent sought
+
+&emsp;&emsp;&emsp;&emsp;Not later than three business days after submitting a request for consent from a member of Congress under clause (i), the Director of the Federal Bureau of Investigation shall notify the appropriate congressional leadership, regardless of whether the member provided such consent.
+
+#### (II) Notification of exception used
+
+&emsp;&emsp;&emsp;&emsp;Not later than three business days after the conduct of a query under clause (i) without consent on the basis of the existence of exigent circumstances determined under subclause (II) of such clause, the Director of the Federal Bureau of Investigation shall notify the appropriate congressional leadership.
+
+#### (iii) Rule of construction
+
+&emsp;&emsp;&emsp;Nothing in this subparagraph may be construed as—
+
+&emsp;&emsp;&emsp;&emsp;(I) applying to matters outside of the scope of the briefing on the defense against a counterintelligence threat to be provided or supplemented under clause (i); or
+
+&emsp;&emsp;&emsp;&emsp;(II) limiting the lawful investigative activities of the Federal Bureau of Investigation other than supplementing the contents of a briefing on the defense against a counterintelligence threat to a member of Congress.
+
+#### (iv) Appropriate congressional leadership defined
+
+&emsp;&emsp;&emsp;In this subparagraph, the term "appropriate congressional leadership" means the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The chairs and ranking minority members of the congressional intelligence committees.
+
+&emsp;&emsp;&emsp;&emsp;(II) The Speaker and minority leader of the House of Representatives.
+
+&emsp;&emsp;&emsp;&emsp;(III) The majority and minority leaders of the Senate.
+
+#### (D) Querying procedures applicable to Federal Bureau of Investigation
+
+&emsp;&emsp;For any procedures adopted under paragraph (1) applicable to the Federal Bureau of Investigation, the Attorney General, in consultation with the Director of National Intelligence, shall include the following requirements:
+
+#### (i) Training
+
+&emsp;&emsp;&emsp;A requirement that, prior to conducting any query, personnel of the Federal Bureau of Investigation successfully complete training on the querying procedures on an annual basis.
+
+#### (ii) Additional prior approvals for sensitive queries
+
+&emsp;&emsp;&emsp;A requirement that, absent exigent circumstances, prior to conducting certain queries, personnel of the Federal Bureau of Investigation receive approval, at minimum, as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) Approval from the Deputy Director of the Federal Bureau of Investigation if the query uses a query term reasonably believed to identify a United States elected official, an appointee of the President or a State governor, a United States political candidate, a United States political organization or a United States person prominent in such organization, or a United States media organization or a United States person who is a member of such organization.
+
+&emsp;&emsp;&emsp;&emsp;(II) Approval from an attorney of the Federal Bureau of Investigation if the query uses a query term reasonably believed to identify a United States religious organization or a United States person who is prominent in such organization.
+
+&emsp;&emsp;&emsp;&emsp;(III) Approval from an attorney of the Federal Bureau of Investigation if such conduct involves batch job technology (or successor tool).
+
+#### (iii) Prior written justification
+
+&emsp;&emsp;&emsp;A requirement that, prior to conducting a query using a United States person query term, personnel of the Federal Bureau of Investigation provide a written statement of the specific factual basis to support the reasonable belief that such query meets the standards required by the procedures adopted under paragraph (1). For each United States person query, the Federal Bureau of Investigation shall keep a record of the query term, the date of the conduct of the query, the identifier of the personnel conducting the query, and such written statement.
+
+#### (iv) Storage of certain contents and noncontents
+
+&emsp;&emsp;&emsp;Any system of the Federal Bureau of Investigation that stores unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) together with contents or noncontents obtained through other lawful means shall be configured in a manner that—
+
+&emsp;&emsp;&emsp;&emsp;(I) requires personnel of the Federal Bureau of Investigation to affirmatively elect to include such unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) when running a query; or
+
+&emsp;&emsp;&emsp;&emsp;(II) includes other controls reasonably expected to prevent inadvertent queries of such unminimized contents or noncontents.
+
+#### (v) Waiver authority for Foreign Intelligence Surveillance Court
+
+&emsp;&emsp;&emsp;If the Foreign Intelligence Surveillance Court finds that the procedures adopted under paragraph (1) include measures that are reasonably expected to result in similar compliance outcomes as the measures specified in clauses (i) through (iv) of this subparagraph, the Foreign IntelligenceSurveillance Court may waive one or more of the requirements specified in such clauses.
+
+#### (vi) Prohibition on political appointees within the process to approve Federal Bureau of Investigation queries
+
+&emsp;&emsp;&emsp;The procedures shall prohibit any political personnel, such as those classified by the Office of Personnel Management as Presidential Appointment with Senate Confirmation, Presidential Appointment (without Senate Confirmation), Noncareer Senior Executive Service Appointment, or Schedule C Excepted Appointment, from inclusion in the Federal Bureau of Investigation's prior approval process under clause (ii).
+
+#### (4) Minimum accountability standards
+
+&emsp;The Director of the Federal Bureau of Investigation shall issue minimum accountability standards that set forth escalating consequences for noncompliant querying of United States person terms within the contents of communications that were acquired under this section. Such standards shall include, at minimum, the following:
+
+&emsp;&emsp;(A) Zero tolerance for willful misconduct.
+
+&emsp;&emsp;(B) Escalating consequences for unintentional noncompliance, including the threshold for mandatory revocation of access to query information acquired under this section.
+
+&emsp;&emsp;(C) Consequences for supervisors who oversee users that engage in noncompliant queries.
+
+#### (5) Definitions
 
 &emsp;In this subsection:
 
 &emsp;&emsp;(A) The term "contents" has the meaning given that term in section 2510(8) of title 18.
 
 &emsp;&emsp;(B) The term "query" means the use of one or more terms to retrieve the unminimized contents or noncontents located in electronic and data storage systems of communications of or concerning United States persons obtained through acquisitions authorized under subsection (a).
+
+#### (6) Vetting of non-United States persons
+
+&emsp;For any procedures for one or more agencies adopted under paragraph (1)(A), the Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures enable the vetting of all non-United States persons who are being processed for travel to the United States using terms that do not qualify as United States person query terms under this chapter.
 
 #### (g) Guidelines for compliance with limitations
 
@@ -178,7 +278,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Exception
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2) and time does not permit the submission of a certificationunder this subsection prior to the implementation of an authorization under subsection (a), the Attorney General and the Director of National Intelligence shall submit to the Court a certification for such authorization as soon as practicable but in no event later than 7 days after such determination is made.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2) and time does not permit the submission of a certification under this subsection prior to the implementation of an authorization under subsection (a), the Attorney General and the Director of National Intelligence shall submit to the Court a certification for such authorization as soon as practicable but in no event later than 7 days after such determination is made.
 
 #### (2) Requirements
 
@@ -200,7 +300,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;&emsp;(iii) guidelines have been adopted in accordance with subsection (g) to ensure compliance with the limitations in subsection (b) and to ensure that an application for a court order is filed as required by this chapter;
 
-&emsp;&emsp;&emsp;(iv) the procedures and guidelines referred to in clauses (i), (ii), and (iii) are consistent with the requirements of the fourth amendment to the Constitution of the United States;
+&emsp;&emsp;&emsp;(iv) the procedures and guidelines referred to in clauses (i), (ii), and (iii) areconsistent with the requirements of the fourth amendment to the Constitution of the United States;
 
 &emsp;&emsp;&emsp;(v) a significant purpose of the acquisition is to obtain foreign intelligence information;
 
@@ -256,7 +356,7 @@ An acquisition authorized under subsection (a)—
 
 #### (3) Release from liability
 
-&emsp;No cause of action shall lie in any court against any electronic communication serviceprovider for providing any information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
+&emsp;No cause of action shall lie in any court against any electronic communication service provider for providing any information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
 
 #### (4) Challenging of directives
 
@@ -274,7 +374,7 @@ An acquisition authorized under subsection (a)—
 
 #### (D) Procedures for initial review
 
-&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Upon making a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
+&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Uponmaking a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
 
 #### (E) Procedures for plenary review
 
@@ -382,7 +482,7 @@ An acquisition authorized under subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatorybody, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 #### (ii) Exception
 
@@ -444,11 +544,11 @@ An acquisition authorized under subsection (a)—
 
 &emsp;The Attorney General and the Director of National Intelligence shall retain a directive or an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
 
-#### (m) Assessments <sup>2</sup> reviews, and reporting
+#### (m) Assessments and reviews
 
 #### (1) Semiannual assessment
 
-&emsp;Not less frequently than once every 6 months, the Attorney General and Director ofNational Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
+&emsp;Not less frequently than once every 6 months, the Attorney General and Director of National Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
 
 &emsp;&emsp;(A) the Foreign Intelligence Surveillance Court; and
 
@@ -464,7 +564,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;(A) are authorized to review compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g);
 
-&emsp;&emsp;(B) with respect to acquisitions authorized under subsection (a), shall review the number of disseminated intelligence reports containing a reference to a United States-person identity and the number of United States-person identities subsequently disseminated by the element concerned in response to requests for identities that were not referred to by name or title in the original reporting;
+&emsp;&emsp;(B) with respect to acquisitions authorized under subsection (a), shall review the number of disseminated intelligence reports containing a reference to a United States-person identity and the number of UnitedStates-person identities subsequently disseminated by the element concerned in response to requests for identities that were not referred to by name or title in the original reporting;
 
 &emsp;&emsp;(C) with respect to acquisitions authorized under subsection (a), shall review the number of targets that were later determined to be located in the United States and, to the extent possible, whether communications of such targets were reviewed; and
 
@@ -514,33 +614,31 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;&emsp;&emsp;(II) the Committees on the Judiciary of the House of Representatives and the Senate.
 
-#### (4) Reporting of material breach
+#### (n) Restriction on certain information available to Federal Bureau of Investigation
 
-#### (A) In general
+#### (1) Restriction
 
-&emsp;&emsp;The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representativesand the Senate and the congressional intelligence committees of a material breach.
+&emsp;The Federal Bureau of Investigation may not ingest unminimized information acquired under this section into its analytic repositories unless the targeted person is relevant to an existing, open, predicated full national security investigation by the Federal Bureau of Investigation.
 
-#### (B) Definitions
+#### (2) Exception for exigent circumstances
 
-&emsp;&emsp;In this paragraph:
+&emsp;Paragraph (1) does not apply if the Director of the Federal Bureau of Investigation decides it is necessary due to exigent circumstances and provides notification within three business days to the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, and the majority and minority leaders of the Senate.
 
-&emsp;&emsp;&emsp;(i) The term "abouts communication" means a communication that contains a reference to, but is not to or from, a target of an acquisition authorized under subsection (a).
+#### (3) Exception for assistance to other agencies
 
-&emsp;&emsp;&emsp;(ii) The term "material breach" means significant noncompliance with applicable law or an order of the Foreign Intelligence Surveillance Court concerning any acquisition of abouts communications.
+&emsp;Paragraph (1) does not apply where the Federal Bureau of Investigation has agreed to provide technical, analytical, or linguistic assistance at the request of another Federal agency.
 
-(Pub. L. 95–511, title VII, §702, as added Pub. L. 110–261, title I, §101(a)(2), July 10, 2008, 122 Stat. 2438; amended Pub. L. 114–23, title III, §301, June 2, 2015, 129 Stat. 278; Pub. L. 115–118, title I, §§101(a)(1), (b)(1), 103(a), (b)(5), 104, title II, §205(a)(6), Jan. 19, 2018, 132 Stat. 4, 6, 10, 12, 13, 21.)
+(Pub. L. 95–511, title VII, §702, as added Pub. L. 110–261, title I, §101(a)(2), July 10, 2008, 122 Stat. 2438; amended Pub. L. 114–23, title III, §301, June 2, 2015, 129 Stat. 278; Pub. L. 115–118, title I, §§101(a)(1), (b)(1), 103, formerly 103(a), (b)(5), 104, title II, §205(a)(6), Jan. 19, 2018, 132 Stat. 4, 6, 10, 12, 13, 21, renumbered §103, Pub. L. 118–49, §22(b)(2)(B), Apr. 20, 2024, 138 Stat. 892; Pub. L. 118–49, §§2(a), (b), (d)–3, 16(a)(1), 22(a), (b)(1), 24, Apr. 20, 2024, 138 Stat. 862, 863–866, 883, 892, 893.)
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Apr. 19, 2024, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, §19(a)(1), Apr. 20, 2024, 138 Stat. 891, provided that, except as provided in section</i><i>404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective two years after Apr. 20, 2024, this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 103(b) of the FISA Amendments Reauthorization Act of 2017, referred to in subsec. (b)(5), is section 103(b) of Pub. L. 115–118, which is set out as a note below.
-
-This chapter, referred to in subsecs. (f)(1)(B) and (g)(2)(A)(iii), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (f)(6), (g)(1)(B), and (h)(2)(A)(iii), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, known as the Foreign Intelligence Surveillance Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Subsection (i), referred to in subsec. (h)(3), was redesignated subsection (j) of this section by Pub. L. 115–118, title I, §101(a)(1)(A), Jan. 19, 2018, 132 Stat. 4.
 
@@ -550,9 +648,35 @@ Senate Resolution 400 of the 94th Congress, referred to in subsec. (l), was agre
 
 #### Amendments
 
+<b>2024</b>—Subsec. (b)(5). Pub. L. 118–49, §22(a), struck out ", except as provided under section 103(b) of the FISA Amendments Reauthorization Act of 2017" after "subsection (a)".
+
+Subsec. (f)(2). Pub. L. 118–49, §3(a), amended par. (2) generally. Prior to amendment, par. (2) related to access to results of certain queries conducted by FBI.
+
+Subsec. (f)(3). Pub. L. 118–49, §2(a)(2), added par. (3). Former par. (3) redesignated (5).
+
+Subsec. (f)(3)(B). Pub. L. 118–49, §2(e), added subpar. (B).
+
+Subsec. (f)(3)(C). Pub. L. 118–49, §2(f), added subpar. (C).
+
+Subsec. (f)(3)(D). Pub. L. 118–49, §2(d), added subpar. (D).
+
+Subsec. (f)(3)(D)(vi). Pub. L. 118–49, §2(b), added cl. (vi).
+
+Subsec. (f)(4). Pub. L. 118–49, §16(a)(1), added par. (4).
+
+Subsec. (f)(5). Pub. L. 118–49, §2(a)(1), redesignated par. (3) as (5).
+
+Subsec. (f)(6). Pub. L. 118–49, §24, added par. (6).
+
+Subsec. (m). Pub. L. 118–49, §22(b)(1)(A), substituted "and reviews" for "reviews, and reporting" in heading.
+
+Subsec. (m)(4). Pub. L. 118–49, §22(b)(1)(B), struck out par. (4) which related to reporting of material breach.
+
+Subsec. (n). Pub. L. 118–49, §3(b), added subsec. (n).
+
 <b>2018</b>—Subsec. (a). Pub. L. 115–118, §101(b)(1)(A), substituted "with subsection (j)(3)" for "with subsection (i)(3)".
 
-Subsec. (b)(5), (6). Pub. L. 115–118, §103(a), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 115–118, §103, formerly §103(a), as renumbered by Pub. L. 118–49, §22(b)(2)(B), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (c)(1)(B). Pub. L. 115–118, §101(b)(1)(B)(i), substituted "with subsection (h)" for "with subsection (g)".
 
@@ -594,17 +718,23 @@ Subsec. (j)(5)(A). Pub. L. 115–118, §101(b)(1)(F)(iv), substituted "with subs
 
 Subsecs. (k), (l). Pub. L. 115–118, §101(a)(1)(A), redesignated subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 115–118, §§101(a)(1)(A), 103(b)(5)(A), redesignated subsec. (l) as (m) and substituted "reviews, and reporting" for "and reviews" in heading.
+Subsec. (m). Pub. L. 115–118, §103(b)(5)(A), substituted "reviews, and reporting" for "and reviews" in heading. Section 103(b) of Pub. L. 115–118 was struck out by Pub. L. 118–49, §22(b)(2)(A).
+
+Pub. L. 115–118, §101(a)(1)(A), redesignated subsec. (l) as (m).
 
 Subsec. (m)(1). Pub. L. 115–118, §101(b)(1)(G)(i), substituted "targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)" for "targeting and minimization procedures adopted in accordance with subsections (d) and (e)" and "with subsection (g)" for "with subsection (f)" in introductory provisions.
 
 Subsec. (m)(2)(A). Pub. L. 115–118, §101(b)(1)(G)(ii), substituted "targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)" for "targeting and minimization procedures adopted in accordance with subsections (d) and (e)" and "with subsection (g)" for "with subsection (f)".
 
-Subsec. (m)(4). Pub. L. 115–118, §103(b)(5)(B), added par. (4).
+Subsec. (m)(4). Pub. L. 115–118, §103(b)(5)(B), added par. (4). Section 103(b) of Pub. L. 115–118 was struck out by Pub. L. 118–49, §22(b)(2)(A).
 
 <b>2015</b>—Subsec. (i)(3)(D). Pub. L. 114–23 added subpar. (D).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–49, §18(d)(2), Apr. 20, 2024, 138 Stat. 891, provided that: "Subsection (f) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a), as amended by this Act, shall apply with respect to certifications submitted under subsection (h) of such section to the Foreign Intelligence Surveillance Court after January 1, 2024."
 
 #### Effective Date of 2018 Amendment
 
@@ -612,79 +742,79 @@ Pub. L. 115–118, title I, §101(a)(2), Jan. 19, 2018, 132 Stat. 6, provided th
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Apr. 19, 2024.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, §7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, §19(a)(1), Apr. 20, 2024, 138 Stat. 891, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective two years after Apr. 20, 2024.
 
-#### Congressional Review and Oversight of Abouts Collection
+#### Mandatory Audits of United States Person Queries Conducted by Federal Bureau of Investigation
 
-Pub. L. 115–118, title I, §103(b), Jan. 19, 2018, 132 Stat. 10, provided that:
+Pub. L. 118–49, §2(c), Apr. 20, 2024, 138 Stat. 863, provided that:
 
 "(1)
 
-Definitions.—In this subsection:
-
-&emsp;"(A) The term 'abouts communication' means a communication that contains a reference to, but is not to or from, a target of an acquisition authorized under section 702(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(a)).
-
-&emsp;"(B) The term 'material breach' means significant noncompliance with applicable law or an order of the Foreign Intelligence Surveillance Court concerning any acquisition of abouts communications.
+Audits required.—For each query identified by the Federal Bureau of Investigation as a United States person query against information acquired pursuant to subsection (a) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) conducted by the Federal Bureau of Investigation, not later than 180 days after the conduct of such query, the Department of Justice shall conduct an audit of such query.
 
 "(2)
 
-Submission to congress.—
-
-&emsp;"(A)
-
-Requirement.—Notwithstanding any other provision of law, and except as provided in paragraph (4), if the Attorney General and the Director of National Intelligence intend to implement the authorization of the intentional acquisition of abouts communications, before the first such implementation after the date of enactment of this Act \[Jan. 19, 2018\], the Attorney General and the Director of National Intelligence shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a written notice of the intent to implement the authorization of such an acquisition, and any supporting materials in accordance with this subsection.
-
-&emsp;"(B)
-
-Congressional review period.—During the 30-day period beginning on the date written notice is submitted under subparagraph (A), the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives shall, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the written notice.
-
-&emsp;"(C)
-
-Limitation on action during congressional review period.—Notwithstanding any other provision of law, and subject to paragraph (4), unless the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(c)(2)), the Attorney General and the Director of National Intelligence may not implement the authorization of the intentional acquisition of abouts communications before the end of the period described in subparagraph (B).
+Applicability.—The requirement under paragraph (1) shall apply with respect to queries conducted on or after the date of the enactment of this Act \[Apr. 20, 2024\].
 
 "(3)
 
-Written notice.—Written notice under paragraph (2)(A) shall include the following:
+Sunset.—This section \[probably should be "subsection"\] shall terminate on the earlier of the following:
 
-&emsp;"(A) A copy of any certification submitted to the Foreign Intelligence Surveillance Court pursuant to section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a), or amendment thereto, authorizing the intentional acquisition of abouts communications, including all affidavits, procedures, exhibits, and attachments submitted therewith.
+&emsp;"(A) The date that is 2 years after the date of the enactment of this Act \[Apr. 20, 2024\].
 
-&emsp;"(B) The decision, order, or opinion of the Foreign Intelligence Surveillance Court approving such certification, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion.
-
-&emsp;"(C) A summary of the protections in place to detect any material breach.
-
-&emsp;"(D) Data or other results of modeling, simulation, or auditing of sample data demonstrating that any acquisition method involving the intentional acquisition of abouts communications shall be conducted in accordance with title VII of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881 et seq.), if such data or other results exist at the time the written notice is submitted and were provided to the Foreign Intelligence Surveillance Court.
-
-&emsp;"(E) Except as provided under paragraph (4), a statement that no acquisition authorized under subsection (a) of such section 702 shall include the intentional acquisition of an abouts communication until after the end of the 30-day period described in paragraph (2)(B).
+&emsp;"(B) The date on which the Attorney General submits to the appropriate congressional committees a certification that the Federal Bureau of Investigation has implemented a process for the internal audit of all queries referred to in paragraph (1).
 
 "(4)
 
-Exception for emergency acquisition.—
+Appropriate congressional committees defined.—In this section \[probably should be "subsection"\], the term 'appropriate congressional committees' means—
 
-&emsp;"(A)
+&emsp;"(A) the congressional intelligence committees, as such term is defined in subsection (b) of section 701 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881); and
 
-Notice of determination.—If the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(c)(2)) with respect to the intentional acquisition of abouts communications, the Attorney General and the Director of National Intelligence shall notify the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives as soon as practicable, but not later than 7 days after the determination is made.
+&emsp;"(B) the Committees on the Judiciary of the House of Representatives and of the Senate."
 
-&emsp;"(B)
+#### Targeting Decisions Under Section 702 \[1881a\]
 
-Implementation or continuation.—
+Pub. L. 118–49, §4, Apr. 20, 2024, 138 Stat. 867, provided that:
 
-&emsp;&emsp;"(i)
+"(a)
 
-In general.—If the Foreign Intelligence Surveillance Court approves a certification that authorizes the intentional acquisition of abouts communications before the end of the 30-day period described in paragraph (2)(B), the Attorney General and the Director of National Intelligence may authorize the immediate implementation or continuation of that certification if the Attorney General and the Director of National Intelligence jointly determine that exigent circumstances exist such that without such immediate implementation or continuation intelligence important to the national security of the United States may be lost or not timely acquired.
+Sense of Congress on the Targeted Collection of United States Person Information.—It is the sense of Congress that, as proscribed in section 702(b)(2) \[50 U.S.C. 1881a(b)(2)\], section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881a\] has always prohibited, and continues to prohibit, the intelligence community from targeting a United States person for collection of foreign intelligence information. If the intelligence community intends to target a United States person for collection of foreign intelligence information under the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], the Government must first obtain an individualized court order based upon a finding of probable cause that the United States person is a foreign power, an agent of a foreign power, or an officer or employee of a foreign power, in order to conduct surveillance targeting that United States person.
 
-&emsp;&emsp;"(ii)
+"(b)
 
-Notice.—The Attorney General and the Director of National Intelligence shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives notification of a determination pursuant to clause (i) as soon as practicable, but not later than 3 days after the determination is made.
+Annual Audit of Targeting Decisions Under Section 702.—
 
-"(5)
+&emsp;"(1)
 
-Reporting of material breach.—\[Amended this section.\]
+Mandatory review.—Not less frequently than annually, the Department of Justice National Security Division shall review each person targeted under section 702 of the Foreign Intelligence Surveillance Act of 1978 in the preceding year to ensure that the purpose of each targeting decision is not to target a known United States person. The results of this review shall be submitted to the Department of Justice Office of the Inspector General, the congressional intelligence committees, and the Committees on the Judiciary of the House of Representatives and of the Senate, subject to a declassification review.
 
-"(6)
+&emsp;"(2)
 
-Appointment of amici curiae by foreign intelligence surveillance court.—For purposes of section 103(i)(2)(A) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(i)(2)(A)), the Foreign Intelligence Surveillance Court shall treat the first certification under section 702(h) of such Act (50 U.S.C. 1881a(h)) or amendment thereto that authorizes the acquisition of abouts communications as presenting a novel or significant interpretation of the law, unless the court determines otherwise."
+Inspector general audit.—Not less frequently than annually, the Department of Justice Office of the Inspector General shall audit a sampling of the targeting decisions reviewed by the National Security Division under paragraph (1) and submit a report to the congressional intelligence committees and the Committees on the Judiciary of the House of Representatives and of the Senate.
+
+&emsp;"(3)
+
+Certification.—Within 180 days of enactment of this Act \[Apr. 20, 2024\], and annually thereafter, each agency authorized to target non-United States persons under section 702 shall certify to Congress that the purpose of each targeting decision made in the prior year was not to target a known United States person.
+
+&emsp;"(4)
+
+Application.—The requirements under this subsection apply for any year to the extent that section 702 of the Foreign Intelligence Surveillance Act of 1978 was in effect during any portion of the previous year."
+
+#### Minimum Accountability Standards
+
+Pub. L. 118–49, §16(a)(2), Apr. 20, 2024, 138 Stat. 883, provided that: "Not later than 90 days after the date of the enactment of this Act \[Apr. 20, 2024\], the Director of the Federal Bureau of Investigation shall issue the minimum accountability standards required under subsection (f)(4) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a\[(f)(4)\])."
+
+#### Notification to Congress of Certain Unauthorized Disclosures
+
+Pub. L. 118–49, §18(a), Apr. 20, 2024, 138 Stat. 884, provided that: "If the Director of National Intelligence becomes aware of an actual or potential significant unauthorized disclosure or compromise of information acquired under section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a), as soon as practicable, but not later than 7 days after the date on which the Director becomes so aware, the Director shall notify the congressional intelligence committees of such actual or potential disclosure or compromise."
+
+#### Requirement for Recertification
+
+Pub. L. 118–49, §21, Apr. 20, 2024, 138 Stat. 892, provided that: "Notwithstanding any orders or authorizations issued or made under section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) during the period beginning on January 1, 2024 and ending on April 30, 2024, no later than 90 days after the date of enactment of this Act \[Apr. 20, 2024\], the Attorney General and the Director of National Intelligence shall be required to seek new orders consistent with the provisions of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], as amended by this Act, and thereafter to issue new authorizations consistent with such new orders."
+
+#### Congressional Review and Oversight of Abouts Collection
+
+Pub. L. 115–118, title I, §103(b), Jan. 19, 2018, 132 Stat. 10, which required the Attorney General and Director of National Intelligence to provide written notice to Congress of the intent to implement authorization of the intentional acquisition of abouts communicationand provided for a 30-day congressional review period and exception for emergency acquisition, was repealed by Pub. L. 118–49, §22(b)(2)(A), Apr. 20, 2024, 138 Stat. 892.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

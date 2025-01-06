@@ -44,7 +44,7 @@ The Secretary shall—
 
 &emsp;&emsp;(D) support projects, conduct research, and disseminate information relating to preventive medicine, health promotion, and physical fitness and sports medicine.
 
-> The Secretary shall appoint a Director for the Office of Disease Prevention and Health Promotion established pursuant to paragraph (11) of this subsection. The Secretary shall administer this subchapter in cooperation with health careproviders, educators, voluntary organizations, businesses, and State and local health agencies in order to encourage the dissemination of health information and health promotion activities.
+> The Secretary shall appoint a Director for the Office of Disease Prevention and Health Promotion established pursuant to paragraph (11) of this subsection. The Secretary shall administer this subchapter in cooperation with health care providers, educators, voluntary organizations, businesses, and State and local health agencies in order to encourage the dissemination of health information and health promotion activities.
 
 #### (b) Authorization of appropriations
 
@@ -108,7 +108,7 @@ Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539
 
 #### Ex. Ord. No. 13265. President's Council on Sports, Fitness, and Nutrition
 
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R.37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, §7, Sept. 30, 2021, 86 F.R. 55467, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, §7, Sept. 30, 2021, 86 F.R. 55467, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Sports, Fitness, and Nutrition (the "Council"), it is hereby ordered as follows:
 
@@ -132,7 +132,7 @@ Sec. 2. <i>Policy</i>. (a) The Secretary of Health and Human Services (Secretary
 
 Sec. 3. <i>The President's Council on Sports, Fitness, and Nutrition</i>. (a) There is hereby established the President's Council on Sports, Fitness, and Nutrition (Council).
 
-(b) The Council shall be composed of up to 30 members recommended by the Secretary and appointed by the President. Members shall serve for a term of 2 years, shall be eligible for reappointment, and may continue to serve after the expiration of their terms until the appointment of a successor. The President may designate one or more of the members as Chair or Vice Chair.
+(b) The Council shall be composed of up to 30 members recommended by the Secretary and appointed by the President. Members shall serve for a term of 2 years, shall be eligible for reappointment, and may continue to serve after the expiration of their terms until the appointment of a successor. The Presidentmay designate one or more of the members as Chair or Vice Chair.
 
 Sec. 4. <i>Functions of the Council</i>. (a) The Council shall advise the President, through the Secretary, concerning progress made in carrying out the provisions of this order and shall recommend to the President, through the Secretary, actions to accelerate such progress.
 
@@ -320,7 +320,7 @@ Ex. Ord. No. 13410, Aug. 22, 2006, 71 F.R. 51089, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, and in order to promote federally led efforts to implement more transparent and high-quality health care, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regarding health care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of healthcare, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
+Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regarding health care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of health care, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 
@@ -346,7 +346,7 @@ Sec. 3. <i>Directives for Agencies</i>. Agencies shall perform the following fun
 
 (2) Facilitation. An agency satisfies the requirements of this subsection if it participates in the aggregation of claims and other appropriate data for the purposes of quality measurement. Such aggregation shall be based upon standards established by multi-stakeholder entities identified by the Secretary or by another agency subject to this order.
 
-(c) Transparency of Pricing Information. Each agency shall make available (or provide for the availability) to the beneficiaries or enrollees of a Federal health care program (and, at the option of the agency, to the public) the prices that it, its health insurance issuers, or its health insurance plans pay for procedures to providers in the health care program with which the agency, issuer, or plan contracts. Each agency shall also, in collaboration with multi-stakeholder groups such as those described in subsection (b)(1), participate in the development of information regarding the overall costs of services for common episodes of care and the treatment of common chronic diseases.
+(c) Transparency of Pricing Information. Each agency shall make available (or provide for the availability) to the beneficiaries or enrollees of a Federal health care program (and, at the option of the agency, to the public) the prices that it, its health insurance issuers, or its health insurance plans pay for procedures to providers in the health care program with which the agency, issuer, or plan contracts. Each agency shall also, in collaboration with multi-stakeholder groups such as those described in subsection (b)(1), participate in thedevelopment of information regarding the overall costs of services for common episodes of care and the treatment of common chronic diseases.
 
 (d) Promoting Quality and Efficiency of Care. Each agency shall develop and identify, for beneficiaries, enrollees, and providers, approaches that encourage and facilitate the provision and receipt of high-quality and efficient health care. Such approaches may include pay-for-performance models of reimbursement consistent with current law. An agency will satisfy the requirements of this subsection if it makes available to beneficiaries or enrollees consumer-directed health care insurance products.
 

@@ -132,7 +132,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this section relating to annually transmitting information to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of this title, and page 173 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this section relating to annually transmitting information to certain committees ofCongress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of this title, and page 173 of House Document No. 103–7.
 
 #### Findings
 
@@ -148,7 +148,7 @@ Pub. L. 117–219, §2, Dec. 5, 2022, 136 Stat. 2271, provided that: "Congress f
 
 &emsp;"(5) Increased transparency on the impacts of any update to core-based statistical area delineations may be overly burdensome due to the anticipated variety of Federal programs that rely on these delineations. Any requirement for complete disclosure of these impacts prior to implementation of new delineations may unintentionally cause the existing delineations to ossify.
 
-&emsp;"(6) In order to prevent any disruption to service delivery of Federal programs based on updates tocore-based statistical area delineations, and ensure the independence of Federal statistical policymaking, Congress must sever the link between future updates to core-based statistical area delineations and any automatic impact on Federal programs that rely on these delineations."
+&emsp;"(6) In order to prevent any disruption to service delivery of Federal programs based on updates to core-based statistical area delineations, and ensure the independence of Federal statistical policymaking, Congress must sever the link between future updates to core-based statistical area delineations and any automatic impact on Federal programs that rely on these delineations."
 
 \[For definition of "core-based statistical area" as used in section 2 of Pub. L. 117–219, set out above, see section 4 of Pub. L. 117–219, set out below.\]
 
@@ -232,7 +232,7 @@ Director.—The term 'Director' means the Director of the Office of Management a
 
 &emsp;"(5)
 
-Domestic assistance program.—The term 'domestic assistance program' has the meaning given the term in section 6101 of title 31, United States Code.
+Domestic assistance program.—The term 'domestic assistance program' has the meaning giventhe term in section 6101 of title 31, United States Code.
 
 &emsp;"(6)
 

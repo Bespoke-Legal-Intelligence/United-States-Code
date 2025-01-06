@@ -8,7 +8,7 @@ A Regional Marine Research board <sup>1</sup> shall be established for each of 
 
 &emsp;(2) the greater New York bight region, comprised of the marine and coastal waters off the States of Massachusetts (south of Cape Cod), Rhode Island, Connecticut, New York, and New Jersey, from Cape Cod to Cape May;
 
-&emsp;(3) the mid-Atlantic region, comprised of the marine and coastal waters off the States of New Jersey, Delaware, Maryland, Virginia, and North Carolina, from Cape May to Cape Fear;
+&emsp;(3) the mid-Atlantic region, comprised of the marine and coastal waters off the States ofNew Jersey, Delaware, Maryland, Virginia, and North Carolina, from Cape May to Cape Fear;
 
 &emsp;(4) the South Atlantic region, comprised of the marine and coastal waters off the States of North Carolina, South Carolina, Georgia, and Florida, from Cape Fear to the Florida Keys, including the marine and coastal waters off Puerto Rico and the United States Virgin Islands;
 
@@ -70,7 +70,7 @@ Each Board shall, in accordance with the provisions of this chapter—
 
 Each Board shall be authorized to—
 
-&emsp;(1) cooperate with Federal agencies, with States and with local government entities,interstate and regional agencies, other public agencies and authorities, nonprofit institutions, laboratories, and organizations, or other appropriate persons, in the preparation and support of marine research in the region;
+&emsp;(1) cooperate with Federal agencies, with States and with local government entities, interstate and regional agencies, other public agencies and authorities, nonprofit institutions, laboratories, and organizations, or other appropriate persons, in the preparation and support of marine research in the region;
 
 &emsp;(2) enter into contracts, cooperative agreements or grants to State and local governmental entities, other public agencies or institutions, and non-profit institutions and organizations for purposes of carrying out the provisions of this chapter;
 

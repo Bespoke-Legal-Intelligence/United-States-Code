@@ -2,13 +2,13 @@
 
 (a)
 
-Notice Required.—An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of basic essential air service established for that place under section 41733 of this title only after giving the Secretary of Transportation, the appropriate State authority, and the affected communities at least 90 days' notice before ending, suspending, or reducing that transportation.
+Notice Required.—Subject to subsection (d), an air carrier may end, suspend, or reduce air transportation to an eligible place below the level of basic essential air service established for that place under section 41733 of this title only after giving the Secretary of Transportation, the appropriate State authority, and the affected communities at least 140 days' notice before ending, suspending, or reducing that transportation.
 
 (b)
 
 Continuation of Service for 30
 
-Days After Notice Period.—If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to providebasic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
+Days After Notice Period.—If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to provide basic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
 
 (c)
 
@@ -18,23 +18,29 @@ Day Periods.—If at the end of the 30-day period under subsection (b) of this s
 
 (d)
 
-Continuation of Compensation After Notice Period.—If an air carrier receiving compensation under section 41733 of this title for providing basic essential air service to an eligible place is required to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section, the Secretary shall provide the carrier with compensation sufficient—
+Continuation of Compensation After Notice Period.—
 
-&emsp;(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
+&emsp;(1)
 
-&emsp;(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
+In general.—If an air carrier receiving compensation under section 41733 for providing basic essential air service to an eligible place is required to continue to provide service to such place under this section after the 140-day notice period under subsection (a), the Secretary—
+
+&emsp;&emsp;(A) shall provide the carrier with compensation sufficient to pay to the carrier the amount required by the then existing contract for performing the basic essential air service that was being provided when the 140-day notice was given under subsection (a);
+
+&emsp;&emsp;(B) may pay an additional amount that represents a reasonable return on investment; and
+
+&emsp;&emsp;(C) may pay an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier or provider is required to provide the service continues.
+
+&emsp;(2)
+
+Authority.—The Secretary may incorporate contract termination penalties or conditions on compensation into a contract for an air carrier to provide service to an eligible place that take effect in the event an air carrier provides notice that it is ending, suspending, or reducing basic essential air service.
 
 (e)
 
-Compensation to Air Carriers Originally Providing Service Without Compensation.—If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under section 41733 of this title to continue providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—
-
-&emsp;(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
-
-&emsp;(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
+Compensation to Air Carriers Originally Providing Service Without Compensation.—If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under section 41733 of this title to continue providing that service after the 140-day notice period required by subsection (a), the Secretary may provide the air carrier with compensation after the end of the 140-day notice period to pay for the fully allocated actual cost to the air carrier of performing the basic essential air service that was being provided when the 140-day notice was given under subsection (a)plus a reasonable return on investment that is at least 5 percent of operating costs.
 
 (f)
 
-Finding Replacement Carriers.—When the Secretary requires an air carrier to continue to provide basic essential air service to an eligible place, the Secretary shall continue to make every effort to find another carrier to provide at least that basic essential air service to the place on a continuing basis.
+Finding Replacement Carriers.—When the Secretary requires an air carrier to continue to provide basic essential air service to an eligible place, the Secretary shall continue to make every effort to find another air carrier to provide at least that basic essential air service to the place on a continuing basis.
 
 (g)
 
@@ -52,7 +58,7 @@ Nonconsideration of Slot Availability.—In determining what is basic essential 
 
 Exemption From Hold-In Requirements.—If, after the date of enactment of this subsection, an air carrier commences air transportation to an eligible place that is not receiving scheduled passenger air service as a result of the failure of the eligible place to meet requirements contained in an appropriations Act, the air carrier shall not be subject to the requirements of subsections (b) and (c) with respect to such air transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1146; Pub. L. 103–305, title II, §206(c), Aug. 23, 1994, 108 Stat. 1587; Pub. L. 103–429, §6(81), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 108–176, title IV, §401, Dec. 12, 2003, 117 Stat. 2542; Pub. L. 112–95, title IV, §426(b)(1), Feb. 14, 2012, 126 Stat. 98.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1146; Pub. L. 103–305, title II, §206(c), Aug. 23, 1994, 108 Stat. 1587; Pub. L. 103–429, §6(81), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 108–176, title IV, §401, Dec. 12, 2003, 117 Stat. 2542; Pub. L. 112–95, title IV, §426(b)(1), Feb. 14, 2012, 126 Stat. 98; Pub. L. 118–63, title V, §561(f), May 16, 2024, 138 Stat. 1215.)
 
 Historical and Revision Notes
 
@@ -96,7 +102,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(2), (5)–(8); added Oct
 
 In subsection (b), the words "If at the end of the notice period under subsection (a) of this section" are substituted for "If an air carrier has provided notice to the Secretary under paragraph (2) of such air carrier's intention to suspend, terminate, or reduce service to any eligible point below the level of basic essential air service to such point, and if at the conclusion of the applicable period of notice" for clarity and to eliminate unnecessary words.
 
-In subsection (c), the words "either with or without compensation" are omitted as unnecessary. The words "shall require the carrier providing service to continue to provide service for additional 30-day periods" aresubstituted for "shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point", and the words "the Secretary shall decide if another carrier will provide service on a continuing basis" are substituted for "making the same determination", for clarity.
+In subsection (c), the words "either with or without compensation" are omitted as unnecessary. The words "shall require the carrier providing service to continue to provide service for additional 30-day periods" are substituted for "shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point", and the words "the Secretary shall decide if another carrier will provide service on a continuing basis" are substituted for "making the same determination", for clarity.
 
 In subsections (d)(1) and (e)(1), the word "fair" is omitted as being included in "reasonable".
 
@@ -115,6 +121,18 @@ In subsection (g)(2), the words "the authority to be transferred is being used o
 The date of enactment of this subsection, referred to in subsec. (i), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–63, §561(f)(1), substituted "Subject to subsection (d), an air carrier" for "An air carrier" and "140" for "90".
+
+Subsec. (d). Pub. L. 118–63, §561(f)(2), added subsec. (d) and struck out former subsec. (d) which related to continuation of compensation after 90-day notice period.
+
+Subsec. (e). Pub. L. 118–63, §561(f)(3), substituted "providing that service after the 140-day notice period required by subsection (a), the Secretary may provide the air carrier with compensation after the end of the 140-day notice period to pay for the fully allocated actual cost to the air carrier of performing the basic essential air service that was being provided when the 140-daynotice was given under subsection (a) plus a reasonable return on investment that is at least 5 percent of operating costs." for "providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—" and pars. (1) and (2) which read as follows:
+
+"(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
+
+"(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues."
+
+Subsec. (f). Pub. L. 118–63, §561(f)(4), inserted "air" after "find another".
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–95, in introductory provisions, substituted "provide the carrier with compensation sufficient—" for "continue to pay that compensation after the last day of that period. The Secretary shall pay the compensation until the Secretary finds another carrier to provide the service to the place or the 90th day after the end of that notice period, whichever is earlier. If, after the 90th day after the end of the 90-day notice period, the Secretary has not found another carrier to provide the service, the carrier required to continue to provide that service shall receive compensation sufficient—".
 

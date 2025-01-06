@@ -62,7 +62,7 @@ Sec. 3. <i>Procurement Regulations</i>. Within 120 days after the date of this o
 
 (2) A provision that obligates the contractor to cooperate fully in providing reasonable access to the contractor's records, documents, persons, or premises if reasonably requested by authorized officials of the contracting agency, the Department of the Treasury, or the Department of Justice, for the purpose of determining whether forced or indentured child labor was used to mine, produce, or manufacture any product furnished under the contract.
 
-(b) <i>Investigations</i>. Whenever a contracting officer of an executive agency has reason to believe that forced or indentured child labor was used to mine, produce, or manufacture a product furnished pursuant to a contract subject to the requirements of subsection 3(a) ofthis order, the head of the executive agency shall refer the matter for investigation to the Inspector General of the executive agency and, as the head of the executive agency or the Inspector General determines appropriate, to the Attorney General and the Secretary of the Treasury.
+(b) <i>Investigations</i>. Whenever a contracting officer of an executive agency has reason to believe that forced or indentured child labor was used to mine, produce, or manufacture a product furnished pursuant to a contract subject to the requirements of subsection 3(a) of this order, the head of the executive agency shall refer the matter for investigation to the Inspector General of the executive agency and, as the head of the executive agency or the Inspector General determines appropriate, to the Attorney General and the Secretary of the Treasury.
 
 (c) <i>Remedies.</i>
 

@@ -64,9 +64,11 @@ Exemption.—Fishing vessels, fish processing vessels, and fish tender vessels a
 
 (Added Pub. L. 117–263, div. K, title CXVI, §11607(a), Dec. 23, 2022, 136 Stat. 4150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of the enactment of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (c)(1), is the date of enactment of division K of Pub. L. 117–263, which was approved Dec. 23, 2022.
+Enactment of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (c)(1), means enactment of div. K of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the period.</i>
 

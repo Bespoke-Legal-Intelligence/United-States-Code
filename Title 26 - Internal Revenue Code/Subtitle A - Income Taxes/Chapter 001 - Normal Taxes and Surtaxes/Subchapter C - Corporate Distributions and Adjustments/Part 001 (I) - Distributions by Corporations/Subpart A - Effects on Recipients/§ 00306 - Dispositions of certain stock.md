@@ -26,7 +26,7 @@ If a shareholder sells or otherwise disposes of section 306 stock (as defined in
 
 &emsp;&emsp;(D)
 
-Treatment as dividend.—For purposes of section 1(h)(11) and such other provisions as the Secretary may specify, any amount treated as ordinary income under this paragraph shall be treated as a dividend received from the corporation.
+Treatment as dividend.—For purposes of section 1(h)(11) and such other provisionsas the Secretary may specify, any amount treated as ordinary income under this paragraph shall be treated as a dividend received from the corporation.
 
 #### (2) Redemption
 
@@ -86,7 +86,7 @@ Subsection (a) shall not apply—
 
 &emsp;&emsp;&emsp;(i) which was received, by the shareholder selling or otherwise disposing of such stock, in pursuance of a plan of reorganization (within the meaning of section 368(a)), or in a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applied, and
 
-&emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III,but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
+&emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III, but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
 
 > &emsp;&emsp;For purposes of this section, a receipt of stock to which the foregoing provisions of this subparagraph apply shall be treated as a distribution of stock.
 
@@ -196,7 +196,7 @@ Pub. L. 97–248, title II, §227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided t
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had notbeen enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -30,7 +30,7 @@ The following terms shall apply to the amounts made available under this section
 
 &emsp;&emsp;&emsp;(i) shall not be subject to the reduced apportionments under section 47114(f) of title 49;
 
-&emsp;&emsp;&emsp;(ii) shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i), 47114(c)(1)(C)(ii), 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) of title 49; and
+&emsp;&emsp;&emsp;(ii) shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i),<sup>1</sup> 47114(c)(1)(C)(ii),<sup>1</sup> 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) <sup>1</sup> of title 49; and
 
 &emsp;&emsp;&emsp;(iii) shall not be subject to a maximum apportionment limit set forth in section 47114(c)(1)(B) of title 49.
 
@@ -70,7 +70,7 @@ The following terms shall apply to the amounts made available under this section
 
 #### (B) Distribution
 
-&emsp;&emsp;The amounts made available for each set-aside in this paragraph shall be distributedto the sponsor of each primary airport (as such term is defined in section 47102 of title 49) based on each such primary airport's passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
+&emsp;&emsp;The amounts made available for each set-aside in this paragraph shall be distributed to the sponsor of each primary airport (as such term is defined in section 47102 of title 49) based on each such primary airport's passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
 
 #### (C) Conditions
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (1) Eligible large airport concession
 
-&emsp;The term "eligible large airport concession" means a concession (as defined in section 23.3 of title 49, Code of Federal Regulations), that is in-terminal and has maximum gross receipts, averaged over the previous three fiscal years, of more than $56,420,000.
+&emsp;The term "eligible large airport concession" means a concession (as defined in section 23.3of title 49, Code of Federal Regulations), that is in-terminal and has maximum gross receipts, averaged over the previous three fiscal years, of more than $56,420,000.
 
 #### (2) Eligible small airport concession
 
@@ -128,7 +128,15 @@ In this section:
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Sections 47114(c)(1)(C)(i) and 47114(c)(1)(C)(ii) of title 49, referred to in subsec. (b)(1)(B)(ii), were omitted in the general amendment of subsec. (c)(1) of section 47114 of title 49 by Pub. L. 118–63, title VII, §712(a)(1), May 16, 2024, 138 Stat. 1254. The new subsec. (c)(1)(C) of section 47114 of title 49 does not contain any clauses.
+
+Section 47114(c)(2)(E) of title 49, referred to in subsec. (b)(1)(B)(ii), was redesignated section 47114(c)(2)(D) of title 49 by Pub. L. 118–63, title VII, §712(a)(2)(C), May 16, 2024, 138 Stat. 1255.
+
 #### Codification
 
 Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -114,7 +114,7 @@ Preference eligible individuals who have a compensable service-connected disabil
 
 &emsp;(3)
 
-Further consideration not required.—When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in paragraph (1), by the head of an agency, has been passed over in accordance with this subsection for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from thesame list for a subsequent appointment to such position.
+Further consideration not required.—When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in paragraph (1), by the head of an agency, has been passed over in accordance with this subsection for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from the same list for a subsequent appointment to such position.
 
 &emsp;(4)
 

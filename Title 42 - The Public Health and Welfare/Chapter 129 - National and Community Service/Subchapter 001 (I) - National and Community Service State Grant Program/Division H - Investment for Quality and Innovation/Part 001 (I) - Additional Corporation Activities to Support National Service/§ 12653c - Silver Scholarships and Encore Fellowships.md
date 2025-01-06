@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Corporation may award fixed-amount grants (in accordance with section 12581(l) of this title) to community-based entities to carry out a Silver Scholarship Grant Program for individuals age 55 or older, in which such individuals complete not less than 350 hours ofservice in a year carrying out projects of national need and receive a Silver Scholarship in the form of a $1,000 national service educational award. Under such a program, the Corporation shall establish criteria for the types of the <sup>1</sup> service required to be performed to receive such award.
+&emsp;The Corporation may award fixed-amount grants (in accordance with section 12581(l) of this title) to community-based entities to carry out a Silver Scholarship Grant Program for individuals age 55 or older, in which such individuals complete not less than 350 hours of service in a year carrying out projects of national need and receive a Silver Scholarship in the form of a $1,000 national service educational award. Under such a program, the Corporation shall establish criteria for the types of the <sup>1</sup> service required to be performed to receive such award.
 
 #### (2) Term
 
@@ -138,7 +138,7 @@
 
 #### (C) Placement and award of Fellowship
 
-&emsp;&emsp;If the Corporation determines that the eligible Encore Fellowship recipient is able to meet the service needs (including skills and experience to address an area of national need) of the organization that the eligible fellowship recipient requests under subparagraph (A) or (B), the Corporation shall—
+&emsp;&emsp;If the Corporation determines that the eligible Encore Fellowship recipient is able tomeet the service needs (including skills and experience to address an area of national need) of the organization that the eligible fellowship recipient requests under subparagraph (A) or (B), the Corporation shall—
 
 &emsp;&emsp;&emsp;(i) approve the placement of the eligible Encore Fellowship recipient with the organization;
 
@@ -172,7 +172,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(4), is Pu
 
 #### Prior Provisions
 
-A prior section 12653c, Pub. L. 101–610, title I, §198C, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107Stat. 843; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(B), (f)(33)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434, which related to military installation conversion demonstration programs, was repealed by Pub. L. 111–13, title I, §1803(a)(2), title VI, §6101(a), Apr. 21, 2009, 123 Stat. 1554, 1600, effective Oct. 1, 2009.
+A prior section 12653c, Pub. L. 101–610, title I, §198C, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107 Stat. 843; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(B), (f)(33)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434, which related to military installation conversion demonstration programs, was repealed by Pub. L. 111–13, title I, §1803(a)(2), title VI, §6101(a), Apr. 21, 2009, 123 Stat. 1554, 1600, effective Oct. 1, 2009.
 
 Another prior section 12653c, Pub. L. 101–610, title I, §195C, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2524, which related to summer national service program of Civilian Community Corps Demonstration Program, was renumbered section 154 of Pub. L. 101–610 by Pub. L. 103–82, §104(b), and transferred to section 12614 of this title.
 

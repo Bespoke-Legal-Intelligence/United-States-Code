@@ -38,7 +38,7 @@ As used in this subpart:
 
 #### References in Text
 
-Section 24102 of title 49, referred to in pars. (1) and (2), was subsequently amended, and pars. (4) and (5) of section 24102 no longer define "commuter authority" and "commuter rail passenger transportation", respectively. However, such terms are defined elsewhere in that section.
+Section 24102 of title 49, referred to in pars. (1) and (2), was subsequently amended, and pars. (4) and (5) ofsection 24102 no longer define "commuter authority" and "commuter rail passenger transportation", respectively. However, such terms are defined elsewhere in that section.
 
 #### Codification
 

@@ -10,7 +10,7 @@
 
 #### (2) Guidelines for refugee-processing posts in establishing agreements with United States Government-designated refugee processing entities
 
-&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines to ensure uniform procedures for establishing agreements with United States Government-designated refugee processing entities and personnel, and uniform procedures for such entities and personnel responsible for preparingrefugee case files for use by the Immigration and Naturalization Service during refugee adjudications. These procedures should ensure, to the extent practicable, that case files prepared by such entities accurately reflect information provided by the refugee applicants and that genuine refugee applicants are not disadvantaged or denied refugee status due to faulty case file preparation.
+&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines to ensure uniform procedures for establishing agreements with United States Government-designated refugee processing entities and personnel, and uniform procedures for such entities and personnel responsible for preparing refugee case files for use by the Immigration and Naturalization Service during refugee adjudications. These procedures should ensure, to the extent practicable, that case files prepared by such entities accurately reflect information provided by the refugee applicants and that genuine refugee applicants are not disadvantaged or denied refugee status due to faulty case file preparation.
 
 #### (3) Guidelines for preventing persons with potential biases from participating in determinations
 

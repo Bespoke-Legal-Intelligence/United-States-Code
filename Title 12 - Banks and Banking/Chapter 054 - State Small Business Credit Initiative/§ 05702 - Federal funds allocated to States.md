@@ -8,7 +8,7 @@ There is established the State Small Business Credit Initiative, to be administe
 
 #### (1) In general
 
-&emsp;Not later than 30 days after March 11, 2021, the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to what the State would receive under the 2021 allocation, as determined under paragraph (2).
+&emsp;Not later than 30 days after March 11, 2021, the Secretary shall allocate Federal funds toparticipating States so that each State is eligible to receive an amount equal to what the State would receive under the 2021 allocation, as determined under paragraph (2).
 
 #### (2) 2021 allocation formula
 
@@ -86,7 +86,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 #### (D) Exception
 
-&emsp;&emsp;The Secretary may, in the Secretary's discretion, transfer the full amount of the participating State's allocated amount to the State in a single transfer if the participating State applies to the Secretary for approval to use the full amount of the allocation as collateral for a qualifying loan or swap funding facility.
+&emsp;&emsp;The Secretary may, in the Secretary's discretion, transfer the full amount of the participating State's allocated amount to the State in a single transfer if the participating State applies to the Secretary for approvalto use the full amount of the allocation as collateral for a qualifying loan or swap funding facility.
 
 #### (2) Transferred amounts
 
@@ -166,7 +166,7 @@ Of the amounts appropriated for fiscal year 2021 to carry out the Program, the S
 
 #### Amendments
 
-<b>2021</b>—Subsec. (b)(1). Pub. L. 117–2, §3301(a)(1)(A)(i)(I), amended par. (1) generally. Prior to amendment, par. (1) required allocation of funds by 30 days after Sept. 27, 2010.
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–2, §3301(a)(1)(A)(i)(I), amended par. (1) generally. Prior to amendment, par.\(1) required allocation of funds by 30 days after Sept. 27, 2010.
 
 Subsec. (b)(2). Pub. L. 117–2, §3301(a)(1)(A)(ii)(II)(bb), substituted "2020" for "2008" wherever appearing.
 

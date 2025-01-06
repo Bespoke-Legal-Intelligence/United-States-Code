@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development (hereafter in this section referred to as the "Secretary") shall establish a program for making grants for providing a full range of foreclosure legal assistance to low- and moderate-income homeowners and tenants related to homeownership preservation, home foreclosure prevention, and tenancy associated with home foreclosure.
+The Secretary of Housing and Urban Development (hereafter in this section referred to as the "Secretary") shall establish a program for making grants for providing a full range of foreclosure legal assistance to low- and moderate-income homeowners and tenants related to home ownership preservation, home foreclosure prevention, and tenancy associated with home foreclosure.
 
 #### (b) Competitive allocation
 
-The Secretary shall allocate amounts made available for grants under this section to State and local legal organizations on the basis of a competitive process. For purposes of this subsection "State and local legal organizations" are those State and local organizations whose primary business or mission is to provide legal assistance.
+The Secretary shall allocate amounts made available for grants under this section to Stateand local legal organizations on the basis of a competitive process. For purposes of this subsection "State and local legal organizations" are those State and local organizations whose primary business or mission is to provide legal assistance.
 
 #### (c) Priority to certain areas
 

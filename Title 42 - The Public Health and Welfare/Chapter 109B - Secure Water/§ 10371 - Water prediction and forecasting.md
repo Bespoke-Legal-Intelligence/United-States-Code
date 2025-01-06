@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) Guidelines for content, format, and provision of hydrologic and inundation products developed by the National Water Center.
 
-&emsp;&emsp;(C) Procedures for cooperation and coordination between the National Water Center, the National Weather Service National Centers for Environmental Prediction, National Weather Service River Forecast Centers, and National Weather Service Weather Forecast Offices.
+&emsp;&emsp;(C) Procedures for cooperation and coordination between the National Water Center, the National Weather Service National Centers for Environmental Prediction, National Weather Service River Forecast Centers, andNational Weather Service Weather Forecast Offices.
 
 #### (c) Total water prediction
 

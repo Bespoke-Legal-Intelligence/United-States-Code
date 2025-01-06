@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) temporary, which means not of a permanent duration.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, §101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat.774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, §101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
 
 #### <b>Editorial Notes</b>
 
@@ -116,7 +116,7 @@ Subsec. (c)(20), (21). Pub. L. 112–25, §102(4), added pars. (20) and (21).
 
 Subsec. (c)(4)(B)(v) to (vii). Pub. L. 109–59, §8001(b)(1)(B), added cls. (v) to (vii).
 
-Subsec. (c)(4)(C). Pub. L. 109–59, §8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term "mass transit category" referred to the budget accounts as listed incls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
+Subsec. (c)(4)(C). Pub. L. 109–59, §8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term "mass transit category" referred to the budget accounts as listed in cls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
 
 <b>2004</b>—Subsec. (c)(4)(B). Pub. L. 108–310, §10(c)(1), inserted "and the Surface Transportation Extension Act of 2004, Part V" after "Century".
 
@@ -146,7 +146,7 @@ Subsec. (b). Pub. L. 105–33, §10202(a), substituted present text for former t
 
 > applied in the order set forth above."
 
-Subsec. (c)(1). Pub. L. 105–33, §10202(b)(1), struck out "(but including the treatment specified in section 907(b)(3) of this title of the Hospital Insurance Trust Fund) and the terms 'maximum deficit amount' " before "and 'discretionary" and substituted "section 901" for "section 601 of that Act as adjusted under sections 901 and 903".
+Subsec. (c)(1). Pub. L. 105–33, §10202(b)(1), struck out "(but including the treatment specified in section 907(b)(3) of this title of the Hospital Insurance Trust Fund) and the terms 'maximum deficit amount' " before "and 'discretionary" and substituted "section 901"for "section 601 of that Act as adjusted under sections 901 and 903".
 
 Subsec. (c)(4). Pub. L. 105–33, §10202(b)(2), added par. (4) and struck out former par. (4) which read as follows: "The term 'category' means:
 
@@ -202,7 +202,7 @@ Pub. L. 118–5, §1, June 3, 2023, 137 Stat. 10, provided that: "This Act \[ena
 
 #### Short Title of 2021 Amendment
 
-Pub. L. 117–71, §1, Dec. 10, 2021, 135 Stat. 1506, provided that: "This Act \[amending section 901a of this title and sections 1395m–1, 1395w–4, and 1395iii of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 901a of this title\] may be cited as the 'Protecting Medicare and American Farmers from Sequester Cuts Act'."
+Pub. L. 117–71, §1, Dec. 10, 2021, 135 Stat. 1506, provided that: "This Act \[amending section 901a of this title andsections 1395m–1, 1395w–4, and 1395iii of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 901a of this title\] may be cited as the 'Protecting Medicare and American Farmers from Sequester Cuts Act'."
 
 #### Short Title of 2019 Amendment
 
@@ -230,7 +230,7 @@ Pub. L. 100–119, title I, §101(b), Sept. 29, 1987, 101 Stat. 754, provided th
 
 #### Short Title
 
-Pub. L. 99–177, title II, §200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: "This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare,repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the 'Balanced Budget and Emergency Deficit Control Act of 1985'."
+Pub. L. 99–177, title II, §200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: "This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the 'Balanced Budget and Emergency Deficit Control Act of 1985'."
 
 #### Severability
 
@@ -294,7 +294,7 @@ In general.—Not later than November 23, 2011, the joint committee shall vote o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) proposed legislative language to carry out such recommendations as described in subclause (I), which shall include a statement of the deficit reduction achieved by the legislation over the period of fiscal years 2012 to 2021.
 
-&emsp;&emsp;&nbsp;Any change to the Rules of the House of Representatives or the Standing Rules of the Senate included in the report or legislative language shall be considered to be merely advisory.
+&emsp;&emsp;&nbsp;Any change to the Rules of the House of Representatives or the Standing Rules of the Senateincluded in the report or legislative language shall be considered to be merely advisory.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -362,7 +362,7 @@ In general.—To enable the joint committee to exercise its powers, functions, a
 
 &emsp;&emsp;"(B)
 
-Expenses.—In carrying out its functions, the joint committee is authorized to incur expenses inthe same manner and under the same conditions as the Joint Economic Committee is authorized by section 11\[(d)\] of Public Law 79–304 (15 U.S.C. 1024(d)).
+Expenses.—In carrying out its functions, the joint committee is authorized to incur expenses in the same manner and under the same conditions as the Joint Economic Committee is authorized by section 11\[(d)\] of Public Law 79–304 (15 U.S.C. 1024(d)).
 
 &emsp;&emsp;"(C)
 
@@ -500,7 +500,7 @@ In general.—If, before passing the joint committee bill, one House receives fr
 
 &emsp;&emsp;"(A) the joint committee bill of the other House shall not be referred to a committee; and
 
-&emsp;&emsp;"(B) the procedure in the receiving House shall be the same as if no joint committee bill had been received from the other House until the vote on passage, when the joint committee bill received from the other House shall supplant the joint committee bill of the receiving House.
+&emsp;&emsp;"(B) the procedure in the receiving House shall be the same as if no joint committee bill had been received from the other House until the vote on passage, when the joint committee bill received fromthe other House shall supplant the joint committee bill of the receiving House.
 
 &emsp;"(2)
 
@@ -646,7 +646,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 
-Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management and Budget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
+Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management andBudget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
 
 Sec. 5. <i>Effective Date</i>. This order shall take effect upon enactment of the Omnibus Budget Reconciliation Act of 1993 \[Aug. 10, 1993\].
 

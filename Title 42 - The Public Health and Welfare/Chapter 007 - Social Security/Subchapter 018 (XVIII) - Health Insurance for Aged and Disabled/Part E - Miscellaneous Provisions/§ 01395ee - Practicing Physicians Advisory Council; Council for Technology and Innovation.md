@@ -14,7 +14,7 @@
 
 #### (3) Duties
 
-&emsp;The Council shall coordinate the activities of coverage, coding, and payment processes under this subchapter with respect to new technologies and procedures, including new drug therapies, and shall coordinate the exchange of information on new technologies between CMS and other entities that make similar decisions.
+&emsp;The Council shall coordinate the activities of coverage, coding, and payment processesunder this subchapter with respect to new technologies and procedures, including new drug therapies, and shall coordinate the exchange of information on new technologies between CMS and other entities that make similar decisions.
 
 #### (4) Executive Coordinator for Technology and Innovation
 
@@ -58,7 +58,7 @@
 
 #### (ii) Vacancies
 
-&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termfor which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Committee shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Committee shall be filled in the manner in which the original appointment was made.
 
 #### (D) Duties
 

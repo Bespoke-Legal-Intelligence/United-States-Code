@@ -14,7 +14,7 @@ For purposes of this section, the last date prescribed for payment of the tax sh
 
 #### (2) Jeopardy
 
-&emsp;The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
+&emsp;The last date prescribed for payment shall be determined without regard to any noticeand demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
 
 #### (3) Accumulated earnings tax
 
@@ -42,7 +42,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (A) In general
 
-&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other creditcarryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (B) Credit carryback defined
 
@@ -76,7 +76,7 @@ Except as otherwise provided in this title—
 
 #### (3) Payments made within specified period after notice and demand
 
-&emsp;If notice and demand is made for payment of any amount and if such amount is paid within 21 calendar days (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000) after the date of such notice and demand, interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand.
+&emsp;If notice and demand is made for payment of any amount and if such amount is paid within21 calendar days (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000) after the date of such notice and demand, interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand.
 
 #### (f) Satisfaction by credits
 
@@ -122,7 +122,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 &emsp;&emsp;(A) $1,000,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendaryear by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
 
@@ -134,7 +134,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 &emsp;&emsp;<b>For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, §409(a)(2), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 114–74, title XI, §1101(f)(9), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–97, title I, §11002(d)(1)(JJ), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(b)(47), Mar. 23, 2018, 132 Stat. 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L.101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, §409(a)(2), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 114–74, title XI, §1101(f)(9), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–97, title I, §11002(d)(1)(JJ), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(b)(47), Mar. 23, 2018, 132 Stat. 1204.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -302,7 +302,7 @@ Special rule.—Subject to any applicable statute of limitation not having expir
 
 Amendment by section 501(e) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
-Amendment by section 503(a), (c)(2), (3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
+Amendment by section 503(a), (c)(2), (3) of Pub. L. 105–34 applicable to estates of decedents dying afterDec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
 Pub. L. 105–34, title X, §1055(c), Aug. 5, 1997, 111 Stat. 945, provided that: "The amendments made by this section \[amending this section and section 6611 of this title\] shall apply to foreign tax credit carrybacks arising in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
@@ -388,7 +388,7 @@ Amendment by Pub. L. 94–452 effective Oct. 1, 1977, see section 3(e) of Pub. L
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, setout as an Effective Date note under section 6621 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -434,7 +434,7 @@ For effective date of amendment by section 206(e) of Pub. L. 85–866, see secti
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

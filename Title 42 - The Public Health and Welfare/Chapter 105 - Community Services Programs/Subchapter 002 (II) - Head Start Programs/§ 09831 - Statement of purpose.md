@@ -98,7 +98,7 @@ Secretary.—The term 'Secretary' means the Secretary of Health and Human Servic
 
 &emsp;"(7)
 
-State advisory council.—The term 'State Advisory Council' means a State Advisory Council on Early Childhood Education and Care designated or established under section 642B(b)(1)(A) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)).
+State advisory council.—The term 'State Advisory Council' means a State Advisory Council onEarly Childhood Education and Care designated or established under section 642B(b)(1)(A) of the Head Start Act (42 U.S.C. 9837b(b)(1)(A)).
 
 "(c)
 
@@ -196,7 +196,7 @@ Use of Funds.—A State, acting through the State entity appointed under subsect
 
 &emsp;&emsp;"(B) promoting and increasing involvement by parents and family members, including families of low-income and disadvantaged children, in the development of their children and the transition of such children from an early childhood education program into an elementary school.
 
-&emsp;"(4) Sharing best practices among early childhood education program providers in the State to increase collaboration and efficiency of services, including to improve transitions from such programs to elementary school.
+&emsp;"(4) Sharing best practices among early childhood education program providers in the State to increase collaboration and efficiency of services, including toimprove transitions from such programs to elementary school.
 
 &emsp;"(5) After activities described in paragraphs (1) and (2) have been completed, improving the overall quality of early childhood education programs in the State, including by developing and implementing evidence-based practices that meet the requirements of section 8101(21)(A)(i) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801(21)(A)(i)\], to improve professional development for early childhood education providers and educational opportunities for children.
 
@@ -260,7 +260,7 @@ In general.—Each State that receives a grant under this subsection may use gra
 
 &emsp;&emsp;"(B)
 
-Priority.—In awarding subgrants under subparagraph (A), a State shall prioritize activities toimprove areas in which there are State-identified needs that would improve services for low-income and disadvantaged children living in rural areas.
+Priority.—In awarding subgrants under subparagraph (A), a State shall prioritize activities to improve areas in which there are State-identified needs that would improve services for low-income and disadvantaged children living in rural areas.
 
 &emsp;&emsp;"(C)
 
@@ -368,7 +368,7 @@ In General.—The Secretary of Health and Human Services, in consultation with t
 
 &emsp;"(1) develop a plan for the elimination of overlapping programs, as identified by the Government Accountability Office's 2012 annual report (GAO–12–342SP);
 
-&emsp;"(2) determine if the activities conducted by States using grant funds from preschool development grantsunder section 9212 \[set out above\] have led to better utilization of resources; and
+&emsp;"(2) determine if the activities conducted by States using grant funds from preschool development grants under section 9212 \[set out above\] have led to better utilization of resources; and
 
 &emsp;"(3) make recommendations to Congress for streamlining all such programs.
 

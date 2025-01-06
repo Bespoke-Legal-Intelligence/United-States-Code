@@ -22,7 +22,7 @@
 
 &emsp;(B) the corporation determines that the payment by the corporation of benefits guaranteed under this subchapter with respect to that plan will not jeopardize the payments the corporation anticipates it may be required to make in connection with benefits guaranteed under this subchapter with respect to multiemployer plans which terminate after July 31, 1980.
 
-(3) Notwithstanding any provision of section 1321 or 1322 of this title which would prevent such payments, the corporation, in carrying out its authority under paragraph (2), may pay benefits guaranteed under this subchapter with respect to a multiemployer plan described in paragraph (2) in any case in which those benefits would otherwise not be payable if—
+(3) Notwithstanding any provision of section 1321 or 1322 of this title which would prevent such payments, the corporation, in carrying outits authority under paragraph (2), may pay benefits guaranteed under this subchapter with respect to a multiemployer plan described in paragraph (2) in any case in which those benefits would otherwise not be payable if—
 
 &emsp;(A) the plan has been in effect for at least 5 years,
 
@@ -46,7 +46,7 @@
 
 (B) For purposes of determining withdrawal liability under part 1 of subtitle E, an employer who has withdrawn from a plan shall be considered to have withdrawn from a multiemployer plan if, at the time of the withdrawal, the plan was a multiemployer plan as defined in section 1301(a)(3) of this title as in effect at the time of the withdrawal.
 
-(3) Sections 1421 through 1426 <sup>1</sup> of this title, relating to multiemployer plan reorganization,shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+(3) Sections 1421 through 1426 <sup>1</sup> of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
 
 &emsp;(A) the date on which the last collective bargaining agreement providing for employer contributions under the plan, which was in effect on September 26, 1980, expires, without regard to extensions agreed to on or after September 26, 1980, or
 
@@ -174,7 +174,7 @@ Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by SenateResolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1989 Amendment
 

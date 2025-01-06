@@ -86,6 +86,80 @@ Amendment by Pub. L. 117–81 applicable with respect to appointments made on or
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Centralized Security Monitoring Program for Facilities of the Army
+
+Pub. L. 118–159, div. A, title I, §111, Dec. 23, 2024, 138 Stat. 1801, provided that:
+
+"(a)
+
+In General.—The Secretary of the Army, in coordination with the heads of relevant organizations of the Department of Defense and other departments and agencies of the Federal Government, shall develop a plan for the implementation of a Centralized Security Monitoring Program (referred to in this section as the 'Program') for installations and facilities of the Department of the Army within the United States.
+
+"(b)
+
+Elements.—The plan required by subsection (a) shall include the following:
+
+&emsp;"(1)
+
+Proposed security solution.—A proposal for the development and implementation of a cost-effective, scalable solution to modernize and centralize security operations across Army facilities in the United States with full consideration given to minimizing operational impacts while maximizing technological advantages for enhanced security.
+
+&emsp;"(2)
+
+Locations.—Identification of at least three military installations selected to host the Program. These locations shall—
+
+&emsp;&emsp;"(A) serve as the primary hubs for the continuous monitoring of installation security across all installations of the Department of the Army in the United States;
+
+&emsp;&emsp;"(B) represent a mix of large and extra-large facilities, as defined by the 2016 business case analysis conducted by the Provost Marshal General of the Army; and
+
+&emsp;&emsp;"(C) be chosen based on geographical diversity and their strategic importance to the Army's overall security infrastructure.
+
+&emsp;"(3)
+
+Cost.—A comprehensive breakdown of the full costs of the Program, including—
+
+&emsp;&emsp;"(A) initial capital expenditure for system implementation;
+
+&emsp;&emsp;"(B) the cost of networking all installations and facilities across the Department of the Army within the United States;
+
+&emsp;&emsp;"(C) estimated operation and maintenance costs;
+
+&emsp;&emsp;"(D) a detailed funding schedule with expenditures projected across the period covered by the most recent future-years defense program submitted to Congress under section 221 of title 10, United States Code (as of the date of the plan); and
+
+&emsp;&emsp;"(E) identification of potential cost-saving opportunities from the consolidation of current security monitoring systems.
+
+&emsp;"(4)
+
+Analysis of viability.—An assessment of the viability of funding and sustaining the Program across the period covered by the most recent future-years defense program submitted to Congress under section 221 of title 10, United States Code (as of the date of the plan), considering—
+
+&emsp;&emsp;"(A) the financial impact relative to existing Army security infrastructure budgets;
+
+&emsp;&emsp;"(B) cost-benefit analysis of upgrading existing systems versus implementing new technologies at each selected location; and
+
+&emsp;&emsp;"(C) identification of technological challenges or barriers to implementing modern monitoring solutions.
+
+&emsp;"(5)
+
+Authorities.—A list of any additional authorities, appropriations, or other resources necessary to ensure the success of the Program.
+
+"(c)
+
+Submittal to Congress.—Not later than September 1, 2025, the Secretary of the Army shall submitto the Committees on Armed Services of the Senate and House of Representatives a completed version of the plan developed under subsection (a).
+
+"(d)
+
+Limitation on Commencement.—The Secretary of the Army may not commence implementation of the Program until the date on which the Secretary certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that sufficient appropriations for military construction and operational costs have been programmed to fund the Program.
+
+"(e)
+
+Deadline for Implementation.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Secretary of the Army shall implement the Program by not later than January 1, 2027.
+
+&emsp;"(2)
+
+Alternative implementation date.—In the event the certification described in subsection (d) is not submitted on or before January 1, 2027, the Secretary of the Army shall implement the Program as soon as practicable after the date on which such certification is so submitted."
+
 #### Strategy for Army Tactical Wheeled Vehicle Program
 
 Pub. L. 118–31, div. A, title I, §112, Dec. 22, 2023, 137 Stat. 166, provided that:
@@ -144,7 +218,7 @@ Pub. L. 118–31, div. A, title V, §577, Dec. 22, 2023, 137 Stat. 278, provided
 
 "(a)
 
-Implementation.—Not later than 18 months after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of the Army shall implement increased minimum fitness standards as part of the Army Combat Fitness Test for all soldiers of the followingmilitary occupational specialties or areas of concentration:
+Implementation.—Not later than 18 months after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of the Army shall implement increased minimum fitness standards as part of the Army Combat Fitness Test for all soldiers of the following military occupational specialties or areas of concentration:
 
 &emsp;"(1) 11A.
 
@@ -206,7 +280,7 @@ Duration.—Each pilot program initiated under subsection (a) shall be carried o
 
 Requirements.—In carrying out a pilot program under this section, the Secretary of the Army and the Secretary of the Navy each shall—
 
-&emsp;"(1) select not fewer than one military installation in the United States under the jurisdiction of the Secretary that contains the necessary forces, equipment, and maneuver training ranges to collect data on drivers and military tactical vehicles during training and routine operation at which to carry out the pilot program;
+&emsp;"(1) select not fewer than one military installation in the United States under the jurisdiction of theSecretary that contains the necessary forces, equipment, and maneuver training ranges to collect data on drivers and military tactical vehicles during training and routine operation at which to carry out the pilot program;
 
 &emsp;"(2) install data recorders on a sufficient number of each type of military tactical vehicle specified in subsection (d) to gain statistically significant results;
 
@@ -286,7 +360,7 @@ Access.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of the Army shall ensure, subject to paragraph (2), that a member of the reserve componentsof the Army may access the Tour of Duty system using a personal internet-enabled device.
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of the Army shall ensure, subject to paragraph (2), that a member of the reserve components of the Army may access the Tour of Duty system using a personal internet-enabled device.
 
 &emsp;"(2)
 
@@ -310,7 +384,7 @@ In General.—Not later that \[sic\] April 1, 2017, the Secretary of the Army sh
 
 &emsp;"(1) by discontinuing development of new software code, excluding the configuration and testing of system interfaces to commercial, open source, and existing Government off the shelf (GOTS) software, of any component of the system for which there is commercial, open source, or Government off the shelf software that is capable of fulfilling at least 80 percent of the system requirements applicable to such component; and
 
-&emsp;"(2) by conducting a review of the acquisition strategy of the program to ensure that procurement of commercial software is the preferred method of meeting program requirements for major system components.
+&emsp;"(2) by conducting a review of the acquisition strategy of the program to ensure that procurement ofcommercial software is the preferred method of meeting program requirements for major system components.
 
 "(b)
 
@@ -396,7 +470,7 @@ Elements of the Program.—The Global Cultural Knowledge Network shall include t
 
 &emsp;"(1) A center in the continental United States (referred to in this section as a 'reach-back center') to support requests for information, research, and analysis.
 
-&emsp;"(2) Outreach to academic institutions and other Federal agencies involved in social science researchto increase the network of resources for the reach-back center.
+&emsp;"(2) Outreach to academic institutions and other Federal agencies involved in social science research to increase the network of resources for the reach-back center.
 
 &emsp;"(3) Training with operational units during annual training exercises or during pre-deployment training.
 
@@ -434,7 +508,7 @@ Elements of waiver notice.—A waiver notice under this subsection also shall in
 
 #### Pilot Program for the Human Terrain System
 
-Pub. L. 113–291, div. A, title X, §1075, Dec. 19, 2014, 128 Stat. 3519, authorized the Secretary of the Army to carry out a pilot program under which the Secretary utilized Human Terrain System assets in the United States Pacific Command (now United States Indo-Pacific Command) area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command and required initial and final reports to the congressional defense committees, with such authority terminating on Sept. 30, 2016.
+Pub. L. 113–291, div. A, title X, §1075, Dec. 19, 2014, 128 Stat. 3519, authorized the Secretary of the Army to carry out a pilot program under which the Secretaryutilized Human Terrain System assets in the United States Pacific Command (now United States Indo-Pacific Command) area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command and required initial and final reports to the congressional defense committees, with such authority terminating on Sept. 30, 2016.
 
 #### Expansion of First Sergeants Barracks Initiative
 
@@ -516,7 +590,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of theArmy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 
@@ -532,7 +606,7 @@ Sources of Training.—The Secretary may enter into a cooperative agreement with
 
 "(c)
 
-Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
+Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at theinstallation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
 
 "(d)
 

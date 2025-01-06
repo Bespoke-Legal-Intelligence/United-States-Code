@@ -48,7 +48,7 @@ The Democracy Corps shall be required to—
 
 &emsp;(1) coordinate its activities pursuant to this section with the programs and activities of other entities operating in or providing assistance to the independent states of the former Soviet Union in support of the development of democratic institutions, a market-oriented economy, and a civil society; and
 
-&emsp;(2) ensure that its activities pursuant to this section are designed to avoid duplication with activities carried out under other United States Government foreign assistance andinternational information, educational, cultural, and exchange programs.
+&emsp;(2) ensure that its activities pursuant to this section are designed to avoid duplication with activities carried out under other United States Government foreign assistance and international information, educational, cultural, and exchange programs.
 
 #### (g) Prohibition on campaign financing
 
@@ -62,7 +62,7 @@ Funds made available to the Democracy Corps under this section may not be expend
 
 #### (2) Publication in Federal Register
 
-&emsp;For purposes of complying pursuant to paragraph (1) with section 552(a)(1) of title 5, the Democracy Corps shall make available to the Administrator such records and other information as the Administrator determines may be necessary for such purposes. The Administrator shall cause such records and other information to be published in the Federal Register.
+&emsp;For purposes of complying pursuant to paragraph (1) with section 552(a)(1) of title 5, the Democracy Corps shall make available to the Administrator such records and other information as the Administrator determines maybe necessary for such purposes. The Administrator shall cause such records and other information to be published in the Federal Register.
 
 #### (3) AID review
 

@@ -20,7 +20,7 @@
 
 (d) A period of time spent in military intern or residency training shall not be creditable in satisfying a commissioned service obligation imposed by this section.
 
-(e) A medical student who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by this section. In no case shall any such student be required to serve on active duty for any period in excess of a period equal to the period he participated in the program, except that in no case may any such student be required to serve on active duty less than one year.
+(e) A medical student who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the activeduty obligation imposed by this section. In no case shall any such student be required to serve on active duty for any period in excess of a period equal to the period he participated in the program, except that in no case may any such student be required to serve on active duty less than one year.
 
 (f)(1) The Secretary of Defense may enter into agreements with foreign military medical schools for reciprocal education programs under which students at the University receive specialized military medical instruction at the foreign military medical school and military medical personnel of the country of such medical school receive specialized military medical instruction at the University. Any such agreement may be made on a reimbursable basis or a nonreimbursable basis.
 
@@ -30,7 +30,7 @@
 
 (4) Each foreign country from which a student is permitted to receive instruction at the University under this subsection shall reimburse the United States for the cost of providing such instruction, unless such reimbursement is waived by the Secretary of Defense. The Secretary of Defense shall prescribe the rates for reimbursement under this paragraph.
 
-(5) Except as the President determines, a person receiving instruction at the University under this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classifiedinformation by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
+(5) Except as the President determines, a person receiving instruction at the University under this subsection is subject to the same regulations governing attendance, discipline, discharge, and dismissal as a student enrolled in the University. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this subsection that differ from the regulations that apply to a student enrolled in the University.
 
 (g) In this section, the term "commissioned service obligation" means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 

@@ -38,7 +38,7 @@ In General.—There shall be transferred—
 
 &emsp;&emsp;(J) of the Department of Labor, the office of that department referred to as the "Office of Special Investigations";
 
-&emsp;&emsp;(K) of the Department of Transportation, the offices of that department referred to as the "Office of Investigations and Security"and the "Office of Audit" of the Department, the "Offices of Investigations and Security, Federal Aviation Administration", and "External Audit Divisions, Federal Aviation Administration", the "Investigations Division and the External Audit Division of the Office of Program Review and Investigation, Federal Highway Administration", and the "Office of Program Audits, Federal Transit Administration";
+&emsp;&emsp;(K) of the Department of Transportation, the offices of that department referred to as the "Office of Investigations and Security" and the "Office of Audit" of the Department, the "Offices of Investigations and Security, Federal Aviation Administration", and "External Audit Divisions, Federal Aviation Administration", the "Investigations Division and the External Audit Division of the Office of Program Review and Investigation, Federal Highway Administration", and the "Office of Program Audits, Federal Transit Administration";
 
 &emsp;&emsp;(L)(i) of the Department of the Treasury, the office of that department referred to as the "Office of Inspector General", and, notwithstanding any other provision of law, that portion of each of the offices of that department referred to as the "Office of Internal Affairs, Tax and Trade Bureau", the "Office of Internal Affairs, United States Customs Service", and the "Office of Inspections, United States Secret Service" which is engaged in internal audit activities; and
 
@@ -48,7 +48,7 @@ In General.—There shall be transferred—
 
 &emsp;&emsp;(N) of the Federal Emergency Management Agency, the office of that agency referred to as the "Office of Inspector General";
 
-&emsp;&emsp;(O) of the General Services Administration, the offices of that agency referred to as the "Office of Audits" and the "Office of Investigations";
+&emsp;&emsp;(O) of the General Services Administration, the offices of that agency referred to asthe "Office of Audits" and the "Office of Investigations";
 
 &emsp;&emsp;(P) of the National Aeronautics and Space Administration, the offices of that agency referred to as the "Management Audit Office" and the "Office of Inspections and Security";
 

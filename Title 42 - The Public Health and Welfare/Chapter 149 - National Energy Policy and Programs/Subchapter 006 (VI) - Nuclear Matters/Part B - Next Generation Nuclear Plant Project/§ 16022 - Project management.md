@@ -18,7 +18,7 @@
 
 #### (1) Lead Laboratory
 
-&emsp;The Idaho National Laboratory shall be the lead National Laboratory for the Project and shall collaborate with other National Laboratories, institutions of higher education, other research institutes, industrial researchers, and international researchers to carry out the Project.
+&emsp;The Idaho National Laboratory shall be the lead National Laboratory for the Project andshall collaborate with other National Laboratories, institutions of higher education, other research institutes, industrial researchers, and international researchers to carry out the Project.
 
 #### (2) Industrial partnerships
 

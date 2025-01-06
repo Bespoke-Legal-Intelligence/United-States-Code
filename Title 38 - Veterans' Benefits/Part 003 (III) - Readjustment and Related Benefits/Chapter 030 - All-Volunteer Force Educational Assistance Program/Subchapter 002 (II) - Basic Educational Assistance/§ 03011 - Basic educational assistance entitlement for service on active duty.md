@@ -200,7 +200,7 @@ Subsec. (d)(3). Pub. L. 104–106 substituted "section 12301, 12302, 12304, 1230
 
 Subsec. (f)(1). Pub. L. 103–446, §1201(e)(10), substituted "the length of which" for "whose length".
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(1), substituted "at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service" for "on October 19, 1984, and without a break in service since October 19, 1984,".
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(1), substituted "at any time during the period beginning onOctober 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service" for "on October 19, 1984, and without a break in service since October 19, 1984,".
 
 Subsec. (a)(2). Pub. L. 102–568, §303(a)(1)(A), inserted ", except as provided in subsection (e) of this section," after "who".
 
@@ -290,7 +290,7 @@ Pub. L. 106–419, title I, §105(c), Nov. 1, 2000, 114 Stat. 1829, provided tha
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–117, title VII, §702(c), Nov. 30, 1999, 113 Stat. 1583, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 30, 1999\] and apply with respect to an individual first appointed as a commissioned officer on or after July 1, 1985."
+Pub. L. 106–117, title VII, §702(c), Nov. 30, 1999, 113 Stat. 1583, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 30, 1999\]and apply with respect to an individual first appointed as a commissioned officer on or after July 1, 1985."
 
 #### Effective Date of 1998 Amendment
 

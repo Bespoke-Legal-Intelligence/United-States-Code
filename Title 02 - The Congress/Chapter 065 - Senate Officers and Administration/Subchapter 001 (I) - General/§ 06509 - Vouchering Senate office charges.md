@@ -10,7 +10,7 @@ Charges for expenses of any office, the funds of which are disbursed by the Secr
 
 #### (b) Payment charged to official funds
 
-Payments under this section shall be charged to the official funds of the office on whose behalf the expenses were paid, or which received the goods or services for which payment is required.
+Payments under this section shall be charged to the official funds of the office on whose behalfthe expenses were paid, or which received the goods or services for which payment is required.
 
 #### (c) Certification
 

@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;At the request of a State, local, or tribal law enforcement agency, the Attorney Generalmay provide technical, forensic, prosecutorial, or any other form of assistance in the criminal investigation or prosecution of any crime that—
+&emsp;At the request of a State, local, or tribal law enforcement agency, the Attorney General may provide technical, forensic, prosecutorial, or any other form of assistance in the criminal investigation or prosecution of any crime that—
 
 &emsp;&emsp;(A) constitutes a crime of violence;
 
 &emsp;&emsp;(B) constitutes a felony under the State, local, or tribal laws; and
 
-&emsp;&emsp;(C) is motivated by prejudice based on the actual or perceived race, color, religion, national origin, gender, sexual orientation, gender identity, or disability of the victim, or is a violation of the State, local, or tribal hate crime laws.
+&emsp;&emsp;(C) is motivated by prejudice based on the actual or perceived race, color, religion, national origin, gender, sexual orientation,gender identity, or disability of the victim, or is a violation of the State, local, or tribal hate crime laws.
 
 #### (2) Priority
 

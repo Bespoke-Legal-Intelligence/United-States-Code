@@ -6,7 +6,7 @@ Every person who makes payments of unemployment compensation aggregating $10 or 
 
 #### (b) Statements to be furnished to individuals with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each individualwhose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date
 
-Section applicable to payments of unemployment compensation made after Dec. 31, 1978, in taxable years ending after such date, but not applicable to payments made for weeks of unemployment ending before Dec. 1, 1978, see section 112(d) of Pub. L. 95–600, as amended, set out as a note under section 85 of this title.
+Section applicable to payments of unemployment compensation made after Dec. 31, 1978, in taxable years ending after such date, but not applicable to paymentsmade for weeks of unemployment ending before Dec. 1, 1978, see section 112(d) of Pub. L. 95–600, as amended, set out as a note under section 85 of this title.
 
 #### Waiver of Statute of Limitations
 

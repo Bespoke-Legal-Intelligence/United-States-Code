@@ -14,7 +14,7 @@
 
 (ii) No such period of internship or residency or other advanced clinical training shall be counted toward satisfying a period of obligated service under this subchapter.
 
-(B) In the case of a participant receiving a degree from a school of nursing, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date upon which the participant becomes licensed as a registered nurse in a State.
+(B) In the case of a participant receiving a degree from a school of nursing, the participant'sservice commencement date is the later of (i) the participant's course completion date, or (ii) the date upon which the participant becomes licensed as a registered nurse in a State.
 
 (C) In the case of a participant not covered by subparagraph (A) or (B) of this paragraph, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date the participant meets any applicable licensure or certification requirements.
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) at the rate of three-quarters of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is not in a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary).
 
-(5) The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable tothe terms set forth in paragraph (3) of this subsection.
+(5) The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3) of this subsection.
 
 (c)(1) Except as provided in paragraph (2) of this subsection, a participant in the Scholarship Program shall be considered to have begun serving such participant's period of obligated service—
 

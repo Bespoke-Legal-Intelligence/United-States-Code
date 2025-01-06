@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 111–22, §1004(a)(2)(B), substituted "four times each yea
 
 Subsec. (e). Pub. L. 111–22, §1004(a)(2)(C), added subsec. (e).
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–95 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Council shall meet at the call ofits Chairperson or a majority of its members. The first meeting of the Council shall be held not later than 30 days after July 22, 1987."
+<b>2001</b>—Subsec. (c). Pub. L. 107–95 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Council shall meet at the call of its Chairperson or a majority of its members. The first meeting of the Council shall be held not later than 30 days after July 22, 1987."
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–377 inserted at end "The positions of Chairperson and Vice Chairperson shall rotate among its members on an annual basis."
 

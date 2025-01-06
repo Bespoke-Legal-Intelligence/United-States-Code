@@ -40,7 +40,7 @@
 
 #### (4) Interest rate
 
-&emsp;The interest rate on a secured loan under this section shall be not less than the yield onUnited States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
+&emsp;The interest rate on a secured loan under this section shall be not less than the yield on United States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
 
 #### (5) Maturity date
 

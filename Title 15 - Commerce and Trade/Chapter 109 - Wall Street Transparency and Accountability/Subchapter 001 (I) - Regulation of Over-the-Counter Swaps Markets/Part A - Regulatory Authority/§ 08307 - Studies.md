@@ -8,7 +8,7 @@
 
 #### (2) Report to the Congress
 
-&emsp;Within 12 months after the imposition of position limits pursuant to the other provisions of this title,<sup>1</sup> the Commodity Futures Trading Commission, in consultation with each entity that is a designated contract market under the Commodity Exchange Act, shall submit to the Congress a report on the matters described in paragraph (1).
+&emsp;Within 12 months after the imposition of position limits pursuant to the other provisions of this title,<sup>1</sup> the Commodity Futures Trading Commission, in consultation with each entity that is a designated contract market under the Commodity Exchange Act, shall submit tothe Congress a report on the matters described in paragraph (1).
 
 #### (3) Required hearing
 
@@ -100,7 +100,7 @@
 
 The Commodity Exchange Act, referred to in subsec. (a)(1), (2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-This title, referred to in subsecs. (a)(1), (2), and (d)(1)(B), is title VII of Pub. L. 111–203, July 21, 2010, 124Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This title, referred to in subsecs. (a)(1), (2), and (d)(1)(B), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

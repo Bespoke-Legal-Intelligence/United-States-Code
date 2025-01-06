@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (1) Qualifying child identification requirement
 
-&emsp;No credit shall be allowed under this section to a taxpayer with respect to any qualifyingchild unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return.
+&emsp;No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return.
 
 #### (2) Taxpayer identification requirement
 
@@ -250,7 +250,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 #### (A) In general
 
-&emsp;&emsp;If the aggregate amount of payments under section 7527A to the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard to paragraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+&emsp;&emsp;If the aggregate amount of payments under section 7527A to the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard to paragraph (1)), the tax imposed by this chapter for such taxable yearshall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
 
 #### (B) Safe harbor based on modified adjusted gross income
 
@@ -260,7 +260,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 #### (ii) Phase out of safe harbor amount
 
-&emsp;&emsp;&emsp;In the case of a taxpayer whose modified adjusted gross income (as defined in subsection (b)) for the taxable year exceedsthe applicable income threshold, the safe harbor amount otherwise in effect under clause (i) shall be reduced by the amount which bears the same ratio to such amount as such excess bears to the applicable income threshold.
+&emsp;&emsp;&emsp;In the case of a taxpayer whose modified adjusted gross income (as defined in subsection (b)) for the taxable year exceeds the applicable income threshold, the safe harbor amount otherwise in effect under clause (i) shall be reduced by the amount which bears the same ratio to such amount as such excess bears to the applicable income threshold.
 
 #### (iii) Applicable income threshold
 
@@ -394,7 +394,7 @@ Subsec. (d)(1). Pub. L. 112–240, §104(c)(2)(B)(ii)(II), substituted "section 
 
 Subsec. (d)(1)(A), (B). Pub. L. 112–240, §104(c)(2)(B)(ii)(I), substituted "section 26(a)" for "section 26(a)(2) or subsection (b)(3), as the case may be," in subpar. (A) and in introductory provisions in subpar. (B).
 
-Subsec. (d)(4). Pub. L. 112–240, §103(b), which directed substitution of "for certain years" for "2009, 2010, 2011, and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
+Subsec. (d)(4). Pub. L. 112–240, §103(b), which directed substitution of "for certain years" for "2009, 2010, 2011,and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 <b>2010</b>—Subsec. (b)(3)(B). Pub. L. 111–148, §10909(b)(2)(A), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily struck out "23," before "25A(i),". See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -490,7 +490,7 @@ Subsec. (d)(1). Pub. L. 107–16, §201(b)(2)(C)(i), substituted "subsection (b)
 
 Subsec. (d)(1)(B). Pub. L. 107–16, §201(b)(2)(C)(ii), substituted "amount of credit allowed by this section" for "aggregate amount of credits allowed by this subpart" in subpar. (B) as amended by Pub. L. 107–16, §201(c).
 
-Subsec. (d)(2). Pub. L. 107–16, §201(d), redesignated par. (3) as (2) and struck out heading and text of formerpar. (2). Text read as follows: "For taxable years beginning after December 31, 2001, the credit determined under this subsection for the taxable year shall be reduced by the excess (if any) of—
+Subsec. (d)(2). Pub. L. 107–16, §201(d), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "For taxable years beginning after December 31, 2001, the credit determined under this subsection for the taxable year shall be reduced by the excess (if any) of—
 
 &emsp;"(A) the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year, over
 
@@ -564,7 +564,7 @@ Pub. L. 112–240, title I, §103(e), Jan. 2, 2013, 126 Stat. 2320, provided tha
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 25A, 32, and 6409 of this title and amending provisions set out as a note under section 25A of this title\] shall apply to taxable years beginning after December 31, 2012.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 25A, 32, and 6409 of this title andamending provisions set out as a note under section 25A of this title\] shall apply to taxable years beginning after December 31, 2012.
 
 "(2)
 
@@ -578,7 +578,7 @@ Pub. L. 111–312, title I, §103(d), Dec. 17, 2010, 124 Stat. 3299, provided th
 
 Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d)of Pub. L. 111–148, set out as a note under section 1 of this title.
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -646,7 +646,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Subsection (b).—The amendments made by subsection (b) \[enacting section 6429 of this title\] shalltake effect on the date of the enactment of this Act \[May 28, 2003\]."
+Subsection (b).—The amendments made by subsection (b) \[enacting section 6429 of this title\] shall take effect on the date of the enactment of this Act \[May 28, 2003\]."
 
 Amendments by title I of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 

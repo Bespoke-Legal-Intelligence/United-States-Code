@@ -10,7 +10,7 @@ Every person who for the calendar year is an employer (as defined in section 330
 
 &emsp;&emsp;(A) for the period beginning with the first day of the calendar year and ending with the last day of the calendar quarter (excluding the last calendar quarter) in which such person becomes such an employer with respect to such services, and
 
-&emsp;&emsp;(B) for the third calendar quarter of such year, if the period specified in subparagraph (A) includes only the first two calendar quarters of the calendar year.
+&emsp;&emsp;(B) for the third calendar quarter of such year, if the period specified in subparagraph\(A) includes only the first two calendar quarters of the calendar year.
 
 > &emsp;The tax for any calendar quarter or other period shall be computed as provided in subsection (b) and the tax as so computed shall, except as otherwise provided in subsection (c), be paid in such manner and at such time as may be provided in regulations prescribed by the Secretary.
 
@@ -22,7 +22,7 @@ The tax for any calendar quarter or other period referred to in paragraph (1) or
 
 Nothing in this section shall require the payment of tax with respect to any calendar quarter or other period if the tax under section 3301 for such period, plus any unpaid amounts for prior periods in the calendar year, does not exceed $100.
 
-(Added Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91; amended Pub. L. 91–373, title I, §101(b)(1), (2), Aug. 10, 1970, 84 Stat. 696; Pub. L. 92–329, §2(b), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, §1906(a)(11), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 94–566, title I, §114(b), title II, §211(e)(3) \[(c)(3)\], Oct. 20, 1976, 90 Stat. 2669, 2677;Pub. L. 97–248, title II, §271(b)(2)(C), (c)(3)(C), Sept. 3, 1982, 96 Stat. 555; Pub. L. 98–76, title II, §231(b)(1), Aug. 12, 1983, 97 Stat. 428; Pub. L. 100–647, title VII, §7106(c)(1), Nov. 10, 1988, 102 Stat. 3773; Pub. L. 101–239, title VII, §7841(d)(12), Dec. 19, 1989, 103 Stat. 2428.)
+(Added Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91; amended Pub. L. 91–373, title I, §101(b)(1), (2), Aug. 10, 1970, 84 Stat. 696; Pub. L. 92–329, §2(b), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, §1906(a)(11), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 94–566, title I, §114(b), title II, §211(e)(3) \[(c)(3)\], Oct. 20, 1976, 90 Stat. 2669, 2677; Pub. L. 97–248, title II, §271(b)(2)(C), (c)(3)(C), Sept. 3, 1982, 96 Stat. 555; Pub. L. 98–76, title II, §231(b)(1), Aug. 12, 1983, 97 Stat. 428; Pub. L. 100–647, title VII, §7106(c)(1), Nov. 10, 1988, 102 Stat. 3773; Pub. L. 101–239, title VII, §7841(d)(12), Dec. 19, 1989, 103 Stat. 2428.)
 
 #### <b>Editorial Notes</b>
 

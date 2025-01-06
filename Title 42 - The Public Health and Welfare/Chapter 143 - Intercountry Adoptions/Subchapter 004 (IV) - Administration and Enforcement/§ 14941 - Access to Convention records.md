@@ -14,7 +14,7 @@
 
 #### (1) Prohibition
 
-&emsp;Except as provided in paragraph (2), the Secretary or the Attorney General may disclose aConvention record, and access to such a record may be provided in whole or in part, only if such record is maintained under the authority of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] and disclosure of, or access to, such record is permitted or required by applicable Federal law.
+&emsp;Except as provided in paragraph (2), the Secretary or the Attorney General may disclose a Convention record, and access to such a record may be provided in whole or in part, only if such record is maintained under the authority of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] and disclosure of, or access to, such record is permitted or required by applicable Federal law.
 
 #### (2) Exception for administration of the Convention
 

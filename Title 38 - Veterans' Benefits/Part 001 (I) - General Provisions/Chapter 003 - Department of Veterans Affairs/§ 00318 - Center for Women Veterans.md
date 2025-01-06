@@ -10,7 +10,7 @@
 
 &emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation of policies and programs affecting veterans who are women.
 
-&emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvement of programs in the Department for which veterans who are women are eligible.
+&emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the UnderSecretary for Benefits, and other Department officials for the establishment or improvement of programs in the Department for which veterans who are women are eligible.
 
 &emsp;(3) Promote the use of benefits authorized by this title by veterans who are women and the conduct of outreach activities to veterans who are women, in conjunction with outreach activities carried out under chapter 77 of this title.
 
@@ -32,7 +32,7 @@
 
 &emsp;(12) Perform such other duties consistent with this section as the Secretary shall prescribe.
 
-(e) The Secretary shall ensure that the Director is furnished sufficient resources to enablethe Director to carry out the functions of the Center in a timely manner.
+(e) The Secretary shall ensure that the Director is furnished sufficient resources to enable the Director to carry out the functions of the Center in a timely manner.
 
 (f) The Secretary shall include in documents submitted to Congress by the Secretary in support of the President's budget for each fiscal year—
 
@@ -78,5 +78,5 @@ Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted "(42 U.S.C. 289a–2) 
 
 #### Assessment of Use by Women Veterans of Department of Veterans Affairs Health Services
 
-Pub. L. 104–262, title III, §323, Oct. 9, 1996, 110 Stat. 3196, required the Center for Women Veterans of the Department of Veterans Affairs, in consultation with the Advisory Committee on Women Veterans, to assess the use by women veterans of health services through the Department of Veterans Affairs, including counseling for sexual trauma and mental health services, and to submit reports to the Under Secretary for Health of the Department of Veterans Affairs not later than Apr. 1, 1997, and Apr. 1 of each of the two following years, and also required the Secretary of Veterans Affairs to submit reports to Congress, not later than July 1, 1997, and July 1 of each of the two following years.
+Pub. L. 104–262, title III, §323, Oct. 9, 1996, 110 Stat. 3196, required the Center for Women Veterans of the Department of Veterans Affairs, in consultation with the Advisory Committee on Women Veterans, to assessthe use by women veterans of health services through the Department of Veterans Affairs, including counseling for sexual trauma and mental health services, and to submit reports to the Under Secretary for Health of the Department of Veterans Affairs not later than Apr. 1, 1997, and Apr. 1 of each of the two following years, and also required the Secretary of Veterans Affairs to submit reports to Congress, not later than July 1, 1997, and July 1 of each of the two following years.
 

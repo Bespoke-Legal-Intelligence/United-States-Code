@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;At the same time as the reporting under subsection (a)(3), and not later than January 31 of each following year, the Trade Representative shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the identification, prioritization, investigation, and resolution of acts, policies, or practices of foreign governments of concern with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or that otherwise create or maintain trade barriers.
+&emsp;At the same time as the reporting under subsection (a)(3), and not later than January 31 of each following year, the Trade Representative shall consult with the Committee on Financeof the Senate and the Committee on Ways and Means of the House of Representatives with respect to the identification, prioritization, investigation, and resolution of acts, policies, or practices of foreign governments of concern with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or that otherwise create or maintain trade barriers.
 
 #### (2) Acts, policies, or practices of concern
 
@@ -240,7 +240,7 @@ Sec. 5. <i>Initiation of Investigations</i>. (a) Within 90 days of the submissio
 
 #### Part III: Direction
 
-Section 1. <i>Presidential Direction</i>. The authorities delegated pursuant to this order shall be exercised subject to any subsequent direction by the President in a particular matter.
+Section 1. <i>Presidential Direction</i>. The authorities delegated pursuant to this order shall be exercised subjectto any subsequent direction by the President in a particular matter.
 
 Sec. 2. <i>Consultations and Advice</i>. In developing the annual reports required by part I and part II of this order, the Trade Representative shall consult with executive agencies and seek information and advice from U.S. businesses in the United States and in the countries involved in the practices under consideration.
 

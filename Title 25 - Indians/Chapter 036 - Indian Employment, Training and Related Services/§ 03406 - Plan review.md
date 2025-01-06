@@ -20,7 +20,7 @@ In consultation with the Secretary, a participating Indian tribe may request tha
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), notwithstanding any other provision of law, the head of each affected Federal agency shall waive any applicable statutory, regulatory, or administrative requirement, regulation, policy, or procedure promulgated by the agency that has been identified by the parties under subparagraph <sup>2</sup> (b).
+&emsp;Except as provided in paragraph (2), notwithstanding any other provision of law, thehead of each affected Federal agency shall waive any applicable statutory, regulatory, or administrative requirement, regulation, policy, or procedure promulgated by the agency that has been identified by the parties under subparagraph <sup>2</sup> (b).
 
 #### (2) Exception
 

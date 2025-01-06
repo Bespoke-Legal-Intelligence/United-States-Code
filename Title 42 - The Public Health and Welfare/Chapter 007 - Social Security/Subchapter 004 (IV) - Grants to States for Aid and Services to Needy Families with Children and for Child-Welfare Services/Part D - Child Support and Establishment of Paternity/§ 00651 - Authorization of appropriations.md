@@ -34,7 +34,7 @@ Pub. L. 97–35, title XXIII, §2336, Aug. 13, 1981, 95 Stat. 864, provided that
 
 #### Effective Date
 
-Pub. L. 93–647, §101(f), Jan. 4, 1975, 88 Stat. 2361, as amended by Pub. L. 94–46, §2, June 30, 1975, 89 Stat. 245, provided that: "The amendments made by this section \[enacting this part and section 6305 of Title 26, Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing section 610 of this title, and enacting provisions set out as notes under this section and section 602 of this title\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[42 U.S.C. 659\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\]."
+Pub. L. 93–647, §101(f), Jan. 4, 1975, 88 Stat. 2361, as amended by Pub. L. 94–46, §2, June 30, 1975, 89 Stat. 245, provided that: "The amendments made by this section \[enacting this part and section 6305 of Title 26, Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing section 610 of this title, and enacting provisions set out as notes under this section and section 602 of this title\] shall become effective onAugust 1, 1975, except that section 459 of the Social Security Act \[42 U.S.C. 659\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\]."
 
 #### Short Title
 
@@ -46,7 +46,7 @@ Pub. L. 105–200, title IV, §401(a), July 16, 1998, 112 Stat. 659, directed th
 
 #### Promulgation of National Medical Support Notice
 
-Pub. L. 105–200, title IV, §401(b), July 16, 1998, 112 Stat. 660, directed the Secretary of Health and HumanServices and the Secretary of Labor to jointly develop and promulgate by regulation a National Medical Support Notice, to be issued by States as a means of enforcing the health care coverage provisions in a child support order; required interim regulations to be issued not later than 10 months after July 16, 1998 (such regulations were issued on Nov. 15, 1999; see 64 F.R. 62054); and required final regulations to be issued not later than 1 year after the issuance of the interim regulations (such regulations were issued on Dec. 27, 2000; see 65 F.R. 82128).
+Pub. L. 105–200, title IV, §401(b), July 16, 1998, 112 Stat. 660, directed the Secretary of Health and Human Services and the Secretary of Labor to jointly develop and promulgate by regulation a National Medical Support Notice, to be issued by States as a means of enforcing the health care coverage provisions in a child support order; required interim regulations to be issued not later than 10 months after July 16, 1998 (such regulations were issued on Nov. 15, 1999; see 64 F.R. 62054); and required final regulations to be issued not later than 1 year after the issuance of the interim regulations (such regulations were issued on Dec. 27, 2000; see 65 F.R. 82128).
 
 #### Authorization of Appropriations
 

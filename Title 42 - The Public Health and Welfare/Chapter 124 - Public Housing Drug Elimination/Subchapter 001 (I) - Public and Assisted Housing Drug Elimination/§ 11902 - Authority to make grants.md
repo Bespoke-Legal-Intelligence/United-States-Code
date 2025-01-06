@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development, in accordance with the provision
 
 #### (b) Consortia
 
-Subject to terms and conditions established by the Secretary, public housing agencies mayform consortia for purposes of applying for grants under this subchapter.
+Subject to terms and conditions established by the Secretary, public housing agencies may form consortia for purposes of applying for grants under this subchapter.
 
 (Pub. L. 100–690, title V, §5123, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4246; Pub. L. 102–550, title I, §161(d)(1), Oct. 28, 1992, 106 Stat. 3719; Pub. L. 104–330, title VII, §704(1), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(1), title V, §586(c), Oct. 21, 1998, 112 Stat. 2488, 2647.)
 
@@ -26,7 +26,7 @@ Pub. L. 105–276, §220(1), inserted "Indian tribes" before "and private".
 
 <b>1992</b>—Pub. L. 102–550 inserted ", public housing resident management corporations that are principally managing, as determined by the Secretary, public housing projects owned by public housing agencies," after "Authorities)".
 
-<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: "The Secretary of Housing and Urban Development, in accordance with the provisions of this subchapter, may make grants to public housing agencies (including Indian housing authorities) for use in eliminating drug-related crime in public housing projects."
+<b>1990</b>—Pub. L. 101–625 amended section generally. Prior to amendment, section read as follows: "The Secretary of Housing and Urban Development, in accordance withthe provisions of this subchapter, may make grants to public housing agencies (including Indian housing authorities) for use in eliminating drug-related crime in public housing projects."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

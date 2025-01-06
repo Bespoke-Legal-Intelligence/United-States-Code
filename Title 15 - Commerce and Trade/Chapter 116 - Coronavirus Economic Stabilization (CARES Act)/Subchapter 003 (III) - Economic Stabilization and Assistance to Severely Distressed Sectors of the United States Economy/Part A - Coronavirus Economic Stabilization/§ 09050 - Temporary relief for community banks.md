@@ -16,7 +16,7 @@ In this section—
 
 &emsp;&emsp;(A) the Community Bank Leverage Ratio shall be 8 percent; and
 
-&emsp;&emsp;(B) a qualifying community bank that falls below the Community Bank Leverage Ratio established under subparagraph (A) shall have a reasonable grace period to satisfy the Community Bank Leverage Ratio.
+&emsp;&emsp;(B) a qualifying community bank that falls below the Community Bank LeverageRatio established under subparagraph (A) shall have a reasonable grace period to satisfy the Community Bank Leverage Ratio.
 
 #### (2) Effective period
 

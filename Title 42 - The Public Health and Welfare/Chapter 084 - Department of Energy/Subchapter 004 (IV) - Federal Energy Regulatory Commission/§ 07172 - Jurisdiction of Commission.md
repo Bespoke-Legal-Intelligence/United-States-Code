@@ -62,7 +62,7 @@ The Commission is authorized to prescribe rules, regulations, and statements of 
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (a)(1)(A), (B), (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
@@ -72,7 +72,7 @@ Section 6214 of this title, referred to in subsec. (d), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: "There are transferred to,and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline." See section 60502 of Title 49, Transportation.
+<b>1994</b>—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: "There are transferred to, and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline." See section 60502 of Title 49, Transportation.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -94,7 +94,7 @@ Effective Date.—The final rule to be issued under subsection (a) may not take 
 
 "(a)
 
-Rulemaking.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Commission shall issue a final rule to streamline procedures of the Commission relating to oil pipeline rates in order to avoid unnecessary regulatory costs and delays.
+Rulemaking.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], theCommission shall issue a final rule to streamline procedures of the Commission relating to oil pipeline rates in order to avoid unnecessary regulatory costs and delays.
 
 "(b)
 

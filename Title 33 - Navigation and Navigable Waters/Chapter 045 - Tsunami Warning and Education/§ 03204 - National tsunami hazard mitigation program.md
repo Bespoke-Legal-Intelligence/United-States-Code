@@ -28,7 +28,7 @@ The Program conducted under subsection (a) shall include the following:
 
 &emsp;(4) Activities to promote the adoption of tsunami resilience, preparedness, warning, and mitigation measures by Federal, State, territorial, tribal, and local governments and nongovernmental entities, including educational and risk communication programs to discourage development in high-risk areas.
 
-&emsp;(5) Activities to support the development of regional tsunami hazard and risk assessments.Such regional risk assessments may include the following:
+&emsp;(5) Activities to support the development of regional tsunami hazard and risk assessments. Such regional risk assessments may include the following:
 
 &emsp;&emsp;(A) The sources, sizes, and other relevant historical data of tsunami in the region, including paleotsunami data.
 
@@ -52,7 +52,7 @@ The Program conducted under subsection (a) shall include the following:
 
 &emsp;(7) Activities to support the development of community-based outreach and education programs to ensure community readiness and resilience, including the following:
 
-&emsp;&emsp;(A) The development, implementation, and assessment of technical training and public education programs, including education programs that address unique characteristics of distant and near-field tsunami.
+&emsp;&emsp;(A) The development, implementation, and assessment of technical training and public education programs, including educationprograms that address unique characteristics of distant and near-field tsunami.
 
 &emsp;&emsp;(B) The development of decision support tools.
 
@@ -112,5 +112,5 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–25, §505(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories."
 
-Subsecs. (c) to (f). Pub. L. 115–25, §505(b), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d)which related to program components and provided a savings clause, respectively.
+Subsecs. (c) to (f). Pub. L. 115–25, §505(b), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to program components and provided a savings clause, respectively.
 

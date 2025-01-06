@@ -86,7 +86,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (1) In general
 
-&emsp;The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e), shall become effective on the earlier of the date forthe respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
+&emsp;The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e), shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
 
 #### (2) Statutory effective dates
 

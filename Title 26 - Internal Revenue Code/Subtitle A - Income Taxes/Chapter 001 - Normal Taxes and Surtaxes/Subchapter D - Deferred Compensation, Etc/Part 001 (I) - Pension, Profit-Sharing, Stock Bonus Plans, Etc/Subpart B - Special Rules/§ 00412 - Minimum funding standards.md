@@ -10,7 +10,7 @@
 
 &emsp;For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
 
-&emsp;&emsp;(A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan yearwhich, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
+&emsp;&emsp;(A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
 
 &emsp;&emsp;(B) in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
@@ -30,7 +30,7 @@
 
 #### (3) Multiemployer plans in critical status
 
-&emsp;Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 432. This paragraph shall only apply if the plan sponsor adopts a rehabilitation plan in accordance with section 432(e) and complies with such rehabilitation plan (and any modifications of the plan).
+&emsp;Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year inwhich the plan is in critical status pursuant to section 432. This paragraph shall only apply if the plan sponsor adopts a rehabilitation plan in accordance with section 432(e) and complies with such rehabilitation plan (and any modifications of the plan).
 
 #### (c) Variance from minimum funding standards
 
@@ -82,7 +82,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan whichis a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
 
 #### (ii) Special rules
 
@@ -154,7 +154,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rateat which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -238,13 +238,13 @@
 
 &emsp;This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
 
-(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103; Pub. L. 113–97, title II, §202(c)(1), (2), Apr. 7, 2014, 128 Stat. 1135; Pub. L. 115–141, div. U, title IV, §401(a)(83)–(85), Mar. 23, 2018, 132 Stat. 1188.)
+(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a),661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103; Pub. L. 113–97, title II, §202(c)(1), (2), Apr. 7, 2014, 128 Stat. 1135; Pub. L. 115–141, div. U, title IV, §401(a)(83)–(85), Mar. 23, 2018, 132 Stat. 1188.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(A), (B)(ii)(II), (6)(A), and (e)(1), (4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 3, 4001, 4021, and 4041A of the Act are classified to sections 1002, 1301, 1321, and 1341a of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(A), (B)(ii)(II), (6)(A) and (e)(1), (4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 3, 4001, 4021, and 4041A of the Act are classified to sections 1002, 1301, 1321, and 1341a of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The effective date of this section, referred to in subsec. (e)(1), probably means the effective date of Pub. L. 109–280, §111(a), which amended this section. See Effective Date of 2006 Amendment note below.
 
@@ -332,7 +332,7 @@ Subsec. (m)(7). Pub. L. 107–147, §405(a)(2), added par. (7).
 
 <b>2001</b>—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §651(a)(1), substituted "in the case of plan years beginning before January 1, 2004, the applicable percentage" for "the applicable percentage".
 
-Subsec. (c)(7)(F). Pub. L. 107–16, §651(a)(2), reenacted heading and introductory provisions without change and amended table generally, substituting present provisions for provisions which had set out applicable percentage of 155 in the case of any plan year beginning in 1999 or 2000, 160 in the case of any plan year beginning in 2001 or 2002, 165 in the case of any plan year beginning in 2003 or 2004, and 170 in the case of any plan year beginning in 2005 and succeeding years.
+Subsec. (c)(7)(F). Pub. L. 107–16, §651(a)(2), reenacted heading and introductory provisions without changeand amended table generally, substituting present provisions for provisions which had set out applicable percentage of 155 in the case of any plan year beginning in 1999 or 2000, 160 in the case of any plan year beginning in 2001 or 2002, 165 in the case of any plan year beginning in 2003 or 2004, and 170 in the case of any plan year beginning in 2005 and succeeding years.
 
 Subsec. (c)(9). Pub. L. 107–16, §661(a), reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary."
 
@@ -578,7 +578,7 @@ Pub. L. 107–16, title VI, §661(c), June 7, 2001, 115 Stat. 142, provided that
 
 Pub. L. 105–34, title XV, §1521(d)(1), Aug. 5, 1997, 111 Stat. 1070, provided that: "The amendments made by this section \[amending this section and section 1082 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1998."
 
-Pub. L. 105–34, title XVI, §1604(b)(4), Aug. 5, 1997, 111 Stat. 1097, provided that: "The amendments made by this subsection \[amending this section, section 6621 of this title, section 1082 of Title 29, Labor, and provisions set out as a note under section 411 of this title\] shall take effect as if included in the sections of the Uruguay Round Agreements Act \[Pub. L. 103–465\] to which they relate."
+Pub. L. 105–34, title XVI, §1604(b)(4), Aug. 5, 1997, 111 Stat. 1097, provided that: "The amendments made by this subsection \[amending this section, section 6621 of this title, section 1082 of Title 29, Labor, and provisions set out as a note under section 411 of this title\] shall take effect as if included in the sections of the UruguayRound Agreements Act \[Pub. L. 103–465\] to which they relate."
 
 #### Effective Date of 1994 Amendment
 
@@ -656,7 +656,7 @@ Required percentage.—For purposes of subparagraph (A), the term 'required perc
 
 &emsp;&emsp;&emsp;"(I) the funded current liability percentage as of the beginning of the 1st plan year beginning after December 31, 1988 (determined without regard to any plan amendment adopted after June 30, 1987), plus
 
-&emsp;&emsp;&emsp;"(II) 1 percentage point for the plan year for which the determination under this paragraph isbeing made and for each prior plan year beginning after December 31, 1988, over
+&emsp;&emsp;&emsp;"(II) 1 percentage point for the plan year for which the determination under this paragraph is being made and for each prior plan year beginning after December 31, 1988, over
 
 &emsp;&emsp;"(ii) the funded current liability percentage as of the beginning of the plan year for which such determination is being made.
 
@@ -764,7 +764,7 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 #### Regulations
 
-Pub. L. 103–465, title VII, §769, Dec. 8, 1994, 108 Stat. 5041, as amended by Pub. L. 105–34, title XV, §1508(a),Aug. 5, 1997, 111 Stat. 1067; Pub. L. 108–218, title II, §201(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title I, §115(d)(1), (e)(1), Aug. 17, 2006, 120 Stat. 856, provided that:
+Pub. L. 103–465, title VII, §769, Dec. 8, 1994, 108 Stat. 5041, as amended by Pub. L. 105–34, title XV, §1508(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 108–218, title II, §201(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title I, §115(d)(1), (e)(1), Aug. 17, 2006, 120 Stat. 856, provided that:
 
 "(a)
 

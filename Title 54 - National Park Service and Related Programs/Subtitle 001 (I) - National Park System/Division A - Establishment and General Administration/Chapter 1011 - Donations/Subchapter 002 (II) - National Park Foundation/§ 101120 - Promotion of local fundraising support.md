@@ -24,7 +24,7 @@ Program.—The program under subsection (a)—
 
 &emsp;&emsp;(B) standard and legally tenable bylaws and recommended money-handling procedures that can easily be adapted as applied to individual System units; and
 
-&emsp;&emsp;(C) a standard training curriculum to orient and expand the operating expertise of personnel employed by local nonprofit support organizations.
+&emsp;&emsp;(C) a standard training curriculum to orient and expand the operating expertise ofpersonnel employed by local nonprofit support organizations.
 
 (d)
 

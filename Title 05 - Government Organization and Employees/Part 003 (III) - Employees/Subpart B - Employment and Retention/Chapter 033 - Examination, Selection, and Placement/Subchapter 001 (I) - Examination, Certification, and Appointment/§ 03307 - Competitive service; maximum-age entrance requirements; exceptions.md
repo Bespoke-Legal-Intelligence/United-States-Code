@@ -168,7 +168,7 @@ Amendment by Pub. L. 96–347 effective on 90th day after Sept. 12, 1980, see se
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: "The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments madeby sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978."
+Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: "The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments made by sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978."
 
 #### Effective Date of 1972 Amendment
 

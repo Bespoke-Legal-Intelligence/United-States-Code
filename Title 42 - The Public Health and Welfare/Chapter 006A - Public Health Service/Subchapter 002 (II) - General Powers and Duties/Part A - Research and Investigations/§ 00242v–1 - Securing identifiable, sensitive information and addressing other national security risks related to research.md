@@ -24,7 +24,7 @@ The Secretary of Health and Human Services, in consultation with the Director of
 
 #### (b) Congressional briefing
 
-Not later than 1 year after December 29, 2022, the Secretary shall provide a briefing to the Committee on Health, Education, Labor, and Pensions and the Select Committee on Intelligence of the Senate and the Committee on Energy and Commerce and the Permanent Select Committee on Intelligence of the House of Representatives on the activities required under subsection (a).
+Not later than 1 year after December 29, 2022, the Secretary shall provide a briefing to the Committee on Health, Education, Labor, and Pensions and the Select Committee on Intelligence of the Senate and the Committee on Energy and Commerce and the Permanent SelectCommittee on Intelligence of the House of Representatives on the activities required under subsection (a).
 
 (Pub. L. 117–328, div. FF, title II, §2322, Dec. 29, 2022, 136 Stat. 5765.)
 

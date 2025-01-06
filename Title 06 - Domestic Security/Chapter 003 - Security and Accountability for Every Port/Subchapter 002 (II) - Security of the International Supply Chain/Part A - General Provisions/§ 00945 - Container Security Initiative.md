@@ -38,7 +38,7 @@ The Secretary, in cooperation with the Secretary of State and in consultation wi
 
 &emsp;&emsp;(C) continually monitor the technologies, processes, and techniques used to inspect cargo at ports designated under CSI to ensure adherence to such criteria and the use of such procedures; and
 
-&emsp;&emsp;(D) consult with the Secretary of Energy in establishing the minimum technical capability criteria and standard operating procedures established under subparagraph (A) pertaining to radiation detection technologies to promote consistency in detection systems at foreign ports designated under CSI.
+&emsp;&emsp;(D) consult with the Secretary of Energy in establishing the minimum technical capability criteria and standard operating procedures established under subparagraph (A) pertaining to radiation detection technologies to promote consistency in detectionsystems at foreign ports designated under CSI.
 
 #### (2) Constraints
 

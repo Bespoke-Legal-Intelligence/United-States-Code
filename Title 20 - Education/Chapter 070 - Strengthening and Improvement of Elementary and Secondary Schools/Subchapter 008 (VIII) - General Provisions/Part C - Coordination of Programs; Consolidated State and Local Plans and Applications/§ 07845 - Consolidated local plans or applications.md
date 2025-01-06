@@ -20,7 +20,7 @@ A State educational agency, in consultation with the Governor, shall collaborate
 
 #### (d) Necessary materials
 
-The State educational agency shall require only descriptions, information, assurances, and other material that are absolutely necessary for the consideration of the local educational agency plan or application.
+The State educational agency shall require only descriptions, information, assurances, and other material that are absolutely necessary forthe consideration of the local educational agency plan or application.
 
 #### (e) Rural consolidated plan
 

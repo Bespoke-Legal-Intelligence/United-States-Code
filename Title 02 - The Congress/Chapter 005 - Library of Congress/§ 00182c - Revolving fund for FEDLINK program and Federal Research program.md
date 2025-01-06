@@ -56,7 +56,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 #### (1) FEDLINK
 
-&emsp;In this section, the "FEDLINK program" is the program of the Library of Congress under which the Librarian provides the followingservices on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B)) and the District of Columbia:
+&emsp;In this section, the "FEDLINK program" is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B)) and the District of Columbia:
 
 &emsp;&emsp;(A) The procurement of commercial information services, publications in any format, and library support services.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of State
 
-The Secretary of State is empowered to acquire by purchase or construction in the manner hereinafter provided, within the limits of appropriations made to carry out this chapter, by exchange, in whole or in part, of any building or grounds of the United States in foreign countries and under the jurisdiction and control of the Secretary of State, sites and buildings in foreign capitals and in other foreign cities, and to alter, repair, and furnish such buildings for the use of the diplomatic and consular establishments of the United States, or for the purpose of consolidating within one or more buildings, the embassies, legation, consulates, and other agencies of the United States Government there maintained. The space in such buildings shall be allotted by the Secretary of State among theseveral agencies of the United States Government.
+The Secretary of State is empowered to acquire by purchase or construction in the manner hereinafter provided, within the limits of appropriations made to carry out this chapter, by exchange, in whole or in part, of any building or grounds of the United States in foreign countries and under the jurisdiction and control of the Secretary of State, sites and buildings in foreign capitals and in other foreign cities, and to alter, repair, and furnish such buildings for the use of the diplomatic and consular establishments of the United States, or for the purpose of consolidating within one or more buildings, the embassies, legation, consulates, and other agencies of the United States Government there maintained. The space in such buildings shall be allotted by the Secretary of State among the several agencies of the United States Government.
 
 #### (b) Payments from other than appropriated funds for acquisition of property
 
@@ -98,7 +98,7 @@ Reporting and Briefing Requirements.—The Secretary shall provide to the approp
 
 #### Statement of Policy
 
-Pub. L. 117–81, div. E, title LII, §5213, Dec. 27, 2021, 135 Stat. 2358, provided that: "It is the policy of the UnitedStates that the Bureau of Overseas Building Operations of the Department or its successor office shall continue to balance functionality and security with accessibility, as defined by guidelines established by the United States Access Board in constructing embassies and consulates, and shall ensure compliance with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) to the fullest extent possible."
+Pub. L. 117–81, div. E, title LII, §5213, Dec. 27, 2021, 135 Stat. 2358, provided that: "It is the policy of the United States that the Bureau of Overseas Building Operations of the Department or its successor office shall continue to balance functionality and security with accessibility, as defined by guidelines established by theUnited States Access Board in constructing embassies and consulates, and shall ensure compliance with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) to the fullest extent possible."
 
 \[For definition of "Department" as used in section 5213 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
 

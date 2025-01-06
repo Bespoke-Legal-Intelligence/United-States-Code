@@ -14,11 +14,11 @@
 
 #### (3) Individuals already in CODIS
 
-&emsp;For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as "CODIS") of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected fromthat individual under section 1565 of title 10, the Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
+&emsp;For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as "CODIS") of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under section 1565 of title 10, the Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
 
 #### (4) Collection procedures
 
-&emsp;(A) The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
+&emsp;(A) The Attorney General, the Director of the Bureau of Prisons, or the probation officeresponsible (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
 
 &emsp;(B) The Attorney General, the Director of the Bureau of Prisons, or the probation office, as appropriate, may enter into agreements with units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
 

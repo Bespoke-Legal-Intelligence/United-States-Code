@@ -8,7 +8,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 #### (1) Application
 
-&emsp;Each institution of higher education desiring to participate in the direct student loan program under this part shall submit an application satisfactory to the Secretary containing such information and assurances as the Secretary may require.
+&emsp;Each institution of higher education desiring to participate in the direct student loanprogram under this part shall submit an application satisfactory to the Secretary containing such information and assurances as the Secretary may require.
 
 #### (2) Selection procedure
 

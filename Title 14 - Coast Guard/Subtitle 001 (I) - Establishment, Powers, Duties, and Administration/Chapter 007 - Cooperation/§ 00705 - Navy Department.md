@@ -16,7 +16,7 @@
 
 (d)(1) As part of the services provided by the Secretary of the Navy pursuant to subsection (a)(4), the Secretary may provide support services to chaplain-led programs to assist members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, in building and maintaining a strong family structure.
 
-(2) In this subsection, the term "support services" include transportation, food, lodging, child care, supplies, fees, and training materials for members of the Coast Guard on active duty andtheir dependents, and members of the reserve component in an active status and their dependents, while participating in programs referred to in paragraph (1), including participation at retreats and conferences.
+(2) In this subsection, the term "support services" include transportation, food, lodging, child care, supplies, fees, and training materials for members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, while participating in programs referred to in paragraph (1), including participation at retreats and conferences.
 
 (3) In this subsection, the term "dependents" has the same meaning as defined in section 1072(2) of title 10.
 

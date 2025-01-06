@@ -30,7 +30,7 @@
 
 (b) The liability of the United States under any guaranty, within the limitations of this chapter, shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
 
-(c)(1) Loans guaranteed or insured under this chapter shall be payable upon such terms and conditions as may be agreed upon by the parties thereto, subject to the provisions of this chapter and regulations of the Secretary issued pursuant to this chapter, and shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands, except that in establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Secretary of Housing and Urban Development regarding the rate of interest applicable to home loans insured under section 203(b) of the National Housing Act (12 U.S.C. 1709(b)). In establishing rates of interest under this paragraph for one or more of the purposes described in clauses (4) and (7) of section 3710(a) of this title, the Secretary may establish a rate or rates higher than the rate specified for other purposes under such section, but any such rate may not exceed such rate as the Secretary may from time to time find the loan market demands for loans for such purposes.
+(c)(1) Loans guaranteed or insured under this chapter shall be payable upon such terms and conditions as may be agreed upon by the partiesthereto, subject to the provisions of this chapter and regulations of the Secretary issued pursuant to this chapter, and shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands, except that in establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Secretary of Housing and Urban Development regarding the rate of interest applicable to home loans insured under section 203(b) of the National Housing Act (12 U.S.C. 1709(b)). In establishing rates of interest under this paragraph for one or more of the purposes described in clauses (4) and (7) of section 3710(a) of this title, the Secretary may establish a rate or rates higher than the rate specified for other purposes under such section, but any such rate may not exceed such rate as the Secretary may from time to time find the loan market demands for loans for such purposes.
 
 (2) The provisions of the Servicemen's Readjustment Act of 1944 which were in effect before April 1, 1958, with respect to the interest chargeable on loans made or guaranteed under such Act shall, notwithstanding the provisions of paragraph (1) of this subsection, continue to be applicable—
 
@@ -134,7 +134,7 @@ Subsec. (a)(1)(C). Pub. L. 108–454, §403(b), added subpar. (C).
 
 <b>1993</b>—Subsec. (c)(4)(B). Pub. L. 103–78 in second sentence substituted "Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount" for "Discount".
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted "applicable to" for "the Secretaryof Housing and Urban Development considers necessary to meet the mortgage market for" and struck out ", and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter" after "(12 U.S.C. 1709(b))".
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted "applicable to" for "the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for" and struck out ", and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter" after "(12 U.S.C. 1709(b))".
 
 Subsec. (c)(4). Pub. L. 102–547, §10(a)(2), added par. (4).
 
@@ -224,7 +224,7 @@ Subsec. (d)(3). Pub. L. 97–72, §303(c)(2), substituted "Any real estate housi
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–476, §103(a), substituted provision extending loan guarantees under this section to veterans eligible for benefits under this chapter for provision limiting such guarantees to World War II or Korean conflict veterans.
 
-Subsec. (c)(1). Pub. L. 95–476, §103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establish rates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
+Subsec. (c)(1). Pub. L. 95–476, §103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establishrates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
 
 Subsec. (c)(3)(B). Pub. L. 95–476, §103(b)(2), substituted "clauses (4) and (7) of section 1810(a) of this title" for "section 1810(a)(4)".
 
@@ -232,7 +232,7 @@ Subsec. (c)(3)(B). Pub. L. 95–476, §103(b)(2), substituted "clauses (4) and (
 
 Subsec. (d)(3). Pub. L. 94–324, §7(6), substituted "the Administrator determines" for "he determines".
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–569, §8(1), struck out "and not more than 50 per centum of the loan if theloan is for any of the purposes specified in section 1812, 1813, or 1814 of this title" after "section 1810 of this title".
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–569, §8(1), struck out "and not more than 50 per centum of the loan if the loan is for any of the purposes specified in section 1812, 1813, or 1814 of this title" after "section 1810 of this title".
 
 Subsec. (a)(2)(B) \[formerly §1815(b)\]. Pub. L. 93–569, §8(5), struck out provision authorizing the Administrator to fix maximum interest rate payable on non-real-estate loans at not in excess of 3 percent discount rate or an equivalent straight interest rate on unamortized loans.
 
@@ -292,7 +292,7 @@ Pub. L. 101–237, title III, §306(b), Dec. 18, 1989, 103 Stat. 2074, provided 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–253, §3(c), Feb. 29, 1988, 102 Stat. 21, provided that: "The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987."
+Pub. L. 100–253, §3(c), Feb. 29, 1988, 102 Stat. 21, provided that: "The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not applyto any loan for which a guaranty commitment is made on or before December 31, 1987."
 
 #### Effective Date of 1987 Amendment
 
@@ -300,7 +300,7 @@ Pub. L. 100–198, §3(d), Dec. 21, 1987, 101 Stat. 1316, provided that: "The am
 
 #### Effective Date of 1981 Amendments
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 

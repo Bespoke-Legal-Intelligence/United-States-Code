@@ -40,7 +40,7 @@ Money in the Stabilization Fund shall be available upon requisition by the Board
 
 #### (1) Assessments relating to expenditures under subsection (b)
 
-&emsp;In order to make expenditures, as described in subsection (b), the Board may assess a special premium with respect to each insured credit union in an aggregate amount that is reasonably calculated to make any pending orfuture expenditure described in subsection (b), which premium shall be due and payable not later than 60 days after the date of the assessment. In setting the amount of any assessment under this subsection, the Board shall take into consideration any potential impact on credit union earnings that such an assessment may have.
+&emsp;In order to make expenditures, as described in subsection (b), the Board may assess a special premium with respect to each insured credit union in an aggregate amount that is reasonably calculated to make any pending or future expenditure described in subsection (b), which premium shall be due and payable not later than 60 days after the date of the assessment. In setting the amount of any assessment under this subsection, the Board shall take into consideration any potential impact on credit union earnings that such an assessment may have.
 
 #### (2) Special premiums relating to repayments under subsection (c)(3)
 

@@ -8,7 +8,7 @@ The Secretary of State is authorized to—
 
 &emsp;&emsp;(1) Employment of aliens;
 
-&emsp;&emsp;(2) Travel expenses without regard to the Standardized Government Travel Regulations and to the rates of per diem allowancesin lieu of subsistence expenses under subchapter I of chapter 57 of title 5;
+&emsp;&emsp;(2) Travel expenses without regard to the Standardized Government Travel Regulations and to the rates of per diem allowances in lieu of subsistence expenses under subchapter I of chapter 57 of title 5;
 
 &emsp;&emsp;(3) Travel expenses of persons serving without compensation in an advisory capacity while away from their homes or regular places of business not in excess of those authorized for regular officers and employees traveling in connection with said international activities; and
 

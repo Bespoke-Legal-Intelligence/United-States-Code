@@ -6,65 +6,49 @@
 
 #### (A) Permanent restriction
 
-&emsp;&emsp;Except as provided by paragraph (2)(A)(i), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position for a designated prohibited foreign country following the date on which the employee ceases to occupy a covered intelligence position.
+&emsp;&emsp;Except as provided by paragraph (2)(A), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position for a designated prohibited foreign country following the date on which the employee ceases to occupy a covered intelligence position.
 
 #### (B) Temporary restriction
 
-&emsp;&emsp;Except as provided by paragraph (2)(A)(ii), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
+&emsp;&emsp;Except as provided by paragraph (2)(A), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
 
 #### (2) Waiver
 
-#### (A) Authority to grant temporary waiver
+#### (A) Authority to grant waivers
 
-#### (i) Waivers of permanent restriction
+&emsp;&emsp;The applicable head of an intelligence community element may waive a restriction in paragraph (1) with respect to an employee or former employee who is subject to that restriction only after—
 
-&emsp;&emsp;&emsp;On a case-by-case basis, the Director of National Intelligence may temporarily waive the restriction in paragraph (1)(A) with respect to an employee or former employee who is subject to that restriction only after—
+&emsp;&emsp;&emsp;(i) the employee or former employee submits to the applicable head of the intelligence community element a written application for such waiver in such form and manner as the applicable head of the intelligence community element determines appropriate; and
 
-&emsp;&emsp;&emsp;&emsp;(I) the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate;
-
-&emsp;&emsp;&emsp;&emsp;(II) the Director determines that not granting such waiver would result in a grave detrimental impact to current or future intelligence operations of the United States; and
-
-&emsp;&emsp;&emsp;&emsp;(III) the Director provides the congressional intelligence committees with a detailed justification stating why not granting such waiver would result in a grave detrimental impact to current or future intelligence operations of the United States.
-
-#### (ii) Waivers of temporary restriction
-
-&emsp;&emsp;&emsp;On a case-by-case basis, the Director may temporarily waive the restriction in paragraph (1)(B) with respect to an employee or former employee who is subject to that restriction only after—
-
-&emsp;&emsp;&emsp;&emsp;(I) the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the Director determines that such waiver is necessary to advance the national security interests of the United States.
+&emsp;&emsp;&emsp;(ii) the applicable head of the element of the intelligence community determines that granting such waiver will not harm the national security interests of the United States.
 
 #### (B) Period of waiver
 
-&emsp;&emsp;A waiver issued under subparagraph (A) shall apply for a period not exceeding 5 years. The Director may renew such a waiver.
+&emsp;&emsp;A waiver issued under subparagraph (A) shall apply for a period not exceeding 5 years. The applicable head of the intelligence community element may renew such a waiver.
 
 #### (C) Revocation
 
-&emsp;&emsp;The Director may revoke a waiver issued under subparagraph (A) to an employee or former employee, effective on the date that is 60 days after the date on which the Director provides the employee or former employee written notice of such revocation.
+&emsp;&emsp;The applicable head of the intelligence community element may revoke a waiver issued under subparagraph (A) to an employee or former employee, effective on the date that is 60 days after the date on which the applicable head of the intelligence community element provides the employee or former employee written notice of such revocation.
 
 #### (D) Tolling
 
 &emsp;&emsp;The 30-month restriction in paragraph (1)(B) shall be tolled for an employee or former employee during the period beginning on the date on which a waiver is issued under subparagraph (A) and ending on the date on which the waiver expires or on the effective date of a revocation under subparagraph (C), as the case may be.
 
-#### (E) Notification
+#### (E) Reporting to Congress
 
-&emsp;&emsp;Not later than 30 days after the date on which the Director issues a waiver under subparagraph (A) or a revocation of a waiver under subparagraph (C), the Director shall submit to the congressional intelligence committees written notification of the waiver or revocation, as the case may be. Such notification shall include the following:
+&emsp;&emsp;On a quarterly basis, the head of each element of the intelligence community shall submit to the congressional intelligence committees and the congressional defense committees for Department of Defense elements of the intelligence community, a written notification of each waiver or revocation that shall include the following:
 
 &emsp;&emsp;&emsp;(i) With respect to a waiver issued to an employee or former employee—
 
-&emsp;&emsp;&emsp;&emsp;(I) the details of the application, including the covered intelligence position held or formerly held by the employee or former employee;
+&emsp;&emsp;&emsp;&emsp;(I) the covered intelligence position held or formerly held by the employee or former employee; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the nature of the activities of the employee or former employee after ceasing to occupy a covered intelligence position;
-
-&emsp;&emsp;&emsp;&emsp;(III) a description of the national security interests that will be advanced by reason of issuing such waiver; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) the specific reasons why the Director determines that issuing such waiver will advance such interests.
+&emsp;&emsp;&emsp;&emsp;(II) a brief description of the covered post-service employment, including the employer and the recipient of the representation, advice, or services.
 
 &emsp;&emsp;&emsp;(ii) With respect to a revocation of a waiver issued to an employee or former employee—
 
 &emsp;&emsp;&emsp;&emsp;(I) the details of the waiver, including any renewals of such waiver, and the dates of such waiver and renewals; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the specific reasons why the Director determined that such revocation is warranted.
+&emsp;&emsp;&emsp;&emsp;(II) the specific reasons why the applicable head of the intelligence community element determined that such revocation is warranted.
 
 #### (b) Covered post-service employment reporting
 
@@ -102,7 +86,7 @@
 
 #### (2) Written notice about reporting requirements
 
-&emsp;The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee occupies a covered intelligence position.
+&emsp;The head of each element of the intelligence community shall provide written notice of thereporting requirements under subsection (b) to an employee when the employee occupies a covered intelligence position.
 
 #### (3) Written notice about restrictions
 
@@ -111,6 +95,10 @@
 &emsp;&emsp;(A) when the head of the element determines that such person may become subject to such covered intelligence position restrictions; and
 
 &emsp;&emsp;(B) when the person occupies a covered intelligence position.
+
+#### (4) Written advisory opinions
+
+&emsp;Upon request from a current employee who occupies a covered intelligence position or a former employee who previously occupied a covered intelligence position, the applicable head of the element of the intelligence community concerned may provide a written advisory opinion to such current or former employee regarding whether a proposed employment, representation, or provision of advice or services constitutes covered post-service employment as defined in subsection (g).
 
 #### (e) Annual reports
 
@@ -162,7 +150,7 @@ In addition to the annual reports under subsection (e), if a head of an element 
 
 &emsp;&emsp;(A) the risk to national security, the counterintelligence risk, or both; and
 
-&emsp;&emsp;(B) the activities that may violate Federal law, infringe upon the privacy rights ofUnited States persons, or constitute abuses of human rights.
+&emsp;&emsp;(B) the activities that may violate Federal law, infringe upon the privacy rights of United States persons, or constitute abuses of human rights.
 
 #### (g) Definitions
 
@@ -174,7 +162,7 @@ In this section:
 
 #### (2) Covered post-service employment
 
-&emsp;The term "covered post-service employment" means direct or indirect employment by, representation of, or any provision of advice or services relating to national security, intelligence, the military, or internal security to, the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country.
+&emsp;The term "covered post-service employment" means direct or indirect employment by, representation of, or any provision of advice or services to the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country if such employment, representation, or provision of advice or services relates to national security, intelligence, the military, or internal security.
 
 #### (3) Covered post-service position
 
@@ -212,7 +200,7 @@ In this section:
 
 &emsp;The term "government of a foreign country" has the meaning given the term in section 611(e) of title 22.
 
-(July 26, 1947, ch. 343, title III, §304, as added Pub. L. 113–293, title III, §305(a), Dec. 19, 2014, 128 Stat. 3995; amended Pub. L. 117–103, div. X, title III, §308(a)(1), Mar. 15, 2022, 136 Stat. 966; Pub. L. 117–263, div. F, title LXIII, §6301(a)–(c), Dec. 23, 2022, 136 Stat. 3498–3500; Pub. L. 118–31, div. G, title III, §7304, Dec. 22, 2023, 137 Stat. 1025.)
+(July 26, 1947, ch. 343, title III, §304, as added Pub. L. 113–293, title III, §305(a), Dec. 19, 2014, 128 Stat. 3995; amended Pub. L. 117–103, div. X, title III, §308(a)(1), Mar. 15, 2022, 136 Stat. 966; Pub. L. 117–263, div. F, title LXIII, §6301(a)–(c), Dec. 23, 2022, 136 Stat. 3498–3500; Pub. L. 118–31, div. G, title III, §7304, Dec. 22, 2023, 137 Stat. 1025; Pub. L. 118–159, div. F, title LXVI, §6615, Dec. 23, 2024, 138 Stat. 2506.)
 
 #### <b>Editorial Notes</b>
 
@@ -221,6 +209,22 @@ In this section:
 A prior section 304 of act July 26, 1947, ch. 343, title III, 61 Stat. 508, was classified to section 171k of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(A). Pub. L. 118–159, §6615(d)(1), substituted "paragraph (2)(A)" for "paragraph (2)(A)(i)".
+
+Subsec. (a)(1)(B). Pub. L. 118–159, §6615(d)(2), substituted "paragraph (2)(A)" for "paragraph (2)(A)(ii)".
+
+Subsec. (a)(2)(A). Pub. L. 118–159, §6615(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to authority to grant a temporary waiver of requirements for certain employment activities by former intelligence officers and employees.
+
+Subsec. (a)(2)(B). Pub. L. 118–159, §6615(a)(2), substituted "applicable head of the intelligence community element" for "Director".
+
+Subsec. (a)(2)(C). Pub. L. 118–159, §6615(a)(3), substituted "applicable head of the intelligence community element" for "Director" in two places.
+
+Subsec. (a)(2)(E). Pub. L. 118–159, §6615(a)(4), amended subpar. (E) generally. Prior to amendment, subpar. (E) related to notification to congressional intelligence committees of issuance of a waiver or a revocation of a waiver.
+
+Subsec. (d)(4). Pub. L. 118–159, §6615(b), added par. (4).
+
+Subsec. (g)(2). Pub. L. 118–159, §6615(c), substituted "to the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country if such employment, representation, or provision of advice or services relates to national security, intelligence, the military, or internal security" for "relating to national security, intelligence, the military, or internal security to, the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country".
 
 <b>2023</b>—Subsec. (d)(1). Pub. L. 118–31, §7304(1), which directed insertion of "the restrictions under subsection (a) and" before "the report requirements", was executed by making the insertion before "the reporting requirements" to reflect the probable intent of Congress.
 

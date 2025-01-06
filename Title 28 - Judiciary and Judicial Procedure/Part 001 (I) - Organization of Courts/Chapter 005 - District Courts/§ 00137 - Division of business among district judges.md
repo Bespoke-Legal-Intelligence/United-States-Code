@@ -22,7 +22,7 @@ Definition.—In this paragraph, the term "performing rights society" has the me
 
 &emsp;&emsp;(B)
 
-Determination of license fee.—Except as provided in subparagraph (C), in the case of any performing rights society subject to a consent decree, any application for the determination of a license fee for the public performance of music in accordance with the applicable consent decree shall be made in the district court with jurisdiction over that consent decree and randomly assigned to a judge of that district court according to the rules of that court for the division of business among district judges, provided that any such application shall not be assigned to—
+Determination of license fee.—Except as provided in subparagraph (C), in the case of any performing rights society subject to a consent decree, any application for the determination of a license fee for the public performance of music in accordance with the applicable consent decree shall be made in the district court with jurisdiction over that consent decree and randomly assigned to ajudge of that district court according to the rules of that court for the division of business among district judges, provided that any such application shall not be assigned to—
 
 &emsp;&emsp;&emsp;(i) a judge to whom continuing jurisdiction over any performing rights society for any performing rights society consent decree is assigned or has previously been assigned; or
 

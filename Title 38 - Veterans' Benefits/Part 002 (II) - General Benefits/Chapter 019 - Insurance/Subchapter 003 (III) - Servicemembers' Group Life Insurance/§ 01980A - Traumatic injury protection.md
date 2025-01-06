@@ -72,7 +72,7 @@
 
 (7) For each period for which a payment by a Secretary concerned is required under paragraph (6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
 
-(8) The sums withheld from the basic or other pay of members, or collected from them by the Secretary concerned, under this subsection, and the sums contributed from appropriations underthis subsection, together with the income derived from any dividends or premium rate adjustments received from insurers shall be deposited to the credit of the revolving fund established in the Treasury of the United States under section 1869(d)(1) of this title.
+(8) The sums withheld from the basic or other pay of members, or collected from them by the Secretary concerned, under this subsection, and the sums contributed from appropriations under this subsection, together with the income derived from any dividends or premium rate adjustments received from insurers shall be deposited to the credit of the revolving fund established in the Treasury of the United States under section 1869(d)(1) of this title.
 
 (f) When a claim for benefits is submitted under this section, the Secretary of Defense or, in the case of a member not under the jurisdiction of the Secretary of Defense, the Secretary concerned, shall certify to the Secretary whether the member with respect to whom the claim is submitted—
 
@@ -92,7 +92,7 @@
 
 (k)
 
-Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
+Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insuredagainst traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
 
 (2) The process under paragraph (1) may require each member of the uniformed services who is insured under this section to—
 

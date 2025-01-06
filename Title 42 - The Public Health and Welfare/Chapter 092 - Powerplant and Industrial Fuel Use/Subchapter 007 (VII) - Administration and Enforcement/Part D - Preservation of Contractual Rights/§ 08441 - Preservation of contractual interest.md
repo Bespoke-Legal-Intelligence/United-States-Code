@@ -12,7 +12,7 @@
 
 (2) The person transferring contractual interests pursuant to subsection (a)(1) and the person to whom such interests are transferred may agree on the amount of, or method of determining, the consideration to be paid for such transfer and certify such consideration to the Commission. Except as provided in paragraph (4), such agreed-upon consideration shall not exceed the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1).
 
-(3) In the event the person transferring contractual interests pursuant to subsection (a)(1) and the person to whom such interests are to be transferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determination on the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
+(3) In the event the person transferring contractual interests pursuant to subsection (a)(1) and the person to whom such interests are to betransferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determination on the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
 
 (4) In the event that the consideration agreed upon under paragraph (2) exceeds the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1), the Commission may approve such agreed-upon consideration if the Commission determines such agreed-upon consideration does not exceed the maximum consideration permitted as just compensation under this section.
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 > For purposes of subparagraph (A), the reasonable costs associated with the use of a fuel, other than natural gas, as a primary energy source shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such electric powerplant, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such other fuel.
 
-(2) The term "just compensation", when used with respect to subsection (a)(2), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1), to the extent suchloss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1), and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
+(2) The term "just compensation", when used with respect to subsection (a)(2), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1), to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1), and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 
 (3) The term "contractual interests", with respect to a contract described in subsection (a)(1), includes the right to receive natural gas as affected by any applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 (6) The term "Commission" means the Federal Energy Regulatory Commission.
 
-(7) The term "contract", when used with respect to a contract for receipt of natural gas, which contract was in existence on April 20, 1977, does not include any renewal or extension occurring after such date unless such renewal or extension occurs pursuant to the exercise of an option by the person receiving natural gas under such contract.
+(7) The term "contract", when used with respect to a contract for receipt of natural gas, which contract was in existence on April 20, 1977, does not include any renewal or extensionoccurring after such date unless such renewal or extension occurs pursuant to the exercise of an option by the person receiving natural gas under such contract.
 
 #### (f) Coordination with Natural Gas Act
 
@@ -90,7 +90,7 @@ Any action by the Commission under this section is subject to judicial review in
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsecs. (e)(5) and (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsecs. (e)(5) and (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Amendments
 

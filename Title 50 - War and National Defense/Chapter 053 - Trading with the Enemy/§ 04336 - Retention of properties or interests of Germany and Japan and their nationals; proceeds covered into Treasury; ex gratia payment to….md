@@ -10,7 +10,7 @@ The Attorney General shall cover into the Treasury, to the credit of miscellaneo
 
 &emsp;(1) which the Attorney General receives after August 23, 1988, or
 
-&emsp;(2) which the Attorney General received before that date and which, as of that date, the Attorney General had not covered into the Treasury for deposit in the War Claims Fund, other than any such sums which the Attorney General determines in his or her discretion are the subject matter of any judicial action or proceeding.
+&emsp;(2) which the Attorney General received before that date and which, as of that date, the Attorney General had not covered into the Treasury for deposit in the War Claims Fund, other than any such sums which the Attorney General determines in his or her discretion arethe subject matter of any judicial action or proceeding.
 
 #### (c) Ex gratia payment to Government of Switzerland
 
@@ -22,7 +22,7 @@ Notwithstanding any of the provisions of subsections (a) and (b) of this section
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat.411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
 
 The Philippine Property Act of 1946, referred to in subsec. (a), is act July 3, 1946, ch. 536, 60 Stat. 418, which is classified generally to subchapter V (§1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
 

@@ -44,7 +44,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "producing State" means a coastal State that has a coastal seaward boundary within 200 nautical miles of the geographic center of a leased tract within any area of the outer Continental Shelf.
+&emsp;&emsp;The term "producing State" means a coastal State that has a coastal seawardboundary within 200 nautical miles of the geographic center of a leased tract within any area of the outer Continental Shelf.
 
 #### (B) Exclusion
 
@@ -76,7 +76,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall, without further appropriation, disburse to producing States andcoastal political subdivisions in accordance with this section $250,000,000 for each of fiscal years 2007 through 2010.
+&emsp;The Secretary shall, without further appropriation, disburse to producing States and coastal political subdivisions in accordance with this section $250,000,000 for each of fiscal years 2007 through 2010.
 
 #### (2) Disbursement
 
@@ -134,7 +134,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the number of miles of coastline of all coastal political subdivisions in the producing State; and
 
-&emsp;&emsp;&emsp;(iii) 50 percent shall be allocated in amounts that are inversely proportional to the respective distances between the points in each coastal political subdivision that are closest to the geographic center of each leased tract, as determined by the Secretary.
+&emsp;&emsp;&emsp;(iii) 50 percent shall be allocated in amounts that are inversely proportional tothe respective distances between the points in each coastal political subdivision that are closest to the geographic center of each leased tract, as determined by the Secretary.
 
 #### (C) Exception for the State of Louisiana
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable sharein escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
+&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
 
 #### (c) Coastal impact assistance plan
 

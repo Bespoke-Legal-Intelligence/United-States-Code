@@ -56,7 +56,7 @@ June 28, 1950, ch. 383, §201, 64 Stat. 265.
 
 10:21a(d).
 
-In subsection (a), the words "an Army Staff consisting of—" are substituted for the words "a staff, which shall be known as the Army Staff, and which shall consist of—". The words "under regulations prescribed by the Secretary of the Army" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
+In subsection (a), the words "an Army Staff consisting of—" are substituted for the words "a staff,which shall be known as the Army Staff, and which shall consist of—". The words "under regulations prescribed by the Secretary of the Army" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
 In subsection (c), the third sentence is substituted for 10:21a(c) (1st 13 words and 1st proviso). The words "officers and employees \* \* \* or under the jurisdiction of" are omitted as surplusage.
 

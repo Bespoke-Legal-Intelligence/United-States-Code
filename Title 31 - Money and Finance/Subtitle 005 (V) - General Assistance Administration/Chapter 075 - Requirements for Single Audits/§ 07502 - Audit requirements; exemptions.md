@@ -4,7 +4,7 @@
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
-(C) Each such non-Federal entity that expends awards under only one Federal program and isnot subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
+(C) Each such non-Federal entity that expends awards under only one Federal program and is not subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
 
 (2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
 
@@ -50,7 +50,7 @@
 
 &emsp;(A) provide such recipient the program names (and any identifying numbers) from which such awards are derived, and the Federal requirements which govern the use of such awards and the requirements of this chapter; and
 
-&emsp;(B) review the audit of a recipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined by the Director, pertaining to Federal awards provided to the recipient by the Federal agency.
+&emsp;(B) review the audit of a recipient as necessary to determine whether prompt and appropriate corrective action has been takenwith respect to audit findings, as defined by the Director, pertaining to Federal awards provided to the recipient by the Federal agency.
 
 (2) Each pass-through entity shall—
 

@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may make a direct loan under this subchapter to a farmer or rancher who has a direct loan outstanding under this subchapter on April 4, 1996.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may make a direct loan under this subchapter to a farmer or rancher who has adirect loan outstanding under this subchapter on April 4, 1996.
 
 #### (B) Less than 5 years
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(vii) successfully repaid a youth loan made under section 1941(b) of this title; or
 
-&emsp;&emsp;&emsp;(viii) an established relationship with an individual who has experience in farmingor ranching, or is a retired farmer or rancher, and is participating as a counselor in a Service Corps of Retired Executives program authorized under section 637(b)(1)(B) of title 15, or with a local farm or ranch operator or organization, approved by the Secretary, that is committed to mentoring the farmer or rancher; or
+&emsp;&emsp;&emsp;(viii) an established relationship with an individual who has experience in farming or ranching, or is a retired farmer or rancher, and is participating as a counselor in a Service Corps of Retired Executives program authorized under section 637(b)(1)(B) of title 15, or with a local farm or ranch operator or organization, approved by the Secretary, that is committed to mentoring the farmer or rancher; or
 
 &emsp;&emsp;(B) waive the 3-year requirement in paragraph (1) if the farmer or rancher meets the requirements of clauses (iii) and (viii) of subparagraph (A).
 
@@ -144,7 +144,7 @@ Delayed Effective Dates.—The amendments made by sections 601, 606, 611, 612, 6
 
 "(c)
 
-Transition Provision.—The amendments made by sections 638 and 644 \[amending sections 1985 and 2000of this title\] shall not apply with respect to a complete application to acquire inventory property submitted prior to the date of enactment of this Act \[Apr. 4, 1996\].
+Transition Provision.—The amendments made by sections 638 and 644 \[amending sections 1985 and 2000 of this title\] shall not apply with respect to a complete application to acquire inventory property submitted prior to the date of enactment of this Act \[Apr. 4, 1996\].
 
 "(d)
 

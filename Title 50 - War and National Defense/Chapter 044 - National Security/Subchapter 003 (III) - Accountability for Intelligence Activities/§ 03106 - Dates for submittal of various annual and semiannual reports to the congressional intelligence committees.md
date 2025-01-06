@@ -30,7 +30,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (1) Except as provided in subsection (d), each annual report listed in subsection (a) shall be submitted not later than February 1.
 
-(2) Except as provided in subsection (d), each semiannual report listed in subsection (b) shall be submitted not later than February 1 and August 1.
+(2) Except as provided in subsection (d), each semiannual report listed in subsection (b) shallbe submitted not later than February 1 and August 1.
 
 #### (d) Postponement of submittal
 
@@ -50,7 +50,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929; Pub. L. 116–92, div. E, title LIII, §5322(c), Dec. 20, 2019, 133 Stat. 2130; Pub. L. 117–263, div. F, title LXVIII, §6824(a)(6), Dec. 23, 2022, 136 Stat. 3615;Pub. L. 117–286, §4(b)(100), Dec. 27, 2022, 136 Stat. 4353.)
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929; Pub. L. 116–92, div. E, title LIII, §5322(c), Dec. 20, 2019, 133 Stat. 2130; Pub. L. 117–263, div. F, title LXVIII, §6824(a)(6), Dec. 23, 2022, 136 Stat. 3615; Pub. L. 117–286, §4(b)(100), Dec. 27, 2022, 136 Stat. 4353.)
 
 #### <b>Editorial Notes</b>
 
@@ -94,7 +94,7 @@ Subsec. (d)(1). Pub. L. 113–126, §329(c)(3)(C), in subpar. (A), substituted "
 
 Subsec. (a)(1)(D). Pub. L. 112–277, §310(b)(1)(A)(i)(III), substituted "section 404i(a)" for "section 404i(c)".
 
-Subsec. (a)(2). Pub. L. 112–277, §310(b)(1)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B):
+Subsec. (a)(2). Pub. L. 112–277, §310(b)(1)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) readas follows: "The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B):
 
 &emsp;"(A) The annual report on the safety and security of Russian nuclear facilities and nuclear military forces required by section 404i(a) of this title.
 

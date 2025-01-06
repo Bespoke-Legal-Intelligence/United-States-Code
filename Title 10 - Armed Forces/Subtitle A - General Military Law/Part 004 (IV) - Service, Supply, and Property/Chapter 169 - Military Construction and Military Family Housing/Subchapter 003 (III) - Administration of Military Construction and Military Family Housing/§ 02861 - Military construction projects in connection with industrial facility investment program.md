@@ -22,7 +22,7 @@ A prior section 2861, added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 16
 
 #### Amendments
 
-<b>2022</b>—Subsec. (b). Pub. L. 117–263 substituted "subsection (f) of section 2476" for "subsection (e) of section2476" and "subsection (a)(1) of such section" for "subsection (a) of such section".
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 substituted "subsection (f) of section 2476" for "subsection (e) of section 2476" and "subsection (a)(1) of such section" for "subsection (a) of such section".
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–91, §2801(c)(4), struck out "in writing" after "shall notify" and "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided" after "received by such committees" and substituted "14-day period" for "21-day period".
 

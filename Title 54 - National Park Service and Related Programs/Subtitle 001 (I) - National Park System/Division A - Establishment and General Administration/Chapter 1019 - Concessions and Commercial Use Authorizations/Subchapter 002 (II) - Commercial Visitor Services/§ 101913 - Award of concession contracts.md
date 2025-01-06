@@ -4,7 +4,7 @@ In furtherance of the findings and policy stated in section 101912 of this title
 
 &emsp;(1)
 
-Competitive selection process.—Except as otherwise provided in this section, all proposed concession contracts shall be awarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. The competitive process shall include simplified procedures for small, individually-owned entities seeking award of a concession contract.
+Competitive selection process.—Except as otherwise provided in this section, all proposed concession contracts shall be awardedby the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. The competitive process shall include simplified procedures for small, individually-owned entities seeking award of a concession contract.
 
 &emsp;(2)
 
@@ -162,7 +162,7 @@ Contract with estimated gross receipts of less than $500,000.—A concessioner t
 
 &emsp;(9)
 
-New or additional services.—The Secretary may propose to amend the applicableterms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
+New or additional services.—The Secretary may propose to amend the applicable terms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
 
 &emsp;(10)
 
@@ -174,7 +174,7 @@ Exceptions.—Notwithstanding this section, the Secretary may award, without pub
 
 &emsp;&emsp;(A)
 
-Temporary contract.—To avoid interruption of services to the public at a System unit, the Secretary may award a temporary concession contract or an extension of an existing concessions contract for a term not to exceed 3 years, except that prior to making the award, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid the interruption.
+Temporary contract.—To avoid interruption of services to the public at a System unit, the Secretary may award a temporary concession contract or an extension of an existing concessions contract for a term not to exceed 3 years, except that prior to makingthe award, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid the interruption.
 
 &emsp;&emsp;(B)
 

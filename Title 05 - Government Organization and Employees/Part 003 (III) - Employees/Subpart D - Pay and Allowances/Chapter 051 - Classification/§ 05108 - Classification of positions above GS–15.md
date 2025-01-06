@@ -284,7 +284,7 @@ Pub. L. 95–612, §3(a), (c), Nov. 8, 1978, 92 Stat. 3091, 3092, relating to th
 
 #### Termination of Authority To Place Positions in GS–16, 17, or 18 of the General Schedule
 
-Pub. L. 95–454, title IV, §414(a)(1)(B), Oct. 13, 1978, 92 Stat. 1177, provided that: "Notwithstanding any otherprovision of law (other than section 5108 of such title 5), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5 under any such provision to place one or more positions in GS–16, 17, or 18 of the General Schedule, is hereby terminated."
+Pub. L. 95–454, title IV, §414(a)(1)(B), Oct. 13, 1978, 92 Stat. 1177, provided that: "Notwithstanding any other provision of law (other than section 5108 of such title 5), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5 under any such provision to place one or more positions in GS–16, 17, or 18 of the General Schedule, is hereby terminated."
 
 #### Limitations on Executive Positions Not To Apply to Individuals Occupying Those Positions on October 12, 1978
 

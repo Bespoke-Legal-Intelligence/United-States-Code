@@ -68,5 +68,5 @@ The Secretary shall require each administrative unit to develop a volunteer and 
 
 #### Codification
 
-Section is comprised of section 4 of Pub. L. 114–245. Subsec. (d)(1) of section 4 of Pub. L. 114–245 amended section 558c of this title.
+Section is comprised of section 4 of Pub. L. 114–245. Subsec. (d)(1) of section 4 of Pub. L. 114–245 amended former section 558c of this title.
 

@@ -6,7 +6,7 @@ In this chapter—
 
 &emsp;&emsp;(A) the International Registration Plan, has the same meaning given the term "apportionable vehicle" under the Plan; and
 
-&emsp;&emsp;(B) the International Fuel Tax Agreement, has the same meaning given the term "qualified motor vehicle" under the Agreement.
+&emsp;&emsp;(B) the International Fuel Tax Agreement, has the same meaning given the term"qualified motor vehicle" under the Agreement.
 
 &emsp;(2) "fuel use tax" means a tax imposed on or measured by the consumption of fuel in a motor vehicle.
 

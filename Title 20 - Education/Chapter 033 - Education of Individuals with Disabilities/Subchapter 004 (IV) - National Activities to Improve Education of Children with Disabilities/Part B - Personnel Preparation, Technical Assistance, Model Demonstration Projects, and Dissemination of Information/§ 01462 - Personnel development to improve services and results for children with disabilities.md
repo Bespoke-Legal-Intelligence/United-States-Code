@@ -68,7 +68,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(vi) effectively constructing IEPs, participating in IEP meetings, and implementing IEPs;
 
-&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and SecondaryEducation Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
+&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
 
 &emsp;&emsp;&emsp;(viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7423(d)(1)(A)(ii)\], and schools that serve high numbers or percentages of limited English proficient children.
 
@@ -130,7 +130,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(C) Preparing personnel in the innovative uses and application of technology, including universally designed technologies, assistive technology devices, and assistive technology services—
 
-&emsp;&emsp;&emsp;(i) to enhance learning by children with low incidence disabilities through earlyintervention, educational, and transitional services; and
+&emsp;&emsp;&emsp;(i) to enhance learning by children with low incidence disabilities through early intervention, educational, and transitional services; and
 
 &emsp;&emsp;&emsp;(ii) to improve communication with parents.
 
@@ -196,7 +196,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (3) Acceptance by States of personnel preparation requirements
 
-&emsp;The Secretary may require eligible entities to provide in the eligible entities' applications assurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
+&emsp;The Secretary may require eligible entities to provide in the eligible entities' applications assurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation forserving children with disabilities or serving infants and toddlers with disabilities.
 
 #### (f) Selection of recipients
 

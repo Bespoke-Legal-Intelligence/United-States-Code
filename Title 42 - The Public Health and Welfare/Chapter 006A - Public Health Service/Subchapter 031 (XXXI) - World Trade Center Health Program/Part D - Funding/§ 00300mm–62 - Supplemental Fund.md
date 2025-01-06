@@ -10,7 +10,7 @@ Out of any money in the Treasury not otherwise appropriated, there is appropriat
 
 #### (c) Uses of funds
 
-Amounts deposited into the Supplemental Fund under subsection (b) shall be available, without further appropriation and without regard to any spending limitation under section 300mm–61(c) of this title, to the WTC Program Administrator as needed at the discretion of such Administrator, for carrying out any provision in this title, including sections 300mm–2 and 300mm–51(c) of this title.
+Amounts deposited into the Supplemental Fund under subsection (b) shall be available,without further appropriation and without regard to any spending limitation under section 300mm–61(c) of this title, to the WTC Program Administrator as needed at the discretion of such Administrator, for carrying out any provision in this title, including sections 300mm–2 and 300mm–51(c) of this title.
 
 #### (d) Return of funds
 

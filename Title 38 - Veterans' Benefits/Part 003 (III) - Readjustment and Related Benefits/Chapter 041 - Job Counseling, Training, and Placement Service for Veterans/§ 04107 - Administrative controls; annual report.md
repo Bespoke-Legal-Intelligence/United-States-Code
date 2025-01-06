@@ -18,7 +18,7 @@
 
 &emsp;(4) a report on activities carried out during the preceding program year under section 4212(d) of this title;
 
-&emsp;(5) a report on the operation during the preceding program year of programs for the provision of employment and training services designed to meet the needs of eligible veterans and eligible persons, including an evaluation of the effectiveness of such programs during such program year in meeting the requirements of section 4102A(b) of this title, the efficiency with which services were provided through such programs during such year, and such recommendations for further legislative action relating to veterans' employment and training as the Secretary considers appropriate;
+&emsp;(5) a report on the operation during the preceding program year of programs for the provision of employment and training services designed to meet the needs of eligible veterans and eligible persons, including an evaluation of the effectiveness of such programs duringsuch program year in meeting the requirements of section 4102A(b) of this title, the efficiency with which services were provided through such programs during such year, and such recommendations for further legislative action relating to veterans' employment and training as the Secretary considers appropriate;
 
 &emsp;(6) a report on the operation during the preceding program year of the program of performance incentive awards for quality employment services under section 4112 of this title; and
 
@@ -66,7 +66,7 @@ Subsec. (c)(2). Pub. L. 107–288, §5(d)(1)(B), substituted "the rate of entere
 
 Subsec. (c)(4). Pub. L. 107–288, §5(d)(1)(C), substituted "section 4212(d)" for "sections 4103A and 4104".
 
-Subsec. (c)(5). Pub. L. 107–288, §4(e)(1), struck out "(including the need for any changes in the formulas governing the appointment of disabled veterans' outreach program specialists under section 4103A(a)(2) of this title and the assignment of local veterans' employment representatives under section 4104(b) of this title and the allocation of funds for the support of such specialists and representatives)" after "further legislative action".
+Subsec. (c)(5). Pub. L. 107–288, §4(e)(1), struck out "(including the need for any changes in the formulas governing the appointment of disabled veterans' outreach program specialists under section 4103A(a)(2) of this title and the assignment of local veterans' employment representatives under section 4104(b) of this titleand the allocation of funds for the support of such specialists and representatives)" after "further legislative action".
 
 Subsec. (c)(6). Pub. L. 107–288, §5(d)(1)(D), added par. (6).
 

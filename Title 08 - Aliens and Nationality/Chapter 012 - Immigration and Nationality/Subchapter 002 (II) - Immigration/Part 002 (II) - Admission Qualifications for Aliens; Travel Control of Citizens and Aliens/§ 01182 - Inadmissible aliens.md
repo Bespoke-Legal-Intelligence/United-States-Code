@@ -2284,7 +2284,9 @@ Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided t
 
 Pub. L. 103–416, title II, §220(c), Oct. 25, 1994, 108 Stat. 4320, as amended by Pub. L. 104–208, div. C, title VI, §622(a), Sept. 30, 1996, 110 Stat. 3009–695; Pub. L. 107–273, div. C, title I, §11018(b), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–441, §1(a)(1), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 109–477, §2, Jan. 12, 2007, 120 Stat. 3572; Pub. L. 110–362, §1, Oct. 8, 2008, 122 Stat. 4013; Pub. L. 111–9, §2, Mar. 20, 2009, 123 Stat. 989; Pub. L. 111–83, title V, §568(b), Oct. 28, 2009, 123 Stat. 2186; Pub. L. 112–176, §4, Sept. 28, 2012, 126 Stat. 1325, provided that: "The amendments made by this section \[amending this section and section 1184 of this title\] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(J)\], or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act \[Oct. 25, 1994\] and before September 30, 2015."
 
-\[Pub. L. 117–328, div. O, title III, §304, Dec. 29, 2022, 136 Stat. 5228, provided that: "Section 220(c) of the Immigration and Nationality Technical Corrections Act of1994 \[Pub. L. 103–416\] (8 U.S.C. 1182 note) \[set out above\] shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."
+\[Pub. L. 118–47, div. G, title I, §102, Mar. 23, 2024, 138 Stat. 856, provided that: "Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994\[Pub. L. 103–416\] (8 U.S.C. 1182 note) \[set out above\] shall be applied by substituting 'September 30, 2024' for 'September 30, 2015'."\]
+
+\[Pub. L. 117–328, div. O, title III, §304, Dec. 29, 2022, 136 Stat. 5228, provided that: "Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\] (8 U.S.C. 1182 note) \[set out above\] shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."
 
 \[Pub. L. 117–103, div. O, title II, §203, Mar. 15, 2022, 136 Stat. 788, provided that: "Subclauses \[sic; probably should be "Section"\] 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\] (8 U.S.C. 1182 note) \[set out above\] shall be applied by substituting 'September 30, 2022' for 'September 30, 2015'."\]
 
@@ -2344,7 +2346,7 @@ Pub. L. 100–690, title VII, §7349(b), Nov. 18, 1988, 102 Stat. 4473, provided
 
 Pub. L. 100–525, §3, Oct. 24, 1988, 102 Stat. 2614, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 99–396.
 
-Pub. L. 100–525, §7(d), Oct. 24, 1988, 102 Stat. 2617, provided that: "The amendments made by this section \[amending this section, sections 1186a and 1255 of this title, and provisions set out as a note below\] shall be effective as if they were included in the enactment of the Immigration Marriage Fraud Amendments of 1986 \[Pub. L. 99–639\]."
+Pub. L. 100–525, §7(d), Oct. 24, 1988, 102 Stat. 2617, provided that: "The amendments made by this section \[amending this section, sections 1186a and 1255 of this title, and provisions set out as a note below\] shall be effective as if they were included in the enactment of theImmigration Marriage Fraud Amendments of 1986 \[Pub. L. 99–639\]."
 
 Amendment by section 8(f) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendment note under section 1101 of this title.
 
@@ -2418,7 +2420,7 @@ Pub. L. 116–92, div. A, title XVII, §1758, Dec. 20, 2019, 133 Stat. 1860, pro
 
 "(a)
 
-In General.—In evaluating a request from a covered individual for parole in place under section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), the Secretary of Homeland Securityshall consider, on a case-by-case basis, whether granting the request would enable military family unity that would constitute a significant public benefit.
+In General.—In evaluating a request from a covered individual for parole in place under section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), the Secretary of Homeland Security shall consider, on a case-by-case basis, whether granting the request would enable military family unity that would constitute a significant public benefit.
 
 "(b)
 
@@ -2444,7 +2446,7 @@ Covered Individual Defined.—In this section, the term 'covered individual' mea
 
 #### Reciprocal Access to Tibet
 
-Pub. L. 115–330, Dec. 19, 2018, 132 Stat. 4479, provided that:
+Pub. L. 115–330, Dec. 19, 2018, 132 Stat. 4479, as amended by Pub. L. 118–159, div. G, title LXXVIII, §7812(f), Dec. 23, 2024, 138 Stat. 2566, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -2544,7 +2546,7 @@ Tibetan areas.—The term 'Tibetan areas' includes—
 
 "(a)
 
-In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2018\], and annually thereafter for the following five years, the Secretary of State shall submit to the appropriate congressional committees, and make available to the public on the website of the Department of State, a report that includes an assessment of the level of access Chinese authorities granted diplomats and other officials, journalists, and tourists from the United States to Tibetan areas, including—
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2018\], and annually thereafter for the following 10 years, the Secretary of State shall submit to the appropriate congressional committees, and make available to the public on the website of the Department of State, a report that includes an assessment of the level of access Chinese authorities granted diplomats and other officials, journalists, and tourists from the United States to Tibetan areas, including—
 
 &emsp;"(1) a comparison with the level of access granted to other areas of China;
 
@@ -2576,7 +2578,7 @@ Current Visas Revoked.—The Secretary of State shall revoke, in accordance with
 
 "(c)
 
-Report to Congress.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2018\], and annually thereafter for the following five years, the Secretary of State shall provide to the appropriate congressional committees a report identifying the individuals who have had visas denied or revoked pursuant to this section during the preceding year and, to the extent practicable, a list of Chinese officials who were substantially involved in the formulation or execution of policies to restrict access of United States diplomats and other officials, journalists, and citizens of the United States to Tibetan areas. The report required by this subsection shall be submitted in unclassified form, but may include a classified annex.
+Report to Congress.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2018\], and annually thereafter for the following 10 years, the Secretary of State shall provide to the appropriate congressional committees a report identifying the individuals who have had visas denied or revoked pursuant to this section during the preceding year and, to the extent practicable, a list of Chinese officials who were substantially involved in the formulation or execution of policies to restrict access of United States diplomats and other officials, journalists, and citizens of the United States to Tibetan areas. The report required by this subsection shall be submitted in unclassified form, but may include a classified annex.
 
 "(d)
 
@@ -2608,7 +2610,7 @@ Removal of Treatment as Terrorist Organizations.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the Rwandan Patriotic Front and the Rwandan Patriotic Army shall be excluded from the definition of terrorist organization (as defined in section 212(a)(3)(B)(vi)(III) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)(III))) for purposes of such section 212(a)(3)(B) for any period before August 1, 1994.
+In general.—Except as provided in paragraph (2), the Rwandan Patriotic Front and the RwandanPatriotic Army shall be excluded from the definition of terrorist organization (as defined in section 212(a)(3)(B)(vi)(III) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)(III))) for purposes of such section 212(a)(3)(B) for any period before August 1, 1994.
 
 &emsp;"(2)
 
@@ -2734,7 +2736,7 @@ Pub. L. 110–161, div. J, title VI, §691(e), Dec. 26, 2007, 121 Stat. 2365, pr
 
 #### Inadmissibility of Foreign Officials and Family Members Involved in Kleptocracy or Human Rights Violations
 
-Pub. L. 117–328, div. K, title VII, §7031(c), Dec. 29, 2022, 136 Stat. 5026, provided that:
+Pub. L. 118–47, div. F, title VII, §7031(c), Mar. 23, 2024, 138 Stat. 784, provided that:
 
 "(1)
 
@@ -2756,7 +2758,7 @@ Waiver.—The Secretary may waive the application of paragraph (1) if the Secret
 
 "(4)
 
-Report.—Not later than 30 days after the date of enactment of this Act \[div. K of Pub. L. 117–328, approved Dec. 29, 2022\], and every 90 days thereafter until September 30, 2024, the Secretary of State shall submit a report, including a classified annex if necessary, to the appropriate congressional committees \[Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives\] and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
+Report.—Not later than 30 days after the date of enactment of this Act \[Mar. 23, 2024\], and every 90 days thereafter until September 30, 2025, the Secretary of State shall submit a report, including a classified annex if necessary, to the appropriate congressional committees \[Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives\] and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
 
 "(5)
 
@@ -2767,6 +2769,8 @@ Posting of report.—Any unclassified portion of the report required under parag
 Clarification.—For purposes of paragraphs (1), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, div. K, title VII, §7031(c), Dec. 29, 2022, 136 Stat. 5026.
 
 Pub. L. 117–103, div. K, title VII, §7031(c), Mar. 15, 2022, 136 Stat. 615.
 
@@ -3062,7 +3066,7 @@ Sec. 11. Repealed. Pub. L. 89-236, §16, Oct. 3, 1965, 79 Stat. 919.\]"
 
 #### Creation of Record of Admission for Permanent Residence in the Case of Certain Hungarian Refugees
 
-Pub. L. 85–559, July 25, 1958, 72 Stat. 419, provided: "That any alien who was paroled into the United States as a refugee from the Hungarian revolution under section 212(d)(5) of the Immigration and Nationality Act \[subsection (d)(5) of this section\] subsequent to October 23, 1956, who has been in the United States for at least two years, and who has not acquired permanent residence, shall forthwith return or be returned to the custody of the Immigration and Naturalization Service, and shall thereupon be inspected and examined for admission into the United States, and his case dealt with, in accordance with the provisions of sections 235,236 and 237 of that Act \[sections 1225, 1226 and \[former\] 1227 of this title\].
+Pub. L. 85–559, July 25, 1958, 72 Stat. 419, provided: "That any alien who was paroled into the United States as a refugee from the Hungarian revolutionunder section 212(d)(5) of the Immigration and Nationality Act \[subsection (d)(5) of this section\] subsequent to October 23, 1956, who has been in the United States for at least two years, and who has not acquired permanent residence, shall forthwith return or be returned to the custody of the Immigration and Naturalization Service, and shall thereupon be inspected and examined for admission into the United States, and his case dealt with, in accordance with the provisions of sections 235, 236 and 237 of that Act \[sections 1225, 1226 and \[former\] 1227 of this title\].
 
 "
 
@@ -3074,9 +3078,11 @@ Sec. 3. Nothing contained in this Act shall be held to repeal, amend, alter, mod
 
 #### Definition of Appropriate Congressional Committees
 
-Pub. L. 117–328, div. K, title VII, §7034(s)(1), Dec. 29, 2022, 136 Stat. 5035, provided that: "Unless otherwise defined in this Act \[div. K of Pub. L. 117–328, 136 Stat. 4974, see Tables for classification\], for purposes of this Act the term 'appropriate congressional committees' means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
+Pub. L. 118–47, div. F, title VII, §7034(s)(1), Mar. 23, 2024, 138 Stat. 793, provided that: "Unless otherwise defined in this Act \[div. F of Pub. L. 118–47, 138 Stat. 729, see Tables for classification\], for purposes of this Act the term 'appropriate congressional committees' means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, div. K, title VII, §7034(s)(1), Dec. 29, 2022, 136 Stat. 5035.
 
 Pub. L. 117–103, div. K, title VII, §7034(t)(1), Mar. 15, 2022, 136 Stat. 626.
 
@@ -3140,7 +3146,7 @@ Proc. No. 4865, Sept. 29, 1981, 46 F.R. 48107, provided:
 
 The ongoing migration of persons to the United States in violation of our laws is a serious national problem detrimental to the interests of the United States. A particularly difficult aspect of the problem is the continuing illegal migration by sea of large numbers of undocumented aliens into the southeastern United States. These arrivals have severely strained the law enforcement resources of the Immigration and Naturalization Service and have threatened the welfare and safety of communities in that region.
 
-As a result of our discussions with the Governments of affected foreign countries and with agencies of theExecutive Branch of our Government, I have determined that new and effective measures to curtail these unlawful arrivals are necessary. In this regard, I have determined that international cooperation to intercept vessels trafficking in illegal migrants is a necessary and proper means of insuring the effective enforcement of our laws.
+As a result of our discussions with the Governments of affected foreign countries and with agencies of the Executive Branch of our Government, I have determined that new and effective measures to curtail these unlawful arrivals are necessary. In this regard, I have determined that international cooperation to intercept vessels trafficking in illegal migrants is a necessary and proper means of insuring the effective enforcement of our laws.
 
 NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America, by the authority vested in me by the Constitution and the statutes of the United States, including Sections 212(f) and 215(a)(1) of the Immigration and Nationality Act, as amended (8 U.S.C. 1182(f) and 1185(a)(1)), in order to protect the sovereignty of the United States, and in accordance with cooperative arrangements with certain foreign governments, and having found that the entry of undocumented aliens, arriving at the borders of the United States from the high seas, is detrimental to the interests of the United States, do proclaim that:
 
@@ -3150,13 +3156,175 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-ninth day of Septemb
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Proc. No. 9645. Enhancing Vetting Capabilities and Processes for Detecting Attempted Entry Into the United States by Terrorists or Other Public-Safety Threats
+#### Proclamation No. 9645
 
 Proc. No. 9645, Sept. 24, 2017, 82 F.R. 45161, as amended by Proc. No. 9723, §1, Apr. 10, 2018, 83 F.R. 15939; Proc. No. 9983, §3, Jan. 31, 2020, 85 F.R. 6706, which prohibited entry into the United States by nationals of certain countries unless they are approved for a waiver, was revoked by Proc. No. 10141, Jan. 20, 2021, 86 F.R. 7005.
 
-#### Proc. No. 9983. Improving Enhanced Vetting Capabilities and Processes for Detecting Attempted Entry Into the United States by Terrorists or Other Public-Safety Threats
+#### Proclamation No. 9983
 
 Proc. No. 9983, Jan. 31, 2020, 85 F.R. 6699, which prohibited entry into the United States by nationals of certain countries, was revoked by Proc. No. 10141, Jan. 20, 2021, 86 F.R. 7005.
+
+#### Proc. No. 10773. Securing the Border
+
+Proc. No. 10773, June 3, 2024, 89 F.R. 48487, as amended by Proc. No. 10817, §§1, 2, Sept. 27, 2024, 89 F.R. 80352, provided:
+
+There are more people around the world who are displaced from their homes today than at any point in time since World War II. Many factors have contributed to this problem. Failing regimes and dire economic conditions afflict many countries, including several in the Western Hemisphere. Violence linked to transnational criminal organizations has displaced substantial numbers of people in Latin America. The global COVID–19 pandemic upended societies around the globe. Natural disasters have forced people from their homes.
+
+As a result of these global conditions, we have been experiencing substantial levels of migration throughout the Western Hemisphere, including at our southwest land border. In 2019, encounters nearly doubled from their 2018 level to almost 1 million. In 2020, the global COVID–19 pandemic led countries throughout the world to shut their borders and suspend international travel; however, once the pandemic began to recede, international travel resumed, and we again experienced elevated levels of migration throughout the Western Hemisphere, including at our southwest land border.
+
+On May 11, 2023, as part of my Administration's work to prepare for the end of the Centers for Disease Control and Prevention's public health order under title 42, United States Code, and to return to processing all noncitizens under immigration authorities under title 8, United States Code (title 8), the Department of Homeland Security (DHS) and the Department of Justice (DOJ) issued a final rule, entitled Circumvention of Lawful Pathways (Lawful Pathways rule), encouraging the use of lawful pathways and imposing a rebuttable presumption of asylum ineligibility on those who do not use them.
+
+The Lawful Pathways rule was designed to address the high levels of migration throughout the Western Hemisphere and further discourage irregular migration by encouraging migrants to use lawful, safe, and orderly processes for entering the United States or to seek protection in other partner nations; imposing a presumptive condition on asylum eligibility for those who fail to do so; and supporting the swift return of those who do not have valid protection claims.
+
+As a complement to the Lawful Pathways rule and associated enforcement efforts, the Department of State and DHS have taken significant steps to expand safe and orderly pathways for migrants to enter the United States lawfully. Those steps include establishing Safe Mobility Offices in Colombia, Costa Rica, Ecuador, and Guatemala to facilitate access to lawful pathways; expanding country-specific and other available processes to seek parole on a case-by-case basis for urgent humanitarian reasons or significant public benefit; expanding access to visa programs for seasonal employment; establishing a mechanism for noncitizens to schedule a time and place to present at ports of entry in a safe, orderly, and lawful manner through the CBP One mobile application; and expanding refugee admissions from the Western Hemisphere from 5,000 in Fiscal Year 2021 to up to 50,000 in Fiscal Year 2024.
+
+The Lawful Pathways rule and these complementary measures have made a substantial impact. On May 12, 2023, DHS returned to processing all noncitizens under title 8 immigration authorities and is processing noncitizens at record scale and efficiency. Since then, my Administration has maximized the use of expedited removal to the greatest extent possible given limited resources, placing more than 970 individuals encountered at and between ports of entry at the southwest land border into the process each day on average and conducting more than 152,000 credible fear interviews, both of which are record highs. As a result, from May 12, 2023, to May 1, 2024, my Administration removed or returned more than 720,000 noncitizens who did not have a lawful basis to remain in the United States, the vast majority of whom crossed the southwest land border. Total removals and returns in the 12 months following May 12, 2023, exceeded removals and returns in every full Fiscal Year since 2010. The majority of all individuals encountered at the southwest land border from Fiscal Year 2021 to Fiscal Year 2023 were removed, returned, or expelled.
+
+Despite these efforts, and after months of reduced encounter levels following the changes put in place after May 12, 2023, encounter levels increased toward the end of 2023, and December 2023 saw the highest level of encounters between ports of entry in history, as increasing numbers of people migrated through the Western Hemisphere. The challenges presented by this surge in migration, which would have been even worse had the Lawful Pathways rule and other measures not been in place, were compounded by the fact that the surge was focused increasingly on western areas of the border in California and Arizona that are geographically remote, challenging to address, and without sufficient pre-existing infrastructure or resources to respond to the surge. From January to March 2024, encounters decreased from and have remained below levels experienced in November and December 2023, including as aresult of increased enforcement by the United States and partner countries. However, the factors that are driving the unprecedented movement of people in our hemisphere remain, and there is still a substantial and elevated level of migration that continues to pose significant operational challenges.
+
+The current situation is also the direct result of the Congress's failure to update an immigration and asylum system that is simply broken—and not equipped to meet current needs. While my Administration has vigorously enforced the law within the constraints imposed by the existing system, the statutory framework put in place by the Congress is outdated. For the vast majority of people in immigration proceedings, the current laws make it impossible to quickly grant protection to those who require it and to quickly remove those who do not establish a legal basis to remain in the United States. This reality is compounded by the fact that the Congress has chronically underfunded our border security and immigration system and has failed to provide the resources or reforms it needs to be able to deliver timely consequences to most individuals who cross unlawfully and cannot establish a legal basis to remain in the United States.
+
+Despite the strengthened consequences in place at our border through the Lawful Pathways rule and the related measures that have led to record returns and removals, encounter levels are exceeding our capacity to deliver those consequences in a timely manner due to the outdated laws and limited resources we have available.
+
+My Administration has repeatedly asked the Congress to update the outdated and inadequate immigration statutes, to create a legal framework that is functional and addresses current realities, and to provide additional resources so that we can more effectively deliver consequences at the border. In August 2023, I requested more than $4 billion in additional funding for border security and related migration issues, including more than $2 billion for urgent DHS border management requirements. The Congress failed to act. In October 2023, I requested $13.6 billion for border enforcement and migration management. This request included more than $5 billion for DHS to manage conditions on the southern border, as well as funding for critical capacity enhancements to keep the southern border secure. The Congress once again failed to provide our border and immigration system with the resources it needs to deliver timely consequences to those who cross unlawfully.
+
+In early February 2024, a bipartisan group of Senators introduced legislation (bipartisan legislative proposal) containing the toughest and fairest reforms of our asylum laws in decades that would have provided new authorities to significantly streamline and speed up immigration enforcement proceedings for individuals encountered at the border, including those who are seeking protection. Critically, the bipartisan legislative proposal included nearly $20 billion in additional resources for DHS and other departments to implement those new authorities, such as:
+
+(a) over 1,500 new U.S. Customs and Border Protection (CBP) personnel, including Border Patrol agents and CBP officers;
+
+(b) over 4,300 new asylum officers and additional U.S. Citizenship and Immigration Services staff to facilitate timely and fair decisions;
+
+(c) 100 new immigration judge teams to help reduce the asylum caseload backlog and adjudicate cases more quickly;
+
+(d) shelter and critical services for newcomers in our cities and States; and
+
+(e) 1,200 new U.S. Immigration and Customs Enforcement personnel for functions including enforcement and deportations.
+
+While the bipartisan legislative proposal did not include everything we wanted, senior officials from my Administration worked closely with the bipartisan group of Senators to ensure that the reforms would adequately address the challenges that we have been facing at our southern border for more than a decade. However, the Congress failed to move forward with this bipartisan legislative proposal.
+
+The Further Consolidated Appropriations Act, 2024 (Public Law 118–47) \[see Tables for classification\] increased funding for DHS over Fiscal Year 2023, but it did not address the needs identified in various related supplemental requests, nor did it equip the Federal Government with the new authorities from the bipartisan legislative proposal. In May 2024, when the Senate again considered the bipartisan legislative proposal, the Senate failed to advance the measure.
+
+Our broken immigration system is directly contributing to the historic migration we are seeing throughout the Western Hemisphere, exacerbated by poor economic conditions, natural disasters, and general insecurity, and this fact, combined with inadequate resources to keep pace, has once again severely strained our capacity at the border. The result is a vicious cycle in which our United States Border Patrol facilities constantly risk overcrowding, our detention system has regularly been at capacity, and our asylum system remains backlogged and cannot deliver timely decisions, all of which spurs more people to make the dangerous journey north to the United States.
+
+The Congress's failure to deliver meaningful policy reforms and adequate funding, despite repeated requests that they do so, is a core cause of this problem. Under current law, whenever a noncitizen in expedited removal indicates an intention to apply for asylum or a fear of persecution, they are referred for an interview with an asylum officer and cannot be removed through expedited removal if there is a significant possibility that they could establish eligibility for asylum. This screening standard is a requirement imposed by the Congress, but it has not functioned well in predicting ultimate success in asylum proceedings. From 2014 to 2019, 83 percent of individuals referred for an interview with an asylum officer passed the screening stage, meaning that they were not removed pursuant to expedited removal, but less than 25 percent of cases ultimately resulted in a grant of asylum or other protection, often after waiting years to reach a final decision. By imposing a rebuttable presumption of asylum ineligibility on those who cross the border unlawfully, the Lawful Pathways rule has made a meaningful impact in reducing this disparity. The screen-in rate from May 12, 2023, to March 31, 2024, dropped to 52 percent for individuals who are subject to the rebuttable presumption of asylum ineligibility. However, the Lawful Pathways rule alone is inadequate during times of record encounter levels and cannot change the underlying statutory limitations.
+
+Data confirm that the system has been badly strained for many years and is not functioning to provide timely relief for those who warrant it or timely consequences for those without viable protection claims. Due to an outdated and inefficient system and insufficient resources that do not allow for prompt adjudication of claims, too many people have had to be processed by the Border Patrol and released with a notice to appear in removal proceedings before an immigration judge since May 2023. The U.S. Citizenship and Immigration Service affirmative asylum backlog is now over 1 million cases and growing, with over 300,000 applications filed prior to 2021 still pending. At the end of Fiscal Year 2023, there were over 2.4 million cases pending in the immigration courts. Pending cases more than doubled from the end of Fiscal Year 2016 to the end of Fiscal Year 2020 and doubled again between that time and the end of Fiscal Year 2023. Between Fiscal Year 2006 and the end of Fiscal Year 2023, in tandem with historic increases in filings to initiate immigration court proceedings, the immigration courts' pending caseload increased from approximately 170,000 to approximately 2.46 million. During Fiscal Year 2023, immigration judges completed more cases than they ever had before in a single year, but more than twice as many cases were received by the immigration courts than were completed.
+
+The status quo system—the result of outdated laws and inadequate resources—has become a driver for unlawful migration throughout the region and an increasingly lucrative source of income for dangerous transnational criminal organizations and other criminal smuggling organizations that, without countermeasures, will continue to grow in strength and pose significant threats to the safety and security of United States communities and migrants, as well as countries throughout the region.
+
+Considering these trends and the decades-long failure of the Congress to address the problem through systemic reform and adequate funding, and following the Congress's failure to pass the bipartisan legislative proposal, I must exercise my executive authorities to meet the moment. This proclamation answers the call by suspending entry of noncitizens across the southern border during this time of high border crossings. Appropriate exceptions are provided, such as for those who are particularly vulnerable or present pursuant to a process the Secretary of Homeland Security determines is appropriate to allow for safe and orderly processing into the United States. That process will continue to allow for individuals to seek entry to this country each day in a safe and orderly manner, and following their arrival, to seek protection through the appropriate process. This proclamation, in conjunction with steps to be taken by DOJ and DHS, is needed to enhance our ability to address the historic levels of migration and more efficiently process migrants arriving at the southern border given current resource levels.
+
+These actions do not change or fully compensate for the fact that our immigration system is under-resourced and broken, nor do they change the fact that there are significant limits to what can be achieved without the Congress fulfilling its responsibility to help solve the unprecedented challenge that we are facing. No executive action can deliver the significant policy reforms and additional resources that were in the bipartisan legislative proposal. But I will continue to take actions, within these constraints, to address the situation at our southern border.
+
+NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 212(f) and 215(a) of the Immigration and Nationality Act (8 U.S.C. 1182(f) and 1185(a)) and section 301 of title 3, United States Code, hereby find that, absent the measures set forth in this proclamation, the entry into the United States of persons described in section 1 of this proclamation under circumstances described in section 2 of this proclamation would be detrimental to the interests of the United States, and that their entry should be subject to certain restrictions, limitations, and exceptions. I therefore hereby proclaim the following:
+
+Section 1. <i>Suspension and Limitation on Entry</i>. The entry of any noncitizen into the United States across the southern border is hereby suspended and limited, subject to section 3 of this proclamation. This suspension and limitation on entry shall be effective at 12:01 a.m. eastern daylight time on June 5, 2024. The suspension and limitation directed in this proclamation shall be discontinued pursuant to subsection 2(a) of this proclamation, subject to subsection 2(b) of this proclamation.
+
+Sec. 2. <i>Applicability of Suspension and Limitation on Entry</i>. (a) The Secretary of Homeland Security shall monitor the number of daily encounters and, subject to subsection (b) of this section, the suspension and limitation on entry pursuant to section 1 of this proclamation shall be discontinued at 12:01 a.m. eastern time on the date that is 14 calendar days after the Secretary makes a factual determination that there have been 28 consecutive calendar days of a 7-consecutive-calendar-day average of less than 1,500 encounters, not including encounters described in subsection 4(a)(iii) of this proclamation.
+
+(b) Notwithstanding a factual determination made under subsection (a) of this section, the suspension and limitation on entry pursuant to section 1 of this proclamation shall apply at 12:01 a.m. eastern time on the calendar day immediately after the Secretary has made a factual determination that there has been a 7-consecutive-calendar-day average of 2,500 encounters or more, not including encounters described in subsection 4(a)(iii) of this proclamation, until such suspension and limitation on entry is discontinued pursuant to subsection (a) of this section.
+
+(c) \[Revoked. Proc. No. 10817, §2, Sept. 27, 2024, 89 F.R. 80352.\]
+
+Sec. 3. <i>Scope and Implementation of Suspension and Limitation on Entry</i>. (a) The suspension and limitation on entry pursuant to section 1 of this proclamation shall apply across the southern border to noncitizens, other than those described in subsection (b) of this section, during such times that the suspension and limitation on entry is in effect.
+
+(b) The suspension and limitation on entry pursuant to section 1 of this proclamation shall not apply to:
+
+(i) any noncitizen national of the United States;
+
+(ii) any lawful permanent resident of the United States;
+
+(iii) any unaccompanied child \[sic\] as defined in section 279(g)(2) of title 6, United States Code \[6 U.S.C. 279(g)(2) defines "unaccompanied alien child"\];
+
+(iv) any noncitizen who is determined to be a victim of a severe form of trafficking in persons, as defined in section 7102(16) of title 22, United States Code \[section 103(16) of Pub. L. 106–386\];
+
+(v) any noncitizen who has a valid visa or other lawful permission to seek entry or admission into the United States, or presents at a port of entry pursuant to a pre-scheduled time and place, including:
+
+&emsp;(A) members of the United States Armed Forces and associated personnel, United States Government employees or contractors on orders abroad, or their accompanying family members who are on their orders or are members of their household;
+
+&emsp;(B) noncitizens who hold a valid visa or who have all necessary documents required for admission consistent with the requirements of section 1182(a)(7) of title 8, United States Code, upon arrival at a port of entry;
+
+&emsp;(C) noncitizens traveling pursuant to the visa waiver program as described in section 1187 of title 8, United States Code \[section 217 of act June 27, 1952, ch. 477\]; and
+
+&emsp;(D) noncitizens who arrive in the United States at a southwest land border port of entry pursuant to a process the Secretary of Homeland Security determines is appropriate to allow for the safe and orderly entry of noncitizens into the United States;
+
+(vi) any noncitizen who is permitted to enter by the Secretary of Homeland Security, acting through a CBP immigration officer, based on the totality of the circumstances, including consideration of significant law enforcement, officer and public safety, urgent humanitarian, and public health interests at the time of the entry or encounter that warranted permitting the noncitizen to enter; and
+
+(vii) any noncitizen who is permitted to enter by the Secretary of Homeland Security, acting through a CBP immigration officer, due to operational considerations at the time of the entry or encounter that warranted permitting the noncitizen to enter.
+
+(c) An exception under subsection (b) of this section from the suspension and limitation on entry pursuant to section 1 of this proclamation does not affect a noncitizen's inadmissibility under the Immigration and Nationality Act \[act June 27, 1952, ch. 477, see Tables for classification\] for a reason other than the applicability of this proclamation.
+
+(d) The Secretary of Homeland Security and the Attorney General are authorized to issue any instructions, orders, or regulations as may be necessary to implement this proclamation, including the determination of the exceptions in subsection (b) of this section, and shall promptly consider issuing any instructions, orders, or regulations as may be necessary to addressthe circumstances at the southern border, including any additional limitations and conditions on asylum eligibility that they determine are warranted, subject to any exceptions that they determine are warranted.
+
+(e) Nothing in this proclamation shall limit the statutory processes afforded to unaccompanied children upon entering the United States under section 279 of title 6, United States Code, and section 1232 of title 8, United States Code \[section 235 of Pub. L. 110–457\].
+
+Sec. 4. <i>Definitions</i>. (a) The term "encounter" refers to a noncitizen who:
+
+(i) is physically apprehended by CBP immigration officers within 100 miles of the United States southwest land border during the 14-day period immediately after entry between ports of entry;
+
+(ii) is physically apprehended by DHS personnel at the southern coastal borders during the 14-day period immediately after entry between ports of entry; or
+
+(iii) is determined to be inadmissible at a southwest land border port of entry.
+
+(b) The term "southern coastal borders" means all maritime borders in Texas, Louisiana, Mississippi, Alabama, and Florida; all maritime borders proximate to the southwest land border, the Gulf of Mexico, and the southern Pacific coast in California; and all maritime borders of the United States Virgin Islands and Puerto Rico.
+
+(c) The term "southwest land border" means the entirety of the United States land border with Mexico.
+
+(d) The term "southern border" means the southwest land border and the southern coastal borders.
+
+Sec. 5. <i>Severability</i>. It is the policy of the United States to enforce this proclamation to the maximum extent possible to advance the interests of the United States. Accordingly, if any provision of this proclamation, or the application of any provision to any person or circumstance, is held to be invalid, the remainder of this proclamation and the application of its provisions to any other persons or circumstances shall not be affected thereby.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this third day of June, in the year of our Lord two thousand twenty-four, and of the Independence of the United States of America the two hundred and forty-eighth.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 10817. Amending Proclamation 10773
+
+Proc. No. 10817, Sept. 27, 2024, 89 F.R. 80351, provided:
+
+On June 3, 2024, I signed Proclamation 10773 (Securing the Border) \[set out as a note above\]. That proclamation suspended and limited the entry of certain noncitizens into the United States across the southern border during times of high border crossings, and directed the Secretary of Homeland Security and the Attorney General to promptly consider issuing any instructions, orders, or regulations as might be necessary to address the circumstances at the southern border, including any additional limitations and conditions on asylum eligibility that they determined were warranted. Following that direction, the Secretary of Homeland Security and the Attorney General issued an interim final rule (IFR) that established a limitation on asylum eligibility for certain noncitizens who enter the United States across the southern border during times when Proclamation 10773 and the IFR are designed to be in effect, and revised certain procedures applicable to the expedited removal process to more swiftly apply consequences for irregular migration during those times for noncitizens who do not establish a lawful basis to remain.
+
+Those actions have already produced significant results. Since Proclamation 10773 and the IFR went into effect, and as of the end of the last calendar month, the average number of encounters by the United States Border Patrol at our southwest border between ports of entry has decreased by 59 percent compared to the period after the Circumvention of Lawful Pathways rule began to apply on May 12, 2023, and before Proclamation 10773 and the IFR went into effect. July and August 2024 were the lowest 2 months of encounters between ports of entry since September 2020. While Proclamation 10773 and the IFR have been in effect, and for individuals encountered between southern border ports of entry as of the end of the last calendar month, the Department of Homeland Security has removed or returned 70 percent of single adults and family members, including more than 119,000 individuals to more than 140 countries; has more than tripled the percentage of noncitizens processed through expedited removal; and has decreased the percentage of noncitizens encountered at the southwest border who are released by United States Border Patrol pending their removal proceedings by 52 percent.
+
+Following the issuance of the IFR, the Department of Homeland Security and the Department of Justice (Departments) received and reviewed more than 1,000 comments. Based on their review of those comments and their experience in implementing Proclamation 10773 and the IFR, the Departments have identified two issues related to the thresholds for determining when to apply the suspension and limitation on entry in Proclamation 10773 and the measures described in the IFR.
+
+First, having closely monitored the 7-consecutive-calendar-day average of encounters following the issuance of Proclamation 10773 and the IFR, the Departments have assessed that the current threshold for discontinuing the suspension and limitation on entry in Proclamation 10773 and the measures described in the IFR could be reached following a short-term decrease in the number of encounters at the southern border that does not reflect a sustained decrease in the number of such encounters or an end to the border circumstances in which Proclamation 10773 and the IFR are designed to apply. The Departments are currently considering regulatory action to address this issue as it relates to the measures described in the IFR. With respect to Proclamation 10773, to ensure that the threshold to discontinue the suspension and limitation on entry reflects a sustained decrease in encounters, I have now determined that the suspension and limitation on entry in that proclamation should be discontinued only after the Secretary of Homeland Security has made a factual determination that there have been 28 consecutive calendar days in which the 7-consecutive-calendar-day average of encounters is less than 1,500.
+
+Second, while Proclamation 10773 and the IFR excluded encounters of unaccompanied children from non-contiguous countries from the calculation of encounters, the Departments have assessed, based on their experience implementing Proclamation 10773 and the IFR, that this exclusion is unwarranted because processing such noncitizens is particularly resource-intensive for our frontline personnel at the southern border. This experience indicates that excluding these noncitizens from the calculation yields inaccurate estimates of system capacity. Again, the Departments are currently considering regulatory action to address this issue as it relates to the measures described in the IFR. I have now concluded that in order to better achieveProclamation 10773's goal of enhancing our ability to address historic levels of migration and more efficiently process migrants arriving at the southern border, that proclamation should include unaccompanied children from both non-contiguous and contiguous countries in the calculation of encounters. Consistent with section 3(b)(iii) of Proclamation 10773, any unaccompanied children will remain excepted from the suspension and limitation on entry pursuant to section 1 of Proclamation 10773.
+
+NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 212(f) and 215(a) of the Immigration and Nationality Act (8 U.S.C. 1182(f) and 1185(a)) and section 301 of title 3, United States Code, hereby find that, absent the measures set forth in Proclamation 10773, as amended by this proclamation, the entry into the United States of persons described in section 1 of Proclamation 10773 under circumstances described in section 2 of Proclamation 10773, as amended by this proclamation, would be detrimental to the interests of the United States, and that the entry of such persons should be subject to certain restrictions, limitations, and exceptions. I therefore hereby proclaim the following:
+
+Section 1. <i>Amendment to Section 2(a) of Proclamation 10773</i>. \[Amended Proc. No. 10773.\]
+
+Sec. 2. <i>Revocation of Section 2(c) of Proclamation 10773</i>. \[Amended Proc. No. 10773.\]
+
+Sec. 3. <i>Severability</i>. It is the policy of the United States to enforce this proclamation to the maximum extent possible to advance the interests of the United States. Accordingly, if any provision of this proclamation, or the application of any provision to any person or circumstance, is held to be invalid, the remainder of this proclamation and the application of its provisions to any other persons or circumstances shall not be affected thereby.
+
+Sec. 4. <i>Effectiveness</i>. The amendments described in sections 1 and 2 of this proclamation shall be effective if and when there is in effect a final rule promulgated by the Secretary of Homeland Security and the Attorney General that amends the IFR entitled Securing the Border, 89 FR 48,710 (June 7, 2024), consistent with the amendments described in sections 1 and 2 of this proclamation. If, due to court order, the final rule described in the prior sentence cannot be enforced insofar as it makes changes consistent with the amendment described in section 1 of this proclamation, then the amendment described in section 1 of this proclamation will no longer be in effect and section 2(a) of Proclamation 10773 shall continue to apply by its terms. If, due to court order, the final rule described in the first sentence of this section cannot be enforced insofar as it makes changes consistent with the amendment described in section 2 of this proclamation, then the amendment described in section 2 of this proclamation will no longer be in effect and section 2(c) of Proclamation 10773 shall continue to apply by its terms.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-seventh day of September, in the year of our Lord two thousand twenty-four, and of the Independence of the United States of America the two hundred and forty-ninth.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12324
 
@@ -3242,7 +3410,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 13769
 
-Ex. Ord. No. 13769, Jan. 27, 2017, 82 F.R. 8977, which related to review and suspension of issuance of visas and other immigration benefits to nationals of certain countries, implementation of a program to identify individuals seeking to enter the United States with the intent to cause or risk of causing harm, review and suspension of the U.S. Refugee Admissions Program, exercises of authority relating to terrorism grounds of inadmissibility under this section, expedited completion of the biometric entry-exit tracking system, review and suspension of the Visa Interview Waiver Program, review of nonimmigrant visa reciprocity agreements, and collection and public availablility of certain immigration data, was repealed, effective Mar. 16, 2017, by Ex. Ord. No. 13780, §13, Mar. 6, 2017, 82 F.R. 13218, set out below.
+Ex. Ord. No. 13769, Jan. 27, 2017, 82 F.R. 8977, which related to review and suspension of issuance of visas andother immigration benefits to nationals of certain countries, implementation of a program to identify individuals seeking to enter the United States with the intent to cause or risk of causing harm, review and suspension of the U.S. Refugee Admissions Program, exercises of authority relating to terrorism grounds of inadmissibility under this section, expedited completion of the biometric entry-exit tracking system, review and suspension of the Visa Interview Waiver Program, review of nonimmigrant visa reciprocity agreements, and collection and public availablility of certain immigration data, was repealed, effective Mar. 16, 2017, by Ex. Ord. No. 13780, §13, Mar. 6, 2017, 82 F.R. 13218, set out below.
 
 #### Executive Order No. 13780
 

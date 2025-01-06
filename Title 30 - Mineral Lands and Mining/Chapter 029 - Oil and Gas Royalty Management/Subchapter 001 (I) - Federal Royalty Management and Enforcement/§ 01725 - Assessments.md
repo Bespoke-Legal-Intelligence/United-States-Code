@@ -18,5 +18,5 @@ Section applicable with respect to production of oil and gas after the first day
 
 #### Applicability
 
-Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
+Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
 

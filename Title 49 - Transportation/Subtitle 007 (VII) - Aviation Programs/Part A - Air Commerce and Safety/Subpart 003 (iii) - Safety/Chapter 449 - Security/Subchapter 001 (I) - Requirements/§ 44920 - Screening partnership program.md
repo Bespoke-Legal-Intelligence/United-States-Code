@@ -14,7 +14,7 @@ In general.—Not later than 60 days after the date of receipt of an application
 
 &emsp;(2)
 
-Standards.—The Administrator shall approve an application submitted by an airport operator under subsection (a) if the Administrator determines that the approval would not compromise security or detrimentally affect the cost-efficiency or the effectiveness of the screening of passengers or property at the airport.
+Standards.—The Administrator shall approve an application submitted by an airportoperator under subsection (a) if the Administrator determines that the approval would not compromise security or detrimentally affect the cost-efficiency or the effectiveness of the screening of passengers or property at the airport.
 
 &emsp;(3)
 
@@ -58,7 +58,7 @@ Contracts.—The Administrator shall, to the extent practicable, enter into a co
 
 &emsp;(3)
 
-Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influencemitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
+Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
 
 (e)
 

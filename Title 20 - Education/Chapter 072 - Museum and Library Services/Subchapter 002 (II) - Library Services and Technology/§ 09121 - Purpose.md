@@ -26,7 +26,7 @@ It is the purpose of this subchapter—
 
 &emsp;(12) to encourage, support, and disseminate model programs of library and museum collaboration.
 
-(Pub. L. 94–462, title II, §212, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 108–81, title II, §201, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §201, Dec. 22, 2010, 124 Stat. 3599; Pub. L. 115–410, §7, Dec. 31, 2018, 132 Stat. 5415.)
+(Pub. L. 94–462, title II, §212, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 108–81, title II, §201, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §201, Dec. 22,2010, 124 Stat. 3599; Pub. L. 115–410, §7, Dec. 31, 2018, 132 Stat. 5415.)
 
 #### <b>Editorial Notes</b>
 

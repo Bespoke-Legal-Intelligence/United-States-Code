@@ -30,7 +30,7 @@ The Congress finds and declares the following:
 
 #### (b) Objective
 
-The objective of this subchapter is to increase the understanding, assessment, development,management, utilization, and conservation of the Nation's ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.
+The objective of this subchapter is to increase the understanding, assessment, development, management, utilization, and conservation of the Nation's ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.
 
 #### (c) Purpose
 
@@ -82,7 +82,7 @@ Pub. L. 116–221, §1, Dec. 18, 2020, 134 Stat. 1057, provided that: "This Act 
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–394, §1, Oct. 13, 2008, 122 Stat. 4205, provided that: "This Act \[amending this section and sections 1122 to 1124, 1126 to 1128, and 1131 of this title and enacting provisions set out as a note under section 1128 of this title\] may be cited as the 'National Sea Grant College Program Amendments Act of 2008'."
+Pub. L. 110–394, §1, Oct. 13, 2008, 122 Stat. 4205, provided that: "This Act \[amending this section and sections 1122 to 1124, 1126 to 1128, and 1131 of this title and enacting provisions set out as a note under section 1128of this title\] may be cited as the 'National Sea Grant College Program Amendments Act of 2008'."
 
 #### Short Title of 2002 Amendment
 

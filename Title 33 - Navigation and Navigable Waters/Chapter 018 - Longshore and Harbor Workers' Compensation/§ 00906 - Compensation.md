@@ -6,7 +6,7 @@ No compensation shall be allowed for the first three days of the disability, exc
 
 #### (b) Maximum rate of compensation
 
-(1) Compensation for disability or death (other than compensation for death required by this chapter to be paid in a lump sum) shall not exceed an amount equal to 200 per centum of the applicable national average weekly wage, as determined by the Secretary under paragraph (3).
+(1) Compensation for disability or death (other than compensation for death required by thischapter to be paid in a lump sum) shall not exceed an amount equal to 200 per centum of the applicable national average weekly wage, as determined by the Secretary under paragraph (3).
 
 (2) Compensation for total disability shall not be less than 50 per centum of the applicable national average weekly wage determined by the Secretary under paragraph (3), except that if the employee's average weekly wages as computed under section 910 of this title are less than 50 per centum of such national average weekly wage, he shall receive his average weekly wages as compensation for total disability.
 

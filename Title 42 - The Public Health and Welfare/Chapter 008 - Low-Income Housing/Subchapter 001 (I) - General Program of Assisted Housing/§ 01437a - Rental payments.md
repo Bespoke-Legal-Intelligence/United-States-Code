@@ -200,6 +200,34 @@ Carbon monoxide alarms.—Each public housing agency shall ensure that carbon mo
 
 &emsp;(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
+#### (9) Qualifying smoke alarms
+
+#### (A) In general
+
+&emsp;&emsp;Each public housing agency shall ensure that a qualifying smoke alarm is installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in any dwelling unit in public housing owned or operated by the public housing agency, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+#### (B) Definitions
+
+&emsp;&emsp;For purposes of this paragraph, the following definitions shall apply:
+
+#### (i) Smoke alarm defined
+
+&emsp;&emsp;&emsp;The term "smoke alarm" has the meaning given the term "smoke detector" in section 2225(d) of title 15.
+
+#### (ii) Qualifying smoke alarm defined
+
+&emsp;&emsp;&emsp;The term "qualifying smoke alarm" means a smoke alarm that—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa)(AA) is hardwired; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
 #### (b) Definition of terms under this chapter
 
 When used in this chapter:
@@ -348,7 +376,7 @@ program.—For purposes of the program for tenant-based assistance under section
 
 &emsp;&emsp;(i) a consortia of public housing agencies that the Secretary determines has the capacity and capability to administer a program for assistance under such section in an efficient manner;
 
-&emsp;&emsp;(ii) any other public or private nonprofit entity that, upon the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, was administering any program for tenant-based assistance under section 1437f of this title (asin effect before the effective date of such Act), pursuant to a contract with the Secretary or a public housing agency; and
+&emsp;&emsp;(ii) any other public or private nonprofit entity that, upon the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, was administering any program for tenant-based assistance under section 1437f of this title (as in effect before the effective date of such Act), pursuant to a contract with the Secretary or a public housing agency; and
 
 &emsp;&emsp;(iii) with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance <sup>4</sup> section 1437f of this title, or is not performing effectively—
 
@@ -386,7 +414,7 @@ When used in reference to public housing:
 
 (1) The term "development" means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term "development cost" comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project, but does not include the costs associated with the demolition of or remediation of environmental hazards associated with public housing units that will not be replaced on the project site, or other extraordinary site costs as determined by the Secretary. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
-(2) The term "operation" means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term "tenant programs and services" includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
+(2) The term "operation" means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term "tenant programs and services" includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of theirservices in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
 (3) The term "acquisition cost" means the amount prudently required to be expended by a public housing agency in acquiring property for a low-income housing project.
 
@@ -398,7 +426,7 @@ When used in reference to public housing:
 
 #### (1) Disclosure to PHA
 
-&emsp;A public housing agency, or the owner responsible for determining the participant's eligibility or level of benefits, shall require any family described in paragraph (2) who receives information regarding income, earnings, wages, or unemployment compensation from the Department of Housing and Urban Development pursuant to income verification procedures of the Department to disclose such information, upon receipt of the information, to the public housing agency that owns or operates the public housing dwelling unit in which such family resides or that provides the housing assistance under this chapter on behalf ofsuch family, as applicable, or to the owner responsible for determining the participant's eligibility or level of benefits.
+&emsp;A public housing agency, or the owner responsible for determining the participant's eligibility or level of benefits, shall require any family described in paragraph (2) who receives information regarding income, earnings, wages, or unemployment compensation from the Department of Housing and Urban Development pursuant to income verification procedures of the Department to disclose such information, upon receipt of the information, to the public housing agency that owns or operates the public housing dwelling unit in which such family resides or that provides the housing assistance under this chapter on behalf of such family, as applicable, or to the owner responsible for determining the participant's eligibility or level of benefits.
 
 #### (2) Families covered
 
@@ -411,40 +439,6 @@ When used in reference to public housing:
 &emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>1</sup> of this title, or section 811.<sup>1</sup>
 
 (Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title I \[title II, §§202, 206(a)–(c)\], Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 110–289, div. B, title VI, §2608, July 30, 2008, 122 Stat. 2862; Pub. L. 113–76, div. L, title II, §§210, 212, 238(a), Jan. 17, 2014, 128 Stat. 625, 626, 635; Pub. L. 113–235, div. K, title II, §238, Dec. 16, 2014, 128 Stat. 2758; Pub. L. 114–94, div. G, title LXXVIII, §78001(a), Dec. 4, 2015, 129 Stat. 1791; Pub. L. 114–201, title I, §102(a), (c), July 29, 2016, 130 Stat. 786, 788; Pub. L. 116–260, div. Q, title I, §§101(b)(1), 103(a), Dec. 27, 2020, 134 Stat. 2163, 2166; Pub. L. 117–328, div. AA, title VI, §601(a)(1), Dec. 29, 2022, 136 Stat. 5542.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 117–328, div. AA, title VI, §601(a)(1), (h), Dec. 29, 2022, 136 Stat. 5542, 5548, provided that, effective two years after Dec. 29, 2022, subsection (a) of this section is amended by adding at the end the following:</i>
-
-#### <i>(9) Qualifying smoke alarms</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Each public housing agency shall ensure that a qualifying smoke alarm is installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in any dwelling unit in public housing owned or operated by the public housing agency, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.</i>
-
-#### <i>(B) Definitions</i>
-
-&emsp;&emsp;<i>For purposes of this paragraph, the following definitions shall apply:</i>
-
-#### <i>(i) Smoke alarm defined</i>
-
-&emsp;&emsp;&emsp;<i>The term "smoke alarm" has the meaning given the term "smoke detector" in section 2225(d) of title 15.</i>
-
-#### <i>(ii) Qualifying smoke alarm defined</i>
-
-&emsp;&emsp;&emsp;<i>The term "qualifying smoke alarm" means a smoke alarm that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa)(AA) is hardwired; or</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -462,7 +456,7 @@ The Immigration and Nationality Act, referred to in subsec. (a)(3)(B)(i)(I), is 
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(3)(B)(i)(I), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (a)(7)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. PartA of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(7)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2012 (Public Law 112–248; 126 Stat. 2392), referred to in subsec. (a)(7)(E), is section 5 of Pub. L. 112–248, which was formerly set out in a note under section 3321 of Title 31, Money and Finance, prior to repeal by Pub. L. 116–117, §3(a)(3), Mar. 2, 2020, 134 Stat. 133. See section 3354 of Title 31.
 
@@ -530,11 +524,11 @@ Subsec. (b)(1). Pub. L. 105–276, §506(1), inserted after second sentence "The
 
 Subsec. (b)(2). Pub. L. 105–276, §508(c)(1), substituted "limits for Westchester and Rockland Counties" for "limits for Westchester County", inserted "each" before "such county", substituted "include Westchester or Rockland Counties" for "include Westchester County" and "included Westchester and Rockland Counties" for "included Westchester County", and inserted at end "In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area."
 
-Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end "In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled,or displaced persons before single persons who are eligible under clause (v) of the first sentence."
+Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end "In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence."
 
 Subsec. (b)(3)(B). Pub. L. 105–276, §506(2)(B), substituted "public housing agency plan" for "regulations of the Secretary" in second sentence.
 
-Subsec. (b)(3)(E). Pub. L. 105–276, §506(3), inserted at end "Notwithstanding any other provision of law, no individual shall be considered a person with disabilities, for purposes of eligibility for low-income housing under this subchapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence."
+Subsec. (b)(3)(E). Pub. L. 105–276, §506(3), inserted at end "Notwithstanding any other provision of law, noindividual shall be considered a person with disabilities, for purposes of eligibility for low-income housing under this subchapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence."
 
 Subsec. (b)(5). Pub. L. 105–276, §508(a), amended par. (5) generally, substituting present provisions for provisions which had defined "adjusted income" as income which remained after excluding $550 for each member of family in household under 18 years of age, disabled, or a student, $400 for any elderly or disabled family, the amount by which medical and related expenses exceeded 3 percent of income, child care expenses, 10 percent of earned income, and any payment made for support and maintenance of nonresident child, spouse, or former spouse.
 
@@ -688,7 +682,7 @@ Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income 
 
 Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) authorizing increase from 15 to 30 per centum in the single person occupancy limitation for nonoccupancy of the involved dwelling units.
 
-Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from "adjusted income" ofsuch amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
+Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from "adjusted income" of such amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
 
 <b>1981</b>—Pub. L. 97–35 added subsecs. (a) and (c) and designated provisions constituting former section as subsec. (b), and in subsec. (b) as so designated, substituted provisions defining "lower income housing", "lower income families", "families", "income", "adjusted income", "public housing agency", "State", and "Secretary" for provisions defining "low-income housing", "low-income families", "development", "operation", "acquisition cost", "public housing agency", "State", "Secretary", and "low-income housing project".
 
@@ -900,7 +894,7 @@ Repayment of Additional Rent Paid Under HUD Housing Programs Because of Failure 
 
 &emsp;"(1)
 
-Authority.—To the extent that amounts are provided in appropriation Acts for payments underthis subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
+Authority.—To the extent that amounts are provided in appropriation Acts for payments under this subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
 
 &emsp;"(2)
 
@@ -960,9 +954,9 @@ Pub. L. 98–181, title I \[title II, §206(d)\], Nov. 30, 1983, 97 Stat. 1180, 
 
 "(2) Tenants of assisted housing other than those referred to in paragraph (1) shall be subject to immediate rent payment or contribution determinations in accordance with applicable law and without regard to the provisions of paragraph (1), but the Secretary shall provide that the rent or contribution payable by any such tenant who is occupying assisted housing on the effective date of any provision of Federal law or regulation shall not increase, as a result of any such provision of Federal law or regulation, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such law or regulation.
 
-"(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted to assistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
+"(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted to assistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
 
-"(4)(A) Notwithstanding any other provision of law, in the case of the conversion of any assistance under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 236(f)(2) of the National Housing Act \[12 U.S.C. 1715z–1(f)(2)\], or section 23 of the United States Housing Act of 1937 \[section 1421b of this title\] (as in effect before the date of the enactment of the Housing and Community Development Act of 1974 \[Aug. 22, 1974\]) to assistance under section 8 of the United States Housing Act of 1937, any increase in rent payments or contributions resulting from such conversion, and from the amendments made by this section of any tenant benefiting from such assistance who is sixty-two years of age or older may not exceed 10 per centum per annum.
+"(4)(A) Notwithstanding any other provision of law, in the case of the conversion of any assistance under section 101 of the Housing and Urban Development Actof 1965 \[12 U.S.C. 1701s\], section 236(f)(2) of the National Housing Act \[12 U.S.C. 1715z–1(f)(2)\], or section 23 of the United States Housing Act of 1937 \[section 1421b of this title\] (as in effect before the date of the enactment of the Housing and Community Development Act of 1974 \[Aug. 22, 1974\]) to assistance under section 8 of the United States Housing Act of 1937, any increase in rent payments or contributions resulting from such conversion, and from the amendments made by this section of any tenant benefiting from such assistance who is sixty-two years of age or older may not exceed 10 per centum per annum.
 
 "(B) In the case of any such conversion of assistance occurring on or after October 1, 1981, and before the date of the enactment of this section \[Nov. 30, 1983\], the rental payments due after such date of enactment by any tenant benefiting from such assistance who was sixty-two years of age or older on the date of such conversion shall be computed as if the tenant's rental payment or contribution had, on the date of conversion, been the lesser of the actual rental payment or contribution required, or 25 per centum of the tenant's income.
 

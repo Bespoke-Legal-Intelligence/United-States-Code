@@ -8,7 +8,7 @@ A local educational agency may receive funds under a covered program for any fis
 
 #### (1) In general
 
-&emsp;The State educational agency shall reduce the amount of the allocation of funds under a covered program in any fiscal year in the exact proportion by which a local educational agency fails to meet the requirement of subsection (a) of this section by falling below 90 percent of both the combined fiscal effort per student and aggregate expenditures (using the measure most favorable to the local agency), if such local educational agency has also failed to meet such requirement (as determined using the measure most favorable to the local agency) for 1 or more of the 5 immediately preceding fiscal years.
+&emsp;The State educational agency shall reduce the amount of the allocation of funds under acovered program in any fiscal year in the exact proportion by which a local educational agency fails to meet the requirement of subsection (a) of this section by falling below 90 percent of both the combined fiscal effort per student and aggregate expenditures (using the measure most favorable to the local agency), if such local educational agency has also failed to meet such requirement (as determined using the measure most favorable to the local agency) for 1 or more of the 5 immediately preceding fiscal years.
 
 #### (2) Special rule
 
@@ -18,7 +18,7 @@ A local educational agency may receive funds under a covered program for any fis
 
 The Secretary may waive the requirements of this section if the Secretary determines that a waiver would be equitable due to—
 
-&emsp;(1) exceptional or uncontrollable circumstances, such as a natural disaster or achange in the organizational structure of the local educational agency; or
+&emsp;(1) exceptional or uncontrollable circumstances, such as a natural disaster or a change in the organizational structure of the local educational agency; or
 
 &emsp;(2) a precipitous decline in the financial resources of the local educational agency.
 

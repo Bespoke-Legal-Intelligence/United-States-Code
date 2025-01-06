@@ -2,7 +2,7 @@
 
 #### (a) Requirement for certification
 
-Notwithstanding any other provision of law, a civil action may not lie or be maintained in a Federal or State court against any person for providing assistance to an element of the intelligence community, and shall be promptly dismissed, if the Attorney General certifies to the district court of the United States in which such action is pending that—
+Notwithstanding any other provision of law, a civil action may not lie or be maintained in aFederal or State court against any person for providing assistance to an element of the intelligence community, and shall be promptly dismissed, if the Attorney General certifies to the district court of the United States in which such action is pending that—
 
 &emsp;(1) any assistance by that person was provided pursuant to an order of the court established under section 1803(a) of this title directing such assistance;
 
@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, a civil action may not lie or be mai
 
 &emsp;&emsp;&emsp;(i) authorized by the President during the period beginning on September 11, 2001, and ending on January 17, 2007; and
 
-&emsp;&emsp;&emsp;(ii) designed to detect or prevent a terrorist attack, or activities in preparationfor a terrorist attack, against the United States; and
+&emsp;&emsp;&emsp;(ii) designed to detect or prevent a terrorist attack, or activities in preparation for a terrorist attack, against the United States; and
 
 &emsp;&emsp;(B) the subject of a written request or directive, or a series of written requests or directives, from the Attorney General or the head of an element of the intelligence community (or the deputy of such person) to the electronic communication service provider indicating that the activity was—
 

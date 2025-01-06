@@ -6,7 +6,7 @@ Required Deposits.—An agreement to establish a capital construction fund shall
 
 (b)
 
-Applicable Requirements.—Deposits in and withdrawals from the fund are subject to the requirements included in the agreement or prescribed by the Secretary by regulation. However, the Secretary may not require a person to deposit in the fund for a taxable year more than 50 percent of that portion of the person's taxable income for that year (as determined under section 53505(a)(1) of this title) that is attributable to the operation of an agreement vessel.
+Applicable Requirements.—Deposits in and withdrawals from the fund are subject to the requirements included in the agreement or prescribed by the Secretary by regulation. However, the Secretary may not require a person to deposit in the fund for a taxable year more than 50 percent of that portion of the person's taxableincome for that year (as determined under section 53505(a)(1) of this title) that is attributable to the operation of an agreement vessel.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593.)
 

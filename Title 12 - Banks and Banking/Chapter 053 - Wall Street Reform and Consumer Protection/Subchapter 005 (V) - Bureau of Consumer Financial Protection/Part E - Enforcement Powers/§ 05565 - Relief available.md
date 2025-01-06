@@ -70,7 +70,7 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 #### (4) Authority to modify or remit penalty
 
-&emsp;The Bureau may compromise, modify, or remit any penalty which may be assessed or had already been assessed under paragraph (2). The amount of such penalty, when finally determined, shall be exclusive of any sums owed by the person to the United States in connection with the costs of the proceeding, and may be deducted from any sums owing by the United States to the person charged.
+&emsp;The Bureau may compromise, modify, or remit any penalty which may be assessed or had already been assessed under paragraph (2). The amount of such penalty, when finally determined, shall be exclusive of any sums owed by the person to the United States in connection with the costs of the proceeding, and maybe deducted from any sums owing by the United States to the person charged.
 
 #### (5) Notice and hearing
 

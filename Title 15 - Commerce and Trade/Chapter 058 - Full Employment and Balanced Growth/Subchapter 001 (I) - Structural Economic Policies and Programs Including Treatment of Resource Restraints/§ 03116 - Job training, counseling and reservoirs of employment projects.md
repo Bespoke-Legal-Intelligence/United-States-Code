@@ -16,7 +16,7 @@ In meeting the responsibilities under subsection (a), the Secretary of Labor sha
 
 #### (c) Establishment of project reservoirs; restrictions and requirements of new programs
 
-(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
+(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and other existing employment andtraining projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
 
 (2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
 
@@ -58,7 +58,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–128, §512(m)(1), substituted "the Secretary of Labor shall, as appropriate,fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act" for "the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" in introductory provisions.
+<b>2014</b>—Subsec. (b). Pub. L. 113–128, §512(m)(1), substituted "the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act" for "the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 113–128, §512(m)(2), substituted "the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act" for "the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998".
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(12)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(10)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(12)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998,and amendment by section 101(f) \[title VIII, §405(f)(10)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

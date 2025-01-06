@@ -200,7 +200,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (8) Effective date
 
-&emsp;Any modification made on or after January 1 and before December 1 of any calendar yearshall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any modification made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (j) EPA management of data
 
@@ -220,7 +220,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (1) In general
 
-&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administrator shall submit to Congress a report on such study no later than 5 years after October 17, 1986.
+&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administratorshall submit to Congress a report on such study no later than 5 years after October 17, 1986.
 
 #### (2) Purposes
 
@@ -264,7 +264,7 @@ Memorandum of President of the United States, Aug. 8, 1995, 60 F.R. 41791, provi
 
 Memorandum for the Administrator of the Environmental Protection Agency and the Heads of Executive Departments and Agencies
 
-The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) ("EPCRA") andthe Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
+The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) ("EPCRA") and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
 
 The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
 

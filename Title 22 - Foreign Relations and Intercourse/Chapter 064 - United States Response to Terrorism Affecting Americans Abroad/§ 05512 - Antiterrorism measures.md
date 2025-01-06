@@ -14,7 +14,7 @@ For the purpose of notifying the public, the Secretary of State shall publish th
 
 #### (d) Sense of Congress
 
-It is the sense of Congress that the Secretary of Transportation should take appropriate measures to utilize and train properly the officers and employees of other United States Government agencies who have functions at international airports in the United States and abroad in the detection of explosives and firearms which could be a threat to international civil aviation.
+It is the sense of Congress that the Secretary of Transportation should take appropriate measures to utilize and train properly the officersand employees of other United States Government agencies who have functions at international airports in the United States and abroad in the detection of explosives and firearms which could be a threat to international civil aviation.
 
 (Pub. L. 101–604, title II, §214, Nov. 16, 1990, 104 Stat. 3087.)
 

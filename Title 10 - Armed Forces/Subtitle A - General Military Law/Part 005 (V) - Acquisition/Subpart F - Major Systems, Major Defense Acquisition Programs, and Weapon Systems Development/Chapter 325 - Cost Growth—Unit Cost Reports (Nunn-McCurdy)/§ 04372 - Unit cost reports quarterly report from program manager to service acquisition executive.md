@@ -6,7 +6,7 @@ Required Reports.—
 
 &emsp;(1)
 
-Requirement.—The program manager for a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under section 4351(b)(3) of this title) shall, on a quarterly basis, submit to the service acquisition executive designated by the Secretary concerned a written report on the unit costs of the program (or of each designated major subprogram under the program).
+Requirement.—The program manager for a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under section 4351(b)(3) of this title) shall, on a quarterly basis, submit to the service acquisition executive designated by the Secretary concerned a written report on the unitcosts of the program (or of each designated major subprogram under the program).
 
 &emsp;(2)
 

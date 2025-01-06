@@ -36,7 +36,7 @@ In this subchapter:
 
 #### (8) Support
 
-&emsp;The term "support", with respect to the Burmese military, means to knowingly have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of the Burmese military.
+&emsp;The term "support", with respect to the Burmese military, means to knowingly havematerially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of the Burmese military.
 
 #### (9) United States person
 

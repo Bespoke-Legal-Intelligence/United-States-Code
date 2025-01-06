@@ -4,7 +4,7 @@
 
 (b) Payments under this section shall not exceed $6,000,000 in any fiscal year.
 
-(Added Pub. L. 100–687, div. B, title XIII, §1302(a), Nov. 18, 1988, 102 Stat. 4127, §1797; amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §2(b)(3), Mar. 22, 1991, 105 Stat. 49; renumbered §3697 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §609(a), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 110–252, title V, §5003(b)(2)(A)(vi), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 100–687, div. B, title XIII, §1302(a), Nov. 18, 1988, 102 Stat. 4127, §1797;amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §2(b)(3), Mar. 22, 1991, 105 Stat. 49; renumbered §3697 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §609(a), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 110–252, title V, §5003(b)(2)(A)(vi), June 30, 2008, 122 Stat. 2375.)
 
 #### <b>Editorial Notes</b>
 

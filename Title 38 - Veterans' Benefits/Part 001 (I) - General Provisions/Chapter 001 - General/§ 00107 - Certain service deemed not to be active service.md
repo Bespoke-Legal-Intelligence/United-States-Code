@@ -44,7 +44,7 @@ Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in
 
 Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans' Relief, which were repealed and the provisions thereof reenacted as sections 722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
-The date of the enactment of the Veterans Benefits Act of 2003, referred to in subsec. (d)(2), is the date ofenactment of Pub. L. 108–183, which was approved Dec. 16, 2003.
+The date of the enactment of the Veterans Benefits Act of 2003, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 108–183, which was approved Dec. 16, 2003.
 
 #### Amendments
 
@@ -246,7 +246,7 @@ Reports.—The Secretary shall include, in documents submitted to Congress by th
 
 "(l)
 
-Authorization of Appropriation.—There is authorized to be appropriated to the compensation fund$198,000,000, to remain available until expended, to make payments under this section."
+Authorization of Appropriation.—There is authorized to be appropriated to the compensation fund $198,000,000, to remain available until expended, to make payments under this section."
 
 #### Refund of Erroneously Deducted NSLI Premium to Philippine Veterans on Proper Application
 

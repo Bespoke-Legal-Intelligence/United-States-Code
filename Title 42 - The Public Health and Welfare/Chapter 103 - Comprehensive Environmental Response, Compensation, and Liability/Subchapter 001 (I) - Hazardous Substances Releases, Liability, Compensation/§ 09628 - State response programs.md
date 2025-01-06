@@ -40,7 +40,7 @@
 
 #### (III) Inclusion in other grants
 
-&emsp;&emsp;&emsp;&emsp;The Administrator may, at the request of a State or Indian tribe, include agrant under this clause in any other grant to the State or Indian tribe made under this subsection.
+&emsp;&emsp;&emsp;&emsp;The Administrator may, at the request of a State or Indian tribe, include a grant under this clause in any other grant to the State or Indian tribe made under this subsection.
 
 #### (iv) Definitions
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) additional response actions are likely to be necessary to address, prevent, limit, or mitigate the release or threatened release; or
 
-&emsp;&emsp;&emsp;(iv) the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded indocuments prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
+&emsp;&emsp;&emsp;(iv) the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded in documents prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
 
 #### (C) Public record
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) wait 48 hours for a reply from the State under clause (ii); or
 
-&emsp;&emsp;&emsp;&emsp;(bb) if the State fails to reply to the notification or if the Administrator makes a determination under clause (iii), take immediate action under that clause.
+&emsp;&emsp;&emsp;&emsp;(bb) if the State fails to reply to the notification or if the Administrator makes a determination under clause\(iii), take immediate action under that clause.
 
 #### (ii) State reply
 

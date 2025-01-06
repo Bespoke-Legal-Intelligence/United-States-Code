@@ -52,7 +52,7 @@ Except as provided in subsections (a)(2)(B) and (c), the tuition for postseconda
 
 In this section, the term "developing country" means a country with a per-capita income of not more than $5,345, measured in 2005 United States dollars, as adjusted by the Secretary to reflect inflation since 2005.
 
-(Pub. L. 99–371, title II, §209, formerly §210, as added Pub. L. 102–421, title I, §139, Oct. 16, 1992,106 Stat. 2163; amended Pub. L. 103–73, title II, §204(h), Aug. 11, 1993, 107 Stat. 735; renumbered §209 and amended Pub. L. 105–244, title IX, §922, Oct. 7, 1998, 112 Stat. 1832; Pub. L. 110–315, title IX, §911, Aug. 14, 2008, 122 Stat. 3454.)
+(Pub. L. 99–371, title II, §209, formerly §210, as added Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II,§204(h), Aug. 11, 1993, 107 Stat. 735; renumbered §209 and amended Pub. L. 105–244, title IX, §922, Oct. 7, 1998, 112 Stat. 1832; Pub. L. 110–315, title IX, §911, Aug. 14, 2008, 122 Stat. 3454.)
 
 #### <b>Editorial Notes</b>
 

@@ -220,7 +220,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;&emsp;&emsp;(I) meets requirements similar to the requirements referred to in clause (ii)(I), and
 
-&emsp;&emsp;&emsp;&emsp;(II) meets the standards (if any) of the National Association of Insurance Commissioners for evaluating the reasonableness of amounts paid by such person in connection with such purchases or assignments with respect to chronically ill individuals.
+&emsp;&emsp;&emsp;&emsp;(II) meets the standards (if any) of the National Association of Insurance Commissioners for evaluating the reasonableness of amounts paid by such personin connection with such purchases or assignments with respect to chronically ill individuals.
 
 #### (3) Special rules for chronically ill insureds
 
@@ -308,7 +308,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (1) In general
 
-&emsp;Gross income does not include amounts (whether in a single sum or otherwise) paid by an employer by reason of the death of an employee who is a specified terrorist victim (as defined in section 692(d)(4)).
+&emsp;Gross income does not include amounts (whether in a single sum or otherwise) paid byan employer by reason of the death of an employee who is a specified terrorist victim (as defined in section 692(d)(4)).
 
 #### (2) Limitation
 
@@ -450,7 +450,7 @@ Subsec. (c). Pub. L. 104–188, §1402(b)(1), substituted "subsection (a)" for "
 
 Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendmentread as follows: "There shall be excluded from the gross income of such beneficiary in the taxable year received—
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: "There shall be excluded from the gross income of such beneficiary in the taxable year received—
 
 &emsp;"(A) any amount determined by such proration, and
 
@@ -526,7 +526,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending thissection and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
+Pub. L. 105–34, title X, §1084(d), Aug. 5, 1997, 111 Stat. 955, as amended by Pub. L. 105–206, title VI, §6010(o)(3)(B), July 22, 1998, 112 Stat. 816, provided that: "The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract."
 
 Pub. L. 105–34, title XV, §1528(b), Aug. 5, 1997, 111 Stat. 1075, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996."
 
@@ -546,7 +546,7 @@ Amendment by section 221(b)(2) of Pub. L. 98–369 effective Jan. 1, 1984, see s
 
 Amendment by section 421(b)(2) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have repeal apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
-Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity andFiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendment
 

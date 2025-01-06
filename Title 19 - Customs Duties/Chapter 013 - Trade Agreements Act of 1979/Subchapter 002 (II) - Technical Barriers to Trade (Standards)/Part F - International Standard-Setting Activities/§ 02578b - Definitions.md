@@ -48,7 +48,7 @@ The definitions set forth in section 2575b of this title apply for purposes of t
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. O, title VI, §602(g), Dec. 27, 2020, 134 Stat. 2154, provided that: "This section \[amending this section, sections 2702 to 2703a, 3721, 3722, and 4362 ofthis title, section 11 of Title 35, Patents, and section 2296b of Title 42, The Public Health and Welfare\] and the amendments made by this section shall take effect on July 1, 2020."
+Pub. L. 116–260, div. O, title VI, §602(g), Dec. 27, 2020, 134 Stat. 2154, provided that: "This section \[amending this section, sections 2702 to 2703a, 3721, 3722, and 4362 of this title, section 11 of Title 35, Patents, and section 2296b of Title 42, The Public Health and Welfare\] and the amendments made by this section shall take effect on July 1, 2020."
 
 #### Effective Date
 

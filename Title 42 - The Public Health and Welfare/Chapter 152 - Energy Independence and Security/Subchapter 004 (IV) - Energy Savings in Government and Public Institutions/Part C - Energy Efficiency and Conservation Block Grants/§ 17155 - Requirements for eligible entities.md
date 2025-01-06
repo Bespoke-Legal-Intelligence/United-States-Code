@@ -80,7 +80,7 @@
 
 #### (4) Annual report
 
-&emsp;Not later than 2 years after the date on which funds are initially provided to an eligible unit of local government or Indian tribe under the program, and annually thereafter, the eligible unit of local government or Indiantribe shall submit to the Secretary a report describing—
+&emsp;Not later than 2 years after the date on which funds are initially provided to an eligible unit of local government or Indian tribe under the program, and annually thereafter, the eligible unit of local government or Indian tribe shall submit to the Secretary a report describing—
 
 &emsp;&emsp;(A) the status of development and implementation of the energy efficiency and conservation strategy of the eligible unit of local government or Indian tribe; and
 

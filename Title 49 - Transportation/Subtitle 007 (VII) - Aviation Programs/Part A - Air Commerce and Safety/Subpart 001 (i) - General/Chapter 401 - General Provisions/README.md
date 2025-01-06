@@ -20,7 +20,7 @@
 | [40116\.](%C2%A7%2040116%20-%20State%20taxation.md) | State taxation. |
 | [40117\.](%C2%A7%2040117%20-%20Passenger%20facility%20charges.md) | Passenger facility charges. |
 | [40118\.](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md) | Government-financed air transportation. |
-| [40119\.](%C2%A7%2040119%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93254%2C%20div.%20K%2C%20title%20I%2C%20%C2%A71991%28c%29%283%29%2C%20Oct.%205%2C%202018%2C%20132%20Stat.%203627.md) | \[Reserved\]. |
+| [40119\.](%C2%A7%2040119%20-%20Sensitive%20security%20information.md) | Sensitive security information. |
 | [40120\.](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [40121\.](%C2%A7%2040121%20-%20Air%20traffic%20control%20modernization%20reviews.md) | Air traffic control modernization reviews. |
 | [40122\.](%C2%A7%2040122%20-%20Federal%20Aviation%20Administration%20personnel%20management%20system.md) | Federal Aviation Administration personnel management system. |
@@ -32,12 +32,16 @@
 | [40128\.](%C2%A7%2040128%20-%20Overflights%20of%20national%20parks.md) | Overflights of national parks. |
 | [40129\.](%C2%A7%2040129%20-%20Collaborative%20decisionmaking%20pilot%20program.md) | Collaborative decisionmaking pilot program. |
 | [40130\.](%C2%A7%2040130%20-%20FAA%20authority%20to%20conduct%20criminal%20history%20record%20checks.md) | FAA authority to conduct criminal history record checks. |
+| [40131\.](%C2%A7%2040131%20-%20National%20airspace%20system%20cyber%20threat%20management%20process.md) | National airspace system cyber threat management process. |
+| [40132\.](%C2%A7%2040132%20-%20National%20strategic%20plan%20for%20aviation%20workforce%20development.md) | National strategic plan for aviation workforce development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–63, title II, §223(c), title III, §393(b), title IV, §441(b), May 16, 2024, 138 Stat. 1061, 1145, 1186, added items 40119, 40131, and 40132.
 
 <b>2018</b>—Pub. L. 115–254, div. K, title I, §1991(c)(4), Oct. 5, 2018, 132 Stat. 3627, substituted "\[Reserved\]" for "Security and research and development activities" in item 40119.
 
@@ -76,7 +80,7 @@ Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 199
 - [&sect; 40116 - State taxation](%C2%A7%2040116%20-%20State%20taxation.md)
 - [&sect; 40117 - Passenger facility charges](%C2%A7%2040117%20-%20Passenger%20facility%20charges.md)
 - [&sect; 40118 - Government-financed air transportation](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md)
-- [&sect; 40119 - Repealed. Pub. L. 115&#8211;254, div. K, title I, &sect;1991(c)(3), Oct. 5, 2018, 132 Stat. 3627](%C2%A7%2040119%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93254%2C%20div.%20K%2C%20title%20I%2C%20%C2%A71991%28c%29%283%29%2C%20Oct.%205%2C%202018%2C%20132%20Stat.%203627.md)
+- [&sect; 40119 - Sensitive security information](%C2%A7%2040119%20-%20Sensitive%20security%20information.md)
 - [&sect; 40120 - Relationship to other laws](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md)
 - [&sect; 40121 - Air traffic control modernization reviews](%C2%A7%2040121%20-%20Air%20traffic%20control%20modernization%20reviews.md)
 - [&sect; 40122 - Federal Aviation Administration personnel management system](%C2%A7%2040122%20-%20Federal%20Aviation%20Administration%20personnel%20management%20system.md)
@@ -88,3 +92,5 @@ Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 199
 - [&sect; 40128 - Overflights of national parks](%C2%A7%2040128%20-%20Overflights%20of%20national%20parks.md)
 - [&sect; 40129 - Collaborative decisionmaking pilot program](%C2%A7%2040129%20-%20Collaborative%20decisionmaking%20pilot%20program.md)
 - [&sect; 40130 - FAA authority to conduct criminal history record checks](%C2%A7%2040130%20-%20FAA%20authority%20to%20conduct%20criminal%20history%20record%20checks.md)
+- [&sect; 40131 - National airspace system cyber threat management process](%C2%A7%2040131%20-%20National%20airspace%20system%20cyber%20threat%20management%20process.md)
+- [&sect; 40132 - National strategic plan for aviation workforce development](%C2%A7%2040132%20-%20National%20strategic%20plan%20for%20aviation%20workforce%20development.md)

@@ -86,7 +86,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 &emsp;&emsp;If, at any time during the testing period, the employee is not an eligible individual, then the amount of the qualified HSA distribution—
 
-&emsp;&emsp;&emsp;(i) shall be includible in the gross income of the employee for the taxable year inwhich occurs the first month in the testing period for which such employee is not an eligible individual, and
+&emsp;&emsp;&emsp;(i) shall be includible in the gross income of the employee for the taxable year in which occurs the first month in the testing period for which such employee is not an eligible individual, and
 
 &emsp;&emsp;&emsp;(ii) the tax imposed by this chapter for such taxable year on the employee shall be increased by 10 percent of the amount which is so includible.
 
@@ -130,7 +130,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (f) Reimbursements for menstrual care products
 
-For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
+For purposes of this section and section 105, expenses incurred for menstrual care products\(as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
 
 #### (g) Qualified small employer health reimbursement arrangement
 
@@ -172,7 +172,7 @@ Subsec. (b)(6). Pub. L. 106–554 §1(a)(7) \[title II, §202(a)(2)\], substitut
 
 Subsec. (b)(7). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(A)\], substituted "Archer MSAs" for "medical savings accounts".
 
-<b>1996</b>—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows:"Gross income of an employee does not include employer-provided coverage under an accident or health plan."
+<b>1996</b>—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: "Gross income of an employee does not include employer-provided coverage under an accident or health plan."
 
 Subsec. (c). Pub. L. 104–191, §321(c)(2), added subsec. (c).
 
@@ -208,7 +208,7 @@ Pub. L. 111–148, title IX, §9003(d)(2), Mar. 23, 2010, 124 Stat. 854, provide
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title III, §302(c)(1), Dec. 20, 2006, 120 Stat. 2949, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
+Pub. L. 109–432, div. A, title III, §302(c)(1), Dec. 20, 2006, 120 Stat. 2949, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall apply to distributions on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 2003 Amendment
 

@@ -12,7 +12,7 @@
 
 #### (b) Exception
 
-No tax shall be imposed under this section with respect to any distribution if a tax hasbeen imposed with respect to such distribution under section 4958.
+No tax shall be imposed under this section with respect to any distribution if a tax has been imposed with respect to such distribution under section 4958.
 
 #### (c) Special rules
 

@@ -17,15 +17,19 @@
 | [2813\.](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md) | Acquisition of existing facilities in lieu of authorized construction. |
 | [2814\.](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md) | Special authority for development of Ford Island, Hawaii. |
 | [2815\.](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md) | Military installation resilience projects. |
-| [2815a.](%C2%A7%2002815a%20-%20Stormwater%20management%20projects%20for%20installation%20and%20defense%20access%20road%20resilience%20and%20waterway%20and%20ecosystems%20conservation.md) | Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation. |
+| [2815a.](%C2%A7%2002815a%20-%20Stormwater%20management%2C%20shoreline%20erosion%20control%2C%20and%20water%20resilience%20projects%20for%20installations%20and%20defense%20access%20roads.md) | Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads. |
 | [2816\.](%C2%A7%2002816%20-%20Consideration%20of%20energy%20security%20and%20energy%20resilience%20in%20life-cycle%20cost%20for%20military%20construction.md) | Consideration of energy security and energy resilience in life-cycle cost for military construction. |
 | [2817\.](%C2%A7%2002817%20-%20Authority%20for%20certain%20construction%20projects%20in%20friendly%20foreign%20countries.md) | Authority for certain construction projects in friendly foreign countries. |
+| [2818\.](%C2%A7%2002818%20-%20Contracts%20for%20design%20and%20construction%20of%20facilities%20of%20Department%20of%20Defense.md) | Contracts for design and construction of facilities of Department of Defense. |
+| [2819\.](%C2%A7%2002819%20-%20Strategy%20and%20assessment%20with%20respect%20to%20non-operational%2C%20underutilized%2C%20and%20other%20Department%20of%20Defense%20facilities%20assessments%20of%E2%80%A6.md) | Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. B, title XXVIII, §§2822(a), 2843, 2847(a)(1), Dec. 23, 2024, 138 Stat. 2254, 2263, 2264, substituted "Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads" for "Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation" in item 2815a and added items 2818 and 2819. Amendments were made pursuant to operation of section 102 of this title.
 
 <b>2023</b>—Pub. L. 118–31, div. B, title XXVIII, §2805, Dec. 22, 2023, 137 Stat. 744, added item 2817. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -85,6 +89,8 @@ Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added it
 - [&sect; 02813 - Acquisition of existing facilities in lieu of authorized construction](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md)
 - [&sect; 02814 - Special authority for development of Ford Island, Hawaii](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md)
 - [&sect; 02815 - Military installation resilience projects](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md)
-- [&sect; 02815a - Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation](%C2%A7%2002815a%20-%20Stormwater%20management%20projects%20for%20installation%20and%20defense%20access%20road%20resilience%20and%20waterway%20and%20ecosystems%20conservation.md)
+- [&sect; 02815a - Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads](%C2%A7%2002815a%20-%20Stormwater%20management%2C%20shoreline%20erosion%20control%2C%20and%20water%20resilience%20projects%20for%20installations%20and%20defense%20access%20roads.md)
 - [&sect; 02816 - Consideration of energy security and energy resilience in life-cycle cost for military construction](%C2%A7%2002816%20-%20Consideration%20of%20energy%20security%20and%20energy%20resilience%20in%20life-cycle%20cost%20for%20military%20construction.md)
 - [&sect; 02817 - Authority for certain construction projects in friendly foreign countries](%C2%A7%2002817%20-%20Authority%20for%20certain%20construction%20projects%20in%20friendly%20foreign%20countries.md)
+- [&sect; 02818 - Contracts for design and construction of facilities of Department of Defense](%C2%A7%2002818%20-%20Contracts%20for%20design%20and%20construction%20of%20facilities%20of%20Department%20of%20Defense.md)
+- [&sect; 02819 - Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities assessments of&#8230;](%C2%A7%2002819%20-%20Strategy%20and%20assessment%20with%20respect%20to%20non-operational%2C%20underutilized%2C%20and%20other%20Department%20of%20Defense%20facilities%20assessments%20of%E2%80%A6.md)

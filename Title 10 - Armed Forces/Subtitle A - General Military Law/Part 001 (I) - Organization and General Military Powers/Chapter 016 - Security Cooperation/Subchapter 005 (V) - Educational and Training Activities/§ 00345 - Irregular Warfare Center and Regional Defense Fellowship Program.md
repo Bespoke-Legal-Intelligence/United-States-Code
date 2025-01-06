@@ -150,7 +150,7 @@ Annual Review of Irregular Warfare Center.—Not later than December 1, 2024, an
 
 &emsp;(2) may, after an annual review under paragraph (1), revise the relevant structure and activities so as to more appropriately align such structure and activities with the strategic priorities and combatant commands.
 
-(Added Pub. L. 108–136, div. A, title XII, §1221(a)(1), Nov. 24, 2003, 117 Stat. 1651, §2249c; amended Pub. L. 109–364, div. A, title XII, §1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, \[div. A\], title XII, §1209(a), Oct. 14,2008, 122 Stat. 4627; Pub. L. 113–66, div. A, title X, §1032(a), Dec. 26, 2013, 127 Stat. 850; renumbered §345 and amended Pub. L. 114–328, div. A, title XII, §1247(a)–(c), Dec. 23, 2016, 130 Stat. 2521; Pub. L. 115–232, div. A, title XII, §1209(a), (b)(1), Aug. 13, 2018, 132 Stat. 2022, 2023; Pub. L. 117–263, div. A, title XII, §1204(a), Dec. 23, 2022, 136 Stat. 2827.)
+(Added Pub. L. 108–136, div. A, title XII, §1221(a)(1), Nov. 24, 2003, 117 Stat. 1651, §2249c; amended Pub. L. 109–364, div. A, title XII, §1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, \[div. A\], title XII, §1209(a), Oct. 14, 2008, 122 Stat. 4627; Pub. L. 113–66, div. A, title X, §1032(a), Dec. 26, 2013, 127 Stat. 850; renumbered §345 and amended Pub. L. 114–328, div. A, title XII, §1247(a)–(c), Dec. 23, 2016, 130 Stat. 2521; Pub. L. 115–232, div. A, title XII, §1209(a), (b)(1), Aug. 13, 2018, 132 Stat. 2022, 2023; Pub. L. 117–263, div. A, title XII, §1204(a), Dec. 23, 2022, 136 Stat. 2827.)
 
 #### <b>Editorial Notes</b>
 
@@ -226,7 +226,7 @@ Pub. L. 108–136, div. A, title XII, §1221(b), Nov. 24, 2003, 117 Stat. 1651, 
 
 &emsp;"(1) prescribe the final regulations for carrying out section 2249c of title 10, United States Code, as added by subsection (a); and
 
-&emsp;"(2) notify the congressional defense committees \[Committees on Armed Services and Appropriationsof the Senate and House of Representatives\] of the prescription of such regulations."
+&emsp;"(2) notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and House of Representatives\] of the prescription of such regulations."
 
 #### Termination of Reporting Requirements
 

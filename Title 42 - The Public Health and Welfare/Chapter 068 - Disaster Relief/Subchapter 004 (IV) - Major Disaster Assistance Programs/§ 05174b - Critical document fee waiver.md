@@ -30,7 +30,7 @@ The assistance limit in section 5174(h) of this title shall not apply to any fee
 
 #### (4) Report
 
-Not later than 365 days after October 5, 2018, the Administrator and the head of any other agency given critical document fee waiver authority under this subsection shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the costs associated with providing critical document fee waivers as described in paragraph (1).
+Not later than 365 days after October 5, 2018, the Administrator and the head of any otheragency given critical document fee waiver authority under this subsection shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the costs associated with providing critical document fee waivers as described in paragraph (1).
 
 (Pub. L. 115–254, div. D, §1238(a), Oct. 5, 2018, 132 Stat. 3465.)
 

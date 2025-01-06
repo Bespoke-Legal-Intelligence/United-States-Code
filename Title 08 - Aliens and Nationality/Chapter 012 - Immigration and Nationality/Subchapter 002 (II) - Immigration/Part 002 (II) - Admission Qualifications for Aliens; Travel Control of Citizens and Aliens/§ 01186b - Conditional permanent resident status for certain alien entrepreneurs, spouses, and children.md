@@ -18,7 +18,7 @@
 
 #### (C) Effect of failure to provide notice
 
-&emsp;&emsp;The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of theprovisions of this section with respect to such an investor, spouse, or child.
+&emsp;&emsp;The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an investor, spouse, or child.
 
 #### (b) Termination of status if finding that qualifying investment improper
 
@@ -46,7 +46,9 @@
 
 &emsp;&emsp;(A) the alien investor shall submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);
 
-&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and <sup>1</sup>
+&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and
+
+&emsp;&emsp;(C) the Secretary shall have performed a site visit to the relevant corporate office or business location described in section 1153(b)(5)(F)(iv) of this title.
 
 #### (2) Termination of permanent resident status for failure to file petition or have personal interview
 
@@ -74,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) the alien investor appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Secretary of Homeland Security shall make a determination, within 90 days of the date of such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Secretary of Homeland Security shall make a determination, within 90 days of thedate of such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
 #### (B) Removal or extension of conditional basis
 
@@ -166,15 +168,7 @@ In this section:
 
 &emsp;(3) The term "commercial enterprise" includes any entity formed for the purpose of doing for-profit business.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29,1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 117–103, div. BB, §104(a), Mar. 15, 2022, 136 Stat. 1100.)
-
-#### Enactment of Subsection (c)(1)(C)
-
-<i>Pub. L. 117–103, div. BB, §104(a)(5)(B)(iv), (b), Mar. 15, 2022, 136 Stat. 1101, 1102, provided that, effective 2 years after March 15, 2022, subsection (c)(1) of this section is amended by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(C) the Secretary shall have performed a site visit to the relevant corporate office or business location described in section 1153(b)(5)(F)(iv) of this title."</i>
-
-<i>See 2022 Amendment note below.</i>
+(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 117–103, div. BB, §104(a), Mar. 15, 2022, 136 Stat. 1100.)
 
 #### <b>Editorial Notes</b>
 
@@ -565,6 +559,4 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 #### "SEC. 11034. DEFINITIONS.
 
 "Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms in section 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b))."
-
-<i><sup>1</sup></i><i> See Enactment of Subsection (c)(1)(C) note below.</i>
 

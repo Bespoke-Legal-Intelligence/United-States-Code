@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 &emsp;(6) Congress and the Federal courts have repeatedly recognized tribal justice systems as the most appropriate forums for the adjudication of disputes affecting personal and property rights on Native lands;
 
-&emsp;(7) enhancing tribal court systems and improving access to those systems serves thedual Federal goals of tribal political self-determination and economic self-sufficiency;
+&emsp;(7) enhancing tribal court systems and improving access to those systems serves the dual Federal goals of tribal political self-determination and economic self-sufficiency;
 
 &emsp;(8) there is both inadequate funding and an inadequate coordinating mechanism to meet the technical and legal assistance needs of tribal justice systems and this lack of adequate technical and legal assistance funding impairs their operation;
 

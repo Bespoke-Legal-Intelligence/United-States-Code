@@ -54,7 +54,7 @@ Pub. L. 110–28, title VIII, §8213(b), May 25, 2007, 121 Stat. 193, provided t
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1112(a)(3), Aug. 20, 1996, 110 Stat. 1759, provided that: "The amendments made bythis subsection \[amending this section and provisions set out as a note under section 38 of this title\] shall take effect as if included in the amendments made by, and the provisions of, section 13443 of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66\]."
+Pub. L. 104–188, title I, §1112(a)(3), Aug. 20, 1996, 110 Stat. 1759, provided that: "The amendments made by this subsection \[amending this section and provisions set out as a note under section 38 of this title\] shall take effect as if included in the amendments made by, and the provisions of, section 13443 of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66\]."
 
 Pub. L. 104–188, title I, §1112(b)(2), Aug. 20, 1996, 110 Stat. 1759, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to tips received for services performed after December 31, 1996."
 

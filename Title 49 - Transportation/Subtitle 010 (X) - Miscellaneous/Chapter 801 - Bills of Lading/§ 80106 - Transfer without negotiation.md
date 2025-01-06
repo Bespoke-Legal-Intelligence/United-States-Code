@@ -6,7 +6,7 @@ Delivery and Agreement.—The holder of a bill of lading may transfer the bill w
 
 (b)
 
-Compelling Indorsement.—When a negotiable bill of lading is transferred for value by delivery without being negotiated and indorsement of the transferor is essential for negotiation, the transferee may compel the transferor to indorse the bill unless a contrary intention appears. The negotiation is effective when the indorsement is made.
+Compelling Indorsement.—When a negotiable bill of lading is transferred for value by delivery without being negotiated andindorsement of the transferor is essential for negotiation, the transferee may compel the transferor to indorse the bill unless a contrary intention appears. The negotiation is effective when the indorsement is made.
 
 (c)
 

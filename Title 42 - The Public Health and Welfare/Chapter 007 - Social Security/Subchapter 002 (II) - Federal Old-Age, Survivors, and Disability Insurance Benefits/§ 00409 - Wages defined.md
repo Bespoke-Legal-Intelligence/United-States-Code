@@ -168,7 +168,7 @@ Internal Revenue Code of 1954, referred to in text, redesignated Internal Revenu
 
 Internal Revenue Code of 1986, referred to in text, is classified to Title 26.
 
-The Peace Corps Act, referred to in subsec. (e), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (e), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 The enactment of the Social Security Amendments of 1977, referred to in subsec. (k)(1), means the enactment of Pub. L. 95–216, which was approved Dec. 20, 1977.
 
@@ -304,7 +304,7 @@ Subsec. (q). Pub. L. 95–600 added subsec. (q).
 
 Subsec. (n). Pub. L. 95–216, §351(a)(3)(A), struck out "or" after "such employee died".
 
-Subsec. (o). Pub. L. 95–216, §351(a)(3)(A), substituted "payment is made; or" for "payment is made.".
+Subsec. (o). Pub. L. 95–216, §351(a)(3)(A), substituted "payment is made; or" for "payment is made."
 
 Subsec. (p). Pub. L. 95–216, §351(a)(3)(A), added subsec. (p).
 
@@ -444,7 +444,7 @@ Amendment by section 8017(a) of Pub. L. 100–647 effective as if included in am
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9001(a)(2) of Pub. L. 100–203 applicable with respect to remuneration paid after Dec. 31, 1987, see section 9001(d) of Pub. L. 100–203, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+Amendment by section 9001(a)(2) of Pub. L. 100–203 applicable with respect to remuneration paid after Dec.31, 1987, see section 9001(d) of Pub. L. 100–203, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
 Amendment by section 9002(a) of Pub. L. 100–203 applicable with respect to remuneration for agricultural labor paid after Dec. 31, 1987, see section 9002(c) of Pub. L. 100–203, set out as a note under section 3121 of Title 26.
 
@@ -514,7 +514,7 @@ Pub. L. 92–603, title I, §122(c), Oct. 30, 1972, 86 Stat. 1354, provided that
 
 Pub. L. 92–603, title I, §138(c), Oct. 30, 1972, 86 Stat. 1366, provided that: "The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply in the case of any payment made after December 1972."
 
-Pub. L. 92–336, title II, §203(c), July 1, 1972, 86 Stat. 420, provided that: "The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\] (except paragraphs (1) and (7) thereof), shall apply only with respect to remuneration paid after December 1972. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1972. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1972."
+Pub. L. 92–336, title II, §203(c), July 1, 1972, 86 Stat. 420, provided that: "The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made bysubsection (b) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\] (except paragraphs (1) and (7) thereof), shall apply only with respect to remuneration paid after December 1972. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1972. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1972."
 
 #### Effective Date of 1971 Amendment
 
@@ -572,7 +572,7 @@ Act Apr. 20, 1948, ch. 222, §1(b), 62 Stat. 195, provided in part that: "The am
 
 #### Effective Date of 1946 Amendment
 
-Act Aug. 10, 1946, ch. 951, title IV, §§407(b), 408(b), 409(b), 60 Stat. 988, each provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only in cases of applications for benefits under this title \[this subchapter\] filed after December 31, 1946."
+Act Aug. 10, 1946, ch. 951, title IV, §§407(b), 408(b), 409(b), 60 Stat. 988, each provided that: "The amendment made by subsection (a) of this section \[amendingthis section\] shall be applicable only in cases of applications for benefits under this title \[this subchapter\] filed after December 31, 1946."
 
 #### Effective Date of 1945 Amendment
 

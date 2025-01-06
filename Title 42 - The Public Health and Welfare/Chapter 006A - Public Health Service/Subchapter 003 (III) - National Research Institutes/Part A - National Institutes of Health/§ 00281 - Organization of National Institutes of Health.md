@@ -96,7 +96,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (B) Additional authority
 
-&emsp;&emsp;The Secretary may reorganize the functions of any national research institute andmay abolish any national research institute if the Secretary determines that the institute is no longer required. A reorganization or abolition may not take effect under this paragraph before the expiration of 180 days after the Secretary has provided the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate written notice of the reorganization or abolition.
+&emsp;&emsp;The Secretary may reorganize the functions of any national research institute and may abolish any national research institute if the Secretary determines that the institute is no longer required. A reorganization or abolition may not take effect under this paragraph before the expiration of 180 days after the Secretary has provided the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate written notice of the reorganization or abolition.
 
 #### (3) Reorganization of Office of Director
 
@@ -104,7 +104,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (4) Internal reorganization of institutes and centers
 
-&emsp;Notwithstanding any conflicting provisions of this subchapter, the director of a national research institute or a national center may, after a series of public hearings and with the approval of the Director of NIH, reorganize the divisions, centers, or other administrative units within such institute or center, including the addition, removal, or transfer of functions of such units, and the establishment or termination of such units, if the director of such institute or center determines that the overall management and operation of programs and activities conducted or supported by such divisions, centers, or other units would be more efficiently carried out under such a reorganization.
+&emsp;Notwithstanding any conflicting provisions of this subchapter, the director of a national research institute or a national center may,after a series of public hearings and with the approval of the Director of NIH, reorganize the divisions, centers, or other administrative units within such institute or center, including the addition, removal, or transfer of functions of such units, and the establishment or termination of such units, if the director of such institute or center determines that the overall management and operation of programs and activities conducted or supported by such divisions, centers, or other units would be more efficiently carried out under such a reorganization.
 
 #### (e) Scientific Management Review Board for periodic organizational reviews
 
@@ -176,7 +176,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;&emsp;&emsp;(i) individuals representing the interests of public or private institutions of higher education that have historically received funds from NIH to conduct research; and
 
-&emsp;&emsp;&emsp;(ii) individuals representing the interests of private entities that have received funds from NIH to conduct research or that have broad expertise regarding how the National Institutes of Health functions, exclusive of private entities to which clause (i) applies.
+&emsp;&emsp;&emsp;(ii) individuals representing the interests of private entities that have received funds from NIH to conduct research or that havebroad expertise regarding how the National Institutes of Health functions, exclusive of private entities to which clause (i) applies.
 
 #### (4) Chair
 
@@ -248,7 +248,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) does not apply to a recommendation for an organizational changemade in a report under subsection (e)(2)(A) if, not later than 90 days after the report is submitted under subsection (e)(7)(A), the Director of NIH submits to the committees specified in such subsection a report providing that the Director objects to the change, which report includes the reasons underlying the objection.
+&emsp;&emsp;Paragraph (1) does not apply to a recommendation for an organizational change made in a report under subsection (e)(2)(A) if, not later than 90 days after the report is submitted under subsection (e)(7)(A), the Director of NIH submits to the committees specified in such subsection a report providing that the Director objects to the change, which report includes the reasons underlying the objection.
 
 #### (B) Scope of objection
 

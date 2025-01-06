@@ -32,5 +32,5 @@ In this section, the term "head of an applicable agency" includes the following:
 
 #### Definition
 
-For definition of "congressional intelligence committees" referred to in subsec. (a)(1), see section 2 of Pub. L. 113–126, set out as a note under section 3003 of this title.
+For definition of "congressional intelligence committees" as used in this section, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of this title.
 

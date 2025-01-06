@@ -98,9 +98,9 @@ In this section:
 
 #### (5) Termination of authority
 
-&emsp;The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2024, unless the rare pediatric disease product application—
+&emsp;The Secretary may not award any priority review vouchers under paragraph (1) after December 20, 2024, unless the rare pediatric disease product application—
 
-&emsp;&emsp;(A) is for a drug that, not later than September 30, 2024, is designated under subsection (d) as a drug for a rare pediatric disease; and
+&emsp;&emsp;(A) is for a drug that, not later than December 20, 2024, is designated under subsection (d) as a drug for a rare pediatric disease; and
 
 &emsp;&emsp;(B) is, not later than September 30, 2026, approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\].
 
@@ -234,7 +234,7 @@ The provisions of this section shall supplement, not supplant, any other provisi
 
 &emsp;Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1211, Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. BB, title III, §321, Dec. 27, 2020, 134 Stat. 2932; Pub. L. 117–9, §1(a)(4), Apr. 23, 2021, 135 Stat. 257.)
+(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1211, Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. BB, title III, §321, Dec. 27, 2020, 134 Stat. 2932; Pub. L. 117–9, §1(a)(4), Apr. 23, 2021, 135 Stat. 257; Pub. L. 118–83, div. B, title II, §202, Sept. 26, 2024, 138 Stat. 1538.)
 
 #### <b>Editorial Notes</b>
 
@@ -247,6 +247,8 @@ Subsection (b)(4)(A), referred to in subsec. (c)(4)(A), was part of subsec. (b)(
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(5). Pub. L. 118–83 substituted "December 20, 2024" for "September 30, 2024" in introductory provisions and in subpar. (A).
 
 <b>2021</b>—Subsec. (a)(4)(A), (B). Pub. L. 117–9 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -272,11 +274,11 @@ Subsec. (b)(4). Pub. L. 114–229, §2(a)(2)(A), added par. (4) and struck out f
 
 "(A)
 
-In general.—The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+In general.—The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally bindingcommitment to pay for the user fee to be assessed in accordance with this section.
 
 "(B)
 
-Transfer after notice.—The sponsor of a human drug application that provides notification ofthe intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification."
+Transfer after notice.—The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification."
 
 Subsec. (b)(5). Pub. L. 114–255 added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016."
 

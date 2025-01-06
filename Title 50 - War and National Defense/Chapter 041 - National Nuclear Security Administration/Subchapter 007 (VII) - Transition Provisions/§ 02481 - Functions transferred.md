@@ -26,7 +26,7 @@ In the case of any environmental remediation and waste management activity of an
 
 #### (d) Transfer of funds
 
-(1) Any balance of appropriations that the Secretary of Energy determines is available andneeded to finance or discharge a function, power, or duty or an activity that is transferred to the Administration shall be transferred to the Administration and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
+(1) Any balance of appropriations that the Secretary of Energy determines is available and needed to finance or discharge a function, power, or duty or an activity that is transferred to the Administration shall be transferred to the Administration and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
 
 &emsp;(A) be credited to any applicable appropriation account of the Administration; or
 

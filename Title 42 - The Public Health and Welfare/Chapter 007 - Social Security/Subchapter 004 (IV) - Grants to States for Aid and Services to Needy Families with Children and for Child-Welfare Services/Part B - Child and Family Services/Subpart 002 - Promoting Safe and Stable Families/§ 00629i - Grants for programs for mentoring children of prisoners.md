@@ -8,9 +8,9 @@
 
 &emsp;(B) Prior to incarceration, 64 percent of female prisoners and 44 percent of male prisoners in State facilities lived with their children.
 
-&emsp;(C) Nearly 90 percent of the children of incarcerated fathers live with their mothers, and 79 percent of the children of incarcerated mothers live with a grandparent or other relative.
+&emsp;(C) Nearly 90 percent of the children of incarcerated fathers live with their mothers,and 79 percent of the children of incarcerated mothers live with a grandparent or other relative.
 
-&emsp;(D) Parental arrest and confinement lead to stress, trauma, stigmatization, and separation problems for children. These problems are coupled with existing problems that include poverty, violence, parental substance abuse, high-crime environments, intrafamilial abuse, child abuse and neglect, multiple care givers, and/or prior separations. As a result, these childrenoften exhibit a broad variety of behavioral, emotional, health, and educational problems that are often compounded by the pain of separation.
+&emsp;(D) Parental arrest and confinement lead to stress, trauma, stigmatization, and separation problems for children. These problems are coupled with existing problems that include poverty, violence, parental substance abuse, high-crime environments, intrafamilial abuse, child abuse and neglect, multiple care givers, and/or prior separations. As a result, these children often exhibit a broad variety of behavioral, emotional, health, and educational problems that are often compounded by the pain of separation.
 
 &emsp;(E) Empirical research demonstrates that mentoring is a potent force for improving children's behavior across all risk behaviors affecting health. Quality, one-on-one relationships that provide young people with caring role models for future success have profound, life-changing potential. Done right, mentoring markedly advances youths' life prospects. A widely cited 1995 study by Public/Private Ventures measured the impact of one Big Brothers Big Sisters program and found significant effects in the lives of youth—cutting first-time drug use by almost half and first-time alcohol use by about a third, reducing school absenteeism by half, cutting assaultive behavior by a third, improving parental and peer relationships, giving youth greater confidence in their school work, and improving academic performance.
 
@@ -318,7 +318,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for purposes of awarding a cooperative agreement to conduct the service delivery demonstration project authorized under subsection (g), the Secretary shall reserve not more than—
+&emsp;&emsp;&emsp;Subject to clause (ii), for purposes of awarding a cooperative agreement to conduct the service delivery demonstrationproject authorized under subsection (g), the Secretary shall reserve not more than—
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,000,000 of the amount appropriated under paragraph (1) for the first fiscal year in which funds are to be awarded for the agreement;
 
@@ -330,7 +330,209 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;&emsp;&emsp;With respect to any fiscal year, no funds may be awarded for a cooperative agreement under subsection (g), unless at least $25,000,000 of the amount appropriated under paragraph (1) for that fiscal year is used by the Secretary for making grants under this section for that fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115 Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
+(Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115 Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249; Pub. L. 118–258, title I, §113(a), Jan. 4, 2025, 138 Stat. 2963.)
+
+#### Amendment of Section
+
+<i>Pub. L. 118–258, title I, §§113(a), 117, Jan. 4, 2025, 138 Stat. 2963, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, section is amended to read as follows:</i>
+
+#### §629i. State partnership planning and demonstration grants to support meaningful relationships between foster children and the incarcerated parents of the children
+
+#### <i>(a) Authority</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The Secretary may make demonstration grants to eligible State partnerships to develop, implement, and provide support for programs that enable and sustain meaningful relationships between covered foster children and the incarcerated parents of the children.</i>
+
+#### <i>(2) Payment of annual installments</i>
+
+&emsp;<i>The Secretary shall pay each demonstration grant in 5 annual installments.</i>
+
+#### <i>(3) 1-year planning grants</i>
+
+&emsp;<i>The Secretary may make a planning grant to a recipient of a demonstration grant, to be paid to the recipient 1 year before payment of the 1st annual installment of the demonstration grant and in an amount not greater than any installment of the demonstration grant, if—</i>
+
+&emsp;&emsp;<i>(A) the recipient includes a request for a planning grant in the application under subsection (c); and</i>
+
+&emsp;&emsp;<i>(B) the Secretary determines that a planning grant would assist the recipient and improve the effectiveness of the demonstration grant.</i>
+
+#### <i>(b) Eligible State partnership defined</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>In this section, the term "eligible State partnership" means an agreement entered into by, at a minimum, the following:</i>
+
+&emsp;&emsp;<i>(A) The State child welfare agency responsible for the administration of the State plans under this part.</i>
+
+&emsp;&emsp;<i>(B) The State agency responsible for adult corrections.</i>
+
+#### <i>(2) Additional partners</i>
+
+&emsp;<i>For purposes of this section, an eligible State partnership may include any entity with experience in serving incarcerated parents and their children.</i>
+
+#### <i>(3) Partnerships entered into by Indian tribes or tribal consortia</i>
+
+&emsp;<i>Notwithstanding paragraph (1), if an Indian tribe or tribal consortium enters into a partnership pursuant to this section that does not consist solely of tribal child welfare agencies (or a consortium of the agencies), the partnership shall be considered an eligible State partnership for purposes of this section.</i>
+
+#### <i>(c) Application requirements</i>
+
+<i>An eligible State partnership seeking a demonstration grant under this section to carry out a program described in subsection (a)(1) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include the following:</i>
+
+&emsp;<i>(1) A summary of the program, including how the program will support a meaningful relationship between a covered foster child and an incarcerated parent of the child.</i>
+
+&emsp;<i>(2) A description of the activities to be carried out by the program, which must include all of the activities described in subsection (d) that are in the best interest of the covered foster child.</i>
+
+&emsp;<i>(3) A framework for identifying—</i>
+
+&emsp;&emsp;<i>(A) each covered foster child eligible for services under the program, including, to the extent practicable, coordination of data between relevant State child welfare agencies and court systems; and</i>
+
+&emsp;&emsp;<i>(B) the roles and responsibilities of the entities in the partnership.</i>
+
+&emsp;<i>(4) Documentation that the applicant is an eligible State partnership.</i>
+
+&emsp;<i>(5) Assurances that the applicant will participate fully in the evaluation described in subsection (f)(2) and shall maintain records for the program, including demographic information disaggregated by relevant characteristics with respect to covered foster children and incarcerated parents who participate in the program.</i>
+
+#### <i>(d) Program activities</i>
+
+<i>To the extent that the activities are in the best interest of the covered foster child, the activities referred to in subsection (c)(2) shall include the following:</i>
+
+#### <i>(1) Revision of policies</i>
+
+&emsp;<i>Through consultation with incarcerated parents and their families, grantees shall promote organizational policies of participating child welfare entities and collaborating correctional facilities to</i><i>promote meaningful relationships through regular and developmentally appropriate communication and visitation between covered foster children and the incarcerated parents, including, when appropriate, the following:</i>
+
+&emsp;&emsp;<i>(A) For child welfare entities—</i>
+
+&emsp;&emsp;&emsp;<i>(i) inclusion of parents in case planning and decision making for children;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) regular sharing of information and responses to requests for information between caseworkers and incarcerated parents with respect to the case information of a child, any changes to a case, permanency plans, requirements to maintain parental rights, and any efforts to terminate parental rights;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) appropriate opportunities for incarcerated parents to demonstrate their relationship with a covered foster child given their incarceration, including training and courses required for a service plan; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) the enhanced visitation described in paragraph (2).</i>
+
+&emsp;&emsp;<i>(B) For correctional facilities, fostering visitation and communication that is developmentally appropriate in terms of—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the nature of communication and visitation, including—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the ability to physically touch parents;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) engaging with parents in locations that are appropriate for the age and development of the child;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) exchanging items that are appropriate to the age and development of the child, include expectations that are appropriate for the age and development of the child related to behavior, attire, and wait times; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) allowing appropriate adults to bring children if legal guardians are not available to promote regular contact;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) reasonable inclusion of all children of the parent;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) communication and visitation at times when the children are available;</i>
+
+&emsp;&emsp;&emsp;<i>(iv) security procedures to comfort children and be minimally invasive; and</i>
+
+&emsp;&emsp;&emsp;<i>(v) promoting parent-child relationships regardless of the sentence imposed on the parent.</i>
+
+#### <i>(2) Enhanced visitation</i>
+
+&emsp;&emsp;<i>(A) Grantees shall facilitate weekly communication and, for at least 9 days each year, in-person visitation between a covered foster child and any incarcerated parent of the child.</i>
+
+&emsp;&emsp;<i>(B) Electronic visitation (such as live video visits, phone calls, and recorded books) may be used but shall not be the sole method to promote a meaningful relationship for purposes of the grant.</i>
+
+&emsp;&emsp;<i>(C) Enhanced visitation programs shall—</i>
+
+&emsp;&emsp;&emsp;<i>(i) integrate best practices for visitation programs with incarcerated parents and their children;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) adopt developmentally appropriate visitation policies and procedures such as those described in paragraph (1)(B);</i>
+
+&emsp;&emsp;&emsp;<i>(iii) reduce or eliminate the cost of developmentally appropriate communication and visitation for the covered foster child, which may include the purchase of communication technology, covering transportation, insurance, and lodging costs, costs related to providing appropriate visitation spaces and activities, and other relevant costs;</i>
+
+&emsp;&emsp;&emsp;<i>(iv) to the extent practicable, integrate appropriate parenting education to help prepare and process visits; and</i>
+
+&emsp;&emsp;&emsp;<i>(v) avoid restricting visitation and communication as a punishment for the incarcerated parents.</i>
+
+#### <i>(3) Training</i>
+
+&emsp;<i>Grantees shall incorporate ongoing training for child welfare workers, correctional facility staff, and other program providers to understand the importance of promoting meaningful relationships between children and incarcerated parents.</i>
+
+#### <i>(4) Case management</i>
+
+&emsp;<i>Grantees shall provide case management services for the incarcerated parents of a covered foster child to promote the relationship, access to services, and coordination with the caseworkers of the covered foster child to strengthen the relationship.</i>
+
+#### <i>(5) Legal assistance</i>
+
+&emsp;<i>Grantees shall facilitate access to necessary legal services and may use grant funds for services that are not reimbursable under other Federal programs.</i>
+
+#### <i>(e) Federal share</i>
+
+<i>The Federal share of the cost of any activity carried out using a grant made under this section shall be not greater than 75 percent.</i>
+
+#### <i>(f) Technical assistance, evaluations, and reports</i>
+
+#### <i>(1) Technical assistance</i>
+
+&emsp;<i>The Secretary shall provide technical assistance with respect to grants under this section, including by—</i>
+
+&emsp;&emsp;<i>(A) assisting grantees in understanding best practices in promoting meaningful relationships between incarcerated parents and their children as well as consulting with appropriate stakeholders when developing their programs;</i>
+
+&emsp;&emsp;<i>(B) assisting grantees with establishing and analyzing implementation and performance indicators; and</i>
+
+&emsp;&emsp;<i>(C) conducting an annual technical assistance and training meeting and an annual grantee meeting so that grantees can learn from the experiences of other grantees.</i>
+
+#### <i>(2) Evaluations</i>
+
+&emsp;<i>The Secretary shall conduct an evaluation of program outcomes, including with respect to parent and child well-being, parent-child interactions, parental involvement, awareness of child development and parenting practices, placement stability, and termination of parental rights with respect to covered foster children and incarcerated parents, to measure program effectiveness, as determined by the Secretary, and identify opportunities for improved program practices and implementation.</i>
+
+#### <i>(3) Reports to the Congress</i>
+
+#### <i>(A) Initial report</i>
+
+&emsp;&emsp;<i>Not later than 3 years after January 4, 2025, the Secretary shall submit to the Committee on</i><i>Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the number of applications for grants under this section;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the number of grants awarded, and the amounts for each grant; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) information on the grants, including—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) interim results of the evaluation described in paragraph (2);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) disaggregated data on covered foster children and incarcerated parents;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) information on the composition of eligible State partnerships;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) best practices for facilitating meaningful relationships between covered foster children and incarcerated parents; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) barriers to implementation or expansion of programs funded under this section.</i>
+
+#### <i>(B) Final report</i>
+
+&emsp;&emsp;<i>Not later than 6 years after January 4, 2025, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the final results of the evaluation described in paragraph (2); and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) recommendations for refinements to grant requirements to improve program outcomes.</i>
+
+#### <i>(g) Authority of Secretary with respect to Indian tribes and tribal organizations</i>
+
+#### <i>(1) Waiver or modification of requirements</i>
+
+&emsp;<i>In making a grant to an Indian tribe or tribal organization under this section, the Secretary may waive the matching requirement of subsection (e) or modify an application requirement imposed by or under subsection (c) if the Secretary determines that the waiver or modification is appropriate to the needs, culture, and circumstances of the Indian tribe or tribal organization.</i>
+
+#### <i>(2) Evaluation</i>
+
+&emsp;<i>The Secretary shall use tribally relevant data in carrying out the evaluation under subsection (f)(2) with respect to an Indian tribe or tribal organization.</i>
+
+#### <i>(h) Limitations on authorization of appropriations</i>
+
+<i>There is authorized to be appropriated to the Secretary not more than $35,000,000 for each of fiscal years 2026 through 2029 to carry out this section.</i>
+
+#### <i>(i) Definition of covered foster child</i>
+
+<i>In this section, the term "covered foster child" means a child that—</i>
+
+&emsp;<i>(1) is in foster care; and</i>
+
+&emsp;<i>(2) has at least 1 parent incarcerated in a Federal, State, or local correctional facility.</i>
+
+<i>See 2025 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -343,6 +545,8 @@ September 28, 2006, referred to in subsec. (h)(2), was in the original "the date
 A prior section 439 of act Aug. 14, 1935, was classified to section 639 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–258 amended section generally. Prior to amendment, section related to grants for programs for mentoring children of prisoners.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–288, §8(b)(2)(A)(i), substituted "purposes" for "purpose" in heading.
 
@@ -369,6 +573,10 @@ Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (h) as (i).
 Subsec. (i)(2). Pub. L. 109–288, §8(b)(2)(D)(ii), substituted "Reservations" for "Reservation" in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment
 

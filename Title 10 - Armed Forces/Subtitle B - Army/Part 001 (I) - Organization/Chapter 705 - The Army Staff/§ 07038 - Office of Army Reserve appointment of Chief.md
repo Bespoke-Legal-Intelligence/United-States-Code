@@ -4,7 +4,7 @@
 
 (b)
 
-Appointment.—(1) The President, by and with the advice and consent of the Senate, shallappoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
 
 (2) The Secretary of Defense may not recommend an officer to the President for appointment as Chief of Army Reserve unless the officer—
 

@@ -190,7 +190,7 @@
 
 #### (D) Utility
 
-&emsp;&emsp;For purposes of this paragraph, the term "utility" means the owner or operator of an electrical transmission or distribution system which is subject to the regulatory authority of a State or political subdivision thereof, any agency or instrumentality of the United States, a public service or public utility commission or other similar body of any State or political subdivision thereof, or the governing or ratemaking body of an electric cooperative.
+&emsp;&emsp;For purposes of this paragraph, the term "utility" means the owner or operator of anelectrical transmission or distribution system which is subject to the regulatory authority of a State or political subdivision thereof, any agency or instrumentality of the United States, a public service or public utility commission or other similar body of any State or political subdivision thereof, or the governing or ratemaking body of an electric cooperative.
 
 #### (E) Special rule for interconnection property
 
@@ -268,7 +268,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any energy project that is placed in service within an energy community (as defined in section 45(b)(11)(B), as applied by substituting "energy project" for "qualified facility" each place it appears), for purposes of applying paragraph (2) with respect to energy property which is part of such project, the energy percentage shall be increased by the applicable credit rate increase.
+&emsp;&emsp;In the case of any energy project that is placed in service within an energy community (as defined in section 45(b)(11)(B), as applied by substituting "energy project" for "qualified facility" each place it appears), for purposes of applying paragraph (2) with respect to energy property which is part ofsuch project, the energy percentage shall be increased by the applicable credit rate increase.
 
 #### (B) Applicable credit rate increase
 
@@ -606,7 +606,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 &emsp;&emsp;&emsp;(ii) in the case of a facility described in subclause (II) of paragraph (2)(A)(iii), 20 percentage points, and
 
-&emsp;&emsp;(B) the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears thesame ratio to the amount of such increase (determined without regard to this subparagraph) as—
+&emsp;&emsp;(B) the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this subparagraph) as—
 
 &emsp;&emsp;&emsp;(i) the environmental justice solar and wind capacity limitation allocated to such facility, bears to
 
@@ -690,7 +690,7 @@ In the case of any property with respect to which the Secretary makes a grant un
 
 #### (5) Recapture
 
-&emsp;The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules of section 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.
+&emsp;The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recaptureshall be determined under rules similar to the rules of section 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.
 
 (Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 967; amended Pub. L. 88–272, title II, §203(a)(1), (3)(A), (b), (c), Feb. 26, 1964, 78 Stat. 33, 34; Pub. L. 89–800, §1 Nov. 8, 1966, 80 Stat. 1508; Pub. L. 89–809, title II, §201(a), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 90–26, §§1, 2(a), 3, June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title I, §121(d)(2)(A), title IV, §401(e)(2)–(4), Dec. 30, 1969, 83 Stat. 547, 603; Pub. L. 92–178, title I, §§102(a)(2), 103, 104(a)(1), (b)–(f)(1), (g), 108(b), (c), Dec. 10, 1971, 85 Stat. 499–502, 507; Pub. L. 94–12, title III, §§301(c)(1), 302(c)(3), title VI, §604(a), Mar. 29, 1975, 89 Stat. 38, 44, 65; Pub. L. 94–455, title VIII, §§802(b)(6), 804(a), title X, §1051(h)(1), title XIX, §§1901(a)(5), (b)(11)(A), 1906(b)(13)(A), title XXI, §2112(a)(1), Oct. 4, 1976, 90 Stat. 1583, 1591, 1647, 1764, 1795, 1834, 1905; Pub. L. 95–473, §2(a)(2)(A), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 95–600, title I, §141(b), title III, §§312(c)(1)–(3), 314(a), (b), 315(a)–(c), title VII, §703(a)(3), (4), Nov. 6, 1978, 92 Stat. 2791, 2826–2829, 2939; Pub. L. 95–618, title III, §301(b), (d)(1), (2), Nov. 9, 1978, 92 Stat. 3195, 3199, 3200; Pub. L. 96–222, title I, §§101(a)(7)(G), (H), (L)(i)(I)–(IV), (ii)(III)–(VI), (iii)(II), (III), (v)(II)–(V), (M)(ii), (iii), 103(a)(2)(A), (4)(B), 108(c)(6), Apr. 1, 1980, 94 Stat. 198–201, 208, 209, 228; Pub. L. 96–223, title II, §§221(b), 222(a)–(e)(1), (f)–(i), 223(a)(1), (c)(1), Apr. 2, 1980, 94 Stat. 261–266; Pub. L. 96–451, title III, §302(a), Oct. 14, 1980, 94 Stat. 1991; Pub. L. 96–605, title I, §109(a), title II, §223(a), Dec. 28, 1980, 94 Stat. 3525, 3528; Pub. L. 97–34, title II, §§211(a)(2), (c), (e)(3), (4), (h), 212(a)(3), (b), (c), (d)(2)(A), 213(a), 214(a), (b), title III, §332(b), Aug. 13, 1981, 95 Stat. 227–229, 235, 236, 239, 240, 296; Pub. L. 97–248, title II, §§205(a)(1), (4), (5)(A), 209(c), Sept. 3, 1982, 96 Stat. 427, 429, 447; Pub. L. 97–354, §§3(d), 5(a)(7), (8), Oct. 19, 1982, 96 Stat. 1689, 1692; Pub. L. 97–362, title I, §104(a), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 97–424, title V, §546(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 97–448, title I, §102(e)(2)(A), (f)(2), (3), (6), title II, §202(c), title III, §306(a)(3), Jan. 12, 1983, 96 Stat. 2371, 2372, 2396, 2400; Pub. L. 98–369, div. A, title I, §§11, 31(b), (c), 111(e)(8), 113(a)(1), (b)(3), (4), 114(a), title IV, §§431(c), 474(o)(10)–(18), title VII, §§712(b), 721(x)(1), 735(c)(1), title X, §1043(a), July 18, 1984, 98 Stat. 503, 517, 518, 633, 635, 637, 638, 808, 836, 837, 946, 971, 981, 1044; Pub. L. 99–121, title I, §103(b)(5), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title II, §251(b), (c), title VII, §701(e)(4)(C), title VIII, §803(b)(2)(B), title XII, §§1272(d)(5), 1275(c)(5), title XV, §1511(c)(3), title XVIII, §§1802(a)(4)(C), (5)(B), (9)(A), (B), 1809(d)(2), (e), 1847(b)(6), 1879(j)(1), Oct. 22, 1986, 100 Stat. 2184, 2186, 2343, 2355, 2594, 2599, 2745, 2788, 2789, 2821, 2856, 2908; Pub. L. 100–647, title I, §§1002(a)(14), (16)(A), (20), (29), (30), 1013(a)(41), Nov. 10, 1988, 102 Stat. 3355–3357, 3544; Pub. L. 101–508, title XI, §§11801(c)(6)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–523, 1388–541; Pub. L. 102–227, title I, §106, Dec. 11, 1991, 105 Stat. 1687; Pub. L. 102–486, title XIX, §1916(a), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 108–357, title III, §322(d)(2)(A), (B), title VII, §710(e), Oct. 22, 2004, 118 Stat. 1475, 1557; Pub. L. 109–58, title XIII, §§1336(a)–(d), 1337(a)–(c), Aug. 8, 2005, 119 Stat. 1036–1038; Pub. L. 109–135, title IV, §412(m), (n), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title II, §207, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(8), (9), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title I, §§103(a), (c)–(e), 104(a)–(d), 105(a), Oct. 3, 2008, 122 Stat. 3811, 3813, 3814; Pub. L. 111–5, div. B, title I, §§1102(a), 1103(a), (b)(1), 1104, Feb. 17, 2009, 123 Stat. 319–321; Pub. L. 112–240, title IV, §407(b), (c)(1), Jan. 2, 2013, 126 Stat. 2341; Pub. L. 113–295, div. A, title I, §155(b), title II, §209(d), Dec. 19, 2014, 128 Stat. 4021, 4028; Pub. L. 114–113, div. P, title III, §§302(a), (b), 303(a)–(c), div. Q, title I, §187(b), Dec. 18, 2015, 129 Stat. 3038, 3039, 3074; Pub. L. 115–123, div. D, title I, §§40409(b), 40411(a)–(f), Feb. 9, 2018, 132 Stat. 150, 151; Pub. L. 115–141, div. U, title IV, §401(a)(20)–(23), (350), Mar. 23, 2018, 132 Stat. 1185, 1201; Pub. L. 116–94, div. Q, title I, §127(b), (c)(2)(B), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §§131(b), (c)(2), 132(a), (b), title II, §§203(a)–(d), 204(a), Dec. 27, 2020, 134 Stat. 3052, 3057; Pub. L. 117–169, title I, §§13101(d), (e)(2)(B), (3), 13102(a)–(f)(3), (g), (h), (j)–(m), (o), (p), 13103(a), 13204(c)(1), (2), Aug. 16, 2022, 136 Stat. 1906, 1913–1915, 1917, 1918, 1920, 1921, 1940, 1941.)
 
@@ -706,7 +706,7 @@ The date of enactment of this paragraph, referred to in subsec. (c)(7)(A)(i), is
 
 Section 1603 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (d), is section 1603 of Pub. L. 111–5, which is set out as a note below.
 
-The Housing Act of 1949, referred to in subsec. (e)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. TitleV of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (e)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (e)(4)(A), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
@@ -720,7 +720,7 @@ Subsec. (a)(2)(A)(i)(VI) to (IX). Pub. L. 117–169, §13102(f)(2), added subcls
 
 Subsec. (a)(2)(A)(ii). Pub. L. 117–169, §13102(d)(1)(A)(ii), substituted "2 percent" for "10 percent".
 
-Subsec. (a)(3)(A)(ii). Pub. L. 117–169, §13102(h), inserted ", or electrochromic glass which uses electricity to change its light transmittance properties in order to heat or cool a structure," after "sunlight".
+Subsec. (a)(3)(A)(ii). Pub. L. 117–169, §13102(h), inserted ", or electrochromic glass which uses electricityto change its light transmittance properties in order to heat or cool a structure," after "sunlight".
 
 Pub. L. 117–169, §13102(a)(2), substituted "January 1, 2025" for "January 1, 2024".
 
@@ -1100,7 +1100,7 @@ Subsec. (k)(5)(D)(i). Pub. L. 98–369, §721(x)(1), substituted "S corporation"
 
 Subsec. (l)(1). Pub. L. 98–369, §474(o)(13), substituted "section 46(b)(2)" for "section 46(a)(2)(C)".
 
-Subsec. (l)(16)(B)(i). Pub. L. 98–369, §735(c)(1), substituted "the chassis of which is an automobile buschassis and the body of which is an automobile bus body" for "the chassis and body of which is exempt under section 4063(a)(6) from the tax imposed by section 4061(a)".
+Subsec. (l)(16)(B)(i). Pub. L. 98–369, §735(c)(1), substituted "the chassis of which is an automobile bus chassis and the body of which is an automobile bus body" for "the chassis and body of which is exempt under section 4063(a)(6) from the tax imposed by section 4061(a)".
 
 Subsec. (m). Pub. L. 98–369, §474(o)(14), substituted "subsection (b)" for "subsection (a)(2)".
 
@@ -1172,7 +1172,7 @@ Subsec. (a)(9). Pub. L. 97–34, §211(a)(2), struck out par. (9) which set out 
 
 Subsec. (c)(2)(A) to (C). Pub. L. 97–34, §213(a), amended subpars. (A) to (C) generally raising in subpar. (A) the existing $100,000 dollar limitation to $125,000 in 1981 and to $150,000 in 1985 and in subpar. (B) the existing $50,000 dollar limitation to $62,500 in 1981 and to $75,000 in 1985.
 
-Subsec. (g). Pub. L. 97–34, §212(b), in amending subsec. (c) generally incorporated the concept of "substantial rehabilitation" into par. (1)(A), substituted "30 years" for "20 years" as the requisite period in par. (1)(B), substituted a definition of "substantially rehabilitated" for former provisions that a major portion could be treated as a separate building in certain cases in par. (1)(C), reenacted par. (1)(D) without change, substituted "December 31, 1981" for "October 31, 1978" in provisions of par. (2)(A) preceding cl. (i), substituted provisions for a recovery period of 15 years for provisions that had provided for a useful life of 5 years or more in cl. (i) of par. (2)(A), reenacted cl. (ii) without change, substituted provisions that accelerated methods of depreciation may not be used for provisions relating to property otherwise section 38 property in cl. (i) of par. (2)(B), reenacted cls. (ii) and (iii) without change, revised the provisions of cl. (iv) relating to certified historic structures, and added cl. (v) relating to expenditures of lessees, added par. (3), redesignated former par. (3) as (4), and added par. (5).
+Subsec. (g). Pub. L. 97–34, §212(b), in amending subsec. (c) generally incorporated the concept of "substantial rehabilitation" into par. (1)(A), substituted "30 years" for "20 years" as the requisite period in par. (1)(B), substituted a definition of "substantially rehabilitated" for former provisions that a major portion could be treated as a separate building in certain cases in par. (1)(C), reenacted par. (1)(D) without change, substituted "December 31, 1981" for "October 31, 1978" in provisions of par. (2)(A) preceding cl. (i), substituted provisions for a recovery period of 15 years for provisions that had provided for a useful life of 5 years or more in cl. (i) of par. (2)(A), reenacted cl. (ii) without change, substituted provisions that accelerated methods of depreciation may not be used for provisions relating to property otherwise section 38 property in cl. (i) of par.\(2)(B), reenacted cls. (ii) and (iii) without change, revised the provisions of cl. (iv) relating to certified historic structures, and added cl. (v) relating to expenditures of lessees, added par. (3), redesignated former par. (3) as (4), and added par. (5).
 
 Subsec. (l)(2)(C). Pub. L. 97–34, §211(e)(3), inserted "or which is recovery property (within the meaning of section 168)" after "3 years or more".
 
@@ -1344,7 +1344,7 @@ Amendment by section 13102(a)–(e), (k), (p) of Pub. L. 117–169 applicable to
 
 Amendment by section 13102(f)(3), (g), (h), (j), (l), (o) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under section 45 of this title.
 
-Amendment by section 13102(m) of Pub. L. 117–169 applicable to property the construction of which begins after Aug. 16, 2022, see section 13102(q)(3) of Pub. L. 117–169, set out in a note under section 45 of this title.
+Amendment by section 13102(m) of Pub. L. 117–169 applicable to property the construction of which beginsafter Aug. 16, 2022, see section 13102(q)(3) of Pub. L. 117–169, set out in a note under section 45 of this title.
 
 Pub. L. 117–169, title I, §13103(b), Aug. 16, 2022, 136 Stat. 1924, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2023."
 
@@ -1424,7 +1424,7 @@ Combined heat and power and fuel cell property.—The amendments made by subsect
 
 "(4)
 
-Public utility property.—The amendments made by subsection (e) \[amending this section\] shallapply to periods after February 13, 2008, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)."
+Public utility property.—The amendments made by subsection (e) \[amending this section\] shall apply to periods after February 13, 2008, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)."
 
 Pub. L. 110–343, div. B, title I, §104(e), Oct. 3, 2008, 122 Stat. 3814, provided that: "The amendments made by this section \[amending this section\] shall apply to periods after the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 \[Nov. 5, 1990\])."
 
@@ -1544,7 +1544,7 @@ Pub. L. 97–34, title II, §214(c), Aug. 13, 1981, 95 Stat. 241, provided that:
 
 Pub. L. 97–34, title III, §332(c)(2), Aug. 13, 1981, 95 Stat. 296, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to qualified investments made after December 31, 1981."
 
-Amendment by section 211(a)(2), (e)(3), (4) of Pub. L. 97–34 applicable to property placed in service after Dec.31, 1980, see section 211(i)(1) of Pub. L. 97–34, set out as a note under section 46 of this title.
+Amendment by section 211(a)(2), (e)(3), (4) of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, see section 211(i)(1) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
 Amendment by section 211(c) of Pub. L. 97–34 applicable to periods after Dec. 31, 1980, under rules similar to the rules under subsec. (m) of this section, see section 211(i)(3) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
@@ -1848,7 +1848,7 @@ Termination.—The Secretary of the Treasury shall not make any grant to any per
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

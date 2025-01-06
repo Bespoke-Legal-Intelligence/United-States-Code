@@ -24,7 +24,7 @@ It is the purpose of this section—
 
 #### (2) Waivers
 
-&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087ll(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(l)(1) of this title, or one or more of the regulations prescribed under this part or part F which inhibit the operation of quality distance education programs.
+&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087ll(5) <sup>1</sup> of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(l)(1) of this title, or one or more of the regulations prescribed under this part or part F which inhibit the operation of quality distance education programs.
 
 #### (3) Eligible applicants
 
@@ -150,13 +150,17 @@ For the purpose of this section, the term "distance education" means an educatio
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 1087ll of this title, referred to in subsec. (b)(2), was generally amended by Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138. For a similar provision to former par. (5), see subsec. (a)(6) of section 1087ll of this title.
+
 #### Prior Provisions
 
 A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1450, related to training in financial aid and student support services, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives".
+<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted "authorizing committees" for "Committee onLabor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives".
 
 Subsec. (f)(3). Pub. L. 110–315, §491, substituted "Annual reports" for "Reports" in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted "The Secretary shall provide reports to the authorizing committees on an annual basis" for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
 
@@ -169,4 +173,6 @@ Subsec. (f)(3). Pub. L. 110–315, §491, substituted "Annual reports" for "Repo
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

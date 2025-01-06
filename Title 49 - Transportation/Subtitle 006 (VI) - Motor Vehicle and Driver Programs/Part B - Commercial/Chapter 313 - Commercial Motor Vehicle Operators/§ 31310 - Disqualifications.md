@@ -194,7 +194,7 @@ Paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–141, §32507, inserted "section 521 or" before "section 5102" in pars. (1) and (2).
 
-Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of "The" for "Not later than 1 year after the date of enactment of this Act, the", was executed by making the substitution for "Not later than 1 year after the date of the enactment of this Act, the", to reflect the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of "The" for "Not later than 1 yearafter the date of enactment of this Act, the", was executed by making the substitution for "Not later than 1 year after the date of the enactment of this Act, the", to reflect the probable intent of Congress.
 
 Subsec. (k). Pub. L. 112–141, §32204, added subsec. (k).
 

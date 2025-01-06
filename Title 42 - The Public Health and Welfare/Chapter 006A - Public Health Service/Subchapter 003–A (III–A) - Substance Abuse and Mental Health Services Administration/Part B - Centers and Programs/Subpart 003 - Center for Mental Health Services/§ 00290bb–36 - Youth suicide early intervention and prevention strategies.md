@@ -42,7 +42,7 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and Tribal organizations actively involved with the State-sponsored statewide or Tribal youth suicide early intervention and prevention strategy that—
 
-&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster caresystems, pediatric health programs, and other child and youth support organizations;
+&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, pediatric health programs, and other child and youth support organizations;
 
 &emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
@@ -70,7 +70,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(14) obtain informed written consent from a parent or legal guardian of an at-risk child before involving the child in a youth suicide early intervention and prevention program; and
 
-&emsp;(15) provide to parents, legal guardians, and family members of youth, supplies to securely store means commonly used in suicide, if applicable, within the household.
+&emsp;(15) provide to parents, legal guardians, and family members of youth, supplies to securelystore means commonly used in suicide, if applicable, within the household.
 
 #### (d) Requirement for suicide prevention activities
 
@@ -110,7 +110,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 #### (f) Rule of construction; religious and moral accommodation
 
-Nothing in this section shall be construed to require suicide assessment, early intervention,or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
+Nothing in this section shall be construed to require suicide assessment, early intervention, or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
 
 #### (g) Evaluations and report
 

@@ -1,6 +1,6 @@
 ### §1622. Subornation of perjury
 
-Whoever procures another to commit any perjury is guilty of subornation of perjury, andshall be fined under this title or imprisoned not more than five years, or both.
+Whoever procures another to commit any perjury is guilty of subornation of perjury, and shall be fined under this title or imprisoned not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 774; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 

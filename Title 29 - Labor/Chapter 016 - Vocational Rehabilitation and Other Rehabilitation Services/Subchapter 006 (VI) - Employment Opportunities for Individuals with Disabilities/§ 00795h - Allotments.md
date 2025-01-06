@@ -38,7 +38,7 @@ A State that receives an allotment under this subchapter shall reserve and expen
 
 #### References in Text
 
-Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to projects with industry and business opportunities for individuals with handicaps.
+Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted ofsections 795g to 795i and related to projects with industry and business opportunities for individuals with handicaps.
 
 #### Prior Provisions
 
@@ -56,7 +56,7 @@ Subsec. (a)(1)(B). Pub. L. 113–128, §461(5)(A)(i)(III), substituted "subchapt
 
 Subsec. (a)(2)(B). Pub. L. 113–128, §461(5)(A)(ii), substituted "1/8 of 1 percent" for "one-eighth of one percent".
 
-Subsec. (b). Pub. L. 113–128, §461(5)(B), inserted "under subsection (a)" after "allotment to a State",substituted "subchapter" for "part" in two places, and substituted "1 or more" for "one or more".
+Subsec. (b). Pub. L. 113–128, §461(5)(B), inserted "under subsection (a)" after "allotment to a State", substituted "subchapter" for "part" in two places, and substituted "1 or more" for "one or more".
 
 Subsecs. (c), (d). Pub. L. 113–128, §461(5)(C), added subsecs. (c) and (d).
 

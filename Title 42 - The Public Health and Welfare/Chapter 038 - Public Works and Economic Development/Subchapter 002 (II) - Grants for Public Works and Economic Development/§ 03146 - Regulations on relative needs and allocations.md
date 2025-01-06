@@ -6,7 +6,7 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 &emsp;&emsp;(A) the severity of the rates of unemployment in the eligible areas and the duration of the unemployment;
 
-&emsp;&emsp;(B) the income levels and the extent of underemployment in eligible areas; and
+&emsp;&emsp;(B) the per capita income levels, the labor force participation rate, and the extent of underemployment in eligible areas; and
 
 &emsp;&emsp;(C) the outmigration of population from eligible areas and the extent to which the outmigration is causing economic injury in the eligible areas;
 
@@ -18,13 +18,17 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 &emsp;(C) the relevant Committees of Congress are notified prior to making any changes to any private sector leveraging goal; and
 
-&emsp;(4) grants made under this subchapter promote job creation and will have a high probability of meeting or exceeding applicable performance requirements established in connection with the grants.
+&emsp;(4) grants made under this subchapter promote job creation and retention and will have a high probability of meeting or exceeding applicable performance requirements established in connection with the grants.
 
-(Pub. L. 89–136, title II, §206, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3604; amended Pub. L. 108–373, title II, §204, Oct. 27, 2004, 118 Stat. 1761.)
+(Pub. L. 89–136, title II, §206, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3604; amended Pub. L. 108–373, title II, §204, Oct. 27, 2004, 118 Stat. 1761; Pub. L. 118–272, div. B, title II, §2216, Jan. 4, 2025, 138 Stat. 3181.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Par. (1)(B). Pub. L. 118–272, §2216(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "the income levels and the extent of underemployment in eligible areas; and".
+
+Par. (4). Pub. L. 118–272, §2216(2), inserted "and retention" after "creation".
 
 <b>2004</b>—Pars. (3), (4). Pub. L. 108–373 added pars. (3) and (4).
 

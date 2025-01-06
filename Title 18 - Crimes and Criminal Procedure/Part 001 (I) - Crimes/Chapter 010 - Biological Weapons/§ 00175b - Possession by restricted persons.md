@@ -34,7 +34,7 @@ Select agents.—Whoever transfers a select agent to a person who the transferor
 
 &emsp;(2)
 
-Certain other biological agents and toxins.—Whoever transfers a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 212 of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+Certain other biological agents and toxins.—Whoever transfers a biological agentor toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 212 of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 
 (c)
 

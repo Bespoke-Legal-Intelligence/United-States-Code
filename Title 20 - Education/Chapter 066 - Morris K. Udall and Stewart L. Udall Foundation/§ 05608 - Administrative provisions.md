@@ -8,7 +8,7 @@ In order to carry out the provisions of this chapter, the Foundation may—
 
 &emsp;(B) fix the compensation of the personnel appointed under subparagraph (A) at a rate not to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5, except that up to 4 employees (in addition to the Executive Director under section 5603(f)(2) of this title) may be paid at a rate determined by the Board in accordance with section 5383 of title 5.
 
-&emsp;(2) procure or fund the Center to procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for level IV of the Executive Schedule under section 5315 of title 5;
+&emsp;(2) procure or fund the Center to procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, butat rates not to exceed the rate specified at the time of such service for level IV of the Executive Schedule under section 5315 of title 5;
 
 &emsp;(3) prescribe such regulations as the Foundation considers necessary governing the manner in which its functions shall be carried out;
 

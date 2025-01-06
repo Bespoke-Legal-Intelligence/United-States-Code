@@ -34,7 +34,7 @@ In a case of actual controversy involving—
 
 #### (5) Time for bringing action
 
-&emsp;If the Secretary sends by certified or registered mail notice of his determination with respect to the qualification of the plan to the persons referred to in paragraph (1) (or, in the case of employees referred to in paragraph (1), to any individual designated under regulations prescribed by the Secretary as a representative of such employee), no proceeding may be initiated under this section by any person unless the pleading is filed before the ninety-first day after the day after such notice is mailed to such person (or to his designated representative, in the case of an employee).
+&emsp;If the Secretary sends by certified or registered mail notice of his determination with respect to the qualification of the plan to the persons referred to in paragraph (1) (or, in thecase of employees referred to in paragraph (1), to any individual designated under regulations prescribed by the Secretary as a representative of such employee), no proceeding may be initiated under this section by any person unless the pleading is filed before the ninety-first day after the day after such notice is mailed to such person (or to his designated representative, in the case of an employee).
 
 #### (c) Retirement plan
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 94–455, §1306(b)(3), substituted "this section or sectio
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1978 Amendment
 

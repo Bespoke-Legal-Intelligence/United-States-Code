@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) the implementation of the professional development activities assisted under this chapter and the impact on instruction, student academic achievement, and teacher qualifications to enhance the ability of special education teachers and regular education teachers to improve results for children with disabilities; and
 
-&emsp;&emsp;(D) the effectiveness of schools, local educational agencies, States, other recipients of assistance under this chapter, and the Secretary in achieving the purposes of this chapter by—
+&emsp;&emsp;(D) the effectiveness of schools, local educational agencies, States, other recipients ofassistance under this chapter, and the Secretary in achieving the purposes of this chapter by—
 
 &emsp;&emsp;&emsp;(i) improving the academic achievement of children with disabilities and their performance on regular statewide assessments as compared to nondisabled children, and the performance of children with disabilities on alternate assessments;
 
@@ -134,5 +134,5 @@ The Secretary shall study, and report to Congress regarding, the extent to which
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5,2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 

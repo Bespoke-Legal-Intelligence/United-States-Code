@@ -132,7 +132,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–519 effective beginning on first day of first applicable pay period beginning on or after Oct. 25, 1978, see section 4(a) of Pub. L. 95–519, set out as a note under section 5551 of this title.
+Amendment by Pub. L. 95–519 effective beginning on first day of first applicable pay period beginning on orafter Oct. 25, 1978, see section 4(a) of Pub. L. 95–519, set out as a note under section 5551 of this title.
 
 #### Effective Date of 1970 Amendment
 

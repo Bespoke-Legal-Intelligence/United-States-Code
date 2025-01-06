@@ -12,7 +12,7 @@ Not later than 90 days after December 16, 2022, the Administrator, in consultati
 
 The report under subsection (a) shall include the following:
 
-&emsp;(1) An examination of the current state of practice for precipitation estimation at scales appropriate for decisionmaker needs, and rationale for further evolution of this field.
+&emsp;(1) An examination of the current state of practice for precipitation estimation at scalesappropriate for decisionmaker needs, and rationale for further evolution of this field.
 
 &emsp;(2) An evaluation of best practices for precipitation estimation that are based on the best-available science, include considerations of non-stationarity, and can be utilized by the user community.
 

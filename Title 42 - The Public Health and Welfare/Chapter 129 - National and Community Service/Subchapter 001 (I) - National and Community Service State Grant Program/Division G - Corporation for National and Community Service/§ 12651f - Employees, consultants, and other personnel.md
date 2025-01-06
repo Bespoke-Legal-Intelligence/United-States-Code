@@ -2,7 +2,7 @@
 
 #### (a) Employees
 
-Except as provided in subsection (b), section 12651e(d) of this title, and section 414 of title 5, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+Except as provided in subsection (b), section 12651e(d) of this title, and section 414 of title 5,the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
 
 #### (b) Alternative personnel system
 
@@ -34,7 +34,7 @@ Except as provided in subsection (b), section 12651e(d) of this title, and secti
 
 #### (D) Compensation
 
-&emsp;&emsp;The system established under subparagraph (A) shall include a scheme for the classification of positions in the Corporation. The system shall require that the compensation of an employee be determined inpart on the basis of the job performance of the employee, and in a manner consistent with the principles described in section 5301 of title 5. The rate of compensation for each employee compensated under the system shall not exceed the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5.
+&emsp;&emsp;The system established under subparagraph (A) shall include a scheme for the classification of positions in the Corporation. The system shall require that the compensation of an employee be determined in part on the basis of the job performance of the employee, and in a manner consistent with the principles described in section 5301 of title 5. The rate of compensation for each employee compensated under the system shall not exceed the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (c) Corporation representative in each State
 
@@ -66,7 +66,7 @@ The Chief Executive Officer may procure the temporary and intermittent services 
 
 #### (e) Details of personnel
 
-The head of any Federal department or agency may detail on a reimbursable basis, or on a nonreimbursable basis for not to exceed 180 calendar days during any fiscal year, as agreed upon by the Chief Executive Officer and the head of the Federal agency, any of the personnel of that department or agency to the Corporation to assist the Corporation in carrying out the duties of the Corporation under the national service laws. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+The head of any Federal department or agency may detail on a reimbursable basis, or on a nonreimbursable basis for not to exceed 180 calendar days during any fiscal year, as agreed upon by the Chief Executive Officer and the head of theFederal agency, any of the personnel of that department or agency to the Corporation to assist the Corporation in carrying out the duties of the Corporation under the national service laws. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 
 #### (f) Advisory committees
 
@@ -106,7 +106,7 @@ The Corporation may enter into personal services contracts to carry out research
 
 #### References in Text
 
-Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec.\(c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
+Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified generally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 

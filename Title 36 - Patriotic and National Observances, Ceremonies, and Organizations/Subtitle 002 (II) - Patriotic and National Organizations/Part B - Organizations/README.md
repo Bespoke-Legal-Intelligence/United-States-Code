@@ -1,4 +1,4 @@
-Part B—Organizations
+## Part B—Organizations
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -60,7 +60,7 @@ Appointments.—Within 90 days from the date of enactment of this Act \[Dec. 22,
 
 "(c)
 
-Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term ofthe individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
+Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
 
 "(d)
 

@@ -8,7 +8,7 @@
 
 #### (2) Exemption
 
-&emsp;Paragraph (1) shall not apply to participation in international conferences or other international exchanges, partnerships, or programs, for which such participation has been approved by the National Institutes of Health. In such circumstances, the National Institutes of Health shall ensure appropriate training is provided to the participant on how to respond to overtures from individuals associated with foreign talent recruitment programs.
+&emsp;Paragraph (1) shall not apply to participation in international conferences or otherinternational exchanges, partnerships, or programs, for which such participation has been approved by the National Institutes of Health. In such circumstances, the National Institutes of Health shall ensure appropriate training is provided to the participant on how to respond to overtures from individuals associated with foreign talent recruitment programs.
 
 #### (b) Extramural research
 

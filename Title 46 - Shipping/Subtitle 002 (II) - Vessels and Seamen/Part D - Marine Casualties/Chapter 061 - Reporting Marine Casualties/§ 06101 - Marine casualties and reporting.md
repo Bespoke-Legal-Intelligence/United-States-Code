@@ -1,6 +1,6 @@
 ### §6101. Marine casualties and reporting
 
-(a) The Secretary shall prescribe regulations on the marine casualties to be reported and themanner of reporting. The regulations shall require reporting the following marine casualties:
+(a) The Secretary shall prescribe regulations on the marine casualties to be reported and the manner of reporting. The regulations shall require reporting the following marine casualties:
 
 &emsp;(1) death of an individual.
 
@@ -80,7 +80,7 @@ Historical and Revision Notes
 
 33:362
 
-Section 6101(a) requires the Secretary to prescribe regulations on the types and manner of reporting of marine casualties to be reported under subsection (b) and incidents to be reported under subsection (c). The casualties to be reported must include casualties involving death to an individual, serious injury to an individual, material loss of property, and any damage affecting the seaworthiness or efficiency of the vessel, in addition to the other casualties (if any) the Secretary feels should be reported.
+Section 6101(a) requires the Secretary to prescribe regulations on the types and manner of reporting of marine casualties to be reported under subsection (b) and incidents to be reported under subsection (c). Thecasualties to be reported must include casualties involving death to an individual, serious injury to an individual, material loss of property, and any damage affecting the seaworthiness or efficiency of the vessel, in addition to the other casualties (if any) the Secretary feels should be reported.
 
 Subsection (b) requires the owner, charterer, agent, master, operator, or individual in charge of a vessel to report within 5 days, any casualty required in subsection (a) or by regulation.
 

@@ -12,7 +12,7 @@ Act of June 17, 1902 (32 Stat. 388), referred to in text, is act June 17, 1902, 
 
 #### Codification
 
-Section is derived from part of section 3 of Pub. L. 87–728. Remainder of such section amended section 835c of this title, and repealed sections 835a, 835b, 835c–3, and 835c–5 of this title.
+Section is derived from part of section 3 of Pub. L. 87–728. Remainder of such section amended section 835cof this title, and repealed sections 835a, 835b, 835c–3, and 835c–5 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

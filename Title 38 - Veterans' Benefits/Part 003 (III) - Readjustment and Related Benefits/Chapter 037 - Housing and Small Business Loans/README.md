@@ -75,6 +75,7 @@
 | :--- | ---: |
 | [3761\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003761%20-%20Direct%20housing%20loans%20to%20Native%20American%20veterans%3B%20program%20authority.md) | Direct housing loans to Native American veterans; program authority. |
 | [3762\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003762%20-%20Direct%20housing%20loans%20to%20Native%20American%20veterans%3B%20program%20administration.md) | Direct housing loans to Native American veterans; program administration. |
+| [3762A.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003762A%20-%20Native%20community%20development%20financial%20institution%20relending%20program.md) | Native community development financial institution relending program. |
 | [3763\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003763%20-%20Native%20American%20Veteran%20Housing%20Loan%20Program%20Account.md) | Native American Veteran Housing Loan Program Account. |
 | [3764\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003764%20-%20Qualified%20non-Native%20American%20veterans.md) | Qualified non-Native American veterans. |
 | [3765\.](Subchapter%20005%20%28V%29%20-%20Direct%20Housing%20Loans%20for%20Native%20American%20Veterans/%C2%A7%2003765%20-%20Definitions.md) | Definitions. |
@@ -92,6 +93,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–210, title II, §232(b), Jan. 2, 2025, 138 Stat. 2788, added item 3762A.
 
 <b>2018</b>—Pub. L. 115–174, title III, §309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
 

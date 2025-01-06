@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) The chairman and ranking member of the Committee on Finance and 3 additional members of such Committee (not more than 2 of whom are members of the same political party).
 
-&emsp;&emsp;(B) The chairman and ranking member, or their designees, of the committees of the Senate which would have, under the Rules of the Senate, jurisdiction over provisions of law affected by a trade agreement negotiations for which are conducted at any timeduring that Congress and to which this chapter would apply.
+&emsp;&emsp;(B) The chairman and ranking member, or their designees, of the committees of the Senate which would have, under the Rules of the Senate, jurisdiction over provisions of law affected by a trade agreement negotiations for which are conducted at any time during that Congress and to which this chapter would apply.
 
 #### (4) Accreditation
 

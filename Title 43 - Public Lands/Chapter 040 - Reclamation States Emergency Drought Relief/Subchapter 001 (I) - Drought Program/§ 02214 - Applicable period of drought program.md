@@ -10,13 +10,15 @@ If a Governor referred to in subsection (a) is the Governor of the State of Wash
 
 #### (c) Termination of authority
 
-The authorities established under this subchapter shall terminate on September 30, 2022.<sup>1</sup>
+The authorities established under this subchapter shall terminate on September 30, 2028.
 
-(Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23, 2000, 114 Stat. 2820; Pub. L. 109–234, title II, §2306(a), June 15, 2006, 120 Stat. 456; Pub. L. 111–212, title I, §404(a), July 29, 2010, 124 Stat. 2313; Pub. L. 113–76, div. D, title II, §206, Jan. 17, 2014, 128 Stat. 164; Pub. L. 115–141, div. D, title II, §203(a), Mar. 23, 2018, 132 Stat. 519; Pub. L. 116–260, div. D, title II, §207(a), Dec. 27, 2020, 134 Stat. 1363; Pub. L. 117–103, div. D, title II, §206(a), Mar. 15, 2022, 136 Stat. 221.)
+(Pub. L. 102–250, title I, §104, Mar. 5, 1992, 106 Stat. 56; Pub. L. 106–566, title II, §201(a), Dec. 23, 2000, 114 Stat. 2820; Pub. L. 109–234, title II, §2306(a), June 15, 2006, 120 Stat. 456; Pub. L. 111–212, title I, §404(a), July 29, 2010, 124 Stat. 2313; Pub. L. 113–76, div. D, title II, §206, Jan. 17, 2014, 128 Stat. 164; Pub. L. 115–141, div. D, title II, §203(a), Mar. 23, 2018, 132 Stat. 519; Pub. L. 116–260, div. D, title II, §207(a), Dec. 27, 2020, 134 Stat. 1363; Pub. L. 117–103, div. D, title II, §206(a), Mar. 15, 2022, 136 Stat. 221; Pub. L. 118–170, §2(a), Dec. 23, 2024, 138 Stat. 2589.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–170 substituted "2028" for "2022".
 
 <b>2022</b>—Subsec. (c). Pub. L. 117–103 substituted "2022" for "2021".
 
@@ -38,7 +40,9 @@ Subsec. (c). Pub. L. 106–566, §201(a)(2), substituted "on September 30, 2005"
 
 #### Extension of Termination of Authority
 
-Pub. L. 117–328, div. D, title II, §206(a), Dec. 29, 2022, 136 Stat. 4631, provided that: "Section 104(c) of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2214(c)) shall be applied by substituting '2023' for '2022'."
+Pub. L. 118–42, div. D, title II, §206(a), Mar. 9, 2024, 138 Stat. 194, provided that: "Section 104(c) of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2214(c)) shall be applied by substituting '2024' for '2022'."
 
-<i><sup>1</sup></i><i> See Extension of Termination of Authority note below.</i>
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. D, title II, §206(a), Dec. 29, 2022, 136 Stat. 4631.
 

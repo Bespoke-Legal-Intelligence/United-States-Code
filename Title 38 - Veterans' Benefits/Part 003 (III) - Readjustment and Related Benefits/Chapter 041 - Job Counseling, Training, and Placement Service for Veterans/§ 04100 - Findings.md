@@ -6,7 +6,7 @@ The Congress makes the following findings:
 
 &emsp;(2) Because of the special nature of employment and training needs of such veterans and the national responsibility to meet those needs, policies and programs to increase opportunities for such veterans to obtain employment, job training, counseling, and job placement services and assistance in securing advancement in employment should be effectively and vigorously implemented by the Secretary of Labor and such implementation should be accomplished through the Assistant Secretary of Labor for Veterans' Employment and Training.
 
-(Added Pub. L. 97–306, title III, §301(a), Oct. 14, 1982, 96 Stat. 1436, §2000; amended Pub. L.100–323, §15(b)(1), May 20, 1988, 102 Stat. 574; renumbered §4100, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–306, title III, §301(a), Oct. 14, 1982, 96 Stat. 1436, §2000; amended Pub. L. 100–323, §15(b)(1), May 20, 1988, 102 Stat. 574; renumbered §4100, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,7 +118,7 @@ Review period.—The Secretary shall finish reviewing applications not later tha
 
 &emsp;"(4)
 
-Selection of recipients.—The Secretary shall select the employers to receive HIRE Vets Medallion Awards not later than September 30th of each calendar year for the Awards to be awarded in November of that calendar year.
+Selection of recipients.—The Secretary shall select the employers to receive HIRE Vets MedallionAwards not later than September 30th of each calendar year for the Awards to be awarded in November of that calendar year.
 
 &emsp;"(5)
 
@@ -410,7 +410,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 #### Committee To Raise Employer Awareness of Skills of Veterans and Benefits of Hiring Veterans
 
-Pub. L. 107–288, §6, Nov. 7, 2002, 116 Stat. 2046, established within the Department of Labor the President's National Hire Veterans Committee to carry out a national program to raise employer awareness of skills of veterans and benefits of hiring veterans, required reports to Congress not later than Dec. 31, 2003, 2004, and 2005 on the Committee's activities, and provided fortermination of the Committee 60 days after submitting the report that was due on Dec. 31, 2005.
+Pub. L. 107–288, §6, Nov. 7, 2002, 116 Stat. 2046, established within the Department of Labor the President's National Hire Veterans Committee to carry out a national program to raise employer awareness of skills of veterans and benefits of hiring veterans, required reports to Congress not later than Dec. 31, 2003, 2004, and 2005 on the Committee's activities, and provided for termination of the Committee 60 days after submitting the report that was due on Dec. 31, 2005.
 
 #### Report on Implementation of Employment Reforms
 

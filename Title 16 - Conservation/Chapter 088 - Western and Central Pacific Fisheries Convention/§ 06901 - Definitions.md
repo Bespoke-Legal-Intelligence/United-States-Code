@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Agreement
 
-&emsp;The term "Agreement" means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
+&emsp;The term "Agreement" means the Agreement for the Implementation of the Provisionsof the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
 
 #### (3) Commission
 

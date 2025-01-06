@@ -30,7 +30,7 @@ The purposes of the Fund shall be—
 
 #### (3) Father John Kaiser Memorial Fund
 
-&emsp;Of the amount authorized to be available to the Fund under paragraph (1) for fiscal year 2003, $500,000 is authorized to be available to advance the extraordinary work and values of Father John Kaiser with respect to solving ethnic conflict and promoting government accountability and respect for human rights. The amount made available under this paragraph may be referred to as the "Father John Kaiser Memorial Fund".
+&emsp;Of the amount authorized to be available to the Fund under paragraph (1) for fiscal year 2003, $500,000 is authorized to be available to advance the extraordinary work and values of Father John Kaiser with respect to solvingethnic conflict and promoting government accountability and respect for human rights. The amount made available under this paragraph may be referred to as the "Father John Kaiser Memorial Fund".
 
 (Pub. L. 107–228, div. A, title VI, §664, Sept. 30, 2002, 116 Stat. 1406.)
 

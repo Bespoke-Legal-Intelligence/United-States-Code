@@ -118,7 +118,33 @@ The members of the Advisory Board shall—
 
 &emsp;&emsp;The Advisory Board may meet in closed sessions in accordance with section 552b of title 5.
 
-#### (f) Compensation
+#### (f) Suspension and debarment of grantees
+
+#### (1) In general
+
+&emsp;Subject to paragraphs (2) and (3), a grantee may not be debarred or suspended without consultation with the Chief Executive Officer and a three-fourths majority vote of the Advisory Board in support of such action.
+
+#### (2) Suspension
+
+#### (A) Criteria for suspension
+
+&emsp;&emsp;A grantee may not be suspended unless the Advisory Board determines that the criteria described in section 513.405 of title 22, Code of Federal Regulations, have been met.
+
+#### (B) Suspending official
+
+&emsp;&emsp;The Advisory Board shall collectively serve as the suspending official (as described in section 513.105 of title 22, Code of Federal Regulations).
+
+#### (3) Debarment
+
+#### (A) Criteria for debarment
+
+&emsp;&emsp;A grantee may not be debarred unless the Advisory Board determines that one or more of the causes described in section 513.305 of title 22, Code of Federal Regulations, has been established.
+
+#### (B) Debarring official
+
+&emsp;&emsp;The Advisory Board shall collectively serve as the debarring official (as described in section 513.105 of title 22, Code of Federal Regulations).
+
+#### (g) Compensation
 
 #### (1) In general
 
@@ -132,11 +158,11 @@ The members of the Advisory Board shall—
 
 &emsp;The Secretary of State is not entitled to any compensation under this chapter, but may be allowed travel expenses in accordance with paragraph (2).
 
-#### (g) Support staff
+#### (h) Support staff
 
 The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).
 
-(Pub. L. 103–236, title III, §306, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(j), Oct. 21, 1998, 112 Stat. 2681–780; Pub. L. 114–328, div. A, title XII, §1288(3), Dec. 23, 2016, 130 Stat. 2551; Pub. L. 116–283, div. A, title XII, §1299Q(d), Jan. 1, 2021, 134 Stat. 4022.)
+(Pub. L. 103–236, title III, §306, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(j), Oct. 21, 1998, 112 Stat. 2681–780; Pub. L. 114–328, div. A, title XII, §1288(3), Dec. 23, 2016, 130 Stat. 2551; Pub. L. 116–283, div. A, title XII, §1299Q(d), Jan. 1, 2021, 134 Stat. 4022; Pub. L. 118–159, div. G, title LXXIV, §7401, Dec. 23, 2024, 138 Stat. 2543.)
 
 #### <b>Editorial Notes</b>
 
@@ -148,9 +174,11 @@ This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original "th
 
 #### Codification
 
-Pub. L. 116–283, div. A, title XII, §1299Q(d), Jan. 1, 2021, 134 Stat. 4022, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+Pub. L. 116–283, div. A, title XII, §1299Q(d), Jan. 1, 2021, 134 Stat. 4022, which amended this section, wasitself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (f) to (h). Pub. L. 118–159 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1299Q(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the 'Advisory Board') shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate."
 

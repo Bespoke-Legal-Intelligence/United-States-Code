@@ -2,7 +2,7 @@
 
 #### (a) Authority to prescribe regulations
 
-The Secretary is authorized to prescribe such regulations as may be necessary or appropriateto determine whether an interest in a corporation is to be treated for purposes of this title as stock or indebtedness (or as in part stock and in part indebtedness).
+The Secretary is authorized to prescribe such regulations as may be necessary or appropriate to determine whether an interest in a corporation is to be treated for purposes of this title as stock or indebtedness (or as in part stock and in part indebtedness).
 
 #### (b) Factors
 
@@ -48,7 +48,7 @@ The regulations prescribed under this section shall set forth factors which are 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\]."
+Pub. L. 102–486, title XIX, §1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 #### Regulations Not To Be Applied Retroactively
 

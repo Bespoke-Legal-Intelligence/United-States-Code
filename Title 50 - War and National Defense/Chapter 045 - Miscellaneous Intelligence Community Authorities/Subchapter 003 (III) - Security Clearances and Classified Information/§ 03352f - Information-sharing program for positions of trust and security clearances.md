@@ -104,7 +104,7 @@ Review.—
 
 &emsp;"(1)
 
-Submission.—Not later than 1 year after the date of the issuance of the policy under subsection (a), the Director of National Intelligence and the Secretary of Defense shall jointly submit to Congress and make available to such industry partners as the Director and the Secretary consider appropriate a review of the policy.
+Submission.—Not later than 1 year after the date of the issuance of the policy under subsection\(a), the Director of National Intelligence and the Secretary of Defense shall jointly submit to Congress and make available to such industry partners as the Director and the Secretary consider appropriate a review of the policy.
 
 &emsp;"(2)
 
@@ -148,7 +148,7 @@ Governance.—The Director of National Intelligence, acting as the Security Exec
 
 &emsp;"(2) not later than 2 years after the date of the enactment of this Act and not less frequently than once every 6 months thereafter, submit to Congress a report on the timing, delivery, and adoption of Federal Government agencies' policies, products, and services to implement the Trusted Workforce 2.0 initiative, including those associated with the National Background Investigation Service; and
 
-&emsp;"(3) not later than 90 days after the date of the enactment of this Act, submit to Congress performance management metrics for the implementation of theTrusted Workforce 2.0 initiative, including performance metrics regarding timeliness, cost, and measures of effectiveness."
+&emsp;"(3) not later than 90 days after the date of the enactment of this Act, submit to Congress performance management metrics for the implementation of the Trusted Workforce 2.0 initiative, including performance metrics regarding timeliness, cost, and measures of effectiveness."
 
 #### Trusted Information Provider Program for National Security Positions and Positions of Trust
 

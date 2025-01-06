@@ -34,7 +34,7 @@ Under authority vested in the President by the Military Selective Service Act (6
 
 In order to evaluate an annual registration system, existing procedures are being terminated and will be replaced by new procedures which will provide for periodic registration.
 
-NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by the Constitution and the statutes of the United States, including the Military Selective Service Act, as amended, do hereby revoke Proclamations No. 2799 of July 20, 1948, No. 2937 of August 16, 1951, No. 2938 of August 16, 1951, No. 2942 of August 30,1951, No. 2972 of April 17, 1952, No. 3314 of September 14, 1959, and No. 4101 of January 13, 1972; thereby terminating the present procedures for registration under the Military Selective Service Act, as amended.
+NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by the Constitution and the statutes of the United States, including the Military Selective Service Act, as amended, do hereby revoke Proclamations No. 2799 of July 20, 1948, No. 2937 of August 16, 1951, No. 2938 of August 16, 1951, No. 2942 of August 30, 1951, No. 2972 of April 17, 1952, No. 3314 of September 14, 1959, and No. 4101 of January 13, 1972; thereby terminating the present procedures for registration under the Military Selective Service Act, as amended.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-ninth day of March in the year of our Lord nineteen hundred seventy-five, and of the Independence of the United States of America the one hundred ninety-ninth.
 
@@ -62,7 +62,7 @@ Persons To Be Registered and Days of Registration
 
 1–104. Persons born in calendar year 1962 shall present themselves for registration on any of the six days beginning Monday, January 5, 1981.
 
-1–105. Persons born on or after January 1, 1963, shall present themselves for registration on the day they attain the 18th anniversary of their birth or on any day within the period of 60 days beginning 30 days before such date; however, in no event shall such persons present themselves for registration prior to January 5, 1981.
+1–105. Persons born on or after January 1, 1963, shall present themselves for registration on the day they attain the 18th anniversary of their birth or on any day within the period of 60 days beginning 30 days before such date; however, in no event shall such personspresent themselves for registration prior to January 5, 1981.
 
 1–106. Aliens who would be required to present themselves for registration pursuant to Sections 1–101 to 1–105, but who are in processing centers on the dates fixed for registration, shall present themselves for registration within 30 days after their release from such centers.
 

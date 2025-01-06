@@ -6,7 +6,11 @@
 
 &emsp;A United States mission shall submit an initial report of a Serious Security Incident not later than 3 days after such incident occurs, whenever feasible, at which time an investigation of the incident shall be initiated.
 
-#### (2) Investigation
+#### (2) Initial congressional notification
+
+&emsp;The Secretary shall notify the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, the majority and minority leaders of the Senate, and the Speaker and minority leader of the House of Representatives not later than 8 days after a possible Serious Security Incident has been identified by the Department. Such notification shall include a preliminary description of the incident, of an incident described in paragraph (1), including any known individuals involved, when and where the incident took place, and the next steps in the investigation.
+
+#### (3) Investigation
 
 &emsp;Not later than 10 days after the submission of a report pursuant to paragraph (1), the Secretary shall direct the Diplomatic Security Service to assemble an investigative team to investigate the incident and independently establish what occurred. Each investigation under this subsection shall cover—
 
@@ -14,13 +18,13 @@
 
 &emsp;&emsp;(B) in the event the Serious Security Incident involved a United States diplomatic compound, motorcade, residence, or other facility, an assessment of whether adequate security countermeasures were in effect based on a known threat at the time of the incident;
 
-&emsp;&emsp;(C) if the incident involved an individual or group of officers, employees, or family members under Chief of Mission security responsibility conducting approved operations or movements outside the United States mission, an assessment of whether proper security briefings and procedures were in place and whether weighing of risk of the operation or movement took place; and
+&emsp;&emsp;(C) if the incident involved an individual or group of officers, employees, or familymembers under Chief of Mission security responsibility conducting approved operations or movements outside the United States mission, an assessment of whether proper security briefings and procedures were in place and whether weighing of risk of the operation or movement took place; and
 
 &emsp;&emsp;(D) an assessment of whether the failure of any officials or employees to follow procedures or perform their duties contributed to the security incident.
 
-#### (3) Investigative team
+#### (4) Investigative team
 
-&emsp;The investigative team assembled pursuant to paragraph (2) shall consist of individuals from the Diplomatic Security Service who shall provide an independent examination of the facts surrounding the incident and what occurred. The Secretary, or the Secretary's designee, shall review the makeup of the investigative team for a conflict, appearance of conflict, or lack of independence that could undermine the results of the investigation and may remove or replace any members of the team to avoid such an outcome.
+&emsp;The investigative team assembled pursuant to paragraph (3) shall consist of individuals from the Diplomatic Security Service who shall provide an independent examination of the facts surrounding the incident and what occurred. The Secretary, or the Secretary's designee, shall review the makeup of the investigative team for a conflict, appearance of conflict, or lack of independence that could undermine the results of the investigation and may remove or replace any members of the team to avoid such an outcome.
 
 #### (b) Report of Investigation
 
@@ -36,11 +40,13 @@ Not later than 90 days after the occurrence of a Serious Security Incident, the 
 
 The investigative team investigating a Serious Security Incident shall adopt such procedures with respect to confidentiality as determined necessary, including procedures relating to the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of National Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel included in the report required under subsection (b). The Security Review Committee shall determine the level of classification of the final report prepared pursuant to section 4834(b) of this title, and shall incorporate the same confidentiality measures in such report to the maximum extent practicable.
 
-(Pub. L. 99–399, title III, §303, Aug. 27, 1986, 100 Stat. 859; Pub. L. 117–263, div. I, title XCIII, §9302(f), Dec. 23, 2022, 136 Stat. 3886; Pub. L. 117–286, §4(a)(170), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 99–399, title III, §303, Aug. 27, 1986, 100 Stat. 859; Pub. L. 117–263, div. I, title XCIII, §9302(f), Dec. 23, 2022, 136 Stat. 3886; Pub. L. 117–286, §4(a)(170), Dec. 27, 2022, 136 Stat. 4324; Pub. L. 118–159, div. G, title LXXV, §7502, Dec. 23, 2024, 138 Stat. 2545.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2) to (4). Pub. L. 118–159, which directed amendment of "section 301(a)" of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 by adding par. (2), redesignating former pars. (2) and (3) as (3) and (4), respectively, and substituting "paragraph (3)" for "paragraph (2)" in par. (4), was executed to subsec. (a) of this section, which is section 303 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, to reflect the probable intent of Congress.
 
 <b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to procedures as to evidence, confidentiality, and records of Accountability Review Boards, and also to the status of the Boards.
 

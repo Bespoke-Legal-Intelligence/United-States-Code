@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) focus on the programs' performance on the relevant outcome criteria determined under section 1070a–11(f)(4) of this title;
 
-&emsp;&emsp;(C) aggregate individual project performance data on the outcome criteria in orderto provide national performance data for each program;
+&emsp;&emsp;(C) aggregate individual project performance data on the outcome criteria in order to provide national performance data for each program;
 
 &emsp;&emsp;(D) include, when appropriate, descriptive data, multi-year data, and multi-cohort data; and
 
@@ -18,7 +18,7 @@
 
 #### (2) Information
 
-&emsp;The Secretary shall provide, with each report submitted under paragraph (1), information on the impact of the secondary review process described in section 1070a–11(c)(8)(C)(iv) of this title, including the number and type of secondary reviews, the disposition of the secondary reviews, the effect on timing of awards, and any other information the Secretary determines is necessary.
+&emsp;The Secretary shall provide, with each report submitted under paragraph (1), information on the impact of the secondary review process described in section 1070a–11(c)(8)(C)(iv) of this title, including the number and type of secondary reviews, the disposition of the secondary reviews, the effecton timing of awards, and any other information the Secretary determines is necessary.
 
 #### (b) Evaluations
 
@@ -84,7 +84,7 @@ The Secretary may award grants to institutions of higher education or other priv
 
 In order to improve overall program or project effectiveness, the results of evaluations and grants described in this section shall be disseminated by the Secretary to similar programs or projects assisted under this subpart, as well as other individuals concerned with postsecondary access for and retention of low-income individuals and first-generation college students.
 
-(Pub. L. 89–329, title IV, §402H, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(g),Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(h), Aug. 14, 2008, 122 Stat. 3204.)
+(Pub. L. 89–329, title IV, §402H, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(g), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(h), Aug. 14, 2008, 122 Stat. 3204.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 110–315, §403(h)(2), (4), redesignated subsec. (a) as (b
 
 "(1)
 
-In general.—For the purpose of improving the effectiveness of the programs and projects assisted under this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
+In general.—For the purpose of improving the effectiveness of the programs and projects assisted under this division, the Secretary may make grants toor enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
 
 "(2)
 

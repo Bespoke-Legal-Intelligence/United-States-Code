@@ -38,7 +38,7 @@ There is established a council to be known as the Technical Mapping Advisory Cou
 
 &emsp;&emsp;&emsp;(ix) a member of a recognized regional flood and storm water management organization;
 
-&emsp;&emsp;&emsp;(x) 2 representatives of different State government agencies that have enteredinto cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance rate maps;
+&emsp;&emsp;&emsp;(x) 2 representatives of different State government agencies that have entered into cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance rate maps;
 
 &emsp;&emsp;&emsp;(xi) 2 representatives of different local government agencies that have entered into cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance maps;
 
@@ -50,7 +50,7 @@ There is established a council to be known as the Technical Mapping Advisory Cou
 
 #### (2) Qualifications
 
-&emsp;Members of the Council shall be appointed based on their demonstrated knowledge and competence regarding surveying, cartography, remote sensing, geographic information systems, or the technical aspects of preparing and using flood insurance rate maps. In appointing members under paragraph (1)(E), the Administrator shall, to the maximum extent practicable, ensure that the membership of the Council has a balance of Federal, State, local, tribal, and private members, and includes geographic diversity, including representation from areas with coastline on the Gulf of Mexico and other States containing areas identified by the Administrator as at high risk for flooding or as areas having special flood hazards.
+&emsp;Members of the Council shall be appointed based on their demonstrated knowledge and competence regarding surveying, cartography,remote sensing, geographic information systems, or the technical aspects of preparing and using flood insurance rate maps. In appointing members under paragraph (1)(E), the Administrator shall, to the maximum extent practicable, ensure that the membership of the Council has a balance of Federal, State, local, tribal, and private members, and includes geographic diversity, including representation from areas with coastline on the Gulf of Mexico and other States containing areas identified by the Administrator as at high risk for flooding or as areas having special flood hazards.
 
 #### (c) Duties
 
@@ -146,7 +146,7 @@ The Chairperson may appoint officers to assist in carrying out the duties of the
 
 #### (k) Powers
 
-In carrying out this section, the Council may hold hearings, receive evidence and assistance, provide information, and conduct research, as it considers appropriate.
+In carrying out this section, the Council may hold hearings, receive evidence and assistance,provide information, and conduct research, as it considers appropriate.
 
 #### (l) Report to Congress
 

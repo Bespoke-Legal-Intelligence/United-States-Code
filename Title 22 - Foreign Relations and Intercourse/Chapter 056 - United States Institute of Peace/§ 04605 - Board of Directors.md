@@ -58,7 +58,7 @@ A member of the Board appointed under subsection (b)(4) may be removed by the Pr
 
 #### (g) Conflict of interests
 
-No member of the Board may participate in any decision, action, or recommendation withrespect to any matter which directly and financially benefits the member or pertains specifically to any public body or any private or nonprofit firm or organization with which the member is then formally associated or has been formally associated within a period of two years, except that this subsection shall not be construed to prohibit an ex officio member of the Board from participation in actions of the Board which pertain specifically to the public body of which that member is an officer.
+No member of the Board may participate in any decision, action, or recommendation with respect to any matter which directly and financially benefits the member or pertains specifically to any public body or any private or nonprofit firm or organization with which the member is then formally associated or has been formally associated within a period of two years, except that this subsection shall not be construed to prohibit an ex officio member of the Board from participation in actions of the Board which pertain specifically to the public body of which that member is an officer.
 
 #### (h) Meetings; Chairman; Vice Chairman; quorum; notice in Federal Register; closure
 
@@ -106,7 +106,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
+Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to anymember of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
 
 #### Effective Date of 1998 Amendment
 

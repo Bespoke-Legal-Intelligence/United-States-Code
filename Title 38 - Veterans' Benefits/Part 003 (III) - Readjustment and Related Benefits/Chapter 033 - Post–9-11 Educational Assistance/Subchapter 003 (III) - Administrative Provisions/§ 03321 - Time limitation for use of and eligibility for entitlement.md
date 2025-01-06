@@ -16,7 +16,7 @@ Exceptions.—
 
 Applicability of section 3031 to running of period.—(A) Subsections (b), (c), (d), and (i) of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
 
-&emsp;(B) Subsection (i) of section 3031 shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 of this title with respect to the running of the 10-year period described in section 3031(a) of this title.
+&emsp;(B) Subsection (i) of section 3031 shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as suchsubsection applies under section 3031 of this title with respect to the running of the 10-year period described in section 3031(a) of this title.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Applicability to spouses of deceased members.—The period during which a spouse
 
 &emsp;&emsp;(B) in the case of a spouse who first becomes entitled to such entitlement on or after January 1, 2013, shall not expire.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889;Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 115–48, title I, §§105(c)(5), 112, Aug. 16, 2017, 131 Stat. 976, 984; Pub. L. 116–61, §6(4), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 117–328, div. U, title II, §232(b), Dec. 29, 2022, 136 Stat. 5457; Pub. L. 117–333, §3(b)(1), Jan. 5, 2023, 136 Stat. 6126.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–32, title X, §1002(c), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(8), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 113–146, title VII, §701(c), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 115–48, title I, §§105(c)(5), 112, Aug. 16, 2017, 131 Stat. 976, 984; Pub. L. 116–61, §6(4), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 117–328, div. U, title II, §232(b), Dec. 29, 2022, 136 Stat. 5457; Pub. L. 117–333, §3(b)(1), Jan. 5, 2023, 136 Stat. 6126.)
 
 #### <b>Editorial Notes</b>
 

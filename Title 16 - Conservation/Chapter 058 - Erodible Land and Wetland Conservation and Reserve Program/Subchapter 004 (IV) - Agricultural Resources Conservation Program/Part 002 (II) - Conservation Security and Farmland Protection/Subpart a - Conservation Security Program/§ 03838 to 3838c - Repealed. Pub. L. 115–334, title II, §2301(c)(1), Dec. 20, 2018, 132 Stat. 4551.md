@@ -8,7 +8,7 @@ Section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 107–171,
 
 A prior section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, defined terms for purposes of this part, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 
-Section 3838b, Pub. L. 99–198, title XII, §1238B, as added Pub. L. 107–171, title II, §2001(a), May 13, 2002, 116 Stat. 230, set forth duties of producers under conservation security contracts.
+Section 3838b, Pub. L. 99–198, title XII, §1238B, as added Pub. L. 107–171, title II, §2001(a), May 13, 2002, 116Stat. 230, set forth duties of producers under conservation security contracts.
 
 A prior section 3838b, Pub. L. 99–198, title XII, §1238B, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, directed Secretary to formulate and carry out agricultural water quality protection program, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 

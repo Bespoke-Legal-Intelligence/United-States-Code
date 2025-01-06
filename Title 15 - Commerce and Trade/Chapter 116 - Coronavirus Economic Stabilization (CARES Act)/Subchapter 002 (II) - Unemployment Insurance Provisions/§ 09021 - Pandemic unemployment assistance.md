@@ -18,7 +18,7 @@ In this section:
 
 &emsp;&emsp;(A) means an individual who—
 
-&emsp;&emsp;&emsp;(i) is not eligible for regular compensation or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 of this title, including an individual who has exhausted all rights to regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 of this title;
+&emsp;&emsp;&emsp;(i) is not eligible for regular compensation or extended benefits under State orFederal law or pandemic emergency unemployment compensation under section 9025 of this title, including an individual who has exhausted all rights to regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 of this title;
 
 &emsp;&emsp;&emsp;(ii) provides self-certification that the individual—
 
@@ -46,7 +46,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(kk) the individual meets any additional criteria established by the Secretary for unemployment assistance under this section; or
 
-&emsp;&emsp;&emsp;&emsp;(II) is self-employed, is seeking part-time employment, does not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 ofthis title, and meets the requirements of subclause (I); and
+&emsp;&emsp;&emsp;&emsp;(II) is self-employed, is seeking part-time employment, does not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under State or Federal law or pandemic emergency unemployment compensation under section 9025 of this title, and meets the requirements of subclause (I); and
 
 &emsp;&emsp;&emsp;(iii) provides documentation to substantiate employment or self-employment or the planned commencement of employment or self-employment not later than 21 days after the later of the date on which the individual submits an application for pandemic unemployment assistance under this section or the date on which an individual is directed by the State Agency to submit such documentation in accordance with section 625.6(e) of title 20, Code of Federal Regulations, or any successor thereto, except that such deadline may be extended if the individual has shown good cause under applicable State law for failing to submit such documentation; and
 
@@ -84,7 +84,7 @@ Subject to subsection (c), the Secretary shall provide to any covered individual
 
 #### (2) Limitation on duration of assistance
 
-&emsp;The total number of weeks for which a covered individual may receive assistance under this section shall not exceed 79 weeks and such total shall include any week for which the covered individual received regular compensation or extended benefits under any Federal or State law, except that if after March 27, 2020, the duration of extended benefits is extended, the 79-week period described in this paragraph shall be extended by the number of weeks that is equal to the number of weeks by which the extended benefits were extended.
+&emsp;The total number of weeks for which a covered individual may receive assistance underthis section shall not exceed 79 weeks and such total shall include any week for which the covered individual received regular compensation or extended benefits under any Federal or State law, except that if after March 27, 2020, the duration of extended benefits is extended, the 79-week period described in this paragraph shall be extended by the number of weeks that is equal to the number of weeks by which the extended benefits were extended.
 
 #### (3) Assistance for unemployment before March 27, 2020
 
@@ -224,7 +224,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 117–2, §9011(a)(1)(B), substituted "September 
 
 Subsec. (c)(2). Pub. L. 117–2, §9011(b), substituted "79 weeks" for "50 weeks" and "79-week period" for "50-week period".
 
-Subsec. (c)(3), (4). Pub. L. 117–2, §9011(a)(2), redesignated par. (4) as (3) and struck out former par. (3) which related to a transition rule for individuals remaining entitled to pandemic unemployment assistance as of Mar. 14, 2021.
+Subsec. (c)(3), (4). Pub. L. 117–2, §9011(a)(2), redesignated par. (4) as (3) and struck out former par. (3) whichrelated to a transition rule for individuals remaining entitled to pandemic unemployment assistance as of Mar. 14, 2021.
 
 <b>2020</b>—Subsec. (a)(3)(A)(iii). Pub. L. 116–260, §241(a), added cl. (iii).
 
@@ -270,7 +270,7 @@ In general.—Subject to paragraphs (2) and (3), the amendments made by subsecti
 
 "(2)
 
-Special rule.—An individual who received pandemic unemployment assistance under section 2102 of the CARES Act (15 U.S.C. 9021) for any week ending before the date of enactment of this Act \[Dec. 27, 2020\] shall not be considered ineligible for such assistancefor such week solely by reason of failure to submit documentation described in clause (iii) of subsection (a)(3)(A) of such section 2102, as added by subsection (a).
+Special rule.—An individual who received pandemic unemployment assistance under section 2102 of the CARES Act (15 U.S.C. 9021) for any week ending before the date of enactment of this Act \[Dec. 27, 2020\] shall not be considered ineligible for such assistance for such week solely by reason of failure to submit documentation described in clause (iii) of subsection (a)(3)(A) of such section 2102, as added by subsection (a).
 
 "(3)
 

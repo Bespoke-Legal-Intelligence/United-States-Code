@@ -6,7 +6,7 @@ In General.—The proper accounting officer of the United States shall pay a fin
 
 (b)
 
-Source of Payment.—Payment shall be made from an appropriation or fund available specifically for the purpose. If no appropriation or fund is specifically available, there is hereby appropriated, out of money in the Treasury not otherwise appropriated, an amount sufficient to pay the judgment, award, or settlement.
+Source of Payment.—Payment shall be made from an appropriation or fund available specifically for the purpose. If no appropriation or fund is specifically available, there is herebyappropriated, out of money in the Treasury not otherwise appropriated, an amount sufficient to pay the judgment, award, or settlement.
 
 (Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1519.)
 

@@ -12,11 +12,15 @@ In this chapter:
 
 #### (3) Abduction case
 
-&emsp;The term "abduction case" means a case that—
+&emsp;The term abduction case <sup>1</sup> means—
 
-&emsp;&emsp;(A) has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction; and
+&emsp;&emsp;(A) a case that—
 
-&emsp;&emsp;(B) meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country.
+&emsp;&emsp;&emsp;(i) has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction;
+
+&emsp;&emsp;&emsp;(ii) meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country; and
+
+&emsp;&emsp;(B) includes any case reported involving an application filed with the Central Authority of the United States or directly with the foreign central authority by a parent seeking rights of access or return.
 
 #### (4) Access case
 
@@ -60,7 +64,7 @@ In this chapter:
 
 #### (11) Child
 
-&emsp;The term "child" means an individual who has not attained 16 years of age.
+&emsp;The term "child" means an individual who has not attained 18 years of age.
 
 #### (12) Convention country
 
@@ -178,13 +182,19 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(vi) the child or left-behind parent is deceased.
 
-(Pub. L. 113–150, §3, Aug. 8, 2014, 128 Stat. 1809.)
+(Pub. L. 113–150, §3, Aug. 8, 2014, 128 Stat. 1809; Pub. L. 118–159, div. G, title LXXV, §7509(a), Dec. 23, 2024, 138 Stat. 2550.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+<b>2024</b>—Par. (3). Pub. L. 118–159, §7509(a)(1), substituted "abduction case means—" for " 'abduction case'means" in introductory provisions, inserted subpar. (A) designation before "a case", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Par. (11). Pub. L. 118–159, §7509(a)(2), substituted "18" for "16".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -261,4 +271,6 @@ Purposes.—The purposes of this Act \[see Short Title note above\] are—
 &emsp;"(6) to establish a program to prevent wrongful abductions; and
 
 &emsp;"(7) to increase interagency coordination in preventing international child abduction by convening a working group composed of presidentially appointed and Senate confirmed officials from the Department of State, the Department of Homeland Security, and the Department of Justice."
+
+<i><sup>1</sup></i><i> So in original. The defined term probably should be within quotation marks.</i>
 

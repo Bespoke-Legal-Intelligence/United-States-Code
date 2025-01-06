@@ -20,7 +20,7 @@ The Secretary shall certify a group of agricultural commodity producers as eligi
 
 A group of agricultural commodity producers certified as eligible under section 2401b of this title shall be eligible to apply for assistance under this part in any qualified year after the year the group is first certified, if the Secretary determines that—
 
-&emsp;(1) the national average price for the agricultural commodity, or class of goods within the agricultural commodity, produced by the group for the most recent marketing year for which the national average price is available is equal to or less than the price determined under subsection (c)(1); and
+&emsp;(1) the national average price for the agricultural commodity, or class of goods withinthe agricultural commodity, produced by the group for the most recent marketing year for which the national average price is available is equal to or less than the price determined under subsection (c)(1); and
 
 &emsp;(2) the requirements of subsection (c)(2) are met.
 

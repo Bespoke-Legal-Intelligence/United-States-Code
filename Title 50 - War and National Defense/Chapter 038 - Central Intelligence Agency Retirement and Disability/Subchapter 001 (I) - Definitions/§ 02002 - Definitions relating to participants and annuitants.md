@@ -120,7 +120,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (4) Exclusion of stepchildren from lump-sum payment
 
-&emsp;For purposes of section 2071(c) of this title, the term "child" includes an adopted child and a natural child, but does not include a stepchild.
+&emsp;For purposes of section 2071(c) of this title, the term "child" includes an adopted childand a natural child, but does not include a stepchild.
 
 (Pub. L. 88–643, title I, §102, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3198.)
 

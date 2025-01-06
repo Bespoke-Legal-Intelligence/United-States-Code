@@ -54,7 +54,7 @@ A prior section 111 of Pub. L. 93–247 was renumbered section 109 and is classi
 
 #### Amendments
 
-<b>2023</b>—Subsec. (b)(1). Pub. L. 117–348 substituted "a victim of 'child abuse and neglect' and of 'sexual abuse' if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of human trafficking." for "a victim of 'child abuse and neglect' and of 'sexual abuse' if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of section 7102 of title 22) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section."
+<b>2023</b>—Subsec. (b)(1). Pub. L. 117–348 substituted "a victim of 'child abuse and neglect' and of 'sexual abuse' if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of human trafficking." for "a victim of 'child abuse and neglect' and of 'sexual abuse' if the child is identified, by a State or local agency employee of the Stateor locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of section 7102 of title 22) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section."
 
 <b>2015</b>—Pub. L. 114–22, §802(c)(1), designated existing provisions as subsec. (a) and inserted heading and added subsec. (b).
 
@@ -70,7 +70,7 @@ Par. (3). Pub. L. 114–95 made technical amendment to reference in original act
 
 &emsp;"(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides;
 
-"(2) the term 'child abuse and neglect' means, at a minimum, any recent act or failure to act on the partof a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm;".
+"(2) the term 'child abuse and neglect' means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm;".
 
 Par. (3). Pub. L. 111–320, §142(b)(1)–(3), redesignated par. (10) as (3), struck out "and" at end, and struck out former par. (3) which read as follows: "the term 'Secretary' means the Secretary of Health and Human Services;".
 

@@ -130,7 +130,7 @@ Recipients of hazard mitigation assistance provided under this section and secti
 
 &emsp;(3) improvements to seismometers, Global Positioning System receivers, and associated infrastructure in support of building a capability for earthquake early warning.
 
-(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3,1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463; Pub. L. 117–58, div. D, title I, §40102, Nov. 15, 2021, 135 Stat. 928.)
+(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463; Pub. L. 117–58, div. D, title I, §40102, Nov. 15, 2021, 135 Stat. 928.)
 
 #### <b>Editorial Notes</b>
 
@@ -196,7 +196,7 @@ Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: "The ame
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Hazard Eligibility and Local Projects
 

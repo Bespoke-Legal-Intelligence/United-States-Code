@@ -10,7 +10,7 @@
 
 #### (A) Improvements
 
-&emsp;&emsp;In carrying out the Incremental Technology Development Program, the Secretaryshall focus on the continuous improvement of new or available technologies, including—
+&emsp;&emsp;In carrying out the Incremental Technology Development Program, the Secretary shall focus on the continuous improvement of new or available technologies, including—
 
 &emsp;&emsp;&emsp;(i) decontamination chemicals and techniques;
 
@@ -22,7 +22,7 @@
 
 #### (B) Other areas
 
-&emsp;&emsp;The Secretary may include in the Incremental Technology Development Program mission-relevant development, demonstration, and deployment activities unrelated to the focus areas described in subparagraph (A).
+&emsp;&emsp;The Secretary may include in the Incremental Technology Development Program mission-relevant development, demonstration, and deployment activities unrelated tothe focus areas described in subparagraph (A).
 
 #### (3) Use of new and emerging technologies
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(i) to address engineering adaptations;
 
-&emsp;&emsp;&emsp;(ii) to ensure compliance with waste treatment standards and other applicable requirements under Federal and State law and any existing agreements or consent decrees to which the Department is a party; and
+&emsp;&emsp;&emsp;(ii) to ensure compliance with waste treatment standards and other applicable requirements under Federal and State lawand any existing agreements or consent decrees to which the Department is a party; and
 
 &emsp;&emsp;&emsp;(iii) to enable successful deployment at full-scale and in support of operations.
 

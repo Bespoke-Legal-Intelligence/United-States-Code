@@ -14,7 +14,7 @@ Functions of Defense Research Facilities.—The Secretary of Defense shall ensur
 
 &emsp;(5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions; and
 
-&emsp;(6) that, in light of Defense research facilities being funded by the public, Defense research facilities are broadly authorized and encouraged to support national technologicaldevelopment goals and support technological missions of other departments and agencies of the Federal Government, when such support is determined by the Secretary of Defense to be in the best interests of the Federal Government.
+&emsp;(6) that, in light of Defense research facilities being funded by the public, Defense research facilities are broadly authorized and encouraged to support national technological development goals and support technological missions of other departments and agencies of the Federal Government, when such support is determined by the Secretary of Defense to be in the best interests of the Federal Government.
 
 (b)
 

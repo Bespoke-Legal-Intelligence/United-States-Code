@@ -48,7 +48,7 @@ Under regulations provided by the Secretary, no tax shall be imposed under secti
 
 #### (1) In general
 
-&emsp;In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a person shall provide to the provider of communications services a statement (in such form and manneras the Secretary may provide) certifying that such person is entitled to such exemption.
+&emsp;In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a person shall provide to the provider of communications services a statement (in such form and manner as the Secretary may provide) certifying that such person is entitled to such exemption.
 
 #### (2) Duration of certificate
 
@@ -112,7 +112,7 @@ Subsecs. (h) to (j). Pub. L. 89–44 struck out subsecs. (h) to (j), which relat
 
 Subsec. (b). Pub. L. 85–859 substituted "general telephone service, on any payment received from any person for services used" for "local telephone service, upon any payment received from any person for services or facilities utilized".
 
-Subsec. (c). Pub. L. 85–859 substituted "on any payment received for services furnished to an international organization, or to the American National Red Cross" for "upon any payment received for services or facilities furnished to an international organization, or any organization created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864".
+Subsec. (c). Pub. L. 85–859 substituted "on any payment received for services furnished to an international organization, or to the American National Red Cross" for "upon any payment received for services orfacilities furnished to an international organization, or any organization created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864".
 
 Subsec. (d). Pub. L. 85–859 substituted "on any payment received for any toll telephone service" for "with respect to long distance telephone service upon any payment received for any telephone or radio telephone message".
 

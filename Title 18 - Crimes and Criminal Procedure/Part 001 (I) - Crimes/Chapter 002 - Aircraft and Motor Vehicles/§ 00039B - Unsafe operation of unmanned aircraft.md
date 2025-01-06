@@ -38,7 +38,7 @@ Serious bodily injury or death.—Any person who:
 
 &emsp;&emsp;(A) Causes serious bodily injury or death during the commission of an offense under subsection (a)(2) shall be fined under this title, imprisoned for a term of up to 10 years, or both.
 
-&emsp;&emsp;(B) Causes, or attempts or conspires to cause, serious bodily injury or death during the commission of an offense under subsections (a)(1) and (b) shall be fined under this title, imprisoned for any term of years or for life, or both.
+&emsp;&emsp;(B) Causes, or attempts or conspires to cause, serious bodily injury or death during the commission of an offense under subsections (a)(1) and (b) shall be fined underthis title, imprisoned for any term of years or for life, or both.
 
 (Added Pub. L. 115–254, div. B, title III, §384(a), Oct. 5, 2018, 132 Stat. 3322.)
 

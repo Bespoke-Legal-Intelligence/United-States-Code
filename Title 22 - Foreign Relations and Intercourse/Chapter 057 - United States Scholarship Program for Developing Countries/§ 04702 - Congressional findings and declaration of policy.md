@@ -16,7 +16,7 @@ The Congress finds and declares that—
 
 &emsp;(7) the National Bipartisan Commission on Central America has recommended a program of 10,000 United States Government-sponsored scholarships to bring Central American students to the United States, which program would involve careful targeting to encourage participation by young people from all social and economic classes, would maintain existing admission standards by providing intensive English and other training, and would encourage graduates to return to their home countries after completing their education; and
 
-&emsp;(8) it is also in the interest of the United States, as well as peaceful cooperation in theWestern Hemisphere, that particular attention be given to the students of the Caribbean region.
+&emsp;(8) it is also in the interest of the United States, as well as peaceful cooperation in the Western Hemisphere, that particular attention be given to the students of the Caribbean region.
 
 (Pub. L. 99–93, title VI, §602, Aug. 16, 1985, 99 Stat. 439; Pub. L. 103–199, title III, §305, Dec. 17, 1993, 107 Stat. 2324.)
 

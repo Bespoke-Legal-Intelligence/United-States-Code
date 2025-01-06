@@ -74,7 +74,7 @@ The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is 
 
 <b>2001</b>—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-"(1) Subject to the provisions of this section, if a covered uranium employee dies before the effective date specified in subsection (g) of this section, whether or not the death is a result of the illness specified in subsection (b) of this section, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
+"(1) Subject to the provisions of this section, if a covered uranium employee dies before the effective date specified in subsection (g) of this section, whether ornot the death is a result of the illness specified in subsection (b) of this section, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
 
 "(2) The right to receive compensation under this section shall be afforded to survivors in the same order of precedence as that set forth in section 8109 of title 5."
 

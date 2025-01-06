@@ -6,7 +6,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(1) rent of buildings and space in buildings in the United States, and for repair, alteration, and improvement of such leased properties;
 
-&emsp;(2) expenses of attendance at meetings concerned with the purposes of such appropriations or of this chapter, including (notwithstanding the provisions of section 1346(a) and (c) of title 31) expenses in connection with meetings of persons whose employment is authorized by section 2386 of this title;
+&emsp;(2) expenses of attendance at meetings concerned with the purposes of such appropriations or of this chapter, including (notwithstanding the provisions of section 1346(a) and (c) of title 31) expenses in connection withmeetings of persons whose employment is authorized by section 2386 of this title;
 
 &emsp;(3) contracting with individuals for personal services abroad: <i>Provided</i>, That such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Civil Service Commission;
 
@@ -22,7 +22,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(9) insurance of official motor vehicles or aircraft acquired for use in foreign countries;
 
-&emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made availablefor use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
+&emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
 &emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
 
@@ -34,11 +34,13 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(15) ice and drinking water for use outside the United States;
 
-&emsp;(16) services of commissioned officers of the Environmental Science Services Administration, and for the purposes of providing such services the Environmental Science Services Administration may appoint not to exceed twenty commissioned officers in addition to those otherwise authorized; <sup>2</sup>
+&emsp;(16) services of commissioned officers of the Environmental Science Services Administration, and for the purposes of providing such services the Environmental Science Services Administration may appoint not to exceed twenty commissioned officers in addition to those otherwise authorized;
+
+&emsp;(17) employing individuals or organizations, by contract, for services abroad for purposes of this chapter and title II of the Food for Peace Act \[7 U.S.C. 1721 et seq.\], and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government (except that the Administrator of the United States Agency for International Development may determine the applicability to such individuals of section 2672 <sup>1</sup> of this title regarding tort claims when such claims arise in foreign countries in connection with United States operations abroad, and of any other law administered by the Administrator concerning the employment of such individuals abroad), and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States.
 
 #### (b) Compensation, allowances, and travel of personnel; printing and binding; expenditures outside United States
 
-Funds made available for the purposes of this chapter may be used for compensation, allowances, and travel of personnel including Foreign Service personnel whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of personnel) without regard to such laws and regulations governing the obligation and expenditure of funds of the United States Government as may be necessary to accomplish the purposes of this chapter.
+Funds made available for the purposes of this chapter may be used for compensation, allowances, and travel of personnel including Foreign Service personnel whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurementof supplies and services and for other administrative and operating purposes (other than compensation of personnel) without regard to such laws and regulations governing the obligation and expenditure of funds of the United States Government as may be necessary to accomplish the purposes of this chapter.
 
 #### (c) Construction of living quarters, office space, and supporting facilities
 
@@ -74,7 +76,7 @@ In carrying out programs under this chapter, the President shall take all approp
 
 Notwithstanding section 2399a <sup>1</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
-(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 118–159, div. G, title LXXVI, §7601, Dec. 23, 2024, 138 Stat. 2552.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,11 +88,13 @@ Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(14), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
+The Food for Peace Act, referred to in subsecs. (a)(17) and (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+
+Section 2672 of this title, referred to in subsec. (a)(17), was in the original "section 5 of the State Department Basic Authorities Act of 1965" and was translated as reading "section 5 of the State Department Basic Authorities Act of 1956", to reflect the probable intent of Congress.
+
 Section 2385(d) of this title, referred to in subsec. (e), was amended by Pub. L. 96–465, title II, §2203(a), Oct. 17, 1980, 94 Stat. 2158, and as so amended does not contain a par. (2).
 
 Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to the interchange of Department of Agriculture and State employees, were repealed by Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925. See section 3371 et seq. of Title 5, Government Organization and Employees.
-
-The Food for Peace Act, as amended, referred to in subsec. (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 
 The Latin American Development Act, as amended, referred to in subsec. (f), is Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, which enacted sections 1942 to 1945 of this title and amended section 1753a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1942 of this title and Tables.
 
@@ -106,9 +110,11 @@ In subsec. (g)(3), "section 6303 of title 41" substituted for "section 3733 of t
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(17). Pub. L. 118–159 added par. (17).
+
 <b>2008</b>—Subsec. (f). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954" in two places.
 
-<b>2002</b>—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: "expenses in connection withtravel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage."
+<b>2002</b>—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: "expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage."
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–167 inserted "or the Arms Export Control Act" after "subchapter II of this chapter" in introductory provisions.
 
@@ -191,6 +197,4 @@ Commissioned Officer Corps of the Environmental Science Services Administration 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

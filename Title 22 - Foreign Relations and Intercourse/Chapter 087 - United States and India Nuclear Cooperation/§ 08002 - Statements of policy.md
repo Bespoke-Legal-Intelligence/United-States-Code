@@ -22,7 +22,7 @@ The following shall be the policies of the United States with respect to South A
 
 &emsp;(1) Achieve, at the earliest possible date, a moratorium on the production of fissile material for nuclear explosive purposes by India, Pakistan, and the People's Republic of China.
 
-&emsp;(2) Achieve, at the earliest possible date, the conclusion and implementation of a treaty banning the production of fissile material for nuclear weapons to which both the United States and India become parties.
+&emsp;(2) Achieve, at the earliest possible date, the conclusion and implementation of a treaty banning the production of fissile material fornuclear weapons to which both the United States and India become parties.
 
 &emsp;(3) Secure India's—
 

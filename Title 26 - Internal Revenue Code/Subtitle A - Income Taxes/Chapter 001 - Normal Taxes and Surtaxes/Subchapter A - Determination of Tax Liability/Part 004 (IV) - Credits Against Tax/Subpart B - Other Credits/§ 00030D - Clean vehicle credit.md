@@ -348,7 +348,7 @@ No credit shall be allowed under this section with respect to any vehicle placed
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsecs. (d)(1)(D), (3) and (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
 
@@ -388,7 +388,7 @@ Pub. L. 117–169, §13401(d), struck out subsec. (e) which related to limitatio
 
 Subsec. (f)(3). Pub. L. 117–169, §13401(g)(2)(B)(i), struck out par. (3). Text read as follows: "In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
-Subsec. (f)(8). Pub. L. 117–169, §13401(g)(2)(B)(ii), inserted ", including any vehicle with respect to which the taxpayer elects the application of subsection (g)" before period at end.
+Subsec. (f)(8). Pub. L. 117–169, §13401(g)(2)(B)(ii), inserted ", including any vehicle with respect to whichthe taxpayer elects the application of subsection (g)" before period at end.
 
 Pub. L. 117–169, §13401(f), added par. (8).
 
@@ -490,7 +490,7 @@ Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009, see section 1141(c) of Pub. L. 111–5, set out as a note under section 30B of this title.
+Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009, see section 1141(c) of Pub.L. 111–5, set out as a note under section 30B of this title.
 
 #### Effective Date
 

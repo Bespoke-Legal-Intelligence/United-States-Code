@@ -80,7 +80,7 @@ There are authorized to be appropriated to carry out the purposes of this sectio
 
 #### Codification
 
-Section was enacted as part of the Technology Competitiveness Act and as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of part D of title I of division C of Pub. L. 100–180 which comprises this subchapter.
+Section was enacted as part of the Technology Competitiveness Act and as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of part Dof title I of division C of Pub. L. 100–180 which comprises this subchapter.
 
 #### Amendments
 

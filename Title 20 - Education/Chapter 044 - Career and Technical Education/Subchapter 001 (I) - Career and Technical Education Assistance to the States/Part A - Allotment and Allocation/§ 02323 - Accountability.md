@@ -94,7 +94,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (iii) Unanticipated circumstances
 
-&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State or changes occur related to improvements in data or measurement approaches, the eligible agency, at the end of the program year, may revise the State determined levels of performance required under this subparagraph. After public comment, as described in subparagraph (B), the eligible agency shall submit such revised levels of performance to the Secretary with evidence supporting the revision. The Secretary shall approve any such revision if that revision meets the requirements of clause (ii).
+&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State or changes occur related to improvements in data or measurement approaches, the eligible agency, at the end of the program year, may revise the State determined levels of performance required under this subparagraph. After public comment, as described in subparagraph (B),the eligible agency shall submit such revised levels of performance to the Secretary with evidence supporting the revision. The Secretary shall approve any such revision if that revision meets the requirements of clause (ii).
 
 #### (B) Public comment
 
@@ -226,7 +226,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;&emsp;(III) disaggregate data by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) for CTE concentrators described in paragraph (2)(A)(iii) and paragraph\(2)(B)(i), disaggregate data, to the extent such data is available, by each of the following:
+&emsp;&emsp;&emsp;&emsp;(IV) for CTE concentrators described in paragraph (2)(A)(iii) and paragraph (2)(B)(i), disaggregate data, to the extent such data is available, by each of the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) Individuals enrolled in postsecondary education (disaggregated by postsecondary award level, including certificate, associate, or baccalaureate degree).
 
@@ -294,7 +294,7 @@ Subsec. (b)(4)(A)(ii). Pub. L. 115–224, §112(1)(E)(i)(IV)(aa), (cc), substitu
 
 Pub. L. 115–224, §112(1)(E)(i)(IV)(bb), which directed substitution of "application" for "plan", was executed by making the substitution both places it appeared to reflect the probable intent of Congress.
 
-Subsec. (b)(4)(A)(iii). Pub. L. 115–224, §112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, textread as follows: "Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan."
+Subsec. (b)(4)(A)(iii). Pub. L. 115–224, §112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, text read as follows: "Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan."
 
 Pub. L. 115–224, §112(1)(E)(i)(II), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: "The eligible agency and each eligible recipient shall reach agreement, as described in clause (i), on the eligible recipient's levels of performance for each of the core indicators of performance for the first 2 program years covered by the local plan, taking into account the levels identified in the local plan under clause (ii) and the factors described in clause (v). The levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan prior to the approval of such plan."
 

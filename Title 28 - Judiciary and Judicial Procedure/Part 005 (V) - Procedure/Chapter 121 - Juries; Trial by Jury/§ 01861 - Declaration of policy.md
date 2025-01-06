@@ -30,7 +30,7 @@ Pub. L. 90–274, §104, Mar. 27, 1968, 82 Stat. 63, provided that: "This Act \[
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–572, §1, Nov. 2, 1978, 92 Stat. 2453, provided that: "This Act \[enacting sections 1363 and 1875 of this title, amending sections 1863, 1865, 1866, 1869, and 1871 of this title, renumbering section 1363 (relating to construction of references to laws of the United States orActs of Congress) as section 1364 of this title, and enacting provisions set out as a note under section 1363 of this title\] may be cited as the 'Jury System Improvements Act of 1978'."
+Pub. L. 95–572, §1, Nov. 2, 1978, 92 Stat. 2453, provided that: "This Act \[enacting sections 1363 and 1875 of this title, amending sections 1863, 1865, 1866, 1869, and 1871 of this title, renumbering section 1363 (relating to construction of references to laws of the United States or Acts of Congress) as section 1364 of this title, and enacting provisions set out as a note under section 1363 of this title\] may be cited as the 'Jury System Improvements Act of 1978'."
 
 #### Short Title
 

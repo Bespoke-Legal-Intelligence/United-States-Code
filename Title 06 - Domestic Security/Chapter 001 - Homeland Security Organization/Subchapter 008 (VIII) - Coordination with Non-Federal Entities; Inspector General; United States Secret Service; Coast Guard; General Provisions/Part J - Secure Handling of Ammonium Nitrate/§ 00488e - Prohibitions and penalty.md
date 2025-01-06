@@ -4,7 +4,7 @@
 
 #### (1) Taking possession
 
-&emsp;No person shall purchase ammonium nitrate from an ammonium nitrate facility unless such person is registered under subsection (c) or (d) of section 488a of this title, or is an agent of a person registered under subsection (c) or (d) of that section.
+&emsp;No person shall purchase ammonium nitrate from an ammonium nitrate facility unlesssuch person is registered under subsection (c) or (d) of section 488a of this title, or is an agent of a person registered under subsection (c) or (d) of that section.
 
 #### (2) Transferring possession
 

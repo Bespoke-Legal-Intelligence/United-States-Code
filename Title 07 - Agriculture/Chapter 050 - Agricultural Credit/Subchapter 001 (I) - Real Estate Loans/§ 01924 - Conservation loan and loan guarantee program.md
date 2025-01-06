@@ -86,7 +86,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §5002(a), substituted "limited liability companies, or such otherlegal entities as the Secretary considers appropriate" for "or limited liability companies".
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §5002(a), substituted "limited liability companies, or such other legal entities as the Secretary considers appropriate" for "or limited liability companies".
 
 Subsec. (c)(2). Pub. L. 113–79, §5001(c)(1), substituted "subparagraphs (A) and (B) of section 1922(a)(1)" for "paragraphs (1) and (2) of section 1922(a)".
 
@@ -124,5 +124,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which theamendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 

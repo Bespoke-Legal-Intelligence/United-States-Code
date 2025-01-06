@@ -8,7 +8,7 @@ Notwithstanding sections 1053 and 1054 of this title, in any case in which benef
 
 For purposes of this section, for a plan year—
 
-&emsp;(1) a multiemployer plan is insolvent if the plan's available resources are not sufficient to pay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d);
+&emsp;(1) a multiemployer plan is insolvent if the plan's available resources are not sufficient topay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d);
 
 &emsp;(2) "resource benefit level" means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources;
 
@@ -84,7 +84,7 @@ For purposes of this section, for a plan year—
 
 (1) If the plan sponsor of an insolvent plan, for which the resource benefit level is above the level of basic benefits, anticipates that, for any month in an insolvency year, the plan will not have funds sufficient to pay basic benefits, the plan sponsor may apply for financial assistance from the corporation under section 1431 of this title.
 
-(2) A plan sponsor who has determined a resource benefit level for an insolvency year whichis below the level of basic benefits shall apply for financial assistance from the corporation under section 1431 of this title.
+(2) A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the corporation under section 1431 of this title.
 
 #### (g) Application of subsections (a) and (c)
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 113–235 applicable with respect to plan years beginning a
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title II, §203(b), Aug. 17, 2006, 120 Stat. 886, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to determinations made in plan years beginning after 2007."
+Pub. L. 109–280, title II, §203(b), Aug. 17, 2006, 120 Stat. 886, provided that: "The amendments made by this section \[amending this section\] shall apply with respect todeterminations made in plan years beginning after 2007."
 
 #### Withdrawal Liability of Employer From Plan Terminating While Plan Insolvent Within This Section: Determinations, Factors, Etc.
 

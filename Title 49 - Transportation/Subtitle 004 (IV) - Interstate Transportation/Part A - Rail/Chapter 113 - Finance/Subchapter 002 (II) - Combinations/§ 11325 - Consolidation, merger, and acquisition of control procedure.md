@@ -22,7 +22,7 @@
 
 &emsp;(2) The Board shall require that applications inconsistent with an application, notice of which was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 60th day after publication of notice under that subsection.
 
-&emsp;(3) The Board must conclude any evidentiary proceedings by the 180th day after the date ofpublication of notice under subsection (a) of this section. The Board must issue a final decision by the 90th day after the date on which it concludes the evidentiary proceedings.
+&emsp;(3) The Board must conclude any evidentiary proceedings by the 180th day after the date of publication of notice under subsection (a) of this section. The Board must issue a final decision by the 90th day after the date on which it concludes the evidentiary proceedings.
 
 (d) For all applications under this section other than those specified in subsections (b) and (c) of this section, the following conditions apply:
 

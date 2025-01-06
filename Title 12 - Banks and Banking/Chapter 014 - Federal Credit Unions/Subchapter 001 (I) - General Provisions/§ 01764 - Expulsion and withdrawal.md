@@ -16,7 +16,7 @@ The board of directors of a Federal credit union may, by majority vote of a quor
 
 #### (2) Distribution of policy to members
 
-&emsp;A Federal credit union may not expel a member pursuant to this subsection unless the Federal credit union has provided, in written or electronic form, a copy of the policy adopted by the National Credit Union Administration Board under paragraph (1) to each member of the Federal credit union.
+&emsp;A Federal credit union may not expel a member pursuant to this subsection unless theFederal credit union has provided, in written or electronic form, a copy of the policy adopted by the National Credit Union Administration Board under paragraph (1) to each member of the Federal credit union.
 
 #### (3) Procedures
 

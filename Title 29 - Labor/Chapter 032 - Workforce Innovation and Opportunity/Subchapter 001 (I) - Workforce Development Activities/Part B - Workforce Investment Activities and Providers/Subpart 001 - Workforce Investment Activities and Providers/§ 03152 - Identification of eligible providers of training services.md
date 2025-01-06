@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(E) The requirements for State licensing of providers of training services, and the licensing status of providers of training services if applicable.
 
-&emsp;&emsp;(F) Ways in which the criteria can encourage, to the extent practicable, the providers to use industry-recognized certificates or certifications.
+&emsp;&emsp;(F) Ways in which the criteria can encourage, to the extent practicable, the providersto use industry-recognized certificates or certifications.
 
 &emsp;&emsp;(G) The ability of the providers to offer programs that lead to recognized postsecondary credentials.
 
@@ -146,7 +146,7 @@
 
 #### (e) Opportunity to submit comments
 
-In establishing, under this section, criteria, information requirements, procedures, and thelist of eligible providers described in subsection (d), the Governor shall provide an opportunity for interested members of the public to make recommendations and submit comments regarding such criteria, information requirements, procedures, and list.
+In establishing, under this section, criteria, information requirements, procedures, and the list of eligible providers described in subsection (d), the Governor shall provide an opportunity for interested members of the public to make recommendations and submit comments regarding such criteria, information requirements, procedures, and list.
 
 #### (f) Enforcement
 

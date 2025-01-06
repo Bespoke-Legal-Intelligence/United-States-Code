@@ -138,7 +138,7 @@ The Secretary shall assign each over-the-road bus operator to a risk-based tier 
 
 #### (4) Notification
 
-&emsp;If the Secretary determines that particular existing procedures, protocols, or standards ofan over-the-road bus operator under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the operator a written notification that includes an explanation of the reasons for nonacceptance.
+&emsp;If the Secretary determines that particular existing procedures, protocols, or standards of an over-the-road bus operator under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the operator a written notification that includes an explanation of the reasons for nonacceptance.
 
 #### (5) Review
 

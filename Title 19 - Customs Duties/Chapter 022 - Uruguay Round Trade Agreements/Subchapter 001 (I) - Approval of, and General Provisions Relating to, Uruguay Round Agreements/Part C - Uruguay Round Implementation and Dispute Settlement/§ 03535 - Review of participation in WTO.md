@@ -22,7 +22,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 &emsp;&emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 90-day period (excluding any day described in section 2194(b) of this title), beginning on the date on which the Congress receives a report referred to in subsection (a), and
 
-&emsp;&emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override that veto on or before the later of the last day of the 90-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section2194(b) of this title) beginning on the date on which the Congress receives the veto message from the President.
+&emsp;&emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override that veto on or before the later of the last day of the 90-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date on which the Congress receives the veto message from the President.
 
 &emsp;(B) A joint resolution to which this section applies may be introduced at any time on or after the date on which the President transmits to the Congress a report described in subsection (a), and before the end of the 90-day period referred to in subparagraph (A).
 
@@ -56,7 +56,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 This section is enacted by the Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
+&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate,respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 

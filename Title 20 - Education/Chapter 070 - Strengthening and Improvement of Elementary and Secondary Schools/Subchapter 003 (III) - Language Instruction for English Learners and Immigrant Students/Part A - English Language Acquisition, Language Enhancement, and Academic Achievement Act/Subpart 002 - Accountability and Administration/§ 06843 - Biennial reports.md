@@ -26,7 +26,7 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 
 &emsp;(9) containing other information gathered from the evaluations from specially qualified agencies and other reports submitted to the Secretary under this part when applicable.
 
-(Pub. L. 89–10, title III, §3122, formerly §3123, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002,115 Stat. 1704; renumbered §3122 and amended Pub. L. 114–95, title III, §§3001(2)(B), 3003(i), Dec. 10, 2015, 129 Stat. 1953, 1963.)
+(Pub. L. 89–10, title III, §3122, formerly §3123, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1704; renumbered §3122 and amended Pub. L. 114–95, title III, §§3001(2)(B), 3003(i), Dec. 10, 2015, 129 Stat. 1953, 1963.)
 
 #### <b>Editorial Notes</b>
 

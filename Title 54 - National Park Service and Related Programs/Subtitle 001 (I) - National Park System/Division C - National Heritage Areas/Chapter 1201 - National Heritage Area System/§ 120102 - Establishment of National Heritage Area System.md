@@ -76,7 +76,7 @@ Appalachian Forest National Heritage Area, Maryland and West Virginia.—Pub. L.
 
 Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, §§231–242, Oct. 12, 2006, 120 Stat. 1795–1800; Pub. L. 117–103, div. G, title I, §119(<i>l</i>)(1), Mar. 15, 2022, 136 Stat. 378; Pub. L. 117–339, §5(a)(25), Jan. 5, 2023, 136 Stat. 6169.
 
-Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795; Pub. L. 117–103, div. G, title I, §119(<i>l</i>)(1), Mar. 15, 2022, 136 Stat. 378; Pub. L. 117–339, §5(a)(24), Jan. 5, 2023, 136 Stat. 6168.
+Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795; Pub. L. 117–103, div. G, title I, §119(<i>l</i>)(1), Mar. 15, 2022, 136 Stat. 378; Pub. L. 117–339, §5(a)(24), Jan. 5, 2023, 136 Stat. 6168; Pub. L. 118–177, §1, Dec. 23, 2024, 138 Stat. 2611.
 
 Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–6, div. E, title I, §117, Feb. 15, 2019, 133 Stat. 233; Pub. L. 116–9, title VI, §6004(h), Mar. 12, 2019, 133 Stat. 778; Pub. L. 117–103, div. G, title I, §119(e)(7), Mar. 15, 2022, 136 Stat. 378; Pub. L. 117–339, §5(a)(7), Jan. 5, 2023, 136 Stat. 6166.
 

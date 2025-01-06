@@ -8,7 +8,7 @@
 
 #### (2) Duties of Comptroller General
 
-&emsp;The Comptroller General of the United States shall conduct a study alone or, upon request by the Commission, in cooperation with experts designated by the Commission, to determine whether immigration officers performing duties under section 1225(b) of title 8 with respect to aliens who may be eligible to be granted asylum are engaging in any of the following conduct:
+&emsp;The Comptroller General of the United States shall conduct a study alone or, upon request by the Commission, in cooperation withexperts designated by the Commission, to determine whether immigration officers performing duties under section 1225(b) of title 8 with respect to aliens who may be eligible to be granted asylum are engaging in any of the following conduct:
 
 &emsp;&emsp;(A) Improperly encouraging such aliens to withdraw their applications for admission.
 
@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller Generalof the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8.
+&emsp;Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8.
 
 #### (2) Exceptions
 

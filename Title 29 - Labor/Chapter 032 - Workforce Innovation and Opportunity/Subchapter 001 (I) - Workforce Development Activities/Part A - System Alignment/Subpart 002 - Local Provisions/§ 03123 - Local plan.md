@@ -50,7 +50,7 @@ The local plan shall include—
 
 &emsp;&emsp;(A) a description of how the local board will ensure the continuous improvement of eligible providers of services through the system and ensure that such providers meet the employment needs of local employers, and workers and jobseekers;
 
-&emsp;&emsp;(B) a description of how the local board will facilitate access to services provided through the one-stop delivery system, including in remote areas, through the use of technology and through other means;
+&emsp;&emsp;(B) a description of how the local board will facilitate access to services providedthrough the one-stop delivery system, including in remote areas, through the use of technology and through other means;
 
 &emsp;&emsp;(C) a description of how entities within the one-stop delivery system, including one-stop operators and the one-stop partners, will comply with section 3248 of this title, if applicable, and applicable provisions of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) regarding the physical and programmatic accessibility of facilities, programs and services, technology, and materials for individuals with disabilities, including providing staff training and support for addressing the needs of individuals with disabilities; and
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) integrates geriatrics into primary care practice;
 
-&emsp;&emsp;&emsp;&emsp;(II) provides training to integrate geriatric care into other specialties across care settings, including practicing clinical specialists, health care administrators, faculty without backgrounds in geriatrics, and students from all health professions;
+&emsp;&emsp;&emsp;&emsp;(II) provides training to integrate geriatric care into other specialties acrosscare settings, including practicing clinical specialists, health care administrators, faculty without backgrounds in geriatrics, and students from all health professions;
 
 &emsp;&emsp;&emsp;&emsp;(III) emphasizes integration of geriatric care into existing service delivery locations and care across settings, including primary care clinics, medical homes, Federally qualified health centers, ambulatory care clinics, critical access hospitals, emergency care, assisted living and nursing facilities, and home- and community-based services, which may include adult daycare;
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(i) information on the number of trainees, faculty, and professionals who participated in programs under this section;
 
-&emsp;&emsp;&emsp;(ii) information on the impact of the program conducted under this section on thehealth status of older adults, including in areas with a shortage of health professionals; and
+&emsp;&emsp;&emsp;(ii) information on the impact of the program conducted under this section on the health status of older adults, including in areas with a shortage of health professionals; and
 
 &emsp;&emsp;&emsp;(iii) information on outreach and education provided under this section to families and caregivers of older adults.
 

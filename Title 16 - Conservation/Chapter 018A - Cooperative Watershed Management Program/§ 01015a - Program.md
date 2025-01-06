@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 180 days after March 30, 2009, the Secretary shall establish a program, to beknown as the "Cooperative Watershed Management Program", under which the Secretary shall provide grants—
+Not later than 180 days after March 30, 2009, the Secretary shall establish a program, to be known as the "Cooperative Watershed Management Program", under which the Secretary shall provide grants—
 
 &emsp;(1)(A) to form a watershed group; or
 

@@ -72,9 +72,12 @@ Definition of emergency situation.
 | 3697A. | Educational and vocational counseling. |
 | 3697B. | On-campus educational and vocational counseling. |
 | 3698\. | Comprehensive policy on providing education information to veterans. |
+| 3698A. | Provision of certificates of eligibility and award letters using electronic means. |
 | 3699\. | Effects of closure or disapproval of educational institution. |
 | 3699A. | Provision of certain information to educational institutions. |
 | 3699B. | Treatment of certain for-profit educational institutions. |
+| 3699C. | High technology program. |
+| 3699D. | Notice of changes to policies and guidance relating to educational assistance programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -82,11 +85,15 @@ Definition of emergency situation.
 
 #### Amendments
 
+<b>2025</b>—Pub. L. 118–210, title II, §§212(a)(2), 213(b), Jan. 2, 2025, 138 Stat. 2772, 2774, added items 3699C and 3699D.
+
+Pub. L. 118–210, title II, §210(a), (b), Jan. 2, 2025, 138 Stat. 2766, identically added item 3698A.
+
 <b>2023</b>—Pub. L. 117–333, §§2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
 
 <b>2022</b>—Pub. L. 117–328, div. U, title II, §216(b), Dec. 29, 2022, 136 Stat. 5456, added item 3691A.
 
-<b>2021</b>—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
+<b>2021</b>—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, addeditems 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
 
 <b>2017</b>—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
 

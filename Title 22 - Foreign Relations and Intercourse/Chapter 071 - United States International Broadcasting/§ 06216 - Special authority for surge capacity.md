@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Whenever the President determines it to be important to the national interests of the United States and so certifies to the appropriate congressional committees, the President, on such terms and conditions as the President may determine, is authorized to direct any department, agency, or other entity of the United States to furnish the United States Agency for Global Media with such assistance outside the United States as may be necessary to provide international broadcasting activities of the United States with a surge capacity to support United States foreign policy objectives during a crisis abroad.
+&emsp;Whenever the President determines it to be important to the national interests of theUnited States and so certifies to the appropriate congressional committees, the President, on such terms and conditions as the President may determine, is authorized to direct any department, agency, or other entity of the United States to furnish the United States Agency for Global Media with such assistance outside the United States as may be necessary to provide international broadcasting activities of the United States with a surge capacity to support United States foreign policy objectives during a crisis abroad.
 
 #### (2) Supersedes existing law
 

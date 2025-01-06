@@ -34,7 +34,7 @@ Section 8 of the Federal Water Pollution Control Act, referred to in par. (2), w
 
 Section 12 of the Federal Airport Act, referred to in par. (2), is section 12 of act May 13, 1946, ch. 251, 60 Stat. 177, which was classified to section 1111 of former Title 49, Transportation, prior to repeal by Pub. L. 91–258, title I, §52(a), May 21, 1970, 84 Stat. 235.
 
-Section 19 of the Airport and Airway Development Act of 1970, referred to in par. (2), is section 19 of Pub.L. 91–258, title I, May 21, 1970, 84 Stat. 230, which was classified to section 1719 of former Title 49, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 19 of the Airport and Airway Development Act of 1970, referred to in par. (2), is section 19 of Pub. L. 91–258, title I, May 21, 1970, 84 Stat. 230, which was classified to section 1719 of former Title 49, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 The Housing Act of 1961, referred to in par. (2), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149. Title VII of the Housing Act of 1961 which was classified generally to chapter 8C (§1500 et seq.) of this title, was omitted pursuant to section 5316 of this title which terminated the authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 

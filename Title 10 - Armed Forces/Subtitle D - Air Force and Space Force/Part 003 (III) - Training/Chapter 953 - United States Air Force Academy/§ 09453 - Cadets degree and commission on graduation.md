@@ -54,7 +54,7 @@ July 20, 1956, ch. 646, §203(e) (1st sentence), 70 Stat. 585.
 
 It is unnecessary to include a reference to section 541 of title 10, since that section does not derogate from the authority granted in this section.
 
-The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words "from and after the date of the accrediting of said academies" in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended) were a condition precedent to the authority to grant degrees and should not have been omitted.
+The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words "from and after the date of the accrediting of said academies" in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended)were a condition precedent to the authority to grant degrees and should not have been omitted.
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 85–861, §1(201), struck out "except section 541 of this 
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 

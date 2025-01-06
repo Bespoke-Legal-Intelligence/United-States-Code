@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(ii) personnel training and retraining directly related to the provision of those services (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions); and
 
-&emsp;&emsp;(iii) conferences or workshops, and training or retraining through grants to nonprofit organizations within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986 or to individuals with social services expertise, or through financial assistance to individuals participating in such conferences, workshops, and training or retraining (and this clause shall apply with respect to all persons involved in the delivery of such services).
+&emsp;&emsp;(iii) conferences or workshops, and training or retraining through grants to nonprofit organizations within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986 or to individuals with socialservices expertise, or through financial assistance to individuals participating in such conferences, workshops, and training or retraining (and this clause shall apply with respect to all persons involved in the delivery of such services).
 
 #### (b) Funding requirements
 
@@ -78,7 +78,7 @@ Pub. L. 96–499, title X, §1001(b), Dec. 5, 1980, 94 Stat. 2655, provided that
 
 #### Reimbursement of Expenditures for Social Services Provided by States Prior to October 1, 1975; Authorization of Appropriations; Procedures Applicable to Payment of Unpaid Claims of States
 
-Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for payments to States in settlement of unpaid claims of States against the United States for reimbursement of expenditures made by States prior to Oct. 1, 1975, for services and administrative costs under a State plan pursuant to specific subchapters of this chapter, provided schedules for payment of a claim asserted prior to the ninety-first day after June 12, 1978, depending on when the claim was asserted, barred other claims and certain claims of the United States for recovery, provided for review of determinations, barred judicial review, and provided for allotment of appropriations for claims.
+Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for payments to States in settlement of unpaid claims of States against the United States for reimbursement of expenditures made by States prior to Oct. 1, 1975, for services and administrative costs under a State plan pursuant to specific subchapters of this chapter, provided schedules for payment of a claim asserted prior to the ninety-first day after June 12, 1978, depending on when the claim was asserted, barred other claims and certain claims of the United States for recovery, provided for review of determinations, barredjudicial review, and provided for allotment of appropriations for claims.
 
 #### Payments to States for Fiscal Period Beginning July 1, 1976, and Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, 1978, and 1979, Computation Amounts, Limitations, Etc.
 
@@ -86,5 +86,5 @@ Pub. L. 94–401, §3, Sept. 7, 1976, 90 Stat. 1215, as amended by Pub. L. 95–
 
 #### Requirements of Child Day Care Services
 
-Pub. L. 93–647, §3(f), Jan. 4, 1975, 88 Stat. 2349, which provided for requirements of child day care services,was repealed by Pub. L. 97–35, title XXIII, §2353(s), Aug. 13, 1981, 97 Stat. 874.
+Pub. L. 93–647, §3(f), Jan. 4, 1975, 88 Stat. 2349, which provided for requirements of child day care services, was repealed by Pub. L. 97–35, title XXIII, §2353(s), Aug. 13, 1981, 97 Stat. 874.
 

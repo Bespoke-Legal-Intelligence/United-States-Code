@@ -15,12 +15,15 @@
 | [44111\.](%C2%A7%2044111%20-%20Modifications%20in%20registration%20and%20recordation%20system%20for%20aircraft%20not%20providing%20air%20transportation.md) | Modifications in registration and recordation system for aircraft not providing air transportation. |
 | [44112\.](%C2%A7%2044112%20-%20Limitation%20of%20liability.md) | Limitation of liability. |
 | [44113\.](%C2%A7%2044113%20-%20Definitions.md) | Definitions. |
+| [44114\.](%C2%A7%2044114%20-%20Privacy.md) | Privacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–63, title VIII, §803(b), May 16, 2024, 138 Stat. 1322, added item 44114.
 
 <b>2004</b>—Pub. L. 108–297, §6(b), Aug. 9, 2004, 118 Stat. 1097, added item 44113.
 
@@ -42,3 +45,4 @@
 - [&sect; 44111 - Modifications in registration and recordation system for aircraft not providing air transportation](%C2%A7%2044111%20-%20Modifications%20in%20registration%20and%20recordation%20system%20for%20aircraft%20not%20providing%20air%20transportation.md)
 - [&sect; 44112 - Limitation of liability](%C2%A7%2044112%20-%20Limitation%20of%20liability.md)
 - [&sect; 44113 - Definitions](%C2%A7%2044113%20-%20Definitions.md)
+- [&sect; 44114 - Privacy](%C2%A7%2044114%20-%20Privacy.md)

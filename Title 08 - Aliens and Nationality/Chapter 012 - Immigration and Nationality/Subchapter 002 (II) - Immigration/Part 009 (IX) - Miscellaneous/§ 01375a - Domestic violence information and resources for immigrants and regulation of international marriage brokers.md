@@ -28,7 +28,7 @@
 
 #### (3) Summaries
 
-&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b).
+&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and theSecretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b).
 
 #### (4) Translation
 
@@ -46,7 +46,7 @@
 
 #### (A) Mailings to K nonimmigrant visa applicants
 
-&emsp;&emsp;(i) The pamphlet shall be mailed by the Secretary of State to each applicant for a Knonimmigrant visa at the same time that the instruction packet regarding the visa application process is mailed to such applicant. The pamphlet so mailed shall be in the primary language of the applicant or in English if no translation into the applicant's primary language is available.
+&emsp;&emsp;(i) The pamphlet shall be mailed by the Secretary of State to each applicant for a K nonimmigrant visa at the same time that the instruction packet regarding the visa application process is mailed to such applicant. The pamphlet so mailed shall be in the primary language of the applicant or in English if no translation into the applicant's primary language is available.
 
 &emsp;&emsp;(ii) The Secretary of Homeland Security shall provide to the Secretary of State, for inclusion in the mailing under clause (i), a copy of the petition submitted by the petitioner for such applicant under subsection (d) or (r) of section 1184 of this title.
 
@@ -152,7 +152,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;(iv) Any Federal, State, or local arrest or conviction of the United States client for offenses related to controlled substances or alcohol.
 
-&emsp;&emsp;&emsp;(v) Marital history of the United States client, including whether the client is currently married, whether the client has previously been married and how many times, how previous marriages of the client were terminated and the date of termination, and whether the client has previously sponsored an alien to whom the client was engaged or married.
+&emsp;&emsp;&emsp;(v) Marital history of the United States client, including whether the client is currently married, whether the client has previously been married and how many times, how previous marriages of the client were terminated and the date of termination,and whether the client has previously sponsored an alien to whom the client was engaged or married.
 
 &emsp;&emsp;&emsp;(vi) The ages of any of the United States client's children who are under the age of 18.
 
@@ -308,7 +308,7 @@ In this section:
 
 #### (7) Representative
 
-&emsp;The term "representative" means, with respect to an international marriage broker, the person or entity acting on behalf of such broker. Such a representative may be a recruiter, agent, independent contractor, or other international marriage broker or other person conveying information about or to a United States client or foreign national client, whether or not the person or entity receives remuneration.
+&emsp;The term "representative" means, with respect to an international marriage broker, theperson or entity acting on behalf of such broker. Such a representative may be a recruiter, agent, independent contractor, or other international marriage broker or other person conveying information about or to a United States client or foreign national client, whether or not the person or entity receives remuneration.
 
 #### (8) State
 
@@ -374,7 +374,7 @@ In this section:
 
 #### (C) Data collection
 
-&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
+&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary ofState shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
 
 (Pub. L. 109–162, title VIII, §833, Jan. 5, 2006, 119 Stat. 3068; Pub. L. 113–4, title VIII, §§807(b), 808(b)–(d), Mar. 7, 2013, 127 Stat. 113–116.)
 

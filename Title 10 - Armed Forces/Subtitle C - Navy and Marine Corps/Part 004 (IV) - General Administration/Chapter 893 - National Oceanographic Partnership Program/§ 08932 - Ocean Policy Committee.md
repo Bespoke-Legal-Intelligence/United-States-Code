@@ -68,7 +68,7 @@ Annual Report and Briefing.—(1) Not later than March 1 of each year, the Commi
 
 Partnership Program Office.—(1) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall jointly establish a partnership program office for the National Oceanographic Partnership Program.
 
-(2) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall use competitive procedures to select a non-Government entity to manage the partnership program office.
+(2) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall use competitive proceduresto select a non-Government entity to manage the partnership program office.
 
 (3) The Committee shall monitor the management of the partnership program office.
 

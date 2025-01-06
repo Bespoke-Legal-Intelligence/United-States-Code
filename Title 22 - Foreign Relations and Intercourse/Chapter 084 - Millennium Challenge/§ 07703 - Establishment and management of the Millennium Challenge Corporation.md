@@ -28,7 +28,7 @@ There is established in the executive branch a corporation to be known as the "M
 
 #### (A) In general
 
-&emsp;&emsp;The Chief Executive Officer shall be compensated at the rate provided for level II of the Executive Schedule under section 5313 of title 5 and shall have the equivalent rank of Deputy Secretary.
+&emsp;&emsp;The Chief Executive Officer shall be compensated at the rate provided for level II ofthe Executive Schedule under section 5313 of title 5 and shall have the equivalent rank of Deputy Secretary.
 
 #### (B) Omitted
 

@@ -2,7 +2,7 @@
 
 #### (a) Provisions of law affected
 
-The provisions of this section apply notwithstanding any other provision of law, including section 2370(a) of this title, and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[50 U.S.C. 4305(b)\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979.
+The provisions of this section apply notwithstanding any other provision of law, includingsection 2370(a) of this title, and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[50 U.S.C. 4305(b)\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979.
 
 #### (b) Donations of food
 
@@ -78,7 +78,7 @@ The United States Government may provide assistance, through appropriate nongove
 
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223,Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 5 of the Act was classified to section 4604 of Title 50 prior to repeal.
 

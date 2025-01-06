@@ -26,7 +26,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 &emsp;&emsp;&emsp;(i) shall include representatives of labor organizations (for a local area in which employees are represented by labor organizations), who have been nominated by local labor federations, or (for a local area in which no employees are represented by such organizations) other representatives of employees;
 
-&emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
+&emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or ifno such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
 
 &emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
 
@@ -56,7 +56,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (3) Chairperson
 
-&emsp;The members of the local board shall elect a chairperson for the local board from amongthe representatives described in paragraph (2)(A).
+&emsp;The members of the local board shall elect a chairperson for the local board from among the representatives described in paragraph (2)(A).
 
 #### (4) Standing committees
 
@@ -120,7 +120,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (B) Criteria
 
-&emsp;&emsp;Such certification shall be based on criteria established under subsection (b), andfor a second or subsequent certification, the extent to which the local board has ensured that workforce investment activities carried out in the local area have enabled the local area to meet the corresponding performance accountability measures and achieve sustained fiscal integrity, as defined in section 3121(e)(2) of this title.
+&emsp;&emsp;Such certification shall be based on criteria established under subsection (b), and for a second or subsequent certification, the extent to which the local board has ensured that workforce investment activities carried out in the local area have enabled the local area to meet the corresponding performance accountability measures and achieve sustained fiscal integrity, as defined in section 3121(e)(2) of this title.
 
 #### (C) Failure to achieve certification
 
@@ -158,7 +158,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (ii) Plans
 
-&emsp;&emsp;&emsp;The State board shall prepare a local plan under section 3123 of this title for the State, and submit the plan for approval as part of the State plan.
+&emsp;&emsp;&emsp;The State board shall prepare a local plan under section 3123 of this title for theState, and submit the plan for approval as part of the State plan.
 
 #### (iii) Performance accountability measures
 
@@ -440,5 +440,5 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

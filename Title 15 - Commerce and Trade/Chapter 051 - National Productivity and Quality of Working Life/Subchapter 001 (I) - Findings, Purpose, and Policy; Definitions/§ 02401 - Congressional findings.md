@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(8) the continued development of joint labor-management efforts to provide a healthy environment for collective bargaining can make a significant contribution to improve productivity and foster industrial peace;
 
-&emsp;(9) factors affecting the growth of productivity in the economy include not only thestatus of technology and the techniques of management but also the role of the worker in the production process and the conditions of his working life;
+&emsp;(9) factors affecting the growth of productivity in the economy include not only the status of technology and the techniques of management but also the role of the worker in the production process and the conditions of his working life;
 
 &emsp;(10) there is a national need to identify and encourage appropriate application of capital in sectors of American economic activity in order to improve productivity;
 

@@ -136,7 +136,7 @@ From the amounts made available under subsection (i), the Secretary—
 
 &emsp;&emsp;(C) consider the need to provide an equitable geographic distribution of such grants; and
 
-&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the college assistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
+&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the collegeassistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
 
 #### (h) Data collection
 

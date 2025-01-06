@@ -32,7 +32,7 @@ For each fiscal year for which there are appropriations pursuant to the authoriz
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development,production, and distribution of a pilot national public service multimedia campaign under this section.
+There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
 
 (Pub. L. 108–159, title V, §518, Dec. 4, 2003, 117 Stat. 2009.)
 

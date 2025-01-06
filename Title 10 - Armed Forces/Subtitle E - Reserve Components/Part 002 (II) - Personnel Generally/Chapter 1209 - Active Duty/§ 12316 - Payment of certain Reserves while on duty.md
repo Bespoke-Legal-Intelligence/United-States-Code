@@ -16,7 +16,7 @@
 
 (d) The Secretary of Defense shall prescribe regulations under which a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard may waive the pay and allowances authorized by law for the duty the Reserve is performing under subsection (a)(2) or (b)(2).
 
-(Added Pub. L. 85–861, §1(15), Sept. 2, 1958, 72 Stat. 1441, §684; amended Pub. L. 93–586, §1, Jan. 2, 1975, 88 Stat. 1920; renumbered §12316, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 116–283, div. A, title VI, §621(a)–(d), Jan. 1, 2021, 134 Stat. 3675, 3676.)
+(Added Pub. L. 85–861, §1(15), Sept. 2, 1958, 72 Stat. 1441, §684; amended Pub. L. 93–586, §1, Jan. 2, 1975, 88 Stat. 1920; renumbered §12316, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994,108 Stat. 2992; Pub. L. 116–283, div. A, title VI, §621(a)–(d), Jan. 1, 2021, 134 Stat. 3675, 3676.)
 
 Historical and Revision Notes
 
@@ -44,7 +44,7 @@ Sept. 27, 1950, ch. 1053, §2, 64 Stat. 1067; July 12, 1955, ch. 337, §§2, 4, 
 
 In subsections (a) and (b), the words "retirement pay" are omitted as covered by the words "retired pay".
 
-In subsection (a), the words "Except as provided by subsection (b)" are inserted for clarity. The words "who performs duty for which he is entitled to compensation, may elect to receive for that duty" are substituted for the words "may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law". The words "Notwithstanding theprovisions of any other law", in 10 App.:369b, and "or relinquish" are omitted as surplusage.
+In subsection (a), the words "Except as provided by subsection (b)" are inserted for clarity. The words "who performs duty for which he is entitled to compensation, may elect to receive for that duty" are substituted for the words "may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law". The words "Notwithstanding the provisions of any other law", in 10 App.:369b, and "or relinquish" are omitted as surplusage.
 
 Subsection (a)(1) is substituted for clause (2) of 10 App.:369b, and clause (2) of 34 App.:853e–1.
 

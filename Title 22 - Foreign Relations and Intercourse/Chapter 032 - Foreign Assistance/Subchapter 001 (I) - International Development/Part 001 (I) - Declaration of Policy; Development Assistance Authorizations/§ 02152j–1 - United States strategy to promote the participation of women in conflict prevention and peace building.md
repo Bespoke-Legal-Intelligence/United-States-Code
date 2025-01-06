@@ -6,7 +6,7 @@ Not later than one year after October 6, 2017, and again four years thereafter, 
 
 &emsp;(1) support and be aligned with plans developed by other countries to improve the meaningful participation of women in peace and security processes, conflict prevention, peace building, transitional processes, and decisionmaking institutions; and
 
-&emsp;(2) include specific and measurable goals, benchmarks, performance metrics, timetables,and monitoring and evaluation plans to ensure the accountability and effectiveness of all policies and initiatives carried out under the strategy.
+&emsp;(2) include specific and measurable goals, benchmarks, performance metrics, timetables, and monitoring and evaluation plans to ensure the accountability and effectiveness of all policies and initiatives carried out under the strategy.
 
 #### (b) Specific plans for departments and agencies
 

@@ -58,7 +58,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 &emsp;&emsp;(B) the Securities and Exchange Commission, with respect to—
 
-&emsp;&emsp;&emsp;(i) any broker or dealer that is registered with the Commission under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], with respect to the activities of the broker or dealer that require the broker or dealer to be registered under that Act;
+&emsp;&emsp;&emsp;(i) any broker or dealer that is registered with the Commission under the SecuritiesExchange Act of 1934 \[15 U.S.C. 78a et seq.\], with respect to the activities of the broker or dealer that require the broker or dealer to be registered under that Act;
 
 &emsp;&emsp;&emsp;(ii) any investment company that is registered with the Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], with respect to the activities of the investment company that require the investment company to be registered under that Act;
 
@@ -156,7 +156,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classificationof this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) of title III of Pub. L. 111–203 amended section 1813(q) of this title.
 
@@ -188,7 +188,7 @@ Pub. L. 115–61, §1, Sept. 27, 2017, 131 Stat. 1158, provided that: "This Act 
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–279, §1, Dec. 18, 2014, 128 Stat. 3017, provided that: "This Act \[amending section 5371 of this title\] may be cited as the 'Insurance Capital Standards Clarification Act of 2014'."
+Pub. L. 113–279, §1, Dec. 18, 2014, 128 Stat. 3017, provided that: "This Act \[amending section 5371 of thistitle\] may be cited as the 'Insurance Capital Standards Clarification Act of 2014'."
 
 Pub. L. 113–173, §1, Sept. 26, 2014, 128 Stat. 1899, provided that: "This Act \[amending section 5514 of this title\] may be cited as the 'Examination and Supervisory Privilege Parity Act of 2014'."
 

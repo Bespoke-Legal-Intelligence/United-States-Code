@@ -60,7 +60,7 @@ Pub. L. 103–337, div. A, title III, §372(b), title X, §1063(b), Oct. 5, 1994
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1062(a)(3), Dec. 5, 1991, 105 Stat. 1475, made technical correction to directory language of Pub. L. 101–510, div. A, title XIV, §1481(e)(2), Nov. 5, 1990, 104 Stat. 1706. See 1990 amendment note below.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1481(e)(2), Nov. 5, 1990, 104 Stat. 1706, as amended by Pub. L.102–190, div. A, title X, §1062(a)(3), Dec. 5, 1991, 105 Stat. 1475, added item 2245.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1481(e)(2), Nov. 5, 1990, 104 Stat. 1706, as amended by Pub. L. 102–190, div. A, title X, §1062(a)(3), Dec. 5, 1991, 105 Stat. 1475, added item 2245.
 
 Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, added item 2244.
 

@@ -1,6 +1,6 @@
 ### §285. Purpose of Institute
 
-The general purpose of the National Cancer Institute (hereafter in this subpart referred to as the "Institute") is the conduct and support ofresearch, training, health information dissemination, and other programs with respect to the cause, diagnosis, prevention, and treatment of cancer, rehabilitation from cancer, and the continuing care of cancer patients and the families of cancer patients.
+The general purpose of the National Cancer Institute (hereafter in this subpart referred to as the "Institute") is the conduct and support of research, training, health information dissemination, and other programs with respect to the cause, diagnosis, prevention, and treatment of cancer, rehabilitation from cancer, and the continuing care of cancer patients and the families of cancer patients.
 
 (July 1, 1944, ch. 373, title IV, §410, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 832; amended Pub. L. 100–607, title I, §121, Nov. 4, 1988, 102 Stat. 3054.)
 
@@ -22,7 +22,7 @@ Cancer is a leading cause of death, and cancer incidence is expected to increase
 
 Section 1. <i>White House Cancer Moonshot Task Force</i>. There is established, within the Office of the Vice President, a White House Cancer Moonshot Task Force (Task Force), which will focus on making the most of Federal investments, targeted incentives, private sector efforts from industry and philanthropy, patient engagement initiatives, and other mechanisms to support cancer research and enable progress in treatment and care. The Vice President shall serve as Chair of the Task Force.
 
-(a) Membership of the Task Force. In addition to the Vice President, the Task Force shall consist of the heads of the executive branch departments, agencies, and offices listed below:
+(a) Membership of the Task Force. In addition to the Vice President, the Task Force shall consist of theheads of the executive branch departments, agencies, and offices listed below:
 
 (i) the Department of Defense;
 

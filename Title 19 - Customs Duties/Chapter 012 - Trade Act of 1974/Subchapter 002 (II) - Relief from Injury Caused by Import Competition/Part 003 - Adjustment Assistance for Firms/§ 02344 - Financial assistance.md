@@ -40,7 +40,7 @@ A prior section 2344, Pub. L. 93–618, title II, §254, as added Pub. L. 111–
 
 "(a)
 
-In General.—The Secretary shall, to such extent and in such amounts as are provided in appropriations Acts, provide grants to intermediary organizations (referred to in section 2343(b)(1) of this title) throughout the United States pursuant to agreements with such intermediary organizations. Each such agreement shall require the intermediary organization to provide benefits to firms certified under section 2341 of this title. The Secretary shall, to the maximum extent practicable, provide by October 1, 2010, that contracts entered into with intermediary organizations be for a 12-month period and that all such contracts have the same beginning date and the same ending date.
+In General.—The Secretary shall, to such extent and in such amounts as are provided in appropriationsActs, provide grants to intermediary organizations (referred to in section 2343(b)(1) of this title) throughout the United States pursuant to agreements with such intermediary organizations. Each such agreement shall require the intermediary organization to provide benefits to firms certified under section 2341 of this title. The Secretary shall, to the maximum extent practicable, provide by October 1, 2010, that contracts entered into with intermediary organizations be for a 12-month period and that all such contracts have the same beginning date and the same ending date.
 
 "(b)
 
@@ -96,5 +96,5 @@ Except as otherwise provided, technical assistance and grants may not be provide
 
 #### Residual Authority
 
-Pub. L. 111–5, div. B, title I, §1864(b), Feb. 17, 2009, 123 Stat. 398, provided that: "The Secretary of Commerce shall have the authority to modify, terminate, resolve,liquidate, or take any other action with respect to a loan, guarantee, contract, or any other financial assistance that was extended under section 254, 255, 256, or 257 of the Trade Act of 1974 (19 U.S.C. 2344, 2345, 2346, and 2347), as in effect on the day before the effective date set forth in section 1891 \[set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title\]."
+Pub. L. 111–5, div. B, title I, §1864(b), Feb. 17, 2009, 123 Stat. 398, provided that: "The Secretary of Commerce shall have the authority to modify, terminate, resolve, liquidate, or take any other action with respect to a loan, guarantee, contract, or any other financial assistance that was extended under section 254, 255, 256, or 257 of the Trade Act of 1974 (19 U.S.C. 2344, 2345, 2346, and 2347), as in effect on the day before the effective date set forth in section 1891 \[set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title\]."
 

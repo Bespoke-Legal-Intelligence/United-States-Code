@@ -174,7 +174,7 @@
 
 #### (D) Consultation with tribal governments
 
-&emsp;&emsp;In reviewing the performance of any assisted community development financial institution, the investment area of which includes an Indian reservation, or the targeted population of which includes an Indian tribe,the Fund shall consult with, and seek input from, any appropriate tribal government.
+&emsp;&emsp;In reviewing the performance of any assisted community development financial institution, the investment area of which includes an Indian reservation, or the targeted population of which includes an Indian tribe, the Fund shall consult with, and seek input from, any appropriate tribal government.
 
 #### (g) Authority to sell equity investments and loans
 

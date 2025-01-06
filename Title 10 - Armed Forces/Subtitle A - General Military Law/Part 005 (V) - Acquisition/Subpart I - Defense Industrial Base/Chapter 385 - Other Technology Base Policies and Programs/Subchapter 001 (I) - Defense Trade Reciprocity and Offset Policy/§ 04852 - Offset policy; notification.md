@@ -26,7 +26,7 @@ Notification Regarding Offsets.—If at any time a United States firm enters int
 
 Definitions.—In this section:
 
-&emsp;(1) The term "United States firm" means a business entity that performs substantially all of its manufacturing, production, and research and development activities in the United States.
+&emsp;(1) The term "United States firm" means a business entity that performs substantially all of its manufacturing, production, and researchand development activities in the United States.
 
 &emsp;(2) The term "foreign firm" means a business entity other than a United States firm.
 

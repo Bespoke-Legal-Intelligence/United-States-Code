@@ -96,7 +96,7 @@ To enhance training opportunities, the Director of the Blue Campaign shall devel
 
 &emsp;&emsp;(B) The development of effective awareness tools for distribution to Federal and non-Federal officials to identify and prevent instances of human trafficking.
 
-&emsp;&emsp;(C) Identification of additional persons or entities that may be uniquely positioned to recognize signs of human trafficking and the development of materials for such persons.
+&emsp;&emsp;(C) Identification of additional persons or entities that may be uniquely positioned torecognize signs of human trafficking and the development of materials for such persons.
 
 #### (h) Consultation
 

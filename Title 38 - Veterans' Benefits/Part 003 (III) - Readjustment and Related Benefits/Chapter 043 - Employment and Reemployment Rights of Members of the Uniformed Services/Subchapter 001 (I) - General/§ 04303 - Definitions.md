@@ -98,7 +98,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
 
-&emsp;&emsp;(D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
+&emsp;&emsp;(D) the type of operation or operations of the employer, including the composition,structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
 &emsp;(17) The term "uniformed services" means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the Commissioned Corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)) or to train for such service, and any other category of persons designated by the President in time of war or national emergency.
 
@@ -152,7 +152,7 @@ Par. (4)(D). Pub. L. 111–275, §702(a), added subpar. (D).
 
 Pub. L. 107–14, §8(a)(11), struck out second period at end.
 
-<b>2000</b>—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end ", and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32."
+<b>2000</b>—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end ", and a period for which a person isabsent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32."
 
 Pub. L. 106–419, §323(a)(1), as amended by Pub. L. 107–14, §8(b)(2), struck out "and" after "National Guard duty,".
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) Ensure sufficient representation of each Federal agency and department at each fusion cell established under subparagraph (B) and issue procedures for adjudication and appeal.
 
-&emsp;&emsp;(D) Develop processes and procedures to keep family members of hostages described in paragraph (1) informed of the status of such hostages, inform such family membersof updates that do not compromise the national security of the United States, and coordinate with the Federal Government's family engagement coordinator or other designated senior representative.
+&emsp;&emsp;(D) Develop processes and procedures to keep family members of hostages described in paragraph (1) informed of the status of such hostages, inform such family members of updates that do not compromise the national security of the United States, and coordinate with the Federal Government's family engagement coordinator or other designated senior representative.
 
 #### (b) Quarterly report and briefing
 

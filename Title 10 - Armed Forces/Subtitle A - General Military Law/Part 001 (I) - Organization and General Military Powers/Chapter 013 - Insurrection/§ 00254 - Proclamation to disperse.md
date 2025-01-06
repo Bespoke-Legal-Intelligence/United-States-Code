@@ -66,7 +66,7 @@ Proc. No. 3795, July 26, 1967, 32 F.R. 10905, commanded all persons engaged in d
 
 #### Proc. No. 3840. Obstruction of Justice in the Washington Metropolitan Area
 
-Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in acts of violence threatening theWashington Metropolitan Area and obstructing the execution of the laws to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in acts of violence threatening the Washington Metropolitan Area and obstructing the execution of the laws to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3841. Obstruction of Justice in the State of Illinois
 

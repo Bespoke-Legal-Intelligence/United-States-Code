@@ -26,7 +26,7 @@ The Council by majority vote, shall elect from its members appointed under subse
 
 #### (d) Terms of office of members appointed from public; reappointment
 
-The term of office of each member of the Council appointed under subsection (a)(1) shall be four years except that any such member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No person shall be appointed a member of the Council under subsection (a)(1) more than twice. Terms of the members appointed under subsection (a)(1) shall be staggered so as to establish a rotating membership according to such method as the Board may devise.
+The term of office of each member of the Council appointed under subsection (a)(1) shall be four years except that any such member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No person shall be appointed a member of the Council under subsection (a)(1) more than twice. Terms of the members appointed under subsection (a)(1) shall be staggered so as to establish a rotating membershipaccording to such method as the Board may devise.
 
 #### (e) Payment to Comptroller General and Director of Congressional Research Service of travel and other necessary expenses; payment to members appointed from public of compensation and reimbursement for travel, subsistence, and other necessary expenses
 
@@ -54,7 +54,7 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

@@ -14,7 +14,7 @@ No claim for the redemption of, or allowance for, stamps shall be allowed under 
 
 #### (d) Finality of decisions
 
-The findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by this section shall,in the absence of fraud or mistake in mathematical calculation, be final and not subject to revision by any accounting officer.
+The findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by this section shall, in the absence of fraud or mistake in mathematical calculation, be final and not subject to revision by any accounting officer.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 85–859, title I, §165(b), (c), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

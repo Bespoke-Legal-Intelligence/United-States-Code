@@ -44,7 +44,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 (B) Assistance provided to a member under paragraph (1) shall include the following:
 
-&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, andother services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
+&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, and other services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
 
 &emsp;&emsp;(I) clinical services, including counseling and treatment for post-traumatic stress disorder and other mental health conditions; and
 
@@ -150,7 +150,7 @@ Subsecs. (d) to (f). Pub. L. 115–91, §705, added subsec. (d) and redesignated
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted "when the Coast Guard is not operating as a service in the Navy" before period at end.
 
-<b>2011</b>—Subsec. (a)(4). Pub. L. 112–81 inserted at end "For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty."
+<b>2011</b>—Subsec. (a)(4). Pub. L. 112–81 inserted at end "For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the180-day period shall begin on the date on which the member is separated from such extended active duty."
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–84, §703(1)(A), substituted "paragraph (4)" for "paragraph (3)" in introductory provisions.
 

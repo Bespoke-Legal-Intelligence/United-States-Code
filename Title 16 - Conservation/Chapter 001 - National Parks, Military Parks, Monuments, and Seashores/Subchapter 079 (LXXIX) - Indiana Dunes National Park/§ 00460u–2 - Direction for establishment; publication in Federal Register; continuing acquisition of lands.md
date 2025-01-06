@@ -10,5 +10,5 @@ As soon as practicable after November 5, 1966, and following the acquisition by 
 
 <b>2019</b>—Pub. L. 116–6 substituted "National Park" for "National Lakeshore" and "Park" for "lakeshore" in two places.
 
-<b>1976</b>—Pub. L. 94–549 inserted provision requiring the Secretary to publish in the Federal Register, no later than October 1, 1977, the boundaries of the lakeshore and from time to time publish any additional changes in the boundaries as they occur.
+<b>1976</b>—Pub. L. 94–549 inserted provision requiring the Secretary to publish in the Federal Register, no later than October 1, 1977, the boundaries of the lakeshoreand from time to time publish any additional changes in the boundaries as they occur.
 

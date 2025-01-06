@@ -52,7 +52,7 @@ In this section, the term "management official" means an officer, director, gene
 
 &emsp;&emsp;An order under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) become effective at the expiration of 30 days after the date of service upon the subject licensee and the management official concerned (except in the case of an order issued upon consent as described in paragraph (3)(B), which shall become effective at the time specified in such order); and
+&emsp;&emsp;&emsp;(i) become effective at the expiration of 30 days after the date of service upon thesubject licensee and the management official concerned (except in the case of an order issued upon consent as described in paragraph (3)(B), which shall become effective at the time specified in such order); and
 
 &emsp;&emsp;&emsp;(ii) remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Administrator or a reviewing court in accordance with this section.
 
@@ -118,7 +118,7 @@ Copies of each notice required to be served on a management official under this 
 
 &emsp;The Administrator may modify, terminate, or set aside any order issued under this section—
 
-&emsp;&emsp;(A) at any time, upon such notice, and in such manner as the Administrator deems proper, unless a petition for review is timely filed in a court of appeals of the United States, as provided in paragraph (4)(B), and thereafter until the record in the proceeding has been filed in accordance with paragraph (4)(C); and
+&emsp;&emsp;(A) at any time, upon such notice, and in such manner as the Administrator deems proper, unless a petition for review is timely filed in a court of appeals of the UnitedStates, as provided in paragraph (4)(B), and thereafter until the record in the proceeding has been filed in accordance with paragraph (4)(C); and
 
 &emsp;&emsp;(B) upon such filing of the record, with permission of the court.
 
@@ -160,5 +160,5 @@ For definition of "this chapter", referred to in subsec. (b)(1)(A)(i)(I), (II), 
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pendingcompletion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
+<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
 

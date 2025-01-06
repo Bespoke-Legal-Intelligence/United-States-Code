@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(C) To enter into a partnership with adult or pediatric hematologists in the region and other regional experts in sickle cell disease at tertiary and academic health centers and State and county health offices.
 
-&emsp;&emsp;(D) To identify and secure resources for ensuring reimbursement under the medicaidprogram, State children's health insurance program, and other health programs for the prevention and treatment of sickle cell disease.
+&emsp;&emsp;(D) To identify and secure resources for ensuring reimbursement under the medicaid program, State children's health insurance program, and other health programs for the prevention and treatment of sickle cell disease.
 
 &emsp;&emsp;(E) To provide or coordinate services for adolescents with sickle cell disease making the transition to adult health care.
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(i) has a collaborative agreement with a community-based sickle cell disease organization or a nonprofit entity with experience in working with individuals who have sickle cell disease; and
 
-&emsp;&emsp;&emsp;(ii) demonstrates to the Administrator that either the Federally-qualified health center, the nonprofit hospital or clinic, the university health center, the organization or entity described in clause (i), or the experts described in paragraph (2)(C), has at least 5 years of experience in working with individuals who have sickle cell disease.
+&emsp;&emsp;&emsp;(ii) demonstrates to the Administrator that either the Federally-qualified health center, the nonprofit hospital or clinic, the university health center, the organizationor entity described in clause (i), or the experts described in paragraph (2)(C), has at least 5 years of experience in working with individuals who have sickle cell disease.
 
 #### (C) Federally-qualified health center
 

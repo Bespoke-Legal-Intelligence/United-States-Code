@@ -58,7 +58,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (5) Research
 
-&emsp;The Administrator shall, in conjunction with other Federal agencies, conduct research to develop, test, and evaluate radon and radon progeny measurement methods and protocols.The purpose of such research shall be to assess the ability of those methods and protocols to accurately assess exposure to radon progeny. Such research shall include—
+&emsp;The Administrator shall, in conjunction with other Federal agencies, conduct research to develop, test, and evaluate radon and radon progeny measurement methods and protocols. The purpose of such research shall be to assess the ability of those methods and protocols to accurately assess exposure to radon progeny. Such research shall include—
 
 &emsp;&emsp;(A) conducting comparisons among radon and radon progeny measurement techniques;
 

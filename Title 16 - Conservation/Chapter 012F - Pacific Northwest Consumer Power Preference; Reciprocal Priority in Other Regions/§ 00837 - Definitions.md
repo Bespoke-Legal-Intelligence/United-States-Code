@@ -14,7 +14,7 @@ As used in this chapter—
 
 (f) "Energy requirements of any Pacific Northwest customer" means the full requirements for electric energy of (1) any purchaser from the United States for direct consumption in the Pacific Northwest, and (2) any non-Federal utility in that region in excess of (i) the hydroelectric energy available for its own use from its generating plants in the Pacific Northwest, and (ii) any additional energy available for use in the Pacific Northwest which, under a then existing contract, the utility (A) can obtain at no higher incremental cost than the rate charged by the United States, or (B) is required to accept.
 
-(g) Terms not defined herein shall, unless the context requires otherwise, have the meaninggiven them in the March 1949 Glossary of Important Power and Rate Terms prepared under the supervision of the Federal Power Commission.
+(g) Terms not defined herein shall, unless the context requires otherwise, have the meaning given them in the March 1949 Glossary of Important Power and Rate Terms prepared under the supervision of the Federal Power Commission.
 
 (Pub. L. 88–552, §1, Aug. 31, 1964, 78 Stat. 756; Pub. L. 95–91, title III, §302(a), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, §8(e), Dec. 5, 1980, 94 Stat. 2729.)
 

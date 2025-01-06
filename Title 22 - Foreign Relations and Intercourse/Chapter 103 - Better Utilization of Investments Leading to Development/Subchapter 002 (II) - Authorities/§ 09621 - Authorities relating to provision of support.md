@@ -98,13 +98,13 @@ The Corporation may administer and manage special projects and programs in suppo
 
 #### (2) Private character of funds
 
-&emsp;Nothing in this section shall be construed to make an enterprise fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an enterprise fund officers or employees of the United States for purposes of title 5.
+&emsp;Nothing in this section shall be construed to make an enterprise fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an enterprise fundofficers or employees of the United States for purposes of title 5.
 
 #### (3) Purposes for which support may be provided
 
 &emsp;The Corporation, subject to the approval of the Board, may designate private, nonprofit organizations as eligible to receive support under this subchapter for the following purposes:
 
-&emsp;&emsp;(A) To promote development of economic freedom and private sectors, includingsmall- and medium-sized enterprises and joint ventures with the United States and host country participants.
+&emsp;&emsp;(A) To promote development of economic freedom and private sectors, including small- and medium-sized enterprises and joint ventures with the United States and host country participants.
 
 &emsp;&emsp;(B) To facilitate access to credit to small- and medium-sized enterprises with sound business plans in countries where there is limited means of accessing credit on market terms.
 

@@ -198,7 +198,7 @@ Subsec. (g)(2). Pub. L. 111–281, §810(2)(B), substituted "2018" for "2006".
 
 Pub. L. 115–282, title VI, §602(b), Dec. 4, 2018, 132 Stat. 4293, provided that: "Notwithstanding any other provision of law—
 
-&emsp;"(1) an advisory committee substantially similar to the National Maritime Security Advisory Committee established under section 70112(a) of title 46, UnitedStates Code, as amended by this section, and that was in force or in effect on the day before the date of enactment of this section \[Dec. 4, 2018\], may remain in force or in effect for a period of 2 years from the date of enactment of this section, including that the charter, membership, and other aspects of the committee may remain in force or in effect; and
+&emsp;"(1) an advisory committee substantially similar to the National Maritime Security Advisory Committee established under section 70112(a) of title 46, United States Code, as amended by this section, and that was in force or in effect on the day before the date of enactment of this section \[Dec. 4, 2018\], may remain in force or in effect for a period of 2 years from the date of enactment of this section, including that the charter, membership, and other aspects of the committee may remain in force or in effect; and
 
 &emsp;"(2) during the 2-year period referenced in paragraph (1)—
 

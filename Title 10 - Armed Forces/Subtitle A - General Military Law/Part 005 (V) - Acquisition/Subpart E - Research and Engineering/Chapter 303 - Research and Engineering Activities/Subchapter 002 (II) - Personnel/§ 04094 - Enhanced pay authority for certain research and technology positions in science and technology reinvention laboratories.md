@@ -34,7 +34,7 @@ In general.—The authority in subsection (a) may be used only to the extent nec
 
 &emsp;(2)
 
-Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time, unless the Under Secretary of Defense for Research and Engineering, in concurrence with the Secretaries of the military departments concerned, authorizes the transfer of positions from one military department to another.
+Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time, unless the UnderSecretary of Defense for Research and Engineering, in concurrence with the Secretaries of the military departments concerned, authorizes the transfer of positions from one military department to another.
 
 &emsp;(3)
 

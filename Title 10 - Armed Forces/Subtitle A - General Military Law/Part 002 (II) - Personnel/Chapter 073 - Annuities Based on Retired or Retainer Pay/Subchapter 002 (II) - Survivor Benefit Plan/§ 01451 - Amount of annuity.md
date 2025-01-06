@@ -88,7 +88,7 @@ Computation of reserve-component annuity when participant dies before age 60.—
 
 &emsp;&emsp;(C) who at the time of death is otherwise entitled to retired pay,
 
-> &emsp;shall be considered to have been entitled to retired pay at the time of death. The retired pay of such person for the purposes of such paragraph shall be computed on the basis of the rates of basic pay in effect on the date on which the annuity provided by such person is to become effective in accordance with the designation of such person under section 1448(e) of this title.
+> &emsp;shall be considered to have been entitled to retired pay at the time of death. The retired pay of such person for the purposes of such paragraph shall be computed on the basis of therates of basic pay in effect on the date on which the annuity provided by such person is to become effective in accordance with the designation of such person under section 1448(e) of this title.
 
 (c)
 
@@ -336,7 +336,7 @@ annuity.—" for "
 
 annuity—" in heading.
 
-<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to amounts of annuities and inserting subsec., par., and subpar. headings.
+<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to amounts ofannuities and inserting subsec., par., and subpar. headings.
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–337 substituted "section 1311(a) of title 38" for "section 411(a) of title 38".
 
@@ -398,7 +398,7 @@ Subsec. (d). Pub. L. 96–402, §3(c), substituted reference to "subsection (a)(
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted "The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—" for "If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to the widow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.", and added pars. (1) and (2), and substituted "For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extent that such benefit has been offset by deductions under section 403 of title 42 on account of work" for "For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work".
 
-Subsec. (b). Pub. L. 95–397, §204(c), substituted "The monthly annuity payable under section 1450(a)(4) of this title shall be—" for "The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c) of this title.", added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person who provided an annuity and who dies before becoming 60 years of age.
+Subsec. (b). Pub. L. 95–397, §204(c), substituted "The monthly annuity payable under section 1450(a)(4) of this title shall be—" for "The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c) of this title.", added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person whoprovided an annuity and who dies before becoming 60 years of age.
 
 Subsec. (d). Pub. L. 95–397, §204(d), added subsec. (d).
 
@@ -482,7 +482,7 @@ Persons Eligible for Recomputation.—A person is eligible to have an annuity un
 
 &emsp;"(1) the annuity is based upon the service of a member of the uniformed services who died on active duty during the period beginning on September 21, 1972, and ending on the effective date specified in subsection (d); and
 
-&emsp;"(2) the retired pay of that member for the purposes of determining the amount of the annuity under theSurvivor Benefit Plan was computed using a rate of basic pay lower than the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death.
+&emsp;"(2) the retired pay of that member for the purposes of determining the amount of the annuity under the Survivor Benefit Plan was computed using a rate of basic pay lower than the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death.
 
 "(d)
 

@@ -2,21 +2,21 @@
 
 #### (a) Definition
 
-In this section, the term "certified training program or course" means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) of this title, or equivalents to such training curricula—
+In this section, the term "certified training program or course" means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) <sup>1</sup> of this title, or equivalents to such training curricula—
 
-&emsp;(1) that is provided by the Attorney General under section 10381(n)(3) of this title; or
+&emsp;(1) that is provided by the Attorney General under section 10381(n)(3) <sup>1</sup> of this title; or
 
 &emsp;(2) that is—
 
-&emsp;&emsp;(A) provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) of this title; and
+&emsp;&emsp;(A) provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) <sup>1</sup> of this title; and
 
-&emsp;&emsp;(B) certified by the Attorney General under section 10381(n)(2) of this title.
+&emsp;&emsp;(B) certified by the Attorney General under section 10381(n)(2) <sup>1</sup> of this title.
 
 #### (b) Authority
 
 #### (1) In general
 
-&emsp;Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) of this title, the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
+&emsp;Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) <sup>1</sup> of this title, the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
 
 &emsp;&emsp;(A) pay for—
 
@@ -24,19 +24,19 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;&emsp;&emsp;(ii) attendance by law enforcement officers or covered mental health professionals at a certified training program or course, including a course provided by a law enforcement training academy of a State or unit of local government;
 
-&emsp;&emsp;(B) procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) of this title;
+&emsp;&emsp;(B) procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title;
 
 &emsp;&emsp;(C) in the case of a law enforcement agency of a unit of local government that employs fewer than 50 employees (determined on a full-time equivalent basis), pay for the costs of overtime accrued as a result of the attendance of a law enforcement officer or covered mental health professional at a certified training program or course for which the costs associated with conducting the certified training program or course are paid using amounts provided under this section;
 
 &emsp;&emsp;(D) pay for the costs of developing mechanisms to comply with the reporting requirements established under subsection (d), in an amount not to exceed 5 percent of the total amount of the grant award; and
 
-&emsp;&emsp;(E) pay for the costs associated with participation in the voluntary National Use-of-Force Data Collection of the Federal Bureau of Investigation, in an amount not to exceed 5 percent of the total amount of the grant award, if a law enforcement agency of the State or unit of local government is not already reporting to the National Use-of-Force Data Collection.
+&emsp;&emsp;(E) pay for the costs associated with participation in the voluntary National Use-of-Force Data Collection of the Federal Bureauof Investigation, in an amount not to exceed 5 percent of the total amount of the grant award, if a law enforcement agency of the State or unit of local government is not already reporting to the National Use-of-Force Data Collection.
 
 #### (2) Requirements for use for continuing education
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term "covered topic" means a topic covered under the curricula developed or identified under clause\(i), (ii), or (iv) of section 10381(n)(1)(A) of this title.
+&emsp;&emsp;In this paragraph, the term "covered topic" means a topic covered under the curricula developed or identified under clause (i), (ii), or (iv) of section 10381(n)(1)(A) <sup>1</sup> of this title.
 
 #### (B) Requirement to provide initial training
 
@@ -80,7 +80,7 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;&emsp;A State may, with the approval of a unit of local government, use the funds allocated to the unit of local government under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide <sup>1</sup> continuing education in 1 or more of the topics described in section 10381(n)(1)(A) of this title to law enforcement officers employed by the unit of local government; or
+&emsp;&emsp;&emsp;(i) to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide <sup>2</sup> continuing education in 1 or more of the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title to law enforcement officers employed by the unit of local government; or
 
 &emsp;&emsp;&emsp;(ii) for the costs of training local law enforcement officers, including through law enforcement training academies of States and units of local government, to conduct a certified training program or course.
 
@@ -98,17 +98,17 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;Any unit of local government that receives funds from a State under subsection (c)(3) for a certified training program or course shall submit to the State or the Attorney General an annual report with respect to the first fiscal year during which the unit of local government receives such funds and each of the 2 fiscal years thereafter that—
 
-&emsp;&emsp;(A) shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) of this title, the topics covered in those courses, and the number of officers who received training in each topic;
+&emsp;&emsp;(A) shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) <sup>1</sup> of this title, the topics covered in those courses, and the number of officers who received training in each topic;
 
 &emsp;&emsp;(B) may, at the election of the unit of local government, include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course using funds provided from a source other than the grants described under subsection (b), the topics covered in those courses, and the number of officers who received training in each topic;
 
 &emsp;&emsp;(C) shall include the total number of law enforcement officers employed by the unit of local government;
 
-&emsp;&emsp;(D) shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) of this title;
+&emsp;&emsp;(D) shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title;
 
 &emsp;&emsp;(E) shall include information gathered through—
 
-&emsp;&emsp;&emsp;(i) pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) of this title; and
+&emsp;&emsp;&emsp;(i) pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) <sup>1</sup> of this title; and
 
 &emsp;&emsp;&emsp;(ii) follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training; and
 
@@ -122,17 +122,17 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;&emsp;(B) if the State retains funds under subsection (c)(2) for a fiscal year, a report by the State for that fiscal year, and each of the 2 fiscal years thereafter—
 
-&emsp;&emsp;&emsp;(i) indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) of this title, the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
+&emsp;&emsp;&emsp;(i) indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) <sup>1</sup> of this title, the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
 
 &emsp;&emsp;&emsp;(ii) indicating the total number of law enforcement officers employed by the State;
 
 &emsp;&emsp;&emsp;(iii) providing information gathered through—
 
-&emsp;&emsp;&emsp;&emsp;(I) pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) <sup>1</sup> of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training;
 
-&emsp;&emsp;&emsp;(iv) discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) of this title; and
+&emsp;&emsp;&emsp;(iv) discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title; and
 
 &emsp;&emsp;&emsp;(v) indicating the amount of funding retained by the State under subsection (c)(2) and providing a tentative plan for training all law enforcement officers employed by the State using available and anticipated funds.
 
@@ -146,7 +146,7 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;&emsp;The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups, shall establish—
 
-&emsp;&emsp;&emsp;(i) reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) of this title are used by each law enforcement agency that receives funding under this section; and
+&emsp;&emsp;&emsp;(i) reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) <sup>1</sup> of this title are used by each law enforcement agency that receives funding under this section; and
 
 &emsp;&emsp;&emsp;(ii) mechanisms for each law enforcement agency to submit such reports to the Department of Justice.
 
@@ -202,7 +202,7 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;&emsp;(B) the selection criteria the Attorney General has used or intends to use to select recipients of awards using funds authorized under this section;
 
-&emsp;&emsp;(C) the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
+&emsp;&emsp;(C) the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) <sup>1</sup> of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
 
 &emsp;&emsp;(D) the nature, frequency, and amount of information that the Attorney General has collected or intends to collect under subsection (d).
 
@@ -238,11 +238,11 @@ In this section, the term "certified training program or course" means a program
 
 &emsp;Not later than 3 years after the first grant award using funds authorized under this section, the Comptroller General of the United States shall review the grant program under this section and submit to Congress a report assessing the grant program, including—
 
-&emsp;&emsp;(A) the process for developing and identifying curricula under section 10381(n)(1) ofthis title, including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) of this title;
+&emsp;&emsp;(A) the process for developing and identifying curricula under section 10381(n)(1) <sup>1</sup> of this title, including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) <sup>1</sup> of this title;
 
-&emsp;&emsp;(B) the certification of training programs and courses under section 10381(n)(2) of this title, including the development of the process for certification and its implementation;
+&emsp;&emsp;(B) the certification of training programs and courses under section 10381(n)(2) <sup>1</sup> of this title, including the development of the process for certification and its implementation;
 
-&emsp;&emsp;(C) the training of law enforcement personnel under section 10381(n)(3) of this title, including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
+&emsp;&emsp;(C) the training of law enforcement personnel under section 10381(n)(3) <sup>1</sup> of this title, including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
 
 &emsp;&emsp;(D) the allocation of funds under subsection (c), including the geographic distribution of the agencies that receive funds and the degree to which both large and small agencies receive funds; and
 
@@ -264,11 +264,17 @@ There is authorized to be appropriated to carry out this section—
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 10381(n) of this title, referred to in text, was redesignated section 10381(o) of this title by Pub. L. 118–64, §3, May 24, 2024, 138 Stat. 1435.
+
 #### Prior Provisions
 
 A prior section 508 of Pub. L. 90–351 was renumbered section 509 and had been classified to section 3758 of Title 42, The Public Health and Welfare, prior to being omitted from the Code.
 
 Another prior section 508 of Pub. L. 90–351, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4335, related to distribution of grants to local government, prior to repeal by Pub. L. 109–162, title XI, §1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "provides".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "provides".</i>
 

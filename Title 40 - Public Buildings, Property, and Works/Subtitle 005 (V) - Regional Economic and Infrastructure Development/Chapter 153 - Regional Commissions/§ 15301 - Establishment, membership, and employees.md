@@ -12,6 +12,10 @@ Establishment.—There are established the following regional Commissions:
 
 &emsp;(4) The Great Lakes Authority.
 
+&emsp;(5) The Mid-Atlantic Regional Commission.
+
+&emsp;(6) The Southern New England Regional Commission.
+
 (b)
 
 Membership.—
@@ -38,7 +42,15 @@ State alternates.—The State member of a participating State may have a single 
 
 &emsp;&emsp;(C)
 
-Voting.—An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
+Voting.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
+
+&emsp;&emsp;&emsp;(ii)
+
+State alternates.—If the alternate State member is unable to vote in accordance with clause (i), the alternate State member may delegate voting authority to a designee, subject to the condition that the executive director shall be notified, in writing, of the designation not less than 1 week before the applicable vote is to take place.
 
 &emsp;(3)
 
@@ -86,9 +98,9 @@ No Federal Employee Status.—No member, alternate, officer, or employee of a Co
 
 (f)
 
-Succession.—Subject to the time limitations under section 3346 of title 5, the Federal Cochairperson may designate a Federal employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
+Succession.—Subject to the time limitations under section 3346 of title 5, the Federal Cochairperson may designate an employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, §6304(f), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 117–328, div. O, title IV, §401(a)(1), Dec. 29, 2022, 136 Stat. 5228.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, §6304(f), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 117–328, div. O, title IV, §401(a)(1), Dec. 29, 2022, 136 Stat. 5228; Pub. L. 118–272, div. B, title II, §§2242(a), 2249(a), 2250(a), Jan. 4, 2025, 138 Stat. 3202, 3209.)
 
 #### <b>Editorial Notes</b>
 
@@ -97,6 +109,14 @@ Succession.—Subject to the time limitations under section 3346 of title 5, the
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(5). Pub. L. 118–272, §2249(a), added par. (5).
+
+Subsec. (a)(6). Pub. L. 118–272, §2250(a), added par. (6).
+
+Subsec. (b)(2)(C). Pub. L. 118–272, §2242(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (f). Pub. L. 118–272, §2242(a)(2), substituted "an employee" for "a Federal employee".
 
 <b>2022</b>—Subsec. (a)(4). Pub. L. 117–328 added par. (4).
 

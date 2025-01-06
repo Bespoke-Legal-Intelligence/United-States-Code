@@ -22,7 +22,7 @@ The purpose of this chapter is to strengthen and enhance United States leadershi
 
 &emsp;&emsp;(D) address the particular vulnerabilities of girls and women;
 
-&emsp;(4) encouraging the expansion of private sector efforts and expanding public-private sector partnerships to combat HIV/AIDS, tuberculosis, and malaria;
+&emsp;(4) encouraging the expansion of private sector efforts and expanding public-private sectorpartnerships to combat HIV/AIDS, tuberculosis, and malaria;
 
 &emsp;(5) reinforcing efforts to—
 

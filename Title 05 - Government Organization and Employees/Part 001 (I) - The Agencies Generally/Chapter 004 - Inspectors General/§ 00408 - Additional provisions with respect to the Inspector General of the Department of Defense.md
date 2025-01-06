@@ -62,7 +62,7 @@ Additional Duties and Responsibilities.—In addition to the other duties and re
 
 Reporting Violations of Chapter 47
 
-of Title 10.—Notwithstanding section 404(d) of this title, the Inspector General of the Department of Defense shall expeditiously report suspected or alleged violations of chapter 47 of title 10 (Uniform Code of Military Justice), to the Secretary of the military department concerned or the Secretary of Defense.
+of Title 10.—Notwithstanding section 404(d) of this title, the Inspector General of the Department of Defense shall expeditiously report suspectedor alleged violations of chapter 47 of title 10 (Uniform Code of Military Justice), to the Secretary of the military department concerned or the Secretary of Defense.
 
 (e)
 
@@ -144,7 +144,7 @@ Notification.—The Inspector General shall notify the Attorney General 7 days b
 
 <i>(2) in subsection (f)—</i>
 
-<i>(A) in paragraph (1), by striking "the Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate and the Committees on Armed Services and on Oversight and Government Reform of the House of Representatives and to other appropriate committees or subcommittees of Congress" and inserting "the appropriate congressional committees, including the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives"; and</i>
+<i>(A) in paragraph (1), by striking "the Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate and the Committees on Armed Services and on Oversight and Government Reform of the House of Representatives and to other appropriate committees or subcommittees of Congress" and</i><i>inserting "the appropriate congressional committees, including the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives"; and</i>
 
 <i>(B) in paragraph (2), by striking "committees or subcommittees of the Congress" and inserting "congressional committees".</i>
 

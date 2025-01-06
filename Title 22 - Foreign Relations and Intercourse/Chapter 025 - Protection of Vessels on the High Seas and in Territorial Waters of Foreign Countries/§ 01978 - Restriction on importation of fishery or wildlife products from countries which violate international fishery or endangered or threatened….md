@@ -144,7 +144,7 @@ Subsec. (e)(5). Pub. L. 95–376, §2(5)(A), (C), inserted "and wildlife product
 
 Subsec. (f). Pub. L. 95–376, §2(6), inserted references to the Secretary of Commerce and the Secretary of the Interior.
 
-Subsec. (g)(3). Pub. L. 95–376, §2(7)(A), (B), substituted "in effect" for "in force", and "which is in force with respect to the United States" for "to which the United States is a signatory party".
+Subsec. (g)(3). Pub. L. 95–376, §2(7)(A), (B), substituted "in effect" for "in force", and "which is in force withrespect to the United States" for "to which the United States is a signatory party".
 
 Subsec. (g)(5) to (7). Pub. L. 95–376, §2(7)(C), added pars. (5) to (7).
 

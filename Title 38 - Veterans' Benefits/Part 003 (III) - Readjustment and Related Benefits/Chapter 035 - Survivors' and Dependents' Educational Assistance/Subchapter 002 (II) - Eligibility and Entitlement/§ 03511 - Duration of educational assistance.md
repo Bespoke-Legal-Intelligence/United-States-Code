@@ -18,7 +18,7 @@
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) of this subparagraph, his or her course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii) of this paragraph.
+(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii) of this paragraph.
 
 (b) If any eligible person pursuing a program of education, or of special restorative training, under this chapter ceases to be an "eligible person" because—
 

@@ -64,7 +64,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;The termination date referred to in subparagraph (A) shall not apply to a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date.
+&emsp;&emsp;The termination date referred to in subparagraph (A) shall not apply to a proposalaccepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date.
 
 #### (c) General provisions
 

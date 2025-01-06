@@ -6,11 +6,11 @@ The Secretary of the Army is authorized to allot from any appropriations hereaft
 
 #### (b) Limitation on allotment
 
-Not more than $10,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
+Not more than $15,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
 
 #### (c) Lands, easements, and rights-of-way; indemnification; assurances of local cooperation
 
-Local interests shall provide without cost to the United States all necessary lands, easementsand rights-of-way for all projects to be constructed under the authority of this section. In addition, local interests may be required to hold and save the United States free from damages that may result from the construction and maintenance of the project and may be required to provide such additional local cooperation as the Chief of Engineers deems appropriate. A State, county, municipality or other responsible local entity shall give assurance satisfactory to the Chief of Engineers that such conditions of cooperation as are required will be accomplished.
+Local interests shall provide without cost to the United States all necessary lands, easements and rights-of-way for all projects to be constructed under the authority of this section. In addition, local interests may be required to hold and save the United States free from damages that may result from the construction and maintenance of the project and may be required to provide such additional local cooperation as the Chief of Engineers deems appropriate. A State, county, municipality or other responsible local entity shall give assurance satisfactory to the Chief of Engineers that such conditions of cooperation as are required will be accomplished.
 
 #### (d) Sharing of costs by non-Federal interests
 
@@ -24,11 +24,13 @@ Each project for which money is allotted under this section shall be complete in
 
 This section shall apply to, but not be limited to, the provision of low water access navigation channels from the existing channel of the Mississippi River to harbor areas heretofore or now established and located along the Mississippi River.
 
-(Pub. L. 86–645, title I, §107, July 14, 1960, 74 Stat. 486; Pub. L. 89–298, title III, §310(a), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(a), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 94–587, §133(a), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 99–662, title IX, §915(d), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 110–114, title II, §2022, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(b), June 10, 2014, 128 Stat. 1231; Pub. L. 115–270, title I, §1157(b), Oct. 23, 2018, 132 Stat. 3794.)
+(Pub. L. 86–645, title I, §107, July 14, 1960, 74 Stat. 486; Pub. L. 89–298, title III, §310(a), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(a), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 94–587, §133(a), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 99–662, title IX, §915(d), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 110–114, title II, §2022, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(b), June 10, 2014, 128 Stat. 1231; Pub. L. 115–270, title I, §1157(b), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, §1107(d), Jan. 4, 2025, 138 Stat. 3004.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (b). Pub. L. 118–272 substituted "$15,000,000" for "$10,000,000".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–270 substituted "$62,500,000" for "$50,000,000".
 

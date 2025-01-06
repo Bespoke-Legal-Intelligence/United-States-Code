@@ -24,7 +24,7 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 &emsp;&emsp;(E) develop and maintain robust Regional Offices that will work with State, local, and tribal governments, emergency response providers, and other appropriate entities to identify and address regional priorities;
 
-&emsp;&emsp;(F) under the leadership of the Secretary, coordinate with the Commandant of theCoast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
+&emsp;&emsp;(F) under the leadership of the Secretary, coordinate with the Commandant of the Coast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
 
 &emsp;&emsp;(G) provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster;
 

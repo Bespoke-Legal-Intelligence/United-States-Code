@@ -65,7 +65,7 @@ Updates Required.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering, ensure that allprogram classification guides (for classified programs) and all program protection plans (for unclassified programs) include guidance for the proper marking for controlled unclassified information at their next regularly scheduled update.
+In general.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering, ensure that all program classification guides (for classified programs) and all program protection plans (for unclassified programs) include guidance for the proper marking for controlled unclassified information at their next regularly scheduled update.
 
 &emsp;"(2)
 

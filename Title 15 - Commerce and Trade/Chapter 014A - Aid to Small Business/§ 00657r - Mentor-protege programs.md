@@ -166,7 +166,7 @@ Mentors and proteges with approved agreement in a program operating pursuant to 
 
 Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shall submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan within 180 days after receipt.
 
-(Pub. L. 85–536, §2\[45\], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077; amended Pub. L. 114–328, div. A, title XVIII,§1813(e), Dec. 23, 2016, 130 Stat. 2653; Pub. L. 115–232, div. A, title VIII, §861(d), (e), Aug. 13, 2018, 132 Stat. 1896, 1897; Pub. L. 116–283, div. A, title VIII, §866(c), Jan. 1, 2021, 134 Stat. 3786.)
+(Pub. L. 85–536, §2\[45\], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077; amended Pub. L. 114–328, div. A, title XVIII, §1813(e), Dec. 23, 2016, 130 Stat. 2653; Pub. L. 115–232, div. A, title VIII, §861(d), (e), Aug. 13, 2018, 132 Stat. 1896, 1897; Pub. L. 116–283, div. A, title VIII, §866(c), Jan. 1, 2021, 134 Stat. 3786.)
 
 #### <b>Editorial Notes</b>
 

@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fundfor any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -82,7 +82,7 @@ Additional contents of report.—The annual report submitted under this subsecti
 
 &emsp;&emsp;(A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); <sup>2</sup> and
 
-&emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments, and the reasons for any delays in scheduled systems development, or budget overruns.
+&emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments,and the reasons for any delays in scheduled systems development, or budget overruns.
 
 (h)
 

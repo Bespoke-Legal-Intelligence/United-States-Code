@@ -12,7 +12,7 @@ Notwithstanding chapter 63 of title 31, the Secretary may enter into a fee manag
 
 #### (b) Revenue sharing
 
-A State or legal subdivision of a State that enters into an agreement with the Secretary undersubsection (a) may share in a percentage of the revenues collected at the site in accordance with that fee management agreement.
+A State or legal subdivision of a State that enters into an agreement with the Secretary under subsection (a) may share in a percentage of the revenues collected at the site in accordance with that fee management agreement.
 
 #### (c) County proposals
 

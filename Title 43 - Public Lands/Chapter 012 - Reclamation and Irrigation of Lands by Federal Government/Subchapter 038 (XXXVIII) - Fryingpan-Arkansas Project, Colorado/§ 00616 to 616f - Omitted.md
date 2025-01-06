@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section 616, Pub. L. 87–590, §1, Aug. 16, 1962, 76 Stat. 389; Pub. L. 111–11, title IX, §9115(a), Mar. 30, 2009, 123 Stat. 1320, authorized construction, operation, and maintenance of Fryingpan-Arkansas project, Colorado.
+Section 616, Pub. L. 87–590, §1, Aug. 16, 1962, 76 Stat. 389; Pub. L. 111–11, title IX, §9115(a), Mar. 30, 2009, 123Stat. 1320, authorized construction, operation, and maintenance of Fryingpan-Arkansas project, Colorado.
 
 Section 616a, Pub. L. 87–590, §2, Aug. 16, 1962, 76 Stat. 390; Pub. L. 111–11, title IX, §9115(b), Mar. 30, 2009, 123 Stat. 1321, related to repayment of projects costs and determination of interest rates.
 

@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), for purposes of this subsection and subsection (m), an organization that is otherwise eligible to participate in a church plan shall not be aggregated with another such organization and treated as a singleemployer with such other organization for a plan year beginning in a taxable year unless—
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), for purposes of this subsection and subsection (m), an organization that is otherwise eligible to participate in a church plan shall not be aggregated with another such organization and treated as a single employer with such other organization for a plan year beginning in a taxable year unless—
 
 &emsp;&emsp;&emsp;(i) one such organization provides (directly or indirectly) at least 80 percent of the operating funds for the other organization during the preceding taxable year of the recipient organization, and
 
@@ -50,7 +50,7 @@ For purposes of this part—
 
 #### (C) Permissive aggregation among church-related organizations
 
-&emsp;&emsp;The church or convention or association of churches with which an organization described in subparagraph (A) is associated (within the meaning of subsection (e)(3)(D)), or an organization designated by such church or convention or association of churches, may elect to treat such organizations as a single employer for a plan year. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
+&emsp;&emsp;The church or convention or association of churches with which an organization described in subparagraph (A) is associated (within the meaning of subsection (e)(3)(D)), or an organization designated by such church or convention or association ofchurches, may elect to treat such organizations as a single employer for a plan year. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
 
 #### (D) Permissive disaggregation of church-related organizations
 
@@ -86,7 +86,7 @@ For purposes of this part, the term "governmental plan" means a plan established
 
 &emsp;&emsp;The term employee of a church or a convention or association of churches shall include—
 
-&emsp;&emsp;&emsp;(i) a duly ordained, commissioned, or licensed minister of a church in the exerciseof his ministry, regardless of the source of his compensation;
+&emsp;&emsp;&emsp;(i) a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry, regardless of the source of his compensation;
 
 &emsp;&emsp;&emsp;(ii) an employee of an organization, whether a civil law corporation or otherwise, which is exempt from tax under section 501 and which is controlled by or associated with a church or a convention or association of churches; and
 
@@ -214,7 +214,7 @@ For purposes of this part, the term "governmental plan" means a plan established
 
 &emsp;&emsp;&emsp;(III) the plan was established prior to September 2, 1974.
 
-&emsp;(B) An election under this paragraph shall be effective for all purposes under this Act <sup>1</sup> and under the Employee Retirement Income Security Act of 1974, starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated bythe plan in the election made under subparagraph (A)(ii).
+&emsp;(B) An election under this paragraph shall be effective for all purposes under this Act <sup>1</sup> and under the Employee Retirement Income Security Act of 1974, starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under subparagraph (A)(ii).
 
 &emsp;(C) Once made, an election under this paragraph shall be irrevocable, except that a plan described in subparagraph (A)(ii) shall cease to be a multiemployer plan as of the plan year beginning immediately after the first plan year for which the majority of its employer contributions were made or required to be made by organizations that were not exempt from tax under section 501.
 
@@ -276,7 +276,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (1) In general
 
-&emsp;A trust which forms a part of a plan shall not constitute a qualified trust under section 401 and a plan shall be treated as not described in section 403(a) unless in the case of any merger or consolidation of the plan with, or in the case of any transfer of assets or liabilities of such plan to, any other trust plan after September 2, 1974, each participant in the plan would (if the plan then terminated) receive a benefit immediately after the merger, consolidation, or transfer which is equal to or greater than the benefit he would have been entitledto receive immediately before the merger, consolidation, or transfer (if the plan had then terminated). The preceding sentence does not apply to any multiemployer plan with respect to any transaction to the extent that participants either before or after the transaction are covered under a multiemployer plan to which Title IV of the Employee Retirement Income Security Act of 1974 applies.
+&emsp;A trust which forms a part of a plan shall not constitute a qualified trust under section 401 and a plan shall be treated as not described in section 403(a) unless in the case of any merger or consolidation of the plan with, or in the case of any transfer of assets or liabilities of such plan to, any other trust plan after September 2, 1974, each participant in the plan would (if the plan then terminated) receive a benefit immediately after the merger, consolidation, or transfer which is equal to or greater than the benefit he would have been entitled to receive immediately before the merger, consolidation, or transfer (if the plan had then terminated). The preceding sentence does not apply to any multiemployer plan with respect to any transaction to the extent that participants either before or after the transaction are covered under a multiemployer plan to which Title IV of the Employee Retirement Income Security Act of 1974 applies.
 
 #### (2) Allocation of assets in plan spin-offs, etc.
 
@@ -356,7 +356,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;&emsp;&emsp;(I) the bridge depository institution has the right to require the plan to transfer (subject to the provisions of this paragraph) not more than 50 percent of the excess assets (as defined in subparagraph (C)) to a defined benefit plan maintained by the bridge depository institution with respect to participants or former participants (including retirees and beneficiaries) in the original plan employed by the bridge depository institution or formerly employed by the closed bank, and
 
-&emsp;&emsp;&emsp;&emsp;(II) no other merger, spin-off, termination, or similar transaction involvingthe portion of the excess assets described in subclause (I) may occur without the prior written consent of the bridge depository institution.
+&emsp;&emsp;&emsp;&emsp;(II) no other merger, spin-off, termination, or similar transaction involving the portion of the excess assets described in subclause (I) may occur without the prior written consent of the bridge depository institution.
 
 #### (m) Employees of an affiliated service group
 
@@ -442,7 +442,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (2) Leased employee
 
-&emsp;For purposes of paragraph (1), the term "leased employee" means any person who isnot an employee of the recipient and who provides services to the recipient if—
+&emsp;For purposes of paragraph (1), the term "leased employee" means any person who is not an employee of the recipient and who provides services to the recipient if—
 
 &emsp;&emsp;(A) such services are provided pursuant to an agreement between the recipient and any other person (in this subsection referred to as the "leasing organization"),
 
@@ -918,7 +918,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(B) Each period of qualified military service served by an individual is, upon reemployment under such chapter, deemed with respect to such plan to constitute service with the employer maintaining the plan for the purpose of determining the nonforfeitability of the individual's accrued benefits under such plan and for the purpose of determining the accrual of benefits under such plan.
 
-&emsp;&emsp;(C) An individual reemployed under such chapter is entitled to accrued benefits that are contingent on the making of, or derived from, employee contributions or elective deferrals only to the extent the individual makes payment to the plan with respect to such contributions or deferrals. No such payment may exceed the amount the individual would have been permitted or required to contribute had the individual remained continuously employed by the employer throughout the period of qualified military service. Any payment to such plan shall be made during the period beginning with thedate of reemployment and whose duration is 3 times the period of the qualified military service (but not greater than 5 years).
+&emsp;&emsp;(C) An individual reemployed under such chapter is entitled to accrued benefits that are contingent on the making of, or derived from, employee contributions or elective deferrals only to the extent the individual makes payment to the plan with respect to such contributions or deferrals. No such payment may exceed the amount the individual would have been permitted or required to contribute had the individual remained continuously employed by the employer throughout the period of qualified military service. Any payment to such plan shall be made during the period beginning with the date of reemployment and whose duration is 3 times the period of the qualified military service (but not greater than 5 years).
 
 #### (9) Treatment in the case of death or disability resulting from active military service
 
@@ -1000,9 +1000,9 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
+&emsp;&emsp;&emsp;(i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000 (the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year).
 
-&emsp;&emsp;&emsp;(ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), except as provided in clause (iii), the applicable dollar amount is $2,500.
+&emsp;&emsp;&emsp;(ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), except as provided in clause (iii), the applicable dollar amount is $2,500 (the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year).
 
 &emsp;&emsp;&emsp;(iii) In the case of an applicable employer plan—
 
@@ -1016,7 +1016,7 @@ For purposes of any applicable provision—
 
 #### (i) Certain large employers
 
-&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2006, the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2006, the Secretary shall adjustannually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500. In the case of a year beginning after December 31, 2025, the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) and (ii) of subparagraph (E) for increases in the cost-of-living at the same time and in the same manner as adjustments under the preceding sentence; except that the base period taken into account shall be the calendar quarter beginning July 1, 2024.
 
 #### (ii) Other employers
 
@@ -1025,6 +1025,22 @@ For purposes of any applicable provision—
 #### (D) Aggregation of plans
 
 &emsp;&emsp;For purposes of this paragraph, plans described in clauses (i), (ii), and (iv) of paragraph (6)(A) that are maintained by the same employer (as determined under subsection (b), (c), (m) or (o)) shall be treated as a single plan, and plans described in clause (iii) of paragraph (6)(A) that are maintained by the same employer shall be treated as a single plan.
+
+#### (E) Adjusted dollar amount
+
+&emsp;&emsp;For purposes of subparagraph (B), the adjusted dollar amount is—
+
+&emsp;&emsp;&emsp;(i) in the case of clause (i) of subparagraph (B), the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) $10,000, or
+
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to 150 percent of the dollar amount which would be in effect under such clause for 2024 for eligible participants not described in the parenthetical in such clause, or
+
+&emsp;&emsp;&emsp;(ii) in the case of clause (ii) of subparagraph (B), the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) $5,000, or
+
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to equal to <sup>3</sup> 150 percent of the dollar amount which would be in effect under such clause for 2025 for eligible participants not described in the parenthetical in such clause.
 
 #### (3) Treatment of contributions
 
@@ -1523,7 +1539,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(A)(i) made in implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee covered by such feature), or
 
-&emsp;&emsp;(ii) made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan\], and
+&emsp;&emsp;(ii) made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan\],<sup>3</sup> and
 
 &emsp;&emsp;(B) that is corrected prospectively by implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee) determined in accordance with the terms of an eligible automatic contribution arrangement (as defined under subsection (w)(3)), provided that—
 
@@ -1567,43 +1583,11 @@ For purposes of any applicable provision—
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
-#### Amendment of Subsection (v)(2)
-
-<i>Pub. L. 117–328, div. T, title I, §109, Dec. 29, 2022, 136 Stat. 5290, provided that, applicable to taxable years beginning after Dec. 31, 2024, subsection (v)(2) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (B)—</i>
-
-<i>(A) in clause (i), by inserting the following before the period: "(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year)"; and</i>
-
-<i>(B) in clause (ii), by inserting the following before the period: "(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year)";</i>
-
-<i>(2) in subparagraph (C), by adding at the end the following: "In the case of a year beginning after December 31, 2025, the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) and (ii) of subparagraph (E) for increases in the cost-of-living at the same time and in the same manner as adjustments under the preceding sentence; except that the base period taken into account shall be the calendar quarter beginning July 1, 2024."; and</i>
-
-<i>(3) by adding at the end the following new subparagraph:</i>
-
-#### <i>(E) Adjusted dollar amount</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (B), the adjusted dollar amount is—</i>
-
-&emsp;&emsp;&emsp;<i>(i) in the case of clause (i) of subparagraph (B), the greater of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) $10,000, or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) an amount equal to 150 percent of the dollar amount which would be in effect under such clause for 2024 for eligible participants not described in the parenthetical in such clause, or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in the case of clause (ii) of subparagraph (B), the greater of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) $5,000, or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) an amount equal to equal to 150 percent of the dollar amount which would be in effect under such clause for 2025 for eligible participants not described in the parenthetical in such clause.</i>
-
-<i>See 2022 Amendment notes below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amendedgenerally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–444, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–444, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
@@ -2275,7 +2259,7 @@ Pub. L. 96–605, title II, §201(c), Dec. 28, 1980, 94 Stat. 3527, and Pub. L. 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 105 and 125 of this title\] shall apply to plan years ending after November 30, 1980.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 105 and 125 of this title\] shall apply to plan years ending after November 30, 1980.
 
 "(2)
 
@@ -2375,7 +2359,7 @@ In general.—This section shall apply to any amendment to any retirement plan o
 
 &emsp;&emsp;"(B) on or before the last day of the first plan year beginning on or after January 1, 2025, or such later date as the Secretary of the Treasury may prescribe.
 
-> &emsp;In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), or an applicable collectively bargained plan in the case of section 401 (and the amendments made thereby), this paragraph shall be applied by substituting '2027' for '2025'. For purposes of the preceding sentence, the term 'applicable collectively bargained plan' means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act \[Dec. 20, 2019\].
+> &emsp;In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), oran applicable collectively bargained plan in the case of section 401 (and the amendments made thereby), this paragraph shall be applied by substituting '2027' for '2025'. For purposes of the preceding sentence, the term 'applicable collectively bargained plan' means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act \[Dec. 20, 2019\].
 
 &emsp;"(2)
 
@@ -2449,7 +2433,7 @@ Notice requirements.—
 
 &emsp;"(A)
 
-In general.—The plan sponsor of, or plan administrator or employer maintaining, an automatic contribution arrangement shall, within a reasonable period before the first day of each plan year, provideto each participant to whom the arrangement applies for such plan year notice of the participant's rights and obligations under the arrangement which—
+In general.—The plan sponsor of, or plan administrator or employer maintaining, an automatic contribution arrangement shall, within a reasonable period before the first day of each plan year, provide to each participant to whom the arrangement applies for such plan year notice of the participant's rights and obligations under the arrangement which—
 
 &emsp;&emsp;"(i) is sufficiently accurate and comprehensive to apprise the participant of such rights and obligations, and
 
@@ -2485,7 +2469,7 @@ In general.—In the case of—
 
 &emsp;"(B) an organization described in section 414(e)(3)(A) of such Code the principal purpose or function of which is the administration of such a plan or account,
 
-> the assets of such plan, account, or organization (including any assets otherwise permitted to be commingled for investment purposes with the assets of such a plan, account, or organization) may be invested in a group trust otherwise described in Internal Revenue Service Revenue Ruling 81–100 (as modified by Internal Revenue Service Revenue Rulings 2004–67, 2011–1, and 2014–24), or any subsequent revenue ruling that supersedes or modifies such revenue ruling, without adversely affecting the tax status of the group trust, such plan, account, or organization, or any other plan or trust that invests in the group trust.
+> the assets of such plan, account, or organization (including any assets otherwise permitted to be commingled for investment purposes with the assets of such a plan, account, or organization) may be invested in a group trust otherwise described in Internal Revenue Service Revenue Ruling 81–100 (as modified by Internal Revenue Service Revenue Rulings 2004–67, 2011–1, and2014–24), or any subsequent revenue ruling that supersedes or modifies such revenue ruling, without adversely affecting the tax status of the group trust, such plan, account, or organization, or any other plan or trust that invests in the group trust.
 
 "(2)
 
@@ -2556,4 +2540,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

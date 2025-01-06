@@ -8,7 +8,7 @@ Corporation facilities using alternative technologies for uranium enrichment, in
 
 The Corporation shall provide for the costs of decontamination and decommissioning of any Corporation facilities described in subsection (a) in accordance with the requirements of the amendments made by section 5 of the Solar, Wind, Waste, and Geothermal Power Production Act of 1990.
 
-(Aug. 1, 1946, ch. 724, title II, §1702, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat.2953; amended Pub. L. 104–134, title III, §3116(b)(4), Apr. 26, 1996, 110 Stat. 1321–349.)
+(Aug. 1, 1946, ch. 724, title II, §1702, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2953; amended Pub. L. 104–134, title III, §3116(b)(4), Apr. 26, 1996, 110 Stat. 1321–349.)
 
 #### <b>Editorial Notes</b>
 

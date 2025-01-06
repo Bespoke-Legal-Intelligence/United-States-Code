@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Notification.—Before terminating a procurement or acquisition contract with a total value of more than $1,000,000, the Commandant of the Coast Guard shall notify each vendor under such contract and require the vendor tomaintain all work product related to the contract until the earlier of—
+Notification.—Before terminating a procurement or acquisition contract with a total value of more than $1,000,000, the Commandant of the Coast Guard shall notify each vendor under such contract and require the vendor to maintain all work product related to the contract until the earlier of—
 
 &emsp;&emsp;(A) not less than 1 year after the date of the notification; or
 

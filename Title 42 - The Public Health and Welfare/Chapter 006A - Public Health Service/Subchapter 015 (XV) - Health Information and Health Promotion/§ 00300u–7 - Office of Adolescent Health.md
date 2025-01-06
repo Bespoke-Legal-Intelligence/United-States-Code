@@ -8,7 +8,7 @@ There is established an Office of Adolescent Health within the Office of the Ass
 
 With respect to adolescent health, the Secretary shall—
 
-&emsp;(1) coordinate all activities within the Department of Health and Human Services that relate to disease prevention, health promotion, preventive health services, and health information and education with respect to the appropriate use of health care, including coordinating—
+&emsp;(1) coordinate all activities within the Department of Health and Human Services thatrelate to disease prevention, health promotion, preventive health services, and health information and education with respect to the appropriate use of health care, including coordinating—
 
 &emsp;&emsp;(A) the design of programs, support for programs, and the evaluation of programs;
 
@@ -92,7 +92,7 @@ For purposes of this section, the term "adolescent health", with respect to adol
 
 &emsp;The Work Group shall annually prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and Labor of the House of Representatives, a report on the activities carried out by the Work Group under subsection (c), including recommendations to reduce and prevent teen dating violence.
 
-(July 1, 1944, ch. 373, title XVII, §1708, as added Pub. L. 102–531, title III, §302, Oct. 27, 1992, 106 Stat. 3483; amended Pub. L. 117–103, div. W, title XIII, §1315(b), Mar. 15, 2022, 136 Stat. 938.)
+(July 1, 1944, ch. 373, title XVII, §1708, as added Pub. L. 102–531, title III, §302, Oct. 27, 1992, 106Stat. 3483; amended Pub. L. 117–103, div. W, title XIII, §1315(b), Mar. 15, 2022, 136 Stat. 938.)
 
 #### <b>Editorial Notes</b>
 

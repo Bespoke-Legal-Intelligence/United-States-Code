@@ -14,7 +14,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to secure, protect, and preserve significant caves on Federal lands for the perpetual use, enjoyment, and benefit of all people; and
 
-&emsp;(2) to foster increased cooperation and exchange of information between governmental authorities and those who utilize caves located on Federal lands for scientific, education, or recreational purposes.
+&emsp;(2) to foster increased cooperation and exchange of information between governmentalauthorities and those who utilize caves located on Federal lands for scientific, education, or recreational purposes.
 
 #### (c) Policy
 

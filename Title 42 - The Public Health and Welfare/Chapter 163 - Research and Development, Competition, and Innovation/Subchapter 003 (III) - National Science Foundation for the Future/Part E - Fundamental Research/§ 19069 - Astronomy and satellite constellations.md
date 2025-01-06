@@ -1,6 +1,6 @@
 ### §19069. Astronomy and satellite constellations
 
-The Director shall support research into and the design, development, and testing of mitigation measures to address the potential impact of satellite constellations on Foundation scientific programs by—
+The Director shall support research into and the design, development, and testing of mitigation measures to address the potential impact ofsatellite constellations on Foundation scientific programs by—
 
 &emsp;(1) making awards on a competitive basis to support study of the potential impacts of satellite constellations on ground-based optical, infrared, and radio astronomy, including through existing programs such Spectrum and Wireless Innovation enabled by Future Technologies (SWIFT) and the Spectrum Innovation Initiative;
 

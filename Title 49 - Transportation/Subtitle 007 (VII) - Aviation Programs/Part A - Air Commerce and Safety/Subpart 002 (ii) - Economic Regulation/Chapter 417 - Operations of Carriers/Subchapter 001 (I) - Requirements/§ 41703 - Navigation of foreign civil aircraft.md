@@ -22,7 +22,7 @@ Requirements for Authorizing Navigation.—The Secretary may authorize navigatio
 
 (c)
 
-Providing Air Commerce.—The Secretary may authorize an aircraft permitted to navigate in the United States under this section to provide air commerce in the United States. However, the aircraft may take on for compensation,at a place in the United States, passengers or cargo destined for another place in the United States only if—
+Providing Air Commerce.—The Secretary may authorize an aircraft permitted to navigate in the United States under this section to provide air commerce in the United States. However, the aircraft may take on for compensation, at a place in the United States, passengers or cargo destined for another place in the United States only if—
 
 &emsp;(1) specifically authorized under section 40109(g) of this title; or
 
@@ -30,7 +30,7 @@ Providing Air Commerce.—The Secretary may authorize an aircraft permitted to n
 
 (d)
 
-Permit Requirements Not Affected.—This section does not affect section 41301 or 41302 of this title. However, a foreign air carrier holding a permit under section 41302 does not need to obtain additional authorization under this section for an operation authorized by the permit.
+Permit Requirements Not Affected.—This section does not affect section 41301 or 41302 of this title. However, a foreign air carrier holding a permit under section 41302 does not need toobtain additional authorization under this section for an operation authorized by the permit.
 
 (e)
 

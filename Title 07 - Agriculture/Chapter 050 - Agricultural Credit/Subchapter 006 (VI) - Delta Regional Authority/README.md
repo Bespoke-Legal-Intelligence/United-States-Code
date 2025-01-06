@@ -18,4 +18,4 @@
 - [&sect; 02009aa&#8211;10 - Records](%C2%A7%2002009aa%E2%80%9310%20-%20Records.md)
 - [&sect; 02009aa&#8211;11 - Annual report](%C2%A7%2002009aa%E2%80%9311%20-%20Annual%20report.md)
 - [&sect; 02009aa&#8211;12 - Authorization of appropriations](%C2%A7%2002009aa%E2%80%9312%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 02009aa&#8211;13 - Termination of authority](%C2%A7%2002009aa%E2%80%9313%20-%20Termination%20of%20authority.md)
+- [&sect; 02009aa&#8211;13 - Repealed. Pub. L. 118&#8211;272, div. B, title II, &sect;2253(b), Jan. 4, 2025, 138 Stat. 3213](%C2%A7%2002009aa%E2%80%9313%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93272%2C%20div.%20B%2C%20title%20II%2C%20%C2%A72253%28b%29%2C%20Jan.%204%2C%202025%2C%20138%20Stat.%203213.md)

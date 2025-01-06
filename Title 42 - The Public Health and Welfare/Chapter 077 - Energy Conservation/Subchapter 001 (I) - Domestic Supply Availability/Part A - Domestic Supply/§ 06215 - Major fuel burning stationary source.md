@@ -36,7 +36,7 @@ Within 90 days after the submission of a Governor's petition under subsection (b
 
 #### (d) Effect on authority of President to allocate coal or coal derivatives
 
-Nothing in subsection (a) or (b) of this section shall affect the authority of the President or the Secretary of the Department of Energy to allocate coal or coal derivatives under any provision of law.
+Nothing in subsection (a) or (b) of this section shall affect the authority of the President or theSecretary of the Department of Energy to allocate coal or coal derivatives under any provision of law.
 
 #### (e) Definitions
 

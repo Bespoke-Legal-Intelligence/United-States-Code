@@ -56,7 +56,7 @@ Waiver.—The Secretary may waive paragraphs (1) and (3) with respect to a grant
 
 &emsp;"(3)
 
-Exception.—The Secretary shall not obligate funds made available under subsection (d)(2) for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places unless the grantee agrees to provide, from funds derived from non-Federal sources, an amount that is equal to 30 percent of the total cost of the project for which the grant is provided.
+Exception.—The Secretary shall not obligate funds made available under subsection (d)(2) for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places unless the grantee agrees to provide,from funds derived from non-Federal sources, an amount that is equal to 30 percent of the total cost of the project for which the grant is provided.
 
 "(d)
 
@@ -88,5 +88,5 @@ Historic building and structures.—The term 'historic building and structures' 
 
 #### Recommendations of Historic Properties for Preservation
 
-Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: "The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[see 54 U.S.C. 300101 etseq.\] fully reflect the historical experience of this nation."
+Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: "The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[see 54 U.S.C. 300101 et seq.\] fully reflect the historical experience of this nation."
 

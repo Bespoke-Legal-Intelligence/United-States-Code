@@ -12,7 +12,7 @@
 
 (c) The prisoner-of-war medal shall be of appropriate design, with ribbons and appurtenances.
 
-(d) In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary concerned shall accord the prisoner-of-war medal a position of precedence, in relation to other awards and decorations authorized to be displayed—
+(d) In prescribing regulations establishing the order of precedence of awards and decorationsauthorized to be displayed on the uniforms of members of the armed forces, the Secretary concerned shall accord the prisoner-of-war medal a position of precedence, in relation to other awards and decorations authorized to be displayed—
 
 &emsp;(1) immediately following decorations awarded for individual heroism, meritorious achievement, or meritorious service, and
 

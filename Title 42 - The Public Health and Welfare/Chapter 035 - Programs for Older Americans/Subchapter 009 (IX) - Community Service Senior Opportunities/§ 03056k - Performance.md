@@ -76,7 +76,7 @@ The Secretary shall annually evaluate, and publish and make available for public
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after July 1, 2016, the Secretary shall determine if a granteeunder this subchapter has, for program year 2016, met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance.
+&emsp;&emsp;As soon as practicable after July 1, 2016, the Secretary shall determine if a grantee under this subchapter has, for program year 2016, met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance.
 
 #### (B) Technical assistance
 
@@ -180,7 +180,7 @@ Subsec. (c). Pub. L. 114–144, §6(d)(3), substituted "shall" for "shall—", s
 
 Subsec. (d)(1)(A). Pub. L. 114–144, §6(d)(4)(A)(i), substituted "July 1, 2016" for "July 1, 2007" and "year 2016," for "year 2006—"; struck out cl. (i) designation before "met"; substituted "subsection (a)(2)(B)" for "subsection (a)(2)(C)", "subsection (a)(2)(E)" for "subsection (a)(2)(D)", and "indicators of performance." for "indicators of performance described in subparagraphs (A), (C), (D), and (E) of subsection (b)(1); and"; and struck out cl. (ii) which read as follows: "achieved the applicable percentage specified in subsection (a)(2)(E)(ii) for the core indicator of performance described in subsection (b)(1)(B)."
 
-Subsec. (d)(1)(B). Pub. L. 114–144, §6(d)(4)(A)(ii), substituted "year 2016," for "year 2006—" and "subparagraph (A)," for "subparagraph (A)(i); or" and struck out cl. (i) designation before "failed", "and achieve the applicable percentage" before period at end, and "(ii) failed to achieve the applicable percentage described in subparagraph (A)(ii)," before "the Secretary shall provide".
+Subsec. (d)(1)(B). Pub. L. 114–144, §6(d)(4)(A)(ii), substituted "year 2016," for "year 2006—" and "subparagraph (A)," for "subparagraph (A)(i); or" and struck out cl. (i) designation before "failed", "and achieve theapplicable percentage" before period at end, and "(ii) failed to achieve the applicable percentage described in subparagraph (A)(ii)," before "the Secretary shall provide".
 
 Subsec. (d)(2)(A). Pub. L. 114–144, §6(d)(4)(B)(i), substituted "(a)(2)(B)" for "(a)(2)(C)" and "(a)(2)(E)" for "(a)(2)(D)".
 

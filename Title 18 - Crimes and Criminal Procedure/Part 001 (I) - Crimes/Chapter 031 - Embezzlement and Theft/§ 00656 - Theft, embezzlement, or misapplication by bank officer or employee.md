@@ -12,7 +12,7 @@ Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S
 
 Section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, was separated into three sections the first of which, embracing provisions relating to embezzlement, abstracting, purloining, or willfully misapplying moneys, funds, or credits, constitutes part of the basis for this section. Of the other two sections, one section, 334 of this title, relates only to the issuance and circulation of Federal Reserve notes and the other, section 1005 of this title, to false entries or the wrongful issue of bank obligations.
 
-The original section, containing more than 500 words, was verbose, diffuse, redundant, and complicated. The enumeration of banks affected is repeated eight times. The revised section without changing in any way the meaning or substance of existing law, clarifies, condenses, and combines related provisions largely rewritten in matters of style.
+The original section, containing more than 500 words, was verbose, diffuse, redundant, and complicated. Theenumeration of banks affected is repeated eight times. The revised section without changing in any way the meaning or substance of existing law, clarifies, condenses, and combines related provisions largely rewritten in matters of style.
 
 The words "national bank" were substituted for "national banking association," the terms being synonymous by definition of section 221 of title 12, U.S.C., 1940 ed., Banks and Banking, written into the last paragraph of this section. This change made possible the use of the term "such bank" in substitution for the words "such Federal Reserve bank, member bank, or such national banking association, or insured bank," in each of seven instances.
 

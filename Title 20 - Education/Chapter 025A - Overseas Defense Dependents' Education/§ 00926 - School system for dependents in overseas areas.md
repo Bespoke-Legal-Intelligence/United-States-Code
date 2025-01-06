@@ -44,7 +44,7 @@ Section is comprised of section 1407 of Pub. L. 95–561. Subsec. (e), formerly 
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261, §657, inserted heading, designated existing provisions as par. (1), substituted "Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary" for "Under such circumstances as he may by regulation prescribe, the Secretary of Defense", and added par. (2).
 
-Subsec. (c)(1). Pub. L. 105–261, §561(k), substituted "during the period beginning on October 1, 1990, and ending on September 30, 2001" for "during the nine-year period beginning on October 1, 1990".
+Subsec. (c)(1). Pub. L. 105–261, §561(k), substituted "during the period beginning on October 1, 1990, andending on September 30, 2001" for "during the nine-year period beginning on October 1, 1990".
 
 <b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 

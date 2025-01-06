@@ -4,7 +4,7 @@
 
 &emsp;(1) living costs substantially higher than in the District of Columbia;
 
-&emsp;(2) conditions of environment which differ substantially from conditions of environment in the continental United States and warrant an allowance as a recruitment incentive; or
+&emsp;(2) conditions of environment which differ substantially from conditions of environmentin the continental United States and warrant an allowance as a recruitment incentive; or
 
 &emsp;(3) both of these factors.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 111–84 effective on the first day of the first applicable
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
-Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, §532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, §5, Nov. 19, 1995, 109 Stat. 490; Pub. L. 105–61, title V, §515, Oct. 10, 1997, 111 Stat. 1306, provided that: "The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 2000: <i>Provided</i>, That no later than March 1, 2000, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
+Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, §532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, §5, Nov. 19, 1995, 109 Stat. 490; Pub. L. 105–61, title V, §515, Oct. 10, 1997, 111 Stat. 1306, provided that: "The allowances provided to employees at rates set under section 5941 oftitle 5, United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 2000: <i>Provided</i>, That no later than March 1, 2000, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
 
 &emsp;"(1) an examination of the pay practices of other employers in the affected areas;
 
@@ -124,7 +124,7 @@ Basis for Foreign Post Differential. The Secretary of State may establish a fore
 
 Sec. 104.
 
-Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every executive department, independent establishment, and wholly owned Government corporation shall pay a foreignpost differential fixed under section 102 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed.
+Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every executive department, independent establishment, and wholly owned Government corporation shall pay a foreign post differential fixed under section 102 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed.
 
 Sec. 105.
 
@@ -154,7 +154,7 @@ Payment of Foreign Post Differentials.
 
 Sec. 107.
 
-Persons Serving Under Contract. Any other provision of this Part notwithstanding, any person who would otherwise be eligible to receive a foreign post differential under this Part shall, if he is serving under contract, be compensated according to the terms of such contract for the period thereof and shall, during such period, be ineligible to receive a foreign post differential.
+Persons Serving Under Contract. Any other provision of this Part notwithstanding, any person who would otherwise be eligible to receive a foreignpost differential under this Part shall, if he is serving under contract, be compensated according to the terms of such contract for the period thereof and shall, during such period, be ineligible to receive a foreign post differential.
 
 Sec. 108.
 
@@ -222,7 +222,7 @@ Persons Serving Under Contract. Any other provision of this Part notwithstanding
 
 Sec. 210.
 
-Periodic Review. The Office of Personnel Management shall periodically review the places designated, the rates fixed, and the regulations prescribed pursuant to this Part, with a view to making such changes therein as will insure that payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified: <i>Provided</i>, That the rate of such additional compensation may be reduced gradually.
+Periodic Review. The Office of Personnel Management shall periodically review the places designated, the rates fixed, and the regulations prescribed pursuant to this Part, with a view to making suchchanges therein as will insure that payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified: <i>Provided</i>, That the rate of such additional compensation may be reduced gradually.
 
 #### Part III—Interim Arrangements
 

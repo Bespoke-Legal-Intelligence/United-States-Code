@@ -6,7 +6,7 @@ In this section, the term "person" means a producer, importer, or handler.
 
 #### (b) Authority of Secretary
 
-If the Secretary finds that an order issued under this chapter, or any provision of the order, obstructs or does not tend to effectuate the purposes of this chapter, the Secretary shall terminate or suspend the operation of the order or provision.
+If the Secretary finds that an order issued under this chapter, or any provision of the order, obstructs or does not tend to effectuate the purposes of this chapter, the Secretary shallterminate or suspend the operation of the order or provision.
 
 #### (c) Periodic referenda
 

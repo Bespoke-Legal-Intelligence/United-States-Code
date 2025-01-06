@@ -32,7 +32,7 @@ Inspections.—The Secretary shall provide for inspections of each air carrier t
 
 (c)
 
-Commercial Airlift Review Board.—The Secretary shall establish a Commercial Airlift Review Board within the Department of Defense. The Board shall consist of personnel from the Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
+Commercial Airlift Review Board.—The Secretary shall establish a Commercial Airlift Review Board within the Department of Defense. The Board shall consist of personnel fromthe Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
 
 &emsp;(1) to make recommendations to the Secretary on suspension and reinstatement of air carriers under subsection (d);
 
@@ -116,7 +116,7 @@ Subsec. (j)(2). Pub. L. 116–283 substituted "Marine Corps, and Space Force" fo
 
 <b>1997</b>—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-<b>1994</b>—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, §5(b)(1)(A), substituted "chapter 447 of title 49" for "title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)".
+<b>1994</b>—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, §5(b)(1)(A), substituted "chapter 447 of title 49" for"title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)".
 
 Subsec. (i)(1). Pub. L. 103–272, §5(b)(1)(B), substituted "section 40102(a) of title 49" for "sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))".
 
@@ -128,7 +128,7 @@ Pub. L. 105–85, div. A, title X, §1075(b), Nov. 18, 1997, 111 Stat. 1911, pro
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on orafter the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
+Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
 
 #### Regulations
 

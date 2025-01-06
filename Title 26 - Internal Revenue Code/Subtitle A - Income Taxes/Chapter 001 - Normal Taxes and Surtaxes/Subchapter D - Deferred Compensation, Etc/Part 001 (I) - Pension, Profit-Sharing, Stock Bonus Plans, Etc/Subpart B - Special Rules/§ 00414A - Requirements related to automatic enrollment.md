@@ -70,13 +70,19 @@ For purposes of this section—
 
 #### (B) Small businesses
 
-&emsp;&emsp;Subsection (a) shall not apply to any qualified cash or deferred arrangement, orany annuity contract purchased under a plan, earlier than the date that is 1 year after the close of the first taxable year with respect to which the employer maintaining the plan normally employed more than 10 employees.
+&emsp;&emsp;Subsection (a) shall not apply to any qualified cash or deferred arrangement, or any annuity contract purchased under a plan, earlier than the date that is 1 year after the close of the first taxable year with respect to which the employer maintaining the plan normally employed more than 10 employees.
 
 #### (C) Treatment of multiple employer plans
 
 &emsp;&emsp;In the case of a plan maintained by more than 1 employer, subparagraphs (A) and (B) shall be applied separately with respect to each such employer, and all such employers to which subsection (a) applies (after the application of this paragraph) shall be treated as maintaining a separate plan for purposes of this section.
 
 (Added Pub. L. 117–328, div. T, title I, §101(a), Dec. 29, 2022, 136 Stat. 5275.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of the enactment of this section, and such date of enactment, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

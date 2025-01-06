@@ -44,7 +44,7 @@ Historical and Revision Notes
 
 July 26, 1947, ch. 343, §201(a) (less last 10 words), (b); restated Aug. 10, 1949, ch. 412, §4 (1st (less last 10 words) and 2d pars.), 63 Stat. 579.
 
-The words "There is established", in 5 U.S.C. 171(a), are omitted as executed. 5 U.S.C. 171(b) (1st 26 words) is omitted as covered by the definitions of "department" and "military departments" in section 101(5) and (7), respectively, of this title. 5 U.S.C. 171(b) (27th through 49th words) is omitted as executed. 5 U.S.C. 171(b) (last 18 words) is omitted as surplusage.
+The words "There is established", in 5 U.S.C. 171(a), are omitted as executed. 5 U.S.C. 171(b) (1st 26 words) isomitted as covered by the definitions of "department" and "military departments" in section 101(5) and (7), respectively, of this title. 5 U.S.C. 171(b) (27th through 49th words) is omitted as executed. 5 U.S.C. 171(b) (last 18 words) is omitted as surplusage.
 
 #### <b>Editorial Notes</b>
 
@@ -75,6 +75,120 @@ Pub. L. 99–433, §1(a), Oct. 1, 1986, 100 Stat. 992, provided that: "This Act 
 For transfer of functions, personnel, assets, and liabilities of the Department of Defense, including the functions of the Secretary of Defense relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(2), 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
+
+#### Revision of Department of Defense Financial Management Regulation; Establishment of Cross-Functional Team
+
+Pub. L. 118–159, div. A, title X, §§1005, 1006, Dec. 23, 2024, 138 Stat. 2047, 2048, provided that:
+
+#### "SEC. 1005. REVISION OF DEPARTMENT OF DEFENSE FINANCIAL MANAGEMENT REGULATION.
+
+"(a) Not later than September 30, 2026, the Under Secretary of Defense (Comptroller) shall revise the Department of Defense Financial Management Regulation 7000.14-R. The Under Secretary shall ensure that the revised regulation—
+
+&emsp;"(1) is consistent and clear throughout;
+
+&emsp;"(2) includes updated guidance with respect to legislative and regulatory requirements; and
+
+&emsp;"(3) does not include any outdated guidance or guidance subject to change annually in an annual appropriations Act.
+
+"(b)
+
+Considerations.—In revising the regulation under subsection (a), the Under Secretary shall—
+
+&emsp;"(1) prioritize clarity and accessibility in the language and direction provided, including improvements to the coordination and approval process for recommended changes;
+
+&emsp;"(2) review and adopt modern financial practices that better align to current development and production cycles;
+
+&emsp;"(3) consider information technology solutions to improve the accessibility and usability of the Financial Management Regulation; and
+
+&emsp;"(4) in consultation with the Cross-Functional Team established under section 1006 consider the recommendations of the Commission on Planning, Programming, Budgeting, and Execution Reform.
+
+"(c)
+
+Briefing.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], and once every 180 days thereafter during the three-year period following such date of enactment, the Under Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the efforts to revise the Financial Management Regulation. Each such briefing shall include each of the following:
+
+&emsp;"(1) The progress made in revising the Financial Management Regulation.
+
+&emsp;"(2) The plan and timeline for completing revisions to the Financial Management Regulation.
+
+&emsp;"(3) Any barriers to the ability of the Department of Defense to revising the Financial Management Regulation as required under this section.
+
+&emsp;"(4) Any legislation required to complete revisions of the Financial Management Regulation.
+
+&emsp;"(5) Any other information determined relevant by the Secretary.
+
+#### "SEC. 1006. ESTABLISHMENT OF CROSS-FUNCTIONAL TEAM TO OVERSEE IMPLEMENTATION OF RECOMMENDATIONS OF COMMISSION ON PLANNING, PROGRAMMING, BUDGETING, AND EXECUTION REFORM.
+
+"(a)
+
+In General.—Not later than 60 days after the date of the enactment of this Act \[Dec. 23, 2024\], using the authority provided under section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note) \[set out below\], the Secretary of Defense shall establish and appropriately resource a cross-functional team to plan and oversee, in coordination with the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the implementation of the recommendations of the Commission on Planning, Programming, Budgeting, and Execution Reform established by section 1004 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1884).
+
+"(b)
+
+Reporting.—The head of the cross-functional team required by subsection (a) shall be the Under Secretary of Defense (Comptroller) and such team shall report directly to the Deputy Secretary of Defense.
+
+"(c)
+
+Personnel.—
+
+&emsp;"(1)
+
+In general.—The cross-functional team required by subsection (a) shall include dedicated, appropriate personnel with relevant expertise.
+
+&emsp;"(2)
+
+Director.—There shall be a Director of the cross-functional team who shall be responsible for leading the daily activities of the cross-functional team. The Under Secretary of Defense (Comptroller) shall select either a member of the Senior Executive Service or a senior military officer to serve as the Director.
+
+&emsp;"(3)
+
+Hiring authorities.—In establishing the cross-functional team, the Secretary may—
+
+&emsp;&emsp;"(A) hire personnel on a temporary or term basis to support the activities of the cross-functional team; and
+
+&emsp;&emsp;"(B) enter into contracts or other agreements with subject-matter experts with relevant expertise to support the cross-functional team.
+
+&emsp;"(4)
+
+Compensation.—Basic pay for personnel on the cross-functional team may be administratively determined and set in accordance with section 3161(d) of title 5, United States Code.
+
+&emsp;"(5)
+
+Inapplicability of certain limitation.—An individual hired or selected for service under this subsection who is not assigned to perform functions in, or employed by, the Office of the Secretary of Defense (including performance of direct support activities of that Office and the Washington Headquarters Services of the Department of Defense) as of the date of the enactment of this Act is not subject to the limitations under section 143 of title 10, United States Code.
+
+"(d)
+
+Consultations With Congress.—Not later than 60 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall—
+
+&emsp;"(1) provide to the congressional defense committees a briefing on the proposed leadership, composition, and charter of the cross-functional team required by subsection (a); and
+
+&emsp;"(2) seek feedback from the congressional defense committees on the recommendations of the Commission on Planning, Programming, Budgeting, and Execution Reform.
+
+"(e)
+
+Reports.—Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter until the date that is three years after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees a report on the efforts of the Department of Defense to implement the recommendations of the Commission.
+
+"(f)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—Except as provided by paragraph (2), this section and the cross-functional team required by subsection (a) shall terminate on December 31, 2029.
+
+&emsp;"(2)
+
+Early disestablishment of team.—The Secretary may, on or after December 31, 2027, and before the termination date specified in paragraph (1), disestablish the cross-functional team required by subsection (a) if—
+
+&emsp;&emsp;"(A) the Under Secretary of Defense (Comptroller) determines that the cross-functional team is no longer required for the implementation of the recommendations of the Commission on Planning, Programming, Budgeting, and Execution Reform; and
+
+&emsp;&emsp;"(B) the Secretary—
+
+&emsp;&emsp;&emsp;"(i) notifies the congressional defense committees not later than 30 days before disestablishing the cross-functional team; and
+
+&emsp;&emsp;&emsp;"(ii) includes in the notification the justification of the Secretary for the disestablishment of the cross-functional team."
+
+#### Assessments of Casualties and Fatalities During Hostilities
+
+Pub. L. 118–159, div. A, title X, §1053, Dec. 23, 2024, 138 Stat. 2061, provided that: "In making assessments of casualties and fatalities during hostilities, the Department of Defense may not cite as authoritative in public communications, fatality figures that are derived by United States-designated terrorist organizations, governmental entities controlled by United States-designated terrorist organizations, or any sources that rely on figures provided by United States-designated terrorist organizations."
 
 #### Software-Based Capability To Facilitate Scheduling Between the Department of Defense and Congress
 
@@ -128,7 +242,7 @@ Elements.—The analysis required by subsection (a) shall include the following:
 
 &emsp;"(1) A business process reengineering of the process described in subsection (a).
 
-&emsp;"(2) An assessment of applicable commercially available analytics tools, technologies, and services in connection with such business process reengineering.
+&emsp;"(2) An assessment of applicable commercially available analytics tools, technologies, and servicesin connection with such business process reengineering.
 
 &emsp;"(3) Such other actions as the Assistant Secretary considers appropriate for purposes of the analysis."
 
@@ -210,6 +324,38 @@ Pub. L. 115–91, div. A, title X, §1051(x), Dec. 12, 2017, 131 Stat. 1567, pro
 
 #### Organizational Strategy for the Department of Defense
 
+Pub. L. 118–159, div. A, title IX, §903(b), Dec. 23, 2024, 138 Stat. 2026, provided that:
+
+"(1)
+
+Establishment.—Not later than July 1, 2025, the Secretary of Defense shall establish not fewer than two Cross-Functional Teams to coordinate and support international cooperation activities of the Department of Defense.
+
+"(2)
+
+Purpose.—Of the Cross-Functional Teams required under paragraph (1)—
+
+&emsp;"(A) at least one shall be dedicated to a geographic area of interest, such as a specific country or subset of an area of responsibility for a geographic combatant command; and
+
+&emsp;"(B) at least one shall be dedicated to a functional area of interest, such as munitions production, logistics, or additive manufacturing.
+
+"(3)
+
+Participation.—The Cross-Functional Teams established under paragraph (1)—
+
+&emsp;"(A) shall include representation from—
+
+&emsp;&emsp;"(i) the Office of the Under Secretary of Defense for Policy;
+
+&emsp;&emsp;"(ii) the Office of the Under Secretary of Defense for Acquisition and Sustainment; and
+
+&emsp;&emsp;"(iii) the Office of the Under Secretary of Defense for Research and Engineering; and
+
+&emsp;"(B) may include such other participants from across the Department of Defense as the Secretary of Defense determines appropriate.
+
+"(4)
+
+Chairperson.—Each Cross-Functional Team shall have a Chairperson who shall be designated by the Secretary of Defense from among the representatives on the Team from the Offices specified in paragraph (3)(A)."
+
 Pub. L. 118–31, div. G, title III, §7353, Dec. 22, 2023, 137 Stat. 1065, provided that:
 
 "(a)
@@ -236,7 +382,7 @@ Covered elements.—The head of each covered element shall detail or assign to t
 
 Other elements.—The head any element that is not a covered element may only detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of such element if the head of such element—
 
-&emsp;&emsp;&emsp;"(i) receives written concurrence from the Director of National Intelligence and the Secretaryof Defense regarding the specific personnel to be detailed or assigned; and
+&emsp;&emsp;&emsp;"(i) receives written concurrence from the Director of National Intelligence and the Secretary of Defense regarding the specific personnel to be detailed or assigned; and
 
 &emsp;&emsp;&emsp;"(ii) submits to the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a notification describing the personnel to be detailed or assigned and the rationale for participation in the cross functional team.
 
@@ -510,13 +656,15 @@ Comptroller General of the United States Assessments.—
 
 &emsp;"(1)
 
-Biannual report on assessments.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2016\], and every six months thereafter through December 31, 2019, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a comprehensive assessment of the actions taken under this section during the six-month period ending on the date of such report and cumulatively since the date of the enactment of this Act.
+Biannual report on assessments.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2016\], and every six months thereafter through December 31, 2019, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a comprehensive assessment of the actions taken under this section during the six-month period ending onthe date of such report and cumulatively since the date of the enactment of this Act.
 
 &emsp;"(2)
 
 Assessment team.—The Comptroller General may establish within the Government Accountability Office a team of analysts to assist the Comptroller General in the performance assessments required by this subsection."
 
 #### Continuation of Reporting Requirements
+
+Pub. L. 118–159, div. A, title XVI, §1652(a)(1), Dec. 23, 2024, 138 Stat. 2200, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 111 note) does not apply to the report required to be submitted to Congress under section 1343(a) of the Department of Defense Cooperative Threat Reduction Act (50 U.S.C. 3743(a))."
 
 Pub. L. 117–263, div. A, title III, §314(c)(1), Dec. 23, 2022, 136 Stat. 2505, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to the following reports:
 
@@ -534,7 +682,7 @@ Pub. L. 117–263, div. A, title X, §1059(a), Dec. 23, 2022, 136 Stat. 2780, pr
 
 Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code \[now 10 U.S.C. 3847\]."
 
-Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III,§314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909; Pub. L. 117–263, div. A, title III, §§314(c)(2), 375(b), 376(b), title X, §§1053(b)(2), 1059(b), title XVI, §1633(e), Dec. 23, 2022, 136 Stat. 2505, 2542, 2778, 2780, 2938; Pub. L. 118–31, div. B, title XXVIII, §2821(c), Dec. 22, 2023, 137 Stat. 751, provided that:
+Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III, §314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909; Pub. L. 117–263, div. A, title III, §§314(c)(2), 375(b), 376(b), title X, §§1053(b)(2), 1059(b), title XVI, §1633(e), Dec. 23, 2022, 136 Stat. 2505, 2542, 2778, 2780, 2938; Pub. L. 118–31, div. B, title XXVIII, §2821(c), Dec. 22, 2023, 137 Stat. 751; Pub. L. 118–159, div. A, title XVI, §1652(a)(2), Dec. 23, 2024, 138 Stat. 2201, provided that:
 
 "(a)
 
@@ -594,7 +742,7 @@ Reports Required by Title 10
 
 &emsp;"(12) Section 223a(a).
 
-&emsp;"(13) Section 225(c)\[.\]
+&emsp;"(13) \[Former\] Section 225(c)\[.\]
 
 &emsp;"(14) Section 229.
 
@@ -734,7 +882,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2015.—S
 
 &emsp;"(13) Section 1275(b) (128 Stat. 3591).
 
-&emsp;"(14) Section 1343 (128 Stat. 3605; 50 U.S.C. 3743).
+&emsp;"\[(14) Repealed. Pub. L. 118–159, div. A, title XVI, §1652(a)(2), Dec. 23, 2024, 138 Stat. 2201.\]
 
 &emsp;"(15) Section 1650 (128 Stat. 3653).
 
@@ -958,7 +1106,7 @@ Major department of defense headquarters activities defined.—In this subsectio
 
 &emsp;"(4)
 
-Implementation.—Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\],the Secretary shall revise applicable guidance on the Department of Defense major headquarters activities as needed to—
+Implementation.—Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall revise applicable guidance on the Department of Defense major headquarters activities as needed to—
 
 &emsp;&emsp;"(A) incorporate into such guidance the definition of the term 'major Department of Defense headquarters activities' as provided in paragraph (3);
 
@@ -1018,7 +1166,7 @@ Covered Reports.—A report described in this subsection is a report that is req
 
 "(c)
 
-Report to Congress.—Not later than February 1, 2016, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes each of the following:
+Report to Congress.—Not later than February 1, 2016, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate andthe House of Representatives\] a report that includes each of the following:
 
 &emsp;"(1) A list of all reports described in subsection (b).
 
@@ -1082,7 +1230,7 @@ Initial report.—Not later than 180 days after the date of the enactment of thi
 
 &emsp;"(2)
 
-Status report.—The Secretary shall include with the Department of Defense materials submittedto Congress with the budget of the President for each of fiscal years 2017 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
+Status report.—The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2017 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
 
 &emsp;&emsp;"(A) A summary of savings achieved for each covered organization in the fiscal year covered by such report.
 
@@ -1128,7 +1276,7 @@ Elements.—The elements of the plan shall include the following:
 
 &emsp;&emsp;"(B) To serve, or designate a person to serve, as the representative of the Department of Defense in Federal Government forums established to address interagency policy, planning, or reforms.
 
-&emsp;&emsp;"(C) To advocate, on behalf of the Secretary, for greater interagency coordination and contributions in the execution of the National Security Strategy and particularly specific operational objectives undertaken pursuant to that strategy.
+&emsp;&emsp;"(C) To advocate, on behalf of the Secretary, for greater interagency coordination and contributionsin the execution of the National Security Strategy and particularly specific operational objectives undertaken pursuant to that strategy.
 
 &emsp;&emsp;"(D) To make recommendations to the Secretary of Defense on changes to existing Department of Defense regulations or laws to improve the interagency process.
 
@@ -1168,7 +1316,7 @@ Definition.—In this section, the term 'interagency coordination', within the c
 
 "(g)
 
-Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defensefrom naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section."
+Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defense from naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section."
 
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
@@ -1238,7 +1386,7 @@ White House Communications Agency.—For purposes of this section, the term 'Whi
 
 #### Military Force Structure Review
 
-Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies withview toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
+Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
 
 #### Commission on Roles and Missions of Armed Forces
 
@@ -1306,7 +1454,7 @@ Pub. L. 99–433, title VI, §602, Oct. 1, 1986, 100 Stat. 1066, as amended by P
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than sixmonths after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
+Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 

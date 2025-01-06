@@ -74,7 +74,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (C) 6–20 years
 
-&emsp;&emsp;In the case of a transfer during the period beginning 6 years after the acquisition andending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in subparagraph (A)(iii).
+&emsp;&emsp;In the case of a transfer during the period beginning 6 years after the acquisition and ending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in subparagraph (A)(iii).
 
 #### (D) Use of recaptured funds
 
@@ -88,7 +88,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (B) Rental assistance
 
-&emsp;&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall ensure that rental assistance under section 1437f of title 42 is available for use by each otherwise qualified tenant (that meets the eligibility requirements under such section) in that or another property. Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A) of title 42 shall not apply to the provision of assistance to such families.
+&emsp;&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall ensure that rental assistance under section 1437f of title 42 is available for use by each otherwise qualified tenant (that meets the eligibility requirements under such section) in that or another property. Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A) of title 42shall not apply to the provision of assistance to such families.
 
 #### (C) Relocation assistance
 
@@ -126,7 +126,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of "Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A)" for "The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(o)(3)" in second sentence, was executed bymaking the substitution for text which included the word "preference" rather than "preferences" to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of "Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A)" for "The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(o)(3)" in second sentence, was executed by making the substitution for text which included the word "preference" rather than "preferences" to reflect the probable intent of Congress.
 
 <b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §309(1), inserted "and limitation on conditions of approval" in heading and inserted at end of text "The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing."
 

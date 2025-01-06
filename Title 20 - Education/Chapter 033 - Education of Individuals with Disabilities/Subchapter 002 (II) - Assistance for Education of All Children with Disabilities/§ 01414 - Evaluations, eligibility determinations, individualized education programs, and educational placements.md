@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) assessment tools and strategies that provide relevant information that directly assists persons in determining the educational needs of the child are provided; and
 
-&emsp;&emsp;(D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children's prior and subsequent schools, as necessary and as expeditiously as possible, to ensure prompt completion of full evaluations.
+&emsp;&emsp;(D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children's prior and subsequent schools, as necessaryand as expeditiously as possible, to ensure prompt completion of full evaluations.
 
 #### (4) Determination of eligibility and educational need
 
@@ -226,7 +226,7 @@
 
 #### (ii) Summary of performance
 
-&emsp;&emsp;&emsp;For a child whose eligibility under this subchapter terminates under circumstances described in clause (i), a local educational agency shall provide the child with a summary of the child's academic achievement and functional performance, which shall include recommendations onhow to assist the child in meeting the child's postsecondary goals.
+&emsp;&emsp;&emsp;For a child whose eligibility under this subchapter terminates under circumstances described in clause (i), a local educational agency shall provide the child with a summary of the child's academic achievement and functional performance, which shall include recommendations on how to assist the child in meeting the child's postsecondary goals.
 
 #### (d) Individualized education programs
 
@@ -362,7 +362,7 @@
 
 #### (II) Transfer outside State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such childwith a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
 
 #### (ii) Transmittal of records
 
@@ -514,13 +514,13 @@
 
 &emsp;&emsp;The following requirements shall not apply to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons:
 
-&emsp;&emsp;&emsp;(i) The requirements contained in section 1412(a)(16) of this title and paragraph (1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
+&emsp;&emsp;&emsp;(i) The requirements contained in section 1412(a)(16) of this title and paragraph\(1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
 
 &emsp;&emsp;&emsp;(ii) The requirements of items (aa) and (bb) of paragraph (1)(A)(i)(VIII) (relating to transition planning and transition services), do not apply with respect to such children whose eligibility under this subchapter will end, because of such children's age, before such children will be released from prison.
 
 #### (B) Additional requirement
 
-&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup>1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup> 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
 #### (e) Educational placements
 

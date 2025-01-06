@@ -45,7 +45,7 @@
 | &nbsp;If the population equals— | <b>the limitation is equal to the population times—</b> |
 | :--- | ---: |
 | &nbsp;5,000 | $110.00&nbsp;&nbsp; |
-| &nbsp;6,000 | 103\.00   |
+| &nbsp;6,000 | 103\.00&nbsp;&nbsp; |
 | &nbsp;7,000 | 97\.00&nbsp;&nbsp; |
 | &nbsp;8,000 | 90\.00&nbsp;&nbsp; |
 | &nbsp;9,000 | 84\.00&nbsp;&nbsp; |
@@ -157,7 +157,7 @@ In subsection (c)(2), the words "computed under the . . . table" are omitted a
 
 Act of June 20, 1910 (ch. 310, 36 Stat. 557), referred to in subsec. (a)(1)(A), is not classified to the Code.
 
-The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, which is classified principally to chapter 90 (§7101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 16 and Tables.
+The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, which is classified principally to chapter 90 (§7101 et seq.) of Title 16, Conservation. For complete classification ofthis Act to the Code, see Short Title note set out under section 7101 of Title 16 and Tables.
 
 The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec. (d), probably means the date of enactment of the Payments In Lieu of Taxes Act, Pub. L. 103–397, which was approved Oct. 22, 1994.
 
@@ -201,9 +201,11 @@ Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the am
 
 #### Proportional Payments to Local Governments
 
-Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4777, provided in part: "That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter \[meaning chapter 69 of Title 31, 31 U.S.C. 6901 et seq.\] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally".
+Pub. L. 118–42, div. E, title I, Mar. 9, 2024, 138 Stat. 237, provided in part: "That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter \[meaning chapter 69 of Title 31, 31 U.S.C. 6901 et seq.\] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4777.
 
 Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 366.
 

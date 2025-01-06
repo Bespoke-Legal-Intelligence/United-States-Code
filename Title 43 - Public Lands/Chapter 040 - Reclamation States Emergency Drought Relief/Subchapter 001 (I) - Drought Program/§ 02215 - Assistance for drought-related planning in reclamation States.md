@@ -6,7 +6,7 @@ The Secretary may provide financial assistance in the form of cooperative agreem
 
 #### (b) Report
 
-Not later than one year after December 23, 2000, the Secretary shall submit to the Congress a report and recommendations on the advisability of providing financial assistance for thedevelopment of drought contingency plans in all entities that are eligible to receive assistance under subchapter II.
+Not later than one year after December 23, 2000, the Secretary shall submit to the Congress a report and recommendations on the advisability of providing financial assistance for the development of drought contingency plans in all entities that are eligible to receive assistance under subchapter II.
 
 (Pub. L. 102–250, title I, §105, as added Pub. L. 106–566, title II, §201(b), Dec. 23, 2000, 114 Stat. 2820.)
 

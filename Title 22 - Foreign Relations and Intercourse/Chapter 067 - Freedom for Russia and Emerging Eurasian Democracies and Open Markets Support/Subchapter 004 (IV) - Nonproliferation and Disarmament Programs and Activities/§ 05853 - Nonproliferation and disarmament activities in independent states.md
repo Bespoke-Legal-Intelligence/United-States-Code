@@ -28,7 +28,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (1) Authorization
 
-&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or underthe amendments made by section 506(a) of this Act.
+&emsp;In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
 
 #### (2) Limitation
 

@@ -6,7 +6,7 @@
 
 (2) The hourly rate of basic pay for such a nurse for service performed as part of a regularly scheduled 12-hour tour of duty within the period commencing at midnight Friday and ending at midnight the following Sunday shall be derived by dividing the nurse's annual rate of basic pay by 1,248.
 
-(3)(A) Such a nurse who performs a period of service in excess of such nurse's regularly scheduled two 12-hour tours of duty is entitled to overtime pay under section 7453(e) of this title,or other applicable law, for officially ordered or approved service performed in excess of eight hours on a day other than a Saturday or Sunday or in excess of 24 hours within the period commencing at midnight Friday and ending at midnight the following Sunday.
+(3)(A) Such a nurse who performs a period of service in excess of such nurse's regularly scheduled two 12-hour tours of duty is entitled to overtime pay under section 7453(e) of this title, or other applicable law, for officially ordered or approved service performed in excess of eight hours on a day other than a Saturday or Sunday or in excess of 24 hours within the period commencing at midnight Friday and ending at midnight the following Sunday.
 
 (B) Except as provided in subparagraph (C), a nurse to whom this subsection is applicable is not entitled to additional pay under section 7453 of this title, or other applicable law, for any period included in a regularly scheduled 12-hour tour of duty.
 

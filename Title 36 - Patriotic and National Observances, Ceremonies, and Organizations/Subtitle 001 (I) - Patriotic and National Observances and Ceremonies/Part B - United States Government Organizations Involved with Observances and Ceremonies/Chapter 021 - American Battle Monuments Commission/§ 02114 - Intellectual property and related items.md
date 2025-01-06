@@ -18,7 +18,7 @@ Authority To Grant Licenses.—The Commission may grant exclusive and nonexclusi
 
 (c)
 
-Enforcement Authority.—The Commission may enforce any mark, copyright, or patent by an action in the district courts under any law providing for the protection of such marks, copyrights, or patents.
+Enforcement Authority.—The Commission may enforce any mark, copyright, or patentby an action in the district courts under any law providing for the protection of such marks, copyrights, or patents.
 
 (d)
 

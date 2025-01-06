@@ -10,7 +10,7 @@ System Characteristics.—(1) The National Intermodal Transportation System shal
 
 (2) The National Intermodal Transportation System shall include a National Highway System consisting of the Dwight D. Eisenhower System of Interstate and Defense Highways and those principal arterial roads that are essential for interstate and regional commerce and travel, national defense, intermodal transfer facilities, and international commerce and border crossings.
 
-(3) The National Intermodal Transportation System shall include significant improvementsin public transportation necessary to achieve national goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals in urban and rural areas of the United States.
+(3) The National Intermodal Transportation System shall include significant improvements in public transportation necessary to achieve national goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals in urban and rural areas of the United States.
 
 (4) The National Intermodal Transportation System shall provide improved access to ports and airports, the Nation's link to commerce.
 

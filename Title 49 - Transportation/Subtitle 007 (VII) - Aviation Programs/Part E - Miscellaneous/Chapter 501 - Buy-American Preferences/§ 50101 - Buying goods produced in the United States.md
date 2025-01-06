@@ -2,7 +2,7 @@
 
 (a)
 
-Preference.—The Secretary of Transportation may obligate an amount that may be appropriated to carry out section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title for a project only if steel and manufactured goods used in the project are produced in the United States.
+Preference.—The Secretary of Transportation may obligate an amount that may be appropriated to carry out section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title for a project only if steel and manufactured goods used in the project are produced in the United States.
 
 (b)
 
@@ -12,7 +12,7 @@ Waiver.—The Secretary may waive subsection (a) of this section if the Secretar
 
 &emsp;(2) the steel and goods produced in the United States are not produced in a sufficient and reasonably available amount or are not of a satisfactory quality;
 
-&emsp;(3) when procuring a facility or equipment under section 44502(a)(2) or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title—
+&emsp;(3) when procuring a facility or equipment under section 44502(a)(2) or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title—
 
 &emsp;&emsp;(A) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the facility or equipment; and
 
@@ -24,7 +24,57 @@ Waiver.—The Secretary may waive subsection (a) of this section if the Secretar
 
 Labor Costs.—In this section, labor costs involved in final assembly are not included in calculating the cost of components.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1298, §49101; renumbered §50101 and amended Pub. L. 104–287, §5(88)(D), (89), Oct. 11, 1996, 110 Stat. 3398.)
+(d)
+
+Limitation on Certain Rolling Stock Procurements.—
+
+&emsp;(1)
+
+In general.—Financial assistance made available under the provisions described in subsection (a) shall not be used in awarding a contract or subcontract to an entity on or after the date of enactment of this subsection for the procurement of rolling stock for use in an airport-related project if the manufacturer of the rolling stock—
+
+&emsp;&emsp;(A) is incorporated in or has manufacturing facilities in the United States; and
+
+&emsp;&emsp;(B) is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
+
+&emsp;&emsp;&emsp;(i) is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of this subsection;
+
+&emsp;&emsp;&emsp;(ii) was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a foreign country included on the priority watch list defined in subsection (g)(3) of that section; and
+
+&emsp;&emsp;&emsp;(iii) is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
+
+&emsp;(2)
+
+Exception.—
+
+&emsp;&emsp;(A)
+
+In general.—For purposes of paragraph (1), the term "otherwise related legally or financially" does not include—
+
+&emsp;&emsp;&emsp;(i) a minority relationship or investment; or
+
+&emsp;&emsp;&emsp;(ii) relationship with or investment in a subsidiary, joint venture, or other entity based in a country described in paragraph (1)(B) that does not export rolling stock or components of rolling stock for use in the United States.
+
+&emsp;&emsp;(B)
+
+Corporation based in people's republic of china.—Notwithstanding subparagraph (A)(i), for purposes of paragraph (1), the term "otherwise related legally or financially" includes a minority relationship or investment if the relationship or investment involves a corporation based in the People's Republic of China.
+
+&emsp;(3)
+
+International agreements.—This subsection shall be applied in a manner consistent with the obligations of the United States under international agreements.
+
+&emsp;(4)
+
+Waiver.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary may waive the limitation described in paragraph (1) using the criteria described in subsection (b).
+
+&emsp;&emsp;(B)
+
+Notification.—Not later than 10 days after issuing a waiver under subparagraph (A), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1298, §49101; renumbered §50101 and amended Pub. L. 104–287, §5(88)(D), (89), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 118–63, title VII, §768(a), May 16, 2024, 138 Stat. 1293.)
 
 Historical and Revision Notes
 
@@ -64,7 +114,15 @@ This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1),
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
+
 #### Amendments
+
+<b>2024</b>—Subsecs. (a), (b)(3). Pub. L. 118–63, §768(a)(1), struck out "(except section 47127)" after "subchapter I of chapter 471".
+
+Subsec. (d). Pub. L. 118–63, §768(a)(2), added subsec. (d).
 
 <b>1996</b>—Pub. L. 104–287, §5(88)(D), renumbered section 49101 of this title as this section.
 
@@ -122,13 +180,5 @@ Similar provisions were contained in the following prior authorization act: Pub.
 
 #### Purchase of American Made Equipment and Products
 
-Pub. L. 103–305, title III, §306, Aug. 23, 1994, 108 Stat. 1593, provided that:
-
-"(a)
-
-Sense of Congress.—It is the sense of Congress that any recipient of a grant under this title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies.
-
-"(b)
-
-Notice to Recipients of Assistance.—In allocating grants under this title, or under any amendment made by this title, the Secretary shall provide to each recipient a notice describing the statement made in subsection (a) by the Congress."
+Pub. L. 103–305, title III, §306, Aug. 23, 1994, 108 Stat. 1593, as amended by Pub. L. 118–63, title II, §218(f), May 16, 2024, 138 Stat. 1056, provided that: "It is the sense of Congress that any recipient of a grant under this title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies."
 

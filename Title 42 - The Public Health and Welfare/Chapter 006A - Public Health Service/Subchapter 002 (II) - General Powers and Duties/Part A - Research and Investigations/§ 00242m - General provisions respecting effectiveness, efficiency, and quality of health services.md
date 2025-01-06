@@ -24,7 +24,7 @@
 
 (B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
 
-(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of theUnited States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
+(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
 
 #### (c) Development and dissemination of statistics
 
@@ -192,7 +192,7 @@ Subsec. (i)(2). Pub. L. 95–83, §104(b), authorized appropriation of $33,600,0
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–392, title IV, §401(e), Nov. 13, 1998, 112 Stat. 3587, provided that: "This section \[amending thissection and sections 247b–5, 247b–6, 247c, 285f–2, 300d–1 to 300d–3, 300d–13, 300d–32, 300k, and 300n–1 of this title\] is deemed to have taken effect immediately after the enactment of Public Law 103–183 \[Dec. 14, 1993\]."
+Pub. L. 105–392, title IV, §401(e), Nov. 13, 1998, 112 Stat. 3587, provided that: "This section \[amending this section and sections 247b–5, 247b–6, 247c, 285f–2, 300d–1 to 300d–3, 300d–13, 300d–32, 300k, and 300n–1 of this title\] is deemed to have taken effect immediately after the enactment of Public Law 103–183 \[Dec. 14, 1993\]."
 
 #### Effective Date of 1988 Amendment
 

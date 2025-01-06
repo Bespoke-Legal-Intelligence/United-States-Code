@@ -4,7 +4,7 @@
 
 &emsp;(1) It must be licensed to transact life and accidental death and dismemberment insurance under the laws of 48 of the States and the District of Columbia.
 
-&emsp;(2) It must have in effect, on the most recent December 31 for which information is available to the Office, an amount of employee group life insurance equal to at least 1 percent of the total amount of employee group life insurance in the United States in all life insurance companies.
+&emsp;(2) It must have in effect, on the most recent December 31 for which information is available to the Office, an amount of employee group life insurance equal to at least 1 percentof the total amount of employee group life insurance in the United States in all life insurance companies.
 
 (b) A company issuing a policy under subsection (a) of this section shall establish an administrative office under a name approved by the Office.
 

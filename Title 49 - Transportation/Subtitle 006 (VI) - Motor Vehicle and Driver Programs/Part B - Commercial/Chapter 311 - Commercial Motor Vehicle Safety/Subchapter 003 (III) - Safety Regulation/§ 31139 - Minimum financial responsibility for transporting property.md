@@ -98,7 +98,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (3) The Secretary of Transportation may compromise the penalty before referring the matter to the Attorney General for collection.
 
-(4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred tothe Attorney General for collection under this subsection.
+(4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
 (5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
@@ -170,7 +170,7 @@ July 1, 1980, Pub. L. 96–296, §30(d), 94 Stat. 822.
 
 July 1, 1980, Pub. L. 96–296, §30(f), 94 Stat. 823; Jan. 6, 1983, Pub. L. 97–424, §406(d), 96 Stat. 2159.
 
-In subsection (a), before clause (1), the text of section 30(h)(3) of the Motor Carrier Act of 1980 (Public Law 96–296, 94 Stat. 823) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In clause (3), the words "(including its use in the terms 'interstate' and 'intrastate')" are omitted as surplus.
+In subsection (a), before clause (1), the text of section 30(h)(3) of the Motor Carrier Act of 1980 (Public Law96–296, 94 Stat. 823) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In clause (3), the words "(including its use in the terms 'interstate' and 'intrastate')" are omitted as surplus.
 
 In subsections (b)(2) and (c)(2) and (3), the word "minimal" is omitted as surplus.
 

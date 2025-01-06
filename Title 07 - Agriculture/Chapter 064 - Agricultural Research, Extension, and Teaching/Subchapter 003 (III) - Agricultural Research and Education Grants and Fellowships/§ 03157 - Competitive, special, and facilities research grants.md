@@ -12,7 +12,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 #### (1) Establishment
 
-&emsp;There is established in the Department of Agriculture an Agriculture and Food ResearchInitiative under which the Secretary of Agriculture (referred to in this subsection as "the Secretary") may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under section 3103 of this title).
+&emsp;There is established in the Department of Agriculture an Agriculture and Food Research Initiative under which the Secretary of Agriculture (referred to in this subsection as "the Secretary") may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under section 3103 of this title).
 
 #### (2) Priority areas
 
@@ -384,7 +384,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 &emsp;(B) tolerances for residues of minor use chemicals in or on raw agricultural commodities under sections 346a and 348 of title 21.
 
-(2) The Secretary shall carry out the IR–4 Program in cooperation with the Administrator ofthe Environmental Protection Agency, State agricultural experiment stations, colleges and universities, extension services, private industry, and other interested parties.
+(2) The Secretary shall carry out the IR–4 Program in cooperation with the Administrator of the Environmental Protection Agency, State agricultural experiment stations, colleges and universities, extension services, private industry, and other interested parties.
 
 (3) In carrying out the IR–4 Program, the Secretary shall give priority to registrations, reregistrations, and tolerances for pesticide uses related to the production of agricultural crops for food use.
 
@@ -446,7 +446,7 @@ Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7
 
 The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII,§§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, §4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, §4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
 
 #### <b>Editorial Notes</b>
 
@@ -562,7 +562,7 @@ Subsec. (c)(1)(B). Pub. L. 105–185, §212(1)(C)(i), inserted ", extension, or
 
 Subsec. (c)(1)(B)(i). Pub. L. 105–185, §212(1)(C)(ii), inserted ", extension, or education" after "research".
 
-Subsec. (c)(1)(B)(iv). Pub. L. 105–185, §212(1)(C)(iii), substituted ", extension, or education among States through regional" for "among States through regional research".
+Subsec. (c)(1)(B)(iv). Pub. L. 105–185, §212(1)(C)(iii), substituted ", extension, or education among Statesthrough regional" for "among States through regional research".
 
 Subsec. (c)(5), (6). Pub. L. 105–185, §212(2), added pars. (5) and (6).
 
@@ -648,7 +648,7 @@ Subsec. (i). Pub. L. 99–198, §1409(c), added subsec. (i).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–98, §1415(a), inserted "and the National Agricultural Research and Extension Users Advisory Board" and provision specifying what is included in high priority research and substituted "for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985" for "for the fiscal year ending September 30, 1982".
 
-Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted "research foundations established by land-grant colleges and universities,", in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
+Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted "research foundations established by land-grant colleges and universities,", in par. (2) inserted reference to research foundations established by land-grant collegesand universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
 Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 

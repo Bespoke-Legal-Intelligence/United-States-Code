@@ -30,7 +30,7 @@
 
 #### (2) Publication of proposed order
 
-&emsp;If the Secretary determines that a proposed order received in accordance with paragraph (1)(B) is consistent with and will effectuate the purpose of this chapter, the Secretary shall publish such proposed order in the Federal Register not later than 90 days after receiving the order, and give not less than 30 days notice and opportunity for public comment on the proposed order.
+&emsp;If the Secretary determines that a proposed order received in accordance with paragraph\(1)(B) is consistent with and will effectuate the purpose of this chapter, the Secretary shall publish such proposed order in the Federal Register not later than 90 days after receiving the order, and give not less than 30 days notice and opportunity for public comment on the proposed order.
 
 #### (3) Issuance of order
 

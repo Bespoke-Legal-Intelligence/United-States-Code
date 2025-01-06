@@ -30,7 +30,7 @@ In order to provide for the benefit, inspiration, and education of the American 
 
 #### (c) Acquisition of real and personal property
 
-(1) Except as otherwise provided in this subsection and subject to such terms, reservations, and conditions as the Secretary determines reasonable or necessary, the Secretary may acquire by donation, purchase with donated or appropriated funds, exchange, or otherwise—
+(1) Except as otherwise provided in this subsection and subject to such terms, reservations,and conditions as the Secretary determines reasonable or necessary, the Secretary may acquire by donation, purchase with donated or appropriated funds, exchange, or otherwise—
 
 &emsp;(A) lands and interests in lands within the boundaries of the historical park; and
 

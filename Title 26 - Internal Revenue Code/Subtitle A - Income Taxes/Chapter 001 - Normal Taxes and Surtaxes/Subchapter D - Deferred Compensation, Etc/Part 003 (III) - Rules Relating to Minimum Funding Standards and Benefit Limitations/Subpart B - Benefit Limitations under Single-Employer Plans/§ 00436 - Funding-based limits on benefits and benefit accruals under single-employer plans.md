@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if theplan meets the requirements of subsections (b), (c), (d), and (e).
+For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 
 #### (b) Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans
 
@@ -18,7 +18,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 &emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to—
 
-&emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding target of the plan (under section 430) for the plan year attributable to the occurrence referred to in paragraph (1), and
+&emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding targetof the plan (under section 430) for the plan year attributable to the occurrence referred to in paragraph (1), and
 
 &emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
@@ -148,7 +148,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (C), in any case in which a benefit limitation under subsection (b), (c), (d), or (e) would (but for this subparagraph and determined without regard to subsection (b)(2), (c)(2), or (e)(2)) apply to such plan for the plan year, the plan sponsorof such plan shall be treated for purposes of this title as having made an election under section 430(f) to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
+&emsp;&emsp;Subject to subparagraph (C), in any case in which a benefit limitation under subsection (b), (c), (d), or (e) would (but for this subparagraph and determined without regard to subsection (b)(2), (c)(2), or (e)(2)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this title as having made an election under section 430(f) to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
 
 #### (B) Exception for insufficient funding balances
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (k) Secretarial authority for plans with alternate valuation date
 
-In the case of a plan which has designated a valuation date other than the first day of theplan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
+In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
 
 #### (l) Single-employer plan
 
@@ -312,7 +312,7 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 &emsp;"(B) January 1, 2010.
 
-> For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solelyto conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement."
+> For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement."
 
 #### Provisions Relating to Plan Amendments
 

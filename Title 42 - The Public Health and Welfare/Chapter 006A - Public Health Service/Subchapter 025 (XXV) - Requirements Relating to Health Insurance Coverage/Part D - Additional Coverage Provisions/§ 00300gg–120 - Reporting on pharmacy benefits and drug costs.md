@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor,and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:
+Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor, and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:
 
 &emsp;(1) The beginning and end dates of the plan year.
 
@@ -50,7 +50,7 @@ Not later than 1 year after December 27, 2020, and not later than June 1 of each
 
 #### (b) Report
 
-Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting through the Assistant Secretary of Planning and Evaluation and in coordination with the Inspector General of the Department of Health and Human Services, shall make available on the internet website of the Department of Health and Human Services a report on prescription drug reimbursements under group health plans and group and individual health insurance coverage, prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.
+Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting through the Assistant Secretary of Planning and Evaluation and in coordination with the Inspector General of the Department of Health and Human Services, shall make available on the internet website of the Department of Health and Human Services a report on prescription drug reimbursements under group health plans and group and individual health insurance coverage, prescription drug pricingtrends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.
 
 #### (c) Privacy protections
 

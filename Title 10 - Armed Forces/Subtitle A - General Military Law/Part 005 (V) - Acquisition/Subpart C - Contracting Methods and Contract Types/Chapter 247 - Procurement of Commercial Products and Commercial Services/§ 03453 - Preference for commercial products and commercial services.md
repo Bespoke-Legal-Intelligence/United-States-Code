@@ -28,9 +28,11 @@ Implementation.—The head of an agency shall ensure that procurement officials 
 
 &emsp;(4) state specifications in terms that enable and encourage bidders and offerors to supply commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products in response to the agency solicitations;
 
-&emsp;(5) revise the agency's procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services; and
+&emsp;(5) revise the agency's procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services;
 
-&emsp;(6) require training of appropriate personnel in the acquisition of commercial products and commercial services.
+&emsp;(6) require training of appropriate personnel in the acquisition of commercial products and commercial services; and
+
+&emsp;(7) establish criteria in performance evaluations for appropriate personnel to reward risk-informed decisions that maximize the acquisition of commercial products, commercial services, or nondevelopmental items other than commercial products.
 
 (c)
 
@@ -58,9 +60,9 @@ Preliminary Market Research.—(1) The head of an agency shall conduct market re
 
 (d)
 
-Market Research for Price Analysis.—The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of pricefor commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation—
+Market Research for Price Analysis.—The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of price for commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation—
 
-&emsp;(1) in the case of products or services acquired under section 3455 of this title, shall use information submitted under subsection (d) of that section; and
+&emsp;(1) in the case of products or services acquired under section 3455 of this title, shall useinformation submitted under subsection (d) of that section; and
 
 &emsp;(2) in the case of other products or services, may require the offeror to submit relevant information.
 
@@ -74,11 +76,13 @@ Market Research Training Required.—The Secretary of Defense shall provide mand
 
 &emsp;(3) provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
 
-(Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390, §2377; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, §836(d)(3), (8)(C), Aug. 13, 2018, 132 Stat. 1866, 1868; Pub. L. 116–92, div. A, title VIII, §818(a), Dec. 20, 2019, 133 Stat. 1488; renumbered §3453 and amended Pub. L. 116–283, div. A, title XVIII, §1821(a)(2), (b)(3), Jan. 1, 2021, 134 Stat. 4195.)
+(Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390, §2377; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, §836(d)(3), (8)(C), Aug. 13, 2018, 132 Stat. 1866, 1868; Pub. L. 116–92, div. A, title VIII, §818(a), Dec. 20, 2019, 133 Stat. 1488; renumbered §3453 and amended Pub. L. 116–283, div. A, title XVIII, §1821(a)(2), (b)(3), Jan. 1, 2021, 134 Stat. 4195; Pub. L. 118–159, div. A, title VIII, §834, Dec. 23, 2024, 138 Stat. 1986.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(7). Pub. L. 118–159 added par. (7).
 
 <b>2021</b>—Pub. L. 116–283, §1821(a)(2), renumbered section 2377 of this title as this section.
 
@@ -130,15 +134,15 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-#### Increase in Air Force and Navy Use of Used Commercial Dual-Use Parts in Certain Aircraft and Engines
+#### Increase in Air Force and Navy Use of Commercial Dual-Use Parts in Certain Aircraft and Engines
 
-Pub. L. 117–263, div. A, title I, §161, Dec. 23, 2022, 136 Stat. 2461, provided that:
+Pub. L. 117–263, div. A, title I, §161, Dec. 23, 2022, 136 Stat. 2461, as amended by Pub. L. 118–159, div. A, title I, §161, Dec. 23, 2024, 138 Stat. 1815, provided that:
 
 "(a)
 
 In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Air Force, with respect to the Air Force, and the Secretary of the Navy, with respect to the Navy, shall develop and implement processes and procedures for—
 
-&emsp;"(1) the acquisition of used, overhauled, reconditioned, and remanufactured commercial dual-use parts; and
+&emsp;"(1) the acquisition of new, used, overhauled, reconditioned, and remanufactured commercial dual-use parts; and
 
 &emsp;"(2) the use of such commercial dual-use parts in all—
 
@@ -152,7 +156,7 @@ Procurement of Parts.—The processes and procedures implemented under subsectio
 
 &emsp;"(1) pursuant to competitive procedures (as defined in section 3012 of title 10, United States Code); and
 
-&emsp;"(2) only from suppliers that provide parts that possess an Authorized Release Certificate Federal Aviation Administration Form 8130-3 Airworthy Approval Tag from a certified repair station pursuant to part 145 of title 14, Code of Federal Regulations.
+&emsp;"(2) only from suppliers that provide parts that possess an Authorized Release Certificate Federal Aviation Administration Form 8130-3 Airworthy Approval Tag from a certified repair station pursuant to part 145 of title 14, Code of Federal Regulations, or from a certified production approval holder pursuant to part 21 of title 14, Code of Federal Regulations.
 
 "(c)
 
@@ -280,7 +284,7 @@ Definition.—In this subsection, the term 'commercial product' has the meaning 
 
 #### Preference for Commercial Services
 
-Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactmentof this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
+Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
 
 &emsp;"(1) the head of an agency may not enter into a contract in excess of $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) determines in writing that no commercial services are suitable to meet the agency's needs as provided in section 2377(c)(2) of title 10, United States Code \[now 10 U.S.C. 3453(c)(2)\]; and
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(i) substitutes for the reference to "6-month period" in section 2701(a)(1) <sup>1</sup> a reference to any shorter period of time;
 
-&emsp;&emsp;(ii) substitutes for the reference to "12 months" and "18 months" in section 2701(a)(2) <sup>1</sup> a reference to any shorter period of time;
+&emsp;&emsp;(ii) substitutes for the reference to "12 months" and "18 months" in section2701(a)(2) <sup>1</sup> a reference to any shorter period of time;
 
 &emsp;&emsp;(iii) substitutes for the references to "63" days in sections 2701(c)(2)(A) <sup>1</sup> and 2701(d)(4)(A) <sup>1</sup> a reference to any greater number of days;
 

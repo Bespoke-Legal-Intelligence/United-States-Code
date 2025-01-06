@@ -44,7 +44,7 @@ In this section:
 
 #### Definitions
 
-For definitions of "congressional intelligence committees" and "intelligence community", referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
+For definitions of "congressional intelligence committees" and "intelligence community" as used in this section, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "make".</i>
 

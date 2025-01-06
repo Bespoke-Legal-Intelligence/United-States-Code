@@ -26,7 +26,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (B) Credit allowed for year only if individual is at least ½ time student for portion of year
 
-&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
+&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowedfor a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
 
 #### (C) Credit allowed only for first 4 years of postsecondary education
 
@@ -34,7 +34,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (D) Denial of credit if student convicted of a felony drug offense
 
-&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a studentfor any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.
+&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a student for any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.
 
 #### (3) Eligible student
 
@@ -374,7 +374,7 @@ Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 19
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 401(b)(1) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credittaken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(b)(1) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Treatment of Possessions
 

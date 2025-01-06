@@ -14,7 +14,7 @@ Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United 
 
 (B)(i)(I) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
 
-(II) Notwithstanding subclause (I), foreign workers may be used to perform corrective andpreventive maintenance or repair on a vessel as described in subparagraph (A) only if the Secretary of the Navy determines that travel by United States Government personnel or United States contractor personnel to perform the corrective or preventive maintenance or repair is not advisable for health or safety reasons. The Secretary of the Navy may not delegate the authority to make a determination under this subclause.
+(II) Notwithstanding subclause (I), foreign workers may be used to perform corrective and preventive maintenance or repair on a vessel as described in subparagraph (A) only if the Secretary of the Navy determines that travel by United States Government personnel or United States contractor personnel to perform the corrective or preventive maintenance or repair is not advisable for health or safety reasons. The Secretary of the Navy may not delegate the authority to make a determination under this subclause.
 
 (III) Not later than 30 days after making a determination under subclause (II), the Secretary of the Navy shall submit to the congressional defense committees written notification of the determination. The notification shall include the reasons why travel by United States personnel is not advisable for health or safety reasons, the location where the corrective and preventive maintenance or repair will be performed, and the approximate duration of the corrective and preventive maintenance or repair.
 
@@ -36,11 +36,15 @@ Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United 
 
 &emsp;&emsp;(III) the effort required to clean mechanical spaces, mission zones, and topside spaces.
 
-(3) Notwithstanding paragraph (1), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
+(3)(A) Notwithstanding paragraph (1) and subject to subparagraph (B), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
 
-&emsp;(A) voyage repairs; or
+&emsp;(i) voyage repairs;
 
-&emsp;(B) necessary to correct damage sustained due to hostile actions or interventions.
+&emsp;(ii) necessary to correct damage sustained due to hostile actions or interventions; or
+
+&emsp;(iii) corrective and preventive maintenance of a deployed naval vessel planned to last not more than 21 days.
+
+(B) During any fiscal year, the cumulative work carried out under this paragraph for ships at any particular homeport may not exceed two percent of the average annual total workload of that homeport over the preceding three-year period, as measured in shipyard labor hours.
 
 (b)
 
@@ -110,11 +114,13 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(C) A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
 
-(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, §7310; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548; renumbered §8680, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, §1035, Dec. 20, 2019, 133 Stat. 1583; Pub. L. 116–283, div. A, title X, §§1025, 1081(a)(45), Jan. 1, 2021, 134 Stat. 3843, 3873; Pub. L. 118–31, div. A, title XIII, §1352(g), Dec. 22, 2023, 137 Stat. 517.)
+(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710, §7310; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 115–91, div. A, title X, §1023, Dec. 12, 2017, 131 Stat. 1548; renumbered §8680, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title X, §1035, Dec. 20, 2019, 133 Stat. 1583; Pub. L. 116–283, div. A, title X, §§1025, 1081(a)(45), Jan. 1, 2021, 134 Stat. 3843, 3873; Pub. L. 118–31, div. A, title XIII, §1352(g), Dec. 22, 2023, 137 Stat. 517; Pub. L. 118–159, div. A, title X, §1026, Dec. 23, 2024, 138 Stat. 2055.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), inserted "and subject to subparagraph (B)" after "paragraph (1)" in introductory provisions of subpar. (A), and added cl. (iii) of subpar. (A) and subpar. (B).
 
 <b>2023</b>—Subsecs. (c), (d). Pub. L. 118–31 added subsec. (c) and redesignated former subsec. (c) as (d).
 

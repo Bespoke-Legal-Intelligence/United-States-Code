@@ -156,7 +156,7 @@ Subsec. (f). Pub. L. 109–163, §687(b)(4)(B), added subsec. (f) and struck out
 
 Subsec. (a)(2). Pub. L. 101–189, §702(f)(9), struck out "of this subsection" after "paragraph (1)" in introductory provisions.
 
-Subsec. (a)(2)(C) to (I). Pub. L. 101–189, §702(a), in subpar. (C), substituted "$12,000" for "$10,000", in subpar. (D), substituted "$11,500" for "$9,500", in subpar. (E),substituted "$11,000" for "$9,000", in subpar. (F), substituted "$10,000" for "$8,000", in subpar. (G), substituted "$9,000" for "$7,000", in subpar. (H), substituted "$8,000" for "$6,000", and in subpar. (I), substituted "$7,000" for "$5,000".
+Subsec. (a)(2)(C) to (I). Pub. L. 101–189, §702(a), in subpar. (C), substituted "$12,000" for "$10,000", in subpar. (D), substituted "$11,500" for "$9,500", in subpar. (E), substituted "$11,000" for "$9,000", in subpar. (F), substituted "$10,000" for "$8,000", in subpar. (G), substituted "$9,000" for "$7,000", in subpar. (H), substituted "$8,000" for "$6,000", and in subpar. (I), substituted "$7,000" for "$5,000".
 
 Subsec. (a)(3). Pub. L. 101–189, §702(f)(9), struck out "of this subsection" after "paragraph (1)".
 

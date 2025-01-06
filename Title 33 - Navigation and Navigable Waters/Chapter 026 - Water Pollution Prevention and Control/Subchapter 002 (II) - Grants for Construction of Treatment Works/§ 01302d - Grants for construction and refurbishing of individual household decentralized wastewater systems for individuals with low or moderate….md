@@ -40,7 +40,7 @@ In this section, the term "eligible individual" means a member of a low-income o
 
 #### (2) Application
 
-&emsp;To be eligible to receive the services described in subsection (b)(1), an eligible individual shall submit to the private nonprofit organization serving the area in which the individual household decentralized wastewater system of the eligible individuals is, or is proposed to be, located an application at such time, in such manner, and containing such information as the private nonprofit organization determines to be appropriate.
+&emsp;To be eligible to receive the services described in subsection (b)(1), an eligible individual shall submit to the private nonprofit organization serving the area in which the individual household decentralized wastewater system of the eligible individuals is, or is proposed to be, located an application at suchtime, in such manner, and containing such information as the private nonprofit organization determines to be appropriate.
 
 #### (3) Priority
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) any increase during such period in the amount of assets described in paragraph (2)(A) that has been deemed eligible for credit by the Board; and
 
-&emsp;&emsp;&emsp;(ii) any increase during such period in the amounts of deposits, loans, and other financial assistance described in paragraph (2)(B) that has been deemed eligible for credit by the Board.
+&emsp;&emsp;&emsp;(ii) any increase during such period in the amounts of deposits, loans, and otherfinancial assistance described in paragraph (2)(B) that has been deemed eligible for credit by the Board.
 
 #### (4) Determination of qualified loans and other financial assistance
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(A) meets the minimum area requirements under paragraph (3) and the eligibility requirements of paragraph (4); and
 
-&emsp;&emsp;(B) is designated as a distressed community by any insured depository institution in accordance with paragraph (2) and such designation is not disapproved under such paragraph.
+&emsp;&emsp;(B) is designated as a distressed community by any insured depository institution inaccordance with paragraph (2) and such designation is not disapproved under such paragraph.
 
 #### (2) Designation requirements
 

@@ -10,7 +10,7 @@ Such suit or proceeding may be maintained whether or not such tax, penalty, or s
 
 #### (c) Suits against collection officer a bar
 
-A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedings in the Tax Court and on review of decisions of the Tax Court.
+A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery ofany internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedings in the Tax Court and on review of decisions of the Tax Court.
 
 #### (d) Credit treated as payment
 
@@ -54,7 +54,7 @@ If the Secretary prior to the hearing of a suit brought by a taxpayer in a distr
 
 #### (i) Special rule for actions with respect to tax shelter promoter and understatement penalties
 
-No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
+No action or proceeding may be brought in the United States Court of Federal Claims for anyrefund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
 
 #### (j) Special rule for actions with respect to estates for which an election under section 6166 is made
 
@@ -88,7 +88,7 @@ No action or proceeding may be brought in the United States Court of Federal Cla
 
 &emsp;&emsp;<b>(4) For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see section 2006 of Title 28 of the United States Code.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L.94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731; Pub. L. 114–74, title XI, §1101(f)(11), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731; Pub. L. 114–74, title XI, §1101(f)(11), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
 
 #### <b>Editorial Notes</b>
 
@@ -124,7 +124,7 @@ Subsecs. (h), (i). Pub. L. 97–248 added subsec. (h) and redesignated former su
 
 Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, with respect to any taxable event, payment of the full amount of the first tier tax as constituting sufficient payment in order to maintain an action under this section with respect to the second tier tax and defining the terms "taxable event", "first tier tax", and "second tier tax" as having the respective meanings given to such terms by section 4962 of this title for provision authorizing, with respect to any act or failure to act giving rise to liability under sections 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4971, or 4975 of this title, payment of the full amount of tax imposed under specified subsections of those sections as constituting sufficient payment in order to maintain an action under this section with respect to such act or failure to act.
 
-Pub. L. 96–222 substituted in pars. (1) to (3) "4944, 4945, 4951, 4952" for "4944, 4945" and in par. (1) "section 4945(a) (relating to initial taxes on taxable expenditures), section 4951(a) (relating to initial taxes on self dealing), 4952(a) (relating to initial taxes on taxable expenditures)" for "section 4945(a) (relating to initial taxes on taxable expenditures)" and "section 4945(b) (relating to additional taxes on taxable expenditures), section 4951(b) (relating to additional taxes on self-dealing), 4952(b) (relating to additional taxes on taxable expenditures)" for "section 4945(b) (relating to additional taxes on taxable expenditures)".
+Pub. L. 96–222 substituted in pars. (1) to (3) "4944, 4945, 4951, 4952" for "4944, 4945" and in par. (1) "section4945(a) (relating to initial taxes on taxable expenditures), section 4951(a) (relating to initial taxes on self dealing), 4952(a) (relating to initial taxes on taxable expenditures)" for "section 4945(a) (relating to initial taxes on taxable expenditures)" and "section 4945(b) (relating to additional taxes on taxable expenditures), section 4951(b) (relating to additional taxes on self-dealing), 4952(b) (relating to additional taxes on taxable expenditures)" for "section 4945(b) (relating to additional taxes on taxable expenditures)".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 104–168 applicable to excess benefit transactions occurri
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, seesection 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
 #### Effective Date of 1987 Amendment
 

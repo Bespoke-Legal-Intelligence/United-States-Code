@@ -28,7 +28,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 &emsp;&emsp;(A) A description of the State's system of care that—
 
-&emsp;&emsp;&emsp;(i) identifies the single State agency responsible for the administration of the program, including any third party who administers substance use disorder services and is responsible for complying with the requirements of the grant;
+&emsp;&emsp;&emsp;(i) identifies the single State agency responsible for the administration of the program, including any third party whoadministers substance use disorder services and is responsible for complying with the requirements of the grant;
 
 &emsp;&emsp;&emsp;(ii) provides information on the need for substance use disorder prevention and treatment services in the State, including estimates on the number of individuals who need treatment, who are pregnant women, women with dependent children, individuals with a co-occurring mental health and substance use disorder, persons who inject drugs, and persons who are experiencing homelessness;
 
@@ -60,7 +60,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (A) Authority of Secretary
 
-&emsp;&emsp;As a condition; <sup>1</sup> of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection\(a)(6) (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
+&emsp;&emsp;As a condition; <sup>1</sup> of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
 
 #### (B) State request for modification
 

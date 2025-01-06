@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(2) providing technical assistance and guidance to State, Tribal, local, and territorial public health departments to increase the capacity of such departments to perform genomic sequencing of pathogens, including recipients of funding under section 300hh–31 of this title;
 
-&emsp;(3) carrying out activities to enhance the capabilities of the public health workforce with respect to pathogen genomics, epidemiology, and bioinformatics, including through training; and
+&emsp;(3) carrying out activities to enhance the capabilities of the public health workforce withrespect to pathogen genomics, epidemiology, and bioinformatics, including through training; and
 
 &emsp;(4) continuing and expanding activities, as applicable, with public and private entities, including relevant departments and agencies, laboratories, academic institutions, and industry.
 

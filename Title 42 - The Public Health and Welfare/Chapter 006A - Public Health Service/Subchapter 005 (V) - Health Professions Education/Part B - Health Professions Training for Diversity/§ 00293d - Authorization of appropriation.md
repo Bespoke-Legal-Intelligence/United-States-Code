@@ -2,7 +2,7 @@
 
 #### (a) Scholarships
 
-There are authorized to be appropriated to carry out section 293a of this title, $51,470,000 foreach of fiscal years 2021 through 2025. Of the amount appropriated in any fiscal year, the Secretary shall ensure that not less than 16 percent shall be distributed to schools of nursing.
+There are authorized to be appropriated to carry out section 293a of this title, $51,470,000 for each of fiscal years 2021 through 2025. Of the amount appropriated in any fiscal year, the Secretary shall ensure that not less than 16 percent shall be distributed to schools of nursing.
 
 #### (b) Loan repayments and fellowships
 

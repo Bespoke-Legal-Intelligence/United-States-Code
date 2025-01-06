@@ -50,7 +50,7 @@ The Secretary may make grants to any eligible coastal state to assist that state
 
 #### (d) State matching contributions; ratio; maximum amount of grants
 
-(1) The Secretary may make grants to any coastal state for the purpose of carrying out the project or purpose for which such grants are awarded, if the state matches any such grant according to the following ratios of Federal tostate contributions for the applicable fiscal year: 4 to 1 for fiscal year 1986; 2.3 to 1 for fiscal year 1987; 1.5 to 1 for fiscal year 1988; and 1 to 1 for each fiscal year after fiscal year 1988.
+(1) The Secretary may make grants to any coastal state for the purpose of carrying out the project or purpose for which such grants are awarded, if the state matches any such grant according to the following ratios of Federal to state contributions for the applicable fiscal year: 4 to 1 for fiscal year 1986; 2.3 to 1 for fiscal year 1987; 1.5 to 1 for fiscal year 1988; and 1 to 1 for each fiscal year after fiscal year 1988.
 
 (2) Grants provided under this section may be used to pay a coastal state's share of costs required under any other Federal program that is consistent with the purposes of this section.
 
@@ -64,7 +64,7 @@ With the approval of the Secretary, an eligible coastal state may allocate to a 
 
 In addition to providing grants under this section, the Secretary shall assist eligible coastal states and their local governments in identifying and obtaining other sources of available Federal technical and financial assistance regarding the objectives of this section.
 
-(Pub. L. 89–454, title II, §306A, as added Pub. L. 96–464, §6, Oct. 17, 1980, 94 Stat. 2062; amended Pub. L. 99–272, title VI, §6043(b)(2), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§6207, 6216(a), Nov. 5, 1990, 104 Stat. 1388–307, 1388–314; Pub. L. 102–587, title II, §2205(b)(9)–(12), Nov. 4, 1992, 106 Stat. 5051; Pub. L. 104–150, §7(1), June 3, 1996, 110 Stat. 1381.)
+(Pub. L. 89–454, title II, §306A, as added Pub. L. 96–464, §6, Oct. 17, 1980, 94 Stat. 2062; amended Pub. L. 99–272, title VI, §6043(b)(2), Apr. 7, 1986, 100 Stat. 124; Pub. L. 101–508, title VI, §§6207, 6216(a), Nov. 5, 1990, 104 Stat. 1388–307, 1388–314;Pub. L. 102–587, title II, §2205(b)(9)–(12), Nov. 4, 1992, 106 Stat. 5051; Pub. L. 104–150, §7(1), June 3, 1996, 110 Stat. 1381.)
 
 #### <b>Editorial Notes</b>
 

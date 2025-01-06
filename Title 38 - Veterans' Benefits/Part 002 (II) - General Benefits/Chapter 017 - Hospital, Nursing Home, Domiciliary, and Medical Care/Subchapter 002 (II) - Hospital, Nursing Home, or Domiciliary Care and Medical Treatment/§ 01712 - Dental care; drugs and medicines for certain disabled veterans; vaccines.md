@@ -16,7 +16,7 @@
 
 &emsp;(C) which is a service-connected dental condition or disability due to combat wounds or other service trauma, or of a former prisoner of war;
 
-&emsp;(D) which is associated with and is aggravating a disability resulting from some otherdisease or injury which was incurred in or aggravated by active military, naval, air, or space service;
+&emsp;(D) which is associated with and is aggravating a disability resulting from some other disease or injury which was incurred in or aggravated by active military, naval, air, or space service;
 
 &emsp;(E) which is a non-service-connected condition or disability of a veteran for which treatment was begun while such veteran was receiving hospital care under this chapter and such services and treatment are reasonably necessary to complete such treatment;
 
@@ -44,7 +44,7 @@
 
 (c) Dental appliances, wheelchairs, artificial limbs, trusses, special clothing, and similar appliances to be furnished by the Secretary under this section may be procured by the Secretary either by purchase or by manufacture, whichever the Secretary determines may be advantageous and reasonably necessary.
 
-(d) The Secretary shall furnish to each veteran who is receiving additional compensation or allowance under chapter 11 of this title, or increased pension as a veteran of a period of war, by reason of being permanently housebound or in need of regular aid and attendance, such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of any illness or injury suffered by such veteran. The Secretary shall continue to furnish such drugs and medicines so ordered to any such veteran in need of regular aid and attendance whose pension payments have been discontinued solely because such veteran's annual income is greater than the applicable maximum annual income limitation, butonly so long as such veteran's annual income does not exceed such maximum annual income limitation by more than $1,000.
+(d) The Secretary shall furnish to each veteran who is receiving additional compensation or allowance under chapter 11 of this title, or increased pension as a veteran of a period of war, by reason of being permanently housebound or in need of regular aid and attendance, such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of any illness or injury suffered by such veteran. The Secretary shall continue to furnish such drugs and medicines so ordered to any such veteran in need of regular aid and attendance whose pension payments have been discontinued solely because such veteran's annual income is greater than the applicable maximum annual income limitation, but only so long as such veteran's annual income does not exceed such maximum annual income limitation by more than $1,000.
 
 (e) In order to assist the Secretary of Health and Human Services in carrying out national immunization programs under other provisions of law, the Secretary may authorize the administration of immunizations to eligible veterans who voluntarily request such immunizations in connection with the provision of care for a disability under this chapter in any Department health care facility. Any such immunization shall be made using vaccine furnished by the Secretary of Health and Human Services at no cost to the Department. For such purpose, notwithstanding any other provision of law, the Secretary of Health and Human Services may provide such vaccine to the Department at no cost. Section 7316 of this title shall apply to claims alleging negligence or malpractice on the part of Department personnel granted immunity under such section.
 
@@ -192,9 +192,9 @@ Subsec. (b)(1)(G), (H). Pub. L. 100–322, §101(g)(1)(A), redesignated subpar. 
 
 Subsec. (b)(4)(A). Pub. L. 100–322, §101(e)(2)(A), substituted "subsection (a) of this section (other than paragraphs (3)(B) and (3)(C) of that subsection)" for "subsections (a) and (f) of this section".
 
-Subsec. (e). Pub. L. 100–322, §101(g)(1)(B), struck out subsec. (e) which read as follows: "Any disability of a veteran of the Spanish-American War or Indian Wars, upon application for the benefits of this section or outpatient medical services under section 624 of this title, shall be considered for the purposes thereof to be a service-connected disability incurred or aggravated in a period of war."
+Subsec. (e). Pub. L. 100–322, §101(g)(1)(B), struck out subsec. (e) which read as follows: "Any disability of aveteran of the Spanish-American War or Indian Wars, upon application for the benefits of this section or outpatient medical services under section 624 of this title, shall be considered for the purposes thereof to be a service-connected disability incurred or aggravated in a period of war."
 
-Subsec. (f)(1). Pub. L. 100–322, §101(e)(1)(A)–(C), redesignated par. (4)(A) as par. (1), substituted "under subsection (a) of this section (including home health services under section 617 of this title)" for "under this subsection (including home health services under paragraph (2) of this subsection)" and "paragraph (2) of this subsection" for "subparagraph (B) of this paragraph", and struck out former par. (1) which read as follows:"Except as provided in paragraph (4) of this subsection, the Administrator may furnish medical services for any disability on an outpatient or ambulatory basis—
+Subsec. (f)(1). Pub. L. 100–322, §101(e)(1)(A)–(C), redesignated par. (4)(A) as par. (1), substituted "under subsection (a) of this section (including home health services under section 617 of this title)" for "under this subsection (including home health services under paragraph (2) of this subsection)" and "paragraph (2) of this subsection" for "subparagraph (B) of this paragraph", and struck out former par. (1) which read as follows: "Except as provided in paragraph (4) of this subsection, the Administrator may furnish medical services for any disability on an outpatient or ambulatory basis—
 
 &emsp;"(A) to any veteran eligible for hospital care under section 610 of this title (i) if such services are reasonably necessary in preparation for, or (to the extent that facilities are available) to obviate the need of, hospital admission, or (ii) if such a veteran has been furnished hospital care, nursing home care, or domiciliary care and such medical services are reasonably necessary to complete treatment incident to such care (for a period not in excess of twelve months after discharge from such treatment, except where the Administrator finds that a longer period is required by virtue of the disability being treated); and
 
@@ -322,7 +322,7 @@ Subsec. (h). Pub. L. 94–581, §210(a)(3)(D), substituted "such veteran's annua
 
 Subsecs. (i), (j). Pub. L. 94–581, §103(a)(8), added subsecs. (i) and (j).
 
-<b>1973</b>—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability wheresuch care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care, and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
+<b>1973</b>—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability where such care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care, and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
 
 <b>1970</b>—Subsec. (g). Pub. L. 91–500, §2, extended the authority of the Administrator to furnish medical services as he finds necessary to veterans permanently housebound or receiving pension or compensation based on need of regular aid and attendance and struck out conditions limiting such medical care to veterans hospitalized or suffering from one or more of the six specific conditions or diseases enumerated.
 
@@ -418,6 +418,172 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 Provisions of subsec. (a) of this section, as in effect on Oct. 8, 1996, to continue to apply on and after such date with respect to furnishing of hospital care, nursing home care, and medical services for any veteran who was furnished such care before Oct. 9, 1996, on the basis of presumed exposure to a substance of radiation, but only for treatment for disability for which such care or services were furnished before Oct. 9, 1996, see section 102(b) of Pub. L. 104–262, set out as a note under section 1710 of this title.
 
+#### Pilot Program to Furnish Dental Care From the Department of Veterans Affairs to Certain Veterans Diagnosed With Ischemic Heart Disease
+
+Pub. L. 118–210, title I, §144, Jan. 2, 2025, 138 Stat. 2748, provided that:
+
+"(a)
+
+In General.—Beginning not later than one year after the date of the enactment of this Act \[Jan. 2, 2025\], the Secretary of Veterans Affairs shall carry out a two-year pilot program (in this section referred to as the 'pilot program') under which the Secretary shall furnish covered care to covered veterans through means that include the use of community care.
+
+"(b)
+
+Locations.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall select not more than four States in which to carry out the pilot program.
+
+&emsp;"(2)
+
+Selection criteria.—In selecting States under paragraph (1), the Secretary shall prioritize States in which—
+
+&emsp;&emsp;"(A) the Department of Veterans Affairs serves a high proportion, as determined by the Secretary, of veterans residing in rural or highly rural areas (as determined through the use of the Rural-Urban Commuting Areas coding system of the Department of Agriculture);
+
+&emsp;&emsp;"(B) dental clinics operated by the Department of Veterans Affairs currently utilize teledentistry;
+
+&emsp;&emsp;"(C) the Department of Veterans Affairs does not currently operate a dental clinic; or
+
+&emsp;&emsp;"(D) the Secretary determines a large percentage of veterans enrolled in the system of annual patient enrollment of the Department of Veterans Affairs established and operated under paragraphs \[sic\] (1) or (2) of section 1705(a) of title 38, United States Code, visit emergency rooms for dental emergencies at high rates.
+
+"(c)
+
+Participation Limitation.—Participation in a pilot program established pursuant to this section shall be limited to a covered veteran who receives health care in a facility of the Department located in a State selected under subsection (b).
+
+"(d)
+
+Use of Certain Methods to Provide Care.—
+
+&emsp;"(1)
+
+Mobile dental clinics.—In carrying out the pilot program, the Secretary shall test the efficacy of mobile dental clinics to service rural areas that do not have a population base to warrant a full-time clinic but where there are covered veterans in need of dental care.
+
+&emsp;"(2)
+
+Home-based dental care.—In carrying out the pilot program, the Secretary shall test the efficacy of portable dental care units to service rural veterans in their homes, as the Secretary considers medically appropriate.
+
+"(e)
+
+Administration.—
+
+&emsp;"(1)
+
+Community care network review.—
+
+&emsp;&emsp;"(A)
+
+In general.—Before commencing the pilot program, the Secretary shall work with third party administrators to conduct a review of dental providers who are part of the community care network of the Department in each State selected under subsection (b)(1) to ensure—
+
+&emsp;&emsp;&emsp;"(i) dental providers who are no longer accepting patients from the Department—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) are not still listed as providers accepting referrals from the Department; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) are not sent referrals from the Department; and
+
+&emsp;&emsp;&emsp;"(ii) dental providers participating in each such network are capable of receiving an influx of patients from the Department under the pilot program.
+
+&emsp;&emsp;"(B)
+
+Expansion of network.—If, pursuant to a review under subparagraph (A), the Secretary determines the community care network in a State selected under subsection (b)(1) is not capable of receiving an influx of patients under the pilot program, the Secretary shall coordinate with the Third Party Administrator for such State to ensure the dental provider network of such community care network is sufficiently expanded before the initiation of the pilot program.
+
+&emsp;"(2)
+
+Notice to covered veterans.—In carrying out the pilot program, the Secretary shall inform all covered veterans in States selected under subsection (b)(1) of the covered care available under the pilot program.
+
+&emsp;"(3)
+
+Loss of eligibility.—Any veteran participating in the pilot program who ceases to be a covered veteran shall be removed from the pilot program on the date that is 90 days after the Secretary determines the participant is no longer a covered veteran.
+
+&emsp;"(4)
+
+Continuity of care.—
+
+&emsp;&emsp;"(A)
+
+In general.—Upon the termination of the pilot program, the Secretary shall provide to all veterans participating in the pilot program at the time of such termination—
+
+&emsp;&emsp;&emsp;"(i) information on how to enroll in the dental insurance plan of the Department of Veterans Affairs under section 1712C of title 38, United States Code;
+
+&emsp;&emsp;&emsp;"(ii) if appropriate, information on the VETSmile program of the Department of Veterans Affairs, or any successor program; and
+
+&emsp;&emsp;&emsp;"(iii) contact information for dental providers in the surrounding community who provide low- or no-cost dental care and whom the Secretary has confirmed are available to take on new patients.
+
+&emsp;&emsp;"(B)
+
+Continuation of treatment plan.—Any veteran participating in the pilot program may continue to receive services under the pilot program after the termination of the pilot program to complete a treatment plan commenced under the pilot program, as determined necessary by the Secretary.
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Annual report.—Not later than one year after the commencement of the pilot program, and annually thereafter for the duration of the pilot program, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the pilot program that includes—
+
+&emsp;&emsp;"(A) an identification of the States participating in the pilot program;
+
+&emsp;&emsp;"(B) a description of the implementation and operation of the pilot program;
+
+&emsp;&emsp;"(C) the number of participants in the pilot program, disaggregated by—
+
+&emsp;&emsp;&emsp;"(i) State; and
+
+&emsp;&emsp;&emsp;"(ii) disability rating;
+
+&emsp;&emsp;"(D) an identification of any barriers or challenges to implementing the pilot program;
+
+&emsp;&emsp;"(E) aggregated feedback from participants in the pilot program, including from interviews and surveys;
+
+&emsp;&emsp;"(F) the average annual cost of providing covered care to a participant in the pilot program, disaggregated by—
+
+&emsp;&emsp;&emsp;"(i) State;
+
+&emsp;&emsp;&emsp;"(ii) disability rating; and
+
+&emsp;&emsp;&emsp;"(iii) whether the care was provided through the community care network or through a provider of the Department;
+
+&emsp;&emsp;"(G) an analysis of the communication and collaboration of the Department with Third Party Administrators and community care dental providers, disaggregated by State;
+
+&emsp;&emsp;"(H) an analysis of any cost savings by the Department with respect to the treatment of ischemic heart disease;
+
+&emsp;&emsp;"(I) an assessment of the impact of the pilot program on appointments for care, prescriptions, hospitalizations, emergency room visits, wellness, employability, satisfaction, and perceived quality of life of covered veterans related to their diagnosis of ischemic heart disease;
+
+&emsp;&emsp;"(J) an analysis and assessment of the efficacy of mobile clinics and portable dental care units, to the extent such modalities are used, to service the needs of covered veterans under the pilot program;
+
+&emsp;&emsp;"(K) an analysis and assessment of the usage of teledentistry to service the needs of covered veterans under the pilot program, to include a cost benefit analysis of such services; and
+
+&emsp;&emsp;"(L) such other matters as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Final report.—Not later than 90 days before the completion of the pilot program, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the pilot program that—
+
+&emsp;&emsp;"(A) includes the matters required under paragraph (1);
+
+&emsp;&emsp;"(B) includes recommendations on whether the pilot program should be continued, expanded, or adopted throughout the Department; and
+
+&emsp;&emsp;"(C) indicates whether the Secretary requests action by Congress to make the pilot program permanent.
+
+"(g)
+
+Impact on Community Care.—Participants in the pilot program shall be able to access covered care in the community under section 1703 of title 38, United States Code.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered care' means dental care that is consistent with the dental services and treatment furnished by the Secretary of Veterans Affairs to veterans pursuant to section 1712(a)(1)(G) of title 38, United States Code.
+
+&emsp;"(2) The term 'covered veteran' means a veteran who—
+
+&emsp;&emsp;"(A) is enrolled in the system of annual patient enrollment of the Department established and operated under paragraphs \[sic\] (1) or (2) of section 1705(a) of title 38, United States Code;
+
+&emsp;&emsp;"(B) is not eligible for dental services and treatment and related dental appliances under the laws administered by the Secretary as of the date of the enactment of this Act; and
+
+&emsp;&emsp;"(C) has a diagnosis of ischemic heart disease.
+
+&emsp;"(3) The term 'Third Party Administrator' has the meaning given such term in section 1703F of such title."
+
 #### Pilot Program on Provision of Dental Insurance Plans to Veterans and Survivors and Dependents of Veterans
 
 Pub. L. 111–163, title V, §510, May 5, 2010, 124 Stat. 1162, required the Secretary of Veterans Affairs to carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to certain veterans and survivors and dependents of veterans, prior to repeal by Pub. L. 114–218, §2(b)(1), July 29, 2016, 130 Stat. 843. See section 1712C of this title.
@@ -442,7 +608,7 @@ Pub. L. 100–322, title I, §115(a)–(f), May 20, 1988, 102 Stat. 501, as amen
 
 Pub. L. 100–322, title I, §114, May 20, 1988, 102 Stat. 500, directed that the report required by section 235 of Pub. L. 99–576 \[see below\] include additional information about veterans being treated by the Veterans' Administration for mental illness disabilities who were furnished hospital, domiciliary, or nursing home care by the Administrator during fiscal years 1986, 1987, and 1988, and extended the deadline for submission of the report to not later than Dec. 15, 1988.
 
-Pub. L. 99–576, title II, §235, Oct. 28, 1986, 100 Stat. 3266, directed Administrator to submit to Committees on Veterans' Affairs of Senate and House of Representatives not later than Dec. 15, 1987, a report on Administrator's current use of authority to contract for care and treatment, and for rehabilitative services, for chronically mentally ill veterans through various types of facilities and to furnish home health services to such veterans in such veterans' homes or in other settings in which they reside.
+Pub. L. 99–576, title II, §235, Oct. 28, 1986, 100 Stat. 3266, directed Administrator to submit to Committees on Veterans' Affairs of Senate and House of Representatives not later than Dec. 15, 1987, a report on Administrator's current use of authority to contract for care and treatment, and for rehabilitative services, for chronically mentally ill veterans through various typesof facilities and to furnish home health services to such veterans in such veterans' homes or in other settings in which they reside.
 
 #### Veterans Discharged or Released From Active Service Who Reentered Such Service Within One Year, and Were Discharged or Released Before August 13, 1981
 
@@ -470,5 +636,5 @@ Pub. L. 94–581, title I, §103(b), Oct. 21, 1976, 90 Stat. 2845, as amended by
 
 #### Notification to Eligible Individuals of Expanded Care and Services Available as Result of Amendments by Veterans Omnibus Health Care Act of 1976
 
-Pub. L. 94–581, title I, §117(b), Oct. 21, 1976, 90 Stat. 2855, directed Administrator, not later than ninetydays after Oct. 21, 1976, to take all appropriate steps to ensure that each individual eligible for new or expanded services as a result of amendments made by Veterans Omnibus Health Care Act of 1976 (Pub. L. 94–581) was personally notified about his or her eligibility and the way to secure care and services and directed Administrator to send copies of all notification forms to appropriate House and Senate committees, along with a description of how the forms were distributed.
+Pub. L. 94–581, title I, §117(b), Oct. 21, 1976, 90 Stat. 2855, directed Administrator, not later than ninety days after Oct. 21, 1976, to take all appropriate steps to ensure that each individual eligible for new or expanded services as a result of amendments made by Veterans Omnibus Health Care Act of 1976 (Pub. L. 94–581) was personally notified about his or her eligibility and the way to secure care and services and directed Administrator to send copies of all notification forms to appropriate House and Senate committees, along with a description of how the forms were distributed.
 

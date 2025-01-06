@@ -14,7 +14,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (3) As authority for transfer of corporate stock
 
-&emsp;If such property consists of stocks, shall be notice, when received, to any corporation, company, or association of such transfer, and shall be authority to such corporation, company, or association to record the transfer on its books and records in the same manner as if the stocks were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not; and
+&emsp;If such property consists of stocks, shall be notice, when received, to any corporation, company, or association of such transfer, andshall be authority to such corporation, company, or association to record the transfer on its books and records in the same manner as if the stocks were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not; and
 
 #### (4) As receipts
 
@@ -34,7 +34,7 @@ In the case of the sale of real property pursuant to section 6335—
 
 #### (2) Deed as conveyance of title
 
-&emsp;If the proceedings of the Secretary as set forth have been substantially in accordancewith the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
+&emsp;If the proceedings of the Secretary as set forth have been substantially in accordance with the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
 
 #### (c) Effect of junior encumbrances
 

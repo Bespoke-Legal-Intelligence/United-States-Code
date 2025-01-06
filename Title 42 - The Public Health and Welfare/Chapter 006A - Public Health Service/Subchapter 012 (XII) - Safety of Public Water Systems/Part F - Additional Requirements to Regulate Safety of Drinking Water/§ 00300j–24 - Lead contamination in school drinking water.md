@@ -40,7 +40,7 @@ Each State shall provide for the dissemination to local educational agencies, pr
 
 &emsp;&emsp;&emsp;(i) States to assist local educational agencies, public water systems that serve schools and child care programs under the jurisdiction of those local educational agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water at schools and child care programs under the jurisdiction of those local educational agencies; and
 
-&emsp;&emsp;&emsp;(ii) tribal consortia to assist tribal education agencies (as defined in section 5502 of title 20), public water systems that serve schools and child care programs under the jurisdiction of those tribal education agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation oflead contamination in drinking water at schools and child care programs under the jurisdiction of those tribal education agencies.
+&emsp;&emsp;&emsp;(ii) tribal consortia to assist tribal education agencies (as defined in section 5502 of title 20), public water systems that serve schools and child care programs under the jurisdiction of those tribal education agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water at schools and child care programs under the jurisdiction of those tribal education agencies.
 
 #### (B) Direct grants to local educational agencies
 
@@ -80,7 +80,7 @@ Each State shall provide for the dissemination to local educational agencies, pr
 
 #### (4) Priority
 
-&emsp;In making grants under this subsection, the Administrator shall give priority to States, local educational agencies, public water systems, tribal consortia, and qualified nonprofit organizations that will assist in voluntary testing for or the remediation of lead contamination in drinking water at schools and child care programs that are in low-income areas.
+&emsp;In making grants under this subsection, the Administrator shall give priority to States,local educational agencies, public water systems, tribal consortia, and qualified nonprofit organizations that will assist in voluntary testing for or the remediation of lead contamination in drinking water at schools and child care programs that are in low-income areas.
 
 #### (5) Limitation on use of funds
 
@@ -150,7 +150,7 @@ Subsec. (d)(6)(A)(ii). Pub. L. 117–58, §50110(2)(E)(ii), inserted "or tribal"
 
 Subsec. (d)(6)(B)(i). Pub. L. 117–58, §50110(2)(E)(iii), inserted "applicable" before "local educational agency".
 
-Subsec. (d)(7). Pub. L. 117–58, §50110(2)(C), (F), substituted "State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization" for "State or local educational agency" in two places and "testing or compliance monitoring for or remediation of" for "testing for".
+Subsec. (d)(7). Pub. L. 117–58, §50110(2)(C), (F), substituted "State, local educational agency, public watersystem, tribal consortium, or qualified nonprofit organization" for "State or local educational agency" in two places and "testing or compliance monitoring for or remediation of" for "testing for".
 
 Subsec. (d)(8). Pub. L. 117–58, §50110(2)(G), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2017 through 2019, and $25,000,000 for each of fiscal years 2020 and 2021."
 

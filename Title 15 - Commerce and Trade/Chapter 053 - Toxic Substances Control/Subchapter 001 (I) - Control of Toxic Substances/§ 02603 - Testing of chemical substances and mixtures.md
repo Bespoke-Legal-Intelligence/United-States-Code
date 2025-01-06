@@ -42,7 +42,7 @@ Additional testing authority.—In addition to the authority provided under para
 
 (3)
 
-Statement of need.—When requiring the development of new information relating to a chemical substance or mixture under paragraph (2), the Administrator shall identify the need for the new information, describe how information reasonably available to the Administrator was used to inform the decision to require new information, explain the basis for any decision that requires the use of vertebrate animals, and, as applicable, explain why issuance of an order is warranted instead of promulgating a rule or entering into a consent agreement.
+Statement of need.—When requiring the development of new information relating to a chemical substance or mixture under paragraph (2), the Administrator shall identify the need for the new information, describe how information reasonably available to the Administrator was used to inform the decision to require new information, explain the basis for any decision that requires the use of vertebrate animals, and, as applicable, explain why issuance of an order iswarranted instead of promulgating a rule or entering into a consent agreement.
 
 (4)
 
@@ -76,7 +76,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 (C) A rule or order under paragraph (1) or (2) of subsection (a) may require the development of information by any person who manufactures or processes, or intends to manufacture or process, a chemical substance or mixture subject to the rule or order.
 
-(4) Any rule, order, or consent agreement under subsection (a) requiring the testing of and submission of information for a particular chemical substance or mixture shall expire at the end of the reimbursement period (as defined in subsection (c)(3)(B)) which is applicable to information for such substance or mixture unless the Administrator repeals the rule or order or modifies the consent agreement to terminate the requirement before such date; and a rule, order, or consent agreement under subsection (a) requiring the testing of and submission of information for a category of chemical substances or mixtures shall expire with respect to a chemical substance or mixture included in the category at the end of the reimbursement period (as so defined) which is applicable to information for such substance or mixture unless the Administrator before such date repeals or modifies the application of the rule, order, or consent agreement to such substance or mixture or repeals the rule or order or modifies the consent agreement to terminate the requirement.
+(4) Any rule, order, or consent agreement under subsection (a) requiring the testing of and submission of information for a particular chemical substance or mixture shall expire at the end of the reimbursement period (as defined in subsection (c)(3)(B)) which is applicable to information for such substance or mixture unless the Administrator repeals the rule or order or modifies the consent agreement to terminate the requirement before such date; and a rule, order, or consent agreement under subsection (a) requiring the testing of and submission of information for a category of chemical substances or mixtures shall expire with respect to a chemical substance or mixture included in the category at the end of the reimbursement period (as so defined) which is applicable to information for such substance or mixture unless the Administrator before such date repeals or modifies the application of the rule, order, or consentagreement to such substance or mixture or repeals the rule or order or modifies the consent agreement to terminate the requirement.
 
 #### (c) Exemption
 
@@ -110,7 +110,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 > &emsp;whichever is later.
 
-(4)(A) If the exemption under paragraph (2) of any person from the requirement to conducttests and submit information on a chemical substance or mixture is granted on the basis of the fact that information is being developed by one or more persons pursuant to a rule, order, or consent agreement under subsection (a), then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
+(4)(A) If the exemption under paragraph (2) of any person from the requirement to conduct tests and submit information on a chemical substance or mixture is granted on the basis of the fact that information is being developed by one or more persons pursuant to a rule, order, or consent agreement under subsection (a), then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to each such person who is developing such information, for a portion of the costs incurred by each such person in complying with such rule, order, or consent agreement, and
 

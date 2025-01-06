@@ -22,7 +22,7 @@ The research program established under this subpart shall encompass the social, 
 
 &emsp;&emsp;(D) the relationship between the abuse of alcohol and other drugs,
 
-&emsp;&emsp;(E) the effect on the incidence of alcohol abuse and alcoholism of social pressures,legal requirements respecting the use of alcoholic beverages, the cost of such beverages, and the economic status and education of users of such beverages,
+&emsp;&emsp;(E) the effect on the incidence of alcohol abuse and alcoholism of social pressures, legal requirements respecting the use of alcoholic beverages, the cost of such beverages, and the economic status and education of users of such beverages,
 
 &emsp;&emsp;(F) the interrelationship between alcohol use and other health problems,
 
@@ -86,7 +86,7 @@ Pub. L. 102–352, §3, Aug. 26, 1992, 106 Stat. 940, provided that: "The amendm
 
 &emsp;"(1) subsection (a) of section 2 \[amending this section and sections 285n–2, 285o, 285o–2, 285p, 290aa–1, 290aa–3, 300x–7, 300x–27, 300x–33, 300x–53, and 300y of this title\], shall take effect immediately upon the effectuation of the amendments made by titles I and II of the ADAMHA Reorganization Act \[Pub. L. 102–321, see Effective Date of 1992 Amendment note set out under section 236 of this title\]; and
 
-&emsp;"(2) subsections (b) and (c) of section 2 \[amending sections 290cc–21, 290cc–28, and 290cc–30 of this titleand provisions set out as notes under sections 290aa and 300x of this title\], shall take effect on the date of enactment of this Act \[Aug. 26, 1992\]."
+&emsp;"(2) subsections (b) and (c) of section 2 \[amending sections 290cc–21, 290cc–28, and 290cc–30 of this title and provisions set out as notes under sections 290aa and 300x of this title\], shall take effect on the date of enactment of this Act \[Aug. 26, 1992\]."
 
 #### Effective Date
 

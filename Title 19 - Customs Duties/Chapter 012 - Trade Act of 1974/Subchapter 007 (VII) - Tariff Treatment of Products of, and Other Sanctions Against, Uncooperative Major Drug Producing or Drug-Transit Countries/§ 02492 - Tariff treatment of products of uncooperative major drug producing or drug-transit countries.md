@@ -108,7 +108,7 @@ The action taken by the President under paragraph (1), (2), or (3) of subsection
 
 #### (d) Presidential action regarding aviation
 
-(1)(A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection\(a)(4) of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
+(1)(A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection (a)(4) of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
 
 (B) Within 10 days after the date of notification of a government under subparagraph (A), the Secretary of Transportation shall take all steps necessary to suspend at the earliest possible date the authority of any foreign air carrier owned or controlled, directly or indirectly, by the government or nationals of that country to engage in foreign air transportation to or from the United States, notwithstanding any agreement relating to air services.
 

@@ -66,7 +66,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
-(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whoseexpected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
@@ -220,7 +220,7 @@ Contents.—The plan required under subsection (a) shall—
 
 &emsp;&emsp;"(C) additional enterprise-wide camera system capabilities needed to enhance the safety and security of inmates and staff;
 
-&emsp;"(3) identify and include plans to address any deficiencies in the LMR and PA systems in use at Bureau of Prisons correctional facilities, including those related to—
+&emsp;"(3) identify and include plans to address any deficiencies in the LMR and PA systems in use at Bureauof Prisons correctional facilities, including those related to—
 
 &emsp;&emsp;"(A) an inadequate number of radios;
 
@@ -248,7 +248,7 @@ Implementation Deadline.—Not later than 3 years after the date on which the pl
 
 "(d)
 
-Annual Progress Reports.—Beginning 1 year after the date on which the plan is submitted under subsection (a)(2), and each year thereafter until the end of the 3-year period described in subsection (c), the Director of the Bureau of Prisons shall submit to theCommittee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of the implementation of the submitted plan."
+Annual Progress Reports.—Beginning 1 year after the date on which the plan is submitted under subsection (a)(2), and each year thereafter until the end of the 3-year period described in subsection (c), the Director of the Bureau of Prisons shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of the implementation of the submitted plan."
 
 #### Health and Safety of Pregnant Women and Mothers
 
@@ -520,7 +520,7 @@ Given the urgency and importance of this issue, it is critical that DOJ accelera
 
 Section 1. <i>Implementation of the DOJ Report</i>. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the status of these efforts not later than 180 days after the date of this memorandum.
 
-(b) Other executive departments and agencies (agencies) that impose restrictive housing shall review the DOJ Report to determine whether corresponding changes at their facilities should be made in light of the policy recommendations and guiding principles in the DOJ Report.
+(b) Other executive departments and agencies (agencies) that impose restrictive housing shall review theDOJ Report to determine whether corresponding changes at their facilities should be made in light of the policy recommendations and guiding principles in the DOJ Report.
 
 These other agencies shall report back to me not later than 180 days after the date of this memorandum on how they plan to address their use of restrictive housing.
 

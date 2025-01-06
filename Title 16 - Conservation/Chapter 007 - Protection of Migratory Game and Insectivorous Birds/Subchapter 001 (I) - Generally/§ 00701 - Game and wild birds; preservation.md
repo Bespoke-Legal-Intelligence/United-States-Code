@@ -12,7 +12,7 @@ And the Secretary of the Interior shall make and publish all needful rules and r
 
 #### References in Text
 
-This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Actwhich was classified to section 667e of this title was repealed by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
+This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to section 667e of this title was repealed by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
 
 #### <b>Executive Documents</b>
 
@@ -68,7 +68,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (4) design migratory bird habitat and population conservation principles, measures, and practices, into agency plans and planning processes (natural resource, land management, and environmental quality planning, including, but not limited to, forest and rangeland planning, coastal management planning, watershed planning, etc.) as practicable, and coordinate with other agencies and nonfederal partners in planning efforts;
 
-(5) within established authorities and in conjunction with the adoption, amendment, or revision of agency management plans and guidance, ensure that agency plans and actions promote programs and recommendations of comprehensive migratory bird planning efforts such as Partners-in-Flight, U.S. National Shorebird Plan, North American Waterfowl Management Plan, North American Colonial Waterbird Plan, and other planning efforts, as well as guidance from othersources, including the Food and Agricultural Organization's International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries;
+(5) within established authorities and in conjunction with the adoption, amendment, or revision of agency management plans and guidance, ensure that agency plans and actions promote programs and recommendations of comprehensive migratory bird planning efforts such as Partners-in-Flight, U.S. National Shorebird Plan, North American Waterfowl Management Plan, North American Colonial Waterbird Plan, and other planning efforts, as well as guidance from other sources, including the Food and Agricultural Organization's International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries;
 
 (6) ensure that environmental analyses of Federal actions required by the NEPA or other established environmental review processes evaluate the effects of actions and agency plans on migratory birds, with emphasis on species of concern;
 

@@ -6,7 +6,7 @@ Section 1702, Pub. L. 95–273, §3, May 8, 1978, 92 Stat. 228; Pub. L. 99–272
 
 Section 1702a, Pub. L. 95–273, §3A, as added Pub. L. 99–272, title VI, §6072(2), Apr. 7, 1986, 100 Stat. 133; amended Pub. L. 100–636, §1(5)–(7), Nov. 8, 1988, 102 Stat. 3324, provided for a National Ocean Pollution Program Office and a National Ocean Pollution Policy Board.
 
-Section 1703, Pub. L. 95–273, §4, May 8, 1978, 92 Stat. 229; Pub. L. 96–255, §2, May 30, 1980, 94 Stat. 420; Pub. L. 97–375, title II, §202(c), Dec. 21, 1982, 96 Stat. 1822; Pub.L. 99–272, title VI, §6073, Apr. 7, 1986, 100 Stat. 134; Pub. L. 100–636, §1(5), Nov. 8, 1988, 102 Stat. 3324, provided for a comprehensive Federal Plan relating to ocean pollution.
+Section 1703, Pub. L. 95–273, §4, May 8, 1978, 92 Stat. 229; Pub. L. 96–255, §2, May 30, 1980, 94 Stat. 420; Pub. L. 97–375, title II, §202(c), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 99–272, title VI, §6073, Apr. 7, 1986, 100 Stat. 134; Pub. L. 100–636, §1(5), Nov. 8, 1988, 102 Stat. 3324, provided for a comprehensive Federal Plan relating to ocean pollution.
 
 Section 1704, Pub. L. 95–273, §5, May 8, 1978, 92 Stat. 230; Pub. L. 100–636, §1(5), Nov. 8, 1988, 102 Stat. 3324, provided for a comprehensive ocean pollution program in NOAA.
 

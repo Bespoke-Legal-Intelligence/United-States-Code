@@ -14,7 +14,7 @@ In this section:
 
 #### (b) Purpose
 
-Under such terms and conditions as are established by the Secretary, funds made available under this section may be used to competitively award grants to or enter into cooperative agreements with Governors to carry out comprehensive and innovative strategies to end childhood hunger, including alternative models for service delivery and benefit levels that promote the reduction or elimination of childhood hunger by 2015.
+Under such terms and conditions as are established by the Secretary, funds made available under this section may be used to competitivelyaward grants to or enter into cooperative agreements with Governors to carry out comprehensive and innovative strategies to end childhood hunger, including alternative models for service delivery and benefit levels that promote the reduction or elimination of childhood hunger by 2015.
 
 #### (c) Projects
 
@@ -106,7 +106,7 @@ In determining the range of projects and defining selection criteria under this 
 
 &emsp;&emsp;(A) measures the impact of the strategy on appropriate participation, food security, nutrition, and associated behavioral outcomes among participating households; and
 
-&emsp;&emsp;(B) uses rigorous experimental designs and methodologies, particularly random assignment or other methods that are capable of producing scientifically valid information regarding which activities are effective in reducing the prevalence or preventing the incidence of food insecurity and hunger in the community, especially among children.
+&emsp;&emsp;(B) uses rigorous experimental designs and methodologies, particularly random assignment or other methods that are capable of producing scientifically valid informationregarding which activities are effective in reducing the prevalence or preventing the incidence of food insecurity and hunger in the community, especially among children.
 
 #### (3) Reporting
 
@@ -142,7 +142,7 @@ In determining the range of projects and defining selection criteria under this 
 
 #### (C) Altering nutrition assistance program requirements
 
-&emsp;&emsp;No project that makes use of, alters, or coordinates with the supplemental nutritionassistance program may be funded under this section unless the project is fully consistent with the project requirements described in section 17(b)(1)(B) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(b)(1)(B)).
+&emsp;&emsp;No project that makes use of, alters, or coordinates with the supplemental nutrition assistance program may be funded under this section unless the project is fully consistent with the project requirements described in section 17(b)(1)(B) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(b)(1)(B)).
 
 #### (D) Other benefits
 

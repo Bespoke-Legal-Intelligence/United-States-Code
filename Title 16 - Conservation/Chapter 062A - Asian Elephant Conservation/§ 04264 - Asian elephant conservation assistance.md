@@ -68,11 +68,23 @@ In determining whether to approve project proposals under this section, the Secr
 
 Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
 
-(Pub. L. 105–96, §5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, §2(a), Dec. 6, 2007, 121 Stat. 1362.)
+#### (i) Multiyear grants
+
+#### (1) Authorization
+
+&emsp;The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
+
+#### (2) Effect
+
+&emsp;Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+(Pub. L. 105–96, §5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, §2(a), Dec. 6, 2007, 121 Stat. 1362; Pub. L. 118–159, div. E, title LIII, §5304(a), Dec. 23, 2024, 138 Stat. 2445.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (i). Pub. L. 118–159 added subsec. (i).
 
 <b>2007</b>—Subsec. (c)(2)(C). Pub. L. 110–133 substituted "and the Administrator" for ", the Administrator, and each of those countries".
 

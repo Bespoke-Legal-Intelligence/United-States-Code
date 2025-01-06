@@ -64,7 +64,7 @@ In General.—Not later than two years after the date of the enactment of this d
 
 "(b)
 
-Report.—Not later than one year after the date of the enactment of this division, and every year for three years thereafter, the Secretary shall report to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] whether additional Diplomats in Residence have been established, and, if so, what regions or colleges or universities such diplomats are assigned to, with an explanation as to why those regions or schools were chosenas most in need of additional Department \[of State\] recruiting personnel."
+Report.—Not later than one year after the date of the enactment of this division, and every year for three years thereafter, the Secretary shall report to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] whether additional Diplomats in Residence have been established, and, if so, what regions or colleges or universities such diplomats are assigned to, with an explanation as to why those regions or schools were chosen as most in need of additional Department \[of State\] recruiting personnel."
 
 #### Definitions
 

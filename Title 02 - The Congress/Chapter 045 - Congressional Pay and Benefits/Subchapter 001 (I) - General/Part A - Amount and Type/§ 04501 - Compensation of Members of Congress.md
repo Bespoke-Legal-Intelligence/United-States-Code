@@ -148,9 +148,11 @@ Payroll Administrator Defined.—In this section, the 'payroll administrator' of
 
 #### Cost of Living Adjustment
 
-Pub. L. 117–328, §6, Dec. 29, 2022, 136 Stat. 4462, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2023."
+Pub. L. 118–47, §7, Mar. 23, 2024, 138 Stat. 461, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2024."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, §6, Dec. 29, 2022, 136 Stat. 4462.
 
 Pub. L. 117–103, §6, Mar. 15, 2022, 136 Stat. 52.
 

@@ -40,7 +40,7 @@ Pub. L. 108–265, §1(a), June 30, 2004, 118 Stat. 729, provided that: "This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–336, §1(a), Oct. 31, 1998, 112 Stat. 3143, provided that: "This Act \[amending sections 1755, 1758,1759a to 1761, 1762a, 1765 to 1766a, 1769, 1769b–1, 1769c, 1769f to 1769h, 1773, 1776, 1784, 1786, and 1788 of this title, repealing section 1766b of this title, enacting provisions set out as notes under sections 1755, 1761, and 1786 of this title, and amending provisions set out as notes under section 1769 of this title and section 612c of Title 7, Agriculture\] may be cited as the 'William F. Goodling Child Nutrition Reauthorization Act of 1998'."
+Pub. L. 105–336, §1(a), Oct. 31, 1998, 112 Stat. 3143, provided that: "This Act \[amending sections 1755, 1758, 1759a to 1761, 1762a, 1765 to 1766a, 1769, 1769b–1, 1769c, 1769f to 1769h, 1773, 1776, 1784, 1786, and 1788 of this title, repealing section 1766b of this title, enacting provisions set out as notes under sections 1755, 1761, and 1786 of this title, and amending provisions set out as notes under section 1769 of this title and section 612c of Title 7, Agriculture\] may be cited as the 'William F. Goodling Child Nutrition Reauthorization Act of 1998'."
 
 #### Short Title of 1996 Amendment
 
@@ -214,7 +214,7 @@ Reimbursement amount.—Subject to paragraphs (4) and (5)(E), using the amounts 
 
 &emsp;&emsp;"(D) For each sponsoring organization of a family or group day care home not described in subparagraph (C) in the State for the reimbursement month, an amount equal to 55 percent of—
 
-&emsp;&emsp;&emsp;"(i) the amount such sponsoring organization of a family or group day care home was reimbursedunder section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for administrative funds for the month beginning one year before such reimbursement month; minus
+&emsp;&emsp;&emsp;"(i) the amount such sponsoring organization of a family or group day care home was reimbursed under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(B)) for administrative funds for the month beginning one year before such reimbursement month; minus
 
 &emsp;&emsp;&emsp;"(ii) the amount such sponsoring organization of a family or group day care home was reimbursed under such section for administrative funds for such reimbursement month.
 
@@ -240,7 +240,7 @@ Availability.—Funds allocated to a State under paragraph (1)(A) shall remain a
 
 &emsp;&emsp;"(B)
 
-Unaffiliated center.—In the case of a covered institution or a new covered institution that is an unaffiliated center that is sponsored by a sponsoring organization and receives funds for a reimbursement month under subparagraph (A) or (B) of paragraph (3), such unaffiliated center shall provide to such sponsoring organization an amount of such funds as agreed to by the sponsoring organization and the unaffiliated center, except such amount may not be greater be \[sic\] than 15 percent of such funds.
+Unaffiliated center.—In the case of a covered institution or a new covered institution that isan unaffiliated center that is sponsored by a sponsoring organization and receives funds for a reimbursement month under subparagraph (A) or (B) of paragraph (3), such unaffiliated center shall provide to such sponsoring organization an amount of such funds as agreed to by the sponsoring organization and the unaffiliated center, except such amount may not be greater be \[sic\] than 15 percent of such funds.
 
 &emsp;&emsp;"(C)
 
@@ -430,7 +430,7 @@ Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106�
 
 #### Study of Adulteration of Juice Products Sold to School Meal Programs
 
-Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program underthis chapter and school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program under this chapter and school breakfast program under section 1773 of this title.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
@@ -444,7 +444,7 @@ In General.—Notwithstanding any provision of \[the\] Richard B. Russell Nation
 
 Requirements.—In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:
 
-&emsp;"(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(a)(1)) and section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
+&emsp;"(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act (42U.S.C. 1758(a)(1)) and section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
 
 &emsp;"(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 

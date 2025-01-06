@@ -28,6 +28,8 @@ Duties of Director.—(1) The Director shall have the following duties:
 
 &emsp;(E) To administer the Central Test and Evaluation Investment Program and the program of the Department of Defense for test and evaluation science and technology.
 
+&emsp;(F) To the extent practicable, to consult with the Secretary of the Army on installation infrastructure, workforce requirements, information technology, and other resources that support the activities of the Major Range and Test Facility Base.
+
 (2) The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
 
 (d)
@@ -40,11 +42,11 @@ Quadrennial Strategic Plan for Department of Defense Test and Evaluation Resourc
 
 &emsp;(B) An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
 
-&emsp;(C) An assessment of the test and evaluation facilities and resources that will be needed tomeet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
+&emsp;(C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
 
 &emsp;(D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
-&emsp;(E) An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of a military department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
+&emsp;(E) An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of amilitary department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
 
 &emsp;(F) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
 
@@ -100,13 +102,25 @@ Administrative Support of Center.—The Secretary of Defense shall provide the D
 
 (i)
 
-Definition.—In this section, the term "Major Range and Test Facility Base" meansthe test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
+Infrastructure on Kwajalein Atoll.—Beginning on the date of the enactment of this subsection and ending on October 1, 2030, for purposes of this section, any infrastructure located on Kwajalein Atoll that supports the operations of test and evaluation facilities of the Department of Defense shall be considered to be part of the Army Kwajalein Major Range and Test Facility Base and subject to the requirements of subsections (e) and (f).
 
-(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487, §196; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, §214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328, div. A, title V, §502(c), title X, §1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, §222, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title II, §221, title IX, §904, Aug. 13, 2018, 132 Stat. 1681, 1922; renumbered §4173 and amended Pub. L. 116–283, div. A, title II, §272, title XVIII, §1845(b), Jan. 1, 2021, 134 Stat. 3502, 4247; Pub. L. 117–81, div. A, title X, §1081(a)(5), title XVII, §1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 1919, 2154.)
+(j)
+
+Definition.—In this section, the term "Major Range and Test Facility Base" means the test and evaluation facilities and resources that are designated by the Secretary of Defenseas facilities and resources comprising the Major Range and Test Facility Base.
+
+(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487, §196; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, §214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328, div. A, title V, §502(c), title X, §1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, §222, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title II, §221, title IX, §904, Aug. 13, 2018, 132 Stat. 1681, 1922; renumbered §4173 and amended Pub. L. 116–283, div. A, title II, §272, title XVIII, §1845(b), Jan. 1, 2021, 134 Stat. 3502, 4247; Pub. L. 117–81, div. A, title X, §1081(a)(5), title XVII, §1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 1919, 2154; Pub. L. 118–159, div. B, title XXVIII, §2871(a), (b), Dec. 23, 2024, 138 Stat. 2281.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (i), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(1)(F). Pub. L. 118–159, §2871(a), added subpar. (F).
+
+Subsecs. (i), (j). Pub. L. 118–159, §2871(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 <b>2021</b>—Pub. L. 116–283, §1845(b), as amended by Pub. L. 117–81, §1701(u)(6)(B), renumbered section 196 of this title as this section.
 
@@ -160,7 +174,7 @@ Subsec. (h). Pub. L. 109–163, §258(a), substituted "Secretary of Defense" for
 
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §212(a), substituted "on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director" for "on active duty. The Director" and inserted at end "A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general."
 
-Subsec. (c)(1)(B). Pub. L. 108–136, §212(b)(1), inserted ", other than budgets and expenditures for activities described in section 139(i) of this title" after "Department of Defense".
+Subsec. (c)(1)(B). Pub. L. 108–136, §212(b)(1), inserted ", other than budgets and expenditures for activitiesdescribed in section 139(i) of this title" after "Department of Defense".
 
 Subsec. (e)(1). Pub. L. 108–136, §212(b)(2), struck out ", the Director of Operational Test and Evaluation," after "each military department" and substituted "or Defense Agency head's" for ", Director's, or head's".
 
@@ -178,5 +192,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4) 
 
 #### Protection of Major Range and Test Facility Base
 
-Pub. L. 117–81, div. A, title XVI, §1686, Dec. 27, 2021, 135 Stat. 2126, provided that: "The Secretary of Defense may authorize, consistent with the authorities of the Secretary, such actions as are necessary to mitigate threats posed by space-based assets to the security or operation of the Major Range and Test Facility Base (as defined in section 196(i) of title 10, United States Code) \[now 10 U.S.C. 4173(i)\]."
+Pub. L. 117–81, div. A, title XVI, §1686, Dec. 27, 2021, 135 Stat. 2126, provided that: "The Secretary of Defense may authorize, consistent with the authorities of the Secretary, such actions as are necessary to mitigate threats posed by space-based assets to the security or operation of the Major Range and Test Facility Base (as defined in section 196(i) of title 10, United States Code) \[now 10 U.S.C. 4173(j)\]."
 

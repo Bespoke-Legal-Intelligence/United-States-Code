@@ -40,7 +40,7 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 (2) The Secretary may alter, consolidate, or discontinue any organizational entity continued within the Department and described in paragraph (1) of this subsection or reallocate any function vested by statute in such an entity, upon the expiration of a period of ninety days after the receipt by the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives of notice given by the Secretary containing a full and complete statement of the action proposed to be taken pursuant to this subsection and the facts and circumstances relied upon in support of such proposed action.
 
-(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 107–110, title X, §1072(b), Jan. 8, 2002, 115 Stat. 2089.)
+(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4,1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 107–110, title X, §1072(b), Jan. 8, 2002, 115 Stat. 2089.)
 
 #### <b>Editorial Notes</b>
 

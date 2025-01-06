@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(E) a reinstatement, restoration, or reemployment;
 
-&emsp;&emsp;(F) a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, or other action described in this paragraph; and
+&emsp;&emsp;(F) a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonablybe expected to lead to an appointment, promotion, or other action described in this paragraph; and
 
 &emsp;&emsp;(G) any other significant change in duties or responsibilities that is inconsistent with the employee's salary or grade level.
 
@@ -58,7 +58,7 @@ Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted "Navy Exchange Service
 
 Pub. L. 104–106, §1040(a), inserted at end "Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties."
 
-Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defensewith principal responsibility for personnel and readiness" for "Assistant Secretary of Defense for Manpower and Logistics", was repealed by Pub. L. 104–201.
+Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defense with principal responsibility for personnel and readiness" for "Assistant Secretary of Defense for Manpower and Logistics", was repealed by Pub. L. 104–201.
 
 Subsec. (e). Pub. L. 104–106, §1040(b), inserted before period at end of second sentence "and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense".
 
@@ -88,7 +88,7 @@ Application to Certain Current Employees.—In the case of a nonappropriated fun
 
 "(c)
 
-Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this section, the term 'nonappropriated fund instrumentality employee' has the meaning given such term in section 1587(a)(1) of title 10, United States Code."
+Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this section, the term 'nonappropriated fund instrumentality employee'has the meaning given such term in section 1587(a)(1) of title 10, United States Code."
 
 #### Uniform Health Benefits Program for Employees of Department of Defense Assigned to Nonappropriated Fund Instrumentalities
 

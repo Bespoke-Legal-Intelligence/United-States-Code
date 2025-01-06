@@ -72,7 +72,7 @@ In this section:
 
 #### (4) Plan for execution of authorities
 
-&emsp;Not later than 120 days after December 18, 2014, the Secretary shall submit a report tothe appropriate committees of Congress with a plan for the use of the authorities provided under this subsection.
+&emsp;Not later than 120 days after December 18, 2014, the Secretary shall submit a report to the appropriate committees of Congress with a plan for the use of the authorities provided under this subsection.
 
 #### (5) Collective bargaining agreements
 
@@ -130,7 +130,7 @@ The probationary period for all employees hired under the authority established 
 
 #### (f) Study and report
 
-Not later than 120 days after December 18, 2014, the National Protection and Programs Directorate shall submit a report regarding the availability of, and benefits (including cost savings and security) of using, cybersecurity personnel and facilities outside of the National Capital Region (as defined in section 2674 of title 10) to serve the Federal and national need to—
+Not later than 120 days after December 18, 2014, the National Protection and Programs Directorate shall submit a report regarding the availability of, and benefits (including cost savings and security) of using, cybersecurity personnel and facilities outside of the NationalCapital Region (as defined in section 2674 of title 10) to serve the Federal and national need to—
 
 &emsp;(1) the Subcommittee on Homeland Security of the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 

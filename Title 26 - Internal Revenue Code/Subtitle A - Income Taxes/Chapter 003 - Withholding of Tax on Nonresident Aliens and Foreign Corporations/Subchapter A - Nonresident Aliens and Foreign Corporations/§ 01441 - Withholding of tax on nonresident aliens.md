@@ -80,7 +80,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (d) Exemption of certain foreign partnerships
 
-Subject to such terms and conditions as may be provided by regulations prescribed by theSecretary, subsection (a) shall not apply in the case of a foreign partnership engaged in trade or business within the United States if the Secretary determines that the requirements of subsection (a) impose an undue administrative burden and that the collection of the tax imposed by section 871(a) on the members of such partnership who are nonresident alien individuals will not be jeopardized by the exemption.
+Subject to such terms and conditions as may be provided by regulations prescribed by the Secretary, subsection (a) shall not apply in the case of a foreign partnership engaged in trade or business within the United States if the Secretary determines that the requirements of subsection (a) impose an undue administrative burden and that the collection of the tax imposed by section 871(a) on the members of such partnership who are nonresident alien individuals will not be jeopardized by the exemption.
 
 #### (e) Alien resident of Puerto Rico
 
@@ -214,7 +214,7 @@ Amendment by section 123(b)(2) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1214(c)(3) of Pub. L. 99–514 applicable to payments made in a taxable year of the payor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
 
-Amendment by section 1810(d)(3)(D) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1810(d)(3)(D) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

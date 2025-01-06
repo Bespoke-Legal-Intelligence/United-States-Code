@@ -188,7 +188,7 @@ The Council shall, after consulting with the State workforce development boardâ€
 
 #### (1) Plan
 
-&emsp;The Council shall prepare, in conjunction with the designated State unit, a plan for the provision of such resources, including such staff and other personnel, as may be necessary and sufficient to carry out the functions of the Council under this section. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
+&emsp;The Council shall prepare, in conjunction with the designated State unit, a plan for theprovision of such resources, including such staff and other personnel, as may be necessary and sufficient to carry out the functions of the Council under this section. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
 
 #### (2) Resolution of disagreements
 
@@ -208,7 +208,7 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 #### (f) Meetings
 
-The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the generalpublic unless there is a valid reason for an executive session.
+The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
 
 #### (g) Compensation and expenses
 

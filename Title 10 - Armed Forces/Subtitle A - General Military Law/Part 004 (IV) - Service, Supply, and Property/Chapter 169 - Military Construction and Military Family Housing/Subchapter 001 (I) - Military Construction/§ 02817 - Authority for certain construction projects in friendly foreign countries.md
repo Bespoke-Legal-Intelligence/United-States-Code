@@ -4,7 +4,7 @@
 
 Construction Authorized.—Using funds available for operations and maintenance, the Secretary of Defense may carry out a construction project in a friendly foreign country, and perform planning and design to support such a project, that the Secretary determines meets each of the following conditions:
 
-&emsp;(1) The commander of the geographic combatant command in which the construction project will be carried out identified the construction project as necessary to support vitalUnited States military requirements at an air port of debarkation, sea port of debarkation, or rail or other logistics support location.
+&emsp;(1) The commander of the geographic combatant command in which the construction project will be carried out identified the construction project as necessary to support vital United States military requirements at an air port of debarkation, sea port of debarkation, or rail or other logistics support location.
 
 &emsp;(2) The construction project will not be carried out at a military installation.
 

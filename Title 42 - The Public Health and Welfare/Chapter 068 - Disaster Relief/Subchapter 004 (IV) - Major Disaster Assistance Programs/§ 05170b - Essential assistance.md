@@ -56,7 +56,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (2) Rules applicable to debris removal
 
-&emsp;Any removal of debris and wreckage carried out under this subsection shall be subject tosection 5173(b) of this title, relating to unconditional authorization and indemnification for debris removal.
+&emsp;Any removal of debris and wreckage carried out under this subsection shall be subject to section 5173(b) of this title, relating to unconditional authorization and indemnification for debris removal.
 
 #### (3) Expenditures out of disaster relief funds
 

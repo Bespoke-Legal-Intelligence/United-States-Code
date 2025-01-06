@@ -36,7 +36,7 @@ Professional Military Education Schools.—This section applies to each of the f
 
 &emsp;(8) The Marine Corps University.
 
-(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, §527(b), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 107–314, div. A, title X, §1062(a)(7), Dec. 2, 2002, 116 Stat. 2650.)
+(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L.105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, §527(b), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 107–314, div. A, title X, §1062(a)(7), Dec. 2, 2002, 116 Stat. 2650.)
 
 #### <b>Editorial Notes</b>
 

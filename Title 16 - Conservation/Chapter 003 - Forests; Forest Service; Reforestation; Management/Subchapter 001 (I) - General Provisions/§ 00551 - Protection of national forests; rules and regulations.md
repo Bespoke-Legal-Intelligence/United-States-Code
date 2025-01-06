@@ -48,7 +48,7 @@ Pub. L. 101–286, title I, May 9, 1990, 104 Stat. 171, established a National C
 
 #### Existing Rights-of-Way
 
-Provisions of section 706(a) of Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2793, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see note set out under section 1701 of Title 43, Public Lands.
+Provisions of section 706(a) of Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2793, except as pertaining to rights-of-way,not to be construed as affecting the authority of the Secretary of Agriculture under this section, see note set out under section 1701 of Title 43, Public Lands.
 
 #### <b>Executive Documents</b>
 

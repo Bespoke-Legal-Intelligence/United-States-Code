@@ -72,7 +72,7 @@ Nonapplicability of FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) 
 
 #### References in Text
 
-Section 51322(d), referred to in subsec. (c)(2)(B), probably should be a reference to section 51322(g) of this title. Subsec. (d) of section 51322, which relates to the completion of a survey by a cadet upon the completion of the cadet's Sea Year, was redesignated as subsec. (g) of section 51322 by Pub. L. 117–263, §3513(a)(2). Subsec. (d) of section 51322, as added by Pub. L. 117–263, §3513(a)(1), provides that the Maritime Administrator is to ensure that a cadet participating in Sea Year has certain information, training, and resources.
+Section 51322(d), referred to in subsec. (c)(2)(B), probably should be a reference to section 51322(g) of this title. Subsec. (d) of section 51322, which relates to the completion of a survey by a cadet upon the completionof the cadet's Sea Year, was redesignated as subsec. (g) of section 51322 by Pub. L. 117–263, §3513(a)(2). Subsec. (d) of section 51322, as added by Pub. L. 117–263, §3513(a)(1), provides that the Maritime Administrator is to ensure that a cadet participating in Sea Year has certain information, training, and resources.
 
 The date of enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
 

@@ -44,7 +44,7 @@ The program described in subsection (a) shall focus on the following activities:
 
 &emsp;&emsp;(B) enabling scientists and engineers to effectively collaborate in areas important for improving operational global numerical weather prediction skill, including model development, data assimilation techniques, systems architecture integration, and computational efficiencies;
 
-&emsp;&emsp;(C) strengthening the National Oceanic and Atmospheric Administration's ability toundertake research projects in pursuit of substantial advancements in weather forecast skill;
+&emsp;&emsp;(C) strengthening the National Oceanic and Atmospheric Administration's ability to undertake research projects in pursuit of substantial advancements in weather forecast skill;
 
 &emsp;&emsp;(D) utilizing and leverage existing resources across the National Oceanic and Atmospheric Administration enterprise; and
 

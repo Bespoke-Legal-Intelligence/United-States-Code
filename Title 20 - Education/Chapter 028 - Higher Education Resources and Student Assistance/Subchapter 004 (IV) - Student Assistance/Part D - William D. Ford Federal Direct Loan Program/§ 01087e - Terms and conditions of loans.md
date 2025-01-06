@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
 
-&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+&emsp;&emsp;&emsp;(ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the maximum annual amount for such studentdetermined under section 1078–8 of this title, plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
 
 #### (B) Exception
 
@@ -112,7 +112,7 @@
 
 #### (B) In school and grace period rules
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -254,7 +254,7 @@
 
 #### (B) Accountability
 
-&emsp;&emsp;Prior to publishing regulations proposing repayment incentives with respect to loans for which the first disbursement of principal is made before July 1, 2012, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
+&emsp;&emsp;Prior to publishing regulations proposing repayment incentives with respect to loans for which the first disbursement of principal is made before July 1, 2012, the Secretaryshall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
 
 #### (C) No repayment incentives for new loans disbursed on or after July 1, 2012
 
@@ -344,7 +344,7 @@
 
 #### (6) Notification to borrowers
 
-&emsp;The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification ofsuch borrower, that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment, the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+&emsp;The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower, that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment, the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 #### (7) Maximum repayment period
 
@@ -370,7 +370,7 @@
 
 &emsp;&emsp;&emsp;(i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under section 1098h of this title, to determine the repayment obligation of the borrower without further action by the borrower;
 
-&emsp;&emsp;&emsp;(ii) allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this subsection); and
+&emsp;&emsp;&emsp;(ii) allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determinethe repayment obligation of the borrower (or withdraw from the repayment plan under this subsection); and
 
 &emsp;&emsp;&emsp;(iii) provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
 
@@ -510,7 +510,7 @@
 
 #### (ii) Eligibility for borrowers in default
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct ConsolidationLoan under this part in accordance with this paragraph.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
 
 #### (B) Secretarial requirements
 
@@ -540,7 +540,7 @@
 
 #### (ii) Separate application
 
-&emsp;&emsp;&emsp;An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
+&emsp;&emsp;&emsp;An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loanunder subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
 
 &emsp;&emsp;&emsp;&emsp;(I) the individual borrower certifies to the Secretary that such borrower—
 
@@ -584,7 +584,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Payments and refunds
 
-&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forthfor the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
 
 #### (3) Transaction histories
 
@@ -652,7 +652,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and\(4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
 
 #### (2) Consolidation loans
 
@@ -676,43 +676,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 Each institution of higher education with which the Secretary has an agreement under section 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 
-#### (q) Eligibility for, and interest charges on, Federal Direct Stafford Loans for new borrowers on or after July 1, 2013
-
-#### (1) In general
-
-&emsp;Notwithstanding subsection (a) or any other provision of this subchapter, any borrower who was a new borrower on or after July 1, 2013, shall not be eligible for a Federal Direct Stafford Loan if the period of time for which the borrower has received Federal Direct Stafford Loans, in the aggregate, exceeds the period of enrollment described in paragraph (3). Such borrower may still receive any Federal Direct Unsubsidized Stafford Loan for which such borrower is otherwise eligible.
-
-#### (2) Accrual of interest on Federal Direct Stafford Loans
-
-&emsp;Notwithstanding subsection (f)(1)(A) or any other provision of this subchapter and beginning on the date upon which a borrower who is enrolled in a program of education or training (including a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title) for which borrowers are otherwise eligible to receive Federal Direct Stafford Loans, becomes ineligible for such loan as a result of paragraph (1), interest on all Federal Direct Stafford Loans that were disbursed to such borrower on or after July 1, 2013, shall accrue. Such interest shall be paid or capitalized in the same manner as interest on a Federal Direct Unsubsidized Stafford Loan is paid or capitalized under section 1078–8(e)(2) of this title.
-
-#### (3) Period of enrollment
-
-#### (A) In general
-
-&emsp;&emsp;The aggregate period of enrollment referred to in paragraph (1) shall not exceed the lesser of—
-
-&emsp;&emsp;&emsp;(i) a period equal to 150 percent of the published length of the educational program in which the student is enrolled; or
-
-&emsp;&emsp;&emsp;(ii) in the case of a borrower who was previously enrolled in one or more other educational programs that began on or after July 1, 2013, and subject to subparagraph (B), a period of time equal to the difference between—
-
-&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the published length of the longest educational program in which the borrower was, or is, enrolled; and
-
-&emsp;&emsp;&emsp;&emsp;(II) any periods of enrollment in which the borrower received a Federal Direct Stafford Loan.
-
-#### (B) Regulations
-
-&emsp;&emsp;The Secretary shall specify in regulation—
-
-&emsp;&emsp;&emsp;(i) how the aggregate period described in subparagraph (A) shall be calculated with respect to a borrower who was or is enrolled on less than a full-time basis; and
-
-&emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
-
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L.116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200; Pub. L. 117–200, §2(a), Oct. 11, 2022, 136 Stat. 2219; Pub. L. 118–31, div. A, title X, §1054(a), Dec. 22, 2023, 137 Stat. 397.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.</i>
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139,§1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200; Pub. L. 117–200, §2(a), Oct. 11, 2022, 136 Stat. 2219; Pub. L. 118–31, div. A, title X, §1054(a), Dec. 22, 2023, 137 Stat. 397.)
 
 #### <b>Editorial Notes</b>
 
@@ -922,6 +886,30 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to authorize any refunding of any repayment of a loan, see section 8007(e) of Pub. L. 109–171, set out as a note under section 1078 of this title.
 
+#### Ensuring Access to Certain Higher Education Benefits
+
+Pub. L. 118–159, div. A, title V, §559B, Dec. 23, 2024, 138 Stat. 1900, provided that:
+
+"(a)
+
+Data Matching Required.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense and the Secretary of Education shall jointly complete a data matching process—
+
+&emsp;"(1) to identify each individual who, while serving as a covered employee of the Department of Defense, made one or more student loan payments eligible to be counted for purposes of the Public Service Loan Forgiveness program under section 455(m) of the Higher Education Act of 1965 (20 U.S.C. 1087e(m)); and
+
+&emsp;"(2) without requiring further information or action from such individual—
+
+&emsp;&emsp;"(A) to certify the total period of such employment for purposes of such program; and
+
+&emsp;&emsp;"(B) to count the total number of qualifying payments made by the individual for purposes of such program during such period.
+
+"(b)
+
+Covered Employee Defined.—In this section, the term 'covered employee' means an individual who, at any time beginning on or after October 1, 2007, was—
+
+&emsp;"(1) a member of the Armed Forces serving on active duty for a period of more than 30 consecutive days; or
+
+&emsp;"(2) a civilian employee of the Department of Defense."
+
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
 Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
@@ -938,7 +926,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The 2019 novel coronavirus known as SARS–CoV–2, the virus causing outbreaks of the disease COVID–19, has significantly disrupted the lives of Americans. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared, pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.), that the COVID–19 outbreak in the United States constituted a national emergency (the "national emergency"). The same day, I also determined that the COVID–19 outbreak constituted an emergency of nationwide scope, pursuant to section 501(b) of the Stafford Act (42 U.S.C. 5191(b)).
 
-On March 20, 2020, my Administration took action to provide immediate relief to tens of millions of student loan borrowers during the pandemic caused by COVID–19 by both suspending loan payments and temporarily setting interest rates to 0 percent. This relief has helped many students and parents retain financial stability. And many other Americans have continued to routinely pay down their student loan balances, to more quickly eliminate their loans in the long run. During this time, borrowers have been able to determine the best path forward for themselves.
+On March 20, 2020, my Administration took action to provide immediate relief to tens of millions of student loan borrowers during the pandemic caused by COVID–19 by both suspending loan payments and temporarily setting interest rates to 0 percent. This relief has helped many students and parents retain financial stability. And many other Americans have continued to routinely pay down their student loan balances, tomore quickly eliminate their loans in the long run. During this time, borrowers have been able to determine the best path forward for themselves.
 
 The original announcement of this policy specified that it would continue for at least 60 days. In the interim, the Coronavirus Aid, Relief, and Economic Security Act \[Pub. L. 116–136\] provided this same student loan payment relief, but that program is scheduled to expire on September 30, 2020. Currently, many Americans remain unemployed due to the COVID–19 pandemic, and many more have accepted lower wages and reduced hours while States and localities continue to impose social distancing measures. It is therefore appropriate to extend this policy until such time that the economy has stabilized, schools have re-opened, and the crisis brought on by the COVID–19 pandemic has subsided.
 

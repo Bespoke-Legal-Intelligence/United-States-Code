@@ -12,6 +12,10 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–159, div. E, title LIV, §5401, Dec. 23, 2024, 138 Stat. 2449, provided that: "This title \[amending section 1603 of this title and enacting provisions set out as a note under section 309 of this title\] may be cited as the 'Spectrum and Secure Technology and Innovation Act of 2024'."
+
 #### Short Title of 2023 Amendment
 
 Pub. L. 117–338, §1, Jan. 5, 2023, 136 Stat. 6156, provided that: "This Act \[amending sections 152, 153, and 276 of this title and enacting provisions set out as notes under section 152 of this title\] may be cited as the 'Martha Wright-Reed Just and Reasonable Communications Act of 2022'."
@@ -26,7 +30,7 @@ Pub. L. 117–58, div. F, title VI, §60601, Nov. 15, 2021, 135 Stat. 1246, prov
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: "This section \[amendingsection 615a–1 of this title, repealing section 1413 of this title and enacting provisions set out as notes under section 615a–1 of this title\] may be cited as the 'Don't Break Up the T-Band Act of 2020'."
+Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: "This section \[amending section 615a–1 of this title, repealing section 1413 of this title and enacting provisions set out as notes under section 615a–1 of this title\] may be cited as the 'Don't Break Up the T-Band Act of 2020'."
 
 Pub. L. 116–172, §1, Oct. 17, 2020, 134 Stat. 832, provided that: "This Act \[enacting section 251a of this title, amending section 251 of this title, and enacting provisions set out as notes under section 251 of this title\] may be cited as the 'National Suicide Hotline Designation Act of 2020'."
 
@@ -72,7 +76,7 @@ Pub. L. 111–4, §1, Feb. 11, 2009, 123 Stat. 112, provided that: "This Act \[a
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–295, §1, July 30, 2008, 122 Stat. 2972, provided that: "This Act \[amending provisions set out as a note under section 309 of this title\] may be cited as the 'DTV Transition Assistance Act'."
+Pub. L. 110–295, §1, July 30, 2008, 122 Stat. 2972, provided that: "This Act \[amending provisions set out asa note under section 309 of this title\] may be cited as the 'DTV Transition Assistance Act'."
 
 Pub. L. 110–283, §1, July 23, 2008, 122 Stat. 2620, provided that: "This Act \[enacting section 615a–1 of this title and amending sections 222, 615a, 615b, and 942 of this title\] may be cited as the 'New and Emerging Technologies 911 Improvement Act of 2008' or the 'NET 911 Improvement Act of 2008'."
 
@@ -104,7 +108,7 @@ Pub. L. 107–75, §1, Nov. 28, 2001, 115 Stat. 703, provided that: "This Act \[
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1731\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "Thissubtitle \[subtitle C (§§1731–1733) of title XVII of div. B of H.R. 5666, as enacted by section 1(a)(4) of Pub. L. 106–554, amending section 254 of this title and enacting provisions set out as a note under section 254 of this title\] may be cited as the 'Neighborhood Children's Internet Protection Act'."
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1731\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "This subtitle \[subtitle C (§§1731–1733) of title XVII of div. B of H.R. 5666, as enacted by section 1(a)(4) of Pub. L. 106–554, amending section 254 of this title and enacting provisions set out as a note under section 254 of this title\] may be cited as the 'Neighborhood Children's Internet Protection Act'."
 
 #### Short Title of 1999 Amendments
 
@@ -208,5 +212,5 @@ Pub. L. 86–752, §1, Sept. 13, 1960, 74 Stat. 889, provided that: "This Act \[
 
 #### Short Title of 1952 Amendment
 
-Act July 16, 1952, ch. 879, §1, 66 Stat. 711, provided that: "This Act \[enacting section 1343 of Title 18, Crimes and Criminal Procedure, amending sections 153 to 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes under section 153 of this title\] may be cited as the 'Communications Act Amendments, 1952'."
+Act July 16, 1952, ch. 879, §1, 66 Stat. 711, provided that: "This Act \[enacting section 1343 of Title 18, Crimes and Criminal Procedure, amending sections 153 to 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes undersection 153 of this title\] may be cited as the 'Communications Act Amendments, 1952'."
 

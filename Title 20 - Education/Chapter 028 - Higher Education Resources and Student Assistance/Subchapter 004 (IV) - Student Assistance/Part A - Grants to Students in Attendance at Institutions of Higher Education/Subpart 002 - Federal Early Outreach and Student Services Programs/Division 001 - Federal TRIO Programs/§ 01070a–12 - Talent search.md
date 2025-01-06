@@ -52,7 +52,7 @@ Any project assisted under this section may provide services such as—
 
 &emsp;(6) mentoring programs involving elementary or secondary school teachers or counselors, faculty members at institutions of higher education, students, or any combination of such persons; and
 
-&emsp;(7) programs and activities as described in subsection (b) or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term isdefined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(7) programs and activities as described in subsection (b) or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (d) Requirements for approval of applications
 
@@ -60,7 +60,7 @@ In approving applications for projects under this section for any fiscal year th
 
 &emsp;(1) require an assurance that not less than two-thirds of the individuals participating in the project proposed to be carried out under any application be low-income individuals who are first generation college students;
 
-&emsp;(2) require that such participants be persons who either have completed 5 years of elementary education or are at least 11 years of age but not more than 27 years of age, unless the imposition of any such limitation with respect to any person would defeat the purposes of this section or the purposes of section 1070a–16 of this title;
+&emsp;(2) require that such participants be persons who either have completed 5 years of elementary education or are at least 11 years of age but not more than 27 years of age, unless the imposition of any such limitation with respect to any person would defeat the purposes ofthis section or the purposes of section 1070a–16 of this title;
 
 &emsp;(3) require an assurance that individuals participating in the project proposed in the application do not have access to services from another project funded under this section or under section 1070a–16 of this title; and
 

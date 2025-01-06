@@ -24,7 +24,7 @@
 
 &emsp;(G) All grants made pursuant to this subsection shall be awarded on a competitive basis through a neutral peer review process.
 
-&emsp;(H) At the beginning of the fiscal year, the Administrator of FEMA shall set aside 10 percent of the funds appropriated for carrying out this paragraph for departments with majority volunteer or all volunteer personnel. After awards have been made, if less than 10 percent of the funds appropriated for carrying out this paragraph are not awarded to departments with majority volunteer or all volunteer personnel, the Administrator of FEMA shall transfer from funds appropriated for carrying out this paragraph to funds available for carrying out paragraph (2) an amount equal to the difference between the amount that is provided to such fire departments and 10 percent.
+&emsp;(H) At the beginning of the fiscal year, the Administrator of FEMA shall set aside 10 percent of the funds appropriated for carrying out this paragraph for departments with majority volunteer or all volunteer personnel. After awards have been made, if less than 10 percent of the funds appropriated for carrying out thisparagraph are not awarded to departments with majority volunteer or all volunteer personnel, the Administrator of FEMA shall transfer from funds appropriated for carrying out this paragraph to funds available for carrying out paragraph (2) an amount equal to the difference between the amount that is provided to such fire departments and 10 percent.
 
 #### (2) Recruitment and retention grants
 
@@ -102,7 +102,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator of FEMA shall establish a performance assessment system, including quantifiable performance metrics, to evaluate the extent to which grants awarded under this section are furthering the purposes of this section.
+&emsp;The Administrator of FEMA shall establish a performance assessment system, includingquantifiable performance metrics, to evaluate the extent to which grants awarded under this section are furthering the purposes of this section.
 
 #### (2) Submittal of information
 
@@ -148,15 +148,9 @@ In this section:
 
 &emsp;&emsp;(F) $1,159,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(G) $1,194,000,000 for fiscal year 2010;
+&emsp;&emsp;(G) $1,194,000,000 for fiscal year 2010; and
 
-&emsp;&emsp;(H) $750,000,000 for fiscal year 2013; and
-
-&emsp;&emsp;(I) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
-
-&emsp;&emsp;&emsp;(i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
-
-&emsp;&emsp;&emsp;(ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).
+&emsp;&emsp;(H) $750,000,000 for each of fiscal years 2024 through 2028.
 
 #### (2) Administrative expenses
 
@@ -168,9 +162,9 @@ In this section:
 
 #### (k) Sunset of authorities
 
-The authority to award assistance and grants under this section shall expire on September 30, 2024.
+The authority to award assistance and grants under this section shall expire on September 30, 2030.
 
-(Pub. L. 93–498, §34, as added Pub. L. 108–136, div. A, title X, §1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, §1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, §1091(b)(9), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–255, div. B, title XIV, §14001(c), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–98, §4, Jan. 3, 2018, 131 Stat. 2240.)
+(Pub. L. 93–498, §34, as added Pub. L. 108–136, div. A, title X, §1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, §1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, §1091(b)(9), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–255, div. B, title XIV, §14001(c), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–98, §4, Jan. 3, 2018, 131 Stat. 2240; Pub. L. 118–67, div. A, §4, July 9, 2024, 138 Stat. 1447.)
 
 #### <b>Editorial Notes</b>
 
@@ -183,6 +177,16 @@ Section 203(y) of title 29, referred to in subsec. (i)(1), was in the original "
 A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classified to section 2231 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (j)(1)(H). Pub. L. 118–67, §4(b)(2), substituted "each of fiscal years 2024 through 2028." for "fiscal year 2013; and".
+
+Subsec. (j)(1)(I). Pub. L. 118–67, §4(b)(1), (3), struck out subpar. (I) which read as follows: "for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+
+&emsp;"(i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
+
+&emsp;"(ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A)."
+
+Subsec. (k). Pub. L. 118–67, §4(a), substituted "2030" for "2024".
 
 <b>2018</b>—Subsec. (a)(1)(B). Pub. L. 115–98, §4(f), substituted "firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title) firefighters to full-time firefighters" for "firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises".
 

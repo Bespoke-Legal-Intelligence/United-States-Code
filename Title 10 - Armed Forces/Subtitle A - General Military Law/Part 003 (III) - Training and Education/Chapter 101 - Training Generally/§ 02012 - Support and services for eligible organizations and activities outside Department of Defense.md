@@ -48,7 +48,7 @@ Eligible Entities.—The following organizations and activities are eligible for
 
 &emsp;(2) Youth and charitable organizations specified in section 508 of title 32.
 
-&emsp;(3) Owners and operators of critical infrastructure (as such term is defined in section1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e))).
+&emsp;(3) Owners and operators of critical infrastructure (as such term is defined in section 1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e))).
 
 &emsp;(4) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
 
@@ -114,11 +114,11 @@ Oversight and Cost Accounting.—The Secretary of Defense shall establish a prog
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat.2135. Title XXII of the Act is classified principally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 #### Amendments
 
-<b>2023</b>—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted ", except as provided in paragraph (2)," before "for response" in subpar. (A), and added par. (2).
+<b>2023</b>—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, of par. (1), inserted ", except as provided in paragraph (2)," before "for response" in subpar. (A), and added par. (2).
 
 <b>2022</b>—Subsec. (h)(3). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 

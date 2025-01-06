@@ -1,6 +1,6 @@
 ### §1287. Authorization of appropriations
 
-There are hereby authorized to be appropriated, including such sums as have heretofore been appropriated, the following amounts for land acquisition for each of the rivers (described in section 1274(a) of this title):
+There are hereby authorized to be appropriated, including such sums as have heretoforebeen appropriated, the following amounts for land acquisition for each of the rivers (described in section 1274(a) of this title):
 
 &emsp;Clearwater, Middle Fork, Idaho, $2,909,800;
 

@@ -44,7 +44,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 #### (A) Use of payment
 
-&emsp;&emsp;The application of any payment made under this subsection to the assessed tax orother amounts imposed under this title with respect to such tax may be specified by the taxpayer.
+&emsp;&emsp;The application of any payment made under this subsection to the assessed tax or other amounts imposed under this title with respect to such tax may be specified by the taxpayer.
 
 #### (B) Application of user fee
 

@@ -18,7 +18,7 @@ Consent of Member Required.—The notification under subsection (a) may be provi
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "admitted to any military medical treatment facility" for"admitted to a military treatment facility within the United States".
+<b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "admitted to any military medical treatment facility" for "admitted to a military treatment facility within the United States".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

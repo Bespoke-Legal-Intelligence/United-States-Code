@@ -26,7 +26,7 @@ Grants awarded to States or Indian tribes under this section may only be used to
 
 &emsp;(6) collect and analyze data needed to demonstrate levels of State compliance with this chapter; and
 
-&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no morethan 10 percent of each grant shall be used for this purpose.
+&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
 
 #### (c) Eligibility
 
@@ -46,7 +46,7 @@ As a condition of receiving a grant under this section, a State shall specify th
 
 #### (A) Establishment
 
-&emsp;&emsp;For each of fiscal years 2018 through 2022, the Attorney General shall create a priority area under the NICS Act Record Improvement Program (commonly known as "NARIP") for a Domestic Abuse and Violence Prevention Initiative that emphasizes the need for grantees to identify and upload all felony conviction records and domestic violence records.
+&emsp;&emsp;For each of fiscal years 2018 through 2022, the Attorney General shall create a priorityarea under the NICS Act Record Improvement Program (commonly known as "NARIP") for a Domestic Abuse and Violence Prevention Initiative that emphasizes the need for grantees to identify and upload all felony conviction records and domestic violence records.
 
 #### (B) Funding
 

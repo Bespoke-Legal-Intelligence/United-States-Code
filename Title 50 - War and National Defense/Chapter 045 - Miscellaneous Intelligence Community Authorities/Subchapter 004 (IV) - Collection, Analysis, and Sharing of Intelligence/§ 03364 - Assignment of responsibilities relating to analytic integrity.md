@@ -26,7 +26,7 @@ For purposes of carrying out section 3024(h) of this title, the Director of Nati
 
 #### (c) Annual briefings
 
-Not later than December 1 each year, the Director of National Intelligence shall provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with a description, and the associated findings, of each review under subsection (b)(1)(B) during such year.
+Not later than February 1 each year, the Director of National Intelligence shall provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with a description, and the associated findings, of each review under subsection (b)(1)(B) during such year.
 
 #### (d) Congressional intelligence committees defined
 
@@ -36,7 +36,7 @@ In this section, the term "congressional intelligence committees" means—
 
 &emsp;(2) the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 108–458, title I, §1019, Dec. 17, 2004, 118 Stat. 3671; Pub. L. 116–92, div. E, title LVII, §5701(b), Dec. 20, 2019, 133 Stat. 2159.)
+(Pub. L. 108–458, title I, §1019, Dec. 17, 2004, 118 Stat. 3671; Pub. L. 116–92, div. E, title LVII, §5701(b), Dec. 20, 2019, 133 Stat. 2159; Pub. L. 118–159, div. F, title LXIX, §6901(b), Dec. 23, 2024, 138 Stat. 2516.)
 
 #### <b>Editorial Notes</b>
 
@@ -45,6 +45,8 @@ In this section, the term "congressional intelligence committees" means—
 Section was formerly classified to section 403–1a of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–159 substituted "February 1" for "December 1".
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 substituted "briefings" for "reports" in heading and "provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with" for "submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing" in text.
 

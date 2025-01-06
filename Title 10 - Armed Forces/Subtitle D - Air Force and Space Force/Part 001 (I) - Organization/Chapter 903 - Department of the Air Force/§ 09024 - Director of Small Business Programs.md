@@ -30,7 +30,7 @@ Prior sections 9025 and 9027 were renumbered sections 9375 and 9377 of this titl
 
 #### Change of Name
 
-The Director of Small and Disadvantaged Business Utilization of the Department of the Air Force and the Office of Small and Disadvantaged Business Utilization of the Department of the Air Force were redesignated the Director of Small Business Programs of the Department of the Air Force and the Office of Small Business Programs of the Department of the Air Force, respectively, by Pub. L. 109–163 which also provided that references to the former were deemed to refer to the latter. See section 904(a) of Pub. L. 109–163, set out as a note under section 144 of this title.
+The Director of Small and Disadvantaged Business Utilization of the Department of the Air Force and theOffice of Small and Disadvantaged Business Utilization of the Department of the Air Force were redesignated the Director of Small Business Programs of the Department of the Air Force and the Office of Small Business Programs of the Department of the Air Force, respectively, by Pub. L. 109–163 which also provided that references to the former were deemed to refer to the latter. See section 904(a) of Pub. L. 109–163, set out as a note under section 144 of this title.
 
 #### Effective Date of 2018 Amendment
 

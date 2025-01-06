@@ -14,7 +14,7 @@
 
 &emsp;(6) to violate any of the provisions of section 218d of this title.
 
-(b) For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence thatsuch employee was engaged in the production of such goods.
+(b) For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
 
 (June 25, 1938, ch. 676, §15, 52 Stat. 1068; Oct. 26, 1949, ch. 736, §13, 63 Stat. 919; 1950 Reorg. Plan No. 6, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263; Pub. L. 117–328, div. KK, §102(b)(1), Dec. 29, 2022, 136 Stat. 6095.)
 

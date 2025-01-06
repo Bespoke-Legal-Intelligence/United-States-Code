@@ -40,7 +40,7 @@ Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 1
 
 #### Prior Provisions
 
-A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m)\[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, related to information for Federal agencies, prior to the general amendment of this chapter by Pub. L. 96–511.
 
@@ -83,6 +83,272 @@ Delayed Application.—In the case of a collection of information for which ther
 #### Short Title
 
 This chapter is popularly known as the "Paperwork Reduction Act".
+
+#### Source Code Harmonization And Reuse in Information Technology
+
+Pub. L. 118–187, Dec. 23, 2024, 138 Stat. 2638, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Source code Harmonization And Reuse in Information Technology Act' or the 'SHARE IT Act'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Agency.—The term 'agency' has the meaning given that term in section 3502 of title 44, United States Code.
+
+&emsp;"(2)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives.
+
+&emsp;"(3)
+
+Custom-developed code.—The term 'custom-developed code'—
+
+&emsp;&emsp;"(A) means source code that is—
+
+&emsp;&emsp;&emsp;"(i) produced in the performance of a contract with an agency or is otherwise exclusively funded by the Federal Government; or
+
+&emsp;&emsp;&emsp;"(ii) developed by a Federal employee as part of the official duties of the employee;
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) source code, or segregable portions of source code, for which the Federal Government could obtain unlimited rights under part 27 of the Federal Acquisition Regulation or any relevant supplemental acquisition regulations of an agency; and
+
+&emsp;&emsp;&emsp;"(ii) source code written for a software project, module, plugin, script, middleware, or application programming interface; and
+
+&emsp;&emsp;"(C) does not include—
+
+&emsp;&emsp;&emsp;"(i) source code that is solely exploratory or disposable in nature, including source code written by a developer experimenting with a new language or library; or
+
+&emsp;&emsp;&emsp;"(ii) commercial computer software, commercial off-the-shelf software, or configuration scripts for such software.
+
+&emsp;"(4)
+
+Federal employee.—The term 'Federal employee' has the meaning given the term in section 2105(a) of title 5, United States Code.
+
+&emsp;"(5)
+
+Metadata.—The term 'metadata', with respect to custom-developed code—
+
+&emsp;&emsp;"(A) has the meaning given that term in section 3502 of title 44, United States Code; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) information on whether the custom-developed code was—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) produced pursuant to a contract; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) shared in a public or private repository;
+
+&emsp;&emsp;&emsp;"(ii) any contract number under which the custom-developed code was produced; and
+
+&emsp;&emsp;&emsp;"(iii) any hyperlink to the repository in such \[sic\] the code was shared.
+
+&emsp;"(6)
+
+Private repository.—The term 'private repository' means a software storage location—
+
+&emsp;&emsp;"(A) that contains source code, documentation, configuration scripts, as appropriate, revision history, and other files; and
+
+&emsp;&emsp;"(B) access to which is restricted to only authorized users.
+
+&emsp;"(7)
+
+Public repository.—The term 'public repository' means a software storage location—
+
+&emsp;&emsp;"(A) that contains source code, documentation, configuration scripts, as appropriate, revision history, and other files; and
+
+&emsp;&emsp;"(B) access to which is open to the public.
+
+&emsp;"(8)
+
+Software.—The term 'software' has the meaning given the term 'computer software' in section 2.101 of title 48, Code of Federal Regulations, or any successor regulation.
+
+&emsp;"(9)
+
+Source code.—The term 'source code' means a collection of computer commands written in a computer programming language that a computer can execute as a piece of software.
+
+#### "SEC. 3. SOFTWARE REUSE.
+
+"(a)
+
+Sharing.—Not later than 210 days after the date of enactment of this Act \[Dec. 23, 2024\], the head of each agency shall ensure that the custom-developed code of the agency and other key technical components of the code (including documentation, data models, schemas, metadata, architecture designs, configuration scripts, and artifacts required to develop, build, test, and deploy the code) of the code \[sic\] are—
+
+&emsp;"(1) stored at not less than 1 public repository or private repository;
+
+&emsp;"(2) accessible to Federal employees via procedures developed under subsection (d)(1)(A)(ii)(III); and
+
+&emsp;"(3) owned by the agency.
+
+"(b)
+
+Software Reuse Rights in Procurement Contracts.—The head of an agency that enters into a contract for the custom development of software shall acquire and exercise rights sufficient to enable the governmentwide access to, sharing of, use of, and modification of any custom-developed code created in the development of such software.
+
+"(c)
+
+Discovery.—Not later than 210 days after the date of enactment of this Act, the head of each agency shall make metadata created on or after such date for the custom-developed code of the agency publicly accessible.
+
+"(d)
+
+Accountability Mechanisms.—
+
+&emsp;"(1)
+
+Agency cios.—Not later than 180 days after the date of enactment of this Act, the Chief Information Officer of each agency, in consultation with the Chief Acquisition Officer, or similar official, of the agency and the Administrator of the Office of Electronic Government, shall develop an agency-wide policy that—
+
+&emsp;&emsp;"(A) implements the requirements of this Act, including—
+
+&emsp;&emsp;&emsp;"(i) ensuring that custom-developed code follows the best practices established by the Director of the Office and Management and Budget under paragraph (3) for operating repositories and version control systems to keep track of changes and to facilitate collaboration among multiple developers; and
+
+&emsp;&emsp;&emsp;"(ii) managing the sharing of custom-developed code under subsection (b), and the public accessibility of metadata under subsection (c), including developing—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) procedures to determine whether any custom-developed code meets the conditions under section 4(b) for an exemption under this Act;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) procedures for making metadata for custom-developed code publicly accessible pursuant to subsection (c);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) procedures for Federal employees to gain access to public repositories and private repositories that contain custom developed source code; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) standardized reporting practices across the agency to capture key information relating to a contract under which custom-developed source code was produced for reporting statistics about the contract; and
+
+&emsp;&emsp;"(B) corrects or amends any policies of the agency that are inconsistent with the requirements of this Act.
+
+&emsp;"(2)
+
+Administrator of the office of electronic government.—
+
+&emsp;&emsp;"(A)
+
+Minimum standard reporting requirements.—Not later than 120 days after the date of enactment of this Act, the Administrator of the Office of Electronic Government shall establish minimum standard reporting requirements for the Chief Information Officers of agencies, which shall include information relating to—
+
+&emsp;&emsp;&emsp;"(i) measuring the frequency of reuse of code, including access and modification under subsection (b);
+
+&emsp;&emsp;&emsp;"(ii) whether the shared code is maintained;
+
+&emsp;&emsp;&emsp;"(iii) whether there is a feedback mechanism for improvements to or community development of the shared code; and
+
+&emsp;&emsp;&emsp;"(iv) the number and circumstances of all exemptions granted under section 4(a)(2).
+
+&emsp;&emsp;"(B)
+
+Reporting requirement.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Requirement.—Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Administrator of the Office of Electronic Government shall publish on a centralized website a report on the implementation of this Act that includes—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a complete list of all exemptions granted under section 4(a)(2); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) information showing whether each agency has updated the acquisition and other policies of the agency to be compliant with this Act.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Open government data asset.—The report under clause (i) shall be maintained as an open Government data asset (as defined in section 3502 of title 44, United States Code).
+
+&emsp;"(3)
+
+Guidance.—The Director of the Office of Management and Budget shall issue guidance, consistent with the purpose of this Act, that establishes best practices and uniform procedures across agencies for the purposes of implementing this subsection.
+
+#### "SEC. 4. EXEMPTIONS.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Automatic.—
+
+&emsp;&emsp;"(A)
+
+In general.—This Act shall not apply to classified source code or source code developed primarily for use in a national security system (as defined in section 11103 of title 40, United States Code).
+
+&emsp;&emsp;"(B)
+
+National security.—An exemption from the requirements under section 3 shall apply to classified source code or source code developed—
+
+&emsp;&emsp;&emsp;"(i) primarily for use in a national security system (as defined in section 11103 of title 40, United States Code); or
+
+&emsp;&emsp;&emsp;"(ii) by an agency, or part of an agency, that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))\[)\].
+
+&emsp;&emsp;"(C)
+
+Freedom of information act.—An exemption from the requirements under section 3 shall apply to source code the disclosure of which is exempt under section 552(b) of title 5, United States Code (commonly known as the 'Freedom of Information Act').
+
+&emsp;"(2)
+
+Discretionary.—
+
+&emsp;&emsp;"(A)
+
+Exemption and guidance.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Chief Information Officer of an agency, in consultation with the Federal Privacy Council, or any successor thereto, may exempt from the requirements of section 3 any source code for which a limited exemption described in subparagraph (B) applies.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Guidance required.—The Federal Privacy Council shall provide guidance to the Chief Information Officer of each agency relating to the limited exemption described in subparagraph (B)(ii) to ensure consistent application of this paragraph across agencies.
+
+&emsp;&emsp;"(B)
+
+Limited exemptions.—The limited exemptions described in this paragraph are the following:
+
+&emsp;&emsp;&emsp;"(i) The head of the agency is prohibited from providing the source code to another individual or entity under another Federal law or regulation, including under—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Export Administration Regulations;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the International Traffic in Arms Regulations;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the regulations of the Transportation Security Administration relating to the protection of Sensitive Security Information; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the Federal laws and regulations governing the sharing of classified information not covered by the exemption in paragraph (1).
+
+&emsp;&emsp;&emsp;"(ii) The sharing or public accessibility of the source code would create an identifiable risk to the privacy of an individual.
+
+"(b)
+
+Reports Required.—
+
+&emsp;"(1)
+
+Agency reporting.—Not later than December 31 of each year, the Chief Information Officer of an agency shall submit to the Administrator of the Office of Electronic Government a report of the source code of the agency to which an exemption under paragraph (1) or (2) of subsection (a) applied during the fiscal year ending on September 30 of that year with a brief narrative justification of each exemption.
+
+&emsp;"(2)
+
+Annual report to congress.—Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2024\], and annually thereafter, the Administrator ofthe Office of Electronic Government shall submit to the appropriate congressional committees a report on all exemptions granted under paragraph (1) or (2) of subsection (a) by each agency, including a compilation of all information, including the narrative justification, relating to each such exemption.
+
+&emsp;"(3)
+
+Form.—The reports under paragraphs (1) and (2) shall be submitted in unclassified form, with a classified annex as appropriate.
+
+#### "SEC. 5. GAO REPORT.
+
+"Not later than 2 years after the date of enactment of this Act \[Dec. 23, 2024\], the Comptroller General of the United States shall submit to Congress a report that includes an assessment of the implementation of this Act.
+
+#### "SEC. 6. RULE OF CONSTRUCTION.
+
+"Nothing in this Act may be construed as requiring the disclosure of information or records that are exempt from public disclosure under section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act').
+
+#### "SEC. 7. APPLICATION.
+
+"This Act shall apply to custom-developed code that is developed or revised—
+
+&emsp;"(1) by a Federal employee not less than 180 days after the date of enactment of this Act \[Dec. 23, 2024\]; or
+
+&emsp;"(2) under a contract awarded pursuant to a solicitation issued not less than 180 days after the date of enactment of this Act.
+
+#### "SEC. 8. REVISION OF FEDERAL ACQUISITION REGULATION.
+
+"Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2024\], the Federal Acquisition Regulation shall be revised as necessary to implement the provisions of this Act.
+
+#### "SEC. 9. NO ADDITIONAL FUNDING.
+
+"No additional funds are authorized to be appropriated to carry out this Act."
 
 #### Implementation of Technology for Classification and Declassification
 
@@ -398,7 +664,7 @@ Criteria.—To the extent practicable, the integrated system shall be designed a
 
 &emsp;&emsp;"(B) An ongoing effort to ensure that Internet-based Government services relevant to a given citizen activity are available from a single point.
 
-&emsp;&emsp;"(C) Access to Federal Government information and services consolidated, as appropriate, with Internet-based information and services provided by State, local, and tribal governments.
+&emsp;&emsp;"(C) Access to Federal Government information and services consolidated, as appropriate, withInternet-based information and services provided by State, local, and tribal governments.
 
 &emsp;&emsp;"(D) Access to Federal Government information held by 1 or more agencies shall be made available in a manner that protects privacy, consistent with law.
 
@@ -504,7 +770,7 @@ Election.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Notification.—The Chief Justice of the United States, a chief judge, or chief bankruptcy judge may submit a notification to the Administrative Office of the United States Courts to defer compliance with any requirement of this section with respect to the Supreme Court, a court of appeals, district, or the bankruptcy court of a district.
+Notification.—The Chief Justice of the United States, a chief judge, or chief bankruptcy judge may submit a notification to the Administrative Office of the United States Courts to defer compliance with any requirement of this sectionwith respect to the Supreme Court, a court of appeals, district, or the bankruptcy court of a district.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -740,7 +1006,7 @@ Public domain directory of public federal government websites.—
 
 &emsp;&emsp;"(A)
 
-Establishment.—Not later than 2 years after the effective date of this title \[see EffectiveDate note set out under section 3601 of this title\], the Director and each agency shall—
+Establishment.—Not later than 2 years after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], the Director and each agency shall—
 
 &emsp;&emsp;&emsp;"(i) develop and establish a public domain directory of public Federal Government websites; and
 
@@ -878,7 +1144,7 @@ Agency activities.—To the extent required under subparagraph (A), each agency 
 
 &emsp;&emsp;&emsp;"(i) conduct a privacy impact assessment;
 
-&emsp;&emsp;&emsp;"(ii) ensure the review of the privacy impact assessment by the Chief Information Officer, orequivalent official, as determined by the head of the agency; and
+&emsp;&emsp;&emsp;"(ii) ensure the review of the privacy impact assessment by the Chief Information Officer, or equivalent official, as determined by the head of the agency; and
 
 &emsp;&emsp;&emsp;"(iii) if practicable, after completion of the review under clause (ii), make the privacy impact assessment publicly available through the website of the agency, publication in the Federal Register, or other means.
 
@@ -1332,7 +1598,7 @@ Purposes.—The purposes of this section are to—
 
 "(b)
 
-Study and Report.—Not later than 2 years after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], the Administrator shall—
+Study and Report.—Not later than 2 years after the effective date of this title \[see Effective Date noteset out under section 3601 of this title\], the Administrator shall—
 
 &emsp;"(1) ensure that a study is conducted to evaluate the best practices of community technology centers that have received Federal funds; and
 
@@ -1474,7 +1740,7 @@ Authorization of appropriations.—There are authorized to be appropriated for r
 
 "(c)
 
-Pilot Projects.—Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further the goal of maximizing the utility of information technology in disaster management. The Administrator shall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
+Pilot Projects.—Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further thegoal of maximizing the utility of information technology in disaster management. The Administrator shall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
 
 #### "SEC. 215. DISPARITIES IN ACCESS TO THE INTERNET.
 
@@ -1584,7 +1850,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, which related to conf
 
 #### Waiver of Paperwork Reduction
 
-Pub. L. 101–508, title IV, §4711(f), Nov. 5, 1990, 104 Stat. 1388–187, provided that: "Chapter 35 of title 44, United States Code, and Executive Order 12291 \[formerly set out as a note under section 601 of Title 5, Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act."
+Pub. L. 101–508, title IV, §4711(f), Nov. 5, 1990, 104 Stat. 1388–187, provided that: "Chapter 35 of title 44, UnitedStates Code, and Executive Order 12291 \[formerly set out as a note under section 601 of Title 5, Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act."
 
 #### <b>Executive Documents</b>
 

@@ -80,7 +80,7 @@ The following security requirements shall apply with respect to United States di
 
 &emsp;&emsp;(A) develop annual physical fitness standards for all diplomatic security agents to ensure that the agents are prepared to carry out all of their official responsibilities; and
 
-&emsp;&emsp;(B) provide for an independent evaluation by an outside entity of the overall adequacyof current new agent, in-service, and management training programs to prepare agents to carry out the full scope of diplomatic security responsibilities, including preventing attacks on United States personnel and facilities.
+&emsp;&emsp;(B) provide for an independent evaluation by an outside entity of the overall adequacy of current new agent, in-service, and management training programs to prepare agents to carry out the full scope of diplomatic security responsibilities, including preventing attacks on United States personnel and facilities.
 
 #### (6) State Department support
 
@@ -112,7 +112,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (7) Rapid response procedures
 
-&emsp;The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities, including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack.
+&emsp;The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities, including at high risk, high threat posts (as such term is defined in section4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack.
 
 #### (8) Storage of emergency equipment and records
 
@@ -144,7 +144,7 @@ Subsec. (a)(3)(A). Pub. L. 117–263, §9301(e)(2)(C)(i), amended subpar. (A) ge
 
 Subsec. (a)(3)(B)(i). Pub. L. 117–263, §9301(e)(2)(C)(ii)(I), struck out "security considerations permit and" after "if the Secretary determines that" and inserted "after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions" after "national interest of the United States".
 
-Subsec. (a)(3)(B)(ii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(II), substituted "Prior" for subcl. (I), subcl. (II) designation and heading, and "Not less than 15 days prior". Prior to amendment, text of subcl. (I) read as follows: "The Secretary may not delegate thewaiver authority under clause (i) with respect to a chancery or consulate building."
+Subsec. (a)(3)(B)(ii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(II), substituted "Prior" for subcl. (I), subcl. (II) designation and heading, and "Not less than 15 days prior". Prior to amendment, text of subcl. (I) read as follows: "The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building."
 
 Subsec. (a)(3)(B)(iii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(III), substituted "a quarterly" for "an annual".
 
@@ -153,6 +153,156 @@ Subsec. (a)(3)(B)(iii). Pub. L. 117–263, §9301(e)(2)(C)(ii)(III), substituted
 Subsec. (a)(7). Pub. L. 114–323, §102(2), inserted before period at end ", including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Overseas Crisis Response System and Strategy
+
+Pub. L. 118–159, div. G, title LXXII, §7216, Dec. 23, 2024, 138 Stat. 2538, provided that:
+
+"(a)
+
+Senior Focal Point on Crisis Management and Response.—
+
+&emsp;"(1)
+
+Designation.—The Secretary \[of State\] shall designate a senior official with significant experience in crisis management and response to support the Department's \[Department of State's\] response to and management of international crises as defined in subsection (e).
+
+&emsp;"(2)
+
+Duties.—The Senior Focal Point for Crisis Management and Response shall facilitate the Department's coordinated response to crisis management and response, in a manner consistent with roles and responsibilities of other senior Department and USAID \[United States Agency for International Development\] personnel assigned to address and implement crisis management and response activities, and will carry out relevant activities to include the following:
+
+&emsp;&emsp;"(A) Coordinate the Department's response to and management of international crises.
+
+&emsp;&emsp;"(B) Coordinate with regional and other relevant Department bureaus and USAID on such crises and other matters relevant to crisis management and response.
+
+&emsp;&emsp;"(C) Facilitate information necessary for the execution of after-action reviews after international crises.
+
+&emsp;&emsp;"(D) Maintain close liaison with the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] regarding the Department's response to and management of international crises.
+
+&emsp;&emsp;"(E) Undertake other duties, as determined by the Secretary in consultation with the Administrator \[of the United States Agency for International Development\], relevant to crisis management and response.
+
+&emsp;"(3)
+
+Reporting.—The Senior Focal Point for Crisis Management and Response shall report directly to the Secretary in the execution of the duties described under paragraph (2).
+
+"(b)
+
+Tabletop Exercises and Simulations.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2024\], and not less frequently than annually thereafter for 3 years, the Secretary shall direct the relevant offices of the Department to ensure a tabletop exercise or simulation on international crises is conducted by the Department. The tabletop exercise or simulation should be conducted in the Washington, D.C. metropolitan area.
+
+&emsp;"(2)
+
+Matters to be included.—The Secretary shall ensure that such exercises or simulations address the Department's crisis response and evacuation requirements, and should include—
+
+&emsp;&emsp;"(A) the necessary and appropriate information to outline the crisis management roles and responsibilities of the Department's senior leadership;
+
+&emsp;&emsp;"(B) established Department crisis management structures for international crises;
+
+&emsp;&emsp;"(C) required processes, personnel, and resources for operational drawdown and evacuation operations in international crises; and
+
+&emsp;&emsp;"(D) all procedures relevant to the identification of, coordination with, and the provision of assistance to—
+
+&emsp;&emsp;&emsp;"(i) private United States citizens;
+
+&emsp;&emsp;&emsp;"(ii) United States Government employees and their dependents;
+
+&emsp;&emsp;&emsp;"(iii) United States allies and partners;
+
+&emsp;&emsp;&emsp;"(iv) local nationals who have assisted United States Government efforts; and
+
+&emsp;&emsp;&emsp;"(v) third-country nationals.
+
+&emsp;"(3)
+
+Leadership; participation.—The Secretary shall ensure that—
+
+&emsp;&emsp;"(A) the Department's Senior Focal Point on Crisis Management and Response, the Operation Center's Crisis Management and Strategy team, the Foreign Service Institute's Leadership and Management School's Crisis Management Training division, or other Department operating units, as determined to be appropriate by the Secretary, lead such exercises or simulations; and
+
+&emsp;&emsp;"(B) such exercises or simulations include the participation of the Department's relevant senior leadership and staff, including leadership and staff from regional and relevant functional bureaus.
+
+&emsp;"(4)
+
+Consultation.—Such exercises or simulations may be conducted in consultation with—
+
+&emsp;&emsp;"(A) the Department of Defense;
+
+&emsp;&emsp;"(B) other Federal agencies; and
+
+&emsp;&emsp;"(C) State and local government entities.
+
+&emsp;"(5)
+
+Participation.—The Secretary may, as consistent with the national security interests of the United States, invite to participate in such exercises or simulations—
+
+&emsp;&emsp;"(A) foreign allies and partners; and
+
+&emsp;&emsp;"(B) civil society and nongovernmental organizations, including those that have directly engaged in crisis response efforts in the past.
+
+&emsp;"(6)
+
+Briefing.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (C), not later than 90 days after the completion of any tabletop exercise or simulation required under paragraph (1), the Department shall brief the appropriate congressional committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives on the organization of the tabletop exercise or simulation. The briefing, or particular elements therein, may be provided in a classified format.
+
+&emsp;&emsp;"(B)
+
+Elements.—The briefing required under subparagraph (A) should—
+
+&emsp;&emsp;&emsp;"(i) provide a description of the tabletop exercise or simulation;
+
+&emsp;&emsp;&emsp;"(ii) identify, as appropriate, key participants in the tabletop exercise or simulation;
+
+&emsp;&emsp;&emsp;"(iii) include any deficiencies identified in prior tabletop exercise and plans to mitigate such deficiencies;
+
+&emsp;&emsp;&emsp;"(iv) provide a summary of the supporting capabilities, including infrastructure, prepositioned equipment and supplies, personnel and other supporting logistics capabilities, required to respond to the simulated international crisis; and
+
+&emsp;&emsp;&emsp;"(v) include such other information as determined necessary or appropriate by the Secretary.
+
+&emsp;&emsp;"(C)
+
+Notification in lieu of briefing.—Beginning on the date that is 3 years after the date of the enactment of this Act, the Secretary shall, not later than 90 days after the completion of any tabletop exercise or simulation required under paragraph (1), submit to the appropriate congressional committees a notice of such exercise or simulation which shall be in lieu of a briefing reviewing the tabletop exercise or simulation required under subparagraph (A).
+
+"(c)
+
+Foreign Service Institute Training.—The Secretary shall ensure existing crisis management curricula and courses offerings are reviewed for accuracy and tailored to relevant audiences. In addition, the Foreign Service Institute should ensure that the ambassadorial seminar and Deputy Chief of Mission course include curriculum on crisis management, including one or more of the following:
+
+&emsp;"(1) The use of regular internal town halls and targeted messages from the Ambassador or Deputy Chief of Mission to support mission objectives during crisis periods.
+
+&emsp;"(2) Established best practices for internal communications specific to high-threat posts.
+
+&emsp;"(3) Diplomatic post-led drawdown and evacuation operations, military assisted departures, and noncombatant evacuation operations.
+
+&emsp;"(4) Best practices for leading post efforts to communicate with and assist United States citizens.
+
+&emsp;"(5) How to conduct or participate in the Department's domestic-led tabletop exercises and simulations, including those authorized in subsection (b).
+
+&emsp;"(6) Communicating with and assessing the needs of locally employed staff during emergencies.
+
+"(d)
+
+Department of State Emergency Response Lessons Learned Clearinghouse.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary shall establish and maintain a clearinghouse of lessons learned and after-action reports relating to international crises, including evacuation operations of United States Government employees and their eligible family members or evacuation of private United States citizens or third-country nationals, to be known as the 'Department of State Emergency Response Lessons Learned Clearinghouse' (in this section referred to as the 'Clearinghouse').
+
+&emsp;"(2)
+
+Repository.—The Clearinghouse should be designed to provide—
+
+&emsp;&emsp;"(A) a central electronic repository of lessons learned and after-action reports to be made accessible to Department personnel to be used to improve crisis response and contingency planning;
+
+&emsp;&emsp;"(B) resources to inform and develop crisis response and contingency planning, including for the ambassadorial seminar and Deputy Chief of Mission course as provided in subsection (c); and
+
+&emsp;&emsp;"(C) publicly available documents and information, as appropriate, for civil society, nongovernmental organizations, academic institutions, and other stakeholders to assist with the Department's development of best practices.
+
+"(e)
+
+International Crisis Defined.—In this section, the term 'international crisis' means any situation overseas which requires the Department to change the operating status of United States diplomatic facilities, including a diplomatic post-led or military-assisted departure, ordered departure, or a noncombatant evacuation operation."
 
 #### Crisis Response Operations
 

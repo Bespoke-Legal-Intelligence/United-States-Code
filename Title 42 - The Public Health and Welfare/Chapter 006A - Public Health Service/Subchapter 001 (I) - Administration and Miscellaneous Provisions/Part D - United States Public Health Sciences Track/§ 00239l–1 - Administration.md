@@ -20,7 +20,7 @@ The business of the Track shall be conducted by the Surgeon General with funds a
 
 #### (c) Agreements
 
-The Surgeon General may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources located in the United States (or locations selected in accordance with section 239l(a)(2) of this title). Under such agreements the facilities concerned will retain their identities and basic missions. The Surgeon General may negotiate affiliation agreements with accredited universities and health professions training institutions in the United States. Such agreements may include provisions for payments for educational services provided students participating in Department of Health and Human Services educational programs.
+The Surgeon General may negotiate agreements with agencies of the Federal Governmentto utilize on a reimbursable basis appropriate existing Federal medical resources located in the United States (or locations selected in accordance with section 239l(a)(2) of this title). Under such agreements the facilities concerned will retain their identities and basic missions. The Surgeon General may negotiate affiliation agreements with accredited universities and health professions training institutions in the United States. Such agreements may include provisions for payments for educational services provided students participating in Department of Health and Human Services educational programs.
 
 #### (d) Programs
 

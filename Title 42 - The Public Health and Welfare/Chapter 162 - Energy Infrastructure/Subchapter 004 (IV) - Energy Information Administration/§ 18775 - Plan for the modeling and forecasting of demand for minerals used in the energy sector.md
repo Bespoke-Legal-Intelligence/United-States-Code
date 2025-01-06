@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after November 15, 2021, the Administrator, in coordination with the Director of the United States Geological Survey, shall develop a plan for the modeling and forecasting of demand for energy technologies, including for energy production, transmission, or storage purposes, that use minerals that are or could be designated as critical minerals.
+&emsp;Not later than 180 days after November 15, 2021, the Administrator, in coordination withthe Director of the United States Geological Survey, shall develop a plan for the modeling and forecasting of demand for energy technologies, including for energy production, transmission, or storage purposes, that use minerals that are or could be designated as critical minerals.
 
 #### (2) Inclusions
 

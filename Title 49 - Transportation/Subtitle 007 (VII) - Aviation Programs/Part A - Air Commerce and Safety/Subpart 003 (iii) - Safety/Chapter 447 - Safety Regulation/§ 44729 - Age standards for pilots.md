@@ -94,7 +94,7 @@ The date of enactment of this section and such date of enactment, referred to in
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–328, §107(a), substituted "covered operations described in subsection (b)(1) until attaining 65 years of age. Air carriers that employ pilots who serve in covered operations described in subsection (b)(2) may elect to implement an age restriction to prohibit employed pilots from serving in such covered operations after attaining 70 years of age by delivering written notice to the Administrator of the Federal Aviation Administration. Such election—" and pars. (1) and (2) for "covered operations until attaining 65 years of age."
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §107(a), substituted "covered operations described in subsection (b)(1) until attaining 65 years of age. Air carriers that employ pilots who serve in covered operations described in subsection (b)(2) may elect to implement an age restriction to prohibit employed pilots from serving in suchcovered operations after attaining 70 years of age by delivering written notice to the Administrator of the Federal Aviation Administration. Such election—" and pars. (1) and (2) for "covered operations until attaining 65 years of age."
 
 Subsec. (b). Pub. L. 117–328, §107(b), substituted "means—" and pars. (1) and (2) for "means operations under part 121 of title 14, Code of Federal Regulations."
 

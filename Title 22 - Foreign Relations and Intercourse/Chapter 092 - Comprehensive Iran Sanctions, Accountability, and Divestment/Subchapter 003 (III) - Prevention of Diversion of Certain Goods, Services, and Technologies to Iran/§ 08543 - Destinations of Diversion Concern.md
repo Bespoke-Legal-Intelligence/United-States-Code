@@ -42,7 +42,7 @@ Not later than 45 days after submitting a report required by subsection (b) with
 
 &emsp;&emsp;&emsp;(ii) to interdict the diversion of goods, services, or technologies described in section 8542(b) of this title through the country to Iranian end-users or Iranian intermediaries; and
 
-&emsp;&emsp;&emsp;(iii) to comply with and enforce United Nations Security Council Resolutions 1696 (2006), 1737 (2006), 1747 (2007), 1803 (2008), and 1929 (2010), and any other resolution that is agreed to by the Security Council and imposes sanctions with respect to Iran;
+&emsp;&emsp;&emsp;(iii) to comply with and enforce United Nations Security Council Resolutions 1696 (2006), 1737 (2006), 1747 (2007), 1803 (2008), and1929 (2010), and any other resolution that is agreed to by the Security Council and imposes sanctions with respect to Iran;
 
 &emsp;&emsp;(B) determines that it is appropriate to carry out government-to-government activities to strengthen the export control system of the country; and
 

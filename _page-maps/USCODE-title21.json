@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title21",
- "package": "USCODE-2023-title21",
+ "package": "USCODE-2024-title21",
  "pieces": [
   {
    "id": "21_",
@@ -41,14 +41,10 @@
    "id": "21_1_to_5",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       234,
-       "[Page 2]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 2]",
+     true
     ]
    ],
    "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 001 (I) - Federal Food and Drugs Act of 1906/§ 00001 to 5 - Repealed. June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title….md",
@@ -104,30 +100,26 @@
   },
   {
    "id": "21_16",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 3]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00016 - Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded.md",
    "printed_pages": [
     2,
-    2
+    3
    ]
   },
   {
    "id": "21_17",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       141,
-       "[Page 3]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00017 - Penalty for sale or introduction of falsely labeled dairy or food products; venue.md",
    "printed_pages": [
-    2,
+    3,
     3
    ]
   },
@@ -202,7 +194,7 @@
      2,
      [
       [
-       834,
+       556,
        "[Page 4]"
       ]
      ]
@@ -258,7 +250,7 @@
      8,
      [
       [
-       605,
+       272,
        "[Page 5]"
       ]
      ]
@@ -323,7 +315,7 @@
      6,
      [
       [
-       211,
+       104,
        "[Page 6]"
       ]
      ]
@@ -2133,19 +2125,25 @@
     ],
     [
      "I",
-     946,
+     928,
      [
       [
-       94,
+       359,
        "[Page 99]"
       ]
      ]
+    ],
+    [
+     "L",
+     1006,
+     "[Page 100]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00343 - Misbranded food.md",
    "printed_pages": [
     83,
-    99
+    100
    ]
   },
   {
@@ -2153,48 +2151,33 @@
    "marks": [
     [
      "I",
-     2,
+     54,
      [
       [
-       140,
-       "[Page 100]"
+       114,
+       "[Page 101]"
       ]
      ]
     ],
     [
-     "I",
-     64,
-     [
-      [
-       217,
-       "[Page 101]"
-      ]
-     ]
+     "L",
+     118,
+     "[Page 102]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00343–1 - National uniform nutrition labeling.md",
    "printed_pages": [
-    99,
-    101
+    100,
+    102
    ]
   },
   {
    "id": "21_343-2",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       188,
-       "[Page 102]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00343–2 - Dietary supplement labeling exemptions.md",
    "printed_pages": [
-    101,
+    102,
     102
    ]
   },
@@ -2218,57 +2201,54 @@
   },
   {
    "id": "21_344",
-   "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00344 - Emergency permit control.md",
-   "printed_pages": [
-    102,
-    102
-   ]
-  },
-  {
-   "id": "21_345",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       560,
-       "[Page 103]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 103]",
+     true
     ]
    ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00345 - Regulations making exemptions.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00344 - Emergency permit control.md",
    "printed_pages": [
     102,
     103
    ]
   },
   {
-   "id": "21_346",
+   "id": "21_345",
    "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00346 - Tolerances for poisonous or deleterious substances in food; regulations.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00345 - Regulations making exemptions.md",
    "printed_pages": [
     103,
     103
    ]
   },
   {
-   "id": "21_346a",
+   "id": "21_346",
    "marks": [
     [
      "L",
-     10,
+     36,
      "[Page 104]",
      true
-    ],
+    ]
+   ],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00346 - Tolerances for poisonous or deleterious substances in food; regulations.md",
+   "printed_pages": [
+    103,
+    104
+   ]
+  },
+  {
+   "id": "21_346a",
+   "marks": [
     [
      "I",
-     74,
+     66,
      [
       [
-       100,
+       96,
        "[Page 105]"
       ]
      ]
@@ -2278,113 +2258,109 @@
      130,
      [
       [
-       785,
+       218,
        "[Page 106]"
       ]
      ]
     ],
     [
      "I",
-     188,
+     184,
      [
       [
-       307,
+       97,
        "[Page 107]"
       ]
      ]
     ],
     [
      "I",
-     268,
+     260,
      [
       [
-       101,
+       130,
        "[Page 108]"
       ]
      ]
     ],
     [
      "I",
-     332,
+     326,
      [
       [
-       139,
+       94,
        "[Page 109]"
       ]
      ]
     ],
     [
      "I",
-     376,
+     372,
      [
       [
-       423,
+       465,
        "[Page 110]"
       ]
      ]
     ],
     [
      "I",
-     432,
+     426,
      [
       [
-       180,
+       95,
        "[Page 111]"
       ]
      ]
     ],
     [
      "I",
-     476,
+     472,
      [
       [
-       319,
+       621,
        "[Page 112]"
       ]
      ]
     ],
     [
-     "I",
-     534,
-     [
-      [
-       184,
-       "[Page 113]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     590,
-     [
-      [
-       180,
-       "[Page 114]"
-      ]
-     ]
+     "L",
+     528,
+     "[Page 113]",
+     true
     ],
     [
      "L",
-     654,
-     "[Page 115]",
+     586,
+     "[Page 114]",
      true
     ],
     [
      "I",
-     720,
+     646,
      [
       [
-       115,
+       98,
+       "[Page 115]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     706,
+     [
+      [
+       116,
        "[Page 116]"
       ]
      ]
     ],
     [
      "I",
-     774,
+     766,
      [
       [
-       324,
+       432,
        "[Page 117]"
       ]
      ]
@@ -2392,7 +2368,7 @@
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00346a - Tolerances and exemptions for pesticide chemical residues.md",
    "printed_pages": [
-    103,
+    104,
     117
    ]
   },
@@ -2410,10 +2386,10 @@
    "marks": [
     [
      "I",
-     42,
+     38,
      [
       [
-       602,
+       114,
        "[Page 118]"
       ]
      ]
@@ -2448,49 +2424,49 @@
    "marks": [
     [
      "I",
-     34,
+     28,
      [
       [
-       278,
+       97,
        "[Page 119]"
       ]
      ]
     ],
     [
      "I",
-     80,
+     76,
      [
       [
-       566,
+       186,
        "[Page 120]"
       ]
      ]
     ],
     [
-     "L",
-     116,
-     "[Page 121]",
-     true
+     "I",
+     110,
+     [
+      [
+       139,
+       "[Page 121]"
+      ]
+     ]
     ],
     [
      "I",
-     166,
+     158,
      [
       [
-       616,
+       207,
        "[Page 122]"
       ]
      ]
     ],
     [
-     "I",
-     254,
-     [
-      [
-       285,
-       "[Page 123]"
-      ]
-     ]
+     "L",
+     248,
+     "[Page 123]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00348 - Food additives.md",
@@ -2504,7 +2480,7 @@
    "marks": [
     [
      "L",
-     30,
+     22,
      "[Page 124]",
      true
     ]
@@ -2520,10 +2496,10 @@
    "marks": [
     [
      "I",
-     72,
+     56,
      [
       [
-       99,
+       220,
        "[Page 125]"
       ]
      ]
@@ -2540,35 +2516,39 @@
    "marks": [
     [
      "L",
-     56,
+     46,
      "[Page 126]",
      true
     ],
     [
      "I",
-     116,
+     108,
      [
       [
-       238,
+       332,
        "[Page 127]"
       ]
      ]
     ],
     [
      "I",
-     206,
+     176,
      [
       [
-       85,
+       39,
        "[Page 128]"
       ]
      ]
     ],
     [
-     "L",
-     292,
-     "[Page 129]",
-     true
+     "I",
+     272,
+     [
+      [
+       151,
+       "[Page 129]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350a - Infant formulas.md",
@@ -2581,27 +2561,27 @@
    "id": "21_350a-1",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 130]",
-     true
-    ],
-    [
      "I",
-     148,
+     46,
      [
       [
-       260,
-       "[Page 131]"
+       140,
+       "[Page 130]"
       ]
      ]
     ],
     [
+     "L",
+     128,
+     "[Page 131]",
+     true
+    ],
+    [
      "I",
-     224,
+     206,
      [
       [
-       134,
+       90,
        "[Page 132]"
       ]
      ]
@@ -2618,10 +2598,10 @@
    "marks": [
     [
      "I",
-     32,
+     20,
      [
       [
-       90,
+       273,
        "[Page 133]"
       ]
      ]
@@ -2637,10 +2617,14 @@
    "id": "21_350c",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 134]",
-     true
+     "I",
+     18,
+     [
+      [
+       651,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350c - Maintenance and inspection of records.md",
@@ -2654,33 +2638,25 @@
    "marks": [
     [
      "I",
-     26,
+     18,
      [
       [
-       229,
+       89,
        "[Page 135]"
       ]
      ]
     ],
     [
-     "I",
-     96,
-     [
-      [
-       101,
-       "[Page 136]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 136]",
+     true
     ],
     [
-     "I",
-     182,
-     [
-      [
-       382,
-       "[Page 137]"
-      ]
-     ]
+     "L",
+     172,
+     "[Page 137]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350d - Registration of food facilities.md",
@@ -2694,7 +2670,7 @@
    "marks": [
     [
      "L",
-     82,
+     68,
      "[Page 138]",
      true
     ]
@@ -2709,24 +2685,24 @@
    "id": "21_350f",
    "marks": [
     [
-     "L",
-     84,
-     "[Page 139]",
-     true
-    ],
-    [
      "I",
-     174,
+     68,
      [
       [
-       90,
-       "[Page 140]"
+       94,
+       "[Page 139]"
       ]
      ]
     ],
     [
      "L",
-     254,
+     156,
+     "[Page 140]",
+     true
+    ],
+    [
+     "L",
+     240,
      "[Page 141]",
      true
     ]
@@ -2741,36 +2717,36 @@
    "id": "21_350g",
    "marks": [
     [
+     "L",
+     50,
+     "[Page 142]",
+     true
+    ],
+    [
      "I",
-     60,
+     120,
      [
       [
-       142,
-       "[Page 142]"
+       104,
+       "[Page 143]"
       ]
      ]
     ],
     [
      "L",
-     128,
-     "[Page 143]",
+     200,
+     "[Page 144]",
      true
     ],
     [
      "I",
-     214,
+     274,
      [
       [
-       140,
-       "[Page 144]"
+       227,
+       "[Page 145]"
       ]
      ]
-    ],
-    [
-     "L",
-     288,
-     "[Page 145]",
-     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350g - Hazard analysis and risk-based preventive controls.md",
@@ -2784,31 +2760,41 @@
    "marks": [
     [
      "I",
-     24,
+     16,
      [
       [
-       177,
+       93,
        "[Page 146]"
       ]
      ]
     ],
     [
      "I",
-     82,
+     74,
      [
       [
-       93,
+       236,
        "[Page 147]"
       ]
      ]
     ],
     [
      "I",
-     146,
+     136,
      [
       [
-       271,
+       140,
        "[Page 148]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     218,
+     [
+      [
+       337,
+       "[Page 149]"
       ]
      ]
     ]
@@ -2816,7 +2802,7 @@
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350h - Standards for produce safety.md",
    "printed_pages": [
     145,
-    148
+    149
    ]
   },
   {
@@ -2824,40 +2810,30 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 149]",
+     76,
+     "[Page 150]",
      true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350i - Protection against intentional adulteration.md",
    "printed_pages": [
-    148,
-    149
+    149,
+    150
    ]
   },
   {
    "id": "21_350j",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       139,
-       "[Page 150]"
-      ]
-     ]
-    ],
-    [
      "L",
-     106,
+     92,
      "[Page 151]",
      true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350j - Targeting of inspection resources for domestic facilities, foreign facilities, and ports of entry; annual report.md",
    "printed_pages": [
-    149,
+    150,
     151
    ]
   },
@@ -2866,10 +2842,10 @@
    "marks": [
     [
      "I",
-     52,
+     36,
      [
       [
-       139,
+       138,
        "[Page 152]"
       ]
      ]
@@ -2886,19 +2862,23 @@
    "marks": [
     [
      "I",
-     24,
+     10,
      [
       [
-       456,
+       226,
        "[Page 153]"
       ]
      ]
     ],
     [
-     "L",
-     108,
-     "[Page 154]",
-     true
+     "I",
+     94,
+     [
+      [
+       96,
+       "[Page 154]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350l - Mandatory recall authority.md",
@@ -2909,30 +2889,30 @@
   },
   {
    "id": "21_350l-1",
-   "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350l–1 - Annual report to Congress.md",
-   "printed_pages": [
-    154,
-    154
-   ]
-  },
-  {
-   "id": "21_350m",
    "marks": [
     [
      "I",
-     6,
+     18,
      [
       [
-       102,
+       94,
        "[Page 155]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350m - Requirements for critical food.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350l–1 - Annual report to Congress.md",
    "printed_pages": [
     154,
+    155
+   ]
+  },
+  {
+   "id": "21_350m",
+   "marks": [],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 004 (IV) - Food/§ 00350m - Requirements for critical food.md",
+   "printed_pages": [
+    155,
     155
    ]
   },
@@ -2958,30 +2938,22 @@
    "id": "21_351",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       1542,
-       "[Page 156]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 156]",
+     true
     ],
     [
      "L",
-     54,
+     38,
      "[Page 157]",
      true
     ],
     [
-     "I",
-     124,
-     [
-      [
-       108,
-       "[Page 158]"
-      ]
-     ]
+     "L",
+     104,
+     "[Page 158]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00351 - Adulterated drugs and devices.md",
@@ -2994,84 +2966,76 @@
    "id": "21_352",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       397,
-       "[Page 159]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 159]",
+     true
     ],
     [
      "I",
-     50,
+     46,
      [
       [
-       505,
+       93,
        "[Page 160]"
       ]
      ]
     ],
     [
      "I",
-     84,
+     80,
      [
       [
-       1094,
+       99,
        "[Page 161]"
       ]
      ]
     ],
     [
      "I",
-     140,
+     124,
      [
       [
-       95,
+       98,
        "[Page 162]"
       ]
      ]
     ],
     [
-     "I",
-     206,
-     [
-      [
-       810,
-       "[Page 163]"
-      ]
-     ]
-    ],
-    [
      "L",
-     258,
-     "[Page 164]",
+     194,
+     "[Page 163]",
      true
     ],
     [
      "I",
-     300,
+     250,
      [
       [
-       989,
+       167,
+       "[Page 164]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     292,
+     [
+      [
+       109,
        "[Page 165]"
       ]
      ]
     ],
     [
-     "I",
-     394,
-     [
-      [
-       226,
-       "[Page 166]"
-      ]
-     ]
+     "L",
+     384,
+     "[Page 166]",
+     true
     ],
     [
      "L",
-     458,
+     452,
      "[Page 167]",
      true
     ]
@@ -3087,72 +3051,84 @@
    "marks": [
     [
      "L",
-     48,
+     34,
      "[Page 168]",
      true
     ],
     [
      "I",
-     100,
+     94,
      [
       [
-       90,
+       442,
        "[Page 169]"
       ]
      ]
     ],
     [
-     "L",
-     182,
-     "[Page 170]",
-     true
-    ],
-    [
-     "L",
-     262,
-     "[Page 171]",
-     true
-    ],
-    [
-     "L",
-     320,
-     "[Page 172]",
-     true
+     "I",
+     170,
+     [
+      [
+       189,
+       "[Page 170]"
+      ]
+     ]
     ],
     [
      "I",
-     374,
+     250,
      [
       [
-       516,
-       "[Page 173]"
+       89,
+       "[Page 171]"
       ]
      ]
     ],
     [
      "L",
-     420,
-     "[Page 174]",
+     312,
+     "[Page 172]",
      true
     ],
     [
+     "I",
+     368,
+     [
+      [
+       180,
+       "[Page 173]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     412,
+     [
+      [
+       368,
+       "[Page 174]"
+      ]
+     ]
+    ],
+    [
      "L",
-     496,
+     482,
      "[Page 175]",
      true
     ],
     [
      "L",
-     580,
+     568,
      "[Page 176]",
      true
     ],
     [
      "I",
-     684,
+     664,
      [
       [
-       87,
+       157,
        "[Page 177]"
       ]
      ]
@@ -3168,21 +3144,17 @@
    "id": "21_353a",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       136,
-       "[Page 178]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 178]",
+     true
     ],
     [
      "I",
-     100,
+     88,
      [
       [
-       225,
+       78,
        "[Page 179]"
       ]
      ]
@@ -3208,21 +3180,25 @@
    "marks": [
     [
      "L",
-     38,
+     28,
      "[Page 180]",
      true
     ],
     [
      "L",
-     130,
+     120,
      "[Page 181]",
      true
     ],
     [
-     "L",
-     210,
-     "[Page 182]",
-     true
+     "I",
+     198,
+     [
+      [
+       346,
+       "[Page 182]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00353b - Outsourcing facilities.md",
@@ -3236,7 +3212,7 @@
    "marks": [
     [
      "L",
-     26,
+     16,
      "[Page 183]",
      true
     ]
@@ -3252,19 +3228,23 @@
    "marks": [
     [
      "I",
-     54,
+     46,
      [
       [
-       185,
+       237,
        "[Page 184]"
       ]
      ]
     ],
     [
-     "L",
-     126,
-     "[Page 185]",
-     true
+     "I",
+     116,
+     [
+      [
+       100,
+       "[Page 185]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00353d - Process to update labeling for certain generic drugs.md",
@@ -3275,11 +3255,18 @@
   },
   {
    "id": "21_354",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 186]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00354 - Veterinary feed directive drugs.md",
    "printed_pages": [
     185,
-    185
+    186
    ]
   },
   {
@@ -3287,20 +3274,10 @@
    "marks": [
     [
      "I",
-     16,
+     76,
      [
       [
-       99,
-       "[Page 186]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     84,
-     [
-      [
-       143,
+       101,
        "[Page 187]"
       ]
      ]
@@ -3310,27 +3287,27 @@
      118,
      [
       [
-       2138,
+       1086,
        "[Page 188]"
       ]
      ]
     ],
     [
      "I",
-     170,
+     166,
      [
       [
-       785,
+       100,
        "[Page 189]"
       ]
      ]
     ],
     [
      "I",
-     202,
+     200,
      [
       [
-       179,
+       278,
        "[Page 190]"
       ]
      ]
@@ -3340,208 +3317,212 @@
      234,
      [
       [
-       2401,
+       1245,
        "[Page 191]"
       ]
      ]
     ],
     [
-     "I",
-     250,
-     [
-      [
-       700,
-       "[Page 192]"
-      ]
-     ]
+     "L",
+     244,
+     "[Page 192]",
+     true
     ],
     [
      "I",
-     280,
+     274,
      [
       [
-       321,
+       96,
        "[Page 193]"
       ]
      ]
     ],
     [
      "I",
-     332,
+     314,
      [
       [
-       137,
+       232,
        "[Page 194]"
       ]
      ]
     ],
     [
      "I",
-     384,
+     374,
      [
       [
-       93,
+       89,
        "[Page 195]"
       ]
      ]
     ],
     [
-     "I",
-     424,
-     [
-      [
-       779,
-       "[Page 196]"
-      ]
-     ]
-    ],
-    [
      "L",
-     496,
-     "[Page 197]",
-     true
-    ],
-    [
-     "L",
-     560,
-     "[Page 198]",
+     420,
+     "[Page 196]",
      true
     ],
     [
      "I",
-     626,
+     482,
      [
       [
-       235,
-       "[Page 199]"
+       64,
+       "[Page 197]"
       ]
      ]
     ],
     [
      "I",
-     668,
+     546,
      [
       [
-       590,
-       "[Page 200]"
+       79,
+       "[Page 198]"
       ]
      ]
     ],
     [
      "L",
-     706,
-     "[Page 201]",
+     622,
+     "[Page 199]",
      true
     ],
     [
      "L",
-     752,
-     "[Page 202]",
-     true
-    ],
-    [
-     "L",
-     814,
-     "[Page 203]",
+     654,
+     "[Page 200]",
      true
     ],
     [
      "I",
-     900,
+     696,
      [
       [
-       94,
-       "[Page 204]"
+       270,
+       "[Page 201]"
       ]
      ]
     ],
     [
      "I",
-     988,
+     744,
      [
       [
-       81,
-       "[Page 205]"
+       95,
+       "[Page 202]"
       ]
      ]
     ],
     [
      "I",
-     1060,
+     804,
      [
       [
-       420,
+       96,
+       "[Page 203]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     886,
+     "[Page 204]",
+     true
+    ],
+    [
+     "L",
+     972,
+     "[Page 205]",
+     true
+    ],
+    [
+     "I",
+     1056,
+     [
+      [
+       282,
        "[Page 206]"
       ]
      ]
     ],
     [
      "I",
-     1134,
+     1130,
      [
       [
-       635,
+       262,
        "[Page 207]"
       ]
      ]
     ],
     [
-     "I",
-     1184,
-     [
-      [
-       95,
-       "[Page 208]"
-      ]
-     ]
+     "L",
+     1174,
+     "[Page 208]",
+     true
     ],
     [
      "I",
-     1258,
+     1254,
      [
       [
-       534,
+       266,
        "[Page 209]"
       ]
      ]
     ],
     [
-     "L",
-     1326,
-     "[Page 210]",
-     true
-    ],
-    [
-     "L",
-     1398,
-     "[Page 211]",
-     true
+     "I",
+     1308,
+     [
+      [
+       92,
+       "[Page 210]"
+      ]
+     ]
     ],
     [
      "I",
-     1472,
+     1384,
      [
       [
-       278,
-       "[Page 212]"
+       99,
+       "[Page 211]"
       ]
      ]
     ],
     [
      "L",
-     1548,
-     "[Page 213]",
-     true
-    ],
-    [
-     "L",
-     1600,
-     "[Page 214]",
+     1458,
+     "[Page 212]",
      true
     ],
     [
      "I",
-     1662,
+     1532,
+     [
+      [
+       98,
+       "[Page 213]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1594,
+     [
+      [
+       1471,
+       "[Page 214]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1656,
      [
       [
        110,
@@ -3550,42 +3531,50 @@
      ]
     ],
     [
-     "L",
-     1738,
-     "[Page 216]",
-     true
+     "I",
+     1724,
+     [
+      [
+       499,
+       "[Page 216]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1800,
+     [
+      [
+       211,
+       "[Page 217]"
+      ]
+     ]
     ],
     [
      "L",
-     1812,
-     "[Page 217]",
-     true
-    ],
-    [
-     "L",
-     1888,
+     1862,
      "[Page 218]",
      true
     ],
     [
      "I",
-     1920,
+     1918,
      [
       [
-       1180,
+       777,
        "[Page 219]"
       ]
      ]
     ],
     [
      "L",
-     1994,
+     1990,
      "[Page 220]",
      true
     ],
     [
      "I",
-     2088,
+     2068,
      [
       [
        110,
@@ -3594,18 +3583,14 @@
      ]
     ],
     [
-     "I",
-     2152,
-     [
-      [
-       369,
-       "[Page 222]"
-      ]
-     ]
+     "L",
+     2142,
+     "[Page 222]",
+     true
     ],
     [
      "I",
-     2214,
+     2202,
      [
       [
        106,
@@ -3615,46 +3600,54 @@
     ],
     [
      "L",
-     2298,
+     2284,
      "[Page 224]",
      true
     ],
     [
-     "L",
-     2388,
-     "[Page 225]",
-     true
+     "I",
+     2374,
+     [
+      [
+       91,
+       "[Page 225]"
+      ]
+     ]
     ],
     [
      "I",
-     2488,
+     2474,
      [
       [
-       423,
+       203,
        "[Page 226]"
       ]
      ]
     ],
     [
      "I",
-     2574,
+     2554,
      [
       [
-       436,
+       251,
        "[Page 227]"
       ]
      ]
     ],
     [
-     "L",
-     2644,
-     "[Page 228]",
-     true
+     "I",
+     2632,
+     [
+      [
+       107,
+       "[Page 228]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355 - New drugs.md",
    "printed_pages": [
-    185,
+    186,
     228
    ]
   },
@@ -3662,74 +3655,74 @@
    "id": "21_355-1",
    "marks": [
     [
-     "L",
-     80,
-     "[Page 229]",
-     true
+     "I",
+     64,
+     [
+      [
+       101,
+       "[Page 229]"
+      ]
+     ]
     ],
     [
      "I",
-     168,
+     160,
      [
       [
-       188,
+       135,
        "[Page 230]"
       ]
      ]
     ],
     [
      "L",
-     248,
+     230,
      "[Page 231]",
      true
     ],
     [
      "I",
-     316,
+     302,
      [
       [
-       311,
+       100,
        "[Page 232]"
       ]
      ]
     ],
     [
-     "L",
-     376,
-     "[Page 233]",
-     true
+     "I",
+     366,
+     [
+      [
+       431,
+       "[Page 233]"
+      ]
+     ]
     ],
     [
      "L",
-     458,
+     434,
      "[Page 234]",
      true
     ],
     [
      "L",
-     532,
+     518,
      "[Page 235]",
      true
     ],
     [
-     "I",
-     608,
-     [
-      [
-       165,
-       "[Page 236]"
-      ]
-     ]
+     "L",
+     590,
+     "[Page 236]",
+     true
     ],
     [
-     "I",
-     686,
-     [
-      [
-       111,
-       "[Page 237]"
-      ]
-     ]
+     "L",
+     668,
+     "[Page 237]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355–1 - Risk evaluation and mitigation strategies.md",
@@ -3742,26 +3735,28 @@
    "id": "21_355-2",
    "marks": [
     [
-     "I",
-     72,
-     [
-      [
-       103,
-       "[Page 238]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 238]",
+     true
     ],
     [
      "L",
-     142,
+     130,
      "[Page 239]",
+     true
+    ],
+    [
+     "L",
+     208,
+     "[Page 240]",
      true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355–2 - Actions for delays of generic drugs and biosimilar biological products.md",
    "printed_pages": [
     237,
-    239
+    240
    ]
   },
   {
@@ -3769,100 +3764,77 @@
    "marks": [
     [
      "I",
-     4,
+     40,
      [
       [
-       233,
-       "[Page 240]"
+       101,
+       "[Page 241]"
       ]
      ]
     ],
     [
      "L",
-     52,
-     "[Page 241]",
+     102,
+     "[Page 242]",
+     true
+    ],
+    [
+     "L",
+     176,
+     "[Page 243]",
      true
     ],
     [
      "I",
-     114,
+     242,
      [
       [
-       372,
-       "[Page 242]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     194,
-     [
-      [
-       103,
-       "[Page 243]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     256,
-     [
-      [
-       90,
+       449,
        "[Page 244]"
       ]
      ]
     ],
     [
-     "I",
-     322,
-     [
-      [
-       154,
-       "[Page 245]"
-      ]
-     ]
+     "L",
+     302,
+     "[Page 245]",
+     true
     ],
     [
      "I",
-     398,
+     380,
      [
       [
-       114,
+       110,
        "[Page 246]"
       ]
      ]
     ],
     [
-     "I",
-     506,
-     [
-      [
-       96,
-       "[Page 247]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355a - Pediatric studies of drugs.md",
-   "printed_pages": [
-    239,
-    247
-   ]
-  },
-  {
-   "id": "21_355b",
-   "marks": [
+     "L",
+     488,
+     "[Page 247]",
+     true
+    ],
     [
      "L",
-     8,
+     546,
      "[Page 248]",
      true
     ]
    ],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355a - Pediatric studies of drugs.md",
+   "printed_pages": [
+    240,
+    248
+   ]
+  },
+  {
+   "id": "21_355b",
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355b - Adverse-event reporting.md",
    "printed_pages": [
-    247,
+    248,
     248
    ]
   },
@@ -3870,84 +3842,80 @@
    "id": "21_355c",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 249]",
-     true
+     "I",
+     28,
+     [
+      [
+       138,
+       "[Page 249]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     98,
+     [
+      [
+       943,
+       "[Page 250]"
+      ]
+     ]
     ],
     [
      "L",
-     114,
-     "[Page 250]",
-     true
-    ],
-    [
-     "L",
-     194,
+     178,
      "[Page 251]",
      true
     ],
     [
      "L",
-     260,
+     240,
      "[Page 252]",
      true
     ],
     [
      "I",
-     324,
+     312,
      [
       [
-       228,
+       283,
        "[Page 253]"
       ]
      ]
     ],
     [
-     "I",
-     392,
-     [
-      [
-       95,
-       "[Page 254]"
-      ]
-     ]
+     "L",
+     378,
+     "[Page 254]",
+     true
+    ],
+    [
+     "L",
+     440,
+     "[Page 255]",
+     true
+    ],
+    [
+     "L",
+     516,
+     "[Page 256]",
+     true
     ],
     [
      "I",
-     452,
+     596,
      [
       [
-       96,
-       "[Page 255]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     532,
-     [
-      [
-       93,
-       "[Page 256]"
+       543,
+       "[Page 257]"
       ]
      ]
     ],
     [
      "L",
-     618,
-     "[Page 257]",
+     684,
+     "[Page 258]",
      true
-    ],
-    [
-     "I",
-     696,
-     [
-      [
-       108,
-       "[Page 258]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355c - Research into pediatric uses for drugs and biological products.md",
@@ -3961,11 +3929,21 @@
    "marks": [
     [
      "I",
-     40,
+     26,
      [
       [
-       91,
+       94,
        "[Page 259]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       337,
+       "[Page 260]"
       ]
      ]
     ]
@@ -3973,26 +3951,15 @@
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355c–1 - Report.md",
    "printed_pages": [
     258,
-    259
+    260
    ]
   },
   {
    "id": "21_355d",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       87,
-       "[Page 260]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355d - Internal committee for review of pediatric plans, assessments, deferrals, deferral extensions, and waivers.md",
    "printed_pages": [
-    259,
+    260,
     260
    ]
   },
@@ -4010,20 +3977,20 @@
    "marks": [
     [
      "I",
-     16,
+     4,
      [
       [
-       142,
+       94,
        "[Page 261]"
       ]
      ]
     ],
     [
      "I",
-     112,
+     98,
      [
       [
-       102,
+       96,
        "[Page 262]"
       ]
      ]
@@ -4040,7 +4007,7 @@
    "marks": [
     [
      "L",
-     82,
+     64,
      "[Page 263]",
      true
     ]
@@ -4056,83 +4023,89 @@
    "marks": [
     [
      "I",
-     50,
+     40,
      [
       [
-       139,
+       251,
        "[Page 264]"
       ]
      ]
     ],
     [
-     "I",
-     124,
-     [
-      [
-       305,
-       "[Page 265]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     192,
-     [
-      [
-       137,
-       "[Page 266]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     266,
-     [
-      [
-       489,
-       "[Page 267]"
-      ]
-     ]
+     "L",
+     118,
+     "[Page 265]",
+     true
     ],
     [
      "L",
-     338,
+     182,
+     "[Page 266]",
+     true
+    ],
+    [
+     "L",
+     260,
+     "[Page 267]",
+     true
+    ],
+    [
+     "L",
+     324,
      "[Page 268]",
      true
     ],
     [
-     "L",
-     428,
-     "[Page 269]",
-     true
+     "I",
+     414,
+     [
+      [
+       96,
+       "[Page 269]"
+      ]
+     ]
     ],
     [
      "I",
-     492,
+     480,
      [
       [
-       97,
+       102,
        "[Page 270]"
       ]
      ]
     ],
     [
-     "L",
-     558,
-     "[Page 271]",
-     true
+     "I",
+     552,
+     [
+      [
+       192,
+       "[Page 271]"
+      ]
+     ]
     ],
     [
      "L",
-     640,
+     628,
      "[Page 272]",
      true
+    ],
+    [
+     "I",
+     718,
+     [
+      [
+       203,
+       "[Page 273]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355h - Regulation of certain nonprescription drugs that are marketed without an approved drug application.md",
    "printed_pages": [
     263,
-    272
+    273
    ]
   },
   {
@@ -4140,66 +4113,52 @@
    "marks": [
     [
      "I",
-     6,
+     52,
      [
       [
-       186,
-       "[Page 273]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     64,
-     [
-      [
-       94,
+       412,
        "[Page 274]"
       ]
      ]
     ],
     [
+     "L",
+     128,
+     "[Page 275]",
+     true
+    ],
+    [
      "I",
-     140,
+     192,
      [
       [
        93,
-       "[Page 275]"
+       "[Page 276]"
       ]
      ]
     ],
     [
      "L",
-     204,
-     "[Page 276]",
+     256,
+     "[Page 277]",
      true
     ],
     [
      "I",
-     268,
+     326,
      [
       [
-       92,
-       "[Page 277]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     336,
-     [
-      [
-       164,
+       112,
        "[Page 278]"
       ]
      ]
     ],
     [
      "I",
-     410,
+     398,
      [
       [
-       368,
+       323,
        "[Page 279]"
       ]
      ]
@@ -4207,7 +4166,7 @@
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356 - Expedited approval of drugs for serious or life-threatening diseases or conditions.md",
    "printed_pages": [
-    272,
+    273,
     279
    ]
   },
@@ -4215,14 +4174,10 @@
    "id": "21_356-1",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       229,
-       "[Page 280]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 280]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356–1 - Accelerated approval of priority countermeasures.md",
@@ -4233,11 +4188,22 @@
   },
   {
    "id": "21_356-2",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     62,
+     [
+      [
+       108,
+       "[Page 281]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356–2 - Accelerated approval Council.md",
    "printed_pages": [
     280,
-    280
+    281
    ]
   },
   {
@@ -4245,24 +4211,14 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 281]",
+     66,
+     "[Page 282]",
      true
-    ],
-    [
-     "I",
-     76,
-     [
-      [
-       166,
-       "[Page 282]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356a - Manufacturing changes.md",
    "printed_pages": [
-    280,
+    281,
     282
    ]
   },
@@ -4271,7 +4227,7 @@
    "marks": [
     [
      "L",
-     66,
+     48,
      "[Page 283]",
      true
     ]
@@ -4286,26 +4242,30 @@
    "id": "21_356c",
    "marks": [
     [
+     "L",
+     50,
+     "[Page 284]",
+     true
+    ],
+    [
      "I",
-     58,
+     126,
      [
       [
-       360,
-       "[Page 284]"
+       412,
+       "[Page 285]"
       ]
      ]
     ],
     [
-     "L",
-     136,
-     "[Page 285]",
-     true
-    ],
-    [
-     "L",
-     198,
-     "[Page 286]",
-     true
+     "I",
+     194,
+     [
+      [
+       155,
+       "[Page 286]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356c - Discontinuance or interruption in the production of life-saving drugs.md",
@@ -4318,14 +4278,10 @@
    "id": "21_356c-1",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       114,
-       "[Page 287]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 287]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356c–1 - Annual reporting on drug shortages.md",
@@ -4338,14 +4294,10 @@
    "id": "21_356d",
    "marks": [
     [
-     "I",
-     74,
-     [
-      [
-       89,
-       "[Page 288]"
-      ]
-     ]
+     "L",
+     64,
+     "[Page 288]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356d - Coordination; task force and strategic plan.md",
@@ -4368,7 +4320,7 @@
    "marks": [
     [
      "L",
-     28,
+     20,
      "[Page 289]",
      true
     ]
@@ -4381,26 +4333,26 @@
   },
   {
    "id": "21_356g",
-   "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356g - Standards for regenerative medicine and regenerative advanced therapies.md",
-   "printed_pages": [
-    289,
-    289
-   ]
-  },
-  {
-   "id": "21_356h",
    "marks": [
     [
      "L",
-     6,
+     52,
      "[Page 290]",
      true
     ]
    ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356h - Competitive generic therapies.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356g - Standards for regenerative medicine and regenerative advanced therapies.md",
    "printed_pages": [
     289,
+    290
+   ]
+  },
+  {
+   "id": "21_356h",
+   "marks": [],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356h - Competitive generic therapies.md",
+   "printed_pages": [
+    290,
     290
    ]
   },
@@ -4408,20 +4360,20 @@
    "id": "21_356i",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 291]",
-     true
-    ],
-    [
      "I",
-     76,
+     4,
      [
       [
-       537,
-       "[Page 292]"
+       288,
+       "[Page 291]"
       ]
      ]
+    ],
+    [
+     "L",
+     74,
+     "[Page 292]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356i - Prompt reports of marketing status.md",
@@ -4435,16 +4387,16 @@
    "marks": [
     [
      "L",
-     62,
+     52,
      "[Page 293]",
      true
     ],
     [
      "I",
-     146,
+     142,
      [
       [
-       281,
+       717,
        "[Page 294]"
       ]
      ]
@@ -4461,10 +4413,10 @@
    "marks": [
     [
      "I",
-     56,
+     54,
      [
       [
-       94,
+       238,
        "[Page 295]"
       ]
      ]
@@ -4480,16 +4432,24 @@
    "id": "21_356l",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 296]",
-     true
+     "I",
+     8,
+     [
+      [
+       501,
+       "[Page 296]"
+      ]
+     ]
     ],
     [
-     "L",
-     92,
-     "[Page 297]",
-     true
+     "I",
+     84,
+     [
+      [
+       98,
+       "[Page 297]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356l - Advanced manufacturing technologies designation program.md",
@@ -4503,44 +4463,43 @@
    "marks": [
     [
      "I",
-     78,
+     74,
      [
       [
-       99,
+       137,
        "[Page 298]"
       ]
      ]
     ],
     [
      "L",
-     162,
+     156,
      "[Page 299]",
      true
-    ]
-   ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00357 - Qualification of drug development tools.md",
-   "printed_pages": [
-    297,
-    299
-   ]
-  },
-  {
-   "id": "21_358",
-   "marks": [
+    ],
     [
      "I",
-     4,
+     244,
      [
       [
-       94,
+       194,
        "[Page 300]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00357 - Qualification of drug development tools.md",
+   "printed_pages": [
+    297,
+    300
+   ]
+  },
+  {
+   "id": "21_358",
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00358 - Authority to designate official names.md",
    "printed_pages": [
-    299,
+    300,
     300
    ]
   },
@@ -4548,10 +4507,14 @@
    "id": "21_359",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 301]",
-     true
+     "I",
+     10,
+     [
+      [
+       151,
+       "[Page 301]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00359 - Nonapplicability of subchapter to cosmetics.md",
@@ -4564,81 +4527,85 @@
    "id": "21_360",
    "marks": [
     [
-     "I",
+     "L",
      52,
-     [
-      [
-       226,
-       "[Page 302]"
-      ]
-     ]
+     "[Page 302]",
+     true
     ],
     [
      "L",
-     122,
+     120,
      "[Page 303]",
      true
     ],
     [
-     "L",
-     162,
-     "[Page 304]",
-     true
-    ],
-    [
-     "L",
-     194,
-     "[Page 305]",
-     true
+     "I",
+     160,
+     [
+      [
+       231,
+       "[Page 304]"
+      ]
+     ]
     ],
     [
      "I",
-     234,
+     192,
      [
       [
-       142,
-       "[Page 306]"
+       145,
+       "[Page 305]"
       ]
      ]
     ],
     [
      "L",
-     260,
-     "[Page 307]",
+     234,
+     "[Page 306]",
      true
+    ],
+    [
+     "I",
+     258,
+     [
+      [
+       99,
+       "[Page 307]"
+      ]
+     ]
     ],
     [
      "I",
      332,
      [
       [
-       443,
+       223,
        "[Page 308]"
       ]
      ]
     ],
     [
-     "I",
-     394,
-     [
-      [
-       109,
-       "[Page 309]"
-      ]
-     ]
+     "L",
+     392,
+     "[Page 309]",
+     true
     ],
     [
-     "L",
-     454,
-     "[Page 310]",
-     true
+     "I",
+     452,
+     [
+      [
+       110,
+       "[Page 310]"
+      ]
+     ]
     ],
     [
      "I",
      524,
      [
       [
-       276,
+       116,
        "[Page 311]"
       ]
      ]
@@ -4664,23 +4631,19 @@
    "marks": [
     [
      "I",
-     42,
+     40,
      [
       [
-       113,
+       168,
        "[Page 312]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      124,
-     [
-      [
-       165,
-       "[Page 313]"
-      ]
-     ]
+     "[Page 313]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360a–1 - Clinical trials.md",
@@ -5755,10 +5718,10 @@
     ],
     [
      "I",
-     278,
+     276,
      [
       [
-       92,
+       371,
        "[Page 403]"
       ]
      ]
@@ -5778,7 +5741,7 @@
      48,
      [
       [
-       318,
+       89,
        "[Page 404]"
       ]
      ]
@@ -5813,10 +5776,10 @@
    "marks": [
     [
      "I",
-     10,
+     8,
      [
       [
-       223,
+       141,
        "[Page 405]"
       ]
      ]
@@ -5833,7 +5796,7 @@
    "marks": [
     [
      "L",
-     18,
+     14,
      "[Page 406]",
      true
     ]
@@ -5848,17 +5811,21 @@
    "id": "21_360kk",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 407]",
-     true
+     "I",
+     18,
+     [
+      [
+       226,
+       "[Page 407]"
+      ]
+     ]
     ],
     [
      "I",
-     66,
+     62,
      [
       [
-       90,
+       88,
        "[Page 408]"
       ]
      ]
@@ -5874,35 +5841,34 @@
    "id": "21_360ll",
    "marks": [
     [
+     "I",
+     18,
+     [
+      [
+       234,
+       "[Page 409]"
+      ]
+     ]
+    ],
+    [
      "L",
-     20,
-     "[Page 409]",
+     68,
+     "[Page 410]",
      true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360ll - Notification of defects in and repair or replacement of electronic products.md",
    "printed_pages": [
     408,
-    409
+    410
    ]
   },
   {
    "id": "21_360mm",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       136,
-       "[Page 410]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360mm - Imports.md",
    "printed_pages": [
-    409,
+    410,
     410
    ]
   },
@@ -5914,16 +5880,20 @@
      4,
      [
       [
-       510,
+       277,
        "[Page 411]"
       ]
      ]
     ],
     [
-     "L",
-     40,
-     "[Page 412]",
-     true
+     "I",
+     36,
+     [
+      [
+       114,
+       "[Page 412]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360nn - Inspection, records, and reports.md",
@@ -5946,10 +5916,10 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       93,
+       415,
        "[Page 413]"
       ]
      ]
@@ -5984,10 +5954,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       102,
+       526,
        "[Page 414]"
       ]
      ]
@@ -6034,20 +6004,16 @@
      16,
      [
       [
-       284,
+       98,
        "[Page 415]"
       ]
      ]
     ],
     [
-     "I",
-     84,
-     [
-      [
-       142,
-       "[Page 416]"
-      ]
-     ]
+     "L",
+     82,
+     "[Page 416]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb - Expanded access to unapproved therapies and diagnostics.md",
@@ -6060,10 +6026,14 @@
    "id": "21_360bbb-0",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 417]",
-     true
+     "I",
+     18,
+     [
+      [
+       97,
+       "[Page 417]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb–0 - Expanded access policy required for investigational drugs.md",
@@ -6076,14 +6046,10 @@
    "id": "21_360bbb-0a",
    "marks": [
     [
-     "I",
+     "L",
      46,
-     [
-      [
-       98,
-       "[Page 418]"
-      ]
-     ]
+     "[Page 418]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb–0a - Investigational drugs for use by eligible patients.md",
@@ -6109,7 +6075,7 @@
      4,
      [
       [
-       281,
+       183,
        "[Page 419]"
       ]
      ]
@@ -6125,52 +6091,56 @@
    "id": "21_360bbb-3",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 420]",
-     true
+     "I",
+     48,
+     [
+      [
+       321,
+       "[Page 420]"
+      ]
+     ]
     ],
     [
      "I",
      116,
      [
       [
-       228,
+       94,
        "[Page 421]"
       ]
      ]
     ],
     [
-     "I",
-     172,
-     [
-      [
-       94,
-       "[Page 422]"
-      ]
-     ]
+     "L",
+     170,
+     "[Page 422]",
+     true
     ],
     [
      "I",
-     240,
+     238,
      [
       [
-       233,
+       136,
        "[Page 423]"
       ]
      ]
     ],
     [
      "L",
-     296,
+     292,
      "[Page 424]",
      true
     ],
     [
-     "L",
-     364,
-     "[Page 425]",
-     true
+     "I",
+     362,
+     [
+      [
+       168,
+       "[Page 425]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb–3 - Authorization for medical products for use in emergencies.md",
@@ -6183,14 +6153,10 @@
    "id": "21_360bbb-3a",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       94,
-       "[Page 426]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 426]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb–3a - Emergency use of medical products.md",
@@ -6203,14 +6169,10 @@
    "id": "21_360bbb-3b",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       171,
-       "[Page 427]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 427]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb–3b - Products held for emergency use.md",
@@ -6233,37 +6195,37 @@
    "marks": [
     [
      "L",
-     12,
+     10,
      "[Page 428]",
      true
     ],
     [
      "L",
-     68,
+     66,
      "[Page 429]",
      true
     ],
     [
      "L",
-     146,
+     144,
      "[Page 430]",
      true
     ],
     [
-     "L",
-     204,
-     "[Page 431]",
-     true
-    ],
-    [
      "I",
-     274,
+     202,
      [
       [
-       110,
-       "[Page 432]"
+       309,
+       "[Page 431]"
       ]
      ]
+    ],
+    [
+     "L",
+     270,
+     "[Page 432]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part E - General Provisions Relating to Drugs and Devices/§ 00360bbb–4 - Countermeasure development, review, and technical assistance.md",
@@ -6280,7 +6242,7 @@
      46,
      [
       [
-       221,
+       89,
        "[Page 433]"
       ]
      ]
@@ -7160,7 +7122,7 @@
      4,
      [
       [
-       567,
+       806,
        "[Page 488]"
       ]
      ]
@@ -7847,42 +7809,46 @@
     ],
     [
      "L",
-     362,
+     366,
      "[Page 532]",
      true
     ],
     [
-     "L",
-     434,
-     "[Page 533]",
-     true
+     "I",
+     432,
+     [
+      [
+       171,
+       "[Page 533]"
+      ]
+     ]
     ],
     [
      "I",
-     504,
+     500,
      [
       [
-       226,
+       527,
        "[Page 534]"
       ]
      ]
     ],
     [
      "I",
-     560,
+     558,
      [
       [
-       112,
+       396,
        "[Page 535]"
       ]
      ]
     ],
     [
      "I",
-     630,
+     624,
      [
       [
-       327,
+       557,
        "[Page 536]"
       ]
      ]
@@ -7899,43 +7865,47 @@
    "marks": [
     [
      "I",
-     10,
+     18,
      [
       [
-       138,
+       98,
        "[Page 537]"
       ]
      ]
     ],
     [
-     "L",
-     58,
-     "[Page 538]",
-     true
+     "I",
+     66,
+     [
+      [
+       335,
+       "[Page 538]"
+      ]
+     ]
     ],
     [
      "I",
-     122,
+     128,
      [
       [
-       95,
+       578,
        "[Page 539]"
       ]
      ]
     ],
     [
      "I",
-     178,
+     186,
      [
       [
-       98,
+       103,
        "[Page 540]"
       ]
      ]
     ],
     [
      "L",
-     240,
+     250,
      "[Page 541]",
      true
     ]
@@ -7950,34 +7920,30 @@
    "id": "21_379h-2",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       96,
-       "[Page 542]"
-      ]
-     ]
+     "L",
+     64,
+     "[Page 542]",
+     true
     ],
     [
      "I",
-     114,
+     118,
      [
       [
-       86,
+       92,
        "[Page 543]"
       ]
      ]
     ],
     [
      "L",
-     198,
+     206,
      "[Page 544]",
      true
     ],
     [
      "L",
-     290,
+     294,
      "[Page 545]",
      true
     ]
@@ -8002,7 +7968,7 @@
    "marks": [
     [
      "I",
-     54,
+     58,
      [
       [
        96,
@@ -8011,26 +7977,34 @@
      ]
     ],
     [
-     "L",
-     132,
-     "[Page 547]",
-     true
+     "I",
+     138,
+     [
+      [
+       219,
+       "[Page 547]"
+      ]
+     ]
     ],
     [
      "I",
      188,
      [
       [
-       109,
+       788,
        "[Page 548]"
       ]
      ]
     ],
     [
-     "L",
-     222,
-     "[Page 549]",
-     true
+     "I",
+     228,
+     [
+      [
+       111,
+       "[Page 549]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 003 - Fees Relating to Devices/§ 00379i - Definitions.md",
@@ -8044,107 +8018,99 @@
    "marks": [
     [
      "I",
-     58,
+     62,
      [
       [
-       175,
+       99,
        "[Page 550]"
       ]
      ]
     ],
     [
      "I",
-     118,
+     122,
      [
       [
-       424,
+       99,
        "[Page 551]"
       ]
      ]
     ],
     [
      "I",
-     191,
+     193,
      [
       [
-       140,
+       250,
        "[Page 552]"
       ]
      ]
     ],
     [
+     "L",
+     291,
+     "[Page 553]",
+     true
+    ],
+    [
      "I",
-     281,
+     385,
      [
       [
-       108,
-       "[Page 553]"
+       143,
+       "[Page 554]"
       ]
      ]
     ],
     [
      "L",
-     377,
-     "[Page 554]",
-     true
-    ],
-    [
-     "L",
-     425,
+     437,
      "[Page 555]",
      true
     ],
     [
+     "L",
+     487,
+     "[Page 556]",
+     true
+    ],
+    [
      "I",
-     481,
+     555,
      [
       [
-       95,
-       "[Page 556]"
+       98,
+       "[Page 557]"
       ]
      ]
     ],
     [
      "L",
-     545,
-     "[Page 557]",
+     647,
+     "[Page 558]",
      true
-    ],
-    [
-     "I",
-     631,
-     [
-      [
-       224,
-       "[Page 558]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     725,
-     [
-      [
-       176,
-       "[Page 559]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     791,
-     [
-      [
-       338,
-       "[Page 560]"
-      ]
-     ]
     ],
     [
      "L",
-     865,
-     "[Page 561]",
+     739,
+     "[Page 559]",
      true
+    ],
+    [
+     "L",
+     797,
+     "[Page 560]",
+     true
+    ],
+    [
+     "I",
+     875,
+     [
+      [
+       164,
+       "[Page 561]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 003 - Fees Relating to Devices/§ 00379j - Authority to assess and use device fees.md",
@@ -8157,34 +8123,30 @@
    "id": "21_379j-1",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       375,
-       "[Page 562]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 562]",
+     true
     ],
     [
      "I",
-     82,
+     90,
      [
       [
-       270,
+       154,
        "[Page 563]"
       ]
      ]
     ],
     [
      "L",
-     152,
+     168,
      "[Page 564]",
      true
     ],
     [
      "L",
-     232,
+     250,
      "[Page 565]",
      true
     ]
@@ -8208,26 +8170,30 @@
    "id": "21_379j-11",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 566]",
-     true
-    ],
-    [
-     "L",
-     74,
-     "[Page 567]",
-     true
+     "I",
+     30,
+     [
+      [
+       91,
+       "[Page 566]"
+      ]
+     ]
     ],
     [
      "I",
-     134,
+     88,
      [
       [
-       169,
-       "[Page 568]"
+       215,
+       "[Page 567]"
       ]
      ]
+    ],
+    [
+     "L",
+     138,
+     "[Page 568]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 004 - Fees Relating to Animal Drugs/§ 00379j–11 - Definitions.md",
@@ -8241,61 +8207,69 @@
    "marks": [
     [
      "I",
-     12,
+     24,
      [
       [
-       103,
+       96,
        "[Page 569]"
       ]
      ]
     ],
     [
-     "I",
-     80,
-     [
-      [
-       136,
-       "[Page 570]"
-      ]
-     ]
+     "L",
+     100,
+     "[Page 570]",
+     true
     ],
     [
      "I",
-     162,
+     176,
      [
       [
-       345,
+       97,
        "[Page 571]"
       ]
      ]
     ],
     [
      "I",
-     246,
+     250,
      [
       [
-       99,
+       599,
        "[Page 572]"
       ]
      ]
     ],
     [
-     "L",
-     300,
-     "[Page 573]",
-     true
+     "I",
+     310,
+     [
+      [
+       132,
+       "[Page 573]"
+      ]
+     ]
     ],
     [
-     "L",
-     370,
-     "[Page 574]",
-     true
+     "I",
+     376,
+     [
+      [
+       110,
+       "[Page 574]"
+      ]
+     ]
     ],
     [
-     "L",
-     448,
-     "[Page 575]",
-     true
+     "I",
+     460,
+     [
+      [
+       112,
+       "[Page 575]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 004 - Fees Relating to Animal Drugs/§ 00379j–12 - Authority to assess and use animal drug fees.md",
@@ -8308,10 +8282,14 @@
    "id": "21_379j-13",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 576]",
-     true
+     "I",
+     70,
+     [
+      [
+       134,
+       "[Page 576]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 004 - Fees Relating to Animal Drugs/§ 00379j–13 - Reauthorization; reporting requirements.md",
@@ -8334,42 +8312,38 @@
    "marks": [
     [
      "I",
-     20,
+     24,
      [
       [
-       95,
+       102,
        "[Page 577]"
       ]
      ]
     ],
     [
      "L",
-     100,
+     110,
      "[Page 578]",
      true
     ],
     [
-     "I",
-     170,
-     [
-      [
-       412,
-       "[Page 579]"
-      ]
-     ]
+     "L",
+     176,
+     "[Page 579]",
+     true
     ],
     [
      "L",
-     216,
+     224,
      "[Page 580]",
      true
     ],
     [
      "I",
-     288,
+     290,
      [
       [
-       96,
+       94,
        "[Page 581]"
       ]
      ]
@@ -8379,23 +8353,27 @@
      350,
      [
       [
-       96,
+       373,
        "[Page 582]"
       ]
      ]
     ],
     [
-     "L",
-     426,
-     "[Page 583]",
-     true
+     "I",
+     430,
+     [
+      [
+       115,
+       "[Page 583]"
+      ]
+     ]
     ],
     [
      "I",
      474,
      [
       [
-       119,
+       343,
        "[Page 584]"
       ]
      ]
@@ -11905,13 +11883,13 @@
     ],
     [
      "L",
-     742,
+     744,
      "[Page 792]",
      true
     ],
     [
      "I",
-     846,
+     848,
      [
       [
        503,
@@ -11921,7 +11899,7 @@
     ],
     [
      "I",
-     906,
+     908,
      [
       [
        448,
@@ -16468,7 +16446,7 @@
    "marks": [
     [
      "L",
-     48,
+     44,
      "[Page 1023]",
      true
     ]
@@ -16492,10 +16470,14 @@
    "id": "21_2311",
    "marks": [
     [
-     "L",
-     54,
-     "[Page 1024]",
-     true
+     "I",
+     52,
+     [
+      [
+       142,
+       "[Page 1024]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 001 (I) - Sanctions with Respect to Foreign Opioid Traffickers/§ 02311 - Identification of foreign opioid traffickers.md",
@@ -16512,7 +16494,7 @@
      2,
      [
       [
-       143,
+       96,
        "[Page 1025]"
       ]
      ]
@@ -16545,14 +16527,23 @@
    ]
   },
   {
+   "id": "21_2313a",
+   "marks": [],
+   "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 001 (I) - Sanctions with Respect to Foreign Opioid Traffickers/§ 02313a - Designation of transactions of sanctioned persons as of primary money laundering concern.md",
+   "printed_pages": [
+    1026,
+    1026
+   ]
+  },
+  {
    "id": "21_2314",
    "marks": [
     [
      "I",
-     56,
+     6,
      [
       [
-       110,
+       93,
        "[Page 1027]"
       ]
      ]
@@ -16566,11 +16557,22 @@
   },
   {
    "id": "21_2315",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       112,
+       "[Page 1028]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 001 (I) - Sanctions with Respect to Foreign Opioid Traffickers/§ 02315 - Procedures for judicial review of classified information.md",
    "printed_pages": [
     1027,
-    1027
+    1028
    ]
   },
   {
@@ -16578,8 +16580,8 @@
    "marks": [],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 001 (I) - Sanctions with Respect to Foreign Opioid Traffickers/§ 02316 - Briefings on implementation.md",
    "printed_pages": [
-    1027,
-    1027
+    1028,
+    1028
    ]
   },
   {
@@ -16587,8 +16589,8 @@
    "marks": [],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 002 (II) - Other Matters/README.md",
    "printed_pages": [
-    1027,
-    1027
+    1028,
+    1028
    ]
   },
   {
@@ -16596,38 +16598,27 @@
    "marks": [
     [
      "I",
-     26,
+     54,
      [
       [
-       146,
-       "[Page 1028]"
+       111,
+       "[Page 1029]"
       ]
      ]
     ]
    ],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 002 (II) - Other Matters/§ 02331 - Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers.md",
    "printed_pages": [
-    1027,
-    1028
+    1028,
+    1029
    ]
   },
   {
    "id": "21_2332",
-   "marks": [
-    [
-     "I",
-     40,
-     [
-      [
-       99,
-       "[Page 1029]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 002 (II) - Other Matters/§ 02332 - Authorization of appropriations.md",
    "printed_pages": [
-    1028,
+    1029,
     1029
    ]
   },
@@ -16651,11 +16642,159 @@
   },
   {
    "id": "21_2335",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       89,
+       "[Page 1030]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids/Subchapter 002 (II) - Other Matters/§ 02335 - Exception relating to importation of goods.md",
    "printed_pages": [
     1029,
-    1029
+    1030
+   ]
+  },
+  {
+   "id": "21_-ch28A",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/README.md",
+   "printed_pages": [
+    1030,
+    1030
+   ]
+  },
+  {
+   "id": "21_2341",
+   "marks": [
+    [
+     "L",
+     86,
+     "[Page 1031]",
+     true
+    ]
+   ],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/§ 02341 - Definitions.md",
+   "printed_pages": [
+    1030,
+    1031
+   ]
+  },
+  {
+   "id": "21_-ch28A-scI",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 001 (I) - Sanctions in Response to National Emergency Relating to Fentanyl Trafficking/README.md",
+   "printed_pages": [
+    1031,
+    1031
+   ]
+  },
+  {
+   "id": "21_2351",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 001 (I) - Sanctions in Response to National Emergency Relating to Fentanyl Trafficking/§ 02351 - Finding; policy.md",
+   "printed_pages": [
+    1031,
+    1031
+   ]
+  },
+  {
+   "id": "21_2352",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 001 (I) - Sanctions in Response to National Emergency Relating to Fentanyl Trafficking/§ 02352 - Use of national emergency authorities; reporting.md",
+   "printed_pages": [
+    1031,
+    1031
+   ]
+  },
+  {
+   "id": "21_2353",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 001 (I) - Sanctions in Response to National Emergency Relating to Fentanyl Trafficking/§ 02353 - Imposition of sanctions with respect to fentanyl trafficking by transnational criminal organizations.md",
+   "printed_pages": [
+    1031,
+    1031
+   ]
+  },
+  {
+   "id": "21_2354",
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       94,
+       "[Page 1032]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 001 (I) - Sanctions in Response to National Emergency Relating to Fentanyl Trafficking/§ 02354 - Penalties; waivers; exceptions.md",
+   "printed_pages": [
+    1031,
+    1032
+   ]
+  },
+  {
+   "id": "21_2355",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 001 (I) - Sanctions in Response to National Emergency Relating to Fentanyl Trafficking/§ 02355 - Treatment of forfeited property of transnational criminal organizations.md",
+   "printed_pages": [
+    1032,
+    1032
+   ]
+  },
+  {
+   "id": "21_-ch28A-scII",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 002 (II) - Anti-Money Laundering Matters/README.md",
+   "printed_pages": [
+    1032,
+    1032
+   ]
+  },
+  {
+   "id": "21_2361",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 002 (II) - Anti-Money Laundering Matters/§ 02361 - Treatment of transnational criminal organizations in suspicious transactions reports of the Financial Crimes Enforcement Network.md",
+   "printed_pages": [
+    1032,
+    1032
+   ]
+  },
+  {
+   "id": "21_-ch28A-scIII",
+   "marks": [],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 003 (III) - Exception Relating to Importation of Goods/README.md",
+   "printed_pages": [
+    1032,
+    1032
+   ]
+  },
+  {
+   "id": "21_2371",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       104,
+       "[Page 1033]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 028A - Fentanyl Eradication and Narcotics Deterrence Off Fentanyl/Subchapter 003 (III) - Exception Relating to Importation of Goods/§ 02371 - Exception relating to importation of goods.md",
+   "printed_pages": [
+    1032,
+    1033
    ]
   },
   {
@@ -16663,24 +16802,17 @@
    "marks": [],
    "path": "Chapter 029 - International Sports Doping/README.md",
    "printed_pages": [
-    1029,
-    1029
+    1033,
+    1033
    ]
   },
   {
    "id": "21_2401",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 1030]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 029 - International Sports Doping/§ 02401 - Definitions.md",
    "printed_pages": [
-    1029,
-    1030
+    1033,
+    1033
    ]
   },
   {
@@ -16688,17 +16820,28 @@
    "marks": [],
    "path": "Chapter 029 - International Sports Doping/§ 02402 - Major international doping fraud conspiracies.md",
    "printed_pages": [
-    1030,
-    1030
+    1033,
+    1033
    ]
   },
   {
    "id": "21_2403",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       99,
+       "[Page 1034]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 029 - International Sports Doping/§ 02403 - Criminal penalties and statute of limitations.md",
    "printed_pages": [
-    1030,
-    1030
+    1033,
+    1034
    ]
   },
   {
@@ -16706,11 +16849,11 @@
    "marks": [],
    "path": "Chapter 029 - International Sports Doping/§ 02404 - Coordination and sharing of information with USADA.md",
    "printed_pages": [
-    1030,
-    1030
+    1034,
+    1034
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2023-title21 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2024-title21 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 21 - Food and Drugs"
 }

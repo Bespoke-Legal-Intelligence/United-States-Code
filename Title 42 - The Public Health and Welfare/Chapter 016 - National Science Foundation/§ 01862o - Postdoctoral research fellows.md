@@ -18,7 +18,7 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 #### Amendments
 
-<b>2022</b>—Subsec. (a). Pub. L. 117–167 inserted "and graduate student" after "postdoctoral" and "The requirement may be satisfied by providing such individuals with access to mentors, including individuals not listed on the award." after "review criterion.".
+<b>2022</b>—Subsec. (a). Pub. L. 117–167 inserted "and graduate student" after "postdoctoral" and "The requirement may be satisfied by providing such individuals with access to mentors, including individuals not listed on the award." after "review criterion."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

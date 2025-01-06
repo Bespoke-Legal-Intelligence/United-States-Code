@@ -114,7 +114,7 @@ Sec. 2. <i>Notice of Intent to Disclose Presidential Records</i>. (a) When the A
 
 Sec. 3. <i>Claim of Executive Privilege by Incumbent President</i>. (a) Upon receipt of a notice of intent to disclose Presidential records, the Attorney General (directly or through the Assistant Attorney General for the Office of Legal Counsel) and the Counsel to the President shall review as they deem appropriate the records covered by the notice and consult with each other, the Archivist, and such other executive agencies as they deem appropriate concerning whether invocation of executive privilege is justified.
 
-(b) The Attorney General and the Counsel to the President, in the exercise of their discretion and after appropriate review and consultation under subsection (a) of this section, may jointly determine that invocation of executive privilege is not justified. The Archivist shall be notified promptly of any such determination.
+(b) The Attorney General and the Counsel to the President, in the exercise of their discretion and afterappropriate review and consultation under subsection (a) of this section, may jointly determine that invocation of executive privilege is not justified. The Archivist shall be notified promptly of any such determination.
 
 (c) If either the Attorney General or the Counsel to the President believes that the circumstances justify invocation of executive privilege, the issue shall be presented to the President by the Counsel to the President and the Attorney General.
 

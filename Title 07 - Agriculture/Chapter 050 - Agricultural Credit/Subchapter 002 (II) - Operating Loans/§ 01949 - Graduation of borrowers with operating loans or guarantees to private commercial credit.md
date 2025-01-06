@@ -8,7 +8,7 @@ The Secretary shall establish a plan, in coordination with activities under sect
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–79 struck out subsec. (a) designation and heading before "The Secretary" and struck out subsec. (b) which related to limitation on period borrowers were eligible for guaranteed assistance under this subchapter and contained transition rule.
+<b>2014</b>—Pub. L. 113–79 struck out subsec. (a) designation and heading before "The Secretary" and struck outsubsec. (b) which related to limitation on period borrowers were eligible for guaranteed assistance under this subchapter and contained transition rule.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which provided for limitation on period for which borrowers were eligible for assistance under this subchapter and contained transition rule.
 

@@ -12,7 +12,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (1) Minimum grant
 
-&emsp;Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50 States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
+&emsp;Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
 
 #### (2) Additional funding
 
@@ -48,7 +48,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;&emsp;(iv) such other information as may be requested by the Secretary; and
 
-&emsp;&emsp;(E) encourage applicants to submit a plan for implementation of the program that includes a partnership with 1 or more entitiesthat will provide non-Federal resources (including entities representing the fruit and vegetable industry).
+&emsp;&emsp;(E) encourage applicants to submit a plan for implementation of the program that includes a partnership with 1 or more entities that will provide non-Federal resources (including entities representing the fruit and vegetable industry).
 
 #### (2) Exception
 
@@ -188,7 +188,7 @@ Pub. L. 113–79, title IV, §4214, Feb. 7, 2014, 128 Stat. 831, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), in the 2014–2015 school year, the Secretary \[of Agriculture\] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769a) (referred to in this section as the "Program"), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program.
+In General.—Subject to subsection (b), in the 2014–2015 school year, the Secretary \[of Agriculture\]shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769a) (referred to in this section as the "Program"), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program.
 
 "(b)
 
@@ -238,7 +238,7 @@ Pub. L. 110–234, title IV, §4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pub
 
 "(A)
 
-Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that hasbeen awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
+Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
 
 "(B)
 

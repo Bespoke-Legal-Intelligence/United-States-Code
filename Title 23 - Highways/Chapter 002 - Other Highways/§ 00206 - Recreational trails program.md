@@ -134,7 +134,7 @@ Federal agency project sponsor.—Notwithstanding any other provision of law, a 
 
 &emsp;(3)
 
-Use of funds from federal programs to provide non-federal share.—Notwithstanding any other provision of law, the non-Federal share of the cost of the project mayinclude amounts made available by the Federal Government under any Federal program that are—
+Use of funds from federal programs to provide non-federal share.—Notwithstanding any other provision of law, the non-Federal share of the cost of the project may include amounts made available by the Federal Government under any Federal program that are—
 
 &emsp;&emsp;(A) expended in accordance with the requirements of the Federal program relating to activities funded and populations served; and
 
@@ -220,7 +220,7 @@ Contract Authority.—Funds authorized to carry out this section shall be availa
 
 Use of Other Apportioned Funds.—Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.
 
-(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
+(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
 
 #### <b>Editorial Notes</b>
 

@@ -58,7 +58,7 @@ Exclusion of Intelligence Activities.—(1) This section does not constitute aut
 
 (f)
 
-Quarterly Briefing.—On a quarterly basis, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, in coordination with elements of the Department of Defense that the Assistant Secretary determines appropriate, shall provide to the congressional defense committees a briefing outlining the clandestine activities carried out pursuant to subsection (a) during the period covered by the briefing, including—
+Quarterly Briefing.—On a quarterly basis, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict,in coordination with elements of the Department of Defense that the Assistant Secretary determines appropriate, shall provide to the congressional defense committees a briefing outlining the clandestine activities carried out pursuant to subsection (a) during the period covered by the briefing, including—
 
 &emsp;(1) an update on such activities carried out in each geographic combatant command and a description of how such activities support the respective theater campaign plan;
 
@@ -86,7 +86,7 @@ Non-Conventional Assisted Recovery Capabilities.—Funding used to establish, de
 
 (i)
 
-Oversight by Assistant Secretary of Defense for Special Operations and Low Intensity Conflict.—The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense foroversight of policies and programs authorized by this section.
+Oversight by Assistant Secretary of Defense for Special Operations and Low Intensity Conflict.—The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs authorized by this section.
 
 (j)
 

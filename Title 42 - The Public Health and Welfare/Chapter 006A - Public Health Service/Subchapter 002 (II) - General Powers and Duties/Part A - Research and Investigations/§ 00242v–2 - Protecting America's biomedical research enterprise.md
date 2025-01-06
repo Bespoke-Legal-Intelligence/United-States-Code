@@ -24,7 +24,7 @@ Not later than 1 year after December 29, 2022, the Secretary shall prepare and s
 
 #### Codification
 
-Section was enacted as part of the Prepare for and Respond to Existing Viruses, Emerging New Threats,and Pandemics Act, also known as the PREVENT Pandemics Act, and also as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Prepare for and Respond to Existing Viruses, Emerging New Threats, and Pandemics Act, also known as the PREVENT Pandemics Act, and also as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

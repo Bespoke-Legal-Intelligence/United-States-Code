@@ -156,7 +156,7 @@
 
 #### (C) Limitation on Federal share
 
-&emsp;&emsp;The Federal share of a grant made under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted.
+&emsp;&emsp;The Federal share of a grant made under this paragraph may not exceed 75 percent of the total project cost. In general, this project match requirement may be satisfied by contributions or expenditures committed to improve victim support services that promote victim recovery and reintegration into society, provided that these contributions and expenditures are consistent with applicable grant requirements and approved project scope.
 
 #### (D) Priority
 
@@ -202,7 +202,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a Federal law enforcement official files an application stating that an alien is a victim of a severe form of trafficking and may be a potential witness to such trafficking, the Secretary of Homeland Security may permit the alien to remain in theUnited States to facilitate the investigation and prosecution of those responsible for such crime.
+&emsp;&emsp;&emsp;If a Federal law enforcement official files an application stating that an alien is a victim of a severe form of trafficking and may be a potential witness to such trafficking, the Secretary of Homeland Security may permit the alien to remain in the United States to facilitate the investigation and prosecution of those responsible for such crime.
 
 #### (ii) Safety
 
@@ -294,7 +294,7 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 109–164, title II, §213(c), formerly Pub. L. 115–393, title V, §501(c), Dec. 21, 2018, 132 Stat. 5276, renumbered §213(c) of Pub. L. 109–164 by Pub. L. 117–347, title I, §106(b)(3), Jan. 5, 2023, 136 Stat. 6205; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475; Pub. L. 117–301, §2, Dec. 27, 2022, 136 Stat. 4382; Pub. L. 117–347, title I, §101(b), Jan. 5, 2023, 136 Stat. 6200.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 109–164, title II, §213(c), formerly Pub. L. 115–393, title V, §501(c), Dec. 21, 2018, 132 Stat. 5276, renumbered §213(c) of Pub. L. 109–164 by Pub. L. 117–347, title I, §106(b)(3), Jan. 5, 2023, 136 Stat. 6205; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475; Pub. L. 117–301, §2, Dec. 27, 2022, 136 Stat. 4382; Pub. L. 117–347, title I, §101(b), Jan. 5, 2023, 136 Stat. 6200; Pub. L. 118–42, div. C, title V, §545, Mar. 9, 2024, 138 Stat. 178.)
 
 #### <b>Editorial Notes</b>
 
@@ -306,7 +306,7 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 
 Section 7102(8) of this title as in effect on October 28, 2000, referred to in subsec. (b)(1)(C)(i), means section 7102(8) of this title prior to the amendments made by Pub. L. 113–4, title XII, §1212(b)(1)(A), Mar. 7, 2013, 127 Stat. 143, and Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503. As amended, par. (8) of section 7102 of this title was redesignated as par. (11).
 
-Section 20708 of title 34, referred to in subsec. (c)(4)(A), was in the original a reference to section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109–162. Section 111 of Pub. L. 109–162 was redesignated as section 208 of the Trafficking Victims Protection Reauthorization Act of 2005, Pub. L. 109–164, and is classified to section 20708 of Title 34, Crime Control and Law Enforcement.
+Section 20708 of title 34, referred to in subsec. (c)(4)(A), was in the original a reference to section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109–162. Section 111 of Pub. L. 109–162 was redesignated as section208 of the Trafficking Victims Protection Reauthorization Act of 2005, Pub. L. 109–164, and is classified to section 20708 of Title 34, Crime Control and Law Enforcement.
 
 This Act, referred to in subsec. (c)(4)(B)(i), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
@@ -317,6 +317,8 @@ For the amendments made by this section, referred to in subsec. (e)(5), see Codi
 Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) of section 107 of Pub. L. 106–386 amended sections 1101, 1182, and 1184 of Title 8, Aliens and Nationality, and second subsec. (f) of section 107 of Pub. L. 106–386 amended section 1255 of Title 8.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(2)(C). Pub. L. 118–42 substituted "total project cost. In general, this project match requirement may be satisfied by contributions or expenditures committed to improve victim support services that promote victim recovery and reintegration into society, provided that these contributions and expenditures are consistent with applicable grant requirements and approved project scope" for "total costs of the projects described in the application submitted".
 
 <b>2023</b>—Subsec. (c)(4)(A). Pub. L. 117–347, §101(b), inserted "in order to fulfill the purposes described in section 20708 of title 34" before period at end.
 
@@ -384,7 +386,7 @@ Pub. L. 109–162, §804(a)(1) substituted "Secretary of Homeland Security" for 
 
 Subsec. (b)(1)(A). Pub. L. 108–193, §4(a)(2)(A), inserted ", or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "in persons".
 
-Subsec. (b)(1)(B). Pub. L. 108–193, §4(a)(2)(B), inserted "and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "United States," andinserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
+Subsec. (b)(1)(B). Pub. L. 108–193, §4(a)(2)(B), inserted "and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8," after "United States," and inserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
 
 Subsec. (b)(1)(D). Pub. L. 108–193, §6(a)(2), struck out subpar. (D) which related to annual reports on the number of persons receiving benefits or services under paragraph (1).
 

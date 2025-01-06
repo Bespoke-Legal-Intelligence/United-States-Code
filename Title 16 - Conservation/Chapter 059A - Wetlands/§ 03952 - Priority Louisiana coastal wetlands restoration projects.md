@@ -12,7 +12,7 @@
 
 #### (3) Transmittal of list
 
-&emsp;No later than one year after November 29, 1990, the Secretary shall transmit to the Congress the list of priority coastal wetlands restoration projects required by paragraph (1) of this subsection. Thereafter, the list shall be updated annually by the Task Force membersand transmitted by the Secretary to the Congress as part of the President's annual budget submission. Annual transmittals of the list to the Congress shall include a status report on each project and a statement from the Secretary of the Treasury indicating the amounts available for expenditure to carry out this chapter.
+&emsp;No later than one year after November 29, 1990, the Secretary shall transmit to the Congress the list of priority coastal wetlands restoration projects required by paragraph (1) of this subsection. Thereafter, the list shall be updated annually by the Task Force members and transmitted by the Secretary to the Congress as part of the President's annual budget submission. Annual transmittals of the list to the Congress shall include a status report on each project and a statement from the Secretary of the Treasury indicating the amounts available for expenditure to carry out this chapter.
 
 #### (4) List of contents
 
@@ -42,7 +42,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (2) Purpose of the plan
 
-&emsp;The purpose of the restoration plan is to develop a comprehensive approach to restore and prevent the loss of, coastal wetlands in Louisiana. Such plan shall coordinate and integrate coastal wetlands restoration projects in a manner that will ensure the long-term conservation of the coastal wetlands of Louisiana.
+&emsp;The purpose of the restoration plan is to develop a comprehensive approach to restore andprevent the loss of, coastal wetlands in Louisiana. Such plan shall coordinate and integrate coastal wetlands restoration projects in a manner that will ensure the long-term conservation of the coastal wetlands of Louisiana.
 
 #### (3) Integration of existing plans
 

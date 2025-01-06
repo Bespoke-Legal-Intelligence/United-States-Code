@@ -18,7 +18,7 @@ For purposes of the computation of the fifteen day period in subsection (b)—
 
 #### (d) Reimbursement
 
-The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys' fees, reasonably incurred in obtaining representation. Such reimbursement shall be from funds appropriated to the contingent fund of the Senate.
+The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys' fees, reasonably incurred in obtaining representation. Such reimbursement shall be fromfunds appropriated to the contingent fund of the Senate.
 
 (Pub. L. 95–521, title VII, §710, Oct. 26, 1978, 92 Stat. 1882.)
 

@@ -58,7 +58,7 @@ Eligibility.—To be eligible for a grant under this section, an entity shall—
 
 (c)
 
-Guidelines.—The Secretary shall issue guidelines to establish appropriate accounting,reporting, and review procedures to ensure that—
+Guidelines.—The Secretary shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
 
 &emsp;(1) amounts awarded as grants under this section are used for the purposes for which such amounts were made available; and
 

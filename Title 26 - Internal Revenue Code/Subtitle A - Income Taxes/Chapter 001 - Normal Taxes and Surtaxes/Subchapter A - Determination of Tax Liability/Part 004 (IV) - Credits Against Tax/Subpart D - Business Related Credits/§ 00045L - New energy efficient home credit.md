@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of section 38, in the case of an eligible contractor, the new energy efficient home credit for the taxable year is the applicable amount for each qualified new energy efficient home which is—
+&emsp;For purposes of section 38, in the case of an eligible contractor, the new energy efficienthome credit for the taxable year is the applicable amount for each qualified new energy efficient home which is—
 
 &emsp;&emsp;(A) constructed by the eligible contractor, and
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;A dwelling unit meets the requirements of this paragraph if—
 
-&emsp;&emsp;(A) such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, orJanuary 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and
+&emsp;&emsp;(A) such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and
 
 &emsp;&emsp;(B) such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later).
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (e) Basis adjustment
 
-For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.
+For purposes of this subtitle, if a credit is allowed under this section in connection with anyexpenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.
 
 #### (f) Coordination with investment credit
 
@@ -196,7 +196,7 @@ Extension of credit.—The amendments made by subsection (a) \[amending this sec
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §146(b), Dec. 27, 2020, 134 Stat. 3055, provided that: "The amendment made by this section \[amending this section\] shall apply to homes acquired after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §146(b), Dec. 27, 2020, 134 Stat. 3055, provided that: "The amendment made bythis section \[amending this section\] shall apply to homes acquired after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

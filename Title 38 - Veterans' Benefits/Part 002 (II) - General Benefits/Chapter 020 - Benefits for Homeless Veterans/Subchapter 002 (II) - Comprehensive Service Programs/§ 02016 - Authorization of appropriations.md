@@ -32,7 +32,7 @@ Par. (7). Pub. L. 114–228 substituted "$257,700,000" for "$250,000,000".
 
 <b>2013</b>—Pars. (6), (7). Pub. L. 113–37 added pars. (6) and (7) and struck out former par. (6) which read as follows: "$150,000,000 for fiscal year 2014 and each subsequent fiscal year."
 
-<b>2012</b>—Pars. (5), (6). Pub. L. 112–154 added pars. (5) and (6) and struck out former par. (5) which read as follows: "$150,000,000 for fiscal year 2013 and each subsequent fiscal year."
+<b>2012</b>—Pars. (5), (6). Pub. L. 112–154 added pars. (5) and (6) and struck out former par. (5) which read as follows:"$150,000,000 for fiscal year 2013 and each subsequent fiscal year."
 
 <b>2011</b>—Pub. L. 112–37 substituted "subchapter amounts as follows:" for "subchapter $150,000,000 for fiscal year 2007 and each fiscal year thereafter." and added at end pars. (1) to (5).
 

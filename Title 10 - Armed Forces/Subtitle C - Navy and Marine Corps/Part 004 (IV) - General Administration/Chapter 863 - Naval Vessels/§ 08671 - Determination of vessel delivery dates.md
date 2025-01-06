@@ -44,7 +44,7 @@ Definitions.—In this section:
 
 Subsec. (c). Pub. L. 115–232, §1014(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 115–232, §1014(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "In this section, the term 'coveredvessel' means any vessel of the Navy that is under construction on or after the date of the enactment of this section using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy."
+Subsec. (d). Pub. L. 115–232, §1014(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "In this section, the term 'covered vessel' means any vessel of the Navy that is under construction on or after the date of the enactment of this section using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy."
 
 Pub. L. 115–232, §1014(a)(1), redesignated subsec. (c) as (d).
 

@@ -32,7 +32,7 @@ Proof.—The Administrator of General Services shall prescribe regulations under
 
 (d)
 
-Certain Transportation by Air Outside the United States.—Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State or the Administrator of the Agency for International Development may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
+Certain Transportation by Air Outside the United States.—Notwithstanding subsections (a) and (c) of this section, any amountappropriated to the Secretary of State or the Administrator of the Agency for International Development may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
 
 (e)
 
@@ -48,13 +48,13 @@ Prohibition of Certification or Contract Clause.—(1) No certification by a con
 
 Training Requirements.—The Administrator of General Services shall ensure that any contract entered into for provision of air transportation with a domestic carrier under this section requires that the contracting air carrier submits to the Administrator of General Services, the Secretary of Transportation, the Administrator of the Transportation Security Administration, the Secretary of Labor and the Commissioner of U.S. Customs and Border Protection an annual report regarding—
 
-&emsp;(1) the number of personnel trained in the detection and reporting of potential human trafficking (as described in paragraphs (9) and (10) <sup>1</sup> of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)), including the training required under section 44734(a)(4);
+&emsp;(1) the number of personnel trained in the detection and reporting of potential severe forms of trafficking in persons and sex trafficking (as such terms are defined in paragraphs (11) and (12) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)), including the training required under section 44734(a)(4);
 
 &emsp;(2) the number of notifications of potential human trafficking victims received from staff or other passengers; and
 
 &emsp;(3) whether the air carrier notified the National Human Trafficking Hotline or law enforcement at the relevant airport of the potential human trafficking victim for each such notification of potential human trafficking, and if so, when the notification was made.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588; Pub. L. 111–350, §5(o)(8), Jan. 4, 2011, 124 Stat. 3854; Pub. L. 115–232, div. A, title VIII, §836(g)(9), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 115–425, title I, §111(a), Jan. 8, 2019, 132 Stat. 5475.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588; Pub. L. 111–350, §5(o)(8), Jan. 4, 2011, 124 Stat. 3854; Pub. L. 115–232, div. A, title VIII, §836(g)(9), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 115–425, title I, §111(a), Jan. 8, 2019, 132 Stat. 5475; Pub. L. 118–63, title XI, §1101(g), May 16, 2024, 138 Stat. 1413.)
 
 Historical and Revision Notes
 
@@ -120,11 +120,9 @@ This amends 49:40118(f)(1) to make a clarifying amendment.
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Paragraphs (9) and (10) of section 103 of the Trafficking Victims Protection Act of 2000, referred to in subsec. (g)(1), were redesignated pars. (11) and (12), respectively, of section 103 of that Act by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503, and are classified to section 7102(11) and (12) of Title 22, Foreign Relations and Intercourse.
-
 #### Amendments
+
+<b>2024</b>—Subsec. (g)(1). Pub. L. 118–63 substituted "detection and reporting of potential severe forms of trafficking in persons and sex trafficking (as such terms are defined in paragraphs (11) and (12)" for "detection and reporting of potential human trafficking (as described in paragraphs (9) and (10)".
 
 <b>2019</b>—Subsec. (g). Pub. L. 115–425 added subsec. (g).
 
@@ -166,7 +164,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 8752 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective Date of 2003 Amendment
 
@@ -183,6 +181,4 @@ Amendment by section 1422(b)(6) of Pub. L. 105–277 effective on earlier of Apr
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

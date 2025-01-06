@@ -24,7 +24,7 @@ In connection with the offering of any health insurance coverage to a small empl
 
 #### (3) Exception
 
-&emsp;An issuer is not required under this section to disclose any information that is proprietaryand trade secret information under applicable law.
+&emsp;An issuer is not required under this section to disclose any information that is proprietary and trade secret information under applicable law.
 
 (July 1, 1944, ch. 373, title XXVII, §2709, formerly §2713, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1966; renumbered §2733, renumbered §2709, and amended Pub. L. 111–148, title I, §§1001(3), 1563(c)(10), formerly §1562(c)(10), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 268, 911.)
 

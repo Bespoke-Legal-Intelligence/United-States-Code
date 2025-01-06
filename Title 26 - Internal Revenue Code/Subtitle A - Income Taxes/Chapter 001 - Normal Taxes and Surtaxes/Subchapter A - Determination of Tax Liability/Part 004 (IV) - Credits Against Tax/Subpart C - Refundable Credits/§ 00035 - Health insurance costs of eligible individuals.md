@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "eligible TAA recipient" means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "eligible TAA recipient" means, with respect to any month, any individualwho is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
 
 #### (B) Special rule
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(I) Coverage under a group health plan that is available through the employment of the eligible individual's spouse.
 
-&emsp;&emsp;(J) In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act). For purposes of this subparagraph, the term "individual health insurance" means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
+&emsp;&emsp;(J) In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act). For purposes of this subparagraph, the term"individual health insurance" means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
 
 &emsp;&emsp;(K) Coverage under an employee benefit plan funded by a voluntary employees' beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
 
@@ -214,7 +214,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (1) Coordination with advance payments of credit
 
-&emsp;With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
+&emsp;With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer undersubsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
 
 #### (2) Coordination with other deductions
 
@@ -284,7 +284,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (A) In general
 
-&emsp;&emsp;This section shall not apply to any taxpayer for any eligible coverage month unless such taxpayer elects the application of this section for such month.
+&emsp;&emsp;This section shall not apply to any taxpayer for any eligible coverage month unlesssuch taxpayer elects the application of this section for such month.
 
 #### (B) Timing and applicability of election
 
@@ -334,7 +334,7 @@ Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(
 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (e)(1)(J) and (g)(12)(B)(i)(I), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 1412 of the Act is classified to section 18082 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, ThePublic Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (g)(9), is section 9501(a)(1) of Pub. L. 117–2, which is set out in a note under section 4980B of this title.
 
@@ -342,7 +342,7 @@ Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subse
 
 A prior section 35 was renumbered section 37 of this title.
 
-Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
+Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II,§201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 
@@ -354,7 +354,7 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 <b>2015</b>—Subsec. (b)(1)(B). Pub. L. 114–27, §407(a), substituted "before January 1, 2020" for "before January 1, 2014".
 
-Subsec. (e)(1)(J). Pub. L. 114–27, §407(d)(2), inserted "(other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act)" after "under individual health insurance"
+Subsec. (e)(1)(J). Pub. L. 114–27, §407(d)(2), inserted "(other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act)" after "under individual health insurance".
 
 Pub. L. 114–27, §407(d)(1), substituted "under individual health insurance. For purposes of" for "under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
 
@@ -414,7 +414,7 @@ Pub. L. 117–2, title IX, §9501(b)(3)(B), Mar. 11, 2021, 135 Stat. 137, provid
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §134(b), Dec. 27, 2020, 134 Stat. 3053, provided that: "The amendment made bythis section \[amending this section\] shall apply to months beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §134(b), Dec. 27, 2020, 134 Stat. 3053, provided that: "The amendment made by this section \[amending this section\] shall apply to months beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 
@@ -430,7 +430,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Plans available on individual market for use of tax credit.—The amendment made by subsection (d)(2) \[amending this section\] shall apply to coverage months in taxable years beginning after December 31, 2015.
+Plans available on individual market for use of tax credit.—The amendment made by subsection\(d)(2) \[amending this section\] shall apply to coverage months in taxable years beginning after December 31, 2015.
 
 "(3)
 
@@ -502,7 +502,7 @@ Pub. L. 107–210, div. A, title II, §201(d), Aug. 6, 2002, 116 Stat. 960, prov
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 300gg–45 of Title 42, The Public Health and Welfare, amending section 1324 of Title 31,Money and Finance, and renumbering former section 35 of this title as section 36 of this title\] shall apply to taxable years beginning after December 31, 2001.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 300gg–45 of Title 42, The Public Health and Welfare, amending section 1324 of Title 31, Money and Finance, and renumbering former section 35 of this title as section 36 of this title\] shall apply to taxable years beginning after December 31, 2001.
 
 "(2)
 
@@ -596,7 +596,7 @@ Report.—Not later than October 1 of each year (beginning in 2010), the Secreta
 
 > &emsp;The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs.
 
-&emsp;"(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respectto each category of eligible individuals described in such section.
+&emsp;"(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section.
 
 &emsp;"(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities.
 

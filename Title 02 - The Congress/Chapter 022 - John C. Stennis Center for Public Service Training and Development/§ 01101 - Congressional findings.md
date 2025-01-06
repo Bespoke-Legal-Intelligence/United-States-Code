@@ -2,7 +2,7 @@
 
 The Congress makes the following findings:
 
-&emsp;(1) Senator John C. Stennis of the State of Mississippi has served his State and country with distinction for more than 60 years as a public servant, including service in the United States Senate for a period of 41 years.
+&emsp;(1) Senator John C. Stennis of the State of Mississippi has served his State and countrywith distinction for more than 60 years as a public servant, including service in the United States Senate for a period of 41 years.
 
 &emsp;(2) Senator Stennis has a distinguished record as a United States Senator, including service as the first Chairman of the Select Committee on Ethics, Chairman of the Committee on Armed Services, Chairman of the Committee on Appropriations, and President pro tempore of the Senate.
 

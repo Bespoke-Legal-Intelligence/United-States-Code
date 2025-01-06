@@ -2,7 +2,7 @@
 
 #### (a) Assistance for schools and libraries
 
-The President is authorized to furnish assistance, on such terms and conditions as he may specify, to schools and libraries outside the United States founded or sponsored by United States citizens and serving as study and demonstration centers for ideas and practices of the United States.
+The President is authorized to furnish assistance, on such terms and conditions as he mayspecify, to schools and libraries outside the United States founded or sponsored by United States citizens and serving as study and demonstration centers for ideas and practices of the United States.
 
 #### (b) Assistance for hospital centers
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 93–189 added subsec. (e).
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–175, §103(1), substituted authorization of $25,900,000 for the fiscal year 1970 and $12,900,000 for the fiscal year 1971, for sum of $14,600,000 for the fiscal year 1969, and inserted provision making amounts appropriated under this subsection for the fiscal year 1970 available for expenditure solely in accordance with the allocations set forth on pages 25 and 26 of House Report No. 91–611 and on page 23 of Senate Report No. 91–603.
 
-Subsec. (d). Pub. L. 91–175, §103(2), (3), substituted authorization of $3,000,000 for fiscal year 1970, for sum of $5,100,000 for fiscal year 1969, and inserted provision making foreign currencies appropriated under this subsection available for expenditure solely in accordance with the allocation set forth on page 23 of Senate Report No. 91–603.
+Subsec. (d). Pub. L. 91–175, §103(2), (3), substituted authorization of $3,000,000 for fiscal year 1970, for sum of $5,100,000 for fiscal year 1969, and inserted provision making foreign currencies appropriated under this subsection available for expenditure solely in accordancewith the allocation set forth on page 23 of Senate Report No. 91–603.
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–554, §102(c)(1), substituted authorization of $14,600,000 for fiscal year 1969, for sum of $14,000,000 for fiscal year 1968.
 

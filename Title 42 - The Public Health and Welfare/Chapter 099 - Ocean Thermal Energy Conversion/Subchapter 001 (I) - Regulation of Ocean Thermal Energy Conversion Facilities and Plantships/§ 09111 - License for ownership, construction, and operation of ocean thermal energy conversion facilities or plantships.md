@@ -2,7 +2,7 @@
 
 #### (a) License requirement
 
-No person may engage in the ownership, construction, or operation of an ocean thermal energy conversion facility which is documented under the laws of the United States, which is located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States, or which is connected to the United States by pipeline or cable, except in accordance with a license issued pursuant to this chapter. No citizen of the United States may engage in the ownership, construction or operation of an ocean thermal energy conversion plantship except in accordance with a license issued pursuant to this chapter, or in accordance with a license issued by a foreign nation whose licenses are found by the Administrator, after consultation with the Secretary of State, to be compatible with licenses issued pursuant to this chapter.
+No person may engage in the ownership, construction, or operation of an ocean thermal energy conversion facility which is documented under the laws of the United States, which is located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States, or which is connected to the United States by pipeline or cable, except in accordance with a license issued pursuant to this chapter. No citizen of the UnitedStates may engage in the ownership, construction or operation of an ocean thermal energy conversion plantship except in accordance with a license issued pursuant to this chapter, or in accordance with a license issued by a foreign nation whose licenses are found by the Administrator, after consultation with the Secretary of State, to be compatible with licenses issued pursuant to this chapter.
 
 #### (b) Documented plantships; documented facilities; facilities located in territorial sea; facilities connected to United States by pipeline or cable
 
@@ -34,7 +34,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility, will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
 
-&emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant tothe Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
+&emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 
 &emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
 
@@ -42,7 +42,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(13) when the license is for an ocean thermal energy conversion plantship, he determines that the applicant has not provided adequate assurance that the plantship will be operated in such a way as to prevent its thermal plume from impinging on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility or plantship without the consent of its owner, and from impinging on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation unless the Secretary of State approves such impingement after consultation with such nation; or
 
-&emsp;(14) if a regulation has been adopted which places an upper limit on the number or total capacity of ocean thermal energy conversion facilities or plantships to be licensed under this chapter for simultaneous operation, either overall or within specific geographic areas, pursuant to a determination under the provisions of section 9117(b)(4) of this title, issuance of the license will cause such upper limit to be exceeded.
+&emsp;(14) if a regulation has been adopted which places an upper limit on the number or total capacity of ocean thermal energy conversion facilities or plantships to be licensed under this chapter for simultaneous operation, either overall or within specific geographic areas, pursuant to a determination under theprovisions of section 9117(b)(4) of this title, issuance of the license will cause such upper limit to be exceeded.
 
 #### (d) Issuance conditions; written agreement of compliance; disposal or removal requirements
 

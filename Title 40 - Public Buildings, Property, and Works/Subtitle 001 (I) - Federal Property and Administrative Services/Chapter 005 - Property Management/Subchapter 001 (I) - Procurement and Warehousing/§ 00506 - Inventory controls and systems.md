@@ -74,7 +74,7 @@ In subsection (a)(1)(B), the words "from time to time" are omitted as unnecessar
 
 In subsection (a)(1)(D), the words "Subject to regulations" are substituted for "subject to regulations and regulations" in section 206(a)(4) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
 
-In subsection (a)(2)(A), the words "Department of Defense" are substituted for "National Military Establishment" in section 206(a) of the Federal Property and Administrative Services Act of 1949 because the Department of Defense is deemed to succeed the National Military Establishment under section 12(a) and (g) ofthe National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591).
+In subsection (a)(2)(A), the words "Department of Defense" are substituted for "National Military Establishment" in section 206(a) of the Federal Property and Administrative Services Act of 1949 because the Department of Defense is deemed to succeed the National Military Establishment under section 12(a) and (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591).
 
 In subsection (c), the words "Comptroller General" are substituted for "General Accounting Office" because of 31:702 and for consistency in the revised title.
 

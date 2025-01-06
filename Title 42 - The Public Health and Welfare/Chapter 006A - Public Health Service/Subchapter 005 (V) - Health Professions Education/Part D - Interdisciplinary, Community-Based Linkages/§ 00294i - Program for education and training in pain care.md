@@ -38,7 +38,7 @@ There is authorized to be appropriated to carry out this section, such sums as m
 
 #### Prior Provisions
 
-A prior section 294i, act July 1, 1944, ch. 373, title VII, §771, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 294i, act July 1, 1944, ch. 373, title VII, §771, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992,106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392.
 
 Another prior section 294i, act July 1, 1944, ch. 373, title VII, §736, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2265; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(d), 91 Stat. 390, related to participation by Federal credit unions in Federal, State, and private student loan insurance programs, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292k of this title.
 

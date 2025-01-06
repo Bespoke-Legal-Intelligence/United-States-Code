@@ -1,6 +1,6 @@
 ### §3823. Affiliated persons
 
-If a person is affected by a reduction in benefits under section 3821 of this title and the affected person is affiliated with other persons forthe purpose of receiving the benefits, the benefits of each affiliated person shall be reduced under section 3821 of this title in proportion to the interest held by the affiliated person.
+If a person is affected by a reduction in benefits under section 3821 of this title and the affected person is affiliated with other persons for the purpose of receiving the benefits, the benefits of each affiliated person shall be reduced under section 3821 of this title in proportion to the interest held by the affiliated person.
 
 (Pub. L. 99–198, title XII, §1223, as added Pub. L. 104–127, title III, §324, Apr. 4, 1996, 110 Stat. 992.)
 

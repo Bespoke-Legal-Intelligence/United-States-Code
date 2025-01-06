@@ -1,6 +1,6 @@
 ### §8146. Authorization of appropriations
 
-There are authorized to be appropriated for carrying out the purposes of this subchapter not to exceed $5,000,000 for fiscal year 1979, and not to exceed $5,000,000 for fiscal year 1980. Any amounts appropriated under this section shall remain available until expended.
+There are authorized to be appropriated for carrying out the purposes of this subchapter notto exceed $5,000,000 for fiscal year 1979, and not to exceed $5,000,000 for fiscal year 1980. Any amounts appropriated under this section shall remain available until expended.
 
 (Pub. L. 95–557, title VIII, §807, Oct. 31, 1978, 92 Stat. 2124; Pub. L. 96–153, title I, §108, Dec. 21, 1979, 93 Stat. 1105.)
 

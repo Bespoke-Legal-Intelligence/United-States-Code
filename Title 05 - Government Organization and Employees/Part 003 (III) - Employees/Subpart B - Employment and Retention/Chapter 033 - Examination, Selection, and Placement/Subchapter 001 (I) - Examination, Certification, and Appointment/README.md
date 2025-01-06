@@ -40,6 +40,6 @@
 - [&sect; 03330a - Preference eligibles; administrative redress](%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md)
 - [&sect; 03330b - Preference eligibles; judicial redress](%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md)
 - [&sect; 03330c - Preference eligibles; remedy](%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md)
-- [&sect; 03330d - Appointment of military and Department of Defense civilian spouses](%C2%A7%2003330d%20-%20Appointment%20of%20military%20and%20Department%20of%20Defense%20civilian%20spouses.md)
+- [&sect; 03330d - Appointment of military and Department of Defense, Department of State, and intelligence community spouses](%C2%A7%2003330d%20-%20Appointment%20of%20military%20and%20Department%20of%20Defense%2C%20Department%20of%20State%2C%20and%20intelligence%20community%20spouses.md)
 - [&sect; 03330e - Review of official personnel file of former Federal employees before rehiring](%C2%A7%2003330e%20-%20Review%20of%20official%20personnel%20file%20of%20former%20Federal%20employees%20before%20rehiring.md)
 - [&sect; 03330f - Government policy and supporting position data](%C2%A7%2003330f%20-%20Government%20policy%20and%20supporting%20position%20data.md)

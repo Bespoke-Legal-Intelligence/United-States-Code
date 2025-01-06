@@ -68,7 +68,7 @@ The Secretary, the Administrator, and the Commissioner shall, if practicable, pu
 
 #### References in Text
 
-The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (b), is Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3638. For complete classification of this Act to the Code, see Tables.
+The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (b), is Pub. L. 108–458,Dec. 17, 2004, 118 Stat. 3638. For complete classification of this Act to the Code, see Tables.
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (b), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. For complete classification of this Act to the Code, see Tables.
 
@@ -80,7 +80,7 @@ Section was enacted as part of the TSA Modernization Act and also as part of the
 
 #### Definitions
 
-For definitions of "Administrator", "appropriate committees of Congress", "Department", "Secretary",and "TSA" as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
+For definitions of "Administrator", "appropriate committees of Congress", "Department", "Secretary", and "TSA" as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

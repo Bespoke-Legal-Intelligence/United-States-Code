@@ -2,7 +2,7 @@
 
 (a)
 
-Products for Which Federal Prison Industries Does Not Have Significant Market Share.—(1) Before purchasing a product listed in the latest edition of the Federal Prison Industries catalog under section 4124(d) of title 18 for which Federal Prison Industries does not have a significant market share, the Secretary of Defense shall conduct market research to determine whether the product is comparable to products available from the private sector that best meet the needs of the Department in terms of price, quality, and time of delivery.
+Products for Which Federal Prison Industries Does Not Have Significant MarketShare.—(1) Before purchasing a product listed in the latest edition of the Federal Prison Industries catalog under section 4124(d) of title 18 for which Federal Prison Industries does not have a significant market share, the Secretary of Defense shall conduct market research to determine whether the product is comparable to products available from the private sector that best meet the needs of the Department in terms of price, quality, and time of delivery.
 
 (2) If the Secretary determines that a Federal Prison Industries product described in paragraph (1) is not comparable in price, quality, or time of delivery to products of the private sector that best meets the needs of the Department in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product, or shall make an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
 
@@ -22,7 +22,7 @@ Implementation by Secretary of Defense.—The Secretary of Defense shall ensure 
 
 (d)
 
-Market Research Determination Not Subject to Review.—A determination by a contracting officer regarding whether a product or service offered by Federal Prison Industries iscomparable to products or services available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery shall not be subject to review pursuant to section 4124(b) of title 18.
+Market Research Determination Not Subject to Review.—A determination by a contracting officer regarding whether a product or service offered by Federal Prison Industries is comparable to products or services available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery shall not be subject to review pursuant to section 4124(b) of title 18.
 
 (e)
 
@@ -164,7 +164,7 @@ Pub. L. 107–107, div. A, title VIII, §811(b), Dec. 28, 2001, 115 Stat. 1181, 
 
 Pub. L. 107–314, div. A, title VIII, §819(b), Dec. 2, 2002, 116 Stat. 2613, provided that:
 
-"(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act\[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
+"(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
 
 "(2) Final regulations shall be published not later than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of the publication."
 

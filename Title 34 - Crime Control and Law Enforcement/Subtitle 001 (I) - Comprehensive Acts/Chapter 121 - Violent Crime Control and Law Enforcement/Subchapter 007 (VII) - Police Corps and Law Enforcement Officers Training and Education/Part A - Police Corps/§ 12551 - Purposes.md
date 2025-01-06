@@ -18,5 +18,5 @@ Section was formerly classified to section 14091 of Title 42, The Public Health 
 
 #### Short Title
 
-For short title of subtitle A of title XX of Pub. L. 103–322, which is classified to this part, as the "Police Corps Act", see section 200101 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under section 10101 of this title.
+For short title of subtitle A of title XX of Pub. L. 103–322, which is classified to this part, as the "PoliceCorps Act", see section 200101 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under section 10101 of this title.
 

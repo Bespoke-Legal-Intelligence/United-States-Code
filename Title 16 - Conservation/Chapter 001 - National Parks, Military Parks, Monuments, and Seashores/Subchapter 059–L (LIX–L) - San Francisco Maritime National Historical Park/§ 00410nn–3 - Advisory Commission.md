@@ -14,7 +14,7 @@ There is hereby established the Advisory Commission of the San Francisco Maritim
 
 &emsp;(5) 2 members appointed for terms of 5 years, who shall have professional expertise in maritime history or historic preservation.
 
-> Any member of the Commission appointed for a definite term may serve after the expiration of his term until his successor is appointed. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+> Any member of the Commission appointed for a definite term may serve after the expiration ofhis term until his successor is appointed. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (b) Compensation
 

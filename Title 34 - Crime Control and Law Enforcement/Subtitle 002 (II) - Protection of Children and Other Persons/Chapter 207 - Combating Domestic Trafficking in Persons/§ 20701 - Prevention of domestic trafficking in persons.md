@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General, in consultation and cooperation with the Secretary of Healthand Human Services, shall conduct an annual conference in each of the fiscal years 2006, 2007, and 2008, and thereafter conduct a biennial conference, addressing severe forms of trafficking in persons and commercial sex acts that occur, in whole or in part, within the territorial jurisdiction of the United States. At each such conference, the Attorney General, or his designee, shall—
+&emsp;&emsp;The Attorney General, in consultation and cooperation with the Secretary of Health and Human Services, shall conduct an annual conference in each of the fiscal years 2006, 2007, and 2008, and thereafter conduct a biennial conference, addressing severe forms of trafficking in persons and commercial sex acts that occur, in whole or in part, within the territorial jurisdiction of the United States. At each such conference, the Attorney General, or his designee, shall—
 
 &emsp;&emsp;&emsp;(i) announce and evaluate the findings contained in the research and statistical reviews carried out under paragraph (1);
 
@@ -106,7 +106,7 @@ Pub. L. 115–392, §8, Dec. 21, 2018, 132 Stat. 5253, provided that: "Not later
 
 #### Ending Government Partnerships With the Commercial Sex Industry
 
-Pub. L. 115–392, §19, Dec. 21, 2018, 132 Stat. 5258, provided that: "No Federal funds or resources may be usedfor the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
+Pub. L. 115–392, §19, Dec. 21, 2018, 132 Stat. 5258, provided that: "No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
 
 &emsp;"(1) has the primary purpose of providing adult entertainment; and
 

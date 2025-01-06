@@ -24,7 +24,7 @@ In the case of an income tax return of—
 
 #### (e) Organizations exempt from taxation under section 501(a)
 
-In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees' trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
+In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees' trust describedin section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834; Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997; Pub. L. 110–172, §11(g)(20), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 113–295, div. A, title II, §220(u), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–41, title II, §2006(a)(1), July 31, 2015, 129 Stat. 457.)
 

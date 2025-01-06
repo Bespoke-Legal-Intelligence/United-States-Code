@@ -30,7 +30,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;The term "capital distribution" means—
 
-&emsp;&emsp;&emsp;(i) any dividend or other distribution in cash or in kind made with respect to any shares of, or other ownership interest in, an enterprise, except a dividend consisting only of shares of the enterprise;
+&emsp;&emsp;&emsp;(i) any dividend or other distribution in cash or in kind made with respect to anyshares of, or other ownership interest in, an enterprise, except a dividend consisting only of shares of the enterprise;
 
 &emsp;&emsp;&emsp;(ii) any payment made by an enterprise to repurchase, redeem, retire, or otherwise acquire any of its shares, including any extension of credit made to finance an acquisition by the enterprise of such shares; and
 
@@ -224,7 +224,7 @@ For purposes of this chapter:
 
 #### (28) Low-income area
 
-&emsp;The term "low-income area" means a census tract or block numbering area in which the median income does not exceed 80 percent of the median income for the area in which such census tract or block numbering area is located, and, for the purposes of section 4562(a)(1)(B) of this title, shall include families having incomes not greater than 100 percent of the area median income who reside in minority census tracts and shall include families having incomes not greater than 100 percent of the area median income who reside in designated disaster areas.
+&emsp;The term "low-income area" means a census tract or block numbering area in which the median income does not exceed 80 percent of the median income for the area in which such census tract or block numbering area is located, and, for the purposes of section 4562(a)(1)(B) of this title, shall include families having incomes not greater than 100 percent of the area median income who reside in minority census tracts and shall include familieshaving incomes not greater than 100 percent of the area median income who reside in designated disaster areas.
 
 #### (29) Minority census tract
 

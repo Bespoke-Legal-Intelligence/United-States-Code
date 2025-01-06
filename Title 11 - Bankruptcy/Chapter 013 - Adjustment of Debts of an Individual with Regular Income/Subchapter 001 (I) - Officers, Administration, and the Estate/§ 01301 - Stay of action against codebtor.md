@@ -8,7 +8,7 @@
 
 (b) A creditor may present a negotiable instrument, and may give notice of dishonor of such an instrument.
 
-(c) On request of a party in interest and after notice and a hearing, the court shall grant relieffrom the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
+(c) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
 
 &emsp;(1) as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor;
 
@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-Section 1301 of the House amendment is identical with the provision contained in section 1301 of the House bill and adopted by the Senate amendment. Section 1301(c)(1) indicates that a basis for lifting the stay is that the debtor did not receive consideration for the claim by the creditor, or in other words, the debtor is really the "codebtor." As with other sections in title 11, the standard of receiving consideration is a general rule, but where two co-debtors have agreed to share liabilities in a different manner than profits it is the individual who does not ultimately bear the liability that is protected by the stay under section 1301.
+Section 1301 of the House amendment is identical with the provision contained in section 1301 of the House bill and adopted by the Senate amendment. Section 1301(c)(1) indicates that a basis for lifting the stay is that the debtor did not receive consideration for the claim by the creditor, or in other words, the debtor isreally the "codebtor." As with other sections in title 11, the standard of receiving consideration is a general rule, but where two co-debtors have agreed to share liabilities in a different manner than profits it is the individual who does not ultimately bear the liability that is protected by the stay under section 1301.
 
 #### senate report no. 95–989
 
@@ -60,5 +60,5 @@ Subsec. (d). Pub. L. 98–353, §313, added subsec. (d).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

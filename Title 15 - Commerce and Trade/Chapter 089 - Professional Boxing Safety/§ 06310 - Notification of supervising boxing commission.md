@@ -10,7 +10,7 @@ Each promoter who intends to hold a professional boxing match in a State that do
 
 &emsp;&emsp;(B) will be involved in organizing or participating in the event.
 
-&emsp;(3) For any individual listed under paragraph (2), the identity of the boxing commission that issued the suspension described in paragraph (2)(A).
+&emsp;(3) For any individual listed under paragraph (2), the identity of the boxing commission thatissued the suspension described in paragraph (2)(A).
 
 (Pub. L. 104–272, §19, formerly §11, Oct. 9, 1996, 110 Stat. 3312; renumbered §19, Pub. L. 106–210, §4(1), May 26, 2000, 114 Stat. 322.)
 

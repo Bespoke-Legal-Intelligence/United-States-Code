@@ -48,7 +48,7 @@ The Director of the Institute shall act as the primary Federal official with res
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this section and other applicable law, the Director of NIH, the Director of the Institute, and the directors of the other agencies of the National Institutes of Health in collaboration (and in consultation with the advisory council for the Institute) shall—
+&emsp;Subject to the provisions of this section and other applicable law, the Director of NIH, theDirector of the Institute, and the directors of the other agencies of the National Institutes of Health in collaboration (and in consultation with the advisory council for the Institute) shall—
 
 &emsp;&emsp;(A) establish a comprehensive plan and budget for the conduct and support of all minority health disparities research and other health disparities research activities of the agencies of the National Institutes of Health (which plan and budget shall be first established under this subsection not later than 12 months after November 22, 2000);
 
@@ -120,7 +120,7 @@ In carrying out subsection (a), the Director of the Institute—
 
 #### (1) In general
 
-&emsp;The Secretary shall, in accordance with section 284a of this title, establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports under subsection (k) before the reports are submitted under such subsection.
+&emsp;The Secretary shall, in accordance with section 284a of this title, establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports undersubsection (k) before the reports are submitted under such subsection.
 
 #### (2) Membership
 

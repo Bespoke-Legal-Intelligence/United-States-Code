@@ -50,7 +50,7 @@ Section 6914, Pub. L. 89–10, title III, §3214, as added Pub. L. 107–110, ti
 
 Section 6915, Pub. L. 89–10, title III, §3215, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1716, related to capacity building.
 
-Section 6916, Pub. L. 89–10, title III, §3216, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1716, related to programs for Native Americans and Puerto Rico.
+Section 6916, Pub. L. 89–10, title III, §3216, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1716,related to programs for Native Americans and Puerto Rico.
 
 Section 6917, Pub. L. 89–10, title III, §3217, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1716, related to evaluations.
 

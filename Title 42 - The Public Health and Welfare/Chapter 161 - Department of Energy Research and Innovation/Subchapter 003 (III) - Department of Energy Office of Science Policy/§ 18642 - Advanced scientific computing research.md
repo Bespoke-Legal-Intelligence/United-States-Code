@@ -6,7 +6,7 @@ As part of the activities authorized under section 7139 of this title, the Direc
 
 &emsp;(1) to steward applied mathematics, computational science, and computer science research relevant to the missions of the Department and the competitiveness of the United States;
 
-&emsp;(2) to develop modeling, simulation, and other computational tools relevant to other scientific disciplines and to the development of new energy technologies and other technologies;
+&emsp;(2) to develop modeling, simulation, and other computational tools relevant to otherscientific disciplines and to the development of new energy technologies and other technologies;
 
 &emsp;(3) to advance computing and networking capabilities for data-driven discovery; and
 

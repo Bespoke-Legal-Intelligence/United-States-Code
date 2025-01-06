@@ -48,7 +48,7 @@ In the case of annuity contracts to which this section applies and to which sect
 
 #### References in Text
 
-Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to section 1204 of Title 29, Labor.
+Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (g), is classified to section 1204 of Title 29, Labor.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -112,7 +112,7 @@ In General.—The Secretary of the Treasury and the Secretary of Labor shall, in
 
 "(b)
 
-Administrative Requirements.—In developing the consolidated return or report under subsection (a),the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan.
+Administrative Requirements.—In developing the consolidated return or report under subsection (a), the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan.
 
 "(c)
 
@@ -184,5 +184,5 @@ Effective date.—The provisions of this subsection shall apply to plan years be
 
 Simplified Annual Filing Requirement for Plans With Fewer Than 25
 
-Participants.—In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual return for any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2)."
+Participants.—In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual returnfor any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2)."
 

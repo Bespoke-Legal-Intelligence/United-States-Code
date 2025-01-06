@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) If, under the procedures, the State determines that there is no violation, the State shall dismiss the complaint and publish the results of the procedures.
 
-&emsp;&emsp;(H) The State shall make a final determination with respect to a complaint prior to the expiration of the 90-day period which begins on the date the complaint is filed, unless the complainant consents to a longer period for making such a determination.
+&emsp;&emsp;(H) The State shall make a final determination with respect to a complaint priorto the expiration of the 90-day period which begins on the date the complaint is filed, unless the complainant consents to a longer period for making such a determination.
 
 &emsp;&emsp;(I) If the State fails to meet the deadline applicable under subparagraph (H), the complaint shall be resolved within 60 days under alternative dispute resolution procedures established for purposes of this section. The record and other materials from any proceedings conducted under the complaint procedures established under this section shall be made available for use under the alternative dispute resolution procedures.
 

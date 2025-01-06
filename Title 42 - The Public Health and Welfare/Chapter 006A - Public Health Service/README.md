@@ -150,7 +150,11 @@
 | :--- | ---: |
 | [243\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000243%20-%20General%20grant%20of%20authority%20for%20cooperation.md) | General grant of authority for cooperation. |
 | [244\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244%20-%20Public%20access%20defibrillation%20programs.md) | Public access defibrillation programs. |
-| 244–1, 244a. | Repealed. |
+| 244–1. | Repealed. |
+| [244a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244a%20-%20Materials%20and%20resources%20to%20increase%20education%20and%20awareness%20of%20cardiomyopathy%20among%20school%20administrators%2C%20educators%2C%20and%20families.md) | Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families. |
+| [244b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244b%20-%20Activities%20relating%20to%20cardiomyopathy.md) | Activities relating to cardiomyopathy. |
+| [244c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244c%20-%20Cardiomyopathy%20research.md) | Cardiomyopathy research. |
+| [244d.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244d%20-%20Promoting%20student%20access%20to%20AEDs%20and%20CPR.md) | Promoting student access to AEDs and CPR. |
 | [245\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245%20-%20Public%20awareness%20campaign%20on%20the%20importance%20of%20vaccinations.md) | Public awareness campaign on the importance of vaccinations. |
 | [245a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20V%2C%20%C2%A7503%28b%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202300.md) | Repealed. |
 | [246\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000246%20-%20Grants%20and%20services%20to%20States.md) | Grants and services to States. |
@@ -276,7 +280,7 @@
 | 254c–12. | Definitions. |
 | 254c–13. | Authorization of appropriations. |
 | 254c–14. | Telehealth network and telehealth resource centers grant programs. |
-| 254c–15. | Rural emergency medical service training and equipment assistance program. |
+| 254c–15. | Transferred. |
 | 254c–16. | Mental health services delivered via telehealth. |
 | 254c–17. | Repealed. |
 | 254c–18. | Telemedicine; incentive grants regarding coordination among States. |
@@ -688,6 +692,14 @@
 |  |  |
 | :--- | ---: |
 | [280m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20V%20-%20Programs%20Relating%20to%20Breast%20Health%20and%20Cancer/%C2%A7%2000280m%20-%20Young%20women%27s%20breast%20health%20awareness%20and%20support%20of%20young%20women%20diagnosed%20with%20breast%20cancer.md) | Young women's breast health awareness and support of young women diagnosed with breast cancer. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part W—Parkinson's and Related Disorders
+
+|  |  |
+| :--- | ---: |
+| [280n.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20W%20-%20Parkinson%27s%20and%20Related%20Disorders/%C2%A7%2000280n%20-%20National%20Parkinson%27s%20Project.md) | National Parkinson's Project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1330,7 +1342,7 @@
 | 290ee–7. | Comprehensive opioid recovery centers. |
 | 290ee–8. | Career Act. |
 | 290ee–9. | Services for families and patients in crisis. |
-| 290ee–10. | Transferred. |
+| 290ee–10. | Rural emergency medical service training and equipment assistance program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

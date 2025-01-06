@@ -18,6 +18,8 @@
 | [1741a.](Subchapter%20002%20%28II%29%20-%20Hostage%20Recovery%20and%20Hostage-Taking%20Accountability/%C2%A7%2001741a%20-%20Special%20Envoy%20for%20Hostage%20Affairs.md) | Special Envoy for Hostage Affairs. |
 | [1741b.](Subchapter%20002%20%28II%29%20-%20Hostage%20Recovery%20and%20Hostage-Taking%20Accountability/%C2%A7%2001741b%20-%20Hostage%20Recovery%20Fusion%20Cell.md) | Hostage Recovery Fusion Cell. |
 | [1741c.](Subchapter%20002%20%28II%29%20-%20Hostage%20Recovery%20and%20Hostage-Taking%20Accountability/%C2%A7%2001741c%20-%20Hostage%20Response%20Group.md) | Hostage Response Group. |
+| 1741c–1. | Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage. |
+| 1741c–2. | Coordination with transportation authorities and industry on Department of State travel advisories. |
 | [1741d.](Subchapter%20002%20%28II%29%20-%20Hostage%20Recovery%20and%20Hostage-Taking%20Accountability/%C2%A7%2001741d%20-%20Authorization%20of%20imposition%20of%20sanctions.md) | Authorization of imposition of sanctions. |
 | [1741e.](Subchapter%20002%20%28II%29%20-%20Hostage%20Recovery%20and%20Hostage-Taking%20Accountability/%C2%A7%2001741e%20-%20Definitions.md) | Definitions. |
 | [1741f.](Subchapter%20002%20%28II%29%20-%20Hostage%20Recovery%20and%20Hostage-Taking%20Accountability/%C2%A7%2001741f%20-%20Rule%20of%20construction.md) | Rule of construction. |

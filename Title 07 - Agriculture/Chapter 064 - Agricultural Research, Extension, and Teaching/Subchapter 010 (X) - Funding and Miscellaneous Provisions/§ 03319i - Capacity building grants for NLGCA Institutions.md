@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(iii) any other interested entity;
 
-&emsp;&emsp;(C) to encourage members of the agriculture, renewable resources, and other relevant communities to participate in priority education, research, and outreach activities by providing matching funding to leverage grant funds; and
+&emsp;&emsp;(C) to encourage members of the agriculture, renewable resources, and other relevant communities to participate in priorityeducation, research, and outreach activities by providing matching funding to leverage grant funds; and
 
 &emsp;&emsp;(D) through—
 

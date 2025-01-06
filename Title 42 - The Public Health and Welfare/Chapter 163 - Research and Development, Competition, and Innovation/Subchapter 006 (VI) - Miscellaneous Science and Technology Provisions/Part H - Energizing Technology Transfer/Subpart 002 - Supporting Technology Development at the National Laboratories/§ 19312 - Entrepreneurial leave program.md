@@ -14,7 +14,7 @@ To reduce barriers to participation in the program, the Secretary shall delegate
 
 #### (d) Report
 
-In accordance with section 16391a of this title, the Secretary shall report annually on the utilization of this authority at National Laboratories, including the number of employees who participate in this program at each National Laboratory and the number of employees who take a permanent leave from their positions at National Laboratories as a result of participating in this program.
+In accordance with section 16391a of this title, the Secretary shall report annually on the utilization of this authority at National Laboratories, including the number of employees whoparticipate in this program at each National Laboratory and the number of employees who take a permanent leave from their positions at National Laboratories as a result of participating in this program.
 
 #### (e) Federal ethics
 

@@ -40,7 +40,7 @@ If the President determines that a State or local government has identified natu
 
 #### (3) Effect of failure to nominate
 
-&emsp;If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g), any local governments of the State to receive assistance under this section.
+&emsp;If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g),any local governments of the State to receive assistance under this section.
 
 #### (e) Uses of technical and financial assistance
 
@@ -58,7 +58,7 @@ If the President determines that a State or local government has identified natu
 
 &emsp;&emsp;&emsp;(iii) to establish hazard mitigation priorities, and an appropriate hazard mitigation plan, for a community; or
 
-&emsp;&emsp;&emsp;(iv) to establish and carry out enforcement activities and implement the latest published editions of relevant consensus-based codes, specifications, and standardsthat incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters.
+&emsp;&emsp;&emsp;(iv) to establish and carry out enforcement activities and implement the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters.
 
 #### (2) Dissemination
 
@@ -132,7 +132,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 #### (1) In general
 
-&emsp;The President may set aside from the Disaster Relief Fund, with respect to each major disaster, an amount equal to 6 percent of the estimated aggregate amount of the grants to be made pursuant to sections 5170b, 5172, 5173, 5174, 5177, 5183, and 5189f of this title for themajor disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this chapter.
+&emsp;The President may set aside from the Disaster Relief Fund, with respect to each major disaster, an amount equal to 6 percent of the estimated aggregate amount of the grants to be made pursuant to sections 5170b, 5172, 5173, 5174, 5177, 5183, and 5189f of this title for the major disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this chapter.
 
 #### (2) Estimated aggregate amount
 
@@ -196,7 +196,7 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (e)(1)(B)(iv), (g)(5), (10), and (i), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsecs. (e)(1)(B)(iv), (g)(5), (10), and (i), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Forcomplete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
 

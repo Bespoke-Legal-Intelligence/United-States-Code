@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [51301\.](%C2%A7%2051301%20-%20Maintenance%20of%20the%20Academy.md) | Maintenance of the Academy. |
 | [51302\.](%C2%A7%2051302%20-%20Nomination%20and%20competitive%20appointment%20of%20cadets.md) | Nomination and competitive appointment of cadets. |
+| [51302a.](%C2%A7%2051302a%20-%20Nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Senator%20otherwise%20authorized%20to%20nominate.md) | Nomination in event of death, resignation, or expulsion from office of Senator otherwise authorized to nominate. |
 | [51303\.](%C2%A7%2051303%20-%20Non-competitive%20appointments.md) | Non-competitive appointments. |
 | [51304\.](%C2%A7%2051304%20-%20Additional%20appointments%20from%20particular%20areas.md) | Additional appointments from particular areas. |
 | [51305\.](%C2%A7%2051305%20-%20Prohibited%20basis%20for%20appointment.md) | Prohibited basis for appointment. |
@@ -37,6 +38,8 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. C, title XXXV, §3537(b), Dec. 23, 2024, 138 Stat. 2316, added item 51302a.
+
 <b>2022</b>—Pub. L. 117–263, div. C, title XXXV, §3531(c), Dec. 23, 2022, 136 Stat. 3087, added items 51325 to 51328.
 
 <b>2021</b>—Pub. L. 117–81, div. C, title XXXV, §3501(c)(2), Dec. 27, 2021, 135 Stat. 2238, added items 51323 and 51324.
@@ -60,6 +63,7 @@ Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 59
 
 - [&sect; 51301 - Maintenance of the Academy](%C2%A7%2051301%20-%20Maintenance%20of%20the%20Academy.md)
 - [&sect; 51302 - Nomination and competitive appointment of cadets](%C2%A7%2051302%20-%20Nomination%20and%20competitive%20appointment%20of%20cadets.md)
+- [&sect; 51302a - Nomination in event of death, resignation, or expulsion from office of Senator otherwise authorized to nominate](%C2%A7%2051302a%20-%20Nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Senator%20otherwise%20authorized%20to%20nominate.md)
 - [&sect; 51303 - Non-competitive appointments](%C2%A7%2051303%20-%20Non-competitive%20appointments.md)
 - [&sect; 51304 - Additional appointments from particular areas](%C2%A7%2051304%20-%20Additional%20appointments%20from%20particular%20areas.md)
 - [&sect; 51305 - Prohibited basis for appointment](%C2%A7%2051305%20-%20Prohibited%20basis%20for%20appointment.md)

@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;(1) the terms "driftnet" and "driftnet fishing" have the meanings given those terms in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note);
 
-&emsp;(2) the term "eastern tropical Pacific Ocean" means the area of the Pacific Ocean bounded by 40 degrees north latitude, 40 degrees south latitude, 160 degrees west longitude, and the western coastlines of North, Central, and South America;
+&emsp;(2) the term "eastern tropical Pacific Ocean" means the area of the Pacific Oceanbounded by 40 degrees north latitude, 40 degrees south latitude, 160 degrees west longitude, and the western coastlines of North, Central, and South America;
 
 &emsp;(3) the term "label" means a display of written, printed, or graphic matter on or affixed to the immediate container of any article;
 
@@ -123,6 +123,8 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 &emsp;(C) after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
 (Pub. L. 101–627, title IX, §901, Nov. 28, 1990, 104 Stat. 4465; Pub. L. 105–42, §5, Aug. 15, 1997, 111 Stat. 1125; Pub. L. 114–81, title I, §109, Nov. 5, 2015, 129 Stat. 659.)
+
+
 
 #### <b>Editorial Notes</b>
 

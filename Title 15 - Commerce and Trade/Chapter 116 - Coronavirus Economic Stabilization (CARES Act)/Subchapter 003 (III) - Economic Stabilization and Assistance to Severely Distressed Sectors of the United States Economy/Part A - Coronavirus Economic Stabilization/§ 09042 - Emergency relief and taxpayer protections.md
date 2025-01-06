@@ -58,7 +58,7 @@ Loans, loan guarantees, and other investments made pursuant to subsection (a) sh
 
 &emsp;&emsp;(H) the agreement includes a certification by the eligible business that it is created or organized in the United States or under the laws of the United States and has significant operations in and a majority of its employees based in the United States; and
 
-&emsp;&emsp;(I) for purposes of a loan or loan guarantee under paragraphs (1), (2), and (3) of subsection (b), the eligible business must have incurred or is expected to incur covered losses such that the continued operations ofthe business are jeopardized, as determined by the Secretary.
+&emsp;&emsp;(I) for purposes of a loan or loan guarantee under paragraphs (1), (2), and (3) of subsection (b), the eligible business must have incurred or is expected to incur covered losses such that the continued operations of the business are jeopardized, as determined by the Secretary.
 
 #### (3) Federal reserve programs or facilities
 
@@ -92,7 +92,7 @@ Loans, loan guarantees, and other investments made pursuant to subsection (a) sh
 
 #### (C) United States businesses
 
-&emsp;&emsp;A program or facility in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4) shall only purchase obligations or other interests (other than securities that are based on an index or that are based on a diversified pool of securities) from, or make loans or other advances to, businesses that are created or organized in the United States or under the laws of the United States and that have significant operations in and a majority of its employees based in the United States.
+&emsp;&emsp;A program or facility in which the Secretary makes a loan, loan guarantee, orother investment under subsection (b)(4) shall only purchase obligations or other interests (other than securities that are based on an index or that are based on a diversified pool of securities) from, or make loans or other advances to, businesses that are created or organized in the United States or under the laws of the United States and that have significant operations in and a majority of its employees based in the United States.
 
 #### (D) Assistance for mid-sized businesses
 

@@ -20,7 +20,7 @@
 
 &emsp;(4) All other members of the uniformed services, including reserve members when not in a duty status, who are designated by regulations of the uniformed services or by statute to have those powers.
 
-&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the CoastGuard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
+&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
 
 &emsp;(6) All civilian paralegals serving at military legal assistance offices, supervised by a military legal assistance counsel (as defined in section 1044d(g) of this title).
 

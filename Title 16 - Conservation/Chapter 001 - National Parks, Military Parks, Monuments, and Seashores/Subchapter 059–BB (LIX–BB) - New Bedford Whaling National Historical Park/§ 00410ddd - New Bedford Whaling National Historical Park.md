@@ -80,7 +80,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 #### (2) Cooperative agreements
 
-&emsp;(A) The Secretary may consult and enter into cooperative agreements with interestedentities and individuals to provide for the preservation, development, interpretation, and use of the park.
+&emsp;(A) The Secretary may consult and enter into cooperative agreements with interested entities and individuals to provide for the preservation, development, interpretation, and use of the park.
 
 &emsp;(B) Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
 
@@ -144,7 +144,7 @@ In subsec. (f), "section 100502 of title 54" substituted for "section 12(b) of t
 
 Subsec. (c)(1). Pub. L. 106–176, §111(a)(2)(A), substituted "certain districts, structures, and relics" for "certain districts structures, and relics".
 
-Subsec. (c)(2)(A)(i). Pub. L. 106–176, §111(a)(2)(B), substituted "The area included within the New BedfordHistoric District (a National Landmark District), also known as the" for "The area included with the New Bedford National Historic Landmark District, known as the".
+Subsec. (c)(2)(A)(i). Pub. L. 106–176, §111(a)(2)(B), substituted "The area included within the New Bedford Historic District (a National Landmark District), also known as the" for "The area included with the New Bedford National Historic Landmark District, known as the".
 
 Subsec. (d)(2). Pub. L. 106–176, §111(a)(3), struck out "to provide" before "appropriate assistance".
 

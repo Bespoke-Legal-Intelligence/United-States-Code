@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (10) Prevailing commissioners' standard tables
 
-&emsp;For purposes of subsection (c)(3)(B)(i), the term "prevailing commissioners' standard tables" means the most recent commissioners' standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners' standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the "year of change") are different from the prevailing commissioners' standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners' standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
+&emsp;For purposes of subsection (c)(3)(B)(i), the term "prevailing commissioners' standard tables" means the most recent commissioners' standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners' standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the "year of change") are different from the prevailing commissioners' standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners' standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-yearperiod beginning on the first day of the year of change.
 
 #### (11) Insurance interest rate
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If at any time any contract which is a life insurance contract under the applicable law does not meet the definition of life insurancecontract under subsection (a), the income on the contract for any taxable year of the policyholder shall be treated as ordinary income received or accrued by the policyholder during such year.
+&emsp;&emsp;If at any time any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), the income on the contract for any taxable year of the policyholder shall be treated as ordinary income received or accrued by the policyholder during such year.
 
 #### (B) Income on the contract
 
@@ -404,7 +404,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a),\(b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146; Pub. L. 116–260, div. EE, title II, §205(a)–(d), Dec. 27, 2020, 134 Stat. 3058.)
+(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146; Pub. L. 116–260, div. EE, title II, §205(a)–(d), Dec. 27, 2020, 134 Stat. 3058.)
 
 #### <b>Editorial Notes</b>
 
@@ -450,7 +450,7 @@ Subsec. (e)(2)(C). Pub. L. 99–514, §1825(a)(4), added subpar. (C).
 
 Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted "less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received" for "less any other amounts received".
 
-Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
+Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In thecase of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
 
 Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
 
@@ -552,7 +552,7 @@ Pub. L. 100–647, title V, §5011(c), Nov. 10, 1988, 102 Stat. 3661, provided t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 

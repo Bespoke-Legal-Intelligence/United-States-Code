@@ -122,7 +122,7 @@ The date of enactment of this section, referred to in subsec. (a)(3)(E)(ii), is 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32931(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: "Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained."
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32931(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: "Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program toensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained."
 
 Subsec. (a)(4). Pub. L. 112–141, §32931(b)(2), struck out par. (4). Text read as follows: "Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section."
 

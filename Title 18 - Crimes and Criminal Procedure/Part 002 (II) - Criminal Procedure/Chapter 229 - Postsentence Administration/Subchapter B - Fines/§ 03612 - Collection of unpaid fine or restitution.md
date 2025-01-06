@@ -46,7 +46,7 @@ Notification of Delinquency.—Within ten working days after a fine or restituti
 
 (e)
 
-Notification of Default.—Within ten working days after a fine or restitution is determined to be in default as provided in section3572(i), the Attorney General shall notify the person defaulting to inform the person that the fine or restitution is in default and the entire unpaid balance, including interest and penalties, is due within thirty days.
+Notification of Default.—Within ten working days after a fine or restitution is determined to be in default as provided in section 3572(i), the Attorney General shall notify the person defaulting to inform the person that the fine or restitution is in default and the entire unpaid balance, including interest and penalties, is due within thirty days.
 
 (f)
 
@@ -62,7 +62,7 @@ Computation.—Interest on a fine shall be computed—
 
 &emsp;&emsp;(A) daily (from the first day on which the defendant is liable for interest under paragraph (1)); and
 
-&emsp;&emsp;(B) at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the first day on which the defendant is liable for interest under paragraph (1).
+&emsp;&emsp;(B) at a rate equal to the weekly average 1-year constant maturity Treasury yield, aspublished by the Board of Governors of the Federal Reserve System, for the calendar week preceding the first day on which the defendant is liable for interest under paragraph (1).
 
 &emsp;(3)
 
@@ -138,7 +138,7 @@ Recommendations.—The report required under paragraph (1) shall include recomme
 
 Report.—Not later than 3 years after the date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §11,Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, §7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, §3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(2), Apr. 24, 1996, 110 Stat. 1237; Pub. L. 106–554, §1(a)(7) \[title III, §307(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–635; Pub. L. 107–273, div. B, title IV, §4002(b)(15), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–324, §18, Dec. 16, 2016, 130 Stat. 1962.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, §7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, §3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(2), Apr. 24, 1996, 110 Stat. 1237; Pub. L. 106–554, §1(a)(7) \[title III, §307(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–635; Pub. L. 107–273, div. B, title IV, §4002(b)(15), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–324, §18, Dec. 16, 2016, 130 Stat. 1962.)
 
 #### <b>Editorial Notes</b>
 
@@ -242,7 +242,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 Pub. L. 98–473, title II, §237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
-"(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 ofPub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
+"(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
 
 &emsp;"(A) pay the fine in full;
 

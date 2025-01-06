@@ -26,7 +26,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 #### (2) Enforcement authority under other Acts
 
-&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a)of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (c) Enforcement by Board
 
@@ -54,7 +54,7 @@ The authority of the Board to prescribe regulations under this chapter does not 
 
 #### References in Text
 
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, whichis classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 #### Amendments
 

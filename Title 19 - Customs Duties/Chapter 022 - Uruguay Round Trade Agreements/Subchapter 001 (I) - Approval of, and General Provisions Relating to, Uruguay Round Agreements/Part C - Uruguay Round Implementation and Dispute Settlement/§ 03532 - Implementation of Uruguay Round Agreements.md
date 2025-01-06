@@ -2,7 +2,7 @@
 
 #### (a) Decisionmaking
 
-In the implementation of the Uruguay Round Agreements and the functioning of the World Trade Organization, it is the objective of the United States to ensure that the Ministerial Conference and the General Council continue the practice of decisionmaking by consensus followed under the GATT 1947, as required by paragraph 1 of article IX of the WTO Agreement.
+In the implementation of the Uruguay Round Agreements and the functioning of the WorldTrade Organization, it is the objective of the United States to ensure that the Ministerial Conference and the General Council continue the practice of decisionmaking by consensus followed under the GATT 1947, as required by paragraph 1 of article IX of the WTO Agreement.
 
 #### (b) Consultations with congressional committees
 

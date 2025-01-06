@@ -28,7 +28,7 @@ The Administrator shall establish a management structure for the nuclear securit
 
 (4) Not later than 60 days after the date on which any recommendation under paragraph (3) is received, the Administrator or the Secretary, as the case may be, shall respond to the Council with respect to whether such recommendation will be implemented and the reasoning for implementing or not implementing such recommendation.
 
-(Pub. L. 107–314, div. D, title XLI, §4102, formerly Pub. L. 104–201, div. C, title XXXI, §3140, Sept. 23, 1996, 110 Stat. 2833; renumbered Pub. L. 107–314, div. D, title XLI, §4102, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(3), Nov. 24, 2003, 117 Stat. 1757; Pub. L. 112–239, div. C, title XXXI, §3113(a), Jan. 2, 2013, 126 Stat. 2169; Pub. L. 113–291, div. C, title XXXI, §3142(b), Dec. 19, 2014, 128 Stat. 3900.)
+(Pub. L. 107–314, div. D, title XLI, §4102, formerly Pub. L. 104–201, div. C, title XXXI, §3140, Sept. 23, 1996, 110 Stat. 2833; renumbered Pub. L. 107–314, div. D, title XLI, §4102, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(3),Nov. 24, 2003, 117 Stat. 1757; Pub. L. 112–239, div. C, title XXXI, §3113(a), Jan. 2, 2013, 126 Stat. 2169; Pub. L. 113–291, div. C, title XXXI, §3142(b), Dec. 19, 2014, 128 Stat. 3900.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,7 +138,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than March 1, 2017, and annually thereafter, the Administrator shall, in consultation with the National Nuclear Security Administration Council, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on progress of the Administration toward implementing a common financial reporting system for the nuclear security enterprise as required by subsection (a).
+In general.—Not later than March 1, 2017, and annually thereafter, the Administrator shall, in consultation with the National Nuclear Security Administration Council, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House ofRepresentatives\] a report on progress of the Administration toward implementing a common financial reporting system for the nuclear security enterprise as required by subsection (a).
 
 &emsp;"(2)
 
@@ -170,7 +170,7 @@ Pub. L. 114–92, div. C, title XXXI, §3137, Nov. 25, 2015, 129 Stat. 1213, pro
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;"(1) correcting the longstanding problems with the governance and management of the nuclear security enterprise will require robust, personal, and long-term engagement by the President, the Secretary of Energy, the Administrator for Nuclear Security, andleaders from the appropriate congressional committees;
+&emsp;"(1) correcting the longstanding problems with the governance and management of the nuclear security enterprise will require robust, personal, and long-term engagement by the President, the Secretary of Energy, the Administrator for Nuclear Security, and leaders from the appropriate congressional committees;
 
 &emsp;"(2) recent and past studies of the governance and management of the nuclear security enterprise have provided a list of reasonable, practical, and actionable steps that the Secretary and the Administrator should take to make the nuclear security enterprise more efficient and more effective; and
 

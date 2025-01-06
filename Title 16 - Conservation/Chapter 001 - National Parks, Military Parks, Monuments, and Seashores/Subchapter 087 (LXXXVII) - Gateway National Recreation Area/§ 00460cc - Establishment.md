@@ -16,7 +16,7 @@ The recreation area shall comprise the following lands, waters, marshes, and sub
 
 &emsp;(5) Hoffman and Swinburne Islands; and
 
-&emsp;(6) All submerged lands, islands, and waters within one-fourth of a mile of the mean lowwater line of any waterfront area included above.
+&emsp;(6) All submerged lands, islands, and waters within one-fourth of a mile of the mean low water line of any waterfront area included above.
 
 #### (b) Boundary revisions: notification of Congressional committees; publication in Federal Register
 

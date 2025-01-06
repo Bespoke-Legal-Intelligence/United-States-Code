@@ -56,9 +56,9 @@ The guidelines issued pursuant to subsection (a) shall—
 
 #### (e) Sunset
 
-No new environmental bank may be created or approved pursuant to this section after the date that is 12 years after December 16, 2016.
+No new environmental bank may be created or approved pursuant to this section after the date that is 14 years after December 16, 2016.
 
-(Pub. L. 101–646, title III, §309, as added Pub. L. 114–322, title IV, §5014, Dec. 16, 2016, 130 Stat. 1903; amended Pub. L. 117–263, div. H, title LXXXI, §8382(c), Dec. 23, 2022, 136 Stat. 3828.)
+(Pub. L. 101–646, title III, §309, as added Pub. L. 114–322, title IV, §5014, Dec. 16, 2016, 130 Stat. 1903; amended Pub. L. 117–263, div. H, title LXXXI, §8382(c), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, §1303(c), Jan. 4, 2025, 138 Stat. 3114.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +77,8 @@ The Oil Pollution Act of 1990, referred to in subsec. (d)(1)(C), is Pub. L. 101�
 The National Environmental Policy Act of 1969, referred to in subsec. (d)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (e). Pub. L. 118–272 substituted "14" for "12".
 
 <b>2022</b>—Subsec. (e). Pub. L. 117–263 substituted "12" for "10".
 

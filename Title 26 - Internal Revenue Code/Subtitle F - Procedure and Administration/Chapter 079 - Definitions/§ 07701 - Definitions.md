@@ -88,7 +88,7 @@
 
 #### (18) International organization
 
-&emsp;The term "international organization" means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act (22 U.S.C. 288–288f).
+&emsp;The term "international organization" means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organizationunder the International Organizations Immunities Act (22 U.S.C. 288–288f).
 
 #### (19) Domestic building and loan association
 
@@ -186,7 +186,7 @@
 
 #### (A) Foreign estate
 
-&emsp;&emsp;The term "foreign estate" means an estate the income of which, from sources withoutthe United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
+&emsp;&emsp;The term "foreign estate" means an estate the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
 
 #### (B) Foreign trust
 
@@ -402,7 +402,7 @@
 
 #### (iv) Residency starting date for individuals making first year election
 
-&emsp;&emsp;&emsp;In the case of an individual who makes the election provided by paragraph (4) withrespect to any calendar year, the residency starting date shall be the 1st day during such calendar year on which the individual is treated as a resident of the United States under that paragraph.
+&emsp;&emsp;&emsp;In the case of an individual who makes the election provided by paragraph (4) with respect to any calendar year, the residency starting date shall be the 1st day during such calendar year on which the individual is treated as a resident of the United States under that paragraph.
 
 #### (B) Last year of residency
 
@@ -484,7 +484,7 @@
 
 &emsp;(B) An alien individual who meets the requirements of subparagraph (A) shall, if he so elects, be treated as a resident of the United States with respect to the election year.
 
-&emsp;(C) An alien individual who makes the election provided by subparagraph (B) shall be treated as a resident of the United States forthe portion of the election year which begins on the 1st day of the earliest testing period during such year with respect to which the individual meets the requirements of clause (iv) of subparagraph (A).
+&emsp;(C) An alien individual who makes the election provided by subparagraph (B) shall be treated as a resident of the United States for the portion of the election year which begins on the 1st day of the earliest testing period during such year with respect to which the individual meets the requirements of clause (iv) of subparagraph (A).
 
 &emsp;(D) The rules of subparagraph (D)(i) of paragraph (3) shall apply for purposes of determining an individual's presence in the United States under this paragraph.
 
@@ -700,7 +700,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;&emsp;(ii) the service recipient (or a related entity) bears any significant financial burden if there is nonperformance under the contract or arrangement (other than for reasons beyond the control of the service provider),
 
-&emsp;&emsp;&emsp;(iii) the service recipient (or a related entity) receives any significant financial benefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
+&emsp;&emsp;&emsp;(iii) the service recipient (or a related entity) receives any significant financialbenefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
 
 &emsp;&emsp;&emsp;(iv) the service recipient (or a related entity) has an option to purchase, or may be required to purchase, all or a part of such facility at a fixed and determinable price (other than for fair market value).
 
@@ -868,7 +868,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 #### (5) Coordination with other provisions of law
 
-&emsp;No provision of law not contained in this title shall apply for purposes of determining the treatment under this title of the Thrift Savings Fund or any contribution to, or distribution from, such Fund.
+&emsp;No provision of law not contained in this title shall apply for purposes of determiningthe treatment under this title of the Thrift Savings Fund or any contribution to, or distribution from, such Fund.
 
 #### (k) Treatment of certain amounts paid to charity
 
@@ -906,7 +906,7 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 #### (A) In general
 
-&emsp;&emsp;The potential for profit of a transaction shall be taken into account in determiningwhether the requirements of subparagraphs (A) and (B) of paragraph (1) are met with respect to the transaction only if the present value of the reasonably expected pre-tax profit from the transaction is substantial in relation to the present value of the expected net tax benefits that would be allowed if the transaction were respected.
+&emsp;&emsp;The potential for profit of a transaction shall be taken into account in determining whether the requirements of subparagraphs (A) and (B) of paragraph (1) are met with respect to the transaction only if the present value of the reasonably expected pre-tax profit from the transaction is substantial in relation to the present value of the expected net tax benefits that would be allowed if the transaction were respected.
 
 #### (B) Treatment of fees and foreign taxes
 
@@ -968,7 +968,7 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV,§401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055; Pub. L. 115–97, title I, §§11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, 131 Stat. 2090, 2125; Pub. L. 115–141, div. U, title IV, §401(a)(331), (332), (b)(54), (55), Mar. 23, 2018, 132 Stat. 1200, 1205; Pub. L. 117–169, title I, §13102(n), Aug. 16, 2022, 136 Stat. 1920; Pub. L. 117–286, §4(c)(33), Dec. 27, 2022, 136 Stat. 4358.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055; Pub. L. 115–97, title I, §§11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, 131 Stat. 2090, 2125; Pub. L. 115–141, div. U, title IV, §401(a)(331), (332), (b)(54), (55), Mar. 23, 2018, 132 Stat. 1200, 1205; Pub. L. 117–169, title I, §13102(n), Aug. 16, 2022, 136 Stat. 1920; Pub. L. 117–286, §4(c)(33), Dec. 27, 2022, 136 Stat. 4358.)
 
 #### <b>Editorial Notes</b>
 
@@ -976,11 +976,11 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 Part A and part B of title I of the Housing Act of 1949, referred to in subsec. (a)(19)(C)(vi), which were classified generally to part A (§1450 et seq.) and part B (§1469 et seq.) of subchapter II of chapter 8A of Title 42, The Public Health and Welfare, were omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I of that Act after Jan. 1, 1975.
 
-Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to section 3303 of Title 42, was omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I (§101 et seq.) of that Act after Jan. 1, 1975.
+Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to section 3303 of Title 42, The Public Health and Welfare, was omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I (§101 et seq.) of that Act after Jan. 1, 1975.
 
-The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor, and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Indian Tribal Governmental Tax Status Act of 1982, referred to in subsec. (a)(40)(B), is title II of Pub. L. 97–473, Jan. 14, 1983, 96 Stat. 2607, which is classified principally to subchapter C (§7871) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under section 1 of this title and Tables.
 
@@ -988,7 +988,7 @@ Section 101(15) of the Immigration and Nationality Act, referred to in subsec. (
 
 Section 212(2) of the Federal Water Pollution Control Act, referred to in subsec. (e)(3)(E), is classified to section 1292(2) of Title 33, Navigation and Navigable Waters.
 
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (e)(5)(B), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (e)(5)(B), is thedate of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 Section 209 of the Social Security Act, referred to in subsec. (j)(3), is classified to section 409 of Title 42, The Public Health and Welfare.
 
@@ -1322,7 +1322,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Amendment by section 804(b) of Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
 
-Amendment by section 835(b)(10), (11) of Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such datecontinue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by section 835(b)(10), (11) of Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 Pub. L. 108–357, title VIII, §852(c), Oct. 22, 2004, 118 Stat. 1609, provided that:
 
@@ -1408,7 +1408,7 @@ Pub. L. 101–194, title VI, §603, Nov. 30, 1989, 103 Stat. 1763, provided that
 
 #### Effective Date of 1988 Amendment
 
-Amendment by title I of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, towhich such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by title I of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -1436,7 +1436,7 @@ Amendment by section 43(a)(1) of Pub. L. 98–369 applicable to taxable years en
 
 Amendment by section 53(c) of Pub. L. 98–369 effective July 18, 1984, except as otherwise provided, see section 53(e)(3) of Pub. L. 98–369, as amended, set out as an Effective Date note under section 1059 of this title.
 
-Amendment by section 75(c) of Pub. L. 98–369 applicable to distributions, sales, and exchanges made after Mar. 31, 1984, in taxable years ending after such date, see section 75(e) of Pub. L. 98–369, set out as an Effective Date note under section 386 of this title.
+Amendment by section 75(c) of Pub. L. 98–369 applicable to distributions, sales, and exchanges made afterMar. 31, 1984, in taxable years ending after such date, see section 75(e) of Pub. L. 98–369, set out as an Effective Date note under section 386 of this title.
 
 Pub. L. 98–369, div. A, title I, §138(b), July 18, 1984, 98 Stat. 676, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -1482,7 +1482,7 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 201(d)(10) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982,see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by section 201(d)(10) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 Pub. L. 97–248, title III, §336(b), Sept. 3, 1982, 96 Stat. 629, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\]."
 
@@ -1526,7 +1526,7 @@ Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning
 
 Amendment by section 204(a)(3) of Pub. L. 88–272 applicable to group-term life insurance provided after Dec. 31, 1963, in taxable years ending after such date, see section 204(d) of Pub. L. 88–272, set out as an Effective Date note under section 79 of this title.
 
-Amendment by section 234(b)(3) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 234(c) of Pub. L. 88–272, set out as a note under section 1503 of this title.
+Amendment by section 234(b)(3) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963,see section 234(c) of Pub. L. 88–272, set out as a note under section 1503 of this title.
 
 #### Effective Date of 1962 Amendments
 

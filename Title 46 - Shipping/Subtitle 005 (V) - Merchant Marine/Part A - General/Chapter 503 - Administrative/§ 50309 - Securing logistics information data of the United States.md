@@ -148,7 +148,7 @@ Elements.—As part of the negotiations described in paragraph (1), the Presiden
 
 &emsp;&emsp;"(C) urge governments to use their voice, influence, and vote to align with the United States and to counter attempts by foreign adversaries at international standards-setting bodies to adopt standards that incorporate a covered logistics platform; and
 
-&emsp;&emsp;"(D) attempt to establish, through multilateral entities, bilateral or multilateral negotiations, military cooperation, and other relevant engagements or agreements, a prohibition on the use of a covered logistics platform.
+&emsp;&emsp;"(D) attempt to establish, through multilateral entities, bilateral or multilateral negotiations,military cooperation, and other relevant engagements or agreements, a prohibition on the use of a covered logistics platform.
 
 &emsp;"(3)
 

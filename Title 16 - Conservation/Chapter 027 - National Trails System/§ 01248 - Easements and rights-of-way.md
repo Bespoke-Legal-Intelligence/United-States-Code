@@ -46,7 +46,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 As used in this section—
 
-&emsp;(1) The term "conservation system unit" has the same meaning given such term in the Alaska National Interest Lands ConservationAct (Public Law 96–487; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.
+&emsp;(1) The term "conservation system unit" has the same meaning given such term in the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.
 
 &emsp;(2) The term "public lands" has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 
@@ -84,7 +84,7 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 Pub. L. 100–470, §2, Oct. 4, 1988, 102 Stat. 2281, provided that: "Congress hereby finds that—
 
-&emsp;"(1) State and local governments have a special role to play under the National Trails System Act \[16 U.S.C. 1241 et seq.\] in acquiring and developing trails for recreation and conservation purposes.
+&emsp;"(1) State and local governments have a special role to play under the National Trails System Act \[16U.S.C. 1241 et seq.\] in acquiring and developing trails for recreation and conservation purposes.
 
 &emsp;"(2) Many miles of public land rights-of-way have been granted to the railroads by the United States, and much of this mileage could be suitable for trail use at such time as it may be abandoned.
 

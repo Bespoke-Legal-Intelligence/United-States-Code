@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapteras the "Board"), which shall consist of 30 Directors appointed in accordance with subsection (b), each of whom shall be a United States citizen.
+&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapter as the "Board"), which shall consist of 30 Directors appointed in accordance with subsection (b), each of whom shall be a United States citizen.
 
 #### (2) Representation of diverse points of view
 
@@ -64,7 +64,7 @@ A majority of the current membership of the Board shall constitute a quorum for 
 
 #### (e) Meetings
 
-The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
+The Board shall meet at the call of the Chairman at least once a year. If a Director missesthree consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
 
 #### (f) Reimbursement of expenses
 

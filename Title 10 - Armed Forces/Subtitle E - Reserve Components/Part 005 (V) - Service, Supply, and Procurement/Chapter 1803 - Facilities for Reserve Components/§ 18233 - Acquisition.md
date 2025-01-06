@@ -14,13 +14,13 @@
 
 &emsp;(6) contribute to any State such amounts for the construction, alteration, or rehabilitation of critical portions of facilities as the Secretary determines to be required to meet a change in Department of Defense construction criteria or standards related to the execution of the Federal military mission assigned to the unit using the facility.
 
-(b) Title to property acquired by the United States under subsection (a)(1) vests in the United States. Such property may be transferred to any State incident to the expansion, rehabilitation, or conversion of such property under subsection (a)(2) so long as the transfer of such property does not result in the creation of an enclave owned by a State within a Federal installation.
+(b) Title to property acquired by the United States under subsection (a)(1) vests in the United States. Such property may be transferred to any State incident to the expansion, rehabilitation, or conversion of such property under subsection (a)(2) so long as the transfer ofsuch property does not result in the creation of an enclave owned by a State within a Federal installation.
 
 (c) The Secretary of Defense may delegate any of his authority or functions under this chapter to any department, agency, or officer of the Department of Defense.
 
 (d) The expenses of leasing property under subsection (a)(1) may be paid from appropriations available for the payment of rent.
 
-(e) The Secretary of Defense may procure, or contribute to any State such amounts as the Secretary determines to be necessary to procure, architectural and engineering services andconstruction design in connection with facilities to be established or developed under this chapter which are not otherwise authorized by law.
+(e) The Secretary of Defense may procure, or contribute to any State such amounts as the Secretary determines to be necessary to procure, architectural and engineering services and construction design in connection with facilities to be established or developed under this chapter which are not otherwise authorized by law.
 
 (f)(1) Authority provided by law to construct, expand, rehabilitate, convert, or equip any facility under this section includes authority to expend funds for surveys, administration, overhead, planning, design, and supervision incident to any such activity.
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 98–525, §1405(34)(B), struck out "or Territory, Puerto R
 
 <b>1982</b>—Subsec. (a)(2) to (4). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto Rico, or the District of Columbia" after "contribute to any State".
 
-Subsec. (a)(5). Pub. L. 97–214, §3(e)(1), substituted "contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter" for "contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter" and "A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied".
+Subsec. (a)(5). Pub. L. 97–214, §3(e)(1), substituted "contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failureof existing facilities to meet the purposes of this chapter" for "contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter" and "A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied".
 
 Subsec. (a)(6). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto Rico, or the District of Columbia" after "contribute to any State".
 

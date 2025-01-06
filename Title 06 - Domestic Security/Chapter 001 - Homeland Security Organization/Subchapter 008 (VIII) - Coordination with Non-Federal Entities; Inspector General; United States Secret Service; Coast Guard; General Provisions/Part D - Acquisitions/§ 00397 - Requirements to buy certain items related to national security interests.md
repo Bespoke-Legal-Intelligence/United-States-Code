@@ -82,7 +82,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) or a major disaster declared by the Presidentunder section 5170 of title 42, the Secretary may waive a requirement in subparagraph (A), (B) or (C) of paragraph (1) if the Secretary determines there is an insufficient supply of a covered item that meets such requirement.
+&emsp;&emsp;In the case of a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) or a major disaster declared by the President under section 5170 of title 42, the Secretary may waive a requirement in subparagraph (A), (B) or (C) of paragraph (1) if the Secretary determines there is an insufficient supply of a covered item that meets such requirement.
 
 #### (B) Notice
 

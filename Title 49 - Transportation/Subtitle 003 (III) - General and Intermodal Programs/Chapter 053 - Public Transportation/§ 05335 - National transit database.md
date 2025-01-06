@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 112–141, §20025(a)(2), added subsec. (c).
 
 Subsec. (a)(1). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §3026(a)(1), substituted "National Transit Database" for "Reporting System and Uniform System of Accounts and Records" in heading.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §3026(a)(1), substituted "National Transit Database" for "ReportingSystem and Uniform System of Accounts and Records" in heading.
 
 Subsec. (a)(1). Pub. L. 105–178, §3026(a)(2), substituted "using uniform categories" for "by uniform categories," and "and using a uniform system of accounts" for "and a uniform system of accounts and records".
 

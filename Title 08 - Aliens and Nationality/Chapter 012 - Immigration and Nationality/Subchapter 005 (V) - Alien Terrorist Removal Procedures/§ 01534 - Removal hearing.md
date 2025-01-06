@@ -22,7 +22,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (1) Right of counsel
 
-&emsp;The alien shall have a right to be present at such hearing and to be represented by counsel. Any alien financially unable to obtain counselshall be entitled to have counsel assigned to represent the alien. Such counsel shall be appointed by the judge pursuant to the plan for furnishing representation for any person financially unable to obtain adequate representation for the district in which the hearing is conducted, as provided for in section 3006A of title 18. All provisions of that section shall apply and, for purposes of determining the maximum amount of compensation, the matter shall be treated as if a felony was charged.
+&emsp;The alien shall have a right to be present at such hearing and to be represented by counsel. Any alien financially unable to obtain counsel shall be entitled to have counsel assigned to represent the alien. Such counsel shall be appointed by the judge pursuant to the plan for furnishing representation for any person financially unable to obtain adequate representation for the district in which the hearing is conducted, as provided for in section 3006A of title 18. All provisions of that section shall apply and, for purposes of determining the maximum amount of compensation, the matter shall be treated as if a felony was charged.
 
 #### (2) Introduction of evidence
 
@@ -68,7 +68,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;For purposes of this subchapter—
 
-&emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
+&emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
 
 &emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppress evidence that the alien alleges was unlawfully obtained; and
 
@@ -138,7 +138,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (f) Arguments
 
-Following the receipt of evidence, the Government and the alien shall be given fair opportunity to present argument as to whether the evidence is sufficient to justify the removal of the alien. The Government shall open the argument. The alien shall be permitted to reply. The Government shall then be permitted to reply in rebuttal. The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.
+Following the receipt of evidence, the Government and the alien shall be given fair opportunity to present argument as to whether the evidence is sufficient to justify the removal of the alien. The Government shall open the argument. The alien shall be permitted to reply. The Government shall then be permitted to reply inrebuttal. The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.
 
 #### (g) Burden of proof
 
@@ -220,7 +220,7 @@ Subsec. (k)(4) to (6). Pub. L. 104–208, §357, added par. (4) and redesignated
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(7)(B), (8)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(7)(B), (8)(B) of Pub. L. 104–208 effective, with certain transitional provisions,on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by sections 354(a)(1), (2), (b), and 357 of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
 

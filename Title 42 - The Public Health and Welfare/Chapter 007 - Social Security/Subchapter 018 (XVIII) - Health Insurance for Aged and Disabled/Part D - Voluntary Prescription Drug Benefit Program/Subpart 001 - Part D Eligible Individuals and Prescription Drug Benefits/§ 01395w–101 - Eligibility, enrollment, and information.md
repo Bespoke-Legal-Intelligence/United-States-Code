@@ -246,7 +246,7 @@ Subsec. (b)(1)(D). Pub. L. 111–148, §3303(b)(2), added subpar. (D).
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–198, title VII, §704(g)(1), July 22, 2016, 130 Stat. 751, provided that: "The amendments made by this section \[amending this section and sections1395w–104, 1395w–152, 1395ddd, and 1395iii of this title\] shall apply to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019."
+Pub. L. 114–198, title VII, §704(g)(1), July 22, 2016, 130 Stat. 751, provided that: "The amendments made by this section \[amending this section and sections 1395w–104, 1395w–152, 1395ddd, and 1395iii of this title\] shall apply to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019."
 
 #### Effective Date of 2010 Amendment
 
@@ -388,7 +388,7 @@ Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided tha
 
 #### Report on Progress in Implementation of Prescription Drug Benefit
 
-Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: "Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[42 U.S.C. 1395w–101 et seq.\]."
+Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: "Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[42 U.S.C. 1395w–101 et seq.\]."
 
 #### State Pharmaceutical Assistance Transition Commission
 

@@ -28,7 +28,7 @@ There is authorized to be appropriated, for deposit into the Abandoned Mine Recl
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b)of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233, 1240).
+&emsp;Except as provided in paragraph (2), grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233, 1240).
 
 #### (2) Long-term abandoned mine land reclamation
 
@@ -46,7 +46,7 @@ There is authorized to be appropriated, for deposit into the Abandoned Mine Recl
 
 &emsp;&emsp;Each recipient of a grant under subsection (b)(1) that deposits grant amounts into a long-term abandoned mine land reclamation fund under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) offer amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)) to reflect the use of the amounts for—
+&emsp;&emsp;&emsp;(i) offer amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Actof 1977 (30 U.S.C. 1233(c)) to reflect the use of the amounts for—
 
 &emsp;&emsp;&emsp;&emsp;(I) acid mine drainage abatement and treatment;
 
@@ -108,7 +108,7 @@ In addition to the priorities described in section 403(a) of the Surface Mining 
 
 #### (g) Reservation
 
-Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States andIndian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)).
+Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States and Indian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)).
 
 (Pub. L. 117–58, div. D, title VII, §40701, Nov. 15, 2021, 135 Stat. 1091; Pub. L. 117–328, div. DD, title VIII, §801, Dec. 29, 2022, 136 Stat. 5622.)
 
@@ -130,7 +130,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Definitions
 

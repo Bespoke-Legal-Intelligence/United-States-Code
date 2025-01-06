@@ -7,7 +7,7 @@
 
 - [&sect; 06321 - Absence of veterans to attend funeral services](%C2%A7%2006321%20-%20Absence%20of%20veterans%20to%20attend%20funeral%20services.md)
 - [&sect; 06322 - Leave for jury or witness service; official duty status for certain witness service](%C2%A7%2006322%20-%20Leave%20for%20jury%20or%20witness%20service%3B%20official%20duty%20status%20for%20certain%20witness%20service.md)
-- [&sect; 06323 - Military leave; Reserves and National Guardsmen](%C2%A7%2006323%20-%20Military%20leave%3B%20Reserves%20and%20National%20Guardsmen.md)
+- [&sect; 06323 - Military leave Reserves, National Guard members, and certain members of the Space Force](%C2%A7%2006323%20-%20Military%20leave%20Reserves%2C%20National%20Guard%20members%2C%20and%20certain%20members%20of%20the%20Space%20Force.md)
 - [&sect; 06324 - Absence of certain police and firemen](%C2%A7%2006324%20-%20Absence%20of%20certain%20police%20and%20firemen.md)
 - [&sect; 06325 - Absence resulting from hostile action abroad](%C2%A7%2006325%20-%20Absence%20resulting%20from%20hostile%20action%20abroad.md)
 - [&sect; 06326 - Absence in connection with funerals of immediate relatives in the Armed Forces](%C2%A7%2006326%20-%20Absence%20in%20connection%20with%20funerals%20of%20immediate%20relatives%20in%20the%20Armed%20Forces.md)

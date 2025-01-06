@@ -26,7 +26,7 @@ multinational species conservation fund" \[16 U.S.C. 4246\];
 
 &emsp;(11) the term "Secretary" means the Secretary of the Interior;
 
-&emsp;(12) the term "United States" means the fifty States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+&emsp;(12) the term "United States" means the fifty States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico,and the territories and possessions of the United States; and
 
 &emsp;(13) the term "worked ivory" means any African elephant tusk, and any piece thereof, which is not raw ivory.
 

@@ -22,7 +22,7 @@
 
 (F) Members of the Commission shall be appointed for a term which shall end on April 1, 1981.
 
-(G) A vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as that herein provided for the appointment of the member first appointed to the vacant position.
+(G) A vacancy in the Commission shall not affect its powers, but shall be filled in the samemanner as that herein provided for the appointment of the member first appointed to the vacant position.
 
 (3) Members of the Commission shall receive $138 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
@@ -46,7 +46,7 @@
 
 &emsp;(D) any inequities (whether attributable to provisions of law relating to the establishment and operation of such programs, to rules and regulations promulgated in connection with the administration of such programs, or to administrative practices and procedures employed in the carrying out of such programs) which affect substantial numbers of individuals who are insured or otherwise eligible for benefits under such programs, including inequities and inequalities arising out of marital status, sex, or similar classifications or categories;
 
-&emsp;(E) possible alternatives to the current Federal programs or particular aspects thereof, including but not limited to (i) a phasing out of the payroll tax with the financing of such programs being accomplished in some other manner (including general revenue funding and the retirement bond), (ii) the establishment of a system providing for mandatory participation in any or all of the Federal programs, (iii) the integration of such currentFederal programs with private retirement programs, and (iv) the establishment of a system permitting covered individuals a choice of public or private programs or both;
+&emsp;(E) possible alternatives to the current Federal programs or particular aspects thereof, including but not limited to (i) a phasing out of the payroll tax with the financing of such programs being accomplished in some other manner (including general revenue funding and the retirement bond), (ii) the establishment of a system providing for mandatory participation in any or all of the Federal programs, (iii) the integration of such current Federal programs with private retirement programs, and (iv) the establishment of a system permitting covered individuals a choice of public or private programs or both;
 
 &emsp;(F) the need to develop a special Consumer Price Index for the elderly, including the financial impact that such an index would have on the costs of the programs established under this chapter; and
 

@@ -1,0 +1,32 @@
+### §9085. Office of the Chief of Space Operations: general duties
+
+(a)
+
+Professional Assistance.—The Office of the Chief of Space Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force and to the Chief of Space Operations.
+
+(b)
+
+Authorities.—Under the authority, direction, and control of the Secretary of the Air Force, the Office of the Chief of Space Operations shall—
+
+&emsp;(1) subject to subsections (c) and (d) of section 9014 of this title, prepare for such employment of the Space Force, and for such recruiting, organizing, supplying, equipping (including research and development), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Space Force, as will assist in the execution of any power, duty, or function of the Secretary of the Air Force or the Chief of Space Operations;
+
+&emsp;(2) investigate and report upon the efficiency of the Space Force and its preparation to support military operations by commanders of the combatant commands;
+
+&emsp;(3) prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
+
+&emsp;(4) as directed by the Secretary of the Air Force or the Chief of Space Operations, coordinate the action of organizations of the Space Force; and
+
+&emsp;(5) perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary of the Air Force.
+
+(Added Pub. L. 116–283, div. A, title IX, §921(a), Jan. 1, 2021, 134 Stat. 3805, §9084; renumbered §9085, Pub. L. 118–159, div. A, title V, §509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+A prior section 9085 was renumbered section 9086 of this title.
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–159 renumbered section 9084 of this title as this section.
+

@@ -6,7 +6,7 @@
 
 (3) In the case of a regular Navy warrant officer in the grade of chief warrant officer, W–⁠5, or a Marine Corps Marine Gunner warrant officer in such grade, the officer shall be retired 60 days after the date on which the officer completes 33 years of total active service.
 
-(b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, becauseof unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when the warrant officer would otherwise be required to retire under this section.
+(b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when the warrant officer would otherwise be required to retire under this section.
 
 (c) Under such regulations as the Secretary concerned may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after the warrant officer becomes 62 years of age.
 

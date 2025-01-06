@@ -1,6 +1,6 @@
 ### §242q–5. Authorization of appropriations
 
-For the purpose of carrying out sections 242q to 242q–5 of this title, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1993.
+For the purpose of carrying out sections 242q to 242q–5 of this title, there are authorized to beappropriated such sums as may be necessary for each of the fiscal years 1991 through 1993.
 
 (Pub. L. 101–557, title III, §305, formerly §306, Nov. 15, 1990, 104 Stat. 2770; renumbered §305, Pub. L. 109–482, title I, §104(b)(3)(B), Jan. 15, 2007, 120 Stat. 3694.)
 

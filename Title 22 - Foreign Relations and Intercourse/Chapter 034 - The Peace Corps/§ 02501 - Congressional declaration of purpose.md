@@ -30,7 +30,7 @@ Pub. L. 87–293, title I, §28, formerly §27, Sept. 22, 1961, 75 Stat. 625, as
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–256, §1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: "This Act \[enacting section 2504a of this title, amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and section 8142 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 2504 of this title\] may be cited as the 'Sam Farr and Nick Castle Peace Corps Reform Act of 2018'."
+Pub. L. 115–256, §1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: "This Act \[enacting section 2504a of this title, amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and section 8142 of Title 5, GovernmentOrganization and Employees, and enacting provisions set out as notes under section 2504 of this title\] may be cited as the 'Sam Farr and Nick Castle Peace Corps Reform Act of 2018'."
 
 #### Short Title of 2011 Amendment
 
@@ -100,7 +100,7 @@ Peace Corps
 
 1–110. The negotiation, conclusion, and termination of international agreements pursuant to the Act \[this chapter\] shall be under the direction of the Secretary of State.
 
-1–111. Any substantial change in policies in effect on the date of this Order for the utilization of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], pursuant to Section 7 of the Act (22 U.S.C. 2506), shall be coordinated with the Secretary of State.
+1–111. Any substantial change in policies in effect on the date of this Order for the utilization of the ForeignService Act of 1980 \[22 U.S.C. 3901 et seq.\], pursuant to Section 7 of the Act (22 U.S.C. 2506), shall be coordinated with the Secretary of State.
 
 1–112. The Director shall consult and coordinate with the Director of ACTION to assure that the functions delegated to the Director by this Order are carried out consistently with the functions conferred upon the Director of ACTION by the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), ("Volunteer Service Act"), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\] and this Order.
 
@@ -124,7 +124,7 @@ Reservation of Functions to the President
 
 (c) The authority conferred on the President by Section 5(f)(1)(B) of the Act (22 U.S.C. 2504(f)(1)(B)).
 
-(d) The authority conferred by Section 10(f) of the Act (22 U.S.C. 2509(f)) to direct any agency of theUnited States Government to provide services, facilities, and commodities to officers carrying out functions under the Act \[this chapter\].
+(d) The authority conferred by Section 10(f) of the Act (22 U.S.C. 2509(f)) to direct any agency of the United States Government to provide services, facilities, and commodities to officers carrying out functions under the Act \[this chapter\].
 
 #### 1–4.
 
@@ -174,7 +174,7 @@ General Provisions
 
 1–703. So much of the personnel, property, records, and unexpended balances or appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions assigned to the Director of the Peace Corps or to the Director of ACTION by this Order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Director of the Peace Corps or the Director of ACTION at such time or times as the Director of the Office of Management and Budget shall direct.
 
-1–704. To the extent permitted by law, such further measures and dispositions as the Director of the Office of Management and Budget shall deem to be necessary in order to effectuate the provisions of this Order shall be carried out by such agencies as the Director of the Office of Management and Budget shall specify.
+1–704. To the extent permitted by law, such further measures and dispositions as the Director of the Officeof Management and Budget shall deem to be necessary in order to effectuate the provisions of this Order shall be carried out by such agencies as the Director of the Office of Management and Budget shall specify.
 
 1–705. The authority conferred by Sections 1–703 and 1–704 of this Order shall supplement, not limit, the provisions of Section 1–108 of this Order.
 

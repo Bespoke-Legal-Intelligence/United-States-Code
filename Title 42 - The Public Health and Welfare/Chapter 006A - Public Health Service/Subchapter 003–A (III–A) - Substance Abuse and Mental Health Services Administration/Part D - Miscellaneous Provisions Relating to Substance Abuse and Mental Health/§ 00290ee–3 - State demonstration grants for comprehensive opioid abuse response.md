@@ -70,7 +70,7 @@ In this section:
 
 &emsp;In awarding grants under this section, the Secretary shall, as appropriate, give priority to a State that—
 
-&emsp;&emsp;(A)(i) provides civil liability protection for first responders, health professionals, andfamily members who have received appropriate training in administering a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for emergency treatment of known or suspected opioid overdose; and
+&emsp;&emsp;(A)(i) provides civil liability protection for first responders, health professionals, and family members who have received appropriate training in administering a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for emergency treatment of known or suspected opioid overdose; and
 
 &emsp;&emsp;(ii) submits to the Secretary a certification by the attorney general of the State that the attorney general has—
 
@@ -128,7 +128,7 @@ A prior section 290ee–3, act July 1, 1944, ch. 373, title V, §548, formerly P
 
 #### Grant Program for the State and Tribal Response to the Opioid Abuse Crisis
 
-Pub. L. 114–255, div. A, title I, §1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII,§7181(a), Oct. 24, 2018, 132 Stat. 4068, which related to grant program to address opioid abuse crisis within States and Indian Tribes, was editorially reclassified as section 290ee–3a of this title.
+Pub. L. 114–255, div. A, title I, §1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII, §7181(a), Oct. 24, 2018, 132 Stat. 4068, which related to grant program to address opioid abuse crisis within States and Indian Tribes, was amended generally by Pub. L. 117–328, div. FF, title I, §1273, Dec. 29, 2022, 136 Stat. 5688, and transferred to section 290ee–3a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

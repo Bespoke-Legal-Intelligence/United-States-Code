@@ -30,7 +30,7 @@ Except as provided in subsections (a) and (b) of this section and in addition to
 
 &emsp;(1) deny such applicant admission to the program or to federally assisted housing; and
 
-&emsp;(2) after the expiration of the reasonable period beginning upon such activity, require the applicant, as a condition of admission to theprogram or to federally assisted housing, to submit to the public housing agency or owner evidence sufficient (as the Secretary shall by regulation provide) to ensure that the individual or individuals in the applicant's household who engaged in criminal activity for which denial was made under paragraph (1) have not engaged in any criminal activity during such reasonable period.
+&emsp;(2) after the expiration of the reasonable period beginning upon such activity, require the applicant, as a condition of admission to the program or to federally assisted housing, to submit to the public housing agency or owner evidence sufficient (as the Secretary shall by regulation provide) to ensure that the individual or individuals in the applicant's household who engaged in criminal activity for which denial was made under paragraph (1) have not engaged in any criminal activity during such reasonable period.
 
 (Pub. L. 105–276, title V, §576, Oct. 21, 1998, 112 Stat. 2639.)
 

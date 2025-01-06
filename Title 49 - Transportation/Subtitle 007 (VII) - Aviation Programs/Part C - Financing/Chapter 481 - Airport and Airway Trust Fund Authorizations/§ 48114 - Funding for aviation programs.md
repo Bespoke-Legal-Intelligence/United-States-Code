@@ -62,7 +62,7 @@ Total airport and airway trust fund funding.—It shall not be in order in the H
 
 Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2018 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
-(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §106(a), Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–190, title I, §1106(a), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §107(a), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–254, div. B, title I, §116, Oct. 5, 2018, 132 Stat. 3201.)
+(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55,title I, §106(a), Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–190, title I, §1106(a), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §107(a), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–254, div. B, title I, §116, Oct. 5, 2018, 132 Stat. 3201.)
 
 #### <b>Editorial Notes</b>
 

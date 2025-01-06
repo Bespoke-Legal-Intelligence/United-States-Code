@@ -14,7 +14,7 @@
 
 #### (2) Government checks; certain other checks
 
-&emsp;Funds deposited in an account at a depository institution by check shall be available forwithdrawal not later than the business day after the business day on which such funds are deposited in the case of—
+&emsp;Funds deposited in an account at a depository institution by check shall be available for withdrawal not later than the business day after the business day on which such funds are deposited in the case of—
 
 &emsp;&emsp;(A) a check which—
 
@@ -58,7 +58,7 @@
 
 #### (1) Availability of funds deposited by local checks
 
-&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 1 business day shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which the funds involved are available for withdrawal.
+&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section,and section 4003 of this title, not more than 1 business day shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which the funds involved are available for withdrawal.
 
 #### (2) Availability of funds deposited by nonlocal checks
 
@@ -162,7 +162,7 @@ No provision of this section shall be construed as requiring that, with respect 
 
 &emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
-(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124Stat. 2085, 2086; Pub. L. 115–174, title II, §208(a)(2), May 24, 2018, 132 Stat. 1312.)
+(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086; Pub. L. 115–174, title II, §208(a)(2), May 24, 2018, 132 Stat. 1312.)
 
 #### <b>Editorial Notes</b>
 

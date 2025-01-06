@@ -14,5 +14,5 @@
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as partof the Department of Energy Organization Act which comprises this chapter.
 

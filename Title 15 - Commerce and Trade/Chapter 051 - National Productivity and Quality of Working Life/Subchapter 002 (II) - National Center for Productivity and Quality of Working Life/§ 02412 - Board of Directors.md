@@ -16,7 +16,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 &emsp;(6) the Executive Director of the Center;
 
-&emsp;(7) not less than five members who shall be appointed by the President, by and with the advice and consent of the Senate, from among qualified private individuals in manufacturing and service industries;
+&emsp;(7) not less than five members who shall be appointed by the President, by and with theadvice and consent of the Senate, from among qualified private individuals in manufacturing and service industries;
 
 &emsp;(8) not less than five members who shall be appointed by the President, by and with the advice and consent of the Senate, from among qualified private individuals from labor organizations;
 
@@ -50,7 +50,7 @@ Any member appointed to fill a vacancy occurring before the expiration of the te
 
 #### (e) Executive Committee of the Board
 
-(1) The Chairman shall appoint an Executive Committee of the Board, not to exceed sevenmembers, including the Executive Director of the Center.
+(1) The Chairman shall appoint an Executive Committee of the Board, not to exceed seven members, including the Executive Director of the Center.
 
 (2) The Executive Committee of the Board shall meet at the call of the Chairman, but in no case less frequently than once every ninety days.
 

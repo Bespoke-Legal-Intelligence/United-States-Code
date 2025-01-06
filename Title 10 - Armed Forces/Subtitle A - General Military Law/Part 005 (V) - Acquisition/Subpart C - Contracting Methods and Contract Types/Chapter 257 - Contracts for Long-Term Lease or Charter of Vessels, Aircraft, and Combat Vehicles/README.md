@@ -35,7 +35,7 @@ Exemption.—
 
 In general.—In accordance with regulations issued by the Secretary of Defense, an individual shall not be treated as a riding gang member for the purposes of section 8106 of title 46, United States Code, and this section if—
 
-&emsp;&emsp;"(A) the individual is aboard a vessel that is under charter or contract for the carriage of cargo for the Department of Defense, for purposes other than engaging in the operation or maintenance of the vessel; and
+&emsp;&emsp;"(A) the individual is aboard a vessel that is under charter or contract for the carriage of cargofor the Department of Defense, for purposes other than engaging in the operation or maintenance of the vessel; and
 
 &emsp;&emsp;"(B) the individual—
 

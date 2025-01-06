@@ -6,7 +6,7 @@ The Governor of a State, or the governing body of an affected Indian tribe, noti
 
 &emsp;(1) by which the Secretary—
 
-&emsp;&emsp;(A) keeps the Governor or governing body involved fully and currently informed about any potential economic or public health and safety impacts in all stages of the siting, development, construction, and operation of a test and evaluation facility;
+&emsp;&emsp;(A) keeps the Governor or governing body involved fully and currently informed aboutany potential economic or public health and safety impacts in all stages of the siting, development, construction, and operation of a test and evaluation facility;
 
 &emsp;&emsp;(B) solicits, receives, and evaluates concerns and objections of such Governor or governing body with regard to such test and evaluation facility on an ongoing basis; and
 

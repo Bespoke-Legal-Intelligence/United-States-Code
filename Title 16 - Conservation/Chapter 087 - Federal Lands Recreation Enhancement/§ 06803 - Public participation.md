@@ -60,7 +60,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (A) Number
 
-&emsp;&emsp;A Recreation Resource Advisory Committee shall be comprised of 11 members.
+&emsp;&emsp;A Recreation Resource Advisory Committee shall be comprised of 12 members.
 
 #### (B) Nominations
 
@@ -86,13 +86,15 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 &emsp;&emsp;&emsp;&emsp;(V) Hunting and fishing.
 
-&emsp;&emsp;&emsp;(ii) Three persons who represent interest groups that include, as appropriate, the following:
+&emsp;&emsp;&emsp;(ii) Four persons who represent interest groups that include, as appropriate, the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Motorized outfitters and guides.
 
 &emsp;&emsp;&emsp;&emsp;(II) Non-motorized outfitters and guides.
 
 &emsp;&emsp;&emsp;&emsp;(III) Local environmental groups.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Veterans organizations, as such term is defined in section 8471 of this title.
 
 &emsp;&emsp;&emsp;(iii) Three persons, as follows:
 
@@ -118,11 +120,11 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (7) Chairperson
 
-&emsp;The chairperson of a Recreation Resource Advisory Committee shall be selected by the majority vote of the members of the Committee.
+&emsp;The chairperson of a Recreation Resource Advisory Committee shall be selected by themajority vote of the members of the Committee.
 
 #### (8) Quorum
 
-&emsp;Eight members shall constitute a quorum. A quorum must be present to constitute an official meeting of a Recreation Resource Advisory Committee.
+&emsp;Six members shall constitute a quorum. A quorum must be present to constitute an official meeting of a Recreation Resource Advisory Committee.
 
 #### (9) Approval procedures
 
@@ -146,25 +148,25 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 &emsp;A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
 
-#### (e) Miscellaneous administrative provisions regarding recreation fees and recreation passes
-
-#### (1) Notice of entrance fees, standard amenity recreation fees, and passes
-
-&emsp;The Secretary shall post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes at appropriate locations in each unit or area of a Federal land management agency where an entrance fee or a standard amenity recreation fee is charged. The Secretary shall include such notice in publications distributed at the unit or area.
-
-#### (2) Notice of recreation fee projects
-
-&emsp;To the extent practicable, the Secretary shall post clear notice of locations where work is performed using recreation fee or recreation pass revenues collected under this chapter.
-
-(Pub. L. 108–447, div. J, title VIII, §804, Dec. 8, 2004, 118 Stat. 3382; Pub. L. 117–286, §4(a)(132), Dec. 27, 2022, 136 Stat. 4320.)
+(Pub. L. 108–447, div. J, title VIII, §804, Dec. 8, 2004, 118 Stat. 3382; Pub. L. 117–286, §4(a)(132), Dec. 27, 2022, 136 Stat. 4320; Pub. L. 118–234, title II, §225, title III, §311(c), Jan. 4, 2025, 138 Stat. 2888, 2897.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), (d)(1)(B), and (e)(2), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. Forcomplete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), and (d)(1)(B), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (d)(5)(A). Pub. L. 118–234, §225(1), substituted "12" for "11".
+
+Subsec. (d)(5)(D)(ii). Pub. L. 118–234, §225(2)(A), substituted "Four" for "Three" in introductory provisions.
+
+Subsec. (d)(5)(D)(ii)(IV). Pub. L. 118–234, §225(2)(B), added subcl. (IV).
+
+Subsec. (d)(8). Pub. L. 118–234, §225(3), substituted "Six" for "Eight".
+
+Subsec. (e). Pub. L. 118–234, §311(c), struck out subsec. (e) which authorized the Secretary to post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes and clear notice of locations where work is performed using recreation fee or recreation pass revenues collected.
 
 <b>2022</b>—Subsec. (d)(12). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
 

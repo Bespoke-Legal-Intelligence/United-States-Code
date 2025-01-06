@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a), such individual may elect continuation coverage under this subchapter during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
+&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a),such individual may elect continuation coverage under this subchapter during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
 
 #### (2) Commencement of coverage; no reach-back
 
@@ -76,7 +76,7 @@ For purposes of this subchapter—
 
 #### References in Text
 
-Section 2701, referred to in subsec. (b)(3), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of actJuly 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701, referred to in subsec. (b)(3), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Amendments
 

@@ -264,7 +264,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (d)(9). Pub. L. 110–246, §15316(b), added par. (9).
 
-<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–222, §502(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "interest on any obligation if such interest is exempt from tax under section 103(a)or if such interest is exempt from tax (without regard to the identity of the holder) under any other provision of this title,".
+<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–222, §502(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "interest on any obligation if such interest is exempt from tax under section 103(a) or if such interest is exempt from tax (without regard to the identity of the holder) under any other provision of this title,".
 
 Subsec. (b)(2)(C). Pub. L. 109–222 redesignated subpar. (D) as (C) and substituted "subparagraph (B)" for "subparagraph (C)".
 
@@ -316,7 +316,7 @@ Subsec. (c). Pub. L. 97–248, §309(a), substituted "subsection (a)" for "subse
 
 Subsec. (d). Pub. L. 97–248, §309(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 97–248, §§303(b), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal RevenueCode of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+Subsec. (e). Pub. L. 97–248, §§303(b), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
@@ -366,7 +366,7 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -404,7 +404,7 @@ Section applicable to payments of dividends and interest made on or after Jan. 1
 
 #### Savings Provision
 
-For provisions that amendment made by Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L.115–141, set out as a note under former section 1400L of this title.
+For provisions that amendment made by Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former section 1400L of this title.
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

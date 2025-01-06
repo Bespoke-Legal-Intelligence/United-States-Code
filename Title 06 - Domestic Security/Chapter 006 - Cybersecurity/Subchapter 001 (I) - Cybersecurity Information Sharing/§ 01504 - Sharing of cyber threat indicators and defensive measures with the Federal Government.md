@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) limit the effect on privacy and civil liberties of activities by the Federal Government under this subchapter;
 
-&emsp;&emsp;(B) limit the receipt, retention, use, and dissemination of cyber threat indicators containing personal information of specific individuals or information that identifies specific individuals, including by establishing—
+&emsp;&emsp;(B) limit the receipt, retention, use, and dissemination of cyber threat indicators containing personal information of specific individuals or information that identifiesspecific individuals, including by establishing—
 
 &emsp;&emsp;&emsp;(i) a process for the timely destruction of such information that is known not to be directly related to uses authorized under this subchapter; and
 
@@ -150,7 +150,7 @@
 
 #### (ii) Application to additional capability and process
 
-&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause\(i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
+&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause (i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
 
 #### (3) Public notice and access
 

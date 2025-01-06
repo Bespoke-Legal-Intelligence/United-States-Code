@@ -310,7 +310,7 @@ Covered Motor Vehicle Defined.—In this section, the term 'covered motor vehicl
 
 Federal Requirements.—A covered motor vehicle, including the individual operating such vehicle and the employer of such individual, shall be exempt from the following:
 
-&emsp;"(1) Any requirement relating to registration as a motor carrier, including the requirement to obtain and display a Department of Transportation number, established under chapters 139 and 311 of title 49, United States Code.
+&emsp;"(1) Any requirement relating to registration as a motor carrier, including the requirement to obtainand display a Department of Transportation number, established under chapters 139 and 311 of title 49, United States Code.
 
 &emsp;"(2) Any requirement relating to driver qualifications established under chapter 311 of title 49, United States Code.
 
@@ -550,7 +550,7 @@ Rulemaking.—Not later than 2 years after the completion of each research and t
 
 "(a)
 
-Requirements.—To the extent feasible, the Secretary shall ensure that research programs are carried out concurrently, and in a manner that concurrently assesses results, potential countermeasures, costs, and benefits.
+Requirements.—To the extent feasible, the Secretary shall ensure that research programs are carried out concurrently, and in a manner that concurrentlyassesses results, potential countermeasures, costs, and benefits.
 
 "(b)
 
@@ -810,7 +810,7 @@ Transportation of agricultural commodities and farm supplies.—Regulations pres
 
 &emsp;&emsp;"(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point;
 
-&emsp;&emsp;"(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point; or
+&emsp;&emsp;"(C) drivers transporting farm supplies for agricultural purposes from a wholesale distributionpoint of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point; or
 
 &emsp;&emsp;"(D) drivers transporting livestock (as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471) including insects) within a 150 air-mile radius from the final destination of the livestock.
 
@@ -860,7 +860,7 @@ or 8 consecutive days.—The term '7 or 8 consecutive days' means the period of 
 
 &emsp;"(2) 24-
 
-hour period.—The term '24-hour period' means any 24 consecutive hour period beginning atthe time designated by the motor carrier for the terminal from which the driver is normally dispatched.
+hour period.—The term '24-hour period' means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched.
 
 &emsp;"(3)
 
@@ -890,7 +890,7 @@ Agricultural commodity.—The term 'agricultural commodity' means any agricultur
 
 &emsp;"(8)
 
-Farm supplies for agricultural purposes.—The term 'farm supplies for agricultural purposes' means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year.
+Farm supplies for agricultural purposes.—The term 'farm supplies for agricultural purposes' means products directly related to the growing or harvesting of agricultural commodities during theplanting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year.
 
 "(f)
 
@@ -930,7 +930,7 @@ Rulemaking.—The Federal Highway Administration shall issue a notice of propose
 
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
-Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related to exemption from certain regulatory or statutory requirements for transportation ofagricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of former section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out above.
+Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related to exemption from certain regulatory or statutory requirements for transportation of agricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of former section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out above.
 
 #### Winter Home Heating Oil Delivery State Flexibility Program
 

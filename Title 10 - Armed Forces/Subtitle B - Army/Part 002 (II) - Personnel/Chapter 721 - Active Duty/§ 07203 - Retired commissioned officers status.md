@@ -28,7 +28,7 @@ A prior section 7203, acts Aug. 10, 1956, ch. 1041, 70A Stat. 442; Sept. 2, 1958
 
 Prior sections 7204 and 7205 were renumbered sections 8604 and 8605 of this title, respectively.
 
-A prior section 7206, act Aug. 10, 1956, ch. 1041, 70A Stat. 443, related to minor construction and extension of structures, prior to repeal by Pub. L. 85–861, §36B(22), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 7206, act Aug. 10, 1956, ch. 1041, 70A Stat. 443, related to minor construction and extensionof structures, prior to repeal by Pub. L. 85–861, §36B(22), Sept. 2, 1958, 72 Stat. 1571.
 
 A prior section 7207 was renumbered section 8607 of this title.
 

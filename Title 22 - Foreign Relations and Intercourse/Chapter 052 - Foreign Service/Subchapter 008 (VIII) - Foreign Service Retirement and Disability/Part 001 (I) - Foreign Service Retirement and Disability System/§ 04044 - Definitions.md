@@ -162,7 +162,7 @@ Treatment of prior service.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Special contribution.—An individual may, after making the election under this subsection, make a special contribution up to the full amount of the difference between the contributions actually deducted from pay for prior service and the deductions that would have been required if the amendments made by this Act had then been in effect. Any special contributions under this clause shall be computed under regulations based on section 805(d) of the Foreign Service Act of 1980 \[22 U.S.C. 4045(d)\] (as amended by section 2), including provisions relating to the computation of interest.
+Special contribution.—An individual may, after making the election under this subsection, make a special contribution up to the full amount of the difference between the contributions actually deducted from pay for prior service and thedeductions that would have been required if the amendments made by this Act had then been in effect. Any special contributions under this clause shall be computed under regulations based on section 805(d) of the Foreign Service Act of 1980 \[22 U.S.C. 4045(d)\] (as amended by section 2), including provisions relating to the computation of interest.
 
 &emsp;&emsp;&emsp;"(ii)
 

@@ -46,7 +46,7 @@ Performance Management.—In order to achieve the purpose set forth in subsectio
 
 (c)
 
-Professional Certification.—(1) The Secretary of Defense shall implement a certification program to provide for a professional certification requirement for all members of the acquisition workforce. Except as provided in paragraph (2), the certification requirement for any acquisition workforce career field shall be based on standards developed by a third-party accredited program based on nationally or internationally recognized standards.
+Professional Certification.—(1) The Secretary of Defense shall implement a certification program to provide for a professional certification requirement for all members of the acquisition workforce. Except as provided in paragraph (2), the certification requirement forany acquisition workforce career field shall be based on standards developed by a third-party accredited program based on nationally or internationally recognized standards.
 
 (2) If the Secretary determines that, for a particular acquisition workforce career field, a third-party accredited program based on nationally or internationally recognized standards does not exist, the Secretary shall establish the certification requirement for that career field that conforms with the practices of national or international accrediting organizations. The Secretary shall determine the best approach for meeting the certification requirement for any such career field, including by implementing such certification requirement through entities outside the Department of Defense, and may design and implement such certification requirement without regard to section 1746 of this title.
 
@@ -96,7 +96,7 @@ Amendment by sections 1808(d)(2) and 1883(b)(2) of Pub. L. 116–283 effective J
 
 #### Deadline for Implementation of Procedures To Institute Certification Program
 
-Pub. L. 116–92, div. A, title VIII, §861(a)(5), Dec. 20, 2019, 133 Stat. 1516, provided that: "The Secretary ofDefense shall implement procedures to institute the program required by subsection (c) of section 1701a of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. A, title VIII, §861(a)(5), Dec. 20, 2019, 133 Stat. 1516, provided that: "The Secretary of Defense shall implement procedures to institute the program required by subsection (c) of section 1701a of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Deadline for Implementation of Career Paths
 

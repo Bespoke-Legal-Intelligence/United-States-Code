@@ -28,7 +28,7 @@ This chapter does not apply to a claim for personal injury or for wrongful death
 
 #### (e) Preemption of State law
 
-This chapter supersedes State law to the extent that it establishes a rule of law applicable to a Y2K action that is inconsistent with State law, but nothing in this chapter implicates, alters, or diminishes the ability of a State to defend itself against any claim on the basis of sovereign immunity.
+This chapter supersedes State law to the extent that it establishes a rule of law applicableto a Y2K action that is inconsistent with State law, but nothing in this chapter implicates, alters, or diminishes the ability of a State to defend itself against any claim on the basis of sovereign immunity.
 
 #### (f) Application with Year 2000 Information and Readiness Disclosure Act
 
@@ -74,7 +74,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;&emsp;&emsp;(II) noncompliance with applicable federally enforceable measurement, monitoring, or reporting requirements that provide for the safety and soundness of the banking or monetary system, or for the integrity of the national securities markets, including the protection of depositors and investors;
 
-&emsp;&emsp;&emsp;&emsp;(III) noncompliance with applicable federally enforceable measurement, monitoring, or reporting requirements tothe extent caused by operational error or negligence;
+&emsp;&emsp;&emsp;&emsp;(III) noncompliance with applicable federally enforceable measurement, monitoring, or reporting requirements to the extent caused by operational error or negligence;
 
 &emsp;&emsp;&emsp;&emsp;(IV) lack of reasonable preventative maintenance;
 
@@ -150,7 +150,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(B) The term "residential mortgage" has the meaning given the term "federally related mortgage loan" under section 2602 of title 12.
 
-&emsp;&emsp;(C) The term "servicer" means the person, including any successor, responsible for receiving any scheduled periodic payments from a consumer pursuant to the terms of a residential mortgage, including amounts forany escrow account, and for making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage. Such term includes the person, including any successor, who makes or holds a loan if such person also services the loan.
+&emsp;&emsp;(C) The term "servicer" means the person, including any successor, responsible for receiving any scheduled periodic payments from a consumer pursuant to the terms of a residential mortgage, including amounts for any escrow account, and for making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage. Such term includes the person, including any successor, who makes or holds a loan if such person also services the loan.
 
 #### (i) Applicability to securities litigation
 

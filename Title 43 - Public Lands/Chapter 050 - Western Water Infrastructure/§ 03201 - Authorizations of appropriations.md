@@ -36,7 +36,7 @@ There are authorized to be appropriated to the Secretary of the Interior, acting
 
 &emsp;(9) $100,000,000 to provide financial assistance for watershed management projects in accordance with subtitle A of title VI of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 1015 et seq.);
 
-&emsp;(10) $250,000,000 for design, study, and construction of aquatic ecosystem restoration and protection projects in accordance with section 2330c of title 33;
+&emsp;(10) $250,000,000 for design, study, and construction of aquatic ecosystem restorationand protection projects in accordance with section 2330c of title 33;
 
 &emsp;(11) $100,000,000 for multi-benefit projects to improve watershed health in accordance with section 3207 of this title; and
 

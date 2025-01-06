@@ -1,6 +1,6 @@
 ### §1087–54. Sources of matching funds
 
-Nothing in this part shall be construed as restricting the source (other than this part) fromwhich the institution may pay its share of the compensation of a student employed under a work-study program covered by an agreement under this part, and such share may be paid to such student in the form of services and equipment (including tuition, room, board, and books) furnished by such institution.
+Nothing in this part shall be construed as restricting the source (other than this part) from which the institution may pay its share of the compensation of a student employed under a work-study program covered by an agreement under this part, and such share may be paid to such student in the form of services and equipment (including tuition, room, board, and books) furnished by such institution.
 
 (Pub. L. 89–329, title IV, §444, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435.)
 

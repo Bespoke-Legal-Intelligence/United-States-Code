@@ -52,7 +52,7 @@ The Secretary may, with the consent of the taxpayer, rescind any notice of defic
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(B)(iii), substituted "or 44" for "44, or 45".
 
-Subsec. (b)(1). Pub. L. 100–418, §1941(b)(2)(E), substituted "or chapter 44" for "chapter 44, or chapter 45" and "chapter 44, and this chapter" for "chapter 44, chapter 45, and this chapter".
+Subsec. (b)(1). Pub. L. 100–418, §1941(b)(2)(E), substituted "or chapter 44" for "chapter 44, or chapter 45"and "chapter 44, and this chapter" for "chapter 44, chapter 45, and this chapter".
 
 Subsec. (c)(1). Pub. L. 100–418, §1941(b)(2)(F), substituted "or of chapter 42 tax" for "of chapter 42 tax" and struck out ", or of chapter 45 tax for the same taxable period" after "such petition relates".
 
@@ -84,7 +84,7 @@ Subsec. (c)(2)(C). Pub. L. 95–600, §405(c)(5), substituted "principal residen
 
 Subsec. (b)(1). Pub. L. 94–455, §§1307(d)(2)(G)(i), 1605(b)(5)(B), (C), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", and substituted "chapter 41, chapter 42, chapter 43, or chapter 44" for "chapter 42, or chapter 43", and "chapter 41, chapter 42, chapter 43, chapter 44, and this chapter" for "chapter 42, chapter 43, and this chapter".
 
-Subsec. (c)(1). Pub. L. 94–455, §§1204(c)(5), 1206(c)(3), 1307(d)(2)(G)(ii), 1605(b)(5)(D), 1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing, substituted "of chapter 41 tax for the same taxable year, of chapter 43 tax for the same taxable years, ofchapter 44 tax for the same taxable years" for "of chapter 43 tax for the same taxable years", and "(relating to mathematical or clerical errors), in section 6851 (relating to termination assessments)" for "(relating to mathematical errors)".
+Subsec. (c)(1). Pub. L. 94–455, §§1204(c)(5), 1206(c)(3), 1307(d)(2)(G)(ii), 1605(b)(5)(D), 1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing, substituted "of chapter 41 tax for the same taxable year, of chapter 43 tax for the same taxable years, of chapter 44 tax for the same taxable years" for "of chapter 43 tax for the same taxable years", and "(relating to mathematical or clerical errors), in section 6851 (relating to termination assessments)" for "(relating to mathematical errors)".
 
 Subsec. (c)(2)(B). Pub. L. 94–455, §1901(b)(31)(C), substituted "1033(a)(2)(C) and (D)" for "1033(a)(3)(C) and (D)".
 
@@ -150,7 +150,7 @@ Amendment by section 701(t)(3)(C) of Pub. L. 95–600 effective Oct. 4, 1976, se
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272, except for purposes of section 21 of this title, effective with respect to taxableyears beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
+Amendment by Pub. L. 88–272, except for purposes of section 21 of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
 #### Effective Date of 1958 Amendment
 

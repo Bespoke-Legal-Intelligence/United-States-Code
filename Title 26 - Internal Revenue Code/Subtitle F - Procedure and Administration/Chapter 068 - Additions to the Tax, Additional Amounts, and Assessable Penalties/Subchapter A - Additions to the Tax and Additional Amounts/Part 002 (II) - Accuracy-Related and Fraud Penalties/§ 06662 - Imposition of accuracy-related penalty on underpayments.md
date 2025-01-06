@@ -56,7 +56,7 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 #### (C) Special rule for taxpayers claiming section 199A deduction
 
-&emsp;&emsp;In the case of any taxpayer who claims any deduction allowed under section 199A for the taxable year, subparagraph (A) shall be applied by substituting "5 percent" for "10 percent".
+&emsp;&emsp;In the case of any taxpayer who claims any deduction allowed under section 199A forthe taxable year, subparagraph (A) shall be applied by substituting "5 percent" for "10 percent".
 
 #### (2) Understatement
 
@@ -248,7 +248,7 @@ For purposes of this section, the term "inconsistent estate basis" means any por
 
 In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting "50 percent" for "20 percent".
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083;Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §11011(c), Dec. 22, 2017, 131 Stat. 2070; Pub. L. 115–141, div. T, §101(a)(2)(A), div. U, title I, §104(a), title IV, §401(a)(303), (304), Mar. 23, 2018, 132 Stat. 1155, 1170, 1199; Pub. L. 116–260, div. EE, title II, §212(b)(1), (2), Dec. 27, 2020, 134 Stat. 3067; Pub. L. 117–328, div. T, title VI, §605(a)(2)(A), (B), Dec. 29, 2022, 136 Stat. 5394.)
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §11011(c), Dec. 22, 2017, 131 Stat. 2070; Pub. L. 115–141, div. T, §101(a)(2)(A), div. U, title I, §104(a), title IV, §401(a)(303), (304), Mar. 23, 2018, 132 Stat. 1155, 1170, 1199; Pub. L. 116–260, div. EE, title II, §212(b)(1), (2), Dec. 27, 2020, 134 Stat. 3067; Pub. L. 117–328, div. T, title VI, §605(a)(2)(A), (B), Dec. 29, 2022, 136 Stat. 5394.)
 
 #### <b>Editorial Notes</b>
 
@@ -272,7 +272,7 @@ Subsec. (h)(2)(D). Pub. L. 117–328, §605(a)(2)(B), added subpar. (D).
 
 <b>2020</b>—Subsec. (b)(9). Pub. L. 116–260, §212(b)(1), added par. (9).
 
-Subsec. (l). Pub. L. 116–260, §212(b)(2), added subsec. (l)
+Subsec. (l). Pub. L. 116–260, §212(b)(2), added subsec. (l).
 
 <b>2018</b>—Subsec. (d)(1)(C). Pub. L. 115–141, §101(a)(2)(A), substituted "any deduction" for "the deduction".
 
@@ -436,7 +436,7 @@ Pub. L. 108–357, title VIII, §812(f), Oct. 22, 2004, 118 Stat. 1580, as amend
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section6662A of this title and amending this section and section 6664 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 6662A of this title and amending this section and section 6664 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
 
 "(2)
 

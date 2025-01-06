@@ -24,7 +24,7 @@ Beginning not later than 5 years after April 29, 2022, each of the Secretaries, 
 
 &emsp;&emsp;(G) over-snow vehicles.
 
-&emsp;(4) The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is permanently restricted or prohibited on the Federal land.
+&emsp;(4) The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is regulated or closed on the Federal land.
 
 #### (b) Updates
 
@@ -40,5 +40,11 @@ Beginning not later than 5 years after April 29, 2022, each of the Secretaries, 
 
 Geographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
 
-(Pub. L. 117–114, §5, Apr. 29, 2022, 136 Stat. 1176.)
+(Pub. L. 117–114, §5, Apr. 29, 2022, 136 Stat. 1176; Pub. L. 118–234, title III, §354(2), Jan. 4, 2025, 138 Stat. 2917.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2025</b>—Subsec. (a)(4). Pub. L. 118–234 substituted "regulated or closed" for "permanently restricted or prohibited".
 

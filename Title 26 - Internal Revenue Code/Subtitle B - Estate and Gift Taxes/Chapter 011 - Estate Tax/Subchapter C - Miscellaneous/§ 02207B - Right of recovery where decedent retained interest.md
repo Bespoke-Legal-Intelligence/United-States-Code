@@ -34,7 +34,7 @@ No person shall be entitled to recover any amount by reason of this section from
 
 <b>1997</b>—Subsec. (a)(2). Pub. L. 105–34 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply if the decedent otherwise directs in a provision of his will (or a revocable trust) specifically referring to this section."
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11601(b)(1)(A), redesignated former subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "If for any calendar year tax is paid under chapter 12 with respect to any person by reason of property treated as transferred by such person under section 2036(c)(4), such person shall be entitled to recover from the original transferee (as defined in section 2036(c)(4)(C)(ii)) the amount which bears the same ratio to the total tax for such year under chapter 12 as—
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11601(b)(1)(A), redesignated former subsec. (c) as (b) and struck outformer subsec. (b) which read as follows: "If for any calendar year tax is paid under chapter 12 with respect to any person by reason of property treated as transferred by such person under section 2036(c)(4), such person shall be entitled to recover from the original transferee (as defined in section 2036(c)(4)(C)(ii)) the amount which bears the same ratio to the total tax for such year under chapter 12 as—
 
 &emsp;"(1) the value of such property for purposes of chapter 12, bears to
 

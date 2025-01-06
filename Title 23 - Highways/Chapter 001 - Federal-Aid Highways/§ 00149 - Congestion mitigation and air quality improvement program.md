@@ -78,7 +78,7 @@ HOV facilities.—No funds may be provided under this section for a project whic
 
 &emsp;(4)
 
-Locks and dams; marine highways.—For each fiscal year, a State may not obligate more than 10 percent of the funds apportioned to the State under section 104(b)(4) for projectsdescribed in paragraphs (10) and (11) of subsection (b).
+Locks and dams; marine highways.—For each fiscal year, a State may not obligate more than 10 percent of the funds apportioned to the State under section 104(b)(4) for projects described in paragraphs (10) and (11) of subsection (b).
 
 (d)
 
@@ -226,7 +226,7 @@ Contents.—The table described in subparagraph (A) shall show measures of cost-
 
 &emsp;&emsp;(C)
 
-Use of table.—States and metropolitan planning organizations shall consider the information in the table when selecting projects or developing performance plans under subsection (l).
+Use of table.—States and metropolitan planning organizations shall considerthe information in the table when selecting projects or developing performance plans under subsection (l).
 
 (j)
 
@@ -266,7 +266,7 @@ nonattainment and maintenance in low population density states.—
 
 &emsp;&emsp;(A)
 
-Exception.—In any State with a population density of 80 or fewer persons persquare mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
+Exception.—In any State with a population density of 80 or fewer persons per square mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
 
 &emsp;&emsp;&emsp;(i) the nonattainment or maintenance area does not have projects that are part of the emissions analysis of a metropolitan transportation plan or transportation improvement program; and
 
@@ -352,7 +352,7 @@ The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3),
 
 The date of enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of theMAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 The day before the date of enactment of MAP–21, referred to in subsec. (d)(3), means the day before the date of enactment of Pub. L. 112–141. See note above.
 
@@ -532,7 +532,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1995 Amendment
 
-Amendment by section 405(b) of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set outas an Effective Date note under section 1301 of Title 49, Transportation.
+Amendment by section 405(b) of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 Pub. L. 104–88, title IV, §405(a), Dec. 29, 1995, 109 Stat. 956, provided that the amendment made by section 405(a)(2) is effective Nov. 28, 1995.
 
@@ -786,7 +786,7 @@ Pub. L. 105–178, title I, §1110(e), June 9, 1998, 112 Stat. 144, provided tha
 
 "(1)
 
-In general.—The Secretary and the Administrator of the Environmental Protection Agency shall enter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air quality improvement program under section 149 of title 23, United States Code. The study shall, at a minimum—
+In general.—The Secretary and the Administrator of the Environmental Protection Agency shallenter into arrangements with the National Academy of Sciences to complete, by not later than January 1, 2001, a study of the congestion mitigation and air quality improvement program under section 149 of title 23, United States Code. The study shall, at a minimum—
 
 &emsp;"(A) evaluate the air quality impacts of emissions from motor vehicles;
 
@@ -876,5 +876,5 @@ Use of unallocated funds.—If the total amount of funds made available from the
 
 &emsp;"(C) \[probably should be (E)\]
 
-Contract authority.—Funds authorized to carry out this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project under this subsection and the availability of funds authorized to carry out this subsection shall be determined in accordance with this subsection."
+Contract authority.—Funds authorized to carry out this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federalshare of the cost of any project under this subsection and the availability of funds authorized to carry out this subsection shall be determined in accordance with this subsection."
 

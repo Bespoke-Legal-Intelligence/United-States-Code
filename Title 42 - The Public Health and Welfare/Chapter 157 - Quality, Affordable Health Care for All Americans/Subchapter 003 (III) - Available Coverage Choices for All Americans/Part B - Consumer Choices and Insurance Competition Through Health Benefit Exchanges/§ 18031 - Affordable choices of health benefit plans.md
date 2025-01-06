@@ -88,7 +88,7 @@
 
 #### (4) Enrollee satisfaction system
 
-&emsp;The Secretary shall develop an enrollee satisfaction survey system that would evaluate the level of enrollee satisfaction with qualified health plans offered through an Exchange, for each such qualified health plan that had more than 500 enrollees in the previous year. The Exchange shall include enrollee satisfaction information in the information provided to individuals and employers through the Internet portal established under paragraph (5) in a manner that allows individuals to easily compare enrollee satisfaction levels between comparable plans.
+&emsp;The Secretary shall develop an enrollee satisfaction survey system that would evaluate the level of enrollee satisfaction with qualified health plans offered through an Exchange, foreach such qualified health plan that had more than 500 enrollees in the previous year. The Exchange shall include enrollee satisfaction information in the information provided to individuals and employers through the Internet portal established under paragraph (5) in a manner that allows individuals to easily compare enrollee satisfaction levels between comparable plans.
 
 #### (5) Internet portals
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;(I) transfer to the Secretary of the Treasury—
 
-&emsp;&emsp;&emsp;(i) a list of the individuals who are issued a certification under subparagraph\(H), including the name and taxpayer identification number of each individual;
+&emsp;&emsp;&emsp;(i) a list of the individuals who are issued a certification under subparagraph (H), including the name and taxpayer identification number of each individual;
 
 &emsp;&emsp;&emsp;(ii) the name and taxpayer identification number of each individual who was an employee of an employer but who was determined to be eligible for the premium tax credit under section 36B of title 26 because—
 
@@ -242,7 +242,7 @@
 
 #### (7) Publication of costs
 
-&emsp;An Exchange shall publish the average costs of licensing, regulatory fees, and any other payments required by the Exchange, and the administrative costs of such Exchange, on an Internet website to educate consumers on such costs. Such information shall also include monies lost to waste, fraud, and abuse.
+&emsp;An Exchange shall publish the average costs of licensing, regulatory fees, and any otherpayments required by the Exchange, and the administrative costs of such Exchange, on an Internet website to educate consumers on such costs. Such information shall also include monies lost to waste, fraud, and abuse.
 
 #### (e) Certification
 
@@ -452,7 +452,7 @@ An Exchange may not establish rules that conflict with or prevent the applicatio
 
 #### References in Text
 
-Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C\(§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
+Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
 
 This title, referred to in subsecs. (b)(1) and (e)(3)(A)(viii), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 

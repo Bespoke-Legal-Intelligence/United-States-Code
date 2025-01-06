@@ -1,6 +1,6 @@
 ### §9033. Return to work reporting
 
-Each State participating in an agreement under any of the preceding sections of this subtitle shall have in effect a method to address any circumstances in which, during any period during which such agreement is in effect, claimants of unemployment compensation refuse to return to work or to accept an offer of suitable work without good cause. Such method shall include the following:
+Each State participating in an agreement under any of the preceding sections of this subtitle shall have in effect a method to address any circumstances in which, during any periodduring which such agreement is in effect, claimants of unemployment compensation refuse to return to work or to accept an offer of suitable work without good cause. Such method shall include the following:
 
 &emsp;(1) A reporting method for employers, such as through a phone line, email, or online portal, to notify the State agency when an individual refuses an offer of employment.
 

@@ -30,13 +30,13 @@ Withholding Payments.—(1) The Secretary may withhold a payment under a grant a
 
 (e)
 
-Action on Grant Assurances Concerning Airport Revenues.—If, after notice and opportunity for a hearing, the Secretary finds a violation of section 47107(b) of this title, as further defined by the Secretary under section 47107(k) of this title, or a violation of an assurance made under section 47107(b) of this title, and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee <sup>1</sup> under section 40117 of this title. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
+Action on Grant Assurances Concerning Airport Revenues.—If, after notice and opportunity for a hearing, the Secretary finds a violation of section 47107(b) of this title, as further defined by the Secretary under section 47107(k) of this title, or a violation of an assurance made under section 47107(b) of this title, and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a charge under section 40117 of this title. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
 
 (f)
 
 Judicial Enforcement.—For any violation of this chapter or any grant assurance made under this chapter, the Secretary may apply to the district court of the United States for any district in which the violation occurred for enforcement. Such court shall have jurisdiction to enforce obedience thereto by a writ of injunction or other process, mandatory or otherwise, restraining any person from further violation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1266; Pub. L. 103–305, title I, §112(b), Aug. 23, 1994, 108 Stat. 1575; Pub. L. 113–188, title XV, §1501(b)(2)(C), Nov. 26, 2014, 128 Stat. 2024.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1266; Pub. L. 103–305, title I, §112(b), Aug. 23, 1994, 108 Stat. 1575; Pub. L. 113–188, title XV, §1501(b)(2)(C), Nov. 26, 2014, 128 Stat. 2024; Pub. L. 118–63, title XI, §1101(u), May 16, 2024, 138 Stat. 1414.)
 
 Historical and Revision Notes
 
@@ -82,9 +82,9 @@ In subsection (d)(3), the words "adversely affected" are substituted for "aggrie
 
 #### Amendments
 
+<b>2024</b>—Subsec. (e). Pub. L. 118–63 substituted "charge" for "fee".
+
 <b>2014</b>—Subsec. (e). Pub. L. 113–188 substituted "section 47107(k)" for "section 47107(l)".
 
 <b>1994</b>—Subsecs. (e), (f). Pub. L. 103–305 added subsecs. (e) and (f).
-
-<i><sup>1</sup></i><i> So in original. Probably should be "charge".</i>
 

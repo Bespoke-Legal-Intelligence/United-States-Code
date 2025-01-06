@@ -114,7 +114,7 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title VI, §663, Oct. 5, 1999, 113 Stat. 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that:
+Pub. L. 106–65, div. A, title VI, §663, Oct. 5, 1999, 113 Stat. 673, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that:
 
 "(a)
 

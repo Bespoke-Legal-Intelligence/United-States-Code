@@ -4,7 +4,7 @@
 
 In carrying out the program authorized by section 3402 of this title, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Ocean Policy Committee established under section 8932 of title 10, shall—
 
-&emsp;(1) conduct interdisciplinary expeditions or other scientific activities in conjunction with other Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize little known areas of the marine environment, inventory, observe, characterize, and assessliving and nonliving marine resources, and report such findings;
+&emsp;(1) conduct interdisciplinary expeditions or other scientific activities in conjunction with other Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize little known areas of the marine environment, inventory, observe, characterize, and assess living and nonliving marine resources, and report such findings;
 
 &emsp;(2) give priority attention to deep ocean regions of the exclusive economic zone, with a focus on deep water marine systems that hold potential for important scientific discoveries, such as hydrothermal vent communities and seamounts;
 
@@ -14,7 +14,7 @@ In carrying out the program authorized by section 3402 of this title, the Admini
 
 &emsp;(5) support technological innovation of the United States marine science community by promoting the development and use of new and emerging technologies for research, communication, navigation, and data collection, such as sensors and autonomous vehicles;
 
-&emsp;(6) establish an ocean exploration forum, in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 <sup>1</sup> of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, to encourage partnerships and promote communication among experts and other stakeholders in order to enhance the scientific and technical expertise and relevance of the national program.<sup>2</sup>
+&emsp;(6) establish an ocean exploration forum, in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 <sup>1</sup> of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, to encourage partnerships and promote communicationamong experts and other stakeholders in order to enhance the scientific and technical expertise and relevance of the national program.<sup>2</sup>
 
 &emsp;(7) provide guidance, in consultation with the National Ocean Mapping, Exploration, and Characterization Council, to Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations on data standards, protocols for accepting data, and coordination of data collection, compilation, processing, archiving, and dissemination for data relating to ocean exploration and characterization; and
 

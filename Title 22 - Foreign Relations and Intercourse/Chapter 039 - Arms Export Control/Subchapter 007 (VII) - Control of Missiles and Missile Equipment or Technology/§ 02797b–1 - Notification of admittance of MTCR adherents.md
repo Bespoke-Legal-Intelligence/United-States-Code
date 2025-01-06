@@ -26,5 +26,5 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.
+Functions of President under this section delegated to Secretary of State by Memorandum of President ofthe United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.
 

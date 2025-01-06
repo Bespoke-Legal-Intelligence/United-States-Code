@@ -90,7 +90,7 @@ Pub. L. 115–353, Dec. 21, 2018, 132 Stat. 5070, provided that:
 
 In General.—The Secretary and the Administrator, in coordination with the heads of other relevant Federal agencies, shall seek, as appropriate, to work with the Governments of Angola, Botswana, Namibia, and neighboring countries, and in partnership with donors, regional organizations, nongovernmental organizations, local communities, and the private sector, to develop a strategy to—
 
-&emsp;"(1) create and advance a cooperative framework to promote responsible natural resource, water, andwildlife management practices in the greater Okavango River Basin;
+&emsp;"(1) create and advance a cooperative framework to promote responsible natural resource, water, and wildlife management practices in the greater Okavango River Basin;
 
 &emsp;"(2) protect traditional migration routes of elephants and other threatened wildlife species;
 
@@ -326,7 +326,7 @@ In General.—Except as provided in subsection (b), the authorities of this subt
 
 "(b)
 
-Exception.—In lieu of the termination date specified in subsection (a), the termination required by that subsection shall take effect five years after the date of establishment of the program described in section 643 if, prior to the termination date specified in subsection\(a), the President determines and certifies to the appropriate congressional committees that it would be in the national interest of the United States to continue the program described in such section 643 for an additional 2-year period.
+Exception.—In lieu of the termination date specified in subsection (a), the termination required by that subsection shall take effect five years after the date of establishment of the program described in section 643 if, prior to the termination date specified in subsection (a), the President determines and certifies to the appropriate congressional committees that it would be in the national interest of the United States to continue the program described in such section 643 for an additional 2-year period.
 
 #### "SEC. 652. EFFECTIVE DATE.
 

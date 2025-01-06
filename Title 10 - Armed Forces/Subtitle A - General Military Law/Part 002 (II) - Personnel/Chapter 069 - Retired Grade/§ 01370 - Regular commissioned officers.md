@@ -38,7 +38,7 @@ Retirement of Officers Retiring Voluntarily.—
 
 &emsp;(1)
 
-Service-in-grade requirement.—In order to be eligible for voluntary retirement under any provision of this title in a grade above the grade of captain in the Army, Air Force, Marine Corps, or,<sup>1</sup> Space Force or lieutenant in the Navy, a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force must have served on active duty in that grade for a period of not less than three years, except that—
+Service-in-grade requirement.—In order to be eligible for voluntary retirement under any provision of this title in a grade above the grade of captain in the Army, Air Force, Marine Corps, or Space Force or lieutenant in the Navy, a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force must have served on active duty in that grade for a period of not less than three years, except that—
 
 &emsp;&emsp;(A) subject to subsection (c), the Secretary of Defense may reduce such period to a period of not less than two years for any officer; and
 
@@ -58,7 +58,7 @@ Limitation on reduction or waiver of requirement for officers under investigatio
 
 &emsp;(5)
 
-Grade and fiscal year limitations on reduction or waiver of requirements.—The aggregate number of members of an armed force in a grade for whom reductions are made under paragraph (1), and waivers are made under paragraph (3), in a fiscal year may not exceed—
+Grade and fiscal year limitations on reduction or waiver of requirements.—The aggregate number of members of an armed force in a grade for whom reductions are made under paragraph (1), and waivers are madeunder paragraph (3), in a fiscal year may not exceed—
 
 &emsp;&emsp;(A) in the case of officers to be retired in a grade at or below the grade of major in the Army, Air Force, Marine Corps, or Space Force or lieutenant commander in the Navy, the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade;
 
@@ -102,7 +102,7 @@ Requirements in connection with certification.—A certification with respect to
 
 &emsp;(4)
 
-Construction with other notice.—In the case of an officer under paragraph (1) to whom a reduction in the service-in-grade requirement under subsection (b)(1) or waiver under subsection (b)(3) applies, the requirement for notification under subsection (b)(6) is satisfiedif the notification is included in the certification submitted by the Secretary of Defense under paragraph (1).
+Construction with other notice.—In the case of an officer under paragraph (1) to whom a reduction in the service-in-grade requirement under subsection (b)(1) or waiver under subsection (b)(3) applies, the requirement for notification under subsection (b)(6) is satisfied if the notification is included in the certification submitted by the Secretary of Defense under paragraph (1).
 
 (d)
 
@@ -126,7 +126,7 @@ Officers in o–9 and o–10 grades.—When an officer described by subsection (
 
 &emsp;(3)
 
-Reduction or waiver of service-in-grade requirement prohibited for general, flag, and equivalent officer grades.—In conditionally determining the retirement grade of an officer under paragraph (1)(A) or (2)(A) of this subsection to be a grade above the grade of colonel in the Army, Air Force, Marine Corps, or Space Force or captain in the Navy, the service-in-grade requirement in subsection (b)(1) may not be reduced pursuant to subsection (b)(1) or waived pursuant to subsection (b)(3).
+Reduction or waiver of service-in-grade requirement prohibited for general, flag, and equivalent officer grades.—In conditionally determining the retirement grade of an officer under paragraph (1)(A) or\(2)(A) of this subsection to be a grade above the grade of colonel in the Army, Air Force, Marine Corps, or Space Force or captain in the Navy, the service-in-grade requirement in subsection (b)(1) may not be reduced pursuant to subsection (b)(1) or waived pursuant to subsection (b)(3).
 
 &emsp;(4)
 
@@ -204,13 +204,13 @@ Additional notice on reopening for officers retired in o–9 and o–10 grades.�
 
 Manner of making of change.—If the retired grade of an officer is proposed to be changed through the reopening of the final determination of an officer's retired grade under this subsection, the change in grade shall be made—
 
-&emsp;&emsp;(A) in the case of an officer whose retired grade is to be changed to a grade at or below the grade of major general in the Army, Air Force <sup>2</sup> Marine Corps, or Space Force or rear admiral in the Navy in accordance with subsections (a) and (b)—
+&emsp;&emsp;(A) in the case of an officer whose retired grade is to be changed to a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force or rear admiral in the Navy in accordance with subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(i) by the Secretary of Defense (who may delegate such authority only as authorized by clause (ii)); or
 
 &emsp;&emsp;&emsp;(ii) if authorized by the Secretary of Defense, by the Secretary of the military department concerned (who may not further delegate such authority);
 
-&emsp;&emsp;(B) in the case of an officer whose retired grade is to be changed to the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy <sup>2</sup> by the President, by and with the advice and consent of the Senate.
+&emsp;&emsp;(B) in the case of an officer whose retired grade is to be changed to the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy, by the President, by and with the advice and consent of the Senate.
 
 &emsp;(7)
 
@@ -218,9 +218,9 @@ Recalculation of retired pay.—If the final retired grade of an officer is chan
 
 (g)
 
-Highest Permanent Grade Defined.—In this section, the term "highest permanent grade" means a grade at or below the grade of major general in the Army, Air Force, or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force.
+Highest Permanent Grade Defined.—In this section, the term "highest permanent grade" means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.
 
-(Added Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574; amended Pub. L. 118–31, div. A, title XVII, §1741(a)(5), Dec. 22, 2023, 137 Stat. 679.)
+(Added Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574; amended Pub. L. 118–31, div. A, title XVII, §1741(a)(5), Dec. 22, 2023, 137 Stat. 679; Pub. L. 118–159, div. A, title V, §521(f)(1), title XVII, §1701(a)(20), Dec. 23, 2024, 138 Stat. 1881, 2204.)
 
 #### <b>Editorial Notes</b>
 
@@ -229,6 +229,14 @@ Highest Permanent Grade Defined.—In this section, the term "highest permanent 
 A prior section 1370, Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (o), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, §505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, §506, Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §501, Jan. 6, 2006, 119 Stat. 3225; Pub. L. 112–239, div. A, title V, §§506, 507, Jan. 2, 2013, 126 Stat. 1716; Pub. L. 114–328, div. A, title V, §508(d), Dec. 23, 2016, 130 Stat. 2109; Pub. L. 115–91, div. A, title V, §504, Dec. 12, 2017, 131 Stat. 1374; Pub. L. 115–232, div. A, title V, §509, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1749, 1840; (As amended Pub. L. 116–92, div. A, title V, §509(a), (b), Dec. 20, 2019, 133 Stat. 1346, related to commissioned officers: general rule for retirement with exceptions, prior to repeal by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–159, §1701(a)(20)(A), substituted "or Space Force" for "or, Space Force" in introductory provisions.
+
+Subsec. (f)(6)(A). Pub. L. 118–159, §1701(a)(20)(B)(i), inserted a comma after "Air Force" in introductory provisions.
+
+Subsec. (f)(6)(B). Pub. L. 118–159, §1701(a)(20)(B)(ii), inserted a comma after "Navy".
+
+Subsec. (g). Pub. L. 118–159, §521(f)(1), substituted "Marine Corps, or Space Force, or rear admiral in the Navy" for "or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force".
 
 <b>2023</b>—Subsec. (a)(2). Pub. L. 118–31, §1741(a)(5)(A), substituted "major general or rear admiral." for "major general, rear admiral in the Navy, or the equivalent grade in the Space Force." in subpars. (A) and (B).
 
@@ -246,7 +254,7 @@ Subsec. (b)(5)(C). Pub. L. 118–31, §1741(a)(5)(B)(iii)(III), substituted "Mar
 
 Subsec. (b)(6). Pub. L. 118–31, §1741(a)(5)(B)(iv), struck out ", or an equivalent grade in the Space Force," after "general or flag officer grade".
 
-Subsec. (c)(1). Pub. L. 118–31, §1741(a)(5)(C), which directed amendment of par. (1) "by 'or Marine Corps' and all that follows through 'Space Force' and inserting 'Marine Corps, or Space Force or vice admiral or admiral in the Navy"', was executed by striking "or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force" and inserting "Marine Corps, or Space Force or vice admiral or admiral in the Navy" to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 118–31, §1741(a)(5)(C), which directed amendment of par. (1) "by 'or Marine Corps' and all that follows through 'Space Force' and inserting'Marine Corps, or Space Force or vice admiral or admiral in the Navy"', was executed by striking "or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force" and inserting "Marine Corps, or Space Force or vice admiral or admiral in the Navy" to reflect the probable intent of Congress.
 
 Subsec. (d)(1). Pub. L. 118–31, §1741(a)(5)(D)(i), substituted "Marine Corps, or Space Force or rear admiral in the Navy" for "or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force".
 
@@ -271,8 +279,4 @@ Pub. L. 116–283, div. A, title V, §508(c), Jan. 1, 2021, 134 Stat. 3585, prov
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions relating to the time-in-grade requirement for voluntary retirement of officers not subsequently promoted, see section 629 of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

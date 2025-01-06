@@ -378,7 +378,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;The term "pay-for-performance contract strategy" means a procurement strategy that uses pay-for-performance contracts in the provision of training services described in section 3174(c)(3) of this title or activities described in section 3164(c)(2) of this title, and includes—
 
-&emsp;&emsp;(A) contracts, each of which shall specify a fixed amount that will be paid to an eligible service provider (which may include a local or national community-based organization or intermediary, community college, orother training provider, that is eligible under section 3152 or 3153 of this title, as appropriate) based on the achievement of specified levels of performance on the primary indicators of performance described in section 3141(b)(2)(A) of this title for target populations as identified by the local board (including individuals with barriers to employment), within a defined timetable, and which may provide for bonus payments to such service provider to expand capacity to provide effective training;
+&emsp;&emsp;(A) contracts, each of which shall specify a fixed amount that will be paid to an eligible service provider (which may include a local or national community-based organization or intermediary, community college, or other training provider, that is eligible under section 3152 or 3153 of this title, as appropriate) based on the achievement of specified levels of performance on the primary indicators of performance described in section 3141(b)(2)(A) of this title for target populations as identified by the local board (including individuals with barriers to employment), within a defined timetable, and which may provide for bonus payments to such service provider to expand capacity to provide effective training;
 
 &emsp;&emsp;(B) a strategy for independently validating the achievement of the performance described in subparagraph (A); and
 
@@ -456,7 +456,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (62) Unit of general local government
 
-&emsp;The term "unit of general local government" means any general purpose politicalsubdivision of a State that has the power to levy taxes and spend funds, as well as general corporate and police powers.
+&emsp;The term "unit of general local government" means any general purpose political subdivision of a State that has the power to levy taxes and spend funds, as well as general corporate and police powers.
 
 #### (63) Veteran; related definition
 

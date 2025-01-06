@@ -133,11 +133,11 @@
 
 &emsp;&emsp;(ii) would be so eligible but for having either elected to terminate individual contributions to the Thrift Savings Fund within 2 months before commencing military service or separated in order to perform military service.
 
-(2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposesof this section, any election which would be allowable during a period described in subsection (b)(1)(A).
+(2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
 
 (j)(1) For the purpose of this subsection—
 
-&emsp;(A) the term "eligible rollover distribution" has the meaning given such term by section 402(c)(4) of the Internal Revenue Code of 1986; and
+&emsp;(A) the term "eligible rollover distribution" has the meaning given such term by section402(c)(4) of the Internal Revenue Code of 1986; and
 
 &emsp;(B) the term "qualified trust" has the meaning given such term by section 402(c)(8) of the Internal Revenue Code of 1986.
 
@@ -371,7 +371,7 @@ Exception.—The regulations prescribed under this section shall, with respect t
 
 #### Contributions to Thrift Savings Fund
 
-Pub. L. 99–509, title VI, §6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to ThriftSavings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
+Pub. L. 99–509, title VI, §6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
 
 #### Inapplicability of Limitation on Number of Elections Within a Six-Month Period
 

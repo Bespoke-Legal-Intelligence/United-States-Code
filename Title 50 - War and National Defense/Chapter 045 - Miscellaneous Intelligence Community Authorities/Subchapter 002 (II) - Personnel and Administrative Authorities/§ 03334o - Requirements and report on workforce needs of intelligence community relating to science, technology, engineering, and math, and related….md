@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-The Director of National Intelligence, in coordination with the heads of human capital fromeach element of the intelligence community, shall—
+The Director of National Intelligence, in coordination with the heads of human capital from each element of the intelligence community, shall—
 
 &emsp;(1) develop a plan for the recruitment and retention of personnel to positions the primary duties of which involve the integration, maintenance, or use of artificial intelligence (and the retention and training of personnel serving in such positions), including with respect to the authorities and requirements under section 6732(b); <sup>1</sup>
 
@@ -54,7 +54,7 @@ Section 6732(b), referred to in subsec. (a)(1), means section 6732(b) of Pub. L.
 
 #### Definitions
 
-For definitions of "intelligence community" and "congressional intelligence committees" as used in this section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.
+For definitions of "intelligence community" and "congressional intelligence committees" as used inthis section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.
 
 For definitions of "artificial intelligence" and "emerging technology" as used in this section, see section 6701 of Pub. L. 117–263, set out as a note under section 3024 of this title.
 

@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 96–466, §§343(a)(2), 601(e), redesignated former subsec
 
 Subsec. (b). Pub. L. 94–502, §§508, 513(a)(17), substituted "$5" for "$3", "$6" for "$4", and "submit to the Administrator" for "submit to him".
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–508 extended the payment of reporting fee to educational institutions under this chapter and to joint apprenticeship training committees acting as training establishments, and in provisions relating to computation of such fee, substituted reference to this chapter for reference to chapter 36 of this title.
+<b>1974</b>—Subsec. (b). Pub. L. 93–508 extended the payment of reporting fee to educational institutions underthis chapter and to joint apprenticeship training committees acting as training establishments, and in provisions relating to computation of such fee, substituted reference to this chapter for reference to chapter 36 of this title.
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–540, §315(1), inserted reference to chapter 36 of this title.
 
@@ -196,7 +196,7 @@ Through July 31, 2018.—During the period beginning on the date of the enactmen
 
 \[(b) Repealed. Pub. L. 115–62, title IV, §411(a)(1)(B), Sept. 29, 2017, 131 Stat. 1165.\]
 
-Pub. L. 113–175, title IV, §406, Sept. 26, 2014, 128 Stat. 1905, as amended by Pub. L. 114–58, title IV, §410, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §413, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §412(c), Dec. 16, 2016, 130 Stat. 1562, provided that: "During the period beginning on the date of the enactment of this Act \[Sept. 26, 2014\] and ending on the day beforethe date of the enactment of the Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016 \[Dec. 16, 2016\], the second sentence of section 3684(c) shall be applied—
+Pub. L. 113–175, title IV, §406, Sept. 26, 2014, 128 Stat. 1905, as amended by Pub. L. 114–58, title IV, §410, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §413, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §412(c), Dec. 16, 2016, 130 Stat. 1562, provided that: "During the period beginning on the date of the enactment of this Act \[Sept. 26, 2014\] and ending on the day before the date of the enactment of the Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016 \[Dec. 16, 2016\], the second sentence of section 3684(c) shall be applied—
 
 &emsp;"(1) by substituting '$9' for '$12'; and
 

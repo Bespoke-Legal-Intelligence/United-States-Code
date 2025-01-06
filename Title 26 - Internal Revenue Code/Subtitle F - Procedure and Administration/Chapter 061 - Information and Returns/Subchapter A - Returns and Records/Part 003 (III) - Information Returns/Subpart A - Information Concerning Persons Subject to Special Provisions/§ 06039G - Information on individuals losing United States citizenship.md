@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 108–357, §804(e)(4), redesignated subsec. (d) as (c) and
 
 Subsec. (d). Pub. L. 108–357, §804(e)(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Pub. L. 108–357, §804(e)(3), reenacted heading without change and amended text of subsec. (d) generally. Priorto amendment, text read as follows: "Any individual failing to provide a statement required under subsection (a) shall be subject to a penalty for each year (of the 10-year period beginning on the date of loss of United States citizenship) during any portion of which such failure continues in an amount equal to the greater of—
+Pub. L. 108–357, §804(e)(3), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "Any individual failing to provide a statement required under subsection (a) shall be subject to a penalty for each year (of the 10-year period beginning on the date of loss of United States citizenship) during any portion of which such failure continues in an amount equal to the greater of—
 
 &emsp;"(1) 5 percent of the tax required to be paid under section 877 for the taxable year ending during such year, or
 

@@ -6,7 +6,7 @@ If any State is dissatisfied with the Secretary's action under section 15024(d)(
 
 #### (b) Filing
 
-The clerk of the court shall transmit promptly a copy of the petition to the Secretary, or any officer designated by the Secretary for that purpose. The Secretary shall file promptly with the court the record of the proceedings on which the Secretary based the action, as provided in section 2112 of title 28.
+The clerk of the court shall transmit promptly a copy of the petition to the Secretary, or any officer designated by the Secretary for that purpose. The Secretary shall file promptly with thecourt the record of the proceedings on which the Secretary based the action, as provided in section 2112 of title 28.
 
 #### (c) Jurisdiction
 

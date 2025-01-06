@@ -78,27 +78,31 @@ The Secretary of State shall develop and implement policies and programs to prov
 
 #### (c) Oversight of posts abroad
 
-The Secretary of State shall—
+(1) The Secretary of State shall—
 
-&emsp;(1) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>2</sup>
+&emsp;(A) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>2</sup>
 
-&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
+&emsp;(B) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
+
+(2) The Secretary of State shall notify the appropriate congressional committees within 10 days of any decision to retain authority over or approve decisions at an overseas post, including the movement of personnel.
 
 #### (d) Federal agency
 
 As used in this subchapter and subchapter III, the term "Federal agency" includes any department or agency of the United States Government.
 
-(Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, §505(a), Sept. 30, 2002, 116 Stat. 1393.)
+(Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, §505(a), Sept. 30, 2002, 116 Stat. 1393; Pub. L. 118–159, div. G, title LXXV, §7503, Dec. 23, 2024, 138 Stat. 2546.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
+Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323,title I, §101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–159 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 <b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–228 inserted "Voice of America correspondents on official assignment and" after "abroad (other than".
 
@@ -110,7 +114,7 @@ Pub. L. 103–236 designated existing provisions as par. (1), redesignated forme
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–461 inserted "or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development" after "commander", and substituted a period for "; and" at end.
 
-Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary andshall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
+Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
 

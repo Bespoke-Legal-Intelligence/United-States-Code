@@ -38,7 +38,7 @@ The Secretary shall conduct, support, or coordinate research, monitoring, evalua
 
 #### (2) Facility requirement
 
-&emsp;Any facility developed under this subsection must emphasize the conservation goals andsustainable public uses of national marine sanctuaries by providing the public with information about the conservation, recreational, ecological, historical, cultural, archeological, scientific, educational, or esthetic qualities of the national marine sanctuary.
+&emsp;Any facility developed under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries by providing the public with information about the conservation, recreational, ecological, historical, cultural, archeological, scientific, educational, or esthetic qualities of the national marine sanctuary.
 
 #### (e) Consultation and coordination
 

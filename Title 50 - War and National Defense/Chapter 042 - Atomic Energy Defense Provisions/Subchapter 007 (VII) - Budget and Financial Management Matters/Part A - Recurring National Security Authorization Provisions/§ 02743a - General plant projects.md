@@ -12,7 +12,7 @@ This Act, referred to in text, is div. B of Pub. L. 112–74, Dec. 23, 2011, 125
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act,2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Atomic Energy Defense Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

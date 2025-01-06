@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Concurrent with the submission of the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year (submitted to Congress pursuant to section 1105(a) of title 31), the Secretary of Energy shall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program.
+&emsp;Concurrent with the submission of the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year (submitted to Congress pursuant to section 1105(a) of title 31), the Secretary of Energy shall submit to the congressionaldefense committees a report on the financial balances for each atomic energy defense program.
 
 #### (2) Presentation of information
 

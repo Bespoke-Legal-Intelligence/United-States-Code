@@ -20,13 +20,13 @@ Subsec. (a). Pub. L. 116–92, §1731(a)(61), substituted "is" for "are". Amendm
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8069 of this title as section 9069 of this title.
 
-<b>2016</b>—Pub. L. 114–328, §502(nn)(2), amended section catchline generally, substituting "Air Force nurses:Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade".
+<b>2016</b>—Pub. L. 114–328, §502(nn)(2), amended section catchline generally, substituting "Air Force nurses: Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade".
 
 Subsec. (a). Pub. L. 114–328, §502(nn)(1)(A), substituted "Position of Chief" for "Positions of Chief and Assistant Chief" in heading and struck out "and assistant chief" after "There are a Chief" in text.
 
 Subsec. (b). Pub. L. 114–328, §502(nn)(1)(B), struck out second sentence which read as follows: "An appointee who holds a lower regular grade shall be appointed in the regular grade of major general."
 
-Subsec. (c). Pub. L. 114–328, §502(nn)(1)(C), struck out subsec. (c). Text read as follows: "The Surgeon General shall appoint the assistant chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel."
+Subsec. (c). Pub. L. 114–328, §502(nn)(1)(C), struck out subsec. (c). Text read as follows: "The Surgeon General shall appoint the assistant chief from the officers of theRegular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel."
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–314 substituted "major general" for "brigadier general" in second sentence.
 

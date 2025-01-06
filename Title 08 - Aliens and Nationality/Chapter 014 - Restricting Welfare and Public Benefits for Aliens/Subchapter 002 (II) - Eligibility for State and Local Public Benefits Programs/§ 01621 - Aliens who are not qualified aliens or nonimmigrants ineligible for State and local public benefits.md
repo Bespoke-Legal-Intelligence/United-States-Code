@@ -20,7 +20,7 @@ Subsection (a) shall not apply with respect to the following State or local publ
 
 &emsp;(2) Short-term, non-cash, in-kind emergency disaster relief.
 
-&emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+&emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms ofcommunicable diseases whether or not such symptoms are caused by a communicable disease.
 
 &emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
@@ -44,7 +44,7 @@ Subsection (a) shall not apply with respect to the following State or local publ
 
 #### (d) State authority to provide for eligibility of illegal aliens for State and local public benefits
 
-A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of aState law after August 22, 1996, which affirmatively provides for such eligibility.
+A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
 (Pub. L. 104–193, title IV, §411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642; Pub. L. 105–306, §5(b), Oct. 28, 1998, 112 Stat. 2927.)
 

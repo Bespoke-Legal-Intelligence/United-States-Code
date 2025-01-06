@@ -104,7 +104,7 @@ Lodging Expenses.—A dependent or former dependent entitled to payment of month
 
 (l)
 
-Exceptional Eligibility for Dependents of Members or Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (m), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section andthe member or former member was separated from active duty other than as described in subsection (b).
+Exceptional Eligibility for Dependents of Members or Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (m), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section and the member or former member was separated from active duty other than as described in subsection (b).
 
 (2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the member or former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (m), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
 
@@ -134,7 +134,7 @@ Dependent Child Defined.—In this section, the term "dependent child", with res
 
 &emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, §531(l), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 116–92, div. A, title VI, §621, Dec. 20, 2019, 133 Stat. 1426; Pub. L. 117–81, div. A, title V, §549(a), Dec. 27, 2021, 135 Stat. 1715; Pub. L. 118–31, div. A, title VI, §§631, 632, Dec. 22, 2023, 137 Stat. 296, 297.)
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered§1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, §531(l), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 116–92, div. A, title VI, §621, Dec. 20, 2019, 133 Stat. 1426; Pub. L. 117–81, div. A, title V, §549(a), Dec. 27, 2021, 135 Stat. 1715; Pub. L. 118–31, div. A, title VI, §§631, 632, Dec. 22, 2023, 137 Stat. 296.)
 
 #### <b>Editorial Notes</b>
 
@@ -164,7 +164,7 @@ Subsec. (m)(4). Pub. L. 118–31, §631(d), amended par. (4) generally. Prior to
 
 "(A) Except as provided in subparagraph (B), the authority of the Secretary concerned under paragraph (1) may not be delegated.
 
-"(B) During the two year period following the date of the enactment of the National Defense AuthorizationAct for Fiscal Year 2022, the authority of the Secretary concerned under paragraph (1) may be delegated to an official at the Assistant Secretary-level or above. Any exercise of such delegated authority shall be reported to the Secretary concerned on a quarterly basis."
+"(B) During the two year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the authority of the Secretary concerned under paragraph (1) may be delegated to an official at the Assistant Secretary-level or above. Any exercise of such delegated authority shall be reported to the Secretary concerned on a quarterly basis."
 
 Subsec. (n). Pub. L. 118–31, §632(2), redesignated subsec. (l) as (n).
 
@@ -200,7 +200,7 @@ Subsec. (m). Pub. L. 108–136, §573(a), added subsec. (m).
 
 <b>2002</b>—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)" after "such compensation shall" and inserted before period at end ", including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)" after "such compensation shall" and inserted before period at end ", including an amount (determined undersubsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
 
 Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted "is or, but for subsection (g), would be eligible" for "(but for subsection (g)) would be eligible" and "compensation under this section shall" for "such compensation shall".
 

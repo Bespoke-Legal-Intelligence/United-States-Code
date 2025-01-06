@@ -1,0 +1,14 @@
+### §10608. Annual report
+
+Not later than 360 days after December 23, 2024, and annually thereafter while the Foundation continues to operate, the Executive Director of the Foundation shall submit a report to the appropriate congressional committees that describes—
+
+&emsp;(1) the goals of the Foundation;
+
+&emsp;(2) the programs, projects, and activities supported by the Foundation;
+
+&emsp;(3) private and governmental contributions to the Foundation; and
+
+&emsp;(4) the standardized criteria utilized to determine the programs and activities supported by the Foundation, including baselines, targets, desired outcomes, measurable goals, and extent to which those goals are being achieved for each project.
+
+(Pub. L. 118–159, div. E, title LI, §5108, Dec. 23, 2024, 138 Stat. 2421.)
+

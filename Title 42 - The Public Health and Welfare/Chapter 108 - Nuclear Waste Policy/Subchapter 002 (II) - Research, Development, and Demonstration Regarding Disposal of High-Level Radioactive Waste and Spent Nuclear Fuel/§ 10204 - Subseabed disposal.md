@@ -10,7 +10,7 @@
 
 (3) In carrying out his responsibilities under this chapter, the Secretary may make grants to, or enter into contracts with, the Subseabed Consortium described in subsection (d) of this section, and other persons.
 
-(4)(A) Within 60 days of December 22, 1987, the Secretary shall establish a university-based Subseabed Consortium involving leading oceanographic universities and institutions, national laboratories, and other organizations to investigate the technical and institutional feasibility of subseabed disposal.
+(4)(A) Within 60 days of December 22, 1987, the Secretary shall establish a university-basedSubseabed Consortium involving leading oceanographic universities and institutions, national laboratories, and other organizations to investigate the technical and institutional feasibility of subseabed disposal.
 
 (B) The Subseabed Consortium shall develop a research plan and budget to achieve the following objectives by 1995:
 

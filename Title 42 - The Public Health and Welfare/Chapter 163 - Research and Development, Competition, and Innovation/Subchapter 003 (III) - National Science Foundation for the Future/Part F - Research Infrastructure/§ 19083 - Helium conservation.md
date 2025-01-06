@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall support, through the Major Research Instrumentation program, proposal requests that include the purchase, installation, operation, and maintenance of equipment and instrumentation to reduce consumption of helium.
+&emsp;The Director shall support, through the Major Research Instrumentation program,proposal requests that include the purchase, installation, operation, and maintenance of equipment and instrumentation to reduce consumption of helium.
 
 #### (2) Cost sharing
 

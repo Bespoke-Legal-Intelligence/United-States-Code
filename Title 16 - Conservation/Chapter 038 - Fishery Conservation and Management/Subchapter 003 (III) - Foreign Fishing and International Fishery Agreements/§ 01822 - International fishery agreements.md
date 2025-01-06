@@ -34,7 +34,7 @@ No international fishery agreement (other than a treaty) which pertains to forei
 
 #### (d) Boundary negotiations
 
-The Secretary of State, in cooperation with the Secretary, may initiate and conduct negotiations with any adjacent or opposite foreign nation to establish the boundaries of the exclusive economic zone of the United States in relation to any such nation.
+The Secretary of State, in cooperation with the Secretary, may initiate and conduct negotiations with any adjacent or opposite foreignnation to establish the boundaries of the exclusive economic zone of the United States in relation to any such nation.
 
 #### (e) Highly migratory species agreements
 
@@ -94,7 +94,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 &emsp;(D) each country shall have the right to place observers on board vessels of the other country and to board and inspect such vessels.
 
-(2) Vessels operating under a fishery agreement negotiated and concluded pursuant to paragraph (1) shall be subject to regulations and permit requirements of the country in whose waters the fisheries are conducted only to the extent such regulations and permit requirements are specified in that agreement.
+(2) Vessels operating under a fishery agreement negotiated and concluded pursuant to paragraph (1) shall be subject to regulations and permit requirements of the country in whose waters the fisheries are conducted only to theextent such regulations and permit requirements are specified in that agreement.
 
 (3) The Secretary of Commerce may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out the provisions of any fishery agreement negotiated and concluded pursuant to paragraph (1).
 
@@ -334,7 +334,7 @@ Secretary.—The term 'Secretary' means the Secretary of Commerce.
 
 Negotiations.—The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government's driftnet fishing vessels. Such agreements shall provide for—
 
-&emsp;"(1) the use of a sufficient number of vessels from which scientists of the United States and the foreigngovernments may observe and gather statistically reliable information; and
+&emsp;"(1) the use of a sufficient number of vessels from which scientists of the United States and the foreign governments may observe and gather statistically reliable information; and
 
 &emsp;"(2) appropriate methods for sharing equally the costs associated with such activities.
 

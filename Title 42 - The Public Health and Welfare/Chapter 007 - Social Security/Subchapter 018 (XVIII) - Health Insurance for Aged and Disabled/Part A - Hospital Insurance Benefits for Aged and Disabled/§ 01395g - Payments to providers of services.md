@@ -20,7 +20,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 (1) The Secretary shall provide payment under this part for inpatient hospital services furnished by a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title, and including a distinct psychiatric or rehabilitation unit of such a hospital) and a subsection (d) Puerto Rico hospital (as defined in section 1395ww(d)(9)(A) of this title) on a periodic interim payment basis (rather than on the basis of bills actually submitted) in the following cases:
 
-&emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection (c)(2) of such section and if the hospital meetsthe requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
+&emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection (c)(2) of such section and if the hospital meets the requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
 
 &emsp;(B) In the case of a hospital that—
 
@@ -96,9 +96,9 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;&emsp;&emsp;(II) during the succeeding 6 months, 50 percent of the amount of such payment for such items and services; and
 
-&emsp;&emsp;(iii) allow 29 months from the date of the first payment under such program to such provider before requiring that the outstanding balance be paid in full.
+&emsp;&emsp;(iii) allow 29 months from the date of the first payment under such program to suchprovider before requiring that the outstanding balance be paid in full.
 
-(3) Nothing in this subsection shall preclude the Secretary from carrying out the provisionsdescribed in clauses (i), (ii), and (iii) of paragraph (2)(B) and clauses (i) and (ii) of paragraph (2)(C) under the program under subsection (e)(3) after the period for which this subsection applies.
+(3) Nothing in this subsection shall preclude the Secretary from carrying out the provisions described in clauses (i), (ii), and (iii) of paragraph (2)(B) and clauses (i) and (ii) of paragraph (2)(C) under the program under subsection (e)(3) after the period for which this subsection applies.
 
 (4) Notwithstanding any other provision of law, the Secretary may implement the provisions of this subsection by program instruction or otherwise.
 
@@ -182,7 +182,7 @@ Pub. L. 95–142, §2(a)(4), Oct. 25, 1977, 91 Stat. 1176, provided that: "The a
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than 30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
+Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and afterthe first day of the first month which begins more than 30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
 
 #### Application to Other Part A Providers
 

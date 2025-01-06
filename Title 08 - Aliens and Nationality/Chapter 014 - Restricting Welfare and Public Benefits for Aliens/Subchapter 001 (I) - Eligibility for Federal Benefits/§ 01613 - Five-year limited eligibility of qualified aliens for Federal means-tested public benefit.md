@@ -30,9 +30,9 @@ The limitation under subsection (a) shall not apply to the following aliens:
 
 &emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) <sup>2</sup> who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
-#### (3) Exception for citizens of freely associated states
+#### (3) Exception for citizens of Freely Associated States
 
-&emsp;An individual described in section 1612(b)(2)(G) of this title, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title.
+&emsp;An individual described in section 1612(b)(2)(G) of this title.
 
 #### (c) Application of term Federal means-tested public benefit
 
@@ -54,7 +54,7 @@ The limitation under subsection (a) shall not apply to the following aliens:
 
 &emsp;(G) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (iii) are necessary for the protection of life or safety.
 
-&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq.,1134 et seq., 1135 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
+&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
 
 &emsp;(I) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, the limitations under section 1611(a
 
 &emsp;(2) an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716; Pub. L. 116–260, div. CC, title II, §208(b), Dec. 27, 2020, 134 Stat. 2985.)
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716; Pub. L. 116–260, div. CC, title II, §208(b), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, §209(f)(2), Mar. 9, 2024, 138 Stat. 445.)
 
 #### <b>Editorial Notes</b>
 
@@ -103,6 +103,8 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2)(K), 
 The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(3). Pub. L. 118–42 struck out ", but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title" before period at end.
 
 <b>2020</b>—Subsec. (b)(3). Pub. L. 116–260 added par. (3).
 

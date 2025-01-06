@@ -36,7 +36,7 @@ Any classified portions of the reports required by this chapter shall be submitt
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(1)(A) and (d), was in the original "this Act", meaning Pub. L. 95–242,Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(A) and (d), was in the original "this Act", meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 #### Codification
 

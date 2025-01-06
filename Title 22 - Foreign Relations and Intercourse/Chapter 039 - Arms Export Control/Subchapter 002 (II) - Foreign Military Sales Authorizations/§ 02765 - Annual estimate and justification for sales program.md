@@ -152,7 +152,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of the President under this section, with certain conditions, see section 1(g) ofEx. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under this section, with certain conditions, see section 1(g) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

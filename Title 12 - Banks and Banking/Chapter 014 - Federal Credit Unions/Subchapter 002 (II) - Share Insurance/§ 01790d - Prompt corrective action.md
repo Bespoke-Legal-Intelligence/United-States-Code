@@ -104,7 +104,7 @@
 
 #### (E) Critically undercapitalized
 
-&emsp;&emsp;An insured credit union is "critically undercapitalized" if it has a net worth ratioof less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
+&emsp;&emsp;An insured credit union is "critically undercapitalized" if it has a net worth ratio of less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
 
 #### (2) Adjusting net worth levels
 
@@ -288,7 +288,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;(A) $25,000,000; and
 
-&emsp;&emsp;(B) an amount equal to 10 percent of the total assets of the credit union on the dateon which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.
+&emsp;&emsp;(B) an amount equal to 10 percent of the total assets of the credit union on the date on which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.
 
 #### (3) Public disclosure required
 
@@ -322,7 +322,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;&emsp;&emsp;(I) an identification of any loss that warrants an in-depth review, and the reasons such review is warranted, or if the Inspector General determines that no review is warranted, an explanation of such determination; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for each loss identified in subclause (I) that warrants an in-depth review, the date by which such review, and a report on the review prepared in a manner consistent with reports under paragraph (1)(A), will be completed.
+&emsp;&emsp;&emsp;&emsp;(II) for each loss identified in subclause (I) that warrants an in-depth review, thedate by which such review, and a report on the review prepared in a manner consistent with reports under paragraph (1)(A), will be completed.
 
 #### (B) Deadline for semiannual report
 
@@ -414,7 +414,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) uninsured; and
 
-&emsp;&emsp;&emsp;(ii) subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund.
+&emsp;&emsp;&emsp;(ii) subordinate to all other claims against the credit union, including theclaims of creditors, shareholders, and the Fund.
 
 #### (3) Net worth ratio
 

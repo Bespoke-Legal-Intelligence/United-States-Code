@@ -18,7 +18,7 @@ If the officer or employee obtains any sample, prior to leaving the premises, he
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), (C), substituted "Commission is authorized" for "Secretary is authorized", "employees of the Commission" for "employees of the Department", "commissioned by the Commission" for "commissioned by the Secretary", and "officer of the Commission" for "officer of the Department".
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), (C), substituted "Commission is authorized" for "Secretary is authorized", "employees of the Commission" for "employees of the Department", "commissioned by theCommission" for "commissioned by the Secretary", and "officer of the Commission" for "officer of the Department".
 
 Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), substituted "Commission" for "Secretary".
 

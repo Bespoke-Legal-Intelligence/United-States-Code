@@ -22,7 +22,7 @@ Principal Duties.—(1) The Chief Housing Officer shall oversee all aspects of t
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
-"(1) The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consent of the Senate, a Chief Housing Officer who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as 'covered housing units').
+"(1) The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consentof the Senate, a Chief Housing Officer who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as 'covered housing units').
 
 "(2) The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b)."
 

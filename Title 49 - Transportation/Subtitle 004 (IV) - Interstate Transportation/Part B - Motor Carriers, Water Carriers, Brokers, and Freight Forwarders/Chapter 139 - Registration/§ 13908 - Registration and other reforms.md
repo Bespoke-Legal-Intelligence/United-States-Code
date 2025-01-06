@@ -100,7 +100,7 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 #### Regulations
 
-Pub. L. 110–53, title XV, §1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: "Not later than October 1, 2007,the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by section 13908 of title 49, United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code."
+Pub. L. 110–53, title XV, §1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: "Not later than October 1, 2007, the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by section 13908 of title 49, United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code."
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 

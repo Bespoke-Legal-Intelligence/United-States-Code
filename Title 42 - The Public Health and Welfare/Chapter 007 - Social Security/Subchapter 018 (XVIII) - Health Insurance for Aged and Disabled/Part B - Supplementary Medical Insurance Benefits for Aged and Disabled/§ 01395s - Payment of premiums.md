@@ -14,7 +14,7 @@
 
 #### (c) Portion of monthly premium in excess of deducted amount
 
-If an individual to whom subsection (a) or (b) applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay to the Secretary such portion of the monthly premiums for such period as he desires.
+If an individual to whom subsection (a) or (b) applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay tothe Secretary such portion of the monthly premiums for such period as he desires.
 
 #### (d) Deductions from civil service retirement annuities
 
@@ -48,7 +48,7 @@ In the case of an individual enrolled in a Medicare+Choice plan, the Secretary s
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out precedingsection 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (i), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
 

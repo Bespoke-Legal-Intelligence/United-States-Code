@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–186 inserted at end "If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offenseshall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater."
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–186 inserted at end "If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater."
 
 <b>2009</b>—Subsec. (f)(3). Pub. L. 111–21 added par. (3) and struck out former par. (3) which read as follows: "the term 'specified unlawful activity' has the meaning given that term in section 1956 of this title."
 

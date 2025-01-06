@@ -62,7 +62,7 @@ A procurement may not be made from a source on the basis of a preference provide
 
 (5) If the Administrator determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Administrator shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
 
-(6)(A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under section 657f–1 of this title) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under section 634(i) of this title). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+(6)(A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under section 657f–1 of thistitle) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under section 634(i) of this title). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
 
 (B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
 
@@ -210,7 +210,7 @@ Abolishment.—The Center for Verification and Evaluation of the Department of V
 
 &emsp;"(3)
 
-Transfer of functions.—Effective on the transfer date, all functions that, immediately beforethe transfer date, were functions of the Center for Verification and Evaluation shall be functions of the Small Business Administration.
+Transfer of functions.—Effective on the transfer date, all functions that, immediately before the transfer date, were functions of the Center for Verification and Evaluation shall be functions of the Small Business Administration.
 
 &emsp;"(4)
 
@@ -236,7 +236,7 @@ Proceedings not affected.—The provisions of this subsection shall not affect a
 
 &emsp;&emsp;"(C)
 
-Suits not affected.—The provisions of this subsection shall not affect suits commenced before the transfer date, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
+Suits not affected.—The provisions of this subsection shall not affect suits commenced beforethe transfer date, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
 
 &emsp;&emsp;"(D)
 

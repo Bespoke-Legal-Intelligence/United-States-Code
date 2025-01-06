@@ -94,7 +94,7 @@ Section was formerly classified to section 3796gg–6 of Title 42, The Public He
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–103, §103(1), inserted "When legal assistance to a dependent is necessary for the safety of a victim, such assistance may be provided." after "no cost to the victims."
 
-Subsec. (d)(1). Pub. L. 117–103, §103(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to any person providing legal assistance through a program funded under subsection (c) of this section.
+Subsec. (d)(1). Pub. L. 117–103, §103(2)(A), amended par. (1) generally. Prior to amendment, par. (1) relatedto any person providing legal assistance through a program funded under subsection (c) of this section.
 
 Subsec. (d)(2). Pub. L. 117–103, §103(2)(B), substituted "local, or culturally specific" for "or local".
 

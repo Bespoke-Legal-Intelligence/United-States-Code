@@ -34,7 +34,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;&emsp;(i) implement the waste treatment management requirements of section 1281(c) of this title,
 
-&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities within such area which may result in any discharge in such area, and
+&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities withinsuch area which may result in any discharge in such area, and
 
 &emsp;&emsp;(iii) assure that any industrial or commercial wastes discharged into any treatment works in such area meet applicable pretreatment requirements;
 
@@ -106,7 +106,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 #### (d) Conformity of works with area plan
 
-After a waste treatment management agency having the authority required by subsection (c)has been designated under such subsection for an area and a plan for such area has been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under section 1281(g)(1) of this title within such area except to such designated agency and for works in conformity with such plan.
+After a waste treatment management agency having the authority required by subsection (c) has been designated under such subsection for an area and a plan for such area has been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under section 1281(g)(1) of this title within such area except to such designated agency and for works in conformity with such plan.
 
 #### (e) Permits not to conflict with approved plans
 
@@ -128,7 +128,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (1) The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed <sup>1</sup> under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
-(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscal year for the fiscal years ending June 30, 1973, and June 30, 1974.
+(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscalyear for the fiscal years ending June 30, 1973, and June 30, 1974.
 
 #### (i) State best management practices program
 

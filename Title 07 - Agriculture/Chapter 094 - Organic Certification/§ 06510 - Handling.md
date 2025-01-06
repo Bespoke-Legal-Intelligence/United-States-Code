@@ -22,7 +22,7 @@ For a handling operation to be certified under this chapter, each person on such
 
 For a farm or handling operation to be organically certified under this chapter, producers on such farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.
 
-(Pub. L. 101–624, title XXI, §2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, §1001(3), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 106–387, §1(a) \[title VII, §748\], Oct. 28, 2000, 114 Stat. 1549, 1549A–41; Pub. L. 109–97, title VII, §797(a), Nov. 10, 2005, 119 Stat. 2165.)
+(Pub. L. 101–624, title XXI, §2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, §1001(3),Dec. 13, 1991, 105 Stat. 1893; Pub. L. 106–387, §1(a) \[title VII, §748\], Oct. 28, 2000, 114 Stat. 1549, 1549A–41; Pub. L. 109–97, title VII, §797(a), Nov. 10, 2005, 119 Stat. 2165.)
 
 #### <b>Editorial Notes</b>
 

@@ -72,7 +72,7 @@ The following activities shall be carried out under the horseracing anti-doping 
 
 #### (5) Anti-doping and medication control standing committee
 
-&emsp;The anti-doping and medication control standing committee shall, in consultation with the anti-doping and medication control enforcement agency, develop lists of permitted and prohibited medications, methods, and substances for recommendation to, and approval by, the Authority. Any such list may prohibitthe administration of any substance or method to a horse at any time after such horse becomes a covered horse if the Authority determines such substance or method has a long-term degrading effect on the soundness of a horse.
+&emsp;The anti-doping and medication control standing committee shall, in consultation with the anti-doping and medication control enforcement agency, develop lists of permitted and prohibited medications, methods, and substances for recommendation to, and approval by, the Authority. Any such list may prohibit the administration of any substance or method to a horse at any time after such horse becomes a covered horse if the Authority determines such substance or method has a long-term degrading effect on the soundness of a horse.
 
 #### (d) Prohibition
 
@@ -150,7 +150,7 @@ Except as provided in subsections (e) and (f), the horseracing anti-doping and m
 
 &emsp;&emsp;&emsp;(iii) The Association of Racing Commissioners International out-of-competition testing standards, Model Rules of Racing (version 9.2).
 
-&emsp;&emsp;&emsp;(iv) The Association of Racing Commissioners International penalty and multiplemedication violation rules, Model Rules of Racing (version 6.2).
+&emsp;&emsp;&emsp;(iv) The Association of Racing Commissioners International penalty and multiple medication violation rules, Model Rules of Racing (version 6.2).
 
 #### (B) Conflict of rules
 

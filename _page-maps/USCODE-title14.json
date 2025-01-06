@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title14",
- "package": "USCODE-2023-title14",
+ "package": "USCODE-2024-title14",
  "pieces": [
   {
    "id": "14_",
@@ -722,48 +722,44 @@
     ],
     [
      "L",
-     404,
+     398,
      "[Page 40]",
      true
     ],
     [
-     "I",
-     524,
-     [
-      [
-       107,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     512,
+     "[Page 41]",
+     true
     ],
     [
      "L",
-     632,
+     628,
      "[Page 42]",
      true
     ],
     [
      "L",
-     770,
+     762,
      "[Page 43]",
      true
     ],
     [
      "I",
-     912,
+     904,
      [
       [
-       146,
+       92,
        "[Page 44]"
       ]
      ]
     ],
     [
      "I",
-     990,
+     994,
      [
       [
-       722,
+       112,
        "[Page 45]"
       ]
      ]
@@ -788,10 +784,14 @@
    "id": "14_506",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 46]",
-     true
+     "I",
+     30,
+     [
+      [
+       86,
+       "[Page 46]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00506 - Prospective payment of funds necessary to provide medical care.md",
@@ -823,10 +823,10 @@
    "marks": [
     [
      "I",
-     50,
+     46,
      [
       [
-       97,
+       93,
        "[Page 47]"
       ]
      ]
@@ -842,14 +842,10 @@
    "id": "14_510",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       147,
-       "[Page 48]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 48]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 001 (I) - General Powers/§ 00510 - Conveyance of Coast Guard vessels for public purposes.md",
@@ -872,44 +868,40 @@
    "marks": [
     [
      "L",
-     26,
+     22,
      "[Page 49]",
      true
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       169,
+       "[Page 50]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00521 - Saving life and property.md",
    "printed_pages": [
     48,
-    49
+    50
    ]
   },
   {
    "id": "14_522",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 50]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     96,
-     [
-      [
-       102,
-       "[Page 51]"
-      ]
-     ]
+     "L",
+     82,
+     "[Page 51]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00522 - Law enforcement.md",
    "printed_pages": [
-    49,
+    50,
     51
    ]
   },
@@ -945,10 +937,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       334,
+       375,
        "[Page 52]"
       ]
      ]
@@ -964,10 +956,14 @@
    "id": "14_527",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 53]",
-     true
+     "I",
+     8,
+     [
+      [
+       94,
+       "[Page 53]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00527 - Safety of vessels of the Armed Forces.md",
@@ -978,26 +974,26 @@
   },
   {
    "id": "14_528",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00528 - Protecting against unmanned aircraft.md",
-   "printed_pages": [
-    53,
-    53
-   ]
-  },
-  {
-   "id": "14_-SUBTITLE_I-ch5-scIII",
    "marks": [
     [
      "L",
-     8,
+     48,
      "[Page 54]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/README.md",
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 002 (II) - Life Saving and Law Enforcement Authorities/§ 00528 - Protecting against unmanned aircraft.md",
    "printed_pages": [
     53,
+    54
+   ]
+  },
+  {
+   "id": "14_-SUBTITLE_I-ch5-scIII",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/README.md",
+   "printed_pages": [
+    54,
     54
    ]
   },
@@ -1005,10 +1001,14 @@
    "id": "14_541",
    "marks": [
     [
-     "L",
-     76,
-     "[Page 55]",
-     true
+     "I",
+     66,
+     [
+      [
+       96,
+       "[Page 55]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00541 - Aids to navigation authorized.md",
@@ -1021,10 +1021,14 @@
    "id": "14_542",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 56]",
-     true
+     "I",
+     24,
+     [
+      [
+       282,
+       "[Page 56]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00542 - Unauthorized aids to maritime navigation; penalty.md",
@@ -1056,10 +1060,10 @@
    "marks": [
     [
      "I",
-     18,
+     8,
      [
       [
-       112,
+       123,
        "[Page 57]"
       ]
      ]
@@ -1109,30 +1113,26 @@
   },
   {
    "id": "14_550",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 58]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00550 - Marking pierheads in certain lakes.md",
    "printed_pages": [
     57,
-    57
+    58
    ]
   },
   {
    "id": "14_548",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       269,
-       "[Page 58]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 003 (III) - Aids to Navigation/§ 00548 - 1 Marking anchorage grounds by Commandant of the Coast Guard.md",
    "printed_pages": [
-    57,
+    58,
     58
    ]
   },
@@ -1149,21 +1149,17 @@
    "id": "14_561",
    "marks": [
     [
-     "I",
-     98,
-     [
-      [
-       159,
-       "[Page 59]"
-      ]
-     ]
+     "L",
+     86,
+     "[Page 59]",
+     true
     ],
     [
      "I",
-     214,
+     206,
      [
       [
-       252,
+       149,
        "[Page 60]"
       ]
      ]
@@ -1179,10 +1175,14 @@
    "id": "14_562",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 61]",
-     true
+     "I",
+     22,
+     [
+      [
+       117,
+       "[Page 61]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 005 - Functions and Powers/Subchapter 004 (IV) - Miscellaneous/§ 00562 - Appeals and waivers.md",
@@ -1196,7 +1196,7 @@
    "marks": [
     [
      "L",
-     88,
+     80,
      "[Page 62]",
      true
     ]
@@ -1221,10 +1221,10 @@
    "marks": [
     [
      "I",
-     39,
+     37,
      [
       [
-       254,
+       93,
        "[Page 63]"
       ]
      ]
@@ -1247,30 +1247,26 @@
   },
   {
    "id": "14_702",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 64]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00702 - State Department.md",
    "printed_pages": [
     63,
-    63
+    64
    ]
   },
   {
    "id": "14_703",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       189,
-       "[Page 64]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00703 - Treasury Department.md",
    "printed_pages": [
-    63,
+    64,
     64
    ]
   },
@@ -1288,10 +1284,10 @@
    "marks": [
     [
      "I",
-     18,
+     16,
      [
       [
-       191,
+       138,
        "[Page 65]"
       ]
      ]
@@ -1317,10 +1313,10 @@
    "marks": [
     [
      "I",
-     10,
+     4,
      [
       [
-       100,
+       105,
        "[Page 66]"
       ]
      ]
@@ -1343,30 +1339,26 @@
   },
   {
    "id": "14_709",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 67]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00709 - Maritime instruction.md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
    "id": "14_710",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       77,
-       "[Page 67]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00710 - Assistance to foreign governments and maritime authorities.md",
    "printed_pages": [
-    66,
+    67,
     67
    ]
   },
@@ -1374,10 +1366,14 @@
    "id": "14_711",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 68]",
-     true
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 68]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00711 - Coast Guard officers as attachés to missions.md",
@@ -1408,10 +1404,14 @@
    "id": "14_714",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 69]",
-     true
+     "I",
+     10,
+     [
+      [
+       138,
+       "[Page 69]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00714 - Arctic maritime domain awareness.md",
@@ -1443,7 +1443,7 @@
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 70]",
      true
     ]
@@ -1467,14 +1467,10 @@
    "id": "14_719",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       267,
-       "[Page 71]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 71]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00719 - Research projects; transactions other than contracts and grants.md",
@@ -1487,20 +1483,20 @@
    "id": "14_720",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 72]",
-     true
-    ],
-    [
      "I",
-     106,
+     18,
      [
       [
-       173,
-       "[Page 73]"
+       116,
+       "[Page 72]"
       ]
      ]
+    ],
+    [
+     "L",
+     102,
+     "[Page 73]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 007 - Cooperation/§ 00720 - VHF communications services.md",
@@ -1523,10 +1519,10 @@
    "marks": [
     [
      "I",
-     58,
+     48,
      [
       [
-       94,
+       80,
        "[Page 74]"
       ]
      ]
@@ -1551,14 +1547,10 @@
    "id": "14_901",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       114,
-       "[Page 75]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 75]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00901 - Disposal of certain material.md",
@@ -1580,10 +1572,14 @@
    "id": "14_903",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 76]",
-     true
+     "I",
+     38,
+     [
+      [
+       113,
+       "[Page 76]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00903 - Use of certain appropriated funds.md",
@@ -1627,7 +1623,7 @@
      2,
      [
       [
-       859,
+       191,
        "[Page 77]"
       ]
      ]
@@ -1653,7 +1649,7 @@
    "marks": [
     [
      "L",
-     28,
+     18,
      "[Page 78]",
      true
     ]
@@ -1675,28 +1671,33 @@
   },
   {
    "id": "14_911",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       221,
+       "[Page 79]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00911 - Search and rescue center standards.md",
    "printed_pages": [
     78,
-    78
+    79
    ]
   },
   {
    "id": "14_912",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 79]",
-     true
-    ],
-    [
      "I",
-     94,
+     82,
      [
       [
-       110,
+       102,
        "[Page 80]"
       ]
      ]
@@ -1704,7 +1705,7 @@
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 001 (I) - Real and Personal Property/§ 00912 - Air facility closures.md",
    "printed_pages": [
-    78,
+    79,
     80
    ]
   },
@@ -1740,7 +1741,7 @@
    "marks": [
     [
      "L",
-     20,
+     4,
      "[Page 81]",
      true
     ]
@@ -1773,10 +1774,14 @@
    "id": "14_934",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 82]",
-     true
+     "I",
+     2,
+     [
+      [
+       1058,
+       "[Page 82]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00934 - Penalty for unauthorized use of words Coast Guard.md",
@@ -1799,10 +1804,10 @@
    "marks": [
     [
      "I",
-     28,
+     24,
      [
       [
-       226,
+       97,
        "[Page 83]"
       ]
      ]
@@ -1818,10 +1823,14 @@
    "id": "14_937",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 84]",
-     true
+     "I",
+     20,
+     [
+      [
+       337,
+       "[Page 84]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00937 - Admiralty claims against the United States.md",
@@ -1844,7 +1853,7 @@
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 85]",
      true
     ]
@@ -1869,7 +1878,7 @@
    "marks": [
     [
      "L",
-     26,
+     22,
      "[Page 86]",
      true
     ]
@@ -1909,30 +1918,26 @@
   },
   {
    "id": "14_945",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 87]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00945 - Assistance to film producers.md",
    "printed_pages": [
     86,
-    86
+    87
    ]
   },
   {
    "id": "14_946",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       93,
-       "[Page 87]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 009 - Administration/Subchapter 002 (II) - Miscellaneous/§ 00946 - User fees.md",
    "printed_pages": [
-    86,
+    87,
     87
    ]
   },
@@ -1941,10 +1946,10 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       87,
+       82,
        "[Page 88]"
       ]
      ]
@@ -1979,7 +1984,7 @@
    "marks": [
     [
      "L",
-     24,
+     22,
      "[Page 89]",
      true
     ]
@@ -2012,21 +2017,17 @@
    "id": "14_953",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       119,
-       "[Page 90]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 90]",
+     true
     ],
     [
      "I",
-     118,
+     112,
      [
       [
-       94,
+       127,
        "[Page 91]"
       ]
      ]
@@ -2055,7 +2056,7 @@
      61,
      [
       [
-       1932,
+       1498,
        "[Page 92]"
       ]
      ]
@@ -2080,10 +2081,14 @@
    "id": "14_1101",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 93]",
-     true
+     "I",
+     46,
+     [
+      [
+       94,
+       "[Page 93]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01101 - Acquisition directorate.md",
@@ -2096,10 +2101,14 @@
    "id": "14_1102",
    "marks": [
     [
-     "L",
-     112,
-     "[Page 94]",
-     true
+     "I",
+     106,
+     [
+      [
+       177,
+       "[Page 94]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01102 - Improvements in Coast Guard acquisition management.md",
@@ -2130,10 +2139,14 @@
    "id": "14_1105",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 95]",
-     true
+     "I",
+     26,
+     [
+      [
+       131,
+       "[Page 95]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01105 - Prohibition on use of lead systems integrators.md",
@@ -2147,7 +2160,7 @@
    "marks": [
     [
      "L",
-     62,
+     56,
      "[Page 96]",
      true
     ]
@@ -2169,36 +2182,33 @@
   },
   {
    "id": "14_1108",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 97]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01108 - Department of Defense consultation.md",
    "printed_pages": [
     96,
-    96
+    97
    ]
   },
   {
    "id": "14_1109",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       129,
-       "[Page 97]"
-      ]
-     ]
-    ],
-    [
      "L",
-     108,
+     102,
      "[Page 98]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 001 (I) - General Provisions/§ 01109 - Undefinitized contractual actions.md",
    "printed_pages": [
-    96,
+    97,
     98
    ]
   },
@@ -2234,10 +2244,10 @@
    "marks": [
     [
      "I",
-     32,
+     28,
      [
       [
-       205,
+       297,
        "[Page 99]"
       ]
      ]
@@ -2254,10 +2264,10 @@
    "marks": [
     [
      "I",
-     76,
+     70,
      [
       [
-       95,
+       268,
        "[Page 100]"
       ]
      ]
@@ -2273,14 +2283,18 @@
    "id": "14_1133",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 101]",
-     true
+     "I",
+     8,
+     [
+      [
+       95,
+       "[Page 101]"
+      ]
+     ]
     ],
     [
      "L",
-     80,
+     76,
      "[Page 102]",
      true
     ]
@@ -2295,10 +2309,14 @@
    "id": "14_1134",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 103]",
-     true
+     "I",
+     18,
+     [
+      [
+       94,
+       "[Page 103]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01134 - Acquisition, production, deployment, and support.md",
@@ -2320,10 +2338,14 @@
    "id": "14_1136",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 104]",
-     true
+     "I",
+     6,
+     [
+      [
+       285,
+       "[Page 104]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 002 (II) - Improved Acquisition Process and Procedures/§ 01136 - Acquisition approval authority.md",
@@ -2363,10 +2385,14 @@
    "id": "14_1152",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 105]",
-     true
+     "I",
+     4,
+     [
+      [
+       214,
+       "[Page 105]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 003 (III) - Procurement/§ 01152 - Advance procurement funding.md",
@@ -2397,14 +2423,10 @@
    "id": "14_1155",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       219,
-       "[Page 106]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 106]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 003 (III) - Procurement/§ 01155 - Contract termination.md",
@@ -2417,10 +2439,14 @@
    "id": "14_1156",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 107]",
-     true
+     "I",
+     50,
+     [
+      [
+       104,
+       "[Page 107]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Establishment, Powers, Duties, and Administration/Chapter 011 - Acquisitions/Subchapter 003 (III) - Procurement/§ 01156 - Limitation on unmanned aircraft systems.md",
@@ -6312,6 +6338,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2023-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2024-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 14 - Coast Guard"
 }

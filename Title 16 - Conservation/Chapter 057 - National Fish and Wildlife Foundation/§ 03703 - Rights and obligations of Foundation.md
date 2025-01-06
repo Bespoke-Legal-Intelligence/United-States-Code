@@ -86,7 +86,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(i) the conveyance or provision is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use; and
 
-&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision ofFederal funds within 60 calendar days after the date of the notification.
+&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision of Federal funds within 60 calendar days after the date of the notification.
 
 (4) All real property acquired by the Foundation in whole or in part with Federal funds and held by it shall be administered for the conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use.
 
@@ -118,7 +118,7 @@ This Act, referred to in subsec. (c)(2)(A), is Pub. L. 116–188, Oct. 30, 2020,
 
 <b>2020</b>—Subsec. (c). Pub. L. 116–188, §107(b)(1)(A), (B), (G), designated introductory provisions as par. (1), inserted heading, substituted "To carry out the purposes described in" for "To carry out its purposes under", redesignated former pars. (1) to (11) as subpars. (A) to (K), respectively, of par. (1), realigned margins, and struck out concluding provisions which read as follows: "For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation."
 
-Subsec. (c)(1)(D). Pub. L. 116–188, §107(b)(1)(C), substituted "at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation" for "that are insured by an agency or instrumentality of the United States".
+Subsec. (c)(1)(D). Pub. L. 116–188, §107(b)(1)(C), substituted "at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation"for "that are insured by an agency or instrumentality of the United States".
 
 Subsec. (c)(1)(E). Pub. L. 116–188, §107(b)(1)(D), substituted "subparagraph (C) or (D)" for "paragraph (3) or (4)".
 

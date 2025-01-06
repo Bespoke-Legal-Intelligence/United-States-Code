@@ -218,7 +218,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (3) Application of waiver procedures
 
-&emsp;With respect to an application for a waiver (or a waiver granted) under paragraph (1)(A) of this subsection, the provisions of subparagraphs (E), (F), and (G) of section 1395w–25(a)(2) of this title shall apply, except that clauses (i) and (ii) of such subparagraph (E) shall not apply in the case of a State that does not have a licensing process described in paragraph (2)(B)(i) in effect.
+&emsp;With respect to an application for a waiver (or a waiver granted) under paragraph (1)(A) ofthis subsection, the provisions of subparagraphs (E), (F), and (G) of section 1395w–25(a)(2) of this title shall apply, except that clauses (i) and (ii) of such subparagraph (E) shall not apply in the case of a State that does not have a licensing process described in paragraph (2)(B)(i) in effect.
 
 #### (4) References to certain provisions
 

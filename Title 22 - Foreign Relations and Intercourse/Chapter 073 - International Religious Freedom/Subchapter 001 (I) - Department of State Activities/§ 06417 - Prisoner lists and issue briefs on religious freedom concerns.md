@@ -28,7 +28,7 @@ The Secretary shall make available religious freedom issue briefs under subsecti
 
 #### Amendments
 
-<b>2016</b>—Subsec. (b). Pub. L. 114–281, §104(1), substituted "activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion," for "faith,".
+<b>2016</b>—Subsec. (b). Pub. L. 114–281, §104(1), substituted "activities, religious freedom advocacy, or efforts toprotect and advance the universally recognized right to the freedom of religion," for "faith,".
 
 Subsec. (c). Pub. L. 114–281, §104(2), substituted "make available" for ", as appropriate, provide".
 

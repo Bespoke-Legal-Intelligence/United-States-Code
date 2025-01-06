@@ -40,5 +40,5 @@ Section effective Mar. 31, 2007, see section 614(b)(3) of Pub. L. 109–295, set
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of this title and the Department of Homeland Security Reorganization Plan ofNovember 25, 2002, as modified, set out as a note under section 542 of this title.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of this title and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of this title.
 

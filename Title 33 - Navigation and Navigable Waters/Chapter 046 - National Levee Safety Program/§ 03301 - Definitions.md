@@ -50,7 +50,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;The term "levee" means a manmade barrier (such as an embankment, floodwall, or other structure)—
 
-&emsp;&emsp;&emsp;(i) the primary purpose of which is to provide hurricane, storm, or flood protection relating to seasonal high water, storm surges, precipitation, or other weather events; and
+&emsp;&emsp;&emsp;(i) the primary purpose of which is to provide hurricane, storm, or flood protection relating to seasonal high water, stormsurges, precipitation, or other weather events; and
 
 &emsp;&emsp;&emsp;(ii) that is normally subject to water loading for only a few days or weeks during a calendar year.
 
@@ -168,7 +168,7 @@ In this chapter, the following definitions apply:
 
 #### Amendments
 
-<b>2022</b>—Par. (13). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, inserted ", increase resiliency to extreme weather events," after "flood risk", and added subpar. (B).
+<b>2022</b>—Par. (13). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, inserted", increase resiliency to extreme weather events," after "flood risk", and added subpar. (B).
 
 <b>2016</b>—Par. (11). Pub. L. 114–322, §1130(a)(1), substituted "State, regional district, or Indian tribe" for "State or Indian tribe".
 

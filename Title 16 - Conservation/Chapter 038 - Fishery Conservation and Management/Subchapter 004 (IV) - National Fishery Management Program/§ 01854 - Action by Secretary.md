@@ -66,7 +66,7 @@
 
 &emsp;(B) publish in the Federal Register a notice stating that the plan or amendment is available and that written information, views, or comments of interested persons on the plan or amendment may be submitted to the Secretary during the 60-day period beginning on the date the notice is published.
 
-(5) Whenever a plan or amendment is submitted under paragraph (4)(A), the appropriate Council must submit its comments and recommendations, if any, regarding the plan or amendment to the Secretary before the close of the 60-day period referred to in paragraph (4)(B). After the close of such 60-day period, the Secretary, after taking into account any such comments and recommendations, as well as any views, information, or comments submitted under paragraph (4)(B), may adopt such plan or amendment.
+(5) Whenever a plan or amendment is submitted under paragraph (4)(A), the appropriate Council must submit its comments and recommendations, if any, regarding the plan or amendment to the Secretary before the close of the 60-day period referred to in paragraph (4)(B). After the close of such 60-day period, the Secretary, after taking into account any such comments and recommendations, as well as anyviews, information, or comments submitted under paragraph (4)(B), may adopt such plan or amendment.
 
 (6) The Secretary may propose regulations in the Federal Register to implement any plan or amendment prepared by the Secretary. In the case of a plan or amendment to which paragraph (4)(A) applies, such regulations shall be submitted to the Council with such plan or amendment. The comment period on proposed regulations shall be 60 days, except that the Secretary may shorten the comment period on minor revisions to existing regulations.
 
@@ -90,7 +90,7 @@
 
 #### (e) Rebuilding overfished fisheries
 
-(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area ofauthority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
+(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
 
 (2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
@@ -112,7 +112,7 @@
 
 &emsp;(C) for fisheries managed under an international agreement, reflect traditional participation in the fishery, relative to other nations, by fishermen of the United States.
 
-(5) If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c).
+(5) If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulationsto stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c).
 
 (6) During the development of a fishery management plan, a plan amendment, or proposed regulations required by this subsection, the Council may request the Secretary to implement interim measures to reduce overfishing under section 1855(c) of this title until such measures can be replaced by such plan, amendment, or regulations. Such measures, if otherwise in compliance with the provisions of this chapter, may be implemented even though they are not sufficient by themselves to stop overfishing of a fishery.
 
@@ -140,7 +140,7 @@
 
 &emsp;The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3) of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
 
-&emsp;&emsp;(A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining tohighly migratory species, and the advisory panel established under section 1852(g) of this title;
+&emsp;&emsp;(A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species, and the advisory panel established under section 1852(g) of this title;
 
 &emsp;&emsp;(B) establish an advisory panel under section 1852(g) of this title for each fishery management plan to be prepared under this paragraph;
 
@@ -268,7 +268,7 @@ Subsec. (e). Pub. L. 104–297, §109(e), amended heading and text of subsec. (e
 
 Subsec. (f)(3). Pub. L. 104–297, §109(f), struck out par. (3) which related to authority of Secretary over any highly migratory species fishery that is within the area of authority of more than one of certain Councils and to the preparation and amendment of fishery management plans with respect to such fishery.
 
-Subsec. (g). Pub. L. 104–297, §109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of theGulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
+Subsec. (g). Pub. L. 104–297, §109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of the Gulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
 
 Subsec. (h). Pub. L. 104–297, §109(i), added subsec. (h).
 
@@ -416,7 +416,7 @@ Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended 
 
 #### Interim Management of Highly Migratory Species Fisheries
 
-Pub. L. 101–627, title I, §108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding the amendments made by subsections (a) and (g) \[amending section 1852 of this title\], any fishery management plan or amendment which—
+Pub. L. 101–627, title I, §108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding the amendments made by subsections (a) and (g) \[amending section 1852 of this title\], any fishery management plan or amendment which—
 
 &emsp;"(1) addresses a highly migratory species fishery to which section 304(f)(3) of the Magnuson-Stevens Fishery Conservation and Management Act \[former 16 U.S.C. 1854(f)(3)\] (as amended by this Act) applies,
 

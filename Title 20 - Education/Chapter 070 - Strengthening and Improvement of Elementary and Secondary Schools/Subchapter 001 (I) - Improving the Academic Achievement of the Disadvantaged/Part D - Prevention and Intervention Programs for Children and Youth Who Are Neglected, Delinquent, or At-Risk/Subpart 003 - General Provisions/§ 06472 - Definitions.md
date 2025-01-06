@@ -8,7 +8,7 @@ In this part:
 
 #### (2) At-risk
 
-&emsp;The term "at-risk", when used with respect to a child, youth, or student, means a schoolaged individual who is at-risk of academic failure, dependency adjudication, or delinquency adjudication, has a drug or alcohol problem, is pregnant or is a parent, has come into contact with the juvenile justice system or child welfare system in the past, is at least 1 year behind the expected grade level for the age of the individual, is an English learner, is a gang member, has dropped out of school in the past, or has a high absenteeism rate at school.
+&emsp;The term "at-risk", when used with respect to a child, youth, or student, means a school aged individual who is at-risk of academic failure, dependency adjudication, or delinquency adjudication, has a drug or alcohol problem, is pregnant or is a parent, has come into contact with the juvenile justice system or child welfare system in the past, is at least 1 year behind the expected grade level for the age of the individual, is an English learner, is a gang member, has dropped out of school in the past, or has a high absenteeism rate at school.
 
 #### (3) Community day program
 

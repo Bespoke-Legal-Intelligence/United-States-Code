@@ -42,7 +42,7 @@ In general.—Funds for a special incentive for workforce development required u
 
 &emsp;&emsp;(A) on or after the date on which the service acquisition executive of the Navy receives a written commitment from one or more entities described in paragraph (2) of separate and distinct cumulative monetary contributions to be made on or after the date of such commitment for workforce development; and
 
-&emsp;&emsp;(B) in an amount that is equal to the aggregate amount of all monetary contributions from entities that made commitments under subparagraph (A) not to exceed the amount of funding made available for the special incentive under subsection (a)(2).
+&emsp;&emsp;(B) in an amount that is equal to the aggregate amount of all monetary contributions from entities that made commitments under subparagraph (A) not to exceed theamount of funding made available for the special incentive under subsection (a)(2).
 
 &emsp;(2)
 

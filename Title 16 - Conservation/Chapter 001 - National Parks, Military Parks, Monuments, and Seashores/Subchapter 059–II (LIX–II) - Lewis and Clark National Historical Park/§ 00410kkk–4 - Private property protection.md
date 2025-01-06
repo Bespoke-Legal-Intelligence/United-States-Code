@@ -14,7 +14,7 @@ Designation of the park shall not be considered to create any liability, or to h
 
 #### (c) Recognition of authority to control land use
 
-Nothing in this subchapter shall be construed to modify any authority of Federal, State, or local governments to regulate the use of private land within the boundary of the park.
+Nothing in this subchapter shall be construed to modify any authority of Federal, State, orlocal governments to regulate the use of private land within the boundary of the park.
 
 (Pub. L. 108–387, title I, §106, Oct. 30, 2004, 118 Stat. 2236.)
 

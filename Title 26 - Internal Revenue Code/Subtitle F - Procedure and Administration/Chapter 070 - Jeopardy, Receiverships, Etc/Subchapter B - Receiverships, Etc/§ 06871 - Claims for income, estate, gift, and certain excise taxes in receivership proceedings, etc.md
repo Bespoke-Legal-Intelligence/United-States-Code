@@ -18,7 +18,7 @@ Any deficiency (together with all interest, additional amounts, and additions to
 
 In the case of a tax imposed by subtitle A or B or by chapter 41, 42, 43, or 44—
 
-&emsp;(1) claims for the deficiency and for interest, additional amounts, and additions to the tax may be presented, for adjudication in accordance with law, to the court before which the receivership proceeding (or the case under title 11 of the United States Code) is pending, despite the pendency of proceedings for the redetermination of the deficiency pursuant to a petition to the Tax Court; but
+&emsp;(1) claims for the deficiency and for interest, additional amounts, and additions to the tax may be presented, for adjudication in accordance with law, to the court before which thereceivership proceeding (or the case under title 11 of the United States Code) is pending, despite the pendency of proceedings for the redetermination of the deficiency pursuant to a petition to the Tax Court; but
 
 &emsp;(2) in the case of a receivership proceeding, no petition for any such redetermination shall be filed with the Tax Court after the appointment of the receiver.
 

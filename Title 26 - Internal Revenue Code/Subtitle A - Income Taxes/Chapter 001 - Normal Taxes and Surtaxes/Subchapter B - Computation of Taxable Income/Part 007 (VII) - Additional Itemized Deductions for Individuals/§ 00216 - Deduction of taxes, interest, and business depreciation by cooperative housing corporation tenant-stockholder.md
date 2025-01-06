@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) In any case where a person other than an individual acquires stock of a cooperative housing corporation.
 
-&emsp;&emsp;(C) In any case where the original seller acquires any stock of the cooperative housing corporation from the corporation not later than 1 year after the date on which the apartments or houses (or leaseholds therein) are transferred by the original seller to the corporation.
+&emsp;&emsp;(C) In any case where the original seller acquires any stock of the cooperative housing corporation from the corporation notlater than 1 year after the date on which the apartments or houses (or leaseholds therein) are transferred by the original seller to the corporation.
 
 #### (6) Original seller defined
 
@@ -100,7 +100,7 @@ No deduction shall be allowed to a stockholder in a cooperative housing corporat
 
 #### (e) Distributions by cooperative housing corporations
 
-Except as provided in regulations no gain or loss shall be recognized on the distribution by acooperative housing corporation of a dwelling unit to a stockholder in such corporation if such distribution is in exchange for the stockholder's stock in such corporation and such dwelling unit is used as his principal residence (within the meaning of section 121).
+Except as provided in regulations no gain or loss shall be recognized on the distribution by a cooperative housing corporation of a dwelling unit to a stockholder in such corporation if such distribution is in exchange for the stockholder's stock in such corporation and such dwelling unit is used as his principal residence (within the meaning of section 121).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 71; Pub. L. 87–834, §28(a), Oct. 16, 1962, 76 Stat. 1068; Pub. L. 91–172, title IX, §913(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2101(b), (f)(1), Oct. 4, 1976, 90 Stat. 1834, 1899; Pub. L. 95–600, title V, §531(a), Nov. 6, 1978, 92 Stat. 2886; Pub. L. 96–222, title I, §105(a)(6), Apr. 1, 1980, 94 Stat. 219; Pub. L. 99–514, title VI, §644(a)–(d), Oct. 22, 1986, 100 Stat. 2285, 2286; Pub. L. 100–647, title VI, §6282(a), Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §11702(i), Nov. 5, 1990, 104 Stat. 1388–516; Pub. L. 105–34, title III, §312(d)(4), Aug. 5, 1997, 111 Stat. 840; Pub. L. 110–142, §4(a), Dec. 20, 2007, 121 Stat. 1804.)
 

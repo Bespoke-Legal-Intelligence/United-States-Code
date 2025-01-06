@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 110–289, §1105(a)(3), inserted "to conduct examinations 
 
 Subsecs. (d) to (f). Pub. L. 110–289, §1105(a)(4), (5), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–289, §1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to section 4641 of this title, was executed by making the amendment in subsec. (g), to reflect the probable intentof Congress and the redesignation of subsec. (f) as (g) by Pub. L. 110–289, §1105(a)(4). See below.
+Subsec. (g). Pub. L. 110–289, §1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to section 4641 of this title, was executed by making the amendment in subsec. (g), to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by Pub. L. 110–289, §1105(a)(4). See below.
 
 Pub. L. 110–289, §1105(a)(4), redesignated subsec. (f) as (g).
 

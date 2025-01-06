@@ -16,13 +16,13 @@ Veterans' Preference.—(1) In this subsection—
 
 &emsp;(B) "Vietnam-era veteran" means an individual who served on active duty (as defined in section 101 of title 38) in the armed forces for more than 180 consecutive days, any part of which occurred after August 4, 1964, and before May 8, 1975, and who was discharged or released from active duty in the armed forces under honorable conditions.
 
-&emsp;(C) "Afghanistan-Iraq war veteran" means an individual who served on active duty (as defined in section 101 of title 38) in the armed forces in support of Operation Enduring Freedom, Operation Iraqi Freedom, Operation New Dawn, Operation Inherent Resolve, OperationFreedom's Sentinel, or any successor contingency operation to such operations for more than 180 consecutive days, any part of which occurred after September 11, 2001, and before the date prescribed by presidential proclamation or by law as the last day of Operation Enduring Freedom, Operation Iraqi Freedom, Operation New Dawn, Operation Inherent Resolve, Operation Freedom's Sentinel, or any successor contingency operation to such operations (whichever is later), and who was discharged or released from active duty in the armed forces under honorable conditions.
+&emsp;(C) "Afghanistan-Iraq war veteran" means an individual who served on active duty (as defined in section 101 of title 38) in the armed forces in support of Operation Enduring Freedom, Operation Iraqi Freedom, Operation New Dawn, Operation Inherent Resolve, Operation Freedom's Sentinel, or any successor contingency operation to such operations for more than 180 consecutive days, any part of which occurred after September 11, 2001, and before the date prescribed by presidential proclamation or by law as the last day of Operation Enduring Freedom, Operation Iraqi Freedom, Operation New Dawn, Operation Inherent Resolve, Operation Freedom's Sentinel, or any successor contingency operation to such operations (whichever is later), and who was discharged or released from active duty in the armed forces under honorable conditions.
 
 &emsp;(D) "Persian Gulf veteran" means an individual who served on active duty in the armed forces in the Southwest Asia theater of operations during the Persian Gulf War for more than 180 consecutive days, any part of which occurred after August 2, 1990, and before the date prescribed by presidential proclamation or by law, and who was discharged or released from active duty in the armed forces under honorable conditions.
 
 (2) A contract involving labor for carrying out an airport development project under a grant agreement under this subchapter must require that preference in the employment of labor (except in executive, administrative, and supervisory positions) be given to Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)) owned and controlled by disabled veterans when they are available and qualified for the employment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1267; Pub. L. 107–217, §3(n)(8), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 112–95, title I, §139, Feb. 14, 2012, 126 Stat. 26; Pub. L. 115–254, div. B, title I, §135, Oct. 5, 2018, 132 Stat. 3209.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1267; Pub. L. 107–217, §3(n)(8), Aug. 21, 2002, 116 Stat.1303; Pub. L. 112–95, title I, §139, Feb. 14, 2012, 126 Stat. 26; Pub. L. 115–254, div. B, title I, §135, Oct. 5, 2018, 132 Stat. 3209.)
 
 Historical and Revision Notes
 
@@ -78,15 +78,7 @@ Subsec. (c)(2). Pub. L. 112–95, §139(2), substituted "Vietnam-era veterans, P
 
 #### Priority Review of Construction Projects in Cold Weather States
 
-Pub. L. 115–254, div. B, title I, §156(a), (b), Oct. 5, 2018, 132 Stat. 3217, 3218, provided that:
+Pub. L. 115–254, div. B, title I, §156(a), Oct. 5, 2018, 132 Stat. 3217, as amended by Pub. L. 118–63, title II, §218(n)(1), May 16, 2024, 138 Stat. 1057, provided that: "The Administrator of the Federal Aviation Administration, to the extent practicable, shall schedule the Administrator's review of construction projects so that projects to be carried out in the States in which the weather during a typical calendar year prevents major construction projects from being carried out before May 1 are reviewed as early as possible."
 
-"(a)
-
-In General.—The Administrator of the Federal Aviation Administration, to the extent practicable, shall schedule the Administrator's review of construction projects so that projects to be carried out in the States in which the weather during a typical calendar year prevents major construction projects from being carried out before May 1 are reviewed as early as possible.
-
-"(b)
-
-Briefing.—The Administrator shall provide a briefing to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] annually on the effectiveness of the review and prioritization."
-
-Pub. L. 112–95, title I, §154, Feb. 14, 2012, 126 Stat. 35, which provided that the Administrator of the Federal Aviation Administration review as early as possible construction projects in States in which the weather prevents major projects from being carried out before May 1, was repealed by Pub. L. 115–254, div. B, title I, §156(c), Oct. 5, 2018, 132 Stat. 3218.
+Pub. L. 112–95, title I, §154, Feb. 14, 2012, 126 Stat. 35, which provided that the Administrator of the Federal Aviation Administration review as early as possible construction projects in States in which the weather prevents major projects from being carried out before May 1, was repealed by Pub. L. 115–254, div. B, title I, §156(b), formerly §156(c), Oct. 5, 2018, 132 Stat. 3218; renumbered §156(b), Pub. L. 118–63, title II, §218(n)(2), May 16, 2024, 138 Stat. 1057.
 

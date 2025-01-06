@@ -16,7 +16,7 @@ Any sanction or other measure required under subchapter I, II, or III (or any am
 
 &emsp;&emsp;(B) detained in violation of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the "Korean War Armistice Agreement");
 
-&emsp;(5) accepting and beginning to abide by internationally recognized standards for thedistribution and monitoring of humanitarian aid; and
+&emsp;(5) accepting and beginning to abide by internationally recognized standards for the distribution and monitoring of humanitarian aid; and
 
 &emsp;(6) taking verified steps to improve living conditions in its political prison camps.
 

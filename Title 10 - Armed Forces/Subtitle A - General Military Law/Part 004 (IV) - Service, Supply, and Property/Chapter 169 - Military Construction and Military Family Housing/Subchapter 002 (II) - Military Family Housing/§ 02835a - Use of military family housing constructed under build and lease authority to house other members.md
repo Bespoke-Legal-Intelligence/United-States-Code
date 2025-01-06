@@ -10,7 +10,7 @@ Individual Assignment of Members Without Dependents.—(1) To the extent that th
 
 Conversion to Long-Term Leasing of Military Unaccompanied Housing.—(1) If the Secretary concerned determines that military family housing constructed and leased under section 2835 of this title is excess to the long-term needs of the family housing program of the Secretary, the Secretary may convert the lease contract entered into under subsection (a) of such section into a long-term lease of military unaccompanied housing.
 
-(2) The term of the lease contract for military unaccompanied housing converted from militaryfamily housing under paragraph (1) may not exceed the remaining term of the lease contract for the family housing so converted.
+(2) The term of the lease contract for military unaccompanied housing converted from military family housing under paragraph (1) may not exceed the remaining term of the lease contract for the family housing so converted.
 
 (c)
 

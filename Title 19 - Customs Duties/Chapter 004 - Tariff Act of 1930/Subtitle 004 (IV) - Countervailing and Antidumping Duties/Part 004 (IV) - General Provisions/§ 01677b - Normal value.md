@@ -64,7 +64,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;The price described in paragraph (1)(B) shall be—
 
-&emsp;&emsp;(A) increased by the cost of all containers and coverings and all other costs, charges,and expenses incident to placing the subject merchandise in condition packed ready for shipment to the United States;
+&emsp;&emsp;(A) increased by the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the subject merchandise in condition packed ready for shipment to the United States;
 
 &emsp;&emsp;(B) reduced by—
 
@@ -92,7 +92,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(ii) is demonstrated to affect price comparability, based on a pattern of consistent price differences between sales at different levels of trade in the country in which normal value is determined.
 
-> &emsp;&emsp;In a case described in the preceding sentence, the amount of the adjustment shall be based on the price differences between the two levels of trade in the country in which normal value is determined.
+> &emsp;&emsp;In a case described in the preceding sentence, the amount of the adjustment shall bebased on the price differences between the two levels of trade in the country in which normal value is determined.
 
 #### (B) Constructed export price offset
 
@@ -270,7 +270,7 @@ For purposes of subsections (b) and (e).— <sup>1</sup>
 
 #### (2) Transactions disregarded
 
-&emsp;A transaction directly or indirectly between affiliated persons may be disregarded if, in the case of any element of value required to be considered, the amount representing that element does not fairly reflect the amount usually reflected in sales of merchandise under consideration in the market under consideration. If a transaction is disregarded under the preceding sentence and no other transactions are available for consideration, the determination of the amount shall be based on the information available as to what the amount would have been if the transaction had occurred between persons who are not affiliated.
+&emsp;A transaction directly or indirectly between affiliated persons may be disregarded if, in the case of any element of value required to be considered, the amount representing that element does not fairly reflect the amount usually reflected in sales of merchandise under consideration in the market under consideration. If a transaction is disregarded under the preceding sentence and no other transactions are available for consideration, the determination of the amount shall be based on the information available as to what the amount wouldhave been if the transaction had occurred between persons who are not affiliated.
 
 #### (3) Major input rule
 
@@ -292,7 +292,7 @@ Subsec. (b)(2)(A). Pub. L. 114–27, §505(a), added subpar. (A) and struck out 
 
 Subsec. (c)(5). Pub. L. 114–27, §505(b), added par. (5).
 
-Subsec. (e). Pub. L. 114–27, §504(c)(2), in concluding provisions, substituted "For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials." for "For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remittedor refunded upon exportation of the subject merchandise produced from such materials."
+Subsec. (e). Pub. L. 114–27, §504(c)(2), in concluding provisions, substituted "For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials." for "For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials."
 
 Subsec. (e)(1). Pub. L. 114–27, §504(c)(1), substituted "trade" for "business".
 

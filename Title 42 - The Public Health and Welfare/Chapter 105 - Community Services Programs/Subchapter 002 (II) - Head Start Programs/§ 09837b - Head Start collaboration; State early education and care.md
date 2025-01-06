@@ -2,7 +2,7 @@
 
 (a)(1) From amounts made available under section 9835(a)(2)(B)(vi) of this title, the Secretary shall award the collaboration grants described in paragraphs (2), (3), and (4).
 
-(2)(A) The Secretary shall award, upon submission of a written request, a collaboration grant to each State and to each national administrative office serving Indian Head Start programsand migrant or seasonal Head Start programs to facilitate collaboration among Head Start agencies (including Early Head Start agencies) and entities that carry out activities designed to benefit low-income children from birth to school entry, and their families. The national administrative offices shall use the funds made available through the grants to carry out the authorities and responsibilities described in subparagraph (B) and paragraphs (3) and (4), as appropriate.
+(2)(A) The Secretary shall award, upon submission of a written request, a collaboration grant to each State and to each national administrative office serving Indian Head Start programs and migrant or seasonal Head Start programs to facilitate collaboration among Head Start agencies (including Early Head Start agencies) and entities that carry out activities designed to benefit low-income children from birth to school entry, and their families. The national administrative offices shall use the funds made available through the grants to carry out the authorities and responsibilities described in subparagraph (B) and paragraphs (3) and (4), as appropriate.
 
 (B) Grants described in subparagraph (A) shall be used to—
 
@@ -12,7 +12,7 @@
 
 &emsp;(iii) promote alignment of curricula used in Head Start programs and continuity of services with the Head Start Child Outcomes Framework and, as appropriate, State early learning standards;
 
-&emsp;(iv) promote better linkages between Head Start agencies and other child and family agencies, including agencies that provide health, mental health, or family services, or other child or family supportive services, such as services provided under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
+&emsp;(iv) promote better linkages between Head Start agencies and other child and family agencies, including agencies that provide health, mental health, or family services, or other child or family supportive services, suchas services provided under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.); and
 
 &emsp;(v) carry out the activities of the State Director of Head Start Collaboration authorized in paragraph (4).
 
@@ -50,7 +50,7 @@
 
 &emsp;(D) consult with the chief State school officer, local educational agencies, and providers of early childhood education and development, at both the State and local levels;
 
-&emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact onchild development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
+&emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact on child development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
 
 &emsp;(F) promote partnerships between Head Start agencies and other organizations in order to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
 

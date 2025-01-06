@@ -138,7 +138,7 @@ Noncontract authority authorization of appropriations.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
+In general.—There are authorized to be appropriated from the Highway TrustFund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -186,7 +186,7 @@ Availability.—Notwithstanding section 118(a), funds made available under subpa
 
 #### References in Text
 
-Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(4), is section 1036 of Pub. L. 102–240, title I, Dec. 18,1991, 105 Stat. 1978, which enacted section 309 of Title 49, Transportation, amended section 831 of Title 45, Railroads, and section 302 of Title 49, and enacted provisions set out as notes under section 831 of Title 45 and section 309 of Title 49.
+Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(4), is section 1036 of Pub. L. 102–240, title I, Dec. 18, 1991, 105 Stat. 1978, which enacted section 309 of Title 49, Transportation, amended section 831 of Title 45, Railroads, and section 302 of Title 49, and enacted provisions set out as notes under section 831 of Title 45 and section 309 of Title 49.
 
 The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 

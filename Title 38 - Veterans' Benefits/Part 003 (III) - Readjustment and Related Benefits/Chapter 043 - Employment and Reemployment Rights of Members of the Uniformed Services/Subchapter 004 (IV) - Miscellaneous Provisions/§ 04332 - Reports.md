@@ -26,7 +26,7 @@ Annual Report by Secretary.—The Secretary shall, after consultation with the A
 
 &emsp;(9) An indication of whether there are any apparent patterns of violation of the provisions of this chapter, together with an explanation thereof.
 
-&emsp;(10) Recommendations for administrative or legislative action that the Secretary, the Attorney General, or the Special Counsel considers necessary for the effective implementation of this chapter, including any action that could be taken to encourage mediation, beforeclaims are filed under this chapter, between employers and persons seeking employment or reemployment.
+&emsp;(10) Recommendations for administrative or legislative action that the Secretary, the Attorney General, or the Special Counsel considers necessary for the effective implementation of this chapter, including any action that could be taken to encourage mediation, before claims are filed under this chapter, between employers and persons seeking employment or reemployment.
 
 (b)
 

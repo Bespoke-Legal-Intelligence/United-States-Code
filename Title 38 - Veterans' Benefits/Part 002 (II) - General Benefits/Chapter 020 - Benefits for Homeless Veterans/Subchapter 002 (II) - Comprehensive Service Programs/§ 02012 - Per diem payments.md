@@ -26,13 +26,19 @@ Per Diem Payments for Furnishing Services to Homeless Veterans.—(1) Subject to
 
 &emsp;&emsp;(AA) is lower than the rate in effect under this paragraph as in effect immediately preceding the date of the enactment of the Navy SEAL Bill Mulder Act of 2020; or
 
-&emsp;&emsp;(BB) exceeds the rate that is 115 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section; and
+&emsp;&emsp;(BB) exceeds the rate that is 115 percent (or, during the period beginning on the date of the enactment of the Housing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027, 133 percent) of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section; and
 
 &emsp;(bb) may be determined on the basis of locality.
 
 (ii) In the case of services furnished to a homeless veteran who is placed in housing that will become permanent housing for the veteran upon termination of the furnishing of such services to such veteran, the maximum rate of per diem authorized under this section is 150 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section.
 
+(iii) For each of fiscal years 2025 through 2027, the Secretary may waive the maximum rate for per diem payments under clause (i)(II)(aa)(BB) or (ii) and, subject to the availability of appropriations, provide such payments at a rate that does not exceed 200 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section, if the Secretary notifies Congress of such waiver.
+
+(iv) The Secretary may not, pursuant to clause (iii), waive the maximum rate described in such clause for more than 50 percent of all grant recipients and eligible entities for a fiscal year.
+
 (3) In a case in which the Secretary has authorized the provision of services, per diem payments under paragraph (1) may be paid retroactively for services provided not more than three days before the authorization was provided.
+
+(4) The Secretary may not provide more than 12,000 per diem payments under this section for a fiscal year.
 
 (b)
 
@@ -42,7 +48,7 @@ Inspections.—The Secretary may inspect any facility of a grant recipient or en
 
 Life Safety Code.—(1) Except as provided in paragraph (2), a per diem payment may not be provided under this section to a grant recipient or eligible entity unless the facilities of the grant recipient or eligible entity, as the case may be, meet applicable fire and safety requirements under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
-(2) During the five-year period beginning on the date of the enactment of this section, paragraph (1) shall not apply to an entity that received a grant under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 (Public Law 102–590; 38 U.S.C. 7721 note) <sup>1</sup> before that date if the entity meets fire and safety requirements established by the Secretary.
+(2) During the five-year period beginning on the date of the enactment of this section, paragraph (1) shall not apply to an entity that received a grant under section 3 of the HomelessVeterans Comprehensive Service Programs Act of 1992 (Public Law 102–590; 38 U.S.C. 7721 note) <sup>1</sup> before that date if the entity meets fire and safety requirements established by the Secretary.
 
 (3) From amounts available for purposes of this section, not less than $5,000,000 shall be used only for grants to assist entities covered by paragraph (2) in meeting the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
@@ -86,7 +92,17 @@ Reimbursement of Entities for Certain Fees.—The Secretary may reimburse a reci
 
 &emsp;(2) if the Secretary determines that the grant or per diem payment recipient is unable to obtain information contained in such system through other means and at no cost to the grant or per diem payment recipient.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 908; amended Pub. L. 111–163, title VII, §701, May 5, 2010, 124 Stat. 1174; Pub. L. 114–315, title VII, §711, Dec. 16, 2016, 130 Stat. 1586; Pub. L. 116–315, title IV, §4204, Jan. 5, 2021, 134 Stat. 5013.)
+(f)
+
+Reports Required.—Not later than 90 days after the date of the enactment of the HOME Act of 2024, and not less frequently than twice each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the rate for per diem payments under this section that includes, for each Veterans Integrated Service Network of the Department, the following data:
+
+&emsp;(1) The average rate for such a payment.
+
+&emsp;(2) A list of locations where the rate for such a payment is within 10 percent of the maximum rate for such a payment authorized under this section.
+
+&emsp;(3) The average length of stay by a veteran participating in a program described in section 2012(a) of this title.
+
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 908; amended Pub. L. 111–163, title VII, §701, May 5, 2010, 124 Stat. 1174; Pub. L. 114–315, title VII, §711, Dec. 16, 2016, 130 Stat. 1586; Pub. L. 116–315, title IV, §4204, Jan. 5, 2021, 134 Stat. 5013; Pub. L. 118–210, title IV, §402(a), Jan. 2, 2025, 138 Stat. 2794.)
 
 #### <b>Editorial Notes</b>
 
@@ -94,9 +110,13 @@ Reimbursement of Entities for Certain Fees.—The Secretary may reimburse a reci
 
 The date of the enactment of the Navy SEAL Bill Mulder Act of 2020, referred to in subsec. (a)(2)(B)(i)(II)(aa)(AA), is the date of enactment of title IV of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
+The date of the enactment of the Housing our Military Veterans Effectively Act of 2024, referred to in subsec. (a)(2)(B)(i)(II)(aa)(BB), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
+
 The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 107–95, which was approved Dec. 21, 2001.
 
 Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is section 3 of Pub. L. 102–590, Nov. 10, 1992, 106 Stat. 5136, which was set out in a note under former section 7721 of this title, which note was repealed and restated in sections 2011 and 2012 of this title by Pub. L. 107–95, §5(a)(1), (e)(1), Dec. 21, 2001, 115 Stat. 906, 918. Section 7721 of this title was repealed by Pub. L. 109–233, title IV, §402(c), June 15, 2006, 120 Stat. 411.
+
+The date of the enactment of the HOME Act of 2024, referred to in subsec. (f), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
 
 #### Prior Provisions
 
@@ -105,6 +125,14 @@ A prior section 2012 was renumbered section 4212 of this title.
 Another prior section 2012 was renumbered section 4103 of this title.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(2)(B)(i)(II)(aa)(BB). Pub. L. 118–210, §402(a)(1)(A)(i), substituted "115 percent (or, during the period beginning on the date of the enactment of theHousing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027, 133 percent)" for "115 percent".
+
+Subsec. (a)(2)(B)(iii), (iv). Pub. L. 118–210, §402(a)(1)(A)(ii), added cls. (iii) and (iv).
+
+Subsec. (a)(4). Pub. L. 118–210, §402(a)(1)(B), added par. (4).
+
+Subsec. (f). Pub. L. 118–210, §402(a)(2), added subsec. (f).
 
 <b>2021</b>—Subsec. (a)(2). Pub. L. 116–315, §4204(a), amended par. (2) generally. Prior to amendment, text read as follows:
 
@@ -133,6 +161,12 @@ Subsec. (a)(2)(D). Pub. L. 114–315, §711(1), (3), redesignated subpar. (C) as
 Subsec. (a)(2)(E). Pub. L. 114–315, §711(1), (4), redesignated subpar. (D) as (E) and substituted "in subparagraphs (C) and (D)" for "in subparagraphs (B) and (C)".
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–163 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Regulatory Authority
+
+Pub. L. 118–210, title IV, §402(b), Jan. 2, 2025, 138 Stat. 2795, provided that: "The Secretary of Veterans Affairs may carry out the amendments made by subsection (a) \[amending this section\] through interim guidance in advance of the issuance of regulations for such purpose."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

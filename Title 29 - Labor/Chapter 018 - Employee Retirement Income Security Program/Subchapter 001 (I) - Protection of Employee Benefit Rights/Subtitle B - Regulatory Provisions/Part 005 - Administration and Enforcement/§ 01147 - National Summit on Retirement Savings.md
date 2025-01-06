@@ -34,7 +34,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
-&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
+&emsp;(8) to develop such specific and comprehensive recommendations for the legislative andexecutive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
 
 &emsp;(9) to develop recommendations for the coordination of Federal, State, and local retirement income savings initiatives among the Federal, State, and local levels of government and for the coordination of such initiatives.
 
@@ -136,7 +136,7 @@ The Secretary shall prepare a report describing the activities of the National S
 
 #### (h) "State" defined
 
-For purposes of this section, the term "State" means a State, the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+For purposes of this section, the term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 #### (i) Authorization of appropriations
 

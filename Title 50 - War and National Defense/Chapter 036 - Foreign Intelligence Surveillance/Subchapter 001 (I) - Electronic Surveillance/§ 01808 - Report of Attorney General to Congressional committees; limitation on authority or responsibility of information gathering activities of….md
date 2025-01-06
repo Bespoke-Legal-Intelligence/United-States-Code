@@ -12,7 +12,7 @@
 
 &emsp;(D) the total number of authorizations under section 1805(f) of this title and the total number of subsequent emergency employments of electronic surveillance under section 1805(e) of this title or emergency physical searches pursuant to section 301(e).<sup>1</sup>
 
-(b) On or before one year after October 25, 1978, and on the same day each year for four years thereafter, the Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence shall report respectively to the House of Representatives and the Senate, concerning the implementation of this chapter. Said reports shall include but not be limited to an analysis and recommendations concerning whether this chapter should be (1) amended, (2) repealed, or (3) permitted to continue in effect without amendment.
+(b) On or before one year after October 25, 1978, and on the same day each year for four years thereafter, the Permanent Select Committee onIntelligence and the Senate Select Committee on Intelligence shall report respectively to the House of Representatives and the Senate, concerning the implementation of this chapter. Said reports shall include but not be limited to an analysis and recommendations concerning whether this chapter should be (1) amended, (2) repealed, or (3) permitted to continue in effect without amendment.
 
 (Pub. L. 95–511, title I, §108, Oct. 25, 1978, 92 Stat. 1795; Pub. L. 106–567, title VI, §604(a), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 109–177, title I, §108(c), Mar. 9, 2006, 120 Stat. 204; Pub. L. 110–261, title I, §105(b), July 10, 2008, 122 Stat. 2462; Pub. L. 114–23, title VI, §605(a), title VII, §701(c), June 2, 2015, 129 Stat. 297, 299.)
 
@@ -22,7 +22,7 @@
 
 Section 301, referred to in subsec. (a)(2)(D), means section 301 of Pub. L. 95–511, which is classified to section 1821 of this title, relates to definitions for terms used in subchapter II of this chapter, and does not contain a subsec. (e). Section 304(e) of Pub. L. 95–511, which is classified to section 1824(e) of this title, relates to authorizations and orders for emergency physical searches.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, known as the Foreign Intelligence Surveillance Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

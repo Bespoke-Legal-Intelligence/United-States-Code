@@ -137,7 +137,7 @@
 | \[5591 to 5594. Repealed.\] |  |
 | [5595\.](Subchapter%20009%20%28IX%29%20-%20Severance%20Pay%20and%20Back%20Pay/%C2%A7%2005595%20-%20Severance%20pay.md) | Severance pay. |
 | [5596\.](Subchapter%20009%20%28IX%29%20-%20Severance%20Pay%20and%20Back%20Pay/%C2%A7%2005596%20-%20Back%20pay%20due%20to%20unjustified%20personnel%20action.md) | Back pay due to unjustified personnel action. |
-| [5597\.](Subchapter%20009%20%28IX%29%20-%20Severance%20Pay%20and%20Back%20Pay/%C2%A7%2005597%20-%20Separation%20pay.md) | Separation pay.<br> |
+| [5597\.](Subchapter%20009%20%28IX%29%20-%20Severance%20Pay%20and%20Back%20Pay/%C2%A7%2005597%20-%20Separation%20pay.md) | Separation pay. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 ### §7303. Reports and public hearings on proposed uses of amounts
 
-(a)(1) The chief executive officer of each State shall prepare for each fiscal year a report on the proposed use during the fiscal year of blockgrant amounts received by the State. The report shall include—
+(a)(1) The chief executive officer of each State shall prepare for each fiscal year a report on the proposed use during the fiscal year of block grant amounts received by the State. The report shall include—
 
 &emsp;(A) a statement of goals and objectives;
 

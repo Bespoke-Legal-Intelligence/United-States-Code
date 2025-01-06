@@ -60,7 +60,7 @@ Claims.—Any person, including a surviving member of the deceased person's imme
 
 &emsp;(4)
 
-Estoppel.—A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this section shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by a person or by the United States.
+Estoppel.—A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the UnitedStates under this section shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by a person or by the United States.
 
 (d)
 

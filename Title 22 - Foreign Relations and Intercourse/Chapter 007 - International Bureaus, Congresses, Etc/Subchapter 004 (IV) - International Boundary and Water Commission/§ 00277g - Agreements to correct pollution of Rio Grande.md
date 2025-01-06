@@ -12,7 +12,7 @@ Agreements concluded under subsection (a) should consist of recommendations to t
 
 &emsp;(2) estimates of the cost of plans, construction, operation, and maintenance of the facilities referred to in paragraph (1);
 
-&emsp;(3) formulas for the initial division between the United States and Mexico of the cost of plans, constructions, operation, and maintenance of the facilities referred to in paragraph (1);
+&emsp;(3) formulas for the initial division between the United States and Mexico of the cost ofplans, constructions, operation, and maintenance of the facilities referred to in paragraph (1);
 
 &emsp;(4) a method for review and adjustment of the formulas referred to in paragraph (3) at intervals of five years which recognizes that such initial formulas should not be used as a precedent in their subsequent review and adjustment; and
 

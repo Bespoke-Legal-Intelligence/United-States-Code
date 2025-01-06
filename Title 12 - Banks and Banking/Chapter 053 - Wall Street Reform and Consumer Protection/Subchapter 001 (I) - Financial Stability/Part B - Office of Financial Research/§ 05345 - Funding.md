@@ -8,7 +8,7 @@
 
 #### (2) Fund receipts
 
-&emsp;All amounts provided to the Office under subsection (c),<sup>1</sup> and all assessments that theOffice receives under subsection (d) shall be deposited into the Financial Research Fund.
+&emsp;All amounts provided to the Office under subsection (c),<sup>1</sup> and all assessments that the Office receives under subsection (d) shall be deposited into the Financial Research Fund.
 
 #### (3) Investments authorized
 

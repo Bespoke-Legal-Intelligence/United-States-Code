@@ -12,7 +12,7 @@ Requirement.—The regulations promulgated under this section shall require each
 
 Covered Contracts.—The regulations promulgated under this section shall apply to any contract entered into with the Department of Defense in an amount of $500,000 or more.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4470(a)(1), Oct. 23, 1992, 106 Stat. 2753, §2410d; renumbered §2410k and amended Pub. L. 103–35, title II, §§201(b)(1)(A), 202(a)(18)(A), May 31, 1993, 107 Stat. 97, 102; renumbered §4704, Pub. L. 116–283, div. A, title XVIII, §1863(b), Jan. 1, 2021, 134 Stat. 4278.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4470(a)(1), Oct. 23, 1992, 106 Stat. 2753, §2410d; renumbered §2410k and amended Pub. L. 103–35, title II, §§201(b)(1)(A), 202(a)(18)(A), May 31, 1993, 107 Stat. 97, 102; renumbered §4704, Pub. L.116–283, div. A, title XVIII, §1863(b), Jan. 1, 2021, 134 Stat. 4278.)
 
 #### <b>Editorial Notes</b>
 

@@ -66,6 +66,22 @@ Pub. L. 112–239, §1032(b), added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Reports and Briefings on Recommendations of the Congressional Commission on the Strategic Posture of the United States
+
+Pub. L. 118–159, div. A, title XVI, §1637(a), Dec. 23, 2024, 138 Stat. 2180, provided that:
+
+"(a)
+
+Statement of Policy.—It is the policy of the United States that—
+
+&emsp;"(1) the deterrence of strategic attacks, and in particular nuclear attacks, against the United States and its allies is the highest defense priority of the United States; and
+
+&emsp;"(2) the Secretary of Defense and the Secretary of Energy are provided with all necessary authorities and resources required to ensure the maintenance of a modern, effective strategic deterrent to meet the emerging suite of unprecedented strategic threats against the United States."
+
+#### Statement of Policy on Use of Artificial Intelligence Efforts
+
+Pub. L. 118–159, div. A, title XVI, §1638(b), Dec. 23, 2024, 138 Stat. 2181, provided that: "It is the policy of the United States that the use of artificial intelligence efforts should not compromise the integrity of nuclear safeguards, whether through the functionality of weapons systems, the validation of communications from command authorities, or the principle of requiring positive human actions in execution of decisions by the President with respect to the employment of nuclear weapons."
+
 #### Congressional Notification of Nuclear Cooperation Between Russia and China
 
 Pub. L. 118–31, div. A, title XVI, §1649, Dec. 22, 2023, 137 Stat. 601, provided that: "If the Commander of the United States Strategic Command determines, after consultation with the Director of the Defense Intelligence Agency, that militarily significant cooperation between the Russian Federation and the People's Republic of China related to nuclear or strategic capabilities is likely to occur or has likely occurred, the Commander shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notification of such determination that includes—
@@ -286,7 +302,7 @@ Submission.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(3)
 
-Waiver.—The Secretary may waive, on a case-by-case basis with respect to a weapons system, a program, or a system of systems, of a covered program, either the requirement to conduct an evaluation under paragraph (1) or the deadline specified insuch paragraph if the Secretary certifies to the congressional defense committees before such date that all known supply chain vulnerabilities of such weapons system, program, or system of systems have minimal consequences for the capability of such weapons system, program, or system of systems to meet operational requirements or otherwise satisfy mission requirements.
+Waiver.—The Secretary may waive, on a case-by-case basis with respect to a weapons system, a program, or a system of systems, of a covered program, either the requirement to conduct an evaluation under paragraph (1) or the deadline specified in such paragraph if the Secretary certifies to the congressional defense committees before such date that all known supply chain vulnerabilities of such weapons system, program, or system of systems have minimal consequences for the capability of such weapons system, program, or system of systems to meet operational requirements or otherwise satisfy mission requirements.
 
 &emsp;"(4)
 

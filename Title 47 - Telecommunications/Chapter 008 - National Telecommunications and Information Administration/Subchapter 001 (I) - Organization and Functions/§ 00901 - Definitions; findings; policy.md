@@ -238,7 +238,7 @@ Duties.—The steering committee shall advise the working group with respect to�
 
 &emsp;&emsp;"(C)
 
-Membership.—The Secretary shall appoint to the steering committee members representing a wide range of stakeholders outside of the FederalGovernment with expertise relating to the Internet of Things, including—
+Membership.—The Secretary shall appoint to the steering committee members representing a wide range of stakeholders outside of the Federal Government with expertise relating to the Internet of Things, including—
 
 &emsp;&emsp;&emsp;"(i) information and communications technology manufacturers, suppliers, service providers, and vendors;
 
@@ -498,7 +498,7 @@ Sec. 2. <i>Functions</i>. (a) The Committee shall provide to the President, thro
 
 Sec. 3.
 
-Administration. (a) The heads of Executive agencies shall, to the extent permitted by law, provide the Committee with information concerning NS/EP policy issues specific to cybersecurity, ICT, and telecommunications matters in order for it to carry out its functions and mission. Information supplied to the Committee shall not, to the extent permitted by law, be available for public inspection.
+Administration. (a) The heads of Executive agencies shall, to the extent permitted by law, provide the Committee with information concerning NS/EPpolicy issues specific to cybersecurity, ICT, and telecommunications matters in order for it to carry out its functions and mission. Information supplied to the Committee shall not, to the extent permitted by law, be available for public inspection.
 
 (b) Members of the Committee shall serve without any compensation for their work on the Committee. However, to the extent permitted by law, they shall be entitled to travel expenses, including per diem in lieu of subsistence.
 
@@ -588,7 +588,7 @@ Sec. 3. <i>National Spectrum Strategy</i>. By December 31, 2023, the Secretary o
 
 (a) a roadmap to make spectrum resources available to continue United States leadership in advanced wireless technologies and services, which shall provide a "pipeline" of spectrum bands to support commercial innovation and agencies' needs now and into the future by identifying at least 1500 megahertz for in-depth study to determine suitability for repurposing, which may include spectrum bands currently allocated for Federal operations, non-Federal operations, or shared Federal and non-Federal operations;
 
-(b) data-driven processes for long-term spectrum planning that increase transparency into current and future Federal and non-Federal spectrum use; anticipate and enable technological advances in order to facilitate spectrum access; and fully account for essential Federal missions, including national defense andhomeland security, safeguarding the national airspace, securing the Nation's critical infrastructure, climate monitoring and forecasting, and other scientific endeavors;
+(b) data-driven processes for long-term spectrum planning that increase transparency into current and future Federal and non-Federal spectrum use; anticipate and enable technological advances in order to facilitate spectrum access; and fully account for essential Federal missions, including national defense and homeland security, safeguarding the national airspace, securing the Nation's critical infrastructure, climate monitoring and forecasting, and other scientific endeavors;
 
 (c) plans to optimize United States spectrum management and use by considering different types of spectrum governance models, including exclusive licensing, unlicensed use, shared use, and combinations of these approaches;
 
@@ -624,7 +624,7 @@ Sec. 5. <i>Responsibilities of the Department of Commerce and NTIA</i>. The Secr
 
 (c) If a resolution is not reached, NTIA shall within 90 days submit, or the disputing agency or agencies may submit, the disagreement to the Assistant to the President for National Security Affairs and the Assistant to the President for Economic Policy, who shall, in consultation with the Director of the Office of Science and Technology Policy and the National Space Council, resolve the dispute through the interagency process described in National Security Memorandum 2 of February 4, 2021 (Renewing the National Security Council System), or the process described in any successor Presidential directive. The NTIA shall advise FCC on the executive branch position following adjudication and decision.
 
-Sec. 6. <i>Post-FCC Action Procedures</i>. Since agencies are directed to participate fully and actively in NTIA's development of positions on spectrum matters, disputes following FCC action should be rare. When FCC has acted to make spectrum available for non-Federal use and an agency believes that, for a reason unforeseen before FCC action, the new use is causing or potentially will cause harmful interference to existing Federal operations or non-Federal operations that are regulated by an agency, the following procedures shall be adhered to:
+Sec. 6. <i>Post-FCC Action Procedures</i>. Since agencies are directed to participate fully and actively in NTIA's development of positions on spectrum matters, disputes following FCC action should be rare. When FCC has acted to make spectrum available for non-Federal use and an agency believes that, for a reason unforeseen before FCC action, the new use is causing or potentiallywill cause harmful interference to existing Federal operations or non-Federal operations that are regulated by an agency, the following procedures shall be adhered to:
 
 (a) The complainant agency, no later than 45 days after learning of the unforeseen risk of harmful interference, shall formally request that NTIA address the matter with FCC for an appropriate remedy, and in that request shall:
 

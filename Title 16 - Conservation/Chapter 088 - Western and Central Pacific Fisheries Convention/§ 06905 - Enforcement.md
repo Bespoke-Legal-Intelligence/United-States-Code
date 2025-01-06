@@ -14,7 +14,7 @@ The Secretary may—
 
 &emsp;(3) conduct fishing operations and biological experiments for purposes of scientific investigation or other purposes necessary to implement the WCPFC Convention;
 
-&emsp;(4) collect, utilize, and disclose such information as may be necessary to implement theWCPFC Convention, subject to sections 552 and 552a of title 5 and section 402(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a(b));
+&emsp;(4) collect, utilize, and disclose such information as may be necessary to implement the WCPFC Convention, subject to sections 552 and 552a of title 5 and section 402(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a(b));
 
 &emsp;(5) if recommended by the United States Commissioners or proposed by a Council with authority over the relevant fishery, assess and collect fees, not to exceed three percent of the ex-vessel value of fish harvested by vessels of the United States in fisheries managed pursuant to this chapter, to recover the actual costs to the United States of management and enforcement under this chapter, which shall be deposited as an offsetting collection in, and credited to, the account providing appropriations to carry out the functions of the Secretary under this chapter; and
 

@@ -14,7 +14,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (d) Available authorities
 
-The authority in this part to provide assistance for the countries of the South Caucasus and Central Asia is in addition to the authority to provide such assistance under the FREEDOM Support Act (22 U.S.C. 5801 et seq.) or any other Act, and the authorities applicable to the provision of assistance under part XI of this subchapter may be used to provide assistance under this part.
+The authority in this part to provide assistance for the countries of the South Caucasusand Central Asia is in addition to the authority to provide such assistance under the FREEDOM Support Act (22 U.S.C. 5801 et seq.) or any other Act, and the authorities applicable to the provision of assistance under part XI of this subchapter may be used to provide assistance under this part.
 
 (Pub. L. 87–195, pt. I, §499E, as added Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–125.)
 

@@ -46,7 +46,7 @@ To secure consideration for an authorization under subsection (b), the Secretary
 
 #### (2) Report
 
-&emsp;Within a reasonable time after creating a building project survey under paragraph (1), the Secretary shall submit to Congress a report on the survey that includes the information required to be included in a prospectus under subsection (c).
+&emsp;Within a reasonable time after creating a building project survey under paragraph (1),the Secretary shall submit to Congress a report on the survey that includes the information required to be included in a prospectus under subsection (c).
 
 #### (e) Major renovation defined
 
@@ -76,7 +76,7 @@ Pub. L. 101–101, title I, §105, Sept. 29, 1989, 103 Stat. 649, provided that:
 
 #### Retention of Three Operational Aircraft; Notice of Intended Use Outside United States
 
-Pub. L. 100–202, §101(d) \[title I, §110\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–112, provided that: "The Chief of Engineers is directed to retain three operational aircraft authorized pursuant to section 101 of the Act of July 27, 1953, 67 Stat. 199 \[33 U.S.C. 576\], together with their attendant crews, and may only dispose of any of theseaircraft if authorized to do so by a future congressional enactment for that purpose. The Chief of Engineers shall provide at least thirty days advance written notification to the Appropriations Committees of the Senate and House of Representatives of any intended use of any of these aircraft for a trip destined outside the United States or its territories or possessions."
+Pub. L. 100–202, §101(d) \[title I, §110\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–112, provided that: "The Chief of Engineers is directed to retain three operational aircraft authorized pursuant to section 101 of the Act of July 27, 1953, 67 Stat. 199 \[33 U.S.C. 576\], together with their attendant crews, and may only dispose of any of these aircraft if authorized to do so by a future congressional enactment for that purpose. The Chief of Engineers shall provide at least thirty days advance written notification to the Appropriations Committees of the Senate and House of Representatives of any intended use of any of these aircraft for a trip destined outside the United States or its territories or possessions."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

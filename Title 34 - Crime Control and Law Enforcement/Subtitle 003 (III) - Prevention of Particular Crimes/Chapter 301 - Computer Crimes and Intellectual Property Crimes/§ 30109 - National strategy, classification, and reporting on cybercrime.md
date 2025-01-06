@@ -80,7 +80,7 @@ Pub. L. 117–116, May 5, 2022, 136 Stat. 1180, as amended by Pub. L. 117–347,
 
 &emsp;"(2) The United States lacks comprehensive cybercrime data and monitoring, leaving the country less prepared to combat cybercrime that threatens national and economic security.
 
-&emsp;"(3) In addition to existing cybercrime vulnerabilities, the people of the United States and the United States have faced a heightened risk of cybercrime during the COVID–19 pandemic.
+&emsp;"(3) In addition to existing cybercrime vulnerabilities, the people of the United States andthe United States have faced a heightened risk of cybercrime during the COVID–19 pandemic.
 
 &emsp;"(4) Subsection (c) of the Uniform Federal Crime Reporting Act of 1988 (34 U.S.C. 41303(c)) requires the Attorney General to 'acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports' and requires all Federal departments and agencies that investigate criminal activity to 'report details about crime within their respective jurisdiction to the Attorney General in a uniform matter and on a form prescribed by the Attorney General'.
 

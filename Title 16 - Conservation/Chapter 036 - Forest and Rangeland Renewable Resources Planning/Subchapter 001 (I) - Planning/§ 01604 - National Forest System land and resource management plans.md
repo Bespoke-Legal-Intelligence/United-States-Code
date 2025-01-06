@@ -22,7 +22,7 @@ The Secretary shall begin to incorporate the standards and guidelines required b
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law, the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
+&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law, the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of FederalRegulations (or a successor regulation)) with respect to—
 
 &emsp;&emsp;&emsp;(i) the listing of a species as threatened or endangered, or a designation of critical habitat pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), if a land management plan has been adopted by the Secretary as of the date of listing or designation; and
 
@@ -112,7 +112,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) cut blocks, patches, or strips are shaped and blended to the extent practicable with the natural terrain;
 
-&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceed the established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally wouldapprove the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
+&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceed the established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
 
 &emsp;&emsp;&emsp;(v) such cuts are carried out in a manner consistent with the protection of soil, watershed, fish, wildlife, recreation, and esthetic resources, and the regeneration of the timber resource.
 
@@ -126,7 +126,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
-Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
+Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable.Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
 
 #### (j) Effective date of land management plans and revisions
 
@@ -150,7 +150,7 @@ The Secretary shall establish—
 
 &emsp;(1) standards to insure that, prior to harvest, stands of trees throughout the National Forest System shall generally have reached the culmination of mean annual increment of growth (calculated on the basis of cubic measurement or other methods of calculation at the discretion of the Secretary): <i>Provided</i>, That these standards shall not preclude the use of sound silvicultural practices, such as thinning or other stand improvement measures: <i>Provided further</i>, That these standards shall not preclude the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow or other catastrophe, or which are in imminent danger from insect or disease attack; and
 
-&emsp;(2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been givento the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
+&emsp;(2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
 (Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L. 94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958; Pub. L. 115–141, div. O, title II, §208(a), (b)(2), Mar. 23, 2018, 132 Stat. 1065, 1066.)
 
@@ -182,9 +182,11 @@ Subsecs. (c) to (m). Pub. L. 94–588, §6, added subsecs. (c) to (m).
 
 #### Revision of Forest Plans
 
-Pub. L. 117–328, div. G, title IV, §407, Dec. 29, 2022, 136 Stat. 4821, provided that: "The Secretary of Agriculture shall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act \[of 1974\] (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
+Pub. L. 118–42, div. E, title IV, §407, Mar. 9, 2024, 138 Stat. 285, provided that: "The Secretary of Agricultureshall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act \[of 1974\] (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title IV, §407, Dec. 29, 2022, 136 Stat. 4821.
 
 Pub. L. 117–103, div. G, title IV, §407, Mar. 15, 2022, 136 Stat. 410.
 

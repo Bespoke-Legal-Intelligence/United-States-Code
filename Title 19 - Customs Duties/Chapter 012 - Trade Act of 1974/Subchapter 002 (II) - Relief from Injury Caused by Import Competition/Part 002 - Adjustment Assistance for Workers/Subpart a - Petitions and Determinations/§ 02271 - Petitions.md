@@ -12,7 +12,7 @@
 
 (2) Upon receipt of a petition filed under paragraph (1), the Governor shall—
 
-&emsp;(A) ensure that rapid response assistance and appropriate core and intensive services (asdescribed in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) <sup>1</sup> authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
+&emsp;(A) ensure that rapid response assistance and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 (29 U.S.C. 2864)) <sup>1</sup> authorized under other Federal laws are made available to the workers covered by the petition to the extent authorized under such laws; and
 
 &emsp;(B) assist the Secretary in the review of the petition by verifying such information and providing such other assistance as the Secretary may request.
 
@@ -188,7 +188,7 @@ Computation of maximum benefits.—Benefits received by a worker described in cl
 
 &emsp;"(2)
 
-Petitions filed before january 1, 2014.—A worker certified as eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or before December 31, 2013, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on December 31, 2013.
+Petitions filed before january 1, 2014.—A worker certified as eligible to apply for adjustmentassistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or before December 31, 2013, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on December 31, 2013.
 
 &emsp;"(3)
 

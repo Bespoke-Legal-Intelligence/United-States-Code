@@ -76,7 +76,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 &emsp;(F) to negotiate and grant licenses under patents held under the joint program, and to establish corporations designed to exploit particular patents obtained by it.
 
-(2) The Administrator may, after consultation with the Attorney General and the Chairman of the Federal Trade Commission, and with the prior written approval of the Attorney General, approve any agreement between small-business firms providing for a joint program of research and development, if the Administrator finds that the joint program proposed will maintain and strengthen the free enterprise system and the economy of the Nation. The Administrator or the Attorney General may at any time withdraw his approval of the agreement and the joint program of research and development covered thereby, if he finds that the agreement or the joint program carried on under it is no longer in the best interests of the competitive free enterprise system and the economy of the Nation. A copy of the statement of any such finding and approval intended to be within the coverage of this subsection, and a copy of any modification or withdrawal of approval, shall be published in the Federal Register. The authority conferred by this subsection on the Administrator shall not be delegated by him.
+(2) The Administrator may, after consultation with the Attorney General and the Chairman of the Federal Trade Commission, and with the prior written approval of the Attorney General, approve any agreement between small-business firms providing for a joint program of research and development, if the Administrator finds that the joint program proposed will maintain and strengthen the free enterprise system and the economy of the Nation. The Administrator or the Attorney General may at any time withdraw his approval of the agreement and the joint program of research and development covered thereby, if he finds that the agreement or the joint program carried on under it is no longer in the best interests of the competitive free enterprise system and the economy of the Nation. A copy of the statement of any such finding and approval intended to be within the coverage of this subsection, and a copy of any modification or withdrawal of approval, shall be published in the Federal Register. The authorityconferred by this subsection on the Administrator shall not be delegated by him.
 
 (3) No act or omission to act pursuant to and within the scope of any joint program for research and development, under an agreement approved by the Administrator under this subsection, shall be construed to be within the prohibitions of the antitrust laws or the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. Upon publication in the Federal Register of the notice of withdrawal of his approval of the agreement granted under this subsection, either by the Administrator or by the Attorney General, the provisions of this subsection shall not apply to any subsequent act or omission to act by reason of such agreement or approval.
 
@@ -202,7 +202,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
 
-&emsp;&emsp;(B) make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
+&emsp;&emsp;(B) make available for the purpose of meeting the requirements of paragraph (1)an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
 
 #### (3) Exclusion of certain funding agreements
 
@@ -566,7 +566,7 @@ In addition to the requirements of subsection (f), each Federal agency which has
 
 #### (3) Critical technology awards
 
-&emsp;An agency referred to in paragraph (1) shall include in its next annual report requiredunder subsection (g)(8), an accounting of the number of awards it has made to critical technology topics, as defined in subsection (g)(3), including an identification of the specific critical technologies topics, and the percentage by number and dollar amount of the agency's total SBIR awards to such critical technology topics.
+&emsp;An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8), an accounting of the number of awards it has made to critical technology topics, as defined in subsection (g)(3), including an identification of the specific critical technologies topics, and the percentage by number and dollar amount of the agency's total SBIR awards to such critical technology topics.
 
 #### (m) Termination
 
@@ -604,7 +604,7 @@ The authorization to carry out the Small Business Innovation Research Program es
 
 #### (3) Exclusion of certain funding agreements
 
-&emsp;Funding agreements with small business concerns for research or research and development which result from competitive or single source selections other than an STTR program shall not be considered to meet any portion of the percentage requirements of paragraph (1).
+&emsp;Funding agreements with small business concerns for research or research and development which result from competitive or singlesource selections other than an STTR program shall not be considered to meet any portion of the percentage requirements of paragraph (1).
 
 #### (o) Federal agency STTR authority
 
@@ -636,7 +636,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(8) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its STTR program, which section shall describe whether or not the Federal agency complied with the requirements of subsection (n) for the year covered by that plan and include a justification for failure to comply (if applicable),,<sup>3</sup> and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
 
-&emsp;(9) collect annually, and maintain in a common format in accordance with the simplifiedreporting requirements under subsection (v), such information from applicants and awardees as is necessary to assess the STTR program outputs and outcomes, including information necessary to maintain the database described in subsection (k), including—
+&emsp;(9) collect annually, and maintain in a common format in accordance with the simplified reporting requirements under subsection (v), such information from applicants and awardees as is necessary to assess the STTR program outputs and outcomes, including information necessary to maintain the database described in subsection (k), including—
 
 &emsp;&emsp;(A) whether an applicant or awardee—
 
@@ -668,7 +668,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(11) adopt the agreement developed by the Administrator under subsection (w) as the agency's model agreement for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
 
-&emsp;(12) develop, in consultation with the Office of Federal Procurement Policy and the Office of Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8)) that participate in STTR agreements—
+&emsp;(12) develop, in consultation with the Office of Federal Procurement Policy and the Officeof Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8)) that participate in STTR agreements—
 
 &emsp;&emsp;(A) are free from organizational conflicts of interests relative to the STTR program;
 
@@ -702,7 +702,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;(D) whether the small business concern is wholly owned in the People's Republic of China or another foreign country;
 
-&emsp;&emsp;(E) the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreigncountry of concern, including the People's Republic of China;
+&emsp;&emsp;(E) the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People's Republic of China;
 
 &emsp;&emsp;(F) any technology licensing or intellectual property sales to a foreign country of concern, including the People's Republic of China, during the 5-year period preceding submission of the proposal; and
 
@@ -788,7 +788,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;(C) minimizing regulatory burdens associated with participation in STTR programs;
 
-&emsp;&emsp;(D) guidelines for a model agreement, to be used by all agencies, for allocating betweensmall business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
+&emsp;&emsp;(D) guidelines for a model agreement, to be used by all agencies, for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
 
 &emsp;&emsp;(E) procedures to ensure that—
 
@@ -890,7 +890,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 #### (3) Intellectual property rights
 
-&emsp;Each funding agreement under an SBIR or STTR program shall include provisions setting forth the respective rights of the United States and the small business concern with respect to intellectual property rights and with respect to any right to carry out follow-on research.
+&emsp;Each funding agreement under an SBIR or STTR program shall include provisions setting forth the respective rights of the UnitedStates and the small business concern with respect to intellectual property rights and with respect to any right to carry out follow-on research.
 
 #### (4) Competitive procedures and justification for awards
 
@@ -932,7 +932,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 &emsp;Each Federal agency that is subject to subsection (f) and that has established a technology development program may, in each fiscal year, review for funding under that technology development program—
 
-&emsp;&emsp;(A) any proposal to provide outreach and assistance to one or more small business concerns interested in participating in theSBIR program, including any proposal to make a grant or loan to a company to pay a portion or all of the cost of developing an SBIR proposal, from an entity, organization, or individual located in—
+&emsp;&emsp;(A) any proposal to provide outreach and assistance to one or more small business concerns interested in participating in the SBIR program, including any proposal to make a grant or loan to a company to pay a portion or all of the cost of developing an SBIR proposal, from an entity, organization, or individual located in—
 
 &emsp;&emsp;&emsp;(i) a State that is eligible to participate in that program; or
 
@@ -962,7 +962,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations establishing a single model agreement for use in the STTR program that allocates between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization.
+&emsp;The Administrator shall promulgate regulations establishing a single model agreement for use in the STTR program that allocatesbetween small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization.
 
 #### (2) Opportunity for comment
 
@@ -996,7 +996,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 #### (2) Identification of research programs for accelerated transition to acquisition process
 
-&emsp;In carrying out the Commercialization Readiness Program, the Secretary of Defenseand the Secretary of each military department shall identify research programs of the Small Business Innovation Research Program or Small Business Technology Transfer Program that have the potential for rapid transitioning to Phase III and into the acquisition process.
+&emsp;In carrying out the Commercialization Readiness Program, the Secretary of Defense and the Secretary of each military department shall identify research programs of the Small Business Innovation Research Program or Small Business Technology Transfer Program that have the potential for rapid transitioning to Phase III and into the acquisition process.
 
 #### (3) Limitation
 
@@ -1036,7 +1036,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 &emsp;&emsp;&emsp;(i) the number and percentage of Phase II SBIR and STTR contracts awarded by the Secretary that led to technology transition into programs of record or fielded systems;
 
-&emsp;&emsp;&emsp;(ii) information on the status of each project that received funding through the Commercialization Readiness Program and efforts to transition those projects into programs of record or fielded systems; and
+&emsp;&emsp;&emsp;(ii) information on the status of each project that received funding through theCommercialization Readiness Program and efforts to transition those projects into programs of record or fielded systems; and
 
 &emsp;&emsp;&emsp;(iii) a description of each incentive that has been used by the Secretary under subparagraph (B) and the effectiveness of that incentive with respect to meeting the goal under subparagraph (A).
 
@@ -1138,7 +1138,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 #### (2) SBIR and STTR program flexibility
 
-&emsp;A small business concern that received a Phase I award under this section under the SBIR program or the STTR program may receive a subsequent Phase II award in either the SBIR program or the STTR program and the participating agency or agencies shall report the awards to the Administrator for inclusion in the public database under subsection (k).
+&emsp;A small business concern that received a Phase I award under this section under theSBIR program or the STTR program may receive a subsequent Phase II award in either the SBIR program or the STTR program and the participating agency or agencies shall report the awards to the Administrator for inclusion in the public database under subsection (k).
 
 #### (3) Preventing duplicative awards
 
@@ -1160,7 +1160,7 @@ During fiscal years 2012 through 2025, the National Institutes of Health, the De
 
 #### (2) Determination
 
-&emsp;A written determination described in this paragraph is a written determination by thehead of a Federal agency that explains how the use of the authority under paragraph (1) will—
+&emsp;A written determination described in this paragraph is a written determination by the head of a Federal agency that explains how the use of the authority under paragraph (1) will—
 
 &emsp;&emsp;(A) induce additional venture capital, hedge fund, or private equity firm funding of small business innovations;
 
@@ -1260,7 +1260,7 @@ During fiscal years 2012 through 2025, the National Institutes of Health, the De
 
 #### (1) Authorization
 
-&emsp;The head of each covered Federal agency may allocate not more than 10 percent of the funds allocated to the SBIR program and the STTR program of the covered Federal agency—
+&emsp;The head of each covered Federal agency may allocate not more than 10 percent of thefunds allocated to the SBIR program and the STTR program of the covered Federal agency—
 
 &emsp;&emsp;(A) for awards for technology development, testing, evaluation, and commercialization assistance for SBIR and STTR Phase II technologies; or
 
@@ -1422,7 +1422,7 @@ During fiscal years 2012 through 2025, the National Institutes of Health, the De
 
 #### (B) Award criteria
 
-&emsp;&emsp;In determining which qualifying institutions receive pilot program grants, the Director shall consider, in addition to any other criteria the Director determines necessary, the extent to which qualifying institutions—
+&emsp;&emsp;In determining which qualifying institutions receive pilot program grants, the Director shall consider, in addition to anyother criteria the Director determines necessary, the extent to which qualifying institutions—
 
 &emsp;&emsp;&emsp;(i) have an established and proven technology transfer or commercialization office and have a plan for engaging that office in the program's implementation;
 
@@ -1784,7 +1784,7 @@ All funds awarded, appropriated, or otherwise made available in accordance with 
 
 #### (5) Requirement of notice and comment
 
-&emsp;Each system and minimum performance standard established under paragraph (1) orparagraph (2) and each approval provided by the Administrator under paragraph (4)(A), at least 60 days before becoming effective, shall be preceded by the provision of notice of and an opportunity for public comment on such system, standard, or approval.
+&emsp;Each system and minimum performance standard established under paragraph (1) or paragraph (2) and each approval provided by the Administrator under paragraph (4)(A), at least 60 days before becoming effective, shall be preceded by the provision of notice of and an opportunity for public comment on such system, standard, or approval.
 
 #### (6) Inspector general audit
 
@@ -1922,7 +1922,7 @@ Not later than October 1, 2013, and annually thereafter, the head of each Federa
 
 &emsp;&emsp;(C) the rate at which each eligible entity that received a subsequent Phase II SBIR award under this subsection commercialized research of the recipient;
 
-&emsp;&emsp;(D) the growth in employment and revenue of eligible entities that is attributable toparticipation in a commercialization assistance pilot program;
+&emsp;&emsp;(D) the growth in employment and revenue of eligible entities that is attributable to participation in a commercialization assistance pilot program;
 
 &emsp;&emsp;(E) a comparison of commercialization success of eligible entities participating in a commercialization assistance pilot program with recipients of an additional Phase II SBIR award under subsection (ff);
 
@@ -2048,7 +2048,41 @@ Not later than October 1, 2013, and annually thereafter, the head of each Federa
 
 &emsp;A Federal agency that does not comply with paragraph (1) shall be referred to the Inspector General of the Administration for further investigation.
 
-(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–163, div. A, title II, §252, Jan. 6, 2006, 119 Stat. 3177; Pub. L. 110–140, title XII, §1203(e), Dec. 19, 2007, 121 Stat. 1771; Pub. L. 111–84, div. A, title VIII, §§847(a), (b), 848, Oct. 28, 2009, 123 Stat. 2420, 2421; Pub. L. 111–383, div. A, title X, §1075(l), Jan. 7, 2011, 124 Stat. 4378; Pub. L. 112–17, §§3, 4, June 1, 2011, 125 Stat. 221, 222; Pub. L. 112–81, div. A, title X, §1067(a), div. E, title LI, §§5101–5107(a), 5108–5111, 5121–5123, 5125–5127, 5131–5135, 5138, 5140, 5141(a), (b)(1), (3), 5144, 5161, 5162, 5164–5167, Dec. 31, 2011, 125 Stat. 1589, 1824–1827, 1832–1836, 1838–1842, 1844–1847, 1851–1854, 1857–1861; Pub. L. 112–239, div. A, title X, §1076(a)(20)(A), title XVI, §1615(a), (b), Jan. 2, 2013, 126 Stat. 1949, 2066; Pub. L. 114–92, div. A, title VIII, §873(h), formerly §873(e), Nov. 25, 2015, 129 Stat. 940, renumbered §873(h), Pub. L. 114–328, div. A, title VIII, §896(3), Dec. 23, 2016, 130 Stat. 2326; Pub. L. 114–328, div. A, title XVIII, §1834, Dec. 23, 2016, 130 Stat. 2661; Pub. L. 115–91, div. A, title XVII, §1709(a), (b)(1), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §§854(a)–(c)(1), 860, Aug. 13, 2018, 132 Stat. 1886–1888, 1893; Pub. L. 116–92, div. A, title VIII, §880(a)–(c), Dec. 20, 2019, 133 Stat. 1531, 1532; Pub. L. 116–283, div. A, title VIII, §865, Jan. 1, 2021, 134 Stat. 3785; Pub. L. 117–81, div. A, title XVII, §1702(e)(3), Dec. 27, 2021, 135 Stat. 2157; Pub. L. 117–183, §§3, 4(a), (b)(1), (c), (d), 5(a), (b), 7(a), 8, 9(a), Sept. 30, 2022, 136 Stat. 2180, 2181, 2183–2186, 2188, 2189, 2193; Pub. L. 117–263, div. A, title VIII, §872(a), Dec. 23, 2022, 136 Stat. 2739.)
+#### (yy) Pilot program for the participation of military research and educational institutions in the STTR program
+
+#### (1) In general
+
+&emsp;Not later than 180 days after December 23, 2024, the Secretary of Defense shall establish a pilot program to enable any undergraduate, graduate, or postgraduate degree-granting military research or educational institution established under title 10 to participate in the STTR program of the Department of Defense.
+
+#### (2) Sunset
+
+&emsp;The authority to carry out the pilot program under this subsection shall end on September 30, 2025.
+
+#### (zz) Budget calculation pilot program
+
+#### (1) Pilot
+
+#### (A) In general
+
+&emsp;&emsp;In order to more rapidly estimate allocations for the SBIR and STTR programs of the Department of Defense, the Secretary of Defense shall conduct a budget calculation pilot program that requires the calculation of total expenditures for the SBIR and STTR programs in the Department of Defense and determination of related allocations in accordance with subparagraphs (B) and (C), and paragraph (2), respectively.
+
+#### (B) SBIR program
+
+&emsp;&emsp;Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its SBIR program as not less than 3.25 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
+
+#### (C) STTR program
+
+&emsp;&emsp;Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its STTR program as not less than 0.46 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
+
+#### (2) Allocations
+
+&emsp;Not later than 30 days after the date of enactment of an appropriations bill for the Department of Defense for a fiscal year, the Department shall determine and make adjustments for actual allocations related to the SBIR and STTR programs of the Department.
+
+#### (3) Sunset
+
+&emsp;The pilot program under this subsection shall terminate on September 30, 2025.
+
+(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–163, div. A, title II, §252, Jan. 6, 2006, 119 Stat. 3177; Pub. L. 110–140, title XII, §1203(e), Dec. 19, 2007, 121 Stat. 1771; Pub. L. 111–84, div. A, title VIII, §§847(a), (b), 848, Oct. 28, 2009, 123 Stat. 2420, 2421; Pub. L. 111–383, div. A, title X, §1075(l), Jan. 7, 2011, 124 Stat. 4378; Pub. L. 112–17, §§3, 4, June 1, 2011, 125 Stat. 221, 222; Pub. L. 112–81, div. A, title X, §1067(a), div. E, title LI, §§5101–5107(a), 5108–5111, 5121–5123, 5125–5127, 5131–5135, 5138, 5140, 5141(a), (b)(1), (3), 5144, 5161, 5162, 5164–5167, Dec. 31, 2011, 125 Stat. 1589, 1824–1827, 1832–1836, 1838–1842, 1844–1847, 1851–1854, 1857–1861; Pub. L. 112–239, div. A, title X, §1076(a)(20)(A), title XVI, §1615(a), (b), Jan. 2, 2013, 126 Stat. 1949, 2066; Pub. L. 114–92, div. A, title VIII, §873(h), formerly §873(e), Nov. 25, 2015, 129 Stat. 940, renumbered §873(h), Pub. L. 114–328, div. A, title VIII, §896(3), Dec. 23, 2016, 130 Stat. 2326; Pub. L. 114–328, div. A, title XVIII, §1834, Dec. 23, 2016, 130 Stat. 2661; Pub. L. 115–91, div. A, title XVII, §1709(a), (b)(1), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §§854(a)–(c)(1), 860, Aug. 13, 2018, 132 Stat. 1886–1888, 1893; Pub. L. 116–92, div. A, title VIII, §880(a)–(c), Dec. 20, 2019, 133 Stat. 1531, 1532; Pub. L. 116–283, div. A, title VIII, §865, Jan. 1, 2021, 134 Stat. 3785; Pub. L. 117–81, div. A, title XVII, §1702(e)(3), Dec. 27, 2021, 135 Stat. 2157; Pub. L. 117–183, §§3, 4(a), (b)(1), (c), (d), 5(a), (b), 7(a), 8, 9(a), Sept. 30, 2022, 136 Stat. 2180, 2181, 2183–2186, 2188, 2189, 2193; Pub. L. 117–263, div. A, title VIII, §872(a), Dec. 23, 2022, 136 Stat. 2739; Pub. L. 118–159, div. A, title VIII, §§871, 872, Dec. 23, 2024, 138 Stat. 2007.)
 
 #### <b>Editorial Notes</b>
 
@@ -2083,6 +2117,10 @@ In subsec. (n)(2)(A), "section 1303(a)(1) of title 41" substituted for "section 
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See section 645 of this title and Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (yy). Pub. L. 118–159, §871, added subsec. (yy).
+
+Subsec. (zz). Pub. L. 118–159, §872, added subsec. (zz).
 
 <b>2022</b>—Pub. L. 117–183, §3, substituted "2025" for "2022" wherever appearing.
 
@@ -2364,7 +2402,7 @@ Subsec. (y)(1). Pub. L. 112–81, §5122(a)(3), inserted "or Small Business Tech
 
 Subsec. (y)(2). Pub. L. 112–81, §5122(a)(4), inserted "or Small Business Technology Transfer Program" after "Small Business Innovation Research Program".
 
-Subsec. (y)(4). Pub. L. 112–81, §5141(b)(3)(B), as amended by Pub. L. 112–239, §1615(b), amended par. (4) generally. Prior to amendment, text read as follows: "Forpayment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards."
+Subsec. (y)(4). Pub. L. 112–81, §5141(b)(3)(B), as amended by Pub. L. 112–239, §1615(b), amended par. (4) generally. Prior to amendment, text read as follows: "For payment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary ofa military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards."
 
 Pub. L. 112–81, §5141(b)(1)(B), redesignated par. (5) as (4) and struck out former par. (4), which related to funding of expenses incurred to administer the Commercialization Readiness Program.
 

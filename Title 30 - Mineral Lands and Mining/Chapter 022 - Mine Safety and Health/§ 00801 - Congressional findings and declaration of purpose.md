@@ -14,7 +14,7 @@ Congress declares that—
 
 &emsp;(f) the disruption of production and the loss of income to operators and miners as a result of coal or other mine accidents or occupationally caused diseases unduly impedes and burdens commerce; and
 
-&emsp;(g) it is the purpose of this chapter (1) to establish interim mandatory health and safetystandards and to direct the Secretary of Health and Human Services and the Secretary of Labor to develop and promulgate improved mandatory health or safety standards to protect the health and safety of the Nation's coal or other miners; (2) to require that each operator of a coal or other mine and every miner in such mine comply with such standards; (3) to cooperate with, and provide assistance to, the States in the development and enforcement of effective State coal or other mine health and safety programs; and (4) to improve and expand, in cooperation with the States and the coal or other mining industry, research and development and training programs aimed at preventing coal or other mine accidents and occupationally caused diseases in the industry.
+&emsp;(g) it is the purpose of this chapter (1) to establish interim mandatory health and safety standards and to direct the Secretary of Health and Human Services and the Secretary of Labor to develop and promulgate improved mandatory health or safety standards to protect the health and safety of the Nation's coal or other miners; (2) to require that each operator of a coal or other mine and every miner in such mine comply with such standards; (3) to cooperate with, and provide assistance to, the States in the development and enforcement of effective State coal or other mine health and safety programs; and (4) to improve and expand, in cooperation with the States and the coal or other mining industry, research and development and training programs aimed at preventing coal or other mine accidents and occupationally caused diseases in the industry.
 
 (Pub. L. 91–173, §2, Dec. 30, 1969, 83 Stat. 742; Pub. L. 95–164, title I, §102(a), Nov. 9, 1977, 91 Stat. 1290; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
@@ -70,7 +70,7 @@ Pub. L. 92–303, §1(a), May 19, 1972, 86 Stat. 150, provided: "That this Act \
 
 #### Short Title
 
-Pub. L. 91–173, §1, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, provided: "That this Act \[which was known as the Federal Coal Mine Health and Safety Act of 1969 prior to the amendment by Pub. L. 95–164 and which enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, repealed sections 451 to 460 and471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15\] may be cited as the 'Federal Mine Safety and Health Act of 1977'."
+Pub. L. 91–173, §1, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat.1290, provided: "That this Act \[which was known as the Federal Coal Mine Health and Safety Act of 1969 prior to the amendment by Pub. L. 95–164 and which enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, repealed sections 451 to 460 and 471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15\] may be cited as the 'Federal Mine Safety and Health Act of 1977'."
 
 For short title of subchapter IV of this chapter as the "Black Lung Benefits Act", see section 901(b) of this title.
 

@@ -16,7 +16,7 @@
 
 &emsp;(iii) any right of the former spouse to any payment of a lump-sum credit under section 4055(a) or (b) of this title;
 
-> shall be determined in accordance with that spousal agreement or court order, if and to theextent expressly provided for in the terms of that spousal agreement or court order.
+> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of that spousal agreement or court order.
 
 (B) This paragraph shall not apply in the case of any spousal agreement or court order which, as determined by the Secretary of State—
 

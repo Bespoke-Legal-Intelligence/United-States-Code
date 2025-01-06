@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) the number of such individuals, plus
 
-&emsp;&emsp;(B) the amount determined under subparagraph (A) multiplied by the percentage (if any) by which the medical component of the Consumer Price Index for the calendar year in which the plan year begins exceeds such component for 1992.
+&emsp;&emsp;(B) the amount determined under subparagraph (A) multiplied by the percentage (if any) by which the medical component of theConsumer Price Index for the calendar year in which the plan year begins exceeds such component for 1992.
 
 #### (3) Adjustments for medicare reductions
 
@@ -238,7 +238,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;&emsp;(B) credit such account with such payment (and any earnings thereon), and
 
-&emsp;&emsp;(C) use all amounts in such account exclusively to pay premiums that would (but forthis subsection) be required to be paid by the assigned operator.
+&emsp;&emsp;(C) use all amounts in such account exclusively to pay premiums that would (but for this subsection) be required to be paid by the assigned operator.
 
 > &emsp;Upon termination of the obligations for the premium liability of any assigned operator or related person for which such account is maintained, all funds remaining in such account (and earnings thereon) shall be refunded to such person as may be designated by the common parent described in paragraph (1)(B).
 

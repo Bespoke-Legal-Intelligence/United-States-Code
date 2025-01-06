@@ -46,7 +46,7 @@ Extensions of time for payment of any portion of a claim for tax under chapter 1
 
 #### (3) Postponement of certain acts
 
-&emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508, and by reason of</b><b>Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
+&emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 762; Pub. L. 85–866, title II, §206(c), Sept. 2, 1958, 72 Stat. 1684; Pub. L. 91–172, title I, §101(j)(37), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–614, title I, §101(h), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–406, title II, §1016(a)(7), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(C), title XVI, §1605(b)(3), title XIX, §1906(b)(13)(A), title XX, §2004(c)(1), (2), Oct. 4, 1976, 90 Stat. 1727, 1754, 1834, 1867, 1868; Pub. L. 96–223, title I, §101(f)(1)(H), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(i)(8), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 97–34, title IV, §422(e)(1), Aug. 13, 1981, 95 Stat. 316; Pub. L. 100–418, title I, §1941(b)(2)(B)(viii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 107–134, title I, §112(d)(3), Jan. 23, 2002, 115 Stat. 2435.)
 

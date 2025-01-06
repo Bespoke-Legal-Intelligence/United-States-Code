@@ -4,7 +4,7 @@
 
 #### (1) Availability of remedies and procedures
 
-&emsp;The remedies and procedures set forth in section 2000a–3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation of this subchapter or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.
+&emsp;The remedies and procedures set forth in section 2000a–3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation of this subchapter or who has reasonable groundsfor believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.
 
 #### (2) Injunctive relief
 

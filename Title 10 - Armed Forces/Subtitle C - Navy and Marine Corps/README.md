@@ -115,7 +115,7 @@ Pub. L. 97–295, §1(51)(A), Oct. 12, 1982, 96 Stat. 1300, which directed subst
 
 Pub. L. 97–258, §2(b)(12)(A), Sept. 13, 1982, 96 Stat. 1057, added item for chapter 661.
 
-<b>1980</b>—Pub. L. 96–513, title V, §§503(1), 513(1), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out item for chapter 517 "Fleet Commands and other High Positions", inserted "of Naval Reserve and Marine Corps Reserve" after "Strength" in item for chapter 531, inserted "for Reserve Officers" after "Running Mates" in item for chapter 541, struck out item for chapter 543 "Selection Boards", added item for chapter 544, and struck outitems for chapter 545 "Promotions" and for chapter 547 "Examinations for Promotion", and in item for chapter 641 substituted "7420" for "7421"
+<b>1980</b>—Pub. L. 96–513, title V, §§503(1), 513(1), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out item for chapter 517 "Fleet Commands and other High Positions", inserted "of Naval Reserve and Marine Corps Reserve" after "Strength" in item for chapter 531, inserted "for Reserve Officers" after "Running Mates" in item for chapter 541, struck out item for chapter 543 "Selection Boards", added item for chapter 544, and struck out items for chapter 545 "Promotions" and for chapter 547 "Examinations for Promotion", and in item for chapter 641 substituted "7420" for "7421"
 
 <b>1977</b>—Pub. L. 95–82, title VI, §611(b), Aug. 1, 1977, 91 Stat. 378, struck out item for chapter 516 "Naval Districts".
 

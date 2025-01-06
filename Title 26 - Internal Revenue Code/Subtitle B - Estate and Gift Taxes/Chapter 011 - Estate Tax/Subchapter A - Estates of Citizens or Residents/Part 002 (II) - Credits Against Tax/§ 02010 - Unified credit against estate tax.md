@@ -12,7 +12,7 @@ The amount of the credit allowable under subsection (a) shall be reduced by an a
 
 #### (1) In general
 
-&emsp;For purposes of this section, the applicable credit amount is the amount of the tentative tax which would be determined under section 2001(c) if the amount with respect to which such tentative tax is to be computed were equal to the applicable exclusion amount.
+&emsp;For purposes of this section, the applicable credit amount is the amount of the tentativetax which would be determined under section 2001(c) if the amount with respect to which such tentative tax is to be computed were equal to the applicable exclusion amount.
 
 #### (2) Applicable exclusion amount
 

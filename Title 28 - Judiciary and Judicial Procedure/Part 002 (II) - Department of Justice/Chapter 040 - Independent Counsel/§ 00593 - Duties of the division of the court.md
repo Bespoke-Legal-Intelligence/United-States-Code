@@ -76,7 +76,7 @@ Evaluation of fees.—The division of the court shall direct such independent co
 
 (g)
 
-Disclosure of Information.—The division of the court may, subject to section 594(h)(2), allow the disclosure of any notification, application, or any other document, material, or memorandum supplied to the division of the court under this chapter.
+Disclosure of Information.—The division of the court may, subject to section 594(h)(2), allow the disclosure of any notification, application, or any other document, material, ormemorandum supplied to the division of the court under this chapter.
 
 (h)
 

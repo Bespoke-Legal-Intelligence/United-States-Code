@@ -206,7 +206,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (j) Federal demonstration of technologies
 
-The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
+The Director shall seek opportunities to partner with purchasing and procurement programsof Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
 
 #### (k) Advice
 

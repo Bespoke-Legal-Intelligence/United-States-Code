@@ -14,7 +14,7 @@ Members of advisory councils shall serve without pay, except travel and per diem
 
 #### (d) Functions
 
-An advisory council may furnish advice to the Secretary with respect to the land use planning, classification, retention, management, and disposal of the public lands within the area for which the advisory council is established and such other matters as may be referred to it by the Secretary.
+An advisory council may furnish advice to the Secretary with respect to the land use planning, classification, retention, management, and disposal of the public lands within the area forwhich the advisory council is established and such other matters as may be referred to it by the Secretary.
 
 #### (e) Public participation; procedures applicable
 
@@ -38,5 +38,5 @@ This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Sta
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

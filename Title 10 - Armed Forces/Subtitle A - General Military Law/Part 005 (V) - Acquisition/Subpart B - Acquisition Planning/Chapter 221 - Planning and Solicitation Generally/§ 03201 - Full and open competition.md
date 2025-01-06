@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 116–283, §1811(c)(3), redesignated subsec. (j) of sectio
 
 Subsec. (d). Pub. L. 116–283, §1811(c)(4), redesignated subsec. (h) of section 2304 of this title as subsec. (d) of this section and inserted heading.
 
-Subsec. (e). Pub. L. 116–283, §1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) ofthis section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted "section 3063" for "section 2303(a)" in pars. (1) and (4).
+Subsec. (e). Pub. L. 116–283, §1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) of this section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted "section 3063" for "section 2303(a)" in pars. (1) and (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -112,27 +112,9 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 #### Competition for Procurement of Small Arms Supplied to Iraq and Afghanistan
 
-Pub. L. 110–181, div. A, title VIII, §892, Jan. 28, 2008, 122 Stat. 270, provided that:
-
-"(a)
-
-Competition Requirement.—For the procurement of pistols and other weapons described in subsection (b), the Secretary of Defense shall ensure, consistent with the provisions of section 2304 of title 10, United States Code \[see 10 U.S.C. 3201 et seq.\], that—
-
-&emsp;"(1) full and open competition is obtained to the maximum extent practicable;
-
-&emsp;"(2) no responsible United States manufacturer is excluded from competing for such procurements; and
-
-&emsp;"(3) products manufactured in the United States are not excluded from the competition.
-
-"(b)
-
-Procurements Covered.—This section applies to the procurement of the following:
-
-&emsp;"(1) Pistols and other weapons less than 0.50 caliber for assistance to the Army of Iraq, the Iraqi Police Forces, and other Iraqi security organizations.
-
-&emsp;"(2) Pistols and other weapons less than 0.50 caliber for assistance to the Army of Afghanistan, the Afghani Police Forces, and other Afghani security organizations."
+Pub. L. 110–181, div. A, title VIII, §892, Jan. 28, 2008, 122 Stat. 270, which required the Secretary of Defense to ensure, consistent with the provisions of former section 2304 of this title, full and open competition for procurement of small arms supplied to Iraq and Afghanistan, was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(B), Dec. 23, 2024, 138 Stat. 1979.
 
 #### Competitive Award of Contracts for Reconstruction Activities in Iraq
 
-Pub. L. 108–136, div. A, title VIII, §805(a), Nov. 24, 2003, 117 Stat. 1542, provided that: "The Department of Defense shall fully comply with \[former\] chapter 137 of title 10, United States Code, and other applicable procurement laws and regulations for any contract awarded for reconstruction activities in Iraq, and shall conduct a full and open competition for performing work needed for the reconstruction of the Iraqi oil industry."
+Pub. L. 108–136, div. A, title VIII, §805(a), Nov. 24, 2003, 117 Stat. 1542, which required the Department of Defense to fully comply with former chapter 137 of this title for contracts awarded competitively for reconstruction activities of the Iraqi oil industry, was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(A), Dec. 23, 2024, 138 Stat. 1979.
 

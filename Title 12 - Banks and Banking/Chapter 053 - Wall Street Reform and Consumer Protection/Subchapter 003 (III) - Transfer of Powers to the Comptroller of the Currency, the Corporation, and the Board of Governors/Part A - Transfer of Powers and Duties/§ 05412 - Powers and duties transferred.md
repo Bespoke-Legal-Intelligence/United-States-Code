@@ -22,7 +22,7 @@ This section, and the amendments made by this section, shall take effect on the 
 
 #### (B) Powers, authorities, rights, and duties
 
-&emsp;&emsp;The Board of Governors shall succeed to all powers, authorities, rights, and dutiesthat were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions and authority transferred under subparagraph (A).
+&emsp;&emsp;The Board of Governors shall succeed to all powers, authorities, rights, and duties that were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions and authority transferred under subparagraph (A).
 
 #### (2) All other functions transferred
 

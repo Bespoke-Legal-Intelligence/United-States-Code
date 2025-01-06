@@ -61,6 +61,7 @@
 | [1090a.](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.md) | Identifying and treating eating disorders. |
 | [1090b.](%C2%A7%2001090b%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md) | Commanding officer and supervisor referrals of members for mental health evaluations. |
 | [1091\.](%C2%A7%2001091%20-%20Personal%20services%20contracts.md) | Personal services contracts. |
+| [1091a.](%C2%A7%2001091a%20-%20Identification%20in%20patient%20medical%20records%20of%20affiliation%20of%20certain%20non-Department%20of%20Defense%20health%20care%20providers.md) | Identification in patient medical records of affiliation of certain non-Department of Defense health care providers. |
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
 | [1092a.](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md) | Persons entering the armed forces: baseline health data. |
 | [1093\.](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md) | Performance of abortions: restrictions. |
@@ -104,6 +105,8 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. A, title VII, §711, Dec. 23, 2024, 138 Stat. 1947, added item 1091a. Amendment was made pursuant to operation of section 102 of this title.
+
 <b>2021</b>—Pub. L. 117–81, div. A, title VII, §§701(c)(2), 713(b), 714(a)(2), 716(c), Dec. 27, 2021, 135 Stat. 1779, 1784, 1786, 1789, added items 1073f, 1090a, 1090b, 1104a, and 1110 and struck out former items 1090a "Commanding officer and supervisor referrals of members for mental health evaluations" and 1110 "Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions".
 
 Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
@@ -116,7 +119,7 @@ Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, ad
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VII, §§702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted "Recurring reports and publication of certain data" for "Recurring reports" in item 1073b.
 
-Pub. L. 114–328, div. A, title VII, §§701(a)(2), (b)(2), (j)(2), (k), Dec. 23, 2016, 130 Stat. 2184, 2185, 2192, 2193, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, added items 1075 and 1075a and substituted "TRICARE Reserve Select" for "TRICARE Standard" in item 1076d, "TRICARE Retired Reserve" for "TRICARE Standard" in item 1076e, "TRICARE program" for "CHAMPUS" in item 1079a, and "and preauthorizations under TRICARE Prime" for "for specialty health care" in item 1095f.
+Pub. L. 114–328, div. A, title VII, §§701(a)(2), (b)(2), (j)(2), (k), Dec. 23, 2016, 130 Stat. 2184, 2185, 2192, 2193, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, added items 1075 and 1075a and substituted "TRICAREReserve Select" for "TRICARE Standard" in item 1076d, "TRICARE Retired Reserve" for "TRICARE Standard" in item 1076e, "TRICARE program" for "CHAMPUS" in item 1079a, and "and preauthorizations under TRICARE Prime" for "for specialty health care" in item 1095f.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VII, §711(b), Nov. 25, 2015, 129 Stat. 864, added item 1095g.
 
@@ -154,7 +157,7 @@ Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 
 
 <b>1996</b>—Pub. L. 104–201, div. A, title VII, §§701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted "Certain primary and preventive health care services" for "Primary and preventive health care services for women" in item 1074d and added items 1076c and 1079a.
 
-Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item1076b and substituted "Performance of abortions: restrictions" for "Restriction on use of funds for abortions" in item 1093 and "Defense Health Program Account" for "Military Health Care Account" in item 1100.
+Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted "Performance of abortions: restrictions" for "Restriction on use of funds for abortions" in item 1093 and "Defense Health Program Account" for "Military Health Care Account" in item 1100.
 
 <b>1993</b>—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted "Personal services contracts" for "Contracts for direct health care providers" in item 1091 and "Resource allocation methods: capitation or diagnosis-related groups" for "Diagnosis-related groups" in item 1101, added item 1105, and struck out former item 1105 "Issuance of nonavailability of health care statements".
 
@@ -260,6 +263,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01090a - Identifying and treating eating disorders](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.md)
 - [&sect; 01090b - Commanding officer and supervisor referrals of members for mental health evaluations](%C2%A7%2001090b%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md)
 - [&sect; 01091 - Personal services contracts](%C2%A7%2001091%20-%20Personal%20services%20contracts.md)
+- [&sect; 01091a - Identification in patient medical records of affiliation of certain non-Department of Defense health care providers](%C2%A7%2001091a%20-%20Identification%20in%20patient%20medical%20records%20of%20affiliation%20of%20certain%20non-Department%20of%20Defense%20health%20care%20providers.md)
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)
 - [&sect; 01092a - Persons entering the armed forces baseline health data](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md)
 - [&sect; 01093 - Performance of abortions restrictions](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md)

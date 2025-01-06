@@ -26,7 +26,7 @@ All persons and organizations which, by contract, grant, or otherwise, provide g
 
 #### (2) Coordination with other provisions of law
 
-&emsp;The authority of the Comptroller General under this section shall be in addition to anyaudit authority available to the Comptroller General under other provisions of this Act or any other law.
+&emsp;The authority of the Comptroller General under this section shall be in addition to any audit authority available to the Comptroller General under other provisions of this Act or any other law.
 
 #### (3) Rights of access, examination, and copying
 

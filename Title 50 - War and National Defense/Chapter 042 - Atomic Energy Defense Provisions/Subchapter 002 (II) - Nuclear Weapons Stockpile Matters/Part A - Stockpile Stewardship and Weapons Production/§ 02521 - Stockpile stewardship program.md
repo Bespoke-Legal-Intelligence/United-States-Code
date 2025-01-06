@@ -12,13 +12,19 @@ The Secretary of Energy, acting through the Administrator, shall establish a ste
 
 The program shall include the following:
 
-&emsp;(1) An increased level of effort for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
+&emsp;(1) An increased level of effort for the construction of new facilities and the modernization of existing facilities with production and manufacturing capabilities that are necessary to support the deterrence of strategic attacks against the United States by maintaining and enhancing the performance, reliability, and security of the United States nuclear weapons stockpile, including—
 
-&emsp;(2) An increased level of effort for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
+&emsp;&emsp;(A) the nuclear weapons production facilities; and
 
-&emsp;(3) Support for new facilities construction projects that contribute to the experimental capabilities of the United States, such as an advanced hydrodynamics facility, the National Ignition Facility, and other facilities for above-ground experiments to assess nuclear weapons effects.
+&emsp;&emsp;(B) production and manufacturing capabilities resident in the national security laboratories.
 
-&emsp;(4) Support for the use of, and experiments facilitated by, the advanced experimental facilities of the United States, including—
+&emsp;(2) Support for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
+
+&emsp;(3) Support for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
+
+&emsp;(4) Support for the modernization of facilities and projects that contribute to the experimental capabilities of the United States that support the sustainment and modernization of the United States nuclear weapons stockpile and the capabilities required to assess nuclear weapons effects.
+
+&emsp;(5) Support for the use of, and experiments facilitated by, the advanced experimental facilities of the United States, including—
 
 &emsp;&emsp;(A) the National Ignition Facility at Lawrence Livermore National Laboratory;
 
@@ -28,13 +34,7 @@ The program shall include the following:
 
 &emsp;&emsp;(D) the experimental facilities at the Nevada National Security Site.
 
-&emsp;(5) Support for the sustainment and modernization of facilities with production and manufacturing capabilities that are necessary to ensure the safety, security, and reliability of the nuclear weapons stockpile, including—
-
-&emsp;&emsp;(A) the nuclear weapons production facilities; and
-
-&emsp;&emsp;(B) production and manufacturing capabilities resident in the national security laboratories.
-
-(Pub. L. 107–314, div. D, title XLII, §4201, formerly Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946; Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4201, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758; Pub. L. 111–84, div. C, title XXXI, §3111, Oct. 28, 2009, 123 Stat. 2702; Pub. L. 112–239, div. C, title XXXI, §3131(b), (bb)(1)(C), Jan. 2, 2013, 126 Stat. 2180, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(c)(1), Dec. 26, 2013, 127 Stat. 1073.)
+(Pub. L. 107–314, div. D, title XLII, §4201, formerly Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946; Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4201, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758; Pub. L. 111–84, div. C, title XXXI, §3111, Oct. 28, 2009, 123 Stat. 2702; Pub. L. 112–239, div. C, title XXXI, §3131(b), (bb)(1)(C), Jan. 2, 2013, 126 Stat. 2180, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(c)(1), Dec. 26, 2013, 127 Stat. 1073; Pub. L. 118–159, div. C, title XXXI, §3111(c)(1), Dec. 23, 2024, 138 Stat. 2293.)
 
 #### <b>Editorial Notes</b>
 
@@ -43,6 +43,14 @@ The program shall include the following:
 Section was formerly set out as a note under section 2121 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–159, §3111(c)(1)(C), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (b)(2), (3). Pub. L. 118–159, §3111(c)(1)(B), (D), (E), redesignated pars. (1) and (2) as (2) and (3), respectively, and substituted "Support" for "An increased level of effort". Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 118–159, §3111(c)(1)(B), (F), redesignated par. (3) as (4) and amended it generally. Prior to amendment, par. read as follows: "Support for new facilities construction projects that contribute to the experimental capabilities of the United States, such as an advanced hydrodynamics facility, the National Ignition Facility, and other facilities for above-ground experiments to assess nuclear weapons effects."
+
+Subsec. (b)(5). Pub. L. 118–159, §3111(c)(1)(A), (B), redesignated par. (4) as (5) and struck out former par. (5) which related to support for facilities with production and manufacturing capabilities that are necessary to ensure the safety, security, and reliability of the nuclear weapons stockpile.
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §3146(c)(1)(A), struck out "for Nuclear Security" after "Administrator" in introductory provisions.
 
@@ -148,7 +156,7 @@ In general.—In accordance with paragraph (2), the Administrator for Nuclear Se
 
 &emsp;&emsp;&emsp;"(iii) such other concepts as the Administrator and the Chairman determine necessary to fully exercise and create responsive design capabilities in the enterprise and ensure a robust nuclear deterrent into the 2030s;
 
-&emsp;&emsp;"(B) assess how the capabilities and defenses that may be employed by other countries could impact deterrence in 2030 and beyond and how such threats could be addressed or mitigated in the warhead and related delivery systems;
+&emsp;&emsp;"(B) assess how the capabilities and defenses that may be employed by other countries could impact deterrence in 2030 and beyond and how such threatscould be addressed or mitigated in the warhead and related delivery systems;
 
 &emsp;&emsp;"(C) exercise the full set of design skills necessary for an effective nuclear deterrent and responsive enterprise through production of conceptual designs and, as the Administrator determines appropriate, production of non-nuclear prototypes of components or subsystems; and
 

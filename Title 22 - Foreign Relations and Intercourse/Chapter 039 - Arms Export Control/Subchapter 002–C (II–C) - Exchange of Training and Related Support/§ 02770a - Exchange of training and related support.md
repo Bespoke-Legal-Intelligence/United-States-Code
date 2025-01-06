@@ -14,7 +14,7 @@ Training and related support under this section shall be provided under regulati
 
 #### (d) Report to Congress
 
-Not later than February 1 of each year, the President shall submit to the Congress a reporton the activities conducted pursuant to this section during the preceding fiscal year, including the estimated full costs of the training and related support provided by the United States to each country and international organization and the estimated value of the training and related support provided to the United States by that country or international organization.
+Not later than February 1 of each year, the President shall submit to the Congress a report on the activities conducted pursuant to this section during the preceding fiscal year, including the estimated full costs of the training and related support provided by the United States to each country and international organization and the estimated value of the training and related support provided to the United States by that country or international organization.
 
 (Pub. L. 90–629, ch. 2C, §30A, as added Pub. L. 99–83, title I, §116, Aug. 8, 1985, 99 Stat. 201.)
 

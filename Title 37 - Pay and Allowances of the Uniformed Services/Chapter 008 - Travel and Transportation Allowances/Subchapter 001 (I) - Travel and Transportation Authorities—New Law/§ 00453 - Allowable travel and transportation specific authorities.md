@@ -12,11 +12,11 @@ Authorized Absence From Temporary Duty Location.—An authorized traveler may be
 
 Movement of Personal Property.—(1) A member of a uniformed service may be allowed moving expenses and transportation allowances for self and dependents associated with the movement of personal property and household goods, including such expenses when associated with a self-move.
 
-(2) The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles (but not to exceed one privately owned vehicle per member household) in connection with the temporary or permanent move between authorized locations.
+(2) The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles in connection with the temporary or permanent move between authorized locations.
 
 (3) For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under section 464 of this title. The prescribed weight allowances may not exceed 18,000 pounds (including household goods in temporary storage, but excluding packing and crating), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
 
-(4) The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store a privately owned vehicle.
+(4) The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store privately owned vehicles.
 
 (5) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 
@@ -110,11 +110,15 @@ Attendance at Professional Military Education Institution or Training Classes.�
 
 &emsp;&emsp;(E) Movement of household goods in an amount determined under applicable regulations.
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1457; amended Pub. L. 113–66, div. A, title VI, §621(c)(1), (h), Dec. 26, 2013, 127 Stat. 783, 784; Pub. L. 114–328, div. A, title V, §522(c), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–283, div. A, title VI, §622(a), Jan. 1, 2021, 134 Stat. 3676; Pub. L. 117–263, div. A, title VI, §§622(a), 623–625, Dec. 23, 2022, 136 Stat. 2625–2627; Pub. L. 118–31, div. A, title VI, §635, Dec. 22, 2023, 137 Stat. 298.)
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1457; amended Pub. L. 113–66, div. A, title VI, §621(c)(1), (h), Dec. 26, 2013, 127 Stat. 783, 784; Pub. L. 114–328, div. A, title V, §522(c), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–283, div. A, title VI, §622(a), Jan. 1, 2021, 134 Stat. 3676; Pub. L. 117–263, div. A, title VI, §§622(a), 623–625, Dec. 23, 2022, 136 Stat. 2625–2627; Pub. L. 118–31, div. A, title VI, §635, Dec. 22, 2023, 137 Stat. 298; Pub. L. 118–159, div. A, title VI, §624, Dec. 23, 2024, 138 Stat. 1934.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(2). Pub. L. 118–159, §624(1), struck out "(but not to exceed one privately owned vehicle per member household)" after "privately owned vehicles".
+
+Subsec. (c)(4). Pub. L. 118–159, §624(2), substituted "privately owned vehicles" for "a privately owned vehicle".
 
 <b>2023</b>—Subsec. (g). Pub. L. 118–31, §635(1), substituted "
 
@@ -124,13 +128,13 @@ Reimbursement of Qualifying Spouse Relicensing Costs or Business Costs Incident 
 
 Subsec. (g)(1). Pub. L. 118–31, §635(2)(A), substituted "and qualified business costs" for "or qualified business costs" in introductory provisions.
 
-Subsec. (g)(1)(A). Pub. L. 118–31, §635(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and".
+Subsec. (g)(1)(A). Pub. L. 118–31, §635(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the member is reassigned, either as a permanent change of station or permanent change ofassignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and".
 
 Subsec. (g)(1)(B). Pub. L. 118–31, §635(2)(C), substituted "relocation" for "reassignment".
 
 Subsec. (g)(2). Pub. L. 118–31, §635(3), substituted "relocation" for "reassignment" in subpars. (A) and (B).
 
-Subsec. (g)(4)(A). Pub. L. 118–31, §635(4)(A), substituted "the member's relocation described in paragraph (1);" for "movement described in paragraph (1)(B)in connection with the member's change in duty location pursuant to reassignment described in paragraph (1)(A);".
+Subsec. (g)(4)(A). Pub. L. 118–31, §635(4)(A), substituted "the member's relocation described in paragraph (1);" for "movement described in paragraph (1)(B) in connection with the member's change in duty location pursuant to reassignment described in paragraph (1)(A);".
 
 Subsec. (g)(4)(B). Pub. L. 118–31, §635(4)(B), substituted "relocation" for "reassignment".
 
@@ -138,7 +142,7 @@ Subsec. (g)(5)(A). Pub. L. 118–31, §635(5)(A), substituted "the member's relo
 
 Subsec. (g)(5)(B). Pub. L. 118–31, §635(5)(B), substituted "relocation" for "reassignment".
 
-<b>2022</b>—Subsec. (g). Pub. L. 117–263, §622(a)(1), inserted "Relicensing Costs" after "Relicensing Costs" in heading.
+<b>2022</b>—Subsec. (g). Pub. L. 117–263, §622(a)(1), inserted "or Business Costs" after "Relicensing Costs" in heading.
 
 Subsec. (g)(1). Pub. L. 117–263, §622(a)(2), inserted "or qualified business costs" after "qualified relicensing costs" in introductory provisions.
 

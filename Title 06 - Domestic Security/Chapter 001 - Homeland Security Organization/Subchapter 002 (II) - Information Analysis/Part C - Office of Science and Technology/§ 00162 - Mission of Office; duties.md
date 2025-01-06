@@ -16,7 +16,7 @@ In carrying out its mission, the Office shall have the following duties:
 
 &emsp;(2) To establish and maintain advisory groups (which shall be exempt from the provisions of chapter 10 of title 5) to assess the law enforcement technology needs of Federal, State, and local law enforcement agencies.
 
-&emsp;(3) To establish and maintain performance standards in accordance with the National Technology Transfer and Advancement Act of1995 (Public Law 104–113) for, and test and evaluate law enforcement technologies that may be used by, Federal, State, and local law enforcement agencies.
+&emsp;(3) To establish and maintain performance standards in accordance with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113) for, and test and evaluate law enforcement technologies that may be used by, Federal, State, and local law enforcement agencies.
 
 &emsp;(4) To establish and maintain a program to certify, validate, and mark or otherwise recognize law enforcement technology products that conform to standards established and maintained by the Office in accordance with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113). The program may, at the discretion of the Office, allow for supplier's declaration of conformity with such standards.
 

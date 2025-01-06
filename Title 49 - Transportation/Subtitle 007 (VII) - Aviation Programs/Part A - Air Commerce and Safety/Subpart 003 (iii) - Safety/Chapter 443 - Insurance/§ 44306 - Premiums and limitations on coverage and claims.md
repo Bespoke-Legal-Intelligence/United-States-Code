@@ -14,7 +14,7 @@ Time Limits.—The Secretary of Transportation may provide insurance and reinsur
 
 (d)
 
-Maximum Insured Amount.—The insurance policy on an aircraft insured or reinsured under this chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
+Maximum Insured Amount.—The insurance policy on an aircraft insured or reinsured underthis chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(d), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–71, title I, §§124(b), 147, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287; Pub. L. 108–176, title I, §106(c), (e), Dec. 12, 2003, 117 Stat. 2499.)
 
@@ -46,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(a) (last sentence less words between 2d 
 
 In subsection (a), the words "To the extent" are substituted for "insofar as" for consistency.
 
-In subsection (b), the word "initial" is omitted as surplus. The words "The period" are substituted for"Such insurance or reinsurance", and the words "the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government" are substituted for "the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance", for clarity.
+In subsection (b), the word "initial" is omitted as surplus. The words "The period" are substituted for "Such insurance or reinsurance", and the words "the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government" are substituted for "the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance", for clarity.
 
 In subsection (c), the words "or reinsured" are added for consistency. The words "to be paid in the event of total loss" are omitted as unnecessary because of the last sentence. The words "A claim under the policy may not be paid for more than that stated amount" are substituted for "the amount of any claim which is compromised, settled, adjusted, or paid shall in no event exceed such stated amount" to eliminate unnecessary words.
 

@@ -28,7 +28,7 @@ Section 23a, acts Feb. 23, 1931, ch. 276, §1, 46 Stat. 1207; May 3, 1945, ch. 1
 
 Section 23b, act Feb. 23, 1931, ch. 276, §2, 46 Stat. 1207, related to appointment to grade of senior clerk.
 
-Section 23c, acts Feb. 23, 1931, ch. 276, §3, 46 Stat. 1207; Apr. 24, 1939, ch. 84, §1, 53 Stat. 583; May 3, 1945, ch. 105, §3, 59 Stat. 102, related to allowances at all posts to clerks to meet excessive costs of living.
+Section 23c, acts Feb. 23, 1931, ch. 276, §3, 46 Stat. 1207; Apr. 24, 1939, ch. 84, §1, 53 Stat. 583; May 3, 1945, ch. 105,§3, 59 Stat. 102, related to allowances at all posts to clerks to meet excessive costs of living.
 
 Section 23d, act Feb. 23, 1931, ch. 276, §4, 46 Stat. 1207, related to appointment of clerks to serve in a diplomatic mission.
 

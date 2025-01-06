@@ -112,7 +112,15 @@ Application to house of representatives.—This subsection shall apply with resp
 
 &emsp;&emsp;(B) amounts may be made available to implement this subsection with respect to the House of Representatives without advance notice to the Committee on Appropriations of the Senate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 117–328, div. I, title I, §117(a), Dec. 29, 2022, 136 Stat. 4924.)
+&emsp;(7)
+
+Application to senate.—This subsection shall apply with respect to the Senate in the same manner as it applies to an Executive agency, except that—
+
+&emsp;&emsp;(A) the authority granted to the Office of Personnel Management shall be exercisedwith respect to the Senate, by the Majority and Minority Leaders of the Senate, in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate; and
+
+&emsp;&emsp;(B) amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 117–328, div. I, title I, §117(a), Dec. 29, 2022, 136 Stat. 4924; Pub. L. 118–47, div. E, title I, §103(a), Mar. 23, 2024, 138 Stat. 712.)
 
 Historical and Revision Notes
 
@@ -182,11 +190,17 @@ Section 231 of the Crime Control Act of 1990, referred to in subsec. (f)(2), is 
 
 #### Amendments
 
+<b>2024</b>—Subsec. (g)(7). Pub. L. 118–47 added par. (7).
+
 <b>2022</b>—Subsec. (g)(6). Pub. L. 117–328 added par. (6).
 
 <b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–47, div. E, title I, §103(b), Mar. 23, 2024, 138 Stat. 712, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2024 and each succeeding fiscal year."
 
 #### Effective Date of 2022 Amendment
 

@@ -80,6 +80,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—MICRONESIA, MARSHALL ISLANDS, AND PALAU: 2023 AGREEMENTS
+
+|  |  |
+| :--- | ---: |
+| [1981\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001981%20-%20Findings.md) | Findings. |
+| [1982\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001982%20-%20Definitions.md) | Definitions. |
+| [1983\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001983%20-%20Approval%20of%202023%20Agreement%20to%20Amend%20the%20U.S.-FSM%20Compact%2C%202023%20Agreement%20to%20Amend%20the%20U.S.-RMI%20Compact%2C%202023%20U.S.-Palau%20Compact%20Review%E2%80%A6.md) | Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements. |
+| [1984\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001984%20-%20Agreements%20with%20Federated%20States%20of%20Micronesia.md) | Agreements with Federated States of Micronesia. |
+| [1985\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001985%20-%20Agreements%20with%20and%20other%20provisions%20related%20to%20the%20Republic%20of%20the%20Marshall%20Islands.md) | Agreements with and other provisions related to the Republic of the Marshall Islands. |
+| [1986\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001986%20-%20Agreements%20with%20and%20other%20provisions%20related%20to%20the%20Republic%20of%20Palau.md) | Agreements with and other provisions related to the Republic of Palau. |
+| [1987\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001987%20-%20Oversight%20provisions.md) | Oversight provisions. |
+| [1988\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001988%20-%20United%20States%20policy%20regarding%20the%20Freely%20Associated%20States.md) | United States policy regarding the Freely Associated States. |
+| [1989\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001989%20-%20Additional%20authorities.md) | Additional authorities. |
+| [1990\.](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/%C2%A7%2001990%20-%20Compact%20appropriations.md) | Compact appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -88,3 +105,4 @@
 - [Subchapter 001 (I) - Micronesia and Marshall Islands](Subchapter%20001%20%28I%29%20-%20Micronesia%20and%20Marshall%20Islands/README.md)
 - [Subchapter 002 (II) - Palau](Subchapter%20002%20%28II%29%20-%20Palau/README.md)
 - [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)
+- [Subchapter 004 (IV) - Micronesia, Marshall Islands, and Palau 2023 Agreements](Subchapter%20004%20%28IV%29%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau%202023%20Agreements/README.md)

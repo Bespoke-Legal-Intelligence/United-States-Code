@@ -120,7 +120,7 @@
 
 #### (III) Development of procedure to ensure compliance
 
-&emsp;&emsp;&emsp;&emsp;The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, thenapparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under this paragraph during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under this paragraph during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (vi) Special rules
 
@@ -142,7 +142,7 @@
 
 #### (IV) Special origin rule
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or\(iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
 
 #### (vii) Textile luggage
 
@@ -168,7 +168,7 @@
 
 #### (ii) Penalties for countries
 
-&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the ATPDEA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce thequantities of apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
+&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the ATPDEA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce the quantities of apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
 
 #### (iii) Transshipment described
 
@@ -276,7 +276,7 @@
 
 #### (B) ATPDEA beneficiary country
 
-&emsp;&emsp;The term "ATPDEA beneficiary country" means any "beneficiary country", as defined in section 3202(a)(1) of this title, which the President designates as an ATPDEA beneficiary country, taking into account the criteria contained in subsections (c) and (d) of section 3202 of this title and other appropriate criteria, including the following:
+&emsp;&emsp;The term "ATPDEA beneficiary country" means any "beneficiary country", as definedin section 3202(a)(1) of this title, which the President designates as an ATPDEA beneficiary country, taking into account the criteria contained in subsections (c) and (d) of section 3202 of this title and other appropriate criteria, including the following:
 
 &emsp;&emsp;&emsp;(i) Whether the beneficiary country has demonstrated a commitment to—
 
@@ -382,7 +382,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2),Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
 
 #### <b>Editorial Notes</b>
 
@@ -512,7 +512,7 @@ Entry.—As used in this subsection, the term 'entry' includes a withdrawal from
 
 "(c)
 
-Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service \[Bureau of Customs and Border Protection\], within 180 days after the date of the enactment of this Act \[Dec. 3, 2004\], and such request contains sufficient information to enable the Customs Service—
+Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service \[Bureau of Customs and Border Protection\], within 180 days after the date of the enactment of this Act \[Dec.3, 2004\], and such request contains sufficient information to enable the Customs Service—
 
 &emsp;"(1) to locate the entry; or
 
@@ -538,7 +538,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 2\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to authorize the President to proclaim duty-free treatment for any article described in section 204(b)(1)(A) through (D) of the ATPA, as amended, that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of section 204 of the ATPA, as amended, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
-3\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to provide that eligible textile and apparel articles of a designated ATPDEA beneficiary country shall enter the United States free of duty and free of quantitative limitations, provided that the President determines that the country has satisfied therequirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
+3\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to provide that eligible textile and apparel articles of a designated ATPDEA beneficiary country shall enter the United States free of duty and free of quantitative limitations, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
 4\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to provide that eligible tuna products of a designated ATPDEA beneficiary country shall enter the United States free of duty and free of quantitative limitations, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
@@ -574,5 +574,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Suspension of Designation of Beneficiary Countries
 
-Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiary country for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
+Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiary country for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub.L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
 

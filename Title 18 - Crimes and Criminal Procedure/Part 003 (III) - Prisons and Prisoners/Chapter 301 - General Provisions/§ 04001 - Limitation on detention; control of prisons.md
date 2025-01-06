@@ -42,7 +42,7 @@ Pub. L. 105–370, §1, Nov. 12, 1998, 112 Stat. 3374, provided that: "This Act 
 
 #### Research and Report on Women in Federal Incarceration
 
-Pub. L. 117–103, div. W, title X, §1003, Mar. 15, 2022, 136 Stat. 917, provided that: "Not later than 18 months after the date of enactment of this Act \[Mar. 15, 2022\], and thereafter, every other year, the National Institute of Justice, in consultation with the Bureau of Justice Statistics and the Bureau of Prisons (including the Women and Special Population Branch) shall prepare a report on the status of women in Federal incarceration. Depending on the topic to be addressed, and the facility, data shall be collected from Bureau of Prisons personnel and a sample that is representative of the population of incarcerated women. The report shall include—
+Pub. L. 117–103, div. W, title X, §1003, Mar. 15, 2022, 136 Stat. 917, provided that: "Not later than 18 monthsafter the date of enactment of this Act \[Mar. 15, 2022\], and thereafter, every other year, the National Institute of Justice, in consultation with the Bureau of Justice Statistics and the Bureau of Prisons (including the Women and Special Population Branch) shall prepare a report on the status of women in Federal incarceration. Depending on the topic to be addressed, and the facility, data shall be collected from Bureau of Prisons personnel and a sample that is representative of the population of incarcerated women. The report shall include—
 
 &emsp;"(1) with regard to Federal facilities wherein women are incarcerated—
 

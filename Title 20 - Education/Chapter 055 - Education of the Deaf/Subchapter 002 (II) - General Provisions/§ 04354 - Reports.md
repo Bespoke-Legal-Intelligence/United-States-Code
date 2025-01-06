@@ -20,7 +20,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;&emsp;(G) Strategies (such as parent groups and training classes in the development of individualized education programs) used by the elementary and secondary programs and the extension centers to reach and actively involve minority parents in the educational programs of their children who are deaf or hard of hearing and the number of parents who have been served as a result of these activities.
 
-&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of theUniversity, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of NTID programs and activities, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
+&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of the University, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of NTID programs and activities, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
 
 &emsp;(4) For the preceding fiscal year, a statement showing the receipts of the University and NTID and from what Federal sources, and a statement showing the expenditures of each institution by function, activity, and administrative and academic unit.
 

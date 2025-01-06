@@ -54,7 +54,7 @@ Pub. L. 111–383, div. A, title V, §534(a)(2), Jan. 7, 2011, 124 Stat. 4217, a
 
 <b>1986</b>—Pub. L. 99–661, div. A, title VI, §604(d)(4), Nov. 14, 1986, 100 Stat. 3876, struck out "; disability from injury" after "30 days or less" in items 1204, 1205, 1206.
 
-<b>1962</b>—Pub. L. 87–651, title I, §107(e), Sept. 7, 1962, 76 Stat. 509, substituted "Discharge or release from active duty: claims for compensation, pension, or hospitalization" for "Explanation of rights before discharge" in item 1218, and "Statement of origin of disease or injury: limitations" for "Statement against interestvoid" in item 1219, and struck out item 1220 "Location of accredited representatives at military installations".
+<b>1962</b>—Pub. L. 87–651, title I, §107(e), Sept. 7, 1962, 76 Stat. 509, substituted "Discharge or release from active duty: claims for compensation, pension, or hospitalization" for "Explanation of rights before discharge" in item 1218, and "Statement of origin of disease or injury: limitations" for "Statement against interest void" in item 1219, and struck out item 1220 "Location of accredited representatives at military installations".
 
 <b>1958</b>—Pub. L. 85–861, §1(28)(C), Sept. 2, 1958, 72 Stat. 1451, added item 1221.
 

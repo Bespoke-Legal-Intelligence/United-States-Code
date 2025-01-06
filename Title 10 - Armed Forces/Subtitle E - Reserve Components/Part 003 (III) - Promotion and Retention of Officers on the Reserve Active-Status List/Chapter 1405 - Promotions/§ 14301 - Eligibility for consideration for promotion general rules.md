@@ -24,7 +24,7 @@ Certain Officers Not To Be Considered.—A promotion board convened under sectio
 
 &emsp;(4) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
-&emsp;(5) An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under section 14308(b)(4) of this title.
+&emsp;(5) An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (juniorgrade) who is on an approved all-fully-qualified-officers list under section 14308(b)(4) of this title.
 
 &emsp;(6) An officer excluded under subsection (j).
 
@@ -38,7 +38,7 @@ Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force 
 
 (f)
 
-Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
+Nonconsideration of Officers Scheduled for Removal From Reserve Active-status List.—The Secretary of the military department concerned may, by regulation, preclude from consideration by a selection board by which an officer would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened or an approved retirement date.
 
 (g)
 
@@ -74,7 +74,7 @@ Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) T
 
 (2) The Secretary concerned may only approve a request under paragraph (1) if—
 
-&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
 
 &emsp;(B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
 
@@ -84,11 +84,15 @@ Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) T
 
 Certain Officers Not to Be Considered for Selection for Promotion.—The Secretary of the military department concerned may provide that an officer who is in an active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section (relating to membership in a reserve component), shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the reserve active-status list.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L.105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, §521, Dec. 2, 2002, 116 Stat. 2540; Pub. L. 112–81, div. A, title V, §517, Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title V, §§505(b), 513, Aug. 13, 2018, 132 Stat. 1743, 1752.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L.105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, §521, Dec. 2, 2002, 116 Stat. 2540; Pub. L. 112–81, div. A, title V, §517, Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title V, §§505(b), 513, Aug. 13, 2018, 132 Stat. 1743, 1752; Pub. L. 118–159, div. A, title V, §§503(c), 505(a)(2), Dec. 23, 2024, 138 Stat. 1868, 1869.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f). Pub. L. 118–159, §503(c), amended subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened."
+
+Subsec. (j)(2)(A). Pub. L. 118–159, §505(a)(2), inserted "training," after "Department," and substituted "assignment, education, or training" for "assignment or education".
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232, §505(b)(1)(A), substituted "Certain Officers Not" for "Previously Selected Officers Not Eligible" in heading.
 

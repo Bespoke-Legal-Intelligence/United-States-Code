@@ -2,7 +2,7 @@
 
 #### (A) In general
 
-Not later than 2 years after June 10, 2014, and every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report detailing the amounts expended in the previous 5 fiscal years to carry out Corps of Engineers projects under section 701n of this title.
+Not later than 2 years after June 10, 2014, and every 2 years thereafter, the Secretary shallsubmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report detailing the amounts expended in the previous 5 fiscal years to carry out Corps of Engineers projects under section 701n of this title.
 
 #### (B) Inclusions
 

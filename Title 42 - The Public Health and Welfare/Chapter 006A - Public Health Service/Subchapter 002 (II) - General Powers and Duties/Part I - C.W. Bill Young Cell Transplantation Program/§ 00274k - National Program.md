@@ -122,7 +122,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(A) has obtained all applicable Federal and State licenses, certifications, registrations (including pursuant to the regulations of the Food and Drug Administration), and other authorizations required to operate and maintain a cord blood bank;
 
-&emsp;&emsp;(B) has implemented donor screening, cord blood collection practices, and processing methods intended to protect the health and safety of donors and transplant recipients to improve transplant outcomes, including with respect to the transmission of potentially harmful infections and other diseases;
+&emsp;&emsp;(B) has implemented donor screening, cord blood collection practices, and processingmethods intended to protect the health and safety of donors and transplant recipients to improve transplant outcomes, including with respect to the transmission of potentially harmful infections and other diseases;
 
 &emsp;&emsp;(C) is accredited by an accreditation entity recognized by the Secretary under subsection (b);
 
@@ -192,7 +192,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 &emsp;The Program shall support activities, in cooperation with qualified cord blood banks, for the recruitment of cord blood donors. Such recruitment program shall identify populations that are underrepresented among cord blood donors. In the case of populations that are identified under the preceding sentence:
 
-&emsp;&emsp;(A) The Program shall give priority to supporting activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable cord blood unit that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
+&emsp;&emsp;(A) The Program shall give priority to supporting activities under this part to increaserepresentation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable cord blood unit that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
 &emsp;&emsp;(B) The Program shall consider racial and ethnic minority groups (including persons of mixed ancestry) to be populations that have been identified for purposes of this paragraph, and shall support activities under subparagraph (A) with respect to such populations.
 
@@ -264,7 +264,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (A) In general
 
-&emsp;&emsp;In serving as an advocate for a patient under paragraph (2), the Office shall provide individualized case management services directly to the patient (or family members, physicians, or other individuals acting on behalf of the patient), including—
+&emsp;&emsp;In serving as an advocate for a patient under paragraph (2), the Office shall provideindividualized case management services directly to the patient (or family members, physicians, or other individuals acting on behalf of the patient), including—
 
 &emsp;&emsp;&emsp;(i) individualized case assessment; and
 
@@ -280,7 +280,7 @@ The Secretary shall establish and provide information to the public on procedure
 
 #### (j) Consultation
 
-In developing policies affecting the Program, the Secretary shall consult with the AdvisoryCouncil, the Department of Defense Marrow Donor Recruitment and Research Program operated by the Department of the Navy, and the board of directors of each entity awarded a contract under this section.
+In developing policies affecting the Program, the Secretary shall consult with the Advisory Council, the Department of Defense Marrow Donor Recruitment and Research Program operated by the Department of the Navy, and the board of directors of each entity awarded a contract under this section.
 
 #### (k) Contracts
 
@@ -336,7 +336,7 @@ Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in 
 
 <b>2021</b>—Subsec. (a)(7). Pub. L. 117–15, §2(a), added par. (7).
 
-Subsec. (d)(2)(B). Pub. L. 117–15, §2(b)(2), struck out at end "If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public."
+Subsec. (d)(2)(B). Pub. L. 117–15, §2(b)(2), struck out at end "If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units,consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public."
 
 Pub. L. 117–15, §2(b)(1), made technical amendment to directory language of Pub. L. 114–104, §2(a)(2). See 2015 Amendment note below.
 
@@ -428,7 +428,7 @@ Proceedings.—In any administrative proceeding or lawsuit described in subsecti
 
 #### Cord Blood Inventory
 
-Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, §2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, §3, Dec. 18, 2015, 129 Stat. 2217; Pub. L. 117–15, §3, May 26, 2021, 135 Stat. 278, provided that:
+Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, §2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, §3, Dec. 18, 2015, 129 Stat. 2217;Pub. L. 117–15, §3, May 26, 2021, 135 Stat. 278, provided that:
 
 "(a)
 
@@ -446,7 +446,7 @@ Requirements.—The Secretary shall require each recipient of a contract under t
 
 &emsp;"(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research;
 
-&emsp;"(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of thePublic Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
+&emsp;"(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
 
 &emsp;"(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[42 U.S.C. 274l\], as amended by this Act.
 
@@ -528,7 +528,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which theRegistry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

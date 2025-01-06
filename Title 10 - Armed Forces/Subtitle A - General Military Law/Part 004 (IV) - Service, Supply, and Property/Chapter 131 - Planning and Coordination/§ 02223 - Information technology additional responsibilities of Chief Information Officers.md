@@ -62,6 +62,72 @@ Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted "section 11103 of t
 
 Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: "Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998."
 
+#### Modernization of the Department of Defense's Authorization To Operate Processes
+
+Pub. L. 118–159, div. A, title XV, §1522, Dec. 23, 2024, 138 Stat. 2140, provided that:
+
+"(a)
+
+Active Directory of Authorizing Officials.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense, acting through the Chief Information Officer of the Department of Defense and in coordination with the Chief Information Officers of the military departments, shall establish and regularly update a digital directory of all authorizing officials in the military departments.
+
+&emsp;"(2)
+
+Contents.—The directory established under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) the most current contact information for such authorizing official; and
+
+&emsp;&emsp;"(B) a list of each training required to perform the duties and responsibilities of an authorizing official completed by such authorizing official.
+
+"(b)
+
+Presumption of Reciprocal Software Accrediting Standards.—
+
+&emsp;"(1)
+
+Policy required.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall implement a policy that requires authorizing officials to adopt the security analysis and artifacts, as appropriate, of a cloud-hosted platform, service, or application that has already been authorized by another authorizing official in the Department of Defense in order to more rapidly adopt and use such cloud-hosted platforms, services, and applications, at the corresponding classification level and in accordance with the existing authorization conditions, without additional authorizations or reviews.
+
+&emsp;"(2)
+
+Elements.—The Secretary shall ensure that the policy implemented under paragraph (1)—
+
+&emsp;&emsp;"(A) ensures the development of standardized and transparent documentation of the security, accreditation, performance, and operational capabilities of cloud-hosted platforms, services, and applications to enable decision making by mission owners of such cloud-hosted platforms, services, and applications;
+
+&emsp;&emsp;"(B) provides for an intuitive and digital workflow to document acknowledgments among mission owners and system owners of use of the operational capabilities of cloud-hosted platforms, services, and applications;
+
+&emsp;&emsp;"(C) directs a review by mission owners of existing authorization information, at the appropriate classification level, regarding the status of the operational capabilities of cloud-hosted platforms, services, and applications, including through management dashboards or other management analytic capabilities; and
+
+&emsp;&emsp;"(D) defines a process, including required timelines, to allow authorizing officials that disagree with the security analysis of a cloud-hosted platform, service, or application that such official would be required to adopt under such policy to present such disagreement to the Chief Information Officer of the Department of Defense, or such other individual or entity designated by the Chief Information Officer, for adjudication.
+
+&emsp;"(3)
+
+Applicability.—The policy implemented pursuant to subsection (a) shall apply to—
+
+&emsp;&emsp;"(A) all authorizing officials in the Department of Defense, including in each military department, component, and agency of the Department; and
+
+&emsp;&emsp;"(B) all operational capabilities of cloud-hosted platforms, services, and applications, including capabilities on public cloud infrastructure, as authorized through the Federal Risk and Authorization Management Program established under section 3608 of title 44, United States Code, and the Defense Information Systems Agency, and capabilities on private cloud landing zones managed by the Department of Defense that are authorized by Department accrediting officials.
+
+"(c)
+
+Report.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the implementation of subsections (a) and (b).
+
+"(d)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Authorization to Operate' has the meaning given such term in the Office of Management and Budget Circular A-130;
+
+&emsp;"(2) the term 'authorizing official' means an officer who is authorized to assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the United States;
+
+&emsp;"(3) the term 'military departments' has the meaning given such term in section 101(a) of title 10, United States Code;
+
+&emsp;"(4) the term 'mission owner' means the user of a cloud-based platform, service, or application; and
+
+&emsp;"(5) the term 'system owner' means the element of the Department of Defense responsible for acquiring a cloud-based platform, service, or application, but which is not a mission owner of such cloud-based platform, service, or application."
+
 #### Required Policies To Establish Datalink Strategy of Department of Defense
 
 Pub. L. 118–31, div. A, title XV, §1527, Dec. 22, 2023, 137 Stat. 559, provided that:
@@ -88,7 +154,7 @@ Elements.—The policies under paragraph (1) shall provide for, at a minimum, th
 
 &emsp;&emsp;"(E) Coordination of the strategy with respect to weapon systems executing the same mission types across the military departments, including through the use of a common set of datalink waveforms. In developing such policy, the Secretary shall evaluate the use of redundant datalinks for line-of-sight and beyond-line-of-sight information exchange for each weapon systems platform.
 
-&emsp;&emsp;"(F) Coordination between the Department and the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) to leverage any efficiencies and overlap with existing datalink waveforms of the intelligence community.
+&emsp;&emsp;"(F) Coordination between the Department and the intelligence community (as such term is defined in section 3 of the National Security Act of1947 (50 U.S.C. 3003)) to leverage any efficiencies and overlap with existing datalink waveforms of the intelligence community.
 
 &emsp;&emsp;"(G) Methods to support the rapid integration of common datalinks across the military departments.
 
@@ -190,7 +256,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Report to Congress.—Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall provide a report to Congress with details of the plan of the Department of Defense to implement the pilot program required by subsection (a). Such plan shall include identifying candidate software programs, selection criteria, intellectual property and licensing issues, and other matters determined by the Secretary.
+Report to Congress.—Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall provide a report to Congresswith details of the plan of the Department of Defense to implement the pilot program required by subsection (a). Such plan shall include identifying candidate software programs, selection criteria, intellectual property and licensing issues, and other matters determined by the Secretary.
 
 "(c)
 

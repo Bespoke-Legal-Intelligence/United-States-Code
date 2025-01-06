@@ -6,7 +6,7 @@ Additional Forms of Transactions Authorized.—The Secretary of Defense and the 
 
 (b)
 
-Exercise of Authority by Secretary of Defense.—In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
+Exercise of Authority by Secretary of Defense.—In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or any other element of the Department of Defense that the Secretary may designate.
 
 (c)
 
@@ -28,7 +28,7 @@ Conditions.—The Secretary of Defense shall ensure that—
 
 (f)
 
-Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments, the Defense Innovation Unit, and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 
 (g)
 
@@ -57,16 +57,6 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 &emsp;(iii) Technical information submitted on a confidential basis.
 
 (Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403, §2371; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title VIII, §863, Dec. 12, 2017, 131 Stat. 1494; renumbered §4021 and amended Pub. L. 116–283, div. A, title XVIII, §1841(b)(1), (2)(B), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title VIII, §821(a), title XVII, §1701(u)(2)(B), (F)(i)(III), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 118–31, div. A, title IX, §913(a)(2), Dec. 22, 2023, 137 Stat. 367.)
-
-#### Amendment of Subsections (b) and (f)
-
-<i>Pub. L. 118–31, div. A, title IX, §913(a)(2), (b), Dec. 22, 2023, 137 Stat. 367, 368, provided that, effective 180 days after Dec. 22, 2023, with additional implementation requirements, this section is amended as follows:</i>
-
-<i>(1) in subsection (b), by inserting ", the Defense Innovation Unit," after "Defense Advanced Research Projects Agency"; and</i>
-
-<i>(2) in subsection (f), by striking "and the Defense Advanced Research Projects Agency" and inserting ", the Defense Innovation Unit, and the Defense Advanced Research Projects Agency".</i>
-
-<i>See 2023 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -178,13 +168,45 @@ Amendment by Pub. L. 118–31 effective 180 days after Dec. 22, 2023, with addit
 
 #### Effective Date of 2021 Amendment
 
-Amendment by section 1701(u)(2)(B), (F)(i)(III) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+Amendment by section 1701(u)(2)(B), (F)(i)(III) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of this title.
+
+#### Tracking Awards Made Through Other Transaction Authority
+
+Pub. L. 118–159, div. A, title VIII, §888, Dec. 23, 2024, 138 Stat. 2023, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Under Secretary of Defense for Acquisition and Sustainment shall establish a process to track the number and value of awards to small businesses and nontraditional defense contractors performing on transactions using other transaction authority, including transactions carried out through consortia.
+
+"(b)
+
+Data Collection.—The Under Secretary of Defense for Acquisition and Sustainment shall, to the extent practicable—
+
+&emsp;"(1) minimize the reporting requirements imposed on small businesses and nontraditional defense contractors by the process established under subsection (a); and
+
+&emsp;"(2) maximize the use of existing data collection processes of the Department of Defense or the expertise of a consortia-manager under such process.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Nontraditional defense contractor.—The term 'nontraditional defense contractor' has the meaning given such term in section 3014 of title 10, United States Code.
+
+&emsp;"(2)
+
+Other transaction authority.—The term 'other transaction authority' means the authority provided under sections 4021 and 4022 of title 10, United States Code.
+
+&emsp;"(3)
+
+Small business.—The term 'small business' has the meaning given the term 'small business concern' under section 3(a) of the Small Business Act (15 U.S.C. 632(a))."
 
 #### Reporting Requirement for Certain Defense Acquisition Activities
 
@@ -234,7 +256,7 @@ Publication of Information.—Not later than one year after the date of enactmen
 
 #### Listing of Other Transaction Authority Consortia
 
-Pub. L. 116–283, div. A, title VIII, §833, Jan. 1, 2021, 134 Stat. 3753, provided that: "Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of title 41, United States Code, a list of the consortia used by the Secretary to announce or otherwise make available opportunities to enter into a transaction under the authority of section 2371 of title 10,United States Code \[now 10 U.S.C. 4021\], or a transaction for a prototype project under section 2371b of such title \[now 10 U.S.C. 4022\]."
+Pub. L. 116–283, div. A, title VIII, §833, Jan. 1, 2021, 134 Stat. 3753, provided that: "Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of title 41, United States Code, a list of the consortia used by the Secretary to announce or otherwise make available opportunities to enter into a transaction under the authority of section 2371 of title 10, United States Code \[now 10 U.S.C. 4021\], or a transaction for a prototype project under section 2371b of such title \[now 10 U.S.C. 4022\]."
 
 #### Data, Policy, and Reporting on the Use of Other Transactions
 
@@ -258,7 +280,7 @@ Report Required.—
 
 &emsp;"(1)
 
-In general.—Not later than December 31, 2019, and annually thereafter through December 31, 2023, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of other transaction authority to carry out prototype projects during the preceding fiscal year. Each report shall summarize the data collected under subsection (a) on the nature and extent of each such use of the authority, including a description—
+In general.—Not later than December 31, 2019, and annually thereafter through December 31, 2023, the Secretary of Defense shall submit to the congressional defense committees \[Committees on ArmedServices and Appropriations of the Senate and the House of Representatives\] a report on the use of other transaction authority to carry out prototype projects during the preceding fiscal year. Each report shall summarize the data collected under subsection (a) on the nature and extent of each such use of the authority, including a description—
 
 &emsp;&emsp;"(A) of the participants to an agreement entered into pursuant to the authority of subsection (a) of section 2371b of title 10, United States Code \[now 10 U.S.C. 4022\], or a follow-on contract or transaction entered into pursuant to the authority of subsection (f) of such section;
 

@@ -92,7 +92,7 @@
 
 #### (C) Additional period for certain strategic national stockpile countermeasures
 
-&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6bof this title, if such countermeasure was the subject of a declaration under paragraph (1) at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
+&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6b of this title, if such countermeasure was the subject of a declaration under paragraph (1) at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
 
 #### (4) Amendments to declaration
 
@@ -160,7 +160,7 @@
 
 #### (3) Proof of willful misconduct
 
-&emsp;In an action under subsection (d), the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person sued and that such willfulmisconduct caused death or serious physical injury.
+&emsp;In an action under subsection (d), the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person sued and that such willful misconduct caused death or serious physical injury.
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration
 
@@ -234,7 +234,7 @@
 
 #### (2) Governing law
 
-&emsp;The substantive law for decision in an action under subsection (d) shall be derived from the law, including choice of law principles, of the State in which the alleged willful misconduct occurred, unless such law is inconsistent with or preempted by Federal law, including provisions of this section.
+&emsp;The substantive law for decision in an action under subsection (d) shall be derived from thelaw, including choice of law principles, of the State in which the alleged willful misconduct occurred, unless such law is inconsistent with or preempted by Federal law, including provisions of this section.
 
 #### (3) Pleading with particularity
 
@@ -288,7 +288,7 @@
 
 #### (B) Standard
 
-&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production ofdocuments, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
+&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
 
 #### (7) Reduction in award of damages for collateral source benefits
 
@@ -302,7 +302,7 @@
 
 #### (C) Collateral source benefit defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "collateral source benefit" means any amount paid or to be paid in the future to or on behalf of the plaintiff, or any service, product, or other benefit provided or to be provided in the future to or on behalf of the plaintiff, as a result of the injury or wrongful death, pursuant to—
+&emsp;&emsp;For purposes of this paragraph, the term "collateral source benefit" means any amount paid or to be paid in the future to or on behalf of the plaintiff, or any service,product, or other benefit provided or to be provided in the future to or on behalf of the plaintiff, as a result of the injury or wrongful death, pursuant to—
 
 &emsp;&emsp;&emsp;(i) any State or Federal health, sickness, income-disability, accident, or workers' compensation law;
 
@@ -372,7 +372,7 @@ In this section:
 
 #### (3) Distributor
 
-&emsp;The term "distributor" means a person or entity engaged in the distribution of drugs, biologics, or devices, including but not limited to manufacturers; repackers; common carriers; contract carriers; air carriers; own-label distributors; private-label distributors; jobbers; brokers; warehouses, and wholesale drug warehouses; independent wholesale drug traders; and retail pharmacies.
+&emsp;The term "distributor" means a person or entity engaged in the distribution of drugs, biologics, or devices, including but not limitedto manufacturers; repackers; common carriers; contract carriers; air carriers; own-label distributors; private-label distributors; jobbers; brokers; warehouses, and wholesale drug warehouses; independent wholesale drug traders; and retail pharmacies.
 
 #### (4) Manufacturer
 
@@ -452,7 +452,7 @@ The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h),
 
 &emsp;"(i) approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or successor regulations);
 
-&emsp;"(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\] (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
+&emsp;"(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
 
 &emsp;"(iii) used during the period beginning on January 27, 2020, and ending on October 1, 2024, in response to the public health emergency declared on January 31, 2020, pursuant to section 247d of this title as a result of confirmed cases of 2019 Novel Coronavirus (2019-nCoV)."
 

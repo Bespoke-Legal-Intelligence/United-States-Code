@@ -38,7 +38,7 @@ Inapplicability of Certain Contract Requirements.—Notwithstanding chapter 63 o
 
 Acquisition and Acceptance of Property and Interests.—(1) An agreement with an eligible entity or entities under this section shall provide for—
 
-&emsp;(A) the acquisition by an eligible entity or entities of all right, title, and interest in and to any real property, or any lesser interest in the property, as may be appropriate for purposes of this section; and
+&emsp;(A) the acquisition by an eligible entity or entities of all right, title, and interest in and to any real property, or any lesser interest inthe property, as may be appropriate for purposes of this section; and
 
 &emsp;(B) the sharing by the United States and an eligible entity or entities of the acquisition costs in accordance with paragraph (3).
 
@@ -88,7 +88,7 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 (f)
 
-Acquisition of Water Rights.—The authority of the Secretary concerned to enter intoan agreement under this section for the acquisition of real property (or an interest therein) includes the authority to support the purchase of water rights from any available source when necessary to support or protect the mission of a military installation.
+Acquisition of Water Rights.—The authority of the Secretary concerned to enter into an agreement under this section for the acquisition of real property (or an interest therein) includes the authority to support the purchase of water rights from any available source when necessary to support or protect the mission of a military installation.
 
 (g)
 
@@ -138,7 +138,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Clear Zone Area" means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, §312(a), Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(f)(23), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2811(g), Dec. 12, 2017, 131 Stat. 1848; Pub. L. 115–232, div. A, title III, §312(i), div. B, title XXVIII, §2827(b)(1), Aug. 13, 2018, 132 Stat. 1711, 2270; Pub. L. 116–283, div. A, title III, §§312(a)–(b)(2), (c), 315(b), title IX, §924(b)(33), title X, §1081(d)(12), Jan. 1, 2021, 134 Stat. 3513–3515, 3826, 3874; Pub. L. 117–81, div. A, title III, §317(b), Dec. 27, 2021, 135 Stat. 1631; Pub. L. 118–31, div. A, title III, §§311(c)(1), 314, Dec. 22, 2023, 137 Stat. 215, 216.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, §312(a), Dec. 26, 2013,127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(f)(23), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2811(g), Dec. 12, 2017, 131 Stat. 1848; Pub. L. 115–232, div. A, title III, §312(i), div. B, title XXVIII, §2827(b)(1), Aug. 13, 2018, 132 Stat. 1711, 2270; Pub. L. 116–283, div. A, title III, §§312(a)–(b)(2), (c), 315(b), title IX, §924(b)(33), title X, §1081(d)(12), Jan. 1, 2021, 134 Stat. 3513–3515, 3826, 3874; Pub. L. 117–81, div. A, title III, §317(b), Dec. 27, 2021, 135 Stat. 1631; Pub. L. 118–31, div. A, title III, §§311(c)(1), 314, Dec. 22, 2023, 137 Stat. 215, 216.)
 
 #### <b>Editorial Notes</b>
 

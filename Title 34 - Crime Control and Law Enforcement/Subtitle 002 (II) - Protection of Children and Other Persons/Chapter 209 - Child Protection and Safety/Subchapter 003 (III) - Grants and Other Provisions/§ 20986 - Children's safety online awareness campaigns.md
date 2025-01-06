@@ -8,7 +8,7 @@
 
 #### (2) Required components
 
-&emsp;The public awareness campaign described under paragraph (1) shall include components that compliment <sup>1</sup> and reinforce the campaign message in a variety of media, including the Internet, television, radio, and billboards.
+&emsp;The public awareness campaign described under paragraph (1) shall include components that compliment <sup>1</sup> and reinforce the campaignmessage in a variety of media, including the Internet, television, radio, and billboards.
 
 #### (b) Awareness campaign regarding the accessibility and utilization of sex offender registries
 

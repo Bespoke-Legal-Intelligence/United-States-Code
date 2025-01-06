@@ -122,11 +122,11 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (2) Post-1981 act projects
 
-&emsp;Not more than 15 percent of the dwelling units which become available for occupancyunder section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
+&emsp;Not more than 15 percent of the dwelling units which become available for occupancy under section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
 
 #### (3) Targeting
 
-&emsp;For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by extremely low-income families.
+&emsp;For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy inany fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by extremely low-income families.
 
 #### (4) Prohibition of skipping
 
@@ -192,13 +192,13 @@ Notwithstanding subsection (a)(2) or (b)(1), if approved by the Secretary, a pub
 
 &emsp;&emsp;&emsp;(iv) any amounts recovered in any civil action or settlement based on a claim of malpractice, negligence, or other breach of duty owed to a member of the family and arising out of law, that resulted in a member of the family being disabled;
 
-&emsp;&emsp;&emsp;(v) the value of any Coverdell education savings account under section 530 of title26 or any qualified tuition program under section 529 of such title; and
+&emsp;&emsp;&emsp;(v) the value of any Coverdell education savings account under section 530 of title 26 or any qualified tuition program under section 529 of such title; and
 
 &emsp;&emsp;&emsp;(vi) such other exclusions as the Secretary may establish.
 
 #### (C) Trust funds
 
-&emsp;&emsp;In cases in which a trust fund has been established and the trust is not revocable by, or under the control of, any member of the family or household, the value of the trust fund shall not be considered an asset of a family if the fund continues to be held in trust. Any income distributed from the trust fund shall be considered income for purposes of section 1437a(b) of this title and any calculations of annual family income, except in the case of medical expenses for a minor.
+&emsp;&emsp;In cases in which a trust fund has been established and the trust is not revocable by, or under the control of, any member of the family or household, the value of the trust fund shall not be considered an asset of a family if the fund continues to be held in trust. Any income distributed from the trustfund shall be considered income for purposes of section 1437a(b) of this title and any calculations of annual family income, except in the case of medical expenses for a minor.
 
 #### (3) Self-certification
 
@@ -246,7 +246,7 @@ Notwithstanding subsection (a)(2) or (b)(1), if approved by the Secretary, a pub
 
 &emsp;(iv) The public housing agency shall inform any person who provides authorization pursuant to this paragraph of the duration and scope of the authorization.
 
-&emsp;(D) If an applicant for, or recipient of, benefits under this chapter (or any such other person referred to in subparagraph (A)) refuses to provide, or revokes, any authorization made by the applicant or recipient for the public housing agency to obtain from any financial institution any financial record, the public housing agency may, on that basis, determine that the applicant or recipient is ineligible for benefits under this subchapter.
+&emsp;(D) If an applicant for, or recipient of, benefits under this chapter (or any such other person referred to in subparagraph (A)) refuses to provide, or revokes, any authorization made by the applicant or recipient for the public housing agency to obtain from any financial institution any financial record, the public housing agency may, on that basis, determinethat the applicant or recipient is ineligible for benefits under this subchapter.
 
 #### (f) Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises
 
@@ -266,7 +266,7 @@ Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably 
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (c)(6)(B), (G), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which is classified principally to chapter 42 (§4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of Title 12, Banks and Banking, and which amended section 1715z–6 of Title 12, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended section 1715z–15 of Title 12 and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
@@ -290,7 +290,7 @@ Subsec. (c)(3). Pub. L. 113–76, §238(b)(3), substituted "extremely low-income
 
 <b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end "; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
-<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
+<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to\(d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
 Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 

@@ -32,7 +32,7 @@ For purposes of subsection (a), the term "immediate family member" means a paren
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–246, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;".
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–246, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;".
 
 Subsec. (d). Pub. L. 114–246, §2(b), added subsec. (d).
 

@@ -14,7 +14,7 @@ For purposes of this part:
 
 #### (A) Appropriate congressional committees
 
-&emsp;&emsp;The term "appropriate congressional committees" means the committees referred toin subparagraph (B) and any other committees of the Congress that have jurisdiction involving the matter with respect to which consultations are to be held.
+&emsp;&emsp;The term "appropriate congressional committees" means the committees referred to in subparagraph (B) and any other committees of the Congress that have jurisdiction involving the matter with respect to which consultations are to be held.
 
 #### (B) Congressional committees
 

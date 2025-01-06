@@ -44,7 +44,7 @@ Authorized Preventive Health Services.—(1) The Secretary of Defense shall spec
 
 (e)
 
-Data Collection.—At a minimum, the Secretary of Defense shall monitor and record the health of members receiving a preventive health services allowance and their dependentsand the results of the testing required to qualify for payment of the allowance, if conducted. The Secretary shall assess the medical utility of the testing required to qualify for payment of a preventive health allowance.
+Data Collection.—At a minimum, the Secretary of Defense shall monitor and record the health of members receiving a preventive health services allowance and their dependents and the results of the testing required to qualify for payment of the allowance, if conducted. The Secretary shall assess the medical utility of the testing required to qualify for payment of a preventive health allowance.
 
 (f)
 

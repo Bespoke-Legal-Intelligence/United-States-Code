@@ -36,7 +36,7 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

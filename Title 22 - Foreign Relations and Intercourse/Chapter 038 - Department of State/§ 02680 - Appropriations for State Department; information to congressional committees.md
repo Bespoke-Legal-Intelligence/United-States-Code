@@ -44,7 +44,7 @@ Diplomatic and consular programs funds.—Amounts made available to the Departme
 
 "(2)
 
-Availability.—To pay benefits or payments made available pursuant to this Act, the Secretary of State may merge with the amounts described in paragraph (1) unobligated balances of funds appropriated under the 'Diplomatic and Consular Programs' heading for fiscal year 2014 and subsequent fiscal years, up until the end of the fifth fiscal year after the fiscal year for which such funds were appropriated or otherwise made available."
+Availability.—To pay benefits or payments made available pursuant to this Act, the Secretary ofState may merge with the amounts described in paragraph (1) unobligated balances of funds appropriated under the 'Diplomatic and Consular Programs' heading for fiscal year 2014 and subsequent fiscal years, up until the end of the fifth fiscal year after the fiscal year for which such funds were appropriated or otherwise made available."
 
 #### Future Assistance Projections
 
@@ -66,7 +66,7 @@ Pub. L. 95–426, title I, §122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub.
 
 Pub. L. 92–226, title IV, §407(a), Feb. 7, 1972, 86 Stat. 35, provided that: "It is the purpose of this section \[amending sections 1476, 2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under section 4301 of Title 2, The Congress\], with respect to—
 
-&emsp;"(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and theUnited States Information Agency and of matters relating to the foreign relations of the United States; and
+&emsp;"(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and
 
 &emsp;"(2) providing periodic authorizations of appropriations for that Department and Agency."
 

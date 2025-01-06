@@ -32,13 +32,13 @@ Term; Reappointment.—The Commander, Marine Forces Reserve, is appointed for a 
 
 Annual Report.—The Commander, Marine Forces Reserve, shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Marine Corps Reserve and the ability of the Marine Corps Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant of the Marine Corps and may be submitted in classified and unclassified versions.
 
-(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692, §5144; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, §502(ee), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title X, §1051(a)(29), Dec. 12, 2017, 131 Stat. 1562; renumbered §8084 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–92, div. A, title V, §514(a), Dec. 20, 2019, 133 Stat. 1349.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692, §5144; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, §502(ee), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title X, §1051(a)(29), Dec. 12, 2017, 131 Stat. 1562; renumbered §8084 and amended Pub. L. 115–232, div. A, title VIII,§§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–92, div. A, title V, §514(a), Dec. 20, 2019, 133 Stat. 1349.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 8084 was renumbered section 9084 of this title.
+A prior section 8084 was successively renumbered section 9084, 9068, and 9083 of this title and subsequently repealed.
 
 #### Amendments
 

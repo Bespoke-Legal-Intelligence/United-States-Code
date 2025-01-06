@@ -22,7 +22,7 @@
 
 &emsp;(6) the debtor will be able to make all payments under the plan and to comply with the plan; and
 
-&emsp;(7) the debtor has paid all amounts that are required to be paid under a domestic support obligation and that first become payable after the date of the filing of the petition if the debtor is required by a judicial or administrative order, or by statute, to pay such domestic support obligation.
+&emsp;(7) the debtor has paid all amounts that are required to be paid under a domestic support obligation and that first become payable after the date of the filing of the petition if thedebtor is required by a judicial or administrative order, or by statute, to pay such domestic support obligation.
 
 (b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
 

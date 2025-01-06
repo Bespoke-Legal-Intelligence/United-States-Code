@@ -28,7 +28,7 @@
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(1), (2), (5), (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(1), (2), (5) and (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Codification
 
@@ -40,7 +40,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–193 substituted "the Commonwealth of the Northern Mariana Islands" for "the Trust Territory of the Pacific Islands".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–147, §211(a), amended subsec. (a) as identically amended by Pub. L. 99–591, §329, and Pub. L. 99–661, §4209, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–147, §211(a), amended subsec. (a) as identically amended by Pub. L. 99–591, §329, and Pub. L. 99–661, §4209, to read as if only theamendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 101–147, §321(1), substituted "the Secretary" for "he" before "may deem".
 

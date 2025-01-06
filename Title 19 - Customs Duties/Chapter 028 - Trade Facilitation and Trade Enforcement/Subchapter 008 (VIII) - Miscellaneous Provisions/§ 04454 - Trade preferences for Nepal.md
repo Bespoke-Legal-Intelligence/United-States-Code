@@ -114,7 +114,7 @@ Congress makes the following findings:
 
 #### (2) Establishment of trade facilitation and capacity building program
 
-&emsp;Not later than 180 days after February 24, 2016, the President shall, in consultation with the Government of Nepal, establish a trade facilitation and capacity building program for Nepal—
+&emsp;Not later than 180 days after February 24, 2016, the President shall, in consultation withthe Government of Nepal, establish a trade facilitation and capacity building program for Nepal—
 
 &emsp;&emsp;(A) to enhance the central export promotion agency of Nepal to support successful exporters and to build awareness among potential exporters in Nepal about opportunities abroad and ways to manage trade documentation and regulations in the United States and other countries;
 
@@ -152,7 +152,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(
 
 #### Delegation of Functions
 
-Functions of President under subsec. (d) of this section assigned to the Administrator of the United StatesAgency for International Development, in consultation with the Secretary of State and the United States Trade Representative, and under subsec. (e) of this section assigned to the United States Trade Representative, in consultation with the Secretary of State, see Ex. Ord. No. 13733, §1(c), (d), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of this title.
+Functions of President under subsec. (d) of this section assigned to the Administrator of the United States Agency for International Development, in consultation with the Secretary of State and the United States Trade Representative, and under subsec. (e) of this section assigned to the United States Trade Representative, in consultation with the Secretary of State, see Ex. Ord. No. 13733, §1(c), (d), July 22, 2016, 81 F.R. 49515, set out as a note under section 4421 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

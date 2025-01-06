@@ -40,7 +40,7 @@
 
 (f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, §204(d)(2),\(3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, §402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, §5(b), May 4, 1990, 104 Stat. 159.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, §204(d)(2), (3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, §402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, §5(b), May 4, 1990, 104 Stat. 159.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 91–405, §204(d)(3), included reference to Delegate.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: "The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: "The amendments made by this section\[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
 
 #### Effective Date of 1970 Amendment
 
@@ -112,7 +112,7 @@ Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
 "(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
-"(b) As used in this section, the term 'international telecommunications meeting or conference' means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetingsor conferences as the Secretary of State may designate."
+"(b) As used in this section, the term 'international telecommunications meeting or conference' means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate."
 
 #### <b>Executive Documents</b>
 

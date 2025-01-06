@@ -44,7 +44,7 @@ Section was formerly classified to section 404h of this title prior to editorial
 
 <b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–458 substituted "Director of National Intelligence" for "Director of Central Intelligence" in introductory provisions.
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–306 struck out heading and text of subsec. (c). Text read as follows: "Not later than March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) during the 12-month period ending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details."
+<b>2002</b>—Subsec. (c). Pub. L. 107–306 struck out heading and text of subsec. (c). Text read as follows: "Not laterthan March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) during the 12-month period ending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details."
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–108 designated existing provisions as par. (1) and added par. (2).
 

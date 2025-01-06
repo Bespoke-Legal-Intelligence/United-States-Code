@@ -14,7 +14,7 @@ The President shall take all appropriate steps to assure that, to the maximum ex
 
 #### (c) Voluntary family planning programs; limitation
 
-In addition to funds otherwise available, excess foreign currencies, as defined in subsection (b), may be made available to friendly foreign governments and to private, nonprofit United States organizations to carry out voluntary family planning programs in countries which request such assistance. No such program shall be assisted unless the President has received assurances that in the administration of such program the recipient will take reasonable precautions to insure that no person receives any family planning assistance or supplies unless he desires such services. The excess foreign currencies made available under this subsection shall not, in any one year, exceed 5 per centum of the aggregate of all excess foreign currencies. As used in this subsection, the term "voluntary family planning program" includes, but is not limited to, demographic studies, medical and psychological research, personnel training, the construction and staffing of clinics and rural health centers, specialized training of doctors and paramedical personnel, the manufacture ofmedical supplies, and the dissemination of family planning information, medical assistance, and supplies to individuals who desire such assistance.
+In addition to funds otherwise available, excess foreign currencies, as defined in subsection (b), may be made available to friendly foreign governments and to private, nonprofit United States organizations to carry out voluntary family planning programs in countries which request such assistance. No such program shall be assisted unless the President has received assurances that in the administration of such program the recipient will take reasonable precautions to insure that no person receives any family planning assistance or supplies unless he desires such services. The excess foreign currencies made available under this subsection shall not, in any one year, exceed 5 per centum of the aggregate of all excess foreign currencies. As used in this subsection, the term "voluntary family planning program" includes, but is not limited to, demographic studies, medical and psychological research, personnel training, the construction and staffing of clinics and rural health centers, specialized training of doctors and paramedical personnel, the manufacture of medical supplies, and the dissemination of family planning information, medical assistance, and supplies to individuals who desire such assistance.
 
 #### (d) Reciprocal release of dollar value equivalents
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 117–328, div. K, title VII, §7026, Dec. 29, 2022, 136 Stat. 5019, provided that:
+Pub. L. 118–47, div. F, title VII, §7026, Mar. 23, 2024, 138 Stat. 776, provided that:
 
 "(a)
 
@@ -68,7 +68,7 @@ Separate Accounts for Local Currencies.—
 
 &emsp;"(1)
 
-Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
+Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 22 U.S.C. 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
 
 &emsp;&emsp;"(A) require that local currencies be deposited in a separate account established by that government;
 
@@ -106,7 +106,7 @@ Separate Accounts for Cash Transfers.—
 
 &emsp;"(1)
 
-In general.—If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle with any other funds.
+In general.—If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[22 U.S.C. 2151 et seq., 22 U.S.C. 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle with any other funds.
 
 &emsp;"(2)
 
@@ -121,6 +121,8 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, §7026, Dec. 29, 2022, 136 Stat. 5019.
 
 Pub. L. 117–103, div. K, title VII, §7026, Mar. 15, 2022, 136 Stat. 609.
 

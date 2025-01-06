@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The initial determination of the amount of benefits available to the individual under such parts.
 
-&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI.
+&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) ofthis title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI.
 
 #### (2) Deadlines for making initial determinations
 
@@ -50,7 +50,7 @@
 
 #### (D) Construction
 
-&emsp;&emsp;For purposes of the succeeding provisions of this section a redetermination under thisparagraph shall be considered to be part of the initial determination.
+&emsp;&emsp;For purposes of the succeeding provisions of this section a redetermination under this paragraph shall be considered to be part of the initial determination.
 
 #### (4) Requirements of notice of determinations
 
@@ -92,7 +92,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary tothe same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -120,7 +120,7 @@
 
 #### (i) Reconsiderations
 
-&emsp;&emsp;&emsp;Reconsideration under subparagraph (A) shall be available only if the individual described in subparagraph (A) files noticewith the Secretary to request reconsideration by not later than the end of the 180-day period beginning on the date the individual receives notice of the redetermination under subsection (a)(3), or within such additional time as the Secretary may allow.
+&emsp;&emsp;&emsp;Reconsideration under subparagraph (A) shall be available only if the individual described in subparagraph (A) files notice with the Secretary to request reconsideration by not later than the end of the 180-day period beginning on the date the individual receives notice of the redetermination under subsection (a)(3), or within such additional time as the Secretary may allow.
 
 #### (ii) Hearings conducted by the Secretary
 
@@ -218,7 +218,7 @@
 
 #### (2) Qualified independent contractor
 
-&emsp;For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
+&emsp;For purposes of this subsection, the term "qualified independent contractor" means anentity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements
 
@@ -246,7 +246,7 @@
 
 #### (III) Absence of national or local coverage determination
 
-&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coveragedetermination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
+&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coverage determination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
 
 #### (C) Deadlines for decisions
 
@@ -276,7 +276,7 @@
 
 #### (iv) Extension
 
-&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may be granted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
+&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may begranted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
 
 #### (D) Qualifications for reviewers
 
@@ -342,7 +342,7 @@
 
 #### (iii) Limitations on entity compensation
 
-&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor in connection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
+&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor inconnection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
 
 #### (4) Number of qualified independent contractors
 
@@ -378,7 +378,7 @@
 
 #### (A) Hearing by administrative law judge
 
-&emsp;&emsp;In the case of a failure by an administrative law judge to render a decision by theend of the period described in paragraph (1), the party requesting the hearing may request a review by the Departmental Appeals Board of the Department of Health and Human Services, notwithstanding any requirements for a hearing for purposes of the party's right to such a review.
+&emsp;&emsp;In the case of a failure by an administrative law judge to render a decision by the end of the period described in paragraph (1), the party requesting the hearing may request a review by the Departmental Appeals Board of the Department of Health and Human Services, notwithstanding any requirements for a hearing for purposes of the party's right to such a review.
 
 #### (B) Departmental Appeals Board review
 
@@ -718,7 +718,7 @@ Subsec. (b)(2). Pub. L. 108–173, §932(a)(1)(B), added par. (2).
 
 Subsec. (b)(3). Pub. L. 108–173, §933(a)(1), added par. (3).
 
-Subsec. (c)(3)(A). Pub. L. 108–173, §933(d)(1)(A), substituted "sufficient medical, legal, and other expertise\(including knowledge of the program under this subchapter) and sufficient staffing" for "sufficient training and expertise in medical science and legal matters".
+Subsec. (c)(3)(A). Pub. L. 108–173, §933(d)(1)(A), substituted "sufficient medical, legal, and other expertise (including knowledge of the program under this subchapter) and sufficient staffing" for "sufficient training and expertise in medical science and legal matters".
 
 Subsec. (c)(3)(B)(i). Pub. L. 108–173, §933(b), inserted "(including the medical records of the individual involved)" after "clinical experience".
 
@@ -796,7 +796,7 @@ Subsec. (b)(3), (4). Pub. L. 99–509, §9341(a)(1)(D), added pars. (3) and (4).
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2011 Amendment
 
@@ -886,7 +886,7 @@ Transition Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than April 1, 2004, the Commissioner of Social Security and the Secretary\[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (and related provisions in title XI of such Act \[42 U.S.C. 1301 et seq.\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
+In general.—Not later than April 1, 2004, the Commissioner of Social Security and the Secretary \[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (and related provisions in title XI of such Act \[42 U.S.C. 1301 et seq.\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
 
 &emsp;"(2)
 
@@ -954,7 +954,7 @@ Additional information.—The plan may also include recommendations for further 
 
 &emsp;"(4) GAO
 
-evaluation.—The Comptroller General of the United States shall evaluate the plan and, not later than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
+evaluation.—The Comptroller General of the United States shall evaluate the plan and, notlater than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
 
 "(b)
 
@@ -996,7 +996,7 @@ Increased Financial Support.—In addition to any amounts otherwise appropriated
 
 #### Transition
 
-Pub. L. 108–173, title IX, §933(d)(5), Dec. 8, 2003, 117 Stat. 2406, provided that: "In applying section 1869(g) of the Social Security Act \[42 U.S.C. 1395ff(g)\] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the SocialSecurity Act (42 U.S.C. 1395h) and a carrier under section 1842 of such Act (42 U.S.C. 1395u)."
+Pub. L. 108–173, title IX, §933(d)(5), Dec. 8, 2003, 117 Stat. 2406, provided that: "In applying section 1869(g) of the Social Security Act \[42 U.S.C. 1395ff(g)\] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and a carrier under section 1842 of such Act (42 U.S.C. 1395u)."
 
 #### Process for Correction of Minor Errors and Omissions Without Pursuing Appeals Process
 

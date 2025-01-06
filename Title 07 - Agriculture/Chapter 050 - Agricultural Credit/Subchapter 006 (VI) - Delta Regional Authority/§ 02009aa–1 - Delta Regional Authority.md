@@ -120,7 +120,7 @@ In carrying out subsection (d), the Authority may—
 
 &emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
-&emsp;(6) request the head of any State department or agency or local government to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
+&emsp;(6) request the head of any State department or agency or local government to detail to theAuthority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
 &emsp;(7) provide for coverage of Authority employees in a suitable retirement and employee benefit system by—
 
@@ -136,9 +136,11 @@ In carrying out subsection (d), the Authority may—
 
 &emsp;&emsp;(B) any State (including a political subdivision, agency, or instrumentality of the State); or
 
-&emsp;&emsp;(C) any person, firm, association, or corporation; and
+&emsp;&emsp;(C) any person, firm, association, or corporation;
 
-&emsp;(10) establish and maintain a central office and field offices at such locations as the Authority may select.
+&emsp;(10) establish and maintain a central office and field offices at such locations as the Authority may select; and
+
+&emsp;(11) collect fees for the Delta Doctors program of the Authority and retain and expend those fees.
 
 #### (f) Federal agency cooperation
 
@@ -224,7 +226,7 @@ A Federal agency shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
+&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director andsuch other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
 
 #### (ii) Exception
 
@@ -236,9 +238,11 @@ A Federal agency shall—
 
 &emsp;&emsp;&emsp;(i) the carrying out of the administrative duties of the Authority;
 
-&emsp;&emsp;&emsp;(ii) direction of the Authority staff; and
+&emsp;&emsp;&emsp;(ii) direction of the Authority staff;
 
-&emsp;&emsp;&emsp;(iii) such other duties as the Authority may assign.
+&emsp;&emsp;&emsp;(iii) assuming the duties of the Federal cochairperson and the alternate Federal cochairperson for purposes of continuation of normal operations in the event that both positions are vacant; and
+
+&emsp;&emsp;&emsp;(iv) such other duties as the Authority may assign.
 
 #### (C) No Federal employee status
 
@@ -248,7 +252,7 @@ A Federal agency shall—
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), no State member, alternate, officer, or employeeof the Authority shall participate personally and substantially as a member, alternate, officer, or employee of the Authority, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in any proceeding, application, request for a ruling or other determination, contract, claim, controversy, or other matter in which, to knowledge of the member, alternate, officer, or employee—
+&emsp;Except as provided under paragraph (2), no State member, alternate, officer, or employee of the Authority shall participate personally and substantially as a member, alternate, officer, or employee of the Authority, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in any proceeding, application, request for a ruling or other determination, contract, claim, controversy, or other matter in which, to knowledge of the member, alternate, officer, or employee—
 
 &emsp;&emsp;(A) the member, alternate, officer, or employee;
 
@@ -276,11 +280,15 @@ A Federal agency shall—
 
 The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.
 
-(Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, §506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, §402, Oct. 28, 2009, 123 Stat. 2878.)
+(Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, §506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, §402, Oct. 28, 2009, 123 Stat. 2878; Pub. L. 118–272, div. B, title II, §2253(c), (d), Jan. 4, 2025, 138 Stat. 3213.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (e)(11). Pub. L. 118–272, §2253(c), added par. (11).
+
+Subsec. (h)(5)(B)(iii), (iv). Pub. L. 118–272, §2253(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
 

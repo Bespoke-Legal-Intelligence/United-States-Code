@@ -84,7 +84,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (7) Dispute resolution
 
-&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, between program managers and employment networks, and between program managers and providers of services. The Commissioner shall afford aparty to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
+&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, between program managers and employment networks, and between program managers and providers of services. The Commissioner shall afford a party to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
 
 #### (e) Program managers
 
@@ -134,7 +134,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;(A) serve prescribed service areas; and
 
-&emsp;&emsp;(B) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subsection (g).
+&emsp;&emsp;(B) take such measures as are necessary to ensure that employment services, vocationalrehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subsection (g).
 
 #### (3) Annual financial reporting
 
@@ -246,7 +246,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Number and amounts of milestone payments
 
-&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such analteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
+&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
 
 #### (C) Report on the adequacy of incentives
 
@@ -316,7 +316,7 @@ Not later than 1 year after December 17, 1999, the Commissioner shall prescribe 
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973,87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -404,7 +404,7 @@ Pub. L. 108–203, title IV, §406, Mar. 2, 2004, 118 Stat. 527, provided that:
 
 Report.—Not later than 12 months after the date of enactment of this Act \[Mar. 2, 2004\], the Comptroller General of the United States shall submit a report to Congress regarding the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act (42 U.S.C. 1320b–19) that—
 
-&emsp;"(1) examines the annual and interim reports issued by States, the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999 \[Pub. L. 106–170\] (42 U.S.C. 1320b–19 note), and the Commissioner of Social Security regarding such program;
+&emsp;"(1) examines the annual and interim reports issued by States, the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999 \[Pub. L. 106–170\] (42 U.S.C. 1320b–19 note),and the Commissioner of Social Security regarding such program;
 
 &emsp;"(2) assesses the effectiveness of the activities carried out under such program; and
 
@@ -480,7 +480,7 @@ In general.—The Commissioner shall provide for independent evaluations to asse
 
 &emsp;"(B)
 
-Consultation.—Evaluations shall be conducted under this paragraph after receiving relevant advice from experts in the fields of disability, vocational rehabilitation, and program evaluation and individuals using tickets to work and self-sufficiency under the Program and in consultation with the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of this Act \[set out as a note below\], the Comptroller General of the United States, other agencies of the Federal Government, and private organizations with appropriate expertise.
+Consultation.—Evaluations shall be conducted under this paragraph after receiving relevantadvice from experts in the fields of disability, vocational rehabilitation, and program evaluation and individuals using tickets to work and self-sufficiency under the Program and in consultation with the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of this Act \[set out as a note below\], the Comptroller General of the United States, other agencies of the Federal Government, and private organizations with appropriate expertise.
 
 &emsp;"(C)
 

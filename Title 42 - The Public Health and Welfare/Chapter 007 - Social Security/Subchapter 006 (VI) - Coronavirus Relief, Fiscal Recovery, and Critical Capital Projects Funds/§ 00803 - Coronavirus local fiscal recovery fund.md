@@ -24,7 +24,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (B) Allocation and payment
 
-&emsp;&emsp;From the amount reserved under subparagraph (A), the Secretary shall allocate and, in accordance with paragraph (7), pay to each State an amount which bears the same proportion to such reserved amount as the total population of all areas that are non-metropolitan cities in the State bears to the total population of all areas that are non-metropolitan cities in all such States.
+&emsp;&emsp;From the amount reserved under subparagraph (A), the Secretary shall allocate and, in accordance with paragraph (7), pay toeach State an amount which bears the same proportion to such reserved amount as the total population of all areas that are non-metropolitan cities in the State bears to the total population of all areas that are non-metropolitan cities in all such States.
 
 #### (C) Distribution to nonentitlement units of local government
 
@@ -78,7 +78,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (ii) Counties that are not units of general local government
 
-&emsp;&emsp;&emsp;In the case of an amount to be paid to a county that is not a unit of general local government, the amount shall instead be paid to the State in which such county is located, and such State shall distribute such amount to each unit of general local government within such county in an amount that bears the same proportion to the amount to be paid to such county as the population of such units of general local government bears to the total population of such county.
+&emsp;&emsp;&emsp;In the case of an amount to be paid to a county that is not a unit of general localgovernment, the amount shall instead be paid to the State in which such county is located, and such State shall distribute such amount to each unit of general local government within such county in an amount that bears the same proportion to the amount to be paid to such county as the population of such units of general local government bears to the total population of such county.
 
 #### (iii) District of Columbia
 
@@ -136,7 +136,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (4) Transfers to States
 
-&emsp;Notwithstanding paragraph (1), a metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer such funds to the State in which such entity is located.
+&emsp;Notwithstanding paragraph (1), a metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section maytransfer such funds to the State in which such entity is located.
 
 #### (5) Use of funds to satisfy non-Federal matching, maintenance of effort, or other expenditure requirement
 
@@ -178,7 +178,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (iii) Application of requirements
 
-&emsp;&emsp;&emsp;Except as otherwise determined by the Secretary or the head of a Federal agencyto which the Secretary has delegated authority pursuant to clause (iv) or provided in this section—
+&emsp;&emsp;&emsp;Except as otherwise determined by the Secretary or the head of a Federal agency to which the Secretary has delegated authority pursuant to clause (iv) or provided in this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements of section 1702 of title 47 shall apply to funds provided under a payment made under this section that are used pursuant to subparagraph (A) for a project described in clause (xxvi) of section 802(c)(5)(B) of this title that relates to broadband infrastructure; and
 
@@ -206,7 +206,7 @@ Any metropolitan city, nonentitlement unit of local government, or county receiv
 
 #### (e) Recoupment
 
-Any metropolitan city, nonentitlement unit of local government, or county that has failed to comply with subsection (c) shall be required to repay to the Secretary an amount equal to the amount of funds used in violation of such subsection.
+Any metropolitan city, nonentitlement unit of local government, or county that has failed tocomply with subsection (c) shall be required to repay to the Secretary an amount equal to the amount of funds used in violation of such subsection.
 
 #### (f) Regulations
 

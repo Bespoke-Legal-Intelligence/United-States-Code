@@ -68,7 +68,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Employer notification.—Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
+Employer notification.—Not later than 90 days after the date of enactment ofthis subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
 
 &emsp;&emsp;&emsp;(i) such notification is appropriate considering the potential security implications; and
 
@@ -126,7 +126,7 @@ Contents.—The report shall—
 
 &emsp;&emsp;&emsp;(i) include a list of background checks and other security or threat assessment requirements applicable to transportation workers under Federal laws for which the Department of Homeland Security is responsible and the process by which the Secretary of Homeland Security will determine whether such checks or assessments are equivalent to, or less stringent than, the background check performed under this section; and
 
-&emsp;&emsp;&emsp;(ii) provide an analysis of how the Director plans to reduce or eliminate redundantbackground checks in a manner that will continue to ensure the highest level of safety and security.
+&emsp;&emsp;&emsp;(ii) provide an analysis of how the Director plans to reduce or eliminate redundant background checks in a manner that will continue to ensure the highest level of safety and security.
 
 (h)
 

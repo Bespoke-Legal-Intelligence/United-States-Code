@@ -6,7 +6,7 @@ The Bureau is authorized to establish such rules, regulations, and procedures as
 
 #### (b) Use of State and local administrative and investigative assistance
 
-(1) In making determinations under section 10281 of this title, the Bureau may utilize such administrative and investigative assistance asmay be available from State and local agencies. Responsibility for making final determinations shall rest with the Bureau.
+(1) In making determinations under section 10281 of this title, the Bureau may utilize such administrative and investigative assistance as may be available from State and local agencies. Responsibility for making final determinations shall rest with the Bureau.
 
 (2) In making a determination under section 10281 of this title, the Bureau shall give substantial weight to the evidence and all findings of fact presented by a State, local, or Federal administrative or investigative agency regarding eligibility for death or disability benefits.
 

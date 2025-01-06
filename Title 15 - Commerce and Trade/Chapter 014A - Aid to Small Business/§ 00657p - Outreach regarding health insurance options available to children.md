@@ -40,7 +40,7 @@ In this section—
 
 &emsp;&emsp;(A) efforts to educate the owners of small business concerns about the value of health coverage for children;
 
-&emsp;&emsp;(B) information regarding options available to the owners and employees of small business concerns to make insurance more affordable, including Federal and State tax deductions and credits for health care-related expenses and health insurance expenses and Federal tax exclusion for health insurance options available under employer-sponsored cafeteria plans under section 125 of title 26;
+&emsp;&emsp;(B) information regarding options available to the owners and employees of smallbusiness concerns to make insurance more affordable, including Federal and State tax deductions and credits for health care-related expenses and health insurance expenses and Federal tax exclusion for health insurance options available under employer-sponsored cafeteria plans under section 125 of title 26;
 
 &emsp;&emsp;(C) efforts to educate the owners of small business concerns about assistance available through public programs; and
 
@@ -100,5 +100,5 @@ Section was enacted as part of the Children's Health Insurance Program Reauthori
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
 

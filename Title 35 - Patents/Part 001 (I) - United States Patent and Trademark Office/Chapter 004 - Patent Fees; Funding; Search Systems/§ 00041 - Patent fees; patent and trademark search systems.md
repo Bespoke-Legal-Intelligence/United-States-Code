@@ -238,9 +238,9 @@ Annual report to congress.—The Director shall submit to the Congress an annual
 
 (j)
 
-Penalty for False Assertions.—In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
+Penalty for False Assertions.—In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall, unless the entity shows that the assertion was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535; Pub. L. 117–328, div. W, §107(a), (b)(1), Dec. 29, 2022, 136 Stat. 5521.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535; Pub. L. 117–328, div. W, §107(a), (b)(1), Dec. 29, 2022, 136 Stat. 5521; Pub. L. 118–151, §1(1), Dec. 17, 2024, 138 Stat. 1685.)
 
 #### Historical and Revision Notes
 
@@ -270,6 +270,8 @@ Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classifie
 
 #### Amendments
 
+<b>2024</b>—Subsec. (j). Pub. L. 118–151 inserted ", unless the entity shows that the assertion was made in good faith," before "be subject".
+
 <b>2022</b>—Subsec. (h)(1). Pub. L. 117–328, §107(a)(1), substituted "60 percent" for "50 percent".
 
 Subsec. (h)(3). Pub. L. 117–328, §107(a)(2), substituted "80 percent" for "75 percent".
@@ -292,7 +294,7 @@ Subsec. (d). Pub. L. 112–29, §11(c), amended subsec. (d) generally. Prior to 
 
 &emsp;"(3) For each black and white copy of a patent, $3.
 
-> The yearly fee for providing a library specified in section 13 of this title with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50."
+> The yearly fee for providing a library specified in section 13 of this title with uncertified printed copies ofthe specifications and drawings for all patents in that year shall be $50."
 
 Subsec. (e). Pub. L. 112–29, §20(j), struck out "of this title" after "132".
 
@@ -372,7 +374,7 @@ Subsec. (a). Pub. L. 102–204, §5(a)(1), amended subsec. (a) generally. Prior 
 
 &emsp;"d. On issuing each plant patent, $250.
 
-"4. On filing each application for the reissue of a patent, $300; in addition, on filing or on presentation at any other time, $30 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $10 for each claim (whether independent or dependent) which is in excess of twenty and also in excess of the number of claims of the original patent. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
+"4. On filing each application for the reissue of a patent, $300; in addition, on filing or on presentation at any other time, $30 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $10 for each claim (whether independent or dependent) which is in excess of twentyand also in excess of the number of claims of the original patent. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
 
 "5. On filing each disclaimer, $50.
 
@@ -442,7 +444,7 @@ Subsec. (b). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Pat
 
 <b>1965</b>—Subsec. (a)1. Pub. L. 89–83, §1, increased the filing fee for original patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty to $10 for each claim in independent form which is in excess of one and $2 for each claim (whether independent or dependent) which is in excess of ten, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
 
-Subsec. (a)2. Pub. L. 89–83, §1, applied the issue fee to reissue patents as well as to original patents, increased such fee from $30 to $100, and changed the additional fee from $1 for each claim in excess of twenty to $10 for each page (or portion thereof) of specification as printed and $2 for each sheet of drawing.
+Subsec. (a)2. Pub. L. 89–83, §1, applied the issue fee to reissue patents as well as to original patents, increased such fee from $30 to $100, and changed the additional fee from $1 for each claim in excess of twenty to $10 foreach page (or portion thereof) of specification as printed and $2 for each sheet of drawing.
 
 Subsec. (a)3. Pub. L. 89–83, §1, changed the fee structure applicable to design patents from a filing fee of $10, $15, or $30 for terms of 3½, 7, or 14 years, respectively, to a filing fee of $20 and an issue fee of $10, $20, or $30 for terms of 3½, 7, or 14 years, respectively.
 
@@ -518,7 +520,7 @@ Pub. L. 102–204, §13, Dec. 10, 1991, 105 Stat. 1642, provided that: "This Act
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–622, title II, §207, Nov. 8, 1984, 98 Stat. 3389, provided that: "Section 206 of this Act \[98 Stat. 3388\] and the amendments made by this title \[amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, section 1295 of Title 28, Judiciary and JudicialProcedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare\] shall take effect three months after the date of the enactment of this Act \[Nov. 8, 1984\]."
+Pub. L. 98–622, title II, §207, Nov. 8, 1984, 98 Stat. 3389, provided that: "Section 206 of this Act \[98 Stat. 3388\] and the amendments made by this title \[amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare\] shall take effect three months after the date of the enactment of this Act \[Nov. 8, 1984\]."
 
 #### Effective Date of 1982 Amendment
 
@@ -596,7 +598,7 @@ Reduction of Fees in Certain Fiscal Years.—In each fiscal year, the Director�
 
 Role of the Public Advisory Committee.—The Director shall—
 
-&emsp;"(1) not less than 45 days before publishing any proposed fee under subsection (a) in the Federal Register, submit the proposed fee to the Patent PublicAdvisory Committee or the Trademark Public Advisory Committee, or both, as appropriate;
+&emsp;"(1) not less than 45 days before publishing any proposed fee under subsection (a) in the Federal Register, submit the proposed fee to the Patent Public Advisory Committee or the Trademark Public Advisory Committee, or both, as appropriate;
 
 &emsp;"(2)(A) provide the relevant advisory committee described in paragraph (1) a 30-day period following the submission of any proposed fee, in which to deliberate, consider, and comment on such proposal;
 
@@ -738,7 +740,7 @@ Effective date.—This subsection shall take effect on the date that is 10 days 
 
 &emsp;"(B)
 
-Termination.—The fee imposed under paragraph (1)(A)(i), and the reduced fee under paragraph (2), shall terminate on the effective date of the setting or adjustment of the fee under paragraph\(1)(A)(i) pursuant to the exercise of the authority under section 10 \[enacting section 123 of this title and provisions set out as a note under this section\] for the first time with respect to that fee."
+Termination.—The fee imposed under paragraph (1)(A)(i), and the reduced fee under paragraph\(2), shall terminate on the effective date of the setting or adjustment of the fee under paragraph (1)(A)(i) pursuant to the exercise of the authority under section 10 \[enacting section 123 of this title and provisions set out as a note under this section\] for the first time with respect to that fee."
 
 #### Appropriation Account Transition Fees
 

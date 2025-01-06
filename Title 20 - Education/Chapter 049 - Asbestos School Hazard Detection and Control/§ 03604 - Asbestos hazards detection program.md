@@ -30,7 +30,7 @@
 
 (2) The Secretary shall provide the Task Force with a copy of any application submitted to the Secretary under paragraph (1).
 
-(3) No grant may be awarded by the Secretary under this section for asbestos hazards detection programs conducted before June 14, 1980, unlessthe applicant has submitted an application to the Secretary—
+(3) No grant may be awarded by the Secretary under this section for asbestos hazards detection programs conducted before June 14, 1980, unless the applicant has submitted an application to the Secretary—
 
 &emsp;(A) containing the information required under paragraph (1); and
 

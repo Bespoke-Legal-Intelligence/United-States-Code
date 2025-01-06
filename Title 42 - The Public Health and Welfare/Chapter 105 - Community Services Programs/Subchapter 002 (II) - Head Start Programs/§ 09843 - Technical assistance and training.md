@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) give priority consideration to—
 
-&emsp;&emsp;&emsp;(i) activities to correct program and management deficiencies identified through reviews carried out pursuant to section 9836a(c) of this title (including theprovision of assistance to local programs in the development of quality improvement plans under section 9836a(d)(2) of this title);
+&emsp;&emsp;&emsp;(i) activities to correct program and management deficiencies identified through reviews carried out pursuant to section 9836a(c) of this title (including the provision of assistance to local programs in the development of quality improvement plans under section 9836a(d)(2) of this title);
 
 &emsp;&emsp;&emsp;(ii) assisting Head Start agencies in ensuring the school readiness of children; and
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(xiii) provide training and technical assistance to members of governing bodies, policy councils, and, as appropriate, policy committees, to ensure that the members can fulfill their functions;
 
-&emsp;&emsp;&emsp;(xiv) provide activities that help ensure that Head Start programs have qualified staff who can promote prevention of childhood obesity by integrating developmentally appropriate research-based initiatives that stress the importance of physical activity and healthy, nutritional choices in daily classroom and family routines;
+&emsp;&emsp;&emsp;(xiv) provide activities that help ensure that Head Start programs have qualifiedstaff who can promote prevention of childhood obesity by integrating developmentally appropriate research-based initiatives that stress the importance of physical activity and healthy, nutritional choices in daily classroom and family routines;
 
 &emsp;&emsp;&emsp;(xv) assist Indian Head Start agencies to provide on-site and off-site training to staff, using approaches that identify and enhance the positive resources and strengths of Indian children and families, to improve parent and family engagement and staff development, particularly with regard to child and family development; and
 
@@ -132,9 +132,9 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(I) Additional activities deemed appropriate to the improvement of Head Start programs, as determined by the technical assistance and training plans of the Head Start agencies.
 
-&emsp;(2) To support enhanced early language and literacy development of children in Head Start programs, and to provide the children with high-quality oral language skills and with environments that are rich in literature in whichto acquire language and early literacy skills. Each Head Start agency, in consultation with the State-based training and technical assistance system, as appropriate, shall ensure that—
+&emsp;(2) To support enhanced early language and literacy development of children in Head Start programs, and to provide the children with high-quality oral language skills and with environments that are rich in literature in which to acquire language and early literacy skills. Each Head Start agency, in consultation with the State-based training and technical assistance system, as appropriate, shall ensure that—
 
-&emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language and emergent literacy (referred to in this subsection as "literacy training"), including appropriate curricula and assessment to improve instruction and learning;
+&emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language andemergent literacy (referred to in this subsection as "literacy training"), including appropriate curricula and assessment to improve instruction and learning;
 
 &emsp;&emsp;(B) such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguistically appropriate manner and support children's development in their native language;
 
@@ -246,7 +246,7 @@ Subsec. (c)(4). Pub. L. 105–285, §114(a)(2)(G), added par. (4). Former par. (
 
 Pub. L. 105–285, §114(a)(2)(C), inserted "and implementing" after "developing" and substituted "the day, and assist the agencies and programs in expediting the sharing of information about innovative models for providing full-working-day, full calendar year services for children" for "a longer day" before semicolon.
 
-Subsec. (c)(5), (6). Pub. L. 105–285, §114(a)(2)(F), redesignated pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+Subsec. (c)(5), (6). Pub. L. 105–285, §114(a)(2)(F), redesignated pars. (3) and (4) as (5) and (6), respectively.Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
 Subsec. (c)(7). Pub. L. 105–285, §114(a)(2)(F), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 

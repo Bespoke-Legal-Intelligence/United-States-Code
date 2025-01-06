@@ -28,7 +28,7 @@ Subject only to the limitations provided under paragraphs (1) and (2), the charg
 
 #### (1) Post-firm properties
 
-&emsp;Any property the construction or substantial improvement of which the Administrator determines has been started after December 31, 1974, or started after the effective date of the initial rate map published by the Administrator under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, except that thechargeable rate for properties under this paragraph shall be subject to the limitation under subsection (e).
+&emsp;Any property the construction or substantial improvement of which the Administrator determines has been started after December 31, 1974, or started after the effective date of the initial rate map published by the Administrator under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, except that the chargeable rate for properties under this paragraph shall be subject to the limitation under subsection (e).
 
 #### (2) Certain leased coastal and river properties
 
@@ -60,7 +60,7 @@ Except with respect to properties described under paragraph (2) of subsection (c
 
 &emsp;&emsp;&emsp;(iii) was misrated;
 
-&emsp;(2) the chargeable risk premium rates for flood insurance under this chapter for any properties initially rated under section 4014(a)(2) of this title within any single risk classification, excluding properties for which the chargeable risk premium rate is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
+&emsp;(2) the chargeable risk premium rates for flood insurance under this chapter for any properties initially rated under section 4014(a)(2) of this title within any single risk classification, excluding properties for whichthe chargeable risk premium rate is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
 
 &emsp;(3) the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 15 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period; and
 
@@ -94,7 +94,7 @@ Notwithstanding subsection (f), the premium rate for flood insurance under this 
 
 #### (j) Premiums and reports
 
-In setting premium risk rates, in addition to striving to achieve the objectives of this chapter the Administrator shall also strive to minimize the number of policies with annual premiums that exceed one percent of the total coverage provided by the policy. For any policies premiums that exceed this one percent threshold,the Administrator shall report such exceptions to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+In setting premium risk rates, in addition to striving to achieve the objectives of this chapter the Administrator shall also strive to minimize the number of policies with annual premiums that exceed one percent of the total coverage provided by the policy. For any policies premiums that exceed this one percent threshold, the Administrator shall report such exceptions to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 #### (k) Consideration of mitigation methods
 
@@ -166,7 +166,7 @@ Subsec. (m). Pub. L. 113–89, §29, added subsec. (m).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
-Pub. L. 112–141, §100211(1), in introductory provisions, substituted "prescribe, after providing notice" for", after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation".
+Pub. L. 112–141, §100211(1), in introductory provisions, substituted "prescribe, after providing notice" for ", after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation".
 
 Subsec. (b)(5). Pub. L. 112–141, §100211(2), added par. (5).
 

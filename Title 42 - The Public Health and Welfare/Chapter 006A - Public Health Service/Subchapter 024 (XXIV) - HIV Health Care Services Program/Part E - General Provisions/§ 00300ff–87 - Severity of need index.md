@@ -12,7 +12,7 @@ In this section, the term "severity of need index" means the index of the relati
 
 When the Secretary submits to the appropriate committees of Congress the severity of need index under subsection (a), the Secretary shall provide the following:
 
-&emsp;(1) Methodology for and rationale behind developing the severity of need index, including information related to the field testing of the severity of need index.
+&emsp;(1) Methodology for and rationale behind developing the severity of need index, includinginformation related to the field testing of the severity of need index.
 
 &emsp;(2) An independent contractor analysis of activities carried out under paragraph (1).
 

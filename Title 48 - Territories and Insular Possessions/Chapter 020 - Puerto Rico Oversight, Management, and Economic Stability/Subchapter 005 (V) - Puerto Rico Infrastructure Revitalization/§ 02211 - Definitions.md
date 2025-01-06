@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (5) Emergency
 
-&emsp;The term "emergency" means any event or grave problem of deterioration in the physical infrastructure for the rendering of essential services to the people, or that endangers the life, public health, or safety of the population or of a sensitive ecosystem, or as otherwise defined by section 1 of Act 76 (3 L.P.R.A. 1931). This shall include problems in the physical infrastructure for energy, water, sewer, solid waste, highways or roads, ports, telecommunications, and other similar infrastructure.
+&emsp;The term "emergency" means any event or grave problem of deterioration in the physicalinfrastructure for the rendering of essential services to the people, or that endangers the life, public health, or safety of the population or of a sensitive ecosystem, or as otherwise defined by section 1 of Act 76 (3 L.P.R.A. 1931). This shall include problems in the physical infrastructure for energy, water, sewer, solid waste, highways or roads, ports, telecommunications, and other similar infrastructure.
 
 #### (6) Environmental Quality Board
 

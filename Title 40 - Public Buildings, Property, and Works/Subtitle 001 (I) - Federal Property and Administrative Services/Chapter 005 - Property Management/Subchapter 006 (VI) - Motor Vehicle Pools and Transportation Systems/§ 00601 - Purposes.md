@@ -158,7 +158,7 @@ Sec. 3. <i>Determination to establish an interagency motor-vehicle pool or syste
 
 (3) A statement indicating the motor vehicles and related equipment and supplies to be transferred and the amount of reimbursement, if any, to be made therefor.
 
-(b) Each determination shall be accompanied by an analytical justification which shall include a comparison of estimated costs of the present and proposed methods of operation and a showing of the estimated savings to be realized through the establishment of the proposed pool or system. The justification shall also describe the alternatives considered in making the determination, and shall include a statement concerning the availability of privately-owned facilities and equipment, and the feasibility and estimated cost (immediate and long-term) of using such facilities and equipment.
+(b) Each determination shall be accompanied by an analytical justification which shall include a comparison of estimated costs of the present and proposed methods of operation and a showing of the estimated savings to be realized through the establishment of theproposed pool or system. The justification shall also describe the alternatives considered in making the determination, and shall include a statement concerning the availability of privately-owned facilities and equipment, and the feasibility and estimated cost (immediate and long-term) of using such facilities and equipment.
 
 (c) The Administrator shall send a copy of each determination to each executive agency affected and to the Director of the Bureau of the Budget \[now the Director of the Office of Management and Budget\] (hereinafter referred to as the Director).
 
@@ -208,7 +208,7 @@ Sec. 9. <i>Motor vehicles exempted from inclusion in interagency motor-vehicle p
 
 (iii) Motor vehicles regularly used for the distribution and transportation of mails.
 
-(5) Motor vehicles which, because of their design or the special purposes for which they are used, or for other reasons, cannot advantageously be incorporated in an interagency motor-vehicle pool or system if the exemption thereof has been mutually agreed upon by the Administrator and the head of the executive agency concerned.
+(5) Motor vehicles which, because of their design or the special purposes for which they are used, or forother reasons, cannot advantageously be incorporated in an interagency motor-vehicle pool or system if the exemption thereof has been mutually agreed upon by the Administrator and the head of the executive agency concerned.
 
 (6) Motor vehicles exempted by an agency which has authority to make such an exemption under the provisions of the Act \[probably means the Federal Property and Administrative Services Act of 1949, now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\].
 

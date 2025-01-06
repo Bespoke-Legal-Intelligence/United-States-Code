@@ -74,7 +74,7 @@ An eligible entity seeking funding under this section shall submit an applicatio
 
 &emsp;An eligible entity that receives an award under this subsection shall use award funds to carry out one or more of the following activities, to the benefit of the region in which the center is located:
 
-&emsp;&emsp;(A) Providing start-ups and small business concerns (as defined in section 632 of title 15)within the region with access to facilities, scientific infrastructure, personnel, and other assets as required for technology maturation.
+&emsp;&emsp;(A) Providing start-ups and small business concerns (as defined in section 632 of title 15) within the region with access to facilities, scientific infrastructure, personnel, and other assets as required for technology maturation.
 
 &emsp;&emsp;(B) Supporting entrepreneurial training for start-up and small business personnel.
 

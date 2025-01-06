@@ -1,6 +1,6 @@
 ### §5524a. Advance payments for new appointees and employees relocating within the United States and its territories
 
-(a)(1) The head of each agency may provide for the advance payment of basic pay, covering notmore than 2 pay periods, to any individual who is newly appointed to a position in the agency.
+(a)(1) The head of each agency may provide for the advance payment of basic pay, covering not more than 2 pay periods, to any individual who is newly appointed to a position in the agency.
 
 (2) The head of each agency may provide for the advance payment of basic pay, covering not more than 4 pay periods, to an employee who is assigned to a position in the agency that is located—
 

@@ -6,7 +6,7 @@ If, in any investigation initiated under chapter 1 of title II of the Trade Act 
 
 #### (b) Presidential determination regarding imports of CAFTA–DR countries
 
-In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the President may exclude from the action goods of a CAFTA–DR country with respect to which the Commission has made a negative finding under subsection (a).
+In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the President may exclude from the action goods of a CAFTA–DR country with respect to which theCommission has made a negative finding under subsection (a).
 
 (Pub. L. 109–53, title III, §331, Aug. 2, 2005, 119 Stat. 494.)
 

@@ -84,11 +84,11 @@ Amounts Not Apportioned to Designated Recipients.—The Governor of a State may 
 
 Transfers of Apportionments.—(1) The Governor of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3).<sup>1</sup> The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
-(2) The Governor of a State may transfer any part of the State's apportionment under section5311(c)(3)<sup>1</sup> to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+(2) The Governor of a State may transfer any part of the State's apportionment under section 5311(c)(3)<sup>1</sup> to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
 (3) The Governor of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
-(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the Governor of a State. The Governor shall distribute the transferred amounts to urbanized areas under this section.
+(4) A designated recipient for an urbanized area with a population of at least 200,000 maytransfer a part of its apportionment under this section to the Governor of a State. The Governor shall distribute the transferred amounts to urbanized areas under this section.
 
 (5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
@@ -352,7 +352,7 @@ Pub. L. 114–73 substituted "and $4,180,328 for the period beginning on October
 
 Pub. L. 114–41 substituted "for each fiscal year ending before October 1, 2015, and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
-Pub. L. 114–21 substituted "and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+Pub. L. 114–21 substituted "and $24,986,301 for the period beginning on October 1, 2014, and ending on July31, 2015," for "and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
 Subsec. (h)(3). Pub. L. 114–94, §3014(3)(B), added par. (3) and struck out former par. (3), which read as follows: "of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);".
 

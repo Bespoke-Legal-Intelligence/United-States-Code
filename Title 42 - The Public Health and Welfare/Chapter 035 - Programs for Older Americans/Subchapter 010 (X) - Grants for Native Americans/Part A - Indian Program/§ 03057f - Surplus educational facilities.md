@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior throug
 
 #### (b) Applications; submission; contents
 
-Each eligible tribal organization desiring to take advantage of such surplus facilities shall submit an application to the Secretary of theInterior at such time and in such manner, and containing or accompanied by such information, as the Secretary of the Interior determines to be necessary to carry out the provisions of this section.
+Each eligible tribal organization desiring to take advantage of such surplus facilities shall submit an application to the Secretary of the Interior at such time and in such manner, and containing or accompanied by such information, as the Secretary of the Interior determines to be necessary to carry out the provisions of this section.
 
 (Pub. L. 89–73, title VI, §615, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 961.)
 

@@ -4,7 +4,7 @@
 
 #### (1) Minimum allotment
 
-&emsp;Subject to the extent of amounts made available under section 300ff–31b of this title,the amount of a grant to be made under section 300ff–21 of this title for—
+&emsp;Subject to the extent of amounts made available under section 300ff–31b of this title, the amount of a grant to be made under section 300ff–21 of this title for—
 
 &emsp;&emsp;(A) each of the 50 States, the District of Columbia, Guam, and the Virgin Islands (referred to in this paragraph as a "covered State") for a fiscal year shall be the greater of—
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate andreliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
+&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate and reliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
@@ -162,7 +162,7 @@
 
 #### (III) State requirements
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may not make a grant to a State under this clause unless the State agrees that the State will make available (directly or through donations of public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to $1 for each $4 of Federal funds provided in the grant, except that the Secretary may waive this subclause if the State has otherwise fully complied with section 300ff–27(d) of this title with respect to the grant year involved. The provisions of this subclause shall apply to States that are not required to comply with such section 300ff–27(d) of this title.
+&emsp;&emsp;&emsp;&emsp;The Secretary may not make a grant to a State under this clause unless theState agrees that the State will make available (directly or through donations of public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to $1 for each $4 of Federal funds provided in the grant, except that the Secretary may waive this subclause if the State has otherwise fully complied with section 300ff–27(d) of this title with respect to the grant year involved. The provisions of this subclause shall apply to States that are not required to comply with such section 300ff–27(d) of this title.
 
 #### (IV) Use and coordination
 
@@ -192,7 +192,7 @@
 
 #### (ii) Fiscal years 2011 and 2012
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the totalfor a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
+&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
 
 #### (iii) Fiscal year 2013
 
@@ -230,7 +230,7 @@
 
 #### (B) Allocations
 
-&emsp;&emsp;In the case of entities and subcontractors to which a State allocates amounts received by the State under a grant under section 300ff–21 of this title, the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
+&emsp;&emsp;In the case of entities and subcontractors to which a State allocates amounts received by the State under a grant under section300ff–21 of this title, the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
 
 #### (C) Administrative activities
 
@@ -388,7 +388,7 @@ Subsec. (a)(2)(F)(ii). Pub. L. 109–415, §203(c)(2), which directed amendment 
 
 Subsec. (a)(2)(F)(iii). Pub. L. 109–415, §203(c)(3), which directed amendment of subsec. (a)(2)(G) by adding cl. (iii), was executed by making the amendment to subsec. (a)(2)(F), to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(G). Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (G). Text read as follows: "The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee."
+Subsec. (a)(2)(G). Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (G). Text read as follows: "The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjustthe grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee."
 
 Subsec. (a)(2)(H). Pub. L. 109–415, §203(d), added subpar. (H).
 
@@ -506,5 +506,5 @@ For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703
 
 Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be " 'non-EMA".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "non-EMA".</i>
 

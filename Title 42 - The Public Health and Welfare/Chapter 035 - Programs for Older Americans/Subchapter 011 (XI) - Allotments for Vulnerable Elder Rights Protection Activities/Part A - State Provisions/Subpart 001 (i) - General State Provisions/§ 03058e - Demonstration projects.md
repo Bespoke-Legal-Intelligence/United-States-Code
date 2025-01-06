@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-From amounts made available under section 3024(d)(1)(C) of this title after September 30, 1992, each State may provide for the establishment ofat least one demonstration project, to be conducted by one or more area agencies on aging within the State, for outreach to older individuals with greatest economic need with respect to—
+From amounts made available under section 3024(d)(1)(C) of this title after September 30, 1992, each State may provide for the establishment of at least one demonstration project, to be conducted by one or more area agencies on aging within the State, for outreach to older individuals with greatest economic need with respect to—
 
 &emsp;(1) benefits available under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State program established in accordance with such title);
 
@@ -20,7 +20,7 @@ Each outreach project carried out under subsection (a) shall—
 
 &emsp;(3) be coordinated with State and local entities that administer benefits under such titles.
 
-(Pub. L. 89–73, title VII, §706, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1275; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 89–73, title VII, §706, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1275; amended Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### <b>Editorial Notes</b>
 
@@ -46,7 +46,7 @@ A prior section 706 of Pub. L. 89–73 was classified to section 3045e of this t
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

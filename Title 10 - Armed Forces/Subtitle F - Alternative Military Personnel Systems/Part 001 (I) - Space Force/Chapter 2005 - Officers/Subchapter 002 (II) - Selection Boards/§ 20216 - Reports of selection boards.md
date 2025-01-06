@@ -14,19 +14,17 @@ Officers Who Should Be Required to Show Cause for Retention.—A selection board
 
 (c)
 
-Officers Recommended to Be Placed Higher on the Promotion List.—A selection board convened under section 20211 of this title shall, when authorized under section 20214(g) <sup>1</sup> of this title, include in its report the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
+Officers Recommended to Be Placed Higher on the Promotion List.—A selection board convened under section 20211 of this title shall, when authorized under section 20215(g) of this title, include in its report the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
 
 (d)
 
 Recommendation for Officers to Be Excluded From Future Consideration for Promotion.—A selection board convened under section 20211 of this title may include in its report a recommendation that an officer considered by the board be excluded from future consideration for promotion under this chapter.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 637.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 637; amended Pub. L. 118–159, div. A, title V, §521(p), Dec. 23, 2024, 138 Stat. 1882.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 20214 of this title, referred to in subsec. (c), does not contain a subsec. (g). However, section 20215(g) of this title relates to board recommendation for higher placement on a promotion list.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2024</b>—Subsec. (c). Pub. L. 118–159 substituted "20215(g)" for "20214(g)".
 

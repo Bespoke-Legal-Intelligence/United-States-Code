@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) improve the employment competencies of participants in comparison to comparably-situated individuals who did not participate in such programs and activities; and
 
-&emsp;&emsp;&emsp;(ii) to the extent feasible, increase the level of total employment over the level that would have existed in the absence of such programs and activities;
+&emsp;&emsp;&emsp;(ii) to the extent feasible, increase the level of total employment over the levelthat would have existed in the absence of such programs and activities;
 
 &emsp;&emsp;(B) the effectiveness of the performance accountability measures relating to such programs and activities;
 
@@ -56,7 +56,7 @@
 
 #### (8) Publication of reports
 
-&emsp;If an entity that enters into a contract or other arrangement with the Secretary to conduct an evaluation of a program or activityunder this subsection requests permission from the Secretary to publish a report resulting from the evaluation, such entity may publish the report unless the Secretary denies the request during the 90-day period beginning on the date the Secretary receives such request.
+&emsp;If an entity that enters into a contract or other arrangement with the Secretary to conduct an evaluation of a program or activity under this subsection requests permission from the Secretary to publish a report resulting from the evaluation, such entity may publish the report unless the Secretary denies the request during the 90-day period beginning on the date the Secretary receives such request.
 
 #### (9) Coordination
 
@@ -92,7 +92,7 @@
 
 #### (B) Study on resources available to assist disconnected youth
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtaining the skills, credentials, and work experience necessary to become economically self-sufficient.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristicsof eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtaining the skills, credentials, and work experience necessary to become economically self-sufficient.
 
 #### (C) Study of effectiveness of workforce development system in meeting business needs
 
@@ -108,7 +108,7 @@
 
 #### (F) Study on job training for recipients of public housing assistance
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Housing and Urban Development, may conduct studies to assist public housing authorities to provide, to recipients of public housing assistance, job training programs that successfully upgrade job skills and employment in, and access to,jobs with opportunity for advancement and economic self-sufficiency for such recipients.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Housing and Urban Development, may conduct studies to assist public housing authorities to provide, to recipients of public housing assistance, job training programs that successfully upgrade job skills and employment in, and access to, jobs with opportunity for advancement and economic self-sufficiency for such recipients.
 
 #### (G) Study on improving employment prospects for older individuals
 
@@ -170,7 +170,7 @@
 
 #### (c) Dislocated worker projects
 
-Of the amount made available pursuant to section 3172(a)(2)(A) of this title for any programyear, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
+Of the amount made available pursuant to section 3172(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
 
 (Pub. L. 113–128, title I, §169, July 22, 2014, 128 Stat. 1568.)
 

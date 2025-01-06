@@ -1,0 +1,4 @@
+### §2536. Repealed. Pub. L. 118–159, div. C, title XXXI, §3111(c)(5), Dec. 23, 2024, 138 Stat. 2295
+
+Section, Pub. L. 107–314, div. D, title XLII, §4216, as added Pub. L. 112–239, div. C, title XXXI, §3141(a), Jan. 2, 2013, 126 Stat. 2193; amended Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(B), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 116–92, div. C, title XXXI, §3139(b)(4)(A), Dec. 20, 2019, 133 Stat. 1962, related to reports on life extension programs by the Nuclear Weapons Council.
+

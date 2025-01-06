@@ -40,7 +40,7 @@ The prohibitions under this section shall not apply to the provision of assistan
 
 &emsp;The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 
-(Pub. L. 114–122, title II, §203, Feb. 18, 2016, 130 Stat. 106; Pub. L. 115–44, title III, §313, Aug. 2, 2017, 131 Stat. 945; Pub. L. 116–92, div. F, title LXXI, §7123, Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, title II, §203, Feb. 18, 2016, 130 Stat. 106; Pub. L. 115–44, title III, §313, Aug. 2,2017, 131 Stat. 945; Pub. L. 116–92, div. F, title LXXI, §7123, Dec. 20, 2019, 133 Stat. 2248.)
 
 #### <b>Editorial Notes</b>
 

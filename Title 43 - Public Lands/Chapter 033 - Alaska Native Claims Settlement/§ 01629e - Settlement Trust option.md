@@ -4,7 +4,7 @@
 
 (1)(A) A Native Corporation may convey assets (including stock or beneficial interests therein) to a Settlement Trust in accordance with the laws of the State (except to the extent that such laws are inconsistent with this section and section 1629b of this title).
 
-(B) The approval of the shareholders of the corporation in the form of a resolution shall be required to convey all or substantially all of the assets of the corporation to a Settlement Trust. A conveyance in violation of this clause shall be void ab initio and shall not be given effect by any court.
+(B) The approval of the shareholders of the corporation in the form of a resolution shall be required to convey all or substantially all of the assets of the corporation to a Settlement Trust.A conveyance in violation of this clause shall be void ab initio and shall not be given effect by any court.
 
 (2) No subsurface estate in land shall be conveyed to a Settlement Trust. A conveyance of title to, or any other interest in, subsurface estate in violation of this subparagraph shall be void ab initio and shall not be given effect by any court.
 

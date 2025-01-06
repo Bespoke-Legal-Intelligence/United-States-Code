@@ -38,7 +38,7 @@ Affected State.—The term "affected State" means, with respect to any program, 
 
 &emsp;(4) which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significant changes in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the outer Continental Shelf; or
 
-&emsp;(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities.
+&emsp;(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gasfrom vessels, pipelines, or other transshipment facilities.
 
 (g)
 
@@ -206,7 +206,7 @@ Pub. L. 117–58, div. D, title III, §40307(d), Nov. 15, 2021, 135 Stat. 1003, 
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or anamendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Gulf of Mexico Energy Security
 
@@ -266,7 +266,7 @@ planning area.—The term '2002–2007 planning area' means any area—
 
 &emsp;&emsp;&emsp;"(ii) the Central Planning Area, as designated in the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; or
 
-&emsp;&emsp;&emsp;"(iii) the Western Planning Area, as designated in the Proposed Final Outer Continental Shelf Oiland Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; and
+&emsp;&emsp;&emsp;"(iii) the Western Planning Area, as designated in the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; and
 
 &emsp;&emsp;"(B) not located in—
 
@@ -476,7 +476,7 @@ Allocation.—The amount paid by the Secretary to coastal political subdivisions
 
 "(c)
 
-Timing.—The amounts required to be deposited under paragraph (2) of subsection (a) for the applicable fiscal year shall be made available in accordance with that paragraph during the fiscal year immediately following the applicable fiscal year.
+Timing.—The amounts required to be deposited under paragraph (2) of subsection (a) for the applicablefiscal year shall be made available in accordance with that paragraph during the fiscal year immediately following the applicable fiscal year.
 
 "(d)
 
@@ -542,7 +542,7 @@ Pro rata reductions.—If paragraph (1) limits the amount of qualified outer Con
 
 &emsp;&emsp;"(B) any remainder of the qualified outer Continental Shelf revenues shall revert to the general fund of the Treasury."
 
-\[Pub. L. 113–287, §5(l)(2)(A)(i), Dec. 19, 2014, 128 Stat. 3270, which directed substitution of "section 200305 of title 54, United States Code" for "section 6 of the Land And Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" in subsec. (a)(2)(B) of section 105 of the Gulf of Mexico Energy Security Act of 2006 (Public Law 109–432, div. C, title I), set out above, was executed by makingthe substitution for "section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" to reflect the probable intent of Congress.\]
+\[Pub. L. 113–287, §5(l)(2)(A)(i), Dec. 19, 2014, 128 Stat. 3270, which directed substitution of "section 200305 of title 54, United States Code" for "section 6 of the Land And Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" in subsec. (a)(2)(B) of section 105 of the Gulf of Mexico Energy Security Act of 2006 (Public Law 109–432, div. C, title I), set out above, was executed by making the substitution for "section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" to reflect the probable intent of Congress.\]
 
 \[The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.\]
 
@@ -618,7 +618,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 13795
 
-Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, which related to an America-first offshore energy strategyand encouraged energy exploration and production, including on the Outer Continental Shelf, was revoked by Ex. Ord. No. 13990, §7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, which related to an America-first offshore energy strategy and encouraged energy exploration and production, including on the Outer Continental Shelf, was revoked by Ex. Ord. No. 13990, §7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

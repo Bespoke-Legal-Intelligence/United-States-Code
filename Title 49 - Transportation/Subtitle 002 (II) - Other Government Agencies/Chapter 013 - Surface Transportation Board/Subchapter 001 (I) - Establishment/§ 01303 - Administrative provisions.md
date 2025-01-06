@@ -32,7 +32,7 @@ Disclosure of nonpublic collaborative discussions.—Except as provided under su
 
 &emsp;&emsp;(C)
 
-Summary.—If the Board properly determines matters may be withheld from the public under section 555b(c) of title 5, the Board shall provide a summary with as much general information as possible on those matters withheld from the public.
+Summary.—If the Board properly determines matters may be withheld from the public under section 555b(c) of title 5, the Board shall provide a summary with asmuch general information as possible on those matters withheld from the public.
 
 &emsp;&emsp;(D)
 

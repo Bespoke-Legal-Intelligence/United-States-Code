@@ -84,7 +84,7 @@ Increased capacity.—Not later than 1 year after the date of enactment of this 
 
 &emsp;"(2)
 
-Canine procurement.—The Secretary, acting through the Commandant of the Coast Guard, shallprocure detection canine teams as efficiently as possible, including, to the greatest extent possible, through increased domestic breeding, while meeting the performance needs and criteria established by the Commandant.
+Canine procurement.—The Secretary, acting through the Commandant of the Coast Guard, shall procure detection canine teams as efficiently as possible, including, to the greatest extent possible, through increased domestic breeding, while meeting the performance needs and criteria established by the Commandant.
 
 "(c)
 

@@ -8,7 +8,7 @@
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
-(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 1707 of title 41. Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
+(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish suchprocedures for public comment in accordance with section 1707 of title 41. Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
 
 (iii) Pending publication of the procedures under clause (ii), the Secretary shall (except as provided under subparagraph (A)) procure health-care resources referred to in clause (i) in accordance with all procurement laws and regulations.
 
@@ -56,7 +56,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 Subsec. (a)(3)(D). Pub. L. 111–350, §5(j)(8)(B), substituted "section 3304(e) of title 41" for "section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))".
 
-<b>2003</b>—Subsec. (g). Pub. L. 108–170, in introductory provisions, substituted "not later than February 1 of each year" for "not more than 60 days after the end of each fiscal year" and inserted "during the preceding fiscal year" after "under this section".
+<b>2003</b>—Subsec. (g). Pub. L. 108–170, in introductory provisions, substituted "not later than February 1 of each year" for "not more than 60 days after the end of eachfiscal year" and inserted "during the preceding fiscal year" after "under this section".
 
 <b>2000</b>—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, §402(e). See 1997 Amendment note below.
 

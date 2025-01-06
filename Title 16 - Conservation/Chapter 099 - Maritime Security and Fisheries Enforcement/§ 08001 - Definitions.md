@@ -22,7 +22,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) a zone, the outer boundary of which is 200 nautical miles from the baseline from which the breadth of the territorial sea is measured; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if the distance between the United States and another country is less than 400 nautical miles, a zone, the outer boundary of which is represented by a line equidistant between the United States and the other country.
+&emsp;&emsp;&emsp;&emsp;(II) if the distance between the United States and another country is less than 400 nautical miles, a zone, the outer boundary of which is represented by aline equidistant between the United States and the other country.
 
 #### (B) Inner boundary
 
@@ -50,7 +50,7 @@ In this chapter:
 
 #### (6) IUU fishing
 
-&emsp;The term "IUU fishing" means illegal fishing, unreported fishing, or unregulated fishing (as such terms are defined in paragraph 3 ofthe International Plan of Action to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing, adopted at the 24th Session of the Committee on Fisheries in Rome on March 2, 2001).
+&emsp;The term "IUU fishing" means illegal fishing, unreported fishing, or unregulated fishing (as such terms are defined in paragraph 3 of the International Plan of Action to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing, adopted at the 24th Session of the Committee on Fisheries in Rome on March 2, 2001).
 
 #### (7) Port State Measures Agreement
 
@@ -104,7 +104,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this subtitle", meaning subtitle C of title XXXV of div. C of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 1997, known as the Maritime Security and Fisheries Enforcement Act and also as the Maritime SAFE Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this subtitle", meaning subtitle C of title XXXV ofdiv. C of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 1997, known as the Maritime Security and Fisheries Enforcement Act and also as the Maritime SAFE Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

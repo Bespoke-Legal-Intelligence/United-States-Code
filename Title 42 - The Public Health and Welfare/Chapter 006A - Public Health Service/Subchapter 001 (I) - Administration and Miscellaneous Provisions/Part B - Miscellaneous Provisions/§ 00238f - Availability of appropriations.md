@@ -46,7 +46,7 @@ Pub. L. 102–394, title II, §202, Oct. 6, 1992, 106 Stat. 1810, as amended by 
 
 \[Pub. L. 111–148, §5209, which directed amendment of Pub. L. 102–394, §202, set out above, by striking out "not to exceed 2,800", was executed by striking out "not to exceed 4,000" before "commissioned officers in the Regular Corps", to reflect the probable intent of Congress.\]
 
-\[For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an EffectiveDate of 2008 Amendment note under section 5376 of Title 5.\]
+\[For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.\]
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -86,5 +86,5 @@ Pub. L. 101–166, title II, §207, Nov. 21, 1989, 103 Stat. 1177.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare bysection 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

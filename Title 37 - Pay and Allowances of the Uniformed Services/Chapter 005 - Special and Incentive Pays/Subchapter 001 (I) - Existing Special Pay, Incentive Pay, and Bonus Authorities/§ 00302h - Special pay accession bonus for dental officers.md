@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2018, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accessionbonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2018, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $200,000.
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: "The amendments made by this section \[enacting sections 302k and 302l of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
+Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: "The amendments madeby this section \[enacting sections 302k and 302l of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
 
 &emsp;"(1) entered into or revised under section 302h of title 37, United States Code, on or after that date; or
 

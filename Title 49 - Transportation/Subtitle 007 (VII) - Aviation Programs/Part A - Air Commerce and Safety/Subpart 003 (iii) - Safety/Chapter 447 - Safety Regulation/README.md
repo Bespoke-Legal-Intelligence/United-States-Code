@@ -34,7 +34,7 @@
 | [44730\.](%C2%A7%2044730%20-%20Helicopter%20air%20ambulance%20operations.md) | Helicopter air ambulance operations. |
 | [44731\.](%C2%A7%2044731%20-%20Collection%20of%20data%20on%20helicopter%20air%20ambulance%20operations.md) | Collection of data on helicopter air ambulance operations. |
 | [44732\.](%C2%A7%2044732%20-%20Prohibition%20on%20personal%20use%20of%20electronic%20devices%20on%20flight%20deck.md) | Prohibition on personal use of electronic devices on flight deck. |
-| [44733\.](%C2%A7%2044733%20-%20Inspection%20of%20repair%20stations%20located%20outside%20the%20United%20States.md) | Inspection of repair stations located outside the United States. |
+| [44733\.](%C2%A7%2044733%20-%20Oversight%20of%20repair%20stations%20located%20outside%20the%20United%20States.md) | Oversight of repair stations located outside the United States. |
 | [44734\.](%C2%A7%2044734%20-%20Training%20of%20flight%20attendants.md) | Training of flight attendants. |
 | [44735\.](%C2%A7%2044735%20-%20Limitation%20on%20disclosure%20of%20safety%20information.md) | Limitation on disclosure of safety information. |
 | [44736\.](%C2%A7%2044736%20-%20Organization%20designation%20authorizations.md) | Organization designation authorizations. |
@@ -49,9 +49,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [44745\.](%C2%A7%2044745%20-%20Don%20Young%20Alaska%20Aviation%20Safety%20Initiative.md) | Don Young Alaska Aviation Safety Initiative. |
+| [44746\.](%C2%A7%2044746%20-%20Flight%20data%20recovery%20from%20overwater%20operations.md) | Flight data recovery from overwater operations. |
+| [44747\.](%C2%A7%2044747%20-%20Aviation%20safety%20oversight%20measures%20carried%20out%20by%20foreign%20countries.md) | Aviation safety oversight measures carried out by foreign countries. |
+| [44748\.](%C2%A7%2044748%20-%20Aircraft%20dispatching.md) | Aircraft dispatching. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–63, title III, §§302(a)(3), 342(f), 352(b), 369(c), title IV, §420(b)(2), May 16, 2024, 138 Stat. 1069, 1101, 1112, 1139, 1165, added items 44733 and 44745 to 44748 and struck out former item 44733 "Inspection of repair stations located outside the United States".
 
 <b>2022</b>—Pub. L. 117–328, div. O, title V, §501(e), Dec. 29, 2022, 136 Stat. 5231, added item 44744.
 
@@ -110,7 +121,7 @@
 - [&sect; 44730 - Helicopter air ambulance operations](%C2%A7%2044730%20-%20Helicopter%20air%20ambulance%20operations.md)
 - [&sect; 44731 - Collection of data on helicopter air ambulance operations](%C2%A7%2044731%20-%20Collection%20of%20data%20on%20helicopter%20air%20ambulance%20operations.md)
 - [&sect; 44732 - Prohibition on personal use of electronic devices on flight deck](%C2%A7%2044732%20-%20Prohibition%20on%20personal%20use%20of%20electronic%20devices%20on%20flight%20deck.md)
-- [&sect; 44733 - Inspection of repair stations located outside the United States](%C2%A7%2044733%20-%20Inspection%20of%20repair%20stations%20located%20outside%20the%20United%20States.md)
+- [&sect; 44733 - Oversight of repair stations located outside the United States](%C2%A7%2044733%20-%20Oversight%20of%20repair%20stations%20located%20outside%20the%20United%20States.md)
 - [&sect; 44734 - Training of flight attendants](%C2%A7%2044734%20-%20Training%20of%20flight%20attendants.md)
 - [&sect; 44735 - Limitation on disclosure of safety information](%C2%A7%2044735%20-%20Limitation%20on%20disclosure%20of%20safety%20information.md)
 - [&sect; 44736 - Organization designation authorizations](%C2%A7%2044736%20-%20Organization%20designation%20authorizations.md)
@@ -122,3 +133,7 @@
 - [&sect; 44742 - Interference with the duties of organization designation authorization unit members](%C2%A7%2044742%20-%20Interference%20with%20the%20duties%20of%20organization%20designation%20authorization%20unit%20members.md)
 - [&sect; 44743 - Pilot training requirements](%C2%A7%2044743%20-%20Pilot%20training%20requirements.md)
 - [&sect; 44744 - Flight crew alerting](%C2%A7%2044744%20-%20Flight%20crew%20alerting.md)
+- [&sect; 44745 - Don Young Alaska Aviation Safety Initiative](%C2%A7%2044745%20-%20Don%20Young%20Alaska%20Aviation%20Safety%20Initiative.md)
+- [&sect; 44746 - Flight data recovery from overwater operations](%C2%A7%2044746%20-%20Flight%20data%20recovery%20from%20overwater%20operations.md)
+- [&sect; 44747 - Aviation safety oversight measures carried out by foreign countries](%C2%A7%2044747%20-%20Aviation%20safety%20oversight%20measures%20carried%20out%20by%20foreign%20countries.md)
+- [&sect; 44748 - Aircraft dispatching](%C2%A7%2044748%20-%20Aircraft%20dispatching.md)

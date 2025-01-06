@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) the President and Congress should prioritize the modernization of the personnel security framework to improve its efficiency, effectiveness, and accountability;
 
-&emsp;(3) the current system for background investigations for security clearances, suitability and fitness for employment, and credentialing lacks efficiencies and capabilities to meet the current threat environment, recruit and retain a trusted workforce, and capitalize on modern technologies; and
+&emsp;(3) the current system for background investigations for security clearances, suitability and fitness for employment, and credentialinglacks efficiencies and capabilities to meet the current threat environment, recruit and retain a trusted workforce, and capitalize on modern technologies; and
 
 &emsp;(4) changes to policies or processes to improve this system should be vetted through the Council to ensure standardization, portability, and reciprocity in security clearances across the Federal Government.
 

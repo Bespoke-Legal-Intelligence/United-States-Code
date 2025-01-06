@@ -66,7 +66,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Administrator shall conduct a study considering the potential hydroelectric power value to the Pacific Northwest of increasing the coordination of the operation of hydroelectric and water storage facilities on rivers located in the United States and Canada.
+&emsp;The Administrator shall conduct a study considering the potential hydroelectric powervalue to the Pacific Northwest of increasing the coordination of the operation of hydroelectric and water storage facilities on rivers located in the United States and Canada.
 
 #### (2) Criteria
 

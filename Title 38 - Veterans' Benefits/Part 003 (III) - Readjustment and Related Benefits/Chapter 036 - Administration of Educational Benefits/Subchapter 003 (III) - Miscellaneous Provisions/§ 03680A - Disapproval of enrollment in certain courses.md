@@ -8,29 +8,41 @@
 
 &emsp;(3) Any type of course which the Secretary finds to be avocational or recreational in character (or the advertising for which the Secretary finds contains significant avocational or recreational themes) unless the veteran submits justification showing that the course will be of bona fide use in the pursuit of the veteran's present or contemplated business or occupation.
 
-&emsp;(4) Any independent study program except an independent study program (including such a program taken over open circuit television) that—
+&emsp;(4) Any independent study program except—
 
-&emsp;&emsp;(A) is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b);
+&emsp;&emsp;(A) an independent study program (including such a program taken over open circuit television) that—
 
-&emsp;&emsp;(B) leads to—
+&emsp;&emsp;&emsp;(i) is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b);
 
-&emsp;&emsp;&emsp;(i) a standard college degree;
+&emsp;&emsp;&emsp;(ii) leads to—
 
-&emsp;&emsp;&emsp;(ii) a certificate that reflects educational attainment offered by an institution of higher learning; or
+&emsp;&emsp;&emsp;&emsp;(I) a standard college degree;
 
-&emsp;&emsp;&emsp;(iii) a certificate that reflects completion of a course of study offered by—
+&emsp;&emsp;&emsp;&emsp;(II) a certificate that reflects educational attainment offered by an institution of higher learning; or
 
-&emsp;&emsp;&emsp;&emsp;(I) an area career and technical education school (as defined in subparagraphs (C) and (D) of section 3(3) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302(3))) that provides education at the postsecondary level; or
+&emsp;&emsp;&emsp;&emsp;(III) a certificate that reflects graduation from a course of study offered by—
 
-&emsp;&emsp;&emsp;&emsp;(II) a postsecondary vocational institution (as defined in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c))) that provides education at the postsecondary level; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) an area career and technical education school (as defined in subparagraphs (C) and (D) of section 3(3) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302(3))) that provides education at the postsecondary level; or
 
-&emsp;&emsp;(C) in the case of a program described in subparagraph (B)(iii)—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a postsecondary vocational institution (as defined in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c))) that provides education at the postsecondary level; and
 
-&emsp;&emsp;&emsp;(i) provides training aligned with the requirements of employers in the State or local area where the program is located, which may include in-demand industry sectors or occupations; and
+&emsp;&emsp;&emsp;(iii) in the case of a program described in clause (ii)(III)—
 
-&emsp;&emsp;&emsp;(ii) provides a student, upon completion of the program, with a recognized postsecondary credential that is recognized by employers in the relevant industry, which may include a credential recognized by industry or sector partnerships in the State or local area where the industry is located; and
+&emsp;&emsp;&emsp;&emsp;(I) provides training aligned with the requirements of employers in the State or local area where the program is located, which may include in-demand industry sectors or occupations;
 
-&emsp;&emsp;&emsp;(iii) meets such content and instructional standards as may be required to comply with the criteria under section 3676(c)(14) and (15) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) provides a student, upon graduation from the program, with a recognized postsecondary credential that is recognized by employers in the relevant industry, which may include a credential recognized by industry or sector partnerships in the State or local area where the industry is located; and
+
+&emsp;&emsp;&emsp;&emsp;(III) meets such content and instructional standards as may be required to comply with the criteria under section 3676(c)(14) and (15) of this title; or
+
+&emsp;&emsp;(B) an online high technology program of education (as defined in subsection (h)(2) of section 3699C of this title)—
+
+&emsp;&emsp;&emsp;(i) the provider of which has entered into a contract with the Secretary under subsection (c) of such section;
+
+&emsp;&emsp;&emsp;(ii) that has been provided to covered individuals (as defined in subsection (h)(1) of such section) under such contract for a period of at least five years;
+
+&emsp;&emsp;&emsp;(iii) regarding which the Secretary has determined that the average employment rate of covered individuals who graduated from such program of education is 65 percent or higher for the year preceding such determination; and
+
+&emsp;&emsp;&emsp;(iv) that satisfies the requirements of subsection (e) of such section.
 
 (b) Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flight training other than one given by an educational institution of higher learning for credit toward a standard college degree the eligible veteran is seeking.
 
@@ -64,7 +76,7 @@
 
 &emsp;(i) the majority of courses offered by the educational institution are approved under section 3676 of this title; and
 
-&emsp;(ii) the total number of veterans and persons receiving assistance under this title or underchapter 1606 of title 10 who are enrolled in such institution equals 35 percent or less of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution).
+&emsp;(ii) the total number of veterans and persons receiving assistance under this title or under chapter 1606 of title 10 who are enrolled in such institution equals 35 percent or less of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution).
 
 (B) Notwithstanding subparagraph (A), on a case by case basis, the Secretary may apply paragraph (1) with respect to any course otherwise covered by such subparagraph if the Secretary has reason to believe that the enrollment of veterans and persons described in clause (ii) of such subparagraph may be in excess of 85 percent of the total student enrollment in such course.
 
@@ -80,13 +92,37 @@
 
 &emsp;(D) in a course described in subsection (g).
 
-(e) The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
+(8) Paragraph (1) shall not apply to the enrollment of a veteran in an online high technology program described in subsection (a)(4)(B).
 
-&emsp;(1) the educational institution has been operating for less than two years;
+(e)(1) <sup>1</sup> The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
 
-&emsp;(2) the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
+&emsp;(A) the educational institution has been operating for less than two years;
 
-&emsp;(3) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+&emsp;(B) except as provided in paragraph (2), the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
+
+&emsp;(C) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+
+(2)(A) Subject to this paragraph, a commercial driver education program is exempt from paragraph (1)(B) for a branch of an educational institution if—
+
+&emsp;(i) the commercial driver education program offered at the branch by the educational institution is approved for purposes of this chapter by a State approving agency (or the Secretary when acting in the role of a State approving agency); and
+
+&emsp;(ii)(I) such branch is located in a State in which such educational institution offers such commercial driver education program at another branch of such educational institution; or
+
+&emsp;(II) such branch—
+
+&emsp;&emsp;(aa) has been operating for at least one year; and
+
+&emsp;&emsp;(bb) offers such commercial driver education program, using the same curriculum as another branch of such educational institution.
+
+(B)(i) In order for a commercial driver education program of an educational institution offered at a branch described in paragraph (1)(B) to be exempt under subparagraph (A) of this paragraph, the educational institution shall submit to the Secretary each year that paragraph (1)(B) would otherwise apply a report that demonstrates that the curriculum at the new branch is the same as the curriculum at the primary location.
+
+(ii) Reporting under clause (i) shall be submitted in accordance with such requirements as the Secretary shall establish in consultation with the State approving agencies.
+
+(C)(i) The Secretary may withhold an exemption under subparagraph (A) for any educational institution or branch of an educational institution as the Secretary considers appropriate.
+
+(ii) In making any determination under clause (i), the Secretary may consult with the Secretary of Transportation on the performance of a provider of a commercial driver program, including the status of the provider within the Training Provider Registry of the Federal Motor Carrier Safety Administration when appropriate.
+
+(D) The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a notification not later than 30 days after the Secretary grants an exemption under subparagraph (A). Such notification shall identify the educational institution, and the branch thereof, granted such exemption.
 
 (f)(1) Except as provided in paragraph (2), the Secretary may not approve the enrollment of an eligible veteran in a course as a part of a program of education offered by an educational institution if the course is provided under contract by another educational institution or entity and—
 
@@ -116,15 +152,37 @@
 
 (h) In this section, the terms "State or local area", "recognized postsecondary credential", "industry or sector partnership", and "in-demand industry sector or occupation" have the meaning given such terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 115–48, title III, §302, Aug. 16, 2017, 131 Stat. 990; Pub. L. 117–174, §2(a), Aug. 26, 2022, 136 Stat. 2104; Pub. L. 117–333, §9(a), Jan. 5, 2023, 136 Stat. 6130.)
+(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 115–48, title III, §302, Aug. 16, 2017, 131 Stat. 990; Pub. L. 117–174, §2(a), Aug. 26, 2022, 136 Stat. 2104; Pub. L. 117–333, §9(a), Jan. 5, 2023, 136 Stat. 6130; Pub. L. 118–95, §2(a), Oct. 1, 2024, 138 Stat. 1567; Pub. L. 118–210, title II, §§206(b)(2)(D), 209(a), 212(c), Jan. 2, 2025, 138 Stat. 2764, 2765, 2773.)
+
+#### Applicability of Amendment
+
+<i>Amendment of subsection (e) of this section by section 2(a) of Pub. L. 118–95 applicable 365 days after the date on which the Secretary of Veterans Affairs establishes the requirements under section 2(b)(1) of Pub. L. 118–95. See 2024 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(4)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classifiedgenerally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(4)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(4). Pub. L. 118–210, §212(c)(1), added par. (4) and struck out former par. (4) which related to independent study programs.
+
+Subsec. (a)(4)(C)(iii). Pub. L. 118–210, §206(b)(2)(D), substituted "section 3676(c)(15) and (16)" for "section 3676(c)(14) and (15)".
+
+Subsec. (d)(8). Pub. L. 118–210, §212(c)(2), added par. (8).
+
+Subsec. (e)(2)(A). Pub. L. 118–210, §209(a)(1)(A), (B), amended subsec. (e)(2)(A) as added by Pub. L. 118–95, §2(a)(4), by substituting "institution if—" for "the commercial driver education program offered at the branch by the educational institution—" in introductory provisions, adding cls. (i) and (ii), and striking out former cls. (i) and (ii) which read as follows:
+
+"(i) is appropriately licensed; and
+
+"(ii) uses the same curriculum as a commercial driver education program offered by the educational institution at another location that is approved for purposes of this chapter by a State approving agency or the Secretary when acting in the role of a State approving agency."
+
+Subsec. (e)(2)(D). Pub. L. 118–210, §209(a)(2), amended subsec. (e)(2) as added by Pub. L. 118–95, §2(a)(4), by adding subpar. (D).
+
+<b>2024</b>—Subsec. (e). Pub. L. 118–95, §2(a)(1), (2), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+
+Subsec. (e)(1)(B). Pub. L. 118–95, §2(a)(3), inserted "except as provided in paragraph (2)," before "the course".Subsec. (e)(2). Pub. L. 118–95, §2(a)(4), as amended by Pub. L. 118–210, §209(a), added par. (2). For changes made to text of par. (2) by Pub. L. 118–210, see 2025 Amendment notes above.
 
 <b>2023</b>—Subsec. (f). Pub. L. 117–333 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the Secretary" for "The Secretary", redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
 
@@ -158,6 +216,14 @@ Subsecs. (e) to (g). Pub. L. 104–275, §103(b), added subsecs. (e) to (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2025 Amendment
+
+Pub. L. 118–210, title II, §209(c), Jan. 2, 2025, 138 Stat. 2766, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in such Act \[Pub. L. 118–95\] on the date of the enactment of such Act \[Oct. 1, 2024\]."
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–95, §2(b)(2), Oct. 1, 2024, 138 Stat. 1568, as amended by Pub. L. 118–210, title II, §209(b)(1), Jan. 2, 2025, 138 Stat. 2766, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to commercial driver education programs on and after the date that is 365 days after the date on which the Secretary establishes the requirements under paragraph (1) of this subsection \[set out as a note below\]."
+
 #### Effective Date of 2022 Amendment
 
 Pub. L. 117–174, §2(b), Aug. 26, 2022, 136 Stat. 2106, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date of the enactment of this Act \[Aug. 26, 2022\]."
@@ -170,6 +236,10 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Pub. L. 107–103, title I, §111(b), Dec. 27, 2001, 115 Stat. 987, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to enrollments in independent study courses beginning on or after the date of the enactment of this Act \[Dec. 27, 2001\]."
 
+#### Regulations
+
+Pub. L. 118–95, §2(b)(3), as added by Pub. L. 118–210, title II, §209(b)(2), Jan. 2, 2025, 138 Stat. 2766, provided that: "In prescribing any regulation to carry out the amendments made by subsection (a) \[amending this section\], the Secretary of Veterans Affairs shall consult with State approving agencies designated under section 3671 of such title \[title 38, United States Code\]."
+
 #### Savings Provision
 
 Section not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
@@ -178,7 +248,13 @@ Section not applicable to any person receiving educational assistance for pursui
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Implementation: Establishment of Requirements
+
+Pub. L. 118–95, §2(b)(1), Oct. 1, 2024, 138 Stat. 1568, provided that: "Not later than 180 days after the date of the enactment of this Act \[Oct. 1, 2024\], the Secretary of Veterans Affairs shall establish requirements under section 3680A(e)(2)(B)(ii) of such title \[title 38, United States Code\], as added by subsection (a)."
+
 #### Treatment of Certain Courses
 
 Pub. L. 117–333, §9(b), Jan. 5, 2023, 136 Stat. 6131, provided that: "In the case of any covered study-abroad course, under the meaning given such term in subparagraph (B) of paragraph (2) of subsection (f) of section 3680A of title 38, United States Code, as added by subsection (a), that is being offered under a contract or other written agreement as of the date of the enactment of this Act \[Jan. 5, 2023\], the Secretary of Veterans Affairs may approve such course under such paragraph (2) for the five-year period beginning on the date of the enactment of this Act, if such contract or other written agreement meets the criteria provided in subparagraph (A) of such paragraph."
+
+<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
 

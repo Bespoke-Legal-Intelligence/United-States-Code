@@ -214,7 +214,7 @@ Pub. L. 114–94, div. C, title XXXII, §32103(d), Dec. 4, 2015, 129 Stat. 1738,
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §881(f), Oct. 22, 2004, 118 Stat. 1627, provided that: "The amendments made to \[by\] this section \[enacting this section and section 7433A of this title, amending sections 7809 and 7811 of this title, and amending provisions set out as a note under section 7804 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §881(f), Oct. 22, 2004, 118 Stat. 1627, provided that: "The amendments made to \[by\] this section \[enacting this section and section7433A of this title, amending sections 7809 and 7811 of this title, and amending provisions set out as a note under section 7804 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Biennial Report
 

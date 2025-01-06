@@ -38,7 +38,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;For purposes of this section, the shortfall amortization charge for a plan for any planyear is the aggregate total (not less than zero) of the shortfall amortization installments for such plan year with respect to any shortfall amortization base which has not been fully amortized under this subsection.
+&emsp;For purposes of this section, the shortfall amortization charge for a plan for any plan year is the aggregate total (not less than zero) of the shortfall amortization installments for such plan year with respect to any shortfall amortization base which has not been fully amortized under this subsection.
 
 #### (2) Shortfall amortization installment
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (6) Early deemed amortization upon attainment of funding target
 
-&emsp;In any case in which the funding shortfall of a plan for a plan year is zero, for purposes of determining the shortfall amortization charge for such plan year and succeeding plan years, the shortfall amortization bases for all preceding plan years (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero.
+&emsp;In any case in which the funding shortfall of a plan for a plan year is zero, for purposes of determining the shortfall amortization chargefor such plan year and succeeding plan years, the shortfall amortization bases for all preceding plan years (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero.
 
 #### (7) Increases in alternate required installments in cases of excess compensation or extraordinary dividends or stock redemptions
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the funding target of the plan for the preceding plan year (determined without regard to subsection (i)(1)),
 
-> &emsp;&emsp;is less than 80 percent. In the case of plan years beginning in 2008, the ratio under this subparagraph may be determined using suchmethods of estimation as the Secretary may prescribe.
+> &emsp;&emsp;is less than 80 percent. In the case of plan years beginning in 2008, the ratio under this subparagraph may be determined using such methods of estimation as the Secretary may prescribe.
 
 #### (D) Special rule for certain years of plans maintained by charities
 
@@ -430,7 +430,7 @@ For purposes of this section—
 
 #### (A) Applicability of shortfall amortization base
 
-&emsp;&emsp;For purposes of subsection (c)(5), the value of plan assets is deemed to be such amount, reduced by the amount of the prefunding balance, but only if an election under paragraph (3) applying any portion of the prefunding balance in reducing the minimum required contribution is in effect for the plan year.
+&emsp;&emsp;For purposes of subsection (c)(5), the value of plan assets is deemed to be such amount,reduced by the amount of the prefunding balance, but only if an election under paragraph (3) applying any portion of the prefunding balance in reducing the minimum required contribution is in effect for the plan year.
 
 #### (B) Determination of excess assets, funding shortfall, and funding target attainment percentage
 
@@ -474,7 +474,7 @@ For purposes of this section—
 
 #### (ii) Adjustments for interest
 
-&emsp;&emsp;&emsp;Any excess contributions under clause (i) shall be properly adjusted for interest accruing for the periods between the first day of the current plan year and the dateson which the excess contributions were made, determined by using the effective interest rate for the preceding plan year and by treating contributions as being first used to satisfy the minimum required contribution.
+&emsp;&emsp;&emsp;Any excess contributions under clause (i) shall be properly adjusted for interest accruing for the periods between the first day of the current plan year and the dates on which the excess contributions were made, determined by using the effective interest rate for the preceding plan year and by treating contributions as being first used to satisfy the minimum required contribution.
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
@@ -754,7 +754,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregardingplans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -1054,7 +1054,7 @@ For purposes of this section—
 
 &emsp;In the case of a plan to which this subsection applies (as provided under paragraph (2)), if—
 
-&emsp;&emsp;(A) any person fails to make a contribution payment required by section 412 and this section before the due date for such payment, and
+&emsp;&emsp;(A) any person fails to make a contribution payment required by section 412 andthis section before the due date for such payment, and
 
 &emsp;&emsp;(B) the unpaid balance of such payment (including interest), when added to the aggregate unpaid balance of all preceding such payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
@@ -1136,7 +1136,7 @@ In the case of a qualified transfer (as defined in section 420), any assets so t
 
 #### (ii) New benefit accruals
 
-&emsp;&emsp;&emsp;Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
+&emsp;&emsp;&emsp;Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an electionunder paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
 
 #### (iii) United States Treasury obligation yield curve
 
@@ -1298,7 +1298,7 @@ Subsec. (g)(3)(B). Pub. L. 110–458, §121(b), amended concluding provisions ge
 
 Subsec. (h)(2)(B). Pub. L. 110–458, §101(b)(2)(E)(i), (ii), in introductory provisions, inserted "and target normal cost" after "funding target" and substituted "benefits" for "liabilities".
 
-Subsec. (h)(2)(F). Pub. L. 110–458, §101(b)(2)(E)(iii), (iv), substituted "section 417(e)(3)(D)(i) for such month)" for "section 417(e)(3)(D)(i)) for such month" and "subparagraph (C)" for "subparagraph (B)".
+Subsec. (h)(2)(F). Pub. L. 110–458, §101(b)(2)(E)(iii), (iv), substituted "section 417(e)(3)(D)(i) for suchmonth)" for "section 417(e)(3)(D)(i)) for such month" and "subparagraph (C)" for "subparagraph (B)".
 
 Subsec. (i)(2)(A). Pub. L. 110–458, §101(b)(2)(F)(i)(I), added subpar. (A) and struck out former subpar. (A) which read as follows: "the present value of all benefits which are expected to accrue or be earned under the plan during the plan year, determined using the additional actuarial assumptions described in paragraph (1)(B), plus".
 
@@ -1490,7 +1490,7 @@ Modified Rules.—The rules described in this subsection are as follows:
 
 > the mortality table shall be the mortality table used by the plan.
 
-&emsp;"(3) \[Former\] Section 430(c)(5)(B) of such Code and \[former\] section 303(c)(5)(B) of such Act \[29 U.S.C. 1083(c)(5)(B)\] (relating to phase-in of funding target for exemption from new shortfall amortization base) shall each be applied by substituting '2012' for '2011' therein and by substituting for the table therein the following:
+&emsp;"(3) \[Former\] Section 430(c)(5)(B) of such Code and \[former\] section 303(c)(5)(B) of such Act \[29 U.S.C.1083(c)(5)(B)\] (relating to phase-in of funding target for exemption from new shortfall amortization base) shall each be applied by substituting '2012' for '2011' therein and by substituting for the table therein the following:
 
 &nbsp;
 
@@ -1557,7 +1557,7 @@ In general.—The requirements of this paragraph are met if no applicable benefi
 
 &emsp;&emsp;"(B)
 
-Applicable benefit increase.—For purposes of this paragraph, the term 'applicable benefit increase' means, with respect to any plan year, anyincrease in liabilities of the plan by plan amendment (or otherwise provided in regulations provided by the Secretary) which, but for this paragraph, would occur during the plan year by reason of—
+Applicable benefit increase.—For purposes of this paragraph, the term 'applicable benefit increase' means, with respect to any plan year, any increase in liabilities of the plan by plan amendment (or otherwise provided in regulations provided by the Secretary) which, but for this paragraph, would occur during the plan year by reason of—
 
 &emsp;&emsp;&emsp;"(i) any increase in benefits,
 
@@ -1599,7 +1599,7 @@ Years for which election made.—
 
 &emsp;&emsp;"(A)
 
-Alternative funding schedule.—If an election under subsection (a)(1) was made with respect to an eligible plan, the plan sponsor may select either a plan year beginning in 2006 or a plan year beginning in 2007 as the first plan year to which such election applies. The election shall apply to such plan year and all subsequent years. The election shall be made—
+Alternative funding schedule.—If an election under subsection (a)(1) was made with respect to an eligible plan, the plan sponsor may select either a plan year beginning in 2006 or a plan year beginning in 2007 as the first plan year to which suchelection applies. The election shall apply to such plan year and all subsequent years. The election shall be made—
 
 &emsp;&emsp;&emsp;"(i) not later than December 31, 2006, in the case of an election for a plan year beginning in 2006, or
 

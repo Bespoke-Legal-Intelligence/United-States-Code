@@ -52,5 +52,5 @@ There are authorized to be appropriated such sums as necessary to carry out this
 
 #### Termination Date
 
-Section to terminate Sept. 30, 2023, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

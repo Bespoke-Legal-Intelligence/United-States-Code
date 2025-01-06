@@ -86,7 +86,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(4) Osama bin Laden planned or supported numerous other deadly terrorist attacks against the United States and its allies, including the 1998 bombings of United States embassies in Kenya and Tanzania and the 2000 attack on the U.S.S. Cole in Yemen, and against innocent civilians in countries around the world, including the 2004 attack on commuter trains in Madrid, Spain and the 2005 bombings of the mass transit system in London, England.
 
-&emsp;"(5) Following the September 11, 2001, terrorist attacks, the United States, under President George W. Bush, led an international coalition into Afghanistan to dismantle al Qaeda, deny them a safe haven in Afghanistan and ungoverned areas along the Pakistani border, and bring Osama bin Laden to justice.
+&emsp;"(5) Following the September 11, 2001, terrorist attacks, the United States, under President George W.Bush, led an international coalition into Afghanistan to dismantle al Qaeda, deny them a safe haven in Afghanistan and ungoverned areas along the Pakistani border, and bring Osama bin Laden to justice.
 
 &emsp;"(6) President Barack Obama in 2009 committed additional forces and resources to efforts in Afghanistan and Pakistan as 'the central front in our enduring struggle against terrorism and extremism'.
 

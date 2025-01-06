@@ -72,7 +72,7 @@
 
 &emsp;(H) such other aspects of vessel safety as the Secretary considers appropriate.
 
-(f)(1) For purposes of this section and section 4503a, the term "built" means, with respect to a vessel, that the vessel's construction has reached any of the following stages:
+(f)(1) For purposes of this section and section 4503a,<sup>1</sup> the term "built" means, with respect to a vessel, that the vessel's construction has reached any of the following stages:
 
 &emsp;(A) The vessel's keel is laid.
 
@@ -87,6 +87,8 @@
 #### References in Text
 
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (c)(2)(B)(i) and (e)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+
+Section 4503a, referred to in subsec. (f)(1), was repealed by Pub. L. 117–263, div. K, title CXV, §11509(a)(3), Dec. 23, 2022, 136 Stat. 4137.
 
 #### Amendments
 
@@ -162,9 +164,11 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 #### Final Rule
 
-Pub. L. 115–282, title V, §508(f), Dec. 4, 2018, 132 Stat. 4273, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall issue a final rule implementing the requirements enumerated in section 4503(d) of title 46, as amended by subsection (b)(1) of this section."
+Pub. L. 115–282, title V, §508(f), Dec. 4, 2018, 132 Stat. 4273, provided that: "Not later than 1 year after thedate of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall issue a final rule implementing the requirements enumerated in section 4503(d) of title 46, as amended by subsection (b)(1) of this section."
 
 #### Construction of 2022 Amendment
 
-Nothing in amendment by Pub. L. 117–263 to be construed to affect or apply to any alternative complianceand safety agreement entered into by the Coast Guard that is in effect on Dec. 23, 2022, see section 11509(b) of Pub. L. 117–263, set out as a note under section 4502 of this title.
+Nothing in amendment by Pub. L. 117–263 to be construed to affect or apply to any alternative compliance and safety agreement entered into by the Coast Guard that is in effect on Dec. 23, 2022, see section 11509(b) of Pub. L. 117–263, set out as a note under section 4502 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

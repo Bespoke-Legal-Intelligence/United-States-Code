@@ -162,7 +162,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 90 days after December 19, 2007, the Secretary shall publish in the Federal Register, Commerce Business Daily, and such other publications as the Secretary considers to be appropriate, a notice and request for applications to carry out projects under the pilot program.
+&emsp;&emsp;&emsp;Not later than 90 days after December 19, 2007, the Secretary shall publish in theFederal Register, Commerce Business Daily, and such other publications as the Secretary considers to be appropriate, a notice and request for applications to carry out projects under the pilot program.
 
 #### (ii) Deadline
 

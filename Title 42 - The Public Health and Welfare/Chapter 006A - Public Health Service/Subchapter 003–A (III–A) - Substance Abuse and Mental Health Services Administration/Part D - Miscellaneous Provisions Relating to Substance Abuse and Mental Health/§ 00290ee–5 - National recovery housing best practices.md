@@ -64,7 +64,7 @@
 
 #### (c) Dissemination
 
-The Secretary shall, as appropriate, disseminate the best practices identified or developedunder subsection (a) and the common indicators identified or developed under subsection (b) to—
+The Secretary shall, as appropriate, disseminate the best practices identified or developed under subsection (a) and the common indicators identified or developed under subsection (b) to—
 
 &emsp;(1) State agencies, which may include the provision of technical assistance to State agencies seeking to adopt or implement such best practices;
 
@@ -198,7 +198,7 @@ A prior section 550 of act July 1, 1944, was renumbered section 550A of act July
 
 <b>2022</b>—Subsec. (a)(1). Pub. L. 117–328, §1232(1), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary, in consultation with the individuals and entities specified in paragraph (2), shall identify or facilitate the development of best practices, which may include model laws for implementing suggested minimum standards, for operating recovery housing."
 
-Subsec. (a)(2)(A). Pub. L. 117–328, §1232(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "relevant divisions of the Department of Health and Human Services, including the Substance Abuse and Mental Health Services Administration, the Office of Inspector General, the Indian Health Service, and the Centers for Medicare \& Medicaid Services;".
+Subsec. (a)(2)(A). Pub. L. 117–328, §1232(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "relevant divisions of the Department of Health and Human Services, including the Substance Abuse and Mental Health Services Administration, theOffice of Inspector General, the Indian Health Service, and the Centers for Medicare \& Medicaid Services;".
 
 Subsec. (a)(2)(B). Pub. L. 117–328, §1232(2)(A)–(C), redesignated subpar. (C) as (B), substituted "Tribal" for "tribal", and struck out former subpar. (B) which read as follows: "the Secretary of Housing and Urban Development;".
 

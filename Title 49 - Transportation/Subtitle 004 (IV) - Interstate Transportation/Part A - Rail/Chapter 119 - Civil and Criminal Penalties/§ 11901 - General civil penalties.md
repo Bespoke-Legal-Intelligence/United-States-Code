@@ -4,7 +4,7 @@
 
 (b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, or a receiver or trustee of that rail carrier, violating a regulation or order of the Board under section 11124(a)(2) or (b) of this title is liable to the United States Government for a civil penalty of $500 for each violation and for $25 for each day the violation continues.
 
-(c) A person knowingly authorizing, consenting to, or permitting a violation of sections 10901 through 10906 of this title or of a requirement or a regulation under any of those sections, is liable to the United States Government for a civil penalty of not more than $5,000.
+(c) A person knowingly authorizing, consenting to, or permitting a violation of sections10901 through 10906 of this title or of a requirement or a regulation under any of those sections, is liable to the United States Government for a civil penalty of not more than $5,000.
 
 (d) A rail carrier, receiver, or operating trustee violating an order or direction of the Board under section 11123 or 11124(a)(1) of this title is liable to the United States Government for a civil penalty of at least $100 but not more than $500 for each violation and for $50 for each day the violation continues.
 

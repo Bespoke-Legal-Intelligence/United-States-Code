@@ -1,6 +1,6 @@
 ### §5567. Preference for preserving buildings of historic or architectural significance
 
-Amtrak shall give preference to the use of rail passenger terminal facilities that will preserve buildings of historic or architectural significance.
+Amtrak shall give preference to the use of rail passenger terminal facilities that will preservebuildings of historic or architectural significance.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 854.)
 

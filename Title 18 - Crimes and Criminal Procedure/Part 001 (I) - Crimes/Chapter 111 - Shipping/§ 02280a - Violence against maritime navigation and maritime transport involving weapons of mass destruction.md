@@ -32,7 +32,7 @@ In general.—Subject to the exceptions in subsection (c), a person who unlawful
 
 &emsp;&emsp;&emsp;&emsp;(I) the country to the territory of which or under the control of which such item is transferred is a Nuclear Weapon State Party to the Non-Proliferation Treaty; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the resulting transfer or receipt (including internal to a country) is not contrary to the obligations under the Non-Proliferation Treaty of a Non-Proliferation Treaty State Party from which, to the territory of which, or otherwise under the control of which such item is transferred;
+&emsp;&emsp;&emsp;&emsp;(II) the resulting transfer or receipt (including internal to a country) is notcontrary to the obligations under the Non-Proliferation Treaty of a Non-Proliferation Treaty State Party from which, to the territory of which, or otherwise under the control of which such item is transferred;
 
 &emsp;&emsp;&emsp;(v) any equipment, materials, or software or related technology that significantly contributes to the delivery of a nuclear weapon or other nuclear explosive device, with the intention that it will be used for such purpose, except where—
 

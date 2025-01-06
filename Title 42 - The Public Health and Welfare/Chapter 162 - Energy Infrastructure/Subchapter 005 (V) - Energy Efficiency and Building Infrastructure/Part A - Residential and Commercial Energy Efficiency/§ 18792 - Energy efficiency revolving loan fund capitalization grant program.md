@@ -38,7 +38,7 @@ Not later than 1 year after November 15, 2021, under the State Energy Program, t
 
 #### (c) Applications for capitalization grants
 
-A State seeking a capitalization grant under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
+A State seeking a capitalization grant under the program shall submit to the Secretary anapplication at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;(1) a detailed explanation of how the grant will be used, including a plan to establish a new revolving loan fund or use an existing revolving loan fund;
 
@@ -196,7 +196,7 @@ A State seeking a capitalization grant under the program shall submit to the Sec
 
 &emsp;&emsp;&emsp;&emsp;(bb)(AA) reduce the energy intensity of the building or facility of the eligible recipient; or
 
-&emsp;&emsp;&emsp;&emsp;(BB) improve the control and management of energy usage of the building orfacility to reduce demand during peak times.
+&emsp;&emsp;&emsp;&emsp;(BB) improve the control and management of energy usage of the building or facility to reduce demand during peak times.
 
 #### (ii) Eligible recipients
 

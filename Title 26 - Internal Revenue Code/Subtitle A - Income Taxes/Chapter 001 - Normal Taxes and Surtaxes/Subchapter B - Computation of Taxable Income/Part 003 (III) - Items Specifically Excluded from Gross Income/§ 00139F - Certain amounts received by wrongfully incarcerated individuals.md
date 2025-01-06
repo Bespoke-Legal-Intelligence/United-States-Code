@@ -12,7 +12,7 @@ For purposes of this section, the term "wrongfully incarcerated individual" mean
 
 &emsp;(2) who served all or part of a sentence of imprisonment relating to that covered offense, and
 
-&emsp;(3)(A) who was pardoned, granted clemency, or granted amnesty for that covered offense because that individual was innocent of that covered offense, or
+&emsp;(3)(A) who was pardoned, granted clemency, or granted amnesty for that covered offensebecause that individual was innocent of that covered offense, or
 
 &emsp;(B)(i) for whom the judgment of conviction for that covered offense was reversed or vacated, and
 

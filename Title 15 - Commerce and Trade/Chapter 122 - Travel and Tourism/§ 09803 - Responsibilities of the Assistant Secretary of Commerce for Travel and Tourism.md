@@ -112,7 +112,7 @@ The Assistant Secretary, in coordination with relevant Federal agencies, shall s
 
 &emsp;&emsp;&emsp;(ii) the public through a publicly accessible website; and
 
-&emsp;&emsp;(B) shall include questions in the Survey of International Air Travelers regardingwait-times, visits to public lands, and State data, to the extent applicable.
+&emsp;&emsp;(B) shall include questions in the Survey of International Air Travelers regarding wait-times, visits to public lands, and State data, to the extent applicable.
 
 (Pub. L. 117–328, div. BB, title VI, §605, Dec. 29, 2022, 136 Stat. 5567.)
 

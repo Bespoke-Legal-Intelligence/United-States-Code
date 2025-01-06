@@ -22,7 +22,7 @@ As used in this section:
 
 #### (4) Food
 
-&emsp;The term "food" means any raw, cooked, processed, or prepared edible substance, ice, beverage, or ingredient used or intended for use in whole or in part for human consumption.
+&emsp;The term "food" means any raw, cooked, processed, or prepared edible substance, ice,beverage, or ingredient used or intended for use in whole or in part for human consumption.
 
 #### (5) Gleaner
 
@@ -42,7 +42,7 @@ As used in this section:
 
 #### (9) Intentional misconduct
 
-&emsp;The term "intentional misconduct" means conduct by a person with knowledge (at thetime of the conduct) that the conduct is harmful to the health or well-being of another person.
+&emsp;The term "intentional misconduct" means conduct by a person with knowledge (at the time of the conduct) that the conduct is harmful to the health or well-being of another person.
 
 #### (10) Nonprofit organization
 

@@ -8,7 +8,7 @@ This part shall apply to any employee pension benefit plan described in section 
 
 &emsp;(2) an insurance contract plan described in subsection (b);
 
-&emsp;(3) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees;
+&emsp;(3) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for aselect group of management or highly compensated employees;
 
 &emsp;(4)(A) a plan which is established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under such plan are made by employers of participants in such plan; or
 
@@ -34,7 +34,7 @@ For the purposes of paragraph (2) of subsection (a) a plan is an "insurance cont
 
 &emsp;(2) such contracts provide for level annual premium payments to be paid extending not later than the retirement age for each individual participating in the plan, and commencing with the date the individual became a participant in the plan (or, in the case of an increase in benefits, commencing at the time such increase became effective),
 
-&emsp;(3) benefits provided by the plan are equal to the benefits provided under each contract at normal retirement age under the plan and are guaranteed by an insurance carrier (licensedunder the laws of a State to do business with the plan) to the extent premiums have been paid,
+&emsp;(3) benefits provided by the plan are equal to the benefits provided under each contract at normal retirement age under the plan and are guaranteed by an insurance carrier (licensed under the laws of a State to do business with the plan) to the extent premiums have been paid,
 
 &emsp;(4) premiums payable for the plan year, and all prior plan years under such contracts have been paid before lapse or there is reinstatement of the policy,
 

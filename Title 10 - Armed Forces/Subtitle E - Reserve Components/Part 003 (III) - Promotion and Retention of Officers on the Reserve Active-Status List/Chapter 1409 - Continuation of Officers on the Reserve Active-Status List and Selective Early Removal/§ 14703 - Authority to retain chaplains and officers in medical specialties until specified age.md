@@ -30,7 +30,7 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–417 substituted "68 years" for "67 years".
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 substituted "Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain." for "veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist."
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 substituted "Air Force nurse, Medical Service Corps officer, biomedicalsciences officer, or chaplain." for "veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out "(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)" after "67 years of age".
 

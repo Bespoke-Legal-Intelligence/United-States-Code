@@ -14,5 +14,5 @@ Executive Order 11016, referred to in text, is Ex. Ord. No. 11016, Apr. 25, 1962
 
 #### Effective Date
 
-Pub. L. 105–85, div. A, title V, §571(b), Nov. 18, 1997, 111 Stat. 1756, provided that: "Section 1131 of title 10,United States Code, as added by subsection (a), shall apply with respect to persons who are killed or wounded after the end of the 180-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\]."
+Pub. L. 105–85, div. A, title V, §571(b), Nov. 18, 1997, 111 Stat. 1756, provided that: "Section 1131 of title 10, United States Code, as added by subsection (a), shall apply with respect to persons who are killed or wounded after the end of the 180-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\]."
 

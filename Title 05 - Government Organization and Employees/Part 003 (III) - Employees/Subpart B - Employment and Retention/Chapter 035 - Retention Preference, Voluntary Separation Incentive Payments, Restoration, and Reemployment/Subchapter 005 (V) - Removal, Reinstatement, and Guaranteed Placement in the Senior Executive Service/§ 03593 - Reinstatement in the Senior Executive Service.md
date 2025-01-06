@@ -56,5 +56,5 @@ Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and
 
 #### Effective Date
 
-Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
 

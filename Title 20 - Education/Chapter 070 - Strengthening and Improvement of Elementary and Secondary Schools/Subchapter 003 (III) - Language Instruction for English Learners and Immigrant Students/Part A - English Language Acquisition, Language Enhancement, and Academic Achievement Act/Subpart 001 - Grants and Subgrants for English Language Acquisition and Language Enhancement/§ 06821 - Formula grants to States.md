@@ -94,7 +94,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;&emsp;&emsp;(i) data available from the American Community Survey conducted by the Department of Commerce, which may be multiyear estimates;
 
-&emsp;&emsp;&emsp;(ii) the number of students being assessed for English language proficiency, based on the State's English language proficiency assessment under section 6311(b)(2)(G) of this title, which may be multiyear estimates; or
+&emsp;&emsp;&emsp;(ii) the number of students being assessed for English language proficiency,based on the State's English language proficiency assessment under section 6311(b)(2)(G) of this title, which may be multiyear estimates; or
 
 &emsp;&emsp;&emsp;(iii) a combination of data available under clauses (i) and (ii); and
 

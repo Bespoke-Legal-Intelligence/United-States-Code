@@ -44,7 +44,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (g)
 
-Exemption.—Subsection (a) shall not apply to an officer who transfers to the Space Force from a reserve component before the first day of the sixth fiscal year beginning after the date of the enactment of this section, and who, as of the date of the transfer, is serving in the grade of major, lieutenant colonel, or colonel or, in the case of the Navy or Coast Guard, lieutenant commander, commander, or captain.
+Exemption.—Subsection (a) shall not apply to an officer who transfers to the Space Forcefrom a reserve component before the first day of the sixth fiscal year beginning after the date of the enactment of this section, and who, as of the date of the transfer, is serving in the grade of major, lieutenant colonel, or colonel or, in the case of the Navy or Coast Guard, lieutenant commander, commander, or captain.
 
 (Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 642.)
 

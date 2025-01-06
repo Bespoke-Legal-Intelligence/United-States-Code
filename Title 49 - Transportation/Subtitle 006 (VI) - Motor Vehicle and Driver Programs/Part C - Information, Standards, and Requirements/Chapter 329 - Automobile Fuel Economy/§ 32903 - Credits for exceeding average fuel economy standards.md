@@ -12,7 +12,7 @@ Earning and Period for Applying Credits.—When the average fuel economy of pass
 
 Period of Availability and Plan for Future Credits.—(1) Except as provided in paragraph (2) of this subsection, credits under this section are available to a manufacturer at the end of the model year in which earned.
 
-(2)(A) Before the end of a model year, if a manufacturer has reason to believe that its average fuel economy for passenger automobiles will be less than the applicable standard for that model year, the manufacturer may submit a plan to the Secretary of Transportation demonstrating that the manufacturer will earn sufficient credits under this section within the next 3 model years to allow the manufacturer to meet that standard for the model year involved. Unless the Secretary finds that the manufacturer is unlikely to earn sufficient credits under the plan, the Secretary shall approve the plan. Those credits are available for the model year involved if—
+(2)(A) Before the end of a model year, if a manufacturer has reason to believe that its average fuel economy for passenger automobiles will be less than the applicable standard for that model year, the manufacturer may submit a plan to the Secretary of Transportation demonstrating that the manufacturer will earn sufficient credits under this section within the next 3 model years to allow the manufacturer to meet thatstandard for the model year involved. Unless the Secretary finds that the manufacturer is unlikely to earn sufficient credits under the plan, the Secretary shall approve the plan. Those credits are available for the model year involved if—
 
 &emsp;(i) the Secretary approves the plan; and
 

@@ -30,7 +30,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2023, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basisfor such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
+&emsp;&emsp;&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2023, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
 
 #### (II) Data
 
@@ -88,7 +88,7 @@
 
 #### (B) Goals missed
 
-&emsp;&emsp;For each of the goals identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+&emsp;&emsp;For each of the goals identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 forthe applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
 &emsp;&emsp;&emsp;(i) a justification for such determination;
 

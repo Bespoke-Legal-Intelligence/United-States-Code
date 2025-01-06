@@ -150,7 +150,7 @@ In general.—The Secretary of the Interior, in cooperation with the Secretary, 
 
 &emsp;&emsp;(B)
 
-Transportation facilities included in the inventory.—For purposes of identifying the tribal transportation system and determining the relative transportation needs among Indian tribes, the Secretary shall include, at a minimum, transportation facilities that are eligible for assistance under the tribal transportation program that an Indian tribe has requested, including facilities that—
+Transportation facilities included in the inventory.—For purposes of identifying the tribal transportation system and determining the relative transportation needs among Indian tribes, the Secretary shall include, at a minimum, transportationfacilities that are eligible for assistance under the tribal transportation program that an Indian tribe has requested, including facilities that—
 
 &emsp;&emsp;&emsp;(i) were included in the Bureau of Indian Affairs system inventory prior to October 1, 2004;
 
@@ -180,7 +180,7 @@ Bridges.—All bridges in the inventory shall be recorded in the national bridge
 
 &emsp;(2)
 
-Regulations.—Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of theInterior shall maintain any regulations governing the tribal transportation program.
+Regulations.—Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of the Interior shall maintain any regulations governing the tribal transportation program.
 
 &emsp;(3)
 
@@ -226,7 +226,7 @@ Tribal high priority projects.—The High Priority Projects program as included 
 
 Tribal shares.—Tribal shares under this program shall be determined using the national tribal transportation facility inventory as calculated for fiscal year 2012, and the most recent data on American Indian and Alaska Native population within each Indian tribe's American Indian/Alaska Native Reservation or Statistical Area, as computed under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.), in the following manner:
 
-&emsp;&emsp;&emsp;(i) 27 percent in the ratio that the total eligible road mileage in each tribe bears to the total eligible road mileage of all American Indians and Alaskan Natives. For the purposes of this calculation, eligible road mileage shall be computed based on the inventory described in paragraph (1), using only facilities included in the inventory described in clause (i), (ii), or (iii) of paragraph (1)(B).
+&emsp;&emsp;&emsp;(i) 27 percent in the ratio that the total eligible road mileage in each tribe bears to the total eligible road mileage of all American Indians and Alaskan Natives. For thepurposes of this calculation, eligible road mileage shall be computed based on the inventory described in paragraph (1), using only facilities included in the inventory described in clause (i), (ii), or (iii) of paragraph (1)(B).
 
 &emsp;&emsp;&emsp;(ii) 39 percent in the ratio that the total population in each tribe bears to the total population of all American Indians and Alaskan Natives.
 
@@ -320,7 +320,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government foruse in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
 
 &emsp;&emsp;(B)
 
@@ -352,7 +352,7 @@ Considerations.—An Indian tribal government that had no uncorrected significan
 
 &emsp;&emsp;(G)
 
-Assumption of functions and duties.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall assume all functions and duties that the Secretary of the Interior would have performed with respect to a program or project under this chapter, other than those functions and duties that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
+Assumption of functions and duties.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall assume all functions and duties that the Secretary of the Interior would have performed with respect to a program or project under this chapter,other than those functions and duties that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
 &emsp;&emsp;(H)
 
@@ -534,7 +534,7 @@ Decisions under other federal laws.—In any case in which a decision under any 
 
 &emsp;"(4)
 
-Extensions.—The Secretary or the Secretary of Transportation, as applicable, or the head of the Federal agency may extend the period under paragraph (2) or (3), as applicable, by an additional 30 days by providing the Indian tribe notice of the extension, including a statement of the need for the extension.
+Extensions.—The Secretary or the Secretary of Transportation, as applicable, or the head of the Federal agency may extend the period under paragraph (2) or (3), as applicable, by an additional 30 daysby providing the Indian tribe notice of the extension, including a statement of the need for the extension.
 
 &emsp;"(5)
 
@@ -860,7 +860,7 @@ In general.—If an eligible applicant submits an application for a project unde
 
 &emsp;&emsp;"(B)
 
-Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided toprojects on the list are returned to the Department of the Interior.
+Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided to projects on the list are returned to the Department of the Interior.
 
 &emsp;&emsp;"(C)
 

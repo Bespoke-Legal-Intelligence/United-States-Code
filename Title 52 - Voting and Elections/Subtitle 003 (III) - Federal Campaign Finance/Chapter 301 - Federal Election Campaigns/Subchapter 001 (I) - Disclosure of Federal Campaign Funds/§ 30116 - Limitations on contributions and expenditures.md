@@ -52,7 +52,7 @@
 
 &emsp;(D) contributions made to or for the benefit of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
 
-(8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions fromsuch person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
+(8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
 
 (9) An account described in this paragraph is any of the following accounts:
 
@@ -238,7 +238,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 #### (B) Effect of withdrawal of an opposing candidate
 
-&emsp;&emsp;A candidate and a candidate's authorized committee shall not accept any contribution and a party shall not make any expenditure under the increased limit after the date on which an opposing candidate ceases to be a candidate to the extent that the amount of such increased limit is attributable to such an opposing candidate.
+&emsp;&emsp;A candidate and a candidate's authorized committee shall not accept any contributionand a party shall not make any expenditure under the increased limit after the date on which an opposing candidate ceases to be a candidate to the extent that the amount of such increased limit is attributable to such an opposing candidate.
 
 #### (3) Disposal of excess contributions
 
@@ -320,7 +320,7 @@ Subsec. (i)(1)(E). Pub. L. 107–155, §316, added subpar. (E).
 
 Subsec. (j). Pub. L. 107–155, §304(a)(2), added subsec. (j).
 
-<b>1986</b>—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+<b>1986</b>—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification wastranslated as "title 26" thus requiring no change in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -332,7 +332,7 @@ Pub. L. 113–235, div. N, §101(c), Dec. 16, 2014, 128 Stat. 2773, provided tha
 
 Pub. L. 107–155, title III, §307(e), Mar. 27, 2002, 116 Stat. 103, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to contributions made on or after January 1, 2003."
 
-Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendments by sections 102 and 307 of theAct applicable with respect to contributions made on or after Jan. 1, 2003, and amendments by sections 202, 213, 214(a), 304(a), 316, and 319(b) of the Act not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendments by sections 102 and 307 of the Act applicable with respect to contributions made on or after Jan. 1, 2003, and amendments by sections 202, 213, 214(a), 304(a), 316, and 319(b) of the Act not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
 
 #### Regulations by the Federal Election Commission
 

@@ -11,7 +11,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | E–8 | E–⁠9 |  |
 | Army Reserve: |  |  |
 | 10,000 | 1,052 | 154&nbsp;&nbsp; |
-| 11,000 | 1,126 | 168   |
+| 11,000 | 1,126 | 168&nbsp;&nbsp; |
 | 12,000 | 1,195 | 180&nbsp;&nbsp; |
 | 13,000 | 1,261 | 191&nbsp;&nbsp; |
 | 14,000 | 1,327 | 202&nbsp;&nbsp; |
@@ -123,7 +123,7 @@ Reallocations to Lower Grade.—Whenever the number of members serving in pay gr
 
 Secretarial Waiver.—(1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve enlisted members that may be on active duty or full-time National Guard duty as described in subsection (a) for a reserve component in a pay grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for that grade and reserve component in the table.
 
-(2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on ArmedServices of the House of Representatives notice in writing of the adjustment made.
+(2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
 
 (e)
 
@@ -177,7 +177,7 @@ Subsec. (a). Pub. L. 104–106, §414(b), in table, in grade E–⁠9, increased
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1 \[\[div. A\], title IV, §415(b)\] of Pub. L. 106–398 effective Oct. 1, 2000, see section 1 \[\[div. A\], title IV, §415(c)\] of Pub. L. 106–398, set out as a note under section 12011 of this title.
+Amendment by section 1 \[\[div. A\], title IV, §415(b)\] of Pub. L. 106–398 effective Oct. 1, 2000, see section 1 \[\[div.A\], title IV, §415(c)\] of Pub. L. 106–398, set out as a note under section 12011 of this title.
 
 #### Effective Date of 1998 Amendment
 

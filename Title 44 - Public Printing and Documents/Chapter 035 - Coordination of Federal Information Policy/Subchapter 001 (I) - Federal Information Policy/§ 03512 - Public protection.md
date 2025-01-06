@@ -4,7 +4,7 @@
 
 &emsp;(1) the collection of information does not display a valid control number assigned by the Director in accordance with this subchapter; or
 
-&emsp;(2) the agency fails to inform the person who is to respond to the collection of informationthat such person is not required to respond to the collection of information unless it displays a valid control number.
+&emsp;(2) the agency fails to inform the person who is to respond to the collection of information that such person is not required to respond to the collection of information unless it displays a valid control number.
 
 (b) The protection provided by this section may be raised in the form of a complete defense, bar, or otherwise at any time during the agency administrative process or judicial action applicable thereto.
 

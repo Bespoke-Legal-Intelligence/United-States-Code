@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 101–189, §1621(a)(1), substituted "Department of Veteran
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Transfer of Functions
 

@@ -74,7 +74,7 @@ Whenever the administering authority has reasonable grounds to believe or suspec
 
 #### (2) Exception
 
-&emsp;A countervailing duty is not required to be imposed under subsection (a) on a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
+&emsp;A countervailing duty is not required to be imposed under subsection (a) on a class orkind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
 
 (June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, §1(a), Mar. 13, 2012, 126 Stat. 265.)
 
@@ -174,7 +174,7 @@ In General.—Except as otherwise provided in this section, the amendments made 
 
 "(b)
 
-Investigations and Reviews After Enactment.—The amendments made by sections 1312, 1315, 1316, 1318, 1325, 1326, 1327, 1328, 1329, 1331, and 1332 \[amending this section and sections 1516, 1671a to 1671c, 1673a to 1673c, 1673e, 1677, 1677b, 1677e, and 1677f of this title\] shall only apply with respect to—
+Investigations and Reviews After Enactment.—The amendments made by sections 1312, 1315,1316, 1318, 1325, 1326, 1327, 1328, 1329, 1331, and 1332 \[amending this section and sections 1516, 1671a to 1671c, 1673a to 1673c, 1673e, 1677, 1677b, 1677e, and 1677f of this title\] shall only apply with respect to—
 
 &emsp;"(1) investigations initiated after the date of enactment of this Act \[Aug. 23, 1988\], and
 
@@ -248,7 +248,7 @@ Pending Investigations of Bounties or Grants.—If, on the effective date of the
 
 &emsp;"(1) If the Secretary of the Treasury has not yet made a preliminary determination under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to this title \[this subtitle\] as if the affirmative determination called for in section 702 of that Act \[section 1671a of this title\] were made with respect to that matter on the effective date of the application of title VII of that Act \[this subtitle\] to such country.
 
-&emsp;"(2) If the Secretary has made a preliminary determination under such section 303 \[section 1303 of this title\], but not a final determination, as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under such section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to the provisions of title VII of that Act \[this subtitle\] as if the preliminary determination under section 303 \[section 1303 of this title\] were a preliminary determination under section 703 of that title \[section 1671b of this title\] made on the effective date of the application of that title \[this subtitle\] to such country.
+&emsp;"(2) If the Secretary has made a preliminary determination under such section 303 \[section 1303 of this title\], but not a final determination, as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under such section 303\[section 1303 of this title\] and the matter previously under investigation shall be subject to the provisions of title VII of that Act \[this subtitle\] as if the preliminary determination under section 303 \[section 1303 of this title\] were a preliminary determination under section 703 of that title \[section 1671b of this title\] made on the effective date of the application of that title \[this subtitle\] to such country.
 
 "(b)
 
@@ -276,7 +276,7 @@ Waived Countervailing Duty Orders.—
 
 &emsp;"(1)
 
-Notification of commission.—The administering authority shall notify the United StatesInternational Trade Commission by January 7, 1980, of any countervailing duty order in effect on January 1, 1980—
+Notification of commission.—The administering authority shall notify the United States International Trade Commission by January 7, 1980, of any countervailing duty order in effect on January 1, 1980—
 
 &emsp;&emsp;"(A)(i) for which the Secretary of the Treasury has waived the imposition of countervailing duties under section 303(d) of the Tariff Act of 1930 (19 U.S.C. 1303(d)), and
 

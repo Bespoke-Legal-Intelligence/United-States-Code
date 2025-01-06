@@ -32,7 +32,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;&emsp;(III) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive, integrated employment for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
+&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing theemployment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
 
 &emsp;&emsp;&emsp;(iii) the balance—
 
@@ -134,7 +134,7 @@ The State board shall assist the Governor in—
 
 #### (1) In general
 
-&emsp;For the purposes of complying with subsections (a), (b), and (c), a State may use anyState entity (including a State council, State workforce development board (within the meaning of the Workforce Investment Act of 1998, as in effect on the day before July 22, 2014), combination of regional workforce development boards, or similar entity) that—
+&emsp;For the purposes of complying with subsections (a), (b), and (c), a State may use any State entity (including a State council, State workforce development board (within the meaning of the Workforce Investment Act of 1998, as in effect on the day before July 22, 2014), combination of regional workforce development boards, or similar entity) that—
 
 &emsp;&emsp;(A) was in existence on the day before August 7, 1998;
 

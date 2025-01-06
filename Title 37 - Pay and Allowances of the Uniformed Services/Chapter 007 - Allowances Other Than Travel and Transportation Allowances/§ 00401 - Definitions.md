@@ -64,7 +64,7 @@ Other Definitions.—For purposes of subsection (a):
 
 &emsp;&emsp;(E) any other person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, §8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, §621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, §631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, §701(b), Oct. 5, 1994, 108 Stat. 2797.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, §8(e)(7), Apr. 21, 1987, 101 Stat. 286;Pub. L. 102–190, div. A, title VI, §621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, §631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, §701(b), Oct. 5, 1994, 108 Stat. 2797.)
 
 Historical and Revision Notes
 
@@ -100,7 +100,7 @@ The words "lawful", "at all times and in all places", "except as hereinafter lim
 
 &emsp;&emsp;"(B) is incapable of self-support because of a mental or physical incapacity, and in fact dependent on the member for over one-half of his support; and
 
-&emsp;"(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-halfof his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
+&emsp;"(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-half of his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
 
 &emsp;&emsp;"(A) the member has provided over one-half of his support for the period prescribed by the Secretary concerned; or
 

@@ -8,7 +8,7 @@ In this section, the term "covered grants" means grants awarded under section 60
 
 Not later than 90 days after October 12, 2010, the Administrator shall submit to the appropriate committees of Congress a report that includes—
 
-&emsp;(1) an assessment of redundant reporting requirements imposed by the Administrator onState, local, and tribal governments in connection with the awarding of grants, including—
+&emsp;(1) an assessment of redundant reporting requirements imposed by the Administrator on State, local, and tribal governments in connection with the awarding of grants, including—
 
 &emsp;&emsp;(A) a list of each discrete item of data requested by the Administrator from grant recipients as part of the process of administering covered grants;
 

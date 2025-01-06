@@ -44,7 +44,7 @@ The aggregate amount of outstanding commitments under subsection (a) may not exc
 
 #### (i) Administrative and technical assistance
 
-The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bankand the Administrator determine appropriate to assist the administering agency in carrying out this section.
+The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bank and the Administrator determine appropriate to assist the administering agency in carrying out this section.
 
 #### (j) Fees and premiums
 

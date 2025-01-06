@@ -168,7 +168,7 @@ The Agricultural Market Transition Act, referred to in subsec. (b)(1), is title 
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(1)(A), (3)(A), (E)(i), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
@@ -202,7 +202,7 @@ Subsec. (d). Pub. L. 104–127, §321(b)(2), added subsec. (d).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1421(b)(1), designated existing provisions as subsec. (a).
 
-Subsec. (a)(1)(D). Pub. L. 101–624, §1421(b)(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
+Subsec. (a)(1)(D). Pub. L. 101–624, §1421(b)(2), inserted reference to section 132 of the Disaster Assistance Actof 1989 and similar provisions enacted after Aug. 14, 1989.
 
 Subsec. (a)(3). Pub. L. 101–624, §1421(b)(3)–(5), added par. (3).
 

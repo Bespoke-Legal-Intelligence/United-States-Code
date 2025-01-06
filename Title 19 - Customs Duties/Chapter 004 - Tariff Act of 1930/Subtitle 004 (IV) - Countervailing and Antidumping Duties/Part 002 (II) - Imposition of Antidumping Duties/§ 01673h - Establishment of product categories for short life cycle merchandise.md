@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(1)(B)(v), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(1)(B)(v), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 

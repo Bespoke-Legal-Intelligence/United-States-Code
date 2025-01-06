@@ -42,7 +42,7 @@
 
 &emsp;(B) Any veteran who the Secretary determines has no adequate means of support.
 
-(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connected disability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of a veteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
+(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connected disability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of aveteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
 
 (d) In no case may nursing home care be furnished in a hospital not under the direct jurisdiction of the Secretary except as provided in section 1720 of this title.
 
@@ -112,7 +112,7 @@
 
 &emsp;(VI) Resolute Support Mission.
 
-(2)(A) In the case of a veteran described in paragraph (1)(A), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
+(2)(A) In the case of a veteran described in paragraph (1)(A), hospital care, medical services,and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
 
 &emsp;(i) a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in paragraph (4)(A)(ii); or
 
@@ -156,7 +156,7 @@
 
 &emsp;(v) October 1, 2032, with respect to a veteran described in such subparagraph (I).
 
-(B)(i) The Secretary may modify a date specified in subparagraph (A) to an earlier date, asthe Secretary determines appropriate based on the number of veterans receiving hospital care, medical services, and nursing home care under subparagraphs (G), (H), and (I) of paragraph (1) and the resources available to the Secretary.
+(B)(i) The Secretary may modify a date specified in subparagraph (A) to an earlier date, as the Secretary determines appropriate based on the number of veterans receiving hospital care, medical services, and nursing home care under subparagraphs (G), (H), and (I) of paragraph (1) and the resources available to the Secretary.
 
 (ii) If the Secretary determines to modify a date under clause (i), the Secretary shall—
 
@@ -166,7 +166,7 @@
 
 (f)(1) The Secretary may not furnish hospital care or nursing home care (except if such care constitutes hospice care) under this section to a veteran who is eligible for such care under subsection (a)(3) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) or (4) of this subsection.
 
-(2) A veteran who is furnished hospital care or nursing home care under this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such care shall be liable to the United States for an amount equal to—
+(2) A veteran who is furnished hospital care or nursing home care under this section and who is required under paragraph (1) of this subsectionto agree to pay an amount to the United States in order to be furnished such care shall be liable to the United States for an amount equal to—
 
 &emsp;(A) the lesser of—
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;(ii) the amount determined under paragraph (3) of this subsection; and
 
-&emsp;(B) before September 30, 2024, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+&emsp;(B) before September 30, 2025, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 (3)(A) In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
 
@@ -218,7 +218,7 @@
 
 (g)(1) The Secretary may not furnish medical services (except if such care constitutes hospice care) under subsection (a) of this section (including home health services under section 1717 of this title) to a veteran who is eligible for hospital care under this chapter by reason of subsection (a)(3) of this section unless the veteran agrees to pay to the United States in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation.
 
-(2) A veteran who is furnished medical services under subsection (a) of this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such services shall be liable to the United States, in the case of each visit in which such services are furnished to the veteran, for an amount which the Secretary shall establish by regulation.
+(2) A veteran who is furnished medical services under subsection (a) of this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such services shall be liable to the United States, in the case of eachvisit in which such services are furnished to the veteran, for an amount which the Secretary shall establish by regulation.
 
 (3) This subsection does not apply with respect to the following:
 
@@ -228,7 +228,7 @@
 
 (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§513, 517, May 5, 2010, 124 Stat. 1164, 1167; Pub. L. 112–154, title I, §§102(a), 112, Aug. 6, 2012, 126 Stat. 1167, 1176; Pub. L. 113–37, §2(c), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, §107, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–235, div. I, title II, §243, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–2, §7, Feb. 12, 2015, 129 Stat. 36; Pub. L. 114–58, title I, §101, title VI, §601(4), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–198, title IX, §915(b), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(b), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–228, title I, §101, Sept. 29, 2016, 130 Stat. 936; Pub. L. 114–315, title VI, §603(b), title VIII, §802(3), Dec. 16, 2016, 130 Stat. 1570, 1591; Pub. L. 115–62, title I, §101, Sept. 29, 2017, 131 Stat. 1160; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(B), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–251, title I, §101, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–23, §2(f), June 25, 2019, 133 Stat. 969; Pub. L. 116–159, div. E, title I, §5101, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–283, div. A, title IX, §926(a)(21), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title I, §§102(a), (c), 103(a), 111(a), (b), title IV, §403(c), Aug. 10, 2022, 136 Stat. 1761, 1762, 1765, 1766, 1781; Pub. L. 117–180, div. E, title I, §101, Sept. 30, 2022, 136 Stat. 2136; Pub. L. 117–328, div. U, title I, §101(a), Dec. 29, 2022, 136 Stat. 5407.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§513, 517, May 5, 2010, 124 Stat. 1164, 1167; Pub. L. 112–154, title I, §§102(a), 112, Aug. 6, 2012, 126 Stat. 1167, 1176; Pub. L. 113–37, §2(c), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, §107, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–235, div. I, title II, §243, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–2, §7, Feb. 12, 2015, 129 Stat. 36; Pub. L. 114–58, title I, §101, title VI, §601(4), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–198, title IX, §915(b), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(b), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–228, title I, §101, Sept. 29, 2016, 130 Stat. 936; Pub. L. 114–315, title VI, §603(b), title VIII, §802(3), Dec. 16, 2016, 130 Stat. 1570, 1591; Pub. L. 115–62, title I, §101, Sept. 29, 2017, 131 Stat. 1160; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(B), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–251, title I, §101, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–23, §2(f), June 25, 2019, 133 Stat. 969; Pub. L. 116–159, div. E, title I, §5101, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–283, div. A, title IX, §926(a)(21), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title I, §§102(a), (c), 103(a), 111(a), (b), title IV, §403(c), Aug. 10, 2022, 136 Stat. 1761, 1762, 1765, 1766, 1781; Pub. L. 117–180, div. E, title I, §101, Sept. 30, 2022, 136 Stat. 2136; Pub. L. 117–328, div. U, title I, §101(a), Dec. 29, 2022, 136 Stat. 5407; Pub. L. 118–83, div. B, title III, §301, Sept. 26, 2024, 138 Stat. 1539.)
 
 #### <b>Editorial Notes</b>
 
@@ -247,6 +247,8 @@ The text of subsec. (f) of section 1712 of this title, which was transferred to 
 A prior section 1710 was renumbered section 3510 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f)(2)(B). Pub. L. 118–83 substituted "September 30, 2025" for "September 30, 2024".
 
 <b>2022</b>—Subsec. (a)(2)(E). Pub. L. 117–328 designated existing provisions as introductory provisions, substituted "of—" for "of the Mexican border period or of World War I;", and added cls. (i) to (iii).
 
@@ -334,7 +336,7 @@ Subsec. (e)(3)(B). Pub. L. 110–387, §803(a)(1), inserted "and" after the semi
 
 Subsec. (e)(3)(C). Pub. L. 110–387, §803(a)(2), substituted a period at end for "; and".
 
-Pub. L. 110–181 amended subpar. (C) generally. Prior to amendment subpar. (C) read as follows: "in the case of care for a veteran described in paragraph (1)(D), after a period of 2 years beginning on the date of the veteran's discharge or release from active military, naval, or air service; and".
+Pub. L. 110–181 amended subpar. (C) generally. Prior to amendment subpar. (C) read as follows: "in the caseof care for a veteran described in paragraph (1)(D), after a period of 2 years beginning on the date of the veteran's discharge or release from active military, naval, or air service; and".
 
 Subsec. (e)(3)(D). Pub. L. 110–387, §803(a)(3), struck out subpar. (D) which read as follows: "in the case of care for a veteran described in paragraph (1)(E), after December 31, 2007".
 
@@ -414,7 +416,7 @@ Subsec. (f)(2)(B). Pub. L. 105–33, §8021(a)(1), inserted "before September 30
 
 Subsec. (f)(4), (5). Pub. L. 105–33, §8023(b)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "Amounts collected or received on behalf of the United States under this subsection shall be deposited in the Treasury as miscellaneous receipts."
 
-Subsec. (g)(4). Pub. L. 105–33, §8023(b)(2), struck out par. (4) which read as follows: "Amounts collected orreceived by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts."
+Subsec. (g)(4). Pub. L. 105–33, §8023(b)(2), struck out par. (4) which read as follows: "Amounts collected or received by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–262, §101(a), amended subsec. (a) generally, revising and restating provisions in former pars. (1) to (3) relating to eligibility for care as pars. (1) to (4).
 
@@ -898,7 +900,7 @@ Elements.—Each report required by subsection (a) shall include the following i
 
 &emsp;"(6) For each appointment type specified in paragraph (5)(B), the number of appointments completed in-person and the number of appointments completed through the use of telehealth.
 
-&emsp;"(7) If known, an identification of the medical facility of the Department in each Veterans IntegratedService Network with the largest rate of increase in patient population of women veterans as measured by the increase in unique women veteran patient use.
+&emsp;"(7) If known, an identification of the medical facility of the Department in each Veterans Integrated Service Network with the largest rate of increase in patient population of women veterans as measured by the increase in unique women veteran patient use.
 
 &emsp;"(8) If known, an identification of the medical facility of the Department in each Veterans Integrated Service Network with the largest rate of decrease in patient population of women veterans as measured by the decrease in unique women veterans patient use."
 
@@ -912,7 +914,7 @@ Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pi
 
 "(b)
 
-Limitation on Period of Payments.—Assistance may only be provided to a qualified veteran under the pilot program for receipt of child care during the period that the qualified veteran—
+Limitation on Period of Payments.—Assistance may only be provided to a qualified veteran under thepilot program for receipt of child care during the period that the qualified veteran—
 
 &emsp;"(1) receives the types of health care services described in subsection (c) at a facility of the Department; and
 

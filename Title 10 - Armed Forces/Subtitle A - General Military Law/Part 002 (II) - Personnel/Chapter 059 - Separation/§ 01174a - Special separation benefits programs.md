@@ -154,7 +154,7 @@ Pub. L. 103–160, div. A, title V, §507, Nov. 30, 1993, 107 Stat. 1646, as ame
 
 Procedure for Review.—(1) The Secretary of each military department shall establish a procedure for the review of the individual circumstances of an officer described in paragraph (2) who is discharged, or who the Secretary concerned approves for discharge, following the report of a selection board convened by the Secretary to select officers for separation. The procedure established by the Secretary of a military department under this section shall provide that each review under that procedure be carried out by the Board for the Correction of Military Records of that military department.
 
-"(2) This section applies in the case of any officer (including a warrant officer) who, having been offered the opportunity to be discharged or otherwise separated from active duty through the programs provided under section 1174a and 1175 of title 10, United States Code—
+"(2) This section applies in the case of any officer (including a warrant officer) who, having been offered the opportunity to be discharged or otherwise separatedfrom active duty through the programs provided under section 1174a and 1175 of title 10, United States Code—
 
 &emsp;"(A) elected not to accept such discharge or separation; and
 

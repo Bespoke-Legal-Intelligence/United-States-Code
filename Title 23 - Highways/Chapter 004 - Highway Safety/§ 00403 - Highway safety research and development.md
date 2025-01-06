@@ -76,7 +76,7 @@ Use of technology.—The research, development, or use of any technology pursuan
 
 (d)
 
-Title to Equipment.—In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
+Title to Equipment.—In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on suchterms and conditions as the Secretary determines to be appropriate.
 
 (e)
 
@@ -456,7 +456,7 @@ Pub. L. 102–240, title II, §2006, Dec. 18, 1991, 105 Stat. 2079, provided tha
 
 "(a)
 
-Establishment.—The Secretary, acting through the National Highway Traffic Safety Administration, shall establish a regional program for implementation of drug recognition programs and for training law enforcement officers (including enforcement officials under the motor carrier safety assistance program) to recognize and identify individuals who are operating a motor vehicle while under the influence of alcohol or one or more controlled substances or other drugs.
+Establishment.—The Secretary, acting through the National Highway Traffic Safety Administration, shall establish a regional program for implementationof drug recognition programs and for training law enforcement officers (including enforcement officials under the motor carrier safety assistance program) to recognize and identify individuals who are operating a motor vehicle while under the influence of alcohol or one or more controlled substances or other drugs.
 
 "(b)
 
@@ -564,7 +564,7 @@ Pub. L. 99–570, title III, §3402, Oct. 27, 1986, 100 Stat. 3207–102, direct
 
 #### National Driver Register Study
 
-Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
+Pub. L. 95–599, title II, §204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a fulland complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
 
 #### Detection and Prevention of Marijuana and Other Drug Use by Operators of Motor Vehicles
 

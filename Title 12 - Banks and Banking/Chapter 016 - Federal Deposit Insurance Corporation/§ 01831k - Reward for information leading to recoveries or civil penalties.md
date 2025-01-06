@@ -24,7 +24,7 @@ An appropriate Federal banking agency, with the concurrence of the Attorney Gene
 
 &emsp;&emsp;&emsp;(viii) section 3663 of title 18 pursuant to a conviction for an offense referred to in subparagraph (B) of this paragraph,
 
-&emsp;&emsp;(B) pursuant to a conviction for an offense under section 215, 656, 657, 1005, 1006, 1007,1014, 1341, 1343, or 1344 of title 18 affecting a depository institution insured by the Federal Deposit Insurance Corporation, or for a conspiracy to commit such an offense; or
+&emsp;&emsp;(B) pursuant to a conviction for an offense under section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of title 18 affecting a depository institution insured by the Federal Deposit Insurance Corporation, or for a conspiracy to commit such an offense; or
 
 &emsp;&emsp;(C) under section 1833a of this title; or
 

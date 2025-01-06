@@ -142,7 +142,7 @@ Not later than 180 days after November 15, 2021, the Secretary shall establish a
 
 #### (5) Priority
 
-&emsp;In making grants to eligible entities using funds made available to the applicable Stateor Indian Tribe under the program, the State or Indian Tribe shall give priority to projects that, in the determination of the State or Indian Tribe, will generate the greatest community benefit (whether rural or urban) in reducing the likelihood and consequences of disruptive events.
+&emsp;In making grants to eligible entities using funds made available to the applicable State or Indian Tribe under the program, the State or Indian Tribe shall give priority to projects that, in the determination of the State or Indian Tribe, will generate the greatest community benefit (whether rural or urban) in reducing the likelihood and consequences of disruptive events.
 
 #### (6) Small utilities set aside
 

@@ -44,7 +44,7 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 #### (e) Rules applicable to subsection (a)(2) actions
 
-No action may be commenced under paragraph (2) of subsection (a) before the 60th day following the date on which the plaintiff gives notice to the Administrator or other department, agency, or instrumentality that the plaintiffwill commence such action. Notice under this subsection shall be given in such manner as the President shall prescribe by regulation.
+No action may be commenced under paragraph (2) of subsection (a) before the 60th day following the date on which the plaintiff gives notice to the Administrator or other department, agency, or instrumentality that the plaintiff will commence such action. Notice under this subsection shall be given in such manner as the President shall prescribe by regulation.
 
 #### (f) Costs
 
@@ -68,7 +68,7 @@ The terms used in this section shall have the same meanings as when used in subc
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (d)(2), and (h), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (a), (d)(2), and (h), was in the original "this Act", meaning Pub. L.96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

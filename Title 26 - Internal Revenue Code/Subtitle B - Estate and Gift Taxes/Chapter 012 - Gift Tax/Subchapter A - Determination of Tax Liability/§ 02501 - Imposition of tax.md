@@ -14,7 +14,7 @@
 
 #### (A) Certain individuals
 
-&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor to whom section 877(b) applies forthe taxable year which includes the date of the transfer.
+&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer.
 
 #### (B) Credit for foreign gift taxes
 
@@ -166,7 +166,7 @@ Pub. L. 89–809, title I, §109(c), Nov. 13, 1966, 80 Stat. 1575, provided that
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–779, §4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: "The amendments made by subsection (d) \[amending this section\] shall apply with respect to gifts made after the date of the enactment of this Act \[Sept. 14, 1960\]."
+Pub. L. 86–779, §4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: "The amendments made by subsection\(d) \[amending this section\] shall apply with respect to gifts made after the date of the enactment of this Act \[Sept. 14, 1960\]."
 
 #### Effective Date of 1958 Amendment
 

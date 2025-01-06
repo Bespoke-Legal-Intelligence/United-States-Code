@@ -26,7 +26,7 @@ There shall be deposited into the Fund—
 
 #### (d) Acceptance of donations
 
-For purposes of carrying out this subchapter and section 1374(c)(2)(D) of this title, the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive,hold, administer, and use gifts, devises, and bequests.
+For purposes of carrying out this subchapter and section 1374(c)(2)(D) of this title, the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
 
 (Pub. L. 92–522, title IV, §405, formerly title III, §305, as added Pub. L. 102–587, title III, §3003(a), Nov. 4, 1992, 106 Stat. 5064; renumbered title IV, §405, and amended Pub. L. 103–238, §§6, 16(b), 24(b), (c)(2), Apr. 30, 1994, 108 Stat. 542, 559, 565, 566; Pub. L. 117–263, div. J, title CIV, §10403, Dec. 23, 2022, 136 Stat. 3983.)
 

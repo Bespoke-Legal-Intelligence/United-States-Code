@@ -20,7 +20,7 @@ Not later than one year after December 23, 2022, the Secretary of Homeland Secur
 
 &emsp;&emsp;(A) the rate of detection of illicit fentanyl, fentanyl analogs, and precursor chemicals at land, air, and sea ports of entry;
 
-&emsp;&emsp;(B) investigations and intelligence sharing into the origins of illicit fentanyl, fentanylanalogs, and precursor chemicals within the United States; and
+&emsp;&emsp;(B) investigations and intelligence sharing into the origins of illicit fentanyl, fentanyl analogs, and precursor chemicals within the United States; and
 
 &emsp;&emsp;(C) other data or metrics considered appropriate by the Secretary of Homeland Security.
 

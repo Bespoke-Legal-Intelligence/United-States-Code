@@ -94,7 +94,7 @@ Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sex
 
 &emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the midshipman's enrollment in the institution of higher education to which the midshipman wishes to transfer and to process the midshipman for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
 
-(3) If the Superintendent of the United States Naval Academy denies a request for transfer under this subsection, the midshipman may request review of the denial by the Secretary ofthe Navy, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+(3) If the Superintendent of the United States Naval Academy denies a request for transfer under this subsection, the midshipman may request review of the denial by the Secretary of the Navy, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
 
 (4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
 
@@ -124,7 +124,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of 
 
 #### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
 
-Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section 539 of Pub. L. 116–283, set out as a note under section 7461 of this title.
+Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section539 of Pub. L. 116–283, set out as a note under section 7461 of this title.
 
 #### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
 

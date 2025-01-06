@@ -80,7 +80,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) has a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (ormixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
 &emsp;(B) The terms "major fuel-burning installation" and "installation" do not include—
 
@@ -198,13 +198,13 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(B) the Btu content of such synthetic gas is equal to, or greater than, the Btu content of the natural gas to be covered by this subsection by reason of such certification, plus the approximate Btu content of any natural gas consumed or lost in transportation;
 
-&emsp;(C) such person delivers, or arranges for the delivery of, such synthetic gas to a pipeline orpipelines which by transport or displacement are capable of delivering such synthetic gas, mixed with natural gas, to such person; and
+&emsp;(C) such person delivers, or arranges for the delivery of, such synthetic gas to a pipeline or pipelines which by transport or displacement are capable of delivering such synthetic gas, mixed with natural gas, to such person; and
 
 &emsp;(D) all necessary permits, licenses, or approvals from appropriate Federal, State, and local agencies (including Indian tribes) have been obtained for construction and operation of the facilities for the manufacture of the synthetic gas involved.
 
 (2) The application of paragraph (1) with respect to the use of natural gas by any powerplant shall be conditioned on the person using such natural gas submitting to the Secretary a report not later than one year after certification is made under paragraph (1), and annually thereafter, containing the following information:
 
-&emsp;(A) the source, amount, quality, and point of delivery to the pipeline of the synthetic gas to which paragraph (1) applied during the annual period ending with the calendar month preceding the date of such report; and
+&emsp;(A) the source, amount, quality, and point of delivery to the pipeline of the synthetic gas towhich paragraph (1) applied during the annual period ending with the calendar month preceding the date of such report; and
 
 &emsp;(B) the amount, quality, and point of delivery by the pipeline to such person of the natural gas covered by paragraph (1) which is used by the person during such annual period.
 

@@ -12,7 +12,7 @@ The Federal Government and the government of any State or political subdivision 
 
 (1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any standard for special packaging or related requirement of such State or political subdivision applicable to a household substance subject to a standard or requirement in effect under this Act if—
 
-&emsp;(A) compliance with the State or political subdivision standard or requirement would notcause the household substance to be in violation of the standard or requirement in effect under this Act, and
+&emsp;(A) compliance with the State or political subdivision standard or requirement would not cause the household substance to be in violation of the standard or requirement in effect under this Act, and
 
 &emsp;(B) the State or political subdivision standard or requirement (i) provides a significantly higher degree of protection from the risk of illness or injury with respect to which the Federal standard or requirement is in effect, and (ii) does not unduly burden interstate commerce.
 
@@ -40,5 +40,5 @@ For classification to the Code of "this Act", referred to in text, see Reference
 
 #### Preemption
 
-The provisions of this section establishing the extent to which the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Poison Prevention Packaging Act of 1970, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.
+The provisions of this section establishing the extent to which the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application,by any rule or regulation under the Poison Prevention Packaging Act of 1970, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.
 

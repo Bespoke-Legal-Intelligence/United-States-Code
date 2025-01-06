@@ -76,7 +76,7 @@ In order to receive any grant, loan, or work assistance under this subchapter, a
 
 #### (1) Student eligibility
 
-&emsp;In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognizedequivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall meet the requirements of one of the following subparagraphs:
+&emsp;In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall meet the requirements of one of the following subparagraphs:
 
 &emsp;&emsp;(A) The student is enrolled in an eligible career pathway program and meets one of the following standards:
 
@@ -130,7 +130,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 #### (2) Special rule
 
-&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 toverify eligibility to participate in work-study programs under part C of this subchapter.
+&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 to verify eligibility to participate in work-study programs under part C of this subchapter.
 
 #### (3) Verification mechanisms
 
@@ -176,7 +176,7 @@ Notwithstanding subsection (h),<sup>1</sup> if—
 
 &emsp;(4) there is a subsequent determination that, because of an unsatisfactory immigration status, the individual is not eligible for the loan,
 
-> the official of the institution making the determination shall notify and instruct the entity making the loan to cease further payments under the loan, but such guaranty shall not be voided or otherwise nullified with respect to such payments made before the date the entity receives the notice.
+> the official of the institution making the determination shall notify and instruct the entity making the loan to cease further payments under the loan, but such guaranty shall not be voided or otherwise nullified with respect tosuch payments made before the date the entity receives the notice.
 
 #### (j) Repealed. Pub. L. 110–315, title IV, §485(a)(4), Aug. 14, 2008, 122 Stat. 3288
 
@@ -202,21 +202,17 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prioraward of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (m) Students with a first baccalaureate or professional degree
 
 A student shall not be ineligible for assistance under parts B, C, D, and E of this subchapter because such student has previously received a baccalaureate or professional degree.
 
-#### (n) Data base matching
-
-To enforce the Selective Service registration provisions of section 3811(f) of title 50, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person's registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student's registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
-
-#### (o) Study abroad
+#### (n) Study abroad
 
 Nothing in this chapter shall be construed to limit or otherwise prohibit access to study abroad programs approved by the home institution at which a student is enrolled. An otherwise eligible student who is engaged in a program of study abroad approved for academic credit by the home institution at which the student is enrolled shall be eligible to receive grant, loan, or work assistance under this subchapter, without regard to whether such study abroad program is required as part of the student's degree program.
 
-#### (p) Verification of social security number
+#### (o) Verification of social security number
 
 The Secretary of Education, in cooperation with the Commissioner of the Social Security Administration, shall verify any social security number provided by a student to an eligible institution under subsection (a)(4) and shall enforce the following conditions:
 
@@ -232,46 +228,11 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;(B) any student with respect to any error in a social security number, unless such error was a result of fraud on the part of the student.
 
-#### (q) Repealed. Pub. L. 116–91, §6(b), Dec. 19, 2019, 133 Stat. 1196
+#### (p) Use of income data with IRS
 
-#### (r) Suspension of eligibility for drug-related offenses
+The Secretary, in cooperation with the Secretary of the Treasury, shall fulfill the data transfer requirements under section 6103(l)(13) of title 26 and the procedure and requirements outlined in section 1098h of this title.
 
-#### (1) In general
-
-&emsp;A student who is convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance for conduct that occurred during a period of enrollment for which the student was receiving any grant, loan, or work assistance under this subchapter shall not be eligible to receive any grant, loan, or work assistance under this subchapter from the date of that conviction for the period of time specified in the following table:
-
-&nbsp;
-
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| <b>If convicted of an offense involving:</b> |  |
-| <b>The possession of a controlled substance:</b> | <b>Ineligibility period is:</b> |
-| First offense | &nbsp;&nbsp;1 year |
-| Second offense | &nbsp;&nbsp;2 years |
-| Third offense | &nbsp;&nbsp;Indefinite. |
-| <b>The sale of a controlled substance:</b> | <b>Ineligibility period is:</b> |
-| First offense | &nbsp;&nbsp;2 years |
-| Second offense | &nbsp;&nbsp;Indefinite. |
-
-#### (2) Rehabilitation
-
-&emsp;A student whose eligibility has been suspended under paragraph (1) may resume eligibility before the end of the ineligibility period determined under such paragraph if—
-
-&emsp;&emsp;(A) the student satisfactorily completes a drug rehabilitation program that—
-
-&emsp;&emsp;&emsp;(i) complies with such criteria as the Secretary shall prescribe in regulations for purposes of this paragraph; and
-
-&emsp;&emsp;&emsp;(ii) includes two unannounced drug tests;
-
-&emsp;&emsp;(B) the student successfully passes two unannounced drug tests conducted by a drug rehabilitation program that complies with such criteria as the Secretary shall prescribe in regulations for purposes of subparagraph (A)(i); or
-
-&emsp;&emsp;(C) the conviction is reversed, set aside, or otherwise rendered nugatory.
-
-#### (3) Definitions
-
-&emsp;In this subsection, the term "controlled substance" has the meaning given the term in section 802(6) of title 21.
-
-#### (s) Students with intellectual disabilities
+#### (q) Students with intellectual disabilities
 
 #### (1) Definitions
 
@@ -295,7 +256,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;Notwithstanding regulations applicable to grant or work assistance awards made under section 1070a of this title, subpart 3 of part A, and part C (other than a regulation under part F related to such an award), including with respect to eligible programs, instructional time, credit status, and enrollment status as described in section 1088 of this title, the Secretary shall promulgate regulations allowing programs enrolling students with intellectual disabilities otherwise determined to be eligible under this subsection to receive such awards.
 
-#### (t) Data analysis on access to Federal student aid for certain populations
+#### (r) Data analysis on access to Federal student aid for certain populations
 
 #### (1) Development of the system
 
@@ -313,153 +274,137 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
+#### (s) Exception to required registration with the Selective Service System
+
+Notwithstanding section 3811(f) of title 50, an individual shall not be ineligible for assistance or a benefit provided under this subchapter if the individual is required under section 3802 of title 50 to present himself for and submit to registration under such section and fails to do so in accordance with any proclamation issued under such section, or in accordance with any rule or regulation issued under such section.
+
+#### (t) Confined or incarcerated individuals
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Confined or incarcerated individual
+
+&emsp;&emsp;The term "confined or incarcerated individual"—
+
+&emsp;&emsp;&emsp;(i) means an individual who is serving a criminal sentence in a Federal, State, or local penal institution, prison, jail, reformatory, work farm, or other similar correctional institution; and
+
+&emsp;&emsp;&emsp;(ii) does not include an individual who is in a halfway house or home detention or is sentenced to serve only weekends.
+
+#### (B) Prison education program
+
+&emsp;&emsp;The term "prison education program" means an education or training program that—
+
+&emsp;&emsp;&emsp;(i) is an eligible program under this subchapter offered by an institution of higher education (as defined in section 1001 or 1002(a)(1)(B) of this title);
+
+&emsp;&emsp;&emsp;(ii) is offered by an institution that has been approved to operate in a correctional facility by the appropriate State department of corrections or other entity that is responsible for overseeing correctional facilities, or by the Bureau of Prisons;
+
+&emsp;&emsp;&emsp;(iii) has been determined by the appropriate State department of corrections or other entity that is responsible for overseeing correctional facilities, or by the Bureau of Prisons, to be operating in the best interest of students, the determination of which shall be made by the State department of corrections or other entity or by the Bureau of Prisons, respectively, and may be based on—
+
+&emsp;&emsp;&emsp;&emsp;(I) rates of confined or incarcerated individuals continuing their education post-release;
+
+&emsp;&emsp;&emsp;&emsp;(II) job placement rates for such individuals;
+
+&emsp;&emsp;&emsp;&emsp;(III) earnings for such individuals;
+
+&emsp;&emsp;&emsp;&emsp;(IV) rates of recidivism for such individuals;
+
+&emsp;&emsp;&emsp;&emsp;(V) the experience, credentials, and rates of turnover or departure of instructors;
+
+&emsp;&emsp;&emsp;&emsp;(VI) the transferability of credits for courses available to confined or incarcerated individuals and the applicability of such credits toward related degree or certificate programs; or
+
+&emsp;&emsp;&emsp;&emsp;(VII) offering relevant academic and career advising services to participating confined or incarcerated individualswhile they are confined or incarcerated, in advance of reentry, and upon release;
+
+&emsp;&emsp;&emsp;(iv) offers transferability of credits to at least 1 institution of higher education (as defined in section 1001 or 1002(a)(1)(B) of this title) in the State in which the correctional facility is located, or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release;
+
+&emsp;&emsp;&emsp;(v) is offered by an institution that has not been subject, during the 5 years preceding the date of the determination, to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any suspension, emergency action, or termination of programs under this subchapter;
+
+&emsp;&emsp;&emsp;&emsp;(II) any adverse action by the institution's accrediting agency or association; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any action by the State to revoke a license or other authority to operate;
+
+&emsp;&emsp;&emsp;(vi) satisfies any applicable educational requirements for professional licensure or certification, including licensure or certification examinations needed to practice or find employment in the sectors or occupations for which the program prepares the individual, in the State in which the correctional facility is located or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release; and
+
+&emsp;&emsp;&emsp;(vii) does not offer education that is designed to lead to licensure or employment for a specific job or occupation in the State if such job or occupation typically involves prohibitions on the licensure or employment of formerly incarcerated individuals in the State in which the correctional facility is located, or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release.
+
+#### (2) Technical assistance
+
+&emsp;The Secretary, in collaboration with the Attorney General, shall provide technical assistance and guidance to the Bureau of Prisons, State departments of corrections, and other entities that are responsible for overseeing correctional facilities in making determinations under paragraph (1)(B)(iii).
+
+#### (3) Federal Pell Grant eligibility
+
+&emsp;Notwithstanding subsection (a), in order for a confined or incarcerated individual who otherwise meets the eligibility requirements of this subchapter to be eligible to receive a Federal Pell Grant under section 1070a of this title, the individual shall be enrolled or accepted for enrollment in a prison education program.
+
+#### (4) Evaluation
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 1 year after December 27, 2020, in order to evaluate and improve the impact of activities supported under this subsection, the Secretary, in partnership with the Director of the Institute of Education Sciences, shall award 1 or more grants or contracts to, or enter into cooperative agreements with, experienced public and private institutions and organizations to enable the institutions and organizations to conduct an external evaluation that shall—
+
+&emsp;&emsp;&emsp;(i) assess the ability of confined or incarcerated individuals to access and complete the Free Application for Federal Student Aid;
+
+&emsp;&emsp;&emsp;(ii) examine in-custody outcomes and post-release outcomes related to providing Federal Pell Grants to confined or incarcerated individuals, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) attainment of a postsecondary degree or credential;
+
+&emsp;&emsp;&emsp;&emsp;(II) safety in penal institutions with prison education programs;
+
+&emsp;&emsp;&emsp;&emsp;(III) the size of waiting lists for prison education programs;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the extent to which such individuals continue their education post-release;
+
+&emsp;&emsp;&emsp;&emsp;(V) employment and earnings outcomes for such individuals; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) rates of recidivism for such individuals;
+
+&emsp;&emsp;&emsp;(iii) track individuals who received Federal Pell Grants under subpart 1 of part A at 1, 3, and 5 years after the individuals' release from confinement or incarceration; and
+
+&emsp;&emsp;&emsp;(iv) examine the extent to which institutions provide re-entry or relevant career services to participating confined or incarcerated individuals as part of the prison education program and the efficacy of such services, if offered.
+
+#### (B) Report
+
+&emsp;&emsp;Beginning not later than 1 year after the Secretary awards the grant, contract, or cooperative agreement described in subparagraph (A) and annually thereafter, each institution of higher education operating a prison education program under this subsection shall submit a report to the Secretary on activities assisted and students served under this subsection, which shall include the information, as applicable, contained in clauses (i) through (iv) of subparagraph (A).
+
+#### (5) Report
+
+&emsp;Not later than 1 year after December 27, 2020, and on at least an annual basis thereafter, the Secretary shall submit to the authorizing committees, and make publicly available on the website of the Department, a report on the—
+
+&emsp;&emsp;(A) impact of this subsection which shall include, at a minimum—
+
+&emsp;&emsp;&emsp;(i) the names and types of institutions of higher education offering prison education programs at which confined or incarcerated individuals are enrolled and receiving Federal Pell Grants;
+
+&emsp;&emsp;&emsp;(ii) the number of confined or incarcerated individuals receiving Federal PellGrants through each prison education program;
+
+&emsp;&emsp;&emsp;(iii) the amount of Federal Pell Grant expenditures for each prison education program;
+
+&emsp;&emsp;&emsp;(iv) the average amount of Federal Pell Grant expenditures per full-time equivalent students in a prison education program compared to the average amount of Federal Pell Grant expenditures per full-time equivalent students not in prison education programs;
+
+&emsp;&emsp;&emsp;(v) the demographics of confined or incarcerated individuals receiving Federal Pell Grants;
+
+&emsp;&emsp;&emsp;(vi) the cost of attendance for such individuals;
+
+&emsp;&emsp;&emsp;(vii) the mode of instruction (such as distance education, in-person instruction, or a combination of such modes) for each prison education program;
+
+&emsp;&emsp;&emsp;(viii) information on the academic outcomes of such individuals (such as credits attempted and earned, and credential and degree completion) and any information available from student satisfaction surveys conducted by the applicable institution or correctional facility;
+
+&emsp;&emsp;&emsp;(ix) information on post-release outcomes of such individuals, including, to the extent practicable, continued postsecondary enrollment, earnings, credit transfer, and job placement;
+
+&emsp;&emsp;&emsp;(x) rates of recidivism for confined or incarcerated individuals receiving Federal Pell Grants;
+
+&emsp;&emsp;&emsp;(xi) information on transfers of confined or incarcerated individuals between prison education programs;
+
+&emsp;&emsp;&emsp;(xii) the most common programs and courses offered in prison education programs; and
+
+&emsp;&emsp;&emsp;(xiii) rates of instructor turnover or departure for courses offered in prison education programs;
+
+&emsp;&emsp;(B) results of each prison education program at each institution of higher education, including the information described in clauses (ii) through (xiii) of subparagraph (A); and
+
+&emsp;&emsp;(C) findings regarding best practices with respect to prison education programs.
+
 (Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638; Pub. L. 116–91, §6(b), Dec. 19, 2019, 133 Stat. 1196; Pub. L. 116–260, div. FF, title VII, §702(n)(1)(A), Dec. 27, 2020, 134 Stat. 3182.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(n)(1)(A), (2), Dec. 27, 2020, 134 Stat. 3137, 3182, 3186; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended as follows:</i>
-
-<i>(1) by striking subsections (n) and (r);</i>
-
-<i>(2) by redesignating subsections (o), (p), (s), and (t), as subsections (n), (o), (q), and (r), respectively; and</i>
-
-<i>(3) by adding the following new subsections:</i>
-
-#### <i>"(p) Use of income data with IRS</i>
-
-<i>"The Secretary, in cooperation with the Secretary of the Treasury, shall fulfill the data transfer requirements under section 6103(l)(13) of title 26 and the procedure and requirements outlined in section 1098h of this title."</i>
-
-#### <i>"(s) Exception to required registration with the Selective Service System</i>
-
-<i>"Notwithstanding section 3811(f) of title 50, an individual shall not be ineligible for assistance or a benefit provided under this subchapter if the individual is required under section 3802 of title 50 to present himself for and submit to registration under such section and fails to do so in accordance with any proclamation issued under such section, or in accordance with any rule or regulation issued under such section.</i>
-
-#### <i>"(t) Confined or incarcerated individuals</i>
-
-#### <i>"(1) Definitions</i>
-
-&emsp;<i>"In this subsection:</i>
-
-#### <i>"(A) Confined or incarcerated individual</i>
-
-&emsp;&emsp;<i>"The term 'confined or incarcerated individual'—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) means an individual who is serving a criminal sentence in a Federal, State, or local penal institution, prison, jail, reformatory, work farm, or other similar correctional institution; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) does not include an individual who is in a halfway house or home detention or is sentenced to serve only weekends.</i>
-
-#### <i>"(B) Prison education program</i>
-
-&emsp;&emsp;<i>"The term 'prison education program' means an education or training program that—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) is an eligible program under this subchapter offered by an institution of higher education (as defined in section 1001 or 1002(a)(1)(B) of this title);</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) is offered by an institution that has been approved to operate in a correctional facility by the appropriate State department of corrections or other entity that is responsible for overseeing correctional facilities, or by the Bureau of Prisons;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) has been determined by the appropriate State department of corrections or other entity that is responsible for overseeing correctional facilities, or by the Bureau of Prisons, to be operating in the best interest of students, the determination of which shall be made by the State department of corrections or other entity or by the Bureau of Prisons, respectively, and may be based on—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) rates of confined or incarcerated individuals continuing their education post-release;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) job placement rates for such individuals;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) earnings for such individuals;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) rates of recidivism for such individuals;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(V) the experience, credentials, and rates of turnover or departure of instructors;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VI) the transferability of credits for courses available to confined or incarcerated individuals and the applicability of such credits toward related degree or certificate programs; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VII) offering relevant academic and career advising services to participating confined or incarcerated individuals while they are confined or incarcerated, in advance of reentry, and upon release;</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) offers transferability of credits to at least 1 institution of higher education (as defined in section 1001 or 1002(a)(1)(B) of this title) in the State in which the correctional facility is located, or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release;</i>
-
-&emsp;&emsp;&emsp;<i>"(v) is offered by an institution that has not been subject, during the 5 years preceding the date of the determination, to—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) any suspension, emergency action, or termination of programs under this subchapter;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) any adverse action by the institution's accrediting agency or association; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) any action by the State to revoke a license or other authority to operate;</i>
-
-&emsp;&emsp;&emsp;<i>"(vi) satisfies any applicable educational requirements for professional licensure or certification, including licensure or certification examinations needed to practice or find employment in the sectors or occupations for which the program prepares the individual, in the State in which the correctional facility is located or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release; and</i>
-
-&emsp;&emsp;&emsp;<i>"(vii) does not offer education that is designed to lead to licensure or employment for a specific job or occupation in the State if such job or occupation typically involves prohibitions on the licensure or employment of formerly incarcerated individuals in the State in which the correctional facility is located, or, in the case of a Federal correctional facility, in the State in which most of the individuals confined or incarcerated in such facility will reside upon release.</i>
-
-#### <i>"(2) Technical assistance</i>
-
-&emsp;<i>"The Secretary, in collaboration with the Attorney General, shall provide technical assistance and guidance to the Bureau of Prisons, State departments of corrections, and other entities that are responsible for overseeing correctional facilities in making determinations under paragraph (1)(B)(iii).</i>
-
-#### <i>"(3) Federal Pell Grant eligibility</i>
-
-&emsp;<i>"Notwithstanding subsection (a), in order for a confined or incarcerated individual who otherwise meets the eligibility requirements of this subchapter to be eligible to receive a Federal Pell Grant under section 1070a of this title, the individual shall be enrolled or accepted for enrollment in a prison education program.</i>
-
-#### <i>"(4) Evaluation</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"Not later than 1 year after December 27, 2020, in order to evaluate and improve the impact of activities supported under this subsection, the Secretary, in partnership with the Director of the Institute of Education Sciences,</i><i>shall award 1 or more grants or contracts to, or enter into cooperative agreements with, experienced public and private institutions and organizations to enable the institutions and organizations to conduct an external evaluation that shall—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) assess the ability of confined or incarcerated individuals to access and complete the Free Application for Federal Student Aid;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) examine in-custody outcomes and post-release outcomes related to providing Federal Pell Grants to confined or incarcerated individuals, including—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) attainment of a postsecondary degree or credential;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) safety in penal institutions with prison education programs;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) the size of waiting lists for prison education programs;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) the extent to which such individuals continue their education post-release;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(V) employment and earnings outcomes for such individuals; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VI) rates of recidivism for such individuals;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) track individuals who received Federal Pell Grants under subpart 1 of part A at 1, 3, and 5 years after the individuals' release from confinement or incarceration; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) examine the extent to which institutions provide re-entry or relevant career services to participating confined or incarcerated individuals as part of the prison education program and the efficacy of such services, if offered.</i>
-
-#### <i>"(B) Report</i>
-
-&emsp;&emsp;<i>"Beginning not later than 1 year after the Secretary awards the grant, contract, or cooperative agreement described in subparagraph (A) and annually thereafter, each institution of higher education operating a prison education program under this subsection shall submit a report to the Secretary on activities assisted and students served under this subsection, which shall include the information, as applicable, contained in clauses (i) through (iv) of subparagraph (A).</i>
-
-#### <i>"(5) Report</i>
-
-&emsp;<i>"Not later than 1 year after December 27, 2020, and on at least an annual basis thereafter, the Secretary shall submit to the authorizing committees, and make publicly available on the website of the Department, a report on the—</i>
-
-&emsp;&emsp;<i>"(A) impact of this subsection which shall include, at a minimum—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the names and types of institutions of higher education offering prison education programs at which confined or incarcerated individuals are enrolled and receiving Federal Pell Grants;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the number of confined or incarcerated individuals receiving Federal Pell Grants through each prison education program;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) the amount of Federal Pell Grant expenditures for each prison education program;</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) the average amount of Federal Pell Grant expenditures per full-time equivalent students in a prison education program compared to the average amount of Federal Pell Grant expenditures per full-time equivalent students not in prison education programs;</i>
-
-&emsp;&emsp;&emsp;<i>"(v) the demographics of confined or incarcerated individuals receiving Federal Pell Grants;</i>
-
-&emsp;&emsp;&emsp;<i>"(vi) the cost of attendance for such individuals;</i>
-
-&emsp;&emsp;&emsp;<i>"(vii) the mode of instruction (such as distance education, in-person instruction, or a combination of such modes) for each prison education program;</i>
-
-&emsp;&emsp;&emsp;<i>"(viii) information on the academic outcomes of such individuals (such as credits attempted and earned, and credential and degree completion) and any information available from student satisfaction surveys conducted by the applicable institution or correctional facility;</i>
-
-&emsp;&emsp;&emsp;<i>"(ix) information on post-release outcomes of such individuals, including, to the extent practicable, continued postsecondary enrollment, earnings, credit transfer, and job placement;</i>
-
-&emsp;&emsp;&emsp;<i>"(x) rates of recidivism for confined or incarcerated individuals receiving Federal Pell Grants;</i>
-
-&emsp;&emsp;&emsp;<i>"(xi) information on transfers of confined or incarcerated individuals between prison education programs;</i>
-
-&emsp;&emsp;&emsp;<i>"(xii) the most common programs and courses offered in prison education programs; and</i>
-
-&emsp;&emsp;&emsp;<i>"(xiii) rates of instructor turnover or departure for courses offered in prison education programs;</i>
-
-&emsp;&emsp;<i>"(B) results of each prison education program at each institution of higher education, including the information described in clauses (ii) through (xiii) of subparagraph (A); and</i>
-
-&emsp;&emsp;<i>"(C) findings regarding best practices with respect to prison education programs."</i>
-
-<i>See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -475,7 +420,7 @@ Subsection (h), referred to in subsec. (i), was redesignated subsec. (g) of this
 
 #### Prior Provisions
 
-A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
@@ -487,7 +432,7 @@ Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 S
 
 <b>2015</b>—Subsec. (d)(2). Pub. L. 114–113 amended par. (2) generally. Prior to amendment, par. (2) contained a different definition of "eligible career pathway program".
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law."
+<b>2014</b>—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: "In order for a student who does not have a certificateof graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law."
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–74 struck out "meet one of the following standards:" after "the student shall", substituted "have completed" for "(3) The student has completed", and struck out pars. (1), (2) and (4), which required students to take an independently administered examination, required a State process, or required an institution of higher education, respectively, to determine ability of students to benefit from education or training.
 
@@ -541,7 +486,7 @@ Subsec. (q)(1). Pub. L. 109–171, §8021(b), amended heading and text of par. (
 
 Subsec. (r)(1). Pub. L. 109–171, §8021(c), amended heading and text of introductory provisions generally. Prior to amendment, text of introductory provisions read as follows: "A student who has been convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance shall not be eligible to receive any grant, loan, or work assistance under this subchapter during the period beginning on the date of such conviction and ending after the interval specified in the following table:".
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted "the Secretary, as part of the original financial aid application process, a certification," for "the institution of higher education which the student intends to attend, or is attending (or in the case of a loanor loan guarantee with the lender), a document" in introductory provisions.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted "the Secretary, as part of the original financial aid application process, a certification," for "the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a document" in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 105–244, §483(a)(2), substituted "a citizen of any one of the Freely Associated States" for "or a permanent resident of the Trust Territory of the Pacific Islands, Guam, or the Northern Mariana Islands".
 
@@ -553,7 +498,7 @@ Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j
 
 &emsp;"(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau."
 
-Subsec. (l)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "A student enrolled in a course of instruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses."
+Subsec. (l)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment,text read as follows: "A student enrolled in a course of instruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses."
 
 Subsec. (q). Pub. L. 105–244, §483(e), added subsec. (q).
 
@@ -609,7 +554,7 @@ Subsec. (b)(4). Pub. L. 102–325, §484(b)(1)(A), substituted "part B, D, or E 
 
 Subsec. (b)(5). Pub. L. 102–325, §484(b)(1)(B), added par. (5).
 
-Subsec. (d). Pub. L. 102–325, §484(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of suchcertificate, to be eligible for any assistance under subparts 1, 2, and 3 of part A and parts B, C, D, and E of this subchapter, the student shall pass an independently administered examination approved by the Secretary."
+Subsec. (d). Pub. L. 102–325, §484(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 2, and 3 of part A and parts B, C, D, and E of this subchapter, the student shall pass an independently administered examination approved by the Secretary."
 
 Subsec. (f). Pub. L. 102–325, §484(d), inserted at end "Nothing in this subsection shall preclude the Secretary from verifying all applications for aid through the use of any means available, including through the exchange of information with any other Federal agency."
 
@@ -625,7 +570,7 @@ Subsecs. (l) to (q). Pub. L. 102–325, §484(g), added subsecs. (l) to (q).
 
 Subsec. (d). Pub. L. 102–26, §2(d)(2)(A), repealed Pub. L. 101–508, §3005(a). See 1990 Amendment note below.
 
-Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "A student who is admitted on the basis of the ability to benefit from the education or training in order to remain eligible for any grant, loan, or work assistance under this subchapter shall—
+Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Astudent who is admitted on the basis of the ability to benefit from the education or training in order to remain eligible for any grant, loan, or work assistance under this subchapter shall—
 
 &emsp;"(1) receive the general education diploma prior to the student's certification or graduation from the program of study, or by the end of the first year of the course of study, whichever is earlier;
 
@@ -685,7 +630,7 @@ Pub. L. 113–235, div. G, title III, §309(a)(2), Dec. 16, 2014, 128 Stat. 2506
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–74, div. F, title III, §309(c)(2), Dec. 23, 2011, 125 Stat. 1100, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to students who first enroll in a program of study on or after July 1, 2012."
+Pub. L. 112–74, div. F, title III, §309(c)(2), Dec. 23, 2011, 125 Stat. 1100, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to students who first enroll in a program of study on or after July 1, 2012."
 
 Amendment by Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under section 1001 of this title.
 
@@ -703,7 +648,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 483(a)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by section 483(a)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub.L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 Pub. L. 105–244, title IV, §483(f)(2), Oct. 7, 1998, 112 Stat. 1737, provided that: "The amendment made by paragraph (1) \[amending this section\], regarding suspension of eligibility for drug-related offenses, shall apply with respect to financial assistance to cover the costs of attendance for periods of enrollment beginning after the date of enactment of this Act \[Oct. 7, 1998\]."
 
@@ -779,7 +724,7 @@ Pub. L. 99–498, title XIII, §1361, Oct. 17, 1986, 100 Stat. 1588, established
 
 #### Financial Aid to Students Not Deemed Income or Resources for Purposes of Certain Social Security Act Programs
 
-Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: "For the purpose of any program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources."
+Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: "For the purpose of any program assisted under title I, IV, X, XIV, XVI, orXIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

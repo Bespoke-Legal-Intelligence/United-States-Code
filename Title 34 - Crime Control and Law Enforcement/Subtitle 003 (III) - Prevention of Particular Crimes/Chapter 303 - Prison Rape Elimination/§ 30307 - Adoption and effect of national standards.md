@@ -12,7 +12,7 @@
 
 #### (3) Limitation
 
-&emsp;The Attorney General shall not establish a national standard under this section that would impose substantial additional costs compared to the costs presently expended by Federal, State, and local prison authorities. The Attorney General may, however, provide alist of improvements for consideration by correctional facilities.
+&emsp;The Attorney General shall not establish a national standard under this section that would impose substantial additional costs compared to the costs presently expended by Federal, State, and local prison authorities. The Attorney General may, however, provide a list of improvements for consideration by correctional facilities.
 
 #### (4) Transmission to States
 
@@ -20,7 +20,7 @@
 
 #### (b) Applicability to Federal Bureau of Prisons
 
-The national standards referred to in subsection (a) shall apply to the Federal Bureau of Prisons immediately upon adoption of the final rule under subsection (a)(4).
+The national standards referred to in subsection (a) shall apply to the Federal Bureau ofPrisons immediately upon adoption of the final rule under subsection (a)(4).
 
 #### (c) Applicability to detention facilities operated by the Department of Homeland Security
 
@@ -178,7 +178,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (iii) Redistribution of funds
 
-&emsp;&emsp;&emsp;If the chief executive officer of a State who has submitted an assurance under subparagraph (A)(ii)(II) is unable to submit a certification during the 3-year period beginning on December 16, 2016, and does not assure the Attorney General that 2/3 of prisons under the operational control of the executive branch of the State have been audited at least once, the Attorney General shall redistribute the funds of the State held in abeyance to other States to be used in accordance with the conditions of the grant program for which the funds were provided.
+&emsp;&emsp;&emsp;If the chief executive officer of a State who has submitted an assurance under subparagraph (A)(ii)(II) is unable to submit a certification during the 3-year period beginning on December 16, 2016, and does not assure the Attorney General that 2/3 of prisons under the operational control of the executive branch of the State have been audited at least once, the Attorney General shall redistribute the funds of the State held in abeyance to other States to be used in accordance with the conditionsof the grant program for which the funds were provided.
 
 #### (F) Publication of audit results
 
@@ -238,7 +238,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (ii) Notification
 
-&emsp;&emsp;&emsp;In the case that an auditor is decertified, the PREA Management Office shall inform each facility or agency at which the auditor performed an audit during the relevant 3-year audit cycle, and may recommendthat the agency repeat any affected audits, if appropriate.
+&emsp;&emsp;&emsp;In the case that an auditor is decertified, the PREA Management Office shall inform each facility or agency at which the auditor performed an audit during the relevant 3-year audit cycle, and may recommend that the agency repeat any affected audits, if appropriate.
 
 #### (C) Audit assignments
 
@@ -246,7 +246,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (D) Disclosure of documentation
 
-&emsp;&emsp;The Director of the Bureau of Prisons shall comply with each request for documentation necessary to conduct an audit under subsection (a), which is made by a certified auditor in accordance with the provisions of the certification agreement described in subparagraph (A)(ii). The Director of the Bureau of Prisons may require an auditor to sign a confidentiality agreement or other agreement designed to address the auditor's use of personally identifiable information, except that such an agreement may not limit an auditor's ability to provide all such documentation to the Department of Justice, as required under section 115.401(j) of title 28, Code of Federal Regulations.
+&emsp;&emsp;The Director of the Bureau of Prisons shall comply with each request for documentation necessary to conduct an audit under subsection (a), which is made by a certified auditor in accordance with the provisions ofthe certification agreement described in subparagraph (A)(ii). The Director of the Bureau of Prisons may require an auditor to sign a confidentiality agreement or other agreement designed to address the auditor's use of personally identifiable information, except that such an agreement may not limit an auditor's ability to provide all such documentation to the Department of Justice, as required under section 115.401(j) of title 28, Code of Federal Regulations.
 
 (Pub. L. 108–79, §8, Sept. 4, 2003, 117 Stat. 985; Pub. L. 113–4, title XI, §1101(c), Mar. 7, 2013, 127 Stat. 134; Pub. L. 114–324, §§5, 7(2), Dec. 16, 2016, 130 Stat. 1950, 1951; Pub. L. 115–274, §4, Oct. 31, 2018, 132 Stat. 4161.)
 

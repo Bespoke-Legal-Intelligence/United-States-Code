@@ -62,7 +62,7 @@ In making awards under subsection (a), the Secretary shall give priority to appl
 
 #### (e) Collaboration with academic institutions and the one-stop delivery system
 
-The Secretary shall encourage eligible entities receiving funds under this section to collaborate with academic institutions, health professionsschools, minority-serving institutions (defined, for purposes of this subsection, as institutions and programs described in section 1063b(e)(1) of title 20 and institutions described in section 1067q(a) of title 20), area health education centers under section 294a of this title, and one-stop delivery systems under section 3151 of title 29. Nothing in this section shall be construed to require such collaboration.
+The Secretary shall encourage eligible entities receiving funds under this section to collaborate with academic institutions, health professions schools, minority-serving institutions (defined, for purposes of this subsection, as institutions and programs described in section 1063b(e)(1) of title 20 and institutions described in section 1067q(a) of title 20), area health education centers under section 294a of this title, and one-stop delivery systems under section 3151 of title 29. Nothing in this section shall be construed to require such collaboration.
 
 #### (f) Technical assistance
 

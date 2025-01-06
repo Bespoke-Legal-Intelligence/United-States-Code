@@ -92,11 +92,11 @@ Presentence Procedure for an Order of Notice.—Prior to imposing an order of no
 
 (e)
 
-Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion ofthe Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
+Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
 
 (f)
 
-Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act (21 U.S.C. 841, 844, 846), section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963), or section 70503 or 70506 of title 46, the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under section 994 of title 28 without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
+Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithstandingany other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act (21 U.S.C. 841, 844, 846), section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963), or section 70503 or 70506 of title 46, the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under section 994 of title 28 without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
 
 &emsp;(1) the defendant does not have—
 
@@ -152,7 +152,7 @@ Subsec. (a)(5). Pub. L. 108–21, §401(j)(5)(C), amended par. (5) generally. Pr
 
 Subsec. (b). Pub. L. 108–21, §401(a), designated existing provisions as par. (1), inserted par. heading, substituted "Except as provided in paragraph (2), the court" for "The court", and added par. (2) and concluding provisions.
 
-Subsec. (c). Pub. L. 108–21, §401(c)(2), (3), in concluding provisions, inserted ", together with the orderof judgment and commitment," after "the court's statement of reasons" and "and to the Sentencing Commission," after "to the Probation System".
+Subsec. (c). Pub. L. 108–21, §401(c)(2), (3), in concluding provisions, inserted ", together with the order of judgment and commitment," after "the court's statement of reasons" and "and to the Sentencing Commission," after "to the Probation System".
 
 Subsec. (c)(2). Pub. L. 108–21, §401(c)(1), substituted "described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements" for "described".
 

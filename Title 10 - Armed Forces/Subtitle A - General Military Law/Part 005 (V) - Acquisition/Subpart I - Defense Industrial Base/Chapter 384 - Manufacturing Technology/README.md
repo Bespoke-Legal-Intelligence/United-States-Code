@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(p)(2)(A), Dec. 27, 2021, 135 Stat. 2148, amended Pub. L. 116–283, div. A, title XVIII, §1869(a), Jan. 1, 2021, 134 Stat. 4283, which added this analysis, by adding items 4843 to 4845 and striking out former item 4843 "Armament retooling and manufacturing".
+<b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(p)(2)(A), Dec. 27, 2021, 135 Stat. 2148, amended Pub. L. 116–283,div. A, title XVIII, §1869(a), Jan. 1, 2021, 134 Stat. 4283, which added this analysis, by adding items 4843 to 4845 and striking out former item 4843 "Armament retooling and manufacturing".
 
 
 ---

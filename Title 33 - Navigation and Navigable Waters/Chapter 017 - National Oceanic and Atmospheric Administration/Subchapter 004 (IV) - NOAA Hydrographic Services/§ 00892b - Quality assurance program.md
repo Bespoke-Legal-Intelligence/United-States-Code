@@ -10,7 +10,7 @@ For purposes of this section, the term "hydrographic product" means any publicly
 
 &emsp;The Administrator—
 
-&emsp;&emsp;(A) by not later than 2 years after December 19, 2002, shall, subject to the availability of appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
+&emsp;&emsp;(A) by not later than 2 years after December 19, 2002, shall, subject to the availabilityof appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
 
 &emsp;&emsp;(B) may authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
 

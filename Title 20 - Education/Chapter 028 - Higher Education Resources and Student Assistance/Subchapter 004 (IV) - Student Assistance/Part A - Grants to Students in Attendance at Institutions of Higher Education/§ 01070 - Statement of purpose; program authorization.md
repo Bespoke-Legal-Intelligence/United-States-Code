@@ -78,7 +78,7 @@ Award determination.—The amount of the financial assistance provided to an ath
 
 &emsp;"(3)
 
-Information on distribution of assistance.—Each center providing such assistance shall annuallyreport to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
+Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
 "(b)
 
@@ -150,7 +150,7 @@ Definitions.—For purposes of this Act \[probably should be "section"\]—
 
 "(a)
 
-Sense of Congress.—It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member orReserve of an Armed Force on active duty service in connection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
+Sense of Congress.—It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member or Reserve of an Armed Force on active duty service in connection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
 
 "(b)
 

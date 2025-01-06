@@ -158,7 +158,7 @@ The Secretary shall collect, and submit in the report described in subsection (c
 
 #### (i) National and community service
 
-The Secretary shall include in the report described in subsection (c)(4) available information regarding the national and community service activities of enrollees, particularly those enrollees at Civilian Conservation Centers.
+The Secretary shall include in the report described in subsection (c)(4) available information regarding the national and communityservice activities of enrollees, particularly those enrollees at Civilian Conservation Centers.
 
 #### (j) Closure of Job Corps center
 

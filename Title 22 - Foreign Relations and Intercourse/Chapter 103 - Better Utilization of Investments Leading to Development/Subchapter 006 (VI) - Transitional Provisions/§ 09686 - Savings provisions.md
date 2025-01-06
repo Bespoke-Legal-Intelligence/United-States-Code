@@ -26,13 +26,13 @@ Pending civil actions shall continue notwithstanding the enactment of this Act o
 
 #### (d) References
 
-References relating to an agency that is transferred to the Corporation under section 9683 of this title in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede such transfer or October 5, 2018, shall be deemed to refer, as appropriate, to the Corporation, to its officers, employees, or agents, or to its corresponding organizational units or functions. Statutory reporting requirements that applied in relation to such an agency immediately before the effective date of this chapter shall continue to apply following such transfer if they refer to the agency by name.
+References relating to an agency that is transferred to the Corporation under section 9683 of this title in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede such transfer or October 5, 2018, shall be deemed to refer, as appropriate, to the Corporation, to its officers, employees, oragents, or to its corresponding organizational units or functions. Statutory reporting requirements that applied in relation to such an agency immediately before the effective date of this chapter shall continue to apply following such transfer if they refer to the agency by name.
 
 #### (e) Employment provisions
 
 #### (1) Regulations
 
-&emsp;The Corporation may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, establishedby statute, rule, or regulation before October 5, 2018, relating to employment in any agency transferred to the Corporation under section 9683 of this title.
+&emsp;The Corporation may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, established by statute, rule, or regulation before October 5, 2018, relating to employment in any agency transferred to the Corporation under section 9683 of this title.
 
 #### (2) Effect of transfer on conditions of employment
 

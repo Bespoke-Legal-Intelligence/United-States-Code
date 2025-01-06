@@ -64,7 +64,7 @@ In subsection (a)(1), before subclause (A), the words "made by Congress" are omi
 
 In subsection (a)(2), the words "of the Government" are omitted as surplus. The words "absent a special appropriation" are substituted for "until special appropriations shall have been made by law" to eliminate unnecessary words.
 
-In subsection (b), the words "On or after May 3, 1945" are omitted as executed. The words "interagency group" are substituted for "committees, boards, or other interagency groups" to eliminate unnecessary words. The words "includes a representative of the agency" are substituted for "composed in whole or in part of representatives thereof" for clarity.
+In subsection (b), the words "On or after May 3, 1945" are omitted as executed. The words "interagencygroup" are substituted for "committees, boards, or other interagency groups" to eliminate unnecessary words. The words "includes a representative of the agency" are substituted for "composed in whole or in part of representatives thereof" for clarity.
 
 In subsection (c)(1), the words "authorized by law" are substituted for "unless the creation . . . shall be or shall have been authorized by law" to eliminate unnecessary words.
 

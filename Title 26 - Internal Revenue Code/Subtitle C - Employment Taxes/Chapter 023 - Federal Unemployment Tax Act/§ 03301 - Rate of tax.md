@@ -118,7 +118,7 @@ Pub. L. 91–373, title III, §301(a), Aug. 10, 1970, 84 Stat. 713, provided tha
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–778, title V, §523(c), Sept. 13, 1960, 74 Stat. 982, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the calendar year 1961 and calendar years thereafter."
+Pub. L. 86–778, title V, §523(c), Sept. 13, 1960, 74 Stat. 982, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply onlywith respect to the calendar year 1961 and calendar years thereafter."
 
 #### Savings Provision
 

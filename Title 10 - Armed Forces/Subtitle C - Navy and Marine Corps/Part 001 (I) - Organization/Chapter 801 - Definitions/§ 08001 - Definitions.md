@@ -4,7 +4,7 @@
 
 &emsp;(1) The term "Navy" means the United States Navy. It includes the Regular Navy, the Fleet Reserve, and the Navy Reserve.
 
-&emsp;(2) The term "Marine Corps" means the United States Marine Corps. It includes the Regular Marine Corps, the Fleet Marine Corps Reserve, and the Marine Corps Reserve.
+&emsp;(2) The term "Marine Corps" means the United States Marine Corps. It includes theRegular Marine Corps, the Fleet Marine Corps Reserve, and the Marine Corps Reserve.
 
 &emsp;(3) The term "member of the naval service" means a person appointed or enlisted in, or inducted or conscripted into, the Navy or the Marine Corps.
 

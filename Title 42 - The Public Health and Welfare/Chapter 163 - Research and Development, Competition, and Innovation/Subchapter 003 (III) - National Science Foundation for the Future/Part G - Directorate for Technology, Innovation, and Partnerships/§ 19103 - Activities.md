@@ -8,7 +8,7 @@ Subject to the availability of appropriated funds, the Director shall achieve th
 
 &emsp;&emsp;(A) engaging researchers on topics relevant to United States societal, national, and geostrategic challenges, including by educating researchers on engaging with end users and the public;
 
-&emsp;&emsp;(B) advancing novel approaches and reducing barriers to technology transfer, including through intellectual property frameworks between academia and industry, nonprofit entities, venture capital communities, and approaches to technology transfer for applications with public benefit that may not rely on traditional commercialization tools; and
+&emsp;&emsp;(B) advancing novel approaches and reducing barriers to technology transfer, including through intellectual property frameworks between academia and industry, nonprofit entities, venture capital communities, and approaches to technology transfer for applications with public benefit that maynot rely on traditional commercialization tools; and
 
 &emsp;&emsp;(C) establishing partnerships that connect researchers and research products to businesses, accelerators, and incubators that enable research uptake, prototype development and scaling, entrepreneurial education, and the formation and growth of new companies;
 

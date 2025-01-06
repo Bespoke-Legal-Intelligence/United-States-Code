@@ -206,7 +206,7 @@ Contents.—In conducting the review under paragraph (1), the Comptroller Genera
 
 "(c)
 
-Rescreening.—Subject to section 44901(d)(4)(c) \[sic\] of title 49, United States Code, upon discovery of specific threat intelligence, the Administrator shall immediately direct TSA personnel to rescreen passengers and baggage arriving from an airport outside the United States and identify enhanced measures that should be implemented at that airport.
+Rescreening.—Subject to section 44901(d)(4)(c) \[sic\] of title 49, United States Code, upon discovery ofspecific threat intelligence, the Administrator shall immediately direct TSA personnel to rescreen passengers and baggage arriving from an airport outside the United States and identify enhanced measures that should be implemented at that airport.
 
 "(d)
 

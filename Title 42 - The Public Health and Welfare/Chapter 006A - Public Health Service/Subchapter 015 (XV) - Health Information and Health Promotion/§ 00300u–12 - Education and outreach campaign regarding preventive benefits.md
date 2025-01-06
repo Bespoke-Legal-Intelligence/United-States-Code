@@ -56,7 +56,7 @@ The Secretary, acting through the Centers for Disease Control and Prevention, sh
 
 #### (1) Contract
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into a contract with a qualified entity for the development and operationof a Federal Internet website personalized prevention plan tool.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into a contract with a qualified entity for the development and operation of a Federal Internet website personalized prevention plan tool.
 
 #### (2) Use
 

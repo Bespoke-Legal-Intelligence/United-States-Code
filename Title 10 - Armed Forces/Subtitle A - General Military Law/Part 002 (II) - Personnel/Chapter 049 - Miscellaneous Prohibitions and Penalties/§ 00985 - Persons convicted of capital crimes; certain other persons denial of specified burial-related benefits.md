@@ -10,7 +10,7 @@ Prohibition of Performance of Military Honors.—The Secretary of a military dep
 
 (b)
 
-Disqualification From Burial in Military Cemeteries.—Except as provided in subsection (c), a person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38 is not entitled to or eligible for, and may not be provided, burial in—
+Disqualification From Burial in Military Cemeteries.—Except as provided in subsection (c), a person who is ineligible for interment in a national cemetery under the controlof the National Cemetery Administration by reason of section 2411(b) of title 38 is not entitled to or eligible for, and may not be provided, burial in—
 
 &emsp;(1) Arlington National Cemetery;
 

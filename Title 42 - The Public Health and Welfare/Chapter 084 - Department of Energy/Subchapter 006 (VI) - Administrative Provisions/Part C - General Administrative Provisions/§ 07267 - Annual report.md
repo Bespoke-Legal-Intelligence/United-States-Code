@@ -16,7 +16,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 &emsp;(5) a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal/State, and local governments and nongovernmental entities to achieve the purposes of this chapter;
 
-&emsp;(6) a summary of cooperative and voluntary efforts that have been mobilized to promote conservation and recycling, together with plans for such efforts in the succeeding fiscal year, and recommendations for changes in laws and regulations needed to encourage more conservation and recycling by all segments of the Nation's populace;
+&emsp;(6) a summary of cooperative and voluntary efforts that have been mobilized to promote conservation and recycling, together with plans for such efforts in the succeeding fiscalyear, and recommendations for changes in laws and regulations needed to encourage more conservation and recycling by all segments of the Nation's populace;
 
 &emsp;(7) a summary of substantive measures taken by the Department to stimulate and encourage the development of new manpower resources through the Nation's colleges and universities and to involve these institutions in the execution of the Department's research and development programs; and
 

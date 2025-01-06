@@ -12,7 +12,7 @@ In General.—The Superintendent of Documents, under the direction of the Direct
 
 (b)
 
-Departmental Requests.—To the extent practicable, the Superintendent of Documents shall accommodate any request by the head of a department or agency to include in the system of access referred to in subsection (a)(2) information that is under the control of the department or agency involved.
+Departmental Requests.—To the extent practicable, the Superintendent of Documents shall accommodate any request by the head of a department or agency to include in the systemof access referred to in subsection (a)(2) information that is under the control of the department or agency involved.
 
 (c)
 

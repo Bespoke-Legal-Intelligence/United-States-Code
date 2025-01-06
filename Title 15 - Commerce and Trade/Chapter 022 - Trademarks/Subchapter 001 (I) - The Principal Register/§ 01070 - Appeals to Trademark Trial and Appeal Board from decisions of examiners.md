@@ -22,7 +22,7 @@ Pub. L. 116–260, §225(d)(1), inserted "or a final decision by an examiner in 
 
 #### Effective Date of 2020 Amendment
 
-Amendment by section 225(d)(1) of div. Q of Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date,see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
+Amendment by section 225(d)(1) of div. Q of Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
 
 #### Effective Date of 1958 Amendment
 

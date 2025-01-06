@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, has made an exhaustive and comprehensive examination of the Nation's fire problem, has made detailed findings as to the extent of this problem in terms of human suffering and loss of life and property, and has made ninety thoughtful recommendations.
 
-&emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
+&emsp;(2) The United States today has the highest per capita rate of death and property loss fromfire of all the major industrialized nations in the world.
 
 &emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
@@ -33,6 +33,10 @@ The Congress finds that—
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–67, div. A, §1, July 9, 2024, 138 Stat. 1447, provided that: "This division \[amending sections 2216, 2229, and 2229a of this title\] may be cited as the 'Fire Grants and Safety Act of 2023'."
 
 #### Short Title of 2022 Amendment
 
@@ -64,7 +68,7 @@ Pub. L. 108–169, title II, §201, Dec. 6, 2003, 117 Stat. 2036, provided that:
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that: "This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the 'Fire Administration Authorization Act of 2000'."
+Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that: "This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Healthand Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the 'Fire Administration Authorization Act of 2000'."
 
 #### Short Title of 1997 Amendment
 
@@ -188,7 +192,7 @@ There shall be within the Agency a Deputy Director, who shall be appointed by th
 
 #### Sec. 104. Associate Directors
 
-There shall be within the Agency not more than four Associate Directors, who shall be appointed by the President, by and with the advice and consent of the Senate, two of whom shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\], one of whom shall be compensated at the rate now or hereafter prescribed by law for level V of the Executive Schedule \[5 U.S.C. 5316\] and one of whom shall be compensated at the rate now or hereafter prescribed by law for GS–18 of theGeneral Schedule \[set out under 5 U.S.C. 5332\]. The Associate Directors shall perform such functions as the Director may from time to time prescribe.
+There shall be within the Agency not more than four Associate Directors, who shall be appointed by the President, by and with the advice and consent of the Senate, two of whom shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\], one of whom shall be compensated at the rate now or hereafter prescribed by law for level V of the Executive Schedule \[5 U.S.C. 5316\] and one of whom shall be compensated at the rate now or hereafter prescribed by law for GS–18 of the General Schedule \[set out under 5 U.S.C. 5332\]. The Associate Directors shall perform such functions as the Director may from time to time prescribe.
 
 #### Sec. 105. Regional Directors
 
@@ -250,7 +254,7 @@ If the plan takes effect, I will assign to the Federal Emergency Management Agen
 
 I will also transfer to the new Agency all authorities and functions under the Disaster Relief Acts of 1970 and 1974 \[sections 4401 et seq. and 5121 et seq. of Title 42, The Public Health and Welfare\] now delegated to the Federal Disaster Assistance Administration in the Department of Housing and Urban Development.
 
-I will also transfer all Presidential authorities and functions now delegated to the Federal Preparedness Agency in the General Services Administration, including the establishment of policy for the national stockpile. The stockpile disposal function, which is statutorily assigned to the General Services Administration, would remain there. Once these steps have beentaken by Executive Order, these three agencies would be abolished.
+I will also transfer all Presidential authorities and functions now delegated to the Federal Preparedness Agency in the General Services Administration, including the establishment of policy for the national stockpile. The stockpile disposal function, which is statutorily assigned to the General Services Administration, would remain there. Once these steps have been taken by Executive Order, these three agencies would be abolished.
 
 Several additional transfers of emergency preparedness and mitigation functions would complete the consolidation. These include:
 
@@ -274,7 +278,7 @@ The new Agency would be in this position. To increase White House oversight and 
 
 The communications, warning, evacuation, and public education processes involved in preparedness for a possible nuclear attack should be developed, tested, and used for major natural and accidental disasters as well. Consolidation of civil defense functions in the new Agency will assure that attack readiness programs are effectively integrated into the preparedness organizations and programs of State and local government, private industry, and volunteer organizations.
 
-While serving an important "all hazards" readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
+While serving an important "all hazards" readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development,technical support, research, communications, intelligence and emergency operations.
 
 <i>Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal agencies</i>. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
 
@@ -304,7 +308,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functions transferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
 
-1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
+1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
 
 (b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telecommunications\]. (Section 203 of the Plan.)
 

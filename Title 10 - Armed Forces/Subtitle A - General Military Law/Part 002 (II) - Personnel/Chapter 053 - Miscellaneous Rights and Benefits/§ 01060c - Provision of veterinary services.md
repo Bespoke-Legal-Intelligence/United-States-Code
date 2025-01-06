@@ -1,0 +1,30 @@
+### §1060c. Provision of veterinary services
+
+(a)
+
+In General.—A veterinary professional described in subsection (b) may provide veterinary services in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.
+
+(b)
+
+Veterinary Professional Described.—A veterinary professional described in this subsection is an individual who is—
+
+&emsp;(1)(A) a member of the armed forces, a civilian employee of the Department of Defense, or otherwise credentialed and privileged at a Federal veterinary institution or location designated by the Secretary of Defense for purposes of this section; or
+
+&emsp;(B) a member of the National Guard performing training or duty under section 502(f) of title 32;
+
+&emsp;(2) certified as a veterinary professional by a certification recognized by the Secretary of Defense; and
+
+&emsp;(3) currently licensed by a State, the District of Columbia, or a territory or possession of the United States to provide veterinary services.
+
+(Added Pub. L. 116–92, div. A, title VII, §735(a), Dec. 20, 2019, 133 Stat. 1462; amended Pub. L. 118–159, div. A, title VII, §733, Dec. 23, 2024, 138 Stat. 1956.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Pub. L. 118–159, §733(1), struck out "in emergencies" after "veterinary services" in section catchline.
+
+Subsec. (a). Pub. L. 118–159, §733(2), struck out "for the purposes described in subsection (c)" after "veterinary services".
+
+Subsec. (c). Pub. L. 118–159, §733(3), struck out subsec. (c) which described the purposes of veterinary services in response to certain emergencies.
+

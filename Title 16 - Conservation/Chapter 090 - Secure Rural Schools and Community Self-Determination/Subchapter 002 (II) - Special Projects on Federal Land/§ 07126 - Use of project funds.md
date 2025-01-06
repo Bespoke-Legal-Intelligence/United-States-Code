@@ -16,7 +16,7 @@
 
 #### (2) Limited use of Federal funds
 
-&emsp;The Secretary concerned may decide, at the sole discretion of the Secretary concerned, to cover the costs of a portion of an approved project using Federal funds appropriated or otherwise available to the Secretary for the same purposes as the project.
+&emsp;The Secretary concerned may decide, at the sole discretion of the Secretary concerned, to cover the costs of a portion of an approvedproject using Federal funds appropriated or otherwise available to the Secretary for the same purposes as the project.
 
 #### (b) Transfer of project funds
 

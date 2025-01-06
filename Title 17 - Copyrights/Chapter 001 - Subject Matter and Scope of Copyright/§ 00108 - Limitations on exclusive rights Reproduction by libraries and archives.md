@@ -20,7 +20,7 @@
 
 &emsp;(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy.
 
-> For purposes of this subsection, a format shall be considered obsolete if the machine or device necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace.
+> For purposes of this subsection, a format shall be considered obsolete if the machine or devicenecessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace.
 
 (d) The rights of reproduction and distribution under this section apply to a copy, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, of no more than one article or other contribution to a copyrighted collection or periodical issue, or to a copy or phonorecord of a small part of any other copyrighted work, if—
 
@@ -28,7 +28,7 @@
 
 &emsp;(2) the library or archives displays prominently, at the place where orders are accepted, and includes on its order form, a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
-(e) The rights of reproduction and distribution under this section apply to the entire work, orto a substantial part of it, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, if the library or archives has first determined, on the basis of a reasonable investigation, that a copy or phonorecord of the copyrighted work cannot be obtained at a fair price, if—
+(e) The rights of reproduction and distribution under this section apply to the entire work, or to a substantial part of it, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, if the library or archives has first determined, on the basis of a reasonable investigation, that a copy or phonorecord of the copyrighted work cannot be obtained at a fair price, if—
 
 &emsp;(1) the copy or phonorecord becomes the property of the user, and the library or archives has had no notice that the copy or phonorecord would be used for any purpose other than private study, scholarship, or research; and
 
@@ -64,7 +64,7 @@
 
 (i) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b), (c), and (h), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, §301, June 26, 1992, 106 Stat. 272; Pub. L. 105–80, §12(a)(4), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, §104, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 105–304, title IV, §404, Oct. 28, 1998, 112 Stat. 2889; Pub. L. 109–9, title IV, §402, Apr. 27, 2005, 119 Stat. 227.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, §301, June 26, 1992,106 Stat. 272; Pub. L. 105–80, §12(a)(4), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, §104, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 105–304, title IV, §404, Oct. 28, 1998, 112 Stat. 2889; Pub. L. 109–9, title IV, §402, Apr. 27, 2005, 119 Stat. 227.)
 
 #### Historical and Revision Notes
 
@@ -72,7 +72,7 @@
 
 Notwithstanding the exclusive rights of the owners of copyright, section 108 provides that under certain conditions it is not an infringement of copyright for a library or archives, or any of its employees acting within the scope of their employment, to reproduce or distribute not more than one copy or phonorecord of a work, provided (1) the reproduction or distribution is made without any purpose of direct or indirect commercial advantage and (2) the collections of the library or archives are open to the public or available not only to researchers affiliated with the library or archives, but also to other persons doing research in a specialized field, and (3) the reproduction or distribution of the work includes a notice of copyright.
 
-Under this provision, a purely commercial enterprise could not establish a collection of copyrighted works, call itself a library or archive, and engage in for-profit reproduction and distribution of photocopies. Similarly, it would not be possible for a non-profit institution, by means of contractual arrangements with a commercial copying enterprise, to authorize the enterprise to carry out copying and distribution functionsthat would be exempt if conducted by the non-profit institution itself.
+Under this provision, a purely commercial enterprise could not establish a collection of copyrighted works, call itself a library or archive, and engage in for-profit reproduction and distribution of photocopies. Similarly, it would not be possible for a non-profit institution, by means of contractual arrangements with a commercial copying enterprise, to authorize the enterprise to carry out copying and distribution functions that would be exempt if conducted by the non-profit institution itself.
 
 The reference to "indirect commercial advantage" has raised questions as to the status of photocopying done by or for libraries or archival collections within industrial, profit-making, or proprietary institutions (such as the research and development departments of chemical, pharmaceutical, automobile, and oil corporations, the library of a proprietary hospital, the collections owned by a law or medical partnership, etc.).
 
@@ -102,7 +102,7 @@ The rights of reproduction and distribution under section 108 apply in the follo
 
 Clause (3) provides that nothing in section 108 is intended to limit the reproduction and distribution by lending of a limited number of copies and excerpts of an audiovisual news program. This exemption is intended to apply to the daily newscasts of the national television networks, which report the major events of the day. It does not apply to documentary (except documentary programs involving news reporting as that term is used in section 107), magazine-format or other public affairs broadcasts dealing with subjects of general interest to the viewing public.
 
-The clause was first added to the revision bill in 1974 by the adoption of an amendment proposed by Senator Baker. It is intended to permit libraries and archives, subject to the general conditions of this section, to make off-the-air videotape recordings of daily network news casts for limited distribution to scholars and researchers for use in research purposes. As such, it is anadjunct to the American Television and Radio Archive established in Section 113 of the Act \[2 U.S.C. 170\] which will be the principal repository for television broadcast material, including news broadcasts, the inclusion of language indicating that such material may only be distributed by lending by the library or archive is intended to preclude performance, copying, or sale, whether or not for profit, by the recipient of a copy of a television broadcast taped off-the-air pursuant to this clause.
+The clause was first added to the revision bill in 1974 by the adoption of an amendment proposed by Senator Baker. It is intended to permit libraries and archives, subject to the general conditions of this section, to make off-the-air videotape recordings of daily network news casts for limited distribution to scholars and researchers for use in research purposes. As such, it is an adjunct to the American Television and Radio Archive established in Section 113 of the Act \[2 U.S.C. 170\] which will be the principal repository for television broadcast material, including news broadcasts, the inclusion of language indicating that such material may only be distributed by lending by the library or archive is intended to preclude performance, copying, or sale, whether or not for profit, by the recipient of a copy of a television broadcast taped off-the-air pursuant to this clause.
 
 Clause (4), in addition to asserting that nothing contained in section 108 "affects the right of fair use as provided by section 107", also provides that the right of reproduction granted by this section does not override any contractual arrangements assumed by a library or archives when it obtained a work for its collections: For example, if there is an express contractual prohibition against reproduction for any purpose, this legislation shall not be construed as justifying a violation of the contract. This clause is intended to encompass the situation where an individual makes papers, manuscripts or other works available to a library with the understanding that they will not be reproduced.
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 105–304, §404(3), substituted "three copies or phonoreco
 
 &emsp;"(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
 
-&emsp;"(2) any such copy or phonorecord that is reproduced in digital format is not made available to thepublic in that format outside the premises of the library or archives in lawful possession of such copy."
+&emsp;"(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy."
 
 > for "if the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price.", and inserted concluding provisions.
 

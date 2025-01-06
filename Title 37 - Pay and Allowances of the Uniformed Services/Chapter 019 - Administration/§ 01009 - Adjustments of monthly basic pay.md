@@ -36,7 +36,7 @@ Protection of Member's Total Compensation While Performing Certain Duty.—(1) T
 
 (e)
 
-Presidential Determination of Need for Alternative Pay Adjustment.—(1) If, becauseof national emergency or serious economic conditions affecting the general welfare, the President considers the pay adjustment which would otherwise be required by this section in any year to be inappropriate, the President shall prepare and transmit to Congress before September 1 of the preceding year a plan for such alternative pay adjustments as the President considers appropriate, together with the reasons therefor.
+Presidential Determination of Need for Alternative Pay Adjustment.—(1) If, because of national emergency or serious economic conditions affecting the general welfare, the President considers the pay adjustment which would otherwise be required by this section in any year to be inappropriate, the President shall prepare and transmit to Congress before September 1 of the preceding year a plan for such alternative pay adjustments as the President considers appropriate, together with the reasons therefor.
 
 (2) In evaluating an economic condition affecting the general welfare under this subsection, the President shall consider pertinent economic measures including the Indexes of Leading Economic Indicators, the Gross Domestic Product, the unemployment rate, the budget deficit, the Consumer Price Index, the Producer Price Index, the Employment Cost Index, and the Implicit Price Deflator for Personal Consumption Expenditures.
 
@@ -82,7 +82,7 @@ Subsec. (b)(2). Pub. L. 96–513, §516(24)(B), struck out reference to section 
 
 Subsec. (b)(3). Pub. L. 96–513, §803(1), substituted "subsections (c) and (d) of this section" for "subsection (c)".
 
-Subsec. (c). Pub. L. 96–342, §803(2), (3), redesignated existing provision as par. (1), inserted "of this section" after "subsection (b)(3)" in two places and after "subsection (a)", substituted "75 percent" for "75 per centum", redesignated subsec. (d) as par. (2), substituted "under paragraph (1) of this subsection" for "under subsection (c)" in two places, inserted "of this section" after "subsection (a)", "subsection (c)", and "subsection (b)(3)", respectively, and "of this title" after "section 403(b) or (c)" in two places.
+Subsec. (c). Pub. L. 96–342, §803(2), (3), redesignated existing provision as par. (1), inserted "of this section" after "subsection (b)(3)" in two places and after "subsection (a)", substituted "75 percent" for "75 per centum", redesignated subsec. (d) as par. (2), substituted "under paragraph (1) of this subsection" for "undersubsection (c)" in two places, inserted "of this section" after "subsection (a)", "subsection (c)", and "subsection (b)(3)", respectively, and "of this title" after "section 403(b) or (c)" in two places.
 
 Subsec. (d). Pub. L. 96–342, §803(3), (4), added subsec. (d) and redesignated former subsec. (d) as (c)(2).
 
@@ -132,7 +132,7 @@ Pub. L. 110–417, \[div. A\], title VI, §601, Oct. 14, 2008, 122 Stat. 4482.
 
 Pub. L. 110–181, div. A, title VI, §601, Jan. 28, 2008, 122 Stat. 145.
 
-Pub. L. 109–364, div. A, title VI, §601, Oct. 17, 2006, 120 Stat. 2240, as amended by Pub. L. 116–283, div. A, title IX, §925(b), Jan. 1, 2021, 134 Stat. 3826.
+Pub. L. 109–364, div. A, title VI, §601, Oct. 17, 2006, 120 Stat. 2240, as amended by Pub. L. 116–283, div. A, title IX, §925(b), Jan. 1, 2021, 134 Stat. 3826; Pub. L. 118–159, div. A, title V, §521(g)(4), Dec. 23, 2024, 138 Stat. 1881.
 
 Pub. L. 109–163, div. A, title VI, §601, Jan. 6, 2006, 119 Stat. 3286.
 
@@ -206,5 +206,5 @@ Ex. Ord. No. 11812, Oct. 7, 1974, 39 F.R. 36307, which provided for the adjustme
 
 #### Executive Order No. 11998
 
-Ex. Ord. No. 11998, June 27, 1977, 42 F.R. 33021, which related to the President's Commission on Military Compensation, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5.
+Ex. Ord. No. 11998, June 27, 1977, 42 F.R. 33021, which related to the President's Commission on Military Compensation, was revoked by Ex. Ord. No. 12110, Dec.28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5.
 

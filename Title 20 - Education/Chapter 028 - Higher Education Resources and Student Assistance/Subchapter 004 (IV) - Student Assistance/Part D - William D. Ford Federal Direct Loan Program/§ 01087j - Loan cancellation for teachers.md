@@ -78,7 +78,7 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 #### (3) Private school teachers
 
-&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highlyqualified teacher requirements under section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 
 #### (h) "Year" defined
 
@@ -134,7 +134,7 @@ Subsec. (c)(3). Pub. L. 108–409, §3(b)(2), added par. (3).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2006 Amendment
 

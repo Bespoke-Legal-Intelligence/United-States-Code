@@ -10,7 +10,7 @@ Pregnant Woman.—A sentence of death shall not be carried out upon a woman whil
 
 (c)
 
-Mental Capacity.—A sentence of death shall not be carried out upon a person who ismentally retarded. A sentence of death shall not be carried out upon a person who, as a result of mental disability, lacks the mental capacity to understand the death penalty and why it was imposed on that person.
+Mental Capacity.—A sentence of death shall not be carried out upon a person who is mentally retarded. A sentence of death shall not be carried out upon a person who, as a result of mental disability, lacks the mental capacity to understand the death penalty and why it was imposed on that person.
 
 (Added Pub. L. 103–322, title VI, §60002(a), Sept. 13, 1994, 108 Stat. 1967.)
 

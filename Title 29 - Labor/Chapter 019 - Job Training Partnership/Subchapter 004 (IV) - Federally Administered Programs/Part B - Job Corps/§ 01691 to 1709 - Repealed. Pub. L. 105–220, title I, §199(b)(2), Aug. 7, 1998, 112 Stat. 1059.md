@@ -4,7 +4,7 @@ Section 1691, Pub. L. 97–300, title IV, §421, Oct. 13, 1982, 96 Stat. 1370, s
 
 Section 1692, Pub. L. 97–300, title IV, §422, Oct. 13, 1982, 96 Stat. 1370, established the Job Corps.
 
-Section 1693, Pub. L. 97–300, title IV, §423, Oct. 13, 1982, 96 Stat. 1370; Pub. L. 102–367, title I, §103(b)(4), title IV, §402(a), Sept. 7, 1992, 106 Stat. 1026, 1076, related to eligibility of individuals for the Job Corps.
+Section 1693, Pub. L. 97–300, title IV, §423, Oct. 13, 1982, 96 Stat. 1370; Pub. L. 102–367, title I, §103(b)(4),title IV, §402(a), Sept. 7, 1992, 106 Stat. 1026, 1076, related to eligibility of individuals for the Job Corps.
 
 Section 1694, Pub. L. 97–300, title IV, §424, Oct. 13, 1982, 96 Stat. 1371, contained general provisions relating to screening and selection of applicants.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) during a war or a declared national emergency, any other country that he considers it advisable to assist in the interest of national defense.
 
-(b) Subject to the prior approval of the Secretary of the military department concerned, amember detailed under this section may accept any office from the country to which he is detailed. He is entitled to credit for all service while so detailed, as if serving with the armed forces of the United States. Arrangements may be made by the President, with countries to which such members are detailed to perform functions under this section, for reimbursement to the United States or other sharing of the cost of performing such functions.
+(b) Subject to the prior approval of the Secretary of the military department concerned, a member detailed under this section may accept any office from the country to which he is detailed. He is entitled to credit for all service while so detailed, as if serving with the armed forces of the United States. Arrangements may be made by the President, with countries to which such members are detailed to perform functions under this section, for reimbursement to the United States or other sharing of the cost of performing such functions.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 85–477, ch. V, §502(k), June 30, 1958, 72 Stat. 275; Pub. L. 116–283, div. A, title IX, §924(b)(1)(E), Jan. 1, 2021, 134 Stat. 3820.)
 
@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 May 19, 1926, ch. 334, 44 Stat, 565; May 14, 1935, ch. 109, 49 Stat. 218; Oct. 1, 1942, ch. 571, 56 Stat. 763.
 
-In subsection (a), the words "and the Commonwealth of the Philippine Islands", in the Act of May 19, 1926, ch. 334, added by the Act of May 14, 1935, ch. 109, 49 Stat. 218, are not contained in 10:540 or 34:441a. They are also omitted from the revised section, since Proclamation No. 2695, effective July 4, 1946, 60 Stat. 1352 (48 U.S.C. 1240 (note)), proclaimed the independence of the Philippine Islands. Similar provisions relating to the Philippines are now contained in section 5 of the Act of June 26, 1946, ch. 500, 60 Stat. 315. The word "members" is substituted for the words "officers and enlisted men", in 10:540 and 34:441a.
+In subsection (a), the words "and the Commonwealth of the Philippine Islands", in the Act of May 19, 1926, ch. 334, added by the Act of May 14, 1935, ch. 109, 49 Stat. 218, are not contained in 10:540 or 34:441a. Theyare also omitted from the revised section, since Proclamation No. 2695, effective July 4, 1946, 60 Stat. 1352 (48 U.S.C. 1240 (note)), proclaimed the independence of the Philippine Islands. Similar provisions relating to the Philippines are now contained in section 5 of the Act of June 26, 1946, ch. 500, 60 Stat. 315. The word "members" is substituted for the words "officers and enlisted men", in 10:540 and 34:441a.
 
 In subsection (b), the words "entitled to credit for all service" are substituted for the words "and shall be allowed the same credit for longevity, retirement, and for all other purposes", in 10:540 and 34:441a.
 

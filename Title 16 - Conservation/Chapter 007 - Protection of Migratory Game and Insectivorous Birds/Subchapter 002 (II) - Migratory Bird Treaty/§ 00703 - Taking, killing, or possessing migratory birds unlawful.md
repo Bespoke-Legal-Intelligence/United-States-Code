@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and GreatBritain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972, and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
+Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972, and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
 
 #### (b) Limitation on application to introduced species
 
@@ -26,7 +26,7 @@ Unless and except as permitted by regulations made as hereinafter provided in th
 
 &emsp;&emsp;&emsp;(iii) after such extirpation, it was reintroduced in the United States or its territories as a part of a program carried out by a Federal agency.
 
-(July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, §143(b), Dec. 8, 2004, 118 Stat. 3071.)
+(July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1,June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, §143(b), Dec. 8, 2004, 118 Stat. 3071.)
 
 #### <b>Editorial Notes</b>
 
@@ -88,7 +88,7 @@ Authorization of Take.—
 
 &emsp;"(1)
 
-In general.—The Secretary of the Interior, in consultation with the Secretary \[of Transportation\],shall promulgate a regulation under the authority of section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) authorizing the take of nesting swallows to facilitate bridge repair, maintenance, or construction—
+In general.—The Secretary of the Interior, in consultation with the Secretary \[of Transportation\], shall promulgate a regulation under the authority of section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) authorizing the take of nesting swallows to facilitate bridge repair, maintenance, or construction—
 
 &emsp;&emsp;"(A) without individual permit requirements; and
 
@@ -120,7 +120,7 @@ Effect of section.—Nothing in this subsection shall delay implementation of ot
 
 #### Relationship of Pub. L. 108–447 to Treaties
 
-Pub. L. 108–447, div. E, title I, §143(d), Dec. 8, 2004, 118 Stat. 3072, provided that: "It is the sense of Congress that the language of this section \[amending this section and enacting provisions set out as notes under this section and section 710 of this title\] is consistent with the intent and language of the 4 bilateral treaties implemented by this section."
+Pub. L. 108–447, div. E, title I, §143(d), Dec. 8, 2004, 118 Stat. 3072, provided that: "It is the sense of Congress that the language of this section \[amending this section and enacting provisions set out as notes under this section and section 710 of this title\] is consistent withthe intent and language of the 4 bilateral treaties implemented by this section."
 
 #### Incidental Taking of Migratory Birds During Military Readiness Activities
 

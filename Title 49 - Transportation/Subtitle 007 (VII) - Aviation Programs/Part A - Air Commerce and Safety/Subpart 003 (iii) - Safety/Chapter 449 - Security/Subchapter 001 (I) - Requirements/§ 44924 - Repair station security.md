@@ -2,7 +2,7 @@
 
 (a)
 
-Security Review and Audit.—To ensure the security of maintenance and repair work conducted on air carrier aircraft and components at foreign repair stations, the Administrator of the Transportation Security Administration, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator of the Federal Aviation Administration under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraft and components. The review shall be completed not later than 6 months after the date on which the Administrator of the Transportation Security Administration issues regulations under subsection (f).
+Security Review and Audit.—To ensure the security of maintenance and repair workconducted on air carrier aircraft and components at foreign repair stations, the Administrator of the Transportation Security Administration, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator of the Federal Aviation Administration under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraft and components. The review shall be completed not later than 6 months after the date on which the Administrator of the Transportation Security Administration issues regulations under subsection (f).
 
 (b)
 
@@ -62,7 +62,7 @@ Pub. L. 115–254, §1991(d)(20)(B), substituted "Administrator of the Federal A
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–53, §1616(b)(1), substituted "6 months" for "18 months".
 
-Subsec. (d). Pub. L. 110–53, §1616(b)(2), inserted "(other than a station that was previously certified, or is in the process of certification, by the Administration under this part)" after "foreign repair station".
+Subsec. (d). Pub. L. 110–53, §1616(b)(2), inserted "(other than a station that was previously certified, oris in the process of certification, by the Administration under this part)" after "foreign repair station".
 
 Pub. L. 110–53, §1616(b)(1), which directed amendment of subsec. (b) by substituting "6 months" for "18 months", was executed by making the substitution in subsec. (d), to reflect the probable intent of Congress.
 

@@ -68,7 +68,7 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (2) Experts and consultants
 
-&emsp;The Special Inspector General may obtain services as authorized under section 3109 oftitle 5 at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of that title.
+&emsp;The Special Inspector General may obtain services as authorized under section 3109 of title 5 at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of that title.
 
 #### (3) Contracts
 
@@ -110,7 +110,7 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (1) In general
 
-&emsp;Of the amounts made available to the Secretary under section 9061 of this title, $25,000,000 shall be made available to the Special Inspector General to carry out this section.
+&emsp;Of the amounts made available to the Secretary under section 9061 of this title,$25,000,000 shall be made available to the Special Inspector General to carry out this section.
 
 #### (2) Availability
 

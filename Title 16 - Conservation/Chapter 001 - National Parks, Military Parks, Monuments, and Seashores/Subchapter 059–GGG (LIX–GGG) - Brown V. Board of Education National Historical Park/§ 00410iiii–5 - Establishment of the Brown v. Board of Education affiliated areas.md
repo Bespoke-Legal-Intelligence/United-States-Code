@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On the date on which the Secretary determines that an appropriate management entityhas been identified for the applicable affiliated area, as generally depicted on the map described in section 410iiii–2(c)(1) of this title, the following shall be established as affiliated areas of the National Park System:
+On the date on which the Secretary determines that an appropriate management entity has been identified for the applicable affiliated area, as generally depicted on the map described in section 410iiii–2(c)(1) of this title, the following shall be established as affiliated areas of the National Park System:
 
 &emsp;(1) The Robert Russa Moton Museum in Farmville, Virginia.
 
@@ -56,7 +56,7 @@ Each affiliated area shall be managed in a manner consistent with—
 
 #### (d) Cooperative agreements
 
-The Secretary may provide technical and financial assistance to, and enter into cooperative agreements with, the management entity for each affiliated area to provide financial assistance for the marketing, marking, interpretation, and preservation of the applicable affiliated area.
+The Secretary may provide technical and financial assistance to, and enter into cooperativeagreements with, the management entity for each affiliated area to provide financial assistance for the marketing, marking, interpretation, and preservation of the applicable affiliated area.
 
 #### (e) Land use
 

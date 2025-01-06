@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds reserved by the Secretary under section 6671(1) of this title for a fiscalyear, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
+From the funds reserved by the Secretary under section 6671(1) of this title for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
 
 &emsp;(1) providing teachers, principals, or other school leaders from nontraditional preparation and certification routes or pathways to serve in traditionally underserved local educational agencies;
 

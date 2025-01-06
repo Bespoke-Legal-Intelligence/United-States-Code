@@ -10,7 +10,7 @@ The Congress finds as follows:
 
 #### (b) Sense of Congress
 
-It is the sense of the Congress that States and local educational agencies retain the rights and responsibilities of determining educational curriculum, programs of instruction, and assessments for elementary and secondary education.
+It is the sense of the Congress that States and local educational agencies retain the rights andresponsibilities of determining educational curriculum, programs of instruction, and assessments for elementary and secondary education.
 
 (Pub. L. 89–10, title VIII, §8549A, as added Pub. L. 114–95, title VIII, §8041, Dec. 10, 2015, 129 Stat. 2121.)
 

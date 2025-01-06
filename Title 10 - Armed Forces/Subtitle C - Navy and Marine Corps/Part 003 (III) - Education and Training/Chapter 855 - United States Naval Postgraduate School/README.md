@@ -12,6 +12,7 @@
 | [8548\.](%C2%A7%2008548%20-%20Degree%20granting%20authority%20for%20United%20States%20Naval%20Postgraduate%20School.md) | Degree granting authority for United States Naval Postgraduate School. |
 | [8549\.](%C2%A7%2008549%20-%20Defense%20industry%20civilians%20admission%20to%20defense%20product%20development%20program.md) | Defense industry civilians: admission to defense product development program. |
 | [8550\.](%C2%A7%2008550%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance, authorized grantees. |
+| [8551\.](%C2%A7%2008551%20-%20Development%20and%20operation%20of%20the%20Naval%20Innovation%20Center%20at%20the%20Naval%20Postgraduate%20School.md) | Development and operation of the Naval Innovation Center at the Naval Postgraduate School. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,13 +24,15 @@ A prior chapter 855, consisting of sections 8721 to 8723, related to hospitaliza
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. B, title XXVIII, §2872, Dec. 23, 2024, 138 Stat. 2281, added item 8551. Amendment was made pursuant to operation of section 102 of this title.
+
 <b>2022</b>—Pub. L. 117–263, div. A, title V, §554(a)(2)(B), Dec. 23, 2022, 136 Stat. 2594, substituted "Provost and Chief Academic Officer" for "Provost and Academic Dean" in item 8543.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 605 of this title as this chapter and items 7041 to 7050 as 8541 to 8550, respectively.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(e)(2), Oct. 14, 2008, 122 Stat. 4461, added item 7048 and struck out former item 7048 "Conferring of degrees on graduates".
 
-<b>2006</b>—Pub. L. 109–163, div. A, title V, §522(c)(2), Jan. 6, 2006, 119 Stat. 3242, added 7050.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §522(c)(2), Jan. 6, 2006, 119 Stat. 3242, added item 7050.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §557(c), Oct. 28, 2004, 118 Stat. 1916, substituted "President; assistants" for "Superintendent; assistants" in item 7042 and "Provost and Academic Dean" for "Academic Dean" in item 7043.
 
@@ -54,3 +57,4 @@ A prior chapter 855, consisting of sections 8721 to 8723, related to hospitaliza
 - [&sect; 08548 - Degree granting authority for United States Naval Postgraduate School](%C2%A7%2008548%20-%20Degree%20granting%20authority%20for%20United%20States%20Naval%20Postgraduate%20School.md)
 - [&sect; 08549 - Defense industry civilians admission to defense product development program](%C2%A7%2008549%20-%20Defense%20industry%20civilians%20admission%20to%20defense%20product%20development%20program.md)
 - [&sect; 08550 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2008550%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)
+- [&sect; 08551 - Development and operation of the Naval Innovation Center at the Naval Postgraduate School](%C2%A7%2008551%20-%20Development%20and%20operation%20of%20the%20Naval%20Innovation%20Center%20at%20the%20Naval%20Postgraduate%20School.md)

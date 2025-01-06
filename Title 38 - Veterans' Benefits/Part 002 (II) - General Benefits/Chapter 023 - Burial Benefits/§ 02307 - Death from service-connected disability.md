@@ -30,7 +30,7 @@ Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the d
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–103, title V, §501(a)(2), Dec. 27, 2001, 115 Stat. 994, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to deaths occurring on or after September 11, 2001."
+Pub. L. 107–103, title V, §501(a)(2), Dec. 27, 2001, 115 Stat. 994, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to deaths occurring on or after September 11, 2001."
 
 #### Effective Date of 1988 Amendment
 

@@ -16,7 +16,7 @@ In connection with the census, the Secretary may conduct any survey or other inf
 
 #### (c) Year of information
 
-The information collected in each census taken under this section shall relate to the yearimmediately preceding the year in which the census is taken.
+The information collected in each census taken under this section shall relate to the year immediately preceding the year in which the census is taken.
 
 #### (d) Enforcement
 

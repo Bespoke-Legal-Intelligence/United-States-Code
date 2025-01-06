@@ -50,7 +50,7 @@ In this section—
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), referred to in subsec. (c)(4), is not classified to the Code.
 

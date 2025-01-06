@@ -96,7 +96,7 @@ Findings.—Congress finds that—
 
 &emsp;"(1) the Government Accountability Office has reported that the Federal Government often leases high-security space from private sector landlords;
 
-&emsp;"(2) the General Services Administration collects highest-level and immediate ownership informationthrough the System for Award Management, but it is not currently required to collect beneficial ownership information and lacks an adequate system for doing so;
+&emsp;"(2) the General Services Administration collects highest-level and immediate ownership information through the System for Award Management, but it is not currently required to collect beneficial ownership information and lacks an adequate system for doing so;
 
 &emsp;"(3) the General Services Administration and Federal agencies with leasing authority may not know if foreign owners have a stake in the buildings leased by the agencies, either through foreign-incorporated legal entities or through ownership in United States-incorporated legal entities, even when the leased space is used for classified operations or to store sensitive data; and
 

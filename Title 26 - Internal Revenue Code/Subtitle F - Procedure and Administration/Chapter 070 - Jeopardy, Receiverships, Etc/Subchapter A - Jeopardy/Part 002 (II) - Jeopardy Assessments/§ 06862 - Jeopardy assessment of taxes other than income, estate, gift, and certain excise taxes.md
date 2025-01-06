@@ -8,7 +8,7 @@ If the Secretary believes that the collection of any tax (other than income tax,
 
 &emsp;&emsp;<b>For provision permitting immediate levy in case of jeopardy, see section 6331(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 93–406, title II, §1016(a)(25), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–222, title I, §108(b)(1)(C), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(9), Apr. 2, 1980, 94 Stat. 253; Pub. L. 100–418, title I, §1941(b)(2)(N), Aug. 23, 1988, 102 Stat. 1324.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 93–406, title II, §1016(a)(25), Sept. 2, 1974, 88 Stat.931; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–222, title I, §108(b)(1)(C), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(9), Apr. 2, 1980, 94 Stat. 253; Pub. L. 100–418, title I, §1941(b)(2)(N), Aug. 23, 1988, 102 Stat. 1324.)
 
 #### <b>Editorial Notes</b>
 

@@ -20,7 +20,7 @@
 
 &emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
 
-&emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
+&emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was afishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
 
 &emsp;(C) The fishing vessel is not registered under the law of the State of Alaska and is operating in a fishery in the exclusive economic zone off Alaska for which there was no fishery management plan in place on August 1, 1996, and the Secretary and the North Pacific Council find that there is a legitimate interest of the State of Alaska in the conservation and management of such fishery. The authority provided under this subparagraph shall terminate when a fishery management plan under this chapter is approved and implemented for such fishery.
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) the owner or operator of the vessel applies to the Governor of the State for, and (subject to paragraph (2)) is granted, permission for the vessel to engage in such processing and the application specifies the species to be processed; and
 
-&emsp;(C) the owner or operator of the vessel submits reports on the tonnage of fish receivedfrom vessels of the United States and the locations from which such fish were harvested, in accordance with such procedures as the Secretary by regulation shall prescribe.
+&emsp;(C) the owner or operator of the vessel submits reports on the tonnage of fish received from vessels of the United States and the locations from which such fish were harvested, in accordance with such procedures as the Secretary by regulation shall prescribe.
 
 (2) The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)—
 
@@ -78,7 +78,7 @@ This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State."
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: "Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State."
 
 Subsec. (b)(3). Pub. L. 104–297, §112(b), added par. (3).
 
@@ -124,7 +124,7 @@ Requirements for State Management.—Any law or regulation adopted by a State un
 
 "(c)
 
-Limitation on Enforcement of State Limited Access Systems.—Any law of the State of Washington,Oregon, or California that establishes or implements a limited access system for a Dungeness crab fishery may not be enforced against a vessel that is otherwise legally fishing in the exclusive economic zone adjacent to that State and that is not registered under the laws of that State, except a law regulating landings.
+Limitation on Enforcement of State Limited Access Systems.—Any law of the State of Washington, Oregon, or California that establishes or implements a limited access system for a Dungeness crab fishery may not be enforced against a vessel that is otherwise legally fishing in the exclusive economic zone adjacent to that State and that is not registered under the laws of that State, except a law regulating landings.
 
 "(d)
 
@@ -164,5 +164,5 @@ Pub. L. 99–509, title V, §5004, Oct. 21, 1986, 100 Stat. 1912, provided that 
 
 #### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219,respectively, set out as notes under section 1331 of Title 43, Public Lands.
 

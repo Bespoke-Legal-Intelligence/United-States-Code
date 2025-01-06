@@ -34,7 +34,7 @@ Report to Congress.—(1) Not later than the first Monday in February of the yea
 
 &emsp;(M) Such other matters the Secretary of Defense considers appropriate.
 
-(2) In preparing the report under paragraph (1), the Secretary of Defense shall consult with, and consider the recommendations of, the Chairman of the Joint Chiefs of Staff.
+(2) In preparing the report under paragraph (1), the Secretary of Defense shall consult with, andconsider the recommendations of, the Chairman of the Joint Chiefs of Staff.
 
 (3) The report required under this subsection shall be submitted in classified form and shall include an unclassified summary.
 
@@ -62,7 +62,7 @@ A prior section 118b, added Pub. L. 110–181, div. A, title IX, §941(a), Jan. 
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, §§311(b)(1)(B), (C), 1081(a)(3), made similar amendments, renumbering section 118a, relating to National Defense Sustainment and Logistics Review, as this section. Section 1081(a)(3), which directed the renumbering of the "second" section 118a, as added by section 341 of Pub. L. 116–283, was read as referring to this section, which had appeared as the first section 118a, to reflect the probable intent of Congress. Amendment by section 1081(a)(3) to be treated as applying before amendment by section 311(b)(1)(B), (C), see section 1081(d) of Pub. L. 117–81, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
+<b>2021</b>—Pub. L. 117–81, §§311(b)(1)(B), (C), 1081(a)(3), made similar amendments, renumbering section 118a, relating to National Defense Sustainment and Logistics Review, as this section. Section 1081(a)(3), which directed the renumbering of the "second" section 118a, as added by section 341 of Pub. L. 116–283, was read as referring to this section, which had appeared as the first section 118a, to reflect the probable intent of Congress. Amendment by section 1081(a)(3) to be treated as applying before amendment by section 311(b)(1)(B), (C), see section 1081(d) of Pub. L. 117–81, listed in a table of Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
 
 Subsec. (a). Pub. L. 117–81, §311(b)(1)(A), substituted "capabilities, response to risks to military installation resilience," for "capabilities,".
 

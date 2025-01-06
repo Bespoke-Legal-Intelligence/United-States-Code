@@ -24,7 +24,7 @@
 
 (b) The Secretary may, for the purpose of extending benefits to veterans and dependents, and to the extent the Secretary deems necessary, procure the necessary space for administrative purposes by lease, purchase, or construction of buildings, or by condemnation or declaration of taking, pursuant to law.
 
-(c) The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) <sup>1</sup> of the Federal Property and Administrative Services Act of 1949, as amended,whenever such services are not reasonably available from private commercial sources. Notwithstanding this exclusion, the provisions of sections 3901 and 3905 of title 41 shall apply to procurement authorized by this subsection.
+(c) The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) <sup>1</sup> of the Federal Property and Administrative Services Act of 1949, as amended, whenever such services are not reasonably available from private commercial sources. Notwithstanding this exclusion, the provisions of sections 3901 and 3905 of title 41 shall apply to procurement authorized by this subsection.
 
 (d)(1) Real property under the jurisdiction of the Secretary may not be declared excess by the Secretary and disposed of by the General Services Administration or any other entity of the Federal Government unless the Secretary determines that the property is no longer needed by the Department in carrying out its functions and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title.
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, §2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
+Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c),was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, §2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
 
 #### Amendments
 
@@ -302,7 +302,7 @@ Other Authority.—
 
 &emsp;"(1)
 
-Temporary and intermittent services.—The Commission may procure by contract, to the extent funds are available, the temporary or intermittent services of experts or consultants pursuant to section 3109 of title 5, United States Code.
+Temporary and intermittent services.—The Commission may procure by contract, to the extentfunds are available, the temporary or intermittent services of experts or consultants pursuant to section 3109 of title 5, United States Code.
 
 &emsp;"(2)
 
@@ -364,7 +364,7 @@ Factors for consideration.—In making recommendations under this subsection, th
 
 &emsp;&emsp;"(E) The extent to which the operating and maintenance costs are reduced through consolidating, colocating, and reconfiguring space, and through realizing other operational efficiencies.
 
-&emsp;&emsp;"(F) The extent and timing of potential costs and savings, including the number of years such costsor savings will be incurred, beginning with the date of completion of the proposed recommendation.
+&emsp;&emsp;"(F) The extent and timing of potential costs and savings, including the number of years such costs or savings will be incurred, beginning with the date of completion of the proposed recommendation.
 
 &emsp;&emsp;"(G) The extent to which the real property aligns with the mission of the Department of Veterans Affairs.
 
@@ -490,7 +490,7 @@ In general.—The Commission shall, not later than January 31, 2023, transmit to
 
 Authority to make changes to recommendations.—Subject to subparagraph (C), in making its recommendations, the Commission may change any recommendation made by the Secretary if the Commission—
 
-&emsp;&emsp;&emsp;"(i) determines that the Secretary deviated substantially from the final criteria referred to insubsection (a)(2) in making such recommendation;
+&emsp;&emsp;&emsp;"(i) determines that the Secretary deviated substantially from the final criteria referred to in subsection (a)(2) in making such recommendation;
 
 &emsp;&emsp;&emsp;"(ii) determines that the change is consistent with the final criteria referred to in subsection (a)(2);
 
@@ -856,7 +856,7 @@ Consideration.—Consideration of the joint resolution, and on all debatable mot
 
 &emsp;&emsp;"(C)
 
-Vote on passage.—If the Senate has voted to proceed to a joint resolution, the vote on passage of the joint resolution shall occur immediately following the conclusion of consideration of the joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+Vote on passage.—If the Senate has voted to proceed to a joint resolution, the vote on passage of the joint resolution shall occur immediately following the conclusion of consideration of the jointresolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
 
 &emsp;&emsp;"(D)
 

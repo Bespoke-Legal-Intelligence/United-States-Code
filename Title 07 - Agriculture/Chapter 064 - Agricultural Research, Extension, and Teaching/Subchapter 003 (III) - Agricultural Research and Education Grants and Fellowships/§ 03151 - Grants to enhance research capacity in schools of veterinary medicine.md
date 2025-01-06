@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis.
+&emsp;The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement ofschools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis.
 
 #### (2) Matching requirement
 

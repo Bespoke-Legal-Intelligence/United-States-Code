@@ -38,7 +38,7 @@ Each institute shall—
 
 #### (d) Submission and approval of water research program; requisite assurances
 
-Prior to and as a condition of the receipt each fiscal year of funds appropriated under subsection (f) of this section, each institute shall submit to the Secretary for his approval a water research program that includes assurances, satisfactory to the Secretary, that such program was developed in close consultation and collaboration with the director of that State's department of water resources or similar agency, other leading water resources officials within the State, and interested members of the public. The program described in the preceding sentence shall include plans to promote research, training, information dissemination, and other activities meeting the needs of the State and Nation, and shall encourage regional cooperation among institutes in research into areas of water management, development, and conservation that have a regional or national character.
+Prior to and as a condition of the receipt each fiscal year of funds appropriated under subsection (f) of this section, each institute shallsubmit to the Secretary for his approval a water research program that includes assurances, satisfactory to the Secretary, that such program was developed in close consultation and collaboration with the director of that State's department of water resources or similar agency, other leading water resources officials within the State, and interested members of the public. The program described in the preceding sentence shall include plans to promote research, training, information dissemination, and other activities meeting the needs of the State and Nation, and shall encourage regional cooperation among institutes in research into areas of water management, development, and conservation that have a regional or national character.
 
 #### (e) Evaluation of water resources research program
 
@@ -134,7 +134,7 @@ Subsec. (g)(1). Pub. L. 117–58, §50221(e), substituted "$3,000,000 for each o
 
 Subsec. (e). Pub. L. 109–471, §2(b), substituted "3" for "5" and inserted "at producing measured results and applied water supply research" after "effectiveness".
 
-Subsec. (f)(1). Pub. L. 109–471, §2(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows:"For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended."
+Subsec. (f)(1). Pub. L. 109–471, §2(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended."
 
 Subsec. (g)(1). Pub. L. 109–471, §2(d), substituted "$6,000,000 for each of fiscal years 2007 through 2011" for "$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005".
 

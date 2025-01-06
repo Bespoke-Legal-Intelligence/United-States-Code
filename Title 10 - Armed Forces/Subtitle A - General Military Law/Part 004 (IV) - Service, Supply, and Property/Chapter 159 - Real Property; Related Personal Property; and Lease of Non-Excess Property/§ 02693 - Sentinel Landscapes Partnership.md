@@ -10,7 +10,7 @@ Designation of Sentinel Landscapes.—The Secretary of Defense, the Secretary of
 
 (c)
 
-Coordination of Activities.—In carrying out this section, the Secretaries and the other heads of Federal departments and agencies may coordinate actions between their departments and agencies and with other Federal, State, interstate, and local agencies, Indian Tribes, and private entities to more efficiently work together for the mutual benefit of conservation, resilience, working lands, and national defense, and to encourage owners and managers of land to engage in voluntary land management, resilience, and conservation activities that contribute to the sustainment of military installations, State-owned National Guard installations, and associated airspace.
+Coordination of Activities.—In carrying out this section, the Secretaries and the other heads of Federal departments and agencies may coordinate actions between their departments and agencies and with other Federal, State, interstate, and local agencies, Indian Tribes, and private entities to more efficiently work together for the mutual benefit of conservation,resilience, working lands, and national defense, and to encourage owners and managers of land to engage in voluntary land management, resilience, and conservation activities that contribute to the sustainment of military installations, State-owned National Guard installations, and associated airspace.
 
 (d)
 
@@ -86,5 +86,5 @@ Subsec. (g)(1). Pub. L. 118–31, §311(b)(7)(A), substituted "section 100(1) of
 
 Subsec. (g)(2). Pub. L. 118–31, §311(b)(7)(B), substituted "section 100(3) of the Sikes Act (16 U.S.C. 670(3))" for "section 670(3) of title 16, United States Code".
 
-Subsec. (g)(3)(B). Pub. L. 118–31, §311(b)(7)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of the military- or State-owned National Guard installation or installations."
+Subsec. (g)(3)(B). Pub. L. 118–31, §311(b)(7)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of themilitary- or State-owned National Guard installation or installations."
 

@@ -1,6 +1,6 @@
 ### §18236. Contributions to States; other use permitted by States
 
-(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3)or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
+(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
 (b) A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
 
@@ -102,7 +102,7 @@ Subsec. (b)(1). Pub. L. 104–106, §1501(b)(36), substituted "18233(e)" for "22
 
 Subsec. (a). Pub. L. 103–337, §1664(b)(8)(A), substituted "18233" for "2233" and "paragraph (3) or (4) of section 18233(a)" for "section 2233(a)(3) or (4)".
 
-Subsec. (b). Pub. L. 103–337, §1664(b)(8)(B)(i), substituted "paragraph (4) or (5) of section 18233(a)" for "clause (4) or (5) of section 2233(a)" in introductory provisions.
+Subsec. (b). Pub. L. 103–337, §1664(b)(8)(B)(i), substituted "paragraph (4) or (5) of section 18233(a)" for"clause (4) or (5) of section 2233(a)" in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 103–337, §1664(b)(8)(B)(ii), which directed amendment of par. (2) by substituting "section 18233(e)" for "section 2233(e)", could not be executed because the words "section 2233(e)" did not appear in par. (2).
 

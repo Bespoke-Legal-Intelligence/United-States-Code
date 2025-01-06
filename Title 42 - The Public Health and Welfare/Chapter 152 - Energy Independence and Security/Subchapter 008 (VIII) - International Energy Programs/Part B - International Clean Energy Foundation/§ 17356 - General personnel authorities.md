@@ -8,7 +8,7 @@ Upon request of the Chief Executive Officer, the head of an agency may detail an
 
 #### (1) In general
 
-&emsp;An employee of an agency who is serving under a career or career conditional appointment (or the equivalent), and who, with the consent of the head of such agency, transfersto the Foundation, is entitled to be reemployed in such employee's former position or a position of like seniority, status, and pay in such agency, if such employee—
+&emsp;An employee of an agency who is serving under a career or career conditional appointment (or the equivalent), and who, with the consent of the head of such agency, transfers to the Foundation, is entitled to be reemployed in such employee's former position or a position of like seniority, status, and pay in such agency, if such employee—
 
 &emsp;&emsp;(A) is separated from the Foundation for any reason, other than misconduct, neglect of duty, or malfeasance; and
 

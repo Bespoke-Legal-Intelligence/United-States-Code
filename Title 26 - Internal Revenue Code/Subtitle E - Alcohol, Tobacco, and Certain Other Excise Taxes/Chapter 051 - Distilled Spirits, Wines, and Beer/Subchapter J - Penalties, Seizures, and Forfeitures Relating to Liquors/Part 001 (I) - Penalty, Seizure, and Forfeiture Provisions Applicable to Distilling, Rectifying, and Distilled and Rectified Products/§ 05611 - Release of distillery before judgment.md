@@ -4,7 +4,7 @@ Any distillery or distilling apparatus seized on any premises qualified under th
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1404.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -54,7 +54,7 @@ Another prior section 2346c, Pub. L. 87–195, pt. II, §534, as added Pub. L. 9
 
 #### Amendments
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–623, §2(b)(6)(A), which directed the substitution of "$10,000,000 may be madeavailable in fiscal year 1991" for "$7,000,000 may be made available in fiscal year 1990", was executed by making the substitution for "$7,000,000 may be made available in fiscal year 1991" to reflect the probable intent of Congress and the intervening substitution of "fiscal year 1991" for "fiscal year 1990" by Pub. L. 101–513. See below.
+<b>1990</b>—Subsec. (e). Pub. L. 101–623, §2(b)(6)(A), which directed the substitution of "$10,000,000 may be made available in fiscal year 1991" for "$7,000,000 may be made available in fiscal year 1990", was executed by making the substitution for "$7,000,000 may be made available in fiscal year 1991" to reflect the probable intent of Congress and the intervening substitution of "fiscal year 1991" for "fiscal year 1990" by Pub. L. 101–513. See below.
 
 Pub. L. 101–623, §2(b)(6)(B), and Pub. L. 101–513, amended subsec. (e) identically, substituting "September 30, 1991" for "September 30, 1990".
 

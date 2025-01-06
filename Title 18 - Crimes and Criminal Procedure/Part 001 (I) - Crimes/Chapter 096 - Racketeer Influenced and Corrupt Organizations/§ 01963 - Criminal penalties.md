@@ -28,7 +28,7 @@
 
 (c) All right, title, and interest in property described in subsection (a) vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (l) that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
-(d)(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action topreserve the availability of property described in subsection (a) for forfeiture under this section—
+(d)(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) for forfeiture under this section—
 
 &emsp;(A) upon the filing of an indictment or information charging a violation of section 1962 of this chapter and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
 
@@ -88,7 +88,7 @@
 
 (l)(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
-(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
+(2) Any person, other than the defendant, asserting a legal interest in property which hasbeen ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
 (3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 

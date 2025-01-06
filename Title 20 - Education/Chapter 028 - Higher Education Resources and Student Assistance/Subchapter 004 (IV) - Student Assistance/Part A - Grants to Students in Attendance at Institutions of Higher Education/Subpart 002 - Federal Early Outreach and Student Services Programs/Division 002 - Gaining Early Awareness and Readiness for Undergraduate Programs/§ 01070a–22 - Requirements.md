@@ -40,7 +40,7 @@ An eligible entity described in section 1070a–21(c)(2) of this title shall des
 
 #### (2) Coordination requirement
 
-&emsp;In order for the Secretary to require the cohort approach described in paragraph (1), the Secretary shall, where applicable, ensure that the cohort approach is done in coordination and collaboration with existing early intervention programs and does not duplicate the services already provided to a school or community.
+&emsp;In order for the Secretary to require the cohort approach described in paragraph (1), the Secretary shall, where applicable, ensure that the cohort approach is done in coordination and collaboration with existing early intervention programs and does not duplicate theservices already provided to a school or community.
 
 #### (e) Supplement, not supplant
 

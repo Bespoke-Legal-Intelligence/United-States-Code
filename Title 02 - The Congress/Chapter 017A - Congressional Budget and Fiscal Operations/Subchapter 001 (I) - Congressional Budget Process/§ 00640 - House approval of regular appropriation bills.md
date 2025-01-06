@@ -12,7 +12,7 @@ Section was formerly classified to section 1330 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–177 substituted "House approval of regular appropriation bills" for "Completion of actionon bills providing new budget authority and certain new spending authority" in section catchline, and amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided pursuant to this subchapter, not later than the seventh day after Labor Day of each year, the Congress shall complete action on all bills and resolutions—
+<b>1985</b>—Pub. L. 99–177 substituted "House approval of regular appropriation bills" for "Completion of action on bills providing new budget authority and certain new spending authority" in section catchline, and amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided pursuant to this subchapter, not later than the seventh day after Labor Day of each year, the Congress shall complete action on all bills and resolutions—
 
 &emsp;"(1) providing new budget authority for the fiscal year beginning on October 1 of such year, other than supplemental, deficiency, and continuing appropriation bills and resolutions, and other than the reconciliation bill for such year, if required to be reported under section 641(c) of this title; and
 

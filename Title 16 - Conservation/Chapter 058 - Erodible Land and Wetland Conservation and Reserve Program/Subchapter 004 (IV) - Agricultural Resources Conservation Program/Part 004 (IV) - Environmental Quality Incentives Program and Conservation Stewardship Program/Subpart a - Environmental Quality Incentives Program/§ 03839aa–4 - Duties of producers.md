@@ -2,7 +2,7 @@
 
 To receive payments under the program, a producer shall agree—
 
-&emsp;(1) to implement an environmental quality incentives program plan (including a comprehensive nutrient management plan, if applicable) that describes conservation and environmental purposes to be achieved through 1 or more practices that are approved by the Secretary;
+&emsp;(1) to implement an environmental quality incentives program plan (including a comprehensive nutrient management plan, if applicable) that describes conservation and environmental purposes to be achieved through 1or more practices that are approved by the Secretary;
 
 &emsp;(2) not to conduct any practices on the enrolled land that would tend to defeat the purposes of the program;
 

@@ -72,7 +72,7 @@ The National Technical Information Service shall—
 
 &emsp;(J) seek advice in each Federal laboratory consortium region from representatives of State and local governments, large and small business, universities, and other appropriate persons on the effectiveness of the program (and any such advice shall be provided at no expense to the Government); and
 
-&emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologiesand projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
+&emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
 
 (2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
 
@@ -124,7 +124,7 @@ The National Technical Information Service shall—
 
 #### (4) Public availability
 
-&emsp;Each Federal agency reporting under this subsection is also strongly encouraged tomake the information contained in such report available to the public through Internet sites or other electronic means.
+&emsp;Each Federal agency reporting under this subsection is also strongly encouraged to make the information contained in such report available to the public through Internet sites or other electronic means.
 
 #### (g) Functions of Secretary
 
@@ -142,7 +142,7 @@ Reports.—
 
 &emsp;(A)
 
-Annual report required.—The Secretary, in consultation with the Attorney General and the Commissioner of Patents and Trademarks, shall submit each fiscal year, beginning 1 year after November 1, 2000, a summary report to the President, the United States Trade Representative, and the Congress on the use by Federal agencies and the Secretary of the technology transfer authorities specified in this chapter and in sections 207 and 209 of title 35.
+Annual report required.—The Secretary, in consultation with the Attorney General and the Commissioner of Patents and Trademarks, shall submit each fiscal year, beginning 1 year after November 1, 2000, a summary report to the President, the United States Trade Representative, and the Congress on the use by Federal agencies and the Secretary of the technology transfer authoritiesspecified in this chapter and in sections 207 and 209 of title 35.
 
 &emsp;(B)
 
@@ -196,7 +196,7 @@ Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted "in cooperation with Fede
 
 Subsec. (f). Pub. L. 106–404, §10(a)(2), added subsec. (f).
 
-Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows:"Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation."
+Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows: "Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation."
 
 Subsec. (h). Pub. L. 106–404, §10(a)(4), added subsec. (h).
 
@@ -216,7 +216,7 @@ Subsec. (i). Pub. L. 104–113, §9, inserted "loan, lease, or" before "give".
 
 <b>1992</b>—Subsec. (e)(2). Pub. L. 102–245, §301(a), inserted "senior" before "representative".
 
-Subsec. (e)(6). Pub. L. 102–245, §301(b), inserted at end "Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles."
+Subsec. (e)(6). Pub. L. 102–245, §301(b), inserted at end "Such report shall include an annual independent auditof the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles."
 
 Subsec. (e)(7)(B)(ii). Pub. L. 102–245, §301(c), substituted "1991, 1992, 1993, 1994, 1995, or 1996" for "or 1991".
 
@@ -260,7 +260,7 @@ Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted "to State and local 
 
 Subsec. (c)(5). Pub. L. 99–502, §4(b)(2)(D), added par. (5).
 
-Subsec. (d). Pub. L. 99–502, §4(c)(1), substituted "The National Technical Information Service shall" for"There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall" in introductory par.
+Subsec. (d). Pub. L. 99–502, §4(c)(1), substituted "The National Technical Information Service shall" for "There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall" in introductory par.
 
 Subsec. (d)(2). Pub. L. 99–502, §4(c)(2), (3), redesignated par. (3) as (2) and struck out "existing" before "Federal Laboratory". Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
 
@@ -320,7 +320,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 (c) Limit its participation in any consortium so established to the use of laboratory personnel and facilities. However, each laboratory may also provide financial support generally not to exceed 25 percent of the total budget for the activities of the consortium. Such financial support by any laboratory in all such consortia shall be limited to a maximum of $5 million per annum.
 
-Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commissionon Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
+Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
 
 Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from and fully exploits scientific research and technology developed abroad,
 

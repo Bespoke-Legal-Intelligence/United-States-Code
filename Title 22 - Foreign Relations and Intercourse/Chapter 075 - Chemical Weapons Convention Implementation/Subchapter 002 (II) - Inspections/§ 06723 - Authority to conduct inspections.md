@@ -8,7 +8,7 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 #### (1) Technical Secretariat inspection teams
 
-&emsp;Any duly designated member of an inspection team of the Technical Secretariat may inspect any plant, plant site, or other facility or location in the United States subject to inspection pursuant to the Convention.
+&emsp;Any duly designated member of an inspection team of the Technical Secretariat mayinspect any plant, plant site, or other facility or location in the United States subject to inspection pursuant to the Convention.
 
 #### (2) United States Government representatives
 

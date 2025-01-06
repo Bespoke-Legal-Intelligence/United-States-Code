@@ -2,7 +2,7 @@
 
 (a) Every letter, writing, circular, postal card, picture, print, engraving, photograph, newspaper, pamphlet, book, or other publication, matter or thing, in violation of sections 499, 506, 793, 794, 915, 954, 956, 957, 960, 964, 1017, 1542, 1543, 1544 or 2388 of this title or which contains any matter advocating or urging treason, insurrection, or forcible resistance to any law of the United States is nonmailable and shall not be conveyed in the mails or delivered from any post office or by any letter carrier.
 
-(b) Whoever uses or attempts to use the mails or Postal Service for the transmission of anymatter declared by this section to be nonmailable, shall be fined under this title or imprisoned not more than ten years or both.
+(b) Whoever uses or attempts to use the mails or Postal Service for the transmission of any matter declared by this section to be nonmailable, shall be fined under this title or imprisoned not more than ten years or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 782; Pub. L. 86–682, §12(b), Sept. 2, 1960, 74 Stat. 708; Pub. L. 91–375, §6(j)(27), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XXXV, §3552(a), Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 

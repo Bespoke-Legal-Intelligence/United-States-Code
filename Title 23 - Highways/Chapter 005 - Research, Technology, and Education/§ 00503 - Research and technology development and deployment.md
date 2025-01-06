@@ -412,7 +412,7 @@ Technology and Innovation Deployment Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall carry out a technology and innovation deployment program relating to all aspects of highway transportation, including planning, financing, operation, structures, use of rights-of-way permissible under applicable law, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
+In general.—The Secretary shall carry out a technology and innovation deploymentprogram relating to all aspects of highway transportation, including planning, financing, operation, structures, use of rights-of-way permissible under applicable law, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
 
 &emsp;&emsp;(A) significantly accelerating the adoption of innovative technologies by the surface transportation community;
 
@@ -450,7 +450,7 @@ Implementation of future strategic highway research program findings and results
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Secretary, in consultation with the American Association of State Highway and Transportation Officials and the Transportation ResearchBoard of the National Academy of Sciences, shall promote research results and products developed under the future strategic highway research program administered by the Transportation Research Board of the National Academy of Sciences.
+In general.—The Secretary, in consultation with the American Association of State Highway and Transportation Officials and the Transportation Research Board of the National Academy of Sciences, shall promote research results and products developed under the future strategic highway research program administered by the Transportation Research Board of the National Academy of Sciences.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -706,7 +706,7 @@ Report to secretary.—For each eligible entity that receives a grant under this
 
 &emsp;&emsp;&emsp;&emsp;(III) the effectiveness of providing real-time integrated traffic, transit, and multimodal transportation information to the public to make informed travel decisions; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) lessons learned and recommendations for future deployment strategies to optimize transportation mobility, efficiency, multimodal system performance, and payment system performance.
+&emsp;&emsp;&emsp;&emsp;(IV) lessons learned and recommendations for future deployment strategies tooptimize transportation mobility, efficiency, multimodal system performance, and payment system performance.
 
 &emsp;&emsp;(G)
 
@@ -752,7 +752,7 @@ Expenses for the secretary.—Of the amounts set aside under clause (i), the Sec
 
 &emsp;&emsp;(J)
 
-Federal share.—The Federal share of the cost of a project for which a grant isawarded under this subsection shall not exceed 80 percent of the cost of the project.
+Federal share.—The Federal share of the cost of a project for which a grant is awarded under this subsection shall not exceed 80 percent of the cost of the project.
 
 &emsp;&emsp;(K)
 
@@ -814,7 +814,7 @@ Accelerated implementation and deployment of advanced digital construction manag
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall establish and implement a program under the technology and innovation deployment program established under paragraph (1) to promote, implement, deploy, demonstrate, showcase, support, and document the application of advanced digital construction management systems, practices, performance, and benefits.
+In general.—The Secretary shall establish and implement a program under thetechnology and innovation deployment program established under paragraph (1) to promote, implement, deploy, demonstrate, showcase, support, and document the application of advanced digital construction management systems, practices, performance, and benefits.
 
 &emsp;&emsp;(B)
 
@@ -916,7 +916,7 @@ New mobility.—The term "new mobility" includes shared services such as—
 
 &emsp;&emsp;(B)
 
-Establishment.—Not later than 1 year after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall establish a Center of Excellence to collect, conduct, and fund research on the impacts of new mobility and highly automated vehicles on land use, urban design, transportation, real estate, equity, and municipal budgets.
+Establishment.—Not later than 1 year after the date of enactment of the SurfaceTransportation Reauthorization Act of 2021, the Secretary shall establish a Center of Excellence to collect, conduct, and fund research on the impacts of new mobility and highly automated vehicles on land use, urban design, transportation, real estate, equity, and municipal budgets.
 
 &emsp;&emsp;(C)
 
@@ -1064,7 +1064,7 @@ initiatives and partnerships" before "
 
 program" in heading.
 
-Subsec. (a)(1). Pub. L. 109–59, §5203(a)(2), added par. (1) and struck out heading and text of former par. (1). Textread as follows: "The Secretary shall develop and administer a national technology deployment initiatives and partnerships program."
+Subsec. (a)(1). Pub. L. 109–59, §5203(a)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The Secretary shall develop and administer a national technology deployment initiatives and partnerships program."
 
 Subsec. (a)(7). Pub. L. 109–59, §5203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: "Under the program, the Secretary may make grants and enter into cooperative agreements and contracts to foster alliances and support efforts to stimulate advances in transportation technology, including—
 

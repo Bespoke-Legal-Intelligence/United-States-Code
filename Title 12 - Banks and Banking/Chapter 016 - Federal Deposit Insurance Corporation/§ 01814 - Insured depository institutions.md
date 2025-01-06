@@ -28,7 +28,7 @@ Subject to section 1815(d) of this title and section 1464(i)(5) of this title—
 
 Any State depository institution or any Federal depository institution which results from the merger or consolidation of insured depository institutions, or from the merger or consolidation of a noninsured depository institution with an insured depository institution, shall continue as an insured depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[4\], 64 Stat. 875; Pub. L. 97–320, title I, §113(c), Oct. 15, 1982, 96 Stat. 1473; Pub. L. 101–73, title II, §§201(a), 205, Aug. 9, 1989, 103 Stat. 187, 194; Pub. L. 102–242, title I, §115(b),Dec. 19, 1991, 105 Stat. 2249; Pub. L. 102–550, title XVI, §1603(b)(6), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 109–351, title VI, §608(b), Oct. 13, 2006, 120 Stat. 1983.)
+(Sept. 21, 1950, ch. 967, §2\[4\], 64 Stat. 875; Pub. L. 97–320, title I, §113(c), Oct. 15, 1982, 96 Stat. 1473; Pub. L. 101–73, title II, §§201(a), 205, Aug. 9, 1989, 103 Stat. 187, 194; Pub. L. 102–242, title I, §115(b), Dec. 19, 1991, 105 Stat. 2249; Pub. L. 102–550, title XVI, §1603(b)(6), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 109–351, title VI, §608(b), Oct. 13, 2006, 120 Stat. 1983.)
 
 #### <b>Editorial Notes</b>
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 101–73, §205(2)(A), (B), inserted after first sentence "
 
 Pub. L. 101–73, §205(2)(C), which directed the amendment of subsec. (b) by substituting "(b)
 
-Certification by Other Banking Agencies.—Every national bank" for "(b) Every national bank" could not be executed literally because the original read "(b) Every national member bank", but was executed by inserting the heading without changing the text to reflect the probable intent of Congress.
+Certificationby Other Banking Agencies.—Every national bank" for "(b) Every national bank" could not be executed literally because the original read "(b) Every national member bank", but was executed by inserting the heading without changing the text to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 101–73, §205(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Every Federal savings bank which is chartered pursuant to section 1464(o) of this title, and which is engaged in the business of receiving deposits other than trust funds, shall be an insured bank from the time it is authorized to commence business, until such time as its accounts are insured by the Federal Savings and Loan Insurance Corporation."
 

@@ -22,7 +22,7 @@
 
 #### (3) Determining amount
 
-&emsp;In determining the amount of any penalty assessed pursuant to this subsection, the President shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
+&emsp;In determining the amount of any penalty assessed pursuant to this subsection, thePresident shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
 
 #### (4) Review
 

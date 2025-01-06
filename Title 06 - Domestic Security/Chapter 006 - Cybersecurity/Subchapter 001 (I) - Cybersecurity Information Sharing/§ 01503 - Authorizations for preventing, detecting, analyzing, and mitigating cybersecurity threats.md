@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) an information system of another non-Federal entity, upon the authorization and written consent of such other entity;
 
-&emsp;&emsp;(C) an information system of a Federal entity, upon the authorization and writtenconsent of an authorized representative of the Federal entity; and
+&emsp;&emsp;(C) an information system of a Federal entity, upon the authorization and written consent of an authorized representative of the Federal entity; and
 
 &emsp;&emsp;(D) information that is stored on, processed by, or transiting an information system monitored by the private entity under this paragraph.
 

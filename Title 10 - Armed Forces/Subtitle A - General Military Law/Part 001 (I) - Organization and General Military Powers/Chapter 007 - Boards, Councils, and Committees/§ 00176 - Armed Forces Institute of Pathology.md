@@ -4,7 +4,7 @@
 
 (2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors, and a staff of such professional, technical, and clerical personnel as may be required.
 
-(3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the SurgeonsGeneral of the Army, Navy, and Air Force, the Under Secretary for Health of the Department of Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
+(3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Department of Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
 
 (4) The Director and the Deputy Directors shall be appointed by the Secretary of Defense.
 
@@ -78,7 +78,7 @@ Establishment within dod.—Except as provided in paragraph (3), the Joint Patho
 
 &emsp;"(3)
 
-Establishment in another department.—If the President makes a determination, within 180 days after the date of the enactment of this Act \[Jan. 28,2008\], that the Joint Pathology Center cannot be established in the Department of Defense, the Joint Pathology Center shall be established as an element of a Federal agency other than the Department of Defense. The President shall incorporate the selection of such agency into the determination made under this paragraph.
+Establishment in another department.—If the President makes a determination, within 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], that the Joint Pathology Center cannot be established in the Department of Defense, the Joint Pathology Center shall be established as an element of a Federal agency other than the Department of Defense. The President shall incorporate the selection of such agency into the determination made under this paragraph.
 
 "(d)
 

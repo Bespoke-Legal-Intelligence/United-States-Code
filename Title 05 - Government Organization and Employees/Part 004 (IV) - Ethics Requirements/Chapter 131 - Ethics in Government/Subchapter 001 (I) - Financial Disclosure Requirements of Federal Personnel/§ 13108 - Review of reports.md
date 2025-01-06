@@ -46,7 +46,7 @@ Noncompliance and notification of steps to assure compliance.—If the Director 
 
 &emsp;(4)
 
-Referral of individuals in positions requiring senate confirmation.—If steps for assuring compliance with applicable laws and regulations are not taken by the date set under paragraph (3) by an individual in a position in the executive branch (other than in theForeign Service or the uniformed services), appointment to which requires the advice and consent of the Senate, the matter shall be referred to the President for appropriate action.
+Referral of individuals in positions requiring senate confirmation.—If steps for assuring compliance with applicable laws and regulations are not taken by the date set under paragraph (3) by an individual in a position in the executive branch (other than in the Foreign Service or the uniformed services), appointment to which requires the advice and consent of the Senate, the matter shall be referred to the President for appropriate action.
 
 &emsp;(5)
 

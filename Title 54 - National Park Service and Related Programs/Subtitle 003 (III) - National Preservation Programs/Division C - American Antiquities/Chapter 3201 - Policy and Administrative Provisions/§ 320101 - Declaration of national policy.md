@@ -230,6 +230,10 @@ National Commemorative Sites
 
 Charleston National Commemorative Site, Arkansas.—Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–262.
 
+Holcombe Rucker Park National Commemorative Site, New York.—Pub. L. 118–235, Jan. 4, 2025, 138 Stat. 2919.
+
+Jackie Robinson Ballpark National Commemorative Site, Florida.—Pub. L. 118–247, Jan. 4, 2025, 138 Stat. 2935.
+
 Kennedy–King National Commemorative Site, Indiana.—Pub. L. 115–163, Apr. 4, 2018, 132 Stat. 1251.
 
 Quindaro Townsite National Commemorative Site, Kansas.—Pub. L. 116–9, title IX, §9008, Mar. 12, 2019, 133 Stat. 838.
@@ -244,7 +248,7 @@ Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, as amended by Pub. L. 111–11, 
 
 #### Chesapeake Bay Initiative
 
-Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–141, div. G, title IV, §420, Mar. 23, 2018, 132 Stat. 691; Pub. L. 116–188, title I, §110, Oct. 30, 2020, 134 Stat. 920, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–141, div. G, title IV, §420, Mar. 23, 2018, 132 Stat. 691; Pub. L. 116–188, title I, §110, Oct. 30, 2020, 134 Stat. 920; Pub. L. 118–198, title I, §109, Dec. 23, 2024, 138 Stat. 2681, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
 #### Vancouver National Historic Reserve
 
@@ -276,13 +280,13 @@ Pub. L. 97–184, May 24, 1982, 96 Stat. 99, provided: "That (a) in order to ass
 
 Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
 
-"(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
+"(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in MountVernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
 
 "(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (\[former\] 16 U.S.C. 1 and following) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\] and the Act approved August 21, 1935 \[see 18 U.S.C. 1866(a), 54 U.S.C. 102303, 102304, 320101 et seq.\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired."
 
 #### Ebey's Landing National Historical Reserve
 
-Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. L. 96–87, title IV, §401(k), Oct. 12, 1979, 93 Stat. 666, provided:
+Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. L. 96–87, title IV, §401(k), Oct. 12, 1979, 93 Stat. 666; Pub. L. 118–42, div. E, title I, §125, Mar. 9, 2024, 138 Stat. 250, provided:
 
 "(a) \[Establishment, area of reserve\] There is hereby established the Ebey's Landing National Historical Reserve (hereinafter referred to as the 'reserve'), in order to preserve and protect a rural community which provides an unbroken historical record from nineteenth century exploration and settlement in Puget Sound to the present time, and to commemorate—
 
@@ -320,7 +324,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 "(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
 
-"(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section."
+"(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated $18,000,000 to carry out the provisions of this section."
 
 #### <b>Executive Documents</b>
 
@@ -348,7 +352,7 @@ WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of 
 
 WHEREAS section 5 of the Outer Continental Shelf Lands Act \[section 1334 of Title 43\] authorizes the Secretary of the Interior to prescribe rules and regulations for the conservation of the natural resources of the outer Continental Shelf and to cooperate with the conservation agencies of adjacent States in the enforcement of conservation laws, rules, and regulations:
 
-NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, acting under and by virtue of the authority vested in me by the Constitution and the statutes of the United States, particularly section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43\],do proclaim that, subject to valid existing rights, the following-described area is designated as the Key Largo Coral Reef Preserve, and so much thereof as lies on the outer Continental Shelf is withdrawn from disposition:
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, acting under and by virtue of the authority vested in me by the Constitution and the statutes of the United States, particularly section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43\], do proclaim that, subject to valid existing rights, the following-described area is designated as the Key Largo Coral Reef Preserve, and so much thereof as lies on the outer Continental Shelf is withdrawn from disposition:
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 

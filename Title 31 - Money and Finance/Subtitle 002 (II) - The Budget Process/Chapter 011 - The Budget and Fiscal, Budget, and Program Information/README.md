@@ -24,21 +24,27 @@
 
 |  |  |
 | :--- | ---: |
-| [1118\.](%C2%A7%2001118%20-%20Pilot%20projects%20for%20performance%20goals.md) | Pilot projects for performance goals. |
-| [1119\.](%C2%A7%2001119%20-%20Pilot%20projects%20for%20performance%20budgeting.md) | Pilot projects for performance budgeting. |
+| \[1118, 1119. | Repealed.\] |
 | [1120\.](%C2%A7%2001120%20-%20Federal%20Government%20and%20agency%20priority%20goals.md) | Federal Government and agency priority goals. |
-| [1121\.](%C2%A7%2001121%20-%20Quarterly%20priority%20progress%20reviews%20and%20use%20of%20performance%20information.md) | Quarterly priority progress reviews and use of performance information. |
+| [1121\.](%C2%A7%2001121%20-%20Progress%20reviews%20and%20use%20of%20performance%20information.md) | Progress reviews and use of performance information..<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1122\.](%C2%A7%2001122%20-%20Transparency%20of%20programs%2C%20priority%20goals%2C%20and%20results.md) | Transparency of programs, priority goals, and results. |
 | [1123\.](%C2%A7%2001123%20-%20Chief%20Operating%20Officers.md) | Chief Operating Officers. |
 | [1124\.](%C2%A7%2001124%20-%20Performance%20Improvement%20Officers%20and%20the%20Performance%20Improvement%20Council.md) | Performance Improvement Officers and the Performance Improvement Council. |
 | [1125\.](%C2%A7%2001125%20-%20Elimination%20of%20unnecessary%20agency%20reporting.md) | Elimination of unnecessary agency reporting. |
-| [1126\.](%C2%A7%2001126%20-%20Program%20Management%20Improvement%20Officers%20and%20Program%20Management%20Policy%20Council.md) | Program Management Improvement Officers and Program Management Policy Council.<sup>2</sup> |
+| [1126\.](%C2%A7%2001126%20-%20Program%20Management%20Improvement%20Officers%20and%20Program%20Management%20Policy%20Council.md) | Program Management Improvement Officers and Program Management Policy Council.<sup>3</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–190, §§2(a)(2), 6(c), Dec. 23, 2024, 138 Stat. 2654, 2656, added item 1121 and struck out former item 1121 "Quarterly priority progress reviews and use of performance information" and items 1118 "Pilot projects for performance goals" and 1119 "Pilot projects for performance budgeting".
 
 <b>2011</b>—Pub. L. 111–352, §13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 "Performance plans" and 1116 "Program performance reports".
 
@@ -48,7 +54,9 @@
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
-<i><sup>2</sup></i><i> Editorially supplied. Section 1126 added by Pub. L. 114–264 and Pub. L. 114–328 without corresponding amendment of chapter analysis.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> Editorially supplied. Section 1126 added by Pub. L. 114–264 and Pub. L. 114–328 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -72,10 +80,9 @@
 - [&sect; 01115 - Federal Government and agency performance plans](%C2%A7%2001115%20-%20Federal%20Government%20and%20agency%20performance%20plans.md)
 - [&sect; 01116 - Agency performance reporting](%C2%A7%2001116%20-%20Agency%20performance%20reporting.md)
 - [&sect; 01117 - Exemption](%C2%A7%2001117%20-%20Exemption.md)
-- [&sect; 01118 - Pilot projects for performance goals](%C2%A7%2001118%20-%20Pilot%20projects%20for%20performance%20goals.md)
-- [&sect; 01119 - Pilot projects for performance budgeting](%C2%A7%2001119%20-%20Pilot%20projects%20for%20performance%20budgeting.md)
+- [&sect; 01118, 1119 - Repealed. Pub. L. 118&#8211;190, &sect;6(a), Dec. 23, 2024, 138 Stat. 2656](%C2%A7%2001118%2C%201119%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93190%2C%20%C2%A76%28a%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202656.md)
 - [&sect; 01120 - Federal Government and agency priority goals](%C2%A7%2001120%20-%20Federal%20Government%20and%20agency%20priority%20goals.md)
-- [&sect; 01121 - Quarterly priority progress reviews and use of performance information](%C2%A7%2001121%20-%20Quarterly%20priority%20progress%20reviews%20and%20use%20of%20performance%20information.md)
+- [&sect; 01121 - Progress reviews and use of performance information](%C2%A7%2001121%20-%20Progress%20reviews%20and%20use%20of%20performance%20information.md)
 - [&sect; 01122 - Transparency of programs, priority goals, and results](%C2%A7%2001122%20-%20Transparency%20of%20programs%2C%20priority%20goals%2C%20and%20results.md)
 - [&sect; 01123 - Chief Operating Officers](%C2%A7%2001123%20-%20Chief%20Operating%20Officers.md)
 - [&sect; 01124 - Performance Improvement Officers and the Performance Improvement Council](%C2%A7%2001124%20-%20Performance%20Improvement%20Officers%20and%20the%20Performance%20Improvement%20Council.md)

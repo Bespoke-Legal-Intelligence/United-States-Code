@@ -28,7 +28,7 @@ Any land or interest in land owned by the State of Idaho or any of its political
 
 #### (g) Transfer from Federal agency to administrative jurisdiction of Secretary
 
-Notwithstanding any other provision of law, any Federal property located within the recreation area may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the purposes of this subchapter. Lands acquired by the Secretary or transferred to his administrative jurisdiction within the recreation area shall become parts of the recreation area and of the national forest within or adjacent to which they are located.
+Notwithstanding any other provision of law, any Federal property located within the recreation area may, with the concurrence of theagency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the purposes of this subchapter. Lands acquired by the Secretary or transferred to his administrative jurisdiction within the recreation area shall become parts of the recreation area and of the national forest within or adjacent to which they are located.
 
 #### (h) Condemnation authority
 

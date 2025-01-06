@@ -14,7 +14,7 @@ The text of par. (4) of section 2302 of this title, which was transferred to thi
 
 A prior section 3013 was renumbered section 7013 of this title.
 
-Another prior section 3013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 157, §3012; Sept. 2, 1958, Pub. L. 85–861, §1(57),72 Stat. 1462; Sept. 7, 1962, Pub. L. 87–651, title II, §211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(2), 306(j)(1), 78 Stat. 422, 431; Nov. 2, 1966, Pub. L. 89–718, §22, 80 Stat. 1118; renumbered §3013, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034, related to Secretary of the Army, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, §501(a)(5).
+Another prior section 3013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 157, §3012; Sept. 2, 1958, Pub. L. 85–861, §1(57), 72 Stat. 1462; Sept. 7, 1962, Pub. L. 87–651, title II, §211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(2), 306(j)(1), 78 Stat. 422, 431; Nov. 2, 1966, Pub. L. 89–718, §22, 80 Stat. 1118; renumbered §3013, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034, related to Secretary of the Army, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, §501(a)(5).
 
 Another prior section 3013 was renumbered section 3014 of this title and subsequently repealed.
 

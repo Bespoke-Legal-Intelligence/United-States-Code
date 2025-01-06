@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to reduce the prevalence of synthetic identity fraud, which disproportionally affects vulnerable populations, such as minors and recent immigrants, by facilitating the validation by permitted entities offraud protection data, pursuant to electronically received consumer consent, through use of a database maintained by the Commissioner.
+The purpose of this section is to reduce the prevalence of synthetic identity fraud, whichdisproportionally affects vulnerable populations, such as minors and recent immigrants, by facilitating the validation by permitted entities of fraud protection data, pursuant to electronically received consumer consent, through use of a database maintained by the Commissioner.
 
 #### (b) Definitions
 
@@ -100,7 +100,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 &emsp;&emsp;&emsp;(ii) deter fraud and misuse by permitted entities with respect to the database or similar resource described in subsection (c); and
 
-&emsp;&emsp;(B) terminate services for any permitted entity that prevents or refuses to allow the Commissioner to carry out the activities described in subparagraph (A).
+&emsp;&emsp;(B) terminate services for any permitted entity that prevents or refuses to allow theCommissioner to carry out the activities described in subparagraph (A).
 
 #### (2) Enforcement
 

@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;(A) For contracts agreed to after December 22, 2023, how private entities that contract with the intelligence community would make payments for additional clearances for their employees and how the intelligence community would receive payments.
 
-&emsp;&emsp;(B) A list of and changes to provisions of law required in order to fully implement the program required by subsection (c) andachieve the intent indicated in subparagraph (A) of this paragraph.
+&emsp;&emsp;(B) A list of and changes to provisions of law required in order to fully implement the program required by subsection (c) and achieve the intent indicated in subparagraph (A) of this paragraph.
 
 &emsp;&emsp;(C) Such considerations as the Director may have for carrying out the program required by subsection (c) and achieving the intent indicated in subparagraph (A) of this paragraph.
 
@@ -90,7 +90,7 @@ The limitations described in this subsection are as follows:
 
 #### (1) In general
 
-&emsp;No application for a security clearance may be submitted by a covered person of an entity or granted pursuant to the program established under subsection (c) in excess of the limitations under subsection (d) applicable to such entity.
+&emsp;No application for a security clearance may be submitted by a covered person of an entityor granted pursuant to the program established under subsection (c) in excess of the limitations under subsection (d) applicable to such entity.
 
 #### (2) Prohibition on bearing costs
 

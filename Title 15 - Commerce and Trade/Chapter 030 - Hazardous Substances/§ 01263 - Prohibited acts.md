@@ -8,7 +8,7 @@ The following acts and the causing thereof are prohibited:
 
 (c) The receipt in interstate commerce of any misbranded hazardous substance or banned hazardous substance and the delivery or proffered delivery thereof for pay or otherwise.
 
-(d) The giving of a guarantee or undertaking referred to in section 1264(b)(2) of this title which guarantee or undertaking is false, exceptby a person who relied upon a guarantee or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the hazardous substance.
+(d) The giving of a guarantee or undertaking referred to in section 1264(b)(2) of this title which guarantee or undertaking is false, except by a person who relied upon a guarantee or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the hazardous substance.
 
 (e) The failure to permit entry or inspection as authorized by section 1270(b) of this title or to permit access to and copying of any record as authorized by section 1271 of this title.
 
@@ -34,7 +34,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act Jun
 
 #### Amendments
 
-<b>2008</b>—Subsec. (h). Pub. L. 110–314, §204(b)(4)(B), (C), substituted "Commission or officers or employees of the Commission" for "Secretary or officers or employees of the Department".
+<b>2008</b>—Subsec. (h). Pub. L. 110–314, §204(b)(4)(B), (C), substituted "Commission or officers or employees ofthe Commission" for "Secretary or officers or employees of the Department".
 
 Subsec. (i). Pub. L. 110–314, §204(b)(4)(H), substituted "Commission" for "Consumer Product Safety Commission".
 

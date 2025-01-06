@@ -8,7 +8,7 @@ Requirements.—(1) Before an excess UH–1 Huey helicopter or AH–1 Cobra heli
 
 (b)
 
-Exception.—Subsection (a) does not apply with respect to salvage helicopters provided tothe foreign country solely as a source for spare parts.
+Exception.—Subsection (a) does not apply with respect to salvage helicopters provided to the foreign country solely as a source for spare parts.
 
 (Added Pub. L. 105–261, div. A, title XII, §1234(a), Oct. 17, 1998, 112 Stat. 2156.)
 

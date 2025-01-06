@@ -22,7 +22,7 @@ Conditions of Service.—An agreement under subsection (a) shall specify the con
 
 (c)
 
-Authority for Retention on Active Duty During War or National Emergency.—If the period of service on active duty of a member under an agreement under subsection (a) expiresduring a war or during a national emergency declared by Congress or the President, the member concerned may be kept on active duty, without the consent of the member, as otherwise prescribed by law.
+Authority for Retention on Active Duty During War or National Emergency.—If the period of service on active duty of a member under an agreement under subsection (a) expires during a war or during a national emergency declared by Congress or the President, the member concerned may be kept on active duty, without the consent of the member, as otherwise prescribed by law.
 
 (Added Pub. L. 118–31, div. A, title XVII, §1715, Dec. 22, 2023, 137 Stat. 628.)
 

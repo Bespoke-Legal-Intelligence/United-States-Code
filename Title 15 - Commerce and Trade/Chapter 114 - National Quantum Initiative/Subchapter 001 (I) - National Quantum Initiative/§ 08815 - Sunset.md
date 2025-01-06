@@ -8,7 +8,7 @@ Except as provided in subsection (b), the authority to carry out sections 8811, 
 
 The President may continue the activities under such sections if the President determines that such activities are necessary to meet national economic or national security needs.
 
-(Pub. L. 115–368, title I, §106, formerly §105, Dec. 21, 2018, 132 Stat. 5097; renumbered §106 and amended Pub. L. 117–81, div. F, title LXVI, §6606(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2442, 2443.)
+(Pub. L. 115–368, title I, §106, formerly §105, Dec. 21, 2018, 132 Stat. 5097; renumbered §106 andamended Pub. L. 117–81, div. F, title LXVI, §6606(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2442, 2443.)
 
 #### <b>Editorial Notes</b>
 

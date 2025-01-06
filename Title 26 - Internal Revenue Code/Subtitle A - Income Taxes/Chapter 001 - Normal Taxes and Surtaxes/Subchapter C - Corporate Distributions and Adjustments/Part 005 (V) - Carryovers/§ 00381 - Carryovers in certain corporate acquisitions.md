@@ -84,7 +84,7 @@ The items referred to in subsection (a) are:
 
 #### (9) Amortization of bond discount or premium
 
-&emsp;If the acquiring corporation assumes liability for bonds of the distributor or transferor corporation issued at a discount or premium, the acquiring corporation shall be treated as the distributor or transferor corporation after the date of distribution or transfer for purposes of determining the amount of amortization allowable or includible with respect to such discount or premium.
+&emsp;If the acquiring corporation assumes liability for bonds of the distributor or transferor corporation issued at a discount or premium, the acquiring corporation shall be treated asthe distributor or transferor corporation after the date of distribution or transfer for purposes of determining the amount of amortization allowable or includible with respect to such discount or premium.
 
 #### (10) Treatment of certain mining development and exploration expenses of distributor or transferor corporation
 
@@ -166,7 +166,7 @@ Section 172(b)(2)(B), referred to in subsec. (c)(1)(C)(v), (vi), was amended by 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(16). Pub. L. 115–141, in concluding provisions, struck out "A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred onor after the effective date of the provisions of this subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation." before "This paragraph".
+<b>2018</b>—Subsec. (c)(16). Pub. L. 115–141, in concluding provisions, struck out "A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred on or after the effective date of the provisions of this subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation." before "This paragraph".
 
 <b>2017</b>—Subsec. (c)(20). Pub. L. 115–97, §13301(b)(1), added par. (20).
 
@@ -190,7 +190,7 @@ Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars.
 
 <b>1986</b>—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: "For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction."
 
-Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: "If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts)."
+Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: "If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income suchamounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts)."
 
 Subsec. (c)(25), (26). Pub. L. 99–514, §231(d)(3)(F), redesignated par. (26) as (25). Former par. (25), relating to credit under section 30, was struck out.
 
@@ -360,7 +360,7 @@ Pub. L. 92–178, title VI, §601(f), Dec. 10, 1971, 85 Stat. 560, provided that
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 504(c)(2) of Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d)(1) of Pub. L. 91–172, set out as a note under section 243 of this title.
+Amendment by section 504(c)(2) of Pub. L. 91–172 applicable with respect to exploration expenditures paidor incurred after Dec. 31, 1969, see section 504(d)(1) of Pub. L. 91–172, set out as a note under section 243 of this title.
 
 Amendment by section 512(c) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
@@ -410,7 +410,7 @@ Filing of Statement.—If—
 
 &emsp;"(1) the amount of any tax required to be paid for any taxable year ending on or before the date of the enactment of this Act \[June 15, 1955\] is increased by reason of the enactment of this Act \[amending this section and repealing sections 452 and 462\], and
 
-&emsp;"(2) the last date prescribed for payment of such tax (or any installment thereof) is before December15, 1955, then the taxpayer shall, on or before December 15, 1955, file a statement which shows the increase in the amount of such tax required to be paid by reason of the enactment of this Act.
+&emsp;"(2) the last date prescribed for payment of such tax (or any installment thereof) is before December 15, 1955, then the taxpayer shall, on or before December 15, 1955, file a statement which shows the increase in the amount of such tax required to be paid by reason of the enactment of this Act.
 
 "(b)
 

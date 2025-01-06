@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 107–347, §210(h)(2)(A)(iv), which directed amendment of 
 
 Limitation on Amount" and text "The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $375,000,000." for the heading "
 
-Limitations" andall that followed through "$750,000,000.", was executed by making the substitution for "
+Limitations" and all that followed through "$750,000,000.", was executed by making the substitution for "
 
 Limitation on Amount" in the heading and "The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $750,000,000." in text to reflect the probable intent of Congress and the amendment by Pub. L. 107–314, §825(b)(2)(A)(iv)(I). See below.
 

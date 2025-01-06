@@ -1,6 +1,6 @@
 ### §6061. School prayer
 
-No funds authorized to be appropriated under this chapter may be used by any State or localeducational agency to adopt policies that prevent voluntary prayer and meditation in public schools.
+No funds authorized to be appropriated under this chapter may be used by any State or local educational agency to adopt policies that prevent voluntary prayer and meditation in public schools.
 
 (Pub. L. 103–227, title X, §1011, Mar. 31, 1994, 108 Stat. 265.)
 

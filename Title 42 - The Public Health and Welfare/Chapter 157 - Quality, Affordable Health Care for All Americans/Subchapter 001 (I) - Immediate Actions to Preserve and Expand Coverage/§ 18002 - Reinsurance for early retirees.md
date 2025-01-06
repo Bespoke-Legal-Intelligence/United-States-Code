@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) is—
 
-&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including without limitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
+&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including withoutlimitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a multiemployer plan (as defined in section 1002(37) of title 29); and
 
@@ -60,7 +60,7 @@
 
 #### (B) Basis for claims
 
-&emsp;&emsp;Claims submitted under subparagraph (A) shall be based on the actual amount expended by the participating employment-based plan involved within the plan year for the health benefits provided to an early retiree or the spouse, surviving spouse, or dependent of such retiree. In determining the amount of a claim for purposes of this subsection, the participating employment-based plan shall take into account any negotiated price concessions (such as discounts, direct or indirect subsidies, rebates, and direct orindirect remunerations) obtained by such plan with respect to such health benefit. For purposes of determining the amount of any such claim, the costs paid by the early retiree or the retiree's spouse, surviving spouse, or dependent in the form of deductibles, co-payments, or co-insurance shall be included in the amounts paid by the participating employment-based plan.
+&emsp;&emsp;Claims submitted under subparagraph (A) shall be based on the actual amount expended by the participating employment-based plan involved within the plan year for the health benefits provided to an early retiree or the spouse, surviving spouse, or dependent of such retiree. In determining the amount of a claim for purposes of this subsection, the participating employment-based plan shall take into account any negotiated price concessions (such as discounts, direct or indirect subsidies, rebates, and direct or indirect remunerations) obtained by such plan with respect to such health benefit. For purposes of determining the amount of any such claim, the costs paid by the early retiree or the retiree's spouse, surviving spouse, or dependent in the form of deductibles, co-payments, or co-insurance shall be included in the amounts paid by the participating employment-based plan.
 
 #### (2) Program payments
 

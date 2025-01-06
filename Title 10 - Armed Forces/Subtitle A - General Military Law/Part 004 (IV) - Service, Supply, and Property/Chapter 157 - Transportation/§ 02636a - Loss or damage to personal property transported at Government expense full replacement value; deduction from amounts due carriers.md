@@ -2,11 +2,11 @@
 
 (a)
 
-Procurement of Coverage.—The Secretary of Defense shall include in a contract for the transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
+Procurement of Coverage.—The Secretary of Defense shall include in a contract forthe transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
 
 (b)
 
-Deduction Upon Failure of Carrier To Settle.—In the case of a loss or damage of baggage or household effects transported under a contract with a carrier that includes a clause described in subsection (a), the amount equal to the full replacement value for the baggage orhousehold effects shall be deducted from the amount owed by the United States to the carrier under the contract upon a failure of the carrier to settle a claim for such loss or total damage within a reasonable time. The amount so deducted shall be remitted to the claimant, notwithstanding section 2636 of this title.
+Deduction Upon Failure of Carrier To Settle.—In the case of a loss or damage of baggage or household effects transported under a contract with a carrier that includes a clause described in subsection (a), the amount equal to the full replacement value for the baggage or household effects shall be deducted from the amount owed by the United States to the carrier under the contract upon a failure of the carrier to settle a claim for such loss or total damage within a reasonable time. The amount so deducted shall be remitted to the claimant, notwithstanding section 2636 of this title.
 
 (c)
 

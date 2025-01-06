@@ -60,7 +60,7 @@ Pub. L. 112–266, §3, Jan. 14, 2013, 126 Stat. 2437, provided that:
 
 "(a)
 
-Labeling Requirement.—Beginning 180 days after the date of the enactment of this Act \[Jan. 14, 2013\], the gypsum board labeling provisions of standard ASTM C1264–11 of ASTM International, as in effect on the day before the date of the enactment of this Act, shall be treated as a rule promulgated by the Consumer Product Safety Commission under section 14(c) of the Consumer Product Safety Act (15 U.S.C. 2063(c)).
+Labeling Requirement.—Beginning 180 days after the date of the enactment of this Act \[Jan. 14,2013\], the gypsum board labeling provisions of standard ASTM C1264–11 of ASTM International, as in effect on the day before the date of the enactment of this Act, shall be treated as a rule promulgated by the Consumer Product Safety Commission under section 14(c) of the Consumer Product Safety Act (15 U.S.C. 2063(c)).
 
 "(b)
 

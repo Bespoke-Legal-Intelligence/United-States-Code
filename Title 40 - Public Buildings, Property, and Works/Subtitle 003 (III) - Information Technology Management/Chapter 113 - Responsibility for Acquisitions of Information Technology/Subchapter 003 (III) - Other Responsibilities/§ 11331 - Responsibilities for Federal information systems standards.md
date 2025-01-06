@@ -6,7 +6,7 @@ Standards and Guidelines.—
 
 &emsp;(1)
 
-Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant toparagraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
+Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
 
 &emsp;(2)
 
@@ -122,7 +122,7 @@ Authority to make mandatory.—Except as provided under paragraph (2), the Secre
 
 Required mandatory standards.—(A) Standards prescribed under subsection (a)(1) shall include information security standards that—
 
-&emsp;&emsp;"(i) provide minimum information security requirements as determined under section 20(b) of theNational Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
+&emsp;&emsp;"(i) provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
 
 &emsp;&emsp;"(ii) are otherwise necessary to improve the security of Federal information and information systems.
 

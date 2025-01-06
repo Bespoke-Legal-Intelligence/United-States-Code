@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than 10 years, or both.
 
 (b) In any prosecution brought under this section, if it appears that any such statement required is not on file in the office of the Commissioner of Immigration and Naturalization, the person whose duty it is to file such statement shall be presumed to have failed to file said statement, unless such person or persons shall prove otherwise. No person shall be excused from furnishing the statement, as required by this section, on the ground or for the reason that the statement so required by that person, or the information therein contained, might tend to criminate that person or subject that person to a penalty or forfeiture, but no information contained in the statement or any evidence which is directly or indirectly derived from such information may be used against any person making such statement in any criminal case, except a prosecution for perjury, giving a false statement or otherwise failing to comply with this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 813; Pub. L. 91–452, title II, §226, Oct. 15, 1970, 84 Stat. 930; Pub. L. 99–628, §5(c), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title III, §325, Sept. 30, 1996, 110 Stat. 3009–629.)
+(June 25, 1948, ch. 645, 62 Stat. 813; Pub. L. 91–452, title II, §226, Oct. 15, 1970, 84 Stat. 930; Pub. L. 99–628, §5(c), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title III, §325, Sept. 30, 1996, 110 Stat. 3009–629.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §325(1), in first par. substituted "individual, knowing or in reckless disregard of the fact that the individual is an alien" for"alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for the suppression of the white-slave traffic" and struck out "alien" after "the name of such".
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §325(1), in first par. substituted "individual, knowing or in reckless disregard of the fact that the individual is an alien" for "alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for the suppression of the white-slave traffic" and struck out "alien" after "the name of such".
 
 Pub. L. 104–208, §325(2), in second par. substituted "five business" for "thirty" and struck out "within three years after that individual has entered the United States from any country, party to the said arrangement for the suppression of the white-slave traffic," after "any alien individual".
 

@@ -6,7 +6,7 @@ The following cost-of-living allowances may be granted, when applicable, to an e
 
 &emsp;(2) A transfer allowance for extraordinary, necessary, and reasonable subsistence and other relocation expenses (including unavoidable lease penalties), not otherwise compensated for, incurred by an employee incident to establishing himself at a post of assignment in—
 
-&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in theRepublic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
+&emsp;&emsp;(A) a foreign area (including costs incurred in the United States, its territories or possessions, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements prior to departure for a post of assignment in a foreign area); or
 
 &emsp;&emsp;(B) the United States after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned.
 
@@ -52,7 +52,7 @@ The Individuals with Disabilities Education Act, referred to in par. (4)(A), is 
 
 <b>2007</b>—Par. (4)(A). Pub. L. 109–472, §3(1), inserted "United States" after "nearest" in first sentence.
 
-Par. (4)(B). Pub. L. 109–472, §3(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related toeducational travel expenses of dependents of an employee.
+Par. (4)(B). Pub. L. 109–472, §3(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to educational travel expenses of dependents of an employee.
 
 Par. (4)(D). Pub. L. 109–472, §3(3), added subpar. (D).
 
@@ -70,7 +70,7 @@ Par. (4)(B). Pub. L. 103–236, §176(b), inserted "(or to and from a school out
 
 Par. (2). Pub. L. 102–138, §147(e)(2), in introductory provisions substituted "subsistence and other relocation expenses (including unavoidable lease penalties)" for "expenses", in subpar. (A) inserted "the Commonwealth of the Northern Mariana Islands," after "Puerto Rico," and in subpar. (B) substituted "after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned" for "between assignments to posts in foreign areas".
 
-Par. (4). Pub. L. 102–138, §147(e)(3), in introductory provisions substituted "dependents (or, to the extent education away from post is involved, official assignment to service in such area or areas)" for "dependents", in subpar. (A) substituted "United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act)" for "United States", and in subpar. (B) substituted "postsecondary educational institution education (other than a program of post-baccalaureate education)" for "undergraduate college education" in two places and inserted at end provision defining "educational institution" for purposes of subpar. (B).
+Par. (4). Pub. L. 102–138, §147(e)(3), in introductory provisions substituted "dependents (or, to the extenteducation away from post is involved, official assignment to service in such area or areas)" for "dependents", in subpar. (A) substituted "United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act)" for "United States", and in subpar. (B) substituted "postsecondary educational institution education (other than a program of post-baccalaureate education)" for "undergraduate college education" in two places and inserted at end provision defining "educational institution" for purposes of subpar. (B).
 
 <b>1990</b>—Par. (3). Pub. L. 101–510 inserted at end "Notwithstanding section 1217(d) of the Panama Canal Act of 1979 (22 U.S.C. 3657(d)), for the purposes of this paragraph, the term 'foreign area' includes the Republic of Panama."
 

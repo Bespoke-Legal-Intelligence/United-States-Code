@@ -86,7 +86,7 @@ Subsec. (b)(2). Pub. L. 118–31, §1411(d)(2)(B), substituted "paragraph (1) wh
 
 &emsp;"(B) the most recent Annual Materials and Operations Plan submitted under subsection (a)(2)(B)."
 
-<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual reports toCongress, including materials plans for the operation of the stockpile.
+<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual reports to Congress, including materials plans for the operation of the stockpile.
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232, §1423(1), substituted "February 15" for "January 15" in introductory provisions.
 

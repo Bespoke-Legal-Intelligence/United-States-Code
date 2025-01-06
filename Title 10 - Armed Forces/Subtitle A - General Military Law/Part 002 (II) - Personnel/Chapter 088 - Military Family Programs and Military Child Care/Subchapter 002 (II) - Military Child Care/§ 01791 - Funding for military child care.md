@@ -24,6 +24,34 @@ Provisions similar to those in this subchapter were contained in Pub. L. 101–1
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Child Care Services and Youth Program Services for Dependents: Period of Services for a Member With a Spouse Seeking Employment
+
+Pub. L. 118–159, div. A, title V, §589, Dec. 23, 2024, 138 Stat. 1914, provided that:
+
+"(a)
+
+Period.—The Secretary of a military department may provide a covered member with covered services for a period of at least 180 days.
+
+"(b)
+
+Rule of Construction.—Nothing in this section shall be construed to—
+
+&emsp;"(1) entitle a covered member to covered services; or
+
+&emsp;"(2) give priority to a covered member for purposes of a determination regarding who shall receive covered services.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered member' means a member of the Armed Forces—
+
+&emsp;&emsp;"(A) who has a dependent child; and
+
+&emsp;&emsp;"(B) whose spouse is seeking employment.
+
+&emsp;"(2) The term 'covered services' means child care services or youth program services provided or paid for by the Secretary of Defense under subchapter II of chapter 88 of title 10, United States Code."
+
 #### Public Reporting on Certain Military Child Care Programs
 
 Pub. L. 117–263, div. A, title V, §579C, Dec. 23, 2022, 136 Stat. 2608, provided that: "Not later than September 30, 2023, and each calendar quarter thereafter, the Secretary of Defense shall post, on a publicly accessible website of the Department of Defense, information regarding the Military Child Care in Your Neighborhood and Military Child Care in Your Neighborhood-Plus programs, disaggregated by State, ZIP code, and Armed Force. Such information shall include whether each such provider is nationally accredited or rated by the Quality Rating and Improvement System of the State."
@@ -88,7 +116,7 @@ Briefing required.—Not later than March 1, 2022, each Secretary of a military 
 
 Required elements of briefing.—In the briefing required by paragraph (1), the Secretary of a military department shall provide the following:
 
-&emsp;&emsp;"(A) A list of any child development centers under the jurisdiction of that Secretary considered to be in poor or failing condition. In the case of each child development center included on this list, the Secretary shall provide a remediation plan for the child development center, which shall include the following elements:
+&emsp;&emsp;"(A) A list of any child development centers under the jurisdiction of that Secretary considered to be in poor or failing condition. In the case of each child development center included on this list,the Secretary shall provide a remediation plan for the child development center, which shall include the following elements:
 
 &emsp;&emsp;&emsp;"(i) An estimate of the funding required to complete the remediation plan.
 
@@ -158,7 +186,7 @@ Elements.—The report required by subsection (b) shall include the following:
 
 &emsp;&emsp;"(D) a description and assessment of the actions, if any, being taken to furnish such child care at the installations identified pursuant to subparagraph (A); and
 
-&emsp;&emsp;"(E) such recommendations for legislative or administrative action the Secretary determines appropriate to make such child care available at theinstallations identified pursuant to subparagraph (A), or at any other military installation."
+&emsp;&emsp;"(E) such recommendations for legislative or administrative action the Secretary determines appropriate to make such child care available at the installations identified pursuant to subparagraph (A), or at any other military installation."
 
 #### Pilot Program To Provide Financial Assistance to Members of the Armed Forces for In-Home Child Care
 

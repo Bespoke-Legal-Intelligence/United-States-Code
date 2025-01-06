@@ -28,7 +28,7 @@
 
 #### (3) Additional authority
 
-&emsp;Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J <sup>1</sup> of the Foreign Assistance Act of 1961 (as added by Public Law 110–161) \[22 U.S.C. 2378d\], and any provision of an Act making appropriations for the Department of State, foreign operations, and related programs that restricts assistance to the government of any country whose duly elected head of government is deposed by military coup or decree, and except as otherwise provided in this subchapter, amounts authorized to be made available to carry out paragraph (2) for fiscal years 2010 and 2011 are authorized to be made available notwithstanding any other provision of law.
+&emsp;Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J <sup>1</sup> of the Foreign Assistance Act of 1961 (as added by Public Law 110–161) \[22 U.S.C. 2378d\], and any provision of an Act making appropriations for the Department of State, foreign operations, and related programs that restricts assistance to the government of any country whose duly elected head of government is deposed by military coup or decree, and except as otherwise provided in this subchapter,amounts authorized to be made available to carry out paragraph (2) for fiscal years 2010 and 2011 are authorized to be made available notwithstanding any other provision of law.
 
 #### (4) Definitions
 

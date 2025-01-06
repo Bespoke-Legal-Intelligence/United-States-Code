@@ -176,7 +176,7 @@ Subsec. (i). Pub. L. 110–53, §721(c), added subsec. (i).
 
 #### Delegation of Functions
 
-For assignment of functions of President under subsec. (g) of this section, see section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.
+For assignment of functions of President under subsec. (g) of this section, see section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R.48633, set out as a note under section 301 of Title 3, The President.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

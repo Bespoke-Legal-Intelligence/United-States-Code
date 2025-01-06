@@ -52,7 +52,7 @@ The Secretary shall—
 
 &emsp;(1) organize members of the Corps into units for rapid deployment by the Secretary to respond to urgent or emergency public health care needs;
 
-&emsp;(2) establish appropriate procedures for the command and control of units or individual members of the Corps that are deployed at the direction of the President or the Secretary in response to an urgent or emergency publichealth care need of national, State or local significance;
+&emsp;(2) establish appropriate procedures for the command and control of units or individual members of the Corps that are deployed at the direction of the President or the Secretary in response to an urgent or emergency public health care need of national, State or local significance;
 
 &emsp;(3) ensure that members of the Corps are trained, equipped and otherwise prepared to fulfill their public health and emergency response roles; and
 

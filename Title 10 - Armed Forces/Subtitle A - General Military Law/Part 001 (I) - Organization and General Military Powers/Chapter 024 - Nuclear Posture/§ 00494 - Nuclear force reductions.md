@@ -122,7 +122,7 @@ Prevention of Asymmetry in Reductions.—
 
 &emsp;(1)
 
-Certification.—During any year in which the President recommends to reduce thenumber of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
+Certification.—During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
 
 &emsp;(2)
 
@@ -260,7 +260,7 @@ Implementation.—
 
 &emsp;"(2)
 
-Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
+Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associatedwith the implementation of the New START Treaty for the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
 
 &emsp;"(3)
 
@@ -270,7 +270,7 @@ Fiscal year specified.—A fiscal year specified in this paragraph is each fisca
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'defense budget materials' has the meaning given that term in section 231(f) of title 10, United States Code.
+&emsp;"(1) The term 'defense budget materials' has the meaning given that term in section 231(f) of title 10, United States Code \[now 10 U.S.C. 231(h)\].
 
 &emsp;"(2) The term 'New START Treaty' means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011."
 

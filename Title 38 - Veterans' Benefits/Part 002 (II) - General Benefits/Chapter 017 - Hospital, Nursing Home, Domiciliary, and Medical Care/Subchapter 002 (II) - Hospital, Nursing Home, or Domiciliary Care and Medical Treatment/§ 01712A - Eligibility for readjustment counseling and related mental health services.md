@@ -88,7 +88,7 @@
 
 (c) Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, air, or space service but who is not otherwise eligible for such counseling, the Secretary shall—
 
-&emsp;(1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
+&emsp;(1) provide referral services to assist such individual, to the maximum extent practicable,in obtaining mental health care and services from sources outside the Department; and
 
 &emsp;(2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, air, or space service, and to the Department, for review of such individual's discharge or release from such service.
 
@@ -150,7 +150,7 @@
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (a)(1)(C)(vi), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to insubsec. (a)(1)(C)(vi), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Amendments
 
@@ -490,7 +490,7 @@ Definitions.—In this section:
 
 #### Expansion of Rural Access Network for Growth Enhancement
 
-Pub. L. 117–21, §§2, 4, June 30, 2021, 135 Stat. 292, 293, provided that:
+Pub. L. 117–21, §§2, 4, June 30, 2021, 135 Stat. 292, 293, as amended by Pub. L. 118–83, div. B, title III, §303, Sept. 26, 2024, 138 Stat. 1539, provided that:
 
 #### "SEC. 2. EXPANSION OF RURAL ACCESS NETWORK FOR GROWTH ENHANCEMENT PROGRAM OF THE DEPARTMENT OF VETERANS AFFAIRS.
 
@@ -512,7 +512,7 @@ Timeline.—The Secretary shall establish the centers under subsection (a) durin
 
 "(d)
 
-Funding.—There is authorized to be appropriated $1,200,000 for each of fiscal years 2022 through 2024 to carry out this section.
+Funding.—There is authorized to be appropriated $1,200,000 for each of fiscal years 2022 through 2025 to carry out this section.
 
 #### "SEC. 4. DEFINITIONS.
 
@@ -546,7 +546,7 @@ Qualified veterans.—For purposes of this subsection, a qualified veteran is a 
 
 &emsp;"(B)(i) receives from the Department regular readjustment counseling and related mental health services; or
 
-&emsp;"(ii) is in need of regular readjustment counseling and related mental health services from the Department, and but for lack of child care services, would receive such counseling and services from the Department.
+&emsp;"(ii) is in need of regular readjustment counseling and related mental health services from the Department, and but for lack of child care services, wouldreceive such counseling and services from the Department.
 
 "(4)
 
@@ -598,7 +598,7 @@ Vet center defined.—In this subsection, the term 'Vet Center' has the meaning 
 
 #### Pilot Program To Provide Veterans Access to Complementary and Integrative Health Programs Through Animal Therapy, Agritherapy, Sports and Recreation Therapy, Art Therapy, and Posttraumatic Growth Programs
 
-Pub. L. 116–171, title II, §203, Oct. 17, 2020, 134 Stat. 796, provided that:
+Pub. L. 116–171, title II, §203, Oct. 17, 2020, 134 Stat. 796, as amended by Pub. L. 118–83, div. B, title III, §304, Sept. 26, 2024, 138 Stat. 1539, provided that:
 
 "(a)
 
@@ -634,7 +634,7 @@ Duration.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall carry out the pilot program under this section for a three-year period beginning on the commencement of the pilot program.
+In general.—The Secretary shall carry out the pilot program under this section until September 30, 2025.
 
 &emsp;"(2)
 
@@ -687,6 +687,8 @@ Elements.—The report required by subparagraph (A) shall include the following:
 &emsp;"(2)
 
 Final report.—Not later than 90 days after the termination of the pilot program under this section, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a final report on the pilot program."
+
+\[Pub. L. 118–83, div. B, title III, §304, which directed amendment of section 203(d)(1) of the "Scott Hannon Veterans Mental Health Care Improvement Act of 2019" by substituting "until September 30, 2025" for "for a three-year period beginning on the commencement of the pilot program", was executed by making the substitution in section 203(d)(1) of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019, set out above, to reflect the probable intent of Congress.\]
 
 #### Establishment by Department of Veterans Affairs and Department of Defense of a Clinical Provider Treatment Toolkit and Accompanying Training Materials for Comorbidities
 
@@ -790,7 +792,7 @@ Model of Initiative.—The initiative under subsection (a) shall be modeled on t
 
 "(c)
 
-Methods.—The initiative under subsection (a) shall include brain structure and function measurements, such as functional magnetic resonance imaging and electroencephalogram, and shall coordinate with additional biological methods of analysis utilized in the Million Veterans Program of the Department of Veterans Affairs.
+Methods.—The initiative under subsection (a) shall include brain structure and function measurements, such as functional magnetic resonance imaging and electroencephalogram, and shall coordinate withadditional biological methods of analysis utilized in the Million Veterans Program of the Department of Veterans Affairs.
 
 "(d)
 
@@ -854,7 +856,7 @@ De-identified data defined.—In this subsection, the term 'de-identified data' 
 
 &emsp;&emsp;"(A) alters, anonymizes, or aggregates the data so that there is a reasonable basis for expecting that the data could not be linked as a practical matter to a specific individual;
 
-&emsp;&emsp;"(B) publicly commits to refrain from attempting to re-identify the data with a specific individual,and adopts controls to prevent such identification; and
+&emsp;&emsp;"(B) publicly commits to refrain from attempting to re-identify the data with a specific individual, and adopts controls to prevent such identification; and
 
 &emsp;&emsp;"(C) causes the data to be covered by a contractual or other legally enforceable prohibition on each entity to which the Department discloses the data from attempting to use the data to identify a specific individual and requires the same of all onward disclosures.
 
@@ -918,7 +920,7 @@ Pub. L. 114–2, §3, Feb. 12, 2015, 129 Stat. 31, provided that:
 
 "(a)
 
-In General.—Using funds made available to the Secretary of Veterans Affairs to publish the Internet websites of the Department of Veterans Affairs, the Secretary shall survey the existing Internet websites and information resources of the Department to publish an Internet website that serves as a centralized source to provide veterans with information regarding all of the mental health care services provided by the Secretary.
+In General.—Using funds made available to the Secretary of Veterans Affairs to publish the Internet websites of the Department of Veterans Affairs, the Secretary shall survey the existing Internet websites and information resources of the Department to publish an Internet website that serves as a centralized source to provide veterans with information regardingall of the mental health care services provided by the Secretary.
 
 "(b)
 
@@ -1034,7 +1036,7 @@ Participation.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter into a memorandum of understanding providing for members of the Armed Forces described in subsection (b) to volunteer or be considered for employment as peer counselors under the following:
+In general.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter intoa memorandum of understanding providing for members of the Armed Forces described in subsection (b) to volunteer or be considered for employment as peer counselors under the following:
 
 &emsp;&emsp;"(A) The peer support counseling program carried out by the Secretary of Veterans Affairs under subsection (j) of section 1720F of title 38, United States Code, as part of the comprehensive program for suicide prevention among veterans under subsection (a) of such section.
 
@@ -1190,7 +1192,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service
 
-Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept.26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, §107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §108, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5106, Oct. 1, 2020, 134 Stat. 748, provided that:
+Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, §107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §108, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, §5106, Oct. 1, 2020, 134 Stat. 748, provided that:
 
 "(a)
 
@@ -1408,7 +1410,7 @@ Training of clinicians.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall conduct a training program for clinicians of community mental health centers, Indian Health Service facilities, or other entities participating in the pilot program under subsection (b) to ensure that such clinicianscan provide the services described in paragraphs (3) and (4) of subsection (a) in a manner that accounts for factors that are unique to the experiences of veterans who served on active duty in Operation Iraqi Freedom or Operation Enduring Freedom (including their combat and military training experiences).
+In general.—The Secretary shall conduct a training program for clinicians of community mental health centers, Indian Health Service facilities, or other entities participating in the pilot program under subsection (b) to ensure that such clinicians can provide the services described in paragraphs (3) and (4) of subsection (a) in a manner that accounts for factors that are unique to the experiences of veterans who served on active duty in Operation Iraqi Freedom or Operation Enduring Freedom (including their combat and military training experiences).
 
 &emsp;&emsp;"(B)
 
@@ -1548,7 +1550,7 @@ Location of Pilot Program.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall provide assistance under the pilot program in cooperation with10 centers described in subsection (a) designated by the Secretary for purposes of the pilot program.
+In general.—The Secretary shall provide assistance under the pilot program in cooperation with 10 centers described in subsection (a) designated by the Secretary for purposes of the pilot program.
 
 &emsp;"(2)
 
@@ -1690,7 +1692,7 @@ Construction With Current Outreach Program.—The veterans employed under subsec
 
 "(c)
 
-Assignment to Vet Centers.—The Secretary may assign any veteran employed under subsection (a)to any center for the provision of readjustment counseling and related mental health services under section 1712A of title 38, United States Code, that the Secretary considers appropriate in order to meet the purpose described in that subsection.
+Assignment to Vet Centers.—The Secretary may assign any veteran employed under subsection (a) to any center for the provision of readjustment counseling and related mental health services under section 1712A of title 38, United States Code, that the Secretary considers appropriate in order to meet the purpose described in that subsection.
 
 "(d)
 
@@ -1830,7 +1832,7 @@ Contract Counseling Services.—(1) Subject to paragraphs (2) and (4), a mental 
 
 "(3) The Secretary shall reimburse mental health professionals for the reasonable cost (as determined by the Secretary) of furnishing counseling services under paragraph (1). In the event of the disapproval of a treatment plan of a person submitted by a mental health professional under paragraph (1)(B)(i), the Secretary shall reimburse the mental health professional for the reasonable cost (as so determined) of furnishing counseling services to the person for the period beginning on the date of the commencement of such services and ending on the date of the disapproval.
 
-"(4) The Secretary may authorize the furnishing of counseling in an individual case for a period shorter than the 90-day period specified in subparagraph (B) or (C) of paragraph (1) and, upon further consideration, extend the shorter period to the full 90 days.
+"(4) The Secretary may authorize the furnishing of counseling in an individual case for a period shorter than the 90-day period specified in subparagraph (B) or\(C) of paragraph (1) and, upon further consideration, extend the shorter period to the full 90 days.
 
 "(5)(A) For the purposes of this subsection, the term 'treatment plan', with respect to a person entitled to counseling services under the program, must include—
 

@@ -210,7 +210,7 @@ In this section:
 
 #### (4) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Secretary to carry out the program$3,000,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Secretary to carry out the program $3,000,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
 
 #### (d) Reporting requirements
 
@@ -476,7 +476,7 @@ Not later than 1 year after November 15, 2021, and annually thereafter, the Secr
 
 #### (6) Effect on Mercury-Containing and Rechargeable Battery Management Act
 
-&emsp;Nothing in this subsection, or any regulation, guideline, framework, or policy adopted or promulgated pursuant to this subsection, shall modify or otherwise affect the provisions of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14301 et seq.).
+&emsp;Nothing in this subsection, or any regulation, guideline, framework, or policy adopted or promulgated pursuant to this subsection,shall modify or otherwise affect the provisions of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14301 et seq.).
 
 (Pub. L. 117–58, div. D, title II, §40207, Nov. 15, 2021, 135 Stat. 963.)
 

@@ -34,7 +34,7 @@ The annual rate of basic pay for the Participant and Plan Sponsor Advocate shall
 
 #### (1) In general
 
-&emsp;Not later than December 31 of each calendar year, the Participant and Plan Sponsor Advocate shall report to the Health, Education, Labor, and Pensions Committee of the Senate, the Committee on Finance of the Senate, theCommittee on Education and the Workforce of the House of Representatives, and the Committee on Ways and Means of the House of Representatives on the activities of the Office of the Participant and Plan Sponsor Advocate during the fiscal year ending during such calendar year.
+&emsp;Not later than December 31 of each calendar year, the Participant and Plan Sponsor Advocate shall report to the Health, Education, Labor, and Pensions Committee of the Senate, the Committee on Finance of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Ways and Means of the House of Representatives on the activities of the Office of the Participant and Plan Sponsor Advocate during the fiscal year ending during such calendar year.
 
 #### (2) Content
 

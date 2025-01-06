@@ -70,7 +70,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 Issues To Be Addressed.—At a minimum, the expedited process established pursuant to subsection (a) shall—
 
-&emsp;"(1) include a mechanism pursuant to which contractors, or other sources of supply, may provide toappropriate Department of Defense officials information that identifies—
+&emsp;"(1) include a mechanism pursuant to which contractors, or other sources of supply, may provide to appropriate Department of Defense officials information that identifies—
 
 &emsp;&emsp;"(A) obsolete electronic parts that are included in the specifications for an acquisition program of the Department of Defense; and
 

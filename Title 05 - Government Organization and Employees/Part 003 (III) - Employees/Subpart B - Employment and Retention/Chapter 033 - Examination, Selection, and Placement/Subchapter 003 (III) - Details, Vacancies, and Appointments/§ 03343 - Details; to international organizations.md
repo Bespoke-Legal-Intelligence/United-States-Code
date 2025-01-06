@@ -16,7 +16,7 @@
 
 &emsp;(2) with agreement by the international organization to reimburse the United States for all or part of the pay, travel expenses, and allowances payable during the detail, and the reimbursement shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
 
-(e) An employee detailed under subsection (b) of this section may be paid or reimbursed by an international organization for allowances or expenses incurred in the performance of duties required by the detail, without regard to section 209 of title 18.
+(e) An employee detailed under subsection (b) of this section may be paid or reimbursed by aninternational organization for allowances or expenses incurred in the performance of duties required by the detail, without regard to section 209 of title 18.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 91–175, pt. V, §502(a), Dec. 30, 1969, 83 Stat. 825.)
 

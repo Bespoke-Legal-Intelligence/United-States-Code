@@ -12,7 +12,7 @@ Except as provided in subsection (d), the President shall impose the sanctions d
 
 #### (1) Blocking of property
 
-&emsp;The President shall block, in accordance with the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), all transactions in all property and interests in property of any person subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+&emsp;The President shall block, in accordance with the International Emergency EconomicPowers Act (50 U.S.C. 1701 et seq.), all transactions in all property and interests in property of any person subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (2) Exclusion from United States
 

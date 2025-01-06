@@ -384,7 +384,7 @@ Vessel traffic service area.—The term "vessel traffic service area" means an a
 
 &emsp;(4)
 
-Vessel traffic service center.—The term "vessel traffic service center" means a center for the provision of vessel traffic services in a vessel traffic service area.
+Vessel traffic service center.—The term "vessel traffic service center" means acenter for the provision of vessel traffic services in a vessel traffic service area.
 
 &emsp;(5)
 

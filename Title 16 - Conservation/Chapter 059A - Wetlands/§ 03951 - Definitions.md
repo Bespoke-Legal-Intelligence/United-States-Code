@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) "Administrator" means the Administrator of the Environmental Protection Agency;
 
-&emsp;(3) "development activities" means any activity, including the discharge of dredged or fill material, which results directly in a more than de minimus <sup>1</sup> change in the hydrologic regime, bottom contour, or the type, distribution or diversity of hydrophytic vegetation, orwhich impairs the flow, reach, or circulation of surface water within wetlands or other waters;
+&emsp;(3) "development activities" means any activity, including the discharge of dredged or fill material, which results directly in a more than de minimus <sup>1</sup> change in the hydrologic regime, bottom contour, or the type, distribution or diversity of hydrophytic vegetation, or which impairs the flow, reach, or circulation of surface water within wetlands or other waters;
 
 &emsp;(4) "State" means the State of Louisiana;
 

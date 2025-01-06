@@ -44,7 +44,7 @@
 
 (e) Employees covered by this section include an employee who has been reassigned away from the employee's home of record pursuant to a mandatory mobility agreement executed as a condition of employment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104Stat. 1661; Pub. L. 105–277, div. A, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210; Pub. L. 110–181, div. A, title XI, §1103(a), Jan. 28, 2008, 122 Stat. 346.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210; Pub. L. 110–181, div. A, title XI, §1103(a), Jan. 28, 2008, 122 Stat. 346.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 101–510, §1206(d)(2), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XI, §1103(b), Jan. 28, 2008, 122 Stat. 346, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Jan. 28, 2008\]."
+Pub. L. 110–181, div. A, title XI, §1103(b), Jan. 28, 2008, 122 Stat. 346, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Jan. 28, 2008\]."
 
 #### Travel to United States for Immediate Family of Employees Serving Abroad
 

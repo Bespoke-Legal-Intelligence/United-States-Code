@@ -72,7 +72,7 @@
 
 #### (b) Exemption for certain limitations
 
-Subject to the limitations in subsection (a), purchases and commitments to purchase and sales under subsection (a) may be made without regard to the limitations of existing law (other than section 1341 of title 31), for such quantities, and on such terms and conditions, including advance payments, and for such periods, but not extending beyond a date that is not more than 10 years from the date on which such purchase, purchase commitment, or sale was initially made, as the President deems necessary, except that purchases or commitments to purchase involving higher than established ceiling prices (or if no such established ceiling prices exist, currently prevailing market prices) or anticipated loss on resale shall not be made, unless it is determined that supply of the materials could not be effectively increased at lower prices or onterms more favorable to the Government, or that such purchases are necessary to assure the availability to the United States of overseas supplies.
+Subject to the limitations in subsection (a), purchases and commitments to purchase and sales under subsection (a) may be made without regard to the limitations of existing law (other than section 1341 of title 31), for such quantities, and on such terms and conditions, including advance payments, and for such periods, but not extending beyond a date that is not more than 10 years from the date on which such purchase, purchase commitment, or sale was initially made, as the President deems necessary, except that purchases or commitments to purchase involving higher than established ceiling prices (or if no such established ceiling prices exist, currently prevailing market prices) or anticipated loss on resale shall not be made, unless it is determined that supply of the materials could not be effectively increased at lower prices or on terms more favorable to the Government, or that such purchases are necessary to assure the availability to the United States of overseas supplies.
 
 #### (c) Presidential findings
 
@@ -148,7 +148,7 @@ Section was formerly classified to section 2093 of the former Appendix to this t
 
 #### Prior Provisions
 
-A prior section 303 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 801; July 31, 1951, ch. 275, title I, §103(a), 65Stat. 133; June 30, 1953, ch. 171, §§5, 6, 67 Stat. 130; Aug. 9, 1955, ch. 655, §3, 69 Stat. 580; June 29, 1956, ch. 474, §2, 70 Stat. 408; Pub. L. 88–343, §2, June 30, 1964, 78 Stat. 235; Pub. L. 92–325, §1, June 30, 1972, 86 Stat. 390; Pub. L. 94–273, §2(29), Apr. 21, 1976, 90 Stat. 376; Pub. L. 96–41, §3(c), July 30, 1979, 93 Stat. 325; Pub. L. 96–294, title I, §104(d), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(c), 4(c), Apr. 17, 1984, 98 Stat. 150, 151; Pub. L. 102–558, title I, §121(c), (d), Oct. 28, 1992, 106 Stat. 4204, 4206; Pub. L. 107–47, §4(3), Oct. 5, 2001, 115 Stat. 260, related to purchase of raw materials and installation of equipment, prior to the general amendment of title III of this Act by Pub. L. 111–67.
+A prior section 303 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 801; July 31, 1951, ch. 275, title I, §103(a), 65 Stat. 133; June 30, 1953, ch. 171, §§5, 6, 67 Stat. 130; Aug. 9, 1955, ch. 655, §3, 69 Stat. 580; June 29, 1956, ch. 474, §2, 70 Stat. 408; Pub. L. 88–343, §2, June 30, 1964, 78 Stat. 235; Pub. L. 92–325, §1, June 30, 1972, 86 Stat. 390; Pub. L. 94–273, §2(29), Apr. 21, 1976, 90 Stat. 376; Pub. L. 96–41, §3(c), July 30, 1979, 93 Stat. 325; Pub. L. 96–294, title I, §104(d), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(c), 4(c), Apr. 17, 1984, 98 Stat. 150, 151; Pub. L. 102–558, title I, §121(c), (d), Oct. 28, 1992, 106 Stat. 4204, 4206; Pub. L. 107–47, §4(3), Oct. 5, 2001, 115 Stat. 260, related to purchase of raw materials and installation of equipment, prior to the general amendment of title III of this Act by Pub. L. 111–67.
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Pub. L. 113–172, §4(b), Sept. 26, 2014, 128 Stat. 1897, provided that: "Secti
 
 #### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
 
-Requirement described in subsec. (a)(6)(B) of this section not applicable during the 1-year period beginning on Mar. 27, 2020, and requirement described in subsec. (a)(6)(C) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017 of Pub. L. 116–136, set out as a note under section 4532 of this title.
+Requirement described in subsec. (a)(6)(B) of this section not applicable during the 1-year period beginning on Mar. 27, 2020, and requirement described in subsec. (a)(6)(C) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017 ofPub. L. 116–136, set out as a note under section 4532 of this title.
 
 #### Authorization To Take Actions To Correct the Industrial Resource Shortfall for High-Purity Beryllium Metal
 

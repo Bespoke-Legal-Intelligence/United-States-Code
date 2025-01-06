@@ -72,7 +72,7 @@ As part of the Initiative, the Secretary of Agriculture shall support research a
 
 #### (g) Environmental Protection Agency
 
-As part of the Initiative, the Environmental Protection Agency shall support research on how products, processes, and systems of engineering biology will affect or can protect the environment.
+As part of the Initiative, the Environmental Protection Agency shall support research onhow products, processes, and systems of engineering biology will affect or can protect the environment.
 
 #### (h) Department of Health and Human Services
 

@@ -42,13 +42,67 @@ Pub. L. 116–283, §1857(b)(1), renumbered section 2223a of this title as this 
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Electromagnetic Spectrum Demonstration Program
+
+Pub. L. 118–159, div. A, title II, §234, Dec. 23, 2024, 138 Stat. 1839, provided that:
+
+"(a)
+
+In General.—Not later than November 30, 2025, the Chief Information Officer of the Department of Defense, in coordination with the Under Secretary of Defense for Research and Engineering and the Director of Operational Test and Evaluation, shall complete a demonstration program to assess the viability of using wideband adaptive signal processing technology to support simultaneous transmit and receive signals on the same electromagnetic spectrum frequency band that—
+
+&emsp;"(1) does not produce harmful interference;
+
+&emsp;"(2) significantly reduces electromagnetic spectrum guard bands;
+
+&emsp;"(3) maintains signal quality with respect to latency and throughput; and
+
+&emsp;"(4) increases electromagnetic spectrum access within the frequency band.
+
+"(b)
+
+Location.—The demonstration program required by subsection (a) shall be conducted at a test and training range of the Department of Defense.
+
+"(c)
+
+Consultation.—In carrying out the demonstration program required by subsection (a), the Chief Information Officer, the Under Secretary, and the Director shall consult with, at a minimum, the following:
+
+&emsp;"(1) The Joint Staff.
+
+&emsp;"(2) The military departments and their associated research labs.
+
+&emsp;"(3) Other Department of Defense organizations and agencies.
+
+&emsp;"(4) The Federal Communications Commission.
+
+&emsp;"(5) The National Telecommunications and Information Administration.
+
+&emsp;"(6) Other Federal agencies.
+
+&emsp;"(7) Industry and nongovernmental entities.
+
+"(d)
+
+Authority to Enter Into Contracts.—Subject to the availability of appropriations, the Chief Information Officer may enter into such contracts or other agreements as the Chief Information Officer considers appropriate to conduct studies and demonstration projects under the demonstration program required by subsection (a).
+
+"(e)
+
+Briefing on Plans for Program.—Not later than 60 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Chief Information Officer, the Under Secretary, and the Director shall jointly provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the plans to carry out the demonstration program required by subsection (a).
+
+"(f)
+
+Periodic Assessments of Program.—The Chief Information Officer, the Under Secretary, and the Director shall, periodically, assess the demonstration program required by subsection (a) while the program is being carried out.
+
+"(g)
+
+Briefing on Completed Program.—Upon completion of the demonstration program required by subsection (a), the Chief Information Officer, the Under Secretary, and the Director shall jointly provide the congressional defense committees a briefing on their findings with respect to the demonstration program."
+
 #### Policies for Management and Certification of Link 16 Military Tactical Data Link Network
 
 Pub. L. 118–31, div. A, title II, §228, Dec. 22, 2023, 137 Stat. 199, provided that:
 
 "(a)
 
-Policies Required.—The Secretary of Defense shall develop and implement policies to adapt Link 16 system management and certification to align with agile development practices.
+Policies Required.—The Secretary of Defense shall develop and implement policies to adapt Link 16system management and certification to align with agile development practices.
 
 "(b)
 
@@ -142,7 +196,7 @@ International Cooperation Activities.—The Secretary, using existing authoritie
 
 "(c)
 
-Open Radio Access Network Architecture Defined.—In this section, the term 'Open Radio Access Network architecture' means a network architecture that is modular, uses open interfaces, and virtualizes functionality on commodity hardware through software."
+Open Radio Access Network Architecture Defined.—In this section, the term 'Open Radio Access Network architecture' means a network architecturethat is modular, uses open interfaces, and virtualizes functionality on commodity hardware through software."
 
 #### Target Date for Deployment of 5G Wireless Broadband Infrastructure at All Military Installations
 
@@ -376,7 +430,7 @@ Elements.—In carrying out the program under paragraph (1), the Secretary shall
 
 &emsp;&emsp;"(D) verify the efficacy of the physical security measures used at Department locations where system design, fabrication, integration, configuration, storage, test, and documentation of 5G technology occurs;
 
-&emsp;&emsp;"(E) direct the Chief Information Officer to assess, using existing government evaluation models and schema where applicable, 5G core service providers whose services will be used by the Department through the Department's provisional authorization process; and
+&emsp;&emsp;"(E) direct the Chief Information Officer to assess, using existing government evaluation modelsand schema where applicable, 5G core service providers whose services will be used by the Department through the Department's provisional authorization process; and
 
 &emsp;&emsp;"(F) direct the Defense Information Systems Agency and the United States Cyber Command to develop a capability for continuous, independent monitoring of non-commercial, government-transiting packet streams for 5G data on frequencies assigned to the Department to validate the availability, confidentiality, and integrity of the Department's communications systems.
 
@@ -490,7 +544,7 @@ Final report.—Not later than 3 years after the date of the enactment of this A
 
 "(h)
 
-Consumption-based Solution Defined.—In this section, the term 'consumption-based solution' means any combination of software, hardware or equipment, and labor or services that provides a seamless capability that is metered and billed based on actual usage and predetermined pricing per resource unit, and includes the ability to rapidly scale capacity up or down."
+Consumption-based Solution Defined.—In this section, the term 'consumption-based solution' meansany combination of software, hardware or equipment, and labor or services that provides a seamless capability that is metered and billed based on actual usage and predetermined pricing per resource unit, and includes the ability to rapidly scale capacity up or down."
 
 #### Balancing Security and Innovation in Software Development and Acquisition
 
@@ -612,7 +666,7 @@ Demonstration Activities.—
 
 &emsp;"(1)
 
-In general.—In developing the capability required under subsection (a), the Secretary of Defense shall carry out activities to demonstrate digital engineering approaches to automated testing that—
+In general.—In developing the capability required under subsection (a), the Secretary of Defenseshall carry out activities to demonstrate digital engineering approaches to automated testing that—
 
 &emsp;&emsp;"(A) enable continuous software development and delivery;
 
@@ -622,7 +676,7 @@ In general.—In developing the capability required under subsection (a), the Se
 
 &emsp;"(2)
 
-Program selection.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall assess and selectnot fewer than four and not more than ten programs of the Department of Defense to participate in the demonstration activities under paragraph (1), including—
+Program selection.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall assess and select not fewer than four and not more than ten programs of the Department of Defense to participate in the demonstration activities under paragraph (1), including—
 
 &emsp;&emsp;"(A) at least one program participating in the pilot program authorized under section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a note \[now former 10 U.S.C. 4571 note\]);
 
@@ -842,141 +896,11 @@ Development of Strategy.—The official or entity designated under subsection (a
 
 "(c)
 
-Submittal to Congress.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the official or entity designated under subsection (a) shall submit to the congressional defense committees the strategy developed under subsection (b)."
+Submittal to Congress.—Not later than one year after the date of the enactment of this Act \[Dec. 20, 2019\], the official or entity designated under subsection (a) shall submit to the congressional defensecommittees the strategy developed under subsection (b)."
 
 #### Authority for Continuous Integration and Delivery of Software Applications and Upgrades to Embedded Systems
 
-Pub. L. 116–92, div. A, title VIII, §800, Dec. 20, 2019, 133 Stat. 1478, provided that:
-
-"(a)
-
-Software Acquisition and Development Pathways.—The Secretary of Defense shall establish pathways as described under subsection (b) to provide forthe efficient and effective acquisition, development, integration, and timely delivery of secure software. Such a pathway shall include the following:
-
-&emsp;"(1)
-
-Use of proven technologies and solutions.—A pathway established under this section shall provide for the use of proven technologies and solutions to continuously engineer and deliver capabilities in software.
-
-&emsp;"(2)
-
-Use of authority.—In using the authority under this section, the Secretary shall consider how such use will—
-
-&emsp;&emsp;"(A) initiate the engineering of new software capabilities quickly;
-
-&emsp;&emsp;"(B) demonstrate the viability and effectiveness of such capabilities for operational use not later than one year after the date on which funds are first obligated to acquire or develop software; and
-
-&emsp;&emsp;"(C) allow for the continuous updating and delivery of new capabilities not less frequently than annually to iteratively meet a requirement.
-
-&emsp;"(3)
-
-Treatment not as major defense acquisition program.—Software acquired or developed using the authority under this section shall not be treated as a major defense acquisition program for purposes of section 2430 of title 10, United States Code \[now 10 U.S.C. 4201\], or Department of Defense Directive 5000.01 without the specific direction of the Under Secretary of Defense for Acquisition and Sustainment or a Senior Acquisition Executive.
-
-&emsp;"(4)
-
-Risk-based approach.—The Secretary of Defense shall use a risk-based approach for the consideration of innovative technologies and new capabilities for software to be acquired or developed under this authority to meet needs communicated by the Joint Chiefs of Staff and the combatant commanders.
-
-"(b)
-
-Pathways.—The Secretary of Defense may establish as many pathways as the Secretary determines appropriate and shall establish the following pathways:
-
-&emsp;"(1)
-
-Applications.—The applications software acquisition pathway shall provide for the use of rapid development and implementation of applications and other software or software improvements operated by the Department of Defense, which may include applications running on commercial commodity hardware (including modified hardware) and commercially available cloud computing platforms.
-
-&emsp;"(2)
-
-Embedded systems.—The embedded systems software acquisition pathway shall provide for the rapid development and insertion of upgrades and improvements for software embedded in weapon systems and other military-unique hardware systems.
-
-"(c)
-
-Expedited Process.—
-
-&emsp;"(1)
-
-In general.—A pathway established under subsection (a) shall provide for—
-
-&emsp;&emsp;"(A) a streamlined and coordinated requirements, budget, and acquisition process to support rapid fielding of software applications and of software upgrades to embedded systems for operational use in a period of not more than one year from the time that the process is initiated;
-
-&emsp;&emsp;"(B) the collection of data on software fielded; and
-
-&emsp;&emsp;"(C) continuous engagement with the users of software to support engineering activities, and to support delivery of software for operational use in periods of not more than one year.
-
-&emsp;"(2)
-
-Expedited software requirements process.—
-
-&emsp;&emsp;"(A)
-
-Inapplicability of joint capabilities integration and development system (jcids) manual.—Software acquisition or development conducted under the authority of this section shall not be subject to the Joint Capabilities Integration and Development System Manual, except pursuant to a modified process specifically provided for the acquisition or development of software by the Vice Chairman of the Joint Chiefs of Staff, in consultation with Under Secretary of Defense for Acquisition and Sustainment and each service acquisition executive (as defined in section 101(a)(10) of title 10, United States Code).
-
-&emsp;&emsp;"(B)
-
-Inapplicability of defense acquisition system directive.—Software acquisition or development conducted under the authority of this section shall not be subject to Department of Defense Directive 5000.01, except when specifically provided for the acquisition or development of software by the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Vice Chairman of the Joint Chiefs of Staff and each service acquisition executive.
-
-"(d)
-
-Elements.—In implementing a pathway established under the authority of this section, the Secretary shall tailor requirements relating to—
-
-&emsp;"(1) iterative development of requirements for software to be acquired or developed under the authority of this section through engagement with the user community and through the use of operational user feedback, in order to continuously define and update priorities for such requirements;
-
-&emsp;"(2) early identification of the warfighter or user need, including the rationale for how software capabilities will support increased lethality and efficiency, and identification of a relevant user community;
-
-&emsp;"(3) initial contract requirements and format, including the use of summary-level lists of problems and shortcomings in existing software and desired features or capabilities of new or upgraded software;
-
-&emsp;"(4) continuous refinement and prioritization of contract requirements through use of evolutionary processes, informed by continuous engagement with operational users throughout the development and implementation period;
-
-&emsp;"(5) continuous consideration of issues related to lifecycle costs, technical data rights, and systems interoperability;
-
-&emsp;"(6) planning for support of software capabilities in cases where the software developer may stop supporting the software;
-
-&emsp;"(7) rapid contracting procedures, including expedited timeframes for making awards, selecting contract types, defining teaming arrangements, and defining options;
-
-&emsp;"(8) program execution processes, including supporting development and test infrastructure, automation and tools, digital engineering, data collection and sharing with Department of Defense oversight organizations and with Congress, the role of developmental and operational testing activities, key decision making and oversight events, and supporting processes and activities (such as independent costing activity, operational demonstration, and performance metrics);
-
-&emsp;"(9) assurances that cybersecurity metrics of the software to be acquired or developed, such as metrics relating to the density of vulnerabilities within the code of such software, the time from vulnerability identification to patch availability, the existence of common weaknesses within such code, and other cybersecurity metrics based on widely-recognized standards and industry best practices, are generated and made available to the Department of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
-
-&emsp;"(10) administrative procedures, including procedures related to who may initiate and approve an acquisition under this authority, the roles and responsibilities of the implementing project or product teams and supporting activities, team selection and staffing process, governance and oversight roles and responsibilities, and appropriate independent technology assessments, testing, and cost estimation (including relevant thresholds or designation criteria);
-
-&emsp;"(11) mechanisms and waivers designed to ensure flexibility in the implementation of a pathway under this section, including the use of other transaction authority, broad agency announcements, and other procedures; and
-
-&emsp;"(12) mechanisms the Secretary will use for appropriate reporting to Congress on the use of this authority, including notice of initiation of the use of a pathway and data regarding individual programs or acquisition activities, how acquisition activities are reflected in budget justification materials or requests to reprogram appropriated funds, and compliance with other reporting requirements.
-
-"(e)
-
-Guidance Required.—
-
-&emsp;"(1)
-
-In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall issue initial guidance to implement the requirements of this section.
-
-&emsp;"(2)
-
-Limitation.—If the Secretary of Defense has not issued final guidance to implement the requirements of this section before October 1, 2021, the Secretary may not use the authority under this section—
-
-&emsp;&emsp;"(A) to establish a new pathway to acquire or develop software; or
-
-&emsp;&emsp;"(B) to continue activities to acquire or develop software using a pathway established under initial guidance described in paragraph (1).
-
-"(f)
-
-Report.—
-
-&emsp;"(1)
-
-In general.—Not later than October 15, 2020, the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the secretaries of the military departments and other appropriate officials, shall report on the use of the authority under this section using the initial guidance issued under subsection (d).
-
-&emsp;"(2)
-
-Elements.—The report required under paragraph (1) shall include the following elements:
-
-&emsp;&emsp;"(A) The final guidance required by subsection (d)(2), including a description of the treatment of use of the authority that was initiated before such final guidance was issued.
-
-&emsp;&emsp;"(B) A summary of how the authority under this section has been used, including a list of the cost estimate, schedule for development, testing and delivery, and key management risks for each initiative conducted pursuant to such authority.
-
-&emsp;&emsp;"(C) Accomplishments from and challenges to using the authority under this section, including organizational, cultural, talent, infrastructure, testing, and training considerations.
-
-&emsp;&emsp;"(D) Recommendations for legislative changes to the authority under this section.
-
-&emsp;&emsp;"(E) Recommendations for regulatory changes to the authority under this section to promote effective development and deployment of software acquired or developed under this section."
+Pub. L. 116–92, div. A, title VIII, §800, Dec. 20, 2019, 133 Stat. 1478, which authorized establishment of pathways to provide for the efficient and effective acquisition, development, integration, and timely delivery of secure software, was repealed by Pub. L. 118–159, div. A, title VIII, §805(c)(1), Dec. 23, 2024, 138 Stat. 1972. See section 3603 of this title.
 
 #### Reorientation of Big Data Platform Program
 
@@ -1036,7 +960,7 @@ Requirements.—In carrying out paragraph (1), the Secretary shall—
 
 &emsp;&emsp;"(J) in the case that the Secretary decides to sustain the status quo on packet capture databases, ensure that analysts operating on or from the Unified Platform, the Big Data Platform instances, the network defense services providers, and the Cyber Mission Forces can directly access packets and query the database; and
 
-&emsp;&emsp;"(K) consider whether the Joint Artificial Intelligence Center's cybersecurity artificial intelligence national mission initiative, and any other similar initiatives, should include an applicationfor the metadata residing in the Big Data Platform instances.
+&emsp;&emsp;"(K) consider whether the Joint Artificial Intelligence Center's cybersecurity artificial intelligence national mission initiative, and any other similar initiatives, should include an application for the metadata residing in the Big Data Platform instances.
 
 "(c)
 

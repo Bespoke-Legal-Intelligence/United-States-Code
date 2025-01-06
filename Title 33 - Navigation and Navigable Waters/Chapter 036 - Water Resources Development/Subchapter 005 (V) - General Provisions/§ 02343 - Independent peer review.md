@@ -196,15 +196,7 @@ A panel of experts established for a peer review for a project study under this 
 
 &emsp;The Chief of Engineers may waive the $500,000 limitation contained in paragraph (1)(B) in cases that the Chief of Engineers determines appropriate.
 
-#### (h) Applicability
-
-This section shall apply to—
-
-&emsp;(1) project studies initiated during the 2-year period preceding November 8, 2007, and for which the array of alternatives to be considered has not been identified; and
-
-&emsp;(2) project studies initiated during the period beginning on November 8, 2007, and ending 17 years after November 8, 2007.
-
-#### (i) Reports
+#### (h) Reports
 
 #### (1) Initial report
 
@@ -214,15 +206,15 @@ This section shall apply to—
 
 &emsp;Not later than 6 years after November 8, 2007, the Chief of Engineers shall update the report under paragraph (1) taking into account any further information on implementation of this section and submit such updated report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-#### (j) Nonapplicability of chapter 10 of title 5
+#### (i) Nonapplicability of chapter 10 of title 5
 
 Chapter 10 of title 5 shall not apply to a peer review panel established under this section.
 
-#### (k) Savings clause
+#### (j) Savings clause
 
 Nothing in this section shall be construed to affect any authority of the Chief of Engineers to cause or conduct a peer review of a water resources project existing on November 8, 2007.
 
-#### (l) Definitions
+#### (k) Definitions
 
 In this section, the following definitions apply:
 
@@ -236,7 +228,7 @@ In this section, the following definitions apply:
 
 #### (2) Affected State
 
-&emsp;The term "affected State", as used with respect to a water resources project, means aState all or a portion of which is within the drainage basin in which the project is or would be located and would be economically or environmentally affected as a consequence of the project.
+&emsp;The term "affected State", as used with respect to a water resources project, means a State all or a portion of which is within the drainage basin in which the project is or would be located and would be economically or environmentally affected as a consequence of the project.
 
 #### (3) Eligible organization
 
@@ -256,7 +248,7 @@ In this section, the following definitions apply:
 
 &emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
-(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, §1141, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–286, §4(a)(203), Dec. 27, 2022, 136 Stat. 4328.)
+(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, §1141, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–286, §4(a)(203), Dec. 27, 2022, 136 Stat. 4328; Pub. L. 118–272, div. A, title I, §1122, Jan. 4, 2025, 138 Stat. 3015.)
 
 #### <b>Editorial Notes</b>
 
@@ -266,9 +258,11 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(5)(A)(iv), is Pub
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsecs. (h) to (l). Pub. L. 118–272 redesignated subsecs. (i) to (l) as (h) to (k), respectively, and struck out former subsec. (h) which related to applicability of this section based on when project studies were initiated relative to Nov. 8, 2007.
 
 <b>2022</b>—Subsec. (j). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 

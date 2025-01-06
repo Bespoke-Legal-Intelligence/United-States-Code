@@ -32,7 +32,7 @@ Prior section 1502A, Pub. L. 87–591, §1, Aug. 16, 1962, 76 Stat. 393, which r
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(2). Pub. L. 109–233 substituted "blind, or so nearly blind or significantly disabled as to" for "helpless or blind, or so nearly helpless or blind as to".
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–233 substituted "blind, or so nearly blind or significantly disabled asto" for "helpless or blind, or so nearly helpless or blind as to".
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–103 substituted "such person is any of the following:" and pars. (1) to (4) for "such a person is unemployable as a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
 

@@ -32,7 +32,7 @@
 
 <b>1996</b>—Pub. L. 104–201 substituted "assigned outside the United States" for "of the Defense Intelligence Agency" in section catchline.
 
-Subsec. (a). Pub. L. 104–93, §502(a)(1), designated first sentence of existing text as par. (1) and substituted "described in subsection (d)" for "of the Department of Defense who are United States nationals, who are assigned to Defense Attaché Offices and Defense Intelligence Agency Liaison Offices outside the United States, and who are designated by the Secretary of Defense for the purposes of this subsection,", and designated second sentence of existing text as par. (2).
+Subsec. (a). Pub. L. 104–93, §502(a)(1), designated first sentence of existing text as par. (1) and substituted "described in subsection (d)" for "of the Department of Defense who are United States nationals, who are assigned to Defense Attaché Offices and Defense Intelligence Agency Liaison Offices outside the UnitedStates, and who are designated by the Secretary of Defense for the purposes of this subsection,", and designated second sentence of existing text as par. (2).
 
 Subsec. (c). Pub. L. 104–93, §502(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: "Regulations issued pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect."
 

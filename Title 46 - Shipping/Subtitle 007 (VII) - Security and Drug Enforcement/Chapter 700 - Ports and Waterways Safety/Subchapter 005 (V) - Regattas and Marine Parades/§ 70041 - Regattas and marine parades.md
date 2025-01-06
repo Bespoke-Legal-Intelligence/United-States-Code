@@ -8,7 +8,7 @@ In General.—The Commandant of the Coast Guard may issue regulations to promote
 
 Detail and Use of Vessels.—To enforce regulations issued under this section—
 
-&emsp;(1) the Commandant may detail any public vessel in the service of the Coast Guard and make use of any private vessel tendered gratuitously for that purpose; and
+&emsp;(1) the Commandant may detail any public vessel in the service of the Coast Guard andmake use of any private vessel tendered gratuitously for that purpose; and
 
 &emsp;(2) upon the request of the Commandant, the head of any other Federal department or agency may enforce the regulations by means of any public vessel of such department and any private vessel tendered gratuitously for that purpose.
 

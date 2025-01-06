@@ -990,7 +990,7 @@ The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I
 
 The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(10), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of this subparagraph, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 

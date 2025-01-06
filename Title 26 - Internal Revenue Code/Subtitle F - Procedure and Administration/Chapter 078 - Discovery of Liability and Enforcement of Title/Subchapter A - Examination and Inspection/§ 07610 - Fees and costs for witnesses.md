@@ -20,7 +20,7 @@ No payment may be made under paragraph (2) of subsection (a) if—
 
 This section applies with respect to any summons authorized under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602.
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100Stat. 2778; Pub. L. 100–647, title I, §1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, §1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
 
 #### <b>Editorial Notes</b>
 

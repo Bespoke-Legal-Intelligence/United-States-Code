@@ -32,7 +32,7 @@ The Institute shall maintain its principal offices in the State in which it is i
 
 #### (e) Tax status of Institute and programs assisted thereby
 
-The Institute, and any program assisted by the Institute, shall be eligible to be treated as an organization described in section 170(c)(2)(B) of title 26 and as an organization described insection 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26. If such treatments are conferred in accordance with the provisions of title 26, the Institute, and programs assisted by the Institute, shall be subject to all provisions of title 26 relevant to the conduct of organizations exempt from taxation.
+The Institute, and any program assisted by the Institute, shall be eligible to be treated as an organization described in section 170(c)(2)(B) of title 26 and as an organization described in section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26. If such treatments are conferred in accordance with the provisions of title 26, the Institute, and programs assisted by the Institute, shall be subject to all provisions of title 26 relevant to the conduct of organizations exempt from taxation.
 
 #### (f) Rules, regulations, etc.; notice and comment
 
@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (a), (b)(1)(C), and (f), was in the origin
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–528 struck out at end "The publication of a substantive rule shall not be made less than thirty days before the effective date of such rule, except as otherwise provided by the Institute for good cause found and published with the rule."
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out ", at least thirty days prior to their effective date," after "Federal Register" and inserting sentence at end relating to publication of a substantive rule.
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out", at least thirty days prior to their effective date," after "Federal Register" and inserting sentence at end relating to publication of a substantive rule.
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

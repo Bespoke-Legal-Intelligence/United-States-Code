@@ -16,7 +16,7 @@ The information, resources, and technical assistance provided under subsection (
 
 &emsp;(2) suggest age-appropriate communication tools, procedures, and practices for trauma-informed care, including ways to prevent or mitigate the effects of trauma;
 
-&emsp;(3) provide options for responding to children impacted by trauma, including due to exposure to substance use, that consider the needsof the child and family, including recommending resources and referrals for evidence-based services to support such family; and
+&emsp;(3) provide options for responding to children impacted by trauma, including due to exposure to substance use, that consider the needs of the child and family, including recommending resources and referrals for evidence-based services to support such family; and
 
 &emsp;(4) promote whole-family and multi-generational approaches to keep families safely together when it is in the best interest of the child.
 

@@ -56,7 +56,7 @@ Subsec. (a)(1)(A). Pub. L. 115–44, §275(a)(2)(B), substituted "funds (as the 
 
 Subsec. (b)(1)(A). Pub. L. 115–44, §275(a)(3)(A), substituted "funds" for "coins or currency (or monetary instruments)".
 
-Subsec. (b)(2). Pub. L. 115–44, §275(a)(3)(B), substituted "funds (as the Secretary may describe in the regulation or order)" for "coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order)".
+Subsec. (b)(2). Pub. L. 115–44, §275(a)(3)(B), substituted "funds (as the Secretary may describe in the regulationor order)" for "coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order)".
 
 <b>2001</b>—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted "or nonfinancial trade or business" after "financial institution" and "or nonfinancial trades or businesses" for "financial institutions" in introductory provisions.
 

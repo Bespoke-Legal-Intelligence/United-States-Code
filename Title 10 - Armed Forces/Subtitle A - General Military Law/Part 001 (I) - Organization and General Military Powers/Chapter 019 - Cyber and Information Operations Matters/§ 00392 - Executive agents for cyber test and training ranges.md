@@ -32,7 +32,7 @@ Biennial integrated plan.—The biennial integrated plan required under paragrap
 
 &emsp;&emsp;&emsp;(iv) finding opportunities for cost reduction, integration, and coordination improvements for the appropriate cyber and information technology ranges;
 
-&emsp;&emsp;&emsp;(v) adding or consolidating cyber and information technology ranges in the future to better meet the evolving needs of thecyber strategy and resource requirements of the Department;
+&emsp;&emsp;&emsp;(v) adding or consolidating cyber and information technology ranges in the future to better meet the evolving needs of the cyber strategy and resource requirements of the Department;
 
 &emsp;&emsp;&emsp;(vi) finding opportunities to continuously enhance the quality and technical expertise of the cyber and information technology test workforce through training and personnel policies; and
 

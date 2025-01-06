@@ -74,7 +74,7 @@ The Board may recommend to Congress for designation an application for a Partner
 
 #### (1) In general
 
-&emsp;Not later than February 1 of the first fiscal year beginning after October 30, 2020, and each February 1 thereafter, the Board shall develop and submit to the appropriate congressional committees an annual report, to be entitled "Report to Congress on Future Fish Habitat Partnerships and Modifications", that—
+&emsp;Not later than February 1 of the first fiscal year beginning after October 30, 2020, and, subject to paragraph (3), each February 1 thereafter, the Board shall develop and submit to the appropriate congressional committees an annual report, to be entitled "Report to Congress on Future Fish Habitat Partnerships and Modifications", that—
 
 &emsp;&emsp;(A) identifies each entity that—
 
@@ -98,9 +98,19 @@ The Board may recommend to Congress for designation an application for a Partner
 
 &emsp;&emsp;(B) provide to the appropriate congressional committees and the State agency of any State included in a recommended Partnership area written notification of the public availability of the report.
 
-#### (f) Designation or modification of partnership
+#### (3) Limitation
 
-Congress shall have the exclusive authority to designate or modify a Partnership.
+&emsp;The Board shall only submit a report required under paragraph (1) in the fiscal years in which the Board is proposing modifications to, or new designations of, 1 or more Partnerships.
+
+#### (f) Designation or modification of Partnership
+
+#### (1) In general
+
+&emsp;Congress shall have the exclusive authority to designate or modify a Partnership.
+
+#### (2) Designation or modification process
+
+&emsp;A Partnership designation or modification the Board recommends to Congress shall be deemed to be approved by Congress if Congress does not pass a joint resolution of disapproval with respect to the designation or modification by the date that is 90 days after the date on which the relevant congressional committees receive such recommendation.
 
 #### (g) Existing partnerships
 
@@ -110,9 +120,19 @@ Congress shall have the exclusive authority to designate or modify a Partnership
 
 #### (2) Ineligibility for Federal funds
 
-&emsp;A partnership referred to in paragraph (1) that Congress does not designate as describedin that paragraph shall be ineligible to receive Federal funds under this chapter.
+&emsp;A partnership referred to in paragraph (1) that Congress does not designate as described in that paragraph shall be ineligible to receive Federal funds under this chapter.
 
-(Pub. L. 116–188, title II, §204, Oct. 30, 2020, 134 Stat. 928.)
+(Pub. L. 116–188, title II, §204, Oct. 30, 2020, 134 Stat. 928; Pub. L. 118–198, title II, §202, Dec. 23, 2024, 138 Stat. 2681.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (e)(1). Pub. L. 118–198, §202(1)(A), inserted ", subject to paragraph (3)," after "October 30, 2020, and" in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 118–198, §202(1)(B), added par. (3).
+
+Subsec. (f). Pub. L. 118–198, §202(2), amended subsec. (f) generally. Prior to amendment, text read as follows: "Congress shall have the exclusive authority to designate or modify a Partnership."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

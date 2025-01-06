@@ -30,7 +30,7 @@ In this section:
 
 #### (C) Development and implementation of State child welfare plan protocols
 
-&emsp;&emsp;The State agency responsible for administering the State plan for foster care and adoption assistance under part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.) has developed and is implementing or will develop and implement protocols that meet the following reporting requirements:
+&emsp;&emsp;The State agency responsible for administering the State plan for foster care and adoption assistance under part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.) has developed and is implementing orwill develop and implement protocols that meet the following reporting requirements:
 
 &emsp;&emsp;&emsp;(i) The requirement to report immediately, and in no case later than 24 hours after receiving, information on children who have been identified as being a victim of a severe form of trafficking in persons to law enforcement authorities under paragraph (34)(A) of section 471(a) of the Social Security Act (42 U.S.C. 671(a)).
 
@@ -56,5 +56,5 @@ In this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Part E of title IV of the Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

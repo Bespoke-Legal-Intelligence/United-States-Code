@@ -24,7 +24,7 @@ Energy Performance Goals.—(1) The Secretary of Defense shall submit to the con
 
 (2) The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
 
-(3) The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the installation energy report submitted under section 2925(a) <sup>1</sup> of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
+(3) The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the report submitted under section 2925(a) of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
 
 (d)
 
@@ -130,7 +130,7 @@ Promotion of On-Site Energy Security and Energy Resilience.—(1) Consistent wit
 
 &emsp;(C) Reduction in periodic refueling needs from sources off the installation to not more than once every two years.
 
-(2)(A) Using amounts made available for military construction projects under section 2914 ofthis title, the Secretary of Defense shall carry out at least four projects to promote installation energy security and energy resilience in the manner described in paragraph (1).
+(2)(A) Using amounts made available for military construction projects under section 2914 of this title, the Secretary of Defense shall carry out at least four projects to promote installation energy security and energy resilience in the manner described in paragraph (1).
 
 (B) At least one project shall be designed to develop technology that demonstrates the ability to connect an existing on-site energy generation facility that uses solar power with one or more installation facilities performing critical missions in a manner that allows the generation facility to continue to provide electrical power to these facilities even if the installation is disconnected from the commercial power supply.
 
@@ -178,19 +178,17 @@ Aggregate Energy Conservation Measures and Funding.—(1) To the maximum extent 
 
 &emsp;(B) funding available under performance contracts, such as energy savings performance contracts and utility energy service contracts.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, §2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, §312, div. B, title XXVIII, §2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, §312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710; Pub. L. 116–92, div. A, title III, §320(b), Dec. 20, 2019, 133 Stat. 1307; Pub. L. 116–283, div. B, title XXVIII, §2825(a), (b)(1), Jan. 1, 2021, 134 Stat. 4333, 4334; Pub. L. 117–81, div. A, title III, §314(a), Dec. 27, 2021, 135 Stat. 1629; Pub. L. 117–263, div. A, title III, §§315, 316, Dec. 23, 2022, 136 Stat. 2505.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, §2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, §312, div. B, title XXVIII, §2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, §312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710; Pub. L. 116–92, div. A, title III, §320(b), Dec. 20, 2019, 133 Stat. 1307; Pub. L. 116–283, div. B, title XXVIII, §2825(a), (b)(1), Jan. 1, 2021, 134 Stat. 4333, 4334; Pub. L. 117–81, div. A, title III, §314(a), Dec. 27, 2021, 135 Stat. 1629; Pub. L. 117–263, div. A, title III, §§315, 316, Dec. 23, 2022, 136 Stat. 2505; Pub. L. 118–159, div. A, title XVII, §1701(a)(32), Dec. 23, 2024, 138 Stat. 2205.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 2925(a) of this title, referred to in subsec. (c)(3), was struck out, and a new subsec. (a) of section 2925 of this title relating to annual reports on energy performance, resilience, and readiness of the Department of Defense was added, by Pub. L. 117–263, div. A, title III, §314(b)(1)(B), Dec. 23, 2022, 136 Stat. 2504.
 
 #### Codification
 
 Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section 2831(a)(2) and (4) of Pub. L. 115–91 respectively redesignated subsec. (c) as (e) and made amendments substantially identical to those made by section 312. Pub. L. 116–92 subsequently amended subsec. (e) to address the duplicate amendments. See 2019 and 2017 Amendment notes below.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(3). Pub. L. 118–159 struck out "installation energy" before "report submitted under section 2925(a) of this title".
 
 <b>2022</b>—Subsec. (e)(14), (15). Pub. L. 117–263, §316, added pars. (14) and (15).
 
@@ -560,7 +558,7 @@ Heat Island Defined.—The term 'heat island' means an area with a high concentr
 
 #### Combating Military Reliance on Russian Energy
 
-Pub. L. 117–263, div. A, title X, §1086, Dec. 23, 2022, 136 Stat. 2801, as amended by Pub. L. 118–31, div. A, title XVIII, §1803, Dec. 22, 2023, 137 Stat. 685, provided that:
+Pub. L. 117–263, div. A, title X, §1086, Dec. 23, 2022, 136 Stat. 2801, as amended by Pub. L. 118–31, div. A, title XVIII, §1803, Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title X, §1082, Dec. 23, 2024, 138 Stat. 2077, provided that:
 
 "(a)
 
@@ -588,19 +586,27 @@ Identification of installations.—The Secretary of Defense shall submit to the 
 
 &emsp;"(2)
 
-Submittal of plans.—Not later than 12 months after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees—
+Submittal of plans.—
 
-&emsp;&emsp;"(A) an installation energy plan for each main operating base on the list submitted under paragraph (1)(A); and
+&emsp;&emsp;"(A)
 
-&emsp;&emsp;"(B) an assessment of the feasibility of reaching the goal for the elimination of the use of Russian energy pursuant to subsection (b) on that base, including—
+Main operating bases; feasibility assessment.—Not later than December 23, 2023, the Secretary of Defense shall submit to the congressional defense committees—
 
-&emsp;&emsp;&emsp;"(i) a description of the steps that would be required to meet such goal; and
+&emsp;&emsp;&emsp;"(i) an installation energy plan for each main operating base on the list submitted under paragraph (1)(A); and
 
-&emsp;&emsp;&emsp;"(ii) an analysis of the effects such steps would have on the national security of the United States.
+&emsp;&emsp;&emsp;"(ii) an assessment of the feasibility of reaching the goal for the elimination of the use of Russian energy pursuant to subsection (b) on that base, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a description of the steps that would be required to meet such goal; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an analysis of the effects such steps would have on the national security of the United States.
+
+&emsp;&emsp;"(B)
+
+US european command operating bases.—Not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 \[Dec. 23, 2024\], the Secretary of Defense shall submit to the congressional defense committees an installation energy plan for each operating base within the area of responsibility of the United States European Command.
 
 "(d)
 
-Content of Plans.—Each installation energy plan for a main operating base shall include each of the following with respect to that base:
+Content of Plans.—Each installation energy plan for an operating base shall include each of the following with respect to that base:
 
 &emsp;"(1) An assessment of the energy resilience requirements, resiliency gaps, and energy-related cybersecurity requirements of the base, including with respect to operational technology, control systems, and facilities-related control systems.
 
@@ -644,7 +650,15 @@ Annual Congressional Briefings.—The Secretary of Defense shall provide to the 
 
 &emsp;"(2) The progress that has been made toward reducing the reliance of United States bases on Russian energy.
 
-&emsp;"(3) The steps being taken and planned across the future-years defense program to meet the goal of eliminating reliance on Russian energy."
+&emsp;"(3) The steps being taken and planned across the future-years defense program to meet the goal of eliminating reliance on Russian energy.
+
+"(h)
+
+Limitation.—Of the funds authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2025 \[Pub. L. 118–159, see Tables for classification\] or otherwise made available for fiscal year 2025 for the Office of the Secretary of Defense for travel, not more than 75 percent may be obligated or expended until the submission of the installation energy plans and assessment required under subsection (c)(2)(A).
+
+"(i)
+
+Definition of Operating Base.—In this section, the term 'operating base' has the meaning of that term as used in the most recently submitted Global Defense Posture Report, as required to be submitted under section 113(g)(4)(A)(iii) of title 10, United States Code."
 
 #### Energy, Water, and Waste Net-Zero Requirement for Major Military Installations
 
@@ -770,7 +784,7 @@ Pub. L. 116–283, div. A, title III, §324, Jan. 1, 2021, 134 Stat. 3523, provi
 
 "(a)
 
-Management of the Operational Energy Capability Improvement Fund.—The Assistant Secretary of Defense for Energy, Installations, and Environment shall exercise authority, direction, and control over the Operational Energy Capability Improvement Fund of the Department of Defense (in this section referred to as the 'OECIF').
+Management of the Operational Energy Capability Improvement Fund.—The Assistant Secretary ofDefense for Energy, Installations, and Environment shall exercise authority, direction, and control over the Operational Energy Capability Improvement Fund of the Department of Defense (in this section referred to as the 'OECIF').
 
 "(b)
 
@@ -982,7 +996,7 @@ Sunset.—The authority under subsection (a) shall expire on October 1, 2024."
 
 #### Aggregation of Energy Efficiency and Energy Resilience Projects in Life Cycle Cost Analyses
 
-Pub. L. 115–91, div. B, title XXVIII, §2837, Dec. 12, 2017, 131 Stat. 1859, provided that: "The Secretary of Defense or the Secretary of a military department, when conducting life cycle cost analyses with respect to investments designed to lower costs and reduce energy and water consumption, shall aggregate energy efficiency projects and energy resilience improvements as appropriate."
+Pub. L. 115–91, div. B, title XXVIII, §2837, Dec. 12, 2017, 131 Stat. 1859, provided that: "The Secretary of Defense or the Secretary of a military department, when conducting life cycle cost analyses with respectto investments designed to lower costs and reduce energy and water consumption, shall aggregate energy efficiency projects and energy resilience improvements as appropriate."
 
 #### Energy Security for Military Installations in Europe
 
@@ -1100,7 +1114,7 @@ Requirements for Energy Technologies and Processes.—Energy-efficient and energ
 
 "(c)
 
-Regulations and Guidance.—The Under Secretary of Defense for Acquisition and Sustainmentshall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
+Regulations and Guidance.—The Under Secretary of Defense for Acquisition and Sustainment shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
 
 "(d)
 
@@ -1174,7 +1188,7 @@ Pub. L. 111–383, div. A, title II, §242, Jan. 7, 2011, 124 Stat. 4176, provid
 
 "(a)
 
-Pilot Program.—The Secretary of Defense, in coordination with the Secretary of Energy, may carry out a collaborative energy security pilot program involving one or more partnerships between one military installation and one national laboratory, for the purpose of evaluating and validating secure, salable microgrid components and systems for deployment.
+Pilot Program.—The Secretary of Defense, in coordination with the Secretary of Energy, may carryout a collaborative energy security pilot program involving one or more partnerships between one military installation and one national laboratory, for the purpose of evaluating and validating secure, salable microgrid components and systems for deployment.
 
 "(b)
 
@@ -1280,7 +1294,7 @@ Capability Requirements Development Process.—
 
 &emsp;"(1)
 
-in general \[sic\].—The Secretary of Defense shall develop and implement a methodology to enable the implementation of a fuel efficiency key performance parameter in the requirements development process for the modification of existing or development of new fuel consuming systems.
+in general \[sic\].—The Secretary of Defense shall develop and implement a methodology to enablethe implementation of a fuel efficiency key performance parameter in the requirements development process for the modification of existing or development of new fuel consuming systems.
 
 &emsp;"(2)
 
@@ -1527,6 +1541,4 @@ Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

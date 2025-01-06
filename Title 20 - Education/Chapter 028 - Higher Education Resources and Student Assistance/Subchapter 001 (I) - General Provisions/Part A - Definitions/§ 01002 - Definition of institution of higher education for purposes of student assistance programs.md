@@ -126,7 +126,7 @@
 
 &emsp;An institution shall not be considered to meet the definition of an institution of higher education in paragraph (1) if—
 
-&emsp;&emsp;(A) the institution, or an affiliate of the institution that has the power, by contract or ownership interest, to direct or cause the direction of the management or policies of the institution, has filed for bankruptcy, except that this paragraph shall not apply to a nonprofit institution, the primary function of which is to provide health care educational services (or an affiliate of such an institution that has the power, by contract or ownership interest, to direct or cause the direction of the institution's management or policies) that files for bankruptcy under chapter 11 of title 11 between July 1, 1998, and December 1, 1998; or
+&emsp;&emsp;(A) the institution, or an affiliate of the institution that has the power, by contract or ownership interest, to direct or cause the direction of the management or policies of the institution, has filed for bankruptcy, except that this paragraph shall not apply to anonprofit institution, the primary function of which is to provide health care educational services (or an affiliate of such an institution that has the power, by contract or ownership interest, to direct or cause the direction of the institution's management or policies) that files for bankruptcy under chapter 11 of title 11 between July 1, 1998, and December 1, 1998; or
 
 &emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV, or has been judicially determined to have committed fraud involving funds under subchapter IV.
 
@@ -206,7 +206,7 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 9
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I, §101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms "community service program", "continuing education program", and "resource materials sharing programs", prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I,§101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms "community service program", "continuing education program", and "resource materials sharing programs", prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 

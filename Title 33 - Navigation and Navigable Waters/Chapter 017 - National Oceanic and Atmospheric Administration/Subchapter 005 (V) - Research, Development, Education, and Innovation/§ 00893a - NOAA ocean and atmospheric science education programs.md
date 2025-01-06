@@ -26,7 +26,7 @@ The education programs developed by NOAA shall, to the extent applicable—
 
 &emsp;&emsp;(E) are promoted widely, especially among individuals identified in sections 1885a and 1885b of title 42; and
 
-&emsp;(5) create and support opportunities for enhanced and ongoing professional development for teachers using best practices that improves the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level.
+&emsp;(5) create and support opportunities for enhanced and ongoing professional developmentfor teachers using best practices that improves the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level.
 
 #### (c) NOAA science education plan
 

@@ -38,7 +38,7 @@ General rule.—The amendments made by this section \[enacting this part and ame
 
 Special rule for collective bargaining agreements.—In the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Apr. 7, 1986\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
-&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
+&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extensionthereof agreed to after the date of the enactment of this Act), or
 
 &emsp;"(B) January 1, 1987.
 

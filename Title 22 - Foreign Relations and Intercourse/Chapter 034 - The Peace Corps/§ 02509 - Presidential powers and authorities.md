@@ -4,7 +4,7 @@
 
 In furtherance of the purposes of this chapter, the President may—
 
-&emsp;(1) enter into, perform, and modify contracts and agreements and otherwise cooperate withany agency of the United States Government or of any State or any subdivision thereof, other governments and departments and agencies thereof, and educational institutions, voluntary agencies, farm organizations, labor unions, and other organizations, individuals and firms;
+&emsp;(1) enter into, perform, and modify contracts and agreements and otherwise cooperate with any agency of the United States Government or of any State or any subdivision thereof, other governments and departments and agencies thereof, and educational institutions, voluntary agencies, farm organizations, labor unions, and other organizations, individuals and firms;
 
 &emsp;(2) assign volunteers in special cases to temporary duty with international organizations and agencies when the Secretary of State determines that such assignment would serve the purposes of this chapter;
 
@@ -28,7 +28,7 @@ Whenever the President determines it to be in furtherance of the purposes of thi
 
 #### (e) Allocation of funds
 
-The President may allocate or transfer to any agency of the United States Government any funds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred.
+The President may allocate or transfer to any agency of the United States Government any funds available for carrying out the purposes of this chapter including any advance received by the United States from any country or international organization under authority of this chapter, but not to exceed 20 per centum in the aggregate of such funds may be allocated or transferred to agencies other than the Peace Corps. Such funds shall be available for obligation and expenditure for the purposes of this chapter in accordance with authority granted in this chapter or under authority governing theactivities of the agencies of the United States Government to which such funds are allocated or transferred.
 
 #### (f) Utilization of other Government agency services and facilities
 
@@ -40,7 +40,7 @@ In the case of any commodity, service, or facility procured from any agency of t
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
-The President may provide hospitalization and medical treatment to Foreign Service local employees who are within the United States fortraining related to their employment under this chapter, for illnesses, injuries, or conditions other than those arising out of and in the course of employment, which, in the judgment of the President, began during such employee's travel related to such training or so near to the beginning of such travel that the onset of the illness, injury, or condition could not have been known, and for which immediate medical treatment or hospitalization is reasonably required.
+The President may provide hospitalization and medical treatment to Foreign Service local employees who are within the United States for training related to their employment under this chapter, for illnesses, injuries, or conditions other than those arising out of and in the course of employment, which, in the judgment of the President, began during such employee's travel related to such training or so near to the beginning of such travel that the onset of the illness, injury, or condition could not have been known, and for which immediate medical treatment or hospitalization is reasonably required.
 
 #### (i) Procurement of legal services
 
@@ -72,7 +72,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq.of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 #### Codification
 

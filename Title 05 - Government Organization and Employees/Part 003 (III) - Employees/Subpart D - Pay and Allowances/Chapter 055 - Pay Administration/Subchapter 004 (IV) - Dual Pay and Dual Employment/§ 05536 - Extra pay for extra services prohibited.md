@@ -34,7 +34,7 @@ June 20, 1874, ch. 328, §3, 18 Stat. 109.
 
 Sept. 3, 1954, ch. 1263, §7, 68 Stat. 1228.
 
-Sections are consolidated as R.S. §1765 includes the scope of R.S. §170, R.S. §1764, and the Act of June 20,1874, as amended. So much of R.S. §1764 as relates to details is covered by section 5535.
+Sections are consolidated as R.S. §1765 includes the scope of R.S. §170, R.S. §1764, and the Act of June 20, 1874, as amended. So much of R.S. §1764 as relates to details is covered by section 5535.
 
 R.S. §170 was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides "Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense" is omitted from his \[sic\] title but is not repealed.
 

@@ -128,7 +128,7 @@ Pub. L. 96–350, §3(b), (c), (i), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–
 
 46 App.:1903(c)(3).
 
-In subsection (b)(2), before subparagraph (A), the words "individual who is a citizen of the United States" are substituted for "a citizen or national of the United States" because of the definition of "citizen ofthe United States" in chapter 1 of the revised title. The words "or a territory, commonwealth, or possession of the United States" and "the District of Columbia, or any territory, commonwealth, or possession of the United States" are omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
+In subsection (b)(2), before subparagraph (A), the words "individual who is a citizen of the United States" are substituted for "a citizen or national of the United States" because of the definition of "citizen of the United States" in chapter 1 of the revised title. The words "or a territory, commonwealth, or possession of the United States" and "the District of Columbia, or any territory, commonwealth, or possession of the United States" are omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
 
 In subsection (b)(3), the words "placed under foreign registry, or operated under the authority of a foreign nation" are substituted for "placed under foreign registry or foreign flag" because of the definition of "foreign vessel" in chapter 1 of the revised title.
 

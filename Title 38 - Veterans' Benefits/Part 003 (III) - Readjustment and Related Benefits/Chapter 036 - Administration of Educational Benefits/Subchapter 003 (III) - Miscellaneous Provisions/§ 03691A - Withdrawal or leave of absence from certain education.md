@@ -18,11 +18,11 @@ In General.—(1) A covered member may, after receiving orders to enter a period
 
 (b)
 
-Withdrawal.—If a covered member withdraws from covered education under subsection\(a), the institution concerned shall refund all tuition and fees (including payments for housing) for the academic term from which the covered member withdraws.
+Withdrawal.—If a covered member withdraws from covered education under subsection (a), the institution concerned shall refund all tuition and fees (including payments for housing) for the academic term from which the covered member withdraws.
 
 (c)
 
-Leave of Absence.—If a covered member takes a leave of absence from covered education under subsection (a), the institution concerned shall—
+Leave of Absence.—If a covered member takes a leave of absence from covered educationunder subsection (a), the institution concerned shall—
 
 &emsp;(1) assign a grade of "incomplete" (or equivalent) to the covered member for covered education for the academic term from which the covered member takes such leave of absence; and
 

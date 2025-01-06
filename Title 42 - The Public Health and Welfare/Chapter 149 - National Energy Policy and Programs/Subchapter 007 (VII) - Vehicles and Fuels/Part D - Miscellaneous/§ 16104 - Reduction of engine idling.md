@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Advanced truck stop electrification system
 
-&emsp;The term "advanced truck stop electrification system" means a stationary system thatdelivers heat, air conditioning, electricity, or communications, and is capable of providing verifiable and auditable evidence of use of those services, to a heavy-duty vehicle and any occupants of the heavy-duty vehicle with or without relying on components mounted onboard the heavy-duty vehicle for delivery of those services.
+&emsp;The term "advanced truck stop electrification system" means a stationary system that delivers heat, air conditioning, electricity, or communications, and is capable of providing verifiable and auditable evidence of use of those services, to a heavy-duty vehicle and any occupants of the heavy-duty vehicle with or without relying on components mounted onboard the heavy-duty vehicle for delivery of those services.
 
 #### (3) Auxiliary power unit
 

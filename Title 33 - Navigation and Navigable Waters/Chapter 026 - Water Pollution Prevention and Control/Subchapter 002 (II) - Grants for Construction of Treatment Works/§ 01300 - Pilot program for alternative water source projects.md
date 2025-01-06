@@ -44,7 +44,7 @@ The Federal share of the eligible costs of an alternative water source project c
 
 #### (h) Reports
 
-On or before September 30, 2004, the Administrator shall transmit to Congress a report on the results of the pilot program established under this section, including progress made toward meeting the critical water supply needs of the participants in the pilot program.
+On or before September 30, 2004, the Administrator shall transmit to Congress a report on theresults of the pilot program established under this section, including progress made toward meeting the critical water supply needs of the participants in the pilot program.
 
 #### (i) Authorization of appropriations
 

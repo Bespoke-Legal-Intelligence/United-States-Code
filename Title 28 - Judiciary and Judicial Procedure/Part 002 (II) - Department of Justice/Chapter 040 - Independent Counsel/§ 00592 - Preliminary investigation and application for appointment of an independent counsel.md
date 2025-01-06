@@ -6,7 +6,7 @@ Conduct of Preliminary Investigation.—
 
 &emsp;(1)
 
-In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
+In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request isreceived. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Application for appointment of independent counsel.—The Attorney General shall
 
 &emsp;&emsp;(B) the 90-day period referred to in subsection (a)(1), and any extension granted under subsection (a)(3), have elapsed and the Attorney General has not filed a notification with the division of the court under subsection (b)(1).
 
-> &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shallcomply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
+> &emsp;In determining under this chapter whether reasonable grounds exist to warrant further investigation, the Attorney General shall comply with the written or other established policies of the Department of Justice with respect to the conduct of criminal investigations.
 
 &emsp;(2)
 

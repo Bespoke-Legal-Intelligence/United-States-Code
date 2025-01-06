@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (2) Certain other expenditures included
 
-&emsp;In the case of an organization which is formed primarily for purposes of promotingthe candidacy (or prospective candidacy) of an individual for public office (or which is effectively controlled by a candidate or prospective candidate and which is availed of primarily for such purposes), the term "political expenditure" includes any of the following amounts paid or incurred by the organization:
+&emsp;In the case of an organization which is formed primarily for purposes of promoting the candidacy (or prospective candidacy) of an individual for public office (or which is effectively controlled by a candidate or prospective candidate and which is availed of primarily for such purposes), the term "political expenditure" includes any of the following amounts paid or incurred by the organization:
 
 &emsp;&emsp;(A) Amounts paid or incurred to such individual for speeches or other services.
 

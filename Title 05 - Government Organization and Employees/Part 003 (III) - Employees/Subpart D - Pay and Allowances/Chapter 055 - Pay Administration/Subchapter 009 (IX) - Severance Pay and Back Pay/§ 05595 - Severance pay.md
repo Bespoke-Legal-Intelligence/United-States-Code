@@ -104,7 +104,7 @@
 
 &emsp;(C) The term "nonappropriated fund instrumentality" means a nonappropriated fund instrumentality described in section 2105(c) of this title.
 
-(i)(1) In the case of an employee of the Department of Defense who is entitled to severance pay under this section, the Secretary of Defense or the Secretary of the military department concerned may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
+(i)(1) In the case of an employee of the Department of Defense who is entitled to severance payunder this section, the Secretary of Defense or the Secretary of the military department concerned may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Defense (for the military department that formerly employed the employee, if applicable) an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
@@ -154,7 +154,7 @@ In subsection (a)(2)(i), the words "Executive Schedule" are substituted for "Fed
 
 In subsection (a)(2)(ii), the words "without a break in service of more than 3 days" are coextensive with and substituted for "without a break in service or after a separation of three days or less".
 
-In subsection (a)(2)(iv), the words "subchapter III of chapter 83 of this title" are substituted for "the Civil Service Retirement Act, as amended" to reflect the codification of the act in title 5 U.S.C. The words "employees as defined by section 2105 of this title" are coextensive with and substituted for "Federal officers and employees".
+In subsection (a)(2)(iv), the words "subchapter III of chapter 83 of this title" are substituted for "the Civil Service Retirement Act, as amended" to reflect thecodification of the act in title 5 U.S.C. The words "employees as defined by section 2105 of this title" are coextensive with and substituted for "Federal officers and employees".
 
 In subsection (a)(2)(v), the words "subchapter I of chapter 81 of this title" are substituted for "the Federal Employees' Compensation Act, as amended" to reflect the codification of the act in title 5, U.S.C.
 
@@ -210,7 +210,7 @@ Subsec. (b). Pub. L. 105–55, §310(a)(3), inserted at end "The Architect of th
 
 <b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
 
-Subsec. (a)(2)(i). Pub. L. 101–509 substituted "employee (other" for "employee, other", inserted "or an employee whose pay is fixed under section 5376)" before"whose rate", and substituted "the Executive Schedule" for "GS–18".
+Subsec. (a)(2)(i). Pub. L. 101–509 substituted "employee (other" for "employee, other", inserted "or an employee whose pay is fixed under section 5376)" before "whose rate", and substituted "the Executive Schedule" for "GS–18".
 
 Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end "However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section."
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Report
 

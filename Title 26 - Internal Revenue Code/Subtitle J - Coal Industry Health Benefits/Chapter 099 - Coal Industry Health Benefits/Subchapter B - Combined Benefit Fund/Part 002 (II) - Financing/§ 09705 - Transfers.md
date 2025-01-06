@@ -68,7 +68,7 @@ Subsec. (b)(2). Pub. L. 115–141, §401(a)(346), substituted "Act" for "Acts".
 
 Subsec. (b)(1). Pub. L. 109–432, §212(a)(1)(A), substituted "subsections (h) and (i) of section 402" for "section 402(h)".
 
-Subsec. (b)(2). Pub. L. 109–432, §212(a)(1)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: "Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) of each assigned operator for the plan year in which transferred."
+Subsec. (b)(2). Pub. L. 109–432, §212(a)(1)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: "Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section9704(a)(3) of each assigned operator for the plan year in which transferred."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

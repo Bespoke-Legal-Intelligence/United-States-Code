@@ -6,21 +6,23 @@ Powers.—In carrying out its duties under this subtitle, a Commission may—
 
 &emsp;(1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute a description of the proceedings and reports on actions by the Commission as the Commission considers appropriate;
 
-&emsp;(2) authorize, through the Federal or State Cochairperson or any other member of the Commission designated by the Commission, the administration of oaths if the Commission determines that testimony should be taken or evidence received under oath;
+&emsp;(2) authorize, through the Federal or State Cochairperson or any other member of the Commission designated by the Commission,the administration of oaths if the Commission determines that testimony should be taken or evidence received under oath;
 
 &emsp;(3) request from any Federal, State, or local agency such information as may be available to or procurable by the agency that may be of use to the Commission in carrying out the duties of the Commission;
 
 &emsp;(4) adopt, amend, and repeal bylaws and rules governing the conduct of business and the performance of duties by the Commission;
 
-&emsp;(5) request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status;
+&emsp;(5) request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status, which may be done without a requirement for the Commission to reimburse the agency or local government;
 
 &emsp;(6) provide for coverage of Commission employees in a suitable retirement and employee benefit system by making arrangements or entering into contracts with any participating State government or otherwise providing retirement and other employee coverage;
 
 &emsp;(7) accept, use, and dispose of gifts or donations or services or real, personal, tangible, or intangible property;
 
-&emsp;(8) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
+&emsp;(8) collect fees for services provided and retain and expend such fees;
 
-&emsp;(9) maintain a government relations office in the District of Columbia and establish and maintain a central office at such location in its region as the Commission may select.
+&emsp;(9) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
+
+&emsp;(10) establish and maintain a central office at such location in its region as the Commission may select.
 
 (b)
 
@@ -70,7 +72,7 @@ Delinquent states.—During any period in which a State is more than 1 year deli
 
 Effect on assistance.—A State's share of administrative expenses of a Commission under this subsection shall not be taken into consideration when determining the amount of assistance provided to the State under this subtitle.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1471, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2233; amended Pub. L. 115–334, title VI, §6304(a), Dec. 20, 2018, 132 Stat. 4749.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1471, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2233; amended Pub. L. 115–334, title VI, §6304(a), Dec. 20, 2018, 132 Stat. 4749; Pub. L. 118–272, div. B, title II, §2242(c), Jan. 4, 2025, 138 Stat. 3203.)
 
 #### <b>Editorial Notes</b>
 
@@ -79,6 +81,12 @@ Effect on assistance.—A State's share of administrative expenses of a Commissi
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(5). Pub. L. 118–272, §2242(c)(1), inserted ", which may be done without a requirement for the Commission to reimburse the agency or local government" after "status".
+
+Subsec. (a)(8), (9). Pub. L. 118–272, §2242(c)(2), (3), added par. (8) and redesignated former par. (8) as (9). Former par. (9) redesignated (10).
+
+Subsec. (a)(10). Pub. L. 118–272, §2242(c)(2), (4), redesignated par. (9) as (10) and struck out "maintain a government relations office in the District of Columbia and" before "establish and maintain a central office".
 
 <b>2018</b>—Subsec. (c)(3)(A). Pub. L. 115–334 substituted "majority" for "unanimous".
 

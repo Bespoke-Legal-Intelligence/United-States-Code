@@ -20,5 +20,5 @@ The Attorney General shall acquire from criminal justice agencies statistical da
 
 #### Codification
 
-Section was formerly classified as a note under section 5101 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+Section was formerly classified as a note under section 5101 of Title 42, The Public Health and Welfare,prior to editorial reclassification and renumbering as this section.
 

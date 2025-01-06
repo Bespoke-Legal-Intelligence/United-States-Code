@@ -39,7 +39,7 @@ Subsecs. (c) to (e). Pub. L. 107–90, §203(b), redesignated subsec. (e) as (c)
 | &nbsp;1985 | 13\.75&nbsp;&nbsp; |
 | &nbsp;1986 or thereafter | 14\.75." |
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–76, §222(a), in amending subsec. (a) generally, substituted provisions imposing an excise tax on employers, with respect to having individuals in his employ, equal to a percentage of compensation paid as set out in an accompanying table, for provisions which imposed an excise tax on employers, with respect to having individuals in his employ, equal to 12.75 percent of so much of the compensation paid in any calendar month by such employer for services rendered to him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 for any month, with certain exceptions dealing with multiple employers.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76, §222(a), in amending subsec. (a) generally, substituted provisions imposing an excise tax on employers, with respect to having individuals in his employ, equal to a percentage of compensation paid as set out in an accompanying table, for provisions which imposed an excise tax on employers,with respect to having individuals in his employ, equal to 12.75 percent of so much of the compensation paid in any calendar month by such employer for services rendered to him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 for any month, with certain exceptions dealing with multiple employers.
 
 Pub. L. 98–76, §211(b), substituted "12.75 percent" for "11.75 percent".
 
@@ -59,7 +59,7 @@ Subsec. (c). Pub. L. 94–455, §§1903(a)(9)(C), 1906(b)(13)(G), struck out "(1
 
 <b>1974</b>—Subsec. (c). Pub. L. 93–445, §501(a), struck out "for appropriation to the Railroad Retirement Supplemental Account provided for in section 15(b) of the Railroad Retirement Act of 1937" after "commencing April 1, 1970, at such rate as will make available", substituted "at the level provided under section 3(j) of the Railroad Retirement Act of 1937 as in effect on December 31, 1974" for "under section 3(j) of such Act", and inserted "or section 2(h)(2) of the Railroad Retirement Act of 1974" after "section 3(j)(2) of the Railroad Retirement Act of 1937".
 
-Subsec. (d). Pub. L. 93–445, §501(b), substituted "section 2(b) of the Railroad Retirement Act of 1974" for "section 3(j) of the Railroad Retirement Act of 1937"and "section 2(b) of such Act" for "section 3(j) of such Act".
+Subsec. (d). Pub. L. 93–445, §501(b), substituted "section 2(b) of the Railroad Retirement Act of 1974" for "section 3(j) of the Railroad Retirement Act of 1937" and "section 2(b) of such Act" for "section 3(j) of such Act".
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–69, §102(d), (e), substituted new tax rate provisions on employers for services rendered after Sept. 30, 1973, for former provisions which prescribed 6¼, 6½, 7, 7¼, and 7½ percent on income for services rendered after Sept. 30, 1965; Dec. 31, 1965; Dec. 31, 1966; Dec. 31, 1967; and Dec. 31, 1968, respectively, as is, with respect to any employee for any calendar month, not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable "wages" as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after Sept. 30, 1965, and, in first sentence, substituted "1973" for "1965" wherever appearing, struck out "(i) $450, or (ii)" before "an amount equal to" in two places, and struck out ", whichever is greater," after "Internal Revenue Code of 1954" in two places, respectively.
 
@@ -79,7 +79,7 @@ Subsec. (c). Pub. L. 89–699 added subsec. (c).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–212 substituted pars. (1) to (5) for former pars. (1) and (2) which imposed an excise tax equal to 6¾ percent of so much of the compensation paid by such employer for services rendered to him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 7¼ percent of so much of the compensation paid by such employer for services rendered to him after Dec. 31, 1961, and inserted "and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended" wherever appearing.
 
-Subsec. (b). Pub. L. 89–97 substituted "the rate of the tax imposed with respect to wages by section 3111(a) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3111 as amended by the Social Security Amendments of 1956)" for "the rate of the tax imposed with respect to wages by section 3111 at such time exceeds the rate provided by paragraph (2) of such section 3111 as amended by the Social Security Amendments of 1956" and inserted "plus the rate imposed by section 3111(b)" after "section 3111(a)", respectively.
+Subsec. (b). Pub. L. 89–97 substituted "the rate of the tax imposed with respect to wages by section 3111(a) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3111 as amended by the Social Security Amendments of 1956)" for "the rate of the taximposed with respect to wages by section 3111 at such time exceeds the rate provided by paragraph (2) of such section 3111 as amended by the Social Security Amendments of 1956" and inserted "plus the rate imposed by section 3111(b)" after "section 3111(a)", respectively.
 
 <b>1963</b>—Subsec. (a). Pub. L. 88–133 limited the existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
@@ -111,7 +111,7 @@ Pub. L. 100–203, title IX, §9032(b), Dec. 22, 1987, 101 Stat. 1330–296, pro
 
 #### Effective and Termination Dates of 1983 Amendment
 
-Amendment by section 211(b) of Pub. L. 98–76 applicable to compensation paid for services rendered afterDec. 31, 1983, and before Jan. 1, 1985, see section 212 of Pub. L. 98–76, set out as a note under section 3201 of this title.
+Amendment by section 211(b) of Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, and before Jan. 1, 1985, see section 212 of Pub. L. 98–76, set out as a note under section 3201 of this title.
 
 Amendment by section 222 of Pub. L. 98–76 applicable to remuneration paid after Dec. 31, 1984, see section 227(a) of Pub. L. 98–76, set out as a note under section 3201 of this title.
 
@@ -157,7 +157,7 @@ Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Interna
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 

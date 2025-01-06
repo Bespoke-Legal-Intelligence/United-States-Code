@@ -6,31 +6,31 @@ It is the purpose of this section—
 
 &emsp;(1) to increase awareness, reduce barriers to screening and diagnosis, promote evidence-based interventions for individuals with autism spectrum disorder and other developmental disabilities, and train professionals to utilize valid and reliable screening tools to diagnose or rule out and provide evidence-based interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan; and
 
-&emsp;(2) to conduct activities under this section with a focus on an interdisciplinary approach (as defined in programs developed under section 501(a)(2) of the Social Security Act \[42U.S.C. 701(a)(2)\]) that will also focus on specific issues for children who are not receiving an early diagnosis and subsequent interventions.
+&emsp;(2) to conduct activities under this section with a focus on an interdisciplinary approach (as defined in programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) that will also focus on specific issues for children who are not receiving an early diagnosis and subsequent interventions.
 
 #### (b) In general
 
 The Secretary shall, subject to the availability of appropriations, establish and evaluate activities to—
 
-&emsp;(1) provide culturally competent information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
+&emsp;(1) provide culturally and linguistically appropriate information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
 
-&emsp;(2) promote research into the development and validation of reliable screening tools for individuals with autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
+&emsp;(2) promote research, which may include research that takes a community-based approach, into the development and validation of reliable screening and diagnostic tools for individuals with autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening and diagnostic tools;
 
-&emsp;(3) promote early screening of individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
+&emsp;(3) promote early screening of individuals at increased likelihood for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
 
-&emsp;(4) promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan;
+&emsp;(4) promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan, which may give consideration to the perspectives of parents and guardians;
 
 &emsp;(5) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
 
 &emsp;(6) increase the number of individuals able to provide evidence-based interventions for individuals diagnosed with autism spectrum disorder or other developmental disabilities; and
 
-&emsp;(7) promote the use of evidence-based interventions for individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable.
+&emsp;(7) promote the use of evidence-based interventions for individuals at increased likelihood for autism spectrum disorder and other developmental disabilities as early as practicable.
 
 #### (c) Information and education
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
+&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally and linguistically appropriate information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
 
 &emsp;&emsp;(A) Federal programs, including—
 
@@ -66,7 +66,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
+&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally and linguistically appropriate information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
 
 #### (B) Requirements of agency
 
@@ -116,9 +116,9 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (1) Training
 
-&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
+&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expand, and strengthen the capacity of, existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
 
-&emsp;&emsp;(A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand existing or develop new maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) in States that do not have such a program;
+&emsp;&emsp;(A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new, maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]);
 
 &emsp;&emsp;(B) trainees under such training programs—
 
@@ -130,9 +130,15 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities across their lifespan; and
 
-&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in section 300ii of this title); and
+&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in section 300ii of this title) or other providers, as applicable; and
 
-&emsp;&emsp;(C) program sites provide culturally competent services.
+&emsp;&emsp;(C) program sites—
+
+&emsp;&emsp;&emsp;(i) provide culturally and linguistically appropriate services;
+
+&emsp;&emsp;&emsp;(ii) take a multidisciplinary approach and have experience working with underserved populations; and
+
+&emsp;&emsp;&emsp;(iii) identify opportunities to partner with community-based organizations to expand the capacity of communities to serve individuals with autism spectrum disorder or other developmental disabilities.
 
 #### (2) Developmental-behavioral pediatrician training programs
 
@@ -146,7 +152,11 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(i) a health professional shortage area (as defined in section 254e(a)(1)(A) of this title); and
 
-&emsp;&emsp;&emsp;(ii) an urban or rural area designated by the Secretary as an area with a shortage of personal health services (as described in section 254b(b)(3)(A) of this title).
+&emsp;&emsp;&emsp;(ii) an urban or rural area designated by the Secretary as an area with a shortage ofpersonal health services (as described in section 254b(b)(3)(A) of this title).
+
+#### (C) Report
+
+&emsp;&emsp;Not later than 2 years after December 23, 2024, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that examines the need for, and feasibility of, expanding the developmental-behavioral pediatrician training programs described in subparagraph (A).
 
 #### (3) Technical assistance
 
@@ -158,13 +168,19 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (f) Intervention
 
-The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, anddisseminate information related to such research and guidelines.
+The Secretary shall promote research through grants or contracts, which may include grants or contracts to research centers or networks, to—
+
+&emsp;(1) develop and evaluate evidence-based practices and interventions to improve outcomes for individuals with autism spectrum disorder or other developmental disabilities by addressing physical and behavioral health and communication needs of such individuals across the lifespan;
+
+&emsp;(2) develop guidelines for such evidence-based practices and interventions; and
+
+&emsp;(3) disseminate information related to such evidence-based practices and interventions and guidelines.
 
 #### (g) Sunset
 
-This section shall not apply after September 30, 2024.
+This section shall not apply after September 30, 2029.
 
-(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823; amended Pub. L. 112–32, §2(2), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §4, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(b), Sept. 30, 2019, 133 Stat. 1111.)
+(July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823; amended Pub. L. 112–32, §2(2), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §4, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(b), Sept. 30, 2019, 133 Stat. 1111; Pub. L. 118–83, div. B, title II, §201(b), Sept. 26, 2024, 138 Stat. 1537; Pub. L. 118–180, §3(b), Dec. 23, 2024, 138 Stat. 2616.)
 
 #### <b>Editorial Notes</b>
 
@@ -181,6 +197,38 @@ The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(1). Pub. L. 118–180, §3(b)(1), substituted "culturally and linguistically appropriate information" for "culturally competent information".
+
+Subsec. (b)(2). Pub. L. 118–180, §3(b)(2), substituted "promote research, which may include research that takes a community-based approach," for "promote research" and, in two places, "screening and diagnostic tools" for "screening tools".
+
+Subsec. (b)(3). Pub. L. 118–180, §3(b)(3), substituted "at increased likelihood" for "at higher risk".
+
+Subsec. (b)(4). Pub. L. 118–180, §3(b)(4), inserted ", which may give consideration to the perspectives of parents and guardians" before semicolon at end.
+
+Subsec. (b)(7). Pub. L. 118–180, §3(b)(5), substituted "at increased likelihood" for "at higher risk".
+
+Subsec. (c)(1). Pub. L. 118–180, §3(b)(6), substituted "culturally and linguistically appropriate information" for "culturally competent information" in introductory provisions.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 118–180, §3(b)(7), substituted "culturally and linguistically appropriate information" for "culturally competent information".
+
+Subsec. (e)(1). Pub. L. 118–180, §3(b)(9)(A), inserted ", and strengthen the capacity of," after "expand" in introductory provisions.
+
+Pub. L. 118–180, §3(b)(8), which directed the amendment of subsec. (e)(1) "to read as follows" but was not followed by any text, was not given effect, to reflect the probable intent of Congress.
+
+Subsec. (e)(1)(A). Pub. L. 118–180, §3(b)(9)(B), substituted "expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new," for "expand existing or develop new" and struck out "in States that do not have such a program" before semicolon at end.
+
+Subsec. (e)(1)(B)(v). Pub. L. 118–180, §3(b)(9)(C), inserted "or other providers, as applicable" before "; and".
+
+Subsec. (e)(1)(C). Pub. L. 118–180, §3(b)(9)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "program sites provide culturally competent services."
+
+Subsec. (e)(2)(C). Pub. L. 118–180, §3(b)(10), added subpar. (C).
+
+Subsec. (f). Pub. L. 118–180, §3(b)(11), amended subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, and disseminate information related to such research and guidelines."
+
+Subsec. (g). Pub. L. 118–180, §3(b)(12), substituted "September 30, 2029" for "December 20, 2024".
+
+Pub. L. 118–83 substituted "December 20, 2024" for "September 30, 2024".
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–60, §3(b)(1), substituted "individuals with autism spectrum disorder and other developmental disabilities" for "individuals with autism spectrum disorder or other developmental disabilities" and "individuals with autism spectrum disorder and other developmental disabilities across their lifespan;" for "children with autism spectrum disorder and other developmental disabilities;".
 

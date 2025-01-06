@@ -26,7 +26,7 @@ Except as provided in subsection (b), amounts in the Fund shall be available onl
 
 #### (B) Notification to Congress
 
-&emsp;&emsp;Not later than 30 days after the date on which the Coast Guard obtains an advanceunder subparagraph (A), the Coast Guard shall notify Congress of—
+&emsp;&emsp;Not later than 30 days after the date on which the Coast Guard obtains an advance under subparagraph (A), the Coast Guard shall notify Congress of—
 
 &emsp;&emsp;&emsp;(i) the amount advanced; and
 
@@ -48,7 +48,7 @@ Except as provided in subsection (b), amounts in the Fund shall be available onl
 
 <b>2022</b>—Subsec. (b). Pub. L. 117–263 added subsec. (b) and struck out former subsec. (b) which related to exceptions.
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–212, which directed amendment of second sentence by inserting ": (1)" before "may obtain an advance from the Fund" and substituting "advance; (2) in the case of discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain one or more advances from the Oil Spill Liability Trust Fund as needed, up to a maximum of $100,000,000 for each advance, the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of the Internal Revenue Code of 1986 (26 U.S.C. 9509(c)(2)), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance; and (3) amounts" for "advance. Amounts", could not be executed because of prior amendment by Pub. L. 111–191. See below.
+<b>2010</b>—Subsec. (b). Pub. L. 111–212, which directed amendment of second sentence by inserting ": (1)" before "may obtain an advance from the Fund" and substituting "advance; (2) in the case of discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain one or more advances from the Oil Spill Liability Trust Fund as needed, up to a maximum of $100,000,000 for each advance, the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of the Internal Revenue Code of 1986 (26 U.S.C. 9509(c)(2)), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts andcircumstances necessitating the advance; and (3) amounts" for "advance. Amounts", could not be executed because of prior amendment by Pub. L. 111–191. See below.
 
 Pub. L. 111–191, in second sentence, inserted "(1)" after "Coast Guard" and "and (2) in the case of the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain 1 or more advances from the Fund as needed, up to a maximum of $100,000,000 for each advance, with the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of title 26, and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance" before period at end.
 

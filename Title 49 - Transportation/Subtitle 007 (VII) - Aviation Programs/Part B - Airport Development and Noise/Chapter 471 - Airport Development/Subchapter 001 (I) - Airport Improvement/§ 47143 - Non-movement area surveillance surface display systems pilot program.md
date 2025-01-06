@@ -14,7 +14,7 @@ Project Grants.—
 
 &emsp;(1)
 
-In general.—For purposes of carrying out the pilot program, the Administrator may make a project grant out of funds apportioned under paragraph (1) or paragraph (2) of section 47114(c) to not more than 5 eligible sponsors to acquire and install qualifying non-movement area surveillance surface display systems and sensors. The airports selected to participate in the pilot program shall have existing Administration movement area systems and airlines that are participants in Federal Aviation Administration's airport collaborative decision-making process.
+In general.—For purposes of carrying out the pilot program, the Administrator maymake a project grant out of funds apportioned under paragraph (1) or paragraph (2) of section 47114(c) to not more than 5 eligible sponsors to acquire and install qualifying non-movement area surveillance surface display systems and sensors. The airports selected to participate in the pilot program shall have existing Administration movement area systems and airlines that are participants in Federal Aviation Administration's airport collaborative decision-making process.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Data exchange processes.—As part of the pilot program carried out under this s
 
 (c)
 
-Sunset.—This section shall cease to be effective on March 9, 2024.
+Sunset.—This section shall cease to be effective on October 1, 2028.
 
 (d)
 
@@ -46,11 +46,15 @@ Qualifying non-movement area surveillance surface display system and sensors.—
 
 &emsp;&emsp;(C) is airport operated.
 
-(Added Pub. L. 115–254, div. B, title I, §140(a), Oct. 5, 2018, 132 Stat. 3210; amended Pub. L. 118–15, div. B, title II, §2202(i), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(i), Dec. 26, 2023, 137 Stat. 1113.)
+(Added Pub. L. 115–254, div. B, title I, §140(a), Oct. 5, 2018, 132 Stat. 3210; amended Pub. L. 118–15, div. B, title II, §2202(i), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(i), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, §102(i), Mar. 8, 2024, 138 Stat. 21; Pub. L. 118–63, title VII, §724, May 16, 2024, 138 Stat. 1267.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–63 substituted "October 1, 2028" for "May 11, 2024".
+
+Pub. L. 118–41 substituted "May 11, 2024" for "March 9, 2024".
 
 <b>2023</b>—Subsec. (c). Pub. L. 118–34 substituted "March 9, 2024" for "January 1, 2024".
 

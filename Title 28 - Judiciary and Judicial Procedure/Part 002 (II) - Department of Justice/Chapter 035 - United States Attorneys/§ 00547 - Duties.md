@@ -40,7 +40,7 @@ This section consolidates provisions of the sections enumerated above.
 
 Other provisions of section 312 of title 5, U.S.C., 1940 ed., are incorporated in sections 503 \[now 543\] and 508 \[now 548\] of this title.
 
-All requirements in said sections for reports to officers other than the Attorney General are omitted as unnecessary and are simplified in subsection (a)(5) of this section. The Attorney General directs the courseof litigation in government cases and makes appropriate rules for furnishing information promptly to the Departments interested.
+All requirements in said sections for reports to officers other than the Attorney General are omitted as unnecessary and are simplified in subsection (a)(5) of this section. The Attorney General directs the course of litigation in government cases and makes appropriate rules for furnishing information promptly to the Departments interested.
 
 Specific duties fixed by sections 485—489 of title 28, U.S.C., 1940 ed., and the second paragraph of section 305e of title 25, U.S.C., 1940 ed., to prosecute and defend both civil and criminal proceedings, are covered in subsections (a)(1)–(4) of this section.
 

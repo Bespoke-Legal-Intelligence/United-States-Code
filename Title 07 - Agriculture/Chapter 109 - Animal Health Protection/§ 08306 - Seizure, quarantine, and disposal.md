@@ -54,7 +54,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (C) Notice after action
 
-&emsp;&emsp;If it is not practicable to publish in the Federal Register the information requiredunder subparagraph (B)(iii) before taking action under subparagraph (A), the Secretary shall publish the information as soon as practicable, but not later than 10 business days, after commencement of the action.
+&emsp;&emsp;If it is not practicable to publish in the Federal Register the information required under subparagraph (B)(iii) before taking action under subparagraph (A), the Secretary shall publish the information as soon as practicable, but not later than 10 business days, after commencement of the action.
 
 #### (c) Quarantine, disposal, or other remedial action
 

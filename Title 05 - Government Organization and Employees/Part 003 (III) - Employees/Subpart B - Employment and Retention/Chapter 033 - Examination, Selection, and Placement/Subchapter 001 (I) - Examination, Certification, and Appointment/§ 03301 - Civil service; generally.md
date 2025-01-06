@@ -232,7 +232,7 @@ Ex. Ord. No. 8743, Apr. 23, 1941, as amended by Ex. Ord. No. 9230, Aug. 20, 1942
 
 By virtue of the authority vested in me by section 1 of the act of November 26, 1940, entitled "Extending the Classified Executive Civil Service of the United States" (54 Stat. 1211), by the Civil Service Act (22 Stat. 403), and by section 1753 of the Revised Statutes of the United States \[sections 3301 and 7301 of this title\], it is hereby ordered as follows:
 
-Section 1. All offices and positions in the executive civil service of the United States except (1) those that are temporary, (2) those expressly excepted from the provisions of section 1 of the said act of November 26, 1940, (3) those excepted from the classified service under Schedules A and B of the Civil Service Rules, and (4) those which now have a classified status, are hereby covered into the classified civil service of the Government.
+Section 1. All offices and positions in the executive civil service of the United States except (1) those thatare temporary, (2) those expressly excepted from the provisions of section 1 of the said act of November 26, 1940, (3) those excepted from the classified service under Schedules A and B of the Civil Service Rules, and (4) those which now have a classified status, are hereby covered into the classified civil service of the Government.
 
 Section 2. Section 1 of this order shall become effective on January 1, 1942, except that as to positions affected thereby which are vacant at any time after June 30, 1941, and before January 1, 1942, it shall become effective when the vacancies first exist during such period, and appointments to such vacant positions shall be made in accordance with the Civil Service Rules as amended by section 3 of this order, unless prior express permission is given by the Office of Personnel Management for appointment without regard thereto.
 
@@ -246,7 +246,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (e) The Office shall in the manner determined by the Board establish a register or registers for attorney positions in the classified service and such positions shall thereafter be filled from such registers as are designated by the Board. Unless otherwise determined by the Board, any register so established shall not be in effect for a period longer than one year from the date of its establishment. Upon request of the Board, the Office shall appoint regional or local boards of examiners composed of persons approved by the Board, within or without the Federal service, to interview and examine applicants as the Board shall direct.
 
-(f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratingsreceived by the eligibles, except that persons entitled to veterans' preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
+(f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratings received by the eligibles, except that persons entitled to veterans' preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
 
 (g) Any person whose name has been placed upon three registers of eligibles covering positions of the same grade, and who has not been appointed therefrom, shall not thereafter be eligible for placement upon any subsequently established register covering positions of such grade.
 
@@ -380,7 +380,7 @@ Sec. 2. For the purposes of Section 1—
 
 (1) "full-time continuous service" means service without a break of more than 30 calendar days;
 
-(2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United Statesshall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 days after he shall have been discharged from the Armed Forces under honorable conditions; and
+(2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United States shall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 days after he shall have been discharged from the Armed Forces under honorable conditions; and
 
 (3) active service in the Armed Forces shall not be deemed to be full-time continuous service in a position concerned with the protective function if such active service exceeds a total of four years plus any period of additional service imposed pursuant to law.
 
@@ -632,7 +632,7 @@ Sec. 3. <i>Noncompetitive Appointment Authority</i>. Consistent with the policy 
 
 (c) the unremarried widow or widower of a member of the Armed Forces killed while performing active duty.
 
-Sec. 4. <i>Administrative Provisions</i>. The heads of agencies shall employ, as appropriate, appointment authority available to them, in addition to the authority granted by section 3 of this order, to carry out the policy set forth in section 1.
+Sec. 4. <i>Administrative Provisions</i>. The heads of agencies shall employ, as appropriate, appointment authorityavailable to them, in addition to the authority granted by section 3 of this order, to carry out the policy set forth in section 1.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -828,7 +828,7 @@ Sec. 4. <i>Recent Graduates Program</i>. The Recent Graduates Program shall prov
 
 Sec. 5. <i>Presidential Management Fellows Program</i>. The Presidential Management Fellows (PMF) Program is an existing program established pursuant to Executive Order 13318 of November 21, 2003, that aims to attract to the Federal service outstanding men and women from a variety of academic disciplines at the graduate level who have a clear interest in, and commitment to, the leadership and management of public policies and programs. The following requirements shall govern the PMF Program upon the revocation of Executive Order 13318, as provided in section 8 of this order:
 
-(a) Participants in this program shall continue to be known as Presidential Management Fellows (PMFs orFellows) and must have received, within the preceding 2 years, a qualifying advanced degree, as determined by OPM.
+(a) Participants in this program shall continue to be known as Presidential Management Fellows (PMFs or Fellows) and must have received, within the preceding 2 years, a qualifying advanced degree, as determined by OPM.
 
 (b) Responsibilities assigned to a PMF shall be consistent with the PMF's qualifications, educational background, and career interests, the purposes of the PMF Program, and agency needs.
 
@@ -870,7 +870,7 @@ Sec. 8. <i>Prior Executive Orders</i>. (a) Effective March 1, 2011, Executive Or
 
 (b) On the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program, Executive Order 12015 (pursuant to which the Student Career Experience Program was established), as amended, is superseded and revoked.
 
-(c) On the effective date of final regulations promulgated by the Director of OPM to implement changes to the PMF Program required by this order, Executive Order 13318 (Presidential Management Fellows Program), as amended, is superseded and revoked.
+(c) On the effective date of final regulations promulgated by the Director of OPM to implement changes tothe PMF Program required by this order, Executive Order 13318 (Presidential Management Fellows Program), as amended, is superseded and revoked.
 
 Sec. 9. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
@@ -912,7 +912,7 @@ Ex. Ord. No. 13704, Aug. 17, 2015, 80 F.R. 50751, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is in the national interest for the Federal Government to attract the brightest minds skilled in technology or innovative practices to serve in the Federal Government to work on some of the Nation's biggest and most pressing challenges. This order establishes a program to encourage successful entrepreneurs, executives, and innovators to join the Federal Government and work in close cooperation withFederal Government leaders, to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the Federal Government serves the American people.
+Section 1. <i>Policy</i>. It is in the national interest for the Federal Government to attract the brightest minds skilled in technology or innovative practices to serve in the Federal Government to work on some of the Nation's biggest and most pressing challenges. This order establishes a program to encourage successful entrepreneurs, executives, and innovators to join the Federal Government and work in close cooperation with Federal Government leaders, to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the Federal Government serves the American people.
 
 Sec. 2. <i>Establishment and Administration</i>. (a) The Administrator of General Services (Administrator) shall establish the Presidential Innovation Fellows Program (Program) to enable exceptional individuals with proven track records to serve time-limited appointments in executive branch departments and agencies (agencies) to address some of the Nation's most significant challenges and improve existing Government efforts that would particularly benefit from expertise using innovative techniques and technology. Individuals selected for the Program shall be known as Presidential Innovation Fellows (Fellows).
 
@@ -936,7 +936,7 @@ Sec. 5. <i>Selection, Appointment, and Assignment of Fellows</i>. (a) The Direct
 
 (c) The Fellows shall serve under short-term, time-limited appointments. As a general matter, they shall be appointed for no less than 6 months and no longer than 2 years in the Program. The Director shall facilitate the process of placing Fellows at requesting agencies and executive branch departments.
 
-Sec. 6. <i>Responsibilities of Agencies</i>. Each executive branch department or agency, as defined in section 105 of title 5, United States Code, is encouraged to work with the Director and Advisory Board to attempt to maximize the Program's benefits to the department or agency and the Federal Government, including by identifying initiatives that will have a meaningful effect on the people served and that will benefit from involvement by one or more Fellows. Departments and agencies also are encouraged to ensure that each Fellow will work closely with responsible senior officials for the duration of the assignment.
+Sec. 6. <i>Responsibilities of Agencies</i>. Each executive branch department or agency, as defined in section 105 of title 5, United States Code, is encouraged to work with the Director and Advisory Board to attempt to maximize the Program's benefits to the department oragency and the Federal Government, including by identifying initiatives that will have a meaningful effect on the people served and that will benefit from involvement by one or more Fellows. Departments and agencies also are encouraged to ensure that each Fellow will work closely with responsible senior officials for the duration of the assignment.
 
 Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -994,7 +994,7 @@ Ex. Ord. No. 13750, Nov. 29, 2016, 81 F.R. 87393, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The Federal Government benefits from a workforce that can be recruited from the broadest and deepest pools of qualified candidates for our highly competitive, merit-based positions. The issuance of an order granting Non-Competitive Eligibility (NCE) to certain alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship (CLS) Program, all of which are academic exchange programs carried out under the authorities of the Mutual Educational and Cultural Exchange Act of 1961, Public Law 87–256, as amended, also known as the Fulbright-Hays Act, and the International Academic Opportunity Act of 2000, title III of Public Law 106–309, would be in the best interest of the Federal Government. Participants in these programs develop advanced- to superior-level skills in languages and cultural competence in regions that are strategically, diplomatically, and economically important to the United States. It is in the interest of the Federal Government to retain the services of these highly skilled individuals, particularly given that the Federal Government aided them in the acquisition of their skills. Participants in the Fulbright, Gilman, and CLS programs are drawn from highly competitive, merit-based national selection processes to which a veterans' preference applies to ensure that the most qualified individuals are selected.
+Section 1. <i>Policy</i>. The Federal Government benefits from a workforce that can be recruited from the broadest and deepest pools of qualified candidates for our highly competitive, merit-based positions. Theissuance of an order granting Non-Competitive Eligibility (NCE) to certain alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship (CLS) Program, all of which are academic exchange programs carried out under the authorities of the Mutual Educational and Cultural Exchange Act of 1961, Public Law 87–256, as amended, also known as the Fulbright-Hays Act, and the International Academic Opportunity Act of 2000, title III of Public Law 106–309, would be in the best interest of the Federal Government. Participants in these programs develop advanced- to superior-level skills in languages and cultural competence in regions that are strategically, diplomatically, and economically important to the United States. It is in the interest of the Federal Government to retain the services of these highly skilled individuals, particularly given that the Federal Government aided them in the acquisition of their skills. Participants in the Fulbright, Gilman, and CLS programs are drawn from highly competitive, merit-based national selection processes to which a veterans' preference applies to ensure that the most qualified individuals are selected.
 
 Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that is drawn from all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
@@ -1012,7 +1012,7 @@ Sec. 7. The Office of Personnel Management is authorized to issue such additiona
 
 Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
-(i) the authority granted by law to an executive department, agency, or the head thereof, or the status ofthat department or agency within the Federal Government; or
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
 
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
@@ -1160,7 +1160,7 @@ Section 1. <i>Policy</i>. Career civil servants are the backbone of the Federal 
 
 Sec. 2. <i>Revocation of Schedule F</i>. (a) The creation of a new Schedule F excepted service category in Executive Order 13957 of October 21, 2020 (Creating Schedule F in the Excepted Service) \[formerly set out above\], not only was unnecessary to the conditions of good administration, but also undermined the foundations of the civil service and its merit system principles, which were essential to the Pendleton Civil Service Reform Act of 1883's \[22 Stat. 403\] repudiation of the spoils system. Accordingly, to enhance the efficiency of the civil service and to promote good administration and systematic application of merit system principles, Executive Order 13957 is hereby revoked.
 
-(b) The heads of all executive departments and agencies (agencies) shall, consistent with law, immediately suspend, revise, or rescind proposed actions, decisions, petitions, rules, regulations or other guidance pursuant to, or to effectuate, Executive Order 13957. The Director of the Office of Personnel Management (OPM) shall immediately cease processing or granting any petitions that seek to convert positions to Schedule F or to create new positions in Schedule F.
+(b) The heads of all executive departments and agencies (agencies) shall, consistent with law, immediately suspend, revise, or rescind proposed actions, decisions,petitions, rules, regulations or other guidance pursuant to, or to effectuate, Executive Order 13957. The Director of the Office of Personnel Management (OPM) shall immediately cease processing or granting any petitions that seek to convert positions to Schedule F or to create new positions in Schedule F.
 
 Sec. 3. <i>Revocation of Certain Presidential and Regulatory Actions</i>. (a) Executive Order 13836 of May 25, 2018 (Developing Efficient, Effective, and Cost-Reducing Approaches to Federal Sector Collective Bargaining) \[former 5 U.S.C. 7101 note\], is hereby revoked. The Interagency Labor Relations Working Group is hereby disbanded and the Director of OPM shall withdraw all materials issued by this working group that are inconsistent with the policy set forth in section 1 of this order.
 

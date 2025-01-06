@@ -1,6 +1,6 @@
 ### §550. Liability of transferee of avoided transfer
 
-(a) Except as otherwise provided in this section, to the extent that a transfer is avoided under section 544, 545, 547, 548, 549, 553(b), or 724(a) of this title, the trustee may recover, for the benefit of the estate, the property transferred, or, if the court so orders, the value of such property, from—
+(a) Except as otherwise provided in this section, to the extent that a transfer is avoidedunder section 544, 545, 547, 548, 549, 553(b), or 724(a) of this title, the trustee may recover, for the benefit of the estate, the property transferred, or, if the court so orders, the value of such property, from—
 
 &emsp;(1) the initial transferee of such transfer or the entity for whose benefit such transfer was made; or
 
@@ -78,7 +78,7 @@ Subsec. (d)(1)(A). Pub. L. 98–353, §465(b)(1), inserted "or accruing to" afte
 
 Subsec. (d)(1)(B). Pub. L. 98–353, §465(b)(2), substituted "the value of such property" for "value".
 
-Subsec. (d)(2)(D). Pub. L. 98–353, §465(b)(3), substituted "payment of any debt secured by a lien onsuch property that is superior or equal to the rights of the trustee; and" for "payment of any debt secured by a lien on such property."
+Subsec. (d)(2)(D). Pub. L. 98–353, §465(b)(3), substituted "payment of any debt secured by a lien on such property that is superior or equal to the rights of the trustee; and" for "payment of any debt secured by a lien on such property."
 
 Subsec. (d)(2)(E), (F). Pub. L. 98–353, §465(b)(3), (4), struck out subpar. (E) "discharge of any lien against such property that is superior or equal to the rights of the trustee; and" and redesignated subpar. (F) as (E).
 

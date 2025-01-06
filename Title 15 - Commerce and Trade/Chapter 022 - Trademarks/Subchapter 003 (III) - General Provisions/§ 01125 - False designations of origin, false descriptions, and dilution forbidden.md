@@ -22,7 +22,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 #### (1) Injunctive relief
 
-&emsp;Subject to the principles of equity, the owner of a famous mark that is distinctive, inherently or through acquired distinctiveness, shall be entitled to an injunction against another person who, at any time after the owner's mark has become famous, commences use of a mark or trade name in commerce that is likely to cause dilution by blurring or dilution by tarnishment of the famous mark, regardless of the presence or absence of actual or likely confusion, of competition, or of actual economic injury.
+&emsp;Subject to the principles of equity, the owner of a famous mark that is distinctive, inherently or through acquired distinctiveness, shall be entitled to an injunction against another person who, at any time after the owner's mark has become famous, commences useof a mark or trade name in commerce that is likely to cause dilution by blurring or dilution by tarnishment of the famous mark, regardless of the presence or absence of actual or likely confusion, of competition, or of actual economic injury.
 
 #### (2) Definitions
 
@@ -102,7 +102,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 #### (d) Cyberpiracy prevention
 
-(1)(A) A person shall be liable in a civil action by the owner of a mark, including a personal name which is protected as a mark under this section, if, without regard to the goods or services of the parties, that person—
+(1)(A) A person shall be liable in a civil action by the owner of a mark, including a personalname which is protected as a mark under this section, if, without regard to the goods or services of the parties, that person—
 
 &emsp;(i) has a bad faith intent to profit from that mark, including a personal name which is protected as a mark under this section; and
 
@@ -164,7 +164,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(ii) documents sufficient to establish control and authority regarding the disposition of the registration and use of the domain name are deposited with the court.
 
-(D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
+(D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United Statesdistrict court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
 
 &emsp;(I) expeditiously deposit with the court documents sufficient to establish the court's control and authority regarding the disposition of the registration and use of the domain name to the court; and
 
@@ -250,7 +250,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3006\], Nov. 29, 1999, 11
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal Election Commission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—
+In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal ElectionCommission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—
 
 &emsp;"(1) protecting personal names from registration by another person as a second level domain name for purposes of selling or otherwise transferring such domain name to such other person or any third party for financial gain;
 

@@ -92,11 +92,11 @@ Subsec. (c). Pub. L. 106–65, §661(a)(3)(C), designated existing provisions as
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–84, §2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: "The amendments made by this section \[amending this section and section 8433 of this title\] shall take effect on the date on which the regulations prescribed under subsection (f) \[section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433of this title\] take effect \[Sept. 15, 2019; see 84 F.R. 46419\]."
+Pub. L. 115–84, §2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: "The amendments made by this section \[amending this section and section 8433 of this title\] shall take effect on the date on which the regulations prescribed under subsection (f) \[section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433 of this title\] take effect \[Sept. 15, 2019; see 84 F.R. 46419\]."
 
 #### Effective Date of 2015 Amendment; Implementation
 
-Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of this title.
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section635 of Pub. L. 114–92, set out as a note under section 8432 of this title.
 
 #### Effective Date of 1999 Amendment
 

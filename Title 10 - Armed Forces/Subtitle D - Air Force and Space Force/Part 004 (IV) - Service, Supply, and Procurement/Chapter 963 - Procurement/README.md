@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[9531. | Repealed.\] |
+| [9531\.](%C2%A7%2009531%20-%20Commercial%20Augmentation%20Space%20Reserve.1.md) | Commercial Augmentation Space Reserve. |
 | [9532\.](%C2%A7%2009532%20-%20Factories%2C%20arsenals%2C%20and%20depots%20manufacture%20at.md) | Factories, arsenals, and depots: manufacture at. |
 | \[9534, 9535. Repealed.\] |  |
 | [9536\.](%C2%A7%2009536%20-%20Equipment%20bakeries%2C%20schools%2C%20kitchens%2C%20and%20mess%20halls.md) | Equipment: bakeries, schools, kitchens, and mess halls. |
@@ -15,6 +15,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §1602(a), Dec. 23, 2024, 138 Stat. 2158, added item 9531. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 933 of this title as this chapter.
 
@@ -140,7 +142,7 @@ Review.—In carrying out subsection (a), the Secretary of the Air Force shall�
 
 "(d)
 
-Report.—Not later than March 1, 2023, the Secretary of the Air Force shall submit to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a report that includes—
+Report.—Not later than March 1, 2023, the Secretary of the Air Force shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
 
 &emsp;"(1) an analysis of specific digital engineering and software tool capability manufacturers that deliver high mission impact with broad reach into the weapon system enterprise of the Department of the Air Force; and
 
@@ -178,7 +180,7 @@ Oversight of Tests.—The Director of Operational Test and Evaluation shall—
 
 Outcome-based Actions Required.—If the Director of Operational Test and Evaluation and the Director of the Air Force Rapid Capabilities Office affirm that the demonstrations and tests under subsection (a) confirm that certain commercial electronics technology could enable one or more of the capabilities described in such subsection—
 
-&emsp;"(1) not later than 45 days after the conclusion of the tests under subsection (a), the Director of the Air Force Rapid Capabilities Office and the Director of Operational Test and Evaluation shall jointly provide to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a briefing on the outcomes of the tests;
+&emsp;"(1) not later than 45 days after the conclusion of the tests under subsection (a), the Director of the Air Force Rapid Capabilities Office and the Director of Operational Test and Evaluation shall jointly provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the outcomes of the tests;
 
 &emsp;"(2) the Director of the Air Force Rapid Capabilities Office may begin engineering form, fit, and function development and integration to incorporate technologies demonstrated and tested under subsection (a) into specific Department of Defense platforms and applications; and
 
@@ -205,7 +207,7 @@ Commercial Electronics Technology Defined.—The term 'commercial electronics te
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09531 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;823(2), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2009531%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7823%282%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
+- [&sect; 09531 - Commercial Augmentation Space Reserve.1](%C2%A7%2009531%20-%20Commercial%20Augmentation%20Space%20Reserve.1.md)
 - [&sect; 09532 - Factories, arsenals, and depots manufacture at](%C2%A7%2009532%20-%20Factories%2C%20arsenals%2C%20and%20depots%20manufacture%20at.md)
 - [&sect; 09534, 9535 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;823(4), (5), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2009534%2C%209535%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7823%284%29%2C%20%285%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
 - [&sect; 09536 - Equipment bakeries, schools, kitchens, and mess halls](%C2%A7%2009536%20-%20Equipment%20bakeries%2C%20schools%2C%20kitchens%2C%20and%20mess%20halls.md)

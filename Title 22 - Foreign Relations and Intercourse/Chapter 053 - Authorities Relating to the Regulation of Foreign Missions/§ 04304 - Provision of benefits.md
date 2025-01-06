@@ -16,7 +16,7 @@ If the Secretary determines that such action is reasonably necessary on the basi
 
 &emsp;(4) to assist in resolving a dispute affecting United States interests and involving a foreign mission or sending State, or
 
-&emsp;(5) subject to subsection (f), to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
+&emsp;(5) subject to subsection (f), to implement an exchange of property between the Governmentof the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
 
 > then the Secretary may require a foreign mission (A) to obtain benefits from or through the Secretary on such terms and conditions as the Secretary may approve, or (B) to forego the acceptance, use, or relation of any benefit or to comply with such terms and conditions as the Secretary may determine as a condition to the execution or performance in the United States of any contract or other agreement, the acquisition, retention, or use of any real property, or the application for or acceptance of any benefit (including any benefit from or authorized by any Federal, State, or municipal governmental authority, or any entity providing public services).
 
@@ -84,7 +84,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1985 Amendment
 

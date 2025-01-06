@@ -6,7 +6,7 @@ Not later than 1 year after December 29, 2022, the Secretary shall initiate a pr
 
 #### (b) Designation process
 
-The Secretary shall establish a process for the designation under this section of methods of manufacturing drugs, including biological products, and active pharmaceutical ingredients of such drugs, as advanced manufacturing technologies. A method of manufacturing, or a combination of manufacturing methods, is eligible for designation as an advanced manufacturing technology if such method or combination of methods incorporates a novel technology, or uses an established technique or technology in a novel way, that will substantially improve the manufacturing process for a drug while maintaining equivalent, or providing superior, drug quality, including by—
+The Secretary shall establish a process for the designation under this section of methods of manufacturing drugs, including biological products, and active pharmaceutical ingredients of such drugs, as advanced manufacturing technologies. A method of manufacturing, or a combination of manufacturing methods, is eligible for designation as an advanced manufacturing technology if such method or combination of methods incorporates a novel technology, or uses an established technique or technology in anovel way, that will substantially improve the manufacturing process for a drug while maintaining equivalent, or providing superior, drug quality, including by—
 
 &emsp;(1) reducing development time for a drug using the designated manufacturing method; or
 
@@ -82,7 +82,7 @@ If the Secretary designates a method of manufacturing as an advanced manufacturi
 
 &emsp;&emsp;(D) An analysis of the factors in data submissions that result in determinations to designate and not to designate after evaluation under subsection (c)(2).
 
-&emsp;&emsp;(E) The number of applications received under section 355 of this title or section 262 of title 42, including supplemental applications, that have included an advanced manufacturing technology designated under this section, and the number of such applications approved.
+&emsp;&emsp;(E) The number of applications received under section 355 of this title or section 262of title 42, including supplemental applications, that have included an advanced manufacturing technology designated under this section, and the number of such applications approved.
 
 #### (f) Sunset
 

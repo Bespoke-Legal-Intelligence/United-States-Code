@@ -48,7 +48,7 @@ In general.—If the original information that a whistleblower provided to the S
 
 &emsp;(2)
 
-Payment of awards.—Any amount payable under paragraph (1) shall be paid from themonetary sanctions collected, and any monetary sanctions so collected shall be available for such payment.
+Payment of awards.—Any amount payable under paragraph (1) shall be paid from the monetary sanctions collected, and any monetary sanctions so collected shall be available for such payment.
 
 (c)
 

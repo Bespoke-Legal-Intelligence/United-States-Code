@@ -24,13 +24,19 @@ Disposing of Interests Not Conveyed Under This Subchapter.—An interest in surp
 
 (d)
 
-Waiver of Condition.—Before the Secretary may waive any condition imposed on an interest in surplus property conveyed under subsection (a) that such interest be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such condition.
+Waiver of Condition.—The Secretary may not waive any condition imposed on an interest in surplus property conveyed under subsection (a) that such interest be used for an aeronautical purpose unless the Secretary provides public notice not less than 30 days before the issuance of such waiver and determines that such waiver—
+
+&emsp;(1) will not significantly impair the aeronautical purpose of an airport;
+
+&emsp;(2) will not result in the permanent closure of an airport (unless the Secretary determines that the waiver will directly facilitate the construction of a replacement airport); or
+
+&emsp;(3) is necessary to protect or advance the civil aviation interests of the United States.
 
 (e)
 
 Requests by Public Agencies.—Except with respect to a request made by another department, agency, or instrumentality of the executive branch of the United States Government, such a department, agency, or instrumentality shall give priority consideration to a request made by a public agency (as defined in section 47102) for surplus property described in subsection (a) for use at a public airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278; Pub. L. 106–181, title I, §§125(c), 135(d)(1), 136, Apr. 5, 2000, 114 Stat. 75, 84, 85; Pub. L. 112–95, title I, §152(f), Feb. 14, 2012, 126 Stat. 34.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278; Pub. L. 106–181, title I, §§125(c), 135(d)(1), 136, Apr. 5, 2000, 114 Stat. 75, 84, 85; Pub. L. 112–95, title I, §152(f), Feb. 14, 2012, 126 Stat. 34; Pub. L. 118–63, title VII, §719(b)(1), May 16, 2024, 138 Stat. 1261.)
 
 Historical and Revision Notes
 
@@ -70,7 +76,7 @@ Oct. 1, 1949, ch. 589, §3, 63 Stat. 700; Aug. 23, 1958, Pub. L. 85–726, §140
 
 Oct. 3, 1944, ch. 479, 58 Stat. 765, §13(g)(5), (6); added July 30, 1947, ch. 404, §2, 61 Stat. 680.
 
-In subsection (a), before clause (1), the words "Notwithstanding any other provision of this Act" are omitted as surplus. The words "Subject to sections 47152 and 47153 of this title" are substituted for "but subject tothe terms, conditions, reservations, and restrictions hereinafter provided for" to eliminate unnecessary words. The words "a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation" are substituted for "any disposal agency designated pursuant to this Act" for clarity because disposal agencies were Government agencies designated under 50 App.:1619(a), that was repealed by section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399), and Government agencies were all departments, agencies, and instrumentalities of the executive branch of the United States Government and wholly owned Government corporations. The word "give" is substituted for "convey or dispose of . . . without monetary consideration to the United States", to eliminate unnecessary words. The word "municipality" is omitted as being included in "political subdivision". The words "of a State" are added for clarity and consistency in the revised title and with other titles of the United States Code. The word "organization" is substituted for "institution" for consistency in the revised title. The words "all of the right, title, and . . . of the United States . . . and to . . . real or personal" are omitted as surplus. In clause (1)(A), the words "essential, suitable, or" are omitted as surplus. In clause (1)(B), the words "of the grantee" are omitted as surplus. In clause (2), the words "Administrator of General Services" are substituted for "\[War Assets\] Administrator" in section 13(g)(1) of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) because of section 105 of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 381). The words "and decides the interest is not best suited for industrial use" are substituted for "(exclusive of property the highest and best use of which is determined by the Administrator of General Services to be industrial and which shall be so classified for disposal without regard to the provisions of this subsection)" to eliminate unnecessary words.
+In subsection (a), before clause (1), the words "Notwithstanding any other provision of this Act" are omitted as surplus. The words "Subject to sections 47152 and 47153 of this title" are substituted for "but subject to the terms, conditions, reservations, and restrictions hereinafter provided for" to eliminate unnecessary words. The words "a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation" are substituted for "any disposal agency designated pursuant to this Act" for clarity because disposal agencies were Government agencies designated under 50 App.:1619(a), that was repealed by section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399), and Government agencies were all departments, agencies, and instrumentalities of the executive branch of the United States Government and wholly owned Government corporations. The word "give" is substituted for "convey or dispose of . . . without monetary consideration to the United States", to eliminate unnecessary words. The word "municipality" is omitted as being included in "political subdivision". The words "of a State" are added for clarity and consistency in the revised title and with other titles of the United States Code. The word "organization" is substituted for "institution" for consistency in the revised title. The words "all of the right, title, and . . . of the United States . . . and to . . . real or personal" are omitted as surplus. In clause (1)(A), the words "essential, suitable, or" are omitted as surplus. In clause (1)(B), the words "of the grantee" are omitted as surplus. In clause (2), the words "Administrator of General Services" are substituted for "\[War Assets\] Administrator" in section 13(g)(1) of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) because of section 105 of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 381). The words "and decides the interest is not best suited for industrial use" are substituted for "(exclusive of property the highest and best use of which is determined by the Administrator of General Services to be industrial and which shall be so classified for disposal without regard to the provisions of this subsection)" to eliminate unnecessary words.
 
 Subsection (b) is substituted for 50 App.:1622b to eliminate unnecessary words.
 
@@ -79,6 +85,8 @@ In subsection (c), the text of 50 App.:1622(g)(5) is omitted as obsolete because
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (d). Pub. L. 118–63 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Before the Secretary may waive any condition imposed on an interest in surplus property conveyed under subsection (a) that such interest be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such condition."
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–95 struck out "(other than real property that is subject to section 2687 of title 10, section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act (10 U.S.C. 2687 note), or section 2905 of the Defense Base Closure and Realignment Act of 1990 (10 U.S.C. 2687 note))" after "subsection (a)".
 

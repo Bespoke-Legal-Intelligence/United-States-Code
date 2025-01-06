@@ -74,7 +74,7 @@ Pub. L. 116–92, §6742(b)(2)(B), realigned margin.
 
 Subsec. (b)(2)(E). Pub. L. 108–177 added subpar. (E).
 
-<b>2001</b>—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "The Director of the Office of Nonproliferation and National Security of the Department of Energy.".
+<b>2001</b>—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "The Director of the Office of Nonproliferation and National Security of the Department of Energy."
 
 <b>1996</b>—Pub. L. 104–293 amended section generally, substituting provisions relating to appointment of individuals responsible for intelligence-related activities for provisions relating to administrative provisions pertaining to defense elements within the intelligence community.
 

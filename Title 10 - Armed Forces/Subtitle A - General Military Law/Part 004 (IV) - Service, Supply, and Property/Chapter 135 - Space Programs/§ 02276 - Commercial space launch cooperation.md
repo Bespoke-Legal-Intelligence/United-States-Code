@@ -54,7 +54,7 @@ Requirements with respect to agreements.—An agreement entered into with a cove
 
 &emsp;&emsp;(A) shall address the terms of use, ownership, and disposition of the funds, services, or equipment contributed pursuant to the agreement; and
 
-&emsp;&emsp;(B) shall include a provision that the covered entity will not recover the costs of itscontribution through any other agreement with the United States.
+&emsp;&emsp;(B) shall include a provision that the covered entity will not recover the costs of its contribution through any other agreement with the United States.
 
 (d)
 
@@ -130,11 +130,31 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### National Security Space Launch Program
 
-Pub. L. 117–81, div. A, title XVI, §1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, provided that:
+Pub. L. 118–159, div. A, title XVI, §1605(b), (c), Dec. 23, 2024, 138 Stat. 2161, provided that:
 
 "(b)
 
-Policy.—With respect to entering into contracts for launch services during the period beginning on the date of the enactment of this Act \[Dec. 27, 2021\] and ending September 30, 2024, it shall be the policy of the Department of Defense and the National Reconnaissance Office to—
+Notification of Changes in Phase Three Acquisition Strategy.—Not later than seven days before implementing any modification to the final phase three acquisition strategy under the National Security Space Launch program, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall submit to the appropriate congressional committees notice of the proposed modification together with an explanation of the reasons for such modification.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the congressional intelligence committees (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)).
+
+&emsp;"(2) The term 'final phase three acquisition strategy' means the acquisition strategy for phase three of the National Security Space Launch program, as approved by the Assistant Secretary of the Air Force for Space Acquisition and Integration on March 4, 2024.
+
+&emsp;"(3) The term 'phase three' has the meaning given that term in section 1601(e) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 118–71 \[probably should be 117–81\]; 10 U.S.C. 2276 note) \[set out below\]."
+
+Pub. L. 117–81, div. A, title XVI, §1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, as amended by Pub. L. 118–159, div. A, title XVI, §1605(a), Dec. 23, 2024, 138 Stat. 2161, provided that:
+
+"(b)
+
+Policy.—With respect to entering into contracts for launch services during the period beginning on the date of the enactment of this Act \[Dec. 27, 2021\] and ending September 30, 2029, it shall be the policy of the Department of Defense and the National Reconnaissance Office to—
 
 &emsp;"(1) use the National Security Space Launch program to the extent practical to procure launch services only from launch service providers that can meet Federal requirements with respect to delivering required payloads to reference orbits covered under the requirements of phase two; and
 
@@ -142,7 +162,7 @@ Policy.—With respect to entering into contracts for launch services during the
 
 "(c)
 
-Notification.—If the Secretary of Defense or the Director of the National Reconnaissance Office determines that a program requiring launch services that could be met using phase two contracts will instead use an alternative launch procurement approach, not later than seven days after the date of such determination, the Secretary of Defense or, as appropriate, the Director of National Intelligence, shall submit to the appropriate congressional committees—
+Notification.—If the Secretary of Defense or the Director of the National Reconnaissance Office determines that a program requiring launch services that could be met using the National Security Space Launch program will instead use an alternative launch procurement approach, not later than seven days after the date of such determination, the Secretary of Defense or, as appropriate, the Director of National Intelligence, shall submit to the appropriate congressional committees—
 
 &emsp;"(1) a notification of such determination;
 
@@ -162,5 +182,5 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'phase three' means, with respect to the National Security Space Launch program, launch missions ordered under the program after fiscal year 2024.
 
-&emsp;"(3) The term 'phase two' means, with respect to the National Security Space Launch program, launch missions ordered under the program during fiscal years 2020 through 2024."
+&emsp;"(3) The term 'phase two' means, with respect to the National Security Space Launch program, launchmissions ordered under the program during fiscal years 2020 through 2024."
 

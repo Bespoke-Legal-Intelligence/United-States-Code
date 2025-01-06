@@ -10,7 +10,7 @@ Site of Performance.—A contract awarded to a firm described in subsection (a) 
 
 (c)
 
-Exceptions.—The Secretary of a military department may restrict the geographic region in which a contract referred to in subsection (a) may be performed if the Secretary determines that performance of the contract outside that specific region—
+Exceptions.—The Secretary of a military department may restrict the geographic regionin which a contract referred to in subsection (a) may be performed if the Secretary determines that performance of the contract outside that specific region—
 
 &emsp;(1) could adversely affect the military preparedness of the armed forces; or
 

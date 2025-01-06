@@ -70,5 +70,5 @@ Purpose.—The purpose of this Act \[see Short Title of 1989 Amendment note abov
 
 #### Terms of Office of Members
 
-Pub. L. 95–454, title II, §202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: "Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section)."
+Pub. L. 95–454, title II, §202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: "Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments tosuch office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section)."
 

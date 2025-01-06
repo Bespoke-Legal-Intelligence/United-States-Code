@@ -8,7 +8,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (1) In general
 
-&emsp;Not later than the date on which a certificate of compliance is issued under subsection\(c), the Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
+&emsp;Not later than the date on which a certificate of compliance is issued under subsection (c), the Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
 
 #### (2) Required determination
 

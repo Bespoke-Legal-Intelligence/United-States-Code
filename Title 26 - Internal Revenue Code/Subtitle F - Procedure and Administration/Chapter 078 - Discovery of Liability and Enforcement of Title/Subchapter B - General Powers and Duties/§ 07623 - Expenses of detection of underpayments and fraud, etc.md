@@ -24,7 +24,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the information resulting in the initiation of theaction described in paragraph (1) was originally provided by the individual described in paragraph (1).
+&emsp;&emsp;Subparagraph (A) shall not apply if the information resulting in the initiation of the action described in paragraph (1) was originally provided by the individual described in paragraph (1).
 
 #### (3) Reduction in or denial of award
 
@@ -72,7 +72,7 @@ For purposes of this section, the term "proceeds" includes—
 
 #### (1) Anti-retaliation whistleblower protection for employees
 
-&emsp;No employer, or any officer, employee, contractor, subcontractor, or agent of such employer, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment (including through an act in the ordinary course of such employee's duties) in reprisal for any lawful act done by the employee—
+&emsp;No employer, or any officer, employee, contractor, subcontractor, or agent of such employer, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment (includingthrough an act in the ordinary course of such employee's duties) in reprisal for any lawful act done by the employee—
 
 &emsp;&emsp;(A) to provide information, cause information to be provided, or otherwise assist in an investigation regarding underpayment of tax or any conduct which the employee reasonably believes constitutes a violation of the internal revenue laws or any provision of Federal law relating to tax fraud, when the information or assistance is provided to the Internal Revenue Service, the Secretary of the Treasury, the Treasury Inspector General for Tax Administration, the Comptroller General of the United States, the Department of Justice, the United States Congress, a person with supervisory authority over the employee, or any other person working for the employer who has the authority to investigate, discover, or terminate misconduct, or
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "proceeds" includes—
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–25 added subsec. (d).
 
-<b>2018</b>—Subsec. (b)(1), (2)(A). Pub. L. 115–123, §41108(a)(2), (b), substituted "proceeds collected as a result of the action" for "collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action" and inserted "(determined without regard to whether such proceeds are available to the Secretary)" after "in response to such action".
+<b>2018</b>—Subsec. (b)(1), (2)(A). Pub. L. 115–123, §41108(a)(2), (b), substituted "proceeds collected as a result of the action" for "collected proceeds (including penalties, interest, additions to tax, and additionalamounts) resulting from the action" and inserted "(determined without regard to whether such proceeds are available to the Secretary)" after "in response to such action".
 
 Subsec. (b)(5)(B). Pub. L. 115–123, §41108(c), substituted "proceeds" for "tax, penalties, interest, additions to tax, and additional amounts".
 

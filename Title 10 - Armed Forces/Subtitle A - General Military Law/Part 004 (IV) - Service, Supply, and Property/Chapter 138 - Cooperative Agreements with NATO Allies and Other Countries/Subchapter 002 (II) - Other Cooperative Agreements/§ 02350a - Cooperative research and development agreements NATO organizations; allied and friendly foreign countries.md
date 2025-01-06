@@ -20,7 +20,7 @@ Projects.—(1) The Secretary of Defense may enter into a memorandum of understa
 
 &emsp;(F) The European Union, including the European Defence Agency, the European Commission, and the Council of the European Union, and their suborganizations.
 
-(3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
+(3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committeeson Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 
 (b)
 
@@ -56,7 +56,7 @@ Cooperative Opportunities.—(1) In order to ensure that opportunities to conduc
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(D) A recommendation to the milestone decision authority as to whether the Departmentof Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+&emsp;(D) A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
 \[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.\]
 
@@ -142,7 +142,7 @@ Subsec. (e)(2)(A). Pub. L. 114–92, §821(b)(1)(C)(ii), substituted "Whether" f
 
 Subsec. (e)(2)(B). Pub. L. 114–92, §821(b)(1)(C)(iii), struck out "by the Under Secretary of Defense for Acquisition, Technology, and Logistics" after "an assessment" and "of the United States under consideration by the Department of Defense" after "of the project".
 
-Subsec. (e)(2)(D). Pub. L. 114–92, §821(b)(1)(C)(iv), substituted "A recommendation to the milestone decision authority" for "The recommendation of the Under Secretary".
+Subsec. (e)(2)(D). Pub. L. 114–92, §821(b)(1)(C)(iv), substituted "A recommendation to the milestone decisionauthority" for "The recommendation of the Under Secretary".
 
 <b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §865, substituted ", the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering" for "and to one other official of the Department of Defense".
 
@@ -310,7 +310,7 @@ In general.—An agreement under subsection (a) shall provide that—
 
 &emsp;&emsp;&emsp;"(i) the agreed upon share of administrative costs related to the Program, except the costs for facilities and equipment and supplies described in subparagraph (A); and
 
-&emsp;&emsp;&emsp;"(ii) any amount allocated against the country for monetary claims as a result of participation in the Program, in accordance with the agreement.
+&emsp;&emsp;&emsp;"(ii) any amount allocated against the country for monetary claims as a result of participationin the Program, in accordance with the agreement.
 
 &emsp;"(2)
 

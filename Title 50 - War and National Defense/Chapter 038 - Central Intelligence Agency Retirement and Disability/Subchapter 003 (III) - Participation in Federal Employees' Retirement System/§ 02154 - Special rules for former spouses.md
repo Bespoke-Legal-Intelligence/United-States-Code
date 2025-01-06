@@ -18,11 +18,11 @@ For purposes of this section:
 
 &emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
 
-&emsp;&emsp;(B) in the case of a former spouse whose divorce from such employee becomes final after December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent by the employee outside the United States during the employee's service with the Agency or otherwise in a position the duties of which qualified the employee for designation by the Director under the criteria prescribed in section 2013 of this title.
+&emsp;&emsp;(B) in the case of a former spouse whose divorce from such employee becomes final after December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent by the employee outside the United States during the employee's service with the Agency or otherwise in a position the duties of whichqualified the employee for designation by the Director under the criteria prescribed in section 2013 of this title.
 
 #### (3) Pro rata share
 
-&emsp;The term "pro rata share" means the percentage that is equal to (A) the number ofdays of the marriage of the qualified former spouse to the employee during the employee's periods of creditable service under chapter 84 of title 5, divided by (B) the total number of days of the employee's creditable service.
+&emsp;The term "pro rata share" means the percentage that is equal to (A) the number of days of the marriage of the qualified former spouse to the employee during the employee's periods of creditable service under chapter 84 of title 5, divided by (B) the total number of days of the employee's creditable service.
 
 #### (4) Spousal agreement
 
@@ -104,7 +104,7 @@ For purposes of this section:
 
 #### (7) Pro rata share in case of employees transferred to FERS
 
-&emsp;Notwithstanding paragraph (1)(B), in the case of an employee who has elected to become subject to chapter 84 of title 5, the share ofsuch employee's qualified former spouse shall equal the sum of—
+&emsp;Notwithstanding paragraph (1)(B), in the case of an employee who has elected to become subject to chapter 84 of title 5, the share of such employee's qualified former spouse shall equal the sum of—
 
 &emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
 
@@ -226,7 +226,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 &emsp;(3) any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g), and the amount of any such payment;
 
-> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of thespousal agreement or court order that are not inconsistent with the requirements of this section.
+> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this section.
 
 #### (i) Applicability of CIARDS former spouse benefits
 

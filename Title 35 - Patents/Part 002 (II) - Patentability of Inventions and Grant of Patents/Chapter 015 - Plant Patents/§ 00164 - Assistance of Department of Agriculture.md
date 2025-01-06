@@ -1,6 +1,6 @@
 ### §164. Assistance of Department of Agriculture
 
-The President may by Executive order direct the Secretary of Agriculture, in accordance with the requests of the Director, for the purpose of carrying into effect the provisions of this title with respect to plants (1) to furnish available information of the Department of Agriculture, (2) to conduct through the appropriate bureau or division of the Department research upon special problems, or (3) to detail to the Director officers and employees of the Department.
+The President may by Executive order direct the Secretary of Agriculture, in accordance with the requests of the Director, for the purpose of carrying into effect the provisions of this titlewith respect to plants (1) to furnish available information of the Department of Agriculture, (2) to conduct through the appropriate bureau or division of the Department research upon special problems, or (3) to detail to the Director officers and employees of the Department.
 
 (July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 

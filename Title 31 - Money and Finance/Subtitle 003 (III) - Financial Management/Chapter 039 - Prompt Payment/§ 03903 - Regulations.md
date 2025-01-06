@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) except as provided in paragraphs (10) and (11), 30 days after a proper invoice for the amount due is received if a specific payment date is not established by contract;
 
-&emsp;(2) for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of thePackers and Stockyards Act, 1921 (7 U.S.C. 182(3))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4003(3)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
+&emsp;(2) for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of the Packers and Stockyards Act, 1921 (7 U.S.C. 182(3))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4003(3)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
 
 &emsp;(3) for the acquisition of a perishable agricultural commodity (as defined in section 1(4) <sup>1</sup> of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499a(4))), provide a required payment date consistent with that Act;
 
@@ -46,7 +46,7 @@
 
 &emsp;(9) prescribe the methods for computing interest under section 3903(c) <sup>1</sup> of this title;
 
-&emsp;(10) for a prime contractor (as defined in section 8701(5) of title 41) that is a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if a specific payment date is not established by contract; and
+&emsp;(10) for a prime contractor (as defined in section 8701(5) of title 41) that is a small businessconcern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if a specific payment date is not established by contract; and
 
 &emsp;(11) for a prime contractor (as defined in section 8701(5) of title 41) that subcontracts with a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if—
 

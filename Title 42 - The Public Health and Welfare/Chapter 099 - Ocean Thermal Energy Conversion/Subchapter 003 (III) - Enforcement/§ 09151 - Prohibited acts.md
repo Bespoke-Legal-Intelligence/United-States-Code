@@ -22,7 +22,7 @@ This chapter, referred to in pars. (1) and (2), was in the original "this Act", 
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–623 substituted "in or on board an ocean thermal energy conversion facility or plantshipor on board any vessel" for "on board an ocean thermal energy conversion facility or plantship or other vessel" in provisions preceding par. (1).
+<b>1984</b>—Pub. L. 98–623 substituted "in or on board an ocean thermal energy conversion facility or plantship or on board any vessel" for "on board an ocean thermal energy conversion facility or plantship or other vessel" in provisions preceding par. (1).
 
 Par. (2). Pub. L. 98–623 substituted "to enter or board" for "to board".
 

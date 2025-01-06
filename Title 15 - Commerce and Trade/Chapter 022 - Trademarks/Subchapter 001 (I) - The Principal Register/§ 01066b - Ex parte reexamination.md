@@ -38,7 +38,7 @@ A petition filed under subsection (a), together with any supporting documents, s
 
 #### (1) Prima facie case determination, institution, and notification
 
-&emsp;The Director shall, for each good or service identified under subsection (c)(2), determine whether the petition sets forth a prima facie case of the mark having not been in use in commerce on or in connection with each such good or service, institute an ex parte reexamination proceeding for each good or service for which the Director determines that the prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
+&emsp;The Director shall, for each good or service identified under subsection (c)(2), determine whether the petition sets forth a prima facie case of the mark having not been in use in commerce on or in connection with each such good or service, institute an ex parte reexamination proceeding for each good or service for which the Director determines that the prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include acopy of the petition and any supporting documents and evidence that were included with the petition.
 
 #### (2) Reasonable investigation guidance
 
@@ -70,7 +70,7 @@ For each good or service for which it is determined that the registration should
 
 #### (1) In general
 
-&emsp;The Director may, on the Director's own initiative, institute an ex parte reexamination proceeding if the Director discovers information that supports a prima facie case of the mark having not been used in commerce on orin connection with some or all of the goods or services covered by the registration on or before the relevant date. The Director shall promptly notify the registrant of such determination, at which time reexamination shall proceed according to the same procedures established pursuant to subsection (e). If the Director determines, based on the Director's own initiative, to institute an ex parte reexamination proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice.
+&emsp;The Director may, on the Director's own initiative, institute an ex parte reexamination proceeding if the Director discovers information that supports a prima facie case of the mark having not been used in commerce on or in connection with some or all of the goods or services covered by the registration on or before the relevant date. The Director shall promptly notify the registrant of such determination, at which time reexamination shall proceed according to the same procedures established pursuant to subsection (e). If the Director determines, based on the Director's own initiative, to institute an ex parte reexamination proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice.
 
 #### (2) Rule of construction
 
@@ -104,5 +104,5 @@ Section effective upon the expiration of the 1-year period beginning on Dec. 27,
 
 #### Regulations
 
-Director required to issue regulations to carry out this section no later than 1 year after Dec. 27, 2020, see section 225(f) of Pub. L. 116–260, set out as a note under section 1066a of this title.
+Director required to issue regulations to carry out this section no later than 1 year after Dec. 27, 2020, seesection 225(f) of Pub. L. 116–260, set out as a note under section 1066a of this title.
 

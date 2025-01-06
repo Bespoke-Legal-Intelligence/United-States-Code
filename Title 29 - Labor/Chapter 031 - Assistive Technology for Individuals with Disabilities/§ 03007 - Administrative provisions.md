@@ -38,7 +38,7 @@
 
 #### (1) Corrective action
 
-&emsp;If the Secretary determines that an entity that receives a grant under this chapter fails to substantially comply with the applicable requirements of this chapter, or to make substantial progress toward achieving the measurable goals described in subsection (b)(1) with respect to the grant program, the Secretary shall assist the entity, through technical assistance funded under section 3005 of this title or other means, within 90 days after such determination, to develop a corrective action plan.
+&emsp;If the Secretary determines that an entity that receives a grant under this chapter failsto substantially comply with the applicable requirements of this chapter, or to make substantial progress toward achieving the measurable goals described in subsection (b)(1) with respect to the grant program, the Secretary shall assist the entity, through technical assistance funded under section 3005 of this title or other means, within 90 days after such determination, to develop a corrective action plan.
 
 #### (2) Sanctions
 

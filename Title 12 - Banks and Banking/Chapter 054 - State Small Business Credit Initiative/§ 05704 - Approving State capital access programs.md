@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-A participating State that establishes a new, or has an existing, State capital access programthat meets the eligibility criteria in subsection (c) may apply to Secretary to have the State capital access program approved as eligible for Federal contributions to the reserve fund.
+A participating State that establishes a new, or has an existing, State capital access program that meets the eligibility criteria in subsection (c) may apply to Secretary to have the State capital access program approved as eligible for Federal contributions to the reserve fund.
 
 #### (b) Approval
 
@@ -42,7 +42,7 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 #### (1) Experience and capacity
 
-&emsp;The participating State shall determine for each financial institution that participates in the State capital access program, after consultation with the appropriate Federal banking agency or, in the case of a financial institution that is a nondepository community development financial institution, the Community Development Financial Institution Fund, that the financial institution has sufficient commercial lending experience and financial and managerial capacity to participate in the approved State capital access program. The determination by the State shall not be reviewable by the Secretary.
+&emsp;The participating State shall determine for each financial institution that participates inthe State capital access program, after consultation with the appropriate Federal banking agency or, in the case of a financial institution that is a nondepository community development financial institution, the Community Development Financial Institution Fund, that the financial institution has sufficient commercial lending experience and financial and managerial capacity to participate in the approved State capital access program. The determination by the State shall not be reviewable by the Secretary.
 
 #### (2) Investment authority
 

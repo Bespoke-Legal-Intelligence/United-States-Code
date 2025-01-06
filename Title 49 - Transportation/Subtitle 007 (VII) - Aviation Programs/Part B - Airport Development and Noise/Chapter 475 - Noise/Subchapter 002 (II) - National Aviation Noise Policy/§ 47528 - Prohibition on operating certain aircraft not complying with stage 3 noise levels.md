@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as provided in subsection (b) or (f) of this section and section 47530 of this title, a person may operate after December 31, 1999, a civil subsonic turbojet (for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
+Prohibition.—Except as provided in subsection (b) or (f) of this section and section 47530 of this title, a person may operate after December 31, 1999, a civil subsonic turbojet (for whichan airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
 
 (b)
 
@@ -80,9 +80,9 @@ Procedure To Be Published.—Not later than 30 days after the date of the enactm
 
 (g)
 
-Statutory Construction.—Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
+Statutory Construction.—Nothing in this section may be construed as interfering with,nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II,§231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
 
 Historical and Revision Notes
 

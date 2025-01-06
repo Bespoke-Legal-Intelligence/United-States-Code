@@ -156,7 +156,7 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted "this section" for 
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: "A board appointed under this section shall be composed of at least three members as follows:
 
-&emsp;"(A) In the case of a board that will inquire into the whereabouts and status of one or more membersof the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
+&emsp;"(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
 &emsp;"(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 

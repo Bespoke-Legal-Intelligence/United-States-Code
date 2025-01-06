@@ -76,7 +76,7 @@ Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gift
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5032(d)of Pub. L. 100–647, set out as a note under section 2101 of this title.
+Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5032(d) of Pub. L. 100–647, set out as a note under section 2101 of this title.
 
 #### Effective Date of 1976 Amendment
 

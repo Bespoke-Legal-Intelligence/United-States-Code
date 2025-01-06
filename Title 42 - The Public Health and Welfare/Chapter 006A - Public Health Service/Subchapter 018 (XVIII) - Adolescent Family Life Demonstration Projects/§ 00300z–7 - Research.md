@@ -16,7 +16,7 @@
 
 #### (b) Scope of permissible activities
 
-(1) Funds provided for research under this section may be used for descriptive or explanatory surveys, longitudinal studies, or limited demonstration projects for services that are for the purpose of increasing knowledge and understanding of the matters described in paragraphs (4) and (5) of section 300z(b) of this title.
+(1) Funds provided for research under this section may be used for descriptive or explanatorysurveys, longitudinal studies, or limited demonstration projects for services that are for the purpose of increasing knowledge and understanding of the matters described in paragraphs (4) and (5) of section 300z(b) of this title.
 
 (2) Funds provided under this section may not be used for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than minor remodeling) of any building or facility.
 
@@ -46,7 +46,7 @@ The Secretary shall, where appropriate, coordinate research and dissemination ac
 
 (1)(A) The recipient of a grant or contract for a research project under this section shall prepare and transmit to the Secretary a report describing the results and conclusions of such research. Except as provided in subparagraph (B), such report shall be transmitted to the Secretary not later than eighteen months after the end of the year for which funds are provided under this section. The recipient may utilize reprints of articles published or accepted for publication in professional journals to supplement or replace such report if the research contained in such articles was supported under this section during the year for which the report is required.
 
-(B) In the case of any research project for which assistance is provided under this section for two or more consecutive one-year periods,the recipient of such assistance shall prepare and transmit the report required by subparagraph (A) to the Secretary not later than twelve months after the end of each one-year period for which such funding is provided.
+(B) In the case of any research project for which assistance is provided under this section for two or more consecutive one-year periods, the recipient of such assistance shall prepare and transmit the report required by subparagraph (A) to the Secretary not later than twelve months after the end of each one-year period for which such funding is provided.
 
 (2) Recipients of grants and contracts for dissemination under this section shall submit to the Secretary such reports as the Secretary determines appropriate.
 

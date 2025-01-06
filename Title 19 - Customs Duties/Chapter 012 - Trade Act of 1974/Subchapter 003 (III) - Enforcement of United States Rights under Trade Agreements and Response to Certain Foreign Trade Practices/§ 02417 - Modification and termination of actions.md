@@ -14,7 +14,7 @@
 
 #### (b) Notice; report to Congress
 
-The Trade Representative shall promptly publish in the Federal Register notice of, and report in writing to the Congress with respect to, any modification or termination of any action taken under section 2411 of this title and the reasons therefor.
+The Trade Representative shall promptly publish in the Federal Register notice of, and reportin writing to the Congress with respect to, any modification or termination of any action taken under section 2411 of this title and the reasons therefor.
 
 #### (c) Review of necessity
 

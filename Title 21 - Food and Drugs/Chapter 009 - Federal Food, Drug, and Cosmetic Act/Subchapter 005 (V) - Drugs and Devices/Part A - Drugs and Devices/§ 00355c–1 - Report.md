@@ -38,7 +38,7 @@ Each report under subsection (a) shall include—
 
 &emsp;(10) an assessment of the successes of and limitations to studying drugs for rare diseases under such sections 355a and 355c of this title;
 
-&emsp;(11) an assessment of the impact of the amendments to such section 355c of this titlemade by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
+&emsp;(11) an assessment of the impact of the amendments to such section 355c of this title made by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
 
 &emsp;(12) an assessment of the efforts of the Secretary to implement the plan developed under section 505C–1 of the Federal Food, Drug, and Cosmetic Act,<sup>1</sup> regarding earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of title 42, including—
 
@@ -80,7 +80,7 @@ Section was enacted as part of the Food and Drug Administration Safety and Innov
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(11) to (16). Pub. L. 115–52 added pars. (11) to (16) and struck out former par. (11) which read as follows: "an assessment of the Secretary's efforts to address the suggestions and options described in any prior report issued by the Comptroller General, Institute of Medicine, or the Secretary, and any subsequent reports, including recommendations therein, regarding the topics addressed in the reports under this section, including with respect to—
+<b>2017</b>—Subsec. (b)(11) to (16). Pub. L. 115–52 added pars. (11) to (16) and struck out former par. (11) which read as follows: "an assessment of the Secretary's efforts to address the suggestions and options described in any prior report issued by the Comptroller General, Institute of Medicine, or the Secretary, and any subsequentreports, including recommendations therein, regarding the topics addressed in the reports under this section, including with respect to—
 
 &emsp;"(A) improving public access to information from pediatric studies conducted under such sections 355a and 355c of this title; and
 

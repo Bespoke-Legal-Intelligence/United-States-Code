@@ -12,7 +12,7 @@ The Secretary shall utilize the Deputy Assistant Secretary for Population Affair
 
 &emsp;(5) to provide or support training for necessary manpower for domestic programs of population research and family planning programs of service and research; and
 
-&emsp;(6) to coordinate and be responsible for the evaluation of the other Department of Health and Human Services programs related to population research and family planning and to make periodic recommendations to the Secretary.
+&emsp;(6) to coordinate and be responsible for the evaluation of the other Department of Healthand Human Services programs related to population research and family planning and to make periodic recommendations to the Secretary.
 
 (Pub. L. 91–572, §4, Dec. 24, 1970, 84 Stat. 1505; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

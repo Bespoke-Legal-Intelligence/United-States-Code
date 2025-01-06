@@ -54,7 +54,7 @@ The Board shall select candidates as recipients of the Medal of Valor from among
 
 #### (2) Witness expenses
 
-&emsp;Witnesses requested to appear before the Board may be paid the same fees as are paid to witnesses under section 1821 of title 28. The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the Board.
+&emsp;Witnesses requested to appear before the Board may be paid the same fees as are paid to witnesses under section 1821 of title 28. The perdiem and mileage allowances for witnesses shall be paid from funds appropriated to the Board.
 
 #### (e) Information from Federal agencies
 

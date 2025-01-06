@@ -118,7 +118,7 @@ Section 1. <i>Department of State</i>. (a) The following functions conferred upo
 
 Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions of Section 6 of this order, the following functions conferred upon the President by the Act are hereby delegated to the Director of the United States Information Agency:
 
-(1) The functions so conferred by Sections 102(a)(2)(iii) and (b)(1) \[section 2452(a)(2)(iii), (b)(1) of this title\]; Section 102(b)(2) \[section 2452(b)(2) of this title\] to the extent that it authorizes the type of centers now supported by the United States Information Agency abroad and designated as binational, community, or student centers; section 102(b)(4) \[section 2452(b)(4) of this title\] exclusive of professorships and lectureships; and Sections 102(b)(7) and (8) of the Act \[section 2452(b)(7), (8) of this title\]; all of the foregoing notwithstanding the provisions of Section 1(a)(2) of this order.
+(1) The functions so conferred by Sections 102(a)(2)(iii) and (b)(1) \[section 2452(a)(2)(iii), (b)(1) ofthis title\]; Section 102(b)(2) \[section 2452(b)(2) of this title\] to the extent that it authorizes the type of centers now supported by the United States Information Agency abroad and designated as binational, community, or student centers; section 102(b)(4) \[section 2452(b)(4) of this title\] exclusive of professorships and lectureships; and Sections 102(b)(7) and (8) of the Act \[section 2452(b)(7), (8) of this title\]; all of the foregoing notwithstanding the provisions of Section 1(a)(2) of this order.
 
 (2) The functions so conferred by Section 104(e)(4) of the Act \[subsec. (e)(4) of this section\] (the provisions of Sections 1(a)(4) and 3(b) of this order notwithstanding).
 
@@ -126,7 +126,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (4) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit tothe Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
+(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
 
 (c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
 
@@ -244,7 +244,7 @@ Section 1. The Secretary of the Interior is authorized, with respect to the Inte
 
 Sec. 2. I find that the delegation made by section 1 of this order is in the interest of the purposes expressed in the act and the efficient administration of the International Symposium on Geothermal Energy.
 
-Sec. 3. The delegation made by this order shall become effective upon the expiration of sixty days while the Congress is in session. In computing that sixty days, there shall be excluded days on which either House is not in session because of an adjournment of more than three days.
+Sec. 3. The delegation made by this order shall become effective upon the expiration of sixty days whilethe Congress is in session. In computing that sixty days, there shall be excluded days on which either House is not in session because of an adjournment of more than three days.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,7 +14,7 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 (b)
 
-Members Entitled to Allowance.—(1) Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (ifany), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
+Members Entitled to Allowance.—(1) Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
 
 (2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
@@ -114,7 +114,7 @@ Subsec. (b)(1). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "Fo
 
 Subsec. (h)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(T), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
+Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "supplemental nutrition assistanceprogram" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
 <b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted "title" for "section".
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: "Section402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: "Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

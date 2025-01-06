@@ -46,7 +46,7 @@
 
 &emsp;(II) From the remainder, amounts shall be allotted in accordance with paragraph (1), subparagraphs (A) through (C) as applicable, and paragraph (2) to the extent needed to meet the requirements of those subparagraphs.
 
-(4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
+(4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis ofthe most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
 
 (5) State allotments for a fiscal year under this section shall be proportionally reduced to the extent that appropriations may be insufficient to provide the full allotments as required by paragraph (3).
 

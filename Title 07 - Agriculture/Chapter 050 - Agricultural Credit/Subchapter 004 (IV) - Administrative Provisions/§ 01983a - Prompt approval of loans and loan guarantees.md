@@ -10,7 +10,7 @@
 
 (ii) Not later than 15 calendar days after the date an agency of the Department of Agriculture receives a request for information made pursuant to clause (i), the agency shall provide the Secretary with the requested information.
 
-(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, theSecretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
+(iii) If, not later than 20 calendar days after the date a request is made pursuant to clause (i) with respect to an application, the Secretary has not received the information requested, the Secretary shall notify the applicant and the district office of the Farmers Home Administration, in writing, of the outstanding information.
 
 (iv) A county office shall notify the district office of the Farmers Home Administration of each application for an operating loan or loan guarantee under subchapter II that is pending more than 45 days after receipt, and the reasons the application is pending.
 
@@ -40,7 +40,7 @@ If an application for a loan or loan guarantee under this chapter is disapproved
 
 #### (d) Approved lender designation applications; time for decision by Secretary
 
-In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, the Secretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
+In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, the Secretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, notlater than 15 days after the Secretary has received a complete application for such designation.
 
 #### (e) Processing loan applications; personnel and other resources made available; use of authorities of law
 
@@ -56,7 +56,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (1) As used in this subsection:
 
-&emsp;(A) The term "approved lender" means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 <sup>1</sup> of this title.
+&emsp;(A) The term "approved lender" means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 of this title.
 
 &emsp;(B) The term "seasoned direct loan borrower" means a borrower receiving a direct loan under this chapter who has been classified as "commercial" or "standard" under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
 
@@ -136,7 +136,7 @@ This chapter, referred to in subsecs. (a), (b)(1), (c), (f)(1)(B), and (g)(1), w
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -197,6 +197,4 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Effective Date
 
 Pub. L. 99–198, title XIII, §1312(b), Dec. 23, 1985, 99 Stat. 1525, provided that: "The amendment made by subsection (a) \[enacting this section\] shall be effective with respect to applications for loans or loan guarantees under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) received by the Secretary of Agriculture after the date of enactment of this Act \[Dec. 23, 1985\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

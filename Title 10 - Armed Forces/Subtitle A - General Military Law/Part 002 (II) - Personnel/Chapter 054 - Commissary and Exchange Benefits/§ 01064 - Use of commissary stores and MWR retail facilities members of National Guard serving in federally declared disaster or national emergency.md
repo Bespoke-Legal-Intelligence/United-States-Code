@@ -14,7 +14,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Federally declared disaster.—The term "federally declared disaster" means a disaster or other situation for which a Presidential declaration of major disaster is issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
+Federally declared disaster.—The term "federally declared disaster" means a disaster or other situation for which a Presidential declaration of major disaster is issuedunder section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
 
 &emsp;(2)
 

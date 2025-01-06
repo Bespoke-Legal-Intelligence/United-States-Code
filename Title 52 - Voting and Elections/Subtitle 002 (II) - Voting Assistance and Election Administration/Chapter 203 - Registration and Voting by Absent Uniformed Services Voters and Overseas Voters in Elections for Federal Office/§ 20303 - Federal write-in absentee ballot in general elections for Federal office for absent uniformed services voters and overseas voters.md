@@ -4,7 +4,7 @@
 
 #### (1) Federal write-in absentee ballot
 
-&emsp;The Presidential designee shall prescribe a Federal write-in absentee ballot (including a secrecy envelope and mailing envelope for such ballot) for use in general, special, primary, and runoff elections for Federal office by absent uniformed services voters and overseas voters who make timely application for, and do not receive, States,<sup>1</sup> absentee ballots.
+&emsp;The Presidential designee shall prescribe a Federal write-in absentee ballot (including asecrecy envelope and mailing envelope for such ballot) for use in general, special, primary, and runoff elections for Federal office by absent uniformed services voters and overseas voters who make timely application for, and do not receive, States,<sup>1</sup> absentee ballots.
 
 #### (2) Promotion and expansion of use of Federal write-in absentee ballots
 

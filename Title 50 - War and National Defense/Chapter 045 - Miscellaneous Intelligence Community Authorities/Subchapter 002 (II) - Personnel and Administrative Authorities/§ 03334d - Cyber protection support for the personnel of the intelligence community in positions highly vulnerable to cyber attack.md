@@ -60,5 +60,5 @@ Subsec. (b)(1). Pub. L. 117–263, §6308(a)(1), substituted "shall offer" for "
 
 #### Definitions
 
-For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definitions of "intelligence community" and "congressional intelligence committees" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

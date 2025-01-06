@@ -22,7 +22,7 @@
 
 &emsp;(B) who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
 
-> shall be deemed to have been on active duty for training or inactive duty training, as the case may be, at the time such injury or covered disease was incurred.
+> shall be deemed to have been on active duty for training or inactive duty training, as the casemay be, at the time such injury or covered disease was incurred.
 
 (2) In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury or covered disease so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death.
 
@@ -100,7 +100,7 @@ Prohibition on Retroactive Benefits.—No benefits shall be paid to any individu
 
 Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by Pub. L. 96–466, title VIII, §801(m)(3), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 98–94, title XII, §1263(a), Sept. 24, 1983, 97 Stat. 703; Pub. L. 102–83, §6(b), Aug. 6, 1991, 105 Stat. 407, provided that:
 
-"(a)(1) Notwithstanding any other provision of law, the service of any person as a member of the Women's Air Forces Service Pilots (a group of Federal civilian employees attached to the United States Army Air Force during World War II), or the service of any person in any other similarly situated group the members of which rendered service to the Armed Forces of the United States in a capacity considered civilian employment or contractual service at the time such service was rendered, shall be considered active duty for the purposes of all laws administered by the Secretary of Veterans Affairs if the Secretary of Defense, pursuant to regulations which the Secretary shall prescribe—
+"(a)(1) Notwithstanding any other provision of law, the service of any person as a member of the Women's Air Forces Service Pilots (a group of Federal civilian employees attached to the United States Army Air Force during World War II), or the service of any person in any other similarly situated group the members of which rendered service to the Armed Forces of the United States in a capacity considered civilian employment or contractual service at the time such service was rendered, shall be considered active duty for thepurposes of all laws administered by the Secretary of Veterans Affairs if the Secretary of Defense, pursuant to regulations which the Secretary shall prescribe—
 
 &emsp;"(A) after a full review of the historical records and all other available evidence pertaining to the service of any such group, determines, on the basis of judicial and other appropriate precedent, that the service of such group constituted active military service, and
 
@@ -126,7 +126,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 "(c) Under regulations prescribed by the Secretary of Defense, any person who is issued a discharge under honorable conditions pursuant to the implementation of subsection (a) of this section may be awarded any campaign or service medal warranted by such person's service."
 
-\[Section 1263(b) of Pub. L. 98–94 provided that: "The amendment made by subsection (a) \[enacting subsec.\(c) set out above\] shall apply to all persons issued discharges under honorable conditions pursuant to section 401 of the GI Bill Improvements Act of 1977 \[Pub. L. 95–202, set out above\] whether such discharges are awarded before, on, or after the date of the enactment of this Act \[Sept. 24, 1983\]."\]
+\[Section 1263(b) of Pub. L. 98–94 provided that: "The amendment made by subsection (a) \[enacting subsec. (c) set out above\] shall apply to all persons issued discharges under honorable conditions pursuant to section 401 of the GI Bill Improvements Act of 1977 \[Pub. L. 95–202, set out above\] whether such discharges are awarded before, on, or after the date of the enactment of this Act \[Sept. 24, 1983\]."\]
 
 \[Amendment of subsec. (a)(1)(B), set out above, by Pub. L. 96–466, effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as an Effective Date of 1980 Amendment note under section 3452 of this title.\]
 

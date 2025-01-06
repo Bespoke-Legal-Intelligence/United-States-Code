@@ -519,7 +519,7 @@ In General.—Nothing in this subtitle shall be construed—
 
 "(b)
 
-Protection of Covered Information.—This subtitle shall be broadly construed to favor the protectionof the covered information of at-risk individuals and their immediate family members.
+Protection of Covered Information.—This subtitle shall be broadly construed to favor the protection of the covered information of at-risk individuals and their immediate family members.
 
 #### "SEC. 5938. SEVERABILITY.
 

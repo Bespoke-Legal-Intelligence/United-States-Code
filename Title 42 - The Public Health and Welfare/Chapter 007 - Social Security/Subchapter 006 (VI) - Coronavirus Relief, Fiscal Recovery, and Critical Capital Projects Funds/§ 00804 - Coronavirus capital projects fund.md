@@ -24,7 +24,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (A) In general
 
-&emsp;&emsp;From the amount of the appropriation under subsection (a) that remains after the application of paragraph (1), the Secretaryshall make payments to States based on population such that—
+&emsp;&emsp;From the amount of the appropriation under subsection (a) that remains after the application of paragraph (1), the Secretary shall make payments to States based on population such that—
 
 &emsp;&emsp;&emsp;(i) 50 percent of such amount shall be allocated among the States based on the proportion that the population of each State bears to the population of all States;
 

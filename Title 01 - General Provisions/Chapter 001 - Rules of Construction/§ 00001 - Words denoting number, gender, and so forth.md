@@ -52,6 +52,28 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: "This Act \[
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: "This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Defense of Marriage Act'."
 
+#### References in Pub. L. 118–159
+
+Pub. L. 118–159, §3(1), Dec. 23, 2024, 138 Stat. 1799, provided that: "In this Act \[Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, see Tables for classification\]:
+
+&emsp;"(1) In divisions A through D, the term 'this Act' refers to divisions A through D."
+
+#### References in Pub. L. 118–158
+
+Pub. L. 118–158, §3, Dec. 21, 2024, 138 Stat. 1723, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Further Continuing Appropriations Act, 2025, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 118–83
+
+Pub. L. 118–83, §3, Sept. 26, 2024, 138 Stat. 1524, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Continuing Appropriations and Extensions Act, 2025, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 118–47
+
+Pub. L. 118–47, §3, Mar. 23, 2024, 138 Stat. 461, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Further Consolidated Appropriations Act, 2024, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 118–42
+
+Pub. L. 118–42, §3, Mar. 9, 2024, 138 Stat. 26, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2024, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
 #### References in Pub. L. 117–328
 
 Pub. L. 117–328, §3, Dec. 29, 2022, 136 Stat. 4461, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2023, see Tables for classification\] shall be treated as referring only to the provisions of that division."
@@ -88,7 +110,7 @@ Pub. L. 116–136, §3, Mar. 27, 2020, 134 Stat. 285, provided that: "Except as 
 
 #### References in Pub. L. 116–127
 
-Pub. L. 116–127, §3, Mar. 18, 2020, 134 Stat. 178, provided that: "Except as expressly provided otherwise,any reference to 'this Act' contained in any division of this Act \[Families First Coronavirus Response Act, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 116–127, §3, Mar. 18, 2020, 134 Stat. 178, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Families First Coronavirus Response Act, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 116–94
 
@@ -140,7 +162,7 @@ Pub. L. 113–235, §3, Dec. 16, 2014, 128 Stat. 2132, provided that: "Except as
 
 #### References in Pub. L. 113–76
 
-Pub. L. 113–76, §3, Jan. 17, 2014, 128 Stat. 7, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2014, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 113–76, §3, Jan. 17, 2014, 128 Stat. 7, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of thisAct \[Consolidated Appropriations Act, 2014, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 113–67
 
@@ -160,7 +182,7 @@ Pub. L. 112–55, §3, Nov. 18, 2011, 125 Stat. 552, provided that: "Except as e
 
 #### References in Pub. L. 112–10
 
-Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: "Any reference to 'this Act' inthis division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division."
+Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: "Any reference to 'this Act' in this division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division."
 
 #### References in Pub. L. 111–118
 
@@ -216,5 +238,5 @@ Pub. L. 108–7, §3, Feb. 20, 2003, 117 Stat. 12, provided that: "Except as exp
 
 #### Continental United States
 
-Pub. L. 86–70, §48, June 25, 1959, 73 Stat. 154, provided that: "Whenever the phrase 'continental United States' is used in any law of the United States enacted after the date of enactment of this Act \[June 25, 1959\], it shall mean the 49 States on the North American Continent and the District of Columbia, unless otherwise expressly provided."
+Pub. L. 86–70, §48, June 25, 1959, 73 Stat. 154, provided that: "Whenever the phrase 'continental United States'is used in any law of the United States enacted after the date of enactment of this Act \[June 25, 1959\], it shall mean the 49 States on the North American Continent and the District of Columbia, unless otherwise expressly provided."
 

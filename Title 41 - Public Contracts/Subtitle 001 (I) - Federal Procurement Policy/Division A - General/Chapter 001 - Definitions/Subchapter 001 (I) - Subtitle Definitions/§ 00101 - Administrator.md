@@ -20,6 +20,10 @@ no source.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–74, §1, July 30, 2024, 138 Stat. 1505, provided that: "This Act \[enacting section 6310 of this title and provisions set out as a note under section 6310 of this title\] may be cited as the 'All-American Flag Act'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–28, §1, July 26, 2021, 135 Stat. 304, provided that: "This Act \[amending provisions set out as a note under section 3309 of this title\] may be cited as the 'Construction Consensus Procurement Improvement Act of 2021'."
@@ -46,11 +50,11 @@ Pub. L. 112–194, §1, Oct. 5, 2012, 126 Stat. 1445, provided that: "This Act \
 
 Pub. L. 110–417, \[div. A\], title VIII, §861, Oct. 14, 2008, 122 Stat. 4546, provided that: "This subtitle \[subtitle G (§§861–874) of title VIII of Pub. L. 110–417, see Tables for classification\] may be cited as the 'Clean Contracting Act of 2008'."
 
-Pub. L. 110–252, title VI, §6101, June 30, 2008, 122 Stat. 2386, provided that: "This chapter \[chapter 1 (§§6101–6103) of title VI of Pub. L. 110–252, see Tables for classification\] may be cited as the 'Close the Contractor Fraud Loophole Act'."
+Pub. L. 110–252, title VI, §6101, June 30, 2008, 122 Stat. 2386, provided that: "This chapter \[chapter 1\(§§6101–6103) of title VI of Pub. L. 110–252, see Tables for classification\] may be cited as the 'Close the Contractor Fraud Loophole Act'."
 
 #### Short Title of 2003 Act
 
-Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, provided that: "This title \[see Tables forclassification\] may be cited as the 'Services Acquisition Reform Act of 2003'."
+Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, provided that: "This title \[see Tables for classification\] may be cited as the 'Services Acquisition Reform Act of 2003'."
 
 #### Short Title of 1996 Act
 

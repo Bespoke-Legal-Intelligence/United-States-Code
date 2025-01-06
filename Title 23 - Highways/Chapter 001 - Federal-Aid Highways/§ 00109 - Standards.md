@@ -8,7 +8,7 @@ In General.—The Secretary shall ensure that the plans and specifications for e
 
 &emsp;(2) be designed and constructed in accordance with criteria best suited to accomplish the objectives described in paragraph (1) and to conform to the particular needs of each locality.
 
-(b) The geometric and construction standards to be adopted for the Interstate System shall be those approved by the Secretary in cooperation with the State transportation departments. Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project. Such standards shall in all cases provide for at least four lanes of traffic. The right-of-way width of the Interstate System shall be adequate to permit construction of projects on the Interstate System to such standards. The Secretary shall apply such standards uniformly throughout all the States.
+(b) The geometric and construction standards to be adopted for the Interstate System shall bethose approved by the Secretary in cooperation with the State transportation departments. Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project. Such standards shall in all cases provide for at least four lanes of traffic. The right-of-way width of the Interstate System shall be adequate to permit construction of projects on the Interstate System to such standards. The Secretary shall apply such standards uniformly throughout all the States.
 
 (c)
 
@@ -72,7 +72,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 (g) Not later than January 30, 1971, the Secretary shall issue guidelines for minimizing possible soil erosion from highway construction. Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission,promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
+(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
 
 &emsp;(1) air, noise, and water pollution;
 
@@ -204,7 +204,7 @@ Subsec. (g). Pub. L. 109–59, §1110(c), substituted "Not later than January 30
 
 Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (m). Pub. L. 105–178, §1306(a), redesignated subsec. (n) as (m) and struck out former subsec. (m)which read as follows: "The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979."
+Subsec. (m). Pub. L. 105–178, §1306(a), redesignated subsec. (n) as (m) and struck out former subsec. (m) which read as follows: "The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979."
 
 Subsec. (n). Pub. L. 105–178, §1306(a)(2), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Updates to Manual on Uniform Traffic Control Devices
 
@@ -390,7 +390,7 @@ Pub. L. 114–94, div. A, title I, §1432, Dec. 4, 2015, 129 Stat. 1429, provide
 
 "(a)
 
-In General.—Any road, highway, railway, bridge, or transit facility that is damaged by an emergency that is declared by the Governor of the State, with the concurrence of the Secretary of Homeland Security, or declared as an emergency by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), and that is in operation or under construction on the dateon which the emergency occurs may be reconstructed in the same location with the same capacity, dimensions, and design as before the emergency subject to the exemptions and expedited procedures under subsection (b).
+In General.—Any road, highway, railway, bridge, or transit facility that is damaged by an emergency that is declared by the Governor of the State, with the concurrence of the Secretary of Homeland Security, or declared as an emergency by the President pursuant to the Robert T. Stafford Disaster Relief andEmergency Assistance Act (42 U.S.C. 5121 et seq.), and that is in operation or under construction on the date on which the emergency occurs may be reconstructed in the same location with the same capacity, dimensions, and design as before the emergency subject to the exemptions and expedited procedures under subsection (b).
 
 "(b)
 
@@ -484,7 +484,7 @@ In General.—The Secretary \[of Transportation\] shall—
 
 "(b)
 
-Definition of an Operational Right-of-way.—In this section, the term 'operational right-of-way' means all real property interests acquired for the construction, operation, or mitigation of a project (as defined in section 101(a) of title 23, United States Code),including the locations of the roadway, bridges, interchanges, culverts, drainage, clear zone, traffic control signage, landscaping, and any rest areas with direct access to a controlled access highway."
+Definition of an Operational Right-of-way.—In this section, the term 'operational right-of-way' means all real property interests acquired for the construction, operation, or mitigation of a project (as defined in section 101(a) of title 23, United States Code), including the locations of the roadway, bridges, interchanges, culverts, drainage, clear zone, traffic control signage, landscaping, and any rest areas with direct access to a controlled access highway."
 
 #### Categorical Exclusion for Projects of Limited Federal Assistance
 
@@ -576,7 +576,7 @@ Pub. L. 108–29, §3, May 29, 2003, 117 Stat. 772, provided that:
 
 "(a)
 
-In General.—Notwithstanding the terms of any agreement entered into by the Secretary of Transportation and a State under section 109(d) or 402(a) of title 23, United States Code, a veterans cemetery shall be treated as a site for which a supplemental guide sign may be placed on any Federal-aid highway.
+In General.—Notwithstanding the terms of any agreement entered into by the Secretary of Transportation and a State under section 109(d) or 402(a) of title23, United States Code, a veterans cemetery shall be treated as a site for which a supplemental guide sign may be placed on any Federal-aid highway.
 
 "(b)
 

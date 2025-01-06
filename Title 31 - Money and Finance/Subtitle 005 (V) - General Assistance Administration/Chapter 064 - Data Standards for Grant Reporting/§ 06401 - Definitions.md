@@ -8,7 +8,7 @@ Agency.—The term "agency" has the meaning given the term in section 552(f) of 
 
 &emsp;(2)
 
-Core data elements.—The term "core data elements" means data elements relating to financial management, administration, or management that—
+Core data elements.—The term "core data elements" means data elements relatingto financial management, administration, or management that—
 
 &emsp;&emsp;(A) are not program-specific in nature or program-specific outcome measures, as defined in section 1115(h) of this title; and
 

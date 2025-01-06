@@ -60,5 +60,5 @@ Nothing in section 3210(e) of Pub. L. 117–328, which enacted this section, to 
 
 #### Definition of "Secretary"
 
-Secretary as used in this section means the Secretary of Health and Human Services, see section 3002 of div. FF of Pub. L. 117–328, set out as a note under section 350a–1 of this title.
+Secretary as used in this section means the Secretary of Health and Human Services, see section 3002 of div.FF of Pub. L. 117–328, set out as a note under section 350a–1 of this title.
 

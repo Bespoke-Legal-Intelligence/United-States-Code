@@ -72,7 +72,7 @@ Strategy Required.—The Chief of Staff of the Air Force and the Chief of Staff 
 
 Certification and Strategy.—Not later than June 1, 2021, the Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the following:
 
-&emsp;"(1) A certification that the defense of air bases and prepositioned sites outside the continental United States against threats described in subsection (a) is being addressed jointly.
+&emsp;"(1) A certification that the defense of air bases and prepositioned sites outside the continental UnitedStates against threats described in subsection (a) is being addressed jointly.
 
 &emsp;"(2) The strategy developed pursuant to subsection (a)."
 

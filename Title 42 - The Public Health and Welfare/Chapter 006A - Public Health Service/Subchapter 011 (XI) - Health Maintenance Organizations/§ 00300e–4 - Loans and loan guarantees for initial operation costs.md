@@ -8,7 +8,7 @@ The Secretary may—
 
 &emsp;(2) make loans to public or private health maintenance organizations to assist them in meeting the amount by which their costs of operation, which the Secretary determines are attributable to significant expansion in their membership or area served and which are incurred during a period not to exceed the first sixty months of their operation after such expansion, exceed their revenues in that period which the Secretary determines are attributable to such expansion; and
 
-&emsp;(3) guarantee to non-Federal lenders payment of the principal of and the interest on loans made to private health maintenance organizations for the amounts referred to in paragraphs (1) and (2).
+&emsp;(3) guarantee to non-Federal lenders payment of the principal of and the interest onloans made to private health maintenance organizations for the amounts referred to in paragraphs (1) and (2).
 
 > No loan or loan guarantee may be made under this subsection for the costs of operation of a health maintenance organization unless the Secretary determines that the organization has made all reasonable attempts to meet such costs, and unless the Secretary has made a grant or loan to, entered into a contract with, or guaranteed a loan for, the organization in fiscal year 1981, 1982, 1983, 1984, or 1985 under this section or section 300e–3(b) <sup>1</sup> of this title (as in effect before October 1, 1985).
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 95–559, §2(b), substituted "September 30, 1981" for "Sep
 
 Subsec. (a)(3). Pub. L. 94–460, §108(c), substituted reference to loans made to nonprofit private health maintenance organizations for the amounts referred to in paragraph (1) or (2), or to other private health maintenance organizations for such amounts but only if the health maintenance organization will serve a medically underserved population for reference to loans made to any private health maintenance organization (other than a private nonprofit health maintenance organization) for the amounts referred to in paragraph (1) or (2), but only if such health maintenance organization will serve a medically underserved population.
 
-Subsec. (b)(1). Pub. L. 94–460, §109(a)(2), substituted "In any fiscal year the amount disbursed to a health maintenance organization under this section (either directly by the Secretary or by an escrow agent under the terms of an escrow agreement or by a lender under a loan guaranteed under this section) may not exceed $1,000,000" for "In any fiscal year, the amount disbursed under a loan or loans made or guaranteed under this section for a health maintenance organization may not exceed $1,000,000,000".
+Subsec. (b)(1). Pub. L. 94–460, §109(a)(2), substituted "In any fiscal year the amount disbursed to a health maintenance organization under this section (either directly by the Secretary or by an escrow agent underthe terms of an escrow agreement or by a lender under a loan guaranteed under this section) may not exceed $1,000,000" for "In any fiscal year, the amount disbursed under a loan or loans made or guaranteed under this section for a health maintenance organization may not exceed $1,000,000,000".
 
 Subsec. (d). Pub. L. 94–460, §113(b), substituted "No loan may be made or guaranteed under this section after September 30, 1980" for "A loan or loan guarantee may be made under this section through the fiscal year ending June 30, 1978".
 

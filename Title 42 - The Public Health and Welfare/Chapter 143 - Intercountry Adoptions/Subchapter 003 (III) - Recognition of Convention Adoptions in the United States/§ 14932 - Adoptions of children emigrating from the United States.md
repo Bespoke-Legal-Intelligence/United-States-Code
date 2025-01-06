@@ -2,7 +2,7 @@
 
 #### (a) Duties of accredited agency or approved person
 
-In the case of a Convention adoption involving the emigration of a child residing in the UnitedStates to a foreign country, the accredited agency or approved person providing adoption services, or the prospective adoptive parent or parents acting on their own behalf (if permitted by the laws of such other Convention country in which they reside and the laws of the State in which the child resides), shall do the following:
+In the case of a Convention adoption involving the emigration of a child residing in the United States to a foreign country, the accredited agency or approved person providing adoption services, or the prospective adoptive parent or parents acting on their own behalf (if permitted by the laws of such other Convention country in which they reside and the laws of the State in which the child resides), shall do the following:
 
 &emsp;(1) Ensure that, in accordance with the Convention—
 

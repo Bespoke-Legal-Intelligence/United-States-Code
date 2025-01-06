@@ -52,9 +52,13 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Reimbursement of Pay, Allowances and Other Expenses When Members of the National Guard and Reserve Provide Intelligence or Counterintelligence Support to Combatant Commands, Defense Agencies and Joint Intelligence Activities
+
+Pub. L. 118–47, div. A, title VIII, §8049, Mar. 23, 2024, 138 Stat. 495, provided that: "In this fiscal year and each fiscal year thereafter, funds appropriated for operation and maintenance of the Military Departments, Combatant Commands and Defense Agencies shall be available for reimbursement of pay, allowances and other expenses which would otherwise be incurred against appropriations for the National Guard and Reserve when members of the National Guard and Reserve provide intelligence or counterintelligence support to Combatant Commands, Defense Agencies and Joint Intelligence Activities, including the activities and programs included within the National Intelligence Program and the Military Intelligence Program: <i>Provided</i>, That nothing in this section authorizes deviation from established Reserve and National Guard personnel and training procedures."
+
 #### Policy Required for Support of Entertainment Projects
 
-Pub. L. 117–263, div. A, title XII, §1257(c), Dec. 23, 2022, 136 Stat. 2852, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall issue a policy that describes how the Department of Defense will review requests to provide active or direct support to any film, television, or other entertainment project. The policy shall include ways to assess Chinese influence or potential influence over the content of a film, television, or other entertainment project, actions the Department can take to prevent Chinese censorship of a project, and criteria the Department shall use when evaluating requests to support a project."
+Pub. L. 117–263, div. A, title XII, §1257(c), Dec. 23, 2022, 136 Stat. 2852, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23,2022\], the Secretary of Defense shall issue a policy that describes how the Department of Defense will review requests to provide active or direct support to any film, television, or other entertainment project. The policy shall include ways to assess Chinese influence or potential influence over the content of a film, television, or other entertainment project, actions the Department can take to prevent Chinese censorship of a project, and criteria the Department shall use when evaluating requests to support a project."
 
 #### Prohibition on Transfer of Department of Defense Funds or Resources to the Taliban
 
@@ -82,9 +86,11 @@ Form.—The information described in paragraph (1) shall be submitted in an uncl
 
 #### Prohibition on Transporting Currency to the Taliban or the Islamic Emirate of Afghanistan
 
-Pub. L. 118–31, div. A, title XII, §1271, Dec. 22, 2023, 137 Stat. 486, provided that: "None of the amounts authorized to be appropriated by this Act \[Pub. L. 118–31, see Tables for classification\] or otherwise made available to the Department of Defense may be made available for the operation of any aircraft of the Department of Defense to transport currency or other items of value to the Taliban, the Islamic Emirate of Afghanistan, or any subsidiary, agent, or instrumentality of either the Taliban or the Islamic Emirate of Afghanistan."
+Pub. L. 118–159, div. A, title X, §1056, Dec. 23, 2024, 138 Stat. 2063, provided that: "None of the amounts authorized to be appropriated by this Act \[divs. A to D of Pub. L. 118–159, see Tables for classification\] or otherwise made available for the Department of Defense may be obligated or expended to operate any aircraft of the Department of Defense to transport currency or other items of value to the Taliban, the Islamic Emirate of Afghanistan, or any subsidiary, agent, or instrumentality of either the Taliban or the Islamic Emirate of Afghanistan."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 118–31, div. A, title XII, §1271, Dec. 22, 2023, 137 Stat. 486.
 
 Pub. L. 117–263, div. A, title XII, §1223, Dec. 23, 2022, 136 Stat. 2836.
 
@@ -99,6 +105,8 @@ Pub. L. 117–81, div. A, title XII, §1223(e), Dec. 27, 2021, 135 Stat. 1971, p
 Pub. L. 118–31, div. A, title XII, §1267, Dec. 22, 2023, 137 Stat. 483, provided that: "None of the amounts authorized to be appropriated by this Act \[Pub. L. 118–31, see Tables for classification\] or otherwise made available to the Department of Defense may be made available, directly or indirectly, to the Badr Organization."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 118–159, div. A, title X, §1057, Dec. 23, 2024, 138 Stat. 2063.
 
 Pub. L. 117–263, div. A, title XII, §1239, Dec. 23, 2022, 136 Stat. 2841.
 
@@ -130,7 +138,7 @@ In general.—The Secretary of Defense may waive the limitation under subsection
 
 &emsp;"(2)
 
-Management process.—If the Secretary issues a waiver under paragraph (1), the academic liaison designated pursuant to subsection (g) of section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232\] (\[former\] 10 U.S.C. 2358 note) \[now 10 U.S.C. 4001 note\], as amended by section 1299C of this Act, shall manage the waiver process on behalf of the Secretary.
+Management process.—If the Secretary issues a waiver under paragraph (1), the academic liaison designated pursuant to subsection (g) \[now (h)\] of section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232\] (\[former\] 10 U.S.C. 2358 note) \[now 10 U.S.C. 4001 note\], as amended by section 1299C of this Act, shall manage the waiver process on behalf of the Secretary.
 
 &emsp;"(3)
 
@@ -270,7 +278,7 @@ Rule of Construction Related to Intelligence Activities.—Nothing in this secti
 
 #### Funds Made Available for Transportation of Medical Supplies to American Samoa and Indian Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall bemade available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
+Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: "Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project."
 
 #### Obligation of Funds for Installation Support Functions
 
@@ -424,7 +432,7 @@ Pub. L. 104–106, div. A, title III, §335, Feb. 10, 1996, 110 Stat. 262, direc
 
 #### Interagency Courier Service
 
-Pub. L. 103–335, title VIII, §8119, Sept. 30, 1994, 108 Stat. 2649, provided that: "During the current fiscal year and hereafter, the Department of State and the Department of Defense are authorized to provide interagency courier service on a non-reimbursable basis."
+Pub. L. 103–335, title VIII, §8119, Sept. 30, 1994, 108 Stat. 2649, provided that: "During the current fiscal year and hereafter, the Department of State and theDepartment of Defense are authorized to provide interagency courier service on a non-reimbursable basis."
 
 #### Restrictions on Procurements From Outside of United States
 
@@ -440,7 +448,7 @@ Pub. L. 101–511, title VIII, §8019, Nov. 5, 1990, 104 Stat. 1879, provided th
 
 Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided that:
 
-"(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation.Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
+"(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation. Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
 
 "(b) During the current fiscal year and thereafter—
 

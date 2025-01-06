@@ -156,7 +156,17 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;(II) the number of days for which there was such an absence.
 
-(4) Cross references
+(4)
+
+Part-time employees.—For purposes of determining whether an employee who became eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of section 1052(c)(1)(B) of this title has a nonforfeitable right to employer contributions—
+
+&emsp;(A) except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and
+
+&emsp;(B) paragraph (3) shall be applied by substituting "at least 500 hours of service" for "more than 500 hours of service" in subparagraph (A) thereof.
+
+> For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of section 1052(a)(3)(A) of this title, except that 12-month periods beginning before January 1, 2023, shall not be taken into account.
+
+(5) Cross references
 
 &emsp;&emsp;<b>(A) For definitions of "accrued benefit" and "normal retirement age", see sections 1002(23) and (24) of this title.</b>
 
@@ -164,7 +174,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 #### (c) Plan amendments altering vesting schedule
 
-(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as notsatisfying the requirements of subsection (a)(2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
 (B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
@@ -192,7 +202,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 &emsp;&emsp;(A) subject to paragraph (2), the requirements of subsection (a)(2), or
 
-&emsp;&emsp;(B) the requirements of section 1054(c) or 1055(g) of this title, or the requirements of subsection (e), with respect to accrued benefits derived from employer contributions,
+&emsp;&emsp;(B) the requirements of section 1054(c) or 1055(g) of this title, or the requirements ofsubsection (e), with respect to accrued benefits derived from employer contributions,
 
 > &emsp;solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in paragraph (3) or as an accumulated percentage of the participant's final average compensation.
 
@@ -213,22 +223,6 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 &emsp;&emsp;The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
 (Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §108(a)(4), formerly §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 117–328, div. T, title I, §125(b), title III, §304(a), Dec. 29, 2022, 136 Stat. 5315, 5341.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 117–328, div. T, title I, §125(b), (f)(1), Dec. 29, 2022, 136 Stat. 5315, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b) of this section is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph:</i>
-
-#### <i>"(4) Part-time employees</i>
-
-&emsp;<i>"For purposes of determining whether an employee who became eligible to participate in a</i><i>qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of section 1052(c)(1)(B) of this title has a nonforfeitable right to employer contributions—</i>
-
-&emsp;&emsp;<i>"(A) except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and</i>
-
-&emsp;&emsp;<i>"(B) paragraph (3) shall be applied by substituting 'at least 500 hours of service' for 'more than 500 hours of service' in subparagraph (A) thereof.</i>
-
-> <i>For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of section 1052(a)(3)(A) of this title, except that 12-month periods beginning before January 1, 2023, shall not be taken into account."</i>
-
-<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -310,7 +304,7 @@ Subsec. (e)(2). Pub. L. 101–239, §7891(b)(1), (2), realigned margins of subpa
 
 Subsec. (e)(3). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the "rule of 45" underwhich a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the "rule of 45" under which a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
 
 Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(B)(i), inserted last sentence and struck out former last sentence which read as follows: "In the case of a defined contribution plan the plan provision required under this clause may provide that such repayment must be made before the participant has any 1-year break in service commencing after the withdrawal."
 
@@ -356,7 +350,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Amendment by section 108(a)(4) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Amendment by section 701(a)(2) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, and to distributions made after Aug. 17, 2006, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 701(a)(2) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, and to distributions made after Aug. 17, 2006, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adoptedafter, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 902(d)(2)(E) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 902(g) of Pub. L. 109–280, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
@@ -378,7 +372,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning on or after th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
@@ -418,7 +412,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L.104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

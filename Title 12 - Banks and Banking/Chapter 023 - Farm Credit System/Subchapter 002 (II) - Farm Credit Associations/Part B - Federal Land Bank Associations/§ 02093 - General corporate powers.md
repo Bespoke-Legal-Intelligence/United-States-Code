@@ -36,7 +36,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(11) elect by its board of directors a loan committee with power to elect applicants for membership in the association and recommend loans to the Farm Credit Bank, or with the approval of the Farm Credit Bank, delegate the election of applicants for membership and the approval of loans within specified limits to other committees or to authorized employees of the association;
 
-&emsp;(12) on agreement with the bank, take such additional actions with respect to applicationsand loans and perform such functions as are vested by law in the Farm Credit Banks as may be agreed to by the association;
+&emsp;(12) on agreement with the bank, take such additional actions with respect to applications and loans and perform such functions as are vested by law in the Farm Credit Banks as may be agreed to by the association;
 
 &emsp;(13) endorse and become liable to the bank on loans it makes to association members;
 
@@ -58,7 +58,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(22) operate as an originator and become certified as a certified facility under subchapter VIII.
 
-(Pub. L. 92–181, title II, §2.12, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1635; amended Pub. L. 100–399, title IV, §401(u), Aug. 17, 1988, 102 Stat. 998.)
+(Pub. L. 92–181, title II, §2.12, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1635;amended Pub. L. 100–399, title IV, §401(u), Aug. 17, 1988, 102 Stat. 998.)
 
 #### <b>Editorial Notes</b>
 

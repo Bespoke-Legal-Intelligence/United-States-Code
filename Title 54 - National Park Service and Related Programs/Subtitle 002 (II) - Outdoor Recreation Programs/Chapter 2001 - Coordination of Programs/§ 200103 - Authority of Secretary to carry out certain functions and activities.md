@@ -14,17 +14,13 @@ Classification System.—The Secretary may prepare a system for classification o
 
 (d)
 
-Recreation Plan.—The Secretary may formulate and maintain a comprehensive nationwide outdoor recreation plan, taking into consideration the plans of the various Federal agencies, States, and their political subdivisions. The plan shall set forth the needs and demands of the public for outdoor recreation and the current and foreseeable availability in the future of outdoor recreation resources to meet those needs. The plan shall identify critical outdoor recreation problems, recommend solutions, and recommend desirable actions to be taken at each level of government and by private interests. The Secretary shall submit the plan to the President for transmittal to Congress. Revisions of the plan shall be similarly transmitted at succeeding 5-year intervals. When a plan or revision is transmitted to the Congress, the Secretary shall transmit copies to the chief executive officials of the States.
+Technical Assistance and Advice.—The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
 
 (e)
 
-Technical Assistance and Advice.—The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
-
-(f)
-
 Interstate and Regional Cooperation.—The Secretary may encourage interstate and regional cooperation in the planning, acquisition, and development of outdoor recreation resources.
 
-(g)
+(f)
 
 Research, Information, and Education Programs and Activities.—The Secretary may—
 
@@ -34,7 +30,7 @@ Research, Information, and Education Programs and Activities.—The Secretary ma
 
 &emsp;(3) cooperate with educational institutions and others to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
 
-(h)
+(g)
 
 Cooperation and Coordination with Federal Agencies.—
 
@@ -50,11 +46,11 @@ In general.—The Secretary may—
 
 Funding.—An agency furnishing advice or assistance under this paragraph may expend its own funds for those purposes, with or without reimbursement, as may be agreed to by that agency.
 
-(i)
+(h)
 
 Donations.—The Secretary may accept and use donations of money, property, personal services, or facilities for the purposes of this chapter.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3170.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3170; Pub. L. 118–234, title I, §112(c), Jan. 4, 2025, 138 Stat. 2839.)
 
 Historical and Revision Notes
 
@@ -75,4 +71,10 @@ Pub. L. 88–29, §2, May 28, 1963, 77 Stat. 49; Pub. L. 91–375, §6(h), Aug. 
 In subsection (d), the words "which shall be prepared as soon as practicable within 5 years on and after May 28, 1963" and "Future" are omitted as obsolete.
 
 In subsection (h), the word "department" is omitted as being included in "agency".
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2025</b>—Subsecs. (d) to (i). Pub. L. 118–234 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which related to formulation and maintenance of a comprehensive nationwide outdoor recreation plan.
 

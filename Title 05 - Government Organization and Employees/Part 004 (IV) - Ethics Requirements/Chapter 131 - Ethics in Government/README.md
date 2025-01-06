@@ -48,7 +48,7 @@
 
 #### Effect of References to Title 5 on Application of Ethics Provisions
 
-Pub. L. 117–286, §6, Dec. 27, 2022, 136 Stat. 4360, provided that: "A Federal statute providing that title 5 ofthe United States Code as a whole is inapplicable, or providing that an appointment may be made without regard to the provisions of title 5 governing appointment in the competitive service, shall not affect the application of any provision of chapter 131 of title 5, United States Code."
+Pub. L. 117–286, §6, Dec. 27, 2022, 136 Stat. 4360, provided that: "A Federal statute providing that title 5 of the United States Code as a whole is inapplicable, or providing that an appointment may be made without regard to the provisions of title 5 governing appointment in the competitive service, shall not affect the application of any provision of chapter 131 of title 5, United States Code."
 
 #### Rule of Construction
 

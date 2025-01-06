@@ -50,7 +50,7 @@ The Director of National Intelligence, with the concurrence of the Director of t
 
 (1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall prepare a report on the acquisition of a major system funded under the National Intelligence Program before the time that the President submits to Congress the budget for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
 
-(2) The report on such major system shall include an assessment of whether, and to what extent, such acquisition, if developed, procured, and operated, is projected to cause an increase in the most recent Future Year Intelligence Plan and Long-term Budget Projection submitted under this section for an element of the intelligence community.
+(2) The report on such major system shall include an assessment of whether, and to what extent, such acquisition, if developed, procured, and operated, is projected to cause an increasein the most recent Future Year Intelligence Plan and Long-term Budget Projection submitted under this section for an element of the intelligence community.
 
 (3) The Director of National Intelligence shall update the report whenever an independent cost estimate must be updated pursuant to section 3097(a)(4) of this title.
 
@@ -90,7 +90,7 @@ Pub. L. 111–259, title III, §325(b), Oct. 7, 2010, 124 Stat. 2683, provided t
 
 #### Future-Years Intelligence Program
 
-Pub. L. 115–245, div. A, title VIII, §8089, Sept. 28, 2018, 132 Stat. 3021, provided that: "The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) oftitle 31, United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years."
+Pub. L. 115–245, div. A, title VIII, §8089, Sept. 28, 2018, 132 Stat. 3021, provided that: "The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years."
 
 Similar provisions were contained in the following appropriation acts:
 

@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) A plan is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i)(I) the plan's normal cost for the current plan year, plus interest (determined at the rate used for determining costs under the plan) for the current plan year on the amount of unfunded benefit liabilities under the plan as of the last date of the preceding plan year, exceeds
+&emsp;&emsp;&emsp;(i)(I) the plan's normal cost for the current plan year, plus interest (determined at the rate used for determining costsunder the plan) for the current plan year on the amount of unfunded benefit liabilities under the plan as of the last date of the preceding plan year, exceeds
 
 &emsp;&emsp;&emsp;(II) the present value of the reasonably anticipated employer and employee contributions for the current plan year,
 
@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (7) Plans receiving special financial assistance
 
-&emsp;If an eligible multiemployer plan receiving special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974 meets the requirements of subsection (k)(2), notwithstanding the preceding paragraphs of this subsection, the plan shall be deemed to be in critical status for plan years beginning with the plan year in which the effective date for such assistance occurs and ending with the last plan year ending in 2051.
+&emsp;If an eligible multiemployer plan receiving special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974 meets the requirements of subsection (k)(2), notwithstanding the preceding paragraphs of this subsection, the plan shallbe deemed to be in critical status for plan years beginning with the plan year in which the effective date for such assistance occurs and ending with the last plan year ending in 2051.
 
 #### (c) Funding improvement plan must be adopted for multiemployer plans in endangered status
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (i) Plans no longer in endangered status
 
-&emsp;&emsp;&emsp;If the plan's actuary certifies under subsection (b)(3)(A) for a plan year in any funding plan adoption period or funding improvement period that the plan is no longer in endangered status and is not in critical status, the funding plan adoption period or funding improvement period, whichever is applicable, shall end as of the close of the preceding plan year.
+&emsp;&emsp;&emsp;If the plan's actuary certifies under subsection (b)(3)(A) for a plan year in any funding plan adoption period or fundingimprovement period that the plan is no longer in endangered status and is not in critical status, the funding plan adoption period or funding improvement period, whichever is applicable, shall end as of the close of the preceding plan year.
 
 #### (ii) Plans in critical status
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered endangered status expires, and
 
-&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph\(1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
+&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
 
 > &emsp;&emsp;the plan sponsor shall implement the schedule described in paragraph (1)(B)(i)(I) beginning on the date specified in subparagraph (C).
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) after receiving one or more updated schedules from the plan sponsor under paragraph (6)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the updated funding improvement plan and a schedule from the plan sponsor,
 
-> &emsp;&emsp;then the contribution schedule applicable under the expired collective bargaining agreement, as updated and in effect on the date the collective bargaining agreement expires, shall be implemented by the plan sponsor beginning on the date specified in subparagraph (C).
+> &emsp;&emsp;then the contribution schedule applicable under the expired collective bargaining agreement, as updated and in effect on thedate the collective bargaining agreement expires, shall be implemented by the plan sponsor beginning on the date specified in subparagraph (C).
 
 #### (C) Date of implementation
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to emerging from critical status in accordance with the rehabilitation plan.
 
-> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emergefrom critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
+> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
 
 #### (2) Exception for years after process begins
 
@@ -434,7 +434,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection (b)(2) as of the beginning of the plan year,
 
-&emsp;&emsp;&emsp;&emsp;(II) the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 431(d)(2) or section 412(e) (as in effect prior to the enactment of the Pension Protection Act of 2006), and
+&emsp;&emsp;&emsp;&emsp;(II) the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding planyears, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 431(d)(2) or section 412(e) (as in effect prior to the enactment of the Pension Protection Act of 2006), and
 
 &emsp;&emsp;&emsp;&emsp;(III) the plan is not projected to become insolvent within the meaning of section 418E for any of the 30 succeeding plan years.
 
@@ -492,7 +492,7 @@ For purposes of this section—
 
 #### (E) Surcharge not to generate increased benefit accruals
 
-&emsp;&emsp;Notwithstanding any provision of a plan to the contrary, the amount of any surcharge under this paragraph shall not be the basis for any benefit accrual under the plan.
+&emsp;&emsp;Notwithstanding any provision of a plan to the contrary, the amount of any surchargeunder this paragraph shall not be the basis for any benefit accrual under the plan.
 
 #### (8) Benefit adjustments
 
@@ -548,7 +548,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any notice under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of theSecretary, in consultation with the Secretary of Labor,
+&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of the Secretary, in consultation with the Secretary of Labor,
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
@@ -566,7 +566,7 @@ For purposes of this section—
 
 #### (i) Suspension of benefits defined
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term "suspension of benefits" means the temporary or permanent reduction of any current or future payment obligation of the plan to any participant or beneficiary under the plan, whether or not in pay status at the time of the suspension of benefits.
+&emsp;&emsp;&emsp;For purposes of this subsection, the term "suspension of benefits" means the temporary or permanent reduction of any current or future payment obligation of the plan to any participant or beneficiaryunder the plan, whether or not in pay status at the time of the suspension of benefits.
 
 #### (ii) Length of suspensions
 
@@ -684,7 +684,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities ofthe plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
+&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities of the plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
@@ -760,7 +760,7 @@ For purposes of this section—
 
 #### (iv) Other notice requirement
 
-&emsp;&emsp;&emsp;Any notice provided under clause (i) shall fulfill the requirement for notice of a significant reduction in benefits described in section 4980F.
+&emsp;&emsp;&emsp;Any notice provided under clause (i) shall fulfill the requirement for notice of asignificant reduction in benefits described in section 4980F.
 
 #### (v) Model notice
 
@@ -796,7 +796,7 @@ For purposes of this section—
 
 #### (ii) Administration of vote
 
-&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of theTreasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
+&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
 
 #### (iii) Ballots
 
@@ -844,7 +844,7 @@ For purposes of this section—
 
 #### (vi) Final authorization to suspend
 
-&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with thePension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
+&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
 
 #### (I) Judicial review
 
@@ -862,7 +862,7 @@ For purposes of this section—
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5, United States Code.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits underthis paragraph in accordance with section 706 of title 5, United States Code.
 
 #### (bb) Temporary injunction
 
@@ -934,7 +934,7 @@ For purposes of this section—
 
 #### (2) Surcharges
 
-&emsp;Any surcharges under subsection (e)(7) shall be disregarded in determining the allocation of unfunded vested benefits to an employer under section 4211 of the Employee Retirement Income Security Act of 1974 and in determining the highest contribution rate under section 4219(c) of such Act, except for purposes of determining the unfunded vested benefits attributable to an employer under section 4211(c)(4) of such Act or a comparable method approved under section 4211(c)(5) of such Act.
+&emsp;Any surcharges under subsection (e)(7) shall be disregarded in determining the allocationof unfunded vested benefits to an employer under section 4211 of the Employee Retirement Income Security Act of 1974 and in determining the highest contribution rate under section 4219(c) of such Act, except for purposes of determining the unfunded vested benefits attributable to an employer under section 4211(c)(4) of such Act or a comparable method approved under section 4211(c)(5) of such Act.
 
 #### (3) Contribution increases required by funding improvement or rehabilitation plan
 
@@ -988,7 +988,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the numerator of which is the value of the plan's assets, as determined under section 431(c)(2), and
 
-&emsp;&emsp;(B) the denominator of which is the accrued liability of the plan, determined using actuarial assumptions described in section 431(c)(3).
+&emsp;&emsp;(B) the denominator of which is the accrued liability of the plan, determined usingactuarial assumptions described in section 431(c)(3).
 
 #### (3) Accumulated funding deficiency
 
@@ -1072,7 +1072,7 @@ For purposes of this section—
 
 #### (D) Plans applying for priority consideration
 
-&emsp;&emsp;In the case of a plan applying for special financial assistance under rules providing for temporary priority consideration, as provided in paragraph (4)(C), such plan's application shall be submitted to the Secretary in addition to the Pension Benefit Guaranty Corporation.
+&emsp;&emsp;In the case of a plan applying for special financial assistance under rules providingfor temporary priority consideration, as provided in paragraph (4)(C), such plan's application shall be submitted to the Secretary in addition to the Pension Benefit Guaranty Corporation.
 
 #### (2) Plans receiving special financial assistance
 
@@ -1144,7 +1144,7 @@ For purposes of this section—
 
 #### (4) Coordination with pension benefit guaranty corporation
 
-&emsp;In prescribing the application process for eligible multiemployer plans to receive special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974 and reviewing applications of such plans, the Pension Benefit Guaranty Corporation shall coordinate with the Secretary in the following manner:
+&emsp;In prescribing the application process for eligible multiemployer plans to receive special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974 and reviewing applications of such plans, the Pension Benefit Guaranty Corporationshall coordinate with the Secretary in the following manner:
 
 &emsp;&emsp;(A) In the case of a plan which has suspended benefits under subsection (e)(9)—
 
@@ -1308,7 +1308,7 @@ Subsec. (i)(9). Pub. L. 110–458, §102(b)(2)(G)(ii), added par. (9) and struck
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–235, div. O, title I, §102(c), Dec. 16, 2014, 128 Stat. 2777, provided that: "The amendments made by this section \[amending this section and section 1085 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2014."
+Pub. L. 113–235, div. O, title I, §102(c), Dec. 16, 2014, 128 Stat. 2777, provided that: "The amendments made bythis section \[amending this section and section 1085 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2014."
 
 Pub. L. 113–235, div. O, title I, §103(c), Dec. 16, 2014, 128 Stat. 2779, provided that: "The amendments made by this section \[amending this section and section 1085 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2014."
 
@@ -1386,7 +1386,7 @@ In general.—Notwithstanding section 305(b)(3)(D) of the Employee Retirement In
 
 &emsp;&emsp;"(B)
 
-Notice of endangered status.—Notwithstanding section 305(b)(3)(D) of such Act and section 432(b)(3)(D) of such Code, if the plan is certified to be in critical status for any plan year but is in endangered status by reason of an election made under subsection (a), the notice provided under such sections shall be the notice which would have been provided if the plan had been certified to be in endangered status."
+Notice of endangered status.—Notwithstanding section 305(b)(3)(D) of such Act and section 432(b)(3)(D) of such Code, if the plan is certified to be in critical status for any plan year but is in endangered status by reason of an election made under subsection (a), the notice provided under such sections shall be the notice which would havebeen provided if the plan had been certified to be in endangered status."
 
 #### Temporary Extension of the Funding Improvement and Rehabilitation Periods for Multiemployer Pension Plans in Critical and Endangered Status for 2020 or 2021
 

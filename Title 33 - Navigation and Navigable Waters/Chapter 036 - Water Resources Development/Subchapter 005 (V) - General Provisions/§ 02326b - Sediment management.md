@@ -32,7 +32,7 @@ In developing strategies under subsection (a), the Secretary shall consult with 
 
 #### (1) In general
 
-&emsp;In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a).
+&emsp;In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of majorriver systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a).
 
 #### (2) Requirements for models
 
@@ -48,7 +48,7 @@ In this section, the term "Great Lakes States" means the States of Illinois, Ind
 
 #### (g) Coastal mapping
 
-The Secretary shall develop and carry out a plan for the recurring mapping of coastlinesthat are experiencing rapid change, including such coastlines in—
+The Secretary shall develop and carry out a plan for the recurring mapping of coastlines that are experiencing rapid change, including such coastlines in—
 
 &emsp;(1) Alaska;
 

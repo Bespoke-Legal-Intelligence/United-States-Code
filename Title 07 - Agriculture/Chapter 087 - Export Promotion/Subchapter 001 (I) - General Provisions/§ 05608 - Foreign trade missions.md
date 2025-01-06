@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Tribal Advisory Committee established under subsection (b)(2) of section 6921 of this title (referred to in this section as the "Advisory Committee"), shall seek—
+&emsp;The Secretary, in consultation with the Tribal Advisory Committee established undersubsection (b)(2) of section 6921 of this title (referred to in this section as the "Advisory Committee"), shall seek—
 
 &emsp;&emsp;(A) to support the greater inclusion of Tribal agricultural and food products in Federal trade-related activities; and
 

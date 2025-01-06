@@ -2,7 +2,7 @@
 
 #### (a) Full registration period
 
-A sex offender shall keep the registration current for the full registration period (excluding any time the sex offender is in custody or civilly committed) unless the offender is allowed a reduction under subsection (b). The full registration period is—
+A sex offender shall keep the registration current for the full registration period (excludingany time the sex offender is in custody or civilly committed) unless the offender is allowed a reduction under subsection (b). The full registration period is—
 
 &emsp;(1) 15 years, if the offender is a tier I sex offender;
 

@@ -14,7 +14,7 @@ Subject to section 552a of title 5, the Commission may secure directly from any 
 
 #### (d) Authorization to seek and accept donations of funds, property, or services
 
-Notwithstanding any other provision of law, the Commission may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private entities, and from public entities, for the purpose of carrying out its duties.
+Notwithstanding any other provision of law, the Commission may seek and accept donationsof funds, property, or services from individuals, foundations, corporations, and other private entities, and from public entities, for the purpose of carrying out its duties.
 
 #### (e) Use of funds for obtaining additional moneys
 

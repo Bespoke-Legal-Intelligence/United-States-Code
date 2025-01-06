@@ -18,7 +18,7 @@ The Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;From the amount made available under subsection (a)(1) for a fiscal year, the Secretary shall reserve not more than ¼ of 1percent of such amount to provide assistance to the outlying areas.
+&emsp;&emsp;&emsp;From the amount made available under subsection (a)(1) for a fiscal year, the Secretary shall reserve not more than ¼ of 1 percent of such amount to provide assistance to the outlying areas.
 
 #### (ii) Applicability of additional requirements
 

@@ -30,7 +30,7 @@ In General.—For the sport that it governs, a national governing body shall—
 
 &emsp;(11) encourage and support research, development, and dissemination of information in the areas of sports medicine and sports safety;
 
-&emsp;(12) develop 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the national governing body from assisting a member or former member in obtaining a new job (except for the routine transmission of administrative and personnel files) if the individual knows that suchmember or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law or the policies or procedures of the Center;
+&emsp;(12) develop 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the national governing body from assisting a member or former member in obtaining a new job (except for the routine transmission of administrative and personnel files) if the individual knows that such member or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law or the policies or procedures of the Center;
 
 &emsp;(13) promote a safe environment in sports that is free from abuse of any amateur athlete, including emotional, physical, and sexual abuse;
 
@@ -86,5 +86,5 @@ Subsec. (a)(10) to (14). Pub. L. 116–189, §7(c)(2), added pars. (10) to (14).
 
 #### Rule of Construction
 
-For construction of Pub. L. 117–340 as it pertains to certain rights of athletes, see section 2(d) of Pub. L. 117–340, set out as a note under section 220505 of this title.
+For construction of Pub. L. 117–340 as it pertains to certain rights of athletes, see section 2(d) of Pub. L.117–340, set out as a note under section 220505 of this title.
 

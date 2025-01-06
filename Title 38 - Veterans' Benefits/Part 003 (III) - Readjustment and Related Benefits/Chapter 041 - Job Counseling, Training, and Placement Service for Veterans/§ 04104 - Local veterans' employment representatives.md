@@ -144,7 +144,7 @@ States Designated.—The pilot program shall be limited to not more than five St
 
 "(e)
 
-Reports to Congress.—(1) Not later than one year after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary of Labor shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives an interim report describing in detail the development and implementation of the pilot program on a State by State basis.
+Reports to Congress.—(1) Not later than one year after the date of the enactment of this Act \[Oct.9, 1996\], the Secretary of Labor shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives an interim report describing in detail the development and implementation of the pilot program on a State by State basis.
 
 "(2) Not later than 120 days after the expiration of this section under subsection (h), the Secretary of Labor shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a final report evaluating the results of the pilot program and make recommendations based on the evaluation, which may include legislative recommendations.
 

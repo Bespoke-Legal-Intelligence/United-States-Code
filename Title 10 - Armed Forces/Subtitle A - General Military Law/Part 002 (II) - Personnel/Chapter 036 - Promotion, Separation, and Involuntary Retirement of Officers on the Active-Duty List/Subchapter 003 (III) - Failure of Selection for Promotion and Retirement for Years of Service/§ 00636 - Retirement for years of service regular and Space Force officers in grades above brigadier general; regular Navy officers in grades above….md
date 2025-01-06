@@ -4,7 +4,7 @@
 
 Major Generals and Rear Admirals Serving in Grade.—(1) Except as provided in subsection (b) or (c) and under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of major general, and each officer of the Regular Navy who holds the regular grade of rear admiral, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 35 years of active commissioned service, whichever is later.
 
-(2) Except as provided in subsection (b) or (c) and under section 637(b) or 637a of this title,each officer of the Space Force who holds the grade of major general shall, if not earlier retired, be retired as specified in paragraph (1).
+(2) Except as provided in subsection (b) or (c) and under section 637(b) or 637a of this title, each officer of the Space Force who holds the grade of major general shall, if not earlier retired, be retired as specified in paragraph (1).
 
 (b)
 

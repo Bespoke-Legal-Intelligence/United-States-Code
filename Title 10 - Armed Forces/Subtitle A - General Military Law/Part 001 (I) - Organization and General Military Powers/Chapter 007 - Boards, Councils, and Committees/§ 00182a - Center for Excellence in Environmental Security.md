@@ -42,7 +42,7 @@ Acceptance of Donations.—(1) Except as provided in paragraph (2), the Secretar
 
 (3) The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a foreign donation under paragraph (1) would have a result described in paragraph (2).
 
-(4) Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations available to the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
+(4) Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations availableto the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
 
 (Added Pub. L. 117–263, div. A, title III, §311, Dec. 23, 2022, 136 Stat. 2501.)
 

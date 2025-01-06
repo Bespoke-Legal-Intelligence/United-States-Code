@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law104–104) or any other provision of law, a State or local government may not deny, and shall approve, any eligible facilities request for a modification of an existing wireless tower or base station that does not substantially change the physical dimensions of such tower or base station.
+&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law 104–104) or any other provision of law, a State or local government may not deny, and shall approve, any eligible facilities request for a modification of an existing wireless tower or base station that does not substantially change the physical dimensions of such tower or base station.
 
 #### (2) Eligible facilities request
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law 104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
+&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
 
 &emsp;&emsp;(A) develop one or more master contracts that shall govern the placement of communications facility installations on buildings and other property owned by the Federal Government; and
 
@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as providedin subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
+&emsp;&emsp;The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
 
 #### (B) Exception
 
@@ -134,7 +134,7 @@ Real property authorities.—Nothing in this section \[amending this section and
 
 "(2)
 
-Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
+Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelopany Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

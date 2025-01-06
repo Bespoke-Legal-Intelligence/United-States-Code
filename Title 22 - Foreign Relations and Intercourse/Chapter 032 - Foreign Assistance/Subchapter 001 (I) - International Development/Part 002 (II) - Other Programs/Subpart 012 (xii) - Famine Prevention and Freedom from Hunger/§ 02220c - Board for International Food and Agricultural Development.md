@@ -2,7 +2,7 @@
 
 #### (a) Establishment; terms and expenses of members
 
-To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the "Board") consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
+To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development\(hereafter in this subpart referred to as the "Board") consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
 
 #### (b) General areas of responsibility
 
@@ -60,7 +60,7 @@ In addition to any other functions assigned to and agreed to by the Board, the B
 
 #### References in Text
 
-The Governmental Performance and Results Act of 1993, referred to in subsec. (c)(7), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39,Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Governmental Performance and Results Act of 1993, referred to in subsec. (c)(7), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Amendments
 

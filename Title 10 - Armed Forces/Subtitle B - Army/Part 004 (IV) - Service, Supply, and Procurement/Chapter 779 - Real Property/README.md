@@ -51,7 +51,7 @@ Authorization of Appropriations.—Of the amounts authorized to be appropriated 
 
 #### Department of the Army Pilot Program for Development and Use of Online Real Estate Inventory Tool
 
-Pub. L. 116–283, div. B, title XXVIII, §2866, Jan. 1, 2021, 134 Stat. 4361, provided that:
+Pub. L. 116–283, div. B, title XXVIII, §2866, Jan. 1, 2021, 134 Stat. 4361, as amended by Pub. L. 118–159, div. B, title XXVIII, §2873, Dec. 23, 2024, 138 Stat. 2283, provided that:
 
 "(a)
 
@@ -63,7 +63,7 @@ Establishment.—The Secretary of the Army shall establish a pilot program for t
 
 &emsp;"(2)
 
-Selection of pilot locations.—The Secretary shall evaluate the online inventory tool at not less than five, but not more than 10, Army installations selected by the Secretary as appropriate locations for evaluation of the online inventory tool.
+Selection of pilot locations.—The Secretary shall evaluate the online inventory tool at not lessthan five, but not more than 10, Army installations selected by the Secretary as appropriate locations for evaluation of the online inventory tool.
 
 &emsp;"(3)
 
@@ -117,7 +117,7 @@ Reporting Requirement.—Not later than February 15, 2025, the Secretary of the 
 
 "(h)
 
-Duration.—The authority of the Secretary of the Army to conduct the pilot program shall expire on September 30, 2025."
+Duration.—The authority of the Secretary of the Army to conduct the pilot program shall expire on September 30, 2026."
 
 
 ---

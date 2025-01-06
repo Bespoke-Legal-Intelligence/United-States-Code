@@ -90,7 +90,7 @@ In making awards under subsection (a) or (b), the Director shall—
 
 &emsp;(2) encourage applicants which, for the purpose of the activity or activities funded through the award, include or partner with a consortium of rural schools or rural school districts; and
 
-&emsp;(3) encourage applications which, for the purpose of the activity or activities funded through the award, include commitments from school principals, other school leaders, and administrators to making reforms and activities proposed by the applicant a priority.
+&emsp;(3) encourage applications which, for the purpose of the activity or activities funded through the award, include commitments fromschool principals, other school leaders, and administrators to making reforms and activities proposed by the applicant a priority.
 
 #### (e) Evaluations
 

@@ -14,7 +14,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;&emsp;(A) tunnel, bridge, viaduct, trestle, track, electromagnetic guideway, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance used in the operation of, or in support of the operation of, a railroad carrier, and with intent to, or knowing or having reason to know,<sup>1</sup> such activity would likely, derail, disable, or wreck railroad on-track equipment; or
 
-&emsp;&emsp;(B) garage, terminal, structure, track, electromagnetic guideway, supply, or facility used in the operation of, or in support of the operation of, a mass transportation vehicle, and with intent to, or knowing or having reason to know,<sup>1</sup> such activity would likely, derail, disable, or wreck a mass transportation vehicle used, operated, or employed by a mass transportation provider;
+&emsp;&emsp;(B) garage, terminal, structure, track, electromagnetic guideway, supply, or facility used in the operation of, or in support of the operation of, a mass transportation vehicle, and with intent to, or knowing or having reason to know,<sup>1</sup> such activity would likely,derail, disable, or wreck a mass transportation vehicle used, operated, or employed by a mass transportation provider;
 
 &emsp;(5) removes an appurtenance from, damages, or otherwise impairs the operation of a railroad signal system or mass transportation signal or dispatching system, including a train control system, centralized dispatching system, or highway-railroad grade crossing warning signal;
 
@@ -82,7 +82,7 @@ Definitions.—In this section—
 
 &emsp;(12) the term "serious bodily injury" has the meaning given to that term in section 1365;
 
-&emsp;(13) the term "spent nuclear fuel" has the meaning given to that term in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23));
+&emsp;(13) the term "spent nuclear fuel" has the meaning given to that term in section 2(23) ofthe Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23));
 
 &emsp;(14) the term "State" has the meaning given to that term in section 2266;
 

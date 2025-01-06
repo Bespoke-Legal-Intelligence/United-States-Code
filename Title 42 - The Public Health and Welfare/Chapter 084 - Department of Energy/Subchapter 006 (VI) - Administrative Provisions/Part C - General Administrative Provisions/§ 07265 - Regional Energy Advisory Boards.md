@@ -6,7 +6,7 @@ The Governors of the various States may establish Regional Energy Advisory Board
 
 #### (b) Observers
 
-Representatives of the Secretary, the Secretary of Commerce, the Secretary of the Interior, the Chairman of the Council on Environmental Quality, the Commandant of the CoastGuard and the Administrator of the Environmental Protection Agency shall be entitled to participate as observers in the deliberations of any Board established pursuant to subsection (a) of this section. The Federal Cochairman of the Appalachian Regional Commission or any regional commission under title V of the Public Works and Economic Development Act \[42 U.S.C. 3181 et seq.\] shall be entitled to participate as an observer in the deliberations of any such Board which contains one or more States which are members of such Commission.
+Representatives of the Secretary, the Secretary of Commerce, the Secretary of the Interior, the Chairman of the Council on Environmental Quality, the Commandant of the Coast Guard and the Administrator of the Environmental Protection Agency shall be entitled to participate as observers in the deliberations of any Board established pursuant to subsection (a) of this section. The Federal Cochairman of the Appalachian Regional Commission or any regional commission under title V of the Public Works and Economic Development Act \[42 U.S.C. 3181 et seq.\] shall be entitled to participate as an observer in the deliberations of any such Board which contains one or more States which are members of such Commission.
 
 #### (c) Recommendations of Board
 
@@ -14,7 +14,7 @@ Each Board established pursuant to subsection (a) may make such recommendations 
 
 #### (d) Notice of reasons not to adopt recommendations
 
-If any Regional Advisory Board makes specific recommendations pursuant to subsection (c), the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.
+If any Regional Advisory Board makes specific recommendations pursuant to subsection (c),the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.
 
 (Pub. L. 95–91, title VI, §655, Aug. 4, 1977, 91 Stat. 602.)
 

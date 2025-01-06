@@ -20,7 +20,7 @@
 
 #### (2) Program administration
 
-&emsp;Of the funds reserved under paragraph (1)(A), the State educational agency may use notmore than 1 percent to administer the program described in this section.
+&emsp;Of the funds reserved under paragraph (1)(A), the State educational agency may use not more than 1 percent to administer the program described in this section.
 
 #### (b) Awards
 

@@ -24,7 +24,7 @@ Par. (2). Pub. L. 111–203, §360(1)(B), substituted ", bank holding companies
 
 Par. (3). Pub. L. 111–203, §360(1)(C), substituted "Corporation and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)," for "Corporation,".
 
-Par. (4). Pub. L. 111–203, §360(1)(D), (E), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "the Director of the Office of Thrift Supervision with respect to a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and savings and loan holding companies,".
+Par. (4). Pub. L. 111–203, §360(1)(D), (E), redesignated par. (5) as (4) and struck out former par. (4) which readas follows: "the Director of the Office of Thrift Supervision with respect to a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and savings and loan holding companies,".
 
 Par. (5). Pub. L. 111–203, §360(1)(E), (F), redesignated par. (6) as (5) and substituted "through (4)" for "through (5)". Former par. (5) redesignated (4).
 

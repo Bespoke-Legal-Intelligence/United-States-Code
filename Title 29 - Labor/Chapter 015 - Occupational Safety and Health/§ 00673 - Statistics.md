@@ -20,7 +20,7 @@ The Federal share for each grant under subsection (b) of this section may be up 
 
 #### (d) Utilization by Secretary of State or local services, facilities, and employees; consent; reimbursement
 
-The Secretary may, with the consent of any State or political subdivision thereof, accept and use the services, facilities, and employees of the agencies of such State or political subdivision, with or without reimbursement, in order toassist him in carrying out his functions under this section.
+The Secretary may, with the consent of any State or political subdivision thereof, accept and use the services, facilities, and employees of the agencies of such State or political subdivision, with or without reimbursement, in order to assist him in carrying out his functions under this section.
 
 #### (e) Reports by employers
 

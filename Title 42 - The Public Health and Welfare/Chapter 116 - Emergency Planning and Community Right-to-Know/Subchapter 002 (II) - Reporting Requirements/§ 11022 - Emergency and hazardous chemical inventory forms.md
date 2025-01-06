@@ -72,7 +72,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (1) Availability to State commissions, local committees, and fire departments
 
-&emsp;Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
+&emsp;Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person makingthe request. Any such request shall be with respect to a specific facility.
 
 #### (2) Availability to other State and local officials
 
@@ -104,7 +104,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term "affected community water system" means a communitywater system (as defined in section 300f(15) of this title) that receives supplies of drinking water from a source water area, delineated under section 300j–13 of this title, in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
+&emsp;&emsp;In this paragraph, the term "affected community water system" means a community water system (as defined in section 300f(15) of this title) that receives supplies of drinking water from a source water area, delineated under section 300j–13 of this title, in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
 
 #### (f) Fire department access
 

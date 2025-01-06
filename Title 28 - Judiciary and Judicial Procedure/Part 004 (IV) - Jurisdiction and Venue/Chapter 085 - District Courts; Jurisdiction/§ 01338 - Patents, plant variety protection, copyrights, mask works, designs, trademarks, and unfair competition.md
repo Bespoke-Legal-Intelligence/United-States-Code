@@ -1,6 +1,6 @@
 ### §1338. Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition
 
-(a) The district courts shall have original jurisdiction of any civil action arising under any Act of Congress relating to patents, plant variety protection, copyrights and trademarks. No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights. For purposes of this subsection, the term "State" includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+(a) The district courts shall have original jurisdiction of any civil action arising under anyAct of Congress relating to patents, plant variety protection, copyrights and trademarks. No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights. For purposes of this subsection, the term "State" includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 (b) The district courts shall have original jurisdiction of any civil action asserting a claim of unfair competition when joined with a substantial and related claim under the copyright, patent, plant variety protection or trademark laws.
 
@@ -28,7 +28,7 @@ Subsection (b) is added and is intended to avoid "piecemeal" litigation to enfor
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–29 substituted "No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights. For purposes of this subsection, the term 'State' includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands." for "Such jurisdiction shall be exclusive of the courts of the states in patent, plant variety protection and copyright cases."
 
-<b>1999</b>—Pub. L. 106–113 substituted "trademarks" for "trade-marks" in section catchline and subsec. (a) andsubstituted "trademark" for "trade-mark" in subsec. (b).
+<b>1999</b>—Pub. L. 106–113 substituted "trademarks" for "trade-marks" in section catchline and subsec. (a) and substituted "trademark" for "trade-mark" in subsec. (b).
 
 <b>1998</b>—Pub. L. 105–304, §503(b)(2)(A), inserted "designs," after "mask works," in section catchline.
 

@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (c), was in the original "this Act" which w
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1) and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
+<b>1996</b>—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1)and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
 
 Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: "There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section."
 

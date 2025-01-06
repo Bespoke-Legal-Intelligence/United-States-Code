@@ -52,7 +52,7 @@ In this subchapter:
 
 #### (8) Member
 
-&emsp;The term "member" means, with respect to a rural business investment company that is alimited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company.
+&emsp;The term "member" means, with respect to a rural business investment company that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company.
 
 #### (9) Operational assistance
 
@@ -132,9 +132,9 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) a net financial worth of not more than $6,000,000, as of the date on which assistance is provided under this subchapter to the rural business concern; and
 
-&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this subchapter to the rural business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses), except that, for purposes of this clause, if the rural business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the total of—
+&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this subchapter to the rural business concern, of not morethan $2,000,000, after Federal income taxes (excluding any carryover losses), except that, for purposes of this clause, if the rural business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the total of—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the rural business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would haveapplied if the business concern were a corporation; and
+&emsp;&emsp;&emsp;&emsp;(I) if the rural business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the net income (so determined) less any deduction for State (and local) income taxes calculated under subclause (I), multiplied by the marginal Federal income tax rate that would have applied if the rural business concern were a corporation; or
 

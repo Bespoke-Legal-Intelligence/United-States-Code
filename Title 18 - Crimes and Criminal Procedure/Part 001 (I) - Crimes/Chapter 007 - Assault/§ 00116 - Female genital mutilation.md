@@ -50,7 +50,7 @@
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–309, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both."
+<b>2021</b>—Subsec. (a). Pub. L. 116–309, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majora or labia minoraor clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both."
 
 Subsec. (c). Pub. L. 116–309, §3(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "In applying subsection (b)(1), no account shall be taken of the effect on the person on whom the operation is to be performed of any belief on the part of that person, or any other person, that the operation is required as a matter of custom or ritual."
 
@@ -64,7 +64,7 @@ Subsec. (e). Pub. L. 116–309, §3(4), added subsec. (e).
 
 #### Effective Date
 
-Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: "The amendmentsmade by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: "The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 #### Congressional Findings and Purpose
 

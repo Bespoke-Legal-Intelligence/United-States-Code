@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may conduct a Coastal and Estuarine Land Conservation Program, in cooperation with appropriate State, regional, and other units of government, for the purposes of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural, undeveloped, or recreational state to other uses or could be managed or restored to effectively conserve, enhance, or restore ecological function. The program shall be administered by the National Ocean Service of the National Oceanic and Atmospheric Administration through the Office of Ocean and Coastal Resource Management.
+The Secretary may conduct a Coastal and Estuarine Land Conservation Program, in cooperation with appropriate State, regional, and other units of government, for the purposes of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural, undeveloped, or recreational state to other uses or could be managed or restored to effectively conserve, enhance, or restore ecological function. The program shall be administeredby the National Ocean Service of the National Oceanic and Atmospheric Administration through the Office of Ocean and Coastal Resource Management.
 
 #### (b) Property acquisition grants
 
@@ -72,7 +72,7 @@ Nothing in this chapter modifies the authority of Federal, State, or local gover
 
 #### (B) Waiver of requirement
 
-&emsp;&emsp;The Secretary may grant a waiver of subparagraph (A) for underserved communities, communities that have an inability to draw on other sources of funding because of the small population or low income of the community, or for other reasons the Secretary deems appropriate and consistent with the purposes of the program.
+&emsp;&emsp;The Secretary may grant a waiver of subparagraph (A) for underserved communities,communities that have an inability to draw on other sources of funding because of the small population or low income of the community, or for other reasons the Secretary deems appropriate and consistent with the purposes of the program.
 
 #### (3) Other Federal funds
 

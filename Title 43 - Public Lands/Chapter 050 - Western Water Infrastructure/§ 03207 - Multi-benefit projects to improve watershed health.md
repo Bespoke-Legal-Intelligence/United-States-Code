@@ -16,7 +16,7 @@ In this section, the term "eligible applicant" means—
 
 #### (b) Establishment of competitive grant program
 
-Not later than 1 year after November 15, 2021, the Secretary, in consultation with the heads of relevant agencies, shall establish a competitive grant program under which the Secretary shall award grants to eligible applicants for the design, implementation, and monitoring of conservation outcomes of habitat restoration projects that improve watershed health in a river basin that is adversely impacted by a Bureau of Reclamation water project by accomplishing 1 or more of the following:
+Not later than 1 year after November 15, 2021, the Secretary, in consultation with the heads ofrelevant agencies, shall establish a competitive grant program under which the Secretary shall award grants to eligible applicants for the design, implementation, and monitoring of conservation outcomes of habitat restoration projects that improve watershed health in a river basin that is adversely impacted by a Bureau of Reclamation water project by accomplishing 1 or more of the following:
 
 &emsp;(1) Ecosystem benefits.
 

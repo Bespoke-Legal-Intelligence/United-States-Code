@@ -26,7 +26,7 @@ In carrying out this section, the Secretary may develop partnerships, including 
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

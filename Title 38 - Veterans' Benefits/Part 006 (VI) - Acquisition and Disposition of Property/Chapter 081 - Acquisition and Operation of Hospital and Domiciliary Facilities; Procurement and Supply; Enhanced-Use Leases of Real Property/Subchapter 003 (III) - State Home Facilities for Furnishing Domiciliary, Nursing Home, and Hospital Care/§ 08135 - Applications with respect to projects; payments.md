@@ -76,7 +76,7 @@
 
 (B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
 
-(7)(A) Subject to subparagraph (B) of this paragraph, the Secretary may increase the amount of any grant awarded to any State for a project under this section by an amount by which the Secretary determines that the estimated cost of the construction or acquisition has increased from the estimated cost on which the Secretary based the determination to award the grant, without regard to the position of such project on the list established under paragraph (4) of this subsection, if the Secretary determines that the grant was awarded before the State entered into a contract for the construction or acquisition provided for in such project.
+(7)(A) Subject to subparagraph (B) of this paragraph, the Secretary may increase theamount of any grant awarded to any State for a project under this section by an amount by which the Secretary determines that the estimated cost of the construction or acquisition has increased from the estimated cost on which the Secretary based the determination to award the grant, without regard to the position of such project on the list established under paragraph (4) of this subsection, if the Secretary determines that the grant was awarded before the State entered into a contract for the construction or acquisition provided for in such project.
 
 (B) A grant may not be increased under subparagraph (A) of this paragraph by more than 10 percent of the amount of the grant initially awarded for such project, and the amount of such grant, as increased, may not exceed 65 percent of the cost of the project.
 
@@ -176,7 +176,7 @@ Subsec. (b)(3). Pub. L. 95–62, §3(9), substituted "reasonable assurances unde
 
 Subsec. (c). Pub. L. 95–62, §3(10), substituted "afforded the applicant notice and an opportunity for a hearing" for "afforded the applicant an opportunity for a hearing".
 
-Subsec. (d). Pub. L. 95–62, §3(11), designated existing provisions as par. (1), substituted "the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved" for "the Administrator shall certify to the Secretary of the Treasurythe amount of the grant requested with respect to such project in such application", and added par. (2).
+Subsec. (d). Pub. L. 95–62, §3(11), designated existing provisions as par. (1), substituted "the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved" for "the Administrator shall certify to the Secretary of the Treasury the amount of the grant requested with respect to such project in such application", and added par. (2).
 
 Subsec. (e). Pub. L. 95–62, §3(12), substituted "amendment of any application, whether or not approved," for "amendment of any approved application".
 

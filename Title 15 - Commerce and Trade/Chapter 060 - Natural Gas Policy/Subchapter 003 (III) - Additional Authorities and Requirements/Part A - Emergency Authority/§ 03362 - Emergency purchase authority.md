@@ -22,7 +22,7 @@ The President may, by order, require any pipeline to transport natural gas, and 
 
 #### (d) Maintenance of adequate records
 
-The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section fornatural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority of this section and the rates and charges for purchase and receipt of such natural gas.
+The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section for natural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority of this section and the rates and charges for purchase and receipt of such natural gas.
 
 #### (e) Special limitation
 

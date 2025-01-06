@@ -20,7 +20,7 @@
 
 &emsp;(1) increase the copayment amount in effect under subsection (a); and
 
-&emsp;(2) establish a maximum monthly and a maximum annual pharmaceutical copayment amount under subsection (a) for veterans who have multiple outpatient prescriptions.
+&emsp;(2) establish a maximum monthly and a maximum annual pharmaceutical copaymentamount under subsection (a) for veterans who have multiple outpatient prescriptions.
 
 (c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 

@@ -6,7 +6,7 @@ The purposes of this section are—
 
 &emsp;(1) to prohibit discrimination against nongovernmental organizations and certain individuals on the basis of religion in the distribution of government funds to provide substance abuse services under this subchapter and subchapter III–A, and the receipt of services under such subchapters; and
 
-&emsp;(2) to allow the organizations to accept the funds to provide the services to the individualswithout impairing the religious character of the organizations or the religious freedom of the individuals.
+&emsp;(2) to allow the organizations to accept the funds to provide the services to the individuals without impairing the religious character of the organizations or the religious freedom of the individuals.
 
 #### (b) Religious organizations included as nongovernmental providers
 

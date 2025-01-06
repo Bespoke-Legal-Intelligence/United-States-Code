@@ -50,7 +50,7 @@ A provision of the Constitution or law of any State shall not apply to an agricu
 
 &emsp;(1) limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
 
-&emsp;(2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance,or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
+&emsp;(2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
 
 (Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, §601(k), (l), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, §112, Feb. 10, 1996, 110 Stat. 165.)
 
@@ -64,7 +64,7 @@ The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee."
+<b>1996</b>—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, orreserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee."
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(k), inserted ", or obligations backed by," before "a pool".
 

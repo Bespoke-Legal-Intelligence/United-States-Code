@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established within the National Institutes of Health the Advanced ResearchProjects Agency–Health (referred to in this section as "ARPA–H"). Not later than 180 days after December 29, 2022, the Secretary shall transfer all functions, personnel, missions, activities, authorities, and funds of the Advanced Research Projects Agency for Health as in existence on December 29, 2022, to ARPA–H established by the preceding sentence.
+&emsp;There is established within the National Institutes of Health the Advanced Research Projects Agency–Health (referred to in this section as "ARPA–H"). Not later than 180 days after December 29, 2022, the Secretary shall transfer all functions, personnel, missions, activities, authorities, and funds of the Advanced Research Projects Agency for Health as in existence on December 29, 2022, to ARPA–H established by the preceding sentence.
 
 #### (2) Organization
 
@@ -126,7 +126,7 @@
 
 #### (6) Autonomy of Agency regarding recommendations and testimony
 
-&emsp;No office or agency of the United States shall have authority to require the Director to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony or comments to Congress, if such recommendations, testimony, or comments to Congress include a statement indicating that the views expressed therein are those of the Director and do not necessarily reflect the views of the President or another Federal department, agency, or office.
+&emsp;No office or agency of the United States shall have authority to require the Director tosubmit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony or comments to Congress, if such recommendations, testimony, or comments to Congress include a statement indicating that the views expressed therein are those of the Director and do not necessarily reflect the views of the President or another Federal department, agency, or office.
 
 #### (7) Deputy Director
 
@@ -156,7 +156,7 @@ The flexibilities provided to the National Institutes of Health under section 24
 
 #### (3) Clarification
 
-&emsp;The protections for trade secrets or other privileged or confidential information described in paragraph (1) shall not be construed to limit the availability or disclosure of information necessary to inform and facilitate the evaluation required under subsection (k)(2). Any such information made available to members of the National Academies of Sciences,Engineering, and Medicine (referred to in this section as the "National Academies") for such evaluation shall be kept confidential by such members and shall not be used for any purposes other than informing and facilitating the evaluation required under subsection (k)(2).
+&emsp;The protections for trade secrets or other privileged or confidential information described in paragraph (1) shall not be construed to limit the availability or disclosure of information necessary to inform and facilitate the evaluation required under subsection (k)(2). Any such information made available to members of the National Academies of Sciences, Engineering, and Medicine (referred to in this section as the "National Academies") for such evaluation shall be kept confidential by such members and shall not be used for any purposes other than informing and facilitating the evaluation required under subsection (k)(2).
 
 #### (f) Cooperation with the Food and Drug Administration
 
@@ -244,7 +244,7 @@ The flexibilities provided to the National Institutes of Health under section 24
 
 #### (2) Support staff
 
-&emsp;The Director may use authorities in existence on December 29, 2022, that are provided tothe Secretary to hire administrative, financial, clerical, and other staff necessary to carry out functions that support the goals and functions described in subsection (b).
+&emsp;The Director may use authorities in existence on December 29, 2022, that are provided to the Secretary to hire administrative, financial, clerical, and other staff necessary to carry out functions that support the goals and functions described in subsection (b).
 
 #### (3) Number of personnel
 
@@ -282,7 +282,7 @@ The flexibilities provided to the National Institutes of Health under section 24
 
 #### (1) In general
 
-&emsp;The Director shall appoint program managers for 3-year terms (and may reappoint such program managers for 1 additional consecutive 3-year term) for the programs carried out by ARPA–H.
+&emsp;The Director shall appoint program managers for 3-year terms (and may reappointsuch program managers for 1 additional consecutive 3-year term) for the programs carried out by ARPA–H.
 
 #### (2) Duties
 
@@ -404,7 +404,7 @@ The flexibilities provided to the National Institutes of Health under section 24
 
 #### (l) Strategic plan
 
-Not later than 1 year after December 29, 2022, and every 3 years thereafter, the Director shall provide to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a strategic plan describing how ARPA–H willcarry out investments each fiscal year in the following 3-year period. The requirements regarding individual institute and center strategic plans under section 282(m) of this title, including paragraph (3) of such subsection, shall not apply to ARPA–H.
+Not later than 1 year after December 29, 2022, and every 3 years thereafter, the Director shall provide to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a strategic plan describing how ARPA–H will carry out investments each fiscal year in the following 3-year period. The requirements regarding individual institute and center strategic plans under section 282(m) of this title, including paragraph (3) of such subsection, shall not apply to ARPA–H.
 
 #### (m) Independent review
 
@@ -494,7 +494,7 @@ In carrying out this section, the Director may consult with—
 
 #### (q) Rule of construction
 
-The authorities under this section, with respect to the Director, are additional authoritiesthat do not supersede or modify any existing authorities.
+The authorities under this section, with respect to the Director, are additional authorities that do not supersede or modify any existing authorities.
 
 #### (r) Transformative health technology defined
 

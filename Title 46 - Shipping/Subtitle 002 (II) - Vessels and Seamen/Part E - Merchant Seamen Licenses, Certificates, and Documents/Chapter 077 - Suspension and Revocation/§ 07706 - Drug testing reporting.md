@@ -6,7 +6,7 @@ Release of Drug Test Results to Coast Guard.—Not later than 2 weeks after rece
 
 (b)
 
-Standards, Procedures, and Regulations.—The head of a Federal agency shall carry out a release under subsection (a) in accordance with the standards, procedures, and regulations applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
+Standards, Procedures, and Regulations.—The head of a Federal agency shall carryout a release under subsection (a) in accordance with the standards, procedures, and regulations applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
 
 (c)
 

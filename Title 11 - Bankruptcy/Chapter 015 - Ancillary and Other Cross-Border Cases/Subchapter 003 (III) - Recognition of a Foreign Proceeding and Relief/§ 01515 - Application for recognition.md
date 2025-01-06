@@ -8,7 +8,7 @@
 
 &emsp;(2) a certificate from the foreign court affirming the existence of such foreign proceeding and of the appointment of the foreign representative; or
 
-&emsp;(3) in the absence of evidence referred to in paragraphs (1) and (2), any other evidence acceptable to the court of the existence of suchforeign proceeding and of the appointment of the foreign representative.
+&emsp;(3) in the absence of evidence referred to in paragraphs (1) and (2), any other evidence acceptable to the court of the existence of such foreign proceeding and of the appointment of the foreign representative.
 
 (c) A petition for recognition shall also be accompanied by a statement identifying all foreign proceedings with respect to the debtor that are known to the foreign representative.
 

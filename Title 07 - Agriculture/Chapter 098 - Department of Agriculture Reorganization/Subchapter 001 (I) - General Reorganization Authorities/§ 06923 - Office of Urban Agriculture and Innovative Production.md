@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 20, 2018, the Secretary shall establish an Urban Agriculture and Innovative Production Advisory Committee (referred to in this subsection as the "Committee") to advise the Secretary on—
+&emsp;Not later than 180 days after December 20, 2018, the Secretary shall establish an UrbanAgriculture and Innovative Production Advisory Committee (referred to in this subsection as the "Committee") to advise the Secretary on—
 
 &emsp;&emsp;(A) the development of policies and outreach relating to urban, indoor, and other emerging agricultural production practices; and
 

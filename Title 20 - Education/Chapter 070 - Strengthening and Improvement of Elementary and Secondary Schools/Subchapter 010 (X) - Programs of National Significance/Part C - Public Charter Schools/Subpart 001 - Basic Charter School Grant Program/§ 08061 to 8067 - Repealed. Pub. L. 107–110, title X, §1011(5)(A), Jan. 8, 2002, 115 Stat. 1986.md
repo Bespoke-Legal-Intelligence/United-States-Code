@@ -18,7 +18,7 @@ Section 8065c, Pub. L. 89–10, title X, §10308, as added Pub. L. 105–278, §
 
 Section 8065d, Pub. L. 89–10, title X, §10309, as added Pub. L. 105–278, §3(g)(2), Oct. 22, 1998, 112 Stat. 2688; amended Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61, related to paperwork reduction.
 
-Section 8066, Pub. L. 89–10, title X, §10310, formerly §10306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3829; renumbered §10310 and amended, Pub. L. 105–278, §3(g)(1), (h), Oct. 22, 1998, 112 Stat. 2687, 2688; Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61, defined terms.
+Section 8066, Pub. L. 89–10, title X, §10310, formerly §10306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3829; renumbered §10310 and amended, Pub. L. 105–278, §3(g)(1), (h), Oct. 22, 1998, 112 Stat. 2687,2688; Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61, defined terms.
 
 Section 8067, Pub. L. 89–10, title X, §10311, formerly §10307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3830; renumbered §10311 and amended, Pub. L. 105–278, §3(g)(1), (i), Oct. 22, 1998, 112 Stat. 2687, 2688; Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61, authorized appropriations.
 

@@ -18,7 +18,7 @@ Within One Year of Decision.—(1) Subject to paragraph (2), in any case in whic
 
 (B) Nothing in this subsection shall prohibit a claimant from taking any of the actions set forth in paragraph (1) in succession with respect to a claim or an issue contained within the claim.
 
-(C) Nothing in this subsection shall prohibit a claimant from taking different actions set forth in paragraph (1) with respect to different claims or different issues contained within a claim.
+(C) Nothing in this subsection shall prohibit a claimant from taking different actions set forthin paragraph (1) with respect to different claims or different issues contained within a claim.
 
 (D) The Secretary may, as the Secretary considers appropriate, develop and implement a policy for claimants who—
 

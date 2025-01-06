@@ -42,7 +42,7 @@ Status of Federal Employees Assigned to Private-sector Organizations.—(1) An e
 
 (f)
 
-Terms and Conditions for Private-sector Employees.—An employee of a private-sector organization who is assigned to a Department of Defense organization under this section—
+Terms and Conditions for Private-sector Employees.—An employee of a private-sectororganization who is assigned to a Department of Defense organization under this section—
 
 &emsp;(1) shall continue to receive pay and benefits from the private-sector organization from which such employee is assigned and shall not receive pay or benefits from the Department of Defense, except as provided in paragraph (2);
 
@@ -104,7 +104,7 @@ Report.—Each member of the acquisition workforce that participates in the prog
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to theCode, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§13101 et seq.) of Title 5 by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 

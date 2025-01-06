@@ -22,7 +22,7 @@ Mission.—The mission of the Office shall be—
 
 Acquisition Authority.—The acquisition activities of the Office shall be subject to the following:
 
-&emsp;(1) The Secretary of the Air Force shall designate the acquisition executive of the Office who shall provide streamlined acquisition authorities for projects of the Office.
+&emsp;(1) The Secretary of the Air Force shall designate the acquisition executive of the Officewho shall provide streamlined acquisition authorities for projects of the Office.
 
 &emsp;(2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
 
@@ -94,7 +94,7 @@ Subsec. (g). Pub. L. 112–239, §914(e), added subsec. (g).
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title IX, §913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: "Subsection (a) of section2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005."
+Pub. L. 108–375, div. A, title IX, §913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: "Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005."
 
 #### United States Policy on Operationally Responsive Space
 

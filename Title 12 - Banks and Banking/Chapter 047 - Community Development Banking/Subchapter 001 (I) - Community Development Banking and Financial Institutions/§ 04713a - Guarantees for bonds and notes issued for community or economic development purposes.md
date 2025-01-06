@@ -62,7 +62,7 @@ In this section, the following definitions shall apply:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall approve a qualified issuer for a guarantee under the Programin accordance with the requirements of this paragraph, and such additional requirements as the Secretary may establish, by regulation.
+&emsp;&emsp;&emsp;The Secretary shall approve a qualified issuer for a guarantee under the Program in accordance with the requirements of this paragraph, and such additional requirements as the Secretary may establish, by regulation.
 
 #### (ii) Terms and qualifications
 
@@ -108,7 +108,7 @@ The Secretary shall guarantee payments on bonds or notes issued by any qualified
 
 #### (1) In general
 
-&emsp;A capital distribution plan meets the requirements of this subsection, if not less than 90 percent of the principal amount of guaranteed bonds or notes (other than costs of issuance fees) are used to make loans for any eligible community or economic development purpose, measured annually, beginning at the end of the 1-year period beginning on the issuance date of such guaranteed bonds or notes.
+&emsp;A capital distribution plan meets the requirements of this subsection, if not less than 90 percent of the principal amount of guaranteed bonds or notes (other than costs of issuance fees) are used to make loans for any eligible community or economic developmentpurpose, measured annually, beginning at the end of the 1-year period beginning on the issuance date of such guaranteed bonds or notes.
 
 #### (2) Relending account
 
@@ -272,7 +272,7 @@ This section is repealed, and the authority provided under this section shall te
 
 #### Termination of Section
 
-<i>For delay of termination of section by Pub. L. 117–328, see Termination Date note below.</i>
+<i>For delay of termination of section by Pub. L. 118–47, see Termination Date note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -284,9 +284,11 @@ The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VII
 
 #### Termination Date
 
-Pub. L. 117–328, div. E, title I, Dec. 29, 2022, 136 Stat. 4655, provided in part: "That such section 114A \[this section\] shall remain in effect until December 31, 2023".
+Pub. L. 118–47, div. B, title I, Mar. 23, 2024, 138 Stat. 525, provided in part: "That such section 114A \[this section\] shall remain in effect until December 31, 2025".
 
 Additional provisions delaying the termination of this section were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. E, title I, Dec. 29, 2022, 136 Stat. 4655.
 
 Pub. L. 117–103, div. E, title I, Mar. 15, 2022, 136 Stat. 244.
 

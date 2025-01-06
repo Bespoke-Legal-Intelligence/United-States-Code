@@ -12,7 +12,7 @@ The following documents shall have the same force and effect as proof of United 
 
 #### Prior Provisions
 
-A prior section 33 of act Aug. 1, 1956, was renumbered section 34 by section 117 of Pub. L. 97–241, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 33 of act Aug. 1, 1956, was renumbered section 34 by section 117 of Pub. L. 97–241, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, priorto repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
 

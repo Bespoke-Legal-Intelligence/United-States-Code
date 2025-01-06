@@ -94,7 +94,7 @@
 
 #### (B) Allocation
 
-&emsp;&emsp;Of the funds made available under subparagraph (A) for a fiscal year, not more than 10 percent shall be used for the purposes described in paragraph (3)(A).
+&emsp;&emsp;Of the funds made available under subparagraph (A) for a fiscal year, not morethan 10 percent shall be used for the purposes described in paragraph (3)(A).
 
 #### (d) Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes
 
@@ -274,7 +274,7 @@
 
 #### (ii) Equity
 
-&emsp;&emsp;&emsp;The Secretary may guarantee a loan made for the purchase of preferred stock or similar equity issued by a cooperative organization or a fund that invests primarily in cooperative organizations, if the guarantee significantly benefits 1 or more entities eligible for assistance for the purposes described in subsection (a)(1), as determined by the Secretary.
+&emsp;&emsp;&emsp;The Secretary may guarantee a loan made for the purchase of preferred stock or similar equity issued by a cooperative organization or a fund that invests primarily in cooperative organizations, if the guarantee significantly benefits 1 or moreentities eligible for assistance for the purposes described in subsection (a)(1), as determined by the Secretary.
 
 #### (B) Refinancing
 
@@ -400,7 +400,7 @@
 
 #### (h) Loan guarantees for certain loans
 
-The Secretary may guarantee loans made under subsection (a) to finance the issuance ofbonds for the projects described in section 1926(a)(24) of this title.
+The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
 
 #### (i) Appropriate technology transfer for rural areas program
 
@@ -448,7 +448,7 @@ The Secretary may guarantee loans made under subsection (a) to finance the issua
 
 Effective beginning on the date of enactment of this subsection through September 30, 2023, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, §101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c),\(h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, §101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
 
 #### <b>Editorial Notes</b>
 
@@ -554,7 +554,7 @@ Subsecs. (i), (j). Pub. L. 110–246, §§6016, 6017, added subsecs. (i) and (j)
 
 Subsec. (c)(1). Pub. L. 107–171, §6014, substituted "Grants" for "In general" in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), which directed amendment of this section "in paragraph (5)(F),before the period at the end the following: ', except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))' ", could not be executed because the phrase "by inserting" did not appear. Corrected amendment was made by Pub. L. 115–334, §6701(d)(1), effective as if included in Pub. L. 107–171, §6015. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), which directed amendment of this section "in paragraph (5)(F), before the period at the end the following: ', except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))' ", could not be executed because the phrase "by inserting" did not appear. Corrected amendment was made by Pub. L. 115–334, §6701(d)(1), effective as if included in Pub. L. 107–171, §6015. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 Subsec. (e)(9). Pub. L. 107–171, §6015(2), substituted "2007" for "2002".
 
@@ -712,7 +712,7 @@ Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided 
 
 Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 113–79, title VI, §6017(b), Feb. 7, 2014, 128 Stat. 846, provided that:
 
-"(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the'Secretary') shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
+"(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary') shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
 
 "(2) To be eligible to obtain a loan guarantee under this subsection, a corporation must—
 

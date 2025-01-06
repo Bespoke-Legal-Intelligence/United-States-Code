@@ -62,7 +62,7 @@
 
 &emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $10,000,000,000;
 
-&emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity forwhich such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
+&emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
 
 &emsp;(3) the larger of $300,000, or 3 percent of such total Federal expenditures for all programs, in the case of a non-Federal entity for which such total expenditures for all programs equal or exceed $300,000 but are less than or equal to $100,000,000.
 
@@ -83,6 +83,10 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 <b>1996</b>—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–207, §1, Dec. 23, 2024, 138 Stat. 2701, provided that: "This Act \[amending section 7504 of this title\] may be cited as the 'Financial Management Risk Reduction Act'."
 
 #### Short Title of 2016 Amendment
 

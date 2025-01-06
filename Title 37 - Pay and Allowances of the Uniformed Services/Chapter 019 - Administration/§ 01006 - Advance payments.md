@@ -14,7 +14,7 @@
 
 (e)(1) As far as practicable, regulations for the administration of subsections (a)–(d) shall be uniform for all of the uniformed services.
 
-(2)(A) Notwithstanding any other provision of law, an obligation for an advance of pay made pursuant to this section shall be recorded as an obligation only in the fiscal year in which the entitlement of the member to the pay accrues.
+(2)(A) Notwithstanding any other provision of law, an obligation for an advance of pay madepursuant to this section shall be recorded as an obligation only in the fiscal year in which the entitlement of the member to the pay accrues.
 
 (B) Current appropriations available for advance payments under this section may be transferred to the prior fiscal year appropriation available for the same purpose in the amount of any unliquidated advance payments that remain at the end of such prior fiscal year. Such unliquidated advance payments shall then be credited to the current appropriation.
 
@@ -22,7 +22,7 @@
 
 (g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 452(c)(2) of this title for a member of a uniformed service whose dependents are covered by section 452(b)(11) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
 
-(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorizethe payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
+(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
 
 (i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
 

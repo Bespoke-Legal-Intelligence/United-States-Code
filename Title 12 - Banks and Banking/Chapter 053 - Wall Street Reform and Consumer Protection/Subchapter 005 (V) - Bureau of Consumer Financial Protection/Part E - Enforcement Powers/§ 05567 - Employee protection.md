@@ -48,7 +48,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (B) Notice of relief available
 
-&emsp;&emsp;If the Secretary of Labor concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary of Labor shall, together with the notice under subparagraph (A)(ii), issue a preliminary order providing the relief prescribed by paragraph (4)(B).
+&emsp;&emsp;If the Secretary of Labor concludes that there is reasonable cause to believe that aviolation of subsection (a) has occurred, the Secretary of Labor shall, together with the notice under subparagraph (A)(ii), issue a preliminary order providing the relief prescribed by paragraph (4)(B).
 
 #### (C) Request for hearing
 
@@ -72,7 +72,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (A) Timing
 
-&emsp;&emsp;Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor,the complainant, and the person alleged to have committed the violation.
+&emsp;&emsp;Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
 
 #### (B) Penalties
 
@@ -136,7 +136,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (1) No waiver of rights and remedies
 
-&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law,the rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
+&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law, the rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
 
 #### (2) No predispute arbitration agreements
 

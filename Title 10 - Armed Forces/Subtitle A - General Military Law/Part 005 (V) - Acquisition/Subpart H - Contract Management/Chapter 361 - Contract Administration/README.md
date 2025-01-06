@@ -18,6 +18,10 @@ Another prior chapter 361, consisting of sections 3811 to 3820 relating to separ
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Promulgate Guidance Relating to Certain Department of Defense Contracts
+
+Pub. L. 118–159, div. A, title VIII, §867, Dec. 23, 2024, 138 Stat. 2006, provided that: "Not later than January 31, 2025, the Secretary of Defense shall issue guidance on the governance and oversight of the contracts of the Department of Defense that support or enable sensitive activities."
+
 #### Modification of Contracts and Options To Provide Economic Price Adjustments
 
 Pub. L. 118–31, div. A, title VIII, §826, Dec. 22, 2023, 137 Stat. 335, provided that:
@@ -32,17 +36,17 @@ Guidance.—Not later than 30 days after the date of the enactment of this Act \
 
 #### Modifications to Earned Value Management System Requirements
 
-Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, provided that:
+Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, as amended by Pub. L. 118–159, div. A, title VIII, §820, Dec. 23, 2024, 138 Stat. 1982, provided that:
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 22, 2023\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
+In General.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 \[Dec. 23, 2024\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
 
 &emsp;"(1) exempt all software contracts and subcontracts of the Department of Defense from earned value management system requirements;
 
-&emsp;"(2) impose earned value management system requirements for cost contracts or incentive contracts with a value greater than or equal to $20,000,000 and less than $50,000,000; and
+&emsp;"(2) increase the contract value threshold associated with earned value management system requirements for cost contracts or incentive contracts from $20,000,000 to $50,000,000; and
 
-&emsp;"(3) require a defense contractor to use an earned value management system for contracts awarded with a value greater than or equal to $50,000,000 and less than $100,000,000.
+&emsp;"(3) increase the contract value threshold associated requiring a defense contractor to use an approved earned value management system from $50,000,000 to $100,000,000.
 
 "(b)
 
@@ -146,7 +150,7 @@ Pub. L. 111–84, div. A, title VIII, §823, Oct. 28, 2009, 123 Stat. 2412, as a
 
 "(a)
 
-Authority To Reduce or Deny Award Fees.—Not later than 180 days after the date of the enactmentof this Act \[Oct. 28, 2009\], the Secretary of Defense shall revise the guidance issued pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 129 \[120\] Stat. 2321) \[set out below\] to ensure that all covered contracts using award fees—
+Authority To Reduce or Deny Award Fees.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall revise the guidance issued pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 129 \[120\] Stat. 2321) \[set out below\] to ensure that all covered contracts using award fees—
 
 &emsp;"(1) provide for the consideration of any incident described in subsection (b) in evaluations of contractor performance for the relevant award fee period; and
 
@@ -158,7 +162,7 @@ Covered Incidents.—An incident referred to in subsection (a) is any incident i
 
 &emsp;"(1) has been determined, through a criminal, civil, or administrative proceeding that results in a disposition listed in subsection (c), in the performance of a covered contract to have caused serious bodily injury or death to any civilian or military personnel of the Government through gross negligence or with reckless disregard for the safety of such personnel; or
 
-&emsp;"(2) has been determined, through a criminal, civil, or administrative proceeding that results in a disposition listed in subsection (c), to be liable for actions of a subcontractor of the contractor that caused serious bodily injury or death to any civilian or military personnel of the Government, through gross negligence or with reckless disregard for the safety of such personnel.
+&emsp;"(2) has been determined, through a criminal, civil, or administrative proceeding that results in a disposition listed in subsection (c), to be liable for actions of a subcontractor of the contractor that causedserious bodily injury or death to any civilian or military personnel of the Government, through gross negligence or with reckless disregard for the safety of such personnel.
 
 "(c)
 
@@ -416,7 +420,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 "(f)
 
-Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to whichavailable judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
+Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
 
 "(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
 

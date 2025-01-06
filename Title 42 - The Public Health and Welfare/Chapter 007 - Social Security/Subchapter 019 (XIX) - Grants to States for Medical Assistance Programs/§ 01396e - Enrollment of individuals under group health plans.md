@@ -18,7 +18,7 @@ Each State plan—
 
 #### (c) Premiums considered payments for medical assistance; eligibility
 
-(1)(A) In the case of payments of premiums, deductibles, coinsurance, and other cost-sharing obligations under this section shall be considered, for purposes of section 1396b(a) of this title, to be payments for medical assistance.
+(1)(A) In the case of payments of premiums, deductibles, coinsurance, and other cost-sharingobligations under this section shall be considered, for purposes of section 1396b(a) of this title, to be payments for medical assistance.
 
 (B) If all members of a family are not eligible for medical assistance under this subchapter and enrollment of the members so eligible in a group health plan is not possible without also enrolling members not so eligible—
 
@@ -34,7 +34,7 @@ Each State plan—
 
 In this section:
 
-&emsp;(1) The term "group health plan" has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal RevenueCode of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
+&emsp;(1) The term "group health plan" has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
 
 &emsp;(2) The term "cost-effective" has the meaning given that term in section 1397ee(c)(3)(A) of this title.
 

@@ -10,7 +10,7 @@ There is established in the Treasury a separate fund to be known as the "Consula
 
 (1) The unobligated balances of amounts available from fees referenced under this section may be transferred to the Consular and Border Security Programs account.
 
-(2) Funds deposited in or transferred to the Consular and Border Security Programs account may be transferred between funds appropriated under the heading "Administration of Foreign Affairs".
+(2) Funds deposited in or transferred to the Consular and Border Security Programs accountmay be transferred between funds appropriated under the heading "Administration of Foreign Affairs".
 
 (3) The transfer authorities in this section shall be in addition to any other transfer authority available to the Department of State.
 
@@ -32,9 +32,11 @@ Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31.
 
 #### Transfer of Balances
 
-Pub. L. 117–328, div. K, title VII, §7034(l)(4), Dec. 29, 2022, 136 Stat. 5033, provided that: "Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) \[8 U.S.C. 1715(h)\] shall continue in effect during fiscal year 2023."
+Pub. L. 118–47, div. F, title VII, §7034(k)(4), Mar. 23, 2024, 138 Stat. 791, provided that: "Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) \[8 U.S.C. 1715(h)\] shall continue in effect during fiscal year 2024."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, div. K, title VII, §7034(l)(4), Dec. 29, 2022, 136 Stat. 5033.
 
 Pub. L. 117–103, div. K, title VII, §7034(l)(9), Mar. 15, 2022, 136 Stat. 624.
 

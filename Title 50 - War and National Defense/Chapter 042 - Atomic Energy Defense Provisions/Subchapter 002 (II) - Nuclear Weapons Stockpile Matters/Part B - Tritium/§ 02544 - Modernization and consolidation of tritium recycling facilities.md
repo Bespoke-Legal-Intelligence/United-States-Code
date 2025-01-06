@@ -14,5 +14,5 @@ The Secretary of Energy shall carry out activities at the Savannah River Site, S
 
 <b>2013</b>—Pub. L. 112–239 struck out subsec. (a) designation and heading "In general" and struck out subsec. (b), which limited funding to $9,000,000 for activities under subsec. (a).
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(e)(19)(D), inserted "of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)" after "section 3101".
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(e)(19)(D), inserted "of the National Defense Authorization Act forFiscal Year 1997 (Public Law 104–201)" after "section 3101".
 

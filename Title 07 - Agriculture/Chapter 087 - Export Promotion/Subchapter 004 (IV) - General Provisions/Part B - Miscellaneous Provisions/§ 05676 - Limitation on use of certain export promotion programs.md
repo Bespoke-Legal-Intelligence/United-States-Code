@@ -10,7 +10,7 @@ A person shall be ineligible for participation in any of the export programs ref
 
 #### (c) Certification
 
-If the Secretary takes action under the authority granted under subsection (a), a person applying to export any agricultural commodity under the export programs referred to in subsection (a) shall certify that none of the commodity has been or will be used as the basis of a claim for any refund specified in subsection (a), except that regardless of whether the Secretary takes action under the authority granted under subsection (a), a person applying to export any vegetable oil or vegetable oil product under such programs shall certify that none of the vegetable oil or vegetable oil product has been or will be used as the basis of a claim for any refund specified in subsection (b).
+If the Secretary takes action under the authority granted under subsection (a), a person applying to export any agricultural commodity under the export programs referred to in subsection (a) shall certify that none of the commodity has been or will be used as the basis of a claim for any refund specified in subsection (a), except that regardless of whether the Secretary takes action under the authority granted under subsection (a), a person applying to export any vegetable oil or vegetable oil product undersuch programs shall certify that none of the vegetable oil or vegetable oil product has been or will be used as the basis of a claim for any refund specified in subsection (b).
 
 #### (d) Regulations
 

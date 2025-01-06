@@ -30,7 +30,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 #### (1) Form and procedures
 
-&emsp;An application for a planning grant shall be submitted by an applicant in such form and inaccordance with such procedures as the Secretary shall establish.
+&emsp;An application for a planning grant shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
 
 #### (2) Minimum requirements
 

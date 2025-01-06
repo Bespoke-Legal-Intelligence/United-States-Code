@@ -104,7 +104,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (e) Term or condition
 
-For the purposes of this section, financing by a System institution shall not be considered to be a term or condition of a sale of acquired real estate.
+For the purposes of this section, financing by a System institution shall not be considered tobe a term or condition of a sale of acquired real estate.
 
 #### (f) Financing
 

@@ -4,7 +4,7 @@
 
 (b) Prior to making a permanent notation in an employee's official personnel record file under subsection (a), the head of the agency shall—
 
-&emsp;(1) notify the employee in writing within 5 days of the resolution of the investigation and provide such employee a copy of the adverse finding and any supporting documentation;
+&emsp;(1) notify the employee in writing within 5 days of the resolution of the investigation andprovide such employee a copy of the adverse finding and any supporting documentation;
 
 &emsp;(2) provide the employee with a reasonable time, but not less than 30 days, to respond in writing and to furnish affidavits and other documentary evidence to show why the adverse finding was unfounded (a summary of which shall be included in any notation made to the employee's personnel file under subsection (d)); and
 

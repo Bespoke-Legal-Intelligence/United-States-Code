@@ -32,7 +32,7 @@ In the computation of the 30-day period under subsection (b), there shall be exc
 
 #### (1) Total amount obligated
 
-&emsp;In no event may the total amount of funds obligated pursuant to a DOE national security authorization for a fiscal year exceed the total amount authorized to be appropriated by that authorization for that fiscal year.
+&emsp;In no event may the total amount of funds obligated pursuant to a DOE national securityauthorization for a fiscal year exceed the total amount authorized to be appropriated by that authorization for that fiscal year.
 
 #### (2) Prohibited items
 

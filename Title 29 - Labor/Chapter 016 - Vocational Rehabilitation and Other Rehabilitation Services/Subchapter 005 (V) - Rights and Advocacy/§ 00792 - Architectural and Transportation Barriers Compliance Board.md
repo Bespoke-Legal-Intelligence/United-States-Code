@@ -104,11 +104,11 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall applyto procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
-&emsp;(A) to bring a civil action in any appropriate United States district court to enforce, inwhole or in part, any final order of the Access Board under this subsection; and
+&emsp;(A) to bring a civil action in any appropriate United States district court to enforce, in whole or in part, any final order of the Access Board under this subsection; and
 
 &emsp;(B) to intervene, appear, and participate, or to appear as amicus curiae, in any court of the United States or in any court of a State in civil actions that relate to this section or to the Architectural Barriers Act of 1968 \[42 U.S.C. 4151 et seq.\].
 
@@ -214,7 +214,7 @@ Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for
 
 Subsec. (a)(1)(B)(xii). Pub. L. 102–569, §504(b)(1)(B), added cl. (xii).
 
-Subsec. (a)(2)(A). Pub. L. 102–569, §504(b)(2), designated existing provisions as cl. (i), substituted "4 years, except as provided in clause (ii)" for "three years" and "at least three" for "four", and added cl. (ii).
+Subsec. (a)(2)(A). Pub. L. 102–569, §504(b)(2), designated existing provisions as cl. (i), substituted "4years, except as provided in clause (ii)" for "three years" and "at least three" for "four", and added cl. (ii).
 
 Subsec. (a)(3). Pub. L. 102–569, §504(b)(3), substituted "a Federal" for "such an" after "member becomes".
 
@@ -264,7 +264,7 @@ Subsec. (g). Pub. L. 100–630, §206(b)(11), substituted "transportation barrie
 
 <b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–506, §§103(d)(2)(C), 601(a)(2), substituted "Twelve" for "Eleven", "six" for "five", and "individuals with handicaps" for "handicapped individuals".
 
-Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
+Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson ofBoard shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
 Subsec. (a)(2)(ii), (iii). Pub. L. 99–506, §601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: "any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed".
 
@@ -274,7 +274,7 @@ Subsecs. (b)(2), (c). Pub. L. 99–506, §103(d)(2)(C), substituted "individuals
 
 Subsec. (d)(2)(A). Pub. L. 99–506, §1002(e)(2)(B), substituted "any final order" for "any, final order".
 
-Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted "Department of Education" for "Departmentof Health, Education, and Welfare" and "with respect to overcoming" for "with respect overcoming to".
+Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted "Department of Education" for "Department of Health, Education, and Welfare" and "with respect to overcoming" for "with respect overcoming to".
 
 Subsec. (e)(2). Pub. L. 99–506, §1002(e)(2)(D), substituted "alleged noncompliance and in" for "alleged noncompliance in".
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment
 
-Pub. L. 94–230, §11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in theabsence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
+Pub. L. 94–230, §11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
 
 #### Termination of Advisory Panels
 

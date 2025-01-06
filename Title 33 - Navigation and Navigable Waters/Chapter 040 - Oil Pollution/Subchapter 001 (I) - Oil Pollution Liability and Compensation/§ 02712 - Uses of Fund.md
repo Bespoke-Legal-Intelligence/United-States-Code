@@ -10,7 +10,7 @@ The Fund shall be available to the President for—
 
 &emsp;&emsp;(B) by a State, a political subdivision of a State, or an Indian tribe, pursuant to a cost-reimbursable agreement under subsection (d);
 
-&emsp;(2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under section 2706 of this title for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
+&emsp;(2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under section 2706 of this titlefor assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
 
 &emsp;(3) the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
 
@@ -132,7 +132,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 &emsp;Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
 
-(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug.9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, §816, Dec. 4, 2018, 132 Stat. 4305; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §§8302(a), 8303(b), title LVXXXV \[LXXXV\], §8513(c), Jan. 1, 2021, 134 Stat. 4692, 4761; Pub. L. 117–263, div. K, title CXIII, §§11310, 11314, Dec. 23, 2022, 136 Stat. 4085, 4087.)
+(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, §816, Dec. 4, 2018, 132 Stat. 4305; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §§8302(a), 8303(b), title LVXXXV \[LXXXV\], §8513(c), Jan. 1, 2021, 134 Stat. 4692, 4761; Pub. L. 117–263, div. K, title CXIII, §§11310, 11314, Dec. 23, 2022, 136 Stat. 4085, 4087.)
 
 #### <b>Editorial Notes</b>
 

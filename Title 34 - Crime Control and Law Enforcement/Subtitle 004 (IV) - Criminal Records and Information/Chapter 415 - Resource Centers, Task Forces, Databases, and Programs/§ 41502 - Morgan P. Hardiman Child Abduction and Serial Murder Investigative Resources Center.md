@@ -6,7 +6,7 @@ Not later than 90 days after the October 30, 1998, the Attorney General shall es
 
 #### (b) Purpose
 
-The CASMIRC shall be managed by the National Center for the Analysis of Violent Crimeof the Critical Incident Response Group of the Federal Bureau of Investigation (in this section referred to as the "NCAVC"), and by multidisciplinary resource teams in Federal Bureau of Investigation field offices, in order to provide investigative support through the coordination and provision of Federal law enforcement resources, training, and application of other multidisciplinary expertise, to assist Federal, State, and local authorities in matters involving child abductions, mysterious disappearances of children, child homicide, and serial murder across the country. The CASMIRC shall be co-located with the NCAVC.
+The CASMIRC shall be managed by the National Center for the Analysis of Violent Crime of the Critical Incident Response Group of the Federal Bureau of Investigation (in this section referred to as the "NCAVC"), and by multidisciplinary resource teams in Federal Bureau of Investigation field offices, in order to provide investigative support through the coordination and provision of Federal law enforcement resources, training, and application of other multidisciplinary expertise, to assist Federal, State, and local authorities in matters involving child abductions, mysterious disappearances of children, child homicide, and serial murder across the country. The CASMIRC shall be co-located with the NCAVC.
 
 #### (c) Duties of the CASMIRC
 
@@ -40,7 +40,7 @@ The CASMIRC shall perform such duties as the Attorney General determines appropr
 
 #### (3) Training
 
-&emsp;CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime andin consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
+&emsp;CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
 
 #### (e) Report to Congress
 

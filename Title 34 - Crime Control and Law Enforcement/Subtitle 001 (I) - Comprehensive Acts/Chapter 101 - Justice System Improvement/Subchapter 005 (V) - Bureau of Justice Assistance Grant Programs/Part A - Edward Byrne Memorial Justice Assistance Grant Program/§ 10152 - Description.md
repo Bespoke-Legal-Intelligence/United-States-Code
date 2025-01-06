@@ -138,5 +138,5 @@ Subsec. (h). Pub. L. 117–159, §12003(b), added subsec. (h).
 
 #### Effective Date
 
-Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal yearthereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
+Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 

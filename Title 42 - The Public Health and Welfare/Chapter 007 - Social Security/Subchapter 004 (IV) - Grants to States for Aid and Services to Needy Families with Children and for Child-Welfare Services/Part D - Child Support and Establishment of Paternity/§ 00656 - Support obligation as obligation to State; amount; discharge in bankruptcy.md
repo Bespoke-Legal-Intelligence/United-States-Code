@@ -16,7 +16,7 @@
 
 A debt (as defined in section 101 of title 11) owed under State law to a State (as defined in such section) or municipality (as defined in such section) that is in the nature of support and that is enforceable under this part is not released by a discharge in bankruptcy under title 11.
 
-(Aug. 14, 1935, ch. 531, title IV, §456, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356;amended Pub. L. 95–598, title III, §328, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–35, title XXIII, §2334(a), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–369, div. B, title VI, §2663(c)(15), July 18, 1984, 98 Stat. 1167; Pub. L. 98–378, §11(b)(2), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 104–193, title I, §108(c)(13), title III, §§374(b), 395(d)(2)(C), Aug. 22, 1996, 110 Stat. 2166, 2255, 2260; Pub. L. 105–33, title V, §§5513(a)(3), 5556(d), Aug. 5, 1997, 111 Stat. 619, 637.)
+(Aug. 14, 1935, ch. 531, title IV, §456, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–598, title III, §328, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–35, title XXIII, §2334(a), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–369, div. B, title VI, §2663(c)(15), July 18, 1984, 98 Stat. 1167; Pub. L. 98–378, §11(b)(2), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 104–193, title I, §108(c)(13), title III, §§374(b), 395(d)(2)(C), Aug. 22, 1996, 110 Stat. 2166, 2255, 2260; Pub. L. 105–33, title V, §§5513(a)(3), 5556(d), Aug. 5, 1997, 111 Stat. 619, 637.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +64,7 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 Amendment by Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -12,7 +12,7 @@ Not later than 1 year after November 15, 2021, and annually thereafter, the Admi
 
 #### (2) Requirement
 
-&emsp;In the annual report required under paragraph (1), the Administrator shall include adescription of the reasons for which boil water advisories were issued during the year covered by the report.
+&emsp;In the annual report required under paragraph (1), the Administrator shall include a description of the reasons for which boil water advisories were issued during the year covered by the report.
 
 (Pub. L. 117–58, div. E, title I, §50115, Nov. 15, 2021, 135 Stat. 1157.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Compensation.—The district court shall, subject to regulations approved by the Judicial Conference of the United States, establish theamount of compensation, if any, that each arbitrator or neutral shall receive for services rendered in each case under this chapter.
+Compensation.—The district court shall, subject to regulations approved by the Judicial Conference of the United States, establish the amount of compensation, if any, that each arbitrator or neutral shall receive for services rendered in each case under this chapter.
 
 (b)
 

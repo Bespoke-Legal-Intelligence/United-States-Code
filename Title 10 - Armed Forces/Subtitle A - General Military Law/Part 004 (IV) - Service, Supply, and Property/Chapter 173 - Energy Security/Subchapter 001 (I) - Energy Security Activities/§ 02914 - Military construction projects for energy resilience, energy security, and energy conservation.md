@@ -70,7 +70,7 @@ Incorporation of Cybersecurity Supply Chain Risk Management Tools and Methods.�
 
 Application to Military Construction Projects.—This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 114–328, div. B, title XXVIII, §2805(a)(1), (b)(1)(A), (2), Dec. 23, 2016, 130 Stat. 2713, 2714; Pub. L. 115–91, div. B, title XXVIII, §§2801(e)(1), 2831(c)(1), Dec. 12, 2017, 131 Stat. 1845, 1857; Pub. L. 115–232, div. A, title X, §1081(a)(29), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, titleXXVIII, §§2805(a), 2823(b), Jan. 1, 2021, 134 Stat. 4321, 4333; Pub. L. 117–81, div. B, title XXVIII, §2804, Dec. 27, 2021, 135 Stat. 2188; Pub. L. 118–31, div. B, title XXVIII, §2809, Dec. 22, 2023, 137 Stat. 746.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 114–328, div. B, title XXVIII, §2805(a)(1), (b)(1)(A), (2), Dec. 23, 2016, 130 Stat. 2713, 2714; Pub. L. 115–91, div. B, title XXVIII, §§2801(e)(1), 2831(c)(1), Dec. 12, 2017, 131 Stat. 1845, 1857; Pub. L. 115–232, div. A, title X, §1081(a)(29), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, §§2805(a), 2823(b), Jan. 1, 2021, 134 Stat. 4321, 4333; Pub. L. 117–81, div. B, title XXVIII, §2804, Dec. 27, 2021, 135 Stat. 2188; Pub. L. 118–31, div. B, title XXVIII, §2809, Dec. 22, 2023, 137 Stat. 746.)
 
 #### <b>Editorial Notes</b>
 

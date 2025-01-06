@@ -104,7 +104,7 @@ As used in this chapter—
 
 #### (g) Savings bank
 
-&emsp;The term "savings bank" means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing themanner of investing their funds and of conducting their business.
+&emsp;The term "savings bank" means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business.
 
 #### (h) Insured bank
 
@@ -132,7 +132,7 @@ As used in this chapter—
 
 &emsp;The term "deposit" means—
 
-&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term "money or its equivalent", any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
+&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thriftcertificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term "money or its equivalent", any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
 
 &emsp;&emsp;(2) trust funds as defined in this chapter received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association.
 
@@ -268,7 +268,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 &emsp;The term "institution-affiliated party" means—
 
-&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company or savings and loan holding company) of, or agent for, an insured depository institution;
+&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bankholding company or savings and loan holding company) of, or agent for, an insured depository institution;
 
 &emsp;&emsp;(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
 
@@ -576,7 +576,7 @@ Subsecs. (r), (s). Pub. L. 95–369, §6(c)(6), added subsecs. (r) and (s).
 
 Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
-<b>1960</b>—Subsec. (l). Pub. L. 86–671 amended subsec. (l) generally, and among other changes, inserted in par. (1) "or held", "either conditionally or unconditionally", "or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable", and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
+<b>1960</b>—Subsec. (l). Pub. L. 86–671 amended subsec. (l) generally, and among other changes, inserted in par. (1) "or held", "either conditionally or unconditionally", "or a check or draft drawn against a deposit accountand certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable", and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted "Guam," after "Puerto Rico," and substituted a comma for the period and inserted "and the word 'State' means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands".
 

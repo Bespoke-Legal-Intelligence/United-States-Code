@@ -12,7 +12,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;&emsp;(B) The right to an individualized, written, treatment or service plan (such plan to be developed promptly after admission of such person), the right to treatment based on such plan, the right to periodic review and reassessment of treatment and related service needs, and the right to appropriate revision of such plan, including any revision necessary to provide a description of mental health services that may be needed after such person is discharged from such program or facility.
 
-&emsp;&emsp;(C) The right to ongoing participation, in a manner appropriate to such person's capabilities, in the planning of mental health services to be provided such person (including the right to participate in the development and periodic revision of the plan described in subparagraph (B)), and, in connection with such participation, the right to be provided with a reasonable explanation, interms and language appropriate to such person's condition and ability to understand, of—
+&emsp;&emsp;(C) The right to ongoing participation, in a manner appropriate to such person's capabilities, in the planning of mental health services to be provided such person (including the right to participate in the development and periodic revision of the plan described in subparagraph (B)), and, in connection with such participation, the right to be provided with a reasonable explanation, in terms and language appropriate to such person's condition and ability to understand, of—
 
 &emsp;&emsp;&emsp;(i) such person's general mental condition and, if such program or facility has provided a physical examination, such person's general physical condition;
 
@@ -36,7 +36,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;&emsp;(F) The right to freedom from restraint or seclusion, other than as a mode or course of treatment or restraint or seclusion during an emergency situation if such restraint or seclusion is pursuant to or documented contemporaneously by the written order of a responsible mental health professional.
 
-&emsp;&emsp;(G) The right to a humane treatment environment that affords reasonable protection from harm and appropriate privacy to such person with regard to personal needs.
+&emsp;&emsp;(G) The right to a humane treatment environment that affords reasonable protectionfrom harm and appropriate privacy to such person with regard to personal needs.
 
 &emsp;&emsp;(H) The right to confidentiality of such person's records.
 
@@ -92,7 +92,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;(D) Each program and facility should post a notice listing and describing, in language and terms appropriate to the ability of the persons to whom such notice is addressed to understand, the rights described in this section of all persons admitted to such program or facility. Each such notice should conform to the format and content for such notices, and should be posted in all appropriate locations.
 
-&emsp;(4)(A) In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization may be provided by the individual appointed by such court as such person's guardian or representative for the purpose of exercising such right or such authorization.
+&emsp;(4)(A) In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), orthe right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization may be provided by the individual appointed by such court as such person's guardian or representative for the purpose of exercising such right or such authorization.
 
 &emsp;(B) In the case of a person who lacks capacity to exercise the right to consent to treatment or experimentation under subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), because such person has not attained an age considered sufficiently advanced under State law to permit the exercise of such right or such authorization to be legally binding, such right may be exercised or such authorization may be provided on behalf of such person by a parent or legal guardian of such person.
 

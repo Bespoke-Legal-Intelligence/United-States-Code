@@ -12,7 +12,7 @@ The Secretary shall develop a strategy for the deployment of radiation detection
 
 &emsp;(2) a proposed timeline of when radiation detection equipment will be deployed at each port of entry identified under paragraph (1);
 
-&emsp;(3) the type of equipment to be used at each port of entry identified under paragraph (1), including the joint deployment and utilizationof radiation detection equipment and nonintrusive imaging equipment;
+&emsp;(3) the type of equipment to be used at each port of entry identified under paragraph (1), including the joint deployment and utilization of radiation detection equipment and nonintrusive imaging equipment;
 
 &emsp;(4) standard operating procedures for examining containers with such equipment, including sensor alarming, networking, and communications and response protocols;
 
@@ -64,7 +64,7 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 
 #### (2) Projects
 
-&emsp;The Secretary shall conduct multiple, concurrent projects at the Test Center to rapidly identify and test concepts specific to the challenges posed by on-dock rail.
+&emsp;The Secretary shall conduct multiple, concurrent projects at the Test Center to rapidlyidentify and test concepts specific to the challenges posed by on-dock rail.
 
 #### (3) Location
 

@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [491\.](%C2%A7%2000491%20-%20Nuclear%20weapons%20employment%20strategy%20of%20the%20United%20States%20reports%20on%20modification%20of%20strategy.md) | Nuclear weapons employment strategy of the United States: reports on modification of strategy. |
 | [492\.](%C2%A7%2000492%20-%20Biennial%20assessment%20and%20report%20on%20the%20delivery%20platforms%20for%20nuclear%20weapons%20and%20the%20nuclear%20command%20and%20control%20system.md) | Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system. |
-| [492a.](%C2%A7%2000492a%20-%20Annual%20report%20on%20the%20plan%20for%20the%20nuclear%20weapons%20stockpile%2C%20nuclear%20weapons%20complex%2C%20nuclear%20weapons%20delivery%20systems%2C%20and%20nuclear%E2%80%A6.md) | Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system. |
+| [492a.](%C2%A7%2000492a%20-%20Biennial%20report%20on%20the%20plan%20for%20the%20nuclear%20weapons%20stockpile%2C%20nuclear%20weapons%20complex%2C%20nuclear%20weapons%20delivery%20systems%2C%20and%20nuclear%E2%80%A6.md) | Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system. |
 | [492b.](%C2%A7%2000492b%20-%20Biannual%20briefing%20on%20nuclear%20weapons%20and%20related%20activities.md) | Biannual briefing on nuclear weapons and related activities. |
 | [493\.](%C2%A7%2000493%20-%20Reports%20to%20Congress%20on%20the%20modification%20of%20the%20force%20structure%20for%20the%20strategic%20nuclear%20weapons%20delivery%20systems%20of%20the%20United%20States.md) | Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States. |
 | [493a.](%C2%A7%2000493a%20-%20Industrial%20base%20monitoring%20for%20B%E2%80%9321%20and%20Sentinel%20programs.md) | Industrial base monitoring for B–21 and Sentinel programs. |
@@ -25,6 +25,8 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–159, div. A, title XVI, §1624(1), Dec. 23, 2024, 138 Stat. 2173, substituted "Biennial" for "Annual" in item 492a. Amendment was made pursuant to operation of section 102 of this title.
+
 <b>2022</b>—Pub. L. 117–263, div. A, title XVI, §§1631, 1632, 1634(a), Dec. 23, 2022, 136 Stat. 2934, 2938, added items 492b, 493a, and 499c.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVI, §1631, Dec. 27, 2021, 135 Stat. 2089, added item 499b.
@@ -44,7 +46,7 @@ Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 10
 
 - [&sect; 00491 - Nuclear weapons employment strategy of the United States reports on modification of strategy](%C2%A7%2000491%20-%20Nuclear%20weapons%20employment%20strategy%20of%20the%20United%20States%20reports%20on%20modification%20of%20strategy.md)
 - [&sect; 00492 - Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system](%C2%A7%2000492%20-%20Biennial%20assessment%20and%20report%20on%20the%20delivery%20platforms%20for%20nuclear%20weapons%20and%20the%20nuclear%20command%20and%20control%20system.md)
-- [&sect; 00492a - Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear&#8230;](%C2%A7%2000492a%20-%20Annual%20report%20on%20the%20plan%20for%20the%20nuclear%20weapons%20stockpile%2C%20nuclear%20weapons%20complex%2C%20nuclear%20weapons%20delivery%20systems%2C%20and%20nuclear%E2%80%A6.md)
+- [&sect; 00492a - Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear&#8230;](%C2%A7%2000492a%20-%20Biennial%20report%20on%20the%20plan%20for%20the%20nuclear%20weapons%20stockpile%2C%20nuclear%20weapons%20complex%2C%20nuclear%20weapons%20delivery%20systems%2C%20and%20nuclear%E2%80%A6.md)
 - [&sect; 00492b - Biannual briefing on nuclear weapons and related activities](%C2%A7%2000492b%20-%20Biannual%20briefing%20on%20nuclear%20weapons%20and%20related%20activities.md)
 - [&sect; 00493 - Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States](%C2%A7%2000493%20-%20Reports%20to%20Congress%20on%20the%20modification%20of%20the%20force%20structure%20for%20the%20strategic%20nuclear%20weapons%20delivery%20systems%20of%20the%20United%20States.md)
 - [&sect; 00493a - Industrial base monitoring for B&#8211;21 and Sentinel programs](%C2%A7%2000493a%20-%20Industrial%20base%20monitoring%20for%20B%E2%80%9321%20and%20Sentinel%20programs.md)

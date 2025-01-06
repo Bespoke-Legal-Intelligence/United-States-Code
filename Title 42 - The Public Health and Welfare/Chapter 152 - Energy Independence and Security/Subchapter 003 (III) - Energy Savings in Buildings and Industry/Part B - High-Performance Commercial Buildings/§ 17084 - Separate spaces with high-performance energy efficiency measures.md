@@ -16,7 +16,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 1 year after April 30, 2015, the Secretary, acting through the Assistant Secretary of Energy Efficiency and RenewableEnergy, shall complete a study on the feasibility of—
+&emsp;Not later than 1 year after April 30, 2015, the Secretary, acting through the Assistant Secretary of Energy Efficiency and Renewable Energy, shall complete a study on the feasibility of—
 
 &emsp;&emsp;(A) significantly improving energy efficiency in commercial buildings through the design and construction, by owners and tenants, of separate spaces with high-performance energy efficiency measures; and
 
@@ -48,7 +48,7 @@ In this section:
 
 #### (3) Public participation
 
-&emsp;Not later than 90 days after April 30, 2015, the Secretary shall publish a notice in the Federal Register requesting public comments regarding effective methods, measures, and practices for the design and construction of separate spaces with high-performance energy efficiency measures.
+&emsp;Not later than 90 days after April 30, 2015, the Secretary shall publish a notice in the Federal Register requesting public comments regarding effective methods, measures, andpractices for the design and construction of separate spaces with high-performance energy efficiency measures.
 
 #### (4) Publication
 

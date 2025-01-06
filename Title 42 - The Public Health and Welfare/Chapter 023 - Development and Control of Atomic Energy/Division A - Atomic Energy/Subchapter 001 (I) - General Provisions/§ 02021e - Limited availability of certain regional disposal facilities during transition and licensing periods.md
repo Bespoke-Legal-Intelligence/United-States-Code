@@ -54,7 +54,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 #### (2) Method of calculation
 
-&emsp;For purposes of calculating the aggregate amount of disposal capacity available to a commercial nuclear power reactor under this subsection, the number of months shall be computed beginning with the first month of the applicable period, or the sixteenth month after receipt of a full power operating license, whichever occurs later.
+&emsp;For purposes of calculating the aggregate amount of disposal capacity available to acommercial nuclear power reactor under this subsection, the number of months shall be computed beginning with the first month of the applicable period, or the sixteenth month after receipt of a full power operating license, whichever occurs later.
 
 #### (3) Unused allocations
 
@@ -100,7 +100,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 &emsp;&emsp;&emsp;(i)
 
-July 1, 1986.—The twenty-five per centum of any amount collected by aState under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) is met by the State in which such waste originated.
+July 1, 1986.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) is met by the State in which such waste originated.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -108,7 +108,7 @@ January 1, 1988.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;&emsp;(iii)
 
-January 1, 1990.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
+January 1, 1990.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State inwhich such waste originated (or its compact region, where applicable).
 
 &emsp;&emsp;&emsp;(iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah <sup>1</sup> (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January 1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
 
@@ -152,7 +152,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 #### (II) Department of Energy
 
-&emsp;&emsp;&emsp;&emsp;Not later than six months after receiving the reports under subclause (I), the Secretary shall submit to the Congress a summary of all such reports that shall include an assessment of the compliance of each such State or compact commission with the requirements of clause (i).
+&emsp;&emsp;&emsp;&emsp;Not later than six months after receiving the reports under subclause (I), the Secretary shall submit to the Congress a summary of all such reports that shallinclude an assessment of the compliance of each such State or compact commission with the requirements of clause (i).
 
 #### (F) Payment to States
 
@@ -252,7 +252,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 Proprietary information.—
 
-&emsp;&emsp;(i) Trade secrets, proprietary and other confidential information shall be madeavailable to a State under this subsection upon request only if such State—
+&emsp;&emsp;(i) Trade secrets, proprietary and other confidential information shall be made available to a State under this subsection upon request only if such State—
 
 &emsp;&emsp;&emsp;(I) consents in writing to restrict the dissemination of the information to those who are directly involved in monitoring under subparagraph (A) and who have a need to know;
 
@@ -266,7 +266,7 @@ Proprietary information.—
 
 #### (g) Nondiscrimination
 
-Except as provided in subsections (b) through (e), low-level radioactive waste disposed of under this section shall be subject without discrimination to all applicable legal requirements of the compact region and State in which the disposal facility is located as if such low-level radioactive waste were generated within such compact region.
+Except as provided in subsections (b) through (e), low-level radioactive waste disposed ofunder this section shall be subject without discrimination to all applicable legal requirements of the compact region and State in which the disposal facility is located as if such low-level radioactive waste were generated within such compact region.
 
 (Pub. L. 96–573, §5, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1846.)
 

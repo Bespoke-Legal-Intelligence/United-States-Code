@@ -74,7 +74,7 @@
 
 #### (1) In general
 
-&emsp;In the case of dividends described in paragraph (2) received from a foreign corporation by a domestic corporation which, for its taxable year in which such dividends are received, owns (directly or indirectly) all of the outstanding stock of such foreign corporation, there shall be allowed as a deduction (in lieu of the deduction provided by subsection (a)) an amount equal to 100 percent of such dividends.
+&emsp;In the case of dividends described in paragraph (2) received from a foreign corporationby a domestic corporation which, for its taxable year in which such dividends are received, owns (directly or indirectly) all of the outstanding stock of such foreign corporation, there shall be allowed as a deduction (in lieu of the deduction provided by subsection (a)) an amount equal to 100 percent of such dividends.
 
 #### (2) Eligible dividends
 
@@ -220,7 +220,7 @@ Amendment by sections 1006(e)(16) and 1012(l)(2), (3) of Pub. L. 100–647 effec
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to dividends received or accrued after Dec. 31, 1987, in taxable years ending after such date, see section 10221(e)(1) of Pub. L. 100–203, set out as a note under section 243 of this title.
+Amendment by Pub. L. 100–203 applicable to dividends received or accrued after Dec. 31, 1987, in taxable yearsending after such date, see section 10221(e)(1) of Pub. L. 100–203, set out as a note under section 243 of this title.
 
 #### Effective Date of 1986 Amendment
 

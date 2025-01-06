@@ -72,7 +72,7 @@ In this section:
 
 #### (3) Relation to land and resource management plans
 
-&emsp;Any authorized emergency action carried out under paragraph (2) on National ForestSystem land shall be conducted consistent with the applicable land and resource management plan.
+&emsp;Any authorized emergency action carried out under paragraph (2) on National Forest System land shall be conducted consistent with the applicable land and resource management plan.
 
 #### (c) Environmental analysis
 

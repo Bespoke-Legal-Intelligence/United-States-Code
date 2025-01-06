@@ -18,7 +18,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (c) Terminal and supplementary reports
 
-(1) Each administrator of an employee pension benefit plan which is winding up its affairs (without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
+(1) Each administrator of an employee pension benefit plan which is winding up its affairs\(without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
 
 (2) The Secretary may require terminal reports to be filed with regard to any employee welfare benefit plan which is winding up its affairs in accordance with regulations promulgated by the Secretary.
 
@@ -42,7 +42,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (1) Notice to participants
 
-&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant and beneficiary under the plan of such transfer. Such noticeshall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities or applicable life insurance benefit liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
+&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant and beneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities or applicable life insurance benefit liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
 
 #### (2) Notice to Secretaries, administrator, and employee organizations
 
@@ -100,7 +100,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;&emsp;(III) active participants under the plan,
 
-&emsp;&emsp;&emsp;(iv) a statement setting forth the funding policy of the plan, the asset allocation of investments under the plan (expressedas percentages of total assets), and the average return on assets for the plan year, as of the end of the plan year to which the notice relates,
+&emsp;&emsp;&emsp;(iv) a statement setting forth the funding policy of the plan, the asset allocation of investments under the plan (expressed as percentages of total assets), and the average return on assets for the plan year, as of the end of the plan year to which the notice relates,
 
 &emsp;&emsp;&emsp;(v) in the case of a multiemployer plan, whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so—
 
@@ -128,7 +128,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan's liabilities, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(1)(aa), and
 
-&emsp;&emsp;&emsp;&emsp;(III) the funded status of the plan, determined as the ratio of the plan's assets and liabilities calculated under subclauses (I) and (II), for the plan year to which the notice relates, and for the 2 preceding plan years,
+&emsp;&emsp;&emsp;&emsp;(III) the funded status of the plan, determined as the ratio of the plan's assets and liabilities calculated under subclauses (I) and (II), for the plan year towhich the notice relates, and for the 2 preceding plan years,
 
 &emsp;&emsp;&emsp;(x) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply and a statement that, in the case of a single-employer plan—
 
@@ -154,7 +154,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,,<sup>3</sup> the Bipartisan Budget Act of 2015,,<sup>3</sup> the American Rescue Plan Actof 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+&emsp;&emsp;&emsp;&emsp;(I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,,<sup>3</sup> the Bipartisan Budget Act of 2015,,<sup>3</sup> the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
 
 &emsp;&emsp;&emsp;&emsp;(II) a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014,,<sup>3</sup> the Bipartisan Budget Act of 2015,,<sup>3</sup> the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
 
@@ -184,7 +184,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;(ii) for the first 2 plan years beginning after December 31, 2013, a statement that, as a result of changes in the law made by the Cooperative and Small Employer Charity Pension Flexibility Act, the contributions to the plan may have changed, and
 
-&emsp;&emsp;&emsp;(iii) in the case of a CSEC plan that is in funding restoration status for the plan year, a statement that the plan is in funding restoration status for such plan year.
+&emsp;&emsp;&emsp;(iii) in the case of a CSEC plan that is in funding restoration status for the planyear, a statement that the plan is in funding restoration status for such plan year.
 
 > &emsp;&emsp;A copy of the statement required under clause (iii) shall be provided to the Secretary, the Secretary of the Treasury, and the Director of the Pension Benefit Guaranty Corporation.
 
@@ -398,7 +398,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;(B) an explanation of how such estimated liability amount was determined, including the actuarial assumptions and methods used to determine the value of the plan liabilities and assets, the data regarding employer contributions, unfunded vested benefits, annual changes in the plan's unfunded vested benefits, and the application of any relevant limitations on the estimated withdrawal liability.
 
-> &emsp;For purposes of subparagraph (B), the term "employer contribution" means, in connection with a participant, a contribution made by an employer as an employer of such participant.
+> &emsp;For purposes of subparagraph (B), the term "employer contribution" means, in connectionwith a participant, a contribution made by an employer as an employer of such participant.
 
 #### (2) Compliance
 
@@ -644,7 +644,7 @@ Amendment by Pub. L. 117–2 applicable with respect to plan years beginning aft
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section 504(c) of Pub. L. 114–74, set out as a note under section 430 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section504(c) of Pub. L. 114–74, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 
@@ -686,7 +686,7 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 > For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement."
 
-Pub. L. 109–280, title I, §108(e), formerly §107(e), Aug. 17, 2006, 120 Stat. 820, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297, provided that: "The amendments made by this section \[amending this section, sections 1023, 1053, 1054, 1056, 1103, 1108, 1301,1303, 1310, 1362, 1371, and 1423 of this title, and Reorganization Plan No. 4 of 1978, set out as a note under section 1001 of this title and in the Appendix to Title 5, Government Organization and Employees, and repealing section 1057 of this title\] shall apply to plan years beginning after 2007."
+Pub. L. 109–280, title I, §108(e), formerly §107(e), Aug. 17, 2006, 120 Stat. 820, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297, provided that: "The amendments made by this section \[amending this section, sections 1023, 1053, 1054, 1056, 1103, 1108, 1301, 1303, 1310, 1362, 1371, and 1423 of this title, and Reorganization Plan No. 4 of 1978, set out as a note under section 1001 of this title and in the Appendix to Title 5, Government Organization and Employees, and repealing section 1057 of this title\] shall apply to plan years beginning after 2007."
 
 Pub. L. 109–280, title V, §501(d), Aug. 17, 2006, 120 Stat. 939, provided that:
 
@@ -776,7 +776,7 @@ Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348, as 
 
 #### Regulations
 
-Pub. L. 109–280, title V, §502(a)(3), Aug. 17, 2006, 120 Stat. 940, provided that: "The Secretary shall prescriberegulations under section 101(k)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(k)(2)\] (as added by paragraph (1)) not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title V, §502(a)(3), Aug. 17, 2006, 120 Stat. 940, provided that: "The Secretary shall prescribe regulations under section 101(k)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(k)(2)\] (as added by paragraph (1)) not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 Pub. L. 108–218, title I, §103(c), Apr. 10, 2004, 118 Stat. 604, provided that: "The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act \[Apr. 10, 2004\], issue regulations (including a model notice) necessary to implement the amendments made by this section \[amending this section and section 1132 of this title\]."
 
@@ -802,7 +802,7 @@ Pub. L. 113–97, title I, §104(a)(2), Apr. 7, 2014, 128 Stat. 1120, provided t
 
 Pub. L. 112–141, div. D, title II, §40211(b)(2)(B), July 6, 2012, 126 Stat. 849, provided that: "The Secretary of Labor shall modify the model notice required to be published under section 501(c) of the Pension Protection Act of 2006 \[section 501(c) of Pub. L. 109–280, set out below\] to prominently include the information described in section 101(f)(2)(D) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)(2)(D)\], as added by this paragraph."
 
-Pub. L. 109–280, title V, §501(c), Aug. 17, 2006, 120 Stat. 939, provided that: "Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish a model version of the notice required by section 101(f) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)\]. The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection."
+Pub. L. 109–280, title V, §501(c), Aug. 17, 2006, 120 Stat. 939, provided that: "Not later than 1 year after the dateof the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish a model version of the notice required by section 101(f) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)\]. The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection."
 
 Pub. L. 109–280, title V, §503(e), Aug. 17, 2006, 120 Stat. 945, as amended by Pub. L. 110–458, title I, §105(c)(2), Dec. 23, 2008, 122 Stat. 5105, provided that: "Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish a model form for providing the statements, schedules, and other material required to be provided under section 104(d) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1024(d)\], as amended by this section. The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection."
 

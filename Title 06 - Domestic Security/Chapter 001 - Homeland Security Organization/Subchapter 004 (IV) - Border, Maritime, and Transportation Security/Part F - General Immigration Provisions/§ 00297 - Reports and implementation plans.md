@@ -62,7 +62,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 &emsp;&emsp;(B) A statement of the reasons for the determinations under subparagraph (A).
 
-&emsp;&emsp;(C) Any recommendations for further improvements to the Bureau of Citizenship andImmigration Services and the Bureau of Border Security.
+&emsp;&emsp;(C) Any recommendations for further improvements to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.
 
 #### (3) Report on fees
 

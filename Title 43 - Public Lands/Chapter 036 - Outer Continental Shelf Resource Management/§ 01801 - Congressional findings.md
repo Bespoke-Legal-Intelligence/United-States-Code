@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 &emsp;(6) technology is or can be made available which will allow significantly increased domestic production of oil and gas without undue harm or damage to the environment;
 
-&emsp;(7) the Outer Continental Shelf contains significant quantities of oil and natural gas and is a vital national resource reserve which must be carefully managed so as to realize fair value, to preserve and maintain competition, and to reflect the public interest;
+&emsp;(7) the Outer Continental Shelf contains significant quantities of oil and natural gas andis a vital national resource reserve which must be carefully managed so as to realize fair value, to preserve and maintain competition, and to reflect the public interest;
 
 &emsp;(8) there presently exists a variety of technological, economic, environmental, administrative, and legal problems which tend to retard the development of the oil and natural gas reserves of the Outer Continental Shelf;
 
@@ -30,7 +30,7 @@ The Congress finds and declares that—
 
 &emsp;(14) the oil and gas resources of the Outer Continental Shelf are limited, nonrenewable resources which must be developed in a manner which takes into consideration the Nation's long-range energy needs and also assures adequate protection of the renewable resources of the Outer Continental Shelf which are a continuing and increasingly important source of food and protein to the Nation and the world; and
 
-&emsp;(15) funds must be made available to pay for damage to commercial fishing vessels and gear resulting from activities involving oil and gasexploration, development, and production on the Outer Continental Shelf.
+&emsp;(15) funds must be made available to pay for damage to commercial fishing vessels and gear resulting from activities involving oil and gas exploration, development, and production on the Outer Continental Shelf.
 
 (Pub. L. 95–372, title I, §101, Sept. 18, 1978, 92 Stat. 630.)
 

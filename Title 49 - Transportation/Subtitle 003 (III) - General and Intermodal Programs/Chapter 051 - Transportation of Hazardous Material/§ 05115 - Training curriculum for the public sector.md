@@ -20,7 +20,7 @@ Requirements.—The curriculum maintained and updated under subsection (a) of th
 
 (c)
 
-Training on Complying With Legal Requirements.—A recommended course describedin subsection (b)(1)(B) of this section shall provide the training necessary for public sector employees to comply with—
+Training on Complying With Legal Requirements.—A recommended course described in subsection (b)(1)(B) of this section shall provide the training necessary for public sector employees to comply with—
 
 &emsp;(1) regulations related to hazardous waste operations and emergency response contained in part 1910 of title 29, Code of Federal Regulations, prescribed by the Secretary of Labor;
 

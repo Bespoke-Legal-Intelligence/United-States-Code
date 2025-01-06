@@ -10,7 +10,7 @@
 
 &emsp;(C) any determination by the Secretary disapproving a State plan under section 8512(c) of this title, including any determination by the Secretary under section 8512(c)(1)(B) of this title that the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof.
 
-> Such action shall be barred unless it is instituted within 30 calendar days after the date of publication of the establishment of a target referred to in subparagraph (A), the finding by the President referred to in subparagraph (B), or the determination by the Secretary referred to in subparagraph (C), as the case may be.
+> Such action shall be barred unless it is instituted within 30 calendar days after the date of publication of the establishment of a target referred to in subparagraph (A), the finding by thePresident referred to in subparagraph (B), or the determination by the Secretary referred to in subparagraph (C), as the case may be.
 
 (2) The district court shall determine the questions of law and upon such determination certify such questions immediately to the United States court of appeals for the circuit involved, which shall hear the matter sitting en banc.
 

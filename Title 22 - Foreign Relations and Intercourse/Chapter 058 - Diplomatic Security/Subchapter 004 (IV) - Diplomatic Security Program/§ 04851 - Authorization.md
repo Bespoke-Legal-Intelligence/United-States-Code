@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to amounts otherwise available for such purposes, the following amounts are authorized to be appropriated for fiscal years 1986 and 1987, for the Department of State to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year for "Administration of Foreign Affairs", as follows:
+&emsp;In addition to amounts otherwise available for such purposes, the following amounts are authorized to be appropriated for fiscal years 1986 and 1987, for the Department of State tocarry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year for "Administration of Foreign Affairs", as follows:
 
 &emsp;&emsp;(A) For "Salaries and Expenses", $308,104,000.
 
@@ -72,7 +72,7 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: "Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
-Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: "Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
+Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: "Amounts made available for furniture, furnishings,and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
 <b>1987</b>—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriations under this paragraph remain available until appropriations are made.
 

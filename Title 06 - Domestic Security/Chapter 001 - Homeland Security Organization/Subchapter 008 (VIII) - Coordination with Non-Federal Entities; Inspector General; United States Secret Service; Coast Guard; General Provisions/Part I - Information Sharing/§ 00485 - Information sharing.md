@@ -374,7 +374,7 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 #### Procedures To Clear Individuals From Terrorist Database Lists
 
-Pub. L. 109–295, title V, §556, Oct. 4, 2006, 120 Stat. 1391, provided that: "Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whose names have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established."
+Pub. L. 109–295, title V, §556, Oct. 4, 2006, 120 Stat. 1391, provided that: "Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whosenames have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established."
 
 #### <b>Executive Documents</b>
 
@@ -400,7 +400,7 @@ Sec. 2. <i>Duties of Heads of Agencies Possessing or Acquiring Terrorism Informa
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
-Sec. 3. <i>Preparing Terrorism Information for Maximum Distribution</i>. To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the common standards for the sharing of terrorism information established pursuant tosection 3 of Executive Order 13356 of August 27, 2004 \[formerly set out above\], shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
+Sec. 3. <i>Preparing Terrorism Information for Maximum Distribution</i>. To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the common standards for the sharing of terrorism information established pursuant to section 3 of Executive Order 13356 of August 27, 2004 \[formerly set out above\], shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
 Sec. 4. <i>Requirements for Collection of Terrorism Information Inside the United States</i>. To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the recommendations regarding the establishment of executive branch-wide collection and sharing requirements, procedures, and guidelines for terrorism information collected within the United States made pursuant to section 4 of Executive Order 13356 \[formerly set out above\] shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
 

@@ -10,7 +10,7 @@ Coastwise qualified vessel.—The term "coastwise qualified vessel" means a vess
 
 &emsp;(2)
 
-Platform jacket.—The term "platform jacket" refers to a single physical componentand includes any type of offshore exploration, development, or production structure or component thereof, including—
+Platform jacket.—The term "platform jacket" refers to a single physical component and includes any type of offshore exploration, development, or production structure or component thereof, including—
 
 &emsp;&emsp;(A) platform jackets;
 

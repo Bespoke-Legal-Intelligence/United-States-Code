@@ -6,7 +6,7 @@ Not later than one year after October 24, 1992, the Secretary shall solicit prop
 
 #### (b) Criteria
 
-(1) The Secretary shall provide financial assistance to no more than 10 projects under this part, unless the Secretary determines that the total amount of available funds is not likely to be otherwise used.
+(1) The Secretary shall provide financial assistance to no more than 10 projects under thispart, unless the Secretary determines that the total amount of available funds is not likely to be otherwise used.
 
 (2) The proposals selected by the Secretary shall, to the extent practicable, represent geographically and climatically diverse regions of the United States.
 

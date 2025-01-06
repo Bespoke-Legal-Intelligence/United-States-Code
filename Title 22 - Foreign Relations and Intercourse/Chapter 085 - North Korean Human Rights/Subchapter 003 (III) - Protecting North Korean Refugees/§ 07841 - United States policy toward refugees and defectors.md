@@ -22,7 +22,7 @@ The report shall include—
 
 #### (c) Form
 
-The information required by paragraphs (1) through (5) of subsection (b) shall be provided in unclassified form. All or part of the information required by subsection (b)(6) may be provided in classified form, if necessary.
+The information required by paragraphs (1) through (5) of subsection (b) shall be provided inunclassified form. All or part of the information required by subsection (b)(6) may be provided in classified form, if necessary.
 
 (Pub. L. 108–333, title III, §301, Oct. 18, 2004, 118 Stat. 1295.)
 

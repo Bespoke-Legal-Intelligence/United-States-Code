@@ -2,7 +2,7 @@
 
 (a)
 
-Prescribing Regulations.—With the approval of the President, the Secretary of the Treasury and the United States Postal Service jointly shall prescribe regulations governing the shipment of valuables by an executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee of the Federal Government, with a view to minimizing the risk of loss and destruction of, and damage to, valuables in shipment.
+Prescribing Regulations.—With the approval of the President, the Secretary of the Treasury and the United States Postal Service jointly shall prescribe regulations governing the shipment of valuables by an executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee of the Federal Government, with aview to minimizing the risk of loss and destruction of, and damage to, valuables in shipment.
 
 (b)
 

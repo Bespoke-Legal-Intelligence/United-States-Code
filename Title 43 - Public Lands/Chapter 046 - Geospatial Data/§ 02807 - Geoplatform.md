@@ -32,7 +32,7 @@ The Committee shall operate an electronic service that provides access to geospa
 
 #### (2) Managing partner
 
-&emsp;The Chairperson of the Committee shall designate an agency to serve as the managingpartner for developing and operating the GeoPlatform, taking direction from the Committee on the scope, functionality, and performance of the GeoPlatform.
+&emsp;The Chairperson of the Committee shall designate an agency to serve as the managing partner for developing and operating the GeoPlatform, taking direction from the Committee on the scope, functionality, and performance of the GeoPlatform.
 
 #### (c) Clarification
 

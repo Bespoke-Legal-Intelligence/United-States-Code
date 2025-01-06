@@ -10,7 +10,7 @@ Within 180 days after the date on which the Commercial Mobile Service Alert Advi
 
 &emsp;Within 120 days after the date on which the Federal Communications Commission adopts relevant technical standards and other technical requirements pursuant to subsection (a), the Commission shall complete a proceeding—
 
-&emsp;&emsp;(A) to allow any licensee providing commercial mobile service (as defined in section332(d)(1) of this title) to transmit emergency alerts to subscribers to, or users of, the commercial mobile service provided by such licensee;
+&emsp;&emsp;(A) to allow any licensee providing commercial mobile service (as defined in section 332(d)(1) of this title) to transmit emergency alerts to subscribers to, or users of, the commercial mobile service provided by such licensee;
 
 &emsp;&emsp;(B) to require any licensee providing commercial mobile service that elects, in whole or in part, under paragraph (2) not to transmit emergency alerts to provide clear and conspicuous notice at the point of sale of any devices with which its commercial mobile service is included, that it will not transmit such alerts via the service it provides for the device; and
 
@@ -84,7 +84,7 @@ The Commission shall require by regulation technical testing for commercial mobi
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) and (e)(1), was in the original "this title", meaning title VI of Pub. L.109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (d) and (e)(1), was in the original "this title", meaning title VI of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

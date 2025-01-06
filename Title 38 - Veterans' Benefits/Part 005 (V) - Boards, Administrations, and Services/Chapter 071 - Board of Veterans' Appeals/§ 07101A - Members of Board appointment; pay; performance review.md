@@ -10,7 +10,7 @@
 
 (B) Not less than one year after the job performance standards under subsection (f) are initially established, and not less often than once every three years thereafter, the performance review panel shall determine, with respect to each member of the Board (other than the Chairman or a member who is a member of the Senior Executive Service), whether that member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f). Each such determination shall be in writing.
 
-(2) If the determination of the performance review panel in any case is that the member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f), the Chairman shall recertify the member's appointment as a member of the Board.
+(2) If the determination of the performance review panel in any case is that the member's jobperformance as a member of the Board meets the performance standards for a member of the Board established under subsection (f), the Chairman shall recertify the member's appointment as a member of the Board.
 
 (3) If the determination of the performance review panel in any case is that the member's job performance does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall, based upon the individual circumstances, either—
 
@@ -70,5 +70,5 @@ Deadline.—The job performance standards required to be established by section 
 
 "(b)
 
-Submission to Congressional Committees.—Not later than the date on which the standards referred to in subsection (a) take effect, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report describing the standards established by the Chairman of the Board of Veterans' Appeals."
+Submission to Congressional Committees.—Not later than the date on which the standards referred toin subsection (a) take effect, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report describing the standards established by the Chairman of the Board of Veterans' Appeals."
 

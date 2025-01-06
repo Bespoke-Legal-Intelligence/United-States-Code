@@ -38,7 +38,7 @@ This amendment \[see section 57\] conforms the language of section 3656 of title
 
 Section 2 of the Public Health Service Act, referred to in the seventh undesignated par., is classified to section 201 of Title 42, The Public Health and Welfare.
 
-This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For completeclassification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
+This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The 1968 Act, referred to in text, is the Omnibus Crime Control and Safe Streets
 
 #### Codification
 
-Section was enacted as part of the Department of Justice Appropriations Act, 2008, and also as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008, and the Consolidated Appropriations Act, 2008, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Department of Justice Appropriations Act, 2008, and also as part of theCommerce, Justice, Science, and Related Agencies Appropriations Act, 2008, and the Consolidated Appropriations Act, 2008, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 Section was formerly classified to section 3796c–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -32,7 +32,7 @@ Section was formerly classified to section 3796c–2 of Title 42, The Public Hea
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, orfiled or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

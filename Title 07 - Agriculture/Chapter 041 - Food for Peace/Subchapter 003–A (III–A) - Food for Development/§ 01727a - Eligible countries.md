@@ -2,7 +2,7 @@
 
 #### (a) Least developed countries
 
-A country shall be considered to be a least developed country and eligible for the donation ofagricultural commodities under this subchapter if—
+A country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—
 
 &emsp;(1) such country meets the poverty criteria established by the International Bank for Reconstruction and Development for Civil Works Preference for providing financial assistance; or
 

@@ -8,7 +8,7 @@ It shall be unlawful for any person to—
 
 &emsp;(2) sell, offer for sale, manufacture for sale, distribute in commerce, or import into the United States any consumer product, or other product or substance that is—
 
-&emsp;&emsp;(B) <sup>1</sup> subject to voluntary corrective action taken by the manufacturer, in consultation with the Commission, of which action the Commission has notified the public or if theseller, distributor, or manufacturer knew or should have known of such voluntary corrective action;
+&emsp;&emsp;(B) <sup>1</sup> subject to voluntary corrective action taken by the manufacturer, in consultation with the Commission, of which action the Commission has notified the public or if the seller, distributor, or manufacturer knew or should have known of such voluntary corrective action;
 
 &emsp;&emsp;(C) subject to an order issued under section 2061 or 2064 of this title; or
 
@@ -66,7 +66,7 @@ Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any 
 
 Subsec. (a)(6). Pub. L. 110–314, §216(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "fail to furnish a certificate required by section 2063 of this title or issue a false certificate if such person in the exercise of due care has reason to know that such certificate is false or misleading in any material respect; or to fail to comply with any rule under section 2063(c) of this title (relating to labeling);".
 
-Subsec. (a)(7) to (10). Pub. L. 110–314, §216(a)(3)–(6), struck out "or" at end of par. (7) and "and" at end ofpar. (8) and substituted semicolon for period at end of pars. (9) and (10).
+Subsec. (a)(7) to (10). Pub. L. 110–314, §216(a)(3)–(6), struck out "or" at end of par. (7) and "and" at end of par. (8) and substituted semicolon for period at end of pars. (9) and (10).
 
 Subsec. (a)(12) to (16). Pub. L. 110–314, §216(a)(7), added pars. (12) to (16).
 

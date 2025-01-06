@@ -22,7 +22,7 @@
 
 #### (3) Principal shareholders or owners
 
-&emsp;Not more than 5 percent of the amounts paid or incurred by the employer for educationalassistance during the year may be provided for the class of individuals who are shareholders or owners (or their spouses or dependents), each of whom (on any day of the year) owns more than 5 percent of the stock or of the capital or profits interest in the employer.
+&emsp;Not more than 5 percent of the amounts paid or incurred by the employer for educational assistance during the year may be provided for the class of individuals who are shareholders or owners (or their spouses or dependents), each of whom (on any day of the year) owns more than 5 percent of the stock or of the capital or profits interest in the employer.
 
 #### (4) Other benefits as an alternative
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (3) Employer
 
-&emsp;An individual who owns the entire interest in an unincorporated trade or business shall be treated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (2).
+&emsp;An individual who owns the entire interest in an unincorporated trade or business shall betreated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (2).
 
 #### (4) Attribution rules
 
@@ -132,7 +132,7 @@ Subsec. (b)(2). Pub. L. 101–140, §203(a)(2), amended par. (2) to read as if a
 
 Pub. L. 101–140, §203(a)(1), amended par. (2) to read as if amendments by Pub. L. 99–514, §1151(g)(3), had not been enacted, see 1986 Amendment note below.
 
-Subsec. (b)(6). Pub. L. 101–140, §203(a)(1), amended par. (6) to read as if amendments by Pub. L. 99–514, §1151(c)(4)(B), had not been enacted, see 1986 Amendment note below.
+Subsec. (b)(6). Pub. L. 101–140, §203(a)(1), amended par. (6) to read as if amendments by Pub. L. 99–514,§1151(c)(4)(B), had not been enacted, see 1986 Amendment note below.
 
 Subsec. (c)(8). Pub. L. 101–239, §7814(a), struck out par. (8) which read as follows: "
 
@@ -290,7 +290,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Expedited Procedures for Refunds of Overpayments
 
-Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provided that: "The Secretary of the Treasury shall establish expedited procedures for the refundof any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee."
+Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provided that: "The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee."
 
 #### Special Rule for Certain Taxable Years
 

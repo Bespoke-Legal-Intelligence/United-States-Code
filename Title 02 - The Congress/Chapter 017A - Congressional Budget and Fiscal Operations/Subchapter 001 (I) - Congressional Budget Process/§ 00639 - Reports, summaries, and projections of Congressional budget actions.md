@@ -4,7 +4,7 @@
 
 (1) Whenever a committee of either House reports to its House a bill or joint resolution, or committee amendment thereto, providing new budget authority (other than continuing appropriations) or providing an increase or decrease in revenues or tax expenditures for a fiscal year (or fiscal years), the report accompanying that bill or joint resolution shall contain a statement, or the committee shall make available such a statement in the case of an approved committee amendment which is not reported to its House, prepared after consultation with the Director of the Congressional Budget Office—
 
-&emsp;(A) comparing the levels in such measure to the appropriate allocations in the reports submitted under section 633(b) of this title for the most recently agreed to concurrent resolution on the budget for such fiscal year (or fiscal years);
+&emsp;(A) comparing the levels in such measure to the appropriate allocations in the reports submitted under section 633(b) of this title for themost recently agreed to concurrent resolution on the budget for such fiscal year (or fiscal years);
 
 &emsp;(B) containing a projection by the Congressional Budget Office of how such measure will affect the levels of such budget authority, budget outlays, revenues, or tax expenditures under existing law for such fiscal year (or fiscal years) and each of the four ensuing fiscal years, if timely submitted before such report is filed; and
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 111–139, §4(b)(2), added subsec. (d).
 
 Subsec. (a)(1). Pub. L. 105–33, §10110(4), in introductory provisions, substituted "bill or joint resolution" for "bill or resolution" in two places.
 
-Pub. L. 105–33, §10110(1)(D), in introductory provisions, struck out ", new spending authority described in section 651(c)(2) of this title, or new credit authority," after "continuing appropriations)".
+Pub. L. 105–33, §10110(1)(D), in introductory provisions, struck out ", new spending authority describedin section 651(c)(2) of this title, or new credit authority," after "continuing appropriations)".
 
 Subsec. (a)(1)(B). Pub. L. 105–33, §10110(1)(C), substituted "revenues, or tax expenditures" for "spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments".
 

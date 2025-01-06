@@ -22,13 +22,15 @@ Requirement for Appointment.—(1) The President may appoint an officer as Chair
 
 (c)
 
-Grade and Rank.—The Chairman, while so serving, holds the grade of general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+Grade and Rank.—The Chairman, while so serving, holds the grade of general or, in the case of the Navy, admiral, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, §921(b)(1), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–283, div. A, title IX, §924(b)(7)(A), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, §921(b)(1), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–283, div. A, title IX, §924(b)(7)(A), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–159, div. A, title V, §521(a), Dec. 23, 2024, 138 Stat. 1880.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c). Pub. L. 118–159 substituted "general or, in the case of the Navy, admiral" for "general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade".
 
 <b>2021</b>—Subsec. (b)(1)(B). Pub. L. 116–283, §924(b)(7)(A)(i), which directed substitution of "the Commandant of the Marine Corps, or the Chief of Space Operations" for "or the Commandant of the Marine Corps" in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
 

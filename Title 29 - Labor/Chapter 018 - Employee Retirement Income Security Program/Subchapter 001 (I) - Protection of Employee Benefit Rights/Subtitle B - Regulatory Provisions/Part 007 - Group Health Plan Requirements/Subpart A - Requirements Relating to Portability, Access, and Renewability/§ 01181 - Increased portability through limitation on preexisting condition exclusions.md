@@ -8,7 +8,7 @@ Subject to subsection (d), a group health plan, and a health insurance issuer of
 
 &emsp;(2) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
 
-&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1)) applicable to the participant or beneficiary as of the enrollment date.
+&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate ofthe periods of creditable coverage (if any, as defined in subsection (c)(1)) applicable to the participant or beneficiary as of the enrollment date.
 
 #### (b) Definitions
 
@@ -30,7 +30,7 @@ For purposes of this part—
 
 #### (3) Late enrollee
 
-&emsp;The term "late enrollee" means, with respect to coverage under a group health plan, aparticipant or beneficiary who enrolls under the plan other than during—
+&emsp;The term "late enrollee" means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
 
 &emsp;&emsp;(A) the first period in which the individual is eligible to enroll under the plan, or
 
@@ -98,7 +98,7 @@ For purposes of this part—
 
 #### (B) Election of alternative method
 
-&emsp;&emsp;A group health plan, or a health insurance issuer offering group health insurance coverage, may elect to apply subsection (a)(3) based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
+&emsp;&emsp;A group health plan, or a health insurance issuer offering group health insurance coverage, may elect to apply subsection (a)(3) based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as providedunder subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
 
 #### (C) Plan notice
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 #### (1) Exclusion not applicable to certain newborns
 
-&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion inthe case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
+&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
 
 #### (2) Exclusion not applicable to certain adopted children
 
@@ -168,7 +168,7 @@ For purposes of this part—
 
 #### (3) Regulations
 
-&emsp;The Secretary shall establish rules to prevent an entity's failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
+&emsp;The Secretary shall establish rules to prevent an entity's failure to provide informationunder paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
 
 #### (f) Special enrollment periods
 
@@ -184,7 +184,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) was under a COBRA continuation provision and the coverage under such provision was exhausted; or
 
-&emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as aresult of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
+&emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
 
 &emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
 
@@ -232,7 +232,7 @@ For purposes of this part—
 
 #### (ii) Eligibility for employment assistance under Medicaid or CHIP
 
-&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan or health insurance coverage, under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan or health insurance coverage not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
+&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan or health insurance coverage, under suchMedicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan or health insurance coverage not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
 
 #### (B) Coordination with Medicaid and CHIP
 
@@ -244,7 +244,7 @@ For purposes of this part—
 
 #### (II) Model notice
 
-&emsp;&emsp;&emsp;&emsp;Not later than 1 year after February 4, 2009, the Secretary and the Secretary of Health and Human Services, in consultation with Directors of State Medicaid agencies under title XIX of the Social Security Act and Directors of State CHIP agencies under title XXI of such Act, shall jointly develop national andState-specific model notices for purposes of subparagraph (A). The Secretary shall provide employers with such model notices so as to enable employers to timely comply with the requirements of subparagraph (A). Such model notices shall include information regarding how an employee may contact the State in which the employee resides for additional information regarding potential opportunities for such premium assistance, including how to apply for such assistance.
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after February 4, 2009, the Secretary and the Secretary of Health and Human Services, in consultation with Directors of State Medicaid agencies under title XIX of the Social Security Act and Directors of State CHIP agencies under title XXI of such Act, shall jointly develop national and State-specific model notices for purposes of subparagraph (A). The Secretary shall provide employers with such model notices so as to enable employers to timely comply with the requirements of subparagraph (A). Such model notices shall include information regarding how an employee may contact the State in which the employee resides for additional information regarding potential opportunities for such premium assistance, including how to apply for such assistance.
 
 #### (III) Option to provide concurrent with provision of plan materials to employee
 
@@ -294,7 +294,7 @@ The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under this section.
 
-The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A oftitle XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
@@ -376,7 +376,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 &emsp;&emsp;"(i) the individual may present other credible evidence of such coverage in order to establish the period of creditable coverage; and
 
-&emsp;&emsp;"(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section \[enacting this part and amending sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of this title\].
+&emsp;&emsp;"(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in goodfaith with the applicable requirements under the amendments made by this section \[enacting this part and amending sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of this title\].
 
 "(3)
 
@@ -470,5 +470,5 @@ Termination.—The Working Group shall terminate 30 days after the date of the i
 
 #### Implementation of 2009 Amendment
 
-Pub. L. 111–3, title III, §311(b)(1)(D), Feb. 4, 2009, 123 Stat. 69, provided that: "The Secretary of Labor and the Secretary of Health and Human Services shall develop the initial model notices under section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(f)(3)(B)(i)(II)\], and the Secretary of Labor shall provide such notices to employers, not later than the date that is 1 year after the date of enactment of this Act \[Feb. 4, 2009\], and each employer shall provide the initial annual notices to such employer's employees beginning with the first plan year that begins after the date on which such initial model notices are first issued. The model coverage coordination disclosure form developed under subparagraph (C) \[set out above\] shall apply with respect to requests made by States beginning with the first plan year that begins after the date on which such model coverage coordination disclosure form is first issued."
+Pub. L. 111–3, title III, §311(b)(1)(D), Feb. 4, 2009, 123 Stat. 69, provided that: "The Secretary of Labor and the Secretary of Health and Human Services shall develop the initial model notices under section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(f)(3)(B)(i)(II)\], and the Secretary of Labor shall provide such notices to employers, not later than the date that is 1 year after the date of enactment of this Act \[Feb. 4, 2009\], and each employer shall provide the initial annual notices to such employer's employees beginning with the first plan year that begins after the date on which such initial model notices are first issued. The model coveragecoordination disclosure form developed under subparagraph (C) \[set out above\] shall apply with respect to requests made by States beginning with the first plan year that begins after the date on which such model coverage coordination disclosure form is first issued."
 

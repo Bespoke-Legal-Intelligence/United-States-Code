@@ -26,7 +26,7 @@ Cooperation and agreements with other entities.—In making the study and to acc
 
 &emsp;(4)
 
-State planning.—For the purpose of developing coordinated and adequate public park, parkway, and recreational-area facilities for the people of the United States, the Secretary may aid States and political subdivisions of States in planning public park, parkway, and recreational areas and in cooperating with one another to accomplish these ends. Aid shall be made available through the Service acting in cooperation with such State agencies or agencies of political subdivisions of States as the Secretary considers best.
+State planning.—For the purpose of developing coordinated and adequate public park, parkway, and recreational-area facilities for the people of the United States, the Secretary may aid States and political subdivisions of States in planning public park, parkway, and recreational areas and in cooperating with one another to accomplish these ends. Aid shall be made available through the Service acting in cooperation with such Stateagencies or agencies of political subdivisions of States as the Secretary considers best.
 
 (b)
 

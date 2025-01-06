@@ -502,7 +502,7 @@ Subsec. (h). Pub. L. 96–499, §1111(a), added subsec. (h).
 
 Subsec. (e)(2)(B). Pub. L. 94–455, §1906(b)(3)(B), substituted "clause (ii)" for "clauses (ii) and (iii)".
 
-Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which related to the computation of a corporation's transitional exemption, was struck out.
+Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which relatedto the computation of a corporation's transitional exemption, was struck out.
 
 Subsec. (f). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 701(d)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
+Amendment by section 701(d)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
 Amendment by section 1511(c)(15) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
@@ -672,7 +672,7 @@ Notwithstanding this section, in the case of a corporation with assets of not le
 
 Notwithstanding this section, in the case of a corporation with assets of not less than $1,000,000,000, any required installment of corporate estimated tax otherwise due in July, August, or September of 2016 to be increased by 0.50 percent, and the amount of the next required installment thereafter to be appropriately reduced to reflect the amount of the increase, see section 603 of Pub. L. 112–42, set out in a note under section 3805 of Title 19, Customs Duties.
 
-Notwithstanding this section, in the case of a corporation with assets of not less than $1,000,000,000, any required installment of corporate estimated tax due in July, August, or September of 2012 to be increased by 0.25 percent and any required installment due in July, August, or September of 2016 to be increased by 2.75 percent, and the amount of the next required installment thereafter to be appropriately reduced to reflect the amount of the increase, see section 505 of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
+Notwithstanding this section, in the case of a corporation with assets of not less than $1,000,000,000, any required installment of corporate estimated tax due in July, August, or September of 2012 to be increased by0.25 percent and any required installment due in July, August, or September of 2016 to be increased by 2.75 percent, and the amount of the next required installment thereafter to be appropriately reduced to reflect the amount of the increase, see section 505 of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
 
 Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by Pub. L. 110–28, title VIII, §8248, May 25, 2007, 121 Stat. 204; Pub. L. 110–42, §4, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §3, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title VI, §602, Dec. 14, 2007, 121 Stat. 1490; Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: "Notwithstanding section 6655 of the Internal Revenue Code of 1986—
 
@@ -712,7 +712,7 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 &emsp;\[Pub. L. 111–152, title I, §1410, Mar. 30, 2010, 124 Stat. 1070, provided that: "The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Mar. 30, 2010\] is increased by 15.75 percentage points."\]
 
-&emsp;\[Pub. L. 111–147, title V, §561, Mar. 18, 2010, 124 Stat. 117, provided that: "Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000\(determined as of the end of the preceding taxable year)—
+&emsp;\[Pub. L. 111–147, title V, §561, Mar. 18, 2010, 124 Stat. 117, provided that: "Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
 
 &emsp;&emsp;\["(1) the percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Mar. 18, 2010\] is increased by 23 percentage points,
 
@@ -790,7 +790,7 @@ Pub. L. 101–508, title XI, §11307, Nov. 5, 1990, 104 Stat. 1388–452, provid
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(d)(3) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(d)(3) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Waiver of Estimated Penalties for 1988 Underpayments Attributable to Technical and Miscellaneous Revenue Act of 1988
 
@@ -830,7 +830,7 @@ Pub. L. 94–455, title VIII, §803(g), Oct. 4, 1976, 90 Stat. 1589, as amended 
 
 &emsp;"(1) a corporation made underpayments of estimated tax for a taxable year of the corporation which includes August 1, 1975, because the corporation intended to elect to have the provisions of subparagraph (B) of section 46(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as it existed before the date of enactment of this Act \[Oct. 4, 1976\]) apply for such taxable year, and
 
-&emsp;"(2) the corporation does not elect to have the provisions of such subparagraph apply for such taxableyear because this Act does not contain the amendments made by section 804(a)(2) (relating to flowthrough of investment credit), or the provisions of subsection (f) of such section (relating to grace period for certain plan transfers), of the bill H.R. 10612 (94th Congress, 2d Session), as amended by the Senate,
+&emsp;"(2) the corporation does not elect to have the provisions of such subparagraph apply for such taxable year because this Act does not contain the amendments made by section 804(a)(2) (relating to flowthrough of investment credit), or the provisions of subsection (f) of such section (relating to grace period for certain plan transfers), of the bill H.R. 10612 (94th Congress, 2d Session), as amended by the Senate,
 
 > then the provisions of section 6655 of such Code (relating to failure by corporation to pay estimated income tax) shall not apply to so much of any such underpayment as the corporation can establish, to the satisfaction of the Secretary of the Treasury, is properly attributable to the inapplicability of such subparagraph (B) for such taxable year."
 

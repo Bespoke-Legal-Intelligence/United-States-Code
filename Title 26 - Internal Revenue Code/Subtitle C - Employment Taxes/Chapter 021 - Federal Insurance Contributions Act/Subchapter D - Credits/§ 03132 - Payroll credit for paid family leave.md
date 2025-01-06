@@ -26,7 +26,7 @@ In the case of an employer, there shall be allowed as a credit against applicabl
 
 #### (B) Advancing credit
 
-&emsp;&emsp;In anticipation of the credit, including the refundable portion under subparagraph (A), the credit shall be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under paragraph (1) and (2), all calculated through the end of the most recent payroll period in the quarter.
+&emsp;&emsp;In anticipation of the credit, including the refundable portion under subparagraph (A), the credit shall be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under paragraph (1) and (2), all calculated throughthe end of the most recent payroll period in the quarter.
 
 #### (c) Qualified family leave wages
 
@@ -92,7 +92,7 @@ In the case of an employer, there shall be allowed as a credit against applicabl
 
 &emsp;&emsp;&emsp;(i) the pension contribution rate (as defined in section 3131(e)(2)), expressed as an hourly rate, and
 
-&emsp;&emsp;&emsp;(ii) the number of hours for which qualified family leave wages were provided to employees covered under the collective bargaining agreement described in section 3131(e)(2)(A)(iii) during the calendar quarter.
+&emsp;&emsp;&emsp;(ii) the number of hours for which qualified family leave wages were provided to employees covered under the collective bargaining agreement described in section3131(e)(2)(A)(iii) during the calendar quarter.
 
 #### (3) Collectively bargained apprenticeship program contributions
 
@@ -122,7 +122,7 @@ In the case of an employer, there shall be allowed as a credit against applicabl
 
 #### (2) Wages
 
-&emsp;For purposes of this section, the term "wages" means wages (as defined in section 3121(a), determined without regard to paragraphs (1) through (22) of section 3121(b)) and compensation (as defined in section 3231(e), determined without regard to the sentence inparagraph (1) thereof which begins "Such term does not include remuneration").
+&emsp;For purposes of this section, the term "wages" means wages (as defined in section 3121(a), determined without regard to paragraphs (1) through (22) of section 3121(b)) and compensation (as defined in section 3231(e), determined without regard to the sentence in paragraph (1) thereof which begins "Such term does not include remuneration").
 
 #### (3) Denial of double benefit
 

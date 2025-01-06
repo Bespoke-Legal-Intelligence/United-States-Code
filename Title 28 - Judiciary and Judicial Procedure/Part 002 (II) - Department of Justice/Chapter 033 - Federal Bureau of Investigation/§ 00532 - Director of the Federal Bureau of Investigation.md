@@ -44,7 +44,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 People's republic of china product or service.—The term 'People's Republic of China product or service' means an information or communication technology product manufactured in China, Hong Kong, or Macau, or a product or service provided by an entity that is fully or partially owned or controlled by, or otherwise connected to, the government of China."
 
-\[For definition of "congressional intelligence committees" as used in section 414 of div. X of Pub. L.117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of Title 50, War and National Defense.\]
+\[For definition of "congressional intelligence committees" as used in section 414 of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of Title 50, War and National Defense.\]
 
 #### Counterintelligence Units at Non-Intelligence Community Federal Departments and Agencies
 
@@ -76,7 +76,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Improvement of Intelligence Capabilities.—The Director of the Federal Bureau of Investigation shall continue efforts to improve the intelligence capabilities of the Federal Bureau of Investigation and to develop and maintain within the Bureau a national intelligence workforce.
+Improvement of Intelligence Capabilities.—The Director of the Federal Bureau of Investigation shall continue efforts to improve the intelligence capabilities of the Federal Bureau of Investigation and todevelop and maintain within the Bureau a national intelligence workforce.
 
 "(c)
 
@@ -254,7 +254,7 @@ Pub. L. 102–183, title V, §501, Dec. 4, 1991, 105 Stat. 1268, provided that:
 
 "(a)
 
-Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training programwith respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
+Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
 
 "(b)
 
@@ -274,7 +274,7 @@ Pub. L. 90–351, title VI, §1101, June 19, 1968, 82 Stat. 236, as amended by P
 
 "(c)(1) Effective on the date of enactment of this subsection \[July 26, 2011\], a new term of service for the office of Director of the Federal Bureau of Investigation shall be created, which shall begin on or after August 3, 2011, and continue until September 4, 2013. Notwithstanding the second sentence of subsection (b) of this section, the incumbent Director of the Federal Bureau of Investigation on the date of enactment of this subsection shall be eligible to be appointed to the new term of service provided for by this subsection, by and with the advice and consent of the Senate, and only for that new term of service. Nothing in this subsection shall prevent the President, by and with the advice of the Senate, from appointing an individual, other than the incumbent Director of the Federal Bureau of Investigation, to a 10-year term of service subject to the provisions of subsection (b) after the date of enactment of this subsection.
 
-"(2) The individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection may not serve as Director after September 4, 2013.
+"(2) The individual who is the incumbent in the office of the Director of the Federal Bureau of Investigationon the date of enactment of this subsection may not serve as Director after September 4, 2013.
 
 "(3) With regard to the individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection, the second sentence of subsection (b) shall not apply."
 

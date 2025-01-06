@@ -47,7 +47,7 @@ At or after his retirement, any individual who has elected to receive retired pa
 
 Any individual who—
 
-&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of suchretired pay shall not be more than the rate of such salary for such period; or
+&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of such retired pay shall not be more than the rate of such salary for such period; or
 
 &emsp;(2) retires under paragraph (4) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate—
 
@@ -215,7 +215,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.),<sup>1</sup> any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 117–328, div. T, title VII, §701(a)(1), (2), (c)(1), (d)(1), Dec. 29, 2022, 136 Stat. 5398, 5401.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat.730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 117–328, div. T, title VII, §701(a)(1), (2), (c)(1), (d)(1), Dec. 29, 2022, 136 Stat. 5398, 5401.)
 
 #### <b>Editorial Notes</b>
 
@@ -283,7 +283,7 @@ Subsec. (g)(4). Pub. L. 91–172, §954(c), struck out par. (4) which provided t
 
 Subsec. (h). Pub. L. 91–172, §954(d), added subsec. (h).
 
-<b>1966</b>—Subsec. (d). Pub. L. 89–354 substituted "during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period" for "at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge" and "the rate of such salary for such period" for "the rate of such salary" wherever appearing.
+<b>1966</b>—Subsec. (d). Pub. L. 89–354 substituted "during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period" for "at a rate which bears the same ratio to the rate of the salary payable to him as judge at the timehe ceases to be a judge" and "the rate of such salary for such period" for "the rate of such salary" wherever appearing.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -325,7 +325,7 @@ Pub. L. 95–472, §2(a), Oct. 17, 1978, 92 Stat. 1332, provided that: "The amen
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1,1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953."
+Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953."
 
 #### Effective Date of 1969 Amendment
 
@@ -351,7 +351,7 @@ Pub. L. 95–472, §2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99
 
 #### Transfer of Functions
 
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except asotherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

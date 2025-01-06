@@ -46,7 +46,7 @@ The Secretary shall award grants under subsection (b) to States to maintain a co
 
 &emsp;&emsp;&emsp;(iii) from the remainder of the funds after the Secretary makes the allotments described in clause (ii), the Secretary shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) from 80 percent of the remainder, allot to each State an amount that bearsthe same relationship to such 80 percent as the population of the State bears to the population of all States; and
+&emsp;&emsp;&emsp;&emsp;(I) from 80 percent of the remainder, allot to each State an amount that bears the same relationship to such 80 percent as the population of the State bears to the population of all States; and
 
 &emsp;&emsp;&emsp;&emsp;(II) from 20 percent of the remainder, allot to each State an equal amount.
 
@@ -94,7 +94,7 @@ The Secretary shall award grants under subsection (b) to States to maintain a co
 
 &emsp;&emsp;&emsp;The duties of the lead agency shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) preparing the application described in subsection (d) and carrying out State activities described in that application, including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;
+&emsp;&emsp;&emsp;&emsp;(I) preparing the application described in subsection (d) and carrying out Stateactivities described in that application, including making programmatic and resource allocation decisions necessary to implement the comprehensive statewide program of technology-related assistance;
 
 &emsp;&emsp;&emsp;&emsp;(II) coordinating the activities of the comprehensive statewide program of technology-related assistance among public and private entities, including coordinating efforts related to entering into interagency agreements and maintaining and evaluating the program; and
 
@@ -204,7 +204,7 @@ The Secretary shall award grants under subsection (b) to States to maintain a co
 
 &emsp;&emsp;&emsp;(i) information identifying and describing the lead agency referred to in subsection (c)(1)(A);
 
-&emsp;&emsp;&emsp;(ii) information identifying and describing the implementing entity referred to insubsection (c)(1)(B), if the Governor of the State designates such an entity; and
+&emsp;&emsp;&emsp;(ii) information identifying and describing the implementing entity referred to in subsection (c)(1)(B), if the Governor of the State designates such an entity; and
 
 &emsp;&emsp;&emsp;(iii) a description of how individuals with disabilities were involved in the development of the application and will be involved in the implementation of the activities to be carried out through the grant and through the advisory council established in accordance with subsection (c)(2).
 
@@ -370,7 +370,7 @@ The Secretary shall award grants under subsection (b) to States to maintain a co
 
 &emsp;&emsp;&emsp;The State shall conduct public-awareness activities designed to provide information to targeted individuals and entities relating to the availability, benefits, appropriateness, and costs of assistive technology devices and assistive technology services, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), State vocational rehabilitation programs, public and private employers, centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), Aging and Disability Resource Centers (as defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)), or elementary schools and secondary schools (as defined in section 7801 of title 20);
+&emsp;&emsp;&emsp;&emsp;(I) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, whichmay include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), State vocational rehabilitation programs, public and private employers, centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), Aging and Disability Resource Centers (as defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)), or elementary schools and secondary schools (as defined in section 7801 of title 20);
 
 &emsp;&emsp;&emsp;&emsp;(II) the development and dissemination, to targeted individuals and entities, of information about State efforts related to assistive technology; and
 
@@ -442,7 +442,7 @@ The Secretary shall award grants under subsection (b) to States to maintain a co
 
 #### (A) In general
 
-&emsp;&emsp;Each State shall prepare and submit to the Secretary an annual progress report on the activities carried out by the State in accordance with subsection (e), including activities funded by State or other non-Federal sources under subsection (e)(1)(B) at such time, and in such manner, as the Secretary may require.
+&emsp;&emsp;Each State shall prepare and submit to the Secretary an annual progress report on theactivities carried out by the State in accordance with subsection (e), including activities funded by State or other non-Federal sources under subsection (e)(1)(B) at such time, and in such manner, as the Secretary may require.
 
 #### (B) Contents
 

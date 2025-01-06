@@ -18,7 +18,7 @@ In a case of actual controversy involving a determination by the Secretary of (o
 
 &emsp;&emsp;(A) by the executor of such estate, or
 
-&emsp;&emsp;(B) by any person who has assumed an obligation to make payments under section 6166 with respect to such estate (but only if each other such person is joined as a party).
+&emsp;&emsp;(B) by any person who has assumed an obligation to make payments under section6166 with respect to such estate (but only if each other such person is joined as a party).
 
 #### (2) Exhaustion of administrative remedies
 

@@ -50,7 +50,7 @@ Par. (9). Pub. L. 95–618 substituted "used for certain nontaxable purposes" fo
 
 Par. (2). Pub. L. 94–455, §1906(a)(32)(B), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Par. (3). Pub. L. 94–455, §§1901(b)(31)(D), 1906(a)(32)(B), redesignated par. (4) as (3) and substituted "section1033(a)(2)(C) and (D)" for "section 1033(a)(3)(C) and (D)". Former par. (3) redesignated (2).
+Par. (3). Pub. L. 94–455, §§1901(b)(31)(D), 1906(a)(32)(B), redesignated par. (4) as (3) and substituted "section 1033(a)(2)(C) and (D)" for "section 1033(a)(3)(C) and (D)". Former par. (3) redesignated (2).
 
 Par. (4). Pub. L. 94–455, §1906(a)(32)(B), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxabl
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions,see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 #### Effective Date of 1986 Amendment
 

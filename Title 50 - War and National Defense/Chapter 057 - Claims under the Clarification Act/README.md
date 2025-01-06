@@ -6,7 +6,7 @@
 | [4702\.](%C2%A7%2004702%20-%20Insurance%20awards%20by%20War%20Shipping%20Administrators%3B%20findings%20and%20actions%20as%20conclusive.md) | Insurance awards by War Shipping Administrators; findings and actions as conclusive. |
 | [4703\.](%C2%A7%2004703%20-%20Payment%20of%20compensation%3B%20insurance.md) | Payment of compensation; insurance. |
 | [4704\.](%C2%A7%2004704%20-%20United%20States%20as%20entitled%20to%20all%20benefits%20of%20exemption%20and%20limitation%20of%20liability%20accorded%20to%20owners%20of%20vessels.md) | United States as entitled to all benefits of exemption and limitation of liability accorded to owners of vessels. |
-| [4705\.](%C2%A7%2004705%20-%20Termination%20of%20section%204701%28a%29%3B%20authority%20of%20United%20States%20Maritime%20Commission%20vested%20in%20Administrator%20of%20War%20Shipping%20Administration.md) | Termination of section 4701(a); authority of United States Maritime Commission vested in Administrator of War Shipping Administration. |
+| [4705\.](%C2%A7%2004705%20-%20Termination%20of%20section%204701%28a%29%3B%20authority%20of%20United%20States%20Maritime%20Commission%20vested%20in%20Administrator%20of%20War%20Shipping%20Administration.md) | Termination of section 4701(a); authority of United States Maritime Commission vested in Administrator of War Shipping Administration.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

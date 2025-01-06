@@ -10,7 +10,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) The Secretary of Housing and Urban Development when used in connection with mortgages insured under the National Housing Act, and
 
-&emsp;&emsp;(B) the Secretary of Veterans Affairs when used in connection with mortgages securinghome loans guaranteed or insured under the Servicemen's Readjustment Act of 1944 or chapter 37 of title 38.
+&emsp;&emsp;(B) the Secretary of Veterans Affairs when used in connection with mortgages securing home loans guaranteed or insured under the Servicemen's Readjustment Act of 1944 or chapter 37 of title 38.
 
 &emsp;(3) The term "distressed mortgagor" means an individual who—
 
@@ -54,7 +54,7 @@ The Federal mortgage agencies are authorized to issue such individual and joint 
 
 #### (e) Fund for extending financial assistance to distressed mortgagors
 
-There shall be in the Treasury (1) a fund which shall be available to the Secretary of Housing and Urban Development for the purpose of extending financial assistance in behalf of distressed mortgagors as provided in subsection (c) and for paying administrative expenses incurred in connection with such assistance, and (2) afund which shall be available to the Secretary of Veterans Affairs for the same purpose, except administrative expenses. The capital of each such fund shall consist of such sums as may, from time to time, be appropriated thereto, and any sums so appropriated shall remain available until expended. Receipts arising from the programs of assistance under subsection (c) shall be credited to the funds from which such assistance was extended. Moneys in either of such funds not needed for current operations, as determined by the Secretary of Housing and Urban Development, or the Secretary of Veterans Affairs, as the case may be, shall be invested in bonds or other obligations of the United States, or paid into the Treasury as miscellaneous receipts.
+There shall be in the Treasury (1) a fund which shall be available to the Secretary of Housing and Urban Development for the purpose of extending financial assistance in behalf of distressed mortgagors as provided in subsection (c) and for paying administrative expenses incurred in connection with such assistance, and (2) a fund which shall be available to the Secretary of Veterans Affairs for the same purpose, except administrative expenses. The capital of each such fund shall consist of such sums as may, from time to time, be appropriated thereto, and any sums so appropriated shall remain available until expended. Receipts arising from the programs of assistance under subsection (c) shall be credited to the funds from which such assistance was extended. Moneys in either of such funds not needed for current operations, as determined by the Secretary of Housing and Urban Development, or the Secretary of Veterans Affairs, as the case may be, shall be invested in bonds or other obligations of the United States, or paid into the Treasury as miscellaneous receipts.
 
 (Pub. L. 89–117, title I, §107(a)–(e), Aug. 10, 1965, 79 Stat. 458, 459; Pub. L. 89–754, title X, §1012, Nov. 3, 1966, 80 Stat. 1288; Pub. L. 102–54, §13(d)(3), June 13, 1991, 105 Stat. 275.)
 
@@ -76,7 +76,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1965, an
 
 <b>1966</b>—Subsec. (a)(2)(A). Pub. L. 89–754 substituted "Secretary of Housing and Urban Development" for "Federal Housing Commissioner".
 
-Subsec. (a)(3). Pub. L. 89–754 redefined as distressed mortgagor, describing in subpar. (A) such a person as an individual whose employment or military service at a military base or other Federal installation was terminated subsequent to Nov. 1, 1964, as the result of closing of such base or installation, formerly defined as an individual who was unemployed, although willing to work, as the result of the closing of a Federal installation, and providing in subpar. (B) for dwelling situated at or near the base or installation and substituting "payments due under such mortgage" for "payments of principal and/or interest under such mortgage".
+Subsec. (a)(3). Pub. L. 89–754 redefined as distressed mortgagor, describing in subpar. (A) such a person as an individual whose employment or military service ata military base or other Federal installation was terminated subsequent to Nov. 1, 1964, as the result of closing of such base or installation, formerly defined as an individual who was unemployed, although willing to work, as the result of the closing of a Federal installation, and providing in subpar. (B) for dwelling situated at or near the base or installation and substituting "payments due under such mortgage" for "payments of principal and/or interest under such mortgage".
 
 Subsec. (b)(1). Pub. L. 89–754 substituted "payments due under such mortgage" for "payments of principal and/or interest under such mortgage".
 

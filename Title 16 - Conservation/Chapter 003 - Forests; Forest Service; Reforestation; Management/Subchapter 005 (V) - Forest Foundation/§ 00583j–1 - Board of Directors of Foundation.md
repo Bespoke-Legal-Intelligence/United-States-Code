@@ -6,7 +6,7 @@ The Foundation shall have a governing Board of Directors (hereinafter referred t
 
 #### (b) Appointment and terms
 
-Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred to as the "Secretary") shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
+Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred to as the "Secretary") shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board,shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
 
 #### (c) Chairman
 
@@ -38,7 +38,7 @@ Officers and employees may not be appointed until the Foundation has sufficient 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (g), was in the original "this subtitle" and was translated as reading "this title", meaning title IV of Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, andwhich is classified generally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 583j of this title and Tables.
+This subchapter, referred to in subsec. (g), was in the original "this subtitle" and was translated as reading "this title", meaning title IV of Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, and which is classified generally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 583j of this title and Tables.
 
 #### Amendments
 

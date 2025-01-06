@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;(6) the term "State" means a State, the District of Columbia, Puerto Rico, and any other possession or territory of the United States.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1871, §3126; renumbered §3127, Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 107–56, title II,§216(c)(1)–(4), Oct. 26, 2001, 115 Stat. 290; Pub. L. 111–79, §2(3), Oct. 19, 2009, 123 Stat. 2087.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1871, §3126; renumbered §3127, Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 107–56, title II, §216(c)(1)–(4), Oct. 26, 2001, 115 Stat. 290; Pub. L. 111–79, §2(3), Oct. 19, 2009, 123 Stat. 2087.)
 
 #### <b>Editorial Notes</b>
 

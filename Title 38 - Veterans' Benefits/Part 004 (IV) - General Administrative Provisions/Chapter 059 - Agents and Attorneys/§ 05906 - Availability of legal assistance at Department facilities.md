@@ -130,7 +130,7 @@ In general.—The Secretary of Veterans Affairs shall, in consultation with the 
 
 &emsp;"(2)
 
-Recommendations.—In conducting the review required by paragraph (1), the Secretary shall develop recommendations for such legislative or administrative action as the Secretary considers appropriate tofacilitate greater participation by Federal employees in pro bono legal and other volunteer services for veterans.
+Recommendations.—In conducting the review required by paragraph (1), the Secretary shall develop recommendations for such legislative or administrative action as the Secretary considers appropriate to facilitate greater participation by Federal employees in pro bono legal and other volunteer services for veterans.
 
 &emsp;"(3)
 

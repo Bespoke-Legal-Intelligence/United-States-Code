@@ -42,11 +42,11 @@ A person who has completed two consecutive full terms of service on the Advisory
 
 #### (e) Meetings
 
-The Advisory Committee shall meet at least quarterly at the call of the Chair or wheneverone-third of the members so request in writing. Each member shall be given appropriate notice of the call of each meeting, whenever possible not less than 15 days before the meeting.
+The Advisory Committee shall meet at least quarterly at the call of the Chair or whenever one-third of the members so request in writing. Each member shall be given appropriate notice of the call of each meeting, whenever possible not less than 15 days before the meeting.
 
 #### (f) Quorum
 
-A majority of the members of the Advisory Committee not having a conflict of interest in the matter being considered by the Advisory Committee shall constitute a quorum.
+A majority of the members of the Advisory Committee not having a conflict of interest inthe matter being considered by the Advisory Committee shall constitute a quorum.
 
 #### (g) Conflict of interest rules
 

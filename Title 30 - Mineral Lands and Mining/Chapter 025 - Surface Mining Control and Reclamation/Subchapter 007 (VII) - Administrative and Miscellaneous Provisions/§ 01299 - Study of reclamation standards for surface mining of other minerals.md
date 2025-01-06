@@ -8,7 +8,7 @@ The Chairman of the Council on Environmental Quality is directed to contract to 
 
 &emsp;(2) identify areas where the requirements of this chapter cannot be met by current and developing technology;
 
-&emsp;(3) in those instances describe requirements most comparable to those of this chapterwhich could be met, the costs involved, and the differences in reclamation results between these requirements and those of this chapter; and
+&emsp;(3) in those instances describe requirements most comparable to those of this chapter which could be met, the costs involved, and the differences in reclamation results between these requirements and those of this chapter; and
 
 &emsp;(4) discuss alternative regulatory mechanisms designed to insure the achievement of the most beneficial postmining land use for areas affected by surface and open pit mining.
 

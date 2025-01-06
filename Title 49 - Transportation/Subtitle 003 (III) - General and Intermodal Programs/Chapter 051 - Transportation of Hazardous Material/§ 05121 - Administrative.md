@@ -54,7 +54,7 @@ Safe resumption of transportation.—In instances when, as a result of an inspec
 
 &emsp;&emsp;(A) in the safe and prompt resumption of transportation of the package concerned; or
 
-&emsp;&emsp;(B) in any case in which the hazardous material being transported is perishable, in thesafe and expeditious resumption of transportation of the perishable hazardous material.
+&emsp;&emsp;(B) in any case in which the hazardous material being transported is perishable, in the safe and expeditious resumption of transportation of the perishable hazardous material.
 
 (d)
 
@@ -274,7 +274,7 @@ Pub. L. 112–141, div. C, title III, §33005, July 6, 2012, 126 Stat. 833, prov
 
 "(a)
 
-In General.—The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibility and effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
+In General.—The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibilityand effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
 
 "(b)
 

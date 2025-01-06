@@ -20,11 +20,13 @@ The Director shall appoint and fix the compensation of such personnel as may be 
 
 #### (c) Experts and consultants
 
-In carrying out the duties and functions of the Office, the Director may procure the temporary (not to exceed one year) or intermittent services of experts or consultants or organizations thereof by contract as independent contractors, or, in the case of individual experts or consultants, by employment at rates of pay not in excess of the daily equivalent of the highest rate of basic paypayable under the General Schedule of section 5332 of title 5.
+In carrying out the duties and functions of the Office, the Director may procure the temporary (not to exceed one year) or intermittent services of experts or consultants or organizations thereof by contract as independent contractors, or, in the case of individual experts or consultants, by employment at rates of pay not in excess of the daily equivalent of the highest rate of basic pay payable under the General Schedule of section 5332 of title 5.
 
 #### (d) Relationship to executive branch
 
-The Director is authorized to secure information, data, estimates, and statistics directly from the various departments, agencies, and establishments of the executive branch of Government and the regulatory agencies and commissions of the Government. All such departments, agencies, establishments, and regulatory agencies and commissions shall furnish the Director any available material which he determines to be necessary in the performance of his duties and functions (other than material the disclosure of which would be a violation of law). The Director is also authorized, upon agreement with the head of any such department, agency, establishment, or regulatory agency or commission, to utilize its services, facilities, and personnel with or without reimbursement; and the head of each such department, agency, establishment, or regulatory agency or commission is authorized to provide the Office such services, facilities, and personnel.
+(1) The Director is authorized to secure information, data, estimates, and statistics directly from the various departments, agencies, and establishments of the executive branch of Government and the regulatory agencies and commissions of the Government. All such departments, agencies, establishments, and regulatory agencies and commissions shall furnish the Director any available material which he determines to be necessary in the performance of his duties and functions (with or without written agreement) provided that the Director maintains the level of confidentiality required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained in accordance with section 603(e) of this title. The Director is also authorized, upon agreement with the head of any such department, agency, establishment, or regulatory agency or commission, to utilize its services, facilities, and personnel with or without reimbursement; and the head of each such department, agency, establishment, or regulatory agency or commission is authorized to provide the Office such services, facilities, and personnel.
+
+(2) No provision of law enacted after September 30, 2024, shall be construed to supersede, limit, or otherwise modify the authority of the Director to obtain any material under this subsection unless such provision specifically provides, by specific reference to this paragraph, that such authority is to be superseded, limited, or otherwise modified.
 
 #### (e) Relationship to other agencies of Congress
 
@@ -32,13 +34,13 @@ In carrying out the duties and functions of the Office, and for the purpose of c
 
 #### (f) Revenue estimates
 
-For the purposes of revenue legislation which is income, estate and gift, excise, and payroll taxes (i.e., Social Security), considered or enacted in any session of Congress, the Congressional Budget Office shall use exclusively during that session of Congress revenue estimates provided to it by the Joint Committee on Taxation. During that session of Congress such revenue estimates shall be transmitted by the Congressional Budget Office to any committee of the House of Representatives or the Senate requesting such estimates, and shall be used by such Committees in determining such estimates. The Budget Committees of the Senate and House shall determine all estimates with respect to scoring points of order and with respect to the execution of the purposes of this Act.
+For the purposes of revenue legislation which is income, estate and gift, excise, and payroll taxes (i.e., Social Security), considered or enacted in any session of Congress, the Congressional Budget Office shall use exclusively during that session of Congress revenue estimates provided to it by the Joint Committee on Taxation. During that session of Congress such revenue estimates shall be transmitted by the Congressional Budget Office to any committee of theHouse of Representatives or the Senate requesting such estimates, and shall be used by such Committees in determining such estimates. The Budget Committees of the Senate and House shall determine all estimates with respect to scoring points of order and with respect to the execution of the purposes of this Act.
 
 #### (g) Authorization of appropriations
 
 There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with section 6503 of this title, and upon vouchers approved by the Director.
 
-(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–94, div. E, title II, §212(a)(3)(B), Dec. 20, 2019, 133 Stat. 2775.)
+(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–94, div. E, title II, §212(a)(3)(B), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 118–89, §2(a), Sept. 30, 2024, 138 Stat. 1557.)
 
 #### <b>Editorial Notes</b>
 
@@ -52,6 +54,8 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 #### Amendments
 
+<b>2024</b>—Subsec. (d). Pub. L. 118–89 designated existing provisions as par. (1), substituted "(with or without written agreement) provided that the Director maintains the level of confidentiality required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained in accordance with section 603(e) of this title" for "(other than material the disclosure of which would be a violation of law)", and added par. (2).
+
 <b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–94 substituted "the maximum rate of pay in effect under section 4575(f) of this title." for "the lower of—
 
 &emsp;"(i) the highest annual rate of compensation of any officer of the Senate; or
@@ -64,7 +68,7 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 <b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted "The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election." for "The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter."
 
-Subsec. (e). Pub. L. 105–33, §10102(b), inserted "and" before "the Library", struck out "and the Office ofTechnology Assessment," after "Library of Congress,", inserted "and" before "the Librarian", and struck out ", and the Technology Assessment Board" after "Librarian of Congress".
+Subsec. (e). Pub. L. 105–33, §10102(b), inserted "and" before "the Library", struck out "and the Office of Technology Assessment," after "Library of Congress,", inserted "and" before "the Librarian", and struck out ", and the Technology Assessment Board" after "Librarian of Congress".
 
 Subsecs. (f), (g). Pub. L. 105–33, §10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
 
@@ -84,13 +88,17 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 Subsec. (a) effective July 12, 1974, see section 905(a) of Pub. L. 93–344, and subsecs. (b) to (f) effective on day on which first Director of Congressional Budget Office is appointed under subsec. (a), see section 905(a), (b) of Pub. L. 93–344, formerly set out as a note under section 621 of this title.
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–89, §1, Sept. 30, 2024, 138 Stat. 1557, provided that: "This Act \[amending this section\] may be cited as the 'Congressional Budget Office Data Sharing Act'."
+
 #### Short Title
 
 Pub. L. 93–344, which enacted this chapter, to be cited in its entirety as the "Congressional Budget and Impoundment Control Act of 1974", with titles I through IX thereof to be cited as the "Congressional Budget Act of 1974", see section 1(a) of Pub. L. 93–344, set out as a note under section 621 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

@@ -34,7 +34,7 @@ The fund shall be credited with—
 
 &emsp;(5) such sums as are required to be paid to the Administrator under section 4015(d) of this title; and
 
-&emsp;(6) receipts from any other operations under this chapter (including premiums under the conditions specified in subsection (d), and salvage proceeds, if any, resulting from reinsurance coverage).
+&emsp;(6) receipts from any other operations under this chapter (including premiums under theconditions specified in subsection (d), and salvage proceeds, if any, resulting from reinsurance coverage).
 
 #### (c) Investment of moneys in obligations issued or guaranteed by United States
 
@@ -82,7 +82,7 @@ Subsec. (a)(6) to (9). Pub. L. 112–141, §100225(d), inserted "and" at end of 
 
 "(8) for financial assistance under section 4102a of this title to States and communities for taking actions under such section with respect to severe repetitive loss properties, but only to the extent provided in section 4102a(i) of this title; and
 
-"(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under section 4030 of this title, except that, notwithstanding any other provisionof this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter."
+"(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under section 4030 of this title, except that, notwithstanding any other provision of this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter."
 
 Subsecs. (b)(5), (c), (d). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 

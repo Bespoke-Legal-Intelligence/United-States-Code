@@ -16,7 +16,7 @@ No information relating to the failure of an applicant for a State motor vehicle
 
 (2) The voter registration application portion of an application for a State motor vehicle driver's license—
 
-&emsp;(A) may not require any information that duplicates information required in the driver'slicense portion of the form (other than a second signature or other information necessary under subparagraph (C));
+&emsp;(A) may not require any information that duplicates information required in the driver's license portion of the form (other than a second signature or other information necessary under subparagraph (C));
 
 &emsp;(B) may require only the minimum amount of information necessary to—
 

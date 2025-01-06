@@ -30,7 +30,7 @@ Qualified Veterans.—For purposes of this section, a qualified veteran is a vet
 
 (d)
 
-Locations.—Not later than five years after the date of the enactment of the Deborah Sampson Act of 2020, the Secretary shall carry out theprogram at each medical center of the Department.
+Locations.—Not later than five years after the date of the enactment of the Deborah Sampson Act of 2020, the Secretary shall carry out the program at each medical center of the Department.
 
 (e)
 
@@ -46,7 +46,7 @@ Forms of Child Care Assistance.—(1) Child care assistance under this section m
 
 &emsp;(E) Such other forms of assistance as the Secretary considers appropriate.
 
-(2) In providing child care assistance under this section, the child care needs of the local area shall be considered and the head of each medical center may select the type of care that is most appropriate or feasible for such medical center.
+(2) In providing child care assistance under this section, the child care needs of the local area shall be considered and the head of eachmedical center may select the type of care that is most appropriate or feasible for such medical center.
 
 (3) In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.
 

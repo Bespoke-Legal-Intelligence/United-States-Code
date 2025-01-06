@@ -51,7 +51,7 @@ For purposes of this section—
 
 #### (2) Fuel economy
 
-&emsp;The term "fuel economy" means the average number of miles traveled by an automobile per gallon of gasoline (or equivalent amount of other fuel) consumed, as determined by the EPA Administrator in accordance with procedures established under subsection (c).
+&emsp;The term "fuel economy" means the average number of miles traveled by an automobile pergallon of gasoline (or equivalent amount of other fuel) consumed, as determined by the EPA Administrator in accordance with procedures established under subsection (c).
 
 #### (3) Model type
 
@@ -163,7 +163,7 @@ Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 28
 
 #### Effective Date
 
-Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
+Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

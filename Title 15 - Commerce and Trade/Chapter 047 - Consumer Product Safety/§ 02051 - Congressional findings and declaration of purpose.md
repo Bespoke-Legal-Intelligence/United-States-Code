@@ -54,7 +54,7 @@ Pub. L. 117–171, §1, Aug. 16, 2022, 136 Stat. 2094, provided that: "This Act 
 
 Pub. L. 117–126, §1, May 16, 2022, 136 Stat. 1208, provided that: "This Act \[enacting sections 2057d and 2057e of this title\] may be cited as the 'Safe Sleep for Babies Act of 2021'."
 
-Pub. L. 117–103, div. Q, title II, §201, Mar. 15, 2022, 136 Stat. 812, provided that: "This title \[enacting section 2090 of this title and provisions set out as notes under section 2090 of this title\] may be cited as the 'Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022'."
+Pub. L. 117–103, div. Q, title II, §201, Mar. 15, 2022, 136 Stat. 812, provided that: "This title \[enacting section 2090 of this title and provisions set out as notes under section 2090 of this title\] may be cited as the 'Nicholasand Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022'."
 
 #### Short Title of 2013 Amendment
 
@@ -86,7 +86,7 @@ Pub. L. 92–573, §1, Oct. 27, 1972, 86 Stat. 1207, provided that: "This Act \[
 
 #### Authority To Issue Implementing Regulations
 
-Pub. L. 110–314, §3, Aug. 14, 2008, 122 Stat. 3017, provided that: "The Commission may issue regulations, asnecessary, to implement this Act \[see Short Title of 2008 Amendment note above\] and the amendments made by this Act."
+Pub. L. 110–314, §3, Aug. 14, 2008, 122 Stat. 3017, provided that: "The Commission may issue regulations, as necessary, to implement this Act \[see Short Title of 2008 Amendment note above\] and the amendments made by this Act."
 
 #### Severability
 

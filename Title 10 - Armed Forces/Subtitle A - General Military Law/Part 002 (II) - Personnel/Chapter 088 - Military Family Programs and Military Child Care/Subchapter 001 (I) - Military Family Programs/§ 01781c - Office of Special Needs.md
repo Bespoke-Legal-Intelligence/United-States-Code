@@ -48,7 +48,7 @@ Policy.—(1) The Office shall develop, and regularly update, a uniform policy f
 
 &emsp;(D) Protection from having a medical recommendation for an approved assignment overridden by the commanding officer.
 
-&emsp;(E) Ability to request continuation of location when there is a documented substantial risk of transferring medical care or educational services to a new provider or schoolat the specific time of permanent change of station.
+&emsp;(E) Ability to request continuation of location when there is a documented substantial risk of transferring medical care or educational services to a new provider or school at the specific time of permanent change of station.
 
 (4) In addressing support for military families under paragraph (2)(B), the policy developed under this subsection shall provide the following:
 
@@ -110,7 +110,7 @@ Reports.—(1) Not later than April 30 each year, the Secretary of Defense shall
 
 &emsp;&emsp;(iv) an assessment of the average wait time for an eligible dependent enrolled in the program to access alternative health coverage for a qualifying condition (as such term is defined in such section), including a discussion of any adverse health outcomes associated with such wait.
 
-&emsp;(D) Such recommendations for legislative action as the Secretary considers appropriateto provide for the continuous improvement of support and services for military families with special needs.
+&emsp;(D) Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
 
 (h)
 
@@ -130,7 +130,7 @@ Subsec. (d)(1). Pub. L. 116–283, §582(a)(3)(A), substituted "regularly update
 
 Subsec. (d)(3)(C) to (E). Pub. L. 116–283, §582(a)(3)(B), added subpars. (C) to (E).
 
-Subsec. (d)(4)(F). Pub. L. 116–283, §582(a)(3)(C)(i), substituted "by an appropriate office of an individualized services plan (whether medical, educational, or both)" for "of an individualized services plan (medical and educational)".
+Subsec. (d)(4)(F). Pub. L. 116–283, §582(a)(3)(C)(i), substituted "by an appropriate office of an individualizedservices plan (whether medical, educational, or both)" for "of an individualized services plan (medical and educational)".
 
 Subsec. (d)(4)(H), (I). Pub. L. 116–283, §582(a)(3)(C)(ii), which directed adding subpars. (H) and (I) after subpar. (F), was executed by adding them after subpar. (G) to reflect the probable intent of Congress.
 
@@ -173,6 +173,60 @@ Subsec. (h)(1). Pub. L. 111–383, §1075(b)(24), substituted "April 30 each yea
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+#### Inclusive Playground Pilot Program
+
+Pub. L. 118–159, div. A, title V, §589B, Dec. 23, 2024, 138 Stat. 1916, provided that:
+
+"(a)
+
+In General.—Not later than March 1, 2026, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan for the implementation of a military families playground pilot program (in this section referred to as the 'Inclusive Playground Pilot Program') to design, develop, and construct playgrounds that directly support families enrolled in the Exceptional Family Member Program (hereinafter, 'EFMP') to increase the accessibility and inclusivity of access to playgrounds on military installations selected under subsection (c).
+
+"(b)
+
+Elements.—The plan under subsection (a) shall include the following elements:
+
+&emsp;"(1) A definition of the term 'inclusive playground'.
+
+&emsp;"(2) A list of existing inclusive playgrounds on military installations.
+
+&emsp;"(3) A list of military installations selected by the Secretary of Defense under subsection (c).
+
+&emsp;"(4) An explanation of how the Secretary of Defense selected such locations, including—
+
+&emsp;&emsp;"(A) the numbers of military families enrolled in the EFMP at each such military installation; and
+
+&emsp;&emsp;"(B) the minimum number of such military families that justifies the construction of an inclusive playground on such military installation.
+
+&emsp;"(5) The estimated costs to design, develop, and construct an inclusive playground (or upgrade an existing playground to meet such definition) on the military installations selected under subsection (c), including—
+
+&emsp;&emsp;"(A) an explanation of how the Secretary determined whether to construct a new inclusive playground or to upgrade an existing playground;
+
+&emsp;&emsp;"(B) the overall sustainment costs for an inclusive playground, and
+
+&emsp;&emsp;"(C) they \[sic\] type of funding required for such design, development, and construction.
+
+&emsp;"(6) A list of additional authorities, appropriations, or other support the Secretary determines necessary to ensure the success of the Inclusive Playground Pilot Program.
+
+"(c)
+
+Locations.—In selecting military installations on which to implement the Inclusive Playground Pilot Program, the Secretary of Defense shall—
+
+&emsp;"(1) select one military installation—
+
+&emsp;&emsp;"(A) of each military department; and
+
+&emsp;&emsp;"(B) that the Secretary determines has a large number of military families enrolled in the EFMP that would use an inclusive playground;
+
+&emsp;"(2) take into consideration any existing inclusive playground of the Department of Defense.
+
+"(d)
+
+Limitation.—The Secretary of Defense may not implement the Inclusive Playground Pilot Program until—
+
+&emsp;"(1) 180 days after the date on which the Secretary submits the plan under subsection (a); and
+
+&emsp;"(2) funds are obligated for the design, development, and construction of inclusive playgrounds under the Inclusive Playground Pilot Program as minor military construction projects."
 
 #### Improvements to Exceptional Family Member Program
 
@@ -304,9 +358,9 @@ In general.—The Comptroller General of the United States shall conduct a study
 
 &emsp;&emsp;&emsp;"(ii) Funds made available for assistance to schools with a significant number of military dependent students under subsection (a) of section 572 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 20 U.S.C. 7703b).
 
-&emsp;&emsp;"(C) The efficacy of attorneys and other legal support for military families in special education disputes.
+&emsp;&emsp;"(C) \[sic\] The efficacy of attorneys and other legal support for military families in special education disputes.
 
-&emsp;&emsp;"(E) Whether, and to what extent, policies and guidance for School Liaison Officers are standardized between the Office of Special Needs of the Department of Defense and the military departments, and the efficacy of such policies and guidance.
+&emsp;&emsp;"(E) \[sic\] Whether, and to what extent, policies and guidance for School Liaison Officers are standardized between the Office of Special Needs of the Department of Defense and the military departments, and the efficacy of such policies and guidance.
 
 &emsp;&emsp;"(F) The improvements made to family support programs of the Office of Special Needs, and of each military department, in light of the recommendations of the Comptroller General in the report titled 'DOD Should Improve Its Oversight of the Exceptional Family Member Program' (GAO–18–348).
 
@@ -316,7 +370,7 @@ Recommendations.—As part of the study under paragraph (1), the Comptroller Gen
 
 &emsp;&emsp;"(A) Improvements to the ability of the Department of Defense to monitor and enforce the compliance of local educational agencies with requirements for the provision of a free appropriate public education to military dependent students with special needs.
 
-&emsp;&emsp;"(B) Improvements to the policies of the Office of Special Needs, and of each military department, with respect to the standardization and efficacy ofpolicies and programs for military dependent students with special needs.
+&emsp;&emsp;"(B) Improvements to the policies of the Office of Special Needs, and of each military department, with respect to the standardization and efficacy of policies and programs for military dependent students with special needs.
 
 &emsp;"(3)
 
@@ -416,7 +470,7 @@ Duties.—The advisory panel shall—
 
 &emsp;"(A) provide informed advice to the Director of the Office of Community Support for Military Families With Special Needs \[now Office of Special Needs\] on the implementation of the policy required by subsection (e) \[now (d)\] of section 1781c of title 10, United States Code, and on the discharge of the programs required by subsection (f) \[now (e)\] of such section;
 
-&emsp;"(B) assess and provide information to the Director on services and support for children with special needs that is available from other departments and agencies of the Federal Government and from State and local governments; and
+&emsp;"(B) assess and provide information to the Director on services and support for children with special needs that is available from other departments andagencies of the Federal Government and from State and local governments; and
 
 &emsp;"(C) otherwise advise and assist the Director in the discharge of the duties of the Office of Community Support for Military Families With Special Needs in such manner as the Secretary of Defense and the Director jointly determine appropriate.
 

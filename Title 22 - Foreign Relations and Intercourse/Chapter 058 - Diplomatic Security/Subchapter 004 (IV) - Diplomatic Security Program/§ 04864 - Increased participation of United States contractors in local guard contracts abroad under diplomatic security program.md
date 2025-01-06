@@ -16,7 +16,7 @@ It is the objective of this section to improve the efficiency of the local guard
 
 #### (c) Participation of United States contractors in local guard contracts abroad
 
-With respect to local guard contracts for a Foreign Service building which exceed $250,000 and are entered into after February 16, 1990, the Secretary of State shall—
+With respect to local guard contracts for a Foreign Service building which exceed $250,000and are entered into after February 16, 1990, the Secretary of State shall—
 
 &emsp;(1) establish procedures to ensure that all solicitations for such contracts are adequately advertised in the Commerce and Business Daily;
 
@@ -56,7 +56,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(G) has the existing technical and financial resources in the United States to perform the contract;
 
-&emsp;(2) the term "qualified United States joint venture person" means a joint venture inwhich a United States person or persons owns at least 51 percent of the assets of the joint venture;
+&emsp;(2) the term "qualified United States joint venture person" means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture;
 
 &emsp;(3) the term "Foreign Service building" means any building or grounds of the United States which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
 

@@ -56,7 +56,7 @@ The Director of the United States Secret Service may pay for all or a part of th
 
 #### (2) Exception
 
-&emsp;Any information required under paragraph (1) that is submitted as part of the annual budget submitted by the President to Congress under section 1105 of title 31 is not required to be included in the report required under paragraph (1).
+&emsp;Any information required under paragraph (1) that is submitted as part of the annualbudget submitted by the President to Congress under section 1105 of title 31 is not required to be included in the report required under paragraph (1).
 
 #### (i) Definitions
 
@@ -88,7 +88,7 @@ Section 659(a) of this title, referred to in subsec. (i)(2), was amended by Pub.
 
 Subsec. (b). Pub. L. 117–263, §7123(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the functions of the Institute.
 
-Subsec. (c). Pub. L. 117–263, §7123(3), substituted "cybersecurity incidents, electronic crimes, and related cybersecurity threats is shared with recipients of education and training provided pursuant to subsection (a)" for "cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors" and inserted at end "When selecting participants for such training, the Institute shall prioritize, to the extent reasonable and practicable, providing education and training to individuals from geographically-diverse jurisdictions throughout the United States, and the Institute shallprioritize, to the extent reasonable and practicable, State, local, tribal, and territorial law enforcement officers, prosecutors, judges, and other employees."
+Subsec. (c). Pub. L. 117–263, §7123(3), substituted "cybersecurity incidents, electronic crimes, and related cybersecurity threats is shared with recipients of education and training provided pursuant to subsection (a)" for "cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors" and inserted at end "When selecting participants for such training, the Institute shall prioritize, to the extent reasonable and practicable, providing education and training to individuals from geographically-diverse jurisdictions throughout the United States, and the Institute shall prioritize, to the extent reasonable and practicable, State, local, tribal, and territorial law enforcement officers, prosecutors, judges, and other employees."
 
 Subsec. (d). Pub. L. 117–263, §7123(4), substituted "recipients of education and training provided pursuant to subsection (a)" for "State, local, tribal, and territorial law enforcement officers" and "for investigating and preventing cybersecurity incidents, electronic crimes, and related cybersecurity threats, and for forensic examinations of computers, mobile devices, and other information systems" for "necessary to conduct cyber and electronic crime and related threat investigations and computer and mobile device forensic examinations".
 

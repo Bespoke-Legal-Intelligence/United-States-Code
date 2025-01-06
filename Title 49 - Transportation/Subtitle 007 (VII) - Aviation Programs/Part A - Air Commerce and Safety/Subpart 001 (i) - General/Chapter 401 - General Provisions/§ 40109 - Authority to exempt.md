@@ -12,11 +12,11 @@ Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft
 
 (b)
 
-Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections <sup>1</sup> 40103(b)(1) and (2) of this title when the Administrator decides the exemption is in the public interest.
+Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out paragraphs (1) and (2) of section 40103(b) when the Administrator decides the exemption is in the public interest.
 
 (c)
 
-Other Economic Regulation.—Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and41714), chapter 419, subchapter II of chapter 421, and sections 44909(a), 44909(b), and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
+Other Economic Regulation.—Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909(a), 44909(b), and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
 
 (d)
 
@@ -88,9 +88,9 @@ Continuation of exemptions.—An exemption granted by the Secretary under this s
 
 (h)
 
-Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
+Notice and Opportunity for Hearing.—The Secretary may act under subsections (d)and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 115–254, div. B, title IV, §402, div. K, title I, §1991(c)(1), Oct. 5, 2018, 132 Stat. 3328, 3627.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 115–254, div. B, title IV, §402, div. K, title I, §1991(c)(1), Oct. 5, 2018, 132 Stat. 3328, 3627; Pub. L. 118–63, title XI, §1101(d), May 16, 2024, 138 Stat. 1413.)
 
 Historical and Revision Notes
 
@@ -226,11 +226,13 @@ This amends 49:40109(c) to correct an error in the codification enacted by secti
 
 #### Amendments
 
+<b>2024</b>—Subsec. (b). Pub. L. 118–63 substituted "paragraphs (1) and (2) of section 40103(b)" for "sections 40103(b)(1) and (2) of this title".
+
 <b>2018</b>—Subsec. (b). Pub. L. 115–254, §1991(c)(1)(A), struck out ", 40119, 44901, 44903, 44906, and 44935–44937" before "of this title".
 
 Subsec. (c). Pub. L. 115–254, §1991(c)(1)(B), substituted "sections 44909(a), 44909(b), and" for "sections 44909 and".
 
-Subsec. (g)(2)(C). Pub. L. 115–254, §402(1), added subpar. (C) and struck out former subpar. (C) which read as follows: "review the exemption at least every 30 days to ensure that the unusual circumstances that established the need for the exemption still exist."
+Subsec. (g)(2)(C). Pub. L. 115–254, §402(1), added subpar. (C) and struck out former subpar. (C) which read asfollows: "review the exemption at least every 30 days to ensure that the unusual circumstances that established the need for the exemption still exist."
 
 Subsec. (g)(3), (4). Pub. L. 115–254, §402(2), added pars. (3) and (4) and struck out former par. (3) which read as follows: "The Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days. An exemption may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease."
 
@@ -259,6 +261,4 @@ Requirements.—The Administrator may grant an exemption under paragraph (1) onl
 &emsp;"(A) the Administrator finds that granting the exemption is necessary to prevent an undue economic burden on the unit of government; and
 
 &emsp;"(B) the Administrator certifies that the aviation safety program of the unit of government is effective and appropriate to ensure safe operations of the type of aircraft operated by the unit of government."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

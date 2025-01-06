@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) would cause the level of total new budget authority or total outlays set forth for the first fiscal year in the applicable resolution to be exceeded; or
 
-&emsp;&emsp;(B) would cause revenues to be less than the level of total revenues set forth for thatfirst fiscal year or for the total of that first fiscal year and the ensuing fiscal years in the applicable resolution for which allocations are provided under section 633(a) of this title.
+&emsp;&emsp;(B) would cause revenues to be less than the level of total revenues set forth for that first fiscal year or for the total of that first fiscal year and the ensuing fiscal years in the applicable resolution for which allocations are provided under section 633(a) of this title.
 
 #### (3) Enforcement of social security levels in Senate
 

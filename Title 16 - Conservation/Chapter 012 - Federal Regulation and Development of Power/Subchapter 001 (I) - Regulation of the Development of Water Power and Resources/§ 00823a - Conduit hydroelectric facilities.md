@@ -42,7 +42,7 @@ Subject to subsection (c), the Commission may grant an exemption in whole or in 
 
 #### (c) Consultation with Federal and State agencies
 
-In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
+In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the Stateagency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
 
 &emsp;(1) such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### Application of Subsection (c)
 
-Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act \[see Short Title of 1986Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\]."
+Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

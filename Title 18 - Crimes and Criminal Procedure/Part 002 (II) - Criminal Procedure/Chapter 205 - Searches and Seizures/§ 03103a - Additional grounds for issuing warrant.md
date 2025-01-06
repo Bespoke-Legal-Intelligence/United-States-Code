@@ -24,7 +24,7 @@ Reports.—
 
 &emsp;(1)
 
-Report by judge.—Not later than 30 days after the expiration of a warrant authorizing delayed notice (including any extension thereof) entered under this section, or the denial of such warrant (or request for extension), the issuing or denying judge shall report to theAdministrative Office of the United States Courts—
+Report by judge.—Not later than 30 days after the expiration of a warrant authorizing delayed notice (including any extension thereof) entered under this section, or the denial of such warrant (or request for extension), the issuing or denying judge shall report to the Administrative Office of the United States Courts—
 
 &emsp;&emsp;(A) the fact that a warrant was applied for;
 

@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) The "Federal percentage" for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
-&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
+&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>,That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
 
 &emsp;(C) The term "United States" means (but only for purposes of subparagraphs (A) and (B) of this paragraph) the fifty States and the District of Columbia.
 
@@ -110,7 +110,7 @@ Subsec. (a)(8)(B). Pub. L. 94–273 substituted "October" for "July" in two plac
 
 Subsec. (a)(2). Pub. L. 87–543, §153(b), struck out ", the District of Columbia, and the Commonwealth of Puerto Rico" after "the States,".
 
-<b>1960</b>—Subsec. (a)(1). Pub. L. 86–778 substituted "The term 'State', except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico" for "The term 'State' includes Hawaii, and the District of Columbia", and "includes the VirginIslands and Guam" for "includes Puerto Rico, the Virgin Islands, and Guam".
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–778 substituted "The term 'State', except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico" for "The term 'State' includes Hawaii, and the District of Columbia", and "includes the Virgin Islands and Guam" for "includes Puerto Rico, the Virgin Islands, and Guam".
 
 Pub. L. 86–624, §30(d)(1), struck out "Hawaii, and" before "the District of Columbia".
 
@@ -204,7 +204,7 @@ For effective date, savings, and transitional provisions relating to amendment b
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 effective on the later of Oct. 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of Title26, Internal Revenue Code, an unemployment compensation law submitted to him by the Virgin Islands for approval, see section 116(f)(1) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
+Amendment by Pub. L. 94–566 effective on the later of Oct. 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of Title 26, Internal Revenue Code, an unemployment compensation law submitted to him by the Virgin Islands for approval, see section 116(f)(1) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 
 #### Effective Date of 1973 Amendment
 
@@ -270,7 +270,7 @@ Pub. L. 98–369, div. B, title VI, §2663(l), July 18, 1984, 98 Stat. 1171, pro
 
 &emsp;"(3) by substituting 'Secretary of Health and Human Services' for the term 'Federal Security Administrator' in any other case where the reference is to that term;
 
-> and any reference to the Federal Security Agency which may remain in such provisions is amended bysubstituting 'Department of Health and Human Services' for the term 'Federal Security Agency'; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[42 U.S.C. 602(a)(5)\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by section 208(a)(3)(D) of Public Law 91–648 \[42 U.S.C. 4728(a)(3)(D)\]."
+> and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting 'Department of Health and Human Services' for the term 'Federal Security Agency'; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[42 U.S.C. 602(a)(5)\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by section 208(a)(3)(D) of Public Law 91–648 \[42 U.S.C. 4728(a)(3)(D)\]."
 
 #### Definitions of "BIPA" and "Secretary"
 

@@ -40,7 +40,7 @@
 
 (2) No rate may be established under this section in excess of the rate of basic pay payable for level II of the Executive Schedule.
 
-(3)(A) Notwithstanding section 5304 of title 5 or any other provision of law, but subject to the limitation under paragraph (2), pursuant to an increase under subsection (a), the Secretary may pay a special rate or an adjusted rate of basic pay in excess of the rate of basic pay payable for level IV of the Executive Schedule.
+(3)(A) Notwithstanding section 5304 of title 5 or any other provision of law, but subject to the limitation under paragraph (2), pursuant to an increase under subsection (a), the Secretarymay pay a special rate or an adjusted rate of basic pay in excess of the rate of basic pay payable for level IV of the Executive Schedule.
 
 (B) If an employee is in receipt of a special rate of pay under subparagraph (A) in excess of the rate of basic pay payable for level IV of the Executive Schedule with an established special rate supplement of greater value than a supplement based on the applicable locality-based comparability payment percentage under section 5304 of title 5, but a pay adjustment would cause such established special rate supplement to be of lesser value, the special rate supplement shall be converted to a supplement based on the applicable locality-based comparability percentage unless the Secretary determines that some other action is appropriate.
 

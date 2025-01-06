@@ -12,7 +12,7 @@
 
 #### (3) Expedited proceedings
 
-&emsp;(A) Notwithstanding any other provision of law, the Attorney General shall provide for the initiation and, to the extent possible, the completion of removal proceedings, and any administrative appeals thereof, in the case of any alien convicted of an aggravated felony before the alien's release from incarceration for the underlying aggravated felony.
+&emsp;(A) Notwithstanding any other provision of law, the Attorney General shall provide forthe initiation and, to the extent possible, the completion of removal proceedings, and any administrative appeals thereof, in the case of any alien convicted of an aggravated felony before the alien's release from incarceration for the underlying aggravated felony.
 
 &emsp;(B) Nothing in this section shall be construed as requiring the Attorney General to effect the removal of any alien sentenced to actual incarceration, before release from the penitentiary or correctional institution where such alien is confined.
 
@@ -30,7 +30,7 @@
 
 &emsp;(A) was not lawfully admitted for permanent residence at the time at which proceedings under this section commenced; or
 
-&emsp;(B) had permanent resident status on a conditional basis (as described in section 1186a ofthis title) at the time that proceedings under this section commenced.
+&emsp;(B) had permanent resident status on a conditional basis (as described in section 1186a of this title) at the time that proceedings under this section commenced.
 
 (3) The Attorney General may not execute any order described in paragraph (1) until 14 calendar days have passed from the date that such order was issued, unless waived by the alien, in order that the alien has an opportunity to apply for judicial review under section 1252 of this title.
 
@@ -92,7 +92,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (5) Stipulated judicial order of removal
 
-&emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11,enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
+&emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
 
@@ -138,7 +138,7 @@ Pub. L. 104–132, §440(g)(1)(A), as amended by Pub. L. 104–208, §§306(d), 
 
 Subsec. (a)(2). Pub. L. 104–208, §308(c)(1)(B), substituted "section 1226(c)" for "section 1252(a)(2)".
 
-Pub. L. 104–132, §440(g)(2), which directed substitution of "any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1251(a)(2)(A)(ii) of this title for which both predicate offenses are covered by section 1251(a)(2)(A)(i) of this title." for "aggravated felony" and all that follows through "before any scheduled hearings.", was repealed by Pub. L. 104–208, §671(c)(6).
+Pub. L. 104–132, §440(g)(2), which directed substitution of "any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1251(a)(2)(A)(ii) of this title for which both predicate offenses are covered by section1251(a)(2)(A)(i) of this title." for "aggravated felony" and all that follows through "before any scheduled hearings.", was repealed by Pub. L. 104–208, §671(c)(6).
 
 Subsec. (a)(3), (4). Pub. L. 104–208, §308(e)(1)(F), substituted "removal" for "deportation" wherever appearing.
 

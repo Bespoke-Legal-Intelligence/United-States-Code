@@ -22,7 +22,7 @@ As part of the annual performance plan required in the budget submission of the 
 
 &emsp;&emsp;(A) a comprehensive summary of the analysis described in paragraph (1); and
 
-&emsp;&emsp;(B) a description of how the Untied <sup>1</sup> States Customs and Border Protection utilized the analysis described in paragraph (1) to target shipments presenting a high risk for smuggling or circumvention of the Combat Methamphetamine Epidemic Act of 2005 (Public Law 109–177).
+&emsp;&emsp;(B) a description of how the Untied <sup>1</sup> States Customs and Border Protection utilized the analysis described in paragraph (1) to targetshipments presenting a high risk for smuggling or circumvention of the Combat Methamphetamine Epidemic Act of 2005 (Public Law 109–177).
 
 #### (3) Availability of analysis
 

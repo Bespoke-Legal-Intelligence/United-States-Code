@@ -54,7 +54,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 &emsp;&emsp;(iii) the period or periods when, or with respect to which, the applicant or participant actually received such wages, other earnings or income, or benefits.
 
-&emsp;(C) Such applicant or participant shall be informed by the agency or owner of the findings made by the agency or owner on the basis of such verified information, and shall be given an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility factors under the program.
+&emsp;(C) Such applicant or participant shall be informed by the agency or owner of the findingsmade by the agency or owner on the basis of such verified information, and shall be given an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility factors under the program.
 
 #### (3) Penalty
 
@@ -90,7 +90,7 @@ An applicant or participant under any program of the Department of Housing and U
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The amendments made by subsection (c)(1), referred to in subsec. (d)(2), (3), mean the amendments made by section 904(c)(1) of Pub. L. 100–628, which enacted section 503(i) and amended section 504(a)(2) of this title. See Codification note below.
 

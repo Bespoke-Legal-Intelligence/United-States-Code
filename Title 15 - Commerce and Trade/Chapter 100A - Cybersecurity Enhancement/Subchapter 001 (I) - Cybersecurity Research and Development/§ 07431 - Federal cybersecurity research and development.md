@@ -104,7 +104,7 @@ The Director of the National Science Foundation shall support research that—
 
 #### (A) In general
 
-&emsp;&emsp;If the Director of the National Science Foundation, after the review under paragraph (1), determines that the research needs under the Federal cybersecurity research and development strategic plan require the establishment of additional cybersecurity test beds, the Director of the National Science Foundation, in coordination with the Secretary of Commerce and the Secretary of Homeland Security, may award grants to institutions of higher education or research and development non-profit institutions to establish cybersecurity test beds.
+&emsp;&emsp;If the Director of the National Science Foundation, after the review under paragraph (1), determines that the research needs under the Federal cybersecurity research and development strategic plan require the establishment of additional cybersecurity test beds, the Director of theNational Science Foundation, in coordination with the Secretary of Commerce and the Secretary of Homeland Security, may award grants to institutions of higher education or research and development non-profit institutions to establish cybersecurity test beds.
 
 #### (B) Requirement
 

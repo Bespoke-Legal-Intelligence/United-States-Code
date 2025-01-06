@@ -8,7 +8,7 @@ Providing Shipping Papers.—Each person offering for transportation in commerce
 
 Keeping Shipping Papers on the Vehicle.—(1) A motor carrier, and the person offering the hazardous material for transportation if a private motor carrier, shall keep the shipping paper on the vehicle transporting the material.
 
-(2) Except as provided in paragraph (1) of this subsection, the shipping paper shall be kept in alocation the Secretary specifies in a motor vehicle, train, vessel, aircraft, or facility until—
+(2) Except as provided in paragraph (1) of this subsection, the shipping paper shall be kept in a location the Secretary specifies in a motor vehicle, train, vessel, aircraft, or facility until—
 
 &emsp;(A) the hazardous material no longer is in transportation; or
 
@@ -24,7 +24,7 @@ Retention of Papers.—
 
 &emsp;(1)
 
-Offerors.—The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror's principal place of business.
+Offerors.—The person who provides the shipping paper under this section shall retainthe paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror's principal place of business.
 
 &emsp;(2)
 

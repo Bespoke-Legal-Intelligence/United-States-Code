@@ -14,7 +14,7 @@ The Corporation shall at all times maintain complete and accurate books of accou
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under the 1st sentence of this section, to transmit to Congress a complete annual report as to the business of the Corporation, is listed on page 46), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under the 1st sentence of this section, to transmit to Congress a complete annual report as to the business of the Corporation, is listed on page 46), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### <b>Executive Documents</b>
 

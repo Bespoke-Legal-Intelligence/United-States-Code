@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) have space to park and secure a wheelchair;
 
-&emsp;&emsp;&emsp;(iii) have a seat to which a passenger in a wheelchair can transfer, and a space tofold and store such passenger's wheelchair; and
+&emsp;&emsp;&emsp;(iii) have a seat to which a passenger in a wheelchair can transfer, and a space to fold and store such passenger's wheelchair; and
 
 &emsp;&emsp;&emsp;(iv) have a restroom usable by an individual who uses a wheelchair,
 
@@ -164,7 +164,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (II) Commuter rail
 
-&emsp;&emsp;&emsp;&emsp;Key stations in commuter rail transportation systems shall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than 3 years after July 26, 1990, except that the time limit may be extended by the Secretary of Transportation up to 20 years after July 26, 1990, in a case where the raising of the entire passenger platform is theonly means available of attaining accessibility or where other extraordinarily expensive structural changes are necessary to attain accessibility.
+&emsp;&emsp;&emsp;&emsp;Key stations in commuter rail transportation systems shall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than 3 years after July 26, 1990, except that the time limit may be extended by the Secretary of Transportation up to 20 years after July 26, 1990, in a case where the raising of the entire passenger platform is the only means available of attaining accessibility or where other extraordinarily expensive structural changes are necessary to attain accessibility.
 
 #### (iii) Designation of key stations
 

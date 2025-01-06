@@ -2,7 +2,7 @@
 
 #### (a) Flood risk management or hurricane and storm damage risk reduction
 
-In carrying out a feasibility study for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary, at the request of the non-Federal interest for the study, shall formulate alternatives to maximize the net benefits from the reduction of the comprehensive flood risk within the geographic scope of the study from the isolated and compound effects of—
+In carrying out a feasibility study for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary,at the request of the non-Federal interest for the study, shall formulate alternatives to maximize the net benefits from the reduction of the comprehensive flood risk within the geographic scope of the study from the isolated and compound effects of—
 
 &emsp;(1) a riverine discharge of any magnitude or frequency;
 

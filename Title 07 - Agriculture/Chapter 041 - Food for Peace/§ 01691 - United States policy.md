@@ -64,11 +64,11 @@ Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 17
 
 Pub. L. 101–624, title XV, §1501, Nov. 28, 1990, 104 Stat. 3632, provided that: "This title \[see Tables for classification\] may be cited as the 'Agricultural Development and Trade Act of 1990'."
 
-Pub. L. 101–624, title XV, §1511, Nov. 28, 1990, 104 Stat. 3633, provided that: "This subtitle \[subtitle A (§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736o, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the 'Mickey Leland Food for Peace Act'."
+Pub. L. 101–624, title XV, §1511, Nov. 28, 1990, 104 Stat. 3633, provided that: "This subtitle \[subtitle A\(§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736o, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the 'Mickey Leland Food for Peace Act'."
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: "This Act \[amending section 1727 of thistitle and enacting provisions set out as a note under section 1727 of this title\] may be cited as the 'Bangladesh Disaster Assistance Act of 1988'."
+Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: "This Act \[amending section 1727 of this title and enacting provisions set out as a note under section 1727 of this title\] may be cited as the 'Bangladesh Disaster Assistance Act of 1988'."
 
 #### Short Title of 1987 Amendment
 
@@ -130,7 +130,7 @@ Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 105
 
 #### Executive Order No. 10685
 
-Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261, which designated the International Cooperation Administration as the Federal agency to which funds required for ocean freight costs could be transferred by the Commodity Credit Corporation, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out asa note under this section, and was revoked by section 1–502(b) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
 
 #### Executive Order No. 10900
 

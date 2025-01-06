@@ -14,7 +14,7 @@ Every person who fails to register or reregister as required by section 4101, or
 
 <b>1998</b>—Pub. L. 105–206 provided that amendment made by section 1032(e)(12)(A) of Pub. L. 105–34 shall be applied as if "gasoline, diesel fuel," were the material proposed to be stricken. See 1997 Amendment note below.
 
-<b>1997</b>—Pub. L. 105–34, §1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchlineread as follows: "Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel".
+<b>1997</b>—Pub. L. 105–34, §1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchline read as follows: "Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel".
 
 Pub. L. 105–34, §1032(e)(12)(A), which directed the substitution of "any taxable fuel (as defined in section 4083)" for "gasoline, lubricating oil, diesel fuel", was executed by making the substitution for "gasoline, diesel fuel," to reflect the probable intent of Congress. See 1998 Amendment note above.
 

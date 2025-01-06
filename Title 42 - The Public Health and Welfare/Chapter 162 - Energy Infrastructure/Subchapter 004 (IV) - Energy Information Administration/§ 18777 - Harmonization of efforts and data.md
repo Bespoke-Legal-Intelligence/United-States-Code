@@ -12,7 +12,7 @@ Not later than 1 year after November 15, 2021, the Administrator shall establish
 
 &emsp;(2) the data collected under this subchapter, including the operating data on electricity generation collected under section 18772(a) of this title, with data collected by the entities described in subparagraphs (A) through (C) of paragraph (1), including any measurements of greenhouse gas and other pollutant emissions collected by the Environmental Protection Agency, as the Administrator determines to be appropriate; and
 
-&emsp;(3) the efforts of the Administrator to identify and report relevant impacts, opportunities, and patterns with respect to energy use, including the identification of community-level economic and environmental impacts required under section 18773(b)(1)(C) of this title, with the efforts of the Environmental Protection Agency and other relevant Federal agencies, as determined by the Administrator, to identify similar impacts, opportunities, and patterns.
+&emsp;(3) the efforts of the Administrator to identify and report relevant impacts, opportunities, and patterns with respect to energy use,including the identification of community-level economic and environmental impacts required under section 18773(b)(1)(C) of this title, with the efforts of the Environmental Protection Agency and other relevant Federal agencies, as determined by the Administrator, to identify similar impacts, opportunities, and patterns.
 
 (Pub. L. 117–58, div. D, title IV, §40419, Nov. 15, 2021, 135 Stat. 1047.)
 

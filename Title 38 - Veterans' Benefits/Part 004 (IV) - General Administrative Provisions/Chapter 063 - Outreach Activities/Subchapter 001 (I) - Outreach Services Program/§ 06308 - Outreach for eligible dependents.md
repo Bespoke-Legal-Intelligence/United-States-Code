@@ -1,0 +1,26 @@
+### §6308. Outreach for eligible dependents
+
+(a)
+
+Needs of Dependents.—In carrying out this subchapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
+
+(b)
+
+Information as to Availability of Outreach Services for Dependents.—The Secretary shall ensure that the availability of outreach services and assistance for eligible dependents under this subchapter is made known through a variety of means, including the Internet, announcements in veterans publications, and announcements to the media.
+
+(Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 410, §6307; amended Pub. L. 117–205, §2(b)(2), Oct. 17, 2022, 136 Stat. 2233; renumbered §6308, Pub. L. 118–210, title III, §302(a)(1), Jan. 2, 2025, 138 Stat. 2789.)
+
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+A prior section 6308 was renumbered section 6309 of this title.
+
+Provisions similar to those in this section were contained in section 7727 of this title prior to repeal by Pub. L. 109–233.
+
+#### Amendments
+
+<b>2025</b>—Pub. L. 118–210 renumbered section 6307 of this title as this section.
+
+<b>2022</b>—Pub. L. 117–205 substituted "this subchapter" for "this chapter" in subsecs. (a) and (b).
+

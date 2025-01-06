@@ -80,7 +80,7 @@ Subsec. (b)(1). Pub. L. 117–58, §40401(d)(2), struck out "to West Coast State
 
 Subsec. (g)(4). Pub. L. 117–58, §40401(d)(3), substituted "plants, liquification plants, and" for "plants liquification plants and" and struck out "to the West Coast" after "southcentral Alaska" and "to the continental United States" after "Alaska North Slope".
 
-<b>2004</b>—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed the amendment of subsec. (a) by inserting "or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States," before "to issue", was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed theamendment of subsec. (a) by inserting "or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States," before "to issue", was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub.L. 108–199, §146(2), as amended by Pub. L. 108–447, §114(1)–(3), inserted before period at end ", or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project".
 

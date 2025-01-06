@@ -6,7 +6,7 @@ In General.—The Administrator of General Services shall discontinue a motor ve
 
 (b)
 
-Return of Comparable Property.—If a motor vehicle pool or system is discontinued,the Administrator shall return to each agency involved motor vehicles and related equipment and supplies similar in kind and reasonably comparable in value to any motor vehicles and related equipment and supplies which were previously taken over by the Administrator.
+Return of Comparable Property.—If a motor vehicle pool or system is discontinued, the Administrator shall return to each agency involved motor vehicles and related equipment and supplies similar in kind and reasonably comparable in value to any motor vehicles and related equipment and supplies which were previously taken over by the Administrator.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1124.)
 

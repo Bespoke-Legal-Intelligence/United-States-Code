@@ -64,7 +64,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(ii) to make it possible for a child to safely return to the child's home;
 
-&emsp;&emsp;(C) if continuation of reasonable efforts of the type described in subparagraph (B) is determined to be inconsistent with the permanency plan for the child, reasonable efforts shall be made to place the child in a timely manner in accordance with the permanency plan (including, if appropriate, through an interstate placement), and to complete whatever steps are necessary to finalize the permanent placement of the child;
+&emsp;&emsp;(C) if continuation of reasonable efforts of the type described in subparagraph (B) is determined to be inconsistent with the permanency plan for the child, reasonable efforts shall be made to place the child in a timelymanner in accordance with the permanency plan (including, if appropriate, through an interstate placement), and to complete whatever steps are necessary to finalize the permanent placement of the child;
 
 &emsp;&emsp;(D) reasonable efforts of the type described in subparagraph (B) shall not be required to be made with respect to a parent of a child if a court of competent jurisdiction has determined that—
 
@@ -82,7 +82,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(iii) the parental rights of the parent to a sibling have been terminated involuntarily;
 
-&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not madewith respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
+&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not made with respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
 
 &emsp;&emsp;&emsp;(i) a permanency hearing (as described in section 675(5)(C) of this title), which considers in-State and out-of-State permanent placement options for the child, shall be held for the child within 30 days after the determination; and
 
@@ -138,7 +138,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness;
 
-&emsp;(24) includes a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, that the preparation will be continued, as necessary, after the placement of the child, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities;
+&emsp;(24) includes a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, that the preparation will be continued, as necessary, after the placement of the child, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportationfor the child to and from extracurricular, enrichment, and social activities;
 
 &emsp;(25) provides that the State shall have in effect procedures for the orderly and timely interstate placement of children, which, in the case of a State other than the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, or American Samoa, not later than October 1, 2027, shall include the use of an electronic interstate case-processing system; and procedures implemented in accordance with an interstate compact, if incorporating with the procedures prescribed by paragraph (26), shall be considered to satisfy the requirement of this paragraph;
 
@@ -190,7 +190,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(32) provides that the State will negotiate in good faith with any Indian tribe, tribal organization or tribal consortium in the State that requests to develop an agreement with the State to administer all or part of the program under this part on behalf of Indian children who are under the authority of the tribe, organization, or consortium, including foster care maintenance payments on behalf of children who are placed in State or tribally licensed foster family homes, adoption assistance payments, and, if the State has elected to provide such payments, kinship guardianship assistance payments under section 673(d) of this title, and tribal access to resources for administration, training, and data collection under this part;
 
-&emsp;(33) provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a childwho is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986;
+&emsp;(33) provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a child who is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986;
 
 &emsp;(34) provides that, for each child or youth described in paragraph (9)(C)(i)(I), the State agency shall—
 
@@ -224,7 +224,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) whether the State has elected to waive standards established in 671(a)(10)(A) <sup>3</sup> of this title for relative foster family homes (pursuant to waiver authority provided by 671(a)(10)(D) <sup>3</sup> of this title), a description of which standards the State most commonly waives, and if the State has not elected to waive the standards, the reason for not waiving these standards;
 
-&emsp;&emsp;(C) if the State has elected to waive standards specified in subparagraph (B), how caseworkers are trained to use the waiver authority and whether the State has developed a process or provided tools to assist caseworkers in waiving nonsafety standards per the authority provided in 671(a)(10)(D) <sup>3</sup> of this title to quickly place children with relatives; and
+&emsp;&emsp;(C) if the State has elected to waive standards specified in subparagraph (B), how caseworkers are trained to use the waiver authority and whether the State has developed a process or provided tools to assist caseworkers in waiving nonsafety standards perthe authority provided in 671(a)(10)(D) <sup>3</sup> of this title to quickly place children with relatives; and
 
 &emsp;&emsp;(D) a description of the steps the State is taking to improve caseworker training or the process, if any; and
 
@@ -320,7 +320,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 &emsp;&emsp;&emsp;&emsp;(II) There is no empirical basis suggesting that, compared to its likely benefits, the practice constitutes a risk of harm to those receiving it.
 
-&emsp;&emsp;&emsp;&emsp;(III) If multiple outcome studies have been conducted, the overall weight ofevidence supports the benefits of the practice.
+&emsp;&emsp;&emsp;&emsp;(III) If multiple outcome studies have been conducted, the overall weight of evidence supports the benefits of the practice.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Outcome measures are reliable and valid, and are administrated consistently and accurately across all those receiving the practice.
 
@@ -486,7 +486,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 #### (D) Determination of prevention services and activities
 
-&emsp;&emsp;The Secretary shall require each State that elects to provide services and programs specified in paragraph (1) to report the expenditures specified in subparagraph (B) for fiscal year 2014 and for such fiscal years thereafter as are necessary to determine whether the State is complying with the maintenance of effort requirement in subparagraph (A). The Secretary shall specify the specific services and activities under each program referred to in subparagraph (B) that are "prevention services and activities" for purposes of the reports.
+&emsp;&emsp;The Secretary shall require each State that elects to provide services and programs specified in paragraph (1) to report the expenditures specified in subparagraph (B) for fiscal year 2014 and for such fiscal years thereafter as are necessary to determine whether the State is complying with themaintenance of effort requirement in subparagraph (A). The Secretary shall specify the specific services and activities under each program referred to in subparagraph (B) that are "prevention services and activities" for purposes of the reports.
 
 #### (E) State described
 
@@ -508,7 +508,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 #### (A) In general
 
-&emsp;&emsp;The provision of services or programs under this subsection to or on behalf of a child described in paragraph (2) shall not be considered to be receipt of aid or assistance under the State plan under this part for purposes of eligibility for any other program established under this chapter, nor shall the provision of such services or programs beconstrued to permit the State to reduce medical or other assistance available to a recipient of such services or programs.
+&emsp;&emsp;The provision of services or programs under this subsection to or on behalf of a child described in paragraph (2) shall not be considered to be receipt of aid or assistance under the State plan under this part for purposes of eligibility for any other program established under this chapter, nor shall the provision of such services or programs be construed to permit the State to reduce medical or other assistance available to a recipient of such services or programs.
 
 #### (B) Candidates in kinship care
 
@@ -640,7 +640,7 @@ Subsec. (a)(17). Pub. L. 105–33, §5591(b)(1), struck out "and" at end.
 
 Subsec. (a)(18). Pub. L. 105–33, §5591(b)(3), redesignated par. (18), relating to preference to adult relatives, as (19).
 
-Pub. L. 105–33, §5591(b)(2), substituted "; and" for period at end of par. (18) relating to denial or delay ofadoption or foster care on basis of race, color, or national origin.
+Pub. L. 105–33, §5591(b)(2), substituted "; and" for period at end of par. (18) relating to denial or delay of adoption or foster care on basis of race, color, or national origin.
 
 Subsec. (a)(19). Pub. L. 105–33, §5591(b)(3), redesignated par. (18), relating to preference to adult relatives, as (19).
 
@@ -690,7 +690,7 @@ Delay if state legislation required.—In the case of a State plan under part E 
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–271, title VIII, §8082(c), Oct. 24, 2018, 132 Stat. 4102, provided that: "The amendments made by subsection (b) \[amending this section\] shall take effect as if included in section 50711 of division E of Public Law 115–123."
+Pub. L. 115–271, title VIII, §8082(c), Oct. 24, 2018, 132 Stat. 4102, provided that: "The amendments made bysubsection (b) \[amending this section\] shall take effect as if included in section 50711 of division E of Public Law 115–123."
 
 Amendment by Pub. L. 115–165 applicable with respect to months beginning on or after 1 year after Apr. 13, 2018, with exception if State legislation required, see section 103(a)(4) of Pub. L. 115–165, set out as a note under section 405 of this title.
 
@@ -714,7 +714,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
-Amendment by section 112 of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, with delaypermitted if State legislation is required, see section 112(c) of Pub. L. 113–183, set out as a note under section 622 of this title.
+Amendment by section 112 of Pub. L. 113–183 effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see section 112(c) of Pub. L. 113–183, set out as a note under section 622 of this title.
 
 Pub. L. 113–183, title II, §210, Sept. 29, 2014, 128 Stat. 1941, provided that:
 
@@ -784,7 +784,7 @@ In General.—Except as otherwise provided in this Act \[see Short Title of 2008
 
 "(b)
 
-Delay Permitted if State Legislation Required.—In the case of a State plan approved under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Delay Permitted if State Legislation Required.—In the case of a State plan approved under part B or E of title IV of the Social Security Act \[42U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2006 Amendment
 
@@ -802,7 +802,7 @@ Elimination of opt-out.—The amendments made by subsection (b) \[amending this 
 
 "(3)
 
-Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 471 of the Social Security Act \[42 U.S.C. 671\] to meet the additional requirements imposed by the amendments made by a subsection of this section, the plan shall not be regarded as failing tomeet any of the additional requirements before the first day of the first calendar quarter beginning after the first regular session of the State legislature that begins after the otherwise applicable effective date of the amendments. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Delay permitted if state legislation required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 471 of the Social Security Act \[42 U.S.C. 671\] to meet the additional requirements imposed by the amendments made by a subsection of this section, the plan shall not be regarded as failing to meet any of the additional requirements before the first day of the first calendar quarter beginning after the first regular session of the State legislature that begins after the otherwise applicable effective date of the amendments. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 Amendment by Pub. L. 109–239 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after Oct. 1, 2006, without regard to whether regulations have been promulgated by Oct. 1, 2006, and with delay permitted if State legislation is required, see section 14 of Pub. L. 109–239, set out as a note under section 622 of this title.
 
@@ -850,7 +850,7 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 "(b)
 
-Special Rules.—(1)(A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[42 U.S.C. 602\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[42 U.S.C. 671 note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
+Special Rules.—(1)(A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[42 U.S.C. 602\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[42 U.S.C. 671 note\] (or, if earlier, the date on which such regulations are required to be published under such section)and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
 
 "(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[42 U.S.C. 603(k)(2)\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined with respect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
 
@@ -872,7 +872,7 @@ Amendment by Pub. L. 97–248 effective Oct. 1, 1981, see section 160(e) of Pub.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 ofPub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 #### Regulations
 
@@ -908,7 +908,7 @@ Pub. L. 113–183, title II, §209(b), Sept. 29, 2014, 128 Stat. 1941, provided 
 
 Pub. L. 110–351, title III, §301(d), Oct. 7, 2008, 122 Stat. 3970, provided that: "Nothing in the amendments made by this section \[enacting section 679c of this title and amending this section and sections 672, 674, and 677 of this title\] shall be construed as—
 
-&emsp;"(1) authorization to terminate funding on behalf of any Indian child receiving foster care maintenance payments or adoption assistance payments on the date of enactment of this Act \[Oct. 7, 2008\] and for which the State receives Federal matching payments under paragraph (1) or (2) of section 474(a) of the Social Security Act (42 U.S.C. 674(a)), regardless of whether a cooperative agreement or contract between the State and an Indian tribe, tribal organization, or tribal consortium is in effect on such date or an Indian tribe, tribal organization, or tribal consortium elects subsequent to such date to operate a program under section 479B of such Act \[42 U.S.C. 679c\] (as added by subsection (a) of this section); or
+&emsp;"(1) authorization to terminate funding on behalf of any Indian child receiving foster care maintenance payments or adoption assistance payments on thedate of enactment of this Act \[Oct. 7, 2008\] and for which the State receives Federal matching payments under paragraph (1) or (2) of section 474(a) of the Social Security Act (42 U.S.C. 674(a)), regardless of whether a cooperative agreement or contract between the State and an Indian tribe, tribal organization, or tribal consortium is in effect on such date or an Indian tribe, tribal organization, or tribal consortium elects subsequent to such date to operate a program under section 479B of such Act \[42 U.S.C. 679c\] (as added by subsection (a) of this section); or
 
 &emsp;"(2) affecting the responsibility of a State—
 
@@ -922,7 +922,7 @@ Pub. L. 116–260, div. X, §4, Dec. 27, 2020, 134 Stat. 2411, provided that:
 
 "(a)
 
-Addressing Foster Care Age Restrictions During the Pandemic.—A State operating a program under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] may not require a child who is in foster care under the responsibility of the State to leave foster care solely by reason of the child's age. A child may not be found ineligible for foster care maintenance payments under section 472 of such Act \[42 U.S.C. 672\] solely due to the age of the child or the failure of thechild to meet a condition of section 475(8)(B)(iv) of such Act \[42 U.S.C. 675(8)(B)(iv)\] before October 1, 2021.
+Addressing Foster Care Age Restrictions During the Pandemic.—A State operating a program under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] may not require a child who is in foster care under the responsibility of the State to leave foster care solely by reason of the child's age. A child may not be found ineligible for foster care maintenance payments under section 472 of such Act \[42 U.S.C. 672\] solely due to the age of the child or the failure of the child to meet a condition of section 475(8)(B)(iv) of such Act \[42 U.S.C. 675(8)(B)(iv)\] before October 1, 2021.
 
 "(b)
 

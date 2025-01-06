@@ -28,7 +28,7 @@ The Secretary shall use the data collected through the conduct of the inspection
 
 #### (1) Authority of Secretary to provide technical assistance
 
-&emsp;The Secretary is authorized, at the request of a transferred works operating entity in proximity to an urbanized area, to provide technical assistance to accomplish the following, if consistent with existing transfer contracts:
+&emsp;The Secretary is authorized, at the request of a transferred works operating entity in proximity to an urbanized area, to providetechnical assistance to accomplish the following, if consistent with existing transfer contracts:
 
 &emsp;&emsp;(A) Development of documented operating procedures for a project facility.
 

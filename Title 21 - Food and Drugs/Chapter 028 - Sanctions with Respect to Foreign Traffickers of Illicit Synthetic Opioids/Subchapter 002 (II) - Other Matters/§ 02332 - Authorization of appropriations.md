@@ -38,5 +38,5 @@ Sections 1403, 4501, and section 7221, referred to in subsec. (b), mean sections
 
 #### Change of Name
 
-Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight andAccountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 

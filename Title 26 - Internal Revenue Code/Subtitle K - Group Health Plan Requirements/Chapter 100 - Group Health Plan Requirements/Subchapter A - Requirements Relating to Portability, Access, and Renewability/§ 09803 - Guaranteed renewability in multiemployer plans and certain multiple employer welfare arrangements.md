@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A group health plan which is a multiemployer plan (as defined in section 414(f)) or which is a multiple employer welfare arrangement may not deny an employer continued access to the sameor different coverage under such plan, other than—
+A group health plan which is a multiemployer plan (as defined in section 414(f)) or which is a multiple employer welfare arrangement may not deny an employer continued access to the same or different coverage under such plan, other than—
 
 &emsp;(1) for nonpayment of contributions;
 

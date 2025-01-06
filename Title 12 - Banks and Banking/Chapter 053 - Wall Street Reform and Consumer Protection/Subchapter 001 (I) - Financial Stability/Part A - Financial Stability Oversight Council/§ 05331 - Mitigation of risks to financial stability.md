@@ -12,7 +12,7 @@ If the Board of Governors determines that a bank holding company with total cons
 
 &emsp;(4) impose conditions on the manner in which the company conducts 1 or more activities; or
 
-&emsp;(5) if the Board of Governors determines that the actions described in paragraphs (1) through (4) are inadequate to mitigate a threat to the financial stability of the United States in its recommendation, require the company to sell or otherwise transfer assets or off-balance-sheet items to unaffiliated entities.
+&emsp;(5) if the Board of Governors determines that the actions described in paragraphs (1) through (4) are inadequate to mitigate a threat to the financial stability of the United States in its recommendation, require the company to sell or otherwise transfer assets oroff-balance-sheet items to unaffiliated entities.
 
 #### (b) Notice and hearing
 

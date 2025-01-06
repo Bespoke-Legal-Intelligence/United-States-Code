@@ -72,7 +72,7 @@ Nothing in this section authorizes the use of the Public Lands Corps for project
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(2), was in the original "this Act", and was translated as reading"this title", meaning title II of Pub. L. 91–378, known as the Public Lands Corps Act of 1993, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (a)(2), was in the original "this Act", and was translated as reading "this title", meaning title II of Pub. L. 91–378, known as the Public Lands Corps Act of 1993, to reflect the probable intent of Congress.
 
 #### Amendments
 

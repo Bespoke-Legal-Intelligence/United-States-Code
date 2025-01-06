@@ -24,7 +24,7 @@ The Corporation, as receiver—
 
 &emsp;(3) shall consult with the primary financial regulatory agency or agencies of any subsidiaries of the covered financial company that are not covered subsidiaries, and coordinate with such regulators regarding the treatment of such solvent subsidiaries and the separate resolution of any such insolvent subsidiaries under other governmental authority, as appropriate; and
 
-&emsp;(4) shall consult with the Commission and the Securities Investor Protection Corporation in the case of any covered financial company for which the Corporation has been appointed as receiver that is a broker or dealer registered with the Commission under section 78o(b) of title 15 and is a member of the Securities Investor Protection Corporation, for the purpose of determining whether to transfer to a bridge financial company organized by the Corporation as receiver, without consent of any customer, customer accounts of the covered financial company.
+&emsp;(4) shall consult with the Commission and the Securities Investor Protection Corporation in the case of any covered financial company for which the Corporation has been appointed as receiver that is a broker or dealer registered with the Commission under section 78o(b) of title 15 and is a member of the Securities Investor Protection Corporation, for the purpose of determining whether to transfer toa bridge financial company organized by the Corporation as receiver, without consent of any customer, customer accounts of the covered financial company.
 
 #### (d) Funding for orderly liquidation
 

@@ -48,7 +48,7 @@ A willful refusal to comply, in whole in or in part, with any request by the Com
 
 #### (f) Other means of satisfying production obligations
 
-Notwithstanding any other provisions of this section, the staff of the Commission or theBoard may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
+Notwithstanding any other provisions of this section, the staff of the Commission or the Board may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
 
 #### (g) Definition
 

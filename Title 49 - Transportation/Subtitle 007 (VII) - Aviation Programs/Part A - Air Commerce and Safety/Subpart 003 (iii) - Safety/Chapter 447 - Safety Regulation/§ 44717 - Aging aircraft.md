@@ -36,7 +36,7 @@ Aircraft Maintenance Safety Programs.—The Administrator shall establish—
 
 Foreign Air Transportation.—(1) The Administrator shall take all possible steps to encourage governments of foreign countries and relevant international organizations to develop standards and requirements for inspections and reviews that—
 
-&emsp;(A) will ensure the continuing airworthiness of aging aircraft used by foreign air carriers to provide foreign air transportation to and from the United States; and
+&emsp;(A) will ensure the continuing airworthiness of aging aircraft used by foreign air carriers toprovide foreign air transportation to and from the United States; and
 
 &emsp;(B) will provide passengers of those foreign air carriers with the same level of safety that will be provided passengers of air carriers by carrying out this section.
 

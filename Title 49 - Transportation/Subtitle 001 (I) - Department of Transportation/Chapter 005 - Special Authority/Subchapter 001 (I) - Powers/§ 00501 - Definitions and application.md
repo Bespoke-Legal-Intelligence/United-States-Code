@@ -10,7 +10,7 @@
 
 (b)
 
-Application.—This chapter only applies in carrying out sections 20302(a)(1)(B) and (C), (2),and (3), (c), and (d)(1) and 20303 and chapters 205 (except section 20504(b)), 211, 213 (in carrying out those sections and chapters), and 315 of this title.
+Application.—This chapter only applies in carrying out sections 20302(a)(1)(B) and (C), (2), and (3), (c), and (d)(1) and 20303 and chapters 205 (except section 20504(b)), 211, 213 (in carrying out those sections and chapters), and 315 of this title.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2431; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 102–548, §2(c), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(A), 5(m)(9), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–88, title III, §308(c)(2), Dec. 29, 1995, 109 Stat. 947.)
 

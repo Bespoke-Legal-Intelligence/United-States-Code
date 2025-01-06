@@ -146,11 +146,11 @@ Service acquisition portfolio groups.—The term "service acquisition portfolio 
 
 &emsp;(6)
 
-Staff augmentation contracts.—The term "staff augmentation contracts" means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency's missions, including authorized personal services contracts (as that term is defined in section 4505(g)(5) <sup>1</sup> of this title).
+Staff augmentation contracts.—The term "staff augmentation contracts" means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency's missions, including authorized personal services contracts.
 
 &emsp;(7)
 
-Simplified acquisition threshold.—The term "simplified acquisition threshold" hasthe meaning given the term in section 134 of title 41.
+Simplified acquisition threshold.—The term "simplified acquisition threshold" has the meaning given the term in section 134 of title 41.
 
 &emsp;(8)
 
@@ -160,7 +160,7 @@ Small business act definitions.—
 
 &emsp;&emsp;(B) The terms "small business concern owned and controlled by socially and economically disadvantaged individuals" and "small business concern owned and controlled by women" have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176, §2330a; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, §819, Aug. 13, 2018, 132 Stat. 1853; renumbered §4505 and amended Pub. L. 116–283, div. A, title XVIII, §§1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(19)(B), (d)(13), Dec. 27, 2021, 135 Stat. 2135, 2137.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176, §2330a; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, §819, Aug. 13, 2018, 132 Stat. 1853; renumbered §4505 and amended Pub. L. 116–283, div. A, title XVIII, §§1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(19)(B), (d)(13), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 118–159, div. A, title XVII, §1701(a)(40), Dec. 23, 2024, 138 Stat. 2206.)
 
 #### <b>Editorial Notes</b>
 
@@ -168,13 +168,13 @@ Small business act definitions.—
 
 Section 235 of this title, referred to in subsec. (e)(3), was repealed by Pub. L. 117–81, div. A, title VIII, §815(b)(1), Dec. 27, 2021, 135 Stat 1825.
 
-Section 4505(g)(5) of this title, referred to in subsec. (h)(6), meaning subsec. (g)(5) of this section, was redesignated through a series of amendments as subsec. (h)(4) of this section.
-
 #### Prior Provisions
 
 A prior section 4505, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to procurement by Secretary of the Army of production equipment, was repealed by Pub. L. 103–160, div. A, title VIII, §823(1), Nov. 30, 1993, 107 Stat. 1707.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (h)(6). Pub. L. 118–159 struck out "(as that term is defined in section 4505(g)(5) of this title)" after "personal services contracts".
 
 <b>2021</b>—Pub. L. 116–283, §1856(g), renumbered section 2330a of this title as this section.
 
@@ -232,7 +232,7 @@ Subsec. (f). Pub. L. 114–328, §812(f), added subsec. (f). Former subsec. (f) 
 
 Subsecs. (g), (h). Pub. L. 114–328, §812(d), redesignated subsecs. (i) and (j) as (g) and (h), respectively, and struck out former subsecs. (g) and (h) which related to Inspector General reports and Comptroller General reports, respectively.
 
-Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled bysocially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
+Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled by socially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
 
 Subsec. (h)(3), (4). Pub. L. 114–328, §833(b)(2)(C)(ii)(II), as amended by Pub. L. 115–91, §1081(d)(6)(A), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
@@ -258,7 +258,7 @@ Subsec. (c)(1)(B). Pub. L. 112–81, §936(a)(3), inserted "for requirements rel
 
 Subsec. (c)(2), (3). Pub. L. 111–383, §321(1), redesignated par. (2) as (3).
 
-Subsec. (e)(2) to (4). Pub. L. 112–81, §936(b), inserted "and" at end of par. (2), substituted period for "; and" at end of par. (3), and struck out par. (4) which read as follows: "develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time."
+Subsec. (e)(2) to (4). Pub. L. 112–81, §936(b), inserted "and" at end of par. (2), substituted period for "; and" at end of par. (3), and struck out par. (4) which read as follows: "develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activitiesidentified under paragraph (3) within a reasonable period of time."
 
 Subsec. (f) to (h). Pub. L. 112–81, §936(c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 

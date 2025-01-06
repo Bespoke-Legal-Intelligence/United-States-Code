@@ -62,5 +62,5 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to courtorder or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 

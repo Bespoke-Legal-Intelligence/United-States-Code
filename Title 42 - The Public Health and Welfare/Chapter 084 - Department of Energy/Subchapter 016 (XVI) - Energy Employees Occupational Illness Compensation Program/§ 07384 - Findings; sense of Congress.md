@@ -124,7 +124,7 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–398, the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\] (Public Law 106–398, the "Act"), and to allocate the responsibilities imposed by that legislation and to provide for further legislative efforts, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including Public Law 106–398, the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\] (Public Law 106–398, the "Act"), and to allocate the responsibilities imposed by that legislation and to provide for further legislative efforts, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
 
@@ -170,7 +170,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (iv) Designate, pursuant to sections 3621(4)(B) and 3622 of the Act \[42 U.S.C. 7384l(4)(B), 7384m\], atomic weapons employers and additions to the list of designated beryllium vendors;
 
-(v) Pursuant to Subtitle D of the Act \[42 U.S.C. 7385o\], negotiate agreements with the chief executive officer of each State in which there is a DOE facility, and other States as appropriate, to provide assistance to a DOE contractor employee on filing a State workers' compensation system claim, and establish a Worker Assistance Program to help individuals whose illness is related to employment in the DOE's nuclear weaponscomplex, or the individual's survivor if the individual is deceased, in applying for State workers' compensation benefits. This assistance shall include:
+(v) Pursuant to Subtitle D of the Act \[42 U.S.C. 7385o\], negotiate agreements with the chief executive officer of each State in which there is a DOE facility, and other States as appropriate, to provide assistance to a DOE contractor employee on filing a State workers' compensation system claim, and establish a Worker Assistance Program to help individuals whose illness is related to employment in the DOE's nuclear weapons complex, or the individual's survivor if the individual is deceased, in applying for State workers' compensation benefits. This assistance shall include:
 
 (1) Submittal of reasonable claims to a physician panel, appointed by the Secretary of Health and Human Services and administered by the Secretary of Energy, under procedures established by the Secretary of Energy, for determination of whether the individual's illness or death arose out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility; and
 

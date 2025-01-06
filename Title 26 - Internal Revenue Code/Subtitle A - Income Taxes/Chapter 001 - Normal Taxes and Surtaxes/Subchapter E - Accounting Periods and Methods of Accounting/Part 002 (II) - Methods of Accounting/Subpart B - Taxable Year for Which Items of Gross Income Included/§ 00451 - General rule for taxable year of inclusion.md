@@ -26,7 +26,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (C) All events test
 
-&emsp;&emsp;For purposes of this section, the all events test is met with respect to any item of gross income if all the events have occurred whichfix the right to receive such income and the amount of such income can be determined with reasonable accuracy.
+&emsp;&emsp;For purposes of this section, the all events test is met with respect to any item of gross income if all the events have occurred which fix the right to receive such income and the amount of such income can be determined with reasonable accuracy.
 
 #### (2) Coordination with special methods of accounting
 
@@ -134,7 +134,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (d) Special rule in case of death
 
-In the case of the death of a taxpayer whose taxable income is computed under an accrual method of accounting, any amount accrued only by reason of the death of the taxpayer shall not be included in computing taxable income for the period in which falls the date of the taxpayer's death.
+In the case of the death of a taxpayer whose taxable income is computed under an accrualmethod of accounting, any amount accrued only by reason of the death of the taxpayer shall not be included in computing taxable income for the period in which falls the date of the taxpayer's death.
 
 #### (e) Special rule for employee tips
 
@@ -192,7 +192,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (1) In general
 
-&emsp;In the case of interest credited during any calendar year on a frozen deposit in a qualifiedfinancial institution, the amount of such interest includible in the gross income of a qualified individual shall not exceed the sum of—
+&emsp;In the case of interest credited during any calendar year on a frozen deposit in a qualified financial institution, the amount of such interest includible in the gross income of a qualified individual shall not exceed the sum of—
 
 &emsp;&emsp;(A) the net amount withdrawn by such individual from such deposit during such calendar year, and
 
@@ -212,7 +212,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;(A) the bankruptcy or insolvency of the qualified financial institution (or threat thereof), or
 
-&emsp;&emsp;(B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (or threat thereof) of 1 or more financial institutions in the State.
+&emsp;&emsp;(B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (orthreat thereof) of 1 or more financial institutions in the State.
 
 #### (5) Other definitions
 
@@ -352,13 +352,13 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct.22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–97, title I, §13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115; Pub. L. 115–123, div. D, title I, §40414(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §132(a), Dec. 20, 2019, 133 Stat. 3233.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–97, title I, §13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115; Pub. L. 115–123, div. D, title I, §40414(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §132(a), Dec. 20, 2019, 133 Stat. 3233.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Agricultural Act of 1949, as amended, referred to in subsec. (f), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, as amended, referred to in subsec. (f), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 The Disaster Assistance Act of 1988, referred to in subsec. (f), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under section 1421 of Title 7. For complete classification of this Act to the Code, see Tables.
 
@@ -460,7 +460,7 @@ Special Rules for Original Issue Discount.—Notwithstanding subsection (c), in 
 
 &emsp;"(1) the amendments made by this section shall apply to taxable years beginning after December 31, 2018, and
 
-&emsp;"(2) the period for taking into account any adjustments under section 481 by reason of a qualifiedchange in method of accounting (as defined in subsection (d)) shall be 6 years."
+&emsp;"(2) the period for taking into account any adjustments under section 481 by reason of a qualified change in method of accounting (as defined in subsection (d)) shall be 6 years."
 
 #### Effective Date of 2015 Amendment
 
@@ -592,7 +592,7 @@ Amendment by Pub. L. 89–97 applicable only with respect to tips received by em
 
 #### Tax Treatment of Incentive Payment
 
-Voluntary separation incentives paid to members of Armed Forces under 10 U.S.C. 1175 as includable in gross income only for taxable year in which incentive is paid, see section 662(b) of Pub. L. 102–190, set out as a note under section 1175 of Title 10, Armed Forces.
+Voluntary separation incentives paid to members of Armed Forces under 10 U.S.C. 1175 as includable in gross income only for taxable year in which incentiveis paid, see section 662(b) of Pub. L. 102–190, set out as a note under section 1175 of Title 10, Armed Forces.
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
@@ -687,7 +687,7 @@ Applicable percentage.—For purposes of subparagraph (A), the applicable percen
 | <b> "If the taxable year begins in  calendar year:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
 | 1983 | 331/3&nbsp;&nbsp; |
-| 1984 | 662/3   |
+| 1984 | 662/3&nbsp;&nbsp; |
 | 1985 or thereafter | 100\. |
 
 &emsp;"(3)
@@ -718,7 +718,7 @@ Pub. L. 95–600, title I, §132, Nov. 6, 1978, 92 Stat. 2782, as amended by Pub
 
 "(a)
 
-General Rule.—The taxable year of inclusion in gross income of any amount covered by a private deferred compensation plan shall be determined in accordance with the principles set forth in regulations, rulings, and judicial decisions relating to deferred compensation which were in effect on February 1, 1978.
+General Rule.—The taxable year of inclusion in gross income of any amount covered by a private deferred compensation plan shall be determined in accordance with the principles set forth in regulations,rulings, and judicial decisions relating to deferred compensation which were in effect on February 1, 1978.
 
 "(b)
 

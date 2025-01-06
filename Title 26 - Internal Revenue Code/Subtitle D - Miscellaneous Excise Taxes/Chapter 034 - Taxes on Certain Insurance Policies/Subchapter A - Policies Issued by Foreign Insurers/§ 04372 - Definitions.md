@@ -18,7 +18,7 @@ For purposes of section 4371(1), the term "insured" means—
 
 &emsp;(1) a domestic corporation or partnership, or an individual resident of the United States, against, or with respect to, hazards, risks, losses, or liabilities wholly or partly within the United States, or
 
-&emsp;(2) a foreign corporation, foreign partnership, or nonresident individual, engaged in a trade or business within the United States, against, or with respect to, hazards, risks, losses, or liabilities within the United States.
+&emsp;(2) a foreign corporation, foreign partnership, or nonresident individual, engaged in atrade or business within the United States, against, or with respect to, hazards, risks, losses, or liabilities within the United States.
 
 #### (e) Policy of life, sickness, or accident insurance, or annuity contract
 

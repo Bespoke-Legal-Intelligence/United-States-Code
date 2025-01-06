@@ -34,7 +34,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Eligibility policies
 
-&emsp;&emsp;Medicaid and CHIP eligibility policies, including a determination of the degree towhich Federal and State policies provide health care coverage to needy populations.
+&emsp;&emsp;Medicaid and CHIP eligibility policies, including a determination of the degree to which Federal and State policies provide health care coverage to needy populations.
 
 #### (C) Enrollment and retention processes
 
@@ -102,7 +102,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;&emsp;&emsp;(II) Data relating to the amount and sources of hospitals' uncompensated care costs, including the amount of such costs that are the result of providing unreimbursed or under-reimbursed services, charity care, or bad debt.
 
-&emsp;&emsp;&emsp;&emsp;(III) Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured,and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
+&emsp;&emsp;&emsp;&emsp;(III) Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured, and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
 
 &emsp;&emsp;&emsp;&emsp;(IV) State-specific analyses regarding the relationship between the most recent State DSH allotment and the projected State DSH allotment for the succeeding year and the data reported under subclauses (I), (II), and (III) for the State.
 
@@ -128,7 +128,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (10) Examination of budget consequences
 
-&emsp;Before making any recommendations, MACPAC shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities, and shall submit with any recommendations, a report on the Federal and State-specific budget consequences of the recommendations.
+&emsp;Before making any recommendations, MACPAC shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities, and shall submit with any recommendations, a report on the Federal andState-specific budget consequences of the recommendations.
 
 #### (11) Consultation and coordination with MEDPAC
 
@@ -330,7 +330,7 @@ General Effective Date.—Unless otherwise provided in this Act \[enacting this 
 
 "(b)
 
-Exception for State Legislation.—In the case of a State plan under title XIX \[42 U.S.C. 1396 et seq.\] or State child health plan under \[title\] XXI \[42 U.S.C. 1397aa et seq.\] of the Social Security Act, which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet one or more additional requirements imposed by amendments made by this Act, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 4, 2009\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
+Exception for State Legislation.—In the case of a State plan under title XIX \[42 U.S.C. 1396 et seq.\] or State child health plan under \[title\] XXI \[42 U.S.C. 1397aa et seq.\] of the Social Security Act, which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet one or more additional requirements imposed by amendments made by this Act, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning afterthe close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 4, 2009\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
 
 "(c)
 
@@ -347,6 +347,44 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 &emsp;"(1) such amendments are effective as of such date whether or not regulations implementing such amendments have been issued; and
 
 &emsp;"(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance."
+
+#### Think Differently Database
+
+Pub. L. 118–225, Jan. 4, 2025, 138 Stat. 2817, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Think Differently Database Act'.
+
+#### "SEC. 2. PROMOTING AWARENESS OF AVAILABLE RESOURCES FOR INDIVIDUALS WITH DISABILITIES.
+
+"(a)
+
+In General.—Not later than 3 years after the date of the enactment of this Act \[Jan. 4, 2025\], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall establish and update periodically a publicly available website to provide information with respect to resources and information for people with a disability and the caregivers and families of such people. Such website shall include—
+
+&emsp;"(1) information on eligibility to receive medical assistance under a State plan under the Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (or a waiver of such plan) based on a disability, including general information about eligibility under subclauses (XIII), (XV), (XVI), and (XIX) of section 1902(a)(10)(A)(ii) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)(ii));
+
+&emsp;"(2) which States offer eligibility under subclauses (XIII), (XV), (XVI), and (XIX) of section 1902(a)(10)(A)(ii) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)(ii));
+
+&emsp;"(3) each State's specific eligibility requirements, if applicable, under subclauses (XIII), (XV), (XVI), and (XIX) of section 1902(a)(10)(A)(ii) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)(ii));
+
+&emsp;"(4) information about how to contact each State's Medicaid office for information about Medicaid, including links and phone numbers for State contacts;
+
+&emsp;"(5) general information on Medicaid-covered long-term services and supports that may be available to individuals eligible for medical assistance under a State plan under the Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (or a waiver of such plan); and
+
+&emsp;"(6) where applicable, the average amount of time that individuals newly enrolled in a State's waiver program for home and community-based services in the past 12 months were on the list of individuals waiting to enroll in such waiver program, in such a manner and process as described in section 441.311(d)(1)(iii) of title 42, Code of Federal Regulations.
+
+"(b)
+
+Promotion.—The Secretary shall, as applicable and appropriate, identify and disseminate promotional activities to improve, among people with a disability and the caretakers and families of such people, the awareness of the resources included in the website established under subsection (a), such as through collaboration with the Social Security Administration during its annual updates to the Red Book.
+
+"(c)
+
+Model.—In establishing the website under this section, the Secretary may use the website thinkdifferently.net as a model.
+
+"(d)
+
+Nonapplication of Paperwork Reduction Act.—Chapter 35 of title 44, United States Code (commonly referred to as the 'Paperwork Reduction Act of 1995'), shall not apply to the implementation of this section."
 
 #### Purpose
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) The mortgagee of each mortgage filed or recorded under section 31321 of this title that is an undischarged mortgage on the vessel.
 
-(2) A declaration under this subsection filed by a person that is not an individual must be signedby the president, member, partner, trustee, or other individual authorized to execute the declaration on behalf of the person.
+(2) A declaration under this subsection filed by a person that is not an individual must be signed by the president, member, partner, trustee, or other individual authorized to execute the declaration on behalf of the person.
 
 (c)(1) On full and final discharge of the indebtedness that is the basis for a notice of claim of lien recorded under subsection (b) of this section, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
 
@@ -52,7 +52,7 @@ Historical and Revision Notes
 
 Section 31343 provides that any person claiming a lien on a vessel covered by a preferred mortgage may record a notice of lien. This notice must state the nature of the lien, date it was established; the amount; and the name and address of the person claiming a lien, and it must be acknowledged. The Secretary must record a notice of lien if it complies with these requirements. When any part of the indebtedness is discharged, the claimant shall provide the Secretary with a written, acknowledged certificate of discharge of the indebtedness, and the Secretary shall record the certificate. This section makes no substantive change to law.
 
-Section 31343(c) provides that, on the full and final discharge of an indebtedness that is the basis for a claim, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge on the request of the Secretary or owner of the vessel. This subsection makes a substantive change to law by not requiring partial discharges to be filed, as well as making the filing of discharge certificates only at the request of the Secretary or owner of the vessel.
+Section 31343(c) provides that, on the full and final discharge of an indebtedness that is the basis for aclaim, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge on the request of the Secretary or owner of the vessel. This subsection makes a substantive change to law by not requiring partial discharges to be filed, as well as making the filing of discharge certificates only at the request of the Secretary or owner of the vessel.
 
 #### house floor statement
 

@@ -38,7 +38,7 @@
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92, §501(1), substituted "October 1, 2015, and ending on October 1, 2019" for "November 30, 1993, and ending on October 1, 1999".
 
-Subsec. (c)(3) to (5). Pub. L. 114–92, §501(2), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year."
+Subsec. (c)(3) to (5). Pub. L. 114–92, §501(2), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "The total number of regular warrant officers described in subsection (b) from any of the armed forces (or fromany of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year."
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 

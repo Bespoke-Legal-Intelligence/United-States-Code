@@ -44,7 +44,7 @@
 
 #### (1) Applicability
 
-&emsp;This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 10, extraordinary challenge committees convened under chapter 10, and special committees established under article 10.13, other than those individuals to whom subsection (b) applies.
+&emsp;This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 10, extraordinary challenge committees convened under chapter10, and special committees established under article 10.13, other than those individuals to whom subsection (b) applies.
 
 #### (2) Interagency group
 
@@ -86,7 +86,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways andMeans of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees") the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 10 during the 1-year period beginning on April 1 of such calendar year.
+&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional Committees") the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 10 during the 1-year period beginning on April 1 of such calendar year.
 
 #### (ii) Additional information
 
@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to the appropriate Congressional Committees under subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
+&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to theappropriate Congressional Committees under subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) request the interagency group established under paragraph (2)(A) to prepare a list of individuals who are qualified to be added to such candidate list;
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a USMCA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
-> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
+> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted tothe appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
 
 &emsp;&emsp;(B) no individual may—
 

@@ -20,7 +20,7 @@ Section 329, act Sept. 16, 1942, ch. 561, title II, §209, as added Apr. 19, 194
 
 Section 330, act Sept. 16, 1942, ch. 561, title II, §210, as added Apr. 19, 1946, ch. 142, 60 Stat. 101; amended July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501, related to transmission of post cards.
 
-Section 331, act Sept. 16, 1942, ch. 561, title II, §211, as added Apr. 19, 1946, ch. 142, 60 Stat. 101; amended July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501, related to distribution of information.
+Section 331, act Sept. 16, 1942, ch. 561, title II, §211, as added Apr. 19, 1946, ch. 142, 60 Stat. 101; amended July26, 1947, ch. 343, title II, §205(a), 61 Stat. 501, related to distribution of information.
 
 A prior section 331, act Sept. 16, 1942, ch. 561, title III, §301, as added Apr. 1, 1944, ch. 150, 58 Stat. 140, related to establishment of United States War Ballot Commission and was repealed by act Apr. 19, 1946, ch. 142, 60 Stat. 96.
 

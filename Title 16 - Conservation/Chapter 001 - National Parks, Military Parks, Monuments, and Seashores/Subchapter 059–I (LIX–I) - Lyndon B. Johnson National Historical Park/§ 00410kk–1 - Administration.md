@@ -1,6 +1,6 @@
 ### §410kk–1. Administration
 
-The Secretary shall administer the Lyndon B. Johnson National Historical Park in accordancewith the Act approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.),<sup>1</sup> as amended and supplemented, and the Act approved August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.),<sup>1</sup> as amended.
+The Secretary shall administer the Lyndon B. Johnson National Historical Park in accordance with the Act approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.),<sup>1</sup> as amended and supplemented, and the Act approved August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.),<sup>1</sup> as amended.
 
 (Pub. L. 91–134, §2, Dec. 2, 1969, 83 Stat. 274; Pub. L. 96–607, title VI, §601(3), Dec. 28, 1980, 94 Stat. 3540.)
 

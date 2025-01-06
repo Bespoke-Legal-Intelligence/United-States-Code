@@ -74,7 +74,7 @@ Section 1. (a) I hereby delegate to the Secretary of State, in consultation with
 
 (d) I hereby delegate to the Secretary of the Treasury the functions and authorities vested in the President by section 7141 of the Act \[22 U.S.C. 9269\].
 
-(e) I hereby delegate to the Director of National Intelligence, in consultation with the Secretary of State and the Secretary of the Treasury, the functions and authorities vested in the President by section 7133 of the Act \[133 Stat. 2253\].
+(e) I hereby delegate to the Director of National Intelligence, in consultation with the Secretary of Stateand the Secretary of the Treasury, the functions and authorities vested in the President by section 7133 of the Act \[133 Stat. 2253\].
 
 (f) I hereby delegate to the Secretary of State, in consultation with the Secretary of Defense, the functions and authorities vested in the President by section 1227 of the Act \[133 Stat. 1646\].
 

@@ -16,7 +16,7 @@ Not later than 30 days after December 27, 2021, the Secretary of State shall sub
 
 #### (2) Covered periods
 
-&emsp;The first report required under paragraph (1) shall cover the 5-year period preceding thesubmission of such report. Each subsequent report shall cover the 180-day period preceding submission.
+&emsp;The first report required under paragraph (1) shall cover the 5-year period preceding the submission of such report. Each subsequent report shall cover the 180-day period preceding submission.
 
 #### (3) Contents
 

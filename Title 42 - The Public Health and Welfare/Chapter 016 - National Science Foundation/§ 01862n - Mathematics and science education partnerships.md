@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(H) developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
 
-&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) <sup>1</sup> of title 20, for teachers in their first2 years of teaching, especially in underserved areas;
+&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) <sup>1</sup> of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
@@ -314,7 +314,7 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress 
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 
-Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation's budgetary and programmatic growth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
+Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation's budgetary and programmaticgrowth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
 
 #### Definitions
 

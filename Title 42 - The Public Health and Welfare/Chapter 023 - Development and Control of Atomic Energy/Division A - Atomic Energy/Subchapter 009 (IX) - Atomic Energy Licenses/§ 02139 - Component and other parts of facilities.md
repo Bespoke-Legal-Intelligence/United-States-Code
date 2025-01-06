@@ -32,7 +32,7 @@ Subsecs. (b), (c). Pub. L. 95–242 added subsecs. (b) and (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United StatesArms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
 
 #### Effective Date of 1978 Amendment
 

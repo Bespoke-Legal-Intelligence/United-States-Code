@@ -108,7 +108,7 @@ In this chapter:
 
 #### (b) Common carriers, contract carriers, third-party logistics provider, and freight forwarders
 
-A common carrier, contract carrier, third-party logistics provider, or freight forwardershall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
+A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
 (Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
 
@@ -136,7 +136,7 @@ In subsec. (a)(5)(G), "chapter 43 of title 46" and "section 2101(1) of title 46"
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §235(b)(2)–(4), realigned margins, inserted par. headings, reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §235(b)(2)–(4), realigned margins, inserted par. headings, reordered pars.in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
 
 Pub. L. 110–314, §235(b)(1), which directed amendment of subsec. (a) by substituting subsec. heading and introductory provisions for "for purposes of this chapter:", was executed by making the substitution for "For purposes of this chapter:" to reflect the probable intent of Congress.
 

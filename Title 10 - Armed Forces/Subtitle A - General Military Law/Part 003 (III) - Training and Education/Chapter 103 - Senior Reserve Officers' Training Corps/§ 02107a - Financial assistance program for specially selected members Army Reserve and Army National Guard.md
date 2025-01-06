@@ -26,7 +26,7 @@
 
 &emsp;(i) A cadet under this section at a military junior college.
 
-&emsp;(ii) A cadet or former cadet under this section who is selected under section 2114 of thistitle to be a medical student at the Uniformed Services University of the Health Sciences.
+&emsp;(ii) A cadet or former cadet under this section who is selected under section 2114 of this title to be a medical student at the Uniformed Services University of the Health Sciences.
 
 &emsp;(iii) A cadet or former cadet under this section who signs an agreement under section 2122 of this title for participation in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
@@ -126,7 +126,7 @@ Amendment by section 521(b) of Pub. L. 108–136 applicable to payment of expens
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §536(b), Dec. 28, 2001, 115 Stat. 1107, provided that: "The authority of the Secretary of Defense under paragraph (3) of section 2107a(b) of title 10, United States Code, as added by subsection (a), may be exercised with regard to any agreement described in paragraph (1)(F) of such section (including agreements related to participation in the Advanced Course of the Army Reserve Officers' Training Corps at a military college or civilian institution) that was entered into during the period beginning on January 1, 1991, and ending on July 12, 2000 (in addition to any agreement described in that paragraph that is entered into on or after the date of the enactment of this Act \[Dec. 28, 2001\])."
+Pub. L. 107–107, div. A, title V, §536(b), Dec. 28, 2001, 115 Stat. 1107, provided that: "The authority of the Secretary of Defense under paragraph (3) of section 2107a(b) of title 10, United States Code, as added by subsection (a), may be exercised with regard to any agreement described in paragraph (1)(F) of such section (including agreements related to participation in the AdvancedCourse of the Army Reserve Officers' Training Corps at a military college or civilian institution) that was entered into during the period beginning on January 1, 1991, and ending on July 12, 2000 (in addition to any agreement described in that paragraph that is entered into on or after the date of the enactment of this Act \[Dec. 28, 2001\])."
 
 #### Effective Date
 

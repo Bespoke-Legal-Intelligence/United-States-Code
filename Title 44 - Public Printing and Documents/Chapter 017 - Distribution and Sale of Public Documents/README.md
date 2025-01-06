@@ -28,7 +28,7 @@
 | [1719\.](%C2%A7%2001719%20-%20International%20exchange%20of%20Government%20publications.md) | International exchange of Government publications. |
 | [1720\.](%C2%A7%2001720%20-%20Documents%20not%20needed%20by%20departments%20to%20be%20turned%20over%20to%20Superintendent%20of%20Documents.md) | Documents not needed by departments to be turned over to Superintendent of Documents. |
 | [1721\.](%C2%A7%2001721%20-%20Exchange%20of%20documents%20by%20heads%20of%20departments.md) | Exchange of documents by heads of departments. |
-| [1722\.](%C2%A7%2001722%20-%20Departmental%20distribution%20of%20publications.md) | Departmental distribution of publications.<br> |
+| [1722\.](%C2%A7%2001722%20-%20Departmental%20distribution%20of%20publications.md) | Departmental distribution of publications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

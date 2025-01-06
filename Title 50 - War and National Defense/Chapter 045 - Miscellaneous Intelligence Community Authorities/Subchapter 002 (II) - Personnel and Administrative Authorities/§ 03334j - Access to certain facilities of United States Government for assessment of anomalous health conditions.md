@@ -2,7 +2,7 @@
 
 #### (a) Assessment
 
-The Director of National Intelligence shall ensure that the elements of the intelligence community provide to individuals described in subsection (c) who are experiencing symptoms of anomalous health conditions timely access for medical assessment to facilities of the United States Government with expertise in traumatic brain injury.
+The Director of National Intelligence shall ensure that the elements of the intelligence community provide to individuals described in subsection (c) who are experiencing symptoms of anomalous health conditions timely access formedical assessment to facilities of the United States Government with expertise in traumatic brain injury.
 
 #### (b) Process for assessment and treatment
 
@@ -18,5 +18,5 @@ The individuals described in this subsection are employees of elements of the in
 
 #### Definitions
 
-For definition of "intelligence community", referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
+For definition of "intelligence community" as used in this section, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.
 

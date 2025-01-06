@@ -1,6 +1,6 @@
 ### §1084. Determinations of dependency
 
-A determination of dependency by an administering Secretary under this chapter is conclusive. However, the administering Secretary may change a determination because of new evidence or for other good cause. The Secretary's determination may not be reviewed in any court or by the Comptroller General, unless there has been fraud or gross negligence.
+A determination of dependency by an administering Secretary under this chapter is conclusive. However, the administering Secretary maychange a determination because of new evidence or for other good cause. The Secretary's determination may not be reviewed in any court or by the Comptroller General, unless there has been fraud or gross negligence.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1450; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(34)(A), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, §19(11), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 108–375, div. A, title X, §1084(c)(1), Oct. 28, 2004, 118 Stat. 2061.)
 

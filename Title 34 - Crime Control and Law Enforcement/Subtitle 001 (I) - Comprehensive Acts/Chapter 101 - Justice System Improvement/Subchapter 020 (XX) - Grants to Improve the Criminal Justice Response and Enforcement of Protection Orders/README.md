@@ -4,7 +4,7 @@
 
 #### Codification
 
-Pub. L. 117–103, div. W, title I, §102(a), Mar. 15, 2022, 136 Stat. 848, substituted "GRANTS TO IMPROVE THECRIMINAL JUSTICE RESPONSE" for "GRANTS TO ENCOURAGE ARREST POLICIES" in heading.
+Pub. L. 117–103, div. W, title I, §102(a), Mar. 15, 2022, 136 Stat. 848, substituted "GRANTS TO IMPROVE THE CRIMINAL JUSTICE RESPONSE" for "GRANTS TO ENCOURAGE ARREST POLICIES" in heading.
 
 Pub. L. 106–386, div. B, title I, §1101(a)(1), Oct. 28, 2000, 114 Stat. 1492, inserted "AND ENFORCEMENT OF PROTECTION ORDERS" at end of heading.
 

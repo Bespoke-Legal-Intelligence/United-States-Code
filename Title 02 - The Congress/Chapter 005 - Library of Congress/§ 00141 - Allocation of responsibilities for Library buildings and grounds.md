@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the architectural features of the buildings;
 
-&emsp;&emsp;(D) compliance with building and fire codes, laws, and regulations with respect tothe specific responsibilities set for <sup>1</sup> under this paragraph;
+&emsp;&emsp;(D) compliance with building and fire codes, laws, and regulations with respect to the specific responsibilities set for <sup>1</sup> under this paragraph;
 
 &emsp;&emsp;(E) the care and maintenance of Library grounds; and
 
@@ -80,11 +80,11 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### "SEC. 3. ACCEPTANCE OF TRANSFERRED GIFTS OR TRUST FUNDS.
 
-"Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structural and mechanical work and refurbishment of Library buildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
+"Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structuraland mechanical work and refurbishment of Library buildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
 
 #### "SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
-"There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Suchfunds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+"There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 #### "SEC. 5. EFFECTIVE DATE.
 

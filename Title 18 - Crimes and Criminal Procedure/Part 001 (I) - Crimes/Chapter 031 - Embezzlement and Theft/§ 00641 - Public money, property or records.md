@@ -14,7 +14,7 @@ The word "value" means face, par, or market value, or cost price, either wholesa
 
 Based on title 18, U.S.C., 1940 ed., §§82, 87, 100, 101 (Mar. 4, 1909, ch. 321, §§35, 36, 47, 48, 35 Stat. 1095, 1096–1098; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197; Nov. 22, 1943, ch. 302, 57 Stat. 591.)
 
-Section consolidates sections 82, 87, 100, and 101 of title 18, U.S.C., 1940 ed. Changes necessary to effect the consolidation were made. Words "or shall willfully injure or commit any depredation against" were takenfrom said section 82 so as to confine it to embezzlement or theft.
+Section consolidates sections 82, 87, 100, and 101 of title 18, U.S.C., 1940 ed. Changes necessary to effect the consolidation were made. Words "or shall willfully injure or commit any depredation against" were taken from said section 82 so as to confine it to embezzlement or theft.
 
 The quoted language, rephrased in the present tense, appears in section 1361 of this title.
 

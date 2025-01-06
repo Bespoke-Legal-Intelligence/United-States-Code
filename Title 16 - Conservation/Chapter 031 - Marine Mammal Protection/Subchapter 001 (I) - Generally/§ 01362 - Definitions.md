@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 &emsp;(A) the territorial sea of the United States;
 
-&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary isa line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
+&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
 
 &emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
@@ -60,7 +60,7 @@ For the purposes of this chapter—
 
 &emsp;(A) for the tuna fishery in the eastern tropical Pacific Ocean, means the Inter-American Tropical Tuna Commission; and
 
-&emsp;(B) in any other case, means an organization consisting of those nations participating in a tuna fishery, the purpose of which is the conservation and management of that fishery and the management of issues relating to that fishery.
+&emsp;(B) in any other case, means an organization consisting of those nations participating in a tuna fishery, the purpose of which is the conservation and management of that fishery andthe management of issues relating to that fishery.
 
 (18)(A) The term "harassment" means any act of pursuit, torment, or annoyance which—
 
@@ -114,7 +114,7 @@ For the purposes of this chapter—
 
 (27) The term "minimum population estimate" means an estimate of the number of animals in a stock that—
 
-&emsp;(A) is based on the best available scientific information on abundance, incorporating theprecision and variability associated with such information; and
+&emsp;(A) is based on the best available scientific information on abundance, incorporating the precision and variability associated with such information; and
 
 &emsp;(B) provides reasonable assurance that the stock size is equal to or greater than the estimate.
 
@@ -128,7 +128,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28,1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
 

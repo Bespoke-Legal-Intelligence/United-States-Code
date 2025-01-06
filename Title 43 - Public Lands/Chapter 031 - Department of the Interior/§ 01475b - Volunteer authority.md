@@ -28,7 +28,7 @@ The Secretary may provide for services and costs incidental to the utilization o
 
 #### (d) Federal employment status of volunteers
 
-(1) Except as otherwise provided in this subsection, a volunteer shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those provisions relating tohours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
+(1) Except as otherwise provided in this subsection, a volunteer shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those provisions relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 
 (2) Volunteers shall be deemed employees of the United States for the purposes of—
 

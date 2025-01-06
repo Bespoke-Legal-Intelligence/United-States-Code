@@ -54,7 +54,7 @@ A nonresident alien individual or foreign corporation subject to tax under secti
 
 &emsp;(2) to the Virgin Islands, in the case of any interest in real property located in the Virgin Islands and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the Virgin Islands) described in section 897(c)(1)(A)(ii).
 
-(Added Pub. L. 96–499, title XI, §1123(a), Dec. 5, 1980, 94 Stat. 2687; amended Pub. L. 97–34, title VIII, §831(a)(3), (e), Aug. 13, 1981, 95 Stat. 352, 354; Pub. L. 98–369, div. A, title I, §129(b)(1), July 18,1984, 98 Stat. 659; Pub. L. 99–514, title XVIII, §1810(f)(7), Oct. 22, 1986, 100 Stat. 2828.)
+(Added Pub. L. 96–499, title XI, §1123(a), Dec. 5, 1980, 94 Stat. 2687; amended Pub. L. 97–34, title VIII, §831(a)(3), (e), Aug. 13, 1981, 95 Stat. 352, 354; Pub. L. 98–369, div. A, title I, §129(b)(1), July 18, 1984, 98 Stat. 659; Pub. L. 99–514, title XVIII, §1810(f)(7), Oct. 22, 1986, 100 Stat. 2828.)
 
 #### <b>Editorial Notes</b>
 

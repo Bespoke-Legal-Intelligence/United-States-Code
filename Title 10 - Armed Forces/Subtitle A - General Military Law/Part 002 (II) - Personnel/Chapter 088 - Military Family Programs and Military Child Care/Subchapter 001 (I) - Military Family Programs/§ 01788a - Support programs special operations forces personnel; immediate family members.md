@@ -2,7 +2,7 @@
 
 (a)
 
-Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services. In selecting andconducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
+Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 #### Codification
 
-Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a), (b), (d), and (e) of section 554 of Pub. L. 113–66, div. A, title V, Dec. 26, 2013, 127 Stat. 765, which was formerly set out as a note under section 1788 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601.
+Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a), (b), (d), and (e) of section 554 ofPub. L. 113–66, div. A, title V, Dec. 26, 2013, 127 Stat. 765, which was formerly set out as a note under section 1788 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601.
 
 #### Amendments
 

@@ -10,6 +10,7 @@
 | [10106\.](%C2%A7%2010106%20-%20Protection%20of%20classified%20national%20security%20information.md) | Protection of classified national security information. |
 | [10107\.](%C2%A7%2010107%20-%20Applicability%20to%20atomic%20energy%20defense%20activities.md) | Applicability to atomic energy defense activities. |
 | [10108\.](%C2%A7%2010108%20-%20Applicability%20to%20transportation.md) | Applicability to transportation. |
+| [10109\.](%C2%A7%2010109%20-%20Biennial%20report%20on%20the%20spent%20nuclear%20fuel%20and%20high-level%20radioactive%20waste%20inventory%20in%20the%20United%20States.md) | Biennial report on the spent nuclear fuel and high-level radioactive waste inventory in the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -200,6 +201,7 @@
 - [&sect; 10106 - Protection of classified national security information](%C2%A7%2010106%20-%20Protection%20of%20classified%20national%20security%20information.md)
 - [&sect; 10107 - Applicability to atomic energy defense activities](%C2%A7%2010107%20-%20Applicability%20to%20atomic%20energy%20defense%20activities.md)
 - [&sect; 10108 - Applicability to transportation](%C2%A7%2010108%20-%20Applicability%20to%20transportation.md)
+- [&sect; 10109 - Biennial report on the spent nuclear fuel and high-level radioactive waste inventory in the United States](%C2%A7%2010109%20-%20Biennial%20report%20on%20the%20spent%20nuclear%20fuel%20and%20high-level%20radioactive%20waste%20inventory%20in%20the%20United%20States.md)
 - [Subchapter 001 (I) - Disposal and Storage of High-Level Radioactive Waste, Spent Nuclear Fuel, and Low-Level Radioactive Waste](Subchapter%20001%20%28I%29%20-%20Disposal%20and%20Storage%20of%20High-Level%20Radioactive%20Waste%2C%20Spent%20Nuclear%20Fuel%2C%20and%20Low-Level%20Radioactive%20Waste/README.md)
 - [Subchapter 002 (II) - Research, Development, and Demonstration Regarding Disposal of High-Level Radioactive Waste and Spent Nuclear Fuel](Subchapter%20002%20%28II%29%20-%20Research%2C%20Development%2C%20and%20Demonstration%20Regarding%20Disposal%20of%20High-Level%20Radioactive%20Waste%20and%20Spent%20Nuclear%20Fuel/README.md)
 - [Subchapter 003 (III) - Other Provisions Relating to Radioactive Waste](Subchapter%20003%20%28III%29%20-%20Other%20Provisions%20Relating%20to%20Radioactive%20Waste/README.md)

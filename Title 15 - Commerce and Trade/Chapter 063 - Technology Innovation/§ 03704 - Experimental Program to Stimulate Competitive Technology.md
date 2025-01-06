@@ -84,7 +84,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (B) Consortia
 
-&emsp;&emsp;Grants, cooperative agreements, and contracts may only be awarded to eligible institutions. Eligible institutions may seek funding under this subsection for consortia, which may include other eligible institutions, a State or a State educational agency, local educational agencies, institutions of higher education, community-based organizations, national nonprofit organizations, or businesses, including minority businesses.
+&emsp;&emsp;Grants, cooperative agreements, and contracts may only be awarded to eligible institutions. Eligible institutions may seek funding under this subsection for consortia,which may include other eligible institutions, a State or a State educational agency, local educational agencies, institutions of higher education, community-based organizations, national nonprofit organizations, or businesses, including minority businesses.
 
 #### (C) Planning grants
 
@@ -130,7 +130,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (i) Contract to conduct assessments
 
-&emsp;&emsp;&emsp;Not later than 6 months after August 14, 2008, the Secretary shall enter into a contract with the National Academy of PublicAdministration to conduct periodic assessments of the program established under paragraph (1). The assessments shall be conducted once every 3 years during the 10-year period following August 14, 2008.
+&emsp;&emsp;&emsp;Not later than 6 months after August 14, 2008, the Secretary shall enter into a contract with the National Academy of Public Administration to conduct periodic assessments of the program established under paragraph (1). The assessments shall be conducted once every 3 years during the 10-year period following August 14, 2008.
 
 #### (ii) Evaluations and recommendations
 
@@ -150,7 +150,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (iv) Report to Congress
 
-&emsp;&emsp;&emsp;Upon completion of each assessment under this subparagraph, the Secretary shall transmit the assessment to Congress along with a summary of the Secretary's plans, if any, to implement the recommendations of the National Academy of Public Administration.
+&emsp;&emsp;&emsp;Upon completion of each assessment under this subparagraph, the Secretary shall transmit the assessment to Congress along with a summary of the Secretary'splans, if any, to implement the recommendations of the National Academy of Public Administration.
 
 #### (8) Definitions
 

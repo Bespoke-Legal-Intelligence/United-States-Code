@@ -98,7 +98,7 @@ In subsection (e), the word "member" is substituted for the words "officer or en
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out "Duty without pay shall be considered for all purposes as if it were duty with pay." at end, and added pars. (2) and (3).
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, of par. (1), struck out "Duty without pay shall be considered for all purposes as if it were duty with pay." at end, and added pars. (2) and (3).
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted "90 consecutive days" for "30 consecutive days" in second sentence.
 

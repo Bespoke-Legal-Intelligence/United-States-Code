@@ -12,7 +12,7 @@
 
 #### (2) Additional authority
 
-&emsp;Subject to the results of the comprehensive plan developed under subsection (b) revealing a need for additional secondary treatment capacity in the San Diego-Tijuana border region and recommending the provision of such capacity in Mexico, the Commission may provide not more than an additional 25 mgd of secondary treatment capacity in Mexico for treatment described in paragraph (1).
+&emsp;Subject to the results of the comprehensive plan developed under subsection (b) revealing a need for additional secondary treatment capacity in the San Diego-Tijuana border region and recommending the provision of such capacity in Mexico, the Commission may providenot more than an additional 25 mgd of secondary treatment capacity in Mexico for treatment described in paragraph (1).
 
 #### (b) Comprehensive plan
 
@@ -54,7 +54,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(J) Neither the Commission nor the United States Government shall be liable for payment of any cancellation fees if the Commission cancels the contract.
 
-&emsp;&emsp;(K) The owner of the Mexican facility may purchase insurance or other financial instrument to cover the risk of cancellation of the contract by the Commission. Any such insurance or other financial instrument shall not be provided or guaranteed by the United States Government, and the Governmentmay reserve the right to validate independently the reasonableness of the premium when negotiating the annual service fee with the owner.
+&emsp;&emsp;(K) The owner of the Mexican facility may purchase insurance or other financial instrument to cover the risk of cancellation of the contract by the Commission. Any such insurance or other financial instrument shall not be provided or guaranteed by the United States Government, and the Government may reserve the right to validate independently the reasonableness of the premium when negotiating the annual service fee with the owner.
 
 &emsp;&emsp;(L) Transfer of ownership of the Mexican facility to an appropriate governmental entity, other than the United States, if the Commission cancels the contract.
 

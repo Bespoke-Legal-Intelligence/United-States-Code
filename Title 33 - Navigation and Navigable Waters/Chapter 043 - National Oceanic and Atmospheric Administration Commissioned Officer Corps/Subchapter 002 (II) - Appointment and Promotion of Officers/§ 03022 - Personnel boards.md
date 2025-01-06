@@ -40,7 +40,7 @@ If any recommendation by a board convened under subsection (a) is not accepted b
 
 &emsp;The Director shall approve a request made by an officer under paragraph (1) only if—
 
-&emsp;&emsp;(A) the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Administration, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Director;
+&emsp;&emsp;(A) the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Administration, a career progression requirement delayed bythe assignment or education, or a qualifying personal or professional circumstance, as determined by the Director;
 
 &emsp;&emsp;(B) the Director determines the exclusion from consideration is in the best interest of the Administration; and
 

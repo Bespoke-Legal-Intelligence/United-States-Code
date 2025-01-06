@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) certify that the producers on the farm were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
 
-&emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn orgrain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
+&emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
 
 #### (3) Eligibility of acquired feed grains
 

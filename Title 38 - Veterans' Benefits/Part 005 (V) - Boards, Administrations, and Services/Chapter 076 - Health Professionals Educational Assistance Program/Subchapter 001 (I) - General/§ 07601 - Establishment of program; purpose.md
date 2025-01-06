@@ -112,7 +112,7 @@ Terms of agreement.—Each eligible veteran who accepts funding for medical educ
 
 &emsp;"(2)
 
-Breach of agreement.—If an eligible veteran who accepts funding under this section breaches the terms of the agreement described in paragraph (1), the United States shall be entitled to recover damages in an amount equal to the total amount of such funding received by the veteran.
+Breach of agreement.—If an eligible veteran who accepts funding under this section breaches the terms of the agreement described in paragraph (1),the United States shall be entitled to recover damages in an amount equal to the total amount of such funding received by the veteran.
 
 "(e)
 

@@ -46,7 +46,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) the owner, lessee, or operator of any vehicle which contains an article taxable under subsection (a) installs (or causes to be installed) any part or accessory on such vehicle, and
 
-&emsp;&emsp;(B) such installation is not later than the date 6 months after the date such vehicle (asit contains such article) was first placed in service,
+&emsp;&emsp;(B) such installation is not later than the date 6 months after the date such vehicle (as it contains such article) was first placed in service,
 
 > &emsp;then there is hereby imposed on such installation a tax equal to 12 percent of the price of such part or accessory and its installation.
 
@@ -124,7 +124,7 @@ Pub. L. 105–34, §1401(a), amended heading and text of subsec. (e) generally. 
 
 Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end "No tax shall be imposed by reason of this paragraph on any use or resale which occurs more than 6 years after the date of the first retail sale."
 
-<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted "The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)" for "In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)".
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted "The owners of the trade or business installingthe parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)" for "In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)".
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pu
 
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
-Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
 Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 4041 of this title.
 

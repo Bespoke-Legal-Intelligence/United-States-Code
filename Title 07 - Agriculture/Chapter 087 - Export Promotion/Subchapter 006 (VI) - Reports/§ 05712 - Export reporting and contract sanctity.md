@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;All exporters of wheat and wheat flour, feed grains, oil seeds, cotton, pork, beef, and products thereof, and other commodities that the Secretary may designate produced in the United States shall report to the Secretary of Agriculture, on a weekly basis, the following information regarding any contract for export sales entered into or subsequently modified in any manner during the reporting period:
+&emsp;All exporters of wheat and wheat flour, feed grains, oil seeds, cotton, pork, beef, and products thereof, and other commodities that the Secretary may designate produced in the United States shall report to the Secretary of Agriculture, on a weekly basis, the followinginformation regarding any contract for export sales entered into or subsequently modified in any manner during the reporting period:
 
 &emsp;&emsp;(A) type, class, and quantity of the commodity sought to be exported;
 
@@ -48,7 +48,7 @@ Notwithstanding any other provision of law, the President shall not prohibit or 
 
 > except that the President may prohibit or curtail the export of any agricultural commodity during a period for which the President has declared a national emergency or for which the Congress has declared war.
 
-(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, §921, Oct. 22, 1999, 113 Stat. 1206; Pub. L. 111–239, §2(c), Sept. 27, 2010, 124 Stat. 2502.)
+(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, §921, Oct. 22, 1999, 113 Stat. 1206; Pub. L. 111–239, §2(c), Sept. 27, 2010, 124 Stat. 2502.)
 
 #### Amendment of Section
 
@@ -74,5 +74,5 @@ Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out "in accordance with subs
 
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2023, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Amendment by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

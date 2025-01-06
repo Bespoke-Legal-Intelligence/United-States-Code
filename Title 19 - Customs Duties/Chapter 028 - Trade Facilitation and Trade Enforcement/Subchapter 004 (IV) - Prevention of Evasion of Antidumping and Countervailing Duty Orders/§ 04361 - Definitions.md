@@ -26,7 +26,7 @@ In this subchapter:
 
 #### (B) Nonreviewability
 
-&emsp;&emsp;Any agency decision regarding whether a business concern is an eligible small business for purposes of section 4371(b)(4)(E) of this title is not reviewable by any other agency or by any court.
+&emsp;&emsp;Any agency decision regarding whether a business concern is an eligible small business for purposes of section 4371(b)(4)(E) ofthis title is not reviewable by any other agency or by any court.
 
 #### (4) Enter; entry
 

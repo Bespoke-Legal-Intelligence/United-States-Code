@@ -40,7 +40,7 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–541, §212(1), inserted introductory provisions and struck out former introductory provisions which read as follows: "In carrying out the maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may take, to the extent funds are made available in appropriations Acts, such actions as are necessary to increase the efficiency of energy production or the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that the increase—".
+<b>2000</b>—Subsec. (a). Pub. L. 106–541, §212(1), inserted introductory provisions and struck out former introductory provisions which read as follows: "In carrying out the maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may take, to the extent funds are made available in appropriations Acts, such actions as are necessary to increase the efficiencyof energy production or the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that the increase—".
 
 Subsec. (a)(1). Pub. L. 106–541, §212(1), substituted "are" for "is" before "economically justified".
 

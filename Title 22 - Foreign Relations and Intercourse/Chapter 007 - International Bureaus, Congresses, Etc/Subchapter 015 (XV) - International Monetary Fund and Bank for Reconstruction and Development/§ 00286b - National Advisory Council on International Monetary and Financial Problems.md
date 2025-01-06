@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition
 
-In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the "Council"), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
+In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the "Council"), consisting of theSecretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
 
 #### (b) Duties and functions; reports by Council
 
@@ -58,7 +58,7 @@ Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special re
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 9, 1954, effective upon initial appointment of President, First Vice President, and one member of the Board of Directors of the Export-Import Bank of Washington, see section 4 of act Aug. 9, 1954, set out as a note under section 635a of Title 12, Banks and Banking.
+Amendment by act Aug. 9, 1954, effective upon initial appointment of President, First Vice President, andone member of the Board of Directors of the Export-Import Bank of Washington, see section 4 of act Aug. 9, 1954, set out as a note under section 635a of Title 12, Banks and Banking.
 
 #### Repeals
 
@@ -92,7 +92,7 @@ Sec. 2. <i>Functions of the Council</i>. (a) Exclusive of the functions delegate
 
 (b) The functions under Sections 4(a) and 4(b)(3) of the Bretton Woods Agreements Act, including those made applicable to the International Finance Corporation, the Inter-American Development Bank, and the International Development Association (22 U.S.C. 286b(a) and (b)(3); 282b; 283b; 284b), to the extent that such functions consist of coordination of policies, are hereby delegated to the Council. The functions so delegated shall be deemed to include the authority to review proposed individual loan, financial, exchange, or monetary transactions to the extent necessary or desirable to effectuate the coordination of policies.
 
-(c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstructionand Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
+(c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
 
 Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President in consequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
 

@@ -8,7 +8,7 @@ The Secretary of the Interior shall prepare, maintain, and present annually to t
 
 #### Codification
 
-Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and\(c) of section 2 are classified to sections 835l and 835m of this title, respectively.
+Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and (c) of section 2 are classified to sections 835l and 835m of this title, respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

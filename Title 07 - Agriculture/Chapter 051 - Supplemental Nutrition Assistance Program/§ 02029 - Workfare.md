@@ -84,7 +84,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 &emsp;"(ii) any other".
 
-Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A household member shall be exempt",redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted "a work activity" for "a work training program", and struck out former par. (2) which read as follows:
+Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A household member shall be exempt", redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted "a work activity" for "a work training program", and struck out former par. (2) which read as follows:
 
 "(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
 

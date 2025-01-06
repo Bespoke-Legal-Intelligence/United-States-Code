@@ -94,7 +94,7 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (2) Further requirement
 
-&emsp;A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibility under subsection (c)(1) with respect to an offshore facility only if—
+&emsp;A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibilityunder subsection (c)(1) with respect to an offshore facility only if—
 
 &emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title 11, and applying generally accepted accounting principles;
 
@@ -136,7 +136,7 @@ In subsec. (b)(1), "section 60105 of title 46" substituted for "section 4197 of 
 
 <b>2010</b>—Subsec. (a)(3). Pub. L. 111–281 added par. (3).
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–324, §1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability."
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–324, §1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability."
 
 Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e), and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor."
 

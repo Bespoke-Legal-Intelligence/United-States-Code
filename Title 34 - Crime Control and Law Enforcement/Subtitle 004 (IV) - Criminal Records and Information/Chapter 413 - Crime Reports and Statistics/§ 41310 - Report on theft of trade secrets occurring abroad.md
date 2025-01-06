@@ -18,7 +18,7 @@ In this section:
 
 #### (4) United States company
 
-&emsp;The term "United States company" means an organization organized under the laws ofthe United States or a State or political subdivision thereof.
+&emsp;The term "United States company" means an organization organized under the laws of the United States or a State or political subdivision thereof.
 
 #### (b) Reports
 
@@ -32,7 +32,7 @@ Not later than 1 year after May 11, 2016, and biannually thereafter, the Attorne
 
 &emsp;(4) The ability and limitations of trade secret owners to prevent the misappropriation of trade secrets outside of the United States, to enforce any judgment against foreign entities for theft of trade secrets, and to prevent imports based on theft of trade secrets overseas.
 
-&emsp;(5) A breakdown of the trade secret protections afforded United States companies by each country that is a trading partner of the United States and enforcement efforts available and undertaken in each such country, including a list identifying specific countries where trade secret theft, laws, or enforcement is a significant problem for United States companies.
+&emsp;(5) A breakdown of the trade secret protections afforded United States companies by each country that is a trading partner of theUnited States and enforcement efforts available and undertaken in each such country, including a list identifying specific countries where trade secret theft, laws, or enforcement is a significant problem for United States companies.
 
 &emsp;(6) Instances of the Federal Government working with foreign countries to investigate, arrest, and prosecute entities and individuals involved in the theft of trade secrets outside of the United States.
 

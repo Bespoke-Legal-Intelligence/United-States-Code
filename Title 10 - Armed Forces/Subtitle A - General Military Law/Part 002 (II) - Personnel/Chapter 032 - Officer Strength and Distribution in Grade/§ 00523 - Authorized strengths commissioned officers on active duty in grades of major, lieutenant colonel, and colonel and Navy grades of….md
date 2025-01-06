@@ -66,7 +66,7 @@
 
 <sup>1</sup> Table heading editorially supplied.
 
-(2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end ofsuch fiscal year, exceed a number determined in accordance with the following table:
+(2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
 
 &nbsp;
 
@@ -134,7 +134,7 @@
 
 Subsec. (b)(9). Pub. L. 114–328, §866(b), added par. (9).
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468 from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
 
@@ -206,6 +206,10 @@ Pub. L. 99–145, title V, §511(b), Nov. 8, 1985, 99 Stat. 623, provided that: 
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
+#### Temporary Exclusion of Mental Health Care Providers From Authorized Strengths of Certain Officers on Active Duty
+
+Pub. L. 118–159, div. A, title IV, §403(a), Dec. 23, 2024, 138 Stat. 1863, provided that: "During fiscal years 2025 through 2027, officers who are licensed mental health providers (including clinical psychologists, licensed clinical social workers, mental health nurse practitioners, and psychiatric physician assistants) shall be excluded in computing and determining authorized strengths under section 523 of title 10, United States Code."
+
 #### Temporary Exemption From End Strength Grade Restrictions for the Space Force
 
 This section not to apply to the Space Force until Jan. 1, 2024, see section 526 of Pub. L. 117–263, set out as a note under section 517 of this title.
@@ -216,7 +220,7 @@ Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provid
 
 #### Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels
 
-Pub. L. 103–337, div. A, title IV, §402, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 103–337, div. A, title IV, §402, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal byPub. L. 104–201, div. A, title IV, §403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
 
 #### Temporary Variation of End Strength Limitations for Marine Corps Majors and Lieutenant Colonels
 

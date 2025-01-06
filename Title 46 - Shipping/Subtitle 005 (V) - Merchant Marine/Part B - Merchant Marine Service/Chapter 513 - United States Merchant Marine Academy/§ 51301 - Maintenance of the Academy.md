@@ -28,7 +28,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 &emsp;&emsp;(B) an individual who has—
 
-&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, MarineCorps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
 &emsp;&emsp;&emsp;(II) held a valid Coast Guard merchant mariner credential; and
 
@@ -108,7 +108,7 @@ Course subject matter.—The training course required by paragraph (1) shall pro
 
 &emsp;&emsp;"(B) the documents produced by Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents;
 
-&emsp;&emsp;"(C) the legislative processes and rules of the Senate and the House of Representatives, including similarities and differences between the processes and rules of each chamber, including—
+&emsp;&emsp;"(C) the legislative processes and rules of the Senate and the House of Representatives, includingsimilarities and differences between the processes and rules of each chamber, including—
 
 &emsp;&emsp;&emsp;"(i) the congressional budget process;
 

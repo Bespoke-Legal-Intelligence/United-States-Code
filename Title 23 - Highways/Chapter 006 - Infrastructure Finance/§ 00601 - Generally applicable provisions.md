@@ -168,7 +168,7 @@ Project.—The term "project" means—
 
 &emsp;&emsp;&emsp;(i) has been approved by the Secretary of the Interior pursuant to section 10 of the Endangered Species Act of 1973 (16 U.S.C. 1539); and
 
-&emsp;&emsp;&emsp;(ii) in the judgment of the Secretary, would mitigate the environmental impacts of transportation infrastructure projects otherwise eligible for assistance under this title.
+&emsp;&emsp;&emsp;(ii) in the judgment of the Secretary, would mitigate the environmental impactsof transportation infrastructure projects otherwise eligible for assistance under this title.
 
 &emsp;(13)
 
@@ -358,7 +358,7 @@ Project Described.—A project referred to in subsection (a) is a transportation
 
 &emsp;"(3)(A) that intends to submit a letter of interest, or has submitted a letter of interest after the date of enactment of this Act \[Nov. 15, 2021\], to be carried out with—
 
-&emsp;&emsp;"(i) assistance under the TIFIA \[Transportation Infrastructure Finance and Innovation Act of 1998, Pub. L. 105–178\] program under chapter 6 of title 23, United States Code; or
+&emsp;&emsp;"(i) assistance under the TIFIA \[Transportation Infrastructure Finance and Innovation Act of 1998,Pub. L. 105–178\] program under chapter 6 of title 23, United States Code; or
 
 &emsp;&emsp;"(ii) assistance under the Railroad Rehabilitation and Improvement Financing Program of the Federal Railroad Administration established under chapter 224 of title 49, United States Code; and
 
@@ -506,7 +506,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperativeagreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;"(B)
 
@@ -562,7 +562,7 @@ Qualifying Projects.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23,United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;"(2)
 

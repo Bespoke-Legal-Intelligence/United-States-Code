@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of enforcing this chapter or any regulation prescribed under this chapter, officers or employees of the Environmental Protection Agency or of any State designatedby the Administrator may enter at reasonable times any location where there is being held or may be held organotin or any other substance or antifouling system regulated under the Convention, for the purpose of inspecting and obtaining samples of any containers or labeling for organotin or other substance or system regulated under the Convention.
+&emsp;For purposes of enforcing this chapter or any regulation prescribed under this chapter, officers or employees of the Environmental Protection Agency or of any State designated by the Administrator may enter at reasonable times any location where there is being held or may be held organotin or any other substance or antifouling system regulated under the Convention, for the purpose of inspecting and obtaining samples of any containers or labeling for organotin or other substance or system regulated under the Convention.
 
 #### (2) Subpoenas
 

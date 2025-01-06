@@ -20,6 +20,8 @@
 | [15732\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015732%20-%20Southwest%20Border%20Regional%20Commission.md) | Southwest Border Regional Commission. |
 | [15733\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015733%20-%20Northern%20Border%20Regional%20Commission.md) | Northern Border Regional Commission. |
 | [15734\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015734%20-%20Great%20Lakes%20Authority.md) | Great Lakes Authority. |
+| [15735\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015735%20-%20Mid-Atlantic%20Regional%20Commission.1.md) | Mid-Atlantic Regional Commission. |
+| [15736\.](Subchapter%20002%20%28II%29%20-%20Designation%20of%20Regions/%C2%A7%2015736%20-%20Southern%20New%20England%20Regional%20Commission.md) | Southern New England Regional Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,6 +36,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–272, div. B, title II, §§2249(b)(2), 2250(b)(2), Jan. 4, 2025, 138 Stat. 3209, 3210, which directed amendment of the analysis for subchapter II of this chapter by adding items 15735 and 15736 at the end, was executed by adding items 15735 and 15736 to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2022</b>—Pub. L. 117–328, div. O, title IV, §401(b)(2), Dec. 29, 2022, 136 Stat. 5228, which directed amendment of the analysis for subchapter II of this chapter by adding item 15734 at the end, was executed by adding item 15734 to the analysis for this chapter to reflect the probable intent of Congress.
 

@@ -20,7 +20,7 @@ Composition.—The Council is composed of the following members:
 
 (c)
 
-Responsibilities.—The Council shall have the responsibility to ensure effective cooperation among departments and agencies of the Federal Government, and to provide advice andrecommendations to the President, the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor, concerning—
+Responsibilities.—The Council shall have the responsibility to ensure effective cooperation among departments and agencies of the Federal Government, and to provide advice and recommendations to the President, the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor, concerning—
 
 &emsp;(1) the capabilities of the national technology and industrial base to meet the national security objectives set forth in section 4811(a) of this title;
 
@@ -66,5 +66,5 @@ Amendment by section 1867(b), (d)(1) of Pub. L. 116–283 effective Jan. 1, 2022
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made bythat section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 

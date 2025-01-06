@@ -30,6 +30,8 @@ The Secretary, acting through the Director of the Bureau of Land Management, sha
 
 &emsp;&emsp;&emsp;(II) subject to any limitations that are not more restrictive than the limitations on such uses authorized in wilderness areas under section 208; <sup>1</sup> and
 
+
+
 &emsp;&emsp;(ii) include or provide recommendations on ways of minimizing the visual impacts of such activities on the Conservation Area;
 
 &emsp;&emsp;(C) include a plan for litter cleanup and public lands awareness campaign on public lands in and around the Conservation Area; and

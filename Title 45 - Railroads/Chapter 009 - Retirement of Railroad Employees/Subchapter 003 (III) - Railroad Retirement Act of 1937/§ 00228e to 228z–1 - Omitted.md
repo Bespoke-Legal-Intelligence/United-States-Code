@@ -38,11 +38,11 @@ Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1937, ch. 382,
 
 Section 228s, act Aug. 29, 1935, ch. 812, §19(a), (b), as added June 24, 1937, ch. 382, pt. I, §1, as added Apr. 8, 1942, ch. 227, §11, 56 Stat. 207, 208; amended Oct. 30, 1966, Pub. L. 89–700, title I, §109, 80 Stat. 1085, related to incompetence. See section 231k of this title.
 
-Section 228s–1, act June 24, 1937, ch. 382, pt. I, §20, as added Aug. 31, 1954, ch. 1164, pt. I, §15, 68 Stat. 1040; amended May 19, 1959, Pub. L. 86–28, pt. I, §4, 73 Stat. 28; Aug. 29, 1959, Pub. L. 86–211, §8(c), 73 Stat. 436; Oct. 30, 1966, Pub. L. 89–700, title I, §110, 80 Stat. 1085, related to waiver of annuities and pensions under this subchapter. See section 231k of this title
+Section 228s–1, act June 24, 1937, ch. 382, pt. I, §20, as added Aug. 31, 1954, ch. 1164, pt. I, §15, 68 Stat. 1040; amended May 19, 1959, Pub. L. 86–28, pt. I, §4, 73 Stat.28; Aug. 29, 1959, Pub. L. 86–211, §8(c), 73 Stat. 436; Oct. 30, 1966, Pub. L. 89–700, title I, §110, 80 Stat. 1085, related to waiver of annuities and pensions under this subchapter. See section 231k of this title
 
 Section 228s–2, act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335; amended July 30, 1965, Pub. L. 89–97, title I, §111(b)(1), 79 Stat. 340; Jan. 2, 1968, Pub. L. 90–248, title I, §129(c)(13), 81 Stat. 849, related to hospital insurance benefits for the aged. See section 231f of this title.
 
-Section 228s–3, act Aug. 29, 1935, ch. 812, §22, as added Oct. 30, 1972, Pub. L. 92–603, title II, §201(d), 86 Stat.1373, related to hospital insurance benefits for the disabled. See section 231f of this title.
+Section 228s–3, act Aug. 29, 1935, ch. 812, §22, as added Oct. 30, 1972, Pub. L. 92–603, title II, §201(d), 86 Stat. 1373, related to hospital insurance benefits for the disabled. See section 231f of this title.
 
 Section 228t, act Oct. 30, 1951, ch. 632, §25(d), 65 Stat. 690, related to certain retirement or survivor annuities awarded prior to Oct. 30, 1951.
 

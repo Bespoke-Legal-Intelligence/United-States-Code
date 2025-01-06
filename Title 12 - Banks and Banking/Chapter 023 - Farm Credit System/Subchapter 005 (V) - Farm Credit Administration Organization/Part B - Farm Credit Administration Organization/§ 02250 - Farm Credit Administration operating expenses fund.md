@@ -44,7 +44,7 @@
 
 #### (C) Type
 
-&emsp;&emsp;Such investments shall be made in public debt securities with maturities suitable tothe needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+&emsp;&emsp;Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 (Pub. L. 92–181, title V, §5.15, formerly §5.16, Dec. 10, 1971, 85 Stat. 620; renumbered §5.15 and amended Pub. L. 99–205, title II, §§201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, §432(a), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 100–399, title IV, §416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, §510, Oct. 28, 1992, 106 Stat. 4132.)
 

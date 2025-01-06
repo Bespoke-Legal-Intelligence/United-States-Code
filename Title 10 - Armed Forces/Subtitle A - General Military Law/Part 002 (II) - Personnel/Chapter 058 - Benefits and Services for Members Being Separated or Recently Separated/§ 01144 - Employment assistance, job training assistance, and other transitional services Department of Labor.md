@@ -102,7 +102,7 @@ Program Contents.—(1) The program carried out under this section shall consist
 
 &emsp;(B) in addition to such training and instruction required during such time periods.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772; Pub. L. 117–328, div. U, title II, §212, Dec. 29, 2022, 136 Stat. 5453.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII,§1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772; Pub. L. 117–328, div. U, title II, §212, Dec. 29, 2022, 136 Stat. 5453.)
 
 #### <b>Editorial Notes</b>
 
@@ -240,7 +240,7 @@ Pub. L. 115–232, div. A, title V, §552(b)(2), Aug. 13, 2018, 132 Stat. 1771, 
 
 #### Deadline for Implementation
 
-Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried outunder section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program
 
@@ -316,7 +316,7 @@ Covered Information.—The information to be shared with State veterans agencies
 
 "(c)
 
-Consent.—The procedures developed pursuant to subsection (a) shall require the consent of a member of the Armed Forces before any information described in subsection (b) regarding the member is shared with a State veterans agency.
+Consent.—The procedures developed pursuant to subsection (a) shall require the consent of a member ofthe Armed Forces before any information described in subsection (b) regarding the member is shared with a State veterans agency.
 
 "(d)
 

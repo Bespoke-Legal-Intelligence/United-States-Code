@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [9061\.](%C2%A7%2009061%20-%20Regulations.md) | Regulations. |
 | [9062\.](%C2%A7%2009062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md) | Policy; composition; aircraft authorization. |
+| [9062a.](%C2%A7%2009062a%20-%20Annual%20report%20on%20Air%20Force%20tactical%20fighter%20aircraft%20force%20structure.1.md) | Annual report on Air Force tactical fighter aircraft force structure. |
 | [9063\.](%C2%A7%2009063%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md) | Designation: officers to perform certain professional functions. |
 | [9064\.](%C2%A7%2009064%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md) | Air Force nurses: Chief; appointment. |
 | [9065\.](%C2%A7%2009065%20-%20Commands%20territorial%20organization.md) | Commands: territorial organization. |
@@ -20,6 +21,8 @@
 A prior chapter 907, consisting of sections 9411 to 9417, related to schools and camps, prior to renumbering as chapter 957 of this title.
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title I, §142, Dec. 23, 2024, 138 Stat. 1809, added item 9062a. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title IX, §952(g), Dec. 20, 2019, 133 Stat. 1563, added items 9063 to 9067 and struck out former item 9067 "Designation: officers to perform certain professional functions" and items 9069 "Air Force nurses: Chief; appointment", 9074 "Commands: territorial organization", 9075 "Regular Air Force: composition", 9081 "Assistant Surgeon General for Dental Services", and 9084 "Officer career field for space".
 
@@ -54,6 +57,7 @@ Pub. L. 96–343, §12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted "General
 
 - [&sect; 09061 - Regulations](%C2%A7%2009061%20-%20Regulations.md)
 - [&sect; 09062 - Policy; composition; aircraft authorization](%C2%A7%2009062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md)
+- [&sect; 09062a - Annual report on Air Force tactical fighter aircraft force structure.1](%C2%A7%2009062a%20-%20Annual%20report%20on%20Air%20Force%20tactical%20fighter%20aircraft%20force%20structure.1.md)
 - [&sect; 09063 - Designation officers to perform certain professional functions](%C2%A7%2009063%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md)
 - [&sect; 09064 - Air Force nurses Chief; appointment](%C2%A7%2009064%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md)
 - [&sect; 09065 - Commands territorial organization](%C2%A7%2009065%20-%20Commands%20territorial%20organization.md)

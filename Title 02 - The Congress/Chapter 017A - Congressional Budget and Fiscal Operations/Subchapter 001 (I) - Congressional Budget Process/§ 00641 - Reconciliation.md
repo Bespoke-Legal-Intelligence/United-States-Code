@@ -14,7 +14,7 @@ A concurrent resolution on the budget for any fiscal year, to the extent necessa
 
 &emsp;&emsp;(D) credit authority for such fiscal year,
 
-> &emsp;contained in laws, bills, and resolutions within the jurisdiction of a committee, is to be changed and direct that committee to determine and recommend changes to accomplish a change of such total amount;
+> &emsp;contained in laws, bills, and resolutions within the jurisdiction of a committee, is to bechanged and direct that committee to determine and recommend changes to accomplish a change of such total amount;
 
 &emsp;(2) specify the total amount by which revenues are to be changed and direct that the committees having jurisdiction to determine and recommend changes in the revenue laws, bills, and resolutions to accomplish a change of such total amount;
 
@@ -50,7 +50,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
-&emsp;(B) if the total amount of the changes recommended by such committee is not less thanthe total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
+&emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
 
 (2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendation that shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
@@ -62,7 +62,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 #### (d) Limitation on amendments to reconciliation bills and resolutions
 
-(1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level of such revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
+(1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level ofsuch revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
 
 (2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forth in a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
 

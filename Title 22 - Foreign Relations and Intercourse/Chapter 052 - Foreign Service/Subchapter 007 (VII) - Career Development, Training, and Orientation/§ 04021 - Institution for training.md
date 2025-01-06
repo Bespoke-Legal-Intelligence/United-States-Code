@@ -2,7 +2,7 @@
 
 #### (a) Institution or center for training
 
-The Secretary of State shall maintain and operate an institution or center for training (hereinafter in this subchapter referred to as the "institution"), originally established under section 701 of the Foreign Service Act of 1946, in order to promote career development within the Service and to provide necessary training and instruction in the field of foreign relations to members of the Service and to employees of the Department and of other agencies. The institutionshall be headed by a Director, who shall be appointed by the Secretary of State. The institution shall be designated the "George P. Shultz National Foreign Affairs Training Center" <sup>1</sup>
+The Secretary of State shall maintain and operate an institution or center for training (hereinafter in this subchapter referred to as the "institution"), originally established under section 701 of the Foreign Service Act of 1946, in order to promote career development within the Service and to provide necessary training and instruction in the field of foreign relations to members of the Service and to employees of the Department and of other agencies. The institution shall be headed by a Director, who shall be appointed by the Secretary of State. The institution shall be designated the "George P. Shultz National Foreign Affairs Training Center" <sup>1</sup>
 
 #### (b) Provision of training
 
@@ -16,7 +16,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 (1) The Secretary of State is authorized to provide for special professional foreign affairs training and instruction of employees of foreign governments through the institution.
 
-(2) Training and instruction under paragraph (1) shall be on a reimbursable or advance-of-funds basis. Such reimbursements or advances to the Department of State may be provided by an agency of the United States Government or by a foreign government and shall be credited to the currently available applicable appropriation account.
+(2) Training and instruction under paragraph (1) shall be on a reimbursable or advance-of-funds basis. Such reimbursements or advancesto the Department of State may be provided by an agency of the United States Government or by a foreign government and shall be credited to the currently available applicable appropriation account.
 
 (3) In making such training available to employees of foreign governments, priority consideration should be given to officials of newly emerging democratic nations and then to such other countries as the Secretary determines to be in the national interest of the United States.
 
@@ -98,7 +98,7 @@ Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: "Any re
 
 Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(2), Oct. 21, 1998, 112 Stat. 2681–809, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998."
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, which provided that the amendment made by section 2205(a)(3) was effective Oct. 1, 2002, was repealed by Pub. L. 107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.
+Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, which provided that the amendment made by section 2205(a)(3) was effective Oct. 1, 2002, was repealed by Pub. L.107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.
 
 #### Designation of Foreign Language Resources Coordinator
 

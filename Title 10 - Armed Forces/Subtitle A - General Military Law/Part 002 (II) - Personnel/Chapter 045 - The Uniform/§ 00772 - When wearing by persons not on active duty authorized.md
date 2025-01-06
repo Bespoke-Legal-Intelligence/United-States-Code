@@ -134,7 +134,7 @@ In subsection (f), the words "while portraying a member of the Army, Navy, Air F
 
 In subsection (g), the word "resident" is substituted for the word "members", since the word "members" related to members of the now disbanded National Home for disabled volunteer soldiers to which were admitted "members" of an organization called the "Disabled Volunteer Soldiers". The words "veterans' home" are substituted for the words "national home for veterans", since there are now no "national homes" administered by the Veterans' Administration.
 
-In subsection (h), the words "authorized and" and "for wear during such course of instruction" are omitted as surplusage. The word "naval" is omitted as covered by the word "military". The words "Army, Navy, Air Force, or Marine Corps" are substituted for thewords "military or naval authorities". The words "that armed force" are substituted for the words "such military or naval authorities".
+In subsection (h), the words "authorized and" and "for wear during such course of instruction" are omitted as surplusage. The word "naval" is omitted as covered by the word "military". The words "Army, Navy, Air Force, or Marine Corps" are substituted for the words "military or naval authorities". The words "that armed force" are substituted for the words "such military or naval authorities".
 
 In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flying schools or Air Force service schools". The words "in such manner" are omitted as surplusage.
 

@@ -110,7 +110,7 @@ A member of the Delegate Body shall serve without compensation, but may be reimb
 
 The Delegate Body shall—
 
-&emsp;(1) recommend the rate of assessment prescribed by the initial order and any increase in such rate pursuant to section 4809(5) <sup>1</sup> of this title; and
+&emsp;(1) recommend the rate of assessment prescribed by the initial order and any increase insuch rate pursuant to section 4809(5) <sup>1</sup> of this title; and
 
 &emsp;(2) determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under section 4809(c)(1) of this title.
 

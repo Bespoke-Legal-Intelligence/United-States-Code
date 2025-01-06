@@ -66,7 +66,7 @@ The Director shall make awards, on a competitive basis, to four-year institution
 
 &emsp;&emsp;(A) develop, assess, and disseminate models for providing undergraduate students with course-based research experiences across STEM disciplines and education levels;
 
-&emsp;&emsp;(B) identify and address opportunities and challenges in facilitating implementation across a broad range of institution types, including historically Black colleges and universities, Tribal Colleges or Universities, minority serving institutions and community colleges;
+&emsp;&emsp;(B) identify and address opportunities and challenges in facilitating implementationacross a broad range of institution types, including historically Black colleges and universities, Tribal Colleges or Universities, minority serving institutions and community colleges;
 
 &emsp;&emsp;(C) identify and develop best practices to address barriers for faculty, including institutional culture, resources, and incentive structures;
 

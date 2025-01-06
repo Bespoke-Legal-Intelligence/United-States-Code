@@ -44,7 +44,7 @@ Under regulations prescribed by the Secretary—
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(5).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualifiedprogress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), 48D(b)(5), or 48E(e).
 
 #### (3) Certain expansions in connection with advanced manufacturing facilities
 
@@ -102,7 +102,7 @@ Under regulations prescribed by the Secretary—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacysemiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+&emsp;&emsp;&emsp;Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
 
 #### (E) Applicable taxpayer
 
@@ -176,7 +176,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Special rule
 
-&emsp;In the case of any energy credit—
+&emsp;In the case of any energy credit or clean electricity investment credit—
 
 &emsp;&emsp;(A) only 50 percent of such credit shall be taken into account under paragraph (1),
 
@@ -206,7 +206,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (d) Certain rules made applicable
 
-For purposes of this subpart, rules similar to the rules of the following provisions (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
+For purposes of this subpart, rules similar to the rules of the following provisions (as in effecton the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
 
 &emsp;(1) Section 46(e) (relating to limitations with respect to certain persons).
 
@@ -231,16 +231,6 @@ For purposes of this subpart, rules similar to the rules of the following provis
 > Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.
 
 (Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(b)(1)–(3)(B), (d)(3), Aug. 9, 2022, 136 Stat. 1397–1399; Pub. L. 117–169, title I, §§13102(f)(5), (i), 13702(b)(3), (4), 13801(c), Aug. 16, 2022, 136 Stat. 1917, 1997, 2012.)
-
-#### Amendment of Section
-
-<i>Pub. L. 117–169, title I, §13702(b)(3), (4), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended:</i>
-
-<i>(1) in subsection (a)(2)(E), by striking "or 48D(b)(5)" and inserting "48D(b)(5), or 48E(e)"; and</i>
-
-<i>(2) in subsection (c)(3), by inserting "or clean electricity investment credit" after "In the case of any energy credit".</i>
-
-<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 

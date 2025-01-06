@@ -8,7 +8,7 @@ The Attorney General may, subject to the availability of appropriations, agree t
 
 #### (1) Determinations of reasonably achievable
 
-&emsp;The Commission, on petition from a telecommunications carrier or any other interested person, and after notice to the Attorney General, shall determine whether compliance with the assistance capability requirements of section 1002 of this title is reasonably achievable with respect to any equipment, facility, or service installed or deployed after January 1, 1995. The Commission shall make such determination within 1 year after the date such petition is filed. In making such determination, the Commission shall determine whether compliance would impose significant difficulty or expense on the carrier or on the users of the carrier's systems and shall consider the following factors:
+&emsp;The Commission, on petition from a telecommunications carrier or any other interested person, and after notice to the Attorney General, shall determine whether compliance with the assistance capability requirements of section 1002 of this title is reasonably achievable with respect to any equipment, facility, or service installed or deployed after January 1, 1995. The Commission shall make such determination within 1 year after the date such petition is filed. In making such determination, the Commission shall determine whether compliance would impose significant difficulty or expense on the carrier or on the users of thecarrier's systems and shall consider the following factors:
 
 &emsp;&emsp;(A) The effect on public safety and national security.
 
@@ -34,7 +34,7 @@ The Attorney General may, subject to the availability of appropriations, agree t
 
 #### (2) Compensation
 
-&emsp;If compliance with the assistance capability requirements of section 1002 of this title is notreasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—
+&emsp;If compliance with the assistance capability requirements of section 1002 of this title is not reasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—
 
 &emsp;&emsp;(A) the Attorney General, on application of a telecommunications carrier, may agree, subject to the availability of appropriations, to pay the telecommunications carrier for the additional reasonable costs of making compliance with such assistance capability requirements reasonably achievable; and
 

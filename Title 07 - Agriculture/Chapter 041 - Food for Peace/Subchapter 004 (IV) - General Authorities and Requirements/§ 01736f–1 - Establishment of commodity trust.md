@@ -80,7 +80,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the suffering of otherwise affected populations;
 
-&emsp;&emsp;&emsp;&emsp;(III) food scarcity conditions caused by slow-onset events, such as drought, crop failure, pest infestation, and disease, that result in an erosion of the ability ofcommunities and vulnerable populations to meet food needs; and
+&emsp;&emsp;&emsp;&emsp;(III) food scarcity conditions caused by slow-onset events, such as drought, crop failure, pest infestation, and disease, that result in an erosion of the ability of communities and vulnerable populations to meet food needs; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) severe food access or availability conditions resulting from sudden economic shocks, market failure, or economic collapse, that result in an erosion of the ability of communities and vulnerable populations to meet food needs.
 
@@ -164,7 +164,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 #### (A) In general
 
-&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available tocarry out the Food for Peace Act (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b).
+&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b).
 
 #### (B) Basis for reimbursement
 
@@ -190,9 +190,9 @@ Any determination by the Secretary under this section shall be final.
 
 #### (2) Disposal of eligible commodities
 
-&emsp;Eligible commodities remaining in the trust after September 30, 2024, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+&emsp;Eligible commodities remaining in the trust after September 30, 2025, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3303, Dec. 20, 2018, 132 Stat. 4619; Pub. L. 118–22, div. B, title I, §102(d)(2), Nov. 17, 2023, 137 Stat. 116.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3303, Dec. 20, 2018, 132 Stat. 4619; Pub. L. 118–22, div. B, title I, §102(d)(2), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, §4101(d)(1), Dec. 21, 2024, 138 Stat. 1769.)
 
 #### <b>Editorial Notes</b>
 
@@ -217,6 +217,8 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, §302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, §1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, §1143, title XV, §1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 
 #### Amendments
+
+<b>2024</b>—Subsec. (h)(2). Pub. L. 118–158 substituted "September 30, 2025" for "September 30, 2024".
 
 <b>2023</b>—Subsec. (h)(2). Pub. L. 118–22 substituted "2024" for "2023".
 
@@ -287,6 +289,10 @@ Subsec. (f)(2)(A). Pub. L. 105–385, §212(a)(4)(B), inserted before period at 
 Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, §212(b)(3)(B), substituted "trust" for "reserve".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Amendment by Pub. L. 118–158 to be applied and administered as if enacted on Sept. 30, 2024, see section 4101(g) of Pub. L. 118–158, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
 #### Effective Date of 2023 Amendment
 

@@ -66,7 +66,7 @@ Funding from a small business concern.—The small business concern (or its owne
 
 &emsp;&emsp;(i) at least 15 percent of the total cost of the project financed, if the small business concern has been in operation for a period of 2 years or less;
 
-&emsp;&emsp;(ii) at least 15 percent of the total cost of the project financed if the project involvesthe construction of a limited or single purpose building or structure;
+&emsp;&emsp;(ii) at least 15 percent of the total cost of the project financed if the project involves the construction of a limited or single purpose building or structure;
 
 &emsp;&emsp;(iii) at least 20 percent of the total cost of the project financed if the project involves both of the conditions set forth in clauses (i) and (ii); or
 
@@ -246,7 +246,7 @@ Pub. L. 111–240, §1122(a), added subpar. (C).
 
 <b>2007</b>—Par. (2)(A)(iv), (v). Pub. L. 110–140 added cls. (iv) and (v).
 
-<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
+<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
 
 <b>2000</b>—Par. (2). Pub. L. 106–554, §1(a)(9) \[title III, §303\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern."
 
@@ -280,7 +280,7 @@ Par. (4). Pub. L. 100–590, §116(a), added par. (4).
 
 <b>1981</b>—Pars. (1) to (4). Pub. L. 97–35 redesignated pars. (2) to (4) as (1) to (3), respectively. Former par. (1), which provided that all loans made shall be so secured as reasonably to assure repayment and that in agreements to participate in loans on a deferred basis, such participation by the Administration shall not be in excess of 90 per centum of the balance of the loan outstanding at the time of disbursement, was struck out.
 
-Par. (5). Pub. L. 97–35 struck out par. (5) which provided that loans, including extensions and renewals, may be made for a period not exceeding twenty-five years and that an extension may be granted up to ten years, if such extension will aid in the orderly liquidation of the loan, and that the Administration may fix the rate of interest.
+Par. (5). Pub. L. 97–35 struck out par. (5) which provided that loans, including extensions and renewals,may be made for a period not exceeding twenty-five years and that an extension may be granted up to ten years, if such extension will aid in the orderly liquidation of the loan, and that the Administration may fix the rate of interest.
 
 <b>1978</b>—Par. (4). Pub. L. 95–507 inserted provisions relating to derivation of community injection funds.
 

@@ -20,7 +20,7 @@ Agency board or agency board of contract appeals.—The term "agency board" or "
 
 &emsp;(3)
 
-Agency head.—The term "agency head" means the head and any assistant head of anexecutive agency. The term may include the chief official of a principal division of an executive agency if the head of the executive agency so designates that chief official.
+Agency head.—The term "agency head" means the head and any assistant head of an executive agency. The term may include the chief official of a principal division of an executive agency if the head of the executive agency so designates that chief official.
 
 &emsp;(4)
 

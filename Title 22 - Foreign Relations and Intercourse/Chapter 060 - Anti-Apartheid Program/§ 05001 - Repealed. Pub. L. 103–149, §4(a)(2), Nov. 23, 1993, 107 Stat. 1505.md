@@ -34,7 +34,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;"(5) The success of the transition in South Africa is crucial to the stability and economic development of the southern African region.
 
-&emsp;"(6) Nelson Mandela of the African National Congress and other representative leaders in South Africa have declared that the time has come when the international community should lift all economic sanctions against South Africa.
+&emsp;"(6) Nelson Mandela of the African National Congress and other representative leaders in South Africa have declared that the time has come when theinternational community should lift all economic sanctions against South Africa.
 
 &emsp;"(7) In light of recent developments, the continuation of these economic sanctions is detrimental to persons disadvantaged by apartheid.
 
@@ -222,7 +222,7 @@ Investment and trade programs.—Each of the agencies referred to in subsections
 
 &emsp;"(2)
 
-United states government procurement.—To the extent not inconsistent with the obligations ofthe United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
+United states government procurement.—To the extent not inconsistent with the obligations of the United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
 
 #### "SEC. 7. INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS.
 
@@ -236,7 +236,7 @@ United states government procurement.—To the extent not inconsistent with the 
 
 "(a)
 
-In General.—The President should encourage other donors, particularly Japan and the European Community countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
+In General.—The President should encourage other donors, particularly Japan and the EuropeanCommunity countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
 
 "(b)
 

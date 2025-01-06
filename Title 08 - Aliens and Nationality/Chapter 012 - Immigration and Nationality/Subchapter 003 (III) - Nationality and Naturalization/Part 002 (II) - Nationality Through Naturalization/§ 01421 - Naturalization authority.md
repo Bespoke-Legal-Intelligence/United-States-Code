@@ -58,7 +58,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (C) Waiver of exclusive authority
 
-&emsp;&emsp;Notwithstanding the previous provisions of this paragraph, a court may waive exclusive authority to administer the oath of allegiance under section 1448(a) of this title to a person under this subsection if the Attorney General has not provided the court with the certification described in subparagraph (A)(i) within a reasonable time before the date scheduled by the court for oath administration ceremonies. Upon notification of acourt's waiver of jurisdiction, the Attorney General shall promptly notify the applicant.
+&emsp;&emsp;Notwithstanding the previous provisions of this paragraph, a court may waive exclusive authority to administer the oath of allegiance under section 1448(a) of this title to a person under this subsection if the Attorney General has not provided the court with the certification described in subparagraph (A)(i) within a reasonable time before the date scheduled by the court for oath administration ceremonies. Upon notification of a court's waiver of jurisdiction, the Attorney General shall promptly notify the applicant.
 
 #### (4) Issuance of certificates
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–232, title I, §102(c), Dec. 12, 1991, 105 Stat. 1736, provided that: "The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\]."
+Pub. L. 102–232, title I, §102(c), Dec. 12, 1991, 105 Stat. 1736, provided that: "The amendments made by thistitle \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\]."
 
 Amendment by section 305(a) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 

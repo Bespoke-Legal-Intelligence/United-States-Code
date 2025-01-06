@@ -4,7 +4,7 @@
 
 (b) Sums appropriated pursuant to subsection (a) of this section shall remain available until the end of the sixth fiscal year following the fiscal year for which they are appropriated.
 
-(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5072; renumbered §8212 and amended Pub.L. 102–40, title IV, §402(b)(2)(B), (d)(1), May 7, 1991, 105 Stat. 239.)
+(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5072; renumbered §8212 and amended Pub. L. 102–40, title IV, §402(b)(2)(B), (d)(1), May 7, 1991, 105 Stat. 239.)
 
 #### <b>Editorial Notes</b>
 

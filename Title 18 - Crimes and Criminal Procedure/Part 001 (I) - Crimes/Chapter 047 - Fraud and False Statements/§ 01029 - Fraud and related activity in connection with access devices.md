@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) selling information regarding or an application to obtain an access device;
 
-&emsp;(7) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a telecommunications instrument that has been modified or altered to obtain unauthorized use of telecommunications services;
+&emsp;(7) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a telecommunications instrument that has been modified or altered toobtain unauthorized use of telecommunications services;
 
 &emsp;(8) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a scanning receiver;
 
@@ -44,7 +44,7 @@ Generally.—The punishment for an offense under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), a fine under this title or imprisonment for not more than 10 years, or both; and
 
-&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine underthis title or imprisonment for not more than 15 years, or both;
+&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
 
 &emsp;&emsp;(B) in the case of an offense that occurs after a conviction for another offense under this section, a fine under this title or imprisonment for not more than 20 years, or both; and
 
@@ -88,7 +88,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 (h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
 
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(l), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d),Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–113, div. N, title IV, §407, Dec. 18, 2015, 129 Stat. 2985.)
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(l), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–113, div. N, title IV, §407, Dec. 18, 2015, 129 Stat. 2985.)
 
 #### <b>Editorial Notes</b>
 
@@ -172,7 +172,7 @@ Pub. L. 103–322, §250007(2), substituted "(a)(2), (3), (5), (6), or (7)" for 
 
 Subsec. (c)(2). Pub. L. 103–414, §206(b), substituted "(a)(1), (4), (5), or (6)" for "(a)(1) or (a)(4)".
 
-Pub. L. 103–322, §330016(2)(I), substituted "fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment" for "fine of notmore than the greater of $50,000 or twice the value obtained by the offense or imprisonment".
+Pub. L. 103–322, §330016(2)(I), substituted "fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment" for "fine of not more than the greater of $50,000 or twice the value obtained by the offense or imprisonment".
 
 Subsec. (c)(3). Pub. L. 103–322, §330016(2)(I), substituted "fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment" for "fine of not more than the greater of $100,000 or twice the value obtained by the offense or imprisonment".
 

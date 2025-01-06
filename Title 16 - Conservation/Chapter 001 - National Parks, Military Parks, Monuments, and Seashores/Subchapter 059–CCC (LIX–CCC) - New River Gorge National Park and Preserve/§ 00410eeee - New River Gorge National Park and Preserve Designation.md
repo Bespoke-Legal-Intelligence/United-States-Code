@@ -158,7 +158,7 @@ Pub. L. 100–534, §2, Oct. 26, 1988, 102 Stat. 2699, provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;"(1) The outstanding natural, scenic, cultural and recreational values of the segment of the New River in West Virginia within the boundaries of the New River Gorge National River \[now New River Gorge National Park and Preserve\] have been preserved and enhanced by its inclusion in the National Park System.
+&emsp;"(1) The outstanding natural, scenic, cultural and recreational values of the segment of the New Riverin West Virginia within the boundaries of the New River Gorge National River \[now New River Gorge National Park and Preserve\] have been preserved and enhanced by its inclusion in the National Park System.
 
 &emsp;"(2) The establishment of the New River Gorge National River has provided the basis for increased recreation and tourism activities in southern West Virginia due to its nationally recognized status and has greatly contributed to the regional economy.
 

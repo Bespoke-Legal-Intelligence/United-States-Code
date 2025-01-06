@@ -24,7 +24,7 @@ Any generator of low-level radioactive waste, or any Governor (or, for any State
 
 #### (d) Temporary emergency access
 
-Upon determining that emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security, the Nuclear Regulatory Commission may at its discretion grant temporary emergency access, pending its determination whether the threat could be mitigated by any alternative consistent with the public health and safety. In granting access under this subsection, the Nuclear Regulatory Commission shall provide the same notification and information required under subsection (c). Absent a determination that no alternative consistent withthe public health and safety would mitigate the threat, access granted under this subsection shall expire 45 days after the granting of temporary emergency access under this subsection.
+Upon determining that emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security, the Nuclear Regulatory Commission may at its discretion grant temporary emergency access, pending its determination whether the threat could be mitigated by any alternative consistent with the public health and safety. In granting access under this subsection, the Nuclear Regulatory Commission shall provide the same notification and information required under subsection (c). Absent a determination that no alternative consistent with the public health and safety would mitigate the threat, access granted under this subsection shall expire 45 days after the granting of temporary emergency access under this subsection.
 
 #### (e) Extension of emergency access
 
@@ -32,7 +32,7 @@ The Nuclear Regulatory Commission may grant one extension of emergency access be
 
 #### (f) Reciprocal access
 
-Any compact region or State not a member of a compact that provides emergency access to non-Federal disposal facilities within its borders shall be entitled to reciprocal access to any subsequently operating non-Federal disposal facility that serves the State or compact region in which low-level radioactive waste granted emergency access was generated. The compact commission or State having authority to approve importation of low-level radioactive waste to the disposal facility to which emergency access was granted shall designate for reciprocal access an equal volume of low-level radioactive waste having similar characteristics to that provided emergency access.
+Any compact region or State not a member of a compact that provides emergency access to non-Federal disposal facilities within its borders shall be entitled to reciprocal access to any subsequently operating non-Federal disposal facility that serves the State or compact region inwhich low-level radioactive waste granted emergency access was generated. The compact commission or State having authority to approve importation of low-level radioactive waste to the disposal facility to which emergency access was granted shall designate for reciprocal access an equal volume of low-level radioactive waste having similar characteristics to that provided emergency access.
 
 #### (g) Approval by compact commission
 

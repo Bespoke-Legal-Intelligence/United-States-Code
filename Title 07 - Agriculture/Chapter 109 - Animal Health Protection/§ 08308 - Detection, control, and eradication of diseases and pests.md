@@ -24,7 +24,7 @@ The Secretary may carry out operations and measures to detect, control, or eradi
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002,116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 
@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2), (3). Pub. L. 110–246, §11011(2), added par. (2), redesignated former par. (2) as (3), and,in par. (3), struck out "of longer than 60 days" after "review".
+<b>2008</b>—Subsec. (b)(2), (3). Pub. L. 110–246, §11011(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out "of longer than 60 days" after "review".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

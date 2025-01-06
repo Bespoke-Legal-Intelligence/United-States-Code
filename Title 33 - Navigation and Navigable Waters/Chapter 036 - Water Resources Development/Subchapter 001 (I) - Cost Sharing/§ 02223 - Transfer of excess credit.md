@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Except for subsection (a)(4)(D)(i) of that section, the requirements of section 1962d–5b oftitle 42 (as amended by section 1018(a)) shall apply to any credit under this section.
+&emsp;Except for subsection (a)(4)(D)(i) of that section, the requirements of section 1962d–5b of title 42 (as amended by section 1018(a)) shall apply to any credit under this section.
 
 #### (2) Conditions
 
@@ -50,7 +50,7 @@ In evaluating a request to apply credit in excess of the non-Federal share for a
 
 #### (d) Termination of authority
 
-The authority provided in this section shall terminate on December 31, 2028.
+The authority provided in this section shall terminate on December 31, 2030.
 
 #### (e) Report
 
@@ -62,7 +62,7 @@ The authority provided in this section shall terminate on December 31, 2028.
 
 #### (B) Final report
 
-&emsp;&emsp;Not later than December 31, 2028, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a final report on the use of the authority under this section.
+&emsp;&emsp;Not later than December 31, 2030, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a final report on the use of the authority under this section.
 
 #### (2) Inclusions
 
@@ -74,7 +74,7 @@ The authority provided in this section shall terminate on December 31, 2028.
 
 &emsp;&emsp;(C) an assessment of the impact of the authority under this section on other water resources projects.
 
-(Pub. L. 113–121, title I, §1020, June 10, 2014, 128 Stat. 1227; Pub. L. 114–322, title I, §1166, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, §8383, Dec. 23, 2022, 136 Stat. 3829.)
+(Pub. L. 113–121, title I, §1020, June 10, 2014, 128 Stat. 1227; Pub. L. 114–322, title I, §1166, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, §8383, Dec. 23, 2022, 136 Stat. 3829; Pub. L. 118–272, div. A, title III, §1303(g), Jan. 4, 2025, 138 Stat. 3114.)
 
 #### <b>Editorial Notes</b>
 
@@ -84,9 +84,11 @@ Section 1018(a), referred to in subsec. (b)(1), means section 1018(a) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2025</b>—Subsecs. (d), (e)(1)(B). Pub. L. 118–272 substituted "2030" for "2028".
 
 <b>2022</b>—Subsec. (a)(3). Pub. L. 117–263, §8383(1), added par. (3).
 

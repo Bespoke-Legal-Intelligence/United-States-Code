@@ -42,7 +42,7 @@ A grant made under subsection (a) may be used—
 
 &emsp;&emsp;(D) describe how evidence-based strategies have been incorporated into such drug treatment program; and
 
-&emsp;&emsp;(E) describe how data will be collected and analyzed to determine the effectiveness ofsuch drug treatment program and describe how randomized trials will be used where practicable.
+&emsp;&emsp;(E) describe how data will be collected and analyzed to determine the effectiveness of such drug treatment program and describe how randomized trials will be used where practicable.
 
 #### (d) Reports to Congress
 
@@ -60,7 +60,7 @@ A grant made under subsection (a) may be used—
 
 #### (e) Definition of Single State Authority for Substance Abuse
 
-The term "Single State Authority for Substance Abuse" means an entity designated by the Governor or chief executive officer of a State as the single State administrative authority responsible for the planning, development, implementation, monitoring, regulation, and evaluation of substance abuse services.
+The term "Single State Authority for Substance Abuse" means an entity designated bythe Governor or chief executive officer of a State as the single State administrative authority responsible for the planning, development, implementation, monitoring, regulation, and evaluation of substance abuse services.
 
 #### (f) Authorization of appropriations
 

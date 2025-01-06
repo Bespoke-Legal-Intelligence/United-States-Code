@@ -96,7 +96,7 @@
 
 #### (4) Qualified institution of higher education
 
-&emsp;The Director, in coordination with the heads of other agencies with appropriate scientific knowledge, shall establish criteria to designate qualified institutions of higher education that shall be eligible to participate in the Federal AI Scholarship-for-Service program. Such criteria shall include—
+&emsp;The Director, in coordination with the heads of other agencies with appropriate scientific knowledge, shall establish criteria to designate qualified institutions of higher education that shall be eligible to participate inthe Federal AI Scholarship-for-Service program. Such criteria shall include—
 
 &emsp;&emsp;(A) measures of the institution's demonstrated excellence in the education of students in the field of artificial intelligence; and
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the event that a scholarship recipient is required to repay the scholarship awardunder this section, the qualified institution of higher education providing the scholarship shall—
+&emsp;&emsp;In the event that a scholarship recipient is required to repay the scholarship award under this section, the qualified institution of higher education providing the scholarship shall—
 
 &emsp;&emsp;&emsp;(i) determine the repayment amounts and notify the recipient and the Director of the amounts owed; and
 
@@ -272,7 +272,7 @@
 
 #### (B) Reports
 
-&emsp;&emsp;The Director, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every 3 years, to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Oversight and Reform of the House of Representatives a report, including the results of the evaluation under subparagraph (A) and any recent statistics regarding the size, composition, and educational requirements of the Federal AI workforce.
+&emsp;&emsp;The Director, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every 3 years, to the Committee on Homeland Security and Governmental Affairs of the Senate, theCommittee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Oversight and Reform of the House of Representatives a report, including the results of the evaluation under subparagraph (A) and any recent statistics regarding the size, composition, and educational requirements of the Federal AI workforce.
 
 #### (C) Resources
 

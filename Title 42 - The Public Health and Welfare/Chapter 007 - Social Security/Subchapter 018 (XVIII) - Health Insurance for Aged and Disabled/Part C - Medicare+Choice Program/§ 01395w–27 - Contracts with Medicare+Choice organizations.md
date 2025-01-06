@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract underthis section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (b) Minimum enrollment requirements
 
@@ -46,7 +46,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not enter into a contract with a Medicare+Choice organization if a previous contract with that organization under this section was terminated at the request of the organization within the preceding 2-year period, except as provided in subparagraph (B) and except in such other circumstances which warrant special consideration, as determined by the Secretary.
+&emsp;&emsp;The Secretary may not enter into a contract with a Medicare+Choice organization ifa previous contract with that organization under this section was terminated at the request of the organization within the preceding 2-year period, except as provided in subparagraph (B) and except in such other circumstances which warrant special consideration, as determined by the Secretary.
 
 #### (B) Earlier re-entry permitted where change in payment policy
 
@@ -144,7 +144,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (C) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph\(B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by the amount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
+&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by the amount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
 
 #### (D) Limitation
 
@@ -182,7 +182,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) Payment levels and amounts
 
-&emsp;&emsp;A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the services had been furnished by a entity providing similar services that was not a federally qualified health center.
+&emsp;&emsp;A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the planwould make for such services if the services had been furnished by a entity providing similar services that was not a federally qualified health center.
 
 #### (B) Cost-sharing
 
@@ -286,7 +286,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(K) employs or contracts with any individual or entity who engages in the conduct described in subparagraphs (A) through (J) of this paragraph;
 
-> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any ofthe remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
+> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
 
 #### (2) Remedies
 
@@ -306,7 +306,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(B) Civil money penalties of not more than $10,000 for each week beginning after the initiation of civil money penalty procedures by the Secretary during which the deficiency that is the basis of a determination under subsection (c)(2) exists.
 
-&emsp;&emsp;(C) Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
+&emsp;&emsp;(C) Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) and until the Secretary is satisfied that the deficiency that isthe basis for the determination has been corrected and is not likely to recur.
 
 &emsp;&emsp;(D) Civil monetary penalties of not more than $100,000, or such higher amount as the Secretary may establish by regulation, where the finding under subsection (c)(2)(A) is based on the organization's termination of its contract under this section other than at a time and in a manner provided for under subsection (a).
 
@@ -366,7 +366,7 @@ Subsec. (g)(1). Pub. L. 111–148, §6408(b)(2)(C), inserted at end of concludin
 
 Subsec. (g)(1)(H) to (K). Pub. L. 111–148, §6408(b)(2), added subpars. (H) to (K).
 
-Subsec. (g)(2)(A). Pub. L. 111–148, §6408(b)(3), inserted "except with respect to a determination under subparagraph (E), an assessment of not more than the amount claimed by such plan or plan sponsor based upon the misrepresentation or falsified information involved," after "for each such determination,".
+Subsec. (g)(2)(A). Pub. L. 111–148, §6408(b)(3), inserted "except with respect to a determination under subparagraph (E), an assessment of not more than the amount claimed by such plan or plan sponsor based upon themisrepresentation or falsified information involved," after "for each such determination,".
 
 <b>2008</b>—Subsec. (d)(6). Pub. L. 110–275, §164(d)(2), added par. (6).
 

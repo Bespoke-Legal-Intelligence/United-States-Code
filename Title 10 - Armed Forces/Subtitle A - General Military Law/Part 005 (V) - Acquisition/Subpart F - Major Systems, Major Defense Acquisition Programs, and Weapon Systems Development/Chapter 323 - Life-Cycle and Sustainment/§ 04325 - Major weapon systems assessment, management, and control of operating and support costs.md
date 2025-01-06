@@ -14,7 +14,7 @@ Elements.—The guidance required by subsection (a) shall, at a minimum—
 
 &emsp;(3) require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
 
-&emsp;(4) establish policies and procedures for the collection, organization, maintenance, and availability of standardized data on operatingand support costs for major weapon systems in accordance with section 2222 of this title;
+&emsp;(4) establish policies and procedures for the collection, organization, maintenance, and availability of standardized data on operating and support costs for major weapon systems in accordance with section 2222 of this title;
 
 &emsp;(5) establish standard requirements for the collection and reporting of data on operating and support costs for major weapon systems by contractors performing weapon system sustainment functions in an appropriate format, and develop contract clauses to ensure that contractors comply with such requirements;
 
@@ -24,7 +24,7 @@ Elements.—The guidance required by subsection (a) shall, at a minimum—
 
 &emsp;&emsp;(B) to use such data to inform system design decisions, provide insight into sustainment costs, and inform estimates of operating and support costs for such systems;
 
-&emsp;(7) require the military departments to ensure that sustainment factors are fully considered at key life-cycle management decision points and that appropriate measures are taken to reduce operating and support costs by influencing system design early in development, developing sound sustainment strategies, and addressing key drivers of costs;
+&emsp;(7) require the military departments to ensure that sustainment factors are fully considered at key life-cycle management decision points and that appropriate measures are taken to reduce operating and support costsby influencing system design early in development, developing sound sustainment strategies, and addressing key drivers of costs;
 
 &emsp;(8) require the military departments to conduct an independent logistics assessment of each major weapon system prior to key acquisition decision points (including milestone decisions) to identify features that are likely to drive future operating and support costs, changes to system design that could reduce such costs, and effective strategies for managing such costs;
 
@@ -126,7 +126,7 @@ Criteria.—For purposes of paragraph (1) a major weapon system meets the criter
 
 &emsp;&emsp;"(B) a preliminary design has been reviewed using systems engineering, and the system, as so designed, will meet battlefield needs identified by the relevant combatant commanders after appropriate requirements analysis;
 
-&emsp;&emsp;"(C) a representative model or prototype of the system, or key subsystems, has been demonstrated in a relevant environment, such as a well-simulated operational environment;
+&emsp;&emsp;"(C) a representative model or prototype of the system, or key subsystems, has been demonstratedin a relevant environment, such as a well-simulated operational environment;
 
 &emsp;&emsp;"(D) an independent cost estimate has been conducted and used as the basis for funding requirements for the acquisition program for the system;
 
@@ -222,7 +222,7 @@ Annual Report.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after including the first major weapon system in the pilot program, and annually thereafter, the Secretary shallsubmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, and the major weapon systems included in the pilot program, during the one-year period ending on the date of such report.
+In general.—Not later than one year after including the first major weapon system in the pilot program, and annually thereafter, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, and the major weapon systems included in the pilot program, during the one-year period ending on the date of such report.
 
 &emsp;"(2)
 

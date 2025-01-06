@@ -20,7 +20,7 @@ Subsection (a) of this section shall not apply—
 
 &emsp;(6) with respect to assistance provided to reconstitute civilian police authority and capability in the post-conflict restoration of host nation infrastructure for the purposes of supporting a nation emerging from instability, and the provision of professional public safety training, to include training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy;
 
-&emsp;(7) with respect to assistance provided to customs authorities and personnel, including training, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
+&emsp;(7) with respect to assistance provided to customs authorities and personnel, includingtraining, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
 
 > Notwithstanding clause (2), subsection (a) shall apply to any renewal or extension of any contract referred to in such paragraph entered into on or after December 30, 1974.
 

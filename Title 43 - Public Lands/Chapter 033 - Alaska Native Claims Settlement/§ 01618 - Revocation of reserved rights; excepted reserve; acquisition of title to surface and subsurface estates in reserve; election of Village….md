@@ -30,7 +30,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (2) Withdrawal
 
-&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
+&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public landlaws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
 
 #### (3) Authority to select and convey
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as "hot springs") subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
-&emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion orsiltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
+&emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion or siltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
 
 #### (5) Rights retained by the United States
 

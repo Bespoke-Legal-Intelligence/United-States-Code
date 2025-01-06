@@ -2,7 +2,7 @@
 
 (a)
 
-Correction of Military Records.—The Secretary of a military department may correct a person's military records in accordance with a recommendation made by a special board. Anysuch correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person's military records.
+Correction of Military Records.—The Secretary of a military department may correct a person's military records in accordance with a recommendation made by a special board. Any such correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person's military records.
 
 (b)
 
@@ -18,7 +18,7 @@ Special board.—(A) The term "special board" means a board that the Secretary o
 
 &emsp;(2)
 
-Selection board.—(A) The term "selection board" means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, 14507,<sup>1</sup> or 20403 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component, or the Space Force, for the purpose of reducing the number of persons serving in the armed forces.
+Selection board.—(A) The term "selection board" means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14701a, 14704, 14705, or 20403 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component, or the Space Force, for the purpose of reducing the number of persons serving in the armed forces.
 
 &emsp;(B) Such term does not include any of the following:
 
@@ -32,11 +32,11 @@ Selection board.—(A) The term "selection board" means a selection board conven
 
 &emsp;(3)
 
-Involuntarily board-separated.—The term "involuntarily board-separated" means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force,,<sup>2</sup> as a result of a recommendation of a selection board.
+Involuntarily board-separated.—The term "involuntarily board-separated" means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as a result of a recommendation of a selection board.
 
 (c)
 
-Relief Associated With Correction of Certain Actions.—(1) The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person's military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component, or the Space Force,.<sup>2</sup>
+Relief Associated With Correction of Certain Actions.—(1) The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person's military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component, or the Space Force,.<sup>1</sup>
 
 (2)(A) A person referred to in paragraph (1) shall, with that person's consent, be restored to the same status, rights, and entitlements (less appropriate offsets against back pay and allowances) in that person's armed force as the person would have had if the person had not been selected to be involuntarily board-separated as a result of an action the record of which is corrected under subsection (a). An action under this subparagraph is subject to subparagraph (B).
 
@@ -44,13 +44,13 @@ Relief Associated With Correction of Certain Actions.—(1) The Secretary of the
 
 (3) If an involuntarily board-separated person referred to in paragraph (1) does not consent to a restoration of status, rights, and entitlements under paragraph (2), the Secretary concerned shall pay that person back pay and allowances (less appropriate offsets), and shall provide that person service credit, for the period—
 
-&emsp;(A) beginning on the date of the person's separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, or the Space Force,,<sup>2</sup> as the case may be; and
+&emsp;(A) beginning on the date of the person's separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as the case may be; and
 
 &emsp;(B) ending on the earlier of—
 
 &emsp;&emsp;(i) the date on which the person would have been so restored under paragraph (2), as determined by the Secretary concerned; or
 
-&emsp;&emsp;(ii) the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force,,<sup>2</sup> as the case may be.
+&emsp;&emsp;(ii) the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as the case may be.
 
 (d)
 
@@ -58,7 +58,7 @@ Finality of Unfavorable Action.—If a special board makes a recommendation not 
 
 (e)
 
-Regulations.—(1) The Secretary of each military department shall prescribe regulations to carry out this section. Regulations under this subsection may not apply to subsection (f), other than to paragraph (4)(C) of that subsection.
+Regulations.—(1) The Secretary of each military department shall prescribe regulations to carry out this section. Regulations under thissubsection may not apply to subsection (f), other than to paragraph (4)(C) of that subsection.
 
 (2) The Secretary may prescribe in the regulations under paragraph (1) the circumstances under which consideration by a special board may be provided for under this section, including the following:
 
@@ -108,11 +108,17 @@ Existing Jurisdiction.—Nothing in this section limits—
 
 &emsp;(2) the authority of the Secretary of a military department to correct a military record under section 1552 of this title.
 
-(Added Pub. L. 107–107, div. A, title V, §503(a)(1), Dec. 28, 2001, 115 Stat. 1080; amended Pub. L. 118–31, div. A, title XVII, §1722(j)(1), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 107–107, div. A, title V, §503(a)(1), Dec. 28, 2001, 115 Stat. 1080; amended Pub. L. 118–31, div. A, title XVII, §1722(j)(1), Dec. 22, 2023, 137 Stat. 673; Pub. L. 118–159, div. A, title V, §513(c)(1), title XVII, §1701(a)(23), Dec. 23, 2024, 138 Stat. 1876, 2204.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(2)(A). Pub. L. 118–159, §1701(a)(23)(B), substituted "14705" for "14507".
+
+Pub. L. 118–159, §513(c)(1), inserted "14701a," after "14701,".
+
+Subsecs. (b)(3), (c)(3)(A), (B)(ii). Pub. L. 118–159, §1701(a)(23)(A), substituted "Space Force," for "Space Force,,".
 
 <b>2023</b>—Pub. L. 118–31, §1722(j)(1)(A), inserted ", or the Space Force," after "reserve component" wherever appearing.
 
@@ -128,7 +134,5 @@ Subsec. (b)(2)(B)(i). Pub. L. 118–31, §1722(j)(1)(B)(iii), substituted "14101
 
 Section applicable with respect to any proceeding pending on or after Dec. 28, 2001, without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date, but not applicable with respect to any action commenced in a court of the United States before Dec. 28, 2001, see section 503(c) of Pub. L. 107–107, set out as an Effective Date of 2001 Amendment note under section 628 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "14705,". See 2023 Amendment note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

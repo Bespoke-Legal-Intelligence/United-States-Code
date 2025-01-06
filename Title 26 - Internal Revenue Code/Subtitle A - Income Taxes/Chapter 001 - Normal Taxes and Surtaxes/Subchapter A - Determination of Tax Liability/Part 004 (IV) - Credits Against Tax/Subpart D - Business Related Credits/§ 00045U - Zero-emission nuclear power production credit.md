@@ -32,7 +32,7 @@ For purposes of section 38, the zero-emission nuclear power production credit fo
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term "reduction amount" means, with respect to any qualified nuclear power facility for any taxable year, the amount equal to the lesser of—
+&emsp;&emsp;For purposes of this section, the term "reduction amount" means, with respect to anyqualified nuclear power facility for any taxable year, the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount determined under subsection (a)(1), or
 
@@ -92,7 +92,7 @@ For purposes of section 38, the zero-emission nuclear power production credit fo
 
 #### (3) Regulations and guidance
 
-&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determinesnecessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 #### (e) Termination
 

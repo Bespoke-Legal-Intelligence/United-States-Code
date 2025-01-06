@@ -24,7 +24,7 @@ Global internet freedom programming under this section—
 
 &emsp;&emsp;(A) to research key threats to internet freedom;
 
-&emsp;&emsp;(B) to continue the development of technologies that provide or enhance access to the internet, including circumvention tools that bypass internet blocking, filtering, and other censorship techniques used by authoritarian governments; and
+&emsp;&emsp;(B) to continue the development of technologies that provide or enhance access to the internet, including circumvention toolsthat bypass internet blocking, filtering, and other censorship techniques used by authoritarian governments; and
 
 &emsp;&emsp;(C) to maintain the technological advantage of the Federal Government over the censorship techniques described in subparagraph (B); and
 

@@ -32,7 +32,7 @@ In general.—At the end of each fiscal year, each unit of general local governm
 
 &emsp;(2)
 
-Availability of report.—The Secretary shall provide a copy of a report submitted under paragraph (1) by a unit of general local government to the chief executive officer of the State in which the government is located. The Secretary shall provide the report in the manner and form prescribed by the Secretary.
+Availability of report.—The Secretary shall provide a copy of a report submitted under paragraph (1) by a unit of general local government to the chief executive officer ofthe State in which the government is located. The Secretary shall provide the report in the manner and form prescribed by the Secretary.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1879.)
 

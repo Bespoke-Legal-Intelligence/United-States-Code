@@ -14,7 +14,7 @@ Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a
 
 (d)
 
-Prohibition on Commingling of Funds.—The Secretary of the Air Force may not enterinto any contract or other transaction involving the use of a qualified guarantee and appropriated funds in the same contract or transaction.
+Prohibition on Commingling of Funds.—The Secretary of the Air Force may not enter into any contract or other transaction involving the use of a qualified guarantee and appropriated funds in the same contract or transaction.
 
 (e)
 
@@ -64,7 +64,7 @@ Major united states commercial bank.—The term "major United States commercial 
 
 &emsp;(5)
 
-Major united states investment management firm.—The term "major United States investment management firm" means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
+Major united states investment management firm.—The term "major UnitedStates investment management firm" means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
 
 &emsp;&emsp;(A) is headquartered in the United States; and
 

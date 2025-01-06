@@ -270,7 +270,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Leased section of department store
 
-&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease orsimilar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
+&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease or similar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
 
 #### (3) Auto salesmen
 
@@ -316,7 +316,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Qualified affiliate
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified affiliate" means any corporation which is predominantly engaged in airline-related services.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified affiliate" means any corporationwhich is predominantly engaged in airline-related services.
 
 #### (C) Airline-related services
 
@@ -488,7 +488,7 @@ Subsec. (j)(4)(B)(iii). Pub. L. 103–66, §13213(d)(3)(B), substituted "subsect
 
 Subsec. (k). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (l). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (l) and substituted "subsections (e) and (g)" for "subsection (e)". Former subsec. (l) redesignated (m).
+Subsec. (l). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (l) and substituted "subsections (e)and (g)" for "subsection (e)". Former subsec. (l) redesignated (m).
 
 Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (l) as (m).
 
@@ -668,7 +668,7 @@ Effective Date.—The provisions of this section shall take effect on January 1,
 
 #### Treatment of Certain Leased Operations of Department Stores
 
-Pub. L. 99–514, title XVIII, §1853(e), Oct. 22, 1986, 100 Stat. 2872, provided that: "For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property."
+Pub. L. 99–514, title XVIII, §1853(e), Oct. 22, 1986, 100 Stat. 2872, provided that: "For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aidsin the ordinary course of business shall be treated as engaged in over-the-counter sales of property."
 
 #### Transitional Rule for Determination of Line of Business in Case of Affiliated Group Operating Airline
 
@@ -722,5 +722,5 @@ Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as ame
 
 &emsp;"(2) the primary business of the affiliated group is the operation of retail department stores,
 
-> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employershall be treated as engaged in the same line of business as such other member."
+> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member."
 

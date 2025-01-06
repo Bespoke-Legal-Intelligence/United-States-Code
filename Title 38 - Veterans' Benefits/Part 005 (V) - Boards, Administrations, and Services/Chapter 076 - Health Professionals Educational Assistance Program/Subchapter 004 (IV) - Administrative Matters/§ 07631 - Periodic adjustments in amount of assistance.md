@@ -20,7 +20,7 @@
 
 &emsp;(7) The term "specialty education loan repayment amount" means the maximum amount of specialty education loan repayment payments payable to or for a participant in the Department of Veterans Affairs Specialty Education Loan Repayment Program under subchapter VIII of this chapter, as specified in section 7694(c)(1) of this title and as previously adjusted (if at all) in accordance with this section.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 528, §4331; amended Pub. L. 101–366, title II, §205(b), Aug. 15, 1990, 104 Stat. 441; renumbered §7631 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(10), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–135, title I, §§101(f), (g), 102(d)(1), Jan. 23, 2002, 115 Stat. 2448, 2449; Pub. L. 115–182, title III, §303(b)(1)(D), June 6, 2018, 132 Stat. 1466.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 528, §4331; amended Pub. L. 101–366, title II, §205(b), Aug. 15, 1990, 104 Stat. 441; renumbered §7631 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(10), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–135,title I, §§101(f), (g), 102(d)(1), Jan. 23, 2002, 115 Stat. 2448, 2449; Pub. L. 115–182, title III, §303(b)(1)(D), June 6, 2018, 132 Stat. 1466.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,5 +64,5 @@ Pub. L. 107–135, title I, §102(d)(2), Jan. 23, 2002, 115 Stat. 2449, prohibit
 
 #### Transition
 
-Pub. L. 100–322, title II, §216(d), May 20, 1988, 102 Stat. 530, provided that: "Section 4331 \[now 7631\] of title 38,United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988."
+Pub. L. 100–322, title II, §216(d), May 20, 1988, 102 Stat. 530, provided that: "Section 4331 \[now 7631\] of title 38, United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988."
 

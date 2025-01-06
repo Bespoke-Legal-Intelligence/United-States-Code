@@ -12,7 +12,7 @@ Subject to the availability of appropriations, the Administrator shall establish
 
 #### (2) Number of recipients
 
-&emsp;The Administrator shall select not more than 15 recipients of grants under the pilot program from applications submitted under paragraph (1).
+&emsp;The Administrator shall select not more than 15 recipients of grants under the pilotprogram from applications submitted under paragraph (1).
 
 #### (c) Use of funds
 

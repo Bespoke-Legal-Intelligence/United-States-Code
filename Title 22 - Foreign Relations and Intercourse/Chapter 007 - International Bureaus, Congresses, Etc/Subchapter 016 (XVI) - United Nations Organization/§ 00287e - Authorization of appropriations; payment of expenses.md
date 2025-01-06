@@ -26,7 +26,7 @@ In text, "section 6101 of title 41" substituted for "section 3709 of the Revised
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–459 inserted "serving abroad" after "use of the representatives provided for in section 287 of this title", inserted "abroad" after "such living quarters" and struck out at end "Any payments made by United States Government personnel for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose."
+<b>1988</b>—Pub. L. 100–459 inserted "serving abroad" after "use of the representatives provided for in section 287 of this title", inserted "abroad" after "such living quarters" and struck out at end "Any payments made by United States Government personnel for occupancyby them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose."
 
 <b>1982</b>—Pub. L. 97–241 substituted "use of the representatives provided for in section 287 of this title and of their appropriate staffs" for "use of the representative of the United States to the United Nations referred to in subsection (a) of section 287 of this title" and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
 
@@ -106,7 +106,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(4) On May 5, 1987, the Secretary-General reported to the Department of State that he was considering granting 156 exceptions to the hiring freeze.
 
-&emsp;"(5) Of these 156 probable exceptions, 104 would be Soviet and Soviet-bloc nationals currently employed in the United Nations Secretariat—of 298 Soviet and Soviet-bloc nationals currently employed in the United Nations Secretariat—who would be replaced over the next 18 months.
+&emsp;"(5) Of these 156 probable exceptions, 104 would be Soviet and Soviet-bloc nationals currently employed in the United Nations Secretariat—of 298 Soviet andSoviet-bloc nationals currently employed in the United Nations Secretariat—who would be replaced over the next 18 months.
 
 &emsp;"(6) According to a report from the Select Committee on Intelligence of the Senate on 'Soviet Presence in the United Nations Secretariat' (Senate Print 99–52, May 1985), approximately one-fourth of the Soviets in the United Nations Secretariat are intelligence officers, many more are co-opted by the Soviet intelligence agencies, and all Soviets in the United Nations Secretariat must respond to KGB requests for assistance.
 
@@ -120,7 +120,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(11) Section 3 of Article 101 of the United Nations Charter calls for the appointment of individuals who are professionally qualified for the positions they are to fill and maintains that due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
 
-&emsp;"(12) As of September 1985, 442 of 446 Soviet nationals employed throughout the United Nations systemare 'seconded', that is, serve on short, fixed-term contracts.
+&emsp;"(12) As of September 1985, 442 of 446 Soviet nationals employed throughout the United Nations system are 'seconded', that is, serve on short, fixed-term contracts.
 
 &emsp;"(13) Through the abuse of short, fixed-term contracts, the Soviet Union has maintained undue influence and control over major offices of the United Nations Secretariat, thereby effectively using the United Nations Secretariat in the conduct of its foreign relations, in clear violation of Articles 100 and 101 of the United Nations Charter.
 
@@ -266,7 +266,7 @@ Subsequent fiscal years.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), funds authorized to be appropriated for'Contributions for International Peacekeeping Activities' for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.
+In general.—Except as provided in subparagraph (B), funds authorized to be appropriated for 'Contributions for International Peacekeeping Activities' for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.
 
 &emsp;"(B)
 

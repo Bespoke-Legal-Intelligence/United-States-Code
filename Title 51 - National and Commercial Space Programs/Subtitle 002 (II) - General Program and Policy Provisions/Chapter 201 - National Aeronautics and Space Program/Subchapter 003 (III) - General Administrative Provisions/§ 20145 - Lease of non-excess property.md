@@ -166,6 +166,8 @@ construction and environmental compliance and restoration' of title III of div. 
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–42, div. C, title III, Mar. 9, 2024, 138 Stat. 160.
+
 Pub. L. 117–328, div. B, title III, Dec. 29, 2022, 136 Stat. 4548.
 
 Pub. L. 117–103, div. B, title III, Mar. 15, 2022, 136 Stat. 137.

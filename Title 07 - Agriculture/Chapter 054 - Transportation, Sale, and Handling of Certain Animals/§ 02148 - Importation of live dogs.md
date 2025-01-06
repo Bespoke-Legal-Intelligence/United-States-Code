@@ -66,7 +66,7 @@ A prior section 2148, Pub. L. 89–544, §18, Aug. 24, 1966, 80 Stat. 352, prohi
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 Pub. L. 110–234, title XIV, §14210(b), May 22, 2008, 122 Stat. 1464, and Pub. L. 110–246, §4(a), title XIV, §14210(b), June 18, 2008, 122 Stat. 1664, 2226, provided that: "The amendment made by subsection (a) \[enacting this section\] takes effect on the date of the enactment of this Act \[June 18, 2008\]."
 

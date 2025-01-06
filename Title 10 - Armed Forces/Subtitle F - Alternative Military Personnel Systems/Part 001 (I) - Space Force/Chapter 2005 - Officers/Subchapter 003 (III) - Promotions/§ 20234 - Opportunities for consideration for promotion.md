@@ -6,7 +6,7 @@ Specification of Number of Opportunities for Consideration for Promotion.—The 
 
 (b)
 
-Limited Authority of Secretary of the Air Force to Modify Number of Opportunities.—The Secretary of the Air Force may modify the number of opportunities for consideration for promotion to be afforded officers within a competitive category for promotion to a particular grade, as previously specified by the Secretary pursuant <sup>1</sup> subsection (a), not more frequently than once every five years.
+Limited Authority of Secretary of the Air Force to Modify Number of Opportunities.—The Secretary of the Air Force may modify the number of opportunities for consideration for promotion to be afforded officers within a competitive category for promotion to a particular grade, as previously specified by the Secretary pursuant to subsection (a), not more frequently than once every five years.
 
 (c)
 
@@ -18,9 +18,13 @@ Limitation on Number of Opportunities Specified.—The number of opportunities f
 
 (e)
 
-Effect of Certain Reduction in Number of Opportunities Specified.—If, by reason of a reduction in the number of opportunities for consideration for promotion under this section, an officer would no longer have one or more opportunities for consideration for promotion thatwere available to the officer before the reduction, the officer shall be afforded one additional opportunity for consideration for promotion after the reduction.
+Effect of Certain Reduction in Number of Opportunities Specified.—If, by reason of a reduction in the number of opportunities for consideration for promotion under this section, an officer would no longer have one or more opportunities for consideration for promotion that were available to the officer before the reduction, the officer shall be afforded one additional opportunity for consideration for promotion after the reduction.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 643.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 643; amended Pub. L. 118–159, div. A, title V, §521(r), Dec. 23, 2024, 138 Stat. 1882.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–159 substituted "pursuant to subsection (a)" for "pursuant subsection (a)".
 

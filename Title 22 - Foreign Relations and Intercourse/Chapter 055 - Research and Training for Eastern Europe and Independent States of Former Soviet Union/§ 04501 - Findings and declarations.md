@@ -36,5 +36,5 @@ Pub. L. 98–164, title VIII, §801, Nov. 22, 1983, 97 Stat. 1047, as amended by
 
 #### Definitions
 
-In pars. (1), (2), and (3)(E), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+In pars. (1), (2), and (3)(E), independent states of the former Soviet Union has the meaning given in section5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 

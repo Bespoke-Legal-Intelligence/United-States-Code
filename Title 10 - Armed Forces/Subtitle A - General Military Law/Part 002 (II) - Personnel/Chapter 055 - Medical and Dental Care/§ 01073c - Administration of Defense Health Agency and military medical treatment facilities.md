@@ -24,7 +24,7 @@ Administration of Military Medical Treatment Facilities.—(1) In accordance wit
 
 (2) In addition to the responsibilities set forth in paragraph (1), the Director of the Defense Health Agency shall, commencing when the Director begins to exercise responsibilities under that paragraph, have the authority—
 
-&emsp;(A) to direct, control, and serve as the primary rater of the performance of commandersor directors of military medical treatment facilities;
+&emsp;(A) to direct, control, and serve as the primary rater of the performance of commanders or directors of military medical treatment facilities;
 
 &emsp;(B) to direct and control any intermediary organizations between the Defense Health Agency and military medical treatment facilities;
 
@@ -138,7 +138,7 @@ Exception to Establishment of Additional DHA Organizations.—At the discretion 
 
 Consultations on Medical Research of Military Departments.—In establishing the Defense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
 
-(h) <sup>1</sup>
+(h)
 
 Treatment of Department of Defense for Purposes of Personnel Assignment.—In implementing this section—
 
@@ -146,11 +146,11 @@ Treatment of Department of Defense for Purposes of Personnel Assignment.—In im
 
 &emsp;(2) the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5) to any other component of the Department of Defense or military department.
 
-(h) <sup>1</sup>
+(i)
 
 Rule of Construction Regarding Secretaries Concerned and Medical Evaluation Boards.—Nothing in this section shall be construed as transferring to the Director of the Defense Health Agency, or otherwise revoking, any authority or responsibility of the Secretary concerned under chapter 61 of this title with respect to a member of the armed forces (including with respect to the administration of morale and welfare and the determination of fitness for duty for the member) while the member is being considered by a medical evaluation board.
 
-(i)
+(j)
 
 Definitions.—In this section:
 
@@ -164,11 +164,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) any other location used for purposes of providing health care services as designated by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663; Pub. L. 118–31, div. A, title VII, §711(a), Dec. 22, 2023, 137 Stat. 301.)
+(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII,§1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663; Pub. L. 118–31, div. A, title VII, §711(a), Dec. 22, 2023, 137 Stat. 301; Pub. L. 118–159, div. A, title XVII, §1701(a)(18), Dec. 23, 2024, 138 Stat. 2204.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (h) to (j). Pub. L. 118–159 redesignated subsec. (h) relating to rule of construction regarding Secretaries concerned and medical evaluation boards as (i) and former subsec. (i) as (j).
 
 <b>2023</b>—Subsec. (e). Pub. L. 118–31, §711(a)(1), substituted "Not later than September 30, 2024, and subject to subsection (f)," for "Not later than September 30, 2022," in introductory provisions.
 
@@ -235,6 +237,62 @@ Subsec. (a)(2). Pub. L. 115–91, §713(2), substituted "military commander or d
 Subsec. (a)(4). Pub. L. 115–91, §713(3), added par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Expansion of Recognition by the Defense Health Agency of Certifying Bodies for Physicians
+
+Pub. L. 118–159, div. A, title VII, §715, Dec. 23, 2024, 138 Stat. 1948, provided that:
+
+"(a)
+
+Expansion.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Director of the Defense Health Agency shall revise the policy of the Defense Health Agency regarding the credentialing and privileging under the military health system to expand the recognition of certifying bodies for physicians under such policy to a wide range of additional board certifications in medical specialties and subspecialties. Subject to subsection (b), the following certifying bodies shall be so recognized:
+
+&emsp;"(1) The member boards of the American Board of Medical Specialties.
+
+&emsp;"(2) The Bureau of Osteopathic Specialists of the American Osteopathic Association.
+
+&emsp;"(3) The American Board of Foot and Ankle Surgery.
+
+&emsp;"(4) The American Board of Podiatric Medicine.
+
+&emsp;"(5) The American Board of Oral and Maxillofacial Surgery.
+
+"(b)
+
+Standards for Recognition of Other Certifying Bodies.—To be recognized under subsection (a), a certifying body shall—
+
+&emsp;"(1) be an organization described in section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)\] and exempt from taxation under section 501(a) of that Code;
+
+&emsp;"(2) maintain a process to define, periodically review, enforce, and update specific standards regarding knowledge and skills of the specialty or subspecialty;
+
+&emsp;"(3) administer a psychometrically valid assessment to determine whether a physician meets standards for initial certification, recertification, or continuing certification;
+
+&emsp;"(4) establish and enforce a code of professional conduct;
+
+&emsp;"(5) require that, in order to be considered a board certified specialty physician, a physician must satisfy—
+
+&emsp;&emsp;"(A) the certifying body's applicable requirements for initial certification; and
+
+&emsp;&emsp;"(B) any applicable recertification or continuing certification requirements of the certifying body that granted the initial certification; and
+
+&emsp;"(6) meets such other requirements as the Secretary of Defense may establish for purposes of compliance with appropriate requirements of applicable State laws and the promotion of consistency in credentialing and privileging health care providers throughout military medical treatment facilities of the Defense Health Agency."
+
+#### Waiver With Respect to Experienced Nurses at Military Medical Treatment Facilities
+
+Pub. L. 118–159, div. A, title VII, §716, Dec. 23, 2024, 138 Stat. 1949, provided that:
+
+"(a)
+
+In General.—The hiring manager of a military medical treatment facility or other health care facility of the Department of Defense may waive any General Schedule qualification standard related to work experience established by the Director of the Office of Personnel Management in the case of any applicant for a nursing or practical nurse position in a military medical treatment facility or other health care facility of the Department of Defense who—
+
+&emsp;"(1)(A) is a nurse or practical nurse in the Department of Defense; or
+
+&emsp;"(B) was a nurse or practical nurse in the Department of Defense for at least one year; and
+
+&emsp;"(2) after commencing work as a nurse or practical nurse in the Department of Defense, obtained a bachelor's degree or graduate degree from an accredited professional nursing educational program.
+
+"(b)
+
+Certification.—If, in the case of any applicant described in subsection (a), a hiring manager waives a qualification standard in accordance with such subsection, such hiring manager shall submit to the Director of the Office of Personnel Management a certification that such applicant meets all remaining General Schedule qualification standards established by the Director of the Office of Personnel Management for the applicable position."
 
 #### Modification of Requirement To Transfer Research and Development and Public Health Functions to Defense Health Agency
 
@@ -368,7 +426,7 @@ Leaders.—Each region under paragraph (1) shall be led by a commander or direct
 
 "(d)
 
-Defense Health Agency Regions OCONUS.—The organizational framework required by subsection\(a) shall provide for the establishment of not more than two Defense Health Agency regions outside the continental United States in order—
+Defense Health Agency Regions OCONUS.—The organizational framework required by subsection (a) shall provide for the establishment of not more than two Defense Health Agency regions outside the continental United States in order—
 
 &emsp;"(1) to enhance joint military medical operations in support of the requirements of the combatant commands in such region or regions, with a specific focus on current and future contingency and operational plans;
 
@@ -408,7 +466,7 @@ Supply and demand for medical services.—The Director of the Defense Health Age
 
 &emsp;"(3)
 
-Medical force requirements of the combatant commands.—The Surgeon General of each Armed Force shall, on behalf of the Secretary concerned, ensure that the uniformed medical and dental personnel serving in such Armed Force receive training and clinical practice opportunities necessary to ensure that such personnel are capable of meeting the operational medical force requirements of the combatant commands applicable to such personnel. Such training and practice opportunities shall be provided primarily through programs and activities of the Defense Health Agency, in coordination with the Secretaries of the military departments, and by such other mechanisms as the Secretary of Defense shall designate for purposes of this paragraph.
+Medical force requirements of the combatant commands.—The Surgeon General of each Armed Force shall, on behalf of the Secretary concerned, ensure that the uniformed medical and dental personnel serving in such Armed Force receive training and clinical practice opportunities necessary to ensurethat such personnel are capable of meeting the operational medical force requirements of the combatant commands applicable to such personnel. Such training and practice opportunities shall be provided primarily through programs and activities of the Defense Health Agency, in coordination with the Secretaries of the military departments, and by such other mechanisms as the Secretary of Defense shall designate for purposes of this paragraph.
 
 &emsp;"(4)
 
@@ -467,6 +525,4 @@ Pub. L. 114–328, div. A, title VII, §702(c), Dec. 23, 2016, 130 Stat. 2196, p
 &emsp;"(1) by not later than October 1, 2018; and
 
 &emsp;"(2) by not increasing the number of full-time equivalent employees of the Defense Health Agency."
-
-<i><sup>1</sup></i><i> So in original. There are two subsecs. (h).</i>
 

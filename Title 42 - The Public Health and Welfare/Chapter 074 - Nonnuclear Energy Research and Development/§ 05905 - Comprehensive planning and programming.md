@@ -28,7 +28,7 @@
 
 &emsp;(C) to demonstrate improved methods for the generation, storage, and transmission of electrical energy through (i) advances in gas turbine technologies, combined power cycles, the use of low British thermal unit gas and, if practicable, magnetohydrodynamics; (ii) storage systems to allow more efficient load following, including the use of inertial energy storage systems; and (iii) improvement in cryogenic transmission methods;
 
-&emsp;(D) to accelerate the commercial demonstration of technologies for producing substitutes for natural gas, including coal gasification: <i>Provided</i>, That the Secretary shall invite andconsider proposals from potential participants based upon Federal assistance and participation in the form of a joint Federal-industry corporation, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
+&emsp;(D) to accelerate the commercial demonstration of technologies for producing substitutes for natural gas, including coal gasification: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation in the form of a joint Federal-industry corporation, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
 &emsp;(E) to accelerate the commercial demonstration of technologies for producing syncrude and liquid petroleum products from coal: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation through guaranteed prices or purchase of the products, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
@@ -70,7 +70,7 @@ The Energy Reorganization Act of 1974, referred to in subsec. (a), is Pub. L. 93
 
 The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Energy Policy Act of 1992, referred to in subsecs. (a) and (b)(3)(R), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. Titles XX through XXIII of the Act are classified generally to subchapters VIII (§13401 et seq.), IX (§13451 et seq.), X (§13501 et seq.), and XI (§13521 et seq.), respectively, of chapter 134 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+The Energy Policy Act of 1992, referred to in subsecs. (a) and (b)(3)(R), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. Titles XX through XXIII of the Act are classified generally to subchapters VIII (§13401 et seq.), IX (§13451 et seq.), X (§13501 et seq.), and XI (§13521 et seq.),respectively, of chapter 134 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 Section 5914 of this title, referred to in subsecs. (a), (b)(1), and (c), was omitted from the Code.
 
@@ -84,7 +84,7 @@ The Renewable Energy and Energy Efficiency Technology Competitiveness Act of 198
 
 <b>2020</b>—Subsec. (b)(3)(L) to (S). Pub. L. 116–260 redesignated subpars. (M) to (S) as (L) to (R), respectively, and struck out subpar. (L) which read as follows: "to commercially demonstrate advanced solar energy technologies in accordance with the Solar Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–473);".
 
-<b>2005</b>—Subsec. (b)(3). Pub. L. 109–58 substituted "Secretary" for "Administrator" in introductory provisions and subpars. (D) and (E) and inserted "Demonstration"after "Cooling" in subpar. (I) and "Energy" after "Solar" in subpar. (L).
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–58 substituted "Secretary" for "Administrator" in introductory provisions and subpars. (D) and (E) and inserted "Demonstration" after "Cooling" in subpar. (I) and "Energy" after "Solar" in subpar. (L).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–486, §2303(a)(1)(A), substituted "the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), and titles XX through XXIII of the Energy Policy Act of 1992, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992," for "the Administrator".
 

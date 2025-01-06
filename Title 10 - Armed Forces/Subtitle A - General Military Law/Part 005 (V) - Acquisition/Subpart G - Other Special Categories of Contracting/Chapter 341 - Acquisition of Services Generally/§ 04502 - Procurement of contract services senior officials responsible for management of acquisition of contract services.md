@@ -20,7 +20,7 @@ Duties and Responsibilities.—In carrying out subsection (b)(1), each senior of
 
 &emsp;(1) implement the requirements of this section and section 4501 of this title and the policies, procedures, and best practices guidelines developed by the Under Secretary of Defense for Acquisition and Sustainment pursuant to section 4501(b) of this title;
 
-&emsp;(2) authorize the procurement of contract services through contracts entered into by agencies outside the Department of Defense in appropriate circumstances, in accordance with the requirements of section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (10 U.S.C. 2304 note), section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (31 U.S.C. 1535 note), and the regulations implementing such sections;
+&emsp;(2) authorize the procurement of contract services through contracts entered into by agencies outside the Department of Defense in appropriate circumstances, in accordance with the requirements of section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (10 U.S.C. 2304 note), section 814 of the Strom Thurmond NationalDefense Authorization Act for Fiscal Year 1999 (31 U.S.C. 1535 note), and the regulations implementing such sections;
 
 &emsp;(3) dedicate full-time commodity managers to coordinate the procurement of key categories of services;
 

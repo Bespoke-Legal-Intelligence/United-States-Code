@@ -24,7 +24,7 @@ For purposes of this section, the term "eligible deferred compensation plan" mea
 
 &emsp;(1) in which only individuals who perform service for the employer may be participants,
 
-&emsp;(2) which provides that (except as provided in paragraph (3)) the maximum amount which may be deferred under the plan for the taxable year (other than rollover amounts) shall not exceed the lesser of—
+&emsp;(2) which provides that (except as provided in paragraph (3)) the maximum amount which may be deferred under the plan for the taxableyear (other than rollover amounts) shall not exceed the lesser of—
 
 &emsp;&emsp;(A) the applicable dollar amount, or
 
@@ -82,7 +82,7 @@ The maximum amount of the compensation of any one individual which may be deferr
 
 &emsp;&emsp;(B) the plan meets the minimum distribution requirements of paragraph (2),
 
-&emsp;&emsp;(C) in the case of a plan maintained by an employer described in subsection (e)(1)(A),the plan meets requirements similar to the requirements of section 401(a)(31), and
+&emsp;&emsp;(C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31), and
 
 &emsp;&emsp;(D) except as may be otherwise provided by regulations, in the case of amounts described in subparagraph (A)(iv), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
@@ -98,7 +98,7 @@ The maximum amount of the compensation of any one individual which may be deferr
 
 #### (4) Participant certification
 
-&emsp;In determining whether a distribution to a participant is made when the participant is faced with an unforeseeable emergency, the administrator of a plan maintained by an eligible employer described in subsection (e)(1)(A) may rely on a written certification by the participant that the distribution is—
+&emsp;In determining whether a distribution to a participant is made when the participant isfaced with an unforeseeable emergency, the administrator of a plan maintained by an eligible employer described in subsection (e)(1)(A) may rely on a written certification by the participant that the distribution is—
 
 &emsp;&emsp;(A) made when the participant is faced with an unforeseeable emergency of a type which is described in regulations prescribed by the Secretary as an unforeseeable emergency, and
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (B) Nonelective deferred compensation
 
-&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelectiveonly if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
 
 #### (13) Special rule for churches
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (B) Cost-of-living adjustments
 
-&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shalladjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
 
 #### (16) Rollover amounts
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
+&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year inwhich such portion is paid or otherwise made available to the participant.
 
 #### (ii) Treatment
 
@@ -404,7 +404,7 @@ For purposes of this section—
 
 #### Amendment of Subsection (d)(1)(A)
 
-<i>Pub. L. 117–328, div. T, title III, §334(b)(5), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided</i><i>that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d)(1)(A) of this section is amended by striking "or" at the end of clause (iii), by striking the comma at the end of clause (iv) and inserting ", or", and by adding at the end the following new clause:</i>
+<i>Pub. L. 117–328, div. T, title III, §334(b)(5), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d)(1)(A) of this section is amended by striking "or" at the end of clause (iii), by striking the comma at the end of clause (iv) and inserting ", or", and by adding at the end the following new clause:</i>
 
 &emsp;&emsp;&emsp;<i>"(v) as provided in section 401(a)(39),".</i>
 
@@ -586,7 +586,7 @@ Amendment by section 603(b)(2) of Pub. L. 117–328 applicable to taxable years 
 
 #### Effective Date of 2019 Amendment
 
-Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, seesection 104(c) of Pub. L. 116–94, set out as a note under section 401 of this title.
+Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 104(c) of Pub. L. 116–94, set out as a note under section 401 of this title.
 
 Amendment by section 109(d) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under section 401 of this title.
 
@@ -608,7 +608,7 @@ Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilitie
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions after Dec. 31, 2006, see section 829(b) of Pub. L. 109–280, set out as a note under section 402 of this title.
+Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions after Dec. 31, 2006, see section829(b) of Pub. L. 109–280, set out as a note under section 402 of this title.
 
 Amendment by section 845(b)(3) of Pub. L. 109–280 applicable to distributions in taxable years beginning after Dec. 31, 2006, see section 845(c) of Pub. L. 109–280, set out as a note under section 402 of this title.
 
@@ -686,7 +686,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1011(e)(9), Nov. 10, 1988, 102 Stat. 3461, provided that the amendment made by thatsection is effective for years beginning after Dec. 31, 1988.
+Pub. L. 100–647, title I, §1011(e)(9), Nov. 10, 1988, 102 Stat. 3461, provided that the amendment made by that section is effective for years beginning after Dec. 31, 1988.
 
 Amendment by section 1011(e)(1), (2), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -714,7 +714,7 @@ Termination.—This paragraph shall cease to apply to a plan as of the effective
 
 "(3)
 
-Treatment of certain nonelective deferred compensation.—Section 457 of the 1986 Code shall not apply to amounts deferred under a nonelective deferred compensation plan maintained by an eligible employer described in section 457(e)(1)(A) of the 1986 Code (as in effect after the Reform Act \[Pub. L. 99–514\])—
+Treatment of certain nonelective deferred compensation.—Section 457 of the 1986 Code shall not apply to amounts deferred under a nonelective deferredcompensation plan maintained by an eligible employer described in section 457(e)(1)(A) of the 1986 Code (as in effect after the Reform Act \[Pub. L. 99–514\])—
 
 &emsp;"(A) if such amounts were deferred from periods before July 14, 1988, or
 
@@ -808,7 +808,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -22,7 +22,7 @@ In order to provide the Civil Service and the Foreign Service with the level of 
 
 &emsp;&emsp;(B) the Chief of Mission course to as long as 6 weeks for first time Chiefs of Mission and creating comparable courses for new Assistant Secretaries and Deputy Assistant Secretaries to more accurately reflect the significant responsibilities accompanying such roles; and
 
-&emsp;(4) ensure that Foreign Service officers who are assigned to a country experiencing significant population displacement due to the impacts of climatic and non-climatic shocks and stresses, including rising sea levels and lack of access to affordable and reliable energy and electricity, receive specific instruction on United States policy with respect to resiliency and adaptation to such climatic and non-climatic shocks and stresses.
+&emsp;(4) ensure that Foreign Service officers who are assigned to a country experiencing significant population displacement due to the impacts of climatic and non-climatic shocks and stresses, including rising sea levels and lack of access to affordable and reliable energy andelectricity, receive specific instruction on United States policy with respect to resiliency and adaptation to such climatic and non-climatic shocks and stresses.
 
 (Pub. L. 117–81, div. E, title LI, §5108(c), Dec. 27, 2021, 135 Stat. 2349; Pub. L. 117–263, div. I, title XCII, §9205(c), Dec. 23, 2022, 136 Stat. 3865.)
 

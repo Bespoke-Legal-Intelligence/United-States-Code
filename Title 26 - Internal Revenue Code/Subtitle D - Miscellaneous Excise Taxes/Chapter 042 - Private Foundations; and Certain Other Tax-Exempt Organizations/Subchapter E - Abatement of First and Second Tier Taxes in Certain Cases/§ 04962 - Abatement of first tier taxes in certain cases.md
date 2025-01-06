@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 100–203, §10712(b)(1), added subsec. (c).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 1997 Amendment
 

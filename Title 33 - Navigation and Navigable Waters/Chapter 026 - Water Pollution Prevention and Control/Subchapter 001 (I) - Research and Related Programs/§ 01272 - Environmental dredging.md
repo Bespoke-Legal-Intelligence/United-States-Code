@@ -86,7 +86,7 @@ Subsec. (b)(2). Pub. L. 104–303, §205(2)(B), substituted "$20,000,000" for "$
 
 Subsec. (c). Pub. L. 104–303, §205(1), inserted "and remediate" after "remove".
 
-Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f).Text read as follows: "This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day."
+Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day."
 
 <i><sup>1</sup></i><i> So in original. The word "a" probably should not appear.</i>
 

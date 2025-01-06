@@ -8,7 +8,7 @@ If any person claiming an interest in any vessel, vehicle, aircraft, merchandise
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42 Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42 Stat. 987. That section was superseded by section 614 ofact June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision authorizing collectors, subject to the approval of the Secretary of the Treasury, to release seized merchandise on payment of the appraised value when the appraised value did not exceed $1,000, were contained in R.S. §3081, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -42,5 +42,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Transfer of Functions
 
-Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for "theSecretary of Commerce" under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
+Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for "the Secretary of Commerce" under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
 

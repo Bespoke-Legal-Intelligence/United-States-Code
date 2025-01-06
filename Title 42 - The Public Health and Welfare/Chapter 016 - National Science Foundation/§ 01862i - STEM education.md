@@ -2,7 +2,7 @@
 
 #### (a) National advanced STEM education program
 
-The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the "Director") shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields and education to prepare the skilled technical workforce to meet workforce demands, and to improve the quality of their core education courses in STEM fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including veterans and individuals engaged in work in the home) and on building a pathway from secondary schools to associate-degree-granting institutions, to careers that require technical training, and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
+The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the "Director") shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields and education to prepare the skilled technical workforce to meet workforce demands, and to improve the quality of their core education courses in STEM fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including veterans and individuals engaged in work in the home) and on building a pathway from secondaryschools to associate-degree-granting institutions, to careers that require technical training, and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
 
 &emsp;(1) the development and study of model instructional programs in advanced-technology fields and in core STEM courses;
 
@@ -68,7 +68,7 @@ The Director of the National Science Foundation (hereafter in sections 1862h to 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding STEM programs to strengthen relationships with secondary schools and, as appropriate, elementary schools, in the community served by the college by improving STEM education and encouraging the interest and aptitude of students at these schools for careers in STEM and advanced-technology fields through such means as developing articulation agreements or dual credit courses with local secondary schools, or other means as the Director determines appropriate, to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding STEM programs to strengthen relationshipswith secondary schools and, as appropriate, elementary schools, in the community served by the college by improving STEM education and encouraging the interest and aptitude of students at these schools for careers in STEM and advanced-technology fields through such means as developing articulation agreements or dual credit courses with local secondary schools, or other means as the Director determines appropriate, to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (3) Mentor training grants
 
@@ -218,7 +218,7 @@ As used in this section—
 
 Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (i), was in the original "this Act", meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
 
-Section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act, referred to in subsec. (j)(9), is section 4(b) of Pub. L. 115–402, which is set out as a note under section 1862p of this title.
+Section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act, referred to in subsec.\(j)(9), is section 4(b) of Pub. L. 115–402, which is set out as a note under section 1862p of this title.
 
 #### Codification
 
@@ -282,7 +282,7 @@ Subsec. (h)(1)(B). Pub. L. 117–167, §10312(f)(2)(F)(ii), substituted "2026" f
 
 Subsec. (h)(1)(C). Pub. L. 117–167, §10312(f)(2)(F)(iii), substituted "not less than $3,000,000" for "up to $2,500,000" and "2026" for "2022".
 
-Subsec. (i)(3) to (5). Pub. L. 117–167, §10312(f)(2)(G), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;".
+Subsec. (i)(3) to (5). Pub. L. 117–167, §10312(f)(2)(G), redesignated pars. (4) and (5) as (3) and (4), respectively,and struck out former par. (3) which read as follows: "ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;".
 
 Subsec. (j)(1). Pub. L. 117–167, §10312(f)(2)(H)(i), added par. (1) and struck out former par. (1) which read as follows: "the term 'advanced-technology' includes advanced technical activities such as the modernization, miniaturization, integration, and computerization of electronic, hydraulic, pneumatic, laser, nuclear, chemical, telecommunication, fiber optic, robotic, and other technological applications to enhance productivity improvements in manufacturing, communication, transportation, commercial, and similar economic and national security activities;".
 

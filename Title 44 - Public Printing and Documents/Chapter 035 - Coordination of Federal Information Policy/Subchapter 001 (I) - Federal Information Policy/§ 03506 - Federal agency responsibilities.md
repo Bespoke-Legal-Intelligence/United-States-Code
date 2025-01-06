@@ -2,7 +2,7 @@
 
 (a)(1) The head of each agency shall be responsible for—
 
-&emsp;(A) carrying out the agency's information resources management activities to improveagency productivity, efficiency, and effectiveness; and
+&emsp;(A) carrying out the agency's information resources management activities to improve agency productivity, efficiency, and effectiveness; and
 
 &emsp;(B) complying with the requirements of this subchapter and related policies established by the Director.
 
@@ -246,7 +246,7 @@ Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 #### Amendments
 
-<b>2019</b>—Subsec. (b)(2). Pub. L. 115–435, §202(c)(1)(A)(i), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that shall describe how information resources management activities help accomplish agency missions;".
+<b>2019</b>—Subsec. (b)(2). Pub. L. 115–435, §202(c)(1)(A)(i), amended par. (2) generally. Prior to amendment, par.\(2) read as follows: "in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that shall describe how information resources management activities help accomplish agency missions;".
 
 Subsec. (b)(6). Pub. L. 115–435, §202(c)(1)(A)(ii)–(iv), added par. (6).
 
@@ -332,7 +332,7 @@ Sec. 2. <i>Year 2000 Conversion Council</i>. There is hereby established the Pre
 
 (b) The Chair shall appoint a Vice Chair and assign other responsibilities for operations of the council as he or she deems necessary.
 
-(c) The Chair shall oversee the activities of agencies to assure that their systems operate smoothly through the year 2000, act as chief spokesperson on this issue for the executive branch in national and international fora, provide policy coordination of executive branch activities with State, local, and tribal governments on the Y2K problem, and promote appropriate Federal roles with respect to private sector activities in this area.
+(c) The Chair shall oversee the activities of agencies to assure that their systems operate smoothly through the year 2000, act as chief spokesperson on this issue for the executive branch in national and international fora, provide policy coordination of executive branchactivities with State, local, and tribal governments on the Y2K problem, and promote appropriate Federal roles with respect to private sector activities in this area.
 
 (d) The Chair and the Director of the Office of Management and Budget shall report jointly at least quarterly to me on the progress of agencies in addressing the Y2K problem.
 

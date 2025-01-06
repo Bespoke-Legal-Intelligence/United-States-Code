@@ -50,7 +50,7 @@ Any officer, agent, or employee of the Department of Health and Human Services, 
 
 #### (d) Recall of product presenting imminent hazard; violations
 
-(1) Upon a determination that a batch, lot, or other quantity of a product licensed under this section presents an imminent or substantial hazard to the public health, the Secretary shall issue an order immediately ordering the recall of such batch, lot, or other quantity of such product. An order under this paragraph shall be issued in accordance with section 554 of title 5.
+(1) Upon a determination that a batch, lot, or other quantity of a product licensed under thissection presents an imminent or substantial hazard to the public health, the Secretary shall issue an order immediately ordering the recall of such batch, lot, or other quantity of such product. An order under this paragraph shall be issued in accordance with section 554 of title 5.
 
 (2) Any violation of paragraph (1) shall subject the violator to a civil penalty of up to $100,000 per day of violation. The amount of a civil penalty under this paragraph shall, effective December 1 of each year beginning 1 year after the effective date of this paragraph, be increased by the percent change in the Consumer Price Index for the base quarter of such year over the Consumer Price Index for the base quarter of the preceding year, adjusted to the nearest 1/10 of 1 percent. For purposes of this paragraph, the term "base quarter", as used with respect to a year, means the calendar quarter ending on September 30 of such year and the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
 
@@ -118,7 +118,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) an assessment of toxicity (which may rely on, or consist of, a study or studies described in item (aa) or (cc)); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a clinical study or studies (including the assessment of immunogenicity and pharmacokinetics or pharmacodynamics) that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intended to be used and for which licensure is sought for the biological product;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a clinical study or studies (including the assessment ofimmunogenicity and pharmacokinetics or pharmacodynamics) that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intended to be used and for which licensure is sought for the biological product;
 
 &emsp;&emsp;&emsp;&emsp;(II) the biological product and reference product utilize the same mechanism or mechanisms of action for the condition or conditions of use prescribed, recommended, or suggested in the proposed labeling, but only to the extent the mechanism or mechanisms of action are known for the reference product;
 
@@ -326,7 +326,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Provision of confidential information
 
-&emsp;&emsp;&emsp;When a subsection (k) applicant submits an application under subsection (k), such applicant shall provide to the persons described in clause (ii), subject to the terms of this paragraph, confidential access to the information required to be produced pursuant to paragraph (2) and any other information that the subsection (k) applicant determines, in its sole discretion, to be appropriate (referred to in this subsection as the "confidential information").
+&emsp;&emsp;&emsp;When a subsection (k) applicant submits an application under subsection (k), suchapplicant shall provide to the persons described in clause (ii), subject to the terms of this paragraph, confidential access to the information required to be produced pursuant to paragraph (2) and any other information that the subsection (k) applicant determines, in its sole discretion, to be appropriate (referred to in this subsection as the "confidential information").
 
 #### (ii) Recipients of information
 
@@ -394,7 +394,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;Not later than 60 days after receipt of the list under subparagraph (A), the subsection (k) applicant—
 
-&emsp;&emsp;&emsp;(i) may provide to the reference product sponsor a list of patents to which the subsection (k) applicant believes a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the referenceproduct sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application;
+&emsp;&emsp;&emsp;(i) may provide to the reference product sponsor a list of patents to which the subsection (k) applicant believes a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application;
 
 &emsp;&emsp;&emsp;(ii) shall provide to the reference product sponsor, with respect to each patent listed by the reference product sponsor under subparagraph (A) or listed by the subsection (k) applicant under clause (i)—
 
@@ -556,7 +556,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### References in Text
 
-The effective date of this paragraph, referred to in subsec. (d)(2), is the effective date of section 315 of Pub. L. 99–660 which added subsec. (d)(2). See Effective Date of 1986 Amendment note set out below.
+The effective date of this paragraph, referred to in subsec. (d)(2), is the effective date of section 315 of Pub.L. 99–660 which added subsec. (d)(2). See Effective Date of 1986 Amendment note set out below.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j), and (k)(5)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -570,7 +570,7 @@ The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub
 
 <b>2022</b>—Subsec. (k)(2)(A)(i)(I)(bb). Pub. L. 117–328, §3209(b), amended item (bb) generally. Prior to amendment, item (bb) read as follows: "animal studies (including the assessment of toxicity); and".
 
-Subsec. (k)(6). Pub. L. 117–328, §3206(2), substituted "taken, and the term 'first interchangeable biosimilar biological product' means any interchangeable biosimilar biological product that is approved on the firstday on which such a product is approved as interchangeable with the reference product." for "taken." in concluding provisions.
+Subsec. (k)(6). Pub. L. 117–328, §3206(2), substituted "taken, and the term 'first interchangeable biosimilar biological product' means any interchangeable biosimilar biological product that is approved on the first day on which such a product is approved as interchangeable with the reference product." for "taken." in concluding provisions.
 
 Pub. L. 117–328, §3206(1), substituted "The Secretary shall not make approval as an interchangeable biological product effective with respect to" for "Upon review of" and "that relies on" for "relying on" and struck out "the Secretary shall not make a determination under paragraph (4) that the second or subsequent biological product is interchangeable for any condition of use" before "until the earlier of" in introductory provisions.
 
@@ -628,7 +628,7 @@ Subsec. (h). Pub. L. 99–660, §105(a), added subsec. (h).
 
 <b>1970</b>—Subsecs. (a) to (c). Pub. L. 91–515 inserted "vaccine, blood, blood component or derivative, allergenic product," after "antitoxin" wherever appearing.
 
-<b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out "made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary" after "regulations" in first sentence.
+<b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out "made jointly by the Surgeon General, the Surgeon General ofthe Army, and the Surgeon General of the Navy, and approved by the Secretary" after "regulations" in first sentence.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

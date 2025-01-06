@@ -30,7 +30,7 @@ In subsection (b) the word "regulations" is substituted for the word "rules", an
 
 #### Prior Provisions
 
-A prior section 8201, acts Aug. 10, 1956, ch. 1041, 70A Stat. 497; Sept. 2, 1958, Pub. L. 85–861, §1(157), 72 Stat. 1513; Oct. 13, 1964, Pub. L. 88–647, title III, §301(20), 78 Stat. 1073, prescribed authorized strength of Air Force in members on active duty, exclusive of certain categories, and authorized daily average strength of AirForce in members on active duty during fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, §202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+A prior section 8201, acts Aug. 10, 1956, ch. 1041, 70A Stat. 497; Sept. 2, 1958, Pub. L. 85–861, §1(157), 72 Stat. 1513; Oct. 13, 1964, Pub. L. 88–647, title III, §301(20), 78 Stat. 1073, prescribed authorized strength of Air Force in members on active duty, exclusive of certain categories, and authorized daily average strength of Air Force in members on active duty during fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, §202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
 A prior section 8202, acts Aug. 10, 1956, ch. 1041, 70A Stat. 498; Sept. 2, 1958, Pub. L. 85–861, §1(158), 72 Stat. 1514; Dec. 28, 1967, Pub. L. 90–228, §1(4), (5), 81 Stat. 745; Dec. 12, 1980, Pub. L. 96–513, title II, §203(b), 94 Stat. 2879, related to authorized strength of Air Force in general officers on active duty, prior to repeal by Pub. L. 101–510, div. A, title IV, §403(b)(3)(A), Nov. 5, 1990, 104 Stat. 1545.
 

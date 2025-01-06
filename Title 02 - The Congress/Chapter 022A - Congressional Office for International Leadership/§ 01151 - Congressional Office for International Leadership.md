@@ -30,7 +30,7 @@
 
 #### (2) Grant program
 
-&emsp;Subject to the provisions of paragraphs (3) and (4), the Office shall establish a program under which the Office annually awards grantsto government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political and civic leaders at any level of government.
+&emsp;Subject to the provisions of paragraphs (3) and (4), the Office shall establish a program under which the Office annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political and civic leaders at any level of government.
 
 #### (3) Restrictions
 
@@ -222,7 +222,7 @@ Pub. L. 117–103, div. I, title I, §150(d), Mar. 15, 2022, 136 Stat. 523, prov
 
 "(1)
 
-Effective date.—This section \[amending this section and enacting provisions set out as a note underthis section\] and the amendments made by this section shall take effect on or after the later of October 1, 2021, or the date of the enactment of this Act \[Mar. 15, 2022\].
+Effective date.—This section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect on or after the later of October 1, 2021, or the date of the enactment of this Act \[Mar. 15, 2022\].
 
 "(2)
 
@@ -230,7 +230,7 @@ Service of current executive director.—The individual serving as the Executive
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–68, div. A, title I, §1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that: "The amendments made by this subsection \[probably means section 1601 of Pub. L. 111–68, which amended this section\] shall apply with respect to—
+Pub. L. 111–68, div. A, title I, §1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that: "The amendments made by this subsection \[probably means section 1601 of Pub. L.111–68, which amended this section\] shall apply with respect to—
 
 &emsp;"(1) appointments made on and after the date of enactment of this Act \[Oct. 1, 2009\]; and
 

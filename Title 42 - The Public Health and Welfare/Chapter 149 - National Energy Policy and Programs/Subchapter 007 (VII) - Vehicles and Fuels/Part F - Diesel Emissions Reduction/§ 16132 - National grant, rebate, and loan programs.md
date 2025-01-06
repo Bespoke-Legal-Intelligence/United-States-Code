@@ -176,7 +176,7 @@ The Administrator shall use 70 percent of the funds made available to carry out 
 
 Not later than 60 days after the date of the award of a grant, rebate, or loan, the Administrator shall publish on the website of the Environmental Protection Agency—
 
-&emsp;(1) for rebates and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates or loans provided, as well as a breakdown of the technologies funded through the rebates or loans; and
+&emsp;(1) for rebates and loans provided to the owner of a diesel vehicle or fleet, the totalnumber and dollar amount of rebates or loans provided, as well as a breakdown of the technologies funded through the rebates or loans; and
 
 &emsp;(2) for other rebates and loans, and for grants, a description of each application for which the grant, rebate, or loan is provided.
 
@@ -218,7 +218,7 @@ Subsec. (c)(4)(E) to (G). Pub. L. 111–364, §2(b)(4)(D)(iii)–(v), inserted "
 
 Subsec. (d)(1). Pub. L. 111–364, §2(b)(5)(A), inserted ", rebate," after "grant" in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 111–364, §2(b)(5)(B), substituted "grant, rebate, or loan provided, or contractentered into," for "grant or loan provided" and "any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act" for "Federal, State or local law".
+Subsec. (d)(2)(A). Pub. L. 111–364, §2(b)(5)(B), substituted "grant, rebate, or loan provided, or contract entered into," for "grant or loan provided" and "any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act" for "Federal, State or local law".
 
 Subsecs. (e), (f). Pub. L. 111–364, §2(b)(6), added subsecs. (e) and (f).
 

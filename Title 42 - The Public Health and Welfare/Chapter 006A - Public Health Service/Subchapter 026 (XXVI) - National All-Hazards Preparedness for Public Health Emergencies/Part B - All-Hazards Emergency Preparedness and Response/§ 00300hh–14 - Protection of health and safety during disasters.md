@@ -108,7 +108,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the President, acting through the Secretary of Health and Human Services, shall give priority in any registry or study described in subparagraph (A) to the protection, monitoring and study of the health and safety of individuals with the highest level of exposure to a substance of concern.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the President, acting through the Secretary ofHealth and Human Services, shall give priority in any registry or study described in subparagraph (A) to the protection, monitoring and study of the health and safety of individuals with the highest level of exposure to a substance of concern.
 
 #### (ii) Modifications
 

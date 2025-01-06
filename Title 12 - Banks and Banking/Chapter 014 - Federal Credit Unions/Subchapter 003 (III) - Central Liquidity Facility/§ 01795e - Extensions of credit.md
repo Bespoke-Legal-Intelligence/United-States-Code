@@ -18,7 +18,7 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a)(1). Pub. L. 116–136, §4016(b)(1)(C), which directed substitution of "the intent of which is to expand credit union portfolios" for "without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, includingbalance sheet and market funding sources, to address the liquidity needs of the applicant" in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–136, §4016(b)(1)(C), which directed substitution of "the intent of which is to expand credit union portfolios" for "without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant" in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
 
 Pub. L. 116–136, §4016(a)(3), which directed substitution of "without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant" for "the intent of which is to expand credit union portfolios" in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
 

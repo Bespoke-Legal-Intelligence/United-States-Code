@@ -72,7 +72,7 @@ For purposes of this section, the term "eligible taxpayer" means any taxpayer wh
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such paragraph (in such manner as theSecretary may provide) with respect to such credit—
+&emsp;&emsp;&emsp;In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such paragraph (in such manner as the Secretary may provide) with respect to such credit—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,
 
@@ -80,7 +80,7 @@ For purposes of this section, the term "eligible taxpayer" means any taxpayer wh
 
 &emsp;&emsp;&emsp;&emsp;(III) any amount with respect to which the election in paragraph (1) is made shall be treated as tax exempt income for purposes of sections 705 and 1366, and
 
-&emsp;&emsp;&emsp;&emsp;(IV) a partner's distributive share of such tax exempt income shall be based on such partner's distributive share of the otherwise applicable credit for each taxable year.
+&emsp;&emsp;&emsp;&emsp;(IV) a partner's distributive share of such tax exempt income shall be basedon such partner's distributive share of the otherwise applicable credit for each taxable year.
 
 #### (ii) Coordination with application at partner or shareholder level
 

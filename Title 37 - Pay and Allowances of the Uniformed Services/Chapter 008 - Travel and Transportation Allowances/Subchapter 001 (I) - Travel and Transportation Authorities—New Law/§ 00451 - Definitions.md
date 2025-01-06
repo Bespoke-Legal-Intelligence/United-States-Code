@@ -20,7 +20,7 @@ Definitions Relating to Persons.—In this subchapter and subchapter II:
 
 &emsp;&emsp;(B) A family member of a member of the uniformed services.
 
-&emsp;&emsp;(C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or asan escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
+&emsp;&emsp;(C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
 
 &emsp;&emsp;(D) A person who participates in a military funeral honors detail.
 
@@ -44,7 +44,7 @@ Definitions Relating to Persons.—In this subchapter and subchapter II:
 
 &emsp;&emsp;&emsp;(vi) Transportation of a person with regard to a single event when the administering Secretary determines that the travel is necessary to ensure fairness and equity, respond to emergency or humanitarian circumstances, or serve the best interests of the Government.
 
-&emsp;&emsp;&emsp;(vii) Transportation of a dependent child of a member of the uniformed services to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is outside the continental United States (other than in Alaska or Hawaii).
+&emsp;&emsp;&emsp;(vii) Transportation of a dependent child of a member of the uniformed services tothe United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is outside the continental United States (other than in Alaska or Hawaii).
 
 &emsp;&emsp;&emsp;(viii) Transportation of a dependent child of a member of the uniformed services within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
 
@@ -126,7 +126,7 @@ Subsec. (b)(8). Pub. L. 117–81, §603(b), inserted at end "Such costs include 
 
 Subsec. (b)(10). Pub. L. 117–81, §603(c)(2)(B), added par. (10).
 
-<b>2013</b>—Subsec. (a)(2)(C). Pub. L. 113–66 inserted "or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone" before period at end.
+<b>2013</b>—Subsec. (a)(2)(C). Pub. L. 113–66 inserted "or as an escort or attendant for dependents of a member fornecessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone" before period at end.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

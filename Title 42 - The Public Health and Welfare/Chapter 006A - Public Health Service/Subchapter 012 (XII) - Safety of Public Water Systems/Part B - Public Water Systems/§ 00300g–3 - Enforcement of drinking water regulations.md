@@ -228,7 +228,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (ii) Electronic delivery
 
-&emsp;&emsp;&emsp;Any revision of regulations pursuant to clause (i) shall allow delivery of consumer confidence reports by methods consistent with methods described in the memorandum "Safe Drinking Water Act–Consumer Confidence Report Rule Delivery Options" issued by the Environmental Protection Agency on January 3, 2013.
+&emsp;&emsp;&emsp;Any revision of regulations pursuant to clause (i) shall allow delivery of consumerconfidence reports by methods consistent with methods described in the memorandum "Safe Drinking Water Act–Consumer Confidence Report Rule Delivery Options" issued by the Environmental Protection Agency on January 3, 2013.
 
 #### (5) Exceedance of lead level at households
 
@@ -252,7 +252,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) with respect to the concentration of lead in the drinking water of the affected households; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that the concentration of lead in the drinking water of the affected households exceeds the lead action level under section 141.80(c) of title 40,Code of Federal Regulations (or a prescribed level of lead that the Administrator establishes for public education or notification in a successor regulation promulgated pursuant to section 300g–1 of this title).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that the concentration of lead in the drinking water of the affected households exceeds the lead action level under section 141.80(c) of title 40, Code of Federal Regulations (or a prescribed level of lead that the Administrator establishes for public education or notification in a successor regulation promulgated pursuant to section 300g–1 of this title).
 
 #### (iii) Consultation
 
@@ -490,7 +490,7 @@ Subsec. (c)(4)(B). Pub. L. 114–322, §2106(a)(5)(C), substituted "clause (iii)
 
 Subsec. (c)(4)(B)(ii). Pub. L. 114–322, §2106(a)(5)(A), substituted "the terms 'action level'," for "the terms".
 
-Subsec. (c)(4)(B)(iii). Pub. L. 114–322, §2106(a)(5)(B), added cl. (iii) and struck out former cl. (iii) which read as follows: "If any regulated contaminant is detected in the water purveyed by the public water system, a statement setting forth (I) the maximum contaminant level goal, (II) the maximum contaminant level, (III) the level of such contaminant in such water system, and (IV) for any regulated contaminant for which there has been a violation of the maximum contaminant level during the year concerned, the brief statement in plain language regarding the health concerns that resulted in regulation of such contaminant, as provided by the Administrator in regulations under subparagraph (A)."
+Subsec. (c)(4)(B)(iii). Pub. L. 114–322, §2106(a)(5)(B), added cl. (iii) and struck out former cl. (iii) which readas follows: "If any regulated contaminant is detected in the water purveyed by the public water system, a statement setting forth (I) the maximum contaminant level goal, (II) the maximum contaminant level, (III) the level of such contaminant in such water system, and (IV) for any regulated contaminant for which there has been a violation of the maximum contaminant level during the year concerned, the brief statement in plain language regarding the health concerns that resulted in regulation of such contaminant, as provided by the Administrator in regulations under subparagraph (A)."
 
 Subsec. (c)(5), (6). Pub. L. 114–322, §2106(a)(6), added pars. (5) and (6).
 

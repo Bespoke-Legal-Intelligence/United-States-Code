@@ -104,7 +104,7 @@ Sunset.—The authority provided under this section shall expire on August 31, 2
 
 Pub. L. 117–81, div. A, title V, §515, Dec. 27, 2021, 135 Stat. 1683, as amended by Pub. L. 117–263, div. A, title V, §516, Dec. 23, 2022, 136 Stat. 2566, related to National Guard support on wildfire response, prior to repeal by Pub. L. 118–31, div. A, title V, §515(c), Dec. 22, 2023, 137 Stat. 249.
 
-Pub. L. 115–91, div. A, title III, §351, Dec. 12, 2017, 131 Stat. 1367, as amended by Pub. L. 117–263, div. A, titleIII, §385, Dec. 23, 2022, 136 Stat. 2544, provided that: "The Secretary of the Army and the Secretary of the Air Force, in consultation with the Chief of the National Guard Bureau, may provide support for the training of appropriate personnel of the National Guard on wildfire prevention and response. In carrying out this section, the Secretaries—
+Pub. L. 115–91, div. A, title III, §351, Dec. 12, 2017, 131 Stat. 1367, as amended by Pub. L. 117–263, div. A, title III, §385, Dec. 23, 2022, 136 Stat. 2544, provided that: "The Secretary of the Army and the Secretary of the Air Force, in consultation with the Chief of the National Guard Bureau, may provide support for the training of appropriate personnel of the National Guard on wildfire prevention and response. In carrying out this section, the Secretaries—
 
 &emsp;"(1) shall give a preference to personnel assigned to military installations with the highest wildfire suppression needs, as determined by the Secretaries; and
 

@@ -16,9 +16,9 @@
 
 #### (2) Membership
 
-&emsp;The Board shall be composed of 26 members, of whom—
+&emsp;The Board shall be composed of 28 members, of whom—
 
-&emsp;&emsp;(A) 1 shall be a representative of the Department of the Interior;
+&emsp;&emsp;(A) 2 shall be representatives of the Department of the Interior, including the United States Fish and Wildlife Service and the Bureau of Land Management;
 
 &emsp;&emsp;(B) 1 shall be a representative of the United States Geological Survey;
 
@@ -30,17 +30,17 @@
 
 &emsp;&emsp;(F) 4 shall be representatives of State agencies, 1 of whom shall be nominated by a regional association of fish and wildlife agencies from each of the Northeast, Southeast, Midwest, and Western regions of the United States;
 
-&emsp;&emsp;(G) 2 shall be representatives of either—
+&emsp;&emsp;(G) 2 shall be representatives of Indian Tribes, of whom—
 
-&emsp;&emsp;&emsp;(i) Indian Tribes in the State of Alaska; or
+&emsp;&emsp;&emsp;(i) 1 shall be a representative of Indian Tribes in the State of Alaska; and
 
-&emsp;&emsp;&emsp;(ii) Indian Tribes in States other than the State of Alaska;
+&emsp;&emsp;&emsp;(ii) 1 shall be a representative of Indian Tribes in States other than the State of Alaska;
 
-&emsp;&emsp;(H) 1 shall be a representative of either—
+&emsp;&emsp;(H) 2 shall be representatives of—
 
-&emsp;&emsp;&emsp;(i) the Regional Fishery Management Councils established under section 1852 of this title; or
+&emsp;&emsp;&emsp;(i) the Regional Fishery Management Councils established by section 1852(a)(1) of this title; or
 
-&emsp;&emsp;&emsp;(ii) a representative of the Marine Fisheries Commissions;
+&emsp;&emsp;&emsp;(ii) the Marine Fisheries Commissions;
 
 &emsp;&emsp;(I) 1 shall be a representative of the Sport Fishing and Boating Partnership Council;
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;(A) a requirement that a quorum of the members of the Board be present to transact business;
 
-&emsp;&emsp;(B) a requirement that no recommendations may be adopted by the Board, except by the vote of two-thirds of all members;
+&emsp;&emsp;(B) a requirement that no recommendations may be adopted by the Board, except by the vote of two-thirds of the members present;
 
 &emsp;&emsp;(C) procedures for establishing national goals and priorities for fish habitat conservation for the purposes of this chapter;
 
@@ -178,5 +178,29 @@
 
 &emsp;A majority of the members of the Board shall constitute a quorum.
 
-(Pub. L. 116–188, title II, §203, Oct. 30, 2020, 134 Stat. 926.)
+(Pub. L. 116–188, title II, §203, Oct. 30, 2020, 134 Stat. 926; Pub. L. 118–198, title II, §201, Dec. 23, 2024, 138 Stat. 2681.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–198, §201(1)(A), substituted "28 members" for "26 members" in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 118–198, §201(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "1 shall be a representative of the Department of the Interior;".
+
+Subsec. (a)(2)(G), (H). Pub. L. 118–198, §201(1)(C), added subpars. (G) and (H) and struck out former subpars. (G) and (H) which read as follows:
+
+"(G) 2 shall be representatives of either—
+
+&emsp;"(i) Indian Tribes in the State of Alaska; or
+
+&emsp;"(ii) Indian Tribes in States other than the State of Alaska;
+
+"(H) 1 shall be a representative of either—
+
+&emsp;"(i) the Regional Fishery Management Councils established under section 1852 of this title; or
+
+&emsp;"(ii) a representative of the Marine Fisheries Commissions;".
+
+Subsec. (e)(1)(B). Pub. L. 118–198, §201(2), substituted "the members present" for "all members".
 

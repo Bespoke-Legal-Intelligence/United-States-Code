@@ -38,7 +38,7 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in par. (2), is set
 
 #### Effective Date
 
-Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, setout as an Effective Date of 2005 Amendment note under section 1332 of this title.
 
 #### Findings and Purposes
 

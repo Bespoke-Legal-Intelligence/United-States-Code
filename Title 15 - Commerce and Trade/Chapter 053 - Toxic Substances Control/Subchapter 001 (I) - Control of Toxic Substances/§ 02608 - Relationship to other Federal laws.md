@@ -86,5 +86,5 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to reporting certain coordinating actions annually to Congress in the report required by section 2629 of this title, see section 3003 of Pub. L. 104–66, as amended, set out as a noteunder section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to reporting certain coordinating actions annually to Congress in the report required by section 2629 of this title, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
 

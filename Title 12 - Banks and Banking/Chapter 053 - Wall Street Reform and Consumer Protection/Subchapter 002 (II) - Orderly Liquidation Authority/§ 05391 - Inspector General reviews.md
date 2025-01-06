@@ -58,7 +58,7 @@
 
 #### (3) Reports and testimony
 
-&emsp;The Inspector General of the Department of the Treasury shall include in the semiannual reports required by section 405(b) of title 5, a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+&emsp;The Inspector General of the Department of the Treasury shall include in the semiannualreports required by section 405(b) of title 5, a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
 
 #### (4) Termination of responsibilities
 

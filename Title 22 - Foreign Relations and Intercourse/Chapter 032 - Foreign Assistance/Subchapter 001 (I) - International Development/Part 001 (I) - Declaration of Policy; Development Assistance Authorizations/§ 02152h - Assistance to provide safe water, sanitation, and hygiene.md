@@ -226,7 +226,7 @@ The Administrator of the United States Agency for International Development shal
 
 #### (1) In general
 
-&emsp;Not later than October 1, 2017, October 1, 2022, and October 1, 2027, the President, acting through the Secretary of State, the Administrator of the United States Agency for International Development, and the heads of other Federal departments and agencies, as appropriate, shall submit a single government-wide Global Water Strategy to the appropriate congressional committees that provides a detailed description of how the United States intends—
+&emsp;Not later than October 1, 2017, October 1, 2022, and October 1, 2027, the President, acting through the Secretary of State, the Administrator of the United States Agency for International Development, and the heads of otherFederal departments and agencies, as appropriate, shall submit a single government-wide Global Water Strategy to the appropriate congressional committees that provides a detailed description of how the United States intends—
 
 &emsp;&emsp;(A) to increase access to safe water, sanitation, and hygiene in high priority countries designated pursuant to subsection (h), including a summary of the WASH Needs Index and the specific weighting of empirical data and other definitions used to develop and rank countries on the WASH Needs Index;
 
@@ -310,7 +310,7 @@ In this section—
 
 The Food for Peace Act, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Senator Paul Simon Water for the World Act of 2014, referred to in subsec. (k)(2), is Pub. L. 113–289, Dec. 19, 2014, 128 Stat. 3283, which amended this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 2151 of this title and Tables.
+The Senator Paul Simon Water for the World Act of 2014, referred to in subsec. (k)(2), is Pub. L. 113–289, Dec. 19, 2014, 128 Stat. 3283, which amended this section andprovisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -400,7 +400,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, as amended by Pub. L. 113–289
 
 &emsp;"(28) Cooperative water management can help resolve conflicts caused by other problems and is often a crucial component in resolving such conflicts.
 
-&emsp;"(29) Cooperative water management can help countries recover from conflict and, by promoting dialogue and cooperation among former parties in conflict, can help prevent the reemergence of conflict.
+&emsp;"(29) Cooperative water management can help countries recover from conflict and, by promotingdialogue and cooperation among former parties in conflict, can help prevent the reemergence of conflict.
 
 #### "SEC. 3. STATEMENT OF POLICY.
 

@@ -16,7 +16,7 @@ In this section:
 
 &emsp;The term "adjusted actual production history yield" means—
 
-&emsp;&emsp;(A) in the case of an eligible producer on a farm that has at least 4 years of actual production history yields for an insurable commodity that are established other than pursuant to section 508(g)(4)(B) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)(4)(B)), the actual production history for the eligibleproducer without regard to any yields established under that section;
+&emsp;&emsp;(A) in the case of an eligible producer on a farm that has at least 4 years of actual production history yields for an insurable commodity that are established other than pursuant to section 508(g)(4)(B) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)(4)(B)), the actual production history for the eligible producer without regard to any yields established under that section;
 
 &emsp;&emsp;(B) in the case of an eligible producer on a farm that has less than 4 years of actual production history yields for an insurable commodity, of which 1 or more were established pursuant to section 508(g)(4)(B) of that Act \[7 U.S.C. 1508(g)(4)(B)\], the actual production history for the eligible producer as calculated without including the lowest of the yields established pursuant to section 508(g)(4)(B) of that Act; and
 
@@ -58,7 +58,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a county contiguous to a county described in subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) any farm in which, during a calendar year <sup>2</sup> the actual production on the farm is less than 50 percent of the normal production on the farm.
+&emsp;&emsp;&emsp;(ii) any farm in which, during a calendar year <sup>2</sup> the actual production on the farm isless than 50 percent of the normal production on the farm.
 
 #### (8) Eligible producer on a farm
 
@@ -120,7 +120,7 @@ In this section:
 
 #### (13) Noninsurable commodity
 
-&emsp;The term "noninsurable commodity" means a crop for which the eligible producers on afarm are eligible to obtain assistance under the noninsured crop assistance program.
+&emsp;The term "noninsurable commodity" means a crop for which the eligible producers on a farm are eligible to obtain assistance under the noninsured crop assistance program.
 
 #### (14) Noninsured crop assistance program
 
@@ -398,7 +398,7 @@ In this section:
 
 #### (2) Program
 
-&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to providecompensation for losses to eligible livestock producers due to grazing losses for covered livestock due to—
+&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to provide compensation for losses to eligible livestock producers due to grazing losses for covered livestock due to—
 
 &emsp;&emsp;(A) a drought condition, as described in paragraph (3); or
 
@@ -484,7 +484,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the county is rated as having a D3 (extreme drought) intensity in any area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period,in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the county is rated as having a D3 (extreme drought) intensity in any area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period, in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B).
 
 #### (4) Assistance for losses due to fire on public managed land
 
@@ -646,7 +646,7 @@ In this section:
 
 #### (3) Waiver for socially disadvantaged, limited resource, or beginning farmer or rancher
 
-&emsp;With respect to eligible producers that are socially disadvantaged farmers or ranchers orlimited resource or beginning farmers or ranchers, as determined by the Secretary, the Secretary may—
+&emsp;With respect to eligible producers that are socially disadvantaged farmers or ranchers or limited resource or beginning farmers or ranchers, as determined by the Secretary, the Secretary may—
 
 &emsp;&emsp;(A) waive paragraph (1); and
 
@@ -744,7 +744,7 @@ In this section:
 
 #### (1) Definitions of legal entity and person
 
-&emsp;In this subsection, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;In this subsection, the terms "legal entity" and "person" have the meaning given thoseterms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (2) Amount
 
@@ -776,7 +776,7 @@ In implementing any other program which makes disaster assistance payments (exce
 
 #### References in Text
 
-The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 Section 2279(e) of title 7, referred to in subsec. (a)(18), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, §12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
@@ -868,7 +868,7 @@ Subsec. (d)(5)(B)(ii). Pub. L. 110–398, §2(b)(3), substituted "subsection" fo
 
 Subsec. (f)(2)(A). Pub. L. 110–398, §2(b)(4), substituted "the Secretary shall use such sums as are necessary from the Trust Fund to provide" for "the Secretary shall provide" in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 110–398, §2(b)(6)(A)(i), substituted "(other than subsections (c) and (d))" for"(other than subsection (c))" in introductory provisions.
+Subsec. (g)(1). Pub. L. 110–398, §2(b)(6)(A)(i), substituted "(other than subsections (c) and (d))" for "(other than subsection (c))" in introductory provisions.
 
 Subsec. (g)(1)(A). Pub. L. 110–398, §2(b)(6)(A)(ii), inserted ", excluding grazing land" after "producers on the farm".
 

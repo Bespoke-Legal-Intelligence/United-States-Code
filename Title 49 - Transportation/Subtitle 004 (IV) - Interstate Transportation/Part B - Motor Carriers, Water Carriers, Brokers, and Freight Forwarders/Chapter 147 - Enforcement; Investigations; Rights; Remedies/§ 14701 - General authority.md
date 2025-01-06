@@ -50,7 +50,7 @@ Establishment of System.—Not later than 1 year after the date of enactment of 
 
 &emsp;&emsp;"(F) the number of such claims that are pending at the close of the reporting period; and
 
-&emsp;"(3) develop a procedure to forward a complaint, including the motor carrier bill of lading number, if known, related to the complaint to a motor carrier named in such complaint and to an appropriate State authority (as defined in section 14710(d) of title 49, United States Code) in the State in which the complainant resides.
+&emsp;"(3) develop a procedure to forward a complaint, including the motor carrier bill of lading number, ifknown, related to the complaint to a motor carrier named in such complaint and to an appropriate State authority (as defined in section 14710(d) of title 49, United States Code) in the State in which the complainant resides.
 
 "(b)
 

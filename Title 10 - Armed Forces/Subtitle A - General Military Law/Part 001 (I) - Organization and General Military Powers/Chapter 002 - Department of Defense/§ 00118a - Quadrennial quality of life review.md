@@ -84,5 +84,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this s
 
 #### First Quadrennial Quality of Life Review
 
-Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality oflife review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
+Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
 

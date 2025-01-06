@@ -4,7 +4,7 @@ As used in this part—
 
 &emsp;(1) the terms "cease and desist order that has become final" and "order which has become final" mean a cease and desist order, or an order, issued by the Farm Credit Administration with the consent of the System institution or the director or officer or other person concerned, or with respect to which no petition for review of the action of the Farm Credit Administration has been filed and perfected in a court of appeals as specified in section 2266(b) of this title, or with respect to which the action of the court in which such petition is so filed is not subject to further review by the Supreme Court of the United States in proceedings provided for in section 2266(b) of this title, or an order issued under section 2265 of this title;
 
-&emsp;(2) the term "violation" includes without limitation any action (alone or with anotheror others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation;
+&emsp;(2) the term "violation" includes without limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation;
 
 &emsp;(3) the terms "institution in the System", "System institution", and "institution" mean all institutions enumerated in section 2002 of this title, any service organization chartered under part E of subchapter IV of this chapter, and the Financial Assistance Corporation;
 
@@ -26,7 +26,7 @@ As used in this part—
 
 &emsp;&emsp;(A) have the meaning given to it by the Farm Credit Administration by regulation, rule, or order; and
 
-&emsp;&emsp;(B) mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Insurance Corporation under section 2277a–10 of this title.
+&emsp;&emsp;(B) mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by theFarm Credit System Insurance Corporation under section 2277a–10 of this title.
 
 (Pub. L. 92–181, title V, §5.35, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1701; amended Pub. L. 100–233, title II, §§203, 207(d), Jan. 6, 1988, 101 Stat. 1605, 1608; Pub. L. 102–237, title V, §502(i), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(b), Oct. 28, 1992, 106 Stat. 4106; Pub. L. 115–334, title V, §§5408, 5411(34), Dec. 20, 2018, 132 Stat. 4678, 4683.)
 

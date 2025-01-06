@@ -40,7 +40,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;The data confidentiality provisions in section 402 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a) shall not apply with respect to this Act—
 
-&emsp;&emsp;(A) for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation's <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
+&emsp;&emsp;(A) for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation's <sup>1</sup> Food and Agriculture Organization Agreement on PortState Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
 
 &emsp;&emsp;(B) to any information collected by the Secretary regarding foreign vessels.
 

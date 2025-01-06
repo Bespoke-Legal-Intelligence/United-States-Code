@@ -94,7 +94,7 @@ Treatment of Clandestine Military Operations in the Information Environment as T
 
 "(d)
 
-Quarterly Information Operations Briefings.—(1) Not less frequently than once each quarter,the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on significant military operations, including all clandestine operations in the information environment, carried out by the Department of Defense during the immediately preceding quarter.
+Quarterly Information Operations Briefings.—(1) Not less frequently than once each quarter, the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on significant military operations, including all clandestine operations in the information environment, carried out by the Department of Defense during the immediately preceding quarter.
 
 "(2) Each briefing under paragraph (1) shall include, with respect to the military operations in the information environment described in such paragraph, the following:
 
@@ -152,7 +152,7 @@ Elements.—At a minimum, the strategy developed or updated pursuant to paragrap
 
 &emsp;&emsp;"(A) The establishment of lines of effort, objectives, and tasks that are necessary to implement such strategy and eliminate the capability gaps identified under paragraph (1)(B).
 
-&emsp;&emsp;"(B) In partnership with the Principal Cyber Advisor to the Secretary of Defense and in coordination with any other component or Department of Defense entity as selected by the Secretary of Defense, an evaluation of any organizational changes that may be required within the Office of the Secretary of Defense, including potential changes to Under Secretary or Assistant Secretary-level positions to comprehensively conduct oversight of policy development, capabilities, and other aspects of operations in the information environment as determined pursuant to the information operations posture review under paragraph (1)(B).
+&emsp;&emsp;"(B) In partnership with the Principal Cyber Advisor to the Secretary of Defense and in coordination with any other component or Department of Defense entity as selected by the Secretary of Defense, an evaluation of any organizational changes that may be required within the Office of the Secretary of Defense, including potential changes to Under Secretary or Assistant Secretary-level positions to comprehensively conduct oversight of policy development, capabilities, and other aspects ofoperations in the information environment as determined pursuant to the information operations posture review under paragraph (1)(B).
 
 &emsp;&emsp;"(C) An assessment of various models for operationalizing information operations, including the feasibility and advisability of establishing an Army Information Warfare Command.
 

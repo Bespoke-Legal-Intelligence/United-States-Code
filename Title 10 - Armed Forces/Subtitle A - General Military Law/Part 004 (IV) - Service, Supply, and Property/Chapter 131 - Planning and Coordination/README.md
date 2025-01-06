@@ -74,7 +74,7 @@ Pub. L. 111–383, div. A, title VIII, §805(a)(2), Jan. 7, 2011, 124 Stat. 4259
 
 <b>2004</b>—Pub. L. 108–375, div. A, title III, §332(a)(2), title VI, §651(f)(2), Oct. 28, 2004, 118 Stat. 1854, 1972, struck out item 2219 "Retention of morale, welfare, and recreation funds by military installations: limitation" and added item 2222.
 
-<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649, 2658, struck out item 2222 "Annual financial management improvement plan" and added items 2224a and 2228.
+<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649,2658, struck out item 2222 "Annual financial management improvement plan" and added items 2224a and 2228.
 
 <b>2001</b>—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted "Annual" for "Biennial" in item 2222.
 

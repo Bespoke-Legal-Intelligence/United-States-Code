@@ -28,7 +28,7 @@
 
 #### (3) Transition period
 
-&emsp;Beginning on July 21, 2010, and until the designated transfer date, the Board of Governorsshall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
+&emsp;Beginning on July 21, 2010, and until the designated transfer date, the Board of Governors shall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
 
 #### (4) Budget and financial management
 
@@ -80,7 +80,7 @@
 
 #### (1) Separate fund in Federal Reserve established
 
-&emsp;There is established in the Federal Reserve a separate fund, to be known as the "Bureau of Consumer Financial Protection Fund" (referred to in this section as the "BureauFund"). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
+&emsp;There is established in the Federal Reserve a separate fund, to be known as the "Bureau of Consumer Financial Protection Fund" (referred to in this section as the "Bureau Fund"). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
 
 #### (2) Fund receipts
 

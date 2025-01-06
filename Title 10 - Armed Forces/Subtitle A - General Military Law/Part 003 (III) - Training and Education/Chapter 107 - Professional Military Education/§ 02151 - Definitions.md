@@ -40,13 +40,15 @@ Other Definitions.—In this chapter:
 
 &emsp;&emsp;(D) The Marine Corps Command and Staff College.
 
-&emsp;(3) The term "joint intermediate level school" includes the National Defense Intelligence College.
+&emsp;(3) The term "joint intermediate level school" includes the National Intelligence University.
 
-(Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, §552(a)(2), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title VIII, §845(c), Jan. 2, 2013, 126 Stat. 1848.)
+(Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, §552(a)(2), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title VIII, §845(c), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 118–159, div. A, title V, §554, Dec. 23, 2024, 138 Stat. 1896.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(3). Pub. L. 118–159 substituted "National Intelligence University" for "National Defense Intelligence College".
 
 <b>2013</b>—Subsec. (a)(6). Pub. L. 112–239 added par. (6).
 

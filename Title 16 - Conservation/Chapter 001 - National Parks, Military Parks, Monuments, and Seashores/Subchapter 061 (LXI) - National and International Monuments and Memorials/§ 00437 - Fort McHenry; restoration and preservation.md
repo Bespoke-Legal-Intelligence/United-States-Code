@@ -18,9 +18,21 @@ The words of this section "on March 3, 1925" refer to the date of passage of the
 
 #### Change of Name
 
-"National monument and historic shrine" substituted in text for "national park, and memorial" in view of redesignation of Fort McHenry National Park as Fort McHenry National Monument and Historic Shrine by act Aug. 11, 1939, classified to section 440a of this title.
+"National monument and historic shrine" substituted in text for "national park, and memorial" inview of redesignation of Fort McHenry National Park as Fort McHenry National Monument and Historic Shrine by act Aug. 11, 1939, classified to section 440a of this title.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Designation of Paul S. Sarbanes Visitor and Education Center
+
+Pub. L. 118–175, §1, Dec. 23, 2024, 138 Stat. 2604, provided that:
+
+"(a)
+
+Designation.—The visitor and education center at Fort McHenry National Monument and Historic Shrine, currently located at 2400 E Fort Ave, Baltimore, MD 21230, is designated as the 'Paul S. Sarbanes Visitor and Education Center'.
+
+"(b)
+
+References.—Any reference in a law, map, regulation, document, paper, or other document of the United States to the visitor center designated by subsection (a) shall be deemed to be a reference to the Paul S. Sarbanes Visitor and Education Center."
 
 #### Termination of War and Emergencies
 

@@ -42,7 +42,7 @@ To the extent that a water right is established or acquired by the United States
 
 #### (d) National Monument water rights
 
-To the extent that a water right has been established or acquired by the United States forthe Great Sand Dunes National Monument, the water right shall—
+To the extent that a water right has been established or acquired by the United States for the Great Sand Dunes National Monument, the water right shall—
 
 &emsp;(1) be considered to be of equal use and value for the national park; and
 

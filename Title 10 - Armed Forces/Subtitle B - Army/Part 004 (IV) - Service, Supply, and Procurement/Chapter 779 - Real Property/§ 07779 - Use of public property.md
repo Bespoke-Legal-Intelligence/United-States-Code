@@ -4,7 +4,7 @@
 
 (b) No money appropriated for the support of the Army may be spent for post gardens or Army exchanges. However, this does not prevent Army exchanges from using public buildings or public transportation that, in the opinion of the office or officer designated by the Secretary, are not needed for other purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270, §4779; Pub. L. 99–661, div. B, title VII, §2721, Nov. 14, 1986, 100 Stat. 4042; renumbered §7779, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270, §4779; Pub. L. 99–661, div. B, title VII, §2721, Nov. 14, 1986, 100Stat. 4042; renumbered §7779, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes
 

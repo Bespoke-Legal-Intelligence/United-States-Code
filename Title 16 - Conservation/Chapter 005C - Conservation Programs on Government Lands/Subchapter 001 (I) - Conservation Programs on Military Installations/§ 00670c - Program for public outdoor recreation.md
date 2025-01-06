@@ -28,7 +28,7 @@ In connection with the facilities and programs for public outdoor recreation at 
 
 #### (d) Treatment of volunteers
 
-A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave,unemployment compensation, and Federal employee benefits, except that—
+A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
 
 &emsp;(1) for the purposes of the tort claims provisions of chapter 171 of title 28, the volunteer shall be considered to be a Federal employee; and
 
@@ -44,5 +44,5 @@ A volunteer under subsection (c) shall not be considered to be a Federal employe
 
 <b>1997</b>—Pub. L. 105–85 substituted "military installations" for "military reservations", "an integrated natural resources management plan" for "a cooperative plan", and "the installations" for "such reservations".
 
-<b>1968</b>—Pub. L. 90–465 authorized the carrying out of a public outdoor recreation resources program under a cooperative plan between Secretary of Defense, Secretary of the Interior, and State agencies, and struck out provisions for expenditure of funds collected and purposes therefor, now incorporated in section 670f(a) of this title.
+<b>1968</b>—Pub. L. 90–465 authorized the carrying out of a public outdoor recreation resources program under acooperative plan between Secretary of Defense, Secretary of the Interior, and State agencies, and struck out provisions for expenditure of funds collected and purposes therefor, now incorporated in section 670f(a) of this title.
 

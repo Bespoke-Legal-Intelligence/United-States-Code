@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to any eligible low-income housing for which an owner has submitted a second notice of intent under section 4106(d) of this title to transfer the housing to a qualified purchaser, the owner shall offer the housing for transfer to qualified purchasers as provided in this section. The Secretary shall issue regulations describing the means by which potential qualified purchasers shall be notified of the availability of the housing for sale. The Secretary shall take into account the Federal cost limits under section 4105(a) of this title for the housing when providing incentives under section 4109(b)(2) and (b)(3) of this title (pursuant to subsection (d)(3) of this section).
+With respect to any eligible low-income housing for which an owner has submitted a second notice of intent under section 4106(d) of this title to transfer the housing to a qualified purchaser, the owner shall offer the housing for transfer to qualified purchasers as provided in this section. The Secretary shall issue regulations describing the means by which potential qualified purchasers shall be notified of theavailability of the housing for sale. The Secretary shall take into account the Federal cost limits under section 4105(a) of this title for the housing when providing incentives under section 4109(b)(2) and (b)(3) of this title (pursuant to subsection (d)(3) of this section).
 
 #### (b) Right of first offer to priority purchasers
 
@@ -32,7 +32,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 &emsp;Subject to the availability of amounts approved in appropriations Acts, the Secretary shall, for approvable plans of action, provide assistance sufficient to enable qualified purchasers (including all priority purchasers other than resident councils acquiring under the homeownership program authorized by section 4116 of this title) to—
 
-&emsp;&emsp;(A) acquire the eligible low-income housing from the current owner for a purchaseprice not greater than the preservation equity of the housing;
+&emsp;&emsp;(A) acquire the eligible low-income housing from the current owner for a purchase price not greater than the preservation equity of the housing;
 
 &emsp;&emsp;(B) pay the debt service on the federally-assisted mortgage covering the housing;
 
@@ -54,7 +54,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (B) Priority purchasers
 
-&emsp;&emsp;Where the qualified purchaser is a priority purchaser, the Secretary may provide assistance for an approved plan of action (in the form of a grant) for each unit in the housing in an amount, as determined by the Secretary, that does not exceed the present value of the total of the projected published fair market rentals for existing housing (established by the Secretary under section 1437f(c) of title 42) for the next 10 years (or such longer period if additional assistance is necessary to cover the costs referred to in paragraph (2)).
+&emsp;&emsp;Where the qualified purchaser is a priority purchaser, the Secretary may provide assistance for an approved plan of action (in the form of a grant) for each unit in the housing in an amount, as determined by the Secretary, that does not exceed the present value of the total of the projected published fair market rentals for existing housing (established by the Secretary under section 1437f(c) of title 42) for the next 10 years (orsuch longer period if additional assistance is necessary to cover the costs referred to in paragraph (2)).
 
 (Pub. L. 100–242, title II, §220, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4257; amended Pub. L. 102–550, title III, §307, Oct. 28, 1992, 106 Stat. 3764.)
 

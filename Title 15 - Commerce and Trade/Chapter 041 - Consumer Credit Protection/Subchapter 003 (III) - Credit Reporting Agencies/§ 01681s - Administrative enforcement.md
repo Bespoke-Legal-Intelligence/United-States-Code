@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
-&emsp;&emsp;(D) part A of subtitle VII of title 49, by the Secretary of Transportation, with respect toany air carrier or foreign air carrier subject to that part;
+&emsp;&emsp;(D) part A of subtitle VII of title 49, by the Secretary of Transportation, with respect to any air carrier or foreign air carrier subject to that part;
 
 &emsp;&emsp;(E) the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.) (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture, with respect to any activities subject to that Act;
 
@@ -72,7 +72,7 @@
 
 #### (2) Rights of Federal regulators
 
-&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
+&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of itscomplaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
 
 &emsp;&emsp;(A) to intervene in the action;
 
@@ -130,7 +130,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 #### (3) Annual summary reports
 
-&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit an annual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit anannual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
 
 #### (g) Bureau regulation of coding of trade names
 
@@ -156,7 +156,7 @@ The Commodity Exchange Act, referred to in subsec. (b)(1)(F), is act Sept. 21, 1
 
 #### Codification
 
-In subsec. (b)(1)(D), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b),July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(1)(D), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
 
@@ -232,7 +232,7 @@ Pub. L. 102–242, §212(c)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Federal Reserve Board; and
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System), by the Board of Directors of the Federal Deposit Insurance Corporation."
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation."
 
 <b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 

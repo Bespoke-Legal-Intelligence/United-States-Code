@@ -10,7 +10,7 @@ It is the purpose of this subchapter—
 
 #### (b) Authority
 
-The Secretary shall make grants under this subchapter on a formula basis to the entity designated by the State as the lead entity (referred to in this subchapter as the "lead entity") under section 5116a(1) of this title for the purpose of—
+The Secretary shall make grants under this subchapter on a formula basis to the entity designated by the State as the lead entity (referredto in this subchapter as the "lead entity") under section 5116a(1) of this title for the purpose of—
 
 &emsp;(1) developing, operating, expanding, and enhancing community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect that are accessible, effective, culturally appropriate, and build upon existing strengths that—
 
@@ -66,7 +66,7 @@ Subsec. (b)(1)(G). Pub. L. 111–320, §132(2)(B)(iii), added subpar. (G) and st
 
 Subsec. (b)(2). Pub. L. 111–320, §132(2)(C), inserted ", including unaccompanied homeless youth," after "children and families".
 
-Subsec. (b)(3). Pub. L. 111–320, §132(2)(D), substituted "specific community-based child abuse and neglect prevention program services" for "specific family resource and support program services", inserted "substance abuse treatment services, domestic violence services," after "mental health services,", and substituted "the network of community-based child abuse and neglect prevention programs" for "the network of community-based family resource and support program".
+Subsec. (b)(3). Pub. L. 111–320, §132(2)(D), substituted "specific community-based child abuse and neglect prevention program services" for "specific family resource and support program services", inserted "substance abuse treatment services, domestic violence services," after "mental health services,", and substituted "the network of community-based child abuse and neglectprevention programs" for "the network of community-based family resource and support program".
 
 Subsec. (b)(4). Pub. L. 111–320, §132(2)(E), inserted "and reporting" after "information management" and struck out comma after "prevention-focused" and "(through networks where appropriate)" after "child abuse and neglect".
 

@@ -40,7 +40,7 @@ A State shall identify in the application for a grant under this section how the
 
 #### (c) Performance measures
 
-The Secretary shall establish needs indicators and performance measures to evaluate the activities carried out under grants awarded underthis section. Such indicators shall be commensurate with national measures of maternal and child health programs and shall be developed in consultation with the Director of the Centers for Disease Control and Prevention.
+The Secretary shall establish needs indicators and performance measures to evaluate the activities carried out under grants awarded under this section. Such indicators shall be commensurate with national measures of maternal and child health programs and shall be developed in consultation with the Director of the Centers for Disease Control and Prevention.
 
 #### (d) Authorization of appropriations
 

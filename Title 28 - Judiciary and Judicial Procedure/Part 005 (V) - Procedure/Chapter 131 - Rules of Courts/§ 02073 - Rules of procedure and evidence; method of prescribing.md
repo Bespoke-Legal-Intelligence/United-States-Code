@@ -10,7 +10,7 @@
 
 (2) Any meeting for the transaction of business under this chapter, by a committee appointed under this section, shall be preceded by sufficient notice to enable all interested persons to attend.
 
-(d) In making a recommendation under this section or under section 2072 or 2075, the bodymaking that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body's action, including any minority or other separate views.
+(d) In making a recommendation under this section or under section 2072 or 2075, the body making that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body's action, including any minority or other separate views.
 
 (e) Failure to comply with this section does not invalidate a rule prescribed under section 2072 or 2075 of this title.
 
@@ -60,7 +60,7 @@ Purpose.—The purpose of the rules and reports under subsection (a) shall be to
 
 #### Standard Form Disclosure Statement and Plan
 
-Pub. L. 109–8, title IV, §433, Apr. 20, 2005, 119 Stat. 110, provided that: "Within a reasonable period of time after the date of enactment of this Act \[Apr. 20, 2005\], the Judicial Conference of the United States shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official standard form disclosure statements and plans of reorganization for small business debtors (as defined in section 101 of title 11, United States Code, as amended by this Act), designed to achieve a practical balance between—
+Pub. L. 109–8, title IV, §433, Apr. 20, 2005, 119 Stat. 110, provided that: "Within a reasonable period of time after the date of enactment of this Act \[Apr. 20, 2005\],the Judicial Conference of the United States shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official standard form disclosure statements and plans of reorganization for small business debtors (as defined in section 101 of title 11, United States Code, as amended by this Act), designed to achieve a practical balance between—
 
 &emsp;"(1) the reasonable needs of the courts, the United States trustee, creditors, and other parties in interest for reasonably complete information; and
 

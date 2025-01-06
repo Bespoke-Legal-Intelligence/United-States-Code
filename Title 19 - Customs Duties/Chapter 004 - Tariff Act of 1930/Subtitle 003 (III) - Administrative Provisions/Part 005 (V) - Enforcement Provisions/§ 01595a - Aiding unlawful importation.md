@@ -26,7 +26,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;&emsp;(A) its importation or entry is subject to any restriction or prohibition which is imposed by law relating to health, safety, or conservation and the merchandise is not in compliance with the applicable rule, regulation, or statute;
 
-&emsp;&emsp;(B) its importation or entry requires a license, permit or other authorization of an agency of the United States Government and the merchandise is not accompanied by such license, permit, or authorization;
+&emsp;&emsp;(B) its importation or entry requires a license, permit or other authorization of an agency of the United States Government andthe merchandise is not accompanied by such license, permit, or authorization;
 
 &emsp;&emsp;(C) it is merchandise or packaging in which copyright, trademark, or trade name protection violations are involved (including, but not limited to, violations of section 1124, 1125, or 1127 of title 15, section 506 of title 17, or section 2318 or 2320 of title 18);
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Pub. L. 112–213, title II, §219, Dec. 20, 2012, 126 Stat. 1558, as amended by Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8213, Jan. 1, 2021, 134 Stat. 4650, provided that: "For fiscal years 2019 through 2025—
 
-&emsp;"(1) notwithstanding subsection (c)(1) of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
+&emsp;"(1) notwithstanding subsection (c)(1) of section 4403 of the National Defense Authorization Act forFiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
 
 &emsp;&emsp;"(A) the Secretary of Homeland Security shall implement such section with respect to the Coast Guard and, for purposes of that implementation, shall apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel; and
 

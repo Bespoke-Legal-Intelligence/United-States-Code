@@ -54,7 +54,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (1) In general
 
-&emsp;For purposes of this section a dependent care assistance program is a separate writtenplan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
+&emsp;For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
 
 #### (2) Discrimination
 
@@ -84,7 +84,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (A) In general
 
-&emsp;&emsp;A plan meets the requirements of this paragraph if the average benefits provided to employees who are not highly compensated employees under all plans of the employer is at least 55 percent of the average benefits provided to highly compensated employees under all plans of the employer.
+&emsp;&emsp;A plan meets the requirements of this paragraph if the average benefits provided toemployees who are not highly compensated employees under all plans of the employer is at least 55 percent of the average benefits provided to highly compensated employees under all plans of the employer.
 
 #### (B) Salary reduction agreements
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (6) Utilization test not applicable
 
-&emsp;A dependent care assistance program shall not be held or considered to fail to meet anyrequirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
+&emsp;A dependent care assistance program shall not be held or considered to fail to meet any requirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
-(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 117–2, title IX, §9632(a), Mar. 11, 2021, 135 Stat. 160.)
+(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A),title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 117–2, title IX, §9632(a), Mar. 11, 2021, 135 Stat. 160.)
 
 #### <b>Editorial Notes</b>
 

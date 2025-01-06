@@ -144,7 +144,7 @@
 
 #### (B) Unrelated business tax
 
-&emsp;&emsp;In the case of any church tax examination with respect to the tax imposed by section511 (relating to unrelated business income), such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, only with respect to the 6 most recent taxable years ending before the examination notice date.
+&emsp;&emsp;In the case of any church tax examination with respect to the tax imposed by section 511 (relating to unrelated business income), such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, only with respect to the 6 most recent taxable years ending before the examination notice date.
 
 #### (C) Exception where shorter statute of limitations otherwise applicable
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (7) Appropriate high-level Treasury official
 
-&emsp;The term "appropriate high-level Treasury official" means the Secretary of the Treasury or any delegate of the Secretary whose rank isno lower than that of a principal Internal Revenue officer for an internal revenue region.
+&emsp;The term "appropriate high-level Treasury official" means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
 
 #### (i) Section not to apply to criminal investigations, etc.
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

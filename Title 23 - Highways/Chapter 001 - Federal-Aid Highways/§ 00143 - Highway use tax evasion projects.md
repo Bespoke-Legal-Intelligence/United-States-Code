@@ -76,7 +76,7 @@ Excise Tax Fuel Reporting.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the date of enactment of the SAFETEA–LU,the Secretary shall enter into a memorandum of understanding with the Commissioner of the Internal Revenue Service for the purposes of—
+In general.—Not later than 90 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into a memorandum of understanding with the Commissioner of the Internal Revenue Service for the purposes of—
 
 &emsp;&emsp;(A) the additional development of capabilities needed to support new reporting requirements and databases established under such Act and the American Jobs Creation Act of 2004 (Public Law 108–357), and such other reporting requirements and database development as may be determined by the Secretary, in consultation with the Commissioner of the Internal Revenue Service, to be useful in the enforcement of fuel excise taxes, including provisions recommended by the Fuel Tax Enforcement Advisory Committee,
 
@@ -146,7 +146,7 @@ Subsec. (b)(4)(H), (I). Pub. L. 109–59, §1115(a)(3), added subpars. (H) and (
 
 Subsec. (b)(9). Pub. L. 109–59, §1115(a)(4), added par. (9).
 
-Subsec. (c). Pub. L. 109–59, §1115(b), amended heading and text of subsec. (c) generally, substituting provisions relating to memorandum of understanding to be entered into by the Secretary with the Commissioner of the Internal Revenue Service not later than 90 daysafter the date of enactment of the SAFETEA–LU for provisions relating to memorandum of understanding to be entered into by the Secretary with the Commissioner of the Internal Revenue Service not later than August 1, 1998.
+Subsec. (c). Pub. L. 109–59, §1115(b), amended heading and text of subsec. (c) generally, substituting provisions relating to memorandum of understanding to be entered into by the Secretary with the Commissioner of the Internal Revenue Service not later than 90 days after the date of enactment of the SAFETEA–LU for provisions relating to memorandum of understanding to be entered into by the Secretary with the Commissioner of the Internal Revenue Service not later than August 1, 1998.
 
 <b>1998</b>—Pub. L. 105–178 amended section catchline and text generally, substituting provisions relating to highway use tax evasion projects for provisions relating to economic growth center development highways.
 

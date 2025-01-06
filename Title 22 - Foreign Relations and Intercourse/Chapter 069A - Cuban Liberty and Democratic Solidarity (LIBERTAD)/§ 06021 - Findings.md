@@ -30,7 +30,7 @@ The Congress makes the following findings:
 
 &emsp;(10) The Congress has historically and consistently manifested its solidarity and the solidarity of the American people with the democratic aspirations of the Cuban people.
 
-&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their tradeand credit relations with Cuba in a manner consistent with the purposes of that Act.
+&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of that Act.
 
 &emsp;(12) Amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] made by the FREEDOM Support Act require that the President, in providing economic assistance to Russia and the emerging Eurasian democracies, take into account the extent to which they are acting to "terminate support for the communist regime in Cuba, including removal of troops, closing military facilities, and ceasing trade subsidies and economic, nuclear, and other assistance".
 
@@ -82,5 +82,5 @@ The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24
 
 #### Short Title
 
-Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
+Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
 

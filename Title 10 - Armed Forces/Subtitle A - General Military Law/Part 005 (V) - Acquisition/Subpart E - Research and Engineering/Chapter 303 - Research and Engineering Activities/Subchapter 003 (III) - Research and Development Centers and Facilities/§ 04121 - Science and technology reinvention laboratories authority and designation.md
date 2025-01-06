@@ -66,7 +66,7 @@ Designation of Laboratories.—Each of the following is hereby designated as a D
 
 (c)
 
-Conversion Procedures.—The Secretary of Defense shall implement procedures to convert the civilian personnel of each Department of Defense science and technology reinvention laboratory, as so designated by subsection (b),to the personnel system under an appropriate demonstration project (as referred to in subsection (a)). Any conversion under this subsection—
+Conversion Procedures.—The Secretary of Defense shall implement procedures to convert the civilian personnel of each Department of Defense science and technology reinvention laboratory, as so designated by subsection (b), to the personnel system under an appropriate demonstration project (as referred to in subsection (a)). Any conversion under this subsection—
 
 &emsp;(1) shall not adversely affect any employee with respect to pay or any other term or condition of employment;
 

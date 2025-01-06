@@ -2,7 +2,7 @@
 
 Not later than 180 days after October 5, 2018, the Administrator shall provide guidance and training on an annual basis to State, local, and Indian tribal governments, first responders, and utility companies on—
 
-&emsp;(1) the need to prioritize assistance to hospitals, nursing homes, and other long-term care facilities to ensure that such health care facilities remain functioning or return to functioning as soon as practicable during power outages caused by natural hazards, including severe weather events;
+&emsp;(1) the need to prioritize assistance to hospitals, nursing homes, and other long-term care facilities to ensure that such health care facilities remain functioning or return tofunctioning as soon as practicable during power outages caused by natural hazards, including severe weather events;
 
 &emsp;(2) how hospitals, nursing homes and other long-term care facilities should adequately prepare for power outages during a major disaster or emergency, as those terms are defined in section 5122 of title 42; and
 

@@ -24,7 +24,7 @@ Reversion to Service Acquisition Executive.—
 
 &emsp;(1) After designating an alternate milestone decision authority under subsection (b) for a program, the Secretary of Defense may revert the position of milestone decision authority for the program back to the service acquisition executive upon request of the Secretary of the military department concerned. A decision on the request shall be made within 180 days after receipt of the request from the Secretary of the military department concerned.
 
-&emsp;(2) If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary's decision that an alternate official serving as milestone decision authoritywill best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under sections 4371 through 4375 of this title, except in exceptional circumstances.
+&emsp;(2) If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary's decision that an alternate official serving as milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under sections 4371 through 4375 of this title, except in exceptional circumstances.
 
 (d)
 
@@ -42,11 +42,7 @@ Documentation and Oversight.—The Secretary of Defense shall review the acquisi
 
 &emsp;(2) ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.
 
-(f)
-
-Limitation on Authority to Designate Alternative MDA for Programs Addressing Joint Requirements.—The authority of the Secretary of Defense to designate an alternative milestone decision authority for a program with respect to which the Secretary determines that the program is addressing a joint requirement, as set forth in subsection (b)(1), shall apply only for a major defense acquisition program that reaches Milestone A after October 1, 2016, and before October 1, 2019.
-
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1846(b), (f)(1)–(7), Jan. 1, 2021, 134 Stat. 4248, 4250, 4251; Pub. L. 117–81, div. A, title XVII, §1701(b)(15)(A), (o)(6)(B)(i), Dec. 27, 2021, 135 Stat. 2134, 2147.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1846(b), (f)(1)–(7), Jan. 1, 2021, 134 Stat. 4248, 4250, 4251; Pub. L. 117–81, div. A, title XVII, §1701(b)(15)(A), (o)(6)(B)(i), Dec. 27, 2021, 135 Stat. 2134, 2147; Pub. L. 118–159, div. A, title VIII, §811(c), Dec. 23, 2024, 138 Stat. 1979.)
 
 #### <b>Editorial Notes</b>
 
@@ -55,6 +51,8 @@ Limitation on Authority to Designate Alternative MDA for Programs Addressing Joi
 The text of subsec. (d) of section 2430 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f) and amended by Pub. L. 116–283, §1846(f)(1), (5)(B), was based on Pub. L. 114–92, div. A, title VIII, §825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §807(b), Dec. 23, 2016, 130 Stat. 2261.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f). Pub. L. 118–159 struck out subsec. (f). Text read as follows: "The authority of the Secretary of Defense to designate an alternative milestone decision authority for a program with respect to which the Secretary determines that the program is addressing a joint requirement, as set forth in subsection (b)(1), shall apply only for a major defense acquisition program that reaches Milestone A after October 1, 2016, and before October 1, 2019."
 
 <b>2021</b>—Pub. L. 116–283, §1846(f)(1), transferred subsec. (d) of section 2430 of this title to this section, struck out subsec. designation, and redesignated pars. (1) to (5) as subsecs. (a) to (d), and (f), respectively.
 

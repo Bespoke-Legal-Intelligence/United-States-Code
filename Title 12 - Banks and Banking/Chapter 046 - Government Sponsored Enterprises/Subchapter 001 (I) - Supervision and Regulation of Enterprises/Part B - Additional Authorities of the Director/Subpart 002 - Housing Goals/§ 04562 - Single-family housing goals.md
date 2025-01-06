@@ -86,7 +86,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (5) Conforming mortgages
 
-&emsp;In determining whether a mortgage is a conforming mortgage for purposes of this paragraph, the Director shall consider the original principal balance of the mortgage loan to be the principal balance as reported in the information referred to in paragraph (4), as rounded to the nearest thousand dollars.
+&emsp;In determining whether a mortgage is a conforming mortgage for purposes of this paragraph, the Director shall consider the originalprincipal balance of the mortgage loan to be the principal balance as reported in the information referred to in paragraph (4), as rounded to the nearest thousand dollars.
 
 #### (f) Notice of determination and enterprise comment
 

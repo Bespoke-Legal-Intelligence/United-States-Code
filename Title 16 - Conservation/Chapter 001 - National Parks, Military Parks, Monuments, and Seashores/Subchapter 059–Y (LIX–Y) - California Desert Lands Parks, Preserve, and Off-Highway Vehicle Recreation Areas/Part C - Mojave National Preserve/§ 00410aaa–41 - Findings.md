@@ -10,7 +10,7 @@ The Congress hereby finds that—
 
 &emsp;(4) the wilderness within the Mojave Desert should receive maximum statutory protection by designation pursuant to the Wilderness Act \[16 U.S.C. 1131 et seq.\]; and
 
-&emsp;(5) the Mojave Desert area provides an outstanding opportunity to develop services, programs, accommodations and facilities to ensure the use and enjoyment of the area by individuals with disabilities, consistent with section 794 of title 29, Public Law 101–336, the Americans With <sup>1</sup> Disabilities Act of 1990 \[42U.S.C. 12101 et seq.\], and other appropriate laws and regulations.
+&emsp;(5) the Mojave Desert area provides an outstanding opportunity to develop services, programs, accommodations and facilities to ensure the use and enjoyment of the area by individuals with disabilities, consistent with section 794 of title 29, Public Law 101–336, the Americans With <sup>1</sup> Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], and other appropriate laws and regulations.
 
 (Pub. L. 103–433, title V, §501, Oct. 31, 1994, 108 Stat. 4489.)
 

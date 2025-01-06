@@ -44,7 +44,7 @@ In carrying out section 100226 of Public Law 112–141 (42 U.S.C. 4101 note; 126
 
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsecs. (a)(2) and (b)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter. Chapter I of the Act is classified principally to subchapter I (§4011 et seq.) of this chapter. For complete classification of this Act to the Code,see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (a)(2) and (b)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter. Chapter I of the Act is classified principally to subchapter I (§4011 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 

@@ -38,7 +38,7 @@ Subsection (b) provides that able seamen—limited may constitute 100 percent of
 
 Subsection (c) provides that able seamen—special may constitute 100 percent of the able seamen required on vessels not more than 500 gross tons, or a seagoing barge or towing vessel. Able seamen—special may only constitute up to 50 percent of the number of able seamen required on other vessels.
 
-Subsection (d) provides that able seamen—offshore supply vessels may constitute 100 percent of the number of able seamen required on vessels of less than 500 gross tons engaged in support of exploration, exploitation, or production of offshore mineral or energy facilities. They may not serve on board other vessels as an able seaman until they have the appropriate required document.
+Subsection (d) provides that able seamen—offshore supply vessels may constitute 100 percent of the number of able seamen required on vessels of less than 500gross tons engaged in support of exploration, exploitation, or production of offshore mineral or energy facilities. They may not serve on board other vessels as an able seaman until they have the appropriate required document.
 
 Subsection (e) provides that the total number of able seamen—limited or able seamen—special may not be greater than 50 percent of the required number of able seamen on a vessel.
 

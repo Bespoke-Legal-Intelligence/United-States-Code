@@ -12,7 +12,7 @@ The Secretary of Energy may not enter into an arrangement described in subsectio
 
 &emsp;&emsp;(A) is entered into in connection with a project conducted using funds authorized to be appropriated to the Department of Energy to carry out programs necessary for national security; and
 
-&emsp;&emsp;(B) involves a contractor or Federal agency obtaining and charging to the Department of Energy as an allowable cost under a contract the use of office space, facilities, orother real property assets with a value of at least $5,000,000.
+&emsp;&emsp;(B) involves a contractor or Federal agency obtaining and charging to the Department of Energy as an allowable cost under a contract the use of office space, facilities, or other real property assets with a value of at least $5,000,000.
 
 #### (2) Exception
 

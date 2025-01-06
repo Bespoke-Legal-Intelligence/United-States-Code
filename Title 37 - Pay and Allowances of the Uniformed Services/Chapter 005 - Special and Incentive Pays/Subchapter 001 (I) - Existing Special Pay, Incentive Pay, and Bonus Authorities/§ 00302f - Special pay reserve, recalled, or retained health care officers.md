@@ -20,7 +20,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 &emsp;&emsp;(A) officers are involuntarily retained on active duty under section 12305 of title 10; or
 
-&emsp;&emsp;(B) the Secretary of Defense determines (pursuant to regulations prescribed by theSecretary) that special circumstances justify the payment of special pay under this section.
+&emsp;&emsp;(B) the Secretary of Defense determines (pursuant to regulations prescribed by the Secretary) that special circumstances justify the payment of special pay under this section.
 
 (c)
 

@@ -272,19 +272,25 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 (3) An individual convicted of an offense described in paragraph (2) shall not, after the date of the final conviction, be eligible to participate in the retirement system under this subchapter or chapter 84 while serving as a Member.
 
-(4) The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
+(4)(A) Subject to subparagraph (B), an individual convicted of an offense described in paragraph (2) shall not be eligible to receive any payment of an annuity pursuant to the retirement system under this subchapter or chapter 84, except that this sentence applies only to such payments based on service rendered as a Member (irrespective of when rendered).
+
+(B) If the conviction of an individual described in subparagraph (A) is overturned on appeal by a court of competent jurisdiction, the individual shall receive payments that the individual would have received but for the application of subparagraph (A).
+
+(C) This paragraph applies only to a conviction that occurs after the date of enactment of the No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act.
+
+(5) The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
 
 &emsp;(A) provisions under which interest on any lump-sum payment under the second sentence of paragraph (1) shall be limited in a manner similar to that specified in the last sentence of section 8316(b); and
 
 &emsp;(B) provisions under which the Office may provide for—
 
-&emsp;&emsp;(i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which (but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (5); and
+&emsp;&emsp;(i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which (but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (6); and
 
 &emsp;&emsp;(ii) an appropriate adjustment in the amount of any lump-sum payment under the second sentence of paragraph (1) to reflect the application of clause (i).
 
-(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment to the spouse or children of an individual under such clause shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
+(6) Regulations to carry out clause (i) of paragraph (5)(B) shall include provisions to ensure that the authority to make any payment to the spouse or children of an individual under such clause shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
 
-(6) For purposes of this subsection—
+(7) For purposes of this subsection—
 
 &emsp;(A) the terms "finally convicted" and "final conviction" refer to a conviction (i) which has not been appealed and is no longer appealable because the time for taking an appeal has expired, or (ii) which has been appealed and the appeals process for which is completed;
 
@@ -292,7 +298,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 &emsp;(C) the term "child" has the meaning given such term by section 8341.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 567; Pub. L. 90–83, §1(73), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(a), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–177, title I, §112(a), Dec. 30, 1969, 83 Stat. 831; Pub. L. 91–510, title IV, §442(b), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 91–658, §1, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–297, §7(1), May 16, 1972, 86 Stat. 144; Pub. L. 92–454, §1, Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–113, title VI, §602, Oct. 1, 1973, 87 Stat. 417; Pub. L. 94–183, §2(32), (33), (39), Dec. 31, 1975, 89 Stat. 1058, 1059; Pub. L. 95–382, §1(a), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(48), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–465, title II, §2313, Oct. 17, 1980, 94 Stat. 2167; Pub. L. 96–523, §4(a), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–164, title II, §207(a), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §306(b), (c), Sept. 8, 1982, 96 Stat. 795, 796; Pub. L. 97–346, §3(a), (b), Oct. 15, 1982, 96 Stat. 1647; Pub. L. 98–51, title I, §111(2), July 14, 1983, 97 Stat. 269; Pub. L. 89–702, title II, §209(a)–(e), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–369, div. B, title II, §2208(a), July 18, 1984, 98 Stat. 1060; Pub. L. 99–251, title II, §202, Feb. 27, 1986, 100 Stat. 23; Pub. L. 99–335, title II, §207(g), June 6, 1986, 100 Stat. 595; Pub. L. 99–556, title V, §502(a), Oct. 27, 1986, 100 Stat. 3140; Pub. L. 99–638, §2(b)(2), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 100–204, title V, §503, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–530, §1, Nov. 6, 1990, 104 Stat. 2338; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(a), Dec. 19, 1991, 105 Stat. 2384; Pub. L. 102–378, §2(58), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–82, title III, §371(a)(1), title IV, §405(b), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–186, title II, §215(11), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. A, title VI, §637(a), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–57, title III, §312, Sept. 29, 1999, 113 Stat. 428; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–195; Pub. L. 107–107, div. A, title XI, §1132(a)(1), Dec. 28, 2001, 115 Stat. 1242; Pub. L. 110–81, title IV, §401(a), Sept. 14, 2007, 121 Stat. 754; Pub. L. 112–105, §15(a)(1), (b), Apr. 4, 2012, 126 Stat. 301.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 567; Pub. L. 90–83, §1(73), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(a), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–177, title I, §112(a), Dec. 30, 1969, 83 Stat. 831; Pub. L. 91–510, title IV, §442(b), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 91–658, §1, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–297, §7(1), May 16, 1972, 86 Stat. 144; Pub. L. 92–454, §1, Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–113, title VI, §602, Oct. 1, 1973, 87 Stat. 417; Pub. L. 94–183, §2(32), (33), (39), Dec. 31, 1975, 89 Stat. 1058, 1059; Pub. L. 95–382, §1(a), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(48), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–465, title II, §2313, Oct. 17, 1980, 94 Stat. 2167; Pub. L. 96–523, §4(a), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–164, title II, §207(a), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §306(b), (c), Sept. 8, 1982, 96 Stat. 795, 796; Pub. L. 97–346, §3(a), (b), Oct. 15, 1982, 96 Stat. 1647; Pub. L. 98–51, title I, §111(2), July 14, 1983, 97 Stat. 269; Pub. L. 89–702, title II, §209(a)–(e), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–369, div. B, title II, §2208(a), July 18, 1984, 98 Stat. 1060; Pub. L. 99–251, title II, §202, Feb. 27, 1986, 100 Stat. 23; Pub. L. 99–335, title II, §207(g), June 6, 1986, 100 Stat. 595; Pub. L. 99–556, title V, §502(a), Oct. 27, 1986, 100 Stat. 3140; Pub. L. 99–638, §2(b)(2), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 100–204, title V, §503, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–530, §1, Nov. 6, 1990, 104 Stat. 2338; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(a), Dec. 19, 1991, 105 Stat. 2384; Pub. L. 102–378, §2(58), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–82, title III, §371(a)(1), title IV, §405(b), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–186, title II, §215(11), Aug. 20, 1996, 110 Stat.1746; Pub. L. 104–201, div. A, title VI, §637(a), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–57, title III, §312, Sept. 29, 1999, 113 Stat. 428; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–195; Pub. L. 107–107, div. A, title XI, §1132(a)(1), Dec. 28, 2001, 115 Stat. 1242; Pub. L. 110–81, title IV, §401(a), Sept. 14, 2007, 121 Stat. 754; Pub. L. 112–105, §15(a)(1), (b), Apr. 4, 2012, 126 Stat. 301; Pub. L. 118–192, §2(a), Dec. 23, 2024, 138 Stat. 2660.)
 
 Historical and Revision Notes<br>1966
 
@@ -438,7 +444,19 @@ Section 104(a) of the Foreign Corrupt Practices Act of 1977, referred to in subs
 
 Section 10(b) of the Securities Exchange Act of 1934, referred to in subsec. (o)(2)(B)(xxvii), is classified to section 78j(b) of Title 15, Commerce and Trade.
 
+The date of enactment of the No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act, referred to in subsec. (o)(4)(C), is the date of enactment of Pub. L. 118–192, which was approved Dec. 23, 2024.
+
 #### Amendments
+
+<b>2024</b>—Subsec. (o)(4). Pub. L. 118–192, §2(a)(2), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (o)(5). Pub. L. 118–192, §2(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (o)(5)(B)(i). Pub. L. 118–192, §2(a)(3), substituted "paragraph (6)" for "paragraph (5)".
+
+Subsec. (o)(6). Pub. L. 118–192, §2(a)(1), (4), redesignated par. (5) as (6) and substituted "paragraph (5)(B)" for "paragraph (4)(B)". Former par. (6) redesignated (7).
+
+Subsec. (o)(7). Pub. L. 118–192, §2(a)(1), redesignated par. (6) as (7).
 
 <b>2012</b>—Subsec. (o)(2)(A)(i), (ii). Pub. L. 112–105, §15(a)(1), inserted ", the President, the Vice President, or an elected official of a State or local government" after "Member".
 
@@ -568,7 +586,7 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title XI, §1132(c), Dec. 28, 2001, 115 Stat. 1244, provided that: "The amendments made by this section \[amending this section and sections 8334, 8339, 8411, 8415, and 8422 of this title\] shall apply only to separations from service as an employee of the United States on or after the date of the enactment of this Act \[Dec. 28, 2001\]."
+Pub. L. 107–107, div. A, title XI, §1132(c), Dec. 28, 2001, 115 Stat. 1244, provided that: "The amendments madeby this section \[amending this section and sections 8334, 8339, 8411, 8415, and 8422 of this title\] shall apply only to separations from service as an employee of the United States on or after the date of the enactment of this Act \[Dec. 28, 2001\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -596,7 +614,7 @@ In general.—The amendments made by subsection (a) \[amending this section and 
 
 &emsp;&emsp;"(ii)
 
-Rules relating to annuities based on earlier separations.—An annuity under subchapterIII of chapter 83 of title 5, United States Code, payable to an individual based on a separation from service occurring before the effective date of this subtitle shall be subject to the provisions of paragraph (2).
+Rules relating to annuities based on earlier separations.—An annuity under subchapter III of chapter 83 of title 5, United States Code, payable to an individual based on a separation from service occurring before the effective date of this subtitle shall be subject to the provisions of paragraph (2).
 
 &emsp;"(B)
 
@@ -656,7 +674,7 @@ Action to inform individuals.—The Director of the Office of Personnel Manageme
 
 Amendment by section 371(a)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of Title 42, The Public Health and Welfare.
 
-Section 406(b) of Pub. L. 103–82 provided that: "The amendments made by sections 404 and 405 \[amending this section, section 558a of Title 16, Conservation, section 2501–1 of Title 22, Foreign Relations and Intercourse, section 1542 of Title 25, Indians, and sections 3012, 3013, 3035a, 4950, 4953, 4995, 5025, 5043, 5048, 5056, 5061, 5065, 5590, 5616, 6863, 11312, 11851, 12312, 12638, and 12653 of Title 42, and amending provisions set out as notes under section 1701z–6 of Title 12, Banks and Banking, and sections 4954 and 5001 of Title 42\] shall take effect on the effective date of section 203(c)(2)." \[Section 203(c)(2) of Pub. L. 103–82 is effective Apr. 4, 1994, see section 203(d) of Pub. L. 103–82 and Proc. No. 6662, set out as notes under section 12651 of Title 42.\]
+Section 406(b) of Pub. L. 103–82 provided that: "The amendments made by sections 404 and 405 \[amending this section, section 558a of Title 16, Conservation, section 2501–1 of Title 22, Foreign Relations and Intercourse, section 1542 of Title 25, Indians, and sections 3012, 3013, 3035a, 4950, 4953, 4995, 5025, 5043, 5048, 5056, 5061, 5065, 5590, 5616, 6863, 11312, 11851, 12312, 12638, and 12653 of Title 42, and amending provisions set out as notes under section 1701z–6 of Title 12, Banks and Banking, and sections 4954 and 5001 of Title 42\] shall take effect on the effective date of section 203(c)(2)." \[Section203(c)(2) of Pub. L. 103–82 is effective Apr. 4, 1994, see section 203(d) of Pub. L. 103–82 and Proc. No. 6662, set out as notes under section 12651 of Title 42.\]
 
 #### Effective Date of 1991 Amendment
 
@@ -682,7 +700,7 @@ Eligibility.—Except as provided in paragraph (2), the amendment made by sectio
 
 Deposit.—Any such deposit—
 
-&emsp;&emsp;"(i) shall include interest, which shall be computed under section 8334(e) of such title (exceptthat the rate of interest shall be 3 percent a year) from the midpoint of the period of additional service to the date deposit is made; and
+&emsp;&emsp;"(i) shall include interest, which shall be computed under section 8334(e) of such title (except that the rate of interest shall be 3 percent a year) from the midpoint of the period of additional service to the date deposit is made; and
 
 &emsp;&emsp;"(ii) shall be made before date of retirement.
 
@@ -1024,7 +1042,7 @@ In general.—In the case of any individual who—
 
 &emsp;"(2)
 
-Amounts to which applicable.—Any change in an annuity resulting from a redetermination under paragraph (1) shall be effective with respect to payments accruing for months beginning after the date of the enactment of this Act."
+Amounts to which applicable.—Any change in an annuity resulting from a redetermination underparagraph (1) shall be effective with respect to payments accruing for months beginning after the date of the enactment of this Act."
 
 #### Clarification Relating to Consideration of Pre-1987 Service as Air Traffic Controller for Retirement Purposes
 
@@ -1038,7 +1056,7 @@ Pub. L. 100–92, §2, Aug. 18, 1987, 101 Stat. 679, provided that:
 
 "(b) For purposes of this section—
 
-&emsp;"(1) the term 'air traffic controller' has the meaning given such term by section 2109(1) of title 5, United States Code, as amended by section 207(b) ofthe Federal Employees' Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 594); and
+&emsp;"(1) the term 'air traffic controller' has the meaning given such term by section 2109(1) of title 5, United States Code, as amended by section 207(b) of the Federal Employees' Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 594); and
 
 &emsp;"(2) the term 'Secretary' has the meaning given such term by section 2109(2) of title 5, United States Code."
 
@@ -1086,7 +1104,7 @@ Section 307 of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(k), Oct. 15
 
 #### District of Columbia Substitute Teachers
 
-Section 2 of Pub. L. 92–454 provided that: "An annuity or survivor annuity based on the service of an employee or annuitant who performed service described in section 1 of this Act \[amending this section\] shall, upon application to the Civil Service Commission, be recomputed, effective on the first day of the first month following the date of enactment of this Act \[Oct. 2, 1972\], in accordance with section 1 of this Act."
+Section 2 of Pub. L. 92–454 provided that: "An annuity or survivor annuity based on the service of an employeeor annuitant who performed service described in section 1 of this Act \[amending this section\] shall, upon application to the Civil Service Commission, be recomputed, effective on the first day of the first month following the date of enactment of this Act \[Oct. 2, 1972\], in accordance with section 1 of this Act."
 
 #### National Guard Technicians
 

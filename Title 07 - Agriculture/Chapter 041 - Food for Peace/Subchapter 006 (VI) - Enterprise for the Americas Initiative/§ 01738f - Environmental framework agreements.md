@@ -58,5 +58,5 @@ Funds disbursed from the Environmental Fund in an eligible country shall be admi
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see section 2 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
+For delegation of functions of President under this section, see section 2 of Ex. Ord. No. 13345, July 8, 2004,69 F.R. 41901, set out as a note under section 1738 of this title.
 

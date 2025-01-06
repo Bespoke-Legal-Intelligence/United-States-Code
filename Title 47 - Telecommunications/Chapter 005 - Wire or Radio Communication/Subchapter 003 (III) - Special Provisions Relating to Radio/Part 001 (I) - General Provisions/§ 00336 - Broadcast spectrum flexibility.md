@@ -48,7 +48,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;(A) be designed (i) to recover for the public a portion of the value of the public spectrum resource made available for such commercial use, and (ii) to avoid unjust enrichment through the method employed to permit such uses of that resource;
 
-&emsp;&emsp;(B) recover for the public an amount that, to the extent feasible, equals but does notexceed (over the term of the license) the amount that would have been recovered had such services been licensed pursuant to the provisions of section 309(j) of this title and the Commission's regulations thereunder; and
+&emsp;&emsp;(B) recover for the public an amount that, to the extent feasible, equals but does not exceed (over the term of the license) the amount that would have been recovered had such services been licensed pursuant to the provisions of section 309(j) of this title and the Commission's regulations thereunder; and
 
 &emsp;&emsp;(C) be adjusted by the Commission from time to time in order to continue to comply with the requirements of this paragraph.
 
@@ -146,7 +146,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;&emsp;(i) the predicted Grade B contour (as of the date of the enactment of the Community Broadcasters Protection Act of 1999 \[November 29, 1999\], or November 1, 1999, whichever is later, or as proposed in a change application filed on or before such date) of any television station transmitting in analog format; or
 
-&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments; (II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission prior to the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
+&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments;\(II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission prior to the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
 
 &emsp;&emsp;(B) interference within the protected contour of any low-power television station or low-power television translator station that—
 
@@ -294,7 +294,7 @@ As used in this section:
 
 The date of enactment of LPTV Digital Data Services Act, referred to in subsec. (h)(3), probably means the date of enactment of Pub. L. 106–554, which enacted subsec. (h) of this section, and which was approved Dec. 21, 2000. There is no public law with that short title.
 
-This chapter, referred to in subsec. (h)(6), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (h)(6), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934,which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

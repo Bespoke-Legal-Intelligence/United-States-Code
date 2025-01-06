@@ -12,7 +12,7 @@ Each State that receives an allotment under section 7113 of this title for a fis
 
 #### (b) State activities
 
-Each State that receives an allotment under section 7113 of this title shall use the funds available under subsection (a)(3) for activities and programs designed to meet the purposes of this subpart, which may include—
+Each State that receives an allotment under section 7113 of this title shall use the fundsavailable under subsection (a)(3) for activities and programs designed to meet the purposes of this subpart, which may include—
 
 &emsp;(1) providing monitoring of, and training, technical assistance, and capacity building to, local educational agencies that receive an allotment under section 7115 of this title;
 

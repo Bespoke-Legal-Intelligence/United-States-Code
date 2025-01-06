@@ -28,7 +28,7 @@ The notice required by subsection (a) shall be sent—
 
 #### (1) In general
 
-&emsp;Within 30 days after receipt of the notice specified in subsection (a), each prospectivedefendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
+&emsp;Within 30 days after receipt of the notice specified in subsection (a), each prospective defendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
 
 #### (2) Willingness to engage in ADR
 

@@ -4,7 +4,7 @@
 
 #### (1) Covered professionals
 
-&emsp;A person who, while engaged in a professional capacity or activity described in subsection (b) on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) and to the agency or agencies provided for in subsection (e), if applicable.
+&emsp;A person who, while engaged in a professional capacity or activity described in subsection (b) on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a childhas suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) and to the agency or agencies provided for in subsection (e), if applicable.
 
 #### (2) Covered individuals
 
@@ -44,7 +44,7 @@ For the purposes of this section—
 
 &emsp;(5) the term "sexually explicit conduct" means actual or simulated—
 
-&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the sameor of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
 
 &emsp;&emsp;(B) bestiality;
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by substituting "1 of the 50 States or the District of Columbia" for "1 of the 50 States" each place it appears;
 
-&emsp;&emsp;&emsp;&emsp;(II) in paragraph (2)(A), by substituting " $200,000,000" for " $1,250,000,000";
+&emsp;&emsp;&emsp;&emsp;(II) in paragraph (2)(A), by substituting "$200,000,000" for "$1,250,000,000";
 
 &emsp;&emsp;&emsp;&emsp;(III) in paragraph (2)(B), by substituting "each of the 50 States and District of Columbia" for "each of the 50 States";
 
@@ -70,7 +70,7 @@
 
 #### (i) Pro rata adjustments
 
-&emsp;&emsp;&emsp;The Secretary shall make pro rata reductions in the amounts of the allocations determined under clause (ii) of subparagraph (A) for entities described in such clause as necessary to ensure that the total amount of payments made pursuant to such clause does not exceed the remainder amount described in such clause.
+&emsp;&emsp;&emsp;The Secretary shall make pro rata reductions in the amounts of the allocations determined under clause (ii) of subparagraph (A) for entities described in such clause as necessary to ensure that the total amount of payments made pursuantto such clause does not exceed the remainder amount described in such clause.
 
 #### (ii) Distribution of declined funds
 
@@ -160,7 +160,7 @@
 
 #### (ii) Documentation
 
-&emsp;&emsp;&emsp;For any payments made by an eligible grantee to a lessor or utility provider on behalf of an eligible household, the eligible grantee shall provide documentation of such payments to such household.
+&emsp;&emsp;&emsp;For any payments made by an eligible grantee to a lessor or utility provider onbehalf of an eligible household, the eligible grantee shall provide documentation of such payments to such household.
 
 #### (3) Housing stability services
 
@@ -188,7 +188,7 @@
 
 #### (d) Reallocation of unused funds
 
-Beginning on September 30, 2021, the Secretary shall recapture excess funds, as determined by the Secretary, not obligated by a grantee for the purposes described under subsection (c) and the Secretary shall reallocate and repay such amounts to eligible grantees who, at the time of such reallocation, have obligated at least 65 percent of the amount originally allocated and paid to such grantee under subsection (b)(1), only for the allowable uses described under subsection (c). The amount of anysuch reallocation shall be determined based on demonstrated need within a grantee's jurisdiction, as determined by the Secretary.
+Beginning on September 30, 2021, the Secretary shall recapture excess funds, as determined by the Secretary, not obligated by a grantee for the purposes described under subsection (c) and the Secretary shall reallocate and repay such amounts to eligible grantees who, at the time of such reallocation, have obligated at least 65 percent of the amount originally allocated and paid to such grantee under subsection (b)(1), only for the allowable uses described under subsection (c). The amount of any such reallocation shall be determined based on demonstrated need within a grantee's jurisdiction, as determined by the Secretary.
 
 #### (e) Availability
 
@@ -284,7 +284,7 @@ Beginning on September 30, 2021, the Secretary shall recapture excess funds, as 
 
 #### (h) Administrative expenses of the Secretary
 
-Of the funds appropriated pursuant to subsection (a), not more than $15,000,000 may beused for administrative expenses of the Secretary in administering this section, including technical assistance to grantees in order to facilitate effective use of funds provided under this section.
+Of the funds appropriated pursuant to subsection (a), not more than $15,000,000 may be used for administrative expenses of the Secretary in administering this section, including technical assistance to grantees in order to facilitate effective use of funds provided under this section.
 
 #### (i) Inspector General Oversight; Recoupment
 

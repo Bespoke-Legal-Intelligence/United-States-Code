@@ -28,7 +28,7 @@ Reference to Administrator of Veterans' Affairs deemed to refer to Secretary of 
 
 #### Effective Date
 
-Pub. L. 93–533, §20, formerly §19, Dec. 22, 1974, 88 Stat. 1731, renumbered §20, Pub. L. 94–205, §10, Jan. 2, 1976, 89Stat. 1159, provided that: "The provisions of this Act, and the amendments made thereby \[see Short Title note below\], shall become effective one hundred and eighty days after the date of the enactment of this Act \[Dec. 22, 1974\]."
+Pub. L. 93–533, §20, formerly §19, Dec. 22, 1974, 88 Stat. 1731, renumbered §20, Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159, provided that: "The provisions of this Act, and the amendments made thereby \[see Short Title note below\], shall become effective one hundred and eighty days after the date of the enactment of this Act \[Dec. 22, 1974\]."
 
 #### Short Title of 2021 Amendment
 

@@ -242,7 +242,7 @@ Subsec. (d)(1). Pub. L. 115–334, §2308(d)(5)(D), inserted par. designation, h
 
 Pub. L. 115–334, §2308(d)(5)(C), redesignated par. (4) as (1). Former par. (1) redesignated (2).
 
-Subsec. (d)(2). Pub. L. 115–334, §2308(d)(5)(C), (E), redesignated par. (1) as (2), substituted "agree to adopt orimprove, manage, and maintain—" for "agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.", and added subpars. (A) and (B).
+Subsec. (d)(2). Pub. L. 115–334, §2308(d)(5)(C), (E), redesignated par. (1) as (2), substituted "agree to adopt or improve, manage, and maintain—" for "agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.", and added subpars. (A) and (B).
 
 Pub. L. 115–334, §2308(d)(5)(B), struck out par. (2). Text read as follows: "The Secretary shall determine whether a resource-conserving crop rotation is a beneficial crop rotation eligible for additional payments under paragraph (1) based on whether the resource-conserving crop rotation is designed to provide natural resource conservation and production benefits."
 

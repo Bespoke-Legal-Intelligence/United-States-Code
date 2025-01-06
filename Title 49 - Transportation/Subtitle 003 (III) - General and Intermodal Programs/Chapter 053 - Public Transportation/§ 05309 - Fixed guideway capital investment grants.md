@@ -390,7 +390,7 @@ Selection criteria.—The Secretary may provide Federal assistance for a small s
 
 &emsp;(4)
 
-Evaluation of benefits and federal investment.—In making a determination for asmall start project under paragraph (3)(B), the Secretary shall analyze, evaluate, and consider the following evaluation criteria for the project (as compared to a no-action alternative): mobility improvements, environmental benefits, congestion relief, economic development effects associated with the project, policies and land use patterns that support public transportation and cost-effectiveness as measured by cost per rider.
+Evaluation of benefits and federal investment.—In making a determination for a small start project under paragraph (3)(B), the Secretary shall analyze, evaluate, and consider the following evaluation criteria for the project (as compared to a no-action alternative): mobility improvements, environmental benefits, congestion relief, economic development effects associated with the project, policies and land use patterns that support public transportation and cost-effectiveness as measured by cost per rider.
 
 &emsp;(5)
 
@@ -574,7 +574,7 @@ Grant agreements.—
 
 &emsp;&emsp;(A)
 
-New start and core capacity improvement projects.—A new start project or core capacity improvement project in animmediate bundling request or future bundling request shall be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2).
+New start and core capacity improvement projects.—A new start project or core capacity improvement project in an immediate bundling request or future bundling request shall be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2).
 
 &emsp;&emsp;(B)
 
@@ -588,7 +588,7 @@ Requirement.—A combined grant agreement described in paragraph (2)(I)(i) shall
 
 &emsp;&emsp;&emsp;(ii) be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2) for the included projects, if a project seeking assistance under the combined grant agreement is a new start project or core capacity improvement project; and
 
-&emsp;&emsp;&emsp;(iii) be carried out through a grant agreement pursuant to subsection (h)(7) for the included projects, if the projects seeking assistance under the combined grant agreement consist entirely of small start projects.
+&emsp;&emsp;&emsp;(iii) be carried out through a grant agreement pursuant to subsection (h)(7) for the included projects, if the projectsseeking assistance under the combined grant agreement consist entirely of small start projects.
 
 &emsp;&emsp;(D)
 
@@ -680,7 +680,7 @@ Contents of plan.—The plan submitted under clause (i) shall provide for—
 
 &emsp;&emsp;(F)
 
-Collection of data on current system.—To be eligible for a full funding grant agreement under this paragraph, recipients shall have collected data on the current system, according to the plan required under subparagraph (E)(ii), before the beginning of construction of the proposed new fixed guideway capital project or core capacity improvement project. Collection of this data shall be included in the full funding grant agreement as an eligible activity.
+Collection of data on current system.—To be eligible for a full funding grantagreement under this paragraph, recipients shall have collected data on the current system, according to the plan required under subparagraph (E)(ii), before the beginning of construction of the proposed new fixed guideway capital project or core capacity improvement project. Collection of this data shall be included in the full funding grant agreement as an eligible activity.
 
 &emsp;(3)
 
@@ -984,7 +984,7 @@ Updates.—The Secretary shall update the information provided under paragraph (
 
 &emsp;(3)
 
-Project profiles.—The Secretary shall continue to make profiles for projects that have applied for or are receiving assistance under this section publicly available in an easily identifiable location on the website of the Department of Transportation, in the same manner as the Secretary did as of the day before the date of enactment of this subsection.
+Project profiles.—The Secretary shall continue to make profiles for projects thathave applied for or are receiving assistance under this section publicly available in an easily identifiable location on the website of the Department of Transportation, in the same manner as the Secretary did as of the day before the date of enactment of this subsection.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984; Pub. L. 114–94, div. A, title III, §3005(a), Dec. 4, 2015, 129 Stat. 1450; Pub. L. 117–58, div. C, §30005(a), Nov. 15, 2021, 135 Stat. 894.)
 
@@ -1178,7 +1178,7 @@ In subsection (g)(2)(A)(i), the words "and conditions" are omitted as being incl
 
 In subsection (g)(4), the word "issued" is omitted as surplus. The text of 49 App.:1602(a)(4)(E) (3d sentence) is omitted as executed. The text of 49 App.:1602(a)(4)(E) (4th and last sentences) is omitted as obsolete.
 
-In subsection (h), the words "nature and extent of" are omitted as surplus. The words "net project cost"are substituted for "what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called 'net project cost' " because of the definition of "net project cost" in section 5302(a) of the revised title. The words "Except as provided in paragraph (2) of this subsection" are added for clarity. The words "Such remainder may be provided in whole or in part from other than public sources and any public or private", "solely", and "at any time" are omitted as surplus. The words "shall be deemed" are omitted as unnecessary since the text is a statement of a legal conclusion.
+In subsection (h), the words "nature and extent of" are omitted as surplus. The words "net project cost" are substituted for "what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called 'net project cost' " because of the definition of "net project cost" in section 5302(a) of the revised title. The words "Except as provided in paragraph (2) of this subsection" are added for clarity. The words "Such remainder may be provided in whole or in part from other than public sources and any public or private", "solely", and "at any time" are omitted as surplus. The words "shall be deemed" are omitted as unnecessary since the text is a statement of a legal conclusion.
 
 In subsection (i), before clause (1), the words "Except for a loan under subsection (b) of this section" are added for clarity. The words "made under this section" and "at a rate" are omitted as surplus. In clause (1), the word "market" is omitted as surplus. In clause (2), the words "under the program" are omitted as surplus.
 
@@ -1268,7 +1268,7 @@ Subsec. (a)(7)(B). Pub. L. 114–94, §3005(a)(1)(C)(ii), substituted "$300,000,
 
 Subsec. (d)(1)(B). Pub. L. 114–94, §3005(a)(2)(A), struck out ", policies and land use patterns that promote public transportation," after "project justification".
 
-Subsec. (d)(2)(A)(iii) to (v). Pub. L. 114–94, §3005(a)(2)(B), inserted "and" after semicolon in cl. (iii), redesignated cl. (v) as (iv), and struck out former cl. (iv), which read as follows: "is supported by policies and land use patterns that promote public transportation, including plans for future land use and rezoning, and economic development around public transportation stations; and".
+Subsec. (d)(2)(A)(iii) to (v). Pub. L. 114–94, §3005(a)(2)(B), inserted "and" after semicolon in cl. (iii), redesignated cl. (v) as (iv), and struck out formercl. (iv), which read as follows: "is supported by policies and land use patterns that promote public transportation, including plans for future land use and rezoning, and economic development around public transportation stations; and".
 
 Subsec. (g)(2)(A)(i). Pub. L. 114–94, §3005(a)(3), struck out "the policies and land use patterns that support public transportation," after "subsection (d)(2)(A)(iii),".
 
@@ -1338,7 +1338,7 @@ Pub. L. 112–102, §303(3)(A)(i), substituted "2011 and $7,500,000 shall be ava
 
 Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–141, §113003(3)(A)(ii), (iii), struck out "for each fiscal year and $1,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," after "$2,500,000".
 
-Pub. L. 112–140, §§1(c), 303(3)(a)(ii), (iii), temporarily substituted "$1,900,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$1,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 303(3)(a)(ii), (iii), temporarily substituted "$1,900,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$1,875,000 for the period beginning on October 1, 2011, and endingon June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §303(3)(A)(ii), (iii), substituted "for each fiscal year and $1,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
@@ -1410,9 +1410,9 @@ Pub. L. 112–5, §303(2)(B), substituted "2011" for "2010, and $2,123,000 shall
 
 Subsec. (m)(7)(A). Pub. L. 112–30, §133(3)(A)(i), substituted "2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012," for "2011" and struck out "each fiscal year" before colon.
 
-Pub. L. 112–5, §303(3)(A)(i)–(iii), struck out cl. (i) designation and heading, substituted "$10,000,000 shall beavailable in each of fiscal years 2006 through 2011" for "$10,000,000 shall be available in each of fiscal years 2006 through 2010" in introductory provisions, redesignated subcls. (I) to (VIII) of former cl. (i) as cls. (i) to (viii), respectively, struck out former cl. (ii) which provided a special rule for Oct. 1, 2010, through Mar. 4, 2011, and realigned margins.
+Pub. L. 112–5, §303(3)(A)(i)–(iii), struck out cl. (i) designation and heading, substituted "$10,000,000 shall be available in each of fiscal years 2006 through 2011" for "$10,000,000 shall be available in each of fiscal years 2006 through 2010" in introductory provisions, redesignated subcls. (I) to (VIII) of former cl. (i) as cls. (i) to (viii), respectively, struck out former cl. (ii) which provided a special rule for Oct. 1, 2010, through Mar. 4, 2011, and realigned margins.
 
-Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–30, §133(3)(A)(ii), (iii), substituted "$2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012," for "$2,500,000".
+Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–30, §133(3)(A)(ii), (iii), substituted "$2,500,000 for each fiscal year and$1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012," for "$2,500,000".
 
 Subsec. (m)(7)(A)(iii). Pub. L. 112–30, §133(3)(A)(iv), substituted "$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012," for "$1,000,000".
 
@@ -1500,7 +1500,7 @@ Pub. L. 111–147, §433(3)(E), inserted ", and $750,000 shall be available for
 
 <b>2008</b>—Subsec. (d)(5)(B). Pub. L. 110–244, §201(d)(1), substituted "this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating." for "regulation."
 
-Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted "subsection and shall give comparable, but notnecessarily equal, numerical weight to each project justification criteria in calculating the overall project rating." for "subsection."
+Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted "subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating." for "subsection."
 
 Subsec. (m)(2)(A). Pub. L. 110–244, §201(d)(3), substituted "
 
@@ -1510,7 +1510,7 @@ Major capital" in heading.
 
 Subsec. (m)(7)(B). Pub. L. 110–244, §201(d)(4), substituted "section 3045" for "section 3039" in introductory provisions.
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (p) providing for grants and loans to assist State and local governmental authorities in financing capital projects related to fixed guideway systems, capital projects needed for an efficient and coordinated mass transportation system, the capital costs of coordinating mass transportation with other transportation, the introduction of new technology, and mass transportation projects to meet the special needs of elderly individuals and individuals with disabilities.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted ofsubsecs. (a) to (p) providing for grants and loans to assist State and local governmental authorities in financing capital projects related to fixed guideway systems, capital projects needed for an efficient and coordinated mass transportation system, the capital costs of coordinating mass transportation with other transportation, the introduction of new technology, and mass transportation projects to meet the special needs of elderly individuals and individuals with disabilities.
 
 Subsec. (m)(1). Pub. L. 109–40, §7(a)(1), substituted "July 30, 2005" for "July 27, 2005" in introductory provisions.
 
@@ -1938,7 +1938,7 @@ In general.—Not later than 120 days after the date on which the Secretary rece
 
 &emsp;&emsp;"(i) of approval of the grant request; or
 
-&emsp;&emsp;"(ii) if the grant request does not meet the requirements under paragraph (4), of disapproval ofthe grant request, including a detailed explanation of the reasons for the disapproval.
+&emsp;&emsp;"(ii) if the grant request does not meet the requirements under paragraph (4), of disapproval of the grant request, including a detailed explanation of the reasons for the disapproval.
 
 &emsp;"(B)
 
@@ -2070,7 +2070,7 @@ Limitation on statutory construction.—Nothing in this subsection shall be cons
 
 &emsp;"(D)
 
-Special rule for rolling stock costs.—In addition to amounts allowed pursuant to subparagraph (A), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Federal Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made onlyif a refund of a proportional amount of the grant of the Federal Government is made at the same time.
+Special rule for rolling stock costs.—In addition to amounts allowed pursuant to subparagraph (A), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Federal Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Federal Government is made at the same time.
 
 &emsp;"(E)
 

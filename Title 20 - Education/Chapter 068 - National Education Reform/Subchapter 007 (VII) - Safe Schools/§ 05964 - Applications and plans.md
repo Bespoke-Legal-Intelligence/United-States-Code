@@ -8,7 +8,7 @@ In order to receive a grant under this subchapter, an eligible local educational
 
 &emsp;(2) an assurance that the applicant has written policies regarding school safety, student discipline, and the appropriate handling of violent or disruptive acts;
 
-&emsp;(3) a description of the schools and communities to be served by the grant, the activitiesand projects to be carried out with grant funds, and how these activities and projects will help to reduce the current violence and crime problems in the schools and communities served;
+&emsp;(3) a description of the schools and communities to be served by the grant, the activities and projects to be carried out with grant funds, and how these activities and projects will help to reduce the current violence and crime problems in the schools and communities served;
 
 &emsp;(4) a description of educational materials to be developed in the first most predominate non-English language of the schools and communities to be served by the grant, if applicable;
 

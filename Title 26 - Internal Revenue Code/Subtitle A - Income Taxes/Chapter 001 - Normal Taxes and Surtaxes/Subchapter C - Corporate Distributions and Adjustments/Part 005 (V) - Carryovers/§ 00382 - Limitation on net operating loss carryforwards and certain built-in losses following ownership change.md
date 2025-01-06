@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;The term "pre-change loss" means—
 
-&emsp;&emsp;(A) any net operating loss carryforward of the old loss corporation to the taxable year ending with the ownership change or in which the change date occurs, and
+&emsp;&emsp;(A) any net operating loss carryforward of the old loss corporation to the taxable yearending with the ownership change or in which the change date occurs, and
 
 &emsp;&emsp;(B) the net operating loss of the old loss corporation for the taxable year in which the ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (C) Coordination with other owner shifts
 
-&emsp;&emsp;Except as provided in regulations, rules similar to the rules of subparagraph (B) shall apply in determining whether there has been an owner shift involving a 5-percent shareholder and whether such shift (or subsequent transaction) results in an ownership change.
+&emsp;&emsp;Except as provided in regulations, rules similar to the rules of subparagraph (B)shall apply in determining whether there has been an owner shift involving a 5-percent shareholder and whether such shift (or subsequent transaction) results in an ownership change.
 
 #### (D) Treatment of worthless stock
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (ii) Special rule for redemptions or other corporate contractions
 
-&emsp;&emsp;&emsp;If a redemption or other corporate contraction occurs in connection with an ownership change, to the extent provided in regulations, determinations under clause (i) shall be made after taking such redemption or other corporate contraction into account.
+&emsp;&emsp;&emsp;If a redemption or other corporate contraction occurs in connection with an ownership change, to the extent provided inregulations, determinations under clause (i) shall be made after taking such redemption or other corporate contraction into account.
 
 #### (B) Threshold requirement
 
@@ -308,7 +308,7 @@ For purposes of this section—
 
 #### (C) Adjustments
 
-&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted foramounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
+&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
 
 #### (7) Recognition period, etc.
 
@@ -604,7 +604,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (2) Subsequent acquisitions
 
-&emsp;Paragraph (1) shall not apply in the case of any subsequent ownership change unless such ownership change is described in such paragraph.
+&emsp;Paragraph (1) shall not apply in the case of any subsequent ownership change unless suchownership change is described in such paragraph.
 
 #### (3) Limitation based on control in corporation
 
@@ -686,7 +686,7 @@ Subsec. (g)(1)(B). Pub. L. 100–647, §1006(d)(21)(B), struck out "old" after "
 
 Subsec. (g)(4)(C). Pub. L. 100–647, §1006(d)(2), inserted "rules similar to" after "provided in regulations,".
 
-Subsec. (h)(1)(C). Pub. L. 100–647, §1006(d)(3)(A), substituted "Special rules for certain section 338 gains" for "Section 338 gain" in heading and amended text generally. Prior to amendment, text read as follows: "The section 382 limitation for any taxable year in which gain is recognized by reason of an election under section 338 shall be increased by the excess of—
+Subsec. (h)(1)(C). Pub. L. 100–647, §1006(d)(3)(A), substituted "Special rules for certain section 338 gains"for "Section 338 gain" in heading and amended text generally. Prior to amendment, text read as follows: "The section 382 limitation for any taxable year in which gain is recognized by reason of an election under section 338 shall be increased by the excess of—
 
 &emsp;"(i) the amount of such gain, over
 
@@ -728,7 +728,7 @@ Pub. L. 100–647, §1006(d)(7), substituted "after such ownership change and as
 
 Subsec. (l)(5)(B). Pub. L. 100–647, §1006(d)(27), substituted "the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed" for "the net operating loss deduction under section 172(a) for any post-change year shall be determined".
 
-Subsec. (l)(5)(C). Pub. L. 100–647, §1006(d)(18), substituted "tax attributes" for "carryforwards" in heading and amended text generally. Prior to amendment, text read as follows: "In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) whichmay be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included."
+Subsec. (l)(5)(C). Pub. L. 100–647, §1006(d)(18), substituted "tax attributes" for "carryforwards" in heading and amended text generally. Prior to amendment, text read as follows: "In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included."
 
 Subsec. (l)(5)(E). Pub. L. 100–647, §1006(d)(19), substituted "taken into account" for "of creditors taken into account" in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "For purposes of subparagraph (A)(ii), stock transferred to a creditor in satisfaction of indebtedness shall be taken into account only if such indebtedness—".
 
@@ -756,7 +756,7 @@ Pub. L. 100–647, §1006(d)(1)(C), redesignated former par. (5) as (4).
 
 Subsec. (h)(2)(B). Pub. L. 100–203, §10225(b), inserted at end "Such term includes any amount allowable as depreciation, amortization, or depletion for any period within the recognition period except to the extent the new loss corporation establishes that the amount so allowable is not attributable to the excess described in clause (ii)."
 
-<b>1986</b>—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of "purchase", in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
+<b>1986</b>—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of "purchase", in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all sharesexcept nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e). See 1976 Amendment note below.
 
@@ -802,7 +802,7 @@ Amendment by Pub. L. 103–66 applicable to stock transferred after Dec. 31, 199
 
 Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownership changes and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
 
-Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
+Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made by this subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
 
 Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -904,7 +904,7 @@ Application of old rules to certain debt.—In the case of debt of a corporation
 
 &emsp;"(D)
 
-Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
+Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
 
 "(3)
 
@@ -970,7 +970,7 @@ Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1,
 
 Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
 
-Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other thantransactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -12,7 +12,7 @@ Funds appropriated to the Secretary of State for "International Organizations an
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–511, §1(1), substituted "International Bureau of Intellectual Property" for "International Bureau for the Protection of Industrial Property".
 
-Subsec. (b). Pub. L. 92–511, §1(2), substituted provisions authorizing appropriation of sums as determined under article 16(4) of the Paris Convention for the Protection of Industrial Property up to a maximum of 4.5 percent of the total expenses apportioned among member countries, for provisions authorizing appropriation of sums for payment by the United States of its proportionate share not exceeding $15,000 annually.
+Subsec. (b). Pub. L. 92–511, §1(2), substituted provisions authorizing appropriation of sums as determinedunder article 16(4) of the Paris Convention for the Protection of Industrial Property up to a maximum of 4.5 percent of the total expenses apportioned among member countries, for provisions authorizing appropriation of sums for payment by the United States of its proportionate share not exceeding $15,000 annually.
 
 <b>1963</b>—Pub. L. 88–69 increased the limitation on the annual appropriation authorization from $7,250 to $15,000.
 

@@ -44,5 +44,5 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Regulations
 
-Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: "Within 180 days following the date of the enactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct."
+Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: "Within 180 days following the date of theenactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct."
 

@@ -16,5 +16,5 @@ Section is based on the second par. of section 4 of act Feb. 14, 1903. The first
 
 #### Change of Name
 
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called theDepartment of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 

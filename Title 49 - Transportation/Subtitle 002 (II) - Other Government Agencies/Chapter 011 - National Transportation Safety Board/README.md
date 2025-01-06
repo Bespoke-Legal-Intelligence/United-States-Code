@@ -18,18 +18,7 @@
 | [1114\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001114%20-%20Disclosure%2C%20availability%2C%20and%20use%20of%20information.md) | Disclosure, availability, and use of information. |
 | [1115\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001115%20-%20Training.md) | Training. |
 | [1116\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001116%20-%20Reports%2C%20studies%2C%20and%20retrospective%20reviews.md) | Reports, studies, and retrospective reviews. |
-| 117\.<sup>1</sup> | Methodology. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 1117\.<sup>2</sup> | Annual report. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1117\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001117%20-%20Methodology.md) | Methodology. |
 | [1118\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001118%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1119\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001119%20-%20Accident%20and%20safety%20data%20classification%20and%20publication.md) | Accident and safety data classification and publication. |
 
@@ -44,11 +33,11 @@
 | [1133\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001133%20-%20Review%20of%20other%20agency%20action.md) | Review of other agency action. |
 | [1134\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001134%20-%20Inspections%20and%20autopsies.md) | Inspections and autopsies. |
 | [1135\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001135%20-%20Secretary%20of%20Transportation%27s%20responses%20to%20safety%20recommendations.md) | Secretary of Transportation's responses to safety recommendations. |
-| [1136\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001136%20-%20Assistance%20to%20families%20of%20passengers%20involved%20in%20aircraft%20accidents.md) | Assistance to families of passengers involved in aircraft accidents. |
+| [1136\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001136%20-%20Assistance%20to%20passengers%20involved%20in%20aircraft%20accidents%20and%20families%20of%20such%20passengers.md) | Assistance to passengers involved in aircraft accidents and families of such passengers. |
 | [1137\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001137%20-%20Authority%20of%20the%20Inspector%20General.md) | Authority of the Inspector General. |
 | [1138\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001138%20-%20Evaluation%20and%20audit%20of%20National%20Transportation%20Safety%20Board.md) | Evaluation and audit of National Transportation Safety Board. |
-| [1139\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001139%20-%20Assistance%20to%20families%20of%20passengers%20involved%20in%20rail%20passenger%20accidents.md) | Assistance to families of passengers involved in rail passenger accidents. |
-| [1140\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001140%20-%20Information%20for%20families%20of%20individuals%20involved%20in%20accidents.md) | Information for families of individuals involved in accidents. |
+| [1139\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001139%20-%20Assistance%20to%20passengers%20involved%20in%20rail%20passenger%20accidents%20and%20families%20of%20such%20passengers.md) | Assistance to passengers involved in rail passenger accidents and families of such passengers. |
+| [1140\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001140%20-%20Information%20individuals%201%20involved%20in%20accidents%20and%20families%20of%20such%20individuals.md) | Information for families of individuals involved in accidents.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,13 +49,15 @@
 | [1152\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001152%20-%20Joinder%20and%20intervention%20in%20aviation%20proceedings.md) | Joinder and intervention in aviation proceedings. |
 | [1153\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001153%20-%20Judicial%20review.md) | Judicial review. |
 | [1154\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001154%20-%20Discovery%20and%20use%20of%20cockpit%20and%20surface%20vehicle%20recordings%20and%20transcripts.md) | Discovery and use of cockpit and surface vehicle recordings and transcripts. |
-| [1155\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001155%20-%20Aviation%20penalties.md) | Aviation penalties. |
+| [1155\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001155%20-%20Penalties.md) | Penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–63, title XII, §§1215(b), (f), 1216(b), 1221(b), May 16, 2024, 138 Stat. 1428, 1431, 1432, added item 1117, substituted "Assistance to passengers involved in aircraft accidents and families of such passengers" for "Assistance to families of passengers involved in aircraft accidents" in item 1136, "Assistance to passengers involved in rail passenger accidents and families of such passengers" for "Assistance to families of passengers involved in rail passenger accidents" in item 1139, and "Penalties" for "Aviation penalties" in item 1155 and struck out item 117 "Methodology" and former item 1117 "Annual report".
 
 <b>2018</b>—Pub. L. 115–254, div. C, §§1107(b)(2), 1109(e)(2), 1111(b), 1113(a), Oct. 5, 2018, 132 Stat. 3433, 3435, 3436, 3438, added items 117 and 1140 and substituted "Reports, studies, and retrospective reviews" for "Reports and studies" in item 1116 and "Board." for "Board" in item 1138.
 
@@ -80,9 +71,7 @@
 
 <b>1994</b>—Pub. L. 103–272, §1(c), (d), July 5, 1994, 108 Stat. 745, added subtitle II (comprised of chapter 11, §§1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§31501–31504) of subtitle VI, as enacted by Pub. L. 103–272, §1(e).
 
-<i><sup>1</sup></i><i> So in original. Probably should be "1117."</i>
-
-<i><sup>2</sup></i><i> So in original. New item 1117 added without striking out existing item 1117.</i>
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 118–63 without corresponding amendment of chapter analysis.</i>
 
 
 ---

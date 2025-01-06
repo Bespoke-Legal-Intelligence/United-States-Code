@@ -68,7 +68,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(ii) if such services are provided out-of-network, the cost-sharing requirement (expressed as a copayment amount or coinsurance rate) is the same requirement that would apply if such services were provided in-network;
 
-&emsp;&emsp;(F) provide that if a plan described in section 18031(b)(2)(B)(ii) <sup>3</sup> of this title (relating to stand-alone dental benefits plans) is offered through an Exchange, another health plan offered through such Exchange shall not fail to be treated as a qualified health plan solely because the plan does not offer coverage of benefits offered through the stand-alone plan that are otherwise required under paragraph (1)(J); and <sup>4</sup>
+&emsp;&emsp;(F) provide that if a plan described in section 18031(b)(2)(B)(ii) <sup>3</sup> of this title (relatingto stand-alone dental benefits plans) is offered through an Exchange, another health plan offered through such Exchange shall not fail to be treated as a qualified health plan solely because the plan does not offer coverage of benefits offered through the stand-alone plan that are otherwise required under paragraph (1)(J); and <sup>4</sup>
 
 &emsp;&emsp;(G) periodically review the essential health benefits under paragraph (1), and provide a report to Congress and the public that contains—
 
@@ -102,7 +102,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(ii) in the case of other coverage, twice the amount in effect under clause (i).
 
-> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
+> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
 #### (2) Repealed. Pub. L. 113–93, title II, §213(a)(1), Apr. 1, 2014, 128 Stat. 1047
 
@@ -214,7 +214,7 @@ If any item or service covered by a qualified health plan is provided by a Feder
 
 #### References in Text
 
-This title, referred to in subsecs. (a), (b)(5), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsecs. (a), (b)(5), (c)(3), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 The Public Health Service Act, referred to in subsec. (d)(2)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

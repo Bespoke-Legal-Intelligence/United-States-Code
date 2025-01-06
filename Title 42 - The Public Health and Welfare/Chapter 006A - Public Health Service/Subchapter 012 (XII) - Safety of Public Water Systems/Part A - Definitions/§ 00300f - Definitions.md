@@ -178,7 +178,7 @@ Pub. L. 104–182, §3, Aug. 6, 1996, 110 Stat. 1614, provided that: "The Congre
 
 #### GAO Study
 
-Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, required the Comptroller General to study the reliance for residential water on various nonpublic water systems and to submit a report on the results of the study to Congress within 3 years after Aug. 6, 1996.
+Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, required the Comptroller General to studythe reliance for residential water on various nonpublic water systems and to submit a report on the results of the study to Congress within 3 years after Aug. 6, 1996.
 
 #### Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research
 

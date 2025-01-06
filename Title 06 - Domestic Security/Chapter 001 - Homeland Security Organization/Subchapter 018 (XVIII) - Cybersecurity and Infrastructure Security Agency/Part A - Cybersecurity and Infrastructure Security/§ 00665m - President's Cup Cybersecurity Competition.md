@@ -6,7 +6,7 @@ The Director of the Cybersecurity and Infrastructure Security Agency (in this se
 
 #### (b) Eligibility
 
-To be eligible to participate in the competition, an individual shall be a Federal civilian employee or member of the uniformed services (as such term is defined in section 2101(3) of title 5) and shall comply with any rules promulgated by the Director regarding the competition.
+To be eligible to participate in the competition, an individual shall be a Federal civilian employee or member of the uniformed services\(as such term is defined in section 2101(3) of title 5) and shall comply with any rules promulgated by the Director regarding the competition.
 
 #### (c) Competition administration
 

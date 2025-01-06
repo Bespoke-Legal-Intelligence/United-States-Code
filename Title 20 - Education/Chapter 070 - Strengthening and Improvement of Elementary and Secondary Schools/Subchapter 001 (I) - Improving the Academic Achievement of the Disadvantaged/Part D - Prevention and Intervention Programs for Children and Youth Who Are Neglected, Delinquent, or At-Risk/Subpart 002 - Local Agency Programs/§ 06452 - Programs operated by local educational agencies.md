@@ -6,7 +6,7 @@ With funds made available under section 6422(b) of this title, the State educati
 
 #### (b) Special rule
 
-A local educational agency that serves a school operated by a correctional facility is not required to operate a program of support for children and youth returning from such school to a school that is not operated by a correctional agency but served by such local educational agency, if more than 30 percent of the children and youth attending the school operated by the correctional facility will reside outside the boundaries served by the local educational agency after leaving such facility.
+A local educational agency that serves a school operated by a correctional facility is notrequired to operate a program of support for children and youth returning from such school to a school that is not operated by a correctional agency but served by such local educational agency, if more than 30 percent of the children and youth attending the school operated by the correctional facility will reside outside the boundaries served by the local educational agency after leaving such facility.
 
 #### (c) Notification
 

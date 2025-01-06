@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Financial Literacy Training Program for Members.—(1) The Secretary concerned shall carry out a program toprovide comprehensive financial literacy training to members of the armed forces under the jurisdiction of the Secretary on—
+Requirement for Financial Literacy Training Program for Members.—(1) The Secretary concerned shall carry out a program to provide comprehensive financial literacy training to members of the armed forces under the jurisdiction of the Secretary on—
 
 &emsp;(A) financial services that are available under law to members;
 
@@ -20,15 +20,13 @@ Requirement for Financial Literacy Training Program for Members.—(1) The Secre
 
 &emsp;(B) upon arrival at the first duty station of the member;
 
-&emsp;(C) upon arrival at each subsequent duty station, in the case of a member in pay grade E–4 or below or in pay grade O–3 or below;
+&emsp;(C) upon arrival at each subsequent duty station, in the case of a member in pay grade E–6 or below or in pay grade O–3 or below;
 
-&emsp;(D) on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;
+&emsp;(D) when the member vests in the Thrift Savings Plan (TSP) under section 8432(g)(2)(C) of title 5;
 
-&emsp;(E) when the member vests in the Thrift Savings Plan (TSP) under section 8432(g)(2)(C) of title 5;
+&emsp;(E) when the member becomes entitled to receive continuation pay under section 356 of title 37, at which time the training shall include, at a minimum, information on options available to the member regarding the use of continuation pay;
 
-&emsp;(F) when the member becomes entitled to receive continuation pay under section 356 of title 37, at which time the training shall include, at a minimum, information on options available to the member regarding the use of continuation pay;
-
-&emsp;(G) at each major life event during the service of the member, such as—
+&emsp;(F) at each major life event during the service of the member, such as—
 
 &emsp;&emsp;(i) marriage;
 
@@ -38,11 +36,11 @@ Requirement for Financial Literacy Training Program for Members.—(1) The Secre
 
 &emsp;&emsp;(iv) disabling sickness or condition;
 
-&emsp;(H) during leadership training;
+&emsp;(G) during leadership training;
 
-&emsp;(I) during pre-deployment training and during post-deployment training;
+&emsp;(H) during pre-deployment training and during post-deployment training;
 
-&emsp;(J) at transition points in the service of the member, such as—
+&emsp;(I) at transition points in the service of the member, such as—
 
 &emsp;&emsp;(i) transition from a regular component to a reserve component;
 
@@ -50,7 +48,7 @@ Requirement for Financial Literacy Training Program for Members.—(1) The Secre
 
 &emsp;&emsp;(iii) retirement; and
 
-&emsp;(K) as a component of periodically recurring required training that is provided to the member at a military installation.
+&emsp;(J) as a component of periodically recurring required training that is provided to the member at a military installation.
 
 (3) The training provided at a military installation under paragraph (2)(J) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
 
@@ -84,13 +82,21 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (C) The Secretary concerned shall review all financial disclosures submitted pursuant to subparagraph (B) to ensure the counselor, or the individual providing counseling, is free from conflict as required under this paragraph.
 
-(D) If the Secretary concerned determines that a financial services counselor under paragraph (2)(A)(i), or any other individual providing counseling on financial services under paragraph (2),is not free from conflict as required under this paragraph, the Secretary shall ensure that the counselor, or the individual providing counseling, does not provide such services until such time as the Secretary determines that such conflict is resolved.
+(D) If the Secretary concerned determines that a financial services counselor under paragraph (2)(A)(i), or any other individual providing counseling on financial services under paragraph (2), is not free from conflict as required under this paragraph, the Secretary shall ensure that the counselor, or the individual providing counseling, does not provide such services until such time as the Secretary determines that such conflict is resolved.
 
 (c)
 
 Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
 (d)
+
+Provision of Retirement Information.—In each training under subsection (a) and in each meeting to provide counseling under subsection (b), a member of the armed forces shall be provided with—
+
+&emsp;(1) all forms relating to retirement that are relevant to the member, including with respect to the Thrift Savings Plan; and
+
+&emsp;(2) information with respect to how to find additional information.
+
+(e)
 
 Financial Literacy and Preparedness Survey.—(1) The Director of the Defense Manpower Data Center shall annually include in the status of forces survey a survey of the status of the financial literacy and preparedness of members of the armed forces.
 
@@ -100,7 +106,7 @@ Financial Literacy and Preparedness Survey.—(1) The Director of the Defense Ma
 
 &emsp;(B) shall be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
 
-(e)
+(f)
 
 Financial Services Defined.—In this section, the term "financial services" includes the following:
 
@@ -112,11 +118,19 @@ Financial Services Defined.—In this section, the term "financial services" inc
 
 &emsp;(4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858; Pub. L. 118–31, div. A, title V, §524(a), Dec. 22, 2023, 137 Stat. 253.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858; Pub. L. 118–31, div. A, title V, §524(a), Dec. 22, 2023, 137 Stat. 253; Pub. L. 118–159, div. A, title V, §541, Dec. 23, 2024, 138 Stat. 1891.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2)(C). Pub. L. 118–159, §541(a)(1), substituted "grade E–6" for "grade E–4".
+
+Subsec. (a)(2)(D). Pub. L. 118–159, §541(a)(2), (3), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;".
+
+Subsec. (a)(2)(E) to (J). Pub. L. 118–159, §541(a)(3), redesignated subpars. (F) to (K) as (E) to (J), respectively. Former subpar. (E) redesignated (D).
+
+Subsecs. (d) to (f). Pub. L. 118–159, §541(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 <b>2023</b>—Subsec. (b)(2)(A)(i). Pub. L. 118–31, §524(a)(1)(A), struck out "and" after "installation;".
 
@@ -162,7 +176,7 @@ Subsec. (e)(4). Pub. L. 114–92, §661(d), added par. (4).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
+Pub. L. 109–163, div. A, title V, §578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: "The amendments made bythis section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
 
 #### Inclusion of Information on Free Credit Monitoring in Annual Financial Literacy Briefing
 
@@ -280,7 +294,7 @@ Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—
 
 &emsp;"(1) any measures taken by a broker or dealer registered with the Securities and Exchange Commission pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) to voluntarily refund payments made by military service members on any periodic payment plan certificate, and the amounts of such refunds;
 
-&emsp;"(2) after such consultation with the Secretary of Defense, as the Commission considers appropriate, the sales practices of such brokers or dealers on military installations over the 5 years preceding the date of submission of the report and any legislative or regulatory recommendations to improve such practices; and
+&emsp;"(2) after such consultation with the Secretary of Defense, as the Commission considers appropriate, the sales practices of such brokers or dealers on military installations over the 5 years preceding the dateof submission of the report and any legislative or regulatory recommendations to improve such practices; and
 
 &emsp;"(3) the revenues generated by such brokers or dealers in the sales of periodic payment plan certificates over the 5 years preceding the date of submission of the report, and the products marketed by such brokers or dealers to replace the revenue generated from the sales of periodic payment plan certificates prohibited under subsection (a).
 
@@ -314,7 +328,7 @@ National securities markets improvement act of 1996.—\[Repealed provisions set
 
 "(a)
 
-Clarification of Jurisdiction.—Any provision of law, regulation, or order of a State with respect toregulating the business of insurance or securities shall apply to insurance or securities activities conducted on Federal land or facilities in the United States and abroad, including military installations, except to the extent that such law, regulation, or order—
+Clarification of Jurisdiction.—Any provision of law, regulation, or order of a State with respect to regulating the business of insurance or securities shall apply to insurance or securities activities conducted on Federal land or facilities in the United States and abroad, including military installations, except to the extent that such law, regulation, or order—
 
 &emsp;"(1) directly conflicts with any applicable Federal law, regulation, or authorized directive; or
 
@@ -384,7 +398,7 @@ Voidability.—The sale of a life insurance product in violation of this section
 
 "(d)
 
-Enforcement.—If it is determined by a Federal or State agency, or in a final court proceeding, that any person has intentionally violated, or willfully disregarded the provisions of, this section, in addition to any other penalty under applicable Federal or State law, such person shall be prohibited from further engaging in the business of insurance with respect to employees of the Federal Government on Federal land, except—
+Enforcement.—If it is determined by a Federal or State agency, or in a final court proceeding, thatany person has intentionally violated, or willfully disregarded the provisions of, this section, in addition to any other penalty under applicable Federal or State law, such person shall be prohibited from further engaging in the business of insurance with respect to employees of the Federal Government on Federal land, except—
 
 &emsp;"(1) with respect to existing policies; and
 

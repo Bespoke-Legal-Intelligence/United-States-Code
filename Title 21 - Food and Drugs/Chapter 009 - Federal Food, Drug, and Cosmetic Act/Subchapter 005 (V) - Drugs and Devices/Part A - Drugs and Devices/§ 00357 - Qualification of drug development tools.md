@@ -76,7 +76,7 @@
 
 #### (B) Meeting for review
 
-&emsp;&emsp;If the Secretary rescinds or modifies under subparagraph (A) a determination to qualifya drug development tool, the requestor involved shall, on request, be granted a meeting with the Secretary to discuss the basis of the Secretary's decision to rescind or modify the determination before the effective date of the rescission or modification.
+&emsp;&emsp;If the Secretary rescinds or modifies under subparagraph (A) a determination to qualify a drug development tool, the requestor involved shall, on request, be granted a meeting with the Secretary to discuss the basis of the Secretary's decision to rescind or modify the determination before the effective date of the rescission or modification.
 
 #### (c) Transparency
 
@@ -242,5 +242,5 @@ In general.—For purposes of informing guidance under this subsection, the Secr
 
 &emsp;"(B)
 
-Public availability.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall make such taxonomy publicly available in draft form for public comment. The Secretary shall finalize the taxonomy not later than 1 year after the close of the public comment period."
+Public availability.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall make such taxonomy publicly available in draft form for public comment. The Secretaryshall finalize the taxonomy not later than 1 year after the close of the public comment period."
 

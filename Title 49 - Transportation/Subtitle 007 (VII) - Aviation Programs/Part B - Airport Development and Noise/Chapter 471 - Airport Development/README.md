@@ -35,8 +35,7 @@
 | [47128\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047128%20-%20State%20block%20grant%20program.md) | State block grant program. |
 | [47129\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047129%20-%20Resolution%20of%20disputes%20concerning%20airport%20fees.md) | Resolution of disputes concerning airport fees. |
 | [47130\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047130%20-%20Airport%20safety%20data%20collection.md) | Airport safety data collection. |
-| [47131\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047131%20-%20Annual%20report.md) | Annual report. |
-| \[47132. | Repealed.\] |
+| \[47131, 47132. Repealed.\] |  |
 | [47133\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047133%20-%20Restriction%20on%20use%20of%20revenues.md) | Restriction on use of revenues. |
 | [47134\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047134%20-%20Airport%20investment%20partnership%20program.md) | Airport investment partnership program. |
 | [47135\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047135%20-%20Innovative%20financing%20techniques.md) | Innovative financing techniques. |
@@ -44,11 +43,13 @@
 | [47137\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047137%20-%20Airport%20security%20program.md) | Airport security program. |
 | [47138\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047138%20-%20Pilot%20program%20for%20purchase%20of%20airport%20development%20rights.md) | Pilot program for purchase of airport development rights. |
 | [47139\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047139%20-%20Emission%20credits%20for%20air%20quality%20projects.md) | Emission credits for air quality projects. |
-| [47140\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047140%20-%20Increasing%20the%20energy%20efficiency%20of%20airport%20power%20sources.md) | Increasing the energy efficiency of airport power sources. |
+| [47140\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047140%20-%20Meeting%20current%20and%20future%20energy%20power%20demand.md) | Meeting current and future energy power demand. |
 | [47141\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047141%20-%20Compatible%20land%20use%20planning%20and%20projects%20by%20State%20and%20local%20governments.md) | Compatible land use planning and projects by State and local governments. |
-| [47142\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047142%20-%20Design-build%20contracting.md) | Design-build contracting. |
+| [47142\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047142%20-%20Alternative%20project%20delivery.md) | Alternative project delivery. |
 | [47143\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047143%20-%20Non-movement%20area%20surveillance%20surface%20display%20systems%20pilot%20program.md) | Non-movement area surveillance surface display systems pilot program. |
 | [47144\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047144%20-%20Use%20of%20funds%20for%20repairs%20for%20runway%20safety%20repairs.md) | Use of funds for repairs for runway safety repairs. |
+| [47145\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047145%20-%20Pilot%20program%20for%20airport%20accessibility.md) | Pilot program for airport accessibility. |
+| [47146\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047146%20-%20General%20aviation%20program%20runway%20extension%20pilot%20program.md) | General aviation airport runway extension pilot program.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -78,6 +79,10 @@
 
 #### Amendments
 
+<b>2024</b>—Pub. L. 118–63, title VII, §§725(b), 726(b), May 16, 2024, 138 Stat. 1269, 1271, which directed amendment of the analysis for subchapter I of this chapter by adding items 47145 and 47146, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 118–63, title II, §218(d), title VII, §§723(c), 742(b), May 16, 2024, 138 Stat. 1055, 1267, 1279, struck out item 47131 "Annual report", added items 47140 and 47142, and struck out former items 47140 "Increasing the energy efficiency of airport power sources" and 47142 "Design-build contracting".
+
 <b>2018</b>—Pub. L. 115–254, div. B, title I, §§140(b), 160(b), 166(c), title III, §395(b), Oct. 5, 2018, 132 Stat. 3211, 3221, 3226, 3327, added items 47124a, 47136, 47140, and 47143, substituted "Airport investment partnership program" for "Pilot program on private ownership of airports" in item 47134, and struck out former item 47136 "Inherently low-emission airport vehicle pilot program", item 47136a "Zero-emission airport vehicles and infrastructure", former item 47140 "Airport ground support equipment emissions retrofit pilot program", and item 47140a "Increasing the energy efficiency of airport power sources".
 
 <b>2017</b>—Pub. L. 115–31, div. K, title I, §119F(b), May 5, 2017, 131 Stat. 735, which directed amendment of the analysis for this chapter by adding item 47144 after item 47143, was executed by adding item 47144 after item 47142 to reflect the probable intent of Congress, because no item for section 47143 has been enacted.
@@ -91,6 +96,8 @@
 <b>1996</b>—Pub. L. 104–264, title I, §§142(c), 147(c)(2), 149(a)(2), title VIII, §804(c), Oct. 9, 1996, 110 Stat. 3221, 3223, 3226, 3271, substituted "grant program" for "grant pilot program" in item 47128 and added items 47132, 47133, and 47134.
 
 <b>1994</b>—Pub. L. 103–305, title I, §§113(b), 118(b), Aug. 23, 1994, 108 Stat. 1579, 1580, added items 47129 and 47130 and redesignated former item 47129 as 47131.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

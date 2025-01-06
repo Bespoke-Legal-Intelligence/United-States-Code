@@ -102,7 +102,7 @@
 
 #### (B) Sunset
 
-&emsp;&emsp;The authority under this paragraph shall expire on January 19, 2024.
+&emsp;&emsp;The authority under this paragraph shall expire on March 31, 2025.
 
 #### (5) Omitted
 
@@ -124,7 +124,7 @@
 
 #### (C) Responsibility of Labor Secretary
 
-&emsp;&emsp;In the event of an injury to such an intermittent disaster-response appointee, theSecretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
+&emsp;&emsp;In the event of an injury to such an intermittent disaster-response appointee, the Secretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
 
 #### (D) Computation of pay
 
@@ -160,7 +160,7 @@ For purposes of this section, the term "auxiliary services" includes mortuary se
 
 For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated $57,400,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933; Pub. L. 117–43, div. D, title I, §3101, Sept. 30, 2021, 135 Stat. 379; Pub. L. 117–70, div. C, title I, §2101, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1101, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. P, title I, §101, Mar. 15, 2022, 136 Stat. 789; Pub. L. 118–15, div. B, title III, §2331, Sept. 30, 2023, 137 Stat. 95; Pub. L. 118–22, div. B, title II, §203(e), Nov. 17, 2023, 137 Stat. 121.)
+(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933; Pub. L. 117–43, div. D, title I, §3101, Sept. 30, 2021, 135 Stat. 379; Pub. L. 117–70, div. C, title I, §2101, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1101, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. P, title I, §101, Mar. 15, 2022, 136 Stat. 789; Pub. L. 118–15, div. B, title III, §2331, Sept. 30, 2023, 137 Stat. 95; Pub. L. 118–22, div. B, title II, §203(e), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, §103(e),Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(e), Mar. 9, 2024, 138 Stat. 399; Pub. L. 118–158, div. C, title I, §3103(e), Dec. 21, 2024, 138 Stat. 1764.)
 
 #### <b>Editorial Notes</b>
 
@@ -169,6 +169,12 @@ For the purpose of providing for the Assistant Secretary for Preparedness and Re
 Subsec. (c)(5) of this section was omitted in light of section 301(d)(3) of Pub. L. 116–22, which provided that the amendment adding subsec. (c)(5) would cease to have force or effect on Oct. 1, 2021. See 2019 Amendment and Termination Date of 2019 Amendment notes below.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (c)(4)(B). Pub. L. 118–158 substituted "March 31, 2025" for "December 31, 2024".
+
+Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 <b>2023</b>—Subsec. (c)(4)(B). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
 
@@ -184,7 +190,7 @@ Pub. L. 117–43 substituted "December 3, 2021" for "September 30, 2021".
 
 <b>2019</b>—Subsec. (a)(3)(A)(ii). Pub. L. 116–22, §301(a)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified."
 
-Subsec. (b)(2). Pub. L. 116–22, §301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Not later than 180 days after December 19, 2006, theSecretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section 300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary."
+Subsec. (b)(2). Pub. L. 116–22, §301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section 300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary."
 
 Subsec. (c)(3), (4). Pub. L. 116–22, §301(a)(3), added pars. (3) and (4).
 
@@ -252,7 +258,7 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 #### Termination Date of 2019 Amendment
 
-Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or effect on Oct. 1, 2021, see section 301(d)(3) of Pub. L. 116–22, set out as a note under section 10284 of Title 34, Crime Control and Law Enforcement.
+Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or effect on Oct. 1, 2021, see section301(d)(3) of Pub. L. 116–22, set out as a note under section 10284 of Title 34, Crime Control and Law Enforcement.
 
 #### Transfer of Functions
 

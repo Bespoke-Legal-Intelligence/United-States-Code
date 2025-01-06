@@ -56,5 +56,5 @@ A prior section 111 of Pub. L. 93–406 was renumbered section 112 and is classi
 
 #### Effective Date
 
-Section applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out asan Effective Date of 2022 Amendment note under section 414 of Title 26, Internal Revenue Code.
+Section applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under section 414 of Title 26, Internal Revenue Code.
 

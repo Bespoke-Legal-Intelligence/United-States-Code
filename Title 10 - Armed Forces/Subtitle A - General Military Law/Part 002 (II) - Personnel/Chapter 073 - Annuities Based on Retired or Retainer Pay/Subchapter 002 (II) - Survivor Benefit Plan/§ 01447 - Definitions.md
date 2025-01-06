@@ -110,7 +110,7 @@ In general.—The term "court order" means a court's final decree of divorce, di
 
 &emsp;&emsp;(B)
 
-Final decree.—The term "final decree" means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
+Final decree.—The term "final decree" means a decree from which no appeal may be taken or from which no appeal hasbeen taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
 
 &emsp;&emsp;(C)
 
@@ -180,7 +180,7 @@ Pars. (11) to (13). Pub. L. 99–145, §719(1), added pars. (11) to (13).
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 

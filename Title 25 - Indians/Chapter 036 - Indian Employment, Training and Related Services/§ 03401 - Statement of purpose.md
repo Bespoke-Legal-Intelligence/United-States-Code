@@ -56,7 +56,7 @@ Findings.—The Congress finds that—
 
 &emsp;&emsp;"(D) otherwise demonstrated the value of integrating employment, training, education and related services. \[sic\]
 
-&emsp;&emsp;"(E) the initiatives under the Indian Employment, Training, and Related Services Demonstration Act of 1992 should be strengthened by ensuring that all Federal programs that emphasize the value of work may be included within a demonstration program of an Indian or Alaska Native organization; and
+&emsp;&emsp;"(E) the initiatives under the Indian Employment, Training, and Related Services Demonstration Act of 1992 should be strengthened by ensuring that all Federal programs that emphasize the valueof work may be included within a demonstration program of an Indian or Alaska Native organization; and
 
 &emsp;&emsp;"(F) the initiatives under the Indian Employment, Training, and Related Services Demonstration Act of 1992 should have the benefit of the support and attention of the officials with policymaking authority of—
 

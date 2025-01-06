@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 97–321, in introductory text, substituted "on land" for "
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date
 

@@ -94,7 +94,7 @@
 
 #### (C) Report
 
-&emsp;&emsp;One year after the issuance of the guidance required by subparagraph (B), the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding the analysis of the Federal cost shares paid under this section.
+&emsp;&emsp;One year after the issuance of the guidance required by subparagraph (B), the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committeeon Homeland Security and Governmental Affairs of the Senate a report regarding the analysis of the Federal cost shares paid under this section.
 
 #### (D) Savings clause
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which a State or local government determines that the public welfarewould not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
 #### (B) Use of funds
 
@@ -170,7 +170,7 @@
 
 #### (4) Dissemination of information
 
-&emsp;The President shall disseminate information regarding the reduction in Federal assistance provided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
+&emsp;The President shall disseminate information regarding the reduction in Federal assistanceprovided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
 
 #### (e) Eligible cost
 
@@ -178,7 +178,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this section, for disasters declared on or after August 1, 2017, or a disaster in which a cost estimate has not yet been finalized for a project, or for anyproject for which the finalized cost estimate is on appeal, the President shall estimate the eligible cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility—
+&emsp;&emsp;For the purposes of this section, for disasters declared on or after August 1, 2017, or a disaster in which a cost estimate has not yet been finalized for a project, or for any project for which the finalized cost estimate is on appeal, the President shall estimate the eligible cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility—
 
 &emsp;&emsp;&emsp;(i) on the basis of the design of the facility as the facility existed immediately before the major disaster;
 
@@ -244,7 +244,7 @@
 
 #### (D) Review by President
 
-&emsp;&emsp;Not later than 2 years after the date of promulgation of regulations under subparagraph (C) and periodically thereafter, the President shall review the cost estimation procedures and the ceiling and floor percentages established under this paragraph.
+&emsp;&emsp;Not later than 2 years after the date of promulgation of regulations under subparagraph (C) and periodically thereafter, the President shall review the cost estimationprocedures and the ceiling and floor percentages established under this paragraph.
 
 #### (E) Report to Congress
 
@@ -252,7 +252,7 @@
 
 #### (4) Special rule
 
-&emsp;In any case in which the facility being repaired, restored, reconstructed, or replacedunder this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
+&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
 #### (5) New rules
 
@@ -326,7 +326,7 @@ Subsec. (e)(5). Pub. L. 115–254, §1235(d), added par. (5).
 
 Subsec. (c)(1)(A). Pub. L. 109–347, §609(1), substituted "90" for "75".
 
-Subsec. (c)(1)(B) to (D). Pub. L. 109–347, §609(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, orreplacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses."
+Subsec. (c)(1)(B) to (D). Pub. L. 109–347, §609(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–390, §205(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The President may make contributions—
 

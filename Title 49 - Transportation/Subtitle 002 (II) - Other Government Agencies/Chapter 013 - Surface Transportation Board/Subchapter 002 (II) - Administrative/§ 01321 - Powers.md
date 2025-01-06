@@ -10,7 +10,7 @@ Inquiries, Reports, and Orders.—The Board may—
 
 &emsp;(1) inquire into and report on the management of the business of carriers providing transportation and services subject to subtitle IV;
 
-&emsp;(2) inquire into and report on the management of the business of a person controlling, controlled by, or under common control with those carriers to the extent that the business of that person is related to the management of the business of that carrier;
+&emsp;(2) inquire into and report on the management of the business of a person controlling,controlled by, or under common control with those carriers to the extent that the business of that person is related to the management of the business of that carrier;
 
 &emsp;(3) obtain from those carriers and persons information the Board decides is necessary to carry out subtitle IV; and
 

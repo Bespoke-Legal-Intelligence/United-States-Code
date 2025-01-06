@@ -42,7 +42,7 @@ Eligible officers.—An officer described in paragraph (1) is an officer of the 
 
 &emsp;&emsp;(C) has at least eight years of creditable service (computed as described in section 302b(f) of this title) or has completed any active-duty service commitment incurred for psychology education and training;
 
-&emsp;&emsp;(D) has completed initial residency training (or will complete such training beforeSeptember 30 of the fiscal year in which the officer enters into the agreement under this subsection); and
+&emsp;&emsp;(D) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into the agreement under this subsection); and
 
 &emsp;&emsp;(E) holds a valid State license to practice as a doctoral level psychologist.
 

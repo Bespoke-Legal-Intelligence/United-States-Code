@@ -96,7 +96,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act \[Dec. 28, 2001\]."
+Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: "The amendments made by subsection (a) \[amending this section\] shall applywith respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act \[Dec. 28, 2001\]."
 
 #### Effective Date of 1980 Amendment
 

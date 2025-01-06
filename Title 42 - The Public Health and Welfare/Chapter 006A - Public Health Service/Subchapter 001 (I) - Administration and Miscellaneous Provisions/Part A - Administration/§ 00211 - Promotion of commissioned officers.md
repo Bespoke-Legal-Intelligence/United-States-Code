@@ -30,7 +30,7 @@ If an officer who has completed the years of service required for promotion to a
 
 #### (g) Separation from service upon failure of promotion
 
-If, for reasons other than physical disability, an officer of the Regular Corps in the warrant officer (W–1) grade or junior assistant grade isfound pursuant to subsection (c) not to be qualified for promotion he shall be separated from the Service. If, for reasons other than physical disability, an officer of the Regular Corps in the chief warrant officer (W–2), chief warrant officer (W–3), assistant, senior assistant, or full grade, after having been twice examined for promotion (other than promotion to a restricted grade), fails to be promoted—
+If, for reasons other than physical disability, an officer of the Regular Corps in the warrant officer (W–1) grade or junior assistant grade is found pursuant to subsection (c) not to be qualified for promotion he shall be separated from the Service. If, for reasons other than physical disability, an officer of the Regular Corps in the chief warrant officer (W–2), chief warrant officer (W–3), assistant, senior assistant, or full grade, after having been twice examined for promotion (other than promotion to a restricted grade), fails to be promoted—
 
 &emsp;(1) if in the chief warrant officer (W–2) or assistant grade he shall be separated from the Service and paid six months' basic pay and allowances;
 
@@ -52,7 +52,7 @@ If an officer of the Regular Corps, eligible to take an examination for promotio
 
 #### (i) Review of record; separation from service
 
-At the end of his first three years of service, the record of each officer of the Regular Corps originally appointed to the senior assistant grade or above, shall be reviewed in accordance with regulations of the President and, if found not qualified for further service, he shall be separated from the Service and paid six months' pay and allowances.
+At the end of his first three years of service, the record of each officer of the Regular Corps originally appointed to the senior assistant grade or above, shall be reviewed in accordance with regulations of the President and, if foundnot qualified for further service, he shall be separated from the Service and paid six months' pay and allowances.
 
 #### (j) Determination of order of seniority
 
@@ -66,7 +66,7 @@ Any commissioned officer of the Regular Corps in any grade in any professional c
 
 #### (l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
 
-Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professionalcategory. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
+Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
 
 #### (m) Acceptance of promotion; oath and affidavit
 

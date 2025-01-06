@@ -58,7 +58,7 @@ For purposes of this subchapter—
 
 #### (D) Taxation of nonqualified sale or use
 
-&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the first person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
+&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale oruse of any chemical by reason of subparagraph (A), the first person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
 
 #### (3) Sulfuric acid produced as a byproduct of air pollution control
 
@@ -150,7 +150,7 @@ For purposes of this subchapter—
 
 #### (E) Solid waste
 
-&emsp;&emsp;For purposes of this paragraph, the term "solid waste" has the meaning given such term by section 1004 of the Solid Waste Disposal Act, except that such term shall not include any byproduct, coproduct, or other waste from any process of smelting, refining, or otherwise extracting any metal.
+&emsp;&emsp;For purposes of this paragraph, the term "solid waste" has the meaning given such term by section 1004 of the Solid Waste Disposal Act, except that such term shall notinclude any byproduct, coproduct, or other waste from any process of smelting, refining, or otherwise extracting any metal.
 
 #### (9) Substances used in the production of animal feed
 
@@ -194,7 +194,7 @@ For purposes of this subchapter—
 
 #### (B) Removal, etc., treated as use
 
-&emsp;&emsp;For purposes of this part, if any organic taxable chemical on which no tax was imposed by reason of subparagraph (A) is isolated, extracted, or otherwise removed from,or ceases to be part of, an intermediate hydrocarbon stream—
+&emsp;&emsp;For purposes of this part, if any organic taxable chemical on which no tax was imposed by reason of subparagraph (A) is isolated, extracted, or otherwise removed from, or ceases to be part of, an intermediate hydrocarbon stream—
 
 &emsp;&emsp;&emsp;(i) such isolation, extraction, removal, or cessation shall be treated as use by the person causing such event, and
 
@@ -388,7 +388,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provided, see section 513(h) of Pub.L. 99–499, set out as a note under section 4661 of this title.
+Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provided, see section 513(h) of Pub. L. 99–499, set out as a note under section 4661 of this title.
 
 #### Effective Date of 1984 Amendment
 

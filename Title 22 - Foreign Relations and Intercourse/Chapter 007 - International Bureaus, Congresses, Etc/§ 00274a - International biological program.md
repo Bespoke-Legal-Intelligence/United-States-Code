@@ -10,7 +10,7 @@ The Congress therefore commends and endorses the international biological progra
 
 #### (c) Priority
 
-In view of the urgency of the problem, the Congress finds and declares that the provision by the United States of adequate financial and other support for the international biological program is a matter of first priority.
+In view of the urgency of the problem, the Congress finds and declares that the provisionby the United States of adequate financial and other support for the international biological program is a matter of first priority.
 
 (Pub. L. 91–438, §1, Oct. 7, 1970, 84 Stat. 889.)
 

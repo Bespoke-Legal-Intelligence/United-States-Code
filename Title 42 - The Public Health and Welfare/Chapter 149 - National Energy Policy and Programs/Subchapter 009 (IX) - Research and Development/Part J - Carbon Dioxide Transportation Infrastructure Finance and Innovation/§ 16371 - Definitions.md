@@ -24,7 +24,7 @@ In this part:
 
 #### (4) Eligible project costs
 
-&emsp;The term "eligible project costs" means amounts substantially all of which are paid by, or for the account of, an obligor in connection with a project, including—
+&emsp;The term "eligible project costs" means amounts substantially all of which are paidby, or for the account of, an obligor in connection with a project, including—
 
 &emsp;&emsp;(A) the cost of—
 
@@ -110,7 +110,7 @@ In this part:
 
 #### (13) Project obligation
 
-&emsp;The term "project obligation" means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
+&emsp;The term "project obligation" means any note, bond, debenture, or other debt obligationissued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
 
 #### (14) Secured loan
 

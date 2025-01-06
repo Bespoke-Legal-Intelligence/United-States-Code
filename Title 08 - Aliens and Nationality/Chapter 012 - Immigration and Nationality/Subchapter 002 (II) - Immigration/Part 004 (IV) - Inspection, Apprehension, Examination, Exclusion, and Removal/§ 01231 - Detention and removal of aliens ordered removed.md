@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this section, when an alien is ordered removed, theAttorney General shall remove the alien from the United States within a period of 90 days (in this section referred to as the "removal period").
+&emsp;&emsp;Except as otherwise provided in this section, when an alien is ordered removed, the Attorney General shall remove the alien from the United States within a period of 90 days (in this section referred to as the "removal period").
 
 #### (B) Beginning of period
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien isappropriate and in the best interest of the United States; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
@@ -186,7 +186,7 @@
 
 #### (C) Sustaining burden of proof; credibility determinations
 
-&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason described in subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall make credibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
+&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason describedin subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall make credibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
 
 #### (c) Removal of aliens arriving at port of entry
 
@@ -274,7 +274,7 @@
 
 &emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft bringing an alien (except an alien crewmember) to the United States shall—
 
-&emsp;&emsp;(A) receive an alien back on the vessel or aircraft or another vessel or aircraft owned or operated by the same interests if the alien is ordered removed under this part; and
+&emsp;&emsp;(A) receive an alien back on the vessel or aircraft or another vessel or aircraft ownedor operated by the same interests if the alien is ordered removed under this part; and
 
 &emsp;&emsp;(B) take the alien to the foreign country to which the alien is ordered removed.
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of thistitle or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation "Immigration and Naturalization Service—Salaries and Expenses"; and
 
@@ -420,7 +420,7 @@ A prior section 241 of act June 27, 1952, was renumbered section 237, and is cla
 
 <b>2006</b>—Subsec. (i)(5). Pub. L. 109–162, §1196(a), substituted "appropriated to carry out this subsection—" for "appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004." and added subpars. (A) to (C).
 
-Subsec. (i)(6). Pub. L. 109–162, §1196(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail."
+Subsec. (i)(6). Pub. L. 109–162, §1196(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "To the extent of available appropriations, fundsotherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail."
 
 <b>2005</b>—Subsec. (b)(3)(C). Pub. L. 109–13 added subpar. (C).
 
@@ -454,7 +454,7 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
 

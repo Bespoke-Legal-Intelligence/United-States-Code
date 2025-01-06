@@ -70,7 +70,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(F) Such recommendations for legislation as the two Secretaries consider appropriate to facilitate the sharing of health-care resources between the two Departments.
 
-(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection an overall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
+(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection anoverall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
 
 &emsp;(A) Enumerations and explanations of major policy decisions reached by the two Secretaries during the period covered by the report period with respect to sharing between the two Departments.
 
@@ -90,7 +90,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;&emsp;(ii) descriptions of any new administrative policies that enhance the success of the project.
 
-(5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a reporton the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including activities under the program during the preceding year and each Secretary's assessment of the efficacy of providing education and training under that program.
+(5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a report on the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including activities under the program during the preceding year and each Secretary's assessment of the efficacy of providing education and training under that program.
 
 (g)
 
@@ -110,7 +110,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term "service region" means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463; Pub. L. 117–180, div. E, title I, §103, Sept. 30, 2022, 136 Stat. 2137.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub.L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463; Pub. L. 117–180, div. E, title I, §103, Sept. 30, 2022, 136 Stat. 2137.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,7 +180,7 @@ Subsec. (g)(4). Pub. L. 107–135, §208(e)(6)(A), inserted "services under sect
 
 Subsec. (g)(5). Pub. L. 107–135, §208(e)(6)(B), substituted "section 1782, 1783, or 1784" for "section 1711(b) or 1713".
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–446, §1201(g)(8)(A), in concluding provisions, substituted "During odd-numbered fiscal years" for "During fiscal years 1982 and 1983" and "During even-numbered fiscal years" for "During fiscal year 1984" and struck out after third sentence "Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary."
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–446, §1201(g)(8)(A), in concluding provisions, substituted "During odd-numbered fiscal years" for "During fiscal years 1982 and 1983" and "During even-numbered fiscal years" for "During fiscal year 1984" and struck out after thirdsentence "Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary."
 
 Subsec. (b)(4). Pub. L. 103–446, §1201(g)(8)(B), substituted "At such times as" for "Within nine months of the date of the enactment of this subsection and at such times thereafter as".
 
@@ -224,7 +224,7 @@ Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: "The amendments madeby this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003."
+Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: "The amendments made by this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003."
 
 #### Effective Date
 
@@ -270,7 +270,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs.
 
-&emsp;&emsp;"(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and completed suicides, including through the use of the joint suicide data repository of the Department of Veterans Affairs and the Department of Defense, and any other issues or conditions as the Secretary of Veterans Affairs and the Secretary of Defense consider necessary.
+&emsp;&emsp;"(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and completed suicides, including through the use of the joint suicidedata repository of the Department of Veterans Affairs and the Department of Defense, and any other issues or conditions as the Secretary of Veterans Affairs and the Secretary of Defense consider necessary.
 
 &emsp;"(D) Recommendations for coordinating mental health programs of the Department of Veterans Affairs and the Department of Defense to improve the effectiveness of those programs.
 
@@ -324,7 +324,7 @@ Pub. L. 107–314, div. A, title VII, §722, Dec. 2, 2002, 116 Stat. 2595, as am
 
 "(a)
 
-Establishment.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall conduct a health care resources sharing project to serve as a test for evaluating the feasibility, and the advantages and disadvantages, of measures and programs designed toimprove the sharing and coordination of health care and health care resources between the Department of Veterans Affairs and the Department of Defense. The project shall be carried out, as a minimum, at the sites identified under subsection (b).
+Establishment.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall conduct a health care resources sharing project to serve as a test for evaluating the feasibility, and the advantages and disadvantages, of measures and programs designed to improve the sharing and coordination of health care and health care resources between the Department of Veterans Affairs and the Department of Defense. The project shall be carried out, as a minimum, at the sites identified under subsection (b).
 
 "(2) Reimbursement between the two Departments with respect to the project under this section shall be made in accordance with the provisions of section 8111(e)(2) of title 38, United States Code, as amended by section 721(a).
 
@@ -418,7 +418,7 @@ Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreem
 
 "(3) In entering into the agreement under paragraph (1), particularly with respect to determination of the rates of reimbursement under paragraph (2), the Secretary of Defense shall consult with TRICARE Managed Care Support contractors.
 
-"(4) The Secretary of Veterans Affairs may not enter into an agreement under paragraph (1) for the provisionof care in accordance with the provisions of subsection (c) with respect to any geographic service area, or a part of any such area, of the Veterans Health Administration unless—
+"(4) The Secretary of Veterans Affairs may not enter into an agreement under paragraph (1) for the provision of care in accordance with the provisions of subsection (c) with respect to any geographic service area, or a part of any such area, of the Veterans Health Administration unless—
 
 &emsp;"(A) in the judgment of that Secretary, the Department of Veterans Affairs will recover the costs of providing such care to eligible military retirees; and
 
@@ -462,7 +462,7 @@ Primacy of Sharing Agreements.—The Secretary of Defense shall—
 
 &emsp;"(1) give full force and effect to any agreement into which the Secretary or the Secretary of a military department entered under section 8111 of title 38, United States Code, or under section 1535 of title 31, United States Code, which was in effect on September 30, 1999; and
 
-&emsp;"(2) ensure that the Secretary of the military department concerned directly reimburses the Secretary of Veterans Affairs for any services or resources provided under such agreement in accordance with the terms of such agreement, including terms providing for reimbursement from funds available for that military department.
+&emsp;"(2) ensure that the Secretary of the military department concerned directly reimburses the Secretary of Veterans Affairs for any services or resources provided under such agreement in accordance with the terms of such agreement, including termsproviding for reimbursement from funds available for that military department.
 
 "(b)
 

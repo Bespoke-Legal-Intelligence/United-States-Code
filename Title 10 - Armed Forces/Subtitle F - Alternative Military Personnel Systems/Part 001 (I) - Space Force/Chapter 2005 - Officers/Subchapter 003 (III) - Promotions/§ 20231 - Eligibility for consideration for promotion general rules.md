@@ -22,13 +22,13 @@ Certain Officers Not to Be Considered.—A selection board convened under sectio
 
 &emsp;(1) An officer whose name is on a promotion list for that grade as a result of recommendation for promotion to that grade by an earlier selection board convened under that section or section 20151 of this title, under section 14101 or 14502 of this title, or under chapter 36 of this title.
 
-&emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case of such a report that has not yet been approved by the President.
+&emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case ofsuch a report that has not yet been approved by the President.
 
 &emsp;(3) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
-&emsp;(4) An officer in the grade of first lieutenant who is on an approved all-fully-qualified-officers list under section 20238(a)(4) <sup>1</sup> of this title.
+&emsp;(4) An officer in the grade of first lieutenant who is on an approved all-fully-qualified-officers list under section 20239(c)(4) of this title.
 
-&emsp;(5) An officer excluded under 20232 <sup>2</sup> of this title.
+&emsp;(5) An officer excluded under section 20232 of this title.
 
 &emsp;(6) An officer who has failed of promotion to a higher grade the maximum number of times specified for opportunities for promotion for such grade within the competitive category concerned pursuant to section 20234 of this title.
 
@@ -52,11 +52,11 @@ Regulations.—If the Secretary of Defense authorizes the Secretary of the Air F
 
 &emsp;&emsp;(B) A requirement that an officer may be precluded from consideration by a selection board under this paragraph only upon the recommendation of a preselection board of officers convened by the Secretary of the military department concerned and composed of at least three officers all of whom are serving in a grade higher than the grade of such officer.
 
-&emsp;&emsp;(C) A requirement that such a preselection board may not recommend that an officer be precluded from such consideration unless the Secretary of the Air Force has given the officer advance written notice of the convening of such board and of the militaryrecords that will be considered by the board and has given the officer a reasonable period before the convening of the board in which to submit comments to the board.
+&emsp;&emsp;(C) A requirement that such a preselection board may not recommend that an officer be precluded from such consideration unless the Secretary of the Air Force has given the officer advance written notice of the convening of such board and of the military records that will be considered by the board and has given the officer a reasonable period before the convening of the board in which to submit comments to the board.
 
 &emsp;&emsp;(D) A requirement that the Secretary of the Air Force shall provide general guidance to the board in accordance with standards and procedures prescribed by the Secretary of Defense in those regulations.
 
-&emsp;&emsp;(E) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary <sup>3</sup> Air Force, information in the officer's official military personnel records that has been described in the notice provided the officer as required pursuant to subparagraph (C), and any communication to the board received from that officer before the board convenes.
+&emsp;&emsp;(E) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary of the Air Force, information in the officer's official military personnel records that has been described in the notice provided the officer as required pursuant to subparagraph (C), and any communication to the board received from that officer before the board convenes.
 
 (d)
 
@@ -90,19 +90,17 @@ Officers on Educational Delay.—An officer on the Space Force officer list is i
 
 (f)
 
-Certain Officers Not to Be Considered for Selection for Promotion.—The Secretary of the Air Force may provide that an officer who is in a space force active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section, shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the Space Force officer list.
+Certain Officers Not to Be Considered for Selection for Promotion.—The Secretaryof the Air Force may provide that an officer who is in a space force active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section, shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the Space Force officer list.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 638.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 638; amended Pub. L. 118–159, div. A, title V, §521(q), Dec. 23, 2024, 138 Stat. 1882.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 20238(a) of this title, referred to in subsec. (b)(4), does not contain a par. (4). However, section 20239(c) of this title relates to promotion of first lieutenants on an all-fully-qualified officers list and does contain a par. (4) defining such a list.
+<b>2024</b>—Subsec. (b)(4). Pub. L. 118–159, §521(q)(1)(A), substituted "20239(c)(4)" for "20238(a)(4)".
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (b)(5). Pub. L. 118–159, §521(q)(1)(B), substituted "section 20232" for "20232".
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
-
-<i><sup>3</sup></i><i> So in original. The words "of the" probably should appear.</i>
+Subsec. (c)(2)(E). Pub. L. 118–159, §521(q)(2), substituted "Secretary of the Air Force" for "Secretary Air Force".
 

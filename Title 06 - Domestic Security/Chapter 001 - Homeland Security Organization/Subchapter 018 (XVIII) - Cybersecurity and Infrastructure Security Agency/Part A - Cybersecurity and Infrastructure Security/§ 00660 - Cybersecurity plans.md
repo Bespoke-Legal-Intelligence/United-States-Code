@@ -20,7 +20,7 @@ In this section, the term "agency information system" means an information syste
 
 #### (c) Cyber incident response plan
 
-The Director of the Cybersecurity and Infrastructure Security Agency shall, in coordinationwith appropriate Federal departments and agencies, State and local governments, sector coordinating councils, Information Sharing and Analysis Organizations, owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, update not less often than biennially, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks to critical infrastructure. The Director, in consultation with relevant Sector Risk Management Agencies and the National Cyber Director, shall develop mechanisms to engage with stakeholders to educate such stakeholders regarding Federal Government cybersecurity roles and responsibilities for cyber incident response.
+The Director of the Cybersecurity and Infrastructure Security Agency shall, in coordination with appropriate Federal departments and agencies, State and local governments, sector coordinating councils, Information Sharing and Analysis Organizations, owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, update not less often than biennially, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks to critical infrastructure. The Director, in consultation with relevant Sector Risk Management Agencies and the National Cyber Director, shall develop mechanisms to engage with stakeholders to educate such stakeholders regarding Federal Government cybersecurity roles and responsibilities for cyber incident response.
 
 #### (d) National Response Framework
 
@@ -76,7 +76,7 @@ The Secretary, in coordination with the heads of other appropriate Federal depar
 
 #### (4) Exemption
 
-&emsp;Chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act") shall notapply to any action to implement this subsection.
+&emsp;Chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act") shall not apply to any action to implement this subsection.
 
 (Pub. L. 107–296, title XXII, §2210, formerly title II, §228, as added and amended Pub. L. 114–113, div. N, title II, §§205, 223(a)(2), (4), (5), Dec. 18, 2015, 129 Stat. 2961, 2963, 2964; renumbered title XXII, §2210, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(iv), Nov. 16, 2018, 132 Stat. 4178, 4181; Pub. L. 117–81, div. A, title XV, §§1545, 1546, Dec. 27, 2021, 135 Stat. 2057, 2059; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(E), (c)(8), Dec. 23, 2022, 136 Stat. 3660, 3663.)
 

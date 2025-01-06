@@ -10,7 +10,7 @@ An applicant who applies to purchase lands under the provisions of this section,
 
 The Secretary of the Interior is authorized to prescribe all necessary rules and regulations for administering the provisions of this section and determining conflicting claims arising hereunder.
 
-All purchases made and patents issued under the provisions of this section shall be subject to and contain a reservation to the United States of all the coal, oil, gas, and other minerals in the lands so purchased and patented, together with the right to prospect for, mine, and remove the same.
+All purchases made and patents issued under the provisions of this section shall be subject to and contain a reservation to the United Statesof all the coal, oil, gas, and other minerals in the lands so purchased and patented, together with the right to prospect for, mine, and remove the same.
 
 (Feb. 19, 1925, ch. 268, §§1, 2, 43 Stat. 951, 952; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 

@@ -4,7 +4,7 @@
 
 #### (1) State authority
 
-&emsp;Subject to section 300gg–23 <sup>1</sup> of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part and part D with respect to such issuers.
+&emsp;Subject to section 300gg–23 <sup>1</sup> of this title, each State may require that health insuranceissuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part and part D with respect to such issuers.
 
 #### (2) Failure to implement provisions
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
 
-(July 1, 1944, ch. 373, title XXVII, §2723, formerly §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968; amended Pub. L. 110–233, title I, §102(a)(5), May 21, 2008, 122 Stat. 891; renumbered §2736, renumbered §2723, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(13), formerly §1562(c)(13), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(C), Dec. 27, 2020, 134 Stat. 2772.)
+(July 1, 1944, ch. 373, title XXVII, §2723, formerly §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968; amended Pub. L. 110–233, title I, §102(a)(5), May 21, 2008, 122 Stat.891; renumbered §2736, renumbered §2723, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(13), formerly §1562(c)(13), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(C), Dec. 27, 2020, 134 Stat. 2772.)
 
 #### <b>Editorial Notes</b>
 

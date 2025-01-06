@@ -2,7 +2,7 @@
 
 (a)
 
-Consideration for Early Retirement.—The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the space force <sup>1</sup> officer list as follows:
+Consideration for Early Retirement.—The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the Space Force officer list as follows:
 
 &emsp;(1) Officers in the grade of lieutenant colonel who have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion.
 
@@ -18,13 +18,13 @@ Consideration for Early Retirement.—The Secretary of the Air Force may convene
 
 Consideration for Discharge.—
 
-&emsp;(1) The Secretary of the Air Force may convene selection boards under section 20211 of this title to consider for discharge officers on the space force <sup>1</sup> officer list—
+&emsp;(1) The Secretary of the Air Force may convene selection boards under section 20211 of this title to consider for discharge officers on the Space Force officer list—
 
 &emsp;&emsp;(A) who have served at least one year of active status in the grade currently held;
 
 &emsp;&emsp;(B) whose names are not on a list of officers recommended for promotion; and
 
-&emsp;&emsp;(C) who are not eligible to be retired under any provision of law (other than by reason ofeligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993) and are not within two years of becoming so eligible.
+&emsp;&emsp;(C) who are not eligible to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993) and are not within two years of becoming so eligible.
 
 &emsp;(2) An officer who is recommended for discharge by a selection board convened pursuant to the authority of paragraph (1) and whose discharge is approved by the Secretary of the Air Force shall be discharged on a date specified by the Secretary.
 
@@ -34,7 +34,7 @@ Consideration for Discharge.—
 
 Discharges and Retirements Considered to Be Involuntary.—The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1718(a), Dec. 22, 2023, 137 Stat. 657.)
+(Added Pub. L. 118–31, div. A, title XVII, §1718(a), Dec. 22, 2023, 137 Stat. 657; amended Pub. L. 118–159, div. A, title XVII, §1701(a)(50), Dec. 23, 2024, 138 Stat. 2206.)
 
 #### <b>Editorial Notes</b>
 
@@ -42,5 +42,7 @@ Discharges and Retirements Considered to Be Involuntary.—The discharge or reti
 
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(1)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "Space Force".</i>
+#### Amendments
+
+<b>2024</b>—Subsecs. (a), (b)(1). Pub. L. 118–159 substituted "Space Force" for "space force" in introductory provisions.
 

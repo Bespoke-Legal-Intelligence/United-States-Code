@@ -1,6 +1,6 @@
 ### §167q. Federal agency helium acquisition strategy
 
-In anticipation of the implementation of Phase D described in section 167d(d) of this title, and not later than 2 years after October 2, 2013, the Secretary (in consultation with the Secretary of Energy, the Secretary of Defense, the Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, the Director of the National Institutes of Health, and other agencies as appropriate) shall submit to Congress a report that provides for Federal users—
+In anticipation of the implementation of Phase D described in section 167d(d) of this title, and not later than 2 years after October 2, 2013, the Secretary (in consultation with the Secretary of Energy, the Secretary of Defense, theDirector of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, the Director of the National Institutes of Health, and other agencies as appropriate) shall submit to Congress a report that provides for Federal users—
 
 &emsp;(1) an assessment of the consumption of, and projected demand for, crude and refined helium;
 

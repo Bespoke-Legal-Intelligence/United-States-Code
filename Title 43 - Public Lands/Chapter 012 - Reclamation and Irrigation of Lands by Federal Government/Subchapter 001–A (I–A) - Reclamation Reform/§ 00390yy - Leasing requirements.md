@@ -4,7 +4,7 @@ Notwithstanding any other provision of Federal reclamation law, including this s
 
 &emsp;(1) written; and
 
-&emsp;(2) for a term not to exceed ten years, including any exercisable options: <i>Provided, how</i><i>ever</i>, That leases of lands for the production of perennial crops having an average life of more than ten years may be for periods of time equal to the average life of the perennial crop but in any event not to exceed twenty-five years.
+&emsp;(2) for a term not to exceed ten years, including any exercisable options: <i>Provided, however</i>, That leases of lands for the production of perennial crops having an average life of more than ten years may be for periods of time equal to the average life of the perennial crop but in any event not to exceed twenty-five years.
 
 (Pub. L. 97–293, title II, §227, Oct. 12, 1982, 96 Stat. 1273.)
 

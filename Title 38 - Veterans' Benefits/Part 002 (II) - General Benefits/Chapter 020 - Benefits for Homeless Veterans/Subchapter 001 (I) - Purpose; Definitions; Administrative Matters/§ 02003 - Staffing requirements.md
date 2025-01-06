@@ -38,7 +38,7 @@ Another prior section 2003, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, rela
 
 Prior sections 2003A and 2004 were renumbered sections 4103A and 4104 of this title, respectively.
 
-Another prior section 2004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, related to information necessary to determine a veteran's entitlement to compensation and which all Federal departments and agencies were required to make available to State agencies or to the Secretary, prior to repeal by section 1(a) of Pub. L. 87–675.
+Another prior section 2004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, related to information necessary to determine a veteran's entitlement to compensation andwhich all Federal departments and agencies were required to make available to State agencies or to the Secretary, prior to repeal by section 1(a) of Pub. L. 87–675.
 
 Prior sections 2004A and 2005 were renumbered sections 4104A and 4105 of this title, respectively.
 
@@ -54,7 +54,7 @@ Another prior section 2007, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220; Pub.
 
 Prior section 2008 was renumbered section 4108 of this title.
 
-Another prior section 2008, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220, enumerated provisions which forbadeduplication of benefits, prior to repeal by Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2008, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220, enumerated provisions which forbade duplication of benefits, prior to repeal by Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2009 was renumbered section 4109 of this title.
 

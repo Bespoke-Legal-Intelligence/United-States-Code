@@ -6,7 +6,7 @@ Any joint resolution or bill introduced pursuant to section 1544(b) of this titl
 
 #### (b) Pending business; vote
 
-Any joint resolution or bill so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents), and shall be votedon within three calendar days thereafter, unless such House shall otherwise determine by yeas and nays.
+Any joint resolution or bill so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents), and shall be voted on within three calendar days thereafter, unless such House shall otherwise determine by yeas and nays.
 
 #### (c) Referral to other House committee
 

@@ -16,7 +16,7 @@ In General.—Notwithstanding any other provision of law, the Secretary may issu
 
 &emsp;&emsp;(A) in the case of a proposed order to which an individual responds under paragraph (2)(B), not later than five business days after receiving the response of the individual; or
 
-&emsp;&emsp;(B) in the case of a proposed order to which an individual does not respond, not laterthan 15 business days after the Secretary provides notice to the individual under paragraph (2)(A).
+&emsp;&emsp;(B) in the case of a proposed order to which an individual does not respond, not later than 15 business days after the Secretary provides notice to the individual under paragraph (2)(A).
 
 (b)
 

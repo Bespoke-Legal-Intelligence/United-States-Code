@@ -4,7 +4,7 @@
 
 (b) The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Navy may prescribe.
 
-(Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047, §5015; renumbered §8015, Pub.L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047, §5015; renumbered §8015, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 #### <b>Editorial Notes</b>
 

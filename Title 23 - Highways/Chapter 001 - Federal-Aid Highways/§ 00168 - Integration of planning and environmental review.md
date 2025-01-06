@@ -38,7 +38,7 @@ In general.—Subject to subsection (d) and to the maximum extent practicable an
 
 &emsp;&emsp;(A) The lead agency for a project, with respect to an environmental impact statement, environmental assessment, categorical exclusion, or other document prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-&emsp;&emsp;(B) The cooperating agency with responsibility under Federal law, with respect to the process for and completion of any environmental permit, approval, review, or study required for a project under any Federal law other than the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), if consistent with that law.
+&emsp;&emsp;(B) The cooperating agency with responsibility under Federal law, with respect to theprocess for and completion of any environmental permit, approval, review, or study required for a project under any Federal law other than the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), if consistent with that law.
 
 &emsp;(2)
 

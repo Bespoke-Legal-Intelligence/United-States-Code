@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;The term "applicable Executive order" means—
 
-&emsp;&emsp;(A) Executive Order 13382 (50 U.S.C. 1701 note; relating to blocking property of weapons of mass destruction proliferators and their supporters), Executive Order 13466 (50 U.S.C. 1701 note; relating to continuing certain restrictions with respect to North Korea and North Korean nationals), Executive Order 13551 (50 U.S.C. 1701 note; relating to blocking property of certain persons with respect to North Korea), Executive Order 13570 (50 U.S.C. 1701 note; relating to prohibiting certain transactions with respect to North Korea), Executive Order 13619 (50 U.S.C. 1701 note; relating to blocking property of persons threatening the peace, security, or stability of Burma), Executive Order 13687 (50 U.S.C. 1701 note; relating to imposing additional sanctions with respect to North Korea), Executive Order No. 13694 (50 U.S.C. 1701 note; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), or Executive Order No. 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers' Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea), to the extent that such Executive order—
+&emsp;&emsp;(A) Executive Order 13382 (50 U.S.C. 1701 note; relating to blocking property of weapons of mass destruction proliferators and their supporters), Executive Order 13466 (50 U.S.C. 1701 note; relating to continuing certain restrictions with respect to North Korea and North Korean nationals), Executive Order 13551 (50 U.S.C. 1701 note; relating to blocking property of certain persons with respect to North Korea), Executive Order13570 (50 U.S.C. 1701 note; relating to prohibiting certain transactions with respect to North Korea), Executive Order 13619 (50 U.S.C. 1701 note; relating to blocking property of persons threatening the peace, security, or stability of Burma), Executive Order 13687 (50 U.S.C. 1701 note; relating to imposing additional sanctions with respect to North Korea), Executive Order No. 13694 (50 U.S.C. 1701 note; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), or Executive Order No. 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers' Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea), to the extent that such Executive order—
 
 &emsp;&emsp;&emsp;(i) authorizes the imposition of sanctions on persons for conduct with respect to North Korea;
 
@@ -46,7 +46,7 @@ In this chapter:
 
 #### (4) Designated person
 
-&emsp;The term "designated person" means a person designated under subsection (a), (b), or (g)of section 9214 of this title for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
+&emsp;The term "designated person" means a person designated under subsection (a), (b), or (g) of section 9214 of this title for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
 
 #### (5) Foreign person
 
@@ -208,7 +208,7 @@ Applicable united nations security council resolution; luxury goods.—The terms
 
 &emsp;"(2)
 
-Appropriate congressional committees; government of north korea; united states person.—The terms 'appropriate congressional committees', 'Government of North Korea', and 'United States person' have the meanings given those terms, respectively, in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202).
+Appropriate congressional committees; government of north korea; united states person.—The terms 'appropriate congressional committees','Government of North Korea', and 'United States person' have the meanings given those terms, respectively, in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202).
 
 &emsp;"(3)
 

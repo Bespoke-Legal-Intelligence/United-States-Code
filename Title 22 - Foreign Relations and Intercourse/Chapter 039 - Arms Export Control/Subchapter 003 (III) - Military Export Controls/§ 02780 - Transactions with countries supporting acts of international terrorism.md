@@ -46,7 +46,7 @@ The following transactions by the United States Government are prohibited:
 
 #### (3) Applicability to actions outside the United States
 
-&emsp;Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection (l)(3)(A) or (B). To the extent provided in regulations issued under subsection (l)(3)(D), paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
+&emsp;Paragraph (1) applies with respect to actions described in that paragraph which are takeneither within or outside the United States by a United States person described in subsection (l)(3)(A) or (B). To the extent provided in regulations issued under subsection (l)(3)(D), paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
 
 #### (c) Transfers to governments and persons covered
 
@@ -108,7 +108,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;&emsp;(v) the name of every United States Government department, agency, or other entity involved in the proposed transaction, every foreign government involved in the proposed transaction, and every private party with significant participation in the proposed transaction.
 
-> To the extent possible, the information specified in subparagraph (B) of paragraph (2) shall be provided in unclassified form, with any classified information provided in an addendum to the report.
+> To the extent possible, the information specified in subparagraph (B) of paragraph (2) shall beprovided in unclassified form, with any classified information provided in an addendum to the report.
 
 #### (h) Exemption for transactions subject to National Security Act reporting requirements
 
@@ -172,7 +172,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(
 
 Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), is classified to subsec. (d) of this section.
 
-Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), referred to in subsec. (f)(2)(B), is Pub. L. 98–473, title I, §101(h) \[title VIII, §8066(c)(3)–(7)\], Oct. 12, 1984, 98 Stat. 1904, 1936, 1937, which is not classified to the Code.
+Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), referred to in subsec. (f)(2)(B), is Pub. L. 98–473, title I, §101(h) \[title VIII, §8066(c)(3)–(7)\],Oct. 12, 1984, 98 Stat. 1904, 1936, 1937, which is not classified to the Code.
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 

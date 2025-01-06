@@ -16,7 +16,7 @@
 
 #### (A) Inclusion
 
-&emsp;&emsp;For purposes of paragraph (1)(B), subject to subparagraph (B), routine patient costs include all items and services consistent with the coverage provided in the plan (or coverage) that is typically covered for a qualified individual who is not enrolled in a clinical trial.
+&emsp;&emsp;For purposes of paragraph (1)(B), subject to subparagraph (B), routine patient costsinclude all items and services consistent with the coverage provided in the plan (or coverage) that is typically covered for a qualified individual who is not enrolled in a clinical trial.
 
 #### (B) Exclusion
 

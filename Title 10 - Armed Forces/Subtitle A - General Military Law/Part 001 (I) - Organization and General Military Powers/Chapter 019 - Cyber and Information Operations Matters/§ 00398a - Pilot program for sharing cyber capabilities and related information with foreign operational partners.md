@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 Rule of Construction.—Nothing in this section shall be construed as amending, diminishing, or otherwise impacting reporting or other obligations under the War Powers Resolution.
 
-(Added Pub. L. 117–263, div. A, title XV, §1551(a), Dec. 23, 2022, 136 Stat. 2918, §398; renumbered §398a and amended Pub. L. 118–31, div. A, title XV, §1501, title XVIII, §1801(a)(6), (7), Dec. 22, 2023, 137 Stat. 533, 683.)
+(Added Pub. L. 117–263, div. A, title XV, §1551(a), Dec. 23, 2022, 136 Stat. 2918, §398; renumbered§398a and amended Pub. L. 118–31, div. A, title XV, §1501, title XVIII, §1801(a)(6), (7), Dec. 22, 2023, 137 Stat. 533, 683.)
 
 #### <b>Editorial Notes</b>
 

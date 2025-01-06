@@ -42,7 +42,7 @@ Pub. L. 104–201, div. A, title II, §281, Sept. 23, 1996, 110 Stat. 2469, prov
 
 &emsp;"(3) Understanding of the oceans through basic and applied research is essential for using the oceans wisely and protecting their limited resources. Therefore, the United States should maintain its world leadership in oceanography as one key to its competitive future.
 
-&emsp;"(4) Ocean research and education activities take place within Federal agencies, academic institutions, and industry. These entities often have similar requirements for research facilities, data, and other resources (such as oceanographic research vessels).
+&emsp;"(4) Ocean research and education activities take place within Federal agencies, academic institutions,and industry. These entities often have similar requirements for research facilities, data, and other resources (such as oceanographic research vessels).
 
 &emsp;"(5) The need exists for a formal mechanism to coordinate existing partnerships and establish new partnerships for the sharing of resources, intellectual talent, and facilities in the ocean sciences and education, so that optimal use can be made of this most important natural resource for the well-being of all Americans."
 

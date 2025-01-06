@@ -1,6 +1,6 @@
 ### §8331. Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay
 
-(a) When he has completed 30 years of service, or when he is found not physically qualified in an examination under section 8385 of this title, a member of the Fleet Reserve or the Fleet Marine Corps Reserve shall be transferred—
+(a) When he has completed 30 years of service, or when he is found not physically qualified inan examination under section 8385 of this title, a member of the Fleet Reserve or the Fleet Marine Corps Reserve shall be transferred—
 
 &emsp;(1) to the retired list of the Regular Navy or the Regular Marine Corps, as appropriate, if he was a member of the Regular Navy or the Regular Marine Corps at the time of his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve; or
 
@@ -10,7 +10,7 @@
 
 &emsp;(1) the years of service credited to him upon his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve;
 
-&emsp;(2) his years of active and inactive service in the armed forces before his transfer to theFleet Reserve or the Fleet Marine Corps Reserve not credited to him upon that transfer; and
+&emsp;(2) his years of active and inactive service in the armed forces before his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve not credited to him upon that transfer; and
 
 &emsp;(3) his years of service, active and inactive, in the Fleet Reserve or the Fleet Marine Corps Reserve.
 

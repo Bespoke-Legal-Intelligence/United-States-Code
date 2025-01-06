@@ -46,7 +46,7 @@ On the petition of a member agency of the Council, the Council may set aside a f
 
 #### (B) Authorization to vote
 
-&emsp;&emsp;A member of the Council may vote to stay the effectiveness of, or set aside, a final regulation prescribed by the Bureau only if theagency or department represented by that member has—
+&emsp;&emsp;A member of the Council may vote to stay the effectiveness of, or set aside, a final regulation prescribed by the Bureau only if the agency or department represented by that member has—
 
 &emsp;&emsp;&emsp;(i) considered any relevant information provided by the agency submitting the petition and by the Bureau; and
 

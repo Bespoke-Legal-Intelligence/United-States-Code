@@ -54,7 +54,7 @@ Civil Remedies.—(1) The district courts of the United States shall have jurisd
 
 Actual and Statutory Damages.—(1) In addition to any penalty imposed under subsection (b), a violator of this section is liable in an action under subsection (c) for actual or statutory damages as provided in this subsection.
 
-(2) A person bringing an action under subsection (c)(3) may elect, at any time before final judgment is rendered, to recover the actual damages suffered by him or her as a result of the violation or, instead of actual damages, an award of statutory damages for each violation involved in the action.
+(2) A person bringing an action under subsection (c)(3) may elect, at any time before final judgment is rendered, to recover the actual damages suffered by him or her as a result of theviolation or, instead of actual damages, an award of statutory damages for each violation involved in the action.
 
 (3) In any action brought under subsection (c)(2), the Attorney General is entitled to recover an award of statutory damages for each violation involved in the action notwithstanding any recovery under subsection (c)(3).
 

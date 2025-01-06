@@ -68,7 +68,7 @@ Students participating in research under a project under this section may receiv
 
 #### (g) Funding
 
-From amounts appropriated pursuant to the authority of section 1070a–11(g) of this title, theSecretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 2009 through 2014.
+From amounts appropriated pursuant to the authority of section 1070a–11(g) of this title, the Secretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 2009 through 2014.
 
 (Pub. L. 89–329, title IV, §402E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 489; amended Pub. L. 105–244, title IV, §402(e), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(e), Aug. 14, 2008, 122 Stat. 3203; Pub. L. 111–39, title IV, §401(a)(5), July 1, 2009, 123 Stat. 1938; Pub. L. 114–95, title IX, §9215(oo)(7), Dec. 10, 2015, 129 Stat. 2179.)
 
@@ -76,7 +76,7 @@ From amounts appropriated pursuant to the authority of section 1070a–11(g) of 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (d)(2)(A). Pub. L. 114–95, §9215(oo)(7)(A), made technical amendment to reference in original act which appears in text as reference to section 7546 of this title.
+<b>2015</b>—Subsec. (d)(2)(A). Pub. L. 114–95, §9215(oo)(7)(A), made technical amendment to reference in original actwhich appears in text as reference to section 7546 of this title.
 
 Subsec. (d)(2)(B). Pub. L. 114–95, §9215(oo)(7)(B), made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
 

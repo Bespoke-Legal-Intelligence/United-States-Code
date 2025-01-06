@@ -24,7 +24,7 @@ In approving applications and awarding funding under the program, the Secretary 
 
 &emsp;(2) to ensure that land enrolled under the State or tribal government program has appropriate wildlife habitat;
 
-&emsp;(3) to strengthen wildlife habitat improvement efforts on land enrolled in a conservation reserve enhancement program under section 3831a of this title or on land covered by a wetland reserve easement under section 3865c of this title by providing incentives to increase public hunting and other recreational access on that land;
+&emsp;(3) to strengthen wildlife habitat improvement efforts on land enrolled in a conservation reserve enhancement program under section 3831a of this title or on land covered by awetland reserve easement under section 3865c of this title by providing incentives to increase public hunting and other recreational access on that land;
 
 &emsp;(4) to use additional Federal, State, tribal government, or private resources in carrying out the program; and
 

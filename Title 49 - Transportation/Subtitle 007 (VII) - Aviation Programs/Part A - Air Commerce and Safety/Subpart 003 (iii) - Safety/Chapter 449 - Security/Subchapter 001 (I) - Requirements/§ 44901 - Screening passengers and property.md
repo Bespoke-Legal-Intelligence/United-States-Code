@@ -44,7 +44,7 @@ Rescreening requirement.—If the Administrator of the Transportation Security A
 
 &emsp;&emsp;(D)
 
-Report.—The Administrator of the Transportation Security Administration shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
+Report.—The Administrator of the Transportation Security Administrationshall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
 
 &emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Administrator determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
 
@@ -146,7 +146,7 @@ In general.—The Administrator of the Transportation Security Administration sh
 
 &emsp;(2)
 
-Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>1</sup> for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
+Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>2</sup> for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
 
 &emsp;(3)
 
@@ -618,7 +618,7 @@ Re-screening Requirement.—
 
 &emsp;"(1)
 
-In general.—If the Administrator determines that a foreign country participating in the aviation security screening agreement has not maintained and implemented security standards and protocols comparable to those of the United States at foreign last point of departure airports at which a pilot program has been established in accordance with this section, the Administrator shall ensure that passengers and their property arriving from such airports are re-screened in the United States, including by using explosives detection systems in accordance with section 44901(d)(1) of title 49, United States Code, and implementing regulations and directives, before such passengers and their property are permitted into sterile areas of airports in the United States.
+In general.—If the Administrator determines that a foreign country participating in the aviation security screening agreement has not maintained and implemented security standards and protocols comparable to those of the United States at foreign lastpoint of departure airports at which a pilot program has been established in accordance with this section, the Administrator shall ensure that passengers and their property arriving from such airports are re-screened in the United States, including by using explosives detection systems in accordance with section 44901(d)(1) of title 49, United States Code, and implementing regulations and directives, before such passengers and their property are permitted into sterile areas of airports in the United States.
 
 &emsp;"(2)
 
@@ -696,7 +696,7 @@ In General.—Not later than 90 days after the date of the enactment of this Act
 
 Contents.—The plan required under subsection (a) shall include the following:
 
-&emsp;"(1) An identification of best practices developed and screening technologies deployed in response to the coronavirus among foreign governments, airports, and air carriers conducting aviation security screening operations, as well as among Federal agencies conducting similar security screening operations outside of airports, including in locations where the spread of the coronavirus has been successfully contained, that could be further integrated into the United States aviation security system.
+&emsp;"(1) An identification of best practices developed and screening technologies deployed in response to the coronavirus among foreign governments, airports, and air carriers conducting aviation security screening operations, as well as among Federal agencies conducting similar security screening operations outside of airports, including in locations where thespread of the coronavirus has been successfully contained, that could be further integrated into the United States aviation security system.
 
 &emsp;"(2) Specific operational changes to aviation security screening operations informed by the identification of best practices and screening technologies under paragraph (1) that could be implemented without degrading aviation security and a corresponding timeline and costs for implementing such changes.
 
@@ -724,7 +724,7 @@ Submission.—Upon issuance of the plan required under subsection (a), the Admin
 
 "(f)
 
-Issuance and Implementation.—The Administrator shall not be required to issue or implement, asthe case may be, the plan required under subsection (a) upon the termination of the COVID–19 national emergency except to the extent the Administrator determines such issuance or implementation, as the case may be, to be feasible and beneficial to security screening operations.
+Issuance and Implementation.—The Administrator shall not be required to issue or implement, as the case may be, the plan required under subsection (a) upon the termination of the COVID–19 national emergency except to the extent the Administrator determines such issuance or implementation, as the case may be, to be feasible and beneficial to security screening operations.
 
 "(g)
 
@@ -774,7 +774,7 @@ Pub. L. 116–6, div. A, title II, §225, Feb. 15, 2019, 133 Stat. 25, as amende
 
 &emsp;"(3) annual performance reports, by not later than 60 days after the end of each fiscal year in which the pilot programs are in operation, including—
 
-&emsp;&emsp;"(A) the amount of reimbursement received by the Transportation Security Administration from each entity in the pilot program for the preceding fiscal year, delineated by personnel and non-personnel costs;
+&emsp;&emsp;"(A) the amount of reimbursement received by the Transportation Security Administration fromeach entity in the pilot program for the preceding fiscal year, delineated by personnel and non-personnel costs;
 
 &emsp;&emsp;"(B) an analysis of the results of the pilot programs corresponding to the evaluation plan required under paragraph (2);
 
@@ -784,7 +784,7 @@ Pub. L. 116–6, div. A, title II, §225, Feb. 15, 2019, 133 Stat. 25, as amende
 
 "(i) Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of the Transportation Security Administration.
 
-"(j) For the purposes of this section, the term 'airport' means a commercial service airport as defined by section 47107(7) of title 49\[,\] United States Code.
+"(j) For the purposes of this section, the term 'airport' means a commercial service airport as defined by section 47107(7) \[probably should be 47102(7)\] of title 49\[,\] United States Code.
 
 "(k) For the purposes of this section, the term 'screening services' means the screening of passengers, flight crews, and their carry-on baggage and personal articles, and may include checked baggage screening if that type of screening is performed at an offsite location that is not part of a passenger terminal of a commercial airport.
 
@@ -890,7 +890,7 @@ In general.—In carrying out subsection (e), the Administrator shall establish 
 
 &emsp;"(2)
 
-Measuring progress toward goals.—The Administrator shall use the metrics established and tracked under paragraph (1) to generate data on an ongoing basis and to measure progress toward the achievement of the performance objectives established under subsection (e).
+Measuring progress toward goals.—The Administrator shall use the metrics established and tracked under paragraph (1) to generate data on anongoing basis and to measure progress toward the achievement of the performance objectives established under subsection (e).
 
 &emsp;"(3)
 
@@ -926,7 +926,7 @@ Pub. L. 115–254, div. K, title I, §1925, Oct. 5, 2018, 132 Stat. 3563, provid
 
 "(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall carry out a pilot program to test the use ofscreening equipment using computed tomography technology to screen baggage at passenger screening checkpoints at airports.
+In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall carry out a pilot program to test the use of screening equipment using computed tomography technology to screen baggage at passenger screening checkpoints at airports.
 
 "(b)
 
@@ -1056,7 +1056,7 @@ Reports to Congress.—Not later than September 30 of the first full fiscal year
 
 &emsp;"(2) The best practices recommended under subsection (b) to address the top areas of concern.
 
-&emsp;"(3) The estimated wait times for assist requests for passengers with disabilities, including disabledpassengers who participate in the PreCheck program."
+&emsp;"(3) The estimated wait times for assist requests for passengers with disabilities, including disabled passengers who participate in the PreCheck program."
 
 #### Air Cargo Advance Screening Program
 
@@ -1126,7 +1126,7 @@ Final Rule.—Not later than 180 days after the date of enactment of this Act \[
 
 "(j)
 
-Report.—Not later than 180 days after the date of the commencement of the ACAS Program, the Commissioner of U.S. Customs and Border Protection and the Administrator shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report detailing the operational implementation of providing advance information under the ACAS Program and the value of such information in targeting cargo."
+Report.—Not later than 180 days after the date of the commencement of the ACAS Program, the Commissioner of U.S. Customs and Border Protection and the Administrator shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committeeon Homeland Security of the House of Representatives\] a report detailing the operational implementation of providing advance information under the ACAS Program and the value of such information in targeting cargo."
 
 #### Raising International Standards
 
@@ -1222,7 +1222,7 @@ Pub. L. 114–293, Dec. 16, 2016, 130 Stat. 1503, provided that:
 
 "Not later than 90 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Administrator of the Transportation Security Administration shall—
 
-&emsp;"(1) notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration's guidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration's guidelines known as the 3–1–1 Liquids Rule Exemption; and
+&emsp;"(1) notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration'sguidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration's guidelines known as the 3–1–1 Liquids Rule Exemption; and
 
 &emsp;"(2) in training procedures for security screening personnel of the Administration and private security companies providing security screening pursuant to section 44920 of title 49, United States Code, include training on special screening procedures."
 
@@ -1332,7 +1332,7 @@ In general.—If the Administrator determines at any time that a foreign country
 
 &emsp;"(2)
 
-Notification.—If the Administrator revokes or suspends pursuant to paragraph (1) a foreign country's air cargo security program, the Administrator shall notify the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after such revocation or suspension.
+Notification.—If the Administrator revokes or suspends pursuant to paragraph (1) a foreign country's air cargo security program, the Administrator shall notify the Committee on Homeland Security ofthe House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after such revocation or suspension.
 
 "(d)
 
@@ -1736,7 +1736,7 @@ Administrator report.—Not later than 90 days after the date of the enactment o
 
 &emsp;"(2)
 
-Inspector general report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the appropriate congressional committees a report on the effectiveness of airportaccess controls to the SIDAs of airports based on red-team, covert testing under subsection (b).
+Inspector general report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the appropriate congressional committees a report on the effectiveness of airport access controls to the SIDAs of airports based on red-team, covert testing under subsection (b).
 
 #### "SEC. 3409. SECURITY DIRECTIVES.
 
@@ -1862,7 +1862,7 @@ Selection of Airports.—In selecting airports for the pilot program established
 
 #### "SEC. 3506. ACCEPTANCE AND PROVISION OF RESOURCES BY THE TRANSPORTATION SECURITY ADMINISTRATION.
 
-"The Administrator, in carrying out the functions of the pilot programs established under sections 3502 and 3503 of this subtitle, may accept services, supplies,equipment, personnel, or facilities, without reimbursement, from any other public or private entity."
+"The Administrator, in carrying out the functions of the pilot programs established under sections 3502 and 3503 of this subtitle, may accept services, supplies, equipment, personnel, or facilities, without reimbursement, from any other public or private entity."
 
 #### Protection of Passenger Planes From Explosives
 
@@ -1938,7 +1938,7 @@ Air Cargo Screening Technology.—The Assistant Secretary of Homeland Security (
 
 "(b)
 
-Improved Air Cargo and Airport Security.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration, in addition to any amounts otherwise authorized by law, for the purpose of improving aviation security related to the transportation of cargo on both passenger aircraft and all-cargo aircraft—
+Improved Air Cargo and Airport Security.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration, in addition to any amounts otherwise authorized by law, for the purpose of improving aviation security related to the transportation ofcargo on both passenger aircraft and all-cargo aircraft—
 
 &emsp;"(1) $200,000,000 for fiscal year 2005;
 
@@ -1970,7 +1970,7 @@ In general.—The Secretary shall establish and carry out a program to issue com
 
 &emsp;"(2)
 
-Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and providefor such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible."
+Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible."
 
 #### Identification Standards
 
@@ -2062,7 +2062,7 @@ Motion to proceed.—A motion in the House of Representatives to proceed to the 
 
 &emsp;&emsp;"(B)
 
-Debate.—Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 4 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion to further limit debate shall not be debatable. It shall not be in order to move to recommit an approval resolution or to move to reconsider the vote by which an approval resolution is agreed to or disagreed to.
+Debate.—Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 4 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion to further limit debate shall not be debatable. It shall not be in order to move to recommit an approvalresolution or to move to reconsider the vote by which an approval resolution is agreed to or disagreed to.
 
 &emsp;&emsp;"(C)
 
@@ -2086,7 +2086,7 @@ Motion to proceed.—A motion in the Senate to proceed to the consideration of a
 
 &emsp;&emsp;"(B)
 
-Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not morethan 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
+Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
 
 &emsp;&emsp;"(C)
 
@@ -2156,11 +2156,11 @@ Pub. L. 104–264, title III, §305(b), Oct. 9, 1996, 110 Stat. 3252, provided t
 
 #### Passenger Profiling
 
-Pub. L. 104–264, title III, §307, Oct. 9, 1996, 110 Stat. 3253, provided that: "The Administrator of the Federal Aviation Administration, the Secretary of Transportation, the intelligence community, and the law enforcement community should continue to assist air carriers in developing computer-assisted passenger profiling programs and other appropriate passenger profiling programs which should be used in conjunction with other security measures and technologies."
+Pub. L. 104–264, title III, §307, Oct. 9, 1996, 110 Stat. 3253, which related to developing computer-assisted passenger profiling programs and other appropriate passenger profiling programs, was repealed by Pub. L. 118–63, title II, §218(g), May 16, 2024, 138 Stat. 1056.
 
 #### Authority To Use Certain Funds for Airport Security Programs and Activities
 
-Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provided that funds from project grants made under subchapter I of chapter 471 of this title and passenger facility fees collected under section 40117 of this title could be used for the improvement of facilities and the purchase and deployment of equipment to enhance and ensure safe air travel, was repealed by Pub. L. 108–176, title I, §143, Dec. 12, 2003, 117 Stat. 2503.
+Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provided that funds from project grants made under subchapter I of chapter 471 of this title and passenger facility fees collected under section 40117 of this title could be used for the improvement of facilities and the purchase and deployment of equipment toenhance and ensure safe air travel, was repealed by Pub. L. 108–176, title I, §143, Dec. 12, 2003, 117 Stat. 2503.
 
 #### Installation and Use of Explosive Detection Equipment
 

@@ -84,7 +84,7 @@ Subsec. (a)(2)(E), (F). Pub. L. 114–328, §953(a)(2)(B), (C), redesignated sub
 
 Subsec. (a)(4). Pub. L. 114–328, §953(a)(3)(B), inserted "from past conflicts" after "missing persons".
 
-Pub. L. 114–328, §953(a)(3)(A), which directed striking out "for personal recovery (including search, rescue, escape, and evasion) and" was executed by striking out "for personnel recovery (including search, rescue, escape, and evasion) and" after "Department of Defense,", to reflect the probable intent of Congress.
+Pub. L. 114–328, §953(a)(3)(A), which directed striking out "for personal recovery (including search, rescue, escape, and evasion) and" was executed by striking out"for personnel recovery (including search, rescue, escape, and evasion) and" after "Department of Defense,", to reflect the probable intent of Congress.
 
 Subsec. (a)(5). Pub. L. 114–328, §953(a)(4), struck out par. (5) which read as follows: "The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter."
 
@@ -166,7 +166,7 @@ Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable 
 
 "(b)
 
-Diplomatic Intervention if Required.—The Secretary of State, upon request by the Secretary of Defense, shall work with officials of governments of nations in the area that was covered by the Pacific theater of operations of World War II to seek to overcome any diplomatic obstacles that may impede the Secretary of Defense from carrying out the objectives specified in subsection (a)(1)."
+Diplomatic Intervention if Required.—The Secretary of State, upon request by the Secretary ofDefense, shall work with officials of governments of nations in the area that was covered by the Pacific theater of operations of World War II to seek to overcome any diplomatic obstacles that may impede the Secretary of Defense from carrying out the objectives specified in subsection (a)(1)."
 
 #### POW/MIA Intelligence Analysis
 
@@ -174,7 +174,7 @@ Pub. L. 105–85, div. A, title IX, §934, Nov. 18, 1997, 111 Stat. 1866, as ame
 
 "(a)
 
-Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on mattersconcerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
+Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
 
 "(b)
 

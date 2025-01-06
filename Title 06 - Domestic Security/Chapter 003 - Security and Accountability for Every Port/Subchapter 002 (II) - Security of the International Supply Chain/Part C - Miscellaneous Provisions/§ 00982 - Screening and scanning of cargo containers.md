@@ -74,7 +74,7 @@
 
 #### (9) International trade and other obligations
 
-&emsp;In carrying out this subsection, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders, and ensure that actions under this section do not violate international trade obligations, and are consistent with the WorldCustoms Organization framework, or other international obligations of the United States.
+&emsp;In carrying out this subsection, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders, and ensure that actions under this section do not violate international trade obligations, and are consistent with the World Customs Organization framework, or other international obligations of the United States.
 
 #### (c) Report
 

@@ -54,7 +54,7 @@ No grant may be made under subsection (a), unless an application therefor has be
 
 &emsp;&emsp;(A) communicate to parents, educators, and local health officials the significance and prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
 
-&emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
+&emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of leadpoisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
 &emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
 
@@ -112,7 +112,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### (2) Certain requirements
 
-&emsp;Each report under paragraph (1) shall include, in addition to any other information that the Secretary may require, the following information:
+&emsp;Each report under paragraph (1) shall include, in addition to any other informationthat the Secretary may require, the following information:
 
 &emsp;&emsp;(A) The number of infants and children screened.
 
@@ -200,7 +200,7 @@ In general.—The Director of the Centers for Disease Control and Prevention sha
 
 &emsp;"(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
 
-&emsp;"(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
+&emsp;"(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program forwomen, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
 
 &emsp;"(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
 

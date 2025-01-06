@@ -24,11 +24,11 @@ Premiums.—(1) A member of a reserve component covered by TRICARE Reserve Selec
 
 (3)(A) The monthly amount of the premium in effect for a month for TRICARE Reserve Select coverage under this section shall be the amount equal to 28 percent of the total monthly amount determined on an appropriate actuarial basis as being reasonable for that coverage.
 
-(B) The appropriate actuarial basis for purposes of subparagraph (A) shall be determined, for each calendar year after calendar year 2009, by utilizing the actual cost of providing benefits under this section to members and their dependents during the calendar years preceding such calendar year.
+(B) The appropriate actuarial basis for purposes of subparagraph (A) shall be determined,for each calendar year after calendar year 2009, by utilizing the actual cost of providing benefits under this section to members and their dependents during the calendar years preceding such calendar year.
 
 (4) The premiums payable by a member of a reserve component under this subsection may be deducted and withheld from basic pay payable to the member under section 204 of title 37 or from compensation payable to the member under section 206 of such title. The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums.
 
-(5) Amounts collected as premiums under this subsection shall be credited to the appropriationavailable for the Defense Health Program Account under section 1100 of this title, shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
+(5) Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title, shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 
 (e)
 
@@ -102,7 +102,7 @@ Subsec. (b)(3), (4). Pub. L. 109–163, §701(a)(1), added par. (3) and redesign
 
 Subsec. (b)(5). Pub. L. 109–163, §701(b), added par. (5).
 
-Subsec. (c). Pub. L. 109–163, §701(c), inserted at end "If a member of a reserve component dies while in a period of coverage under this section, the eligibility of themembers of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member."
+Subsec. (c). Pub. L. 109–163, §701(c), inserted at end "If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member."
 
 Subsec. (d)(3). Pub. L. 109–364, §704(c), inserted at end "During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006."
 
@@ -328,7 +328,7 @@ In general.—The Secretary of Defense, in consultation with the Secretary of Ho
 
 &emsp;&emsp;"(B)
 
-Limitation on implementation.—The Director shall not implement any recommendation provided by the Secretary of Defense under subparagraph (A) if the Director determines that the implementation of the recommendation would result in eligible reserve components beneficiaries receiving less generous health benefits under this subsection than the health benefits commonly available to individuals under the Federal Employees Health Benefits Program during the same period.
+Limitation on implementation.—The Director shall not implement any recommendation provided by the Secretary of Defense under subparagraph (A) if the Director determines that the implementation of the recommendation would result in eligible reserve components beneficiaries receivingless generous health benefits under this subsection than the health benefits commonly available to individuals under the Federal Employees Health Benefits Program during the same period.
 
 &emsp;"(12)
 

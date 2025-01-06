@@ -24,7 +24,7 @@ Except as provided in subsection (d)(2), the risk-based premium to be assessed u
 
 #### (B) Default management plan
 
-&emsp;&emsp;An institution of the type described in subparagraph (A) shall prepare and submit tothe Secretary for approval, an annual default management plan, that shall specify the detailed short-term and long-term procedures that such institution will have in place to minimize defaults on loans to borrowers under this subpart. Under such plan the institution shall, among other measures, provide an exit interview to all borrowers that includes information concerning repayment schedules, loan deferments, forbearance, and the consequences of default.
+&emsp;&emsp;An institution of the type described in subparagraph (A) shall prepare and submit to the Secretary for approval, an annual default management plan, that shall specify the detailed short-term and long-term procedures that such institution will have in place to minimize defaults on loans to borrowers under this subpart. Under such plan the institution shall, among other measures, provide an exit interview to all borrowers that includes information concerning repayment schedules, loan deferments, forbearance, and the consequences of default.
 
 #### (3) High-risk rate
 
@@ -64,7 +64,7 @@ Lenders shall reduce by 50 percent the risk-based premium to eligible borrowers 
 
 &emsp;&emsp;(A) subsection (b)(4) shall not apply with respect to any eligible institution that is a Historically Black College or University; and
 
-&emsp;&emsp;(B) any such institution that has a default rate in excess of 20 percent, and any eligible borrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
+&emsp;&emsp;(B) any such institution that has a default rate in excess of 20 percent, and any eligibleborrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
 
 #### (e) Payoff to reduce risk category
 

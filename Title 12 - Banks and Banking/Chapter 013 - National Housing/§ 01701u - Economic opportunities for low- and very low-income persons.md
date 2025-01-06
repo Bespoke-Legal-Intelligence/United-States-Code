@@ -34,7 +34,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 &emsp;&emsp;&emsp;(iii) To participants in YouthBuild programs receiving assistance under section 3226 of title 29.
 
-&emsp;&emsp;&emsp;(iv) To other low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
+&emsp;&emsp;&emsp;(iv) To other low- and very low-income persons residing within the metropolitanarea (or nonmetropolitan county) in which the assistance is expended.
 
 #### (2) Other programs
 
@@ -102,7 +102,7 @@ The Secretary shall consult with the Secretary of Labor, the Secretary of Health
 
 Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
-(Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181; Pub. L. 113–128, title V, §512(p), July 22, 2014, 128 Stat. 1711.)
+(Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181; Pub. L. 113–128, title V, §512(p), July 22, 2014, 128 Stat. 1711.)
 
 #### <b>Editorial Notes</b>
 

@@ -180,89 +180,25 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Use of Funds for United States Secret Service Protection
+#### Presidential Security
 
-Pub. L. 109–295, title V, §517(b), Oct. 4, 2006, 120 Stat. 1380, as amended by Pub. L. 110–161, div. E, title V, §517, Dec. 26, 2007, 121 Stat. 2073, provided that: "For fiscal year 2008, and each fiscal year thereafter, the Director of the United States Secret Service may enter into an agreement to perform protection of a Federal official other than a person granted protection under section 3056(a) of title 18, United States Code, on a fully reimbursable basis."
+Pub. L. 118–91, Oct. 1, 2024, 138 Stat. 1560, provided that:
 
-#### Funds for Training
+#### "SECTION 1. SHORT TITLE.
 
-Pub. L. 108–90, title II, Oct. 1, 2003, 117 Stat. 1145, provided in part: "That in fiscal year 2004 and thereafter, subject to the reimbursement of actual costs to this account, funds appropriated in this account shall be available, at the discretion of the Director, for the following: training United States Postal Service law enforcement personnel and Postal police officers, training Federal law enforcement officers, training State and local government law enforcement officers on a space-available basis, and training private sector security officials on a space-available basis".
+"This Act may be cited as the 'Enhanced Presidential Security Act of 2024'.
 
-#### Expansion of National Electronic Crime Task Force Initiative
+#### "SEC. 2. UNIFORM STANDARDS FOR SECRET SERVICE PROTECTION OF PRESIDENTS, VICE PRESIDENTS, AND MAJOR PRESIDENTIAL AND VICE PRESIDENTIAL CANDIDATES.
 
-Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, §608(b), Mar. 9, 2006, 120 Stat. 256; Pub. L. 117–286, §4(a)(136), Dec. 27, 2022, 136 Stat. 4320, provided that: "The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to chapter 10 of title 5, United States Code."
+"The Director of the United States Secret Service shall apply the same standards for determining the number of agents required to protect Presidents, Vice Presidents, and major Presidential and Vice Presidential candidates.
 
-#### National Threat Assessment Center
+#### "SEC. 3. REPORT.
 
-Pub. L. 106–544, §4, Dec. 19, 2000, 114 Stat. 2716, provided that:
+"Not later than 180 days after the date of enactment of this Act \[Oct. 1, 2024\], the Director of the United States Secret Service shall conduct a comprehensive review of the provision of protection by the Secret Service for Presidents, Vice Presidents, former Presidents, and major Presidential and Vice Presidential candidates, and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that includes the findings from such review, along with any recommendations for improving the provision of protection.
 
-"(a)
+#### "SEC. 4. DEFINITION.
 
-Establishment.—The United States Secret Service (hereafter in this section referred to as the 'Service'), at the direction of the Secretary of the Treasury, may establish the National Threat Assessment Center (hereafter in this section referred to as the 'Center') as a unit within the Service.
-
-"(b)
-
-Functions.—The Service may provide the following to Federal, State, and local law enforcement agencies through the Center:
-
-&emsp;"(1) Training in the area of threat assessment.
-
-&emsp;"(2) Consultation on complex threat assessment cases or plans.
-
-&emsp;"(3) Research on threat assessment and the prevention of targeted violence.
-
-&emsp;"(4) Facilitation of information sharing among all such agencies with protective or public safety responsibilities.
-
-&emsp;"(5) Programs to promote the standardization of Federal, State, and local threat assessments and investigations involving threats.
-
-&emsp;"(6) Any other activities the Secretary determines are necessary to implement a comprehensive threat assessment capability.
-
-"(c)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 2000\], the Service shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing the manner in which the Center will operate."
-
-#### Telecommunications Support to United States Secret Service by White House Communications Agency
-
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: "Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory."
-
-#### Off-Set of Costs of Protecting Former Presidents and Spouses
-
-Pub. L. 104–208, div. A, title I, §101(f) \[title V, §509\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–345, provided that: "The United States Secret Service may, during the fiscal year ending September 30, 1997, and hereafter, accept donations of money to off-set costs incurred while protecting former Presidents and spouses of former Presidents when the former President or spouse travels for the purpose of making an appearance or speech for a payment of money or any thing of value."
-
-Similar provisions were contained in the following prior appropriations acts:
-
-Pub. L. 104–52, title V, §509, Nov. 19, 1995, 109 Stat. 492.
-
-Pub. L. 103–329, title V, §514, Sept. 30, 1994, 108 Stat. 2410.
-
-Pub. L. 103–123, title V, §515, Oct. 28, 1993, 107 Stat. 1253.
-
-Pub. L. 102–393, title V, §519, Oct. 6, 1992, 106 Stat. 1759.
-
-Pub. L. 102–141, title V, §522, Oct. 28, 1991, 105 Stat. 865.
-
-Pub. L. 101–509, title V, §525, Nov. 5, 1990, 104 Stat. 1426.
-
-#### Former Vice President or Spouse; Protection
-
-Pub. L. 103–1, Jan. 15, 1993, 107 Stat. 3, provided: "That—
-
-&emsp;"(1) the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to—
-
-&emsp;&emsp;"(A) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1993, or
-
-&emsp;&emsp;"(B) his spouse,
-
-> &emsp;if the President determines that such person may thereafter be in significant danger; and
-
-&emsp;"(2) protection of any such person, pursuant to the authority provided in paragraph (1), shall continue only for such period as the President determines, except that such protection shall not continue beyond July 20, 1993, unless otherwise permitted by law."
-
-Pub. L. 96–503, Dec. 5, 1980, 94 Stat. 2740, provided: "That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to (a) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1981, or (b) his spouse, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1981, unless otherwise permitted by law."
-
-#### Secret Service Protection of Former Federal Officials
-
-Pub. L. 95–1, Jan. 19, 1977, 91 Stat. 3, provided: "That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to a person who (a) as a Federal Government official has been receiving protection by the United States Secret Service for a period immediately preceding January 20, 1977, or (b) as a member of such official's immediate family has been receiving protection by either the United States Secret Service or other security personnel of the official's department immediately preceding January 20, 1977, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1977, unless otherwise permitted by law."
-
-#### Presidential Protection Assistance Act of 1976
+"In this Act, the term 'major Presidential and Vice Presidential candidates' has the meaning given such term in section 3056 of title 18, United States Code, and includes any other Presidential or Vice Presidential candidate for whom the President has otherwise authorized the Secret Service to protect."
 
 Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, §143, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 101–136, title V, §527, Nov. 3, 1989, 103 Stat. 815; Pub. L. 101–509, title V, §531(a), Nov. 5, 1990, 104 Stat. 1469; Pub. L. 102–141, title V, §533, Oct. 28, 1991, 105 Stat. 867; Pub. L. 104–52, title V, §529, Nov. 19, 1995, 109 Stat. 496; Pub. L. 104–316, title I, §109(a), Oct. 19, 1996, 110 Stat. 3832, provided: "That this Act may be cited as the 'Presidential Protection Assistance Act of 1976'.
 
@@ -339,6 +275,88 @@ Sec. 11. Section 2 of Public Law 90–331 (82 Stat. 170) \[formerly set out as a
 Sec. 12. In carrying out the protection of the President of the United States, pursuant to section 3056(a) of title 18, at the one non-governmental property designated by the President of the United States to be fully secured by the United States Secret Service on a permanent basis, as provided in section 3.(a) of Public Law 94–524 \[section 3(a) of this note\], or at an airport facility used for travel en route to or from such property\[,\] the Secretary of the Treasury may utilize, with their consent, the law enforcement services, personnel, equipment, and facilities of the affected State and local governments. Further, the Secretary of the Treasury is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. All claims for such reimbursement by the affected governments will be submitted to the Secretary of the Treasury on a quarterly basis. Expenditures for this reimbursement are authorized not to exceed $300,000 at the one nongovernmental property, and $70,000 at the airport facility, in any one fiscal year: <i>Provided</i>, That the designated site is located in a municipality or political subdivision of any State where the permanent resident population is 7,000 or less and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments: <i>Provided further</i>, That the airport facility is wholly or partially located in a municipality or political subdivison \[sic\] of any State where the permanent resident population is 7,000 or less, the airport is located within 25 nautical miles of the designated nongovernmental property, and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### Use of Funds for United States Secret Service Protection
+
+Pub. L. 109–295, title V, §517(b), Oct. 4, 2006, 120 Stat. 1380, as amended by Pub. L. 110–161, div. E, title V, §517, Dec. 26, 2007, 121 Stat. 2073, provided that: "For fiscal year 2008, and each fiscal year thereafter, the Director of the United States Secret Service may enter into an agreement to perform protection of a Federal official other than a person granted protection under section 3056(a) of title 18, United States Code, on a fully reimbursable basis."
+
+#### Funds for Training
+
+Pub. L. 108–90, title II, Oct. 1, 2003, 117 Stat. 1145, provided in part: "That in fiscal year 2004 and thereafter, subject to the reimbursement of actual costs to this account, funds appropriated in this account shall be available, at the discretion of the Director, for the following: training United States Postal Service law enforcement personnel and Postal police officers, training Federal law enforcement officers, training State and local government law enforcement officers on a space-available basis, and training private sector security officials on a space-available basis".
+
+#### Expansion of National Electronic Crime Task Force Initiative
+
+Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, §608(b), Mar. 9, 2006, 120 Stat. 256; Pub. L. 117–286, §4(a)(136), Dec. 27, 2022, 136 Stat. 4320, provided that: "The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to chapter 10 of title 5, United States Code."
+
+#### National Threat Assessment Center
+
+Pub. L. 106–544, §4, Dec. 19, 2000, 114 Stat. 2716, provided that:
+
+"(a)
+
+Establishment.—The United States Secret Service (hereafter in this section referred to as the 'Service'), at the direction of the Secretary of the Treasury, may establish the National Threat Assessment Center (hereafter in this section referred to as the 'Center') as a unit within the Service.
+
+"(b)
+
+Functions.—The Service may provide the following to Federal, State, and local law enforcement agencies through the Center:
+
+&emsp;"(1) Training in the area of threat assessment.
+
+&emsp;"(2) Consultation on complex threat assessment cases or plans.
+
+&emsp;"(3) Research on threat assessment and the prevention of targeted violence.
+
+&emsp;"(4) Facilitation of information sharing among all such agencies with protective or public safety responsibilities.
+
+&emsp;"(5) Programs to promote the standardization of Federal, State, and local threat assessments and investigations involving threats.
+
+&emsp;"(6) Any other activities the Secretary determines are necessary to implement a comprehensive threat assessment capability.
+
+"(c)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 2000\], the Serviceshall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing the manner in which the Center will operate."
+
+#### Telecommunications Support to United States Secret Service by White House Communications Agency
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: "Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory."
+
+#### Off-Set of Costs of Protecting Former Presidents and Spouses
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §509\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–345, provided that: "The United States Secret Service may, during the fiscal year ending September 30, 1997, and hereafter, accept donations of money to off-set costs incurred while protecting former Presidents and spouses of former Presidents when the former President or spouse travels for the purpose of making an appearance or speech for a payment of money or any thing of value."
+
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 104–52, title V, §509, Nov. 19, 1995, 109 Stat. 492.
+
+Pub. L. 103–329, title V, §514, Sept. 30, 1994, 108 Stat. 2410.
+
+Pub. L. 103–123, title V, §515, Oct. 28, 1993, 107 Stat. 1253.
+
+Pub. L. 102–393, title V, §519, Oct. 6, 1992, 106 Stat. 1759.
+
+Pub. L. 102–141, title V, §522, Oct. 28, 1991, 105 Stat. 865.
+
+Pub. L. 101–509, title V, §525, Nov. 5, 1990, 104 Stat. 1426.
+
+#### Former Vice President or Spouse; Protection
+
+Pub. L. 103–1, Jan. 15, 1993, 107 Stat. 3, provided: "That—
+
+&emsp;"(1) the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to—
+
+&emsp;&emsp;"(A) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1993, or
+
+&emsp;&emsp;"(B) his spouse,
+
+> &emsp;if the President determines that such person may thereafter be in significant danger; and
+
+&emsp;"(2) protection of any such person, pursuant to the authority provided in paragraph (1), shall continue only for such period as the President determines, except that such protection shall not continue beyond July 20, 1993, unless otherwise permitted by law."
+
+Pub. L. 96–503, Dec. 5, 1980, 94 Stat. 2740, provided: "That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to (a) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1981, or (b) his spouse, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1981, unless otherwise permitted by law."
+
+#### Secret Service Protection of Former Federal Officials
+
+Pub. L. 95–1, Jan. 19, 1977, 91 Stat. 3, provided: "That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to a person who (a) as a Federal Government official has been receiving protection by the United States Secret Service for a period immediately preceding January 20, 1977, or (b) as a member of such official's immediate family has been receiving protection by either the United States Secret Service or other security personnel of the official's department immediately preceding January 20, 1977, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1977, unless otherwise permitted by law."
 
 #### Major Presidential or Vice Presidential Candidates and Spouses; Personal Protection
 

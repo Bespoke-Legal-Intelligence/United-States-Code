@@ -4,7 +4,7 @@
 
 #### (1) Extension
 
-&emsp;With respect to inpatient hospital admissions occurring during the period beginning on the first day after the end of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on December, 31, 2024, the Secretary of Health and Human Services shall grant waivers and flexibilities (as described in paragraph (2)) to an individual hospital that submits a request for such waivers and flexibilities and meets specified criteria (as described in paragraph (3)) in order to participate in the Acute Hospital Care at Home initiative of the Secretary.
+&emsp;With respect to inpatient hospital admissions occurring during the period beginning on the first day after the end of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on March 31, 2025, the Secretary of Health and Human Services shall grant waivers and flexibilities (as described in paragraph (2)) to an individual hospital that submits a request for such waivers and flexibilities and meets specified criteria (as described in paragraph (3)) in order to participate in the Acute Hospital Care at Home initiative of the Secretary.
 
 #### (2) Acute Hospital Care at Home waivers and flexibilities
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) Flexibility to allow a hospital to furnish inpatient services, including routine services, outside the hospital under arrangements, as described in Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Organ Acquisition; Rural Emergency Hospitals: Payment Policies, Conditions of Participation, Provider Enrollment, Physician Self-Referral; New Service Category for Hospital Outpatient Department Prior Authorization Process; Overall Hospital Quality Star Rating; COVID–19 (87 Fed. Reg. 71748 et seq.).
 
-&emsp;&emsp;(C) Waiver of the telehealth requirements under clause (i) <sup>1</sup> of section 1395m(m)(4)(C) of this title, as amended by section 4113(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, such that the originating sites described in clause (ii) of such section shall include the home or temporary residence of the individual.
+&emsp;&emsp;(C) Waiver of the telehealth requirements under clause (i) <sup>1</sup> of section 1395m(m)(4)(C) of this title, as amended by section 4113(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, such that the originating sites described in clause (ii) of such section shall include thehome or temporary residence of the individual.
 
 &emsp;&emsp;(D) Other waivers and flexibilities that, as of December 29, 2022, were in place for such initiative during such emergency period.
 
@@ -78,13 +78,17 @@ Notwithstanding any other provision of law, the Secretary may implement this sec
 
 The Secretary shall, as feasible, make the information collected under subsections (a)(3)(E) and (b)(1) available on the Medicare.gov internet website (or a successor website).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866G, as added Pub. L. 117–328, div. FF, title IV, §4140, Dec. 29, 2022, 136 Stat. 5926.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866G, as added Pub. L. 117–328, div. FF, title IV, §4140, Dec. 29, 2022, 136 Stat. 5926; amended Pub. L. 118–158, div. C, title II, §3208, Dec. 21, 2024, 138 Stat. 1766.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 &emsp;Section 4113(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, referred to in subsec. (a)(2)(C), is section 4113(a) of div. FF of Pub. L. 117–328, which amended subsec. (m)(2)(B)(iii), (4)(C)(iii) of section 1395m of this title.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a)(1). Pub. L. 118–158 substituted "March 31, 2025" for "December, 31, 2024".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "clause (iii)". See References in Text note below.</i>
 

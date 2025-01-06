@@ -10,7 +10,7 @@ Advances To Ensure Planning.—Notwithstanding section 3324(a) and (b) of title 
 
 (b)
 
-Uses of Advances.—A public agency or Indian tribe shall use an advance under subsection (a) to aid in financing the cost of feasibility studies, engineering and architectural surveys, designs, plans, working drawings, specifications, or other action preliminary to and in preparation for the construction of public works, and for construction in connection with the development of a medical center, a general plan for the development of the center.
+Uses of Advances.—A public agency or Indian tribe shall use an advance under subsection (a) to aid in financing the cost of feasibility studies, engineering and architectural surveys, designs, plans, working drawings, specifications, or other action preliminary to and in preparation for the construction of public works, andfor construction in connection with the development of a medical center, a general plan for the development of the center.
 
 (c)
 
@@ -24,7 +24,7 @@ Requirements for Advances.—An advance shall not be made under subsection (a) f
 
 &emsp;(2) the project conforms to an overall state, local, or regional plan approved by a competent state, local, or regional authority; and
 
-&emsp;(3) the public agency or Indian tribe formally contracts with the Federal Governmentto complete the plan preparation promptly and to repay part or all of the advance when due.
+&emsp;(3) the public agency or Indian tribe formally contracts with the Federal Government to complete the plan preparation promptly and to repay part or all of the advance when due.
 
 (e)
 

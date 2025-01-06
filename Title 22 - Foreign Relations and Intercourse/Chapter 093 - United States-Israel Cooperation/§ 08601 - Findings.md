@@ -2,7 +2,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) Since 1948, United States Presidents and both houses of Congress, on a bipartisan basisand supported by the American people, have repeatedly reaffirmed the special bond between the United States and Israel, based on shared values and shared interests.
+&emsp;(1) Since 1948, United States Presidents and both houses of Congress, on a bipartisan basis and supported by the American people, have repeatedly reaffirmed the special bond between the United States and Israel, based on shared values and shared interests.
 
 &emsp;(2) The Middle East is undergoing rapid change, bringing with it hope for an expansion of democracy but also great challenges to the national security of the United States and our allies in the region, particularly to our most important ally in the region, Israel.
 
@@ -72,7 +72,7 @@ Pub. L. 117–103, div. Z, Mar. 15, 2022, 136 Stat. 1059, provided that:
 
 &emsp;"(4) to support and encourage government-to-government and grassroots initiatives aimed at normalizing ties with the state of Israel and promoting people-to-people contact between Israelis, Arabs, and residents of other relevant countries and regions, including by expanding and enhancing the Abraham Accords;
 
-&emsp;"(5) to support a negotiated solution to the Israeli-Palestinian conflict resulting in two states livingside by side in peace, security, and mutual recognition;
+&emsp;"(5) to support a negotiated solution to the Israeli-Palestinian conflict resulting in two states living side by side in peace, security, and mutual recognition;
 
 &emsp;"(6) to implement the Nita M. Lowey Middle East Partnership for Peace Act \[of 2020\] (title VIII of division K of Public Law 116–260) \[22 U.S.C. 2346d note\], which will support economic development and peacebuilding efforts among Israelis and Palestinians, in a manner which encourages regional allies to become international donors to these efforts;
 
@@ -140,7 +140,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(7) Despite the risk of retaliatory action, a rising tide of Arab civic actors advocate direct engagement with Israeli citizens and residents. These include the Arab Council for Regional Integration, a group of 32 public figures from 15 Arab countries who oppose the boycott of Israel on the grounds that the boycott has denied Arabs the benefits of partnership with Israelis, has blocked Arabs from helping to bridge the Israeli-Palestinian divide, and inspired divisive intra-Arab boycotts among diverse sects and ethnic groups.
 
-&emsp;"(8) On February 11, 2020, a delegation of the Arab Council to the French National Assembly in Paris testified to the harmful effects of 'anti-normalization laws', called on the Assembly to enact a law instructing the relevant French authorities to issue an annual report on instances of Arab government retribution for any of their citizens or residents who call forpeace with Israel or engage in direct civil relations with Israeli citizens, and requested democratic legislatures to help defend the region's civil peacemakers.
+&emsp;"(8) On February 11, 2020, a delegation of the Arab Council to the French National Assembly in Paris testified to the harmful effects of 'anti-normalization laws', called on the Assembly to enact a law instructing the relevant French authorities to issue an annual report on instances of Arab government retribution for any of their citizens or residents who call for peace with Israel or engage in direct civil relations with Israeli citizens, and requested democratic legislatures to help defend the region's civil peacemakers.
 
 &emsp;"(9) On May 11, 2020, 85 leaders in France published an endorsement of the Arab Council's proposal, calling on France and other democratic governments to 'protect Arabs who engage in dialogue with Israeli citizens' and proposing 'the creation of a study group in the National Assembly as well as in the Senate whose mission would be to ensure a legal and technical monitoring of the obstacles which Arab proponents of dialogue with Israelis face'.
 

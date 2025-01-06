@@ -10,7 +10,7 @@
 
 #### Pilot Program on Dynamic Shaping of the Workforce To Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories
 
-Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593; Pub. L. 117–263, div. A, title XI, §1110, Dec. 23, 2022, 136 Stat. 2820, provided that:
+Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593; Pub. L. 117–263, div. A, title XI, §1110, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 118–159, div. A, title XI, §1113, Dec. 23, 2024, 138 Stat. 2090, provided that:
 
 "(a)
 
@@ -54,11 +54,11 @@ Reemployment of annuitants.—Authorities to authorize the director of any scien
 
 &emsp;"(3)
 
-Early retirement incentives.—Authorities to authorize the director of any STRL to authorize voluntary early retirement of employees in accordance with section 8336 of title 5, United States Code, without regard to section 8336(d)(2)(D) or 3522 of such title, and with employees so separated voluntarily from service.
+Early retirement incentives.—Authorities to authorize the director of any STRL to authorize voluntary early retirement of employees in accordance with section 8336 or 8414 of title 5, United States Code, without regard to section 8336(d)(2)(D) or 8414(b)(1)(B) of such title, and with employees so separated voluntarily from service.
 
 &emsp;"(4)
 
-Separation incentive pay.—Authorities to authorize the director of any STRL to pay voluntary separation pay to employees in accordance with section 8414(b)(1)(B) of title 5, United States Code, without regard to clause (iv) or (v) of such section or section 3522 of such title, and with—
+Separation incentive pay.—Authorities to authorize the director of any STRL to pay voluntary separation pay to employees in accordance with section 3522 of title 5, United States Code, and with—
 
 &emsp;&emsp;"(A) employees so separated voluntarily from service under regulations prescribed by the Secretary of Defense for purposes of the pilot program; and
 
@@ -70,7 +70,7 @@ Separation incentive pay.—Authorities to authorize the director of any STRL to
 
 "(c)
 
-Laboratories.—The Department of Defense laboratories specified in this subsection are the laboratories designated under section 4121(b) of title 10, United States Code.
+Laboratories.—The Department of Defense laboratories specified in this subsection are the laboratories designated under subsections (a) and (b) of section 4121 of title 10, United States Code.
 
 "(d)
 
@@ -82,7 +82,7 @@ In general.—The authority in this section shall expire on December 31, 2027.
 
 &emsp;"(2)
 
-Continuation of authorities exercised before termination.—The expiration in paragraph (1) shall not be construed to effect the continuation after the date specified in paragraph (1) of any term of employment or other benefit authorized under this section before that date in accordance with the terms of such authorization."
+Continuation of authorities exercised before termination.—The expiration in paragraph (1) shall not be construed to effect the continuation after the date specified in paragraph (1) of any term of employment or other benefit authorized under thissection before that date in accordance with the terms of such authorization."
 
 #### Pilot Program on Assignment to Defense Advanced Research Projects Agency of Private Sector Personnel With Critical Research and Development Expertise
 
@@ -184,6 +184,6 @@ Definitions.—In this section:
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 04091 - Authorities for certain positions at science and technology reinvention laboratories](%C2%A7%2004091%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md)
-- [&sect; 04092 - Personnel management authority to attract experts in science and engineering](%C2%A7%2004092%20-%20Personnel%20management%20authority%20to%20attract%20experts%20in%20science%20and%20engineering.md)
+- [&sect; 04092 - Personnel management authority to attract experts in science, engineering, and certain other disciplines](%C2%A7%2004092%20-%20Personnel%20management%20authority%20to%20attract%20experts%20in%20science%2C%20engineering%2C%20and%20certain%20other%20disciplines.md)
 - [&sect; 04093 - Science, Mathematics, and Research for Transformation (SMART) Defense Education Program](%C2%A7%2004093%20-%20Science%2C%20Mathematics%2C%20and%20Research%20for%20Transformation%20%28SMART%29%20Defense%20Education%20Program.md)
 - [&sect; 04094 - Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories](%C2%A7%2004094%20-%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories.md)

@@ -12,7 +12,7 @@ Notwithstanding any other provision of law (other than the Trafficking Victims P
 
 &emsp;(2) to support the organization of free, fair, and credible elections in Sudan;
 
-&emsp;(3) to provide technical support for legal and policy reforms that improve transparency and accountability and protect human rights, including religious freedom, and civil liberties in Sudan;
+&emsp;(3) to provide technical support for legal and policy reforms that improve transparency andaccountability and protect human rights, including religious freedom, and civil liberties in Sudan;
 
 &emsp;(4) to support human rights and fundamental freedoms in Sudan, including the freedoms of—
 

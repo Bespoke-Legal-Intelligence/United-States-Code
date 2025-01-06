@@ -6,7 +6,7 @@ The Congress finds and declares that:
 
 &emsp;(2) Technology and industrial innovation offer an improved standard of living, increased public and private sector productivity, creation of new industries and employment opportunities, improved public services and enhanced competitiveness of United States products in world markets.
 
-&emsp;(3) Many new discoveries and advances in science occur in universities and Federal laboratories, while the application of this new knowledge to commercial and useful public purposes depends largely upon actions by business and labor. Cooperation among academia, Federal laboratories, labor, and industry, in such forms as technology transfer, personnel exchange, joint research projects, and others, should be renewed, expanded, and strengthened.
+&emsp;(3) Many new discoveries and advances in science occur in universities and Federal laboratories, while the application of this new knowledge to commercial and useful publicpurposes depends largely upon actions by business and labor. Cooperation among academia, Federal laboratories, labor, and industry, in such forms as technology transfer, personnel exchange, joint research projects, and others, should be renewed, expanded, and strengthened.
 
 &emsp;(4) Small businesses have performed an important role in advancing industrial and technological innovation.
 
@@ -48,7 +48,7 @@ Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: "This Act \[
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: "This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title andsection 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'American Technology Preeminence Act of 1991'."
+Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: "This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'American Technology Preeminence Act of 1991'."
 
 Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: "This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'Technology Administration Authorization Act of 1991'."
 
@@ -66,7 +66,7 @@ Pub. L. 100–107, §1, Aug. 20, 1987, 101 Stat. 724, provided that: "This Act \
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–502, §1, Oct. 20, 1986, 100 Stat. 1785, provided that: "This Act \[enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title\] may be cited as the 'Federal Technology Transfer Act of 1986'. "
+Pub. L. 99–502, §1, Oct. 20, 1986, 100 Stat. 1785, provided that: "This Act \[enacting sections 3710a to 3710d of thistitle, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title\] may be cited as the 'Federal Technology Transfer Act of 1986'. "
 
 Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: "That this Act \[amending section 3704 of this title\] may be cited as the 'Japanese Technical Literature Act of 1986'."
 
@@ -376,7 +376,7 @@ Establishment of Commission.—The Secretary, in consultation with the Administr
 
 Issues.—The Commission shall address the following issues:
 
-&emsp;"(1) To what extent, if any, should Federal Government technology purchase strategies be used to give domestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
+&emsp;"(1) To what extent, if any, should Federal Government technology purchase strategies be used to givedomestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
 
 &emsp;"(2) Under what conditions can Federal Government purchases of advanced technology-based products be based on performance specifications rather than on product specifications? Should Federal Government procurement first look to the commercial markets for products that will meet performance specifications before purchasing a unique product that has to be developed?
 

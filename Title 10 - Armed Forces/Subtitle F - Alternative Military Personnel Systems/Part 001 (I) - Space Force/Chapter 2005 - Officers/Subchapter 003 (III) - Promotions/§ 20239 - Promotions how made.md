@@ -36,9 +36,9 @@ Promotions to grade of first lieutenant.—Officers to be promoted to the grade 
 
 Promotion of First Lieutenants on an All-fully-qualified Officers List.—(1) Except as provided in subsection (f), officers on the Space Force officer list in the grade of first lieutenant who are on an approved all-fully-qualified-officers list shall be promoted to the grade of captain in accordance with regulations prescribed by the Secretary of the Air Force.
 
-(2) An all-fully-qualified-officers list shall be considered to be approved for purposes of subparagraph (A) <sup>1</sup> when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
+(2) An all-fully-qualified-officers list shall be considered to be approved for purposes of paragraph (1) when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
 
-(3) The Secretary of the Air Force may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
+(3) The Secretary of the Air Force may make a recommendation to the President for approval of an all-fully-qualified-officers list only whenthe Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
 
 (4) For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officers on the Space Force officer list in a grade who the Secretary of the Air Force determines—
 
@@ -58,7 +58,7 @@ General rule.—The date of rank of an officer appointed to a higher grade under
 
 &emsp;(2)
 
-Adjustments.—The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting "Space Force officer list" for "active-duty list".
+Adjustments.—The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, section 741(d)(4)(C)(ii) of this title shall be applied by substituting "Space Force officer list" for "active-duty list".
 
 &emsp;(3)
 
@@ -72,13 +72,13 @@ Delay of Promotions to General Officer Grades to Comply With Strength Limitation
 
 Authority to Delay Appointments for Specified Reasons.—The provisions of section 14311 of this title shall apply to the appointment of an officer under this section in the same manner as they apply to an appointment of an officer under that section, and any reference in that section to an reserve active-status list shall be treated for purposes of applicability to an officer of the Space Force as referring to the Space Force officer list.
 
-(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 645.)
+(Added Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 645; amended Pub. L. 118–159, div. A, title V, §521(s), Dec. 23, 2024, 138 Stat. 1882.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Subparagraph (C)(ii) of such section, referred to in subsec. (d)(2), probably means subparagraph (C)(ii) of section 741(d)(4) of this title.
+<b>2024</b>—Subsec. (c)(2). Pub. L. 118–159, §521(s)(1), substituted "paragraph (1)" for "subparagraph (A)".
 
-<i><sup>1</sup></i><i> So in original.</i>
+Subsec. (d)(2). Pub. L. 118–159, §521(s)(2), substituted "section 741(d)(4)(C)(ii) of this title" for "subparagraph (C)(ii) of such section".
 

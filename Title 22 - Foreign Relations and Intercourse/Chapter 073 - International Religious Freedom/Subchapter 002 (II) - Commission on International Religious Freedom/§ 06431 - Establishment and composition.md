@@ -16,7 +16,7 @@ There is established the United States Commission on International Religious Fre
 
 &emsp;&emsp;&emsp;(i) Three members of the Commission shall be appointed by the President.
 
-&emsp;&emsp;&emsp;(ii) Three members of the Commission shall be appointed by the President pro tempore of the Senate, of which two of the members shall be appointed upon the recommendation of the leader in the Senate of the political party that is not the political party of the President, and of which one of the members shall be appointedupon the recommendation of the leader in the Senate of the other political party.
+&emsp;&emsp;&emsp;(ii) Three members of the Commission shall be appointed by the President pro tempore of the Senate, of which two of the members shall be appointed upon the recommendation of the leader in the Senate of the political party that is not the political party of the President, and of which one of the members shall be appointed upon the recommendation of the leader in the Senate of the other political party.
 
 &emsp;&emsp;&emsp;(iii) Three members of the Commission shall be appointed by the Speaker of the House of Representatives, of which two of the members shall be appointed upon the recommendation of the leader in the House of the political party that is not the political party of the President, and of which one of the members shall be appointed upon the recommendation of the leader in the House of the other political party.
 
@@ -62,7 +62,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (3) Ineligibility for reappointment
 
-&emsp;If a member of the Commission attends, by being physically present or by conference call, less than 75 percent of the meetings of the Commission during one of that member's terms on the Commission, the member shall not be eligible for reappointment to the Commission.
+&emsp;If a member of the Commission attends, by being physically present or by conference call, less than 75 percent of the meetings of theCommission during one of that member's terms on the Commission, the member shall not be eligible for reappointment to the Commission.
 
 #### (d) Election of Chair and Vice Chair
 
@@ -118,7 +118,7 @@ Subsec. (c)(3). Pub. L. 112–75, §2(a)(2), added par. (3).
 
 Subsec. (d). Pub. L. 112–75, §2(b), inserted at end "No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term."
 
-Subsec. (i). Pub. L. 112–75, §2(c), inserted at end "Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the 'Federal Travel Regulation') and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements."
+Subsec. (i). Pub. L. 112–75, §2(c), inserted at end "Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the 'Federal Travel Regulation') and the Department of State Standardized Regulations governing authorized travel at government expense, including regulationsconcerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements."
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–228, §681(b), added par. (2).
 
@@ -132,7 +132,7 @@ Subsec. (b)(1)(B)(iii). Pub. L. 106–55, §2(b), substituted "Three" for "three
 
 Subsec. (c). Pub. L. 106–55, §1(a)(1), designated existing provisions as par. (1) and inserted par. heading.
 
-Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commissionto perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege."
+Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

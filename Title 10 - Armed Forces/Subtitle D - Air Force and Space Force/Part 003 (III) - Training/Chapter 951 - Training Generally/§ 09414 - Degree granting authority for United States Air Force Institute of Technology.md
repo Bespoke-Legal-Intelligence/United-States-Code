@@ -26,7 +26,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (d)
 
-Civilian Faculty.—(1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with the needs of the Air Force or the Space Force and with Department of Defense personnel limits.
+Civilian Faculty.—(1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with theneeds of the Air Force or the Space Force and with Department of Defense personnel limits.
 
 (2) The Secretary shall prescribe regulations determining—
 

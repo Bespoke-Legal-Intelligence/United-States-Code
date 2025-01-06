@@ -26,7 +26,7 @@ Grants awarded under section 11382 of this title to qualified applicants shall b
 
 &emsp;(9) Operation of, participation in, and ensuring consistent participation by project sponsors in, a community-wide homeless management information system.
 
-&emsp;(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section 11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
+&emsp;(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
 
 &emsp;(11) In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title, payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).
 
@@ -76,7 +76,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 #### (2) Prevention of undue benefits
 
-&emsp;Except as provided in paragraph (3), if any property is used for a project that receives assistance under subsection (a) and consists of activities described in paragraph (1) or (2) of subsection (a), and the sale or other disposition of the property occurs before the expiration of the 15-year period beginning on the date that operation of the project begins, the recipient or project sponsor who received the assistance shall comply with such terms andconditions as the Secretary may prescribe to prevent the recipient or project sponsor from unduly benefitting from such sale or disposition.
+&emsp;Except as provided in paragraph (3), if any property is used for a project that receives assistance under subsection (a) and consists of activities described in paragraph (1) or (2) of subsection (a), and the sale or other disposition of the property occurs before the expiration of the 15-year period beginning on the date that operation of the project begins, the recipient or project sponsor who received the assistance shall comply with such terms and conditions as the Secretary may prescribe to prevent the recipient or project sponsor from unduly benefitting from such sale or disposition.
 
 #### (3) Exception
 

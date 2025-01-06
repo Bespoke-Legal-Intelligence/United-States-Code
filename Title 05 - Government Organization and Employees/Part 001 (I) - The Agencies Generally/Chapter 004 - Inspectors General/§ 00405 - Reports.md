@@ -138,7 +138,7 @@ Semiannual Reports.—Each Inspector General shall, not later than April 30 and 
 
 &emsp;(18) a description of the metrics used for developing the data for the statistical tables under paragraph (17);
 
-&emsp;(19) a report on each investigation conducted by the Office involving a senior Governmentemployee where allegations of misconduct were substantiated, including the name of the senior government official (as defined by the department or agency) if already made public by the Office, and a detailed description of—
+&emsp;(19) a report on each investigation conducted by the Office involving a senior Government employee where allegations of misconduct were substantiated, including the name of the senior government official (as defined by the department or agency) if already made public by the Office, and a detailed description of—
 
 &emsp;&emsp;(A) the facts and circumstances of the investigation; and
 
@@ -198,9 +198,31 @@ Furnishing Semiannual Reports to Head of Establishment and Congress.—Semiannua
 
 &emsp;&emsp;(D) for which no final action has been taken by the end of the reporting period;
 
-&emsp;(4) whether the establishment entered into a settlement agreement with the official described in subsection (b)(20)(A), which shall be reported regardless of any confidentiality agreement relating to the settlement agreement; and
+&emsp;(4) whether the establishment entered into a settlement agreement with the official described in subsection (b)(20)(A), which shall be reported regardless of any confidentiality agreement relating to the settlement agreement;
 
-&emsp;(5) a statement with respect to audit reports on which management decisions have been made but final action has not been taken, other than audit reports on which a management decision was made within the preceding year, containing—
+&emsp;(5) information relating to cases under chapter 38 of title 31, including—
+
+&emsp;&emsp;(A) the number of reports submitted by investigating officials to reviewing officials under section 3803(a)(1) of such title;
+
+&emsp;&emsp;(B) actions taken in response to reports described in subparagraph (A), which shall include statistical tables showing—
+
+&emsp;&emsp;&emsp;(i) pending cases;
+
+&emsp;&emsp;&emsp;(ii) resolved cases;
+
+&emsp;&emsp;&emsp;(iii) the average length of time to resolve each case;
+
+&emsp;&emsp;&emsp;(iv) the number of final agency decisions that were appealed to a district court of the United States or a higher court; and
+
+&emsp;&emsp;&emsp;(v) if the total number of cases in a report is greater than 2—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of cases that were settled; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the total penalty or assessment amount recovered in each case, including through a settlement or compromise; and
+
+&emsp;&emsp;(C) instances in which the reviewing official declined to proceed on a case reported by an investigating official; and
+
+&emsp;(6) a statement with respect to audit reports on which management decisions have been made but final action has not been taken, other than audit reports on which a management decision was made within the preceding year, containing—
 
 &emsp;&emsp;(A) a list of such audit reports and the date each such report was issued;
 
@@ -218,7 +240,7 @@ Reports Available to Public.—Within 60 days of the transmission of the semiann
 
 (e)
 
-Reporting Serious Problems, Abuses, or Deficiencies.—Each Inspector General shall report immediately to the head of the establishment involved whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relatingto the administration of programs and operations of the establishment. The head of the establishment shall transmit any such report to the appropriate committees or subcommittees of Congress within 7 calendar days, together with a report by the head of the establishment containing any comments the establishment head deems appropriate.
+Reporting Serious Problems, Abuses, or Deficiencies.—Each Inspector General shall report immediately to the head of the establishment involved whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs and operations of the establishment. The head of the establishment shall transmit any such report to the appropriate committees or subcommittees of Congress within 7 calendar days, together with a report by the head of the establishment containing any comments the establishment head deems appropriate.
 
 (f)
 
@@ -250,11 +272,11 @@ Provision of information to members of congress.—Subject to any other provisio
 
 Protection of personally identifiable information of whistleblowers.—An Office may not provide to Congress or the public any information that reveals the personally identifiable information of a whistleblower under this section unless the Office first obtains the consent of the whistleblower.
 
-(Pub. L. 117–286, §3(b), Dec. 27, 2022, 136 Stat. 4212.)
+(Pub. L. 117–286, §3(b), Dec. 27, 2022, 136 Stat. 4212; Pub. L. 118–159, div. E, title LII, §5203(e), Dec. 23, 2024, 138 Stat. 2441.)
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 5 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 5 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§5235, 5241, 5272(1), 5273(2), 5274(a), Dec. 23, 2022, 136 Stat. 3236, 3237, 3239, 3241, 3244, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 5 of Pub. L. 95–452 was amended as follows:</i>
+<i>This section was derived from section 5 of the Inspector General Act of 1978, Pub. L. 95–452, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021.</i><i>Section 5 of Pub. L. 95–452 was amended by Pub. L. 117–263, div. E, title LII, §§5235, 5241, 5272(1), 5273(2), 5274(a), Dec. 23, 2022, 136 Stat. 3236, 3237, 3239, 3241, 3244, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 5 of Pub. L. 95–452 was amended as follows:</i>
 
 <i>(1) in subsection (a) \[enacted by Pub. L. 117–286 as subsection (b) of this section\]—</i>
 
@@ -302,7 +324,7 @@ Protection of personally identifiable information of whistleblowers.—An Office
 
 &emsp;&emsp;&emsp;<i>"(i) with budget constraints designed to limit the capabilities of the Office; and</i>
 
-&emsp;&emsp;&emsp;<i>"(ii) incidents where the establishment has resisted or objected to oversight activities of the Office or restricted or significantly de</i><i>layed access to information, including the justification of the establishment for such action; and</i>
+&emsp;&emsp;&emsp;<i>"(ii) incidents where the establishment has resisted or objected to oversight activities of the Office or restricted or significantly delayed access to information, including the justification of the establishment for such action; and</i>
 
 &emsp;&emsp;<i>"(B) a summary of each report made to the head of the establishment under section 6(c)(2) during the reporting period;";</i>
 
@@ -338,7 +360,7 @@ Protection of personally identifiable information of whistleblowers.—An Office
 
 &emsp;&emsp;&emsp;&emsp;<i>"(V) recommendations that management has subsequently concluded should not or could not be implemented or completed; and</i>
 
-&emsp;&emsp;&emsp;<i>"(iii) total number of reports where final action was not taken and total number of reports where final action was taken, including the total corresponding dollar value of disallowed costs and funds to be put to better use as agreed to in the management decisions;";</i>
+&emsp;&emsp;&emsp;<i>"(iii) total number of reports where final action was not taken and total number of reports where final action was taken, including the total corresponding dollar value of dis</i><i>allowed costs and funds to be put to better use as agreed to in the management decisions;";</i>
 
 <i>(C) by redesignating paragraph (4) as paragraph (3);</i>
 
@@ -406,7 +428,7 @@ Protection of personally identifiable information of whistleblowers.—An Office
 
 &emsp;&emsp;&emsp;<i>"(I) 30 days to review the audit, evaluation, inspection, or non-investigative report beginning on the date of publication of the audit, evaluation, inspection, or non-investigative report; and</i>
 
-&emsp;&emsp;&emsp;<i>"(II) the opportunity to submit a written response for the purpose of clarifying or providing additional context as it directly relates to each instance wherein an audit, evaluation, inspection, or non-investigative report specifically identifies that non-governmental organization or business entity; and</i>
+&emsp;&emsp;&emsp;<i>"(II) the opportunity to submit a written response for the purpose of clarifying or providing additional context as it directly relates to each instance wherein an audit, evaluation, inspection, or non-investigative report</i><i>specifically identifies that non-governmental organization or business entity; and</i>
 
 &emsp;&emsp;<i>"(iii) if a written response is submitted under clause (ii)(II) within the 30-day period described in clause (ii)(I)—</i>
 
@@ -457,6 +479,10 @@ The General Schedule, referred to in subsec. (a)(6)(A), is set out under section
 Commissioned officer pay grades O–6 and above, referred to in subsec. (a)(6)(B), is described in section 201 of Title 37, Pay and Allowances of the Uniformed Services, and is set out under section 5332 of this title.
 
 Section 804(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (b)(13), is section 101(f) \[title VIII, §804(b)\] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which is set out in a note under section 3512 of Title 31, Money and Finance.
+
+#### Amendments
+
+<b>2024</b>—Subsec. (c)(5), (6). Pub. L. 118–159 added par. (5) and redesignated former par. (5) as (6).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -562,7 +588,7 @@ Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended b
 
 Management Decisions.—(1) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of the inspector general of the agency within a maximum of six months after the issuance of the report.
 
-"(2) The head of a Federal agency shall make management decisions on all findings and recommendationsset forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
+"(2) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
 
 "(b)
 

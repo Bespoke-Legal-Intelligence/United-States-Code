@@ -20,6 +20,8 @@ The last sentence of this section is from section 2 of act June 7, 1924.
 
 <b>1928</b>—Act May 12, 1928, changed description of land in section 8 from "west half of the southwest quarter" to "west half of the southeast quarter".
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name

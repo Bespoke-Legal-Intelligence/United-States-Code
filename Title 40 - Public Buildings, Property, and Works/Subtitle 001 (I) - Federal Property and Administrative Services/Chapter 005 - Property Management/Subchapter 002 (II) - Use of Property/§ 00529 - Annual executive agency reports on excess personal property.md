@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services a report on personal property—
+In General.—During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on personal property—
 
 &emsp;(1) obtained as—
 
@@ -22,7 +22,27 @@ Required Information.—The report must set out the categories of equipment and 
 
 &emsp;(3) other information the Administrator may require.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1086.)
+(c)
+
+Compilation of Data.—Not later than 180 days following the close of a fiscal year, the Administrator shall compile the data in the reports submitted under subsection (a) and submit to the Committee on Homeland Security <sup>1</sup> Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives and publish on a centralized online website a publicly available report, which shall include—
+
+&emsp;(1) the complete data provided in each report in a user-friendly format;
+
+&emsp;(2) a summary of the findings of each report, including the aggregate dollar amount of personal property determined to be no longer required for the purpose of the appropriation used to make the purchase; and
+
+&emsp;(3) any other recommendations from the Administrator.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1086; Pub. L. 118–99, §2(a)(1), (e)(1), Oct. 1, 2024, 138 Stat. 1578, 1579.)
+
+#### Amendment of Section
+
+<i>Pub. L. 118–99, §2(e)(1), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is amended:</i>
+
+<i>(1) in subsection (a), in the matter preceding paragraph (1), by striking "and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives"; and</i>
+
+<i>(2) by striking subsection (c).</i>
+
+<i>See 2024 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -43,4 +63,24 @@ June 30, 1949, ch. 288, title II, §202(e), as added Pub. L. 94–519, §3, Oct.
 In subsection (a)(2), the words "in any manner whatsoever" are omitted as unnecessary.
 
 In subsection (b), the words "set out the categories of equipment" are substituted for "showing . . . categories of equipment" to clarify the required form and content of the report. The words "The Administrator shall submit a report to the Senate (or to the Secretary of the Senate if the Senate is not in session) and to the House of Representatives (or to the Clerk of the House if the House is not in session) summarizing and analyzing the reports of the executive agencies" are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 173 of House Document No. 103–7.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (a). Pub. L. 118–99, §2(e)(1)(A), struck out "and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives" after "Administrator of General Services" in introductory provisions.
+
+Pub. L. 118–99, §2(a)(1)(A), inserted "and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives" after "Administrator of General Services" in introductory provisions.
+
+Subsec. (c). Pub. L. 118–99, §2(e)(1)(B), struck out subsec. (c) which related to compilation of data in the reports submitted under subsection (a).
+
+Pub. L. 118–99, §2(a)(1)(B), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2024 Amendment
+
+Pub. L. 118–99, §2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(1) is effective on the date that is 5 years after Oct. 1, 2024.
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should appear.</i>
 

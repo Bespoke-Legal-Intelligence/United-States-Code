@@ -44,7 +44,7 @@ In general.—The amount of the tax imposed by subsection (a) shall be the sum o
 
 &emsp;"(D) 35 percent of so much of the taxable income as exceeds $10,000,000.
 
-> &emsp;In the case of a corporation which has taxable income in excess of $100,000 for any taxable year, the amount of tax determined under the preceding sentence for such taxable year shall be increased by the lesser of (i) 5 percent of such excess, or (ii) $11,750. In the case of a corporation which has taxable income in excess of $15,000,000, the amount of the tax determined under the foregoing provisions of this paragraph shall be increased by an additional amount equal to the lesser of (i) 3 percent of such excess, or (ii) $100,000.
+> &emsp;In the case of a corporation which has taxable income in excess of $100,000 for any taxable year, the amount of tax determined under the preceding sentence forsuch taxable year shall be increased by the lesser of (i) 5 percent of such excess, or (ii) $11,750. In the case of a corporation which has taxable income in excess of $15,000,000, the amount of the tax determined under the foregoing provisions of this paragraph shall be increased by an additional amount equal to the lesser of (i) 3 percent of such excess, or (ii) $100,000.
 
 "(2)
 
@@ -154,7 +154,7 @@ Subsec. (d)(3). Pub. L. 86–779 inserted "and real estate investment trusts" af
 
 #### Effective Date of 2022 Amendment
 
-Pub. L. 117–169, title I, §10101(f), Aug. 16, 2022, 136 Stat. 1828, provided that: "The amendments made bythis section \[enacting section 56A of this title and amending this section and sections 12, 38, 53, 55, 59, 860E, 882, 897, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 2022."
+Pub. L. 117–169, title I, §10101(f), Aug. 16, 2022, 136 Stat. 1828, provided that: "The amendments made by this section \[enacting section 56A of this title and amending this section and sections 12, 38, 53, 55, 59, 860E, 882, 897, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 2022."
 
 #### Effective Date of 2017 Amendment
 
@@ -248,5 +248,5 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 #### Allocation of 1975 Taxable Income Among Component Members of Controlled Group of Corporations
 
-Pub. L. 94–12, title III, §303(c)(1), Mar. 29, 1975, 89 Stat. 44, provided in part that: "In applying subsection (b)(2)of section 11 \[former subsec. (b)(2) of this section\], the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated."
+Pub. L. 94–12, title III, §303(c)(1), Mar. 29, 1975, 89 Stat. 44, provided in part that: "In applying subsection (b)(2) of section 11 \[former subsec. (b)(2) of this section\], the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated."
 

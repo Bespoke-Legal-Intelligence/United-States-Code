@@ -8,7 +8,7 @@ Subject to subtitle B of the Consumer Protection Financial Protection Act of 201
 
 &emsp;&emsp;(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks),branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
 
 &emsp;&emsp;(C) banks and State savings associations insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), and insured State branches of foreign banks;
 
@@ -32,7 +32,7 @@ Subject to subtitle B of the Consumer Protection Financial Protection Act of 201
 
 #### (b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
+For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it bylaw. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
@@ -82,7 +82,7 @@ Subsec. (a)(1). Pub. L. 111–203, §1085(4)(A)(ii), added par. (1) and struck o
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board; and
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 Subsec. (a)(2) to (9). Pub. L. 111–203, §1085(4)(A)(ii)–(vi), added par. (9), redesignated former pars. (3) to (9) as (2) to (8), respectively, and struck out former par. (2) which read as follows: "Section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation."
 

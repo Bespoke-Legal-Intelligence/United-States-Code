@@ -1,6 +1,6 @@
 ### §673b. National Elk Refuge in Wyoming
 
-The following-described lands of the Jackson Hole National Monument are made a part of the National Elk Refuge and shall be administered hereafter in accordance with the laws applicable to said refuge:
+The following-described lands of the Jackson Hole National Monument are made a part of theNational Elk Refuge and shall be administered hereafter in accordance with the laws applicable to said refuge:
 
 sixth principal meridian
 

@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services (including specialty referral when medically indicated) and other health-related services (including substance use disorder and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 

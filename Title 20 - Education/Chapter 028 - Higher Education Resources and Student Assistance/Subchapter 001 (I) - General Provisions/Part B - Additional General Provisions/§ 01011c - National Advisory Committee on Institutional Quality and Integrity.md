@@ -128,9 +128,9 @@ The Committee shall—
 
 #### (f) Termination
 
-The Committee shall terminate on September 30, 2021.
+The Committee shall terminate on September 30, 2021.<sup>1</sup>
 
-(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §305, Dec. 27, 2020, 134 Stat. 1608; Pub. L. 117–286, §4(a)(146), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592;amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §305, Dec. 27, 2020, 134 Stat. 1608; Pub. L. 117–286, §4(a)(146), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
 
@@ -142,7 +142,7 @@ A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–
 
 #### Amendments
 
-<b>2022</b>—Subsec. (d)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5 shallapply to the Committee, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act" in text.
+<b>2022</b>—Subsec. (d)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act" in text.
 
 <b>2020</b>—Subsec. (f). Pub. L. 116–260 substituted "2021" for "2020".
 
@@ -168,9 +168,11 @@ Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided th
 
 #### Termination of Committee
 
-Pub. L. 117–328, div. H, title III, §305, Dec. 29, 2022, 136 Stat. 4897, provided that: "Section 114(f) of the HEA \[Higher Education Act of 1965\] (20 U.S.C. 1011c(f)) shall be applied by substituting '2023' for '2021'."
+Pub. L. 118–47, div. D, title III, §305, Mar. 23, 2024, 138 Stat. 692, provided that: "Section 114(f) of the HEA \[Higher Education Act of 1965\] (20 U.S.C. 1011c(f)) shall be applied by substituting '2024' for '2021'."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title III, §305, Dec. 29, 2022, 136 Stat. 4897.
 
 Pub. L. 117–103, div. H, title III, §305, Mar. 15, 2022, 136 Stat. 484.
 
@@ -183,4 +185,6 @@ Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided th
 &emsp;"(2) no new members shall be appointed to the National Advisory Committee on Institutional Quality and Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
 
 &emsp;"(3) no meeting of the National Advisory Committee on Institutional Quality and Integrity shall be convened during such period."
+
+<i><sup>1</sup></i><i> See Termination of Committee note below.</i>
 

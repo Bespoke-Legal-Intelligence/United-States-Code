@@ -20,7 +20,7 @@ Subject to subsection (b), nothing in this part (or part C insofar as it applies
 
 &emsp;To the extent that any provision of this part conflicts with a provision of part A with respect to health insurance issuers providing health insurance coverage in the individual market in a State, the provisions of such part A shall apply.
 
-(July 1, 1944, ch. 373, title XXVII, §2762, formerly §2746, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1987; renumbered §2762 and amended, Pub. L. 104–204, title VI, §605(a)(2), (b)(3), Sept. 26, 1996, 110 Stat. 2941, 2942; Pub. L. 111–148, title I, §1563(c)(15), formerly §1562(c)(15), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 269, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2762, formerly §2746, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1987; renumbered §2762 and amended, Pub. L. 104–204, title VI, §605(a)(2), (b)(3), Sept. 26, 1996, 110 Stat. 2941, 2942; Pub. L.111–148, title I, §1563(c)(15), formerly §1562(c)(15), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 269, 911.)
 
 #### <b>Editorial Notes</b>
 

@@ -40,7 +40,7 @@ The comprehensive policy developed under subsection (a) shall, at minimum, addre
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Under Secretary, shall establish victim advocates to advocate for victims of sexual assaults involving employees of the Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+&emsp;The Secretary, acting through the Under Secretary, shall establish victim advocates toadvocate for victims of sexual assaults involving employees of the Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
 
 #### (2) Victim advocates
 

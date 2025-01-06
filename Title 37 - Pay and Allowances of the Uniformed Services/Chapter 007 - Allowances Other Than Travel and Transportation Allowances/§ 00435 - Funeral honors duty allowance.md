@@ -10,7 +10,7 @@ Allowance Authorized.—(1) The Secretary concerned may authorize payment of an 
 
 Amount.—The daily rate of an allowance under this section is $50.
 
-(Added Pub. L. 106–65, div. A, title V, §578(j), Oct. 5, 1999, 113 Stat. 630, §435; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(b), title X,§1087(c)(1)(A)(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, 1654A–292; Pub. L. 107–107, div. A, title V, §561(b), Dec. 28, 2001, 115 Stat. 1119; renumbered §495 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(32), Dec. 31, 2011, 125 Stat. 1460, 1464; renumbered §435 and amended Pub. L. 116–283, div. A, title VI, §604(b), Jan. 1, 2021, 134 Stat. 3672.)
+(Added Pub. L. 106–65, div. A, title V, §578(j), Oct. 5, 1999, 113 Stat. 630, §435; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(b), title X, §1087(c)(1)(A)(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, 1654A–292; Pub. L. 107–107, div. A, title V, §561(b), Dec. 28, 2001, 115 Stat. 1119; renumbered §495 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(32), Dec. 31, 2011, 125 Stat. 1460, 1464; renumbered §435 and amended Pub. L. 116–283, div. A, title VI, §604(b), Jan. 1, 2021, 134 Stat. 3672.)
 
 #### <b>Editorial Notes</b>
 

@@ -12,7 +12,7 @@ A person may not be compelled to give his testimony or statement or to produce a
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§649–653, 701, 703, 704 (R.S. §§871–875, 4071, 4073, 4074; Feb. 27, 1877, ch. 69,§1, 19 Stat. 241; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921).
+Based on title 28, U.S.C., 1940 ed., §§649–653, 701, 703, 704 (R.S. §§871–875, 4071, 4073, 4074; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921).
 
 Sections 649–652 of title 28, U.S.C., 1940 ed., applied only to the District of Columbia and contained detailed provisions for issuing subpoenas, payment of witness fees and procedure for ordering and taking depositions. These matters are all covered by Federal Rules of Civil Procedure, Rules 26–32.
 

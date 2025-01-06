@@ -60,7 +60,7 @@ The Director may provide additional reports to Congress concerning the financial
 
 #### (1) In general
 
-&emsp;The Director may require from a financial company, by subpoena, the production of the data requested under subsection (a)(1) and section 5344(b)(1) of this title, but only upon a written finding by the Director that—
+&emsp;The Director may require from a financial company, by subpoena, the production of thedata requested under subsection (a)(1) and section 5344(b)(1) of this title, but only upon a written finding by the Director that—
 
 &emsp;&emsp;(A) such data is required to carry out the functions described under this part; and
 

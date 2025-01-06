@@ -32,7 +32,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (3) Service criteria
 
-&emsp;Subject to paragraphs (1) and (2), the regulations issued under this section shall establish minimum service criteria for determining the level of services to be required under this section.
+&emsp;Subject to paragraphs (1) and (2), the regulations issued under this section shall establishminimum service criteria for determining the level of services to be required under this section.
 
 #### (4) Undue financial burden limitation
 
@@ -74,7 +74,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (2) Disapproval
 
-&emsp;If the Secretary determines that a plan reviewed under this subsection fails to meet therequirements of this section, the Secretary shall disapprove the plan and notify the public entity which submitted the plan of such disapproval and the reasons therefor.
+&emsp;If the Secretary determines that a plan reviewed under this subsection fails to meet the requirements of this section, the Secretary shall disapprove the plan and notify the public entity which submitted the plan of such disapproval and the reasons therefor.
 
 #### (3) Modification of disapproved plan
 

@@ -12,7 +12,7 @@
 
 &emsp;(C) four members from the public sector, no more than two of whom shall be of the same political party, to be appointed in the manner provided in paragraph (4).
 
-(3) The President shall appoint six judges and one State court administrator from a list of candidates submitted to the President by the Conference of Chief Justices. The Conference of Chief Justices shall submit a list of at least fourteen individuals, including judges and State court administrators, whom the Conference considers best qualified to serve on the Board. Whenever the term of any of the members of the Board described in subparagraphs (A) and (B) terminates and that member is not to be reappointed to a new term, and whenever a vacancy otherwise occurs among those members, the President shall appoint a new member from a list of three qualified individuals submitted to the President by the Conference of Chief Justices. The President may reject any list of individuals submitted by the Conference under this paragraph and, if such a list is so rejected, the President shall request the Conference to submit to him another list of qualified individuals. Prior to consulting with or submitting a list tothe President, the Conference of Chief Justices shall obtain and consider the recommendations of all interested organizations and individuals concerned with the administration of justice and the objectives of this chapter.
+(3) The President shall appoint six judges and one State court administrator from a list of candidates submitted to the President by the Conference of Chief Justices. The Conference of Chief Justices shall submit a list of at least fourteen individuals, including judges and State court administrators, whom the Conference considers best qualified to serve on the Board. Whenever the term of any of the members of the Board described in subparagraphs (A) and (B) terminates and that member is not to be reappointed to a new term, and whenever a vacancy otherwise occurs among those members, the President shall appoint a new member from a list of three qualified individuals submitted to the President by the Conference of Chief Justices. The President may reject any list of individuals submitted by the Conference under this paragraph and, if such a list is so rejected, the President shall request the Conference to submit to him another list of qualified individuals. Prior to consulting with or submitting a list to the President, the Conference of Chief Justices shall obtain and consider the recommendations of all interested organizations and individuals concerned with the administration of justice and the objectives of this chapter.
 
 (4) In addition to those members appointed under paragraph (3), the President shall appoint four members from the public sector to serve on the Board.
 
@@ -26,7 +26,7 @@
 
 (2) Five of the members first appointed by the President shall serve for a term of two years. Any member appointed to serve an unexpired term which has arisen by virtue of the death, disability, retirement, or resignation of a member shall be appointed only for such unexpired term, but shall be eligible for reappointment.
 
-(3) The term of initial members shall commence from the date of the first meeting of the Board, and the term of each member other than an initial member shall commence from the date of termination of the preceding term.
+(3) The term of initial members shall commence from the date of the first meeting of theBoard, and the term of each member other than an initial member shall commence from the date of termination of the preceding term.
 
 #### (c) Reappointment
 
@@ -86,7 +86,7 @@ This chapter, referred to in subsecs. (a)(3) and (j), was in the original "this 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (j). Pub. L. 108–372 inserted "(on any occasion on which that committee has been delegated theauthority to act on behalf of the Board)" after "executive committee of the Board".
+<b>2004</b>—Subsec. (j). Pub. L. 108–372 inserted "(on any occasion on which that committee has been delegated the authority to act on behalf of the Board)" after "executive committee of the Board".
 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 substituted "Conference" for "conference" after "whom the" in second sentence.
 

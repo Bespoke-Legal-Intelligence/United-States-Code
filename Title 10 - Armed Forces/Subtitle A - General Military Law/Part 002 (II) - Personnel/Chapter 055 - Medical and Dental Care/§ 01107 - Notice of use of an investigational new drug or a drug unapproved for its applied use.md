@@ -22,7 +22,7 @@ Content of Notice.—The notice required under subsection (a)(1) shall include t
 
 &emsp;(2) The reasons why the investigational new drug or drug unapproved for its applied use is being administered.
 
-&emsp;(3) Information regarding the possible side effects of the investigational new drug or drug unapproved for its applied use, including any known side effects possible as a result of the interaction of such drug with other drugs ortreatments being administered to the members receiving such drug.
+&emsp;(3) Information regarding the possible side effects of the investigational new drug or drug unapproved for its applied use, including any known side effects possible as a result of the interaction of such drug with other drugs or treatments being administered to the members receiving such drug.
 
 &emsp;(4) Such other information that, as a condition of authorizing the use of the investigational new drug or drug unapproved for its applied use, the Secretary of Health and Human Services may require to be disclosed.
 
@@ -36,7 +36,7 @@ Records of Use.—The Secretary of Defense shall ensure that the medical records
 
 (f)
 
-Limitation and Waiver.—(1) In the case of the administration of an investigational new drug or a drug unapproved for its applied use to a member of the armed forces in connection with the member's participation in a particular military operation, the requirement that the member provide prior consent to receive the drug in accordance with the prior consent requirement imposed under section 505(i)(4) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)(4)) may be waived only by the President. The President may grant such a waiver only if the President determines, in writing, that obtaining consent is not in the interests of national security.
+Limitation and Waiver.—(1) In the case of the administration of an investigational new drug or a drug unapproved for its applied use to a member of the armed forces in connectionwith the member's participation in a particular military operation, the requirement that the member provide prior consent to receive the drug in accordance with the prior consent requirement imposed under section 505(i)(4) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)(4)) may be waived only by the President. The President may grant such a waiver only if the President determines, in writing, that obtaining consent is not in the interests of national security.
 
 (2) The waiver authority provided in paragraph (1) shall not be construed to apply to any case other than a case in which prior consent for administration of a particular drug is required by reason of a determination by the Secretary of Health and Human Services that such drug is subject to the investigational new drug requirements of section 505(i) of the Federal Food, Drug, and Cosmetic Act.
 
@@ -94,7 +94,7 @@ Subsecs. (f), (g). Pub. L. 105–261, §731(a)(1), added subsec. (f) and redesig
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VII, §731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: "Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member's participation in a particularmilitary operation on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
+Pub. L. 105–261, div. A, title VII, §731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: "Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member's participation in a particular military operation on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
 
 #### Waivers of Requirement for Prior Consent Granted Before October 17, 1998
 

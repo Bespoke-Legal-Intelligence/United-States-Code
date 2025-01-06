@@ -116,7 +116,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 #### International Security Assistance Act of 1978 Not To Affect Authorizations of Appropriations and Limitations of Authority Applicable to Fiscal Year 1978
 
-Pub. L. 95–384, §30, Sept. 26, 1978, 92 Stat. 748, provided that: "Enactment of this Act \[see Short Title of 1978 Amendment note set out under section 2151 of this title\] shall not affect the authorizations of appropriations and limitations of authority applicable to the fiscal year 1978 which are contained in provisions of law amended by this Act (other than sections 31(a), (b), and (d) of the Arms Export Control Act \[section 2771(a), (b), and (d) of this title\])."
+Pub. L. 95–384, §30, Sept. 26, 1978, 92 Stat. 748, provided that: "Enactment of this Act \[see Short Title of 1978 Amendment note set out under section 2151 of thistitle\] shall not affect the authorizations of appropriations and limitations of authority applicable to the fiscal year 1978 which are contained in provisions of law amended by this Act (other than sections 31(a), (b), and (d) of the Arms Export Control Act \[section 2771(a), (b), and (d) of this title\])."
 
 #### <b>Executive Documents</b>
 

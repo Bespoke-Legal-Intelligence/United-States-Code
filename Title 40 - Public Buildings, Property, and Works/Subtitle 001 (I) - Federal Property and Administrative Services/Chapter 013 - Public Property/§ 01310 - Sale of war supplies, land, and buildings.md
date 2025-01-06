@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The President, through the head of any executive department and on terms the head of the department considers expedient, may sell to a person, another department of the Federal Government, or the government of a foreign country engaged in war against a country with which the United States is at war—
+In General.—The President, through the head of any executive department and on termsthe head of the department considers expedient, may sell to a person, another department of the Federal Government, or the government of a foreign country engaged in war against a country with which the United States is at war—
 
 &emsp;(1) war supplies, material, and equipment;
 

@@ -26,7 +26,7 @@ Use of fees.—A fee collected under this section—
 
 &emsp;(3)
 
-Limitation.—No fee may be collected under this section, except to the extent thatthe expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.
+Limitation.—No fee may be collected under this section, except to the extent that the expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.
 
 (Added Pub. L. 114–183, §12(c), June 22, 2016, 130 Stat. 523.)
 

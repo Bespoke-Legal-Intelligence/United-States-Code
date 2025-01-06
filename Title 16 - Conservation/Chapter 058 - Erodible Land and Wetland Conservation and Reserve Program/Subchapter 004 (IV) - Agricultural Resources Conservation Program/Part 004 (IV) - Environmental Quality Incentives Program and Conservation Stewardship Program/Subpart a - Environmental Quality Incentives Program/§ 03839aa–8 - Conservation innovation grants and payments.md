@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;Out of the funds made available to carry out this subpart, the Secretary may pay the cost of competitive grants that are intended to stimulate innovative approaches to leveraging the Federal investment in environmental enhancement and protection, in conjunction with agricultural production or forest resource management, through the program.
+&emsp;Out of the funds made available to carry out this subpart, the Secretary may pay the costof competitive grants that are intended to stimulate innovative approaches to leveraging the Federal investment in environmental enhancement and protection, in conjunction with agricultural production or forest resource management, through the program.
 
 #### (2) Use
 
@@ -104,7 +104,7 @@
 
 #### (ii) Reporting
 
-&emsp;&emsp;&emsp;An eligible entity participating in an on-farm conservation innovation trial under this subsection shall report annually to the Secretary on the amount of payments made to individual farm operations under this subsection.
+&emsp;&emsp;&emsp;An eligible entity participating in an on-farm conservation innovation trial under this subsection shall report annually tothe Secretary on the amount of payments made to individual farm operations under this subsection.
 
 #### (C) Limitation on administrative expenses
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;(iii) meet the goals described in clauses (i) and (ii);
 
-&emsp;&emsp;(B) to establish protocols for measuring carbon levels in the soil and testing carbon levels on land where conservation practices described in subparagraph (A) were appliedto evaluate gains in soil health as a result of the practices implemented by the producers in the soil health demonstration trial; and
+&emsp;&emsp;(B) to establish protocols for measuring carbon levels in the soil and testing carbon levels on land where conservation practices described in subparagraph (A) were applied to evaluate gains in soil health as a result of the practices implemented by the producers in the soil health demonstration trial; and
 
 &emsp;&emsp;(C)(i) not later than September 30, 2020, to initiate a study regarding changes in soil health and, if feasible, economic outcomes, generated as a result of the conservation practices described in subparagraph (A) that were applied by producers through the soil health demonstration trial; and
 
@@ -190,7 +190,7 @@
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

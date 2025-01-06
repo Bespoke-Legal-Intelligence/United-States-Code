@@ -4,7 +4,7 @@ Any person who—
 
 #### (1) Declaration under penalties of perjury
 
-&emsp;Willfully makes and subscribes any return, statement, or other document, which contains or is verified by a written declaration that it is made under the penalties of perjury, and which he does not believe to be true and correct as to every material matter; or
+&emsp;Willfully makes and subscribes any return, statement, or other document, which containsor is verified by a written declaration that it is made under the penalties of perjury, and which he does not believe to be true and correct as to every material matter; or
 
 #### (2) Aid or assistance
 

@@ -24,4 +24,4 @@ Part D—Miscellaneous Provisions Relating to Substance Abuse and Mental Health
 - [&sect; 00290ee&#8211;7 - Comprehensive opioid recovery centers](%C2%A7%2000290ee%E2%80%937%20-%20Comprehensive%20opioid%20recovery%20centers.md)
 - [&sect; 00290ee&#8211;8 - Career Act](%C2%A7%2000290ee%E2%80%938%20-%20Career%20Act.md)
 - [&sect; 00290ee&#8211;9 - Services for families and patients in crisis](%C2%A7%2000290ee%E2%80%939%20-%20Services%20for%20families%20and%20patients%20in%20crisis.md)
-- [&sect; 00290ee&#8211;10 - Transferred](%C2%A7%2000290ee%E2%80%9310%20-%20Transferred.md)
+- [&sect; 00290ee&#8211;10 - Rural emergency medical service training and equipment assistance program](%C2%A7%2000290ee%E2%80%9310%20-%20Rural%20emergency%20medical%20service%20training%20and%20equipment%20assistance%20program.md)

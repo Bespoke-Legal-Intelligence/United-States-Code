@@ -6,13 +6,13 @@
 
 &emsp;&emsp;(A) to provide and to assure mothers and children (in particular those with low income or with limited availability of health services) access to quality maternal and child health services;
 
-&emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
+&emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the incidence of stillbirth, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
 
 &emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI, to the extent medical assistance for such services is not provided under subchapter XIX; and
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3)) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
-&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
+&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services, and for evidence-based programs and activities and outcome research to reduce the incidence of stillbirth (including tracking and awareness of fetal movements, improvement of birth timing for pregnancies with risk factors, initiatives that encourage safe sleeping positions during pregnancy, screening and surveillance for fetal growth restriction, efforts to achieve smoking cessation during pregnancy, community-based programs that provide home visits or other types of support, and any other research or evidence-based programming to prevent stillbirths); and
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
@@ -66,9 +66,11 @@
 
 &emsp;(v) $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014;
 
-&emsp;(vi) $5,000,000 for each of fiscal years 2015 through 2017; and
+&emsp;(vi) $5,000,000 for each of fiscal years 2015 through 2017;
 
-&emsp;(vii) $6,000,000 for each of fiscal years 2018 through 2024.
+&emsp;(vii) $6,000,000 for each of fiscal years 2018 through 2024; and
+
+&emsp;(viii) $3,000,000 for the portion of fiscal year 2025 before April 1, 2025.
 
 (B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
 
@@ -114,7 +116,7 @@
 
 &emsp;(C) the term "territory" means Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50501, Feb. 9, 2018, 132 Stat. 224; Pub. L. 116–39, §5, Aug. 6, 2019, 133 Stat. 1062.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50501, Feb. 9, 2018, 132 Stat. 224; Pub. L. 116–39, §5, Aug. 6, 2019, 133 Stat. 1062; Pub. L. 118–42, div. G, title I, §405, Mar. 9, 2024, 138 Stat. 419; Pub. L. 118–69, §2, July 12, 2024, 138 Stat. 1485; Pub. L. 118–158, div. C, title III, §3303, Dec. 21, 2024, 138 Stat. 1767.)
 
 #### <b>Editorial Notes</b>
 
@@ -138,9 +140,17 @@ A prior section 701, act Aug. 14, 1935, ch. 531, title V, §501, as added Jan. 2
 
 Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat. 629; Aug. 10, 1939, ch. 666, title V, §501, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(1), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(a), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §602(a), 72 Stat. 1054; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(1)(A), 74 Stat. 995; Oct. 24, 1963, Pub. L. 88–156, §2(a), 77 Stat. 273; July 30, 1965, Pub. L. 89–97, title II, §201(a), 79 Stat. 353, authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301.
 
-Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935,ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(B). Pub. L. 118–69, §2(1), inserted "to reduce the incidence of stillbirth," after "among children,".
+
+Subsec. (a)(2). Pub. L. 118–69, §2(2), inserted ", and for evidence-based programs and activities and outcome research to reduce the incidence of stillbirth (including tracking and awareness of fetal movements, improvement of birth timing for pregnancies with risk factors, initiatives that encourage safe sleeping positions during pregnancy, screening and surveillance for fetal growth restriction, efforts to achieve smoking cessation during pregnancy, community-based programs that provide home visits or other types of support, and any other research or evidence-based programming to prevent stillbirths)" after "follow-up services".
+
+Subsec. (c)(1)(A)(viii). Pub. L. 118–158 substituted "$3,000,000" for "$1,500,000" and "April 1, 2025" for "January 1, 2025".
+
+Pub. L. 118–42 added cl. (viii).
 
 <b>2019</b>—Subsec. (c)(1)(A)(vii). Pub. L. 116–39, §5(1), substituted "through 2024" for "and 2019".
 
@@ -248,7 +258,7 @@ Pub. L. 97–35, title XXI, §2194, Aug. 13, 1981, 95 Stat. 828, provided that:
 
 &emsp;"(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[42 U.S.C. 702(a)\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
 
-&emsp;"(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[42 U.S.C. 702(b)\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
+&emsp;"(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[42 U.S.C. 702(b)\] (as amended bythis subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
 
 "(C) For fiscal year 1982, the Secretary shall reduce the amount which would otherwise be available—
 

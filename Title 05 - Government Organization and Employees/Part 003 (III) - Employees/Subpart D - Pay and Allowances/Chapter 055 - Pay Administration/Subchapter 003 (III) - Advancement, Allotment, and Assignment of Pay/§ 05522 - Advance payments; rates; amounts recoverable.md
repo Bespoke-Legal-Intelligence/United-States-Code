@@ -4,7 +4,7 @@
 
 &emsp;(1) from a place outside the United States from which the Secretary of State determines it is in the national interest to require the departure of some or all employees, their dependents, or both; or
 
-&emsp;(2) from any place where there is imminent danger to the life of the employee or the lives of the dependents or immediate family of the employee.
+&emsp;(2) from any place where there is imminent danger to the life of the employee or the livesof the dependents or immediate family of the employee.
 
 (b) Subject to adjustment of the account of an employee under section 5524 of this title and other applicable statute, the advance payment of pay, allowances, and differentials is at rates currently authorized with respect to the employee on the date the advance payment is made under agency procedures governing advance payments under this subsection. The rates so authorized may not exceed the rates to which the employee was entitled immediately before issuance of the departure order.
 
@@ -38,7 +38,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted "departure" for "evacuation", substituted "is officially authorized or ordered" for "is ordered for military orother reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family", and added pars. (1) and (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted "departure" for "evacuation", substituted "is officially authorized or ordered" for "is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family", and added pars. (1) and (2).
 
 Subsec. (b). Pub. L. 96–465, §2303(b), substituted "departure" for "evacuation" after "issuance of the".
 

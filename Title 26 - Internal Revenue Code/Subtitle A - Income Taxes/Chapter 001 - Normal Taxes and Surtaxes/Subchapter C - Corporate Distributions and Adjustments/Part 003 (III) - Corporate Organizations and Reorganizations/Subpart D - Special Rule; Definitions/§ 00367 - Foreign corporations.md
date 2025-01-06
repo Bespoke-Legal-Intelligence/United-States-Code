@@ -234,7 +234,7 @@ Pub. L. 99–514, title XII, §1231(g), Oct. 22, 1986, 100 Stat. 2563, as amende
 
 "(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 482 and 936 of thistitle\] shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 482 and 936 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 "(2)
 
@@ -278,7 +278,7 @@ In general.—If—
 
 &emsp;&emsp;"(ii) such corporation would have met the requirements of such subparagraph (B) if such subparagraph had been applied without regard to the amendment made by subsection (d)(1), and
 
-&emsp;&emsp;"(iii) 75 percent or more of the gross income of such corporation for such taxable year (or, in the case of a taxable year beginning in 1988, for the period consisting of such taxable year and the preceding taxable year) was derived from the active conduct of a trade or business within a possession of the United States, such corporation shall nevertheless be treated as meeting the requirements of such subparagraph (B) for such taxable year if it elects to reduce the amount of the qualified possession source investment income for the taxable year by the amount of the shortfall determined under subparagraph (B) of this paragraph.
+&emsp;&emsp;"(iii) 75 percent or more of the gross income of such corporation for such taxable year (or, in the case of a taxable year beginning in 1988, for the period consisting of such taxable year and the preceding taxable year) was derived from the active conduct of a trade or business within a possession of the United States, such corporation shall nevertheless be treated as meeting the requirements of such subparagraph (B) for such taxable year if it elects to reduce the amount of the qualified possession source investment income for the taxable yearby the amount of the shortfall determined under subparagraph (B) of this paragraph.
 
 &emsp;"(B)
 

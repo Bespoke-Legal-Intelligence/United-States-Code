@@ -30,9 +30,9 @@
 
 &emsp;&emsp;(A) 2 officers in the grade of general;
 
-&emsp;&emsp;(B) 17 officers in a grade above the grade of major general; or
+&emsp;&emsp;(B) 18 officers in a grade above the grade of major general; or
 
-&emsp;&emsp;(C) 22 officers in the grade of major general; and
+&emsp;&emsp;(C) 21.<sup>1</sup> officers in the grade of major general; and
 
 &emsp;(5) in the Space Force, if that appointment would result in more than—
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) may make appointments in the Navy in the grades of vice admiral and admiral in excess of the applicable numbers determined under this section if each such appointment is made in conjunction with an offsetting reduction under paragraph (2).
 
-(2) For each appointment made under the authority of paragraph (1) in the Army, Air Force, Marine Corps, or Space Force in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
+(2) For each appointment made under the authority of paragraph (1) in the Army, Air Force, Marine Corps, or Space Force in the grade oflieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
 
 (3)(A) The number of officers that may be serving on active duty in the grades of lieutenant general and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed 15.
 
@@ -72,15 +72,23 @@
 
 (f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
 
-(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
+(g) A naval officer while serving as the Medical Officer of the Marine Corps is in addition to the number that would otherwise be permitted for the Navy for officers serving on active duty in the grade of rear admiral (lower half) under subsection (a).
+
+(h)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
 (2) Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391; Pub. L. 114–328, div. A, title V, §503(a), Dec. 23, 2016, 130 Stat. 2107; Pub. L. 116–283, div. A, title V, §501(c)(1), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–263, div. A, title V, §§502, 503, Dec. 23, 2022, 136 Stat. 2557, 2558.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, §502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, §1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391; Pub. L. 114–328, div. A, title V, §503(a), Dec. 23, 2016, 130 Stat. 2107; Pub. L. 116–283, div. A, title V, §501(c)(1), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–263, div. A, title V, §§502, 503, Dec. 23, 2022, 136 Stat. 2557, 2558; Pub. L. 118–159, div. A, title V, §§501, 509B(b), Dec. 23, 2024, 138 Stat. 1868, 1872.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(4)(B). Pub. L. 118–159, §501(1), substituted "18 officers" for "17 officers".
+
+Subsec. (a)(4)(C). Pub. L. 118–159, §501(2), substituted "21. officers" for "22 officers".
+
+Subsecs. (g), (h). Pub. L. 118–159, §509B(b), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2022</b>—Subsec. (a). Pub. L. 117–263, §502(1)(A), substituted "made—" for "made as follows:" in introductory provisions.
 
@@ -224,7 +232,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §507(i)\], Oct. 30, 2000, 114 Sta
 
 "(1) An appointment or reappointment, in the case of the incumbent in a reserve component chief position, shall be made to each of the reserve component chief positions not later than 12 months after the date of the enactment of this Act \[Oct. 30, 2000\], in accordance with the amendments made by subsections (a) through (e) \[amending sections 3038, 5143, 5144, 8038, and 10506 of this title\].
 
-"(2) An officer serving in a reserve component chief position on the date of the enactment of this Act \[Oct.30, 2000\] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer's original term or for a full new term, as specified at the time of the appointment.
+"(2) An officer serving in a reserve component chief position on the date of the enactment of this Act \[Oct. 30, 2000\] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer's original term or for a full new term, as specified at the time of the appointment.
 
 "(3) An officer serving on the date of the enactment of this Act \[Oct. 30, 2000\] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section \[amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing section 12505 of this title\] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)).
 
@@ -276,11 +284,11 @@ Limitation.—The Secretary of a military department may not withhold the inform
 
 &emsp;"(2)
 
-Limited duration of withholding.—The Secretary concerned may withhold from the public under paragraph (1) information or notice on an officer only on the basis of individual risk or national security, and may continue to withhold such information or notice only for so long as the basis for withholding remains in force."
+Limited duration of withholding.—The Secretary concerned may withhold from the public under paragraph (1) information or notice on an officer only on the basis of individual risk or national security,and may continue to withhold such information or notice only for so long as the basis for withholding remains in force."
 
 #### Reduction in Number of General and Flag Officers on Active Duty and Authorized Strength After December 31, 2022, of Such General and Flag Officers
 
-Pub. L. 114–328, div. A, title V, §501(a)–(g), Dec. 23, 2016, 130 Stat. 2096–2099, provided that:
+Pub. L. 114–328, div. A, title V, §501(a)–(g), Dec. 23, 2016, 130 Stat. 2096–2099, as amended by Pub. L. 118–159, div. A, title V, §502(b), Dec. 23, 2024, 138 Stat. 1868, provided that:
 
 "(a)
 
@@ -311,10 +319,6 @@ Distribution of authorized positions.—Effective as of December 31, 2022, and r
 &emsp;&emsp;&emsp;"(iii) 69 positions in the general officer grades from the Air Force.
 
 &emsp;&emsp;&emsp;"(iv) 21 positions in the general officer grades from the Marine Corps.
-
-&emsp;"(3)
-
-Temporary additional joint pool allocation.—In addition to the positions authorized by paragraph (2), the 30 general and flag officer positions designated for overseas contingency operations are authorized as an additional maximum temporary allocation to the joint pool.
 
 "(b)
 
@@ -386,7 +390,7 @@ Related to retirement, separation, release, or relief.—For purposes of complyi
 
 &emsp;&emsp;"(A) An officer of an Armed Force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
 
-&emsp;&emsp;"(B) An officer of an Armed Force who has been relieved from a position designated under section 601(a) of title 10, United States Code, or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
+&emsp;&emsp;"(B) An officer of an Armed Force who has been relieved from a position designated under section 601(a) of title 10, United States Code, or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to thefirst position is terminated or until the officer is assigned to a second such position, whichever occurs first.
 
 "(e)
 
@@ -473,4 +477,6 @@ Pub. L. 98–525, title V, §511, Oct. 19, 1984, 98 Stat. 2521.
 Pub. L. 98–94, title X, §1001, Sept. 24, 1983, 97 Stat. 654.
 
 Pub. L. 97–252, title XI, §1116, Sept. 8, 1982, 96 Stat. 750.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

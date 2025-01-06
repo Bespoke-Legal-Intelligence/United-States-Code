@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary. In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of the Treasury of such election not later than 30 days after the date of such certification or such other time as the Secretary of the Treasury may prescribe by regulations or other guidance.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary. In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of the Treasury of such election not later than 30 daysafter the date of such certification or such other time as the Secretary of the Treasury may prescribe by regulations or other guidance.
 
 #### (ii) Plans in critical status
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (v) Notice of projection to be in critical status in a future plan year
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A)(i) that a multiemployer plan will be in critical status for any of 5succeeding plan years (but not for the current plan year) and the plan sponsor of such plan has not made an election to be in critical status for the plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the projected critical status to the Pension Benefit Guaranty Corporation.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A)(i) that a multiemployer plan will be in critical status for any of 5 succeeding plan years (but not for the current plan year) and the plan sponsor of such plan has not made an election to be in critical status for the plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the projected critical status to the Pension Benefit Guaranty Corporation.
 
 #### (4) Election to be in critical status
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the funded percentage of a plan in seriously endangered status was more than 70 percent as of the beginning of the initial determination year—
 
-&emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
+&emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of suchcertification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
 
 &emsp;&emsp;&emsp;(ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph <sup>4</sup> (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
 
@@ -320,7 +320,7 @@ For purposes of this section—
 
 #### (B) Special rules for benefit increases
 
-&emsp;&emsp;A plan may not be amended after the date of the adoption of a funding improvement plan under subsection (c) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the funding improvement plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to meet the applicable benchmark on the schedule contemplated in the funding improvement plan.
+&emsp;&emsp;A plan may not be amended after the date of the adoption of a funding improvement plan under subsection (c) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the funding improvement plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to meet the applicable benchmark on theschedule contemplated in the funding improvement plan.
 
 #### (2) Special rules for plan adoption period
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 &emsp;In any case in which a multiemployer plan is in critical status for a plan year, the plan sponsor, in accordance with this subsection—
 
-&emsp;&emsp;(A) shall adopt a rehabilitation plan not later than 240 days following the requireddate for the actuarial certification of critical status under subsection (b)(3)(A), and
+&emsp;&emsp;(A) shall adopt a rehabilitation plan not later than 240 days following the required date for the actuarial certification of critical status under subsection (b)(3)(A), and
 
 &emsp;&emsp;(B) within 30 days after the adoption of the rehabilitation plan—
 
@@ -586,7 +586,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In the case of a plan with 10,000 or more participants, not later than 60 days prior to the plan sponsor submitting an application to suspend benefits, the plan sponsor shall select a participant of the plan in pay status to act as a retiree representative. The retiree representative shall advocate for the interests of the retired and deferred vested participants and beneficiaries of the plan throughout the suspension approval process.
+&emsp;&emsp;&emsp;&emsp;In the case of a plan with 10,000 or more participants, not later than 60 days prior to the plan sponsor submitting an application to suspend benefits, the plan sponsor shall select a participant of theplan in pay status to act as a retiree representative. The retiree representative shall advocate for the interests of the retired and deferred vested participants and beneficiaries of the plan throughout the suspension approval process.
 
 #### (II) Reasonable expenses from plan
 
@@ -776,7 +776,7 @@ For purposes of this section—
 
 #### (ii) Solicitation of comments
 
-&emsp;&emsp;&emsp;Not later than 30 days after receipt of the application under clause (i), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish a notice in the Federal Register soliciting comments from contributing employers, employee organizations, and participants and beneficiaries of the plan for which an application was made and other interested parties. The application for approval of the suspension of benefits shall be published on the website of the Secretary of the Treasury.
+&emsp;&emsp;&emsp;Not later than 30 days after receipt of the application under clause (i), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish a notice in the Federal Register soliciting comments from contributing employers, employee organizations, andparticipants and beneficiaries of the plan for which an application was made and other interested parties. The application for approval of the suspension of benefits shall be published on the website of the Secretary of the Treasury.
 
 #### (iii) Required action; deemed approval
 
@@ -784,7 +784,7 @@ For purposes of this section—
 
 #### (iv) Agency review
 
-&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of theTreasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
+&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
 
 #### (v) Standard for accepting plan sponsor determinations
 
@@ -904,7 +904,7 @@ For purposes of this section—
 
 &emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 1054(g) of this title, the plan shall not pay—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participantor beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs after the date such notice is sent,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs after the date such notice is sent,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -946,7 +946,7 @@ For purposes of this section—
 
 #### (B) Special rules
 
-&emsp;&emsp;For purposes of this paragraph, any increase in the contribution rate (or other increase in contribution requirements) shall be deemed to be required or made in order to enable the plan to meet the requirement of the funding improvement plan or rehabilitation plan except for increases in contribution requirements due to increased levels of work, employment, or periods for which compensation is provided or additional contributions are used to provide an increase in benefits, including an increase in future benefit accruals, permitted by subsection (d)(1)(B) or (f)(1)(B).
+&emsp;&emsp;For purposes of this paragraph, any increase in the contribution rate (or other increase in contribution requirements) shall be deemed to be required or made in order to enable the plan to meet the requirement of the funding improvement plan or rehabilitation plan except for increases in contribution requirements due to increased levels of work, employment, or periods for whichcompensation is provided or additional contributions are used to provide an increase in benefits, including an increase in future benefit accruals, permitted by subsection (d)(1)(B) or (f)(1)(B).
 
 #### (4) Emergence from endangered or critical status
 
@@ -958,7 +958,7 @@ For purposes of this section—
 
 #### (h) Expedited resolution of plan sponsor decisions
 
-If, within 60 days of the due date for adoption of a funding improvement plan under subsection\(c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
+If, within 60 days of the due date for adoption of a funding improvement plan under subsection (c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
 
 #### (i) Nonbargained participation
 
@@ -1042,7 +1042,7 @@ The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(
 
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 93–406, title I, §305, Sept. 2, 1974, 88 Stat. 873, related to alternative minimumfunding standard, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
+A prior section 1085, Pub. L. 93–406, title I, §305, Sept. 2, 1974, 88 Stat. 873, related to alternative minimum funding standard, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
 

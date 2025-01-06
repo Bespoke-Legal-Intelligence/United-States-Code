@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (3) Regulations
 
-&emsp;The Secretary shall establish rules to prevent an entity's failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adverselyaffecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
+&emsp;The Secretary shall establish rules to prevent an entity's failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
 
 #### (f) Special enrollment periods
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) was under a COBRA continuation provision and the coverage under such provision was exhausted; or
 
-&emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
+&emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as aresult of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
 
 &emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
 
@@ -260,7 +260,7 @@ For purposes of this section—
 
 #### (II) Option to provide concurrent with provision of plan materials to employee
 
-&emsp;&emsp;&emsp;&emsp;An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 104(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024).
+&emsp;&emsp;&emsp;&emsp;An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open seasonor election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 104(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024).
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
@@ -308,7 +308,7 @@ Benefit determinations.—Notwithstanding the amendments made by this section (a
 
 &emsp;"(B)
 
-Guidance concerning periods before 30 days after enactment.—Except as provided in subparagraph (A), the Secretary of the Treasury (or his designee), in consultation with the Secretary of Healthand Human Services and the Secretary of Labor, may issue regulations or other guidance regarding the scope of the application of the amendments made by this section to periods before the date which is 30 days after the date of the enactment of this Act.
+Guidance concerning periods before 30 days after enactment.—Except as provided in subparagraph (A), the Secretary of the Treasury (or his designee), in consultation with the Secretary of Health and Human Services and the Secretary of Labor, may issue regulations or other guidance regarding the scope of the application of the amendments made by this section to periods before the date which is 30 days after the date of the enactment of this Act.
 
 &emsp;"(C)
 

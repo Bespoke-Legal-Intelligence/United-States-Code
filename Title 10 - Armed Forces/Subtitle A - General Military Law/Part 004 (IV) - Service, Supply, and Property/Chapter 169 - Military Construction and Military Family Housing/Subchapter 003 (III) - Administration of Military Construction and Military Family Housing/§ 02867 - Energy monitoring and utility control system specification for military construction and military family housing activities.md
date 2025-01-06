@@ -42,7 +42,7 @@ Pub. L. 116–92, div. B, title XXX, §3063, Dec. 20, 2019, 133 Stat. 1947, as a
 
 "(a)
 
-Suspension Required.—The Secretary of Defense shall suspend the initiative of the Department of Defense known as the Resident Energy Conservation Program and instruct the Secretary of each military department to suspend any program carried out by suchSecretary that measures the energy usage for individual units of privatized military housing on installations of the Department of Defense.
+Suspension Required.—The Secretary of Defense shall suspend the initiative of the Department of Defense known as the Resident Energy Conservation Program and instruct the Secretary of each military department to suspend any program carried out by such Secretary that measures the energy usage for individual units of privatized military housing on installations of the Department of Defense.
 
 "(b)
 
@@ -56,5 +56,5 @@ Termination.—If the Secretary of Defense is unable to make the certification r
 
 #### Deadline for Adoption
 
-Pub. L. 111–84, div. B, title XXVIII, §2841(a)(3), Oct. 28, 2009, 123 Stat. 2680, provided that: "The Secretary of Defense shall adopt the open protocol energy monitoring and utility control system specification required by section 2867 of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\]."
+Pub. L. 111–84, div. B, title XXVIII, §2841(a)(3), Oct. 28, 2009, 123 Stat. 2680, provided that: "The Secretary ofDefense shall adopt the open protocol energy monitoring and utility control system specification required by section 2867 of title 10, United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\]."
 

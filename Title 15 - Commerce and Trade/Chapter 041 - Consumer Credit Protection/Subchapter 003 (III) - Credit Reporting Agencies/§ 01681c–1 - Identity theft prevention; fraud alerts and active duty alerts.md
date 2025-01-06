@@ -42,7 +42,7 @@
 
 Upon the direct request of an active duty military consumer, or an individual acting on behalf of or as a personal representative of an active duty military consumer, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the active duty military consumer and has received appropriate proof of the identity of the requester shall—
 
-&emsp;(1) include an active duty alert in the file of that active duty military consumer, and alsoprovide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
+&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
 
 &emsp;(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
 
@@ -68,7 +68,7 @@ A reseller shall include in its report any fraud alert or active duty alert plac
 
 #### (g) Duty of other consumer reporting agencies to provide contact information
 
-If a consumer contacts any consumer reporting agency that is not described in section 1681a(p) of this title to communicate a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, the agency shall provide information to the consumer on how to contact the Bureau and the consumer reporting agencies described in section 1681a(p) of this title to obtain more detailed information and request alerts under this section.
+If a consumer contacts any consumer reporting agency that is not described in section 1681a(p) of this title to communicate a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, the agency shall provide information to the consumer on how to contact the Bureau and the consumer reporting agenciesdescribed in section 1681a(p) of this title to obtain more detailed information and request alerts under this section.
 
 #### (h) Limitations on use of information for credit extensions
 
@@ -94,7 +94,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
 
-&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of theconsumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
+&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) a telephone number or other reasonable contact method designated by the consumer.
 
@@ -200,7 +200,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 "Consumers Have the Right To Obtain a Security Freeze
 
-"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
+"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed toprevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
 
 "As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer's credit file. Upon seeing a fraud alert display on a consumer's credit file, a business is required to take steps to verify the consumer's identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years.
 

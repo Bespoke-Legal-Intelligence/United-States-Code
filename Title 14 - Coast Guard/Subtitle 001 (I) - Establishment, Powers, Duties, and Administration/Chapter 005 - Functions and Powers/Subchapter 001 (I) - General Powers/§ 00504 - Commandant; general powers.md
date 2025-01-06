@@ -286,6 +286,10 @@ Subsec. (p). Act Aug. 3, 1950, substituted "; and" for the period at end.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Expenditure of Funds for Certain Intelligence and Counterintelligence Activities of the Coast Guard
+
+Pub. L. 118–159, div. F, title LXIII, §6306, Dec. 23, 2024, 138 Stat. 2475, provided that: "The Commandant of the Coast Guard may use up to 1 percent of the amounts made available for the National Intelligence Program (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) for each fiscal year for intelligence and counterintelligence activities of the Coast Guard relating to objects of a confidential, extraordinary, or emergency nature, which amounts may be accounted for solely on the certification of the Commandant and each such certification shall be considered to be a sufficient voucher for the amount contained in the certification."
+
 #### Pilot Project for Enhancing Coast Guard Cutter Readiness Through Condition-Based Maintenance
 
 Pub. L. 117–263, div. K, title CXII, §11208, Dec. 23, 2022, 136 Stat. 4011, provided that:
@@ -522,7 +526,7 @@ In General.—The Commandant \[of the Coast Guard\] and the Director of the Cybe
 
 &emsp;&emsp;"(B) data management and analytic platforms relating to such missions; and
 
-&emsp;"(2) evaluate data management platforms referred to in paragraph (1)(B) to ensure that such platformsoperate consistently with the Coast Guard Data Strategy.
+&emsp;"(2) evaluate data management platforms referred to in paragraph (1)(B) to ensure that such platforms operate consistently with the Coast Guard Data Strategy.
 
 "(b)
 
@@ -898,7 +902,7 @@ Scope.—Support services procured pursuant to this paragraph may include servic
 
 "(3)
 
-Authorized procurement actions.—The Commandant is authorized to procure an electronic health record system under this subsection through the following:
+Authorized procurement actions.—The Commandant is authorized to procure an electronic healthrecord system under this subsection through the following:
 
 &emsp;"(A) A task order under the Department of Defense electronic health record contract.
 
@@ -910,7 +914,7 @@ Authorized procurement actions.—The Commandant is authorized to procure an ele
 
 "(4)
 
-Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall beexempt from the competition requirements of section 2304 of title 10, United States Code \[now 10 U.S.C. 3201 et seq.\]."
+Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall be exempt from the competition requirements of section 2304 of title 10, United States Code \[now 10 U.S.C. 3201 et seq.\]."
 
 #### Training of Coast Guard Personnel
 
@@ -988,7 +992,7 @@ No Interference With Other Functions.—In providing support under subsection (a
 
 #### Conveyance of Lighthouses; Notification
 
-Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (\[former\] 16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations inthat State, that such property is excess to the needs of the Coast Guard."
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior toreporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (\[former\] 16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 &emsp;(5) To review, analyze, and make recommendations for improvements to the policies and procedures governing the sharing of information within the scope of the information sharing environment established under section 485 of this title, including homeland security information, terrorism information, and weapons of mass destruction information, and any policies, guidelines, procedures, instructions, or standards established under that section.
 
-&emsp;(6) To disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
+&emsp;(6) To disseminate, as appropriate, information analyzed by the Department within theDepartment, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
 
 &emsp;(7) To consult with the Director of National Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through such means as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
 
@@ -58,7 +58,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 &emsp;(11) To establish and utilize, in conjunction with the chief information officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.
 
-&emsp;(12) To ensure, in conjunction with the chief information officer of the Department, thatany information databases and analytical tools developed or utilized by the Department—
+&emsp;(12) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analytical tools developed or utilized by the Department—
 
 &emsp;&emsp;(A) are compatible with one another and with relevant information databases of other agencies of the Federal Government; and
 
@@ -92,7 +92,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 &emsp;(22) To perform such other duties relating to such responsibilities as the Secretary may provide.
 
-&emsp;(23)(A) Not later than six months after December 23, 2016, to conduct an intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure, and submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate—
+&emsp;(23)(A) Not later than six months after December 23, 2016, to conduct an intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure, and submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House ofRepresentatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate—
 
 &emsp;&emsp;(i) a recommended strategy to protect and prepare the critical infrastructure of the homeland against threats of EMP and GMD; and
 
@@ -130,7 +130,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 #### (1) In general
 
-&emsp;In order to assist the Office of Intelligence and Analysis in discharging responsibilitiesunder this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
+&emsp;In order to assist the Office of Intelligence and Analysis in discharging responsibilities under this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
 
 #### (2) Covered agencies
 
@@ -242,7 +242,7 @@ Subsec. (d)(1). Pub. L. 110–53, §501(b)(1), inserted ", in support of the mi
 
 Subsec. (d)(7). Pub. L. 110–53, §501(b)(2), added par. (7) and struck out former par. (7) which read as follows: "To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities."
 
-Pub. L. 110–53, §501(a)(2)(A), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: "To administer the Homeland Security Advisory System, including—
+Pub. L. 110–53, §501(a)(2)(A), redesignated par. (8) as (7) and struck out former par. (7) which read as follows:"To administer the Homeland Security Advisory System, including—
 
 &emsp;"(A) exercising primary responsibility for public advisories related to threats to homeland security; and
 
@@ -290,9 +290,9 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Regulations
 
-Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550,Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
+Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
 
-\[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under section 621 of this title.\]
+\[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under former section 621 of this title.\]
 
 #### Prohibition on Availability of Funds for Certain Activities and Assessment of the Overt Human Intelligence and Open Source Intelligence Collection Programs of the Office of Intelligence and Analysis of the Department of Homeland Security
 
@@ -378,7 +378,7 @@ Elements.—The assessment under paragraph (1) shall include findings and, as th
 
 &emsp;&emsp;"(D) Whether the responsibilities and requirements for such programs set forth in the relevant policy instructions, intelligence oversight guidelines, and other governing documents or standard operating procedures of the Office of Intelligence and Analysis, particularly as they relate to the obligation to safeguard the privacy, civil liberties, and civil rights of United States persons, are adequate, appropriate, and consistently adhered to by such personnel.
 
-&emsp;&emsp;"(E) Whether such programs raise or have raised legal, ethical, or operational concerns, includingconcerns relating to the actual or potential violation of any applicable policies or procedures for protecting the constitutional or statutory rights of United States persons.
+&emsp;&emsp;"(E) Whether such programs raise or have raised legal, ethical, or operational concerns, including concerns relating to the actual or potential violation of any applicable policies or procedures for protecting the constitutional or statutory rights of United States persons.
 
 &emsp;&emsp;"(F) Whether other Federal agencies, such as the Federal Bureau of Investigation, conduct similar programs and, if so, a comparison of any similarities and differences between the respective programs.
 
@@ -788,7 +788,7 @@ Sec. 4. <i>Cybersecurity Information Sharing</i>. (a) It is the policy of the Un
 
 (c) To assist the owners and operators of critical infrastructure in protecting their systems from unauthorized access, exploitation, or harm, the Secretary, consistent with \[former\] 6 U.S.C. 143 \[now 6 U.S.C. 655\] and in collaboration with the Secretary of Defense, shall, within 120 days of the date of this order, establish procedures to expand the Enhanced Cybersecurity Services program to all critical infrastructure sectors. This voluntary information sharing program will provide classified cyber threat and technical information from the Government to eligible critical infrastructure companies or commercial service providers that offer security services to critical infrastructure.
 
-(d) The Secretary, as the Executive Agent for the Classified National Security Information Program created under Executive Order 13549 of August 18, 2010 (Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities), shall expedite the processing of security clearances to appropriate personnel employed by critical infrastructureowners and operators, prioritizing the critical infrastructure identified in section 9 of this order.
+(d) The Secretary, as the Executive Agent for the Classified National Security Information Program created under Executive Order 13549 of August 18, 2010 (Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities), shall expedite the processing of security clearances to appropriate personnel employed by critical infrastructure owners and operators, prioritizing the critical infrastructure identified in section 9 of this order.
 
 (e) In order to maximize the utility of cyber threat information sharing with the private sector, the Secretary shall expand the use of programs that bring private sector subject-matter experts into Federal service on a temporary basis. These subject matter experts should provide advice regarding the content, structure, and types of information most useful to critical infrastructure owners and operators in reducing and mitigating cyber risks.
 
@@ -804,7 +804,7 @@ Sec. 6. <i>Consultative Process</i>. The Secretary shall establish a consultativ
 
 Sec. 7. <i>Baseline Framework to Reduce Cyber Risk to Critical Infrastructure</i>. (a) The Secretary of Commerce shall direct the Director of the National Institute of Standards and Technology (the "Director") to lead the development of a framework to reduce cyber risks to critical infrastructure (the "Cybersecurity Framework"). The Cybersecurity Framework shall include a set of standards, methodologies, procedures, and processes that align policy, business, and technological approaches to address cyber risks. The Cybersecurity Framework shall incorporate voluntary consensus standards and industry best practices to the fullest extent possible. The Cybersecurity Framework shall be consistent with voluntary international standards when such international standards will advance the objectives of this order, and shall meet the requirements of the National Institute of Standards and Technology Act, as amended (15 U.S.C. 271 et seq.), the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), and OMB Circular A–119, as revised.
 
-(b) The Cybersecurity Framework shall provide a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, to help owners and operators of critical infrastructure identify, assess, and manage cyber risk. The Cybersecurity Framework shall focus on identifying cross-sector security standards and guidelines applicable to critical infrastructure. The Cybersecurity Framework will also identify areas for improvement that should be addressed through future collaboration with particular sectors and standards-developing organizations. To enable technical innovation and account for organizational differences, the Cybersecurity Framework will provide guidance that is technology neutral and that enables critical infrastructure sectors to benefit from a competitive market for products and services that meet the standards, methodologies, procedures, and processes developed to address cyber risks. The Cybersecurity Framework shall include guidance for measuring the performance of an entity in implementing the Cybersecurity Framework.
+(b) The Cybersecurity Framework shall provide a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, to help owners and operators of critical infrastructure identify, assess, and manage cyber risk. The Cybersecurity Framework shall focus on identifying cross-sector security standards and guidelines applicable to critical infrastructure. The Cybersecurity Framework will also identify areas for improvement that should be addressed through futurecollaboration with particular sectors and standards-developing organizations. To enable technical innovation and account for organizational differences, the Cybersecurity Framework will provide guidance that is technology neutral and that enables critical infrastructure sectors to benefit from a competitive market for products and services that meet the standards, methodologies, procedures, and processes developed to address cyber risks. The Cybersecurity Framework shall include guidance for measuring the performance of an entity in implementing the Cybersecurity Framework.
 
 (c) The Cybersecurity Framework shall include methodologies to identify and mitigate impacts of the Cybersecurity Framework and associated information security measures or controls on business confidentiality, and to protect individual privacy and civil liberties.
 
@@ -820,7 +820,7 @@ Sec. 8. <i>Voluntary Critical Infrastructure Cybersecurity Program</i>. (a) The 
 
 (c) Sector-Specific Agencies shall report annually to the President, through the Secretary, on the extent to which owners and operators notified under section 9 of this order are participating in the Program.
 
-(d) The Secretary shall coordinate establishment of a set of incentives designed to promote participation inthe Program. Within 120 days of the date of this order, the Secretary and the Secretaries of the Treasury and Commerce each shall make recommendations separately to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, that shall include analysis of the benefits and relative effectiveness of such incentives, and whether the incentives would require legislation or can be provided under existing law and authorities to participants in the Program.
+(d) The Secretary shall coordinate establishment of a set of incentives designed to promote participation in the Program. Within 120 days of the date of this order, the Secretary and the Secretaries of the Treasury and Commerce each shall make recommendations separately to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, that shall include analysis of the benefits and relative effectiveness of such incentives, and whether the incentives would require legislation or can be provided under existing law and authorities to participants in the Program.
 
 (e) Within 120 days of the date of this order, the Secretary of Defense and the Administrator of General Services, in consultation with the Secretary and the Federal Acquisition Regulatory Council, shall make recommendations to the President, through the Assistant to the President for Homeland Security and Counterterrorism and the Assistant to the President for Economic Affairs, on the feasibility, security benefits, and relative merits of incorporating security standards into acquisition planning and contract administration. The report shall address what steps can be taken to harmonize and make consistent existing procurement requirements related to cybersecurity.
 
@@ -856,7 +856,7 @@ Sec. 12. <i>General Provisions</i>. (a) This order shall be implemented consiste
 
 (b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
 
-(c) All actions taken pursuant to this order shall be consistent with requirements and authorities to protect intelligence and law enforcement sources and methods. Nothing in this order shall be interpreted tosupersede measures established under authority of law to protect the security and integrity of specific activities and associations that are in direct support of intelligence and law enforcement operations.
+(c) All actions taken pursuant to this order shall be consistent with requirements and authorities to protect intelligence and law enforcement sources and methods. Nothing in this order shall be interpreted to supersede measures established under authority of law to protect the security and integrity of specific activities and associations that are in direct support of intelligence and law enforcement operations.
 
 (d) This order shall be implemented consistent with U.S. international obligations.
 
@@ -870,7 +870,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 13650
 
-Ex. Ord. No. 13650, Aug. 1, 2013, 78 F.R. 48029, was transferred to a note set out under section 621 of this title.
+Ex. Ord. No. 13650, Aug. 1, 2013, 78 F.R. 48029, was transferred to a note set out under former section 621 of this title.
 
 #### Ex. Ord. No. 13691. Promoting Private Sector Cybersecurity Information Sharing
 
@@ -906,7 +906,7 @@ Sec. 3. <i>ISAO Standards Organization</i>. (a) The Secretary, in consultation w
 
 Sec. 4. <i>Critical Infrastructure Protection Program</i>. (a) Pursuant to sections 213 and 214(h) of the Critical Infrastructure Information Act of 2002, I hereby designate the NCCIC as a critical infrastructure protection program and delegate to it authority to enter into voluntary agreements with ISAOs in order to promote critical infrastructure security with respect to cybersecurity.
 
-(b) Other Federal entities responsible for conducting cybersecurity and related activities to address threatsto the public health and safety, national security, and economic security, consistent with the objectives of this order, may participate in activities under these agreements.
+(b) Other Federal entities responsible for conducting cybersecurity and related activities to address threats to the public health and safety, national security, and economic security, consistent with the objectives of this order, may participate in activities under these agreements.
 
 (c) The Secretary will determine the eligibility of ISAOs and their members for any necessary facility or personnel security clearances associated with voluntary agreements in accordance with Executive Order 13549 of August 18, 2010 (Classified National Security Information Programs for State, Local, Tribal, and Private Sector Entities), and Executive Order 12829 of January 6, 1993 (National Industrial Security Program), as amended, including as amended by this order.
 

@@ -45,7 +45,7 @@
 | [5123\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005123%20-%20Rounding%20down%20of%20pension%20rates.md) | Rounding down of pension rates. |
 | [5124\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005124%20-%20Acceptance%20of%20claimant%27s%20statement%20as%20proof%20of%20relationship.md) | Acceptance of claimant's statement as proof of relationship. |
 | [5125\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005125%20-%20Acceptance%20of%20reports%20of%20private%20physician%20examinations.md) | Acceptance of reports of private physician examinations. |
-| [5126\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005126%20-%20Benefits%20not%20to%20be%20denied%20based%20on%20lack%20of%20mailing%20address.md) | Benefits not to be denied based on lack of mailing address. |
+| [5126\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005126%20-%20Benefits%20not%20to%20be%20denied%20based%20on%20lack%20of%20mailing%20address.md) | Benefits not to be denied based on lack of mailing address.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

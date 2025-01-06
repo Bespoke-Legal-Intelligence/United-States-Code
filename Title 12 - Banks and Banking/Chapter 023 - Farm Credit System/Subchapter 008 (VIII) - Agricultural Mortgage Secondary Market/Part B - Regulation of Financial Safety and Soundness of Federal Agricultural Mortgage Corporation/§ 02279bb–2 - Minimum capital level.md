@@ -66,5 +66,5 @@ Except as provided in subsection (b), for purposes of this part, the minimum cap
 
 <b>2018</b>—Subsec. (b)(2)(A). Pub. L. 115–334 substituted "section 2279aa–6(d)" for "section 2279aa–6(e)".
 
-<b>1996</b>—Pub. L. 104–105 amended section generally, substituting present provisions for provisions relating tominimum capital level, including general provisions, provisions relating to 18-month transition, and provisions relating to linked portfolio assets.
+<b>1996</b>—Pub. L. 104–105 amended section generally, substituting present provisions for provisions relating to minimum capital level, including general provisions, provisions relating to 18-month transition, and provisions relating to linked portfolio assets.
 

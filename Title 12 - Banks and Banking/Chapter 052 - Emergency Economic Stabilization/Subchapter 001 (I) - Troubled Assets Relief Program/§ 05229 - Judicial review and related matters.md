@@ -30,7 +30,7 @@
 
 #### (4) Stays
 
-&emsp;Any injunction or other form of equitable relief issued against the Secretary for actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, shall be automatically stayed. The stay shall be lifted unless the Secretary seeks a stay from a higher court within 3 calendar days after the date on which the relief is issued.
+&emsp;Any injunction or other form of equitable relief issued against the Secretary for actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, shall be automatically stayed. The stay shall be lifted unless the Secretary seeks a stay from a higher court within 3 calendardays after the date on which the relief is issued.
 
 #### (b) Related matters
 

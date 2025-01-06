@@ -140,7 +140,7 @@ Exceptions.—The amendments made by this section shall not apply to any generat
 
 "(3)
 
-Trust equivalents.—For purposes of paragraph (2), in the case of a trust equivalent within the meaning of subsection (d) of section 2611 of the Internal Revenue Code of 1986, the provisions of such subsection (d) shall apply."
+Trust equivalents.—For purposes of paragraph (2), in the case of a trust equivalent within the meaning of subsection (d) of section 2611 of the Internal RevenueCode of 1986, the provisions of such subsection (d) shall apply."
 
 \[Amendment of section 2006(c) of Pub. L. 94–455, set out above, by section 702(n)(1) of Pub. L. 95–600, effective Oct. 4, 1976, see section 702(n)(5) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 2613 of this title.\]
 

@@ -16,7 +16,7 @@ As part of the Program described in subchapter I—
 
 #### (b) Networking and information technology security
 
-The National Institute of Standards and Technology shall be responsible for developing and proposing standards and guidelines needed to assure the cost-effective security and privacy of Federal agency information and information systems.
+The National Institute of Standards and Technology shall be responsible for developing andproposing standards and guidelines needed to assure the cost-effective security and privacy of Federal agency information and information systems.
 
 (Pub. L. 102–194, title II, §204, Dec. 9, 1991, 105 Stat. 1601; Pub. L. 114–329, title I, §105(m), Jan. 6, 2017, 130 Stat. 2984.)
 

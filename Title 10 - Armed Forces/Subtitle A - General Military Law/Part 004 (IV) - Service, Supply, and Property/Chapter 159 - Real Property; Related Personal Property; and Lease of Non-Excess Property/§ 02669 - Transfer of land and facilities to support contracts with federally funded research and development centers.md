@@ -20,7 +20,7 @@ Conveyance of Facilities and Improvements.—(1) The Secretary of a military dep
 
 (c)
 
-Construction Standards.—A lease entered into under this section may provide that any facilities constructed on the leased land may be constructed using commercial standards in a manner that provides force protection safeguards appropriate to the activities conducted in, and the location of, such facilities.
+Construction Standards.—A lease entered into under this section may provide that any facilities constructed on the leased land may beconstructed using commercial standards in a manner that provides force protection safeguards appropriate to the activities conducted in, and the location of, such facilities.
 
 (d)
 

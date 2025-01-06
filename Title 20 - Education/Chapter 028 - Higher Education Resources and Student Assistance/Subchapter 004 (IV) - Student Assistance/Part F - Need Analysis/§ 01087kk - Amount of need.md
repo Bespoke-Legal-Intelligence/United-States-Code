@@ -1,30 +1,14 @@
 ### §1087kk. Amount of need
 
-Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts <sup>1</sup> 1 or 2 of part A of this subchapter) is equal to—
+Except as otherwise provided therein, for award year 2024–2025 and each subsequent awardyear, the amount of need of any student for financial assistance under this subchapter (except subpart 1 or 2 of part A) is equal to—
 
 &emsp;(1) the cost of attendance of such student, minus
 
-&emsp;(2) the expected family contribution for such student, minus
+&emsp;(2) the student aid index (as defined in section 1087mm of this title) for such student, minus
 
-&emsp;(3) estimated financial assistance not received under this subchapter (as defined in section 1087vv(j) of this title).
+&emsp;(3) other financial assistance not received under this subchapter (as defined in section 1087vv(i) of this title).
 
-(Pub. L. 89–329, title IV, §471, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat.1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 105–244, title IV, §480(a), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 116–260, div. FF, title VII, §702(a)(1), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §102(b)(2), Mar. 15, 2022, 136 Stat. 819.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(a)(1), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §102(a), (b)(2), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
-
-#### §1087kk. Amount of need
-
-<i>Except as otherwise provided therein, for award year 2024–2025 and each subsequent award year, the amount of need of any student for financial assistance under this subchapter (except subpart 1 or 2 of part A) is equal to—</i>
-
-&emsp;<i>(1) the cost of attendance of such student, minus</i>
-
-&emsp;<i>(2) the student aid index (as defined in section 1087mm of this title) for such student, minus</i>
-
-&emsp;<i>(3) other financial assistance not received under this subchapter (as defined in section 1087vv(i) of this title).</i>
-
-<i>See 2020 and 2022 Amendment notes below.</i>
+(Pub. L. 89–329, title IV, §471, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 105–244, title IV, §480(a), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 116–260, div. FF, title VII, §702(a)(1), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §102(b)(2), Mar. 15, 2022, 136 Stat. 819.)
 
 #### <b>Editorial Notes</b>
 
@@ -159,6 +143,4 @@ Implementation.—The Secretary of Education shall consult with the Committee on
 "(g)
 
 Postponement of Tax Table Update Pending Report and Implementation.—The Secretary of Education shall not implement or enforce for the award year 2004–2005 the annual update to the allowances for State and other taxes in the tables used in the Federal needs analysis methodology, as prescribed by the Secretary on May 30, 2003 (68 Fed. Reg. 32473)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subpart".</i>
 

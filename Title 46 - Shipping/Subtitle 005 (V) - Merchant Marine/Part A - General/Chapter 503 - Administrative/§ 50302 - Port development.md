@@ -4,7 +4,7 @@
 
 General Requirements.—With the objective of promoting, encouraging, and developing ports and transportation facilities in connection with water commerce over which the Secretary of Transportation has jurisdiction, the Secretary, in cooperation with the Secretary of the Army, shall—
 
-&emsp;(1) investigate territorial regions and zones tributary to ports, taking into consideration the economies of transportation by rail, water, and highway and the natural direction of the flow of commerce;
+&emsp;(1) investigate territorial regions and zones tributary to ports, taking into consideration the economies of transportation by rail,water, and highway and the natural direction of the flow of commerce;
 
 &emsp;(2) investigate the causes of congestion of commerce at ports and applicable remedies;
 

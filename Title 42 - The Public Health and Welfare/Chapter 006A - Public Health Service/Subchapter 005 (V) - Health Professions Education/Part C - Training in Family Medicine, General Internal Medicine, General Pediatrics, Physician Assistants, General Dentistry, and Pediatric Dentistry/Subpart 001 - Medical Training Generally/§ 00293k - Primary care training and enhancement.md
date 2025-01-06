@@ -6,7 +6,7 @@
 
 &emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
-&emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residency or internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
+&emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residencyor internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
 
 &emsp;&emsp;(B) to provide need-based financial assistance in the form of traineeships and fellowships to medical students, interns, residents, practicing physicians, or other medical personnel, who are participants in any such program, and who plan to specialize or work in the practice of the fields defined in subparagraph (A);
 
@@ -34,7 +34,7 @@
 
 #### (3) Priorities in making awards
 
-&emsp;In awarding grants or contracts under paragraph (1), the Secretary may give priority to qualified applicants that train residents inrural areas, including for Tribes or Tribal Organizations in such areas.
+&emsp;In awarding grants or contracts under paragraph (1), the Secretary may give priority to qualified applicants that train residents in rural areas, including for Tribes or Tribal Organizations in such areas.
 
 #### (b) Capacity building in primary care
 
@@ -112,7 +112,7 @@ Another prior section 747 of act July 1, 1944, was classified to section 294g of
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a)(1)(G). Pub. L. 116–136, §3401(3)(A)(i), substituted "to plan, develop, and operate a programthat identifies or develops innovative models of providing care, and trains primary care physicians on such models and" for "to plan, develop, and operate a demonstration program that provides training" in introductory provisions.
+<b>2020</b>—Subsec. (a)(1)(G). Pub. L. 116–136, §3401(3)(A)(i), substituted "to plan, develop, and operate a program that identifies or develops innovative models of providing care, and trains primary care physicians on such models and" for "to plan, develop, and operate a demonstration program that provides training" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 116–136, §3401(3)(A)(ii), added par. (3).
 

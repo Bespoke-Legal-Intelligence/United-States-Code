@@ -78,7 +78,7 @@ The Fund shall have power—
 
 &emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
-&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, to make loans andequity investment, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
+&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, to make loans and equity investment, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (i) Accounting, auditing, and reporting
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall issue regulations establishing procedures under whicheligible units of general local government are required to provide notice to the Secretary of the units' proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
+In General.—The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units' proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
 
 &emsp;(1) The Drug Abuse Resistance Education Program under section 5122 of the Elementary and Secondary Education Act of 1965.
 
@@ -54,7 +54,7 @@ Alternative uses authorized.—In lieu of, or in addition to, use for an activit
 
 &emsp;(2)
 
-Notice deemed to describe consistent use.—Notice by a unit of general local government that it intends to use assistance under this chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section 6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
+Notice deemed to describe consistent use.—Notice by a unit of general local government that it intends to use assistance under this chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
 
 (d)
 
@@ -68,7 +68,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
-&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction,including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
+&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
 
 &emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
@@ -170,7 +170,7 @@ Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\]
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 

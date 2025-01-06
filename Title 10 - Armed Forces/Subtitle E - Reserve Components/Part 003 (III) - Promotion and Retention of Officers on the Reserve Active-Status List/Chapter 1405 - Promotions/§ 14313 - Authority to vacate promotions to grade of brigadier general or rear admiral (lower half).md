@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The President may vacate the appointment of a reserve officer to the grade of brigadier general or rear admiral (lower half) ifthe period of time during which the officer has served in that grade after promotion to that grade is less than 18 months.
+Authority.—The President may vacate the appointment of a reserve officer to the grade of brigadier general or rear admiral (lower half) if the period of time during which the officer has served in that grade after promotion to that grade is less than 18 months.
 
 (b)
 

@@ -214,7 +214,7 @@
 
 #### (2) Income eligibility
 
-&emsp;The income guidelines for determining eligibility for free lunches or breakfasts under this subsection shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
+&emsp;The income guidelines for determining eligibility for free lunches or breakfasts under this subsection shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, asadjusted annually in accordance with section 1758(b)(1)(B) of this title.
 
 #### (3) Evaluation
 
@@ -304,7 +304,7 @@
 
 &emsp;&emsp;There are authorized to be appropriated to carry out this subsection $10,000,000 for fiscal years 2011 through 2015.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264; Pub. L. 117–328, div. A, title VII, §777, Dec. 29, 2022, 136 Stat. 4510.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264; Pub. L. 117–328, div. A, title VII, §777, Dec. 29, 2022, 136 Stat. 4510.)
 
 #### <b>Editorial Notes</b>
 
@@ -376,7 +376,7 @@ Pub. L. 108–265, §116(f)(3), struck out "(other than a service institution de
 
 Subsec. (f)(5). Pub. L. 108–265, §116(f)(5)(D), substituted "programs" for "pilot projects" in heading and "the program" for "the pilot project" in text wherever appearing.
 
-Subsec. (f)(6). Pub. L. 108–265, §116(f)(4), added par. (6) and struck out heading and text of former par. (6), which related to interim and final reports on pilot projects carried out under this subsec.
+Subsec. (f)(6). Pub. L. 108–265, §116(f)(4), added par. (6) and struck out heading and text of former par. (6),which related to interim and final reports on pilot projects carried out under this subsec.
 
 Subsec. (g). Pub. L. 108–265, §120, added subsec. (g) and struck out heading and text of former subsec. (g), which related to fruit and vegetable pilot program.
 
@@ -468,7 +468,7 @@ Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -478,7 +478,7 @@ Amendment by sections 4303 and 4304(b) of Pub. L. 110–246 effective Oct. 1, 20
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–161 effective on Jan. 1 of the first full calendar year following Dec. 26, 2007, seesection 738(c) of Pub. L. 110–161, set out as a note under section 1761 of this title.
+Amendment by Pub. L. 110–161 effective on Jan. 1 of the first full calendar year following Dec. 26, 2007, see section 738(c) of Pub. L. 110–161, set out as a note under section 1761 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -507,6 +507,16 @@ Pub. L. 102–512, title I, §104, Oct. 24, 1992, 106 Stat. 3364, provided that:
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 95–627, set out as a note under section 1755 of this title.
+
+#### Funding for Pilot Projects To Award Grants for Tribal School Lunch Programs
+
+Pub. L. 118–42, div. B, title VII, §758, Mar. 9, 2024, 138 Stat. 114, provided that:
+
+"(a) For an additional amount for the Office of the Secretary, $2,000,000, to remain available until expended, for the Secretary of Agriculture to carry out no more than 10 pilot projects, under the terms and conditions determined by the Secretary for a period not to exceed 2 years, that award grants to an Indian tribe; a tribal organization approved by an Indian tribe; a tribal educational agency; a consortium of Indian tribes; or a partnership between an Indian tribe and either a State educational agency, a local educational agency, a tribal educational agency, or the Bureau of Indian Education to operate and implement the school lunch program as authorized by \[section 18 of\] the Richard B. Russell National School Lunch Act (42 U.S.C. 1769), the summer food service program as established under section 13 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1761\], the child and adult care food program as established by section 17 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1766\], or the school breakfast program established by \[section 4 of\] the Child Nutrition Act of 1966 (42 U.S.C. 1773) in either a Bureau-funded school (as defined in section 1141 of the Education Amendments of 1978 (25 U.S.C. 2021)); a school (as defined in section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)) on or near an Indian reservation; or an early child care and education facility: <i>Provided</i>, That to carry out this pilot program each grant awarded shall be no less than $10,000 and no more than $100,000 for each school year and shall not increase state administrative costs or the amount of benefits provided in any program: <i>Provided further</i>, That the term 'Indian tribe' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+"(b) Notwithstanding any other provision of law, a pilot project grant recipient shall be reimbursed for meals served under the school lunch program, the summer food service program, and the child and adult care food program as if the recipient were a State under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\]; and under the school breakfast program as if the recipient were a State educational agency.
+
+"(c) Not later than 1 year after the conclusion of the pilot program, the Secretary shall submit to Congress a report on the outcomes of the pilot program."
 
 #### Other Demonstration Projects for Feeding Homeless Children
 

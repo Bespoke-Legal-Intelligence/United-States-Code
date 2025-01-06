@@ -6,7 +6,7 @@ Except as otherwise expressly provided, in this section:
 
 #### (1) WIOA definitions
 
-&emsp;The terms "core program", "individual with a barrier to employment", "local area", "local board", "one-stop operator", "outlying area", "State", "State board", and "supportive services" have the meanings given the terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
+&emsp;The terms "core program", "individual with a barrier to employment", "local area", "local board", "one-stop operator", "outlying area","State", "State board", and "supportive services" have the meanings given the terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
 #### (2) Education provider
 
@@ -74,7 +74,7 @@ Except as otherwise expressly provided, in this section:
 
 #### (9) Substance use disorder
 
-&emsp;The term "substance use disorder" has the meaning given such term by the AssistantSecretary for Mental Health and Substance Use.
+&emsp;The term "substance use disorder" has the meaning given such term by the Assistant Secretary for Mental Health and Substance Use.
 
 #### (10) Treatment provider
 
@@ -204,7 +204,7 @@ Except as otherwise expressly provided, in this section:
 
 #### (C) Timing of subgrant funds distribution
 
-&emsp;&emsp;An eligible entity making subgrants under this subsection shall disburse subgrant funds to a local board receiving a subgrant from the eligible entity by the later of—
+&emsp;&emsp;An eligible entity making subgrants under this subsection shall disburse subgrant fundsto a local board receiving a subgrant from the eligible entity by the later of—
 
 &emsp;&emsp;&emsp;(i) the date that is 90 days after the date on which the Secretary makes the funds available to the eligible entity; or
 
@@ -452,7 +452,7 @@ Except as otherwise expressly provided, in this section:
 
 #### (4) Limitation
 
-&emsp;The Secretary may not use more than $100,000,000 of the funds described in paragraph (2) for any covered fiscal year under this section.
+&emsp;The Secretary may not use more than $100,000,000 of the funds described in paragraph\(2) for any covered fiscal year under this section.
 
 (Pub. L. 115–271, title VIII, §8041, Oct. 24, 2018, 132 Stat. 4083.)
 

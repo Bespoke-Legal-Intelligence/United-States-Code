@@ -54,6 +54,8 @@ Subsec. (e). Pub. L. 100–250 substituted "twenty" for "ten".
 
 Subsec. (e). Pub. L. 96–87, §401(q)(4), provided that the Commission terminate ten years from November 10, 1978.
 
+
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined

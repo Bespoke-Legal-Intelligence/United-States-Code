@@ -25,7 +25,7 @@
 | [1521\.](%C2%A7%2001521%20-%20Negotiations%20with%20Canada%20and%20Mexico%3B%20report%20to%20Congress.md) | Negotiations with Canada and Mexico; report to Congress. |
 | [1522\.](%C2%A7%2001522%20-%20Limitations%20on%20export%20provisions%20of%20section%20185%28u%29%20of%20title%2030%20unaffected.md) | Limitations on export provisions of section 185(u) of title 30 unaffected. |
 | [1523\.](%C2%A7%2001523%20-%20General%20procedures%3B%20issuance%20and%20enforcement%20of%20orders%3B%20scope%20of%20authority%3B%20evidentiary%20matters.md) | General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters. |
-| [1524\.](%C2%A7%2001524%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1524\.](%C2%A7%2001524%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73535%28k%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202315.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,4 +58,4 @@
 - [&sect; 01521 - Negotiations with Canada and Mexico; report to Congress](%C2%A7%2001521%20-%20Negotiations%20with%20Canada%20and%20Mexico%3B%20report%20to%20Congress.md)
 - [&sect; 01522 - Limitations on export provisions of section 185(u) of title 30 unaffected](%C2%A7%2001522%20-%20Limitations%20on%20export%20provisions%20of%20section%20185%28u%29%20of%20title%2030%20unaffected.md)
 - [&sect; 01523 - General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters](%C2%A7%2001523%20-%20General%20procedures%3B%20issuance%20and%20enforcement%20of%20orders%3B%20scope%20of%20authority%3B%20evidentiary%20matters.md)
-- [&sect; 01524 - Authorization of appropriations](%C2%A7%2001524%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01524 - Repealed. Pub. L. 118&#8211;159, div. C, title XXXV, &sect;3535(k), Dec. 23, 2024, 138 Stat. 2315](%C2%A7%2001524%20-%20Repealed.%20Pub.%20L.%20118%E2%80%93159%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73535%28k%29%2C%20Dec.%2023%2C%202024%2C%20138%20Stat.%202315.md)

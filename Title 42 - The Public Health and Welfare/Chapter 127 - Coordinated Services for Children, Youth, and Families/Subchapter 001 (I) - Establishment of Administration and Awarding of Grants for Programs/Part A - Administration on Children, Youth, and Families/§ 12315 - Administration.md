@@ -20,7 +20,7 @@ In carrying out this subchapter, the Commissioner is authorized to—
 
 #### (1) In general
 
-&emsp;Subject to agreements made between the Commissioner and the head of such agency or organization, in carrying out the duties referred to in subsection (a) the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations.<sup>1</sup>
+&emsp;Subject to agreements made between the Commissioner and the head of such agency ororganization, in carrying out the duties referred to in subsection (a) the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations.<sup>1</sup>
 
 #### (2) Payment
 

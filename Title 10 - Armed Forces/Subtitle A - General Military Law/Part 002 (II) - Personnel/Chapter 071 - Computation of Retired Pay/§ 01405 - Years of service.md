@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For the purposes of the computation of the years of service of a member ofthe armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
+In General.—For the purposes of the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
 
 &emsp;(1) his years of active service;
 
@@ -20,7 +20,7 @@ Fractional Years of Service.—In determining a member's years of service under 
 
 (c)
 
-Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
+Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, orCoast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
 
 (2) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
@@ -84,7 +84,7 @@ Pub. L. 87–649 substituted "section 205(a)(7) and (8) of title 37" for "sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 

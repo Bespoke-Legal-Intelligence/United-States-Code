@@ -29,6 +29,18 @@ A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR S
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Supply Chain Illumination Incentives
+
+Pub. L. 118–159, div. A, title VIII, §849, Dec. 23, 2024, 138 Stat. 1994, provided that:
+
+"(a)
+
+In General.—Not later than April 1, 2026, the Secretary of Defense shall develop and implement policies, procedures, and tools to incentivize each contractor of the Department of Defense to assess and monitor the entire supply chain of goods and services provided to the Department by such contractor to identify potential vulnerabilities and noncompliance risks with respect to such goods and services.
+
+"(b)
+
+Briefing.—Not later than September 30, 2025, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the development and implementation of the policies, procedures, and tools under subsection (a), including information on obstacles to developing and implementing such policies, if any, and additional authorities or resources required to develop and implement such policies."
+
 #### Pilot Program To Analyze and Monitor Certain Supply Chains
 
 Pub. L. 118–31, div. A, title VIII, §856, Dec. 22, 2023, 137 Stat. 345, provided that:
@@ -49,7 +61,7 @@ Use of Tools.—The Under Secretary may use a combination of commercial tools an
 
 "(c)
 
-Annual Reports.—Not later than one year after the date of the enactment of this Act, and annuallythereafter until the date specified in subsection (d), the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing—
+Annual Reports.—Not later than one year after the date of the enactment of this Act, and annually thereafter until the date specified in subsection (d), the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing—
 
 &emsp;"(1) a list of the vulnerabilities of the supply chains for each covered weapons platform selected under subsection (a), categorized by severity of threat or risk to deployment of such a platform;
 
@@ -153,7 +165,7 @@ Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provi
 
 "(a)
 
-Development and Implementation of Capability.—The Secretary of Defense shall develop and implement a capability for quantifiable assurance to achieve practical, affordable, and risk-based objectives for security of microelectronics to enable the Department of Defense to access and apply state-of-the-art microelectronics for military purposes.
+Development and Implementation of Capability.—The Secretary of Defense shall develop and implement a capability for quantifiable assurance toachieve practical, affordable, and risk-based objectives for security of microelectronics to enable the Department of Defense to access and apply state-of-the-art microelectronics for military purposes.
 
 "(b)
 
@@ -169,7 +181,7 @@ National security agency.—The Director of the National Security Agency shall t
 
 &emsp;"(3)
 
-Briefing.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering and the Director of the National Security Agency shall jointly provide the congressional defense committees a briefing on the requirements and the schedule for support established under paragraph (1).
+Briefing.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering and the Director of the National Security Agency shall jointly provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the requirements and the schedule for support established under paragraph (1).
 
 "(c)
 
@@ -177,7 +189,7 @@ Assessment.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall assess whether the Department of Defense, to enableexpanded use of unprogrammed application specific integrated circuits or other custom-designed integrated circuits manufactured by a supplier that is not using processes accredited by the Defense Microelectronics Activity for the purpose of enabling the Department to access commercial state-of-the-art microelectronics technology using risk-based quantifiable assurance security methodology, should—
+In general.—The Secretary of Defense shall assess whether the Department of Defense, to enable expanded use of unprogrammed application specific integrated circuits or other custom-designed integrated circuits manufactured by a supplier that is not using processes accredited by the Defense Microelectronics Activity for the purpose of enabling the Department to access commercial state-of-the-art microelectronics technology using risk-based quantifiable assurance security methodology, should—
 
 &emsp;&emsp;"(A) seek changes to the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations, and Department of Defense Instruction 5200.44 (relating to protection of mission critical functions to achieve trusted systems and networks); and
 
@@ -185,7 +197,7 @@ In general.—The Secretary of Defense shall assess whether the Department of De
 
 &emsp;"(2)
 
-Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the findings of the Secretary with respect to the assessment conducted under paragraph (1)."
+Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide the congressional defense committees a briefing on the findings of the Secretary with respect to the assessment conducted under paragraph (1)."
 
 #### Government-Industry-Academia Working Group on Microelectronics
 
@@ -242,6 +254,36 @@ Rule of Construction.—Nothing in this section shall be construed to allow the 
 Sunset.—The provisions of this section shall terminate on December 31, 2030."
 
 #### Risk Management for Department of Defense Pharmaceutical Supply Chains
+
+Pub. L. 118–159, div. A, title VIII, §850, Dec. 23, 2024, 138 Stat. 1994, provided that:
+
+"(a)
+
+In General.—Not later than two years after the date of the enactment of this Act \[Dec. 23, 2024\], the Under Secretary of Defense for Acquisition and Sustainment shall—
+
+&emsp;"(1) submit to the Committees on Armed Services of the Senate and the House of Representatives a report on—
+
+&emsp;&emsp;"(A) existing information streams within the Federal Government, if any, for excipients and key starting materials for final drug products that may be used to assess the reliance by the Department of Defense on high-risk foreign suppliers analyzed in the report required under section 860(a) of the National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2734; 10 U.S.C. 3241 note prec.) \[set out below\];
+
+&emsp;&emsp;"(B) active pharmaceutical ingredients, final drug products, and respective excipients and key starting materials analyzed in such report that are manufactured in a high-risk foreign country, as determined by the Secretary of Defense;
+
+&emsp;&emsp;"(C) any limitations on the ability of the Secretary to—
+
+&emsp;&emsp;&emsp;"(i) obtain or analyze the information identified under subparagraphs (A) and (B);
+
+&emsp;&emsp;&emsp;"(ii) monitor the temperature of active pharmaceutical ingredients, final drug products, and respective excipients and key starting materials throughout the supply chain of the Department; and
+
+&emsp;&emsp;&emsp;"(iii) use data analytics to monitor vulnerabilities in the pharmaceutical supply chain of the Department;
+
+&emsp;&emsp;"(D) how the Secretary plans to address the limitations identified under subparagraph (C); and
+
+&emsp;&emsp;"(E) any recommendations of the Secretary to address those limitations; and
+
+&emsp;"(2) update risk management guidance developed by the Under Secretary under section 860(a)(1) of the National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 3241 note prec.) to include any relevant findings identified in paragraph (1).
+
+"(b)
+
+FDA Determinations.—For the purposes of this section, the excipients and key starting materials for final drug products shall be such excipients and key starting materials as determined by the Food and Drug Administration or under regulations issued by the Food and Drug Administration."
 
 Pub. L. 117–263, div. A, title VIII, §860, Dec. 23, 2022, 136 Stat. 2734, provided that:
 
@@ -389,7 +431,7 @@ Elements.—The strategy under subsection (a) shall include the following:
 
 &emsp;&emsp;"(A) developing a national laboratory exclusively focused on the research and development of microelectronics to serve as a center for Federal Government expertise in high-performing, trusted microelectronics and as a hub for Federal Government research into breakthrough microelectronics-related technologies; and
 
-&emsp;&emsp;"(B) incorporating into such national laboratory a commercial incubator to provide early-stage microelectronics startups, which face difficultiesscaling due to the high costs of microelectronics design and fabrication, with access to funding resources, fabrication facilities, design tools, and shared intellectual property.
+&emsp;&emsp;"(B) incorporating into such national laboratory a commercial incubator to provide early-stage microelectronics startups, which face difficulties scaling due to the high costs of microelectronics design and fabrication, with access to funding resources, fabrication facilities, design tools, and shared intellectual property.
 
 &emsp;"(16) The development of multiple models of public-private partnerships to execute the strategy, including in-depth analysis of establishing a semiconductor manufacturing corporation to leverage private sector technical, managerial, and investment expertise, and private capital, that would have the authority and funds to provide grants or approve investment tax credits, or both, to implement the strategy.
 
@@ -475,7 +517,7 @@ Avoidance of Use of Lowest Price Technically Acceptable Source Selection Criteri
 
 &emsp;"(3) knowledge-based training or logistics services in contingency operations or other operations outside the United States, including in Afghanistan or Iraq."
 
-\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under\[former\] subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
+\[Pub. L. 115–91, div. A, title VIII, §822(b)(2), Dec. 12, 2017, 131 Stat. 1465, provided that: "The amendment made by this subsection \[amending section 813 of Pub. L. 114–328, set out above\] shall apply with respect to the second, third, and fourth reports submitted under \[former\] subsection (d) of section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat 2271; 10 U.S.C. 2305 note)."\]
 
 #### Use of Commercial or Non-Government Standards in Lieu of Military Specifications and Standards
 
@@ -527,7 +569,7 @@ Review of Anti-competitive Specifications in Information Technology Acquisitions
 
 &emsp;"(1)
 
-Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy, guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
+Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy,guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
 
 &emsp;"(2)
 
@@ -571,7 +613,7 @@ Pub. L. 113–291, div. A, title VIII, §852, Dec. 19, 2014, 128 Stat. 3458, as 
 
 #### Detection and Avoidance of Counterfeit Electronic Parts
 
-Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1493–1496, as amended by Pub. L. 112–239,div. A, title VIII, §833, Jan. 2, 2013, 126 Stat. 1844; Pub. L. 113–291, div. A, title VIII, §817, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 114–92, div. A, title VIII, §885, Nov. 25, 2015, 129 Stat. 948; Pub. L. 114–328, div. A, title VIII, §815, Dec. 23, 2016, 130 Stat. 2271; Pub. L. 115–232, div. A, title VIII, §812(b)(5), Aug. 13, 2018, 132 Stat. 1848, provided that:
+Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1493–1496, as amended by Pub. L. 112–239, div. A, title VIII, §833, Jan. 2, 2013, 126 Stat. 1844; Pub. L. 113–291, div. A, title VIII, §817, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 114–92, div. A, title VIII, §885, Nov. 25, 2015, 129 Stat. 948; Pub. L. 114–328, div. A, title VIII, §815, Dec. 23, 2016, 130 Stat. 2271; Pub. L. 115–232, div. A, title VIII, §812(b)(5), Aug. 13, 2018, 132 Stat. 1848, provided that:
 
 "(a)
 
@@ -695,23 +737,7 @@ Definitions.—In subsections (a) through (e) of this section:
 
 #### Contracts for Commercial Imaging Satellite Capacities
 
-Pub. L. 111–383, div. A, title I, §127, Jan. 7, 2011, 124 Stat. 4161, provided that:
-
-"(a)
-
-Telescope Requirements Under Contracts After 2010.—Except as provided in subsection (b), any contract for additional commercial imaging satellite capability or capacity entered into by the Department of Defense after December 31, 2010, shall require that the imaging telescope providing such capability or capacity under such contract has an aperture of not less than 1.5 meters.
-
-"(b)
-
-Waiver.—The Secretary of Defense may waive the limitation in subsection (a) if—
-
-&emsp;"(1) the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] written certification that the waiver is in the national security interests of the United States; and
-
-&emsp;"(2) a period of 30 days has elapsed following the date on which the certification under paragraph (1) is submitted.
-
-"(c)
-
-Continuation of Current Contracts.—The limitation in subsection (a) may not be construed to prohibit or prevent the Secretary of Defense from continuing or maintaining current commercial imaging satellite capability or capacity in orbit or under contract by December 31, 2010."
+Pub. L. 111–383, div. A, title I, §127, Jan. 7, 2011, 124 Stat. 4161, which required any contract, entered into by the Department of Defense after Dec. 31, 2010, for additional commercial imaging satellite capability or capacity to have aperture of not less than 1.5 meters, was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(C), Dec. 23, 2024, 138 Stat. 1979.
 
 #### Pilot Program on Acquisition of Military Purpose Nondevelopmental Items
 
@@ -857,7 +883,7 @@ Full and open competition.—The full and open competition described in this par
 
 &emsp;&emsp;"(A) is open to all developmental item solutions and non-developmental item solutions; and
 
-&emsp;&emsp;"(B) provides for the award of a contract based on selection criteria that reflect the key performanceparameters and attributes identified in a service requirements document approved by the Army.
+&emsp;&emsp;"(B) provides for the award of a contract based on selection criteria that reflect the key performance parameters and attributes identified in a service requirements document approved by the Army.
 
 "(c)
 
@@ -929,7 +955,7 @@ Requirements.—At a minimum, the strategy shall—
 
 "(d)
 
-Policies and Actions for Assuring Trust in Integrated Circuits.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall—
+Policies and Actions for Assuring Trust in Integrated Circuits.—Not later than 180 days after thedate of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall—
 
 &emsp;"(1) develop policy requiring that trust assurance be a high priority for covered acquisition programs in all phases of the electronic component supply chain and integrated circuit development and production process, including design and design tools, fabrication of the semiconductors, packaging, final assembly, and test;
 
@@ -961,53 +987,7 @@ Definitions.—In this section:
 
 #### Enhanced Authority To Acquire Products and Services Produced in Afghanistan
 
-Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, as amended by Pub. L. 112–239, div. A, titleVIII, §842, Jan. 2, 2013, 126 Stat. 1845; Pub. L. 114–92, div. A, title VIII, §886(a), Nov. 25, 2015, 129 Stat. 949, provided that:
-
-"(a)
-
-In General.—In the case of a product or service to be acquired in support of military operations or stability operations in Afghanistan (including security, transition, reconstruction, and humanitarian relief activities) for which the Secretary of Defense makes a determination described in subsection (b), and except as provided in subsection (d), the Secretary may conduct a procurement in which—
-
-&emsp;"(1) competition is limited to products or services that are from Afghanistan;
-
-&emsp;"(2) procedures other than competitive procedures are used to award a contract to a particular source or sources from Afghanistan; or
-
-&emsp;"(3) a preference is provided for products or services that are from Afghanistan.
-
-"(b)
-
-Determination.—A determination described in this subsection is a determination by the Secretary that—
-
-&emsp;"(1) the product or service concerned is to be used only by the military forces, police, or other security personnel of Afghanistan; or
-
-&emsp;"(2) it is in the national security interest of the United States to limit competition, use procedures other than competitive procedures, or provide a preference as described in subsection (a) because—
-
-&emsp;&emsp;"(A) such limitation, procedure, or preference is necessary to provide a stable source of jobs in Afghanistan; and
-
-&emsp;&emsp;"(B) such limitation, procedure, or preference will not adversely affect—
-
-&emsp;&emsp;&emsp;"(i) military operations or stability operations in Afghanistan; or
-
-&emsp;&emsp;&emsp;"(ii) the United States industrial base.
-
-"(c)
-
-Products, Services, and Sources From Afghanistan.—For the purposes of this section:
-
-&emsp;"(1) A product is from Afghanistan if it is mined, produced, or manufactured in Afghanistan.
-
-&emsp;"(2) A service is from Afghanistan if it is performed in Afghanistan by citizens or permanent resident aliens of Afghanistan.
-
-&emsp;"(3) A source is from Afghanistan if it—
-
-&emsp;&emsp;"(A) is located in Afghanistan; and
-
-&emsp;&emsp;"(B) offers products or services that are from Afghanistan.
-
-"(d)
-
-Exclusion of Items on the AbilityOne Procurement Catalog.—The authority under subsection (a) shall not be available for the procurement of any good that is contained in the procurement catalog described in section 8503(a) of title 41, United States Code, in Afghanistan if such good can be produced and delivered by a qualified nonprofit agency for the blind or a nonprofit agency for other severely disabled \[sic\] in a timely fashion to support mission requirements."
-
-\[Pub. L. 112–239, div. A, title VIII, §842(1), Jan. 2, 2013, 126 Stat. 1845, which directed amendment of section 886 of Pub. L. 110–181, set out above, by striking "Iraq or" in section heading, was executed by striking "Iraq and", to reflect the probable intent of Congress.\]
+Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, as amended by Pub. L. 112–239, div. A, title VIII, §842, Jan. 2, 2013, 126 Stat. 1845; Pub. L. 114–92, div. A, title VIII, §886(a), Nov. 25, 2015, 129 Stat. 949, which allowed the Secretary of Defense to procure products or services acquired in support of military operations or stability operations in Afghanistan (including security, transition, reconstruction, and humanitarian relief activities), was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(B), Dec. 23, 2024, 138 Stat. 1979.
 
 #### Prevention of Export Control Violations
 
@@ -1149,7 +1129,7 @@ Assessment of Training and Education.—The Secretary of Defense shall assess th
 
 "(c)
 
-Reporting Requirement.—Not later than March 1, 2004, and each March 1 thereafter through 2007, theSecretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report detailing the results obtained from the tracking system developed under subsection (a).
+Reporting Requirement.—Not later than March 1, 2004, and each March 1 thereafter through 2007, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report detailing the results obtained from the tracking system developed under subsection (a).
 
 "(d)
 

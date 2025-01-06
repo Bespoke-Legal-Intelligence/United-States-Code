@@ -70,7 +70,7 @@
 
 &emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
-(e) The Secretary of the Navy shall ensure that the Office of the Secretary of the Navy, theOffice of the Chief of Naval Operations, and the Headquarters, Marine Corps, do not duplicate specific functions for which the Secretary has assigned responsibility to another of such offices.
+(e) The Secretary of the Navy shall ensure that the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, do not duplicate specific functions for which the Secretary has assigned responsibility to another of such offices.
 
 (f)(1) The total number of members of the armed forces and civilian employees of the Department of the Navy assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 3,150.
 

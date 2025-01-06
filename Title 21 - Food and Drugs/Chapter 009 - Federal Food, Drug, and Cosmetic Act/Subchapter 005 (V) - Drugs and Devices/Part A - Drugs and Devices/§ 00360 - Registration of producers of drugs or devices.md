@@ -190,7 +190,7 @@ Each person who is required to register under this section and who proposes to b
 
 &emsp;(2) action taken by such person to comply with requirements under section 360d or 360e of this title which are applicable to the device.
 
-> A notification submitted under this subsection that contains clinical trial data for an applicable device clinical trial (as defined in section 282(j)(1) of title 42) shall be accompanied by the certification required under section 282(j)(5)(B) of such title. Such certification shall not be considered an element of such notification.
+> A notification submitted under this subsection that contains clinical trial data for an applicable device clinical trial (as defined in section282(j)(1) of title 42) shall be accompanied by the certification required under section 282(j)(5)(B) of such title. Such certification shall not be considered an element of such notification.
 
 #### (l) Exemption from reporting requirements
 
@@ -256,7 +256,7 @@ Each person who is required to register under this section and who proposes to b
 
 &emsp;(C) In the case of semi-critical devices, the initial list under subparagraph (A) shall be published not later than 18 months after the effective date of this subsection. In the case of critical devices, the initial list under such subparagraph shall be published not later than six months after such effective date.
 
-&emsp;(D) Section 352(o) of this title applies with respect to the failure to submit a report under subsection (k) that is required pursuant to subparagraph (A), including a failure of the report to include validation data required in such subparagraph.
+&emsp;(D) Section 352(o) of this title applies with respect to the failure to submit a report undersubsection (k) that is required pursuant to subparagraph (A), including a failure of the report to include validation data required in such subparagraph.
 
 &emsp;(E) The termination under subparagraph (A) of an exemption under subsection (l) or (m) for a critical or semi-critical reprocessed single-use device does not terminate the exemption under subsection (l) or (m) for the original device.
 
@@ -330,7 +330,7 @@ Subsec. (l)(1). Pub. L. 117–328, §3308(b)(1), inserted ", or with respect to
 
 <b>2020</b>—Subsec. (j)(3) to (5). Pub. L. 116–136, §3112(e), as amended by Pub. L. 117–328, §2515(a)(3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-<b>2017</b>—Subsec. (h)(2). Pub. L. 115–52, §701(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by personsaccredited to conduct inspections under section 374(g) of this title, at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter."
+<b>2017</b>—Subsec. (h)(2). Pub. L. 115–52, §701(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Every establishment described in paragraph (1), in any State, that is engagedin the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under section 374(g) of this title, at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter."
 
 Subsec. (h)(4). Pub. L. 115–52, §701(a)(2)(A), substituted "paragraph (2) or (3)" for "paragraph (3)" in introductory provisions.
 
@@ -450,7 +450,7 @@ Subsec. (j)(1)(C). Pub. L. 94–295, §4(a)(8)(F), substituted "an applicable li
 
 Subsec. (j)(1)(D). Pub. L. 94–295, §4(a)(8)(G), substituted "a list" for "the list", inserted "or the particular device contained in such list is not subject to a performance standard established under section 360d of this title or to section 360e of this title or is not a restricted device" after "or 360b of this title,", and substituted "particular drug product or device" for "particular drug product" wherever appearing.
 
-Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted "drug or device" for "drug" in subpars. (A), (B), and (C), and substituted "(each by established name" for "(by established name" in subpar. (C).
+Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted "drug or device" for "drug" in subpars. (A), (B), and\(C), and substituted "(each by established name" for "(by established name" in subpar. (C).
 
 Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 
@@ -522,7 +522,7 @@ Pub. L. 92–387, §2, Aug. 16, 1972, 86 Stat. 559, provided that: "The Federal 
 
 #### Congressional Declaration of Need for Registration and Inspection of Drug Establishments
 
-Pub. L. 87–781, title III, §301, Oct. 10, 1962, 76 Stat. 793, provided that: "The Congress hereby finds and declares that in order to make regulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments inwhich drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce."
+Pub. L. 87–781, title III, §301, Oct. 10, 1962, 76 Stat. 793, provided that: "The Congress hereby finds and declaresthat in order to make regulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments in which drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce."
 
 #### Registration of Certain Persons Owning or Operating Drug Establishments Prior to Oct. 10, 1962
 

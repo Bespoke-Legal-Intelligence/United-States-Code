@@ -242,3 +242,91 @@ Section 16279a of this title (as added by section 2003), referred to in subsec. 
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Development, Qualification, and Licensing of Advanced Nuclear Fuel Concepts
+
+Pub. L. 118–67, div. B, title IV, §404, July 9, 2024, 138 Stat. 1469, provided that:
+
+"(a)
+
+In General.—The \[Nuclear Regulatory\] Commission shall establish an initiative to enhance preparedness and coordination with respect to the qualification and licensing of advanced nuclear fuel.
+
+"(b)
+
+Agency Coordination.—Not later than 180 days after the date of enactment of this Act \[July 9, 2024\], the Commission and the Secretary of Energy shall enter into a memorandum of understanding—
+
+&emsp;"(1) to share technical expertise and knowledge through—
+
+&emsp;&emsp;"(A) enabling the testing and demonstration of accident tolerant fuels for existing commercial nuclear reactors and advanced nuclear reactor fuel concepts to be proposed and funded, in whole or in part, by the private sector;
+
+&emsp;&emsp;"(B) operating a database to store and share data and knowledge relevant to nuclear science and engineering between Federal agencies and the private sector;
+
+&emsp;&emsp;"(C) leveraging expertise with respect to safety analysis and research relating to advanced nuclear fuel; and
+
+&emsp;&emsp;"(D) enabling technical staff to actively observe and learn about technologies, with an emphasis on identification of additional information needed with respect to advanced nuclear fuel; and
+
+&emsp;"(2) to ensure that—
+
+&emsp;&emsp;"(A) the Department of Energy has sufficient technical expertise to support the timely research, development, demonstration, and commercial application of advanced nuclear fuel;
+
+&emsp;&emsp;"(B) the Commission has sufficient technical expertise to support the evaluation of applications for licenses, permits, and design certifications and other requests for regulatory approval for advanced nuclear fuel;
+
+&emsp;&emsp;"(C)(i) the Department of Energy maintains and develops the facilities necessary to enable the timely research, development, demonstration, and commercial application by the civilian nuclear industry of advanced nuclear fuel; and
+
+&emsp;&emsp;"(ii) the Commission has access to the facilities described in clause (i), as needed; and
+
+&emsp;&emsp;"(D) the Commission consults, as appropriate, with the modeling and simulation experts at the Office of Nuclear Energy of the Department of Energy, at the National Laboratories, and within industry fuel vendor teams in cooperative agreements with the Department of Energy to leverage physics-based computer modeling and simulation capabilities.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act, the Commission shall submit to the appropriate committees of Congress \[Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate\] a report describing the efforts of the Commission under subsection (a), including—
+
+&emsp;&emsp;"(A) an assessment of the preparedness of the Commission to review and qualify for use—
+
+&emsp;&emsp;&emsp;"(i) accident tolerant fuel;
+
+&emsp;&emsp;&emsp;"(ii) ceramic cladding materials;
+
+&emsp;&emsp;&emsp;"(iii) fuels containing silicon carbide;
+
+&emsp;&emsp;&emsp;"(iv) high-assay, low-enriched uranium fuels;
+
+&emsp;&emsp;&emsp;"(v) molten-salt based liquid fuels;
+
+&emsp;&emsp;&emsp;"(vi) fuels derived from spent nuclear fuel or depleted uranium; and
+
+&emsp;&emsp;&emsp;"(vii) other related fuel concepts, as determined by the Commission;
+
+&emsp;&emsp;"(B) activities planned or undertaken under the memorandum of understanding described in subsection (b);
+
+&emsp;&emsp;"(C) an accounting of the areas of research needed with respect to advanced nuclear fuel; and
+
+&emsp;&emsp;"(D) any other challenges or considerations identified by the Commission.
+
+&emsp;"(2)
+
+Consultation.—In developing the report under paragraph (1), the Commission shall seek input from—
+
+&emsp;&emsp;"(A) the Secretary of Energy;
+
+&emsp;&emsp;"(B) National Laboratories;
+
+&emsp;&emsp;"(C) the nuclear energy industry;
+
+&emsp;&emsp;"(D) technology developers;
+
+&emsp;&emsp;"(E) nongovernmental organizations; and
+
+&emsp;&emsp;"(F) other public stakeholders."
+
+\[For definitions of terms used in section 404 of Pub. L. 118–67, set out above, see section 2 of Pub. L. 118–67, set out as a note under section 2011 of this title.\]
+
+#### Receipts To Be Credited to American Energy Independence Fund
+
+Pub. L. 118–42, div. D, title III, §312(a), Mar. 9, 2024, 138 Stat. 210, provided in part: "That notwithstanding 31 U.S.C. 3302, receipts from the sale or transfer of LEU and HALEU or from any other transaction in connection with the amounts repurposed, transferred, or otherwise made available pursuant to this section shall hereafter be credited to the 'American Energy Independence Fund' as discretionary offsetting collections and shall be available, for the same purposes as funds repurposed or transferred pursuant to this section, to the extent and in the amounts provided in advance in appropriations Acts: <i>Provided further</i>, That receipts may hereafter be collected from transactions entered into pursuant to section 2001(a)(2)(F)(iii) of the Energy Act of 2020 (42 U.S.C. 16281(a)(2)(F)(iii)) and, notwithstanding 31 U.S.C. 3302, receipts from any transaction entered into pursuant to section 2001(a)(2)(F)(ii) and (iii) of such Act (42 U.S.C. 16281(a)(2)(F)(ii) and (iii)) shall hereafter be credited to the 'American Energy Independence Fund' as discretionary offsetting collections and shall be available, for the same purposes as funds repurposed or transferred pursuant to this section, to the extent and in the amounts provided in advance in appropriations Acts".
+

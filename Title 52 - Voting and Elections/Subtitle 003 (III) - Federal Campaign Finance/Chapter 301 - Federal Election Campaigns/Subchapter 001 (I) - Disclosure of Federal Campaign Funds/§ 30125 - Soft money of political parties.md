@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding clause (i) or (ii) of section 30101(20)(A) of this title, and subject to subparagraph (B), paragraph (1) shall not apply to any amount expended or disbursed by a State, district, or local committee of a political party for an activity described in either such clause to the extent the amounts expended or disbursed for such activity are allocated (under regulations prescribed by the Commission) among amounts—
+&emsp;&emsp;Notwithstanding clause (i) or (ii) of section 30101(20)(A) of this title, and subject tosubparagraph (B), paragraph (1) shall not apply to any amount expended or disbursed by a State, district, or local committee of a political party for an activity described in either such clause to the extent the amounts expended or disbursed for such activity are allocated (under regulations prescribed by the Commission) among amounts—
 
 &emsp;&emsp;&emsp;(i) which consist solely of contributions subject to the limitations, prohibitions, and reporting requirements of this Act (other than amounts described in subparagraph (B)(iii)); and
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) the activity does not refer to a clearly identified candidate for Federal office;
 
-&emsp;&emsp;&emsp;(ii) the amounts expended or disbursed are not for the costs of any broadcasting, cable, or satellite communication, otherthan a communication which refers solely to a clearly identified candidate for State or local office;
+&emsp;&emsp;&emsp;(ii) the amounts expended or disbursed are not for the costs of any broadcasting, cable, or satellite communication, other than a communication which refers solely to a clearly identified candidate for State or local office;
 
 &emsp;&emsp;&emsp;(iii) the amounts expended or disbursed which are described in subparagraph (A)(ii) are paid from amounts which are donated in accordance with State law and which meet the requirements of subparagraph (C), except that no person (including any person established, financed, maintained, or controlled by such person) may donate more than $10,000 to a State, district, or local committee of a political party in a calendar year for such expenditures or disbursements; and
 
@@ -78,7 +78,7 @@ A national, State, district, or local committee of a political party (including 
 
 &emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions to candidates and political committees under paragraphs (1), (2), and (3) of section 30116(a) of this title; and
 
-&emsp;&emsp;&emsp;(ii) are not from sources prohibited by this Act from making contributions in connection with an election for Federal office.
+&emsp;&emsp;&emsp;(ii) are not from sources prohibited by this Act from making contributions inconnection with an election for Federal office.
 
 #### (2) State law
 

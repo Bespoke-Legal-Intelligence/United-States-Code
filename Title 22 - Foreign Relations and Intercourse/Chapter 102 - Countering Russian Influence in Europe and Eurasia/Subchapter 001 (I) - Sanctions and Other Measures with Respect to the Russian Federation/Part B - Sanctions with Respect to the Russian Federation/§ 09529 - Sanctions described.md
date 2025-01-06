@@ -22,7 +22,7 @@ The sanctions to be imposed with respect to a person under section 9524(a)(2), 9
 
 #### (3) Loans from United States financial institutions
 
-&emsp;The President may prohibit any United States financial institution from making loans or providing credits to the sanctioned person totaling more than $10,000,000 in any 12-month period unless the person is engaged in activities to relieve human suffering and the loans or credits are provided for such activities.
+&emsp;The President may prohibit any United States financial institution from makingloans or providing credits to the sanctioned person totaling more than $10,000,000 in any 12-month period unless the person is engaged in activities to relieve human suffering and the loans or credits are provided for such activities.
 
 #### (4) Loans from international financial institutions
 

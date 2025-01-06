@@ -30,7 +30,7 @@
 
 #### (F) Revocation authority
 
-&emsp;&emsp;The Secretary shall revoke the designation of a lender, holder, or servicer under subparagraph (A) if any quarterly audit required under subparagraph (E) is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender, holder, or servicer has failed to meet the standards for designation as an exceptional performer under subparagraph (A). A lender, holder, or servicer receiving a compliance audit not meeting the standard for designation as an exceptional performer may reapply for designation under subparagraph (A) at any time.
+&emsp;&emsp;The Secretary shall revoke the designation of a lender, holder, or servicer undersubparagraph (A) if any quarterly audit required under subparagraph (E) is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender, holder, or servicer has failed to meet the standards for designation as an exceptional performer under subparagraph (A). A lender, holder, or servicer receiving a compliance audit not meeting the standard for designation as an exceptional performer may reapply for designation under subparagraph (A) at any time.
 
 #### (G) Documentation
 
@@ -54,7 +54,7 @@ Upon payment by the Secretary of the amount of the loss pursuant to subsection (
 
 #### (c) Forbearance
 
-Nothing in this section or in this subpart shall be construed to preclude any forbearance for thebenefit of the borrower which may be agreed upon by the parties to the insured loan and approved by the Secretary or to preclude forbearance by the Secretary in the enforcement of the insured obligation after payment on that insurance.
+Nothing in this section or in this subpart shall be construed to preclude any forbearance for the benefit of the borrower which may be agreed upon by the parties to the insured loan and approved by the Secretary or to preclude forbearance by the Secretary in the enforcement of the insured obligation after payment on that insurance.
 
 #### (d) Reasonable care and diligence regarding loans
 
@@ -142,7 +142,7 @@ Subsec. (e)(4). Pub. L. 105–392, §142(b), added par. (4).
 
 Subsec. (g). Pub. L. 105–392, §144(a), substituted "Notwithstanding any other provision of Federal or State law, a debt that is a loan insured" for "A debt which is a loan insured" in introductory provisions.
 
-<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;".
+<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;".
 
 Subsec. (j). Pub. L. 103–43, §2014(a)(2)(B), added subsec. (j).
 

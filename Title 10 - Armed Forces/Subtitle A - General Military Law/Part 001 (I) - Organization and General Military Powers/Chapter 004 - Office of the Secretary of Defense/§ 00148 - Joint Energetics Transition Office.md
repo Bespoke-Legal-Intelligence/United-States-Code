@@ -62,7 +62,11 @@ Responsibilities.—The Office shall do the following:
 
 (d)
 
-Additional Requirements.—The Secretary of Defense shall ensure that the Office is budgeted for and funded in a manner sufficient to ensure the Office has the staff and other resources necessary to effectively carry out the responsibilities specified in subsection (c).
+Budgeting and Funding Requirements.—
+
+&emsp;(1) The Secretary of Defense shall ensure that the Office is budgeted for and funded in a manner sufficient to ensure the Office has the staff and other resources necessary to effectively carry out the responsibilities specified in subsection (c).
+
+&emsp;(2) In the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2027 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31), the Secretary of Defense shall include a dedicated budget line item for the implementation of subsection (a) and for the testing and evaluation of energetic materials and technologies by the Office.
 
 (e)
 
@@ -76,5 +80,11 @@ Definitions.—In this section, the term "energetic materials" means critical ch
 
 &emsp;&emsp;(B) increase propellant performance in a weapon propulsion system as related to lethal effects, range, or speed.
 
-(Added Pub. L. 118–31, div. A, title II, §241(a), Dec. 22, 2023, 137 Stat. 205.)
+(Added Pub. L. 118–31, div. A, title II, §241(a), Dec. 22, 2023, 137 Stat. 205; amended Pub. L. 118–159, div. A, title II, §211, Dec. 23, 2024, 138 Stat. 1823.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2024</b>—Subsec. (d). Pub. L. 118–159 amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall ensure that the Office is budgeted for and funded in a manner sufficient to ensure the Office has the staff and other resources necessary to effectively carry out the responsibilities specified in subsection (c)."
 

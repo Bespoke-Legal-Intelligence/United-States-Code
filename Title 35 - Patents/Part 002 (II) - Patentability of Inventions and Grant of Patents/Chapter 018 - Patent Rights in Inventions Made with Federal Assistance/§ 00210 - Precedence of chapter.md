@@ -76,7 +76,7 @@ Section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstra
 
 The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
 
-Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21), was repealed by Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
+Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21), was repealed by Pub. L. 98–242, title I,§110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 

@@ -70,7 +70,7 @@ The objectives of the Program are to—
 
 #### (A) Leadership
 
-&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
+&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercisedby chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
 
 #### (B) Technical assistance
 
@@ -148,7 +148,7 @@ The objectives of the Program are to—
 
 #### (B) Approval
 
-&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
+&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safetyprogram fails to meet the requirements of paragraphs (1) through (3).
 
 #### (C) Notification of disapproval
 

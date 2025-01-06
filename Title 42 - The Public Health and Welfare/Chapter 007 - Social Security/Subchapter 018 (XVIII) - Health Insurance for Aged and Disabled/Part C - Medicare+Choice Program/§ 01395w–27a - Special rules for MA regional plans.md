@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -200,7 +200,7 @@ An MA regional plan shall include the following:
 
 #### (3) Statutory region-specific non-drug amount
 
-&emsp;For purposes of paragraph (2)(A)(i), the term "statutory region-specific non-drug amount" means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
+&emsp;For purposes of paragraph (2)(A)(i), the term "statutory region-specific non-drug amount" means, for an MA region and year, an amountequal the sum (for each MA local area within the region) of the product of—
 
 &emsp;&emsp;(A) MA area-specific non-drug monthly benchmark amount under section 1395w–23(j)(1)(A) of this title for that area and year; and
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (iii) Equal division among multiple plans in year in which plans are first available
 
-&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor describedin this subparagraph for a plan shall (as specified by the Secretary) be equal to—
+&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor described in this subparagraph for a plan shall (as specified by the Secretary) be equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) 1 divided by the number of such plans offered in such year; or
 
@@ -272,7 +272,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 #### (2) Payment amounts
 
-&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
+&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MAregional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount of payment that would have been paid for such services under this subchapter if the enrollees were covered under the original medicare fee-for-service program option and the hospital were a critical access hospital; exceeds
 

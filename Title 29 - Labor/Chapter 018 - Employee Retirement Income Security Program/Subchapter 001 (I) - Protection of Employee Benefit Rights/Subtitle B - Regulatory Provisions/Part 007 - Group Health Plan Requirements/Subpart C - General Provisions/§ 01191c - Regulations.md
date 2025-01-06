@@ -8,7 +8,7 @@ The Secretary, consistent with section 104 of the Health Care Portability and Ac
 
 #### References in Text
 
-Section 104 of the Health Care Portability and Accountability Act of 1996, referred to in text, probablymeans section 104 of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, which is set out as a note under section 300gg–92 of Title 42, The Public Health and Welfare.
+Section 104 of the Health Care Portability and Accountability Act of 1996, referred to in text, probably means section 104 of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, which is set out as a note under section 300gg–92 of Title 42, The Public Health and Welfare.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

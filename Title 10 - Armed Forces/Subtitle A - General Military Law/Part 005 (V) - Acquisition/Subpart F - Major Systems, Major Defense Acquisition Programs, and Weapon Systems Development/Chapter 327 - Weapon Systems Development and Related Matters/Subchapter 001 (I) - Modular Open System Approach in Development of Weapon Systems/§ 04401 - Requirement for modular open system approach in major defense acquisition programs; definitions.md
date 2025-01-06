@@ -6,6 +6,10 @@ Modular Open System Approach Requirement.—A major defense acquisition program 
 
 (b)
 
+Disclosure Required.—Not later than one year after the date of the enactment of this subsection, the Secretary of Defense shall make publicly available any standards for implementation of the modular open system approaches for contracts, unless the service acquisition executive with respect to a specific contract submits to the Secretary a request to not disclose such standards and the Secretary approves such request.
+
+(c)
+
 Definitions.—In this chapter:
 
 &emsp;(1) The term "modular open system approach" means, with respect to a major defense acquisition program, an integrated business and technical strategy that—
@@ -64,15 +68,19 @@ Definitions.—In this chapter:
 
 &emsp;(9) The term "major weapon system" has the meaning provided in section 3455(f) of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2252, §2446a; renumbered §4401 and amended Pub. L. 116–283, div. A, title VIII, §804(b)(1), title XVIII, §1851(b)(1), (2), Jan. 1, 2021, 134 Stat. 3737, 4272.)
+(Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2252, §2446a; renumbered §4401 and amended Pub. L. 116–283, div. A, title VIII, §804(b)(1), title XVIII, §1851(b)(1), (2), Jan. 1, 2021, 134 Stat. 3737, 4272; Pub. L. 118–159, div. A, title VIII, §819, Dec. 23, 2024, 138 Stat. 1982.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note below.
+The date of the enactment of this subsection, referred to in subsec. (b), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (c)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note below.
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (b), (c). Pub. L. 118–159 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>2021</b>—Pub. L. 116–283, §1851(b)(1), renumbered section 2446a of this title as this section.
 
@@ -170,7 +178,7 @@ Applicability of regulations and guidance.—
 
 &emsp;&emsp;"(A)
 
-Applicability.—The regulations and guidance required under paragraph (1) shall apply to any program office responsible for the prototyping, acquisition, or sustainment of a new or existing weapon system.
+Applicability.—The regulations and guidance required under paragraph (1) shall apply toany program office responsible for the prototyping, acquisition, or sustainment of a new or existing weapon system.
 
 &emsp;&emsp;"(B)
 
@@ -230,7 +238,7 @@ Distribution of interfaces.—
 
 &emsp;&emsp;"(A)
 
-In general.—Consistent with the requirements of section 2320 of title 10, United States Code \[see 10 U.S.C. 3771 et seq.\], the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1)to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
+In general.—Consistent with the requirements of section 2320 of title 10, United States Code \[see 10 U.S.C. 3771 et seq.\], the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1) to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
 
 &emsp;&emsp;"(B)
 

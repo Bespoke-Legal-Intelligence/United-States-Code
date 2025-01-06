@@ -44,7 +44,7 @@ Historical and Revision Notes
 
 Apr. 12, 1939, ch. 59, §4, 53 Stat. 575.
 
-The words "received after December 31, 1938," are omitted as obsolete. The words "pay or" are added before "compensation" for clarity as the word "pay" is used throughout title 5, United States Code, to refer to the remuneration, salary, wages, or compensation for the personal services of a Federal employee. The word"territory" is not capitalized as there are no longer any "Territories." The words "to tax such compensation" are omitted as unnecessary.
+The words "received after December 31, 1938," are omitted as obsolete. The words "pay or" are added before "compensation" for clarity as the word "pay" is used throughout title 5, United States Code, to refer to the remuneration, salary, wages, or compensation for the personal services of a Federal employee. The word "territory" is not capitalized as there are no longer any "Territories." The words "to tax such compensation" are omitted as unnecessary.
 
 #### <b>Editorial Notes</b>
 

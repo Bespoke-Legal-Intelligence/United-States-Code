@@ -144,6 +144,7 @@
 | [223\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000223%20-%20Border%20security%20metrics.md) | Border security metrics. |
 | [224\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000224%20-%20Other%20reporting%20requirements.md) | Other reporting requirements. |
 | [225\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000225%20-%20Reports%2C%20evaluations%2C%20and%20research%20regarding%20drug%20interdiction%20at%20and%20between%20ports%20of%20entry.md) | Reports, evaluations, and research regarding drug interdiction at and between ports of entry. |
+| [226\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000226%20-%20Ensuring%20timely%20updates%20to%20U.S.%20Customs%20and%20Border%20Protection%20field%20manuals.md) | Ensuring timely updates to U.S. Customs and Border Protection field manuals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -176,12 +177,13 @@
 |  |  |
 | :--- | ---: |
 | [251\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000251%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
-| [252\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000252%20-%20Establishment%20of%20Bureau%20of%20Border%20Security.md) | Establishment of Bureau of Border Security. |
+| [252\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000252%20-%20U.S.%20Immigration%20and%20Customs%20Enforcement.md) | U.S. Immigration and Customs Enforcement. |
 | [253\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000253%20-%20Professional%20responsibility%20and%20quality%20review.md) | Professional responsibility and quality review. |
 | [254\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000254%20-%20Employee%20discipline.md) | Employee discipline. |
 | [255\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000255%20-%20Report%20on%20improving%20enforcement%20functions.md) | Report on improving enforcement functions. |
 | [256\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000256%20-%20Sense%20of%20Congress%20regarding%20construction%20of%20fencing%20near%20San%20Diego%2C%20California.md) | Sense of Congress regarding construction of fencing near San Diego, California. |
 | [257\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000257%20-%20Report.md) | Report. |
+| [258\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000258%20-%20Homeland%20Security%20Investigations%20Victim%20Assistance%20Program.md) | Homeland Security Investigations Victims Assistance Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -647,17 +649,9 @@
 
 #### SUBCHAPTER XVI—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS
 
-|  |  |
-| :--- | ---: |
-| [621\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000621%20-%20Definitions.md) | Definitions. |
-| [622\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000622%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards%20Program.md) | Chemical Facility Anti-Terrorism Standards Program. |
-| [623\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000623%20-%20Protection%20and%20sharing%20of%20information.md) | Protection and sharing of information. |
-| [624\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000624%20-%20Civil%20enforcement.md) | Civil enforcement. |
-| [625\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000625%20-%20Whistleblower%20protections.md) | Whistleblower protections. |
-| [626\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000626%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
-| [627\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000627%20-%20CFATS%20regulations.md) | CFATS regulations. |
-| [628\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000628%20-%20Small%20covered%20chemical%20facilities.md) | Small covered chemical facilities. |
-| [629\.](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/%C2%A7%2000629%20-%20Outreach%20to%20chemical%20facilities%20of%20interest.md) | Outreach to chemical facilities of interest. |
+|  |
+| :--- |
+| 621 to 629. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

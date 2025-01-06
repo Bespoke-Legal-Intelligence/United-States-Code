@@ -2,7 +2,7 @@
 
 #### (a) Regulations; issuance, amendment, or rescission; scope
 
-The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
+The Secretary shall, as soon as practicable after January 3, 1975, and after consultationwith other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
@@ -70,7 +70,7 @@ Inclusions.—Each application shall include such financial, technical, and othe
 
 &emsp;(M) such other information as may be required by the Secretary to determine the environmental impact of the proposed deepwater port.
 
-(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulations implementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinations under section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
+(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulations implementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinationsunder section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
 
 #### (d) Application area; publication in Federal Register; "application area" defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications
 
@@ -84,7 +84,7 @@ Inclusions.—Each application shall include such financial, technical, and othe
 
 #### (e) Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations
 
-(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States ArmyCorps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
+(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States Army Corps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
 
 (2) An application filed with the Secretary shall constitute an application for all Federal authorizations required for ownership, construction, and operation of a deepwater port. At the time notice of any application is published pursuant to subsection (c) of this section, the Secretary shall forward a copy of such application to those Federal agencies and departments with jurisdiction over any aspect of such ownership, construction, or operation for comment, review, or recommendation as to conditions and for such other action as may be required by law. Each agency or department involved shall review the application and, based upon legal considerations within its area of responsibility, recommend to the Secretary, the approval or disapproval of the application not later than 45 days after the last public hearing on a proposed license for a designated application area. In any case in which the agency or department recommends disapproval, it shall set forth in detail the manner in which the application does not comply with any law or regulation within its area of responsibility and shall notify the Secretary how the application may be amended so as to bring it into compliance with the law or regulation involved.
 
@@ -132,7 +132,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 #### (3) Rental payment
 
-&emsp;A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value ofthe right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
+&emsp;A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
 
 #### (i) Application approval; period for determination; priorities; criteria for determination of application best serving national interest
 
@@ -167,6 +167,38 @@ Deadline for determination.—The Secretary shall approve or deny any applicatio
 &emsp;(B)
 
 Effect of failure to determine.—If the Secretary fails to approve or deny an application for a deepwater port for natural gas by the applicable deadline under subparagraph (A), the reporting requirements under paragraphs (1), (2), and (3) shall not apply to the application.
+
+(5)
+
+Decision on amended license applications.—
+
+&emsp;(A)
+
+Definition of amended license application.—In this paragraph, the term "amended license application" means a license application for a deepwater port for natural gas—
+
+&emsp;&emsp;(i) that was originally submitted to the Secretary prior to the issuance of the proclamation issued by the President on March13, 2020, with respect to the Coronavirus Disease 2019 (COVID–19) pandemic; and
+
+&emsp;&emsp;(ii) with respect to which the applicant, based on guidance offered by the Secretary, has made subsequent revisions since the submission of the initial license application and submitted such revised application.
+
+&emsp;(B)
+
+Expedited review and approval.—The Secretary shall expedite the review and subsequent approval or denial of amended license applications submitted pursuant to this section that meet the eligibility criteria described in subparagraph (C).
+
+&emsp;(C)
+
+Eligibility criteria.—To be eligible for review under this paragraph, an amended license application shall meet the following criteria:
+
+&emsp;&emsp;(i) The amended license application is for a natural gas deepwater port facility.
+
+&emsp;&emsp;(ii) The Secretary had determined that the project as specified in the initial license application was not likely to have any significant adverse environmental impact on species and habitat, consistent with law including National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;&emsp;(iii) The Secretary has determined that the results of the environmental review conducted for the initial license application is still applicable to the amended license application and an additional environmental review is not required.
+
+&emsp;&emsp;(iv) The Secretary had published an affirmative Record of Decision for the initial license application.
+
+&emsp;(D)
+
+Deadline for decision.—The Secretary shall approve or deny an amended license application submitted pursuant to this paragraph by no later than 270 consecutive days after the date on which the Secretary determines that the amended license application is complete and meets the requirements under this section.
 
 #### (j) LNG tankers
 
@@ -220,7 +252,7 @@ Effect of failure to determine.—If the Secretary fails to approve or deny an a
 
 #### (4) Requirements
 
-&emsp;On receipt of a request under paragraph (3)(A), and not less frequently than once every 30 days thereafter until the date on which theapplication process is no longer suspended or delayed, the Secretary shall submit a notice of the delay, including a description of the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay, to—
+&emsp;On receipt of a request under paragraph (3)(A), and not less frequently than once every 30 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary shall submit a notice of the delay, including a description of the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay, to—
 
 &emsp;&emsp;(A) the Committee on Commerce, Science, and Transportation of the Senate; and
 
@@ -228,21 +260,25 @@ Effect of failure to determine.—If the Secretary fails to approve or deny an a
 
 #### (5) Briefing
 
-&emsp;If the Secretary suspends or delays an applicable deadline, not later than 120 days after that applicable deadline, and not less frequently than once every 120 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary (or a designee of the Secretary) shall provide a briefing regarding the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay to—
+&emsp;If the Secretary suspends or delays an applicable deadline, not later than 120 days after that applicable deadline, and not less frequently than once every 120 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary (or a designee of the Secretary) shall provide a briefing regarding the time elapsed since the applicable deadline and the natureand circumstances of the applicable suspension or delay to—
 
 &emsp;&emsp;(A) the Committee on Commerce, Science, and Transportation of the Senate; and
 
 &emsp;&emsp;(B) the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(b)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 118–31, div. C, title XXXV, §3514(k)(4), Dec. 22, 2023, 137 Stat. 814.)
+(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(b)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 118–31, div. C, title XXXV, §3514(k)(4), Dec. 22, 2023, 137 Stat. 814; Pub. L. 118–159, div. C, title XXXV, §3538, Dec. 23, 2024, 138 Stat. 2316.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (f) and (i)(5)(C)(ii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+The proclamation issued by the President on March 13, 2020, with respect to the Coronavirus Disease 2019, referred to in subsec. (i)(5)(A)(i), means Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, which is set out as a note under section 1621 of Title 50, War and National Defense.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (i)(5). Pub. L. 118–159 added par. (5).
 
 <b>2023</b>—Subsec. (c). Pub. L. 118–31, §3514(k)(4)(A)(i), inserted heading.
 
@@ -288,7 +324,7 @@ Subsec. (k). Pub. L. 118–31, §3514(k)(4)(F), added subsec. (k).
 
 <b>2002</b>—Subsec. (d)(4). Pub. L. 107–295, §106(c)(1), added par. (4).
 
-Subsec. (f). Pub. L. 107–295, §106(f), substituted "NEPA compliance" for "Environmental impact statement for single application area; criteria" in heading and amended text generally. Prior to amendment, text read as follows: "For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under section 1505 of this title."
+Subsec. (f). Pub. L. 107–295, §106(f), substituted "NEPA compliance" for "Environmental impact statement for single application area; criteria" in heading and amended text generally. Prior to amendment, text read as follows: "For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shallconsider the criteria established under section 1505 of this title."
 
 Subsec. (h)(2). Pub. L. 107–295, §106(g), inserted "and unless prohibited by law," after "Notwithstanding any other provision of this chapter,".
 

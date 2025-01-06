@@ -22,7 +22,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(C) short-term emergency lodging in motels or shelters, either directly or through vouchers;
 
-&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housingto homeless individuals and families and individuals and families at risk of homelessness;
+&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness;
 
 &emsp;&emsp;(E) acquisition or rehabilitation of a structure to provide supportive services or to provide transitional or permanent housing, other than emergency shelter, to homeless individuals and families and individuals and families at risk of homelessness;
 
@@ -196,7 +196,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) located in a county where at least 75 percent of the population is rural; or
 
-&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is thesole beneficiary of the grant amounts awarded under this section.
+&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is the sole beneficiary of the grant amounts awarded under this section.
 
 #### (3) Secretary
 
@@ -210,7 +210,7 @@ For purposes of this section:
 
 #### (2) Availability
 
-&emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
+&emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may benecessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
 
 #### (m) Determination of funding source
 

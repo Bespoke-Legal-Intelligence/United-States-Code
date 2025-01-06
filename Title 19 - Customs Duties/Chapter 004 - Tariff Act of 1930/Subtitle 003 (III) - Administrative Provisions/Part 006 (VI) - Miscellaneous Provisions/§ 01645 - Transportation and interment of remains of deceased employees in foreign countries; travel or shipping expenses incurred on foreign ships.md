@@ -14,7 +14,7 @@ Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, 
 
 #### References in Text
 
-Section 601 of the Merchant Marine Act, 1928, referred to in subsec. (b), was classified to section 891r of former Title 46, Shipping, and was repealed by the Merchant Marine Act, 1936 (approved June 29, 1936, ch. 858, §903(c), 49 Stat. 2016), but was reenacted in substance by section 901 of that Act, which was classified to section 1241 of the former Appendix to Title 46, Shipping. Section 901 of the Merchant Marine Act, 1936 was subsequently repealed and restated in sections 55302, 55303, and 55305 of Title 46, Shipping, by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1586, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+Section 601 of the Merchant Marine Act, 1928, referred to in subsec. (b), was classified to section 891r of formerTitle 46, Shipping, and was repealed by the Merchant Marine Act, 1936 (approved June 29, 1936, ch. 858, §903(c), 49 Stat. 2016), but was reenacted in substance by section 901 of that Act, which was classified to section 1241 of the former Appendix to Title 46, Shipping. Section 901 of the Merchant Marine Act, 1936 was subsequently repealed and restated in sections 55302, 55303, and 55305 of Title 46, Shipping, by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1586, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
 #### Codification
 

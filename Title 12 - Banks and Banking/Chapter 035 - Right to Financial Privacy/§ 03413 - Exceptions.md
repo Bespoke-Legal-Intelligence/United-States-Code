@@ -96,7 +96,7 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 (1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of Veterans Affairs where the disclosure of such information is necessary to, and such information is used solely for the purposes of, the proper administration of benefits programs under laws administered by the Secretary.
 
-(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may beused by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
 
 #### (q) Disclosure pursuant to Federal contractor-issued travel charge card
 
@@ -122,7 +122,7 @@ The effective date of this chapter, referred to in subsec. (h)(3), is the date u
 
 The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Forfurther details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Codification
 

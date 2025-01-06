@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | \[12551. | Repealed.\] |
-| [12552\.](%C2%A7%2012552%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md) | Funeral honors functions at funerals for veterans. |
+| [12552\.](%C2%A7%2012552%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md) | Funeral honors functions at funerals for veterans.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

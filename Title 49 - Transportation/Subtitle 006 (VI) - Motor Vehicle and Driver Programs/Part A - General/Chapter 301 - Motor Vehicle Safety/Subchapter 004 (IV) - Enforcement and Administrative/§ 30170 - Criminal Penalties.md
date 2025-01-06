@@ -14,7 +14,7 @@ Safe harbor to encourage reporting and for whistle blowers.—
 
 &emsp;&emsp;(A)
 
-Correction.—A person described in paragraph (1) shall not be subject to criminal penalties under this subsection if: (1) at the time of the violation, such person does not know that the violation would result in an accident causing death or serious bodily injury; and (2) the person corrects any improper reports or failure to report within a reasonable time.
+Correction.—A person described in paragraph (1) shall not be subject to criminal penalties under this subsection if: (1) at the time of the violation, such person does not know that the violation would result in an accident causing death or serious bodilyinjury; and (2) the person corrects any improper reports or failure to report within a reasonable time.
 
 &emsp;&emsp;(B)
 

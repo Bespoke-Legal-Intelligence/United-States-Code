@@ -82,7 +82,7 @@ Definitions.—In this subsection:
 
 &emsp;(5)
 
-Savings clause.—Nothing in this subsection affects the applicability of section 120 of CERCLA (42 U.S.C. 9620) to the Department of Defense or the obligations and responsibilities of the Department of Defense under subsection (h) of such section.
+Savings clause.—Nothing in this subsection affects the applicability of section 120of CERCLA (42 U.S.C. 9620) to the Department of Defense or the obligations and responsibilities of the Department of Defense under subsection (h) of such section.
 
 (e)
 
@@ -106,7 +106,7 @@ Surety Bonds.—
 
 &emsp;(1)
 
-Applicability of sections 3131 and 3133 of title 40.—If under sections 3131 and 3133 oftitle 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
+Applicability of sections 3131 and 3133 of title 40.—If under sections 3131 and 3133 of title 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
 
 &emsp;(2)
 
@@ -140,7 +140,7 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, §316(c), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 117–263, div. A, title III, §313(b), (c), Dec. 23, 2022, 136 Stat. 2503; Pub. L. 118–31, div. A, title III, §312(b)–(d), Dec. 22, 2023, 137 Stat. 215.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III,§336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, §316(c), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 117–263, div. A, title III, §313(b), (c), Dec. 23, 2022, 136 Stat. 2503; Pub. L. 118–31, div. A, title III, §312(b)–(d), Dec. 22, 2023, 137 Stat. 215.)
 
 #### <b>Editorial Notes</b>
 
@@ -454,7 +454,7 @@ Definitions.—In this section:
 
 #### Contamination by Perfluoroalkyl or Polyfluoroalkyl Substances
 
-Pub. L. 118–31, div. A, title III, §321(b), Dec. 22, 2023, 137 Stat. 221, provided that: "Beginning not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall publish onthe publicly available website established under section 331(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note) timely and regularly updated information on the status of cleanup at sites for which the Secretary has obligated funds for environmental restoration activities."
+Pub. L. 118–31, div. A, title III, §321(b), Dec. 22, 2023, 137 Stat. 221, provided that: "Beginning not later than one year after the date of the enactment of this Act \[Dec. 22, 2023\], the Secretary of Defense shall publish on the publicly available website established under section 331(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note) timely and regularly updated information on the status of cleanup at sites for which the Secretary has obligated funds for environmental restoration activities."
 
 Pub. L. 117–263, div. A, title III, §341(a), Dec. 23, 2022, 136 Stat. 2528, provided that:
 
@@ -548,7 +548,7 @@ Public Communication.—An agreement under subsection (a) does not negate the re
 
 "(d)
 
-Military Installation Defined.—In this section, the term 'military installation' has the meaninggiven that term in section 2801(c) of title 10, United States Code.
+Military Installation Defined.—In this section, the term 'military installation' has the meaning given that term in section 2801(c) of title 10, United States Code.
 
 #### "SEC. 332. COOPERATIVE AGREEMENTS WITH STATES TO ADDRESS CONTAMINATION BY PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES.
 
@@ -674,7 +674,7 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—The Secretary of the Air Force may acquire one or more parcels of real property within the vicinity of an Air Force base that has shown signs of contamination from PFOA and PFOSdue to activities on the base and which would extend the contiguous geographic footprint of the base and increase the force protection standoff near critical infrastructure and runways.
+In general.—The Secretary of the Air Force may acquire one or more parcels of real property within the vicinity of an Air Force base that has shown signs of contamination from PFOA and PFOS due to activities on the base and which would extend the contiguous geographic footprint of the base and increase the force protection standoff near critical infrastructure and runways.
 
 &emsp;"(2)
 
@@ -894,7 +894,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 &emsp;"(5) the health and environmental compliance standards the Secretary has established for military and contractor operations in Iraq and Afghanistan with regard to solid waste disposal, including an assessment of whether those standards are being met;
 
-&emsp;"(6) a description of the environmental, health, and operational impacts of open-pit burning of plastics and the feasibility of including plastics in the regulations prescribed pursuant to subsection (a); and
+&emsp;"(6) a description of the environmental, health, and operational impacts of open-pit burning of plasticsand the feasibility of including plastics in the regulations prescribed pursuant to subsection (a); and
 
 &emsp;"(7) an assessment of the ability of existing medical surveillance programs to identify and track exposures to toxic substances that result from open-air burn pits, including recommendations for such changes to such programs as would be required to more accurately identify and track such exposures.
 
@@ -928,7 +928,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(F) plastics, except insignificant amounts of plastic remaining after a good-faith effort to remove or recover plastic materials from the solid waste stream;
 
-&emsp;&emsp;"(G) munitions and explosives, except when disposed of in compliance with guidance on the destruction of munitions and explosives contained inthe Department of Defense Ammunition and Explosives Safety Standards, DoD Manual 6055.09-M;
+&emsp;&emsp;"(G) munitions and explosives, except when disposed of in compliance with guidance on the destruction of munitions and explosives contained in the Department of Defense Ammunition and Explosives Safety Standards, DoD Manual 6055.09-M;
 
 &emsp;&emsp;"(H) compressed gas cylinders, unless empty with valves removed;
 
@@ -1028,7 +1028,7 @@ Regulations.—Not later than March 1, 1998, the Secretary of Defense shall pres
 
 "(b)
 
-Guidelines.—(1) The regulations prescribed under subsection (a) shall contain uniform guidelinesfor the military departments and defense agencies concerning the cost-recovery and cost-sharing activities of those departments and agencies.
+Guidelines.—(1) The regulations prescribed under subsection (a) shall contain uniform guidelines for the military departments and defense agencies concerning the cost-recovery and cost-sharing activities of those departments and agencies.
 
 "(2) The Secretary shall take appropriate actions to ensure the implementation of the guidelines.
 
@@ -1198,7 +1198,7 @@ Selection of Grant Recipients.—To the extent practicable, the Secretary shall 
 
 "(g)
 
-Limitation on Amount of Grant to a Single Recipient.—The amount of a grant under subsection (a)that may be made to a single institution of higher education in a fiscal year may not exceed 1/3 of the amount made available to provide grants under such subsection for that fiscal year.
+Limitation on Amount of Grant to a Single Recipient.—The amount of a grant under subsection (a) that may be made to a single institution of higher education in a fiscal year may not exceed 1/3 of the amount made available to provide grants under such subsection for that fiscal year.
 
 "(h)
 
@@ -1568,7 +1568,7 @@ Coordination of Benefits.—A scholarship or fellowship awarded under this secti
 
 "(i)
 
-Award of Scholarships and Fellowships.—The Secretary may award to qualified applicants not more than 100 scholarships (for undergraduate students) and not more than 30 fellowships (for graduate students) in fiscal year 1993.
+Award of Scholarships and Fellowships.—The Secretary may award to qualified applicants not morethan 100 scholarships (for undergraduate students) and not more than 30 fellowships (for graduate students) in fiscal year 1993.
 
 "(j)
 
@@ -1590,7 +1590,7 @@ Pub. L. 102–484, div. D, title XLIV, §4452, Oct. 23, 1992, 106 Stat. 2738, au
 
 Pub. L. 101–510, div. A, title III, §342(b), Nov. 5, 1990, 104 Stat. 1537, provided that:
 
-"(1) The Secretary of Defense shall develop a policy for determining applicable environmental requirements for military installations located outside the United States. In developing the policy, the Secretary shallensure that the policy gives consideration to adequately protecting the health and safety of military and civilian personnel assigned to such installations.
+"(1) The Secretary of Defense shall develop a policy for determining applicable environmental requirements for military installations located outside the United States. In developing the policy, the Secretary shall ensure that the policy gives consideration to adequately protecting the health and safety of military and civilian personnel assigned to such installations.
 
 "(2) The Secretary of Defense shall develop a policy for determining the responsibilities of the Department of Defense with respect to cleaning up environmental contamination that may be present at military installations located outside the United States. In developing the policy, the Secretary shall take into account applicable international agreements (such as Status of Forces agreements), multinational or joint use and operation of such installations, relative share of the collective defense burden, and negotiated accommodations.
 
@@ -1638,7 +1638,7 @@ Pub. L. 101–189, div. A, title III, §352, Nov. 29, 1989, 103 Stat. 1423, prov
 
 "(a)
 
-Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
+Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and Stateenvironmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
 
 "(b)
 

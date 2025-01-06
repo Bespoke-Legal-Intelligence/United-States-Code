@@ -28,5 +28,5 @@ Prior sections 4111 to 4113, 4121, and 4131 of this title constituted a former s
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §866(c), Oct. 22, 2004, 118 Stat. 1622, provided that: "The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §866(c), Oct. 22, 2004, 118 Stat. 1622, provided that: "The amendment made bythis section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\]."
 

@@ -1,6 +1,6 @@
 ### §6066. Requirements for determining democratically elected government
 
-For purposes of this chapter, a democratically elected government in Cuba, in addition tomeeting the requirements of section 6065(a) of this title, is a government which—
+For purposes of this chapter, a democratically elected government in Cuba, in addition to meeting the requirements of section 6065(a) of this title, is a government which—
 
 &emsp;(1) results from free and fair elections—
 
@@ -20,7 +20,7 @@ For purposes of this chapter, a democratically elected government in Cuba, in ad
 
 &emsp;(5) has made demonstrable progress in establishing an independent judiciary; and
 
-&emsp;(6) has made demonstrable progress in returning to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
+&emsp;(6) has made demonstrable progress in returning to United States citizens (and entitieswhich are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
 
 (Pub. L. 104–114, title II, §206, Mar. 12, 1996, 110 Stat. 812.)
 

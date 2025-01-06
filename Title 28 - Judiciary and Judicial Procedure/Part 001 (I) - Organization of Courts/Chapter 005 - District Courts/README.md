@@ -112,7 +112,7 @@ Pub. L. 115–237, Sept. 4, 2018, 132 Stat. 2447, as amended by Pub. L. 117–25
 
 &emsp;"(4) A variety of factors cause domestic violence, dating violence, sexual assault, and stalking, and a variety of solutions at the local, State, and national levels are necessary to combat such violence or behavior.
 
-&emsp;"(5) According to the National Network to End Domestic Violence, which conducted a census including almost 1,700 assistance programs, over the course of1 day in September 2014, more than 10,000 requests for services, including legal representation, were not met.
+&emsp;"(5) According to the National Network to End Domestic Violence, which conducted a census including almost 1,700 assistance programs, over the course of 1 day in September 2014, more than 10,000 requests for services, including legal representation, were not met.
 
 &emsp;"(6) Pro bono assistance can help fill this need by providing not only legal representation, but also access to emergency shelter, transportation, and childcare.
 

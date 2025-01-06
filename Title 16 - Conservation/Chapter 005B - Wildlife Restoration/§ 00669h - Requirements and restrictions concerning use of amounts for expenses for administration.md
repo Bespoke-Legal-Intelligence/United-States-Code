@@ -12,7 +12,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;(4) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
 
-&emsp;&emsp;(A) actual costs, as determined by a direct cost allocation methodology approved by the Director of the Office of Management and Budget for use by Federal agencies; and
+&emsp;&emsp;(A) actual costs, as determined by a direct cost allocation methodology approved by theDirector of the Office of Management and Budget for use by Federal agencies; and
 
 &emsp;&emsp;(B) in the case of costs that are not determinable under subparagraph (A), an amount per employee authorized under paragraph (1) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
 
@@ -66,7 +66,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (B) Supervision of auditor
 
-&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings tothe Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
+&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
 
 #### (3) Report to Congress
 

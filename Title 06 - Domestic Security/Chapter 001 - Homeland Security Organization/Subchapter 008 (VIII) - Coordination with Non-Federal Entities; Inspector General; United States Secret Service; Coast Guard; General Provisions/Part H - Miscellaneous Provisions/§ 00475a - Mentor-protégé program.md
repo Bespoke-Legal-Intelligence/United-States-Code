@@ -114,7 +114,7 @@ In this section:
 
 &emsp;The terms "small business concern", "small business concern owned and controlled by veterans", "small business concern owned and controlled by service-disabled veterans", "qualified HUBZone small business concern", "and small <sup>2</sup> business concern owned and controlled by women" have the meanings given such terms, respectively, under section 632 of title 15. The term "small business concern owned and controlled by socially and economically disadvantaged individuals" has the meaning given such term in section 637(d)(3)(C) of title 15.
 
-(Pub. L. 107–296, title VIII, §890D, as added Pub. L. 117–263, div. G, title LXXI, §7115(a), Dec. 23, 2022, 136 Stat. 3633.)
+(Pub. L. 107–296, title VIII, §890D, as added Pub. L. 117–263, div. G, title LXXI, §7115(a), Dec. 23, 2022, 136 Stat. 3634.)
 
 #### <b>Editorial Notes</b>
 

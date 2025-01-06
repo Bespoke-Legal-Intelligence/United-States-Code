@@ -14,7 +14,7 @@ The purposes of the Fellowship Program are—
 
 #### (c) Administration
 
-The Bureau of Educational and Cultural Affairs (referred to in this section as the "Bureau") shall administer the Fellowship Programin accordance with policy guidelines established by the Board, in consultation with the binational Fulbright Commissions and United States Embassies.
+The Bureau of Educational and Cultural Affairs (referred to in this section as the "Bureau") shall administer the Fellowship Program in accordance with policy guidelines established by the Board, in consultation with the binational Fulbright Commissions and United States Embassies.
 
 #### (d) Selection of fellows
 
@@ -98,7 +98,7 @@ Not later than 1 year after the date of the completion of the Fellowship Program
 
 &emsp;(1) a description of the demographics of the cohort of fellows who completed a fellowship during the preceding 1-year period;
 
-&emsp;(2) a description of internship and research placements, and research projects selected by such cohort, under the Fellowship Program, including feedback from—
+&emsp;(2) a description of internship and research placements, and research projects selected bysuch cohort, under the Fellowship Program, including feedback from—
 
 &emsp;&emsp;(A) such cohort on implementation of the Fellowship Program; and
 
@@ -118,5 +118,5 @@ Not later than 1 year after the date of the completion of the Fellowship Program
 
 #### Termination Date
 
-Pub. L. 118–31, div. F, title LXVI, §6604(c), Dec. 22, 2023, 137 Stat. 1013, provided that: "The authority to carry out the John Lewis Civil Rights Fellowship Program established under section 115 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.) \[22 U.S.C. 2465\], as added by subsection (a),shall expire on the date that is 10 years after the date of the enactment of this division \[Dec. 22, 2023\]."
+Pub. L. 118–31, div. F, title LXVI, §6604(c), Dec. 22, 2023, 137 Stat. 1013, provided that: "The authority to carry out the John Lewis Civil Rights Fellowship Program established under section 115 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.) \[22 U.S.C. 2465\], as added by subsection (a), shall expire on the date that is 10 years after the date of the enactment of this division \[Dec. 22, 2023\]."
 

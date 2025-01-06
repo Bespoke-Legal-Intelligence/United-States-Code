@@ -88,7 +88,7 @@ Historical and Revision Notes
 
 46:391a
 
-Section 3301 lists all classes of vessels that are subject to inspection and certification by the Coast Guard.This section represents one of the sought-after advantages of the bill to simplify access to the provisions of law governing the regulation of vessels. Under the present law, a vessel's inspection status must be determined by examining a table appearing at section 2.01–7A of title 46, Code of Federal Regulations that divides all vessels into more than 70 separate classes.
+Section 3301 lists all classes of vessels that are subject to inspection and certification by the Coast Guard. This section represents one of the sought-after advantages of the bill to simplify access to the provisions of law governing the regulation of vessels. Under the present law, a vessel's inspection status must be determined by examining a table appearing at section 2.01–7A of title 46, Code of Federal Regulations that divides all vessels into more than 70 separate classes.
 
 It is important to note that while the classes of vessels are now limited to ten, there is no prohibition against developing regulations to meet the special needs of various size vessels within any one category. For example, it is expected that the Coast Guard will continue the practice of establishing standards for freight vessels of not more than 100 gross tons and other standards for larger freight vessels.
 

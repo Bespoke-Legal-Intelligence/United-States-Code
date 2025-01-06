@@ -10,7 +10,7 @@ Under the authority of section 534 of title 28, the Attorney General shall requi
 
 #### (b) National Crime Survey
 
-The Director of the Bureau of Justice Statistics, through the annual National Crime Survey, shall collect and publish data that more accurately measures the extent of domestic violence in America, especially the physical and sexual abuse of children and the elderly.
+The Director of the Bureau of Justice Statistics, through the annual National Crime Survey,shall collect and publish data that more accurately measures the extent of domestic violence in America, especially the physical and sexual abuse of children and the elderly.
 
 #### (c) Authorization of appropriations
 

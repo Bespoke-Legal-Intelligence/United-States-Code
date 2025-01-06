@@ -93,7 +93,7 @@ Findings.—The Congress makes the following findings:
 
 "(c)
 
-Definitions.—For purposes of this section the term 'near-Earth object' means an asteroid or comet with a perihelion distance of less than 1.3 Astronomical Units from the Sun.
+Definitions.—For purposes of this section the term 'near-Earth object' means an asteroid or cometwith a perihelion distance of less than 1.3 Astronomical Units from the Sun.
 
 "(d)
 

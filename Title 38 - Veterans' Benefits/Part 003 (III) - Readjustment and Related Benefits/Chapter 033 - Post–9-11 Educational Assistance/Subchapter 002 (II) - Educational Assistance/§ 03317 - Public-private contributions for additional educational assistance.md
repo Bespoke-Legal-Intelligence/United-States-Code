@@ -56,7 +56,7 @@ Pub. L. 115–48, §103(a), substituted "paragraphs (1), (2), (9), and (10)" for
 
 #### Effective Date of 2021 Amendment
 
-Amendment by section 1002(b)(3) of Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 \[amendments effective Aug. 1, 2020\] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under section 3311 of this title.
+Amendment by section 1002(b)(3) of Pub. L. 116–315 effective immediately after the amendments made bysection 105 of Pub. L. 115–48 \[amendments effective Aug. 1, 2020\] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2017 Amendment
 

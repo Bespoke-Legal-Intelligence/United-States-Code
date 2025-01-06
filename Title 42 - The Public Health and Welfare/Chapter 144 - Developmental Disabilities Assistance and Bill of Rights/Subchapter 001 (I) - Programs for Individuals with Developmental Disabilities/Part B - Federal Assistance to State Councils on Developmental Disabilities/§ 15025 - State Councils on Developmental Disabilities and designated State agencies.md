@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c).
+Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed,comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c).
 
 #### (b) Council membership
 
@@ -84,7 +84,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (1) In general
 
-&emsp;A Council, through Council members, staff, consultants, contractors, or subgrantees, shall have the responsibilities described in paragraphs (2) through (10).
+&emsp;A Council, through Council members, staff, consultants, contractors, or subgrantees, shallhave the responsibilities described in paragraphs (2) through (10).
 
 #### (2) Advocacy, capacity building, and systemic change activities
 
@@ -120,7 +120,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (C) Training
 
-&emsp;&emsp;The Council may support and conduct training for persons who are individuals with developmental disabilities, their families, and personnel (including professionals, paraprofessionals, students, volunteers, and other community members) to enable such persons to obtain access to, or to provide, community services, individualized supports, and other forms of assistance, including special adaptation of generic community services or specialized services for individuals with developmental disabilities and their families. To the extent that the Council supports or conducts training activitiesunder this subparagraph, such activities shall contribute to the achievement of the purpose of this part.
+&emsp;&emsp;The Council may support and conduct training for persons who are individuals with developmental disabilities, their families, and personnel (including professionals, paraprofessionals, students, volunteers, and other community members) to enable such persons to obtain access to, or to provide, community services, individualized supports, and other forms of assistance, including special adaptation of generic community services or specialized services for individuals with developmental disabilities and their families. To the extent that the Council supports or conducts training activities under this subparagraph, such activities shall contribute to the achievement of the purpose of this part.
 
 #### (D) Technical assistance
 
@@ -152,7 +152,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (H) Barrier elimination, systems design and redesign
 
-&emsp;&emsp;The Council may support and conduct activities to eliminate barriers to access and use of community services by individuals with developmental disabilities, enhance systems design and redesign, and enhance citizen participation to address issues identified in the State plan.
+&emsp;&emsp;The Council may support and conduct activities to eliminate barriers to access anduse of community services by individuals with developmental disabilities, enhance systems design and redesign, and enhance citizen participation to address issues identified in the State plan.
 
 #### (I) Coalition development and citizen participation
 
@@ -174,7 +174,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (L) Other activities
 
-&emsp;&emsp;The Council may support and conduct other advocacy, capacity building, and systemic change activities to promote the development of a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and otherforms of assistance that contribute to the achievement of the purpose of this part.
+&emsp;&emsp;The Council may support and conduct other advocacy, capacity building, and systemic change activities to promote the development of a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part.
 
 #### (6) Review of designated State agency
 
@@ -240,7 +240,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (11) Construction
 
-&emsp;Nothing in this subchapter shall be construed to authorize a Council to direct, control, or exercise any policymaking authority or administrative authority over any programassisted under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) or the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
+&emsp;Nothing in this subchapter shall be construed to authorize a Council to direct, control, or exercise any policymaking authority or administrative authority over any program assisted under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) or the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
 
 #### (d) Designated State agency
 
@@ -276,7 +276,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (C) Review of designation
 
-&emsp;&emsp;The Council may request a review of and change in the designation of the designated State agency by the Governor (or the legislature, as the case may be). The Council shall provide documentation concerning the reason the Council desires a change to be made and make a recommendation to the Governor (or the legislature, as the case may be) regarding a preferred designated State agency.
+&emsp;&emsp;The Council may request a review of and change in the designation of the designated State agency by the Governor (or the legislature, as the case may be). The Council shall provide documentation concerning thereason the Council desires a change to be made and make a recommendation to the Governor (or the legislature, as the case may be) regarding a preferred designated State agency.
 
 #### (D) Appeal of designation
 
@@ -348,7 +348,7 @@ The Social Security Act, referred to in subsec. (b)(4)(A)(i)(I), is act Aug. 14,
 
 The Public Health Service Act, referred to in subsec. (c)(5)(G)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. The reference to subtitle B of title XIX of the Act probably means part B of title XIX of the Act which is classified generally to part B (§300x et seq.) of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part B of the Act was classified generally to subchapter II (§6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title Iof Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part B of the Act was classified generally to subchapter II (§6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

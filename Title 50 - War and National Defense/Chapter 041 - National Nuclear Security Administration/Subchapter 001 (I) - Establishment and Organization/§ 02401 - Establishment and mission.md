@@ -10,7 +10,7 @@ The mission of the Administration shall be the following:
 
 &emsp;(1) To enhance United States national security through the military application of nuclear energy.
 
-&emsp;(2) To maintain and enhance the safety, reliability, and performance of the United States nuclear weapons stockpile, including the ability to design, produce, and test, in order to meet national security requirements.
+&emsp;(2) To support the deterrence of strategic attacks against the United States by maintaining and enhancing the performance, reliability, security, and safety of the United States nuclear weapons stockpile, including the ability to design, produce, and test nuclear weapons as necessary in order to meet national security requirements.
 
 &emsp;(3) To provide the United States Navy with safe, militarily effective nuclear propulsion plants and to ensure the safe and reliable operation of those plants.
 
@@ -24,13 +24,15 @@ The mission of the Administration shall be the following:
 
 In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of—
 
-&emsp;(1) protecting the environment;
+&emsp;(1) fulfilling, to the maximum extent possible, the requirements for nuclear weapons of the Department of Defense;
 
-&emsp;(2) safeguarding the safety and health of the public and of the workforce of the Administration; and
+&emsp;(2) protecting the environment;
 
-&emsp;(3) ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
+&emsp;(3) safeguarding the safety and health of the public and of the workforce of the Administration; and
 
-(Pub. L. 106–65, div. C, title XXXII, §3211, Oct. 5, 1999, 113 Stat. 957; Pub. L. 113–66, div. C, title XXXI, §3111, Dec. 26, 2013, 127 Stat. 1049.)
+&emsp;(4) ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
+
+(Pub. L. 106–65, div. C, title XXXII, §3211, Oct. 5, 1999, 113 Stat. 957; Pub. L. 113–66, div. C, title XXXI, §3111, Dec. 26, 2013, 127 Stat. 1049; Pub. L. 118–159, div. C, title XXXI, §3111(a)(1), Dec. 23, 2024, 138 Stat. 2293.)
 
 #### <b>Editorial Notes</b>
 
@@ -39,6 +41,10 @@ In carrying out the mission of the Administration, the Administrator shall ensur
 This chapter, referred to in subsec. (a), was in the original "this title", meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b)(2). Pub. L. 118–159, §3111(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: "To maintain and enhance the safety, reliability, and performance of the United States nuclear weapons stockpile, including the ability to design, produce, and test, in order to meet national security requirements."
+
+Subsec. (c)(1) to (4). Pub. L. 118–159, §3111(a)(1)(B), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, text read as follows: "In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration."
 
@@ -54,7 +60,7 @@ In General.—Except as provided in subsection (b), the provisions of this title
 
 "(b)
 
-Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting section 2451 and former section 2483 of this title and sections 7144a to 7144c of Title 42, The Public Health and Welfare, amending section 7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
+Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting section 2451 and former section 2483 of this title and sections 7144a to 7144c of Title 42, The Public Health and Welfare, amending section 7132 of Title 42, and enacting provisions set out as a notebelow\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
 "(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively."
 

@@ -1,6 +1,6 @@
 ### §7604. Terms of agreement
 
-An agreement between the Secretary and a participant in the Educational Assistance Program shall be in writing, shall be signed by the participant, and shall include the following provisions:
+An agreement between the Secretary and a participant in the Educational Assistance Program shall be in writing, shall be signed by theparticipant, and shall include the following provisions:
 
 &emsp;(1) The Secretary's agreement—
 
@@ -24,7 +24,7 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 &emsp;(5) Such other terms as are required to be included in the agreement under subchapter II, III, V, VI, VIII, or IX of this chapter or as the Secretary may require consistent with the provisions of this chapter.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 519, §4304; amended Pub. L. 101–366, title II, §205(c)(3), Aug. 15, 1990, 104 Stat.441; renumbered §7604 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686; Pub. L. 105–368, title VIII, §805(4), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 115–182, title III, §303(b)(1)(C), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, §502(b)(1)(D), Oct. 17, 2020, 134 Stat. 818.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 519, §4304; amended Pub. L. 101–366, title II, §205(c)(3), Aug. 15, 1990, 104 Stat. 441; renumbered §7604 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686; Pub. L. 105–368, title VIII, §805(4), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 115–182, title III, §303(b)(1)(C), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, §502(b)(1)(D), Oct. 17, 2020, 134 Stat. 818.)
 
 #### <b>Editorial Notes</b>
 

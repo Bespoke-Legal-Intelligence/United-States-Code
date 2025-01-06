@@ -72,7 +72,7 @@ Pub. L. 110–181, div. C, title XXXI, subtitle D, Jan. 28, 2008, 122 Stat. 586,
 
 "(a)
 
-Policy.—It is the policy of the United States to work with the international community to take all possible steps to ensure that all nuclear weaponsaround the world are secure and accounted for and that all formula quantities of strategic special nuclear material are eliminated, removed, or secure and accounted for to a level sufficient to defeat the threats posed by terrorists and criminals.
+Policy.—It is the policy of the United States to work with the international community to take all possible steps to ensure that all nuclear weapons around the world are secure and accounted for and that all formula quantities of strategic special nuclear material are eliminated, removed, or secure and accounted for to a level sufficient to defeat the threats posed by terrorists and criminals.
 
 "(b)
 

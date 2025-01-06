@@ -60,7 +60,7 @@ Prohibited Basis of Penalty.—The Commission or a court may not order a person 
 
 (e)
 
-Time Limit.—A proceeding to assess a civil penalty or order a refund of money under thissection must be commenced within 5 years after the date of the violation.
+Time Limit.—A proceeding to assess a civil penalty or order a refund of money under this section must be commenced within 5 years after the date of the violation.
 
 (f)
 

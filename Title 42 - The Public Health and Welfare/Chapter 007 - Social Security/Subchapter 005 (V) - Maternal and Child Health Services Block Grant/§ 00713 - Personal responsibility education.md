@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024, the Secretary shall allot to each State an amount equal to the product of—
+&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, for the period beginning on November 18, 2023, and ending on January 19, 2024, for the period beginning on January 20, 2024, and ending on March 8, 2024, for the period beginning on March 9, 2024, and ending on September 30, 2024, and for the period beginning on October 1, 2024, and ending on March 31,2025, the Secretary shall allot to each State an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
 
@@ -16,7 +16,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning on October 1, 2023, and ending on November 17, 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024.
+&emsp;&emsp;&emsp;Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning on October 1, 2023, and ending on November 17, 2023, for the period beginning on November 18, 2023, and ending on January 19, 2024, for the period beginning on January 20, 2024, and ending on March 8, 2024, for the period beginning on March 9, 2024, and ending on September 30, 2024, and for the period beginning on October 1, 2024, and ending on March 31, 2025.
 
 #### (ii) Pro rata adjustments
 
@@ -78,7 +78,7 @@
 
 #### (5) Maintenance of effort
 
-&emsp;No payment shall be made to a State from the allotment determined for the State under this subsection or to a local organization or entity awarded a grant under paragraph (4), if the expenditure of non-federal funds by the State, organization, or entity for activities,programs, or initiatives for which amounts from allotments and grants under this subsection may be expended is less than the amount expended by the State, organization, or entity for such programs or initiatives for fiscal year 2009.
+&emsp;No payment shall be made to a State from the allotment determined for the State under this subsection or to a local organization or entity awarded a grant under paragraph (4), if the expenditure of non-federal funds by the State, organization, or entity for activities, programs, or initiatives for which amounts from allotments and grants under this subsection may be expended is less than the amount expended by the State, organization, or entity for such programs or initiatives for fiscal year 2009.
 
 #### (6) Data collection and reporting
 
@@ -154,7 +154,7 @@
 
 #### (ii) Program support
 
-&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance,including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
+&emsp;&emsp;&emsp;The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
 
 #### (iii) Evaluation
 
@@ -162,7 +162,7 @@
 
 #### (3) Exception
 
-&emsp;Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for a period described in subsection (a)(1)(A) for fiscal year 2024.
+&emsp;Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for a period described in subsection (a)(1)(A) for fiscal year 2024 or 2025.
 
 #### (d) Administration
 
@@ -218,9 +218,9 @@ In this section:
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, for the period beginning on November 18, 2023, and ending on January 19, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, for the period beginning on January 20, 2024, and ending on March 8, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, for the period beginning on March 9, 2024, and ending on September 30, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on October 1, 2024, and ending on March 31, 2025, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2024. Amounts appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3822, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2103, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(b), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §302, Dec. 27, 2020, 134 Stat. 2992; Pub. L. 118–15, div. B, title III, §2353, Sept. 30, 2023, 137 Stat. 97; Pub. L. 118–22, div. B, title II, §403, Nov. 17, 2023, 137 Stat. 122.)
+(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3822, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2103, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(b), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §302, Dec. 27, 2020, 134 Stat. 2992; Pub. L. 118–15, div. B, title III, §2353, Sept. 30, 2023, 137 Stat. 97; Pub. L. 118–22, div. B, title II, §403, Nov. 17, 2023, 137 Stat. 122; Pub. L. 118–35, div. B, title I, §143, Jan. 19, 2024, 138 Stat. 6; Pub. L. 118–42, div. G, title I, §404, Mar. 9, 2024, 138 Stat. 418; Pub. L. 118–158, div. C, title III, §3302, Dec. 21, 2024, 138 Stat. 1767.)
 
 #### <b>Editorial Notes</b>
 
@@ -233,6 +233,26 @@ Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat.
 Provisions similar to those comprising former section 713 were contained in section 541 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 634 (formerly classified to section 731 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(1)(A). Pub. L. 118–158, §3302(1)(A), substituted "March 31, 2025" for "December 31, 2024" in introductory provisions.
+
+Pub. L. 118–42, §404(1)(A), in introductory provisions, struck out "and" after "January 19, 2024," and inserted "for the period beginning on March 9, 2024, and ending on September 30, 2024, and for the period beginning on October 1, 2024, and ending on December 31, 2024," after "March 8, 2024,".
+
+Pub. L. 118–35, §143(1)(A), in introductory provisions, struck out "and" after "November 17, 2023," and inserted "and for the period beginning on January 20, 2024, and ending on March 8, 2024," after "January 19, 2024,".
+
+Subsec. (a)(1)(B)(i). Pub. L. 118–158, §3302(1)(B), substituted "March 31, 2025" for "December 31, 2024".
+
+Pub. L. 118–42, §404(1)(B), struck out "and" after "January 19, 2024," and substituted ", for the period beginning on March 9, 2024, and ending on September 30, 2024, and for the period beginning on October 1, 2024, and ending on December 31, 2024." for period at end.
+
+Pub. L. 118–35, §143(1)(B), struck out "and" after "November 17, 2023," and inserted ", and for the period beginning on January 20, 2024, and ending on March 8, 2024" after "January 19, 2024".
+
+Subsec. (c)(3). Pub. L. 118–42, §404(2), inserted "or 2025" after "fiscal year 2024".
+
+Subsec. (f). Pub. L. 118–158, §3302(2), substituted "March 31, 2025" for "December 31, 2024".
+
+Pub. L. 118–42, §404(3), struck out "and" before "for the period beginning on January 20, 2024," and substituted "fiscal year 2023, for the period beginning on March 9, 2024, and ending on September 30, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on October 1, 2024, and ending on December 31, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2024." for "fiscal year 2023."
+
+Pub. L. 118–35, §143(2), struck out "and" before "for the period beginning on November 18, 2023," and substituted "fiscal year 2023, and for the period beginning on January 20, 2024, and ending on March 8, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023." for "fiscal year 2023."
 
 <b>2023</b>—Subsec. (a)(1)(A). Pub. L. 118–22, §403(1)(A)(i), in introductory provisions, substituted ", for the period beginning on October 1, 2023, and ending on November 17, 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024," for "and for the period beginning on October 1, 2023, and ending on November 17, 2023,".
 
@@ -264,7 +284,7 @@ Subsec. (c)(3). Pub. L. 118–22, §403(2), substituted "for a period described 
 
 Pub. L. 118–15, §2353(2)(B), added par. (3).
 
-Subsec. (f). Pub. L. 118–22, §403(3), substituted "2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on November 18, 2023, and ending on January 19, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023" for "2023, and for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023".
+Subsec. (f). Pub. L. 118–22, §403(3), substituted "2023, for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the periodbeginning on November 18, 2023, and ending on January 19, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023" for "2023, and for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023".
 
 Pub. L. 118–15, §2353(3), inserted ", and for the period beginning on October 1, 2023, and ending on November 17, 2023, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023" after "through 2023".
 
@@ -356,7 +376,7 @@ Subsec. (a)(4)(B)(i). Pub. L. 113–93, §206(2), substituted "2014, and 2015" f
 
 Subsec. (f). Pub. L. 113–93, §206(3), substituted "2015" for "2014".
 
-<b>2010</b>—Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10201(h), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions."
+<b>2010</b>—Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10201(h), amended cl. (i) generally. Prior to amendment, cl. (i)read as follows: "Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

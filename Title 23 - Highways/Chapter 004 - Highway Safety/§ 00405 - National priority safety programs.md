@@ -34,7 +34,7 @@ Motorcyclist safety.—In each fiscal year, 1.5 percent of the funds provided un
 
 &emsp;(7)
 
-Nonmotorized safety.—In each fiscal year, 7 percent of the funds provided underthis section shall be allocated among States that meet requirements with respect to nonmotorized safety (as described in subsection (g)).
+Nonmotorized safety.—In each fiscal year, 7 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to nonmotorized safety (as described in subsection (g)).
 
 &emsp;(8)
 
@@ -292,7 +292,7 @@ Low-range states.—Low-range States shall be eligible for a grant under this su
 
 Mid-range states.—A mid-range State shall be eligible for a grant under this subsection if—
 
-&emsp;&emsp;&emsp;(i) a statewide impaired driving task force in the State developed a statewide plan during the most recent 3 calendar years to address the problem of impaired driving; or
+&emsp;&emsp;&emsp;(i) a statewide impaired driving task force in the State developed a statewideplan during the most recent 3 calendar years to address the problem of impaired driving; or
 
 &emsp;&emsp;&emsp;(ii) the State will convene a statewide impaired driving task force to develop such a plan during the first year of the grant.
 
@@ -532,7 +532,7 @@ Exclusion.—The term "personal wireless communications device" does not include
 
 &emsp;&emsp;(C)
 
-Primary offense.—The term "primary offense" means an offense for which a lawenforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.
+Primary offense.—The term "primary offense" means an offense for which a law enforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.
 
 &emsp;&emsp;(D)
 
@@ -608,7 +608,7 @@ Primary laws.—Subject to clause (iv), in the case of a State that enacts and e
 
 &emsp;&emsp;&emsp;(iii)
 
-Secondary laws.—Subject to clause (iv), in the case of a State that enacts and enforces a law that meets the requirements of paragraph (4), (5), or (6) as a secondary enforcement action, the allocation to the State under this subparagraph shall be an amount equal to 50 percent of the amount calculated to be allocated to the State under clause (i)(I).
+Secondary laws.—Subject to clause (iv), in the case of a State that enacts and enforces a law that meets the requirements of paragraph (4), (5), or (6) as a secondary enforcement action, the allocationto the State under this subparagraph shall be an amount equal to 50 percent of the amount calculated to be allocated to the State under clause (i)(I).
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -656,7 +656,7 @@ Prohibition on youth cell phone use while driving or stopped in traffic.—A Sta
 
 Permitted exceptions.—A law that meets the requirements of paragraph (4), (5), or (6) may provide exceptions for—
 
-&emsp;&emsp;(A) a driver who uses a personal wireless communications device during an emergencyto contact emergency services to prevent injury to persons or property;
+&emsp;&emsp;(A) a driver who uses a personal wireless communications device during an emergency to contact emergency services to prevent injury to persons or property;
 
 &emsp;&emsp;(B) emergency services personnel who use a personal wireless communications device while—
 
@@ -824,7 +824,7 @@ Definition of nonmotorized road user.—In this subsection, the term "nonmotoriz
 
 &emsp;&emsp;(B) an individual using a nonmotorized mode of transportation, including a bicycle, a scooter, or a personal conveyance; and
 
-&emsp;&emsp;(C) an individual using a low-speed or low-horsepower motorized vehicle, including an electric bicycle, electric scooter, personal mobility assistance device, personal transporter, or all-terrain vehicle.
+&emsp;&emsp;(C) an individual using a low-speed or low-horsepower motorized vehicle, including anelectric bicycle, electric scooter, personal mobility assistance device, personal transporter, or all-terrain vehicle.
 
 &emsp;(2)
 
@@ -860,7 +860,7 @@ Use of grant amounts.—Grant funds received by a State under this subsection ma
 
 &emsp;(6)
 
-Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to theState's apportionment under section 402 for fiscal year 2009.
+Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.
 
 (h)
 
@@ -1062,7 +1062,7 @@ Subsec. (c)(4). Pub. L. 117–58, §24105(a)(3)(C), added par. (4) and struck ou
 
 Subsec. (c)(6). Pub. L. 117–58, §24105(a)(3)(D), added par. (6).
 
-Subsec. (d)(4)(B)(iii). Pub. L. 117–58, §24105(a)(4)(A)(i)(I), added cl. (iii) and struck out formercl. (iii) which read as follows: "court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;".
+Subsec. (d)(4)(B)(iii). Pub. L. 117–58, §24105(a)(4)(A)(i)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: "court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;".
 
 Subsec. (d)(4)(B)(v). Pub. L. 117–58, §24105(a)(4)(A)(i)(II), added cl. (v) and struck out former cl. (v) which read as follows: "improving blood-alcohol concentration testing and reporting;".
 
@@ -1096,7 +1096,7 @@ Subsec. (e)(4). Pub. L. 117–58, §24105(a)(5)(B), (E)(i), redesignated par. (2
 
 Subsec. (e)(4)(B). Pub. L. 117–58, §24105(a)(5)(E)(ii)–(iv), redesignated subpar. (C) as (B), struck out "minimum" before "fine", and struck out former subpar. (B) which read as follows: "makes violation of the law a primary offense;".
 
-Subsec. (e)(4)(C), (D). Pub. L. 117–58, §24105(a)(5)(E)(iii), (v), redesignated subpar. (D) as (C) and substituted "use a personal wireless communications device for texting" for "text through a personal wireless communication device". Former subpar. (C) redesignated (B).
+Subsec. (e)(4)(C), (D). Pub. L. 117–58, §24105(a)(5)(E)(iii), (v), redesignated subpar. (D) as (C) and substituted "use a personal wireless communications device for texting" for "text through a personalwireless communication device". Former subpar. (C) redesignated (B).
 
 Subsec. (e)(5). Pub. L. 117–58, §24105(a)(5)(F), added par. (5).
 
@@ -1132,7 +1132,7 @@ Subsec. (g). Pub. L. 117–58, §24105(a)(7), (8), redesignated subsec. (h) as (
 
 Subsec. (g)(1). Pub. L. 117–58, §24105(a)(9)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (g)(2). Pub. L. 117–58, §24105(a)(9)(A), (C), redesignated par. (1) as (2) and substituted "nonmotorized road user fatalities involving a motor vehicle in transiton a trafficway" for "pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle". Former par. (2) redesignated (3).
+Subsec. (g)(2). Pub. L. 117–58, §24105(a)(9)(A), (C), redesignated par. (1) as (2) and substituted "nonmotorized road user fatalities involving a motor vehicle in transit on a trafficway" for "pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle". Former par. (2) redesignated (3).
 
 Subsec. (g)(3). Pub. L. 117–58, §24105(a)(9)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 

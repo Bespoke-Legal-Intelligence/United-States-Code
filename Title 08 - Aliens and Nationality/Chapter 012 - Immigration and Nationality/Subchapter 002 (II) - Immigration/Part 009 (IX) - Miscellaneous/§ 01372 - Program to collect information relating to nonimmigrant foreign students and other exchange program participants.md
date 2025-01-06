@@ -116,7 +116,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (A) Establishment of amount
 
-&emsp;&emsp;The Attorney General shall establish the amount of the fee to be imposed on, and collected from, an alien under paragraph (1). Except as provided in subsection (g)(2), the fee imposed on any individual may not exceed $100, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35.<sup>3</sup> The amount of the fee shall be based on the Attorney General's estimate of the cost per alien of conducting the information collection program described in this section.
+&emsp;&emsp;The Attorney General shall establish the amount of the fee to be imposed on, and collected from, an alien under paragraph (1). Except as provided in subsection (g)(2), the fee imposed on any individual may not exceed $100, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40, except that, inthe case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35.<sup>3</sup> The amount of the fee shall be based on the Attorney General's estimate of the cost per alien of conducting the information collection program described in this section.
 
 #### (B) Use
 

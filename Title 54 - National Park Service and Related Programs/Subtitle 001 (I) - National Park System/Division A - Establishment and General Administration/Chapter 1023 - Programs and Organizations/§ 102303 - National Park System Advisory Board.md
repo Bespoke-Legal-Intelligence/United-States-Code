@@ -42,7 +42,7 @@ Adopt rules.—The Board may adopt such rules as may be necessary to establish i
 
 &emsp;(2)
 
-Advice and recommendations.—The Board shall advise the Secretary on mattersrelating to the System, to other related areas, and to the administration of chapter 3201 of this title, including matters submitted to it for consideration by the Secretary, but it shall not be required to provide recommendations as to the suitability or desirability of surplus real and related personal property for use as a historic monument. The Board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. The Board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making the recommendations.
+Advice and recommendations.—The Board shall advise the Secretary on matters relating to the System, to other related areas, and to the administration of chapter 3201 of this title, including matters submitted to it for consideration by the Secretary, but it shall not be required to provide recommendations as to the suitability or desirability of surplus real and related personal property for use as a historic monument. The Board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. The Board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making the recommendations.
 
 &emsp;(3)
 
@@ -192,7 +192,7 @@ In subsection (c)(2), the words "natural or cultural" are substituted for "natio
 
 #### Authorization of Appropriations
 
-Pub. L. 104–333, div. I, title VIII, §814(f)(2), Nov. 12, 1996, 110 Stat. 4199, provided that: "There are authorized to be appropriated to the National Park SystemAdvisory Board $200,000 per year to carry out the provisions of section 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463) \[see 54 U.S.C. 102303, 102304\]."
+Pub. L. 104–333, div. I, title VIII, §814(f)(2), Nov. 12, 1996, 110 Stat. 4199, provided that: "There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions of section 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463) \[see 54 U.S.C. 102303, 102304\]."
 
 \[Pub. L. 104–333, div. I, title VIII, §814(f)(3), Nov. 12, 1996, 110 Stat. 4199, provided that: "This subsection \[amending former section 463 of Title 16, Conservation, and enacting provisions set out as a note above\] shall take effect on December 7, 1997."\]
 

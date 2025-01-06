@@ -36,7 +36,7 @@ An organic certification program established under this chapter may—
 
 &emsp;(1) provide for the certification of an entire farm or handling operation or specific fields of a farm or parts of a handling operation if—
 
-&emsp;&emsp;(A) in the case of a farm or field, the area to be certified has distinct, defined boundaries and buffer zones separating the landbeing operated through the use of organic methods from land that is not being operated through the use of such methods;
+&emsp;&emsp;(A) in the case of a farm or field, the area to be certified has distinct, defined boundaries and buffer zones separating the land being operated through the use of organic methods from land that is not being operated through the use of such methods;
 
 &emsp;&emsp;(B) the operators of such farm or handling operation maintain records of all organic operations separate from records relating to other operations and make such records available at all times for inspection by the Secretary, the certifying agent, and the governing State official; and
 
@@ -78,7 +78,7 @@ A State organic certification program approved under this chapter may contain ad
 
 #### (2) Use
 
-&emsp;The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
+&emsp;The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses ofthe Secretary incurred in providing accreditation services under this chapter.
 
 (Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, §2105, Apr. 16, 2003, 117 Stat. 589; Pub. L. 113–79, title X, §10005(b)(2), Feb. 7, 2014, 128 Stat. 944.)
 

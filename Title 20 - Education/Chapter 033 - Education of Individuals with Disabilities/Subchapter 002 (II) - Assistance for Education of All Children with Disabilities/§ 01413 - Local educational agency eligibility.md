@@ -124,7 +124,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (9) Records regarding migratory children with disabilities
 
-&emsp;The local educational agency shall cooperate in the Secretary's efforts under section 1308 ofthe Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6398\] to ensure the linkage of records pertaining to migratory children with a disability for the purpose of electronically exchanging, among the States, health and educational information regarding such children.
+&emsp;The local educational agency shall cooperate in the Secretary's efforts under section 1308 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6398\] to ensure the linkage of records pertaining to migratory children with a disability for the purpose of electronically exchanging, among the States, health and educational information regarding such children.
 
 #### (b) Exception for prior local plans
 
@@ -186,7 +186,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) In general
 
-&emsp;&emsp;If an educational service agency is required by State law to carry out programsunder this subchapter, the joint responsibilities given to local educational agencies under this subsection shall—
+&emsp;&emsp;If an educational service agency is required by State law to carry out programs under this subchapter, the joint responsibilities given to local educational agencies under this subsection shall—
 
 &emsp;&emsp;&emsp;(i) not apply to the administration and disbursement of any payments received by that educational service agency; and
 
@@ -292,7 +292,7 @@ For the effective date of the Individuals with Disabilities Education Improvemen
 
 A prior section 1413, Pub. L. 91–230, title VI, §613, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, §1076(i), Jan. 8, 2002, 115 Stat. 2091, related to local educational agency eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State planby Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
 

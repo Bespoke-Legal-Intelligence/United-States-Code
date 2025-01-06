@@ -6,7 +6,7 @@ Each local educational agency that receives funds under this subchapter shall su
 
 #### (b) Report to Congress
 
-The Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report not later than October 1, 1995, which shall contain adetailed statement regarding grant awards, activities of grant recipients, a compilation of statistical information submitted by applicants under section 5964(a) of this title, and an evaluation of programs assisted under this subchapter.
+The Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report not later than October 1, 1995, which shall contain a detailed statement regarding grant awards, activities of grant recipients, a compilation of statistical information submitted by applicants under section 5964(a) of this title, and an evaluation of programs assisted under this subchapter.
 
 (Pub. L. 103–227, title VII, §708, Mar. 31, 1994, 108 Stat. 209.)
 

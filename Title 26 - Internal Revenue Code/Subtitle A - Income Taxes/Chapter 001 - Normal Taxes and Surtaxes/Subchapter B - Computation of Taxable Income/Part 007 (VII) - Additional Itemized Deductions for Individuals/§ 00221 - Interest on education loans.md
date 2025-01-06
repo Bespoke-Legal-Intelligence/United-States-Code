@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (1) Denial of double benefit
 
-&emsp;No deduction shall be allowed under this section for any amount for which a deduction isallowable under any other provision of this chapter, or for which an exclusion is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer's employer of any indebtedness on a qualified education loan of the taxpayer. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
+&emsp;No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter, or for which an exclusion is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer's employer of any indebtedness on a qualified education loan of the taxpayer. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
 
 #### (2) Married couples must file joint return
 
@@ -156,7 +156,7 @@ Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pu
 
 Subsec. (b)(2)(C)(i). Pub. L. 107–16, §431(c)(2), inserted "222," before "911".
 
-Subsec. (d). Pub. L. 107–16, §412(a)(1), redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: "A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretaryin the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section."
+Subsec. (d). Pub. L. 107–16, §412(a)(1), redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: "A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section."
 
 Subsec. (e). Pub. L. 107–16, §412(a)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

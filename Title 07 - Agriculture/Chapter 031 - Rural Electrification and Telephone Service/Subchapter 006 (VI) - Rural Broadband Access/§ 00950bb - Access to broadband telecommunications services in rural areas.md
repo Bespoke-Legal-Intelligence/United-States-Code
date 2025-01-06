@@ -170,7 +170,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require; and
 
-&emsp;&emsp;&emsp;(iii) agree to complete buildout of the broadband infrastructure described in the application by not later than 5 years after the initial date on which assistance under this section is made available.
+&emsp;&emsp;&emsp;(iii) agree to complete buildout of the broadband infrastructure described in theapplication by not later than 5 years after the initial date on which assistance under this section is made available.
 
 #### (B) Limitation
 
@@ -262,7 +262,7 @@ In this section:
 
 #### (2) Adjustments
 
-&emsp;At least once every 2 years, the Secretary shall review, and may adjust through notice published in the Federal Register, the minimum acceptable level of broadband service established under paragraph (1) and broadband buildout requirements under paragraph (4) to ensure that high quality, cost-effective broadband service is provided to rural areas over time.
+&emsp;At least once every 2 years, the Secretary shall review, and may adjust through noticepublished in the Federal Register, the minimum acceptable level of broadband service established under paragraph (1) and broadband buildout requirements under paragraph (4) to ensure that high quality, cost-effective broadband service is provided to rural areas over time.
 
 #### (3) Prohibition
 
@@ -362,7 +362,7 @@ For purposes of determining whether to provide assistance for a project under th
 
 #### (3) Agreement on milestones and objectives
 
-&emsp;With respect to payment assistance provided under paragraph (2), before entering into theagreement under which the payment assistance will be provided, the applicant and the Secretary shall agree to milestones and objectives of the project.
+&emsp;With respect to payment assistance provided under paragraph (2), before entering into the agreement under which the payment assistance will be provided, the applicant and the Secretary shall agree to milestones and objectives of the project.
 
 #### (4) Amendment of milestones and objectives
 

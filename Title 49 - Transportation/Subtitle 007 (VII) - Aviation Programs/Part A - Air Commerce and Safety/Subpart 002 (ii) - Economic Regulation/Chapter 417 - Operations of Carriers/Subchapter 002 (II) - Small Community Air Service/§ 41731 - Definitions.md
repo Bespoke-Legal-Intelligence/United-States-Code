@@ -16,19 +16,25 @@ General.—In this subchapter—
 
 &emsp;&emsp;(B) had an average of 10 enplanements per service day or more, as determined by the Secretary, during the most recent fiscal year beginning after September 30, 2012;
 
-&emsp;&emsp;(C) had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary; and
+&emsp;&emsp;(C) had an average subsidy per passenger, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(i) of less than $1,000 during the most recent fiscal year beginning before October 1, 2026, regardless of driving miles to the nearest large or medium hub airport;
+
+&emsp;&emsp;&emsp;(ii) of less than $850 during the most recent fiscal year beginning after September 30, 2026, regardless of driving miles to the nearest medium or large hub airport; and
+
+&emsp;&emsp;&emsp;(iii) of less than $650 during the most recent fiscal year for locations that are less than 175 miles from the nearest large or medium hub airport; and
 
 &emsp;&emsp;(D) is a community that, at any time during the period between September 30, 2010, and September 30, 2011, inclusive—
 
 &emsp;&emsp;&emsp;(i) received essential air service for which compensation was provided to an air carrier under this subchapter; or
 
-&emsp;&emsp;&emsp;(ii) received a 90-day notice of intent to terminate essential air service and the Secretary required the air carrier to continue to provide such service to the community.
+&emsp;&emsp;&emsp;(ii) received a 140-day notice of intent to terminate essential air service and the Secretary required the air carrier to continue to provide such service to the community.
 
 &emsp;(2) "enhanced essential air service" means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in section 41732 of this title.
 
 (b)
 
-Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretarymay not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.
+Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary may not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.
 
 (c)
 
@@ -40,13 +46,33 @@ Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or M
 
 (e)
 
-Waivers.—For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary's satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.
+Waivers.—
+
+&emsp;(1)
+
+In general.—The Secretary may waive, on an annual basis, subsections (a)(1)(B) and (a)(1)(C)(iii) with respect to an eligible place if such place demonstrates to the Secretary's satisfaction that the reason the eligibility requirements of such subsections are not met is due to a temporary decline in demand.
+
+&emsp;(2)
+
+Limitation.—Beginning with fiscal year 2027, the Secretary may not provide a waiver of subsection (a)(1)(B) to any location—
+
+&emsp;&emsp;(A) in more than 2 consecutive fiscal years; or
+
+&emsp;&emsp;(B) in more than 5 fiscal years within 25 consecutive years.
+
+&emsp;(3)
+
+Limitation.—Beginning in fiscal year 2027, the Secretary may not provide a waiver of subsection (a)(1)(C)(iii) to any location—
+
+&emsp;&emsp;(A) in more than 2 consecutive fiscal years; or
+
+&emsp;&emsp;(B) in more than 5 fiscal years within 25 consecutive years.
 
 (f)
 
 Definition.—For purposes of subsection (a)(1)(B), the term "enplanements" means the number of passengers enplaning, at an eligible place, on flights operated by the subsidized essential air service carrier.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 112–27, §6, Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–95, title IV, §§421, 422, Feb. 14, 2012, 126 Stat. 96, 97; Pub. L. 115–254, div. B, title IV, §453(a), Oct. 5, 2018, 132 Stat. 3348.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 112–27, §6, Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–95, title IV, §§421, 422, Feb. 14, 2012, 126 Stat. 96, 97; Pub. L. 115–254, div. B, title IV, §453(a), Oct. 5, 2018, 132 Stat. 3348; Pub. L. 118–63, title V, §561(a)(1)–(3), May 16, 2024, 138 Stat. 1214.)
 
 Historical and Revision Notes
 
@@ -104,6 +130,12 @@ The date of the enactment of the FAA Extension, Safety, and Security Act of 2016
 
 #### Amendments
 
+<b>2024</b>—Subsec. (a)(1)(C). Pub. L. 118–63, §561(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary; and".
+
+Subsec. (a)(1)(D)(ii). Pub. L. 118–63, §561(a)(2), substituted "140-day" for "90-day".
+
+Subsec. (e). Pub. L. 118–63, §561(a)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: "For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary's satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements."
+
 <b>2018</b>—Subsec. (a)(1)(A)(ii). Pub. L. 115–254 substituted "FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190)," for "Wendell H. Ford Aviation Investment and Reform Act for the 21st Century,".
 
 <b>2012</b>—Subsec. (a)(1)(B). Pub. L. 112–95, §421(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is located not less than 90 miles from the nearest medium or large hub airport; and".
@@ -136,6 +168,10 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Response Time for Applications To Provide Essential Air Service
+
+Pub. L. 118–63, title V, §568, May 16, 2024, 138 Stat. 1219, provided that: "The Secretary \[of Transportation\] shall take such actions as are necessary to respond with an approval or denial of any application filed by an applicant to provide essential air service under subchapter II of chapter 417 of title 49, United States Code, to the greatest extent practicable not later than 6 months after receiving such application. The Assistant General Counsel for International and Aviation Economic Law shall ensure the timely review of all orders proposed by the Essential Air Service Office, and such timeliness shall be analyzed annually by the General Counsel of the Department of Transportation."
+
 #### Code-Sharing Pilot Program
 
 Pub. L. 108–176, title IV, §406, Dec. 12, 2003, 117 Stat. 2545, provided that:
@@ -150,11 +186,11 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(g), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(g), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(f), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §457, Oct. 5, 2018, 132 Stat. 3350; Pub. L. 118–15, div. B, title II, §2202(m), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(m), Dec. 26, 2023, 137 Stat. 1114, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(g), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(g), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(f), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §457, Oct. 5, 2018, 132 Stat. 3350; Pub. L. 118–15, div. B, title II, §2202(m), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, §102(m), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, §102(m), Mar. 8, 2024, 138 Stat. 22, provided that:
 
 "(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (\[former\] 49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 "(b)
 
@@ -174,7 +210,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 "(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on March 8, 2024."
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on May 10, 2024."
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: "The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date."\]
 
@@ -210,31 +246,11 @@ Statutory Construction.—Nothing in this section expands the authority or juris
 
 Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: "The Secretary \[of Transportation\] may provide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles."
 
-Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: "Hereafter, notwithstanding 49 U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport."
+Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, which did not provide essential air service subsidies to communities in the 48 contiguous States that were located fewer than 70 highway miles from the nearest large or medium hub airport or required a rate of subsidy per passenger in excess of $200 unless such point was greater than 210 miles from the nearest large or medium hub airport, was repealed by Pub. L. 118–63, title V, §561(a)(4)(A), May 16, 2024, 138 Stat. 1214.
 
-\[Pub. L. 112–95, title IV, §426(c), (d), Feb. 14, 2012, 126 Stat. 99, as amended by Pub. L. 115–254, div. B, title IV, §458, title V, §539(s)(2), Oct. 5, 2018, 132 Stat. 3350, 3372, provided that:
+\[Pub. L. 112–95, title IV, §426(c), (d), Feb. 14, 2012, 126 Stat. 99, as amended by Pub. L. 115–254, div. B, title IV, §458, title V, §539(s)(2), Oct. 5, 2018, 132 Stat. 3350, 3372, which provided that the Secretary of Transportation could waive the subsidy-per-passenger cap established by section 332 of Pub. L. 106–69, and the Secretary would waive application of the subsidy-per-passenger cap if the Secretary found that the community's subsidy-per-passenger for a fiscal year was lower than the subsidy-per-passenger for any of the 3 previous fiscal years, was repealed by Pub. L. 118–63, title V, §561(a)(4)(B), May 16, 2024, 138 Stat. 1214.\]
 
-\["(c)
-
-Subsidy Cap.—Subject to the availability of funds, the Secretary of Transportation may waive, on a case-by-case basis, the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022) \[set out above\]. A waiver issued under this subsection shall remain in effect for a limited period of time, as determined by the Secretary.
-
-\["(d)
-
-Reduction in Subsidy-per-passenger.—
-
-&emsp;\["(1)
-
-In general.—The Secretary shall waive application of the subsidy-per-passenger cap describedunder subsection (c) if the Secretary finds that the community's subsidy-per-passenger for a fiscal year is lower than the subsidy-per-passenger for any of the 3 previous fiscal years.
-
-&emsp;\["(2)
-
-Exception.—The Secretary shall waive application of the subsidy-per-passenger cap if the subsidy-per-passenger for a fiscal year is less than 10 percent higher than the highest subsidy-per-passenger from any of the 3 previous fiscal years. The Secretary may only waive application of the subsidy-per-passenger cap under this paragraph once per community.
-
-&emsp;\["(3)
-
-Rule of construction.—Nothing in this subsection shall be construed to limit the Secretary's ability under subsection (c) to waive application of the subsidy-per-passenger cap."\]
-
-Provisions similar to those in section 332 of Pub. L. 106–69, set out above, were contained in the following prior appropriation acts:
+Provisions similar to those in section 332 of Pub. L. 106–69, formerly set out above, were contained in the following prior appropriation acts:
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §334\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471.
 

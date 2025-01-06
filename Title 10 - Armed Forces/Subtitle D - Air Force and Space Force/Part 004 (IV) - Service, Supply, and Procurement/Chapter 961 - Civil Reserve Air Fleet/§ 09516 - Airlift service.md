@@ -8,7 +8,7 @@ Interstate Transportation.—(1) Except as provided in subsection (d) of this se
 
 &emsp;(B) holds a certificate issued under section 41102 of title 49.
 
-(2) The Secretary of Transportation shall act as expeditiously as possible on an application for a certificate under section 41102 of title 49 to provide airlift service.
+(2) The Secretary of Transportation shall act as expeditiously as possible on an applicationfor a certificate under section 41102 of title 49 to provide airlift service.
 
 (b)
 
@@ -24,7 +24,7 @@ Exception.—Subject to subsection (e), when the Secretary of Defense decides th
 
 (e)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year, the Secretaryshall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that—
+Annual Report.—Not later than 60 days after the end of each fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that—
 
 &emsp;(1) identifies each contract for airlift services awarded in the preceding fiscal year to a provider that does not meet the requirements set forth in subparagraphs (A) and (B) of subsection (a)(1); and
 
@@ -38,7 +38,7 @@ Annual Report.—Not later than 60 days after the end of each fiscal year, the S
 
 CRAF-eligible Aircraft Defined.—In this section, "CRAF-eligible aircraft" means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
 
-(Added Pub. L. 113–291, div. A, title X, §1042(a), Dec. 19, 2014, 128 Stat. 3492; Pub. L. 117–81, div. A, title X, §1083(b), Dec. 27, 2021, 135 Stat. 1922.)
+(Added Pub. L. 113–291, div. A, title X, §1042(a), Dec. 19, 2014, 128 Stat. 3492; amended Pub. L. 117–81, div. A, title X, §1083(b), Dec. 27, 2021, 135 Stat. 1922.)
 
 #### <b>Editorial Notes</b>
 

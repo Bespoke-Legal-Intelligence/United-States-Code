@@ -1,6 +1,6 @@
 ### §4109. Expenses of training
 
-(a) The head of an agency, under the regulations prescribed under section 4118(a)(8) of thistitle and from appropriations or other funds available to the agency, may—
+(a) The head of an agency, under the regulations prescribed under section 4118(a)(8) of this title and from appropriations or other funds available to the agency, may—
 
 &emsp;(1) pay all or a part of the pay (except overtime, holiday, or night differential pay) of an employee of the agency selected and assigned for training under this chapter, for the period of training; and
 

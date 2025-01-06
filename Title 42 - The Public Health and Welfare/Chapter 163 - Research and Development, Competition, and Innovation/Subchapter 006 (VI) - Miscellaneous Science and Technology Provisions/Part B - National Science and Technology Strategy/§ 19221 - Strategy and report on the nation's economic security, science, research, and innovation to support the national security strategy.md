@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Foreign country of concern
 
-&emsp;The term "foreign country of concern" means the People's Republic of China, theDemocratic People's Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Department of State.
+&emsp;The term "foreign country of concern" means the People's Republic of China, the Democratic People's Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Department of State.
 
 #### (2) Foreign entity of concern
 
@@ -46,7 +46,7 @@ In this section:
 
 &emsp;Not later than 90 days after the transmission of each national security strategy under section 3043(a) of title 50, the President, acting through the Director of the Office of Science and Technology Policy, shall, in coordination with the National Science and Technology Council, the National Security Council, the Director of the National Economic Council, and the heads of such other relevant Federal agencies as the Director of the Office of Science and Technology Policy considers appropriate and in consultation with such nongovernmental partners as the Director of the Office of Science and Technology Policy considers appropriate—
 
-&emsp;&emsp;(A) review such strategy, including the national defense strategy under subsection (g) of section 113 of title 10 and the national science and technology strategy under section 6615 of this title, programs, and resources as the Director of the Office of Science and Technology Policy determines pertain to United States' national competitiveness in science, technology, research, innovation, and technology transfer activities, including patenting and licensing, that support the national security strategy;
+&emsp;&emsp;(A) review such strategy, including the national defense strategy under subsection (g)of section 113 of title 10 and the national science and technology strategy under section 6615 of this title, programs, and resources as the Director of the Office of Science and Technology Policy determines pertain to United States' national competitiveness in science, technology, research, innovation, and technology transfer activities, including patenting and licensing, that support the national security strategy;
 
 &emsp;&emsp;(B) develop or revise a national strategy to improve the national competitiveness of United States science, technology, research, and innovation to support the national security strategy; and
 
@@ -152,7 +152,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) to ensure that intellectual property developed with Federal funding is commercialized in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(III) to ensure, to the maximum appropriate extent, that intellectual property developed with Federal funding is not being used by foreign business entities that are majority owned or controlled\(as such term is defined in section 800.208 of title 31, Code of Federal Regulations, or a successor regulation), or minority owned greater than 25 percent by—
+&emsp;&emsp;&emsp;&emsp;(III) to ensure, to the maximum appropriate extent, that intellectual property developed with Federal funding is not being used by foreign business entities that are majority owned or controlled (as such term is defined in section 800.208 of title 31, Code of Federal Regulations, or a successor regulation), or minority owned greater than 25 percent by—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any governmental organization of a foreign country of concern; or
 
@@ -182,5 +182,5 @@ The Arms Export Control Act, referred to in subsec. (a)(2)(D)(iv), is Pub. L. 90
 
 The Export Control Reform Act of 2018, referred to in subsec. (a)(2)(D)(vi), is subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(D)(vii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(D)(vii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, Warand National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

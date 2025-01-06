@@ -88,7 +88,7 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 <b>2017</b>—Subsec. (i)(3). Pub. L. 115–97 struck out at end "or the operations loss deduction under section 810,".
 
-<b>1986</b>—Subsec. (d)(2). Pub. L. 99–514 substituted "relating to recovery of tax benefit items" for "relating to recovery of bad debts, etc.".
+<b>1986</b>—Subsec. (d)(2). Pub. L. 99–514 substituted "relating to recovery of tax benefit items" for "relating to recovery of bad debts, etc."
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §211(b)(18)(A), substituted "801" for "802" in two places.
 

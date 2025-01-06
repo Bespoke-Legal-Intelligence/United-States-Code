@@ -172,6 +172,18 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 118–161, Dec. 23, 2024, 138 Stat. 2572, recognizing Everett Alvarez, Jr. for distinctive service and sacrifice during the Vietnam war.
+
+Pub. L. 118–159, div. E, title LVII, §5703, Dec. 23, 2024, 138 Stat. 2462, recognizing female telephone operators of the Army Signal Corps, known as the "Hello Girls".
+
+Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm, the first African-American woman elected to Congress.
+
+Pub. L. 118–149, Dec. 12, 2024, 138 Stat. 1678, recognizing 60 diplomats for their brave and vital service of saving Jews during World War II, known as the Forgotten Heroes of the Holocaust.
+
+Pub. L. 118–88, Sept. 26, 2024, 138 Stat. 1554, recognizing Billie Jean King for her contribution to the United States and her leadership advancing equal rights for women.
+
+Pub. L. 118–87, Sept. 26, 2024, 138 Stat. 1550, recognizing the United States Army Dustoff crews of the Vietnam War, collectively, for their heroic military service.
+
 Pub. L. 117–334, Jan. 5, 2023, 136 Stat. 6140, recognizing Emmett Till and Mamie Till-Mobley for heroic actions in the midst of evil, injustice, and grief that became a catalyst for the civil rights movement.
 
 Pub. L. 117–328, div. AA, title VII, Dec. 29, 2022, 136 Stat. 5549, recognizing Benjamin Berell Ferencz for his service to the United States and international community during the post-World War II Nuremberg trials and lifelong advocacy for international criminal justice and rule of law.
@@ -334,7 +346,7 @@ Pub. L. 102–32, Apr. 23, 1991, 105 Stat. 175, recognizing General H. Norman Sc
 
 Pub. L. 101–510, div. A, title XIV, §§1491, 1494, Nov. 5, 1990, 104 Stat. 1720, 1722, recognizing General Matthew B. Ridgway.
 
-Pub. L. 101–510, div. A, title XIV, §§1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
+Pub. L. 101–510, div. A, title XIV, §§1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present inHawaii on Dec. 7, 1941, and participated in combat operations that day.
 
 Pub. L. 101–510, div. A, title XIV, §§1493, 1494, Nov. 5, 1990, 104 Stat. 1722, commemorating centennial of Yosemite National Park.
 

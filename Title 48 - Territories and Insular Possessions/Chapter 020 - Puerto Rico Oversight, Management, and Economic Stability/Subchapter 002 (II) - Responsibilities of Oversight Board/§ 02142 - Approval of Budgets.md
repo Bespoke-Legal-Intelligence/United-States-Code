@@ -36,7 +36,7 @@ The Oversight Board shall submit to the Governor and Legislature a forecast of r
 
 &emsp;The Legislature shall submit to the Oversight Board the Territory Budget adopted by the Legislature by the time specified in the notice delivered under subsection (a). The Oversight Board shall determine whether the adopted Territory Budget is a compliant budget and—
 
-&emsp;&emsp;(A) if the adopted Territory Budget is a compliant budget, the Oversight Board shallissue a compliance certification for such compliant budget pursuant to subsection (e); and
+&emsp;&emsp;(A) if the adopted Territory Budget is a compliant budget, the Oversight Board shall issue a compliance certification for such compliant budget pursuant to subsection (e); and
 
 &emsp;&emsp;(B) if the adopted Territory Budget is not a compliant budget, the Oversight Board shall provide to the Legislature—
 

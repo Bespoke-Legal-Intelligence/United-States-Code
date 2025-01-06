@@ -112,7 +112,7 @@
 
 #### (3) Repayment from deduction by State
 
-&emsp;If the Secretary requires a State to repay funds as a result of a determination that alocal area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e).<sup>1</sup>
+&emsp;If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e).<sup>1</sup>
 
 #### (4) Deduction by State
 

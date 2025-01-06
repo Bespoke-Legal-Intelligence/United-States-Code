@@ -10,7 +10,7 @@ The Federal Trade Commission may issue rules prohibiting the change of selection
 
 #### (c) Cramming
 
-The Federal Trade Commission may issue rules prohibiting the sale of goods and servicesto an electric consumer unless expressly authorized by law or the electric consumer.
+The Federal Trade Commission may issue rules prohibiting the sale of goods and services to an electric consumer unless expressly authorized by law or the electric consumer.
 
 #### (d) Rulemaking
 

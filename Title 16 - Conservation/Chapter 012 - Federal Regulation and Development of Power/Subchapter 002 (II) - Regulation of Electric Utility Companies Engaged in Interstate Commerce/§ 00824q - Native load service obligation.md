@@ -20,7 +20,7 @@ In this section:
 
 &emsp;(B) by reason of ownership of transmission facilities, or one or more contracts or service agreements for firm transmission service, holds firm transmission rights for delivery of the output of the generation facilities or the purchased energy to meet the service obligation.
 
-(2) Any load-serving entity described in paragraph (1) is entitled to use the firm transmission rights, or, equivalent tradable or financialtransmission rights, in order to deliver the output or purchased energy, or the output of other generating facilities or purchased energy to the extent deliverable using the rights, to the extent required to meet the service obligation of the load-serving entity.
+(2) Any load-serving entity described in paragraph (1) is entitled to use the firm transmission rights, or, equivalent tradable or financial transmission rights, in order to deliver the output or purchased energy, or the output of other generating facilities or purchased energy to the extent deliverable using the rights, to the extent required to meet the service obligation of the load-serving entity.
 
 (3)(A) To the extent that all or a portion of the service obligation covered by the firm transmission rights or equivalent tradable or financial transmission rights is transferred to another load-serving entity, the successor load-serving entity shall be entitled to use the firm transmission rights or equivalent tradable or financial transmission rights associated with the transferred service obligation.
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (c) Allocation of transmission rights
 
-Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the <sup>1</sup> chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
+Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights onits system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the <sup>1</sup> chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
 
 #### (d) Certain transmission rights
 
@@ -74,7 +74,7 @@ An entity that to the extent required to meet its service obligations exercises 
 
 #### FERC Rulemaking on Long-Term Transmission Rights in Organized Markets
 
-Pub. L. 109–58, title XII, §1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: "Within 1 year after the dateof enactment of this section \[Aug. 8, 2005\] and after notice and an opportunity for comment, the \[Federal Energy Regulatory\] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act \[16 U.S.C. 824q(b)(4)\] in Transmission Organizations, as defined by that Act \[16 U.S.C. 791a et seq.\] with organized electricity markets."
+Pub. L. 109–58, title XII, §1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: "Within 1 year after the date of enactment of this section \[Aug. 8, 2005\] and after notice and an opportunity for comment, the \[Federal Energy Regulatory\] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act \[16 U.S.C. 824q(b)(4)\] in Transmission Organizations, as defined by that Act \[16 U.S.C. 791a et seq.\] with organized electricity markets."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

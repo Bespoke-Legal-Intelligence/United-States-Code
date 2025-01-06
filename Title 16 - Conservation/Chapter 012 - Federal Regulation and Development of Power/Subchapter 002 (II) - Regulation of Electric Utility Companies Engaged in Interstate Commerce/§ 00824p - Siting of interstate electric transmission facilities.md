@@ -12,7 +12,7 @@
 
 (3) Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult with any appropriate regional entity referred to in section 824o of this title.
 
-(4) In determining whether to designate a national interest electric transmission corridor under paragraph (2), the Secretary may consider whether—
+(4) In determining whether to designate a national interest electric transmission corridorunder paragraph (2), the Secretary may consider whether—
 
 &emsp;(A) the economic vitality and development of the corridor, or the end markets served by the corridor, may be constrained by lack of adequate or reasonably priced electricity;
 

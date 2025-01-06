@@ -32,3 +32,43 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 In this section, before clause (1), the words "from time to time" are omitted as unnecessary. In clauses (1) and (2), the word "just" is omitted as being included in "reasonable". In clause (1), the word "groups" is omitted as being included in "classifications". The words "transportation provided" are substituted for "services performed" for consistency in the revised title. In clause (2), the word "requirements" is substituted for "rules and regulations pursuant to and consistent with the provisions of this subchapter" as being more appropriate and for consistency in the revised title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Crewmember Pumping Guidance
+
+Pub. L. 118–63, title IV, §421, May 16, 2024, 138 Stat. 1165, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[May 16, 2024\], the Administrator \[of the Federal Aviation Administration\] shall issue guidance to part 121 air carriers relating to the expression of milk by crewmembers on an aircraft during noncritical phases of flight, consistent with the performance of the crewmember's duties aboard the aircraft. The guidance shall be equally applicable to any lactating crewmember. In developing the guidance, the Administrator shall—
+
+&emsp;"(1) consider multiple methods of expressing breast milk that could be used by crewmembers, including the use of wearable lactation technology; and
+
+&emsp;"(2) ensure the guidance will not require an air carrier or foreign air carrier to incur significant expense, such as through—
+
+&emsp;&emsp;"(A) the addition of an extra crewmember in response to providing a break;
+
+&emsp;&emsp;"(B) removal or retrofitting of seats on the aircraft; or
+
+&emsp;&emsp;"(C) modification or retrofitting of an aircraft.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Crewmember.—The term 'crewmember' has the meaning given such term in section 1.1 of title 14, Code of Federal Regulations.
+
+&emsp;"(2)
+
+Critical phases of flight.—The term 'critical phases of flight' has the meaning given such term in section 121.542 of title 14, Code of Federal Regulations.
+
+&emsp;"(3)
+
+Part 121.—The term 'part 121' means part 121 of title 14, Code of Federal Regulations.
+
+"(c)
+
+Aviation Safety.—Nothing in this section shall limit the authority of the Administrator relating to aviation safety under subtitle VII of title 49, United States Code."
+

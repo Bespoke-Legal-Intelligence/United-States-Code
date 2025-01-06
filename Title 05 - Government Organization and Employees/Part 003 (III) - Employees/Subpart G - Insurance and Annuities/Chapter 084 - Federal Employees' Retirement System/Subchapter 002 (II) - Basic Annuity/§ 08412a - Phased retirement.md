@@ -20,7 +20,7 @@
 
 &emsp;(7) the term "phased retirement period" means the period beginning on the date on which an individual becomes entitled to receive a phased retirement annuity and ending on the date on which the individual dies or separates from phased employment;
 
-&emsp;(8) the term "phased retirement status" means that a phased retiree is concurrently employed in phased employment and eligible to receive a phased retirement annuity;
+&emsp;(8) the term "phased retirement status" means that a phased retiree is concurrentlyemployed in phased employment and eligible to receive a phased retirement annuity;
 
 &emsp;(9) the term "retirement-eligible employee"—
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(ii) the working percentage.
 
-(2) After computing a composite retirement annuity under paragraph (1), the Director shalladjust the amount of the annuity for any applicable reductions for a survivor annuity.
+(2) After computing a composite retirement annuity under paragraph (1), the Director shall adjust the amount of the annuity for any applicable reductions for a survivor annuity.
 
 (3) A composite retirement annuity shall be adjusted in accordance with section 8462, except that subsection (c)(1) of that section shall not apply.
 

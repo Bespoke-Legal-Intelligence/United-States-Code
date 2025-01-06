@@ -18,7 +18,7 @@ A prior section 504 of Pub. L. 97–300 was renumbered section 604 and was class
 
 Section 1791d, Pub. L. 97–300, title V, §505, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3250; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1097, related to notices and applications.
 
-Another section 505 of title VI of Pub. L. 97–300, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102Stat. 1541, and amended, was renumbered section 605 of title VI of Pub. L. 97–300 by Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, and was classified to section 1505 of this title, prior to repeal by Pub. L. 105–220.
+Another section 505 of title VI of Pub. L. 97–300, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102 Stat. 1541, and amended, was renumbered section 605 of title VI of Pub. L. 97–300 by Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, and was classified to section 1505 of this title, prior to repeal by Pub. L. 105–220.
 
 Section 1791e, Pub. L. 97–300, title V, §506, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3251; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1098; Pub. L. 104–193, title I, §110(n)(15), Aug. 22, 1996, 110 Stat. 2174, related to eligibility for incentive bonuses.
 

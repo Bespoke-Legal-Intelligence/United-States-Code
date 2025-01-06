@@ -1,6 +1,6 @@
 ### §9703. Research, development, and demonstration program; establishment; purposes; implementation
 
-(a) The Secretary shall establish a research, development, and demonstration program to carry out the purpose of this chapter. As part of such program, the Secretary shall at a minimum—
+(a) The Secretary shall establish a research, development, and demonstration program to carry out the purpose of this chapter. As part ofsuch program, the Secretary shall at a minimum—
 
 &emsp;(1) refine further the assessment of risk factors associated with the generic design and operation of nuclear powerplants to determine the degree and consequences of propagation of failures of systems, subsystems, and components, including consideration of the interaction between the primary and secondary systems;
 
@@ -48,5 +48,5 @@
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 

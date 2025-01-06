@@ -2,7 +2,7 @@
 
 #### (a) Acquisitions or transfers of certain agricultural land interests by foreign persons
 
-Any foreign person who acquires or transfers any interest, other than a security interest, in agricultural land shall submit a report to the Secretary of Agriculture not later than 90 days after the date of such acquisition or transfer. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain—
+Any foreign person who acquires or transfers any interest, other than a security interest, inagricultural land shall submit a report to the Secretary of Agriculture not later than 90 days after the date of such acquisition or transfer. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain—
 
 &emsp;(1) the legal name and the address of such foreign person;
 
@@ -70,7 +70,7 @@ With respect to any foreign person, other than an individual or a government, wh
 
 #### (f) Persons holding interests under subsection (e)
 
-With respect to any person, other than an individual or a government, whose legal name is contained in any report submitted under subsection (e) of the section, the Secretary may require such person to submit to the Secretary a report containing—
+With respect to any person, other than an individual or a government, whose legal name iscontained in any report submitted under subsection (e) of the section, the Secretary may require such person to submit to the Secretary a report containing—
 
 &emsp;(A) the legal name and the address of any person who holds any interest in the person submitting the report under this subsection;
 
@@ -102,7 +102,11 @@ Pub. L. 95–460, §1, Oct. 14, 1978, 92 Stat. 1263, provided that: "This Act \[
 
 #### Report to Congress on Foreign Investments in Agricultural Land in the United States
 
-Pub. L. 117–328, div. A, title VII, §773, Dec. 29, 2022, 136 Stat. 4509, provided in part: "The Secretary, as part of the report on foreign landholding required under the Agricultural Foreign Investment Disclosure Act (Public Law 95–460), shall report to Congress on foreign investments in agricultural land in the United States, including the impact foreign ownership has on family farms, rural communities, and the domestic food supply: <i>Provided</i>, That within 3 years after the enactment of this Act \[Dec. 29, 2022\], the Secretary shall establish a streamlined process for electronic submission and retention of disclosures made under the Agricultural Foreign Investment Disclosure Act \[of 1978, 7 U.S.C. 3501 et seq.\], including an internet database that contains disaggregated data from each disclosure submitted: <i>Provided further</i>, That all prior year disclosures of foreign investments in agricultural land in the United States are published in the database: <i>Provided further</i>, That the plan includes a process to ensure the protection of personally identifiable information and that all disclosures of foreign investments in agricultural land on the USDA website be disaggregated by: (1) in any case in which such foreign person is an individual, the citizenship of such foreign person; and (2) in any case in which such foreign person is not an individual or a government, the nature of the legal entity holding theinterest, the country in which such foreign person is created or organized, and the principal place of business of such foreign person."
+Pub. L. 118–42, div. B, title VII, §742, Mar. 9, 2024, 138 Stat. 111, provided that: "The Secretary, as part of the report on foreign landholding required under the Agricultural Foreign Investment Disclosure Act (Public Law 95–460), shall report to Congress on foreign investments in agricultural land in the United States, including the impact foreign ownership has on family farms, rural communities, and the domestic food supply: <i>Provided</i>, That within 2 years after the enactment of this Act \[Mar. 9, 2024\], the Secretary shall establish a streamlined process for electronic submission and retention of disclosures made under the Agricultural Foreign Investment Disclosure Act \[of 1978, 7 U.S.C. 3501 et seq.\], including an internet database that contains disaggregated data from each disclosure submitted: <i>Provided further</i>, That all prior year disclosures of foreign investments in agricultural land in the United States are published in the database: <i>Provided further</i>, That the plan includes a process to ensure the protection of personally identifiable information and that all disclosures of foreign investments in agricultural land on the USDA website be disaggregated by: (1) in any case in which such foreign person is an individual, the citizenship of such foreign person; and (2) in any case in which such foreign person is not an individual or a government, the nature of the legal entity holding the interest, the country in which such foreign person is created or organized, and the principal place of business of such foreign person."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. A, title VII, §773, Dec. 29, 2022, 136 Stat. 4509.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "principal".</i>
 

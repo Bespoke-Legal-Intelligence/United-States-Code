@@ -90,9 +90,9 @@
 
 &emsp;&emsp;&emsp;(ii) for each item described in subparagraph (I) for which the President recommends maintaining a strategic reserve under clause (i), an identification of mechanisms for tracking inventory and availability of the item in the strategic reserve;
 
-&emsp;&emsp;(L) identify mechanisms in existence on January 1, 2021 and mechanisms that can be developed to ensure that the swift transport and delivery of the items described in subparagraph (I) is feasible in the event of a distribution network disturbance or degradation, including a distribution network disturbance or degradation caused by a significant event;
+&emsp;&emsp;(L) identify mechanisms in existence on January 1, 2021 and mechanisms that can bedeveloped to ensure that the swift transport and delivery of the items described in subparagraph (I) is feasible in the event of a distribution network disturbance or degradation, including a distribution network disturbance or degradation caused by a significant event;
 
-&emsp;&emsp;(M) include guidance for determining the prioritization for the distribution of theitems described in subparagraph (I), including distribution to States and Indian Tribes;
+&emsp;&emsp;(M) include guidance for determining the prioritization for the distribution of the items described in subparagraph (I), including distribution to States and Indian Tribes;
 
 &emsp;&emsp;(N) consider the advisability and feasibility of mechanisms for extending the credit of the United States or providing other financial support authorized by law to key participants in the economy of the United States if the extension or provision of other financial support—
 

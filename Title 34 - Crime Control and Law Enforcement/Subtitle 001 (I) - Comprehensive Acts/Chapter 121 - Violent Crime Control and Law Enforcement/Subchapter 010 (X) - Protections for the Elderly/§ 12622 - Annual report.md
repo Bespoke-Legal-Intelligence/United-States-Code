@@ -14,7 +14,7 @@ Not later than 2 years after March 23, 2018, and every year thereafter, the Atto
 
 &emsp;(4) the companies, including the location (city and State) of the headquarters and local offices of each company, for which their locative tracking technology was used by State, local, and tribal law enforcement or public safety agencies;
 
-&emsp;(5) the nonprofit organizations, including the location (city and State) of the headquarters and local offices of each organization, that State, local, and tribal law enforcement or public safety agencies partnered with and the result of each partnership;
+&emsp;(5) the nonprofit organizations, including the location (city and State) of the headquarters and local offices of each organization, that State, local, and tribal law enforcementor public safety agencies partnered with and the result of each partnership;
 
 &emsp;(6) the number of missing children with autism or another developmental disability with wandering tendencies or adults with Alzheimer's being served by the program who went missing and the result of the search for each such individual; and
 

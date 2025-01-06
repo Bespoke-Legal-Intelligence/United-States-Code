@@ -16,7 +16,7 @@
 
 #### (2) Exception
 
-&emsp;Clerical errors or mistakes of fact are not violations of paragraph (1) unless they are part of a pattern of negligent conduct. The mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.
+&emsp;Clerical errors or mistakes of fact are not violations of paragraph (1) unless they are partof a pattern of negligent conduct. The mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.
 
 #### (b) Procedures
 
@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the CustomsService shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -84,7 +84,7 @@
 
 #### (B) Condition affecting penalty limitations
 
-&emsp;&emsp;The limitations in subparagraph (A) on the amount of the monetary penalty to be assessed under this subsection apply only if the person concerned tenders the amount of the overpayment made on the claim at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide), after notice by the Customs Service of its calculation of the amount of the overpayment.
+&emsp;&emsp;The limitations in subparagraph (A) on the amount of the monetary penalty to be assessed under this subsection apply only if the person concerned tenders the amount of the overpayment made on the claim at the time of disclosure, or within 30 days (or suchlonger period as the Customs Service may provide), after notice by the Customs Service of its calculation of the amount of the overpayment.
 
 #### (C) Burden of proof
 

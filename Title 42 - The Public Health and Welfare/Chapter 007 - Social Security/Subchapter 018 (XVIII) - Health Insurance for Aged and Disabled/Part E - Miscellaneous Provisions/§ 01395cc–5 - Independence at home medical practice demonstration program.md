@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The term "independence at home medical practice" means a legal entity that—
 
-&emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and social services staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours per day, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
+&emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and socialservices staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours per day, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
 
 &emsp;&emsp;&emsp;(ii) is organized at least in part for the purpose of providing physicians' services;
 
@@ -66,7 +66,7 @@
 
 #### (3) Inclusion of providers and practitioners
 
-&emsp;Nothing in this subsection shall be construed as preventing an independence at home medical practice from including a provider of services or a participating practitioner described in section 1395u(b)(18)(C) of this title that is affiliated with the practice under anarrangement structured so that such provider of services or practitioner participates in the demonstration program and shares in any savings under the demonstration program.
+&emsp;Nothing in this subsection shall be construed as preventing an independence at home medical practice from including a provider of services or a participating practitioner described in section 1395u(b)(18)(C) of this title that is affiliated with the practice under an arrangement structured so that such provider of services or practitioner participates in the demonstration program and shares in any savings under the demonstration program.
 
 #### (4) Quality and performance standards
 
@@ -136,7 +136,7 @@
 
 #### (5) Limitation on number of practices
 
-&emsp;In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shall limit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 20,000. An applicable beneficiarythat participates in the demonstration program by reason of the increase from 10,000 to 15,000 in the preceding sentence pursuant to the amendment made by section 50301(a)(1)(B)(i) of the Advancing Chronic Care, Extenders, and Social Services Act shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the sixth through tenth years of such program. An applicable beneficiary that participates in the demonstration program by reason of the increase from 15,000 to 20,000 in the first sentence of this paragraph pursuant to the amendment made by section 105 of division CC of the Consolidated Appropriations Act, 2021 shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the eighth through tenth years of such program.
+&emsp;In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shall limit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 20,000. An applicable beneficiary that participates in the demonstration program by reason of the increase from 10,000 to 15,000 in the preceding sentence pursuant to the amendment made by section 50301(a)(1)(B)(i) of the Advancing Chronic Care, Extenders, and Social Services Act shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the sixth through tenth years of such program. An applicable beneficiary that participates in the demonstration program by reason of the increase from 15,000 to 20,000 in the first sentence of this paragraph pursuant to the amendment made by section 105 of division CC of the Consolidated Appropriations Act, 2021 shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the eighth through tenth years of such program.
 
 #### (6) Waiver
 
@@ -162,7 +162,7 @@ The Secretary shall conduct an independent evaluation of the demonstration progr
 
 #### (h) Funding
 
-For purposes of administering and carrying out the demonstration program, other than for payments for items and services furnished under this subchapter and incentive payments under subsection (c), in addition to funds otherwise appropriated, there shall be transferred to the Secretary for the Center for Medicare \& Medicaid Services Program Management Account from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in proportions determined appropriate by the Secretary) $5,000,000 for each of fiscal years 2010 through 2015 and $9,000,000 for fiscal year 2021. Amounts transferred under this subsection for a fiscal year shall be available until expended.
+For purposes of administering and carrying out the demonstration program, other than for payments for items and services furnished under this subchapter and incentive payments under subsection (c), in addition to funds otherwise appropriated, there shall be transferred to the Secretary for the Center for Medicare \& Medicaid Services Program Management Account fromthe Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in proportions determined appropriate by the Secretary) $5,000,000 for each of fiscal years 2010 through 2015 and $9,000,000 for fiscal year 2021. Amounts transferred under this subsection for a fiscal year shall be available until expended.
 
 #### (i) Termination
 

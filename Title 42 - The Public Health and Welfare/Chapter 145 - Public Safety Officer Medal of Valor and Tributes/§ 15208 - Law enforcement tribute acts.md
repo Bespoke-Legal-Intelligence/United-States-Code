@@ -8,7 +8,7 @@ This section may be cited as the "Law Enforcement Tribute Act".
 
 Congress finds the following:
 
-&emsp;(1) The well-being of all citizens of the United States is preserved and enhanced as a direct result of the vigilance and dedication of law enforcement and public safety personnel.
+&emsp;(1) The well-being of all citizens of the United States is preserved and enhanced as adirect result of the vigilance and dedication of law enforcement and public safety personnel.
 
 &emsp;(2) More than 700,000 law enforcement officers, both men and women, at great risk to their personal safety, serve their fellow citizens as guardians of peace.
 

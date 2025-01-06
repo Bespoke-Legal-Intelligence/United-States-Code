@@ -1,6 +1,6 @@
 ### §3507. Public information collection activities; submission to Director; approval and delegation
 
-(a) An agency shall not conduct or sponsor the collection of information unless in advance ofthe adoption or revision of the collection of information—
+(a) An agency shall not conduct or sponsor the collection of information unless in advance of the adoption or revision of the collection of information—
 
 &emsp;(1) the agency has—
 
@@ -48,7 +48,7 @@
 
 (d)(1) For any proposed collection of information contained in a proposed rule—
 
-&emsp;(A) as soon as practicable, but no later than the date of publication of a notice of proposed rulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information and any information requested by the Director necessary to make the determination required under this subsection; and
+&emsp;(A) as soon as practicable, but no later than the date of publication of a notice of proposedrulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information and any information requested by the Director necessary to make the determination required under this subsection; and
 
 &emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
 
@@ -108,7 +108,7 @@
 
 &emsp;(A) publish an explanation thereof in the Federal Register; and
 
-&emsp;(B) instruct the agency to undertake a rulemaking within a reasonable time limited to consideration of changes to the collection of information contained in the rule and thereafter to submit the collection of information for approval or disapproval under this subchapter.
+&emsp;(B) instruct the agency to undertake a rulemaking within a reasonable time limited to consideration of changes to the collection of information contained in the rule and thereafter to submit the collection of informationfor approval or disapproval under this subchapter.
 
 (3) An agency may not make a substantive or material modification to a collection of information after such collection has been approved by the Director, unless the modification has been submitted to the Director for review and approval under this subchapter.
 
@@ -140,7 +140,7 @@
 
 #### Prior Provisions
 
-A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m)\[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior official of an agency prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior official of an agency prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, provided for cooperation of agencies in making information available, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3510(a) of this title.
 

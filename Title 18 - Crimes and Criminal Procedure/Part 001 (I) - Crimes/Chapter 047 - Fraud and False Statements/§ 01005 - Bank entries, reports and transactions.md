@@ -6,7 +6,7 @@ Whoever, without such authority, makes, draws, issues, puts forth, or assigns an
 
 Whoever makes any false entry in any book, report, or statement of such bank, company, branch, agency, or organization with intent to injure or defraud such bank, company, branch, agency, or organization, or any other company, body politic or corporate, or any individual person, or to deceive any officer of such bank, company, branch, agency, or organization, or the Comptroller of the Currency, or the Federal Deposit Insurance Corporation, or any agent or examiner appointed to examine the affairs of such bank, company, branch, agency, or organization, or the Board of Governors of the Federal Reserve System; or
 
-Whoever with intent to defraud the United States or any agency thereof, or any financialinstitution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—
+Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—
 
 Shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
@@ -48,7 +48,7 @@ Pub. L. 101–647, §2597(h)(3)(A), in sixth par. struck out "and" after "one of
 
 Pub. L. 101–647, §2597(h)(3)(B), which, in sixth par., directed insertion of "; and the term 'branch or agency of a foreign bank' means a branch or agency described in section 20(9) of this title" before the period, was inserted before period at end of first sentence to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §2595(a)(3)(C). See below.
 
-Pub. L. 101–647, §2595(a)(3)(C), inserted "For purposes of this section, the term 'depository institution holding company' has the meaning given such term in section 3(w)(1) of the Federal Deposit Insurance Act." at end of sixth par.
+Pub. L. 101–647, §2595(a)(3)(C), inserted "For purposes of this section, the term 'depository institution holding company' has the meaning given such term in section3(w)(1) of the Federal Deposit Insurance Act." at end of sixth par.
 
 <b>1989</b>—Pub. L. 101–73 in first par. inserted "bank or savings and loan holding company," after "member bank,", in third par. inserted "or company" after "bank" wherever appearing and substituted a semicolon for the dash after "Federal Reserve System", added fourth par. reading: "Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—", and, in fifth par. substituted "$1,000,000" for "$5,000" and "20 years" for "five years".
 

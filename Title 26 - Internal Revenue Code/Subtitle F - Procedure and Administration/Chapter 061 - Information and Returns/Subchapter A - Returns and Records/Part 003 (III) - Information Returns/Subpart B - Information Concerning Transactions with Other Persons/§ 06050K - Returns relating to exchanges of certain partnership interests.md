@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in regulations prescribed by the Secretary, if there is an exchange described in section 751(a) of any interest in apartnership during any calendar year, such partnership shall make a return for such calendar year stating—
+Except as provided in regulations prescribed by the Secretary, if there is an exchange described in section 751(a) of any interest in a partnership during any calendar year, such partnership shall make a return for such calendar year stating—
 
 &emsp;(1) the name and address of the transferee and transferor in such exchange, and
 

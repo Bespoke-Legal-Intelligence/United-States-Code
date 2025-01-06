@@ -16,7 +16,7 @@ Requirement for Determination and Notification.—A major weapon system of the D
 
 Treatment of Subsystems as Commercial Products.—(1) A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 104 of title 41) shall be treated as a commercial product and purchased under procedures established for the procurement of commercial products if either—
 
-&emsp;(A) the subsystem is intended for a major weapon system that is being purchased, or hasbeen purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
+&emsp;(A) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures establishedfor the procurement of commercial products in accordance with the requirements of subsection (a); or
 
 &emsp;(B) the contracting officer determines in writing that the subsystem is a commercial product.
 

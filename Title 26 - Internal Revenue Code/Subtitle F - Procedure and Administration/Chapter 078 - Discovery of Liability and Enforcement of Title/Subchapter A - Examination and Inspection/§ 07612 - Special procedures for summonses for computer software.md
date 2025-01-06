@@ -30,7 +30,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
 
-&emsp;&emsp;(B) any tax-related computer software source code acquired or developed by thetaxpayer or a related person primarily for internal use by the taxpayer or such person rather than for commercial distribution;
+&emsp;&emsp;(B) any tax-related computer software source code acquired or developed by the taxpayer or a related person primarily for internal use by the taxpayer or such person rather than for commercial distribution;
 
 &emsp;&emsp;(C) any communications between the owner of the tax-related computer software source code and the taxpayer or related persons; or
 

@@ -38,7 +38,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 #### (1) In general
 
-&emsp;The Director of the Foundation shall award grants on a competitive, merit-reviewed basis, to eligible entities to increase the participation of underrepresented populations in STEM fields, including individuals identified in section 1885a or section 1885b of this title.
+&emsp;The Director of the Foundation shall award grants on a competitive, merit-reviewed basis,to eligible entities to increase the participation of underrepresented populations in STEM fields, including individuals identified in section 1885a or section 1885b of this title.
 
 #### (2) Center of excellence
 
@@ -60,7 +60,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 &emsp;&emsp;(C) the role of other facets of the learning environment on the willingness of female students in prekindergarten through elementary school to participate in STEM activities, including learning materials and textbooks, seating arrangements, use of media and technology, classroom culture, and composition of students during group work;
 
-&emsp;&emsp;(D) the role of parents and other caregivers in encouraging or discouraging femalestudents in prekindergarten through elementary school from participating in STEM activities;
+&emsp;&emsp;(D) the role of parents and other caregivers in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
 
 &emsp;&emsp;(E) the types of STEM activities that encourage greater participation by female students in prekindergarten through elementary school;
 
@@ -104,7 +104,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 &emsp;&emsp;&emsp;(i) the reform effort that is being proposed for implementation by the institution of higher education;
 
-&emsp;&emsp;&emsp;(ii) any available evidence of specific difficulties in the recruitment, retention, and advancement of faculty members from underrepresented minority groups in STEM academic careers within the institution of higher education submitting an application, and how the proposed reform effort would address such issues;
+&emsp;&emsp;&emsp;(ii) any available evidence of specific difficulties in the recruitment, retention, and advancement of faculty members fromunderrepresented minority groups in STEM academic careers within the institution of higher education submitting an application, and how the proposed reform effort would address such issues;
 
 &emsp;&emsp;&emsp;(iii) support for the proposed reform effort by administrators of the institution, which may include details on previous or ongoing reform efforts;
 
@@ -184,7 +184,7 @@ The Director of the Foundation shall continue to support programs designed to br
 
 #### (A) In general
 
-&emsp;&emsp;All awards made under this subsection shall include an education research component that will support the design and implementation of a system for data collection and evaluation of proposed reform efforts inorder to build the knowledge base on promising models for increasing recruitment and retention of students from underrepresented minority groups in STEM education at the undergraduate level across a diverse set of institutions.
+&emsp;&emsp;All awards made under this subsection shall include an education research component that will support the design and implementation of a system for data collection and evaluation of proposed reform efforts in order to build the knowledge base on promising models for increasing recruitment and retention of students from underrepresented minority groups in STEM education at the undergraduate level across a diverse set of institutions.
 
 #### (B) Dissemination
 

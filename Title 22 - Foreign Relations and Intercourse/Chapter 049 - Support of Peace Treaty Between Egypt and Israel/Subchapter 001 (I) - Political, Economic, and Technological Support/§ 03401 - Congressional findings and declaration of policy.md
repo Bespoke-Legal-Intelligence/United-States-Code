@@ -44,5 +44,5 @@ Pub. L. 96–533, title VII, §711, Dec. 16, 1980, 94 Stat. 3160, provided:
 
 #### Egyptian-Israeli Cultural, Scientific, and Economic Relations
 
-Pub. L. 96–60, title IV, §403, Aug. 15, 1979, 93 Stat. 403, provided that: "It is the sense of the Congress that itshould be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel."
+Pub. L. 96–60, title IV, §403, Aug. 15, 1979, 93 Stat. 403, provided that: "It is the sense of the Congress that it should be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel."
 

@@ -86,7 +86,7 @@ Second, third, or fourth year of option.—
 
 &emsp;&emsp;(I)
 
-Special assistance payment.—For each month of the second, third, or fourthschool year of the 4-year period during which a school or local educational agency elects to receive payments under this subparagraph, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
+Special assistance payment.—For each month of the second, third, or fourth school year of the 4-year period during which a school or local educational agency elects to receive payments under this subparagraph, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
 
 &emsp;&emsp;&emsp;(aa) the multiplier described in clause (vii); by
 
@@ -180,7 +180,7 @@ State agency notification.—Not later than May 1 of each school year beginning 
 
 &emsp;&emsp;&emsp;(bb) each local educational agency that receives special assistance payments under clause (iii) of the blended reimbursement rate the local educational agency would receive under clause (iv);
 
-&emsp;&emsp;&emsp;(cc) each local educational agency in the fourth year of electing to receive special assistance payments under this subparagraph that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) and that receives special assistance paymentsunder clause (iv), that the local educational agency may continue to receive such payments for the next school year, of the blended reimbursement rate the local educational agency would receive under clause (v), and of the procedures for the local educational agency to make the election; and
+&emsp;&emsp;&emsp;(cc) each local educational agency in the fourth year of electing to receive special assistance payments under this subparagraph that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) and that receives special assistance payments under clause (iv), that the local educational agency may continue to receive such payments for the next school year, of the blended reimbursement rate the local educational agency would receive under clause (v), and of the procedures for the local educational agency to make the election; and
 
 &emsp;&emsp;&emsp;(dd) each local educational agency that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) that the local educational agency may be eligible to elect to receive special assistance payments under clause (iii) if the threshold described in clause (viii) is met by April 1 of the school year or if the threshold is met for a subsequent school year.
 
@@ -240,7 +240,7 @@ Report.—Not later than December 31, 2013, the Secretary shall publish a report
 
 &emsp;&emsp;&emsp;(cc) an estimate of the number and share of schools and local educational agencies in which more than 80 percent of students are certified for free or reduced price meals that elect to receive special assistance payments under that clause; and
 
-&emsp;&emsp;&emsp;(dd) whether any of the schools or local educational agencies stopped electing to receive special assistance payments under this subparagraph;
+&emsp;&emsp;&emsp;(dd) whether any of the schools or local educational agencies stopped electing toreceive special assistance payments under this subparagraph;
 
 &emsp;&emsp;(IV) the impact of electing to receive special assistance payments under this subparagraph on—
 
@@ -398,7 +398,7 @@ Commodity only schools shall also be eligible for special assistance payments un
 
 &emsp;&emsp;&emsp;&emsp;(IV) such other matters as the Secretary determines to be appropriate.
 
-(June 4, 1946, ch. 281, §11, as added Pub. L. 87–823, §6, Oct. 15, 1962, 76 Stat. 946; amended Pub. L. 91–248, §7, May 14, 1970, 84 Stat. 211; Pub. L. 92–153, §4, Nov. 5, 1971, 85 Stat. 420; Pub. L. 93–150, §3(a), Nov. 7, 1973, 87 Stat. 561; Pub. L. 94–105, §8, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §9, Nov. 10, 1977, 91 Stat. 1336; Pub. L. 95–627, §§4, 5(c), Nov. 10, 1978, 92 Stat. 3619, 3620; Pub. L. 96–499, title II, §204(a), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§801(b), 812, 813(b), 819(a), Aug. 13, 1981, 95 Stat. 522, 530, 533; Pub. L. 101–147, title II, §203, title III, §312(2), (3), Nov. 10, 1989, 103 Stat. 909, 916; Pub. L. 103–448, title I, §111, Nov. 2, 1994, 108 Stat. 4706; Pub. L. 104–193, title VII, §704(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2289, 2290; Pub. L. 105–336, title I, §103(a), (b)(1), (c)(1), Oct. 31, 1998, 112 Stat. 3145, 3146; Pub. L. 107–76, title VII, §766, Nov. 28, 2001, 115 Stat. 744; Pub. L. 108–265, title I, §§104(d)(3), 113, June 30, 2004, 118 Stat. 738, 747; Pub. L. 111–296, title I, §104, title IV, §441(a)(2), (3), Dec. 13, 2010, 124 Stat. 3193, 3261.)
+(June 4, 1946, ch. 281, §11, as added Pub. L. 87–823, §6, Oct. 15, 1962, 76 Stat. 946; amended Pub. L. 91–248, §7, May 14, 1970, 84 Stat. 211; Pub. L. 92–153, §4, Nov. 5, 1971, 85 Stat. 420; Pub. L. 93–150, §3(a), Nov. 7, 1973, 87 Stat. 561; Pub. L. 94–105, §8, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §9, Nov. 10, 1977, 91 Stat. 1336; Pub. L. 95–627, §§4, 5(c), Nov. 10, 1978, 92 Stat. 3619, 3620; Pub. L. 96–499, title II, §204(a), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§801(b), 812, 813(b), 819(a), Aug. 13, 1981, 95 Stat. 522, 530, 533; Pub. L. 101–147, title II, §203, title III, §312(2), (3), Nov. 10, 1989, 103 Stat. 909, 916; Pub. L. 103–448, title I, §111, Nov. 2, 1994, 108 Stat. 4706; Pub. L. 104–193, title VII, §704(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2289, 2290; Pub. L. 105–336, title I, §103(a), (b)(1), (c)(1), Oct. 31, 1998, 112 Stat. 3145, 3146;Pub. L. 107–76, title VII, §766, Nov. 28, 2001, 115 Stat. 744; Pub. L. 108–265, title I, §§104(d)(3), 113, June 30, 2004, 118 Stat. 738, 747; Pub. L. 111–296, title I, §104, title IV, §441(a)(2), (3), Dec. 13, 2010, 124 Stat. 3193, 3261.)
 
 #### <b>Editorial Notes</b>
 
@@ -406,7 +406,7 @@ Commodity only schools shall also be eligible for special assistance payments un
 
 The Child Nutrition Act of 1966, referred to in subsecs. (a)(1)(C)(i)(II), (E)(i)(II), (F)(ii)(I)(bb), (3)(B)(i), and (g)(2)(B)(i)(II), (C)(v)(I), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of that Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-Those Acts, referred to in subsec. (g)(2)(C)(v)(I) to (III), mean the Richard B. Russell National School Lunch Act, which was in the original "this Act" andwas translated to read "this chapter", and the Child Nutrition Act of 1966. See above.
+Those Acts, referred to in subsec. (g)(2)(C)(v)(I) to (III), mean the Richard B. Russell National School Lunch Act, which was in the original "this Act" and was translated to read "this chapter", and the Child Nutrition Act of 1966. See above.
 
 #### Amendments
 
@@ -468,7 +468,7 @@ Subsec. (f). Pub. L. 101–147, §312(3), substituted "special assistance" for "
 
 Pub. L. 101–147, §312(2), which directed substitution of "reduced price" for "reduced-price", could not be executed because the word "reduced-price" did not appear.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §801(b), redesignated existing provisions as par. (1), substituted "(A)" for "(1)" and "(B)" for "(2)", and struck out provisions relating to special assistance factors, adjustments, etc.,for funds for the fiscal year beginning July 1, 1973, and after, and added pars. (2) and (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §801(b), redesignated existing provisions as par. (1), substituted "(A)" for "(1)" and "(B)" for "(2)", and struck out provisions relating to special assistance factors, adjustments, etc., for funds for the fiscal year beginning July 1, 1973, and after, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 97–35, §819(a)(1), struck out "financing the cost of" before "providing free".
 
@@ -518,7 +518,7 @@ Subsec. (h). Pub. L. 91–248 added subsec. (h).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -530,7 +530,7 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–193, title VII, §704(b)(2), Aug. 22, 1996, 110 Stat. 2290, provided that: "The amendment made byparagraph (1) \[amending this section\] shall become effective on July 1, 1997."
+Pub. L. 104–193, title VII, §704(b)(2), Aug. 22, 1996, 110 Stat. 2290, provided that: "The amendment made by paragraph (1) \[amending this section\] shall become effective on July 1, 1997."
 
 #### Effective Date of 1994 Amendment
 

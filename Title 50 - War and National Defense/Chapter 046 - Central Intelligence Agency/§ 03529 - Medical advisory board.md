@@ -88,7 +88,7 @@ The Board shall—
 
 #### (A) Compensation
 
-&emsp;&emsp;Except as provided in subparagraph (B), each member of the Board, including the Chairperson, may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5 for each day during which that member is engaged in the actual performance of the duties under subsection (b).
+&emsp;&emsp;Except as provided in subparagraph (B), each member of the Board, including the Chairperson, may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position atlevel IV of the Executive Schedule under section 5315 of title 5 for each day during which that member is engaged in the actual performance of the duties under subsection (b).
 
 #### (B) Exception for Federal employees
 

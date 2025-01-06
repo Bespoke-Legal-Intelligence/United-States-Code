@@ -38,7 +38,7 @@ Not later than 72 hours after any transaction by the Secretary under paragraph (
 
 #### (B) Publication
 
-&emsp;&emsp;Not later than 7 days after the date on which the Secretary submits a report undersubparagraph (A) to the committees of Congress described in such subparagraph, the Secretary shall publish such report on the website of the Department of the Treasury.
+&emsp;&emsp;Not later than 7 days after the date on which the Secretary submits a report under subparagraph (A) to the committees of Congress described in such subparagraph, the Secretary shall publish such report on the website of the Department of the Treasury.
 
 #### (C) 30-day reports
 
@@ -90,5 +90,5 @@ This Act, referred to in subsec. (c), probably means subtitle A (§§4001–4029
 
 #### Amendments
 
-<b>2022</b>—Subsec. (c). Pub. L. 117–103 substituted "semiannual" for "quarterly" and inserted at end: "This subsection shall have no force or effect after December 31, 2027."
+<b>2022</b>—Subsec. (c). Pub. L. 117–103 substituted "semiannual" for "quarterly" and inserted at end "This subsection shall have no force or effect after December 31, 2027."
 

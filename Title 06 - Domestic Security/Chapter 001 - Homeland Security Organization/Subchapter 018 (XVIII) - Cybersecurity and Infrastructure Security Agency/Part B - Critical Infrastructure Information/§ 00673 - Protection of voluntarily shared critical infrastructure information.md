@@ -92,7 +92,7 @@ The President may delegate authority to a critical infrastructure protection pro
 
 #### References in Text
 
-The Critical Infrastructure Information Act of 2002, referred to in subsec. (a)(2)(A), is subtitle B (§2221 etseq.) of title XXII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2150, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Critical Infrastructure Information Act of 2002, referred to in subsec. (a)(2)(A), is subtitle B (§2221 et seq.) of title XXII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2150, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Codification
 

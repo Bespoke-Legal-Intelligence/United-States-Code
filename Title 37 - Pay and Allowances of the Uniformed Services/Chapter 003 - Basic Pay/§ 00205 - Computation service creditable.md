@@ -192,7 +192,7 @@ Effective date.—Paragraph (1) shall apply beginning on the date on which an en
 
 #### Transition Provision
 
-Subsec. (f) of this section applicable to certain enlisted members of the Marine Corps Reserve selected for training as an officer candidate under section 12209 of Title 10, Armed Forces, before implementation of a financial assistance program under section 16401 of Title 10, see section 551(d) of Pub. L. 106–65, set out as a note under section 16401 of Title 10.
+Subsec. (f) of this section applicable to certain enlisted members of the Marine Corps Reserve selected for training as an officer candidate under section 12209 of Title 10, Armed Forces, before implementation of a financial assistance program under section 16401 ofTitle 10, see section 551(d) of Pub. L. 106–65, set out as a note under section 16401 of Title 10.
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 

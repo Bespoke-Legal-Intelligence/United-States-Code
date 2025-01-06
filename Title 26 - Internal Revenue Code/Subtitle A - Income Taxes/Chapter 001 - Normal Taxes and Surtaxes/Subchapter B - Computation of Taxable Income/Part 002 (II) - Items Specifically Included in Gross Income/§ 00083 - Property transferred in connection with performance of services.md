@@ -164,7 +164,7 @@ In the case of a transfer of property to which this section applies or a cancell
 
 &emsp;&emsp;&emsp;&emsp;(I) except as provided in subclauses (II) and (III), the determination of rights and privileges with respect to stock shall be made in a similar manner as under section 423(b)(5),
 
-&emsp;&emsp;&emsp;&emsp;(II) employees shall not fail to be treated as having the same rights and privileges to receive qualified stock solely because the number of shares available to all employees is not equal in amount, so long as the number of shares available to each employee is more than a de minimis amount, and
+&emsp;&emsp;&emsp;&emsp;(II) employees shall not fail to be treated as having the same rights andprivileges to receive qualified stock solely because the number of shares available to all employees is not equal in amount, so long as the number of shares available to each employee is more than a de minimis amount, and
 
 &emsp;&emsp;&emsp;&emsp;(III) rights and privileges with respect to the exercise of an option shall not be treated as the same as rights and privileges with respect to the settlement of a restricted stock unit.
 
@@ -240,7 +240,7 @@ In the case of a transfer of property to which this section applies or a cancell
 
 #### (iv) Reporting
 
-&emsp;&emsp;&emsp;Any corporation which has outstanding deferral stock as of the beginning of any calendar year and which purchases any of its outstanding stock during such calendar year shall include on its return of tax for the taxable year in which, or with which, such calendar year ends the total dollar amount of its outstanding stock so purchased during such calendar year and such other information as the Secretary requires for purposes of administering this paragraph.
+&emsp;&emsp;&emsp;Any corporation which has outstanding deferral stock as of the beginning of any calendar year and which purchases any ofits outstanding stock during such calendar year shall include on its return of tax for the taxable year in which, or with which, such calendar year ends the total dollar amount of its outstanding stock so purchased during such calendar year and such other information as the Secretary requires for purposes of administering this paragraph.
 
 #### (5) Controlled groups
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 108–357 applicable to distributions on or after Oct. 22, 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of theTax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -400,7 +400,7 @@ Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amende
 
 &emsp;"(2) the election is consented to by the person transferring such property.
 
-> The election shall contain that information required by the Secretary of the Treasury or his delegate for elections permitted by such section 83(b). The period for assessing any tax attributable to a transfer of property which is the subject of an election made pursuant to this section shall not expire before the date which is 3 years after the date such election was made."
+> The election shall contain that information required by the Secretary of the Treasury or his delegate for elections permitted by such section 83(b). The period for assessing any tax attributable to a transfer of property which is the subject of an election made pursuant tothis section shall not expire before the date which is 3 years after the date such election was made."
 
 #### Property Subject to Transfer Restrictions To Comply With "Pooling-of-Interests Accounting" Rules
 

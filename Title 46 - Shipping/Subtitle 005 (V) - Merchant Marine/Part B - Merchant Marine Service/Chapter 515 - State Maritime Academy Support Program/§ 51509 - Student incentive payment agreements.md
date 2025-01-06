@@ -120,7 +120,7 @@ Service as commissioned officer.—An individual who, for the 5-year period foll
 
 &emsp;(2)
 
-Modification or waiver.—The Secretary may modify or waive any of the terms andconditions set forth in subsection (d) through the imposition of alternative service requirements.
+Modification or waiver.—The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
 
 (i)
 
@@ -216,5 +216,5 @@ Subsec. (d)(4). Pub. L. 110–181, §3523(a)(1), incorporated the substance of t
 
 <b>2006</b>—Pub. L. 109–364, §3508, which directed the amendment of section 1295c(g)(2) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3526(g). See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
 
-Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295c of the former Appendix tothis title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
+Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
 

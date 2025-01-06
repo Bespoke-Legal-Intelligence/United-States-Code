@@ -24,7 +24,7 @@ Not later than 2 years after July 29, 2016, the Secretary shallâ€”
 
 &emsp;&emsp;(C) establish a process for requesting and granting a determination by the Secretary regarding other factors and conditions under which a food is considered a bioengineered food;
 
-&emsp;&emsp;(D) in accordance with subsection (d), require that the form of a food disclosure under this section be a text, symbol, or electronic or digital link, but excluding Internetwebsite Uniform Resource Locators not embedded in the link, with the disclosure option to be selected by the food manufacturer;
+&emsp;&emsp;(D) in accordance with subsection (d), require that the form of a food disclosure under this section be a text, symbol, or electronic or digital link, but excluding Internet website Uniform Resource Locators not embedded in the link, with the disclosure option to be selected by the food manufacturer;
 
 &emsp;&emsp;(E) provide alternative reasonable disclosure options for food contained in small or very small packages;
 
@@ -98,7 +98,7 @@ In promulgating regulations under this section, the Secretary shall ensure thatâ
 
 #### (e) State food labeling standards
 
-Notwithstanding section 1639i of this title, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced using bioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
+Notwithstanding section 1639i of this title, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced usingbioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
 
 #### (f) Consistency with certain laws
 

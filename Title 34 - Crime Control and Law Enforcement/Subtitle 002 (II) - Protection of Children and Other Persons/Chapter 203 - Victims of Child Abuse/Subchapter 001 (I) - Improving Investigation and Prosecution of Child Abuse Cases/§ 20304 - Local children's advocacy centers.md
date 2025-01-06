@@ -68,7 +68,7 @@ Section 7102(9)(A) of title 22, referred to in subsec. (b), was redesignated sec
 
 #### Codification
 
-Section was formerly classified to section 13002 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+Section was formerly classified to section 13002 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Prior Provisions
 
@@ -150,7 +150,7 @@ Subsec. (d). Pub. L. 102–586, §6(c)(4), added subsec. (d).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 11101 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002,and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 11101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

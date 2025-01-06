@@ -10,7 +10,7 @@ Charges and Specifications.—Charges and specifications against an accused in a
 
 (b)
 
-Notice to Accused.—Upon the swearing of the charges and specifications in accordance with subsection (a), the accused shall be informed of the charges and specifications against the accused as soon as practicable.
+Notice to Accused.—Upon the swearing of the charges and specifications in accordancewith subsection (a), the accused shall be informed of the charges and specifications against the accused as soon as practicable.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2579.)
 

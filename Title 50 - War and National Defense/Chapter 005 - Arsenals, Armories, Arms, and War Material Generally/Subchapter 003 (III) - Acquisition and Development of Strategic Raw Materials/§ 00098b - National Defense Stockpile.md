@@ -48,6 +48,36 @@ Subsec. (b). Pub. L. 100–180, §3202(a)(2), substituted "the principles stated
 
 Subsec. (c). Pub. L. 100–180, §3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a), may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Consultations With Respect to Environmental Reviews of Projects That Will Increase Availability of Strategic and Critical Materials for Acquisition for National Defense Stockpile
+
+Pub. L. 118–159, div. A, title XIV, §1412, Dec. 23, 2024, 138 Stat. 2128, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall consult with the head of any agency responsible for the development of an environmental document for a project that will result in an increase in the availability of strategic and critical materials for acquisition for the Stockpile.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Agency.—The term 'agency' has the meaning given such term in section 551 of title 5, United States Code.
+
+&emsp;"(2)
+
+Environmental document.—The term 'environmental document' has the meaning given thatterm in section 111 of the National Environmental Policy Act of 1969 (42 U.S.C. 4336e).
+
+&emsp;"(3)
+
+Stockpile.—The term 'Stockpile' means the National Defense Stockpile established under section 3 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98b).
+
+&emsp;"(4)
+
+Strategic and critical materials.—The term 'strategic and critical materials' means materials, including rare earth elements, that are necessary to meet national defense and national security requirements, including requirements relating to supply chain resiliency, and for the economic security of the United States."
+
 #### <b>Executive Documents</b>
 
 #### Delegation of Functions

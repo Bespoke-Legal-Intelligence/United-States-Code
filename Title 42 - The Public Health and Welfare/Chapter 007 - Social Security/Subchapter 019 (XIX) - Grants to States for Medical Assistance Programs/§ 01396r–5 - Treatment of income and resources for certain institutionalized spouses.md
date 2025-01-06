@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) if payment of income is made to both the institutionalized spouse and the community spouse, one-half of the income shall be considered available to each of them; and
 
-&emsp;&emsp;&emsp;&emsp;(III) if payment of income is made to the institutionalized spouse or the community spouse, or both, and to another person or persons, the income shall be considered available to each spouse in proportion to the spouse's interest (or, if payment is made with respect to both spouses and no such interest is specified, one-half of the joint interest shall be considered available to each spouse).
+&emsp;&emsp;&emsp;&emsp;(III) if payment of income is made to the institutionalized spouse or the community spouse, or both, and to another person or persons, the income shall be considered available to each spouse in proportion to the spouse's interest (or, ifpayment is made with respect to both spouses and no such interest is specified, one-half of the joint interest shall be considered available to each spouse).
 
 #### (C) Property with no instrument
 
@@ -140,7 +140,7 @@
 
 &emsp;In this section (except as provided in paragraph (5)), the "community spouse monthly income allowance" for a community spouse is an amount by which—
 
-&emsp;&emsp;(A) except as provided in subsection (e), the minimum monthly maintenance needsallowance (established under and in accordance with paragraph (3)) for the spouse, exceeds
+&emsp;&emsp;(A) except as provided in subsection (e), the minimum monthly maintenance needs allowance (established under and in accordance with paragraph (3)) for the spouse, exceeds
 
 &emsp;&emsp;(B) the amount of monthly income otherwise available to the community spouse (determined without regard to such an allowance).
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;(v) the determination of the community spouse resource allowance (as defined in subsection (f)(2));
 
-> &emsp;&emsp;such spouse is entitled to a fair hearing described in section 1396a(a)(3) of this title with respect to such determination if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse. Any such hearing respecting thedetermination of the community spouse resource allowance shall be held within 30 days of the date of the request for the hearing.
+> &emsp;&emsp;such spouse is entitled to a fair hearing described in section 1396a(a)(3) of this title with respect to such determination if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse. Any such hearing respecting the determination of the community spouse resource allowance shall be held within 30 days of the date of the request for the hearing.
 
 #### (B) Revision of minimum monthly maintenance needs allowance
 
@@ -360,9 +360,9 @@ Pub. L. 100–360, title III, §303(g), July 1, 1988, 102 Stat. 763, as amended 
 
 "(1)(A) The amendments made by this section \[enacting this section and amending sections 1382, 1382b, 1396a, 1396p, 1396r, and 1396s of this title\] apply (except as provided in this subsection) to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after September 30, 1989, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-"(B) Section 1924 of the Social Security Act \[42 U.S.C. 1396r–5\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
+"(B) Section 1924 of the Social Security Act \[42 U.S.C. 1396r–5\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30,1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
-"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1,1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 "(B) Section 1917(c) of the Social Security Act \[42 U.S.C. 1396p(c)\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 

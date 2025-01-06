@@ -16,7 +16,7 @@ For purposes of this chapter, the term "employee representative" means any offic
 
 For purposes of this chapter, an individual is in the service of an employer whether his service is rendered within or without the United States, if—
 
-&emsp;(1) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or he is rendering professional or technical services and is integrated into the staff of the employer, or he is rendering, on the property used in the employer's operations, other personal services the rendition of which is integrated into the employer's operations, and
+&emsp;(1) he is subject to the continuing authority of the employer to supervise and direct themanner of rendition of his service, or he is rendering professional or technical services and is integrated into the staff of the employer, or he is rendering, on the property used in the employer's operations, other personal services the rendition of which is integrated into the employer's operations, and
 
 &emsp;(2) he renders such service for compensation;
 
@@ -32,7 +32,7 @@ For purposes of this chapter, an individual is in the service of an employer whe
 
 &emsp;(6) all, or substantially all, the individuals represented by it are employees of an employer conducting the principal part of its business in the United States; or
 
-&emsp;(7) he acts in the capacity of a general chairman or an assistant general chairman of a general committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under itsjurisdiction, unless such mileage formula is inapplicable, in which case such other formula as the Railroad Retirement Board may have prescribed pursuant to section 1(c) of the Railroad Retirement Act of 1937 (45 U.S.C. 228a) shall be applicable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 percent of his remuneration for such service, no part of such remuneration shall be regarded as compensation;
+&emsp;(7) he acts in the capacity of a general chairman or an assistant general chairman of a general committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case such other formula as the Railroad Retirement Board may have prescribed pursuant to section 1(c) of the Railroad Retirement Act of 1937 (45 U.S.C. 228a) shall be applicable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 percent of his remuneration for such service, no part of such remuneration shall be regarded as compensation;
 
 > <i>Provided however</i>, That an individual not a citizen or resident of the United States shall not be deemed to be in the service of an employer when rendering service outside the United States to an employer who is required under the laws applicable in the place where the service is rendered to employ therein, in whole or in part, citizens or residents thereof; and the laws applicable on August 29, 1935, in the place where the service is rendered shall be deemed to have been applicable there at all times prior to that date.
 
@@ -208,7 +208,7 @@ Subsec. (e)(2)(B)(i). Pub. L. 103–66, §13207(c)(2), amended heading and text 
 
 "(I)
 
-In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term 'applicablebase' means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
+In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term 'applicable base' means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
 
 "(II)
 
@@ -430,7 +430,7 @@ Pub. L. 97–34, title VII, §743(d), Aug. 13, 1981, 95 Stat. 349, provided that
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–547, §4(c)(2), Oct. 18, 1976, 90 Stat. 2527, provided that: "The amendments made by subsection (b) of this section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1953: <i>Provided, however</i>, That any taxes paid under the Railroad Retirement Tax Act \[this chapter\] prior to the date on which this Act is enacted \[Oct. 18, 1976\] shall not be affected or adjusted by reason of the amendments made by such subsection (b) except to the extent that the applicable period of limitation for the assessment of tax and the filing of a claim for credit or refund has not expired prior to the date on which this Act is enacted. If the applicable period of limitation for the filing of a claim for credit or refund would expire within the six-month period following the date on which this Act is enacted, the applicable period for the filing of such a claim for credit or refund shall be extended to include such six-month period."
+Pub. L. 94–547, §4(c)(2), Oct. 18, 1976, 90 Stat. 2527, provided that: "The amendments made by subsection (b) ofthis section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1953: <i>Provided, however</i>, That any taxes paid under the Railroad Retirement Tax Act \[this chapter\] prior to the date on which this Act is enacted \[Oct. 18, 1976\] shall not be affected or adjusted by reason of the amendments made by such subsection (b) except to the extent that the applicable period of limitation for the assessment of tax and the filing of a claim for credit or refund has not expired prior to the date on which this Act is enacted. If the applicable period of limitation for the filing of a claim for credit or refund would expire within the six-month period following the date on which this Act is enacted, the applicable period for the filing of such a claim for credit or refund shall be extended to include such six-month period."
 
 #### Effective Date of 1975 Amendments
 
@@ -444,7 +444,7 @@ Pub. L. 90–624, §4(a), Oct. 22, 1968, 82 Stat. 1316, as amended by Pub. L. 99
 
 "(1) The amendments made by the first two sections of this Act \[amending this section and section 228a of Title 45, Railroads\] shall apply with respect to service performed after December 31, 1961.
 
-"(2) Notwithstanding the expiration before the date of the enactment of this Act \[Oct. 22, 1968\] or within 6months after such date of the period for filing claim for credit or refund, claim for credit or refund of any overpayment of any tax imposed by chapter 22 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 3201 et seq.\] attributable to the amendment made by the first section of this Act \[amending this section\] may be filed at any time within one year after such date of enactment.
+"(2) Notwithstanding the expiration before the date of the enactment of this Act \[Oct. 22, 1968\] or within 6 months after such date of the period for filing claim for credit or refund, claim for credit or refund of any overpayment of any tax imposed by chapter 22 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 3201 et seq.\] attributable to the amendment made by the first section of this Act \[amending this section\] may be filed at any time within one year after such date of enactment.
 
 "(3) Any credit or refund of an overpayment of the tax imposed by section 3201 or 3211 of the Internal Revenue Code of 1986 which is attributable to the amendment made by the first section of this Act shall be appropriately adjusted for any lump-sum payment which has been made under section 5(f)(2) of the Railroad Retirement Act of 1937 \[section 228e(f)(2) of Title 45\] before the date of the allowance of such credit or the making of such refund."
 

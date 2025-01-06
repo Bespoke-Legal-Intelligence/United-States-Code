@@ -22,7 +22,7 @@ This chapter, referred to in par. (2), was in the original "this Act", and was t
 
 #### Codification
 
-Pub. L. 116–283, div. A, title XII, §1299Q(e)(10), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+Pub. L. 116–283, div. A, title XII, §1299Q(e)(10), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
 

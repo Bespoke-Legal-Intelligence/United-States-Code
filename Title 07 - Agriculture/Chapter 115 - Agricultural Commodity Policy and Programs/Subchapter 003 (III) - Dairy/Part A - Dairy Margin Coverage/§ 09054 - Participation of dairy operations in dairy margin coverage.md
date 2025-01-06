@@ -70,7 +70,7 @@ All dairy operations in the United States shall be eligible to participate in da
 
 #### References in Text
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(2)(B), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(2)(B), is subtitle A of title V of act Feb. 16, 1938,ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 Section 1401(m) of the Agriculture Improvement Act of 2018, referred to in subsec. (b)(3)(A), is section 1401(m) of Pub. L. 115–334, which is set out as a note under section 9051 of this title.
 

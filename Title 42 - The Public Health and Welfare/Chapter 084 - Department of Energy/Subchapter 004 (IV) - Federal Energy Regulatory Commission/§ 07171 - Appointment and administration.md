@@ -64,7 +64,7 @@ In each annual authorization and appropriation request under this chapter, the S
 
 &emsp;&emsp;(C) be valid for a 5-year period beginning on the date on which the certification is issued;
 
-&emsp;&emsp;(D) be no broader than necessary to achieve the objective of retaining or attracting employees and other personnel to allow the Commission to carry out the functionsof the Commission in a timely, efficient, and effective manner; and
+&emsp;&emsp;(D) be no broader than necessary to achieve the objective of retaining or attracting employees and other personnel to allow the Commission to carry out the functions of the Commission in a timely, efficient, and effective manner; and
 
 &emsp;&emsp;(E) include an explanation for why the other approaches available to the Chairman for retaining and attracting employees and other personnel are inadequate.
 
@@ -82,7 +82,7 @@ In each annual authorization and appropriation request under this chapter, the S
 
 #### (A) In general
 
-&emsp;&emsp;An employee or other personnel that is a member of a category of employees or other personnel that would have been covered by a certification issued under paragraph (1), but was hired during a period in which the certification has expired and has not been renewed under paragraph (3) shall not be eligible for compensation at the level that would have applied to the employee or other personnel if the certification had been in effect on the date on which the employee or other personnel was hired.
+&emsp;&emsp;An employee or other personnel that is a member of a category of employees or otherpersonnel that would have been covered by a certification issued under paragraph (1), but was hired during a period in which the certification has expired and has not been renewed under paragraph (3) shall not be eligible for compensation at the level that would have applied to the employee or other personnel if the certification had been in effect on the date on which the employee or other personnel was hired.
 
 #### (B) Compensation of new hires on renewal
 
@@ -162,7 +162,7 @@ Pub. L. 101–549, title VIII, §808, Nov. 15, 1990, 104 Stat. 2690, provided th
 
 "(a)
 
-Definition.—For purposes of this section, 'renewable energy' means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
+Definition.—For purposes of this section, 'renewable energy' means energy from photovoltaic, solarthermal, wind, geothermal, and biomass energy production technologies.
 
 "(b)
 
@@ -181,6 +181,8 @@ Report.—The Commission shall transmit the study and the model regulations to C
 Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: "That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account \[Federal Energy Regulatory Commission, Salaries and Expenses\], and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. D, title III, Mar. 9, 2024, 138 Stat. 205.
 
 Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4642.
 

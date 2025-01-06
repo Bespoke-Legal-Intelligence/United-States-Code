@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
-&emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, includingNaval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
+&emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
 &emsp;(3) The term "petroleum" includes crude oil, gases (including natural gas), natural gasoline, and other related hydrocarbons, oil shale, and the products of any of such resources.
 
@@ -152,7 +152,7 @@ Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amende
 
 &emsp;"(1) The term 'naval petroleum reserves' has the meaning given the term in section 7420(2) \[now 8720(2)\] of title 10, United States Code.
 
-&emsp;"(2) The term 'Naval Petroleum Reserve Numbered 2' means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located in Kern County, California, and was established by Executive order of the President, dated December 13, 1912.
+&emsp;"(2) The term 'Naval Petroleum Reserve Numbered 2' means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located inKern County, California, and was established by Executive order of the President, dated December 13, 1912.
 
 &emsp;"(3) The term 'Naval Petroleum Reserve Numbered 3' means the naval petroleum reserve, commonly referred to as the Teapot Dome unit, that is located in the State of Wyoming and was established by Executive order of the President, dated April 30, 1915.
 
@@ -258,13 +258,13 @@ Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject t
 
 &emsp;"(A) the land shall not be subject to any Federal restriction on alienation; and
 
-&emsp;"(B) notwithstanding any provision to the contrary in the constitution, bylaws, or charter of the Tribe, the Act of May 11, 1938 (commonly known as the 'Indian Mineral Leasing Act of 1938') (25 U.S.C. 396a et seq.), the Indian Mineral Development Act of 1982 (25 U.S.C. 2101 et seq.), section 2103 of the Revised Statutes (25 U.S.C. 81), or section 2116 of the Revised Statutes (25 U.S.C. 177), or any other law, no purchase, grant, lease, or other conveyance of the land (or any interest in the land), and no exploration, development, or other agreement relating to the land that is authorized by resolution by the governing body of the Tribe, shall require approval by the Secretary of the Interior or any other Federal official.
+&emsp;"(B) notwithstanding any provision to the contrary in the constitution, bylaws, or charter of the Tribe,the Act of May 11, 1938 (commonly known as the 'Indian Mineral Leasing Act of 1938') (25 U.S.C. 396a et seq.), the Indian Mineral Development Act of 1982 (25 U.S.C. 2101 et seq.), section 2103 of the Revised Statutes (25 U.S.C. 81), or section 2116 of the Revised Statutes (25 U.S.C. 177), or any other law, no purchase, grant, lease, or other conveyance of the land (or any interest in the land), and no exploration, development, or other agreement relating to the land that is authorized by resolution by the governing body of the Tribe, shall require approval by the Secretary of the Interior or any other Federal official.
 
 "(4) The reservation of the easement under subsection (b)(2)(C) shall not affect the right of the Tribe to use and maintain access to the Green River through the use of the road within the easement, as depicted on the map.
 
 "(5) Each withdrawal that applies to NOSR–2 and that is in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\] is revoked to the extent that the withdrawal applies to NOSR–2.
 
-"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to bepart of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
+"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to be part of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
 
 "(d)
 
@@ -324,7 +324,7 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 "(B) The remediation plan required by subparagraph (A) shall be completed not later than one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], and the Secretary of Energy shall commence remedial action at the Moab site as soon as practicable after the completion of the plan.
 
-"(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier. Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for a purpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
+"(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier. Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for apurpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
 
 &emsp;"(i) interim measures to reduce or eliminate localized high ammonia concentrations in the Colorado River, identified by the United States Geological Survey in a report dated March 27, 2000;
 
@@ -422,7 +422,7 @@ Notice of Sale.—Not later than two months after the effective date, the Secret
 
 "(d)
 
-Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, theSecretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
+Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, the Secretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
 
 &emsp;"(A) all equipment and facilities to be included in the sale;
 
@@ -484,7 +484,7 @@ Acquisition of Services.—The Secretary may enter into contracts for the acquis
 
 "(a)
 
-Effect on Existing Contracts.—(1) In the case of any contract, in effect on the effective date, for the purchase of production from any part of the United States' share of Naval Petroleum Reserve Numbered 1, the sale of the interest of the United States in the reserve shall be subject to the contract for a period of three months after the closing date of the sale or until termination of the contract, whichever occurs first. The term of any contract entered into after the effective date for the purchase of the production shall not exceed the anticipated closing date for the sale of the reserve.
+Effect on Existing Contracts.—(1) In the case of any contract, in effect on the effective date, for the purchase of production from any part of the UnitedStates' share of Naval Petroleum Reserve Numbered 1, the sale of the interest of the United States in the reserve shall be subject to the contract for a period of three months after the closing date of the sale or until termination of the contract, whichever occurs first. The term of any contract entered into after the effective date for the purchase of the production shall not exceed the anticipated closing date for the sale of the reserve.
 
 "(2) The Secretary shall exercise the termination procedures provided in the contract between the United States and Bechtel Petroleum Operation, Inc., Contract Number DE–ACO1–85FE60520 so that the contract terminates not later than the date of closing of the sale of Naval Petroleum Reserve Numbered 1 under section 3412.
 

@@ -18,13 +18,13 @@
 
 &emsp;(3) in the case of the initial contract interest rate adjustment—
 
-&emsp;&emsp;(A) if the initial contract interest rate remained fixed for less than 5 years, be limited to a maximum increase or decrease of 1 percentage point; or
+&emsp;&emsp;(A) if the initial contract interest rate remained fixed for less than 5 years, be limitedto a maximum increase or decrease of 1 percentage point; or
 
 &emsp;&emsp;(B) if the initial contract interest rate remained fixed for 5 years or more, be limited to a maximum increase or decrease of such percentage point or points as the Secretary may prescribe;
 
 &emsp;(4) in the case of any single annual interest rate adjustment after the initial contract interest rate adjustment, be limited to a maximum increase or decrease of such percentage points as the Secretary may prescribe; and
 
-&emsp;(5) be limited, over the term of the mortgage, to a maximum increase of such numberof percentage points as the Secretary shall prescribe for purposes of this section.
+&emsp;(5) be limited, over the term of the mortgage, to a maximum increase of such number of percentage points as the Secretary shall prescribe for purposes of this section.
 
 (d) The Secretary shall promulgate underwriting standards for loans guaranteed under this section, taking into account—
 

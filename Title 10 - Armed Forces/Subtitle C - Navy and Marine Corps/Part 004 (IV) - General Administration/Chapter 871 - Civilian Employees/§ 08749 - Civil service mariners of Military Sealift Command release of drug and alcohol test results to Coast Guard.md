@@ -8,7 +8,7 @@ Release of Drug or Alcohol Test Results to Coast Guard.—The Secretary of the N
 
 Waiver.—The results of a drug or alcohol test of an employee may be released under subsection (a) without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note).
 
-(Added Pub. L. 105–261, div. A, title XI, §1103(a), Oct. 17, 1998, 112 Stat. 2141, §7479; renumbered §8749 and amended Pub. L. 115–232, div. A, title VIII, §807(d)(6), title XI, §1114(b), Aug. 13, 2018, 132 Stat. 1836, 2013; Pub. L. 116–92, div. A, title XVII, §1731(a)(60)(A), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title X, §1081(a)(46), Jan. 1, 2021, 134 Stat. 3873.)
+(Added Pub. L. 105–261, div. A, title XI, §1103(a), Oct. 17, 1998, 112 Stat. 2141, §7479; renumbered §8749 and amended Pub. L. 115–232, div. A, title VIII, §807(d)(6), title XI, §1114(b), Aug. 13, 2018,132 Stat. 1836, 2013; Pub. L. 116–92, div. A, title XVII, §1731(a)(60)(A), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title X, §1081(a)(46), Jan. 1, 2021, 134 Stat. 3873.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,7 +28,7 @@ A prior section 8749 was renumbered section 9279 of this title.
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(6), renumbered section 7479 of this title as this section.
 
-Pub. L. 115–232, §1114(b), substituted "Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard" for "Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard" in section catchline and inserted "Or Alcohol" after "Drug" in subsec. (a)heading and "or alcohol" after "drug" wherever appearing in text. Quoted text directed to be inserted in subsec. (a) heading was conformed to the style used in this title.
+Pub. L. 115–232, §1114(b), substituted "Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard" for "Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard" in section catchline and inserted "Or Alcohol" after "Drug" in subsec. (a) heading and "or alcohol" after "drug" wherever appearing in text. Quoted text directed to be inserted in subsec. (a) heading was conformed to the style used in this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

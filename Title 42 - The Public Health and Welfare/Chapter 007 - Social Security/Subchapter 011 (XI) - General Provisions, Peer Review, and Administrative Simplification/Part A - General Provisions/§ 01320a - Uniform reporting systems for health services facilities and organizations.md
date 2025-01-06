@@ -2,7 +2,7 @@
 
 #### (a) Establishment; criteria for regulations; requirements for hospitals
 
-For the purposes of reporting the cost of services provided by, of planning, and of measuring and comparing the efficiency of and effective use of services in, hospitals, skilled nursing facilities, intermediate care facilities, home health agencies, health maintenance organizations, and other types of health services facilities and organizations to which payment may be made under this chapter, the Secretary shall establish by regulation, for each such type ofhealth services facility or organization, a uniform system for the reporting by a facility or organization of that type of the following information:
+For the purposes of reporting the cost of services provided by, of planning, and of measuring and comparing the efficiency of and effective use of services in, hospitals, skilled nursing facilities, intermediate care facilities, home health agencies, health maintenance organizations, and other types of health services facilities and organizations to which payment may be made under this chapter, the Secretary shall establish by regulation, for each such type of health services facility or organization, a uniform system for the reporting by a facility or organization of that type of the following information:
 
 &emsp;(1) The aggregate cost of operation and the aggregate volume of services.
 

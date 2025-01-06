@@ -28,7 +28,7 @@ In carrying out this section, the Director shall encourage innovation in postdoc
 
 #### (3) Limitation
 
-&emsp;The direct hire authority under this subsection shall be exercised with respect to aspecific qualified candidate not later than 2 years after the date that the candidate completed the requirements related to the fellowship or temporary rotational posting described under this subsection.
+&emsp;The direct hire authority under this subsection shall be exercised with respect to a specific qualified candidate not later than 2 years after the date that the candidate completed the requirements related to the fellowship or temporary rotational posting described under this subsection.
 
 #### (d) Existing programs
 

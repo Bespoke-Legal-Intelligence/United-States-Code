@@ -48,7 +48,7 @@ Prior to the issuance of an immigrant visa to any alien, the consular officer sh
 
 #### (e) Surrender of visa
 
-Each immigrant shall surrender his immigrant visa to the immigration officer at the portof entry, who shall endorse on the visa the date and the port of arrival, the identity of the vessel or other means of transportation by which the immigrant arrived, and such other endorsements as may be by regulations required.
+Each immigrant shall surrender his immigrant visa to the immigration officer at the port of entry, who shall endorse on the visa the date and the port of arrival, the identity of the vessel or other means of transportation by which the immigrant arrived, and such other endorsements as may be by regulations required.
 
 #### (f) Surrender of documents
 
@@ -66,7 +66,7 @@ Nothing in this chapter shall be construed to entitle any alien, to whom a visa 
 
 After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation. There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552; Pub. L. 108–458, title V, §5304(a), Dec. 17, 2004, 118 Stat. 3736; Pub. L. 114–70, §2, Oct. 16, 2015, 129 Stat. 561.)
+(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651;Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552; Pub. L. 108–458, title V, §5304(a), Dec. 17, 2004, 118 Stat. 3736; Pub. L. 114–70, §2, Oct. 16, 2015, 129 Stat. 561.)
 
 #### <b>Editorial Notes</b>
 
@@ -82,7 +82,7 @@ This chapter, referred to in subsecs. (a)(1), (g), and (h), was in the original,
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–173 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–208, §631, substituted "six months" for "four months" and inserted "; except that in the case of aliens who are nationals of a foreigncountry and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States" after "within a similar class".
+<b>1996</b>—Subsec. (c). Pub. L. 104–208, §631, substituted "six months" for "four months" and inserted "; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States" after "within a similar class".
 
 Subsec. (f). Pub. L. 104–208, §308(d)(4)(G), substituted "deny admission to" for "exclude".
 
@@ -234,7 +234,7 @@ Aliens covered.—An alien is described in this paragraph if the alien—
 
 &emsp;&emsp;"(A) is an employee of the Foreign Broadcast Information Service in Hong Kong, or
 
-&emsp;&emsp;"(B) is the spouse or child (as defined in subsection (d)) of an alien described in subparagraph (A), if accompanying or following to join the alien in coming to the United States.
+&emsp;&emsp;"(B) is the spouse or child (as defined in subsection (d)) of an alien described in subparagraph\(A), if accompanying or following to join the alien in coming to the United States.
 
 &emsp;"\[(3) Repealed. Pub. L. 102–232, title III, §302(d)(4)(C), Dec. 12, 1991, 105 Stat. 1745.\]
 

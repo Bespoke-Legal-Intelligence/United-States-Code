@@ -12,7 +12,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(D) otherwise impacted by such activities including but not limited to expired lease areas, relinquished rights-of-way and easements, Outer Continental Shelf supply vessel routes, or other areas as determined by the Secretary;
 
-&emsp;(2) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State, or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other chief executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth, or naturalization, and which has at least 75 per centum of the interest of <sup>1</sup> therein owned by citizens of the United States. Seventy-five per centum of the interest in the corporation shall not be deemed to be owned by citizens of the United States—
+&emsp;(2) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State, or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other chief executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth, or naturalization, and which has at least 75 per centum of the interest of <sup>1</sup> therein owned by citizens of the United States. Seventy-five per centum of the interest in the corporation shallnot be deemed to be owned by citizens of the United States—
 
 &emsp;&emsp;(A) if the title to 75 per centum of its stock is not vested in such citizens free from any trust or fiduciary obligation in favor of any person not a citizen of the United States;
 
@@ -40,7 +40,7 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, andstruck out "at sea" after "the aiding or assisting" in par. (4)(B) as redesignated.
+<b>1982</b>—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, and struck out "at sea" after "the aiding or assisting" in par. (4)(B) as redesignated.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

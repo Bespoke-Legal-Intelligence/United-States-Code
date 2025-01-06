@@ -18,7 +18,7 @@ There is established within the Center an office to be known as the Office of Ra
 
 &emsp;&emsp;(D) The Director shall promote the sufficient allocation of the resources of the National Institutes of Health for conducting and supporting research on rare diseases.
 
-&emsp;&emsp;(E) The Director shall promote and encourage the establishment of a centralized clearinghouse for rare and genetic disease information that will provide understandable information about these diseases to the public, medical professionals, patients and families.
+&emsp;&emsp;(E) The Director shall promote and encourage the establishment of a centralized clearinghouse for rare and genetic diseaseinformation that will provide understandable information about these diseases to the public, medical professionals, patients and families.
 
 #### (2) Principal advisor regarding orphan diseases
 
@@ -68,7 +68,7 @@ Pub. L. 107–280, §2, Nov. 6, 2002, 116 Stat. 1988, provided that:
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States. Such diseases and conditions include Huntington's disease, amyotrophic lateral sclerosis (Lou Gehrig'sdisease), Tourette syndrome, Crohn's disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy.
+&emsp;"(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States. Such diseases and conditions include Huntington's disease, amyotrophic lateral sclerosis (Lou Gehrig's disease), Tourette syndrome, Crohn's disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy.
 
 &emsp;"(2) For many years, the 25,000,000 Americans suffering from the over 6,000 rare diseases and disorders were denied access to effective medicines because prescription drug manufacturers could rarely make a profit from marketing drugs for such small groups of patients. The prescription drug industry did not adequately fund research into such treatments. Despite the urgent health need for these medicines, they came to be known as 'orphan drugs' because no companies would commercialize them.
 

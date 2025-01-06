@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Annual Report on Advancing Freedom and Democracy
 
-&emsp;The term "Annual Report on Advancing Freedom and Democracy" refers to the annualreport submitted to Congress by the Department of State pursuant to section 665(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; 22 U.S.C. 2151n note), in which the Department reports on actions taken by the United States Government to encourage respect for human rights and democracy.
+&emsp;The term "Annual Report on Advancing Freedom and Democracy" refers to the annual report submitted to Congress by the Department of State pursuant to section 665(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; 22 U.S.C. 2151n note), in which the Department reports on actions taken by the United States Government to encourage respect for human rights and democracy.
 
 #### (2) Appropriate congressional committees
 

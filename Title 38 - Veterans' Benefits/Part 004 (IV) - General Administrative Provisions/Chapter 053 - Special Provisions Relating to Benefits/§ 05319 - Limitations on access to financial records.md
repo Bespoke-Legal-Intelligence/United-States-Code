@@ -1,6 +1,6 @@
 ### §5319. Limitations on access to financial records
 
-(a) The Secretary may make a request referred to in section 1113(p) of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3413(p)) only if the Secretary determines that the requested information—
+(a) The Secretary may make a request referred to in section 1113(p) of the Right to FinancialPrivacy Act of 1978 (12 U.S.C. 3413(p)) only if the Secretary determines that the requested information—
 
 &emsp;(1) is necessary in order for the Secretary to administer the provisions of law referred to in that section; and
 

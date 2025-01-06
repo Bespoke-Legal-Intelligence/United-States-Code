@@ -17,7 +17,7 @@ A prior chapter 865, formerly consisting of sections 8881 to 8889, related to re
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter637 of this title as this chapter and items 7361 to 7364 as 8701 to 8704, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 637 of this title as this chapter and items 7361 to 7364 as 8701 to 8704, respectively.
 
 <b>1996</b>—Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 424, amended analysis generally, adding items 7361 to 7364 and striking out former items 7361 "Naval salvage facilities: contracts for commercial facilities", 7362 "Commercial use of naval facilities", 7363 "Transfer of equipment: contract provisions", 7365 "Settlement of claims", and 7367 "Disposition of receipts".
 

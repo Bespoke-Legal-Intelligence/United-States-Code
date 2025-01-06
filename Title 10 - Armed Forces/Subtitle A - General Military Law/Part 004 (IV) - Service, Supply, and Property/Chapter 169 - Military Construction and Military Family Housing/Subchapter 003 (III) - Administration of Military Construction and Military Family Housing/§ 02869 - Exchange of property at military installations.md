@@ -12,13 +12,13 @@ Exchange Authorized.—(1) The Secretary concerned may enter into an agreement t
 
 (3)(A) The Secretary of Defense shall establish a pilot program under which the Secretary concerned, during the term of the pilot program, may use the authority provided by paragraph (1) to also convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to provide—
 
-&emsp;(i) installation-support services (as defined in 2679(e) <sup>1</sup> of this title); or
+&emsp;(i) installation-support services (as defined in section 2679(f) of this title); or
 
 &emsp;(ii) a new facility or improvements to an existing facility.
 
 (B) The acquisition of a facility or improvements to an existing facility using the authority provided by subparagraph (A) shall not be treated as a military construction project for which an authorization is required by section 2802 of this title.
 
-(C) The expanded conveyance authority provided by subparagraph (A) applies only during the five-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
+(C) The expanded conveyance authority provided by subparagraph (A) applies only during the eight-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
 
 (b)
 
@@ -72,17 +72,19 @@ Description of Property.—The exact acreage and legal description of real prope
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850; Pub. L. 116–283, div. B, title XXVIII, §2862(a), (b), Jan. 1, 2021, 134 Stat. 4357.)
+(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850; Pub. L. 116–283, div. B, title XXVIII, §2862(a), (b), Jan. 1, 2021, 134 Stat. 4357; Pub. L. 118–159, div. B, title XXVIII, §2851, Dec. 23, 2024, 138 Stat. 2269.)
 
 #### References in Text
-
-The reference to "2679(e) of this title", referred to in subsec. (a)(3)(A)(i), probably should be to "section 2679(f) of this title". Subsec. (e) of section 2679 of this title was redesignated as subsec. (f) by Pub. L. 116–283, div. B, title XXVIII, §2861(a)(1), Jan. 1, 2021, 134 Stat. 4356.
 
 Section 2684a(d) of this title, referred to in subsec. (d)(2)(A)(iii), was redesignated section 2684a(e) of this title by Pub. L. 118–31, div. A, title III, §314(1), Dec. 22, 2023, 137 Stat. 216.
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(3)(A)(i). Pub. L. 118–159, §2851(b), substituted "section 2679(f)" for "2679(e)".
+
+Subsec. (a)(3)(C). Pub. L. 118–159, §2851(a), substituted "eight-year period" for "five-year period".
 
 <b>2021</b>—Subsec. (a)(3). Pub. L. 116–283, §2862(a), added par. (3).
 
@@ -96,7 +98,7 @@ Subsec. (b)(3). Pub. L. 116–283, §2862(b)(2), added par. (3).
 
 &emsp;"(B) is located on a military installation not covered by subparagraph (A) and is determined to be excess to the needs of the Department of Defense."
 
-Subsec. (b). Pub. L. 115–91, §2816, amended subsec. (b) generally. Prior to amendment, text read as follows: "The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values."
+Subsec. (b). Pub. L. 115–91, §2816, amended subsec. (b) generally. Prior to amendment, text read as follows: "The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal tothe fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values."
 
 Subsec. (d)(3). Pub. L. 115–91, §2801(c)(6), substituted "after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title." for "after a period of 21 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title." and "only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title." for "only after a period of 60 days has elapsed from the date of receipt of the notice or, if over sooner, a period of 45 days has elapsed from the date on which the electronic copy is provided."
 
@@ -138,7 +140,7 @@ Subsec. (d)(1). Pub. L. 109–364, §2811(c)(1), substituted "is proposed for co
 
 Subsec. (d)(2), (3). Pub. L. 109–364, §2811(c)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
 
-&emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military constructionactivities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
+&emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military construction activities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
 
 &emsp;"(B) a period of 14 days expires beginning on the date on which the notice is submitted."
 
@@ -150,7 +152,7 @@ Subsec. (f). Pub. L. 109–364, §2811(e), in heading substituted "Annual Report
 
 #### Issuance of Guidance
 
-Pub. L. 116–283, div. B, title XXVIII, §2862(c), Jan. 1, 2021, 134 Stat. 4358, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall issue guidance providing for the implementation of the pilot program required by section 2869(a)(3) of title 10, United States Code, as added by this section."
+Pub. L. 116–283, div. B, title XXVIII, §2862(c), Jan. 1, 2021, 134 Stat. 4358, provided that: "Not later than 180days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall issue guidance providing for the implementation of the pilot program required by section 2869(a)(3) of title 10, United States Code, as added by this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -60,7 +60,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator, in consultation with the Secretary and other appropriate Federaldepartments and agencies, shall establish a program for awarding grants on a competitive basis to eligible recipients for the replacement of, retrofit (including repowering, aftertreatment, and remanufactured engines) of, or purchase of alternative fuels for, certain existing school buses. The awarding of grants for the purchase of alternative fuels should be consistent with the historic funding levels of the program for such purchase.
+&emsp;&emsp;The Administrator, in consultation with the Secretary and other appropriate Federal departments and agencies, shall establish a program for awarding grants on a competitive basis to eligible recipients for the replacement of, retrofit (including repowering, aftertreatment, and remanufactured engines) of, or purchase of alternative fuels for, certain existing school buses. The awarding of grants for the purchase of alternative fuels should be consistent with the historic funding levels of the program for such purchase.
 
 #### (B) Balancing
 
@@ -152,7 +152,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;&emsp;&emsp;(I) the total number of grant applications received;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number and types of alternative fuel school buses, ultra-low sulfurdiesel fuel school buses, and retrofitted buses requested in grant applications;
+&emsp;&emsp;&emsp;&emsp;(II) the number and types of alternative fuel school buses, ultra-low sulfur diesel fuel school buses, and retrofitted buses requested in grant applications;
 
 &emsp;&emsp;&emsp;&emsp;(III) grants awarded and the criteria used to select the grant recipients;
 

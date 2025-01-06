@@ -14,7 +14,7 @@ For purposes of this section, a State statute, regulation, order, or interpretat
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436,which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 #### Amendments
 

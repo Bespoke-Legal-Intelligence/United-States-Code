@@ -100,7 +100,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### References in Text
 
-Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this titleby Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 #### Amendments
 

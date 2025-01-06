@@ -32,7 +32,7 @@
 
 (b) For purposes of this subchapter, a multifamily transitional housing project referred to in subsection (a)(1) is a project that—
 
-&emsp;(1) provides transitional housing to homeless veterans, which housing may be single roomoccupancy (as defined in section 8(n) of the United States Housing Act of 1937 (42 U.S.C. 1437f (n)));
+&emsp;(1) provides transitional housing to homeless veterans, which housing may be single room occupancy (as defined in section 8(n) of the United States Housing Act of 1937 (42 U.S.C. 1437f (n)));
 
 &emsp;(2) provides supportive services and counselling services (including job counselling) at the project site with the goal of making such veterans self-sufficient;
 

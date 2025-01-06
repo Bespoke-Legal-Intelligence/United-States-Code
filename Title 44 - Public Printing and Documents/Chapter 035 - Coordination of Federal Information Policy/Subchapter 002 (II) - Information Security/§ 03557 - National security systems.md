@@ -52,7 +52,7 @@ Reevaluation and Updates.—Not less frequently than once every 2 years, the Nat
 
 "(d)
 
-Resources.—Each head of an element of the intelligence community that owns or operates a nationalsecurity system shall update plans of the element to prioritize resources in such a manner as to fully implement the cybersecurity requirements for national security systems by the deadline established pursuant to subsection (b) for the next 10 fiscal years.
+Resources.—Each head of an element of the intelligence community that owns or operates a national security system shall update plans of the element to prioritize resources in such a manner as to fully implement the cybersecurity requirements for national security systems by the deadline established pursuant to subsection (b) for the next 10 fiscal years.
 
 "(e)
 

@@ -28,7 +28,7 @@
 
 &emsp;(2) shall be equal to the lesser of—
 
-&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive under section 5595(c) if the employee were entitled to payment under such section; or
+&emsp;&emsp;(A) an amount equal to the amount the employee would be entitled to receive undersection 5595(c) if the employee were entitled to payment under such section; or
 
 &emsp;&emsp;(B) $25,000;
 
@@ -184,7 +184,7 @@ First method.—The amount required under this subparagraph shall be determined 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) The amount equal to 8 percent of the final basic pay of each employee described in paragraph (2) who retires on an immediate annuity under section 8412 of such title 5.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The amount equal to 211 percent of the final basic pay of each employee described in paragraph (2), who is covered by chapter 84 of such title 5, and who resigns.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The amount equal to 211 percent of the final basic pay of each employee described inparagraph (2), who is covered by chapter 84 of such title 5, and who resigns.
 
 &emsp;&emsp;"(B)
 
@@ -252,7 +252,7 @@ Pub. L. 106–58, title I, §116, Sept. 29, 1999, 113 Stat. 439, authorized the 
 
 Pub. L. 106–58, title I, §119, Sept. 29, 1999, 113 Stat. 441, authorized the Commissioner of the Financial Management Services of the Department of the Treasury, during the period from Oct. 1, 1999 through Jan. 31, 2000, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the closure of the Chicago Financial Center (CFC) in a manner which the Commissioner deemed most efficient, equitable to employees, and cost effective to the Government, defined "employee" for separation incentive purposes, and provided for an agency plan, authority to provide separation incentive payments, eligibility requirements, effect on subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
-Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by Pub. L. 106–554, §1(a)(3) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–146, authorized the Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined "employee" for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
+Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by Pub. L. 106–554, §1(a)(3) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–146, authorizedthe Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined "employee" for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
 Pub. L. 105–261, div. C, title XXXI, §3156, Oct. 17, 1998, 112 Stat. 2257, provided that notwithstanding section 101(f) \[title VI, §663(c)(2)(D)\] of Public Law 104–208, set out below, Department of Energy could pay voluntary separation incentive payments to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2001.
 

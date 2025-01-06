@@ -26,7 +26,7 @@ In general.—In any action brought under this section, the Commission may seek 
 
 (3)
 
-Equitable remedies.—In any action brought under this section, the Commission may seek, and the court may impose, on a propershowing, on any person found in the action to have committed any violation, equitable remedies including—
+Equitable remedies.—In any action brought under this section, the Commission may seek, and the court may impose, on a proper showing, on any person found in the action to have committed any violation, equitable remedies including—
 
 &emsp;(A) restitution to persons who have sustained losses proximately caused by such violation (in the amount of such losses); and
 

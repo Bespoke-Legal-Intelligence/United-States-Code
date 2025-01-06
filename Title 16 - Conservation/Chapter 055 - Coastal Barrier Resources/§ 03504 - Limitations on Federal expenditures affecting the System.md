@@ -8,7 +8,7 @@ Except as provided in section 3505 of this title, no new expenditures or new fin
 
 &emsp;(2) the construction or purchase of any road, airport, boat landing facility, or other facility on, or bridge or causeway to, any System unit; and
 
-&emsp;(3) the carrying out of any project to prevent the erosion of, or to otherwise stabilize, any inlet, shoreline, or inshore area, except that such assistance and expenditures may be made available on units designated pursuant to section 3503 of this title on maps numbered S01 through S08 and LA07 for purposes other than encouraging development and, in all units, in cases where an emergency threatens life, land,and property immediately adjacent to that unit.
+&emsp;(3) the carrying out of any project to prevent the erosion of, or to otherwise stabilize, any inlet, shoreline, or inshore area, except that such assistance and expenditures may be made available on units designated pursuant to section 3503 of this title on maps numbered S01 through S08 and LA07 for purposes other than encouraging development and, in all units, in cases where an emergency threatens life, land, and property immediately adjacent to that unit.
 
 #### (b) New expenditures or new financial assistance
 
@@ -18,7 +18,11 @@ An expenditure or financial assistance made available under authority of Federal
 
 &emsp;(2) no legally binding commitment for the expenditure or financial assistance was made before such date.
 
-(Pub. L. 97–348, §5, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 101–591, §§2(b)(2), 5(c), Nov. 16, 1990, 104 Stat. 2931, 2936.)
+#### (c) Disclosure of limitations
+
+Not later than 2 years after November 25, 2024, the Secretary, in consultation with the Secretary of Housing and Urban Development, shall issue regulations requiring the owner or lessor of real property located in a community affected by this chapter, as determined by the Director of the United States Fish and Wildlife Service, to disclose to a prospective buyer or lessee such location of such real property.
+
+(Pub. L. 97–348, §5, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 101–591, §§2(b)(2), 5(c), Nov. 16, 1990, 104 Stat. 2931, 2936; Pub. L. 118–117, title I, §103, Nov. 25, 2024, 138 Stat. 1610.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,6 +32,8 @@ The Coastal Barrier Improvement Act of 1990, referred to in subsec. (b)(1), is P
 
 #### Amendments
 
+<b>2024</b>—Subsec. (c). Pub. L. 118–117 added subsec. (c).
+
 <b>1990</b>—Subsec. (a). Pub. L. 101–591, §2(b)(2)(A), in introductory provisions substituted "the System" for "the Coastal Barrier Resources System".
 
 Subsec. (a)(3). Pub. L. 101–591, §5(c), substituted "through S08 and LA07" for "through S08".
@@ -35,4 +41,10 @@ Subsec. (a)(3). Pub. L. 101–591, §5(c), substituted "through S08 and LA07" fo
 Subsec. (b)(1). Pub. L. 101–591, §2(b)(2)(B), substituted "on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990" for "of the enactment of this Act".
 
 Subsec. (b)(2). Pub. L. 101–591, §2(b)(2)(C), struck out "of enactment" after "before such date".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Guidance for Expenditure of Federal Funds in Emergency Situations
+
+Pub. L. 118–117, title I, §105(b), Nov. 25, 2024, 138 Stat. 1612, provided that: "Not later than 1 year after the date of the enactment of this Act \[Nov. 25, 2024\], the Secretary of the Interior, in consultation with the Chief of Engineers of the Army Corps of Engineers, shall develop and finalize guidance relating to the expenditure of Federal funds pursuant to the exception described in section 5(a)(3) of the Coastal Barrier Resources Act (16 U.S.C. 3504(a)(3)) for emergency situations that threaten life, land, and property immediately adjacent to a System unit (as defined in subsection (a) of section 3 of that Act (16 U.S.C. 3502))."
 

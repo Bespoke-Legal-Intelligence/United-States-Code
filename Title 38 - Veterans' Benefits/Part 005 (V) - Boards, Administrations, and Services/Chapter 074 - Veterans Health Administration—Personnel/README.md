@@ -35,13 +35,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS
+#### SUBCHAPTER III—PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL <sup>1</sup>
 
 |  |  |
 | :--- | ---: |
-| [7431\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/%C2%A7%2007431%20-%20Pay.md) | Pay. |
-| [7432\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/%C2%A7%2007432%20-%20Pay%20of%20Under%20Secretary%20for%20Health.md) | Pay of Under Secretary for Health. |
-| [7433\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/%C2%A7%2007433%20-%20Administrative%20matters.md) | Administrative matters. |
+| [7431\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20Optometrists%2C%20and%20Dentists/%C2%A7%2007431%20-%20Pay.md) | Pay. |
+| [7432\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20Optometrists%2C%20and%20Dentists/%C2%A7%2007432%20-%20Pay%20of%20Under%20Secretary%20for%20Health.md) | Pay of Under Secretary for Health. |
+| [7433\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20Optometrists%2C%20and%20Dentists/%C2%A7%2007433%20-%20Administrative%20matters.md) | Administrative matters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,15 +84,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Applicability of Amendment
+
+<i>Amendment of analysis by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025. See 2025 Amendment note below.</i>
+
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Pub. L. 118–210, title I, §142(a)(4)(B), Jan. 2, 2025, 138 Stat. 2746, substituted "PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL" for "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" in item for subchapter III.
 
 <b>2022</b>—Pub. L. 117–328, div. U, title I, §112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
 
 Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
 
-<b>2019</b>—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
+<b>2019</b>—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS,AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
 
 <b>2018</b>—Pub. L. 115–182, title V, §502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
@@ -104,6 +110,8 @@ Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 17
 
 <b>1991</b>—Pub. L. 102–40, title I, §§102, 103(a)(2), title II, §203(b), title IV, §401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to subchapter heading.</i>
+
 
 ---
 
@@ -111,7 +119,7 @@ Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 17
 
 - [Subchapter 001 (I) - Appointments](Subchapter%20001%20%28I%29%20-%20Appointments/README.md)
 - [Subchapter 002 (II) - Collective Bargaining and Personnel Administration](Subchapter%20002%20%28II%29%20-%20Collective%20Bargaining%20and%20Personnel%20Administration/README.md)
-- [Subchapter 003 (III) - Pay for Physicians, Podiatrists, and Dentists](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20and%20Dentists/README.md)
+- [Subchapter 003 (III) - Pay for Physicians, Podiatrists, Optometrists, and Dentists](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%2C%20Podiatrists%2C%20Optometrists%2C%20and%20Dentists/README.md)
 - [Subchapter 004 (IV) - Pay for Nurses and Other Health-Care Personnel](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/README.md)
 - [Subchapter 005 (V) - Disciplinary and Grievance Procedures](Subchapter%20005%20%28V%29%20-%20Disciplinary%20and%20Grievance%20Procedures/README.md)
 - [Subchapter 006 (VI) - Regional Medical Education Centers](Subchapter%20006%20%28VI%29%20-%20Regional%20Medical%20Education%20Centers/README.md)

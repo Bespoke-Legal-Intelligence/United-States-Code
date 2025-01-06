@@ -10,7 +10,7 @@
 
 &emsp;Under the program established under this section, the Commissioner shall—
 
-&emsp;&emsp;(A) establish a competitive program of grants, cooperative agreements, or contracts to provide benefits planning and assistance, including information on the availability of protection and advocacy services, to disabled beneficiaries, including individuals participating in the Ticket to Work and Self-Sufficiency Program established under section 1320b–19 of this title, the program established under section 1382h of this title, and other programs that are designed to encourage disabled beneficiaries to work;
+&emsp;&emsp;(A) establish a competitive program of grants, cooperative agreements, or contracts to provide benefits planning and assistance, including information on the availability of protection and advocacy services, to disabled beneficiaries, including individuals participating in the Ticket to Work and Self-Sufficiency Program established under section 1320b–19 of this title, the program established under section 1382h of this title,and other programs that are designed to encourage disabled beneficiaries to work;
 
 &emsp;&emsp;(B) conduct directly, or through grants, cooperative agreements, or contracts, ongoing outreach efforts to disabled beneficiaries (and to the families of such beneficiaries) who are potentially eligible to participate in Federal or State work incentive programs that are designed to assist disabled beneficiaries to work, including—
 

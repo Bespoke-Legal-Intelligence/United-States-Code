@@ -62,7 +62,7 @@ No borrower may, for the same service, receive a reduction of loan obligations o
 
 #### (2) Limitation
 
-&emsp;The failure by an individual to complete the full period of service obligated pursuant to such an agreement, taken alone, shall not constitute a breach of the agreement, so long as the individual completed in good faith the years of service for which payments were made to the individual under this section.
+&emsp;The failure by an individual to complete the full period of service obligated pursuant to such an agreement, taken alone, shall not constitute a breach of the agreement, so long as the individual completed in good faith theyears of service for which payments were made to the individual under this section.
 
 #### (g) Additional criteria
 
@@ -120,7 +120,7 @@ Prior sections 295h–1a to 295h–2 were omitted in the general amendment of th
 
 Section 295h–1a, act July 1, 1944, ch. 373, title VII, §791A, formerly §749, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2280; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692; renumbered §791A and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(b)(2), 95 Stat. 927; Jan. 4, 1983, Pub. L. 97–414, §8(k)(1), 96 Stat. 2061; Oct. 22, 1985, Pub. L. 99–129, title I, §112, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §619, 102 Stat. 3140, related to traineeships for students in other graduate programs.
 
-Section 295h–1b, act July 1, 1944, ch. 373, title VII, §792; formerly §748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583; renumbered §792 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(d), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title I, §113, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §621, 102 Stat. 3141, related to traineeships for students in schools of public health.
+Section 295h–1b, act July 1, 1944, ch. 373, title VII, §792; formerly §748, as added Oct. 12, 1976, Pub. L.94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583; renumbered §792 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(d), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title I, §113, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §621, 102 Stat. 3141, related to traineeships for students in schools of public health.
 
 Section 295h–1c, act July 1, 1944, ch. 373, title VII, §793, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(f), 95 Stat. 928; amended Oct. 22, 1985, Pub. L. 99–129, title I, §114, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(b)(2), 102 Stat. 3146, related to training in preventive medicine.
 
@@ -144,7 +144,7 @@ Prior sections 295h–4 to 295h–7 were omitted in the general amendment of thi
 
 Section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2306; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, defined "allied health personnel", "training center for allied health professions", and "nonprofit". See section 295p of this title.
 
-Another prior section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Nov. 3, 1966, Pub. L. 89–751, §2,80 Stat. 1228; amended Dec. 5, 1967, Pub. L. 90–174, §12(e), 81 Stat. 542; Nov. 2, 1970, Pub. L. 91–519, title II, §202(c), 84 Stat. 1344; Nov. 18, 1971, Pub. L. 92–157, title III, §301(f), 85 Stat. 464, defined "training center for allied health professions"; "full-time student"; "nonprofit"; "construction" and "cost of construction"; and "affiliated hospital", prior to the general amendment of this part by Pub. L. 94–484.
+Another prior section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Nov. 3, 1966, Pub. L. 89–751, §2, 80 Stat. 1228; amended Dec. 5, 1967, Pub. L. 90–174, §12(e), 81 Stat. 542; Nov. 2, 1970, Pub. L. 91–519, title II, §202(c), 84 Stat. 1344; Nov. 18, 1971, Pub. L. 92–157, title III, §301(f), 85 Stat. 464, defined "training center for allied health professions"; "full-time student"; "nonprofit"; "construction" and "cost of construction"; and "affiliated hospital", prior to the general amendment of this part by Pub. L. 94–484.
 
 Section 295h–5, act July 1, 1944, ch. 373, title VII, §796, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2307; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(l), (m), 91 Stat. 392; Nov. 4, 1988, Pub. L. 100–607, title VI, §624, 102 Stat. 3143; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(f) \[(h)\], 102 Stat. 4240, related to project grants and contracts with eligible entities to improve the effectiveness of allied health administration and practitioners. See section 294e of this title.
 

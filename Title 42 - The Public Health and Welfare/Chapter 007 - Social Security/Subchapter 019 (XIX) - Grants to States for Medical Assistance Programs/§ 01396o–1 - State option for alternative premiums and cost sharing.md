@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) and subsection (d) shall not apply, and sections 1396o and 1396a(a)(10)(B) of this title shall continue to apply, in the case of an individual whose family income does not exceed 100 percent of the poverty line applicable to a family of the size involved.
+&emsp;&emsp;Paragraph (1) and subsection (d) shall not apply, and sections 1396o and 1396a(a)(10)(B)of this title shall continue to apply, in the case of an individual whose family income does not exceed 100 percent of the poverty line applicable to a family of the size involved.
 
 #### (B) Limit on aggregate cost sharing
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(viii) Services furnished to women who are receiving medical assistance by virtue of the application of sections 1396a(a)(10)(A)(ii)(XVIII) and 1396a(aa) of this title.
 
-&emsp;&emsp;&emsp;(ix) Services furnished to disabled children who are receiving medical assistanceby virtue of the application of sections 1396a(a)(10)(A)(ii)(XIX) and 1396a(cc) of this title.
+&emsp;&emsp;&emsp;(ix) Services furnished to disabled children who are receiving medical assistance by virtue of the application of sections 1396a(a)(10)(A)(ii)(XIX) and 1396a(cc) of this title.
 
 &emsp;&emsp;&emsp;(x) Items and services furnished to an Indian directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through referral under contract health services.
 
@@ -198,7 +198,7 @@
 
 #### (A) Individuals with family income between 100 and 150 percent of the poverty line
 
-&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposed under this subsection may not exceed twice the amount determined to be nominal under section 1396o of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
+&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposedunder this subsection may not exceed twice the amount determined to be nominal under section 1396o of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
 
 #### (B) Application to exempt populations
 
@@ -206,7 +206,7 @@
 
 #### (C) Continued application of aggregate cap; relation to other cost sharing
 
-&emsp;&emsp;In addition to the limitations imposed under subparagraphs (A) and (B), any cost sharing under paragraph (1) is subject to the aggregate cap on cost sharing applied under subsection (a)(2)(B) or under paragraph (1) or\(2) of subsection (b), as the case may be. Cost sharing imposed for services under this subsection shall be instead of any cost sharing that may be imposed for such services under subsection (a) or section 1396o of this title.
+&emsp;&emsp;In addition to the limitations imposed under subparagraphs (A) and (B), any cost sharing under paragraph (1) is subject to the aggregate cap on cost sharing applied under subsection (a)(2)(B) or under paragraph (1) or (2) of subsection (b), as the case may be. Cost sharing imposed for services under this subsection shall be instead of any cost sharing that may be imposed for such services under subsection (a) or section 1396o of this title.
 
 #### (3) Construction
 
@@ -294,7 +294,7 @@ Subsec. (e)(4)(A). Pub. L. 109–432, §405(a)(5), struck out "the physician det
 
 #### Effective Date of 2022 Amendment
 
-Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after thedate that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2010 Amendment
 

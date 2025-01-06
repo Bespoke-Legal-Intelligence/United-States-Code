@@ -130,7 +130,7 @@ The Secretary may enter into a written agreement with the State of Connecticut S
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of the receipt of funds under this subsection, the Secretary shall require that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
+&emsp;&emsp;As a condition of the receipt of funds under this subsection, the Secretary shall require that any Federal funds made available under a cooperative agreement shall bematched on a 1-to-1 basis by non-Federal funds.
 
 #### (B) Form
 
@@ -162,7 +162,7 @@ The Secretary may provide technical assistance and public interpretation of rela
 
 #### (2) Cost share
 
-&emsp;The management plan shall include provisions that identify costs to be shared by the Federal Government, the State, and the city,and other public or private entities or individuals for necessary capital improvements to, and maintenance and operations of, the park.
+&emsp;The management plan shall include provisions that identify costs to be shared by the Federal Government, the State, and the city, and other public or private entities or individuals for necessary capital improvements to, and maintenance and operations of, the park.
 
 #### (3) Submission to Congress
 

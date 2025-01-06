@@ -50,7 +50,7 @@ The Secretary shall—
 
 &emsp;(1) in cooperation with any other appropriate individual, organization, or agency, provide advice, training, technical assistance, and guidance (which may include awareness training, training films, and troubleshooting advice) to representatives of States and local agencies regarding means of identifying and preventing fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program; and
 
-&emsp;(2) provide information to, and fully cooperate with, the Attorney General and State attorneys general regarding investigations offraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program.
+&emsp;(2) provide information to, and fully cooperate with, the Attorney General and State attorneys general regarding investigations of fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program.
 
 #### (d) Nonprocurement debarment
 
@@ -128,7 +128,7 @@ Notwithstanding any other provision of this section, the Secretary shall initiat
 
 &emsp;(4) is likely to have significant adverse economic impacts on the local economy in a manner that is unfair to innocent parties;
 
-&emsp;(5) is not justified in light of the penalties already imposed on the contractor for violations relevant to the proposed debarment, including any suspension or debarment arisingout of the same matter that is imposed by any Federal or State agency; or
+&emsp;(5) is not justified in light of the penalties already imposed on the contractor for violations relevant to the proposed debarment, including any suspension or debarment arising out of the same matter that is imposed by any Federal or State agency; or
 
 &emsp;(6) is not in the public interest, or otherwise is not in the interests of justice, as determined by the Secretary.
 

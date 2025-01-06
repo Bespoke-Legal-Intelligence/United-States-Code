@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) all parties to the communication are reasonably believed to be non-United States persons;
 
-&emsp;&emsp;&emsp;(v) retention is necessary to protect against an imminent threat to human life,in which case both the nature of the threat and the information to be retained shall be reported to the congressional intelligence committees not later than 30 days after the date such retention is extended under this clause;
+&emsp;&emsp;&emsp;(v) retention is necessary to protect against an imminent threat to human life, in which case both the nature of the threat and the information to be retained shall be reported to the congressional intelligence committees not later than 30 days after the date such retention is extended under this clause;
 
 &emsp;&emsp;&emsp;(vi) retention is necessary for technical assurance or compliance purposes, including a court order or discovery obligation, in which case access to information retained for technical assurance or compliance purposes shall be reported to the congressional intelligence committees on an annual basis; or
 

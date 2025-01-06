@@ -6,5 +6,5 @@ Section, Pub. L. 95–113, title XIV, §1448, as added Pub. L. 101–624, title 
 
 #### Prior Provisions
 
-A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 1923 and 1942 of this title, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 1923 and 1942 ofthis title, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
 

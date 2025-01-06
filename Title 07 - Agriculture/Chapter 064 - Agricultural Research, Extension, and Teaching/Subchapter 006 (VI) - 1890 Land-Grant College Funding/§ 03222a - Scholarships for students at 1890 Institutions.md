@@ -4,7 +4,7 @@
 
 #### (1) Scholarship grant program established
 
-&emsp;The Secretary shall make grants to each college or university eligible to receive funds under the Act of August 30, 1890 (commonly known as the Second Morrill Act; 7 U.S.C. 322 \[321\] et seq.), including Tuskegee University,for purposes of awarding scholarships to individuals who—
+&emsp;The Secretary shall make grants to each college or university eligible to receive funds under the Act of August 30, 1890 (commonly known as the Second Morrill Act; 7 U.S.C. 322 \[321\] et seq.), including Tuskegee University, for purposes of awarding scholarships to individuals who—
 
 &emsp;&emsp;(A) have been accepted for admission at such college or university;
 

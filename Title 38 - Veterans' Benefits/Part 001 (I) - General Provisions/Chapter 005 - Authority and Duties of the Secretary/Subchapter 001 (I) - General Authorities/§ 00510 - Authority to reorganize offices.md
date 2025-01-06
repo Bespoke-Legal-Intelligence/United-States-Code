@@ -20,7 +20,7 @@
 
 (2) Paragraph (1) applies to an administrative reorganization of any unit of the Central Office that is the duty station for 30 or more employees if the reorganization involves a reduction in any fiscal year in the number of full-time equivalent employees with permanent duty station in such unit by 50 percent or more.
 
-(e) For purposes of this section, the term "administrative reorganization" does not include a consolidation or redistribution of functions at a covered field office or facility, or between components of the Veterans Benefits Administration and the Veterans Health Administration at aDepartment medical and regional office center, if after the consolidation or redistribution the same number of full-time equivalent employees continues to perform the affected functions at that field office, facility, or center.
+(e) For purposes of this section, the term "administrative reorganization" does not include a consolidation or redistribution of functions at a covered field office or facility, or between components of the Veterans Benefits Administration and the Veterans Health Administration at a Department medical and regional office center, if after the consolidation or redistribution the same number of full-time equivalent employees continues to perform the affected functions at that field office, facility, or center.
 
 (f) For purposes of this section:
 
@@ -46,7 +46,7 @@
 
 #### Prior Provisions
 
-Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by Pub. L. 94–169, title I, §101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
+Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States ofAmerica, prior to repeal by Pub. L. 94–169, title I, §101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
 
 Provisions similar to those in this section were contained in section 210(b)(1), (2) of this title prior to repeal by Pub. L. 102–83, §2(a).
 

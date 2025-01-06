@@ -4,7 +4,7 @@
 
 (1) Subject to paragraph (3), no funds appropriated to any element of the intelligence community may be obligated for an intelligence community business system transformation that will have a total cost in excess of $3,000,000 unless—
 
-&emsp;(A) the Director of the Office of Business Transformation of the Office of the Director of National Intelligence makes a certification described in paragraph (2) with respect to such intelligence community business system transformation; and
+&emsp;(A) the Director of the Office of Business Transformation of the Office of the Director ofNational Intelligence makes a certification described in paragraph (2) with respect to such intelligence community business system transformation; and
 
 &emsp;(B) such certification is approved by the board established under subsection (f).
 

@@ -32,7 +32,7 @@ In this chapter:
 
 #### (6) Low-Btu gas
 
-&emsp;The term "low-Btu gas" means a fuel gas with a heating value of less than 250 Btu per standard cubic foot measured as the higherheating value resulting from the inclusion of noncombustible gases, including nitrogen, helium, argon, and carbon dioxide.
+&emsp;The term "low-Btu gas" means a fuel gas with a heating value of less than 250 Btu per standard cubic foot measured as the higher heating value resulting from the inclusion of noncombustible gases, including nitrogen, helium, argon, and carbon dioxide.
 
 #### (7) Person
 
@@ -122,7 +122,7 @@ Delivery.—No agreement described in subsection (a) shall affect or diminish th
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §112\], Nov. 29, 1999, 113 Stat. 1535, 1501A–157, provided that:
 
-"(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to the employee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repaymentprovisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
+"(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to the employee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repayment provisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
 
 "(b) Helium Operations employees who elect to continue health benefits after separation shall be liable for not more than the required employee contribution under 5 U.S.C. 8905a(d)(1)(A). The Helium Fund shall pay for 18 months the remaining portion of required contributions.
 

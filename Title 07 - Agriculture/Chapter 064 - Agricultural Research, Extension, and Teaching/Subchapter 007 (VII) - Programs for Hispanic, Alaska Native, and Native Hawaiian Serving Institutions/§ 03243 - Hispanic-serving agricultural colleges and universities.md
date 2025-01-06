@@ -60,7 +60,7 @@ In this section, the term "endowment fund" means the Hispanic-Serving Agricultur
 
 #### (2) Payments
 
-&emsp;For fiscal year 2008 and each fiscal year thereafter, the Secretary of the Treasury shall pay to the treasurer of each Hispanic-serving agricultural college and university an amount equal to—
+&emsp;For fiscal year 2008 and each fiscal year thereafter, the Secretary of the Treasury shallpay to the treasurer of each Hispanic-serving agricultural college and university an amount equal to—
 
 &emsp;&emsp;(A) the total amount made available by appropriations under paragraph (1); divided by
 

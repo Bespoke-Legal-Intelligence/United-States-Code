@@ -80,7 +80,7 @@ Except as provided in subsections (b) and (c), the cost of monitoring and treatm
 
 &emsp;With respect to each calendar quarter for which a contribution is required by New York City under the contract under paragraph (1), the WTC Program Administrator shall—
 
-&emsp;&emsp;(A) provide New York City with an estimate of such amount of the required contribution at the beginning of such quarter and with an updated estimate of such amount at the beginning of each of the subsequent 2 quarters;
+&emsp;&emsp;(A) provide New York City with an estimate of such amount of the required contribution at the beginning of such quarterand with an updated estimate of such amount at the beginning of each of the subsequent 2 quarters;
 
 &emsp;&emsp;(B) bill such amount directly to New York City; and
 

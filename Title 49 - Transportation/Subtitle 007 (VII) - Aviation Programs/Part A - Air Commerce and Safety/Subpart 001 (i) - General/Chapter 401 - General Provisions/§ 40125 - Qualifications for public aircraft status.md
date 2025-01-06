@@ -10,7 +10,7 @@ Commercial purposes.—The term "commercial purposes" means the transportation o
 
 &emsp;(2)
 
-Governmental function.—The term "governmental function" means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
+Governmental function.—The term "governmental function" means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, biological or geological resource management (including data collection on civil aviation systems undergoing research, development, test, or evaluation at a test range (as such term is defined in section 44801)), infrastructure inspections, or any other activity undertaken by a governmental entity that the Administrator determines is inherently governmental.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Limitation.—An aircraft that meets the criteria set forth in paragraph (1) and
 
 (d)
 
-Search and Rescue Purposes.—An aircraft described in section 40102(a)(41)(D) that is not exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of 1 of those governments, qualifies as a public aircraft if the Administrator determines that—
+Search and Rescue Purposes.—An aircraft described in section 40102(a)(41)(D) that isnot exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of 1 of those governments, qualifies as a public aircraft if the Administrator determines that—
 
 &emsp;(1) there are extraordinary circumstances;
 
@@ -58,11 +58,13 @@ Search and Rescue Purposes.—An aircraft described in section 40102(a)(41)(D) t
 
 &emsp;(4) a government entity demonstrates that granting the waiver is necessary to prevent an undue economic burden on that government.
 
-(Added Pub. L. 106–181, title VII, §702(b)(1), Apr. 5, 2000, 114 Stat. 155; amended Pub. L. 110–181, div. A, title X, §1078(b), (c), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–141, div. C, title V, §35003, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title III, §355(b), Oct. 5, 2018, 132 Stat. 3305.)
+(Added Pub. L. 106–181, title VII, §702(b)(1), Apr. 5, 2000, 114 Stat. 155; amended Pub. L. 110–181, div. A, title X, §1078(b), (c), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–141, div. C, title V, §35003, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title III, §355(b), Oct. 5, 2018, 132 Stat. 3305; Pub. L. 118–63, title IX, §923, May 16, 2024, 138 Stat. 1355.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(2). Pub. L. 118–63 substituted "aeronautical research," for "aeronautical research, or" and inserted "(including data collection on civil aviation systems undergoing research, development, test, or evaluation at a test range (as such term is defined in section 44801)), infrastructure inspections, or any other activity undertaken by a governmental entity that the Administrator determines is inherently governmental" after "biological or geological resource management".
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–254 substituted "(D), or (F)" for "or (D)".
 

@@ -36,5 +36,5 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Strategic and Critical Materials Stock Piling Act which comprises this subchapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as partof the Strategic and Critical Materials Stock Piling Act which comprises this subchapter.
 

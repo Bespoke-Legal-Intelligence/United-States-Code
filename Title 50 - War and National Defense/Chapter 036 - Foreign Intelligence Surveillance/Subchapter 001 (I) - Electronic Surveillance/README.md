@@ -16,6 +16,7 @@
 - [&sect; 01808 - Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of&#8230;](%C2%A7%2001808%20-%20Report%20of%20Attorney%20General%20to%20Congressional%20committees%3B%20limitation%20on%20authority%20or%20responsibility%20of%20information%20gathering%20activities%20of%E2%80%A6.md)
 - [&sect; 01809 - Criminal sanctions](%C2%A7%2001809%20-%20Criminal%20sanctions.md)
 - [&sect; 01810 - Civil liability](%C2%A7%2001810%20-%20Civil%20liability.md)
+- [&sect; 01810a - Reporting requirements for civil actions](%C2%A7%2001810a%20-%20Reporting%20requirements%20for%20civil%20actions.md)
 - [&sect; 01811 - Authorization during time of war](%C2%A7%2001811%20-%20Authorization%20during%20time%20of%20war.md)
 - [&sect; 01812 - Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted](%C2%A7%2001812%20-%20Statement%20of%20exclusive%20means%20by%20which%20electronic%20surveillance%20and%20interception%20of%20certain%20communications%20may%20be%20conducted.md)
 - [&sect; 01813 - Procedures for the retention of incidentally acquired communications](%C2%A7%2001813%20-%20Procedures%20for%20the%20retention%20of%20incidentally%20acquired%20communications.md)

@@ -10,21 +10,27 @@
 
 #### Establishment of Innovators Information Repository in the Department of Defense
 
-Pub. L. 115–232, div. A, title II, §220, Aug. 13, 2018, 132 Stat. 1681, provided that:
+Pub. L. 115–232, div. A, title II, §220, Aug. 13, 2018, 132 Stat. 1681, as amended by Pub. L. 118–159, div. A, title II, §224, Dec. 23, 2024, 138 Stat. 1830, provided that:
 
 "(a)
 
-In General.—Not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall, acting through the Defense Technical Information Center, establish an innovators information repository within the Department of Defense in accordance with this section.
+In General.—Not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall, acting through the Chief Digital and Artificial Intelligence Office, the Defense Innovation Unit, and the Defense Technical Information Center, establish an innovators information repository within the Department of Defense in accordance with this section.
 
 "(b)
 
-Maintenance of Information Repository.—The Under Secretary of Defense for Research and Engineering shall maintain the information repository and ensure that it is periodically updated.
+Maintenance of Information Repository.—The Under Secretary of Defense for Research and Engineering shall maintain the information repository and ensure that it is periodically updated in accordance with subsection (e).
 
 "(c)
 
 Elements of Information Repository.—The information repository established under subsection (a) shall—
 
-&emsp;"(1) be coordinated across the Department of Defense enterprise to focus on small business innovators that are small, independent United States businesses, including those participating in the Small Business Innovation Research program or the Small Business Technology Transfer program;
+&emsp;"(1) be coordinated across the Department of Defense to focus on small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)\[)\], including—
+
+&emsp;&emsp;"(A) participants in the Small Business Innovation Research Program or the Small Business Technology Transfer Program established under section 9 of the Small Business Act (15 U.S.C. 638);
+
+&emsp;&emsp;"(B) participants in the pilot program established under section 834 of the National Defense Authorization Act for Fiscal Year 2022 \[Pub. L. 117–81, 10 U.S.C. 4061 note\] or the Rapid Defense Experimentation Reserve of the Department of Defense; and
+
+&emsp;&emsp;"(C) small business concerns that are nontraditional defense contractors (as defined in section 3014 of title 10, United States Code) that work with research, innovation, and advanced project entities;
 
 &emsp;"(2) include appropriate information about each participant, including a description of—
 
@@ -32,15 +38,23 @@ Elements of Information Repository.—The information repository established und
 
 &emsp;&emsp;"(B) the participant's technology with appropriate technical detail and appropriate protections of proprietary information or data;
 
-&emsp;&emsp;"(C) any prior business of the participant with the Department; and
+&emsp;&emsp;"(C) any prior business of the participant with the Department;
 
-&emsp;&emsp;"(D) whether the participant's technology was incorporated into a program of record; and
+&emsp;&emsp;"(D) whether the participant's technology was incorporated into a program of record;
+
+&emsp;&emsp;"(E) the date of the initial award to the participant from the Department of Defense; and
+
+&emsp;&emsp;"(F) the dates of any additional awards made to the participant by the Department of Defense, including the dates of any contracts or other agreements entered into between the participant the Department of Defense \[sic\]; and
 
 &emsp;"(3) incorporate the appropriate classification due to compilation of information.
 
 "(d)
 
-Use of Information Repository.—After the information repository is established under subsection (a), the Secretary shall encourage use of the information repository by Department organizations involved in technology development and protection, including program offices, before initiating a Request for Information or a Request for Proposal to determine whether an organic technology exists or is being developed currently by a an \[sic\] entity supported by the Department (which may include a company, academic consortium, or other entity)."
+Use of Information Repository.—After the information repository is established under subsection (a), the Secretary shall encourage use of the information repository by Department organizations involved in technology development and protection, including program offices, before initiating a Request for Information or a Request for Proposal to determine whether an organic technology exists or is being developed currently by a an \[sic\] entity supported by the Department (which may include a company, academic consortium, or other entity).
+
+"(e)
+
+Updates Required.—Not less frequently than once each fiscal quarter and subject to the availability of appropriations, the head of the Defense Technical Information Center, in coordination with the Under Secretary of Defense for Research and Engineering, shall update the innovators information repository established under this section."
 
 #### National Security Innovation Activities
 
@@ -146,7 +160,7 @@ Notice Required.—Not later than 15 days before the date on which the Under Sec
 
 #### Joint Artificial Intelligence Research, Development, and Transition Activities
 
-Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480; Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470; Pub. L. 118–31, div. A, title XV, §1521(b), Dec. 22, 2023, 137 Stat. 551, provided that:
+Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480; Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470; Pub. L. 118–31, div. A, title XV, §1521(b), Dec. 22, 2023, 137 Stat. 551; Pub. L. 118–159, div. A, title II, §225, Dec. 23, 2024, 138 Stat. 1831, provided that:
 
 "(a)
 
@@ -216,7 +230,7 @@ Acceleration of acquisition, development and fielding of artificial intelligence
 
 &emsp;&emsp;"(C) provide technical advice and support to entities in the Department and the military departments to optimize the use of artificial intelligence and machine learning technologies to meet Department missions;
 
-&emsp;&emsp;"(D) support the development of requirements for artificial intelligence capabilities that address the highest priority capability gaps of the Department and technical feasibility;
+&emsp;&emsp;"(D) support the development of requirements for artificial intelligence capabilities that address thehighest priority capability gaps of the Department and technical feasibility;
 
 &emsp;&emsp;"(E) develop and support capabilities for technical analysis and assessment of threat capabilities based on artificial intelligence;
 
@@ -306,11 +320,19 @@ Duties of council.—The duties of the Council are as follows:
 
 &emsp;&emsp;&emsp;"(ix) To implement and oversee a scorecard to assess data decrees of the Department.
 
-&emsp;&emsp;&emsp;"(x) Such other duties as the Council determines appropriate.
+&emsp;&emsp;&emsp;"(x) With respect to artificial intelligence models and advanced artificial intelligence technologies—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to identify and assess artificial intelligence models and advanced artificial intelligence technologies that could pose a national security risk if accessed by an adversary of the United States;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to develop strategies to prevent unauthorized access and usage of potent artificial intelligence models by countries that are adversaries of the United States; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) to make recommendations to Congress and relevant Federal agencies for legislative or administrative action in the field of artificial intelligence.
+
+&emsp;&emsp;&emsp;"(xi) Such other duties as the Council determines appropriate.
 
 &emsp;&emsp;"(F)
 
-Periodic reports.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 \[Dec. 22, 2023\], and not less frequently than once every 18months thereafter, the Council shall submit to the Secretary and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the activities of the Council during the period covered by the report.
+Periodic reports.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 \[Dec. 22, 2023\], and not less frequently than once every 18 months thereafter, the Council shall submit to the Secretary and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the activities of the Council during the period covered by the report.
 
 "(e)
 
@@ -436,7 +458,7 @@ University Expertise.—
 
 &emsp;"(1)
 
-Arrangement with institutions of higher education.—Using the authority specified in section 217 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2358 note \[now 10 U.S.C. 4001 note\]) or another similar authority, the Office shall seek to enter into an arrangement with one or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which such institutions may provide the Office with foundational and applied hypersonic research, development, and workforce support in areas that the Office determines to be relevant for the Department of Defense.
+Arrangement with institutions of higher education.—Using the authority specified in section217 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2358 note \[now 10 U.S.C. 4001 note\]) or another similar authority, the Office shall seek to enter into an arrangement with one or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which such institutions may provide the Office with foundational and applied hypersonic research, development, and workforce support in areas that the Office determines to be relevant for the Department of Defense.
 
 &emsp;"(2)
 
@@ -512,7 +534,7 @@ Department of Defense Facilities Authority.—(1) If the Secretary determines th
 
 "(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
 
-"(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, orimprove a facility having general utility beyond the specific purposes of the program.
+"(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
 
 "(6) In this subsection, the term 'facility' has the meaning given the term in section 2801(c) of title 10, United States Code.
 
@@ -602,7 +624,7 @@ Elements of Plan.—The plan required by subsection (a) shall include, at a mini
 
 &emsp;"(3) Measures to limit potential disruptions to existing contracts and programs from proposals accepted and incorporated into acquisition programs of the Department of Defense.
 
-&emsp;"(4) Measures to ensure that research and development efforts of small-business concerns are considered as early as possible in a program's acquisitionplanning process to accommodate potential technology insertion without disruption to existing contracts and programs.
+&emsp;"(4) Measures to ensure that research and development efforts of small-business concerns are considered as early as possible in a program's acquisition planning process to accommodate potential technology insertion without disruption to existing contracts and programs.
 
 "(e)
 

@@ -58,7 +58,7 @@
 
 &emsp;(v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year,
 
-&emsp;(vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, and before January 1, 2031, $26 for each individual who is a participant in such plan during the applicable plan year,
+&emsp;(vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014,,<sup>1</sup>and before January 1, 2031, $26 for each individual who is a participant in such plan during the applicable plan year,
 
 &emsp;(vii) in the case of a CSEC plan (as defined in section 1060(f)(1) of this title), for plan years beginning after December 31, 2018, for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
 
@@ -78,7 +78,7 @@
 
 > is for any calendar year less than 2 times the amount of basic benefits guaranteed by the corporation under this subchapter for multiemployer plans which were paid out of any such fund or assets during the preceding calendar year, the annual premium rates under subparagraph (A) shall be increased to the next highest premium level necessary to insure that such sum will be at least 2 times greater than such amount during the following calendar year.
 
-(ii) If the board of directors of the corporation determines that an increase in the premiumrates under subparagraph (A) is necessary to provide assistance to plans which are receiving assistance under section 1431 of this title and to plans the board finds are reasonably likely to require such assistance, the board may order such increase in the premium rates.
+(ii) If the board of directors of the corporation determines that an increase in the premium rates under subparagraph (A) is necessary to provide assistance to plans which are receiving assistance under section 1431 of this title and to plans the board finds are reasonably likely to require such assistance, the board may order such increase in the premium rates.
 
 (iii) The maximum annual premium rate which may be established under this subparagraph is $2.60 for each participant.
 
@@ -212,7 +212,7 @@
 
 > &emsp;If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
-(4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates,and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
+(4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
 
 (5)(A) In carrying out its authority under paragraph (1) to establish schedules of premium rates, and bases for the application of those rates, for nonbasic benefits guaranteed under sections 1322 and 1322a of this title the premium rates charged by the corporation for any period for nonbasic benefits guaranteed shall—
 
@@ -256,7 +256,7 @@ In general.—If there is a termination of a single-employer plan under clause (
 
 &emsp;(B)
 
-Special rule for plans terminated in bankruptcy reorganization.—In the case of a single-employer plan terminated under section 1341(c)(2)(B)(ii) of this title or under section 1342 of this title during pendency of any bankruptcy reorganization proceeding under chapter 11 of title 11 or under any similar law of a State or a political subdivision of a State (or a case described in section 1341(c)(2)(B)(i) of this title filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought), subparagraph (A) shall not apply to such plan until the date of the discharge or dismissal of such person in such case.
+Special rule for plans terminated in bankruptcy reorganization.—In the case of a single-employer plan terminated under section1341(c)(2)(B)(ii) of this title or under section 1342 of this title during pendency of any bankruptcy reorganization proceeding under chapter 11 of title 11 or under any similar law of a State or a political subdivision of a State (or a case described in section 1341(c)(2)(B)(i) of this title filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought), subparagraph (A) shall not apply to such plan until the date of the discharge or dismissal of such person in such case.
 
 &emsp;(C)
 
@@ -400,7 +400,7 @@ CSEC plans.—In the case of a CSEC plan (as defined in section 1060(f)(1) of th
 
 &emsp;(B) a fraction—
 
-&emsp;&emsp;(i) the numerator of which is the number of calendar months in the plan year which ends after September 2, 1974, and before the date on which the new plan year commences, and
+&emsp;&emsp;(i) the numerator of which is the number of calendar months in the plan year whichends after September 2, 1974, and before the date on which the new plan year commences, and
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
@@ -586,7 +586,7 @@ Subsec. (a)(6). Pub. L. 99–272, §11005(b)(2), added par. (6).
 
 Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted "joint" for "concurrent" and "The" for "That the Congress favors the" and inserted "is hereby approved".
 
-Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and".
+Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
@@ -612,7 +612,7 @@ Pub. L. 114–74, title V, §501(b)(3), Nov. 2, 2015, 129 Stat. 593, provided th
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–235, div. O, title I, §131(d), Dec. 16, 2014, 128 Stat. 2798, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014."
+Pub. L. 113–235, div. O, title I, §131(d), Dec. 16, 2014, 128 Stat. 2798, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014."
 
 #### Effective Date of 2013 Amendment
 

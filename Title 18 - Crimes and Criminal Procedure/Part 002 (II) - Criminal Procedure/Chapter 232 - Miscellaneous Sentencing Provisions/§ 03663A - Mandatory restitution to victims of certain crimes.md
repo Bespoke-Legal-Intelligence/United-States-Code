@@ -1,10 +1,20 @@
 ### §3663A. Mandatory restitution to victims of certain crimes
 
-(a)(1) Notwithstanding any other provision of law, when sentencing a defendant convicted of an offense described in subsection (c), the courtshall order, in addition to, or in the case of a misdemeanor, in addition to or in lieu of, any other penalty authorized by law, that the defendant make restitution to the victim of the offense or, if the victim is deceased, to the victim's estate.
+(a)(1) Notwithstanding any other provision of law, when sentencing a defendant convicted of an offense described in subsection (c), the court shall order, in addition to, or in the case of a misdemeanor, in addition to or in lieu of, any other penalty authorized by law, that the defendant make restitution to the victim of the offense or, if the victim is deceased, to the victim's estate.
 
 (2) For the purposes of this section, the term "victim" means a person directly and proximately harmed as a result of the commission of an offense for which restitution may be ordered including, in the case of an offense that involves as an element a scheme, conspiracy, or pattern of criminal activity, any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern. In the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, may assume the victim's rights under this section, but in no event shall the defendant be named as such representative or guardian.
 
 (3) The court shall also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
+
+(4)
+
+Clarification.—In ordering restitution under this section, a court shall order the defendant to make restitution to a person who has assumed the victim's rights under paragraph (2) to reimburse that person's necessary and reasonable—
+
+&emsp;(A) lost income, child care, transportation, and other expenses incurred during and directly related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense;
+
+&emsp;(B) lost income, transportation, and other expenses incurred that are directly related to transporting the victim for necessary medical and related professional services and devices relating to physical, psychiatric, and psychological care, including nonmedical care and treatment rendered in accordance with a method of healing recognized by the law of the place of treatment; and
+
+&emsp;(C) lost income, transportation, and other expenses incurred that are directly related to transporting the victim to receive necessary physical and occupational therapy and rehabilitation.
 
 (b) The order of restitution shall require that such defendant—
 
@@ -60,7 +70,7 @@
 
 (d) An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, §6, Oct. 5, 2012, 126 Stat. 1430; Pub. L. 116–206, §5, Dec. 4, 2020, 134 Stat. 1000.)
+(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, §6, Oct. 5, 2012, 126 Stat. 1430; Pub. L. 116–206, §5, Dec. 4, 2020, 134 Stat. 1000; Pub. L. 118–77, §2, July 30, 2024, 138 Stat. 1510.)
 
 #### <b>Editorial Notes</b>
 
@@ -69,6 +79,8 @@
 Section 3 of the Rodchenkov Anti-Doping Act of 2019, referred to in subsec. (c)(1)(A)(iii), is classified to section 2402 of Title 21, Food and Drugs.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(4). Pub. L. 118–77 added par. (4).
 
 <b>2020</b>—Subsec. (c)(1)(A)(iii) to (v). Pub. L. 116–206, §5(1), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
@@ -82,5 +94,5 @@ Subsec. (c)(3). Pub. L. 116–206, §5(2), inserted "or (iii)" after "paragraph 
 
 #### Effective Date
 
-Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases inwhich defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
+Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
 

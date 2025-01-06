@@ -6,7 +6,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (b) Specified sessions
 
-The President, by and with the advice and consent of the Senate, may appoint or designatefrom time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
+The President, by and with the advice and consent of the Senate, may appoint or designate from time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
 
 #### (c) Designation of other persons
 
@@ -28,7 +28,7 @@ The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–113 inserted at end "The Representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the Agency."
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–465 substituted "sections 401, 402, and 403 of the Foreign Service Act of 1980 for chiefs of mission, members of the Senior Foreign Service," for "sections 866 and 867 of this title, for Chiefs of Mission" and "under the Foreign Service Act of 1980 by chiefs of mission, members of the Senior Foreign Service," for "by Chiefs of Mission".
+<b>1980</b>—Subsec. (d). Pub. L. 96–465 substituted "sections 401, 402, and 403 of the Foreign Service Act of 1980 forchiefs of mission, members of the Senior Foreign Service," for "sections 866 and 867 of this title, for Chiefs of Mission" and "under the Foreign Service Act of 1980 by chiefs of mission, members of the Senior Foreign Service," for "by Chiefs of Mission".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -74,7 +74,7 @@ Request for iaea reports.—The Secretary of State shall direct the United State
 
 &emsp;"(2)
 
-Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter,the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
+Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
 
 #### Termination of Authority Under This Section
 

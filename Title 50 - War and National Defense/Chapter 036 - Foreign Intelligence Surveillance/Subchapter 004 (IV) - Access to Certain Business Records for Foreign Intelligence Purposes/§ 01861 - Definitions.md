@@ -18,7 +18,7 @@ As used in this subchapter:
 
 #### Codification
 
-Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June 2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, §705(a), (c). See 2015 Amendment notes below.
+Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, §705(a), (c). See 2015 Amendment notes below.
 
 #### Prior Provisions
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 109–177, §106(c), (d), amended subsec. (c) generally. Pr
 
 Subsec. (d). Pub. L. 109–177, §106(e), amended subsec. (d) generally. Prior to amendment, text read as follows: "No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section."
 
-Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance."
+Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance."
 
 Subsec. (f). Pub. L. 109–178, §3, amended subsec. (f) generally. Prior to amendment, subsec. (f) provided for judicial proceedings relating to challenging an order to produce tangible things.
 

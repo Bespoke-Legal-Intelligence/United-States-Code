@@ -114,7 +114,7 @@
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which provide for the proper application of subparagraphs (B), (C), and (D) of paragraph (2), and modify the application of subsection (a)(3)(B), in connection with the application of this paragraph.
+&emsp;&emsp;The Secretary shall prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which provide for the proper application of subparagraphs (B), (C),and (D) of paragraph (2), and modify the application of subsection (a)(3)(B), in connection with the application of this paragraph.
 
 #### (c) Taxability of corporation on distribution
 
@@ -618,7 +618,7 @@ Amendment by section 101(m) of Pub. L. 115–141 effective as if included in the
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title III, §311(c), Dec. 18, 2015, 129 Stat. 3091, provided that: "The amendments madeby this section \[amending this section and section 856 of this title\] shall apply to distributions on or after December 7, 2015, but shall not apply to any distribution pursuant to a transaction described in a ruling request initially submitted to the Internal Revenue Service on or before such date, which request has not been withdrawn and with respect to which a ruling has not been issued or denied in its entirety as of such date."
+Pub. L. 114–113, div. Q, title III, §311(c), Dec. 18, 2015, 129 Stat. 3091, provided that: "The amendments made by this section \[amending this section and section 856 of this title\] shall apply to distributions on or after December 7, 2015, but shall not apply to any distribution pursuant to a transaction described in a ruling request initially submitted to the Internal Revenue Service on or before such date, which request has not been withdrawn and with respect to which a ruling has not been issued or denied in its entirety as of such date."
 
 #### Effective Date of 2014 Amendment
 
@@ -726,7 +726,7 @@ Amendment by section 11702(e)(2) of Pub. L. 101–508 effective as if included i
 
 Amendment by section 1018(d)(5)(C) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 2004(k)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by section 2004(k)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 

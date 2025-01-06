@@ -74,7 +74,7 @@ Modification.—The amendments made by subsection (b) \[amending this section\] 
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §118(b), Dec. 19, 2014, 128 Stat. 4015, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §118(b), Dec. 19, 2014, 128 Stat. 4015, provided that: "The amendment made bythis section \[amending this section\] shall apply to payments made after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 

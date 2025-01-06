@@ -152,9 +152,11 @@ For purposes of this section—
 
 &emsp;For purposes of paragraph (2), the term "eligible fuel" means—
 
-&emsp;&emsp;(A) biodiesel and renewable diesel (within the meaning of section 40A), and
+&emsp;&emsp;(A) biodiesel and renewable diesel (within the meaning of section 40A),
 
-&emsp;&emsp;(B) second generation biofuel (within the meaning of section 40).
+&emsp;&emsp;(B) second generation biofuel (within the meaning of section 40), and
+
+&emsp;&emsp;(C) transportation fuel (as defined in section 45Z(d)(5)).
 
 #### (e) Home energy audits
 
@@ -180,7 +182,7 @@ For purposes of this section—
 
 #### (B) Limits applied separately
 
-&emsp;&emsp;In the case of any expenditure described in subparagraph (A), the amount of the creditallowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
+&emsp;&emsp;In the case of any expenditure described in subparagraph (A), the amount of the credit allowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
 
 #### (3) Property financed by subsidized energy financing
 
@@ -190,7 +192,35 @@ For purposes of this section—
 
 For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
-#### (h) Termination
+#### (h) Product identification number requirement
+
+#### (1) In general
+
+&emsp;No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024, unless—
+
+&emsp;&emsp;(A) such item is produced by a qualified manufacturer, and
+
+&emsp;&emsp;(B) the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.
+
+#### (2) Qualified product identification number
+
+&emsp;For purposes of this section, the term "qualified product identification number" means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).
+
+#### (3) Qualified manufacturer
+
+&emsp;For purposes of this section, the term "qualified manufacturer" means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—
+
+&emsp;&emsp;(A) assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),
+
+&emsp;&emsp;(B) label such item with such number in such manner as the Secretary may provide, and
+
+&emsp;&emsp;(C) make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.
+
+#### (4) Specified property
+
+&emsp;For purposes of this subsection, the term "specified property" means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
+
+#### (i) Termination
 
 This section shall not apply with respect to any property placed in service—
 
@@ -199,46 +229,6 @@ This section shall not apply with respect to any property placed in service—
 &emsp;(2) after December 31, 2032.
 
 (Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §§141(a), 148(b)(3), Dec. 27, 2020, 134 Stat. 3054, 3055; Pub. L. 117–169, title I, §§13301(a)–(f)(3)(A), (g)(1), (h)(1), 13704(b)(1), Aug. 16, 2022, 136 Stat. 1941–1946, 2002.)
-
-#### Amendment of Section
-
-<i>Pub. L. 117–169, title I, §13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking "and" at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting ", and", and by adding at the end the following new subparagraph:</i>
-
-&emsp;&emsp;<i>(C) transportation fuel (as defined in section 45Z(d)(5)).</i>
-
-<i>See 2022 Amendment note below.</i>
-
-<i>Pub. L. 117–169, title I, §13301(g)(1), (i)(3), Aug. 16, 2022, 136 Stat. 1941, 1946, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:</i>
-
-#### <i>(h) Product identification number requirement</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024, unless—</i>
-
-&emsp;&emsp;<i>(A) such item is produced by a qualified manufacturer, and</i>
-
-&emsp;&emsp;<i>(B) the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.</i>
-
-#### <i>(2) Qualified product identification number</i>
-
-&emsp;<i>For purposes of this section, the term "qualified product identification number" means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).</i>
-
-#### <i>(3) Qualified manufacturer</i>
-
-&emsp;<i>For purposes of this section, the term "qualified manufacturer" means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—</i>
-
-&emsp;&emsp;<i>(A) assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),</i>
-
-&emsp;&emsp;<i>(B) label such item with such number in such manner as the Secretary may provide, and</i>
-
-&emsp;&emsp;<i>(C) make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.</i>
-
-#### <i>(4) Specified property</i>
-
-&emsp;<i>For purposes of this subsection, the term "specified property" means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).</i>
-
-<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 

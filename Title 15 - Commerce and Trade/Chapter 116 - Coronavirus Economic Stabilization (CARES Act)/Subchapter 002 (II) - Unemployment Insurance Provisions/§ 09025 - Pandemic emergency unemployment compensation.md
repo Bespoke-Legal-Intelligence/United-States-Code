@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(i) is registered for employment services in such a manner and to such extent as prescribed by the State agency;
 
-&emsp;&emsp;&emsp;(ii) has engaged in an active search for employment that is appropriate in light ofthe employment available in the labor market, the individual's skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
+&emsp;&emsp;&emsp;(ii) has engaged in an active search for employment that is appropriate in light of the employment available in the labor market, the individual's skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
 
 &emsp;&emsp;&emsp;(iii) has maintained a record of such work search, including employers contacted, method of contact, and date contacted; and
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act (42 U.S.C. 1101(a)) <sup>3</sup> of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act (42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this section.
+&emsp;&emsp;There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act (42 U.S.C. 1101(a)) <sup>3</sup> of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as providedin title III of the Social Security Act (42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this section.
 
 #### (B) Transfer of funds
 
@@ -228,7 +228,7 @@ An agreement entered into under this section shall apply to weeks of unemploymen
 
 The amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020, referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 206 of chapter 1 of subtitle A of title II of div. N of Pub. L. 116–260, which amended this section.
 
-The amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021, referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 9016 of Pub. L. 117–2, which amended this section.
+The amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021,referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 9016 of Pub. L. 117–2, which amended this section.
 
 Sections 203(c) and 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(8) and (f), respectively, are sections 203(c) and 205 of Pub. L. 91–373, which are set out in a note under section 3304 of Title 26, Internal Revenue Code.
 

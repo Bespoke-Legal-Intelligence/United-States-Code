@@ -18,7 +18,7 @@ Tribal sponsor preference.—Consistent with section 703(i) of the Civil Rights 
 
 &emsp;(2)
 
-State preference.—A State may implement a preference for employment of Indianson a project carried out under this subchapter near an Indian reservation.
+State preference.—A State may implement a preference for employment of Indians on a project carried out under this subchapter near an Indian reservation.
 
 &emsp;(3)
 

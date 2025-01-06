@@ -36,7 +36,7 @@ Not later than 3 months after January 1, 2021, and not less frequently than once
 
 &emsp;(4) ceasing the involvement of the security and intelligence services officials, and their immediate family members, in the illicit trade in mineral resources, including petroleum and gold;
 
-&emsp;(5) implementing a publicly transparent methodology for the Government of Sudan to recover, evaluate, hold, manage, or divest any state assets and the profits derived from the assets that may have been transferred to the National Congress Party, an affiliate of the National Congress Party, or an official of the National Congress Party in the individual capacity of such an official;
+&emsp;(5) implementing a publicly transparent methodology for the Government of Sudan to recover, evaluate, hold, manage, or divest any state assets and the profits derived from the assets that may have been transferred to theNational Congress Party, an affiliate of the National Congress Party, or an official of the National Congress Party in the individual capacity of such an official;
 
 &emsp;(6) identifying and monitoring the nature and purpose of offshore financial resources controlled by the security and intelligence services; and
 

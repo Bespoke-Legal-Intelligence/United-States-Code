@@ -44,7 +44,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 &emsp;&emsp;&emsp;(v) Education to improve parenting skills for mothers and fathers and to strengthen marriages.
 
-&emsp;&emsp;&emsp;(vi) Maternity and baby clothing, baby food (including formula), baby furniture, and similar items to assist parents and prospective parents in meeting the material needs of their children.
+&emsp;&emsp;&emsp;(vi) Maternity and baby clothing, baby food (including formula), baby furniture,and similar items to assist parents and prospective parents in meeting the material needs of their children.
 
 &emsp;&emsp;&emsp;(vii) Post-partum counseling.
 

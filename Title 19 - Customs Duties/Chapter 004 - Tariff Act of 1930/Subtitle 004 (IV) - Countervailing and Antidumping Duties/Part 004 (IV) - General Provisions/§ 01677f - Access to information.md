@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Upon receipt of an application (before or after receipt of the information requested) which describes in general terms the information requested and sets forth the reasons for the request, the administering authority or the Commission shall make all business proprietary information presented to, or obtained by it, during a proceeding (except privileged information, classified information, and specific information of a type for which there is a clear and compelling need to withhold from disclosure) available to interested parties who are parties to the proceeding under a protective order described in subparagraph (B), regardless of when the information is submitted during a proceeding. Customer names obtained during any investigation which requires a determination under section 1671d(b) or 1673d(b) of this title may not be disclosed by the administering authority under protective order until either an order is published under section 1671e(a) or 1673e(a) of this title as a result of the investigation or the investigation is suspended or terminated. The Commission may delay disclosure of customer names under protective order during any such investigation until a reasonable time prior to any hearing provided under section 1677c of this title.
+&emsp;&emsp;Upon receipt of an application (before or after receipt of the information requested) which describes in general terms the information requested and sets forth the reasons for the request, the administering authority or the Commission shall make all business proprietary information presented to, or obtained by it, during a proceeding (except privileged information, classified information, and specific information of a type for which there is a clear and compelling need to withhold from disclosure) available to interested parties who are parties to the proceeding under a protective order described in subparagraph (B), regardless of when the information is submitted during a proceeding.Customer names obtained during any investigation which requires a determination under section 1671d(b) or 1673d(b) of this title may not be disclosed by the administering authority under protective order until either an order is published under section 1671e(a) or 1673e(a) of this title as a result of the investigation or the investigation is suspended or terminated. The Commission may delay disclosure of customer names under protective order during any such investigation until a reasonable time prior to any hearing provided under section 1677c of this title.
 
 #### (B) Protective order
 
@@ -144,7 +144,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authorityor the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
@@ -232,7 +232,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;In addition to the requirements set forth in paragraph (2)—
 
-&emsp;&emsp;(A) the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, orthe suspension of the investigation, with respect to which the determination is made; and
+&emsp;&emsp;(A) the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, or the suspension of the investigation, with respect to which the determination is made; and
 
 &emsp;&emsp;(B) the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
 
@@ -252,7 +252,7 @@ Pub. L. 116–113, §422(a)(1), substituted "the United States-Canada Agreement 
 
 Subsec. (f)(1)(A). Pub. L. 116–260, §601(f)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2)."
 
-Pub. L. 116–113, §422(a)(2)(A), substituted "article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority" for "article 1904 of the NAFTA or the United States-Canada Agreement, or an extraordinary challenge committee is convened under Annex 1904.13 of the NAFTA or the United States-Canada Agreement, the administering authority".
+Pub. L. 116–113, §422(a)(2)(A), substituted "article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the UnitedStates-Canada Agreement or chapter 10 of the USMCA, the administering authority" for "article 1904 of the NAFTA or the United States-Canada Agreement, or an extraordinary challenge committee is convened under Annex 1904.13 of the NAFTA or the United States-Canada Agreement, the administering authority".
 
 Subsec. (f)(1)(B)(iii). Pub. L. 116–113, §422(a)(2)(B), substituted "chapter 19 of the Agreement or chapter 10 of the USMCA" for "chapter 19 of the NAFTA or the Agreement".
 
@@ -306,7 +306,7 @@ Subsec. (g). Pub. L. 101–382, §135(b)(2), added subsec. (g).
 
 <b>1988</b>—Subsec. (b)(1)(B)(ii). Pub. L. 100–418, §1332(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "a statement that the information should not be released under administrative protective order."
 
-Subsec. (c)(1)(A). Pub. L. 100–418, §1332(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Upon receipt of an application, (before or after receipt of the information requested) which describes with particularity the information requested and sets forth the reasons for the request, the administering authority and the Commission may make proprietary information submitted by any other party to the investigation available under a protective order described in subparagraph (B)."
+Subsec. (c)(1)(A). Pub. L. 100–418, §1332(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Upon receipt of an application, (before or after receipt of the information requested) which describes with particularity the information requested and sets forth the reasons for the request, the administering authority and the Commission may make proprietary information submitted by any other party tothe investigation available under a protective order described in subparagraph (B)."
 
 Subsec. (c)(1)(C) to (E). Pub. L. 100–418, §1332(2)(B), added subpars. (C) to (E).
 
@@ -350,7 +350,7 @@ Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters i
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 

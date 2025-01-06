@@ -6,7 +6,7 @@ Any person who willfully and knowingly does or causes or suffers to be done any 
 
 #### (b) Violation of this chapter, rules, or regulations
 
-Any person who willfully and knowingly violates this chapter or any rule, regulation, restriction, or condition made or imposed by theCommission under authority of this chapter, or any rule, regulation, restriction, or condition made or imposed by any international radio or wire communications treaty or convention, or regulations annexed thereto, to which the United States is party, relating to pirate radio broadcasting shall, in addition to any other penalties provided by law, be subject to a fine of not more than $100,000 for each day during which such offense occurs, in accordance with the limit described in subsection (a).
+Any person who willfully and knowingly violates this chapter or any rule, regulation, restriction, or condition made or imposed by the Commission under authority of this chapter, or any rule, regulation, restriction, or condition made or imposed by any international radio or wire communications treaty or convention, or regulations annexed thereto, to which the United States is party, relating to pirate radio broadcasting shall, in addition to any other penalties provided by law, be subject to a fine of not more than $100,000 for each day during which such offense occurs, in accordance with the limit described in subsection (a).
 
 #### (c) Annual report
 
@@ -62,5 +62,5 @@ In this section, the term "pirate radio broadcasting" means the transmission of 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

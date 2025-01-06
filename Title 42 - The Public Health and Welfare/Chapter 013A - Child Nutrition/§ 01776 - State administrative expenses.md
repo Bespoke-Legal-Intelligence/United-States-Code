@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall allocate to each State for administrative costs incurred in any fiscal year in connection with the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] or under this chapter, except for the programs authorized under section 13 or 17 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1761, 1766\] or under section 1786 of this title, an amount equal to not less than 1 percent and not more than 1½ percent of the funds expended by each State under sections 4 and 11 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1753, 1759a\] and sections 1772 and 1773 of this title during the second preceding fiscal year.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall allocate to each State for administrative costs incurred in any fiscal year in connection with the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] or under this chapter, except for the programs authorized under section 13 or 17 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1761, 1766\] or under section 1786 of this title, an amount equal to not less than 1 percent and not more than 1½ percent of thefunds expended by each State under sections 4 and 11 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1753, 1759a\] and sections 1772 and 1773 of this title during the second preceding fiscal year.
 
 #### (B) Minimum amount
 
@@ -34,7 +34,7 @@
 
 (3) The Secretary shall allocate to each State for its administrative costs incurred under the program authorized by section 17 of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1766\] in any fiscal year an amount, based upon funds expended under that program in the second preceding fiscal year, equal to (A) 20 percent of the first $50,000, (B) 10 percent of the next $100,000, (C) 5 percent of the next $250,000, and (D) 2½ percent of any remaining funds. If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5). The Secretary may adjust any State's allocation to reflect changes in the size of its program.
 
-(4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in theStates of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
+(4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
 
 (5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
 
@@ -84,7 +84,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 #### (A) In general
 
-&emsp;&emsp;After submitting the initial plan, a State shall be required to submit to the Secretaryfor approval only a substantive change in the plan.
+&emsp;&emsp;After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.
 
 #### (B) Plan contents
 
@@ -164,7 +164,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (iii) Required participation
 
-&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency or school food authority shall ensure that an individual conductingor overseeing administrative procedures described in clause (i) receives training at least annually, unless determined otherwise by the Secretary.
+&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency or school food authority shall ensure that an individual conducting or overseeing administrative procedures described in clause (i) receives training at least annually, unless determined otherwise by the Secretary.
 
 #### (B) Training and certification of all local food service personnel
 
@@ -228,7 +228,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
+&emsp;&emsp;The Secretary may retain a portion of the amount provided to cover costs of activitiescarried out by the Secretary in lieu of the State.
 
 #### (3) Allocation
 
@@ -264,7 +264,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States tobe used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 #### (B) Infrastructure development plan
 
@@ -300,7 +300,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided in subparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided insubparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
 
 Subsec. (g). Pub. L. 111–296, §306, added subsec. (g) and struck out former subsec. (g) which required each State to provide, at least annually, training in administrative practices, with emphasis on the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004, and set out the Federal role and procedures for required participation.
 
@@ -394,7 +394,7 @@ Subsec. (i). Pub. L. 96–499, §201(b)(2), substituted "September 30, 1984" for
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2004 Amendment
 

@@ -32,7 +32,7 @@ Section was formerly classified to section 616 of Title 5 prior to the general r
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Bureau of Employees' Compensation transferred to Department of Labor from Federal Security Agency by Reorg. Plan No. 19 of 1950, §1, which was repealed byPub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662, the subject matter of which is covered by section 8101 et seq. of Title 5. Subsequently, Bureau of Compensation absorbed by Employment Standards Administration in Department of Labor.
+Bureau of Employees' Compensation transferred to Department of Labor from Federal Security Agency by Reorg. Plan No. 19 of 1950, §1, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662, the subject matter of which is covered by section 8101 et seq. of Title 5. Subsequently, Bureau of Compensation absorbed by Employment Standards Administration in Department of Labor.
 
 Bureau of Labor Standards established in Department of Labor by departmental order in 1934, and its functions absorbed by Occupational Safety and Health Administration in May 1971.
 

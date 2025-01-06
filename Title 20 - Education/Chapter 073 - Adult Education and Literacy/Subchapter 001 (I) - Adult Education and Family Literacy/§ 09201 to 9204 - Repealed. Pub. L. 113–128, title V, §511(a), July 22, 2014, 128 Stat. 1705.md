@@ -4,7 +4,7 @@ Section 9201, Pub. L. 105–220, title II, §202, Aug. 7, 1998, 112 Stat. 1059, 
 
 Section 9202, Pub. L. 105–220, title II, §203, Aug. 7, 1998, 112 Stat. 1060; Pub. L. 105–244, title I, §102(d)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 107–110, title X, §1076(s), Jan. 8, 2002, 115 Stat. 2092, provided the definitions of this subchapter.
 
-Section 9203, Pub. L. 105–220, title II, §204, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, related to the effect of this subchapter on home schools.
+Section 9203, Pub. L. 105–220, title II, §204, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, related to the effect of this subchapter on home schools.
 
 Section 9204, Pub. L. 105–220, title II, §205, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, authorized appropriations.
 

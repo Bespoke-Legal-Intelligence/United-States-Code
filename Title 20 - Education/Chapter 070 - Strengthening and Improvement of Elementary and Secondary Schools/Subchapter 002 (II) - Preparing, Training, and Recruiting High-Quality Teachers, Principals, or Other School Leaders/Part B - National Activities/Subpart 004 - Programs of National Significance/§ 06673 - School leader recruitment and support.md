@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds reserved under section 6671(2) of this title for a fiscal year, the Secretary shallaward grants, on a competitive basis, to eligible entities to enable such entities to improve the recruitment, preparation, placement, support, and retention of effective principals or other school leaders in high-need schools, which may include—
+From the funds reserved under section 6671(2) of this title for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities to enable such entities to improve the recruitment, preparation, placement, support, and retention of effective principals or other school leaders in high-need schools, which may include—
 
 &emsp;(1) developing or implementing leadership training programs designed to prepare and support principals or other school leaders in high-need schools, including through new or alternative pathways or school leader residency programs;
 
@@ -74,7 +74,7 @@ In this section:
 
 &emsp;The term "eligible entity" means—
 
-&emsp;&emsp;(A) a local educational agency, including an educational service agency, that serves a high-need school or a consortium of such agencies;
+&emsp;&emsp;(A) a local educational agency, including an educational service agency, that serves ahigh-need school or a consortium of such agencies;
 
 &emsp;&emsp;(B) a State educational agency or a consortium of such agencies;
 

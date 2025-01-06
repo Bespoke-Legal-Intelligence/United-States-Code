@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) to meet national goals, it is essential that all forest and rangeland renewable resources (hereinafter in this subchapter referred to as "renewable resources"), including fish and wildlife, forage, outdoor recreation opportunities, timber, and water, be fully considered in designing educational programs for landowners, processors, and users;
 
-&emsp;(3) more efficient utilization and marketing of renewable resources extend available supplies of such resources, provide products to consumers at prices less than they would otherwise be, and promote reasonable returns on the investments of landowners, processors, and users;
+&emsp;(3) more efficient utilization and marketing of renewable resources extend available supplies of such resources, provide products to consumers at prices less than they would otherwise be, and promote reasonable returns onthe investments of landowners, processors, and users;
 
 &emsp;(4) trees and forests in urban areas improve the esthetic quality, reduce noise, filter impurities from the air and add oxygen to it, save energy by moderating temperature extremes, control wind and water erosion, and provide habitat for wildlife; and
 

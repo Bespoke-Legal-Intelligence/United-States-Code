@@ -8,7 +8,7 @@ Requirement for Employment by States of a Sufficient Number of Specialists.—(1
 
 &emsp;(B) Other disabled veterans.
 
-&emsp;(C) Other eligible veterans in accordance with priorities determined by the Secretarytaking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
+&emsp;(C) Other eligible veterans in accordance with priorities determined by the Secretary taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
 
 (2) In the provision of services in accordance with this subsection, maximum emphasis in meeting the employment needs of veterans shall be placed on assisting economically or educationally disadvantaged veterans.
 
@@ -54,7 +54,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted "includ
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–446 substituted "rates comparable to those paid other professionals performing essentially similar duties" for "a rate not less than the rate prescribed for an entry level professional".
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §501, substituted "specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans." for "specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State."
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §501, substituted "specialist for each 6,900 veterans residing in suchState who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans." for "specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State."
 
 Subsec. (b)(1)(A). Pub. L. 102–568, §503, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title."
 
@@ -118,7 +118,7 @@ Pub. L. 107–288, §4(b)(3), Nov. 7, 2002, 116 Stat. 2044, provided that: "The 
 
 #### Effective Date of 1998 Amendments
 
-Pub. L. 105–368, title X, §1004(b), Nov. 11, 1998, 112 Stat. 3364, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to appointments of disabled veterans' outreach program specialists under section 4103A of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 11, 1998\]."
+Pub. L. 105–368, title X, §1004(b), Nov. 11, 1998, 112 Stat. 3364, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to appointments of disabled veterans' outreachprogram specialists under section 4103A of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 11, 1998\]."
 
 Amendment by section 101(f) \[title VIII, §405(d)(29)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(21)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

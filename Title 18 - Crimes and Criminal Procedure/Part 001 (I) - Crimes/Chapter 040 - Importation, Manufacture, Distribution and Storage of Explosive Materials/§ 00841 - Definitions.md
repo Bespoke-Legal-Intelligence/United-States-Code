@@ -138,7 +138,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the taggingof smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 

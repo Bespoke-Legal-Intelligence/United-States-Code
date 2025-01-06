@@ -86,7 +86,7 @@ Under regulations prescribed by the Secretary, an officer participating in a pro
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), an officer who participates in a program under this section is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
+&emsp;&emsp;Subject to subparagraph (B), an officer who participates in a program under thissection is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
 
 &emsp;&emsp;&emsp;(i) travel performed from the residence of the officer, at the time of release from active duty to participate in the program, to the location in the United States designated by the officer as the officer's residence during the period of participation in the program; and
 

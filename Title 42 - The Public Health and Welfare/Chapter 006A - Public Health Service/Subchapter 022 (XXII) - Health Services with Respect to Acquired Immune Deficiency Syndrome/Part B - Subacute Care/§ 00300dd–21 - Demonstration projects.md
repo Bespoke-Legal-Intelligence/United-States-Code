@@ -20,7 +20,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 &emsp;&emsp;(i) subacute care;
 
-&emsp;&emsp;(ii) emergency medical care and specialized diagnostic and therapeutic services as needed and where appropriate, either directly or through affiliation with a hospital that has experience in treating individuals with acquired immune deficiency syndrome; and
+&emsp;&emsp;(ii) emergency medical care and specialized diagnostic and therapeutic services asneeded and where appropriate, either directly or through affiliation with a hospital that has experience in treating individuals with acquired immune deficiency syndrome; and
 
 &emsp;&emsp;(iii) case management services to ensure, through existing services and programs whenever possible, appropriate discharge planning for such individuals; and
 

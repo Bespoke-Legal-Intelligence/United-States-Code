@@ -10,7 +10,7 @@ Reduction of Perceived Stigma.—The regulations required by subsection (a) shal
 
 &emsp;(1) seek to eliminate perceived stigma associated with seeking and receiving mental health services, promoting the use of mental health services on a basis comparable to the use of other medical and health services; and
 
-&emsp;(2) clarify the appropriate action to be taken by commanders or supervisory personnel who, in good faith, believe that a subordinate may require a mental health evaluation.
+&emsp;(2) clarify the appropriate action to be taken by commanders or supervisory personnel who,in good faith, believe that a subordinate may require a mental health evaluation.
 
 (c)
 
@@ -38,7 +38,7 @@ Self-initiated Referral Process.—(1) The regulations required by subsection (a
 
 &emsp;(C) ensure that the process described in subparagraph (A)—
 
-&emsp;&emsp;(i) reduces stigma in accordance with subsection (b), including by treating referralsfor mental health evaluations made pursuant to such process in a manner similar to referrals for other medical services, to the maximum extent practicable; and
+&emsp;&emsp;(i) reduces stigma in accordance with subsection (b), including by treating referrals for mental health evaluations made pursuant to such process in a manner similar to referrals for other medical services, to the maximum extent practicable; and
 
 &emsp;&emsp;(ii) protects the confidentiality of the member to the maximum extent practicable, in accordance with requirements for the confidentiality of health information under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) and applicable privacy laws.
 
@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) that is no more restrictive than is conducive to the most effective form of treatment; and
 
-&emsp;&emsp;(B) in which treatment is available and the risks of physical injury or property damage posed by such placement are warranted by the proposed plan of treatment.
+&emsp;&emsp;(B) in which treatment is available and the risks of physical injury or property damageposed by such placement are warranted by the proposed plan of treatment.
 
 (Added Pub. L. 112–81, div. A, title VII, §711(a)(1), Dec. 31, 2011, 125 Stat. 1475, §1090a; renumbered §1090b and amended Pub. L. 117–81, div. A, title VII, §§701(c)(1)(A), 704, Dec. 27, 2021, 135 Stat. 1778, 1780; Pub. L. 118–31, div. A, title VII, §705, title XVIII, §1801(a)(14), Dec. 22, 2023, 137 Stat. 300, 684.)
 

@@ -22,7 +22,7 @@
 
 #### (A) Prompt sharing within Office
 
-&emsp;&emsp;The Secretary shall ensure that the mechanism for authorized reporting established under paragraph (1) provides for the sharing of an authorized disclosure to personnel and supporting analysts and scientists of the Office (regardless of the classification of information contained in the disclosure or any nondisclosure agreements), unless the employees or contractors administering the mechanism under paragraph (3) conclude that the preponderance of information available regarding the disclosure indicates that the observed object and associated events and activities likely relate to a special access program or compartmented access program that, as of the date of the disclosure, has been explicitly and clearly reported to the congressional defense committees or the congressional intelligence committees, and is documented as meeting those criteria.
+&emsp;&emsp;The Secretary shall ensure that the mechanism for authorized reporting established under paragraph (1) provides for the sharing of an authorized disclosure to personnel andsupporting analysts and scientists of the Office (regardless of the classification of information contained in the disclosure or any nondisclosure agreements), unless the employees or contractors administering the mechanism under paragraph (3) conclude that the preponderance of information available regarding the disclosure indicates that the observed object and associated events and activities likely relate to a special access program or compartmented access program that, as of the date of the disclosure, has been explicitly and clearly reported to the congressional defense committees or the congressional intelligence committees, and is documented as meeting those criteria.
 
 #### (B) Congressional notification
 
@@ -52,7 +52,7 @@
 
 #### (A) Protection
 
-&emsp;&emsp;An employee of a department or agency of the Federal Government, or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor of such a department or agency, who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action, including the revocation or suspension of security clearances, or termination of employment, with respect toany individual as a reprisal for any authorized disclosure.
+&emsp;&emsp;An employee of a department or agency of the Federal Government, or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor of such a department or agency, who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action, including the revocation or suspension of security clearances, or termination of employment, with respect to any individual as a reprisal for any authorized disclosure.
 
 #### (B) Procedures
 
@@ -94,7 +94,7 @@ In this section:
 
 &emsp;(4) The term "intelligence community" has the meaning given such term in section 3003 of this title.
 
-&emsp;(5) The term "nondisclosure agreement" means any written or oral nondisclosure agreement, order, or other instrumentality or means entered into by an individual that could be interpreted as a legal constraint on the individual making an authorized disclosure.
+&emsp;(5) The term "nondisclosure agreement" means any written or oral nondisclosureagreement, order, or other instrumentality or means entered into by an individual that could be interpreted as a legal constraint on the individual making an authorized disclosure.
 
 &emsp;(6) The term "Office" means the All-domain Anomaly Resolution Office established pursuant to section 3373(a) of this title.
 

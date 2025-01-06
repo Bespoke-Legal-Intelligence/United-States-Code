@@ -2,7 +2,7 @@
 
 #### (a) Designation of partnership representative
 
-Each partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) with a substantial presence in the United States as the partnership representative who shall have the sole authority to act on behalf of the partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any person as the partnership representative.
+Each partnership shall designate (in the manner prescribed by the Secretary) a partner (orother person) with a substantial presence in the United States as the partnership representative who shall have the sole authority to act on behalf of the partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any person as the partnership representative.
 
 #### (b) Binding effect
 
@@ -22,7 +22,7 @@ Prior sections 6223 and 6224 were repealed by Pub. L. 114–74, title XI, §1101
 
 Section 6223, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 649, related to notice to partners of proceedings.
 
-Section 6224, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 651; amended Pub. L. 107–147, title IV, §416(d)(1)(A), Mar. 9, 2002, 116 Stat. 55, related topartner participation in administrative proceedings, waiver of partner's rights, and settlement agreements.
+Section 6224, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 651; amended Pub. L. 107–147, title IV, §416(d)(1)(A), Mar. 9, 2002, 116 Stat. 55, related to partner participation in administrative proceedings, waiver of partner's rights, and settlement agreements.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

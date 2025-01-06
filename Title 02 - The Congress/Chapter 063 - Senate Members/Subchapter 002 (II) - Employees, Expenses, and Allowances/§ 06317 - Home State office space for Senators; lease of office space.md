@@ -8,35 +8,51 @@
 
 #### (b) Maximum amount of aggregate square feet for each Senator
 
-The aggregate square feet of office space secured for Senator shall not at any time exceed—
+(1) Subject to paragraph (2), the aggregate square feet of office space secured for Senator shall not at any time exceed—
 
-&emsp;(1) 5,000 square feet if the population of the State of the Senator is less than 3,000,000;
+&emsp;(A) 5,000 square feet if the population of the State of the Senator is less than 3,000,000;
 
-&emsp;(2) 5,200 square feet if such population is 3,000,000 but less than 4,000,000;
+&emsp;(B) 5,200 square feet if such population is 3,000,000 but less than 4,000,000;
 
-&emsp;(3) 5,400 square feet if such population is 4,000,000 but less than 5,000,000;
+&emsp;(C) 5,400 square feet if such population is 4,000,000 but less than 5,000,000;
 
-&emsp;(4) 5,800 square feet if such population is 5,000,000 but less than 7,000,000;
+&emsp;(D) 5,800 square feet if such population is 5,000,000 but less than 7,000,000;
 
-&emsp;(5) 6,200 square feet if such population is 7,000,000 but less than 9,000,000;
+&emsp;(E) 6,200 square feet if such population is 7,000,000 but less than 9,000,000;
 
-&emsp;(6) 6,400 square feet if such population is 9,000,000 but less than 10,000,000;
+&emsp;(F) 6,400 square feet if such population is 9,000,000 but less than 10,000,000;
 
-&emsp;(7) 6,600 square feet if such population is 10,000,000 but less than 11,000,000;
+&emsp;(G) 6,600 square feet if such population is 10,000,000 but less than 11,000,000;
 
-&emsp;(8) 6,800 square feet if such population is 11,000,000 but less than 12,000,000;
+&emsp;(H) 6,800 square feet if such population is 11,000,000 but less than 12,000,000;
 
-&emsp;(9) 7,000 square feet if such population is 12,000,000 but less than 13,000,000;
+&emsp;(I) 7,000 square feet if such population is 12,000,000 but less than 13,000,000;
 
-&emsp;(10) 7,400 square feet if such population is 13,000,000 but less than 15,000,000;
+&emsp;(J) 7,400 square feet if such population is 13,000,000 but less than 15,000,000;
 
-&emsp;(11) 7,800 square feet if such population is 15,000,000 but less than 17,000,000; or
+&emsp;(K) 7,800 square feet if such population is 15,000,000 but less than 17,000,000; or
 
-&emsp;(12) 8,200 square feet if such population is 17,000,000 or more.
+&emsp;(L) 8,200 square feet if such population is 17,000,000 or more.
+
+(2) The aggregate square feet of office space for purposes of paragraph (1) shall not include any portion of the office space used for security or safety enhancements that are—
+
+&emsp;(A) of a kind authorized by the Committee on Rules and Administration of the Senate, which shall include an information technology security closet and a secure lobby or reception area; and
+
+&emsp;(B) approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
 #### (c) Maximum annual rental rate; maximum aggregate amount for acquisition of furniture, equipment, and other office furnishings
 
-(1) The maximum annual rate that may be paid for the rental of an office secured for a Senator not in a post office or other Federal building shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office by the Administrator of General Services, based upon a 100 percent building quality rating, for office space located in the place in which the Senator's office is located, multiplied by the number of square feet contained in that office used by the Senator and his employees to perform their duties.
+(1)(A) Subject to subparagraph (B), the maximum annual rate that may be paid for the rental of an office secured for a Senator not in a post office or other Federal building shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office by the Administrator of General Services, based upon a 100 percent building quality rating, for office space located in the place in which the Senator's office is located, multiplied by the number of square feet contained in that office used by the Senator and his employees to perform their duties.
+
+(B) The portion of the cost of a rental described in subparagraph (A) that is attributable to building security and safety measures shall not be included in determining the annual rate paid for the rental for purposes of subparagraph (A) if—
+
+&emsp;(i) the costs are for building security and safety measures—
+
+&emsp;&emsp;(I) of a kind authorized by the Committee on Rules and Administration of the Senate, which shall include guard services, access control, and facility monitoring; and
+
+&emsp;&emsp;(II) approved by the Sergeant at Arms and Doorkeeper of the Senate; and
+
+&emsp;(ii) such costs are itemized separately in a manner approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
 (2) The aggregate amount that may be paid for the acquisition of furniture, equipment, and other office furnishings heretofore provided by the Administrator of General Services for one or more offices secured for the Senator is $40,000 if the aggregate square feet of office space is not in excess of 5,000 square feet. Such amount is increased by $1,000 for each authorized additional incremental increase in office space of 200 square feet. Effective beginning with the 106th Congress, the aggregate amount in effect under this paragraph for any Congress shall be increased by the inflation adjustment factor for the calendar year in which the Congress begins. For purposes of the preceding sentence, the inflation adjustment factor for any calendar year is a fraction the numerator of which is the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce for the preceding calendar year and the denominator of which is such deflator for the calendar year 1998.
 
@@ -60,7 +76,7 @@ The aggregate square feet of office space secured for Senator shall not at any t
 
 (1) Subject to the provisions of paragraphs (2), (3), (4), and (5), a Senator may lease one mobile office for use only in the State he represents and the contingent fund of the Senate is available for the rental payments (including by way of reimbursement) made under such lease together with the actual nonpersonnel cost of operating such mobile office. The term of any such lease shall not exceed 3 years. A copy of each such lease shall be furnished to the Sergeant at Arms of the Senate.
 
-(2) The maximum aggregate annual rental payments and operating costs (except furniture,equipment, and furnishings) that may be paid to a Senator under paragraph (1) shall not at any time exceed an amount determined by multiplying (A) the highest applicable rate per square foot charged Federal agencies by the Administrator of General Services in the State which that Senator represents, based upon a 100 percent building quality rating, by (B) the maximum aggregate square feet of office space to which that Senator is entitled under subsection (b) reduced by the number of square feet contained in offices secured for that Senator under subsection (a) and used by that Senator and his employees to perform their duties.
+(2) The maximum aggregate annual rental payments and operating costs (except furniture, equipment, and furnishings) that may be paid to a Senator under paragraph (1) shall not at any time exceed an amount determined by multiplying (A) the highest applicable rate per square foot charged Federal agencies by the Administrator of General Services in the State which that Senator represents, based upon a 100 percent building quality rating, by (B) the maximum aggregate square feet of office space to which that Senator is entitled under subsection (b) reduced by the number of square feet contained in offices secured for that Senator under subsection (a) and used by that Senator and his employees to perform their duties.
 
 (3) No payment shall be made under paragraph (1) for rental payments and operating costs of a mobile office of a Senator unless the following provisions are included in its lease:
 
@@ -88,7 +104,7 @@ Or
 
 This section is effective on and after July 1, 1974.
 
-(Pub. L. 93–371, §3, Aug. 13, 1974, 88 Stat. 428; Pub. L. 94–32, title I, §4, June 12, 1975, 89 Stat. 183; Pub. L. 94–59, title I, §§106(a), 107, July 25, 1975, 89 Stat. 276; Pub. L. 95–26, title I, §105, May 4, 1977, 91 Stat. 83; Pub. L. 95–94, title I, §112(d), Aug. 5, 1977, 91 Stat. 664; Pub. L. 96–304, title I, §109, July 8, 1980, 94 Stat. 890; Pub. L. 99–88, title I, §194, Aug. 15, 1985, 99 Stat. 349; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 144; Pub. L. 102–90, title I, §7(b), Aug. 14, 1991, 105 Stat. 451; Pub. L. 104–197, title I, §3, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 106–57, title I, §3, Sept. 29, 1999, 113 Stat. 411; Pub. L. 108–7, div. H, title I, §4(a), Feb. 20, 2003, 117 Stat. 349.)
+(Pub. L. 93–371, §3, Aug. 13, 1974, 88 Stat. 428; Pub. L. 94–32, title I, §4, June 12, 1975, 89 Stat. 183; Pub. L. 94–59, title I, §§106(a), 107, July 25, 1975, 89 Stat. 276; Pub. L. 95–26, title I, §105, May 4, 1977, 91 Stat. 83; Pub. L. 95–94, title I, §112(d), Aug. 5, 1977, 91 Stat. 664; Pub. L. 96–304, title I, §109, July 8, 1980, 94 Stat. 890; Pub. L. 99–88, title I, §194, Aug. 15, 1985, 99 Stat. 349; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 144; Pub. L. 102–90, title I, §7(b), Aug. 14, 1991, 105 Stat. 451; Pub. L. 104–197, title I, §3, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 106–57, title I, §3, Sept. 29, 1999, 113 Stat. 411; Pub. L. 108–7, div. H, title I, §4(a), Feb. 20, 2003, 117 Stat. 349; Pub. L. 118–36, §1, Jan. 26, 2024, 138 Stat. 9; Pub. L. 118–47, div. E, title I, §104, Mar. 23, 2024, 138 Stat. 712.)
 
 #### <b>Editorial Notes</b>
 
@@ -99,6 +115,10 @@ Section was formerly classified to section 59 of this title prior to editorial r
 Section is comprised of section 3 of Pub. L. 93–371. Subsec. (e) of section 3 of Pub. L. 93–371 amended section 6314 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (b). Pub. L. 118–36, §1(1), and Pub. L. 118–47, §104(1), amended subsec. (b) identically, designating existing provisions as par. (1), substituting "Subject to paragraph (2), the aggregate" for "The aggregate" in introductory provisions, redesignating former pars. (1) to (12) as subpars. (A) to (L), respectively, of par. (1), and adding par. (2).
+
+Subsec. (c)(1). Pub. L. 118–36, §1(2), and Pub. L. 118–47, §104(2), amended par. (1) identically, designating existing provisions as subpar. (A), substituting "Subject to subparagraph (B), the maximum" for "The maximum", and adding subpar. (B).
 
 <b>2003</b>—Subsec. (f)(3). Pub. L. 108–7 inserted concluding provisions.
 
@@ -134,7 +154,7 @@ Subsec. (f)(5). Pub. L. 102–90, §7(b)(5), substituted "Payment" for "Reimburs
 
 <b>1985</b>—Subsec. (c)(2). Pub. L. 99–88 substituted "$30,000" for "$22,550" and "$734" for "$550".
 
-<b>1980</b>—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one year and inserted provision requiring each lease to contain a provision permitting cancellation upon sixty dayswritten notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one year and inserted provision requiring each lease to contain a provision permitting cancellation upon sixty days written notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
 
 Subsec. (c). Pub. L. 96–304, §109(2), substituted "shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office" for "shall not at any time exceed the applicable rate per square foot charged Federal agencies".
 

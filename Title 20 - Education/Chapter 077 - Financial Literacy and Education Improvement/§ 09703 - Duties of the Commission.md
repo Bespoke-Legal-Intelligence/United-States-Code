@@ -118,7 +118,7 @@ The Commission shall take such steps as are necessary to coordinate and promote 
 
 &emsp;&emsp;&emsp;(ii) to enhance the general understanding of financial services and products;
 
-&emsp;&emsp;(C) review of Federal activities designed to promote financial literacy and education, and development of a plan to improve coordination of such activities; and
+&emsp;&emsp;(C) review of Federal activities designed to promote financial literacy and education,and development of a plan to improve coordination of such activities; and
 
 &emsp;&emsp;(D) the identification of areas of overlap and duplication among Federal financial literacy and education activities and proposed means of eliminating any such overlap and duplication.
 

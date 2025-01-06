@@ -10,7 +10,7 @@ Any instructional activity carried out by an eligible service provider receiving
 
 &emsp;(1) access to the facilities and resources of such an institution;
 
-&emsp;(2) an initial medical examination and follow-up referral or treatment, without charge, for youth during their participation in such activity;
+&emsp;(2) an initial medical examination and follow-up referral or treatment, without charge,for youth during their participation in such activity;
 
 &emsp;(3) at least one nutritious meal daily, without charge, for participating youth during each day of participation;
 

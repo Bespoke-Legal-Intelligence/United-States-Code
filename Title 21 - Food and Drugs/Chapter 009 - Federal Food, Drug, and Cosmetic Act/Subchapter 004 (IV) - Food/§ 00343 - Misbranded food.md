@@ -892,7 +892,13 @@ Pub. L. 108–282, title II, §202, Aug. 2, 2004, 118 Stat. 905, provided that: 
 
 &emsp;"(C) a multicenter, multiyear study estimated that the prevalence of celiac disease in the United States is 0.5 to 1 percent of the general population."
 
-#### Rulemaking on Labeling
+#### Rulemakings on Labeling
+
+Pub. L. 118–42, div. B, title VII, §745, Mar. 9, 2024, 138 Stat. 112, provided that:
+
+"(a) After the effective date of any final rule the Food and Drug Administration (FDA) publishes in connection with its proposed rule to update these requirements (87 Federal Register 59168, issued on September 29, 2022), manufacturers may also continue to comply with the previous requirements promulgated by the FDA for the implied nutrient content claim 'healthy' through the 'compliance date' FDA provides in the final rule.
+
+"(b) Any food product manufactured and labeled as 'healthy' during the compliance period FDA provides in that final rule shall not be directly or indirectly subject to any state-law requirements that are not identical to either (i) the Federal requirements for the implied nutrition content claim 'healthy' that were in effect as of the date FDA issues the final rule, or (ii) the updated Federal requirements that FDA promulgates in the final rule, assuming the updated requirements go into effect during the regulatory compliance period."
 
 Pub. L. 108–282, title II, §206, Aug. 2, 2004, 118 Stat. 910, provided that: "Not later than 2 years after the date of enactment of this Act \[Aug. 2, 2004\], the Secretary of Health and Human Services, in consultation with appropriate experts and stakeholders, shall issue a proposed rule to define, and permit use of, the term 'gluten-free' on the labeling of foods. Not later than 4 years after the date of enactment of this Act, the Secretary shall issue a final rule to define, and permit use of, the term 'gluten-free' on the labeling of foods."
 
@@ -920,7 +926,7 @@ Expertise requirement.—The members of the Commission shall consist of individu
 
 "(c)
 
-Functions of the Commission.—The Commission shall conduct a study on, and provide recommendations for, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements and procedures for the evaluation of such claims. In making such recommendations, the Commission shall evaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
+Functions of the Commission.—The Commission shall conduct a study on, and provide recommendations for, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements and procedures for the evaluation of such claims. In making such recommendations, the Commission shallevaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
 
 "(d)
 
@@ -944,7 +950,7 @@ Reports and Recommendations.—
 
 &emsp;"(1)
 
-Final report required.—Not later than 24 months after the date of enactment of this Act \[Oct.25, 1994\], the Commission shall prepare and submit to the President and to the Congress a final report on the study required by this section.
+Final report required.—Not later than 24 months after the date of enactment of this Act \[Oct. 25, 1994\], the Commission shall prepare and submit to the President and to the Congress a final report on the study required by this section.
 
 &emsp;"(2)
 

@@ -33,7 +33,7 @@ Definitions.—For purposes of this section—
 
 &emsp;"(2) the term 'performance management and recognition system' means the performance management and recognition system under \[former\] chapter 54 of title 5, United States Code;
 
-&emsp;"(3) the term 'basic pay' does not include any amount payable under section 302 \[set out as a note under section 5304 of this title\] or title IV \[see ShortTitle set out in a note under section 5305 of this title\] of FEPCA or section 5304 or 5304a of title 5, United States Code;
+&emsp;"(3) the term 'basic pay' does not include any amount payable under section 302 \[set out as a note under section 5304 of this title\] or title IV \[see Short Title set out in a note under section 5305 of this title\] of FEPCA or section 5304 or 5304a of title 5, United States Code;
 
 &emsp;"(4) the term 'pay rate', as used in clauses (iii) through (v) of subsection (c)(2)(B), is used in the same way as such term is used under section 5335(a) of title 5, United States Code; and
 

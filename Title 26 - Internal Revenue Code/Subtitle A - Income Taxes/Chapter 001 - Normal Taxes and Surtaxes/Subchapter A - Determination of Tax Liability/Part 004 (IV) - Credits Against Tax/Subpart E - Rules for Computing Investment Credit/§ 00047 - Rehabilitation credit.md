@@ -162,7 +162,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the normal rehabilitation period for such building is 2 years or more, and
 
-&emsp;&emsp;&emsp;(ii) it is reasonable to expect that such building will be a qualified rehabilitated building in the hands of the taxpayer when it is placed in service.
+&emsp;&emsp;&emsp;(ii) it is reasonable to expect that such building will be a qualified rehabilitatedbuilding in the hands of the taxpayer when it is placed in service.
 
 > &emsp;&emsp;Clauses (i) and (ii) shall be applied on the basis of facts known as of the close of the taxable year of the taxpayer in which the rehabilitation begins (or, if later, at the close of the first taxable year to which an election under this subsection applies).
 
@@ -224,13 +224,13 @@ For purposes of this section—
 
 #### (4) Self-rehabilitated building
 
-&emsp;For purposes of this subsection, the term "self-rehabilitated building" means any building if it is reasonable to believe that morethan half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
+&emsp;For purposes of this subsection, the term "self-rehabilitated building" means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
 
 #### (5) Election
 
 &emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897; Pub. L. 115–97, title I, §13402(a), (b)(1), Dec. 22, 2017, 131 Stat. 2134.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897; Pub. L. 115–97, title I, §13402(a), (b)(1), Dec. 22, 2017, 131 Stat. 2134.)
 
 #### <b>Editorial Notes</b>
 
@@ -286,7 +286,7 @@ Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted "class life 
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
-Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted "reducing the credit base (as defined in section 48(c)(8)(C))" for "reducing the qualified investment" and inserted "For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing thequalified investment in the property) in the year in which the property was first placed in service."
+Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted "reducing the credit base (as defined in section 48(c)(8)(C))" for "reducing the qualified investment" and inserted "For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service."
 
 Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1844(b)(4), inserted "reduced by the sum of the credit recapture amounts with respect to such property for all preceding years".
 
@@ -394,7 +394,7 @@ Amendment by sections 1802(a)(5)(A) and 1844(b)(1), (2), (4) of Pub. L. 99–514
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable as if included in the amendments made by section 111 of the Tax Reform Act of 1984, Pub. L. 98–369, see section 105(b)(4) of Pub. L. 99–121, set out as a note under section 168 of this title, and section 111(g) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 168 of this title.
+Amendment by Pub. L. 99–121 applicable as if included in the amendments made by section 111 of theTax Reform Act of 1984, Pub. L. 98–369, see section 105(b)(4) of Pub. L. 99–121, set out as a note under section 168 of this title, and section 111(g) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 168 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -450,7 +450,7 @@ Section applicable with respect to taxable years ending after Dec. 31, 1961, see
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -462,5 +462,5 @@ For provision that nothing in the amendments made by section 474(o) of Pub. L. 9
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof transferred by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, to Secretary of Transportation, with functions, powers, and duties of Secretary of Transportation pertaining to aviation safety to be exercised by Federal Aviation Administrator in Department of Transportation, see section 106 of Title 49, Transportation.
+Functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof transferred by Pub. L. 89–670, Oct. 15, 1966,80 Stat. 931, to Secretary of Transportation, with functions, powers, and duties of Secretary of Transportation pertaining to aviation safety to be exercised by Federal Aviation Administrator in Department of Transportation, see section 106 of Title 49, Transportation.
 

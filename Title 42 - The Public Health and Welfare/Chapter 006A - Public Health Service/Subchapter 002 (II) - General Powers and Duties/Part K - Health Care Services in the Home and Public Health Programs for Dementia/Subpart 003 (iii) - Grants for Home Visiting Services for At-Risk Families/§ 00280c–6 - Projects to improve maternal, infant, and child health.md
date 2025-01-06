@@ -24,7 +24,7 @@
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under theState plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
@@ -40,7 +40,7 @@ With respect to an eligible family, each of the following services shall, direct
 
 &emsp;(2) Primary health care for the children, including developmental assessments.
 
-&emsp;(3) Education for the parents concerning infant care and child development, including the development and utilization of parent and teacher resource networks and other familyresource and support networks where such networks are available.
+&emsp;(3) Education for the parents concerning infant care and child development, including the development and utilization of parent and teacher resource networks and other family resource and support networks where such networks are available.
 
 &emsp;(4) Upon the request of a parent, providing the education described in paragraph (3) to other individuals who have responsibility for caring for the children.
 
@@ -112,7 +112,7 @@ For purposes of subsection (a)(1), a pregnant woman shall be considered to be at
 
 #### (5) Home visiting services team
 
-&emsp;The team to be consulted under paragraph (4) on behalf of a family shall include, as appropriate, other nursing professionals, physician assistants, social workers, child welfare professionals, infant and early childhood specialists, nutritionists, and laypersons trained as home visitors. The case manager shall ensure that the plan is coordinated with thosephysician services that may be required by the mother or child.
+&emsp;The team to be consulted under paragraph (4) on behalf of a family shall include, as appropriate, other nursing professionals, physician assistants, social workers, child welfare professionals, infant and early childhood specialists, nutritionists, and laypersons trained as home visitors. The case manager shall ensure that the plan is coordinated with those physician services that may be required by the mother or child.
 
 #### (g) Outreach
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

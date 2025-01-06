@@ -12,7 +12,7 @@ The Interagency Environment Committee shall carry out monitoring actions, which 
 
 &emsp;&emsp;(A) shall review the factual record; and
 
-&emsp;&emsp;(B) may, based on findings of the review under subparagraph (A) that the USMCAcountry is not in compliance with its environmental obligations, request enforcement actions under section 4714 of this title with respect to the USMCA country.
+&emsp;&emsp;(B) may, based on findings of the review under subparagraph (A) that the USMCA country is not in compliance with its environmental obligations, request enforcement actions under section 4714 of this title with respect to the USMCA country.
 
 #### (2) Written justification
 
@@ -54,7 +54,7 @@ The Interagency Environment Committee shall—
 
 #### (3) Consultation
 
-&emsp;The Trade Representative, on behalf of the Interagency Environment Committee, shall, on a quarterly basis, consult with the appropriate congressional committees and the Trade and Environment Policy Advisory Committee (or successor advisory committee) established under section 2155(c)(1) of this title regarding the public comments and relevant information described in paragraph (1) and the actions taken under paragraph (2).
+&emsp;The Trade Representative, on behalf of the Interagency Environment Committee, shall,on a quarterly basis, consult with the appropriate congressional committees and the Trade and Environment Policy Advisory Committee (or successor advisory committee) established under section 2155(c)(1) of this title regarding the public comments and relevant information described in paragraph (1) and the actions taken under paragraph (2).
 
 #### (e) Application
 

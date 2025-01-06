@@ -82,7 +82,7 @@ Subsec. (e)(3). Pub. L. 113–287, §5(d)(37)(D)(iii), struck out "; 16 U.S.C. 
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–54, title I, §132(d), Aug. 2, 2005, 119 Stat. 526, provided that: "This section \[amending this section and former section 460l–6a of this title and enacting provisions set out as a note under section 100904 of Title 54, National Park Service and Related Programs\] and the amendments made by this section take effect as of December 8, 2004."
+Pub. L. 109–54, title I, §132(d), Aug. 2, 2005, 119 Stat. 526, provided that: "This section \[amending this sectionand former section 460l–6a of this title and enacting provisions set out as a note under section 100904 of Title 54, National Park Service and Related Programs\] and the amendments made by this section take effect as of December 8, 2004."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

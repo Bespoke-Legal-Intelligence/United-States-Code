@@ -16,7 +16,7 @@ The Secretary of Defense and the Secretaries of the military departments, in pay
 
 &emsp;(3) A case in which—
 
-&emsp;&emsp;(A) the lost or damaged goods were transported or stored under a contract or solicitation that requires at least one of the transportation service providers or carriers that handled the shipment to settle claims on the basis of full replacement value pursuant to section 2636a of this title;
+&emsp;&emsp;(A) the lost or damaged goods were transported or stored under a contract or solicitation that requires at least one of the transportation service providers or carriers that handled the shipment to settle claims on thebasis of full replacement value pursuant to section 2636a of this title;
 
 &emsp;&emsp;(B) the lost or damaged goods have been in the custody of more than one independent contractor or transportation service provider; and
 

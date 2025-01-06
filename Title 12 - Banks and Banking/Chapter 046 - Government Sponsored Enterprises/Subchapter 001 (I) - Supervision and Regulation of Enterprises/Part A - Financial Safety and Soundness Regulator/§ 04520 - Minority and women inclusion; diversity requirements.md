@@ -50,7 +50,7 @@ Subsec. (a). Pub. L. 110–289, §1161(a)(2)(A), which directed amendment of thi
 
 Pub. L. 110–289, §1116(2), (4), added subsec. (a) and redesignated former subsec. (a) as (e).
 
-Subsec. (b). Pub. L. 110–289, §1161(a)(2)(B), which directed the striking out of subsec. (b), was not executed to reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by Pub. L. 110–289, §1116(3). See below.
+Subsec. (b). Pub. L. 110–289, §1161(a)(2)(B), which directed the striking out of subsec. (b), was not executedto reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by Pub. L. 110–289, §1116(3). See below.
 
 Pub. L. 110–289, §1116(3), (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section."
 

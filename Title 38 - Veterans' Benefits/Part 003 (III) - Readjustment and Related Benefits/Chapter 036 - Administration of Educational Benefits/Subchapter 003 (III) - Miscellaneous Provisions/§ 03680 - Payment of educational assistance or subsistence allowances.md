@@ -24,15 +24,17 @@ Period for Which Payment May Be Made.—(1) Except as provided in paragraphs (2)
 
 &emsp;&emsp;(ii) the date that is 120 days after the date of the closure or disapproval.
 
-(3) Notwithstanding paragraph (1), in the case of an eligible veteran or eligible person who is pursuing a program of education on less than a half-time basis during a period that is the last semester, term, or academic period the veteran or person will be enrolled in the program of education because the veteran or person will complete the program of education at the end of that semester, term, or academic period, the Secretary may, pursuant to such regulations as the Secretary shall prescribe, provide to the veteran or person educational assistance under chapter 30, 31, 32, 33, 34, or 35 of this title or under chapter 1606 of title 10, including a monthly housing stipend described in section 3313(c) of this title, on the basis of the total number of credits or courses in which the veteran or person is enrolled, if—
+(3)(A) Notwithstanding paragraph (1), in the case of an eligible veteran or eligible person who is pursuing a program of education on less than a half-time basis during a period that is the last semester, term, or academic period the veteran or person will be enrolled in the program of education because the veteran or person will complete the program of education at the end of that semester, term, or academic period, the Secretary may, pursuant to such regulations as the Secretary shall prescribe, provide to the veteran or person educational assistance under chapter 30, 31, 32, 33, 34, or 35 of this title or under chapter 1606 of title 10 on the basis of the total number of credits or courses in which the veteran or person is enrolled, if—
 
-&emsp;(A) the number of credits the veteran or person needs to complete the program of education is less than the number of credits that would constitute enrollment on a more than half-time basis for that last semester, term, or academic period; and
+&emsp;(i) the number of credits the veteran or person needs to complete the program of education is less than the number of credits that would constitute enrollment on a more than half-time basis for that last semester, term, or academic period; and
 
-&emsp;(B) the veteran or person—
+&emsp;(ii) the veteran or person—
 
-&emsp;&emsp;(i) is enrolled in, or has completed, every course offered by the program of education during the last semester, term, or academic period in which the veteran or person is enrolled in the program of education; and
+&emsp;&emsp;(I) is enrolled in, or has completed, every course offered by the program of education during the last semester, term, or academic period in which the veteran or person is enrolled in the program of education; and
 
-&emsp;&emsp;(ii) enrolls in an additional course that is not required for the completion of such program of education and the enrollment in the non-required course in addition to the required course or courses in which the veteran or person is enrolled constitutes enrollment on more than a half-time basis.
+&emsp;&emsp;(II) enrolls in an additional course that is not required for the completion of such program of education and the enrollment in the non-required course in addition to the required course or courses in which the veteran or person is enrolled constitutes enrollment on more than a half-time basis.
+
+(B) For purposes of providing a monthly housing stipend described in section 3313(c) to an eligible veteran or eligible person for whom the Secretary is providing educational assistance under chapter 33 of this title during a period that is the last semester, term, or academic period pursuant to subparagraph (A), the Secretary shall treat the veteran or person as pursuing a program of education on a full-time basis.
 
 (b)
 
@@ -54,7 +56,7 @@ Advance Payment of Initial Educational Assistance or Subsistence Allowance.—(1
 
 &emsp;(A) in the case of an initial enrollment of a veteran or person in an educational institution, contain information showing that the veteran or person (i) is eligible for educational benefits, (ii) has been accepted by the institution, and (iii) has notified the institution of such veteran's or person's intention to attend that institution; and
 
-&emsp;(B) in the case of a re-enrollment of a veteran or person, contain information showing that the veteran or person (i) is eligible to continue such veteran's or person's program of education or training and (ii) intends to re-enroll in the same institution,
+&emsp;(B) in the case of a re-enrollment of a veteran or person, contain information showing that the veteran or person (i) is eligible tocontinue such veteran's or person's program of education or training and (ii) intends to re-enroll in the same institution,
 
 > and, in either case, shall also state the number of semester or clock-hours to be pursued by such veteran or person.
 
@@ -84,7 +86,7 @@ Determination of Enrollment, Pursuit, and Attendance.—(1) The Secretary may, p
 
 &emsp;(C) Attendance at a course or program of education or training.
 
-(2) The Secretary may withhold payment of benefits to an eligible veteran or eligible personuntil the Secretary receives such proof as the Secretary may require of enrollment in and satisfactory pursuit of a program of education by the eligible veteran or eligible person. The Secretary shall adjust the payment withheld, when necessary, on the basis of the proof the Secretary receives.
+(2) The Secretary may withhold payment of benefits to an eligible veteran or eligible person until the Secretary receives such proof as the Secretary may require of enrollment in and satisfactory pursuit of a program of education by the eligible veteran or eligible person. The Secretary shall adjust the payment withheld, when necessary, on the basis of the proof the Secretary receives.
 
 (3) In the case of an individual other than an individual described in paragraph (4), the Secretary may accept the individual's monthly certification of enrollment in and satisfactory pursuit of a program of education as sufficient proof of the certified matters.
 
@@ -102,11 +104,13 @@ Payments During Emergency Situations.—(1) The Secretary may pay allowances to 
 
 (3) Any amount paid under this subsection shall not be counted for purposes of the limitation on allowances under subsection (a)(2)(A).
 
-(Added Pub. L. 92–540, title II, §201, Oct. 24, 1972, 86 Stat. 1076, §1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, §209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§341, 342, title VI, §§601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, §2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, §4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§315(a)(1), 316, title VII, §701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, title I, §121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3680 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, §314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §605(a)(2)(B), title XII, §1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, §121(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §104(b), Dec. 27, 2001, 115 Stat. 981; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 111–377, title II, §206(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 115–48, title I, §109(b), Aug. 16, 2017, 131 Stat. 980; Pub. L. 115–89, §3, Nov. 21, 2017, 131 Stat. 1279; Pub. L. 116–315, title I, §1007(b), Jan. 5, 2021, 134 Stat. 4940; Pub. L. 117–76, §4(a), Dec. 21, 2021, 135 Stat. 1519; Pub. L. 117–333, §6(a), Jan. 5, 2023, 136 Stat. 6129.)
+(Added Pub. L. 92–540, title II, §201, Oct. 24, 1972, 86 Stat. 1076, §1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, §209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§341, 342, title VI, §§601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, §2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, §4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§315(a)(1), 316, title VII, §701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, titleI, §121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3680 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, §314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §605(a)(2)(B), title XII, §1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, §121(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §104(b), Dec. 27, 2001, 115 Stat. 981; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 111–377, title II, §206(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 115–48, title I, §109(b), Aug. 16, 2017, 131 Stat. 980; Pub. L. 115–89, §3, Nov. 21, 2017, 131 Stat. 1279; Pub. L. 116–315, title I, §1007(b), Jan. 5, 2021, 134 Stat. 4940; Pub. L. 117–76, §4(a), Dec. 21, 2021, 135 Stat. 1519; Pub. L. 117–333, §6(a), Jan. 5, 2023, 136 Stat. 6129; Pub. L. 118–210, title II, §208(a), Jan. 2, 2025, 138 Stat. 2765.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(3). Pub. L. 118–210 designated existing provisions as subpar. (A), struck out ", including a monthly housing stipend described in section 3313(c) of this title," after "chapter 1606 of title 10", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
 
 <b>2023</b>—Subsec. (h). Pub. L. 117–333 added subsec. (h).
 
@@ -186,7 +190,7 @@ Subsec. (a)(A) to (C). Pub. L. 97–295, §4(52)(C), inserted "of this subsectio
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out applicability to flight training program.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466, §§341(a), 342, 602(c), in provisions preceding cl. (1) inserted "in, and pursuit of, such program" after "enrollment", in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods whenthe institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §§341(a), 342, 602(c), in provisions preceding cl. (1) inserted "in, and pursuit of, such program" after "enrollment", in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods when the institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
 
 Subsec. (d)(2). Pub. L. 96–466, §601(c)(1), struck out "(other than under subchapter VI of chapter 34)" after "who is pursuing a program of education" and substituted "paragraphs (4)(B) and (C) and (5)" for "paragraphs 5(B) and (C) and (6)".
 
@@ -208,7 +212,7 @@ Subsec. (b). Pub. L. 94–502, §513(a)(5), substituted "spouse or surviving spo
 
 Subsec. (c). Pub. L. 94–502, §513(a)(6), substituted "such veteran's or person's" for "his".
 
-Subsec. (d). Pub. L. 94–502, §513(a)(6)–(8), substituted "persons may need" for "persons need" in cl. (1), "such veteran's or person's" for "his" in two places and inserted provision prohibiting advance payments unless the veteran request them and the Administrator finds that the educational institution has agreed to and can carry out the requirements of cls. (5) (B), (C) and (6) of this subsection in cl. (2), substituted "such veteran's or person's" for "his" in two places and "the veteran or person" for "he" in cl. (4), and "such veteran's or person's" for "his" in cl. (5).
+Subsec. (d). Pub. L. 94–502, §513(a)(6)–(8), substituted "persons may need" for "persons need" in cl. (1), "such veteran's or person's" for "his" in two places and inserted provision prohibiting advance payments unless the veteran request them and the Administrator finds that the educational institution has agreed to and can carry out the requirements of cls. (5) (B), (C) and (6) ofthis subsection in cl. (2), substituted "such veteran's or person's" for "his" in two places and "the veteran or person" for "he" in cl. (4), and "such veteran's or person's" for "his" in cl. (5).
 
 Subsec. (e). Pub. L. 94–502, §513(a)(9)–(11), struck out subsec. (e) which provided for prepayment of subsequent educational assistance or subsistence allowances, redesignated subsec. (f) as (e) and substituted "such veteran or person" for "him".
 
@@ -221,6 +225,10 @@ Subsecs. (g), (h). Pub. L. 94–502, §513(a)(10), (12), redesignated subsec. (h
 <b>1973</b>—Subsec. (a). Pub. L. 93–208 inserted provisions that the Administrator may continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in cl. (1) or (2) of this subsection during periods when the schools are temporarily closed under an established policy based upon an Executive Order of the President or due to an emergency situation, and that such periods shall not be counted as absences for the purposes of cl. (2).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 118–210, title II, §208(b), Jan. 2, 2025, 138 Stat. 2765, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan 2, 2025\] and apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2025."
 
 #### Effective Date of 2021 Amendment
 
@@ -254,7 +262,7 @@ Pub. L. 102–127, §6(b), Oct. 10, 1991, 105 Stat. 623, provided that: "The ame
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–689, title I, §121(b), Nov. 18, 1988, 102 Stat. 4174, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course orcourses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989."
+Pub. L. 100–689, title I, §121(b), Nov. 18, 1988, 102 Stat. 4174, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course or courses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989."
 
 #### Effective Date of 1981 Amendment
 
@@ -280,9 +288,21 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 Pub. L. 92–540, title VI, §603, Oct. 24, 1972, 86 Stat. 1099, provided that:
 
-"(a) The prepayment provisions of subsection (e) of section 1780 \[now 3680\] of title 38, United States Code (as added by section 201 of this Act), shall become effective on November 1, 1972.
+"(a) The prepayment provisions of subsection (e) of section 1780 \[now 3680\] of title 38, United States Code\(as added by section 201 of this Act), shall become effective on November 1, 1972.
 
 "(b) The advance payment provisions of section 1780 \[now 3680\] of title 38, United States Code (as added by section 201 of this Act), shall become effective on August 1, 1973, or at such time prior thereto as the Administrator of Veterans' Affairs shall specify in a certification filed with the Committees on Veterans' Affairs of the Congress."
+
+#### Payment of VA Educational Assistance via Electronic Fund Transfer to a Foreign Institution of Higher Education
+
+Pub. L. 118–210, title II, §214, Jan. 2, 2025, 138 Stat. 2774, provided that: "Not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2025\], the Secretary of Veterans Affairs shall update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education that—
+
+&emsp;"(1) provides an approved course of education to an eligible recipient of such assistance; and
+
+&emsp;"(2) does not have—
+
+&emsp;&emsp;"(A) an employer identification number; or
+
+&emsp;&emsp;"(B) an account with a domestic bank."
 
 #### Payment of Allowances to Veterans Enrolled in Educational Institutions Closed for Emergency Situations
 

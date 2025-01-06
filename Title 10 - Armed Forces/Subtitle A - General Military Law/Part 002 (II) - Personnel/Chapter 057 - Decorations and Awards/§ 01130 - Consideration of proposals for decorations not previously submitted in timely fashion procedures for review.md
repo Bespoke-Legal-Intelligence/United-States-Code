@@ -98,13 +98,13 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts ofvalor for which a request for consideration is submitted under subsection (c).
+Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c).
 
 "(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the Vietnam era and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under regulations of the Department of Defense or the military department concerned to be awarded to members of the Armed Forces for acts of valor.
 
 "(c)
 
-Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (b) that are received by the Secretary during the one-year period beginning on the date of enactment of this Act \[Feb. 10, 1996\].
+Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (b) thatare received by the Secretary during the one-year period beginning on the date of enactment of this Act \[Feb. 10, 1996\].
 
 "(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received.
 

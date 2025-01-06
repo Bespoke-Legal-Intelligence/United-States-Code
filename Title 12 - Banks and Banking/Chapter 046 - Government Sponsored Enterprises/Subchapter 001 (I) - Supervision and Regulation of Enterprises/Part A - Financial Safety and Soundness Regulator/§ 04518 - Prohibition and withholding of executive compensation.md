@@ -70,7 +70,7 @@ In carrying out subsection (a), the Director may not prescribe or set a specific
 
 #### (B) Certain payments in contemplation of an event
 
-&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact thatsuch payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
+&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact that such payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
 
 #### (C) Certain payments not included
 

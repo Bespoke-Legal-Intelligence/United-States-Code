@@ -8,7 +8,7 @@ As soon as practicable after December 3, 2003, the Secretary shall implement aut
 
 &emsp;(2) condition class 3 Federal land, in such proximity to a municipal water supply system or a stream feeding such a system within a municipal watershed that a significant risk exists that a fire disturbance event would have adverse effects on the water quality of the municipal water supply or the maintenance of the system, including a risk to water quality posed by erosion following such a fire disturbance event;
 
-&emsp;(3) condition class 2 Federal land located within fire regime I, fire regime II, or fire regime III, in such proximity to a municipal water supply system or a stream feeding such a system within a municipal watershed that a significant risk exists that a fire disturbance event would have adverse effects on the water quality of the municipal water supply or the maintenance of the system, including a risk to water quality posed by erosion following such a fire disturbance event;
+&emsp;(3) condition class 2 Federal land located within fire regime I, fire regime II, or fire regime III, in such proximity to a municipal water supply system or a stream feeding sucha system within a municipal watershed that a significant risk exists that a fire disturbance event would have adverse effects on the water quality of the municipal water supply or the maintenance of the system, including a risk to water quality posed by erosion following such a fire disturbance event;
 
 &emsp;(4) Federal land on which windthrow or blowdown, ice storm damage, the existence of an epidemic of disease or insects, or the presence of such an epidemic on immediately adjacent land and the imminent risk it will spread, poses a significant threat to an ecosystem component, or forest or rangeland resource, on the Federal land or adjacent non-Federal land; and
 
@@ -114,7 +114,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 &emsp;Except in old growth stands where the management direction is consistent with subsection (e)(2), the Secretary shall carry out a covered project in a manner that—
 
-&emsp;&emsp;(A) focuses largely on small diameter trees, thinning, strategic fuel breaks, and prescribed fire to modify fire behavior, asmeasured by the projected reduction of uncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
+&emsp;&emsp;(A) focuses largely on small diameter trees, thinning, strategic fuel breaks, and prescribed fire to modify fire behavior, as measured by the projected reduction of uncharacteristically severe wildfire effects for the forest type (such as adverse soil impacts, tree mortality or other impacts); and
 
 &emsp;&emsp;(B) maximizes the retention of large trees, as appropriate for the forest type, to the extent that the trees promote fire-resilient stands.
 

@@ -26,7 +26,7 @@ In this section:
 
 &emsp;The term "skilled technical personnel" means—
 
-&emsp;&emsp;(A) journey- and apprentice-level workers who are enrolled in, or have completed, a federally-recognized or State-recognized apprenticeship program; and
+&emsp;&emsp;(A) journey- and apprentice-level workers who are enrolled in, or have completed, afederally-recognized or State-recognized apprenticeship program; and
 
 &emsp;&emsp;(B) other skilled workers in energy technology industries, as determined by the Secretary.
 

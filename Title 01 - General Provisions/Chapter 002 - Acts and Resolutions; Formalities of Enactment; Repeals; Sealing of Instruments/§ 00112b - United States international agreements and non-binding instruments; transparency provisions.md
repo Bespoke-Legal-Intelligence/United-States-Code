@@ -182,7 +182,7 @@ Pub. L. 117–263, div. E, title LIX, §5947(a)(5), Dec. 23, 2022, 136 Stat. 348
 
 #### Mechanism for Reporting
 
-Pub. L. 117–263, div. E, title LIX, §5947(a)(4), Dec. 23, 2022, 136 Stat. 3481, provided that: "Not later than 270 days after the date of the enactment of this Act \[Dec.23, 2022\], the Secretary of State shall establish a mechanism for personnel of the Department of State who become aware or who have reason to believe that the requirements under section 112b of title 1, United States Code, as amended by paragraph (1), have not been fulfilled with respect to an international agreement or qualifying non-binding instrument (as such terms are defined in such section) to report such instances to the Secretary."
+Pub. L. 117–263, div. E, title LIX, §5947(a)(4), Dec. 23, 2022, 136 Stat. 3481, provided that: "Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of State shall establish a mechanism for personnel of the Department of State who become aware or who have reason to believe that the requirements under section 112b of title 1, United States Code, as amended by paragraph (1), have not been fulfilled with respect to an international agreement or qualifying non-binding instrument (as such terms are defined in such section) to report such instances to the Secretary."
 
 #### Consultation and Briefing Requirement
 

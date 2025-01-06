@@ -28,7 +28,7 @@ An institution, in its application for a grant, shall—
 
 &emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accounting for funds made available to the applicant under this subchapter;
 
-&emsp;(5) provide (A) for making such reports, in such form and containing such information, as the Secretary may require to carry out the functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded, and (B) for keeping such records and affording such access thereto, as the Secretary may find necessary to assure the correctness and verification of such reports;
+&emsp;(5) provide (A) for making such reports, in such form and containing such information, as the Secretary may require to carry out the functions under this subchapter, including not less than one report annually setting forth theinstitution's progress toward achieving the objectives for which the funds were awarded, and (B) for keeping such records and affording such access thereto, as the Secretary may find necessary to assure the correctness and verification of such reports;
 
 &emsp;(6) provide that the institution will comply with the limitations set forth in section 1068e of this title, except that for purposes of section 1059c of this title, paragraphs (2) and (3) of section 1068e of this title shall not apply;
 

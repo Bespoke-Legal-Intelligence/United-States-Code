@@ -78,7 +78,7 @@ An entity that receives financial assistance under this part from a State, terri
 
 #### (d) Special rule
 
-A State educational agency described in section 12522(2)(A) of this title may designate a statewide entity (which may be a community-based entity) with demonstrated experience insupporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
+A State educational agency described in section 12522(2)(A) of this title may designate a statewide entity (which may be a community-based entity) with demonstrated experience in supporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
 
 #### (e) Consultation with Secretary of Education
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date
 

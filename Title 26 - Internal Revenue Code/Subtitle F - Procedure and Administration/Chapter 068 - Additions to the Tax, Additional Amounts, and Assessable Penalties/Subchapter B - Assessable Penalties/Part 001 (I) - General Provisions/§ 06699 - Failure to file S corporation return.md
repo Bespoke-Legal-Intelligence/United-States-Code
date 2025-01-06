@@ -36,11 +36,13 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 &emsp;If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I,§128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(e), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 115–97, title I, §11002(d)(1)(OO), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(299)(E), Mar. 23, 2018, 132 Stat. 1198.)
+(Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I, §128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(e), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 115–97, title I, §11002(d)(1)(OO), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(299)(E), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -49,8 +51,6 @@ Section 9(a) of Pub. L. 110–142, which directed amendment of this part by addi
 #### Prior Provisions
 
 A prior section 6699, added Pub. L. 95–600, title I, §141(c)(1), Nov. 6, 1978, 92 Stat. 2794; amended Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(VI), (v)(IX), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(3), (4), Aug. 13, 1981, 95 Stat. 293, 294; Pub. L. 97–448, title I, §103(g)(2)(B)–(D), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 98–369, div. A, title IV, §491(e)(9), July 18, 1984, 98 Stat. 853; Pub. L. 99–514, title XVIII, §1847(b)(9), Oct. 22, 1986, 100 Stat. 2857, related to assessable penalties applicable to tax credit employee stock ownership plans, prior to repeal by Pub. L. 99–514, title XI, §1171(b)(7)(A), Oct. 22, 1986, 100 Stat. 2513. For effective date of repeal, see section 1171(c) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 38 of this title.
-
-#### <b>Editorial Notes</b>
 
 #### Amendments
 

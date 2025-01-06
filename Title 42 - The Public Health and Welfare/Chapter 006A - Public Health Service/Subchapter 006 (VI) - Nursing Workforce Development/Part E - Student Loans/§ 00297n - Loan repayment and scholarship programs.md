@@ -6,7 +6,7 @@ In the case of any individual—
 
 &emsp;(1) who has received a baccalaureate or associate degree in nursing (or an equivalent degree), a diploma in nursing, or a graduate degree in nursing;
 
-&emsp;(2) who obtained (A) one or more loans from a loan fund established under subpart II,<sup>1</sup> or\(B) any other educational loan for nurse training costs; and
+&emsp;(2) who obtained (A) one or more loans from a loan fund established under subpart II,<sup>1</sup> or (B) any other educational loan for nurse training costs; and
 
 &emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a <sup>2</sup> accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
@@ -30,7 +30,7 @@ Notwithstanding the requirement of completion of practice specified in subsectio
 
 #### (1) In general
 
-&emsp;The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years thereafter) carry out a program of entering into contracts with eligible individuals under which such individuals agree to serve as nurses for a period of not less than 2 years at a health care facility with a critical shortage of nurses, in consideration of the Federal Government agreeing to provide to the individuals scholarships for attendance at schools of nursing.
+&emsp;The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years thereafter) carry out a program of entering into contracts with eligible individuals under which such individuals agree to serve as nurses for a period of not less than 2 years at a health care facility with a critical shortage of nurses, in consideration of the Federal Government agreeingto provide to the individuals scholarships for attendance at schools of nursing.
 
 #### (2) Eligible individuals
 
@@ -68,7 +68,7 @@ The Secretary may make payments under subsection (a) on behalf of an individual 
 
 &emsp;In the case of any program under this section under which an individual makes an agreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
 
-&emsp;&emsp;(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a "nursingprogram"), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
+&emsp;&emsp;(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a "nursing program"), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
 
 &emsp;&emsp;&emsp;(i) fails to maintain an acceptable level of academic standing in the nursing program (as indicated by the program in accordance with requirements established by the Secretary);
 
@@ -144,7 +144,7 @@ Subsec. (b)(1). Pub. L. 116–136, §3404(a)(8)(B), substituted "the individual 
 
 Subsec. (i). Pub. L. 116–136, §3404(a)(8)(C), substituted "Allocations" for "Funding" in heading, struck out par. (1) and par. (2) designation and heading, and substituted "Of the amounts appropriated under section 298d(b) of this title," for "Of the amounts appropriated under paragraph (1)". Prior to amendment, text of par. (1) read as follows: "For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007."
 
-<b>2010</b>—Subsec. (a)(3). Pub. L. 111–148 inserted ", or in a accredited school of nursing, as defined by section296(2) of this title, as nurse faculty" before semicolon at end.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–148 inserted ", or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty" before semicolon at end.
 
 <b>2002</b>—Pub. L. 107–205, §103(b)(1), substituted "Loan repayment and scholarship programs" for "Loan repayment program" in section catchline.
 

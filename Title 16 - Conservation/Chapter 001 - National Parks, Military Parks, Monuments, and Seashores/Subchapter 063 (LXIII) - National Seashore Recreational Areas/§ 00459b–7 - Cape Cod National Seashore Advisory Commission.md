@@ -60,7 +60,7 @@ Subsecs. (g), (h). Pub. L. 117–328, §613(2), (3), redesignated subsec. (h) as
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–11 substituted "2018" for "2008".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–280 substituted "The Commission shall terminate September 26, 2008." for "Said Commission shall terminate 30 years after thedate the seashore is established under section 459b–2 of this title."
+<b>1998</b>—Subsec. (a). Pub. L. 105–280 substituted "The Commission shall terminate September 26, 2008." for "Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–420 substituted "30 years" for "ten years".
 

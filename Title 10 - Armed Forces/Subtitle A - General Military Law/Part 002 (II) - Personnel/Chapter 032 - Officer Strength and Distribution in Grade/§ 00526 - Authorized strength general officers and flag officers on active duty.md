@@ -46,7 +46,7 @@ Exclusion of Certain Officers of Reserve Components.—The limitations of this s
 
 &emsp;&emsp;(B) under a call or order specifying a period of less than 180 days.
 
-&emsp;(2)(A) A general or flag officer of a reserve component who is authorized by the Secretary of the military department concerned to serveon active duty for a period of at least 180 days and not longer than 365 days.
+&emsp;(2)(A) A general or flag officer of a reserve component who is authorized by the Secretary of the military department concerned to serve on active duty for a period of at least 180 days and not longer than 365 days.
 
 &emsp;(B) The Secretary of the military department concerned may authorize a number, determined under subparagraph (C), of officers in the reserve component of each armed force under the jurisdiction of that Secretary to serve as described in subparagraph (A).
 
@@ -82,6 +82,14 @@ Exclusion of Officers Departing From Joint Duty Assignments.—The limitations i
 
 (g)
 
+Exclusion of Medical Officer of Marine Corps.—The limitations of this section do not apply to the flag officer who is serving as the Medical Officer of the Marine Corps.
+
+(h)
+
+Secretary of Defense Adaptive Force Account.—The limitations in subsection (a) and in section 525(a) of this title do not apply to a general officer or flag officer assigned to the Secretary of Defense Adaptive Force Account as designated by the Secretary of Defense. The total number of positions designated as the Secretary of Defense Adaptive Force Account for purposes of this subsection shall not exceed 35.
+
+(i)
+
 Active-Duty Baseline.—
 
 &emsp;(1)
@@ -96,7 +104,7 @@ Baseline defined.—In paragraph (1), the term "baseline" for an armed force mea
 
 &emsp;&emsp;(B) the actual number of general officers or flag officers of that armed force who, as of January 1, 2023, counted toward the statutory limit of general officers or flag officers of that armed force under subsection (a).
 
-(h)
+(j)
 
 Joint Duty Assignment Baseline.—
 
@@ -112,7 +120,7 @@ Baseline defined.—In paragraph (1), the term "baseline" means the lower of—
 
 &emsp;&emsp;(B) the actual number of general officers and flag officers who, as of January 1, 2023, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
 
-(i)
+(k)
 
 Annual Report.—Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
 
@@ -120,7 +128,7 @@ Annual Report.—Not later than March 1 each year, the Secretary of Defense shal
 
 &emsp;(2) The number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
-(j)
+(l)
 
 Transfer of Authorizations Among the Military Services.—(1) The Secretary of Defense may increase the maximum number of brigadier generals or major generals in the Army, Air Force, Marine Corps, or Space Force, or rear admirals (lower half) or rear admirals in the Navy, allowed under subsection (a) and section 525 of this title and the President may appoint officers in the equivalent grades equal to the number increased by the Secretary of Defense if each appointment is made in conjunction with an offsetting reduction under paragraph (2).
 
@@ -134,17 +142,23 @@ Transfer of Authorizations Among the Military Services.—(1) The Secretary of D
 
 &emsp;(B) each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
 
-(Added Pub. L. 114–328, div. A, title V, §501(h)(1), Dec. 23, 2016, 130 Stat. 2100, §526a; amended Pub. L. 116–283, div. A, title V, §501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, §501(b), Dec. 27, 2021, 135 Stat. 1679; Pub. L. 117–263, div. A, title V, §504, Dec. 23, 2022, 136 Stat. 2558; renumbered §526 and amended Pub. L. 118–31, div. A, title V, §501(a)(2), (4), (b), title XVIII, §1801(a)(9), Dec. 22, 2023, 137 Stat. 240, 684.)
+(Added Pub. L. 114–328, div. A, title V, §501(h)(1), Dec. 23, 2016, 130 Stat. 2100, §526a; amended Pub. L. 116–283, div. A, title V, §501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, §501(b), Dec. 27, 2021, 135 Stat. 1679; Pub. L. 117–263, div. A, title V, §504, Dec. 23, 2022, 136 Stat. 2558; renumbered §526 and amended Pub. L. 118–31, div. A, title V, §501(a)(2), (4), (b), title XVIII, §1801(a)(9), Dec. 22, 2023, 137 Stat. 240, 684; Pub. L. 118–159, div. A, title V, §§502(a), 509B(c), Dec. 23, 2024, 138 Stat. 1868, 1873.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 526, added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §502, title XVIII, §1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, \[div. A\], title V, §§503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, §502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276; Pub. L. 112–81, div. A, title V, §502(b)(1), (c)(1), Dec. 31, 2011, 125 Stat. 1387; Pub. L. 112–239, div. A, title V, §501(a), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §501(a), (b)(2), Dec. 26, 2013, 127 Stat. 748, 749; Pub. L. 114–328, div. A, title V, §§501(h)(2), 503(b), Dec. 23, 2016, 130 Stat. 2102, 2107; Pub. L. 116–92, div. A, title XVII, §1731(a)(17), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title V, §501(c)(2), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–81, div. A, title V, §501(a), Dec. 27, 2021, 135 Stat. 1678, related to authorized strength of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, prior to repeal by Pub. L. 118–31, div. A, title V, §501(a)(1), Dec. 22, 2023, 137 Stat. 240.
+A prior section 526, added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, §507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §502, title XVIII, §1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, \[div. A\], title V, §§503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, §502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276; Pub. L. 112–81, div. A, title V, §502(b)(1), (c)(1), Dec. 31, 2011, 125 Stat. 1387; Pub. L. 112–239, div. A, title V, §501(a), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §501(a), (b)(2), Dec. 26, 2013, 127 Stat. 748, 749; Pub. L. 114–328, div. A, title V, §§501(h)(2), 503(b), Dec. 23, 2016, 130 Stat. 2102, 2107; Pub. L. 116–92, div. A, title XVII, §1731(a)(17), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title V, §501(c)(2), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–81, div. A, title V, §501(a), Dec. 27, 2021, 135 Stat. 1678, related to authorized strength of general officers on active duty in theArmy, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, prior to repeal by Pub. L. 118–31, div. A, title V, §501(a)(1), Dec. 22, 2023, 137 Stat. 240.
 
 Another prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsecs. (g), (h). Pub. L. 118–159, §509(c), added subsec. (g) and redesignated subsec. (g), as added by section 502(a)(2), as (h).
+
+Pub. L. 118–159, §502(a)(2), added subsec. (g), which was subsequently redesignated (h).
+
+Subsecs. (i) to (l). Pub. L. 118–159, §§502(a)(1), 509B(c)(1), successively redesignated subsecs. (g) to (j) first as (h) to (k), then as (i) to (l), respectively.
 
 <b>2023</b>—Pub. L. 118–31, §501(a)(4), struck out "after December 31, 2022" after "Authorized strength" in section catchline.
 

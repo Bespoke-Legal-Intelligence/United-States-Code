@@ -26,7 +26,7 @@ The United States Governor of the Bank is authorized—
 
 (4) Of the amount authorized to be appropriated under paragraph (3), $278,370,088 shall be for paid in shares of the Bank, and $4,361,131,378 shall be for callable shares of the Bank.
 
-(July 31, 1945, ch. 339, §70, as added Pub. L. 112–74, div. I, title VII, §7081(a), Dec. 23, 2011, 125 Stat. 1259; amended Pub. L. 113–6, div. F, title VII, §1704(d), Mar. 26, 2013, 127 Stat. 429.)
+(July 31, 1945, ch. 339, §70, as added Pub. L. 112–74, div. I, title VII, §7081(a), Dec. 23, 2011, 125Stat. 1259; amended Pub. L. 113–6, div. F, title VII, §1704(d), Mar. 26, 2013, 127 Stat. 429.)
 
 #### <b>Editorial Notes</b>
 

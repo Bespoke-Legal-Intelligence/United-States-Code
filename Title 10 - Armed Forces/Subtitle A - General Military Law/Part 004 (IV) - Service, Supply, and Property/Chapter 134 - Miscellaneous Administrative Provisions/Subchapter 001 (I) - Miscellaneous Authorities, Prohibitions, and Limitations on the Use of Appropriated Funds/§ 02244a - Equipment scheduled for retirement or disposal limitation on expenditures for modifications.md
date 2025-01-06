@@ -34,5 +34,5 @@ Waiver Authority.—The Secretary concerned may waive the prohibition in subsect
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 109–163, div. A, title III, §372(c), 119 Stat. 3210.
+Provisions similar to those in this section were contained in Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111Stat. 1232, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 109–163, div. A, title III, §372(c), 119 Stat. 3210.
 

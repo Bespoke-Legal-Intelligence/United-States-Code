@@ -200,7 +200,7 @@ In subsection (g), the words "equal to the amount that would be paid to an indiv
 
 In subsection (h)(2), the words "according to approved commercial practice as provided in the Act of March 20, 1922 (42 Stat. 444)" are omitted as obsolete and unnecessary.
 
-In subsection (i)(2), the words "Notwithstanding any other provision of this chapter or any other law" are omitted as unnecessary. In clause (G), the words "National Defense Reserve Fleet" are substituted for "reserve fleet" for clarity. Clause (H) is substituted for"(7) maritime training at the Merchant Marine Academy at Kings Point, New York", "(8) financial assistance to State maritime academies under section 1295c of this Appendix", "(10) expenses necessary for additional training provided under section 1295d of this Appendix", and "(10) expenses necessary to carry out subchapter XIII of this chapter" because of the reorganization of revised title 46 and to eliminate unnecessary words. The text of 46 App. U.S.C. 1119 (proviso) is omitted as obsolete.
+In subsection (i)(2), the words "Notwithstanding any other provision of this chapter or any other law" are omitted as unnecessary. In clause (G), the words "National Defense Reserve Fleet" are substituted for "reserve fleet" for clarity. Clause (H) is substituted for "(7) maritime training at the Merchant Marine Academy at Kings Point, New York", "(8) financial assistance to State maritime academies under section 1295c of this Appendix", "(10) expenses necessary for additional training provided under section 1295d of this Appendix", and "(10) expenses necessary to carry out subchapter XIII of this chapter" because of the reorganization of revised title 46 and to eliminate unnecessary words. The text of 46 App. U.S.C. 1119 (proviso) is omitted as obsolete.
 
 #### <b>Editorial Notes</b>
 
@@ -236,7 +236,7 @@ Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, pro
 
 #### References in Other Federal Laws to Functions or Offices Transferred
 
-Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: "With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug. 6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions."
+Pub. L. 97–31, §10, Aug. 6, 1981, 95 Stat. 153, provided that: "With respect to any function or office transferred by this Act \[see Tables for classification\] and exercised on or after the effective date of this Act \[Aug. 6, 1981\], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary ofTransportation, other official, or component of the Department of Transportation to which this Act transfers such functions."
 
 #### Workforce Plans and Onboarding Policies
 

@@ -30,7 +30,7 @@ Powers and Duties.—The Administrator shall carry out—
 
 (g)
 
-Limitation on Transfer of Powers and Duties.—A duty or power specified in subsection (f)(1) may only be transferred to another part of the Department when specifically provided by law.
+Limitation on Transfer of Powers and Duties.—A duty or power specified in subsection (f)(1) may only be transferred to another part ofthe Department when specifically provided by law.
 
 (h)
 
@@ -172,7 +172,7 @@ Petition Defined.—In this section, the term 'petition' means a request for—
 
 #### Prioritizing Statutory Rulemakings
 
-Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination."
+Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any otherrulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination."
 
 #### Findings
 

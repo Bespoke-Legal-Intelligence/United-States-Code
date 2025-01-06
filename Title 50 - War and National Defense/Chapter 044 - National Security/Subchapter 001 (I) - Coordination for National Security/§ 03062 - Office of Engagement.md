@@ -36,7 +36,7 @@ In this section, the term "covered entity" means an entity that is not an entity
 
 Pub. L. 118–31, div. G, title V, §7503(e), Dec. 22, 2023, 137 Stat. 1083, provided that: "Nothing in this section \[enacting this section and provisions set out as notes under this section\], or an amendment made by this section, shall be construed as restricting or preempting engagement or outreach activities of elements of the intelligence community."
 
-\[For definition of "intelligence community" as used in section 7503(e) of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.\]
+\[For definition of "intelligence community" as used in section 7503(e) of Pub. L. 118–31, set out above, seesection 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.\]
 
 #### Deadline
 

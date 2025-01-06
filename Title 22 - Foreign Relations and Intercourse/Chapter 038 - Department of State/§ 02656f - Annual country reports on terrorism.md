@@ -22,7 +22,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) the extent to which the government of the foreign country is cooperating in preventing further acts of terrorism against United States citizens in the foreign country; and
 
-&emsp;(4) with respect to each foreign country from which the United States Government hassought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
+&emsp;(4) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
 
 #### (b) Provisions to be included in report
 
@@ -152,7 +152,7 @@ Subsec. (b)(2). Pub. L. 108–458, §7102(d)(2)(A)(ii), (C), added par. (2). For
 
 Subsec. (b)(3). Pub. L. 108–487, §701(a)(2)(C), added par. (3) relating to statistical information on individuals killed, injured, or kidnapped by terrorist groups.
 
-Pub. L. 108–487, §701(a)(2)(B)(iii), which directed amendment of subsec. (b)(2)(F), as redesignated by Pub. L. 108–487, §701(a)(2)(B)(i), by substituting a semicolon for the period, was probably intended as an amendment to subpar. (F) of subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2), as redesignated by Pub. L. 108–458, §7102(d)(2)(B), and Pub. L. 108–487, §701(a)(2)(B)(i), but could not be executed because of the amendment by Pub. L. 108–458, §7102(d)(2)(D). See below.
+Pub. L. 108–487, §701(a)(2)(B)(iii), which directed amendment of subsec. (b)(2)(F), as redesignated by Pub.L. 108–487, §701(a)(2)(B)(i), by substituting a semicolon for the period, was probably intended as an amendment to subpar. (F) of subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2), as redesignated by Pub. L. 108–458, §7102(d)(2)(B), and Pub. L. 108–487, §701(a)(2)(B)(i), but could not be executed because of the amendment by Pub. L. 108–458, §7102(d)(2)(D). See below.
 
 Pub. L. 108–458, §7102(d)(2)(B), (D), redesignated par. (2), relating to report provisions with respect to subsec. (a)(2), as (3) and substituted a semicolon for the period at end.
 

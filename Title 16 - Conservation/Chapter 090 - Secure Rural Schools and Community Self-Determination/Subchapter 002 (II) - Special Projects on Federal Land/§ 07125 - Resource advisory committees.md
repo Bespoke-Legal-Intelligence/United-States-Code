@@ -144,7 +144,7 @@ A resource advisory committee shall—
 
 #### (A) Notice
 
-&emsp;&emsp;On notice from the applicable regional forester that an adequate number of qualified candidates are not interested or available to serve on a resource advisory committee, the Secretary concerned shall publish a notice in the Federal Register seeking candidates for the resource advisory committee.
+&emsp;&emsp;On notice from the applicable regional forester that an adequate number of qualified candidates are not interested or available to serve on a resource advisory committee, theSecretary concerned shall publish a notice in the Federal Register seeking candidates for the resource advisory committee.
 
 #### (B) Modification of membership requirements
 
@@ -180,7 +180,7 @@ A resource advisory committee shall—
 
 #### (2) Meetings
 
-&emsp;All meetings of a resource advisory committee shall be announced at least 1 week inadvance in a local newspaper of record and shall be open to the public.
+&emsp;All meetings of a resource advisory committee shall be announced at least 1 week in advance in a local newspaper of record and shall be open to the public.
 
 #### (3) Records
 

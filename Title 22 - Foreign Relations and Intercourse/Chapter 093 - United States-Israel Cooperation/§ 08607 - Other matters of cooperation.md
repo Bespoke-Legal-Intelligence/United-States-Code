@@ -8,7 +8,7 @@ Activities authorized under this section shall be carried out with the concurren
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to the Secretary of Health and Human Services $4,000,000 for fiscal years 2021 through 2023 for a bilateral cooperative program with the Government of Israel that awards grants for the development of health technologies, which may include health technologies listed in paragraph (2), subject to paragraph (3), with an emphasis on collaboratively advancing the use of technology and personalized medicine in relation to COVID–19.
+&emsp;There is authorized to be appropriated to the Secretary of Health and Human Services$4,000,000 for fiscal years 2021 through 2023 for a bilateral cooperative program with the Government of Israel that awards grants for the development of health technologies, which may include health technologies listed in paragraph (2), subject to paragraph (3), with an emphasis on collaboratively advancing the use of technology and personalized medicine in relation to COVID–19.
 
 #### (2) Types of health technologies
 

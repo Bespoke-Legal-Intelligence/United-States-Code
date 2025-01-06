@@ -38,7 +38,7 @@ Decontamination Defined.—For purposes of this section, 'decontamination' may i
 
 "(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $22,000,000 to complete technology testing, technology commercialization, and the development of full scale processing facilities within the New York/New Jersey Harbor. Such sums shall remain available until expended.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $22,000,000 to complete technology testing, technology commercialization, and the development of full scale processing facilities within the New York/New JerseyHarbor. Such sums shall remain available until expended.
 
 "(d)
 

@@ -50,7 +50,7 @@ In general.—Except as provided in paragraph (2), each contract awarded after u
 
 &emsp;(2)
 
-Exception for foreign contractor or subcontractor.—Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the head of the agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—
+Exception for foreign contractor or subcontractor.—Paragraph (1) does not apply to a contract or subcontract with a foreigncontractor or foreign subcontractor if the head of the agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—
 
 &emsp;&emsp;(A) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its records available for examination; and
 
@@ -82,7 +82,7 @@ Forms of Original Record Storage.—Nothing in this section shall be construed t
 
 (i)
 
-Use of Images of Original Records.—The head of an agency shall not require a contractoror subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
+Use of Images of Original Records.—The head of an agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 116–283, §1835(b)(1), (5), redesignated subsec. (c) of s
 
 Subsec. (e). Pub. L. 116–283, §1835(b)(1), redesignated subsec. (d) of section 2313 of this title as subsec. (e) of this section.
 
-Subsec. (f). Pub. L. 116–283, §1835(b)(1), (6), redesignated subsec. (e) of section 2313 of this title as subsec. (f) of this section and substituted "subsection (b)" for "subsection (a)" and "subsection (d)" for "subsection (c)".
+Subsec. (f). Pub. L. 116–283, §1835(b)(1), (6), redesignated subsec. (e) of section 2313 of this title as subsec.\(f) of this section and substituted "subsection (b)" for "subsection (a)" and "subsection (d)" for "subsection (c)".
 
 Subsecs. (g) to (i). Pub. L. 116–283, §1835(b)(1), redesignated subsecs. (f) to (h) of section 2313 of this title as subsecs. (g) to (i), respectively, of this section.
 

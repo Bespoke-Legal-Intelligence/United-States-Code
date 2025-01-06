@@ -8,6 +8,7 @@
 | [2113a.](%C2%A7%2002113a%20-%20Board%20of%20Regents.md) | Board of Regents. |
 | [2113b.](%C2%A7%2002113b%20-%20Academic%20Health%20System.md) | Academic Health System. |
 | [2114\.](%C2%A7%2002114%20-%20Students%20selection%3B%20status%3B%20obligation.md) | Students: selection; status; obligation. |
+| [2114a.](%C2%A7%2002114a%20-%20Eligibility%20of%20members%20of%20foreign%20militaries%20to%20enroll%20in%20the%20University.md) | Eligibility of members of foreign militaries to enroll in the University. |
 | [2115\.](%C2%A7%2002115%20-%20Graduates%20limitation%20on%20number%20permitted%20to%20perform%20civilian%20Federal%20service.md) | Graduates: limitation on number permitted to perform civilian Federal service. |
 | [2116\.](%C2%A7%2002116%20-%20Military%20nursing%20research.md) | Military nursing research. |
 | \[2117. | Repealed.\] |
@@ -17,6 +18,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Pub. L. 118–159, div. A, title V, §553, Dec. 23, 2024, 138 Stat. 1894, added item 2114a. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VII, §734(b), Dec. 20, 2019, 133 Stat. 1462, added item 2113b.
 
@@ -49,6 +52,7 @@ Pub. L. 104–106, div. A, title VII, §741(b), title X, §1072(c)(2), Feb. 10, 
 - [&sect; 02113a - Board of Regents](%C2%A7%2002113a%20-%20Board%20of%20Regents.md)
 - [&sect; 02113b - Academic Health System](%C2%A7%2002113b%20-%20Academic%20Health%20System.md)
 - [&sect; 02114 - Students selection; status; obligation](%C2%A7%2002114%20-%20Students%20selection%3B%20status%3B%20obligation.md)
+- [&sect; 02114a - Eligibility of members of foreign militaries to enroll in the University](%C2%A7%2002114a%20-%20Eligibility%20of%20members%20of%20foreign%20militaries%20to%20enroll%20in%20the%20University.md)
 - [&sect; 02115 - Graduates limitation on number permitted to perform civilian Federal service](%C2%A7%2002115%20-%20Graduates%20limitation%20on%20number%20permitted%20to%20perform%20civilian%20Federal%20service.md)
 - [&sect; 02116 - Military nursing research](%C2%A7%2002116%20-%20Military%20nursing%20research.md)
 - [&sect; 02117 - Repealed. Pub. L. 111&#8211;84, div. A, title V, &sect;525(a)(1), Oct. 28, 2009, 123 Stat. 2286](%C2%A7%2002117%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7525%28a%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202286.md)

@@ -72,6 +72,60 @@ Nothing in this section may be construed—
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Measures To Protect Department Devices From the Proliferation and Use of Foreign Commercial Spyware
+
+Pub. L. 118–159, div. G, title LXXIII, §7302, Dec. 23, 2024, 138 Stat. 2541, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, and the Committee on Armed Services of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Homeland Security, and the Committee on Armed Services of the House of Representatives.
+
+&emsp;"(2)
+
+Covered device.—The term 'covered device' means any electronic mobile device, including smartphones, tablet computing devices, or laptopcomputing device, that is issued by the Department for official use.
+
+&emsp;"(3)
+
+Foreign commercial spyware; spyware.—The terms 'foreign commercial spyware' and 'spyware' have the meanings given those terms in section 1102A of the National Security Act of 1947 (50 U.S.C. 3232a).
+
+"(b)
+
+Protection of Covered Devices.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary \[of State\] shall, in consultation with the relevant agencies—
+
+&emsp;&emsp;"(A) issue standards, guidance, best practices, and policies for Department \[of State\] and USAID \[United States Agency for International Development\] personnel to protect covered devices from being compromised by foreign commercial spyware;
+
+&emsp;&emsp;"(B) survey the processes used by the Department and USAID to identify and catalog instances where a covered device was compromised by foreign commercial spyware over the prior 2 years and it is reasonably expected to have resulted in an unauthorized disclosure of sensitive information; and
+
+&emsp;&emsp;"(C) submit to the appropriate committees of Congress a report on the measures in place to identify and catalog instances of such compromises for covered devices by foreign commercial spyware, which may be submitted in classified form.
+
+&emsp;"(2)
+
+Notifications.—Not later than 60 days after the date on which the Department becomes aware that a covered device was seriously compromised by foreign commercial spyware, the Secretary, in coordination with relevant agencies, shall notify the appropriate committees of Congress of the facts concerning such targeting or compromise, including—
+
+&emsp;&emsp;"(A) the location of the personnel whose covered device was compromised;
+
+&emsp;&emsp;"(B) the number of covered devices compromised;
+
+&emsp;&emsp;"(C) an assessment by the Secretary of the damage to the national security of the United States resulting from any loss of data or sensitive information; and
+
+&emsp;&emsp;"(D) an assessment by the Secretary of any foreign government or foreign organization or entity, and, to the extent possible, the foreign individuals, who directed and benefitted from any information acquired from the compromise.
+
+&emsp;"(3)
+
+Annual report.—Not later than one year after the date of the enactment of this Act, and annually thereafter for 5 years, the Secretary, in coordination with relevant agencies, shall submit to the appropriate committees of Congress, the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives a report regarding any covered device that was compromised by foreign commercial spyware, including the information described in subparagraphs (A) through (D) of paragraph (2)."
+
 #### Definitions
 
 For definitions of "Department", "Secretary", and "appropriate congressional committees" as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.

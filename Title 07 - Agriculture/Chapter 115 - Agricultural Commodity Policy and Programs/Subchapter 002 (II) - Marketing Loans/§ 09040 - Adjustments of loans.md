@@ -30,7 +30,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;(A) the use of non-spot market price data, in addition to spot market price data, that would enhance the accuracy of the price information used in determining quality adjustments under this subsection;
 
-&emsp;&emsp;(B) adjustments in the premiums or discounts associated with upland cotton with a staple length of 33 or above due to micronaire with the goal of eliminating any unnecessary artificial splits in the calculations of the premiums or discounts; and
+&emsp;&emsp;(B) adjustments in the premiums or discounts associated with upland cotton with a staple length of 33 or above due to micronaire with the goal of eliminating anyunnecessary artificial splits in the calculations of the premiums or discounts; and
 
 &emsp;&emsp;(C) such other adjustments as the Secretary determines appropriate, after consultations conducted in accordance with paragraph (3).
 
@@ -46,7 +46,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### (4) Review of adjustments
 
-&emsp;The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and maymake further adjustments to the administration of the loan program for upland cotton, by revoking or revising any adjustment taken under paragraph (2).
+&emsp;The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and may make further adjustments to the administration of the loan program for upland cotton, by revoking or revising any adjustment taken under paragraph (2).
 
 #### (e) Rice
 

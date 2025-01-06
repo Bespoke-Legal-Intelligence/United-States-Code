@@ -16,7 +16,7 @@ In this chapter:
 
 #### (4) Antidumping Agreement
 
-&emsp;The term "Antidumping Agreement" means the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(7) of this title.
+&emsp;The term "Antidumping Agreement" means the Agreement on Implementation of ArticleVI of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(7) of this title.
 
 #### (5) Appellate Body
 
@@ -110,7 +110,7 @@ In this chapter:
 
 #### (18) Labor laws
 
-&emsp;The term "labor laws" means the statutes and regulations, or provisions thereof, of a party to the negotiations that are directly related to core labor standards as well as other labor protections for children and minors and acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health, and for the United States, includes Federal statutes and regulations addressing those standards, protections, or conditions, but does not include State or local labor laws.
+&emsp;The term "labor laws" means the statutes and regulations, or provisions thereof, of aparty to the negotiations that are directly related to core labor standards as well as other labor protections for children and minors and acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health, and for the United States, includes Federal statutes and regulations addressing those standards, protections, or conditions, but does not include State or local labor laws.
 
 #### (19) United States person
 

@@ -22,11 +22,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Policy based lending for debt reduction and sustainable growth
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to propose that policy based loans be made by such bank for, among other reasons, facilitating a reduction in the debt service burden of any country which is participating in a voluntary market-based program for debt reduction described in subsection (c).
+The Secretary of the Treasury shall instruct the United States Executive Director of theInternational Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to propose that policy based loans be made by such bank for, among other reasons, facilitating a reduction in the debt service burden of any country which is participating in a voluntary market-based program for debt reduction described in subsection (c).
 
 #### (c) Voluntary market-based program for debt reduction and sustainable growth
 
-In connection with the discussions initiated pursuant to subsection (b), the Secretary shallinstruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
+In connection with the discussions initiated pursuant to subsection (b), the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
 
 #### (d) Reports
 

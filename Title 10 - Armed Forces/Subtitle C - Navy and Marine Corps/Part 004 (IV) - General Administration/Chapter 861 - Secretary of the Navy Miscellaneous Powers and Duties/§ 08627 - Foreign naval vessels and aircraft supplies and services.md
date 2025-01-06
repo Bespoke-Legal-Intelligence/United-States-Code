@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Navy, under such regulations as he prescribes, may authorize any United States naval vessel or activity to furnish any of the following supplies or services, when in the best interests of the United States, on a reimbursable basis without an advance of funds if similar supplies and services are furnished on a like basis to naval vessels and military aircraft of the United States by the foreign country concerned:
 
-&emsp;(1) Routine port services in territorial waters of the United States or in waters underUnited States control, including pilotage, tugs, garbage removal, line-handling, and utilities, to naval vessels of foreign countries.
+&emsp;(1) Routine port services in territorial waters of the United States or in waters under United States control, including pilotage, tugs, garbage removal, line-handling, and utilities, to naval vessels of foreign countries.
 
 &emsp;(2) Routine airport services, including landing and takeoff assistance, use of runways, parking and servicing, to military aircraft of foreign countries.
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 98–525, §1405(49)(B), (D), substituted "Miscellaneous
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1983 Amendment
 

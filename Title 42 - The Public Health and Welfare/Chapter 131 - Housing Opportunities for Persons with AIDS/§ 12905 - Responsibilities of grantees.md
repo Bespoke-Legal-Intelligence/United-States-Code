@@ -32,7 +32,7 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 #### (2) Project sponsors
 
-&emsp;Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities undersection 12904 of this title, including the costs of staff necessary to carry out eligible activities.
+&emsp;Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities under section 12904 of this title, including the costs of staff necessary to carry out eligible activities.
 
 #### (h) Environmental review
 
@@ -46,47 +46,41 @@ Each dwelling unit assisted under this chapter shall contain installed carbon mo
 
 &emsp;(2) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
-(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L. 106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 116–260, div. Q, title I, §101(e), Dec. 27, 2020, 134 Stat. 2164; Pub. L. 117–328, div. AA, title VI, §601(d), Dec. 29, 2022, 136 Stat. 5545.)
+#### (j) Qualifying smoke alarms
 
-#### Amendment of Section
+#### (1) In general
 
-<i>Pub. L. 117–328, div. AA, title VI, §601(d), (h), Dec. 29, 2022, 136 Stat. 5545, 5548, provided that, effective two years after Dec. 29, 2022, this section is amended by adding at the end the following new subsection:</i>
+&emsp;Each dwelling unit assisted under this chapter shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
 
-#### <i>(j) Qualifying smoke alarms</i>
+#### (2) Definitions
 
-#### <i>(1) In general</i>
+&emsp;For purposes of this subsection, the following definitions shall apply:
 
-&emsp;<i>Each dwelling unit assisted under this chapter shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.</i>
+#### (A) Smoke alarm defined
 
-#### <i>(2) Definitions</i>
+&emsp;&emsp;The term "smoke alarm" has the meaning given the term "smoke detector" in section 2225(d) of title 15.
 
-&emsp;<i>For purposes of this subsection, the following definitions shall apply:</i>
+#### (B) Qualifying smoke alarm defined
 
-#### <i>(A) Smoke alarm defined</i>
+&emsp;&emsp;The term "qualifying smoke alarm" means a smoke alarm that—
 
-&emsp;&emsp;<i>The term "smoke alarm" has the meaning given the term "smoke detector" in section 2225(d) of title 15.</i>
+&emsp;&emsp;&emsp;(i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
 
-#### <i>(B) Qualifying smoke alarm defined</i>
+&emsp;&emsp;&emsp;&emsp;(I)(aa) is hardwired; or
 
-&emsp;&emsp;<i>The term "qualifying smoke alarm" means a smoke alarm that—</i>
+&emsp;&emsp;&emsp;&emsp;(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—
 
-&emsp;&emsp;&emsp;<i>(i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) is sealed;
 
-&emsp;&emsp;&emsp;&emsp;<i>(I)(aa) is hardwired; or</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) is tamper resistant; and
 
-&emsp;&emsp;&emsp;&emsp;<i>(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;(CC) contains silencing means; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(AA) is sealed;</i>
+&emsp;&emsp;&emsp;&emsp;(II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(BB) is tamper resistant; and</i>
+&emsp;&emsp;&emsp;(ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(CC) contains silencing means; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.</i>
-
-<i>See 2022 Amendment note below.</i>
+(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4),\(11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L. 106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 116–260, div. Q, title I, §101(e), Dec. 27, 2020, 134 Stat. 2164; Pub. L. 117–328, div. AA, title VI, §601(d), Dec. 29, 2022, 136 Stat. 5545.)
 
 #### <b>Editorial Notes</b>
 

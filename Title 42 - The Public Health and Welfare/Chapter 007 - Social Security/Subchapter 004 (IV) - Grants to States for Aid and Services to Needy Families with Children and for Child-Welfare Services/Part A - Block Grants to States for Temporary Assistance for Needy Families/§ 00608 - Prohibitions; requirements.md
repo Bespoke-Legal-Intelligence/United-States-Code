@@ -4,7 +4,7 @@
 
 #### (1) No assistance for families without a minor child
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part ofthe grant to provide assistance to a family, unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family, unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
 
 #### (2) Reduction or elimination of assistance for noncooperation in establishing paternity or obtaining child support
 
@@ -32,7 +32,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and theminor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
 
 #### (ii) Individual described
 
@@ -100,7 +100,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
+&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent ofthe average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
 
 #### (iii) Battered or subject to extreme cruelty defined
 
@@ -140,7 +140,7 @@
 
 #### (G) Inapplicability to welfare-to-work grants and assistance
 
-&emsp;&emsp;For purposes of subparagraph (A) of this paragraph, a grant made under section 603(a)(5) of this title shall not be considered a grant made under section 603 of this title, and noncash assistance from funds providedunder section 603(a)(5) of this title shall not be considered assistance.
+&emsp;&emsp;For purposes of subparagraph (A) of this paragraph, a grant made under section 603(a)(5) of this title shall not be considered a grant made under section 603 of this title, and noncash assistance from funds provided under section 603(a)(5) of this title shall not be considered assistance.
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
@@ -188,7 +188,7 @@
 
 #### (A) Earnings from employment
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will beappropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
 
 #### (B) Child support
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) within 90 days (or, at the option of the State, 180 days) after the effective date of this part, in the case of an individual who, as of such effective date, is a recipient of aid under the State plan approved under part A (as in effect immediately before such effective date); or
 
-&emsp;&emsp;&emsp;(ii) within 30 days (or, at the option of the State, 90 days) after the individual isdetermined to be eligible for such assistance, in the case of any other individual.
+&emsp;&emsp;&emsp;(ii) within 30 days (or, at the option of the State, 90 days) after the individual is determined to be eligible for such assistance, in the case of any other individual.
 
 #### (3) Penalty for noncompliance by individual
 
@@ -302,7 +302,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(i) the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 20 percent of the total of any amounts received by the sponsor or any such spouse in the month as wages or salary or as net earnings from self-employment, plus the full amount of any costs incurred by the sponsor and any such spouse in producing self-employment income in such month; or
+&emsp;&emsp;&emsp;&emsp;(I) 20 percent of the total of any amounts received by the sponsor or any such spouse in the month as wages or salary or as net earnings from self-employment, plus the full amount of any costs incurred by the sponsor and anysuch spouse in producing self-employment income in such month; or
 
 &emsp;&emsp;&emsp;&emsp;(II) $175;
 
@@ -482,7 +482,7 @@ Pub. L. 105–33, title V, §5581(a), Aug. 5, 1997, 111 Stat. 642, provided that
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modifiedprograms and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

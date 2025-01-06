@@ -108,7 +108,7 @@ Administrative Costs.—For each fiscal year, the Secretary may use not more tha
 
 (k)
 
-Report.—Not later than 1 year after the date on which the first grant is provided under this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of the program under this section.
+Report.—Not later than 1 year after the date on which the first grant is provided underthis section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of the program under this section.
 
 (l)
 

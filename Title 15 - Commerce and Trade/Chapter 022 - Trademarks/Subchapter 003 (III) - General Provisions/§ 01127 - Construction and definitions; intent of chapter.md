@@ -34,7 +34,7 @@ The term "service mark" means any word, name, symbol, or device, or any combinat
 
 &emsp;(1) used by a person, or
 
-&emsp;(2) which a person has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
+&emsp;(2) which a person has a bona fide intention to use in commerce and applies to register onthe principal register established by this chapter,
 
 > to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names, and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.
 
@@ -68,7 +68,7 @@ The term "use in commerce" means the bona fide use of a mark in the ordinary cou
 
 A mark shall be deemed to be "abandoned" if either of the following occurs:
 
-&emsp;(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances.Nonuse for 3 consecutive years shall be prima facie evidence of abandonment. "Use" of a mark means the bona fide use of such mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
+&emsp;(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for 3 consecutive years shall be prima facie evidence of abandonment. "Use" of a mark means the bona fide use of such mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
 
 &emsp;(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.
 
@@ -124,7 +124,7 @@ Pub. L. 106–43, §4(c), between pars. defining "person" inserted: "The term 'p
 
 <b>1988</b>—Pub. L. 100–667, §134(1), amended par. defining "related company" generally. Prior to amendment, par. read as follows: "The term 'related company' means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used."
 
-Pub. L. 100–667, §134(2), amended par. defining "trade name" and "commercial name" generally. Prior toamendment, par. read as follows: "The terms 'trade name' and 'commercial name' include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law."
+Pub. L. 100–667, §134(2), amended par. defining "trade name" and "commercial name" generally. Prior to amendment, par. read as follows: "The terms 'trade name' and 'commercial name' include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law."
 
 Pub. L. 100–667, §134(3), amended par. defining "trademark" generally. Prior to amendment, par. read as follows: "The term 'trademark' includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown."
 
@@ -142,7 +142,7 @@ Pub. L. 100–667, §134(8), substituted par. defining "use in commerce" for for
 
 "(b) When any course of conduct of the registrant, including acts of omission as well as commission, causes the mark to lose its significance as an indication of origin. Purchaser motivation shall not be a test for determining abandonment under this subparagraph."
 
-<b>1984</b>—Pub. L. 98–620, §103(1), in definition of "trademark" substituted "trademark" for "trade-mark", and substituted "identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown" for "identify his goods and distinguish them from those manufactured or sold by others".
+<b>1984</b>—Pub. L. 98–620, §103(1), in definition of "trademark" substituted "trademark" for "trade-mark", andsubstituted "identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown" for "identify his goods and distinguish them from those manufactured or sold by others".
 
 Pub. L. 98–620, §103(2), in definition of "service mark" substituted "The term 'service mark' means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown" for "The term 'service mark' means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others".
 

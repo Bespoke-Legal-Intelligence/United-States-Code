@@ -196,7 +196,7 @@ Definition of governors.—In this subsection, the term "Governors" has the mean
 
 &emsp;(6)
 
-Authorization of appropriations.—There are authorized to be appropriated, out of the Postal Service Fund, such sums as may benecessary for the Office of Inspector General of the United States Postal Service.
+Authorization of appropriations.—There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Office of Inspector General of the United States Postal Service.
 
 (g)
 
@@ -320,7 +320,7 @@ Report.—On October 31 of each year, the head of each Federal entity (as define
 
 &emsp;&emsp;<i>"(i) has made a determination that the continued presence of the Inspector General in the workplace poses a threat described in any of clauses (i) through (iv) of section 6329b(b)(2)(A) of title 5, United States Code; and</i>
 
-&emsp;&emsp;<i>"(ii) not later than the date on which the change in status takes effect, submits to both Houses of Congress (including to the appropriate congressional committees) a written communication that contains the information required under subparagraph (B), including the report required under clause (ii) of that subparagraph.</i>
+&emsp;&emsp;<i>"(ii) not later than the date on which the change in status takes effect, submits to both Houses of Congress (including to the appropriate congressional committees) a written communication that contains the information required under subparagraph (B), including the</i><i>report required under clause (ii) of that subparagraph.</i>
 
 &emsp;<i>"(D) Nothing in this paragraph may be construed to limit or otherwise modify—</i>
 
@@ -396,7 +396,7 @@ Personnel, documents, assets.—All personnel, documents, assets, unexpended bal
 
 "(2)
 
-Legal documents.—Any order, determination, rule, regulation, permit, grant, loan, contract, agreement, certificate, license, or privilege that has been issued, made, granted, or allowed to become effectiveby the Inspector General of the Postal Regulatory Commission that is in effect on the effective date of this section shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
+Legal documents.—Any order, determination, rule, regulation, permit, grant, loan, contract, agreement, certificate, license, or privilege that has been issued, made, granted, or allowed to become effective by the Inspector General of the Postal Regulatory Commission that is in effect on the effective date of this section shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
 
 "(3)
 
@@ -434,7 +434,7 @@ Waiver.—The Lead Inspector General for Operation Freedom's Sentinel may waive 
 
 #### Inspector General for Committee for Purchase From People Who Are Blind or Severely Disabled
 
-Pub. L. 114–113, div. H, title IV, §401(b), Dec. 18, 2015, 129 Stat. 2640, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee."
+Pub. L. 114–113, div. H, title IV, §401(b), Dec. 18, 2015, 129 Stat. 2640, provided that: "Not later than 180 daysafter the date of the enactment of this Act \[Dec. 18, 2015\], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee."
 
 \[Pub. L. 114–113, div. H, title IV, §401(c), Dec. 18, 2015, 129 Stat. 2640, provided that: "This section \[amending former section 8G of Pub. L. 95–452 (see this section), and enacting provisions set out as a note above\], and the amendments made by this section, shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 18, 2015\]."\]
 
@@ -470,7 +470,7 @@ Limitation.—The authority provided by subsection (a) shall be effective only w
 
 Pub. L. 113–76, div. B, title IV, Jan. 17, 2014, 128 Stat. 75, provided in part: "That the Inspector General for the Commission on Civil Rights (CCR IG), as provided in Public Law 113–6 \[set out below\], is authorized to close out all work related to pending or closed investigations, to complete pending investigations, and to terminate all activities related to the duties, responsibilities and authorities of the CCR IG: <i>Provided further</i>, That when the CCR IG concludes that all pending investigations have been completed, all work related to pending or closed investigations has been closed out, and all activities related to the duties, responsibilities and authorities of the CCR IG have ended, the CCR IG shall certify that conclusion to the Committees on Appropriations of the House of Representatives and the Senate, and the Office of the CCR IG shall then be terminated".
 
-Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, as amended by Pub. L. 117–286, §4(b)(14), Dec. 27, 2022, 136 Stat. 4344, provided in part: "That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: <i>Provided further</i>, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue ofsuch appointment, also hold the position of Inspector General of the Commission on Civil Rights: <i>Provided further</i>, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights".
+Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, as amended by Pub. L. 117–286, §4(b)(14), Dec. 27, 2022, 136 Stat. 4344, provided in part: "That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: <i>Provided further</i>, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: <i>Provided further</i>, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights".
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -478,7 +478,31 @@ Pub. L. 112–55, div. B, title IV, Nov. 18, 2011, 125 Stat. 628.
 
 #### Special Inspector General for Afghanistan Reconstruction
 
-Pub. L. 110–181, div. A, title XII, §1229, Jan. 28, 2008, 122 Stat. 378, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(11), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–38, §1, June 30, 2009, 123 Stat. 1932; Pub. L. 117–286, §4(b)(15), Dec. 27, 2022, 136 Stat. 4344, provided that:
+Pub. L. 118–159, div. G, title LXXVIII, §7809(b)–(e), Dec. 23, 2024, 138 Stat. 2562, 2563, provided that:
+
+"(b)
+
+Eligibility for ICTAP.—Any individual who is an employee of the Office of the Special Inspector General for Afghanistan Reconstruction on the date of the enactment of this section \[Dec. 23, 2024\] shall be—
+
+&emsp;"(1) given priority consideration for appointment under the Interagency Career Transition Assistance Program under subpart G of part 330 of title 5, Code of Federal Regulations (or any successor regulation), subject to the terms and conditions of such Program; and
+
+&emsp;"(2) considered to be displaced and ICTAP-eligible as those terms are defined in section 330.702 of such subpart (or any successor regulation) for purposes of the Program; and
+
+&emsp;"(3) considered to have established proof of eligibility under section 330.710 of such subpart (or any successor regulation) for the purposes of the Program.
+
+"(c)
+
+Appointment to the Competitive Service.—Any individual described in subsection (b) who is found to be well qualified for a position may be appointed in the competitive service without competitive examination.
+
+"(d)
+
+Regulations.—The Director of the Office of Personnel Management may prescribe regulations for the administration of this section.
+
+"(e)
+
+Use of Unobligated Funds.—Any unobligated funds remaining available for the Office of the Special Inspector General for Afghanistan Reconstruction on February 1, 2026, may be used by the Office of Inspector General of the Department of State."
+
+Pub. L. 110–181, div. A, title XII, §1229, Jan. 28, 2008, 122 Stat. 378, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(11), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–38, §1, June 30, 2009, 123 Stat. 1932; Pub. L. 117–286, §4(b)(15), Dec. 27, 2022, 136 Stat. 4344; Pub. L. 118–159, div. G, title LXXVIII, §7809(a), Dec. 23, 2024, 138 Stat. 2562, provided that:
 
 "(a)
 
@@ -724,7 +748,7 @@ Submission to secretaries of state and defense.—The Inspector General shall al
 
 &emsp;"(2)
 
-Submission to congress.—Not later than 30 days after receipt of a report under paragraph (1), the Secretary of State or the Secretary of Defense may submit to the appropriate congressional committees any comments on the matters covered by the report as the Secretary of State or the Secretary of Defense, as the case may be, considers appropriate. Any comments on the matters covered by the report shall be submitted in unclassified form, but may include a classified annex if the Secretary of State or the Secretary of Defense, as the case may be, considers it necessary.
+Submission to congress.—Not later than 30 days after receipt of a report under paragraph (1), theSecretary of State or the Secretary of Defense may submit to the appropriate congressional committees any comments on the matters covered by the report as the Secretary of State or the Secretary of Defense, as the case may be, considers appropriate. Any comments on the matters covered by the report shall be submitted in unclassified form, but may include a classified annex if the Secretary of State or the Secretary of Defense, as the case may be, considers it necessary.
 
 "(k)
 
@@ -798,7 +822,7 @@ Termination.—
 
 &emsp;"(1)
 
-In general.—The Office of the Special Inspector General for Afghanistan Reconstruction shall terminate 180 days after the date on which amounts appropriated or otherwise made available for the reconstruction of Afghanistan that are unexpended are less than $250,000,000.
+In general.—The Office of the Special Inspector General for Afghanistan Reconstruction shall terminate on January 31, 2026.
 
 &emsp;"(2)
 
@@ -806,9 +830,11 @@ Final report.—The Inspector General shall, prior to the termination of the Off
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board
 
-Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4813, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: <i>Provided further</i>, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
+Pub. L. 118–42, div. E, title III, Mar. 9, 2024, 138 Stat. 278, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: <i>Provided further</i>, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4813.
 
 Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 402.
 
@@ -844,7 +870,7 @@ Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 399.
 
 Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, as amended by Pub. L. 117–286, §4(b)(16), Dec. 27, 2022, 136 Stat. 4345, provided in part: "That, hereafter, there shall be an Inspector General at the \[Chemical Safety and Hazard Investigation\] Board who shall have the duties, responsibilities, and authorities specified in chapter 4 of title 5, United States Code: <i>Provided further</i>, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: <i>Provided further</i>, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
-\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
+\[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, includingthe functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -930,7 +956,7 @@ Duties.—(1) It shall be the duty of the Inspector General to conduct, supervis
 
 "(3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under chapter 4 of title 5, United States Code.
 
-"(4) In carrying out the duties, responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of, each of the following:
+"(4) In carrying out the duties, responsibilities, and authorities of the Inspector General under this section,the Inspector General shall coordinate with, and receive the cooperation of, each of the following:
 
 &emsp;"(A) The Inspector General of the Department of State.
 
@@ -982,7 +1008,7 @@ Reports.—(1) Not later than 30 days after the end of each fiscal-year quarter,
 
 &emsp;&emsp;"(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
 
-"(2) A contract described in this paragraph is any major contract or other agreement that is entered intoby any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Iraq with any public or private sector entity for any of the following purposes:
+"(2) A contract described in this paragraph is any major contract or other agreement that is entered into by any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Iraq with any public or private sector entity for any of the following purposes:
 
 &emsp;"(A) To build or rebuild physical infrastructure of Iraq.
 

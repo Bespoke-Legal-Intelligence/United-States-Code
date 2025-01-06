@@ -32,7 +32,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (b) Applications
 
-In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
+In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care underthe responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
 
 &emsp;(1) a description of how courts and child welfare agencies on the local and State levels will use not less than 30 percent of grant funds to collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
 
@@ -68,7 +68,59 @@ In order to be eligible to receive a grant under this section, a highest State c
 
 Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2023.
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(4), Dec. 29, 2022, 136 Stat. 5965.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(4), Dec. 29, 2022, 136 Stat. 5965; Pub. L. 118–258, title I, §§104(b)–(d), 107(b)(3), 115(b)(2)(F), Jan. 4, 2025, 138 Stat. 2948, 2955, 2969.)
+
+#### Amendment of Section
+
+<i>Pub. L. 118–258, title I, §§104(b)–(d), 107(b)(3), 115(b)(2)(F), 117, Jan. 4, 2025, 138 Stat. 2948, 2955, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (1), by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(F) that determine the appropriateness and best practices for use of technology to conduct remote hearings, subject to participant consent, including to ensure maximum participation of individuals involved in proceedings and to enable courts to maintain operations in times of public health or other emergencies;";</i>
+
+<i>(B) in paragraph (2)(C), by striking "personnel." and inserting "personnel and supporting optimal use of remote hearing technology; and"; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+&emsp;<i>"(3) to ensure continuity of needed court services, prevent disruption of the services, and enable their recovery from threats such as public health crises, natural disasters or cyberattacks, including through—</i>
+
+&emsp;&emsp;<i>"(A) support for technology that allows court proceedings to occur remotely subject to participant consent, including hearings and legal representation;</i>
+
+&emsp;&emsp;<i>"(B) the development of guidance and protocols for responding to the occurrences and coordinating with other agencies; and</i>
+
+&emsp;&emsp;<i>"(C) other activities carried out to ensure backup systems are in place.";</i>
+
+<i>(2) in subsection (c)—</i>
+
+<i>(A) by striking "629f(b)(2)" and inserting "629f(b)(1)" in each of paragraphs (1) through (3); and</i>
+
+<i>(B) in paragraph (3), by inserting "for fiscal year 2025, and $2,000,000 for each of fiscal years 2026 through 2029," before "for grants";</i>
+
+<i>(3) in subsection (d), by striking "2017 through 2023" and inserting "2025 through 2029"; and</i>
+
+<i>(4) by adding at the end the following:</i>
+
+#### <i>(e) Guidance</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Every 5 years, the Secretary shall issue implementation guidance for sharing information on best practices for—</i>
+
+&emsp;&emsp;<i>(A) technological changes needed for court proceedings for foster care, guardianship, or adoption to be conducted remotely in a way that maximizes engagement and protects the privacy of participants; and</i>
+
+&emsp;&emsp;<i>(B) the manner in which the proceedings should be conducted.</i>
+
+#### <i>(2) Initial issuance</i>
+
+&emsp;<i>The Secretary shall issue initial guidance required by paragraph (1) with preliminary information on best practices not later than October 1, 2025.</i>
+
+#### <i>(3) Additional consultation</i>
+
+&emsp;<i>The Secretary shall consult with Indian tribes on the development of appropriate guidelines for State court proceedings involving Indian children to maximize engagement of Indian tribes and provide appropriate guidelines on conducting State court proceedings subject to the Indian Child Welfare Act of 1978 (25 U.S.C. 1901 et seq.).</i>
+
+<i>See 2025 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -85,6 +137,20 @@ Section was formerly set out as a note under section 670 of this title prior to 
 A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+<b>2025</b>—Subsec. (a)(1)(F). Pub. L. 118–258, §104(c)(1), added subpar. (F).
+
+Subsec. (a)(2)(C). Pub. L. 118–258, §104(c)(2), substituted "personnel and supporting optimal use of remote hearing technology; and" for "personnel."
+
+Subsec. (a)(3). Pub. L. 118–258, §104(c)(3), added par. (3).
+
+Subsec. (c)(1), (2). Pub. L. 118–258, §115(b)(2)(F), substituted "sections 629f(b)(1)" for "sections 629f(b)(2)".
+
+Subsec. (c)(3). Pub. L. 118–258, §107(b)(2)(F), (3), in introductory provisions, substituted "section 629f(b)(1) of this title" for "section 629f(b)(2) of this title" and inserted "for fiscal year 2025, and $2,000,000 for each of fiscal years 2026 through 2029," before "for grants".
+
+Subsec. (d). Pub. L. 118–258, §104(b), which directed substitution of "2025 through 2029" for "2017 through 2023", was executed by making the substitution for "2018 through 2023" to reflect the probable intent of Congress.
+
+Subsec. (e). Pub. L. 118–258, §104(d), added subsec. (e).
 
 <b>2022</b>—Subsec. (d). Pub. L. 117–328 substituted "2023" for "2022".
 
@@ -190,6 +256,10 @@ Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted "1998, 1999, 2000,
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by section 305(b) of Pub. L. 116–260 effective Oct. 1, 2021, see section 305(c) of Pub. L. 116–260, set out as a note under section 629f of this title.
@@ -210,7 +280,7 @@ Pub. L. 111–242, §133, Sept. 30, 2010, 124 Stat. 2613, provided that the amen
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Eof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 Amendment by Pub. L. 109–239 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 14 of Pub. L. 109–239, set out as a note under section 622 of this title.
 

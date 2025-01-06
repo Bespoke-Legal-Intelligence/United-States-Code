@@ -4,7 +4,7 @@
 
 Establishment and Duties.—(1) There is a research advisory committee in the Federal Aviation Administration. The committee shall—
 
-&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out, including those under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title;
+&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out, including those under sections 44504, 44505, 44507, 44511–44513, and 44912 of this title;
 
 &emsp;(B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
 
@@ -12,11 +12,11 @@ Establishment and Duties.—(1) There is a research advisory committee in the Fe
 
 &emsp;(D) annually review the allocation made by the Administrator of the amounts authorized by section 48102(a) of this title among the major categories of research and development activities carried out by the Administration and provide advice and recommendations to the Administrator on whether such allocation is appropriate to meet the needs and objectives identified under subparagraph (A).
 
-(2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title.
+(2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 44504, 44505, 44507, 44511–44513, and 44912 of this title.
 
 (b)
 
-Members, Chairman, Pay, and Expenses.—(1) The committee is composed of not more than 30 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. In appointing members of the committee, the Administrator shall ensure that the regional centers of air transportation excellence, universities, corporations, associations, consumers, and other departments, agencies, and instrumentalities of the United States Government are represented.
+Members, Chairman, Pay, and Expenses.—(1) The committee is composed of not more than 30 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. In appointing members of the committee, the Administrator shall ensure that the regional centers ofair transportation excellence, universities, corporations, associations, consumers, and other departments, agencies, and instrumentalities of the United States Government are represented.
 
 (2) The Administrator shall designate the chairman of the committee.
 
@@ -32,7 +32,7 @@ Nonapplication.—Section 1013 of title 5 does not apply to the committee.
 
 (e)
 
-Use and Limitation of Amounts.—(1) Not more than .1 percent of the amounts made available to conduct research under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
+Use and Limitation of Amounts.—(1) Not more than .1 percent of the amounts made available to conduct research under sections 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
 
 (2) A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
 
@@ -64,7 +64,7 @@ Transparency.—The written reply to the research advisory committee, when trans
 
 National aviation research plan.—The national aviation research plan required under section 44501(c) shall include a summary of all research advisory committee recommendations and a description of the status of their implementation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 115–254, div. B, title VII, §712, Oct. 5, 2018, 132 Stat. 3410; Pub. L. 117–286, §4(a)(313), Dec. 27, 2022, 136 Stat. 4340.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 115–254, div. B, title VII, §712, Oct. 5, 2018, 132 Stat. 3410; Pub. L. 117–286, §4(a)(313), Dec. 27, 2022, 136 Stat. 4340; Pub. L. 118–63, title XI, §1101(l), May 16, 2024, 138 Stat. 1414.)
 
 Historical and Revision Notes
 
@@ -114,11 +114,9 @@ In subsection (e), the words "for fiscal years beginning after September 30, 198
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 40119 of this title, referred to in subsecs. (a)(1)(A), (2) and (e)(1), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
-
 #### Amendments
+
+<b>2024</b>—Subsecs. (a)(1)(A), (2), (e)(1). Pub. L. 118–63 struck out "40119," after "under sections".
 
 <b>2022</b>—Subsec. (d). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 App. U.S.C.)".
 
@@ -133,6 +131,4 @@ Subsec. (f). Pub. L. 115–254, §712(b), added subsec. (f).
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

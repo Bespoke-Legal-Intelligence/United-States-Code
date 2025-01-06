@@ -36,5 +36,5 @@ This Act, referred to in subsec. (a), refers to the Agricultural Act of 1961, Pu
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 designated existing provisions as subsec. (a), inserted heading, substituted "Subject to subsection (b), the Secretary" for "The Secretary, without reimbursement," in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: "that is determined by the Secretary to be suitable or surplus; and", and added subsec. (b).
+<b>1996</b>—Pub. L. 104–127 designated existing provisions as subsec. (a), inserted heading, substituted "Subject tosubsection (b), the Secretary" for "The Secretary, without reimbursement," in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: "that is determined by the Secretary to be suitable or surplus; and", and added subsec. (b).
 

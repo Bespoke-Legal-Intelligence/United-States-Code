@@ -40,6 +40,12 @@ In clause (1), "agency" (which is defined for purposes of this title in section 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–190, §1, Dec. 23, 2024, 138 Stat. 2653, provided that: "This Act \[amending sections 1115, 1116, 1120 to 1122, and 9704 of this title and section 306 of Title 5, Government Organization and Employees, and repealing sections 1118 and 1119 of this title\] may be cited as the 'Federal Agency Performance Act of 2024'."
+
+Pub. L. 118–172, §1, Dec. 23, 2024, 138 Stat. 2593, provided that: "This Act \[amending sections 1105 and 1125 of this title, enacting provisions set out as a note under section 1125 of this title, and amending provisions set out as a note preceding section 4101 of Title 44, Public Printing and Documents\] may be cited as the 'Eliminate Useless Reports Act of 2024'."
+
 #### Short Title of 2022 Amendment
 
 Pub. L. 117–263, div. E, title LIII, §5303(a), Dec. 23, 2022, 136 Stat. 3250, provided that: "This section \[amending section 1115 of this title\] may be cited as the 'Performance Enhancement Reform Act'."
@@ -66,7 +72,7 @@ Pub. L. 98–501, title II, §201, Oct. 19, 1984, 98 Stat. 2324, provided that: 
 
 #### Construction of 1993 Amendment
 
-Pub. L. 103–62, §10, Aug. 3, 1993, 107 Stat. 295, provided that: "No provision or amendment made by this Act \[see Short Title of 1993 Amendment note set out above\] may be construed as—
+Pub. L. 103–62, §10, Aug. 3, 1993, 107 Stat. 295, provided that: "No provision or amendment made by this Act\[see Short Title of 1993 Amendment note set out above\] may be construed as—
 
 &emsp;"(1) creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person who is not an officer or employee of the United States acting in such capacity shall have standing to file any civil action in a court of the United States to enforce any provision or amendment made by this Act; or
 

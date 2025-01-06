@@ -9,7 +9,8 @@
 | [15305\.](%C2%A7%2015305%20-%20Meetings.md) | Meetings. |
 | [15306\.](%C2%A7%2015306%20-%20Personal%20financial%20interests.md) | Personal financial interests. |
 | [15307\.](%C2%A7%2015307%20-%20Tribal%20participation.md) | Tribal participation. |
-| [15308\.](%C2%A7%2015308%20-%20Annual%20report.md) | Annual report. |
+| [15308\.](%C2%A7%2015308%20-%20Transfer%20of%20funds%20among%20Federal%20agencies.md) | Transfer of funds among Federal agencies. |
+| [15309\.](%C2%A7%2015309%20-%20Annual%20report.md) | Annual reports.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -17,7 +18,11 @@
 
 #### Amendments
 
+<b>2025</b>—Pub. L. 118–272, div. B, title II, §2243(b), Jan. 4, 2025, 138 Stat. 3204, added items 15308 and 15309 and struck out former item 15308 "Annual report".
+
 <b>2018</b>—Pub. L. 115–334, title VI, §6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 2 of subtitle V of this title as chapter 153 of this title.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -31,4 +36,5 @@
 - [&sect; 15305 - Meetings](%C2%A7%2015305%20-%20Meetings.md)
 - [&sect; 15306 - Personal financial interests](%C2%A7%2015306%20-%20Personal%20financial%20interests.md)
 - [&sect; 15307 - Tribal participation](%C2%A7%2015307%20-%20Tribal%20participation.md)
-- [&sect; 15308 - Annual report](%C2%A7%2015308%20-%20Annual%20report.md)
+- [&sect; 15308 - Transfer of funds among Federal agencies](%C2%A7%2015308%20-%20Transfer%20of%20funds%20among%20Federal%20agencies.md)
+- [&sect; 15309 - Annual report](%C2%A7%2015309%20-%20Annual%20report.md)

@@ -90,7 +90,7 @@ Any permit issued under this section for the discharge of pollutants into the na
 
 #### (h) Violation of permit conditions; restriction or prohibition upon introduction of pollutant by source not previously utilizing treatment works
 
-In the event any condition of a permit for discharges from a treatment works (as defined in section 1292 of this title) which is publicly owned is violated, a State with a program approved under subsection (b) of this section or the Administrator, where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit, may proceed in a court of competent jurisdiction to restrict or prohibit the introduction of any pollutant into such treatment works by a source not utilizing such treatment works prior to the finding that such condition was violated.
+In the event any condition of a permit for discharges from a treatment works (as defined in section 1292 of this title) which is publicly owned is violated, a State with a program approved under subsection (b) of this section or the Administrator, where no State program isapproved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit, may proceed in a court of competent jurisdiction to restrict or prohibit the introduction of any pollutant into such treatment works by a source not utilizing such treatment works prior to the finding that such condition was violated.
 
 #### (i) Federal enforcement not limited
 
@@ -102,7 +102,7 @@ A copy of each permit application and each permit issued under this section shal
 
 #### (k) Compliance with permits
 
-Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
+Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
 
 #### (l) Limitation on permit requirement
 
@@ -208,7 +208,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (A) Industrial discharges
 
-&emsp;&emsp;Permits for discharges associated with industrial activity shall meet all applicableprovisions of this section and section 1311 of this title.
+&emsp;&emsp;Permits for discharges associated with industrial activity shall meet all applicable provisions of this section and section 1311 of this title.
 
 #### (B) Municipal discharge
 

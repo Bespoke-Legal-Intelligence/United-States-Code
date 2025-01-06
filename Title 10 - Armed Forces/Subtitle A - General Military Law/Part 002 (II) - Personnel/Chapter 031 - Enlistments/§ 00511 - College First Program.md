@@ -18,7 +18,7 @@ Delayed Entry With Allowance for Higher Education.—The Secretary concerned may
 
 (c)
 
-Maximum Period of Delay.—The period of delay authorized a person under paragraph (1)(B)of subsection (b) may not exceed the 30-month period beginning on the date of the person's enlistment accepted under paragraph (1)(A) of such subsection.
+Maximum Period of Delay.—The period of delay authorized a person under paragraph (1)(B) of subsection (b) may not exceed the 30-month period beginning on the date of the person's enlistment accepted under paragraph (1)(A) of such subsection.
 
 (d)
 

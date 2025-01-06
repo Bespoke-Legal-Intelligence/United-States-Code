@@ -8,7 +8,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 #### Codification
 
-The text of subsec. (a) of section 2333 of this title, which was transferred to this section and amended byPub. L. 116–283, §1810(b)(1), was based on Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343.
+The text of subsec. (a) of section 2333 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1810(b)(1), was based on Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 (c)(1) Unless a claimant specifically indicates in a power of attorney filed with the Department a desire to appoint only a recognized representative of an organization listed in or approved under subsection (a), the Secretary may, for any purpose, treat the power of attorney naming such an organization, a specific office of such an organization, or a recognized representative of such an organization as the claimant's representative as an appointment of the entire organization as the claimant's representative.
 
-(2) Whenever the Secretary is required or permitted to notify a claimant's representative, and the claimant has named in a power of attorney an organization listed in or approved undersubsection (a), a specific office of such an organization, or a recognized representative of such an organization without specifically indicating a desire to appoint only a recognized representative of the organization, the Secretary shall notify the organization at the address designated by the organization for the purpose of receiving the notification concerned.
+(2) Whenever the Secretary is required or permitted to notify a claimant's representative, and the claimant has named in a power of attorney an organization listed in or approved under subsection (a), a specific office of such an organization, or a recognized representative of such an organization without specifically indicating a desire to appoint only a recognized representative of the organization, the Secretary shall notify the organization at the address designated by the organization for the purpose of receiving the notification concerned.
 
 (d) Service rendered in connection with any such claim, while not on active duty, by any retired officer, warrant officer, or enlisted member of the Armed Forces recognized under this section shall not be a violation of sections 203, 205, 206, or 207 of title 18.
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–461 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–461 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 <b>1996</b>—Subsecs. (c), (d). Pub. L. 104–275 added subsec. (c) and redesignated former subsec. (c) as (d).
 

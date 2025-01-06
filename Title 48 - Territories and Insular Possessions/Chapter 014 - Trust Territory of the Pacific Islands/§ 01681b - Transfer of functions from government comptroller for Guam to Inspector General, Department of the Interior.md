@@ -26,7 +26,7 @@ Section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Ma
 
 #### Prior Provisions
 
-A prior section 1681b, acts June 30, 1954, ch. 423, §4, as added Sept. 21, 1973, Pub. L. 93–111, §2, 87 Stat. 354; amended Oct. 15, 1977, Pub. L. 95–134, title II, §203(b), 91 Stat. 1162; Mar. 12, 1980, Pub. L. 96–205, title II, §201(b), 94 Stat. 85, related to duties of government comptroller for Guam in addition to those imposed by Organic Act of Guam, prior to repeal by Pub. L. 97–357, §203(b).
+A prior section 1681b, acts June 30, 1954, ch. 423, §4, as added Sept. 21, 1973, Pub. L. 93–111, §2, 87 Stat. 354; amended Oct. 15, 1977, Pub. L. 95–134, title II, §203(b), 91 Stat. 1162; Mar. 12, 1980, Pub. L. 96–205, title II, §201(b), 94 Stat. 85, related to duties of government comptrollerfor Guam in addition to those imposed by Organic Act of Guam, prior to repeal by Pub. L. 97–357, §203(b).
 
 #### Amendments
 

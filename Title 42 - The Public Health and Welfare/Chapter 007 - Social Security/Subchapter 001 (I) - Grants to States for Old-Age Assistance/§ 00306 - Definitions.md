@@ -16,7 +16,7 @@
 
 (b), (c) Repealed. Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.
 
-(Aug. 14, 1935, ch. 531, title I, §6, 49 Stat. 622; Aug. 10, 1939, ch. 666, title I, §103, 53 Stat. 1362; Aug. 28, 1950, ch. 809, title III, pt. 1, §303(a), 64 Stat. 549; Pub. L. 86–778, title VI, §601(f), Sept. 13, 1960, 74 Stat. 991; Pub. L. 87–543, title I, §156(a), July 25, 1962, 76 Stat. 207; Pub. L. 89–97, title II, §§221(a)(1), (2), 222(a), title IV, §402(a), July 30, 1965, 79 Stat. 356, 360, 415; Pub. L. 92–603, title IV, §§408(a), 409(a), Oct. 30, 1972, 86 Stat. 1489, 1490; Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.)
+(Aug. 14, 1935, ch. 531, title I, §6, 49 Stat. 622; Aug. 10, 1939, ch. 666, title I, §103, 53 Stat. 1362;Aug. 28, 1950, ch. 809, title III, pt. 1, §303(a), 64 Stat. 549; Pub. L. 86–778, title VI, §601(f), Sept. 13, 1960, 74 Stat. 991; Pub. L. 87–543, title I, §156(a), July 25, 1962, 76 Stat. 207; Pub. L. 89–97, title II, §§221(a)(1), (2), 222(a), title IV, §402(a), July 30, 1965, 79 Stat. 356, 360, 415; Pub. L. 92–603, title IV, §§408(a), 409(a), Oct. 30, 1972, 86 Stat. 1489, 1490; Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.)
 
 #### Repeal of Section
 
@@ -30,7 +30,7 @@
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–603 authorized the State, at its option, to include within term "old-age assistance" provisions relating to money payments to an individual absent from such State for more than 90 consecutive days, and provisions relating to rent payments made directly to a public housing agency.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–97, §221(a)(1), struck out from definition of "old-age assistance" the exclusion of (1) payments to or medical care in behalf of any individual who is a patient in an institution for tuberculosis or mental diseases, or (2) payments to any individual who has been diagnosed as having tuberculosis or psychosis and is a patient in a medical institution asa result thereof, or (3) medical care in behalf of any individual, who is a patient in a medical institution as a result of a diagnosis that he has tuberculosis or psychosis, with respect to any period after the individual has been a patient in such an institution, as a result of such diagnosis, for forty-two days.
+<b>1965</b>—Subsec. (a). Pub. L. 89–97, §221(a)(1), struck out from definition of "old-age assistance" the exclusion of (1) payments to or medical care in behalf of any individual who is a patient in an institution for tuberculosis or mental diseases, or (2) payments to any individual who has been diagnosed as having tuberculosis or psychosis and is a patient in a medical institution as a result thereof, or (3) medical care in behalf of any individual, who is a patient in a medical institution as a result of a diagnosis that he has tuberculosis or psychosis, with respect to any period after the individual has been a patient in such an institution, as a result of such diagnosis, for forty-two days.
 
 Pub. L. 89–97, §402(a), extended definition of "old-age assistance" to include payments made on behalf of the recipient to an individual who (as determined in accordance with the standards prescribed by the Secretary) is interested in or concerned with the welfare of the recipient and inserted an enumeration of the five characteristics required of State plans under which such payments can be made, including provision for finding of inability to manage funds, payment to meet all needs, special efforts to protect welfare, periodic review, and opportunity for fair hearing.
 

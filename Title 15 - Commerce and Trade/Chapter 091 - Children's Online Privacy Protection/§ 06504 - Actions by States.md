@@ -54,7 +54,7 @@
 
 #### (c) Construction
 
-For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
+For purposes of bringing any civil action under subsection (a), nothing in this chaptershall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
 
 &emsp;(1) conduct investigations;
 

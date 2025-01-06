@@ -30,7 +30,7 @@
 
 &emsp;(1) that, subject to subsection (d) of this section, wages surveyed be those paid by private employers in the wage area for similar work performed by regular full-time employees, except that, for prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the wages surveyed shall be those paid by private employers to full-time employees in a representative number of retail, wholesale, service, and recreational establishments similar to those in which such prevailing rate employees are employed;
 
-&emsp;(2) for participation at all levels by representatives of organizations accorded recognition as the representatives of prevailing rate employees in every phase of providing an equitable system for fixing and adjusting the rates of pay for prevailing rate employees, including the planning of the surveys, the drafting of specifications, the selection of data collectors, the collection and the analysis of thedata, and the submission of recommendations to the head of the lead agency for wage schedules and rates and for special wage schedules and rates where appropriate;
+&emsp;(2) for participation at all levels by representatives of organizations accorded recognition as the representatives of prevailing rate employees in every phase of providing an equitable system for fixing and adjusting the rates of pay for prevailing rate employees, including the planning of the surveys, the drafting of specifications, the selection of data collectors, the collection and the analysis of the data, and the submission of recommendations to the head of the lead agency for wage schedules and rates and for special wage schedules and rates where appropriate;
 
 &emsp;(3) for requirements for the accomplishment of wage surveys and for the development of wage schedules and rates for prevailing rate employees, including, but not limited to—
 
@@ -74,7 +74,7 @@
 
 &emsp;(C) 104 calendar weeks of service in each of steps 3 and 4.
 
-(3) Under regulations prescribed by the Office of Personnel Management, the benefits of successive step increases shall be preserved for prevailing rate employees under a regular wage schedule whose continuous service is interrupted in the public interest by service with the armed forces or by service in essential non-Government civilian employment during a period of war or national emergency.
+(3) Under regulations prescribed by the Office of Personnel Management, the benefits of successive step increases shall be preserved for prevailing rate employees under a regular wageschedule whose continuous service is interrupted in the public interest by service with the armed forces or by service in essential non-Government civilian employment during a period of war or national emergency.
 
 (4) Supervisory wage schedules and special wage schedules authorized under subsection (c)(3) of this section may have single or multiple rates or steps according to prevailing practices in the industry on which the schedule is based.
 
@@ -98,7 +98,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), i
 
 A prior section 5343, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, related to effective date of pay increases and is covered by section 5344(a) of this title.
 
-Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this sectionwere contained in Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
+Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this section were contained in Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
 
@@ -150,25 +150,25 @@ Section other than subsec. (e)(1)(D), (E), (2)(C) of this section effective on f
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 117–328, div. E, title VII, §737, Dec. 29, 2022, 136 Stat. 4712, provided that:
+Pub. L. 118–47, div. B, title VII, §737, Mar. 23, 2024, 138 Stat. 581, provided that:
 
-"(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2023, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+"(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2024, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;"(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2023, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
+&emsp;"(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2024, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
 
-&emsp;"(B) during the period consisting of the remainder of fiscal year 2023, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
+&emsp;"(B) during the period consisting of the remainder of fiscal year 2024, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
 
-&emsp;&emsp;"(i) the percentage adjustment taking effect in fiscal year 2023 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;"(i) the percentage adjustment taking effect in fiscal year 2024 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;"(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2023 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
+&emsp;&emsp;"(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2024 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
 
 "(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee.
 
-"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2022, shall be determined underregulations prescribed by the Office of Personnel Management.
+"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2023, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-"(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2022, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
+"(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2023, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
 
-"(5) This subsection shall apply with respect to pay for service performed after September 30, 2022.
+"(5) This subsection shall apply with respect to pay for service performed after September 30, 2023.
 
 "(6) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this subsection shall be treated as the rate of salary or basic pay.
 
@@ -176,13 +176,15 @@ Pub. L. 117–328, div. E, title VII, §737, Dec. 29, 2022, 136 Stat. 4712, prov
 
 "(8) The Office of Personnel Management may provide for exceptions to the limitations imposed by this subsection if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.
 
-"(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2023 under sections 5344 and 5348 of title 5, United States Code, shall be—
+"(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2024 under sections 5344 and 5348 of title 5, United States Code, shall be—
 
 &emsp;"(1) not less than the percentage received by employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under sections 5303 and 5304 of title 5, United States Code: <i>Provided</i>, That prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5, United States Code, and prevailing rate employees described in section 5343(a)(5) of title 5, United States Code, shall be considered to be located in the pay locality designated as 'Rest of United States' pursuant to section 5304 of title 5, United States Code, for purposes of this subsection; and
 
-&emsp;"(2) effective as of the first day of the first applicable pay period beginning after September 30, 2022."
+&emsp;"(2) effective as of the first day of the first applicable pay period beginning after September 30, 2023."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, div. E, title VII, §737, Dec. 29, 2022, 136 Stat. 4712.
 
 Pub. L. 117–103, div. E, title VII, §737, Mar. 15, 2022, 136 Stat. 301.
 
@@ -286,7 +288,7 @@ Wage Determinations.—Notwithstanding any other provision of law, in the admini
 
 "(b)
 
-Covered Individuals.—The individuals described in subsection (a) are electric powerplant controllers and powerplant shift operators (as defined under regulations prescribed by the Secretary of Defense) assigned to the Soo Locks Power Plant in the DetroitDistrict in the North Central Region of the United States Army Corps of Engineers.
+Covered Individuals.—The individuals described in subsection (a) are electric powerplant controllers and powerplant shift operators (as defined under regulations prescribed by the Secretary of Defense) assigned to the Soo Locks Power Plant in the Detroit District in the North Central Region of the United States Army Corps of Engineers.
 
 "(c)
 
@@ -318,7 +320,7 @@ Pub. L. 92–392, §9(a), Aug. 19, 1972, 86 Stat. 573, provided that:
 
 "(1) Except as provided by this subsection, an employee's initial rate of pay on conversion to a wage schedule established pursuant to the amendments made by this Act \[see Effective Date note under section 5341 of this title\] shall be determined under conversion rules prescribed by the Civil Service Commission. Service by an employee in a grade of a wage schedule performed before the effective date of the conversion of the employee to a wage schedule established pursuant to the amendments made by this Act shall be counted toward not to exceed one step increase under the time in step provisions of section 5343(e)(2) of title 5, United States Code, as amended by the first section of this Act \[subsec. (e)(2) of this section\].
 
-"(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United States Code, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respect to him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate."
+"(2) In the case of any employee described in section 2105(c), 5102(c)(7), (8), or (14) of title 5, United States Code, who is in the service as such an employee immediately before the effective date, with respect to him, of the amendments made by this Act \[see Effective Date note under section 5341 of this title\], such amendments shall not be construed to decrease his rate of basic pay in effect immediately before the date \[see Effective Date note under section 5341 of this title\] on which such amendments become effective with respectto him. In addition, if an employee is receiving retained pay by virtue of law or agency policy immediately before the date on which the first wage schedule applicable to him under this Act is effective, he shall continue to retain that pay in accordance with the specific instructions under which the retained pay was granted until he leaves his position or until he becomes entitled to a higher rate."
 
 #### Labor Contracts Pertaining to Wages, Terms and Conditions of Employment, and Other Employment Benefits
 

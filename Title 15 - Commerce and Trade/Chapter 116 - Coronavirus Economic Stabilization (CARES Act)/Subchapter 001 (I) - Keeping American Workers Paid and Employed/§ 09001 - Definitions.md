@@ -36,7 +36,7 @@ Pub. L. 116–139, §1, Apr. 24, 2020, 134 Stat. 620, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 116–136, §1, Mar. 27, 2020, 134 Stat. 281, provided that: "This Act \[see Tables for classification\] may be cited as the 'Coronavirus Aid, Relief, and Economic Security Act' or the 'CARES Act'."
+Pub. L. 116–136, §1, Mar. 27, 2020, 134 Stat. 281, provided that: "This Act \[see Tables for classification\]may be cited as the 'Coronavirus Aid, Relief, and Economic Security Act' or the 'CARES Act'."
 
 Pub. L. 116–136, div. A, title II, §2101, Mar. 27, 2020, 134 Stat. 313, provided that: "This subtitle \[subtitle A (§§2101–2116) of title II of div. A of Pub. L. 116–136, enacting subchapter II of this chapter, amending section 3306 of Title 26, Internal Revenue Code, section 1103 of Title 42, The Public Health and Welfare, and section 352 of Title 45, Railroads, enacting provisions set out as a note under section 352 of Title 45, amending provisions set out as a note under section 3304 of Title 26, and repealing provisions set out as a note under section 3306 of Title 26\], may be cited as the 'Relief for Workers Affected by Coronavirus Act'."
 

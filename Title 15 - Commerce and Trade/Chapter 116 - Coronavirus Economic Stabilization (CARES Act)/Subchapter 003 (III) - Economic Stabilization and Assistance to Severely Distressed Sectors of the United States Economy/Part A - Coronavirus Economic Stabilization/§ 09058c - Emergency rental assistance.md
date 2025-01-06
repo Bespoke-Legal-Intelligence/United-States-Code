@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(iv) in subclause (I) of such section 9058a(b)(1)(A)(v) of this title, by substituting "under section 9058c of title 15" for "under section 9058a of title 15"; and
 
-&emsp;&emsp;&emsp;(v) in subclause (II) of such section 9058a(b)(1)(A)(v) of this title, by substituting "local government elects to receive funds from the Secretary under section 9058c of title 15 and will use the funds in a manner consistent with such section" for "local government elects to receive funds from the Secretary under section 9058a of title 15 and will use the funds in a manner consistent with such section".
+&emsp;&emsp;&emsp;(v) in subclause (II) of such section 9058a(b)(1)(A)(v) of this title, by substituting "local government elects to receive funds from the Secretary under section 9058c of title 15 and will use the funds in a manner consistent with such section"for "local government elects to receive funds from the Secretary under section 9058a of title 15 and will use the funds in a manner consistent with such section".
 
 #### (B) Pro rata adjustment
 
@@ -112,7 +112,7 @@
 
 #### (1) In general
 
-&emsp;Beginning March 31, 2022, the Secretary shall reallocate funds allocated to eligible grantees in accordance with subsection (b) but not yet paid in accordance with subsection (c)(2) according to a procedure established by the Secretary.
+&emsp;Beginning March 31, 2022, the Secretary shall reallocate funds allocated to eligible granteesin accordance with subsection (b) but not yet paid in accordance with subsection (c)(2) according to a procedure established by the Secretary.
 
 #### (2) Eligibility for reallocated funds
 

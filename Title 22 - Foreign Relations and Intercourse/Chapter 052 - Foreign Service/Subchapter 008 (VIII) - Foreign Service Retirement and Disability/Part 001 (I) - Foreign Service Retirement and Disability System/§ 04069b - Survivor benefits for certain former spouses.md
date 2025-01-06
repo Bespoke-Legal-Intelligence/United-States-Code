@@ -60,7 +60,7 @@ Any individual who on February 14, 1981, was an otherwise qualified former spous
 
 &emsp;(2) the marriage included at least five years during which the employee was assigned overseas.
 
-(Pub. L. 96–465, title I, §831, as added Pub. L. 100–204, title I, §188(a), Dec. 22, 1987, 101 Stat. 1370; amended Pub. L. 101–246, title I, §146(b), Feb. 16, 1990, 104 Stat. 37.)
+(Pub. L. 96–465, title I, §831, as added Pub. L. 100–204, title I, §188(a), Dec. 22, 1987, 101 Stat.1370; amended Pub. L. 101–246, title I, §146(b), Feb. 16, 1990, 104 Stat. 37.)
 
 #### <b>Editorial Notes</b>
 

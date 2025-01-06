@@ -98,7 +98,7 @@ In this section:
 
 &emsp;The term "diversity" means diversity of persons based on gender, race, ethnicity, disability status, veteran status, sexual orientation, gender identity, national origin, and other demographic categories.
 
-(Pub. L. 116–92, div. E, title LVII, §5704, Dec. 20, 2019, 133 Stat. 2162; Pub. L. 117–103, div. X, titleVIII, §802, Mar. 15, 2022, 136 Stat. 1011; Pub. L. 117–263, div. F, title LXVIII, §6824(b)(1), Dec. 23, 2022, 136 Stat. 3615.)
+(Pub. L. 116–92, div. E, title LVII, §5704, Dec. 20, 2019, 133 Stat. 2162; Pub. L. 117–103, div. X, title VIII, §802, Mar. 15, 2022, 136 Stat. 1011; Pub. L. 117–263, div. F, title LXVIII, §6824(b)(1), Dec. 23, 2022, 136 Stat. 3615.)
 
 #### <b>Editorial Notes</b>
 
@@ -124,5 +124,5 @@ Pub. L. 116–92, div. E, title LXIII, §6316, Dec. 20, 2019, 133 Stat. 2195, as
 
 #### Definitions
 
-For definition of "intelligence community", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+For definition of "intelligence community" as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
 

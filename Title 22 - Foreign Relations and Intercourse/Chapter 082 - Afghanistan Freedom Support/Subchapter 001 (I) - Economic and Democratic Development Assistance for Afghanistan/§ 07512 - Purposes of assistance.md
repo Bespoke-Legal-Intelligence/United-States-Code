@@ -14,7 +14,7 @@ The purposes of assistance authorized by this subchapter are—
 
 &emsp;(6) to foster the participation of civil society in the establishment of the new Afghan government in order to achieve a broad-based, multi-ethnic, gender-sensitive, fully representative government freely chosen by the Afghan people, without prejudice to any decisions which may be freely taken by the Afghan people about the precise form in which their government is to be organized in the future;
 
-&emsp;(7) to support the reconstruction of Afghanistan through, among other things, programs that create jobs, facilitate clearance of landmines, and rebuild the agriculture sector, the health care system, and the educational system of Afghanistan;
+&emsp;(7) to support the reconstruction of Afghanistan through, among other things, programs that create jobs, facilitate clearance of landmines, and rebuild the agriculture sector, thehealth care system, and the educational system of Afghanistan;
 
 &emsp;(8) to provide resources to the Ministry for Women's Affairs of Afghanistan to carry out its responsibilities for legal advocacy, education, vocational training, and women's health programs; and
 

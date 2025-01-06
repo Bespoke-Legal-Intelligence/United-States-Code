@@ -96,7 +96,7 @@ In determining whether to approve project proposals under this section, the Secr
 
 #### (1) In general
 
-&emsp;Each person that receives assistance under this section for a project shall submit to the Secretary periodic reports (at such intervals as the Secretary considers necessary) that include all information that the Secretary, after consultation with other appropriate government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
+&emsp;Each person that receives assistance under this section for a project shall submit to theSecretary periodic reports (at such intervals as the Secretary considers necessary) that include all information that the Secretary, after consultation with other appropriate government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
 
 #### (2) Availability to the public
 
@@ -118,7 +118,7 @@ Amounts provided as a grant under this chapter—
 
 #### (2) Composition
 
-&emsp;The Secretary shall ensure that the panel referred to in paragraph (1) includes, to themaximum extent practicable, 1 or more representatives—
+&emsp;The Secretary shall ensure that the panel referred to in paragraph (1) includes, to the maximum extent practicable, 1 or more representatives—
 
 &emsp;&emsp;(A) from each country that comprises the natural range of great apes; and
 
@@ -148,17 +148,19 @@ Amounts provided as a grant under this chapter—
 
 #### (1) Authorization
 
-&emsp;The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
+&emsp;The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
 
 #### (2) Effect of subsection
 
 &emsp;Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, §701, Oct. 17, 2006, 120 Stat. 2081; Pub. L. 116–9, title VII, §7001(c)(2)(A), (B), Mar. 12, 2019, 133 Stat. 785; Pub. L. 117–286, §4(a)(129), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, §701, Oct. 17, 2006, 120 Stat. 2081; Pub. L. 116–9, title VII, §7001(c)(2)(A), (B), Mar. 12, 2019, 133 Stat. 785; Pub. L. 117–286, §4(a)(129), Dec. 27, 2022, 136 Stat. 4319; Pub. L. 118–159, div. E, title LIII, §5306(a), Dec. 23, 2024, 138 Stat. 2446.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (j)(1). Pub. L. 118–159 inserted "of up to 5 years" after "multiyear grant".
 
 <b>2022</b>—Subsec. (i)(5). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 App. U.S.C.)" in text.
 

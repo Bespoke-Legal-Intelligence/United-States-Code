@@ -36,7 +36,7 @@ The Board and the standard setting body referred to in subsection (a) shall each
 
 The annual accounting support fee for the standard setting body referred to in subsection (a)—
 
-&emsp;(1) shall be allocated in accordance with subsection (g), and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body,and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
+&emsp;(1) shall be allocated in accordance with subsection (g), and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
 
 &emsp;(2) may differentiate among different classes of issuers.
 
@@ -74,7 +74,7 @@ Nothing in this section shall be construed to render either the Board, the stand
 
 #### (k) Start-up expenses of the Board
 
-From the unexpended balances of the appropriations to the Commission for fiscal year 2003, the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
+From the unexpended balances of the appropriations to the Commission for fiscal year 2003,the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
 
 (Pub. L. 107–204, title I, §109, July 30, 2002, 116 Stat. 769; Pub. L. 111–203, title IX, §982(h), July 21, 2010, 124 Stat. 1930.)
 

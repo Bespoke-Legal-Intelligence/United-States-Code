@@ -30,7 +30,7 @@ Activities supported by grants under this section may encompass a single STEM di
 
 #### (1) In general
 
-&emsp;The Director of the National Science Foundation shall make awards, through existing programs where appropriate to institutions of higher education and nonprofit organizations (or consortia of such intuitions <sup>1</sup> or organizations) on a merit-reviewed, competitive basisfor research on effective approaches to engaging students in PreK–12, including students from groups historically underrepresented in STEM and rural students.
+&emsp;The Director of the National Science Foundation shall make awards, through existing programs where appropriate to institutions of higher education and nonprofit organizations (or consortia of such intuitions <sup>1</sup> or organizations) on a merit-reviewed, competitive basis for research on effective approaches to engaging students in PreK–12, including students from groups historically underrepresented in STEM and rural students.
 
 #### (2) Purposes
 

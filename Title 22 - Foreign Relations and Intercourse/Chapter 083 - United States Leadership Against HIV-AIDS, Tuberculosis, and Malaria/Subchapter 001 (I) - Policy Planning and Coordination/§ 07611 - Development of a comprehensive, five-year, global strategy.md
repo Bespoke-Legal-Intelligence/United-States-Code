@@ -42,7 +42,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(J) help partner countries to train and support retention of health care professionals and paraprofessionals, with the target of training and retaining at least 140,000 new health care professionals and paraprofessionals with an emphasis on training and in country deployment of critically needed doctors and nurses and to strengthen capacities in developing countries, especially in sub-Saharan Africa, to deliver primary health care with the objective of helping countries achieve staffing levels of at least 2.3 doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization;
 
-&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infected with HIV/AIDS and to prevent the furthertransmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
+&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infected with HIV/AIDS and to prevent the further transmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
 
 &emsp;(6) establish a timetable with annual global treatment targets with country-level benchmarks for antiretroviral treatment;
 
@@ -286,7 +286,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (1) Design and budget plan for data evaluation
 
-&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008,the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
+&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008, the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
 
 #### (2) Study
 
@@ -374,7 +374,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (A) Development
 
-&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2023, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through March 25 of fiscal year 2025, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
 #### (B) Contents
 
@@ -400,7 +400,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (iv) Subsequent plans
 
-&emsp;&emsp;&emsp;Each of the last nine plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2023, respectively.
+&emsp;&emsp;&emsp;Each of the last eleven plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2025, respectively.
 
 #### (2) Coordination
 
@@ -418,7 +418,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (1) In general
 
-&emsp;Not later than September 30, 2009, and annually thereafter through September 30, 2024, the Global AIDS Coordinator shall complete a study of treatment providers that—
+&emsp;Not later than September 30, 2009, and annually thereafter through March 25, 2025, the Global AIDS Coordinator shall complete a study of treatment providers that—
 
 &emsp;&emsp;(A) represents a range of countries and service environments;
 
@@ -432,9 +432,9 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(iii) other subcategories, as appropriate.
 
-#### (2) 2013 through 2024 studies
+#### (2) 2013 through 2025 studies
 
-&emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2024, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+&emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through March 25, 2025, shall include, in addition to the elements set forth under paragraph (1), the following elements:
 
 &emsp;&emsp;(A) A plan for conducting cost studies of United States assistance under section 2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
 
@@ -460,7 +460,7 @@ The Global AIDS Coordinator shall develop a message, to be prominently displayed
 
 &emsp;(2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec.2, 2013, 127 Stat. 648; Pub. L. 115–305, §2, Dec. 11, 2018, 132 Stat. 4402.)
+(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec. 2, 2013, 127 Stat. 648; Pub. L. 115–305, §2, Dec. 11, 2018, 132 Stat. 4402; Pub. L. 118–47, div. F, title VII, §7072(a), Mar. 23, 2024, 138 Stat. 852.)
 
 #### <b>Editorial Notes</b>
 
@@ -469,6 +469,14 @@ The Global AIDS Coordinator shall develop a message, to be prominently displayed
 This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (f)(1)(A). Pub. L. 118–47, §7072(a)(1)(A), substituted "March 25 of fiscal year 2025" for "2023".
+
+Subsec. (f)(1)(C)(iv). Pub. L. 118–47, §7072(a)(1)(B), substituted "eleven" for "nine" and "2025" for "2023".
+
+Subsec. (g)(1). Pub. L. 118–47, §7072(a)(2)(A), substituted "March 25, 2025" for "September 30, 2024" in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 118–47, §7072(a)(2)(B), substituted "2025" for "2024" in heading and "March 25, 2025" for "September 30, 2024" in introductory provisions.
 
 <b>2018</b>—Subsec. (f)(1)(A). Pub. L. 115–305, §2(1)(A), substituted "2023" for "2018".
 

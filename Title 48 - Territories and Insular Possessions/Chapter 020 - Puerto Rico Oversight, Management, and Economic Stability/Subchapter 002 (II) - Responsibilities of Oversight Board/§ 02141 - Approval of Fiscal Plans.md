@@ -76,7 +76,7 @@ As soon as practicable after all of the members and the Chair have been appointe
 
 #### (2) Development by Oversight Board
 
-&emsp;If the Governor fails to submit to the Oversight Board a Fiscal Plan that the OversightBoard determines in its sole discretion satisfies the requirements set forth in subsection (b) by the time specified in the notice delivered under subsection (a), the Oversight Board shall develop and submit to the Governor and the Legislature a Fiscal Plan that satisfies the requirements set forth in subsection (b).
+&emsp;If the Governor fails to submit to the Oversight Board a Fiscal Plan that the Oversight Board determines in its sole discretion satisfies the requirements set forth in subsection (b) by the time specified in the notice delivered under subsection (a), the Oversight Board shall develop and submit to the Governor and the Legislature a Fiscal Plan that satisfies the requirements set forth in subsection (b).
 
 #### (e) Approval and certification
 

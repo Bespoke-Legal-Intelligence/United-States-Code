@@ -4,7 +4,7 @@ An ultimate goal of the United States is a world which is free from the scourge 
 
 The Secretary of State must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. The Secretary shall have the authority, under the direction of the President, to carry out the following primary functions:
 
-&emsp;(1) The preparation for and management of United States participation in international negotiations and implementation fora in the arms control, nonproliferation, and disarmament field.
+&emsp;(1) The preparation for and management of United States participation in international negotiations and implementation fora in thearms control, nonproliferation, and disarmament field.
 
 &emsp;(2) The conduct, support, and coordination of research for arms control, nonproliferation, and disarmament policy formulation.
 

@@ -66,7 +66,7 @@ Authority.—To the extent practicable, the Secretary of Defense shall seek to e
 
 "(b)
 
-TRICARE Competitive Plans Demonstration Project Defined.—In this section, the term 'TRICARE Competitive Plans Demonstration Project' means the project designed to test the contract acquisition strategy of providing an opportunity for local, regional, and national health plans to participate in the competition for managed care support functions under the TRICARE program, in accordance with section 705(c)(3) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 1073a note)."
+TRICARE Competitive Plans Demonstration Project Defined.—In this section, the term 'TRICARECompetitive Plans Demonstration Project' means the project designed to test the contract acquisition strategy of providing an opportunity for local, regional, and national health plans to participate in the competition for managed care support functions under the TRICARE program, in accordance with section 705(c)(3) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 1073a note)."
 
 Pub. L. 114–328, div. A, title VII, §705, Dec. 23, 2016, 130 Stat. 2201, as amended by Pub. L. 115–91, div. A, title VII, §715, Dec. 12, 2017, 131 Stat. 1438; Pub. L. 116–92, div. A, title VII, §716, Dec. 20, 2019, 133 Stat. 1453, provided that:
 

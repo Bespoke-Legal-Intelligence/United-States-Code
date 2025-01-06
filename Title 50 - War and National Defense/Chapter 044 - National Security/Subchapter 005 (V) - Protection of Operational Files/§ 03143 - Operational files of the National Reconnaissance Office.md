@@ -10,7 +10,7 @@
 
 (3) Notwithstanding paragraph (1), exempted operational files shall continue to be subject to search and review for information concerning—
 
-&emsp;(A) United States citizens or aliens lawfully admitted for permanent residence who haverequested information on themselves pursuant to the provisions of section 552 or 552a of title 5;
+&emsp;(A) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 or 552a of title 5;
 
 &emsp;(B) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5; or
 
@@ -68,7 +68,7 @@
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
-(3) A complainant that alleges that NRO has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the partiesreside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
+(3) A complainant that alleges that NRO has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 
 &emsp;(A) Whether NRO has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on November 27, 2002, or before the expiration of the 10-year period beginning on the date of the most recent review.
 

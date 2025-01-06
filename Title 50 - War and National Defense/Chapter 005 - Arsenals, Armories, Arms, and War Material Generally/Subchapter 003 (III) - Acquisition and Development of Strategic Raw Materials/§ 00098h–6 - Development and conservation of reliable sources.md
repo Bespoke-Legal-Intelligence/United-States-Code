@@ -30,7 +30,7 @@ Subject to subsection (d), the National Defense Stockpile Manager shall encourag
 
 #### (B) Preexisting contracts
 
-&emsp;&emsp;A contract entered into before December 22, 2023, for a term of more than ten years may be extended, on or after December 22, 2023, for a total of not more than an additional ten years pursuant to any option or options set forth in the contract.
+&emsp;&emsp;A contract entered into before December 22, 2023, for a term of more than ten yearsmay be extended, on or after December 22, 2023, for a total of not more than an additional ten years pursuant to any option or options set forth in the contract.
 
 #### (2) Matters relating to co-funding of bankable feasibility studies
 

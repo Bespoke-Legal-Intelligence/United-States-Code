@@ -90,7 +90,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (12) Domestic violence
 
-&emsp;The term "domestic violence" includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who—
+&emsp;The term "domestic violence" includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grantfunding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who—
 
 &emsp;&emsp;(A) is a current or former spouse or intimate partner of the victim, or person similarly situated to a spouse of the victim;
 
@@ -406,7 +406,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 &emsp;&emsp;&emsp;(i) disclose, reveal, or release any personally identifying information or individual information collected in connection with services requested, utilized, or denied through grantees' and subgrantees' programs, regardless of whether the information has been encoded, encrypted, hashed, or otherwise protected; or
 
-&emsp;&emsp;&emsp;(ii) disclose, reveal, or release individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of an unemancipated minor, the minor and the parent or guardian or in the case of legal incapacity, a court-appointed guardian) about whom information is sought, whether for this program or any other Federal, State, tribal, or territorial grant program, except that consent for release may not be given by the abuser of the minor, incapacitated person, or the abuser of the other parent of the minor.
+&emsp;&emsp;&emsp;(ii) disclose, reveal, or release individual client information without the informed, written, reasonably time-limited consent of the person (or in the case of an unemancipated minor, the minor and the parent or guardian or in the case of legalincapacity, a court-appointed guardian) about whom information is sought, whether for this program or any other Federal, State, tribal, or territorial grant program, except that consent for release may not be given by the abuser of the minor, incapacitated person, or the abuser of the other parent of the minor.
 
 > &emsp;&emsp;If a minor or a person with a legally appointed guardian is permitted by law to receive services without the parent's or guardian's consent, the minor or person with a guardian may release information without additional consent.
 
@@ -440,7 +440,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (F) Oversight
 
-&emsp;&emsp;Nothing in this paragraph shall prevent the Attorney General from disclosing grantactivities authorized in this Act to the chairman and ranking members of the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate exercising Congressional oversight authority. All disclosures shall protect confidentiality and omit personally identifying information, including location information about individuals.
+&emsp;&emsp;Nothing in this paragraph shall prevent the Attorney General from disclosing grant activities authorized in this Act to the chairman and ranking members of the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate exercising Congressional oversight authority. All disclosures shall protect confidentiality and omit personally identifying information, including location information about individuals.
 
 #### (G) Confidentiality assessment and assurances
 
@@ -504,7 +504,7 @@ In this subchapter, for the purpose of grants authorized under this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
+&emsp;&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
 
 #### (B) Requirement
 
@@ -664,7 +664,7 @@ Subsec. (a)(8), (9). Pub. L. 117–103, §2(a)(1)(K), redesignated pars. (6) and
 
 Subsec. (a)(10), (11). Pub. L. 117–103, §2(a)(1)(I), redesignated pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (14).
 
-Subsec. (a)(12). Pub. L. 117–103, §2(a)(1)(Q), substituted "includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who—" and subpars. (A) to (D) for "includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction."
+Subsec. (a)(12). Pub. L. 117–103, §2(a)(1)(Q), substituted "includes felony or misdemeanor crimes committed bya current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who—" and subpars. (A) to (D) for "includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction."
 
 Pub. L. 117–103, §2(a)(1)(J), redesignated par. (8) as (12) and transferred it to appear after par. (11). Former par. (12) redesignated (17).
 
@@ -700,7 +700,7 @@ Subsec. (a)(32) to (39). Pub. L. 117–103, §2(a)(1)(D), redesignated pars. (26
 
 Subsec. (a)(40). Pub. L. 117–103, §2(a)(1)(X), added par. (40). Former par. (40) redesignated (47).
 
-Subsec. (a)(41), (42). Pub. L. 117–103, §2(a)(1)(C), redesignated pars. (34) and (35) as (41) and (42), respectively.Former pars. (41) and (42) redesignated (48) and (49), respectively.
+Subsec. (a)(41), (42). Pub. L. 117–103, §2(a)(1)(C), redesignated pars. (34) and (35) as (41) and (42), respectively. Former pars. (41) and (42) redesignated (48) and (49), respectively.
 
 Subsec. (a)(42)(A). Pub. L. 117–315, §2(b)(1), inserted ", Native Hawaiian organizations, or the Native Hawaiian community" after "Indian service providers", ", organizations, or communities" after "member providers", and "or Native Hawaiian" after "designed to assist Indian".
 
@@ -958,7 +958,7 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 
 #### Definitions and Grant Conditions
 
-Pub. L. 117–103, div. W, §2(b), Mar. 15, 2022, 136 Stat. 846, provided that: "Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) shall apply to this Act \[div. W of Pub. L. 107–103, see Tables for classification\] and any grant program authorized under this Act."
+Pub. L. 117–103, div. W, §2(b), Mar. 15, 2022, 136 Stat. 846, provided that: "Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) shall applyto this Act \[div. W of Pub. L. 107–103, see Tables for classification\] and any grant program authorized under this Act."
 
 #### <b>Executive Documents</b>
 
@@ -976,7 +976,7 @@ In the United States and around the world, women and LGBTQI+ political leaders, 
 
 Therefore, I am directing the Director of the White House Gender Policy Council and the Assistant to the President for National Security Affairs to lead an interagency effort to address online harassment and abuse, specifically focused on technology-facilitated gender-based violence, and to develop concrete recommendations to improve prevention, response, and protection efforts through programs and policies in the United States and globally.
 
-Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House TaskForce to Address Online Harassment and Abuse (Task Force).
+Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Task Force to Address Online Harassment and Abuse (Task Force).
 
 Sec. 3. <i>Membership</i>. (a) The Director of the White House Gender Policy Council and the Assistant to the President for National Security Affairs, or their designees, shall serve as Co-Chairs of the Task Force.
 

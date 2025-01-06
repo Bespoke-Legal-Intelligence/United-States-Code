@@ -82,7 +82,7 @@ Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 
 
 "(1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
-"(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions,the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1))."
+"(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1))."
 
 Subsec. (h). Pub. L. 110–315, §310(b), added subsec. (h).
 
@@ -104,7 +104,7 @@ Subsecs. (f), (g). Pub. L. 99–509, §7007(1), redesignated subsecs. (e) and (f
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1997 Amendment
 

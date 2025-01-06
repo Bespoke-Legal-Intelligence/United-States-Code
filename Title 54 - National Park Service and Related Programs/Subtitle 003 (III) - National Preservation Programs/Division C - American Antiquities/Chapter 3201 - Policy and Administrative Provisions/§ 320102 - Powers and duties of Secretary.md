@@ -22,7 +22,7 @@ Acquisition of Property.—The Secretary may, for the purpose of this chapter, a
 
 (f)
 
-Contracts and Cooperative Agreements.—The Secretary may contract and make cooperative agreements with States, municipal subdivisions, corporations, associations, or individuals, with proper bond where considered advisable, to protect, preserve, maintain, or operate any historic or archeologic building, site, or object, or property used in connection with the building, site, or object, for public use, regardless whether the title to the building, site, object, or property is in the United States. No contract or cooperative agreement shall be made or entered into that will obligate the general fund of the Treasury unless or until Congress has appropriated money for that purpose.
+Contracts and Cooperative Agreements.—The Secretary may contract and make cooperative agreements with States, municipal subdivisions, corporations, associations, or individuals, with proper bond where considered advisable, to protect, preserve, maintain, or operate any historic or archeologic building, site, or object, or property used in connection with the building, site, or object, for public use, regardless whether the title to the building, site, object, or property is in the United States. No contract or cooperative agreement shall be made orentered into that will obligate the general fund of the Treasury unless or until Congress has appropriated money for that purpose.
 
 (g)
 
@@ -38,7 +38,7 @@ Operation for Benefit of Public.—The Secretary may operate and manage historic
 
 (j)
 
-Corporation To Carry Out Duties.—When the Secretary determines that it would be administratively burdensome to restore, reconstruct, operate, or maintain any particular historic or archeologic site, building, or property donated to the United States through the Service, the Secretary may cause the restoration, reconstruction, operation, or maintenance to bedone by organizing a corporation for that purpose under the laws of the District of Columbia or any State.
+Corporation To Carry Out Duties.—When the Secretary determines that it would be administratively burdensome to restore, reconstruct, operate, or maintain any particular historic or archeologic site, building, or property donated to the United States through the Service, the Secretary may cause the restoration, reconstruction, operation, or maintenance to be done by organizing a corporation for that purpose under the laws of the District of Columbia or any State.
 
 (k)
 

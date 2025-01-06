@@ -64,7 +64,7 @@
 
 #### (iii) Rule of construction
 
-&emsp;&emsp;&emsp;With respect to a tolerance, a pesticide chemical residue meeting the standard under clause (i) is not an eligible pesticide chemical residue for purposes of subparagraph (B).
+&emsp;&emsp;&emsp;With respect to a tolerance, a pesticide chemical residue meeting the standardunder clause (i) is not an eligible pesticide chemical residue for purposes of subparagraph (B).
 
 #### (B) Tolerances for eligible pesticide chemical residues
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) publish a specific determination regarding the safety of the pesticide chemical residue for infants and children.
 
-> &emsp;&emsp;The Secretary of Health and Human Services and the Secretary of Agriculture, in consultation with the Administrator, shall conduct surveys to document dietary exposure to pesticides among infants and children. In the case of threshold effects, for purposes of clause (ii)(I) an additional tenfold margin of safety for the pesticide chemical residue and other sources of exposure shall be applied for infants and children to take into account potential pre- and post-natal toxicity and completeness of the data with respect to exposure and toxicity to infants and children. Notwithstanding such requirement for an additional margin of safety, the Administrator may use a different margin of safety for the pesticide chemical residue only if, on the basis of reliable data,such margin will be safe for infants and children.
+> &emsp;&emsp;The Secretary of Health and Human Services and the Secretary of Agriculture, in consultation with the Administrator, shall conduct surveys to document dietary exposure to pesticides among infants and children. In the case of threshold effects, for purposes of clause (ii)(I) an additional tenfold margin of safety for the pesticide chemical residue and other sources of exposure shall be applied for infants and children to take into account potential pre- and post-natal toxicity and completeness of the data with respect to exposure and toxicity to infants and children. Notwithstanding such requirement for an additional margin of safety, the Administrator may use a different margin of safety for the pesticide chemical residue only if, on the basis of reliable data, such margin will be safe for infants and children.
 
 #### (D) Factors
 
@@ -182,11 +182,11 @@
 
 #### (B) Detection limit
 
-&emsp;&emsp;A tolerance for a pesticide chemical residue in or on a food shall not be established at or modified to a level lower than the limit of detection of the method for detecting and measuring the pesticide chemical residue specified by the Administrator under subparagraph (A).
+&emsp;&emsp;A tolerance for a pesticide chemical residue in or on a food shall not be establishedat or modified to a level lower than the limit of detection of the method for detecting and measuring the pesticide chemical residue specified by the Administrator under subparagraph (A).
 
 #### (4) International standards
 
-&emsp;In establishing a tolerance for a pesticide chemical residue in or on a food, the Administrator shall determine whether a maximum residue level for the pesticide chemical has been established by the Codex Alimentarius Commission. If a Codex maximum residue level has been established for the pesticidechemical and the Administrator does not propose to adopt the Codex level, the Administrator shall publish for public comment a notice explaining the reasons for departing from the Codex level.
+&emsp;In establishing a tolerance for a pesticide chemical residue in or on a food, the Administrator shall determine whether a maximum residue level for the pesticide chemical has been established by the Codex Alimentarius Commission. If a Codex maximum residue level has been established for the pesticide chemical and the Administrator does not propose to adopt the Codex level, the Administrator shall publish for public comment a notice explaining the reasons for departing from the Codex level.
 
 #### (c) Authority and standard for exemptions
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;&emsp;(xiii) such other data and information as the Administrator requires by regulation to support the petition.
 
-> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator,the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administrator may require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
+> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administrator may require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
 
 #### (B) Modification or revocation
 
@@ -330,7 +330,7 @@
 
 &emsp;&emsp;(C) publish in the Federal Register, after first providing notice and an opportunity for comment of not less than 60 days' duration, an order—
 
-&emsp;&emsp;&emsp;(i) requiring the submission to the Administrator by one or more interested persons of a notice identifying the person orpersons who will submit the required data and information;
+&emsp;&emsp;&emsp;(i) requiring the submission to the Administrator by one or more interested persons of a notice identifying the person or persons who will submit the required data and information;
 
 &emsp;&emsp;&emsp;(ii) describing the type of data and information required to be submitted to the Administrator and stating why the data and information could not be obtained under the authority of section 3(c)(2)(B) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136a(c)(2)(B)\] or section 4 of the Toxic Substances Control Act \[15 U.S.C. 2603\];
 
@@ -370,11 +370,11 @@
 
 #### (1) Petition
 
-&emsp;In a case of actual controversy as to the validity of any regulation issued under subsection (e)(1)(C), or any order issued under subsection (f)(1)(C) or (g)(2)(C), or any regulation that is the subject of such an order, any person who will be adversely affected by such order or regulation may obtain judicial review by filing in the United States Court of Appeals for the circuit wherein that person resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within 60 days after publication of such order or regulation, a petition praying that the order or regulation be set aside in whole or in part.
+&emsp;In a case of actual controversy as to the validity of any regulation issued under subsection (e)(1)(C), or any order issued under subsection (f)(1)(C) or (g)(2)(C), or any regulation that is the subject of such an order, any person who will be adversely affected by such order or regulation may obtain judicial review by filing in the United States Court of Appeals for the circuit wherein that person resides or has its principal place of business, or in theUnited States Court of Appeals for the District of Columbia Circuit, within 60 days after publication of such order or regulation, a petition praying that the order or regulation be set aside in whole or in part.
 
 #### (2) Record and jurisdiction
 
-&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title 28. Upon the filing of such a petition, the courtshall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
+&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title 28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
 
 #### (3) Additional evidence
 
@@ -424,13 +424,13 @@
 
 #### (3) Regulations under section 346a
 
-&emsp;Regulations that established tolerances or exemptions under this section that were issued on or before August 3, 1996, shall remain in effect unless modified or revoked under subsection (d) or (e), and shall be subject to review under subsection (q).
+&emsp;Regulations that established tolerances or exemptions under this section that were issuedon or before August 3, 1996, shall remain in effect unless modified or revoked under subsection (d) or (e), and shall be subject to review under subsection (q).
 
 #### (4) Certain substances
 
 &emsp;With respect to a substance that is not included in the definition of the term "pesticide chemical" under section 321(q)(1) of this title but was so included on the day before October 30, 1998, the following applies as of October 30, 1998:
 
-&emsp;&emsp;(A) Notwithstanding paragraph (2), any regulation applying to the use of the substance that was in effect on the day before October 30, 1998, and was on such day deemedin such paragraph to have been issued under this section, shall be considered to have been issued under section 348 of this title.
+&emsp;&emsp;(A) Notwithstanding paragraph (2), any regulation applying to the use of the substance that was in effect on the day before October 30, 1998, and was on such day deemed in such paragraph to have been issued under this section, shall be considered to have been issued under section 348 of this title.
 
 &emsp;&emsp;(B) Notwithstanding paragraph (3), any regulation applying to the use of the substance that was in effect on such day and was issued under this section (including any such regulation issued before August 3, 1996) is deemed to have been issued under section 348 of this title.
 
@@ -470,11 +470,11 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (4) Tolerances for unavoidable residues
 
-&emsp;In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) and the unavoidability of the residue. Subsection (e) shall apply to the establishment of such tolerance. The Administrator shall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
+&emsp;In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) and theunavoidability of the residue. Subsection (e) shall apply to the establishment of such tolerance. The Administrator shall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
 
 #### (5) Pesticide residues resulting from lawful application of pesticide
 
-&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified under this section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in oron such food if it is shown to the satisfaction of the Secretary that—
+&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified under this section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in or on such food if it is shown to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) the residue is present as the result of an application or use of a pesticide at a time and in a manner that was lawful under the Federal Insecticide, Fungicide, and Rodenticide Act; and
 
@@ -532,7 +532,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (3) Limitation
 
-&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) and onlyif the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h).
+&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h).
 
 #### (4) State authority
 
@@ -588,7 +588,7 @@ Not later than 2 years after August 3, 1996, and annually thereafter, the Admini
 
 &emsp;(2) A listing of actions taken under subparagraph (B) of subsection (b)(2) that may result in pesticide chemical residues in or on food that present a yearly or lifetime risk above the risk allowed under subparagraph (A) of such subsection, and the food on which the pesticide chemicals producing the residues are used.
 
-&emsp;(3) Recommendations to consumers for reducing dietary exposure to pesticide chemical residues in a manner consistent with maintaining a healthy diet, including a list of foodthat may reasonably substitute for food listed under paragraph (2).
+&emsp;(3) Recommendations to consumers for reducing dietary exposure to pesticide chemical residues in a manner consistent with maintaining a healthy diet, including a list of food that may reasonably substitute for food listed under paragraph (2).
 
 Nothing in this subsection shall prevent retail grocers from providing additional information.
 
@@ -644,7 +644,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (6) Agency action
 
-&emsp;In the case of any substance that is found, as a result of testing and evaluation under this section, to have an endocrine effect on humans, the Administrator shall, as appropriate, take action under such statutory authority as is available to the Administrator, including consideration under other sections of this chapter, as is necessary to ensure the protection of public health.
+&emsp;In the case of any substance that is found, as a result of testing and evaluation under thissection, to have an endocrine effect on humans, the Administrator shall, as appropriate, take action under such statutory authority as is available to the Administrator, including consideration under other sections of this chapter, as is necessary to ensure the protection of public health.
 
 #### (7) Report to Congress
 
@@ -704,7 +704,7 @@ The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–46
 
 #### Codification
 
-August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original references to the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
+August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original referencesto the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -764,7 +764,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as an Effective Date note under section 136 of Title 7.
+Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulationsthereunder, see section 4 of Pub. L. 92–516, set out as an Effective Date note under section 136 of Title 7.
 
 #### Extension of Prohibition of Tolerance Fees
 
@@ -772,7 +772,7 @@ Pub. L. 115–141, div. M, title IV, §401(c), Mar. 23, 2018, 132 Stat. 1050, pr
 
 #### Regulation of Sulfuryl Fluoride
 
-Pub. L. 113–79, title X, §10015, Feb. 7, 2014, 128 Stat. 952, provided that: "Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, andCosmetic Act (21 U.S.C. 346a) when assessing tolerances associated with residues from the pesticide."
+Pub. L. 113–79, title X, §10015, Feb. 7, 2014, 128 Stat. 952, provided that: "Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a) when assessing tolerances associated with residues from the pesticide."
 
 #### Tolerance Fees
 

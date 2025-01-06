@@ -56,7 +56,7 @@ The Administrator, in consultation with the chairperson of the Council, shall ap
 
 The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e), may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 <sup>1</sup> of title 5.
 
-(Pub. L. 100–533, title IV, §407, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4196;amended Pub. L. 105–135, title III, §304, Dec. 2, 1997, 111 Stat. 2609; Pub. L. 106–554, §1(a)(9) \[title VII, §702\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
+(Pub. L. 100–533, title IV, §407, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4196; amended Pub. L. 105–135, title III, §304, Dec. 2, 1997, 111 Stat. 2609; Pub. L. 106–554, §1(a)(9) \[title VII, §702\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
 
 #### <b>Editorial Notes</b>
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 105–135, §304(5), added subsec. (f) and struck out headi
 
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 

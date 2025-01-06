@@ -122,5 +122,5 @@ Pub. L. 100–647, title VI, §6230(d), Nov. 10, 1988, 102 Stat. 3734, provided 
 
 #### Regulations
 
-Pub. L. 100–647, title VI, §6230(c), Nov. 10, 1988, 102 Stat. 3734, provided that: "The Secretary of the Treasury or the Secretary's delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act \[Nov. 10, 1988\] in order to carry out the purposes of section 7811 of the 1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures."
+Pub. L. 100–647, title VI, §6230(c), Nov. 10, 1988, 102 Stat. 3734, provided that: "The Secretary of the Treasury or the Secretary's delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act \[Nov. 10, 1988\] in order to carry out the purposes of section 7811 of the1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures."
 

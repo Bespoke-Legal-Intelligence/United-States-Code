@@ -68,7 +68,7 @@ Any references in this chapter to homeless individuals (including homeless perso
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c)(1), (d), and (e), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c)(1), (d), and (e), was in the original "this Act", meaning Pub. L.100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -110,7 +110,7 @@ Pub. L. 111–22, div. B, title V, §1503, May 20, 2009, 123 Stat. 1702, provide
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(41)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(32)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII,§405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(41)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(32)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Regulations
 

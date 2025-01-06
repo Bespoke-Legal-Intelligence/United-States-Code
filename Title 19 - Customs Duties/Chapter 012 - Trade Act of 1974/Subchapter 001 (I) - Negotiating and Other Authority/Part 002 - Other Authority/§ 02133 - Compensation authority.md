@@ -26,7 +26,7 @@ Whenever—
 
 &emsp;(B) one-half of 1 percent ad valorem.
 
-(4) Any concessions granted under subsection (a)(1) shall be reduced and terminated accordingto substantially the same time schedule for reduction applicable to the relevant action under sections 2253(e) and 2254 of this title.
+(4) Any concessions granted under subsection (a)(1) shall be reduced and terminated according to substantially the same time schedule for reduction applicable to the relevant action under sections 2253(e) and 2254 of this title.
 
 #### (c) Consideration of past violations of trade concessions
 
@@ -66,5 +66,5 @@ Subsec. (e). Pub. L. 100–418, §1104(4), added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1401(b)(1)(A) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter III of this chapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by section 1401(b)(1)(A) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect toinvestigations initiated under part 1 (§2251 et seq.) of subchapter III of this chapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 

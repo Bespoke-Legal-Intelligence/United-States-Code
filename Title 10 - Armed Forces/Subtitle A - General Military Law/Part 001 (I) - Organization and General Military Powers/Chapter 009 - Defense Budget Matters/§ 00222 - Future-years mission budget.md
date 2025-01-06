@@ -22,7 +22,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "major force programs." for "both major force programs and the core mission areas identified under the most recentquadrennial roles and missions review pursuant to section 118b of this title."
+<b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "major force programs." for "both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title."
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181, §944(a), amended last sentence generally. Prior to amendment, last sentence read as follows: "That budget shall be submitted for any fiscal year not later than 60 days after the date on which the President's budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31."
 

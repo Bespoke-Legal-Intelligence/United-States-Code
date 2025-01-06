@@ -6,7 +6,7 @@ Establishment of Standards.—(1) The Secretary shall establish standards and pr
 
 (2) In establishing standards and procedures under paragraph (1), the Secretary shall consult with the Secretary of Defense to ensure that such standards and procedures are consistent with the policies on classified information of the Department of Defense.
 
-(3) The Secretary shall disseminate guidance to employees of the Veterans Health Administration, including mental health professionals, on the standards and procedures established under paragraph (1) and how to best engage eligible individuals during the course of mental health treatment with respect to classified information.
+(3) The Secretary shall disseminate guidance to employees of the Veterans Health Administration, including mental health professionals, on the standards and procedures establishedunder paragraph (1) and how to best engage eligible individuals during the course of mental health treatment with respect to classified information.
 
 (b)
 

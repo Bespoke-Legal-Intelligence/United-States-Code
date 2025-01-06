@@ -6,7 +6,7 @@ The Secretary, after appropriate investigation and approval, shall issue a certi
 
 &emsp;(2) a statement identifying each vehicle to be used to transport any migrant or seasonal agricultural worker and, if the vehicle is or will be owned or controlled by the applicant, documentation showing that the applicant is in compliance with the requirements of section 1841 of this title with respect to each such vehicle;
 
-&emsp;(3) a statement identifying each facility or real property to be used to house any migrant agricultural worker and, if the facility or real property is or will be owned or controlled by the applicant, documentation showing that the applicant is in compliance with section 1823 of this title with respect to each such facility or real property;
+&emsp;(3) a statement identifying each facility or real property to be used to house any migrantagricultural worker and, if the facility or real property is or will be owned or controlled by the applicant, documentation showing that the applicant is in compliance with section 1823 of this title with respect to each such facility or real property;
 
 &emsp;(4) a set of fingerprints of the applicant; and
 

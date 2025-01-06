@@ -52,7 +52,7 @@
 
 #### (B) Emergency medical condition
 
-&emsp;&emsp;The term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1867(e)(1)(A) of the Social Security Act \[42 U.S.C. 1395dd(e)(1)(A)\].
+&emsp;&emsp;The term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an averageknowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1867(e)(1)(A) of the Social Security Act \[42 U.S.C. 1395dd(e)(1)(A)\].
 
 #### (C) Emergency services
 
@@ -68,7 +68,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this subsection and section 300gg–131 of title 42, in the caseof a participant or beneficiary who is enrolled in a group health plan or group health insurance coverage offered by a health insurance issuer and who is furnished services described in clause (i) with respect to an emergency medical condition, the term "emergency services" shall include, unless each of the conditions described in subclause (II) are met, in addition to the items and services described in clause (i), items and services—
+&emsp;&emsp;&emsp;&emsp;For purposes of this subsection and section 300gg–131 of title 42, in the case of a participant or beneficiary who is enrolled in a group health plan or group health insurance coverage offered by a health insurance issuer and who is furnished services described in clause (i) with respect to an emergency medical condition, the term "emergency services" shall include, unless each of the conditions described in subclause (II) are met, in addition to the items and services described in clause (i), items and services—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for which benefits are provided or covered under the plan or coverage, respectively; and
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;The term "qualifying payment amount" means, subject to clauses (ii) and (iii), with respect to a sponsor of a group health plan and health insurance issuer offering group health insurance coverage—
 
-&emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022, the median of the contracted rates recognized by the plan or issuer, respectively (determined with respect to all such plans of such sponsor or all such coverage offered by such issuer that are offered within the same insurance market (specified in subclause (I), (II), or (III) of clause (iv)) as the plan or coverage) as the total maximum payment (including the cost-sharing amount imposed for such item or service and the amount to be paid by the plan or issuer, respectively) under such plans or coverage, respectively, on January 31, 2019, for the same or a similar item or service that is provided by a provider in the same or similar specialty and provided in the geographic region in which the item or service is furnished, consistent with the methodology established by the Secretary under paragraph (2), increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over 2019, such percentage increase over 2020, and such percentage increase over 2021; and
+&emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022, the median of the contracted rates recognized by the plan or issuer, respectively (determined with respect to all such plans of such sponsor or all such coverage offered by such issuer that are offered within the same insurance market (specified in subclause (I), (II), or (III) of clause (iv)) as the plan or coverage) as the total maximum payment (including the cost-sharing amount imposed for such item or service and the amount to be paid by the plan or issuer, respectively) under such plans or coverage, respectively, on January 31, 2019, for the same or a similar item or service that is provided by a provider in the same or similar specialty and provided in the geographic region in which the item or service is furnished, consistent with the methodology established by the Secretary under paragraph (2), increasedby the percentage increase in the consumer price index for all urban consumers (United States city average) over 2019, such percentage increase over 2020, and such percentage increase over 2021; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished during 2023 or a subsequent year, the qualifying payment amount determined under this clause for such an item or service furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
 
@@ -140,7 +140,7 @@
 
 #### (I) First coverage year
 
-&emsp;&emsp;&emsp;&emsp;The term "first coverage year" means, with respect to a group health plan or group health insurance coverage offered by a health insurance issuer and an item or service for which coverage is not offered in 2019 under such plan or coverage, the first year after 2019 for which coverage for such item or service is offered under such plan or health insurance coverage.
+&emsp;&emsp;&emsp;&emsp;The term "first coverage year" means, with respect to a group health plan or group health insurance coverage offered by a health insurance issuer and an item or service for which coverage is not offered in 2019 under such plan or coverage,the first year after 2019 for which coverage for such item or service is offered under such plan or health insurance coverage.
 
 #### (II) First sufficient information year
 
@@ -186,7 +186,7 @@
 
 #### (I) Specified State law
 
-&emsp;&emsp;The term "specified State law" means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to section 1144 of this title) in the case of a participant or beneficiary covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
+&emsp;&emsp;The term "specified State law" means, with respect to a State, an item or servicefurnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to section 1144 of this title) in the case of a participant or beneficiary covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
 
 #### (J) Stabilize
 
@@ -270,7 +270,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;Not later than 1 year after December 27, 2020, the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury, shall establish by regulation one independent dispute resolution process (referred to in this subsection as the "IDR process") under which, in the case of an item or service with respect to which a provider or facility (as applicable) or group health plan or health insurance issuer offering group health insurance coverage submits a notification under paragraph (1)(B) (in this subsection referred to as a "qualified IDR item or service"), a certified IDR entity under paragraph (4) determines, subject to subparagraph (B) and in accordance with the succeeding provisions of this subsection, the amount of payment under the plan or coverage for such item or service furnished by such provider or facility.
+&emsp;&emsp;Not later than 1 year after December 27, 2020, the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury, shall establish by regulation one independent dispute resolution process (referred to in this subsection as the "IDR process") under which, in the case of an item or service with respect to which a provider or facility (as applicable) or group health plan or health insurance issuer offering group health insurance coverage submits a notification under paragraph (1)(B) (in this subsection referred to as a "qualified IDR item or service"), a certified IDR entity under paragraph (4) determines, subject to subparagraph (B) and inaccordance with the succeeding provisions of this subsection, the amount of payment under the plan or coverage for such item or service furnished by such provider or facility.
 
 #### (B) Authority to continue negotiations
 
@@ -442,7 +442,7 @@
 
 #### (6) Timing of payment
 
-&emsp;The total plan or coverage payment required pursuant to subsection (a)(1) or (b)(1), with respect to a qualified IDR item or service for which a determination is made under paragraph (5)(A) or with respect to an item or service for which a payment amount is determined under open negotiations under paragraph (1), shall be made directly to the nonparticipating provider or facility not later than 30 days after the date on which such determination is made.
+&emsp;The total plan or coverage payment required pursuant to subsection (a)(1) or (b)(1), with respect to a qualified IDR item or service for which a determination is made under paragraph (5)(A) or with respect to an item or service for which a payment amount is determined under open negotiations under paragraph (1), shall be made directly to the nonparticipatingprovider or facility not later than 30 days after the date on which such determination is made.
 
 #### (7) Publication of information relating to the IDR process
 
@@ -468,7 +468,7 @@
 
 #### (B) Information
 
-&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is,with respect to a notification under paragraph (1)(B) by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group health insurance coverage—
+&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under paragraph (1)(B) by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group health insurance coverage—
 
 &emsp;&emsp;&emsp;(i) a description of each item and service included with respect to such notification;
 
@@ -528,7 +528,7 @@ A group health plan or a health insurance issuer offering group health insurance
 
 #### (1) In general
 
-&emsp;For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group health insurance coverage shall, with respect to a notification submitted under section 300gg–136 of title 42 by a health care provider or health care facility to the plan or issuer for a participant or beneficiary under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative ofsuch participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
+&emsp;For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group health insurance coverage shall, with respect to a notification submitted under section 300gg–136 of title 42 by a health care provider or health care facility to the plan or issuer for a participant or beneficiary under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative of such participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
 
 &emsp;&emsp;(A) Whether or not the provider or facility is a participating provider or a participating facility with respect to the plan or coverage with respect to the furnishing of such item or service and—
 
@@ -590,7 +590,7 @@ Amendment by section 107(b) of Pub. L. 116–260 applicable with respect to plan
 
 #### Effective Date
 
-Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BBof Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

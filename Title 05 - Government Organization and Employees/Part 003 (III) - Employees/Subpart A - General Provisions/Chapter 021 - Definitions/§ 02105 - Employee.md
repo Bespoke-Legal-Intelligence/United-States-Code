@@ -20,7 +20,7 @@
 
 &emsp;(3) subject to the supervision of an individual named by paragraph (1) of this subsection while engaged in the performance of the duties of his position.
 
-(b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy (ifany), and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
+(b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy (if any), and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
 
 (c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Navy Ships Stores Program, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
@@ -206,7 +206,7 @@ Pub. L. 101–508, title VII, §7202(n), Nov. 5, 1990, 104 Stat. 1388–340, as 
 
 "(2)(A) If an individual makes an election under section 8347(q)(1) of title 5, United States Code, to remain covered by subchapter III of chapter 83 of such title, any nonappropriated fund instrumentality thereafter employing such individual shall deduct from such individual's pay and contribute to the Thrift Savings Fund such sums as are required for such individual in accordance with section 8351 of such title.
 
-"(B) Notwithstanding subsection (a) or (b) of section 8432 of title 5, United States Code, any individual who, as of the date of enactment of this Act \[Nov. 5, 1990\],becomes eligible to make an election under section 8347(q)(1) of such title may, within 30 days after such individual makes an election thereunder in accordance with subsection (m)(2) \[set out as a note above\], make any election described in section 8432(b)(1)(A) of such title.
+"(B) Notwithstanding subsection (a) or (b) of section 8432 of title 5, United States Code, any individual who, as of the date of enactment of this Act \[Nov. 5, 1990\], becomes eligible to make an election under section 8347(q)(1) of such title may, within 30 days after such individual makes an election thereunder in accordance with subsection (m)(2) \[set out as a note above\], make any election described in section 8432(b)(1)(A) of such title.
 
 "(3)(A) If an individual makes an election under section 8461(n)(1) of title 5, United States Code, to remain covered by chapter 84 of such title, any nonappropriated fund instrumentality thereafter employing such individual shall deduct from such individual's pay and shall contribute to the Thrift Savings Fund the funds deducted, together with such other sums as are required for such individual under subchapter III of such chapter.
 

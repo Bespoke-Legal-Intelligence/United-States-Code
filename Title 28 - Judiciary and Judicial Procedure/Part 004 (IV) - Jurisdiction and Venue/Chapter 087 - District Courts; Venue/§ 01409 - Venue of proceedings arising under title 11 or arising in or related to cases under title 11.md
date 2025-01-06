@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided in subsections (b) and (d), a proceeding arising under title 11 or arising in or related to a case under title 11 may be commenced in the district court in which such case is pending.
 
-(b) Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 <sup>1</sup> or a consumer debt of less than $15,000,<sup>1</sup> or a debt (excluding a consumer debt) against a noninsider of less than $25,000, only in the district court for the district in which the defendant resides.
+(b) Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 <sup>1</sup> or a consumer debt of less than $15,000,<sup>1</sup> or a debt (excluding a consumer debt) against a noninsider of less than$25,000, only in the district court for the district in which the defendant resides.
 
 (c) Except as provided in subsection (b) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case as statutory successor to the debtor or creditors under section 541 or 544(b) of title 11 in the district court for the district where the State or Federal court sits in which, under applicable nonbankruptcy venue provisions, the debtor or creditors, as the case may be, may have commenced an action on which such proceeding is based if the case under title 11 had not been commenced.
 
@@ -38,7 +38,7 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 #### Adjustment of Dollar Amounts
 
-The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of theUnited States pursuant to section 104 of Title 11, Bankruptcy, as follows:
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of Title 11, Bankruptcy, as follows:
 
 By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b), dollar amounts "1,375", "20,450", and "25,000" were adjusted to "1,525", "22,700", and "27,750", respectively. See notice of the Judicial Conference of the United States set out as a note under section 104 of Title 11.
 

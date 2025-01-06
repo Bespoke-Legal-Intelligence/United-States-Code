@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Commission shall, in accordance with the requirements of this section, establish and maintain a database on the safety of consumerproducts, and other products or substances regulated by the Commission, that is—
+&emsp;Subject to the availability of appropriations, the Commission shall, in accordance with the requirements of this section, establish and maintain a database on the safety of consumer products, and other products or substances regulated by the Commission, that is—
 
 &emsp;&emsp;(A) publicly available;
 
@@ -210,7 +210,7 @@ In this section, the term "harm" means—
 
 &emsp;(2) risk of injury, illness, or death, as determined by the Commission.
 
-(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048; amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
+(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048;amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
 
 #### <b>Editorial Notes</b>
 

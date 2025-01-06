@@ -52,7 +52,7 @@ Any—
 
 #### (A) In general
 
-&emsp;&emsp;Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
+&emsp;&emsp;Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed bythe Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
 
 &emsp;&emsp;&emsp;(i) records and supporting documentation related to the importation;
 
@@ -68,7 +68,7 @@ Any—
 
 #### (A) Exports to USMCA countries
 
-&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to aUSMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
+&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
 
 #### (B) Exports under Canadian Agreement
 
@@ -138,7 +138,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (B) Chile FTA Certificate of Origin
 
-&emsp;&emsp;The term "Chile FTA Certificate of Origin" means the certification, established under article 4.13 of the United States-Chile Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+&emsp;&emsp;The term "Chile FTA Certificate of Origin" means the certification, established under article 4.13 of the United States-ChileFree Trade Agreement, that a good qualifies as an originating good under such Agreement.
 
 #### (2) Exports to Chile
 
@@ -226,7 +226,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to Korea
 
-&emsp;Any person who completes and issues a KFTA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a KFTA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -250,7 +250,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (B) CTPA certification of origin
 
-&emsp;&emsp;The term "CTPA certification of origin" means the certification established under article 4.15 of the United States–Colombia Trade Promotion Agreement that a goodqualifies as an originating good under such Agreement.
+&emsp;&emsp;The term "CTPA certification of origin" means the certification established under article 4.15 of the United States–Colombia Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
 
 #### (2) Exports to Colombia
 

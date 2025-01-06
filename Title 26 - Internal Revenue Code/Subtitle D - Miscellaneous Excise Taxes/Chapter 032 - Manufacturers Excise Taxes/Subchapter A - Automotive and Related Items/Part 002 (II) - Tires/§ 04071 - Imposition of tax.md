@@ -44,7 +44,7 @@ Pub. L. 112–102 substituted "July 1, 2012" for "April 1, 2012".
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357, §869(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) imposed tax and set forth table of rates providing for no tax if the tire weighed not more than 40 lbs., tax of 15 cents per lb. in excess of 40 lbs. if the tire weighed more than 40 lbs. but not more than 70 lbs., tax of $4.50 plus 30 cents per lb. in excess of 70 lbs. if the tire weighed more than 70 lbs. but not more than 90 lbs., and tax of $10.50 plus 50 cents per lb. in excess of 90 lbs. if the tire weighed more than 90 lbs.
 
-Subsec. (c). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text offormer subsec. (c). Text read as follows: "For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary."
+Subsec. (c). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary."
 
 Subsec. (e). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c).
 

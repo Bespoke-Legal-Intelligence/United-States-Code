@@ -30,7 +30,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 #### (d) Protection of certain CIA personnel from tort liability
 
-(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a), or designated by the Director to carry firearms under subparagraph (D) or (E) of section 3506(a)(4) of this title, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
+(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a), or designated by the Director to carry firearms under subparagraph (D) or (E) of section 3506(a)(4) of this title, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tortliability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
 
 &emsp;(A) protect an individual in the presence of such Agency personnel from a crime of violence;
 
@@ -68,7 +68,7 @@ Subsec. (d)(1). Pub. L. 117–263, §6414(b), substituted "designated by the Dir
 
 <b>2019</b>—Subsec. (a)(1)(B). Pub. L. 116–92, §6413(1), substituted "500 yards;" for "500 feet;".
 
-Subsec. (a)(1)(D). Pub. L. 116–92, §6413(2), substituted "500 yards." for "500 feet.".
+Subsec. (a)(1)(D). Pub. L. 116–92, §6413(2), substituted "500 yards." for "500 feet."
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–177, §377(b)(3)(A), substituted "officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40," for "special policemen of the General Services Administration perform under the first section of the Act entitled 'An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes' (40 U.S.C. 318),".
 

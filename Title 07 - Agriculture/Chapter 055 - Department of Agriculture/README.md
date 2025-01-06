@@ -162,6 +162,7 @@
 | [2279i.](%C2%A7%2002279i%20-%20Cooperation%20with%20State%20and%20other%20agencies%3B%20expenditures.md) | Cooperation with State and other agencies; expenditures. |
 | [2279j.](%C2%A7%2002279j%20-%20Conversion%20authority.md) | Conversion authority. |
 | [2279k.](%C2%A7%2002279k%20-%20Authorization%20of%20protection%20operations%20for%20the%20Secretary%20of%20Agriculture%20and%20others.md) | Authorization of protection operations for the Secretary of Agriculture and others. |
+| 2279<i>l.</i> | National Detector Dog Training Center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -332,3 +333,4 @@
 - [&sect; 02279i - Cooperation with State and other agencies; expenditures](%C2%A7%2002279i%20-%20Cooperation%20with%20State%20and%20other%20agencies%3B%20expenditures.md)
 - [&sect; 02279j - Conversion authority](%C2%A7%2002279j%20-%20Conversion%20authority.md)
 - [&sect; 02279k - Authorization of protection operations for the Secretary of Agriculture and others](%C2%A7%2002279k%20-%20Authorization%20of%20protection%20operations%20for%20the%20Secretary%20of%20Agriculture%20and%20others.md)
+- [&sect; 02279l - National Detector Dog Training Center](%C2%A7%2002279l%20-%20National%20Detector%20Dog%20Training%20Center.md)

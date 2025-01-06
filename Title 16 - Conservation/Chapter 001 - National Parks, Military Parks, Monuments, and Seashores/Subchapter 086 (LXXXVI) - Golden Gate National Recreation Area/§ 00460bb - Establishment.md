@@ -1,6 +1,6 @@
 ### §460bb. Establishment
 
-In order to preserve for public use and enjoyment certain areas of Marin and San Francisco Counties, California, possessing outstanding natural, historic, scenic, and recreational values, and in order to provide for the maintenance of needed recreational open space necessary to urban environment and planning, the Golden Gate National Recreation Area (hereinafter referred to as the "recreation area") is hereby established. In the management of the recreation area, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall utilize theresources in a manner which will provide for recreation and educational opportunities consistent with sound principles of land use planning and management. In carrying out the provisions of this subchapter, the Secretary shall preserve the recreation area, as far as possible, in its natural setting, and protect it from development and uses which would destroy the scenic beauty and natural character of the area.
+In order to preserve for public use and enjoyment certain areas of Marin and San Francisco Counties, California, possessing outstanding natural, historic, scenic, and recreational values, and in order to provide for the maintenance of needed recreational open space necessary to urban environment and planning, the Golden Gate National Recreation Area (hereinafter referred to as the "recreation area") is hereby established. In the management of the recreation area, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall utilize the resources in a manner which will provide for recreation and educational opportunities consistent with sound principles of land use planning and management. In carrying out the provisions of this subchapter, the Secretary shall preserve the recreation area, as far as possible, in its natural setting, and protect it from development and uses which would destroy the scenic beauty and natural character of the area.
 
 (Pub. L. 92–589, §1, Oct. 27, 1972, 86 Stat. 1299.)
 
@@ -124,7 +124,7 @@ Liability of directors.—Members of the Board of Directors shall not be conside
 
 &emsp;"(6)
 
-Meetings.—The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission.
+Meetings.—The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning,and design issues through the Golden Gate National Recreation Area Advisory Commission.
 
 &emsp;"(7)
 
@@ -240,7 +240,7 @@ Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclu
 
 "(2) After the plan required in subsection (b) is submitted, and for each of the 14 fiscal years thereafter, there are authorized to be appropriated to the Trust not more than the amounts specified in such plan. Such sums shall remain available until expended. Of such sums, funds shall be available through the Trust for law enforcement activities and services to be provided by the United States Park Police at the Presidio in accordance with section 104(i) of this title.
 
-"(b) Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust shall submit to Congress a plan which includes a schedule of annual decreasing federally appropriated funding that will achieve, at a minimum, self-sufficiency for the Trust within 15 complete fiscal years after such meeting of the Trust. No further funds shall be authorized for the Trust 15 years after the first meeting of the Board of Directors of the Trust.
+"(b) Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust shall submit to Congress a plan which includes a schedule of annual decreasing federally appropriated funding that will achieve, at a minimum, self-sufficiency for the Trustwithin 15 complete fiscal years after such meeting of the Trust. No further funds shall be authorized for the Trust 15 years after the first meeting of the Board of Directors of the Trust.
 
 "(c) The Administrator of the General Services Administration shall provide necessary assistance, on a reimbursable basis, including detailees as necessary, to the Trust in the formulation and submission of the annual budget request for the administration, operation, and maintenance of the Presidio.
 

@@ -36,7 +36,7 @@ Nonrequired Element of Offense.—It is not a required element of any offense un
 
 Circumstances.—The circumstance referred to in subsections (a) and (b) is that—
 
-&emsp;(1) any communication involved in or made in furtherance of the offense is communicatedor transported by the mail, or in interstate or foreign commerce by any means, including by computer, or any means or instrumentality of interstate or foreign commerce is otherwise used in committing or in furtherance of the commission of the offense;
+&emsp;(1) any communication involved in or made in furtherance of the offense is communicated or transported by the mail, or in interstate or foreign commerce by any means, including by computer, or any means or instrumentality of interstate or foreign commerce is otherwise used in committing or in furtherance of the commission of the offense;
 
 &emsp;(2) any communication involved in or made in furtherance of the offense contemplates the transmission or transportation of a visual depiction by the mail, or in interstate or foreign commerce by any means, including by computer;
 

@@ -32,7 +32,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 &emsp;&emsp;(A) improving the security of railroad tunnels, railroad bridges, railroad switching and car storage areas, other railroad infrastructure and facilities, information systems, and other areas identified by the Secretary as posing significant railroad-related risks to public safety and the movement of interstate commerce, taking into account the impact that any proposed security measure might have on the provision of railroad service or on operations served or otherwise affected by railroad service;
 
-&emsp;&emsp;(B) deploying equipment and personnel to detect security threats, including those posed by explosives and hazardous chemical, biological, and radioactive substances, and any appropriate countermeasures;
+&emsp;&emsp;(B) deploying equipment and personnel to detect security threats, including thoseposed by explosives and hazardous chemical, biological, and radioactive substances, and any appropriate countermeasures;
 
 &emsp;&emsp;(C) consistent with section 1167 of this title, training railroad employees in terrorism prevention, preparedness, passenger evacuation, and response activities;
 
@@ -104,7 +104,7 @@ Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, 
 
 #### References in Text
 
-Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
+Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 byPub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a note under section 1101 of this title.
 

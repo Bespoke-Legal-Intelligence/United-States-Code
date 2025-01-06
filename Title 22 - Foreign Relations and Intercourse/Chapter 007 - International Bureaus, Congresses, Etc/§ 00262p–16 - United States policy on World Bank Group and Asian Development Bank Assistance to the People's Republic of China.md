@@ -8,7 +8,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(A) to the rules and principles of the Paris Club, or of other similar coordinated multilateral initiatives on debt relief and debt restructuring in which the United States participates, including with respect to debt transparency and appropriate burden-sharing among all creditors;
 
-&emsp;&emsp;(B) to the practice of presumptive public disclosure of the terms and conditions on which they extend credit to other governments (without regard to the form of any such extension of credit);
+&emsp;&emsp;(B) to the practice of presumptive public disclosure of the terms and conditions onwhich they extend credit to other governments (without regard to the form of any such extension of credit);
 
 &emsp;&emsp;(C) not to enforce any agreement terms that may impair their own or the borrowers' capacity fully to implement any commitment described in subparagraph (A) or (B); and
 

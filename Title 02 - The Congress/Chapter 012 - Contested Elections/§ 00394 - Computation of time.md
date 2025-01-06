@@ -6,7 +6,7 @@ In computing any period of time prescribed or allowed by this chapter or by the 
 
 #### (b) Service by mail
 
-Whenever a party has the right or is required to do some act or take some proceeding within a prescribed period after the service of a pleading, motion, notice, brief, or other paper upon him, which is served upon him by mail, three days shall be added to the prescribed period.
+Whenever a party has the right or is required to do some act or take some proceeding withina prescribed period after the service of a pleading, motion, notice, brief, or other paper upon him, which is served upon him by mail, three days shall be added to the prescribed period.
 
 #### (c) Enlargement of time
 

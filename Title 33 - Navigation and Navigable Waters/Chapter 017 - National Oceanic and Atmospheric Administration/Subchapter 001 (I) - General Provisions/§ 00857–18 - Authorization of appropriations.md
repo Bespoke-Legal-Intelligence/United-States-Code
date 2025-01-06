@@ -1,6 +1,6 @@
 ### §857–18. Authorization of appropriations
 
-There are authorized to be appropriated for purposes of carrying out sections 857–13 to 857–18 of this title not to exceed $520,000 for the fiscal year ending September 30, 1978, $572,000 for the fiscal year ending September 30, 1979, $565,000 for the fiscal year ending September 30, 1980, $600,000 for the fiscal year ending September 30, 1981, and $555,000 for the fiscal year ending September 30, 1982. Such sums as may be appropriated under this section shall remain available until expended.
+There are authorized to be appropriated for purposes of carrying out sections 857–13 to 857–18of this title not to exceed $520,000 for the fiscal year ending September 30, 1978, $572,000 for the fiscal year ending September 30, 1979, $565,000 for the fiscal year ending September 30, 1980, $600,000 for the fiscal year ending September 30, 1981, and $555,000 for the fiscal year ending September 30, 1982. Such sums as may be appropriated under this section shall remain available until expended.
 
 (Pub. L. 95–63, §8, July 5, 1977, 91 Stat. 267; Pub. L. 95–304, §1(2), June 29, 1978, 92 Stat. 347; Pub. L. 96–26, June 21, 1979, 93 Stat. 74; Pub. L. 97–87, §1(3), Dec. 1, 1981, 95 Stat. 1134.)
 
@@ -12,7 +12,7 @@ Provisions similar to those contained in this section, which authorized appropri
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–87 inserted provisions authorizing appropriations of not to exceed $555,000 for fiscal year ending Sept. 30, 1982, and provided that such sums asmight be appropriated under authority of this section remain available until expended.
+<b>1981</b>—Pub. L. 97–87 inserted provisions authorizing appropriations of not to exceed $555,000 for fiscal year ending Sept. 30, 1982, and provided that such sums as might be appropriated under authority of this section remain available until expended.
 
 <b>1979</b>—Pub. L. 96–26 substituted provisions authorizing appropriations of $565,000 for fiscal year ending Sept. 30, 1980, and $600,000 for fiscal year ending Sept. 30, 1981, for provisions directing that sums appropriated under this section remain available until expended.
 

@@ -32,7 +32,7 @@ The following shall be exempt from the specific provisions of this chapter under
 
 &emsp;&emsp;(C) the partners or equity participants in an entity of the type described in subparagraph (B); or
 
-&emsp;&emsp;(D) a corporation, joint stock company, association, cooperative, limited partnership,or other similar entity in which the producer holds 50 percent or more of the stock or other beneficial interests,
+&emsp;&emsp;(D) a corporation, joint stock company, association, cooperative, limited partnership, or other similar entity in which the producer holds 50 percent or more of the stock or other beneficial interests,
 
 > &emsp;shall be considered as held by the producer.
 
@@ -58,7 +58,7 @@ Pub. L. 101–220, §3(b), Dec. 12, 1989, 103 Stat. 1878, provided that:
 
 "(1)
 
-Amendment.—The Secretary of Agriculture shall issue an amendment to the egg promotion and research order issued under the Egg Research and Consumer Information Act (7 U.S.C. 2701 et seq.) to implement the amendments made by this section \[amending this section\]. Such amendment shall be issued after public notice and opportunity for comment in accordance with section 553 of title 5, United States Code, and without regard to sections 556 and 557 of such title. The Secretary shall issue a proposed amendment to such order not later than 30 days after the date of enactment of this Act \[Dec. 12, 1989\].
+Amendment.—The Secretary of Agriculture shall issue an amendment to the egg promotion and research order issued under the Egg Research and Consumer Information Act (7 U.S.C. 2701 et seq.) to implement the amendments made by this section \[amending this section\]. Such amendment shall be issued after public notice and opportunity for comment in accordance with section 553 of title 5, United States Code, and withoutregard to sections 556 and 557 of such title. The Secretary shall issue a proposed amendment to such order not later than 30 days after the date of enactment of this Act \[Dec. 12, 1989\].
 
 "(2)
 

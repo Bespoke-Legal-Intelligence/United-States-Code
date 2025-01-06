@@ -76,7 +76,7 @@ Elements.—The regulations required under this section shall provide the follow
 
 &emsp;&emsp;(C) Procedures to limit the payment of incremental expenses to friendly foreign countries only to developing countries, except in the case of exceptional circumstances as specified in the regulations.
 
-(Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, §2010; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, \[div. A\], title XII, §1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, §1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered §321 and amended Pub. L. 114–328, div. A, title XII, §1244(a), Dec. 23, 2016, 130 Stat. 2516; Pub. L. 115–232, div. A, title XII, §1204(c)(1)(B), Aug. 13, 2018, 132 Stat. 2017.)
+(Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, §2010; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L.110–417, \[div. A\], title XII, §1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, §1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered §321 and amended Pub. L. 114–328, div. A, title XII, §1244(a), Dec. 23, 2016, 130 Stat. 2516; Pub. L. 115–232, div. A, title XII, §1204(c)(1)(B), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 
@@ -105,6 +105,14 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–417, \[div. A\], title XII, §1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 \[now 321\] of title 10, United States Code, as so amended, that begin on or after that date."
+
+#### Temporary Authority To Provide Training to Military Forces or National Security Forces of Costa Rica and Panama
+
+Pub. L. 118–159, div. A, title XII, §1209, Dec. 23, 2024, 138 Stat. 2097, provided that: "In conducting training with friendly foreign countries under section 321 of title 10, United States Code, notwithstanding subsection (a)(2) of that section, beginning on the date of the enactment of this Act \[Dec. 23, 2024\] and ending on December 31, 2030, the general purpose forces of the United States Armed Forces may train with the military forces or national security forces of the following countries:
+
+&emsp;"(1) Costa Rica.
+
+&emsp;"(2) Panama."
 
 #### Prohibition on Participation of the People's Republic of China in Rim of the Pacific (RIMPAC) Naval Exercises
 

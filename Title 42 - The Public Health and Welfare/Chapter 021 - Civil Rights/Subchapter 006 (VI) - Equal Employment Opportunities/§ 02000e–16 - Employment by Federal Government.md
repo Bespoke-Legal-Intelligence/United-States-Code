@@ -18,7 +18,7 @@ Except as otherwise provided in this subsection, the Equal Employment Opportunit
 
 &emsp;(1) provision for the establishment of training and education programs designed to provide a maximum opportunity for employees to advance so as to perform at their highest potential; and
 
-&emsp;(2) a description of the qualifications in terms of training and experience relating to equal employment opportunity for the principal and operating officials of each such department, agency, or unit responsible for carrying out the equal employment opportunity program and of the allocation of personnel and resources proposed by such department, agency, or unit to carry out its equal employment opportunity program.
+&emsp;(2) a description of the qualifications in terms of training and experience relating toequal employment opportunity for the principal and operating officials of each such department, agency, or unit responsible for carrying out the equal employment opportunity program and of the allocation of personnel and resources proposed by such department, agency, or unit to carry out its equal employment opportunity program.
 
 > With respect to employment in the Library of Congress, authorities granted in this subsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of Title 29, Labor.
+Amendment by Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior tosuch date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of Title 29, Labor.
 
 #### Effective Date of 1995 Amendment
 
@@ -160,7 +160,7 @@ Sec. 3. <i>Exceptions.</i>
 
 1–301. The following exceptions shall apply to the nondiscrimination requirements set forth in section 1202.
 
-&emsp;(a) The employing department or agency may request or require information defined in section 1–201(e)(1)(C) with respect to an applicant who hasbeen given a conditional offer of employment or to an employee if:
+&emsp;(a) The employing department or agency may request or require information defined in section 1–201(e)(1)(C) with respect to an applicant who has been given a conditional offer of employment or to an employee if:
 
 &emsp;&emsp;(1) the request or requirement is consistent with the Rehabilitation Act \[of 1973, 29 U.S.C. 701 et seq.\] and other applicable law;
 

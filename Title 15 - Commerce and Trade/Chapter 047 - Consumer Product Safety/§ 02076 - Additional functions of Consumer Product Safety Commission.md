@@ -22,7 +22,7 @@ The Commission shall also have the power—
 
 &emsp;(7) to—
 
-&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does notwithin the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
+&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does not within the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
 
 &emsp;&emsp;(B) initiate, prosecute, or appeal, through its own legal representative, with the concurrence of the Attorney General or through the Attorney General, any criminal action,
 
@@ -116,7 +116,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 #### (k) Budget estimates and requests; legislative recommendations; testimony; comments on legislation
 
-(1) Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
+(1) Whenever the Commission submits any budget estimate or request to the President orthe Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
@@ -186,5 +186,5 @@ Pub. L. 110–314, title II, §203(a), Aug. 14, 2008, 122 Stat. 3040, provided t
 
 #### User Fee Study
 
-Pub. L. 101–608, title I, §119, Nov. 16, 1990, 104 Stat. 3122, directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act (15 U.S.C. 2051 et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
+Pub. L. 101–608, title I, §119, Nov. 16, 1990, 104 Stat. 3122, directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act (15 U.S.C. 2051 etseq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
 

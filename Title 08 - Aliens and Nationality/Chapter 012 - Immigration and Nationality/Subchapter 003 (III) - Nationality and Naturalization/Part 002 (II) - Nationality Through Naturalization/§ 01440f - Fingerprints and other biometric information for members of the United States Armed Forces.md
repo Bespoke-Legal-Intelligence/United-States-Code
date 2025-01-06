@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, including section 552a of title 5 (c
 
 &emsp;&emsp;(A) submitted an application for naturalization not later than 24 months after the date on which the individual enlisted in the United States Armed Forces; or
 
-&emsp;&emsp;(B) provided the required biometric information to the Department of Homeland Security through a United States Citizenship and Immigration Services Application Support Center at the time of the individual's application for adjustment of status if filed not later than 24 months after the date onwhich the individual enlisted in the United States Armed Forces; and
+&emsp;&emsp;(B) provided the required biometric information to the Department of Homeland Security through a United States Citizenship and Immigration Services Application Support Center at the time of the individual's application for adjustment of status if filed not later than 24 months after the date on which the individual enlisted in the United States Armed Forces; and
 
 &emsp;(4) the Secretary of Homeland Security determines that the biometric information provided, including fingerprints, is sufficient to conduct the required background and security checks needed for the applicant's naturalization application.
 

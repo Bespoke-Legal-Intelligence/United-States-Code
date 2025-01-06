@@ -28,7 +28,7 @@ The Secretary shall provide guidelines and procedures for the transition, where 
 
 #### (f) Application of section
 
-This section shall not apply to any contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grant, joint venture, or any other form of agreement available to the Secretary that is in effect as of October 24, 1992.
+This section shall not apply to any contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grant, joint venture, orany other form of agreement available to the Secretary that is in effect as of October 24, 1992.
 
 (Pub. L. 102–486, title XXX, §3001, Oct. 24, 1992, 106 Stat. 3126.)
 
@@ -38,7 +38,7 @@ This section shall not apply to any contract, cooperative agreement, cooperative
 
 This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a)(1), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a)(1), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 

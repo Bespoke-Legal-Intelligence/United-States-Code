@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(C) take into account regional impacts of hazards on river basins, river corridors, micro-watersheds, macro-watersheds, estuaries, lakes, bays, and coastal regions and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface; or
 
-&emsp;&emsp;(D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments and Tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
+&emsp;&emsp;(D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments and Tribal governments),power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
 
 #### (e) Environmental review of revolving loan fund projects
 

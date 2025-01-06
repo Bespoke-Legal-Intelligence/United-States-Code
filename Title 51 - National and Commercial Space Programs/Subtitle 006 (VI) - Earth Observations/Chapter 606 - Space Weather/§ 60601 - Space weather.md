@@ -198,7 +198,7 @@ Pub. L. 116–181, §2(a), Oct. 21, 2020, 134 Stat. 882, provided that: "It shal
 
 Ex. Ord. No. 13744, Oct. 13, 2016, 81 F.R. 71573, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and to prepare the Nation for space weather events, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to prepare the Nation for space weather events, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. Space weather events, in the form of solar flares, solar energetic particles, and geomagnetic disturbances, occur regularly, some with measurable effects on critical infrastructure systems and technologies, such as the Global Positioning System (GPS), satellite operations and communication, aviation, and the electrical power grid. Extreme space weather events—those that could significantly degrade critical infrastructure—could disable large portions of the electrical power grid, resulting in cascading failures that would affect key services such as water supply, healthcare, and transportation. Space weather has the potential to simultaneously affect and disrupt health and safety across entire continents. Successfully preparing for space weather events is an all-of-nation endeavor that requires partnerships across governments, emergency managers, academia, the media, the insurance industry, non-profits, and the private sector.
 
@@ -246,7 +246,7 @@ Sec. 4. <i>Roles and Responsibilities</i>. To the extent permitted by law, the a
 
 (j) The heads of all agencies that support National Essential Functions, defined by Presidential Policy Directive 40 (PPD–40) of July 15, 2016 (National Continuity Policy), shall ensure that space weather events are adequately addressed in their all-hazards preparedness planning, including mitigation, response, and recovery, as directed by PPD–8 of March 30, 2011 (National Preparedness).
 
-(k) NSTC member agencies shall coordinate through the NSTC to establish roles and responsibilities beyondthose identified in section 4 of this order to enhance space weather preparedness, consistent with each agency's legal authority.
+(k) NSTC member agencies shall coordinate through the NSTC to establish roles and responsibilities beyond those identified in section 4 of this order to enhance space weather preparedness, consistent with each agency's legal authority.
 
 Sec. 5. <i>Implementation</i>. (a) Within 120 days of the date of this order, the Secretary of Energy, in consultation with the Secretary of Homeland Security, shall develop a plan to test and evaluate available devices that mitigate the effects of geomagnetic disturbances on the electrical power grid through the development of a pilot program that deploys such devices, <i>in situ</i>, in the electrical power grid. After the development of the plan, the Secretary shall implement the plan in collaboration with industry. In taking action pursuant to this subsection, the Secretaries of Energy and Homeland Security shall consult with the Chairman of the Federal Energy Regulatory Commission.
 

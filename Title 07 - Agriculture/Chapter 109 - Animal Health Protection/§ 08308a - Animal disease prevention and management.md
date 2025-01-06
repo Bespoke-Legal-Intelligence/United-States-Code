@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(G) Conducting technology development to enhance electronic sharing of animal health data for risk analysis between State and Federal animal health officials.
 
-&emsp;&emsp;(H) Enhancing the development and effectiveness of animal health technologies to treat and prevent animal disease, including—
+&emsp;&emsp;(H) Enhancing the development and effectiveness of animal health technologies totreat and prevent animal disease, including—
 
 &emsp;&emsp;&emsp;(i) veterinary biologics and diagnostics;
 
@@ -150,7 +150,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a national animal vaccine and veterinary countermeasures bank (to be known as the National Animal Vaccine and Veterinary Countermeasures Bank and referred to in this subsection as the "Vaccine Bank") to benefit the domestic interests of the United States.
+&emsp;The Secretary shall establish a national animal vaccine and veterinary countermeasures bank (to be known as the National Animal Vaccine and Veterinary CountermeasuresBank and referred to in this subsection as the "Vaccine Bank") to benefit the domestic interests of the United States.
 
 #### (2) Elements of Vaccine Bank
 
@@ -232,7 +232,7 @@
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
 

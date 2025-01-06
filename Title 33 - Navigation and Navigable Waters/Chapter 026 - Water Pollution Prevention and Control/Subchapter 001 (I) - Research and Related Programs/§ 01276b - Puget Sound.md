@@ -52,7 +52,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "Puget Sound region" means the land and waters in the northwest corner of the State of Washington from the Canadian border to the north to the Pacific Ocean on the west, including Hood Canal and the Strait of Juan de Fuca.
+&emsp;&emsp;The term "Puget Sound region" means the land and waters in the northwest corner of the State of Washington from the Canadianborder to the north to the Pacific Ocean on the west, including Hood Canal and the Strait of Juan de Fuca.
 
 #### (B) Inclusion
 
@@ -224,7 +224,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) catalyze public leaders at all levels to work together toward shared goals by demonstrating interagency best practices coming from such agencies;
 
-&emsp;&emsp;&emsp;(iv) provide advice and support on scientific and technical issues and act as a forum for the exchange of scientific information about the Puget Sound;
+&emsp;&emsp;&emsp;(iv) provide advice and support on scientific and technical issues and act as aforum for the exchange of scientific information about the Puget Sound;
 
 &emsp;&emsp;&emsp;(v) identify and inventory Federal environmental research and monitoring programs related to the Puget Sound, and provide such inventory to the Puget Sound National Estuary Program Management Conference;
 
@@ -330,7 +330,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;On December 23, 2022, the 2016 memorandum of understanding establishing thePuget Sound Federal Task Force shall cease to be effective.
+&emsp;&emsp;On December 23, 2022, the 2016 memorandum of understanding establishing the Puget Sound Federal Task Force shall cease to be effective.
 
 #### (B) Use of previous work
 

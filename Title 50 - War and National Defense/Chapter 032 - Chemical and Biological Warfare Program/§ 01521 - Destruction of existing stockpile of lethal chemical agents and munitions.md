@@ -34,7 +34,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (3)(A) Facilities constructed to carry out this section may not be used for a purpose other than the destruction of the stockpile of lethal chemical agents and munitions that exists on November 8, 1985.
 
-(B) The prohibition in subparagraph (A) shall not apply with respect to items designated by the Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
+(B) The prohibition in subparagraph (A) shall not apply with respect to items designated bythe Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
 
 #### (e) Grants and cooperative agreements
 
@@ -156,7 +156,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (1)(A) The Secretary of the Army shall establish a citizens' commission for each State in which there is a chemical demilitarization facility under Army management.
 
-(B) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall establish a chemical demilitarization citizens' commission in Colorado and in Kentucky.
+(B) The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs shall establish a chemical demilitarization citizens' commission in Colorado and in Kentucky.
 
 (C) Each commission under this subsection shall be known as the "Chemical Demilitarization Citizens' Advisory Commission" for the State concerned.
 
@@ -164,7 +164,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (B) The Secretary of the Army shall provide for a representative from the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) to meet with each commission under Army management.
 
-(C) The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs to meet with the commissions in Colorado and Kentucky.
+(C) The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs to meet with the commissions in Colorado and Kentucky.
 
 (3)(A) Each commission under this subsection shall be composed of nine members appointed by the Governor of the State. Seven of such members shall be citizens from the local affected areas in the State. The other two shall be representatives of State government who have direct responsibilities related to the chemical demilitarization program.
 
@@ -178,9 +178,9 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (5) The members of each commission under this subsection shall designate the chair of such commission from among the members of such commission.
 
-(6) Each commission under this subsection shall meet with a representative from the Army, or the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs with respect to the commissions in Colorado and Kentucky, upon joint agreement between the chair of such commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
+(6) Each commission under this subsection shall meet with a representative from the Army, or the Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs with respect to the commissions in Colorado and Kentucky, upon joint agreement between the chair of such commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
 
-(7) Members of each commission under this subsection shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for commissioners of commissions under this subsection when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) or the invitation of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs for the commissions in Colorado and Kentucky.
+(7) Members of each commission under this subsection shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for commissioners of commissions under this subsection when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) or the invitation of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs for the commissions in Colorado and Kentucky.
 
 (8) Each commission under this subsection shall be terminated after the closure activities required pursuant to regulations prescribed by the Administrator of the Environmental Protection Agency pursuant to the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) have been completed for the chemical agent destruction facility in such commission's State, or upon the request of the Governor of such commission's State, whichever occurs first.
 
@@ -200,7 +200,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (C) An incentives clause in a contract under this section shall specify the target incentive ranges of costs for completion of destruction operations and facility closure activities, respectively, as jointly agreed upon by the contracting officer and the contractor concerned. An incentives clause shall require a proportionate reduction in the maximum incentive payment amounts in the event that the contractor exceeds an agreed-upon target cost if such excess costs are the responsibility of the contractor.
 
-(D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this subsection shall be based upon a determination by the Secretary on how early in the target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
+(D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clauseunder this subsection shall be based upon a determination by the Secretary on how early in the target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
 
 (E) The provisions of any incentives clause under this subsection shall be consistent with the obligation of the Secretary of Defense under subsection (d)(1)(A), to provide for maximum protection for the environment, the general public, and the personnel who are involved in the destruction of the lethal chemical agents and munitions.
 
@@ -234,7 +234,7 @@ In this section:
 
 &emsp;&emsp;(B) the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412; Pub. L. 112–239, div. A, title XIV, §1421(a), Jan. 2, 2013, 126 Stat. 2049; Pub. L. 114–92, div. A, title XIV, §1411, Nov. 25, 2015, 129 Stat. 1083; Pub. L. 115–232, div. A, title XIV, §1424, Aug. 13, 2018, 132 Stat. 2094; Pub. L. 116–92, div. A, title IX, §902(91), Dec. 20, 2019, 133 Stat. 1554.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412; Pub. L. 112–239, div. A, title XIV, §1421(a), Jan. 2, 2013, 126 Stat. 2049; Pub. L. 114–92, div. A, title XIV, §1411, Nov. 25, 2015, 129 Stat. 1083; Pub. L. 115–232, div. A, title XIV, §1424, Aug. 13, 2018, 132 Stat. 2094; Pub. L. 116–92, div. A, title IX, §902(91), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 118–159, div. A, title XVI, §1621(d)(4), Dec. 23, 2024, 138 Stat. 2171.)
 
 #### <b>Editorial Notes</b>
 
@@ -248,11 +248,13 @@ The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360,
 
 Pub. L. 116–92, §902(91), which directed amendment of subsecs. (f)(1) and (g)(2) of section 1412 of the National Defense Authorization Act, 1986 (50 U.S.C. 1521), was executed by making the amendment to subsecs. (f)(1) and (g)(2) of this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress.
 
-Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreemententered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
+Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (m). Pub. L. 118–159 substituted "Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs" for "Nuclear, Chemical, and Biological Defense Programs" wherever appearing.
 
 <b>2019</b>—Subsec. (f)(1). Pub. L. 116–92, §902(91)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics". See Codification note above.
 
@@ -324,7 +326,7 @@ Subsec. (g)(2)(B). Pub. L. 104–201, §1074(d)(2)(C), substituted "An accountin
 
 Subsec. (g)(2)(B)(iv). Pub. L. 104–106, §153(b)(2)(B)(i), struck out "and" after "development;".
 
-Subsec. (g)(2)(B)(v). Pub. L. 104–106, §153(b)(2)(B)(ii), which directed substitution of "; and" for period at end of cl. (v), could not be executed because cl. (v) ended with "; and" and not with a period.
+Subsec. (g)(2)(B)(v). Pub. L. 104–106, §153(b)(2)(B)(ii), which directed substitution of "; and" for period at endof cl. (v), could not be executed because cl. (v) ended with "; and" and not with a period.
 
 Subsec. (g)(2)(B)(vi). Pub. L. 104–106, §153(b)(2)(B)(iii), added cl. (vi).
 
@@ -424,7 +426,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(2) In 2006, under the terms of the Chemical Weapons Convention, the United States requested and received a one-time, 5-year extension of its chemical weapons destruction deadline to April 29, 2012.
 
-&emsp;"(3) On April 10, 2006, the Secretary of Defense notified Congress that the United States would not meet even the extended deadline under the Chemical Weapons Convention for destruction of the United States chemical weapons stockpile, but would 'continue working diligently to minimize the time to complete destruction without sacrificing safety and security' and would also 'continue requesting resources needed to complete destruction as close to April 2012 as practicable'.
+&emsp;"(3) On April 10, 2006, the Secretary of Defense notified Congress that the United States would not meeteven the extended deadline under the Chemical Weapons Convention for destruction of the United States chemical weapons stockpile, but would 'continue working diligently to minimize the time to complete destruction without sacrificing safety and security' and would also 'continue requesting resources needed to complete destruction as close to April 2012 as practicable'.
 
 &emsp;"(4) The United States chemical demilitarization program has met its one percent, 20 percent, and extended 45 percent destruction deadlines under the Chemical Weapons Convention.
 

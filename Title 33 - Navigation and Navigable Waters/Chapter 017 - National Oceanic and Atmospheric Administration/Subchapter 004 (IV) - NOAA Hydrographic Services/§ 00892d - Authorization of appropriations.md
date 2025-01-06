@@ -44,7 +44,7 @@ Of amounts authorized by this section for each fiscal year for contract hydrogra
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(4), (5), was in the original "this title", meaning title III of Pub. L.105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
+This subchapter, referred to in subsec. (a)(4), (5), was in the original "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
 #### Amendments
 

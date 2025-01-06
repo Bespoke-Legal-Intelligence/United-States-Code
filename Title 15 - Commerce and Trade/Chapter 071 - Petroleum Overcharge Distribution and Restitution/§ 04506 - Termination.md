@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsection (b), the provisions of this chapter (other than section 4504 of this title) shall terminate 90 days after the Secretary—
 
-&emsp;(A) determines that all of the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter; and
+&emsp;(A) determines that all of the restitutionary amounts to which section 4501(a) of this titleapplies have been collected and disbursed as provided in this chapter; and
 
 &emsp;(B) submits to Congress the final report required by section 4505 of this title.
 

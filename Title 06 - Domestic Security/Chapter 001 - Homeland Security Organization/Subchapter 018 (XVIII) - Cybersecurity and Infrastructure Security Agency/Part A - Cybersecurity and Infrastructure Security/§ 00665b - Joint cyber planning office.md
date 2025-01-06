@@ -8,7 +8,7 @@ There is established in the Agency an office for joint cyber planning (in this s
 
 In leading the development of plans for cyber defense operations pursuant to subsection (a), the head of the Office shall—
 
-&emsp;(1) coordinate with relevant Federal departments and agencies to establish processes andprocedures necessary to develop and maintain ongoing coordinated plans for cyber defense operations;
+&emsp;(1) coordinate with relevant Federal departments and agencies to establish processes and procedures necessary to develop and maintain ongoing coordinated plans for cyber defense operations;
 
 &emsp;(2) leverage cyber capabilities and authorities of participating Federal departments and agencies, as appropriate, in furtherance of plans for cyber defense operations;
 
@@ -76,7 +76,7 @@ A prior section 2216 of Pub. L. 107–296 was renumbered section 2219 and is cla
 
 <b>2022</b>—Subsec. (d)(2). Pub. L. 117–263, §7143(b)(2)(I)(i), substituted "Information Sharing and Analysis Organizations" for "information sharing and analysis organizations".
 
-Subsec. (f). Pub. L. 117–263, §7143(b)(2)(I)(ii), substituted "section, the term 'cyber defense operation' means the defensive activities performed for a cybersecurity purpose." for "section:" and struck out pars. (1) to (4) which defined cyber defense operation, cybersecurity purpose, cybersecurity risk, incident, and information sharing and analysis organization.
+Subsec. (f). Pub. L. 117–263, §7143(b)(2)(I)(ii), substituted "section, the term 'cyber defense operation' means the defensive activities performed for acybersecurity purpose." for "section:" and struck out pars. (1) to (4) which defined cyber defense operation, cybersecurity purpose, cybersecurity risk, incident, and information sharing and analysis organization.
 
 <b>2021</b>—Pub. L. 117–81 reenacted section catchline.
 

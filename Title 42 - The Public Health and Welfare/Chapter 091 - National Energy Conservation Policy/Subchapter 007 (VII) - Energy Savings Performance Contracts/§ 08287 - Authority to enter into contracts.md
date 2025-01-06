@@ -118,7 +118,7 @@ Excluded contracts.—A contract entered into under this subchapter may not be f
 
 (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422; Pub. L. 117–81, div. A, title XVII, §1702(j)(5), Dec. 27, 2021, 135 Stat. 2159.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct.24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422; Pub. L. 117–81, div. A, title XVII, §1702(j)(5), Dec. 27, 2021, 135 Stat. 2159.)
 
 #### <b>Editorial Notes</b>
 
@@ -196,7 +196,7 @@ Pub. L. 108–375, div. A, title X, §1090(f), Oct. 28, 2004, 118 Stat. 2068, pr
 
 Pub. L. 109–58, title I, §105(b), Aug. 8, 2005, 119 Stat. 611, provided that: "Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287) after October 1, 2003, and before the date of enactment of this Act \[Aug. 8, 2005\], shall be considered to have been entered into under that section."
 
-Pub. L. 108–375, div. A, title X, §1090(g), Oct. 28, 2004, 118 Stat. 2068, provided that: "Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287) after October 1, 2003, and before the date of enactment of this Act \[Oct. 28, 2004\], shall be deemed to have been entered into pursuant to such section 801 as amended by subsection (a) of this section."
+Pub. L. 108–375, div. A, title X, §1090(g), Oct. 28, 2004, 118 Stat. 2068, provided that: "Any energy savings performance contract entered into under section 801 of theNational Energy Conservation Policy Act (42 U.S.C. 8287) after October 1, 2003, and before the date of enactment of this Act \[Oct. 28, 2004\], shall be deemed to have been entered into pursuant to such section 801 as amended by subsection (a) of this section."
 
 #### Energy Efficiency Incentive
 

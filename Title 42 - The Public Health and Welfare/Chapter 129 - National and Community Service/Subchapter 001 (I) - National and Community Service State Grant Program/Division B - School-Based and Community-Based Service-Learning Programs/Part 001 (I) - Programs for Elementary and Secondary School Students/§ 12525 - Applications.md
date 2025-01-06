@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) assurances about the applicant's efforts to—
 
-&emsp;&emsp;&emsp;(i) ensure that students of different ages, races, sexes, ethnic groups, disabilities, and economic backgrounds have opportunities to serve together;
+&emsp;&emsp;&emsp;(i) ensure that students of different ages, races, sexes, ethnic groups, disabilities,and economic backgrounds have opportunities to serve together;
 
 &emsp;&emsp;&emsp;(ii) include any opportunities for students, enrolled in schools or programs of education providing elementary or secondary education, to participate in service-learning programs and ensure that such service-learning programs include opportunities for such students to serve together;
 

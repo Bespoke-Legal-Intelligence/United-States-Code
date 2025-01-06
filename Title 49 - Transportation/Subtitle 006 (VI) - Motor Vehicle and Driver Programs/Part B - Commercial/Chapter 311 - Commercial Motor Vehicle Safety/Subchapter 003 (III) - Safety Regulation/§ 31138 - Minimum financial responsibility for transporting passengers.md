@@ -52,7 +52,7 @@ Other persons.—The Secretary may require a person, other than a motor carrier 
 
 (d)
 
-Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
+Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary ofTransportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
 (2) The Secretary of Transportation shall impose the penalty by written notice. In determining the amount of the penalty, the Secretary shall consider—
 
@@ -126,7 +126,7 @@ In subsection (b), before clause (1), the text of section 18(b)(1) (words beginn
 
 In subsection (c)(1), the words "The Secretary shall establish, by regulation, methods and procedures to assure compliance with this section" are omitted as surplus.
 
-In subsection (d)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penaltymay be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
+In subsection (d)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
 
 In subsection (d)(5), the words "when finally determined (or agreed upon in compromise)" are omitted as surplus.
 

@@ -2,7 +2,7 @@
 
 (a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom the first 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work and shall be paid for, except as otherwise provided by this subchapter, at the following rates:
 
-&emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
+&emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rateof basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
 &emsp;(2) For an employee whose basic pay is at a rate which exceeds the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to the greater of one and one-half times the hourly rate of the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) or the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) in which operating requirements cannot be met without substantial overtime work;
 
-> &emsp;the overtime hourly rate of pay is an amount equal to one and one-half times the hourlyrate of basic pay of the employee, and all that amount is premium pay.
+> &emsp;the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
 &emsp;(4) Notwithstanding paragraph (2) of this subsection, for an employee who is a law enforcement officer, and whose basic pay is at a rate which exceeds the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to the greater of—
 
@@ -238,7 +238,7 @@ Subsec. (f). Pub. L. 105–277, §101(h) \[title VI, §628(a)(1)\], added subsec
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–329 added subsec. (d).
 
-<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted "officer," for "officer (within the meaning ofsection 8331(20) or 8401(17))," and realigned margin of closing provision.
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted "officer," for "officer (within the meaning of section 8331(20) or 8401(17))," and realigned margin of closing provision.
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: "In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work."
 
@@ -314,7 +314,7 @@ Pub. L. 113–277, §2(f), Dec. 18, 2014, 128 Stat. 3004, provided that: "Nothin
 
 &emsp;"(2) require compensation of a border patrol agent other than for hours during which the border patrol agent is actually performing work or using approved paid leave or other paid time off; or
 
-&emsp;"(3) exempt a border patrol agent from any limitations on pay, earnings, or compensation, includingthe limitations under section 5547 of title 5, United States Code."
+&emsp;"(3) exempt a border patrol agent from any limitations on pay, earnings, or compensation, including the limitations under section 5547 of title 5, United States Code."
 
 #### Border Patrol Rate of Pay
 

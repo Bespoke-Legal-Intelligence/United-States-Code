@@ -10,7 +10,7 @@ Any reference in any other law of the United States or in any Executive order to
 
 #### (c) Items not to be twice included in income or deducted therefrom
 
-Except as otherwise distinctly expressed or manifestly intended, the same item (whether of income, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
+Except as otherwise distinctly expressed or manifestly intended, the same item (whether ofincome, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
 
 #### (d) Treaty obligations
 
@@ -36,7 +36,7 @@ The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1
 
 Chapters 1 and 2 of the Internal Revenue Code of 1939, referred to in subsec. (c), are chapters 1 and 2 of former Title 26, Internal Revenue Code. For history of such chapters, see References in Text note set out under section 7851 of this title.
 
-The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and enacted notes set out under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and enacted notes set out under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 #### Amendments
 
@@ -48,7 +48,7 @@ The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 3
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: "Section 7852(d)(1) of the1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title I, §1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: "Section 7852(d)(1) of the 1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

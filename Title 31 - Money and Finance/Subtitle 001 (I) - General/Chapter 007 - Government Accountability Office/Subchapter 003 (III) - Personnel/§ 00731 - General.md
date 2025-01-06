@@ -32,7 +32,7 @@
 
 &emsp;(3) shall require that an employee of a private sector organization assigned to the Office may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which such employee is assigned;
 
-&emsp;(4) shall require that, before approving the assignment of an officer or employee to a private sector organization, the Comptroller General shall determine that the assignment is an effective use of the Office's funds, taking into account the best interests of the Office and the costs and benefits of alternative methods of achieving the same results and objectives; and
+&emsp;(4) shall require that, before approving the assignment of an officer or employee to a private sector organization, the Comptroller General shall determine that the assignment is an effective use of the Office's funds, taking into account the best interests of the Office and the costs and benefits of alternative methodsof achieving the same results and objectives; and
 
 &emsp;(5) shall not allow any assignment under this subsection to commence after the end of the 5-year period beginning on the date of the enactment of this subsection.
 

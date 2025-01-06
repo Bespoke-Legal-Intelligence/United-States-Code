@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—A member of the armed forces may not enter a Federal, State, local, or foreign correctional facility to present a decoration to a person who is incarcerated due to conviction of a serious violent felony.
+Prohibition.—A member of the armed forces may not enter a Federal, State, local, orforeign correctional facility to present a decoration to a person who is incarcerated due to conviction of a serious violent felony.
 
 (b)
 

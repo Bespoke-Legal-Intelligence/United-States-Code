@@ -24,7 +24,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A reduction in the annual deductible, a reduction in the coinsurance percentage or, for a year preceding 2025, an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
+&emsp;&emsp;&emsp;&emsp;A reduction in the annual deductible, a reduction in the coinsurance percentageor, for a year preceding 2025, an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
 
 #### (II) Construction
 
@@ -76,7 +76,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (A) 25 percent coinsurance
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), and (E) and paragraphs (8) and (9), the coverage hascoinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3) for a year preceding 2025 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)(B) for 2025 and each subsequent year) that is—
+&emsp;&emsp;Subject to subparagraphs (C), (D), and (E) and paragraphs (8) and (9), the coverage has coinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3) for a year preceding 2025 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)(B) for 2025 and each subsequent year) that is—
 
 &emsp;&emsp;&emsp;(i) equal to 25 percent; or
 
@@ -110,7 +110,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in paragraphs (4), (8), and (9), for a year preceding 2025, the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in section 1395w–114a(g)(6) of this title) of covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title that is—
+&emsp;&emsp;&emsp;Except as provided in paragraphs (4), (8), and (9), for a year preceding 2025, the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in section 1395w–114a(g)(6) of this title) of covered part D drugs that are applicable drugsunder section 1395w–114a(g)(2) of this title that is—
 
 &emsp;&emsp;&emsp;&emsp;(I) equal to the difference between—
 
@@ -194,7 +194,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) shall provide that a pharmacy, after receiving a notification described in item (dd) with respect to an enrollee, informs the enrollee of such notification;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) shall ensure that such an election by an enrollee has no effect on the amount paid to pharmacies (or the timing of such payments) with respect to covered part D drugs dispensed to the enrollee; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) shall ensure that such an election by an enrollee has no effect on the amount paid to pharmacies (or the timing of such payments) with respectto covered part D drugs dispensed to the enrollee; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) shall have in place a financial reconciliation process to correct inaccuracies in payments made by an enrollee under this subparagraph with respect to covered part D drugs during the plan year.
 
@@ -234,7 +234,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to paragraphs (8) and (9), the coverage provides benefits, after the part D eligible individual has incurred costs (as described in subparagraph (C)) for coveredpart D drugs in a year equal to the annual out-of-pocket threshold specified in subparagraph (B), with cost-sharing that is equal to—
+&emsp;&emsp;&emsp;Subject to paragraphs (8) and (9), the coverage provides benefits, after the part D eligible individual has incurred costs (as described in subparagraph (C)) for covered part D drugs in a year equal to the annual out-of-pocket threshold specified in subparagraph (B), with cost-sharing that is equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) for a year preceding 2024, the greater of—
 
@@ -322,7 +322,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (F) Inclusion of costs paid under maximum monthly cap option
 
-&emsp;&emsp;In applying subparagraph (A), with respect to an enrollee who has made an election pursuant to clause (i) of paragraph (2)(E), costs shall be treated as incurred if such costs are paid by a PDP sponsor or an MA organization under the option provided under such paragraph.
+&emsp;&emsp;In applying subparagraph (A), with respect to an enrollee who has made an election pursuant to clause (i) of paragraph (2)(E), costs shall be treated as incurred if such costs arepaid by a PDP sponsor or an MA organization under the option provided under such paragraph.
 
 #### (5) Construction
 
@@ -452,7 +452,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (2) Disclosure
 
-&emsp;A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (in a manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed to the Secretary under this paragraph.
+&emsp;A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (in a manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this titleapply to information disclosed to the Secretary under this paragraph.
 
 #### (3) Audits
 
@@ -468,7 +468,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary); or
 
-&emsp;&emsp;(C) for the period beginning on December 29, 2022, and ending on December 31, 2024, an oral antiviral drug that may be dispensed only upon a prescription and is authorized under section 360bbb–3 of title 21, on the basis of the declaration published in the Federal Register by the Secretary of Health and Human Services on April 1, 2020 (85 Fed. Reg. 18250 et seq.),
+&emsp;&emsp;(C) for the period beginning on December 29, 2022, and ending on March 31, 2025, an oral antiviral drug that may be dispensed only upon a prescription and is authorized under section 360bbb–3 of title 21, on the basis of the declaration published in the Federal Register by the Secretary of Health and Human Services on April 1, 2020 (85 Fed. Reg. 18250 et seq.),
 
 > &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a covered part D drug for a medically accepted indication (as defined in paragraph (4)).
 
@@ -514,7 +514,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub. L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039; Pub. L. 115–123, div. E, title XII, §53116(a), Feb. 9, 2018, 132 Stat. 306; Pub. L. 117–169, title I, §§11001(b)(1)(D), 11201(a), (e)(1), 11202(a), (b), 11401(a), (c)(2), 11406(a), Aug. 16, 2022, 136 Stat. 1852, 1877, 1891, 1893, 1895, 1896, 1898, 1902; Pub. L. 117–328, div. FF, title IV, §4131, Dec. 29, 2022, 136 Stat. 5918.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, titleI, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub. L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039; Pub. L. 115–123, div. E, title XII, §53116(a), Feb. 9, 2018, 132 Stat. 306; Pub. L. 117–169, title I, §§11001(b)(1)(D), 11201(a), (e)(1), 11202(a), (b), 11401(a), (c)(2), 11406(a), Aug. 16, 2022, 136 Stat. 1852, 1877, 1891, 1893, 1895, 1896, 1898, 1902; Pub. L. 117–328, div. FF, title IV, §4131, Dec. 29, 2022, 136 Stat. 5918; Pub. L. 118–158, div. C, title II, §3209, Dec. 21, 2024, 138 Stat. 1766.)
 
 #### <b>Editorial Notes</b>
 
@@ -527,6 +527,8 @@ The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(I)(dd), is 
 Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in (b)(9)(C), is section 7002(e)(4) of Pub. L. 111–148, which is set out in a note under section 262 of this title.
 
 #### Amendments
+
+<b>2024</b>—Subsec. (e)(1)(C). Pub. L. 118–158 substituted "March 31, 2025" for "December 31, 2024".
 
 <b>2022</b>—Subsec. (a)(2)(A)(i)(I). Pub. L. 117–169, §11201(e)(1)(A), substituted "or, for a year preceding 2025, an increase in the initial" for ", or an increase in the initial".
 
@@ -602,7 +604,7 @@ Subsec. (b)(8). Pub. L. 117–169, §11401(a)(1)(E), added par. (8).
 
 Subsec. (b)(9). Pub. L. 117–169, §11406(a)(1)(E), added par. (9).
 
-Subsec. (c)(1)(C). Pub. L. 117–169, §11201(e)(1)(B), struck out "at initial coverage limit" after "payment for costs" in heading and inserted "for a year preceding 2025 or the annual out-of-pocket threshold specified in subsection (b)(4)(B) for the year for 2025 and each subsequent year" after "subsection (b)(3) for the year" in introductory provisions and in cl. (i).
+Subsec. (c)(1)(C). Pub. L. 117–169, §11201(e)(1)(B), struck out "at initial coverage limit" after "payment for costs" in heading and inserted "for a year preceding 2025 or the annual out-of-pocket threshold specified insubsection (b)(4)(B) for the year for 2025 and each subsequent year" after "subsection (b)(3) for the year" in introductory provisions and in cl. (i).
 
 Subsec. (c)(4). Pub. L. 117–169, §11202(b), added par. (4).
 
@@ -658,7 +660,7 @@ Application.—In applying subparagraph (A)—
 
 &emsp;"(ii) costs that would be treated as incurred costs for purposes of applying paragraph (4) but for the application of subparagraph (A) shall continue to be treated as incurred costs;
 
-&emsp;"(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fullyreimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
+&emsp;"(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fully reimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
 
 &emsp;"(iv) the Secretary shall develop an estimate of the additional increased costs attributable to the application of this paragraph for increased drug utilization and financing and administrative costs and shall use such estimate to adjust payments to PDP sponsors with respect to prescription drug plans under this part and MA organizations with respect to MA–PD plans under part C; and
 
@@ -694,7 +696,7 @@ Pub. L. 111–148, title III, §3314(b), Mar. 23, 2010, 124 Stat. 479, provided 
 
 Pub. L. 110–275, title I, §175(b), July 15, 2008, 122 Stat. 2581, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to prescriptions dispensed on or after January 1, 2013."
 
-Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided that: "The amendments made by this subsection \[amending this section\] shall apply to plan years beginning on or after January 1, 2009."
+Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to plan years beginning on or after January 1, 2009."
 
 #### Effective Date of 2005 Amendment
 
@@ -724,7 +726,7 @@ Pub. L. 117–169, title I, §11406(d), Aug. 16, 2022, 136 Stat. 1904, provided 
 
 #### Payment for Administration of Part D Vaccines in 2007
 
-Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that isadministered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
+Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) be changed in status from an endangered species to a threatened species,
 
-> &emsp;he shall recommend such action to the Secretary of the Interior, and the Secretary of the Interior, if he concurs in the recommendation, shall implement such action; and
+> &emsp;he shall recommend such action to the Secretary of the Interior, and the Secretary of theInterior, if he concurs in the recommendation, shall implement such action; and
 
 &emsp;(C) the Secretary of the Interior may not list or remove from any list any such species, and may not change the status of any such species which are listed, without a prior favorable determination made pursuant to this section by the Secretary of Commerce.
 
@@ -58,7 +58,7 @@
 
 (2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
-(3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from,either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
+(3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
 (B) Within 12 months after receiving a petition that is found under subparagraph (A) to present substantial information indicating that the petitioned action may be warranted, the Secretary shall make one of the following findings:
 
@@ -78,7 +78,7 @@
 
 (ii) Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
-(iii) The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt use of the authority under paragraph 7 <sup>1</sup> to prevent a significant risk to the well being of any such species.
+(iii) The Secretary shall implement a system to monitor effectively the status of all specieswith respect to which a finding is made under subparagraph (B)(iii) and shall make prompt use of the authority under paragraph 7 <sup>1</sup> to prevent a significant risk to the well being of any such species.
 
 (D)(i) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to revise a critical habitat designation, the Secretary shall make a finding as to whether the petition presents substantial scientific information indicating that the revision may be warranted. The Secretary shall promptly publish such finding in the Federal Register.
 
@@ -130,7 +130,7 @@
 
 &emsp;(i) it is essential to the conservation of such species that the regulation implementing such determination be promptly published; or
 
-&emsp;(ii) critical habitat of such species is not then determinable, in which case the Secretary, with respect to the proposed regulation to designate such habitat, may extend the one-year period specified in subparagraph (A) by not more than one additional year, but not later than the close of such additional year the Secretary must publish a final regulation, based on such data as may be available at that time, designating, to the maximum extent prudent, such habitat.
+&emsp;(ii) critical habitat of such species is not then determinable, in which case the Secretary, with respect to the proposed regulation to designate such habitat, may extend the one-year period specified in subparagraph (A) by not more than one additional year, but not later than the close of such additional year the Secretary must publish a final regulation, based on such data as may be available at thattime, designating, to the maximum extent prudent, such habitat.
 
 (7) Neither paragraph (4), (5), or (6) of this subsection nor section 553 of title 5 shall apply to any regulation issued by the Secretary in regard to any emergency posing a significant risk to the well-being of any species of fish or wildlife or plants, but only if—
 
@@ -184,7 +184,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 &emsp;&emsp;(i) a description of such site-specific management actions as may be necessary to achieve the plan's goal for the conservation and survival of the species;
 
-&emsp;&emsp;(ii) objective, measurable criteria which, when met, would result in a determination, in accordance with the provisions of this section, that the species be removed from the list; and
+&emsp;&emsp;(ii) objective, measurable criteria which, when met, would result in a determination, in accordance with the provisions of thissection, that the species be removed from the list; and
 
 &emsp;&emsp;(iii) estimates of the time required and the cost to carry out those measures needed to achieve the plan's goal and to achieve intermediate steps toward that goal.
 
@@ -242,7 +242,7 @@ Subsec. (b)(2). Pub. L. 108–136, §318(b), inserted "the impact on national se
 
 Subsec. (e). Pub. L. 100–478, §1002(b), substituted "regulation of commerce or taking," for "regulation," in introductory provisions.
 
-Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The Secretary shall develop and implement plans (hereinafter in this subsection referred to as 'recovery plans') for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act."
+Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The Secretary shall develop and implement plans (hereinafter in this subsection referred to as 'recovery plans') for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1)shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act."
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -305,6 +305,8 @@ Subsec. (f)(4), (5). Pub. L. 95–632, §11(4)(D), added pars. (4) and (5).
 Subsec. (g). Pub. L. 95–632, §11(5), added subsec. (g).
 
 <b>1976</b>—Subsec. (f)(2)(B)(ii). Pub. L. 94–359 substituted "subsection (b)(1)(A)" for "subsection (b)(A), (B), and (C)".
+
+
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

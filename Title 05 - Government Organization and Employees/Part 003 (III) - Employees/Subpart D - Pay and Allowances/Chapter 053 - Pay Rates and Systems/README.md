@@ -153,7 +153,7 @@ Pub. L. 101–263, §1(b), Apr. 4, 1990, 104 Stat. 125, inserted "the" before "N
 
 <b>1979</b>—Pub. L. 96–54, §2(a)(26)(B), Aug. 14, 1979, 93 Stat. 382, substituted "prevailing rate" for "wage-board" in item 5333.
 
-<b>1978</b>—Pub. L. 95–454, title IV, §407(b), title VIII, §801(a)(3)(B)(i), (ii), Oct. 13, 1978, 92 Stat. 1172, 1221, struck out items 5337 "Pay saving" and 5345 "Retained rate of pay on reduction in grade or reassignment",added item for subchapter VI and items 5361 to 5366, redesignated former item for subchapter VI and items 5361 to 5365 as subchapter VII and items 5371 to 5375, respectively, and added item for subchapter VIII and items 5381 to 5385.
+<b>1978</b>—Pub. L. 95–454, title IV, §407(b), title VIII, §801(a)(3)(B)(i), (ii), Oct. 13, 1978, 92 Stat. 1172, 1221, struck out items 5337 "Pay saving" and 5345 "Retained rate of pay on reduction in grade or reassignment", added item for subchapter VI and items 5361 to 5366, redesignated former item for subchapter VI and items 5361 to 5365 as subchapter VII and items 5371 to 5375, respectively, and added item for subchapter VIII and items 5381 to 5385.
 
 Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted "Administrative law judges" for "Hearing examiners" in item 5362.
 

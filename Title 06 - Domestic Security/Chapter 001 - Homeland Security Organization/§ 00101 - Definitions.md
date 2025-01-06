@@ -98,7 +98,19 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
 
-#### Short Title 2022 Amendment
+#### Short Title of 2024 Amendment
+
+Pub. L. 118–186, §1, Dec. 23, 2024, 138 Stat. 2636, provided that: "This Act \[amending section 182 of this title and enacting provisions set out as notes under section 182 of this title\] may be cited as the 'Detection Equipment and Technology Evaluation to Counter the Threat of Fentanyl and Xylazine Act of 2024' or the 'DETECT Fentanyl and Xylazine Act of 2024'."
+
+Pub. L. 118–165, §1, Dec. 23, 2024, 138 Stat. 2581, provided that: "This Act \[amending section 609 of this title\] may be cited as the 'First Responder Access to Innovative Technologies Act'."
+
+Pub. L. 118–103, §1, Oct. 1, 2024, 138 Stat. 1584, provided that: "This Act \[amending section 348 of this title and enacting provisions set out as a note under section 348 of this title\] may be cited as the 'DHS Joint Task Forces Reauthorization Act of 2024'."
+
+Pub. L. 118–96, §1, Oct. 1, 2024, 138 Stat. 1569, provided that: "This Act \[enacting section 258 of this title, amending sections 252 and 253 of this title, and enacting provisions set out as notes under sections 252 and 258 of this title\] may be cited as the 'IMPACTT Human Trafficking Act'."
+
+Pub. L. 118–43, §1, Mar. 18, 2024, 138 Stat. 453, provided that: "This Act \[enacting section 226 of this title\] may be cited as the 'Eradicating Narcotic Drugs and Formulating Effective New Tools to Address National Yearly Losses of life Act' or the 'END FENTANYL Act'."
+
+#### Short Title of 2022 Amendment
 
 Pub. L. 117–322, §1, Dec. 27, 2022, 136 Stat. 4433, provided that: "This Act \[enacting sections 242a and 242b of this title and provisions set out as notes under sections 242 and 242a of this title\] may be cited as the 'Countering Human Trafficking Act of 2021'."
 
@@ -136,7 +148,7 @@ Pub. L. 116–108, §1, Jan. 24, 2020, 133 Stat. 3294, provided that: "This Act 
 
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–94, div. L, §101, Dec. 20, 2019, 133 Stat. 3089, provided that: "This division \[amending section 659 ofthis title\] may be cited as the 'DHS Cyber Hunt and Incident Response Teams Act of 2019'."
+Pub. L. 116–94, div. L, §101, Dec. 20, 2019, 133 Stat. 3089, provided that: "This division \[amending section 659 of this title\] may be cited as the 'DHS Cyber Hunt and Incident Response Teams Act of 2019'."
 
 Pub. L. 116–2, §1, Jan. 18, 2019, 133 Stat. 5, provided that: "This Act \[amending provisions set out as a note under section 621 of this title\] may be cited as the 'Chemical Facility Anti-Terrorism Standards Program Extension Act'."
 
@@ -274,7 +286,7 @@ Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L
 
 &emsp;"(3) build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
 
-&emsp;&emsp;"(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the PermanentSelect Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the 'Joint Inquiry'); and
+&emsp;&emsp;"(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the 'Joint Inquiry'); and
 
 &emsp;&emsp;"(B) other executive branch, congressional, or independent commission investigations into the terrorist attacks of September 11, 2001, other terrorist attacks, and terrorism generally;
 

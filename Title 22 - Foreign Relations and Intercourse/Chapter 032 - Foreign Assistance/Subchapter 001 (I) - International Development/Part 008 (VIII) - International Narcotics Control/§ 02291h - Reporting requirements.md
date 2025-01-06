@@ -14,7 +14,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuit of its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
 
-&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant UnitedStates Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 &emsp;(3) The identity of those countries which are—
 
@@ -64,7 +64,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(ii) required banks and other financial institutions to know and record the identity of customers engaging in significant transactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
 
-&emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
+&emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactions through financial institutions in order to be able to respondquickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
 
 &emsp;&emsp;&emsp;(iv) required or allowed financial institutions to report suspicious transactions;
 
@@ -104,13 +104,13 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(11) A separate section that contains the following:
 
-&emsp;&emsp;(A) An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl and fentanyl analogues significantly affecting the United States during the preceding calendar year.
+&emsp;&emsp;(A) An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl, xylazine, and fentanyl analogues significantly affecting the United States during the preceding calendar year.
 
 &emsp;&emsp;(B) A description of the extent to which each country identified pursuant to subparagraph (A) has cooperated with the United States to prevent the articles or chemicals described in subparagraph (A) from being exported from such country to the United States.
 
 &emsp;&emsp;(C) A description of whether each country identified pursuant to subparagraph (A) has adopted and utilizes scheduling or other procedures for illicit drugs that are similar in effect to the procedures authorized under title II <sup>1</sup> of the Controlled Substances Act (21 U.S.C. 811 et seq.) for adding drugs and other substances to the controlled substances schedules;
 
-&emsp;&emsp;(D) A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act (21 U.S.C. 802(32)) <sup>2</sup>; and
+&emsp;&emsp;(D) A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act (21 U.S.C. 802(32))); and
 
 &emsp;&emsp;(E) A description of whether each country identified pursuant to subparagraph (A) requires the registration of tableting machines and encapsulating machines or other measures similar in effect to the registration requirements set forth in part 1310 of title 21, Code of Federal Regulations, and has not made good faith efforts, in the opinion of the Secretary, to improve regulation of tableting machines and encapsulating machines.
 
@@ -122,7 +122,7 @@ Covered synthetic drugs and new psychoactive substances.—
 
 Covered synthetic drugs.—Information that contains an assessment of the countries significantly involved in the manufacture, production, transshipment, or trafficking of covered synthetic drugs, to include the following:
 
-&emsp;&emsp;&emsp;(i) The scale of legal domestic production and any available information on the number of manufacturers and producers of such drugs in such countries.
+&emsp;&emsp;&emsp;(i) The scale of legal domestic production and any available information on thenumber of manufacturers and producers of such drugs in such countries.
 
 &emsp;&emsp;&emsp;(ii) Information on any law enforcement assessments of the scale of illegal production of such drugs, including a description of the capacity of illegal laboratories to produce such drugs.
 
@@ -166,7 +166,7 @@ Definitions.—In this paragraph, the terms "covered synthetic drug" and "new ps
 
 &emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
-(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268; Pub. L. 116–92, div. F, title LXXII, §7217(b), Dec. 20, 2019, 133 Stat. 2269; Pub. L. 117–81, div. E, title LI, §5102(b), div. F, title LXVI, §6610(c), Dec. 27, 2021, 135 Stat. 2344, 2447; Pub. L. 117–263, div. E, title LV, §5555(a), Dec. 23, 2022, 136 Stat. 3342.)
+(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268; Pub. L. 116–92, div. F, title LXXII, §7217(b), Dec. 20, 2019, 133 Stat. 2269; Pub. L. 117–81, div. E, title LI, §5102(b), div. F, title LXVI, §6610(c), Dec. 27, 2021, 135 Stat. 2344, 2447; Pub. L. 117–263, div. E, title LV, §5555(a), Dec. 23, 2022, 136 Stat. 3342; Pub. L. 118–159, div. G, title LXXVIII, §7808, Dec. 23, 2024, 138 Stat. 2562.)
 
 #### <b>Editorial Notes</b>
 
@@ -178,7 +178,7 @@ Paragraph (3), referred to in subsec. (a)(4) to (7), means par. (3) of subsec. (
 
 Section 7217(a) of the Fentanyl Sanctions Act, referred to in subsec. (a)(9)(A), is section 7217(a) of Pub. L. 116–92, div. F, title LXXII, 133 Stat. 2269, which is not classified to the Code.
 
-The Controlled Substances Act, referred to in subsec. (a)(10)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title II of Pub. L. 91–513 does not itself contain a title II, but it does contain a part B, with provisions relating to controlled substance schedules, which is classifiedgenerally to part B (§811 et seq.) of subchapter I of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(11)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title II of Pub. L. 91–513 does not itself contain a title II, but it does contain a part B, with provisions relating to controlled substance schedules, which is classified generally to part B (§811 et seq.) of subchapter I of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 Section 5558 of the FENTANYL Results Act, referred to in subsec. (a)(12)(C), is section 5558 of subtitle C of title LV of div. E of Pub. L. 117–263, which is set out as a note under section 2291l of this title.
 
@@ -187,6 +187,10 @@ Section 5558 of the FENTANYL Results Act, referred to in subsec. (a)(12)(C), is 
 A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, §4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
 
 #### Amendments
+
+<b>2024</b>—Subsec. (a)(11)(A). Pub. L. 118–159, §7808(1), inserted ", xylazine," after "illicit fentanyl".
+
+Subsec. (a)(11)(D). Pub. L. 118–159, §7808(2), inserted third closing parenthesis before "; and".
 
 <b>2022</b>—Subsec. (a)(10), (11). Pub. L. 117–263, §5555(a)(1), redesignated second par. (10), relating to separate section that contains identification of the countries that are the most significant sources of illicit fentanyl and fentanyl analogues, as (11).
 
@@ -251,6 +255,4 @@ Pub. L. 102–583, §6(a), Nov. 2, 1992, 106 Stat. 4932, provided that after Sep
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

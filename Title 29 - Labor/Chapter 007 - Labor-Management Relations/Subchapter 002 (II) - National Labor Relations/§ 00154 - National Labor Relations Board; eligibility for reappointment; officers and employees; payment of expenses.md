@@ -10,7 +10,7 @@
 
 #### Codification
 
-Provisions of subsec. (a) which prescribed the basic compensation of members of the Board and the GeneralCounsel were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
+Provisions of subsec. (a) which prescribed the basic compensation of members of the Board and the General Counsel were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 In subsec. (a), "administrative law judge's" and "administrative law judge" substituted for "trial examiner's" and "trial examiner", respectively, pursuant to section 3105 of Title 5, and section 3 of Pub. L. 95–251, Mar. 27, 1978, 92 Stat. 184, which is set out as a note under section 3105 of Title 5.
 

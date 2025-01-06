@@ -24,7 +24,7 @@ Exception.—The value of the assistance provided in accordance with section 495
 
 Use of Program Income.—
 
-&emsp;(1) An eligible entity that earned income in a specified fiscal year from activities carried out pursuant to a procurement technical assistance program funded under this chapter may expend an amount of such income, not to exceed 25 percent of the cost of furnishing procurement technical assistance in such specified fiscal year, during the fiscal year following such specified fiscal year, to carry out a procurement technical assistance program funded under this chapter.
+&emsp;(1) An eligible entity that earned income in a specified fiscal year from activities carried out pursuant to a procurement technical assistance program funded under this chaptermay expend an amount of such income, not to exceed 25 percent of the cost of furnishing procurement technical assistance in such specified fiscal year, during the fiscal year following such specified fiscal year, to carry out a procurement technical assistance program funded under this chapter.
 
 &emsp;(2) An eligible entity that does not enter into a cooperative agreement with the Secretary for a fiscal year—
 
@@ -40,7 +40,7 @@ Use of Program Income.—
 
 #### Codification
 
-Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, §1872(a)(8), which had originally transferred section 2416 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to section 4956 of this title.
+Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, §1872(a)(8), which had originally transferred section 2416 of this title to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to section 4957 of this title.
 
 #### Amendments
 

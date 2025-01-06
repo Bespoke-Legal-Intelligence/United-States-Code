@@ -34,13 +34,13 @@ Substantial Misrepresentation Described.—(1) Substantial misrepresentation des
 
 &emsp;&emsp;(viii) the availability, frequency, and appropriateness of the courses of education and programs to the employment objectives that the institution states the courses and programs are designed to meet;
 
-&emsp;&emsp;(ix) the nature, age, and availability of the training devices or equipment of the institution and the appropriateness to the employment objectives that the institution statesthe courses and programs are designed to meet;
+&emsp;&emsp;(ix) the nature, age, and availability of the training devices or equipment of the institution and the appropriateness to the employment objectives that the institution states the courses and programs are designed to meet;
 
 &emsp;&emsp;(x) the number, availability, and qualifications, including the training and experience, of the faculty and other personnel of the institution;
 
 &emsp;&emsp;(xi) the availability of part-time employment or other forms of financial assistance;
 
-&emsp;&emsp;(xii) the nature and availability of any tutorial or specialized instruction, guidance and counseling, or other supplementary assistance the institution will provide students before, during, or after the completion of a course of education;
+&emsp;&emsp;(xii) the nature and availability of any tutorial or specialized instruction, guidanceand counseling, or other supplementary assistance the institution will provide students before, during, or after the completion of a course of education;
 
 &emsp;&emsp;(xiii) the nature or extent of any prerequisites established for enrollment in any course of education;
 
@@ -88,9 +88,9 @@ Limitation on Certain Commissions, Bonuses, and Other Incentive Payments.—(1) 
 
 (d)
 
-Requirement to Maintain Records.—(1) To ensure compliance with this section, any educational institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (andcopies thereof) utilized by or on behalf of the institution during the preceding two-year period. Such record shall be available for inspection by the State approving agency or the Secretary.
+Requirement to Maintain Records.—(1) To ensure compliance with this section, any educational institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding two-year period. Such record shall be available for inspection by the State approving agency or the Secretary.
 
-(2) Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print, digital, or electronic media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
+(2) Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminatedthrough print, digital, or electronic media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
 
 (e)
 
@@ -216,7 +216,7 @@ Appeals.—(1) The Secretary shall establish a process by which an educational i
 
 (ii) A decision issued pursuant to a review under subparagraph (A)(i) may not be appealed to the Secretary for review under section 7104(a) of this title.
 
-(3)(A) Not later than 30 days after the date on which the Secretary issues a final decisionunder paragraph (2)(A)(ii), the Secretary shall submit to Congress a report on such final decision.
+(3)(A) Not later than 30 days after the date on which the Secretary issues a final decision under paragraph (2)(A)(ii), the Secretary shall submit to Congress a report on such final decision.
 
 (B) A report submitted under subparagraph (A) shall include the following:
 

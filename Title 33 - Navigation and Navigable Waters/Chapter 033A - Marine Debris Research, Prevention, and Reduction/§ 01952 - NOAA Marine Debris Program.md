@@ -56,7 +56,7 @@ At the discretion of the Administrator or at the request of the Governor of an a
 
 #### (B) Waiver
 
-&emsp;&emsp;The Administrator may waive all or part of the matching requirement under subparagraph (A) if the Administrator determines that no reasonable means are availablethrough which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
+&emsp;&emsp;The Administrator may waive all or part of the matching requirement under subparagraph (A) if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
 
 #### (C) Severe marine debris events
 
@@ -74,7 +74,7 @@ At the discretion of the Administrator or at the request of the Governor of an a
 
 #### (B) Other decrees and orders
 
-&emsp;&emsp;The non-Federal share of the cost of a project carried out under this chapter may not include any money paid pursuant to, or the value of any in-kind service performed under, any other administrative order or court order.
+&emsp;&emsp;The non-Federal share of the cost of a project carried out under this chapter maynot include any money paid pursuant to, or the value of any in-kind service performed under, any other administrative order or court order.
 
 #### (4) Eligibility
 

@@ -18,7 +18,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;The term "industry" means the producers as a whole of a domestic like product, orthose producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of the product.
+&emsp;&emsp;The term "industry" means the producers as a whole of a domestic like product, or those producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of the product.
 
 #### (B) Related parties
 
@@ -310,7 +310,7 @@ For purposes of this subtitle—
 
 &emsp;For the purpose of determining the net countervailable subsidy, the administering authority may subtract from the gross countervailable subsidy the amount of—
 
-&emsp;&emsp;(A) any application fee, deposit, or similar payment paid in order to qualify for, or to receive, the benefit of the countervailable subsidy,
+&emsp;&emsp;(A) any application fee, deposit, or similar payment paid in order to qualify for, or toreceive, the benefit of the countervailable subsidy,
 
 &emsp;&emsp;(B) any loss in the value of the countervailable subsidy resulting from its deferred receipt, if the deferral is mandated by Government order, and
 
@@ -356,7 +356,7 @@ For purposes of this subtitle—
 
 #### (iii) Impact on affected domestic industry
 
-&emsp;&emsp;&emsp;In examining the impact required to be considered under subparagraph (B)(i)(III),the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
+&emsp;&emsp;&emsp;In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
 
 &emsp;&emsp;&emsp;&emsp;(I) actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
 
@@ -392,7 +392,7 @@ For purposes of this subtitle—
 
 #### (i) Nature of countervailable subsidy
 
-&emsp;&emsp;&emsp;In determining whether there is a threat of material injury, the Commission shall consider information provided to it by the administering authority regarding the nature of the countervailable subsidy granted by a foreign country (particularly whether the countervailable subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement) and the effects likely to be caused by the countervailable subsidy.
+&emsp;&emsp;&emsp;In determining whether there is a threat of material injury, the Commission shall consider information provided to it by theadministering authority regarding the nature of the countervailable subsidy granted by a foreign country (particularly whether the countervailable subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement) and the effects likely to be caused by the countervailable subsidy.
 
 #### (ii) Standard for determination
 
@@ -416,7 +416,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(VI) the potential for product-shifting if production facilities in the foreign country, which can be used to produce the subject merchandise, are currently being used to produce other products,
 
-&emsp;&emsp;&emsp;&emsp;(VII) in any investigation under this subtitle which involves imports of both a raw agricultural product (within the meaning of paragraph (4)(E)(iv)) and any product processed from such raw agricultural product, the likelihood that there will be increased imports, by reason of product shifting, if there is an affirmative determination by the Commissionunder section 1671d(b)(1) or 1673d(b)(1) of this title with respect to either the raw agricultural product or the processed agricultural product (but not both),
+&emsp;&emsp;&emsp;&emsp;(VII) in any investigation under this subtitle which involves imports of both a raw agricultural product (within the meaning of paragraph (4)(E)(iv)) and any product processed from such raw agricultural product, the likelihood that there will be increased imports, by reason of product shifting, if there is an affirmative determination by the Commission under section 1671d(b)(1) or 1673d(b)(1) of this title with respect to either the raw agricultural product or the processed agricultural product (but not both),
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
@@ -444,7 +444,7 @@ For purposes of this subtitle—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of clauses (i) and (ii) of subparagraph (C), and subject to clause (ii), the Commission shall cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;&emsp;For purposes of clauses (i) and (ii) of subparagraph (C), and subject to clause (ii), the Commission shall cumulatively assess the volume and effect of imports of thesubject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;&emsp;(I) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -850,7 +850,7 @@ For the effective date of title II of the Uruguay Round Agreements Act, referred
 
 <b>2015</b>—Par. (7)(C)(iii)(I). Pub. L. 114–27, §503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,".
 
-Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, §503(c), inserted "and" at end of subcl. (I), struck out "and" after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: "the production of the domesticlike product sold in the merchant market is not generally used in the production of that downstream article,".
+Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, §503(c), inserted "and" at end of subcl. (I), struck out "and" after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: "the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,".
 
 Par. (7)(J). Pub. L. 114–27, §503(a), added subpar. (J).
 
@@ -964,7 +964,7 @@ Par. (22). Pub. L. 103–182, §412(b)(2), added (22).
 
 Par. (23). Pub. L. 103–182, §637(b), added par. (23).
 
-<b>1990</b>—Par. (7)(C)(iv). Pub. L. 101–382, §224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market."
+<b>1990</b>—Par. (7)(C)(iv). Pub. L. 101–382, §224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read asfollows: "For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market."
 
 Par. (7)(F)(iv). Pub. L. 101–382, §224(b), substituted "(C)(iv)(II) and (v)" for "(C)(v)".
 

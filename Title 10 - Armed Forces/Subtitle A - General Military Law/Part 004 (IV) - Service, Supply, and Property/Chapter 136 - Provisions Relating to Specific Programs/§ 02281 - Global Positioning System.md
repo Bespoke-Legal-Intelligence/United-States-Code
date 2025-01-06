@@ -148,7 +148,7 @@ Covered Costs.—For purposes of this section, covered costs include costs that 
 
 &emsp;"(2) to modify, repair, or replace equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations, including with regard to the underlying platform or system in which a capability of the Global Positioning System is embedded; and
 
-&emsp;"(3) for personnel of the Department to engineer, validate, and verify that any required remediation provides the Department with the same operational capability for the affected system prior to terrestrial operation in the 1525 to 1559 megahertz or 1626.5 to 1660.5 megahertz bands of electromagnetic spectrum.
+&emsp;"(3) for personnel of the Department to engineer, validate, and verify that any required remediation provides the Department with the same operational capability for the affected system prior to terrestrialoperation in the 1525 to 1559 megahertz or 1626.5 to 1660.5 megahertz bands of electromagnetic spectrum.
 
 "(c)
 
@@ -370,7 +370,7 @@ Definitions.—In this section:
 
 #### Quarterly Reports on Global Positioning System III Space Segment, Global Positioning System Operational Control Segment, and Military Global Positioning System User Equipment Acquisition Programs
 
-Pub. L. 114–92, div. A, title XVI, §1621, Nov. 25, 2015, 129 Stat. 1109, provided that:
+Pub. L. 114–92, div. A, title XVI, §1621, Nov. 25, 2015, 129 Stat. 1109, as amended by Pub. L. 118–159, div. A, title XVI, §1606, Dec. 23, 2024, 138 Stat. 2162, provided that:
 
 "(a)
 
@@ -392,15 +392,35 @@ Elements.—Each report required by subsection (a) shall include, with respect t
 
 "(c)
 
-Briefings by Comptroller General.—The Comptroller General shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on a report submitted under subsection (a)—
+Comptroller General Review and Assessment; Briefing.—
 
-&emsp;"(1) in the case of the first such report, not later than 30 days after receiving that report; and
+&emsp;"(1)
 
-&emsp;"(2) as the Comptroller General considers appropriate thereafter.
+Requirements.—The Comptroller General shall—
+
+&emsp;&emsp;"(A) review and assess the efforts of the Department of the Air Force with respect to Global Positioning System modernization and other positioning, navigation, and timing systems; and
+
+&emsp;&emsp;"(B) provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on—
+
+&emsp;&emsp;&emsp;"(i) the progress made by the Space Force in fielding military code from the Global Positioning System (commonly known as 'M-code');
+
+&emsp;&emsp;&emsp;"(ii) the efforts the Department of the Air Force has planned or made to develop complementary or alternative solutions for M-code to obtain positioning, navigation, and timing information through new signals, systems, and subsystems; and
+
+&emsp;&emsp;&emsp;"(iii) the extent to which the military departments have developed and fielded user equipment with the ability to use M-code and complementary or alternative solutions.
+
+&emsp;"(2)
+
+Timing.—The Comptroller General shall provide to the congressional defense committees—
+
+&emsp;&emsp;"(A) not later than March 1, 2025, the briefing required by paragraph (1)(B);
+
+&emsp;&emsp;"(B) a report on the matters described in that paragraph, to be submitted on a date agreed upon at such briefing; and
+
+&emsp;&emsp;"(C) any subsequent briefing on the matters described in that paragraph, as the Comptroller General considers appropriate.
 
 "(d)
 
-Termination.—The requirement under subsection (a) shall terminate with respect to an acquisition program specified in that subsection on the dateon which that program reaches initial operational capability."
+Termination.—The requirement under subsection (a) shall terminate with respect to an acquisition program specified in that subsection on the date on which that program reaches initial operational capability."
 
 #### Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments
 

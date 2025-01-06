@@ -8,7 +8,7 @@ Establishment of Position of Assistant Secretary of Labor for Veterans' Employme
 
 (3)(A) There shall be within the Department of Labor a Deputy Assistant Secretary of Labor for Veterans' Employment and Training. The Deputy Assistant Secretary shall perform such functions as the Assistant Secretary of Labor for Veterans' Employment and Training prescribes.
 
-(B) No individual may be appointed as a Deputy Assistant Secretary of Labor for Veterans'Employment and Training unless the individual has at least five years of service in a management position as an employee of the Federal civil service or comparable service in a management position in the Armed Forces. For purposes of determining such service of an individual, there shall be excluded any service described in subparagraphs (A), (B), and (C) of section 308(d)(2) of this title.
+(B) No individual may be appointed as a Deputy Assistant Secretary of Labor for Veterans' Employment and Training unless the individual has at least five years of service in a management position as an employee of the Federal civil service or comparable service in a management position in the Armed Forces. For purposes of determining such service of an individual, there shall be excluded any service described in subparagraphs (A), (B), and (C) of section 308(d)(2) of this title.
 
 (b)
 
@@ -58,7 +58,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;&emsp;(II) whether the employee has satisfactorily completed such training by the National Veterans' Employment and Training Services Institute as the Secretary requires for purposes of paragraph (8).
 
-&emsp;(iv) Such additional information as the Secretary may require to make a determinationwith respect to awarding a grant or contract to the State.
+&emsp;(iv) Such additional information as the Secretary may require to make a determination with respect to awarding a grant or contract to the State.
 
 (B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
 
@@ -96,7 +96,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 (7) Of the amount of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for any program year, one percent shall be for the purposes of making cash awards under the program of performance incentive awards described in section 4112 of this title in the State.
 
-(8)(A) As a condition of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title, the Secretary shall require the State to require each employee hired by the State who is assigned to perform the duties of a disabled veterans' outreach program specialist or a local veterans' employment representative under this chapter to satisfactorily complete training provided by the National Veterans' Employment and Training Services Institute during the 18-month period that begins on the date on which the employee is so assigned.
+(8)(A) As a condition of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title, the Secretary shall require the State to require each employee hired by the State who is assigned to perform the duties of a disabled veterans' outreach program specialist or a localveterans' employment representative under this chapter to satisfactorily complete training provided by the National Veterans' Employment and Training Services Institute during the 18-month period that begins on the date on which the employee is so assigned.
 
 (B) For any employee described in subparagraph (A) who does not complete such training during such period, the Secretary may reduce by an appropriate amount the amount made available to the State employing that employee.
 
@@ -110,7 +110,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;&emsp;(I) Criteria applicants must satisfy to receive a certification or license described in subparagraph (B) by the State.
 
-&emsp;&emsp;(II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty inthe Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
+&emsp;&emsp;(II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
 
 &emsp;&emsp;(III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).
 

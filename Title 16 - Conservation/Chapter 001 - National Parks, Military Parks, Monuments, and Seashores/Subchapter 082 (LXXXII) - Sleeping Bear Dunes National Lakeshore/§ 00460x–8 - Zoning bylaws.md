@@ -28,7 +28,7 @@ Any zoning bylaw or amendment thereto submitted to the Secretary for approval fo
 
 #### (e) Withdrawal or revocation of approval by Secretary; retroactive effect
 
-The approval of any bylaw or amendment pursuant to subsection (d) shall not be withdrawn or revoked by the Secretary for so long as such bylaw or amendment remains in effect as approved. Any such bylaw or amendment so approved shall not be retroactive in its application.
+The approval of any bylaw or amendment pursuant to subsection (d) shall not be withdrawnor revoked by the Secretary for so long as such bylaw or amendment remains in effect as approved. Any such bylaw or amendment so approved shall not be retroactive in its application.
 
 (Pub. L. 91–479, §9, Oct. 21, 1970, 84 Stat. 1078.)
 

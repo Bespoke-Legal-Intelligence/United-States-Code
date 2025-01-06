@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) by substituting "$10,000,000" for "$1,000,000" in paragraph (1), and
 
-&emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amountof a prior outstanding issue described in paragraph (2).
+&emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amount of a prior outstanding issue described in paragraph (2).
 
 #### (B) Facilities taken into account
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) required by a change made after the date of issue of the issue in question in a Federal or State law or local ordinance of general application or required by a change made after such date in rules and regulations of general application issued under such a law or ordinance,
 
-&emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account under this clause with respect to any issue shall not exceed $1,000,000), or
+&emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on suchdate of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account under this clause with respect to any issue shall not exceed $1,000,000), or
 
 &emsp;&emsp;&emsp;(iv) described in clause (i) or (ii) of section 41(b)(2)(A) for which a deduction was allowed under section 174(a),
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall not apply to any issue if the aggregate authorized face amount of such issue allocated to any test-period beneficiary (when increased by the outstanding tax-exempt facility-related bonds of such beneficiary) exceeds $40,000,000.
+&emsp;&emsp;This subsection shall not apply to any issue if the aggregate authorized faceamount of such issue allocated to any test-period beneficiary (when increased by the outstanding tax-exempt facility-related bonds of such beneficiary) exceeds $40,000,000.
 
 #### (B) Outstanding tax-exempt facility-related bonds
 
@@ -210,7 +210,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
+&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in themanufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
 
 #### (ii) Certain facilities included
 
@@ -374,7 +374,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) no owner or user of property located in the financed area is subject to a charge or fee which similarly situated owners or users of comparable property located outside such area are not subject, and
 
-&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differ from the assessment method or rate of real property taxes with respect to comparable property located outside such area.
+&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differfrom the assessment method or rate of real property taxes with respect to comparable property located outside such area.
 
 > &emsp;For purposes of the preceding sentence, the term "comparable property" means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
 
@@ -416,7 +416,7 @@ A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, P
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls.\(ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence of this subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls. (ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence of this subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
 
 &emsp;"(i) such facilities are located on the same site as the manufacturing facility, and
 

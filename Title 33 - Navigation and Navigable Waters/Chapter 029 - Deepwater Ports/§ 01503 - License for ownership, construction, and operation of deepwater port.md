@@ -78,7 +78,7 @@ To promote the security of the United States, the Secretary shall give top prior
 
 The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch.758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 

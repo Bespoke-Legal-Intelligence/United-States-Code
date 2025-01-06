@@ -4,7 +4,7 @@
 
 &emsp;(1) Donation, sale, or other disposition for disaster or other relief purposes outside the United States pursuant to and subject to the limitations of subchapter III of chapter 41 of this title;
 
-&emsp;(2) Sale or barter (including barter for strategic materials) to develop new or expanded markets for American agricultural commodities, including but not limited to dispositionpursuant to and subject to the limitations of subchapter II of chapter 41 of this title;
+&emsp;(2) Sale or barter (including barter for strategic materials) to develop new or expanded markets for American agricultural commodities, including but not limited to disposition pursuant to and subject to the limitations of subchapter II of chapter 41 of this title;
 
 &emsp;(3) Donation to school-lunch programs;
 
@@ -42,5 +42,5 @@ Technical change in meaning of reference in original act which appears in subsec
 
 #### Executive Order No. 10601
 
-Ex. Ord. No. 10601, Mar. 21, 1955, 20 F.R. 1761, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for administration of the commodity set-aside program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 10601, Mar. 21, 1955, 20 F.R. 1761, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148,July 20, 1979, 44 F.R. 43239, which provided for administration of the commodity set-aside program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

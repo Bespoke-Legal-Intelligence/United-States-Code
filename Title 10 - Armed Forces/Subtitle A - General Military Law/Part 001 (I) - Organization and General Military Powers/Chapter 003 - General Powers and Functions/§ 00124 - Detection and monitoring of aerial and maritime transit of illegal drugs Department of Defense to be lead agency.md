@@ -34,6 +34,14 @@ A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Support for Counterdrug Activities Affecting Flow of Drugs Into the United States
+
+Pub. L. 118–159, div. A, title X, §1011, Dec. 23, 2024, 138 Stat. 2050, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary shall prescribe Department-wide guidance that establishes support for counterdrug activities and programs affecting the flow of drugs into the United States as the principal foreign counterdrug program priority of the Department."
+
+#### Authority for Detection and Monitoring of Illegal Drugs Regardless of Destination
+
+Pub. L. 118–159, div. A, title X, §1012, Dec. 23, 2024, 138 Stat. 2050, provided that: "In conducting detection and monitoring of illegal drugs under section 124 of title 10, United States Code, the Joint Interagency Task Force South may conduct detection and monitoring of vessels or aircraft transiting illegal drugs in the air and maritime domains within the established joint operating area of such task force regardless of the destination of the illegal drugs."
+
 #### Condition on Development of Forward Operating Locations for United States Southern Command Counter-Drug Detection and Monitoring Flights
 
 Pub. L. 106–65, div. A, title X, §1024, Oct. 5, 1999, 113 Stat. 748, provided that:
@@ -92,7 +100,7 @@ Limitation on Obligation of Funds.—(1) Except as provided in paragraph (2), no
 
 Definition.—For purposes of this section, the term 'counter-drug detection and monitoring systems' means land-, air-, and sea-based detection and monitoring systems suitable for use by the Department of Defense in the performance of its mission—
 
-&emsp;"(1) under section 124(a) of title 10, United States Code, as lead agency of the Federal Government forthe detection and monitoring of the aerial and maritime transit of illegal drugs into the United States; and
+&emsp;"(1) under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of the aerial and maritime transit of illegal drugs into the United States; and
 
 &emsp;"(2) to provide support to law enforcement agencies in the detection, monitoring, and communication of the movement of traffic at, near, and outside the geographic boundaries of the United States."
 

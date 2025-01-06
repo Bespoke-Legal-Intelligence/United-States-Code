@@ -208,5 +208,5 @@ Public comment.—The Secretary shall implement the amendments made by this sect
 
 "(2)
 
-Timing.—A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
+Timing.—A proposed rule implementing the amendments made by this section shall be publishednot later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
 

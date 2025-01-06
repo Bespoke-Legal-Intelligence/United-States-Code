@@ -28,7 +28,7 @@
 
 #### (2) Information required for coordinated care plans before 2006
 
-&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title for a yearbefore 2006, the information described in this paragraph is as follows:
+&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title for a year before 2006, the information described in this paragraph is as follows:
 
 #### (A) Basic (and additional) benefits
 
@@ -140,7 +140,7 @@
 
 #### (iii) Noninterference
 
-&emsp;&emsp;&emsp;In order to promote competition under this part and part D and in carrying out such parts, the Secretary may not require any MA organization to contract with a particular hospital, physician, or other entity or individual to furnish items and services under this subchapter or require a particular price structure for payment under such a contract to the extent consistent with the Secretary's authority under this part.
+&emsp;&emsp;&emsp;In order to promote competition under this part and part D and in carrying out such parts, the Secretary may not require any MA organization to contract with a particular hospital, physician, or other entity or individual to furnish items and services under this subchapter or require a particular price structure for paymentunder such a contract to the extent consistent with the Secretary's authority under this part.
 
 #### (iv) Exception
 
@@ -218,7 +218,7 @@
 
 #### (vii) Disclosure relating to rebates
 
-&emsp;&emsp;&emsp;The plan shall disclose to the Secretary information on the form and amount of the rebate provided under this subparagraph or the actuarial value in the case of supplemental health care benefits.
+&emsp;&emsp;&emsp;The plan shall disclose to the Secretary information on the form and amount ofthe rebate provided under this subparagraph or the actuarial value in the case of supplemental health care benefits.
 
 #### (viii) Application of part B premium reduction
 
@@ -624,7 +624,7 @@ Repeal of sections 3201 and 3203 of Pub. L. 111–148 and the amendments made by
 
 Pub. L. 111–148, title III, §3201(d)(3), Mar. 23, 2010, 124 Stat. 445, which provided that amendments by section 3201(d) of Pub. L. 111–148 (amending this section) would apply to bid amounts submitted on or after Jan. 1, 2012, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
 
-Pub. L. 111–148, title III, §3209(c), Mar. 23, 2010, 124 Stat. 460, provided that: "The amendments made by this section \[amending this section and section 1395w–111 of this title\] shall apply to bids submitted for contract years beginning on or after January 1, 2011."
+Pub. L. 111–148, title III, §3209(c), Mar. 23, 2010, 124 Stat. 460, provided that: "The amendments made bythis section \[amending this section and section 1395w–111 of this title\] shall apply to bids submitted for contract years beginning on or after January 1, 2011."
 
 #### Effective Date of 2003 Amendment
 

@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the payor of a designated distribution (as defined in subsection (e)(1)) shall withhold, and be liable for, payment of the tax required to be withheld under this section.
+&emsp;Except as provided in paragraph (2), the payor of a designated distribution (as definedin subsection (e)(1)) shall withhold, and be liable for, payment of the tax required to be withheld under this section.
 
 #### (2) Plan administrator liable in certain cases
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (ii) Nonperiodic distributions
 
-&emsp;&emsp;&emsp;The payor of any nonperiodic distribution shall transmit to the payee notice of the right to make any election provided in subsection (b) at the time of the distribution (or at such earlier time as may be provided in regulations).
+&emsp;&emsp;&emsp;The payor of any nonperiodic distribution shall transmit to the payee notice ofthe right to make any election provided in subsection (b) at the time of the distribution (or at such earlier time as may be provided in regulations).
 
 #### (iii) Notice
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 102–318, §522(b)(1), (2)(C), redesignated subsec. (c) as
 
 Pub. L. 102–318, §521(b)(40), substituted "(b)(2)" for "(b)(3)" in par. (13)(A).
 
-Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares."
+Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3))and cash (not in excess of $200) in lieu of fractional shares."
 
 Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined "qualified total distribution" and provided special rule for accumulated deductible employee contributions in determining qualified total distribution.
 

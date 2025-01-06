@@ -46,7 +46,7 @@ Transcript.—The testimony of a person deposed under this subsection shall be t
 
 &emsp;(6)
 
-Foreign country.—The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. A deposition shall be filed with the Secretary promptly.
+Foreign country.—The testimony of a witness who is in a foreign country may be taken by deposition before an officer or persondesignated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. A deposition shall be filed with the Secretary promptly.
 
 (e)
 

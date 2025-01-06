@@ -70,13 +70,15 @@ Repayment.—A member who receives assignment or special duty pay under this sec
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2024.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2025.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(7), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(7), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(8), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, titleVI, §614(8), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(8), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(8), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(7), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(7), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(7), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(7), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(7), 603(a), Dec. 23, 2022, 136 Stat. 2620; Pub. L. 118–31, div. A, title VI, §613(d)(7), Dec. 22, 2023, 137 Stat. 292.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(7), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(7), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(8), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(8), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(8), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(8), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(7), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(7), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(7), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(7), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(7), 603(a), Dec. 23, 2022, 136 Stat. 2620; Pub. L. 118–31, div. A, title VI, §613(d)(7), Dec. 22, 2023, 137 Stat. 292; Pub. L. 118–159, div. A, title VI, §611(d)(7), Dec. 23, 2024, 138 Stat. 1932.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2024</b>—Subsec. (g). Pub. L. 118–159 substituted "December 31, 2025" for "December 31, 2024".
 
 <b>2023</b>—Subsec. (g). Pub. L. 118–31 substituted "December 31, 2024" for "December 31, 2023".
 
@@ -172,7 +174,7 @@ Elements.—The study required under paragraph (1) shall include the following:
 
 &emsp;"(3)
 
-Report.—Upon completion of the study required under paragraph (1), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House ofRepresentatives a report on the findings of the study and recommendations for actions the Commandant \[of the Coast Guard\] should take to improve the health and exposure of marine inspectors and marine investigators.
+Report.—Upon completion of the study required under paragraph (1), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study and recommendations for actions the Commandant \[of the Coast Guard\] should take to improve the health and exposure of marine inspectors and marine investigators.
 
 "(d)
 

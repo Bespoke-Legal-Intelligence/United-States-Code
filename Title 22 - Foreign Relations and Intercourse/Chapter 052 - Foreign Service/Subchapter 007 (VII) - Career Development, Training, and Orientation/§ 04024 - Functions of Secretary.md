@@ -54,7 +54,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Codification
 
-In subsec. (a)(5), "sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(5), "sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41" substituted for "section3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

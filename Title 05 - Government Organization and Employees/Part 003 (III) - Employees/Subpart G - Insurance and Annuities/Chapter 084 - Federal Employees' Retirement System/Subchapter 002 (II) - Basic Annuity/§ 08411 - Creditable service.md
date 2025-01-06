@@ -72,7 +72,7 @@
 
 (e) Credit shall be allowed for periods of approved leave without pay granted an employee to serve as a full-time officer or employee of an organization composed primarily of employees (as defined by section 8331(1) or 8401(11)), subject to the employee arranging to pay, through the employee's employing agency, within 60 days after commencement of such leave without pay, amounts equal to the retirement deductions and agency contributions which would be applicable under sections 8422(a) and 8423(a), respectively, if the employee were in pay status. If the election and all payments provided by this subsection are not made, the employee may not receive credit for the periods of leave without pay, notwithstanding the third sentence of subsection (d).
 
-(f)(1) An employee or Member who has received a refund of retirement deductions under subchapter III of chapter 83 with respect to any service described in subsection (b)(2) or (b)(3) may not be allowed credit for such service under this chapter unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest. A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.
+(f)(1) An employee or Member who has received a refund of retirement deductions undersubchapter III of chapter 83 with respect to any service described in subsection (b)(2) or (b)(3) may not be allowed credit for such service under this chapter unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest. A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.
 
 (2) An employee or Member may not be allowed credit under this chapter for any service described in subsection (b)(3) for which retirement deductions under subchapter III of chapter 83 have not been made, unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest.
 
@@ -180,7 +180,7 @@ Subsec. (k). Pub. L. 107–107, §1132(b)(1)(B), added subsec. (k).
 
 Subsec. (i). Pub. L. 106–168, §202(a)(2), added subsec. (i) defining "Bank Plan" for purposes of subsec. (b)(5).
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted "Except as providedin paragraphs (2), (3), and (5)" for "Except as provided in paragraph (2) or (3)".
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted "Except as provided in paragraphs (2), (3), and (5)" for "Except as provided in paragraph (2) or (3)".
 
 Subsec. (c)(5). Pub. L. 104–201, §637(b)(1), added par. (5).
 
@@ -392,7 +392,7 @@ Retroactive effect.—Any computation or recomputation of an annuity or survivor
 
 &emsp;&emsp;"(D)
 
-Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
+Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (asthe case may be) shall be payable in the form of a lump-sum payment.
 
 &emsp;&emsp;"(E)
 

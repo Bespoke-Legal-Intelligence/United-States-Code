@@ -16,7 +16,7 @@ Submittal of Claims by Health Care Entities and Providers.—A health care entit
 
 (c)
 
-Fraudulent Claims.—(1) Sections 3729 through 3733 of title 31 shall apply to fraudulent claims for payment submitted to the Secretary by a health care entity or provider under this chapter.
+Fraudulent Claims.—(1) Sections 3729 through 3733 of title 31 shall apply to fraudulent claims for payment submitted to the Secretaryby a health care entity or provider under this chapter.
 
 (2) Pursuant to regulations prescribed by the Secretary, the Secretary shall bar a health care entity or provider from furnishing hospital care, medical services, and extended care services under this chapter when the Secretary determines the entity or provider has submitted to the Secretary fraudulent health care claims for payment by the Secretary.
 
@@ -82,7 +82,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
 
-&emsp;(2) The term "clean electronic claim" means the transmission of data for purposes of payment of covered health care expenses that is submitted to the Secretary which contains substantially all of the required data elements necessary for accurate adjudication, without obtaining additional information from the entity or provider that furnished the care or service, submitted in such format as prescribed by the Secretary in regulations for the purpose of paying claims for care or services.
+&emsp;(2) The term "clean electronic claim" means the transmission of data for purposes of payment of covered health care expenses that is submitted to the Secretary which contains substantially all of the required data elements necessary for accurate adjudication, withoutobtaining additional information from the entity or provider that furnished the care or service, submitted in such format as prescribed by the Secretary in regulations for the purpose of paying claims for care or services.
 
 &emsp;(3) The term "clean paper claim" means a paper claim for payment of covered health care expenses that is submitted to the Secretary which contains substantially all of the required data elements necessary for accurate adjudication, without obtaining additional information from the entity or provider that furnished the care or service, submitted in such format as prescribed by the Secretary in regulations for the purpose of paying claims for care or services.
 
